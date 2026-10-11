@@ -33,21 +33,21 @@ According to data from Oceanbolt, around 185 million tonnes of fertilisers are s
 ![Ch1](assets/2021-11-16_the-global-fertilizer-trade-under-pressure-in-the-wake-of-the-energy-crisis_img_ch1_8724807060df.png)
 
 > **Figure 1: Ch1**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2021/assets/2021-11-16_the-global-fertilizer-trade-under-pressure-in-the-wake-of-the-energy-crisis_img_ch1_8724807060df.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-11-16_the-global-fertilizer-trade-under-pressure-in-the-wake-of-the-energy-crisis_img_ch1_8724807060df.png)
 
 Assuming linearity, export volumes year-to-date suggest that 2021 will surpass the previous record from 2018. The rather simplistic approach indicates that approximately 194 million tonnes of fertilisers will be shipped onboard bulkers during the year, some three million tonnes more than three years ago. However, while volumes remained strong during October, the exports during the current month show weakness compared to previous years. With half of the month behind us, the seven million tonnes shipped would imply the total monthly volumes are some twelve per cent below the same month last year.
 
 ![Ch2](assets/2021-11-16_the-global-fertilizer-trade-under-pressure-in-the-wake-of-the-energy-crisis_img_ch2_3c25cfca8049.png)
 
 > **Figure 2: Ch2**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2021/assets/2021-11-16_the-global-fertilizer-trade-under-pressure-in-the-wake-of-the-energy-crisis_img_ch2_3c25cfca8049.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-11-16_the-global-fertilizer-trade-under-pressure-in-the-wake-of-the-energy-crisis_img_ch2_3c25cfca8049.png)
 
 The slowdown in export activities indicates that the global energy crisis is starting to affect fertiliser production and exports. If the pattern remains in place for the remainder of the year, export volumes may fail, albeit marginally, to match the yearly record from 2018. A continued reduction in the seaborne transportation of fertilisers would chiefly affect the demand in the Supramax and Handysize segments, which between them account for almost ninety per cent of the trade. Of the two vessel types, Supramaxes have become increasingly dominant at the expense of their smaller siblings. In recent years, Supramaxes have carried around half of the fertilisers that do not see the inside of a container. Hence, a reduction in seaborne exports could put pressure on freight rates in the smaller tonnage segments. The fertiliser trade accounts for approximately eight per cent of the Supramaxes’ annual volumes and ten per cent for the smallest tonnage. The restrictions on Chinese and Russian exports may also alter existing trade flows, as key buyers, such as Brazil and India, are forced to look for alternative sources.
 
 ![Ch3](assets/2021-11-16_the-global-fertilizer-trade-under-pressure-in-the-wake-of-the-energy-crisis_img_ch3_19a9258040b2.png)
 
 > **Figure 3: Ch3**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2021/assets/2021-11-16_the-global-fertilizer-trade-under-pressure-in-the-wake-of-the-energy-crisis_img_ch3_19a9258040b2.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-11-16_the-global-fertilizer-trade-under-pressure-in-the-wake-of-the-energy-crisis_img_ch3_19a9258040b2.png)
 
 ---
 

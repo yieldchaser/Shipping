@@ -78,14 +78,33 @@ We don't wish to be a Pollyanna, but we don't see evidence of a slide in economi
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: What Me Worry?](../../../charts/poten/2005/poten_2005-04-22_what-me-worry_chart1.png)
+![Exhibit 2: Inventory to Sales Ratio](../../../charts/poten/2005/poten_2005-04-22_what-me-worry_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2005/poten_2005-04-22_what-me-worry_chart1.png)
+> **Exhibit 2: Inventory to Sales Ratio**  
+> Unit: Ratio · X-axis: 1996 to 2005  
+> Series: Inventory to Sales Ratio  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2005/poten_2005-04-22_what-me-worry_chart2.png)
 
-![Exhibit 2: What Me Worry?](../../../charts/poten/2005/poten_2005-04-22_what-me-worry_chart2.png)
+![Exhibit 3: U.S. International Trade in Goods and Services](../../../charts/poten/2005/poten_2005-04-22_what-me-worry_chart3.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2005/poten_2005-04-22_what-me-worry_chart2.png)
+> **Exhibit 3: U.S. International Trade in Goods and Services**  
+> Unit: Billions $ · X-axis: February 2003 to February 2005  
+> Series: Imports, Balance, Exports  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2005/poten_2005-04-22_what-me-worry_chart3.png)
 
-![Exhibit 3: What Me Worry?](../../../charts/poten/2005/poten_2005-04-22_what-me-worry_chart3.png)
+> **Chart on PDF page 1: U.S. Consumer Price Index**  
+> X-axis: Jan-00 to Jan-05  
+> Series: U.S. Consumer Price Index, Is this transient, too?, Times of Accelerated Inflation  
+> *Source: U.S. Dept. of Labor/Poten*  
+> *No image crop of this chart was saved; caption read from the PDF.*
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2005/poten_2005-04-22_what-me-worry_chart3.png)
+> **Chart on PDF page 2: Short and Long Term U.S. Treasury Yields**  
+> Unit: Percent · X-axis: Jan-00 to Jan-05  
+> Series: 10-Year, 30-Day  
+> *No image crop of this chart was saved; caption read from the PDF.*
+
+> **Chart on PDF page 3: U.S. GDP (Constant 2000 $)**  
+> Unit: Trillions 2000$ · X-axis: Jan-00 to Jul-04  
+> Series: U.S. GDP  
+> *Source: Federal Reserve/Poten*  
+> *No image crop of this chart was saved; caption read from the PDF.*

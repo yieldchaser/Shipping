@@ -19,15 +19,15 @@ source_file: "corpus/03-breakwave/insights/2023/2023-12-05_9lkdvuaq27e30msiugo52
 
 ---
 
-![Homepage+banner+1 (1)](assets/2023-12-05_9lkdvuaq27e30msiugo52tztpvti3c_img_homepage2bbanner2b128129_5d7211685255.png)
+![Homepage+banner+1 (1)](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-12-05_9lkdvuaq27e30msiugo52tztpvti3c_img_homepage2bbanner2b128129_5d7211685255.png)
 
 > **Figure 1: Homepage+banner+1 (1)**  
-> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/breakwave-day-2023) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-12-05_9lkdvuaq27e30msiugo52tztpvti3c_img_homepage2bbanner2b128129_5d7211685255.png)
+> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/breakwave-day-2023) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-12-05_9lkdvuaq27e30msiugo52tztpvti3c_img_homepage2bbanner2b128129_5d7211685255.png)
 
-[![Homepage2bbutton](assets/2023-12-05_9lkdvuaq27e30msiugo52tztpvti3c_img_homepage2bbutton28129_1d014100cc65.png)
+[![Homepage2bbutton](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-12-05_9lkdvuaq27e30msiugo52tztpvti3c_img_homepage2bbutton28129_1d014100cc65.png)
 
 > **Figure 2: Homepage2bbutton**  
-> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/search/results/all/?fetchDeterministicClustersOnly=true&heroEntityKey=urn%3Ali%3Afsd_profile%3AACoAABLKb1YBSSkHNePCJagWajiyco7RH63bTuY&keywords=serena%20huang&origin=RICH_QUERY_SUGGESTION&position=0&searchId=47869d15-a8e4-4e02-b0c5-cc4693f36d92&sid=PBn&spellCorrectionEnabled=false) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-12-05_9lkdvuaq27e30msiugo52tztpvti3c_img_homepage2bbutton28129_1d014100cc65.png)](https://www.breakwaveadvisors.com/breakwave-day-2023)
+> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/search/results/all/?fetchDeterministicClustersOnly=true&heroEntityKey=urn%3Ali%3Afsd_profile%3AACoAABLKb1YBSSkHNePCJagWajiyco7RH63bTuY&keywords=serena%20huang&origin=RICH_QUERY_SUGGESTION&position=0&searchId=47869d15-a8e4-4e02-b0c5-cc4693f36d92&sid=PBn&spellCorrectionEnabled=false) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-12-05_9lkdvuaq27e30msiugo52tztpvti3c_img_homepage2bbutton28129_1d014100cc65.png)](https://www.breakwaveadvisors.com/breakwave-day-2023)
 
 ## Russia’s Fuel Oil Exports Are Facing Growing Headwinds As More Middle East and West of Suez Supplies Head Towards Asia.
 
@@ -39,18 +39,20 @@ According to Vortexa’s data, Asia accounted for over 70% of Russia’s fuel oi
 
 In terms of Russian fuel oil distribution within Asia, arrivals into Singapore set a record of 200kbd in November, with 60% of the volume discharging into offshore floating storage in Tanjung Pelepas. Imports into India are up for the fourth consecutive month this month, while volumes to China have reversed the dip seen in October.
 
-![Russian Fuel Oil Arrivals by Destination Region (Mbd](assets/2023-12-05_9lkdvuaq27e30msiugo52tztpvti3c_img_russia-fuel-oil-arrivals-1_08681f8d5836.png)
+![Russian Fuel Oil Arrivals by Destination Region (Mbd](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-12-05_9lkdvuaq27e30msiugo52tztpvti3c_img_russia-fuel-oil-arrivals-1_08681f8d5836.png)
 
 > **Figure 3: Russian Fuel Oil Arrivals by Destination Region (Mbd**  
 > *Russian fuel oil arrivals by destination region (mbd, LHS)andpercentage share to Asia (%, RHS)*  
-> **Interactive Data & Source:** [Analytics Vortexa](https://analytics.vortexa.com/?dateRange=2021-01-01T00%3A00%3A00.000Z__2023-11-28T23%3A59%3A59.999Z&filtersEnabled=%5B%22p%22%2C%22o%22%2C%22d%22%2C%22d_r%22%2C%22v%22%2C%22intra_d%22%2C%22sts_o%22%2C%22c_o%22%2C%22w%22%5D&from=%5B%22b996521be9c996db3560ca234a56286ac38f798d34be229437555fab4f12a6a5%22%5D&geoBreakdownDestinationGlobal=region&metric=bpd&movementEvent=unloading_start&page=Flows&products=%5B%221c107b4317bc2c85fb6c13cd7b28e8e0a02ec7fecc68afc2b68ca0545c835e1c%22%5D&tabId=ccb91766-9c10-4158-9930-ffb75a0bb743&timeSeriesProperty=destination_region&v=3) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-12-05_9lkdvuaq27e30msiugo52tztpvti3c_img_russia-fuel-oil-arrivals-1_08681f8d5836.png)
+> **Interactive Data & Source:** [Analytics Vortexa](https://analytics.vortexa.com/?dateRange=2021-01-01T00%3A00%3A00.000Z__2023-11-28T23%3A59%3A59.999Z&filtersEnabled=%5B%22p%22%2C%22o%22%2C%22d%22%2C%22d_r%22%2C%22v%22%2C%22intra_d%22%2C%22sts_o%22%2C%22c_o%22%2C%22w%22%5D&from=%5B%22b996521be9c996db3560ca234a56286ac38f798d34be229437555fab4f12a6a5%22%5D&geoBreakdownDestinationGlobal=region&metric=bpd&movementEvent=unloading_start&page=Flows&products=%5B%221c107b4317bc2c85fb6c13cd7b28e8e0a02ec7fecc68afc2b68ca0545c835e1c%22%5D&tabId=ccb91766-9c10-4158-9930-ffb75a0bb743&timeSeriesProperty=destination_region&v=3) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-12-05_9lkdvuaq27e30msiugo52tztpvti3c_img_russia-fuel-oil-arrivals-1_08681f8d5836.png)
 
 Higher Russian fuel oil volumes travelling longer distances to Asia have boosted Aframax tonne-mile demand, and also squeezed out Suezmax’s market share to a minimum. Aframax tonne-mile demand for Russian fuel oil are up over 150% in the week ending 26 Nov versus a month ago, accounting for 85% of the tonne-mile share. Meanwhile, the Suezmax tankers previously employed in carrying Russian fuel oil have either pivoted towards carrying Russian crude or left the Russian trade for Middle East and African trade.
 
-![Russia Fuel Oil Tonne Miles 3](assets/2023-12-05_9lkdvuaq27e30msiugo52tztpvti3c_img_russia-fuel-oil-tonne-miles-3_f2ef0117243b.png)
+Russian fuel oil tonne-mile demand by tanker class (tonne-miles)
+
+![Russia Fuel Oil Tonne Miles 3](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-12-05_9lkdvuaq27e30msiugo52tztpvti3c_img_russia-fuel-oil-tonne-miles-3_f2ef0117243b.png)
 
 > **Figure 4: Russia Fuel Oil Tonne Miles 3**  
-> **Interactive Data & Source:** [Analytics Vortexa](https://analytics.vortexa.com/?dateRange=2021-01-01T00%3A00%3A00.000Z__2023-11-28T23%3A59%3A59.999Z&frequency1=week&from=%5B%22b996521be9c996db3560ca234a56286ac38f798d34be229437555fab4f12a6a5%22%5D&latestProducts=%5B%221c107b4317bc2c85fb6c13cd7b28e8e0a02ec7fecc68afc2b68ca0545c835e1c%22%5D&page=FleetUtilisation&primarySplitProperty1=vessel_class_coarse&secondaryTimeSeries1=hide&tabId=0a5a5160-331e-429b-a9ed-46c6fa940d40&v=4) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-12-05_9lkdvuaq27e30msiugo52tztpvti3c_img_russia-fuel-oil-tonne-miles-3_f2ef0117243b.png)
+> **Interactive Data & Source:** [Analytics Vortexa](https://analytics.vortexa.com/?dateRange=2021-01-01T00%3A00%3A00.000Z__2023-11-28T23%3A59%3A59.999Z&frequency1=week&from=%5B%22b996521be9c996db3560ca234a56286ac38f798d34be229437555fab4f12a6a5%22%5D&latestProducts=%5B%221c107b4317bc2c85fb6c13cd7b28e8e0a02ec7fecc68afc2b68ca0545c835e1c%22%5D&page=FleetUtilisation&primarySplitProperty1=vessel_class_coarse&secondaryTimeSeries1=hide&tabId=0a5a5160-331e-429b-a9ed-46c6fa940d40&v=4) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-12-05_9lkdvuaq27e30msiugo52tztpvti3c_img_russia-fuel-oil-tonne-miles-3_f2ef0117243b.png)
 
 ## Rising Fuel Oil Supplies to Singapore, Will China’s Higher Fuel Oil Import Quota Help?
 

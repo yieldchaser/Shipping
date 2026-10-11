@@ -24,14 +24,14 @@ Optimism about stronger demand from China boosted sentiment across the complex. 
 
 *By*[*Daniel Hynes*](https://www.linkedin.com/in/dahynes/)
 
-![Imgστιγμιότυπο Οθόνης 2024 04 03 125241](assets/2024-04-03_strong-economic-data-boosts-sentiment_img_imgcea3cf84ceb9ceb3cebcceb9cf8ccf84c_deb1bbe9b89b.png)
+![Imgστιγμιότυπο Οθόνης 2024 04 03 125241](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-04-03_strong-economic-data-boosts-sentiment_img_imgcea3cf84ceb9ceb3cebcceb9cf8ccf84c_deb1bbe9b89b.png)
 
 > **Figure 1: Imgστιγμιότυπο Οθόνης 2024 04 03 125241**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-04-03_strong-economic-data-boosts-sentiment_img_imgcea3cf84ceb9ceb3cebcceb9cf8ccf84c_deb1bbe9b89b.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-04-03_strong-economic-data-boosts-sentiment_img_imgcea3cf84ceb9ceb3cebcceb9cf8ccf84c_deb1bbe9b89b.png)
 
 ### Market Commentary
 
-**Crude oil**prices rallied amid heightened geopolitical risks and[**signs of strong demand**](../pdfs/2024-04-03_strong-economic-data-boosts-sentiment_commodity-tracker-demand-improving_dd8f96d608ef.pdf). Iran vowed revenge on Israel for an airstrike on its embassy in Syria which killed a top commander. Hezbollah, the Lebanese militia backed by Iran, that’s launched rocket attacks on northern Israel also vowed that the strike will not go without punishment. Little sign of escalation in the Israel-Hamas war has kept the risk of supply disruptions low. However, the market is becoming increasingly concerned[the risks have risen sharply](../pdfs/2024-04-03_strong-economic-data-boosts-sentiment_commodities-in-ten-charts-supply-cur_9a0e28388a76.pdf). The geopolitical backdrop isn’t expected to prompt OPEC to change its supply policy when it meets later today. Sentiment was also bolstered by stronger than expected economic data in China. The Caixin manufacturing purchasing managers index rose to 51.1 for March, which indicates expansion for a fifth month. This should bode well for crude oil demand from the world’s biggest oil importer.
+**Crude oil**prices rallied amid heightened geopolitical risks and[**signs of strong demand**](https://research.anz.com/file/Commodity_Tracker_demand_improving.pdf?docRef=e0528eda-e275-4e70-9b81-79d3098bce73&ch=2). Iran vowed revenge on Israel for an airstrike on its embassy in Syria which killed a top commander. Hezbollah, the Lebanese militia backed by Iran, that’s launched rocket attacks on northern Israel also vowed that the strike will not go without punishment. Little sign of escalation in the Israel-Hamas war has kept the risk of supply disruptions low. However, the market is becoming increasingly concerned[the risks have risen sharply](https://research.anz.com/file/Commodities_in_Ten_Charts_supply_curbs.pdf?docRef=f6ef83e2-0317-48fa-bb07-ab03a0263c89&ch=2). The geopolitical backdrop isn’t expected to prompt OPEC to change its supply policy when it meets later today. Sentiment was also bolstered by stronger than expected economic data in China. The Caixin manufacturing purchasing managers index rose to 51.1 for March, which indicates expansion for a fifth month. This should bode well for crude oil demand from the world’s biggest oil importer.
 
 **Global gas**prices were also higher in early trading. However, prices quickly reversed as signs of slowing demand emerged. Europe’s natural gas storage withdrawal has largely eased, as attention shifts to the summer refill campaign. And with storage sites nearly 59% full, the task is significantly easier than in previous years. Nevertheless, they will have to compete with rising demand for LNG from Asia. Buyers in the**North Asian LNG**market are active, particularly in emerging markets. Still, prices at USD9/mmBtu are a little too high to spur more purchase.
 
@@ -39,10 +39,10 @@ Optimism about stronger demand from China boosted sentiment across the complex. 
 
 The strong economic data failed to halt**gold’s**rally. The prospect of interest rate remaining higher for longer were overshadowed by strong safe haven buying amid rising geopolitical risks. Gold was trading at a record high of USD2,278/oz near the end of the session.
 
-![Img Chart Στιγμιότυπο Οθόνης 2024 04 03 125440](assets/2024-04-03_strong-economic-data-boosts-sentiment_img_imgchartcea3cf84ceb9ceb3cebcceb9cf8c_83e8c28bbb64.png)
+![Img Chart Στιγμιότυπο Οθόνης 2024 04 03 125440](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-04-03_strong-economic-data-boosts-sentiment_img_imgchartcea3cf84ceb9ceb3cebcceb9cf8c_83e8c28bbb64.png)
 
 > **Figure 2: Img Chart Στιγμιότυπο Οθόνης 2024 04 03 125440**  
-> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-04-03_strong-economic-data-boosts-sentiment_img_imgchartcea3cf84ceb9ceb3cebcceb9cf8c_83e8c28bbb64.png)
+> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-04-03_strong-economic-data-boosts-sentiment_img_imgchartcea3cf84ceb9ceb3cebcceb9cf8c_83e8c28bbb64.png)
 
 Data source:[Commodities Wrap](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI)
 

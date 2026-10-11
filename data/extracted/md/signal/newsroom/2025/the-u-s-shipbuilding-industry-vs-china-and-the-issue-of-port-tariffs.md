@@ -25,10 +25,10 @@ tags:
 ## The Signal Ocean Voyages API Offers a Deep Dive Into Global versus U.s. Port Calls for Both Dry Bulk and Tanker Vessels, Providing Valuable Insights Into Which Vessel Size Segments and Commodity Types Are Most Exposed to Recent Policy Developments. in Light of These Shifts, a Critical Question Emerges:is the U.s. Shipbuilding Industry Truly Positioned to Play a Pivotal Role in the Freight Market at This Moment?
 
 
-![68010831b7c56ef4c0ea7494 Ad 4nxeyfxihnikd2fj 8mokwk8qko6qeix1gyceew7dieq7qdh75feqduyx6ure Tgvsm2xflaftkqdfqlqys3td1tgl6o8wsy 9nblufuyb7yib054rbgvazgsw2hvly8jkebtforg9w](../../images/68010831b7c56ef4c0ea7494_AD_4nXeyfXiHniKd2FJ_8MOKWk8QkO6qeix1GyCeew7DIeq7qDh75fEqdUyx6uRE-tGvSM2XflAFtkQdfqLqys3Td1tgL6o8wSY_9NblUFUYb7YiB054rBGVAzGsW2hVlY8jkEbTForG9w.png)
+![68010831b7c56ef4c0ea7494 Ad 4nxeyfxihnikd2fj 8mokwk8qko6qeix1gyceew7dieq7qdh75feqduyx6ure Tgvsm2xflaftkqdfqlqys3td1tgl6o8wsy 9nblufuyb7yib054rbgvazgsw2hvly8jkebtforg9w](../../../../../../corpus/07-signal/images/68010831b7c56ef4c0ea7494_AD_4nXeyfXiHniKd2FJ_8MOKWk8QkO6qeix1GyCeew7DIeq7qDh75fEqdUyx6uRE-tGvSM2XflAFtkQdfqLqys3Td1tgL6o8wSY_9NblUFUYb7YiB054rBGVAzGsW2hVlY8jkEbTForG9w.png)
 
 > **Figure 1: 68010831b7c56ef4c0ea7494 Ad 4nxeyfxihnikd2fj 8mokwk8qko6qeix1gyceew7dieq7qdh75feqduyx6ure Tgvsm2xflaftkqdfqlqys3td1tgl6o8wsy 9nblufuyb7yib054rbgvazgsw2hvly8jkebtforg9w**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/the-u-s-shipbuilding-industry-vs-china-and-the-issue-of-port-tariffs) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/68010831b7c56ef4c0ea7494_AD_4nXeyfXiHniKd2FJ_8MOKWk8QkO6qeix1GyCeew7DIeq7qDh75fEqdUyx6uRE-tGvSM2XflAFtkQdfqLqys3Td1tgL6o8wSY_9NblUFUYb7YiB054rBGVAzGsW2hVlY8jkEbTForG9w.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/the-u-s-shipbuilding-industry-vs-china-and-the-issue-of-port-tariffs) | [Local Asset](../../../../../../corpus/07-signal/images/68010831b7c56ef4c0ea7494_AD_4nXeyfXiHniKd2FJ_8MOKWk8QkO6qeix1GyCeew7DIeq7qDh75fEqdUyx6uRE-tGvSM2XflAFtkQdfqLqys3Td1tgL6o8wSY_9NblUFUYb7YiB054rBGVAzGsW2hVlY8jkEbTForG9w.png)
 
 
 ## Introduction
@@ -48,10 +48,10 @@ The United States has a rich history in shipbuilding, particularly in the milita
 In contrast, China has emerged as the dominant force in global commercial shipbuilding, accounting for 45% of the dry bulk fleet’s newbuild orders, according to Signal Ocean data. This leadership is supported by substantial state subsidies, low labor costs, and an expansive industrial ecosystem. Chinese yards are renowned for their cost efficiency and rapid delivery times, attracting global demand—including from U.S. shipowners. Beyond hull construction, China also exports a wide array of ship components, from engines to maritime electronics, reinforcing its central role in the maritime supply chain. While Japan remains highly competitive in dry bulk construction (42%), South Korea leads the tanker segment with a 53% share—demonstrating regional specialization and deliberate industrial policy. As of 2025, the global tanker fleet (VLCC, Suezmax, Aframax, Panamax, MR2, MR1) is approximately 6,000+ vessels. (as depicted in the image below) China accounts for 22% of the global tanker shipbuilding market, meaning roughly 1 in 5 tanker vessels in the current fleet is likely Chinese-built. Signal Ocean’s tools, including the Voyages API, allow stakeholders to **find vessels** by shipyard origin, flag, and segment—providing valuable visibility into how exposed a fleet is to fee-related risks.
 
 
-![China’s Commanding Lead in Global Shipbuilding](../../images/68010831c5475ff4841284a7_AD_4nXeGfS4f2FbJqYATZM67V7RlD6VYXWiXrEpGeaC3j6jqCgEyjCs8YX148ud2F-W7I_XG1afCOMrt3vzg2gaQ6eREzkWbH0aPyv02sM6wl-oT0vBpJ3EEikaW8bC91o_qvegPs1R_.png)
+![China’s Commanding Lead in Global Shipbuilding](../../../../../../corpus/07-signal/images/68010831c5475ff4841284a7_AD_4nXeGfS4f2FbJqYATZM67V7RlD6VYXWiXrEpGeaC3j6jqCgEyjCs8YX148ud2F-W7I_XG1afCOMrt3vzg2gaQ6eREzkWbH0aPyv02sM6wl-oT0vBpJ3EEikaW8bC91o_qvegPs1R_.png)
 
 > **Figure 2: China’s Commanding Lead in Global Shipbuilding**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/the-u-s-shipbuilding-industry-vs-china-and-the-issue-of-port-tariffs) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/68010831c5475ff4841284a7_AD_4nXeGfS4f2FbJqYATZM67V7RlD6VYXWiXrEpGeaC3j6jqCgEyjCs8YX148ud2F-W7I_XG1afCOMrt3vzg2gaQ6eREzkWbH0aPyv02sM6wl-oT0vBpJ3EEikaW8bC91o_qvegPs1R_.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/the-u-s-shipbuilding-industry-vs-china-and-the-issue-of-port-tariffs) | [Local Asset](../../../../../../corpus/07-signal/images/68010831c5475ff4841284a7_AD_4nXeGfS4f2FbJqYATZM67V7RlD6VYXWiXrEpGeaC3j6jqCgEyjCs8YX148ud2F-W7I_XG1afCOMrt3vzg2gaQ6eREzkWbH0aPyv02sM6wl-oT0vBpJ3EEikaW8bC91o_qvegPs1R_.png)
 
 
 ## Prospects for a U.s. Shipbuilding Revival
@@ -104,10 +104,10 @@ In 2024, there were a total of 640,305 global port calls, of which 18,386 occurr
 - Chinese-built ships accounted for 6,480 U.S. port calls, or 35.24% of total U.S. port activity
 
 
-![U.s. Port Activity Overview](../../images/680108311b634dd2aa94b2ea_AD_4nXcNKMK3gGgogAMFGnza5U8Yzlzrexok56vjvAseRwVJsT09bt6rTEB8xggE9ne620nN2rva_vvo54wYjMyOmyq2uqp6s8GYAohulVxx5yOg0y3qYIbnxJGhsMpMsgQAfOS00WhWpg.png)
+![U.s. Port Activity Overview](../../../../../../corpus/07-signal/images/680108311b634dd2aa94b2ea_AD_4nXcNKMK3gGgogAMFGnza5U8Yzlzrexok56vjvAseRwVJsT09bt6rTEB8xggE9ne620nN2rva_vvo54wYjMyOmyq2uqp6s8GYAohulVxx5yOg0y3qYIbnxJGhsMpMsgQAfOS00WhWpg.png)
 
 > **Figure 3: U.s. Port Activity Overview**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/the-u-s-shipbuilding-industry-vs-china-and-the-issue-of-port-tariffs) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/680108311b634dd2aa94b2ea_AD_4nXcNKMK3gGgogAMFGnza5U8Yzlzrexok56vjvAseRwVJsT09bt6rTEB8xggE9ne620nN2rva_vvo54wYjMyOmyq2uqp6s8GYAohulVxx5yOg0y3qYIbnxJGhsMpMsgQAfOS00WhWpg.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/the-u-s-shipbuilding-industry-vs-china-and-the-issue-of-port-tariffs) | [Local Asset](../../../../../../corpus/07-signal/images/680108311b634dd2aa94b2ea_AD_4nXcNKMK3gGgogAMFGnza5U8Yzlzrexok56vjvAseRwVJsT09bt6rTEB8xggE9ne620nN2rva_vvo54wYjMyOmyq2uqp6s8GYAohulVxx5yOg0y3qYIbnxJGhsMpMsgQAfOS00WhWpg.png)
 
 
 #### Segment Exposure: Vessel Class Analysis
@@ -127,20 +127,20 @@ Even if only a portion of these Chinese-built vessel calls are subjected to the 
 Here's a chart visualising the implications of U.S. port fees on Chinese-built dry bulk vessels, ranked by estimated impact level (1 = Low, 5 = High). Key takeaways:
 
 
-![Potential Cost Implications](../../images/6801083162891f7d387468a0_AD_4nXeUm2m3CPoaTFQ89W83kBCZmrHsfgxeYpDuUqjGj96i5ssnpc15pqd7bCJ3-Q9vNnPsgsDb84lvC2E51W7QkXS1jlUlLBAEdXcHLyLZy5w8cGy0-4DyEzbjyyF7jMHB-PyOFRYFGQ.png)
+![Potential Cost Implications](../../../../../../corpus/07-signal/images/6801083162891f7d387468a0_AD_4nXeUm2m3CPoaTFQ89W83kBCZmrHsfgxeYpDuUqjGj96i5ssnpc15pqd7bCJ3-Q9vNnPsgsDb84lvC2E51W7QkXS1jlUlLBAEdXcHLyLZy5w8cGy0-4DyEzbjyyF7jMHB-PyOFRYFGQ.png)
 
 > **Figure 4: Potential Cost Implications**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/the-u-s-shipbuilding-industry-vs-china-and-the-issue-of-port-tariffs) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6801083162891f7d387468a0_AD_4nXeUm2m3CPoaTFQ89W83kBCZmrHsfgxeYpDuUqjGj96i5ssnpc15pqd7bCJ3-Q9vNnPsgsDb84lvC2E51W7QkXS1jlUlLBAEdXcHLyLZy5w8cGy0-4DyEzbjyyF7jMHB-PyOFRYFGQ.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/the-u-s-shipbuilding-industry-vs-china-and-the-issue-of-port-tariffs) | [Local Asset](../../../../../../corpus/07-signal/images/6801083162891f7d387468a0_AD_4nXeUm2m3CPoaTFQ89W83kBCZmrHsfgxeYpDuUqjGj96i5ssnpc15pqd7bCJ3-Q9vNnPsgsDb84lvC2E51W7QkXS1jlUlLBAEdXcHLyLZy5w8cGy0-4DyEzbjyyF7jMHB-PyOFRYFGQ.png)
 
 The primary concerns stemming from the proposed tax on Chinese-built vessels include higher freight rates, reduced export competitiveness, and increased pressure on U.S. grain exports. These factors could significantly impact trade flows and the economic viability of key export sectors. Moderate risks include potential disruption in chartering activity, the need for fleet repositioning, and the limited availability of alternative tonnage to replace Chinese-built ships. While the policy may offer a long-term boost to U.S. shipbuilding, current capacity constraints limit the potential for immediate benefits. Additionally, the risk of trade retaliation looms, particularly if other countries respond with countermeasures, further escalating tensions and uncertainty in global trade.
 
 Here’s the **visual dashboard** for the **dry bulk segment**, showing the projected impact of the U.S. port fees on **Chinese-built vessels** in 2024:
 
 
-![Potential Cost Implications](../../images/680127afd74e685c8ae6dec9_image.png)
+![Potential Cost Implications](../../../../../../corpus/07-signal/images/680127afd74e685c8ae6dec9_image.png)
 
 > **Figure 5: Potential Cost Implications**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/the-u-s-shipbuilding-industry-vs-china-and-the-issue-of-port-tariffs) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/680127afd74e685c8ae6dec9_image.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/the-u-s-shipbuilding-industry-vs-china-and-the-issue-of-port-tariffs) | [Local Asset](../../../../../../corpus/07-signal/images/680127afd74e685c8ae6dec9_image.png)
 
 
 #### Bar Chart (Blue):

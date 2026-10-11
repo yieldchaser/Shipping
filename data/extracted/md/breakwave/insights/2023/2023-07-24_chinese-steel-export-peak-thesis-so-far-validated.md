@@ -25,10 +25,10 @@ Back in our June 12th Weekly Dry Bulk Report, we opined for the first time this 
 
 June’s data released last week has so far validated our prediction, as China’s steel exports fell last month for the first time all year.
 
-![Chart (2)](assets/2023-07-24_chinese-steel-export-peak-thesis-so-far-validated_img_chart28229_72a79c6e920a.jpg)
+![Chart (2)](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-07-24_chinese-steel-export-peak-thesis-so-far-validated_img_chart28229_72a79c6e920a.jpg)
 
 > **Figure 1: Chart (2)**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-07-24_chinese-steel-export-peak-thesis-so-far-validated_img_chart28229_72a79c6e920a.jpg)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-07-24_chinese-steel-export-peak-thesis-so-far-validated_img_chart28229_72a79c6e920a.jpg)
 
 Exports totaled 7.5 million tons in June, which was down month-on-month by 900,000 tons (-11%) and year-on-year by 100,000 tons (-1%). Previously, China's steel exports had risen every month this year.
 

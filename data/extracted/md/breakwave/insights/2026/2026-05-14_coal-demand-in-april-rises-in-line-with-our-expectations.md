@@ -22,10 +22,10 @@ source_file: "corpus/03-breakwave/insights/2026/2026-05-14_coal-demand-in-april-
 
 The war in Iran and subsequent constriction of energy commodity flows appear to have been supportive of coal demand, as flows in April rise y/y for only the second time in 2026 so far.
 
-![Coal Carrying Capesize Tonne-Miles From Signal Ocean](assets/2026-05-14_coal-demand-in-april-rises-in-line-with-our-expectations_img_unnamed_fbf2dfad9cfc.png)
+![Coal Carrying Capesize Tonne-Miles From Signal Ocean](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-05-14_coal-demand-in-april-rises-in-line-with-our-expectations_img_unnamed_fbf2dfad9cfc.png)
 
 > **Figure 1: Coal Carrying Capesize Tonne-Miles From Signal Ocean**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-05-14_coal-demand-in-april-rises-in-line-with-our-expectations_img_unnamed_fbf2dfad9cfc.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-05-14_coal-demand-in-april-rises-in-line-with-our-expectations_img_unnamed_fbf2dfad9cfc.png)
 
 ### Key Takeaways
 
@@ -43,19 +43,19 @@ The drop in Indian coal imports was unexpected and was offset by increases in do
 
 ### Coal Destination Areas in April 2026, Excl. China and India, From Signal Ocean
 
-![Market Chart 2](assets/2026-05-14_coal-demand-in-april-rises-in-line-with-our-expectations_img_unnamed28129_ba8d47beb035.png)
+![Market Chart 2](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-05-14_coal-demand-in-april-rises-in-line-with-our-expectations_img_unnamed28129_ba8d47beb035.png)
 
 > **Figure 2: Market Chart 2**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-05-14_coal-demand-in-april-rises-in-line-with-our-expectations_img_unnamed28129_ba8d47beb035.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-05-14_coal-demand-in-april-rises-in-line-with-our-expectations_img_unnamed28129_ba8d47beb035.png)
 
 The outlook for coal through 2026 continues to remain closely tied to the Strait of Hormuz. While Europe may be entering the summer months, where power demand is lower, Japan and the Republic of Korea typically see power demand, from cooling, rise from June. The same is true for India, which may try to offset import demand by continuing to ramp up domestic coal production. The largest importer, China, will likely continue to see coal demand wane as the nation increases renewable energy production and cuts back steel production.
 
 In terms of supply, Indonesia remains the top exporter globally. At the start of 2026, the Indonesian government pushed for reduced coal output in order to support prices as global demand was expected to be weak. Yet, in an attempt to capitalise on the increased demand for coal following the war in Iran, the Indonesian government has relaxed export licensing for coal producers. This would allow for more material to hit the market and support Panamax demand in the South Pacific.
 
-![Indonesian Coal Exports From Signal Ocean](assets/2026-05-14_coal-demand-in-april-rises-in-line-with-our-expectations_img_unnamed28229_657cdd4ab331.png)
+![Indonesian Coal Exports From Signal Ocean](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-05-14_coal-demand-in-april-rises-in-line-with-our-expectations_img_unnamed28229_657cdd4ab331.png)
 
 > **Figure 3: Indonesian Coal Exports From Signal Ocean**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-05-14_coal-demand-in-april-rises-in-line-with-our-expectations_img_unnamed28229_657cdd4ab331.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-05-14_coal-demand-in-april-rises-in-line-with-our-expectations_img_unnamed28229_657cdd4ab331.png)
 
 ## War in Iran Remains the Most Impactful Factor on Coal Performance
 

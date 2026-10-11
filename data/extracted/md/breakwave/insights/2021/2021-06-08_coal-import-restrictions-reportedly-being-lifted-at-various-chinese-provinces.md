@@ -25,7 +25,7 @@ source_file: "corpus/03-breakwave/insights/2021/2021-06-08_coal-import-restricti
 ![Unsplash Image Dqgiay0k08o](assets/2021-06-08_coal-import-restrictions-reportedly-being-lifted-at-various-chinese-provinces_img_unsplash-image-dqgiay0k08o_06ec6c295fef.jpg)
 
 > **Figure 1: Unsplash Image Dqgiay0k08o**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2021/assets/2021-06-08_coal-import-restrictions-reportedly-being-lifted-at-various-chinese-provinces_img_unsplash-image-dqgiay0k08o_06ec6c295fef.jpg)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-06-08_coal-import-restrictions-reportedly-being-lifted-at-various-chinese-provinces_img_unsplash-image-dqgiay0k08o_06ec6c295fef.jpg)
 
 As we discussed in a special client update yesterday, two new coal mine accidents and deaths occurred in China over the weekend. While extremely tragic, accidents and deaths are continuing to ensure the prioritization of safety, inspections, and restrictions over coal production growth. This remains helpful for the dry bulk market and coal import market as China's coal-derived electricity generation remains very likely to continue to far outpace domestic coal production.
 

@@ -30,10 +30,17 @@ The WTI-Brent spread is an important indicator for U.S. East Coast refiners in t
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: Breaking Into Brent](../../../charts/poten/2023/poten_2023-06-02_breaking-into-brent_chart1.png)
+![Exhibit 1: Aframax Freight Rates: 70,000t USG - UKC (Eco / Scrubber)](../../../charts/poten/2023/poten_2023-06-02_breaking-into-brent_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2023/poten_2023-06-02_breaking-into-brent_chart1.png)
+> **Exhibit 1: Aframax Freight Rates: 70,000t USG - UKC (Eco / Scrubber)**  
+> Unit: TCE (US$/day) · X-axis: 1/2/2023 to 5/29/2023  
+> *Source: Poten & Partners*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2023/poten_2023-06-02_breaking-into-brent_chart1.png)
 
-![Exhibit 2: Breaking Into Brent](../../../charts/poten/2023/poten_2023-06-02_breaking-into-brent_chart2.png)
+![Exhibit 2: WTI - Brent Spread](../../../charts/poten/2023/poten_2023-06-02_breaking-into-brent_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2023/poten_2023-06-02_breaking-into-brent_chart2.png)
+> **Exhibit 2: WTI - Brent Spread**  
+> Unit: Price $/bbl | Spread $/bbl · X-axis: Jan-10 to Jan-23  
+> Series: WTI, Brent, Spread  
+> *Source: EIA*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2023/poten_2023-06-02_breaking-into-brent_chart2.png)

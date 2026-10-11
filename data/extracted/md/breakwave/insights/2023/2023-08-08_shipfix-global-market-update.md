@@ -57,9 +57,9 @@ The Baltic Exchange’s freight rate indicator for the Supramaxes has almost hal
 
 The lower demand for seaborne transportation onboard Supramaxes was, to a greater extent, driven by falling coal volumes. Weekly cargo order volumes for the fossil fuel have been declining over the past month, with the 7.8 million tonnes recorded last week nearly 50 per cent below the level seen at the beginning of July. However, not only coal weighed on demand for the Supramaxes. The segment has also seen a 23 per cent decrease in demand during the past month for shipments of agricultural commodities. Hence, as the two cargoes account for nearly half of the total order volumes, a recovery in freight rates for the segment remains dependent on a rebound in demand for seaborne transportation of coal and agricultural commodities.
 
-![Market Chart 1](assets/2023-08-08_shipfix-global-market-update_img_unnamed-2023-08-08t113540880_4fad782d5f99.png)
+![Market Chart 1](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-08-08_shipfix-global-market-update_img_unnamed-2023-08-08t113540880_4fad782d5f99.png)
 
 > **Figure 1: Market Chart 1**  
-> **Interactive Data & Source:** [Shipfix](https://shipfix.com/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-08-08_shipfix-global-market-update_img_unnamed-2023-08-08t113540880_4fad782d5f99.png)
+> **Interactive Data & Source:** [Shipfix](https://shipfix.com/) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-08-08_shipfix-global-market-update_img_unnamed-2023-08-08t113540880_4fad782d5f99.png)
 
 Data Source:[Shipfix](https://shipfix.com/)

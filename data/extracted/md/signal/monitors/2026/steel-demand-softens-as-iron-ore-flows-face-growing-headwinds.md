@@ -34,22 +34,22 @@ Iron ore market fundamentals continued to soften as subdued Chinese steel demand
 - Iron ore flows from Australia increased by 5% y/y, but flows from Brazil have fallen by over 11%.
 
 
-![Source: Total Iron Ore Flows From Signal Ocean Https://app.signalocean.com/dry/dynamic/drybulkflows](../../images/6abb73ae9597cc994c9efdd4_d913a5c0.png)
+![Source: Total Iron Ore Flows From Signal Ocean Https://app.signalocean.com/dry/dynamic/drybulkflows](../../../../../../corpus/07-signal/images/6abb73ae9597cc994c9efdd4_d913a5c0.png)
 
 > **Figure 1: Source: Total Iron Ore Flows From Signal Ocean Https://app.signalocean.com/dry/dynamic/drybulkflows**  
 > *Source: Total iron ore flows from Signal Ocean https://app.signalocean.com/dry/dynamic/drybulkflows*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/steel-demand-softens-as-iron-ore-flows-face-growing-headwinds) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6abb73ae9597cc994c9efdd4_d913a5c0.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/steel-demand-softens-as-iron-ore-flows-face-growing-headwinds) | [Local Asset](../../../../../../corpus/07-signal/images/6abb73ae9597cc994c9efdd4_d913a5c0.png)
 
 Global seaborne bulk iron ore flows reached 153.5 Mt in August 2026, flat on the same period a year earlier but up 5% m/m. Seaborne iron ore arrivals in China in August fell 7.7%, despite flows leaving for China increasing slightly by 0.2%.
 
 Iron ore flows from Guinea reached a record high of 3.1 Mt in August, at a time when loadings in Guinea typically soften by up to 20% due to heavy rainfall. This is in stark contrast to Brazil, which experienced an 11% decline in iron ore exports, driven by softer demand from European steelmakers. The largest iron ore producer, Australia, saw exports increase by 5%, driven by robust loading volumes and steady Asian demand.
 
 
-![Source: Iron Ore Flows From Guinea From Signal Oceanhttps://app.signalocean.com/dry/dynamic/drybulkflows](../../images/6abb73af9597cc994c9efdd7_7a7403ca.png)
+![Source: Iron Ore Flows From Guinea From Signal Oceanhttps://app.signalocean.com/dry/dynamic/drybulkflows](../../../../../../corpus/07-signal/images/6abb73af9597cc994c9efdd7_7a7403ca.png)
 
 > **Figure 2: Source: Iron Ore Flows From Guinea From Signal Oceanhttps://app.signalocean.com/dry/dynamic/drybulkflows**  
 > *Source: Iron ore flows from Guinea from Signal Oceanhttps://app.signalocean.com/dry/dynamic/drybulkflows*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/steel-demand-softens-as-iron-ore-flows-face-growing-headwinds) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6abb73af9597cc994c9efdd7_7a7403ca.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/steel-demand-softens-as-iron-ore-flows-face-growing-headwinds) | [Local Asset](../../../../../../corpus/07-signal/images/6abb73af9597cc994c9efdd7_7a7403ca.png)
 
 The outlook for Q4 2026 may be less positive. The EU’s new steel import regime introduces a “melt and pour” requirement, improving traceability to the steel’s original production country and limiting the scope for quota circumvention through third-country processing or transhipment.
 
@@ -58,11 +58,11 @@ This could reduce the appetite of steel processors in key intermediary markets s
 Combined with already high iron ore port stocks in China, expectations of weaker steel demand point to softer iron ore flows in 2026 Q4. While iron ore shipments from Simandou in Guinea are likely to remain strong, and potentially increase further, the resulting pullback is likely to come primarily from Brazil, where exports are already showing signs of weakness.
 
 
-![Source: Steel Flows From Turkey, Viet Nam and Egypt From Signal Ocean Https://app.signalocean.com/dry/dynamic/drybulkflows](../../images/6abb73af9597cc994c9efdda_7f94e5db.png)
+![Source: Steel Flows From Turkey, Viet Nam and Egypt From Signal Ocean Https://app.signalocean.com/dry/dynamic/drybulkflows](../../../../../../corpus/07-signal/images/6abb73af9597cc994c9efdda_7f94e5db.png)
 
 > **Figure 3: Source: Steel Flows From Turkey, Viet Nam and Egypt From Signal Ocean Https://app.signalocean.com/dry/dynamic/drybulkflows**  
 > *Source: Steel flows from Turkey, Viet Nam and Egypt from Signal Ocean https://app.signalocean.com/dry/dynamic/drybulkflows*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/steel-demand-softens-as-iron-ore-flows-face-growing-headwinds) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6abb73af9597cc994c9efdda_7f94e5db.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/steel-demand-softens-as-iron-ore-flows-face-growing-headwinds) | [Local Asset](../../../../../../corpus/07-signal/images/6abb73af9597cc994c9efdda_7f94e5db.png)
 
 
 ## Guinea to China the Likely Positive in 2026 Q4

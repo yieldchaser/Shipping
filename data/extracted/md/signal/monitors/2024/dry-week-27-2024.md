@@ -31,7 +31,7 @@ tags:
 ![668431eb93f59685a827ab67 Chart of the Week Dry](../../images/668431eb93f59685a827ab67_chart of the week dry.avif)
 
 > **Figure 1: 668431eb93f59685a827ab67 Chart of the Week Dry**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/dry-week-27-2024) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/668431eb93f59685a827ab67_chart of the week dry.avif)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/dry-week-27-2024) | [Local Asset](../../../../../../corpus/07-signal/images/668431eb93f59685a827ab67_chart%20of%20the%20week%20dry.avif)
 
 The first week of July began on a positive note for the Capesize dry freight market, with rates for Brazil to North China reaching one of the highest points for the year, surpassing the previous peak recorded in week 10. This rise is particularly noteworthy as it coincides with a decreasing trend in the number of Capesize ballasters in Southeast Africa, which fell below the annual average at the end of June.
 

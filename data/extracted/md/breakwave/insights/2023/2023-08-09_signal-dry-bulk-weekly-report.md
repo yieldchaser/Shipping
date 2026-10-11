@@ -23,10 +23,10 @@ source_file: "corpus/03-breakwave/insights/2023/2023-08-09_signal-dry-bulk-weekl
 
 Upward revision of grain flows from Brazil to China throughout this year
 
-![Market Chart 1](assets/2023-08-09_signal-dry-bulk-weekly-report_img_unnamed-2023-08-09t133435997_ba5077e2c49c.png)
+![Market Chart 1](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-08-09_signal-dry-bulk-weekly-report_img_unnamed-2023-08-09t133435997_ba5077e2c49c.png)
 
 > **Figure 1: Market Chart 1**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-08-09_signal-dry-bulk-weekly-report_img_unnamed-2023-08-09t133435997_ba5077e2c49c.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-08-09_signal-dry-bulk-weekly-report_img_unnamed-2023-08-09t133435997_ba5077e2c49c.png)
 
 As the second week of August commenced, the momentum in the freight market exhibited greater resilience, particularly marked by substantial gains in the larger vessel size segments. Concurrently, persistent geopolitical challenges continued to exert a downward influence on the smaller vessel size categories. Notably, the rising count of ballast ships sent escalating signals, raising apprehensions about the sustainability of the upward trajectory of freight rates as the summer season progresses.
 
@@ -36,10 +36,10 @@ For more information on this week's trends, see the analysis sections below:
 
 Freight Market, Supply, Demand and Port Congestion
 
-![Section 1/ Freight](assets/2023-08-09_signal-dry-bulk-weekly-report_img_unnamed-2023-08-09t133938389_9a87c961c1e6.png)
+![Section 1/ Freight](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-08-09_signal-dry-bulk-weekly-report_img_unnamed-2023-08-09t133938389_9a87c961c1e6.png)
 
 > **Figure 2: Section 1/ Freight**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-08-09_signal-dry-bulk-weekly-report_img_unnamed-2023-08-09t133938389_9a87c961c1e6.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-08-09_signal-dry-bulk-weekly-report_img_unnamed-2023-08-09t133938389_9a87c961c1e6.png)
 
 The beginning of the second week in August saw an increase in rate development for larger vessels, while smaller vessel categories still faced challenges in rebalancing their rates to exceed those of the previous days in July.
 
@@ -52,10 +52,10 @@ The beginning of the second week in August saw an increase in rate development f
 
 Supply Trend Lines for Key Load Areas | Ballasters (# vessels) Increasing
 
-![Market Chart 3](assets/2023-08-09_signal-dry-bulk-weekly-report_img_unnamed-2023-08-09t134118541_e8427c09b8b5.png)
+![Market Chart 3](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-08-09_signal-dry-bulk-weekly-report_img_unnamed-2023-08-09t134118541_e8427c09b8b5.png)
 
 > **Figure 3: Market Chart 3**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-08-09_signal-dry-bulk-weekly-report_img_unnamed-2023-08-09t134118541_e8427c09b8b5.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-08-09_signal-dry-bulk-weekly-report_img_unnamed-2023-08-09t134118541_e8427c09b8b5.png)
 
 The count of ballasters has consistently remained notably elevated compared to the preceding weeks, and this upward trajectory has become even more pronounced within the Handysize segment during the second week of August.
 
@@ -68,10 +68,10 @@ The count of ballasters has consistently remained notably elevated compared to t
 
 Summary of Dry Bulk Demand, per Ship Size | TonneDays Increasing
 
-![Market Chart 4](assets/2023-08-09_signal-dry-bulk-weekly-report_img_unnamed-2023-08-09t155835300_ac1f4c69b657.png)
+![Market Chart 4](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-08-09_signal-dry-bulk-weekly-report_img_unnamed-2023-08-09t155835300_ac1f4c69b657.png)
 
 > **Figure 4: Market Chart 4**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-08-09_signal-dry-bulk-weekly-report_img_unnamed-2023-08-09t155835300_ac1f4c69b657.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-08-09_signal-dry-bulk-weekly-report_img_unnamed-2023-08-09t155835300_ac1f4c69b657.png)
 
 An upward surge in tonne-day growth became evident during the second week of August, primarily driven by robust performances in the Capesize, Panamax, and Supramax vessel segments.
 
@@ -84,10 +84,10 @@ An upward surge in tonne-day growth became evident during the second week of Aug
 
 Dry bulk ships congested at Chinese ports | No of Vessels Increasing
 
-![Market Chart 5](assets/2023-08-09_signal-dry-bulk-weekly-report_img_unnamed-2023-08-09t134306691_15be77a0e8e2.png)
+![Market Chart 5](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-08-09_signal-dry-bulk-weekly-report_img_unnamed-2023-08-09t134306691_15be77a0e8e2.png)
 
 > **Figure 5: Market Chart 5**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-08-09_signal-dry-bulk-weekly-report_img_unnamed-2023-08-09t134306691_15be77a0e8e2.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-08-09_signal-dry-bulk-weekly-report_img_unnamed-2023-08-09t134306691_15be77a0e8e2.png)
 
 The upward revision in the number of vessel congestions continued for a second consecutive week, with a notable increase in the Supramax, Panamax and Handysize segments.
 

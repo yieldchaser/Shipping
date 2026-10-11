@@ -64,10 +64,10 @@ If last year’s seasonal pattern for the US grain and oilseed trade repeats its
 
 As discussed in “The Fix” last week, Chinese demand for US agricultural commodities has come under pressure, with grains and oilseeds from the US Gulf increasingly heading for less distant shores. Hence, decreasing tonne-mile demand in the trade could temper any gains for freight rates should order volumes rise in the coming months.
 
-![Στιγμιότυπο Οθόνης 2024 09 10 115356](assets/2024-09-10_sviht7sad3aqsw9mik1pwn9123m0t7_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_11183b68f6d5.png)
+![Στιγμιότυπο Οθόνης 2024 09 10 115356](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-09-10_sviht7sad3aqsw9mik1pwn9123m0t7_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_11183b68f6d5.png)
 
 > **Figure 1: Στιγμιότυπο Οθόνης 2024 09 10 115356**  
-> **Interactive Data & Source:** [Shipfix](https://shipfix.com/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-09-10_sviht7sad3aqsw9mik1pwn9123m0t7_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_11183b68f6d5.png)
+> **Interactive Data & Source:** [Shipfix](https://shipfix.com/) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-09-10_sviht7sad3aqsw9mik1pwn9123m0t7_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_11183b68f6d5.png)
 
 Data Source:[Shipfix](https://shipfix.com/)
 

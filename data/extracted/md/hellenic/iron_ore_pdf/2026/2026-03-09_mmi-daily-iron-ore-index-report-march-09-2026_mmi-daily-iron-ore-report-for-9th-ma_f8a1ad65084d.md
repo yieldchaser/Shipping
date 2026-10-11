@@ -154,23 +154,26 @@ In addition, the current pace of blast furnace production resumption is relative
 | **Lianyungang** | -3.00 | +0.00 | **-** | - | - |
 
 ## Historical Iron Ore Index Comparisons (USD/DMT)
+> **Estimate.** The report prints no numbers for this chart. Values are computed from the chart's vector geometry at each x-axis date label (calibrated on the printed axis ticks; typically within 1% of the axis range).
+
 | Date | IOSI62 (USD/DMT) | IOPi62 CFR Eq (USD/DMT) | IOSI65 (USD/DMT) | IOPi65 CFR Eq (USD/DMT) |
 | :--- | :--- | :--- | :--- | :--- |
-| 4-Jan-21 | 160.00 | 170.00 | 180.00 | 175.00 |
-| 4-May-21 | 270.00 | 265.00 | 275.00 | 270.00 |
-| 4-Sep-21 | 100.00 | 95.00 | 105.00 | 100.00 |
-| 4-Jan-22 | 140.00 | 135.00 | 145.00 | 140.00 |
-| 4-May-22 | 150.00 | 145.00 | 155.00 | 150.00 |
-| 4-Sep-22 | 120.00 | 115.00 | 125.00 | 120.00 |
-| 4-Jan-23 | 130.00 | 125.00 | 135.00 | 130.00 |
-| 4-May-23 | 140.00 | 135.00 | 145.00 | 140.00 |
-| 4-Jan-24 | 150.00 | 145.00 | 160.00 | 155.00 |
-| 4-May-24 | 145.00 | 140.00 | 170.00 | 165.00 |
-| 4-Sep-24 | 110.00 | 105.00 | 120.00 | 115.00 |
-| 4-Jan-25 | 100.00 | 95.00 | 110.00 | 105.00 |
-| 4-May-25 | 105.00 | 100.00 | 115.00 | 110.00 |
-| 4-Sep-25 | 110.00 | 105.00 | 115.00 | 110.00 |
-| 4-Jan-26 | 115.00 | 110.00 | 120.00 | 115.00 |
+| 4-Jan-21 | 171.54 | 164.36 | 185.90 | 175.64 |
+| 4-May-21 | 192.04 | 190.01 | 228.97 | 226.92 |
+| 4-Sep-21 | 147.95 | 154.09 | 170.51 | 185.89 |
+| 4-Jan-22 | 130.51 | 120.26 | 137.69 | 150.00 |
+| 4-May-22 | 148.97 | 140.74 | 173.59 | 165.34 |
+| 4-Sep-22 | 105.90 | 98.73 | 113.08 | 118.22 |
+| 4-Jan-23 | 113.08 | 114.10 | 124.36 | 130.51 |
+| 4-May-23 | 112.05 | 106.93 | 116.16 | 122.32 |
+| 4-Sep-23 | 105.90 | 120.26 | 126.41 | 135.64 |
+| 4-Jan-24 | 137.69 | 138.72 | 168.46 | 154.10 |
+| 4-May-24 | 120.77 | 118.21 | 134.62 | 133.59 |
+| 4-Sep-24 | 97.70 | 95.67 | 104.93 | 111.04 |
+| 4-Jan-25 | 100.77 | 100.77 | 112.05 | 115.13 |
+| 4-May-25 | 99.74 | 98.72 | 108.97 | 114.10 |
+| 4-Sep-25 | 106.93 | 102.83 | 122.32 | 118.21 |
+| 4-Jan-26 | 105.91 | 107.95 | 121.28 | 119.27 |
 
 ---
 
@@ -193,44 +196,63 @@ In addition, the current pace of blast furnace production resumption is relative
 | **SGX** | **14.51** | USD/DMT | 41.28 | +1.45 | +1.43% | 101.50 | 103.90 | - | - |
 
 ## Dry Bulk Freight Rates Historical Line Data (USD/MT)
+> **Estimate.** The report prints no numbers for this chart. Values are computed from the chart's vector geometry at each x-axis date label (calibrated on the printed axis ticks; typically within 1% of the axis range).
+
 | Date | C5 W. Australia - Qingdao (USD/MT) | C3 Tubarao - Qingdao (USD/MT) |
 | :--- | :--- | :--- |
-| 4-Jan-21 | 15.00 | 18.00 |
-| 4-May-21 | 8.00 | 20.00 |
-| 4-Sep-21 | 48.00 | 48.00 |
-| 4-Jan-22 | 18.00 | 22.00 |
-| 4-May-22 | 16.00 | 20.00 |
-| 4-Sep-22 | 17.00 | 18.00 |
-| 4-Jan-23 | 10.00 | 17.00 |
-| 4-May-23 | 9.00 | 17.00 |
-| 4-Sep-23 | 11.00 | 18.00 |
-| 4-Jan-24 | 12.00 | 19.00 |
-| 4-May-24 | 10.00 | 17.00 |
-| 4-Sep-24 | 9.00 | 16.00 |
-| 4-Jan-25 | 9.00 | 16.00 |
-| 4-May-25 | 10.00 | 17.00 |
-| 4-Sep-25 | 10.00 | 17.00 |
-| 4-Jan-26 | 11.00 | 25.00 |
+| 4-Jan-21 | 8.92 | 15.35 |
+| 4-May-21 | 13.81 | 30.02 |
+| 4-Sep-21 | 13.95 | 33.51 |
+| 4-Jan-22 | 8.92 | 22.06 |
+| 4-May-22 | 12.00 | 25.69 |
+| 4-Sep-22 | 8.08 | 19.54 |
+| 4-Jan-23 | 7.25 | 18.42 |
+| 4-May-23 | 8.65 | 22.62 |
+| 4-Sep-23 | 8.08 | 18.70 |
+| 4-Jan-24 | 10.04 | 29.30 |
+| 4-May-24 | 10.60 | 26.52 |
+| 4-Sep-24 | 11.16 | 27.65 |
+| 4-Jan-25 | 6.96 | 17.86 |
+| 4-May-25 | 7.95 | 19.54 |
+| 4-Sep-25 | 10.04 | 23.73 |
+| 4-Jan-26 | 8.43 | 22.41 |
 
 ## Total China Iron Ore Import Volumes (Million Tonnes)
+> **Estimate.** The report prints no numbers for this chart. Values are computed from the chart's vector geometry at each x-axis date label (calibrated on the printed axis ticks; typically within 1% of the axis range).
+
 | Month / Period | Import Volume (Million Tonnes) |
 | :--- | :--- |
-| Jun-23 | 95.00 |
-| Aug-23 | 92.00 |
-| Oct-23 | 106.00 |
-| Dec-23 | 102.00 |
-| Feb-24 | 112.00 |
-| Apr-24 | 102.00 |
-| Jun-24 | 103.00 |
-| Aug-24 | 104.00 |
-| Oct-24 | 112.00 |
-| Dec-24 | 96.00 |
-| Feb-25 | 94.00 |
-| Apr-25 | 104.00 |
+| Jun-23 | 95.60 |
+| Jul-23 | 93.57 |
+| Aug-23 | 106.51 |
+| Sep-23 | 101.18 |
+| Oct-23 | 99.41 |
+| Nov-23 | 102.71 |
+| Dec-23 | 100.93 |
+| Jan-24 | 111.84 |
+| Feb-24 | 97.38 |
+| Mar-24 | 100.68 |
+| Apr-24 | 101.69 |
+| May-24 | 101.94 |
+| Jun-24 | 97.63 |
+| Jul-24 | 102.71 |
+| Aug-24 | 101.44 |
+| Sep-24 | 104.23 |
+| Oct-24 | 103.72 |
+| Nov-24 | 101.94 |
+| Dec-24 | 112.35 |
+| Jan-25 | 97.12 |
+| Feb-25 | 94.08 |
+| Mar-25 | 94.08 |
+| Apr-25 | 103.21 |
+| May-25 | 98.14 |
 | Jun-25 | 106.00 |
-| Aug-25 | 116.00 |
-| Oct-25 | 110.00 |
-| Dec-25 | 119.00 |
+| Jul-25 | 104.48 |
+| Aug-25 | 105.24 |
+| Sep-25 | 116.41 |
+| Oct-25 | 111.33 |
+| Nov-25 | 110.57 |
+| Dec-25 | 119.70 |
 
 ---
 

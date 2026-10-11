@@ -20,10 +20,10 @@ source_file: "corpus/03-breakwave/insights/2024/2024-04-08_new-frontier.html"
 
 ---
 
-![Στιγμιότυπο Οθόνης 2024 04 08 121244](assets/2024-04-08_new-frontier_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_584dd3a04cbc.png)
+![Στιγμιότυπο Οθόνης 2024 04 08 121244](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-04-08_new-frontier_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_584dd3a04cbc.png)
 
 > **Figure 1: Στιγμιότυπο Οθόνης 2024 04 08 121244**  
-> **Interactive Data & Source:** [Gibsons Co](https://www.gibsons.co.uk/market-reports) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-04-08_new-frontier_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_584dd3a04cbc.png)
+> **Interactive Data & Source:** [Gibsons Co](https://www.gibsons.co.uk/market-reports) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-04-08_new-frontier_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_584dd3a04cbc.png)
 
 Much of the focus over the past few years has been on the impressive ramp up of oil production in Guyana where production is on track to rise to 800kbd next year from zero in 2019. Yet in the years ahead, new frontiers in the oil market could emerge and one such region with potential is Namibia.
 
@@ -35,10 +35,10 @@ The development process is likely to be similar to Guyana, with FPSOs deployed t
 
 For the tanker market, Namibia is unlikely to have an impact this decade. However, it provides a new frontier for the oil market which will require tankers to deliver oil to export markets. Whilst little is known about the specific properties of the grades, the demand for such crude is likely to be primarily in the East, with VLCCs and Suezmaxes the most likely beneficiaries.
 
-![Στιγμιότυπο Οθόνης 2024 04 08 120942](assets/2024-04-08_new-frontier_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_3b76591ab089.png)
+![Στιγμιότυπο Οθόνης 2024 04 08 120942](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-04-08_new-frontier_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_3b76591ab089.png)
 
 > **Figure 2: Στιγμιότυπο Οθόνης 2024 04 08 120942**  
-> **Interactive Data & Source:** [Gibsons Co](https://www.gibsons.co.uk/market-reports) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-04-08_new-frontier_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_3b76591ab089.png)
+> **Interactive Data & Source:** [Gibsons Co](https://www.gibsons.co.uk/market-reports) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-04-08_new-frontier_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_3b76591ab089.png)
 
 Data source:[Gibson Shipbrokers](https://www.gibsons.co.uk/market-reports)
 

@@ -22,10 +22,10 @@ source_file: "corpus/03-breakwave/insights/2025/2025-10-01_bauxite-market-update
 
 This week’s Allied Quantumsea Research highlights bauxite export dynamics against the backdrop of a stronger Capesize iron ore freight market in Q3. Rising shipments of bauxite from Australia, Brazil, and Guinea continue to support Capesize demand, emerging as a steady foundation for freight market strength.
 
-![Στιγμιότυπο Οθόνης 2025 10 01 142712](assets/2025-10-01_bauxite-market-update_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_2cee757f0c41.png)
+![Στιγμιότυπο Οθόνης 2025 10 01 142712](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-10-01_bauxite-market-update_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_2cee757f0c41.png)
 
 > **Figure 1: Στιγμιότυπο Οθόνης 2025 10 01 142712**  
-> **Interactive Data & Source:** [Allied-shipbroking](https://www.allied-shipbroking.gr/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-10-01_bauxite-market-update_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_2cee757f0c41.png)
+> **Interactive Data & Source:** [Allied-shipbroking](https://www.allied-shipbroking.gr/) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-10-01_bauxite-market-update_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_2cee757f0c41.png)
 
 ### Mining, Alumina Demand, and Trade Flows
 
@@ -43,17 +43,17 @@ China plays a dual role in this landscape. It produces significant volumes domes
 
 By contrast, the United States holds only limited reserves in a few southern states. Mining activity there is negligible today, leaving the country almost fully reliant on imports to sustain its alumina and aluminum industries.
 
-![Στιγμιότυπο Οθόνης 2025 10 01 142901](assets/2025-10-01_bauxite-market-update_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_ac65c6bbe5ae.png)
+![Στιγμιότυπο Οθόνης 2025 10 01 142901](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-10-01_bauxite-market-update_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_ac65c6bbe5ae.png)
 
 > **Figure 2: Στιγμιότυπο Οθόνης 2025 10 01 142901**  
-> **Interactive Data & Source:** [Allied-shipbroking](https://www.allied-shipbroking.gr/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-10-01_bauxite-market-update_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_ac65c6bbe5ae.png)
+> **Interactive Data & Source:** [Allied-shipbroking](https://www.allied-shipbroking.gr/) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-10-01_bauxite-market-update_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_ac65c6bbe5ae.png)
 
 Guinea clearly dominates the bauxite export market with a 68% share, followed by Australia at 21%, while all other countries combined account for just 11%, highlighting a highly concentrated supply landscape.
 
-![Στιγμιότυπο Οθόνης 2025 10 01 142910](assets/2025-10-01_bauxite-market-update_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_4e0131a1f882.png)
+![Στιγμιότυπο Οθόνης 2025 10 01 142910](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-10-01_bauxite-market-update_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_4e0131a1f882.png)
 
 > **Figure 3: Στιγμιότυπο Οθόνης 2025 10 01 142910**  
-> **Interactive Data & Source:** [Allied-shipbroking](https://www.allied-shipbroking.gr/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-10-01_bauxite-market-update_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_4e0131a1f882.png)
+> **Interactive Data & Source:** [Allied-shipbroking](https://www.allied-shipbroking.gr/) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-10-01_bauxite-market-update_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_4e0131a1f882.png)
 
 ### Australia
 
@@ -71,10 +71,10 @@ Guinea remains the backbone of the global bauxite trade, with shipments continui
 
 ### Guinea’s Capesize Exports to China More Than Doubled (+123%) Since 2022
 
-![Cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85](assets/2025-10-01_bauxite-market-update_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_20481df172fe.png)
+![Cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-10-01_bauxite-market-update_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_20481df172fe.png)
 
 > **Figure 4: Cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85**  
-> **Interactive Data & Source:** [Allied-shipbroking](https://www.allied-shipbroking.gr/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-10-01_bauxite-market-update_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_20481df172fe.png)
+> **Interactive Data & Source:** [Allied-shipbroking](https://www.allied-shipbroking.gr/) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-10-01_bauxite-market-update_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_20481df172fe.png)
 
 ### Sierra Leone
 

@@ -112,6 +112,14 @@ Clearly, the increase in bunker prices can be tied to higher overall crude oil p
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: Weighing the Costs](../../../charts/poten/2007/poten_2007-11-02_weighing-the-costs_chart1.png)
+> **Chart on PDF page 1: Bunker Prices & WS Rates**  
+> Unit: ($/MT) | WS Rates (260kt) AG - FE · X-axis: Jan-04 to Sep-07  
+> Series: Houston, Singapore, VLCC WS Rates (AG - FE)  
+> *Source: Bunkerfuels/Poten*  
+> *No image crop of this chart was saved; caption read from the PDF.*
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2007/poten_2007-11-02_weighing-the-costs_chart1.png)
+> **Chart on PDF page 2: Total Bunker Costs**  
+> Unit: $/day · X-axis: VLCC to Handymax  
+> Series: 2007, 2006  
+> *Source: Poten & Partners*  
+> *No image crop of this chart was saved; caption read from the PDF.*

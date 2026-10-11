@@ -26,10 +26,18 @@ Despite a mixed outlook for VLCC ton-mile demand going forward, the expectation 
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: Does Size Still Matter](../../../charts/poten/2024/poten_2024-03-01_does-size-still-matter_chart1.png)
+![Exhibit 1: Global VLCC Ton Mile Demand By Load Area](../../../charts/poten/2024/poten_2024-03-01_does-size-still-matter_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2024/poten_2024-03-01_does-size-still-matter_chart1.png)
+> **Exhibit 1: Global VLCC Ton Mile Demand By Load Area**  
+> Unit: Bln TM · X-axis: Jan-21 to Jan-24  
+> Series: AG, G of Mexico, W Africa, S Am East Coast, Caribbean, NW Europe, S Am West Coast, Red Sea, Other  
+> *Source: Vortexa / Poten & Partners*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2024/poten_2024-03-01_does-size-still-matter_chart1.png)
 
-![Exhibit 2: Does Size Still Matter](../../../charts/poten/2024/poten_2024-03-01_does-size-still-matter_chart2.png)
+![Exhibit 2: VLCC (w. scrubber) TCE (270 Kt AG-FE)](../../../charts/poten/2024/poten_2024-03-01_does-size-still-matter_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2024/poten_2024-03-01_does-size-still-matter_chart2.png)
+> **Exhibit 2: VLCC (w. scrubber) TCE (270 Kt AG-FE)**  
+> Unit: TCE · X-axis: Jan-21 to Mar-24  
+> Series: TCE (270 Kt AG-FE)  
+> *Source: Vortexa / Poten & Partners*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2024/poten_2024-03-01_does-size-still-matter_chart2.png)

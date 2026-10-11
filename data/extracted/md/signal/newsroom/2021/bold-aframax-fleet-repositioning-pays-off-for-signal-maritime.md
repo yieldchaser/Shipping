@@ -28,6 +28,8 @@ Tanker pool manager Signal Maritime has achieved a significant increase in its A
 
 Commenting on the performance, Signal Maritime CEO Panos Dimitracopoulos said:
 
+“This was a bold strategy based on detailed analysis of seasonality, COVID related effects and vessel supply-demand. Whilst the autumn move did have an impact on short-term performance, we were able to find attractive backhaul cargoes for the ships repositioning from East to West. Our considerable West exposure resulted in long and strong fronthauls significantly lifting our pool partners’ earnings. At the same time we have kept a sufficient local presence through cross-USG voyages.
+
 He also added, *"We love transparency and strongly believe that any interested party should be able to easily access the performance of all commercial management options. Therefore our* [*performance results*](/old/signal-maritime/pools) *are publicly available and weekly updated on Signal's website. We look forward to seeing more commercial operators publishing their net of all fees results.”*
 
 Signal Maritime manages two pools of 21 Aframax and 16 MR tankers respectively.

@@ -28,17 +28,17 @@ Noteworthy is that Brazilian spot cargo volume jumped last week, but capesize ra
 
 China’s coal production totaled 405.4 million tons in June. This is up month-on-month by 21.5 million tons (6%) and up year-on-year by 15.3 million tons (4%). Before last month, China’s coal output had contracted on a year-on-year basis for five straight months. Prior to those five months, the last time it had contracted on a year-on-year basis was in July 2021. The last time there were five straight months with a year-on-year contraction was in 2018.
 
-![Chart 1](assets/2024-07-26_capesize-spot-market-on-more-fragile-ground_img_chart1_600eecab5652.jpg)
+![Chart 1](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-07-26_capesize-spot-market-on-more-fragile-ground_img_chart1_600eecab5652.jpg)
 
 > **Figure 1: Chart 1**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-07-26_capesize-spot-market-on-more-fragile-ground_img_chart1_600eecab5652.jpg)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-07-26_capesize-spot-market-on-more-fragile-ground_img_chart1_600eecab5652.jpg)
 
 China's coal-derived electricity generation, on the other hand, declined year-on-year last month by 7%. China's coal-derived electricity generation has now declined on a year-on-year basis for two straight months, as hydropower production has been surging from extremely robust rainfall in recent months.
 
-![Chart 2](assets/2024-07-26_capesize-spot-market-on-more-fragile-ground_img_chart2_01abe8671436.jpg)
+![Chart 2](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-07-26_capesize-spot-market-on-more-fragile-ground_img_chart2_01abe8671436.jpg)
 
 > **Figure 2: Chart 2**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-07-26_capesize-spot-market-on-more-fragile-ground_img_chart2_01abe8671436.jpg)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-07-26_capesize-spot-market-on-more-fragile-ground_img_chart2_01abe8671436.jpg)
 
 ---
 

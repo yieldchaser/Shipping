@@ -59,9 +59,9 @@ The drop in ordering activities was primarily the result of falling demand for s
 
 Despite an uptick in demand last week, demand for seaborne transportation of US agricultural commodities onboard Panamaxes has fallen by around a third since early August. For the Supramaxes and Handysizes, demand peaked in the middle of September, and volumes have since come under significant pressure. Still, based on previous years, volumes could stage a recovery during the latter parts of the Month.
 
-![Market Chart 1](assets/2023-10-09_shipfix-global-market-update_img_unnamed-2023-10-09t160952226_e91448a10594.png)
+![Market Chart 1](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-10-09_shipfix-global-market-update_img_unnamed-2023-10-09t160952226_e91448a10594.png)
 
 > **Figure 1: Market Chart 1**  
-> **Interactive Data & Source:** [Shipfix](https://shipfix.com/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-10-09_shipfix-global-market-update_img_unnamed-2023-10-09t160952226_e91448a10594.png)
+> **Interactive Data & Source:** [Shipfix](https://shipfix.com/) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-10-09_shipfix-global-market-update_img_unnamed-2023-10-09t160952226_e91448a10594.png)
 
 Data Source:[Shipfix](https://shipfix.com/)

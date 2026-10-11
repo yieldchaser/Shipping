@@ -34,8 +34,12 @@ At this point it is difficult to say which tanker segments will benefit the most
 
 ![Exhibit 1: Guyana Gusher](../../../charts/poten/2019/poten_2019-10-25_guyana-gusher_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2019/poten_2019-10-25_guyana-gusher_chart1.png)
+> **Interactive Asset:** [Local Asset (200 DPI PNG)](../../../charts/poten/2019/poten_2019-10-25_guyana-gusher_chart1.png)
 
-![Exhibit 2: Guyana Gusher](../../../charts/poten/2019/poten_2019-10-25_guyana-gusher_chart2.png)
+![Exhibit 2: Guyana Oil Production Estimate](../../../charts/poten/2019/poten_2019-10-25_guyana-gusher_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2019/poten_2019-10-25_guyana-gusher_chart2.png)
+> **Exhibit 2: Guyana Oil Production Estimate**  
+> Unit: Kb/d · X-axis: 2018 to 2025  
+> Series: Guyana Oil Production Estimate  
+> *Source: Oil Companies, Poten*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2019/poten_2019-10-25_guyana-gusher_chart2.png)

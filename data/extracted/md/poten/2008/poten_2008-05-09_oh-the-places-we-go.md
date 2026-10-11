@@ -84,6 +84,8 @@ While the health of the US economy is still an extremely important metric for th
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: Oh, The Places We Go!](../../../charts/poten/2008/poten_2008-05-09_oh-the-places-we-go_chart1.png)
-
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2008/poten_2008-05-09_oh-the-places-we-go_chart1.png)
+> **Chart on PDF page 2: Energy Consumption and GDP**  
+> Unit: Primary Energy Consumption (BTOE) · X-axis: 1980 to 2007  
+> Series: India, China, USA, UAE  
+> *Source: BP Statistics & USDA*  
+> *No image crop of this chart was saved; caption read from the PDF.*

@@ -20,10 +20,10 @@ source_file: "corpus/03-breakwave/insights/2026/2026-01-12_venezuela-reset.html"
 
 ---
 
-![Oil Drilling](assets/2026-01-12_venezuela-reset_img_oil-drilling_b002be8ead60.jpg)
+![Oil Drilling](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-01-12_venezuela-reset_img_oil-drilling_b002be8ead60.jpg)
 
 > **Figure 1: Oil Drilling**  
-> **Interactive Data & Source:** [Gibsons Co](https://www.gibsons.co.uk/market-reports) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-01-12_venezuela-reset_img_oil-drilling_b002be8ead60.jpg)
+> **Interactive Data & Source:** [Gibsons Co](https://www.gibsons.co.uk/market-reports) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-01-12_venezuela-reset_img_oil-drilling_b002be8ead60.jpg)
 
 If anyone expected 2026 to be less eventful than 2025, the first weekend of the year has swiftly proved them wrong. On January 3rd, the US announced that Venezuelan President Nicolás Maduro and his wife had been captured and taken into US custody.
 
@@ -39,10 +39,10 @@ The picture is different for dark/sanctioned tankers. Chinese independents are h
 
 Greater clarity should emerge over the coming days and weeks. At a macro level, however, one thing already appears clear: coercive statecraft is back, with major implications not just for the Americas but for the world. For tanker markets, this adds another layer of geopolitical risk and points to increased freight volatility, with oil flows increasingly driven by political decisions and not by pure economics.
 
-![Στιγμιότυπο Οθόνης 2026 01 12 101323](assets/2026-01-12_venezuela-reset_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_64aed2d1612e.png)
+![Στιγμιότυπο Οθόνης 2026 01 12 101323](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-01-12_venezuela-reset_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_64aed2d1612e.png)
 
 > **Figure 2: Στιγμιότυπο Οθόνης 2026 01 12 101323**  
-> **Interactive Data & Source:** [Gibsons Co](https://www.gibsons.co.uk/market-reports) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-01-12_venezuela-reset_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_64aed2d1612e.png)
+> **Interactive Data & Source:** [Gibsons Co](https://www.gibsons.co.uk/market-reports) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-01-12_venezuela-reset_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_64aed2d1612e.png)
 
 Data source:[Gibson Shipbrokers](https://www.gibsons.co.uk/market-reports)
 

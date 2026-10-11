@@ -23,10 +23,10 @@ source_file: "corpus/03-breakwave/insights/2022/2022-09-29_geopolitical-risks-pu
 
 A weaker USD helped boost investor appetite in commodity markets. Rising geopolitical risks were also front of mind following damage to energy infrastructure earlier this week.
 
-![1664403503894](assets/2022-09-29_geopolitical-risks-push-energy-prices-higher_img_1664403503894_137f8029d673.png)
+![1664403503894](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-09-29_geopolitical-risks-push-energy-prices-higher_img_1664403503894_137f8029d673.png)
 
 > **Figure 1: 1664403503894**  
-> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-09-29_geopolitical-risks-push-energy-prices-higher_img_1664403503894_137f8029d673.png)
+> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-09-29_geopolitical-risks-push-energy-prices-higher_img_1664403503894_137f8029d673.png)
 
 **European natural gas**extended gains after Russia warned of further risks to supply. The energy market was rattled after damage to the Nord Stream pipelines. European Union foreign policy chief Josep Borrell said the damage was deliberate, and that the bloc will take more steps to secure its major energy facilities. Dutch front month futures rallied 11.3% to break back above USD200/MWh. Adding to concerns were warnings from Gazprom that gas flows were at risk because of a legal spat with NJSC Naftogaz Ukrainy over transit payments. Any disruptions to supply via Ukraine would leave Europe totally reliant on the TurkStream pipeline via Turkey. For the moment, gas flows remain stable, albeit at a reduced level since the start of the Ukraine war. The threat of disruptions to pipeline gas puts more reliance on LNG imports. However, US gas facilities in the Gulf of Mexico have been impacted by Hurricane Ian. The suspected sabotage of Nord Stream pipelines also raised concerns across the LNG market, with**North Asian LNG**prices rallying sharply. Futures have gained more than 20% since Monday as expectation of increased competition from European consumers rises.
 

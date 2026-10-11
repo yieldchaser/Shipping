@@ -165,6 +165,8 @@ _No desk commentary reported for this session._
 | **SGX** | **Sep. 21** | USD/DMT | 138.45 | +9.45 | +7.33% | 3.70 | 197.83 | 129.50 | 145.85 |
 
 ## Dry Bulk Freight Rates Historical Line Data (USD/MT)
+> **Approximate.** The report prints no numbers for this chart. Values were read visually from the chart image by the parser and are rough estimates.
+
 | Date | C5 W. Australia - Qingdao (USD/MT) | C3 Tubarao - Qingdao (USD/MT) |
 | :--- | :--- | :--- |
 | 31-Jul-20 | 8.00 | 17.00 |
@@ -182,6 +184,8 @@ _No desk commentary reported for this session._
 | 31-Jul-21 | 15.00 | 34.00 |
 
 ## Total China Iron Ore Import Volumes (Million Tonnes)
+> **Approximate.** The report prints no numbers for this chart. Values were read visually from the chart image by the parser and are rough estimates.
+
 | Month / Period | Import Volume (Million Tonnes) |
 | :--- | :--- |
 | Jul-20 | 112.00 |

@@ -94,6 +94,25 @@ If this is true, then tanker owners may be facing a stronger market at least for
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: Is Tanker Activity Telling Us Anything About Oil Exports?](../../../charts/poten/2005/poten_2005-06-24_is-tanker-activity-telling-us-anything-about-oil-exports_chart1.png)
+> **Chart on PDF page 1: LIGHT CRUDE Continuous (58.1500, 60.0000, 58.1400, 59.4200, +1.33000)**  
+> X-axis: July to July  
+> Series: NYMEX, Spot Fixtures Rising, Spot Fixtures Fell  
+> *No image crop of this chart was saved; caption read from the PDF.*
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2005/poten_2005-06-24_is-tanker-activity-telling-us-anything-about-oil-exports_chart1.png)
+> **Chart on PDF page 2: # Weekly VLCC AG Spot Fixtures**  
+> Unit: # Fixtures · X-axis: Jan-04 to Apr-05  
+> Series: Weekly VLCC AG Spot Fixtures  
+> *Source: Poten & Partners*  
+> *No image crop of this chart was saved; caption read from the PDF.*
+
+> **Chart on PDF page 3: VLCC $/Day vs AG VLCC Fixture Activity**  
+> Unit: $/Day | # Fixtures · X-axis: 5/23 to 6/23  
+> Series: $/Day, # Fixtures  
+> *Source: Poten & Partners*  
+> *No image crop of this chart was saved; caption read from the PDF.*
+
+> **Chart on PDF page 3: VLCC $/Day vs AG VLCC Availability**  
+> Unit: $/Day | # VLCCs · X-axis: 5/23 to 6/23  
+> Series: $/Day, # VLCCs  
+> *Source: Poten & Partners*  
+> *No image crop of this chart was saved; caption read from the PDF.*

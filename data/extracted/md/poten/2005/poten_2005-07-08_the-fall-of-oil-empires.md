@@ -68,6 +68,32 @@ The world crude situation is more urgent than simply producing more from existin
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: The Fall of Oil Empires](../../../charts/poten/2005/poten_2005-07-08_the-fall-of-oil-empires_chart1.png)
+> **Chart on PDF page 1: Indonesia**  
+> Unit: 000 Bpd · X-axis: 1965 to 2000  
+> Series: Production, Consumption  
+> *Source: BP Energy Statistics/Poten*  
+> *No image crop of this chart was saved; caption read from the PDF.*
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2005/poten_2005-07-08_the-fall-of-oil-empires_chart1.png)
+> **Chart on PDF page 2: United Kingdom**  
+> Unit: 000 Bpd · X-axis: 1965 to 2000  
+> Series: Production, Consumption  
+> *Source: BP Energy Statistics/Poten*  
+> *No image crop of this chart was saved; caption read from the PDF.*
+
+> **Chart on PDF page 3: Colombia**  
+> Unit: 000 Bpd · X-axis: 1965 to 2000  
+> Series: Production, Consumption  
+> *Source: BP Energy Statistics/Poten*  
+> *No image crop of this chart was saved; caption read from the PDF.*
+
+> **Chart on PDF page 3: Egypt**  
+> Unit: 000 Bpd · X-axis: 1965 to 2000  
+> Series: Production, Consumption  
+> *Source: BP Energy Statistics/Poten*  
+> *No image crop of this chart was saved; caption read from the PDF.*
+
+> **Chart on PDF page 4: Oil Production**  
+> Unit: 000 Bpd · X-axis: 1965 to 2000  
+> Series: Colombia, Egypt, North Sea, Indonesia, United States  
+> *Source: BP Energy Statistics/Poten*  
+> *No image crop of this chart was saved; caption read from the PDF.*

@@ -74,6 +74,20 @@ Jan Feb Mar Apr May Jun Jul Aug Sep Oct Nov Dec Whatever lies ahead for the volu
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: As Demand Withers](../../../charts/poten/2008/poten_2008-08-15_as-demand-withers_chart1.png)
+> **Chart on PDF page 1: US Gasoline Supplied**  
+> Unit: 1,000 bbl/day · X-axis: 02-Jan-04 to 02-Jul-08  
+> Series: Gasoline Supplied, kbpd, Gasoline Supplied adjusted for ethanol, kbpd  
+> *Source: EIA/Poten*  
+> *No image crop of this chart was saved; caption read from the PDF.*
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2008/poten_2008-08-15_as-demand-withers_chart1.png)
+> **Chart on PDF page 2: US Refinery Utilization and Crack Spead**  
+> Unit: Utilization, percent | $/bbl · X-axis: 5-Jan-07 to 5-Jul-08  
+> Series: Refinery Utilization, % of Operable Capacity, 3-2-1 Crack Spread  
+> *Source: EIA/Poten*  
+> *No image crop of this chart was saved; caption read from the PDF.*
+
+> **Chart on PDF page 3: Time Charter Equivalent Earnings UK Continent to US Atlantic Coast**  
+> Unit: 1,000 $/day · X-axis: Jan to Dec  
+> Series: 2007, 2008  
+> *Source: Poten*  
+> *No image crop of this chart was saved; caption read from the PDF.*

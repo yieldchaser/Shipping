@@ -31,7 +31,7 @@ tags:
 ![67091bf09d74d40cacfa42f9 67091ba90cdef9569bec986c Untitled](../../images/67091bf09d74d40cacfa42f9_67091ba90cdef9569bec986c_Untitled.avif)
 
 > **Figure 1: 67091bf09d74d40cacfa42f9 67091ba90cdef9569bec986c Untitled**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/dry-week-41-2024) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/67091bf09d74d40cacfa42f9_67091ba90cdef9569bec986c_Untitled.avif)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/dry-week-41-2024) | [Local Asset](../../../../../../corpus/07-signal/images/67091bf09d74d40cacfa42f9_67091ba90cdef9569bec986c_Untitled.avif)
 
 This week's focus is on the increasing dependence of Southeast Asian countries on dry bulk coal flows, particularly as China and India are expected to reduce their share in the coming months. Southeast Asia is becoming a critical growth region for coal demand, even as global efforts to transition to renewable energy intensify. The energy industry has already identified countries such as Vietnam and the Philippines as key players set to expand their coal trade and consumption throughout this decade.
 

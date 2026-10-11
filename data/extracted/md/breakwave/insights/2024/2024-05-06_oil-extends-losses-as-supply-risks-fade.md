@@ -24,10 +24,10 @@ Shifts in the macro-economic backdrop left the market in two minds for most of t
 
 *By*[*Daniel Hynes*](https://www.linkedin.com/in/dahynes/)
 
-![Στιγμιότυπο Οθόνης 2024 05 06 095250](assets/2024-05-06_oil-extends-losses-as-supply-risks-fade_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_fd16b0ccef38.png)
+![Στιγμιότυπο Οθόνης 2024 05 06 095250](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-05-06_oil-extends-losses-as-supply-risks-fade_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_fd16b0ccef38.png)
 
 > **Figure 1: Στιγμιότυπο Οθόνης 2024 05 06 095250**  
-> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-05-06_oil-extends-losses-as-supply-risks-fade_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_fd16b0ccef38.png)
+> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-05-06_oil-extends-losses-as-supply-risks-fade_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_fd16b0ccef38.png)
 
 **Gold**ended the week lower amid the fallout from last week’s FOMC meeting. The Fed left rates unchanged but kept the language referring to a future reduction in rates. However, stubbornly high inflation is likely to lead to interest rates remaining higher for longer. This weighed on sentiment, which wasn’t helped by easing safe haven buying. The mood shifted again on Friday after a soft US jobs report lifted hopes of rate cuts.
 
@@ -39,10 +39,10 @@ Shifts in the macro-economic backdrop left the market in two minds for most of t
 
 **European gas**prices held above EUR30/MWh as traders ponder increasing competitiveness for LNG cargoes. Despite storage levels ending the heating season near record levels, strong demand from Asia could make replenishing those facilities harder in 2024. Strong buying from India helped support**LNG North Asia**LNG prices.
 
-![Στιγμιότυπο Οθόνης 2024 05 06 095834](assets/2024-05-06_oil-extends-losses-as-supply-risks-fade_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_aead6b9dfbb8.png)
+![Στιγμιότυπο Οθόνης 2024 05 06 095834](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-05-06_oil-extends-losses-as-supply-risks-fade_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_aead6b9dfbb8.png)
 
 > **Figure 2: Στιγμιότυπο Οθόνης 2024 05 06 095834**  
-> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-05-06_oil-extends-losses-as-supply-risks-fade_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_aead6b9dfbb8.png)
+> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-05-06_oil-extends-losses-as-supply-risks-fade_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_aead6b9dfbb8.png)
 
 Data source:[Commodities Wrap](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI)
 

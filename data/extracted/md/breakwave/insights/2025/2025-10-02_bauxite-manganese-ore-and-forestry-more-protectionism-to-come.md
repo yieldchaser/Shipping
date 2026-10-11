@@ -22,34 +22,34 @@ source_file: "corpus/03-breakwave/insights/2025/2025-10-02_bauxite-manganese-ore
 
 Minor bulk, made up of all dry cargo types that are not categorized as iron ore, coal, or grains, has consistently outperformed the previous year in terms of total tonnage exported. In August, this trend continued as the total tonnage of minor bulk exports increased by 7% compared to the same period last year. Through 2025 H2, there have been several protectionist policies announced that will impact vessel demand going forward. Signal Ocean will continue to monitor and report as the outcomes become more visible.
 
-![Market Chart 1](assets/2025-10-02_bauxite-manganese-ore-and-forestry-more-protectionism-to-come_img_unnamed_78bcb17cc4ab.png)
+![Market Chart 1](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-10-02_bauxite-manganese-ore-and-forestry-more-protectionism-to-come_img_unnamed_78bcb17cc4ab.png)
 
 > **Figure 1: Market Chart 1**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-10-02_bauxite-manganese-ore-and-forestry-more-protectionism-to-come_img_unnamed_78bcb17cc4ab.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-10-02_bauxite-manganese-ore-and-forestry-more-protectionism-to-come_img_unnamed_78bcb17cc4ab.png)
 
 ### Economic Environment
 
-![Manufacturing Pmi’s](assets/2025-10-02_bauxite-manganese-ore-and-forestry-more-protectionism-to-come_img_unnamed28129_a7813d8b9941.png)
+![Manufacturing Pmi’s](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-10-02_bauxite-manganese-ore-and-forestry-more-protectionism-to-come_img_unnamed28129_a7813d8b9941.png)
 
 > **Figure 2: Manufacturing Pmi’s**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-10-02_bauxite-manganese-ore-and-forestry-more-protectionism-to-come_img_unnamed28129_a7813d8b9941.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-10-02_bauxite-manganese-ore-and-forestry-more-protectionism-to-come_img_unnamed28129_a7813d8b9941.png)
 
 ### Exchange Rates
 
-![Usd Vs:](assets/2025-10-02_bauxite-manganese-ore-and-forestry-more-protectionism-to-come_img_unnamed28229_36b71ef8adaa.png)
+![Usd Vs:](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-10-02_bauxite-manganese-ore-and-forestry-more-protectionism-to-come_img_unnamed28229_36b71ef8adaa.png)
 
 > **Figure 3: Usd Vs:**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-10-02_bauxite-manganese-ore-and-forestry-more-protectionism-to-come_img_unnamed28229_36b71ef8adaa.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-10-02_bauxite-manganese-ore-and-forestry-more-protectionism-to-come_img_unnamed28229_36b71ef8adaa.png)
 
-![Rmb Vs:](assets/2025-10-02_bauxite-manganese-ore-and-forestry-more-protectionism-to-come_img_unnamed28329_a05f43a46b11.png)
+![Rmb Vs:](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-10-02_bauxite-manganese-ore-and-forestry-more-protectionism-to-come_img_unnamed28329_a05f43a46b11.png)
 
 > **Figure 4: Rmb Vs:**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-10-02_bauxite-manganese-ore-and-forestry-more-protectionism-to-come_img_unnamed28329_a05f43a46b11.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-10-02_bauxite-manganese-ore-and-forestry-more-protectionism-to-come_img_unnamed28329_a05f43a46b11.png)
 
-![Baltic Indexes](assets/2025-10-02_bauxite-manganese-ore-and-forestry-more-protectionism-to-come_img_unnamed28429_316b73309c51.png)
+![Baltic Indexes](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-10-02_bauxite-manganese-ore-and-forestry-more-protectionism-to-come_img_unnamed28429_316b73309c51.png)
 
 > **Figure 5: Baltic Indexes**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-10-02_bauxite-manganese-ore-and-forestry-more-protectionism-to-come_img_unnamed28429_316b73309c51.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-10-02_bauxite-manganese-ore-and-forestry-more-protectionism-to-come_img_unnamed28429_316b73309c51.png)
 
 ### Minor Bulk
 
@@ -63,20 +63,20 @@ On the supply side, more interesting developments have taken shape in Guinea. In
 
 Still, the deposit accounts for around 5% of the total 7.4bt worth of bauxite reserves in Guinea. There is little information around production rates or operating plans as of yet, but given the ownership nature, it would be sensible to assume that production at high utilization rates will be a priority. This will continue to be beneficial for capesize demand from West Africa to the Far East, supporting prices.
 
-![Market Chart 6](assets/2025-10-02_bauxite-manganese-ore-and-forestry-more-protectionism-to-come_img_unnamed28529_1c252c26b307.png)
+![Market Chart 6](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-10-02_bauxite-manganese-ore-and-forestry-more-protectionism-to-come_img_unnamed28529_1c252c26b307.png)
 
 > **Figure 6: Market Chart 6**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-10-02_bauxite-manganese-ore-and-forestry-more-protectionism-to-come_img_unnamed28529_1c252c26b307.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-10-02_bauxite-manganese-ore-and-forestry-more-protectionism-to-come_img_unnamed28529_1c252c26b307.png)
 
-![Market Chart 7](assets/2025-10-02_bauxite-manganese-ore-and-forestry-more-protectionism-to-come_img_unnamed28629_5939c582ac3c.png)
+![Market Chart 7](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-10-02_bauxite-manganese-ore-and-forestry-more-protectionism-to-come_img_unnamed28629_5939c582ac3c.png)
 
 > **Figure 7: Market Chart 7**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-10-02_bauxite-manganese-ore-and-forestry-more-protectionism-to-come_img_unnamed28629_5939c582ac3c.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-10-02_bauxite-manganese-ore-and-forestry-more-protectionism-to-come_img_unnamed28629_5939c582ac3c.png)
 
-![Market Chart 8](assets/2025-10-02_bauxite-manganese-ore-and-forestry-more-protectionism-to-come_img_unnamed28729_6d1588848969.png)
+![Market Chart 8](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-10-02_bauxite-manganese-ore-and-forestry-more-protectionism-to-come_img_unnamed28729_6d1588848969.png)
 
 > **Figure 8: Market Chart 8**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-10-02_bauxite-manganese-ore-and-forestry-more-protectionism-to-come_img_unnamed28729_6d1588848969.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-10-02_bauxite-manganese-ore-and-forestry-more-protectionism-to-come_img_unnamed28729_6d1588848969.png)
 
 ### Manganese Ore
 
@@ -88,20 +88,20 @@ The implementation of this policy will have a direct result on vessel demand fro
 
 However, given the time frame, the policy will not come into effect until 2029, and the need for greater build-out of the processing infrastructure in Gabon, vessel demand will remain strong up until that point. The largest consumer of manganese is China, and despite the downward pressure on carbon steel production, the use of steel containing higher levels of manganese has a strong outlook. This should provide a solid base for demand for the next 4 years at least.
 
-![Market Chart 9](assets/2025-10-02_bauxite-manganese-ore-and-forestry-more-protectionism-to-come_img_unnamed28829_acc1fb421229.png)
+![Market Chart 9](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-10-02_bauxite-manganese-ore-and-forestry-more-protectionism-to-come_img_unnamed28829_acc1fb421229.png)
 
 > **Figure 9: Market Chart 9**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-10-02_bauxite-manganese-ore-and-forestry-more-protectionism-to-come_img_unnamed28829_acc1fb421229.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-10-02_bauxite-manganese-ore-and-forestry-more-protectionism-to-come_img_unnamed28829_acc1fb421229.png)
 
-![Market Chart 10](assets/2025-10-02_bauxite-manganese-ore-and-forestry-more-protectionism-to-come_img_unnamed28929_8db4351ea4c4.png)
+![Market Chart 10](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-10-02_bauxite-manganese-ore-and-forestry-more-protectionism-to-come_img_unnamed28929_8db4351ea4c4.png)
 
 > **Figure 10: Market Chart 10**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-10-02_bauxite-manganese-ore-and-forestry-more-protectionism-to-come_img_unnamed28929_8db4351ea4c4.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-10-02_bauxite-manganese-ore-and-forestry-more-protectionism-to-come_img_unnamed28929_8db4351ea4c4.png)
 
-![Market Chart 11](assets/2025-10-02_bauxite-manganese-ore-and-forestry-more-protectionism-to-come_img_unnamed281029_29f79906996b.png)
+![Market Chart 11](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-10-02_bauxite-manganese-ore-and-forestry-more-protectionism-to-come_img_unnamed281029_29f79906996b.png)
 
 > **Figure 11: Market Chart 11**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-10-02_bauxite-manganese-ore-and-forestry-more-protectionism-to-come_img_unnamed281029_29f79906996b.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-10-02_bauxite-manganese-ore-and-forestry-more-protectionism-to-come_img_unnamed281029_29f79906996b.png)
 
 ### Forestry
 
@@ -113,20 +113,20 @@ Within the U.S., lumber is typically used in construction. The wood is used to b
 
 Approximately 50% of lumber exports to the U.S. originate from Germany, with 64% transported by handysize vessels and 21% by handymax. These exports will need to be redirected going forward, but this may be difficult in practice, as 96% of lumber exports from Germany are destined to the U.S, and the U.S. is the destination for 80% of all lumber from any destination. Interestingly, the HS2 shipping route has seen freight rates surge since the end of July. This may indicate that those in the market were anticipating this announcement and worked hard to move the lumber from Europe to the U.S. before tariffs come into full effect.
 
-![Market Chart 12](assets/2025-10-02_bauxite-manganese-ore-and-forestry-more-protectionism-to-come_img_unnamed281129_cf73aba43df8.png)
+![Market Chart 12](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-10-02_bauxite-manganese-ore-and-forestry-more-protectionism-to-come_img_unnamed281129_cf73aba43df8.png)
 
 > **Figure 12: Market Chart 12**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-10-02_bauxite-manganese-ore-and-forestry-more-protectionism-to-come_img_unnamed281129_cf73aba43df8.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-10-02_bauxite-manganese-ore-and-forestry-more-protectionism-to-come_img_unnamed281129_cf73aba43df8.png)
 
-![Market Chart 13](assets/2025-10-02_bauxite-manganese-ore-and-forestry-more-protectionism-to-come_img_unnamed281229_5af1299e1235.png)
+![Market Chart 13](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-10-02_bauxite-manganese-ore-and-forestry-more-protectionism-to-come_img_unnamed281229_5af1299e1235.png)
 
 > **Figure 13: Market Chart 13**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-10-02_bauxite-manganese-ore-and-forestry-more-protectionism-to-come_img_unnamed281229_5af1299e1235.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-10-02_bauxite-manganese-ore-and-forestry-more-protectionism-to-come_img_unnamed281229_5af1299e1235.png)
 
-![Market Chart 14](assets/2025-10-02_bauxite-manganese-ore-and-forestry-more-protectionism-to-come_img_unnamed281329_eb2b2e626902.png)
+![Market Chart 14](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-10-02_bauxite-manganese-ore-and-forestry-more-protectionism-to-come_img_unnamed281329_eb2b2e626902.png)
 
 > **Figure 14: Market Chart 14**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-10-02_bauxite-manganese-ore-and-forestry-more-protectionism-to-come_img_unnamed281329_eb2b2e626902.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-10-02_bauxite-manganese-ore-and-forestry-more-protectionism-to-come_img_unnamed281329_eb2b2e626902.png)
 
 Data Source:[Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform)
 

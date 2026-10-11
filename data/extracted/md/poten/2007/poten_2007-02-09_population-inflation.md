@@ -82,6 +82,14 @@ So while the overall population growth has been impressive, the growth in daily 
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: Population Inflation](../../../charts/poten/2007/poten_2007-02-09_population-inflation_chart1.png)
+> **Chart on PDF page 1: Population Inflation**  
+> Unit: Billions | Million Barrels Per Day · X-axis: 1960 to 2030  
+> Series: United States, India, China, Rest of World, World Oil Consumption  
+> *Source: Poten / US Census Bureau*  
+> *No image crop of this chart was saved; caption read from the PDF.*
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2007/poten_2007-02-09_population-inflation_chart1.png)
+> **Chart on PDF page 2: GDP Per Capita vs GDP (Thousand $) per Barrel of Oil Consumed**  
+> Unit: $ | Thousand $ · X-axis: $0 to $4,500  
+> Series: USA, Canada, Hong Kong, Qatar, UK, South Korea, Greece, Kuwait, Saudi Arabia, Russia, China, Philippines, India, Bangladesh  
+> *Source: Poten / CIA Factbook*  
+> *No image crop of this chart was saved; caption read from the PDF.*

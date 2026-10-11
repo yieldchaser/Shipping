@@ -20,10 +20,10 @@ source_file: "corpus/03-breakwave/insights/2026/2026-04-15_q1-2026-orderbook-dat
 
 ---
 
-![Pexels Tomfisk 4115449](assets/2026-04-15_q1-2026-orderbook-data-paints-the-picture-of-an-industry-that-is-repositioning-d_img_pexels-tomfisk-4115449_acd4c51d8727.jpg)
+![Pexels Tomfisk 4115449](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-04-15_q1-2026-orderbook-data-paints-the-picture-of-an-industry-that-is-repositioning-d_img_pexels-tomfisk-4115449_acd4c51d8727.jpg)
 
 > **Figure 1: Pexels Tomfisk 4115449**  
-> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/company/xclusiv-shipbrokers-inc/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-04-15_q1-2026-orderbook-data-paints-the-picture-of-an-industry-that-is-repositioning-d_img_pexels-tomfisk-4115449_acd4c51d8727.jpg)
+> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/company/xclusiv-shipbrokers-inc/) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-04-15_q1-2026-orderbook-data-paints-the-picture-of-an-industry-that-is-repositioning-d_img_pexels-tomfisk-4115449_acd4c51d8727.jpg)
 
 The first quarter of 2026 delivered a sharp and unambiguous signal from the newbuilding market: owners are ordering at scale, and the tanker sector is driving the narrative. Total orders placed across all segments reached 422 vessels in Q1 2026, a 34% increase year-on-year versus the 315 recorded in Q1 2025. What makes this cycle particularly noteworthy, however, it is not just the volume, it is the composition, the concentration in specific vessel types, and the outsized role of Greek principals, whose ordering activity tripled from 33 to 102 vessels in a single year.
 

@@ -30,10 +30,18 @@ The bigger impact (in the short- to medium term) will probably be on the supply 
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: Back To The Negotiating Table](../../../charts/poten/2021/poten_2021-04-09_back-to-the-negotiating-table_chart1.png)
+![Exhibit 1: Iran Crude Oil Exports by Destination](../../../charts/poten/2021/poten_2021-04-09_back-to-the-negotiating-table_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2021/poten_2021-04-09_back-to-the-negotiating-table_chart1.png)
+> **Exhibit 1: Iran Crude Oil Exports by Destination**  
+> Unit: Kb/d · X-axis: Jan-14 to Jan-21  
+> Series: China, India, Korea, Other Asia, Turkey, Other Med, UKC, Other  
+> *Source: Poten / Lloyds List Intelligence*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2021/poten_2021-04-09_back-to-the-negotiating-table_chart1.png)
 
-![Exhibit 2: Back To The Negotiating Table](../../../charts/poten/2021/poten_2021-04-09_back-to-the-negotiating-table_chart2.png)
+![Exhibit 2: Iranian Tanker Fleet in Storage](../../../charts/poten/2021/poten_2021-04-09_back-to-the-negotiating-table_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2021/poten_2021-04-09_back-to-the-negotiating-table_chart2.png)
+> **Exhibit 2: Iranian Tanker Fleet in Storage**  
+> Unit: Mbbl | No. Vessels · X-axis: 4-Jan-19 to 4-Mar-21  
+> Series: Number of Vessels, Mbbl  
+> *Source: Lloyds List Intelligence*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2021/poten_2021-04-09_back-to-the-negotiating-table_chart2.png)

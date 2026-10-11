@@ -19,10 +19,10 @@ source_file: "corpus/03-breakwave/insights/2023/2023-08-29_breakwave-bi-weekly-d
 
 ---
 
-![Dbreporttop](assets/2023-08-29_breakwave-bi-weekly-dry-report-7x7sebulk_img_dbreporttop_2daf1a016f2e.png)
+![Dbreporttop](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-08-29_breakwave-bi-weekly-dry-report-7x7sebulk_img_dbreporttop_2daf1a016f2e.png)
 
 > **Figure 1: Dbreporttop**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-08-29_breakwave-bi-weekly-dry-report-7x7sebulk_img_dbreporttop_2daf1a016f2e.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-08-29_breakwave-bi-weekly-dry-report-7x7sebulk_img_dbreporttop_2daf1a016f2e.png)
 
 **• A muted, rangebound market continues as fleet inefficiencies hit record lows**– The dry bulk market seems to operate in a very streamlined and efficient manner, with effective supply now even higher than in the pre-Covid years. Although the present situation is limiting the ability of freight rates to move higher, looking forward, the stage is set for a tightening in such effective supply once weather issues appear and as the winter months approach. However, despite the well-supplied market, spot rates remain relatively elevated versus previous instances when charterers had managed to push rates for Capesize ships in the low single digit levels. We remain of the opinion that the oversupply of the previous decade is behind us, and we are now faced with a more balanced dry bulk market where any potential tightness in supply can cause utilization to spike and lead to a fast-moving spot market that can get to high levels in matter of days. For now, though, we have to wait for some West African bauxite demand to return after the slow summer months and start pulling some vessels, in the process tightening the Atlantic market and thus providing the fuel for a potential fourth quarter rally in Capesize rates. In addition, the fact that Panamax rates have seen a very strong recovery from their early August lows is noteworthy, especially given the historically slow months for these types of ships, which should also aid the larger segments down the road.
 
@@ -30,14 +30,14 @@ source_file: "corpus/03-breakwave/insights/2023/2023-08-29_breakwave-bi-weekly-d
 
 **• Dry bulk focus shifts back to fundamentals**– Following a period of high uncertainty and significant disruptions across the commodity spectrum, the gradual normalization of trade is shifting the market’s attention back to the traditional demand and supply dynamics that have shaped dry bulk profitability for decades. As effective fleet supply growth for the next few years looks marginal, demand will be the main determinant of spot freight rates with China returning back to the driver’s seat as the dominant force of bulk imports and thus shipping demand.
 
-![Dbreportchart](assets/2023-08-29_breakwave-bi-weekly-dry-report-7x7sebulk_img_dbreportchart_62b63df59bef.png)
+![Dbreportchart](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-08-29_breakwave-bi-weekly-dry-report-7x7sebulk_img_dbreportchart_62b63df59bef.png)
 
 > **Figure 2: Dbreportchart**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-08-29_breakwave-bi-weekly-dry-report-7x7sebulk_img_dbreportchart_62b63df59bef.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-08-29_breakwave-bi-weekly-dry-report-7x7sebulk_img_dbreportchart_62b63df59bef.png)
 
-![Dbreportbottom](assets/2023-08-29_breakwave-bi-weekly-dry-report-7x7sebulk_img_dbreportbottom_00eb5bdf6f81.png)
+![Dbreportbottom](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-08-29_breakwave-bi-weekly-dry-report-7x7sebulk_img_dbreportbottom_00eb5bdf6f81.png)
 
 > **Figure 3: Dbreportbottom**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-08-29_breakwave-bi-weekly-dry-report-7x7sebulk_img_dbreportbottom_00eb5bdf6f81.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-08-29_breakwave-bi-weekly-dry-report-7x7sebulk_img_dbreportbottom_00eb5bdf6f81.png)
 
 ### Subscribe:

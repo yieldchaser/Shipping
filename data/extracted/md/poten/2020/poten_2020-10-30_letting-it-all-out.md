@@ -30,8 +30,8 @@ Since the tanker market is significantly oversupplied and the additional barrels
 
 ![Exhibit 1: Letting It All Out](../../../charts/poten/2020/poten_2020-10-30_letting-it-all-out_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2020/poten_2020-10-30_letting-it-all-out_chart1.png)
+> **Interactive Asset:** [Local Asset (200 DPI PNG)](../../../charts/poten/2020/poten_2020-10-30_letting-it-all-out_chart1.png)
 
 ![Exhibit 2: Letting It All Out](../../../charts/poten/2020/poten_2020-10-30_letting-it-all-out_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2020/poten_2020-10-30_letting-it-all-out_chart2.png)
+> **Interactive Asset:** [Local Asset (200 DPI PNG)](../../../charts/poten/2020/poten_2020-10-30_letting-it-all-out_chart2.png)

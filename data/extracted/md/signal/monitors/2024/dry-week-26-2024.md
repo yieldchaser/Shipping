@@ -34,7 +34,7 @@ tags:
 ![667c2c343c3bc6c1b21d8281 Untitled](../../images/667c2c343c3bc6c1b21d8281_Untitled.avif)
 
 > **Figure 1: 667c2c343c3bc6c1b21d8281 Untitled**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/dry-week-26-2024) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/667c2c343c3bc6c1b21d8281_Untitled.avif)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/dry-week-26-2024) | [Local Asset](../../../../../../corpus/07-signal/images/667c2c343c3bc6c1b21d8281_Untitled.avif)
 
 In the last days of June, the dry bulk freight market showed signs of recovery in the Capesize segment, with hopes for a firmer Chinese economic performance reflected in the last closing of iron ore prices. Iron ore futures prices rebounded on Tuesday, buoyed by robust demand for the crucial steelmaking ingredient and renewed optimism regarding economic stimulus in China, the world's largest consumer.
 

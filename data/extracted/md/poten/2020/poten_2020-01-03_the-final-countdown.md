@@ -53,14 +53,23 @@ In the Aframax segment, Vitol and Shell maintained their position on top of the 
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: The Final Countdown](../../../charts/poten/2020/poten_2020-01-03_the-final-countdown_chart1.png)
+![Exhibit 1: Top 10 VLCC Spot Charterers](../../../charts/poten/2020/poten_2020-01-03_the-final-countdown_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2020/poten_2020-01-03_the-final-countdown_chart1.png)
+> **Exhibit 1: Top 10 VLCC Spot Charterers**  
+> Unit: No. Spot Fixtures · X-axis: Unipec to Petrochina  
+> Series: Unipec, Ioc, Shell, Sinochem, Petrobras, Reliance, ExxonMobil, Hyundai, Vitol, Petrochina  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2020/poten_2020-01-03_the-final-countdown_chart1.png)
 
-![Exhibit 2: The Final Countdown](../../../charts/poten/2020/poten_2020-01-03_the-final-countdown_chart2.png)
+![Exhibit 2: Top 10 Suezmax Spot Charterers](../../../charts/poten/2020/poten_2020-01-03_the-final-countdown_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2020/poten_2020-01-03_the-final-countdown_chart2.png)
+> **Exhibit 2: Top 10 Suezmax Spot Charterers**  
+> Unit: No. Spot Fixtures · X-axis: Shell to Vitol  
+> Series: Shell, Unipec, Repsol, ExxonMobil, Chevron, Ioc, Total, BPCL, BP, Vitol  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2020/poten_2020-01-03_the-final-countdown_chart2.png)
 
-![Exhibit 3: The Final Countdown](../../../charts/poten/2020/poten_2020-01-03_the-final-countdown_chart3.png)
+![Exhibit 3: Top 10 Aframax Spot Charterers](../../../charts/poten/2020/poten_2020-01-03_the-final-countdown_chart3.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2020/poten_2020-01-03_the-final-countdown_chart3.png)
+> **Exhibit 3: Top 10 Aframax Spot Charterers**  
+> Unit: No. Spot Fixtures · X-axis: Vitol to ENI  
+> Series: Vitol, Shell, BP, Chevron, Unipec, ExxonMobil, Total, Glencore, Lukoil, ENI  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2020/poten_2020-01-03_the-final-countdown_chart3.png)

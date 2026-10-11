@@ -27,25 +27,25 @@ Wintertime in Greece, much like in the spot market, can be harsher than expected
 
 Zeus’ helping hand is still largely unfelt by the spot market this winter though, with the Baltic Dry Index concluding today at just 538 points. The leading Baltic Capesize TC index balanced at $2,246 daily on this week's closing. The current state of the Capesize market compared to the previous five-year average reveals quite a demoralising picture. In sync, the Baltic Panamax TC index remained under pressure, ending the week at $7,302 daily. Geared segments closed this Friday in the black, with Baltic Supra TC and Handy TC laying at $7,641 and $7,875 daily respectively.
 
-![1 (5)](assets/2023-02-20_doric-weekly-market-insight_img_128529_8b3a2b17db04.png)
+![1 (5)](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-02-20_doric-weekly-market-insight_img_128529_8b3a2b17db04.png)
 
 > **Figure 1: 1 (5)**  
-> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-02-20_doric-weekly-market-insight_img_128529_8b3a2b17db04.png)
+> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-02-20_doric-weekly-market-insight_img_128529_8b3a2b17db04.png)
 
 Zooming in to the capricious Capesize sub-market, the most China-centric segment kept balancing below OPEX for the most part of the current trading year. Not being in a rush to increase their production, steel mills hung back a bit, awaiting signals of further policy support to the Chinese economy. This wait-and-see approach of steel mills along with a tepid real estate recovery have had a negative bearing on the demand of iron ore up to now. Indicatively, total imported iron ore stocks at China's 45 major ports under Mysteel's tracking mounted further to touch a ninemonth high of 141.1 million tonnes as of February 16, up by another 1 million tonnes for the fourth week in a row. Even with the country reopening and the government easing its leverage limits to boost growth, the locomotive of global growth has yet to gather the necessary momentum to steam steadfast.
 
 In sharp contrast, prices for new homes in mainland China did not decline in January for the first time since August 2021, as relaxed Covid19 restrictions and Beijing’s roll-out of more supportive measures for the property sector stabilised demand. The average new-home price in 70 medium and large cities in China trended sideways in January, compared with a marginal percentage monthly slip in December, according to the National Bureau of Statistics (NBS). More major cities among the 70 surveyed by NBS reported increases in new home prices last month, with prices rising in 36 cities, up from 15 in December. Beijing, in late November, launched a series of supportive measures, including supporting developers’ financing and lowering mortgage rates for homebuyers. On the same wavelength, local governments in China launched various measures during the last three months, in order to boost demand and stimulate house sales. Although, sentiment has been improving, the recovery has been patchy up to now, with private surveys showing home sales by floor area slumping circa 20 percent from a year earlier.
 
-![1 (6)](assets/2023-02-20_doric-weekly-market-insight_img_128629_cd1051dd4d01.png)
+![1 (6)](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-02-20_doric-weekly-market-insight_img_128629_cd1051dd4d01.png)
 
 > **Figure 2: 1 (6)**  
-> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-02-20_doric-weekly-market-insight_img_128629_cd1051dd4d01.png)
+> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-02-20_doric-weekly-market-insight_img_128629_cd1051dd4d01.png)
 
 Just before this unfruitful week’s closing, China announced the construction of a new mega airport. Shanghai and neighbouring Jiangsu province will jointly build a new airport in an effort to boost the transport network of the Yangtze River Delta, China’s largest economic center. The airport in Nantong is designed with two long-distance runways that can handle annual throughput of 40 million passengers, authorities say. However promising these mega projects in China may appear, the spot freight market has lost most of the frequent flyer benefits lately, if not its passenger seat to higher altitudes.
 
-![1 (7)](assets/2023-02-20_doric-weekly-market-insight_img_128729_e7b6773e95ef.png)
+![1 (7)](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-02-20_doric-weekly-market-insight_img_128729_e7b6773e95ef.png)
 
 > **Figure 3: 1 (7)**  
-> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-02-20_doric-weekly-market-insight_img_128729_e7b6773e95ef.png)
+> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-02-20_doric-weekly-market-insight_img_128729_e7b6773e95ef.png)
 
 Data source:[Doric](https://www.doric.gr/)

@@ -30,10 +30,18 @@ From a charterers perspective, it looks like freight rates will become significa
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: 2020 Vision on Freight Costs](../../../charts/poten/2019/poten_2019-11-01_2020-vision-on-freight-costs_chart1.png)
+![Exhibit 1: Rotterdam Bunker Prices](../../../charts/poten/2019/poten_2019-11-01_2020-vision-on-freight-costs_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2019/poten_2019-11-01_2020-vision-on-freight-costs_chart1.png)
+> **Exhibit 1: Rotterdam Bunker Prices**  
+> Unit: $/ton · X-axis: Jan-19 to Dec-20  
+> Series: HFO, VLSFO, MGO  
+> *Source: Poten & Partners, Bloomberg*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2019/poten_2019-11-01_2020-vision-on-freight-costs_chart1.png)
 
-![Exhibit 2: 2020 Vision on Freight Costs](../../../charts/poten/2019/poten_2019-11-01_2020-vision-on-freight-costs_chart2.png)
+![Exhibit 2: 2020 Freight Rates: HFO vs MGO & VLSFO](../../../charts/poten/2019/poten_2019-11-01_2020-vision-on-freight-costs_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2019/poten_2019-11-01_2020-vision-on-freight-costs_chart2.png)
+> **Exhibit 2: 2020 Freight Rates: HFO vs MGO & VLSFO**  
+> Unit: USD/Ton · X-axis: TD3c to TC2  
+> Series: HFO, VLSFO, MGO  
+> *Source: Poten & Partners*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2019/poten_2019-11-01_2020-vision-on-freight-costs_chart2.png)

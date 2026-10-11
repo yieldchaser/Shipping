@@ -61,9 +61,9 @@ The recent decline for the sugar futures followed several weeks of elevated carg
 
 Despite the downward trajectory for cargo order volumes for sugar loading in Brazil over the past few weeks, the average cargo size has remained stable at around 40,000 tonnes since the middle of August. As a result, the lower volumes will weigh on freight rates in the smaller segments.
 
-![Market Chart 1](assets/2023-10-05_shipfix-global-market-update_img_unnamed-2023-10-05t125411376_d55c4cb81f06.png)
+![Market Chart 1](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-10-05_shipfix-global-market-update_img_unnamed-2023-10-05t125411376_d55c4cb81f06.png)
 
 > **Figure 1: Market Chart 1**  
-> **Interactive Data & Source:** [Shipfix](https://shipfix.com/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-10-05_shipfix-global-market-update_img_unnamed-2023-10-05t125411376_d55c4cb81f06.png)
+> **Interactive Data & Source:** [Shipfix](https://shipfix.com/) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-10-05_shipfix-global-market-update_img_unnamed-2023-10-05t125411376_d55c4cb81f06.png)
 
 Data Source:[Shipfix](https://shipfix.com/)

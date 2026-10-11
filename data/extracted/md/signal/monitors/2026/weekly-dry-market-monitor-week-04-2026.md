@@ -30,10 +30,10 @@ tags:
 South Atlantic Vs Pacific
 
 
-![Chart of the Week| Capesize Ballasters](../../images/6970decaa3c704b9300e828f_5df9deb9.png)
+![Chart of the Week| Capesize Ballasters](../../../../../../corpus/07-signal/images/6970decaa3c704b9300e828f_5df9deb9.png)
 
 > **Figure 1: Chart of the Week| Capesize Ballasters**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-dry-market-monitor-week-04-2026) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6970decaa3c704b9300e828f_5df9deb9.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-dry-market-monitor-week-04-2026) | [Local Asset](../../../../../../corpus/07-signal/images/6970decaa3c704b9300e828f_5df9deb9.png)
 
 
 ## Key Takeaways
@@ -50,10 +50,10 @@ South Atlantic Vs Pacific
 ### Spot Dryfreightindices Showed Modest Daily Gains.
 
 
-![Spot Dry Freight Indices Showed Modest Daily Gains.](../../images/6970decaa3c704b9300e8298_49e0c0fb.png)
+![Spot Dry Freight Indices Showed Modest Daily Gains.](../../../../../../corpus/07-signal/images/6970decaa3c704b9300e8298_49e0c0fb.png)
 
 > **Figure 2: Spot Dry Freight Indices Showed Modest Daily Gains.**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-dry-market-monitor-week-04-2026) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6970decaa3c704b9300e8298_49e0c0fb.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-dry-market-monitor-week-04-2026) | [Local Asset](../../../../../../corpus/07-signal/images/6970decaa3c704b9300e8298_49e0c0fb.png)
 
 The past week delivered a series of developments with potential implications for dry bulk freight demand in the months ahead. At the opening of the third week of January (19 January), market conditions were reflected in Baltic Dry Index value (BDI) of around 1,650, alongside Baltic Capesize Index (BCI) near 2,570 and Baltic Panamax Index (BPI) at approximately 1,520.
 
@@ -70,10 +70,10 @@ Agricultural trade activity also remained firm. China was active in the soybean 
 ### Capesize |firmer
 
 
-![Capesize | Firmer](../../images/6970decaa3c704b9300e8292_8cc4e6fe.png)
+![Capesize | Firmer](../../../../../../corpus/07-signal/images/6970decaa3c704b9300e8292_8cc4e6fe.png)
 
 > **Figure 3: Capesize | Firmer**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-dry-market-monitor-week-04-2026) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6970decaa3c704b9300e8292_8cc4e6fe.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-dry-market-monitor-week-04-2026) | [Local Asset](../../../../../../corpus/07-signal/images/6970decaa3c704b9300e8292_8cc4e6fe.png)
 
 
 - **C3** – Tubarao to Qingdao is currently assessed at around $20.9/mt, with recent day-on-day (+3.2%) and week-on-week (+3.0%) increases. Over longer horizons, the performance remains lower, with rates 13.6% below month-ago levels and 14.6% below quarter-ago levels. Year-on-year comparisons remain higher at +17.0%. C3 is presently trading below its 52-week average of approximately $22.0/mt, indicating that current levels remain within the lower range of recent historical observations.
@@ -83,10 +83,10 @@ Agricultural trade activity also remained firm. China was active in the soybean 
 ## Ballasters|c3increasingvs Baltic Rates
 
 
-![Ballasters | C3 Increasing vs Baltic Rates](../../images/6970decaa3c704b9300e8295_eeab6883.png)
+![Ballasters | C3 Increasing vs Baltic Rates](../../../../../../corpus/07-signal/images/6970decaa3c704b9300e8295_eeab6883.png)
 
 > **Figure 4: Ballasters | C3 Increasing vs Baltic Rates**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-dry-market-monitor-week-04-2026) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6970decaa3c704b9300e8295_eeab6883.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-dry-market-monitor-week-04-2026) | [Local Asset](../../../../../../corpus/07-signal/images/6970decaa3c704b9300e8295_eeab6883.png)
 
 
 - Between 24 Dec 2025 and 20 Jan 2026, ballaster counts increased from 246 to 282 vessels, reaching a peak during the period between these two observation points, while C3 declined from $23.62/mt to $20.93/mt. This highlights higher vessel availability being observed alongside lower freight levels during January. With ballaster counts having reached a peak during January, subsequent changes typically reflect vessels being absorbed into employment, altering the level of visible ballaster availability.
@@ -95,10 +95,10 @@ Agricultural trade activity also remained firm. China was active in the soybean 
 ## Demand | South Atlantic Daily Volume Loaded
 
 
-![Demand | South Atlantic Daily Volume Loaded](../../images/6970decaa3c704b9300e829b_60f50a75.png)
+![Demand | South Atlantic Daily Volume Loaded](../../../../../../corpus/07-signal/images/6970decaa3c704b9300e829b_60f50a75.png)
 
 > **Figure 5: Demand | South Atlantic Daily Volume Loaded**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-dry-market-monitor-week-04-2026) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6970decaa3c704b9300e829b_60f50a75.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-dry-market-monitor-week-04-2026) | [Local Asset](../../../../../../corpus/07-signal/images/6970decaa3c704b9300e829b_60f50a75.png)
 
 
 - When examining daily volume loaded in the South Atlantic for C3, recent data indicate that loadings have been occurring above the 1.0 million-ton benchmark. This suggests that cargo activity remains present, which may contribute to the absorption of vessel availability as the month progresses.
@@ -107,10 +107,10 @@ Agricultural trade activity also remained firm. China was active in the soybean 
 ## Ballasters|c5steadyvs Baltic Rates
 
 
-![Ballasters | C5 Steady vs Baltic Rates](../../images/6970decaa3c704b9300e829e_c8fb7eb5.png)
+![Ballasters | C5 Steady vs Baltic Rates](../../../../../../corpus/07-signal/images/6970decaa3c704b9300e829e_c8fb7eb5.png)
 
 > **Figure 6: Ballasters | C5 Steady vs Baltic Rates**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-dry-market-monitor-week-04-2026) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6970decaa3c704b9300e829e_c8fb7eb5.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-dry-market-monitor-week-04-2026) | [Local Asset](../../../../../../corpus/07-signal/images/6970decaa3c704b9300e829e_c8fb7eb5.png)
 
 
 - In contrast to the Atlantic, the Pacific market presents a different picture. As of 20 Jan 2026, ballaster counts stand at approximately 163 vessels, showing an almost steady trend for January, while C5 is assessed at around $8.50/mt.
@@ -119,10 +119,10 @@ Agricultural trade activity also remained firm. China was active in the soybean 
 ## Demand | West Australia Daily Volume Loaded
 
 
-![Demand | West Australia Daily Volume Loaded](../../images/6970decaa3c704b9300e82a1_305b5cd7.png)
+![Demand | West Australia Daily Volume Loaded](../../../../../../corpus/07-signal/images/6970decaa3c704b9300e82a1_305b5cd7.png)
 
 > **Figure 7: Demand | West Australia Daily Volume Loaded**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-dry-market-monitor-week-04-2026) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6970decaa3c704b9300e82a1_305b5cd7.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-dry-market-monitor-week-04-2026) | [Local Asset](../../../../../../corpus/07-signal/images/6970decaa3c704b9300e82a1_305b5cd7.png)
 
 
 - Recent data indicate that Capesize demand in both the Atlantic and Pacific has been tracking close to, and at times above, established demand benchmarks. For West Australia, daily volumes have recently been recorded above the 2.0 million-ton level, highlighting sustained cargo activity in the region.
@@ -131,10 +131,10 @@ Agricultural trade activity also remained firm. China was active in the soybean 
 ## Port Congestion | Discharge China
 
 
-![Port Congestion | Discharge China](../../images/6970decaa3c704b9300e82a4_ec329d3b.png)
+![Port Congestion | Discharge China](../../../../../../corpus/07-signal/images/6970decaa3c704b9300e82a4_ec329d3b.png)
 
 > **Figure 8: Port Congestion | Discharge China**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-dry-market-monitor-week-04-2026) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6970decaa3c704b9300e82a4_ec329d3b.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-dry-market-monitor-week-04-2026) | [Local Asset](../../../../../../corpus/07-signal/images/6970decaa3c704b9300e82a4_ec329d3b.png)
 
 
 - The number of vessels congested at Chinese discharge ports has recently been observed at higher levels, with current estimates around 150 vessels. This is above levels recorded toward the end of the previous year and higher than the lows seen earlier in the period, placing congestion toward the upper end of its recent range.

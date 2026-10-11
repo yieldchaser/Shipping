@@ -171,6 +171,8 @@ _No desk commentary reported for this session._
 | **Port Stock** | **0.01% Phosphorus** | Low Fe Grade 0.09\<P<0.1% | 28.00 | RMB/wet tonne | +0.00 |
 
 ## Historical Iron Ore Index Comparisons (USD/DMT)
+> **Approximate.** The report prints no numbers for this chart. Values were read visually from the chart image by the parser and are rough estimates.
+
 | Date | IOSI62 (USD/DMT) | IOPi62 CFR Eq (USD/DMT) | IOSI65 (USD/DMT) | IOPi65 CFR Eq (USD/DMT) |
 | :--- | :--- | :--- | :--- | :--- |
 | 2-Sep-20 | 122.00 | 120.00 | 124.00 | 122.00 |
@@ -201,6 +203,8 @@ _No desk commentary reported for this session._
 | **SGX** | **Sep. 21** | USD/DMT | 157.90 | -2.90 | -1.80% | 2.25 | 199.02 | 157.90 | 161.50 |
 
 ## Dry Bulk Freight Rates Historical Line Data (USD/MT)
+> **Approximate.** The report prints no numbers for this chart. Values were read visually from the chart image by the parser and are rough estimates.
+
 | Date | C5 W. Australia - Qingdao (USD/MT) | C3 Tubarao - Qingdao (USD/MT) |
 | :--- | :--- | :--- |
 | 31-Jul-20 | 7.00 | 18.00 |
@@ -218,6 +222,8 @@ _No desk commentary reported for this session._
 | 31-Jul-21 | 15.00 | 31.00 |
 
 ## Total China Iron Ore Import Volumes (Million Tonnes)
+> **Approximate.** The report prints no numbers for this chart. Values were read visually from the chart image by the parser and are rough estimates.
+
 | Month / Period | Import Volume (Million Tonnes) |
 | :--- | :--- |
 | Jul-20 | 112.00 |

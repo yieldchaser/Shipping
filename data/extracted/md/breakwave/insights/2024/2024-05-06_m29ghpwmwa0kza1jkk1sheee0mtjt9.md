@@ -34,15 +34,15 @@ Regarding international trade, annual volume growth decelerated markedly in 2023
 
 Looking ahead, recent high-frequency indicators suggest that the recovery of global trade has persisted into early 2024, albeit with fragility and a strong reliance on the performance of key economies such as the United States and China, as outlined by the OECD. Echoing this sentiment, economists from the World Trade Organization emphasized last month that global goods trade is poised to gradually rebound this year. Projections indicate that the volume of world merchandise trade will increase by 2.6 percent in 2024, followed by a further acceleration to 3.3 percent in 2025, following the contraction in 2023. These forecasts offer cautious optimism regarding the path of global trade recovery over the upcoming years. However, uncertainties persist, particularly concerning factors such as energy prices, inflationary pressures, and geopolitical dynamics, which could shape the pace and direction of trade growth.
 
-![Στιγμιότυπο Οθόνης 2024 05 06 093957](assets/2024-05-06_m29ghpwmwa0kza1jkk1sheee0mtjt9_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_e5f4e341e1d7.png)
+![Στιγμιότυπο Οθόνης 2024 05 06 093957](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-05-06_m29ghpwmwa0kza1jkk1sheee0mtjt9_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_e5f4e341e1d7.png)
 
 > **Figure 1: Στιγμιότυπο Οθόνης 2024 05 06 093957**  
-> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-05-06_m29ghpwmwa0kza1jkk1sheee0mtjt9_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_e5f4e341e1d7.png)
+> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-05-06_m29ghpwmwa0kza1jkk1sheee0mtjt9_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_e5f4e341e1d7.png)
 
-![Στιγμιότυπο Οθόνης 2024 05 06 094015](assets/2024-05-06_m29ghpwmwa0kza1jkk1sheee0mtjt9_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_7ec9b8813568.png)
+![Στιγμιότυπο Οθόνης 2024 05 06 094015](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-05-06_m29ghpwmwa0kza1jkk1sheee0mtjt9_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_7ec9b8813568.png)
 
 > **Figure 2: Στιγμιότυπο Οθόνης 2024 05 06 094015**  
-> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-05-06_m29ghpwmwa0kza1jkk1sheee0mtjt9_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_7ec9b8813568.png)
+> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-05-06_m29ghpwmwa0kza1jkk1sheee0mtjt9_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_7ec9b8813568.png)
 
 Data source:[Doric](https://www.doric.gr/)
 

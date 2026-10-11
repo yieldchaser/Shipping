@@ -23,10 +23,10 @@ source_file: "corpus/03-breakwave/insights/2023/2023-07-28_signal-tanker-weekly-
 
 *Crude oil flows from AG to China have been fluctuating at a lower level since the last peak in mid-April*
 
-![Market Chart 1](assets/2023-07-28_signal-tanker-weekly-report_img_unnamed-2023-07-28t110003530_1e38334b3035.png)
+![Market Chart 1](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-07-28_signal-tanker-weekly-report_img_unnamed-2023-07-28t110003530_1e38334b3035.png)
 
 > **Figure 1: Market Chart 1**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://go.signalocean.com/e/983831/tanker-dynamic-oilflows/2p728j/335787498?h=pttO_--n2uquJt_LWFQJYjAsbbnDcan2P6z-RxUh-GA) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-07-28_signal-tanker-weekly-report_img_unnamed-2023-07-28t110003530_1e38334b3035.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://go.signalocean.com/e/983831/tanker-dynamic-oilflows/2p728j/335787498?h=pttO_--n2uquJt_LWFQJYjAsbbnDcan2P6z-RxUh-GA) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-07-28_signal-tanker-weekly-report_img_unnamed-2023-07-28t110003530_1e38334b3035.png)
 
 Data Source:[Signal Ocean Platform](https://go.signalocean.com/e/983831/tanker-dynamic-oilflows/2p728j/335787498?h=pttO_--n2uquJt_LWFQJYjAsbbnDcan2P6z-RxUh-GA)
 
@@ -43,10 +43,10 @@ Freight Market, Supply and Demand
 
 ## Section 1/ Freightmarket Rates (WS)
 
-![‘Dirty’ WS​​​​ VLCC - Suezmax - Aframax Weaker](assets/2023-07-28_signal-tanker-weekly-report_img_unnamed-2023-07-28t110131980_7772b7de90e5.png)
+![‘Dirty’ WS​​​​ VLCC - Suezmax - Aframax Weaker](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-07-28_signal-tanker-weekly-report_img_unnamed-2023-07-28t110131980_7772b7de90e5.png)
 
 > **Figure 2: ‘Dirty’ WS​​​​ VLCC - Suezmax - Aframax Weaker**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-07-28_signal-tanker-weekly-report_img_unnamed-2023-07-28t110131980_7772b7de90e5.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-07-28_signal-tanker-weekly-report_img_unnamed-2023-07-28t110131980_7772b7de90e5.png)
 
 The last week of July was quiet, with crude oil tanker freight rates weakening as the VLCC MEG -China route struggles to maintain firmer momentum for the summer season.
 
@@ -54,24 +54,24 @@ The last week of July was quiet, with crude oil tanker freight rates weakening a
 - Suezmax freight rates for shipments from West Africa to continental Europe fell to 80.5WS, down 15 points from two weeks ago. In the Suez-Baltic-Med route, rates were 94WS, 27 points lower than five weeks ago.
 - Aframax Med freight rates fell to WS120, down 40% from the peak nine weeks ago.
 
-![‘Product’ Wslr Firmer](assets/2023-07-28_signal-tanker-weekly-report_img_unnamed-2023-07-28t110242009_d705da398326.png)
+![‘Product’ Wslr Firmer](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-07-28_signal-tanker-weekly-report_img_unnamed-2023-07-28t110242009_d705da398326.png)
 
 > **Figure 3: ‘Product’ Wslr Firmer**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-07-28_signal-tanker-weekly-report_img_unnamed-2023-07-28t110242009_d705da398326.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-07-28_signal-tanker-weekly-report_img_unnamed-2023-07-28t110242009_d705da398326.png)
 
 - LR2 AG freight rates rose to levels above WS100 this week, which is 20 points higher than two weeks ago, with signs of stronger momentum near the end of the month.
 
-![PANAMAX (Sentiment: Weaker)](assets/2023-07-28_signal-tanker-weekly-report_img_unnamed-2023-07-28t110709330_6b0a9cf3d33f.png)
+![PANAMAX (Sentiment: Weaker)](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-07-28_signal-tanker-weekly-report_img_unnamed-2023-07-28t110709330_6b0a9cf3d33f.png)
 
 > **Figure 4: PANAMAX (Sentiment: Weaker)**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-07-28_signal-tanker-weekly-report_img_unnamed-2023-07-28t110709330_6b0a9cf3d33f.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-07-28_signal-tanker-weekly-report_img_unnamed-2023-07-28t110709330_6b0a9cf3d33f.png)
 
 - Panamax Carib-to-USG rates fell to WS180, down 15 points from two weeks ago.
 
-![‘Clean’mr Firmer](assets/2023-07-28_signal-tanker-weekly-report_img_unnamed-2023-07-28t120430662_e35a63254e5a.png)
+![‘Clean’mr Firmer](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-07-28_signal-tanker-weekly-report_img_unnamed-2023-07-28t120430662_e35a63254e5a.png)
 
 > **Figure 5: ‘Clean’mr Firmer**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-07-28_signal-tanker-weekly-report_img_unnamed-2023-07-28t120430662_e35a63254e5a.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-07-28_signal-tanker-weekly-report_img_unnamed-2023-07-28t120430662_e35a63254e5a.png)
 
 - MR1 rates for the Baltic continent were at 180WS, 25 points higher than the previous week, and it seems that the firmer dynamics towards the end of July are confirmed.
 
@@ -79,10 +79,10 @@ The last week of July was quiet, with crude oil tanker freight rates weakening a
 
 ## Section 2/ Supplysupply Trend Lines for Key Load Areas
 
-![Dirty (#Vessels) - Mixed](assets/2023-07-28_signal-tanker-weekly-report_img_unnamed-2023-07-28t120553055_0e485904c645.png)
+![Dirty (#Vessels) - Mixed](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-07-28_signal-tanker-weekly-report_img_unnamed-2023-07-28t120553055_0e485904c645.png)
 
 > **Figure 6: Dirty (#Vessels) - Mixed**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-07-28_signal-tanker-weekly-report_img_unnamed-2023-07-28t120553055_0e485904c645.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-07-28_signal-tanker-weekly-report_img_unnamed-2023-07-28t120553055_0e485904c645.png)
 
 Crude oil tanker supply showed a mixed picture with a downward trend in the last week of July, with signs of decline in the VLCC and Suezmax segments, while the increase in the Aframax segment seems to be continuing.
 
@@ -91,15 +91,15 @@ Crude oil tanker supply showed a mixed picture with a downward trend in the last
 - Aframax Primorsk: The current ship count has now risen to 39 ships, 11 more than the previous week, and it remains to be seen if the continued increase will be confirmed in early August.
 - Aframax Med Novo: The number of ships is now 20, following the pattern of an increase of the previous days and 9 more than the annual average.
 
-![’Clean’lr2 (#Vessels) - Decreasing](assets/2023-07-28_signal-tanker-weekly-report_img_unnamed-2023-07-28t120639193_e922bc9544db.png)
+![’Clean’lr2 (#Vessels) - Decreasing](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-07-28_signal-tanker-weekly-report_img_unnamed-2023-07-28t120639193_e922bc9544db.png)
 
 > **Figure 7: ’Clean’lr2 (#Vessels) - Decreasing**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-07-28_signal-tanker-weekly-report_img_unnamed-2023-07-28t120639193_e922bc9544db.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-07-28_signal-tanker-weekly-report_img_unnamed-2023-07-28t120639193_e922bc9544db.png)
 
-![MR1 (#Vessels) - Decreasing](assets/2023-07-28_signal-tanker-weekly-report_img_unnamed-2023-07-28t120710697_702be425d5bb.png)
+![MR1 (#Vessels) - Decreasing](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-07-28_signal-tanker-weekly-report_img_unnamed-2023-07-28t120710697_702be425d5bb.png)
 
 > **Figure 8: MR1 (#Vessels) - Decreasing**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-07-28_signal-tanker-weekly-report_img_unnamed-2023-07-28t120710697_702be425d5bb.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-07-28_signal-tanker-weekly-report_img_unnamed-2023-07-28t120710697_702be425d5bb.png)
 
 - Clean LR2 AG Jubail: The current number of ships is currently 10, which is 6 less than the previous week and 3 less than the average for the year.
 
@@ -107,17 +107,17 @@ Crude oil tanker supply showed a mixed picture with a downward trend in the last
 
 ## Section 3/ Demandsummary of Tanker Demand per Ship Size & Segment
 
-![​​‘Dirty’tonne Days Decreasing](assets/2023-07-28_signal-tanker-weekly-report_img_unnamed-2023-07-28t120818902_fe2d5ed16f27.png)
+![​​‘Dirty’tonne Days Decreasing](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-07-28_signal-tanker-weekly-report_img_unnamed-2023-07-28t120818902_fe2d5ed16f27.png)
 
 > **Figure 9: ​​‘Dirty’tonne Days Decreasing**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-07-28_signal-tanker-weekly-report_img_unnamed-2023-07-28t120818902_fe2d5ed16f27.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-07-28_signal-tanker-weekly-report_img_unnamed-2023-07-28t120818902_fe2d5ed16f27.png)
 
 Dirty tonne days: In the last week of July, the downward revision of the percentage increase in demand (tonnage days) continues in all size classes of oil tankers. It remains uncertain how demand will evolve in early August, with hopes for Chinese crude oil demand growth lifting today’s sentiment.
 
-![‘Clean’tonne Days Panamax / MR Decreasing](assets/2023-07-28_signal-tanker-weekly-report_img_unnamed-2023-07-28t120903137_39a2e52296f2.png)
+![‘Clean’tonne Days Panamax / MR Decreasing](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-07-28_signal-tanker-weekly-report_img_unnamed-2023-07-28t120903137_39a2e52296f2.png)
 
 > **Figure 10: ‘Clean’tonne Days Panamax / MR Decreasing**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-07-28_signal-tanker-weekly-report_img_unnamed-2023-07-28t120903137_39a2e52296f2.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-07-28_signal-tanker-weekly-report_img_unnamed-2023-07-28t120903137_39a2e52296f2.png)
 
 - Panamax tonne days: In the last week of July, the significant downward correction continues, reaching a low not seen since the beginning of last year.
 

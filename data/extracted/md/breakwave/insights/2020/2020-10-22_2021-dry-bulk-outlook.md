@@ -28,10 +28,10 @@ In this week’s article we start with having a look at the big picture. In subs
 
 ### The Big Picture﻿
 
-![Klav 1](assets/2020-10-22_2021-dry-bulk-outlook_img_klav1_0fb8f831dc61.png)
+![Klav 1](../../../../../../corpus/03-breakwave/insights/2020/assets/2020-10-22_2021-dry-bulk-outlook_img_klav1_0fb8f831dc61.png)
 
 > **Figure 1: Klav 1**  
-> **Interactive Data & Source:** [En Wikipedia](https://en.wikipedia.org/wiki/Brumadinho_dam_disaster) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2020/assets/2020-10-22_2021-dry-bulk-outlook_img_klav1_0fb8f831dc61.png)
+> **Interactive Data & Source:** [En Wikipedia](https://en.wikipedia.org/wiki/Brumadinho_dam_disaster) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2020/assets/2020-10-22_2021-dry-bulk-outlook_img_klav1_0fb8f831dc61.png)
 
 Dry bulk freight was in a super cycle between 2001 and 2008 as the growth in global yard capacity was unable to keep up with the seaborne demand growth triggered by China joining the World Trade Organization in 2001. Between 2008 and 2016 the general trend in dry bulk freight was negative as global fleet growth reached unprecedented levels. The dry bulk market bottomed out in Q1-2016 and has since been trending upwards.
 
@@ -39,19 +39,19 @@ However, the black swan events of the[Brumadinho dam disaster](https://en.wikipe
 
 The black swan event of the covid-19 pandemic has greatly reduced global industrial production for most of 2020 and has had a negative impact on the demand for coal and minor bulks. The first chart below shows our metric on Global Dry Bulk Import weighted PMI vs the Baltic Dry Index.
 
-![Klav 2](assets/2020-10-22_2021-dry-bulk-outlook_img_klav2_fdfd656a9227.png)
+![Klav 2](../../../../../../corpus/03-breakwave/insights/2020/assets/2020-10-22_2021-dry-bulk-outlook_img_klav2_fdfd656a9227.png)
 
 > **Figure 2: Klav 2**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2020/assets/2020-10-22_2021-dry-bulk-outlook_img_klav2_fdfd656a9227.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2020/assets/2020-10-22_2021-dry-bulk-outlook_img_klav2_fdfd656a9227.png)
 
 We calculate this metric by weighting the Purchase Manufacturing Indices (PMI) of the largest dry bulk importing countries and regions in the world with the size of the corresponding dry bulk import in the previous calendar year. A reading above 50 indicates expanding global dry bulk demand while a reading below 50 indicates contracting global dry bulk demand. As we entered 2020, the general trend in this metric was positive, but from February this gauge nosedived and bottomed out in April.
 
 Since then global PMIs have been improving but has only been in expansion mode in the last three months. As seen in the bubble graph below, most of the important dry bulk countries are in expansion mode as of September, except for Japan, South Korea and Mexico. It is also clearly visible how vital China is for dry bulk demand, and – perhaps surprising to some – it also shows the relative low importance of the USA in terms of dry bulk demand.
 
-![Klav 3](assets/2020-10-22_2021-dry-bulk-outlook_img_klav3_8ab6e18e6722.png)
+![Klav 3](../../../../../../corpus/03-breakwave/insights/2020/assets/2020-10-22_2021-dry-bulk-outlook_img_klav3_8ab6e18e6722.png)
 
 > **Figure 3: Klav 3**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2020/assets/2020-10-22_2021-dry-bulk-outlook_img_klav3_8ab6e18e6722.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2020/assets/2020-10-22_2021-dry-bulk-outlook_img_klav3_8ab6e18e6722.png)
 
 Coal and minor bulk export volumes are down 10% and 6% respectively in the first nine months of 2020. We strongly believe that the negative effect of covid-19 will be less severe in 2021, and thus expect the demand for coal and minor bulks to rebound.
 
@@ -61,27 +61,27 @@ The global seaborne trade of grains and bauxite has seen strong growth numbers s
 
 Global steel production is highly correlated with global industrial production and has thus been negatively impacted by covid-19. The demand for iron ore, coking coal and many of the minor bulks are directly linked to global steel production. Global steel production is down 4.1% in the first nine months of the year and this has without doubt had a negative effect on the demand for minor bulks and coking coal.
 
-![Klav 4](assets/2020-10-22_2021-dry-bulk-outlook_img_klav4_885e240aee79.png)
+![Klav 4](../../../../../../corpus/03-breakwave/insights/2020/assets/2020-10-22_2021-dry-bulk-outlook_img_klav4_885e240aee79.png)
 
 > **Figure 4: Klav 4**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2020/assets/2020-10-22_2021-dry-bulk-outlook_img_klav4_885e240aee79.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2020/assets/2020-10-22_2021-dry-bulk-outlook_img_klav4_885e240aee79.png)
 
 However, as mentioned earlier in the article, the seaborne export of iron ore is up more than 4% ytd in a period where global steel production is down more than 4%. How is that possible?
 
 The answer to this question is, to a large extent, that while steel production in the World excluding China is down 13.3% ytd, Chinese steel production is up is up 4.1% ytd. With more than 75% of total iron ore export ytd destined for China, the growth in demand in China more than offsets the drop in demand outside of China.
 
-![Klav 5](assets/2020-10-22_2021-dry-bulk-outlook_img_klav5_e89c3b3503a9.png)
+![Klav 5](../../../../../../corpus/03-breakwave/insights/2020/assets/2020-10-22_2021-dry-bulk-outlook_img_klav5_e89c3b3503a9.png)
 
 > **Figure 5: Klav 5**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2020/assets/2020-10-22_2021-dry-bulk-outlook_img_klav5_e89c3b3503a9.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2020/assets/2020-10-22_2021-dry-bulk-outlook_img_klav5_e89c3b3503a9.png)
 
 While China is also an important player in the demand for other dry bulk commodities, their market share is no way near what we see in iron ore. The market share in the minor bulk and coal trade is about 20% for both groups. Thus, for these commodities, what happens outside of China is collectively more important than what happens inside of China, and this explains why these commodities has posted negative growth numbers Ytd while the iron ore trade has been growing.
 
-![All Trade Growth Numbers in This Article Is Derived From Our](assets/2020-10-22_2021-dry-bulk-outlook_img_klav6_3cbfb6db3be7.png)
+![All Trade Growth Numbers in This Article Is Derived From Our](../../../../../../corpus/03-breakwave/insights/2020/assets/2020-10-22_2021-dry-bulk-outlook_img_klav6_3cbfb6db3be7.png)
 
 > **Figure 6: All Trade Growth Numbers in This Article Is Derived From Our**  
 > **all trade growth numbers in this article is derived from our in-house analytical platform unless another source is explicitly mentioned.*  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2020/assets/2020-10-22_2021-dry-bulk-outlook_img_klav6_3cbfb6db3be7.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2020/assets/2020-10-22_2021-dry-bulk-outlook_img_klav6_3cbfb6db3be7.png)
 
 Next week we will take a closer look at how the fundamental drivers for iron ore is shaping up for 2021. In subsequent reports we will take a closer look at the other commodity groups (coal, grains, minor bulks and bauxite) before we finish up the series with a look on the supply side.
 

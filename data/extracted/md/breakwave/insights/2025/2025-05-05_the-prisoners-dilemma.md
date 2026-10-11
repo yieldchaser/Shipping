@@ -41,10 +41,10 @@ The outcome hinges not only on market fundamentals but also on expectations and 
 
 The logic of the Prisoner’s Dilemma also extends to macroeconomic conflicts such as the U.S.–China trade war, which escalated from 2018 onward. At its core, this was a strategic confrontation where both sides implemented protectionist policies, largely framed as a response to perceived unfairness in trade balances, intellectual property rights, and market access. From a game-theory perspective, the two global superpowers faced a version of the Prisoner’s Dilemma:
 
-![Στιγμιότυπο Οθόνης 2025 05 05 100112](assets/2025-05-05_the-prisoners-dilemma_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_a7baaa3faa81.png)
+![Στιγμιότυπο Οθόνης 2025 05 05 100112](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-05-05_the-prisoners-dilemma_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_a7baaa3faa81.png)
 
 > **Figure 1: Στιγμιότυπο Οθόνης 2025 05 05 100112**  
-> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-05-05_the-prisoners-dilemma_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_a7baaa3faa81.png)
+> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-05-05_the-prisoners-dilemma_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_a7baaa3faa81.png)
 
 While the specifics are more nuanced, the pattern fits the dilemma: Both cooperating (free trade) would have yielded mutual economic benefits. One side defecting while the other cooperates could temporarily tilt power or economic advantage. But mutual defection, as occurred during the height of a trade war, resulted in tariffs on hundreds of billions in goods, disruptions to global supply chains, increased costs for consumers and producers, and slower global GDP growth. What drove the present conflict seems to be a lack of trust, fear of long-term structural disadvantages, and domestic political pressures. The Phase One agreement in January 2020 offered a partial reset, but strategic hedging and domestic political pressures kept both sides from fully returning to a cooperative equilibrium. The interaction became a repeated game – each round marked by fresh escalations.
 

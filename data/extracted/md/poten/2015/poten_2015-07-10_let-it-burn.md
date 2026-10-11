@@ -30,10 +30,18 @@ With fuel oil demand and imports decreasing in Asia, arguably the product's bigg
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: Let it Burn](../../../charts/poten/2015/poten_2015-07-10_let-it-burn_chart1.png)
+![Exhibit 1: Top Fuel Oil Importing Regions Based on Reported Fixtures](../../../charts/poten/2015/poten_2015-07-10_let-it-burn_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2015/poten_2015-07-10_let-it-burn_chart1.png)
+> **Exhibit 1: Top Fuel Oil Importing Regions Based on Reported Fixtures**  
+> Unit: Million M/t · X-axis: SEA to MED  
+> Series: 2012, 2013, 2014, 2015 Annualized  
+> *Source: Poten and Partners*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2015/poten_2015-07-10_let-it-burn_chart1.png)
 
-![Exhibit 2: Let it Burn](../../../charts/poten/2015/poten_2015-07-10_let-it-burn_chart2.png)
+![Exhibit 2: Top Fuel Oil Exporting Regions Based on Reported Fixtures](../../../charts/poten/2015/poten_2015-07-10_let-it-burn_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2015/poten_2015-07-10_let-it-burn_chart2.png)
+> **Exhibit 2: Top Fuel Oil Exporting Regions Based on Reported Fixtures**  
+> Unit: Million M/t · X-axis: UKC to CAR  
+> Series: 2012, 2013, 2014, 2015 Annualized  
+> *Source: Poten and Partners*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2015/poten_2015-07-10_let-it-burn_chart2.png)

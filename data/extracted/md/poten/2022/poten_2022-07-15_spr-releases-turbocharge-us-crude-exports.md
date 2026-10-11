@@ -34,10 +34,18 @@ A wildcard in the U.S. is the hurricane season. Big storms can damage refineries
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: SPR Releases Turbocharge U.S. Crude Exports](../../../charts/poten/2022/poten_2022-07-15_spr-releases-turbocharge-us-crude-exports_chart1.png)
+![Exhibit 1: Crude Exports from United States of America](../../../charts/poten/2022/poten_2022-07-15_spr-releases-turbocharge-us-crude-exports_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2022/poten_2022-07-15_spr-releases-turbocharge-us-crude-exports_chart1.png)
+> **Exhibit 1: Crude Exports from United States of America**  
+> Unit: Kbbl / Day · X-axis: Jan-17 to Apr-22  
+> Series: China/Korea, India, Other Asia, UKC/Baltic, Mediterranean, Americas (Atl), Other  
+> *Source: Lloyd's List Intelligence*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2022/poten_2022-07-15_spr-releases-turbocharge-us-crude-exports_chart1.png)
 
-![Exhibit 2: SPR Releases Turbocharge U.S. Crude Exports](../../../charts/poten/2022/poten_2022-07-15_spr-releases-turbocharge-us-crude-exports_chart2.png)
+![Exhibit 2: EIA Short Term Energy Outlook](../../../charts/poten/2022/poten_2022-07-15_spr-releases-turbocharge-us-crude-exports_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2022/poten_2022-07-15_spr-releases-turbocharge-us-crude-exports_chart2.png)
+> **Exhibit 2: EIA Short Term Energy Outlook**  
+> Unit: Mb/d · X-axis: Jan-21 to Dec-22  
+> Series: US Production, SPR Net Withdrawals, Net Crude Oil Imports, Refinery Crude Oil Input  
+> *Source: EIA*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2022/poten_2022-07-15_spr-releases-turbocharge-us-crude-exports_chart2.png)

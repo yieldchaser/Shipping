@@ -32,6 +32,14 @@ The analysis suggests that the tanker orderbook will be delivered, regardless of
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: Maintaining Orders](../../../charts/poten/2008/poten_2008-12-05_maintaining-orders_chart1.png)
+> **Chart on PDF page 1: VLCC Orderbook by Owner**  
+> Unit: Number of Vessels · X-axis: 2008 to 2012  
+> Series: Government, Public, Private  
+> *Source: Poten & Partners*  
+> *No image crop of this chart was saved; caption read from the PDF.*
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2008/poten_2008-12-05_maintaining-orders_chart1.png)
+> **Chart on PDF page 2: VLCC Orderbook by Shipyard**  
+> Unit: Number of Vessels · X-axis: 2008 to 2012  
+> Series: Established, Expansion, Newly Established  
+> *Source: Poten & Partners*  
+> *No image crop of this chart was saved; caption read from the PDF.*

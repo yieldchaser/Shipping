@@ -20,10 +20,10 @@ source_file: "corpus/03-breakwave/insights/2024/2024-08-27_supply-swell.html"
 
 ---
 
-![Oil Drilling (1)](assets/2024-08-27_supply-swell_img_oil-drilling28129_1f62af173c53.jpg)
+![Oil Drilling (1)](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-08-27_supply-swell_img_oil-drilling28129_1f62af173c53.jpg)
 
 > **Figure 1: Oil Drilling (1)**  
-> **Interactive Data & Source:** [Gibsons Co](https://www.gibsons.co.uk/market-reports) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-08-27_supply-swell_img_oil-drilling28129_1f62af173c53.jpg)
+> **Interactive Data & Source:** [Gibsons Co](https://www.gibsons.co.uk/market-reports) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-08-27_supply-swell_img_oil-drilling28129_1f62af173c53.jpg)
 
 News around the crude market has recently been dominated by headlines about weak Chinese oil demand on one side and conflict in the Middle East threatening supply on the other. For now, the influence of slower demand appears to outweigh geopolitical tensions; however, oil markets could face further pressure into 2025 as a wave of new oil supply hits the market.
 
@@ -37,10 +37,10 @@ Overall, the IEA predicts that markets will be oversupplied by at circa 850 kbd 
 
 Iraq, Kazakhstan, and Russia have been exceeding their quotas and have consequently agreed to further supply constraints to stick to production targets. Further lack of compliance may lead to strife within the group, who are holding back a total of 7.5 mbd of spare production capacity. Barring larger than expected growth in demand, and if OPEC+ members are unable to keep supply constrained, the market seems destined to be oversupplied in 2025. This could prompt an increase in storage demand, perhaps on tankers if the situation were to become extreme.
 
-![Στιγμιότυπο Οθόνης 2024 08 27 144627](assets/2024-08-27_supply-swell_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_f9cc6983bf16.png)
+![Στιγμιότυπο Οθόνης 2024 08 27 144627](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-08-27_supply-swell_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_f9cc6983bf16.png)
 
 > **Figure 2: Στιγμιότυπο Οθόνης 2024 08 27 144627**  
-> **Interactive Data & Source:** [Gibsons Co](https://www.gibsons.co.uk/market-reports) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-08-27_supply-swell_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_f9cc6983bf16.png)
+> **Interactive Data & Source:** [Gibsons Co](https://www.gibsons.co.uk/market-reports) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-08-27_supply-swell_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_f9cc6983bf16.png)
 
 Data source:[Gibson Shipbrokers](https://www.gibsons.co.uk/market-reports)
 

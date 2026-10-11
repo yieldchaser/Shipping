@@ -20,10 +20,10 @@ source_file: "corpus/03-breakwave/insights/2025/2025-04-14_price-pressure.html"
 
 ---
 
-![Home](assets/2025-04-14_price-pressure_img_home_8e5fcd374f39.jpg)
+![Home](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-04-14_price-pressure_img_home_8e5fcd374f39.jpg)
 
 > **Figure 1: Home**  
-> **Interactive Data & Source:** [Gibsons Co](https://www.gibsons.co.uk/market-reports) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-04-14_price-pressure_img_home_8e5fcd374f39.jpg)
+> **Interactive Data & Source:** [Gibsons Co](https://www.gibsons.co.uk/market-reports) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-04-14_price-pressure_img_home_8e5fcd374f39.jpg)
 
 With all the turmoil in the global financial markets, oil prices have come under pressure not seen since the pandemic. Prices began their heavy slide last week and fell 18% to a four-year low, before recovering to $64/bbl, as Trump paused his reciprocal tariffs (except China) for 90 days. US trade policy was of course the primary driver, but perhaps most surprising of all, was the timing of OPEC+’s decision to accelerate production increases at a time when the demand outlook is turning increasingly bearish. Prices are likely to remain volatile as markets react to ever changing US trade policy, but for now remain significantly off where they began the year.
 
@@ -39,10 +39,10 @@ Refining margins, which have remained relatively steady over the past week, coul
 
 For now, the physical market appears relatively unscathed, but for every week tariffs remain a threat, the demand outlook becomes increasingly bearish. The downside for tankers may not be immediate and could be punctuated by periods of high (and low) volatility as imbalances in supply and demand play out. If oil producers fail to adapt quickly enough to the changing demand landscape, then the upside volatility for tankers could be even greater. As is often said, the cure for low oil prices is low oil prices.
 
-![Στιγμιότυπο Οθόνης 2025 04 13 204157](assets/2025-04-14_price-pressure_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_b5887b82b663.png)
+![Στιγμιότυπο Οθόνης 2025 04 13 204157](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-04-14_price-pressure_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_b5887b82b663.png)
 
 > **Figure 2: Στιγμιότυπο Οθόνης 2025 04 13 204157**  
-> **Interactive Data & Source:** [Gibsons Co](https://www.gibsons.co.uk/market-reports) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-04-14_price-pressure_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_b5887b82b663.png)
+> **Interactive Data & Source:** [Gibsons Co](https://www.gibsons.co.uk/market-reports) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-04-14_price-pressure_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_b5887b82b663.png)
 
 Data source:[Gibson Shipbrokers](https://www.gibsons.co.uk/market-reports)
 

@@ -44,17 +44,17 @@ The week ahead will see a lot of discussions around Germany’s governing coalit
 
 Another week of geopolitical and geoeconomic reordering ended, and another one undoubtedly begins. Consequences range from profound to utterly forgettable, and we will likely not be able to tell one from the other for some time. Treasury Secretary Scott Bessent’s optimism about his 3-3-3 target (3% GDP growth, 3% deficit, 3 extra million oil barrels per day), is simply failing to translate into market optimism. The US President has decided to “shake things up” in a way that, at least for a G7 economy, is probably unprecedented in modern times. This, understandably, creates uncertainty, which manifests in many ways.
 
-![Market Chart 1](assets/2025-02-25_uncertainties-dark-horses-and-inflation-creeping-up_img_image001_61f1737232fb.png)
+![Market Chart 1](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-02-25_uncertainties-dark-horses-and-inflation-creeping-up_img_image001_61f1737232fb.png)
 
 > **Figure 1: Market Chart 1**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-02-25_uncertainties-dark-horses-and-inflation-creeping-up_img_image001_61f1737232fb.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-02-25_uncertainties-dark-horses-and-inflation-creeping-up_img_image001_61f1737232fb.png)
 
 For example, even as US large caps finally broke out of their three-month trading range last week, all it took was a cautious outlook from Wal-Mart, a US consumer bellwether, after soft consumption data for January, for the index to come off again.
 
-![Market Chart 2](assets/2025-02-25_uncertainties-dark-horses-and-inflation-creeping-up_img_image002_b171dc0c72ed.png)
+![Market Chart 2](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-02-25_uncertainties-dark-horses-and-inflation-creeping-up_img_image002_b171dc0c72ed.png)
 
 > **Figure 2: Market Chart 2**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-02-25_uncertainties-dark-horses-and-inflation-creeping-up_img_image002_b171dc0c72ed.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-02-25_uncertainties-dark-horses-and-inflation-creeping-up_img_image002_b171dc0c72ed.png)
 
 One of the most difficult aspects of this new reality of ours is the “noise” (in the investment sense) that’s coming from the White House. So loud, that it is easy for investors to miss other important developments around the world.
 
@@ -67,24 +67,24 @@ For example, despite initial worries about non-US financial and real assets in t
 - Positively for EU defence stocks, as the Old Continent finds itself compelled to spend more (over 210 Billion Euros if it is to catch up to US spending) on its own military capabilities
 - Positively for Chinese tech stocks, who are now benefitting from Deepseek’s emergence
 
-![Market Chart 3](assets/2025-02-25_uncertainties-dark-horses-and-inflation-creeping-up_img_image003_9d104a725739.png)
+![Market Chart 3](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-02-25_uncertainties-dark-horses-and-inflation-creeping-up_img_image003_9d104a725739.png)
 
 > **Figure 3: Market Chart 3**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-02-25_uncertainties-dark-horses-and-inflation-creeping-up_img_image003_9d104a725739.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-02-25_uncertainties-dark-horses-and-inflation-creeping-up_img_image003_9d104a725739.png)
 
 Another thing we could have easily missed is some improvement in the Chinese economy, suggested by some Chinese and implied by Japanese trade data (Japan is China’s largest trading partner).
 
-![Market Chart 4](assets/2025-02-25_uncertainties-dark-horses-and-inflation-creeping-up_img_image004_5ac7089496a2.png)
+![Market Chart 4](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-02-25_uncertainties-dark-horses-and-inflation-creeping-up_img_image004_5ac7089496a2.png)
 
 > **Figure 4: Market Chart 4**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-02-25_uncertainties-dark-horses-and-inflation-creeping-up_img_image004_5ac7089496a2.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-02-25_uncertainties-dark-horses-and-inflation-creeping-up_img_image004_5ac7089496a2.png)
 
 Uncertainty is really the name of the game. And a lot of it comes down to inflation. Already many CFOs have said that they will pass on cost rises to consumers. Wal-Mart’s cautious outlook wasn’t a one-off. The CFO, John David Rainey, said that the company wouldn’t be “immune to tariffs”.
 
-![Market Chart 5](assets/2025-02-25_uncertainties-dark-horses-and-inflation-creeping-up_img_image005_baff8b1a40fd.png)
+![Market Chart 5](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-02-25_uncertainties-dark-horses-and-inflation-creeping-up_img_image005_baff8b1a40fd.png)
 
 > **Figure 5: Market Chart 5**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-02-25_uncertainties-dark-horses-and-inflation-creeping-up_img_image005_baff8b1a40fd.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-02-25_uncertainties-dark-horses-and-inflation-creeping-up_img_image005_baff8b1a40fd.png)
 
 It’s a good time to remind people that tariffs, barriers and exits from free-trade organisations are protectionist measures designed specifically to benefit (or even the playing field depending on one’s point of view) local producers. This means that, without exception, they are, at least for the short term, inflationary as their whole point is to make sure local producers and workers are not undercut by lower-priced foreign goods or cheaper services.
 
@@ -100,24 +100,24 @@ Right now, gauging inflation is very difficult. There are three layers
 
 In other words, the recent inflation resurgence may have been easier to dismiss (or may not have happened at all if not for re-stocking efforts ahead of tariff threats) if not for the US President’s emphatic pursuit of trade sanctions. (small note to self and others: “Trade Wars” in the wider sense is a situation where not only the US but every nation imposes tariffs on every other nation globally, which is what happened in the 1930s, as our Berlin Senior Economist Santiago Rossi kindly reminded me last week. This is not quite what we would expect to see happen this time around).
 
-![Market Chart 6](assets/2025-02-25_uncertainties-dark-horses-and-inflation-creeping-up_img_image006_854a2a8e107c.png)
+![Market Chart 6](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-02-25_uncertainties-dark-horses-and-inflation-creeping-up_img_image006_854a2a8e107c.png)
 
 > **Figure 6: Market Chart 6**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-02-25_uncertainties-dark-horses-and-inflation-creeping-up_img_image006_854a2a8e107c.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-02-25_uncertainties-dark-horses-and-inflation-creeping-up_img_image006_854a2a8e107c.png)
 
 ### What Inflation Uncertainty Means for Investors
 
 So how can investors deal with such inflationary uncertainty? Mr Trump’s strategy of keeping everyone on their toes is not very helpful for fixed-income investors. The US 10-year Treasury Bond is arguably the cornerstone of global financial markets. And it has suffered significantly since 2022. Even if we dismiss extreme ideas like the Mar-A-Lago Accords that have been making the Wall Street rounds last week (a forced elongation of US debt, tantamount to a Greek-style technical default of US debt), a resurgence in inflation may well depress bond prices even further and result in higher borrowing yields. More importantly, because of the uncertainty around tariffs, and decent underlying data on prices, bond markets are treating tariffs and trade wars as a one-off, with some mild inflationary effects for 1-2 years. Longer-term repercussions for supply chains and output gaps don’t seem to be priced in at this moment.
 
-![Market Chart 7](assets/2025-02-25_uncertainties-dark-horses-and-inflation-creeping-up_img_image007_94d29bb78d41.png)
+![Market Chart 7](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-02-25_uncertainties-dark-horses-and-inflation-creeping-up_img_image007_94d29bb78d41.png)
 
 > **Figure 7: Market Chart 7**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-02-25_uncertainties-dark-horses-and-inflation-creeping-up_img_image007_94d29bb78d41.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-02-25_uncertainties-dark-horses-and-inflation-creeping-up_img_image007_94d29bb78d41.png)
 
-![Consumers, However, Seem Worried.…](assets/2025-02-25_uncertainties-dark-horses-and-inflation-creeping-up_img_image008_eea216c7a23a.png)
+![Consumers, However, Seem Worried.…](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-02-25_uncertainties-dark-horses-and-inflation-creeping-up_img_image008_eea216c7a23a.png)
 
 > **Figure 8: Consumers, However, Seem Worried.…**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-02-25_uncertainties-dark-horses-and-inflation-creeping-up_img_image008_eea216c7a23a.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-02-25_uncertainties-dark-horses-and-inflation-creeping-up_img_image008_eea216c7a23a.png)
 
 What does this mean? It’s a challenge for managers who were long on duration in anticipation of lower rates, for one. And it’s not just Dollar duration. Sterling and Euro investors are in a similar boat whether they realise it or not. Fears of capital flight from the Euro and the Pound towards higher-yielding Dollar accounts could stay European Central Bank President Christine Lagarde’s and Bank of England’s Governor Andrew Bailey’s hands. The rates market, already jittery in the past year, could experience further volatility in the next few months which could challenge bond managers and funnel even more money to inflation-friendly stocks and Gold. Conversely, an end to uncertainty (either by the actual imposition of tariffs or by reaching mutually agreed resolutions) could quickly unwind these trades and see a dramatic fall in long yields.
 

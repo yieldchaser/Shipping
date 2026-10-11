@@ -28,7 +28,7 @@ One of the main characteristics of the shipping market is the dynamic changes in
 
 > **Figure 1: Australia Monthly Iron Ore Exports**  
 > *Australia monthly iron ore exports*  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2021/assets/2021-08-10_capespacvsatl_img_atlminuspac_9532529e0ea8.jpg)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-08-10_capespacvsatl_img_atlminuspac_9532529e0ea8.jpg)
 
 Now, a few months does not constitute a trend, but one can easily see how the Pacific market has again and again led any meaningful positive change in Capesize spot rates in the last several months. In fact, as most shipping analysts’ attention (including ours) is focused on Brazilian iron ore exports and the potential impact on the Capesize market, it is the relatively “sleepy” C5 route (C5 refers to the Australia to China route) that has been the most volatile and unexpectedly strong in terms of absolute rate moves. More importantly, such volatility is also coming in an environment of relatively stable oil prices, despite the fact that the C5 route has historically been influenced the most by changing oil prices.
 
@@ -37,7 +37,7 @@ Naturally, to explain such a trend, the mind of most dry bulk observers will go 
 ![Aus Iron Ore Exports](assets/2021-08-10_capespacvsatl_img_ausironoreexports_b764d89e7cd7.png)
 
 > **Figure 2: Aus Iron Ore Exports**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2021/assets/2021-08-10_capespacvsatl_img_ausironoreexports_b764d89e7cd7.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-08-10_capespacvsatl_img_ausironoreexports_b764d89e7cd7.png)
 
 Additionally, given the Chinese ban on Australian coal imports and the related decline in trade activity from Australia to China, one would expect more Capesize tonnage open and available to chase iron ore cargoes and thus an overall weaker Capesize Pacific spot market, all else being equal. However, this is not the case. The key Capesize Australia to China route remains this year’s top performer, despite all the above headwinds.
 
@@ -52,7 +52,7 @@ Finally, with iron ore prices and a backwardated iron ore futures curve, the clo
 ![Img 5174](assets/2021-08-10_capespacvsatl_img_img-5174_26346ae9f48d.jpg)
 
 > **Figure 3: Img 5174**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2021/assets/2021-08-10_capespacvsatl_img_img-5174_26346ae9f48d.jpg)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-08-10_capespacvsatl_img_img-5174_26346ae9f48d.jpg)
 
 All the above reasons by themselves would not be enough to move the needle on relative freight prices, but put it all together and the impact on Australia freight versus Brazil is becoming meaningful with the benchmark route currently pricing above 45,000 versus the Brazil-China roundtrip currently at below 35,000. The futures curve remains relatively flat to the spot index (as a reminder, the spot Capesize index is a weighted average of 5 different routes around the world) at roughly 35,000. A simple calculation reveals that the weak link remains the North Atlantic market which is priced at barely 30,000 and it is the one that is keeping the index from approaching the psychologically important 40,000 mark.
 

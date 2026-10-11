@@ -28,10 +28,17 @@ The main purpose of crude oil tankers is to supply these refineries with their f
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: Refining Continues Moving East](../../../charts/poten/2025/poten_2025-06-06_refining-continues-moving-east_chart1.png)
+![Exhibit 1: Global Refining Capacity](../../../charts/poten/2025/poten_2025-06-06_refining-continues-moving-east_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2025/poten_2025-06-06_refining-continues-moving-east_chart1.png)
+> **Exhibit 1: Global Refining Capacity**  
+> Unit: Mb/d · X-axis: 1965 to 2023  
+> Series: North America, S. & Cent. America, Europe, CIS, Middle East, Africa, Asia Pacific  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2025/poten_2025-06-06_refining-continues-moving-east_chart1.png)
 
-![Exhibit 2: Refining Continues Moving East](../../../charts/poten/2025/poten_2025-06-06_refining-continues-moving-east_chart2.png)
+![Exhibit 2: Seaborne Crude and Condensates Trade By Discharge Basin](../../../charts/poten/2025/poten_2025-06-06_refining-continues-moving-east_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2025/poten_2025-06-06_refining-continues-moving-east_chart2.png)
+> **Exhibit 2: Seaborne Crude and Condensates Trade By Discharge Basin**  
+> Unit: Kb/d | % · X-axis: Jan-16 to May-25  
+> Series: Atlantic Basin, Pacific Basin, Undetermined, Pacific %  
+> *Source: Energy Institute; Vortexa*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2025/poten_2025-06-06_refining-continues-moving-east_chart2.png)

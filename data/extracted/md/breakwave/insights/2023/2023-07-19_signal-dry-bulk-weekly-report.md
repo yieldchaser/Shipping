@@ -24,10 +24,10 @@ source_file: "corpus/03-breakwave/insights/2023/2023-07-19_signal-dry-bulk-weekl
 
 *Iron ore and coal dry bulk flows to China daily (25d MA) above year-earlier level*
 
-![241](assets/2023-07-19_signal-dry-bulk-weekly-report_img_241_25c52ebf5204.png)
+![241](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-07-19_signal-dry-bulk-weekly-report_img_241_25c52ebf5204.png)
 
 > **Figure 1: 241**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-07-19_signal-dry-bulk-weekly-report_img_241_25c52ebf5204.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-07-19_signal-dry-bulk-weekly-report_img_241_25c52ebf5204.png)
 
 The third week of July sustained the downward trend of freight market rates of the previous days of July, however, signs of an upward trend were recorded in the Panamax Continent to Far East rates. On the supply side, the number of ballast ships increased significantly across all vessel size categories implying that freight rates are potentially likely to keep struggling to perform at higher levels, while uncertainty looms around Chinese economic performance.
 
@@ -44,10 +44,10 @@ Freight Market, Supply, Demand and Port Congestion
 ‘The Big Picture’ - Capesize and Panamax Bulkers and Smaller Ship Sizes
 **Market Rates ($/t) Weaker**
 
-![242](assets/2023-07-19_signal-dry-bulk-weekly-report_img_242_c8e07ea97658.png)
+![242](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-07-19_signal-dry-bulk-weekly-report_img_242_c8e07ea97658.png)
 
 > **Figure 2: 242**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-07-19_signal-dry-bulk-weekly-report_img_242_c8e07ea97658.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-07-19_signal-dry-bulk-weekly-report_img_242_c8e07ea97658.png)
 
 The third week of July begins with a still weaker sentiment of freight rates, while there has been an upward movement for the Panamax Cont-FE rates.
 
@@ -61,10 +61,10 @@ The third week of July begins with a still weaker sentiment of freight rates, wh
 Supply Trend Lines for Key Load Areas
 **Ballasters (# vessels) Increasing**
 
-![243](assets/2023-07-19_signal-dry-bulk-weekly-report_img_243_f48003792f1a.png)
+![243](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-07-19_signal-dry-bulk-weekly-report_img_243_f48003792f1a.png)
 
 > **Figure 3: 243**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-07-19_signal-dry-bulk-weekly-report_img_243_f48003792f1a.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-07-19_signal-dry-bulk-weekly-report_img_243_f48003792f1a.png)
 
 The third week of July saw a strengthening of the upward trend of the previous week, as all ship size categories saw significantly more ship movements.
 
@@ -78,10 +78,10 @@ The third week of July saw a strengthening of the upward trend of the previous w
 Summary of Dry Bulk Demand, per Ship Size
 **TonneDays Decreasing**
 
-![244](assets/2023-07-19_signal-dry-bulk-weekly-report_img_244_9118ef6b0979.png)
+![244](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-07-19_signal-dry-bulk-weekly-report_img_244_9118ef6b0979.png)
 
 > **Figure 4: 244**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-07-19_signal-dry-bulk-weekly-report_img_244_9118ef6b0979.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-07-19_signal-dry-bulk-weekly-report_img_244_9118ef6b0979.png)
 
 The third week of July persisted with the similar downward trend of the previous days of the month with the Capesize and Panamax vessel size segments recording a clear decrease.
 
@@ -95,11 +95,11 @@ The third week of July persisted with the similar downward trend of the previous
 Dry bulk ships congested at Chinese ports
 **No of VesselsDecreasing**
 
-![Data Source:signal Ocean Platform](assets/2023-07-19_signal-dry-bulk-weekly-report_img_245_d2a83ef8cb2f.png)
+![Data Source:signal Ocean Platform](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-07-19_signal-dry-bulk-weekly-report_img_245_d2a83ef8cb2f.png)
 
 > **Figure 5: Data Source:signal Ocean Platform**  
 > *Data Source:Signal Ocean Platform*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-07-19_signal-dry-bulk-weekly-report_img_245_d2a83ef8cb2f.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-07-19_signal-dry-bulk-weekly-report_img_245_d2a83ef8cb2f.png)
 
 The third week of July opened with a trend of downward revision of congestion defying last week’s estimates for a sudden increase. In the Capesize vessel size segment, there was only a trend of increase compared to the levels at the beginning of the month.
 

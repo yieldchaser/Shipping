@@ -26,10 +26,10 @@ As we have been continuing to stress in our work, one of the biggest potential i
 
 Remaining of note regarding trade volumes is that Russia this year was expected to export 35 million tons of wheat and 9 million tons of coarse grain, and at least 145 million tons of coal and at least 15 million tons of iron ore. Ukraine this year was expected to export 24 million tons of wheat and 40 million tons of coarse grain, and at least 35 million tons of iron ore. A prolonged conflict (several weeks/months) would continue to increase the likelihood that the dry bulk market is unlikely to be able to fully offset a loss of Russian/Ukrainian cargoes from other nations. A loss of Ukrainian cargoes remains most at risk.
 
-![Unsplash Image Msdljbffplm](assets/2022-03-04_latest-vessels-hit-in-black-sea-ukrainian-harvest-all-but-certain-to-be-signific_img_unsplash-image-msdljbffplm_9a5bf173a1dc.jpg)
+![Unsplash Image Msdljbffplm](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-03-04_latest-vessels-hit-in-black-sea-ukrainian-harvest-all-but-certain-to-be-signific_img_unsplash-image-msdljbffplm_9a5bf173a1dc.jpg)
 
 > **Figure 1: Unsplash Image Msdljbffplm**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-03-04_latest-vessels-hit-in-black-sea-ukrainian-harvest-all-but-certain-to-be-signific_img_unsplash-image-msdljbffplm_9a5bf173a1dc.jpg)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-03-04_latest-vessels-hit-in-black-sea-ukrainian-harvest-all-but-certain-to-be-signific_img_unsplash-image-msdljbffplm_9a5bf173a1dc.jpg)
 
 In our Weekly Dry Bulk Report, we discussed two dry bulk vessels being damaged by missiles and/or shelling, operations at Ukraine’s ports continuing to be suspended by Ukraine's military, and Russia continuing to suspend commercial activity in the Sea of Azov. New this week is that another bulk vessel (BANGLAR SAMRIDDHI) has been hit by a Russian missile and a general cargo vessel (HELT) was reportedly hit by a mine and has sunk. Each of these vessel incidents occurred in the Black Sea. Also of note is that while ceasefire talks remain ongoing, the Russia military last night reportedly captured the city of Kherson and now has its sights set on the major port city of Odessa (where the majority of Ukraine's grain is exported from).
 

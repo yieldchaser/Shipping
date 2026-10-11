@@ -53,14 +53,26 @@ In the Aframax segment, Vitol, Shell and Unipec maintained their position on top
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: Tanker Midterms 2020](../../../charts/poten/2020/poten_2020-07-02_tanker-midterms-2020_chart1.png)
+![Exhibit 1: Top 10 VLCC Spot Charterers](../../../charts/poten/2020/poten_2020-07-02_tanker-midterms-2020_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2020/poten_2020-07-02_tanker-midterms-2020_chart1.png)
+> **Exhibit 1: Top 10 VLCC Spot Charterers**  
+> Unit: No. Spot Fixtures · X-axis: Unipec to Vitol  
+> Series: Unipec, Petrobras, Shell, Sinochem, Bahri, Ioc, Chevron, Equinor, Total, Vitol  
+> *Source: Poten & Partners*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2020/poten_2020-07-02_tanker-midterms-2020_chart1.png)
 
-![Exhibit 2: Tanker Midterms 2020](../../../charts/poten/2020/poten_2020-07-02_tanker-midterms-2020_chart2.png)
+![Exhibit 2: Top 10 Suezmax Spot Charterers](../../../charts/poten/2020/poten_2020-07-02_tanker-midterms-2020_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2020/poten_2020-07-02_tanker-midterms-2020_chart2.png)
+> **Exhibit 2: Top 10 Suezmax Spot Charterers**  
+> Unit: No. Spot Fixtures · X-axis: ExxonMobil to BPCL  
+> Series: ExxonMobil, Shell, Repsol, Unipec, Ioc, Chevron, Petrobras, Vitol, BP, BPCL  
+> *Source: Poten & Partners*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2020/poten_2020-07-02_tanker-midterms-2020_chart2.png)
 
-![Exhibit 3: Tanker Midterms 2020](../../../charts/poten/2020/poten_2020-07-02_tanker-midterms-2020_chart3.png)
+![Exhibit 3: Top 10 Aframax Spot Charterers](../../../charts/poten/2020/poten_2020-07-02_tanker-midterms-2020_chart3.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2020/poten_2020-07-02_tanker-midterms-2020_chart3.png)
+> **Exhibit 3: Top 10 Aframax Spot Charterers**  
+> Unit: No. Spot Fixtures · X-axis: Vitol to Total  
+> Series: Vitol, Shell, Unipec, BP, ExxonMobil, Trafigura, Chevron, Glencore, Lukoil, Total  
+> *Source: Poten & Partners*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2020/poten_2020-07-02_tanker-midterms-2020_chart3.png)

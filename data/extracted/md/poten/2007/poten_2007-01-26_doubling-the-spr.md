@@ -64,6 +64,8 @@ The proposed increase in the SPR must still be approved by Congress before it ca
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: Doubling the SPR](../../../charts/poten/2007/poten_2007-01-26_doubling-the-spr_chart1.png)
-
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2007/poten_2007-01-26_doubling-the-spr_chart1.png)
+> **Chart on PDF page 1: Untitled chart**  
+> Unit: million bbl · X-axis: 1982 to 2027  
+> Series: Actual, Planned  
+> *Source: EIA*  
+> *No image crop of this chart was saved; caption read from the PDF.*

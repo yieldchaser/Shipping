@@ -32,10 +32,18 @@ An oil market scenario where refiners cut runs and producers limit output, combi
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: Tankers Are Like A Box Of Chocolate 3](../../../charts/poten/2016/poten_2016-02-19_tankers-are-like-a-box-of-chocolate-3_chart1.png)
+![Exhibit 1: Fig. 1: NW Europe 321 Crack Spread vs NW Europe Refinery Throughput](../../../charts/poten/2016/poten_2016-02-19_tankers-are-like-a-box-of-chocolate-3_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2016/poten_2016-02-19_tankers-are-like-a-box-of-chocolate-3_chart1.png)
+> **Exhibit 1: Fig. 1: NW Europe 321 Crack Spread vs NW Europe Refinery Throughput**  
+> Unit: Kb/d | US$ · X-axis: Jan-06 to Jul-15  
+> Series: NW Eur. Ref. Throughput, NW Eur: Brent Cracking Margin  
+> *Source: JODI, Bloomberg*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2016/poten_2016-02-19_tankers-are-like-a-box-of-chocolate-3_chart1.png)
 
-![Exhibit 2: Tankers Are Like A Box Of Chocolate 3](../../../charts/poten/2016/poten_2016-02-19_tankers-are-like-a-box-of-chocolate-3_chart2.png)
+![Exhibit 2: Fig 2: NW Europe 321 Crack Spread vs Aframax TD7 Rates](../../../charts/poten/2016/poten_2016-02-19_tankers-are-like-a-box-of-chocolate-3_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2016/poten_2016-02-19_tankers-are-like-a-box-of-chocolate-3_chart2.png)
+> **Exhibit 2: Fig 2: NW Europe 321 Crack Spread vs Aframax TD7 Rates**  
+> Unit: US$ | US$/Day · X-axis: Jan-14 to Jan-16  
+> Series: NW Eur Brent 3-2-1 Crack Spread, TCE Aframax TD7  
+> *Source: Bloomberg / Poten & Partners*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2016/poten_2016-02-19_tankers-are-like-a-box-of-chocolate-3_chart2.png)

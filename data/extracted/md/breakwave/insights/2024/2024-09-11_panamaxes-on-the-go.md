@@ -62,10 +62,10 @@ The past week saw cargo order volumes in the three principal basins well below t
 
 The new week has faced a slow start to ordering activities in the supramax segment, with cargo volumes below those of the early stages of last week. At the same time, tonnage supply has been on the rise in recent weeks. Hence, from a demand and supply perspective, a substantial rebound for the supramaxes does not appear to be imminent.
 
-![241](assets/2024-09-11_panamaxes-on-the-go_img_241_c1bc6a9c305a.png)
+![241](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-09-11_panamaxes-on-the-go_img_241_c1bc6a9c305a.png)
 
 > **Figure 1: 241**  
-> **Interactive Data & Source:** [Shipfix](https://shipfix.com/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-09-11_panamaxes-on-the-go_img_241_c1bc6a9c305a.png)
+> **Interactive Data & Source:** [Shipfix](https://shipfix.com/) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-09-11_panamaxes-on-the-go_img_241_c1bc6a9c305a.png)
 
 Data Source:[Shipfix](https://shipfix.com/)
 

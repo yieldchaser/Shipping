@@ -48,6 +48,14 @@ Poten's monthly multi-client report Fuel Oil in World Markets keeps subscribers 
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: Fuel Oil Transport - Singles Need Not Apply!](../../../charts/poten/2005/poten_2005-06-10_fuel-oil-transport-singles-need-not-apply_chart1.png)
+> **Chart on PDF page 3: % Participation Single Hull Panamaxes in Spot Dirty Fixtures**  
+> Unit: % · X-axis: Jan-04 to Apr-05  
+> Series: Single Hull Panamaxes  
+> *Source: Poten & Partners*  
+> *No image crop of this chart was saved; caption read from the PDF.*
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2005/poten_2005-06-10_fuel-oil-transport-singles-need-not-apply_chart1.png)
+> **Chart on PDF page 3: Panamax Dirty Spot Fixture Rates Carib/USA**  
+> Unit: WS Rates · X-axis: Jan-04 to Apr-05  
+> Series: Double, Single  
+> *Source: Poten & Partners*  
+> *No image crop of this chart was saved; caption read from the PDF.*

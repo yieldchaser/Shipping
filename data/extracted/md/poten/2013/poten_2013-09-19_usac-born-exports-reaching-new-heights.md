@@ -38,20 +38,24 @@ US Gulf exports remain the dominant story in North America, but any clean produc
 
 ![Exhibit 1: USAC-Born Exports reaching new heights](../../../charts/poten/2013/poten_2013-09-19_usac-born-exports-reaching-new-heights_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2013/poten_2013-09-19_usac-born-exports-reaching-new-heights_chart1.png)
+> **Interactive Asset:** [Local Asset (200 DPI PNG)](../../../charts/poten/2013/poten_2013-09-19_usac-born-exports-reaching-new-heights_chart1.png)
 
-![Exhibit 2: USAC-Born Exports reaching new heights](../../../charts/poten/2013/poten_2013-09-19_usac-born-exports-reaching-new-heights_chart2.png)
+![Exhibit 2: Refinery Utilization Trend in PADD 1 (USAC)](../../../charts/poten/2013/poten_2013-09-19_usac-born-exports-reaching-new-heights_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2013/poten_2013-09-19_usac-born-exports-reaching-new-heights_chart2.png)
+> **Exhibit 2: Refinery Utilization Trend in PADD 1 (USAC)**  
+> Unit: % Operable · X-axis: Jun-10 to Jun-13  
+> Series: PADD 1 Refinery % Operable, PADD 2 Refinery % Operable, PADD 3 Refinery % Operable  
+> *Source: Poten, EIA*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2013/poten_2013-09-19_usac-born-exports-reaching-new-heights_chart2.png)
 
 ![Exhibit 3: USAC-Born Exports reaching new heights](../../../charts/poten/2013/poten_2013-09-19_usac-born-exports-reaching-new-heights_chart3.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2013/poten_2013-09-19_usac-born-exports-reaching-new-heights_chart3.png)
+> **Interactive Asset:** [Local Asset (200 DPI PNG)](../../../charts/poten/2013/poten_2013-09-19_usac-born-exports-reaching-new-heights_chart3.png)
 
 ![Exhibit 4: USAC-Born Exports reaching new heights](../../../charts/poten/2013/poten_2013-09-19_usac-born-exports-reaching-new-heights_chart4.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2013/poten_2013-09-19_usac-born-exports-reaching-new-heights_chart4.png)
+> **Interactive Asset:** [Local Asset (200 DPI PNG)](../../../charts/poten/2013/poten_2013-09-19_usac-born-exports-reaching-new-heights_chart4.png)
 
 ![Exhibit 5: USAC-Born Exports reaching new heights](../../../charts/poten/2013/poten_2013-09-19_usac-born-exports-reaching-new-heights_chart5.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2013/poten_2013-09-19_usac-born-exports-reaching-new-heights_chart5.png)
+> **Interactive Asset:** [Local Asset (200 DPI PNG)](../../../charts/poten/2013/poten_2013-09-19_usac-born-exports-reaching-new-heights_chart5.png)

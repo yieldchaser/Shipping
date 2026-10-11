@@ -30,10 +30,18 @@ The oil and tanker markets are monitoring the situation in the Middle East close
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: Waiting For The Spark](../../../charts/poten/2023/poten_2023-10-27_waiting-for-the-spark_chart1.png)
+![Exhibit 1: Seaborne Crude/Condensate Exports from the Arabian Gulf By Exporter](../../../charts/poten/2023/poten_2023-10-27_waiting-for-the-spark_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2023/poten_2023-10-27_waiting-for-the-spark_chart1.png)
+> **Exhibit 1: Seaborne Crude/Condensate Exports from the Arabian Gulf By Exporter**  
+> Unit: Kb/d · X-axis: Jan-20 to Sep-23  
+> Series: Saudi Arabia, Iraq, United Arab Emirates, Kuwait, Oman, Qatar, Iran, Bahrain  
+> *Source: Vortexa*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2023/poten_2023-10-27_waiting-for-the-spark_chart1.png)
 
-![Exhibit 2: Waiting For The Spark](../../../charts/poten/2023/poten_2023-10-27_waiting-for-the-spark_chart2.png)
+![Exhibit 2: 2022/2023 Freight Rates (Scrubber Ships)](../../../charts/poten/2023/poten_2023-10-27_waiting-for-the-spark_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2023/poten_2023-10-27_waiting-for-the-spark_chart2.png)
+> **Exhibit 2: 2022/2023 Freight Rates (Scrubber Ships)**  
+> Unit: TCE (USD/Day) · X-axis: Jan-22 to Oct-23  
+> Series: Aframax: Car-USG, Suezmax : WAF-UKC, VLCC: AG-FE, MR: UKC-USAC  
+> *Source: Poten & Partners*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2023/poten_2023-10-27_waiting-for-the-spark_chart2.png)

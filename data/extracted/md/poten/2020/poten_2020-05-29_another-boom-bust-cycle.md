@@ -30,8 +30,8 @@ In the meantime, global oil producers are watching closely as the world is gradu
 
 ![Exhibit 1: Another Boom Bust Cycle](../../../charts/poten/2020/poten_2020-05-29_another-boom-bust-cycle_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2020/poten_2020-05-29_another-boom-bust-cycle_chart1.png)
+> **Interactive Asset:** [Local Asset (200 DPI PNG)](../../../charts/poten/2020/poten_2020-05-29_another-boom-bust-cycle_chart1.png)
 
 ![Exhibit 2: Another Boom Bust Cycle](../../../charts/poten/2020/poten_2020-05-29_another-boom-bust-cycle_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2020/poten_2020-05-29_another-boom-bust-cycle_chart2.png)
+> **Interactive Asset:** [Local Asset (200 DPI PNG)](../../../charts/poten/2020/poten_2020-05-29_another-boom-bust-cycle_chart2.png)

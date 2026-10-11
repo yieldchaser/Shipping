@@ -32,10 +32,17 @@ The above arbitrage examples illustrate once again how free market forces in com
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: Close the Window - It is Cold Outside!](../../../charts/poten/2015/poten_2015-03-06_close-the-window-it-is-cold-outside_chart1.png)
+![Exhibit 1: US Oil Product Imports and Exports](../../../charts/poten/2015/poten_2015-03-06_close-the-window-it-is-cold-outside_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2015/poten_2015-03-06_close-the-window-it-is-cold-outside_chart1.png)
+> **Exhibit 1: US Oil Product Imports and Exports**  
+> Unit: KB/d · X-axis: Jan-2010 to Oct-2014  
+> Series: Imports, Exports  
+> *Source: EIA*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2015/poten_2015-03-06_close-the-window-it-is-cold-outside_chart1.png)
 
-![Exhibit 2: Close the Window - It is Cold Outside!](../../../charts/poten/2015/poten_2015-03-06_close-the-window-it-is-cold-outside_chart2.png)
+![Exhibit 2: Gasoil Arb: Rotterdam to New York adjusted for shipping costs](../../../charts/poten/2015/poten_2015-03-06_close-the-window-it-is-cold-outside_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2015/poten_2015-03-06_close-the-window-it-is-cold-outside_chart2.png)
+> **Exhibit 2: Gasoil Arb: Rotterdam to New York adjusted for shipping costs**  
+> Unit: Arb (cts/gallon) · X-axis: 1/3/2011 to 1/3/2015  
+> *Source: Bloomberg*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2015/poten_2015-03-06_close-the-window-it-is-cold-outside_chart2.png)

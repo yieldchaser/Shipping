@@ -64,6 +64,13 @@ Tankers demand increases in times of distress, and this occasion is no exception
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: Shipping's "Katrina" Effect](../../../charts/poten/2005/poten_2005-09-09_shippings-katrina-effect_chart1.png)
+> **Chart on PDF page 1: Distribution of IEA Contributions by Type and Volume**  
+> Unit: 000 Bpd · X-axis: Fuel oil to Crude  
+> Series: Fuel oil, Middle Distillates, Motor Gasoline, Crude  
+> *No image crop of this chart was saved; caption read from the PDF.*
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2005/poten_2005-09-09_shippings-katrina-effect_chart1.png)
+> **Chart on PDF page 3: # Vessels Finding Employment Katrina Aftermath**  
+> Unit: # Vessels · X-axis: Handymaxes to Suezmaxes  
+> Series: Clean, Dirty  
+> *Source: Poten & Partners*  
+> *No image crop of this chart was saved; caption read from the PDF.*

@@ -34,10 +34,10 @@ Soybeans remain central to the grain story. China, the world’s largest importe
 
 The contrast between 2024 and 2025 highlights the growing influence of broader market forces. Last year, fluctuating commodity prices largely dictated freight rates and vessel utilization. This year, while price volatility remains relevant, other factors – including geopolitics, trade policy, and energy diplomacy – have taken on greater significance. China’s careful balancing of domestic demand and export competitiveness is reshaping trade patterns, while Brazil’s record grain shipments underline South America’s crucial role in global food security. Shifts in Chinese coal imports further reflect Beijing’s tactical use of supply-side measures to manage energy markets. Looking ahead to the final quarter, Panamaxes have regained momentum, supported by steady grain flows, with Supramaxes and Handysizes also trading at healthier levels. Capesizes continue to perform, though they are not shining as brightly as in previous periods. Overall, the dry bulk market is on firmer footing, underpinned by balanced cargo support and diversified demand drivers.
 
-![Screenshot 2025 09 15 11.31.06](assets/2025-09-15_the-big-picture-of-the-dry-bulk-market_img_screenshot2025-09-15113106_aac57f4c5278.png)
+![Screenshot 2025 09 15 11.31.06](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-09-15_the-big-picture-of-the-dry-bulk-market_img_screenshot2025-09-15113106_aac57f4c5278.png)
 
 > **Figure 1: Screenshot 2025 09 15 11.31.06**  
-> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-09-15_the-big-picture-of-the-dry-bulk-market_img_screenshot2025-09-15113106_aac57f4c5278.png)
+> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-09-15_the-big-picture-of-the-dry-bulk-market_img_screenshot2025-09-15113106_aac57f4c5278.png)
 
 Data source:[Doric](https://www.doric.gr/)
 

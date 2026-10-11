@@ -24,10 +24,10 @@ Energy markets pushed higher despite plans to release emergency supplies of oil.
 
 *By*[*Daniel Hynes*](https://www.linkedin.com/in/dahynes/)
 
-![Στιγμιότυπο Οθόνης 2026 03 12 105208](assets/2026-03-12_oil-gains-as-length-middle-east-conflict-looms_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_0c80ad3dc8bf.png)
+![Στιγμιότυπο Οθόνης 2026 03 12 105208](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-03-12_oil-gains-as-length-middle-east-conflict-looms_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_0c80ad3dc8bf.png)
 
 > **Figure 1: Στιγμιότυπο Οθόνης 2026 03 12 105208**  
-> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-03-12_oil-gains-as-length-middle-east-conflict-looms_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_0c80ad3dc8bf.png)
+> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-03-12_oil-gains-as-length-middle-east-conflict-looms_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_0c80ad3dc8bf.png)
 
 ### Market Commentary
 
@@ -45,10 +45,10 @@ This offset news that the IEA is coordinating a release of oil from the strategi
 
 Exports from key oil producers in the Middle East are drying up quickly. The four biggest suppliers have seen their exports fall to 7.6mb/d in the week ending 12 March. This is down from 15.1mb/d in the previous week. Reports of three vessels being hit by suspected projectiles in the Strait of Hormuz will do nothing to improve the reluctance of shipping companies to send tankers through this key waterway.
 
-![Στιγμιότυπο Οθόνης 2026 03 12 105215](assets/2026-03-12_oil-gains-as-length-middle-east-conflict-looms_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_ca3e7b069e21.png)
+![Στιγμιότυπο Οθόνης 2026 03 12 105215](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-03-12_oil-gains-as-length-middle-east-conflict-looms_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_ca3e7b069e21.png)
 
 > **Figure 2: Στιγμιότυπο Οθόνης 2026 03 12 105215**  
-> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-03-12_oil-gains-as-length-middle-east-conflict-looms_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_ca3e7b069e21.png)
+> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-03-12_oil-gains-as-length-middle-east-conflict-looms_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_ca3e7b069e21.png)
 
 Data source:[Commodities Wrap](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI)
 

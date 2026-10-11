@@ -68,6 +68,14 @@ This phenomenon of the bunker price moving against an owner illustrates the need
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: Gyrating Bunker Prices](../../../charts/poten/2004/poten_2004-12-03_gyrating-bunker-prices_chart1.png)
+> **Chart on PDF page 1: Average 2004 Bunker Prices**  
+> Unit: $/Ton · X-axis: New York to Singapore  
+> Series: Average 2004 Bunker Prices  
+> *Source: Poten & Partners*  
+> *No image crop of this chart was saved; caption read from the PDF.*
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2004/poten_2004-12-03_gyrating-bunker-prices_chart1.png)
+> **Chart on PDF page 2: Bunker Price Differentials**  
+> Unit: $ · X-axis: Jan-02 to Jul-04  
+> Series: AG-UKC, AG-USG  
+> *Source: Poten & Partners*  
+> *No image crop of this chart was saved; caption read from the PDF.*

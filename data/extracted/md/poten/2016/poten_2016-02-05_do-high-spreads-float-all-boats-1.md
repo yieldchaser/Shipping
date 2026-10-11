@@ -32,10 +32,18 @@ So far, floating storage has not had a significant impact on the market, but it 
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: Do High Spreads Float All Boats 1](../../../charts/poten/2016/poten_2016-02-05_do-high-spreads-float-all-boats-1_chart1.png)
+![Exhibit 1: 6 Months Brent Spread vs TC Rate + Interest](../../../charts/poten/2016/poten_2016-02-05_do-high-spreads-float-all-boats-1_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2016/poten_2016-02-05_do-high-spreads-float-all-boats-1_chart1.png)
+> **Exhibit 1: 6 Months Brent Spread vs TC Rate + Interest**  
+> Unit: US$/bbl · X-axis: 1/11/2013 to 2/5/2016  
+> Series: VLCC TC Rate, Interest, 12 Mos Brent Spread  
+> *Source: Bloomberg; Poten & Partners*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2016/poten_2016-02-05_do-high-spreads-float-all-boats-1_chart1.png)
 
-![Exhibit 2: Do High Spreads Float All Boats 1](../../../charts/poten/2016/poten_2016-02-05_do-high-spreads-float-all-boats-1_chart2.png)
+![Exhibit 2: Estimated Floating Storage Volumes](../../../charts/poten/2016/poten_2016-02-05_do-high-spreads-float-all-boats-1_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2016/poten_2016-02-05_do-high-spreads-float-all-boats-1_chart2.png)
+> **Exhibit 2: Estimated Floating Storage Volumes**  
+> Unit: MBbl · X-axis: Feb-10 to Oct-15  
+> Series: SE Asia, Middle East, Med, WAF, USG, Other  
+> *Source: Bloomberg*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2016/poten_2016-02-05_do-high-spreads-float-all-boats-1_chart2.png)

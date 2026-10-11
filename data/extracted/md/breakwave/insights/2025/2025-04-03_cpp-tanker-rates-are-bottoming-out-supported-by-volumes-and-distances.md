@@ -45,10 +45,10 @@ Recently, India and China emerged as regional buyers of accessible barrels from 
 
 ➔ Suezmax MEG-WCI freight surged by 20% to 10.3 $/t (WS 135) between mid and end-March (Argus), highlighting tightening supply and strong short-haul program demand
 
-![Στιγμιότυπο Οθόνης 2025 04 03 104811](assets/2025-04-03_cpp-tanker-rates-are-bottoming-out-supported-by-volumes-and-distances_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_b6cb9ec8f63e.png)
+![Στιγμιότυπο Οθόνης 2025 04 03 104811](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-04-03_cpp-tanker-rates-are-bottoming-out-supported-by-volumes-and-distances_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_b6cb9ec8f63e.png)
 
 > **Figure 1: Στιγμιότυπο Οθόνης 2025 04 03 104811**  
-> **Interactive Data & Source:** [Vortexa](https://www.vortexa.com//oil-gas-data-traders-analysts-data-scientists?gclid=Cj0KCQjw8_qRBhCXARIsAE2AtRZKOvMnbilZ_6_91d7huSFFy71pWLrnPwGwOHVzXsmsG-1a1mZnQw8aAt89EALw_wcB&hsa_acc=1782073842&hsa_ad=548425387665&hsa_cam=14746637662&hsa_grp=125038601902&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_src=g&hsa_tgt=dsa-1431852288425&hsa_ver=3&utm_campaign=%5BCD%5D%20-%20DSA%20-%20EMEA&utm_medium=cpc&utm_medium=ppc&utm_source=google&utm_source=adwords&utm_term=) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-04-03_cpp-tanker-rates-are-bottoming-out-supported-by-volumes-and-distances_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_b6cb9ec8f63e.png)
+> **Interactive Data & Source:** [Vortexa](https://www.vortexa.com//oil-gas-data-traders-analysts-data-scientists?gclid=Cj0KCQjw8_qRBhCXARIsAE2AtRZKOvMnbilZ_6_91d7huSFFy71pWLrnPwGwOHVzXsmsG-1a1mZnQw8aAt89EALw_wcB&hsa_acc=1782073842&hsa_ad=548425387665&hsa_cam=14746637662&hsa_grp=125038601902&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_src=g&hsa_tgt=dsa-1431852288425&hsa_ver=3&utm_campaign=%5BCD%5D%20-%20DSA%20-%20EMEA&utm_medium=cpc&utm_medium=ppc&utm_source=google&utm_source=adwords&utm_term=) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-04-03_cpp-tanker-rates-are-bottoming-out-supported-by-volumes-and-distances_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_b6cb9ec8f63e.png)
 
 ## Clean – East of Suez: Soft Demand Weighs on Clean Tankers in Recent Quarters, But Rates Trajectory Seems to Bottom Out
 
@@ -64,10 +64,10 @@ However, rates have likely bottomed out:
 
 ➔ Post refinery maintenance season, there could be some comeback flows, supporting clean freight
 
-![Στιγμιότυπο Οθόνης 2025 04 03 105020](assets/2025-04-03_cpp-tanker-rates-are-bottoming-out-supported-by-volumes-and-distances_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_0e3dd898f0ff.png)
+![Στιγμιότυπο Οθόνης 2025 04 03 105020](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-04-03_cpp-tanker-rates-are-bottoming-out-supported-by-volumes-and-distances_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_0e3dd898f0ff.png)
 
 > **Figure 2: Στιγμιότυπο Οθόνης 2025 04 03 105020**  
-> **Interactive Data & Source:** [Vortexa](https://www.vortexa.com//oil-gas-data-traders-analysts-data-scientists?gclid=Cj0KCQjw8_qRBhCXARIsAE2AtRZKOvMnbilZ_6_91d7huSFFy71pWLrnPwGwOHVzXsmsG-1a1mZnQw8aAt89EALw_wcB&hsa_acc=1782073842&hsa_ad=548425387665&hsa_cam=14746637662&hsa_grp=125038601902&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_src=g&hsa_tgt=dsa-1431852288425&hsa_ver=3&utm_campaign=%5BCD%5D%20-%20DSA%20-%20EMEA&utm_medium=cpc&utm_medium=ppc&utm_source=google&utm_source=adwords&utm_term=) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-04-03_cpp-tanker-rates-are-bottoming-out-supported-by-volumes-and-distances_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_0e3dd898f0ff.png)
+> **Interactive Data & Source:** [Vortexa](https://www.vortexa.com//oil-gas-data-traders-analysts-data-scientists?gclid=Cj0KCQjw8_qRBhCXARIsAE2AtRZKOvMnbilZ_6_91d7huSFFy71pWLrnPwGwOHVzXsmsG-1a1mZnQw8aAt89EALw_wcB&hsa_acc=1782073842&hsa_ad=548425387665&hsa_cam=14746637662&hsa_grp=125038601902&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_src=g&hsa_tgt=dsa-1431852288425&hsa_ver=3&utm_campaign=%5BCD%5D%20-%20DSA%20-%20EMEA&utm_medium=cpc&utm_medium=ppc&utm_source=google&utm_source=adwords&utm_term=) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-04-03_cpp-tanker-rates-are-bottoming-out-supported-by-volumes-and-distances_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_0e3dd898f0ff.png)
 
 ## Dirty – West of Suez: Tightening Tonnage in Gulf of Mexico and Higher Employment in Canada Ec Boost Aframax Rates, for Now
 
@@ -87,10 +87,10 @@ Tariff implementation would be a net positive to Aframax employment and tonne-mi
 
 ➔ For more details, see this week’s EMEA/Americas market briefing
 
-![Στιγμιότυπο Οθόνης 2025 04 03 105405](assets/2025-04-03_cpp-tanker-rates-are-bottoming-out-supported-by-volumes-and-distances_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_bbd18bb3098f.png)
+![Στιγμιότυπο Οθόνης 2025 04 03 105405](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-04-03_cpp-tanker-rates-are-bottoming-out-supported-by-volumes-and-distances_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_bbd18bb3098f.png)
 
 > **Figure 3: Στιγμιότυπο Οθόνης 2025 04 03 105405**  
-> **Interactive Data & Source:** [Vortexa](https://www.vortexa.com//oil-gas-data-traders-analysts-data-scientists?gclid=Cj0KCQjw8_qRBhCXARIsAE2AtRZKOvMnbilZ_6_91d7huSFFy71pWLrnPwGwOHVzXsmsG-1a1mZnQw8aAt89EALw_wcB&hsa_acc=1782073842&hsa_ad=548425387665&hsa_cam=14746637662&hsa_grp=125038601902&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_src=g&hsa_tgt=dsa-1431852288425&hsa_ver=3&utm_campaign=%5BCD%5D%20-%20DSA%20-%20EMEA&utm_medium=cpc&utm_medium=ppc&utm_source=google&utm_source=adwords&utm_term=) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-04-03_cpp-tanker-rates-are-bottoming-out-supported-by-volumes-and-distances_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_bbd18bb3098f.png)
+> **Interactive Data & Source:** [Vortexa](https://www.vortexa.com//oil-gas-data-traders-analysts-data-scientists?gclid=Cj0KCQjw8_qRBhCXARIsAE2AtRZKOvMnbilZ_6_91d7huSFFy71pWLrnPwGwOHVzXsmsG-1a1mZnQw8aAt89EALw_wcB&hsa_acc=1782073842&hsa_ad=548425387665&hsa_cam=14746637662&hsa_grp=125038601902&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_src=g&hsa_tgt=dsa-1431852288425&hsa_ver=3&utm_campaign=%5BCD%5D%20-%20DSA%20-%20EMEA&utm_medium=cpc&utm_medium=ppc&utm_source=google&utm_source=adwords&utm_term=) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-04-03_cpp-tanker-rates-are-bottoming-out-supported-by-volumes-and-distances_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_bbd18bb3098f.png)
 
 ## Clean – West of Suez: Rising Nw Europe Cpp Loadings Push Tc2 Rates Up to Six-Month Highs
 
@@ -108,10 +108,10 @@ As we approach April 02 and the expected tariffs that the US will place on energ
 
 ➔ This will provide stimulus for tonne-miles and hence an upside for TC2 rates in comparison to TC14 (Gulf of Mexico-to-Europe)
 
-![Στιγμιότυπο Οθόνης 2025 04 03 105635](assets/2025-04-03_cpp-tanker-rates-are-bottoming-out-supported-by-volumes-and-distances_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_d55c24742109.png)
+![Στιγμιότυπο Οθόνης 2025 04 03 105635](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-04-03_cpp-tanker-rates-are-bottoming-out-supported-by-volumes-and-distances_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_d55c24742109.png)
 
 > **Figure 4: Στιγμιότυπο Οθόνης 2025 04 03 105635**  
-> **Interactive Data & Source:** [Vortexa](https://www.vortexa.com//oil-gas-data-traders-analysts-data-scientists?gclid=Cj0KCQjw8_qRBhCXARIsAE2AtRZKOvMnbilZ_6_91d7huSFFy71pWLrnPwGwOHVzXsmsG-1a1mZnQw8aAt89EALw_wcB&hsa_acc=1782073842&hsa_ad=548425387665&hsa_cam=14746637662&hsa_grp=125038601902&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_src=g&hsa_tgt=dsa-1431852288425&hsa_ver=3&utm_campaign=%5BCD%5D%20-%20DSA%20-%20EMEA&utm_medium=cpc&utm_medium=ppc&utm_source=google&utm_source=adwords&utm_term=) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-04-03_cpp-tanker-rates-are-bottoming-out-supported-by-volumes-and-distances_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_d55c24742109.png)
+> **Interactive Data & Source:** [Vortexa](https://www.vortexa.com//oil-gas-data-traders-analysts-data-scientists?gclid=Cj0KCQjw8_qRBhCXARIsAE2AtRZKOvMnbilZ_6_91d7huSFFy71pWLrnPwGwOHVzXsmsG-1a1mZnQw8aAt89EALw_wcB&hsa_acc=1782073842&hsa_ad=548425387665&hsa_cam=14746637662&hsa_grp=125038601902&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_src=g&hsa_tgt=dsa-1431852288425&hsa_ver=3&utm_campaign=%5BCD%5D%20-%20DSA%20-%20EMEA&utm_medium=cpc&utm_medium=ppc&utm_source=google&utm_source=adwords&utm_term=) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-04-03_cpp-tanker-rates-are-bottoming-out-supported-by-volumes-and-distances_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_d55c24742109.png)
 
 Data Source:[Vortexa](https://www.vortexa.com//oil-gas-data-traders-analysts-data-scientists?gclid=Cj0KCQjw8_qRBhCXARIsAE2AtRZKOvMnbilZ_6_91d7huSFFy71pWLrnPwGwOHVzXsmsG-1a1mZnQw8aAt89EALw_wcB&hsa_acc=1782073842&hsa_ad=548425387665&hsa_cam=14746637662&hsa_grp=125038601902&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_src=g&hsa_tgt=dsa-1431852288425&hsa_ver=3&utm_campaign=%5BCD%5D%20-%20DSA%20-%20EMEA&utm_medium=cpc&utm_medium=ppc&utm_source=google&utm_source=adwords&utm_term=)
 

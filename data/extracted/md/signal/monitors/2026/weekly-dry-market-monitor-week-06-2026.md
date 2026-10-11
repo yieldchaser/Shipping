@@ -31,11 +31,11 @@ tags:
 - While the **WAUS–China** trade remains the largest by volume, the Africa–North China Capesize route has seen a larger increase in tonne-mile demand over the last year than the Brazil–China route.
 
 
-![Metrics Description: Volume View: Ranks Specific Route Combinations Load-Discharge-Vessel-Cargo) by Total Tonne Miles Over the Selected Period.](../../images/69831c275e5d686579adc2cd_38a94fc3.png)
+![Metrics Description: Volume View: Ranks Specific Route Combinations Load-Discharge-Vessel-Cargo) by Total Tonne Miles Over the Selected Period.](../../../../../../corpus/07-signal/images/69831c275e5d686579adc2cd_38a94fc3.png)
 
 > **Figure 1: Metrics Description: Volume View: Ranks Specific Route Combinations Load-Discharge-Vessel-Cargo) by Total Tonne Miles Over the Selected Period.**  
 > *Metrics Description: Volume View: Ranks specific route combinations Load-Discharge-Vessel-Cargo) by total Tonne Miles over the selected period.*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-dry-market-monitor-week-06-2026) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/69831c275e5d686579adc2cd_38a94fc3.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-dry-market-monitor-week-06-2026) | [Local Asset](../../../../../../corpus/07-signal/images/69831c275e5d686579adc2cd_38a94fc3.png)
 
 The dry bulk freight market has demonstrated robust performance in the Atlantic and Pacific basins in the lead-up to China's Lunar New Year. This strength is evidenced by the Baltic Dry Index (BDI) surpassing 2,000 index points at the start of February 2026, marking a significant 175% annual increase.
 
@@ -51,10 +51,10 @@ Iron ore prices have remained under pressure, with futures in China hovering aro
 The Baltic Dry Index, while showing an early February dip, continued to hover above the levels observed in the two years prior.
 
 
-![Freight Market Overview](../../images/69831c275e5d686579adc2c1_6b8868a7.png)
+![Freight Market Overview](../../../../../../corpus/07-signal/images/69831c275e5d686579adc2c1_6b8868a7.png)
 
 > **Figure 2: Freight Market Overview**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-dry-market-monitor-week-06-2026) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/69831c275e5d686579adc2c1_6b8868a7.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-dry-market-monitor-week-06-2026) | [Local Asset](../../../../../../corpus/07-signal/images/69831c275e5d686579adc2c1_6b8868a7.png)
 
 
 ## Freight Atlantic
@@ -65,10 +65,10 @@ The Baltic Dry Index, while showing an early February dip, continued to hover ab
 **C3** Tubarao–Qingdao / **C17** Saldanha Bay–Qingdao
 
 
-![Capesize | Firmer](../../images/69831c275e5d686579adc2d0_88d59e05.png)
+![Capesize | Firmer](../../../../../../corpus/07-signal/images/69831c275e5d686579adc2d0_88d59e05.png)
 
 > **Figure 3: Capesize | Firmer**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-dry-market-monitor-week-06-2026) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/69831c275e5d686579adc2d0_88d59e05.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-dry-market-monitor-week-06-2026) | [Local Asset](../../../../../../corpus/07-signal/images/69831c275e5d686579adc2d0_88d59e05.png)
 
 
 - The Capesize market experienced a strong rally, with the Tubarao to Qingdao rate climbing to nearly $26/ton before easing to $25/ton, yet sentiment remains 44% firmer than a year ago. An upward trend is also mirrored in the Saldanha Bay-Qingdao route, where rates have edged up to $18/ton, though the route reached a higher peak of $20/ton in early December. February’s improved sentiment provides near-term support for Capesize prospects, though uncertainty around Chinese steel demand persists.
@@ -79,10 +79,10 @@ The Baltic Dry Index, while showing an early February dip, continued to hover ab
 **P7** USG–Qingdao grain ($/mt) / **P8** Santos–Qingdao ($/mt)
 
 
-![Panamax | Firmer](../../images/69831c275e5d686579adc2be_8c4011cc.png)
+![Panamax | Firmer](../../../../../../corpus/07-signal/images/69831c275e5d686579adc2be_8c4011cc.png)
 
 > **Figure 4: Panamax | Firmer**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-dry-market-monitor-week-06-2026) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/69831c275e5d686579adc2be_8c4011cc.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-dry-market-monitor-week-06-2026) | [Local Asset](../../../../../../corpus/07-signal/images/69831c275e5d686579adc2be_8c4011cc.png)
 
 
 - Robust Atlantic grain demand is currently bolstering Panamax rates for voyages from both the US Gulf (USG) and Santos to Qingdao. The USG-Qingdao route, in particular, saw rates with a $50/ton premium in early February, marking a 24% year-over-year increase. This favorable market momentum can be attributed in part to China's ongoing purchases of U.S. grain. Correspondingly, the Santos-Qingdao route is also experiencing substantial rate increases, nearing $40/ton.
@@ -93,10 +93,10 @@ The Baltic Dry Index, while showing an early February dip, continued to hover ab
 **S4A** US Gulf trip to Skaw-Passero
 
 
-![Supramax | Firmer](../../images/69831c275e5d686579adc2ca_5cd2b02f.png)
+![Supramax | Firmer](../../../../../../corpus/07-signal/images/69831c275e5d686579adc2ca_5cd2b02f.png)
 
 > **Figure 5: Supramax | Firmer**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-dry-market-monitor-week-06-2026) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/69831c275e5d686579adc2ca_5cd2b02f.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-dry-market-monitor-week-06-2026) | [Local Asset](../../../../../../corpus/07-signal/images/69831c275e5d686579adc2ca_5cd2b02f.png)
 
 
 - The USG-to-Skaw-Passero route has seen a strong recovery, with current rates around $22.6k/day, compared to the very weak levels recorded in February of the previous year, which were as low as $13k/day.
@@ -107,10 +107,10 @@ The Baltic Dry Index, while showing an early February dip, continued to hover ab
 **HS4\_38 -** US Gulf trip via US Gulf or north coast of South America to Skaw-Passero
 
 
-![Handysize | Firmer](../../images/69831c275e5d686579adc2b5_5ddd3cf2.png)
+![Handysize | Firmer](../../../../../../corpus/07-signal/images/69831c275e5d686579adc2b5_5ddd3cf2.png)
 
 > **Figure 6: Handysize | Firmer**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-dry-market-monitor-week-06-2026) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/69831c275e5d686579adc2b5_5ddd3cf2.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-dry-market-monitor-week-06-2026) | [Local Asset](../../../../../../corpus/07-signal/images/69831c275e5d686579adc2b5_5ddd3cf2.png)
 
 
 - Atlantic firmness is evident not only in the larger vessel size segments but also in Handysize, with the USG trip to Skaw-Passero recording a slight excess of $17k/day, up 70% year over year.
@@ -124,10 +124,10 @@ The Baltic Dry Index, while showing an early February dip, continued to hover ab
 **C5** West Australia–Qingdao
 
 
-![Capesize | C5 Firmer](../../images/69831c275e5d686579adc2bb_ad90d070.png)
+![Capesize | C5 Firmer](../../../../../../corpus/07-signal/images/69831c275e5d686579adc2bb_ad90d070.png)
 
 > **Figure 7: Capesize | C5 Firmer**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-dry-market-monitor-week-06-2026) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/69831c275e5d686579adc2bb_ad90d070.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-dry-market-monitor-week-06-2026) | [Local Asset](../../../../../../corpus/07-signal/images/69831c275e5d686579adc2bb_ad90d070.png)
 
 
 - In addition to the notable firmness in the Atlantic market, the West Australia-Qingdao rates exceeded $9/ton at the closing of January, marking a 50% increase compared to the previous year. The last high appears to be correcting to around $8.5/ton, still 35% higher than the annual average.
@@ -140,10 +140,10 @@ The Baltic Dry Index, while showing an early February dip, continued to hover ab
 **P5\_82** - South China, one Indonesian round voyage
 
 
-![Panamax | Firmer](../../images/69831c275e5d686579adc2c4_595dcd99.png)
+![Panamax | Firmer](../../../../../../corpus/07-signal/images/69831c275e5d686579adc2c4_595dcd99.png)
 
 > **Figure 8: Panamax | Firmer**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-dry-market-monitor-week-06-2026) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/69831c275e5d686579adc2c4_595dcd99.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-dry-market-monitor-week-06-2026) | [Local Asset](../../../../../../corpus/07-signal/images/69831c275e5d686579adc2c4_595dcd99.png)
 
 
 - The Panamax Pacific market is currently experiencing exceptional gains, as evidenced by the P3A\_82 route, which is now exceeding $14k/day. This represents a significant rebound from the very weak levels of approximately $9k/day seen before Christmas 2025.
@@ -156,10 +156,10 @@ The Baltic Dry Index, while showing an early February dip, continued to hover ab
 **S10** South China trip via Indonesia to South China
 
 
-![Supramax | Firmer](../../images/69831c275e5d686579adc2c7_5e633ca7.png)
+![Supramax | Firmer](../../../../../../corpus/07-signal/images/69831c275e5d686579adc2c7_5e633ca7.png)
 
 > **Figure 9: Supramax | Firmer**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-dry-market-monitor-week-06-2026) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/69831c275e5d686579adc2c7_5e633ca7.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-dry-market-monitor-week-06-2026) | [Local Asset](../../../../../../corpus/07-signal/images/69831c275e5d686579adc2c7_5e633ca7.png)
 
 
 - The Supramax Pacific market has recorded exceptional gains on the S2 route. Levels are now around $13k/d, marking a very strong rebound and a 100% increase compared to a year ago.
@@ -174,10 +174,10 @@ The Baltic Dry Index, while showing an early February dip, continued to hover ab
 **HS7\_38** - North China-South Korea-Japan trip to Southeast Asia
 
 
-![Handysize | Firmer](../../images/69831c275e5d686579adc2d3_63bf5f14.png)
+![Handysize | Firmer](../../../../../../corpus/07-signal/images/69831c275e5d686579adc2d3_63bf5f14.png)
 
 > **Figure 10: Handysize | Firmer**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-dry-market-monitor-week-06-2026) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/69831c275e5d686579adc2d3_63bf5f14.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-dry-market-monitor-week-06-2026) | [Local Asset](../../../../../../corpus/07-signal/images/69831c275e5d686579adc2d3_63bf5f14.png)
 
 
 - Sustained gains are evident in the Handysize Pacific freight market. Notably, the HS5\_38 route has surged above $10k/day, marking a 70% increase year-on-year.
@@ -189,10 +189,10 @@ The Baltic Dry Index, while showing an early February dip, continued to hover ab
 ## Capesize | 5d Ma Increasing
 
 
-![Capesize | 5d Ma Increasing](../../images/69831c275e5d686579adc2b8_e405f3bf.png)
+![Capesize | 5d Ma Increasing](../../../../../../corpus/07-signal/images/69831c275e5d686579adc2b8_e405f3bf.png)
 
 > **Figure 11: Capesize | 5d Ma Increasing**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-dry-market-monitor-week-06-2026) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/69831c275e5d686579adc2b8_e405f3bf.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-dry-market-monitor-week-06-2026) | [Local Asset](../../../../../../corpus/07-signal/images/69831c275e5d686579adc2b8_e405f3bf.png)
 
 
 - Supply pressure increased only slightly in the Atlantic, with a 2% rise in the South and a 3% rise in the North. In contrast, the Pacific is experiencing greater supply pressure, with sustained levels of around 230 in Australasia. In the Indian Ocean, the number of ballasters has notably increased by 10% on a weekly basis, now nearing 180.
@@ -201,10 +201,10 @@ The Baltic Dry Index, while showing an early February dip, continued to hover ab
 ## Panamax | 5d Ma Increasing
 
 
-![Panamax | 5d Ma Increasing](../../images/69831c275e5d686579adc2d6_c5211ca1.png)
+![Panamax | 5d Ma Increasing](../../../../../../corpus/07-signal/images/69831c275e5d686579adc2d6_c5211ca1.png)
 
 > **Figure 12: Panamax | 5d Ma Increasing**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-dry-market-monitor-week-06-2026) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/69831c275e5d686579adc2d6_c5211ca1.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-dry-market-monitor-week-06-2026) | [Local Asset](../../../../../../corpus/07-signal/images/69831c275e5d686579adc2d6_c5211ca1.png)
 
 
 - Supply pressure in the Indian Ocean has intensified, with current levels now surpassing 250, marking an 18% weekly increase and further underscoring the trend from the previous week. Additionally, an increase in ballasters has been noted in the North Atlantic, with figures nearing 120.
@@ -213,10 +213,10 @@ The Baltic Dry Index, while showing an early February dip, continued to hover ab
 ## Supramax| 5d Ma Increasing
 
 
-![Supramax| 5d Ma Increasing](../../images/69831c275e5d686579adc2d9_9920d835.png)
+![Supramax| 5d Ma Increasing](../../../../../../corpus/07-signal/images/69831c275e5d686579adc2d9_9920d835.png)
 
 > **Figure 13: Supramax| 5d Ma Increasing**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-dry-market-monitor-week-06-2026) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/69831c275e5d686579adc2d9_9920d835.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-dry-market-monitor-week-06-2026) | [Local Asset](../../../../../../corpus/07-signal/images/69831c275e5d686579adc2d9_9920d835.png)
 
 
 - Supramax supply is showing strong signals of pressure in the Pacific and North Atlantic, while the South Atlantic recorded a 16% weekly decrease, which adds to the rate recovery we are seeing for the start of February. Supply pressure in the Far East/NOPAC held the spike of the previous week of around 229 (+29% WoW).
@@ -225,10 +225,10 @@ The Baltic Dry Index, while showing an early February dip, continued to hover ab
 ## Handysize| 5d Ma Increasing
 
 
-![Handysize| 5d Ma Increasing](../../images/69831c275e5d686579adc2dc_e4d66455.png)
+![Handysize| 5d Ma Increasing](../../../../../../corpus/07-signal/images/69831c275e5d686579adc2dc_e4d66455.png)
 
 > **Figure 14: Handysize| 5d Ma Increasing**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-dry-market-monitor-week-06-2026) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/69831c275e5d686579adc2dc_e4d66455.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-dry-market-monitor-week-06-2026) | [Local Asset](../../../../../../corpus/07-signal/images/69831c275e5d686579adc2dc_e4d66455.png)
 
 
 - Strong supply pressure for Handysize vessels is evident across basins, particularly in the North Atlantic, where available tonnage has risen to 252, a 24% week-on-week (WoW) increase. Increased signals are also noted in the Pacific, with Australasian indications reaching 160 (+27% WoW). Similarly, the Indian Ocean/South Africa region shows elevated numbers, currently below 120 (+19% WoW).
@@ -240,10 +240,10 @@ The Baltic Dry Index, while showing an early February dip, continued to hover ab
 ## Capesize | Panamax | Supramax 7d Ma Decreasing
 
 
-![Capesize | Panamax | Supramax 7d Ma Decreasing](../../images/69831c275e5d686579adc2df_590c9f3a.png)
+![Capesize | Panamax | Supramax 7d Ma Decreasing](../../../../../../corpus/07-signal/images/69831c275e5d686579adc2df_590c9f3a.png)
 
 > **Figure 15: Capesize | Panamax | Supramax 7d Ma Decreasing**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-dry-market-monitor-week-06-2026) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/69831c275e5d686579adc2df_590c9f3a.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-dry-market-monitor-week-06-2026) | [Local Asset](../../../../../../corpus/07-signal/images/69831c275e5d686579adc2df_590c9f3a.png)
 
 
 - Upon reviewing the tonne-mile growth rate on a Base 100 Index View, a recent deceleration is evident across the Capesize, Panamax, and Supramax segments, despite their 7-day Moving Average (7D MA) remaining above 100%. Specifically, the growth rate for the larger vessel segments, Capesize and Panamax, has declined to the 113-114% range. It is worth noting the volatility in the Supramax growth rate, which has not yet established a definitive downward trend, with a recorded growth rate of 107%.

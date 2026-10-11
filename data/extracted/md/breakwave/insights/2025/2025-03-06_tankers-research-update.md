@@ -42,10 +42,10 @@ Canadian crude moved to the US West Coast will likely head to China, while Europ
 
 TMX crude has already seen more going to Asia, specifically China, after the tariffs were first threatened in January. Crude from TMX to the US west coast fell from 186k b/d in January to 156k b/d in February, while those to China increased from 185k b/d to 205k b/d. In response to the threatened tariffs firms have announced plans to start nighttime loadings at the TMX terminal in Vancouver.
 
-![4b91 Image 0 1741198670179](assets/2025-03-06_tankers-research-update_img_4b91-image-0-1741198670179_0c7c25971281.png)
+![4b91 Image 0 1741198670179](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-03-06_tankers-research-update_img_4b91-image-0-1741198670179_0c7c25971281.png)
 
 > **Figure 1: 4b91 Image 0 1741198670179**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-03-06_tankers-research-update_img_4b91-image-0-1741198670179_0c7c25971281.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-03-06_tankers-research-update_img_4b91-image-0-1741198670179_0c7c25971281.png)
 
 US crude oil imports from Mexico are around 510k b/d, all by tanker. We would expect Mexican crude oil will head Europe or Asia instead of the US. Alternatively, the country may consume more of its crude domestically if its new Dos Bocas refinery (and the rest of its rickety refining system) can ramp up production.
 
@@ -53,10 +53,10 @@ Around 130k b/d of fuel oil goes from Mexico to the US Gulf, mostly on Panamax/L
 
 Around 230k b/d of CPP (mostly gasoline and diesel) goes from East Coast Canada to the US Atlantic Coast, mostly on Handies. We expect all of this will stop going to the US.
 
-![885e Image 1 1741198670182](assets/2025-03-06_tankers-research-update_img_885e-image-1-1741198670182_2fb999c70f81.png)
+![885e Image 1 1741198670182](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-03-06_tankers-research-update_img_885e-image-1-1741198670182_2fb999c70f81.png)
 
 > **Figure 2: 885e Image 1 1741198670182**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-03-06_tankers-research-update_img_885e-image-1-1741198670182_2fb999c70f81.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-03-06_tankers-research-update_img_885e-image-1-1741198670182_2fb999c70f81.png)
 
 The US will need to replace Canadian and Mexican crude oil and products. Europe and India are the most likely suppliers of products (assuming there is no lifting of the Russian oil ban for US importers within the next few weeks) and the Mideast Gulf the likely supplier of replacement sour crude barrels, especially with OPEC poised to start unwinding its voluntary production cuts from April (an extra 138kb/d per month is expected).
 
@@ -78,10 +78,10 @@ The five Mideast Gulf countries increasing production under the plan – Iraq, K
 
 China's crude buying behaviour will be a key factor. Current Chinese onshore inventories stand at 962.6 million barrels, the lowest level since April 2024. If China begins restocking aggressively in response to lower prices and increased OPEC+ supply, the VLCC sector would likely benefit.
 
-![B56c Image 2 1741198692745](assets/2025-03-06_tankers-research-update_img_b56c-image-2-1741198692745_c412c9558f61.png)
+![B56c Image 2 1741198692745](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-03-06_tankers-research-update_img_b56c-image-2-1741198692745_c412c9558f61.png)
 
 > **Figure 3: B56c Image 2 1741198692745**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-03-06_tankers-research-update_img_b56c-image-2-1741198692745_c412c9558f61.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-03-06_tankers-research-update_img_b56c-image-2-1741198692745_c412c9558f61.png)
 
 Kazakhstan’s production has hit a record high of 2.12m b/d in February, a 13% increase from January, according to Reuters. The increase in production at the Tengiz field is already being felt in export programmes. CPC exports rose to 1.6m b/d in February, compared to 1.3m b/d in 2024 on average. The production plan announced by OPEC raises Kazakhstan’s production quota to 1.473m b/d in April and 1.55m b/d by Sep-Dec 2026.
 

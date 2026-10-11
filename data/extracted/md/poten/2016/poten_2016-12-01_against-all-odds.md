@@ -34,6 +34,10 @@ As the year progresses, the dynamics may change. Increased production from Libya
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: Against All Odds](../../../charts/poten/2016/poten_2016-12-01_against-all-odds_chart1.png)
+![Exhibit 1: OPEC Production Increases since November 2014 OPEC Meeting](../../../charts/poten/2016/poten_2016-12-01_against-all-odds_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2016/poten_2016-12-01_against-all-odds_chart1.png)
+> **Exhibit 1: OPEC Production Increases since November 2014 OPEC Meeting**  
+> Unit: Mb/d · X-axis: Nov-14 to Q22017  
+> Series: Saudi Arabia, Iran, Iraq, Nigeria, Libya, Venezuela, Other, Total  
+> *Source: IEA*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2016/poten_2016-12-01_against-all-odds_chart1.png)

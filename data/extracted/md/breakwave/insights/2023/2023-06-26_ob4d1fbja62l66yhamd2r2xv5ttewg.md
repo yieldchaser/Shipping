@@ -31,18 +31,18 @@ Following China’s steel production down, China’s real estate investment mark
 
 Among them, domestic loans were 717.5 billion yuan, down 10.5 percent; the utilized foreign investment was 1.3 billion yuan, down 73.5 percent; self-raised funds reached 1,626.7 billion yuan, down 21.6 percent; deposits and advance receipts were 1,987.8 billion yuan, up 4.4 percent; individual mortgage reached 1,035.4 billion yuan, up 6.5 percent. Against this backdrop, China’s national real estate climate index balanced at 94.56 points, very close to the recent two-year minima.
 
-![1 (2)](assets/2023-06-26_ob4d1fbja62l66yhamd2r2xv5ttewg_img_128229_8c3a9268b24a.png)
+![1 (2)](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-06-26_ob4d1fbja62l66yhamd2r2xv5ttewg_img_128229_8c3a9268b24a.png)
 
 > **Figure 1: 1 (2)**  
-> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-06-26_ob4d1fbja62l66yhamd2r2xv5ttewg_img_128229_8c3a9268b24a.png)
+> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-06-26_ob4d1fbja62l66yhamd2r2xv5ttewg_img_128229_8c3a9268b24a.png)
 
 In an effort to boost flagging economic growth and support China’s vast real estate sector, the People’s Bank of China cut two more key lending rates this week for the first time in 10 months. The Chinese central bank cut the one-year loan prime rate by 10 basis points from 3.65 percent to 3.55 percent, and trimmed the five-year loan prime rate from 4.3 percent to 4.2 percent – for the first time since August. The latest rate cut came on the heels of two monetary easing moves last week. Last Thursday, the PBOC cut its one-year medium-term loan facility for the first time in 10 months, and lowered its seven-day reverse repurchase rate.
 
 Dry bulk market and commodities had a mixed reaction to the latest stimulus measures. On the one hand, copper, crude oil and Capesizes posted gains following China’s central bank intervention. On the other hand, iron ore, coking coal and the rest of the dry bulk segments remained unimpressed. Even though some lagging does exist between a shift in monetary policy and its effect on the economy, some additional generous doses of monetary support seem to be needed for the rest of the pack to follow along.
 
-![1 (3)](assets/2023-06-26_ob4d1fbja62l66yhamd2r2xv5ttewg_img_128329_f9de5b06047e.png)
+![1 (3)](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-06-26_ob4d1fbja62l66yhamd2r2xv5ttewg_img_128329_f9de5b06047e.png)
 
 > **Figure 2: 1 (3)**  
-> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-06-26_ob4d1fbja62l66yhamd2r2xv5ttewg_img_128329_f9de5b06047e.png)
+> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-06-26_ob4d1fbja62l66yhamd2r2xv5ttewg_img_128329_f9de5b06047e.png)
 
 Data source:[Doric](https://www.doric.gr/)

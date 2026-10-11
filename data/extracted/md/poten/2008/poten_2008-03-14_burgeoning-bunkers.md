@@ -94,6 +94,14 @@ As bunker demand grows, prices will probably increase as well. With this, there 
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: Burgeoning Bunkers](../../../charts/poten/2008/poten_2008-03-14_burgeoning-bunkers_chart1.png)
+> **Chart on PDF page 1: Singapore Bunker Prices**  
+> Unit: $/MT · X-axis: Jan-06 to Mar-08  
+> Series: Singapore Day Price - MDO, Singapore Day Price - CST  
+> *Source: Poten & Partners*  
+> *No image crop of this chart was saved; caption read from the PDF.*
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2008/poten_2008-03-14_burgeoning-bunkers_chart1.png)
+> **Chart on PDF page 2: Singapore Bunker Sales 2003 - 2007**  
+> Unit: Thousand Metric Tons · X-axis: 2003 to 2007  
+> Series: Singapore Bunker Sales  
+> *Source: Poten & Partners*  
+> *No image crop of this chart was saved; caption read from the PDF.*

@@ -28,10 +28,18 @@ If they are sustained, recent developments in the oil markets could give the tan
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: Between a Rock and a Hard Place](../../../charts/poten/2017/poten_2017-07-14_between-a-rock-and-a-hard-place_chart1.png)
+![Exhibit 1: Crude Oil Exports (Libya, Nigeria, Iran & U.S.)](../../../charts/poten/2017/poten_2017-07-14_between-a-rock-and-a-hard-place_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2017/poten_2017-07-14_between-a-rock-and-a-hard-place_chart1.png)
+> **Exhibit 1: Crude Oil Exports (Libya, Nigeria, Iran & U.S.)**  
+> Unit: Kb/d · X-axis: Jan-15 to May-17  
+> Series: Libya, Iran, Nigeria, U.S.  
+> *Source: IEA*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2017/poten_2017-07-14_between-a-rock-and-a-hard-place_chart1.png)
 
-![Exhibit 2: Between a Rock and a Hard Place](../../../charts/poten/2017/poten_2017-07-14_between-a-rock-and-a-hard-place_chart2.png)
+![Exhibit 2: OPEC Production versus Exports (Excl. Iran, Nigeria & Libya)](../../../charts/poten/2017/poten_2017-07-14_between-a-rock-and-a-hard-place_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2017/poten_2017-07-14_between-a-rock-and-a-hard-place_chart2.png)
+> **Exhibit 2: OPEC Production versus Exports (Excl. Iran, Nigeria & Libya)**  
+> Unit: Mb/d · X-axis: Jan-15 to May-17  
+> Series: OPEC Production, OPEC Exports  
+> *Source: APEX*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2017/poten_2017-07-14_between-a-rock-and-a-hard-place_chart2.png)

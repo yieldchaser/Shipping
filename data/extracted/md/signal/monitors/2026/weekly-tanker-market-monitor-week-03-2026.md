@@ -32,10 +32,10 @@ tags:
 - Despite some encouraging short-term signals, the underlying demand is not yet strong enough to fully warrant the current positive sentiment in the VLCC market.
 
 
-![Chart of the Week| AG Supply vs Demand](../../images/69690e633304d4de7497f015_b1406737.png)
+![Chart of the Week| AG Supply vs Demand](../../../../../../corpus/07-signal/images/69690e633304d4de7497f015_b1406737.png)
 
 > **Figure 1: Chart of the Week| AG Supply vs Demand**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-tanker-market-monitor-week-03-2026) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/69690e633304d4de7497f015_b1406737.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-tanker-market-monitor-week-03-2026) | [Local Asset](../../../../../../corpus/07-signal/images/69690e633304d4de7497f015_b1406737.png)
 
 
 - AG freight conditions have improved from the early-January extremes, alongside a roughly 20% reduction in net vessel supply from recent peak levels.
@@ -47,10 +47,10 @@ tags:
 A demand benchmark of 8 cargoes per day is applied, reflecting recent observed AG loading averages and providing a neutral near-term reference.
 
 
-![Forward Balance: Gross Supply vs Demand](../../images/69690e633304d4de7497f012_8ee48e7a.png)
+![Forward Balance: Gross Supply vs Demand](../../../../../../corpus/07-signal/images/69690e633304d4de7497f012_8ee48e7a.png)
 
 > **Figure 2: Forward Balance: Gross Supply vs Demand**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-tanker-market-monitor-week-03-2026) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/69690e633304d4de7497f012_8ee48e7a.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-tanker-market-monitor-week-03-2026) | [Local Asset](../../../../../../corpus/07-signal/images/69690e633304d4de7497f012_8ee48e7a.png)
 
 
 - At 10 days forward, gross supply reaches ~110 vessels, versus expected demand of ~71 cargos, implying a ~39-vessel surplus (~55% oversupply relative to demand).
@@ -62,10 +62,10 @@ A demand benchmark of 8 cargoes per day is applied, reflecting recent observed A
 ## Fixture Activity vs Spot Rate Evolution
 
 
-![Fixture Activity vs Spot Rate Evolution](../../images/69690e633304d4de7497f01b_d2aa0cf8.png)
+![Fixture Activity vs Spot Rate Evolution](../../../../../../corpus/07-signal/images/69690e633304d4de7497f01b_d2aa0cf8.png)
 
 > **Figure 3: Fixture Activity vs Spot Rate Evolution**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-tanker-market-monitor-week-03-2026) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/69690e633304d4de7497f01b_d2aa0cf8.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-tanker-market-monitor-week-03-2026) | [Local Asset](../../../../../../corpus/07-signal/images/69690e633304d4de7497f01b_d2aa0cf8.png)
 
 
 - Fixture activity peaked in late December, with 64 fixtures recorded on 25 Dec, while TD3 averaged ~80 WS. By late January, TD3 strengthened to ~91 WS (26 Jan), while fixture counts declined to 37, indicating reduced fixing intensity. The gap between higher rates and lower fixture volumes suggests that recent rate strength has not yet been fully reflected in fixing activity.
@@ -74,19 +74,19 @@ A demand benchmark of 8 cargoes per day is applied, reflecting recent observed A
 ## Freight Market
 
 
-![Freight Market](../../images/69690e633304d4de7497f018_1dd22a16.png)
+![Freight Market](../../../../../../corpus/07-signal/images/69690e633304d4de7497f018_1dd22a16.png)
 
 > **Figure 4: Freight Market**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-tanker-market-monitor-week-03-2026) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/69690e633304d4de7497f018_1dd22a16.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-tanker-market-monitor-week-03-2026) | [Local Asset](../../../../../../corpus/07-signal/images/69690e633304d4de7497f018_1dd22a16.png)
 
 
 ## Vlccmeg- Chinafirmer
 
 
-![VLCC MEG- China Firmer](../../images/69690e633304d4de7497f01e_252fb485.png)
+![VLCC MEG- China Firmer](../../../../../../corpus/07-signal/images/69690e633304d4de7497f01e_252fb485.png)
 
 > **Figure 5: VLCC MEG- China Firmer**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-tanker-market-monitor-week-03-2026) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/69690e633304d4de7497f01e_252fb485.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-tanker-market-monitor-week-03-2026) | [Local Asset](../../../../../../corpus/07-signal/images/69690e633304d4de7497f01e_252fb485.png)
 
 
 - Spot rates across MEG–China (TD3C), MEG–Singapore (TD2), and WAF–China (TD15) have recorded strong short-term gains, with WoW increases of +18.5%, +16.2%, and +15.1%, respectively, alongside robust YoY growth. However, the strength fades when viewed on a broader time horizon. All three routes remain materially weaker on a MoM basis, with TD2 and TD3C down ~16% MoM and TD15 down ~7% MoM, while QoQ performance remains well below the magnitude of weekly gains.
@@ -97,28 +97,28 @@ A demand benchmark of 8 cargoes per day is applied, reflecting recent observed A
 *AG/India Supply Builds, Testing Market Recovery*
 
 
-![Ballasters| Ag/india Supply](../../images/69690e633304d4de7497f024_91300489.png)
+![Ballasters| Ag/india Supply](../../../../../../corpus/07-signal/images/69690e633304d4de7497f024_91300489.png)
 
 > **Figure 6: Ballasters| Ag/india Supply**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-tanker-market-monitor-week-03-2026) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/69690e633304d4de7497f024_91300489.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-tanker-market-monitor-week-03-2026) | [Local Asset](../../../../../../corpus/07-signal/images/69690e633304d4de7497f024_91300489.png)
 
 
 - Despite recent signs of improvement, elevated ballast availability in AG (114 vessels, +7% WoW) alongside a sharp increase in West Africa (13 vessels, +86% WoW) is likely to reassert supply pressure
 
 
-![Ballasters| Ag/india Supply](../../images/69690e633304d4de7497f027_444fd0df.png)
+![Ballasters| Ag/india Supply](../../../../../../corpus/07-signal/images/69690e633304d4de7497f027_444fd0df.png)
 
 > **Figure 7: Ballasters| Ag/india Supply**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-tanker-market-monitor-week-03-2026) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/69690e633304d4de7497f027_444fd0df.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-tanker-market-monitor-week-03-2026) | [Local Asset](../../../../../../corpus/07-signal/images/69690e633304d4de7497f027_444fd0df.png)
 
 
 ## Congestion| Discharge:china
 
 
-![Congestion| Discharge: China](../../images/69690e633304d4de7497f021_fdd0dc53.png)
+![Congestion| Discharge: China](../../../../../../corpus/07-signal/images/69690e633304d4de7497f021_fdd0dc53.png)
 
 > **Figure 8: Congestion| Discharge: China**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-tanker-market-monitor-week-03-2026) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/69690e633304d4de7497f021_fdd0dc53.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-tanker-market-monitor-week-03-2026) | [Local Asset](../../../../../../corpus/07-signal/images/69690e633304d4de7497f021_fdd0dc53.png)
 
 
 - The near-term outlook appears moderately bullish, driven in part by a rising trend in VLCC congestion into China, even as demand indicators point to a subdued outlook for January.

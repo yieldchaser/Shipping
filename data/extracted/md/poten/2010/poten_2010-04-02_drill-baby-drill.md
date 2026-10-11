@@ -44,4 +44,4 @@ In the years to come, the tanker industry will watch these offshore seismic stud
 
 ![Exhibit 1: Drill, Baby, Drill?](../../../charts/poten/2010/poten_2010-04-02_drill-baby-drill_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2010/poten_2010-04-02_drill-baby-drill_chart1.png)
+> **Interactive Asset:** [Local Asset (200 DPI PNG)](../../../charts/poten/2010/poten_2010-04-02_drill-baby-drill_chart1.png)

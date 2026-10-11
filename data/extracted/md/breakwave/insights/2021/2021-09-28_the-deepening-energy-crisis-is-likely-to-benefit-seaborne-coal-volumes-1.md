@@ -29,28 +29,28 @@ With only a few days remaining of the month, European seaborne imports of coal a
 ![Ch1](assets/2021-09-28_the-deepening-energy-crisis-is-likely-to-benefit-seaborne-coal-volumes-1_img_ch1_4720173ececd.png)
 
 > **Figure 1: Ch1**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2021/assets/2021-09-28_the-deepening-energy-crisis-is-likely-to-benefit-seaborne-coal-volumes-1_img_ch1_4720173ececd.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-09-28_the-deepening-energy-crisis-is-likely-to-benefit-seaborne-coal-volumes-1_img_ch1_4720173ececd.png)
 
 As European seaborne coal import volumes have recovered lost ground, the nature of the trade has also changed. After seeing its importance eroding since 2017, the Capesize segment has seen a revival this year and more than doubled its market share in the last year. At the same time, more and more Australian coal has found its way to European ports. Russia remains the dominant player in the European market. Still, the Australian market share has increased as the diplomatic ruckus with China is forcing it to find alternative customers, adding a healthy amount of tonne-mile demand to the trade.
 
 ![Ch2](assets/2021-09-28_the-deepening-energy-crisis-is-likely-to-benefit-seaborne-coal-volumes-1_img_ch2_dd1ab5d6bf2f.png)
 
 > **Figure 2: Ch2**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2021/assets/2021-09-28_the-deepening-energy-crisis-is-likely-to-benefit-seaborne-coal-volumes-1_img_ch2_dd1ab5d6bf2f.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-09-28_the-deepening-energy-crisis-is-likely-to-benefit-seaborne-coal-volumes-1_img_ch2_dd1ab5d6bf2f.png)
 
 The rebound in the seaborne coal trade is by no means solely focused on Europe. The shortage and subsequent price rally for natural gas have forced many countries to increase their reliance on coal, either because of supply constraints or economic reasons. Global seaborne coal exports have therefore recovered since last year’s dip. The volumes shipped during the first nine months of the year have grown by approximately seven per cent year-on-year, assuming the remaining days of the quarter are behaving as predicted. However, total export volumes are still around four per cent below the pre-pandemic peak.
 
 ![Ch3](assets/2021-09-28_the-deepening-energy-crisis-is-likely-to-benefit-seaborne-coal-volumes-1_img_ch3_d5aaefa996f5.png)
 
 > **Figure 3: Ch3**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2021/assets/2021-09-28_the-deepening-energy-crisis-is-likely-to-benefit-seaborne-coal-volumes-1_img_ch3_d5aaefa996f5.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-09-28_the-deepening-energy-crisis-is-likely-to-benefit-seaborne-coal-volumes-1_img_ch3_d5aaefa996f5.png)
 
 The aggregate data for the rebound of the global coal trade obscures that the recovery is not homogenous among the major importers. India is the notable exception from the year-on-year growth in the third quarter among the six largest importers. Despite reports that Indian coal inventories are at critically low levels, the country’s imports fell by ten million tonnes compared to the third quarter last year. According to the nation’s Central Electricity Authority, inventories have fallen to the lowest since November 2017 as the country’s economy has rebounded and sent electricity demand higher. Hence, India may be forced to increase its imports or face blackouts that would threaten the continued economic recovery.
 
 ![Ch4](assets/2021-09-28_the-deepening-energy-crisis-is-likely-to-benefit-seaborne-coal-volumes-1_img_ch4_741ceac66faf.png)
 
 > **Figure 4: Ch4**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2021/assets/2021-09-28_the-deepening-energy-crisis-is-likely-to-benefit-seaborne-coal-volumes-1_img_ch4_741ceac66faf.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-09-28_the-deepening-energy-crisis-is-likely-to-benefit-seaborne-coal-volumes-1_img_ch4_741ceac66faf.png)
 
 The squeeze on the global supply of natural gas is unlikely to disappear anytime soon, suggesting the demand for thermal coal will remain robust. Assuming countries like Indonesia and Colombia are returning to maximum production soon, once pandemic pressures and adverse weather conditions have receded, there is also the potential for global coal shipments to increase further. However, the upside is finite as investments in new capacity has almost come to a standstill in recent years after most banks ceasing lending to the sector.
 

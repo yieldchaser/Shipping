@@ -44,10 +44,10 @@ This pivot westwards is supportive for tonne-mile demand, especially with tanker
 
 ➔ Longer voyages are also likely to tighten vessel supply and could support rates
 
-![Στιγμιότυπο Οθόνης 2024 10 09 193713](assets/2024-10-10_nw-europe-mr-mileage-at-record-lows-as-gasoline-demand-weakens_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_2a8ffdc9b09b.png)
+![Στιγμιότυπο Οθόνης 2024 10 09 193713](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-10-10_nw-europe-mr-mileage-at-record-lows-as-gasoline-demand-weakens_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_2a8ffdc9b09b.png)
 
 > **Figure 1: Στιγμιότυπο Οθόνης 2024 10 09 193713**  
-> **Interactive Data & Source:** [Vortexa](https://www.vortexa.com//oil-gas-data-traders-analysts-data-scientists?gclid=Cj0KCQjw8_qRBhCXARIsAE2AtRZKOvMnbilZ_6_91d7huSFFy71pWLrnPwGwOHVzXsmsG-1a1mZnQw8aAt89EALw_wcB&hsa_acc=1782073842&hsa_ad=548425387665&hsa_cam=14746637662&hsa_grp=125038601902&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_src=g&hsa_tgt=dsa-1431852288425&hsa_ver=3&utm_campaign=%5BCD%5D%20-%20DSA%20-%20EMEA&utm_medium=cpc&utm_medium=ppc&utm_source=google&utm_source=adwords&utm_term=) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-10-10_nw-europe-mr-mileage-at-record-lows-as-gasoline-demand-weakens_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_2a8ffdc9b09b.png)
+> **Interactive Data & Source:** [Vortexa](https://www.vortexa.com//oil-gas-data-traders-analysts-data-scientists?gclid=Cj0KCQjw8_qRBhCXARIsAE2AtRZKOvMnbilZ_6_91d7huSFFy71pWLrnPwGwOHVzXsmsG-1a1mZnQw8aAt89EALw_wcB&hsa_acc=1782073842&hsa_ad=548425387665&hsa_cam=14746637662&hsa_grp=125038601902&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_src=g&hsa_tgt=dsa-1431852288425&hsa_ver=3&utm_campaign=%5BCD%5D%20-%20DSA%20-%20EMEA&utm_medium=cpc&utm_medium=ppc&utm_source=google&utm_source=adwords&utm_term=) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-10-10_nw-europe-mr-mileage-at-record-lows-as-gasoline-demand-weakens_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_2a8ffdc9b09b.png)
 
 ## Clean – East of Suez: LR2 Deliveries Could Trigger Scrapping or Drive Vessels Into the Russian Trade
 
@@ -65,10 +65,10 @@ Looking at the age profile of the trading fleet, LR2s are the youngest, with ove
 
 ➔ Some LR2s will likely join the Aframax trade, but a weak dirty tanker market relative to the clean market could make most owners reluctant to do so
 
-![Στιγμιότυπο Οθόνης 2024 10 09 194125](assets/2024-10-10_nw-europe-mr-mileage-at-record-lows-as-gasoline-demand-weakens_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_66d1b4f18efc.png)
+![Στιγμιότυπο Οθόνης 2024 10 09 194125](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-10-10_nw-europe-mr-mileage-at-record-lows-as-gasoline-demand-weakens_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_66d1b4f18efc.png)
 
 > **Figure 2: Στιγμιότυπο Οθόνης 2024 10 09 194125**  
-> **Interactive Data & Source:** [Vortexa](https://www.vortexa.com//oil-gas-data-traders-analysts-data-scientists?gclid=Cj0KCQjw8_qRBhCXARIsAE2AtRZKOvMnbilZ_6_91d7huSFFy71pWLrnPwGwOHVzXsmsG-1a1mZnQw8aAt89EALw_wcB&hsa_acc=1782073842&hsa_ad=548425387665&hsa_cam=14746637662&hsa_grp=125038601902&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_src=g&hsa_tgt=dsa-1431852288425&hsa_ver=3&utm_campaign=%5BCD%5D%20-%20DSA%20-%20EMEA&utm_medium=cpc&utm_medium=ppc&utm_source=google&utm_source=adwords&utm_term=) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-10-10_nw-europe-mr-mileage-at-record-lows-as-gasoline-demand-weakens_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_66d1b4f18efc.png)
+> **Interactive Data & Source:** [Vortexa](https://www.vortexa.com//oil-gas-data-traders-analysts-data-scientists?gclid=Cj0KCQjw8_qRBhCXARIsAE2AtRZKOvMnbilZ_6_91d7huSFFy71pWLrnPwGwOHVzXsmsG-1a1mZnQw8aAt89EALw_wcB&hsa_acc=1782073842&hsa_ad=548425387665&hsa_cam=14746637662&hsa_grp=125038601902&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_src=g&hsa_tgt=dsa-1431852288425&hsa_ver=3&utm_campaign=%5BCD%5D%20-%20DSA%20-%20EMEA&utm_medium=cpc&utm_medium=ppc&utm_source=google&utm_source=adwords&utm_term=) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-10-10_nw-europe-mr-mileage-at-record-lows-as-gasoline-demand-weakens_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_66d1b4f18efc.png)
 
 ## Dirty – West of Suez: Libyan Crude Exports Are Still Ramping Up, Pointing to Further Employment for Aframaxes
 
@@ -84,10 +84,10 @@ Throughout the period of reduced Libya supplies, the number of Aframaxes going t
 
 ➔ Low earnings in the Gulf of Mexico kept vessels from ballasting to PADD 3 after a European discharge
 
-![Στιγμιότυπο Οθόνης 2024 10 09 194403](assets/2024-10-10_nw-europe-mr-mileage-at-record-lows-as-gasoline-demand-weakens_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_f41a478dc2c3.png)
+![Στιγμιότυπο Οθόνης 2024 10 09 194403](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-10-10_nw-europe-mr-mileage-at-record-lows-as-gasoline-demand-weakens_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_f41a478dc2c3.png)
 
 > **Figure 3: Στιγμιότυπο Οθόνης 2024 10 09 194403**  
-> **Interactive Data & Source:** [Vortexa](https://www.vortexa.com//oil-gas-data-traders-analysts-data-scientists?gclid=Cj0KCQjw8_qRBhCXARIsAE2AtRZKOvMnbilZ_6_91d7huSFFy71pWLrnPwGwOHVzXsmsG-1a1mZnQw8aAt89EALw_wcB&hsa_acc=1782073842&hsa_ad=548425387665&hsa_cam=14746637662&hsa_grp=125038601902&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_src=g&hsa_tgt=dsa-1431852288425&hsa_ver=3&utm_campaign=%5BCD%5D%20-%20DSA%20-%20EMEA&utm_medium=cpc&utm_medium=ppc&utm_source=google&utm_source=adwords&utm_term=) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-10-10_nw-europe-mr-mileage-at-record-lows-as-gasoline-demand-weakens_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_f41a478dc2c3.png)
+> **Interactive Data & Source:** [Vortexa](https://www.vortexa.com//oil-gas-data-traders-analysts-data-scientists?gclid=Cj0KCQjw8_qRBhCXARIsAE2AtRZKOvMnbilZ_6_91d7huSFFy71pWLrnPwGwOHVzXsmsG-1a1mZnQw8aAt89EALw_wcB&hsa_acc=1782073842&hsa_ad=548425387665&hsa_cam=14746637662&hsa_grp=125038601902&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_src=g&hsa_tgt=dsa-1431852288425&hsa_ver=3&utm_campaign=%5BCD%5D%20-%20DSA%20-%20EMEA&utm_medium=cpc&utm_medium=ppc&utm_source=google&utm_source=adwords&utm_term=) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-10-10_nw-europe-mr-mileage-at-record-lows-as-gasoline-demand-weakens_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_f41a478dc2c3.png)
 
 ## Clean – West of Suez: Nw Europe MR Mileage at Record Lows Due to High Intra-European Voyages, Weak Waf and Transatlantic Gasoline Demand
 
@@ -103,10 +103,10 @@ Although NW Europe’s MR mileage was at the bottom of the seasonal range for th
 
 With Dangote gasoline production imminent, further erosion of WAf gasoline demand will further cap MR mileage in NW Europe
 
-![Στιγμιότυπο Οθόνης 2024 10 09 194613](assets/2024-10-10_nw-europe-mr-mileage-at-record-lows-as-gasoline-demand-weakens_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_295386a1e6f5.png)
+![Στιγμιότυπο Οθόνης 2024 10 09 194613](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-10-10_nw-europe-mr-mileage-at-record-lows-as-gasoline-demand-weakens_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_295386a1e6f5.png)
 
 > **Figure 4: Στιγμιότυπο Οθόνης 2024 10 09 194613**  
-> **Interactive Data & Source:** [Vortexa](https://www.vortexa.com//oil-gas-data-traders-analysts-data-scientists?gclid=Cj0KCQjw8_qRBhCXARIsAE2AtRZKOvMnbilZ_6_91d7huSFFy71pWLrnPwGwOHVzXsmsG-1a1mZnQw8aAt89EALw_wcB&hsa_acc=1782073842&hsa_ad=548425387665&hsa_cam=14746637662&hsa_grp=125038601902&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_src=g&hsa_tgt=dsa-1431852288425&hsa_ver=3&utm_campaign=%5BCD%5D%20-%20DSA%20-%20EMEA&utm_medium=cpc&utm_medium=ppc&utm_source=google&utm_source=adwords&utm_term=) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-10-10_nw-europe-mr-mileage-at-record-lows-as-gasoline-demand-weakens_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_295386a1e6f5.png)
+> **Interactive Data & Source:** [Vortexa](https://www.vortexa.com//oil-gas-data-traders-analysts-data-scientists?gclid=Cj0KCQjw8_qRBhCXARIsAE2AtRZKOvMnbilZ_6_91d7huSFFy71pWLrnPwGwOHVzXsmsG-1a1mZnQw8aAt89EALw_wcB&hsa_acc=1782073842&hsa_ad=548425387665&hsa_cam=14746637662&hsa_grp=125038601902&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_src=g&hsa_tgt=dsa-1431852288425&hsa_ver=3&utm_campaign=%5BCD%5D%20-%20DSA%20-%20EMEA&utm_medium=cpc&utm_medium=ppc&utm_source=google&utm_source=adwords&utm_term=) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-10-10_nw-europe-mr-mileage-at-record-lows-as-gasoline-demand-weakens_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_295386a1e6f5.png)
 
 Data Source:[Vortexa](https://www.vortexa.com//oil-gas-data-traders-analysts-data-scientists?gclid=Cj0KCQjw8_qRBhCXARIsAE2AtRZKOvMnbilZ_6_91d7huSFFy71pWLrnPwGwOHVzXsmsG-1a1mZnQw8aAt89EALw_wcB&hsa_acc=1782073842&hsa_ad=548425387665&hsa_cam=14746637662&hsa_grp=125038601902&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_src=g&hsa_tgt=dsa-1431852288425&hsa_ver=3&utm_campaign=%5BCD%5D%20-%20DSA%20-%20EMEA&utm_medium=cpc&utm_medium=ppc&utm_source=google&utm_source=adwords&utm_term=)
 

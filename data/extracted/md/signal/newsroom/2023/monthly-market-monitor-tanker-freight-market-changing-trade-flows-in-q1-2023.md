@@ -26,10 +26,10 @@ tags:
 
 *Published on 05 April 2023*
 
-![Heading](../../images/642d66475a64e63665dcc202_OilFlowsInfographic_logo.png)
+![Heading](../../../../../../corpus/07-signal/images/642d66475a64e63665dcc202_OilFlowsInfographic_logo.png)
 
 > **Figure 1: Heading**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/monthly-market-monitor-tanker-freight-market-changing-trade-flows-in-q1-2023) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/642d66475a64e63665dcc202_OilFlowsInfographic_logo.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/monthly-market-monitor-tanker-freight-market-changing-trade-flows-in-q1-2023) | [Local Asset](../../../../../../corpus/07-signal/images/642d66475a64e63665dcc202_OilFlowsInfographic_logo.png)
 
 
 ## Signal Ocean Looks at the Evolution of Oil Flows Amid the Enforcement of EU Sanctions on Russian Oil
@@ -57,7 +57,7 @@ Overall, seaborne oil flows to European destinations (the Netherlands, Italy, Sp
 
 > **Figure 2: Image 1: Oil Flows to Top European Destinations (Netherlands, Italy, Spain, France, UK, Greece, Germany) Https://app.signalocean.com/tanker/dynamic/oilflows**  
 > *Image 1: Oil flows to top European destinations (Netherlands, Italy, Spain, France, UK, Greece, Germany) https://app.signalocean.com/tanker/dynamic/oilflows*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/monthly-market-monitor-tanker-freight-market-changing-trade-flows-in-q1-2023) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/642afbadfc116369458231bb_image 1 oil exports to Europe logo.avif)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/monthly-market-monitor-tanker-freight-market-changing-trade-flows-in-q1-2023) | [Local Asset](../../../../../../corpus/07-signal/images/642afbadfc116369458231bb_image%201%20oil%20exports%20to%20Europe%20logo.avif)
 
 
 ##### Top Asian Destinations
@@ -69,7 +69,7 @@ In contrast to the main European oil importing countries, where there was a stea
 
 > **Figure 3: Image 2: Oil Flows to Top Asian Destinations China, India, Malaysia, Indonesia, Japan, Taiwan Https://app.signalocean.com/tanker/dynamic/oilflows**  
 > *Image 2: Oil flows to top Asian destinations China, India, Malaysia, Indonesia, Japan, Taiwan https://app.signalocean.com/tanker/dynamic/oilflows*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/monthly-market-monitor-tanker-freight-market-changing-trade-flows-in-q1-2023) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/642afbdb04a8a2b09b5177df_image 2 oil exports to Asia logo.avif)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/monthly-market-monitor-tanker-freight-market-changing-trade-flows-in-q1-2023) | [Local Asset](../../../../../../corpus/07-signal/images/642afbdb04a8a2b09b5177df_image%202%20oil%20exports%20to%20Asia%20logo.avif)
 
 *The next two sections, focusing on Russian oil exports, examine the new patterns in oil flows for Russia's losses and the alternative sources of European energy demand in the first quarter of the year.*
 
@@ -86,14 +86,14 @@ Amid the enforcement of European import bans on Russian oil, China and India top
 
 > **Figure 4: Image 3: Crude Oil Exports to China From Russian Federation 2022-2023 Https://app.signalocean.com/tanker/dynamic/oilflows**  
 > *Image 3: Crude Oil exports to China from Russian Federation 2022-2023 https://app.signalocean.com/tanker/dynamic/oilflows*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/monthly-market-monitor-tanker-freight-market-changing-trade-flows-in-q1-2023) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/642afc2a6f284c92bee8c6e4_image 3.crude from Russia to China logo.avif)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/monthly-market-monitor-tanker-freight-market-changing-trade-flows-in-q1-2023) | [Local Asset](../../../../../../corpus/07-signal/images/642afc2a6f284c92bee8c6e4_image%203.crude%20from%20Russia%20to%20China%20logo.avif)
 
 
 ![Image 4: Crude Oil Exports to India From Russian Federation 2022-2023 Https://app.signalocean.com/tanker/dynamic/oilflows](../../images/642afc0376de6a9e87cae46a_image 4.crude from Russia to India logo.avif)
 
 > **Figure 5: Image 4: Crude Oil Exports to India From Russian Federation 2022-2023 Https://app.signalocean.com/tanker/dynamic/oilflows**  
 > *Image 4: Crude Oil exports to India from Russian Federation 2022-2023 https://app.signalocean.com/tanker/dynamic/oilflows*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/monthly-market-monitor-tanker-freight-market-changing-trade-flows-in-q1-2023) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/642afc0376de6a9e87cae46a_image 4.crude from Russia to India logo.avif)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/monthly-market-monitor-tanker-freight-market-changing-trade-flows-in-q1-2023) | [Local Asset](../../../../../../corpus/07-signal/images/642afc0376de6a9e87cae46a_image%204.crude%20from%20Russia%20to%20India%20logo.avif)
 
 
 ##### Increase of Russian Diesel Oil to North African Countries & Mediterranean
@@ -107,7 +107,7 @@ MR1 tankers seemed to capture nearly half of the business. However, the new dire
 
 > **Figure 6: Image 5: Clean Oil Exports to Morocco**  
 > *Image 5: Clean Oil exports to Morocco. Egypt, Turkey from Russian Federation https://app.signalocean.com/tanker/dynamic/oilflows*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/monthly-market-monitor-tanker-freight-market-changing-trade-flows-in-q1-2023) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/642afcaafc0b524c65ab70b7_image 5. diesel from Russia to North Africa,Med logo.avif)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/monthly-market-monitor-tanker-freight-market-changing-trade-flows-in-q1-2023) | [Local Asset](../../../../../../corpus/07-signal/images/642afcaafc0b524c65ab70b7_image%205.%20diesel%20from%20Russia%20to%20North%20Africa,Med%20logo.avif)
 
 
 ## Section Iii: European Countries and Oil Imports
@@ -124,7 +124,7 @@ When it comes to European energy needs, the question is how the main importing c
 
 > **Figure 7: Image 6: Crude Oil Exports to Netherlands From Saudi Arabia Https://app.signalocean.com/tanker/dynamic/oilflows**  
 > *Image 6: Crude Oil exports to Netherlands from Saudi Arabia https://app.signalocean.com/tanker/dynamic/oilflows*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/monthly-market-monitor-tanker-freight-market-changing-trade-flows-in-q1-2023) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/642afccf0ad971408290c7fb_image 6.crude from Saudi Arabia to NETH logo.avif)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/monthly-market-monitor-tanker-freight-market-changing-trade-flows-in-q1-2023) | [Local Asset](../../../../../../corpus/07-signal/images/642afccf0ad971408290c7fb_image%206.crude%20from%20Saudi%20Arabia%20to%20NETH%20logo.avif)
 
 Before the end of last year, with the first enforcement of the European ban on Russian crude oil imports, there were various scenarios and forecasts for the U.S contribution to the energy import needs of European countries. For the first quarter of this year, U.S crude oil exports to the Netherlands increased by about 60% and to Germany by more than 100% (**Image** 7) compared to a similar period in 2022, with February recording the highest growth for the U.S crude oil exports to Germany.
 
@@ -133,14 +133,14 @@ Before the end of last year, with the first enforcement of the European ban on R
 
 > **Figure 8: Image 7:crude Oil Exports to the Netherlands From the U.s**  
 > *Image 7:Crude Oil exports to the Netherlands from the U.S. https://app.signalocean.com/tanker/dynamic/oilflows*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/monthly-market-monitor-tanker-freight-market-changing-trade-flows-in-q1-2023) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/642afcfdd88e5f3aae3f2a1c_image 7.crude from US to NETH logo.avif)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/monthly-market-monitor-tanker-freight-market-changing-trade-flows-in-q1-2023) | [Local Asset](../../../../../../corpus/07-signal/images/642afcfdd88e5f3aae3f2a1c_image%207.crude%20from%20US%20to%20NETH%20logo.avif)
 
 
 ![Image 8:crude Oil Exports to Germany From the U.s., 2022-2023 Https://app.signalocean.com/tanker/dynamic/oilflows](../../images/642afd6dc5dae4bb50486658_image 8.crude from US to Germany logo.avif)
 
 > **Figure 9: Image 8:crude Oil Exports to Germany From the U.s., 2022-2023 Https://app.signalocean.com/tanker/dynamic/oilflows**  
 > *Image 8:Crude Oil exports to Germany from the U.S., 2022-2023 https://app.signalocean.com/tanker/dynamic/oilflows*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/monthly-market-monitor-tanker-freight-market-changing-trade-flows-in-q1-2023) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/642afd6dc5dae4bb50486658_image 8.crude from US to Germany logo.avif)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/monthly-market-monitor-tanker-freight-market-changing-trade-flows-in-q1-2023) | [Local Asset](../../../../../../corpus/07-signal/images/642afd6dc5dae4bb50486658_image%208.crude%20from%20US%20to%20Germany%20logo.avif)
 
 
 ##### Clean
@@ -152,7 +152,7 @@ In the clean segment, we have noticed a trend of more exports from Qatar to the 
 
 > **Figure 10: Image 9:clean Oil Exports to Netherlands From Qatar Https://app.signalocean.com/tanker/dynamic/oilflows**  
 > *Image 9:Clean Oil exports to Netherlands from Qatar https://app.signalocean.com/tanker/dynamic/oilflows*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/monthly-market-monitor-tanker-freight-market-changing-trade-flows-in-q1-2023) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/642afda4f4d52f4f012ac239_image 9.diesel from Qatar to NETH logo.avif)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/monthly-market-monitor-tanker-freight-market-changing-trade-flows-in-q1-2023) | [Local Asset](../../../../../../corpus/07-signal/images/642afda4f4d52f4f012ac239_image%209.diesel%20from%20Qatar%20to%20NETH%20logo.avif)
 
 
 ##### The Increase and Decrease in the Dirty and Clean Tanker Vessel Sizes
@@ -165,7 +165,7 @@ In the clean segment, we have noticed a trend of more exports from Qatar to the 
 
 > **Figure 11: Image 10: Demand Tonne Charts, Dirty Tankers, 2021-2022-2023 Https://app.signalocean.com/tanker/reports/toncharts-Trade**  
 > *Image 10: Demand Tonne Charts, Dirty Tankers, 2021-2022-2023 https://app.signalocean.com/tanker/reports/toncharts-trade*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/monthly-market-monitor-tanker-freight-market-changing-trade-flows-in-q1-2023) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/642afdcdc5dae467d2489778_image 10.crude demand ton miles logo.avif)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/monthly-market-monitor-tanker-freight-market-changing-trade-flows-in-q1-2023) | [Local Asset](../../../../../../corpus/07-signal/images/642afdcdc5dae467d2489778_image%2010.crude%20demand%20ton%20miles%20logo.avif)
 
 
 ##### Clean - Demand Tonne Miles
@@ -175,7 +175,7 @@ In the clean segment, we have noticed a trend of more exports from Qatar to the 
 
 > **Figure 12: Image 11: Demand Tonne Charts, Clean Tankers, 2021-2022-2023 Https://app.signalocean.com/tanker/reports/toncharts-Trade**  
 > *Image 11: Demand Tonne Charts, Clean Tankers, 2021-2022-2023 https://app.signalocean.com/tanker/reports/toncharts-trade*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/monthly-market-monitor-tanker-freight-market-changing-trade-flows-in-q1-2023) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/642afdee1952f38ffb2edebb_image 11. clean demand ton miles logo.avif)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/monthly-market-monitor-tanker-freight-market-changing-trade-flows-in-q1-2023) | [Local Asset](../../../../../../corpus/07-signal/images/642afdee1952f38ffb2edebb_image%2011.%20clean%20demand%20ton%20miles%20logo.avif)
 
 
 ## Section V: Vessel Speed
@@ -190,7 +190,7 @@ The first quarter of the year ended with the highest sea speed ever recorded for
 
 > **Figure 13: Image 12: Vessel Speeds & WS Rates, VLCC Tankers, 2021-2022-2023 Https://app.signalocean.com/tanker/reports/vesselspeeds Https://app.signalocean.com/tanker/dynamic/market-Prices-Tankers**  
 > *Image 12: Vessel Speeds & WS Rates, VLCC Tankers, 2021-2022-2023 https://app.signalocean.com/tanker/reports/vesselSpeeds https://app.signalocean.com/tanker/dynamic/market-prices-tankers*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/monthly-market-monitor-tanker-freight-market-changing-trade-flows-in-q1-2023) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/642afe2bf77a0c69133b4f57_image12.vessels speed crude logo.avif)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/monthly-market-monitor-tanker-freight-market-changing-trade-flows-in-q1-2023) | [Local Asset](../../../../../../corpus/07-signal/images/642afe2bf77a0c69133b4f57_image12.vessels%20speed%20crude%20logo.avif)
 
 
 ##### Looking Ahead - Expectations

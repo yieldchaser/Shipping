@@ -166,6 +166,8 @@ DCE iron ore was was shocked and go downward all the day.The main contract close
 | **Port Stock** | **0.01% Phosphorus** | Low Fe Grade 0.09\<P<0.1% | 5.00 | RMB/wet tonne | +0.00 |
 
 ## Historical Iron Ore Index Comparisons (USD/DMT)
+> **Approximate.** The report prints no numbers for this chart. Values were read visually from the chart image by the parser and are rough estimates.
+
 | Date | IOSI62 (USD/DMT) | IOPi62 CFR Eq (USD/DMT) | IOSI65 (USD/DMT) | IOPi65 CFR Eq (USD/DMT) |
 | :--- | :--- | :--- | :--- | :--- |
 | 1-Jan-21 | 165.00 | 170.00 | 185.00 | 180.00 |
@@ -202,6 +204,8 @@ DCE iron ore was was shocked and go downward all the day.The main contract close
 | **SGX** | **Sep. 22** | USD/DMT | 96.70 | -3.70 | -3.69% | 6.07 | 22.70 | 96.85 | 103.20 |
 
 ## Dry Bulk Freight Rates Historical Line Data (USD/MT)
+> **Approximate.** The report prints no numbers for this chart. Values were read visually from the chart image by the parser and are rough estimates.
+
 | Date | C5 W. Australia - Qingdao (USD/MT) | C3 Tubarao - Qingdao (USD/MT) |
 | :--- | :--- | :--- |
 | 4-Jan-21 | 8.00 | 18.00 |
@@ -225,21 +229,23 @@ DCE iron ore was was shocked and go downward all the day.The main contract close
 | 4-Jul-22 | 11.00 | 31.00 |
 
 ## Total China Iron Ore Import Volumes (Million Tonnes)
+> **Estimate.** The report prints no numbers for this chart. Values are computed from the chart's vector geometry at each x-axis date label (calibrated on the printed axis ticks; typically within 1% of the axis range).
+
 | Month / Period | Import Volume (Million Tonnes) |
 | :--- | :--- |
-| Jun-21 | 89.00 |
-| Jul-21 | 88.00 |
-| Aug-21 | 97.00 |
-| Sep-21 | 96.00 |
-| Oct-21 | 92.00 |
-| Nov-21 | 105.00 |
-| Dec-21 | 86.00 |
-| Jan-22 | 95.00 |
-| Feb-22 | 86.00 |
-| Mar-22 | 87.00 |
-| Apr-22 | 85.00 |
-| May-22 | 93.00 |
-| Jun-22 | 89.00 |
+| Jun-21 | 89.42 |
+| Jul-21 | 88.54 |
+| Aug-21 | 97.53 |
+| Sep-21 | 95.56 |
+| Oct-21 | 91.61 |
+| Nov-21 | 104.99 |
+| Dec-21 | 86.13 |
+| Jan-22 | 95.12 |
+| Feb-22 | 85.91 |
+| Mar-22 | 87.23 |
+| Apr-22 | 86.13 |
+| May-22 | 92.49 |
+| Jun-22 | 88.98 |
 
 ---
 

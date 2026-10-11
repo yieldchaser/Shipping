@@ -26,10 +26,10 @@ As we discussed in our most recent Weekly Dry Bulk Report (published before the 
 
 Overall, a lot continues to go right in the dry bulk market and global economy (where dry bulk is concerned). The dry bulk market is continuing to benefit from three major new changes this year. Chief among them has remained the return of growth in steel production outside of China. This has been particularly helpful for iron ore trade and capesize demand.
 
-![Chart](assets/2024-05-08_pi5qfapor7rg6e5oc8s288c7f8uzad_img_chart_5ff446917802.jpg)
+![Chart](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-05-08_pi5qfapor7rg6e5oc8s288c7f8uzad_img_chart_5ff446917802.jpg)
 
 > **Figure 1: Chart**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-05-08_pi5qfapor7rg6e5oc8s288c7f8uzad_img_chart_5ff446917802.jpg)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-05-08_pi5qfapor7rg6e5oc8s288c7f8uzad_img_chart_5ff446917802.jpg)
 
 In addition, the entire dry bulk market continues to benefit from the return of growth in global grain trade and this year’s extremely rare contraction in Chinese coal production. At the same time, the overall dry bulk fleet this year continues to expand by only a moderate amount.
 

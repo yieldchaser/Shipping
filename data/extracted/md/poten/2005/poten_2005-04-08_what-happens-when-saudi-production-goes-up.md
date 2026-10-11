@@ -32,6 +32,20 @@ The statistical model suggests that an incremental output of AG (Saudi) crude of
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: What Happens When Saudi Production Goes Up?](../../../charts/poten/2005/poten_2005-04-08_what-happens-when-saudi-production-goes-up_chart1.png)
+> **Chart on PDF page 1: WS Rates vs AG Output**  
+> Unit: WS Rates | Mm Bpd · X-axis: Jan-90 to Jan-04  
+> Series: AG Output, WS Rates  
+> *Source: Poten & Partners*  
+> *No image crop of this chart was saved; caption read from the PDF.*
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2005/poten_2005-04-08_what-happens-when-saudi-production-goes-up_chart1.png)
+> **Chart on PDF page 2: WS Rates vs AG Output**  
+> Unit: WS Rates | Mm Bpd · X-axis: Jan-00 to Jan-05  
+> Series: AG Output, WS Rates  
+> *Source: Poten & Partners*  
+> *No image crop of this chart was saved; caption read from the PDF.*
+
+> **Chart on PDF page 3: Growth in the VLCC Fleet**  
+> Unit: # VLCCs · X-axis: Jan-02 to Jan-05  
+> Series: Poten & Partners  
+> *Source: Poten & Partners*  
+> *No image crop of this chart was saved; caption read from the PDF.*

@@ -34,10 +34,18 @@ Iraqi production and exports are expected to keep growing and since Iraqi crude 
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: More From Mesopotamia](../../../charts/poten/2015/poten_2015-09-25_more-from-mesopotamia_chart1.png)
+![Exhibit 1: Basrah Crude Loadings](../../../charts/poten/2015/poten_2015-09-25_more-from-mesopotamia_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2015/poten_2015-09-25_more-from-mesopotamia_chart1.png)
+> **Exhibit 1: Basrah Crude Loadings**  
+> Unit: KB/d · X-axis: Feb-12 to Jun-15  
+> Series: Basrah Crude Loadings  
+> *Source: Bloomberg*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2015/poten_2015-09-25_more-from-mesopotamia_chart1.png)
 
-![Exhibit 2: More From Mesopotamia](../../../charts/poten/2015/poten_2015-09-25_more-from-mesopotamia_chart2.png)
+![Exhibit 2: Destination of Iraq Crude Exports in 2014](../../../charts/poten/2015/poten_2015-09-25_more-from-mesopotamia_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2015/poten_2015-09-25_more-from-mesopotamia_chart2.png)
+> **Exhibit 2: Destination of Iraq Crude Exports in 2014**  
+> Unit: % · X-axis: Greece to Other Asia  
+> Series: Greece, Italy, Other Europe, United States, Other Americas, China, India, South Korea, Other Asia  
+> *Source: EIA*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2015/poten_2015-09-25_more-from-mesopotamia_chart2.png)

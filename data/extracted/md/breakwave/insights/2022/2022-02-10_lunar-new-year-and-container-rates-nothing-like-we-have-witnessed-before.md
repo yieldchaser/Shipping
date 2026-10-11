@@ -36,19 +36,19 @@ Lunar New Year in China is virtually canceled for the third year running as Chin
 
 The port cities of Tianjin and Dalian are currently affected. Two weeks ago, authorities in the export hub of southern Guangdong province reported Omicron cases spread across the cities of Zhuhai, Meizhou, Zhongshan, and Shenzhen's major container ports. It is also worth remembering the supply chain and rate chaos caused recently when Ningbo and Yantian port operations. While box rates are ostensibly dropping since 1st January, surcharges serve to continue padding the carrier's bottom line.
 
-![Unsplash Image 2vpggou Wla](assets/2022-02-10_lunar-new-year-and-container-rates-nothing-like-we-have-witnessed-before_img_unsplash-image-2vpggou-wla_d8400abbf395.jpg)
+![Unsplash Image 2vpggou Wla](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-02-10_lunar-new-year-and-container-rates-nothing-like-we-have-witnessed-before_img_unsplash-image-2vpggou-wla_d8400abbf395.jpg)
 
 > **Figure 1: Unsplash Image 2vpggou Wla**  
-> **Interactive Data & Source:** [Xeneta](https://www.xeneta.com?fbclid=IwAR0BjDzdgVUTi43v_ScKzaJrDLlwu_T4XVszsAia81RdbTpDHJ_jEHf2tTI) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-02-10_lunar-new-year-and-container-rates-nothing-like-we-have-witnessed-before_img_unsplash-image-2vpggou-wla_d8400abbf395.jpg)
+> **Interactive Data & Source:** [Xeneta](https://www.xeneta.com?fbclid=IwAR0BjDzdgVUTi43v_ScKzaJrDLlwu_T4XVszsAia81RdbTpDHJ_jEHf2tTI) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-02-10_lunar-new-year-and-container-rates-nothing-like-we-have-witnessed-before_img_unsplash-image-2vpggou-wla_d8400abbf395.jpg)
 
 **A look at our platform reveals Shanghai-Los Angeles Port short-term freight rates, for 40' standard dry container, dropped slightly (US$ 8044 – 8035, or .11%) in the first two weeks of January (1-14), where the carriers were charging 'priority shipping fees' ranging from US$ 1 272- $ 1727 /box. In the same two-week timespan, the Shanghai- North European Main loop rates decreased by only 0.01% (US$ 14468-14466), with 'priority shipment fees of US$ 573- $ 2732/box.**
 
 It's no wonder consumer confidence is starting to drop worldwide; with the box carriers implementing surcharges that can equal or exceed the actual ocean rates charged, prices worldwide are skyrocketing as shortages continue to plague both B2B and retail.
 
-![Unsplash Image Xsswba4rb6e](assets/2022-02-10_lunar-new-year-and-container-rates-nothing-like-we-have-witnessed-before_img_unsplash-image-xsswba4rb6e_d3ddc8d971fd.jpg)
+![Unsplash Image Xsswba4rb6e](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-02-10_lunar-new-year-and-container-rates-nothing-like-we-have-witnessed-before_img_unsplash-image-xsswba4rb6e_d3ddc8d971fd.jpg)
 
 > **Figure 2: Unsplash Image Xsswba4rb6e**  
-> **Interactive Data & Source:** [Xeneta](https://www.xeneta.com?fbclid=IwAR0BjDzdgVUTi43v_ScKzaJrDLlwu_T4XVszsAia81RdbTpDHJ_jEHf2tTI) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-02-10_lunar-new-year-and-container-rates-nothing-like-we-have-witnessed-before_img_unsplash-image-xsswba4rb6e_d3ddc8d971fd.jpg)
+> **Interactive Data & Source:** [Xeneta](https://www.xeneta.com?fbclid=IwAR0BjDzdgVUTi43v_ScKzaJrDLlwu_T4XVszsAia81RdbTpDHJ_jEHf2tTI) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-02-10_lunar-new-year-and-container-rates-nothing-like-we-have-witnessed-before_img_unsplash-image-xsswba4rb6e_d3ddc8d971fd.jpg)
 
 However, in today's Covid world, the relationships between rising box rates and Lunar New Year may be obsolete. Two weeks ago, Pacific Maritime Association reported 800 dockworkers (10% of the workforce) as unavailable to work at Los Angeles/Long Beach ports due to Omicron-related reasons. With supply chains now reaching from inland China to Mainstreet Cincinnati and Hauptstrasse Duisberg, this would affect cargo availability more than CNY.
 

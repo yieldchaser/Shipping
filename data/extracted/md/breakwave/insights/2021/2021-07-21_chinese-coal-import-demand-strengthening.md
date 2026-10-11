@@ -33,7 +33,7 @@ Going forward, the prospects for Chinese coal imports remain promising. China's 
 ![A1.png Twra](assets/2021-07-21_chinese-coal-import-demand-strengthening_img_a1pngtwra_a7d56f222322.png)
 
 > **Figure 1: A1.png Twra**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2021/assets/2021-07-21_chinese-coal-import-demand-strengthening_img_a1pngtwra_a7d56f222322.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-07-21_chinese-coal-import-demand-strengthening_img_a1pngtwra_a7d56f222322.png)
 
 ---
 

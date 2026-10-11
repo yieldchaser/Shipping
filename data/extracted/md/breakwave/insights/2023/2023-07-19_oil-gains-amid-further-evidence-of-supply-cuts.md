@@ -24,11 +24,11 @@ source_file: "corpus/03-breakwave/insights/2023/2023-07-19_oil-gains-amid-furthe
 
 Early losses following weak economic data were reversed as the spectre of an end to the interest rate hike cycle increased.
 
-![Data Source:commodities Wrap](assets/2023-07-19_oil-gains-amid-further-evidence-of-supply-cuts_img_screenshot2023-07-19134033_343520d46df8.png)
+![Data Source:commodities Wrap](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-07-19_oil-gains-amid-further-evidence-of-supply-cuts_img_screenshot2023-07-19134033_343520d46df8.png)
 
 > **Figure 1: Data Source:commodities Wrap**  
 > *Data source:Commodities Wrap*  
-> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-07-19_oil-gains-amid-further-evidence-of-supply-cuts_img_screenshot2023-07-19134033_343520d46df8.png)
+> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-07-19_oil-gains-amid-further-evidence-of-supply-cuts_img_screenshot2023-07-19134033_343520d46df8.png)
 
 **Base metals**edged lower following Monday’s sell-off as concerns over Chinese demand continue to emanate across the sector. China’s Q2 GDP grew 6.3% y/y, posing challenges to growth in the second half of this year. The focus is now likely to shift to the next Politburo meeting, which is likely to be held before the end of July. Policy makers have intensified their communication with the market, and expectations for a stimulus package are building. That may support already positive signs in infrastructure spending, with growth picking up in June to 6.4% y/y.
 

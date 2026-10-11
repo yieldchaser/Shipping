@@ -31,16 +31,16 @@ In sharp contrast, the investment in real estate development during the first fo
 
 China’s retail sales of consumer goods and service sectors remain bright spots as factory and real estate data fail to add further steam. Against this backdrop, China soybean imports continued growing amid economic recovery, recent price declines and possible shortage of soybean supplies. Refinitiv trade flows tracked 8.8 million tonnes of soybean imports in China this April, a five-year high for the month. Moreover, 10.2 and 10.3 million tonnes of soybeans are heading for China and will arrive in Chinese ports in May and June, respectively. Accumulated soybean imports in the first half of the year are expected to reach 49.3 million tonnes, which is an all-time high and well above last year's respective period. Brazil is the leading supplier of China soybean imports. A total of 7.1 million tonnes of Brazilian soybeans arrived in China in April. Refinitiv trade flows indicate that soybean imports from Brazil will further grow to 8.6 and 9.7 million tonnes for May and June, respectively.
 
-![1 (8)](assets/2023-05-22_doric-weekly-market-insight_img_128829_96707c38cbcf.png)
+![1 (8)](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-05-22_doric-weekly-market-insight_img_128829_96707c38cbcf.png)
 
 > **Figure 1: 1 (8)**  
-> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-05-22_doric-weekly-market-insight_img_128829_96707c38cbcf.png)
+> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-05-22_doric-weekly-market-insight_img_128829_96707c38cbcf.png)
 
 In spite of the cheerful tone in the soybean market, the main carriers of grains in these staple seaborn runs have diverted lately from their usual flight plan, ending the week at P6_82 (ECSA RV) levels of just $12,827 daily. As a flotilla of ballasters can attest, one swallow does not a summer make neither can a single load pocket enrich the freight market overall.
 
-![1 (9)](assets/2023-05-22_doric-weekly-market-insight_img_128929_e47a8fd2e186.png)
+![1 (9)](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-05-22_doric-weekly-market-insight_img_128929_e47a8fd2e186.png)
 
 > **Figure 2: 1 (9)**  
-> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-05-22_doric-weekly-market-insight_img_128929_e47a8fd2e186.png)
+> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-05-22_doric-weekly-market-insight_img_128929_e47a8fd2e186.png)
 
 Data source:[Doric](https://www.doric.gr/)

@@ -20,10 +20,10 @@ source_file: "corpus/03-breakwave/insights/2026/2026-08-05_chokepoints-calculus-
 
 ---
 
-![Rgb Color Brs Shipbrokers Monogram L](assets/2026-08-05_chokepoints-calculus-uneven-fees-risks-amp-consequences_img_rgb-color-brs-shipbrokers-monogram-l_c365f35f1de5.png)
+![Rgb Color Brs Shipbrokers Monogram L](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-08-05_chokepoints-calculus-uneven-fees-risks-amp-consequences_img_rgb-color-brs-shipbrokers-monogram-l_c365f35f1de5.png)
 
 > **Figure 1: Rgb Color Brs Shipbrokers Monogram L**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-08-05_chokepoints-calculus-uneven-fees-risks-amp-consequences_img_rgb-color-brs-shipbrokers-monogram-l_c365f35f1de5.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-08-05_chokepoints-calculus-uneven-fees-risks-amp-consequences_img_rgb-color-brs-shipbrokers-monogram-l_c365f35f1de5.png)
 
 Recent developments in the Black Sea, the Strait of Hormuz and the Red Sea are a stark reminder that maritime trade does not evolve in a linear or predictable fashion. Routes that appear to be normalising can quickly face renewed security risks, forcing commercial assumptions to be revised.
 
@@ -33,10 +33,10 @@ Against this backdrop, a year-to-date review of the major maritime chokepoints o
 
 Although dry bulk traffic through the Suez Canal has slightly recovered from its depressed levels recorded in 2025 as AXSMarine data indicate that about 1,600 laden bulker transits were recorded in 1H26 (up 15% y-o-y), traffic remained well below pre-crisis levels.
 
-![2](assets/2026-08-05_chokepoints-calculus-uneven-fees-risks-amp-consequences_img_2_49e1803ee0e3.png)
+![2](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-08-05_chokepoints-calculus-uneven-fees-risks-amp-consequences_img_2_49e1803ee0e3.png)
 
 > **Figure 2: 2**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-08-05_chokepoints-calculus-uneven-fees-risks-amp-consequences_img_2_49e1803ee0e3.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-08-05_chokepoints-calculus-uneven-fees-risks-amp-consequences_img_2_49e1803ee0e3.png)
 
 The latest escalation began on 20 July, when Yemen's Houthis declared a maritime embargo against Saudi Arabia and warned ships against using Saudi ports. The threat is relevant to dry bulk, particularly geared vessels lifting phosphate, fertiliser and other cargoes from Saudi terminals, which could face higher insurance costs and reduced owner participation. This is relevant because Saudi Red Sea terminals, including Yanbu, had provided an alternative outlet for some cargoes previously shipped from Ras Al Khair.
 
@@ -48,10 +48,10 @@ The wider risk extends beyond shipping costs. Sustained high energy prices raise
 
 The Bosphorus has continued to operate, and the latest increase in Turkish Straits transit fees affects voyage cost rather than physical capacity. Effective 1 July 2026, the fee for vessels passing through the Bosphorus and Dardanelles without calling at a Turkish port rose by about 15%, from $5.83 to $6.70 per net ton. The more serious disruption lies farther north in the Black Sea and Sea of Azov.
 
-![3](assets/2026-08-05_chokepoints-calculus-uneven-fees-risks-amp-consequences_img_3_939bf19ae0a5.png)
+![3](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-08-05_chokepoints-calculus-uneven-fees-risks-amp-consequences_img_3_939bf19ae0a5.png)
 
 > **Figure 3: 3**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-08-05_chokepoints-calculus-uneven-fees-risks-amp-consequences_img_3_939bf19ae0a5.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-08-05_chokepoints-calculus-uneven-fees-risks-amp-consequences_img_3_939bf19ae0a5.png)
 
 Commercial access to the Sea of Azov was restricted in July following intensified attacks on vessels and maritime infrastructure. Around one-quarter of Russia's grain exports normally moves through Azov ports, and cargoes may need to be redirected towards deeper Black Sea or Baltic terminals. Such rerouting would complicate inland transport, delay shipments and alter vessel requirements.
 
@@ -81,10 +81,10 @@ The Panama Canal entered 2026 in a stronger position than during the drought res
 
 According to an official advisory, the Panama Canal Authority (ACP) stated that the average slot-auction price had risen from a pre-conflict range of $135,000-$140,000 to approximately $385,000 between March and April. Separate market data recorded exceptional individual Panamax and Neopanamax bids well above that level.
 
-![4](assets/2026-08-05_chokepoints-calculus-uneven-fees-risks-amp-consequences_img_4_c811eb286ea4.png)
+![4](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-08-05_chokepoints-calculus-uneven-fees-risks-amp-consequences_img_4_c811eb286ea4.png)
 
 > **Figure 4: 4**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-08-05_chokepoints-calculus-uneven-fees-risks-amp-consequences_img_4_c811eb286ea4.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-08-05_chokepoints-calculus-uneven-fees-risks-amp-consequences_img_4_c811eb286ea4.png)
 
 In the coming months, attention is likely to shift from congestion to loadability and last-minute booking flexibility. Citing current hydrological conditions and the potential development of El Niño, the ACP announced progressive cuts to the maximum Neopanamax draught, to 14.94 metres from 24 July and 14.78 metres from 15 August. From 25 July, ACP will also temporarily suspend Period 3 auctions for the Regular and Super segments, affecting only two of the canal's 36 daily slots; Neopanamax Period 3 and extraordinary auctions will remain available. These targeted measures follow Middle East disruption that tightened reservation demand and produced exceptional multimillion-dollar auction bids from ships transporting energy.
 

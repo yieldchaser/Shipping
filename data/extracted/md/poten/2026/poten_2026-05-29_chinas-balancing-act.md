@@ -30,10 +30,17 @@ China will probably also continue its diversification drive away from the Persia
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: Chinas Balancing Act](../../../charts/poten/2026/poten_2026-05-29_chinas-balancing-act_chart1.png)
+![Exhibit 1: China: Seaborne Crude Oil Imports by Origin](../../../charts/poten/2026/poten_2026-05-29_chinas-balancing-act_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2026/poten_2026-05-29_chinas-balancing-act_chart1.png)
+> **Exhibit 1: China: Seaborne Crude Oil Imports by Origin**  
+> Unit: Kb/d · X-axis: Jan-19 to Apr-26  
+> Series: Saudi Arabia, Russia, Iraq, Iran, Angola, Oman, Brazil, United Arab Emirates, Other  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2026/poten_2026-05-29_chinas-balancing-act_chart1.png)
 
-![Exhibit 2: Chinas Balancing Act](../../../charts/poten/2026/poten_2026-05-29_chinas-balancing-act_chart2.png)
+![Exhibit 2: Crude Oil Exports From Yanbu by Destination](../../../charts/poten/2026/poten_2026-05-29_chinas-balancing-act_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2026/poten_2026-05-29_chinas-balancing-act_chart2.png)
+> **Exhibit 2: Crude Oil Exports From Yanbu by Destination**  
+> Unit: Kb/d · X-axis: Jan-19 to Apr-26  
+> Series: Egypt, South Korea, Japan, Jordan, China, United States, Canada, India, Other  
+> *Source: Vortexa*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2026/poten_2026-05-29_chinas-balancing-act_chart2.png)

@@ -80,6 +80,8 @@ The question that remains is whether or not China will have sustained enough gro
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: Powering the Markets: The Chinese Colossus](../../../charts/poten/2004/poten_2004-02-13_powering-the-markets-the-chinese-colossus_chart1.png)
-
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2004/poten_2004-02-13_powering-the-markets-the-chinese-colossus_chart1.png)
+> **Chart on PDF page 3: Oil Production and Consumption in China**  
+> Unit: 000 Bpd · X-axis: 1980 to 2000  
+> Series: Production, Consumption  
+> *Source: BP Statistics/Poten*  
+> *No image crop of this chart was saved; caption read from the PDF.*

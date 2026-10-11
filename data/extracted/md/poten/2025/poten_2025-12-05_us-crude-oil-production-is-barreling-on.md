@@ -28,10 +28,16 @@ While there is production growth expected in many places, U.S. oil demand is exp
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: US Crude Oil Production Is Barreling On](../../../charts/poten/2025/poten_2025-12-05_us-crude-oil-production-is-barreling-on_chart1.png)
+![Exhibit 1: US Crude Oil Production](../../../charts/poten/2025/poten_2025-12-05_us-crude-oil-production-is-barreling-on_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2025/poten_2025-12-05_us-crude-oil-production-is-barreling-on_chart1.png)
+> **Exhibit 1: US Crude Oil Production**  
+> Unit: Mb/d · X-axis: Q1 2010 to Q3 2025  
+> Series: Alaska, Offshore USG, Shale, Rest of Lower 48  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2025/poten_2025-12-05_us-crude-oil-production-is-barreling-on_chart1.png)
 
-![Exhibit 2: US Crude Oil Production Is Barreling On](../../../charts/poten/2025/poten_2025-12-05_us-crude-oil-production-is-barreling-on_chart2.png)
+![Exhibit 2: US Gulf Crude Oil Exports by Vessel Class](../../../charts/poten/2025/poten_2025-12-05_us-crude-oil-production-is-barreling-on_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2025/poten_2025-12-05_us-crude-oil-production-is-barreling-on_chart2.png)
+> **Exhibit 2: US Gulf Crude Oil Exports by Vessel Class**  
+> Unit: Kb/d · X-axis: Jan-17 to Sep-25  
+> Series: VLCC, Suezmax / LR3, Aframax / LR2, Panamax / LR1, Other  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2025/poten_2025-12-05_us-crude-oil-production-is-barreling-on_chart2.png)

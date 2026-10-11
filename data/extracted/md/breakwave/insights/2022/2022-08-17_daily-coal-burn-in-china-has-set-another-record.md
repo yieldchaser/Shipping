@@ -27,7 +27,7 @@ As we have continued to stress for our clients in our Weekly China Reports, howe
 
 As we also discussed for our clients in this week's Weekly China Report, a large number of coal mine accidents have occurred in China in recent weeks -- but unlike in 2021, this has not led to major changes in coal production. As we have stressed in previous work, during previous years coal mine accidents received much more attention in China and were very often followed by regional and national inspections and restrictions. After China began to experience a coal shortage leading up to last winter, however, a shift occurred in which increasing coal production became much more of a priority than new safety inspections and restrictions. So far this year, production has continued to be prioritized, even despite the most recent accidents. Domestic coal production in China continues to fare a great deal better than thermal coal-derived electricity generation.
 
-![Chart 1 (43)](assets/2022-08-17_daily-coal-burn-in-china-has-set-another-record_img_chart1284329_4802d2a740f7.jpg)
+![Chart 1 (43)](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-08-17_daily-coal-burn-in-china-has-set-another-record_img_chart1284329_4802d2a740f7.jpg)
 
 > **Figure 1: Chart 1 (43)**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-08-17_daily-coal-burn-in-china-has-set-another-record_img_chart1284329_4802d2a740f7.jpg)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-08-17_daily-coal-burn-in-china-has-set-another-record_img_chart1284329_4802d2a740f7.jpg)

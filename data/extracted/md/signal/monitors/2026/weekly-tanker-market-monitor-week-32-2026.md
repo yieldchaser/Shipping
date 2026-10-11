@@ -36,11 +36,11 @@ Since the renewed naval blockade of the Strait of Hormuz took effect on 14 July,
 Of all transits, 56% were operated by non-transparent interests, comprising 29 sanctioned fleet vessels, 17 under opaque ownership and 11 ghost fleet vessels, while 44% were controlled by named, transparent owners. East-to-west crossings totalled 55, compared with 47 in the opposite direction, indicating traffic volumes in both directions. However, vessel routing was concentrated along the Iranian side of the Strait, where 45 transits were identified, while only four were confirmed on the Omani lane. The remaining 53 crossings could not be verified because AIS transmissions were unavailable for much or all of the passage.
 
 
-![Hormuz Tanker Transits Since 14 July (N=102) - Transit Mode by Cargo, and Ownership.](../../images/6a758c2cc6bfd12f7d49768f_f882ac08.png)
+![Hormuz Tanker Transits Since 14 July (N=102) - Transit Mode by Cargo, and Ownership.](../../../../../../corpus/07-signal/images/6a758c2cc6bfd12f7d49768f_f882ac08.png)
 
 > **Figure 1: Hormuz Tanker Transits Since 14 July (N=102) - Transit Mode by Cargo, and Ownership.**  
 > *Figure 1. Hormuz tanker transits since 14 July (n=102) - transit mode by cargo, and ownership.*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-tanker-market-monitor-week-32-2026) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6a758c2cc6bfd12f7d49768f_f882ac08.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-tanker-market-monitor-week-32-2026) | [Local Asset](../../../../../../corpus/07-signal/images/6a758c2cc6bfd12f7d49768f_f882ac08.png)
 
 Transit tracking: The Signal Group · data to 3 Aug 2026
 
@@ -63,11 +63,11 @@ The proposal does not, by itself, point to a near-term increase in commercial ve
 **As of 6 August, the East–West earnings gap remained pronounced.** Arabian Gulf export routes continued to post the highest returns, with MEG–China (TD3C) at about **$481k/day**, up **$58k** WoW, and MEG–Singapore (TD2) at around **$502,000/day**, up **$44k**. MEG–Med Suezmax (TD23) was almost unchanged at about **$320k/day**. Across the Atlantic basin, most benchmark routes eased over the week, while the Black Sea–Mediterranean Suezmax route (TD6) was the only major route to strengthen, reaching about **$377k/day** (+**$59k**). US Gulf–China (TD22) stood at about **$119k/day** (−**$9k**), West Africa–China (TD15) at **$107k/day** (−**$10k**), Caribbean and East Coast Mexico Aframaxes at **$89–95k/day** (−**$24k** to −**$27k**), and West Africa and Guyana Suezmaxes (TD20, TD27) at **$71–74k/day** (−**$29k**).
 
 
-![Dirty Spot TCE by Benchmark Route, East vs West of Suez (Label Shows Week-on-Week Change).](../../images/6a758c2cc6bfd12f7d497692_80dbfc3f.png)
+![Dirty Spot TCE by Benchmark Route, East vs West of Suez (Label Shows Week-on-Week Change).](../../../../../../corpus/07-signal/images/6a758c2cc6bfd12f7d497692_80dbfc3f.png)
 
 > **Figure 2: Dirty Spot TCE by Benchmark Route, East vs West of Suez (Label Shows Week-on-Week Change).**  
 > *Figure 2. Dirty spot TCE by benchmark route, East vs West of Suez (label shows week-on-week change).*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-tanker-market-monitor-week-32-2026) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6a758c2cc6bfd12f7d497692_80dbfc3f.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-tanker-market-monitor-week-32-2026) | [Local Asset](../../../../../../corpus/07-signal/images/6a758c2cc6bfd12f7d497692_80dbfc3f.png)
 
 Freight/TCE: The Signal Group / Baltic Exchange · 6 Aug 2026
 
@@ -82,11 +82,11 @@ VLCC fleet utilisation followed two distinct phases in 2026. After remaining wit
 Asset values followed a different trajectory. Nearly 80% of this year's appreciation had already been recorded by March, well before fleet utilisation reached its July high. Five-year-old VLCC values increased from $118 million at end-2025 to $138 million by March and have since edged higher to around $143 million, while ten-year-old values rose from $88 million to $110 million before reaching about $113 million. The stronger appreciation in older tonnage (+29% versus +21% for five-year-old vessels) narrowed the price gap between five and ten-year-old VLCCs from around $30 million at end-2025 to approximately $26 million during February and March. From April onwards the differential widened steadily, returning to around $30 million by July after recording a narrower gap before the end of the first quarter.
 
 
-![VLCC Fleet Utilization vs 5-Yr and 10-Yr Secondhand Asset Values, 2025–2026 (Monthly).fleet & Asset Data: The Signal Group](../../images/6a758c2cc6bfd12f7d497695_b8bf3ae5.png)
+![VLCC Fleet Utilization vs 5-Yr and 10-Yr Secondhand Asset Values, 2025–2026 (Monthly).fleet & Asset Data: The Signal Group](../../../../../../corpus/07-signal/images/6a758c2cc6bfd12f7d497695_b8bf3ae5.png)
 
 > **Figure 3: VLCC Fleet Utilization vs 5-Yr and 10-Yr Secondhand Asset Values, 2025–2026 (Monthly).fleet & Asset Data: The Signal Group**  
 > *Figure 3. VLCC fleet utilization vs 5-yr and 10-yr secondhand asset values, 2025–2026 (monthly).Fleet & asset data: The Signal Group*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-tanker-market-monitor-week-32-2026) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6a758c2cc6bfd12f7d497695_b8bf3ae5.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-tanker-market-monitor-week-32-2026) | [Local Asset](../../../../../../corpus/07-signal/images/6a758c2cc6bfd12f7d497695_b8bf3ae5.png)
 
 
 ## VLCC Fleet: Ttilization 48.4% (vs 39% 3y Avg.) • 5y $143m / 10y $113m • 5y +21%, 10y +28% • 5y–10y Gap Back to ~$30m (From ~$26m in Q1)
@@ -97,20 +97,20 @@ Asset values followed a different trajectory. Nearly 80% of this year's apprecia
 The **largest concentration** of VLCC ballasters remains east of Suez, with 150 vessels in the Far East and 135 in the Arabian Gulf, compared with a combined 52 across the Americas (25), West Africa (14) and Europe (13). **Ballast** vessels also outnumber **laden** ships by 96% in the Far East (150 vs 77) and by 150% in the Arabian Gulf (135 vs 54), underlining the much heavier ballast presence in the eastern basin. West of Suez, fleet balances are considerably closer, with the Americas (25 vs 29) and West Africa (14 vs 15) near parity, while South Africa/Indian Ocean is the largest western concentration at 64 ballast vessels against 41 laden.
 
 
-![VLCC Ballast vs Laden Vessel Counts by Region, East vs West of Suez.source: Signal Group · 6 Aug 2026](../../images/6a758c2cc6bfd12f7d497698_ae2978d9.png)
+![VLCC Ballast vs Laden Vessel Counts by Region, East vs West of Suez.source: Signal Group · 6 Aug 2026](../../../../../../corpus/07-signal/images/6a758c2cc6bfd12f7d497698_ae2978d9.png)
 
 > **Figure 4: VLCC Ballast vs Laden Vessel Counts by Region, East vs West of Suez.source: Signal Group · 6 Aug 2026**  
 > *Figure 4. VLCC ballast vs laden vessel counts by region, East vs West of Suez.Source: Signal Group · 6 Aug 2026*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-tanker-market-monitor-week-32-2026) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6a758c2cc6bfd12f7d497698_ae2978d9.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-tanker-market-monitor-week-32-2026) | [Local Asset](../../../../../../corpus/07-signal/images/6a758c2cc6bfd12f7d497698_ae2978d9.png)
 
 The East of Suez ballast to laden ratio reversed sharply after 14 July, rising from about 1.0 to 1.5 by 6 August. Laden VLCCs declined from 344 to 278, while ballasters increased from 351 to 429. Although the ratio had previously reached similar levels in early April, the move since mid-July stands out for its speed, reversing the lower readings seen through late June and early July.
 
 
-![East-of-Suez VLCC Ballast-to-Laden Ratio, Since the 14 July Blockade.source: The Signal Group](../../images/6a758c2cc6bfd12f7d49769b_af615a81.png)
+![East-of-Suez VLCC Ballast-to-Laden Ratio, Since the 14 July Blockade.source: The Signal Group](../../../../../../corpus/07-signal/images/6a758c2cc6bfd12f7d49769b_af615a81.png)
 
 > **Figure 5: East-of-Suez VLCC Ballast-to-Laden Ratio, Since the 14 July Blockade.source: The Signal Group**  
 > *Figure 5. East-of-Suez VLCC ballast-to-laden ratio, since the 14 July blockade.Source: The Signal Group*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-tanker-market-monitor-week-32-2026) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6a758c2cc6bfd12f7d49769b_af615a81.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-tanker-market-monitor-week-32-2026) | [Local Asset](../../../../../../corpus/07-signal/images/6a758c2cc6bfd12f7d49769b_af615a81.png)
 
 
 ## Ballast : Laden (VLCC): East of Suez B/l Ratio 1.0 (14 Jul) → 1.5 (6 Aug) • Back to Early-April Levels After Reaching Near Parity in Mid-July.

@@ -145,14 +145,23 @@ DCE iron ore futures rose largely today, and the main contract closed 668.5, inc
 | **Jingtang** | 0.00 | +0.00 | **Tianjin** | -40.00 | +0.00 |
 
 ## Historical Iron Ore Index Comparisons (USD/DMT)
+> **Estimate.** The report prints no numbers for this chart. Values are computed from the chart's vector geometry at each x-axis date label (calibrated on the printed axis ticks; typically within 1% of the axis range).
+
 | Date | IOSI62 (USD/DMT) | IOPi62 CFR Eq (USD/DMT) | IOSI65 (USD/DMT) | IOPi65 CFR Eq (USD/DMT) |
 | :--- | :--- | :--- | :--- | :--- |
-| 1-Jan-21 | 150.00 | 148.00 | 155.00 | 152.00 |
-| 1-Mar-21 | 160.00 | 158.00 | 165.00 | 162.00 |
-| 1-May-21 | 180.00 | 178.00 | 200.00 | 195.00 |
-| 1-Jul-21 | 250.00 | 245.00 | 275.00 | 270.00 |
-| 1-Sep-21 | 160.00 | 155.00 | 170.00 | 165.00 |
-| 1-Nov-21 | 100.00 | 95.00 | 110.00 | 105.00 |
+| 1-Dec-20 | 133.63 | 129.48 | 142.86 | 145.89 |
+| 1-Jan-21 | 162.30 | 158.20 | 170.51 | 172.57 |
+| 1-Feb-21 | 159.23 | 163.33 | 182.82 | 188.97 |
+| 1-Mar-21 | 177.69 | 175.64 | 197.18 | 200.25 |
+| 1-Apr-21 | 167.43 | 162.31 | 191.03 | 190.00 |
+| 1-May-21 | 192.05 | 191.29 | 228.97 | 228.21 |
+| 1-Jun-21 | 187.94 | 208.44 | 218.72 | 247.41 |
+| 1-Jul-21 | 217.69 | 231.02 | 253.58 | 260.76 |
+| 1-Aug-21 | 194.45 | 197.86 | 229.32 | 231.37 |
+| 1-Sep-21 | 158.19 | 157.16 | 184.86 | 194.07 |
+| 1-Oct-21 | 124.16 | 124.98 | 142.52 | 150.41 |
+| 1-Nov-21 | 111.03 | 118.21 | 131.54 | 143.33 |
+| 1-Dec-21 | 105.89 | 100.77 | 121.28 | 129.49 |
 
 ---
 
@@ -172,38 +181,42 @@ DCE iron ore futures rose largely today, and the main contract closed 668.5, inc
 _No futures contracts reported for this session._
 
 ## Dry Bulk Freight Rates Historical Line Data (USD/MT)
+> **Estimate.** The report prints no numbers for this chart. Values are computed from the chart's vector geometry at each x-axis date label (calibrated on the printed axis ticks; typically within 1% of the axis range).
+
 | Date | C5 W. Australia - Qingdao (USD/MT) | C3 Tubarao - Qingdao (USD/MT) |
 | :--- | :--- | :--- |
-| 1-Dec-20 | 7.00 | 14.00 |
-| 1-Jan-21 | 10.00 | 16.00 |
-| 1-Feb-21 | 8.00 | 18.00 |
-| 1-Mar-21 | 9.00 | 20.00 |
-| 1-Apr-21 | 12.00 | 28.00 |
-| 1-May-21 | 13.00 | 30.00 |
-| 1-Jun-21 | 12.00 | 30.00 |
-| 1-Jul-21 | 11.00 | 28.00 |
-| 1-Aug-21 | 12.00 | 32.00 |
-| 1-Sep-21 | 14.00 | 42.00 |
-| 1-Oct-21 | 15.00 | 48.00 |
-| 1-Nov-21 | 14.00 | 28.00 |
-| 1-Dec-21 | 15.00 | 27.00 |
+| 1-Dec-20 | 6.69 | 13.67 |
+| 1-Jan-21 | 8.29 | 15.78 |
+| 1-Feb-21 | 6.13 | 17.31 |
+| 1-Mar-21 | 7.25 | 15.63 |
+| 1-Apr-21 | 10.04 | 21.22 |
+| 1-May-21 | 13.11 | 28.76 |
+| 1-Jun-21 | 11.16 | 24.29 |
+| 1-Jul-21 | 11.72 | 26.95 |
+| 1-Aug-21 | 14.93 | 28.76 |
+| 1-Sep-21 | 13.67 | 34.63 |
+| 1-Oct-21 | 21.22 | 45.25 |
+| 1-Nov-21 | 12.28 | 28.20 |
+| 1-Dec-21 | 13.58 | 29.60 |
 
 ## Total China Iron Ore Import Volumes (Million Tonnes)
+> **Estimate.** The report prints no numbers for this chart. Values are computed from the chart's vector geometry at each x-axis date label (calibrated on the printed axis ticks; typically within 1% of the axis range).
+
 | Month / Period | Import Volume (Million Tonnes) |
 | :--- | :--- |
-| Nov-20 | 98.00 |
-| Dec-20 | 96.00 |
-| Jan-21 | 98.00 |
-| Feb-21 | 83.00 |
-| Mar-21 | 103.00 |
-| Apr-21 | 98.00 |
-| May-21 | 89.00 |
-| Jun-21 | 88.00 |
-| Jul-21 | 87.00 |
-| Aug-21 | 97.00 |
-| Sep-21 | 95.00 |
-| Oct-21 | 92.00 |
-| Nov-21 | 105.00 |
+| Nov-20 | 98.19 |
+| Dec-20 | 96.66 |
+| Jan-21 | 98.85 |
+| Feb-21 | 82.62 |
+| Mar-21 | 102.14 |
+| Apr-21 | 98.63 |
+| May-21 | 89.86 |
+| Jun-21 | 89.42 |
+| Jul-21 | 88.54 |
+| Aug-21 | 97.53 |
+| Sep-21 | 95.56 |
+| Oct-21 | 91.61 |
+| Nov-21 | 104.99 |
 
 ---
 

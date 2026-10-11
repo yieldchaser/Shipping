@@ -60,10 +60,10 @@ Cargo order volumes for steel exports loading in Chinese ports have declined sig
 
 The cargo order volumes recorded during the past two weeks are around half of the weekly average for the year’s first nine months. Unless there is a significant increase in demand during the coming days, the current week looks set to record volumes similar to the previous two. Hence, Chinese steel exports are on course for a weak October.
 
-![Στιγμιότυπο Οθόνης 2024 10 16 160803](assets/2024-10-16_1yxg1obpduxpc4uvy3mjegj7qjk35l_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_424a0c8bd895.png)
+![Στιγμιότυπο Οθόνης 2024 10 16 160803](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-10-16_1yxg1obpduxpc4uvy3mjegj7qjk35l_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_424a0c8bd895.png)
 
 > **Figure 1: Στιγμιότυπο Οθόνης 2024 10 16 160803**  
-> **Interactive Data & Source:** [Shipfix](https://shipfix.com/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-10-16_1yxg1obpduxpc4uvy3mjegj7qjk35l_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_424a0c8bd895.png)
+> **Interactive Data & Source:** [Shipfix](https://shipfix.com/) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-10-16_1yxg1obpduxpc4uvy3mjegj7qjk35l_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_424a0c8bd895.png)
 
 Data Source:[Shipfix](https://shipfix.com/)
 

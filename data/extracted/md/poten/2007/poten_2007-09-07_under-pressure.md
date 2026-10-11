@@ -58,6 +58,13 @@ With crude oil demand forecasts staying firm for the balance of 2007 OPEC may re
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: Under Pressure](../../../charts/poten/2007/poten_2007-09-07_under-pressure_chart1.png)
+> **Chart on PDF page 1: OPEC Production Outlook**  
+> Unit: Million Barrels Per Day · X-axis: 2000 to 2010  
+> Series: Crude Capacity, NGLs & Other Liquids  
+> *No image crop of this chart was saved; caption read from the PDF.*
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2007/poten_2007-09-07_under-pressure_chart1.png)
+> **Chart on PDF page 2: Relative Production Levels**  
+> Unit: Thousand Barrels Per Day · X-axis: Algeria to Venezuela  
+> Series: Production - October 2006, Production - July 2007  
+> *Source: EIA*  
+> *No image crop of this chart was saved; caption read from the PDF.*

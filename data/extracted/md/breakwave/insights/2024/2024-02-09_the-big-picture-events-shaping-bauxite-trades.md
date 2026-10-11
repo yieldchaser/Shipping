@@ -38,19 +38,19 @@ As the first chart shows, the share of bauxite carried by Capesizes in 2023 (def
 
 Moreover, the**contribution made to fronthaul Capesize trade growth by Guinean bauxite**over the last two years has been**unmatched by any other trade**.
 
-![241](assets/2024-02-09_the-big-picture-events-shaping-bauxite-trades_img_241_0b0b9f8c6080.png)
+![241](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-02-09_the-big-picture-events-shaping-bauxite-trades_img_241_0b0b9f8c6080.png)
 
 > **Figure 1: 241**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-02-09_the-big-picture-events-shaping-bauxite-trades_img_241_0b0b9f8c6080.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-02-09_the-big-picture-events-shaping-bauxite-trades_img_241_0b0b9f8c6080.png)
 
 In 2022-23 inclusive, vessel tracking indicated combined growth of some**45m tonnes in bauxite from Guinea**to Asia in Capes, which overshadowed corresponding net growth in Capesize**iron ore trade from Brazil to Asia of just 4.5m tonnes**in the corresponding period (mainly thanks to steep retreat in 2022).
 
 While Panamax and geared bulkers are active on bauxite trades from a range of suppliers, including Australia and Brazil, growth was focused overwhelmingly on Capesize trades.
 
-![242](assets/2024-02-09_the-big-picture-events-shaping-bauxite-trades_img_242_13a0af0f9a30.png)
+![242](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-02-09_the-big-picture-events-shaping-bauxite-trades_img_242_13a0af0f9a30.png)
 
 > **Figure 2: 242**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-02-09_the-big-picture-events-shaping-bauxite-trades_img_242_13a0af0f9a30.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-02-09_the-big-picture-events-shaping-bauxite-trades_img_242_13a0af0f9a30.png)
 
 **Despite the presence of three disruptors**to supply last year, Braemar estimates that**global seaborne bauxite trade rose by an estimated 9.5m tonnes, or 5.9%, to 173.4m tonnes**in 2023, based on official trade data.
 
@@ -64,10 +64,10 @@ This week it was reported by newswires that Société Minière de Boké (SMB) an
 
 Nonetheless, in 2022, Guinea’s government encouraged the construction of new alumina refining capacity. This may pose a threat to some international bauxite supply in the longer term—**if**such projects materialise.
 
-![243](assets/2024-02-09_the-big-picture-events-shaping-bauxite-trades_img_243_4c65cbba76ff.png)
+![243](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-02-09_the-big-picture-events-shaping-bauxite-trades_img_243_4c65cbba76ff.png)
 
 > **Figure 3: 243**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-02-09_the-big-picture-events-shaping-bauxite-trades_img_243_4c65cbba76ff.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-02-09_the-big-picture-events-shaping-bauxite-trades_img_243_4c65cbba76ff.png)
 
 ---
 

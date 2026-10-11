@@ -38,10 +38,18 @@ The Middle East will continue to grow, adding 2.3 mb/d of capacity. Although the
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: Just Go With The Flow](../../../charts/poten/2019/poten_2019-03-22_just-go-with-the-flow_chart1.png)
+![Exhibit 1: 2018 Refinery Capacity and 2019-2024 Additions](../../../charts/poten/2019/poten_2019-03-22_just-go-with-the-flow_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2019/poten_2019-03-22_just-go-with-the-flow_chart1.png)
+> **Exhibit 1: 2018 Refinery Capacity and 2019-2024 Additions**  
+> Unit: Mb/d · X-axis: North America to Africa  
+> Series: 2018 Refinery Capacity, 2019 - 2024 Additions  
+> *Source: IEA*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2019/poten_2019-03-22_just-go-with-the-flow_chart1.png)
 
-![Exhibit 2: Just Go With The Flow](../../../charts/poten/2019/poten_2019-03-22_just-go-with-the-flow_chart2.png)
+![Exhibit 2: China’s Refining Capacity Expansion](../../../charts/poten/2019/poten_2019-03-22_just-go-with-the-flow_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2019/poten_2019-03-22_just-go-with-the-flow_chart2.png)
+> **Exhibit 2: China’s Refining Capacity Expansion**  
+> Unit: % · X-axis: Installed Capacity 2018 to Additions 2019-24  
+> Series: CNPC, Sinopec, Other State owned, Big 3 Independents, Other Independents  
+> *Source: IEA*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2019/poten_2019-03-22_just-go-with-the-flow_chart2.png)

@@ -33,10 +33,10 @@ We discuss the implications.
 
 Chinese media outlet Caixin was among those reporting that China’s steel production is to be limited to below or at the 2022 total of 1,018m tonnes this year, but adding that the cap may be reviewed in the second half of the year. As often the case with such reports, no official policy document has yet surfaced.
 
-![Market Chart 1](assets/2023-05-15_braemar-weekly-dry-market-report_img_image00128529_d5e46ff10551.png)
+![Market Chart 1](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-05-15_braemar-weekly-dry-market-report_img_image00128529_d5e46ff10551.png)
 
 > **Figure 1: Market Chart 1**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-05-15_braemar-weekly-dry-market-report_img_image00128529_d5e46ff10551.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-05-15_braemar-weekly-dry-market-report_img_image00128529_d5e46ff10551.png)
 
 The chart above highlights the implied monthly average for the rest of the year (dashed line), were the cap to be implemented in full for the duration of 2023.
 
@@ -50,19 +50,19 @@ As China is a very small net exporter of cement, these measures do not have much
 
 Secondly, the example of 2021 (shown by the blue line on the chart, left) is still fresh in the mind. From July onwards, anti-pollution controls on steel production against a background of sliding demand combined to push monthly output down from June’s peak close to 100m tonnes to below 70m tonnes by November.
 
-![Market Chart 2](assets/2023-05-15_braemar-weekly-dry-market-report_img_image00228229_80f67981a35a.png)
+![Market Chart 2](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-05-15_braemar-weekly-dry-market-report_img_image00228229_80f67981a35a.png)
 
 > **Figure 2: Market Chart 2**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-05-15_braemar-weekly-dry-market-report_img_image00228229_80f67981a35a.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-05-15_braemar-weekly-dry-market-report_img_image00228229_80f67981a35a.png)
 
 Although we do not anticipate a repeat of that magnitude this year, with March and April being some of the highest months for finished steel exports in recent years, it could be that this action is designed to prevent an excess of steel supply (and also pollution).**China’s steel export surge is now slowing**thanks to slumping overseas demand and sliding prices.
 
 While the immediate-term outlook for China’s steel may be softer, future support for steel mill margins from supply-side discipline (and, potentially, a reduction in input costs)during a review in the second half of the year, judging by Caixin’s earlier report, and create scope for annual growth in iron ore imports.
 
-![Would Result in Production Curbs Being Eased](assets/2023-05-15_braemar-weekly-dry-market-report_img_image00328129_42f2d418a451.png)
+![Would Result in Production Curbs Being Eased](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-05-15_braemar-weekly-dry-market-report_img_image00328129_42f2d418a451.png)
 
 > **Figure 3: Would Result in Production Curbs Being Eased**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-05-15_braemar-weekly-dry-market-report_img_image00328129_42f2d418a451.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-05-15_braemar-weekly-dry-market-report_img_image00328129_42f2d418a451.png)
 
 Iron ore imports have performed well in the first four months of the year, benefitting from improved international supply from Australia, Brazil and Canada. Customs data confirm imports of 385m tonnes, marking a yearly gain of 30m tonnes, though still short of the 2020 peak (see chart below for the YoY growth trend). Perhaps significantly, April was a comparatively low month for imports, marking a ten-month low of 90.4m tonnes, as benchmark iron ore prices slid during the month.
 

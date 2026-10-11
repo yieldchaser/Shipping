@@ -30,10 +30,18 @@ Beyond 2016, Iran may want to get back into the European markets, which could ad
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: Will Lifting Sanctions Sanction Liftings](../../../charts/poten/2015/poten_2015-12-11_will-lifting-sanctions-sanction-liftings_chart1.png)
+![Exhibit 1: 2015 Iranian Floating Storage (VLCCs, May - December 2015)](../../../charts/poten/2015/poten_2015-12-11_will-lifting-sanctions-sanction-liftings_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2015/poten_2015-12-11_will-lifting-sanctions-sanction-liftings_chart1.png)
+> **Exhibit 1: 2015 Iranian Floating Storage (VLCCs, May - December 2015)**  
+> Unit: # Vessels · X-axis: 15-May-15 to 03-Dec-15  
+> Series: Iranian Storage  
+> *Source: Bloomberg, Poten*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2015/poten_2015-12-11_will-lifting-sanctions-sanction-liftings_chart1.png)
 
-![Exhibit 2: Will Lifting Sanctions Sanction Liftings](../../../charts/poten/2015/poten_2015-12-11_will-lifting-sanctions-sanction-liftings_chart2.png)
+![Exhibit 2: Export Markets for Iranian Crude Oil (2011-2014)](../../../charts/poten/2015/poten_2015-12-11_will-lifting-sanctions-sanction-liftings_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2015/poten_2015-12-11_will-lifting-sanctions-sanction-liftings_chart2.png)
+> **Exhibit 2: Export Markets for Iranian Crude Oil (2011-2014)**  
+> Unit: % | EXPORTS (kb/d) · X-axis: 2011 to 2014  
+> Series: China, India, Japan, S. Korea, Turkey, EU, Other  
+> *Source: IEA, Official Customs Data, MEES, Barclays*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2015/poten_2015-12-11_will-lifting-sanctions-sanction-liftings_chart2.png)

@@ -62,10 +62,10 @@ Global weekly cargo order volumes for sugar have recovered over the past five we
 
 Still, despite the recent rebound in demand, cargo order volumes for the past month were nearly 28 per cent lower than a year ago. While the closing of long futures positions and an improved proved production outlook may provide some bearish signals for sugar prices, the cargo order data suggest that global supplies will remain tight. Hence, prices are increasingly likely to recover some of the recent losses in the near future.
 
-![Στιγμιότυπο Οθόνης 2024 12 04 161157](assets/2024-12-04_commodities-performance_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_d418e3891d08.png)
+![Στιγμιότυπο Οθόνης 2024 12 04 161157](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-12-04_commodities-performance_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_d418e3891d08.png)
 
 > **Figure 1: Στιγμιότυπο Οθόνης 2024 12 04 161157**  
-> **Interactive Data & Source:** [Shipfix](https://shipfix.com/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-12-04_commodities-performance_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_d418e3891d08.png)
+> **Interactive Data & Source:** [Shipfix](https://shipfix.com/) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-12-04_commodities-performance_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_d418e3891d08.png)
 
 Data Source:[Shipfix](https://shipfix.com/)
 

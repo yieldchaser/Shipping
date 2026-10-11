@@ -29,10 +29,10 @@ tags:
 ## This Week’s Focus Highlights the Comparison Between the Net Supply of VLCC Tankers in the AG and the Performance of Baltic Rates.
 
 
-![678132c5264783d6036be5dd 6781328dfb5cbdff99ad8e88 Tanker%20supply](../../images/678132c5264783d6036be5dd_6781328dfb5cbdff99ad8e88_tanker%20supply.avif)
+![678132c5264783d6036be5dd 6781328dfb5cbdff99ad8e88 Tanker%20supply](../../images/678132c5264783d6036be5dd_6781328dfb5cbdff99ad8e88_tanker%2520supply.avif)
 
 > **Figure 1: 678132c5264783d6036be5dd 6781328dfb5cbdff99ad8e88 Tanker%20supply**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/tanker-week-02-2025) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/678132c5264783d6036be5dd_6781328dfb5cbdff99ad8e88_tanker%20supply.avif)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/tanker-week-02-2025) | [Local Asset](../../../../../../corpus/07-signal/images/678132c5264783d6036be5dd_6781328dfb5cbdff99ad8e88_tanker%2520supply.avif)
 
 This week’s focus highlights a downward trend in the AG supply of VLCC tankers (both spot/relet and contract), compared to the highs observed in October 2024. For the spot relet market, the performance of Baltic rates has not been fueling expectations for a strong start to this year. The recent growth in dirty tonne days to the Far East appears premature to support the full employment of available vessels. Additionally, the earlier Chinese New Year, combined with the uncertainty surrounding the new era of Trump administration policies from January 20th, could pose challenges for the prosperity of the dirty tanker segment.
 

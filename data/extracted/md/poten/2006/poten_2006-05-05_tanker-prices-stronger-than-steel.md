@@ -50,6 +50,7 @@ Week 1 Week 5 Week 9 Week 13 Week 17
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: Tanker Prices: Stronger than Steel](../../../charts/poten/2006/poten_2006-05-05_tanker-prices-stronger-than-steel_chart1.png)
-
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2006/poten_2006-05-05_tanker-prices-stronger-than-steel_chart1.png)
+> **Chart on PDF page 3: Order Book Activity by Week**  
+> Unit: Number or Vessels Ordered (per week) · X-axis: Week 1 to Week 17  
+> Series: 2005, 2006  
+> *No image crop of this chart was saved; caption read from the PDF.*

@@ -18,13 +18,14 @@ charts_count: 2
 
 In recent years, the narrative in the oil and tanker markets has focused mostly on geopolitical events. The conflicts in Europe and the Middle East have upended global trade flows. Furthermore, the proliferation of sanctions against Russia and other rogue regimes (including Iran and Venezuela) has accelerated the growth of the "dark fleet", which operates outside the mainstream tanker markets. These geopolitical developments have been an important driver of oil prices and freight rates. With the election of Donald Trump and his ambitious plans to reshape the domestic and global energy landscape and address the conflicts in the world, there is no reason to suspect that the importance of geopolitics will diminish in the near term. However, we should not underestimate the importance of the underlying supply/demand fundamentals in the oil market. Ultimately, these will be just as important (or even more) in driving our markets in the long term. In today's Tanker Opinion we will focus on the fundamentals and try to separate the signal from the noise.
 
-In terms of oil supply and demand, 2024 was a rather disappointing year. According to the U.S. Energy Information Administration (EIA), global oil demand increased by 0.92 Mb/d last year, a significant slowdown from the 2.36 Mb/d expansion in 2023. The main reason for the slowdown in global demand growth was Asia, and in particular China. Asian oil demand grew by 1.72 Mb/d in 2023 and only by 0.49 Mb/d last year. This decline in Asian demand growth accounted for all of the global slowdown. The changes in oil demand in the OECD countries and the non-OECD countries outside of Asia were minor in comparison. Fortunately, the outlook for 2025 is more positive (see [Chart 1](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2025/poten_2025-01-24_back-to-fundamentals_chart1.png)). Both the EIA and the IEA (International Energy Agency) show a pickup in growth relative to 2024. The EIA is slightly more positive as it expects 240 Kb/d growth in North America (primarily in the United States) while the IEA projects no growth in this region. There are some smaller differences in the other regions of the world, so the EIA expects total demand growth of +1.33 Mb/d for 2025, while the IEA forecasts +1.0 Mb/d of demand expansion. As has been the case in the last twenty years, Asia represents the majority of the global expansion in oil demand. However, in recent years, the emphasis is shifting from China to India. Absolute demand growth in both countries is similar; approximately 200 Kb/d for 2024 and 2025 (expected). However, the growth rates are very different. Based on 16.62 Mb/d of oil demand, 200 Kb/d means around 1.2% growth for China. India's oil demand is only 5.6 Mb/d (2024), so 200 Kb/d represents 3.6% growth. Unfortunately, given the proximity of India to the Middle East,
+In terms of oil supply and demand, 2024 was a rather disappointing year. According to the U.S. Energy Information Administration (EIA), global oil demand increased by 0.92 Mb/d last year, a significant slowdown from the 2.36 Mb/d expansion in 2023. The main reason for the slowdown in global demand growth was Asia, and in particular China. Asian oil demand grew by 1.72 Mb/d in 2023 and only by 0.49 Mb/d last year. This decline in Asian demand growth accounted for all of the global slowdown. The changes in oil demand in the OECD countries and the non-OECD countries outside of Asia were minor in comparison. Fortunately, the outlook for 2025 is more positive (see [Chart 1](../../../charts/poten/2025/poten_2025-01-24_back-to-fundamentals_chart1.png)). Both the EIA and the IEA (International Energy Agency) show a pickup in growth relative to 2024. The EIA is slightly more positive as it expects 240 Kb/d growth in North America (primarily in the United States) while the IEA projects no growth in this region. There are some smaller differences in the other regions of the world, so the EIA expects total demand growth of +1.33 Mb/d for 2025, while the IEA forecasts +1.0 Mb/d of demand expansion. As has been the case in the last twenty years, Asia represents the majority of the global expansion in oil demand. However, in recent years, the emphasis is shifting from China to India. Absolute demand growth in both countries is similar; approximately 200 Kb/d for 2024 and 2025 (expected). However, the growth rates are very different. Based on 16.62 Mb/d of oil demand, 200 Kb/d means around 1.2% growth for China. India's oil demand is only 5.6 Mb/d (2024), so 200 Kb/d represents 3.6% growth. Unfortunately, given the proximity of India to the Middle East,
 
-> **Exhibit 1: Back To Fundamentals (Chart 1)**  
-> *Source: Poten & Partners*  
-> **Interactive Data & Source:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2025/poten_2025-01-24_back-to-fundamentals_chart1.png)
+> **Exhibit 1: Forecast Oil Demand Developments in 2025**  
+> Unit: Mb/d · X-axis: North America to World  
+> Series: EIA, IEA  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2025/poten_2025-01-24_back-to-fundamentals_chart1.png)
 
-![Exhibit 1: Back To Fundamentals](../../../charts/poten/2025/poten_2025-01-24_back-to-fundamentals_chart1.png)
+![Exhibit 1: Forecast Oil Demand Developments in 2025](../../../charts/poten/2025/poten_2025-01-24_back-to-fundamentals_chart1.png)
 
 ### Sources: EIA, IEA January 2025 reports
 
@@ -36,6 +37,9 @@ Overall, based on global oil demand and supply fundamentals, the 2025 outlook fo
 
 ## Market Exhibits & Charts
 
-![Exhibit 2: Back To Fundamentals](../../../charts/poten/2025/poten_2025-01-24_back-to-fundamentals_chart2.png)
+![Exhibit 2: Forecast Oil Supply Developments in 2025](../../../charts/poten/2025/poten_2025-01-24_back-to-fundamentals_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2025/poten_2025-01-24_back-to-fundamentals_chart2.png)
+> **Exhibit 2: Forecast Oil Supply Developments in 2025**  
+> Unit: Mb/d · X-axis: (Call On) OPEC to World  
+> Series: EIA, IEA  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2025/poten_2025-01-24_back-to-fundamentals_chart2.png)

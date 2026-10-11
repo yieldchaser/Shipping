@@ -25,19 +25,19 @@ Ambiguities such as the pandemic induced / politically motivated lockdowns, skyr
 
 ## World Uncertainty Index (Wui):
 
-![Screenshot 20220917 095358 Samsung Notes](assets/2022-09-17_brs-dry-bulk-weekly-newsletter_img_screenshot-20220917-095358-samsungno_33705881ba76.jpg)
+![Screenshot 20220917 095358 Samsung Notes](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-09-17_brs-dry-bulk-weekly-newsletter_img_screenshot-20220917-095358-samsungno_33705881ba76.jpg)
 
 > **Figure 1: Screenshot 20220917 095358 Samsung Notes**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-09-17_brs-dry-bulk-weekly-newsletter_img_screenshot-20220917-095358-samsungno_33705881ba76.jpg)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-09-17_brs-dry-bulk-weekly-newsletter_img_screenshot-20220917-095358-samsungno_33705881ba76.jpg)
 
 WUI is a broad concept relating to macro phenomena like GDP growth intertwined with events like elections, wars, and climate change across 143 countries in the world. As depicted in the graph above, taking into consideration of all the “Breaking News” events over the past decade, global uncertainty reached unprecedented magnitude with the initial coronavirus outbreak in 2019. While it later plunged drastically, the index rose again with the outbreak of war in Ukraine whereby the world simply could not catch a breath to recuperate fully.
 
 Now let’s focus on the World Pandemic Uncertainty Index which is computed by the number of times “uncertainty” is mentioned near a word related to pandemics or epidemics as per the Economist Intelligence Unit (EIU) country reports
 
-![Screenshot 20220917 095419 Samsung Notes](assets/2022-09-17_brs-dry-bulk-weekly-newsletter_img_screenshot-20220917-095419-samsungno_9dc32c1cae64.jpg)
+![Screenshot 20220917 095419 Samsung Notes](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-09-17_brs-dry-bulk-weekly-newsletter_img_screenshot-20220917-095419-samsungno_9dc32c1cae64.jpg)
 
 > **Figure 2: Screenshot 20220917 095419 Samsung Notes**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-09-17_brs-dry-bulk-weekly-newsletter_img_screenshot-20220917-095419-samsungno_9dc32c1cae64.jpg)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-09-17_brs-dry-bulk-weekly-newsletter_img_screenshot-20220917-095419-samsungno_9dc32c1cae64.jpg)
 
 Undoubtedly, the world has by far witnessed the highest uncertainty related to the coronavirus. Covid19 has impacted the world in far more ways than impacting the health of the affected. This had brought the global economy to a standstill with a slowdown of production, increased inefficiencies, impeded revenue, and inverted GDP for a prolonged period until a credible vaccine was produced which provided the lift needed for a robust demand rebound in 2021. As of writing, while the rest of the world had learned to live along with the pandemic (with inflation to worry on their plate), draconian response to renewed outbreaks in China under the “Zero-COVID” policy, coupled with its faltering property sector have seriously sapped economic vitality and consequently crippled Chinese demand for raw materials.
 
@@ -55,10 +55,10 @@ For instance, Russia is urging its trade partners to pay in Rubles, China is pro
 
 Despite some pockets of optimism, one of the major concerns has been the rise in inflation as a repercussion of Russia’s invasion.
 
-![Screenshot 20220917 095436 Samsung Notes](assets/2022-09-17_brs-dry-bulk-weekly-newsletter_img_screenshot-20220917-095436-samsungno_4bb9b102fbcc.jpg)
+![Screenshot 20220917 095436 Samsung Notes](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-09-17_brs-dry-bulk-weekly-newsletter_img_screenshot-20220917-095436-samsungno_4bb9b102fbcc.jpg)
 
 > **Figure 3: Screenshot 20220917 095436 Samsung Notes**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-09-17_brs-dry-bulk-weekly-newsletter_img_screenshot-20220917-095436-samsungno_4bb9b102fbcc.jpg)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-09-17_brs-dry-bulk-weekly-newsletter_img_screenshot-20220917-095436-samsungno_4bb9b102fbcc.jpg)
 
 Evidently, global inflation has risen sharply this year from its lows (3.8% on average) in 2020 on account of rising property rates, soaring fuel costs, elevated freight rates, and the high cost of food grain.
 
@@ -70,15 +70,15 @@ Coal, whereby prices recently hover around $450 (from about $200 in Jan-22), hav
 
 Beside food and fuel, shipping is an important driver of inflation. According to IMF, when freight rates double, inflation picks up by about 0.7% points. The effects are quite persistent, peaking after a year. This implies that the increased shipping costs in 2021 have resulted in higher inflation in 2022
 
-![Screenshot 20220917 095550 Samsung Notes](assets/2022-09-17_brs-dry-bulk-weekly-newsletter_img_screenshot-20220917-095550-samsungno_f32c6a76e615.jpg)
+![Screenshot 20220917 095550 Samsung Notes](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-09-17_brs-dry-bulk-weekly-newsletter_img_screenshot-20220917-095550-samsungno_f32c6a76e615.jpg)
 
 > **Figure 4: Screenshot 20220917 095550 Samsung Notes**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-09-17_brs-dry-bulk-weekly-newsletter_img_screenshot-20220917-095550-samsungno_f32c6a76e615.jpg)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-09-17_brs-dry-bulk-weekly-newsletter_img_screenshot-20220917-095550-samsungno_f32c6a76e615.jpg)
 
-![Screenshot 20220917 095607 Samsung Notes](assets/2022-09-17_brs-dry-bulk-weekly-newsletter_img_screenshot-20220917-095607-samsungno_f1385fe1c63f.jpg)
+![Screenshot 20220917 095607 Samsung Notes](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-09-17_brs-dry-bulk-weekly-newsletter_img_screenshot-20220917-095607-samsungno_f1385fe1c63f.jpg)
 
 > **Figure 5: Screenshot 20220917 095607 Samsung Notes**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-09-17_brs-dry-bulk-weekly-newsletter_img_screenshot-20220917-095607-samsungno_f1385fe1c63f.jpg)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-09-17_brs-dry-bulk-weekly-newsletter_img_screenshot-20220917-095607-samsungno_f1385fe1c63f.jpg)
 
 The monthly averaged graphs of Alphaliner Container Index (on the left) and Baltic Dry Index (on the right) have marched upwards indicating the higher freight for both segments from 2021 onwards had contributed their fair share for inflation in 2022. The recent correction in shipping rates might provide some respite in 2023. But most likely, it will be a scratch to the itch. Unless US and Europe can sort out their energy policy (investing in fossil fuel production and transportation capacity among allies), it will likely take more than a series of interest rates hikes by central banks worldwide to tame the inflation back to the official 2% target.
 

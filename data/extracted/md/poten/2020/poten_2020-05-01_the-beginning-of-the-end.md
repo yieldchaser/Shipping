@@ -30,10 +30,18 @@ As long as global crude oil production remains in excess of demand, there will b
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: The Beginning of the End](../../../charts/poten/2020/poten_2020-05-01_the-beginning-of-the-end_chart1.png)
+![Exhibit 1: Freight Rates (Dirty Routes)](../../../charts/poten/2020/poten_2020-05-01_the-beginning-of-the-end_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2020/poten_2020-05-01_the-beginning-of-the-end_chart1.png)
+> **Exhibit 1: Freight Rates (Dirty Routes)**  
+> Unit: $/day · X-axis: 1-Jan-20 to 29-Apr-20  
+> Series: VLCC AG-FE, Suezmax WAF-UKC, Aframax Car-USG  
+> *Source: Poten & Partners*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2020/poten_2020-05-01_the-beginning-of-the-end_chart1.png)
 
-![Exhibit 2: The Beginning of the End](../../../charts/poten/2020/poten_2020-05-01_the-beginning-of-the-end_chart2.png)
+![Exhibit 2: Floating Storage Over Time](../../../charts/poten/2020/poten_2020-05-01_the-beginning-of-the-end_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2020/poten_2020-05-01_the-beginning-of-the-end_chart2.png)
+> **Exhibit 2: Floating Storage Over Time**  
+> Unit: Mln Bbl · X-axis: Jan-19 to Apr-20  
+> Series: VLCC, Suezmax, Aframax  
+> *Source: Lloyd’s List Intelligence*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2020/poten_2020-05-01_the-beginning-of-the-end_chart2.png)

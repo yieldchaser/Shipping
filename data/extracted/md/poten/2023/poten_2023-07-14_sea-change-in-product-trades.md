@@ -28,10 +28,17 @@ There is no sign that a resolution to the conflict in Ukraine is close and even 
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: Sea Change In Product Trades](../../../charts/poten/2023/poten_2023-07-14_sea-change-in-product-trades_chart1.png)
+![Exhibit 1: Russian Clean Product Exports By Destination](../../../charts/poten/2023/poten_2023-07-14_sea-change-in-product-trades_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2023/poten_2023-07-14_sea-change-in-product-trades_chart1.png)
+> **Exhibit 1: Russian Clean Product Exports By Destination**  
+> Unit: Kb/d · X-axis: 1-Jan-20 to 1-May-23  
+> Series: Europe, Asia, Africa, Middle East, North America, South America, Other  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2023/poten_2023-07-14_sea-change-in-product-trades_chart1.png)
 
-![Exhibit 2: Sea Change In Product Trades](../../../charts/poten/2023/poten_2023-07-14_sea-change-in-product-trades_chart2.png)
+![Exhibit 2: Europe (excl Turkey) Clean Product Imports by Origin](../../../charts/poten/2023/poten_2023-07-14_sea-change-in-product-trades_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2023/poten_2023-07-14_sea-change-in-product-trades_chart2.png)
+> **Exhibit 2: Europe (excl Turkey) Clean Product Imports by Origin**  
+> Unit: Kb/d · X-axis: Jan-20 to May-23  
+> Series: Russia, Middle East, Asia, North America, Other  
+> *Source: Vortexa*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2023/poten_2023-07-14_sea-change-in-product-trades_chart2.png)

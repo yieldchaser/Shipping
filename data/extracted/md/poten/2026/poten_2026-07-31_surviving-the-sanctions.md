@@ -30,10 +30,17 @@ The geopolitical landscape is complex and increasingly interrelated. The war in 
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: Surviving The Sanctions](../../../charts/poten/2026/poten_2026-07-31_surviving-the-sanctions_chart1.png)
+![Exhibit 1: Russian Crude (excl CPC, Kebco) Exports by Destination](../../../charts/poten/2026/poten_2026-07-31_surviving-the-sanctions_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2026/poten_2026-07-31_surviving-the-sanctions_chart1.png)
+> **Exhibit 1: Russian Crude (excl CPC, Kebco) Exports by Destination**  
+> Unit: Kb/d · X-axis: Jan-21 to Jul-26  
+> Series: China, India, Netherlands, Turkey, Italy, Finland, South Korea, Lithuania, Other  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2026/poten_2026-07-31_surviving-the-sanctions_chart1.png)
 
-![Exhibit 2: Surviving The Sanctions](../../../charts/poten/2026/poten_2026-07-31_surviving-the-sanctions_chart2.png)
+![Exhibit 2: Russian Clean Product Exports by Destination](../../../charts/poten/2026/poten_2026-07-31_surviving-the-sanctions_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2026/poten_2026-07-31_surviving-the-sanctions_chart2.png)
+> **Exhibit 2: Russian Clean Product Exports by Destination**  
+> Unit: Kb/d · X-axis: Jan-21 to Jul-26  
+> Series: Turkey, Netherlands, South Korea, Brazil, Belgium, Germany, France, China, Other  
+> *Source: EIA, Vortexa*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2026/poten_2026-07-31_surviving-the-sanctions_chart2.png)

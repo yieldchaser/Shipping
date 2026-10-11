@@ -24,19 +24,19 @@ source_file: "corpus/03-breakwave/insights/2024/2024-03-27_dry-bulk-coal-flows-t
 Snapshot of Spot Freight Rates, Supply-Demand Trends, Port Congestions
 March 27, 2024
 
-![Screenshot 2024 03 27 16.11.23](assets/2024-03-27_dry-bulk-coal-flows-to-china_img_screenshot2024-03-27161123_fedf2352f79d.png)
+![Screenshot 2024 03 27 16.11.23](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-03-27_dry-bulk-coal-flows-to-china_img_screenshot2024-03-27161123_fedf2352f79d.png)
 
 > **Figure 1: Screenshot 2024 03 27 16.11.23**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-03-27_dry-bulk-coal-flows-to-china_img_screenshot2024-03-27161123_fedf2352f79d.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-03-27_dry-bulk-coal-flows-to-china_img_screenshot2024-03-27161123_fedf2352f79d.png)
 
 In the closing days of March, there has been a discernible softening of momentum in the Capesize Brazil to North China rates, following an upturn recorded in the previous week. Nevertheless, the recent momentum remains notably firmer than levels observed a month ago. Notably, the larger vessel size categories continue to exhibit strength, with a continued decrease in the number of ballasters for Capesize and Panamax vessels in Southeast Asia and Africa. Furthermore, the end of the month has seen a notable uptick in weekly percentage growth for Capesize tonne days.
 
 Examining the dry bulk coal flows to China reveals intriguing trends. Russia appears to have reduced its volume of shipments to the world’s second-largest economy, while Australian coal shipments have shown an increasing trend, as indicated by the 7-day moving average depicted in the graph. Meanwhile, the tragic Baltimore Bridge collapse has sparked a wave of logistical concerns over the flow of US coal exports to key markets such as India, China and Europe. This incident has raised concerns about logistical supply disruptions and the impact on a rise in coal prices.
 
-![Screenshot 2024 03 27 16.11.29](assets/2024-03-27_dry-bulk-coal-flows-to-china_img_screenshot2024-03-27161129_683cfa310236.png)
+![Screenshot 2024 03 27 16.11.29](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-03-27_dry-bulk-coal-flows-to-china_img_screenshot2024-03-27161129_683cfa310236.png)
 
 > **Figure 2: Screenshot 2024 03 27 16.11.29**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-03-27_dry-bulk-coal-flows-to-china_img_screenshot2024-03-27161129_683cfa310236.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-03-27_dry-bulk-coal-flows-to-china_img_screenshot2024-03-27161129_683cfa310236.png)
 
 ​​​​​​As March draws to a close, the freight market presents a mixed outlook. Sentiment in Capesize Brazil to North China rates has once again experienced a downward revision, contrasting with the steadfastness seen in Panamax Cont Far East rates, which remain firm compared to the previous week.
 
@@ -45,10 +45,10 @@ Examining the dry bulk coal flows to China reveals intriguing trends. Russia app
 - **Supramax**vessel freight rates on the Indo-ECI route have maintained a steady trend around $14 per ton since mid-March, marking a 16% increase compared to a comparable week from a month ago.
 - **Handysize**freight rates for the NOPAC Far East route have stayed above $40 per ton for the third consecutive week, reflecting an 8% increase compared to rates recorded during a similar week last year.
 
-![Screenshot 2024 03 27 16.11.35](assets/2024-03-27_dry-bulk-coal-flows-to-china_img_screenshot2024-03-27161135_1a72bf724529.png)
+![Screenshot 2024 03 27 16.11.35](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-03-27_dry-bulk-coal-flows-to-china_img_screenshot2024-03-27161135_1a72bf724529.png)
 
 > **Figure 3: Screenshot 2024 03 27 16.11.35**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-03-27_dry-bulk-coal-flows-to-china_img_screenshot2024-03-27161135_1a72bf724529.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-03-27_dry-bulk-coal-flows-to-china_img_screenshot2024-03-27161135_1a72bf724529.png)
 
 The count of ballast vessels showed a decreasing trend across all vessel size categories except for the Supramax. Particularly noteworthy was the sharp decline in the Handysize NOPAC region, where the number fell below the annual average. In contrast, Supramax vessels have exhibited a consistent upward trend from the lows experienced in week 9.
 
@@ -57,10 +57,10 @@ The count of ballast vessels showed a decreasing trend across all vessel size ca
 - **Supramax SE Asia**: The number of ballast ships has surpassed the 100 mark, continuing its upward trajectory for the past three weeks. This trend is expected to persist over the next few days.
 - **Handysize NOPAC**: The count of ballast ships has fallen below the annual average for the first time since the end of week 8, signalling a trend toward the lowest point observed since the beginning of the year.
 
-![Screenshot 2024 03 27 16.11.40](assets/2024-03-27_dry-bulk-coal-flows-to-china_img_screenshot2024-03-27161140_fbc3c67f96dc.png)
+![Screenshot 2024 03 27 16.11.40](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-03-27_dry-bulk-coal-flows-to-china_img_screenshot2024-03-27161140_fbc3c67f96dc.png)
 
 > **Figure 4: Screenshot 2024 03 27 16.11.40**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-03-27_dry-bulk-coal-flows-to-china_img_screenshot2024-03-27161140_fbc3c67f96dc.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-03-27_dry-bulk-coal-flows-to-china_img_screenshot2024-03-27161140_fbc3c67f96dc.png)
 
 Positive indications for the growth of tonne days for the large vessel size categories, while there is a persistent downward trend in the Handysize and Supramax.
 
@@ -69,10 +69,10 @@ Positive indications for the growth of tonne days for the large vessel size cate
 - **Supramax**: The growth rate has shown a further decline, dropping to levels lower than those observed two weeks ago, indicating a weakening momentum as March comes to a close.
 - **Handysize**: The growth rate of tonne days has persisted with weakness throughout March, with the recent pace remaining the slowest seen this year.
 
-![Screenshot 2024 03 27 16.11.44](assets/2024-03-27_dry-bulk-coal-flows-to-china_img_screenshot2024-03-27161144_e8fbc25d4e30.png)
+![Screenshot 2024 03 27 16.11.44](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-03-27_dry-bulk-coal-flows-to-china_img_screenshot2024-03-27161144_e8fbc25d4e30.png)
 
 > **Figure 5: Screenshot 2024 03 27 16.11.44**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-03-27_dry-bulk-coal-flows-to-china_img_screenshot2024-03-27161144_e8fbc25d4e30.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-03-27_dry-bulk-coal-flows-to-china_img_screenshot2024-03-27161144_e8fbc25d4e30.png)
 
 In the final week of March, there was a sudden increase in all vessel size categories following the lows witnessed in the previous two weeks.
 

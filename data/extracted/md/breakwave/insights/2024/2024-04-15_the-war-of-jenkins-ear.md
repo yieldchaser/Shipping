@@ -34,10 +34,10 @@ In March 1738, a British mariner called Robert Jenkins was ordered to testify in
 
 The plan was to talk about Core US inflation this morning. However, this weekend’s fresh tensions are forcing a discussion about headline instead. Energy has stopped dis-inflating since autumn 2023. In March, energy prices were 22% higher than last year.
 
-![Market Chart 1](assets/2024-04-15_the-war-of-jenkins-ear_img_image008_ac7420ca2ac9.jpg)
+![Market Chart 1](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-04-15_the-war-of-jenkins-ear_img_image008_ac7420ca2ac9.jpg)
 
 > **Figure 1: Market Chart 1**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-04-15_the-war-of-jenkins-ear_img_image008_ac7420ca2ac9.jpg)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-04-15_the-war-of-jenkins-ear_img_image008_ac7420ca2ac9.jpg)
 
 **In the back of every trader’s, investor’s, politician’s, central banker’s and consumer’s mind right now, there is but one question: what if oil starts another inflation wave?**
 
@@ -49,40 +49,40 @@ That means that the EU and the UK would, all other things being equal, be on the
 
 Last week’s US CPI announcement tells much of that story, registering 3.5%, up for the second month in a row.
 
-![Market Chart 2](assets/2024-04-15_the-war-of-jenkins-ear_img_image009_1babffc3f406.jpg)
+![Market Chart 2](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-04-15_the-war-of-jenkins-ear_img_image009_1babffc3f406.jpg)
 
 > **Figure 2: Market Chart 2**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-04-15_the-war-of-jenkins-ear_img_image009_1babffc3f406.jpg)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-04-15_the-war-of-jenkins-ear_img_image009_1babffc3f406.jpg)
 
 Following the announcement, equities tumbled 1.5% and bond yields rose, with the US 10y back at 4.5% for the first time since November. Year to date, global equities are up 6.1% while bonds are having another bad year, down 3%. Various Fed officials took the podium last week, mostly suggesting that they are in no hurry to lower rates.
 
-![Market Chart 3](assets/2024-04-15_the-war-of-jenkins-ear_img_image010_cc66ac4b5ba2.jpg)
+![Market Chart 3](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-04-15_the-war-of-jenkins-ear_img_image010_cc66ac4b5ba2.jpg)
 
 > **Figure 3: Market Chart 3**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-04-15_the-war-of-jenkins-ear_img_image010_cc66ac4b5ba2.jpg)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-04-15_the-war-of-jenkins-ear_img_image010_cc66ac4b5ba2.jpg)
 
 The market is now pricing in less than two rate cuts in the US, solidly below the Fed’s latest expectations for 3 cuts (although this may not necessarily be reflected in the latest statements by officials). However, they are pricing in two-plus cuts for the UK and three for the EU.
 
-![Market Chart 4](assets/2024-04-15_the-war-of-jenkins-ear_img_image011_6a96ca5b95a3.jpg)
+![Market Chart 4](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-04-15_the-war-of-jenkins-ear_img_image011_6a96ca5b95a3.jpg)
 
 > **Figure 4: Market Chart 4**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-04-15_the-war-of-jenkins-ear_img_image011_6a96ca5b95a3.jpg)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-04-15_the-war-of-jenkins-ear_img_image011_6a96ca5b95a3.jpg)
 
 Back to the basics then. There are two major types of inflation. One that starts from supply chain dislocations (supply side inflation) and one that starts from an excess amount of money in the economy (demand side inflation).
 
 Those two are not mutually exclusive. They can run co-currently and even affect each other. Monetary policy can have a much bigger effect on the latter type, rather than exogenously generated inflation cycles. Interest rates going up or down do not help much if oil taps are shut or ports are blocked. Most importantly, the timing of their cycles can’t be predicted. Past data are scant and involve very different economies and demographics than what we have today. I am sure hindsight will prove an excellent helper for future academics, but for the time being the collective output of consumer psychology regarding inflation lies beyond our modelling capabilities.
 
-![Market Chart 5](assets/2024-04-15_the-war-of-jenkins-ear_img_image012_4e00536f506c.jpg)
+![Market Chart 5](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-04-15_the-war-of-jenkins-ear_img_image012_4e00536f506c.jpg)
 
 > **Figure 5: Market Chart 5**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-04-15_the-war-of-jenkins-ear_img_image012_4e00536f506c.jpg)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-04-15_the-war-of-jenkins-ear_img_image012_4e00536f506c.jpg)
 
 What we know is that American inflation has not been tamed. Every Fed official has told us as much. To some extent, this may reflect the US administration’s practice of sending cheques and increasing monetary supply significantly back in 2020 to fight COVID-19. So, supply chain disruptions were aggravated by excessive money supply.
 
-![Market Chart 6](assets/2024-04-15_the-war-of-jenkins-ear_img_image013_f64ae88eda69.jpg)
+![Market Chart 6](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-04-15_the-war-of-jenkins-ear_img_image013_f64ae88eda69.jpg)
 
 > **Figure 6: Market Chart 6**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-04-15_the-war-of-jenkins-ear_img_image013_f64ae88eda69.jpg)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-04-15_the-war-of-jenkins-ear_img_image013_f64ae88eda69.jpg)
 
 European nations, who chose to subsidise employment rather than unemployment, seem to be getting out of this inflation wave more easily (again, no telling what happens when and if the next one hits).
 
@@ -96,10 +96,10 @@ Since mid-2020 a theoretical defensive 80% bond, 20% equity portfolio (USD, no f
 
 However, the more important point here is one of diversification. A 100% allocation in mid-duration bonds, would have resulted in a whopping 14% net loss for investors. Adding just 20% equities at least resulted in capital reservation (although not in real terms as inflation soared).
 
-![Market Chart 7](assets/2024-04-15_the-war-of-jenkins-ear_img_image014_6f0bba1afd4d.jpg)
+![Market Chart 7](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-04-15_the-war-of-jenkins-ear_img_image014_6f0bba1afd4d.jpg)
 
 > **Figure 7: Market Chart 7**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-04-15_the-war-of-jenkins-ear_img_image014_6f0bba1afd4d.jpg)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-04-15_the-war-of-jenkins-ear_img_image014_6f0bba1afd4d.jpg)
 
 It’s not too long ago when the investing world lost trust in professionals. DIY low-fee investing was all the rage. This is easy when we are in a QE-fuelled bull market. Times, however, are now different. This is not the time to be picking single assets. It’s a time to diversify, rely on long-term return and risk trends, and wait. Strategic Asset Allocation is a narrow path, with some obstacles to be sure. But outside it, the dangers are exponentially higher.
 

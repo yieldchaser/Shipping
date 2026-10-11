@@ -36,10 +36,10 @@ At the same time, a much larger fleet remains positioned within the Arabian Gulf
 Current positioning data shows 319 bulk carriers and MPP vessels located west of Hormuz, of which 162 are assessed as laden and 157 as ballasting. The fleet includes 201 bulk carriers and 118 MPP units.
 
 
-![A Growing Fleet Inside the Gulf with Limited Visibility](../../images/69ca91b6c4fac1ded94bf75a_c17bc1e2.png)
+![A Growing Fleet Inside the Gulf with Limited Visibility](../../../../../../corpus/07-signal/images/69ca91b6c4fac1ded94bf75a_c17bc1e2.png)
 
 > **Figure 1: A Growing Fleet Inside the Gulf with Limited Visibility**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/strait-of-hormuz-limited-vessel-transits-continue-as-outbound-flows-dominate) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/69ca91b6c4fac1ded94bf75a_c17bc1e2.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/strait-of-hormuz-limited-vessel-transits-continue-as-outbound-flows-dominate) | [Local Asset](../../../../../../corpus/07-signal/images/69ca91b6c4fac1ded94bf75a_c17bc1e2.png)
 
 Notably, 82 vessels are currently operating under AIS blackout conditions, limiting real-time visibility and complicating efforts to assess operational status and cargo activity across the region.
 
@@ -80,10 +80,10 @@ More recent data shows only 4 additional inbound crossings, including:
 The limited number of laden inbound vessels suggests that fresh cargo inflows into the Gulf remain highly selective, with many operators continuing to delay or avoid entry altogether.
 
 
-![Inbound Activity Remains Constrained](../../images/69ca91b6c4fac1ded94bf75d_b571771f.png)
+![Inbound Activity Remains Constrained](../../../../../../corpus/07-signal/images/69ca91b6c4fac1ded94bf75d_b571771f.png)
 
 > **Figure 2: Inbound Activity Remains Constrained**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/strait-of-hormuz-limited-vessel-transits-continue-as-outbound-flows-dominate) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/69ca91b6c4fac1ded94bf75d_b571771f.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/strait-of-hormuz-limited-vessel-transits-continue-as-outbound-flows-dominate) | [Local Asset](../../../../../../corpus/07-signal/images/69ca91b6c4fac1ded94bf75d_b571771f.png)
 
 
 ## AIS Disruption and Data Opacity Increase

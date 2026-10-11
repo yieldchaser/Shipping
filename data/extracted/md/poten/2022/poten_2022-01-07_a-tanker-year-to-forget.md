@@ -53,14 +53,23 @@ Vitol remained No. 1, while BP and Shell switched places on top of the rankings 
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: A Tanker Year To Forget](../../../charts/poten/2022/poten_2022-01-07_a-tanker-year-to-forget_chart1.png)
+![Exhibit 1: Top 10 VLCC Spot Charterers](../../../charts/poten/2022/poten_2022-01-07_a-tanker-year-to-forget_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2022/poten_2022-01-07_a-tanker-year-to-forget_chart1.png)
+> **Exhibit 1: Top 10 VLCC Spot Charterers**  
+> Unit: No. Spot Fixtures · X-axis: Unipec to Equinor  
+> Series: Unipec, IOC, Shell, Sinochem, Total, ExxonMobil, Petrobras, Hyundai, Vitol, Equinor  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2022/poten_2022-01-07_a-tanker-year-to-forget_chart1.png)
 
-![Exhibit 2: A Tanker Year To Forget](../../../charts/poten/2022/poten_2022-01-07_a-tanker-year-to-forget_chart2.png)
+![Exhibit 2: Top 10 Suezmax Spot Charterers](../../../charts/poten/2022/poten_2022-01-07_a-tanker-year-to-forget_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2022/poten_2022-01-07_a-tanker-year-to-forget_chart2.png)
+> **Exhibit 2: Top 10 Suezmax Spot Charterers**  
+> Unit: No. Spot Fixtures · X-axis: Petrobras to Chevron  
+> Series: Petrobras, Unipec, Lukoil, Repsol, Shell, BP, ExxonMobil, Vitol, Total, Chevron  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2022/poten_2022-01-07_a-tanker-year-to-forget_chart2.png)
 
-![Exhibit 3: A Tanker Year To Forget](../../../charts/poten/2022/poten_2022-01-07_a-tanker-year-to-forget_chart3.png)
+![Exhibit 3: Top 10 Aframax Spot Charterers](../../../charts/poten/2022/poten_2022-01-07_a-tanker-year-to-forget_chart3.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2022/poten_2022-01-07_a-tanker-year-to-forget_chart3.png)
+> **Exhibit 3: Top 10 Aframax Spot Charterers**  
+> Unit: No. Spot Fixtures · X-axis: Vitol to Aramco  
+> Series: Vitol, BP, Shell, ExxonMobil, Trafigura, Chevron, Unipec, Total, Lukoil, Aramco  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2022/poten_2022-01-07_a-tanker-year-to-forget_chart3.png)

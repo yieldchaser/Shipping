@@ -31,20 +31,20 @@ tags:
 This week’s Tanker Market Monitor tracks India’s return to Iraqi supply as Gulf oil movements recover amid persistent shipping risk. Yanbu is rebuilding its role as an export outlet, but insurance costs and the onward Red Sea voyage remain important constraints. At the same time, freight strength is spreading through Suezmax and Aframax markets in both the East and West.
 
 
-![Spotlight of the Week - India and the Widening Tanker Freight Squeeze](../../images/6ac8d9f4e0cc34638a61cb1f_e1527448.png)
+![Spotlight of the Week - India and the Widening Tanker Freight Squeeze](../../../../../../corpus/07-signal/images/6ac8d9f4e0cc34638a61cb1f_e1527448.png)
 
 > **Figure 1: Spotlight of the Week - India and the Widening Tanker Freight Squeeze**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-tanker-market-monitor-week-40-2026) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6ac8d9f4e0cc34638a61cb1f_e1527448.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-tanker-market-monitor-week-40-2026) | [Local Asset](../../../../../../corpus/07-signal/images/6ac8d9f4e0cc34638a61cb1f_e1527448.png)
 
 **Dashboard view.** *Signal Oil Flows, Iraq to India by export date: monthly volumes 2023–2026, vessel classes, discharge ports and terminals (selection January 2022–September 2026).*
 
 Iraqi oil shipments to India **more than doubled in September to 4.41 million tonnes**, up 106.3% month on month and 13.7% year on year, according to Signal flow data. Russian crude shipments to India **fell** **32.3%** **to** **5.48** **million** **tonnes**, down 12.9% year on year. In the freight market, the latest weekly assessment shows **all seven Aframax routes in the basket up 28–73%**, while Atlantic Suezmax earnings rose 32–38%.
 
 
-![Spotlight of the Week - India and the Widening Tanker Freight Squeeze](../../images/6ac8d9f4e0cc34638a61cb28_d2f77941.png)
+![Spotlight of the Week - India and the Widening Tanker Freight Squeeze](../../../../../../corpus/07-signal/images/6ac8d9f4e0cc34638a61cb28_d2f77941.png)
 
 > **Figure 2: Spotlight of the Week - India and the Widening Tanker Freight Squeeze**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-tanker-market-monitor-week-40-2026) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6ac8d9f4e0cc34638a61cb28_d2f77941.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-tanker-market-monitor-week-40-2026) | [Local Asset](../../../../../../corpus/07-signal/images/6ac8d9f4e0cc34638a61cb28_d2f77941.png)
 
 **Chart 1.** *Monthly shipments to India by export date, January–September, 2025 vs 2026. Iraq covers all oil cargoes; Russia covers crude oil.*
 
@@ -65,10 +65,10 @@ Indian Oil, Reliance, Bharat Petroleum and HPCL-Mittal Energy have bought Iraqi 
 Crude loadings at Yanbu stopped after Saudi Aramco shut the East–West pipeline on 11 September following drone attacks that Saudi officials blamed on Iraqi militias. The pipeline restarted on 22 September, with loadings resuming in the following days. Aramco then issued its October loading schedule to customers. On 6 October, Energy Minister Prince Abdulaziz bin Salman said pipeline flows had reached **5.8 million b/d**, against a capacity of 7 million b/d. These figures measure pipeline throughput, not seaborne exports. Monthly averages of Signal’s seven-day moving average of Yanbu seaborne exports ranged from **4.19 to 4.65 million b/d during April–July**, compared with 1.2–1.5 million b/d in the same months of 2025. In September, the seven-day average fell from 3.52 million b/d on 6 September to **0.43 million b/d on 21 September**. It recovered to 1.72 million b/d by 30 September, but remained **51.1% below the 6 September level**, showing how far loadings still had to recover at month-end.
 
 
-![Yanbu Recovers But Onward Transit Remains Exposed](../../images/6ac8d9f4e0cc34638a61cb2b_82b8da94.png)
+![Yanbu Recovers But Onward Transit Remains Exposed](../../../../../../corpus/07-signal/images/6ac8d9f4e0cc34638a61cb2b_82b8da94.png)
 
 > **Figure 3: Yanbu Recovers But Onward Transit Remains Exposed**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-tanker-market-monitor-week-40-2026) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6ac8d9f4e0cc34638a61cb2b_82b8da94.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-tanker-market-monitor-week-40-2026) | [Local Asset](../../../../../../corpus/07-signal/images/6ac8d9f4e0cc34638a61cb2b_82b8da94.png)
 
 **Chart 2.** *Yanbu oil exports to all destinations, seven-day moving average of daily exports, barrels/day, 2023–2026.*
 
@@ -91,10 +91,10 @@ The Joint Ministerial Monitoring Committee’s 4 October assessment reinforces t
 **VLCC:** Gulf VLCC routes carry the highest earnings in the crude basket. **MEG–Singapore (TD2) stands at $1,448,094/day**, up 17.7% week on week, and MEG–China (TD3C) at $1,412,594/day, up 15.6%. The strongest VLCC gains are West of Suez: **US Gulf–China (TD22) rose 59.3% to $637,675/day** and West Africa–China (TD15) 48.1% to $763,031/day. In the Suezmax market, **Black Sea–Mediterranean (TD6) rose 67.5% to $816,610/day**, above MEG–Mediterranean (TD23) at $759,117/day, up 24.3%. Atlantic Suezmax earnings also firmed: West Africa–UK Continent (TD20) rose 37.6% to $561,620/day and Guyana–ARA (TD27) 31.6% to $557,189/day.
 
 
-![Freight: Gulf VLCC Earnings Lead as Atlantic Rates Strengthen](../../images/6ac8d9f4e0cc34638a61cb22_9dc0a8e7.png)
+![Freight: Gulf VLCC Earnings Lead as Atlantic Rates Strengthen](../../../../../../corpus/07-signal/images/6ac8d9f4e0cc34638a61cb22_9dc0a8e7.png)
 
 > **Figure 4: Freight: Gulf VLCC Earnings Lead as Atlantic Rates Strengthen**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-tanker-market-monitor-week-40-2026) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6ac8d9f4e0cc34638a61cb22_9dc0a8e7.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-tanker-market-monitor-week-40-2026) | [Local Asset](../../../../../../corpus/07-signal/images/6ac8d9f4e0cc34638a61cb22_9dc0a8e7.png)
 
 **Chart 3.** *Crude tanker spot TCE by route and vessel class, East vs West of Suez, current vs previous week ($/day).*
 
@@ -103,10 +103,10 @@ The Joint Ministerial Monitoring Committee’s 4 October assessment reinforces t
 Aframax earnings rose across all seven routes in the basket, with weekly gains ranging from 28.3% to 73.2%. **North Sea–Continent (TD7) led at $526,895/day, up 73.2%**, followed by East Coast Mexico–US Gulf (TD26), up 62.7% to $394,568/day, and Caribbean–US Gulf (TD9), up 59.3% to $347,835/day. Strength also extended East of Suez: SE Asia–East Coast Australia (TD14) rose 50.5% to $252,356/day, while Kuwait–Singapore (TD8) gained 28.3% to $454,235/day. Charterers are splitting suitable cargoes into smaller parcels as larger ships become harder to secure. Signal data show the US Gulf Aframax list falling from 53 to 34 vessels between 28 September and 2 October, a decline of 35.8%.
 
 
-![Freight: Gulf VLCC Earnings Lead as Atlantic Rates Strengthen](../../images/6ac8d9f4e0cc34638a61cb2e_617edb9b.png)
+![Freight: Gulf VLCC Earnings Lead as Atlantic Rates Strengthen](../../../../../../corpus/07-signal/images/6ac8d9f4e0cc34638a61cb2e_617edb9b.png)
 
 > **Figure 5: Freight: Gulf VLCC Earnings Lead as Atlantic Rates Strengthen**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-tanker-market-monitor-week-40-2026) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6ac8d9f4e0cc34638a61cb2e_617edb9b.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-tanker-market-monitor-week-40-2026) | [Local Asset](../../../../../../corpus/07-signal/images/6ac8d9f4e0cc34638a61cb2e_617edb9b.png)
 
 **Chart 4.** *Aframax spot TCE, weekly change by route; navy marks the eastern routes, teal the western routes.*
 
@@ -119,13 +119,13 @@ Aframax earnings rose across all seven routes in the basket, with weekly gains r
 ![Spot Rate Summary: Dirty TCE, VLCC, Suezmax, Aframax and Panamax](../../images/6ac8d8ca7f1d3e344fef3795_Screenshot 2026-10-09 at 13.04.31.png)
 
 > **Figure 6: Spot Rate Summary: Dirty TCE, VLCC, Suezmax, Aframax and Panamax**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-tanker-market-monitor-week-40-2026) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6ac8d8ca7f1d3e344fef3795_Screenshot 2026-10-09 at 13.04.31.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-tanker-market-monitor-week-40-2026) | [Local Asset](../../../../../../corpus/07-signal/images/6ac8d8ca7f1d3e344fef3795_Screenshot%202026-10-09%20at%2013.04.31.png)
 
 
 ![Spot Rate Summary: Dirty TCE, VLCC, Suezmax, Aframax and Panamax](../../images/6ac8d8d837139c876c127e28_Screenshot 2026-10-09 at 13.04.43.png)
 
 > **Figure 7: Spot Rate Summary: Dirty TCE, VLCC, Suezmax, Aframax and Panamax**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-tanker-market-monitor-week-40-2026) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6ac8d8d837139c876c127e28_Screenshot 2026-10-09 at 13.04.43.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-tanker-market-monitor-week-40-2026) | [Local Asset](../../../../../../corpus/07-signal/images/6ac8d8d837139c876c127e28_Screenshot%202026-10-09%20at%2013.04.43.png)
 
 *Freight/TCE: Signal, latest weekly spot assessment (CSV export of 9 October 2026), $/day. All changes are percentages. n/m means the prior-period TCE is non-positive, so a percentage comparison is not meaningful.*
 
@@ -134,10 +134,10 @@ The clean market shows a widening divergence between LR2 and MR earnings. East o
 **All 11 MR routes in the basket declined week on week.** The sharpest falls were in the US Gulf: **US Gulf–Caribbean (TC21) dropped 51.7% to $29,879/day**, US Gulf–Continent (TC14) fell 40.7% to $32,596/day, and US Gulf–Brazil (TC18) declined 31.2% to $43,380/day. These declines qualify the wider tanker outlook: crude-market strength is not being matched across smaller clean tankers. LR2 switching from clean into dirty trading has already added capacity to the Aframax market.
 
 
-![Spot Rate Summary: Dirty TCE, VLCC, Suezmax, Aframax and Panamax](../../images/6ac8d9f4e0cc34638a61cb25_b789b09c.png)
+![Spot Rate Summary: Dirty TCE, VLCC, Suezmax, Aframax and Panamax](../../../../../../corpus/07-signal/images/6ac8d9f4e0cc34638a61cb25_b789b09c.png)
 
 > **Figure 8: Spot Rate Summary: Dirty TCE, VLCC, Suezmax, Aframax and Panamax**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-tanker-market-monitor-week-40-2026) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6ac8d9f4e0cc34638a61cb25_b789b09c.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-tanker-market-monitor-week-40-2026) | [Local Asset](../../../../../../corpus/07-signal/images/6ac8d9f4e0cc34638a61cb25_b789b09c.png)
 
 **Chart 5.** *Clean tanker spot TCE by route, LR2/LR1 and MR, East vs West of Suez, current vs previous week ($/day).*
 
@@ -150,7 +150,7 @@ The clean market shows a widening divergence between LR2 and MR earnings. East o
 ![Spot Rate Summary: Clean TCE, Lr2, Lr1, Mr and Handy](../../images/6ac8d8ff7f1d3e344fef4f77_Screenshot 2026-10-09 at 13.04.56.png)
 
 > **Figure 9: Spot Rate Summary: Clean TCE, Lr2, Lr1, Mr and Handy**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-tanker-market-monitor-week-40-2026) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6ac8d8ff7f1d3e344fef4f77_Screenshot 2026-10-09 at 13.04.56.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-tanker-market-monitor-week-40-2026) | [Local Asset](../../../../../../corpus/07-signal/images/6ac8d8ff7f1d3e344fef4f77_Screenshot%202026-10-09%20at%2013.04.56.png)
 
 *Freight/TCE: Signal, latest weekly spot assessment (CSV export of 9 October 2026), $/day. All changes are percentages. n/m means the prior-period TCE is non-positive, so a percentage comparison is not meaningful.*
 
@@ -182,7 +182,7 @@ Quoted war-risk premiums for **Saudi-linked tankers calling at Yanbu were around
 ![Exposure](../../images/6ac8d9113c97f013df25cb13_Screenshot 2026-10-09 at 13.05.05.png)
 
 > **Figure 10: Exposure**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-tanker-market-monitor-week-40-2026) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6ac8d9113c97f013df25cb13_Screenshot 2026-10-09 at 13.05.05.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-tanker-market-monitor-week-40-2026) | [Local Asset](../../../../../../corpus/07-signal/images/6ac8d9113c97f013df25cb13_Screenshot%202026-10-09%20at%2013.05.05.png)
 
 *Quoted war-risk premiums as a percentage of vessel value. Sources: Quotations reported 24 September 2026;*
 

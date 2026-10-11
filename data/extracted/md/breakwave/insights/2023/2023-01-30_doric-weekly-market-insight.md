@@ -33,16 +33,16 @@ As far as the dry bulk seaborne commodities go, during the currency of 2022, Chi
 
 China’s struggling property sector and sluggish economic activity had a negative bearing on steel margins, decreasing appetite for iron ore imports. In tandem, coal shipments to China reached 293.2 million tonnes during the previous year, down 9.2 percent from a year earlier, as the world’s largest coal consumer boosted domestic coal production. China's 2022 soybean imports were 5.6 percent lower than the year before at 91.08 million tonnes, according to official data from the General Administration of Customs. Total imports of grains such as soybeans, corn, wheat, barley and sorghum were 146.9 million tonnes in 2022, according to the General Administration of Customs. China’s strict Covid lockdowns eroded domestic demand, particularly from the stockfeed industry.
 
-![1 (7)](assets/2023-01-30_doric-weekly-market-insight_img_128729_30e86930d63e.png)
+![1 (7)](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-01-30_doric-weekly-market-insight_img_128729_30e86930d63e.png)
 
 > **Figure 1: 1 (7)**  
-> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-01-30_doric-weekly-market-insight_img_128729_30e86930d63e.png)
+> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-01-30_doric-weekly-market-insight_img_128729_30e86930d63e.png)
 
 Whilst all the aforementioned have already been priced into current discouraging Baltic indices, market narrative for China's appetite for commodities has largely shifted from what was a softish 2022 to expectations of a vivid 2023. Looking forward, Chinese households have accumulated $2.6tn of bank deposits last year alone, feverishly heating the pent-up demand engine and building higher expectations for the months to come.
 
-![1 (8)](assets/2023-01-30_doric-weekly-market-insight_img_128829_b225b1e79333.png)
+![1 (8)](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-01-30_doric-weekly-market-insight_img_128829_b225b1e79333.png)
 
 > **Figure 2: 1 (8)**  
-> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-01-30_doric-weekly-market-insight_img_128829_b225b1e79333.png)
+> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-01-30_doric-weekly-market-insight_img_128829_b225b1e79333.png)
 
 Data source:[Doric](https://www.doric.gr/)

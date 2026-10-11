@@ -23,10 +23,10 @@ source_file: "corpus/03-breakwave/insights/2022/2022-08-28_weekly-insights-revie
 
 ## Read Here Everything You Need to Know
 
-![Greek+kaiki](assets/2022-08-28_weekly-insights-review_img_greek2bkaiki_120f93109f02.jpg)
+![Greek+kaiki](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-08-28_weekly-insights-review_img_greek2bkaiki_120f93109f02.jpg)
 
 > **Figure 1: Greek+kaiki**  
-> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2022/8/23/shipping-decarbonization-weekly-insights) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-08-28_weekly-insights-review_img_greek2bkaiki_120f93109f02.jpg)
+> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2022/8/23/shipping-decarbonization-weekly-insights) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-08-28_weekly-insights-review_img_greek2bkaiki_120f93109f02.jpg)
 
 ## Shipping Decarbonization Weekly Insights
 
@@ -42,10 +42,10 @@ Waste-based biofuels could be a key driver of the energy transition transforming
 Frank Herbert’s ‘[Dune](https://en.wikipedia.org/wiki/Dune_(novel))’, one of the most epic sci-fi novels of all time (and the subject of a less-great 1984 Kyle MacLachlan[movie](https://www.imdb.com/title/tt0087182/)), featured, amongst other things, a mystical far-future sisterhood, called the Bene Gesserit.
 [Read More](https://www.breakwaveadvisors.com/insights/2022/8/22/market-comment-paradigm-shift-deferred-but-not-for-long)
 
-![243](assets/2022-08-28_weekly-insights-review_img_243_26511b74f458.jpeg)
+![243](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-08-28_weekly-insights-review_img_243_26511b74f458.jpeg)
 
 > **Figure 2: 243**  
-> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2022/8/22/chinas-coal-and-iron-ore-imports-remain-in-contraction) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-08-28_weekly-insights-review_img_243_26511b74f458.jpeg)
+> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2022/8/22/chinas-coal-and-iron-ore-imports-remain-in-contraction) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-08-28_weekly-insights-review_img_243_26511b74f458.jpeg)
 
 ## China's Coal and Iron Ore Imports Remain in Contraction
 
@@ -54,15 +54,15 @@ Frank Herbert’s ‘[Dune](https://en.wikipedia.org/wiki/Dune_(novel))’, one 
 China's iron ore and coal imports most recently were each able to climb on a month-on-month basis last month, but..
 [Read More](https://www.breakwaveadvisors.com/insights/2022/8/22/chinas-coal-and-iron-ore-imports-remain-in-contraction)
 
-![Coal6](assets/2022-08-28_weekly-insights-review_img_coal6_da289607770f.jpg)
+![Coal6](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-08-28_weekly-insights-review_img_coal6_da289607770f.jpg)
 
 > **Figure 3: Coal6**  
-> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2022/8/22/are-chinas-crude-imports-on-a-path-to-recovery) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-08-28_weekly-insights-review_img_coal6_da289607770f.jpg)
+> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2022/8/22/are-chinas-crude-imports-on-a-path-to-recovery) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-08-28_weekly-insights-review_img_coal6_da289607770f.jpg)
 
-![Revovery](assets/2022-08-28_weekly-insights-review_img_revovery_ea760a4c4ec0.jpeg)
+![Revovery](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-08-28_weekly-insights-review_img_revovery_ea760a4c4ec0.jpeg)
 
 > **Figure 4: Revovery**  
-> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2022/8/22/are-chinas-crude-imports-on-a-path-to-recovery) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-08-28_weekly-insights-review_img_revovery_ea760a4c4ec0.jpeg)
+> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2022/8/22/are-chinas-crude-imports-on-a-path-to-recovery) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-08-28_weekly-insights-review_img_revovery_ea760a4c4ec0.jpeg)
 
 ## Are China’s Crude Imports on a Path to Recovery?
 
@@ -73,10 +73,10 @@ China’s seaborne crude imports in August (days representing 1-18) have breache
 
 ## Shipfix Data: Ukrainian Grain Orders Are Starting to Lift Off
 
-![Grain+cargo](assets/2022-08-28_weekly-insights-review_img_grain2bcargo_e4b1d3174155.jpg)
+![Grain+cargo](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-08-28_weekly-insights-review_img_grain2bcargo_e4b1d3174155.jpg)
 
 > **Figure 5: Grain+cargo**  
-> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2022/7/22/ndias-coal-production-and-thermal-coal-derived-electricity-generation-both-remain-strong) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-08-28_weekly-insights-review_img_grain2bcargo_e4b1d3174155.jpg)
+> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2022/7/22/ndias-coal-production-and-thermal-coal-derived-electricity-generation-both-remain-strong) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-08-28_weekly-insights-review_img_grain2bcargo_e4b1d3174155.jpg)
 
 ## The Majority of These Grains Are Heading to China, Turkey, Indonesia, Egypt and Spain
 
@@ -94,15 +94,15 @@ A weaker USD also helped boost investor appetite for the sector.
 Consumer spending in China has now experienced year-on-year growth for two straight months, most recently rising by 2.7% in July.
 [Read More](https://www.breakwaveadvisors.com/insights/2022/8/25/chinese-consumer-spending-showing-growth)
 
-![Unsplash Image Lvma9fjoywk](assets/2022-08-28_weekly-insights-review_img_unsplash-image-lvma9fjoywk_93bd2d2258de.jpg)
+![Unsplash Image Lvma9fjoywk](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-08-28_weekly-insights-review_img_unsplash-image-lvma9fjoywk_93bd2d2258de.jpg)
 
 > **Figure 6: Unsplash Image Lvma9fjoywk**  
-> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2022/7/22/european-gas-rises-as-russian-gas-flows-restart-slowly) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-08-28_weekly-insights-review_img_unsplash-image-lvma9fjoywk_93bd2d2258de.jpg)
+> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2022/7/22/european-gas-rises-as-russian-gas-flows-restart-slowly) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-08-28_weekly-insights-review_img_unsplash-image-lvma9fjoywk_93bd2d2258de.jpg)
 
-![Unsplash Image Wp2ovy14tjs](assets/2022-08-28_weekly-insights-review_img_unsplash-image-wp2ovy14tjs_80b1ba143651.jpg)
+![Unsplash Image Wp2ovy14tjs](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-08-28_weekly-insights-review_img_unsplash-image-wp2ovy14tjs_80b1ba143651.jpg)
 
 > **Figure 7: Unsplash Image Wp2ovy14tjs**  
-> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2022/7/22/european-gas-rises-as-russian-gas-flows-restart-slowly) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-08-28_weekly-insights-review_img_unsplash-image-wp2ovy14tjs_80b1ba143651.jpg)
+> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2022/7/22/european-gas-rises-as-russian-gas-flows-restart-slowly) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-08-28_weekly-insights-review_img_unsplash-image-wp2ovy14tjs_80b1ba143651.jpg)
 
 ## Crude Tankers: Russian Invasion Sets the Tone But China’s Behaviour Has the Last Say
 
@@ -111,10 +111,10 @@ Consumer spending in China has now experienced year-on-year growth for two strai
 Six months have passed since the invasion of Russia in Ukraine, which caught most of the world and in consequence – shipping markets – by surprise.
 [Read More](https://www.breakwaveadvisors.com/insights/2022/7/22/european-gas-rises-as-russian-gas-flows-restart-slowly)
 
-![Unsplash Image Uwq F5g4yoo](assets/2022-08-28_weekly-insights-review_img_unsplash-image-uwq-f5g4yoo_8117ecf1dd7f.jpg)
+![Unsplash Image Uwq F5g4yoo](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-08-28_weekly-insights-review_img_unsplash-image-uwq-f5g4yoo_8117ecf1dd7f.jpg)
 
 > **Figure 8: Unsplash Image Uwq F5g4yoo**  
-> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2022/8/26/copper-gains-as-china-throws-more-stimulus-measures-at-economy) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-08-28_weekly-insights-review_img_unsplash-image-uwq-f5g4yoo_8117ecf1dd7f.jpg)
+> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2022/8/26/copper-gains-as-china-throws-more-stimulus-measures-at-economy) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-08-28_weekly-insights-review_img_unsplash-image-uwq-f5g4yoo_8117ecf1dd7f.jpg)
 
 ## Copper Gains As China Throws More Stimulus Measures at Economy
 
@@ -132,7 +132,7 @@ A weaker USD also boosted investor appetite.
 Energy prices are continuing to firm in Europe and weather is driving supply/demand changes across several regions.
 [Read More](https://www.breakwaveadvisors.com/insights/2022/8/26/weekly-dry-market-report)
 
-![Unsplash Image Iuvjqubfi9g](assets/2022-08-28_weekly-insights-review_img_unsplash-image-iuvjqubfi9g_77b1cb54386f.jpg)
+![Unsplash Image Iuvjqubfi9g](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-08-28_weekly-insights-review_img_unsplash-image-iuvjqubfi9g_77b1cb54386f.jpg)
 
 > **Figure 9: Unsplash Image Iuvjqubfi9g**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-08-28_weekly-insights-review_img_unsplash-image-iuvjqubfi9g_77b1cb54386f.jpg)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-08-28_weekly-insights-review_img_unsplash-image-iuvjqubfi9g_77b1cb54386f.jpg)

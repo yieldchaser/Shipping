@@ -161,6 +161,8 @@ _No 58% Fe brand assessments reported for this session._
 _No futures contracts reported for this session._
 
 ## Dry Bulk Freight Rates Historical Line Data (USD/MT)
+> **Approximate.** The report prints no numbers for this chart. Values were read visually from the chart image by the parser and are rough estimates.
+
 | Date | C5 W. Australia - Qingdao (USD/MT) | C3 Tubarao - Qingdao (USD/MT) |
 | :--- | :--- | :--- |
 | 4-Jan-21 | 8.00 | 18.00 |
@@ -186,21 +188,23 @@ _No futures contracts reported for this session._
 | 4-Sep-22 | 9.00 | 10.00 |
 
 ## Total China Iron Ore Import Volumes (Million Tonnes)
+> **Estimate.** The report prints no numbers for this chart. Values are computed from the chart's vector geometry at each x-axis date label (calibrated on the printed axis ticks; typically within 1% of the axis range).
+
 | Month / Period | Import Volume (Million Tonnes) |
 | :--- | :--- |
-| Aug-21 | 98.00 |
-| Sep-21 | 96.00 |
-| Oct-21 | 92.00 |
-| Nov-21 | 105.00 |
-| Dec-21 | 86.00 |
-| Jan-22 | 96.00 |
-| Feb-22 | 86.00 |
-| Mar-22 | 87.00 |
-| Apr-22 | 85.00 |
-| May-22 | 93.00 |
-| Jun-22 | 88.00 |
-| Jul-22 | 91.00 |
-| Aug-22 | 96.00 |
+| Aug-21 | 97.53 |
+| Sep-21 | 95.56 |
+| Oct-21 | 91.61 |
+| Nov-21 | 104.99 |
+| Dec-21 | 86.13 |
+| Jan-22 | 95.12 |
+| Feb-22 | 85.91 |
+| Mar-22 | 87.23 |
+| Apr-22 | 86.13 |
+| May-22 | 92.49 |
+| Jun-22 | 88.98 |
+| Jul-22 | 91.17 |
+| Aug-22 | 96.22 |
 
 ---
 

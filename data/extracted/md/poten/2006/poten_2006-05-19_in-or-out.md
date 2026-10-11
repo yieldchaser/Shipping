@@ -40,6 +40,7 @@ Higher demand for crude and products combined with the projected overall increas
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: In or Out?](../../../charts/poten/2006/poten_2006-05-19_in-or-out_chart1.png)
-
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2006/poten_2006-05-19_in-or-out_chart1.png)
+> **Chart on PDF page 1: Tanker Fleet Profile 30 - 300,000 DWT**  
+> Unit: % · X-axis: 2004 to 2006 YTD  
+> Series: % of Fleet Over 25 Years Old, % of Spot Fixtures Non-DH, % of Fleet Non-DH  
+> *No image crop of this chart was saved; caption read from the PDF.*

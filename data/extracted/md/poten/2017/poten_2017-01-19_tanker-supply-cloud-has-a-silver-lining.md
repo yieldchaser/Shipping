@@ -28,10 +28,18 @@ Based on the historical variability of vessel deliveries and its apparent correl
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: Tanker Supply Cloud Has A Silver Lining](../../../charts/poten/2017/poten_2017-01-19_tanker-supply-cloud-has-a-silver-lining_chart1.png)
+![Exhibit 1: Fig. 1: Tanker Age Profile (incl. 2017 estimate)](../../../charts/poten/2017/poten_2017-01-19_tanker-supply-cloud-has-a-silver-lining_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2017/poten_2017-01-19_tanker-supply-cloud-has-a-silver-lining_chart1.png)
+> **Exhibit 1: Fig. 1: Tanker Age Profile (incl. 2017 estimate)**  
+> Unit: M Dwt · X-axis: 1985 to 2017  
+> Series: VLCC, Suezmax, Aframax, Panamax, LR2, LR1, MR, Handy  
+> *Source: IHS/Poten*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2017/poten_2017-01-19_tanker-supply-cloud-has-a-silver-lining_chart1.png)
 
-![Exhibit 2: Tanker Supply Cloud Has A Silver Lining](../../../charts/poten/2017/poten_2017-01-19_tanker-supply-cloud-has-a-silver-lining_chart2.png)
+![Exhibit 2: Fig. 2: Scheduled & Actual Deliveries versus Tanker Earnings](../../../charts/poten/2017/poten_2017-01-19_tanker-supply-cloud-has-a-silver-lining_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2017/poten_2017-01-19_tanker-supply-cloud-has-a-silver-lining_chart2.png)
+> **Exhibit 2: Fig. 2: Scheduled & Actual Deliveries versus Tanker Earnings**  
+> Unit: M Dwt | TCE ($/d) · X-axis: 2005 to 2017  
+> Series: Actual Deliveries, Delayed/Cancelled, Suezmax 1 Yr TC Rate  
+> *Source: IHS/Poten*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2017/poten_2017-01-19_tanker-supply-cloud-has-a-silver-lining_chart2.png)

@@ -29,10 +29,10 @@ tags:
 ## This Week’s Focus Highlights a Decrease in Vessel Congestion at the Port of Ras Tanura for Dirty Tankers, Including VLCCs and Suezmax Vessels. Port Congestion Metrics Show a 25% Decline on Both a Weekly and Monthly Basis. However, in Contrast, Port Days Metrics Have Recently Risen by 25% on a Weekly Basis and by a Significant 177% Over the Past Month. the Key Question Remains Whether This Increase in Port Days Will Lead to a Subsequent Rise in Vessel Congestion, Potentially Putting Upward Pressure on Freight Market Momentum.
 
 
-![671b5a40d81dec498f8ceb50 671b5a09cb9111a63c8889bd Chart%20of%20the%20week%20tanker](../../images/671b5a40d81dec498f8ceb50_671b5a09cb9111a63c8889bd_chart%20of%20the%20week%20tanker.avif)
+![671b5a40d81dec498f8ceb50 671b5a09cb9111a63c8889bd Chart%20of%20the%20week%20tanker](../../images/671b5a40d81dec498f8ceb50_671b5a09cb9111a63c8889bd_chart%2520of%2520the%2520week%2520tanker.avif)
 
 > **Figure 1: 671b5a40d81dec498f8ceb50 671b5a09cb9111a63c8889bd Chart%20of%20the%20week%20tanker**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/tanker-week-43-2024) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/671b5a40d81dec498f8ceb50_671b5a09cb9111a63c8889bd_chart%20of%20the%20week%20tanker.avif)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/tanker-week-43-2024) | [Local Asset](../../../../../../corpus/07-signal/images/671b5a40d81dec498f8ceb50_671b5a09cb9111a63c8889bd_chart%2520of%2520the%2520week%2520tanker.avif)
 
 This week’s focus highlights a notable decrease in vessel congestion at the port of Ras Tanura, specifically for dirty tankers, including VLCCs and Suezmax vessels. Port congestion metrics show a 25% decline both on a weekly and monthly basis, signalling improved traffic flow. However, a contrasting trend emerges when examining port days metrics, which have surged by 25% on a weekly basis and a dramatic 177% on a monthly basis. This sharp rise in port days suggests vessels are spending significantly more time in port, likely due to operational delays or extended loading periods.
 

@@ -24,10 +24,10 @@ source_file: "corpus/03-breakwave/insights/2025/2025-04-17_grain-dry-bulk-flows-
 Snapshot of Spot Freight Rates, Supply-Demand Trends, Port Congestions
 April 16, 2025
 
-![Στιγμιότυπο Οθόνης 2025 04 16 160007](assets/2025-04-17_grain-dry-bulk-flows-brazil-vs-usa_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_23f415f58c08.png)
+![Στιγμιότυπο Οθόνης 2025 04 16 160007](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-04-17_grain-dry-bulk-flows-brazil-vs-usa_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_23f415f58c08.png)
 
 > **Figure 1: Στιγμιότυπο Οθόνης 2025 04 16 160007**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-04-17_grain-dry-bulk-flows-brazil-vs-usa_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_23f415f58c08.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-04-17_grain-dry-bulk-flows-brazil-vs-usa_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_23f415f58c08.png)
 
 ## Shift in Global Soybean Trade Flows
 
@@ -41,10 +41,10 @@ U.S. soybean exports to China have traditionally adhered to a clear seasonal pat
 
 In sharp contrast, Brazilian soybean exports to China have surged in 2025, with volumes in March and April exceeding 10 million tonnes—well above levels recorded in previous years. This growth reflects Brazil’s alignment with China’s seasonal demand and highlights its capacity to step in as U.S. exports falter. Sustained high export volumes into mid-year further reinforce Brazil’s emergence as a reliable and dominant supplier. More than just a trade shift, this trend signals deeper economic integration between China and Brazil, solidifying Brazil’s strategic role in global agricultural supply chains and reshaping the dynamics of the soybean market.
 
-![Στιγμιότυπο Οθόνης 2025 04 16 160103](assets/2025-04-17_grain-dry-bulk-flows-brazil-vs-usa_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_dd606fb5ff99.png)
+![Στιγμιότυπο Οθόνης 2025 04 16 160103](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-04-17_grain-dry-bulk-flows-brazil-vs-usa_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_dd606fb5ff99.png)
 
 > **Figure 2: Στιγμιότυπο Οθόνης 2025 04 16 160103**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-04-17_grain-dry-bulk-flows-brazil-vs-usa_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_dd606fb5ff99.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-04-17_grain-dry-bulk-flows-brazil-vs-usa_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_dd606fb5ff99.png)
 
 ​​​​Sentiment in the Capesize freight market is softening as the number of ballasters rises, while early signs also point to a weakening outlook in the Panamax segment.
 
@@ -53,10 +53,10 @@ In sharp contrast, Brazilian soybean exports to China have surged in 2025, with 
 - **Supramax**vessel freight rates on the Indonesia–East Coast India (ECI) route held firm at approximately $9 per tonne, marking a 5% increase month-on-month.
 - **Handysize**freight rates for the NOPAC Far East route slipped slightly below $30 per tonne, registering a 6% decline month-on-month.
 
-![Στιγμιότυπο Οθόνης 2025 04 16 160448](assets/2025-04-17_grain-dry-bulk-flows-brazil-vs-usa_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_eaedd84e85ed.png)
+![Στιγμιότυπο Οθόνης 2025 04 16 160448](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-04-17_grain-dry-bulk-flows-brazil-vs-usa_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_eaedd84e85ed.png)
 
 > **Figure 3: Στιγμιότυπο Οθόνης 2025 04 16 160448**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-04-17_grain-dry-bulk-flows-brazil-vs-usa_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_eaedd84e85ed.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-04-17_grain-dry-bulk-flows-brazil-vs-usa_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_eaedd84e85ed.png)
 
 The latest ballaster indicators suggest continued upward momentum for Capesize activity in Southeast Africa, while Panamax levels face downward pressure.
 
@@ -65,10 +65,10 @@ The latest ballaster indicators suggest continued upward momentum for Capesize a
 - **Supramax SE Asia**: Current trends indicate a sustained upward trajectory from the peak observed in Week 13, with recent levels now hovering slightly above the annual average of 100.
 - **Handysize NOPAC**: The Handy NOPAC segment's levels have increased to 95, continuing an upward trend that began at the end of week 11.
 
-![Στιγμιότυπο Οθόνης 2025 04 16 160457](assets/2025-04-17_grain-dry-bulk-flows-brazil-vs-usa_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_87d0179dfbf2.png)
+![Στιγμιότυπο Οθόνης 2025 04 16 160457](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-04-17_grain-dry-bulk-flows-brazil-vs-usa_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_87d0179dfbf2.png)
 
 > **Figure 4: Στιγμιότυπο Οθόνης 2025 04 16 160457**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-04-17_grain-dry-bulk-flows-brazil-vs-usa_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_87d0179dfbf2.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-04-17_grain-dry-bulk-flows-brazil-vs-usa_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_87d0179dfbf2.png)
 
 The third week of April is marked by a downward trajectory in the Panamax growth of tonne days, while a remarkable spike is recorded in the Supramax.
 
@@ -77,10 +77,10 @@ The third week of April is marked by a downward trajectory in the Panamax growth
 - **Supramax**: The growth rate remained elevated, marking a firmer pace than the levels observed in Week 11.
 - **Handysize**: Its growth rate remained steady compared to the previous two weeks, though it showed a gradual decline in the latter half of the month.
 
-![Στιγμιότυπο Οθόνης 2025 04 16 160506](assets/2025-04-17_grain-dry-bulk-flows-brazil-vs-usa_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_ca931192de7a.png)
+![Στιγμιότυπο Οθόνης 2025 04 16 160506](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-04-17_grain-dry-bulk-flows-brazil-vs-usa_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_ca931192de7a.png)
 
 > **Figure 5: Στιγμιότυπο Οθόνης 2025 04 16 160506**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-04-17_grain-dry-bulk-flows-brazil-vs-usa_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_ca931192de7a.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-04-17_grain-dry-bulk-flows-brazil-vs-usa_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_ca931192de7a.png)
 
 Dry bulk port congestion in China saw a significant rise across all vessel size categories.
 

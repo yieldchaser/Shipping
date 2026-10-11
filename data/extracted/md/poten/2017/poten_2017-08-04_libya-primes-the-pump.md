@@ -28,10 +28,18 @@ Export destinations outside of the Mediterranean, include the UKC, the United St
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: Libya Primes The Pump](../../../charts/poten/2017/poten_2017-08-04_libya-primes-the-pump_chart1.png)
+![Exhibit 1: Libya: Crude Oil Production](../../../charts/poten/2017/poten_2017-08-04_libya-primes-the-pump_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2017/poten_2017-08-04_libya-primes-the-pump_chart1.png)
+> **Exhibit 1: Libya: Crude Oil Production**  
+> Unit: Kb/d · X-axis: Jan-15 to May-17  
+> Series: Libya: Crude Oil Production  
+> *Source: IEA*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2017/poten_2017-08-04_libya-primes-the-pump_chart1.png)
 
-![Exhibit 2: Libya Primes The Pump](../../../charts/poten/2017/poten_2017-08-04_libya-primes-the-pump_chart2.png)
+![Exhibit 2: Libyan Seaborne Exports by Destination](../../../charts/poten/2017/poten_2017-08-04_libya-primes-the-pump_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2017/poten_2017-08-04_libya-primes-the-pump_chart2.png)
+> **Exhibit 2: Libyan Seaborne Exports by Destination**  
+> Unit: Kb/d · X-axis: Jan-15 to Jul-17  
+> Series: Italy, Other Med, UKC/Baltic, Asia, Other  
+> *Source: Lloyd's List Intelligence*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2017/poten_2017-08-04_libya-primes-the-pump_chart2.png)

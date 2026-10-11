@@ -30,10 +30,14 @@ The elimination of the tax rebate for crude oil sourced from South Korea's FTA c
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: Policy Changes Could Affect South Korean Tanker Demand](../../../charts/poten/2013/poten_2013-07-05_policy-changes-could-affect-south-korean-tanker-demand_chart1.png)
+![Exhibit 1: VLCC Spot Fixtures to South Korea](../../../charts/poten/2013/poten_2013-07-05_policy-changes-could-affect-south-korean-tanker-demand_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2013/poten_2013-07-05_policy-changes-could-affect-south-korean-tanker-demand_chart1.png)
+> **Exhibit 1: VLCC Spot Fixtures to South Korea**  
+> Unit: No. of Fixtures · X-axis: Jan-11 to Feb-13  
+> Series: Monthly Fixtures  
+> *Source: Poten*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2013/poten_2013-07-05_policy-changes-could-affect-south-korean-tanker-demand_chart1.png)
 
 ![Exhibit 2: Policy Changes Could Affect South Korean Tanker Demand](../../../charts/poten/2013/poten_2013-07-05_policy-changes-could-affect-south-korean-tanker-demand_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2013/poten_2013-07-05_policy-changes-could-affect-south-korean-tanker-demand_chart2.png)
+> **Interactive Asset:** [Local Asset (200 DPI PNG)](../../../charts/poten/2013/poten_2013-07-05_policy-changes-could-affect-south-korean-tanker-demand_chart2.png)

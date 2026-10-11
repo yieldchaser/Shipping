@@ -24,10 +24,10 @@ Trading was lacklustre with US and UK markets closed. However, sentiment was buo
 
 *By*[*Daniel Hynes*](https://www.linkedin.com/in/dahynes/)
 
-![Στιγμιότυπο Οθόνης 2024 05 28 112921](assets/2024-05-28_gxcojixxrgr12zhp5lag4me46kknzj_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_ec3125044b78.png)
+![Στιγμιότυπο Οθόνης 2024 05 28 112921](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-05-28_gxcojixxrgr12zhp5lag4me46kknzj_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_ec3125044b78.png)
 
 > **Figure 1: Στιγμιότυπο Οθόνης 2024 05 28 112921**  
-> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-05-28_gxcojixxrgr12zhp5lag4me46kknzj_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_ec3125044b78.png)
+> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-05-28_gxcojixxrgr12zhp5lag4me46kknzj_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_ec3125044b78.png)
 
 ### Market Commentary
 
@@ -41,10 +41,10 @@ A more dovish tone from central banks helped push**gold**prices higher. The ECB 
 
 **Iron ore**futures retreated as investors weighed up recent measures by Beijing to stabilise the property sector against signs of rising supply from exporters.
 
-![Στιγμιότυπο Οθόνης 2024 05 28 112941](assets/2024-05-28_gxcojixxrgr12zhp5lag4me46kknzj_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_0d7c6dfc5f38.png)
+![Στιγμιότυπο Οθόνης 2024 05 28 112941](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-05-28_gxcojixxrgr12zhp5lag4me46kknzj_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_0d7c6dfc5f38.png)
 
 > **Figure 2: Στιγμιότυπο Οθόνης 2024 05 28 112941**  
-> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-05-28_gxcojixxrgr12zhp5lag4me46kknzj_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_0d7c6dfc5f38.png)
+> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-05-28_gxcojixxrgr12zhp5lag4me46kknzj_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_0d7c6dfc5f38.png)
 
 Data source:[Commodities Wrap](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI)
 

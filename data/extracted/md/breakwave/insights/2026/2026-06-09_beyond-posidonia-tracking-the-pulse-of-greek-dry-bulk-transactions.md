@@ -20,11 +20,11 @@ source_file: "corpus/03-breakwave/insights/2026/2026-06-09_beyond-posidonia-trac
 
 ---
 
-![Byeirini Diamantara&dimitris Roumeliotis](assets/2026-06-09_beyond-posidonia-tracking-the-pulse-of-greek-dry-bulk-transactions_img_unsplash-image-vdbfcdzscuw_cd5e00f8650c.jpg)
+![Byeirini Diamantara&dimitris Roumeliotis](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-06-09_beyond-posidonia-tracking-the-pulse-of-greek-dry-bulk-transactions_img_unsplash-image-vdbfcdzscuw_cd5e00f8650c.jpg)
 
 > **Figure 1: Byeirini Diamantara&dimitris Roumeliotis**  
 > *ByEirini Diamantara&Dimitris Roumeliotis*  
-> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/in/eirini-diamantara-58b269105/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-06-09_beyond-posidonia-tracking-the-pulse-of-greek-dry-bulk-transactions_img_unsplash-image-vdbfcdzscuw_cd5e00f8650c.jpg)
+> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/in/eirini-diamantara-58b269105/) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-06-09_beyond-posidonia-tracking-the-pulse-of-greek-dry-bulk-transactions_img_unsplash-image-vdbfcdzscuw_cd5e00f8650c.jpg)
 
 As Posidonia week drew to a close, it offered an opportune moment to reflect on activity levels in the dry bulk Sale & Purchase (S&P) and newbuilding (NB) markets during the first five months of 2026, with particular focus on the presence and positioning of Greek interests. The S&P market has demonstrated notable momentum. A total of 378 dry bulk vessels changed hands during the Jan–May period, marking a 21% increase compared to the corresponding period in 2025. Activity was broadly distributed across vessel segments, with Handysize units leading the way at 86 transactions (22% of total sales), followed closely by the Supramax sector with 79 deals (21%), and Kamsarmax vessels accounting for 52 sales (14%). This distribution highlights the continued liquidity and attractiveness of the smaller and mid-sized segments, which tend to offer greater trading flexibility amid prevailing market conditions.
 

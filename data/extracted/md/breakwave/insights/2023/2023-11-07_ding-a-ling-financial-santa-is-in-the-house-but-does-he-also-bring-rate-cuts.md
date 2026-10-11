@@ -37,10 +37,10 @@ Last week was one of the best on recent record for both stock and bonds. The S&P
 
 A slightly-below-expectations labour market number on Friday helped further fuel those hopes.
 
-![Market Chart 1](assets/2023-11-07_ding-a-ling-financial-santa-is-in-the-house-but-does-he-also-bring-rate-cuts_img_image00528929_a20c68b1ac46.jpg)
+![Market Chart 1](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-11-07_ding-a-ling-financial-santa-is-in-the-house-but-does-he-also-bring-rate-cuts_img_image00528929_a20c68b1ac46.jpg)
 
 > **Figure 1: Market Chart 1**  
-> **Interactive Data & Source:** [Reuters](https://www.reuters.com/world/us/us-republicans-want-higher-defense-spending-citing-ukraine-china-2022-03-23/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-11-07_ding-a-ling-financial-santa-is-in-the-house-but-does-he-also-bring-rate-cuts_img_image00528929_a20c68b1ac46.jpg)
+> **Interactive Data & Source:** [Reuters](https://www.reuters.com/world/us/us-republicans-want-higher-defense-spending-citing-ukraine-china-2022-03-23/) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-11-07_ding-a-ling-financial-santa-is-in-the-house-but-does-he-also-bring-rate-cuts_img_image00528929_a20c68b1ac46.jpg)
 
 Additionally, bond futures had a lot of short positions, which allowed for a short squeeze (traders giving up on their bets against bonds).
 
@@ -59,17 +59,17 @@ In an age where robots run trading, it stands to reason that past trends would t
 
 Thus, the combination of a rate pause confirmation along with a fiscal year-end for funds and short positioning catalysed a broad-based asset rally.
 
-![Market Chart 2](assets/2023-11-07_ding-a-ling-financial-santa-is-in-the-house-but-does-he-also-bring-rate-cuts_img_image006281629_20ac45e25e34.jpg)
+![Market Chart 2](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-11-07_ding-a-ling-financial-santa-is-in-the-house-but-does-he-also-bring-rate-cuts_img_image006281629_20ac45e25e34.jpg)
 
 > **Figure 2: Market Chart 2**  
-> **Interactive Data & Source:** [Reuters](https://www.reuters.com/world/us/us-republicans-want-higher-defense-spending-citing-ukraine-china-2022-03-23/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-11-07_ding-a-ling-financial-santa-is-in-the-house-but-does-he-also-bring-rate-cuts_img_image006281629_20ac45e25e34.jpg)
+> **Interactive Data & Source:** [Reuters](https://www.reuters.com/world/us/us-republicans-want-higher-defense-spending-citing-ukraine-china-2022-03-23/) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-11-07_ding-a-ling-financial-santa-is-in-the-house-but-does-he-also-bring-rate-cuts_img_image006281629_20ac45e25e34.jpg)
 
 The next big question for investors is now: when are the rate cuts? A market expectation of ten months seems reasonable on paper.
 
-![Market Chart 3](assets/2023-11-07_ding-a-ling-financial-santa-is-in-the-house-but-does-he-also-bring-rate-cuts_img_image00728529_adf25e73f161.jpg)
+![Market Chart 3](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-11-07_ding-a-ling-financial-santa-is-in-the-house-but-does-he-also-bring-rate-cuts_img_image00728529_adf25e73f161.jpg)
 
 > **Figure 3: Market Chart 3**  
-> **Interactive Data & Source:** [Reuters](https://www.reuters.com/world/us/us-republicans-want-higher-defense-spending-citing-ukraine-china-2022-03-23/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-11-07_ding-a-ling-financial-santa-is-in-the-house-but-does-he-also-bring-rate-cuts_img_image00728529_adf25e73f161.jpg)
+> **Interactive Data & Source:** [Reuters](https://www.reuters.com/world/us/us-republicans-want-higher-defense-spending-citing-ukraine-china-2022-03-23/) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-11-07_ding-a-ling-financial-santa-is-in-the-house-but-does-he-also-bring-rate-cuts_img_image00728529_adf25e73f161.jpg)
 
 However, in this writer’s humble opinion, investors betting heavily on a half-year rate cut could be rushing things.
 
@@ -79,9 +79,9 @@ Second, rate hikes aren’t the be-all-and-end-all. Money can still get more exp
 
 Third, markets are just bad at predicting rates. Once, a former boss with a great grasp of private banking and a legendary poor sense of humour told me that “if you are a bear, you should think about changing professions”. Bullishness may be good for stocks, but it might not work for bonds. And it certainly doesn’t work for rate expectations. In the past year and a half, investors have grossly underestimated the Fed’s rate intentions. This time last year, markets were pricing in the first rate cuts as early as September 2023 (when rates in fact peaked). Two years ago, a maximum of two rate cuts was predicted for 2022. Five months later, when the Fed had declared that it aimed to fight inflation and the war in Ukraine had erupted, no more than five hikes were priced in. The Fed ended up hiking 17 times!
 
-![Market Chart 4](assets/2023-11-07_ding-a-ling-financial-santa-is-in-the-house-but-does-he-also-bring-rate-cuts_img_image00528929_a20c68b1ac46.jpg)
+![Market Chart 4](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-11-07_ding-a-ling-financial-santa-is-in-the-house-but-does-he-also-bring-rate-cuts_img_image00528929_a20c68b1ac46.jpg)
 
 > **Figure 4: Market Chart 4**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-11-07_ding-a-ling-financial-santa-is-in-the-house-but-does-he-also-bring-rate-cuts_img_image00528929_a20c68b1ac46.jpg)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-11-07_ding-a-ling-financial-santa-is-in-the-house-but-does-he-also-bring-rate-cuts_img_image00528929_a20c68b1ac46.jpg)
 
 **So, in conclusion, the Santa rally could be already here, as it is most years. A good part of that may have already happened last week, although history suggests there could be more. But that is very much a trading and past trends exercise. Equity and bond investors counting on swift rate cuts would do well to remember that their scenario might not necessarily be one of linear normality. It is more likely that they are betting on a financial accident, or some other sort of issue that would force central banks to perform emergency rate cuts.**

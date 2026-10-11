@@ -19,10 +19,10 @@ source_file: "corpus/03-breakwave/insights/2023/2023-09-04_brs-dry-bulk-weekly-n
 
 ---
 
-![Brs Shipbrokers Monogram Logo](assets/2023-09-04_brs-dry-bulk-weekly-newsletter_img_brs-shipbrokers-monogram-logo_ee79606c8e74.png)
+![Brs Shipbrokers Monogram Logo](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-09-04_brs-dry-bulk-weekly-newsletter_img_brs-shipbrokers-monogram-logo_ee79606c8e74.png)
 
 > **Figure 1: Brs Shipbrokers Monogram Logo**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-09-04_brs-dry-bulk-weekly-newsletter_img_brs-shipbrokers-monogram-logo_ee79606c8e74.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-09-04_brs-dry-bulk-weekly-newsletter_img_brs-shipbrokers-monogram-logo_ee79606c8e74.png)
 
 ## A Different Perspective on China’s Surprising Surge in Coal Imports
 
@@ -32,28 +32,28 @@ A recent piece of observation provides food for thought. According to data from 
 
 This change contradicts China's long-standing policies. In recent years, the thermal power industry has rigorously followed Beijing’s vision on decarbonization, implementing energy-saving and emission-reduction requirements. Efforts have included the phasing-out of small-sized and highly polluting thermal power plants and the introduction of a large number of more advanced and environmentally friendly units and technologies to enhance efficiency. Notably, energy-saving and emission-reduction initiatives have yielded significant results. This is evident in the consistent decline of standard coal consumption rates over the past decade (as shown in the graph below). The standard coal consumption per electricity generation unit decreased from 326 g/kilowatt-hour in 2012 to 301.5 g/kilowatt-hour in 2022, maintaining its position at the forefront of global coal-fired power plant standards.
 
-![1 (5)](assets/2023-09-04_brs-dry-bulk-weekly-newsletter_img_128529_06eeb9514d6b.png)
+![1 (5)](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-09-04_brs-dry-bulk-weekly-newsletter_img_128529_06eeb9514d6b.png)
 
 > **Figure 2: 1 (5)**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-09-04_brs-dry-bulk-weekly-newsletter_img_128529_06eeb9514d6b.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-09-04_brs-dry-bulk-weekly-newsletter_img_128529_06eeb9514d6b.png)
 
 However, since 2021, against the backdrop of persistent high global coal prices (as shown in the graph below), there has been a consensus that major Chinese power plants are procuring thermal coal with lower caloric value, leading to many criticisms.
 
 In an attempt to maximize profits while fulfilling their long-term contracts (to ensure coal supply, the government requires power plants to establish long-term contracts with coal mines, securing a minimum of 90% of their coal supply), many domestic miners chose to blend their coal outputs with rocks, thereby leading to a decline in the caloric value of the raw coal produced. At the same time, facing significant cost pressures if sourcing the substitutes from the spot market, power plants were compelled to accept this change to secure coal supply while controlling their power generation costs. As a result, power plants adjusted their power generation units to accommodate coal inputs with lower caloric value which continues to the present day.
 
-![1 (6)](assets/2023-09-04_brs-dry-bulk-weekly-newsletter_img_128629_f57443657488.png)
+![1 (6)](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-09-04_brs-dry-bulk-weekly-newsletter_img_128629_f57443657488.png)
 
 > **Figure 3: 1 (6)**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-09-04_brs-dry-bulk-weekly-newsletter_img_128629_f57443657488.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-09-04_brs-dry-bulk-weekly-newsletter_img_128629_f57443657488.png)
 
 According to statistics from the China Electricity Council, the caloric value of coal decreased by over 100 Kcal/kg in both 2022 and 2021 with this trend continuing into this year. Accordingly, major power generation groups have reported that the average caloric value of coal in their long-term contracts for January to April 2023 decreased by over 100 Kcal/kg compared to the same period last year. As coal quality deteriorates, it implies an increase in the volume of coal consumed to generate the same amount of energy. By comparing the balance sheets for the first halves of 2023 and 2022 below, we observe that this incremental unit standard coal consumption of 0.8 g/kilowatt-hour for power generation further magnifies the supply gap in China's domestically produced coal. In the first half of 2022, after subtracting the coal consumption for power generation, there was a surplus of 550 mln mt of domestically produced coal available for other industries (steel, cement, etc.).
 
 However, this figure has decreased to 520 million tons across the same period this year. It becomes evident that China's increased coal production in the first half of this year cannot offset the supply gap caused by the declining coal quality and there the supply deficit of nearly 30 mln mt necessitates the import of coal to fill the gap.
 
-![1 (2)](assets/2023-09-04_brs-dry-bulk-weekly-newsletter_img_128229_9413f48a288d.png)
+![1 (2)](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-09-04_brs-dry-bulk-weekly-newsletter_img_128229_9413f48a288d.png)
 
 > **Figure 4: 1 (2)**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-09-04_brs-dry-bulk-weekly-newsletter_img_128229_9413f48a288d.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-09-04_brs-dry-bulk-weekly-newsletter_img_128229_9413f48a288d.png)
 
 The decline in coal quality has led to many consequences. Not only does it increase raw coal consumption and transportation costs, but it also brings more challenges to power plants, leading to potential equipment failures and other safety risks. Particularly during peak summer and winter demand, the decline in coal's caloric value not only restricts peak power generation capacity, impacting the grid and electricity supply, but also raises the risk of city blackouts and heightens grid vulnerability. Such instances have occurred multiple times in various regions across China, especially the provinces more highly relying on long term domestic coal contracts. For example, in a power plant in Yunnan province, while coal stockpiles covered 24 days of forward demand by volume, the actual usable days were less than 14 days due to the coal failing to meet the minimum caloric value standards of the power generation devices. We believe this is largely a short-term compromise by end buyers considering the existing high spot coal price levels. Looking forward we anticipate that power plants will likely burn higher calorific value coal in the future to improve their supply stability and economic feasibility.
 
@@ -61,7 +61,7 @@ Considering current domestic coal mining measures, a decline in coal quality bec
 
 Prior to the pandemic, China annually imported around 100 mln mt of coal from Australia and Russia, comprising around 40% of its total annual imports. With the expectation of China's imports returning to the normal level of 300 mln mt next year (considering the current coal tariffs expiration and a further narrowing of imported coal price advantages), we anticipate that the share of coal from Australia and Russia will remain flat or could even increase. Considering the greater shipping distance from Australia and Russia to China compared with Indonesia (as shown in the table below), it is expected to provide support for freight rates with longer ton-miles for Australian and Russian voyages. Vessel type-wise, it is projected that Capesizes (160,000-220,000 dwt) are likely to see the most benefit. Meanwhile, Panamaxes (68,000-85,000 dwt) should remain relatively stable, although smaller Supramaxes (50,000-68,000 dwt) could potentially face substantial headwinds.
 
-![1 (3)](assets/2023-09-04_brs-dry-bulk-weekly-newsletter_img_128329_1a44365f8bb0.png)
+![1 (3)](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-09-04_brs-dry-bulk-weekly-newsletter_img_128329_1a44365f8bb0.png)
 
 > **Figure 5: 1 (3)**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-09-04_brs-dry-bulk-weekly-newsletter_img_128329_1a44365f8bb0.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-09-04_brs-dry-bulk-weekly-newsletter_img_128329_1a44365f8bb0.png)

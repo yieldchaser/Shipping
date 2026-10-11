@@ -36,11 +36,11 @@ The freight market is now characterized by a steady and substantial growth due t
 The below extract from the “Market Rates” Reports in the Signal Ocean Platform, illustrates the increase in spot market rates in $/ton terms, where we can see freight rate developments for various dry routes in the Atlantic & Pacific since the beginning of 2021.
 
 
-![Market Rates Report, Summarizes the Evolution of Spot Freight Rates From January 2018 Up to Year to Date for All Major Supramax Trading Routes for a Round and Trip Voyage in Pacific and Atlantic Areas.signal Ocean Platform Data.](../../images/66b51d32409364854bf6b8b7_60d33b6ede5cf0176d4d4f04_Market%20Rates%20report%20Signal%20Ocean%20-%20Supramax%20dry%20bulk.avif)
+![Market Rates Report, Summarizes the Evolution of Spot Freight Rates From January 2018 Up to Year to Date for All Major Supramax Trading Routes for a Round and Trip Voyage in Pacific and Atlantic Areas.signal Ocean Platform Data.](../../images/66b51d32409364854bf6b8b7_60d33b6ede5cf0176d4d4f04_Market%2520Rates%2520report%2520Signal%2520Ocean%2520-%2520Supramax%2520dry%2520bulk.avif)
 
 > **Chart 1: Market Rates Report, Summarizes the Evolution of Spot Freight Rates From January 2018 Up to Year to Date for All Major Supramax Trading Routes for a Round and Trip Voyage in Pacific and Atlantic Areas.signal Ocean Platform Data.**  
 > *Chart 1: Market Rates Report, summarizes the evolution of spot freight rates from January 2018 up to year to date for all major supramax trading routes for a round and trip voyage in Pacific and Atlantic areas.Signal Ocean Platform data.*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/dry-bulk-supramax-freight-market-surprises-for-the-first-half-2021) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/66b51d32409364854bf6b8b7_60d33b6ede5cf0176d4d4f04_Market%20Rates%20report%20Signal%20Ocean%20-%20Supramax%20dry%20bulk.avif)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/dry-bulk-supramax-freight-market-surprises-for-the-first-half-2021) | [Local Asset](../../../../../../corpus/07-signal/images/66b51d32409364854bf6b8b7_60d33b6ede5cf0176d4d4f04_Market%2520Rates%2520report%2520Signal%2520Ocean%2520-%2520Supramax%2520dry%2520bulk.avif)
 
 The chart above reveals the surprising rebound in dry market rates $/ton in ECSA to the Far East, where rates have jumped above $70/t in June and are nearing close to $80/t, compared to $42.5/t at the end of December 2020. Significant magnitude of increase is also viewed from USG to the Far East, where rates are above $60/t, from $41.6/t at the end of December 2020.
 
@@ -52,20 +52,20 @@ To understand further the current freight market dynamics of supramax bulkers, w
 The below extract from the Ballasters View Signal Ocean report, illustrates a progressive shortage of ballasters sailing from Atlantic West. The chart signals the trend of clearing out of tonnage that supports the current boost of the freight market sentiment from ECSA and USG to the Far East. The number of supramax bulkers sailing empty from Atlantic West has now decreased to less than 80 ships compared to more than 100 ships in mid-May.
 
 
-![Ballasters View Report, Summarizes the Trend of Ballast Supramax Bulkers Sailing From West Atlantic (Canada Atlantic Coast, US Atlantic Coast, Caribs, US Gulf, East Coast Central America, East Coast Mexico, Argentina & Uruguay & Brazil)](../../images/66b51d32409364854bf6b85d_60d33d26a382c559bb9c689a_balasters%20view%20supramax%20graph.avif)
+![Ballasters View Report, Summarizes the Trend of Ballast Supramax Bulkers Sailing From West Atlantic (Canada Atlantic Coast, US Atlantic Coast, Caribs, US Gulf, East Coast Central America, East Coast Mexico, Argentina & Uruguay & Brazil)](../../images/66b51d32409364854bf6b85d_60d33d26a382c559bb9c689a_balasters%2520view%2520supramax%2520graph.avif)
 
 > **Chart 2: Ballasters View Report, Summarizes the Trend of Ballast Supramax Bulkers Sailing From West Atlantic (Canada Atlantic Coast, US Atlantic Coast, Caribs, US Gulf, East Coast Central America, East Coast Mexico, Argentina & Uruguay & Brazil)**  
 > *Chart 2: Ballasters View Report, summarizes the trend of ballast supramax bulkers sailing from West Atlantic (Canada Atlantic Coast, US Atlantic Coast, Caribs, US Gulf, East Coast Central America, East Coast Mexico, Argentina & Uruguay & Brazil). Signal Ocean Platform data.*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/dry-bulk-supramax-freight-market-surprises-for-the-first-half-2021) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/66b51d32409364854bf6b85d_60d33d26a382c559bb9c689a_balasters%20view%20supramax%20graph.avif)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/dry-bulk-supramax-freight-market-surprises-for-the-first-half-2021) | [Local Asset](../../../../../../corpus/07-signal/images/66b51d32409364854bf6b85d_60d33d26a382c559bb9c689a_balasters%2520view%2520supramax%2520graph.avif)
 
 To illustrate further the trends of ballast supramax bulkers from Atlantic and laden to Pacifc Asia, chart 3 is an extract from Fleet Current Area Signal Ocean report.
 
 
-![Current Fleet Allocation Report, Demonstrates the Current Position of the Global Fleet Based on AIS Destination and Last Movement Date Time Utc Referring to the Latest AIS of the Vessel](../../images/66b51d32409364854bf6b89a_60d34bc2d96be535750a5566_Fleet%20Current%20Area.avif)
+![Current Fleet Allocation Report, Demonstrates the Current Position of the Global Fleet Based on AIS Destination and Last Movement Date Time Utc Referring to the Latest AIS of the Vessel](../../images/66b51d32409364854bf6b89a_60d34bc2d96be535750a5566_Fleet%2520Current%2520Area.avif)
 
 > **Chart 3: Current Fleet Allocation Report, Demonstrates the Current Position of the Global Fleet Based on AIS Destination and Last Movement Date Time Utc Referring to the Latest AIS of the Vessel**  
 > *Chart 3:Current Fleet Allocation Report, demonstrates the current position of the global fleet based on AIS destination and last movement date time UTC referring to the latest AIS of the vessel. Signal Ocean Platform data.*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/dry-bulk-supramax-freight-market-surprises-for-the-first-half-2021) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/66b51d32409364854bf6b89a_60d34bc2d96be535750a5566_Fleet%20Current%20Area.avif)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/dry-bulk-supramax-freight-market-surprises-for-the-first-half-2021) | [Local Asset](../../../../../../corpus/07-signal/images/66b51d32409364854bf6b89a_60d34bc2d96be535750a5566_Fleet%2520Current%2520Area.avif)
 
 
 ## Demand Trends - Cargo Flows
@@ -73,18 +73,18 @@ To illustrate further the trends of ballast supramax bulkers from Atlantic and l
 The below extract (chart 4) from the Cargo Flows Signal Ocean report reveals the increasing trend in monthly volumes for the year 2021 compared to 2019 & 2020. In March, April and May, the monthly volume of cargo flows surpassed 130 Mil tons. In chart 5, we see the ranking of the countries of destination for 2021 with China holding the top position throughout the year (34% of cargo volumes are destined to China, 253 Mil tons).
 
 
-![Cargo Flows Report, Demonstrates the Evolution of Cargo Volume per Month Over the Last Three Years](../../images/66b51d32409364854bf6b860_60d33eb0d3fed5764e1df11c_caro%20flows%20last%203%20years%20all%20area.avif)
+![Cargo Flows Report, Demonstrates the Evolution of Cargo Volume per Month Over the Last Three Years](../../images/66b51d32409364854bf6b860_60d33eb0d3fed5764e1df11c_caro%2520flows%2520last%25203%2520years%2520all%2520area.avif)
 
 > **Chart 4: Cargo Flows Report, Demonstrates the Evolution of Cargo Volume per Month Over the Last Three Years**  
 > *Chart 4: Cargo flows Report, demonstrates the evolution of cargo volume per month over the last three years. Signal Ocean Platform data.*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/dry-bulk-supramax-freight-market-surprises-for-the-first-half-2021) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/66b51d32409364854bf6b860_60d33eb0d3fed5764e1df11c_caro%20flows%20last%203%20years%20all%20area.avif)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/dry-bulk-supramax-freight-market-surprises-for-the-first-half-2021) | [Local Asset](../../../../../../corpus/07-signal/images/66b51d32409364854bf6b860_60d33eb0d3fed5764e1df11c_caro%2520flows%2520last%25203%2520years%2520all%2520area.avif)
 
 
-![Cargo Flows Report, Demonstrates the Cargo Volumes to Countries of Destination as Percentage to Total Volume of Cargo Flows.signal Ocean Platform Data.](../../images/66b51d32409364854bf6b848_60d34ecf36707f5ef574c995_cargo%20flows%20-%20destination%20countries.avif)
+![Cargo Flows Report, Demonstrates the Cargo Volumes to Countries of Destination as Percentage to Total Volume of Cargo Flows.signal Ocean Platform Data.](../../images/66b51d32409364854bf6b848_60d34ecf36707f5ef574c995_cargo%2520flows%2520-%2520destination%2520countries.avif)
 
 > **Chart 5: Cargo Flows Report, Demonstrates the Cargo Volumes to Countries of Destination as Percentage to Total Volume of Cargo Flows.signal Ocean Platform Data.**  
 > *Chart 5: Cargo flows Report, demonstrates the cargo volumes to countries of destination as percentage to total volume of cargo flows.Signal Ocean Platform data.*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/dry-bulk-supramax-freight-market-surprises-for-the-first-half-2021) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/66b51d32409364854bf6b848_60d34ecf36707f5ef574c995_cargo%20flows%20-%20destination%20countries.avif)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/dry-bulk-supramax-freight-market-surprises-for-the-first-half-2021) | [Local Asset](../../../../../../corpus/07-signal/images/66b51d32409364854bf6b848_60d34ecf36707f5ef574c995_cargo%2520flows%2520-%2520destination%2520countries.avif)
 
 
 ## Average Speed
@@ -92,11 +92,11 @@ The below extract (chart 4) from the Cargo Flows Signal Ocean report reveals the
 The strength in the current market conditions is also evidenced in the continuous increase in average laden speeds since January 2021, peaking at 12.2knots this month, up by 4% from 2020’s June average, despite [bunker prices](/newsroom/bunkering-ports-competing-on-price-product-update)being on the rise. (Chart 6: Supramax Bulker average laden speed in knots)
 
 
-![Charts 6 & 7: Vessel Speeds Report, the Vessel Speeds of Seagoing Laden Vessels’ Figure Captures the Average Speed of All the Vessels That Had Broadcasted AIS Data Over Selected Areas](../../images/66b51d32409364854bf6b863_60d346cdf06c3e14809df569_Laden%20average%20vessel%20speed.avif)
+![Charts 6 & 7: Vessel Speeds Report, the Vessel Speeds of Seagoing Laden Vessels’ Figure Captures the Average Speed of All the Vessels That Had Broadcasted AIS Data Over Selected Areas](../../images/66b51d32409364854bf6b863_60d346cdf06c3e14809df569_Laden%2520average%2520vessel%2520speed.avif)
 
 > **Figure 6: Charts 6 & 7: Vessel Speeds Report, the Vessel Speeds of Seagoing Laden Vessels’ Figure Captures the Average Speed of All the Vessels That Had Broadcasted AIS Data Over Selected Areas**  
 > *Charts 6 & 7: Vessel Speeds Report, the vessel speeds of seagoing laden vessels’ figure captures the average speed of all the vessels that had broadcasted AIS data over selected areas. The ‘’number of seagoing laden vessels’’ captures the average number of vessels that contributed to the vessel speed figure.Signal Ocean Platform data.*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/dry-bulk-supramax-freight-market-surprises-for-the-first-half-2021) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/66b51d32409364854bf6b863_60d346cdf06c3e14809df569_Laden%20average%20vessel%20speed.avif)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/dry-bulk-supramax-freight-market-surprises-for-the-first-half-2021) | [Local Asset](../../../../../../corpus/07-signal/images/66b51d32409364854bf6b863_60d346cdf06c3e14809df569_Laden%2520average%2520vessel%2520speed.avif)
 
 In parallel with the increase of average laden speed, the number of seagoing operating vessels has moved up to 1290 ships, which is 9% higher than 2020’s June level and 17% up compared to lows of October 2020 of 1107 ships. (Chart 7: Average Number of Seagoing Supramax Bulkers-Laden)
 
@@ -108,11 +108,11 @@ The current trend of laden speed and volume of seagoing operating vessels signal
 Following the rebound in freight market rates, dry bulk spending for second hand tonnage is up and the combination of strong rates with high S&P activity has seen values increase. Among dry bulkers, supramaxes appear with the highest monthly differential in benchmark values for all age categories. The highest monthly increase is in the 5year old ship, ($1.80M more) and in the 10year old ship, ($1.60M more), whereas bigger ship sizes, capesize and panamax have moved at a softer price pace. In the below tables, the monthly differences are presented for second benchmark values from handysize bulkers up to capesize.
 
 
-![Tables 1&2: Benchmark Values Report, Values and Their Trend Are Estimated by Aggregating a List of Widely Distributed Sales & Purchases Transactions](../../images/66b51d32409364854bf6b866_60d347a6381b5843f1084b01_benchmark%20values%20supramax%20signal%20ocean%20report.avif)
+![Tables 1&2: Benchmark Values Report, Values and Their Trend Are Estimated by Aggregating a List of Widely Distributed Sales & Purchases Transactions](../../images/66b51d32409364854bf6b866_60d347a6381b5843f1084b01_benchmark%2520values%2520supramax%2520signal%2520ocean%2520report.avif)
 
 > **Figure 7: Tables 1&2: Benchmark Values Report, Values and Their Trend Are Estimated by Aggregating a List of Widely Distributed Sales & Purchases Transactions**  
 > *Tables 1&2: Benchmark Values Report, Values and their trend are estimated by aggregating a list of widely distributed Sales & Purchases transactions. Valuations are based on a benchmark vessel per vessel class with Deadweight : Capesize - 180.000 Tonnes, Panamax Dry - 75.000 Tonnes, Supramax - 60.000 Tonnes, Handysize - 38.000 Tonnes. Signal Ocean Platform data.*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/dry-bulk-supramax-freight-market-surprises-for-the-first-half-2021) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/66b51d32409364854bf6b866_60d347a6381b5843f1084b01_benchmark%20values%20supramax%20signal%20ocean%20report.avif)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/dry-bulk-supramax-freight-market-surprises-for-the-first-half-2021) | [Local Asset](../../../../../../corpus/07-signal/images/66b51d32409364854bf6b866_60d347a6381b5843f1084b01_benchmark%2520values%2520supramax%2520signal%2520ocean%2520report.avif)
 
 
 ## The View for Coming Days

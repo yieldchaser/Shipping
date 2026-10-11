@@ -25,7 +25,7 @@ source_file: "corpus/03-breakwave/insights/2021/2021-03-23_the-weather-gods-are-
 ![Unsplash Image 5mh8iz9vqpy](assets/2021-03-23_the-weather-gods-are-siding-with-the-shipowners_img_unsplash-image-5mh8iz9vqpy_0e2e6df1211d.jpg)
 
 > **Figure 1: Unsplash Image 5mh8iz9vqpy**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2021/assets/2021-03-23_the-weather-gods-are-siding-with-the-shipowners_img_unsplash-image-5mh8iz9vqpy_0e2e6df1211d.jpg)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-03-23_the-weather-gods-are-siding-with-the-shipowners_img_unsplash-image-5mh8iz9vqpy_0e2e6df1211d.jpg)
 
 “Red sky at night, sailors delight”, the old saying suggests that a beautiful red sky at the sunset would bring good weather conditions at sea the following day and make the day a bit easier for the seafarers. However, adverse meteorological conditions are on the other hand, albeit within reason, good news for the shipowners, as they can disrupt the tonnage supply in a short space of time and fuel higher freight rates. Difficult weather conditions, such as storms, may force vessels to take a longer route or to slow down to avoid the worst impact. Bad weather conditions can also impair the cargo operations in ports and cause delays and congestions, which will also contribute to a reduction of available tonnage.
 
@@ -38,7 +38,7 @@ The Australian Bureau of Meteorology does expect the storms to ease during the m
 ![Unsplash Image Dasq9zhroxy](assets/2021-03-23_the-weather-gods-are-siding-with-the-shipowners_img_unsplash-image-dasq9zhroxy_e7f75dce38c1.jpg)
 
 > **Figure 2: Unsplash Image Dasq9zhroxy**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2021/assets/2021-03-23_the-weather-gods-are-siding-with-the-shipowners_img_unsplash-image-dasq9zhroxy_e7f75dce38c1.jpg)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-03-23_the-weather-gods-are-siding-with-the-shipowners_img_unsplash-image-dasq9zhroxy_e7f75dce38c1.jpg)
 
 Adverse weather conditions may not affect the aggregate levels of demand for commodities, but it adds to the inefficiencies in the supply-chains. Port delays and re-routing due to adverse meteorological conditions reduce the supply of available tonnage, while finding alternative sources of commodities may increase the tonne-mile demand. Severe weather conditions are also contributing to the freight rate volatility, as fleet dislocation becomes more of an issue and shortages in import ports making the demand for transportation unelastic and reducing the price sensitivity.
 

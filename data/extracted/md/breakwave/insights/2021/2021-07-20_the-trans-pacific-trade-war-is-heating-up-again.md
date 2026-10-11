@@ -35,7 +35,7 @@ According to cargo tracking data from Oceanbolt, the first half of the year has 
 ![A1](assets/2021-07-20_the-trans-pacific-trade-war-is-heating-up-again_img_a1_a7556c919475.png)
 
 > **Figure 1: A1**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2021/assets/2021-07-20_the-trans-pacific-trade-war-is-heating-up-again_img_a1_a7556c919475.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-07-20_the-trans-pacific-trade-war-is-heating-up-again_img_a1_a7556c919475.png)
 
 If Washington is successful in its quest to increase access to the Chinese markets for its farmers and maintain the pressure on Beijing to live up to its commitments under the Phase One agreement, the second half of the year could see continued strong demand for American agricultural exports from Chinese buyers. This would be good news for the dry bulk shipping sector, as the trade involves long distances which tie up vessels for longer periods. However, the lack of rain in parts of the U.S. Mid-West could limit the upside of the volumes.
 

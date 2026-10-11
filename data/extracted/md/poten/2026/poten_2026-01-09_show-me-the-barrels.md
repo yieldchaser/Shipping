@@ -53,14 +53,23 @@ There were some major changes in the Aframax segment. Vitol reclaimed the top sp
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: Show Me The Barrels](../../../charts/poten/2026/poten_2026-01-09_show-me-the-barrels_chart1.png)
+![Exhibit 1: 2025: Top 10 VLCC Spot Charterers](../../../charts/poten/2026/poten_2026-01-09_show-me-the-barrels_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2026/poten_2026-01-09_show-me-the-barrels_chart1.png)
+> **Exhibit 1: 2025: Top 10 VLCC Spot Charterers**  
+> Unit: Fixtures · X-axis: Unipec to GS CALTEX  
+> Series: Unipec, Petrobras, ExxonMobil, Total, IOC, Petrochina, SK Corp, Shell, Chevron, GS CALTEX  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2026/poten_2026-01-09_show-me-the-barrels_chart1.png)
 
-![Exhibit 2: Show Me The Barrels](../../../charts/poten/2026/poten_2026-01-09_show-me-the-barrels_chart2.png)
+![Exhibit 2: 2025: Top 10 Suezmax Spot Charterers](../../../charts/poten/2026/poten_2026-01-09_show-me-the-barrels_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2026/poten_2026-01-09_show-me-the-barrels_chart2.png)
+> **Exhibit 2: 2025: Top 10 Suezmax Spot Charterers**  
+> Unit: Fixtures · X-axis: Total to TRAFIGURA  
+> Series: Total, Chevron, ExxonMobil, REPSOL, Shell, VITOL, IOC, BP, BPCL, TRAFIGURA  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2026/poten_2026-01-09_show-me-the-barrels_chart2.png)
 
-![Exhibit 3: Show Me The Barrels](../../../charts/poten/2026/poten_2026-01-09_show-me-the-barrels_chart3.png)
+![Exhibit 3: 2025: Top 10 Aframax Spot Charterers](../../../charts/poten/2026/poten_2026-01-09_show-me-the-barrels_chart3.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2026/poten_2026-01-09_show-me-the-barrels_chart3.png)
+> **Exhibit 3: 2025: Top 10 Aframax Spot Charterers**  
+> Unit: Fixtures · X-axis: VITOL to ENI  
+> Series: VITOL, SOCAR, Total, BP, Chevron, Glencore, PKN ORLEN, REPSOL, ExxonMobil, ENI  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2026/poten_2026-01-09_show-me-the-barrels_chart3.png)

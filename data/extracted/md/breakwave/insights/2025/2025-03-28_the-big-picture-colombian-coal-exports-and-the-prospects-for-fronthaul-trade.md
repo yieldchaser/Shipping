@@ -32,10 +32,10 @@ The monthly flow into Asia has varied, determined by comparative cost advantages
 
 Since then, thermal coal price declines in Asia (particularly noticeable over the last four months) have been less advantageous to Colombian exporters.
 
-![Bdbd Image 0 1743096197949](assets/2025-03-28_the-big-picture-colombian-coal-exports-and-the-prospects-for-fronthaul-trade_img_bdbd-image-0-1743096197949_91b888e7ae08.png)
+![Bdbd Image 0 1743096197949](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-03-28_the-big-picture-colombian-coal-exports-and-the-prospects-for-fronthaul-trade_img_bdbd-image-0-1743096197949_91b888e7ae08.png)
 
 > **Figure 1: Bdbd Image 0 1743096197949**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-03-28_the-big-picture-colombian-coal-exports-and-the-prospects-for-fronthaul-trade_img_bdbd-image-0-1743096197949_91b888e7ae08.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-03-28_the-big-picture-colombian-coal-exports-and-the-prospects-for-fronthaul-trade_img_bdbd-image-0-1743096197949_91b888e7ae08.png)
 
 A year ago, the Colombian 6,000kc thermal coal FOB price enjoyed a discount to its Australian equivalent of more than $30/t. This week that discount had been squeezed to around $5/t.
 
@@ -55,10 +55,10 @@ However, the 2023/24 surge in the Capesize share is less obvious on this chart d
 
 As shipments into Europe in 2015-21 were 80-90% Capes, the weakening appetite for coal from the continent has helped lower Capesize involvement in Colombia’s coal trades.
 
-![F460 Image 1 1743096241411](assets/2025-03-28_the-big-picture-colombian-coal-exports-and-the-prospects-for-fronthaul-trade_img_f460-image-1-1743096241411_2417cceae33a.png)
+![F460 Image 1 1743096241411](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-03-28_the-big-picture-colombian-coal-exports-and-the-prospects-for-fronthaul-trade_img_f460-image-1-1743096241411_2417cceae33a.png)
 
 > **Figure 2: F460 Image 1 1743096241411**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-03-28_the-big-picture-colombian-coal-exports-and-the-prospects-for-fronthaul-trade_img_f460-image-1-1743096241411_2417cceae33a.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-03-28_the-big-picture-colombian-coal-exports-and-the-prospects-for-fronthaul-trade_img_f460-image-1-1743096241411_2417cceae33a.png)
 
 ---
 

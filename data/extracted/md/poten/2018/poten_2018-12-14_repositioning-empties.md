@@ -30,10 +30,17 @@ While this development may not drive the tanker market by itself, it is a factor
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: Repositioning Empties](../../../charts/poten/2018/poten_2018-12-14_repositioning-empties_chart1.png)
+![Exhibit 1: VLCC Import Voyages Into The Atlantic Basin](../../../charts/poten/2018/poten_2018-12-14_repositioning-empties_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2018/poten_2018-12-14_repositioning-empties_chart1.png)
+> **Exhibit 1: VLCC Import Voyages Into The Atlantic Basin**  
+> Unit: Voyages · X-axis: Jan-15 to Oct-18  
+> Series: US Gulf, UKC/Baltic, Med, Caribbean  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2018/poten_2018-12-14_repositioning-empties_chart1.png)
 
-![Exhibit 2: Repositioning Empties](../../../charts/poten/2018/poten_2018-12-14_repositioning-empties_chart2.png)
+![Exhibit 2: VLCC Export Voyages Out Of The Atlantic Basin](../../../charts/poten/2018/poten_2018-12-14_repositioning-empties_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2018/poten_2018-12-14_repositioning-empties_chart2.png)
+> **Exhibit 2: VLCC Export Voyages Out Of The Atlantic Basin**  
+> Unit: Voyages · X-axis: Jan-15 to Oct-18  
+> Series: US Gulf, Caribbean/ECSAM, UKC/Baltic, WAF, Med  
+> *Source: Lloyd’s List Intelligence*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2018/poten_2018-12-14_repositioning-empties_chart2.png)

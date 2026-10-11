@@ -32,10 +32,18 @@ The outlook for the Jones Act tanker has definitely darkened as a result of the 
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: Cloudy With a Chance of Rate Falls](../../../charts/poten/2015/poten_2015-10-02_cloudy-with-a-chance-of-rate-falls_chart1.png)
+![Exhibit 1: Jones Act Barge Spot Rates versus U.S. Crude Production](../../../charts/poten/2015/poten_2015-10-02_cloudy-with-a-chance-of-rate-falls_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2015/poten_2015-10-02_cloudy-with-a-chance-of-rate-falls_chart1.png)
+> **Exhibit 1: Jones Act Barge Spot Rates versus U.S. Crude Production**  
+> Unit: $/bbl | Mb/d · X-axis: Jan-2010 to Jul-2015  
+> Series: NY-Boston, NY-Philadelphia, US Crude Production  
+> *Source: Poten & Partners / EIA*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2015/poten_2015-10-02_cloudy-with-a-chance-of-rate-falls_chart1.png)
 
-![Exhibit 2: Cloudy With a Chance of Rate Falls](../../../charts/poten/2015/poten_2015-10-02_cloudy-with-a-chance-of-rate-falls_chart2.png)
+![Exhibit 2: Domestic Crude Delivered to Refineries by Mode of Transportation](../../../charts/poten/2015/poten_2015-10-02_cloudy-with-a-chance-of-rate-falls_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2015/poten_2015-10-02_cloudy-with-a-chance-of-rate-falls_chart2.png)
+> **Exhibit 2: Domestic Crude Delivered to Refineries by Mode of Transportation**  
+> Unit: KB/day · X-axis: 2000 to 2014  
+> Series: Pipeline, Barge, Tanker, Rail, Truck  
+> *Source: EIA*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2015/poten_2015-10-02_cloudy-with-a-chance-of-rate-falls_chart2.png)

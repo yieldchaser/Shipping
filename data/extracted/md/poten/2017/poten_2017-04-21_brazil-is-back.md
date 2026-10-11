@@ -30,10 +30,17 @@ Looking ahead, the future looks promising for Brazilian production and exports a
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: Brazil is Back](../../../charts/poten/2017/poten_2017-04-21_brazil-is-back_chart1.png)
+![Exhibit 1: Brazil Crude Oil Exports by Vessel Class](../../../charts/poten/2017/poten_2017-04-21_brazil-is-back_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2017/poten_2017-04-21_brazil-is-back_chart1.png)
+> **Exhibit 1: Brazil Crude Oil Exports by Vessel Class**  
+> Unit: Kb/d · X-axis: Jan-15 to Mar-17  
+> Series: VLCC, Suezmax, Aframax, Panamax  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2017/poten_2017-04-21_brazil-is-back_chart1.png)
 
-![Exhibit 2: Brazil is Back](../../../charts/poten/2017/poten_2017-04-21_brazil-is-back_chart2.png)
+![Exhibit 2: Brazil Crude Oil Exports by Destination](../../../charts/poten/2017/poten_2017-04-21_brazil-is-back_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2017/poten_2017-04-21_brazil-is-back_chart2.png)
+> **Exhibit 2: Brazil Crude Oil Exports by Destination**  
+> Unit: Kb/d | % · X-axis: Jan-15 to Mar-17  
+> Series: East, West, East %  
+> *Source: Lloyd’s List Intelligence*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2017/poten_2017-04-21_brazil-is-back_chart2.png)

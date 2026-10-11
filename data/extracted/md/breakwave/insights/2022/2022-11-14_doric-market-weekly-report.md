@@ -35,17 +35,17 @@ The headline economic news this week though was neither related to the COP27 cli
 
 The energy index increased 17.6 percent for the 12 months ending October, and the food index increased 10.9 percent over the last year; all of these increases were smaller than for the period ending September.
 
-![Screenshot 20221114 114320 Samsung Notes](assets/2022-11-14_doric-market-weekly-report_img_screenshot-20221114-114320-samsungno_8e912ebed855.jpg)
+![Screenshot 20221114 114320 Samsung Notes](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-11-14_doric-market-weekly-report_img_screenshot-20221114-114320-samsungno_8e912ebed855.jpg)
 
 > **Figure 1: Screenshot 20221114 114320 Samsung Notes**  
-> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-11-14_doric-market-weekly-report_img_screenshot-20221114-114320-samsungno_8e912ebed855.jpg)
+> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-11-14_doric-market-weekly-report_img_screenshot-20221114-114320-samsungno_8e912ebed855.jpg)
 
 As expectations mounted that the Federal Reserve will increase interest rates by a lesser percentage next month compared to the recent increases, stock futures soared following the publication of the aforementioned figures. The S&P 500 surged by more than 5 percent after the data were published. The Nasdaq Composite surged by 7.35 percent – its best since March 2020 – closing at 11,114.15. Global stocks rose also on Friday – for a second day in a row – on hopes for less aggressive interest rate hikes from the Federal Reserve, an outlook that has the dollar facing its biggest two-day drop in almost 14 years.
 
-![Screenshot 20221114 114355 Samsung Notes](assets/2022-11-14_doric-market-weekly-report_img_screenshot-20221114-114355-samsungno_a46b1c6128ca.jpg)
+![Screenshot 20221114 114355 Samsung Notes](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-11-14_doric-market-weekly-report_img_screenshot-20221114-114355-samsungno_a46b1c6128ca.jpg)
 
 > **Figure 2: Screenshot 20221114 114355 Samsung Notes**  
-> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-11-14_doric-market-weekly-report_img_screenshot-20221114-114355-samsungno_a46b1c6128ca.jpg)
+> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-11-14_doric-market-weekly-report_img_screenshot-20221114-114355-samsungno_a46b1c6128ca.jpg)
 
 Nevertheless, the week was not over yet. On Friday, Beijing eased some of its draconian Covid rules, shortening quarantines by two days for close contacts and for inbound travellers and removing a penalty for airlines for bringing in too many cases. Additionally, China will stop trying to identify “secondary” contacts. Markets were cheered by the loosening of the curbs, albeit many sources stressing that these measures were only incremental and reopening possibly remained way off.
 

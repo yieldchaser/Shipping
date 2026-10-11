@@ -32,7 +32,7 @@ tags:
 ![Heading](../../images/69aff334df389c96c1bc975b_Screenshot 2026-03-10 at 10.31.28.png)
 
 > **Figure 1: Heading**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/dry-bulk-and-tanker-analytics-for-smarter-vessel-tracking) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/69aff334df389c96c1bc975b_Screenshot 2026-03-10 at 10.31.28.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/dry-bulk-and-tanker-analytics-for-smarter-vessel-tracking) | [Local Asset](../../../../../../corpus/07-signal/images/69aff334df389c96c1bc975b_Screenshot%202026-03-10%20at%2010.31.28.png)
 
 Knowing where a vessel is located tells you almost nothing about whether you should charter it, what freight rate to expect, or how congestion at the discharge port will affect your schedule. A position on a map is a starting point. The commercial decisions that drive dry bulk and tanker markets require context that AIS data alone cannot supply.
 

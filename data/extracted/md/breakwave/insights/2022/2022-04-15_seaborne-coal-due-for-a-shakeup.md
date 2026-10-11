@@ -32,10 +32,10 @@ Replacing Russian coal among some of its major importers will require trade flow
 
 In contrast to the ongoing Chinese ban on Australian coal, the Russian exports of the fossil fuel carry additional political luggage and may struggle to find alternative markets. At this stage, only China and India look to be realistic options, but any imports are likely to incur additional political costs. The US is also leaning diplomatically on India to limit any purchases of discounted commodities from Russia, a traditional ally of the South Asian nation. There have also been reports of Russian thermal coal becoming increasingly hard to sell despite significant discounts. Cargo order data from Shipfix also highlights the diminishing popularity of Russian coal, with volumes trending lower in recent weeks.
 
-![Ch1.jpg](assets/2022-04-15_seaborne-coal-due-for-a-shakeup_img_ch1jpg_b8f2fc4bbcfa.png)
+![Ch1.jpg](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-04-15_seaborne-coal-due-for-a-shakeup_img_ch1jpg_b8f2fc4bbcfa.png)
 
 > **Figure 1: Ch1.jpg**  
-> **Interactive Data & Source:** [Blog Shipfix](https://blog.shipfix.com/market/shipfixs-weekly-market-blog-4-india-key-to-changing-trade-patterns) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-04-15_seaborne-coal-due-for-a-shakeup_img_ch1jpg_b8f2fc4bbcfa.png)
+> **Interactive Data & Source:** [Blog Shipfix](https://blog.shipfix.com/market/shipfixs-weekly-market-blog-4-india-key-to-changing-trade-patterns) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-04-15_seaborne-coal-due-for-a-shakeup_img_ch1jpg_b8f2fc4bbcfa.png)
 
 Source: Shipfix
 
@@ -45,19 +45,19 @@ Japanese and European imports of Russian coal have typically benefitted from rel
 
 In recent weeks, cargo order data for coal discharging in Europe or Japan have been robust. European volumes have reached the highest ever, possibly in anticipation of sanctions on Russian trade. Likewise, ordering activities for coal to be discharged in Japanese ports have remained firm in recent weeks. However, rising natural gas prices amid limited supplies are also likely to have contributed to the rise in orders, as electricity providers have been forced to increase their thermal coal use.
 
-![Ch2](assets/2022-04-15_seaborne-coal-due-for-a-shakeup_img_ch2_5ed6502ef878.png)
+![Ch2](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-04-15_seaborne-coal-due-for-a-shakeup_img_ch2_5ed6502ef878.png)
 
 > **Figure 2: Ch2**  
-> **Interactive Data & Source:** [Blog Shipfix](https://blog.shipfix.com/market/shipfixs-weekly-market-blog-4-india-key-to-changing-trade-patterns) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-04-15_seaborne-coal-due-for-a-shakeup_img_ch2_5ed6502ef878.png)
+> **Interactive Data & Source:** [Blog Shipfix](https://blog.shipfix.com/market/shipfixs-weekly-market-blog-4-india-key-to-changing-trade-patterns) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-04-15_seaborne-coal-due-for-a-shakeup_img_ch2_5ed6502ef878.png)
 
 Source: Shipfix
 
 Ordering activities for coal loading in the largest exporting countries have been trending lower in recent months, suggesting that there could be spare capacity for exports to Europe and Japan. However, much of the decline is centred on Indonesia, which is increasingly safeguarding domestic supplies and limiting exports. Should buyers in Japan and Europe be successful in sourcing their coal from the other primary exporters, tonne-mile demand will pick up in the trade.
 
-![Cargo Orders for Top 5 Origins](assets/2022-04-15_seaborne-coal-due-for-a-shakeup_img_cargoordersfortop5origins_469c3f1052dc.png)
+![Cargo Orders for Top 5 Origins](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-04-15_seaborne-coal-due-for-a-shakeup_img_cargoordersfortop5origins_469c3f1052dc.png)
 
 > **Figure 3: Cargo Orders for Top 5 Origins**  
-> **Interactive Data & Source:** [Blog Shipfix](https://blog.shipfix.com/market/shipfixs-weekly-market-blog-4-india-key-to-changing-trade-patterns) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-04-15_seaborne-coal-due-for-a-shakeup_img_cargoordersfortop5origins_469c3f1052dc.png)
+> **Interactive Data & Source:** [Blog Shipfix](https://blog.shipfix.com/market/shipfixs-weekly-market-blog-4-india-key-to-changing-trade-patterns) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-04-15_seaborne-coal-due-for-a-shakeup_img_cargoordersfortop5origins_469c3f1052dc.png)
 
 Source: Shipfix
 

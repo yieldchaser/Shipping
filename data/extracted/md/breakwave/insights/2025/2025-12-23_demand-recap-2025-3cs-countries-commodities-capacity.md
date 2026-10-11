@@ -20,26 +20,26 @@ source_file: "corpus/03-breakwave/insights/2025/2025-12-23_demand-recap-2025-3cs
 
 ---
 
-![Rgb Color Brs Shipbrokers Monogram L](assets/2025-12-23_demand-recap-2025-3cs-countries-commodities-capacity_img_rgb-color-brs-shipbrokers-monogram-l_c365f35f1de5.png)
+![Rgb Color Brs Shipbrokers Monogram L](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-12-23_demand-recap-2025-3cs-countries-commodities-capacity_img_rgb-color-brs-shipbrokers-monogram-l_c365f35f1de5.png)
 
 > **Figure 1: Rgb Color Brs Shipbrokers Monogram L**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-12-23_demand-recap-2025-3cs-countries-commodities-capacity_img_rgb-color-brs-shipbrokers-monogram-l_c365f35f1de5.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-12-23_demand-recap-2025-3cs-countries-commodities-capacity_img_rgb-color-brs-shipbrokers-monogram-l_c365f35f1de5.png)
 
 In recent years, the dry bulk market has experienced its fair share of swings, repeatedly testing market participants’ expectations of when freight rates might shift into a higher gear. Using the Baltic Dry Index as a proxy, the index has largely traded between 1,000 and 2,000 points from the second half of 2022 to date, as long term demand and supply fundamentals have normalized.
 
 During the relatively brief episodes when the BDI breached the 2,000 point threshold, the upside momentum has typically proven short-lived, as illustrated by the recent surge to 2,845 on 3 December followed by a swift correction to 2,121 by 17 December. So, why is the BDI incapable of consolidating gains and pushing higher?
 
-![Στιγμιότυπο Οθόνης 2025 12 23 123859](assets/2025-12-23_demand-recap-2025-3cs-countries-commodities-capacity_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_d5e109ed3192.png)
+![Στιγμιότυπο Οθόνης 2025 12 23 123859](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-12-23_demand-recap-2025-3cs-countries-commodities-capacity_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_d5e109ed3192.png)
 
 > **Figure 2: Στιγμιότυπο Οθόνης 2025 12 23 123859**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-12-23_demand-recap-2025-3cs-countries-commodities-capacity_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_d5e109ed3192.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-12-23_demand-recap-2025-3cs-countries-commodities-capacity_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_d5e109ed3192.png)
 
 Following the post-Covid rebound of 2021-23, the growth in global dry bulk shipments measured in metric tons has moderated, with the slowdown becoming more pronounced heading into 2025. As a result, underlying dry bulk demand growth is now materially lagging projected fleet deliveries for 2025 and likely for 2026. This imbalance places an effective ceiling on the upside potential of freight rates, both in terms of magnitude and duration, despite on-and-off supply side efficiencies that have tightened effective tonnage availability and periodic surges in cargo loadings observed over recent years.
 
-![Στιγμιότυπο Οθόνης 2025 12 23 123927](assets/2025-12-23_demand-recap-2025-3cs-countries-commodities-capacity_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_c00dc6b8c1e7.png)
+![Στιγμιότυπο Οθόνης 2025 12 23 123927](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-12-23_demand-recap-2025-3cs-countries-commodities-capacity_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_c00dc6b8c1e7.png)
 
 > **Figure 3: Στιγμιότυπο Οθόνης 2025 12 23 123927**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-12-23_demand-recap-2025-3cs-countries-commodities-capacity_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_c00dc6b8c1e7.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-12-23_demand-recap-2025-3cs-countries-commodities-capacity_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_c00dc6b8c1e7.png)
 
 Heading into 2026, we expect global dry bulk trade growth to hover around the 2.5% level, extending the recent trend of plateauing expansion. Capesize loadings are likely to outperform, supported by increased cargo availability in the Atlantic basin.
 
@@ -51,19 +51,19 @@ China has and will continue to be the main engine driving bulk shipments, there 
 
 Hence, dry bulk fortunes will be closely tied to how much China can still accommodate bulk arrivals in its port.
 
-![Στιγμιότυπο Οθόνης 2025 12 23 123946](assets/2025-12-23_demand-recap-2025-3cs-countries-commodities-capacity_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_432069295941.png)
+![Στιγμιότυπο Οθόνης 2025 12 23 123946](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-12-23_demand-recap-2025-3cs-countries-commodities-capacity_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_432069295941.png)
 
 > **Figure 4: Στιγμιότυπο Οθόνης 2025 12 23 123946**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-12-23_demand-recap-2025-3cs-countries-commodities-capacity_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_432069295941.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-12-23_demand-recap-2025-3cs-countries-commodities-capacity_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_432069295941.png)
 
 In recent times, China’s economy has matured. Its Fixed Asset Investment has shown a marked slowdown in 2025, even contracting in the latter part of the year, down 1.7% over January to October. This was largely driven by a pronounced downturn in the real estate sector, although high tech manufacturing and infrastructure investment continued to show pockets of growth.
 
 This shift has translated into a gradual but persistent deceleration in China’s dry bulk import growth trajectory, with CAGR easing from 6.1% over 2015-2018 to just 1.7% per annum over the past two years. As a result, while China’s dry bulk imports have reached historic highs in absolute terms in 2025, volumes are clearly falling short of earlier growth expectations that underpinned shipowners’ newbuilding decisions at shipyards earlier this decade.
 
-![Στιγμιότυπο Οθόνης 2025 12 23 124031](assets/2025-12-23_demand-recap-2025-3cs-countries-commodities-capacity_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_098ee2a72c61.png)
+![Στιγμιότυπο Οθόνης 2025 12 23 124031](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-12-23_demand-recap-2025-3cs-countries-commodities-capacity_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_098ee2a72c61.png)
 
 > **Figure 5: Στιγμιότυπο Οθόνης 2025 12 23 124031**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-12-23_demand-recap-2025-3cs-countries-commodities-capacity_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_098ee2a72c61.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-12-23_demand-recap-2025-3cs-countries-commodities-capacity_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_098ee2a72c61.png)
 
 For context, China accounted for 40.8% of total dry bulk imports in 2024, while India, the US and other North Asian economies collectively represented just 21.8%, roughly half of China’s share. Meanwhile, India’s import growth over the past seven years has stagnated at less than 3.0% per annum, materially lower than China’s earlier CAGR of 4.6% over 2018 to 2023. More concerning is the evident deceleration across developed regions, including the US and JKT. In particular, JKT imports have slipped into structural contraction territory, registering a negative CAGR of 3.3% over 2023-25.
 
@@ -73,19 +73,19 @@ Although the EU has rebounded over the past two years, this recovery largely ref
 
 **Iron ore trade volumes**continue to push higher this year, with a y-o-y growth of 2.4% (+37.7 mln mt) for January to November. Australian exports contributed an additional 13.2 mln mt while Brazil upped it with 16.6 mln mt gains, giving ore carriers firm support at the Pacific and Atlantic basin. On the import end, China drove bulk of the gains at +30.0 mln mt. As mentioned earlier, developed countries such as Japan and South Korea continue to dampen the growth brought by China and other countries.
 
-![Στιγμιότυπο Οθόνης 2025 12 23 124047](assets/2025-12-23_demand-recap-2025-3cs-countries-commodities-capacity_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_6d33c5a7c8f5.png)
+![Στιγμιότυπο Οθόνης 2025 12 23 124047](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-12-23_demand-recap-2025-3cs-countries-commodities-capacity_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_6d33c5a7c8f5.png)
 
 > **Figure 6: Στιγμιότυπο Οθόνης 2025 12 23 124047**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-12-23_demand-recap-2025-3cs-countries-commodities-capacity_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_6d33c5a7c8f5.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-12-23_demand-recap-2025-3cs-countries-commodities-capacity_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_6d33c5a7c8f5.png)
 
 Over the past two years, a surge in Chinese steel exports pressured Japanese and Korean steelmakers, impacting their profitability and thus, raw material needs. Furthermore, Japan and South Korea are also heavily investing in Electric Arc Furnaces (EAFs) which use more scrap steel.
 
 **Coal trade volumes**in 2025 dropped by 57.8 mln mt across January-November, representing a 4.6% annual contraction. The majority of this decline was driven by China, where imports fell by 60.8 mln mt. The sharp fall in domestic coal prices to four-year lows has reduced the attractiveness of imported coal, particularly given Indonesia’s efforts to raise coal prices by gaining greater control over HBA index-based pricing.
 
-![Στιγμιότυπο Οθόνης 2025 12 23 124058](assets/2025-12-23_demand-recap-2025-3cs-countries-commodities-capacity_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_a878d183d1b6.png)
+![Στιγμιότυπο Οθόνης 2025 12 23 124058](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-12-23_demand-recap-2025-3cs-countries-commodities-capacity_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_a878d183d1b6.png)
 
 > **Figure 7: Στιγμιότυπο Οθόνης 2025 12 23 124058**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-12-23_demand-recap-2025-3cs-countries-commodities-capacity_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_a878d183d1b6.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-12-23_demand-recap-2025-3cs-countries-commodities-capacity_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_a878d183d1b6.png)
 
 At the same time, Chinese utilities have increasingly prioritized long term offtake commitments with domestic miners against a wider backdrop of elevated stockpiles, faster adoption of renewable energy and softer industrial demand, particularly from energy intensive sectors such as cement. According to AXSMarine data, Chinese coal arrivals totaled 384 mln mt in 2023, peaked at 435 mln mt in 2024, and are expected to end 2025 at around 365 to 375 mln mt, below 2023 levels.
 
@@ -93,10 +93,10 @@ The contraction in Chinese coal imports has been further compounded by concurren
 
 **Grain (soybeans, corn, wheat etc) trade volumes**have remained relatively subdued this year compared with recent peaks, declining by 3.5 mln mt over the first eleven months, equivalent to a 0.7% y-o-y contraction. As with coal, China accounted for the bulk of the weakness, with grain imports falling by 15.2 mln mt in 2025, while the shortfall was largely absorbed by the rest of the world.
 
-![Στιγμιότυπο Οθόνης 2025 12 23 124115](assets/2025-12-23_demand-recap-2025-3cs-countries-commodities-capacity_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_9b1cf8e39bcf.png)
+![Στιγμιότυπο Οθόνης 2025 12 23 124115](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-12-23_demand-recap-2025-3cs-countries-commodities-capacity_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_9b1cf8e39bcf.png)
 
 > **Figure 8: Στιγμιότυπο Οθόνης 2025 12 23 124115**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-12-23_demand-recap-2025-3cs-countries-commodities-capacity_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_9b1cf8e39bcf.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-12-23_demand-recap-2025-3cs-countries-commodities-capacity_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_9b1cf8e39bcf.png)
 
 Recent market narratives have focused heavily on how much grain China can source from the US amid ongoing trade frictions. However, less attention has been paid to underlying Chinese end user demand. Since the first half of 2025, Chinese authorities have sought to rein in oversupply in the hog sector in response to persistently weak pork prices, which has directly constrained downstream feed demand. At the time of writing, pork prices are hovering around 12 CNY/kg, well below the peak of 37.8 CNY/kg recorded in September 2020.
 
@@ -106,17 +106,17 @@ On the export side, the grain market has increasingly taken on a zero-sum dynami
 
 ### Capacity
 
-![Στιγμιότυπο Οθόνης 2025 12 23 124134](assets/2025-12-23_demand-recap-2025-3cs-countries-commodities-capacity_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_079c924dcefe.png)
+![Στιγμιότυπο Οθόνης 2025 12 23 124134](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-12-23_demand-recap-2025-3cs-countries-commodities-capacity_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_079c924dcefe.png)
 
 > **Figure 9: Στιγμιότυπο Οθόνης 2025 12 23 124134**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-12-23_demand-recap-2025-3cs-countries-commodities-capacity_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_079c924dcefe.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-12-23_demand-recap-2025-3cs-countries-commodities-capacity_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_079c924dcefe.png)
 
 Overall, Capesizes in 2026 appear set to benefit from long haul iron ore and bauxite shipments from Brazil and Guinea, as reflected in the repricing of the C5TC Cal 26 FFA contract, which rebounded from a low of the mid $17,000/day range in June, when sentiment was overly pessimistic, to around $24,000/day currently. Moreover, while China has traditionally shouldered the bulk of Capesize demand, if Japan, South Korea, and India can potentially contribute, even in small increments, that would meaningfully strengthen the demand outlook.
 
-![Στιγμιότυπο Οθόνης 2025 12 23 124145](assets/2025-12-23_demand-recap-2025-3cs-countries-commodities-capacity_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_ca0f44d39494.png)
+![Στιγμιότυπο Οθόνης 2025 12 23 124145](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-12-23_demand-recap-2025-3cs-countries-commodities-capacity_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_ca0f44d39494.png)
 
 > **Figure 10: Στιγμιότυπο Οθόνης 2025 12 23 124145**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-12-23_demand-recap-2025-3cs-countries-commodities-capacity_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_ca0f44d39494.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-12-23_demand-recap-2025-3cs-countries-commodities-capacity_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_ca0f44d39494.png)
 
 While Kamsarmax shipments have risen by 7.9% this year, this appears to reflect a shift in charterer preference toward this segment, rather than a genuine expansion in overall volumes, as older and smaller Panamax units recorded only a marginal increase of 1.4%. Collectively, the mid-sized segment (68-100K Dwt), record a 4.4% annual increment.
 

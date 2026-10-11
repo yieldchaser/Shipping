@@ -53,9 +53,9 @@ European coal prices have been on a downward trend since the end of November. Th
 
 The loss of the European market for the Russian coal miners has forced them to find new markets for their output. China and, to a lesser extent, India have become increasingly important markets as a result. The publicly available cargo orders for Russian coal exports have been trending lower in recent years. At the same time, the proportion of orders for discharge in China and India has been rising. The data for the current month suggest that Russian exports of coal to China will remain robust in the near term. Order volumes for January are already matching those of the whole of December. Hence, assuming a degree of linearity for the remainder of the month, the monthly total may be the highest in nearly two years. However, it is also important to note that this does not include off-market and long-term transportation arrangements, which could suggest that totals are even higher.
 
-![Market Chart 1](assets/2023-01-18_shipfix-global-market-update_img_unnamed-2023-01-18t114656844_5307830a121a.png)
+![Market Chart 1](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-01-18_shipfix-global-market-update_img_unnamed-2023-01-18t114656844_5307830a121a.png)
 
 > **Figure 1: Market Chart 1**  
-> **Interactive Data & Source:** [Shipfix](https://shipfix.com/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-01-18_shipfix-global-market-update_img_unnamed-2023-01-18t114656844_5307830a121a.png)
+> **Interactive Data & Source:** [Shipfix](https://shipfix.com/) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-01-18_shipfix-global-market-update_img_unnamed-2023-01-18t114656844_5307830a121a.png)
 
 Data Source:[Shipfix](https://shipfix.com/)

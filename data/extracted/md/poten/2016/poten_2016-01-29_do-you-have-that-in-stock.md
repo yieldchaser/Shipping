@@ -30,10 +30,18 @@ Some reports indicate that various traders are already using product tankers for
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: Do You Have That In Stock](../../../charts/poten/2016/poten_2016-01-29_do-you-have-that-in-stock_chart1.png)
+![Exhibit 1: Product Stocks in OECD Regions (2004 – 2015)](../../../charts/poten/2016/poten_2016-01-29_do-you-have-that-in-stock_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2016/poten_2016-01-29_do-you-have-that-in-stock_chart1.png)
+> **Exhibit 1: Product Stocks in OECD Regions (2004 – 2015)**  
+> Unit: Mbbl · X-axis: Jan-04 to Jan-15  
+> Series: OECD Europe, OECD Americas, OECD Pacific  
+> *Source: IEA*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2016/poten_2016-01-29_do-you-have-that-in-stock_chart1.png)
 
-![Exhibit 2: Do You Have That In Stock](../../../charts/poten/2016/poten_2016-01-29_do-you-have-that-in-stock_chart2.png)
+![Exhibit 2: Chinese Diesel Exports (2011 – 2015)](../../../charts/poten/2016/poten_2016-01-29_do-you-have-that-in-stock_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2016/poten_2016-01-29_do-you-have-that-in-stock_chart2.png)
+> **Exhibit 2: Chinese Diesel Exports (2011 – 2015)**  
+> Unit: Kb/d · X-axis: Jan-11 to Sep-15  
+> Series: Chinese Diesel Exports  
+> *Source: JODI*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2016/poten_2016-01-29_do-you-have-that-in-stock_chart2.png)

@@ -34,10 +34,10 @@ Economic sentiment in the past few months has started to trend downwards followi
 
 We may already be in the midst of a global slowdown in trade with total dry bulk commodity imports in June declining by 7.4% YoY to 389m tonnes. The closure of Ukrainian ports, of course, has been a factor in this.
 
-![241](assets/2022-07-18_braemar-weekly-dry-market-report_img_241_eddefc3317e1.png)
+![241](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-07-18_braemar-weekly-dry-market-report_img_241_eddefc3317e1.png)
 
 > **Figure 1: 241**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-07-18_braemar-weekly-dry-market-report_img_241_eddefc3317e1.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-07-18_braemar-weekly-dry-market-report_img_241_eddefc3317e1.png)
 
 ## China: A Tale of Two Halves?
 
@@ -47,10 +47,10 @@ Contrary to countries in the West, Chinese CPI has been moderate, measuring at 2
 
 To limit any further downside, the Chinese government has been actively taking steps to improve industrial activity. This has come in large bond issuances for infrastructure projects, which of course are highly bulk commodity-intensive. The People’s Bank of China (PBoC) also reduced the reserve requirements for major banks to encourage lending. This has seemingly started to emerge with 2.8 trillion yuan worth of loans extended in June. Tomorrow morning, China is set to release a range of economic data, none more important than Q2 GDP growth. While Q2 will largely reflect the impact of the lockdowns, we are still confident activity will improve in 2H 2022, replicated by a rise in the country’s dry bulk commodity demand.
 
-![242](assets/2022-07-18_braemar-weekly-dry-market-report_img_242_f0cd6572628b.png)
+![242](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-07-18_braemar-weekly-dry-market-report_img_242_f0cd6572628b.png)
 
 > **Figure 2: 242**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-07-18_braemar-weekly-dry-market-report_img_242_f0cd6572628b.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-07-18_braemar-weekly-dry-market-report_img_242_f0cd6572628b.png)
 
 ## Exchange Rates
 
@@ -58,10 +58,10 @@ The US dollar index, weighted against six major foreign currencies, this week re
 
 Further, with the US dollar continuing to get stronger, countries may look to purchase commodities in other currencies as their purchasing power in USD has declined. Most recently, there have been reports of a yuan-based iron ore purchase out of Australia to China. If the US dollar continues to increase we will likely see this trend continuing.
 
-![243](assets/2022-07-18_braemar-weekly-dry-market-report_img_243_cffe8f1927dd.png)
+![243](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-07-18_braemar-weekly-dry-market-report_img_243_cffe8f1927dd.png)
 
 > **Figure 3: 243**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-07-18_braemar-weekly-dry-market-report_img_243_cffe8f1927dd.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-07-18_braemar-weekly-dry-market-report_img_243_cffe8f1927dd.png)
 
 ## Monetary Tightening
 

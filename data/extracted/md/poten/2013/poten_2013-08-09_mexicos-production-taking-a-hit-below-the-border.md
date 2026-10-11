@@ -48,16 +48,20 @@ As production and exports continue to wane, President Enrique Pena Nieto is face
 
 ![Exhibit 1: Mexico's Production: Taking a Hit Below the Border](../../../charts/poten/2013/poten_2013-08-09_mexicos-production-taking-a-hit-below-the-border_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2013/poten_2013-08-09_mexicos-production-taking-a-hit-below-the-border_chart1.png)
+> **Interactive Asset:** [Local Asset (200 DPI PNG)](../../../charts/poten/2013/poten_2013-08-09_mexicos-production-taking-a-hit-below-the-border_chart1.png)
 
 ![Exhibit 2: Mexico's Production: Taking a Hit Below the Border](../../../charts/poten/2013/poten_2013-08-09_mexicos-production-taking-a-hit-below-the-border_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2013/poten_2013-08-09_mexicos-production-taking-a-hit-below-the-border_chart2.png)
+> **Interactive Asset:** [Local Asset (200 DPI PNG)](../../../charts/poten/2013/poten_2013-08-09_mexicos-production-taking-a-hit-below-the-border_chart2.png)
 
 ![Exhibit 3: Mexico's Production: Taking a Hit Below the Border](../../../charts/poten/2013/poten_2013-08-09_mexicos-production-taking-a-hit-below-the-border_chart3.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2013/poten_2013-08-09_mexicos-production-taking-a-hit-below-the-border_chart3.png)
+> **Interactive Asset:** [Local Asset (200 DPI PNG)](../../../charts/poten/2013/poten_2013-08-09_mexicos-production-taking-a-hit-below-the-border_chart3.png)
 
-![Exhibit 4: Mexico's Production: Taking a Hit Below the Border](../../../charts/poten/2013/poten_2013-08-09_mexicos-production-taking-a-hit-below-the-border_chart4.png)
+![Exhibit 4: Aframaxes Discharging in U.S.](../../../charts/poten/2013/poten_2013-08-09_mexicos-production-taking-a-hit-below-the-border_chart4.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2013/poten_2013-08-09_mexicos-production-taking-a-hit-below-the-border_chart4.png)
+> **Exhibit 4: Aframaxes Discharging in U.S.**  
+> Unit: Number of Fixtures · X-axis: 2010 to 2013  
+> Series: Actual, Annualized  
+> *Source: Poten*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2013/poten_2013-08-09_mexicos-production-taking-a-hit-below-the-border_chart4.png)

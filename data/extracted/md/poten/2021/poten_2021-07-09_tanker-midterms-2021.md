@@ -53,14 +53,23 @@ In the Aframax segment, Vitol, BP and Shell maintained their position on top of 
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: Tanker Midterms 2021](../../../charts/poten/2021/poten_2021-07-09_tanker-midterms-2021_chart1.png)
+![Exhibit 1: Top 10 VLCC Spot Charterers](../../../charts/poten/2021/poten_2021-07-09_tanker-midterms-2021_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2021/poten_2021-07-09_tanker-midterms-2021_chart1.png)
+> **Exhibit 1: Top 10 VLCC Spot Charterers**  
+> Unit: No. Spot Fixtures · X-axis: Unipec to Equinor  
+> Series: No. Spot Fixtures  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2021/poten_2021-07-09_tanker-midterms-2021_chart1.png)
 
-![Exhibit 2: Tanker Midterms 2021](../../../charts/poten/2021/poten_2021-07-09_tanker-midterms-2021_chart2.png)
+![Exhibit 2: Top 10 Suezmax Spot Charterers](../../../charts/poten/2021/poten_2021-07-09_tanker-midterms-2021_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2021/poten_2021-07-09_tanker-midterms-2021_chart2.png)
+> **Exhibit 2: Top 10 Suezmax Spot Charterers**  
+> Unit: No. Spot Fixtures · X-axis: Shell to Total  
+> Series: No. Spot Fixtures  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2021/poten_2021-07-09_tanker-midterms-2021_chart2.png)
 
-![Exhibit 3: Tanker Midterms 2021](../../../charts/poten/2021/poten_2021-07-09_tanker-midterms-2021_chart3.png)
+![Exhibit 3: Top 10 Aframax Spot Charterers](../../../charts/poten/2021/poten_2021-07-09_tanker-midterms-2021_chart3.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2021/poten_2021-07-09_tanker-midterms-2021_chart3.png)
+> **Exhibit 3: Top 10 Aframax Spot Charterers**  
+> Unit: No. Spot Fixtures · X-axis: Vitol to Clearlake  
+> Series: No. Spot Fixtures  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2021/poten_2021-07-09_tanker-midterms-2021_chart3.png)

@@ -25,9 +25,9 @@ The Atlantic basin has gone from oversupplied to undersupplied in a matter of a 
 
 From SSY:
 
-![Ssy Balaster List](assets/2020-06-22_atlantic-strengthens-as-open-ships-remain-scarce_img_ssybalasterlist_6c45a4dbde64.png)
+![Ssy Balaster List](../../../../../../corpus/03-breakwave/insights/2020/assets/2020-06-22_atlantic-strengthens-as-open-ships-remain-scarce_img_ssybalasterlist_6c45a4dbde64.png)
 
 > **Figure 1: Ssy Balaster List**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2020/assets/2020-06-22_atlantic-strengthens-as-open-ships-remain-scarce_img_ssybalasterlist_6c45a4dbde64.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2020/assets/2020-06-22_atlantic-strengthens-as-open-ships-remain-scarce_img_ssybalasterlist_6c45a4dbde64.png)
 
 With the Baltic Dry Index flattish today and with Capesize spot rates showing some signs of erosion, all eyes are now on tomorrow’s Capesize index, as another busy and volatile week for dry bulk seems in the cards. After all, the breather late last week might end up being short lived.

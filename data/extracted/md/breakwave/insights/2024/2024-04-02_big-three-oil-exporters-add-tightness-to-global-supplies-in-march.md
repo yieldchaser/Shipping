@@ -26,10 +26,10 @@ source_file: "corpus/03-breakwave/insights/2024/2024-04-02_big-three-oil-exporte
 
 Crude/condensate exports from Saudi Arabia and Russia (excluding Kazakh origin) have each fallen by just over 400kbd m-o-m, when viewing a 28-day rolling moving average, while US exports are also lower by around 100kbd over the same period (see chart). In total, this means the big three’s combined seaborne crude/condensate exports fell by around 1mbd m-o-m to 13.7mbd, as of March 25 (28-day MA).
 
-![Chart 1](assets/2024-04-02_big-three-oil-exporters-add-tightness-to-global-supplies-in-march_img_chart1_008c53e97284.png)
+![Chart 1](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-04-02_big-three-oil-exporters-add-tightness-to-global-supplies-in-march_img_chart1_008c53e97284.png)
 
 > **Figure 1: Chart 1**  
-> **Interactive Data & Source:** [Vortexa](https://www.vortexa.com/insights/crude/exclusive-report-sanctions-impact-review-of-russian-crude-flows-to-asia/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-04-02_big-three-oil-exporters-add-tightness-to-global-supplies-in-march_img_chart1_008c53e97284.png)
+> **Interactive Data & Source:** [Vortexa](https://www.vortexa.com/insights/crude/exclusive-report-sanctions-impact-review-of-russian-crude-flows-to-asia/) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-04-02_big-three-oil-exporters-add-tightness-to-global-supplies-in-march_img_chart1_008c53e97284.png)
 
 The short-term outlook for crude exports among the top three nations is a mixed one. For Russia, extensive damage to downstream infrastructure after numerous attacks has curbed refinery throughput and could potentially “free up” crude for export. However, in the current environment of tightening restrictions on freight/sanctions compliance there may be difficulties in maintaining exports at current levels (around 3mbd).
 
@@ -41,10 +41,10 @@ Compared to Saudi and Russia, the short-term picture for US crude exports is som
 
 Turning attention briefly to products, the big three nations’ combined exports of light, middle and heavy distillates products are also lower m-o-m, but to a lesser extent than seen on crude. Total combined seaborne exports of LPG, gasoline, naphtha, jet, diesel and residual fuel oils from Russia, Saudi Arabia and the US stood at 8.4mbd, down from around 8.6mbd a month earlier.
 
-![Chart 2](assets/2024-04-02_big-three-oil-exporters-add-tightness-to-global-supplies-in-march_img_chart2_2e4a461993e2.png)
+![Chart 2](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-04-02_big-three-oil-exporters-add-tightness-to-global-supplies-in-march_img_chart2_2e4a461993e2.png)
 
 > **Figure 2: Chart 2**  
-> **Interactive Data & Source:** [Vortexa](https://www.vortexa.com//oil-gas-data-traders-analysts-data-scientists?gclid=Cj0KCQjw8_qRBhCXARIsAE2AtRZKOvMnbilZ_6_91d7huSFFy71pWLrnPwGwOHVzXsmsG-1a1mZnQw8aAt89EALw_wcB&hsa_acc=1782073842&hsa_ad=548425387665&hsa_cam=14746637662&hsa_grp=125038601902&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_src=g&hsa_tgt=dsa-1431852288425&hsa_ver=3&utm_campaign=%5BCD%5D%20-%20DSA%20-%20EMEA&utm_medium=cpc&utm_medium=ppc&utm_source=google&utm_source=adwords&utm_term=) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-04-02_big-three-oil-exporters-add-tightness-to-global-supplies-in-march_img_chart2_2e4a461993e2.png)
+> **Interactive Data & Source:** [Vortexa](https://www.vortexa.com//oil-gas-data-traders-analysts-data-scientists?gclid=Cj0KCQjw8_qRBhCXARIsAE2AtRZKOvMnbilZ_6_91d7huSFFy71pWLrnPwGwOHVzXsmsG-1a1mZnQw8aAt89EALw_wcB&hsa_acc=1782073842&hsa_ad=548425387665&hsa_cam=14746637662&hsa_grp=125038601902&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_src=g&hsa_tgt=dsa-1431852288425&hsa_ver=3&utm_campaign=%5BCD%5D%20-%20DSA%20-%20EMEA&utm_medium=cpc&utm_medium=ppc&utm_source=google&utm_source=adwords&utm_term=) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-04-02_big-three-oil-exporters-add-tightness-to-global-supplies-in-march_img_chart2_2e4a461993e2.png)
 
 Unlike crude exports, product exports for Saudi Arabia and the US have clear upsides. Saudi Arabia’s refined products exports have likely bottomed out in March at around the 1.3mbd mark (28-day MA), as the impact of seasonal refinery maintenance fades. And US refiners are likely to keep run rates elevated to meet rising gasoline demand, which means more diesel freed up for the export market. To some extent we are already seeing this in jet markets, with a slowdown in US PADD5 jet imports as domestic supplies pick up.
 

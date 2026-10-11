@@ -31,11 +31,11 @@ From Reuters:
 
 Physiologically, the impact on freight futures should be quite negative, given the rally in Capesizes on Thursday and Friday. Such correction will lead to a contraction in the premium to spot that has recently expanded due on optimism of higher Brazilian exports, a welcome development given the uncertainly.
 
-![“The Iron Ore Fines Production Guidance of 310-330 Mt in 2020](assets/2020-06-06_the-drama-continues-as-brazilan-judge-hats-vales-iron-ore-operations-in-the-sout_img_map-minas-gerais-brazil_fc088b057bd4.jpg)
+![“The Iron Ore Fines Production Guidance of 310-330 Mt in 2020](../../../../../../corpus/03-breakwave/insights/2020/assets/2020-06-06_the-drama-continues-as-brazilan-judge-hats-vales-iron-ore-operations-in-the-sout_img_map-minas-gerais-brazil_fc088b057bd4.jpg)
 
 > **Figure 1: “The Iron Ore Fines Production Guidance of 310-330 Mt in 2020**  
 > *“The iron ore fines production guidance of 310-330 Mt in 2020 considers a negative impact of 15Mt from eventual impacts resulting from the fight against COVID-19. Considering (i) the expected monthly production of 2.7Mt from the Itabira Complex for the coming months and (ii) the provisioning of up to 15Mt of losses associated with COVID-19 in 2020, there is no need, at this moment, to revise the guidance. Vale informs, however, that there may be a temporary shortage of pellets for the domestic market, while the Itabira Complex shutdown remains, given that the complex provides pellet feed for the pelletizers of the Tubarão Complex.”*  
-> **Interactive Data & Source:** [Saladeimprensa Vale](http://saladeimprensa.vale.com/en/Paginas/Articles.aspx?r=Vale_informs_on_Dicao_Leste_dam&rID=1378&s=Mining&sID=6) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2020/assets/2020-06-06_the-drama-continues-as-brazilan-judge-hats-vales-iron-ore-operations-in-the-sout_img_map-minas-gerais-brazil_fc088b057bd4.jpg)
+> **Interactive Data & Source:** [Saladeimprensa Vale](http://saladeimprensa.vale.com/en/Paginas/Articles.aspx?r=Vale_informs_on_Dicao_Leste_dam&rID=1378&s=Mining&sID=6) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2020/assets/2020-06-06_the-drama-continues-as-brazilan-judge-hats-vales-iron-ore-operations-in-the-sout_img_map-minas-gerais-brazil_fc088b057bd4.jpg)
 
 Still, lots are up in the air, as Vale in the past has managed to overturn such orders.
 
@@ -48,10 +48,10 @@ For now, it seems the overall impact on shipping volumes is minor. The duration 
 
 Here is 2019 Vale’s production by region:
 
-![Img 1960](assets/2020-06-06_the-drama-continues-as-brazilan-judge-hats-vales-iron-ore-operations-in-the-sout_img_img-1960_8a20a313afb5.jpg)
+![Img 1960](../../../../../../corpus/03-breakwave/insights/2020/assets/2020-06-06_the-drama-continues-as-brazilan-judge-hats-vales-iron-ore-operations-in-the-sout_img_img-1960_8a20a313afb5.jpg)
 
 > **Figure 2: Img 1960**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2020/assets/2020-06-06_the-drama-continues-as-brazilan-judge-hats-vales-iron-ore-operations-in-the-sout_img_img-1960_8a20a313afb5.jpg)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2020/assets/2020-06-06_the-drama-continues-as-brazilan-judge-hats-vales-iron-ore-operations-in-the-sout_img_img-1960_8a20a313afb5.jpg)
 
 ---
 

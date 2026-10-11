@@ -28,10 +28,10 @@ Overall, we have been stressing in Commodore Research's Weekly Executive Reports
 
 Regarding coarse grain, the USDA is now forecasting that global coarse grain exports in 2025/26 will total 247.3 million tons. This would mark a year-on-year increase of 18.9 million tons (8%) from the 2024/25 season. Coarse grain exports will remain the global grain market’s largest cargo by volume. A large year-on-year increase in coarse grain exports is expected from the United States. Moderate year-on-year increases are expected from Argentina and Ukraine. A relatively small year-on-year increase is expected from Brazil.
 
-![Chart](assets/2025-11-27_global-grain-export-forecast-raised-again_img_chart_3e69fff8d765.jpg)
+![Chart](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-11-27_global-grain-export-forecast-raised-again_img_chart_3e69fff8d765.jpg)
 
 > **Figure 1: Chart**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-11-27_global-grain-export-forecast-raised-again_img_chart_3e69fff8d765.jpg)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-11-27_global-grain-export-forecast-raised-again_img_chart_3e69fff8d765.jpg)
 
 ---
 

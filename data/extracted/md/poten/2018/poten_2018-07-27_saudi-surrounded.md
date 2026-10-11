@@ -30,8 +30,12 @@ For the moment, the oil and tanker world does not seem to be too concerned, but 
 
 ![Exhibit 1: Saudi Surrounded](../../../charts/poten/2018/poten_2018-07-27_saudi-surrounded_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2018/poten_2018-07-27_saudi-surrounded_chart1.png)
+> **Interactive Asset:** [Local Asset (200 DPI PNG)](../../../charts/poten/2018/poten_2018-07-27_saudi-surrounded_chart1.png)
 
-![Exhibit 2: Saudi Surrounded](../../../charts/poten/2018/poten_2018-07-27_saudi-surrounded_chart2.png)
+![Exhibit 2: Saudi Arabian Oil Passing Bab-el-Mandeb Straits](../../../charts/poten/2018/poten_2018-07-27_saudi-surrounded_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2018/poten_2018-07-27_saudi-surrounded_chart2.png)
+> **Exhibit 2: Saudi Arabian Oil Passing Bab-el-Mandeb Straits**  
+> Unit: Kb/d · X-axis: Jan-14 to Apr-18  
+> Series: AG-Rsea, AG Via Suez, RS - East  
+> *Source: Lloyd’s List Intelligence*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2018/poten_2018-07-27_saudi-surrounded_chart2.png)

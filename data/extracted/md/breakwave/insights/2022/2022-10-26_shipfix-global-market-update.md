@@ -49,9 +49,9 @@ The Baltic’s tanker indices provided some of yesterday’s limited positive pe
 
 Following a strong recovery during September, the Baltic Exchange’s Capesize index has retreated by more than twenty per cent in the last three weeks. Cargo order volumes for the segment trended higher during most of the third quarter, which in combination with generally low vessel supply, contributed to the rebound. However, the current month has seen a reversal of the trend. The past week has seen the segment’s cargo order volumes decline compared to previous weeks. In addition, vessel supply has also increased somewhat since September’s lows. Hence, the weakness in the Capesize segment looks set to remain for the time being.
 
-![Market Chart 1](assets/2022-10-26_shipfix-global-market-update_img_unnamed-2022-10-26t140709028_8125756a15dc.png)
+![Market Chart 1](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-10-26_shipfix-global-market-update_img_unnamed-2022-10-26t140709028_8125756a15dc.png)
 
 > **Figure 1: Market Chart 1**  
-> **Interactive Data & Source:** [Shipfix](https://shipfix.com/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-10-26_shipfix-global-market-update_img_unnamed-2022-10-26t140709028_8125756a15dc.png)
+> **Interactive Data & Source:** [Shipfix](https://shipfix.com/) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-10-26_shipfix-global-market-update_img_unnamed-2022-10-26t140709028_8125756a15dc.png)
 
 Data Source:[Shipfix](https://shipfix.com/)

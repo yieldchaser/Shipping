@@ -40,8 +40,8 @@ If the fires result in additional seaborne cargoes, they will most likely be sho
 
 ![Exhibit 1: Will Canada Spark a Tanker Rally](../../../charts/poten/2016/poten_2016-05-06_will-canada-spark-a-tanker-rally_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2016/poten_2016-05-06_will-canada-spark-a-tanker-rally_chart1.png)
+> **Interactive Asset:** [Local Asset (200 DPI PNG)](../../../charts/poten/2016/poten_2016-05-06_will-canada-spark-a-tanker-rally_chart1.png)
 
 ![Exhibit 2: Will Canada Spark a Tanker Rally](../../../charts/poten/2016/poten_2016-05-06_will-canada-spark-a-tanker-rally_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2016/poten_2016-05-06_will-canada-spark-a-tanker-rally_chart2.png)
+> **Interactive Asset:** [Local Asset (200 DPI PNG)](../../../charts/poten/2016/poten_2016-05-06_will-canada-spark-a-tanker-rally_chart2.png)

@@ -56,6 +56,3 @@ While the prime focus of the discussions was the hurricanes in the US Gulf, the 
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: API: The Golden Year](../../../charts/poten/2006/poten_2006-06-30_api-the-golden-year_chart1.png)
-
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2006/poten_2006-06-30_api-the-golden-year_chart1.png)

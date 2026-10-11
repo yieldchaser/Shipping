@@ -30,10 +30,17 @@ A shift from the Pacific to the Atlantic will probably mean that Venezuela will 
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: A Window Of Opportunity](../../../charts/poten/2023/poten_2023-10-20_a-window-of-opportunity_chart1.png)
+![Exhibit 1: Venezuela Crude/Condensate Exports By Destination](../../../charts/poten/2023/poten_2023-10-20_a-window-of-opportunity_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2023/poten_2023-10-20_a-window-of-opportunity_chart1.png)
+> **Exhibit 1: Venezuela Crude/Condensate Exports By Destination**  
+> Unit: Kb/d · X-axis: Jan-16 to Jul-23  
+> Series: China, United States, India, Curacao, Cuba, Caribbean Netherlands, Spain, Malaysia, Other  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2023/poten_2023-10-20_a-window-of-opportunity_chart1.png)
 
-![Exhibit 2: A Window Of Opportunity](../../../charts/poten/2023/poten_2023-10-20_a-window-of-opportunity_chart2.png)
+![Exhibit 2: Venezuela Crude/Condensate Exports by Vesselclass](../../../charts/poten/2023/poten_2023-10-20_a-window-of-opportunity_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2023/poten_2023-10-20_a-window-of-opportunity_chart2.png)
+> **Exhibit 2: Venezuela Crude/Condensate Exports by Vesselclass**  
+> Unit: Kb/d · X-axis: Jan-16 to Jul-23  
+> Series: VLCC, Suezmax, Aframax, Panamax, Smaller  
+> *Source: Vortexa*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2023/poten_2023-10-20_a-window-of-opportunity_chart2.png)

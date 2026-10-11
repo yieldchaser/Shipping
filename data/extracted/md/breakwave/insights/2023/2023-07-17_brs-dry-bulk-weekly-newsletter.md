@@ -20,26 +20,26 @@ source_file: "corpus/03-breakwave/insights/2023/2023-07-17_brs-dry-bulk-weekly-n
 
 ---
 
-![Brs Shipbrokers Monogram Logo](assets/2023-07-17_brs-dry-bulk-weekly-newsletter_img_brs-shipbrokers-monogram-logo_ee79606c8e74.png)
+![Brs Shipbrokers Monogram Logo](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-07-17_brs-dry-bulk-weekly-newsletter_img_brs-shipbrokers-monogram-logo_ee79606c8e74.png)
 
 > **Figure 1: Brs Shipbrokers Monogram Logo**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-07-17_brs-dry-bulk-weekly-newsletter_img_brs-shipbrokers-monogram-logo_ee79606c8e74.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-07-17_brs-dry-bulk-weekly-newsletter_img_brs-shipbrokers-monogram-logo_ee79606c8e74.png)
 
 ## 1h-23 Dry Bulk Fleet Recap
 
 In the absence of an unexpected curveball(s), such as a sudden spike in fresh shipyard capacity or a unified consensus in fuel regulations, the supply narrative of dry bulkers (since 2018) is one of muted growth (see chart below). As fresh ordering gradually dissipated, the incumbent dry bulk orderbook represents just 8.13% of the active bulk fleet. By the end of 2023, and considering slippage (deliveries delayed or canceled), we anticipate a historically low net growth rate of 2.5%-3.0%.
 
-![Screenshot 2023 07 17 11.29.43](assets/2023-07-17_brs-dry-bulk-weekly-newsletter_img_screenshot2023-07-17112943_332771db4771.png)
+![Screenshot 2023 07 17 11.29.43](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-07-17_brs-dry-bulk-weekly-newsletter_img_screenshot2023-07-17112943_332771db4771.png)
 
 > **Figure 2: Screenshot 2023 07 17 11.29.43**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-07-17_brs-dry-bulk-weekly-newsletter_img_screenshot2023-07-17112943_332771db4771.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-07-17_brs-dry-bulk-weekly-newsletter_img_screenshot2023-07-17112943_332771db4771.png)
 
 In the chart below, we can observe that global shipyards (mainly China, Japan and South Korea based) currently possess very limited spare capacity for 2024-26 delivery. Indeed, the availability of shipyard slots has dwindled following the surge in orders for container liners and LNG carriers over the past few years.
 
-![Screenshot 2023 07 17 11.36.45](assets/2023-07-17_brs-dry-bulk-weekly-newsletter_img_screenshot2023-07-17113645_760146c0d5c1.png)
+![Screenshot 2023 07 17 11.36.45](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-07-17_brs-dry-bulk-weekly-newsletter_img_screenshot2023-07-17113645_760146c0d5c1.png)
 
 > **Figure 3: Screenshot 2023 07 17 11.36.45**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-07-17_brs-dry-bulk-weekly-newsletter_img_screenshot2023-07-17113645_760146c0d5c1.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-07-17_brs-dry-bulk-weekly-newsletter_img_screenshot2023-07-17113645_760146c0d5c1.png)
 
 Among the new building orders for dry bulkers, it can be observed that the majority of fresh orders are concentrated in the Ultramax (60,000-68,000 dwt) and Kamsarmax (79,000-84,000 dwt) vessel segments. These aim to replace the traditional Supramax (50,000-60,000 dwt) and Panamax (68,000-79,000 dwt) segements. Next, we will categorized the dry bulk vessels into three major segments and discuss them accordingly.
 
@@ -49,10 +49,10 @@ Looking at the active large-sized vessel fleet, which includes Babycape to VLOC 
 
 Based on the above statements, these provide credence for improved “supply fundamentals” in the coming years, which should arrive together with higher premiums for young carriers, assuming demand does not disappoint. Altogether, these forward tonnage tightening projections are reflected in the rising asset prices for new Capesize bulk carriers, despite the somewhat lackluster C5TC spot rates being printed for this year. From a low of $30.5 mln in early June 2020, the value of a Baltic Capesize 5-year-old carrier had peaked at $52 mln in just 2 years (a staggering 70% increase). While asset values have cooled down considerably from July 2022 to July 2023, they had managed to hover around a respectable $45 mln mark.
 
-![Screenshot 2023 07 17 11.37.48](assets/2023-07-17_brs-dry-bulk-weekly-newsletter_img_screenshot2023-07-17113748_d84af7b0d3c4.png)
+![Screenshot 2023 07 17 11.37.48](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-07-17_brs-dry-bulk-weekly-newsletter_img_screenshot2023-07-17113748_d84af7b0d3c4.png)
 
 > **Figure 4: Screenshot 2023 07 17 11.37.48**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-07-17_brs-dry-bulk-weekly-newsletter_img_screenshot2023-07-17113748_d84af7b0d3c4.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-07-17_brs-dry-bulk-weekly-newsletter_img_screenshot2023-07-17113748_d84af7b0d3c4.png)
 
 ### 2. Vessels Between 68,000 and 100,000 DWT
 
@@ -60,10 +60,10 @@ For the middle-sized vessel fleet, which includes Panamax to Over Panamax (68,00
 
 Shipowners have benefitted from a booming market from 2021 to 2022, allowing them to be more resilient in today’s lower freight environment and as a consequence, they can still afford to delay their scrapping plans. However, if freight rates in 2H23 fail to impress, scrapping older ships would be a feasible option for some owners. Meantime, prices for a 5-year-old Panamax fell from a high of $38 mln a year ago to $30 mln (-21.1%) range in Jul-23.
 
-![Screenshot 2023 07 17 11.38.38](assets/2023-07-17_brs-dry-bulk-weekly-newsletter_img_screenshot2023-07-17113838_a515d05c6c96.png)
+![Screenshot 2023 07 17 11.38.38](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-07-17_brs-dry-bulk-weekly-newsletter_img_screenshot2023-07-17113838_a515d05c6c96.png)
 
 > **Figure 5: Screenshot 2023 07 17 11.38.38**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-07-17_brs-dry-bulk-weekly-newsletter_img_screenshot2023-07-17113838_a515d05c6c96.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-07-17_brs-dry-bulk-weekly-newsletter_img_screenshot2023-07-17113838_a515d05c6c96.png)
 
 ### 3. Vessels Between 40,000 and 68,000 DWT
 
@@ -71,10 +71,10 @@ For the small-sized vessel fleet, which includes Supramax to Ultramax (50,000 to
 
 The segment is still digesting the oversupply of vessels due to the freight market boom in 2008, which lead to a surge in delivery in 2010 onwards (see chart below). Accordingly, currently 57.0% of the Supramax fleet fall into the 10-15 year age bracket. Over the next 2 to 3 years, the Supramax fleet might encounter similar demographic issues as the Capesize fleet. For a 5-year-old Supramax, following the decline in freight rates, ship value dropped to $26 mln from $31 mln a year ago.
 
-![Screenshot 2023 07 17 11.39.23](assets/2023-07-17_brs-dry-bulk-weekly-newsletter_img_screenshot2023-07-17113923_5a9944c66392.png)
+![Screenshot 2023 07 17 11.39.23](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-07-17_brs-dry-bulk-weekly-newsletter_img_screenshot2023-07-17113923_5a9944c66392.png)
 
 > **Figure 6: Screenshot 2023 07 17 11.39.23**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-07-17_brs-dry-bulk-weekly-newsletter_img_screenshot2023-07-17113923_5a9944c66392.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-07-17_brs-dry-bulk-weekly-newsletter_img_screenshot2023-07-17113923_5a9944c66392.png)
 
 In conclusion, looking at the supply side for all mainstream vessel types, there is no denying that we have a rosy prospect being painted as tonnage will tighten over the coming years. However, supply is just one side of the equation, the demand factor cannot be overlooked or understated. In the first half of this year, we witnessed a sluggish freight market due to global economic weakness, this has led year-on-year falls in daily returns for the shipowners, and as we have consistently emphasized (see Issue 62 for more information), recovery time is needed given the macro headwinds facing China.
 

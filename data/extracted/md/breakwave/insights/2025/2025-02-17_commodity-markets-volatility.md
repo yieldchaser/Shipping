@@ -62,10 +62,10 @@ During the past week, demand for seaborne transportation of imports from Chinese
 
 Globally, lower demand for seaborne transportation of coal in the spot market has contributed to the headwinds for panamax cargo order volumes. While demand for shipments to China has shown some promise over the past two weeks, the aggregates are significantly lower than during recent months. For India, demand for seaborne coal imports dropped to one of the lowest levels in recent years during the past week. However, cargo order volumes for agricultural commodities due for discharge in the Far East have provided some offset for the weakness in the panamax coal trade. Hence, a recovery for panamax freight rates depends on continued demand from the agricultural trade and a return of India’s coal importers.
 
-![Στιγμιότυπο Οθόνης 2025 02 17 170752](assets/2025-02-17_commodity-markets-volatility_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_21b34cbc335c.png)
+![Στιγμιότυπο Οθόνης 2025 02 17 170752](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-02-17_commodity-markets-volatility_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_21b34cbc335c.png)
 
 > **Figure 1: Στιγμιότυπο Οθόνης 2025 02 17 170752**  
-> **Interactive Data & Source:** [Shipfix](https://shipfix.com/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-02-17_commodity-markets-volatility_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_21b34cbc335c.png)
+> **Interactive Data & Source:** [Shipfix](https://shipfix.com/) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-02-17_commodity-markets-volatility_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_21b34cbc335c.png)
 
 Data Source:[Shipfix](https://shipfix.com/)
 

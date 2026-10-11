@@ -28,10 +28,18 @@ As can be seen in Figure 2 above, jet fuel demand has partially recovered, but i
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: Grounded](../../../charts/poten/2021/poten_2021-07-16_grounded_chart1.png)
+![Exhibit 1: Total Number of Commercial Flights (Tracked by FlightRadar24)](../../../charts/poten/2021/poten_2021-07-16_grounded_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2021/poten_2021-07-16_grounded_chart1.png)
+> **Exhibit 1: Total Number of Commercial Flights (Tracked by FlightRadar24)**  
+> Unit: Number of flights | % · X-axis: 01-Jan-20 to 01-Jul-21  
+> Series: Number of flights, 7-day moving average, 7 Day Avg % Compared to 2019  
+> *Source: FlightRadar24*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2021/poten_2021-07-16_grounded_chart1.png)
 
-![Exhibit 2: Grounded](../../../charts/poten/2021/poten_2021-07-16_grounded_chart2.png)
+![Exhibit 2: OECD Jet Fuel & Kerosene Demand](../../../charts/poten/2021/poten_2021-07-16_grounded_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2021/poten_2021-07-16_grounded_chart2.png)
+> **Exhibit 2: OECD Jet Fuel & Kerosene Demand**  
+> Unit: Mb/d | Import % · X-axis: Jan-19 to Apr-21  
+> Series: OECD Americas, OECD Europe, OECD Asia/Oceania, OECD Import %  
+> *Source: IEA*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2021/poten_2021-07-16_grounded_chart2.png)

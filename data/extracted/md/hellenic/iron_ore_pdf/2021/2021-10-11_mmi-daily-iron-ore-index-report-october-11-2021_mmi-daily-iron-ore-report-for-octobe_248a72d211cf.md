@@ -197,6 +197,8 @@ _No desk commentary reported for this session._
 | **SGX** | **Nov. 21** | USD/DMT | 135.50 | +10.85 | +8.70% | 3.02 | 17.56 | 124.95 | 137.60 |
 
 ## Dry Bulk Freight Rates Historical Line Data (USD/MT)
+> **Approximate.** The report prints no numbers for this chart. Values were read visually from the chart image by the parser and are rough estimates.
+
 | Date | C5 W. Australia - Qingdao (USD/MT) | C3 Tubarao - Qingdao (USD/MT) |
 | :--- | :--- | :--- |
 | 8-Sep-20 | 8.00 | 16.00 |
@@ -214,21 +216,23 @@ _No desk commentary reported for this session._
 | 8-Sep-21 | 16.00 | 35.00 |
 
 ## Total China Iron Ore Import Volumes (Million Tonnes)
+> **Estimate.** The report prints no numbers for this chart. Values are computed from the chart's vector geometry at each x-axis date label (calibrated on the printed axis ticks; typically within 1% of the axis range).
+
 | Month / Period | Import Volume (Million Tonnes) |
 | :--- | :--- |
-| Aug-20 | 100.00 |
-| Sep-20 | 108.00 |
-| Oct-20 | 106.00 |
-| Nov-20 | 98.00 |
-| Dec-20 | 96.00 |
-| Jan-21 | 98.00 |
-| Feb-21 | 83.00 |
-| Mar-21 | 102.00 |
-| Apr-21 | 98.00 |
-| May-21 | 89.00 |
-| Jun-21 | 88.00 |
-| Jul-21 | 87.00 |
-| Aug-21 | 97.00 |
+| Aug-20 | 100.38 |
+| Sep-20 | 108.50 |
+| Oct-20 | 106.74 |
+| Nov-20 | 98.19 |
+| Dec-20 | 96.66 |
+| Jan-21 | 98.85 |
+| Feb-21 | 82.62 |
+| Mar-21 | 102.14 |
+| Apr-21 | 98.63 |
+| May-21 | 89.86 |
+| Jun-21 | 89.42 |
+| Jul-21 | 88.54 |
+| Aug-21 | 97.53 |
 
 ---
 

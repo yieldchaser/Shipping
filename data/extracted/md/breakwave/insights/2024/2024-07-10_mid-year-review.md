@@ -20,10 +20,10 @@ source_file: "corpus/03-breakwave/insights/2024/2024-07-10_mid-year-review.html"
 
 ---
 
-![Tankers 4 Square](assets/2024-07-10_mid-year-review_img_tankers-4-square_a310bd6dfbdb.jpg)
+![Tankers 4 Square](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-07-10_mid-year-review_img_tankers-4-square_a310bd6dfbdb.jpg)
 
 > **Figure 1: Tankers 4 Square**  
-> **Interactive Data & Source:** [Gibsons Co](https://www.gibsons.co.uk/market-reports) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-07-10_mid-year-review_img_tankers-4-square_a310bd6dfbdb.jpg)
+> **Interactive Data & Source:** [Gibsons Co](https://www.gibsons.co.uk/market-reports) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-07-10_mid-year-review_img_tankers-4-square_a310bd6dfbdb.jpg)
 
 The onset of the EU’s Emission Trading System and fresh OPEC+ supply cuts were expected to be the big news stories at the start of this year. However, Houthi attacks on commercial shipping stole the show, leading to large-scale re-routing from the Suez Canal to the Cape of Good Hope, marking the start to another turbulent year in the tanker market. Initially, these attacks were aimed at Israeli linked shipping; however, targeting has become increasingly non-discriminate. The Iran-backed Houthi ramped up attacks on commercial shipping in January and February, and after a brief early spring lull the attacks increased again in May and June with apparent greater sophistication. Since the attacks started one ship has been seized, two ships have been sunk, and tragically, four sailors’ lives have been lost. Despite international efforts the attacks have continued unabated, and no solution to the crisis is in sight.
 
@@ -49,30 +49,30 @@ With no end in sight to the war in Ukraine, and the Red Sea increasingly closed 
 
 ## Summary Table – Market & Fleet Data
 
-![Στιγμιότυπο Οθόνης 2024 07 10 125900](assets/2024-07-10_mid-year-review_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_e35825cda8b0.png)
+![Στιγμιότυπο Οθόνης 2024 07 10 125900](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-07-10_mid-year-review_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_e35825cda8b0.png)
 
 > **Figure 2: Στιγμιότυπο Οθόνης 2024 07 10 125900**  
-> **Interactive Data & Source:** [Gibsons Co](https://www.gibsons.co.uk/market-reports) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-07-10_mid-year-review_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_e35825cda8b0.png)
+> **Interactive Data & Source:** [Gibsons Co](https://www.gibsons.co.uk/market-reports) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-07-10_mid-year-review_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_e35825cda8b0.png)
 
-![Στιγμιότυπο Οθόνης 2024 07 10 125912](assets/2024-07-10_mid-year-review_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_638646fe072b.png)
+![Στιγμιότυπο Οθόνης 2024 07 10 125912](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-07-10_mid-year-review_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_638646fe072b.png)
 
 > **Figure 3: Στιγμιότυπο Οθόνης 2024 07 10 125912**  
-> **Interactive Data & Source:** [Gibsons Co](https://www.gibsons.co.uk/market-reports) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-07-10_mid-year-review_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_638646fe072b.png)
+> **Interactive Data & Source:** [Gibsons Co](https://www.gibsons.co.uk/market-reports) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-07-10_mid-year-review_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_638646fe072b.png)
 
-![Στιγμιότυπο Οθόνης 2024 07 10 125927](assets/2024-07-10_mid-year-review_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_26aa5dad6583.png)
+![Στιγμιότυπο Οθόνης 2024 07 10 125927](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-07-10_mid-year-review_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_26aa5dad6583.png)
 
 > **Figure 4: Στιγμιότυπο Οθόνης 2024 07 10 125927**  
-> **Interactive Data & Source:** [Gibsons Co](https://www.gibsons.co.uk/market-reports) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-07-10_mid-year-review_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_26aa5dad6583.png)
+> **Interactive Data & Source:** [Gibsons Co](https://www.gibsons.co.uk/market-reports) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-07-10_mid-year-review_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_26aa5dad6583.png)
 
-![Στιγμιότυπο Οθόνης 2024 07 10 125944](assets/2024-07-10_mid-year-review_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_33a8bb258628.png)
+![Στιγμιότυπο Οθόνης 2024 07 10 125944](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-07-10_mid-year-review_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_33a8bb258628.png)
 
 > **Figure 5: Στιγμιότυπο Οθόνης 2024 07 10 125944**  
-> **Interactive Data & Source:** [Gibsons Co](https://www.gibsons.co.uk/market-reports) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-07-10_mid-year-review_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_33a8bb258628.png)
+> **Interactive Data & Source:** [Gibsons Co](https://www.gibsons.co.uk/market-reports) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-07-10_mid-year-review_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_33a8bb258628.png)
 
-![Στιγμιότυπο Οθόνης 2024 07 10 125958](assets/2024-07-10_mid-year-review_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_fedec7e00255.png)
+![Στιγμιότυπο Οθόνης 2024 07 10 125958](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-07-10_mid-year-review_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_fedec7e00255.png)
 
 > **Figure 6: Στιγμιότυπο Οθόνης 2024 07 10 125958**  
-> **Interactive Data & Source:** [Gibsons Co](https://www.gibsons.co.uk/market-reports) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-07-10_mid-year-review_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_fedec7e00255.png)
+> **Interactive Data & Source:** [Gibsons Co](https://www.gibsons.co.uk/market-reports) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-07-10_mid-year-review_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_fedec7e00255.png)
 
 Data source:[Gibson Shipbrokers](https://www.gibsons.co.uk/market-reports)
 

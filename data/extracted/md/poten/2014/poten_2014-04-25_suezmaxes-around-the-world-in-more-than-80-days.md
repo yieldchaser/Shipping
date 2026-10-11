@@ -26,14 +26,17 @@ On the other hand the number of Suezmax fixtures reported from the Arabian Gulf 
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: Suezmaxes: Around The World In More Than 80 Days](../../../charts/poten/2014/poten_2014-04-25_suezmaxes-around-the-world-in-more-than-80-days_chart1.png)
+![Exhibit 1: Suezmax Fixtures by Load Zone](../../../charts/poten/2014/poten_2014-04-25_suezmaxes-around-the-world-in-more-than-80-days_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2014/poten_2014-04-25_suezmaxes-around-the-world-in-more-than-80-days_chart1.png)
+> **Exhibit 1: Suezmax Fixtures by Load Zone**  
+> Unit: No. Fixtures | % Market Share · X-axis: 2009 to 2014 YTD  
+> Series: Total Arabian Gulf, Total West Africa, Total Mediterranean, AG Market Share, WAF Market Share, MED Market Share  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2014/poten_2014-04-25_suezmaxes-around-the-world-in-more-than-80-days_chart1.png)
 
 ![Exhibit 2: Suezmaxes: Around The World In More Than 80 Days](../../../charts/poten/2014/poten_2014-04-25_suezmaxes-around-the-world-in-more-than-80-days_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2014/poten_2014-04-25_suezmaxes-around-the-world-in-more-than-80-days_chart2.png)
+> **Interactive Asset:** [Local Asset (200 DPI PNG)](../../../charts/poten/2014/poten_2014-04-25_suezmaxes-around-the-world-in-more-than-80-days_chart2.png)
 
 ![Exhibit 3: Suezmaxes: Around The World In More Than 80 Days](../../../charts/poten/2014/poten_2014-04-25_suezmaxes-around-the-world-in-more-than-80-days_chart3.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2014/poten_2014-04-25_suezmaxes-around-the-world-in-more-than-80-days_chart3.png)
+> **Interactive Asset:** [Local Asset (200 DPI PNG)](../../../charts/poten/2014/poten_2014-04-25_suezmaxes-around-the-world-in-more-than-80-days_chart3.png)

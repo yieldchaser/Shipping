@@ -34,10 +34,10 @@ From a trade perspective, global volumes are expected to remain constrained over
 
 For the dry bulk sector, the near-term outlook remains constructive. Seasonal restocking, robust commodity flows, and active trading across key routes are expected to keep freight rates supported through year-end. Chinese imports remain steady, Indian demand resilient, and sentiment in emerging markets has improved, providing further short-term underpinning. Looking into the next year, in the absence of supportive measures or a reversal of the current trade fragmentation, and as the effects of front-loaded exports and recent stimulus fade, earnings are likely to plateau. Market focus will increasingly shift toward vessel efficiency, disciplined cost management, and strategic deployment of tonnage across Atlantic and Pacific trades, rather than chasing the momentum of a rapidly rising market.
 
-![Στιγμιότυπο Οθόνης 2025 10 20 094606](assets/2025-10-20_for-the-dry-bulk-sector-outlook-remains-constructive_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_bbc8aee9a161.png)
+![Στιγμιότυπο Οθόνης 2025 10 20 094606](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-10-20_for-the-dry-bulk-sector-outlook-remains-constructive_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_bbc8aee9a161.png)
 
 > **Figure 1: Στιγμιότυπο Οθόνης 2025 10 20 094606**  
-> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-10-20_for-the-dry-bulk-sector-outlook-remains-constructive_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_bbc8aee9a161.png)
+> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-10-20_for-the-dry-bulk-sector-outlook-remains-constructive_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_bbc8aee9a161.png)
 
 Data source:[Doric](https://www.doric.gr/)
 

@@ -29,7 +29,7 @@ The year has begun in a dramatic fashion for the dry bulk sector, with the Balti
 ![Ulf 201](assets/2021-01-11_not-quite-fimbulwinter-but-more-cold-weather-on-the-way_img_ulf201_f0c2d556c73f.jpg)
 
 > **Figure 1: Ulf 201**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2021/assets/2021-01-11_not-quite-fimbulwinter-but-more-cold-weather-on-the-way_img_ulf201_f0c2d556c73f.jpg)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-01-11_not-quite-fimbulwinter-but-more-cold-weather-on-the-way_img_ulf201_f0c2d556c73f.jpg)
 
 The current weather situation in the Northern Hemisphere, with temperatures well below normal in many parts, is also adding to a positive picture for dry bulk shipping. The cold snap is contributing to an increase in demand for thermal coal, especially in China where it is still the dominating source of energy. Coal prices have, like iron ore, also returned to the highs seen in late December in light of tight domestic supplies in China.
 
@@ -39,7 +39,7 @@ The current weather situation in the Northern Hemisphere, with temperatures well
 
 > **Figure 2: Fimbulwinter: The Harsh Winter That Precedes the End of The**  
 > ** Fimbulwinter: the harsh winter that precedes the end of the world in Norse mythology.*  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2021/assets/2021-01-11_not-quite-fimbulwinter-but-more-cold-weather-on-the-way_img_ulf202_ad95d8569546.jpg)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-01-11_not-quite-fimbulwinter-but-more-cold-weather-on-the-way_img_ulf202_ad95d8569546.jpg)
 
 The cold weather is also affecting the tonnage supply, as cargo discharge operations are delayed due to icy conditions in some ports in North-East Asia and reducing the available tonnage as a result. Meanwhile, meteorologists are not expecting the cold snap to end anytime soon, with even colder conditions likely to arrive in the coming weeks. A recent rise in temperatures in the stratosphere above the North Pole is expected to push very cold air, usually contained in the Arctic, into many parts of the Northern Hemisphere and contribute to an even greater plunge in temperatures and additional problems in some ports.
 

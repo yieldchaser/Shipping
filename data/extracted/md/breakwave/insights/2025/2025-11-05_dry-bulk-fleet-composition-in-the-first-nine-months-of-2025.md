@@ -26,17 +26,17 @@ This week, Allied Quantumsea Research reviews the dry bulk fleet composition for
 
 As of the first nine months of 2025, the active dry bulk fleet totals 14,021 vessels, compared with nearly 13,000 vessels in July 2025, while the orderbook stands at 1,499 vessels, or 10.7% of the active fleet, up from 9% in July. The continuous rise in the active fleet reflects ongoing deliveries with minimal demolition activity, resulting in a steady expansion of available tonnage. This trend, alongside a slightly higher orderbook share, highlights a persistently growing fleet and raises concerns over a potential supply imbalance if contracting activity persists and demolition remains limited.
 
-![Στιγμιότυπο Οθόνης 2025 11 05 122014](assets/2025-11-05_dry-bulk-fleet-composition-in-the-first-nine-months-of-2025_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_3d932c11a41f.png)
+![Στιγμιότυπο Οθόνης 2025 11 05 122014](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-11-05_dry-bulk-fleet-composition-in-the-first-nine-months-of-2025_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_3d932c11a41f.png)
 
 > **Figure 1: Στιγμιότυπο Οθόνης 2025 11 05 122014**  
-> **Interactive Data & Source:** [Allied-shipbroking](https://www.allied-shipbroking.gr/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-11-05_dry-bulk-fleet-composition-in-the-first-nine-months-of-2025_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_3d932c11a41f.png)
+> **Interactive Data & Source:** [Allied-shipbroking](https://www.allied-shipbroking.gr/) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-11-05_dry-bulk-fleet-composition-in-the-first-nine-months-of-2025_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_3d932c11a41f.png)
 
 Small and medium-sized vessel categories: Supramax/Ultramax (4,312 units, including Handymax), Handysize (3,202), and Panamax/Kamsarmax (3,472), dominate the active bulk carrier fleet by vessel count, far surpassing the larger vessel segments: Capesize/VLOC (1,916) and Post Panamax (1,117). Additionally, the fleet includes 2,005 Small Bulk carriers, roughly 60% of which are over 10 years old.
 
-![Στιγμιότυπο Οθόνης 2025 11 05 122021](assets/2025-11-05_dry-bulk-fleet-composition-in-the-first-nine-months-of-2025_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_bca3a5bf00c6.png)
+![Στιγμιότυπο Οθόνης 2025 11 05 122021](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-11-05_dry-bulk-fleet-composition-in-the-first-nine-months-of-2025_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_bca3a5bf00c6.png)
 
 > **Figure 2: Στιγμιότυπο Οθόνης 2025 11 05 122021**  
-> **Interactive Data & Source:** [Allied-shipbroking](https://www.allied-shipbroking.gr/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-11-05_dry-bulk-fleet-composition-in-the-first-nine-months-of-2025_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_bca3a5bf00c6.png)
+> **Interactive Data & Source:** [Allied-shipbroking](https://www.allied-shipbroking.gr/) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-11-05_dry-bulk-fleet-composition-in-the-first-nine-months-of-2025_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_bca3a5bf00c6.png)
 
 ### Fleet Age Profile | Smaller Segments Continue to Bear the Weight
 
@@ -46,10 +46,10 @@ The age structure of the fleet remains uneven across segments. More than 130 mil
 
 The first nine months of the year saw a net fleet growth of 315 vessels (+23.24m DWT), driven by 420 deliveries against 105 removals (including scrapping and other removals).
 
-![Στιγμιότυπο Οθόνης 2025 11 05 122250](assets/2025-11-05_dry-bulk-fleet-composition-in-the-first-nine-months-of-2025_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_c328ac4dacff.png)
+![Στιγμιότυπο Οθόνης 2025 11 05 122250](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-11-05_dry-bulk-fleet-composition-in-the-first-nine-months-of-2025_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_c328ac4dacff.png)
 
 > **Figure 3: Στιγμιότυπο Οθόνης 2025 11 05 122250**  
-> **Interactive Data & Source:** [Allied-shipbroking](https://www.allied-shipbroking.gr/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-11-05_dry-bulk-fleet-composition-in-the-first-nine-months-of-2025_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_c328ac4dacff.png)
+> **Interactive Data & Source:** [Allied-shipbroking](https://www.allied-shipbroking.gr/) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-11-05_dry-bulk-fleet-composition-in-the-first-nine-months-of-2025_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_c328ac4dacff.png)
 
 ### Fleet Growth Pattern Unchanged | Supramaxes Still Lead, Handysizes Overtake Kamsarmaxes
 
@@ -59,10 +59,10 @@ The Supramax segment added 127 vessels over the first nine months, up from aroun
 
 Capesize/VLOC additions remained moderate at 22 vessels, while Post-Panamax tonnage grew by 12 ships, and Small Bulkers continued to contract with a net loss of 9 vessels.
 
-![Στιγμιότυπο Οθόνης 2025 11 05 123759](assets/2025-11-05_dry-bulk-fleet-composition-in-the-first-nine-months-of-2025_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_61cd0069c355.png)
+![Στιγμιότυπο Οθόνης 2025 11 05 123759](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-11-05_dry-bulk-fleet-composition-in-the-first-nine-months-of-2025_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_61cd0069c355.png)
 
 > **Figure 4: Στιγμιότυπο Οθόνης 2025 11 05 123759**  
-> **Interactive Data & Source:** [Allied-shipbroking](https://www.allied-shipbroking.gr/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-11-05_dry-bulk-fleet-composition-in-the-first-nine-months-of-2025_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_61cd0069c355.png)
+> **Interactive Data & Source:** [Allied-shipbroking](https://www.allied-shipbroking.gr/) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-11-05_dry-bulk-fleet-composition-in-the-first-nine-months-of-2025_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_61cd0069c355.png)
 
 ### Demolition Activity | Persistent Weakness in Vessel Removals
 
@@ -78,20 +78,20 @@ During the third quarter of 2025, robust iron-ore shipments from Brazil and Aust
 
 Although these trade-driven gains have supported freight market evolution in a positive trend, the underlying imbalance between an ageing fleet and weak demolition persists. Unless stronger policy signals and carbon-aligned incentives accelerate removals, older vessels will continue to crowd the market, delaying the fleet’s energy transition and sustaining medium-term oversupply risk.
 
-![Στιγμιότυπο Οθόνης 2025 11 05 124000](assets/2025-11-05_dry-bulk-fleet-composition-in-the-first-nine-months-of-2025_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_2983192a5351.png)
+![Στιγμιότυπο Οθόνης 2025 11 05 124000](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-11-05_dry-bulk-fleet-composition-in-the-first-nine-months-of-2025_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_2983192a5351.png)
 
 > **Figure 5: Στιγμιότυπο Οθόνης 2025 11 05 124000**  
-> **Interactive Data & Source:** [Allied-shipbroking](https://www.allied-shipbroking.gr/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-11-05_dry-bulk-fleet-composition-in-the-first-nine-months-of-2025_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_2983192a5351.png)
+> **Interactive Data & Source:** [Allied-shipbroking](https://www.allied-shipbroking.gr/) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-11-05_dry-bulk-fleet-composition-in-the-first-nine-months-of-2025_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_2983192a5351.png)
 
-![Στιγμιότυπο Οθόνης 2025 11 05 124008](assets/2025-11-05_dry-bulk-fleet-composition-in-the-first-nine-months-of-2025_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_2daa845f9fbd.png)
+![Στιγμιότυπο Οθόνης 2025 11 05 124008](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-11-05_dry-bulk-fleet-composition-in-the-first-nine-months-of-2025_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_2daa845f9fbd.png)
 
 > **Figure 6: Στιγμιότυπο Οθόνης 2025 11 05 124008**  
-> **Interactive Data & Source:** [Allied-shipbroking](https://www.allied-shipbroking.gr/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-11-05_dry-bulk-fleet-composition-in-the-first-nine-months-of-2025_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_2daa845f9fbd.png)
+> **Interactive Data & Source:** [Allied-shipbroking](https://www.allied-shipbroking.gr/) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-11-05_dry-bulk-fleet-composition-in-the-first-nine-months-of-2025_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_2daa845f9fbd.png)
 
-![Στιγμιότυπο Οθόνης 2025 11 05 124014](assets/2025-11-05_dry-bulk-fleet-composition-in-the-first-nine-months-of-2025_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_b5b0fe5ecb2d.png)
+![Στιγμιότυπο Οθόνης 2025 11 05 124014](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-11-05_dry-bulk-fleet-composition-in-the-first-nine-months-of-2025_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_b5b0fe5ecb2d.png)
 
 > **Figure 7: Στιγμιότυπο Οθόνης 2025 11 05 124014**  
-> **Interactive Data & Source:** [Allied-shipbroking](https://www.allied-shipbroking.gr/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-11-05_dry-bulk-fleet-composition-in-the-first-nine-months-of-2025_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_b5b0fe5ecb2d.png)
+> **Interactive Data & Source:** [Allied-shipbroking](https://www.allied-shipbroking.gr/) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-11-05_dry-bulk-fleet-composition-in-the-first-nine-months-of-2025_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_b5b0fe5ecb2d.png)
 
 Data Source:[Allied](https://www.allied-shipbroking.gr/)
 

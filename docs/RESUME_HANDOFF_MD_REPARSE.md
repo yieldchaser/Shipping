@@ -1,6 +1,6 @@
 # Resume Handoff — Markdown Re-parse & Ingest Automation
 
-Last updated: 2026-10-06 ~23:30 IST. Worktree: `.claude/worktrees/maritime-audit-docs-review-a8b612`,
+Last updated: 2026-10-11 night IST. Worktree: `.claude/worktrees/maritime-audit-docs-review-a8b612`,
 branch `claude/restore-damaged-md` (WIP pushed to origin). Goal: every `data/extracted/md` file correct
 and well-formatted for the DeepSeek GraphRAG build, plus end-to-end ingest automation.
 
@@ -17,7 +17,50 @@ and well-formatted for the DeepSeek GraphRAG build, plus end-to-end ingest autom
 3. **`scripts/parse_engine_html/`** — VesselsValue HTML deals + VV Mini Matrix image OCR (in progress). Output to `.reparse_staging/vessel_valuations/`.
 4. **SHELVED — see HARD RULE.** `scripts/md_cleanup/chart_tables.py` — removes LLM-guessed chart tables (values not printed in source text layer), replaces with `> Figure: … not transcribed` note. Guarded mode default; ISM (vector-engine charts) and any "Vector" section excluded. Dry-run results in `.reparse_staging/chart_cleanup/guard_published/` (8,890 tables). Was about to APPLY in place — check `git diff --stat data/extracted/md` before committing.
 
-## PAUSED 2026-10-11 ~11:40 IST (session limit 89%) — RESUME HERE
+## STATUS 2026-10-11 (night) — TWINS, LINKS, BREAKWAVE/SIGNAL FIDELITY, POTEN CHARTS, IRON ORE CHARTS
+
+All tools are in `scripts/md_cleanup/`. Nothing was deleted: archived MDs are kept under `data/archive/twins/`.
+
+- **Twins** (`resolve_twins.py`, registry `data/derived/twin_documents.json`, 64 entries): same issue extracted twice,
+  63 of them byte-identical PDFs (HSN collection-route re-posts) plus misfiles.
+  - The twin MD is archived; its series rows are folded into the canonical issue (rows the canonical already had are dropped,
+    rows only the twin had are renamed to the canonical with the canonical date). Rows of misfiled twins are dropped.
+  - 5 Xclusiv entries are `promote`: the re-post read about twice as many PDF numbers, so it replaced the canonical, renamed.
+  - CI: `twin_guard.py --apply` in `report_ingest.yml` checks each NEW MD's PDF md5 against `data/derived/pdf_md5_index.json`
+    (rebuild with `--build-index` on a machine holding the corpus). The newcomer is always the twin; a tracked MD is never
+    archived in CI, because `protect_accepted_md.py` would restore it.
+- **Asset links** (`relative_asset_links.py`, `--list-missing` prints dead targets): every `file:///` link in Breakwave,
+  Signal and Poten is now relative, and every local link resolves except one Signal image.
+  - Breakwave: the 64 dead links were ANZ Research (63) and Baker Institute (1) PDFs linked from Breakwave insights. They
+    sit behind a login wall / 403 (the scraper had rightly rejected the 5 KB login pages), so the links now point to the
+    original URLs taken from the live Breakwave pages.
+  - Signal: 6 missing chart images downloaded from Signal's CDN (owner OK'd) into `corpus/07-signal/images/`. Three names
+    contain `)`, which had truncated the MD links; fixed with `%29`. `7df2b330-…` is broken on Signal's own page.
+- **Breakwave/Signal text** (`restore_html_paragraphs.py`): blocks the HTML-to-MD pass dropped (nested sub-bullets, chart
+  captions) were re-inserted, additive only: Breakwave 83 blocks / 43 files, Signal 11 / 9. Coverage vs the source HTML is now
+  99.6% (Breakwave) and 99.3%+ (Signal); 67 partial-wording losses are reported, not touched.
+  Owner: Breakwave's BDI/BDTI/FFA charts are NOT estimated — those values are public and already in Index.md. Same rule for any
+  future chart whose data exists elsewhere.
+- **Poten** (`poten_chart_captions.py`): exhibits had the article title as caption, a hard-coded "Poten & Partners" source,
+  logo crops (2004-08) and nothing about the chart. A LlamaParse agentic read of each PDF page (cache
+  `.reparse_staging/poten_charts/`) gives the printed title, unit, x-axis, series and source; logos (dhash) are dropped, and
+  charts that were never cropped are added as captions. Values are NOT estimated (charts are images). CI runs it with
+  `--untracked` after `run_poten.py`. Poten's site moved (new article URLs); the last issue is 2026-10-02 and 7 issues were
+  backfilled.
+  - Applied to all Poten MDs: 1,033 exhibits captioned, 239 logo crops dropped, 499 never-cropped charts added as captions,
+    134 exhibits left unmatched (kept with their image), 82 MDs where no chart was read. Only caption/image lines changed
+    (checked line by line). Titles drawn inside chart images are not in the PDF text layer; samples were checked visually.
+  - The 1,276 chart PNGs the MDs reference (148 MB) are committed (owner OK'd); unreferenced logo crops are not.
+- **Iron ore** (MMi PDFs): the three chart tables (freight, China imports, index comparisons) were visual guesses (e.g. negative
+  C3 freight, wrong x labels). `iron_ore_vector_charts_patch.py` recomputes them from the chart's vector geometry and labels
+  them `> **Estimate.**`; charts that do not read cleanly keep the old values under `> **Approximate.**`.
+  `iron_ore_chart_series_rebuild.py` rebuilds the three `hellenic_iron_ore_pdf_*` series with a `value_source` column.
+  - Applied to 1,189 MDs: vector reads for comparisons 567, freight 1,069, imports 1,125; kept as Approximate 62 / 95 / 39.
+  - Spot check (2021-09-16 vs rendered page 4): x labels 8-Sep (old 9-Sep), C3 ~30 and C5 ~12.5 USD/t, import bars exact.
+  - The manual MMi runner (`run_hellenic_iron_ore_pdf.py`) writes `value_source` too. CI only ingests the SMM one-page
+    report, which has no charts.
+
+## PAUSED 2026-10-11 ~11:40 IST (session limit 89%)
 - The owner approved Nace credits (keys rotate via NACE_API_KEY_n lines in ~/.nace/keys.env), the runner download and all open items.
 - **Nace cross-check** (`scripts/qa/nace_crosscheck.py`, uncommitted): a full sweep (6 samples per source, 2 pages each) was left running.
   Results go to `.reparse_staging/qa_nace/crosscheck_summary.csv` and `crosscheck_defects.csv`, with the log in `run_full.log`. Triage

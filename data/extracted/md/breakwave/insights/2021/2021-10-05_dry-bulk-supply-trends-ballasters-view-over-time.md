@@ -39,14 +39,14 @@ Signal Ocean data reveal the evolution of the number of vessels sailing in balla
 ![Signal1](assets/2021-10-05_dry-bulk-supply-trends-ballasters-view-over-time_img_signal1_08498c9cce03.png)
 
 > **Figure 1: Signal1**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/dry-bulk-supply-trends-ballasters-view-over-time?fbclid=IwAR1UheGex6kiZfuv1fOFvWT7kDsb6qhlpmC1xirWpuwznsDFumWhEtCvpcY) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2021/assets/2021-10-05_dry-bulk-supply-trends-ballasters-view-over-time_img_signal1_08498c9cce03.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/dry-bulk-supply-trends-ballasters-view-over-time?fbclid=IwAR1UheGex6kiZfuv1fOFvWT7kDsb6qhlpmC1xirWpuwznsDFumWhEtCvpcY) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-10-05_dry-bulk-supply-trends-ballasters-view-over-time_img_signal1_08498c9cce03.png)
 
 ## Capesize 120-220kt DWT
 
 ![Signal2](assets/2021-10-05_dry-bulk-supply-trends-ballasters-view-over-time_img_signal2_852dcbef8786.png)
 
 > **Figure 2: Signal2**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/dry-bulk-supply-trends-ballasters-view-over-time?fbclid=IwAR1UheGex6kiZfuv1fOFvWT7kDsb6qhlpmC1xirWpuwznsDFumWhEtCvpcY) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2021/assets/2021-10-05_dry-bulk-supply-trends-ballasters-view-over-time_img_signal2_852dcbef8786.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/dry-bulk-supply-trends-ballasters-view-over-time?fbclid=IwAR1UheGex6kiZfuv1fOFvWT7kDsb6qhlpmC1xirWpuwznsDFumWhEtCvpcY) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-10-05_dry-bulk-supply-trends-ballasters-view-over-time_img_signal2_852dcbef8786.png)
 
 So far the bulker freight market remains unperturbed and owners have enjoyed a remarkable growth of earnings in the last 12 months. It seems that spot freight market rates will continue their upward trend and Pacific Asia even more as the supply of tonnage appears to be even tighter and combined with accelerated number of port congestion at Chinese ports will strongly support the upward trend of freight rates.
 

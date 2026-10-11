@@ -35,14 +35,14 @@ The Chinese economy's restrictive policies and problems have also impacted the v
 ![Ch1](assets/2021-10-01_china-the-not-so-golden-week_img_ch1_f510d3cda946.png)
 
 > **Figure 1: Ch1**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2021/assets/2021-10-01_china-the-not-so-golden-week_img_ch1_f510d3cda946.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-10-01_china-the-not-so-golden-week_img_ch1_f510d3cda946.png)
 
 Despite the weakening Chinese iron ore and coal imports, global export volumes have kept up rather well. Both iron ore and coal export shipments during the third quarter are broadly in line with the same quarter in 2019 before the pandemic hit. However, iron ore shipments are two per cent below last year's blockbuster third quarter when the Chinese recovery was in full swing. Coal exports during the third quarter, on the other hand, rose by seventeen per cent compared to the previous year.
 
 ![Ch2](assets/2021-10-01_china-the-not-so-golden-week_img_ch2_8dc7ed870f46.png)
 
 > **Figure 2: Ch2**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2021/assets/2021-10-01_china-the-not-so-golden-week_img_ch2_8dc7ed870f46.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-10-01_china-the-not-so-golden-week_img_ch2_8dc7ed870f46.png)
 
 New economic stimulus programmes and a newfound ambition to rebuild dwindling energy inventories look set to fuel Chinese imports of coal and commodities. However, as global seaborne volumes for many raw materials have remained stable despite the slowdown in Chinese imports, any increase in Chinese activities will add to the already tight tonnage supply situation in the dry bulk sector and support current freight rates.
 

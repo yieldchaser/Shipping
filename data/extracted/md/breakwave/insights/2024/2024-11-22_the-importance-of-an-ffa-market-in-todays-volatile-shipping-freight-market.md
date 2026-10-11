@@ -20,10 +20,10 @@ source_file: "corpus/03-breakwave/insights/2024/2024-11-22_the-importance-of-an-
 
 ---
 
-![Market Chart 1](assets/2024-11-22_the-importance-of-an-ffa-market-in-todays-volatile-shipping-freight-market_img_unnamed_a07e3e8faa25.png)
+![Market Chart 1](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-11-22_the-importance-of-an-ffa-market-in-todays-volatile-shipping-freight-market_img_unnamed_a07e3e8faa25.png)
 
 > **Figure 1: Market Chart 1**  
-> **Interactive Data & Source:** [Signal Ocean Dynamic Market Prices](https://go.signalocean.com/e/983831/dry-dynamic-market-prices-dry/2qqd96/449800829/h/u5HxteKqKOTZeOG2KybLaEYJoqNXRuZHOlPDCz3M2GU) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-11-22_the-importance-of-an-ffa-market-in-todays-volatile-shipping-freight-market_img_unnamed_a07e3e8faa25.png)
+> **Interactive Data & Source:** [Signal Ocean Dynamic Market Prices](https://go.signalocean.com/e/983831/dry-dynamic-market-prices-dry/2qqd96/449800829/h/u5HxteKqKOTZeOG2KybLaEYJoqNXRuZHOlPDCz3M2GU) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-11-22_the-importance-of-an-ffa-market-in-todays-volatile-shipping-freight-market_img_unnamed_a07e3e8faa25.png)
 
 In today’s volatile shipping market, particularly amid unpredictable global conditions and geopolitical events, Forward Freight Agreements (FFAs) play a crucial role in stabilising and managing risk. FFAs allow shipping industry participants to hedge against freight rate fluctuations, providing financial security and predictability in an increasingly uncertain environment. Freight derivatives have become a go-to solution for risk management, empowering companies to protect themselves against freight rate volatility and navigate the market with greater predictability and confidence.
 
@@ -80,11 +80,11 @@ The dry bulk market’s standardization—especially in routes and cargo types�
 
 In conclusion, the Capesize segment of the dry bulk market holds the largest liquidity in the FFA market, supported by the high volume of trade, significant rate volatility, and the global importance of the commodities it carries, particularly iron ore and coal. While Panamax and Supramax vessels also see considerable FFA activity, the tanker market generally lags behind dry bulk in terms of liquidity. The dominance of Capesize in the FFA space is further bolstered by its influence on the Baltic Dry Index (BDI), which serves as a critical driver for FFA trades.
 
-![Image 1: An Example Above Depicting Ffa Historical Prices For](assets/2024-11-22_the-importance-of-an-ffa-market-in-todays-volatile-shipping-freight-market_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_059e9af16ae2.png)
+![Image 1: An Example Above Depicting Ffa Historical Prices For](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-11-22_the-importance-of-an-ffa-market-in-todays-volatile-shipping-freight-market_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_059e9af16ae2.png)
 
 > **Figure 2: Image 1: An Example Above Depicting Ffa Historical Prices For**  
 > *Image 1: An example above depicting FFA historical prices for the Dry Bulk Capesize vessel size segment per trading route. For the Capesize segment, FFAs track price fluctuations across key trading routes, such as the Atlantic and Pacific basins or specific point-to-point voyages like Tubarao to Qingdao. Historical price data for these routes provide valuable context, highlighting market volatility, seasonal patterns, and the impact of global events such as shifts in iron ore demand, weather disruptions, or geopolitical tensions. To explore these historical prices in more detail, including their route-specific breakdowns and trends, you can visitSignal Ocean's FFA price tracking platform. The platform provides dynamic market data, enabling users to dive deeper into route-specific FFA movements and stay updated on current trends.For an in-depth overview of the Capesize freight market, including insights into supply-demand dynamics influencing spot freight trends on the C3 and C5 routes, visitSignal Ocean’s Capesize Market Insights.*  
-> **Interactive Data & Source:** [Signal Ocean Dynamic Market Prices](https://go.signalocean.com/e/983831/dry-dynamic-market-prices-dry/2qqd96/449800829/h/u5HxteKqKOTZeOG2KybLaEYJoqNXRuZHOlPDCz3M2GU) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-11-22_the-importance-of-an-ffa-market-in-todays-volatile-shipping-freight-market_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_059e9af16ae2.png)
+> **Interactive Data & Source:** [Signal Ocean Dynamic Market Prices](https://go.signalocean.com/e/983831/dry-dynamic-market-prices-dry/2qqd96/449800829/h/u5HxteKqKOTZeOG2KybLaEYJoqNXRuZHOlPDCz3M2GU) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-11-22_the-importance-of-an-ffa-market-in-todays-volatile-shipping-freight-market_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_059e9af16ae2.png)
 
 ### The Importance of Data
 

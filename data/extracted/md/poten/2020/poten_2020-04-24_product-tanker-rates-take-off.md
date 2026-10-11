@@ -28,10 +28,17 @@ Shipowners seem to be big winners here, at least in the short-term. However, eve
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: Product Tanker Rates Take Off](../../../charts/poten/2020/poten_2020-04-24_product-tanker-rates-take-off_chart1.png)
+![Exhibit 1: LR2: AG - Japan](../../../charts/poten/2020/poten_2020-04-24_product-tanker-rates-take-off_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2020/poten_2020-04-24_product-tanker-rates-take-off_chart1.png)
+> **Exhibit 1: LR2: AG - Japan**  
+> Unit: US$/day · X-axis: 1 to 51  
+> Series: 2020, 2019, 2018, 2017, 2016  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2020/poten_2020-04-24_product-tanker-rates-take-off_chart1.png)
 
-![Exhibit 2: Product Tanker Rates Take Off](../../../charts/poten/2020/poten_2020-04-24_product-tanker-rates-take-off_chart2.png)
+![Exhibit 2: MR: UKC - USA](../../../charts/poten/2020/poten_2020-04-24_product-tanker-rates-take-off_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2020/poten_2020-04-24_product-tanker-rates-take-off_chart2.png)
+> **Exhibit 2: MR: UKC - USA**  
+> Unit: US$/day · X-axis: 1 to 51  
+> Series: 2020, 2019, 2018, 2017, 2016  
+> *Source: Poten & Partners*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2020/poten_2020-04-24_product-tanker-rates-take-off_chart2.png)

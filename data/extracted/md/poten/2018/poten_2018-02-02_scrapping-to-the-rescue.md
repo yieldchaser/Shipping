@@ -26,10 +26,18 @@ Let's look at VLCCs as an example. There are 116 units built from 1993-2001. Scr
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: Scrapping To The Rescue](../../../charts/poten/2018/poten_2018-02-02_scrapping-to-the-rescue_chart1.png)
+![Exhibit 1: Tanker Scrapping vs VLCC Rates](../../../charts/poten/2018/poten_2018-02-02_scrapping-to-the-rescue_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2018/poten_2018-02-02_scrapping-to-the-rescue_chart1.png)
+> **Exhibit 1: Tanker Scrapping vs VLCC Rates**  
+> Unit: Mln DWT | TCE · X-axis: 1980 to 2016  
+> Series: VLCC, Suezmax, Aframax, Panamax, MR/Handy, VLCC Rates  
+> *Source: Poten & Partners*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2018/poten_2018-02-02_scrapping-to-the-rescue_chart1.png)
 
-![Exhibit 2: Scrapping To The Rescue](../../../charts/poten/2018/poten_2018-02-02_scrapping-to-the-rescue_chart2.png)
+![Exhibit 2: Scrap Value vs 15 yr Old VLCC Prices](../../../charts/poten/2018/poten_2018-02-02_scrapping-to-the-rescue_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2018/poten_2018-02-02_scrapping-to-the-rescue_chart2.png)
+> **Exhibit 2: Scrap Value vs 15 yr Old VLCC Prices**  
+> Unit: Mln USD · X-axis: Jan-2007 to Jan-2018  
+> Series: SH Price (15 yr old), VLCC Scrap Value  
+> *Source: Poten & Partners*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2018/poten_2018-02-02_scrapping-to-the-rescue_chart2.png)

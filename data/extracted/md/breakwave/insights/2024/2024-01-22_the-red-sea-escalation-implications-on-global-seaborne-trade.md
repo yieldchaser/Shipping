@@ -26,11 +26,11 @@ With the start of the new year, the crisis now appears to be impacting Red Sea v
 
 In the dry bulk segment, the market has not experienced a significant impact yet. However, as time progresses, the threat of Houthi attacks on both dry and wet seaborne trade appears to be escalating. Figure 1 below, examines which segments were the most exposed to Suez canal crossings in 2023. Suezmax and Aframax and Supramax and Panamax represent more than half of the total crossings in tankers and dry bulk respectively.
 
-![% of Voyages That Ended in 2023 with a Suez Canal Crossing Per](assets/2024-01-22_the-red-sea-escalation-implications-on-global-seaborne-trade_img_unnamed-2024-01-22t140322156_e606a6f77ba5.png)
+![% of Voyages That Ended in 2023 with a Suez Canal Crossing Per](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-01-22_the-red-sea-escalation-implications-on-global-seaborne-trade_img_unnamed-2024-01-22t140322156_e606a6f77ba5.png)
 
 > **Figure 1: % of Voyages That Ended in 2023 with a Suez Canal Crossing Per**  
 > *Figure 1: % of Voyages that ended in 2023 with a Suez canal crossing per Vessel Class, Tanker & Dry*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://go.thesignalgroup.com/e/983831/signal-ocean-platform/2prr6w/377346806/h/0M6Wtn88U1g0Vw-J_zH4zsB7azMIV9xjLJt9MyWCR-M) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-01-22_the-red-sea-escalation-implications-on-global-seaborne-trade_img_unnamed-2024-01-22t140322156_e606a6f77ba5.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://go.thesignalgroup.com/e/983831/signal-ocean-platform/2prr6w/377346806/h/0M6Wtn88U1g0Vw-J_zH4zsB7azMIV9xjLJt9MyWCR-M) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-01-22_the-red-sea-escalation-implications-on-global-seaborne-trade_img_unnamed-2024-01-22t140322156_e606a6f77ba5.png)
 
 ### ​​​​​​
 
@@ -43,11 +43,11 @@ So how much would the various vessel classes be affected if suspension of crossi
 
 So, not only do Suezmax and Aframax tankers, together with Supramax and Panamax Dry, dominate the canal’s time, but it appears that crossing it happens while serving a very substantial part of the total global ton-miles for the trades these vessel segments serve.
 
-![% of Voyages Suez Crossing Ending in 2023 to Total Voyages](assets/2024-01-22_the-red-sea-escalation-implications-on-global-seaborne-trade_img_unnamed-2024-01-22t140429327_6c4bfb0beb89.png)
+![% of Voyages Suez Crossing Ending in 2023 to Total Voyages](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-01-22_the-red-sea-escalation-implications-on-global-seaborne-trade_img_unnamed-2024-01-22t140429327_6c4bfb0beb89.png)
 
 > **Figure 2: % of Voyages Suez Crossing Ending in 2023 to Total Voyages**  
 > *Figure 2: % of voyages Suez Crossing ending in 2023 to Total Voyages, per Vessel Class, Tanker & Dry*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/the-red-sea-escalation-implications-on-global-seaborne-trade) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-01-22_the-red-sea-escalation-implications-on-global-seaborne-trade_img_unnamed-2024-01-22t140429327_6c4bfb0beb89.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/the-red-sea-escalation-implications-on-global-seaborne-trade) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-01-22_the-red-sea-escalation-implications-on-global-seaborne-trade_img_unnamed-2024-01-22t140429327_6c4bfb0beb89.png)
 
 ### To Read the Full Article Please Click on the Button Below.
 

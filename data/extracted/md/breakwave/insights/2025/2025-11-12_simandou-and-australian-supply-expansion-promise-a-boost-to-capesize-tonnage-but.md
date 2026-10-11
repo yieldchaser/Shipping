@@ -20,17 +20,17 @@ source_file: "corpus/03-breakwave/insights/2025/2025-11-12_simandou-and-australi
 
 ---
 
-![Market Chart 1](assets/2025-11-12_simandou-and-australian-supply-expansion-promise-a-boost-to-capesize-tonnage-but_img_unnamed_3ca440c5d78b.png)
+![Market Chart 1](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-11-12_simandou-and-australian-supply-expansion-promise-a-boost-to-capesize-tonnage-but_img_unnamed_3ca440c5d78b.png)
 
 > **Figure 1: Market Chart 1**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-11-12_simandou-and-australian-supply-expansion-promise-a-boost-to-capesize-tonnage-but_img_unnamed_3ca440c5d78b.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-11-12_simandou-and-australian-supply-expansion-promise-a-boost-to-capesize-tonnage-but_img_unnamed_3ca440c5d78b.png)
 
 Global iron ore supply is gaining solid momentum, with total seaborne shipments climbing toward 150 million tonnes in recent months, up from around 120 million tonnes earlier in 2024. Western Australia remains the dominant contributor, sustaining high and stable export levels, while Brazil and West Africa have stepped in aggressively, showing marked increases since mid-2024 as new mining capacity and logistics improvements come online.
 
-![Market Chart 2](assets/2025-11-12_simandou-and-australian-supply-expansion-promise-a-boost-to-capesize-tonnage-but_img_unnamed28129_a01690660559.png)
+![Market Chart 2](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-11-12_simandou-and-australian-supply-expansion-promise-a-boost-to-capesize-tonnage-but_img_unnamed28129_a01690660559.png)
 
 > **Figure 2: Market Chart 2**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-11-12_simandou-and-australian-supply-expansion-promise-a-boost-to-capesize-tonnage-but_img_unnamed28129_a01690660559.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-11-12_simandou-and-australian-supply-expansion-promise-a-boost-to-capesize-tonnage-but_img_unnamed28129_a01690660559.png)
 
 ### Australia, Brazil, and West Africa Lead the Charge
 
@@ -46,10 +46,10 @@ In West Africa, momentum is finally building. Simandou in Guinea is moving from 
 
 For the freight market, the implications are clear. The recent increase in iron ore supply from major export hubs such as Australia, Brazil, and emerging West African origins is already visible through a sharp rise in tonne-days, up by roughly 25–30% since early 2025. This surge reflects stronger long-haul activity and greater tonnage absorption, supporting improved Capesize rate performance and a sustained recovery in the BCI. Continued expansion of these export flows, particularly from projects like Simandou, is expected to further boost tonne-mile demand and gradually rebalance Atlantic–Pacific trade dynamics.
 
-![Market Chart 3](assets/2025-11-12_simandou-and-australian-supply-expansion-promise-a-boost-to-capesize-tonnage-but_img_unnamed28229_7e5463c4cbfd.png)
+![Market Chart 3](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-11-12_simandou-and-australian-supply-expansion-promise-a-boost-to-capesize-tonnage-but_img_unnamed28229_7e5463c4cbfd.png)
 
 > **Figure 3: Market Chart 3**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-11-12_simandou-and-australian-supply-expansion-promise-a-boost-to-capesize-tonnage-but_img_unnamed28229_7e5463c4cbfd.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-11-12_simandou-and-australian-supply-expansion-promise-a-boost-to-capesize-tonnage-but_img_unnamed28229_7e5463c4cbfd.png)
 
 ### Chinese Steel Slowdown Offsets Supply Gains - Port Stocks on the Rise
 
@@ -57,10 +57,10 @@ However, the recent renewed supply optimism contrasts sharply with China’s wea
 
 As illustrated in the chart, iron ore shipments to China have grown markedly in 2025, with monthly arrivals consistently exceeding 2024 levels since March. Volumes climbed from around 115 million tonnes in February to more than 140 million tonnes by October, reflecting stronger export flows from Australia and Brazil.
 
-![Market Chart 4](assets/2025-11-12_simandou-and-australian-supply-expansion-promise-a-boost-to-capesize-tonnage-but_img_unnamed28329_6a1c3d777e70.png)
+![Market Chart 4](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-11-12_simandou-and-australian-supply-expansion-promise-a-boost-to-capesize-tonnage-but_img_unnamed28329_6a1c3d777e70.png)
 
 > **Figure 4: Market Chart 4**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-11-12_simandou-and-australian-supply-expansion-promise-a-boost-to-capesize-tonnage-but_img_unnamed28329_6a1c3d777e70.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-11-12_simandou-and-australian-supply-expansion-promise-a-boost-to-capesize-tonnage-but_img_unnamed28329_6a1c3d777e70.png)
 
 Yet this growth in seaborne supply is occurring at a time of soft domestic steel demand and seasonal production slowdowns. Rising port inventories, together with a lack of meaningful policy stimulus from Beijing, have therefore kept spot prices under downward pressure. As winter maintenance cuts steel output, the continued inflow of cargoes risks widening the imbalance between supply and consumption, reinforcing the bearish tone in the iron ore market.
 

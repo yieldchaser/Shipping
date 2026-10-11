@@ -36,6 +36,14 @@ In summary, with a relatively balanced supply/demand outlook for the short term,
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: The Other Stock Market](../../../charts/poten/2007/poten_2007-03-23_the-other-stock-market_chart1.png)
+> **Chart on PDF page 1: US Stock Levels**  
+> Unit: k bbl · X-axis: Jan-02 to Mar-07  
+> Series: Crude Oil (Excl SPR), Gasoline  
+> *Source: EIA*  
+> *No image crop of this chart was saved; caption read from the PDF.*
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2007/poten_2007-03-23_the-other-stock-market_chart1.png)
+> **Chart on PDF page 2: US Refinery Utilization versus Gasoline Imports**  
+> Unit: kbpd | Refinery Utilization · X-axis: Jan-02 to Mar-07  
+> Series: Gasoline Imports, Refinery Utilization  
+> *Source: EIA*  
+> *No image crop of this chart was saved; caption read from the PDF.*

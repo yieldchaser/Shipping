@@ -20,10 +20,10 @@ source_file: "corpus/03-breakwave/insights/2026/2026-06-15_too-much-of-a-good-th
 
 ---
 
-![Tanker](assets/2026-06-15_too-much-of-a-good-thing_img_tanker_e5832ce07803.jpg)
+![Tanker](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-06-15_too-much-of-a-good-thing_img_tanker_e5832ce07803.jpg)
 
 > **Figure 1: Tanker**  
-> **Interactive Data & Source:** [Gibsons Co](https://www.gibsons.co.uk/market-reports) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-06-15_too-much-of-a-good-thing_img_tanker_e5832ce07803.jpg)
+> **Interactive Data & Source:** [Gibsons Co](https://www.gibsons.co.uk/market-reports) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-06-15_too-much-of-a-good-thing_img_tanker_e5832ce07803.jpg)
 
 The Strait of Hormuz has been largely blocked since late February but despite an unprecedented energy crisis, tanker ordering activity for large carriers has intensified notably this year, especially for VLCCs, the segment that is arguably the most exposed to the extended Hormuz closure. Over 120 VLCCs have been ordered this year, with this number already exceeding the highest annual VLCC order total on record. This adds to already strong investment over the previous two years, taking the VLCC orderbook from around 5% of the existing fleet in early 2024 to 35% today. This ratio is significantly higher when only mainstream vessels are considered, given that one-fifth of the VLCC fleet is already dark/sanctioned.
 
@@ -35,10 +35,10 @@ There are unquestionably a few solid fundamental reasons for the overall increas
 
 Yet we have been here before and the question is how much is too much? The answer will evolve over time depending on geopolitical events, the evolution of tanker trade and the pace of removal of ageing and/or dark/sanctioned vessels from trading. High earnings leave little incentive to scrap, but sooner or later that will change: either as chartering restrictions shut older ships out of trading, or as the weight of new deliveries bears down on the market. When that moment comes, demolition capacity could face a serious test given the sheer volume of ageing tonnage.
 
-![Στιγμιότυπο Οθόνης 2026 06 15 100439](assets/2026-06-15_too-much-of-a-good-thing_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_765a2779dcb8.png)
+![Στιγμιότυπο Οθόνης 2026 06 15 100439](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-06-15_too-much-of-a-good-thing_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_765a2779dcb8.png)
 
 > **Figure 2: Στιγμιότυπο Οθόνης 2026 06 15 100439**  
-> **Interactive Data & Source:** [Gibsons Co](https://www.gibsons.co.uk/market-reports) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-06-15_too-much-of-a-good-thing_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_765a2779dcb8.png)
+> **Interactive Data & Source:** [Gibsons Co](https://www.gibsons.co.uk/market-reports) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-06-15_too-much-of-a-good-thing_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_765a2779dcb8.png)
 
 Data source:[Gibson Shipbrokers](https://www.gibsons.co.uk/market-reports)
 

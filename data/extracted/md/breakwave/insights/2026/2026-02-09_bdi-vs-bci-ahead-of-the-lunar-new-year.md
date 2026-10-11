@@ -20,10 +20,10 @@ source_file: "corpus/03-breakwave/insights/2026/2026-02-09_bdi-vs-bci-ahead-of-t
 
 ---
 
-![Market Chart 1](assets/2026-02-09_bdi-vs-bci-ahead-of-the-lunar-new-year_img_unnamed_b7db68e4ae04.png)
+![Market Chart 1](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-02-09_bdi-vs-bci-ahead-of-the-lunar-new-year_img_unnamed_b7db68e4ae04.png)
 
 > **Figure 1: Market Chart 1**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://go.signalocean.com/e/983831/0-fESQvJa2FM4Sof8m1WN36VYpqbtQ/2rtyyv/577090996/h/UVPJkJTTUXffOw9NT6O9oql2rRkTS_wNWb8sSs5k-_8) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-02-09_bdi-vs-bci-ahead-of-the-lunar-new-year_img_unnamed_b7db68e4ae04.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://go.signalocean.com/e/983831/0-fESQvJa2FM4Sof8m1WN36VYpqbtQ/2rtyyv/577090996/h/UVPJkJTTUXffOw9NT6O9oql2rRkTS_wNWb8sSs5k-_8) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-02-09_bdi-vs-bci-ahead-of-the-lunar-new-year_img_unnamed_b7db68e4ae04.png)
 
 ### Market Overview
 
@@ -43,19 +43,19 @@ Industry focus remains centered on the Chinese steel sector, where iron ore pric
 
 Iron ore trade flows continue to be supported by almost steady annual volume growth of shipments from Australia and Brazil (3.8bn total quantity tonnes in the period 2023-ytd), alongside initial cargoes from Guinea’s Simandou project, which reached China in December 2025 and January 2026. Although iron ore prices traded below USD 100 per tonne in the run-up to the holiday period, current levels reflect softer demand rather than a collapse.
 
-![Market Chart 2](assets/2026-02-09_bdi-vs-bci-ahead-of-the-lunar-new-year_img_unnamed28129_d74372306407.png)
+![Market Chart 2](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-02-09_bdi-vs-bci-ahead-of-the-lunar-new-year_img_unnamed28129_d74372306407.png)
 
 > **Figure 2: Market Chart 2**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-02-09_bdi-vs-bci-ahead-of-the-lunar-new-year_img_unnamed28129_d74372306407.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-02-09_bdi-vs-bci-ahead-of-the-lunar-new-year_img_unnamed28129_d74372306407.png)
 
 ### Fleet Supply
 
 Fleet supply dynamics remain a key risk factor. In early 2015, freight rates collapsed amid an unprecedented surge in vessel deliveries. While scrapping activity has remained limited and the dry bulk fleet continues to expand, scheduled vessel deliveries have remained below 2014–2016 levels. Current conditions, therefore, do not mirror the wave of vessel deliveries that characterized the 2015 market collapse, when the fleet in service grew rapidly, surpassing 10,000 vessels.
 
-![Market Chart 3](assets/2026-02-09_bdi-vs-bci-ahead-of-the-lunar-new-year_img_unnamed28229_df1c879e03bb.png)
+![Market Chart 3](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-02-09_bdi-vs-bci-ahead-of-the-lunar-new-year_img_unnamed28229_df1c879e03bb.png)
 
 > **Figure 3: Market Chart 3**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-02-09_bdi-vs-bci-ahead-of-the-lunar-new-year_img_unnamed28229_df1c879e03bb.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-02-09_bdi-vs-bci-ahead-of-the-lunar-new-year_img_unnamed28229_df1c879e03bb.png)
 
 ### Outlook
 

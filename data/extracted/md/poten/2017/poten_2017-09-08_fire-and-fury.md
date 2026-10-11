@@ -40,4 +40,4 @@ A military conflict does not seem to benefit anybody and therefore remains an ex
 
 ![Exhibit 1: Fire and Fury](../../../charts/poten/2017/poten_2017-09-08_fire-and-fury_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2017/poten_2017-09-08_fire-and-fury_chart1.png)
+> **Interactive Asset:** [Local Asset (200 DPI PNG)](../../../charts/poten/2017/poten_2017-09-08_fire-and-fury_chart1.png)

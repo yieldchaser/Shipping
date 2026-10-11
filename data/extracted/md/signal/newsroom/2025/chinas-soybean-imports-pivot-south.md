@@ -36,11 +36,11 @@ China’s soybean supply chain took a sharp turn south in September.
 Shipments reached a peak of 4.1 Mt in January and decreased to 2.7 Mt in February, then fell to zero in September 2025; 2025 clearly differs from 2024, confirming customs reports of no U.S. soybean arrivals.
 
 
-![Https://app.signalocean.com/dry/dynamic/drybulkflows](../../images/68f8b73f031a57384cfd7ad7_e8adeb0f.png)
+![Https://app.signalocean.com/dry/dynamic/drybulkflows](../../../../../../corpus/07-signal/images/68f8b73f031a57384cfd7ad7_e8adeb0f.png)
 
 > **Figure 1: Https://app.signalocean.com/dry/dynamic/drybulkflows**  
 > *https://app.signalocean.com/dry/dynamic/drybulkflows*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/chinas-soybean-imports-pivot-south) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/68f8b73f031a57384cfd7ad7_e8adeb0f.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/chinas-soybean-imports-pivot-south) | [Local Asset](../../../../../../corpus/07-signal/images/68f8b73f031a57384cfd7ad7_e8adeb0f.png)
 
 
 ## Argentina Steps Up - Export Incentives Spark Surge
@@ -48,11 +48,11 @@ Shipments reached a peak of 4.1 Mt in January and decreased to 2.7 Mt in Februar
 From August to October 2025, shipments experienced a significant increase. September saw nearly 1.5 Mt, approximately double the 2024 figures, largely due to temporary export-tax relief and a weakened peso, which enhanced export competitiveness. October volumes climbed even higher to about 2.3 Mt, marking a 64% month-on-month rise and over 320% year-on-year growth.
 
 
-![Https://app.signalocean.com/dry/dynamic/drybulkflows](../../images/68f8b73f031a57384cfd7ad4_40e85ff3.png)
+![Https://app.signalocean.com/dry/dynamic/drybulkflows](../../../../../../corpus/07-signal/images/68f8b73f031a57384cfd7ad4_40e85ff3.png)
 
 > **Figure 2: Https://app.signalocean.com/dry/dynamic/drybulkflows**  
 > *https://app.signalocean.com/dry/dynamic/drybulkflows*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/chinas-soybean-imports-pivot-south) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/68f8b73f031a57384cfd7ad4_40e85ff3.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/chinas-soybean-imports-pivot-south) | [Local Asset](../../../../../../corpus/07-signal/images/68f8b73f031a57384cfd7ad4_40e85ff3.png)
 
 
 ## Brazil Maintains Dominance
@@ -60,11 +60,11 @@ From August to October 2025, shipments experienced a significant increase. Septe
 Sustained high volumes from April to August (10–11 Mt/month) and elevated September shipments versus previous years highlight Brazil’s extended export window and robust port capacity, though the 22.8% MoM decline in September reflects Argentina’s seasonal return to the export market.
 
 
-![Https://app.signalocean.com/dry/dynamic/drybulkflows](../../images/68f8b73f031a57384cfd7ada_8f7904ae.png)
+![Https://app.signalocean.com/dry/dynamic/drybulkflows](../../../../../../corpus/07-signal/images/68f8b73f031a57384cfd7ada_8f7904ae.png)
 
 > **Figure 3: Https://app.signalocean.com/dry/dynamic/drybulkflows**  
 > *https://app.signalocean.com/dry/dynamic/drybulkflows*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/chinas-soybean-imports-pivot-south) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/68f8b73f031a57384cfd7ada_8f7904ae.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/chinas-soybean-imports-pivot-south) | [Local Asset](../../../../../../corpus/07-signal/images/68f8b73f031a57384cfd7ada_8f7904ae.png)
 
 
 ## Market Reaction and Outlook

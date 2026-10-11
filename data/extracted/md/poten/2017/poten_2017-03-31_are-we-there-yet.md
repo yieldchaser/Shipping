@@ -34,8 +34,8 @@ As is almost always the case in these circumstances, whether the glass is half f
 
 ![Exhibit 1: Are We There Yet](../../../charts/poten/2017/poten_2017-03-31_are-we-there-yet_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2017/poten_2017-03-31_are-we-there-yet_chart1.png)
+> **Interactive Asset:** [Local Asset (200 DPI PNG)](../../../charts/poten/2017/poten_2017-03-31_are-we-there-yet_chart1.png)
 
 ![Exhibit 2: Are We There Yet](../../../charts/poten/2017/poten_2017-03-31_are-we-there-yet_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2017/poten_2017-03-31_are-we-there-yet_chart2.png)
+> **Interactive Asset:** [Local Asset (200 DPI PNG)](../../../charts/poten/2017/poten_2017-03-31_are-we-there-yet_chart2.png)

@@ -47,10 +47,10 @@ However, since January 20, Middle East freight rates have plateaued
 
 ➔ In the long term, Russian supply will not be lost but a few cargoes might get delayed
 
-![Στιγμιότυπο Οθόνης 2025 01 23 144508](assets/2025-01-23_aframax-market-to-tighten-if-greek-operators-lift-discounted-urals_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_cd6897be43a7.png)
+![Στιγμιότυπο Οθόνης 2025 01 23 144508](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-01-23_aframax-market-to-tighten-if-greek-operators-lift-discounted-urals_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_cd6897be43a7.png)
 
 > **Figure 1: Στιγμιότυπο Οθόνης 2025 01 23 144508**  
-> **Interactive Data & Source:** [Vortexa](https://www.vortexa.com//oil-gas-data-traders-analysts-data-scientists?gclid=Cj0KCQjw8_qRBhCXARIsAE2AtRZKOvMnbilZ_6_91d7huSFFy71pWLrnPwGwOHVzXsmsG-1a1mZnQw8aAt89EALw_wcB&hsa_acc=1782073842&hsa_ad=548425387665&hsa_cam=14746637662&hsa_grp=125038601902&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_src=g&hsa_tgt=dsa-1431852288425&hsa_ver=3&utm_campaign=%5BCD%5D%20-%20DSA%20-%20EMEA&utm_medium=cpc&utm_medium=ppc&utm_source=google&utm_source=adwords&utm_term=) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-01-23_aframax-market-to-tighten-if-greek-operators-lift-discounted-urals_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_cd6897be43a7.png)
+> **Interactive Data & Source:** [Vortexa](https://www.vortexa.com//oil-gas-data-traders-analysts-data-scientists?gclid=Cj0KCQjw8_qRBhCXARIsAE2AtRZKOvMnbilZ_6_91d7huSFFy71pWLrnPwGwOHVzXsmsG-1a1mZnQw8aAt89EALw_wcB&hsa_acc=1782073842&hsa_ad=548425387665&hsa_cam=14746637662&hsa_grp=125038601902&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_src=g&hsa_tgt=dsa-1431852288425&hsa_ver=3&utm_campaign=%5BCD%5D%20-%20DSA%20-%20EMEA&utm_medium=cpc&utm_medium=ppc&utm_source=google&utm_source=adwords&utm_term=) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-01-23_aframax-market-to-tighten-if-greek-operators-lift-discounted-urals_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_cd6897be43a7.png)
 
 ## Clean – East of Suez: Supertanker Clean-Ups Revert to Normality, Lr2s Returning to Clean, But Sanctions Might Reverse Trend
 
@@ -66,10 +66,10 @@ As East-to-West flows are picking up on an open arb (Argus) and VLCC/Suezmaxes h
 
 ➔ An average of 2 Suezmaxes per month hitting the water for 2025 and are likely to pick up diesel cargoes from East-to-West could further marginally hit LR demand
 
-![Στιγμιότυπο Οθόνης 2025 01 23 144710](assets/2025-01-23_aframax-market-to-tighten-if-greek-operators-lift-discounted-urals_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_7cce2a3a69cd.png)
+![Στιγμιότυπο Οθόνης 2025 01 23 144710](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-01-23_aframax-market-to-tighten-if-greek-operators-lift-discounted-urals_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_7cce2a3a69cd.png)
 
 > **Figure 2: Στιγμιότυπο Οθόνης 2025 01 23 144710**  
-> **Interactive Data & Source:** [Vortexa](https://www.vortexa.com//oil-gas-data-traders-analysts-data-scientists?gclid=Cj0KCQjw8_qRBhCXARIsAE2AtRZKOvMnbilZ_6_91d7huSFFy71pWLrnPwGwOHVzXsmsG-1a1mZnQw8aAt89EALw_wcB&hsa_acc=1782073842&hsa_ad=548425387665&hsa_cam=14746637662&hsa_grp=125038601902&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_src=g&hsa_tgt=dsa-1431852288425&hsa_ver=3&utm_campaign=%5BCD%5D%20-%20DSA%20-%20EMEA&utm_medium=cpc&utm_medium=ppc&utm_source=google&utm_source=adwords&utm_term=) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-01-23_aframax-market-to-tighten-if-greek-operators-lift-discounted-urals_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_7cce2a3a69cd.png)
+> **Interactive Data & Source:** [Vortexa](https://www.vortexa.com//oil-gas-data-traders-analysts-data-scientists?gclid=Cj0KCQjw8_qRBhCXARIsAE2AtRZKOvMnbilZ_6_91d7huSFFy71pWLrnPwGwOHVzXsmsG-1a1mZnQw8aAt89EALw_wcB&hsa_acc=1782073842&hsa_ad=548425387665&hsa_cam=14746637662&hsa_grp=125038601902&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_src=g&hsa_tgt=dsa-1431852288425&hsa_ver=3&utm_campaign=%5BCD%5D%20-%20DSA%20-%20EMEA&utm_medium=cpc&utm_medium=ppc&utm_source=google&utm_source=adwords&utm_term=) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-01-23_aframax-market-to-tighten-if-greek-operators-lift-discounted-urals_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_7cce2a3a69cd.png)
 
 ## Dirty – West of Suez: Med Aframax Market Will Tighten If Greek Operators Replace Sanctioned Fleet and Lift Discounted Urals
 
@@ -87,10 +87,10 @@ Based on likely candidates to step in, this would lead to a significant tighteni
 
 ➔ This could entice LR2 operators to dirty up and enter the crude trade, which could also offer some vessel supply relief to a clean tanker market that is performing much worse than in H1 of 2024
 
-![Στιγμιότυπο Οθόνης 2025 01 23 145713](assets/2025-01-23_aframax-market-to-tighten-if-greek-operators-lift-discounted-urals_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_9a120a51d823.png)
+![Στιγμιότυπο Οθόνης 2025 01 23 145713](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-01-23_aframax-market-to-tighten-if-greek-operators-lift-discounted-urals_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_9a120a51d823.png)
 
 > **Figure 3: Στιγμιότυπο Οθόνης 2025 01 23 145713**  
-> **Interactive Data & Source:** [Vortexa](https://www.vortexa.com//oil-gas-data-traders-analysts-data-scientists?gclid=Cj0KCQjw8_qRBhCXARIsAE2AtRZKOvMnbilZ_6_91d7huSFFy71pWLrnPwGwOHVzXsmsG-1a1mZnQw8aAt89EALw_wcB&hsa_acc=1782073842&hsa_ad=548425387665&hsa_cam=14746637662&hsa_grp=125038601902&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_src=g&hsa_tgt=dsa-1431852288425&hsa_ver=3&utm_campaign=%5BCD%5D%20-%20DSA%20-%20EMEA&utm_medium=cpc&utm_medium=ppc&utm_source=google&utm_source=adwords&utm_term=) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-01-23_aframax-market-to-tighten-if-greek-operators-lift-discounted-urals_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_9a120a51d823.png)
+> **Interactive Data & Source:** [Vortexa](https://www.vortexa.com//oil-gas-data-traders-analysts-data-scientists?gclid=Cj0KCQjw8_qRBhCXARIsAE2AtRZKOvMnbilZ_6_91d7huSFFy71pWLrnPwGwOHVzXsmsG-1a1mZnQw8aAt89EALw_wcB&hsa_acc=1782073842&hsa_ad=548425387665&hsa_cam=14746637662&hsa_grp=125038601902&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_src=g&hsa_tgt=dsa-1431852288425&hsa_ver=3&utm_campaign=%5BCD%5D%20-%20DSA%20-%20EMEA&utm_medium=cpc&utm_medium=ppc&utm_source=google&utm_source=adwords&utm_term=) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-01-23_aframax-market-to-tighten-if-greek-operators-lift-discounted-urals_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_9a120a51d823.png)
 
 ## Clean – West of Suez: Tariffs on Canada to Signal Support on Tc2 MR Tonne-Miles As More Gasoline Will Be Sourced From Europe
 
@@ -106,10 +106,10 @@ Over the past 4 months, the US has relied upon the Canadian East Coast for sourc
 
 ➔ Canada East Coast-to-PADD 1 route traditionally utilises vessel classes of MR1s or lower DWT (<40,000 DWT) , hence MR2s will likely benefit over the smaller tankers from this reshaping of flows
 
-![Στιγμιότυπο Οθόνης 2025 01 23 150250](assets/2025-01-23_aframax-market-to-tighten-if-greek-operators-lift-discounted-urals_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_8561652abf77.png)
+![Στιγμιότυπο Οθόνης 2025 01 23 150250](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-01-23_aframax-market-to-tighten-if-greek-operators-lift-discounted-urals_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_8561652abf77.png)
 
 > **Figure 4: Στιγμιότυπο Οθόνης 2025 01 23 150250**  
-> **Interactive Data & Source:** [Vortexa](https://www.vortexa.com//oil-gas-data-traders-analysts-data-scientists?gclid=Cj0KCQjw8_qRBhCXARIsAE2AtRZKOvMnbilZ_6_91d7huSFFy71pWLrnPwGwOHVzXsmsG-1a1mZnQw8aAt89EALw_wcB&hsa_acc=1782073842&hsa_ad=548425387665&hsa_cam=14746637662&hsa_grp=125038601902&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_src=g&hsa_tgt=dsa-1431852288425&hsa_ver=3&utm_campaign=%5BCD%5D%20-%20DSA%20-%20EMEA&utm_medium=cpc&utm_medium=ppc&utm_source=google&utm_source=adwords&utm_term=) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-01-23_aframax-market-to-tighten-if-greek-operators-lift-discounted-urals_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_8561652abf77.png)
+> **Interactive Data & Source:** [Vortexa](https://www.vortexa.com//oil-gas-data-traders-analysts-data-scientists?gclid=Cj0KCQjw8_qRBhCXARIsAE2AtRZKOvMnbilZ_6_91d7huSFFy71pWLrnPwGwOHVzXsmsG-1a1mZnQw8aAt89EALw_wcB&hsa_acc=1782073842&hsa_ad=548425387665&hsa_cam=14746637662&hsa_grp=125038601902&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_src=g&hsa_tgt=dsa-1431852288425&hsa_ver=3&utm_campaign=%5BCD%5D%20-%20DSA%20-%20EMEA&utm_medium=cpc&utm_medium=ppc&utm_source=google&utm_source=adwords&utm_term=) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-01-23_aframax-market-to-tighten-if-greek-operators-lift-discounted-urals_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_8561652abf77.png)
 
 Data Source:[Vortexa](https://www.vortexa.com//oil-gas-data-traders-analysts-data-scientists?gclid=Cj0KCQjw8_qRBhCXARIsAE2AtRZKOvMnbilZ_6_91d7huSFFy71pWLrnPwGwOHVzXsmsG-1a1mZnQw8aAt89EALw_wcB&hsa_acc=1782073842&hsa_ad=548425387665&hsa_cam=14746637662&hsa_grp=125038601902&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_src=g&hsa_tgt=dsa-1431852288425&hsa_ver=3&utm_campaign=%5BCD%5D%20-%20DSA%20-%20EMEA&utm_medium=cpc&utm_medium=ppc&utm_source=google&utm_source=adwords&utm_term=)
 

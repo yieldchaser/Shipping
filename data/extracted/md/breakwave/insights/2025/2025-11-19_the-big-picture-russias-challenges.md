@@ -44,10 +44,10 @@ This is due to a lack of interest in cargoes from buyers. Most Indian refiners a
 
 Despite apparent difficulty in finding buyers, Russia’s biggest problem is an impending shortage of vessels to lift crude cargoes. High volumes currently in transit and in floating storage plus a supply chain due to get more inefficient will decrease availability.
 
-![Market Chart 1](assets/2025-11-19_the-big-picture-russias-challenges_img_image001_63b13e3163a9.png)
+![Market Chart 1](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-11-19_the-big-picture-russias-challenges_img_image001_63b13e3163a9.png)
 
 > **Figure 1: Market Chart 1**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-11-19_the-big-picture-russias-challenges_img_image001_63b13e3163a9.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-11-19_the-big-picture-russias-challenges_img_image001_63b13e3163a9.png)
 
 *Source: Vortexa*
 
@@ -55,10 +55,10 @@ Additionally, Russia no longer has the luxury of using European-operated vessels
 
 The number of vessels with a Russian crude cargo onboard has increased drastically amongst shadow fleet (non-European) vessels since last month’s sanctions. This inevitably means there are also fewer of these vessels ballasting back to Russia to load again and it will be difficult to keep up export levels.
 
-![Market Chart 2](assets/2025-11-19_the-big-picture-russias-challenges_img_image002_4befa5de82d0.png)
+![Market Chart 2](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-11-19_the-big-picture-russias-challenges_img_image002_4befa5de82d0.png)
 
 > **Figure 2: Market Chart 2**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-11-19_the-big-picture-russias-challenges_img_image002_4befa5de82d0.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-11-19_the-big-picture-russias-challenges_img_image002_4befa5de82d0.png)
 
 *Source: Vortexa*
 

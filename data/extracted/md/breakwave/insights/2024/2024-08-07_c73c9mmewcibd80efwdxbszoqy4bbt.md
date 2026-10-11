@@ -24,10 +24,10 @@ Calm returned to financial markets, with commodities finding some support amid r
 
 *By*[*Daniel Hynes*](https://www.linkedin.com/in/dahynes/)
 
-![Στιγμιότυπο Οθόνης 2024 08 07 112817](assets/2024-08-07_c73c9mmewcibd80efwdxbszoqy4bbt_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_1f96401c0362.png)
+![Στιγμιότυπο Οθόνης 2024 08 07 112817](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-08-07_c73c9mmewcibd80efwdxbszoqy4bbt_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_1f96401c0362.png)
 
 > **Figure 1: Στιγμιότυπο Οθόνης 2024 08 07 112817**  
-> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-08-07_c73c9mmewcibd80efwdxbszoqy4bbt_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_1f96401c0362.png)
+> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-08-07_c73c9mmewcibd80efwdxbszoqy4bbt_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_1f96401c0362.png)
 
 ### Market Commentary
 
@@ -41,10 +41,10 @@ The risk tone across markets helped lift**global gas**markets, allowing the focu
 
 **Gold**remained under pressure as global equity markets steadied. A rebounding USD and a pullback in expectations of an emergency rate cut by the Fed weighed on investor appetite. Nevertheless, rising geopolitical tensions should provide some support in coming months.
 
-![Στιγμιότυπο Οθόνης 2024 08 07 112934](assets/2024-08-07_c73c9mmewcibd80efwdxbszoqy4bbt_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_f30e01964c82.png)
+![Στιγμιότυπο Οθόνης 2024 08 07 112934](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-08-07_c73c9mmewcibd80efwdxbszoqy4bbt_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_f30e01964c82.png)
 
 > **Figure 2: Στιγμιότυπο Οθόνης 2024 08 07 112934**  
-> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-08-07_c73c9mmewcibd80efwdxbszoqy4bbt_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_f30e01964c82.png)
+> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-08-07_c73c9mmewcibd80efwdxbszoqy4bbt_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_f30e01964c82.png)
 
 Data source:[Commodities Wrap](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI)
 

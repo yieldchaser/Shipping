@@ -55,10 +55,10 @@ In the past two months, India has reclaimed its previously dominant position as 
 
 Average cargo sizes for shipments bound for India have remained relatively stable over the past few years. In contrast, the average has been trending higher for the rest of the world, significantly since the shipments to Europe accelerated. However, the decline in cargo orders for Europe has led to the reversal of the trend, highlighting that larger vessels have been used in the European trade.
 
-![Market Chart 1](assets/2023-03-07_shipfix-global-market-update_img_unnamed-2023-03-07t134642957_190d66dd57a8.png)
+![Market Chart 1](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-03-07_shipfix-global-market-update_img_unnamed-2023-03-07t134642957_190d66dd57a8.png)
 
 > **Figure 1: Market Chart 1**  
-> **Interactive Data & Source:** [Shipfix](https://shipfix.com/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-03-07_shipfix-global-market-update_img_unnamed-2023-03-07t134642957_190d66dd57a8.png)
+> **Interactive Data & Source:** [Shipfix](https://shipfix.com/) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-03-07_shipfix-global-market-update_img_unnamed-2023-03-07t134642957_190d66dd57a8.png)
 
 A thaw in diplomatic relations between China and Australia and an increasing focus on economic growth in the world’s second-largest economy has resulted in an easing of the previous restrictions on imports of Australian coal.
 

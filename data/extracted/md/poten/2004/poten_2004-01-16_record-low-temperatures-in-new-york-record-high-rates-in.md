@@ -72,6 +72,12 @@ Two factors are at play here. One is the Bosphorus Effect where Aframaxes left t
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: Record Low Temperatures in New York, Record High Rates in the Caribbean](../../../charts/poten/2004/poten_2004-01-16_record-low-temperatures-in-new-york-record-high-rates-in_chart1.png)
+> **Chart on PDF page 1: Weekly Average Aframax WS Rates And Vessel Availability in Caribs**  
+> Unit: WS Rate | # of Vessels · X-axis: 2-Jan-2001 to 14-Jan-2004  
+> Series: WS Rates, Aframaxes Next 20 Days  
+> *No image crop of this chart was saved; caption read from the PDF.*
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2004/poten_2004-01-16_record-low-temperatures-in-new-york-record-high-rates-in_chart1.png)
+> **Chart on PDF page 2: Weekly Average Aframax WS Rates And Number of Spot Fixtures Caribs/USA**  
+> Unit: WS Rate | # of Fixtures · X-axis: 2-Jan-2001 to 14-Jan-2004  
+> Series: WS Rates, # of Fixtures  
+> *No image crop of this chart was saved; caption read from the PDF.*

@@ -31,7 +31,7 @@ tags:
 ![65fae87806ce42a5b031e6be Chart of the Week Dry (1)](../../images/65fae87806ce42a5b031e6be_chart of the week dry (1).png)
 
 > **Figure 1: 65fae87806ce42a5b031e6be Chart of the Week Dry (1)**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/dry-week-12-2024) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/65fae87806ce42a5b031e6be_chart of the week dry (1).png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/dry-week-12-2024) | [Local Asset](../../../../../../corpus/07-signal/images/65fae87806ce42a5b031e6be_chart%20of%20the%20week%20dry%20(1).png)
 
 In the latter half of March, the freight market for large vessel sizes displayed a notable increase in momentum, particularly evident as the vessel count in terms of ballasters experienced an unexpected decline compared to the peak levels observed nearly four weeks prior. Amidst discussions surrounding whether the recent surge in Capesize and Panamax market rates stems from supply or demand dynamics, it becomes evident that the recent tightening of vessel supply serves as a significant upward catalyst. This trend is underscored by recent data indicating a surpassing of demand benchmarks, such as the South Atlantic Capesize daily volume loading observed last week and the ECSA Panamax daily volume loaded this week (referencing the 7-day moving average depicted in the provided image).
 

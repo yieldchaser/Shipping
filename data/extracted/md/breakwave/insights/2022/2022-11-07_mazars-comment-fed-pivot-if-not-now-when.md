@@ -56,17 +56,17 @@ But first, we need to acknowledge that the fight against inflation started from 
 
 One-by-one, the calculus for the central banks seems to be changing. As the probability of a recession rises, central bankers are beginning to fear sticky inflation less.
 
-![Market Chart 1](assets/2022-11-07_mazars-comment-fed-pivot-if-not-now-when_img_image00928129_9584daa90e6a.jpg)
+![Market Chart 1](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-11-07_mazars-comment-fed-pivot-if-not-now-when_img_image00928129_9584daa90e6a.jpg)
 
 > **Figure 1: Market Chart 1**  
-> **Interactive Data & Source:** [Libertystreeteconomics Newyorkfed](https://libertystreeteconomics.newyorkfed.org/2011/06/commodity-prices-and-the-mistake-of-1937-would-modern-economists-make-the-same-mistake/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-11-07_mazars-comment-fed-pivot-if-not-now-when_img_image00928129_9584daa90e6a.jpg)
+> **Interactive Data & Source:** [Libertystreeteconomics Newyorkfed](https://libertystreeteconomics.newyorkfed.org/2011/06/commodity-prices-and-the-mistake-of-1937-would-modern-economists-make-the-same-mistake/) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-11-07_mazars-comment-fed-pivot-if-not-now-when_img_image00928129_9584daa90e6a.jpg)
 
 The global economy could further decelerate, as the data from China are suggesting possibly more supply chain pressures down the road.
 
-![Market Chart 2](assets/2022-11-07_mazars-comment-fed-pivot-if-not-now-when_img_image01028129_51fa51797e69.jpg)
+![Market Chart 2](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-11-07_mazars-comment-fed-pivot-if-not-now-when_img_image01028129_51fa51797e69.jpg)
 
 > **Figure 2: Market Chart 2**  
-> **Interactive Data & Source:** [Libertystreeteconomics Newyorkfed](https://libertystreeteconomics.newyorkfed.org/2011/06/commodity-prices-and-the-mistake-of-1937-would-modern-economists-make-the-same-mistake/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-11-07_mazars-comment-fed-pivot-if-not-now-when_img_image01028129_51fa51797e69.jpg)
+> **Interactive Data & Source:** [Libertystreeteconomics Newyorkfed](https://libertystreeteconomics.newyorkfed.org/2011/06/commodity-prices-and-the-mistake-of-1937-would-modern-economists-make-the-same-mistake/) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-11-07_mazars-comment-fed-pivot-if-not-now-when_img_image01028129_51fa51797e69.jpg)
 
 Make no mistake. Hawkishness is still the prevalent feeling. No one can fight the Fed, not even other central banks. It represents the world’s deepest markets, the biggest banks, the largest economy and the word’s ubiquitous global reserve currency. The Fed leads and others must follow, however reluctantly. Attempts to pursue a different strategy can result in countries adding currency inflation to supply-side inflation and upward wage pressures. But overall, the hawkishness is really originated from the other side of the Atlantic.
 
@@ -81,10 +81,10 @@ This means that the US can afford more hawkishness. But is it justified?
 
 Certainly US core Personal Consumption Expenditure, an index stripping out energy effects as much as possible, certainly gives room for concern.
 
-![Market Chart 3](assets/2022-11-07_mazars-comment-fed-pivot-if-not-now-when_img_image01128229_a6170770c138.jpg)
+![Market Chart 3](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-11-07_mazars-comment-fed-pivot-if-not-now-when_img_image01128229_a6170770c138.jpg)
 
 > **Figure 3: Market Chart 3**  
-> **Interactive Data & Source:** [Libertystreeteconomics Newyorkfed](https://libertystreeteconomics.newyorkfed.org/2011/06/commodity-prices-and-the-mistake-of-1937-would-modern-economists-make-the-same-mistake/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-11-07_mazars-comment-fed-pivot-if-not-now-when_img_image01128229_a6170770c138.jpg)
+> **Interactive Data & Source:** [Libertystreeteconomics Newyorkfed](https://libertystreeteconomics.newyorkfed.org/2011/06/commodity-prices-and-the-mistake-of-1937-would-modern-economists-make-the-same-mistake/) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-11-07_mazars-comment-fed-pivot-if-not-now-when_img_image01128229_a6170770c138.jpg)
 
 However, barely positive growth is not the hallmark of an overheating economy. And while wage growth is strong in the US, a liberal labour market, there isn’t much evidence of a wage growth spiral.
 
@@ -100,10 +100,10 @@ Trying to analyse the Fed in data terms may be confusing. There’s no “book�
 
 We need to remember this chart.
 
-![Market Chart 4](assets/2022-11-07_mazars-comment-fed-pivot-if-not-now-when_img_image01228229_91acfd2d5cea.jpg)
+![Market Chart 4](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-11-07_mazars-comment-fed-pivot-if-not-now-when_img_image01228229_91acfd2d5cea.jpg)
 
 > **Figure 4: Market Chart 4**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-11-07_mazars-comment-fed-pivot-if-not-now-when_img_image01228229_91acfd2d5cea.jpg)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-11-07_mazars-comment-fed-pivot-if-not-now-when_img_image01228229_91acfd2d5cea.jpg)
 
 While the Fed had it’s previous composition, rate expectations for December 2022 moved slowly from 0.25% to barely 1%. Then after January 2022 the Fed almost immediately became more hawkish.
 

@@ -36,10 +36,6 @@ When Ivan blows over and refinery operations return to normal, it is very likely
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: Charley, Frances & Ivan Make for Jittery Oil Industry](../../../charts/poten/2004/poten_2004-09-10_charley-frances-ivan-make-for-jittery-oil-industry_chart1.png)
-
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2004/poten_2004-09-10_charley-frances-ivan-make-for-jittery-oil-industry_chart1.png)
-
 ![Exhibit 2: Charley, Frances & Ivan Make for Jittery Oil Industry](../../../charts/poten/2004/poten_2004-09-10_charley-frances-ivan-make-for-jittery-oil-industry_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2004/poten_2004-09-10_charley-frances-ivan-make-for-jittery-oil-industry_chart2.png)
+> **Interactive Asset:** [Local Asset (200 DPI PNG)](../../../charts/poten/2004/poten_2004-09-10_charley-frances-ivan-make-for-jittery-oil-industry_chart2.png)

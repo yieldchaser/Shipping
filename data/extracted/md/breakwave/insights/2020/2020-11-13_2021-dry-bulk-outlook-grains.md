@@ -34,10 +34,10 @@ If we break it down by segment, we see that 41% of all seaborne grain volumes we
 
 For all the segments we see that grain has a higher market share when we use the Dwt * Duration calculation than if we look at volumes, but this tendency is clearly most pronounced in the Panamax segment. The reason is that while all segments have the effect of the high stowage factor for grains, it is the Panamax segment which is the preferred carrier of long-haul grain shipments such as soybeans. As grains is a substantial part of the demand for all segments except Capesize the link between the grain trade and dry bulk freight rates in these segments is direct and clear. But the grains market is also important for the Capesize market in periods of high utilization and earnings. Due to economies of scale the Capesize segment can normally offer the cheapest freight on a per ton basis. When Cape utilization is high it leads to higher freight rates which from time to time makes Panamax freight less expensive on a per ton basis. When this happens, we often see cape splits, which is negative for the Capesize market as it results in cargo volume flowing from the Capesize segment into the Panamax segment. When long-haul grain volumes are in high season it increases the utilization in the Panamax segment, which increase Panamax freight and thus raises the threshold of where Cape splits are triggered.
 
-![Klav 20](assets/2020-11-13_2021-dry-bulk-outlook-grains_img_klav20_dc18d7a5e624.png)
+![Klav 20](../../../../../../corpus/03-breakwave/insights/2020/assets/2020-11-13_2021-dry-bulk-outlook-grains_img_klav20_dc18d7a5e624.png)
 
 > **Figure 1: Klav 20**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2020/assets/2020-11-13_2021-dry-bulk-outlook-grains_img_klav20_dc18d7a5e624.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2020/assets/2020-11-13_2021-dry-bulk-outlook-grains_img_klav20_dc18d7a5e624.png)
 
 ### Grain Supply and Demand
 
@@ -47,17 +47,17 @@ By far, the three biggest export regions of grains are East Coast South America 
 
 In the current marketing year USDA estimates that North American export will rebound sharply (+19%) as China is back buying grains from the US. ECSA has increased their market share in global grain export substantially in the previous two years when US export has been curtailed by the trade war. This trend is broken this year with export expected to decrease 7.5%. Exports out of the Med/BS is also predicted to decrease with 7.5% due to higher competition from the US. Australian export is predicted to make a big comeback in the 20/21 MY after very weak export in the previous two years as a result of draught. Australian grain export – primarily – is predicted to increase from 15.5Mt in the previous two years to 25.8Mt, an increase of 66%.
 
-![Klav 21](assets/2020-11-13_2021-dry-bulk-outlook-grains_img_klav21_de351cf25ea3.png)
+![Klav 21](../../../../../../corpus/03-breakwave/insights/2020/assets/2020-11-13_2021-dry-bulk-outlook-grains_img_klav21_de351cf25ea3.png)
 
 > **Figure 2: Klav 21**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2020/assets/2020-11-13_2021-dry-bulk-outlook-grains_img_klav21_de351cf25ea3.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2020/assets/2020-11-13_2021-dry-bulk-outlook-grains_img_klav21_de351cf25ea3.png)
 
 While the Pacific only accounts for 22% of grain exports, 58% of the import are in the Pacific. On the demand side, 58% of the imports is in the Pacific, with Far East and South East Asia as the largest demand centers. While on the export side, only 22% is in the Pacific. As the major grain export regions are in the Atlantic it means that the average distance of the grain trade is very long. If we look at export vs import per basin only on Panamaxes (the preferred carrier of long-haul grains) we see that 80% of imports are in the Pacific, while 84% of the export is in the Atlantic. If we look at the geared segments imports are higher in the Atlantic than in the Pacific, suggesting that the trade is more intra-basin than in the Panamax segment.
 
-![Klav 22](assets/2020-11-13_2021-dry-bulk-outlook-grains_img_klav22_5359dab6db3e.png)
+![Klav 22](../../../../../../corpus/03-breakwave/insights/2020/assets/2020-11-13_2021-dry-bulk-outlook-grains_img_klav22_5359dab6db3e.png)
 
 > **Figure 3: Klav 22**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2020/assets/2020-11-13_2021-dry-bulk-outlook-grains_img_klav22_5359dab6db3e.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2020/assets/2020-11-13_2021-dry-bulk-outlook-grains_img_klav22_5359dab6db3e.png)
 
 ### 2020 Grain Trade Figures – A Very Strong Year
 
@@ -65,26 +65,26 @@ Global grain trade is up 6.3% in the first 10 months of the 2020 calendar year, 
 
 ECSA grain export was exceptionally strong in the Q2 peak season and is up 4.5% year to date (ytd) October. However, exports were down year on year (yoy) in September and October due to strong competition from the USA. Nevertheless, grain export out of ECSA has had a very strong run since May 2019 and is likely to stabilize at a high level in the 2021 calendar year. USDA expects total grain export to be down 12 million tonnes (Mt) in the coming 20/21 marketing year - which counterintuitively starts in Q1-21. Brazilian planting has been running late due to draught and it is thus widely expected that the harvest will be later than in an average year. This, suggests that export in Q1 will be fairly weak compared to recent years.
 
-![Klav 23](assets/2020-11-13_2021-dry-bulk-outlook-grains_img_klav23_25fe5d32439b.png)
+![Klav 23](../../../../../../corpus/03-breakwave/insights/2020/assets/2020-11-13_2021-dry-bulk-outlook-grains_img_klav23_25fe5d32439b.png)
 
 > **Figure 4: Klav 23**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2020/assets/2020-11-13_2021-dry-bulk-outlook-grains_img_klav23_25fe5d32439b.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2020/assets/2020-11-13_2021-dry-bulk-outlook-grains_img_klav23_25fe5d32439b.png)
 
 US grain exports were weak in the previous two years because of the trade war with China. This year’s peak export season has started of at all time high levels as China is buying massive amounts of soybeans and corn from the US.
 
 Ytd grain export out of the US is up 15% while exports in the last two months alone are up 71% yoy. Exports in October was a new monthly all time high. Outstanding sales of grains and oilseed are currently at unprecedented levels. Outstanding sales means cargo sold but not yet shipped. Combined outstanding sales of soybeans, corn, wheat and sorghum is at 67 million tonnes as of 05th November, this is comfortably a new all-time high – up 42% from the previous all time high in 2013 and up 177% yoy. The record outstanding sales strongly suggests that the export pace of will continue at a very high pace in the coming months. Coupled with the fact that the Brazilian harvest is running late it is very likely with continued high export in Q1.
 
-![Klav 24](assets/2020-11-13_2021-dry-bulk-outlook-grains_img_klav24_4ab25f6025ee.png)
+![Klav 24](../../../../../../corpus/03-breakwave/insights/2020/assets/2020-11-13_2021-dry-bulk-outlook-grains_img_klav24_4ab25f6025ee.png)
 
 > **Figure 5: Klav 24**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2020/assets/2020-11-13_2021-dry-bulk-outlook-grains_img_klav24_4ab25f6025ee.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2020/assets/2020-11-13_2021-dry-bulk-outlook-grains_img_klav24_4ab25f6025ee.png)
 
 Exports out of Med/BS – the third largest grain export region – is up 1.9% in the first 10 months of this year. Total grain export was recording seasonal all-time highs in the first 10 months of the year but has been down yoy since June. However, if look at Panamax shipments there is no signs of weakness in recent months. Panamax grain exports out of the Med/BS has been very strong as long-haul shipments of corn and barley to China has been on the rise.
 
-![Klav Bs](assets/2020-11-13_2021-dry-bulk-outlook-grains_img_klavbs_886d59132a44.png)
+![Klav Bs](../../../../../../corpus/03-breakwave/insights/2020/assets/2020-11-13_2021-dry-bulk-outlook-grains_img_klavbs_886d59132a44.png)
 
 > **Figure 6: Klav Bs**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2020/assets/2020-11-13_2021-dry-bulk-outlook-grains_img_klavbs_886d59132a44.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2020/assets/2020-11-13_2021-dry-bulk-outlook-grains_img_klavbs_886d59132a44.png)
 
 ### Have You Heard About the Chinese Pig Herd?
 
@@ -94,20 +94,20 @@ We expect the Chinese import of other feed ingredients such as corn to grow at a
 
 As mentioned above, USDA expects the global grain trade to increase marginally in the 20/21 marketing year (+1.2%) from a high base in the 19/20 marketing year. We think there is considerable upside from that estimate, primarily due to rapidly increasing Chinese corn demand. Our estimate would be a YoY growth in the 2021 calendar year of at least 2% for the global grain trade. As we believe that the long-haul Chinese corn imports has the biggest upside, we expect vessel demand to exceed the volume growth.
 
-![Klav 26](assets/2020-11-13_2021-dry-bulk-outlook-grains_img_klav26_1f6cf1963469.png)
+![Klav 26](../../../../../../corpus/03-breakwave/insights/2020/assets/2020-11-13_2021-dry-bulk-outlook-grains_img_klav26_1f6cf1963469.png)
 
 > **Figure 7: Klav 26**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2020/assets/2020-11-13_2021-dry-bulk-outlook-grains_img_klav26_1f6cf1963469.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2020/assets/2020-11-13_2021-dry-bulk-outlook-grains_img_klav26_1f6cf1963469.png)
 
 ### Grain Demand – How Is the Long-Term Outlook?
 
 Once a year USDA publishes their long-term projections for the coming 10-year period. In their latest long-term publication from February they project strong global income and urbanization growth in the coming decade. Increasing per capita income and population growth are among the major factors driving increasing global trade in agricultural commodities and products. World economic growth is projected at 2.7% from 2020/21 through 2029/30. The economies projected to grow the fastest are in Asia. Per capita GDP in South Asia and Southeast Asia will rise at average annual rates of 5.0% and 3.8%, respectively. The world’s population was 7.5 billion in 2019. A projected annual growth rate of 0.9% means that roughly 703 million people will be added to the world’s population over the next decade. Many developing countries are not well-suited for increasing production of specific commodities. In those countries, consumption may increase faster than domestic production, leading to growing imports of agricultural commodities and products. Growing global demand for agricultural commodities, especially by low-income countries and emerging markets, leads to increasing world imports over the projection period. USDA expects the trade to grow for all the projected agricultural commodities. The U.S. trade disputes with China that existed at the time when the projections were formulated dampened expectations, particularly for soybeans. The projections assumed the trade disputes to continue for the duration of the projection period. Thus, there is considerable upside in these projections as China today is back and buying U.S. beans and corn in a big fashion.
 
-![All Trade Growth Numbers in This Article Is Derived From Our](assets/2020-11-13_2021-dry-bulk-outlook-grains_img_klav27_e3572a92e477.png)
+![All Trade Growth Numbers in This Article Is Derived From Our](../../../../../../corpus/03-breakwave/insights/2020/assets/2020-11-13_2021-dry-bulk-outlook-grains_img_klav27_e3572a92e477.png)
 
 > **Figure 8: All Trade Growth Numbers in This Article Is Derived From Our**  
 > **All trade growth numbers in this article is derived from our in-house analytical platform which includes data and material from AXSMarine, all rights reserved.*  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2020/assets/2020-11-13_2021-dry-bulk-outlook-grains_img_klav27_e3572a92e477.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2020/assets/2020-11-13_2021-dry-bulk-outlook-grains_img_klav27_e3572a92e477.png)
 
 To summarize we expect global grain trade in the coming calendar year to grow with at least 2% in volume terms, and more in terms of vessel demand. The long term outlook for trade growth is positive as the global population continues to increase and as a rising middle class in Emerging Asia switches to a more protein rich diet. The lions share of demand growth will be in Asia while the export will continue to grow the most in the Atlantic. This means that growth in vessel demand will be healthy, especially in the Panamax segment which is the preferred carrier of long-haul grains.
 

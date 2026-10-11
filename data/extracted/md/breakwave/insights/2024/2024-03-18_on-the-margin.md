@@ -20,10 +20,10 @@ source_file: "corpus/03-breakwave/insights/2024/2024-03-18_on-the-margin.html"
 
 ---
 
-![Gibson Report](assets/2024-03-18_on-the-margin_img_gibsonreport_05592be74e93.jpg)
+![Gibson Report](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-03-18_on-the-margin_img_gibsonreport_05592be74e93.jpg)
 
 > **Figure 1: Gibson Report**  
-> **Interactive Data & Source:** [Gibsons Co](https://www.gibsons.co.uk/market-reports) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-03-18_on-the-margin_img_gibsonreport_05592be74e93.jpg)
+> **Interactive Data & Source:** [Gibsons Co](https://www.gibsons.co.uk/market-reports) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-03-18_on-the-margin_img_gibsonreport_05592be74e93.jpg)
 
 Refining margins across the world surged to record levels in 2022, following Russia’s invasion of Ukraine. Although margins have declined since then, they have generally remained healthy, even in Europe, where the structural shortage of middle distillates prevailed over the competitive disadvantage of relatively simple and ageing refineries compared to large and sophisticated plants in the Middle East and Asia.
 
@@ -35,10 +35,10 @@ Perhaps with this in mind, some European refining capacity is already pencilled 
 
 Announced refinery closures will reduce regional crude intake, freeing more Atlantic Basin barrels for longhaul shipments East. Product imports into the region are also expected to increase, although this depends on domestic demand levels, which are facing headwinds due to decarbonisation efforts. Yet, with sales of battery electric vehicles in the EU and the UK sharply falling in January, as a number of European countries removed costly subsidies, perhaps the much-predicted decline in European gasoline and diesel consumption will be somewhat slower and shallower than previously thought.
 
-![Screenshot 2024 03 18 17.55.56](assets/2024-03-18_on-the-margin_img_screenshot2024-03-18175556_a75c32674df1.png)
+![Screenshot 2024 03 18 17.55.56](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-03-18_on-the-margin_img_screenshot2024-03-18175556_a75c32674df1.png)
 
 > **Figure 2: Screenshot 2024 03 18 17.55.56**  
-> **Interactive Data & Source:** [Gibsons Co](https://www.gibsons.co.uk/market-reports) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-03-18_on-the-margin_img_screenshot2024-03-18175556_a75c32674df1.png)
+> **Interactive Data & Source:** [Gibsons Co](https://www.gibsons.co.uk/market-reports) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-03-18_on-the-margin_img_screenshot2024-03-18175556_a75c32674df1.png)
 
 Data source:[Gibson Shipbrokers](https://www.gibsons.co.uk/market-reports)
 

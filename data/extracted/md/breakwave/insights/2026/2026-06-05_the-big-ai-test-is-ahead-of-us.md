@@ -42,10 +42,10 @@ Markets are not holding their breath over Hormuz, considering the problem is sol
 
 At the same time, they also blew past comments from the Fed’s newly installed Chair, Kevin Warsh, who said that beating inflation is not just about hitting the 2% target, but about removing it from public concern altogether. The comment itself was cryptic. It could mean that he would be willing to discuss moving the (arbitrary) average inflation threshold from 2% to possibly 2.5% or 3%, in which case the comment is dovish as it would bring rate cuts closer. Or it could be construed as hawkish, in the sense that what matters is when consumers will stop thinking about inflation as a key risk. In this case, consumers, who had spent decades in a low-inflation environment and have now experienced the pandemic/Ukraine flare-up and possibly another trade war/Hormuz one, could remain concerned well after the 2% threshold is reached, which would make the comment hawkish.
 
-![Market Chart 1](assets/2026-06-05_the-big-ai-test-is-ahead-of-us_img_image005_7375983987c0.png)
+![Market Chart 1](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-06-05_the-big-ai-test-is-ahead-of-us_img_image005_7375983987c0.png)
 
 > **Figure 1: Market Chart 1**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-06-05_the-big-ai-test-is-ahead-of-us_img_image005_7375983987c0.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-06-05_the-big-ai-test-is-ahead-of-us_img_image005_7375983987c0.png)
 
 Why ignore the biggest geopolitical challenge since 9/11 and the new Fed Chair’s first comments? Because narrative matters, as Nobel laureates Robert Shiller and George Akerlof would argue in their “Animal Spirits (2009)” book. And the dominant narrative, in this particular era, is not about geopolitics or the Fed. It is about AI.
 
@@ -57,10 +57,10 @@ For one, these IPOs would draw money from other investments. This is the one we 
 
 The second risk is simple fundamentals. Ambitions are big, but valuations could be hard to swallow. So far, these companies are private, and we don’t yet have solid earnings data. But what we do have surely gives pause for thought. Anthropic, for example, aims for an estimated $1.2 tn valuation. In April 2026, the company suggested that it had $30bn top-line revenue annualised (which means it took the last quarter and roughly multiplied by four). Assuming even a 56% profit margin, which Nvidia, the most profitable Magnificent 7 company, enjoys, it would still be 72x price/earnings valuation. Assuming half that margin, 26%, the average Magnificent 7 margin, the valuation would go up to 155x times annual earnings. Compared with 19x times for average US large caps, or even 36x, the average Magnificent 7 valuation, the number is very big, and would require many earnings seasons of successively beating expectations to bring it down. And the profit margins are still generous in both those cases. OpenAI has been estimated to lose $1.22 for every $1 in revenue.
 
-![Market Chart 2](assets/2026-06-05_the-big-ai-test-is-ahead-of-us_img_image006_3b7d8fa3ac0a.png)
+![Market Chart 2](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-06-05_the-big-ai-test-is-ahead-of-us_img_image006_3b7d8fa3ac0a.png)
 
 > **Figure 2: Market Chart 2**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-06-05_the-big-ai-test-is-ahead-of-us_img_image006_3b7d8fa3ac0a.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-06-05_the-big-ai-test-is-ahead-of-us_img_image006_3b7d8fa3ac0a.png)
 
 The third risk is geopolitical. The AI race is not just a business one. It’s primarily geopolitical and geoeconomic. American AI companies are already backed by generous legislation in hopes of providing the US with a strategic advantage over China. However, they are not state-backed so they are entering the stock market to find more funding from private investors. Those investors would have to buy
 

@@ -39,31 +39,31 @@ While we can’t make exact predictions, there are some calls which are higher c
 
 Macroeconomic and market volatility are set to persist throughout 2023. This is not simply an extension of current conditions into the next year. For one, the pandemic upended 40-odd years of the Great Moderation, a period of macroeconomic stability.
 
-![Market Chart 1](assets/2022-12-13_mazars-comment-three-predictions-for-2023-and-what-they-mean-for-your-portfolio_img_image00128229_276811a504a0.png)
+![Market Chart 1](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-12-13_mazars-comment-three-predictions-for-2023-and-what-they-mean-for-your-portfolio_img_image00128229_276811a504a0.png)
 
 > **Figure 1: Market Chart 1**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-12-13_mazars-comment-three-predictions-for-2023-and-what-they-mean-for-your-portfolio_img_image00128229_276811a504a0.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-12-13_mazars-comment-three-predictions-for-2023-and-what-they-mean-for-your-portfolio_img_image00128229_276811a504a0.png)
 
 A school of thought says that US inflation (the one that matters most to financial markets) may have peaked. However, the Chinese reopening could throw a spanner in the works and extend global inflation into its third year, possibly challenging (still-anchored) consumer inflation expectations. Markets are quite sanguine about the prospect of Chinese inflation pressures. Recent history after market reopenings suggests that they could be more cautious. Meanwhile, as pressures in the bond market are receding the systemic global financial system is proving resilient. This is good news, and by extension ‘bad’ news, as the Federal Reserve is now less incentivised to ‘pivot’ towards a more accommodative policy. Possibly extended inflation, further supply chain disruptions and a persistently (carefully avoiding the use of the word ‘stubbornly’) hawkish Fed paint a picture of continuing macroeconomic and market volatility.
 
-![Market Chart 2](assets/2022-12-13_mazars-comment-three-predictions-for-2023-and-what-they-mean-for-your-portfolio_img_image00228129_afac7cbb9399.png)
+![Market Chart 2](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-12-13_mazars-comment-three-predictions-for-2023-and-what-they-mean-for-your-portfolio_img_image00228129_afac7cbb9399.png)
 
 > **Figure 2: Market Chart 2**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-12-13_mazars-comment-three-predictions-for-2023-and-what-they-mean-for-your-portfolio_img_image00228129_afac7cbb9399.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-12-13_mazars-comment-three-predictions-for-2023-and-what-they-mean-for-your-portfolio_img_image00228129_afac7cbb9399.png)
 
 Our base scenario is that the Fed will ‘pivot’ in an orderly fashion sometime in the first six months of 2022. This will include the US central bank maintaining tight conditions in order to shrink its own balance sheet and normalise the yield curve, but also signalling to private markets that it’s ok for them to start releasing their own stockpiles of liquidity.
 
-![Market Chart 3](assets/2022-12-13_mazars-comment-three-predictions-for-2023-and-what-they-mean-for-your-portfolio_img_image003_3e1a4f699cfd.png)
+![Market Chart 3](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-12-13_mazars-comment-three-predictions-for-2023-and-what-they-mean-for-your-portfolio_img_image003_3e1a4f699cfd.png)
 
 > **Figure 3: Market Chart 3**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-12-13_mazars-comment-three-predictions-for-2023-and-what-they-mean-for-your-portfolio_img_image003_3e1a4f699cfd.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-12-13_mazars-comment-three-predictions-for-2023-and-what-they-mean-for-your-portfolio_img_image003_3e1a4f699cfd.png)
 
 Bonds, the most battered asset class in 2022 by its own historical standards are back on investors' radars.
 
-![Market Chart 4](assets/2022-12-13_mazars-comment-three-predictions-for-2023-and-what-they-mean-for-your-portfolio_img_image00428129_8e804a611ce6.png)
+![Market Chart 4](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-12-13_mazars-comment-three-predictions-for-2023-and-what-they-mean-for-your-portfolio_img_image00428129_8e804a611ce6.png)
 
 > **Figure 4: Market Chart 4**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-12-13_mazars-comment-three-predictions-for-2023-and-what-they-mean-for-your-portfolio_img_image00428129_8e804a611ce6.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-12-13_mazars-comment-three-predictions-for-2023-and-what-they-mean-for-your-portfolio_img_image00428129_8e804a611ce6.png)
 
 In this environment we expect the markets to eventually price in lower rates and the yield curve to move lower and steepen. While the long end tends to benefit more in terms of price from yield movements, higher yields on the shorter end and uncertainty over inflation make duration calls very difficult.
 
@@ -79,10 +79,10 @@ This is bad news for global trade and subsequent inflation trends. Basic Game Th
 
 In terms of portfolio management, the trend clearly favours larger capitalisation companies, which may find it easier to redesign their supply chains and have a presence global enough to juggle individual government pressures. Smaller and mid-cap companies may find it more difficult to compete in this environment.
 
-![Market Chart 5](assets/2022-12-13_mazars-comment-three-predictions-for-2023-and-what-they-mean-for-your-portfolio_img_image00528229_9d72c529ccc9.png)
+![Market Chart 5](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-12-13_mazars-comment-three-predictions-for-2023-and-what-they-mean-for-your-portfolio_img_image00528229_9d72c529ccc9.png)
 
 > **Figure 5: Market Chart 5**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-12-13_mazars-comment-three-predictions-for-2023-and-what-they-mean-for-your-portfolio_img_image00528229_9d72c529ccc9.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-12-13_mazars-comment-three-predictions-for-2023-and-what-they-mean-for-your-portfolio_img_image00528229_9d72c529ccc9.png)
 
 ## The Conversations We Should -And Might Yet- Have
 
@@ -92,19 +92,19 @@ If this writer could ask Santa for one gift, it would be the return of normal co
 
 I am thus somewhat positively surprised that Brexit begins to come more into the conversation, as Britain sees itself falling behind other developed nations in terms of growth while fighting a tight jobs market and possibly lingering inflation. To discuss backtracking would probably be a mistake. Though it won’t admit as much, Europe never welcomed a big EU country outside the common currency with veto powers on integration, and would never contemplate a return to the previous status quo. The discussion should instead centre around future relations with a huge market on Britain’s doorstep. Investors with exposure to British assets should welcome the discussion, as a necessary first step before the return of international investors.
 
-![Market Chart 6](assets/2022-12-13_mazars-comment-three-predictions-for-2023-and-what-they-mean-for-your-portfolio_img_image006_f1fbe540fc22.png)
+![Market Chart 6](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-12-13_mazars-comment-three-predictions-for-2023-and-what-they-mean-for-your-portfolio_img_image006_f1fbe540fc22.png)
 
 > **Figure 6: Market Chart 6**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-12-13_mazars-comment-three-predictions-for-2023-and-what-they-mean-for-your-portfolio_img_image006_f1fbe540fc22.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-12-13_mazars-comment-three-predictions-for-2023-and-what-they-mean-for-your-portfolio_img_image006_f1fbe540fc22.png)
 
 ## Global Debt
 
 The strong Dollar, higher rates and inflation have somewhat curbed global debt issuance. However, at $290bn and 355% Total-Debt-to-GDP, a rising rate environment is a ticking time bomb. There aren’t any great solutions. Debtors and Creditors will face each other soon enough, and healthy discussions ahead of heated arguments should lay the groundwork for solutions rather than acrimony. Investors should pay very close attention to discussions, and possibly hold lower-duration debt instruments as they happen.
 
-![Market Chart 7](assets/2022-12-13_mazars-comment-three-predictions-for-2023-and-what-they-mean-for-your-portfolio_img_image007_99b55004883c.png)
+![Market Chart 7](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-12-13_mazars-comment-three-predictions-for-2023-and-what-they-mean-for-your-portfolio_img_image007_99b55004883c.png)
 
 > **Figure 7: Market Chart 7**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-12-13_mazars-comment-three-predictions-for-2023-and-what-they-mean-for-your-portfolio_img_image007_99b55004883c.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-12-13_mazars-comment-three-predictions-for-2023-and-what-they-mean-for-your-portfolio_img_image007_99b55004883c.png)
 
 ## Central Banks
 

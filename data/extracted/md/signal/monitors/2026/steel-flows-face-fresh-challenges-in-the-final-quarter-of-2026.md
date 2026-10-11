@@ -32,22 +32,22 @@ Steel flows slip into negative growth in July 2026
 - Flows from the World Ex. China fell by 7.9%, to 12.0 Mt in July.
 
 
-![Source: Steel Tonne-Miles From Signal Ocean Https://app.signalocean.com/dry/dynamic/timeseriesdry](../../images/6ab383c5f5c16e34d690703b_4b0664db.png)
+![Source: Steel Tonne-Miles From Signal Ocean Https://app.signalocean.com/dry/dynamic/timeseriesdry](../../../../../../corpus/07-signal/images/6ab383c5f5c16e34d690703b_4b0664db.png)
 
 > **Figure 1: Source: Steel Tonne-Miles From Signal Ocean Https://app.signalocean.com/dry/dynamic/timeseriesdry**  
 > *Source: Steel tonne-miles from Signal Ocean https://app.signalocean.com/dry/dynamic/timeseries_dry*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/steel-flows-face-fresh-challenges-in-the-final-quarter-of-2026) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6ab383c5f5c16e34d690703b_4b0664db.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/steel-flows-face-fresh-challenges-in-the-final-quarter-of-2026) | [Local Asset](../../../../../../corpus/07-signal/images/6ab383c5f5c16e34d690703b_4b0664db.png)
 
 Global steel flows were 22.2 Mt in July 2026, up 1% from the same period a year earlier. Higher flows from China drove much of this growth, while combined flows from elsewhere fell by nearly 8%.
 
 India also saw a remarkable increase in steel exports in July, up 51% from the year before; however, the absolute figure is still far behind China. The exports come despite strong domestic demand for steel; Indian steel mills have been encouraged to place incremental production overseas as lower-cost steel imports to India have squeezed margins.
 
 
-![Source: Seaborne Steel Flows From Signal Ocean Https://app.signalocean.com/dry/dynamic/drybulkflows](../../images/6ab383c5f5c16e34d6907041_ffd7d7ae.png)
+![Source: Seaborne Steel Flows From Signal Ocean Https://app.signalocean.com/dry/dynamic/drybulkflows](../../../../../../corpus/07-signal/images/6ab383c5f5c16e34d6907041_ffd7d7ae.png)
 
 > **Figure 2: Source: Seaborne Steel Flows From Signal Ocean Https://app.signalocean.com/dry/dynamic/drybulkflows**  
 > *Source: Seaborne steel flows from Signal Ocean https://app.signalocean.com/dry/dynamic/drybulkflows*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/steel-flows-face-fresh-challenges-in-the-final-quarter-of-2026) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6ab383c5f5c16e34d6907041_ffd7d7ae.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/steel-flows-face-fresh-challenges-in-the-final-quarter-of-2026) | [Local Asset](../../../../../../corpus/07-signal/images/6ab383c5f5c16e34d6907041_ffd7d7ae.png)
 
 Looking ahead into the end of Q3 and into Q4, many of the market dynamics that have affected steel flows are expected to continue. The Arabian Peninsula continues to be widely locked out of the market and has seen its proportion of global steel imports fall from an average of 6.4% between 2022 and 2025 to 4.4% in 2026. This has been most impactful on China who typically sends 10% of its steel exports to the region but has seen this fall to 5.3% in 2026.
 
@@ -56,11 +56,11 @@ China’s steel exports will also face some new challenges going into the final 
 Turkey is the most likely to see steel imports fall as a result of this, as the country imports around 20% of its steel demand from China. Turkey typically then exports around 28% of its steel exports to either the Central Mediterranean or East Mediterranean.
 
 
-![Source: Chinese Steel Exports Destination in 2026 From Signal Ocean Https://app.signalocean.com/dry/dynamic/drybulkflows](../../images/6ab383c5f5c16e34d690703e_3f1c9def.png)
+![Source: Chinese Steel Exports Destination in 2026 From Signal Ocean Https://app.signalocean.com/dry/dynamic/drybulkflows](../../../../../../corpus/07-signal/images/6ab383c5f5c16e34d690703e_3f1c9def.png)
 
 > **Figure 3: Source: Chinese Steel Exports Destination in 2026 From Signal Ocean Https://app.signalocean.com/dry/dynamic/drybulkflows**  
 > *Source: Chinese steel exports destination in 2026 from Signal Ocean https://app.signalocean.com/dry/dynamic/drybulkflows*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/steel-flows-face-fresh-challenges-in-the-final-quarter-of-2026) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6ab383c5f5c16e34d690703e_3f1c9def.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/steel-flows-face-fresh-challenges-in-the-final-quarter-of-2026) | [Local Asset](../../../../../../corpus/07-signal/images/6ab383c5f5c16e34d690703e_3f1c9def.png)
 
 
 ## Chinese Steel Exports Face New and Ongoing Challenges in 2026 Q4

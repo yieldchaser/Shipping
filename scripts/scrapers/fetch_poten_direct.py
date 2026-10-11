@@ -75,6 +75,16 @@ PRIMARY_BASE_URL = "https://www.poten.com/whats-new-2/tanker-opinions/"
 FALLBACK_BASE_URL = "https://www.poten.com/category/industry-opinions/tanker-opinions/"
 BASE_URL = PRIMARY_BASE_URL
 HOMEPAGE_CANONICAL = "https://www.poten.com"
+# Site redesign (measured live 2026-10-11): both listing URLs above now 404.
+# Opinions live at root slugs (https://www.poten.com/tanker-demand-destruction)
+# and are listed, newest first and mixed with LNG/LPG/events, on the content hub.
+CONTENT_HUB_URL = "https://www.poten.com/resources/content-hub"
+ROOT_SLUG_RE = re.compile(r"^https://www\.poten\.com/[a-z0-9][a-z0-9-]*$")
+# New-layout standfirst: "02 October 2026" on its own (no trailing colon).
+NEW_STANDFIRST_RE = re.compile(
+    r"\b(\d{1,2})\s+(January|February|March|April|May|June|July|August|"
+    r"September|October|November|December)\s+(\d{4})\b"
+)
 
 USER_AGENT = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
 ACCEPT_HEADER = "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8"
@@ -279,29 +289,7 @@ def resolve_and_download_pdf(article_url, html, date_str, title):
     portal_m = re.search(r'portalId:\s*["\'](\d+)["\']', html)
     form_m = re.search(r'formId:\s*["\']([a-f0-9\-]+)["\']', html)
     pdf_url = None
-    if form_m:
-        portal_id = portal_m.group(1) if portal_m else "1975593"
-        form_id = form_m.group(1)
-        submit_url = f"https://api.hsforms.com/submissions/v3/integration/submit/{portal_id}/{form_id}"
-        payload = {
-            "fields": [
-                {"name": "email", "value": "research@maritimeanalytics.org"},
-                {"name": "firstname", "value": "Maritime"},
-                {"name": "lastname", "value": "Analyst"},
-                {"name": "company", "value": "Shipping Research Group"},
-                {"name": "city", "value": "London"},
-                {"name": "region", "value": "Europe"},
-                {"name": "commodity", "value": "Crude Oil"},
-                {"name": "sector", "value": "Academia"}
-            ],
-            "context": {"pageUri": article_url, "pageName": "Poten Tanker Opinions"}
-        }
-        try:
-            r = requests.post(submit_url, json=payload, headers={"Content-Type": "application/json"}, timeout=12)
-            if r.status_code == 200:
-                pdf_url = r.json().get("redirectUri")
-        except Exception:
-            pass
+    # Public links first (page links, then the HubSpot file-store name); the form submit is the last resort.
     if not pdf_url:
         pdfs = re.findall(r'https?://[^\s"\'<>]+\.pdf', html)
         if pdfs:
@@ -325,6 +313,30 @@ def resolve_and_download_pdf(article_url, html, date_str, title):
                 if r_head.status_code == 200:
                     pdf_url = cand
                     break
+        except Exception:
+            pass
+
+    if not pdf_url and form_m:
+        portal_id = portal_m.group(1) if portal_m else "1975593"
+        form_id = form_m.group(1)
+        submit_url = f"https://api.hsforms.com/submissions/v3/integration/submit/{portal_id}/{form_id}"
+        payload = {
+            "fields": [
+                {"name": "email", "value": "research@maritimeanalytics.org"},
+                {"name": "firstname", "value": "Maritime"},
+                {"name": "lastname", "value": "Analyst"},
+                {"name": "company", "value": "Shipping Research Group"},
+                {"name": "city", "value": "London"},
+                {"name": "region", "value": "Europe"},
+                {"name": "commodity", "value": "Crude Oil"},
+                {"name": "sector", "value": "Academia"}
+            ],
+            "context": {"pageUri": article_url, "pageName": "Poten Tanker Opinions"}
+        }
+        try:
+            r = requests.post(submit_url, json=payload, headers={"Content-Type": "application/json"}, timeout=12)
+            if r.status_code == 200:
+                pdf_url = r.json().get("redirectUri")
         except Exception:
             pass
 
@@ -356,6 +368,8 @@ def fetch_article_layer(article_url):
     if code != 200 or not html:
         raise _Quarantine(f"http-{code}")
     soup = BeautifulSoup(html, "html.parser")
+    if locate_article_root(soup) is None and soup.find("h1"):
+        return fetch_new_layout(article_url, html, soup)
     shell, reason = is_homepage_shell(article_url, soup)
     if shell:
         raise _Quarantine(reason)
@@ -381,6 +395,39 @@ def fetch_article_layer(article_url):
         "date": date_str,
         "dek": dek,
         "form_gated": form_gated,
+        "pdf_url": pdf_url,
+        "pdf_file": pdf_file,
+        "provenance": "article",
+    }
+
+
+def fetch_new_layout(article_url, html, soup):
+    """2026-10 redesign: h1 title, a "Tanker Opinions" category label, then
+    "{dd Month yyyy}" and the dek up to the registration-form note."""
+    canon = soup.find("link", rel="canonical")
+    canon_href = (canon.get("href") or "").rstrip("/") if canon else ""
+    if canon_href == HOMEPAGE_CANONICAL:
+        raise _Quarantine("canonical-homepage")
+    title = norm_ws(soup.find("h1").get_text(" ", strip=True))
+    for tag in soup(["script", "style", "nav", "header", "footer", "form"]):
+        tag.decompose()
+    text = norm_ws(soup.get_text(" ", strip=True))
+    start = text.find(title)
+    if start < 0 or "Tanker Opinions" not in text[start:start + 300]:
+        raise _Quarantine("not-a-tanker-opinion")
+    m = NEW_STANDFIRST_RE.search(text, start)
+    if not m:
+        raise _Quarantine("no-standfirst-date")
+    date_str = datetime.strptime(f"{m.group(1)} {m.group(2)} {m.group(3)}",
+                                 "%d %B %Y").strftime("%Y-%m-%d")
+    dek = re.split(r"Please\s+fill out the form", text[m.end():], maxsplit=1)[0]
+    pdf_url, pdf_file = resolve_and_download_pdf(article_url, html, date_str, title)
+    return {
+        "title": title,
+        "author": "",
+        "date": date_str,
+        "dek": norm_ws(dek),
+        "form_gated": bool(FORM_GATE_RE.search(text) or "hbspt.forms.create" in html),
         "pdf_url": pdf_url,
         "pdf_file": pdf_file,
         "provenance": "article",
@@ -470,11 +517,17 @@ def verify_opinion(layer):
 
 
 def build_markdown(title, date_str, article_url, author, dek, provenance, pdf_url=None, pdf_file=None):
-    coverage = (
-        "Public summary layer (title, author, date, standfirst). "
-        "The complete analysis sits behind a registration form on poten.com; "
-        "only the openly published summary is archived here."
-    )
+    if pdf_url:
+        coverage = (
+            "Article page layer (title, author, date, standfirst). The full report PDF is archived "
+            "(pdf_file above); its complete text and exhibits are extracted to data/extracted/md/poten/."
+        )
+    else:
+        coverage = (
+            "Public summary layer (title, author, date, standfirst). "
+            "The complete analysis sits behind a registration form on poten.com; "
+            "only the openly published summary is archived here."
+        )
     if provenance != "article":
         coverage += (
             f" Recovered from the Tanker Opinions listing ({provenance}) "
@@ -664,9 +717,38 @@ def process_article(article_url, title, date_str):
 
 def crawl_poten(max_pages=2, delay_sec=1.5):
     checkpoint = load_checkpoint()
-    processed_set = set(checkpoint.get("processed_urls", []))
+    # Legacy entries carry a trailing slash; the redesigned site links without one.
+    processed_set = {u.rstrip("/") for u in checkpoint.get("processed_urls", [])}
 
     print(f"Starting Poten & Partners crawl. Known URLs: {len(processed_set)}")
+
+    # Current site: one content-hub page; non-tanker items are quarantined by fetch_new_layout.
+    print(f"\n--- Scraping Page 1: {CONTENT_HUB_URL} ---")
+    code, html = http_get(CONTENT_HUB_URL, timeout=25)
+    if code == 200 and html:
+        soup = BeautifulSoup(html, "html.parser")
+        articles, seen = [], set()
+        for a in soup.find_all("a", href=True):
+            href = a["href"].rstrip("/")
+            title = norm_ws(a.get_text(" ", strip=True))
+            if ROOT_SLUG_RE.match(href) and title and href not in seen and href != "https://www.poten.com/newsletters":
+                seen.add(href)
+                articles.append((href, title, ""))
+        print(f"Found {len(articles)} articles on page 1")
+        for href, title, date_str in articles:
+            if href in processed_set:
+                continue
+            print(f"  -> Fetching: {title[:60]}...")
+            ok, path = process_article(href, title, date_str)
+            if ok:
+                print(f"     [OK] Saved to {path.name} (completeness=standfirst)")
+                processed_set.add(href)
+                checkpoint["processed_urls"] = list(processed_set)
+                save_checkpoint(checkpoint)
+            time.sleep(delay_sec)
+        print(f"\nPoten crawl finished. Total in catalog: {len(processed_set)}")
+        return
+    print(f"[!] HTTP {code} for {CONTENT_HUB_URL}; trying the legacy listing URLs")
 
     candidate_bases = [PRIMARY_BASE_URL, FALLBACK_BASE_URL]
     

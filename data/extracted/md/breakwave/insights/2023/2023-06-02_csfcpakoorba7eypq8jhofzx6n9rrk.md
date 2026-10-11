@@ -27,10 +27,10 @@ Stronger than expected commodity flows in the opening four months of the year se
 
 Rumours of a large-scale government stimulus package for the steel and construction industry have recently gained traction, however no official announcements have been made and, whilst such an influx of money would be hugely beneficial, not least for the capesize sector, the longerterm consequences of pouring more money into an already debt laden sector would be hard to ignore. Elsewhere China’s problems are mounting and unless the economy can be sparked into life, and that means industrial growth in addition to consumer spending, confidence will wane and inward investment will continue to fall as foreign companies choose to locate to other, more favourable locations such as Vietnam.
 
-![Market Chart 1](assets/2023-06-02_csfcpakoorba7eypq8jhofzx6n9rrk_img_image-asset_a29313101821.jpeg)
+![Market Chart 1](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-06-02_csfcpakoorba7eypq8jhofzx6n9rrk_img_image-asset_a29313101821.jpeg)
 
 > **Figure 1: Market Chart 1**  
-> **Interactive Data & Source:** [Gibsons Co](https://www.gibsons.co.uk/market-reports) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-06-02_csfcpakoorba7eypq8jhofzx6n9rrk_img_image-asset_a29313101821.jpeg)
+> **Interactive Data & Source:** [Gibsons Co](https://www.gibsons.co.uk/market-reports) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-06-02_csfcpakoorba7eypq8jhofzx6n9rrk_img_image-asset_a29313101821.jpeg)
 
 Away from the steel and construction sector, the capesize market has undoubtedly benefitted from the upswing in thermal coal imports into both China and India during the opening months of the year. In an attempt to pre-empt energy shortages, both countries put in place mechanisms to boost domestic production and also better manage coal imports to avoid a repeat of recent coal supply tightness. China’s domestic coal production is up 6% on the year and India’s 11% whilst thermal coal imports have surged 81% and 25% respectively. The increase in shipments is, of course, positive news for the market, however, with stockpiles now at comfortable levels ahead of the peak summer demand season, these volumes should fall and will see lower import levels in the months to come.
 

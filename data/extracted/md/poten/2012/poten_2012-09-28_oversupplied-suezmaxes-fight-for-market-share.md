@@ -68,18 +68,34 @@ Meanwhile, the rise in Suezmax Caribs-East volumes may look tiny in comparison, 
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: Oversupplied Suezmaxes Fight for Market Share](../../../charts/poten/2012/poten_2012-09-28_oversupplied-suezmaxes-fight-for-market-share_chart1.png)
+![Exhibit 1: Suezmax Fixture Volumes Key Growth Markets](../../../charts/poten/2012/poten_2012-09-28_oversupplied-suezmaxes-fight-for-market-share_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2012/poten_2012-09-28_oversupplied-suezmaxes-fight-for-market-share_chart1.png)
+> **Exhibit 1: Suezmax Fixture Volumes Key Growth Markets**  
+> Unit: MT millions · X-axis: 1q04 to 1q12  
+> Series: Caribs-East, AG-East, AG-West  
+> *Source: Poten*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2012/poten_2012-09-28_oversupplied-suezmaxes-fight-for-market-share_chart1.png)
 
-![Exhibit 2: Oversupplied Suezmaxes Fight for Market Share](../../../charts/poten/2012/poten_2012-09-28_oversupplied-suezmaxes-fight-for-market-share_chart2.png)
+![Exhibit 2: US Crude Imports from West Africa by Import Region](../../../charts/poten/2012/poten_2012-09-28_oversupplied-suezmaxes-fight-for-market-share_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2012/poten_2012-09-28_oversupplied-suezmaxes-fight-for-market-share_chart2.png)
+> **Exhibit 2: US Crude Imports from West Africa by Import Region**  
+> Unit: mbpd · X-axis: Dec-07 to Dec-11  
+> Series: USG (PADD3), Midwest (PADD2), USAC (PADD1), USWC (PADD5)  
+> *Source: EIA*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2012/poten_2012-09-28_oversupplied-suezmaxes-fight-for-market-share_chart2.png)
 
-![Exhibit 3: Oversupplied Suezmaxes Fight for Market Share](../../../charts/poten/2012/poten_2012-09-28_oversupplied-suezmaxes-fight-for-market-share_chart3.png)
+![Exhibit 3: Suezmax Share of Fixture Volumes by Load Region](../../../charts/poten/2012/poten_2012-09-28_oversupplied-suezmaxes-fight-for-market-share_chart3.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2012/poten_2012-09-28_oversupplied-suezmaxes-fight-for-market-share_chart3.png)
+> **Exhibit 3: Suezmax Share of Fixture Volumes by Load Region**  
+> Unit: Share of MT Fixture Volumes (%) · X-axis: 1q04 to 1q12  
+> Series: AG, WAF, BS/Med, Caribs/EC Mex  
+> *Source: Poten*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2012/poten_2012-09-28_oversupplied-suezmaxes-fight-for-market-share_chart3.png)
 
-![Exhibit 4: Oversupplied Suezmaxes Fight for Market Share](../../../charts/poten/2012/poten_2012-09-28_oversupplied-suezmaxes-fight-for-market-share_chart4.png)
+![Exhibit 4: Suezmax Spot TCE Earnings Daily Data](../../../charts/poten/2012/poten_2012-09-28_oversupplied-suezmaxes-fight-for-market-share_chart4.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2012/poten_2012-09-28_oversupplied-suezmaxes-fight-for-market-share_chart4.png)
+> **Exhibit 4: Suezmax Spot TCE Earnings Daily Data**  
+> Unit: US$000s/day · X-axis: Dec-09 to Jun-12  
+> Series: 135 BS-Med, 130 WAFR-USAC  
+> *Source: Poten*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2012/poten_2012-09-28_oversupplied-suezmaxes-fight-for-market-share_chart4.png)

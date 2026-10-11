@@ -20,10 +20,10 @@ source_file: "corpus/03-breakwave/insights/2026/2026-05-18_eu-keeps-the-pressure
 
 ---
 
-![Tankerrr 2 1 (1)](assets/2026-05-18_eu-keeps-the-pressure-on_img_tankerrr-2-128129_89290ba50318.jpg)
+![Tankerrr 2 1 (1)](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-05-18_eu-keeps-the-pressure-on_img_tankerrr-2-128129_89290ba50318.jpg)
 
 > **Figure 1: Tankerrr 2 1 (1)**  
-> **Interactive Data & Source:** [Gibsons Co](https://www.gibsons.co.uk/report/crude-clampdown/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-05-18_eu-keeps-the-pressure-on_img_tankerrr-2-128129_89290ba50318.jpg)
+> **Interactive Data & Source:** [Gibsons Co](https://www.gibsons.co.uk/report/crude-clampdown/) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-05-18_eu-keeps-the-pressure-on_img_tankerrr-2-128129_89290ba50318.jpg)
 
 Whilst the world’s attention remains firmly focused on Iran, the EU’s 20th sanctions package has perhaps undeservingly received little attention. Yet, the fact that the EU continues to push ahead with further sanctions amid an unprecedented energy crisis is a clear indication that the EU’s stance on Russia remains unchanged.
 
@@ -39,10 +39,10 @@ Perhaps most importantly, a full ban on maritime services related to Russian cru
 
 Of course, tighter rules surrounding tanker sales into Russian trade could reduce the available pool of candidates, but they are unlikely to eliminate them completely given that sizeable fleets remain controlled by owners outside the G7/EU framework. More importantly, the fact that the EU has publicly signalled this measure gives Russia time to prepare. Given the current geopolitical backdrop and ongoing turmoil in oil markets, it appears unlikely that the G7 and wider Price Cap Coalition will reach agreement on implementing a full maritime ban any time soon.
 
-![Στιγμιότυπο Οθόνης 2026 05 18 101048](assets/2026-05-18_eu-keeps-the-pressure-on_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_c6ecad8912a5.png)
+![Στιγμιότυπο Οθόνης 2026 05 18 101048](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-05-18_eu-keeps-the-pressure-on_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_c6ecad8912a5.png)
 
 > **Figure 2: Στιγμιότυπο Οθόνης 2026 05 18 101048**  
-> **Interactive Data & Source:** [Gibsons Co](https://www.gibsons.co.uk/market-reports) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-05-18_eu-keeps-the-pressure-on_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_c6ecad8912a5.png)
+> **Interactive Data & Source:** [Gibsons Co](https://www.gibsons.co.uk/market-reports) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-05-18_eu-keeps-the-pressure-on_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_c6ecad8912a5.png)
 
 Data source:[Gibson Shipbrokers](https://www.gibsons.co.uk/market-reports)
 

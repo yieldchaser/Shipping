@@ -32,12 +32,12 @@ The increase in Angolan output will be an overall positive for the tanker market
 
 ![Exhibit 1: Another Rumble in the Jungle](../../../charts/poten/2014/poten_2014-07-03_another-rumble-in-the-jungle_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2014/poten_2014-07-03_another-rumble-in-the-jungle_chart1.png)
+> **Interactive Asset:** [Local Asset (200 DPI PNG)](../../../charts/poten/2014/poten_2014-07-03_another-rumble-in-the-jungle_chart1.png)
 
 ![Exhibit 2: Another Rumble in the Jungle](../../../charts/poten/2014/poten_2014-07-03_another-rumble-in-the-jungle_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2014/poten_2014-07-03_another-rumble-in-the-jungle_chart2.png)
+> **Interactive Asset:** [Local Asset (200 DPI PNG)](../../../charts/poten/2014/poten_2014-07-03_another-rumble-in-the-jungle_chart2.png)
 
 ![Exhibit 3: Another Rumble in the Jungle](../../../charts/poten/2014/poten_2014-07-03_another-rumble-in-the-jungle_chart3.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2014/poten_2014-07-03_another-rumble-in-the-jungle_chart3.png)
+> **Interactive Asset:** [Local Asset (200 DPI PNG)](../../../charts/poten/2014/poten_2014-07-03_another-rumble-in-the-jungle_chart3.png)

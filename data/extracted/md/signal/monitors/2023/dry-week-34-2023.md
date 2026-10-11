@@ -32,7 +32,7 @@ tags:
 
 > **Figure 1: Data Source: The Signal Ocean Platform Data**  
 > *Data Source: The Signal Ocean Platform Data*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/dry-week-34-2023) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/64e5bac0de1b5b6143fea58b_chart of the week dry.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/dry-week-34-2023) | [Local Asset](../../../../../../corpus/07-signal/images/64e5bac0de1b5b6143fea58b_chart%20of%20the%20week%20dry.png)
 
 The third week of August began with more robust sentiment, which countered fears about a possible downward trend in the Capesize segment. This change in sentiment is particularly evident as the Baltic Dry Index gains momentum, driven by Panamax and smaller ship categories. The upward trend in Panamax freight prices has led to a corresponding acceleration in vessel speeds, both ballasted and loaded.
 

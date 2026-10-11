@@ -56,10 +56,10 @@ The past two weeks have seen some tentative signs of a rebound in demand for pan
 
 In addition to improving cargo order volumes, a recent drop in the trade’s market lead times should provide additional support for freight rates. After a period of extended lead times, the past week has seen a significant drop, highlighting an increasing appetite for more rapid delivery. The average time between the first date of circulation of orders and the first loading date has also dropped below the average for the past year, suggesting that the trade will provide support for panamax freight rates in the near term.
 
-![Screenshot 2024 02 16 15.15.20](assets/2024-02-16_the-fix-global-market-update-from-shipfix_img_screenshot2024-02-16151520_37e71935f8df.png)
+![Screenshot 2024 02 16 15.15.20](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-02-16_the-fix-global-market-update-from-shipfix_img_screenshot2024-02-16151520_37e71935f8df.png)
 
 > **Figure 1: Screenshot 2024 02 16 15.15.20**  
-> **Interactive Data & Source:** [Shipfix](https://shipfix.com/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-02-16_the-fix-global-market-update-from-shipfix_img_screenshot2024-02-16151520_37e71935f8df.png)
+> **Interactive Data & Source:** [Shipfix](https://shipfix.com/) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-02-16_the-fix-global-market-update-from-shipfix_img_screenshot2024-02-16151520_37e71935f8df.png)
 
 Data Source:[Shipfix](https://shipfix.com/)
 

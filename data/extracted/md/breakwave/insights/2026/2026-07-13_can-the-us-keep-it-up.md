@@ -20,10 +20,10 @@ source_file: "corpus/03-breakwave/insights/2026/2026-07-13_can-the-us-keep-it-up
 
 ---
 
-![Oil Drilling](assets/2026-07-13_can-the-us-keep-it-up_img_oil-drilling_b002be8ead60.jpg)
+![Oil Drilling](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-07-13_can-the-us-keep-it-up_img_oil-drilling_b002be8ead60.jpg)
 
 > **Figure 1: Oil Drilling**  
-> **Interactive Data & Source:** [Gibsons Co](https://www.gibsons.co.uk/market-reports) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-07-13_can-the-us-keep-it-up_img_oil-drilling_b002be8ead60.jpg)
+> **Interactive Data & Source:** [Gibsons Co](https://www.gibsons.co.uk/market-reports) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-07-13_can-the-us-keep-it-up_img_oil-drilling_b002be8ead60.jpg)
 
 Over the course of more than 100 days of the Strait of Hormuz closure, the US proved to be the single most important source of replacement barrels, both for crude and clean products. The increase in US crude exports has been nothing short of spectacular: in the second quarter of the year, exports averaged around 5.2 mbd, up by 1.4 mbd compared to the 2025 average. The biggest growth was seen in long haul trade to Asia, which doubled from the 2025 baseline. Unquestionably, this growth was for the most part fuelled by the colossal US SPR release, helped by a modest increase in domestic US production. A similar trend was observed for clean exports, though increases here have been more modest. Total clean exports averaged close to 3 mbd in Q2, 450 kbd above their 2025 baseline, with the biggest gains in absolute terms seen in trade to Europe, Africa and Asia.
 
@@ -37,10 +37,10 @@ Trade dynamics are similar for clean product exports. US refineries are running 
 
 Overall, the US has done the bulk of the heavy lifting in keeping global markets supplied through the crisis, but its capacity to keep doing so is diminishing. Should the renewed escalation in the Strait lead to another prolonged closure of Hormuz, the world will find itself in a much tougher spot. With global inventories rapidly depleted in recent months, this is a recipe for much tighter supply, higher prices and significant downside risk for tanker markets.
 
-![Στιγμιότυπο Οθόνης 2026 07 13 085459](assets/2026-07-13_can-the-us-keep-it-up_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_2bbe9544b2e7.png)
+![Στιγμιότυπο Οθόνης 2026 07 13 085459](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-07-13_can-the-us-keep-it-up_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_2bbe9544b2e7.png)
 
 > **Figure 2: Στιγμιότυπο Οθόνης 2026 07 13 085459**  
-> **Interactive Data & Source:** [Gibsons Co](https://www.gibsons.co.uk/market-reports) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-07-13_can-the-us-keep-it-up_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_2bbe9544b2e7.png)
+> **Interactive Data & Source:** [Gibsons Co](https://www.gibsons.co.uk/market-reports) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-07-13_can-the-us-keep-it-up_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_2bbe9544b2e7.png)
 
 Data source:[Gibson Shipbrokers](https://www.gibsons.co.uk/market-reports)
 

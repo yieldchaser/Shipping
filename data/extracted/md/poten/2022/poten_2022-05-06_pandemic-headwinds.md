@@ -58,6 +58,16 @@ For now, the government seems to insist on continuing their Zero-Covid approach,
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: Pandemic Headwinds](../../../charts/poten/2022/poten_2022-05-06_pandemic-headwinds_chart1.png)
+![Exhibit 1: TonMile Demand by Destination (Crude Oil; 2021)](../../../charts/poten/2022/poten_2022-05-06_pandemic-headwinds_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2022/poten_2022-05-06_pandemic-headwinds_chart1.png)
+> **Exhibit 1: TonMile Demand by Destination (Crude Oil; 2021)**  
+> Unit: % · X-axis: China to West Africa  
+> Series: China, Korea, Japan, South Asia, Other Asia, USA, Other Americas, NW Europe, Med, Middle East, West Africa  
+> *Source: Lloyd’s List Intelligence*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2022/poten_2022-05-06_pandemic-headwinds_chart1.png)
+
+> **Chart on PDF page 1: Chinese Crude Oil Imports**  
+> Unit: Kb/d · X-axis: 0 to 2,000  
+> Series: April, March  
+> *Source: Bloomberg*  
+> *No image crop of this chart was saved; caption read from the PDF.*

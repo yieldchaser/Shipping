@@ -20,10 +20,10 @@ source_file: "corpus/03-breakwave/insights/2024/2024-11-20_the-latest-east-west-
 
 ---
 
-![Tanker Off Port 500x333](assets/2024-11-20_the-latest-east-west-divide_img_tanker-off-port-500x333_e7b4bbc1f529.jpg)
+![Tanker Off Port 500x333](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-11-20_the-latest-east-west-divide_img_tanker-off-port-500x333_e7b4bbc1f529.jpg)
 
 > **Figure 1: Tanker Off Port 500x333**  
-> **Interactive Data & Source:** [Gibsons Co](https://www.gibsons.co.uk/market-reports) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-11-20_the-latest-east-west-divide_img_tanker-off-port-500x333_e7b4bbc1f529.jpg)
+> **Interactive Data & Source:** [Gibsons Co](https://www.gibsons.co.uk/market-reports) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-11-20_the-latest-east-west-divide_img_tanker-off-port-500x333_e7b4bbc1f529.jpg)
 
 Lacklustre oil demand from China has been a leading story in tanker markets this year. In its annual report published in June, the IEA forecast Chinese demand growth of 480 kbd for 2024, which has been revised downwards several times this year, to now 150 kbd. The reasons cited behind the slowing demand growth are many, ranging from increased adoption of EVs and LNG trucks, to a slowdown in industrial activity and consumer spending.
 
@@ -37,10 +37,10 @@ Chinese imports from Russian ports west of Suez have been volatile, and 2024 lev
 
 It is difficult to quantify the overall impact on tonne mile demand, partly because the change in import patterns has been influenced by a shift from the mainstream tanker fleet to the grey fleet. However, it is clear that previously established long-haul exports into China have declined to the benefit of shorter haul trade patterns.
 
-![Στιγμιότυπο Οθόνης 2024 11 20 102839](assets/2024-11-20_the-latest-east-west-divide_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_e664624a3c8d.png)
+![Στιγμιότυπο Οθόνης 2024 11 20 102839](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-11-20_the-latest-east-west-divide_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_e664624a3c8d.png)
 
 > **Figure 2: Στιγμιότυπο Οθόνης 2024 11 20 102839**  
-> **Interactive Data & Source:** [Gibsons Co](https://www.gibsons.co.uk/market-reports) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-11-20_the-latest-east-west-divide_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_e664624a3c8d.png)
+> **Interactive Data & Source:** [Gibsons Co](https://www.gibsons.co.uk/market-reports) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-11-20_the-latest-east-west-divide_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_e664624a3c8d.png)
 
 Data source:[Gibson Shipbrokers](https://www.gibsons.co.uk/market-reports)
 

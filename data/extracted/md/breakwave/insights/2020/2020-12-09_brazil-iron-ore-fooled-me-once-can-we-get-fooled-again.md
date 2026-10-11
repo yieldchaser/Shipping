@@ -20,10 +20,10 @@ source_file: "corpus/03-breakwave/insights/2020/2020-12-09_brazil-iron-ore-foole
 
 ---
 
-![Vale](assets/2020-12-09_brazil-iron-ore-fooled-me-once-can-we-get-fooled-again_img_vale_3b19f8b50dd0.png)
+![Vale](../../../../../../corpus/03-breakwave/insights/2020/assets/2020-12-09_brazil-iron-ore-fooled-me-once-can-we-get-fooled-again_img_vale_3b19f8b50dd0.png)
 
 > **Figure 1: Vale**  
-> **Interactive Data & Source:** [En M Wikipedia](https://en.m.wikipedia.org/wiki/Port_of_Tubarão) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2020/assets/2020-12-09_brazil-iron-ore-fooled-me-once-can-we-get-fooled-again_img_vale_3b19f8b50dd0.png)
+> **Interactive Data & Source:** [En M Wikipedia](https://en.m.wikipedia.org/wiki/Port_of_Tubarão) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2020/assets/2020-12-09_brazil-iron-ore-fooled-me-once-can-we-get-fooled-again_img_vale_3b19f8b50dd0.png)
 
 2020 was a disastrous year for the world, to say the least. With the pandemic wreaking havoc in societies and economies, the world was battling so many fronts at the same time and even today with the potential massive vaccinations about to begin, the future remains highly uncertain. For dry bulk shipping however, it was a decent year despite all the obstacles, as China once again proved a safe harbor for dry bulk demand. Yet, it was not smooth sailing across the board.
 
@@ -39,10 +39,10 @@ Not all ships are created equal and more importantly, not all ships can call and
 
 In its most recent presentation, Vale put forward a roadmap to 400 million tons, providing more details on where the additional growth will come from across its mining system, as illustrated in the following slide:
 
-![Source: Vale](assets/2020-12-09_brazil-iron-ore-fooled-me-once-can-we-get-fooled-again_img_valeroadto400_a337a3e9bb38.png)
+![Source: Vale](../../../../../../corpus/03-breakwave/insights/2020/assets/2020-12-09_brazil-iron-ore-fooled-me-once-can-we-get-fooled-again_img_valeroadto400_a337a3e9bb38.png)
 
 > **Figure 2: Source: Vale**  
-> **Interactive Data & Source:** [En M Wikipedia](https://en.m.wikipedia.org/wiki/Port_of_Tubarão) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2020/assets/2020-12-09_brazil-iron-ore-fooled-me-once-can-we-get-fooled-again_img_valeroadto400_a337a3e9bb38.png)
+> **Interactive Data & Source:** [En M Wikipedia](https://en.m.wikipedia.org/wiki/Port_of_Tubarão) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2020/assets/2020-12-09_brazil-iron-ore-fooled-me-once-can-we-get-fooled-again_img_valeroadto400_a337a3e9bb38.png)
 
 *Source: Vale*
 
@@ -51,10 +51,10 @@ Based on the above, most of the estimated growth will be coming from the Southea
 Each of those ports have different capabilities when it comes to vessel loading, based on maximum size accepted on each pier, as each port operates multiple loading piers. This is important, because in order for Vale to maximize its exports it has to maximize port utilization. After all, a ton of iron ore mined but sitting by the port does not do much if its not sold, loaded on a vessel and shipped.
 If most of the growth is coming from the South/Southeastern system, how well are these ports equipped to handle such an increase in vessel loadings? Additionally, what type of ships will be needed in the future in order to handle such a potential surge in exports?
 
-![Ship26](assets/2020-12-09_brazil-iron-ore-fooled-me-once-can-we-get-fooled-again_img_ship26_5f0b2d91676d.jpg)
+![Ship26](../../../../../../corpus/03-breakwave/insights/2020/assets/2020-12-09_brazil-iron-ore-fooled-me-once-can-we-get-fooled-again_img_ship26_5f0b2d91676d.jpg)
 
 > **Figure 3: Ship26**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2020/assets/2020-12-09_brazil-iron-ore-fooled-me-once-can-we-get-fooled-again_img_ship26_5f0b2d91676d.jpg)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2020/assets/2020-12-09_brazil-iron-ore-fooled-me-once-can-we-get-fooled-again_img_ship26_5f0b2d91676d.jpg)
 
 During Vale Day, Vale’s management presented their view on the utilization of the large, dedicated dry bulk vessels that Vale uses, namely Valemaxes and Guaibamaxes (name refers to the maximum size that Vale’s Guaiba island terminal accepts). Those vessels have respective capacities of ~400kdwt and ~325kdwt. Currently there are 68 Valemaxes in the water. Furthermore, there are 24 newbuilding orders for Guaibamaxes with delivery dates between now and early 2022. It is also important to note that Guaibamaxes make approximately 30% of the total Capesize orderbook (there are only 90 standard Capesize vessels in the orderbook, a very low number compared to recent history).
 
@@ -66,10 +66,10 @@ Based on Vale’s published information, the port of Tubarao has only one birth 
 
 The chart below shows what Vale believes the future carrying capacity of Valemax/Guaibamax might look like:
 
-![Source: Vale](assets/2020-12-09_brazil-iron-ore-fooled-me-once-can-we-get-fooled-again_img_valemax_24da65e33a14.png)
+![Source: Vale](../../../../../../corpus/03-breakwave/insights/2020/assets/2020-12-09_brazil-iron-ore-fooled-me-once-can-we-get-fooled-again_img_valemax_24da65e33a14.png)
 
 > **Figure 4: Source: Vale**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2020/assets/2020-12-09_brazil-iron-ore-fooled-me-once-can-we-get-fooled-again_img_valemax_24da65e33a14.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2020/assets/2020-12-09_brazil-iron-ore-fooled-me-once-can-we-get-fooled-again_img_valemax_24da65e33a14.png)
 
 *Source: Vale*
 
@@ -77,10 +77,10 @@ Our view is that standard Capesize vessels will be in high demand, despite the s
 
 Based on such analysis, Capesize spot fixtures will once again begin to increase after reaching a multi-year low in 2020, reaching new highs in 2023 as Vale’s exports increase towards 400 million tons. We don’t anticipate any increase in Valemax loadings (after all, the newbuilding program is complete) while VLOC/Guaibamax loadings will increase in 2021 but then beggin to flatten out (also, there have already been retirements of several VLOC vessels and we expect more in the future which should offset part of the Guaibamax additions).
 
-![Vale Loading Spot](assets/2020-12-09_brazil-iron-ore-fooled-me-once-can-we-get-fooled-again_img_valeloadingspot_205246c41a9b.png)
+![Vale Loading Spot](../../../../../../corpus/03-breakwave/insights/2020/assets/2020-12-09_brazil-iron-ore-fooled-me-once-can-we-get-fooled-again_img_valeloadingspot_205246c41a9b.png)
 
 > **Figure 5: Vale Loading Spot**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2020/assets/2020-12-09_brazil-iron-ore-fooled-me-once-can-we-get-fooled-again_img_valeloadingspot_205246c41a9b.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2020/assets/2020-12-09_brazil-iron-ore-fooled-me-once-can-we-get-fooled-again_img_valeloadingspot_205246c41a9b.png)
 
 Finally, all the above assume Vale will deliver on its promises. This is a big if, and indeed we have been fooled year after year. Unfortunately, the health of the dry bulk market, (especially the larger segments) rely on the ability of this specific company to deliver, given the large distances and quantities involved.
 

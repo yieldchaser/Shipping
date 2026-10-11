@@ -32,10 +32,18 @@ Gradual declines such as in Venezuela are easier to deal with than sudden shocks
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: Navigating Uncertainty](../../../charts/poten/2018/poten_2018-03-02_navigating-uncertainty_chart1.png)
+![Exhibit 1: Opec Countries: Production vs Quota](../../../charts/poten/2018/poten_2018-03-02_navigating-uncertainty_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2018/poten_2018-03-02_navigating-uncertainty_chart1.png)
+> **Exhibit 1: Opec Countries: Production vs Quota**  
+> Unit: Mb/d · X-axis: Saudi Arabia to Gabon  
+> Series: Jan 2018 Prodution, Quota  
+> *Source: IEA*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2018/poten_2018-03-02_navigating-uncertainty_chart1.png)
 
-![Exhibit 2: Navigating Uncertainty](../../../charts/poten/2018/poten_2018-03-02_navigating-uncertainty_chart2.png)
+![Exhibit 2: Crude Production of Selected OPEC Countries](../../../charts/poten/2018/poten_2018-03-02_navigating-uncertainty_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2018/poten_2018-03-02_navigating-uncertainty_chart2.png)
+> **Exhibit 2: Crude Production of Selected OPEC Countries**  
+> Unit: Mb/d · X-axis: Jan-15 to Jan-18  
+> Series: Iran, Venezuela, Iraq  
+> *Source: IEA*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2018/poten_2018-03-02_navigating-uncertainty_chart2.png)

@@ -20,15 +20,15 @@ source_file: "corpus/03-breakwave/insights/2025/2025-05-06_japan-shipbuilding-cr
 
 ---
 
-![Rgb Color Brs Shipbrokers Monogram Logo](assets/2025-05-06_japan-shipbuilding-craft-over-quantity_img_rgb-color-brs-shipbrokers-monogram-l_ee79606c8e74.png)
+![Rgb Color Brs Shipbrokers Monogram Logo](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-05-06_japan-shipbuilding-craft-over-quantity_img_rgb-color-brs-shipbrokers-monogram-l_ee79606c8e74.png)
 
 > **Figure 1: Rgb Color Brs Shipbrokers Monogram Logo**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-05-06_japan-shipbuilding-craft-over-quantity_img_rgb-color-brs-shipbrokers-monogram-l_ee79606c8e74.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-05-06_japan-shipbuilding-craft-over-quantity_img_rgb-color-brs-shipbrokers-monogram-l_ee79606c8e74.png)
 
-![Στιγμιότυπο Οθόνης 2025 05 06 120400](assets/2025-05-06_japan-shipbuilding-craft-over-quantity_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_40bcd48e20b1.png)
+![Στιγμιότυπο Οθόνης 2025 05 06 120400](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-05-06_japan-shipbuilding-craft-over-quantity_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_40bcd48e20b1.png)
 
 > **Figure 2: Στιγμιότυπο Οθόνης 2025 05 06 120400**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-05-06_japan-shipbuilding-craft-over-quantity_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_40bcd48e20b1.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-05-06_japan-shipbuilding-craft-over-quantity_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_40bcd48e20b1.png)
 
 Japan’s shipbuilding capacity for bulkers, tankers, and container ships has undergone significant change over the past two decades. In 2005, total deliveries stood at approximately 26 mln Dwt—comprising 17 mln in bulkers, 1 mln in tankers, and 8 mln in container ships—representing around 25% of global shipbuilding activity at the time. By 2010, deliveries had surged to nearly 34 mln Dwt (22 mln bulkers, 2 mln tankers, and 10 mln containers), driven by booming demand during the 2005–2008 commodity supercycle. China’s iron ore imports had nearly doubled, while global oil demand rose by 20%, fuelling a sharp increase in bulker and tanker orders. Despite the Great Recession of 2008, causing a 50% collapse in new orders, deliveries remained strong in 2010, supported by pre-crisis contracts and export credit assistance.
 
@@ -40,10 +40,10 @@ Looking towards 2040, Japan aims to lead in autonomous shipping and zero-emissio
 
 ### China’s Bulker Supremacy
 
-![Στιγμιότυπο Οθόνης 2025 05 06 120425](assets/2025-05-06_japan-shipbuilding-craft-over-quantity_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_f0dc7fd858bf.png)
+![Στιγμιότυπο Οθόνης 2025 05 06 120425](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-05-06_japan-shipbuilding-craft-over-quantity_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_f0dc7fd858bf.png)
 
 > **Figure 3: Στιγμιότυπο Οθόνης 2025 05 06 120425**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-05-06_japan-shipbuilding-craft-over-quantity_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_f0dc7fd858bf.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-05-06_japan-shipbuilding-craft-over-quantity_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_f0dc7fd858bf.png)
 
 **Japan’s Niche Strategy:**Japan is projected to deliver 16.2 million dwt of new tonnage across all vessel types in 2025, surpassing South Korea but still trailing far behind China, which is expected to produce more than twice as much. Despite cost pressures, Japanese shipyards excel in high-value niches like methanol-ready bulkers and vehicle carriers. Their strength lies in domestic demand, driven by technological specialization in energy-efficient, eco-friendly vessels, aligning with local shipowners’ sustainability goals. This focus sustains shipyard activity and supports stable coal imports for steel and power needs. Japan’s future hinges on domestic charterer demand and green innovation leadership, as Chinese builders like CSSC and Yangzijian Shipbuilding advance lower-cost, low-emission alternatives.
 
@@ -51,19 +51,19 @@ Looking towards 2040, Japan aims to lead in autonomous shipping and zero-emissio
 
 ### Not the Biggest — Just the Best
 
-![Στιγμιότυπο Οθόνης 2025 05 06 120440](assets/2025-05-06_japan-shipbuilding-craft-over-quantity_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_6a3fd3d512a5.png)
+![Στιγμιότυπο Οθόνης 2025 05 06 120440](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-05-06_japan-shipbuilding-craft-over-quantity_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_6a3fd3d512a5.png)
 
 > **Figure 4: Στιγμιότυπο Οθόνης 2025 05 06 120440**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-05-06_japan-shipbuilding-craft-over-quantity_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_6a3fd3d512a5.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-05-06_japan-shipbuilding-craft-over-quantity_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_6a3fd3d512a5.png)
 
 In 2023 and 2024, the bulk carrier orderbook breakdown highlighted China's dominance and Japan's continued resilience, driven by distinct factors. China's bulk carrier orderbook grew to 92.4 mln Dwt in 2024, up from 65.4 mln Dwt in 2023, reflecting a sharp rise in new orders from 37 mln Dwt to 48 mln Dwt, driven by Southeast Asian infrastructure demand for raw materials like iron ore. Japan's orderbook, in contrast, expanded more modestly, increasing from 28.5 mln Dwt in 2023 to 30.5 mln Dwt in 2024. Japan’s orders fell slightly to 12 mln Dwt in 2024 from 12.5 mln Dwt, driven by demand for fuel-efficient vessels amidst stringent IMO environmental regulations.
 
 However, new global bulk carrier orders are expected to drop 26% in 2025 due to factors including high prices, fuel uncertainty, and concerns over oversupply, with approximately 600 newbuilding's expected. Deliveries are also shifting, with China’s deliveries increasing slightly to 21.6 mln Dwt from 21 mln Dwt, while Japan’s fall to 10.7 mln Dwt from 11 mln Dwt, focusing on green ship builds. Geopolitical factors, such as the US - China trade disputes, continue to influence freight rates and market sentiment, while US - Japan collaboration seeks to challenge China’s 55.7% global market share.
 
-![Στιγμιότυπο Οθόνης 2025 05 06 120453](assets/2025-05-06_japan-shipbuilding-craft-over-quantity_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_f97d0dd65e48.png)
+![Στιγμιότυπο Οθόνης 2025 05 06 120453](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-05-06_japan-shipbuilding-craft-over-quantity_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_f97d0dd65e48.png)
 
 > **Figure 5: Στιγμιότυπο Οθόνης 2025 05 06 120453**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-05-06_japan-shipbuilding-craft-over-quantity_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_f97d0dd65e48.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-05-06_japan-shipbuilding-craft-over-quantity_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_f97d0dd65e48.png)
 
 In Japan’s 2023-2024 maritime sector, Handysize vessels led demand, with orders jumping from 52 to 91 and deliveries from 52 to 70, serving regional trade routes in Asia (Southeast Asia, China, South Korea) for dry bulk commodities like steel, cement, grains, and fertilizers, fuelled by a 26% rise in meat exports and robust logistics. Panamax vessels showed stable demand, with orders slightly up from 19 to 21 and deliveries steady at 21, supporting balanced trade in grains and coal across Indo-Pacific routes. Capesize/Neo vessels, however, saw growing demand with orders rising from 18 to 25, but deliveries fell from 18 to 14, reflecting Japan’s need for large bulk carriers to import coal and iron ore, though supply constraints hinder fulfilment.
 

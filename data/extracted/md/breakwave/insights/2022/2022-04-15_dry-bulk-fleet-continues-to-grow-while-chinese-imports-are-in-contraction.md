@@ -26,10 +26,10 @@ The dry bulk fleet continues to grow while Chinese iron ore, coal, and soybean i
 
 China imported 16.4 million tons of coal in March. This marks a month-on-month decline of 1.3 million tons (-7%) and is down year-on-year by 10.9 million tons (-40%). As with in the iron ore market, we have also continued to stress that there remains a solid chance this year that both Chinese coal import volume and global coal trade volume will contract on a year-on-year basis. Through the first three months of this year, Chinese coal imports have contracted on a year-on-year basis by 16.7 million tons (-24%).
 
-![Chart](assets/2022-04-15_dry-bulk-fleet-continues-to-grow-while-chinese-imports-are-in-contraction_img_chart_e799fbe308d9.jpg)
+![Chart](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-04-15_dry-bulk-fleet-continues-to-grow-while-chinese-imports-are-in-contraction_img_chart_e799fbe308d9.jpg)
 
 > **Figure 1: Chart**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-04-15_dry-bulk-fleet-continues-to-grow-while-chinese-imports-are-in-contraction_img_chart_e799fbe308d9.jpg)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-04-15_dry-bulk-fleet-continues-to-grow-while-chinese-imports-are-in-contraction_img_chart_e799fbe308d9.jpg)
 
 China imported 6.3 million tons of soybeans in March. This marks a month-on-month decline of 700,000 tons (-10%) and is down year-on-year by 1.3 million tons (-17%). As with in the iron ore and coal markets, there is also a solid chance now that both Chinese soybean import volume and global soybean trade volume will contract on a year-on-year basis. Through the first three months of this year, Chinese soybean imports have contracted on a year-on-year basis by 900,000 tons (-4%).
 

@@ -36,10 +36,18 @@ Saudi Arabia was the only country with significant spare production capacity in 
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: Quick Recovery For Saudi Exports](../../../charts/poten/2019/poten_2019-09-20_quick-recovery-for-saudi-exports_chart1.png)
+![Exhibit 1: Saudi Crude Oil Exports by Destination](../../../charts/poten/2019/poten_2019-09-20_quick-recovery-for-saudi-exports_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2019/poten_2019-09-20_quick-recovery-for-saudi-exports_chart1.png)
+> **Exhibit 1: Saudi Crude Oil Exports by Destination**  
+> Unit: Kb/d · X-axis: Jan-14 to Jul-19  
+> Series: China, Japan, Korea, India, Other Asia, USAC/USG, Other Americas Atl, Americas, Pac, NW Europe, Med, Other  
+> *Source: Lloyd’s List Intelligence*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2019/poten_2019-09-20_quick-recovery-for-saudi-exports_chart1.png)
 
-![Exhibit 2: Quick Recovery For Saudi Exports](../../../charts/poten/2019/poten_2019-09-20_quick-recovery-for-saudi-exports_chart2.png)
+![Exhibit 2: VLCC & LR2 Freight Rates](../../../charts/poten/2019/poten_2019-09-20_quick-recovery-for-saudi-exports_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2019/poten_2019-09-20_quick-recovery-for-saudi-exports_chart2.png)
+> **Exhibit 2: VLCC & LR2 Freight Rates**  
+> Unit: TCE ($/day) · X-axis: 2-Sep to 20-Sep  
+> Series: VLCC: AG -FE, LR2: AG-FE  
+> *Source: Poten & Partners*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2019/poten_2019-09-20_quick-recovery-for-saudi-exports_chart2.png)

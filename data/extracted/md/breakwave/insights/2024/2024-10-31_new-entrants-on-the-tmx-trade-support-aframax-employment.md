@@ -45,10 +45,10 @@ Mideast Gulf (excl. Iran) crude loadings have risen marginally m-o-m in October,
 
 ➔ With several major Middle East refiners shutting down for planned maintenance this quarter, Middle East producers may be driven to raise exports to dispose of their surplus crude
 
-![Στιγμιότυπο Οθόνης 2024 10 31 094110](assets/2024-10-31_new-entrants-on-the-tmx-trade-support-aframax-employment_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_7efac1429735.png)
+![Στιγμιότυπο Οθόνης 2024 10 31 094110](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-10-31_new-entrants-on-the-tmx-trade-support-aframax-employment_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_7efac1429735.png)
 
 > **Figure 1: Στιγμιότυπο Οθόνης 2024 10 31 094110**  
-> **Interactive Data & Source:** [Vortexa](https://www.vortexa.com//oil-gas-data-traders-analysts-data-scientists?gclid=Cj0KCQjw8_qRBhCXARIsAE2AtRZKOvMnbilZ_6_91d7huSFFy71pWLrnPwGwOHVzXsmsG-1a1mZnQw8aAt89EALw_wcB&hsa_acc=1782073842&hsa_ad=548425387665&hsa_cam=14746637662&hsa_grp=125038601902&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_src=g&hsa_tgt=dsa-1431852288425&hsa_ver=3&utm_campaign=%5BCD%5D%20-%20DSA%20-%20EMEA&utm_medium=cpc&utm_medium=ppc&utm_source=google&utm_source=adwords&utm_term=) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-10-31_new-entrants-on-the-tmx-trade-support-aframax-employment_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_7efac1429735.png)
+> **Interactive Data & Source:** [Vortexa](https://www.vortexa.com//oil-gas-data-traders-analysts-data-scientists?gclid=Cj0KCQjw8_qRBhCXARIsAE2AtRZKOvMnbilZ_6_91d7huSFFy71pWLrnPwGwOHVzXsmsG-1a1mZnQw8aAt89EALw_wcB&hsa_acc=1782073842&hsa_ad=548425387665&hsa_cam=14746637662&hsa_grp=125038601902&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_src=g&hsa_tgt=dsa-1431852288425&hsa_ver=3&utm_campaign=%5BCD%5D%20-%20DSA%20-%20EMEA&utm_medium=cpc&utm_medium=ppc&utm_source=google&utm_source=adwords&utm_term=) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-10-31_new-entrants-on-the-tmx-trade-support-aframax-employment_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_7efac1429735.png)
 
 ## Clean – East of Suez: LR2 Tankers Are Switching Back to Dirty; Is the Trend Sustainable?
 
@@ -64,10 +64,10 @@ This has triggered a migration of LR2s from the clean to the dirty trade as dirt
 
 ➔ However, an overall weakness in the crude demand picture could limit transition from clean-to-dirty trade
 
-![Στιγμιότυπο Οθόνης 2024 10 31 094502](assets/2024-10-31_new-entrants-on-the-tmx-trade-support-aframax-employment_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_0e602489c5a2.png)
+![Στιγμιότυπο Οθόνης 2024 10 31 094502](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-10-31_new-entrants-on-the-tmx-trade-support-aframax-employment_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_0e602489c5a2.png)
 
 > **Figure 2: Στιγμιότυπο Οθόνης 2024 10 31 094502**  
-> **Interactive Data & Source:** [Vortexa](https://www.vortexa.com//oil-gas-data-traders-analysts-data-scientists?gclid=Cj0KCQjw8_qRBhCXARIsAE2AtRZKOvMnbilZ_6_91d7huSFFy71pWLrnPwGwOHVzXsmsG-1a1mZnQw8aAt89EALw_wcB&hsa_acc=1782073842&hsa_ad=548425387665&hsa_cam=14746637662&hsa_grp=125038601902&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_src=g&hsa_tgt=dsa-1431852288425&hsa_ver=3&utm_campaign=%5BCD%5D%20-%20DSA%20-%20EMEA&utm_medium=cpc&utm_medium=ppc&utm_source=google&utm_source=adwords&utm_term=) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-10-31_new-entrants-on-the-tmx-trade-support-aframax-employment_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_0e602489c5a2.png)
+> **Interactive Data & Source:** [Vortexa](https://www.vortexa.com//oil-gas-data-traders-analysts-data-scientists?gclid=Cj0KCQjw8_qRBhCXARIsAE2AtRZKOvMnbilZ_6_91d7huSFFy71pWLrnPwGwOHVzXsmsG-1a1mZnQw8aAt89EALw_wcB&hsa_acc=1782073842&hsa_ad=548425387665&hsa_cam=14746637662&hsa_grp=125038601902&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_src=g&hsa_tgt=dsa-1431852288425&hsa_ver=3&utm_campaign=%5BCD%5D%20-%20DSA%20-%20EMEA&utm_medium=cpc&utm_medium=ppc&utm_source=google&utm_source=adwords&utm_term=) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-10-31_new-entrants-on-the-tmx-trade-support-aframax-employment_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_0e602489c5a2.png)
 
 ## Dirty – West of Suez: Aframax Voyages Tmx-to-Asia Are Robust; Sharp Increase in Ballasters From Asia Points to More Loadings
 
@@ -85,10 +85,10 @@ The number of Aframaxes ballasting from Asia to the Americas West Coast has almo
 
 ➔ Recent freight rate increases (Argus) also point to higher loadings. Almost half of the ballasters are new entrants
 
-![Στιγμιότυπο Οθόνης 2024 10 31 094703](assets/2024-10-31_new-entrants-on-the-tmx-trade-support-aframax-employment_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_c1aee9eac1e2.png)
+![Στιγμιότυπο Οθόνης 2024 10 31 094703](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-10-31_new-entrants-on-the-tmx-trade-support-aframax-employment_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_c1aee9eac1e2.png)
 
 > **Figure 3: Στιγμιότυπο Οθόνης 2024 10 31 094703**  
-> **Interactive Data & Source:** [Vortexa](https://www.vortexa.com//oil-gas-data-traders-analysts-data-scientists?gclid=Cj0KCQjw8_qRBhCXARIsAE2AtRZKOvMnbilZ_6_91d7huSFFy71pWLrnPwGwOHVzXsmsG-1a1mZnQw8aAt89EALw_wcB&hsa_acc=1782073842&hsa_ad=548425387665&hsa_cam=14746637662&hsa_grp=125038601902&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_src=g&hsa_tgt=dsa-1431852288425&hsa_ver=3&utm_campaign=%5BCD%5D%20-%20DSA%20-%20EMEA&utm_medium=cpc&utm_medium=ppc&utm_source=google&utm_source=adwords&utm_term=) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-10-31_new-entrants-on-the-tmx-trade-support-aframax-employment_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_c1aee9eac1e2.png)
+> **Interactive Data & Source:** [Vortexa](https://www.vortexa.com//oil-gas-data-traders-analysts-data-scientists?gclid=Cj0KCQjw8_qRBhCXARIsAE2AtRZKOvMnbilZ_6_91d7huSFFy71pWLrnPwGwOHVzXsmsG-1a1mZnQw8aAt89EALw_wcB&hsa_acc=1782073842&hsa_ad=548425387665&hsa_cam=14746637662&hsa_grp=125038601902&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_src=g&hsa_tgt=dsa-1431852288425&hsa_ver=3&utm_campaign=%5BCD%5D%20-%20DSA%20-%20EMEA&utm_medium=cpc&utm_medium=ppc&utm_source=google&utm_source=adwords&utm_term=) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-10-31_new-entrants-on-the-tmx-trade-support-aframax-employment_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_c1aee9eac1e2.png)
 
 ## Clean – Wast of Suez: Tc2 at 3-Year Lows; a Supply-Side Story As Demand Indicator Point to Further Weakening for Atlantic Mrs
 
@@ -102,10 +102,10 @@ Whilst slowing transatlantic gasoline trade has played a part on this rate decli
 
 Looking ahead, an open arbitrage for pipeline flows from PADD 3 to PADD 1, as well as the start of gasoline exports from Nigeria’s Dangote refinery to the local West African market, is expected to exert further downwards pressure on Atlantic Basin MRs
 
-![Στιγμιότυπο Οθόνης 2024 10 31 094848](assets/2024-10-31_new-entrants-on-the-tmx-trade-support-aframax-employment_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_27c081da1ab6.png)
+![Στιγμιότυπο Οθόνης 2024 10 31 094848](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-10-31_new-entrants-on-the-tmx-trade-support-aframax-employment_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_27c081da1ab6.png)
 
 > **Figure 4: Στιγμιότυπο Οθόνης 2024 10 31 094848**  
-> **Interactive Data & Source:** [Vortexa](https://www.vortexa.com//oil-gas-data-traders-analysts-data-scientists?gclid=Cj0KCQjw8_qRBhCXARIsAE2AtRZKOvMnbilZ_6_91d7huSFFy71pWLrnPwGwOHVzXsmsG-1a1mZnQw8aAt89EALw_wcB&hsa_acc=1782073842&hsa_ad=548425387665&hsa_cam=14746637662&hsa_grp=125038601902&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_src=g&hsa_tgt=dsa-1431852288425&hsa_ver=3&utm_campaign=%5BCD%5D%20-%20DSA%20-%20EMEA&utm_medium=cpc&utm_medium=ppc&utm_source=google&utm_source=adwords&utm_term=) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-10-31_new-entrants-on-the-tmx-trade-support-aframax-employment_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_27c081da1ab6.png)
+> **Interactive Data & Source:** [Vortexa](https://www.vortexa.com//oil-gas-data-traders-analysts-data-scientists?gclid=Cj0KCQjw8_qRBhCXARIsAE2AtRZKOvMnbilZ_6_91d7huSFFy71pWLrnPwGwOHVzXsmsG-1a1mZnQw8aAt89EALw_wcB&hsa_acc=1782073842&hsa_ad=548425387665&hsa_cam=14746637662&hsa_grp=125038601902&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_src=g&hsa_tgt=dsa-1431852288425&hsa_ver=3&utm_campaign=%5BCD%5D%20-%20DSA%20-%20EMEA&utm_medium=cpc&utm_medium=ppc&utm_source=google&utm_source=adwords&utm_term=) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-10-31_new-entrants-on-the-tmx-trade-support-aframax-employment_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_27c081da1ab6.png)
 
 Data Source:[Vortexa](https://www.vortexa.com//oil-gas-data-traders-analysts-data-scientists?gclid=Cj0KCQjw8_qRBhCXARIsAE2AtRZKOvMnbilZ_6_91d7huSFFy71pWLrnPwGwOHVzXsmsG-1a1mZnQw8aAt89EALw_wcB&hsa_acc=1782073842&hsa_ad=548425387665&hsa_cam=14746637662&hsa_grp=125038601902&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_src=g&hsa_tgt=dsa-1431852288425&hsa_ver=3&utm_campaign=%5BCD%5D%20-%20DSA%20-%20EMEA&utm_medium=cpc&utm_medium=ppc&utm_source=google&utm_source=adwords&utm_term=)
 

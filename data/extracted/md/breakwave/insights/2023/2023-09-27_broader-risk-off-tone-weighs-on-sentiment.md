@@ -23,10 +23,10 @@ source_file: "corpus/03-breakwave/insights/2023/2023-09-27_broader-risk-off-tone
 
 Commodity prices drifted lower amid a broad sell-off. A rally in the US dollar kept the market sentiment bleak, while supply issues supported energy prices.
 
-![1695769016356](assets/2023-09-27_broader-risk-off-tone-weighs-on-sentiment_img_1695769016356_b24f8eadaba5.png)
+![1695769016356](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-09-27_broader-risk-off-tone-weighs-on-sentiment_img_1695769016356_b24f8eadaba5.png)
 
 > **Figure 1: 1695769016356**  
-> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-09-27_broader-risk-off-tone-weighs-on-sentiment_img_1695769016356_b24f8eadaba5.png)
+> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-09-27_broader-risk-off-tone-weighs-on-sentiment_img_1695769016356_b24f8eadaba5.png)
 
 **Crude oil**prices fell below USD90/bbl in early trading session before recovering back to USD93/bbl. Prospects of higher interest rates for longer weighed on the market sentiment during early trading hours, while tighter fundamentals reversed the losses. Saudi Arabia extended its voluntary oil production cuts to the end of this year, producing 2mb/d less than a year ago. Further, recent Russian exports ban on gasoline and diesel means upward pressure on crude oil demand from refineries. While oil demand looks strong in China, some softening is visible in oil products which is seeing margins retreat.
 

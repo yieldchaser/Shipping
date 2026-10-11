@@ -32,10 +32,10 @@ The above figures have also contributed to an increase in the proportion of olde
 
 Looking ahead to 2025, the anticipated depreciation of secondhand vessel prices, combined with a likely weakening of the freight market, is expected to make demolition a more appealing option for owners. Moreover, with over 480 new dry bulk vessels scheduled for delivery, scrapping older units could emerge as a strategic move to sustain market balance, provided conditions at scrapyards become favorable.
 
-![Στιγμιότυπο Οθόνης 2024 11 20 104126](assets/2024-11-20_demolition-activity_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_416d5cb4580a.png)
+![Στιγμιότυπο Οθόνης 2024 11 20 104126](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-11-20_demolition-activity_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_416d5cb4580a.png)
 
 > **Figure 1: Στιγμιότυπο Οθόνης 2024 11 20 104126**  
-> **Interactive Data & Source:** [Intermodal](https://www.intermodal.gr/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-11-20_demolition-activity_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_416d5cb4580a.png)
+> **Interactive Data & Source:** [Intermodal](https://www.intermodal.gr/) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-11-20_demolition-activity_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_416d5cb4580a.png)
 
 Data Source:[Intermodal](https://www.intermodal.gr/)
 

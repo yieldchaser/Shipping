@@ -58,10 +58,10 @@ On freight rates, analysts agreed that 2025 is set for stronger levels.*Jonathan
 
 **So far, the year 2025**began amidst significant geopolitical disruptions, including the Trump re-election, the U.S. sanctions on Russia, and the Houthi ceasefire. These developments have heavily impacted the tanker market, with Russian sanctions on ships and Iranian oil restrictions pushing tanker rates higher. Additionally, ongoing tariff discussions around Canadian oil have create a lookup environment for alternative crude supplies. These factors underscore the volatile and opportunistic landscape that is emerging in the global energy and shipping markets at the beginning of the year.
 
-![Unsplash Image Bqpb1vdg3zw](assets/2025-01-27_the-2025-outlook-for-dry-bulk-and-tanker-markets_img_unsplash-image-bqpb1vdg3zw_863b6f3398b7.jpg)
+![Unsplash Image Bqpb1vdg3zw](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-01-27_the-2025-outlook-for-dry-bulk-and-tanker-markets_img_unsplash-image-bqpb1vdg3zw_863b6f3398b7.jpg)
 
 > **Figure 1: Unsplash Image Bqpb1vdg3zw**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-01-27_the-2025-outlook-for-dry-bulk-and-tanker-markets_img_unsplash-image-bqpb1vdg3zw_863b6f3398b7.jpg)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-01-27_the-2025-outlook-for-dry-bulk-and-tanker-markets_img_unsplash-image-bqpb1vdg3zw_863b6f3398b7.jpg)
 
 ---
 

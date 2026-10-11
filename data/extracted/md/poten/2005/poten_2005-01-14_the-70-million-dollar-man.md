@@ -114,6 +114,14 @@ During the next two years, monthly timecharter rates will have to fall appreciab
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: The $70 Million Dollar Man](../../../charts/poten/2005/poten_2005-01-14_the-70-million-dollar-man_chart1.png)
+> **Chart on PDF page 3: 3-Year TCE versus Monthly TCE for Suezmaxes**  
+> Unit: $/Day · X-axis: Jan-03 to Oct-04  
+> Series: Monthly, 3-Year, Fixed Dec 2003  
+> *Source: Poten & Partners*  
+> *No image crop of this chart was saved; caption read from the PDF.*
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2005/poten_2005-01-14_the-70-million-dollar-man_chart1.png)
+> **Chart on PDF page 3: 3-Year TCE versus Monthly TCE for Aframaxes**  
+> Unit: $/Day · X-axis: Jan-03 to Oct-04  
+> Series: Monthly, 3-Year, Fixed Dec 2003  
+> *Source: Poten & Partners*  
+> *No image crop of this chart was saved; caption read from the PDF.*

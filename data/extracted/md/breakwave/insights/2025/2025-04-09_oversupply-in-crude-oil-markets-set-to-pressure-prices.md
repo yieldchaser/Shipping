@@ -28,10 +28,10 @@ A breakout pattern has been emerging in terms of global crude supplies, led by n
 
 ## Non-Opec+ Supplies Post Highs in March
 
-![Στιγμιότυπο Οθόνης 2025 04 09 113223](assets/2025-04-09_oversupply-in-crude-oil-markets-set-to-pressure-prices_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_e3841bfc2498.png)
+![Στιγμιότυπο Οθόνης 2025 04 09 113223](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-04-09_oversupply-in-crude-oil-markets-set-to-pressure-prices_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_e3841bfc2498.png)
 
 > **Figure 1: Στιγμιότυπο Οθόνης 2025 04 09 113223**  
-> **Interactive Data & Source:** [Vortexa](https://www.vortexa.com//oil-gas-data-traders-analysts-data-scientists?gclid=Cj0KCQjw8_qRBhCXARIsAE2AtRZKOvMnbilZ_6_91d7huSFFy71pWLrnPwGwOHVzXsmsG-1a1mZnQw8aAt89EALw_wcB&hsa_acc=1782073842&hsa_ad=548425387665&hsa_cam=14746637662&hsa_grp=125038601902&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_src=g&hsa_tgt=dsa-1431852288425&hsa_ver=3&utm_campaign=%5BCD%5D%20-%20DSA%20-%20EMEA&utm_medium=cpc&utm_medium=ppc&utm_source=google&utm_source=adwords&utm_term=) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-04-09_oversupply-in-crude-oil-markets-set-to-pressure-prices_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_e3841bfc2498.png)
+> **Interactive Data & Source:** [Vortexa](https://www.vortexa.com//oil-gas-data-traders-analysts-data-scientists?gclid=Cj0KCQjw8_qRBhCXARIsAE2AtRZKOvMnbilZ_6_91d7huSFFy71pWLrnPwGwOHVzXsmsG-1a1mZnQw8aAt89EALw_wcB&hsa_acc=1782073842&hsa_ad=548425387665&hsa_cam=14746637662&hsa_grp=125038601902&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_src=g&hsa_tgt=dsa-1431852288425&hsa_ver=3&utm_campaign=%5BCD%5D%20-%20DSA%20-%20EMEA&utm_medium=cpc&utm_medium=ppc&utm_source=google&utm_source=adwords&utm_term=) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-04-09_oversupply-in-crude-oil-markets-set-to-pressure-prices_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_e3841bfc2498.png)
 
 March seaborne exports from non-OPEC+ sources increased 6% m-o-m, reaching an all time high. This is a positive divergence from the stagnation in these exports seen for most of 2024. The key drivers behind this growth are growing exports from Brazil, Colombia, and the UK in the Atlantic Basin, as well as West Coast Canada (TMX barrels) in the Pacific Basin. The US, which was the driving factor behind non-OPEC+ supply growth in 2023, has since stagnated and even been declining since early 2024. US exports remained a tad shy of 4mbd over February and March 2025.
 
@@ -39,10 +39,10 @@ For now, the supply growth has been largely digested by an import pull from the 
 
 ## Oil in Tanks and Tankers Rises
 
-![Στιγμιότυπο Οθόνης 2025 04 09 113317](assets/2025-04-09_oversupply-in-crude-oil-markets-set-to-pressure-prices_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_30b85353c38e.png)
+![Στιγμιότυπο Οθόνης 2025 04 09 113317](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-04-09_oversupply-in-crude-oil-markets-set-to-pressure-prices_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_30b85353c38e.png)
 
 > **Figure 2: Στιγμιότυπο Οθόνης 2025 04 09 113317**  
-> **Interactive Data & Source:** [Vortexa](https://www.vortexa.com//oil-gas-data-traders-analysts-data-scientists?gclid=Cj0KCQjw8_qRBhCXARIsAE2AtRZKOvMnbilZ_6_91d7huSFFy71pWLrnPwGwOHVzXsmsG-1a1mZnQw8aAt89EALw_wcB&hsa_acc=1782073842&hsa_ad=548425387665&hsa_cam=14746637662&hsa_grp=125038601902&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_src=g&hsa_tgt=dsa-1431852288425&hsa_ver=3&utm_campaign=%5BCD%5D%20-%20DSA%20-%20EMEA&utm_medium=cpc&utm_medium=ppc&utm_source=google&utm_source=adwords&utm_term=) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-04-09_oversupply-in-crude-oil-markets-set-to-pressure-prices_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_30b85353c38e.png)
+> **Interactive Data & Source:** [Vortexa](https://www.vortexa.com//oil-gas-data-traders-analysts-data-scientists?gclid=Cj0KCQjw8_qRBhCXARIsAE2AtRZKOvMnbilZ_6_91d7huSFFy71pWLrnPwGwOHVzXsmsG-1a1mZnQw8aAt89EALw_wcB&hsa_acc=1782073842&hsa_ad=548425387665&hsa_cam=14746637662&hsa_grp=125038601902&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_src=g&hsa_tgt=dsa-1431852288425&hsa_ver=3&utm_campaign=%5BCD%5D%20-%20DSA%20-%20EMEA&utm_medium=cpc&utm_medium=ppc&utm_source=google&utm_source=adwords&utm_term=) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-04-09_oversupply-in-crude-oil-markets-set-to-pressure-prices_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_30b85353c38e.png)
 
 While global crude oil exports have surged, we have been observing a build in onshore crude inventories, driven by spring maintenance and slowing crude demand due to tighter refining margins in the Atlantic Basin. Along with stockbuilds, we also have increasing oil on water driven by long-haul flows from Atlantic Basin to Pacific Basin on the back of the strong East of Suez buying.
 
@@ -50,10 +50,10 @@ Together, this is leading to a lengthening of crude markets by 120mb since mid F
 
 ## Unwinding of OPEC+ Production Cuts on the Horizon
 
-![Στιγμιότυπο Οθόνης 2025 04 09 113427](assets/2025-04-09_oversupply-in-crude-oil-markets-set-to-pressure-prices_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_b74e99376da1.png)
+![Στιγμιότυπο Οθόνης 2025 04 09 113427](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-04-09_oversupply-in-crude-oil-markets-set-to-pressure-prices_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_b74e99376da1.png)
 
 > **Figure 3: Στιγμιότυπο Οθόνης 2025 04 09 113427**  
-> **Interactive Data & Source:** [Vortexa](https://www.vortexa.com//oil-gas-data-traders-analysts-data-scientists?gclid=Cj0KCQjw8_qRBhCXARIsAE2AtRZKOvMnbilZ_6_91d7huSFFy71pWLrnPwGwOHVzXsmsG-1a1mZnQw8aAt89EALw_wcB&hsa_acc=1782073842&hsa_ad=548425387665&hsa_cam=14746637662&hsa_grp=125038601902&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_src=g&hsa_tgt=dsa-1431852288425&hsa_ver=3&utm_campaign=%5BCD%5D%20-%20DSA%20-%20EMEA&utm_medium=cpc&utm_medium=ppc&utm_source=google&utm_source=adwords&utm_term=) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-04-09_oversupply-in-crude-oil-markets-set-to-pressure-prices_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_b74e99376da1.png)
+> **Interactive Data & Source:** [Vortexa](https://www.vortexa.com//oil-gas-data-traders-analysts-data-scientists?gclid=Cj0KCQjw8_qRBhCXARIsAE2AtRZKOvMnbilZ_6_91d7huSFFy71pWLrnPwGwOHVzXsmsG-1a1mZnQw8aAt89EALw_wcB&hsa_acc=1782073842&hsa_ad=548425387665&hsa_cam=14746637662&hsa_grp=125038601902&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_src=g&hsa_tgt=dsa-1431852288425&hsa_ver=3&utm_campaign=%5BCD%5D%20-%20DSA%20-%20EMEA&utm_medium=cpc&utm_medium=ppc&utm_source=google&utm_source=adwords&utm_term=) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-04-09_oversupply-in-crude-oil-markets-set-to-pressure-prices_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_b74e99376da1.png)
 
 A double whammy for crude oil prices came on April 3rd from the OPEC+ grouping, announcing an unwinding of their voluntary production cuts. The plans so far seem to point towards an accelerated phase-out of these cuts by increasing crude production by 411kbd starting in May. This unexpected boost has since contributed to sharp decline in oil prices, with Brent tumbling to below $65 per barrel recently.
 

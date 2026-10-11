@@ -28,10 +28,18 @@ The main beneficiary of the conflict seems to be the Aframax segment. They are t
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: The Great Reshuffle](../../../charts/poten/2022/poten_2022-04-22_the-great-reshuffle_chart1.png)
+![Exhibit 1: Daily Russian Crude Loadings by Destination](../../../charts/poten/2022/poten_2022-04-22_the-great-reshuffle_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2022/poten_2022-04-22_the-great-reshuffle_chart1.png)
+> **Exhibit 1: Daily Russian Crude Loadings by Destination**  
+> Unit: BBL · X-axis: 2/11/2022 to 4/20/2022  
+> Series: Asia/Australia, Mediterranean, UKC/Baltic, Americas. Atlantic, Unknown, 5 day MA  
+> *Source: Lloyd’s List Intelligence*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2022/poten_2022-04-22_the-great-reshuffle_chart1.png)
 
-![Exhibit 2: The Great Reshuffle](../../../charts/poten/2022/poten_2022-04-22_the-great-reshuffle_chart2.png)
+![Exhibit 2: Aframax Freight Rate Assessments](../../../charts/poten/2022/poten_2022-04-22_the-great-reshuffle_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2022/poten_2022-04-22_the-great-reshuffle_chart2.png)
+> **Exhibit 2: Aframax Freight Rate Assessments**  
+> Unit: Worldscale · X-axis: 3-Jan-22 to 18-Apr-22  
+> Series: Black Sea - Med, Med - Med, Baltic - UKC, USG - UKC  
+> *Source: Poten & Partners*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2022/poten_2022-04-22_the-great-reshuffle_chart2.png)

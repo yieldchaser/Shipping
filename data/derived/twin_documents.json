@@ -1,0 +1,838 @@
+{
+ "_about": "Same-issue duplicate documents (twins). The twin is archived under data/archive/twins/ (nothing deleted); 'promote' means the twin's extraction was richer against the PDF text layer, so its content now lives at the canonical path. Extraction runners skip twin PDFs via scripts/extract/publishers/doc_dedup.py. Applied by scripts/md_cleanup/resolve_twins.py.",
+ "twins": [
+  {
+   "twin": "data/extracted/md/advanced_shipping/2025/advanced_shipping_2025_W45_ADVANCED-MARKET-REPORT-WEEK-46.md",
+   "canonical": "data/extracted/md/advanced_shipping/2025/advanced_shipping_2025_W46_ADVANCED-MARKET-REPORT-WEEK-46-1.md",
+   "twin_pdf": "advanced_shipping_2025_W45_ADVANCED-MARKET-REPORT-WEEK-46.pdf",
+   "canonical_pdf": "advanced_shipping_2025_W46_ADVANCED-MARKET-REPORT-WEEK-46-1.pdf",
+   "reason": "misfile: the PDF is the Week 46 report (W45 issue not in corpus)",
+   "misfile": true,
+   "action": "archive",
+   "evidence": {
+    "pdf_numbers_found_twin": 184,
+    "pdf_numbers_found_canonical": 184
+   }
+  },
+  {
+   "twin": "data/extracted/md/advanced_shipping/2026/advanced_shipping_03_10_2026_advanced_shipping_trading_weekly_shipping_marke.md",
+   "canonical": "data/extracted/md/advanced_shipping/2026/advanced_shipping_2026_W40_ADVANCED-MARKET-REPORT-WEEK-40.md",
+   "twin_pdf": "advanced_shipping_03_10_2026_advanced_shipping_trading_weekly_shipping_marke.pdf",
+   "canonical_pdf": "advanced_shipping_2026_W40_ADVANCED-MARKET-REPORT-WEEK-40.pdf",
+   "reason": "repost of the same issue under the collection-route name (date = repost date)",
+   "misfile": false,
+   "action": "archive",
+   "evidence": {
+    "pdf_numbers_found_twin": 230,
+    "pdf_numbers_found_canonical": 230
+   }
+  },
+  {
+   "twin": "data/extracted/md/advanced_shipping/2026/advanced_shipping_19_09_2026_advanced_shipping_trading_weekly_shipping_marke.md",
+   "canonical": "data/extracted/md/advanced_shipping/2026/advanced_shipping_2026_W38_ADVANCED-MARKET-REPORT-WEEK-38.md",
+   "twin_pdf": "advanced_shipping_19_09_2026_advanced_shipping_trading_weekly_shipping_marke.pdf",
+   "canonical_pdf": "advanced_shipping_2026_W38_ADVANCED-MARKET-REPORT-WEEK-38.pdf",
+   "reason": "repost of the same issue under the collection-route name (date = repost date)",
+   "misfile": false,
+   "action": "archive",
+   "evidence": {
+    "pdf_numbers_found_twin": 221,
+    "pdf_numbers_found_canonical": 221
+   }
+  },
+  {
+   "twin": "data/extracted/md/advanced_shipping/2026/advanced_shipping_26_09_2026_advanced_shipping_trading_weekly_shipping_marke.md",
+   "canonical": "data/extracted/md/advanced_shipping/2026/advanced_shipping_2026_W39_ADVANCED-MARKET-REPORT-WEEK-39.md",
+   "twin_pdf": "advanced_shipping_26_09_2026_advanced_shipping_trading_weekly_shipping_marke.pdf",
+   "canonical_pdf": "advanced_shipping_2026_W39_ADVANCED-MARKET-REPORT-WEEK-39.pdf",
+   "reason": "repost of the same issue under the collection-route name (date = repost date)",
+   "misfile": false,
+   "action": "archive",
+   "evidence": {
+    "pdf_numbers_found_twin": 239,
+    "pdf_numbers_found_canonical": 238
+   }
+  },
+  {
+   "twin": "data/extracted/md/affinity/2026/affinity_03_10_2026_affinity_tanker_weekly_2_october_2026.md",
+   "canonical": "data/extracted/md/affinity/2026/affinity_2026_Affinity-Tanker-Weekly-02.10.2026-HSN.md",
+   "twin_pdf": "affinity_03_10_2026_affinity_tanker_weekly_2_october_2026.pdf",
+   "canonical_pdf": "affinity_2026_Affinity-Tanker-Weekly-02.10.2026-HSN.pdf",
+   "reason": "repost of the same issue under the collection-route name (date = repost date)",
+   "misfile": false,
+   "action": "archive",
+   "evidence": {
+    "pdf_numbers_found_twin": 71,
+    "pdf_numbers_found_canonical": 71
+   }
+  },
+  {
+   "twin": "data/extracted/md/agora/2024/agora_2024_W52_AGORA.-Week-52-2024.-Snapshot-of-Commercial-Indicators-1.md",
+   "canonical": "data/extracted/md/agora/2024/agora_2024_W52_AGORA.-Week-52-2024.-Snapshot-of-Commercial-Indicators.md",
+   "twin_pdf": "agora_2024_W52_AGORA.-Week-52-2024.-Snapshot-of-Commercial-Indicators-1.pdf",
+   "canonical_pdf": "agora_2024_W52_AGORA.-Week-52-2024.-Snapshot-of-Commercial-Indicators.pdf",
+   "reason": "second download of the same issue",
+   "misfile": false,
+   "action": "archive",
+   "evidence": {
+    "pdf_numbers_found_twin": 175,
+    "pdf_numbers_found_canonical": 188
+   }
+  },
+  {
+   "twin": "data/extracted/md/agora/2026/agora_02_10_2026_agora_shipbroking_corporation_snapshot_of_commercial_indicator.md",
+   "canonical": "data/extracted/md/agora/2026/agora_2026_W40_AGORA.-Week-40-2026.-Snapshot-of-Commercial-Indicators.md",
+   "twin_pdf": "agora_02_10_2026_agora_shipbroking_corporation_snapshot_of_commercial_indicator.pdf",
+   "canonical_pdf": "agora_2026_W40_AGORA.-Week-40-2026.-Snapshot-of-Commercial-Indicators.pdf",
+   "reason": "repost of the same issue under the collection-route name (date = repost date)",
+   "misfile": false,
+   "action": "archive",
+   "evidence": {
+    "pdf_numbers_found_twin": 183,
+    "pdf_numbers_found_canonical": 180
+   }
+  },
+  {
+   "twin": "data/extracted/md/agora/2026/agora_18_09_2026_agora_shipbroking_corporation_snapshot_of_commercial_indicator.md",
+   "canonical": "data/extracted/md/agora/2026/agora_2026_W38_AGORA.-Week-38-2026.-Snapshot-of-Commercial-Indicators.md",
+   "twin_pdf": "agora_18_09_2026_agora_shipbroking_corporation_snapshot_of_commercial_indicator.pdf",
+   "canonical_pdf": "agora_2026_W38_AGORA.-Week-38-2026.-Snapshot-of-Commercial-Indicators.pdf",
+   "reason": "repost of the same issue under the collection-route name (date = repost date)",
+   "misfile": false,
+   "action": "archive",
+   "evidence": {
+    "pdf_numbers_found_twin": 178,
+    "pdf_numbers_found_canonical": 175
+   }
+  },
+  {
+   "twin": "data/extracted/md/agora/2026/agora_30_09_2026_agora_shipbroking_corporation_snapshot_of_commercial_indicator.md",
+   "canonical": "data/extracted/md/agora/2026/agora_2026_W39_AGORA.-Week-39-2026.-Snapshot-of-Commercial-Indicators.md",
+   "twin_pdf": "agora_30_09_2026_agora_shipbroking_corporation_snapshot_of_commercial_indicator.pdf",
+   "canonical_pdf": "agora_2026_W39_AGORA.-Week-39-2026.-Snapshot-of-Commercial-Indicators.pdf",
+   "reason": "repost of the same issue under the collection-route name (date = repost date)",
+   "misfile": false,
+   "action": "archive",
+   "evidence": {
+    "pdf_numbers_found_twin": 179,
+    "pdf_numbers_found_canonical": 182
+   }
+  },
+  {
+   "twin": "data/extracted/md/banchero_costa/banchero_costa_2026_W39_Bancosta-Weekly-2026-39.md",
+   "canonical": "data/extracted/md/banchero_costa/2026/banchero_costa_2026_W39_Bancosta-Weekly-2026-39.md",
+   "twin_pdf": "banchero_costa_2026_W39_Bancosta-Weekly-2026-39.pdf",
+   "canonical_pdf": "banchero_costa_2026_W39_Bancosta-Weekly-2026-39.pdf",
+   "reason": "copy outside the year folder",
+   "misfile": false,
+   "action": "archive",
+   "evidence": {
+    "pdf_numbers_found_twin": 877,
+    "pdf_numbers_found_canonical": 877
+   }
+  },
+  {
+   "twin": "data/extracted/md/breakwave/tankers/2024/2024-02-13_Breakwave_Tankers.md",
+   "canonical": "data/extracted/md/breakwave/tankers/2024/2024-04-09_Breakwave_Tankers.md",
+   "twin_pdf": "2024-02-13_Breakwave_Tankers.pdf",
+   "canonical_pdf": "2024-04-09_Breakwave_Tankers.pdf",
+   "reason": "misfile: the PDF is byte-identical to the 9 Apr 2024 report (13 Feb issue not in corpus)",
+   "misfile": true,
+   "action": "archive",
+   "evidence": {
+    "pdf_numbers_found_twin": 30,
+    "pdf_numbers_found_canonical": 30
+   }
+  },
+  {
+   "twin": "data/extracted/md/carriers/2026/15_09_2026_carriers_sales_purchase_market_report_week_37 (1).md",
+   "canonical": "data/extracted/md/carriers/2026/carriers_2026_W37_WK-37-26-CARRIERS_SP-MARKET-REPORT.md",
+   "twin_pdf": "15_09_2026_carriers_sales_purchase_market_report_week_37 (1).pdf",
+   "canonical_pdf": "carriers_2026_W37_WK-37-26-CARRIERS_SP-MARKET-REPORT.pdf",
+   "reason": "repost of the same issue under the collection-route name (date = repost date)",
+   "misfile": false,
+   "action": "archive",
+   "evidence": {
+    "pdf_numbers_found_twin": 130,
+    "pdf_numbers_found_canonical": 131
+   }
+  },
+  {
+   "twin": "data/extracted/md/carriers/2026/15_09_2026_carriers_sales_purchase_market_report_week_37 (2).md",
+   "canonical": "data/extracted/md/carriers/2026/carriers_2026_W35_WK-35-26-CARRIERS_SP-MARKET-REPORT.md",
+   "twin_pdf": "15_09_2026_carriers_sales_purchase_market_report_week_37 (2).pdf",
+   "canonical_pdf": "carriers_2026_W35_WK-35-26-CARRIERS_SP-MARKET-REPORT.pdf",
+   "reason": "repost of the same issue under the collection-route name (date = repost date)",
+   "misfile": false,
+   "action": "archive",
+   "evidence": {
+    "pdf_numbers_found_twin": 147,
+    "pdf_numbers_found_canonical": 147
+   }
+  },
+  {
+   "twin": "data/extracted/md/carriers/2026/carriers_2026_W38_WK-38-26-CARRIERS_SP-MARKET-REPORT.pdf.md",
+   "canonical": "data/extracted/md/carriers/2026/carriers_2026_W38_WK-38-26-CARRIERS_SP-MARKET-REPORT.md",
+   "twin_pdf": "carriers_2026_W38_WK-38-26-CARRIERS_SP-MARKET-REPORT.pdf.pdf",
+   "canonical_pdf": "carriers_2026_W38_WK-38-26-CARRIERS_SP-MARKET-REPORT.pdf",
+   "reason": "second extraction of the same PDF",
+   "misfile": false,
+   "action": "archive",
+   "evidence": {
+    "pdf_numbers_found_twin": 158,
+    "pdf_numbers_found_canonical": 158
+   }
+  },
+  {
+   "twin": "data/extracted/md/carriers/2026/general_broker_28_09_2026_carriers_sales_purchase_market_report_week_39.md",
+   "canonical": "data/extracted/md/carriers/2026/carriers_2026_W39_WK-39-26-CARRIERS_SP-MARKET-REPORT.md",
+   "twin_pdf": "general_broker_28_09_2026_carriers_sales_purchase_market_report_week_39.pdf",
+   "canonical_pdf": "carriers_2026_W39_WK-39-26-CARRIERS_SP-MARKET-REPORT.pdf",
+   "reason": "repost of the same issue under the collection-route name (date = repost date)",
+   "misfile": false,
+   "action": "archive",
+   "evidence": {
+    "pdf_numbers_found_twin": 149,
+    "pdf_numbers_found_canonical": 149
+   }
+  },
+  {
+   "twin": "data/extracted/md/fearnleys/2026/fearnleys_01_10_2026_fearnleys_week_40_2026.md",
+   "canonical": "data/extracted/md/fearnleys/2026/fearnleys_2026_W40_Fearnleys-Weekly-Report-_-Fearnpulse.md",
+   "twin_pdf": "fearnleys_01_10_2026_fearnleys_week_40_2026.pdf",
+   "canonical_pdf": "fearnleys_01_10_2026_fearnleys_week_40_2026.pdf",
+   "reason": "repost of the same issue under the collection-route name (date = repost date)",
+   "misfile": false,
+   "action": "archive",
+   "evidence": {
+    "pdf_numbers_found_twin": 95,
+    "pdf_numbers_found_canonical": 95
+   }
+  },
+  {
+   "twin": "data/extracted/md/xclusiv/2025/xclusiv_2025_Weekly-Ship-Recycling-Report-05-September-12-September-2025.md",
+   "canonical": "data/extracted/md/hellenic/demolition/best_oasis/2025/2025-09-16_Weekly-Ship-Recycling-Report-05-September-12-September-2025.md",
+   "twin_pdf": "xclusiv_2025_Weekly-Ship-Recycling-Report-05-September-12-September-2025.pdf",
+   "canonical_pdf": "2025-09-16_Weekly-Ship-Recycling-Report-05-September-12-September-2025.pdf",
+   "reason": "misfile: a Best Oasis report in the Xclusiv folder",
+   "misfile": true,
+   "action": "archive",
+   "evidence": {
+    "pdf_numbers_found_twin": 3,
+    "pdf_numbers_found_canonical": 45
+   }
+  },
+  {
+   "twin": "data/extracted/md/hellenic/iron_ore_pdf/2026/2026-09-14_mmi-daily-iron-ore-index-report-septembe_MMi-Daily-Iron-Ore-Report-for-14th-September-2026.md",
+   "canonical": "data/extracted/md/hellenic/iron_ore_pdf/2026/2026-09-14_mmi-daily-iron-ore-index-report-september-14-2026_mmi-daily-iron-ore-report-for-14th-s_f6430fd48a6c.md",
+   "twin_pdf": "2026-09-14_mmi-daily-iron-ore-index-report-septembe_MMi-Daily-Iron-Ore-Report-for-14th-September-2026.pdf",
+   "canonical_pdf": "2026-09-14_mmi-daily-iron-ore-index-report-september-14-2026_mmi-daily-iron-ore-report-for-14th-s_f6430fd48a6c.pdf",
+   "reason": "repost of the same issue under the collection-route name (date = repost date)",
+   "misfile": false,
+   "action": "archive",
+   "evidence": {
+    "pdf_numbers_found_twin": 152,
+    "pdf_numbers_found_canonical": 152
+   }
+  },
+  {
+   "twin": "data/extracted/md/hellenic/iron_ore_pdf/2026/2026-09-15_mmi-daily-iron-ore-index-report-septembe_MMi-Daily-Iron-Ore-Report-for-15th-September-2026.md",
+   "canonical": "data/extracted/md/hellenic/iron_ore_pdf/2026/2026-09-15_mmi-daily-iron-ore-index-report-september-15-2026_mmi-daily-iron-ore-report-for-15th-s_2803301df49d.md",
+   "twin_pdf": "2026-09-15_mmi-daily-iron-ore-index-report-septembe_MMi-Daily-Iron-Ore-Report-for-15th-September-2026.pdf",
+   "canonical_pdf": "2026-09-15_mmi-daily-iron-ore-index-report-september-15-2026_mmi-daily-iron-ore-report-for-15th-s_2803301df49d.pdf",
+   "reason": "repost of the same issue under the collection-route name (date = repost date)",
+   "misfile": false,
+   "action": "archive",
+   "evidence": {
+    "pdf_numbers_found_twin": 158,
+    "pdf_numbers_found_canonical": 158
+   }
+  },
+  {
+   "twin": "data/extracted/md/hellenic/iron_ore_pdf/2026/2026-09-16_mmi-daily-iron-ore-index-report-septembe_MMi-Daily-Iron-Ore-Report-for-16th-September-2026.md",
+   "canonical": "data/extracted/md/hellenic/iron_ore_pdf/2026/2026-09-16_mmi-daily-iron-ore-index-report-september-16-2026_mmi-daily-iron-ore-report-for-16th-s_fcaa96faf638.md",
+   "twin_pdf": "2026-09-16_mmi-daily-iron-ore-index-report-septembe_MMi-Daily-Iron-Ore-Report-for-16th-September-2026.pdf",
+   "canonical_pdf": "2026-09-16_mmi-daily-iron-ore-index-report-september-16-2026_mmi-daily-iron-ore-report-for-16th-s_fcaa96faf638.pdf",
+   "reason": "repost of the same issue under the collection-route name (date = repost date)",
+   "misfile": false,
+   "action": "archive",
+   "evidence": {
+    "pdf_numbers_found_twin": 144,
+    "pdf_numbers_found_canonical": 144
+   }
+  },
+  {
+   "twin": "data/extracted/md/hellenic/iron_ore_pdf/2026/2026-09-17_mmi-daily-iron-ore-index-report-septembe_MMi-Daily-Iron-Ore-Report-for_17th-September-2026.md",
+   "canonical": "data/extracted/md/hellenic/iron_ore_pdf/2026/2026-09-17_mmi-daily-iron-ore-index-report-september-17-2026_mmi-daily-iron-ore-report-for-17th-s_e63bd60b621f.md",
+   "twin_pdf": "2026-09-17_mmi-daily-iron-ore-index-report-septembe_MMi-Daily-Iron-Ore-Report-for_17th-September-2026.pdf",
+   "canonical_pdf": "2026-09-17_mmi-daily-iron-ore-index-report-september-17-2026_mmi-daily-iron-ore-report-for-17th-s_e63bd60b621f.pdf",
+   "reason": "repost of the same issue under the collection-route name (date = repost date)",
+   "misfile": false,
+   "action": "archive",
+   "evidence": {
+    "pdf_numbers_found_twin": 160,
+    "pdf_numbers_found_canonical": 161
+   }
+  },
+  {
+   "twin": "data/extracted/md/hellenic/iron_ore_pdf/2026/2026-09-18_mmi-daily-iron-ore-index-report-septembe_MMi-Daily-Iron-Ore-Report-for-18th-September-2026.md",
+   "canonical": "data/extracted/md/hellenic/iron_ore_pdf/2026/2026-09-18_mmi-daily-iron-ore-index-report-september-18-2026_mmi-daily-iron-ore-report-for-18th-s_1ee5f11f9420.md",
+   "twin_pdf": "2026-09-18_mmi-daily-iron-ore-index-report-septembe_MMi-Daily-Iron-Ore-Report-for-18th-September-2026.pdf",
+   "canonical_pdf": "2026-09-18_mmi-daily-iron-ore-index-report-september-18-2026_mmi-daily-iron-ore-report-for-18th-s_1ee5f11f9420.pdf",
+   "reason": "repost of the same issue under the collection-route name (date = repost date)",
+   "misfile": false,
+   "action": "archive",
+   "evidence": {
+    "pdf_numbers_found_twin": 159,
+    "pdf_numbers_found_canonical": 159
+   }
+  },
+  {
+   "twin": "data/extracted/md/hellenic/iron_ore_pdf/2026/2026-09-21_mmi-daily-iron-ore-index-report-septembe_MMi-Daily-Iron-Ore-Report-for-21th-September-2026.md",
+   "canonical": "data/extracted/md/hellenic/iron_ore_pdf/2026/2026-09-21_mmi-daily-iron-ore-index-report-september-21-2026_mmi-daily-iron-ore-report-for-21th-s_51a77e05b920.md",
+   "twin_pdf": "2026-09-21_mmi-daily-iron-ore-index-report-septembe_MMi-Daily-Iron-Ore-Report-for-21th-September-2026.pdf",
+   "canonical_pdf": "2026-09-21_mmi-daily-iron-ore-index-report-september-21-2026_mmi-daily-iron-ore-report-for-21th-s_51a77e05b920.pdf",
+   "reason": "repost of the same issue under the collection-route name (date = repost date)",
+   "misfile": false,
+   "action": "archive",
+   "evidence": {
+    "pdf_numbers_found_twin": 153,
+    "pdf_numbers_found_canonical": 153
+   }
+  },
+  {
+   "twin": "data/extracted/md/hellenic/iron_ore_pdf/2026/2026-09-22_mmi-daily-iron-ore-index-report-septembe_MMi-Daily-Iron-Ore-Report-for-22th-September-2026.md",
+   "canonical": "data/extracted/md/hellenic/iron_ore_pdf/2026/2026-09-22_mmi-daily-iron-ore-index-report-september-22-2026_mmi-daily-iron-ore-report-for-22th-s_f7eb62eaf90a.md",
+   "twin_pdf": "2026-09-22_mmi-daily-iron-ore-index-report-septembe_MMi-Daily-Iron-Ore-Report-for-22th-September-2026.pdf",
+   "canonical_pdf": "2026-09-22_mmi-daily-iron-ore-index-report-september-22-2026_mmi-daily-iron-ore-report-for-22th-s_f7eb62eaf90a.pdf",
+   "reason": "repost of the same issue under the collection-route name (date = repost date)",
+   "misfile": false,
+   "action": "archive",
+   "evidence": {
+    "pdf_numbers_found_twin": 156,
+    "pdf_numbers_found_canonical": 156
+   }
+  },
+  {
+   "twin": "data/extracted/md/hellenic/iron_ore_pdf/2026/2026-09-23_mmi-daily-iron-ore-index-report-septembe_MMi-Daily-Iron-Ore-Report-for-23th-September-2026.md",
+   "canonical": "data/extracted/md/hellenic/iron_ore_pdf/2026/2026-09-23_mmi-daily-iron-ore-index-report-september-23-2026_mmi-daily-iron-ore-report-for-23th-s_a602d3d94e0a.md",
+   "twin_pdf": "2026-09-23_mmi-daily-iron-ore-index-report-septembe_MMi-Daily-Iron-Ore-Report-for-23th-September-2026.pdf",
+   "canonical_pdf": "2026-09-23_mmi-daily-iron-ore-index-report-september-23-2026_mmi-daily-iron-ore-report-for-23th-s_a602d3d94e0a.pdf",
+   "reason": "repost of the same issue under the collection-route name (date = repost date)",
+   "misfile": false,
+   "action": "archive",
+   "evidence": {
+    "pdf_numbers_found_twin": 149,
+    "pdf_numbers_found_canonical": 149
+   }
+  },
+  {
+   "twin": "data/extracted/md/hellenic/iron_ore_pdf/2026/2026-09-24_mmi-daily-iron-ore-index-report-septembe_MMi-Daily-Iron-Ore-Report-for-24th-September-2026.md",
+   "canonical": "data/extracted/md/hellenic/iron_ore_pdf/2026/2026-09-24_mmi-daily-iron-ore-index-report-september-24-2026_mmi-daily-iron-ore-report-for-24th-s_10a436475a90.md",
+   "twin_pdf": "2026-09-24_mmi-daily-iron-ore-index-report-septembe_MMi-Daily-Iron-Ore-Report-for-24th-September-2026.pdf",
+   "canonical_pdf": "2026-09-24_mmi-daily-iron-ore-index-report-september-24-2026_mmi-daily-iron-ore-report-for-24th-s_10a436475a90.pdf",
+   "reason": "repost of the same issue under the collection-route name (date = repost date)",
+   "misfile": false,
+   "action": "archive",
+   "evidence": {
+    "pdf_numbers_found_twin": 143,
+    "pdf_numbers_found_canonical": 143
+   }
+  },
+  {
+   "twin": "data/extracted/md/hellenic/iron_ore_pdf/2026/2026-09-28_mmi-daily-iron-ore-index-report-septembe_MMi-Daily-Iron-Ore-Report-for-28th-September-2026.md",
+   "canonical": "data/extracted/md/hellenic/iron_ore_pdf/2026/2026-09-28_mmi-daily-iron-ore-index-report-september-28-2026_mmi-daily-iron-ore-report-for-28th-s_2c174eb1762c.md",
+   "twin_pdf": "2026-09-28_mmi-daily-iron-ore-index-report-septembe_MMi-Daily-Iron-Ore-Report-for-28th-September-2026.pdf",
+   "canonical_pdf": "2026-09-28_mmi-daily-iron-ore-index-report-september-28-2026_mmi-daily-iron-ore-report-for-28th-s_2c174eb1762c.pdf",
+   "reason": "repost of the same issue under the collection-route name (date = repost date)",
+   "misfile": false,
+   "action": "archive",
+   "evidence": {
+    "pdf_numbers_found_twin": 178,
+    "pdf_numbers_found_canonical": 178
+   }
+  },
+  {
+   "twin": "data/extracted/md/hellenic/iron_ore_pdf/2026/2026-09-30_mmi-daily-iron-ore-index-report-septembe_MMi-Daily-Iron-Ore-Report-for-30th-September-2026.md",
+   "canonical": "data/extracted/md/hellenic/iron_ore_pdf/2026/2026-09-30_mmi-daily-iron-ore-index-report-september-30-2026_mmi-daily-iron-ore-report-for-30th-s_128a5c745f8e.md",
+   "twin_pdf": "2026-09-30_mmi-daily-iron-ore-index-report-septembe_MMi-Daily-Iron-Ore-Report-for-30th-September-2026.pdf",
+   "canonical_pdf": "2026-09-30_mmi-daily-iron-ore-index-report-september-30-2026_mmi-daily-iron-ore-report-for-30th-s_128a5c745f8e.pdf",
+   "reason": "repost of the same issue under the collection-route name (date = repost date)",
+   "misfile": false,
+   "action": "archive",
+   "evidence": {
+    "pdf_numbers_found_twin": 160,
+    "pdf_numbers_found_canonical": 160
+   }
+  },
+  {
+   "twin": "data/extracted/md/hellenic/iron_ore_pdf/2026/2026-10-01_mmi-daily-iron-ore-index-report-october-_iron_ore_daily_20261001.md",
+   "canonical": "data/extracted/md/hellenic/iron_ore_pdf/2026/2026-10-01_mmi-daily-iron-ore-index-report-october-1-2026_iron-ore-daily-20261001_f8981ec41b63.md",
+   "twin_pdf": "2026-10-01_mmi-daily-iron-ore-index-report-october-_iron_ore_daily_20261001.pdf",
+   "canonical_pdf": "2026-10-01_mmi-daily-iron-ore-index-report-october-1-2026_iron-ore-daily-20261001_f8981ec41b63.pdf",
+   "reason": "repost of the same issue under the collection-route name (date = repost date)",
+   "misfile": false,
+   "action": "archive",
+   "evidence": {
+    "pdf_numbers_found_twin": 118,
+    "pdf_numbers_found_canonical": 118
+   }
+  },
+  {
+   "twin": "data/extracted/md/intermodal/2026/intermodal_23_09_2026_intermodal_weekly_market_report_week_38_2026_broker_s_insi.md",
+   "canonical": "data/extracted/md/intermodal/2026/intermodal_2026_W38_Intermodal-Report-Week-38-2026.md",
+   "twin_pdf": "intermodal_23_09_2026_intermodal_weekly_market_report_week_38_2026_broker_s_insi.pdf",
+   "canonical_pdf": "intermodal_2026_W38_Intermodal-Report-Week-38-2026.pdf",
+   "reason": "repost of the same issue under the collection-route name (date = repost date)",
+   "misfile": false,
+   "action": "archive",
+   "evidence": {
+    "pdf_numbers_found_twin": 467,
+    "pdf_numbers_found_canonical": 475
+   }
+  },
+  {
+   "twin": "data/extracted/md/intermodal/2026/intermodal_30_09_2026_intermodal_weekly_market_report_week_39_2026_broker_s_insi.md",
+   "canonical": "data/extracted/md/intermodal/2026/intermodal_2026_W39_Intermodal-Report-Week-39-2026.md",
+   "twin_pdf": "intermodal_30_09_2026_intermodal_weekly_market_report_week_39_2026_broker_s_insi.pdf",
+   "canonical_pdf": "intermodal_2026_W39_Intermodal-Report-Week-39-2026.pdf",
+   "reason": "repost of the same issue under the collection-route name (date = repost date)",
+   "misfile": false,
+   "action": "archive",
+   "evidence": {
+    "pdf_numbers_found_twin": 472,
+    "pdf_numbers_found_canonical": 472
+   }
+  },
+  {
+   "twin": "data/extracted/md/star_asia/2024/star_asia_2024_W05_ISM_coaster_week5-1.md",
+   "canonical": "data/extracted/md/ism/2024/ism_2024_W05_ISM_coaster_week5.md",
+   "twin_pdf": "star_asia_2024_W05_ISM_coaster_week5-1.pdf",
+   "canonical_pdf": "ism_2024_W05_ISM_coaster_week5.pdf",
+   "reason": "misfile: an ISM report in the Star Asia folder",
+   "misfile": true,
+   "action": "archive",
+   "evidence": {
+    "pdf_numbers_found_twin": 69,
+    "pdf_numbers_found_canonical": 47
+   },
+   "note": "twin text layer numbers higher only because the canonical's chart tables are image-read; canonical kept"
+  },
+  {
+   "twin": "data/extracted/md/ism/2025/ism_2025_W19_ISM_coaster_week19-1.md",
+   "canonical": "data/extracted/md/ism/2025/ism_2025_W19_ISM_coaster_week19.md",
+   "twin_pdf": "ism_2025_W19_ISM_coaster_week19-1.pdf",
+   "canonical_pdf": "ism_2025_W19_ISM_coaster_week19.pdf",
+   "reason": "second download of the same issue",
+   "misfile": false,
+   "action": "archive",
+   "evidence": {
+    "pdf_numbers_found_twin": 45,
+    "pdf_numbers_found_canonical": 45
+   }
+  },
+  {
+   "twin": "data/extracted/md/ism/2026/ism_14_09_2026_ism_coasters_and_mini_bulkers_week_37.md",
+   "canonical": "data/extracted/md/ism/2026/ism_2026_W37_ISM_coaster_week37.md",
+   "twin_pdf": "ism_14_09_2026_ism_coasters_and_mini_bulkers_week_37.pdf",
+   "canonical_pdf": "ism_2026_W37_ISM_coaster_week37.pdf",
+   "reason": "repost of the same issue under the collection-route name (date = repost date)",
+   "misfile": false,
+   "action": "archive",
+   "evidence": {
+    "pdf_numbers_found_twin": 44,
+    "pdf_numbers_found_canonical": 44
+   }
+  },
+  {
+   "twin": "data/extracted/md/ism/2026/ism_28_09_2026_ism_coasters_and_mini_bulkers_week_39.md",
+   "canonical": "data/extracted/md/ism/2026/ism_2026_W39_ISM_Handy_week39.md",
+   "twin_pdf": "ism_28_09_2026_ism_coasters_and_mini_bulkers_week_39.pdf",
+   "canonical_pdf": "ism_2026_W39_ISM_Handy_week39.pdf",
+   "reason": "repost: the PDF is the ISM Handysize W39 report, not coasters",
+   "misfile": true,
+   "action": "archive",
+   "evidence": {
+    "pdf_numbers_found_twin": 51,
+    "pdf_numbers_found_canonical": 51
+   }
+  },
+  {
+   "twin": "data/extracted/md/lion/2026/lion_02_10_2026_lion_shipbrokers_weekly_market_report_week_40_2026.md",
+   "canonical": "data/extracted/md/lion/2026/lion_2026_W40_Lion-Weekly-Report-02-October-2026-W40.md",
+   "twin_pdf": "lion_02_10_2026_lion_shipbrokers_weekly_market_report_week_40_2026.pdf",
+   "canonical_pdf": "lion_2026_W40_Lion-Weekly-Report-02-October-2026-W40.pdf",
+   "reason": "repost of the same issue under the collection-route name (date = repost date)",
+   "misfile": false,
+   "action": "archive",
+   "evidence": {
+    "pdf_numbers_found_twin": 108,
+    "pdf_numbers_found_canonical": 108
+   }
+  },
+  {
+   "twin": "data/extracted/md/poten/2004/poten_2004-04-21_considering-the-end-of-affordable-oil.md",
+   "canonical": "data/extracted/md/poten/2004/poten_2004-05-21_considering-the-end-of-affordable-oil.md",
+   "twin_pdf": "Tanker_Opinion_20040421.pdf",
+   "canonical_pdf": "Tanker_Opinion_20040521.pdf",
+   "reason": "misfile: the PDF is the 21 May 2004 opinion",
+   "misfile": true,
+   "action": "archive",
+   "evidence": {
+    "pdf_numbers_found_twin": 11,
+    "pdf_numbers_found_canonical": 11
+   }
+  },
+  {
+   "twin": "data/extracted/md/poten/2004/poten_2004-12-30_exactly-what-is-in-store-for-us.md",
+   "canonical": "data/extracted/md/poten/2004/poten_2004-12-31_exactly-what-is-in-store-for-us.md",
+   "twin_pdf": "Tanker_Opinion_20041230.pdf",
+   "canonical_pdf": "Tanker_Opinion_20041231.pdf",
+   "reason": "misfile: the PDF is the 31 Dec 2004 opinion",
+   "misfile": true,
+   "action": "archive",
+   "evidence": {
+    "pdf_numbers_found_twin": 33,
+    "pdf_numbers_found_canonical": 34
+   }
+  },
+  {
+   "twin": "data/extracted/md/poten/2015/poten_2015-03-06_close-the-window.md",
+   "canonical": "data/extracted/md/poten/2015/poten_2015-03-06_close-the-window-it-is-cold-outside.md",
+   "twin_pdf": "Weekly-Opinion-Mar-6-2015-Close-the-Window.pdf",
+   "canonical_pdf": "Tanker_Opinion_20150306.pdf",
+   "reason": "same text as the full-title copy",
+   "misfile": false,
+   "action": "archive",
+   "evidence": {
+    "pdf_numbers_found_twin": null,
+    "pdf_numbers_found_canonical": null
+   }
+  },
+  {
+   "twin": "data/extracted/md/poten/2020/poten_2020-02-07_it-is-a-mess-in-the-med-2.md",
+   "canonical": "data/extracted/md/poten/2020/poten_2020-02-07_it-is-a-mess-in-the-med.md",
+   "twin_pdf": "Weekly-Opinion-7-February-2020-It-is-a-Mess-in-the-Med.pdf",
+   "canonical_pdf": "Weekly Opinion - 7 February 2020 - It is a Mess in the Med.pdf",
+   "reason": "second download of the same opinion",
+   "misfile": false,
+   "action": "archive",
+   "evidence": {
+    "pdf_numbers_found_twin": 22,
+    "pdf_numbers_found_canonical": 22
+   }
+  },
+  {
+   "twin": "data/extracted/md/ssy/2026/ssy_14_09_2026_ssy_atlantic_capesize_index_14_september_2026.md",
+   "canonical": "data/extracted/md/ssy/2026/ssy_2026_20260911-Atlantic-Capesize-Report.md",
+   "twin_pdf": "ssy_14_09_2026_ssy_atlantic_capesize_index_14_september_2026.pdf",
+   "canonical_pdf": "ssy_2026_20260911-Atlantic-Capesize-Report.pdf",
+   "reason": "repost of the same issue under the collection-route name (date = repost date)",
+   "misfile": false,
+   "action": "archive",
+   "evidence": {
+    "pdf_numbers_found_twin": 45,
+    "pdf_numbers_found_canonical": 44
+   }
+  },
+  {
+   "twin": "data/extracted/md/ssy/2026/ssy_14_09_2026_ssy_pacific_capesize_index_14_september_2026.md",
+   "canonical": "data/extracted/md/ssy/2026/ssy_2026_20260911-Pacific-Capesize-Report.md",
+   "twin_pdf": "ssy_14_09_2026_ssy_pacific_capesize_index_14_september_2026.pdf",
+   "canonical_pdf": "ssy_2026_20260911-Pacific-Capesize-Report.pdf",
+   "reason": "repost of the same issue under the collection-route name (date = repost date)",
+   "misfile": false,
+   "action": "archive",
+   "evidence": {
+    "pdf_numbers_found_twin": 46,
+    "pdf_numbers_found_canonical": 45
+   }
+  },
+  {
+   "twin": "data/extracted/md/ssy/2026/ssy_2026_nan_20260807-Atlantic-Capesize-Report.md",
+   "canonical": "data/extracted/md/ssy/2026/ssy_2026_20260807-Atlantic-Capesize-Report.md",
+   "twin_pdf": "ssy_2026_nan_20260807-Atlantic-Capesize-Report.pdf",
+   "canonical_pdf": "ssy_2026_20260807-Atlantic-Capesize-Report.pdf",
+   "reason": "repost of the same issue under the collection-route name (date = repost date)",
+   "misfile": false,
+   "action": "archive",
+   "evidence": {
+    "pdf_numbers_found_twin": 44,
+    "pdf_numbers_found_canonical": 44
+   }
+  },
+  {
+   "twin": "data/extracted/md/ssy/2026/ssy_2026_nan_20260807-Pacific-Capesize-Report.md",
+   "canonical": "data/extracted/md/ssy/2026/ssy_2026_20260807-Pacific-Capesize-Report.md",
+   "twin_pdf": "ssy_2026_nan_20260807-Pacific-Capesize-Report.pdf",
+   "canonical_pdf": "ssy_2026_20260807-Pacific-Capesize-Report.pdf",
+   "reason": "repost of the same issue under the collection-route name (date = repost date)",
+   "misfile": false,
+   "action": "archive",
+   "evidence": {
+    "pdf_numbers_found_twin": 45,
+    "pdf_numbers_found_canonical": 45
+   }
+  },
+  {
+   "twin": "data/extracted/md/ssy/2026/ssy_2026_nan_20260814-Atlantic-Capesize-Report.md",
+   "canonical": "data/extracted/md/ssy/2026/ssy_2026_20260814-Atlantic-Capesize-Report.md",
+   "twin_pdf": "ssy_2026_nan_20260814-Atlantic-Capesize-Report.pdf",
+   "canonical_pdf": "ssy_2026_20260814-Atlantic-Capesize-Report.pdf",
+   "reason": "repost of the same issue under the collection-route name (date = repost date)",
+   "misfile": false,
+   "action": "archive",
+   "evidence": {
+    "pdf_numbers_found_twin": 42,
+    "pdf_numbers_found_canonical": 42
+   }
+  },
+  {
+   "twin": "data/extracted/md/ssy/2026/ssy_2026_nan_20260814-Pacific-Capesize-Report.md",
+   "canonical": "data/extracted/md/ssy/2026/ssy_2026_20260814-Pacific-Capesize-Report.md",
+   "twin_pdf": "ssy_2026_nan_20260814-Pacific-Capesize-Report.pdf",
+   "canonical_pdf": "ssy_2026_20260814-Pacific-Capesize-Report.pdf",
+   "reason": "repost of the same issue under the collection-route name (date = repost date)",
+   "misfile": false,
+   "action": "archive",
+   "evidence": {
+    "pdf_numbers_found_twin": 44,
+    "pdf_numbers_found_canonical": 44
+   }
+  },
+  {
+   "twin": "data/extracted/md/ssy/2026/ssy_2026_nan_20260821-Atlantic-Capesize-Report.md",
+   "canonical": "data/extracted/md/ssy/2026/ssy_2026_20260821-Atlantic-Capesize-Report.md",
+   "twin_pdf": "ssy_2026_nan_20260821-Atlantic-Capesize-Report.pdf",
+   "canonical_pdf": "ssy_2026_20260821-Atlantic-Capesize-Report.pdf",
+   "reason": "repost of the same issue under the collection-route name (date = repost date)",
+   "misfile": false,
+   "action": "archive",
+   "evidence": {
+    "pdf_numbers_found_twin": 45,
+    "pdf_numbers_found_canonical": 45
+   }
+  },
+  {
+   "twin": "data/extracted/md/ssy/2026/ssy_2026_nan_20260821-Pacific-Capesize-Report.md",
+   "canonical": "data/extracted/md/ssy/2026/ssy_2026_20260821-Pacific-Capesize-Report.md",
+   "twin_pdf": "ssy_2026_nan_20260821-Pacific-Capesize-Report.pdf",
+   "canonical_pdf": "ssy_2026_20260821-Pacific-Capesize-Report.pdf",
+   "reason": "repost of the same issue under the collection-route name (date = repost date)",
+   "misfile": false,
+   "action": "archive",
+   "evidence": {
+    "pdf_numbers_found_twin": 46,
+    "pdf_numbers_found_canonical": 46
+   }
+  },
+  {
+   "twin": "data/extracted/md/ssy/2026/ssy_2026_nan_20260828-Atlantic-Capesize-Report.md",
+   "canonical": "data/extracted/md/ssy/2026/ssy_2026_20260828-Atlantic-Capesize-Report.md",
+   "twin_pdf": "ssy_2026_nan_20260828-Atlantic-Capesize-Report.pdf",
+   "canonical_pdf": "ssy_2026_20260828-Atlantic-Capesize-Report.pdf",
+   "reason": "repost of the same issue under the collection-route name (date = repost date)",
+   "misfile": false,
+   "action": "archive",
+   "evidence": {
+    "pdf_numbers_found_twin": 45,
+    "pdf_numbers_found_canonical": 45
+   }
+  },
+  {
+   "twin": "data/extracted/md/ssy/2026/ssy_2026_nan_20260828-Pacific-Capesize-Report.md",
+   "canonical": "data/extracted/md/ssy/2026/ssy_2026_20260828-Pacific-Capesize-Report.md",
+   "twin_pdf": "ssy_2026_nan_20260828-Pacific-Capesize-Report.pdf",
+   "canonical_pdf": "ssy_2026_20260828-Pacific-Capesize-Report.pdf",
+   "reason": "repost of the same issue under the collection-route name (date = repost date)",
+   "misfile": false,
+   "action": "archive",
+   "evidence": {
+    "pdf_numbers_found_twin": 46,
+    "pdf_numbers_found_canonical": 46
+   }
+  },
+  {
+   "twin": "data/extracted/md/ssy/2026/ssy_21_09_2026_ssy_atlantic_capesize_index_21_september_2026.md",
+   "canonical": "data/extracted/md/ssy/2026/ssy_2026_20260918-Atlantic-Capesize-Report.md",
+   "twin_pdf": "ssy_21_09_2026_ssy_atlantic_capesize_index_21_september_2026.pdf",
+   "canonical_pdf": "ssy_2026_20260918-Atlantic-Capesize-Report.pdf",
+   "reason": "repost of the same issue under the collection-route name (date = repost date)",
+   "misfile": false,
+   "action": "archive",
+   "evidence": {
+    "pdf_numbers_found_twin": 46,
+    "pdf_numbers_found_canonical": 45
+   }
+  },
+  {
+   "twin": "data/extracted/md/ssy/2026/ssy_21_09_2026_ssy_pacific_capesize_index_21_september_2026.md",
+   "canonical": "data/extracted/md/ssy/2026/ssy_2026_20260918-Pacific-Capesize-Report.md",
+   "twin_pdf": "ssy_21_09_2026_ssy_pacific_capesize_index_21_september_2026.pdf",
+   "canonical_pdf": "ssy_2026_20260918-Pacific-Capesize-Report.pdf",
+   "reason": "repost of the same issue under the collection-route name (date = repost date)",
+   "misfile": false,
+   "action": "archive",
+   "evidence": {
+    "pdf_numbers_found_twin": 46,
+    "pdf_numbers_found_canonical": 46
+   }
+  },
+  {
+   "twin": "data/extracted/md/ssy/2026/ssy_28_09_2026_ssy_atlantic_capesize_index_28_september_2026.md",
+   "canonical": "data/extracted/md/ssy/2026/ssy_2026_20260925-Atlantic-Capesize-Report.md",
+   "twin_pdf": "ssy_28_09_2026_ssy_atlantic_capesize_index_28_september_2026.pdf",
+   "canonical_pdf": "ssy_2026_20260925-Atlantic-Capesize-Report.pdf",
+   "reason": "repost of the same issue under the collection-route name (date = repost date)",
+   "misfile": false,
+   "action": "archive",
+   "evidence": {
+    "pdf_numbers_found_twin": 46,
+    "pdf_numbers_found_canonical": 45
+   }
+  },
+  {
+   "twin": "data/extracted/md/ssy/2026/ssy_28_09_2026_ssy_pacific_capesize_index_28_september_2026.md",
+   "canonical": "data/extracted/md/ssy/2026/ssy_2026_20260925-Pacific-Capesize-Report.md",
+   "twin_pdf": "ssy_28_09_2026_ssy_pacific_capesize_index_28_september_2026.pdf",
+   "canonical_pdf": "ssy_2026_20260925-Pacific-Capesize-Report.pdf",
+   "reason": "repost of the same issue under the collection-route name (date = repost date)",
+   "misfile": false,
+   "action": "archive",
+   "evidence": {
+    "pdf_numbers_found_twin": 47,
+    "pdf_numbers_found_canonical": 46
+   }
+  },
+  {
+   "twin": "data/extracted/md/star_asia/2026/star_asia_21_09_2026_star_asia_shipbroking_weekly_market_report_week_38.md",
+   "canonical": "data/extracted/md/star_asia/2026/star_asia_2026_W38_Market-Report-Week-38.md",
+   "twin_pdf": "star_asia_21_09_2026_star_asia_shipbroking_weekly_market_report_week_38.pdf",
+   "canonical_pdf": "star_asia_2026_W38_Market-Report-Week-38.pdf",
+   "reason": "repost of the same issue under the collection-route name (date = repost date)",
+   "misfile": false,
+   "action": "archive",
+   "evidence": {
+    "pdf_numbers_found_twin": 342,
+    "pdf_numbers_found_canonical": 342
+   }
+  },
+  {
+   "twin": "data/extracted/md/star_asia/2026/star_asia_28_09_2026_star_asia_shipbroking_weekly_market_report_week_39.md",
+   "canonical": "data/extracted/md/star_asia/2026/star_asia_2026_W39_Market-Report-Week-39-1.md",
+   "twin_pdf": "star_asia_28_09_2026_star_asia_shipbroking_weekly_market_report_week_39.pdf",
+   "canonical_pdf": "star_asia_2026_W39_Market-Report-Week-39-1.pdf",
+   "reason": "repost of the same issue under the collection-route name (date = repost date)",
+   "misfile": false,
+   "action": "archive",
+   "evidence": {
+    "pdf_numbers_found_twin": 359,
+    "pdf_numbers_found_canonical": 359
+   }
+  },
+  {
+   "twin": "data/extracted/md/xclusiv/2026/xclusiv_15_09_2026_xclusiv_shipbrokers_weekly_14th_september_2026.md",
+   "canonical": "data/extracted/md/xclusiv/2026/xclusiv_2026_xclusiv-2026_09_14.md",
+   "twin_pdf": "xclusiv_15_09_2026_xclusiv_shipbrokers_weekly_14th_september_2026.pdf",
+   "canonical_pdf": "xclusiv_2026_xclusiv-2026_09_14.pdf",
+   "reason": "repost of the same issue under the collection-route name (date = repost date)",
+   "misfile": false,
+   "action": "promote",
+   "evidence": {
+    "pdf_numbers_found_twin": 399,
+    "pdf_numbers_found_canonical": 208
+   }
+  },
+  {
+   "twin": "data/extracted/md/xclusiv/2026/xclusiv_2026_nan_xclusiv-2026_08_10.md",
+   "canonical": "data/extracted/md/xclusiv/2026/xclusiv_2026_xclusiv-2026_08_10.md",
+   "twin_pdf": "xclusiv_2026_nan_xclusiv-2026_08_10.pdf",
+   "canonical_pdf": "xclusiv_2026_xclusiv-2026_08_10.pdf",
+   "reason": "repost of the same issue under the collection-route name (date = repost date)",
+   "misfile": false,
+   "action": "promote",
+   "evidence": {
+    "pdf_numbers_found_twin": 382,
+    "pdf_numbers_found_canonical": 181
+   }
+  },
+  {
+   "twin": "data/extracted/md/xclusiv/2026/xclusiv_2026_nan_xclusiv-2026_08_17.md",
+   "canonical": "data/extracted/md/xclusiv/2026/xclusiv_2026_xclusiv-2026_08_17.md",
+   "twin_pdf": "xclusiv_2026_nan_xclusiv-2026_08_17.pdf",
+   "canonical_pdf": "xclusiv_2026_xclusiv-2026_08_17.pdf",
+   "reason": "repost of the same issue under the collection-route name (date = repost date)",
+   "misfile": false,
+   "action": "promote",
+   "evidence": {
+    "pdf_numbers_found_twin": 368,
+    "pdf_numbers_found_canonical": 199
+   }
+  },
+  {
+   "twin": "data/extracted/md/xclusiv/2026/xclusiv_2026_nan_xclusiv-2026_08_24.md",
+   "canonical": "data/extracted/md/xclusiv/2026/xclusiv_2026_xclusiv-2026_08_24.md",
+   "twin_pdf": "xclusiv_2026_nan_xclusiv-2026_08_24.pdf",
+   "canonical_pdf": "xclusiv_2026_xclusiv-2026_08_24.pdf",
+   "reason": "repost of the same issue under the collection-route name (date = repost date)",
+   "misfile": false,
+   "action": "promote",
+   "evidence": {
+    "pdf_numbers_found_twin": 347,
+    "pdf_numbers_found_canonical": 173
+   }
+  },
+  {
+   "twin": "data/extracted/md/xclusiv/2026/xclusiv_2026_nan_xclusiv-2026_08_31.md",
+   "canonical": "data/extracted/md/xclusiv/2026/xclusiv_2026_xclusiv-2026_08_31.md",
+   "twin_pdf": "xclusiv_2026_nan_xclusiv-2026_08_31.pdf",
+   "canonical_pdf": "xclusiv_2026_xclusiv-2026_08_31.pdf",
+   "reason": "repost of the same issue under the collection-route name (date = repost date)",
+   "misfile": false,
+   "action": "promote",
+   "evidence": {
+    "pdf_numbers_found_twin": 303,
+    "pdf_numbers_found_canonical": 224
+   }
+  },
+  {
+   "twin": "data/extracted/md/xclusiv/2026/xclusiv_22_09_2026_xclusiv_shipbrokers_weekly_21st_september_2026.md",
+   "canonical": "data/extracted/md/xclusiv/2026/xclusiv_2026_xclusiv-2026_09_21.md",
+   "twin_pdf": "xclusiv_22_09_2026_xclusiv_shipbrokers_weekly_21st_september_2026.pdf",
+   "canonical_pdf": "xclusiv_2026_xclusiv-2026_09_21.pdf",
+   "reason": "repost of the same issue under the collection-route name (date = repost date)",
+   "misfile": false,
+   "action": "archive",
+   "evidence": {
+    "pdf_numbers_found_twin": 196,
+    "pdf_numbers_found_canonical": 381
+   }
+  },
+  {
+   "twin": "data/extracted/md/xclusiv/2026/xclusiv_29_09_2026_xclusiv_shipbrokers_weekly_28th_september_2026.md",
+   "canonical": "data/extracted/md/xclusiv/2026/xclusiv_2026_xclusiv-2026_09_28.md",
+   "twin_pdf": "xclusiv_29_09_2026_xclusiv_shipbrokers_weekly_28th_september_2026.pdf",
+   "canonical_pdf": "xclusiv_2026_xclusiv-2026_09_28.pdf",
+   "reason": "repost of the same issue under the collection-route name (date = repost date)",
+   "misfile": false,
+   "action": "archive",
+   "evidence": {
+    "pdf_numbers_found_twin": 395,
+    "pdf_numbers_found_canonical": 395
+   }
+  },
+  {
+   "twin": "data/extracted/md/agora/2026/agora_2026_W34_AGORA.-Week-35-2026.-Snapshot-of-Commercial-Indicators.md",
+   "canonical": "data/extracted/md/agora/2026/agora_2026_W35_AGORA.-Week-35-2026.-Snapshot-of-Commercial-Indicators.md",
+   "twin_pdf": "agora_2026_W34_AGORA.-Week-35-2026.-Snapshot-of-Commercial-Indicators.pdf",
+   "canonical_pdf": "agora_2026_W35_AGORA.-Week-35-2026.-Snapshot-of-Commercial-Indicators.pdf",
+   "reason": "misfile: the PDF is the Week 35 report (W34 issue not in corpus)",
+   "misfile": true,
+   "action": "archive",
+   "evidence": {
+    "pdf_numbers_found_twin": null,
+    "pdf_numbers_found_canonical": null
+   }
+  }
+ ]
+}

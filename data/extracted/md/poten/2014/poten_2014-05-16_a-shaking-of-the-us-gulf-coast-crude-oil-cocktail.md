@@ -40,20 +40,24 @@ In the future, the US Gulf could require an arguably higher proportion of heavy 
 
 ![Exhibit 1: A Shaking of the US Gulf Coast Crude Oil Cocktail](../../../charts/poten/2014/poten_2014-05-16_a-shaking-of-the-us-gulf-coast-crude-oil-cocktail_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2014/poten_2014-05-16_a-shaking-of-the-us-gulf-coast-crude-oil-cocktail_chart1.png)
+> **Interactive Asset:** [Local Asset (200 DPI PNG)](../../../charts/poten/2014/poten_2014-05-16_a-shaking-of-the-us-gulf-coast-crude-oil-cocktail_chart1.png)
 
 ![Exhibit 2: A Shaking of the US Gulf Coast Crude Oil Cocktail](../../../charts/poten/2014/poten_2014-05-16_a-shaking-of-the-us-gulf-coast-crude-oil-cocktail_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2014/poten_2014-05-16_a-shaking-of-the-us-gulf-coast-crude-oil-cocktail_chart2.png)
+> **Interactive Asset:** [Local Asset (200 DPI PNG)](../../../charts/poten/2014/poten_2014-05-16_a-shaking-of-the-us-gulf-coast-crude-oil-cocktail_chart2.png)
 
 ![Exhibit 3: A Shaking of the US Gulf Coast Crude Oil Cocktail](../../../charts/poten/2014/poten_2014-05-16_a-shaking-of-the-us-gulf-coast-crude-oil-cocktail_chart3.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2014/poten_2014-05-16_a-shaking-of-the-us-gulf-coast-crude-oil-cocktail_chart3.png)
+> **Interactive Asset:** [Local Asset (200 DPI PNG)](../../../charts/poten/2014/poten_2014-05-16_a-shaking-of-the-us-gulf-coast-crude-oil-cocktail_chart3.png)
 
 ![Exhibit 4: A Shaking of the US Gulf Coast Crude Oil Cocktail](../../../charts/poten/2014/poten_2014-05-16_a-shaking-of-the-us-gulf-coast-crude-oil-cocktail_chart4.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2014/poten_2014-05-16_a-shaking-of-the-us-gulf-coast-crude-oil-cocktail_chart4.png)
+> **Interactive Asset:** [Local Asset (200 DPI PNG)](../../../charts/poten/2014/poten_2014-05-16_a-shaking-of-the-us-gulf-coast-crude-oil-cocktail_chart4.png)
 
-![Exhibit 5: A Shaking of the US Gulf Coast Crude Oil Cocktail](../../../charts/poten/2014/poten_2014-05-16_a-shaking-of-the-us-gulf-coast-crude-oil-cocktail_chart5.png)
+![Exhibit 5: US Gulf Crude Oil Imports – Saudi Arabia & Total](../../../charts/poten/2014/poten_2014-05-16_a-shaking-of-the-us-gulf-coast-crude-oil-cocktail_chart5.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2014/poten_2014-05-16_a-shaking-of-the-us-gulf-coast-crude-oil-cocktail_chart5.png)
+> **Exhibit 5: US Gulf Crude Oil Imports – Saudi Arabia & Total**  
+> Unit: kbd | mbd · X-axis: Jan-10 to Mar-14  
+> Series: Arab Heavy, Arab Medium, Arab Light, Arab Extra Light, Total Imports  
+> *Source: Poten & Partners*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2014/poten_2014-05-16_a-shaking-of-the-us-gulf-coast-crude-oil-cocktail_chart5.png)

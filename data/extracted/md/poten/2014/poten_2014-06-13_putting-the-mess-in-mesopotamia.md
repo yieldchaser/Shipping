@@ -36,16 +36,20 @@ Basrah Crude Oil Kirkuk Crude Oil Total Avg. Price/Bbl $M M Barrels $M M Barrels
 
 ![Exhibit 1: Putting the Mess in Mesopotamia](../../../charts/poten/2014/poten_2014-06-13_putting-the-mess-in-mesopotamia_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2014/poten_2014-06-13_putting-the-mess-in-mesopotamia_chart1.png)
+> **Interactive Asset:** [Local Asset (200 DPI PNG)](../../../charts/poten/2014/poten_2014-06-13_putting-the-mess-in-mesopotamia_chart1.png)
 
-![Exhibit 2: Putting the Mess in Mesopotamia](../../../charts/poten/2014/poten_2014-06-13_putting-the-mess-in-mesopotamia_chart2.png)
+![Exhibit 2: Iraqi Crude Oil Production](../../../charts/poten/2014/poten_2014-06-13_putting-the-mess-in-mesopotamia_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2014/poten_2014-06-13_putting-the-mess-in-mesopotamia_chart2.png)
+> **Exhibit 2: Iraqi Crude Oil Production**  
+> Unit: kbd · X-axis: 1980 to Current  
+> Series: Iraqi Crude Oil Production  
+> *Source: EIA*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2014/poten_2014-06-13_putting-the-mess-in-mesopotamia_chart2.png)
 
 ![Exhibit 3: Putting the Mess in Mesopotamia](../../../charts/poten/2014/poten_2014-06-13_putting-the-mess-in-mesopotamia_chart3.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2014/poten_2014-06-13_putting-the-mess-in-mesopotamia_chart3.png)
+> **Interactive Asset:** [Local Asset (200 DPI PNG)](../../../charts/poten/2014/poten_2014-06-13_putting-the-mess-in-mesopotamia_chart3.png)
 
 ![Exhibit 4: Putting the Mess in Mesopotamia](../../../charts/poten/2014/poten_2014-06-13_putting-the-mess-in-mesopotamia_chart4.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2014/poten_2014-06-13_putting-the-mess-in-mesopotamia_chart4.png)
+> **Interactive Asset:** [Local Asset (200 DPI PNG)](../../../charts/poten/2014/poten_2014-06-13_putting-the-mess-in-mesopotamia_chart4.png)

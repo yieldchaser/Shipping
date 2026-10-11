@@ -24,10 +24,10 @@ The ongoing uncertainty surrounding the Strait of Hormuz is impacting the Panama
 
 In this context, Signal Ocean data show that the number of Panamax vessels in ballast condition within the Strait has remained stable at around 30, while laden vessel counts have declined sharply from late-February highs. This divergence points to emerging delays in loading or transit for vessels operating in the region amid ongoing disruptions.
 
-![Στιγμιότυπο Οθόνης 2026 04 17 154506](assets/2026-04-17_panamax-supply-outlook-as-hormuz-faces-strain_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_cfa3e71fa0a9.png)
+![Στιγμιότυπο Οθόνης 2026 04 17 154506](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-04-17_panamax-supply-outlook-as-hormuz-faces-strain_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_cfa3e71fa0a9.png)
 
 > **Figure 1: Στιγμιότυπο Οθόνης 2026 04 17 154506**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-04-17_panamax-supply-outlook-as-hormuz-faces-strain_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_cfa3e71fa0a9.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-04-17_panamax-supply-outlook-as-hormuz-faces-strain_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_cfa3e71fa0a9.png)
 
 ## Scheduled Vessel Deliveries Highest Since 2014
 
@@ -35,10 +35,10 @@ Panamax vessel deliveries are projected to reach a record high in 2026, with app
 
 This increase in fleet capacity is taking place against a plateauing outlook for coal demand. According to projections in the IEA's Coal Mid-Year Update (July and December 2025), global coal demand was expected to reach a record ~8.85 billion tonnes in 2025, before edging slightly lower in 2026 and stabilising near ~8.7–8.8 billion tonnes.
 
-![Στιγμιότυπο Οθόνης 2026 04 17 154523](assets/2026-04-17_panamax-supply-outlook-as-hormuz-faces-strain_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_5e09b552b4a6.png)
+![Στιγμιότυπο Οθόνης 2026 04 17 154523](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-04-17_panamax-supply-outlook-as-hormuz-faces-strain_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_5e09b552b4a6.png)
 
 > **Figure 2: Στιγμιότυπο Οθόνης 2026 04 17 154523**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-04-17_panamax-supply-outlook-as-hormuz-faces-strain_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_5e09b552b4a6.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-04-17_panamax-supply-outlook-as-hormuz-faces-strain_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_5e09b552b4a6.png)
 
 ## Coal Demand Outlook: Policy Shifts and Market Pressures
 
@@ -68,10 +68,10 @@ Geopolitical tensions in the Middle East are likely to keep Asian buyers focused
 
 At the same time, newbuilding prices have recently moved in line with second-hand values, with a 5-year-old Panamax bulker valued at approximately USD 37 million. This shift may begin to support newbuilding orders relative to second-hand purchases, although ordering activity remains sensitive to geopolitical market conditions.
 
-![Στιγμιότυπο Οθόνης 2026 04 17 154545](assets/2026-04-17_panamax-supply-outlook-as-hormuz-faces-strain_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_d9cf2c6f2432.png)
+![Στιγμιότυπο Οθόνης 2026 04 17 154545](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-04-17_panamax-supply-outlook-as-hormuz-faces-strain_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_d9cf2c6f2432.png)
 
 > **Figure 3: Στιγμιότυπο Οθόνης 2026 04 17 154545**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-04-17_panamax-supply-outlook-as-hormuz-faces-strain_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_d9cf2c6f2432.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-04-17_panamax-supply-outlook-as-hormuz-faces-strain_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_d9cf2c6f2432.png)
 
 Against this backdrop, the key question remains whether the recent momentum in orders can be sustained, as the market continues to watch oil prices, potential supply disruptions, and ongoing uncertainty around bunkering in the Arabian Gulf.
 

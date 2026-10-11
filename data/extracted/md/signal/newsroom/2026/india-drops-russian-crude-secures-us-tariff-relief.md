@@ -36,11 +36,11 @@ On Monday, 2nd February 2026, U.S. President Donald Trump announced a new trade 
 - The U.S. will cut tariffs on Indian goods to 18% from the current 50% if India stops buying Russian crude.
 
 
-![Source: Crude Oil Flows From Russia to India From Signal Ocean](../../images/6981f38598c1f0d41bb48dff_28b6f804.png)
+![Source: Crude Oil Flows From Russia to India From Signal Ocean](../../../../../../corpus/07-signal/images/6981f38598c1f0d41bb48dff_28b6f804.png)
 
 > **Figure 1: Source: Crude Oil Flows From Russia to India From Signal Ocean**  
 > *Source: Crude oil flows from Russia to India from Signal Ocean*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/india-drops-russian-crude-secures-us-tariff-relief) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6981f38598c1f0d41bb48dff_28b6f804.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/india-drops-russian-crude-secures-us-tariff-relief) | [Local Asset](../../../../../../corpus/07-signal/images/6981f38598c1f0d41bb48dff_28b6f804.png)
 
 India’s continued buying of Russian crude oil despite pressure from the West has been a source of strain between the two regions. The latest deal announced by President Trump on Monday looks set to ease the tensions.
 
@@ -53,11 +53,11 @@ TSOP has already started to see India taking less Russian oil, though, and has r
 The tariff reductions do, though, offer significant upside for India if it can manage the replacement of Russian crude. The 50% tariff on Indian goods has remained a strong barrier to finished goods entering the U.S. market. These tariffs falling to 18% boost the price competitiveness of Indian origin good and open up the largest consumer market.
 
 
-![Source: Indian Crude Oil Sources in 2025 From Signal Ocean](../../images/6981f38598c1f0d41bb48e02_87d3ae2f.png)
+![Source: Indian Crude Oil Sources in 2025 From Signal Ocean](../../../../../../corpus/07-signal/images/6981f38598c1f0d41bb48e02_87d3ae2f.png)
 
 > **Figure 2: Source: Indian Crude Oil Sources in 2025 From Signal Ocean**  
 > *Source: Indian crude oil sources in 2025 from Signal Ocean*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/india-drops-russian-crude-secures-us-tariff-relief) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6981f38598c1f0d41bb48e02_87d3ae2f.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/india-drops-russian-crude-secures-us-tariff-relief) | [Local Asset](../../../../../../corpus/07-signal/images/6981f38598c1f0d41bb48e02_87d3ae2f.png)
 
 
 ## Takeaways

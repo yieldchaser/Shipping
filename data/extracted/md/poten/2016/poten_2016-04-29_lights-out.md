@@ -30,10 +30,18 @@ Overall, the developments in Venezuela, unfortunate as they may be for the count
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: Lights Out](../../../charts/poten/2016/poten_2016-04-29_lights-out_chart1.png)
+![Exhibit 1: Venezuela - Crude Oil Production](../../../charts/poten/2016/poten_2016-04-29_lights-out_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2016/poten_2016-04-29_lights-out_chart1.png)
+> **Exhibit 1: Venezuela - Crude Oil Production**  
+> Unit: KB/d · X-axis: Jan-05 to Jul-15  
+> Series: Crude Oil Production  
+> *Source: JODI*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2016/poten_2016-04-29_lights-out_chart1.png)
 
-![Exhibit 2: Lights Out](../../../charts/poten/2016/poten_2016-04-29_lights-out_chart2.png)
+![Exhibit 2: Venezuela – Petroleum Product Imports](../../../charts/poten/2016/poten_2016-04-29_lights-out_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2016/poten_2016-04-29_lights-out_chart2.png)
+> **Exhibit 2: Venezuela – Petroleum Product Imports**  
+> Unit: KB/d · X-axis: 1Q2012 to 4Q2015  
+> Series: Naphtha, Motor and Aviation Gasoline, Kerosenes, Gas/Diesel oil  
+> *Source: JODI*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2016/poten_2016-04-29_lights-out_chart2.png)

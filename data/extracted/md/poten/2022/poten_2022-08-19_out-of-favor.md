@@ -32,10 +32,17 @@ At some point the newbuilding market will probably come back. Until that happens
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: Out Of Favor](../../../charts/poten/2022/poten_2022-08-19_out-of-favor_chart1.png)
+![Exhibit 1: Quarterly Tanker Ordering](../../../charts/poten/2022/poten_2022-08-19_out-of-favor_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2022/poten_2022-08-19_out-of-favor_chart1.png)
+> **Exhibit 1: Quarterly Tanker Ordering**  
+> Unit: DWT | TCE (USD/Day) · X-axis: 1Q2005 to 1Q2022  
+> Series: VLCC, Suezmax, Aframax, Panamax, LR2, LR1, MR, VLCC TCE AG-FE  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2022/poten_2022-08-19_out-of-favor_chart1.png)
 
-![Exhibit 2: Out Of Favor](../../../charts/poten/2022/poten_2022-08-19_out-of-favor_chart2.png)
+![Exhibit 2: World Orderbook](../../../charts/poten/2022/poten_2022-08-19_out-of-favor_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2022/poten_2022-08-19_out-of-favor_chart2.png)
+> **Exhibit 2: World Orderbook**  
+> Unit: Gross Tons · X-axis: 2014 to 2022ytd  
+> Series: Oil/Chem Tankers, Bulkers, LNG Tankers, LPG Tankers, Container Ships, Other  
+> *Source: Poten & Partners, Lloyd’s List Intelligence*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2022/poten_2022-08-19_out-of-favor_chart2.png)

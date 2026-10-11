@@ -26,31 +26,31 @@ During large portions of 2024 and 2025, there was sustained industrial weakness 
 
 In the United States, manufacturing production has grown on a year-on-year basis for fifteen straight months. Previously, it had contracted on a year-on-year basis in nineteen of the prior twenty-two months.
 
-![Chart 1](assets/2026-05-25_ongoing-global-industrial-improvement_img_chart1_b5616ae66088.jpg)
+![Chart 1](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-05-25_ongoing-global-industrial-improvement_img_chart1_b5616ae66088.jpg)
 
 > **Figure 1: Chart 1**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-05-25_ongoing-global-industrial-improvement_img_chart1_b5616ae66088.jpg)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-05-25_ongoing-global-industrial-improvement_img_chart1_b5616ae66088.jpg)
 
 In South Korea, manufacturing production has grown on a year-on-year basis in ten of the last fourteen months. This includes during three of the last four months.
 
-![Chart 2](assets/2026-05-25_ongoing-global-industrial-improvement_img_chart2_2b7e5627a346.jpg)
+![Chart 2](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-05-25_ongoing-global-industrial-improvement_img_chart2_2b7e5627a346.jpg)
 
 > **Figure 2: Chart 2**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-05-25_ongoing-global-industrial-improvement_img_chart2_2b7e5627a346.jpg)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-05-25_ongoing-global-industrial-improvement_img_chart2_2b7e5627a346.jpg)
 
 In Japan manufacturing production has grown on a year-on-year basis in six of the last seven months. This includes during each of the last four months.
 
-![Chart 3](assets/2026-05-25_ongoing-global-industrial-improvement_img_chart3_736e07702408.jpg)
+![Chart 3](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-05-25_ongoing-global-industrial-improvement_img_chart3_736e07702408.jpg)
 
 > **Figure 3: Chart 3**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-05-25_ongoing-global-industrial-improvement_img_chart3_736e07702408.jpg)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-05-25_ongoing-global-industrial-improvement_img_chart3_736e07702408.jpg)
 
 In Russia, manufacturing production has most recently grown on a year-on-year basis by 3%. Previously, it had contracted on a year-on-year basis for two straight months.
 
-![Chart 4](assets/2026-05-25_ongoing-global-industrial-improvement_img_chart4_36fd27d91f8a.jpg)
+![Chart 4](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-05-25_ongoing-global-industrial-improvement_img_chart4_36fd27d91f8a.jpg)
 
 > **Figure 4: Chart 4**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-05-25_ongoing-global-industrial-improvement_img_chart4_36fd27d91f8a.jpg)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-05-25_ongoing-global-industrial-improvement_img_chart4_36fd27d91f8a.jpg)
 
 ---
 

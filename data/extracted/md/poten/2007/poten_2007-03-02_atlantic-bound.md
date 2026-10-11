@@ -38,10 +38,10 @@ With the West African and Mediterranean markets playing a more critical role in 
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: Atlantic Bound](../../../charts/poten/2007/poten_2007-03-02_atlantic-bound_chart1.png)
+![Exhibit 2: Untitled chart](../../../charts/poten/2007/poten_2007-03-02_atlantic-bound_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2007/poten_2007-03-02_atlantic-bound_chart1.png)
-
-![Exhibit 2: Atlantic Bound](../../../charts/poten/2007/poten_2007-03-02_atlantic-bound_chart2.png)
-
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2007/poten_2007-03-02_atlantic-bound_chart2.png)
+> **Exhibit 2: Untitled chart**  
+> Unit: Million Barrels Per Day · X-axis: Jan-02 to Jul-06  
+> Series: Middle East Imports, Africa Imports  
+> *Source: Poten & Partners/EIA*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2007/poten_2007-03-02_atlantic-bound_chart2.png)

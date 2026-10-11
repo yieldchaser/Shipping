@@ -34,10 +34,18 @@ If Russia manages to divert its export volumes to Asia, the changes should be a 
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: Murky Waters](../../../charts/poten/2022/poten_2022-06-17_murky-waters_chart1.png)
+![Exhibit 1: IEA: Global Oil Demand Outlook](../../../charts/poten/2022/poten_2022-06-17_murky-waters_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2022/poten_2022-06-17_murky-waters_chart1.png)
+> **Exhibit 1: IEA: Global Oil Demand Outlook**  
+> Unit: Mbbl/day · X-axis: 2021 to 2023  
+> Series: Africa, Americas, Asia/Pac, Europe, FSU, Mid.East  
+> *Source: International Energy Agency*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2022/poten_2022-06-17_murky-waters_chart1.png)
 
-![Exhibit 2: Murky Waters](../../../charts/poten/2022/poten_2022-06-17_murky-waters_chart2.png)
+![Exhibit 2: IEA: Global Oil Supply Outlook](../../../charts/poten/2022/poten_2022-06-17_murky-waters_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2022/poten_2022-06-17_murky-waters_chart2.png)
+> **Exhibit 2: IEA: Global Oil Supply Outlook**  
+> Unit: Mbbl/day · X-axis: 2021 to 2023  
+> Series: Africa, Latin America, North America, China, Oth. Asia, Europe, FSU, Middle East  
+> *Source: International Energy Agency*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2022/poten_2022-06-17_murky-waters_chart2.png)

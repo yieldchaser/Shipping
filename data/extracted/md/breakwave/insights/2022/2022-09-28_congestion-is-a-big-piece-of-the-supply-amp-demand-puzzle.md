@@ -33,11 +33,11 @@ On investor calls, public companies frequently cite the unravelling of port cong
 
 Analysts sometimes think of port congestion as a vast black hole that sucks up productive Shipping capacity and transforms it into stationary steel statues. Vessels are only productive when they are moving and Figure 1, below, shows that the proportions of both the Dry Bulk Carrier and the Containership fleets not moving remain near pandemic highs, at 17% and 9% respectively. This also includes small numbers of vessels in shipyards for repairs, surveys or dry docking and a very small number of layups. But the vast majority are vessels either waiting to load or discharge (in the case of Bulkers) or waiting for cargo operations (i.e. both loading and discharging containers, in the case of Containerships). Hence, no significant release of vessels from port congestion has occurred to impact freight markets.
 
-![Proportions of the Dry Bulk Carrier and Containership Fleets Not](assets/2022-09-28_congestion-is-a-big-piece-of-the-supply-amp-demand-puzzle_img_image-3_d41f735ea133.png)
+![Proportions of the Dry Bulk Carrier and Containership Fleets Not](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-09-28_congestion-is-a-big-piece-of-the-supply-amp-demand-puzzle_img_image-3_d41f735ea133.png)
 
 > **Figure 1: Proportions of the Dry Bulk Carrier and Containership Fleets Not**  
 > *Figure 1: Proportions of the Dry Bulk Carrier and Containership Fleets Not Underway.*  
-> **Interactive Data & Source:** [Blog Vesselsvalue](https://blog.vesselsvalue.com/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-09-28_congestion-is-a-big-piece-of-the-supply-amp-demand-puzzle_img_image-3_d41f735ea133.png)
+> **Interactive Data & Source:** [Blog Vesselsvalue](https://blog.vesselsvalue.com/) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-09-28_congestion-is-a-big-piece-of-the-supply-amp-demand-puzzle_img_image-3_d41f735ea133.png)
 
 ## The Tale of Pandemic, Told Through the Eyes of a Shipping Economist
 
@@ -47,11 +47,11 @@ This did not just cause a delay to the loading and discharging of containers at 
 
 By then, the shift in trade flows, and, hence, congestion was well underway. Shipping lines first diverted services to nearby San Francisco, then further afield to Portland, Seattle and even Vancouver in Canada. Then, as shown in Figure 2, below, as average waiting times for Containerships all along the US West Coast climbed steadily from just over an hour in February 2020 to 111 hours in February 2021, then further still to a peak of 146 hours in October 2021, lines began diverting services to the US East Coast. The shift became so profound that LAX/Long Beach could no longer claim to be the main import hub for the world’s largest economy. That accolade passed in 2022 to New York.
 
-![Containership Congestion Shifts From Us West Coast to Us East](assets/2022-09-28_congestion-is-a-big-piece-of-the-supply-amp-demand-puzzle_img_image-4_0e2eeeadd664.png)
+![Containership Congestion Shifts From Us West Coast to Us East](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-09-28_congestion-is-a-big-piece-of-the-supply-amp-demand-puzzle_img_image-4_0e2eeeadd664.png)
 
 > **Figure 2: Containership Congestion Shifts From Us West Coast to Us East**  
 > *Figure 2: Containership Congestion Shifts from US West Coast to US East Coast.*  
-> **Interactive Data & Source:** [Blog Vesselsvalue](https://blog.vesselsvalue.com/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-09-28_congestion-is-a-big-piece-of-the-supply-amp-demand-puzzle_img_image-4_0e2eeeadd664.png)
+> **Interactive Data & Source:** [Blog Vesselsvalue](https://blog.vesselsvalue.com/) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-09-28_congestion-is-a-big-piece-of-the-supply-amp-demand-puzzle_img_image-4_0e2eeeadd664.png)
 
 However, US East Coast ports were not immune to the parallel problems of staff absences and household’s rising demand for goods. Such was the heightened strain on New York, Savannah, and others, that, as average waiting times on the US West Coast eased back down to under 12 hours at time of writing, they ballooned to 51 hours on the US East Coast in August 2022.
 
@@ -63,21 +63,21 @@ On 5th April 2022, Shanghai, the biggest city in the biggest market for most com
 
 Average waiting times for Containerships at Shanghai skyrocketed from 28 hours in early April (comfortably in the middle of the historical range for the time of year) to 69 hours in late April (more than double the top end of the historical range), as shown in Figure 3 below. In early June, by which time lockdown had been lifted, congestion had eased considerably, and average waiting times were almost back to last year’s levels.
 
-![Average Waiting Times for Containerships at Shanghai](assets/2022-09-28_congestion-is-a-big-piece-of-the-supply-amp-demand-puzzle_img_image-5_de507494136f.png)
+![Average Waiting Times for Containerships at Shanghai](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-09-28_congestion-is-a-big-piece-of-the-supply-amp-demand-puzzle_img_image-5_de507494136f.png)
 
 > **Figure 3: Average Waiting Times for Containerships at Shanghai**  
 > *Figure 3: Average Waiting Times for Containerships at Shanghai.*  
-> **Interactive Data & Source:** [Blog Vesselsvalue](https://blog.vesselsvalue.com/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-09-28_congestion-is-a-big-piece-of-the-supply-amp-demand-puzzle_img_image-5_de507494136f.png)
+> **Interactive Data & Source:** [Blog Vesselsvalue](https://blog.vesselsvalue.com/) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-09-28_congestion-is-a-big-piece-of-the-supply-amp-demand-puzzle_img_image-5_de507494136f.png)
 
 ## Clogged Up: Conflict Forces European Power Sector Back to Coal
 
 While we were monitoring Container ports in the Western Hemisphere for knock on effects of the Shanghai lockdown, congestion next reared its head in the Dry Bulk sector, taking the market somewhat by surprise. As shown in Figure 4 below, average waiting times for Bulkers in Northwest Europe had been above the top end of the historical range for most of the first five months of 2022. But in a two week stretch over late May/early June, they shot up vertiginously from 26 hours to 45 hours and peaked in late July at 52 hours.
 
-![Average Waiting Times for Dry Bulk Carriers in Northwest Europe](assets/2022-09-28_congestion-is-a-big-piece-of-the-supply-amp-demand-puzzle_img_image-6_3c10cfea25a8.png)
+![Average Waiting Times for Dry Bulk Carriers in Northwest Europe](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-09-28_congestion-is-a-big-piece-of-the-supply-amp-demand-puzzle_img_image-6_3c10cfea25a8.png)
 
 > **Figure 4: Average Waiting Times for Dry Bulk Carriers in Northwest Europe**  
 > *Figure 4: Average Waiting Times for Dry bulk Carriers in Northwest Europe.*  
-> **Interactive Data & Source:** [Blog Vesselsvalue](https://blog.vesselsvalue.com/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-09-28_congestion-is-a-big-piece-of-the-supply-amp-demand-puzzle_img_image-6_3c10cfea25a8.png)
+> **Interactive Data & Source:** [Blog Vesselsvalue](https://blog.vesselsvalue.com/) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-09-28_congestion-is-a-big-piece-of-the-supply-amp-demand-puzzle_img_image-6_3c10cfea25a8.png)
 
 An examination of Bulker journeys into the region reveals a sudden influx of Capesizes, mostly from Richards Bay Coal Terminal in South Africa, but also from Dalrymple Bay Coal Terminal in Australia. European power utilities had long eschewed coal. The transition to cleaner fuels was underway and a well established market for carbon pricing had made coal uneconomic for most of the past decade. However, a combination of factors forced the sector back to old ways. The start of the Russia/Ukraine conflict on 24th February 2022 sent natural gas prices spiralling. A long, hot, dry summer severely depleted river levels and restricted hydropower. And the region’s two largest economies, Germany, and France, had steadily mothballed ageing nuclear plants in the wake of the Fukushima Disaster.
 
@@ -89,11 +89,11 @@ The energy crisis is, in turn, one of several factors contributing to a wider co
 
 As shown in Figure 5 below, neither July 2022’s strikes in Germany nor August 2022’s one at Felixstowe have yet significantly impacted average waiting times for Containerships in Northwest Europe, though they are flirting with the top end of the historic range. Strikes present a slightly different problem from staff absences early in the pandemic. Empty containers continue to be returned to the port by truck and train but, with no vessels to repatriate them, shoreside space fills up with “empties”. It will therefore take several weeks to evacuate the surplus following the conclusion of the strike and average waiting times may yet trend higher, tying up tonnage and reducing the productive capacity of the fleet.
 
-![Average Waiting Times for Containerships in Northwest Europe](assets/2022-09-28_congestion-is-a-big-piece-of-the-supply-amp-demand-puzzle_img_image-7_a98d69ccda19.png)
+![Average Waiting Times for Containerships in Northwest Europe](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-09-28_congestion-is-a-big-piece-of-the-supply-amp-demand-puzzle_img_image-7_a98d69ccda19.png)
 
 > **Figure 5: Average Waiting Times for Containerships in Northwest Europe**  
 > *Figure 5: Average Waiting Times for Containerships in Northwest Europe.*  
-> **Interactive Data & Source:** [Blog Vesselsvalue](https://blog.vesselsvalue.com/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-09-28_congestion-is-a-big-piece-of-the-supply-amp-demand-puzzle_img_image-7_a98d69ccda19.png)
+> **Interactive Data & Source:** [Blog Vesselsvalue](https://blog.vesselsvalue.com/) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-09-28_congestion-is-a-big-piece-of-the-supply-amp-demand-puzzle_img_image-7_a98d69ccda19.png)
 
 ## Port Congestion Is a Barometer of Macroeconomic and Geopolitical Trends
 

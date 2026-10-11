@@ -31,7 +31,7 @@ Despite the severity of the recent coronavirus outbreak, Indian seaborne imports
 ![A1](assets/2021-07-30_india-resilient-coal-imports-and-the-new-market-for-australia_img_a1_c4adabfab423.png)
 
 > **Figure 1: A1**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2021/assets/2021-07-30_india-resilient-coal-imports-and-the-new-market-for-australia_img_a1_c4adabfab423.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-07-30_india-resilient-coal-imports-and-the-new-market-for-australia_img_a1_c4adabfab423.png)
 
 An economic recovery living up to the expectations of the IMF is likely to see coal imports remaining strong, both for thermal and coking coal. The projected pick up in economic activity and industrial production is likely to fuel an increase in demand for electric power, which could drive the volumes of imported thermal coal higher during the second half of the year. The projected increase in steel production will also drive the Indian demand for coal higher, both for the coking coal used in the production process and the thermal coal as the increase in production will drive the electricity requirements higher.
 
@@ -42,14 +42,14 @@ The Indian market has so far proved to be a good alternative market for Australi
 ![A2](assets/2021-07-30_india-resilient-coal-imports-and-the-new-market-for-australia_img_a2_9f2a8e7493c6.png)
 
 > **Figure 2: A2**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2021/assets/2021-07-30_india-resilient-coal-imports-and-the-new-market-for-australia_img_a2_9f2a8e7493c6.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-07-30_india-resilient-coal-imports-and-the-new-market-for-australia_img_a2_9f2a8e7493c6.png)
 
 The ongoing diplomatic spat between China and Australia has not only altered the trade flows of coal, but also the deployment of vessel types. Previously, the Panamaxes were the most common tonnage for bringing coal to India, but in the last year, the crown has shifted to the Capesizes. Likewise, China’s increasing reliance on Indonesia for its seaborne coal imports have shifted the focus to Panamaxes in that trade.
 
 ![A3](assets/2021-07-30_india-resilient-coal-imports-and-the-new-market-for-australia_img_a3_d92dda798758.png)
 
 > **Figure 3: A3**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2021/assets/2021-07-30_india-resilient-coal-imports-and-the-new-market-for-australia_img_a3_d92dda798758.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-07-30_india-resilient-coal-imports-and-the-new-market-for-australia_img_a3_d92dda798758.png)
 
 ---
 

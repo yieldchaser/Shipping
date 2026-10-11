@@ -28,7 +28,7 @@ The dry bulk market is currently enjoying a renaissance, with spot rates at the 
 
 > **Figure 1: Front-Month Capesize Futures Minus Spot Brazil-China Spot Rates**  
 > *Front-month Capesize futures minus spot Brazil-China spot rates*  
-> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2021/1/11/ar4nqv0geb3d0on6zju7b9atkni2r6) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2021/assets/2021-03-08_in-dry-bulk-nothing-goes-straight-up_img_bdiseasonalitymar_492e39364205.jpg)
+> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2021/1/11/ar4nqv0geb3d0on6zju7b9atkni2r6) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-03-08_in-dry-bulk-nothing-goes-straight-up_img_bdiseasonalitymar_492e39364205.jpg)
 
 A lot has been said and[written](https://www.breakwaveadvisors.com/insights/2021/1/11/ar4nqv0geb3d0on6zju7b9atkni2r6)about the reasons for the recent rally in dry bulk, but as we look forward, the natural question for such a cyclical industry is what’s next.
 
@@ -42,14 +42,14 @@ For the larger Capesize ships, the supply and demand balance does not look favor
 
 > **Figure 2: Bloomberg Commodities Index**  
 > *Bloomberg Commodities Index*  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2021/assets/2021-03-08_in-dry-bulk-nothing-goes-straight-up_img_frontmonthtoc3_ff50d715ea7b.jpg)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-03-08_in-dry-bulk-nothing-goes-straight-up_img_frontmonthtoc3_ff50d715ea7b.jpg)
 
 Of course, one should not forget that the optimism of the freight futures market is also a reflection of the broader commodities space. After all, shipping and commodities go hand in hand. The Bloomberg Commodities Index has already had a decent move to say the least, although a big part of that has been the staggering rally in crude oil (~22% of the index is oil-related commodities). We are now back to the levels of mid-2018, which does not sound much, until one turns her attention to bulk commodities. There, iron ore, coal, industrial metals and grains are actually at multi-year highs, and way above the recent years.
 
 ![Bbg Commm Index (2)](assets/2021-03-08_in-dry-bulk-nothing-goes-straight-up_img_bbgcommmindex28229_9faad5c35e06.jpg)
 
 > **Figure 3: Bbg Commm Index (2)**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2021/assets/2021-03-08_in-dry-bulk-nothing-goes-straight-up_img_bbgcommmindex28229_9faad5c35e06.jpg)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-03-08_in-dry-bulk-nothing-goes-straight-up_img_bbgcommmindex28229_9faad5c35e06.jpg)
 
 Furthermore, if one looks at seasonality, the Baltic Dry Index tends to briefly peak around mid-March, as the South America’s grain season program winds down, while Capesize seasonality does not kick in until later in May or early in June (see first chart above). Again, this time might definitely be different given the unprecedented fundamental drivers following the pandemic, but the current setup seems to have run its course for now, and although any correction will be shallow, it would still bring both spot and futures rates lower.
 

@@ -38,6 +38,20 @@ When the trend was up for Suezmaxes, The rate spread was narrow and stable.
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: Suezmaxes Moving Out of West Africa](../../../charts/poten/2004/poten_2004-11-01_suezmaxes-moving-out-of-west-africa_chart1.png)
+> **Chart on PDF page 1: # Suezmax & Vlcc Fixtures ex-West Africa**  
+> Unit: # Fixtures · X-axis: 1999 to 2004  
+> Series: VLCC, Suezmax  
+> *Source: Poten & Partners*  
+> *No image crop of this chart was saved; caption read from the PDF.*
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2004/poten_2004-11-01_suezmaxes-moving-out-of-west-africa_chart1.png)
+> **Chart on PDF page 2: % Share Vlccs for:**  
+> Unit: % · X-axis: 1999 to 2004  
+> Series: All Fixtures, Fixtures to Asia, Fixtures to US  
+> *Source: Poten & Partners*  
+> *No image crop of this chart was saved; caption read from the PDF.*
+
+> **Chart on PDF page 3: WS Point Spread Suezmax vs VLCC West Africa to U.S.**  
+> Unit: WS Points · X-axis: Jan-01 to Jul-04  
+> Series: WS Point Spread, Average 32 WS Points  
+> *Source: Poten & Partners*  
+> *No image crop of this chart was saved; caption read from the PDF.*

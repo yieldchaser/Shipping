@@ -30,10 +30,17 @@ The stark reduction in slots will push many of the tramp vessels (including tank
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: A Watershed Moment For The Canal](../../../charts/poten/2023/poten_2023-11-03_a-watershed-moment-for-the-canal_chart1.png)
+![Exhibit 1: Gatun Lake Water Level](../../../charts/poten/2023/poten_2023-11-03_a-watershed-moment-for-the-canal_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2023/poten_2023-11-03_a-watershed-moment-for-the-canal_chart1.png)
+> **Exhibit 1: Gatun Lake Water Level**  
+> Unit: Feet · X-axis: Jan to Dec  
+> Series: 5 Year Range, 2023, 2023 Forecast  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2023/poten_2023-11-03_a-watershed-moment-for-the-canal_chart1.png)
 
-![Exhibit 2: A Watershed Moment For The Canal](../../../charts/poten/2023/poten_2023-11-03_a-watershed-moment-for-the-canal_chart2.png)
+![Exhibit 2: 2022 Average Daily Panama Canal Transits](../../../charts/poten/2023/poten_2023-11-03_a-watershed-moment-for-the-canal_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2023/poten_2023-11-03_a-watershed-moment-for-the-canal_chart2.png)
+> **Exhibit 2: 2022 Average Daily Panama Canal Transits**  
+> Unit: Daily Transits · X-axis: Container to General Cargo  
+> Series: Panamax Locks, Neopanamax Locks  
+> *Source: Panama Canal Authority*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2023/poten_2023-11-03_a-watershed-moment-for-the-canal_chart2.png)

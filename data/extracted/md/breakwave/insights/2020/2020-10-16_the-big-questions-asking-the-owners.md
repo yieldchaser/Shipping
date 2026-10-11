@@ -30,17 +30,17 @@ When asked about the drivers of this volatility, Stamatis Tsantanis, CEO of Sean
 
 Mr Tsantanis argued that demand for iron ore has remained strong throughout this year, on the back of a relatively quick economic recovery in China. However supply issues in Brazil earlier in the year hit earnings in the first half of 2020, with ships at times seeing negative TCEs. Once these issues were resolved, he continued, we saw a rapid correction in rates.
 
-![Bmr 22](assets/2020-10-16_the-big-questions-asking-the-owners_img_bmr22_3f3c363a952c.png)
+![Bmr 22](../../../../../../corpus/03-breakwave/insights/2020/assets/2020-10-16_the-big-questions-asking-the-owners_img_bmr22_3f3c363a952c.png)
 
 > **Figure 1: Bmr 22**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2020/assets/2020-10-16_the-big-questions-asking-the-owners_img_bmr22_3f3c363a952c.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2020/assets/2020-10-16_the-big-questions-asking-the-owners_img_bmr22_3f3c363a952c.png)
 
 We asked Ulrik Uhrenfeldt Andersen CEO of Golden Ocean, what owners have been doing to manage this volatility. He said that a balanced chartering approach was necessary to navigate these swings, taking long-term coverage where possible during weak periods, while keeping a portion of the fleet trading in the spot market to maintain exposure to the upswings.
 
-![Bmr 21](assets/2020-10-16_the-big-questions-asking-the-owners_img_bmr21_1c45ddd5ef68.png)
+![Bmr 21](../../../../../../corpus/03-breakwave/insights/2020/assets/2020-10-16_the-big-questions-asking-the-owners_img_bmr21_1c45ddd5ef68.png)
 
 > **Figure 2: Bmr 21**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2020/assets/2020-10-16_the-big-questions-asking-the-owners_img_bmr21_1c45ddd5ef68.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2020/assets/2020-10-16_the-big-questions-asking-the-owners_img_bmr21_1c45ddd5ef68.png)
 
 ### Demand Prospects
 
@@ -76,10 +76,10 @@ A likely outcome, he continued, would be some kind of carbon tax. This would dif
 
 The overarching theme of the discussion was that extreme uncertainty is keeping investors away from shipyards. Contracting over the past couple of years has been extremely limited, and in dwt terms, the orderbook now represents just 7% of the trading fleet.
 
-![Bmr 20](assets/2020-10-16_the-big-questions-asking-the-owners_img_bmr20_eaf582183674.png)
+![Bmr 20](../../../../../../corpus/03-breakwave/insights/2020/assets/2020-10-16_the-big-questions-asking-the-owners_img_bmr20_eaf582183674.png)
 
 > **Figure 3: Bmr 20**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2020/assets/2020-10-16_the-big-questions-asking-the-owners_img_bmr20_eaf582183674.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2020/assets/2020-10-16_the-big-questions-asking-the-owners_img_bmr20_eaf582183674.png)
 
 All of the panellists agreed that this trend would continue, keeping supply growth relatively limited over the next few years, and that expensive exotic fuels would act as a barrier to entry for investors looking to renew fleets. Combined with a gradual economic recovery over the next couple of years, this should help to get dry bulk supply and demand back into balance.
 

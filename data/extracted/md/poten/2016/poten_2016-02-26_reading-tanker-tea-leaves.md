@@ -36,4 +36,4 @@ Chinese imports will add about 514 Bn TM but these gains are largely offset by a
 
 ![Exhibit 1: Reading Tanker Tea Leaves](../../../charts/poten/2016/poten_2016-02-26_reading-tanker-tea-leaves_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2016/poten_2016-02-26_reading-tanker-tea-leaves_chart1.png)
+> **Interactive Asset:** [Local Asset (200 DPI PNG)](../../../charts/poten/2016/poten_2016-02-26_reading-tanker-tea-leaves_chart1.png)

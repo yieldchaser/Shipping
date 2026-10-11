@@ -32,7 +32,7 @@ tags:
 
 > **Figure 1: Https://app.signalocean.com/dry/dynamic/panamaxinsightsdownloadable**  
 > *https://app.signalocean.com/dry/dynamic/panamax_insights_downloadable*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/dry-week-04-2025) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6790e63469ccdc2c2e679b46_AD_4nXfM6UtTeoBWci3T6jW7eqMGQaGW4BPJKc5GYbYbE1pLrPfhRTxmU5GYDw1CJorgtGg2HhMXAusBB9d3BDSFvGMAOWw1I1ke7vNfbn8qLg37nyLxLEutPSvnF75A-lM7Sk5MAlDuIQ.avif)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/dry-week-04-2025) | [Local Asset](../../../../../../corpus/07-signal/images/6790e63469ccdc2c2e679b46_AD_4nXfM6UtTeoBWci3T6jW7eqMGQaGW4BPJKc5GYbYbE1pLrPfhRTxmU5GYDw1CJorgtGg2HhMXAusBB9d3BDSFvGMAOWw1I1ke7vNfbn8qLg37nyLxLEutPSvnF75A-lM7Sk5MAlDuIQ.avif)
 
 As January draws to a close, the Capesize Brazil–North China freight market maintains a relatively stable sentiment. Although highs have yet to be achieved, the market remains steady. In contrast, the Panamax Continent–Far East route shows weaker sentiment, weighed down by an oversupply of tonnage that continues to depress freight rates. Shifting focus to the ECSA market for the Panamax vessel size category, there has been a notable surge in the number of ballasters. Meanwhile, the P6 route has plummeted to record lows, revisiting the bottom levels seen in mid-February 2023.
 

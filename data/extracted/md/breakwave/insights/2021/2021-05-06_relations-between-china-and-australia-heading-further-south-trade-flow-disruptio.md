@@ -25,7 +25,7 @@ source_file: "corpus/03-breakwave/insights/2021/2021-05-06_relations-between-chi
 ![Australia China](assets/2021-05-06_relations-between-china-and-australia-heading-further-south-trade-flow-disruptio_img_australiachina_ef1989f91ba4.jpg)
 
 > **Figure 1: Australia China**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2021/assets/2021-05-06_relations-between-china-and-australia-heading-further-south-trade-flow-disruptio_img_australiachina_ef1989f91ba4.jpg)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-05-06_relations-between-china-and-australia-heading-further-south-trade-flow-disruptio_img_australiachina_ef1989f91ba4.jpg)
 
 When one thinks that things can not get much worse, there is usually considerable scope for matters to deteriorate even further. The Chinese government announced today that it is indefinitely suspending all activities under the China-Australia Strategic Economic Dialogue, which puts further strain on the already fractured relationship between the two nations. While the development is essentially symbolic, ministers have not convened under the scheme for almost four years, it probably serves as a strong indicator that any immediate rapprochement between the two countries should be seen as highly unlikely.
 
@@ -38,7 +38,7 @@ As mentioned in Ocean Analytics’ previous Insights contribution, the number of
 ![Ulf 3a](assets/2021-05-06_relations-between-china-and-australia-heading-further-south-trade-flow-disruptio_img_ulf3a_cfdda753b60f.png)
 
 > **Figure 2: Ulf 3a**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2021/assets/2021-05-06_relations-between-china-and-australia-heading-further-south-trade-flow-disruptio_img_ulf3a_cfdda753b60f.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-05-06_relations-between-china-and-australia-heading-further-south-trade-flow-disruptio_img_ulf3a_cfdda753b60f.png)
 
 It has often been said, trade disruptions and inefficiencies are frequently good news for the shipping sector, with cargoes having to travel further afield and tying up tonnage for longer. The diplomatic positions between China and Australia look rather entrenched and a solution does not look forthcoming. Trade flows between the two countries look set to remain under pressure for the foreseeable future and, given the volumes of dry bulk cargoes involved, it will lend support to the already high freight rates, as the alternative, and often more distant, sources and markets are developed.
 

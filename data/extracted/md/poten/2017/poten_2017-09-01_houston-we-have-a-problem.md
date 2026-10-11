@@ -34,8 +34,8 @@ When the USG ports fully reopen (sometime next week), refineries come back on st
 
 ![Exhibit 1: Houston We Have A Problem](../../../charts/poten/2017/poten_2017-09-01_houston-we-have-a-problem_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2017/poten_2017-09-01_houston-we-have-a-problem_chart1.png)
+> **Interactive Asset:** [Local Asset (200 DPI PNG)](../../../charts/poten/2017/poten_2017-09-01_houston-we-have-a-problem_chart1.png)
 
 ![Exhibit 2: Houston We Have A Problem](../../../charts/poten/2017/poten_2017-09-01_houston-we-have-a-problem_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2017/poten_2017-09-01_houston-we-have-a-problem_chart2.png)
+> **Interactive Asset:** [Local Asset (200 DPI PNG)](../../../charts/poten/2017/poten_2017-09-01_houston-we-have-a-problem_chart2.png)

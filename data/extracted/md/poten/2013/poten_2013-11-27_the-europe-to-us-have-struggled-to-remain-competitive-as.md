@@ -60,4 +60,4 @@ products offered by our Marine Projects & Consulting department or to contact ou
 
 ![Exhibit 1: the Europe to US have struggled to remain competitive as high Brent prices have impaired outlook is bleak, profitability resulting in fewer product exports.  There are currently 748,000 bbls/d driving down rates for of refinery capacity that is either for sale or under strategic review (i.e. facing possible closure). Since 2009, approximately 7% of European refineries have Atlantic Coast benchmark. closed, and Bloomberg notes that there is still a 15% overcapacity in the market,](../../../charts/poten/2013/poten_2013-11-27_the-europe-to-us-have-struggled-to-remain-competitive-as_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2013/poten_2013-11-27_the-europe-to-us-have-struggled-to-remain-competitive-as_chart1.png)
+> **Interactive Asset:** [Local Asset (200 DPI PNG)](../../../charts/poten/2013/poten_2013-11-27_the-europe-to-us-have-struggled-to-remain-competitive-as_chart1.png)

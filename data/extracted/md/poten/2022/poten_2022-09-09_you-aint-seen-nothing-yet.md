@@ -30,10 +30,18 @@ On top this European "stimulus", Russia will try to find alternative customers f
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: You Aint Seen Nothing Yet](../../../charts/poten/2022/poten_2022-09-09_you-aint-seen-nothing-yet_chart1.png)
+![Exhibit 1: Seaborne Crude Oil Import Volumes to Europe by Origin](../../../charts/poten/2022/poten_2022-09-09_you-aint-seen-nothing-yet_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2022/poten_2022-09-09_you-aint-seen-nothing-yet_chart1.png)
+> **Exhibit 1: Seaborne Crude Oil Import Volumes to Europe by Origin**  
+> Unit: TonMiles (Mln) per Day · X-axis: Jan-17 to Jul-22  
+> Series: Russia (Balt), Russia (B Sea), Oth. UKC/Balt, Oth. Med, US Gulf, Oth. Americas Atl., W. Africa, Middle East, Other  
+> *Source: Lloyd’s List Intelligence*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2022/poten_2022-09-09_you-aint-seen-nothing-yet_chart1.png)
 
-![Exhibit 2: You Aint Seen Nothing Yet](../../../charts/poten/2022/poten_2022-09-09_you-aint-seen-nothing-yet_chart2.png)
+![Exhibit 2: Seaborne Crude Oil Imports To Europe By Vessel Class](../../../charts/poten/2022/poten_2022-09-09_you-aint-seen-nothing-yet_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2022/poten_2022-09-09_you-aint-seen-nothing-yet_chart2.png)
+> **Exhibit 2: Seaborne Crude Oil Imports To Europe By Vessel Class**  
+> Unit: TonMiles (Mln) per Day · X-axis: Jan-17 to Jul-22  
+> Series: VLCC, Suezmax, Aframax, Other  
+> *Source: Lloyd’s List Intelligence*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2022/poten_2022-09-09_you-aint-seen-nothing-yet_chart2.png)

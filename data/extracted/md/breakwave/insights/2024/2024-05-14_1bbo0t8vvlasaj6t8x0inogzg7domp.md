@@ -24,10 +24,10 @@ Supply side issues were the focus for energy and metals markets. The prospect of
 
 *By*[*Daniel Hynes*](https://www.linkedin.com/in/dahynes/)
 
-![Στιγμιότυπο Οθόνης 2024 05 14 140651](assets/2024-05-14_1bbo0t8vvlasaj6t8x0inogzg7domp_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_d5549b83968e.png)
+![Στιγμιότυπο Οθόνης 2024 05 14 140651](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-05-14_1bbo0t8vvlasaj6t8x0inogzg7domp_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_d5549b83968e.png)
 
 > **Figure 1: Στιγμιότυπο Οθόνης 2024 05 14 140651**  
-> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-05-14_1bbo0t8vvlasaj6t8x0inogzg7domp_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_d5549b83968e.png)
+> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-05-14_1bbo0t8vvlasaj6t8x0inogzg7domp_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_d5549b83968e.png)
 
 ### Market Commentary
 
@@ -41,10 +41,10 @@ Supply side issues were the focus for energy and metals markets. The prospect of
 
 **Gold**pulled back from a three-week high amidst ongoing inflationary pressures. The Fed’s Lorie Logan said it’s still too early to think about reducing rates, while Michelle Bowman said she doesn’t expect it will be appropriate to cut rates in 2024. However, a potential slowdown in the US economy could force the Fed’s hand. A report showed that US consumer sentiment declined to a six-month low, suggesting key parts of the economy are cooling.
 
-![Στιγμιότυπο Οθόνης 2024 05 14 140723](assets/2024-05-14_1bbo0t8vvlasaj6t8x0inogzg7domp_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_d1fb4194561e.png)
+![Στιγμιότυπο Οθόνης 2024 05 14 140723](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-05-14_1bbo0t8vvlasaj6t8x0inogzg7domp_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_d1fb4194561e.png)
 
 > **Figure 2: Στιγμιότυπο Οθόνης 2024 05 14 140723**  
-> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-05-14_1bbo0t8vvlasaj6t8x0inogzg7domp_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_d1fb4194561e.png)
+> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-05-14_1bbo0t8vvlasaj6t8x0inogzg7domp_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_d1fb4194561e.png)
 
 Data source:[Commodities Wrap](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI)
 

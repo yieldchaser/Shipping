@@ -20,20 +20,23 @@ OPEC crude oil production and, in particular the cartel's exports, are an import
 
 The 2.2 Mb/d production cuts were agreed by Saudi Arabia, Russia, Iraq, UAE, Kuwait, Kazakhstan, Algeria and Oman. These cuts, which were initially meant to end by March 2024, were extended several times. The eight members of OPEC decided to finally unwind these cuts earlier this year. They officially started increasing their quotas in April 2025 by 137,000 b/d, followed by three monthly increases of 411,000 b/d (May, June, July) and two monthly increases of 548,000 b/d. On the surface, this rollback looks like great news for the tanker market (in particular for VLCCs who dominate the oil trade out of the Middle East).
 
-However, there is a big difference between quotas, production and exports. [Chart 1](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2025/poten_2025-08-08_opec-remains-opaque_chart1.png) illustrates that perfectly. It shows the quota increases for the period April - July 2025, as per the schedule outlined in the previous paragraph. However, the changes in production over this period were very different. Minimal in April, a decline(!) in May and then a huge increase in June. These monthly production changes seem to have no correlation whatsoever with the quotas. There are explanations for many of these variations. Some countries are producing below their quota because they overproduced in the past, others don't have any capacity to boost production (i.e. they cannot reach their quota). Some countries are producing well above their quota. Kazakhstan claims that they have no control over their production, which is largely managed by international oil companies. The Saudi's boosted production in June during the Israel - Iran conflict to relocate supplies outside of the region. It appears that they cut back again in July to compensate.
+However, there is a big difference between quotas, production and exports. [Chart 1](../../../charts/poten/2025/poten_2025-08-08_opec-remains-opaque_chart1.png) illustrates that perfectly. It shows the quota increases for the period April - July 2025, as per the schedule outlined in the previous paragraph. However, the changes in production over this period were very different. Minimal in April, a decline(!) in May and then a huge increase in June. These monthly production changes seem to have no correlation whatsoever with the quotas. There are explanations for many of these variations. Some countries are producing below their quota because they overproduced in the past, others don't have any capacity to boost production (i.e. they cannot reach their quota). Some countries are producing well above their quota. Kazakhstan claims that they have no control over their production, which is largely managed by international oil companies. The Saudi's boosted production in June during the Israel - Iran conflict to relocate supplies outside of the region. It appears that they cut back again in July to compensate.
 
-> **Exhibit 1: OPEC Remains Opaque (Chart 1)**  
-> *Source: Poten & Partners*  
-> **Interactive Data & Source:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2025/poten_2025-08-08_opec-remains-opaque_chart1.png)
+> **Exhibit 1: OPEC-8: Change in Quota, Crude Production and Exports**  
+> Unit: Kb/d · X-axis: Apr-25 to Jul-25  
+> Series: Quota, Production, Exports  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2025/poten_2025-08-08_opec-remains-opaque_chart1.png)
 
-![Exhibit 1: OPEC Remains Opaque](../../../charts/poten/2025/poten_2025-08-08_opec-remains-opaque_chart1.png)
+![Exhibit 1: OPEC-8: Change in Quota, Crude Production and Exports](../../../charts/poten/2025/poten_2025-08-08_opec-remains-opaque_chart1.png)
 
-So, what does this mean for exports and the tanker market? Nobody knows, really. Vortexa data shows that the exports from the OPEC-8 countries that were part of the voluntary cuts declined in two of the four months since the unwinding of the cuts started. No surprise that the tanker market has not moved much since OPEC started to roll back voluntary cuts. Looking back a little further ([Chart 2](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2025/poten_2025-08-08_opec-remains-opaque_chart2.png)), does not show a clear trend either. Month-to-month changes have been up and down since January 2024.
+So, what does this mean for exports and the tanker market? Nobody knows, really. Vortexa data shows that the exports from the OPEC-8 countries that were part of the voluntary cuts declined in two of the four months since the unwinding of the cuts started. No surprise that the tanker market has not moved much since OPEC started to roll back voluntary cuts. Looking back a little further ([Chart 2](../../../charts/poten/2025/poten_2025-08-08_opec-remains-opaque_chart2.png)), does not show a clear trend either. Month-to-month changes have been up and down since January 2024.
 
-> **Exhibit 2: OPEC Remains Opaque (Chart 2)**  
-> *Source: Poten & Partners*  
-> **Interactive Data & Source:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2025/poten_2025-08-08_opec-remains-opaque_chart2.png)
+> **Exhibit 2: Monthly Change In Seaborne Crude Oil Exports From OPEC-8**  
+> Unit: Kb/d · X-axis: Jan-24 to Jul-25  
+> Series: Saudi Arabia, Russia (Excl CPC Blend), Iraq, United Arab Emirates, Kuwait, Kazakhstan (incl CPC Blend), Oman, Algeria, Total  
+> *Source: OPEC, IEA, Vortexa; Vortexa*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2025/poten_2025-08-08_opec-remains-opaque_chart2.png)
 
-![Exhibit 2: OPEC Remains Opaque](../../../charts/poten/2025/poten_2025-08-08_opec-remains-opaque_chart2.png)
+![Exhibit 2: Monthly Change In Seaborne Crude Oil Exports From OPEC-8](../../../charts/poten/2025/poten_2025-08-08_opec-remains-opaque_chart2.png)
 
 It is difficult to project what will happen for the remainder of 2025. Normal seasonal patterns typically show a pickup in seaborne exports in the fourth quarter. OPEC quotas will increase, but, as we explained above, this does not automatically translate into higher production and exports. If it does, however, the VLCC market could get a boost, especially since fleet growth is very limited.

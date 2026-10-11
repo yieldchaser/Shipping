@@ -28,7 +28,7 @@ The first few months of last year saw many parts of the Chinese economy severely
 
 > **Figure 1: Data Source: National Bureau of Statistics of China**  
 > *Data source: National Bureau of Statistics of China*  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2021/assets/2021-05-18_china-the-base-effects-are-easing-off_img_ulfmay18_1d50ff0240fe.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-05-18_china-the-base-effects-are-easing-off_img_ulfmay18_1d50ff0240fe.png)
 
 Although the industrial production was broadly in line with pundits’ expectations, the data for retail sales failed to impress. An expansion of 17.7 per cent fell well short of the consensus projection of 25 per cent, highlighting the difference between the export and stimulus-driven manufacturing industry and the domestic consumption. The consumers have so far failed to return to their spending habits of recent years, with the continued uncertainty regarding the pandemic and sluggish income growth weighing on sentiment. There are some early signs of a tightening labour market, which could lead to stronger consumer spending in the coming months.
 
@@ -37,7 +37,7 @@ The continued strength of the Chinese industrial production suggests that China 
 ![Unsplash Image Lh Q8dbkgz0](assets/2021-05-18_china-the-base-effects-are-easing-off_img_unsplash-image-lh-q8dbkgz0_6e05ddc62797.jpg)
 
 > **Figure 2: Unsplash Image Lh Q8dbkgz0**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2021/assets/2021-05-18_china-the-base-effects-are-easing-off_img_unsplash-image-lh-q8dbkgz0_6e05ddc62797.jpg)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-05-18_china-the-base-effects-are-easing-off_img_unsplash-image-lh-q8dbkgz0_6e05ddc62797.jpg)
 
 Recent attempts by the Chinese authorities to rein in the flourishing manufacturing sector, with steel production becoming an early target, appears to have had a neglible effect so far. Despite moves to impose stricter environmental oversight and changes to the tax regime, crude steel output in April hit a new record of 97.9 million tonnes. The news pushed iron ore prices back above USD 200 per tonne, helped by the inventory levels in Chinese ports declining for a third consecutive week. Unless there is a lag in the effect of the measures to control the output, China may be on course for yet another year of record-breaking steel production with the year to date production is already approximately fifteen per cent ahead of last year’s.
 

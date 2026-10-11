@@ -35,10 +35,10 @@ Today, Artificial intelligence (AI) and machine learning (ML) technologies are e
 In a series of three articles focused on digital transformation, we describe how [The Signal Ocean Platform](/old/signal-ocean-platform) enables each of the key players of the commercial shipping market (the commercial operators, shipbrokers and charterers) to gain market intelligence while respecting and supporting the current processes, information flows and overall way of doing business.
 
 
-![Part 1: Commercial Operators](../../images/66b51f8b22b99415d77e4327_5fc15be53f2172d02a75e437_Digital%20Transformation%20in%20Commercial%20Shipping%20Commercial%20Operators%20v2.avif)
+![Part 1: Commercial Operators](../../images/66b51f8b22b99415d77e4327_5fc15be53f2172d02a75e437_Digital%2520Transformation%2520in%2520Commercial%2520Shipping%2520Commercial%2520Operators%2520v2.avif)
 
 > **Figure 1: Part 1: Commercial Operators**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/digital-transformation-ship-management-software) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/66b51f8b22b99415d77e4327_5fc15be53f2172d02a75e437_Digital%20Transformation%20in%20Commercial%20Shipping%20Commercial%20Operators%20v2.avif)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/digital-transformation-ship-management-software) | [Local Asset](../../../../../../corpus/07-signal/images/66b51f8b22b99415d77e4327_5fc15be53f2172d02a75e437_Digital%2520Transformation%2520in%2520Commercial%2520Shipping%2520Commercial%2520Operators%2520v2.avif)
 
 **Part 1 of 3: How Commercial Operators can leverage ship management software to increase efficiency and profitability**
 
@@ -56,20 +56,20 @@ Knowing how many vessels are available in each part of the world, how busy they 
 For commercial operators, Signal Ocean is a valuable tool that processes the large influx of unstructured information that operators receive daily, combines and cross-references it with additional data provided by the platform and runs it through advanced analytical algorithms that help users interpret and predict competitive market pressures in the global spot freight markets. For example, a commercial operator can monitor how the vessel supply is changing in the short-term and how the industry responds to those changes for multiple markets. Ultimately, this helps them decide the exact timing and the levels of their offers, while they are trying to complete a fixture of one of their vessels to a particular cargo.
 
 
-![The Predictive Nature of the Signal Ocean Shipping Platform Enables Users to See the Vessel Supply Trend](../../images/66b51f8b22b99415d77e431c_5fc15be53f21726bcc75e438_Market%20monitor%20dashboard%20-%20Signal%20ocean%20platform.avif)
+![The Predictive Nature of the Signal Ocean Shipping Platform Enables Users to See the Vessel Supply Trend](../../images/66b51f8b22b99415d77e431c_5fc15be53f21726bcc75e438_Market%2520monitor%2520dashboard%2520-%2520Signal%2520ocean%2520platform.avif)
 
 > **Figure 2: The Predictive Nature of the Signal Ocean Shipping Platform Enables Users to See the Vessel Supply Trend**  
 > *The predictive nature of the Signal Ocean shipping platform enables users to see the vessel supply trend. For example, the graph above shows a 10-day forward looking tanker supply for Aframax vessel class at loading port Houston, in the US Gulf. The red line shows how the local spot market is responding to those changes and on the right side you can see the relevant fixtures.*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/digital-transformation-ship-management-software) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/66b51f8b22b99415d77e431c_5fc15be53f21726bcc75e438_Market%20monitor%20dashboard%20-%20Signal%20ocean%20platform.avif)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/digital-transformation-ship-management-software) | [Local Asset](../../../../../../corpus/07-signal/images/66b51f8b22b99415d77e431c_5fc15be53f21726bcc75e438_Market%2520monitor%2520dashboard%2520-%2520Signal%2520ocean%2520platform.avif)
 
 Another example is that commercial operators can estimate daily profitability (TCE) by calculating profitability of future voyages in order to optimise how they deploy their fleet for maximum commercial efficiency. The advantage of this feature is that they not only can do this for their own vessels but also for any other competing vessel.
 
 
-![With Signal Ocean, Commercial Operators Automatically Obtain Comparisons of Alternative TCE Estimation Scenarios for Future Voyages and Work Out Which Cargo Makes Most Commercial Sense.](../../images/66b51f8b22b99415d77e432a_5fc15be53f2172a6b775e439_TCE%20comparison%20-%20Signal%20ocean%20platform.avif)
+![With Signal Ocean, Commercial Operators Automatically Obtain Comparisons of Alternative TCE Estimation Scenarios for Future Voyages and Work Out Which Cargo Makes Most Commercial Sense.](../../images/66b51f8b22b99415d77e432a_5fc15be53f2172a6b775e439_TCE%2520comparison%2520-%2520Signal%2520ocean%2520platform.avif)
 
 > **Figure 3: With Signal Ocean, Commercial Operators Automatically Obtain Comparisons of Alternative TCE Estimation Scenarios for Future Voyages and Work Out Which Cargo Makes Most Commercial Sense.**  
 > *With Signal Ocean, commercial operators automatically obtain comparisons of alternative TCE estimation scenarios for future voyages and work out which cargo makes most commercial sense.*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/digital-transformation-ship-management-software) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/66b51f8b22b99415d77e432a_5fc15be53f2172a6b775e439_TCE%20comparison%20-%20Signal%20ocean%20platform.avif)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/digital-transformation-ship-management-software) | [Local Asset](../../../../../../corpus/07-signal/images/66b51f8b22b99415d77e432a_5fc15be53f2172a6b775e439_TCE%2520comparison%2520-%2520Signal%2520ocean%2520platform.avif)
 
 In summary, shipping platforms and ship management software tools are making the commercial shipping sector more efficient. Technology is an enabler and a valuable tool which can be a gamechanger for shipping companies. Leveraging Signal Ocean, commercial operators can support and refine their view and feeling of the market through fast and powerful data analysis. Designed by the shipping industry for the shipping industry, Signal Ocean is accessible anywhere in the world via a web browser, and on desktop and mobile devices.
 

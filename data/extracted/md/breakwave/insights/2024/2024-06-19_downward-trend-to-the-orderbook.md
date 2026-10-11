@@ -30,15 +30,15 @@ In the case of VLCCs, as we mentioned earlier, orderbook is at 6%, which has pro
 
 On a general picture, we can see that dry bulk contracting has been lagging compared the two previous years, and only Capesize vessels have been somewhat above the previous two years, while in the other two mainstream sectors, Ultramax and Kamsarmax, vessel orders are significantly lower when considering the same periods. On tankers, data suggests that the increased contracting has been fueled by VLCCs and MRs.
 
-![Στιγμιότυπο Οθόνης 2024 06 19 104422](assets/2024-06-19_downward-trend-to-the-orderbook_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_c9c7478c3160.png)
+![Στιγμιότυπο Οθόνης 2024 06 19 104422](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-06-19_downward-trend-to-the-orderbook_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_c9c7478c3160.png)
 
 > **Figure 1: Στιγμιότυπο Οθόνης 2024 06 19 104422**  
-> **Interactive Data & Source:** [Intermodal](https://www.intermodal.gr/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-06-19_downward-trend-to-the-orderbook_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_c9c7478c3160.png)
+> **Interactive Data & Source:** [Intermodal](https://www.intermodal.gr/) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-06-19_downward-trend-to-the-orderbook_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_c9c7478c3160.png)
 
-![Στιγμιότυπο Οθόνης 2024 06 19 104440](assets/2024-06-19_downward-trend-to-the-orderbook_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_23e5d5507013.png)
+![Στιγμιότυπο Οθόνης 2024 06 19 104440](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-06-19_downward-trend-to-the-orderbook_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_23e5d5507013.png)
 
 > **Figure 2: Στιγμιότυπο Οθόνης 2024 06 19 104440**  
-> **Interactive Data & Source:** [Intermodal](https://www.intermodal.gr/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-06-19_downward-trend-to-the-orderbook_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_23e5d5507013.png)
+> **Interactive Data & Source:** [Intermodal](https://www.intermodal.gr/) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-06-19_downward-trend-to-the-orderbook_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_23e5d5507013.png)
 
 As far as the future is concerned, it is interesting to see whether owners will decide to splash the cash on new vessels that are now being contracted for 2027 and onwards delivery, or they will decide to refrain from newbuilding in an effort to keep supply muted and continue enjoy increased returns.
 

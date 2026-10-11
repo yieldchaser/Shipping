@@ -24,11 +24,11 @@ Steel flows slip into negative growth in April 2026
 
 ### Steel Tonne-Miles
 
-![Source: Seaborne Steel Flows Fromsignal Ocean](assets/2026-05-28_chinese-steel-flows-face-ongoing-and-new-headwinds_img_unnamed_0dc8f41d81e8.png)
+![Source: Seaborne Steel Flows Fromsignal Ocean](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-05-28_chinese-steel-flows-face-ongoing-and-new-headwinds_img_unnamed_0dc8f41d81e8.png)
 
 > **Figure 1: Source: Seaborne Steel Flows Fromsignal Ocean**  
 > *Source: Seaborne steel flows fromSignal Ocean*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://go.thesignalgroup.com/e/983831/dry-dynamic-drybulkflows/2s53x7/610643838/h/1gCtgv5JjdohqF0Q60VyCqS6jUwJY6kUOjGoMrWRVgw) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-05-28_chinese-steel-flows-face-ongoing-and-new-headwinds_img_unnamed_0dc8f41d81e8.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://go.thesignalgroup.com/e/983831/dry-dynamic-drybulkflows/2s53x7/610643838/h/1gCtgv5JjdohqF0Q60VyCqS6jUwJY6kUOjGoMrWRVgw) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-05-28_chinese-steel-flows-face-ongoing-and-new-headwinds_img_unnamed_0dc8f41d81e8.png)
 
 ### Key Takeaways
 
@@ -48,11 +48,11 @@ There was an increase in steel flows destined for Indonesia. The rise was close 
 
 ### Seaborne Steel Flows
 
-![Source: Chinese Steel Exports Fromsignal Ocean](assets/2026-05-28_chinese-steel-flows-face-ongoing-and-new-headwinds_img_unnamed28129_c13d8f4fe320.png)
+![Source: Chinese Steel Exports Fromsignal Ocean](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-05-28_chinese-steel-flows-face-ongoing-and-new-headwinds_img_unnamed28129_c13d8f4fe320.png)
 
 > **Figure 2: Source: Chinese Steel Exports Fromsignal Ocean**  
 > *Source: Chinese steel exports fromSignal Ocean*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://go.thesignalgroup.com/e/983831/dry-dynamic-drybulkflows/2s53x7/610643838/h/1gCtgv5JjdohqF0Q60VyCqS6jUwJY6kUOjGoMrWRVgw) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-05-28_chinese-steel-flows-face-ongoing-and-new-headwinds_img_unnamed28129_c13d8f4fe320.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://go.thesignalgroup.com/e/983831/dry-dynamic-drybulkflows/2s53x7/610643838/h/1gCtgv5JjdohqF0Q60VyCqS6jUwJY6kUOjGoMrWRVgw) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-05-28_chinese-steel-flows-face-ongoing-and-new-headwinds_img_unnamed28129_c13d8f4fe320.png)
 
 ## Near-Term Outlook Remains Challenging
 
@@ -62,10 +62,10 @@ Critically, a new domestic pressure point has emerged. The gas explosion at a co
 
 The net effect is a market caught between supply-side constraints and demand displacement. While Indonesia remains a relatively bright spot, underpinned by structural infrastructure demand, it is unlikely to absorb the broader volume shortfall. Barring a rapid de-escalation in the Hormuz corridor and a stabilisation in Chinese coal prices, seaborne steel flows are on track to remain in negative year-on-year territory well into Q3 2026.
 
-![Chinese Steel Exports](assets/2026-05-28_chinese-steel-flows-face-ongoing-and-new-headwinds_img_unnamed28229_84477265f5ac.png)
+![Chinese Steel Exports](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-05-28_chinese-steel-flows-face-ongoing-and-new-headwinds_img_unnamed28229_84477265f5ac.png)
 
 > **Figure 3: Chinese Steel Exports**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-05-28_chinese-steel-flows-face-ongoing-and-new-headwinds_img_unnamed28229_84477265f5ac.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-05-28_chinese-steel-flows-face-ongoing-and-new-headwinds_img_unnamed28229_84477265f5ac.png)
 
 ## China's Steel Exports Face Mounting Challenges
 

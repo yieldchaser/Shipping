@@ -86,6 +86,14 @@ With relatively limited tanker supply, any surge in demand usually contributes t
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: Clean Cuts](../../../charts/poten/2008/poten_2008-09-26_clean-cuts_chart1.png)
+> **Chart on PDF page 1: Aframaxes in the East**  
+> Unit: TCE ($/day) · X-axis: Aug-07 to Sep-08  
+> Series: AG - SEA (80kt) TCE, AG - FE (75kt) TCE - Clean Product  
+> *Source: Poten*  
+> *No image crop of this chart was saved; caption read from the PDF.*
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2008/poten_2008-09-26_clean-cuts_chart1.png)
+> **Chart on PDF page 2: Aframax Fleet by Type**  
+> Unit: Number of Ships · X-axis: 1981 to 2011  
+> Series: Crude Carrier, Product Carrier  
+> *Source: Poten*  
+> *No image crop of this chart was saved; caption read from the PDF.*

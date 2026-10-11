@@ -46,19 +46,19 @@ Indonesia remained the dominant thermal coal exporter in January– May 2025, sh
 
 South Africa continues to hold a leading position in global manganese ore exports, serving primarily the steelmaking industry. In 2024, it exported manganese ore valued at ZAR 56.6 billion, underscoring its strategic role in the global market. Meanwhile, in the bauxite trade, West Africa remains a key supplier led by Guinea, which exported 99.8 million tonnes in the first half of 2025, marking a 36% year-on-year increase. Driven by strong Chinese demand, Guinea is on track to reach approximately 199 million tonnes by year-end.
 
-![Στιγμιότυπο Οθόνης 2025 07 24 101351](assets/2025-07-24_from-coal-to-bauxite-africas-growing-role-in-chinas-dry-bulk-supply-chain_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_e76a91b997c5.png)
+![Στιγμιότυπο Οθόνης 2025 07 24 101351](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-07-24_from-coal-to-bauxite-africas-growing-role-in-chinas-dry-bulk-supply-chain_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_e76a91b997c5.png)
 
 > **Figure 1: Στιγμιότυπο Οθόνης 2025 07 24 101351**  
-> **Interactive Data & Source:** [Allied-shipbroking](https://www.allied-shipbroking.gr/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-07-24_from-coal-to-bauxite-africas-growing-role-in-chinas-dry-bulk-supply-chain_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_e76a91b997c5.png)
+> **Interactive Data & Source:** [Allied-shipbroking](https://www.allied-shipbroking.gr/) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-07-24_from-coal-to-bauxite-africas-growing-role-in-chinas-dry-bulk-supply-chain_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_e76a91b997c5.png)
 
 ### Guinea’s Bauxite Strength Faces Operational Headwinds
 
 Recent developments raise caution for Guinea’s bauxite outlook in the upcoming quarters. The military has suspended operations at several mining sites amid a regulatory crackdown, creating uncertainty for foreign operators. Additionally, with the wet season now underway, from May to October, peaking in July and August when rainfall in regions like Boké and Sangaredi averages 400–500 mm per month, inland transport and loading operations may face disruptions. Nevertheless, Guinea exported a record number of shipments, as mentioned before, in the first half of this year, but the operational and seasonal factors could curtail growth in the second half and impact bauxite supply to Chinese buyers.
 
-![Στιγμιότυπο Οθόνης 2025 07 24 101532](assets/2025-07-24_from-coal-to-bauxite-africas-growing-role-in-chinas-dry-bulk-supply-chain_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_02f830d3e921.png)
+![Στιγμιότυπο Οθόνης 2025 07 24 101532](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-07-24_from-coal-to-bauxite-africas-growing-role-in-chinas-dry-bulk-supply-chain_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_02f830d3e921.png)
 
 > **Figure 2: Στιγμιότυπο Οθόνης 2025 07 24 101532**  
-> **Interactive Data & Source:** [Allied-shipbroking](https://www.allied-shipbroking.gr/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-07-24_from-coal-to-bauxite-africas-growing-role-in-chinas-dry-bulk-supply-chain_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_02f830d3e921.png)
+> **Interactive Data & Source:** [Allied-shipbroking](https://www.allied-shipbroking.gr/) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-07-24_from-coal-to-bauxite-africas-growing-role-in-chinas-dry-bulk-supply-chain_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_02f830d3e921.png)
 
 Data Source:[Allied](https://www.allied-shipbroking.gr/)
 

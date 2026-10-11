@@ -78,6 +78,8 @@ Start of Year Fleet Change % Change 2005 439 12 3% 2006 462 23 5% 2007 478 16 3%
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: Riding the Wave](../../../charts/poten/2008/poten_2008-07-11_riding-the-wave_chart1.png)
-
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2008/poten_2008-07-11_riding-the-wave_chart1.png)
+> **Chart on PDF page 1: Weekly VLCC Spot Market Time Charter Equivalents**  
+> Unit: $/day · X-axis: Jan to Dec  
+> Series: 2005, 2007, 2008  
+> *Source: Poten & Partners*  
+> *No image crop of this chart was saved; caption read from the PDF.*

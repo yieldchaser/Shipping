@@ -29,7 +29,7 @@ The global energy crunch continues to evolve, with international competition for
 ![Ch1](assets/2021-10-05_surging-energy-prices-and-agricultural-commodities_img_ch1_6130a8831a0f.png)
 
 > **Figure 1: Ch1**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2021/assets/2021-10-05_surging-energy-prices-and-agricultural-commodities_img_ch1_6130a8831a0f.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-10-05_surging-energy-prices-and-agricultural-commodities_img_ch1_6130a8831a0f.png)
 
 Beyond rising energy costs in general, agricultural production and food prices could become collateral damage in the squeeze on energy. Both the production of fertilisers and the harvest processing could fall victim to increasing energy shortages and costs. The energy-intensive nature of synthetic fertiliser production will increase the costs. Additionally, curbs on electricity consumption will add to the shortages and push prices even higher. Increasing fertiliser outlays for the farmers could see a reduction in the use and yield smaller harvests. Increasing fertiliser prices could also tempt farmers to switch from wheat and corn to less fertiliser-intensive plants and further eroding the global supplies. The threat of tighter supplies has also contributed to wheat and corn prices edging higher in recent days. There are suggestions that soybean plantings could benefit, at the expense of nitrogen-heavy corn and wheat, for next year’s US growing season should fertilisers remain expensive.
 
@@ -38,7 +38,7 @@ Beyond rising energy costs in general, agricultural production and food prices c
 ![Ch2](assets/2021-10-05_surging-energy-prices-and-agricultural-commodities_img_ch2_c3c6f55eb5f3.png)
 
 > **Figure 2: Ch2**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2021/assets/2021-10-05_surging-energy-prices-and-agricultural-commodities_img_ch2_c3c6f55eb5f3.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-10-05_surging-energy-prices-and-agricultural-commodities_img_ch2_c3c6f55eb5f3.png)
 
 China faces a challenging harvest season against the backdrop of soaring energy prices and power shortages. The original expectation of growing production has come under threat, following concerns that the country may struggle to harvest crops, such as corn and soybeans. The autumn harvest in the world’s agricultural producer has begun as the country faces power shortages in many industrial centres. The northeastern provinces such as Jilin, Liaoning and Heilongjiang, where about half of China’s corn and soybeans are grown, are among the most affected by the power rationing. In recent weeks, several plants, such as soybean processors, had to shut, or reduce output, to conserve electricity. Any delays in the processing of the crops could also see a deterioration in quality and the raw material go to waste. The recent development is also likely to wreak havoc with the Chinese leadership’s ambitions for less reliance on imported food supplies as part of the dual-circulation policy.
 
@@ -49,14 +49,14 @@ On the other side of the Pacific, US farmers are facing different challenges. Th
 ![Ch3](assets/2021-10-05_surging-energy-prices-and-agricultural-commodities_img_ch3_2ac7854f36e2.png)
 
 > **Figure 3: Ch3**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2021/assets/2021-10-05_surging-energy-prices-and-agricultural-commodities_img_ch3_2ac7854f36e2.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-10-05_surging-energy-prices-and-agricultural-commodities_img_ch3_2ac7854f36e2.png)
 
 The last year has seen US agricultural exports to China surging. While the aggregate year to date numbers remain impressive, much of the shipments took place during the first quarter. During the last two quarters, monthly import volumes have remained stable at around 3.5 million tonnes. However, as the fourth quarter progress, it can be expected that the numbers will pick up as the new harvest reaches the Chinese ports. The disruptions in the US ports, combined with extensive congestion around the Chinese ports, may increase import volumes later than last year. There are also concerns that China is failing to live up to its commitments under the Phase One trade agreement, with the US Trade Representative, Katherine Tai, set to bring up the subject with Chinese Vice Premier Liu He. As of August, Chinese imports of US agricultural products were 30 billion dollars short of the full-year goal of 80 billion dollars.
 
 ![Ch4](assets/2021-10-05_surging-energy-prices-and-agricultural-commodities_img_ch4_f3d6ff31e7ab.png)
 
 > **Figure 4: Ch4**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2021/assets/2021-10-05_surging-energy-prices-and-agricultural-commodities_img_ch4_f3d6ff31e7ab.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-10-05_surging-energy-prices-and-agricultural-commodities_img_ch4_f3d6ff31e7ab.png)
 
 With less domestic production than expected as the energy crunch hits, Chinese seaborne imports of grains and oilseeds are likely to increase in the coming months. The renewed pressure from the US administration regarding the commitments under last year’s trade deal and the seasonal reduction in shipments from Brazil should benefit the US farmers. For dry bulk shipping, it will contribute to the continued tight supply situation, as the long distances involved ties up tonnage for extensive periods.
 

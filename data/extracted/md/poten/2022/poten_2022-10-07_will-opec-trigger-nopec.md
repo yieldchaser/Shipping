@@ -34,10 +34,18 @@ The ultimate impact on crude oil and product tankers is hard to predict. Less ou
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: Will OPEC Trigger NOPEC](../../../charts/poten/2022/poten_2022-10-07_will-opec-trigger-nopec_chart1.png)
+![Exhibit 1: OPEC+ Quotas and August Production](../../../charts/poten/2022/poten_2022-10-07_will-opec-trigger-nopec_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2022/poten_2022-10-07_will-opec-trigger-nopec_chart1.png)
+> **Exhibit 1: OPEC+ Quotas and August Production**  
+> Unit: Mb/d · X-axis: Algeria to South Sudan  
+> Series: August Output, Nov 22 To Dec 23 Quota  
+> *Source: OPEC, S&P Global*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2022/poten_2022-10-07_will-opec-trigger-nopec_chart1.png)
 
-![Exhibit 2: Will OPEC Trigger NOPEC](../../../charts/poten/2022/poten_2022-10-07_will-opec-trigger-nopec_chart2.png)
+![Exhibit 2: Seaborne Middle East OPEC Crude Exports by Load Country](../../../charts/poten/2022/poten_2022-10-07_will-opec-trigger-nopec_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2022/poten_2022-10-07_will-opec-trigger-nopec_chart2.png)
+> **Exhibit 2: Seaborne Middle East OPEC Crude Exports by Load Country**  
+> Unit: Kbbl / Day | TCE ($/day) · X-axis: Jan-17 to Oct-22  
+> Series: Saudi Arabia, Iraq, UAE, Kuwait, Iran, VLCC TCE (M East - FE)  
+> *Source: Poten & Partners, Lloyd’s List Intelligence*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2022/poten_2022-10-07_will-opec-trigger-nopec_chart2.png)

@@ -20,10 +20,10 @@ source_file: "corpus/03-breakwave/insights/2025/2025-11-28_the-shipping-impact-o
 
 ---
 
-![Rgb Color Brs Shipbrokers Monogram L](assets/2025-11-28_the-shipping-impact-of-simandous-commissioning_img_rgb-color-brs-shipbrokers-monogram-l_c365f35f1de5.png)
+![Rgb Color Brs Shipbrokers Monogram L](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-11-28_the-shipping-impact-of-simandous-commissioning_img_rgb-color-brs-shipbrokers-monogram-l_c365f35f1de5.png)
 
 > **Figure 1: Rgb Color Brs Shipbrokers Monogram L**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-11-28_the-shipping-impact-of-simandous-commissioning_img_rgb-color-brs-shipbrokers-monogram-l_c365f35f1de5.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-11-28_the-shipping-impact-of-simandous-commissioning_img_rgb-color-brs-shipbrokers-monogram-l_c365f35f1de5.png)
 
 In mid-November, the Guinean Port of Morebaya held the commissioning ceremony for the Simandou iron ore project, marking the mine’s official launch. Baowu Group reported that the $20 billion project integrates mining, rail, and port facilities. In mid-October, the first batches of ore were transported via the Trans-Guinea Railway to the country’s western coast and delivered to Morebaya, the dedicated export terminal for Simandou. By 2030, around 120 mln mt of iron ore is scheduled to be shipped from Simandou each year, mainly to China. Following the ceremony, a self-propelled barge loaded with 9,850 tonnes of ore sailed to a Newcastlemax waiting offshore, marking the very first transshipment via the floating unit Winning Simandou 1.
 
@@ -31,10 +31,10 @@ In mid-November, the Guinean Port of Morebaya held the commissioning ceremony fo
 
 As illustrated in the accompanying chart, Chinese seaborne iron ore imports have averaged around 1.19 billion tonnes over the past five years, with a record 1.24 billion tons imported in 2024. Australia remains the dominant supplier, exporting 784 mln mt to China in 2024, accounting for approximately 63% of total imports. Brazil follows as the second-largest source with 278 mln mt, representing about 22%.
 
-![Στιγμιότυπο Οθόνης 2025 11 28 134215](assets/2025-11-28_the-shipping-impact-of-simandous-commissioning_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_ab571e4f0cab.png)
+![Στιγμιότυπο Οθόνης 2025 11 28 134215](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-11-28_the-shipping-impact-of-simandous-commissioning_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_ab571e4f0cab.png)
 
 > **Figure 2: Στιγμιότυπο Οθόνης 2025 11 28 134215**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-11-28_the-shipping-impact-of-simandous-commissioning_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_ab571e4f0cab.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-11-28_the-shipping-impact-of-simandous-commissioning_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_ab571e4f0cab.png)
 
 Beneath this seemingly steady pattern, the global iron ore supply landscape is shifting. New supply from West Africa led by Simandou is set to reshape the market in the coming years. Located in southeastern Guinea, Simandou contains one of the world’s largest high-quality open-pit hematite deposits. According to the Joint Ore Reserves Committee (JORC), the mine holds 2.4 billion tonnes of controlled and inferred reserves and an estimated total resource of nearly 5 billion tonnes, with an exceptionally high Fe content of 66–67 %.
 
@@ -50,10 +50,10 @@ Based on our assumption of 20 mln mt of exports next year, this would occupy app
 
 Based on this backdrop, the project is also creating a strategic expansion opportunity for Chinese shipowners. Notably, the Newcastlemax Winning Youth engaged in the first Simandou shipments belongs to Winning International Group, which owns a fleet of 56 vessels (53 Capesizes and 3 VLOCs). Through long-term time charter agreements, Winning now controls over 100 vessels, primarily hauling bauxite from West Africa. The group’s exports are expected to reach around 100 mln mt this year, including 80 mln mt from its equity mines. Furthermore, the Group has 10 VLOCs on order at Chinese shipyards with eight of these understood to be ordered specifically for Simandou and scheduled for delivery in 2026–2027. Indeed, Chinese owners have placed a significant amount of orders for VLOCs over recent years with these new units being used to service projects such as Simandou as China seeks to have more of its crucial dry bulk imports hauled by Chinese-controlled vessels.
 
-![Στιγμιότυπο Οθόνης 2025 11 28 134227](assets/2025-11-28_the-shipping-impact-of-simandous-commissioning_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_21beb25f3a6d.png)
+![Στιγμιότυπο Οθόνης 2025 11 28 134227](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-11-28_the-shipping-impact-of-simandous-commissioning_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_21beb25f3a6d.png)
 
 > **Figure 3: Στιγμιότυπο Οθόνης 2025 11 28 134227**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-11-28_the-shipping-impact-of-simandous-commissioning_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_21beb25f3a6d.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-11-28_the-shipping-impact-of-simandous-commissioning_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_21beb25f3a6d.png)
 
 Looking ahead, the commissioning of Simandou is likely to fundamentally support Capesize demand from 2026 onward. Moreover, any disruptions in loading operations in Guinea could lead to congestion, further bringing more uncertainties and volatilities into the shipping market.
 

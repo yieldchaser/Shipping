@@ -149,6 +149,27 @@ As more and more traders charter-in to build fleets of clean product carriers, t
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: King of the Clean Hill](../../../charts/poten/2007/poten_2007-01-19_king-of-the-clean-hill_chart1.png)
+> **Chart on PDF page 1: 2005 Total Fixtures - 4,858; 2006 Total Fixtures - 5,306**  
+> X-axis: Aframax to Small  
+> Series: 2005, 2006  
+> *No image crop of this chart was saved; caption read from the PDF.*
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2007/poten_2007-01-19_king-of-the-clean-hill_chart1.png)
+> **Chart on PDF page 2: Aframax**  
+> Unit: <u># of Fixtures</u> · X-axis: Vitol to SK  
+> Series: Vitol, Shell, Marubeni, Morgan Stanley, ST Shipping, Itochu, Clearlake, BP, CSSA, SK  
+> *No image crop of this chart was saved; caption read from the PDF.*
+
+> **Chart on PDF page 3: Panamax**  
+> Unit: # of Fixtures · X-axis: Vitol to Trafigura  
+> Series: # of Fixtures  
+> *No image crop of this chart was saved; caption read from the PDF.*
+
+> **Chart on PDF page 3: Handymax**  
+> Unit: # of Fixtures · X-axis: Citgo to Trafigura  
+> Series: # of Fixtures  
+> *No image crop of this chart was saved; caption read from the PDF.*
+
+> **Chart on PDF page 4: Small**  
+> Unit: # of Fixtures · X-axis: Lukoil to ExxonMobil  
+> Series: Lukoil, BP, Shell, Vitol, ST Shipping, Trafigura, Repsol, CSSA, Projector, ExxonMobil  
+> *No image crop of this chart was saved; caption read from the PDF.*

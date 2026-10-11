@@ -32,10 +32,18 @@ So, the circumstances are different, but the seeds for a recovery are there. 201
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: Looks Familiar](../../../charts/poten/2018/poten_2018-03-16_looks-familiar_chart1.png)
+![Exhibit 1: VLCC 270,000: Ras Tanura - Chiba](../../../charts/poten/2018/poten_2018-03-16_looks-familiar_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2018/poten_2018-03-16_looks-familiar_chart1.png)
+> **Exhibit 1: VLCC 270,000: Ras Tanura - Chiba**  
+> Unit: US$/day · X-axis: 1 to 51  
+> Series: 2018, 2017, 2016, 2015, 2014, 2013  
+> *Source: Poten*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2018/poten_2018-03-16_looks-familiar_chart1.png)
 
-![Exhibit 2: Looks Familiar](../../../charts/poten/2018/poten_2018-03-16_looks-familiar_chart2.png)
+![Exhibit 2: Change in Oil Production: OPEC vs USA](../../../charts/poten/2018/poten_2018-03-16_looks-familiar_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2018/poten_2018-03-16_looks-familiar_chart2.png)
+> **Exhibit 2: Change in Oil Production: OPEC vs USA**  
+> Unit: Mb/d · X-axis: 2008 to 2018  
+> Series: OPEC, USA  
+> *Source: IEA*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2018/poten_2018-03-16_looks-familiar_chart2.png)

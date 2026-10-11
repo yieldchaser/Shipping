@@ -34,10 +34,18 @@ In addition to more ton-mile demand, we may see more inefficiencies and lower fl
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: Expect The Unexpected](../../../charts/poten/2022/poten_2022-12-02_expect-the-unexpected_chart1.png)
+![Exhibit 1: 2022 Freight Rates (Scrubber Ships)](../../../charts/poten/2022/poten_2022-12-02_expect-the-unexpected_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2022/poten_2022-12-02_expect-the-unexpected_chart1.png)
+> **Exhibit 1: 2022 Freight Rates (Scrubber Ships)**  
+> Unit: TCE (USD/Day) · X-axis: Jan-22 to Nov-22  
+> Series: VLCC: AG-FE, Suezmax : WAF-UKC, Aframax: Car-USG  
+> *Source: Poten & Partners*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2022/poten_2022-12-02_expect-the-unexpected_chart1.png)
 
-![Exhibit 2: Expect The Unexpected](../../../charts/poten/2022/poten_2022-12-02_expect-the-unexpected_chart2.png)
+![Exhibit 2: Seaborne OPEC Crude Exports by Load Country](../../../charts/poten/2022/poten_2022-12-02_expect-the-unexpected_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2022/poten_2022-12-02_expect-the-unexpected_chart2.png)
+> **Exhibit 2: Seaborne OPEC Crude Exports by Load Country**  
+> Unit: Kbbl / Day · X-axis: Jan-17 to Oct-22  
+> Series: Saudi Arabia, Iraq, UAE, Other ME OPEC, Nigeria, Angola, Americas (Atl), Other  
+> *Source: Lloyd’s List Intelligence*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2022/poten_2022-12-02_expect-the-unexpected_chart2.png)

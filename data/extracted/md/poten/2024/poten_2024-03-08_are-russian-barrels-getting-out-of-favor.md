@@ -32,10 +32,17 @@ The Russians are trying to counter these developments by looking for alternative
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: Are Russian Barrels Getting Out Of Favor](../../../charts/poten/2024/poten_2024-03-08_are-russian-barrels-getting-out-of-favor_chart1.png)
+![Exhibit 1: Russian Crude Exports by Destination](../../../charts/poten/2024/poten_2024-03-08_are-russian-barrels-getting-out-of-favor_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2024/poten_2024-03-08_are-russian-barrels-getting-out-of-favor_chart1.png)
+> **Exhibit 1: Russian Crude Exports by Destination**  
+> Unit: Kb/d · X-axis: Jan-21 to Jan-24  
+> Series: China, India, Netherlands, Turkey, Italy, South Korea, Romania, Finland, Other  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2024/poten_2024-03-08_are-russian-barrels-getting-out-of-favor_chart1.png)
 
-![Exhibit 2: Are Russian Barrels Getting Out Of Favor](../../../charts/poten/2024/poten_2024-03-08_are-russian-barrels-getting-out-of-favor_chart2.png)
+![Exhibit 2: Russian Sokhol Crude Exports by Destination](../../../charts/poten/2024/poten_2024-03-08_are-russian-barrels-getting-out-of-favor_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2024/poten_2024-03-08_are-russian-barrels-getting-out-of-favor_chart2.png)
+> **Exhibit 2: Russian Sokhol Crude Exports by Destination**  
+> Unit: Kb/d · X-axis: Jan-21 to Jan-24  
+> Series: South Korea, China, India, Japan, United States, Thailand, Undetermined, Australia, Other  
+> *Source: Vortexa*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2024/poten_2024-03-08_are-russian-barrels-getting-out-of-favor_chart2.png)

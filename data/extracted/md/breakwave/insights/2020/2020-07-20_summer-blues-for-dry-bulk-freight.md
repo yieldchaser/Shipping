@@ -20,11 +20,11 @@ source_file: "corpus/03-breakwave/insights/2020/2020-07-20_summer-blues-for-dry-
 
 ---
 
-![Vale Is Scheduled to Release Quarterly Production Figures Later](assets/2020-07-20_summer-blues-for-dry-bulk-freight_img_ship18_12cd82abb0df.jpg)
+![Vale Is Scheduled to Release Quarterly Production Figures Later](../../../../../../corpus/03-breakwave/insights/2020/assets/2020-07-20_summer-blues-for-dry-bulk-freight_img_ship18_12cd82abb0df.jpg)
 
 > **Figure 1: Vale Is Scheduled to Release Quarterly Production Figures Later**  
 > *Vale is scheduled to release quarterly production figures later on Monday and investors will be keen to hear its take on the pandemic’s impact on operations. The miner has recently reiterated full-year guidance, acknowledging that it will have to accelerate output to meet targets.*  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2020/assets/2020-07-20_summer-blues-for-dry-bulk-freight_img_ship18_12cd82abb0df.jpg)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2020/assets/2020-07-20_summer-blues-for-dry-bulk-freight_img_ship18_12cd82abb0df.jpg)
 
 Following its peak just two weeks ago at ~34,000, the Capesize index has been in a correction mode loosing almost 10,000 in value, in the process dragging Panamax rates down and possibly even Supramax rates soon. The recent supply tightness in the Atlantic remains but the demand has now declined versus early July and thus the slowdown in fixing activity is pushing rates lower. Freight futures have been range-bound over the last week or so, still pricing further declines in spot rates for the rest of the year, an outcome that seems contradictory to broader shipping fundamentals.
 
@@ -36,11 +36,11 @@ As Bloomberg notes, for Vale, expectations are for an acceleration of production
 
 Indeed, most analysts remain bearish on iron ore due to increased supply in the second half of the year. Such a forecast contradicts freight expectations that call for lower rates for the rest of the year. With China’s steel production hitting record highs, up now 1.5% from 2019 and 5% in May alone, there is no reason why analysts predictions won’t be right, although the global pandemic remains a real risk.
 
-![China’ Crude Steel Output Over June Totalled 91](assets/2020-07-20_summer-blues-for-dry-bulk-freight_img_brazilironoreexports_9819ab9a28c3.png)
+![China’ Crude Steel Output Over June Totalled 91](../../../../../../corpus/03-breakwave/insights/2020/assets/2020-07-20_summer-blues-for-dry-bulk-freight_img_brazilironoreexports_9819ab9a28c3.png)
 
 > **Figure 2: China’ Crude Steel Output Over June Totalled 91**  
 > *China’ crude steel output over June totalled 91.6m tonnes, according to the latest official data.*  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2020/assets/2020-07-20_summer-blues-for-dry-bulk-freight_img_brazilironoreexports_9819ab9a28c3.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2020/assets/2020-07-20_summer-blues-for-dry-bulk-freight_img_brazilironoreexports_9819ab9a28c3.png)
 
 Braemar sees some softening in demand due to flooding in China, bur acknowledges the current strength in steel activity. Braemar notes:
 

@@ -43,10 +43,10 @@ While the implementation of this notice remains uncertain, the shipping ban is e
 
 ➔ Teapot refiners expect traders to absorb the additional costs of transferring oil to non-sanctioned tankers, as DES-Shandong cargos are already priced within their acceptable upper limit
 
-![Στιγμιότυπο Οθόνης 2025 01 16 121849](assets/2025-01-16_impact-of-ofac-sanctions-on-russia-trade-depends-on-chinas-response_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_e8d46aef282c.png)
+![Στιγμιότυπο Οθόνης 2025 01 16 121849](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-01-16_impact-of-ofac-sanctions-on-russia-trade-depends-on-chinas-response_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_e8d46aef282c.png)
 
 > **Figure 1: Στιγμιότυπο Οθόνης 2025 01 16 121849**  
-> **Interactive Data & Source:** [Vortexa](https://www.vortexa.com//oil-gas-data-traders-analysts-data-scientists?gclid=Cj0KCQjw8_qRBhCXARIsAE2AtRZKOvMnbilZ_6_91d7huSFFy71pWLrnPwGwOHVzXsmsG-1a1mZnQw8aAt89EALw_wcB&hsa_acc=1782073842&hsa_ad=548425387665&hsa_cam=14746637662&hsa_grp=125038601902&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_src=g&hsa_tgt=dsa-1431852288425&hsa_ver=3&utm_campaign=%5BCD%5D%20-%20DSA%20-%20EMEA&utm_medium=cpc&utm_medium=ppc&utm_source=google&utm_source=adwords&utm_term=) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-01-16_impact-of-ofac-sanctions-on-russia-trade-depends-on-chinas-response_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_e8d46aef282c.png)
+> **Interactive Data & Source:** [Vortexa](https://www.vortexa.com//oil-gas-data-traders-analysts-data-scientists?gclid=Cj0KCQjw8_qRBhCXARIsAE2AtRZKOvMnbilZ_6_91d7huSFFy71pWLrnPwGwOHVzXsmsG-1a1mZnQw8aAt89EALw_wcB&hsa_acc=1782073842&hsa_ad=548425387665&hsa_cam=14746637662&hsa_grp=125038601902&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_src=g&hsa_tgt=dsa-1431852288425&hsa_ver=3&utm_campaign=%5BCD%5D%20-%20DSA%20-%20EMEA&utm_medium=cpc&utm_medium=ppc&utm_source=google&utm_source=adwords&utm_term=) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-01-16_impact-of-ofac-sanctions-on-russia-trade-depends-on-chinas-response_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_e8d46aef282c.png)
 
 ## Clean – East of Suez: Lr Rates Surging on the Back of Increasing Naphtha Demand and Tightening Vessel Supply
 
@@ -64,10 +64,10 @@ The narrowing price differential between LPG and naphtha (Argus) has made naphth
 
 ➔ This should keep utilisation on TC1 and TC5 supported
 
-![Στιγμιότυπο Οθόνης 2025 01 16 122538](assets/2025-01-16_impact-of-ofac-sanctions-on-russia-trade-depends-on-chinas-response_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_dc423dcb0d39.png)
+![Στιγμιότυπο Οθόνης 2025 01 16 122538](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-01-16_impact-of-ofac-sanctions-on-russia-trade-depends-on-chinas-response_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_dc423dcb0d39.png)
 
 > **Figure 2: Στιγμιότυπο Οθόνης 2025 01 16 122538**  
-> **Interactive Data & Source:** [Vortexa](https://www.vortexa.com//oil-gas-data-traders-analysts-data-scientists?gclid=Cj0KCQjw8_qRBhCXARIsAE2AtRZKOvMnbilZ_6_91d7huSFFy71pWLrnPwGwOHVzXsmsG-1a1mZnQw8aAt89EALw_wcB&hsa_acc=1782073842&hsa_ad=548425387665&hsa_cam=14746637662&hsa_grp=125038601902&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_src=g&hsa_tgt=dsa-1431852288425&hsa_ver=3&utm_campaign=%5BCD%5D%20-%20DSA%20-%20EMEA&utm_medium=cpc&utm_medium=ppc&utm_source=google&utm_source=adwords&utm_term=) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-01-16_impact-of-ofac-sanctions-on-russia-trade-depends-on-chinas-response_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_dc423dcb0d39.png)
+> **Interactive Data & Source:** [Vortexa](https://www.vortexa.com//oil-gas-data-traders-analysts-data-scientists?gclid=Cj0KCQjw8_qRBhCXARIsAE2AtRZKOvMnbilZ_6_91d7huSFFy71pWLrnPwGwOHVzXsmsG-1a1mZnQw8aAt89EALw_wcB&hsa_acc=1782073842&hsa_ad=548425387665&hsa_cam=14746637662&hsa_grp=125038601902&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_src=g&hsa_tgt=dsa-1431852288425&hsa_ver=3&utm_campaign=%5BCD%5D%20-%20DSA%20-%20EMEA&utm_medium=cpc&utm_medium=ppc&utm_source=google&utm_source=adwords&utm_term=) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-01-16_impact-of-ofac-sanctions-on-russia-trade-depends-on-chinas-response_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_dc423dcb0d39.png)
 
 ## Dirty – West of Suez: Over 50% of the Russian-Trading Crude Fleet Now Under Sanctions, But Impact Depends on China’s Response
 
@@ -83,10 +83,10 @@ Alternatively, we might see Russia sourcing some older vessels to lift cargoes. 
 
 Most of the tankers sanctioned on Friday predominantly handle Russia Far East shipments to China. While Shandong has banned these sanctioned vessels, it remains to be seen how non-Shandong ports will respond to their presence.
 
-![Στιγμιότυπο Οθόνης 2025 01 16 122758](assets/2025-01-16_impact-of-ofac-sanctions-on-russia-trade-depends-on-chinas-response_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_5a734501bd9f.png)
+![Στιγμιότυπο Οθόνης 2025 01 16 122758](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-01-16_impact-of-ofac-sanctions-on-russia-trade-depends-on-chinas-response_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_5a734501bd9f.png)
 
 > **Figure 3: Στιγμιότυπο Οθόνης 2025 01 16 122758**  
-> **Interactive Data & Source:** [Vortexa](https://www.vortexa.com//oil-gas-data-traders-analysts-data-scientists?gclid=Cj0KCQjw8_qRBhCXARIsAE2AtRZKOvMnbilZ_6_91d7huSFFy71pWLrnPwGwOHVzXsmsG-1a1mZnQw8aAt89EALw_wcB&hsa_acc=1782073842&hsa_ad=548425387665&hsa_cam=14746637662&hsa_grp=125038601902&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_src=g&hsa_tgt=dsa-1431852288425&hsa_ver=3&utm_campaign=%5BCD%5D%20-%20DSA%20-%20EMEA&utm_medium=cpc&utm_medium=ppc&utm_source=google&utm_source=adwords&utm_term=) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-01-16_impact-of-ofac-sanctions-on-russia-trade-depends-on-chinas-response_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_5a734501bd9f.png)
+> **Interactive Data & Source:** [Vortexa](https://www.vortexa.com//oil-gas-data-traders-analysts-data-scientists?gclid=Cj0KCQjw8_qRBhCXARIsAE2AtRZKOvMnbilZ_6_91d7huSFFy71pWLrnPwGwOHVzXsmsG-1a1mZnQw8aAt89EALw_wcB&hsa_acc=1782073842&hsa_ad=548425387665&hsa_cam=14746637662&hsa_grp=125038601902&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_src=g&hsa_tgt=dsa-1431852288425&hsa_ver=3&utm_campaign=%5BCD%5D%20-%20DSA%20-%20EMEA&utm_medium=cpc&utm_medium=ppc&utm_source=google&utm_source=adwords&utm_term=) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-01-16_impact-of-ofac-sanctions-on-russia-trade-depends-on-chinas-response_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_5a734501bd9f.png)
 
 ## Clean – West of Suez: 139 Clean Tankers Sanctioned Since 2023, But Minimally Disruptive to Russia Cpp Trade
 
@@ -102,10 +102,10 @@ Despite a shrinking fleet trading Russian CPP, there has been limited disruption
 
 Ultimately, the size and growth trajectory of the fleet trading Russian CPP are driven more by market dynamics rather than fear of sanctions enforcement, which entices Western operators to participate when high tanker demand for Russian CPP exports is present
 
-![Στιγμιότυπο Οθόνης 2025 01 16 123024](assets/2025-01-16_impact-of-ofac-sanctions-on-russia-trade-depends-on-chinas-response_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_4721d7cd7b76.png)
+![Στιγμιότυπο Οθόνης 2025 01 16 123024](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-01-16_impact-of-ofac-sanctions-on-russia-trade-depends-on-chinas-response_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_4721d7cd7b76.png)
 
 > **Figure 4: Στιγμιότυπο Οθόνης 2025 01 16 123024**  
-> **Interactive Data & Source:** [Vortexa](https://www.vortexa.com//oil-gas-data-traders-analysts-data-scientists?gclid=Cj0KCQjw8_qRBhCXARIsAE2AtRZKOvMnbilZ_6_91d7huSFFy71pWLrnPwGwOHVzXsmsG-1a1mZnQw8aAt89EALw_wcB&hsa_acc=1782073842&hsa_ad=548425387665&hsa_cam=14746637662&hsa_grp=125038601902&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_src=g&hsa_tgt=dsa-1431852288425&hsa_ver=3&utm_campaign=%5BCD%5D%20-%20DSA%20-%20EMEA&utm_medium=cpc&utm_medium=ppc&utm_source=google&utm_source=adwords&utm_term=) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-01-16_impact-of-ofac-sanctions-on-russia-trade-depends-on-chinas-response_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_4721d7cd7b76.png)
+> **Interactive Data & Source:** [Vortexa](https://www.vortexa.com//oil-gas-data-traders-analysts-data-scientists?gclid=Cj0KCQjw8_qRBhCXARIsAE2AtRZKOvMnbilZ_6_91d7huSFFy71pWLrnPwGwOHVzXsmsG-1a1mZnQw8aAt89EALw_wcB&hsa_acc=1782073842&hsa_ad=548425387665&hsa_cam=14746637662&hsa_grp=125038601902&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_src=g&hsa_tgt=dsa-1431852288425&hsa_ver=3&utm_campaign=%5BCD%5D%20-%20DSA%20-%20EMEA&utm_medium=cpc&utm_medium=ppc&utm_source=google&utm_source=adwords&utm_term=) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-01-16_impact-of-ofac-sanctions-on-russia-trade-depends-on-chinas-response_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_4721d7cd7b76.png)
 
 Data Source:[Vortexa](https://www.vortexa.com//oil-gas-data-traders-analysts-data-scientists?gclid=Cj0KCQjw8_qRBhCXARIsAE2AtRZKOvMnbilZ_6_91d7huSFFy71pWLrnPwGwOHVzXsmsG-1a1mZnQw8aAt89EALw_wcB&hsa_acc=1782073842&hsa_ad=548425387665&hsa_cam=14746637662&hsa_grp=125038601902&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_src=g&hsa_tgt=dsa-1431852288425&hsa_ver=3&utm_campaign=%5BCD%5D%20-%20DSA%20-%20EMEA&utm_medium=cpc&utm_medium=ppc&utm_source=google&utm_source=adwords&utm_term=)
 

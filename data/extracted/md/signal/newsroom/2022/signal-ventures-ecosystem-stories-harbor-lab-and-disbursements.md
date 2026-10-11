@@ -30,11 +30,11 @@ The thread that runs through [Harbor Lab](https://harborlab.com/home) and all th
 This is certainly true for my company, Harbor Lab. Prior to setting up the business I worked for two major Greek shipping companies for more than seven years. During that time I realized how difficult it is for vessel charterers and operators to get a hold of accurate port tariff costs - a vital piece of information when calculating freight rates.
 
 
-![Harbor Lab’s Chief Executive, Antonis Malaxianakis](../../images/66b51e1d0ff31bc45d52a801_622b8f8a7b29d4e9269a65f4_antonis%20malaxianakisharbor%20lab.avif)
+![Harbor Lab’s Chief Executive, Antonis Malaxianakis](../../images/66b51e1d0ff31bc45d52a801_622b8f8a7b29d4e9269a65f4_antonis%2520malaxianakisharbor%2520lab.avif)
 
 > **Figure 1: Harbor Lab’s Chief Executive, Antonis Malaxianakis**  
 > *Harbor Lab’s Chief Executive, Antonis Malaxianakis*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/signal-ventures-ecosystem-stories-harbor-lab-and-disbursements) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/66b51e1d0ff31bc45d52a801_622b8f8a7b29d4e9269a65f4_antonis%20malaxianakisharbor%20lab.avif)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/signal-ventures-ecosystem-stories-harbor-lab-and-disbursements) | [Local Asset](../../../../../../corpus/07-signal/images/66b51e1d0ff31bc45d52a801_622b8f8a7b29d4e9269a65f4_antonis%2520malaxianakisharbor%2520lab.avif)
 
 Today, Harbor Lab’s analysts unravel matrices that determine individual ports’ tariffs and create the complex algorithms that drive our online DA (Disbursements Accounting) and Port Cost Estimator Tools. It’s driven by software that offers a transparent and time-efficient way of working instead of relying on paper-heavy and error-prone DA checking procedures that require manual resources. We use technology to uncover invisible costs, create a level playing field and speed up company processes.Similarly, Signal, through its Signal Maritime and Signal Ocean divisions, is using computer science to deliver efficiency and commercial advantage to its customers. With so many synergies between our two companies it makes sense for us to share our experiences and collaborate where possible, and I was delighted to be invited to connect with Signal Group as a [Signal Ventures](https://www.thesignalgroup.com/signal-ventures) Ecosystem Partner.
 

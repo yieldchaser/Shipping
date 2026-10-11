@@ -35,16 +35,16 @@ The growth in investments in fixed assets reached 3 percent, while the volume of
 
 Recent data indicates that the economy is entering 2024 on shaky footing, marked by persistent deflationary pressures. In December 2023, producer prices for industrial products declined by 2.7 percent year-on-year and 0.3 percent month-on-month. Purchasing prices for industrial producers also saw a year-on-year decrease of 3.8 percent and a month-on-month decrease of 0.2 percent. Over the entirety of 2023, producer prices for industrial products decreased by 3.0 percent compared to the previous year, and purchasing prices for industrial producers decreased by 3.6 percent. In parallel, the national Consumer Price Index (CPI) recorded a 0.3 percent year-onyear decrease in December 2023. Notably, prices for food, tobacco, and alcohol took a two-percent dive year-on-year. Within the food categories, the price for livestock meat saw a significant decline of 15.9 percent, contributing to a 0.56 percentage point decrease in the CPI, with the price for pork specifically dropping by 26.1 percent.
 
-![1](assets/2024-01-22_doric-weekly-market-insight_img_1_c182fa390415.png)
+![1](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-01-22_doric-weekly-market-insight_img_1_c182fa390415.png)
 
 > **Figure 1: 1**  
-> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-01-22_doric-weekly-market-insight_img_1_c182fa390415.png)
+> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-01-22_doric-weekly-market-insight_img_1_c182fa390415.png)
 
 Amidst a prolonged housing downturn, a soft job market and other challenges such as looming debt risks, consumers in the world's second largest economy have been tightening their purse strings lately, pushing prices down. Overall, this trend suggests that the accommodative policy environment has yet to translate into a sustained economic turnaround, potentially prompting a stronger call for supportive interventions looking forward. In stark contrast, the dry bulk spot market witnessed a sudden surge mid-week, leaving many participants wondering whether this was tied to a pre-holiday buying spree or a repetition of the unusually robust first quarter experienced in 2021.
 
-![2](assets/2024-01-22_doric-weekly-market-insight_img_2_264291d0c939.png)
+![2](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-01-22_doric-weekly-market-insight_img_2_264291d0c939.png)
 
 > **Figure 2: 2**  
-> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-01-22_doric-weekly-market-insight_img_2_264291d0c939.png)
+> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-01-22_doric-weekly-market-insight_img_2_264291d0c939.png)
 
 Data source:[Doric](https://www.doric.gr/)

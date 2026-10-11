@@ -64,6 +64,14 @@ Sharply rising clean cargo imports coupled with sharply rising freight costs hel
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: A Winter of Discontent](../../../charts/poten/2005/poten_2005-10-14_a-winter-of-discontent_chart1.png)
+> **Chart on PDF page 2: Tons Clean Cargo Shipped UKC-USAC**  
+> Unit: 000 Tons · X-axis: Jan-96 to Jan-05  
+> Series: Monthly shipments, Trend  
+> *Source: Poten & Partners*  
+> *No image crop of this chart was saved; caption read from the PDF.*
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2005/poten_2005-10-14_a-winter-of-discontent_chart1.png)
+> **Chart on PDF page 3: Shipping Costs 37,000 Ton Cargoes UKC-USAC**  
+> Unit: $/Bbl · X-axis: Jan-96 to Jan-05  
+> Series: Shipping Costs, Trend, Katrina-Rita Effect  
+> *Source: Poten & Partners*  
+> *No image crop of this chart was saved; caption read from the PDF.*

@@ -32,10 +32,10 @@ China’s imports of Iranian crude were estimated at near 1.5mbd in February, th
 
 However, Iranian crude flows are expected to decline in March amid subdued teapot demand.
 
-![Στιγμιότυπο Οθόνης 2025 03 11 120029](assets/2025-03-11_chinas-iranian-imports-rebound-while-russian-flows-wane_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_be72f148b7be.png)
+![Στιγμιότυπο Οθόνης 2025 03 11 120029](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-03-11_chinas-iranian-imports-rebound-while-russian-flows-wane_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_be72f148b7be.png)
 
 > **Figure 1: Στιγμιότυπο Οθόνης 2025 03 11 120029**  
-> **Interactive Data & Source:** [Analytics Vortexa](https://analytics.vortexa.com/Historical?dateRange=2025-01-01T00%3A00%3A00.000Z__2025-03-31T23%3A59%3A59.999Z&metric=t&movementEvent=unloading_start&page=Historical&tabId=0bbf96e8-e0ac-4e55-abb9-b77745cb51ab&v=3&vessels=%5B%225f898da6ead4d4933397ffdaaae7441f767facdc44b108b5b06a338409202a03%22%5D) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-03-11_chinas-iranian-imports-rebound-while-russian-flows-wane_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_be72f148b7be.png)
+> **Interactive Data & Source:** [Analytics Vortexa](https://analytics.vortexa.com/Historical?dateRange=2025-01-01T00%3A00%3A00.000Z__2025-03-31T23%3A59%3A59.999Z&metric=t&movementEvent=unloading_start&page=Historical&tabId=0bbf96e8-e0ac-4e55-abb9-b77745cb51ab&v=3&vessels=%5B%225f898da6ead4d4933397ffdaaae7441f767facdc44b108b5b06a338409202a03%22%5D) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-03-11_chinas-iranian-imports-rebound-while-russian-flows-wane_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_be72f148b7be.png)
 
 ## Chinese Oil Majors Scale Back Russian Crude Imports
 
@@ -47,10 +47,10 @@ This conservative stance has also dampened demand for other Russian crude grades
 
 Notably, January-loading Far East Sokol cargoes—transferred onto[a non-sanctioned VLCC](https://analytics.vortexa.com/Historical?dateRange=2025-01-01T00%3A00%3A00.000Z__2025-03-31T23%3A59%3A59.999Z&metric=t&movementEvent=unloading_start&page=Historical&tabId=0bbf96e8-e0ac-4e55-abb9-b77745cb51ab&v=3&vessels=%5B%225f898da6ead4d4933397ffdaaae7441f767facdc44b108b5b06a338409202a03%22%5D)via STS in Russia Far East —remain floating offshore Shandong awaiting orders.
 
-![Στιγμιότυπο Οθόνης 2025 03 11 120044](assets/2025-03-11_chinas-iranian-imports-rebound-while-russian-flows-wane_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_e1d6550cde17.png)
+![Στιγμιότυπο Οθόνης 2025 03 11 120044](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-03-11_chinas-iranian-imports-rebound-while-russian-flows-wane_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_e1d6550cde17.png)
 
 > **Figure 2: Στιγμιότυπο Οθόνης 2025 03 11 120044**  
-> **Interactive Data & Source:** [Vortexa](https://www.vortexa.com//oil-gas-data-traders-analysts-data-scientists?gclid=Cj0KCQjw8_qRBhCXARIsAE2AtRZKOvMnbilZ_6_91d7huSFFy71pWLrnPwGwOHVzXsmsG-1a1mZnQw8aAt89EALw_wcB&hsa_acc=1782073842&hsa_ad=548425387665&hsa_cam=14746637662&hsa_grp=125038601902&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_src=g&hsa_tgt=dsa-1431852288425&hsa_ver=3&utm_campaign=%5BCD%5D%20-%20DSA%20-%20EMEA&utm_medium=cpc&utm_medium=ppc&utm_source=google&utm_source=adwords&utm_term=) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-03-11_chinas-iranian-imports-rebound-while-russian-flows-wane_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_e1d6550cde17.png)
+> **Interactive Data & Source:** [Vortexa](https://www.vortexa.com//oil-gas-data-traders-analysts-data-scientists?gclid=Cj0KCQjw8_qRBhCXARIsAE2AtRZKOvMnbilZ_6_91d7huSFFy71pWLrnPwGwOHVzXsmsG-1a1mZnQw8aAt89EALw_wcB&hsa_acc=1782073842&hsa_ad=548425387665&hsa_cam=14746637662&hsa_grp=125038601902&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_src=g&hsa_tgt=dsa-1431852288425&hsa_ver=3&utm_campaign=%5BCD%5D%20-%20DSA%20-%20EMEA&utm_medium=cpc&utm_medium=ppc&utm_source=google&utm_source=adwords&utm_term=) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-03-11_chinas-iranian-imports-rebound-while-russian-flows-wane_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_e1d6550cde17.png)
 
 Chinese oil majors have imported an average of 230kbd of Russian Urals and Arctic crude in 2024. If they fully shift away from Russian crude, it could generate additional demand for 3-4 VLCCs from the Middle East or Atlantic Basin every month, though with limited impact on overall VLCC market dynamics.
 
@@ -58,10 +58,10 @@ Chinese oil majors have imported an average of 230kbd of Russian Urals and Arcti
 
 China’s clean fuel exports are expected to rise from March, following the post-festival season, as refining margins improve amid softening benchmark prices and domestic demand eases after the holiday travel rush. However, the extent of this rebound will be constrained by tight export quotas, which limit potential growth.
 
-![Στιγμιότυπο Οθόνης 2025 03 11 123445](assets/2025-03-11_chinas-iranian-imports-rebound-while-russian-flows-wane_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_d63a50971ef8.png)
+![Στιγμιότυπο Οθόνης 2025 03 11 123445](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-03-11_chinas-iranian-imports-rebound-while-russian-flows-wane_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_d63a50971ef8.png)
 
 > **Figure 3: Στιγμιότυπο Οθόνης 2025 03 11 123445**  
-> **Interactive Data & Source:** [Vortexa](https://www.vortexa.com//oil-gas-data-traders-analysts-data-scientists?gclid=Cj0KCQjw8_qRBhCXARIsAE2AtRZKOvMnbilZ_6_91d7huSFFy71pWLrnPwGwOHVzXsmsG-1a1mZnQw8aAt89EALw_wcB&hsa_acc=1782073842&hsa_ad=548425387665&hsa_cam=14746637662&hsa_grp=125038601902&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_src=g&hsa_tgt=dsa-1431852288425&hsa_ver=3&utm_campaign=%5BCD%5D%20-%20DSA%20-%20EMEA&utm_medium=cpc&utm_medium=ppc&utm_source=google&utm_source=adwords&utm_term=) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-03-11_chinas-iranian-imports-rebound-while-russian-flows-wane_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_d63a50971ef8.png)
+> **Interactive Data & Source:** [Vortexa](https://www.vortexa.com//oil-gas-data-traders-analysts-data-scientists?gclid=Cj0KCQjw8_qRBhCXARIsAE2AtRZKOvMnbilZ_6_91d7huSFFy71pWLrnPwGwOHVzXsmsG-1a1mZnQw8aAt89EALw_wcB&hsa_acc=1782073842&hsa_ad=548425387665&hsa_cam=14746637662&hsa_grp=125038601902&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_src=g&hsa_tgt=dsa-1431852288425&hsa_ver=3&utm_campaign=%5BCD%5D%20-%20DSA%20-%20EMEA&utm_medium=cpc&utm_medium=ppc&utm_source=google&utm_source=adwords&utm_term=) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-03-11_chinas-iranian-imports-rebound-while-russian-flows-wane_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_d63a50971ef8.png)
 
 Data Source:[Vortexa](https://www.vortexa.com//oil-gas-data-traders-analysts-data-scientists?gclid=Cj0KCQjw8_qRBhCXARIsAE2AtRZKOvMnbilZ_6_91d7huSFFy71pWLrnPwGwOHVzXsmsG-1a1mZnQw8aAt89EALw_wcB&hsa_acc=1782073842&hsa_ad=548425387665&hsa_cam=14746637662&hsa_grp=125038601902&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_src=g&hsa_tgt=dsa-1431852288425&hsa_ver=3&utm_campaign=%5BCD%5D%20-%20DSA%20-%20EMEA&utm_medium=cpc&utm_medium=ppc&utm_source=google&utm_source=adwords&utm_term=)
 

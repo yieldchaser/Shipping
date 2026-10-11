@@ -68,6 +68,8 @@ If consumers begin to believe that energy is expensive and that goods are too ex
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: Not So Dismal Science](../../../charts/poten/2007/poten_2007-05-04_not-so-dismal-science_chart1.png)
-
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2007/poten_2007-05-04_not-so-dismal-science_chart1.png)
+> **Chart on PDF page 1: Consumer Confidence Index**  
+> Unit: Index Value · X-axis: Jan-02 to Jan-07  
+> Series: Consumer Confidence Index, 2006 Average: 105.86  
+> *Source: The Conference Board*  
+> *No image crop of this chart was saved; caption read from the PDF.*

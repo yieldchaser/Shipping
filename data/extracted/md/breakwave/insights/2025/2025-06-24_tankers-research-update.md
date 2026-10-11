@@ -26,10 +26,10 @@ source_file: "corpus/03-breakwave/insights/2025/2025-06-24_tankers-research-upda
 - Over the weekend, the US conducted targeted airstrikes on three Iranian nuclear facilities, triggering retaliatory missile attacks by Iran on a US military base in Qatar on Monday. That evening, President Trump called for a ceasefire between Israel and Iran. Israel agreed to the proposal, citing military success in Iran and subsequently reopening its airspace, according to a statement from Prime Minister Netanyahu’s office. However, just two hours later, Israel’s Defence Minister ordered a forceful military response after detecting missile launches from Iran toward Israeli territory—an accusation Tehran denies.
 - Freight rates surged across all tankers out of the Middle East. VLCC rates on the benchmark TD3C (MEG–China) route spiked 65% week-on-week to $75,900/day on Monday, up from $45,900/day. Product tankers also saw significant gains: LR2 TC1 (MEG–Japan) rose to $56,400/day from $23,400/day over the same period. LR1 TC8 (MEG–UKC) climbed to $46,900/day, doubling from $22,000/day. MR TC17 (MEG–East Africa) nearly doubled to $44,600/day from $24,000/day.
 
-![1f39 Image 1 1750761262711](assets/2025-06-24_tankers-research-update_img_1f39-image-1-1750761262711_36cf85ddba08.png)
+![1f39 Image 1 1750761262711](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-06-24_tankers-research-update_img_1f39-image-1-1750761262711_36cf85ddba08.png)
 
 > **Figure 1: 1f39 Image 1 1750761262711**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-06-24_tankers-research-update_img_1f39-image-1-1750761262711_36cf85ddba08.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-06-24_tankers-research-update_img_1f39-image-1-1750761262711_36cf85ddba08.png)
 
 - TD3c BalMo hit a peak of WS100 following Israel’s strike on Iranian nuclear infrastructure, up sharply from WS49 pre-conflict. However, with the Strait of Hormuz now appearing stable, rates have eased back to WS92.5 on Monday. The forward curve has also corrected swiftly — July contracts dropped from a high of WS79 to WS66 within hours, while Q3 softened from WS65.5 to below WS62 on Monday.
 
@@ -39,10 +39,10 @@ source_file: "corpus/03-breakwave/insights/2025/2025-06-24_tankers-research-upda
 - Additional war risk premium (AWRP) increased by 0.025%, an overaged VLCC was on subjects today, has its AWRP at 0.1875% of the VLCC’s Hull and Machinery value (approx. $88,000), compared to 0.15% pre-Israel attacks.
 - So far, no owner has explicitly declared a refusal to enter the region, as doing so would eliminate them from consideration for any Arabian Gulf cargoes. According to Vortexa, oil flows through the Strait remain uninterrupted, with tankers continuing normal transit, although there are at least five tankers that have u-turned out of the Straits of Hormuz following the US strikes in the early hours of June 22.
 
-![Fcba Image 2 1750761342499](assets/2025-06-24_tankers-research-update_img_fcba-image-2-1750761342499_e8717e12b9d8.png)
+![Fcba Image 2 1750761342499](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-06-24_tankers-research-update_img_fcba-image-2-1750761342499_e8717e12b9d8.png)
 
 > **Figure 2: Fcba Image 2 1750761342499**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-06-24_tankers-research-update_img_fcba-image-2-1750761342499_e8717e12b9d8.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-06-24_tankers-research-update_img_fcba-image-2-1750761342499_e8717e12b9d8.png)
 
 - Iranian crude on water has reached a new high at 124m b/d as of today this month, from 107m b/d last month. Iran’s oil exports have jumped to 1.65m b/d so far in June, compared to 1.34m b/d in May although the nation came under attack from Israel. Iran seems to be trying to get as many barrels as it can out from Kharg Island, home to a cluster of storage tanks that are critical to Iran’s crude exports.
 

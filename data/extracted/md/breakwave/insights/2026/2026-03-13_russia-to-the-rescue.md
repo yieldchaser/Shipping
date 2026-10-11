@@ -38,10 +38,10 @@ Since the US announcement, two VLCCs and seven Aframax-sized vessels loaded with
 
 Before the US relaxed its rules, China had emerged as the main market for Russian crude. In February China imported 2m b/d of Russian crude, up from 1.3m b/d prior to the US sanctioning of Russia’s main exporters in October. India’s imports of Russian crude shrank from 1.52m b/d to just over 1m b/d over the same period. China’s 2m b/d of Russian imports are now likely to end up in India as it loses the bidding war for Russian crude - even crude originating from Russia’s East coast. For now, Shandong’s independent refiners – the only outlet for Russian crude in China – can tap into the ~160m bbls of Iranian crude on the water (~20m bbls of which is floating storage), and a trickle of Iranian oil still coming out of the ME Gulf. Iran’s exports in the month leading up to the conflict reached a nearly eight-year high of 2.23mb/d.
 
-![839c Image 0 1773336538388](assets/2026-03-13_russia-to-the-rescue_img_839c-image-0-1773336538388_1e33d37c0416.png)
+![839c Image 0 1773336538388](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-03-13_russia-to-the-rescue_img_839c-image-0-1773336538388_1e33d37c0416.png)
 
 > **Figure 1: 839c Image 0 1773336538388**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-03-13_russia-to-the-rescue_img_839c-image-0-1773336538388_1e33d37c0416.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-03-13_russia-to-the-rescue_img_839c-image-0-1773336538388_1e33d37c0416.png)
 
 *Source: Vortexa*
 

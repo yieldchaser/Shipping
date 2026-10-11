@@ -29,11 +29,11 @@ tags:
 ## Sudan Crude Oil Exports Via Bashayer
 
 
-![Https://app.signalocean.com/tanker/dynamic/oilflows](../../images/686793557126e133fd255849_AD_4nXdHYYyefelII8Qz-MYOzrKZinZuDc09wbKciMM7t94uIMDLahHUnGIPk0yMA8g7lUDHCQLoEAYe4-BYP6F0GTFgzV7GgPtR_WF9Ty2boSiT7ZHHEjMn-QHHxYqzINNlsuRwoImKYg.png)
+![Https://app.signalocean.com/tanker/dynamic/oilflows](../../../../../../corpus/07-signal/images/686793557126e133fd255849_AD_4nXdHYYyefelII8Qz-MYOzrKZinZuDc09wbKciMM7t94uIMDLahHUnGIPk0yMA8g7lUDHCQLoEAYe4-BYP6F0GTFgzV7GgPtR_WF9Ty2boSiT7ZHHEjMn-QHHxYqzINNlsuRwoImKYg.png)
 
 > **Figure 1: Https://app.signalocean.com/tanker/dynamic/oilflows**  
 > *https://app.signalocean.com/tanker/dynamic/oilflows*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/tanker-week-27-2025) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/686793557126e133fd255849_AD_4nXdHYYyefelII8Qz-MYOzrKZinZuDc09wbKciMM7t94uIMDLahHUnGIPk0yMA8g7lUDHCQLoEAYe4-BYP6F0GTFgzV7GgPtR_WF9Ty2boSiT7ZHHEjMn-QHHxYqzINNlsuRwoImKYg.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/tanker-week-27-2025) | [Local Asset](../../../../../../corpus/07-signal/images/686793557126e133fd255849_AD_4nXdHYYyefelII8Qz-MYOzrKZinZuDc09wbKciMM7t94uIMDLahHUnGIPk0yMA8g7lUDHCQLoEAYe4-BYP6F0GTFgzV7GgPtR_WF9Ty2boSiT7ZHHEjMn-QHHxYqzINNlsuRwoImKYg.png)
 
 Since late April 2023, Sudan has been gripped by an internal conflict between the Sudanese Armed Forces (SAF) and the Rapid Support Forces (RSF), which has significantly disrupted crude oil exports via the Bashayer terminal. Although most of the crude, particularly Dar Blend and Nile Blend, is produced in South Sudan, it must be exported through Sudan’s Red Sea port infrastructure. The civil war has led to operational uncertainty, suspected pipeline disruptions, and a sharp reduction in export volumes, which dropped to just 2 million barrels in April. However, signs of recovery have emerged: exports reached 7 million barrels in May and climbed further to 11 million in June.
 

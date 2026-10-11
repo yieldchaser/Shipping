@@ -21,11 +21,11 @@ source_file: "corpus/03-breakwave/insights/2022/2022-12-10_mazars-note-outlook-2
 
 *By*[*George Lagarias*](https://www.linkedin.com/in/george-lagarias-mba-3baa769/)
 
-![Seismic Shifts Upended a World Where the Centre Already Didn’t](assets/2022-12-10_mazars-note-outlook-2023-12-the-world-we-have_img_image00228129_5fa116b0ffb0.jpg)
+![Seismic Shifts Upended a World Where the Centre Already Didn’t](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-12-10_mazars-note-outlook-2023-12-the-world-we-have_img_image00228129_5fa116b0ffb0.jpg)
 
 > **Figure 1: Seismic Shifts Upended a World Where the Centre Already Didn’t**  
 > *The seismic shifts upended a world where the centre already didn’t hold. They are the reason why old remedies may not work, as policymakers could well find out soon enough. Wave to the old world, with all its ills and joys, and let us on to discoverwhat rough beast, its hour come round at last, slouches towards Bethlehem to be born?’ (Yates)*  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-12-10_mazars-note-outlook-2023-12-the-world-we-have_img_image00228129_5fa116b0ffb0.jpg)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-12-10_mazars-note-outlook-2023-12-the-world-we-have_img_image00228129_5fa116b0ffb0.jpg)
 
 Outlooks. The time-honoured financial industry tradition of toiling to write 30-40 pages of annual forecasts promptly binned by April- at the very latest. Yet, the industry gods demand it and deliver we must. To be fair, no asset manager has ever been held accountable for documents with a 30-day half-life. Yet, this year especially more than most, the case is exactly that: precise predictions should be taken with buckets of salt.
 

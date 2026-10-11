@@ -20,10 +20,10 @@ source_file: "corpus/03-breakwave/insights/2026/2026-07-27_structural-checkmate.
 
 ---
 
-![Crude Tankercebecf80ceb3](assets/2026-07-27_structural-checkmate_img_crude-tanker28129cebecf80ceb3_2aad01be7c26.jpg)
+![Crude Tankercebecf80ceb3](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-07-27_structural-checkmate_img_crude-tanker28129cebecf80ceb3_2aad01be7c26.jpg)
 
 > **Figure 1: Crude Tankercebecf80ceb3**  
-> **Interactive Data & Source:** [Gibsons Co](https://www.gibsons.co.uk/market-reports) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-07-27_structural-checkmate_img_crude-tanker28129cebecf80ceb3_2aad01be7c26.jpg)
+> **Interactive Data & Source:** [Gibsons Co](https://www.gibsons.co.uk/market-reports) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-07-27_structural-checkmate_img_crude-tanker28129cebecf80ceb3_2aad01be7c26.jpg)
 
 With the Houthis declaring a full naval blockade specifically against Saudi Arabia on 20 July and threatening any vessel calling at Saudi ports, the southern Red Sea faces heightened security risk. Within days of the announcement, the Houthis claimed strikes on two tankers have effectively paralyzed direct Yanbu-to-East exports through the Bab-el-Mandeb.
 
@@ -39,10 +39,10 @@ On the refined product side, exports from Yanbu and Jizan moving West have avera
 
 Overall, the compounding chokepoint constraints represent yet another layer of operational friction, inflating freight costs, lengthening transit times and weighing on global oil flows. In the short term, these dynamics are clearly bullish for tanker earnings.
 
-![Στιγμιότυπο Οθόνης 2026 07 27 093016](assets/2026-07-27_structural-checkmate_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_2230d7c5f9d4.png)
+![Στιγμιότυπο Οθόνης 2026 07 27 093016](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-07-27_structural-checkmate_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_2230d7c5f9d4.png)
 
 > **Figure 2: Στιγμιότυπο Οθόνης 2026 07 27 093016**  
-> **Interactive Data & Source:** [Gibsons Co](https://www.gibsons.co.uk/market-reports) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-07-27_structural-checkmate_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_2230d7c5f9d4.png)
+> **Interactive Data & Source:** [Gibsons Co](https://www.gibsons.co.uk/market-reports) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-07-27_structural-checkmate_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_2230d7c5f9d4.png)
 
 Data source:[Gibson Shipbrokers](https://www.gibsons.co.uk/market-reports)
 

@@ -30,10 +30,17 @@ However, we do believe that freight rates for clean Aframaxes will stage a recov
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: Ready For A Rebound](../../../charts/poten/2024/poten_2024-09-06_ready-for-a-rebound_chart1.png)
+![Exhibit 1: LR2 Clean Ton-Mile Demand by Destination](../../../charts/poten/2024/poten_2024-09-06_ready-for-a-rebound_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2024/poten_2024-09-06_ready-for-a-rebound_chart1.png)
+> **Exhibit 1: LR2 Clean Ton-Mile Demand by Destination**  
+> Unit: Bln TM · X-axis: Jan-21 to Jul-24  
+> Series: NW Europe, NE Asia, SE Asia, S Atlantic, AG, Med, EC N America, Undetermined, WC Americas  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2024/poten_2024-09-06_ready-for-a-rebound_chart1.png)
 
-![Exhibit 2: Ready For A Rebound](../../../charts/poten/2024/poten_2024-09-06_ready-for-a-rebound_chart2.png)
+![Exhibit 2: LR2 Clean Tanker Freight Rates](../../../charts/poten/2024/poten_2024-09-06_ready-for-a-rebound_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2024/poten_2024-09-06_ready-for-a-rebound_chart2.png)
+> **Exhibit 2: LR2 Clean Tanker Freight Rates**  
+> Unit: TCE · X-axis: Jan-21 to Sep-24  
+> Series: LR2 (AG-JPN 75 Kt)  
+> *Source: Vortexa/Poten & Partners*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2024/poten_2024-09-06_ready-for-a-rebound_chart2.png)

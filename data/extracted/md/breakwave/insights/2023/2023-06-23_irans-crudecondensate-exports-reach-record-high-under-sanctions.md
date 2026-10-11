@@ -31,11 +31,11 @@ Secondly, Iran has seen 20 tankers newly join its trade this year; 13 of which a
 
 Finally, Iran’s onshore crude/condensate inventories declined to 107mb in May, a 140kbd stock draw since April. Vortexa onshore inventories data suggests stock draws have contributed to Iran’s ability to increase exports given the heightened competition with Russia – production has only marginally increased (2.6mbd according to OPEC).
 
-![Iranian Crude/condensate Exports (Kbd](assets/2023-06-23_irans-crudecondensate-exports-reach-record-high-under-sanctions_img_chart-1-8-1024x742_be91eb2250f0.png)
+![Iranian Crude/condensate Exports (Kbd](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-06-23_irans-crudecondensate-exports-reach-record-high-under-sanctions_img_chart-1-8-1024x742_be91eb2250f0.png)
 
 > **Figure 1: Iranian Crude/condensate Exports (Kbd**  
 > *Iranian crude/condensate exports (kbd, LHS)vsIranian onshore crude inventories (mb, RHS)*  
-> **Interactive Data & Source:** [Analytics Vortexa](https://analytics.vortexa.com/?dateRange=2020-01-01T00%3A00%3A00.000Z__2023-05-31T23%3A59%3A59.999Z&filtersEnabled=%5B%22p%22%2C%22o%22%2C%22d%22%2C%22d_r%22%2C%22v%22%2C%22intra%22%2C%22sts_o%22%2C%22c_o%22%2C%22v_f%22%5D&from=%5B%22d308ddc557e774187ad6c7da81b39db990def9a39e6c88e79cb163b6bdd6e8e5%22%5D&geoBreakdownOriginGlobal=port&metric=bpd&page=Flows&products=%5B%2254af755a090118dcf9b0724c9a4e9f14745c26165385ffa7f1445bc768f06f11%22%5D&tabId=9a01eac8-17c2-4878-9ad1-6cdfcccca2e7&v=2) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-06-23_irans-crudecondensate-exports-reach-record-high-under-sanctions_img_chart-1-8-1024x742_be91eb2250f0.png)
+> **Interactive Data & Source:** [Analytics Vortexa](https://analytics.vortexa.com/?dateRange=2020-01-01T00%3A00%3A00.000Z__2023-05-31T23%3A59%3A59.999Z&filtersEnabled=%5B%22p%22%2C%22o%22%2C%22d%22%2C%22d_r%22%2C%22v%22%2C%22intra%22%2C%22sts_o%22%2C%22c_o%22%2C%22v_f%22%5D&from=%5B%22d308ddc557e774187ad6c7da81b39db990def9a39e6c88e79cb163b6bdd6e8e5%22%5D&geoBreakdownOriginGlobal=port&metric=bpd&page=Flows&products=%5B%2254af755a090118dcf9b0724c9a4e9f14745c26165385ffa7f1445bc768f06f11%22%5D&tabId=9a01eac8-17c2-4878-9ad1-6cdfcccca2e7&v=2) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-06-23_irans-crudecondensate-exports-reach-record-high-under-sanctions_img_chart-1-8-1024x742_be91eb2250f0.png)
 
 ## Iranian Crude/condensate in Floating Storage Slides Below 40mb
 
@@ -49,11 +49,11 @@ Iranian crude in floating storage is assessed at 21.2mb in June – a 2.5mb incr
 
 The 37.8mb floating storage equals 26 tankers currently in floating storage – 25 VLCCs and 1 Suezmax. Floating storage is derived from NITC tankers in Persian Gulf along with non-NITC tankers floating offshore Malaysia (awaiting buyers) and offshore China (awaiting inspection).
 
-![Iranian Crude/condensate in Floating Storage (Mb)](assets/2023-06-23_irans-crudecondensate-exports-reach-record-high-under-sanctions_img_chart-4-for-insight-1024x742_67d2d48197ca.png)
+![Iranian Crude/condensate in Floating Storage (Mb)](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-06-23_irans-crudecondensate-exports-reach-record-high-under-sanctions_img_chart-4-for-insight-1024x742_67d2d48197ca.png)
 
 > **Figure 2: Iranian Crude/condensate in Floating Storage (Mb)**  
 > *Iranian crude/condensate in floating storage (mb)*  
-> **Interactive Data & Source:** [Vortexa](https://www.vortexa.com/insights/crude/new-locations-arise-for-russian-urals-sts-activity/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-06-23_irans-crudecondensate-exports-reach-record-high-under-sanctions_img_chart-4-for-insight-1024x742_67d2d48197ca.png)
+> **Interactive Data & Source:** [Vortexa](https://www.vortexa.com/insights/crude/new-locations-arise-for-russian-urals-sts-activity/) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-06-23_irans-crudecondensate-exports-reach-record-high-under-sanctions_img_chart-4-for-insight-1024x742_67d2d48197ca.png)
 
 ## 135 Tankers Previously Carrying Iranian/venezuelan Crude Switch to Russian Trade
 
@@ -63,11 +63,11 @@ Russian crude oil/DPP exports on carriers involved in sanctioned trade declined 
 
 There has also been a decline in STS activity of Russian Urals on VLCCs for China delivery, which largely involves tankers previously involved in Iranian/Venezuelan trade. However, this STS activity recently re-started at[**new locations**](https://www.vortexa.com/insights/crude/new-locations-arise-for-russian-urals-sts-activity/), so we could see a resurgence in activity on these carriers in the near-term.
 
-![Count of Tankers Carrying Russian Crude/dpp That Previously](assets/2023-06-23_irans-crudecondensate-exports-reach-record-high-under-sanctions_img_chart-4-1024x742_33e04a784730.png)
+![Count of Tankers Carrying Russian Crude/dpp That Previously](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-06-23_irans-crudecondensate-exports-reach-record-high-under-sanctions_img_chart-4-1024x742_33e04a784730.png)
 
 > **Figure 3: Count of Tankers Carrying Russian Crude/dpp That Previously**  
 > *Count of tankers carrying Russian crude/DPP that previously carried sanctioned crude, by class (LHS) vs Russian crude/DPP exports on these carriers (kbd, RHS)*  
-> **Interactive Data & Source:** [Vortexa](https://www.vortexa.com//oil-gas-data-traders-analysts-data-scientists?gclid=Cj0KCQjw8_qRBhCXARIsAE2AtRZKOvMnbilZ_6_91d7huSFFy71pWLrnPwGwOHVzXsmsG-1a1mZnQw8aAt89EALw_wcB&hsa_acc=1782073842&hsa_ad=548425387665&hsa_cam=14746637662&hsa_grp=125038601902&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_src=g&hsa_tgt=dsa-1431852288425&hsa_ver=3&utm_campaign=%5BCD%5D%20-%20DSA%20-%20EMEA&utm_medium=cpc&utm_medium=ppc&utm_source=google&utm_source=adwords&utm_term=) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-06-23_irans-crudecondensate-exports-reach-record-high-under-sanctions_img_chart-4-1024x742_33e04a784730.png)
+> **Interactive Data & Source:** [Vortexa](https://www.vortexa.com//oil-gas-data-traders-analysts-data-scientists?gclid=Cj0KCQjw8_qRBhCXARIsAE2AtRZKOvMnbilZ_6_91d7huSFFy71pWLrnPwGwOHVzXsmsG-1a1mZnQw8aAt89EALw_wcB&hsa_acc=1782073842&hsa_ad=548425387665&hsa_cam=14746637662&hsa_grp=125038601902&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_src=g&hsa_tgt=dsa-1431852288425&hsa_ver=3&utm_campaign=%5BCD%5D%20-%20DSA%20-%20EMEA&utm_medium=cpc&utm_medium=ppc&utm_source=google&utm_source=adwords&utm_term=) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-06-23_irans-crudecondensate-exports-reach-record-high-under-sanctions_img_chart-4-1024x742_33e04a784730.png)
 
 ## Outlook
 

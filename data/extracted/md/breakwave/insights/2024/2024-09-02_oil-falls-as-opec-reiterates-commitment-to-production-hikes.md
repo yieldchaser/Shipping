@@ -24,10 +24,10 @@ Energy markets remains on edge on supply shortages. Sentiment was also supported
 
 *By*[*Daniel Hynes*](https://www.linkedin.com/in/dahynes/)
 
-![Στιγμιότυπο Οθόνης 2024 09 02 143650](assets/2024-09-02_oil-falls-as-opec-reiterates-commitment-to-production-hikes_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_5c22d885422a.png)
+![Στιγμιότυπο Οθόνης 2024 09 02 143650](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-09-02_oil-falls-as-opec-reiterates-commitment-to-production-hikes_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_5c22d885422a.png)
 
 > **Figure 1: Στιγμιότυπο Οθόνης 2024 09 02 143650**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-09-02_oil-falls-as-opec-reiterates-commitment-to-production-hikes_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_5c22d885422a.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-09-02_oil-falls-as-opec-reiterates-commitment-to-production-hikes_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_5c22d885422a.png)
 
 ### Market Commentary
 
@@ -35,14 +35,14 @@ Energy markets remains on edge on supply shortages. Sentiment was also supported
 
 Supply shortages are supporting**global gas**prices. European gas benchmark futures posted their biggest monthly gain since May on fears they may linger into the injection season. These concerns centre on Ukraine, where fighting has intensified and threatens to disrupt Russian gas transiting the country on its way to Europe. This has been compounded by changes to a period of heavy maintenance at top supplier Norway.**North Asian LNG**prices pushed above USD14/mmBtu on speculation of production issues in Malaysia. At least 11 vessels are waiting outside of the Bintulu export facility, according to ship tracking data, but Petronas, the operator of the LNG facility, has yet to report any issues. The market has been on edge following other disruptions in the region. Demand remains robust as high temperatures boost air conditioner use.
 
-**Iron ore**futures gained last week as traders viewed the recent selloff as overdone. Despite the recent rebound in prices,[**risks remained skewed to the downside**](../pdfs/2024-09-02_oil-falls-as-opec-reiterates-commitment-to-production-hikes_commodity-update-downside-risks-to-i_b87c570f403f.pdf)in the short term. We expect a rise in supply in the second half of the year while headwinds from the Chinese steel industry remain strong. Moreover, China’s steel exports may come under threat as tensions rise with trade partners. China is also rationalising its approval process for new steel capacity, which could see steel output ultimately fall, weighing on steel demand. Nevertheless, China is likely to continue to rely on the international market for its steel making raw material. This should be a positive for exporters such as Australia. There are reasons not to be so pessimistic over the medium term. Demand outside of property remains robust, while longer term supply growth remains constrained. The market should remain relatively balanced.
+**Iron ore**futures gained last week as traders viewed the recent selloff as overdone. Despite the recent rebound in prices,[**risks remained skewed to the downside**](https://research.anz.com/file/Commodity_Update_downside_risks_to_iron_ore.pdf?docRef=a69f843f-84a8-4839-bd7a-64084f4ab638&ch=2)in the short term. We expect a rise in supply in the second half of the year while headwinds from the Chinese steel industry remain strong. Moreover, China’s steel exports may come under threat as tensions rise with trade partners. China is also rationalising its approval process for new steel capacity, which could see steel output ultimately fall, weighing on steel demand. Nevertheless, China is likely to continue to rely on the international market for its steel making raw material. This should be a positive for exporters such as Australia. There are reasons not to be so pessimistic over the medium term. Demand outside of property remains robust, while longer term supply growth remains constrained. The market should remain relatively balanced.
 
 **Copper**managed to eke out a small gain last week on signs of resilient US growth and a weaker USD. The stronger than expected US data suggests the Fed can engineer a soft landing for the economy, thus protect the base metals sector from recessionary impacts on demand. Zinc was also higher after Chinese smelters vowed to lower output due to a tight concentrate market.**Gold**held steady above US2,500/oz despite a key inflation gauge reinforcing expectations that the Fed’s pace of rate cuts will be measured.
 
-![Στιγμιότυπο Οθόνης 2024 09 02 143700](assets/2024-09-02_oil-falls-as-opec-reiterates-commitment-to-production-hikes_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_299d567df7b2.png)
+![Στιγμιότυπο Οθόνης 2024 09 02 143700](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-09-02_oil-falls-as-opec-reiterates-commitment-to-production-hikes_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_299d567df7b2.png)
 
 > **Figure 2: Στιγμιότυπο Οθόνης 2024 09 02 143700**  
-> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-09-02_oil-falls-as-opec-reiterates-commitment-to-production-hikes_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_299d567df7b2.png)
+> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-09-02_oil-falls-as-opec-reiterates-commitment-to-production-hikes_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_299d567df7b2.png)
 
 Data source:[Commodities Wrap](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI)
 

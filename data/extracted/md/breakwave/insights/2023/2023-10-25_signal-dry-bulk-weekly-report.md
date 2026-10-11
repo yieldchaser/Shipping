@@ -23,10 +23,10 @@ source_file: "corpus/03-breakwave/insights/2023/2023-10-25_signal-dry-bulk-weekl
 
 *Monthly tonnes of grain from Brazil to China with Panamax vessel class surpassed volumes of the**previous years*
 
-![Market Chart 1](assets/2023-10-25_signal-dry-bulk-weekly-report_img_unnamed-2023-10-25t135854159_c70997c2a0c2.png)
+![Market Chart 1](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-10-25_signal-dry-bulk-weekly-report_img_unnamed-2023-10-25t135854159_c70997c2a0c2.png)
 
 > **Figure 1: Market Chart 1**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-10-25_signal-dry-bulk-weekly-report_img_unnamed-2023-10-25t135854159_c70997c2a0c2.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-10-25_signal-dry-bulk-weekly-report_img_unnamed-2023-10-25t135854159_c70997c2a0c2.png)
 
 The last week of October witnessed a downward trend in the Capesize freight market momentum, while the smaller vessel segments experienced a relative flat momentum. Meanwhile, the grain flows from Brazil to China with the Panamax vessel class recorded a significant surge in October that supported a firmer momentum for Panamax vessel freight rates (as envisaged in the image above).
 
@@ -44,10 +44,10 @@ Freight Market, Supply, Demand and Port Congestion
 
 Market Rates ($/t) Weaker
 
-![Market Chart 2](assets/2023-10-25_signal-dry-bulk-weekly-report_img_unnamed-2023-10-25t140018973_c70997c2a0c2.png)
+![Market Chart 2](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-10-25_signal-dry-bulk-weekly-report_img_unnamed-2023-10-25t140018973_c70997c2a0c2.png)
 
 > **Figure 2: Market Chart 2**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-10-25_signal-dry-bulk-weekly-report_img_unnamed-2023-10-25t140018973_c70997c2a0c2.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-10-25_signal-dry-bulk-weekly-report_img_unnamed-2023-10-25t140018973_c70997c2a0c2.png)
 
 The last week of October saw a weaker momentum following the notable increase in Capesize rates for the Brazil to North China route, while there seemed to be a flat momentum for the other vessel size segments.
 
@@ -58,10 +58,10 @@ The last week of October saw a weaker momentum following the notable increase in
 
 ## Section 2/ Supply
 
-![Supply Trend Lines for Key Load Areasballasters (#Vessels) Mixed](assets/2023-10-25_signal-dry-bulk-weekly-report_img_unnamed-2023-10-25t140018973_c70997c2a0c2.png)
+![Supply Trend Lines for Key Load Areasballasters (#Vessels) Mixed](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-10-25_signal-dry-bulk-weekly-report_img_unnamed-2023-10-25t140018973_c70997c2a0c2.png)
 
 > **Figure 3: Supply Trend Lines for Key Load Areasballasters (#Vessels) Mixed**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-10-25_signal-dry-bulk-weekly-report_img_unnamed-2023-10-25t140018973_c70997c2a0c2.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-10-25_signal-dry-bulk-weekly-report_img_unnamed-2023-10-25t140018973_c70997c2a0c2.png)
 
 In terms of the number of ballast vessels, the last week of October saw an upward trend in the Capesize and Handysize ship size segments.
 
@@ -72,10 +72,10 @@ In terms of the number of ballast vessels, the last week of October saw an upwar
 
 ## Section 3/ Demand
 
-![Summary of Dry Bulk Demand, per Ship Sizetonne Days Decreasing](assets/2023-10-25_signal-dry-bulk-weekly-report_img_unnamed-2023-10-25t140656536_09e27718a718.png)
+![Summary of Dry Bulk Demand, per Ship Sizetonne Days Decreasing](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-10-25_signal-dry-bulk-weekly-report_img_unnamed-2023-10-25t140656536_09e27718a718.png)
 
 > **Figure 4: Summary of Dry Bulk Demand, per Ship Sizetonne Days Decreasing**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-10-25_signal-dry-bulk-weekly-report_img_unnamed-2023-10-25t140656536_09e27718a718.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-10-25_signal-dry-bulk-weekly-report_img_unnamed-2023-10-25t140656536_09e27718a718.png)
 
 Demand growth began to taper off in late October, with the exception of the Panamax segment.​​​​
 
@@ -86,10 +86,10 @@ Demand growth began to taper off in late October, with the exception of the Pana
 
 ## Section 4/ Port Congestion
 
-![Dry Bulk Ships Congested at Chinese Portsno of Vessels Increasing](assets/2023-10-25_signal-dry-bulk-weekly-report_img_unnamed-2023-10-25t140822250_57898dea339e.png)
+![Dry Bulk Ships Congested at Chinese Portsno of Vessels Increasing](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-10-25_signal-dry-bulk-weekly-report_img_unnamed-2023-10-25t140822250_57898dea339e.png)
 
 > **Figure 5: Dry Bulk Ships Congested at Chinese Portsno of Vessels Increasing**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-10-25_signal-dry-bulk-weekly-report_img_unnamed-2023-10-25t140822250_57898dea339e.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-10-25_signal-dry-bulk-weekly-report_img_unnamed-2023-10-25t140822250_57898dea339e.png)
 
 After two weeks of stagnant activity, the level of ship congestion began to exhibit signs of increase.
 

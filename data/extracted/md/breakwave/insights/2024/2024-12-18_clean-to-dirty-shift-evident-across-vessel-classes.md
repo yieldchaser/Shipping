@@ -43,10 +43,10 @@ Looking forward, recovery in Aframax utilisation hinges on mainstream demand reb
 
 ➔ Increased TMX flows from Canada West Coast to NEA have supported y-o-y Aframax tonne-miles growth to NEA, and this momentum is expected to strengthen if Trump’s tariffs on Canadian crude materialise
 
-![Στιγμιότυπο Οθόνης 2024 12 18 191918](assets/2024-12-18_clean-to-dirty-shift-evident-across-vessel-classes_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_65cf1fea6958.png)
+![Στιγμιότυπο Οθόνης 2024 12 18 191918](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-12-18_clean-to-dirty-shift-evident-across-vessel-classes_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_65cf1fea6958.png)
 
 > **Figure 1: Στιγμιότυπο Οθόνης 2024 12 18 191918**  
-> **Interactive Data & Source:** [Vortexa](https://www.vortexa.com//oil-gas-data-traders-analysts-data-scientists?gclid=Cj0KCQjw8_qRBhCXARIsAE2AtRZKOvMnbilZ_6_91d7huSFFy71pWLrnPwGwOHVzXsmsG-1a1mZnQw8aAt89EALw_wcB&hsa_acc=1782073842&hsa_ad=548425387665&hsa_cam=14746637662&hsa_grp=125038601902&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_src=g&hsa_tgt=dsa-1431852288425&hsa_ver=3&utm_campaign=%5BCD%5D%20-%20DSA%20-%20EMEA&utm_medium=cpc&utm_medium=ppc&utm_source=google&utm_source=adwords&utm_term=) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-12-18_clean-to-dirty-shift-evident-across-vessel-classes_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_65cf1fea6958.png)
+> **Interactive Data & Source:** [Vortexa](https://www.vortexa.com//oil-gas-data-traders-analysts-data-scientists?gclid=Cj0KCQjw8_qRBhCXARIsAE2AtRZKOvMnbilZ_6_91d7huSFFy71pWLrnPwGwOHVzXsmsG-1a1mZnQw8aAt89EALw_wcB&hsa_acc=1782073842&hsa_ad=548425387665&hsa_cam=14746637662&hsa_grp=125038601902&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_src=g&hsa_tgt=dsa-1431852288425&hsa_ver=3&utm_campaign=%5BCD%5D%20-%20DSA%20-%20EMEA&utm_medium=cpc&utm_medium=ppc&utm_source=google&utm_source=adwords&utm_term=) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-12-18_clean-to-dirty-shift-evident-across-vessel-classes_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_65cf1fea6958.png)
 
 ## Clean – East of Suez: Clean-to-Dirty Shift Evident Across Vessel Classes, Could Help in Alleviating Supply Pressure on Rates
 
@@ -62,10 +62,10 @@ However, this coordinated move from clean-to-dirty trades could once again allev
 
 ➔ Looking into 2025, a resumption of the supertanker trend at the same level seems unlikely, but under wide clean-to-dirty margins, supertanker clean-ups will be certainly be employed at a greater ease than before
 
-![Στιγμιότυπο Οθόνης 2024 12 18 192657](assets/2024-12-18_clean-to-dirty-shift-evident-across-vessel-classes_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_928c49196958.png)
+![Στιγμιότυπο Οθόνης 2024 12 18 192657](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-12-18_clean-to-dirty-shift-evident-across-vessel-classes_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_928c49196958.png)
 
 > **Figure 2: Στιγμιότυπο Οθόνης 2024 12 18 192657**  
-> **Interactive Data & Source:** [Vortexa](https://www.vortexa.com//oil-gas-data-traders-analysts-data-scientists?gclid=Cj0KCQjw8_qRBhCXARIsAE2AtRZKOvMnbilZ_6_91d7huSFFy71pWLrnPwGwOHVzXsmsG-1a1mZnQw8aAt89EALw_wcB&hsa_acc=1782073842&hsa_ad=548425387665&hsa_cam=14746637662&hsa_grp=125038601902&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_src=g&hsa_tgt=dsa-1431852288425&hsa_ver=3&utm_campaign=%5BCD%5D%20-%20DSA%20-%20EMEA&utm_medium=cpc&utm_medium=ppc&utm_source=google&utm_source=adwords&utm_term=) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-12-18_clean-to-dirty-shift-evident-across-vessel-classes_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_928c49196958.png)
+> **Interactive Data & Source:** [Vortexa](https://www.vortexa.com//oil-gas-data-traders-analysts-data-scientists?gclid=Cj0KCQjw8_qRBhCXARIsAE2AtRZKOvMnbilZ_6_91d7huSFFy71pWLrnPwGwOHVzXsmsG-1a1mZnQw8aAt89EALw_wcB&hsa_acc=1782073842&hsa_ad=548425387665&hsa_cam=14746637662&hsa_grp=125038601902&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_src=g&hsa_tgt=dsa-1431852288425&hsa_ver=3&utm_campaign=%5BCD%5D%20-%20DSA%20-%20EMEA&utm_medium=cpc&utm_medium=ppc&utm_source=google&utm_source=adwords&utm_term=) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-12-18_clean-to-dirty-shift-evident-across-vessel-classes_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_928c49196958.png)
 
 ## Dirty – West of Suez: Ta Crude End-of-Year Momentum Attracts Vlccs and Suezmaxes, But Lion’s Share Goes to Aframaxes
 
@@ -85,10 +85,10 @@ With two weeks left in 2024, it looks like the Q4 seasonal rally usually experie
 
 ➔ Utilisation of VLCCs on this route underscores the segment’s lack of other options, with rates currently at
 
-![Στιγμιότυπο Οθόνης 2024 12 18 192927](assets/2024-12-18_clean-to-dirty-shift-evident-across-vessel-classes_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_4de6b9a59723.png)
+![Στιγμιότυπο Οθόνης 2024 12 18 192927](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-12-18_clean-to-dirty-shift-evident-across-vessel-classes_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_4de6b9a59723.png)
 
 > **Figure 3: Στιγμιότυπο Οθόνης 2024 12 18 192927**  
-> **Interactive Data & Source:** [Vortexa](https://www.vortexa.com//oil-gas-data-traders-analysts-data-scientists?gclid=Cj0KCQjw8_qRBhCXARIsAE2AtRZKOvMnbilZ_6_91d7huSFFy71pWLrnPwGwOHVzXsmsG-1a1mZnQw8aAt89EALw_wcB&hsa_acc=1782073842&hsa_ad=548425387665&hsa_cam=14746637662&hsa_grp=125038601902&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_src=g&hsa_tgt=dsa-1431852288425&hsa_ver=3&utm_campaign=%5BCD%5D%20-%20DSA%20-%20EMEA&utm_medium=cpc&utm_medium=ppc&utm_source=google&utm_source=adwords&utm_term=) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-12-18_clean-to-dirty-shift-evident-across-vessel-classes_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_4de6b9a59723.png)
+> **Interactive Data & Source:** [Vortexa](https://www.vortexa.com//oil-gas-data-traders-analysts-data-scientists?gclid=Cj0KCQjw8_qRBhCXARIsAE2AtRZKOvMnbilZ_6_91d7huSFFy71pWLrnPwGwOHVzXsmsG-1a1mZnQw8aAt89EALw_wcB&hsa_acc=1782073842&hsa_ad=548425387665&hsa_cam=14746637662&hsa_grp=125038601902&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_src=g&hsa_tgt=dsa-1431852288425&hsa_ver=3&utm_campaign=%5BCD%5D%20-%20DSA%20-%20EMEA&utm_medium=cpc&utm_medium=ppc&utm_source=google&utm_source=adwords&utm_term=) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-12-18_clean-to-dirty-shift-evident-across-vessel-classes_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_4de6b9a59723.png)
 
 ## Clean – West of Suez: Tight MR Availability in the Us Gulf Drives Up Freight
 
@@ -108,10 +108,10 @@ Preliminary December (days 1-15) data for US Gulf Coast Motor fuel exports indic
 
 The falling ballast MR availability however suggests that this time freight prices should sustain a floor going into 2025
 
-![Στιγμιότυπο Οθόνης 2024 12 18 193413](assets/2024-12-18_clean-to-dirty-shift-evident-across-vessel-classes_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_72a8c110e33a.png)
+![Στιγμιότυπο Οθόνης 2024 12 18 193413](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-12-18_clean-to-dirty-shift-evident-across-vessel-classes_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_72a8c110e33a.png)
 
 > **Figure 4: Στιγμιότυπο Οθόνης 2024 12 18 193413**  
-> **Interactive Data & Source:** [Vortexa](https://www.vortexa.com//oil-gas-data-traders-analysts-data-scientists?gclid=Cj0KCQjw8_qRBhCXARIsAE2AtRZKOvMnbilZ_6_91d7huSFFy71pWLrnPwGwOHVzXsmsG-1a1mZnQw8aAt89EALw_wcB&hsa_acc=1782073842&hsa_ad=548425387665&hsa_cam=14746637662&hsa_grp=125038601902&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_src=g&hsa_tgt=dsa-1431852288425&hsa_ver=3&utm_campaign=%5BCD%5D%20-%20DSA%20-%20EMEA&utm_medium=cpc&utm_medium=ppc&utm_source=google&utm_source=adwords&utm_term=) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-12-18_clean-to-dirty-shift-evident-across-vessel-classes_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_72a8c110e33a.png)
+> **Interactive Data & Source:** [Vortexa](https://www.vortexa.com//oil-gas-data-traders-analysts-data-scientists?gclid=Cj0KCQjw8_qRBhCXARIsAE2AtRZKOvMnbilZ_6_91d7huSFFy71pWLrnPwGwOHVzXsmsG-1a1mZnQw8aAt89EALw_wcB&hsa_acc=1782073842&hsa_ad=548425387665&hsa_cam=14746637662&hsa_grp=125038601902&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_src=g&hsa_tgt=dsa-1431852288425&hsa_ver=3&utm_campaign=%5BCD%5D%20-%20DSA%20-%20EMEA&utm_medium=cpc&utm_medium=ppc&utm_source=google&utm_source=adwords&utm_term=) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-12-18_clean-to-dirty-shift-evident-across-vessel-classes_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_72a8c110e33a.png)
 
 Data Source:[Vortexa](https://www.vortexa.com//oil-gas-data-traders-analysts-data-scientists?gclid=Cj0KCQjw8_qRBhCXARIsAE2AtRZKOvMnbilZ_6_91d7huSFFy71pWLrnPwGwOHVzXsmsG-1a1mZnQw8aAt89EALw_wcB&hsa_acc=1782073842&hsa_ad=548425387665&hsa_cam=14746637662&hsa_grp=125038601902&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_src=g&hsa_tgt=dsa-1431852288425&hsa_ver=3&utm_campaign=%5BCD%5D%20-%20DSA%20-%20EMEA&utm_medium=cpc&utm_medium=ppc&utm_source=google&utm_source=adwords&utm_term=)
 

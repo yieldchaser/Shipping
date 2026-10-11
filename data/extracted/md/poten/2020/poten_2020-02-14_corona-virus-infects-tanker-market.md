@@ -28,10 +28,18 @@ There are diverging views on whether we have seen the worst of the outbreak or w
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: Corona Virus Infects Tanker Market](../../../charts/poten/2020/poten_2020-02-14_corona-virus-infects-tanker-market_chart1.png)
+![Exhibit 1: Chinese Seaborne Crude Imports by Vessel Class](../../../charts/poten/2020/poten_2020-02-14_corona-virus-infects-tanker-market_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2020/poten_2020-02-14_corona-virus-infects-tanker-market_chart1.png)
+> **Exhibit 1: Chinese Seaborne Crude Imports by Vessel Class**  
+> Unit: Mb/d · X-axis: 1Q2015 to 4Q2019  
+> Series: VLCC, Suezmax, Aframax, Smaller  
+> *Source: Lloyd’s List Intelligence*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2020/poten_2020-02-14_corona-virus-infects-tanker-market_chart1.png)
 
-![Exhibit 2: Corona Virus Infects Tanker Market](../../../charts/poten/2020/poten_2020-02-14_corona-virus-infects-tanker-market_chart2.png)
+![Exhibit 2: Tanker Orderbook At Chinese Yards](../../../charts/poten/2020/poten_2020-02-14_corona-virus-infects-tanker-market_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2020/poten_2020-02-14_corona-virus-infects-tanker-market_chart2.png)
+> **Exhibit 2: Tanker Orderbook At Chinese Yards**  
+> Unit: Vessels · X-axis: VLCC to MR  
+> Series: China, Other Countries  
+> *Source: Poten & Partners*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2020/poten_2020-02-14_corona-virus-infects-tanker-market_chart2.png)

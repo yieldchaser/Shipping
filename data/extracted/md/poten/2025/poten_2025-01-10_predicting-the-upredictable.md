@@ -30,18 +30,20 @@ We expect that a ceasefire will be achieved in 2025 as President Trump will pres
 
 ### 4. Iranian exports will decline from their recent highs
 
-Iranian exports have staged a remarkable recovery in recent years (see [Chart 1](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2025/poten_2025-01-10_predicting-the-upredictable_chart1.png)). During the previous Trump presidency, Iranian exports dropped to below 500,000 b/d. When Mr. Trump left office, Iranian exports started to recover, exceeding 1.5 Mb/d in the second half of 2024. China accounts for nearly 90% of Iran's oil exports. We expect that a return of Mr. Trump to the White House will restart his "maximum pressure" campaign and lead to a significant reduction in exports. The Biden administration has already expanded the use of sanctions against individual ships in the so called "dark fleet", and we expect that Mr. Trump will increase the use of these sanctions, which will reduce Iranian exports by 500,000 b/d by the end of 2025.
+Iranian exports have staged a remarkable recovery in recent years (see [Chart 1](../../../charts/poten/2025/poten_2025-01-10_predicting-the-upredictable_chart1.png)). During the previous Trump presidency, Iranian exports dropped to below 500,000 b/d. When Mr. Trump left office, Iranian exports started to recover, exceeding 1.5 Mb/d in the second half of 2024. China accounts for nearly 90% of Iran's oil exports. We expect that a return of Mr. Trump to the White House will restart his "maximum pressure" campaign and lead to a significant reduction in exports. The Biden administration has already expanded the use of sanctions against individual ships in the so called "dark fleet", and we expect that Mr. Trump will increase the use of these sanctions, which will reduce Iranian exports by 500,000 b/d by the end of 2025.
 
-> **Exhibit 1: Predicting The Upredictable (Chart 1)**  
-> *Source: Poten & Partners*  
-> **Interactive Data & Source:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2025/poten_2025-01-10_predicting-the-upredictable_chart1.png)
+> **Exhibit 1: Iranian Crude Oil Exports by Destination**  
+> Unit: Kb/d · X-axis: Jan-17 to Oct-24  
+> Series: China, India, United Arab Emirates, South Korea, Syria, Turkey, Italy, Japan, Other/Undetermined  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2025/poten_2025-01-10_predicting-the-upredictable_chart1.png)
 
-![Exhibit 1: Predicting The Upredictable](../../../charts/poten/2025/poten_2025-01-10_predicting-the-upredictable_chart1.png)
+![Exhibit 1: Iranian Crude Oil Exports by Destination](../../../charts/poten/2025/poten_2025-01-10_predicting-the-upredictable_chart1.png)
 
-5. VLCCs will be the best performing crude tanker segment in 2025 Prior to the Russian invasion of Ukraine in 2022, the relative earnings of the various crude tanker segments were reasonably predictable. Over the 2016- 2021 time period, Suezmax earnings were 54% of VLCC earnings and Aframaxes slightly below that (46%). Since the Russian invasion and the resulting sanctions, Suezmaxes and (in particular) Aframaxes have outperformed VLCCs (in relative and sometimes absolute terms - see [Chart 2](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2025/poten_2025-01-10_predicting-the-upredictable_chart2.png)). We expect this trend to reverse in 2025 due to limited VLCC deliveries and targeted sanctions that could benefit the large tanker segment more than others.
+5. VLCCs will be the best performing crude tanker segment in 2025 Prior to the Russian invasion of Ukraine in 2022, the relative earnings of the various crude tanker segments were reasonably predictable. Over the 2016- 2021 time period, Suezmax earnings were 54% of VLCC earnings and Aframaxes slightly below that (46%). Since the Russian invasion and the resulting sanctions, Suezmaxes and (in particular) Aframaxes have outperformed VLCCs (in relative and sometimes absolute terms - see [Chart 2](../../../charts/poten/2025/poten_2025-01-10_predicting-the-upredictable_chart2.png)). We expect this trend to reverse in 2025 due to limited VLCC deliveries and targeted sanctions that could benefit the large tanker segment more than others.
 
-> **Exhibit 2: Predicting The Upredictable (Chart 2)**  
-> *Source: Poten & Partners*  
-> **Interactive Data & Source:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2025/poten_2025-01-10_predicting-the-upredictable_chart2.png)
+> **Exhibit 2: Crude Tanker Spot Rates (Selected Routes, HSFO)**  
+> Unit: TCE ($/day) · X-axis: 2016 to 2022-2024  
+> Series: VLCC (AG-FE), Suezmax (WAF-UKC), Aframax (avg 3 routes)  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2025/poten_2025-01-10_predicting-the-upredictable_chart2.png)
 
-![Exhibit 2: Predicting The Upredictable](../../../charts/poten/2025/poten_2025-01-10_predicting-the-upredictable_chart2.png)
+![Exhibit 2: Crude Tanker Spot Rates (Selected Routes, HSFO)](../../../charts/poten/2025/poten_2025-01-10_predicting-the-upredictable_chart2.png)

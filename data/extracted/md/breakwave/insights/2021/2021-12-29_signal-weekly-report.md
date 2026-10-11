@@ -33,7 +33,7 @@ The challenges from the Chinese economy are even more pronounced with iron ore p
 ![Ch1](assets/2021-12-29_signal-weekly-report_img_ch1_1e28ef25af57.png)
 
 > **Figure 1: Ch1**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2021/assets/2021-12-29_signal-weekly-report_img_ch1_1e28ef25af57.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-12-29_signal-weekly-report_img_ch1_1e28ef25af57.png)
 
 - Week 52 begins with Brazil to North China rates at levels below $22.5/ton, while the year will end with week 40 of October recording the highest level for this year ~$51/ton.
 - In the panamax segment, Continent to Far East Rates are on increase towards $45/ton and it remains to be seen if Chinese coal demand will continue to strengthen this sentiment.
@@ -46,7 +46,7 @@ Supply Trend Lines for Key Load Areas
 ![Ch2](assets/2021-12-29_signal-weekly-report_img_ch2_956eec786f86.png)
 
 > **Figure 2: Ch2**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2021/assets/2021-12-29_signal-weekly-report_img_ch2_956eec786f86.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-12-29_signal-weekly-report_img_ch2_956eec786f86.png)
 
 - The number of vessels sailing in ballast has now again started to increase for capesize and panamax vessels nearing the one year average number, for capesize~80 vessels, and panamax~100 vessels.
 - Supramax ships sailing in ballast status in SE Asia are now nearing the average number of 90 vessels, and it remains to be seen whether this increasing momentum will continue in the coming days.
@@ -59,7 +59,7 @@ Increasing Evolution of Demand -% Growth
 ![Ch3](assets/2021-12-29_signal-weekly-report_img_ch3_8f2ca6d143d8.png)
 
 > **Figure 3: Ch3**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2021/assets/2021-12-29_signal-weekly-report_img_ch3_8f2ca6d143d8.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-12-29_signal-weekly-report_img_ch3_8f2ca6d143d8.png)
 
 - The last week of December holds the increasing trend in ton days demand for the supramax segment, whereas the handysize and panamax vessels have not yet shown indications of rebound.
 - In the capesize segment, we see an increase towards the end of this year that will support the upward movement of rates, however, there are mixed fears for the duration of this due to the festive season and usual slowdown of Chinese iron ore demand.
@@ -71,7 +71,7 @@ Dry bulk ships congested around Chinese ports
 ![Ch4](assets/2021-12-29_signal-weekly-report_img_ch4_e81d258f897b.png)
 
 > **Figure 4: Ch4**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2021/assets/2021-12-29_signal-weekly-report_img_ch4_e81d258f897b.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-12-29_signal-weekly-report_img_ch4_e81d258f897b.png)
 
 - Week 52 confirms the upward trend of congested vessels witnessed from previous week. The total number is now nearing the levels of week 46 and is one step before touching the one year average.
 - The impact of congestion on freight rates seems to be reflected in handysize, where rates have been pushed upwards for the last days of December.

@@ -51,14 +51,23 @@ The Aframax segment showed a significant drop in reported fixtures in 2022. The 
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: Mixed Messages](../../../charts/poten/2023/poten_2023-01-05_mixed-messages_chart1.png)
+![Exhibit 1: Top 10 VLCC Spot Charterers](../../../charts/poten/2023/poten_2023-01-05_mixed-messages_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2023/poten_2023-01-05_mixed-messages_chart1.png)
+> **Exhibit 1: Top 10 VLCC Spot Charterers**  
+> Unit: No. Spot Fixtures · X-axis: Unipec to Petrobras  
+> Series: Unipec, ExxonMobil, Shell, Ioc, Vitol, SK Corp, Sinochem, Hyundai, Total, Petrobras  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2023/poten_2023-01-05_mixed-messages_chart1.png)
 
-![Exhibit 2: Mixed Messages](../../../charts/poten/2023/poten_2023-01-05_mixed-messages_chart2.png)
+![Exhibit 2: Top 10 Suezmax Spot Charterers](../../../charts/poten/2023/poten_2023-01-05_mixed-messages_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2023/poten_2023-01-05_mixed-messages_chart2.png)
+> **Exhibit 2: Top 10 Suezmax Spot Charterers**  
+> Unit: No. Spot Fixtures · X-axis: Total to Shell  
+> Series: Total, ExxonMobil, Repsol, Petrobras, Vitol, Chevron, Ioc, BP, Unipec, Shell  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2023/poten_2023-01-05_mixed-messages_chart2.png)
 
-![Exhibit 3: Mixed Messages](../../../charts/poten/2023/poten_2023-01-05_mixed-messages_chart3.png)
+![Exhibit 3: Top 10 Aframax Spot Charterers](../../../charts/poten/2023/poten_2023-01-05_mixed-messages_chart3.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2023/poten_2023-01-05_mixed-messages_chart3.png)
+> **Exhibit 3: Top 10 Aframax Spot Charterers**  
+> Unit: No. Spot Fixtures · X-axis: Shell to ENI  
+> Series: Shell, Vitol, BP, Chevron, ExxonMobil, Unipec, PTT, Phillips 66, Total, ENI  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2023/poten_2023-01-05_mixed-messages_chart3.png)

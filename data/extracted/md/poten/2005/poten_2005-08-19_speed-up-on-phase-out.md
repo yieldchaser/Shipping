@@ -50,6 +50,25 @@ In the future, many additional VLCCs will need to be ordered to compensate for t
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: Speed Up on Phase Out](../../../charts/poten/2005/poten_2005-08-19_speed-up-on-phase-out_chart1.png)
+> **Chart on PDF page 1: GROWTH OF VLCC FLEET (Start of Year)**  
+> Unit: # VESSELS · X-axis: 1995 to 2005  
+> Series: VLCC Fleet Size  
+> *No image crop of this chart was saved; caption read from the PDF.*
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2005/poten_2005-08-19_speed-up-on-phase-out_chart1.png)
+> **Chart on PDF page 1: Untitled chart**  
+> Unit: # VESSELS · X-axis: 1995 to 2005  
+> Series: DELIVERED, SCRAPPED  
+> *Source: Poten & Partners*  
+> *No image crop of this chart was saved; caption read from the PDF.*
+
+> **Chart on PDF page 2: AGE PROFILE Single Hull VLCC FLEET 172 Vessels as of 8/05**  
+> Unit: # VESSELS · X-axis: 2005 to 1975  
+> Series: 15 Yrs or Less, 16-20 Yrs, >20 Yrs  
+> *Source: Poten & Partners*  
+> *No image crop of this chart was saved; caption read from the PDF.*
+
+> **Chart on PDF page 3: VLCC Fleet Development**  
+> X-axis: 1996 to 2010-2015  
+> Series: Deliveries, Anticipated Deliveries, Removals, Anticipated Removals  
+> *Source: Poten & Partners*  
+> *No image crop of this chart was saved; caption read from the PDF.*

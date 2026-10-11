@@ -16,13 +16,14 @@ charts_count: 1
 
 ### U.S. export restrictions would boost product tanker demand
 
-Hurricane season in the Gulf of Mexico typically runs every year from June 1 through November 30. According to the National Oceanic and Atmospheric Administration, an average Atlantic season spawns seven hurricanes and peaks in August, September, and October. This year, for the first time in 25 years, the month of August has passed without a named storm in the Atlantic, even though meteorologists have warned that this year's season would be "above normal." However, this does not mean that we are out of the woods yet. Several strong hurricanes could still form in September and October. Severe storms in the U.S. Gulf pose a significant risk to the U.S. oil industry. The U.S. Gulf coast is home to 56 refineries which process more than 9 million barrels per day (Mb/d), representing 55% of total U.S. refining capacity. In addition, the offshore U.S. Gulf produces 1.8 Mb/d of crude oil. As [Chart 1](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2022/poten_2022-09-01_calm-before-the-storm_chart1.png) shows, big storms in the U.S. Gulf can have a major impact on domestic oil balances.
+Hurricane season in the Gulf of Mexico typically runs every year from June 1 through November 30. According to the National Oceanic and Atmospheric Administration, an average Atlantic season spawns seven hurricanes and peaks in August, September, and October. This year, for the first time in 25 years, the month of August has passed without a named storm in the Atlantic, even though meteorologists have warned that this year's season would be "above normal." However, this does not mean that we are out of the woods yet. Several strong hurricanes could still form in September and October. Severe storms in the U.S. Gulf pose a significant risk to the U.S. oil industry. The U.S. Gulf coast is home to 56 refineries which process more than 9 million barrels per day (Mb/d), representing 55% of total U.S. refining capacity. In addition, the offshore U.S. Gulf produces 1.8 Mb/d of crude oil. As [Chart 1](../../../charts/poten/2022/poten_2022-09-01_calm-before-the-storm_chart1.png) shows, big storms in the U.S. Gulf can have a major impact on domestic oil balances.
 
-> **Exhibit 1: Calm Before The Storm (Chart 1)**  
-> *Source: Poten & Partners*  
-> **Interactive Data & Source:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2022/poten_2022-09-01_calm-before-the-storm_chart1.png)
+> **Exhibit 1: Hurricane Impact on Refining and Offshore Crude Production**  
+> Unit: Kb/d · X-axis: Jan-2005 to Jan-2022  
+> Series: Refining: PADD3 Crude Throughput, Offshore Crude Production  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2022/poten_2022-09-01_calm-before-the-storm_chart1.png)
 
-![Exhibit 1: Calm Before The Storm](../../../charts/poten/2022/poten_2022-09-01_calm-before-the-storm_chart1.png)
+![Exhibit 1: Hurricane Impact on Refining and Offshore Crude Production](../../../charts/poten/2022/poten_2022-09-01_calm-before-the-storm_chart1.png)
 
 The risk of supply disruptions in an already tight market was one of the concerns that was voiced last week in a letter from U.S. Energy Secretary Granholm. In the letter, which was addressed to several major U.S. refiners, she called on the domestic energy industry to build inventories and reduce exports. "Given the historic level of U.S. refined product exports, I again urge you to focus in the near term on building inventories in the United States, rather than selling down current stocks and further increasing exports," Granholm wrote. U.S. product exports are at a high level and domestic product inventories are indeed well below the 5-year average, in particular in the Northeast of the United States. From a U.S. government perspective, limiting exports and focusing on rebuilding domestic inventories would increase the safety margin for domestic consumers and reduce the risk of price spikes. Especially if one or more hurricanes make landfall in the U.S. Gulf and (temporarily) knock out refining capacity. However, the U.S. energy industry is part of the global energy infrastructure. Domestic U.S. actions have consequences in the rest of the world.
 
@@ -33,3 +34,11 @@ In this environment, what would a reduction in U.S. product exports mean for the
 Europe is another important customer for U.S. products. The U.S. could become even more important for Europe when more sanctions on Russia are implemented. Lower U.S. availability will lead Europe to import more product from the Middle East and Asia, providing a further boost to ton-mile demand.
 
 In summary, restricting U.S. product exports would likely raise ton-mile demand for product tankers and boost freight rates, even without any major hurricanes.
+
+## Market Exhibits & Charts
+
+> **Chart on PDF page 1: U.S. Petroleum Product Exports by Destination**  
+> Unit: Kb/d · X-axis: Jan-12 to Jan-22  
+> Series: Europe, FSU, Asia, Middle East, Africa, Latin America, Australia, North America  
+> *Source: EIA*  
+> *No image crop of this chart was saved; caption read from the PDF.*

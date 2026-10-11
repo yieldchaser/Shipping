@@ -23,10 +23,10 @@ source_file: "corpus/03-breakwave/insights/2023/2023-05-11_signal-dry-bulk-weekl
 
 *Rise in April to the highest level in a year, with Dharma the top destination port*
 
-![Market Chart 1](assets/2023-05-11_signal-dry-bulk-weekly-report_img_unnamed-2023-05-11t114744350_8e75df027a17.png)
+![Market Chart 1](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-05-11_signal-dry-bulk-weekly-report_img_unnamed-2023-05-11t114744350_8e75df027a17.png)
 
 > **Figure 1: Market Chart 1**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://go.signalocean.com/e/983831/amic-drybulkflows-downloadable/2nxs9j/318228156?h=tvCjPtFa1TyZ3zwi3M09OjbqdQVP3ptBWqufiBTbdnM) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-05-11_signal-dry-bulk-weekly-report_img_unnamed-2023-05-11t114744350_8e75df027a17.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://go.signalocean.com/e/983831/amic-drybulkflows-downloadable/2nxs9j/318228156?h=tvCjPtFa1TyZ3zwi3M09OjbqdQVP3ptBWqufiBTbdnM) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-05-11_signal-dry-bulk-weekly-report_img_unnamed-2023-05-11t114744350_8e75df027a17.png)
 
 Data Source: The Signal Ocean Platform, Dry Bulk Flows
 [Signal Ocean Platform](https://go.signalocean.com/e/983831/amic-drybulkflows-downloadable/2nxs9j/318228156?h=tvCjPtFa1TyZ3zwi3M09OjbqdQVP3ptBWqufiBTbdnM)
@@ -44,10 +44,10 @@ Freight Market, Supply, Demand and Port Congestion
 
 ‘The Big Picture’ - Capesize and Panamax Bulkers and Smaller Ship Sizes
 
-![Market Chart 2](assets/2023-05-11_signal-dry-bulk-weekly-report_img_unnamed-2023-05-11t114845380_5cd78340c2e4.png)
+![Market Chart 2](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-05-11_signal-dry-bulk-weekly-report_img_unnamed-2023-05-11t114845380_5cd78340c2e4.png)
 
 > **Figure 2: Market Chart 2**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-05-11_signal-dry-bulk-weekly-report_img_unnamed-2023-05-11t114845380_5cd78340c2e4.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-05-11_signal-dry-bulk-weekly-report_img_unnamed-2023-05-11t114845380_5cd78340c2e4.png)
 
 In the second half of May, the Capesize segment continued the stronger momentum of the previous week, while rates for other vessel size classes showed a weaker outlook.
 
@@ -60,10 +60,10 @@ In the second half of May, the Capesize segment continued the stronger momentum 
 
 ### Capesize-Panamax - Handysize Increasing | Supramax Decreasing
 
-![Supply Trend Lines for Key Load Areas](assets/2023-05-11_signal-dry-bulk-weekly-report_img_unnamed-2023-05-11t115202046_3cb20377b4ec.png)
+![Supply Trend Lines for Key Load Areas](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-05-11_signal-dry-bulk-weekly-report_img_unnamed-2023-05-11t115202046_3cb20377b4ec.png)
 
 > **Figure 3: Supply Trend Lines for Key Load Areas**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-05-11_signal-dry-bulk-weekly-report_img_unnamed-2023-05-11t115202046_3cb20377b4ec.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-05-11_signal-dry-bulk-weekly-report_img_unnamed-2023-05-11t115202046_3cb20377b4ec.png)
 
 The number of ballast ships has continued to increase in the Capesize, Panamax and Handysize segments, while there are signs of a decline in Supramax.
 
@@ -74,10 +74,10 @@ The number of ballast ships has continued to increase in the Capesize, Panamax a
 
 ## Section 3/ Demand -TonDays Softening
 
-![TonDays Softening](assets/2023-05-11_signal-dry-bulk-weekly-report_img_unnamed-2023-05-11t115542457_82df6c2a0ba8.png)
+![TonDays Softening](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-05-11_signal-dry-bulk-weekly-report_img_unnamed-2023-05-11t115542457_82df6c2a0ba8.png)
 
 > **Figure 4: TonDays Softening**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-05-11_signal-dry-bulk-weekly-report_img_unnamed-2023-05-11t115542457_82df6c2a0ba8.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-05-11_signal-dry-bulk-weekly-report_img_unnamed-2023-05-11t115542457_82df6c2a0ba8.png)
 
 In the second week of May, the weakening of demand dynamics continues, with signs of a firmer trend in Capesize.
 
@@ -88,10 +88,10 @@ In the second week of May, the weakening of demand dynamics continues, with sign
 
 ## Section 4/ Port Congestion -No of Vesselsincreasingdry Bulk Ships Congested at Chinese Ports
 
-![Increasing](assets/2023-05-11_signal-dry-bulk-weekly-report_img_unnamed-2023-05-11t115704304_aea050a4eb66.png)
+![Increasing](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-05-11_signal-dry-bulk-weekly-report_img_unnamed-2023-05-11t115704304_aea050a4eb66.png)
 
 > **Figure 5: Increasing**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-05-11_signal-dry-bulk-weekly-report_img_unnamed-2023-05-11t115704304_aea050a4eb66.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-05-11_signal-dry-bulk-weekly-report_img_unnamed-2023-05-11t115704304_aea050a4eb66.png)
 
 Congestion increased due to the upward trend in all ship size categories. The second week of May developed with a surprising upward trend at similar levels to the second week of this year.
 

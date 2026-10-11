@@ -28,33 +28,33 @@ This week, with diplomatic focus sharpening in Moscow and newly released trade d
 
 Diplomatic activity surrounding the Russia–Ukraine conflict attracted increased attention this week, with reported discussions expected to continue in Moscow. As Washington broadens its diplomatic outreach, market observers are reevaluating how any potential post-war framework, even if tentative, could eventually impact maritime trade. The focus is shifting to timing and the speed at which shipping patterns might adjust if geopolitical pressures start to ease.
 
-![Στιγμιότυπο Οθόνης 2025 12 04 102055](assets/2025-12-04_energy-markets-sanctions-dynamics-amp-the-2026-rebalancing-scenario_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_562b65613275.png)
+![Στιγμιότυπο Οθόνης 2025 12 04 102055](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-12-04_energy-markets-sanctions-dynamics-amp-the-2026-rebalancing-scenario_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_562b65613275.png)
 
 > **Figure 1: Στιγμιότυπο Οθόνης 2025 12 04 102055**  
-> **Interactive Data & Source:** [Allied-shipbroking](https://www.allied-shipbroking.gr/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-12-04_energy-markets-sanctions-dynamics-amp-the-2026-rebalancing-scenario_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_562b65613275.png)
+> **Interactive Data & Source:** [Allied-shipbroking](https://www.allied-shipbroking.gr/) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-12-04_energy-markets-sanctions-dynamics-amp-the-2026-rebalancing-scenario_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_562b65613275.png)
 
-![Στιγμιότυπο Οθόνης 2025 12 04 102102](assets/2025-12-04_energy-markets-sanctions-dynamics-amp-the-2026-rebalancing-scenario_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_e39411038645.png)
+![Στιγμιότυπο Οθόνης 2025 12 04 102102](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-12-04_energy-markets-sanctions-dynamics-amp-the-2026-rebalancing-scenario_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_e39411038645.png)
 
 > **Figure 2: Στιγμιότυπο Οθόνης 2025 12 04 102102**  
-> **Interactive Data & Source:** [Allied-shipbroking](https://www.allied-shipbroking.gr/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-12-04_energy-markets-sanctions-dynamics-amp-the-2026-rebalancing-scenario_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_e39411038645.png)
+> **Interactive Data & Source:** [Allied-shipbroking](https://www.allied-shipbroking.gr/) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-12-04_energy-markets-sanctions-dynamics-amp-the-2026-rebalancing-scenario_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_e39411038645.png)
 
 **Russian Export System Under Mounting Pressure**| Coal Identified as the Main Cause of Revenue Drop
 
 Allied Quantumsea Research reviewed the latest CREA data, which show a pronounced weakening in Russia’s fossil fuel export earnings. In October, total revenues fell 4% month-on-month to EUR 524 million per day, the lowest level since the start of the invasion. The bulk of this decline came from coal, where revenues dropped 10% to EUR 62 million daily despite a 14% increase in export volumes. This is the first revenue contraction in six months and highlights Russia’s eroding pricing power even as shipments grow.
 
-![Στιγμιότυπο Οθόνης 2025 12 04 102211](assets/2025-12-04_energy-markets-sanctions-dynamics-amp-the-2026-rebalancing-scenario_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_fd9557715fdf.png)
+![Στιγμιότυπο Οθόνης 2025 12 04 102211](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-12-04_energy-markets-sanctions-dynamics-amp-the-2026-rebalancing-scenario_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_fd9557715fdf.png)
 
 > **Figure 3: Στιγμιότυπο Οθόνης 2025 12 04 102211**  
-> **Interactive Data & Source:** [Allied-shipbroking](https://www.allied-shipbroking.gr/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-12-04_energy-markets-sanctions-dynamics-amp-the-2026-rebalancing-scenario_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_fd9557715fdf.png)
+> **Interactive Data & Source:** [Allied-shipbroking](https://www.allied-shipbroking.gr/) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-12-04_energy-markets-sanctions-dynamics-amp-the-2026-rebalancing-scenario_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_fd9557715fdf.png)
 
 Other energy segments delivered a more mixed performance. Crude revenues were broadly stable at EUR 238 million per day, split between EUR 59 million from pipelines and EUR 179 million from seaborne exports.
 
 LNG was the only segment showing clear upside, rising 10% to EUR 38 million daily after a 29% increase in volumes. Pipeline gas revenues slipped 6% to EUR 69 million per day, while seaborne oil products saw an 11% decline to EUR 114 million. None of these shifts, however, matched the severity of the coal downturn, which remains the primary driver of October’s revenue losses. The widening gap between rising volumes and falling revenues underscores intensifying discount pressure and the constraints on Russia’s ability to monetise exports under sanctions.
 
-![Στιγμιότυπο Οθόνης 2025 12 04 102310](assets/2025-12-04_energy-markets-sanctions-dynamics-amp-the-2026-rebalancing-scenario_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_e83432b97b15.png)
+![Στιγμιότυπο Οθόνης 2025 12 04 102310](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-12-04_energy-markets-sanctions-dynamics-amp-the-2026-rebalancing-scenario_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_e83432b97b15.png)
 
 > **Figure 4: Στιγμιότυπο Οθόνης 2025 12 04 102310**  
-> **Interactive Data & Source:** [Allied-shipbroking](https://www.allied-shipbroking.gr/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-12-04_energy-markets-sanctions-dynamics-amp-the-2026-rebalancing-scenario_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_e83432b97b15.png)
+> **Interactive Data & Source:** [Allied-shipbroking](https://www.allied-shipbroking.gr/) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-12-04_energy-markets-sanctions-dynamics-amp-the-2026-rebalancing-scenario_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_e83432b97b15.png)
 
 ### China & India – Dominant Buyers, Evolving Dynamics
 
@@ -62,28 +62,28 @@ China accounted for 44% (EUR 5.8 bn) of Russia’s fossil fuel revenues in Octob
 
 India was the second-largest buyer, with EUR 3.1 bn in imports, almost entirely crude-related (EUR 2.5 bn). Its purchases rose 11% m/m as state refiners intensified their intake of Russian barrels. The Vadinar refinery lifted throughput to 90%, pushing Russian crude imports up 32%, but its exports fell 47% y/y, pointing to the possibility that sanctions are beginning to weigh more heavily on downstream product flows.
 
-![Στιγμιότυπο Οθόνης 2025 12 04 102320](assets/2025-12-04_energy-markets-sanctions-dynamics-amp-the-2026-rebalancing-scenario_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_baa86d00dcd9.png)
+![Στιγμιότυπο Οθόνης 2025 12 04 102320](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-12-04_energy-markets-sanctions-dynamics-amp-the-2026-rebalancing-scenario_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_baa86d00dcd9.png)
 
 > **Figure 5: Στιγμιότυπο Οθόνης 2025 12 04 102320**  
-> **Interactive Data & Source:** [Allied-shipbroking](https://www.allied-shipbroking.gr/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-12-04_energy-markets-sanctions-dynamics-amp-the-2026-rebalancing-scenario_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_baa86d00dcd9.png)
+> **Interactive Data & Source:** [Allied-shipbroking](https://www.allied-shipbroking.gr/) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-12-04_energy-markets-sanctions-dynamics-amp-the-2026-rebalancing-scenario_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_baa86d00dcd9.png)
 
 ### Price Cap Effects – Urals Still Trades Above the Ceiling
 
 Urals crude averaged USD 59/bbl in October (about 4% lower than the previous month), remaining above the official USD 47.60/bbl price cap. The discount to Brent narrowed to roughly USD 4.92/bbl over the same period. With the discount tightening and U.S. sanctions scrutiny increasing in India, Urals purchases could start to ease as buyers reassess the trade-off between price and compliance risk.
 
-![Στιγμιότυπο Οθόνης 2025 12 04 102338](assets/2025-12-04_energy-markets-sanctions-dynamics-amp-the-2026-rebalancing-scenario_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_b7353be0e88f.png)
+![Στιγμιότυπο Οθόνης 2025 12 04 102338](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-12-04_energy-markets-sanctions-dynamics-amp-the-2026-rebalancing-scenario_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_b7353be0e88f.png)
 
 > **Figure 6: Στιγμιότυπο Οθόνης 2025 12 04 102338**  
-> **Interactive Data & Source:** [Allied-shipbroking](https://www.allied-shipbroking.gr/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-12-04_energy-markets-sanctions-dynamics-amp-the-2026-rebalancing-scenario_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_b7353be0e88f.png)
+> **Interactive Data & Source:** [Allied-shipbroking](https://www.allied-shipbroking.gr/) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-12-04_energy-markets-sanctions-dynamics-amp-the-2026-rebalancing-scenario_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_b7353be0e88f.png)
 
 ### Tanker Participation – The Gradual Return of G7+ Tonnage
 
 G7-aligned tankers continued to regain ground in October, accounting for 38% of Russia’s seaborne crude exports. Shadow-fleet vessels still carried the largest share at 44%, with non-sanctioned non-G7 units contributing the remaining 18%. The pattern was more pronounced in oil products, where G7+ vessels moved 79% of volumes, compared with 15% for sanctioned shadow vessels and 6% for other non-G7 units. In total, 360 tankers participated in Russian export trades during the month, including 117 shadow vessels, 41 of which were more than 20 years old. The reliance on older, lightly insured tonnage continues to pose non-trivial operational and environmental risks. In the event of a coastal incident involving such vessels, cleanup and liability costs could exceed EUR 1 billion, underscoring the exposure faced by littoral states as enforcement regimes become more stringent.
 
-![Στιγμιότυπο Οθόνης 2025 12 04 102349](assets/2025-12-04_energy-markets-sanctions-dynamics-amp-the-2026-rebalancing-scenario_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_f8aa9283d78b.png)
+![Στιγμιότυπο Οθόνης 2025 12 04 102349](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-12-04_energy-markets-sanctions-dynamics-amp-the-2026-rebalancing-scenario_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_f8aa9283d78b.png)
 
 > **Figure 7: Στιγμιότυπο Οθόνης 2025 12 04 102349**  
-> **Interactive Data & Source:** [Allied-shipbroking](https://www.allied-shipbroking.gr/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-12-04_energy-markets-sanctions-dynamics-amp-the-2026-rebalancing-scenario_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_f8aa9283d78b.png)
+> **Interactive Data & Source:** [Allied-shipbroking](https://www.allied-shipbroking.gr/) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-12-04_energy-markets-sanctions-dynamics-amp-the-2026-rebalancing-scenario_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_f8aa9283d78b.png)
 
 ### How 2026 Could Evolve Under a Peace Scenario
 

@@ -42,6 +42,7 @@ For full details on the conference's events and program at South Beach Miami Bea
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: The 27 Annual Fuel Oil/Energy Buyers' Conference,](../../../charts/poten/2007/poten_2007-10-28_the-27-annual-fuel-oilenergy-buyers-conference_chart1.png)
-
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2007/poten_2007-10-28_the-27-annual-fuel-oilenergy-buyers-conference_chart1.png)
+> **Chart on PDF page 1: YTD 2006 vs 2007 Fuel Oil Movements**  
+> Unit: Million metric tons · X-axis: Panamax to VLCC  
+> Series: 2006 Year-to-date, 2007 Year-to-date  
+> *No image crop of this chart was saved; caption read from the PDF.*

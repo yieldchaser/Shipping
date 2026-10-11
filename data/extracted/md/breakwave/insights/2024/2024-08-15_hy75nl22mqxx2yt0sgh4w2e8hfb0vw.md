@@ -50,10 +50,10 @@ Future opportunities for Aframaxes in the Red Sea/MEG region could be restricted
 
 - Ongoing force majeure at Zawia Terminal (as reported in Argus Media) will impact cross-med Aframax trade the most
 
-![Στιγμιότυπο Οθόνης 2024 08 15 105858](assets/2024-08-15_hy75nl22mqxx2yt0sgh4w2e8hfb0vw_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_40156abbc684.png)
+![Στιγμιότυπο Οθόνης 2024 08 15 105858](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-08-15_hy75nl22mqxx2yt0sgh4w2e8hfb0vw_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_40156abbc684.png)
 
 > **Figure 1: Στιγμιότυπο Οθόνης 2024 08 15 105858**  
-> **Interactive Data & Source:** [Vortexa](https://www.vortexa.com//oil-gas-data-traders-analysts-data-scientists?gclid=Cj0KCQjw8_qRBhCXARIsAE2AtRZKOvMnbilZ_6_91d7huSFFy71pWLrnPwGwOHVzXsmsG-1a1mZnQw8aAt89EALw_wcB&hsa_acc=1782073842&hsa_ad=548425387665&hsa_cam=14746637662&hsa_grp=125038601902&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_src=g&hsa_tgt=dsa-1431852288425&hsa_ver=3&utm_campaign=%5BCD%5D%20-%20DSA%20-%20EMEA&utm_medium=cpc&utm_medium=ppc&utm_source=google&utm_source=adwords&utm_term=) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-08-15_hy75nl22mqxx2yt0sgh4w2e8hfb0vw_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_40156abbc684.png)
+> **Interactive Data & Source:** [Vortexa](https://www.vortexa.com//oil-gas-data-traders-analysts-data-scientists?gclid=Cj0KCQjw8_qRBhCXARIsAE2AtRZKOvMnbilZ_6_91d7huSFFy71pWLrnPwGwOHVzXsmsG-1a1mZnQw8aAt89EALw_wcB&hsa_acc=1782073842&hsa_ad=548425387665&hsa_cam=14746637662&hsa_grp=125038601902&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_src=g&hsa_tgt=dsa-1431852288425&hsa_ver=3&utm_campaign=%5BCD%5D%20-%20DSA%20-%20EMEA&utm_medium=cpc&utm_medium=ppc&utm_source=google&utm_source=adwords&utm_term=) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-08-15_hy75nl22mqxx2yt0sgh4w2e8hfb0vw_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_40156abbc684.png)
 
 ### Clean – East of Suez: LR1 Rates Reach 2024-Lows As Availability Continues to Add Pressure in the Middle East
 
@@ -68,10 +68,10 @@ Looking forward, the surging prompt tonnage of LR1s in the Middle East, which is
 
 - Rates could find support on the naphtha trade as ethylene crackers raise their runs, if the spread versus LPG narrows furthe.
 
-![Στιγμιότυπο Οθόνης 2024 08 15 105912](assets/2024-08-15_hy75nl22mqxx2yt0sgh4w2e8hfb0vw_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_a592bc3e9c20.png)
+![Στιγμιότυπο Οθόνης 2024 08 15 105912](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-08-15_hy75nl22mqxx2yt0sgh4w2e8hfb0vw_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_a592bc3e9c20.png)
 
 > **Figure 2: Στιγμιότυπο Οθόνης 2024 08 15 105912**  
-> **Interactive Data & Source:** [Vortexa](https://www.vortexa.com//oil-gas-data-traders-analysts-data-scientists?gclid=Cj0KCQjw8_qRBhCXARIsAE2AtRZKOvMnbilZ_6_91d7huSFFy71pWLrnPwGwOHVzXsmsG-1a1mZnQw8aAt89EALw_wcB&hsa_acc=1782073842&hsa_ad=548425387665&hsa_cam=14746637662&hsa_grp=125038601902&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_src=g&hsa_tgt=dsa-1431852288425&hsa_ver=3&utm_campaign=%5BCD%5D%20-%20DSA%20-%20EMEA&utm_medium=cpc&utm_medium=ppc&utm_source=google&utm_source=adwords&utm_term=) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-08-15_hy75nl22mqxx2yt0sgh4w2e8hfb0vw_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_a592bc3e9c20.png)
+> **Interactive Data & Source:** [Vortexa](https://www.vortexa.com//oil-gas-data-traders-analysts-data-scientists?gclid=Cj0KCQjw8_qRBhCXARIsAE2AtRZKOvMnbilZ_6_91d7huSFFy71pWLrnPwGwOHVzXsmsG-1a1mZnQw8aAt89EALw_wcB&hsa_acc=1782073842&hsa_ad=548425387665&hsa_cam=14746637662&hsa_grp=125038601902&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_src=g&hsa_tgt=dsa-1431852288425&hsa_ver=3&utm_campaign=%5BCD%5D%20-%20DSA%20-%20EMEA&utm_medium=cpc&utm_medium=ppc&utm_source=google&utm_source=adwords&utm_term=) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-08-15_hy75nl22mqxx2yt0sgh4w2e8hfb0vw_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_a592bc3e9c20.png)
 
 ### Dirty – West of Suez: Aframax Increasingly Head to the Pacific Basin for Better Employment Opportunities
 
@@ -85,10 +85,10 @@ At the same time sanctioning policies and outages of key regions could keep util
 - Sanctioning policies continue to reduce the Aframax fleet participating in Russia trades, as Suezmax gain share (read previous issue for more details).
 - Libya’s force majeure caps opportunities out of the Mediterranean, leaving Aframaxes to compete with Suezmax tankers for barrels in the Black Sea, where activity has been limited according to broker reports.
 
-![Στιγμιότυπο Οθόνης 2024 08 15 105930](assets/2024-08-15_hy75nl22mqxx2yt0sgh4w2e8hfb0vw_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_e93738e56797.png)
+![Στιγμιότυπο Οθόνης 2024 08 15 105930](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-08-15_hy75nl22mqxx2yt0sgh4w2e8hfb0vw_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_e93738e56797.png)
 
 > **Figure 3: Στιγμιότυπο Οθόνης 2024 08 15 105930**  
-> **Interactive Data & Source:** [Vortexa](https://www.vortexa.com//oil-gas-data-traders-analysts-data-scientists?gclid=Cj0KCQjw8_qRBhCXARIsAE2AtRZKOvMnbilZ_6_91d7huSFFy71pWLrnPwGwOHVzXsmsG-1a1mZnQw8aAt89EALw_wcB&hsa_acc=1782073842&hsa_ad=548425387665&hsa_cam=14746637662&hsa_grp=125038601902&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_src=g&hsa_tgt=dsa-1431852288425&hsa_ver=3&utm_campaign=%5BCD%5D%20-%20DSA%20-%20EMEA&utm_medium=cpc&utm_medium=ppc&utm_source=google&utm_source=adwords&utm_term=) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-08-15_hy75nl22mqxx2yt0sgh4w2e8hfb0vw_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_e93738e56797.png)
+> **Interactive Data & Source:** [Vortexa](https://www.vortexa.com//oil-gas-data-traders-analysts-data-scientists?gclid=Cj0KCQjw8_qRBhCXARIsAE2AtRZKOvMnbilZ_6_91d7huSFFy71pWLrnPwGwOHVzXsmsG-1a1mZnQw8aAt89EALw_wcB&hsa_acc=1782073842&hsa_ad=548425387665&hsa_cam=14746637662&hsa_grp=125038601902&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_src=g&hsa_tgt=dsa-1431852288425&hsa_ver=3&utm_campaign=%5BCD%5D%20-%20DSA%20-%20EMEA&utm_medium=cpc&utm_medium=ppc&utm_source=google&utm_source=adwords&utm_term=) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-08-15_hy75nl22mqxx2yt0sgh4w2e8hfb0vw_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_e93738e56797.png)
 
 ### Clean – West of Suez: MR Supply Pressure Shifts to Nw Europe Amid Low Gasoline Loadings and Strong Arrivals on Tc14
 
@@ -102,10 +102,10 @@ A contributing factor to the supply-side pressure is the steady stream of arriva
 - Upon arrival in Europe, MR operators were likely enticed to stay and trade in that market due to increasing earnings in NW Europe as vessel supply tightened in H2 of July.
 - This has alleviated some of the extra tonnage in the US Gulf, helping to flatten out the volatility in prompt vessel supply and freight rates experienced over the last 2.5 months.
 
-![Στιγμιότυπο Οθόνης 2024 08 15 105948](assets/2024-08-15_hy75nl22mqxx2yt0sgh4w2e8hfb0vw_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_3f0472956fdb.png)
+![Στιγμιότυπο Οθόνης 2024 08 15 105948](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-08-15_hy75nl22mqxx2yt0sgh4w2e8hfb0vw_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_3f0472956fdb.png)
 
 > **Figure 4: Στιγμιότυπο Οθόνης 2024 08 15 105948**  
-> **Interactive Data & Source:** [Vortexa](https://www.vortexa.com//oil-gas-data-traders-analysts-data-scientists?gclid=Cj0KCQjw8_qRBhCXARIsAE2AtRZKOvMnbilZ_6_91d7huSFFy71pWLrnPwGwOHVzXsmsG-1a1mZnQw8aAt89EALw_wcB&hsa_acc=1782073842&hsa_ad=548425387665&hsa_cam=14746637662&hsa_grp=125038601902&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_src=g&hsa_tgt=dsa-1431852288425&hsa_ver=3&utm_campaign=%5BCD%5D%20-%20DSA%20-%20EMEA&utm_medium=cpc&utm_medium=ppc&utm_source=google&utm_source=adwords&utm_term=) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-08-15_hy75nl22mqxx2yt0sgh4w2e8hfb0vw_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_3f0472956fdb.png)
+> **Interactive Data & Source:** [Vortexa](https://www.vortexa.com//oil-gas-data-traders-analysts-data-scientists?gclid=Cj0KCQjw8_qRBhCXARIsAE2AtRZKOvMnbilZ_6_91d7huSFFy71pWLrnPwGwOHVzXsmsG-1a1mZnQw8aAt89EALw_wcB&hsa_acc=1782073842&hsa_ad=548425387665&hsa_cam=14746637662&hsa_grp=125038601902&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_src=g&hsa_tgt=dsa-1431852288425&hsa_ver=3&utm_campaign=%5BCD%5D%20-%20DSA%20-%20EMEA&utm_medium=cpc&utm_medium=ppc&utm_source=google&utm_source=adwords&utm_term=) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-08-15_hy75nl22mqxx2yt0sgh4w2e8hfb0vw_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_3f0472956fdb.png)
 
 Data Source:[Vortexa](https://www.vortexa.com//oil-gas-data-traders-analysts-data-scientists?gclid=Cj0KCQjw8_qRBhCXARIsAE2AtRZKOvMnbilZ_6_91d7huSFFy71pWLrnPwGwOHVzXsmsG-1a1mZnQw8aAt89EALw_wcB&hsa_acc=1782073842&hsa_ad=548425387665&hsa_cam=14746637662&hsa_grp=125038601902&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_src=g&hsa_tgt=dsa-1431852288425&hsa_ver=3&utm_campaign=%5BCD%5D%20-%20DSA%20-%20EMEA&utm_medium=cpc&utm_medium=ppc&utm_source=google&utm_source=adwords&utm_term=)
 

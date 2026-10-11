@@ -42,10 +42,18 @@ To a limited extent, the Net Zero emissions policies will also offer new opportu
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: Changing Tides](../../../charts/poten/2021/poten_2021-05-21_changing-tides_chart1.png)
+![Exhibit 1: Global Energy Consumption by Fuel and CO₂ Intensity In Non-Road Transportation Sectors](../../../charts/poten/2021/poten_2021-05-21_changing-tides_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2021/poten_2021-05-21_changing-tides_chart1.png)
+> **Exhibit 1: Global Energy Consumption by Fuel and CO₂ Intensity In Non-Road Transportation Sectors**  
+> Unit: % | gCO2/MJ · X-axis: 2020 to 2050  
+> Series: Oil, Gas, Bioenergy, Hydrogen, Ammonia, Electricity, Synthetic fuel, CO2 intensity (right axis)  
+> *Source: IEA*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2021/poten_2021-05-21_changing-tides_chart1.png)
 
-![Exhibit 2: Changing Tides](../../../charts/poten/2021/poten_2021-05-21_changing-tides_chart2.png)
+![Exhibit 2: Oil and Natural Gas Production in Net Zero Emissions Scenario](../../../charts/poten/2021/poten_2021-05-21_changing-tides_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2021/poten_2021-05-21_changing-tides_chart2.png)
+> **Exhibit 2: Oil and Natural Gas Production in Net Zero Emissions Scenario**  
+> Unit: mb/d | Thousand bcm · X-axis: 2010 to 2050  
+> Series: Middle East, North America, Eurasia, Africa, Asia Pacific, Central and South America, Europe  
+> *Source: IEA*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2021/poten_2021-05-21_changing-tides_chart2.png)

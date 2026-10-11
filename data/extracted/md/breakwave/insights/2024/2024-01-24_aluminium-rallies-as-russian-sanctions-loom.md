@@ -23,10 +23,10 @@ source_file: "corpus/03-breakwave/insights/2024/2024-01-24_aluminium-rallies-as-
 
 Supply side issues were back in focus amid a dearth of economic data. Geopolitical tensions remained supportive in the energy sector, while price-induced closures continued in metals.
 
-![1706044549115](assets/2024-01-24_aluminium-rallies-as-russian-sanctions-loom_img_1706044549115_266124302b54.png)
+![1706044549115](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-01-24_aluminium-rallies-as-russian-sanctions-loom_img_1706044549115_266124302b54.png)
 
 > **Figure 1: 1706044549115**  
-> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-01-24_aluminium-rallies-as-russian-sanctions-loom_img_1706044549115_266124302b54.png)
+> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-01-24_aluminium-rallies-as-russian-sanctions-loom_img_1706044549115_266124302b54.png)
 
 **Aluminium**led the base metals sector higher as supply side issues came back into focus. The lightweight metal rallied after reports that the European Union is considering sanctions on Russian supply ahead of the second anniversary of the invasion of Ukraine. Metal from Russia has escaped broad sanctions until December, when the UK block citizens from trading physical metal from the country. While the LME received a licence to continue trading, the risks of being left holding unwanted Russia metal remains high. The latest move raises this risk further. The rest of the complex was dragged along by the move, with recent closures of copper, nickel and zinc operations also providing some support.
 

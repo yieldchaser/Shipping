@@ -40,7 +40,7 @@ A 5% increase in global steel exports in 2025 was driven by a surge in Chinese e
 
 > **Figure 1: Source: Steel-Driven Tonne-Miles From Signal Ocean**  
 > *Source: Steel-driven tonne-miles from Signal Ocean*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/commodity-radar-spotlight-steel) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6966237fc9f28bc2020b3de7_Screenshot 2026-01-13 at 10.25.22.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/commodity-radar-spotlight-steel) | [Local Asset](../../../../../../corpus/07-signal/images/6966237fc9f28bc2020b3de7_Screenshot%202026-01-13%20at%2010.25.22.png)
 
 Global steel flows reached 234mt in 2025, 5% higher than in 2024. The entirety of this growth has been driven by China, which saw steel exports increase 19% to 92mt. Outside of China, global flows have actually contracted by 2% in 2025, led by a 1.8% drop in Japanese export flows, the largest exporter after China on TSOP.
 
@@ -51,7 +51,7 @@ China accounted for nearly 40% of all seaborne steel tonnage exported, according
 
 > **Figure 2: Source: China Steel Exports From Signal Ocean**  
 > *Source: China steel exports from Signal Ocean*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/commodity-radar-spotlight-steel) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/696623a028570c79c8ae61df_Screenshot 2026-01-13 at 10.25.36.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/commodity-radar-spotlight-steel) | [Local Asset](../../../../../../corpus/07-signal/images/696623a028570c79c8ae61df_Screenshot%202026-01-13%20at%2010.25.36.png)
 
 Chinese steel production capacity is around 1bt, vastly outpacing second-place India, which has a capacity of around 200mt moving to a targeted 300mt by 2030.  Yet, continued weak performances of the domestic construction industry have heavily impacted steel demand, forcing prices lower and leading to steel mills cutting back production. The most recent figures for Chinese steel production show it 4% lower than over the same period in 2024, with only December data to come.
 
@@ -64,7 +64,7 @@ This would shift focus to export markets, but the new government-imposed export 
 
 > **Figure 3: Source: China Crude Steel Production From the World Steel Association**  
 > *Source: China crude steel production from the World Steel Association*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/commodity-radar-spotlight-steel) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/696623b5242528333cd1f0a7_Screenshot 2026-01-13 at 10.33.45.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/commodity-radar-spotlight-steel) | [Local Asset](../../../../../../corpus/07-signal/images/696623b5242528333cd1f0a7_Screenshot%202026-01-13%20at%2010.33.45.png)
 
 
 ## China's Steel Exports Will Drive Supramax Demand

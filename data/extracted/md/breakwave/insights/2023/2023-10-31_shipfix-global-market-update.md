@@ -59,9 +59,9 @@ Weekly spot cargo order volumes for the Capesizes have dropped sharply in the pa
 
 In terms of lower demand and cargo destinations, the drop in order volumes was, to a great extent, driven by lower demand for seaborne transportation of commodities to Chinese ports. Over the past two weeks, volumes for discharge in China have halved compared to what was observed during the first half of October. Still, as a large part of the decline in demand for Capesizes is linked to lower Chinese activities, the past week’s economic announcement could translate into higher demand for Capesizes and a rebound for the segment’s freight rates.
 
-![Market Chart 1](assets/2023-10-31_shipfix-global-market-update_img_unnamed-2023-10-31t105017477_1a8c4f968a43.png)
+![Market Chart 1](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-10-31_shipfix-global-market-update_img_unnamed-2023-10-31t105017477_1a8c4f968a43.png)
 
 > **Figure 1: Market Chart 1**  
-> **Interactive Data & Source:** [Shipfix](https://shipfix.com/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-10-31_shipfix-global-market-update_img_unnamed-2023-10-31t105017477_1a8c4f968a43.png)
+> **Interactive Data & Source:** [Shipfix](https://shipfix.com/) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-10-31_shipfix-global-market-update_img_unnamed-2023-10-31t105017477_1a8c4f968a43.png)
 
 Data Source:[Shipfix](https://shipfix.com/)

@@ -19,10 +19,10 @@ source_file: "corpus/03-breakwave/insights/2024/2024-01-10_signal-dru-bulk-annua
 
 ---
 
-![Market Chart 1](assets/2024-01-10_signal-dru-bulk-annual-review_img_unnamed-2024-01-10t143018124_b83b4faeb311.png)
+![Market Chart 1](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-01-10_signal-dru-bulk-annual-review_img_unnamed-2024-01-10t143018124_b83b4faeb311.png)
 
 > **Figure 1: Market Chart 1**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://go.signalocean.com/e/983831/brT130W-D8DhDM34g5rR6Wjw3q3HHf/2pqv4p/375003968/h/mn1WQyt3vYyFOQ3bSexqLqrKsJHQY2ljoET2EPD3x8A) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-01-10_signal-dru-bulk-annual-review_img_unnamed-2024-01-10t143018124_b83b4faeb311.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://go.signalocean.com/e/983831/brT130W-D8DhDM34g5rR6Wjw3q3HHf/2pqv4p/375003968/h/mn1WQyt3vYyFOQ3bSexqLqrKsJHQY2ljoET2EPD3x8A) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-01-10_signal-dru-bulk-annual-review_img_unnamed-2024-01-10t143018124_b83b4faeb311.png)
 
 The year 2023 witnessed significant shifts in commodity patterns, exacerbated by a difficult economic environment in China and geopolitical tensions, especially between Russia and Ukraine, which led to significant shifts in commodity development.
 

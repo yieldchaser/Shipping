@@ -66,6 +66,7 @@ India's geographic location is a plus. As a nation close to the Arabian Gulf, it
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: India The Real Rising Star](../../../charts/poten/2004/poten_2004-04-30_india-the-real-rising-star_chart1.png)
-
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2004/poten_2004-04-30_india-the-real-rising-star_chart1.png)
+> **Chart on PDF page 2: India's Oil Consumption vs. Production 1990 through 2010**  
+> Unit: Thousands of Bpd · X-axis: 1990 to 2010  
+> Series: Oil Consumption, Oil Production, Outlook  
+> *No image crop of this chart was saved; caption read from the PDF.*

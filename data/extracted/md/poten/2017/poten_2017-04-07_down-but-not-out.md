@@ -30,10 +30,16 @@ Declining West African crude oil production has also influenced tanker movements
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: Down But Not Out](../../../charts/poten/2017/poten_2017-04-07_down-but-not-out_chart1.png)
+![Exhibit 1: W. Africa Crude Exports by Vessel Class](../../../charts/poten/2017/poten_2017-04-07_down-but-not-out_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2017/poten_2017-04-07_down-but-not-out_chart1.png)
+> **Exhibit 1: W. Africa Crude Exports by Vessel Class**  
+> Unit: Ton ('000) · X-axis: Jan-15 to Mar-17  
+> Series: VLCC, Suezmax, Aframax  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2017/poten_2017-04-07_down-but-not-out_chart1.png)
 
-![Exhibit 2: Down But Not Out](../../../charts/poten/2017/poten_2017-04-07_down-but-not-out_chart2.png)
+![Exhibit 2: W. Africa Crude Exports by Destination](../../../charts/poten/2017/poten_2017-04-07_down-but-not-out_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2017/poten_2017-04-07_down-but-not-out_chart2.png)
+> **Exhibit 2: W. Africa Crude Exports by Destination**  
+> Unit: Ton ('000) | % · X-axis: Jan-15 to Mar-17  
+> Series: East, West, East %  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2017/poten_2017-04-07_down-but-not-out_chart2.png)

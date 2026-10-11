@@ -64,14 +64,26 @@ Slower development of non-OPEC crude projects or stronger-than-expected oil dema
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: IEA Trims OPEC Production Capacity Outlook](../../../charts/poten/2012/poten_2012-07-27_iea-trims-opec-production-capacity-outlook_chart1.png)
+![Exhibit 1: OPEC Sustainable Capacity by Region, yoy Change](../../../charts/poten/2012/poten_2012-07-27_iea-trims-opec-production-capacity-outlook_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2012/poten_2012-07-27_iea-trims-opec-production-capacity-outlook_chart1.png)
+> **Exhibit 1: OPEC Sustainable Capacity by Region, yoy Change**  
+> Unit: mbpd · X-axis: 2006 to 2016F  
+> Series: AG, W Africa, N Africa, Lat Amer  
+> *Source: IEA, Poten*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2012/poten_2012-07-27_iea-trims-opec-production-capacity-outlook_chart1.png)
 
-![Exhibit 2: IEA Trims OPEC Production Capacity Outlook](../../../charts/poten/2012/poten_2012-07-27_iea-trims-opec-production-capacity-outlook_chart2.png)
+![Exhibit 2: OPEC Spare Capacity by Region](../../../charts/poten/2012/poten_2012-07-27_iea-trims-opec-production-capacity-outlook_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2012/poten_2012-07-27_iea-trims-opec-production-capacity-outlook_chart2.png)
+> **Exhibit 2: OPEC Spare Capacity by Region**  
+> Unit: mbpd · X-axis: Jan-07 to Jan-12  
+> Series: AG, W Africa, N Africa, Lat Amer  
+> *Source: IEA, Poten*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2012/poten_2012-07-27_iea-trims-opec-production-capacity-outlook_chart2.png)
 
-![Exhibit 3: IEA Trims OPEC Production Capacity Outlook](../../../charts/poten/2012/poten_2012-07-27_iea-trims-opec-production-capacity-outlook_chart3.png)
+![Exhibit 3: OPEC Spare Production Capacity as a Percent of Global Demand](../../../charts/poten/2012/poten_2012-07-27_iea-trims-opec-production-capacity-outlook_chart3.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2012/poten_2012-07-27_iea-trims-opec-production-capacity-outlook_chart3.png)
+> **Exhibit 3: OPEC Spare Production Capacity as a Percent of Global Demand**  
+> Unit: % · X-axis: 1q07 to 1q15F  
+> Series: OPEC Spare Production Capacity  
+> *Source: IEA, Poten*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2012/poten_2012-07-27_iea-trims-opec-production-capacity-outlook_chart3.png)

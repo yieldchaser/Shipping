@@ -24,10 +24,10 @@ A surging USD continues to batter commodity markets. However, supply-side issues
 
 *By*[*Daniel Hynes*](https://www.linkedin.com/in/dahynes/)
 
-![Στιγμιότυπο Οθόνης 2024 11 13 134553](assets/2024-11-13_global-gas-prices-rise-as-supplies-tighten_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_51a0ac2fa75d.png)
+![Στιγμιότυπο Οθόνης 2024 11 13 134553](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-11-13_global-gas-prices-rise-as-supplies-tighten_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_51a0ac2fa75d.png)
 
 > **Figure 1: Στιγμιότυπο Οθόνης 2024 11 13 134553**  
-> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-11-13_global-gas-prices-rise-as-supplies-tighten_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_51a0ac2fa75d.png)
+> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-11-13_global-gas-prices-rise-as-supplies-tighten_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_51a0ac2fa75d.png)
 
 ### Market Commentary
 
@@ -43,10 +43,10 @@ The stronger USD continues to weigh on investor appetite in the**gold**market. T
 
 China continues to import strong levels of coal despite its inventories at record highs. Concerns of energy security and supply shortages remain the key driver.
 
-![Στιγμιότυπο Οθόνης 2024 11 13 134649](assets/2024-11-13_global-gas-prices-rise-as-supplies-tighten_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_d4e60c029e33.png)
+![Στιγμιότυπο Οθόνης 2024 11 13 134649](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-11-13_global-gas-prices-rise-as-supplies-tighten_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_d4e60c029e33.png)
 
 > **Figure 2: Στιγμιότυπο Οθόνης 2024 11 13 134649**  
-> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-11-13_global-gas-prices-rise-as-supplies-tighten_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_d4e60c029e33.png)
+> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-11-13_global-gas-prices-rise-as-supplies-tighten_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_d4e60c029e33.png)
 
 Data source:[Commodities Wrap](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI)
 

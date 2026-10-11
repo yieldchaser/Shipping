@@ -32,10 +32,18 @@ While Chinese oil demand and crude oil imports are currently under pressure, the
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: Will The Dragon Rise Again](../../../charts/poten/2024/poten_2024-07-12_will-the-dragon-rise-again_chart1.png)
+![Exhibit 1: China Petroleum Product Demand](../../../charts/poten/2024/poten_2024-07-12_will-the-dragon-rise-again_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2024/poten_2024-07-12_will-the-dragon-rise-again_chart1.png)
+> **Exhibit 1: China Petroleum Product Demand**  
+> Unit: Kb/d · X-axis: Jan-10 to Jan-24  
+> Series: Naphtha, Gasoline, Gasoil/Diesel, Kerosene, Fuel Oil, Other Oil Prod., LPG  
+> *Source: Jodi; Vortexa*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2024/poten_2024-07-12_will-the-dragon-rise-again_chart1.png)
 
-![Exhibit 2: Will The Dragon Rise Again](../../../charts/poten/2024/poten_2024-07-12_will-the-dragon-rise-again_chart2.png)
+![Exhibit 2: China Crude Oil Imports by Origin](../../../charts/poten/2024/poten_2024-07-12_will-the-dragon-rise-again_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2024/poten_2024-07-12_will-the-dragon-rise-again_chart2.png)
+> **Exhibit 2: China Crude Oil Imports by Origin**  
+> Unit: Kb/d · X-axis: Jan-16 to May-24  
+> Series: Saudi Arabia, Iraq, Russia, Angola, Oman, Brazil, Iran, Kuwait, Other  
+> *Source: Jodi; Vortexa*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2024/poten_2024-07-12_will-the-dragon-rise-again_chart2.png)

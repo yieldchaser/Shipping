@@ -28,10 +28,18 @@ Where do rates go from here? The consensus view is that the tanker market will p
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: This Time It Is Different](../../../charts/poten/2015/poten_2015-10-09_this-time-it-is-different_chart1.png)
+![Exhibit 1: VLCC rates 2008 – 2015 (TD3, Arabian Gulf – Japan)](../../../charts/poten/2015/poten_2015-10-09_this-time-it-is-different_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2015/poten_2015-10-09_this-time-it-is-different_chart1.png)
+> **Exhibit 1: VLCC rates 2008 – 2015 (TD3, Arabian Gulf – Japan)**  
+> Unit: TCE '000 $/day · X-axis: Apr-08 to Oct-15  
+> Series: 30-Jul-2008, 2-Oct-2015  
+> *Source: Baltic Exchange*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2015/poten_2015-10-09_this-time-it-is-different_chart1.png)
 
-![Exhibit 2: This Time It Is Different](../../../charts/poten/2015/poten_2015-10-09_this-time-it-is-different_chart2.png)
+![Exhibit 2: Tanker Segment and Orderbook Comparison (2008 vs 2015)](../../../charts/poten/2015/poten_2015-10-09_this-time-it-is-different_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2015/poten_2015-10-09_this-time-it-is-different_chart2.png)
+> **Exhibit 2: Tanker Segment and Orderbook Comparison (2008 vs 2015)**  
+> Unit: MDWT · X-axis: VLCC to MR/Handy  
+> Series: 2008 Fleet, 2008 Orderbook, 2015 Fleet, 2015 Orderbook  
+> *Source: Poten & Partners*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2015/poten_2015-10-09_this-time-it-is-different_chart2.png)

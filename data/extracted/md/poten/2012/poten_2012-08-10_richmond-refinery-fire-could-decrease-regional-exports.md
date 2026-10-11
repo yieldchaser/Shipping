@@ -56,32 +56,51 @@ California refineries could also increase utilization to meet demand...
 
 ![Exhibit 1: Richmond Refinery Fire Could Decrease Regional Exports](../../../charts/poten/2012/poten_2012-08-10_richmond-refinery-fire-could-decrease-regional-exports_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2012/poten_2012-08-10_richmond-refinery-fire-could-decrease-regional-exports_chart1.png)
+> **Interactive Asset:** [Local Asset (200 DPI PNG)](../../../charts/poten/2012/poten_2012-08-10_richmond-refinery-fire-could-decrease-regional-exports_chart1.png)
 
-![Exhibit 2: Richmond Refinery Fire Could Decrease Regional Exports](../../../charts/poten/2012/poten_2012-08-10_richmond-refinery-fire-could-decrease-regional-exports_chart2.png)
+![Exhibit 2: Average Los Angeles and San Francisco Clean Products Daily Price](../../../charts/poten/2012/poten_2012-08-10_richmond-refinery-fire-could-decrease-regional-exports_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2012/poten_2012-08-10_richmond-refinery-fire-could-decrease-regional-exports_chart2.png)
+> **Exhibit 2: Average Los Angeles and San Francisco Clean Products Daily Price**  
+> Unit: cents/gal · X-axis: 7/16/2012 to 8/9/2012  
+> Series: Unleaded 87/84 Gasoline, Ultra-low Sulfur (EPA) Diesel, Jet Fuel  
+> *Source: Platts*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2012/poten_2012-08-10_richmond-refinery-fire-could-decrease-regional-exports_chart2.png)
 
 ![Exhibit 3: Richmond Refinery Fire Could Decrease Regional Exports](../../../charts/poten/2012/poten_2012-08-10_richmond-refinery-fire-could-decrease-regional-exports_chart3.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2012/poten_2012-08-10_richmond-refinery-fire-could-decrease-regional-exports_chart3.png)
+> **Interactive Asset:** [Local Asset (200 DPI PNG)](../../../charts/poten/2012/poten_2012-08-10_richmond-refinery-fire-could-decrease-regional-exports_chart3.png)
 
-![Exhibit 4: Richmond Refinery Fire Could Decrease Regional Exports](../../../charts/poten/2012/poten_2012-08-10_richmond-refinery-fire-could-decrease-regional-exports_chart4.png)
+![Exhibit 4: PADD 5 Clean Product Balance](../../../charts/poten/2012/poten_2012-08-10_richmond-refinery-fire-could-decrease-regional-exports_chart4.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2012/poten_2012-08-10_richmond-refinery-fire-could-decrease-regional-exports_chart4.png)
+> **Exhibit 4: PADD 5 Clean Product Balance**  
+> Unit: kbpd · X-axis: Diesel to Jet Fuel  
+> Series: 2008, 2009, 2010, 2011  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2012/poten_2012-08-10_richmond-refinery-fire-could-decrease-regional-exports_chart4.png)
 
-![Exhibit 5: Richmond Refinery Fire Could Decrease Regional Exports](../../../charts/poten/2012/poten_2012-08-10_richmond-refinery-fire-could-decrease-regional-exports_chart5.png)
+![Exhibit 5: California, Gasoline Exports 2008-2012, kbpd](../../../charts/poten/2012/poten_2012-08-10_richmond-refinery-fire-could-decrease-regional-exports_chart5.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2012/poten_2012-08-10_richmond-refinery-fire-could-decrease-regional-exports_chart5.png)
+> **Exhibit 5: California, Gasoline Exports 2008-2012, kbpd**  
+> Unit: kbpd · X-axis: 2008 to 2011  
+> Series: Mexico, Canada, Ecuador, Other Countries  
+> *Source: EIA*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2012/poten_2012-08-10_richmond-refinery-fire-could-decrease-regional-exports_chart5.png)
 
-![Exhibit 6: Richmond Refinery Fire Could Decrease Regional Exports](../../../charts/poten/2012/poten_2012-08-10_richmond-refinery-fire-could-decrease-regional-exports_chart6.png)
+![Exhibit 6: California, Jet Fuel Exports 2008-2012, kbpd](../../../charts/poten/2012/poten_2012-08-10_richmond-refinery-fire-could-decrease-regional-exports_chart6.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2012/poten_2012-08-10_richmond-refinery-fire-could-decrease-regional-exports_chart6.png)
+> **Exhibit 6: California, Jet Fuel Exports 2008-2012, kbpd**  
+> Unit: kbpd · X-axis: 2008 to 2011  
+> Series: Canada, Chile, Nigeria, Panama, Other Countries  
+> *Source: EIA*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2012/poten_2012-08-10_richmond-refinery-fire-could-decrease-regional-exports_chart6.png)
 
-![Exhibit 7: Richmond Refinery Fire Could Decrease Regional Exports](../../../charts/poten/2012/poten_2012-08-10_richmond-refinery-fire-could-decrease-regional-exports_chart7.png)
+![Exhibit 7: California, Diesel Exports 2008-2012, kbpd](../../../charts/poten/2012/poten_2012-08-10_richmond-refinery-fire-could-decrease-regional-exports_chart7.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2012/poten_2012-08-10_richmond-refinery-fire-could-decrease-regional-exports_chart7.png)
+> **Exhibit 7: California, Diesel Exports 2008-2012, kbpd**  
+> Unit: kbpd · X-axis: 2008 to 2011  
+> Series: Mexico, Chile, Panama, Canada, Singapore, Peru, Netherlands, South Korea, Other Countries  
+> *Source: EIA*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2012/poten_2012-08-10_richmond-refinery-fire-could-decrease-regional-exports_chart7.png)
 
 ![Exhibit 8: Richmond Refinery Fire Could Decrease Regional Exports](../../../charts/poten/2012/poten_2012-08-10_richmond-refinery-fire-could-decrease-regional-exports_chart8.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2012/poten_2012-08-10_richmond-refinery-fire-could-decrease-regional-exports_chart8.png)
+> **Interactive Asset:** [Local Asset (200 DPI PNG)](../../../charts/poten/2012/poten_2012-08-10_richmond-refinery-fire-could-decrease-regional-exports_chart8.png)

@@ -68,6 +68,20 @@ The US refining system peaked in utilization in September of this year at nearly
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: A Non-November](../../../charts/poten/2006/poten_2006-12-01_a-non-november_chart1.png)
+> **Chart on PDF page 1: Untitled chart**  
+> Unit: TCE ($/day) · X-axis: Oct to Dec  
+> Series: 2004, 2005, 2006  
+> *Source: Poten & Partners*  
+> *No image crop of this chart was saved; caption read from the PDF.*
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2006/poten_2006-12-01_a-non-november_chart1.png)
+> **Chart on PDF page 2: Refinery Utilization (%)**  
+> Unit: % · X-axis: Oct to Dec  
+> Series: 2004, 2005, 2006  
+> *Source: EIA/Poten*  
+> *No image crop of this chart was saved; caption read from the PDF.*
+
+> **Chart on PDF page 2: Crude oil stocks in the United States**  
+> Unit: Million Barrels · X-axis: Oct to Dec  
+> Series: 2004, 2005, 2006  
+> *Source: EIA/Poten*  
+> *No image crop of this chart was saved; caption read from the PDF.*

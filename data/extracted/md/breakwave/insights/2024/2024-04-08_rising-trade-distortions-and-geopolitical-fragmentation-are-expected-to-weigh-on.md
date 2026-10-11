@@ -32,10 +32,10 @@ Global demand for metallurgical coal soared to 317 Mt in 2023, marking an 8 perc
 
 Looking ahead, Australia’s Department of Industry, Science, and Resources anticipates that Chinese demand will continue to exert a significant influence on commodity markets. However, the department also highlights India's robust economic growth. India's expanding manufacturing base and substantial infrastructure spending point toward an increase in per capita consumption of resource and energy commodities. Additionally, the ongoing global energy transition and efforts towards decarbonizing steel and aluminum production, along with supply chain transformations, are expected to impact growth and trade patterns in the coming years. Considering these overarching themes, recent trends in the S&P market suggest a positive mid-term outlook for the dry bulk sector.
 
-![Doric 1 8.4](assets/2024-04-08_rising-trade-distortions-and-geopolitical-fragmentation-are-expected-to-weigh-on_img_doric184_8f28a172d1d7.png)
+![Doric 1 8.4](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-04-08_rising-trade-distortions-and-geopolitical-fragmentation-are-expected-to-weigh-on_img_doric184_8f28a172d1d7.png)
 
 > **Figure 1: Doric 1 8.4**  
-> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-04-08_rising-trade-distortions-and-geopolitical-fragmentation-are-expected-to-weigh-on_img_doric184_8f28a172d1d7.png)
+> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-04-08_rising-trade-distortions-and-geopolitical-fragmentation-are-expected-to-weigh-on_img_doric184_8f28a172d1d7.png)
 
 Data source:[Doric](https://www.doric.gr/)
 

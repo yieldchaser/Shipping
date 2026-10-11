@@ -26,10 +26,10 @@ Global crude supplies were buoyed in May by an almost 700kbd m-o-m rise in globa
 
 Global crude/condensate exports in May stood at just under 42mbd, nearing the levels seen in February and March this year. But this short-term rise was met with the Atlantic Basin’s share of exports falling to 41%, the lowest in almost a year (note: Atlantic Basin cargoes exclude Russian and Venezuelan origin crude and Middle East grades loaded via SUMED).
 
-![Στιγμιότυπο Οθόνης 2024 06 14 111028](assets/2024-06-14_global-crude-exports-recover-in-may-but-atlantic-basin-loses-share_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_cac5a887e054.png)
+![Στιγμιότυπο Οθόνης 2024 06 14 111028](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-06-14_global-crude-exports-recover-in-may-but-atlantic-basin-loses-share_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_cac5a887e054.png)
 
 > **Figure 1: Στιγμιότυπο Οθόνης 2024 06 14 111028**  
-> **Interactive Data & Source:** [Vortexa](https://www.vortexa.com//oil-gas-data-traders-analysts-data-scientists?gclid=Cj0KCQjw8_qRBhCXARIsAE2AtRZKOvMnbilZ_6_91d7huSFFy71pWLrnPwGwOHVzXsmsG-1a1mZnQw8aAt89EALw_wcB&hsa_acc=1782073842&hsa_ad=548425387665&hsa_cam=14746637662&hsa_grp=125038601902&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_src=g&hsa_tgt=dsa-1431852288425&hsa_ver=3&utm_campaign=%5BCD%5D%20-%20DSA%20-%20EMEA&utm_medium=cpc&utm_medium=ppc&utm_source=google&utm_source=adwords&utm_term=) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-06-14_global-crude-exports-recover-in-may-but-atlantic-basin-loses-share_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_cac5a887e054.png)
+> **Interactive Data & Source:** [Vortexa](https://www.vortexa.com//oil-gas-data-traders-analysts-data-scientists?gclid=Cj0KCQjw8_qRBhCXARIsAE2AtRZKOvMnbilZ_6_91d7huSFFy71pWLrnPwGwOHVzXsmsG-1a1mZnQw8aAt89EALw_wcB&hsa_acc=1782073842&hsa_ad=548425387665&hsa_cam=14746637662&hsa_grp=125038601902&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_src=g&hsa_tgt=dsa-1431852288425&hsa_ver=3&utm_campaign=%5BCD%5D%20-%20DSA%20-%20EMEA&utm_medium=cpc&utm_medium=ppc&utm_source=google&utm_source=adwords&utm_term=) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-06-14_global-crude-exports-recover-in-may-but-atlantic-basin-loses-share_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_cac5a887e054.png)
 
 Ongoing supply cuts from OPEC+ are scheduled to last until September this year, but after that, the trend for a falling share from the Atlantic Basin is likely to accelerate even further. Under the most recent agreements, Saudi Arabia and UAE will be able to produce up to 1.5mbd more in the 12 months from September.
 
@@ -37,10 +37,10 @@ Should this happen, Atlantic Basin suppliers may not keep pace to the same exten
 
 There seems to be relatively small upside for Atlantic Basin crude/condensate exports in the short term and with recent months’ exports holding mostly flat this year, in a very tight range (between 17.1-17.6mbd). During this period, US exports – the largest supplier in the Basin – have generally trended lower.
 
-![Στιγμιότυπο Οθόνης 2024 06 14 111126](assets/2024-06-14_global-crude-exports-recover-in-may-but-atlantic-basin-loses-share_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_ff574b657f3b.png)
+![Στιγμιότυπο Οθόνης 2024 06 14 111126](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-06-14_global-crude-exports-recover-in-may-but-atlantic-basin-loses-share_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_ff574b657f3b.png)
 
 > **Figure 2: Στιγμιότυπο Οθόνης 2024 06 14 111126**  
-> **Interactive Data & Source:** [Vortexa](https://www.vortexa.com//oil-gas-data-traders-analysts-data-scientists?gclid=Cj0KCQjw8_qRBhCXARIsAE2AtRZKOvMnbilZ_6_91d7huSFFy71pWLrnPwGwOHVzXsmsG-1a1mZnQw8aAt89EALw_wcB&hsa_acc=1782073842&hsa_ad=548425387665&hsa_cam=14746637662&hsa_grp=125038601902&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_src=g&hsa_tgt=dsa-1431852288425&hsa_ver=3&utm_campaign=%5BCD%5D%20-%20DSA%20-%20EMEA&utm_medium=cpc&utm_medium=ppc&utm_source=google&utm_source=adwords&utm_term=) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-06-14_global-crude-exports-recover-in-may-but-atlantic-basin-loses-share_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_ff574b657f3b.png)
+> **Interactive Data & Source:** [Vortexa](https://www.vortexa.com//oil-gas-data-traders-analysts-data-scientists?gclid=Cj0KCQjw8_qRBhCXARIsAE2AtRZKOvMnbilZ_6_91d7huSFFy71pWLrnPwGwOHVzXsmsG-1a1mZnQw8aAt89EALw_wcB&hsa_acc=1782073842&hsa_ad=548425387665&hsa_cam=14746637662&hsa_grp=125038601902&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_src=g&hsa_tgt=dsa-1431852288425&hsa_ver=3&utm_campaign=%5BCD%5D%20-%20DSA%20-%20EMEA&utm_medium=cpc&utm_medium=ppc&utm_source=google&utm_source=adwords&utm_term=) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-06-14_global-crude-exports-recover-in-may-but-atlantic-basin-loses-share_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_ff574b657f3b.png)
 
 Looking ahead, a major concern for Atlantic Basin producers will be how much crude will/won’t be pulled by one of its key customers, Europe.
 

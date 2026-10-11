@@ -50,6 +50,8 @@ Libya has also reportedly signed a crude export contract with China's Sinopec. W
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: The Tourists Are Coming Can the Oil Be Far Behind?](../../../charts/poten/2004/poten_2004-03-12_the-tourists-are-coming-can-the-oil-be-far-behind_chart1.png)
-
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2004/poten_2004-03-12_the-tourists-are-coming-can-the-oil-be-far-behind_chart1.png)
+> **Chart on PDF page 3: Vessels Used for Libyan Trade**  
+> Unit: % · X-axis: 1995 to 2003  
+> Series: Other, Suezmax, Aframax  
+> *Source: Poten & Partners*  
+> *No image crop of this chart was saved; caption read from the PDF.*

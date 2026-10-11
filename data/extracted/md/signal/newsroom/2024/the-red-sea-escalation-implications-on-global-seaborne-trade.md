@@ -29,11 +29,11 @@ In recent days, discussions have intensified about the potential impact on the s
 In the dry bulk segment, the market has not experienced a significant impact yet. However, as time progresses, the threat of Houthi attacks on both dry and wet seaborne trade appears to be escalating. **Figure 1** below, examines which segments were the most exposed to Suez canal crossings in 2023. Suezmax and Aframax and Supramax and Panamax represent more than half of the total crossings in tankers and dry bulk respectively.
 
 
-![% of Voyages That Ended in 2023 with a Suez Canal Crossing per Vessel Class, Tanker & Dry](../../images/66b51c04041aa137682791db_65aa67f4ff14009b35b7c79c_image%201.avif)
+![% of Voyages That Ended in 2023 with a Suez Canal Crossing per Vessel Class, Tanker & Dry](../../images/66b51c04041aa137682791db_65aa67f4ff14009b35b7c79c_image%25201.avif)
 
 > **Figure 1: % of Voyages That Ended in 2023 with a Suez Canal Crossing per Vessel Class, Tanker & Dry**  
 > *Figure 1: % of Voyages that ended in 2023 with a Suez canal crossing per Vessel Class, Tanker & Dry*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/the-red-sea-escalation-implications-on-global-seaborne-trade) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/66b51c04041aa137682791db_65aa67f4ff14009b35b7c79c_image%201.avif)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/the-red-sea-escalation-implications-on-global-seaborne-trade) | [Local Asset](../../../../../../corpus/07-signal/images/66b51c04041aa137682791db_65aa67f4ff14009b35b7c79c_image%25201.avif)
 
 Using [Signal Ocean data](https://www.thesignalgroup.com/signal-ocean-platform), it becomes quickly clear that if we want to look for the most affected trades we need to start with the crude oil Suezmax and Aframax trades and the agricultural commodities transported with Panamax and Supramax dry bulk vessels.
 
@@ -44,20 +44,20 @@ So how much would the various vessel classes be affected if suspension of crossi
 So, not only do Suezmax and Aframax tankers, together with Supramax and Panamax Dry, dominate the canal’s time, but it appears that crossing it happens while serving a very substantial part of the total global ton-miles for the trades these vessel segments serve.
 
 
-![% of Voyages Suez Crossing Ending in 2023 to Total Voyages, per Vessel Class, Tanker & Dry](../../images/66b51c04041aa137682791d8_65aa682dcc779927bd6931b6_image%202.avif)
+![% of Voyages Suez Crossing Ending in 2023 to Total Voyages, per Vessel Class, Tanker & Dry](../../images/66b51c04041aa137682791d8_65aa682dcc779927bd6931b6_image%25202.avif)
 
 > **Figure 2: % of Voyages Suez Crossing Ending in 2023 to Total Voyages, per Vessel Class, Tanker & Dry**  
 > *Figure 2: % of voyages Suez Crossing ending in 2023 to Total Voyages, per Vessel Class, Tanker & Dry*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/the-red-sea-escalation-implications-on-global-seaborne-trade) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/66b51c04041aa137682791d8_65aa682dcc779927bd6931b6_image%202.avif)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/the-red-sea-escalation-implications-on-global-seaborne-trade) | [Local Asset](../../../../../../corpus/07-signal/images/66b51c04041aa137682791d8_65aa682dcc779927bd6931b6_image%25202.avif)
 
 Zooming out from the shipping intricacies, we also need to consider the impact from the perspective of the affected commodities. In **Figure 3**, we see that 20% of the worldwide trade for fertilizers goes through Suez. Gains and clean petroleum products are also highly exposed with a 13% and 10% share respectively.
 
 
-![Commodities Categories Crossing Suez and % of Quantity to the Worldwide Trade](../../images/66b51c04041aa137682791cf_65aa684acc779927bd6949c5_image%203.%20per%20cargo%20group.avif)
+![Commodities Categories Crossing Suez and % of Quantity to the Worldwide Trade](../../images/66b51c04041aa137682791cf_65aa684acc779927bd6949c5_image%25203.%2520per%2520cargo%2520group.avif)
 
 > **Figure 3: Commodities Categories Crossing Suez and % of Quantity to the Worldwide Trade**  
 > *Figure 3: Commodities categories crossing Suez and % of quantity to the worldwide trade*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/the-red-sea-escalation-implications-on-global-seaborne-trade) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/66b51c04041aa137682791cf_65aa684acc779927bd6949c5_image%203.%20per%20cargo%20group.avif)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/the-red-sea-escalation-implications-on-global-seaborne-trade) | [Local Asset](../../../../../../corpus/07-signal/images/66b51c04041aa137682791cf_65aa684acc779927bd6949c5_image%25203.%2520per%2520cargo%2520group.avif)
 
 Although there has been speculation that Houthi attacks have been more focused on containers, any such situation is so volatile that nobody can actually predict how it will unfold. So there is little ground to sustain that re-routing could be based on segment and/or cargo considerations. Rather, as it is always the case, risk vs cost and benefit is likely to determine where we go from here.
 
@@ -67,11 +67,11 @@ Although there has been speculation that Houthi attacks have been more focused o
 The spot market for crude oil tankers is already seeing an upward trend in the Atlantic routes, particularly with Suezmax rates in the West Africa to UK/Continent and Aframax rates in the Mediterranean trades. These markets had last surged in November ‘23 and mean-reverted over the holiday season. The decline in vessel numbers foreseen in the Red Sea for the tanker segment has already reached a record low since the beginning of last year, resulting in an increase in WS rates for the Suezmax Wafr-UKC of more than 50% to a level of around 140 WS and Aframax Cross Mediterranean rates of over 200 WS. (**Figure 4**) In the VLCC segment, a spike has also been observed for the West Africa to China run, with rates at around 70 WS, an increase of almost 40% year-on-year. With Suezmax and Aframax more exposed to the canal, the impact appears to be more direct.
 
 
-![Signal Assessments, WS Rates, Dirty, VLCC Wafr-China, Suez Wafr-Ukc, Afra Cross Med vs Vessel Count Red Sea2023-2024](../../images/66b51c04041aa137682791de_65aa6875d70558fee6a11b45_image%204.%20impact%20on%20rates.avif)
+![Signal Assessments, WS Rates, Dirty, VLCC Wafr-China, Suez Wafr-Ukc, Afra Cross Med vs Vessel Count Red Sea2023-2024](../../images/66b51c04041aa137682791de_65aa6875d70558fee6a11b45_image%25204.%2520impact%2520on%2520rates.avif)
 
 > **Figure 4: Signal Assessments, WS Rates, Dirty, VLCC Wafr-China, Suez Wafr-Ukc, Afra Cross Med vs Vessel Count Red Sea2023-2024**  
 > *Figure 4: Signal Assessments, WS Rates, Dirty, VLCC Wafr-China, Suez Wafr-UKC, Afra Cross Med Vs Vessel Count Red Sea2023-2024*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/the-red-sea-escalation-implications-on-global-seaborne-trade) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/66b51c04041aa137682791de_65aa6875d70558fee6a11b45_image%204.%20impact%20on%20rates.avif)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/the-red-sea-escalation-implications-on-global-seaborne-trade) | [Local Asset](../../../../../../corpus/07-signal/images/66b51c04041aa137682791de_65aa6875d70558fee6a11b45_image%25204.%2520impact%2520on%2520rates.avif)
 
 The looming risk appears to escalate, and the duration of the disruption will play a crucial role in determining the extent of its impact. Depending on the duration, it could usher in a substantial wave of consequences, notably affecting the increase in tonne miles for major oil trading routes.
 
@@ -83,11 +83,11 @@ Utilising [Signal Ocean data](https://www.thesignalgroup.com/signal-ocean-platfo
 Having established the more direct impact on Suezmax tankers and the relevant commodity flows, we take an opportunity to reflect on what might come to pass by way of sensitivity analysis. We examined the Suezmax tanker vessel class in light of recent developments at the Suez Canal crossing. The observed decline in the number of dirty tankers in the Red Sea is notably influenced by the current situation, exerting upward pressure on market prices. The figure below illustrates how ton-miles could potentially increase under various scenario percentages, should there be a decision to reroute ships via the Cape of Good Hope. The data indicate a significant impact, with rerouting scenarios of over 40% share leading to a potential global ton-mile increase of more than 10%.
 
 
-![: Sensitivity Analysis, Suezmax Tankersensitivity Analysis Scenarios Potential % Shares of Deviation: 10%, 20%, 40% , 50% and 100%](../../images/66b51c04041aa137682791d3_65aa689e86fc30e4501fd60d_image%205.%20sensitivity%20analysis.avif)
+![: Sensitivity Analysis, Suezmax Tankersensitivity Analysis Scenarios Potential % Shares of Deviation: 10%, 20%, 40% , 50% and 100%](../../images/66b51c04041aa137682791d3_65aa689e86fc30e4501fd60d_image%25205.%2520sensitivity%2520analysis.avif)
 
 > **Figure 5: : Sensitivity Analysis, Suezmax Tankersensitivity Analysis Scenarios Potential % Shares of Deviation: 10%, 20%, 40% , 50% and 100%**  
 > *Figure 5 : Sensitivity Analysis, Suezmax TankerSensitivity analysis scenarios potential % shares of Deviation: 10%, 20%, 40% , 50% and 100%*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/the-red-sea-escalation-implications-on-global-seaborne-trade) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/66b51c04041aa137682791d3_65aa689e86fc30e4501fd60d_image%205.%20sensitivity%20analysis.avif)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/the-red-sea-escalation-implications-on-global-seaborne-trade) | [Local Asset](../../../../../../corpus/07-signal/images/66b51c04041aa137682791d3_65aa689e86fc30e4501fd60d_image%25205.%2520sensitivity%2520analysis.avif)
 
 Looking at the Suezmax vessels engaged in the trade route between the Black Sea and India, the potential impact of maintaining the current route versus rerouting through the Cape of Good Hope is significant. The distance travelled would be three times as long, which means that the freight would need to be almost double in order to achieve the same earnings (TCE).  In the case of Black sea to India for example, the freight increase could be in the order of  $4 million. This  corresponds to an overall increase in transportation costs of the order of $7 per barrel.
 

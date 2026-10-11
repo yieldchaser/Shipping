@@ -31,10 +31,10 @@ It is not only the power suppliers that are facing shortages of coal, as Indiaâ€
 
 Indiaâ€™s seaborne imports of coal have been trending lower since April last year, with recent monthly volumes accounting for only around a quarter of what was observed a year ago. However, the increasing demand for electricity, and by extension coal, have seen cargo order volumes rise during April after reaching the lowest weekly reading for over three years in the middle of March. The dip last week may be explained by a public holiday. The latest initiatives by the Indian authorities are also likely to contribute to a continued recovery in seaborne coal volumes discharged in Indian ports.
 
-![Ch1.jpg](assets/2022-05-11_the-indian-heatwave-and-the-impact-on-trade_img_ch1jpg_508d52687316.png)
+![Ch1.jpg](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-05-11_the-indian-heatwave-and-the-impact-on-trade_img_ch1jpg_508d52687316.png)
 
 > **Figure 1: Ch1.jpg**  
-> **Interactive Data & Source:** [Blog Shipfix](https://blog.shipfix.com/market/shipfixs-weekly-market-blog-4-india-key-to-changing-trade-patterns) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-05-11_the-indian-heatwave-and-the-impact-on-trade_img_ch1jpg_508d52687316.png)
+> **Interactive Data & Source:** [Blog Shipfix](https://blog.shipfix.com/market/shipfixs-weekly-market-blog-4-india-key-to-changing-trade-patterns) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-05-11_the-indian-heatwave-and-the-impact-on-trade_img_ch1jpg_508d52687316.png)
 
 Source: Shipfix
 
@@ -44,10 +44,10 @@ The high temperatures have dashed previous expectations of yet another bumper wh
 
 As Shipfix has previously[reported](https://blog.shipfix.com/market/shipfixs-weekly-market-blog-4-india-key-to-changing-trade-patterns), cargo order volumes soared to previously unseen levels in the wake of the announcement that India would be increasing its exports, and the development proved to be not an isolated event. Weekly volumes have remained elevated in a historical context ever since, as traditional buyers of wheat from the Black Sea region in Egypt, Turkey, and Europe have eyed Indian supplies for substitution.
 
-![Ch2](assets/2022-05-11_the-indian-heatwave-and-the-impact-on-trade_img_ch2_8e0896e06255.png)
+![Ch2](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-05-11_the-indian-heatwave-and-the-impact-on-trade_img_ch2_8e0896e06255.png)
 
 > **Figure 2: Ch2**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-05-11_the-indian-heatwave-and-the-impact-on-trade_img_ch2_8e0896e06255.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-05-11_the-indian-heatwave-and-the-impact-on-trade_img_ch2_8e0896e06255.png)
 
 Source: Shipfix
 

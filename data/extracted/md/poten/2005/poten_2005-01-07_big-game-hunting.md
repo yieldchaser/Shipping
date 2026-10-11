@@ -167,6 +167,27 @@ Panamaxes primarily transport fuel oil - leading to the preponderance of trading
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: Big Game Hunting](../../../charts/poten/2005/poten_2005-01-07_big-game-hunting_chart1.png)
+> **Chart on PDF page 3: 2004 Vessels by Fixture Type**  
+> Unit: % · X-axis: Aframax to VLCC  
+> Series: Aframax, Panamax, Suezmax, VLCC  
+> *No image crop of this chart was saved; caption read from the PDF.*
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2005/poten_2005-01-07_big-game-hunting_chart1.png)
+> **Chart on PDF page 3: Top Ten Charterers for VLCC Fixtures**  
+> Unit: Fixtures · X-axis: Unipec to Shell  
+> Series: Unipec, CSSA, S Oil, Vela, CPC, ChevronTexaco, Reliance, Ioc, ExxonMobil, Shell  
+> *No image crop of this chart was saved; caption read from the PDF.*
+
+> **Chart on PDF page 4: Top Ten Charterers for Suezmax Fixtures**  
+> X-axis: 0 to 175  
+> Series: Vitol, Ioc, Chinaoil, Repsol, BP, CSSA, ChevronTexaco, Shell, ExxonMobil, Sun  
+> *No image crop of this chart was saved; caption read from the PDF.*
+
+> **Chart on PDF page 4: Top Ten Charterers for Aframax Fixtures**  
+> X-axis: 0 to 450  
+> Series: Sibneft, ConocoPhillips, Petroval, Valero, Vitol, ChevronTexaco, ExxonMobil, BP, CSSA, Shell  
+> *No image crop of this chart was saved; caption read from the PDF.*
+
+> **Chart on PDF page 5: Top Ten Charterers for Panamax Fixtures**  
+> X-axis: 0 to 100  
+> Series: Petrobras, BP, Hess, ConocoPhillips, ChevronTexaco, Adam, Ursa, Valero, Vitol, Shell  
+> *No image crop of this chart was saved; caption read from the PDF.*

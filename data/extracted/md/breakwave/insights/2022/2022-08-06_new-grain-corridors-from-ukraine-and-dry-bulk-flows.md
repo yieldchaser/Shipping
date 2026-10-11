@@ -46,10 +46,10 @@ The current situation of blocked Ukrainian grain exports has led to a decrease i
 
 ## Seaborne Dry Bulk Flows, Grain, From All Countries to All Destinations, Monthly Volume (Tonnes)
 
-![241](assets/2022-08-06_new-grain-corridors-from-ukraine-and-dry-bulk-flows_img_241_96522c87902d.png)
+![241](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-08-06_new-grain-corridors-from-ukraine-and-dry-bulk-flows_img_241_96522c87902d.png)
 
 > **Figure 1: 241**  
-> **Interactive Data & Source:** [Washingtonpost](https://www.washingtonpost.com/world/2022/08/01/ukraine-grain-deal-odessa-shipments-resume/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-08-06_new-grain-corridors-from-ukraine-and-dry-bulk-flows_img_241_96522c87902d.png)
+> **Interactive Data & Source:** [Washingtonpost](https://www.washingtonpost.com/world/2022/08/01/ukraine-grain-deal-odessa-shipments-resume/) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-08-06_new-grain-corridors-from-ukraine-and-dry-bulk-flows_img_241_96522c87902d.png)
 
 Graph 1 Data Source: The Signal Ocean Platform, Years 2020-2022
 
@@ -61,10 +61,10 @@ It is interesting to see that the share of Russian grain exports by sea to Turke
 
 ## Seaborne Dry Bulk Flows, Grain, From Russia to Turkey, Monthly Volume (Tonnes)
 
-![242](assets/2022-08-06_new-grain-corridors-from-ukraine-and-dry-bulk-flows_img_242_e6570f786adf.png)
+![242](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-08-06_new-grain-corridors-from-ukraine-and-dry-bulk-flows_img_242_e6570f786adf.png)
 
 > **Figure 2: 242**  
-> **Interactive Data & Source:** [Washingtonpost](https://www.washingtonpost.com/world/2022/08/01/ukraine-grain-deal-odessa-shipments-resume/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-08-06_new-grain-corridors-from-ukraine-and-dry-bulk-flows_img_242_e6570f786adf.png)
+> **Interactive Data & Source:** [Washingtonpost](https://www.washingtonpost.com/world/2022/08/01/ukraine-grain-deal-odessa-shipments-resume/) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-08-06_new-grain-corridors-from-ukraine-and-dry-bulk-flows_img_242_e6570f786adf.png)
 
 Graph 2 Data Source: The Signal Ocean Platform, Years 2020-2022
 
@@ -76,10 +76,10 @@ The impact of geopolitical tensions on Ukrainian grain exports is illustrated in
 
 ## Seaborne Dry Bulk Flows, Grain, From Ukraine to All Countries, Monthly Volume (Tonnes)
 
-![243](assets/2022-08-06_new-grain-corridors-from-ukraine-and-dry-bulk-flows_img_243_d6b6bca6040c.png)
+![243](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-08-06_new-grain-corridors-from-ukraine-and-dry-bulk-flows_img_243_d6b6bca6040c.png)
 
 > **Figure 3: 243**  
-> **Interactive Data & Source:** [Washingtonpost](https://www.washingtonpost.com/world/2022/08/01/ukraine-grain-deal-odessa-shipments-resume/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-08-06_new-grain-corridors-from-ukraine-and-dry-bulk-flows_img_243_d6b6bca6040c.png)
+> **Interactive Data & Source:** [Washingtonpost](https://www.washingtonpost.com/world/2022/08/01/ukraine-grain-deal-odessa-shipments-resume/) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-08-06_new-grain-corridors-from-ukraine-and-dry-bulk-flows_img_243_d6b6bca6040c.png)
 
 Graph 3 Data Source: The Signal Ocean Platform, Years 2020-2022
 
@@ -93,10 +93,10 @@ Under the grain agreement between Russia and Ukraine,[**the first ship carrying 
 
 Ports: Chormonsk, Odessa, Yuzhnyy
 
-![244](assets/2022-08-06_new-grain-corridors-from-ukraine-and-dry-bulk-flows_img_244_9eec39dba012.png)
+![244](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-08-06_new-grain-corridors-from-ukraine-and-dry-bulk-flows_img_244_9eec39dba012.png)
 
 > **Figure 4: 244**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-08-06_new-grain-corridors-from-ukraine-and-dry-bulk-flows_img_244_9eec39dba012.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-08-06_new-grain-corridors-from-ukraine-and-dry-bulk-flows_img_244_9eec39dba012.png)
 
 Graph 4 Data Source: The Signal Ocean Platform, Year 2022
 

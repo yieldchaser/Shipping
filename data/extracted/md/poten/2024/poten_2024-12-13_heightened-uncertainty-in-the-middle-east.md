@@ -36,8 +36,12 @@ In the short-to medium-term, the events in Syria create more uncertainty in an a
 
 ![Exhibit 1: Heightened Uncertainty In The Middle East](../../../charts/poten/2024/poten_2024-12-13_heightened-uncertainty-in-the-middle-east_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2024/poten_2024-12-13_heightened-uncertainty-in-the-middle-east_chart1.png)
+> **Interactive Asset:** [Local Asset (200 DPI PNG)](../../../charts/poten/2024/poten_2024-12-13_heightened-uncertainty-in-the-middle-east_chart1.png)
 
-![Exhibit 2: Heightened Uncertainty In The Middle East](../../../charts/poten/2024/poten_2024-12-13_heightened-uncertainty-in-the-middle-east_chart2.png)
+![Exhibit 2: Syria - Crude Oil and Condensate Production](../../../charts/poten/2024/poten_2024-12-13_heightened-uncertainty-in-the-middle-east_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2024/poten_2024-12-13_heightened-uncertainty-in-the-middle-east_chart2.png)
+> **Exhibit 2: Syria - Crude Oil and Condensate Production**  
+> Unit: Kb/d · X-axis: 2000 to 2023  
+> Series: Syria - Crude Oil and Condensate Production  
+> *Source: The Washington Institute; Energy Institute*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2024/poten_2024-12-13_heightened-uncertainty-in-the-middle-east_chart2.png)

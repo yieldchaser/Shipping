@@ -32,7 +32,7 @@ tags:
 
 > **Figure 1: Data Source: The Signal Ocean Platform Data**  
 > *Data Source: The Signal Ocean Platform Data*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/dry-week-28-2023) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/64ae9c7b7ae2834d59364824_chart of the week (1).png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/dry-week-28-2023) | [Local Asset](../../../../../../corpus/07-signal/images/64ae9c7b7ae2834d59364824_chart%20of%20the%20week%20(1).png)
 
 The start of the week on July 28 brought a downward trend in freight rates across all vessel sizes, indicating negative momentum. While concerns about rate stability continue, there was some positive news for the Capesize and Panamax segments as the Baltic Dry Index closed with a positive signal on July 10.
 

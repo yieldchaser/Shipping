@@ -64,6 +64,8 @@ The building of more tanker capacity means that tanker rates will eventually dri
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: Are We Nearing a Turning Point?](../../../charts/poten/2004/poten_2004-11-05_are-we-nearing-a-turning-point_chart1.png)
-
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2004/poten_2004-11-05_are-we-nearing-a-turning-point_chart1.png)
+> **Chart on PDF page 4: Asian Economic Crisis of 1997/98 Down But Not For Long**  
+> Unit: Annual % Change in Economic Growth · X-axis: 1996 to 2004  
+> Series: Malaysia, Philippines, Thailand, S.Korea  
+> *Source: IMF/Poten*  
+> *No image crop of this chart was saved; caption read from the PDF.*

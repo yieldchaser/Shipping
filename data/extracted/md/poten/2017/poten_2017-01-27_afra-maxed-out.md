@@ -36,10 +36,18 @@ We don't foresee a decline in Aframax employment for 2017, but we don't expect s
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: Afra Maxed Out](../../../charts/poten/2017/poten_2017-01-27_afra-maxed-out_chart1.png)
+![Exhibit 1: Aframax Voyages (Dirty) by Load Area](../../../charts/poten/2017/poten_2017-01-27_afra-maxed-out_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2017/poten_2017-01-27_afra-maxed-out_chart1.png)
+> **Exhibit 1: Aframax Voyages (Dirty) by Load Area**  
+> Unit: Number of Voyages · X-axis: Americas, Atlantic to West Africa  
+> Series: 2016, 2015  
+> *Source: Lloyd’s List Intelligence*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2017/poten_2017-01-27_afra-maxed-out_chart1.png)
 
-![Exhibit 2: Afra Maxed Out](../../../charts/poten/2017/poten_2017-01-27_afra-maxed-out_chart2.png)
+![Exhibit 2: Aframax Ton Mile Demand by Load Area](../../../charts/poten/2017/poten_2017-01-27_afra-maxed-out_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2017/poten_2017-01-27_afra-maxed-out_chart2.png)
+> **Exhibit 2: Aframax Ton Mile Demand by Load Area**  
+> Unit: Billion Ton-miles · X-axis: Americas, Atlantic to West Africa  
+> Series: 2016, 2015  
+> *Source: Lloyd’s List Intelligence*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2017/poten_2017-01-27_afra-maxed-out_chart2.png)

@@ -30,10 +30,18 @@ Whether the ECO trend will be permanent or just a temporary phenomenon will larg
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: Mind the Gap!](../../../charts/poten/2014/poten_2014-08-29_mind-the-gap_chart1.png)
+![Exhibit 1: Rotterdam Bunker Prices (380cst)](../../../charts/poten/2014/poten_2014-08-29_mind-the-gap_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2014/poten_2014-08-29_mind-the-gap_chart1.png)
+> **Exhibit 1: Rotterdam Bunker Prices (380cst)**  
+> Unit: $/Metric Ton · X-axis: Jan-00 to Jan-14  
+> Series: Rotterdam Bunker Prices (380cst)  
+> *Source: LQM Petroleum Services*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2014/poten_2014-08-29_mind-the-gap_chart1.png)
 
-![Exhibit 2: Mind the Gap!](../../../charts/poten/2014/poten_2014-08-29_mind-the-gap_chart2.png)
+![Exhibit 2: Non-ECO versus ECO Charter Rates](../../../charts/poten/2014/poten_2014-08-29_mind-the-gap_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2014/poten_2014-08-29_mind-the-gap_chart2.png)
+> **Exhibit 2: Non-ECO versus ECO Charter Rates**  
+> X-axis: 1yr to 5yr  
+> Series: Non-Eco, Eco  
+> *Source: Poten*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2014/poten_2014-08-29_mind-the-gap_chart2.png)

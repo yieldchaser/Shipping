@@ -27,10 +27,10 @@ In the coal segment, the gradual relaxation of Indonesian export ban helped Paci
 
 ‘The Big Picture’ - Capesize and Panamax Bulkers and Smaller Ship Sizes
 
-![Ch1](assets/2022-01-19_signal-weekly-report_img_ch1_875cb3e35297.png)
+![Ch1](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-01-19_signal-weekly-report_img_ch1_875cb3e35297.png)
 
 > **Figure 1: Ch1**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-01-19_signal-weekly-report_img_ch1_875cb3e35297.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-01-19_signal-weekly-report_img_ch1_875cb3e35297.png)
 
 - Freight market weakness in the capesize, panamax and supramax segment is deepening, while handysize size appears to be the only one that maintains a steadiness of performance compared to the levels of Week 49, 2021.
 
@@ -44,10 +44,10 @@ In the coal segment, the gradual relaxation of Indonesian export ban helped Paci
 
 Supply Trend Lines for Key Load Areas
 
-![Ch2](assets/2022-01-19_signal-weekly-report_img_ch2_426ad7c402af.png)
+![Ch2](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-01-19_signal-weekly-report_img_ch2_426ad7c402af.png)
 
 > **Figure 2: Ch2**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-01-19_signal-weekly-report_img_ch2_426ad7c402af.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-01-19_signal-weekly-report_img_ch2_426ad7c402af.png)
 
 - The number of vessels sailing in ballast status is evolving above the average trend line for the handysize and panamax segment, at levels of above 65 for handysize and 100 for panamax.
 
@@ -58,10 +58,10 @@ Supply Trend Lines for Key Load Areas
 
 ## Decreasing
 
-![Ch3](assets/2022-01-19_signal-weekly-report_img_ch3_56bd743728f3.png)
+![Ch3](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-01-19_signal-weekly-report_img_ch3_56bd743728f3.png)
 
 > **Figure 3: Ch3**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-01-19_signal-weekly-report_img_ch3_56bd743728f3.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-01-19_signal-weekly-report_img_ch3_56bd743728f3.png)
 
 - Looking at the evolution of demand growth, the current fundamentals for the iron market and Chinese economy are not expected to change till the end of the Chinese New Year.
 
@@ -73,10 +73,10 @@ Supply Trend Lines for Key Load Areas
 
 ## Dry Bulk Ships Congested Around Chinese Ports
 
-![Ch4](assets/2022-01-19_signal-weekly-report_img_ch4_aa76e16233de.png)
+![Ch4](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-01-19_signal-weekly-report_img_ch4_aa76e16233de.png)
 
 > **Figure 4: Ch4**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-01-19_signal-weekly-report_img_ch4_aa76e16233de.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-01-19_signal-weekly-report_img_ch4_aa76e16233de.png)
 
 - The number of congestion remains hovering below the average of ~1120 vessels since Week 46, 2021.
 

@@ -66,6 +66,14 @@ The reported fixture activity this week - number sixteen - for clean MRs sailing
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: Pricing a Missed Position](../../../charts/poten/2008/poten_2008-04-18_pricing-a-missed-position_chart1.png)
+> **Chart on PDF page 1: Clean MR TCE from UK Continent to US Atlantic Coast**  
+> Unit: 1,000 $/day · X-axis: Jan to Dec  
+> Series: Min/Max TCE Range from 2003 to 2007, 2007, 2008, 4/18/08  
+> *Source: Poten*  
+> *No image crop of this chart was saved; caption read from the PDF.*
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2008/poten_2008-04-18_pricing-a-missed-position_chart1.png)
+> **Chart on PDF page 2: Reported UKC/Med MR Fixture Activity TransAtlantic**  
+> Unit: Fixture Volume · X-axis: 1 to 26  
+> Series: 2006, 2007, 2008, Ave Weekly Volume 2007  
+> *Source: Poten*  
+> *No image crop of this chart was saved; caption read from the PDF.*

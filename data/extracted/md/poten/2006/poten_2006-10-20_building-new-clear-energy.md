@@ -50,6 +50,7 @@ Tanker owners and oil companies need not fear just yet that nuclear energy will 
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: Building New-clear Energy](../../../charts/poten/2006/poten_2006-10-20_building-new-clear-energy_chart1.png)
-
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2006/poten_2006-10-20_building-new-clear-energy_chart1.png)
+> **Chart on PDF page 1: U.S. Energy Consumption**  
+> Unit: Quadrillion Btu · X-axis: 2003 to 2015  
+> Series: Renewable Energy, Nuclear Power, Coal, Natural Gas, Petroleum Products, Other (Negligible)  
+> *No image crop of this chart was saved; caption read from the PDF.*

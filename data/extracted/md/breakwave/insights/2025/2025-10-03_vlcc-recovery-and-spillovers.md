@@ -28,10 +28,10 @@ October 02, 2025
 
 Signal Ocean Insights reviews late-September dirty tanker dynamics, focusing on the surge that drove VLCC rates to unexpected highs at the close of Q3. With winter approaching, we also consider the outlook for the weeks ahead.
 
-![Cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85](assets/2025-10-03_vlcc-recovery-and-spillovers_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_3846b943d940.png)
+![Cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-10-03_vlcc-recovery-and-spillovers_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_3846b943d940.png)
 
 > **Figure 1: Cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-10-03_vlcc-recovery-and-spillovers_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_3846b943d940.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-10-03_vlcc-recovery-and-spillovers_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_3846b943d940.png)
 
 In this Signal Ocean Tanker Insights Review, you can explore the following themes:
 
@@ -63,35 +63,35 @@ Such volatility does not necessarily indicate weaker European demand, nor can it
 
 The more likely scenario is that Europe continues to act as the main absorber of displaced U.S. Gulf volumes. With the U.S. Gulf–Asia arbitrage effectively closed, Asian buyers have been less competitive in securing these flows, creating additional space for Europe. This outcome reflects short-term trade dynamics rather than a structural change in demand.
 
-![Στιγμιότυπο Οθόνης 2025 10 03 120237](assets/2025-10-03_vlcc-recovery-and-spillovers_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_dde603e2a961.png)
+![Στιγμιότυπο Οθόνης 2025 10 03 120237](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-10-03_vlcc-recovery-and-spillovers_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_dde603e2a961.png)
 
 > **Figure 2: Στιγμιότυπο Οθόνης 2025 10 03 120237**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-10-03_vlcc-recovery-and-spillovers_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_dde603e2a961.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-10-03_vlcc-recovery-and-spillovers_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_dde603e2a961.png)
 
 From mid-September, Shell’s 404 kb/d Pernis refinery in the Netherlands, Europe’s largest, entered a major turnaround expected to last through October and possibly into November, temporarily curbing regional crude demand. While some market participants noted that refinery maintenance has not been hefty overall this year, market talk suggests that runs could rebound in November and December, reversing the slowdown from September and October.
 
 In parallel, Europe’s pull on Atlantic Basin barrels has weakened, opening space for more flows to be diverted eastward, including PADD 3 to the Far East/India, Brazil to the Far East/India, and WAFR to the Far East/India (see Figure 2), supported by favorable arbitrage economics. From October, US exports to Europe are also expected to increase, with WTI now competitively priced into the region.
 
-![Cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85](assets/2025-10-03_vlcc-recovery-and-spillovers_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_0b7154fb9173.png)
+![Cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-10-03_vlcc-recovery-and-spillovers_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_0b7154fb9173.png)
 
 > **Figure 3: Cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-10-03_vlcc-recovery-and-spillovers_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_0b7154fb9173.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-10-03_vlcc-recovery-and-spillovers_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_0b7154fb9173.png)
 
 Meanwhile, Guyana and Brazil both increased exports to Europe and Asia over the summer months, a trend that market participants are confident will continue (see Figure 3). These additional flows not only diversified supply but also pushed tonne-miles higher, reinforcing the eastward pull on Atlantic Basin barrels.
 
-![Στιγμιότυπο Οθόνης 2025 10 03 120414](assets/2025-10-03_vlcc-recovery-and-spillovers_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_a258b64048d1.png)
+![Στιγμιότυπο Οθόνης 2025 10 03 120414](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-10-03_vlcc-recovery-and-spillovers_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_a258b64048d1.png)
 
 > **Figure 4: Στιγμιότυπο Οθόνης 2025 10 03 120414**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-10-03_vlcc-recovery-and-spillovers_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_a258b64048d1.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-10-03_vlcc-recovery-and-spillovers_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_a258b64048d1.png)
 
 ### Dynamic 3 – Early Summer Fixing and Saudi Export Surge
 
 One of the earliest signs of tightening appeared from voyages scheduled well before August loadings. Softer freight rates in May and early June, combined with weaker crude prices, encouraged charterers to secure vessels earlier than usual in anticipation of increased demand through late summer. At the same time, Saudi Arabia’s seasonal crude burn declined, freeing up additional barrels for export. In August 2025, flows from the Kingdom reached 192 million barrels, up from 177 million barrels a year earlier, highlighting the scale of the surge (see Figure 4).
 
-![Στιγμιότυπο Οθόνης 2025 10 03 120508](assets/2025-10-03_vlcc-recovery-and-spillovers_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_e9b0f7e415c0.png)
+![Στιγμιότυπο Οθόνης 2025 10 03 120508](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-10-03_vlcc-recovery-and-spillovers_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_e9b0f7e415c0.png)
 
 > **Figure 5: Στιγμιότυπο Οθόνης 2025 10 03 120508**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-10-03_vlcc-recovery-and-spillovers_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_e9b0f7e415c0.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-10-03_vlcc-recovery-and-spillovers_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_e9b0f7e415c0.png)
 
 ### Segment Performance
 
@@ -99,36 +99,36 @@ One of the earliest signs of tightening appeared from voyages scheduled well bef
 
 On the TD3C benchmark (MEG–China), Worldscale levels climbed sharply, peaking just above WS100 on September 19, before easing to WS95–97 by September 25. By September 30, rates had retreated further to WS89.8, reflecting some cooling in sentiment but still standing well above seasonal norms. (see Figure 5 and 6)
 
-![Στιγμιότυπο Οθόνης 2025 10 03 120556](assets/2025-10-03_vlcc-recovery-and-spillovers_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_3bf16b5da0a0.png)
+![Στιγμιότυπο Οθόνης 2025 10 03 120556](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-10-03_vlcc-recovery-and-spillovers_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_3bf16b5da0a0.png)
 
 > **Figure 6: Στιγμιότυπο Οθόνης 2025 10 03 120556**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-10-03_vlcc-recovery-and-spillovers_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_3bf16b5da0a0.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-10-03_vlcc-recovery-and-spillovers_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_3bf16b5da0a0.png)
 
-![Στιγμιότυπο Οθόνης 2025 10 03 120607](assets/2025-10-03_vlcc-recovery-and-spillovers_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_627f29b44ab2.png)
+![Στιγμιότυπο Οθόνης 2025 10 03 120607](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-10-03_vlcc-recovery-and-spillovers_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_627f29b44ab2.png)
 
 > **Figure 7: Στιγμιότυπο Οθόνης 2025 10 03 120607**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-10-03_vlcc-recovery-and-spillovers_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_627f29b44ab2.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-10-03_vlcc-recovery-and-spillovers_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_627f29b44ab2.png)
 
 ### Usg–china (Td22)
 
 On the TD22 benchmark (US Gulf–China), rates surged through September, peaking near USD 12M mid-month before easing back towards USD 10M by September 30. Despite the late pullback, current levels remain substantially above historical averages, highlighting strong US export activity and limited tonnage availability for long-haul voyages to Asia. (see Figure 7)
 
-![Στιγμιότυπο Οθόνης 2025 10 03 120706](assets/2025-10-03_vlcc-recovery-and-spillovers_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_72111c916e21.png)
+![Στιγμιότυπο Οθόνης 2025 10 03 120706](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-10-03_vlcc-recovery-and-spillovers_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_72111c916e21.png)
 
 > **Figure 8: Στιγμιότυπο Οθόνης 2025 10 03 120706**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-10-03_vlcc-recovery-and-spillovers_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_72111c916e21.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-10-03_vlcc-recovery-and-spillovers_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_72111c916e21.png)
 
 Suezmaxes also benefited from Atlantic basin dislocations. By late August, the TD20 Nigeria–UKC benchmark hovered around WS130, equivalent to roughly $48,000 per day before dropping to WS 104. (see Figure 8 & 9)
 
-![Στιγμιότυπο Οθόνης 2025 10 03 121820](assets/2025-10-03_vlcc-recovery-and-spillovers_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_f75844589b6a.png)
+![Στιγμιότυπο Οθόνης 2025 10 03 121820](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-10-03_vlcc-recovery-and-spillovers_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_f75844589b6a.png)
 
 > **Figure 9: Στιγμιότυπο Οθόνης 2025 10 03 121820**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-10-03_vlcc-recovery-and-spillovers_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_f75844589b6a.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-10-03_vlcc-recovery-and-spillovers_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_f75844589b6a.png)
 
-![Στιγμιότυπο Οθόνης 2025 10 03 121828](assets/2025-10-03_vlcc-recovery-and-spillovers_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_7a1d783f5b0e.png)
+![Στιγμιότυπο Οθόνης 2025 10 03 121828](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-10-03_vlcc-recovery-and-spillovers_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_7a1d783f5b0e.png)
 
 > **Figure 10: Στιγμιότυπο Οθόνης 2025 10 03 121828**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-10-03_vlcc-recovery-and-spillovers_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_7a1d783f5b0e.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-10-03_vlcc-recovery-and-spillovers_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_7a1d783f5b0e.png)
 
 ## Risks & Watch-Items for Q4
 
@@ -148,10 +148,10 @@ Washington’s threats of tariff escalation against India’s purchases of Russi
 
 While spot fundamentals drove the summer rally, the FFA market is now showing early warning signs for the near term. Signal Ocean Market Forecast Insights on September 22 highlighted a moderately bearish sentiment, which has since materialized. That said, TCE earnings on the MEG–China route remain above $70,000/day, suggesting that sentiment alone can't explain the pullback, especially as vessel availability stays tight. Still, macroeconomic and geopolitical risks remain, and the forward curve indicates a retracement, either a VLCC retest of summer highs or a softer correction heading into year-end.
 
-![Στιγμιότυπο Οθόνης 2025 10 03 122131](assets/2025-10-03_vlcc-recovery-and-spillovers_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_13905926188b.png)
+![Στιγμιότυπο Οθόνης 2025 10 03 122131](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-10-03_vlcc-recovery-and-spillovers_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_13905926188b.png)
 
 > **Figure 11: Στιγμιότυπο Οθόνης 2025 10 03 122131**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-10-03_vlcc-recovery-and-spillovers_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_13905926188b.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-10-03_vlcc-recovery-and-spillovers_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_13905926188b.png)
 
 Data Source:[Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform)
 

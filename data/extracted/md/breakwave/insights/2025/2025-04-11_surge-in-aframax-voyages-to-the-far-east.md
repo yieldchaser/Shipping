@@ -26,10 +26,10 @@ Snapshot of Crude and Product Freight Rates, Supply-Demand
 
 Week 15, 10 April, 2025
 
-![Στιγμιότυπο Οθόνης 2025 04 11 113413](assets/2025-04-11_surge-in-aframax-voyages-to-the-far-east_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_336851f6a7da.png)
+![Στιγμιότυπο Οθόνης 2025 04 11 113413](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-04-11_surge-in-aframax-voyages-to-the-far-east_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_336851f6a7da.png)
 
 > **Figure 1: Στιγμιότυπο Οθόνης 2025 04 11 113413**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-04-11_surge-in-aframax-voyages-to-the-far-east_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_336851f6a7da.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-04-11_surge-in-aframax-voyages-to-the-far-east_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_336851f6a7da.png)
 
 ### Signal Ocean Data Highlights a March 2025 Spike in Aframax Voyages to the Far East
 
@@ -57,43 +57,43 @@ Signal Ocean’s granular voyage data provides valuable real-time insight into t
 
 **Signal Ocean's real-time voyage data offers valuable insight into how operators adjust flows in response to geopolitical pressure and market fundamentals.**
 
-![Στιγμιότυπο Οθόνης 2025 04 11 113523](assets/2025-04-11_surge-in-aframax-voyages-to-the-far-east_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_629c2ed4fe1f.png)
+![Στιγμιότυπο Οθόνης 2025 04 11 113523](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-04-11_surge-in-aframax-voyages-to-the-far-east_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_629c2ed4fe1f.png)
 
 > **Figure 2: Στιγμιότυπο Οθόνης 2025 04 11 113523**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-04-11_surge-in-aframax-voyages-to-the-far-east_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_629c2ed4fe1f.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-04-11_surge-in-aframax-voyages-to-the-far-east_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_629c2ed4fe1f.png)
 
 The first half of April saw mixed momentum in crude oil freight market sentiment, with downward trends in the VLCC and Aframax segments, while the Suezmax segment maintained a degree of firmness.
 
 - **VLCC**freight rates on the**MEG–China route**dropped to WS53, marking a 7% monthly decline.**Suezmax rates**from**West Africa to continental Europe**remained strong, holding above WS100 and marking a 17% month-on-month increase. Meanwhile, rates on the**Baltic–Mediterranean**route held steady at WS130, reflecting the same firm sentiment seen in mid-March and standing 24% higher than the previous month.
 - **Aframax**freight rates in the**Mediterranean**fell to WS160, representing a 10% decline week-on-week, yet remaining 30% higher than the levels recorded last month.
 
-![Στιγμιότυπο Οθόνης 2025 04 11 113618](assets/2025-04-11_surge-in-aframax-voyages-to-the-far-east_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_20eaa3213d0e.png)
+![Στιγμιότυπο Οθόνης 2025 04 11 113618](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-04-11_surge-in-aframax-voyages-to-the-far-east_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_20eaa3213d0e.png)
 
 > **Figure 3: Στιγμιότυπο Οθόνης 2025 04 11 113618**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-04-11_surge-in-aframax-voyages-to-the-far-east_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_20eaa3213d0e.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-04-11_surge-in-aframax-voyages-to-the-far-east_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_20eaa3213d0e.png)
 
 - **LR2**AG freight rates continued a soft downward trend from the end of March with rates at WS135, reflecting a 13% weekly decrease.
 
-![Στιγμιότυπο Οθόνης 2025 04 11 113733](assets/2025-04-11_surge-in-aframax-voyages-to-the-far-east_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_cc75f760c1fb.png)
+![Στιγμιότυπο Οθόνης 2025 04 11 113733](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-04-11_surge-in-aframax-voyages-to-the-far-east_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_cc75f760c1fb.png)
 
 > **Figure 4: Στιγμιότυπο Οθόνης 2025 04 11 113733**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-04-11_surge-in-aframax-voyages-to-the-far-east_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_cc75f760c1fb.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-04-11_surge-in-aframax-voyages-to-the-far-east_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_cc75f760c1fb.png)
 
 - **Panamax**Carib-to-USG settled at approximately 210 WS, reflecting a 40% increase for the week.
 
-![Στιγμιότυπο Οθόνης 2025 04 11 113819](assets/2025-04-11_surge-in-aframax-voyages-to-the-far-east_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_1f211151933c.png)
+![Στιγμιότυπο Οθόνης 2025 04 11 113819](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-04-11_surge-in-aframax-voyages-to-the-far-east_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_1f211151933c.png)
 
 > **Figure 5: Στιγμιότυπο Οθόνης 2025 04 11 113819**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-04-11_surge-in-aframax-voyages-to-the-far-east_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_1f211151933c.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-04-11_surge-in-aframax-voyages-to-the-far-east_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_1f211151933c.png)
 
 - **MR1**freight rates for Baltic-to-Continent shipments hovered around WS150, representing a 20% monthly decrease.
 
 - **MR2**freight rates for shipments from the Continent to the US Atlantic Coast (USAC) reached WS145, reflecting a 15% weekly decrease. Meanwhile, MR2 rates on the US Gulf–to–Continent route dropped to WS100, marking a 20% weekly decrease.
 
-![Στιγμιότυπο Οθόνης 2025 04 11 113912](assets/2025-04-11_surge-in-aframax-voyages-to-the-far-east_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_3e3c71cc80b2.png)
+![Στιγμιότυπο Οθόνης 2025 04 11 113912](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-04-11_surge-in-aframax-voyages-to-the-far-east_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_3e3c71cc80b2.png)
 
 > **Figure 6: Στιγμιότυπο Οθόνης 2025 04 11 113912**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-04-11_surge-in-aframax-voyages-to-the-far-east_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_3e3c71cc80b2.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-04-11_surge-in-aframax-voyages-to-the-far-east_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_3e3c71cc80b2.png)
 
 ​​​​​The number of available crude tankers remains below the yearly average; however, there is upward pressure on the VLCC and Suezmax, driving activity toward the annual average.
 
@@ -102,31 +102,31 @@ The first half of April saw mixed momentum in crude oil freight market sentiment
 - **Aframax Med:**The first days of April indicated a downward trend, as the number of ships remained below the annual benchmark of 10.
 - **Aframax Baltic:**The ship count stood at approximately 21, nearly 10 vessels below the annual average.
 
-![Στιγμιότυπο Οθόνης 2025 04 11 114109](assets/2025-04-11_surge-in-aframax-voyages-to-the-far-east_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_4319f7136c87.png)
+![Στιγμιότυπο Οθόνης 2025 04 11 114109](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-04-11_surge-in-aframax-voyages-to-the-far-east_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_4319f7136c87.png)
 
 > **Figure 7: Στιγμιότυπο Οθόνης 2025 04 11 114109**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-04-11_surge-in-aframax-voyages-to-the-far-east_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_4319f7136c87.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-04-11_surge-in-aframax-voyages-to-the-far-east_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_4319f7136c87.png)
 
-![Στιγμιότυπο Οθόνης 2025 04 11 114119](assets/2025-04-11_surge-in-aframax-voyages-to-the-far-east_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_a5c353f7d4d1.png)
+![Στιγμιότυπο Οθόνης 2025 04 11 114119](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-04-11_surge-in-aframax-voyages-to-the-far-east_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_a5c353f7d4d1.png)
 
 > **Figure 8: Στιγμιότυπο Οθόνης 2025 04 11 114119**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-04-11_surge-in-aframax-voyages-to-the-far-east_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_a5c353f7d4d1.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-04-11_surge-in-aframax-voyages-to-the-far-east_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_a5c353f7d4d1.png)
 
 - **Clean LR2 AG Jubail**: The downward trend persists, with vessel count remaining below the annual average of 11 over the last eight weeks.
 
 - **Clean MR:**Algeria’s Skikda port has seen a decline in activity, with MR1 vessel calls falling to 26—12 fewer than the peak recorded in Week 8. Meanwhile, MR2 calls in Amsterdam continue to trend upward, currently hovering above the annual average of 32, extending the momentum observed since the end of Week 13.
 
-![Στιγμιότυπο Οθόνης 2025 04 11 114356](assets/2025-04-11_surge-in-aframax-voyages-to-the-far-east_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_f7aedfd1fffc.png)
+![Στιγμιότυπο Οθόνης 2025 04 11 114356](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-04-11_surge-in-aframax-voyages-to-the-far-east_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_f7aedfd1fffc.png)
 
 > **Figure 9: Στιγμιότυπο Οθόνης 2025 04 11 114356**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-04-11_surge-in-aframax-voyages-to-the-far-east_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_f7aedfd1fffc.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-04-11_surge-in-aframax-voyages-to-the-far-east_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_f7aedfd1fffc.png)
 
 - Dirty tonne days: During the second week of April, the VLCC segment continued its downward trend in tonne-day growth, extending its decline further below the annual average following the last peak observed in week 13. In the Suezmax market, tonne-day growth has now nearly converged with the annual average, indicating a slowdown. In contrast, the Aframax segment shows a notable surge, reaching one of its highest growth levels since the beginning of the year.
 
-![Στιγμιότυπο Οθόνης 2025 04 11 114508](assets/2025-04-11_surge-in-aframax-voyages-to-the-far-east_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_005af99a1247.png)
+![Στιγμιότυπο Οθόνης 2025 04 11 114508](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-04-11_surge-in-aframax-voyages-to-the-far-east_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_005af99a1247.png)
 
 > **Figure 10: Στιγμιότυπο Οθόνης 2025 04 11 114508**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-04-11_surge-in-aframax-voyages-to-the-far-east_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_005af99a1247.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-04-11_surge-in-aframax-voyages-to-the-far-east_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_005af99a1247.png)
 
 - **Panamax**tonne days: The growth rate remains below this year's weekly average, extending a downward trend that has persisted since early March.
 

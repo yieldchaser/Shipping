@@ -82,4 +82,4 @@ Normal Range Historical Inventories Base Case Forecast Forecast ‐ 10% Colder F
 
 ![Exhibit 1: Weather or Not](../../../charts/poten/2010/poten_2010-10-22_weather-or-not_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2010/poten_2010-10-22_weather-or-not_chart1.png)
+> **Interactive Asset:** [Local Asset (200 DPI PNG)](../../../charts/poten/2010/poten_2010-10-22_weather-or-not_chart1.png)

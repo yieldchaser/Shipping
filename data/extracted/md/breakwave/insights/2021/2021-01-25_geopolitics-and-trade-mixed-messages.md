@@ -23,7 +23,7 @@ source_file: "corpus/03-breakwave/insights/2021/2021-01-25_geopolitics-and-trade
 ![By Ulf Bergman](assets/2021-01-25_geopolitics-and-trade-mixed-messages_img_image-asset_45c90355786e.jpeg)
 
 > **Figure 1: By Ulf Bergman**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2021/assets/2021-01-25_geopolitics-and-trade-mixed-messages_img_image-asset_45c90355786e.jpeg)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-01-25_geopolitics-and-trade-mixed-messages_img_image-asset_45c90355786e.jpeg)
 
 At the same time as the new US administration is realigning the American trade and foreign policies, friends and foes are sending messages of varying subtlety to the new President. As often is the case, the signals are a mixture of sticks and carrots, encouraging cooperation while providing a show of strength.
 
@@ -40,7 +40,7 @@ Despite the US elections are recently over, the race for the midterm elections i
 ![Water2](assets/2021-01-25_geopolitics-and-trade-mixed-messages_img_water2_2d0df1bd3969.jpg)
 
 > **Figure 2: Water2**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2021/assets/2021-01-25_geopolitics-and-trade-mixed-messages_img_water2_2d0df1bd3969.jpg)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-01-25_geopolitics-and-trade-mixed-messages_img_water2_2d0df1bd3969.jpg)
 
 An American initiative to minimize overseas purchases by the federal authorities could have a significant impact on the shipping industry, as the annual spending accounts for around 600 billion dollars. Container shipping could stand to lose considerable volumes when federal agencies are forced to find domestic substitutes. On the other hand, a boost in industrial output in the US, spurred by federal spending, would fuel an increase in the country’s demand for industrial commodities. In addition, the expected bill on infrastructure and green-energy investments is set to increase demand for steel and other construction materials. If there is a stricter federal policy of prioritizing domestic sources, American production of such materials will rise and lead to increasing imports of dry bulk commodities.
 

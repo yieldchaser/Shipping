@@ -52,14 +52,10 @@ A full-report and more information on ExxonMobil's Energy outlook can be found a
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: The Outlook for Energy: A View to 2030](../../../charts/poten/2007/poten_2007-11-09_the-outlook-for-energy-a-view-to-2030_chart1.png)
-
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2007/poten_2007-11-09_the-outlook-for-energy-a-view-to-2030_chart1.png)
-
 ![Exhibit 2: The Outlook for Energy: A View to 2030](../../../charts/poten/2007/poten_2007-11-09_the-outlook-for-energy-a-view-to-2030_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2007/poten_2007-11-09_the-outlook-for-energy-a-view-to-2030_chart2.png)
+> **Interactive Asset:** [Local Asset (200 DPI PNG)](../../../charts/poten/2007/poten_2007-11-09_the-outlook-for-energy-a-view-to-2030_chart2.png)
 
 ![Exhibit 3: The Outlook for Energy: A View to 2030](../../../charts/poten/2007/poten_2007-11-09_the-outlook-for-energy-a-view-to-2030_chart3.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2007/poten_2007-11-09_the-outlook-for-energy-a-view-to-2030_chart3.png)
+> **Interactive Asset:** [Local Asset (200 DPI PNG)](../../../charts/poten/2007/poten_2007-11-09_the-outlook-for-energy-a-view-to-2030_chart3.png)

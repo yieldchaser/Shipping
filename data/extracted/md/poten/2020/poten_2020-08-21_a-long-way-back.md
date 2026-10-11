@@ -36,10 +36,18 @@ One major positive factor for the market is the fact that the orderbook is decli
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: A Long Way Back](../../../charts/poten/2020/poten_2020-08-21_a-long-way-back_chart1.png)
+![Exhibit 1: Regional Oil Demand Outlook (Change from 2019)](../../../charts/poten/2020/poten_2020-08-21_a-long-way-back_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2020/poten_2020-08-21_a-long-way-back_chart1.png)
+> **Exhibit 1: Regional Oil Demand Outlook (Change from 2019)**  
+> Unit: Mb/day · X-axis: World to Africa  
+> Series: 2020, 2021  
+> *Source: IEA*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2020/poten_2020-08-21_a-long-way-back_chart1.png)
 
-![Exhibit 2: A Long Way Back](../../../charts/poten/2020/poten_2020-08-21_a-long-way-back_chart2.png)
+![Exhibit 2: Global Oil Demand vs 2019](../../../charts/poten/2020/poten_2020-08-21_a-long-way-back_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2020/poten_2020-08-21_a-long-way-back_chart2.png)
+> **Exhibit 2: Global Oil Demand vs 2019**  
+> Unit: Mb/d · X-axis: 1Q2020 to 4Q2021  
+> Series: IEA Demand, EIA Demand, OPEC Demand  
+> *Source: IEA, EIA, OPEC*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2020/poten_2020-08-21_a-long-way-back_chart2.png)

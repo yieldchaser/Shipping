@@ -46,4 +46,4 @@ Over the long-term, the need to address climate change will reduce the use of fo
 
 ![Exhibit 1: Interesting Times](../../../charts/poten/2022/poten_2022-04-08_interesting-times_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2022/poten_2022-04-08_interesting-times_chart1.png)
+> **Interactive Asset:** [Local Asset (200 DPI PNG)](../../../charts/poten/2022/poten_2022-04-08_interesting-times_chart1.png)

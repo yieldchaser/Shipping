@@ -32,10 +32,18 @@ Nigeria remains an African powerhouse with significant oil production and export
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: Plugging Nigerias Black Hole](../../../charts/poten/2015/poten_2015-09-04_plugging-nigerias-black-hole_chart1.png)
+![Exhibit 1: Nigerian Crude Exports 2010 – 2015 ytd](../../../charts/poten/2015/poten_2015-09-04_plugging-nigerias-black-hole_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2015/poten_2015-09-04_plugging-nigerias-black-hole_chart1.png)
+> **Exhibit 1: Nigerian Crude Exports 2010 – 2015 ytd**  
+> Unit: Kb/d · X-axis: 1Q2010 to 2Q2015  
+> Series: OECD Americas, OECD Asia, OECD Europe, Other  
+> *Source: JODI, IEA*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2015/poten_2015-09-04_plugging-nigerias-black-hole_chart1.png)
 
-![Exhibit 2: Plugging Nigerias Black Hole](../../../charts/poten/2015/poten_2015-09-04_plugging-nigerias-black-hole_chart2.png)
+![Exhibit 2: OECD Clean Product Exports to Nigeria 2005-2015 ytd](../../../charts/poten/2015/poten_2015-09-04_plugging-nigerias-black-hole_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2015/poten_2015-09-04_plugging-nigerias-black-hole_chart2.png)
+> **Exhibit 2: OECD Clean Product Exports to Nigeria 2005-2015 ytd**  
+> Unit: 1,000 Tons · X-axis: 1Q2005 to 1Q2015  
+> Series: OECD Americas, OECD Europe, OECD Asia/Oceania  
+> *Source: IEA*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2015/poten_2015-09-04_plugging-nigerias-black-hole_chart2.png)

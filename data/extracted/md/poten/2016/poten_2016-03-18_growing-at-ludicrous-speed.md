@@ -34,10 +34,18 @@ The bottom-line is that the gasoline market may look very different 15-20 years 
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: Growing At Ludicrous Speed](../../../charts/poten/2016/poten_2016-03-18_growing-at-ludicrous-speed_chart1.png)
+![Exhibit 1: OECD vs Non OECD Gasoline Demand](../../../charts/poten/2016/poten_2016-03-18_growing-at-ludicrous-speed_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2016/poten_2016-03-18_growing-at-ludicrous-speed_chart1.png)
+> **Exhibit 1: OECD vs Non OECD Gasoline Demand**  
+> Unit: Mb/d · X-axis: 2000 to 2020  
+> Series: OECD, Non OECD, Total Gasoline Demand  
+> *Source: IEA*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2016/poten_2016-03-18_growing-at-ludicrous-speed_chart1.png)
 
-![Exhibit 2: Growing At Ludicrous Speed](../../../charts/poten/2016/poten_2016-03-18_growing-at-ludicrous-speed_chart2.png)
+![Exhibit 2: Sales of Electric Cars in China (2011-2015)](../../../charts/poten/2016/poten_2016-03-18_growing-at-ludicrous-speed_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2016/poten_2016-03-18_growing-at-ludicrous-speed_chart2.png)
+> **Exhibit 2: Sales of Electric Cars in China (2011-2015)**  
+> X-axis: 2011 to 2015  
+> Series: All-electric vehicles, Plug-in hybrids  
+> *Source: China Association of Automobile Manufacturers*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2016/poten_2016-03-18_growing-at-ludicrous-speed_chart2.png)

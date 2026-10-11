@@ -30,10 +30,18 @@ Reduced demand due to the flooding will have a negative impact on the economic r
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: After Corona The Floods](../../../charts/poten/2020/poten_2020-07-24_after-corona-the-floods_chart1.png)
+![Exhibit 1: Chinese Petroleum Product Demand](../../../charts/poten/2020/poten_2020-07-24_after-corona-the-floods_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2020/poten_2020-07-24_after-corona-the-floods_chart1.png)
+> **Exhibit 1: Chinese Petroleum Product Demand**  
+> Unit: Mb/d · X-axis: Jan-19 to May-20  
+> Series: Naphtha, Motor and aviation gasoline, Kerosenes, Gas/diesel oil, Fuel oil, Other oil products  
+> *Source: JODI*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2020/poten_2020-07-24_after-corona-the-floods_chart1.png)
 
-![Exhibit 2: After Corona The Floods](../../../charts/poten/2020/poten_2020-07-24_after-corona-the-floods_chart2.png)
+![Exhibit 2: Chinese Petroleum Product Exports](../../../charts/poten/2020/poten_2020-07-24_after-corona-the-floods_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2020/poten_2020-07-24_after-corona-the-floods_chart2.png)
+> **Exhibit 2: Chinese Petroleum Product Exports**  
+> Unit: Mb/d · X-axis: Jan-19 to Jun-20  
+> Series: Naphtha, Motor and aviation gasoline, Kerosenes, Gas/diesel oil, Fuel oil, Other oil products  
+> *Source: JODI, Bloomberg*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2020/poten_2020-07-24_after-corona-the-floods_chart2.png)

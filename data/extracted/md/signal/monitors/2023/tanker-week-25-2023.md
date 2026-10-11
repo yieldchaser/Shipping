@@ -33,7 +33,7 @@ tags:
 
 > **Figure 1: Data Source: The Signal Ocean Platform**  
 > *Data Source: The Signal Ocean Platform*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/tanker-week-25-2023) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/649579ac20b5f769934a0b33_chart of the week (1).png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/tanker-week-25-2023) | [Local Asset](../../../../../../corpus/07-signal/images/649579ac20b5f769934a0b33_chart%20of%20the%20week%20(1).png)
 
 In the crude tanker segment, there has been a notable recovery in freight rates for both VLCC and Suezmax tankers. This positive trend indicates a promising summer season ahead, supported by sustained demand for VLCC tankers, which has continued for an additional week with increased growth in ton days compared to the previous week. Notably, the supply of VLCC crude oil tankers in the Ras Tanura region has been consistently declining, further contributing to the positive outlook. Additionally, the Suezmax segment has shown encouraging signs of a firmer recovery. This is corroborated by the recovery observed in Suezmax Wafr rates during June, as evidenced by an increase in ballast speeds (see image above). Overall, these developments suggest a positive trajectory for both VLCC and Suezmax markets, boding well for the crude tanker industry.
 

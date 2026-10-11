@@ -20,10 +20,10 @@ source_file: "corpus/03-breakwave/insights/2025/2025-09-29_oil-glut-looms.html"
 
 ---
 
-![Istock 1184092411](assets/2025-09-29_oil-glut-looms_img_istock-1184092411_e59424513d5b.jpg)
+![Istock 1184092411](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-09-29_oil-glut-looms_img_istock-1184092411_e59424513d5b.jpg)
 
 > **Figure 1: Istock 1184092411**  
-> **Interactive Data & Source:** [Gibsons Co](https://www.gibsons.co.uk/market-reports) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-09-29_oil-glut-looms_img_istock-1184092411_e59424513d5b.jpg)
+> **Interactive Data & Source:** [Gibsons Co](https://www.gibsons.co.uk/market-reports) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-09-29_oil-glut-looms_img_istock-1184092411_e59424513d5b.jpg)
 
 More and more analysts expect the oil market to move into significant surplus next year. The IEA sees oversupply of 3.3 mbd in 2026, while the EIA forecasts 1.7 mbd. Independent forecasts paint a similar picture: investment bank Macquarie expects around 3 mbd of surplus in late 2025 and early 2026, and Rystad consultancy sees 2.2 mbd next year. If these predictions are correct, crude prices could come under heavy pressure, with some saying they could fall to $50 a barrel or even lower.
 
@@ -39,10 +39,10 @@ Whilst intensifying sanctions pose a clear downside risk to Russian supply that 
 
 Ultimately, however, stock building cannot last forever. If the oversupply continues and prices fall further, the imbalance will not be sustainable. Producers will eventually be forced to cut output, with negative consequences for the tanker demand.
 
-![Στιγμιότυπο Οθόνης 2025 09 29 101717](assets/2025-09-29_oil-glut-looms_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_13d9dfff71fb.png)
+![Στιγμιότυπο Οθόνης 2025 09 29 101717](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-09-29_oil-glut-looms_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_13d9dfff71fb.png)
 
 > **Figure 2: Στιγμιότυπο Οθόνης 2025 09 29 101717**  
-> **Interactive Data & Source:** [Gibsons Co](https://www.gibsons.co.uk/market-reports) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-09-29_oil-glut-looms_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_13d9dfff71fb.png)
+> **Interactive Data & Source:** [Gibsons Co](https://www.gibsons.co.uk/market-reports) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-09-29_oil-glut-looms_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_13d9dfff71fb.png)
 
 Data source:[Gibson Shipbrokers](https://www.gibsons.co.uk/market-reports)
 

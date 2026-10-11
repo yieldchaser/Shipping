@@ -55,14 +55,26 @@ The Aframax segment showed significant changes with a relative stable group of c
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: Deja Vu All Over Again](../../../charts/poten/2024/poten_2024-01-05_deja-vu-all-over-again_chart1.png)
+![Exhibit 1: Top 10 VLCC Spot Charterers](../../../charts/poten/2024/poten_2024-01-05_deja-vu-all-over-again_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2024/poten_2024-01-05_deja-vu-all-over-again_chart1.png)
+> **Exhibit 1: Top 10 VLCC Spot Charterers**  
+> Unit: No. Spot Fixtures · X-axis: Unipec to Petrochina  
+> Series: Unipec, Shell, ExxonMobil, Ioc, Petrobras, SK Corp, GS Caltex, Sinochem, Total, Petrochina  
+> *Source: Poten & Partners*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2024/poten_2024-01-05_deja-vu-all-over-again_chart1.png)
 
-![Exhibit 2: Deja Vu All Over Again](../../../charts/poten/2024/poten_2024-01-05_deja-vu-all-over-again_chart2.png)
+![Exhibit 2: Top 10 Suezmax Spot Charterers](../../../charts/poten/2024/poten_2024-01-05_deja-vu-all-over-again_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2024/poten_2024-01-05_deja-vu-all-over-again_chart2.png)
+> **Exhibit 2: Top 10 Suezmax Spot Charterers**  
+> Unit: No. Spot Fixtures · X-axis: Total to Trafigura  
+> Series: Total, ExxonMobil, Shell, Repsol, Chevron, Unipec, Vitol, Glencore, ENI, Trafigura  
+> *Source: Poten & Partners*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2024/poten_2024-01-05_deja-vu-all-over-again_chart2.png)
 
-![Exhibit 3: Deja Vu All Over Again](../../../charts/poten/2024/poten_2024-01-05_deja-vu-all-over-again_chart3.png)
+![Exhibit 3: Top 10 Aframax Spot Charterers](../../../charts/poten/2024/poten_2024-01-05_deja-vu-all-over-again_chart3.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2024/poten_2024-01-05_deja-vu-all-over-again_chart3.png)
+> **Exhibit 3: Top 10 Aframax Spot Charterers**  
+> Unit: No. Spot Fixtures · X-axis: Vitol to Aramco  
+> Series: Vitol, BP, Chevron, ENI, Total, PTT, Shell, Phillips 66, ExxonMobil, Aramco  
+> *Source: Poten & Partners*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2024/poten_2024-01-05_deja-vu-all-over-again_chart3.png)

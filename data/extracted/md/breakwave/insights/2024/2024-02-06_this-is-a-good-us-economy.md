@@ -36,57 +36,57 @@ Let’s see how James fared versus the world.
 
 Last week the IMF increased its forecast for 2024, from 2.9% to 3.1%, mostly due to strength in the US and China, stating that the global economy is “surprisingly resilient”.
 
-![On Wednesday](assets/2024-02-06_this-is-a-good-us-economy_img_241_c19625653cfd.png)
+![On Wednesday](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-02-06_this-is-a-good-us-economy_img_241_c19625653cfd.png)
 
 > **Figure 1: On Wednesday**  
 > *On Wednesday, Fed Chair Jay Powell said: “The labour market is strong ... We've got six good months of inflation data and an expectation that there's more to come … Let's be honest, this is a good economy”.*  
-> **Interactive Data & Source:** [Youtube](https://www.youtube.com/watch?v=pKEYqrs72ps) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-02-06_this-is-a-good-us-economy_img_241_c19625653cfd.png)
+> **Interactive Data & Source:** [Youtube](https://www.youtube.com/watch?v=pKEYqrs72ps) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-02-06_this-is-a-good-us-economy_img_241_c19625653cfd.png)
 
 Let’s focus on the US, as it is the economy which leads the interest rate cycle and affects global growth and inflation.
 
 On the back of that resilience, US Non-Farm Payrolls, one of the key indicators for US interest rates, literally blew past expectations in January, suggesting that the US economy added more than 300 thousand jobs in the month.
 
-![242](assets/2024-02-06_this-is-a-good-us-economy_img_242_c7e8a2a11bde.png)
+![242](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-02-06_this-is-a-good-us-economy_img_242_c7e8a2a11bde.png)
 
 > **Figure 2: 242**  
-> **Interactive Data & Source:** [Youtube](https://www.youtube.com/watch?v=pKEYqrs72ps) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-02-06_this-is-a-good-us-economy_img_242_c7e8a2a11bde.png)
+> **Interactive Data & Source:** [Youtube](https://www.youtube.com/watch?v=pKEYqrs72ps) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-02-06_this-is-a-good-us-economy_img_242_c7e8a2a11bde.png)
 
 PMIs also suggest that the manufacturing sector may have bottomed out, with all countries bar Russia improving in January.
 
-![243](assets/2024-02-06_this-is-a-good-us-economy_img_243_e8383e3e019b.png)
+![243](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-02-06_this-is-a-good-us-economy_img_243_e8383e3e019b.png)
 
 > **Figure 3: 243**  
-> **Interactive Data & Source:** [Youtube](https://www.youtube.com/watch?v=pKEYqrs72ps) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-02-06_this-is-a-good-us-economy_img_243_e8383e3e019b.png)
+> **Interactive Data & Source:** [Youtube](https://www.youtube.com/watch?v=pKEYqrs72ps) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-02-06_this-is-a-good-us-economy_img_243_e8383e3e019b.png)
 
 As expected, year-end bond-market rate expectations for the US Federal Reserve moved closer towards the earth, from 6.5 cuts to 4.7 cuts as investors realised that the US economy is probably going from “soft landing” to “no landing” at all.
 
-![244](assets/2024-02-06_this-is-a-good-us-economy_img_244_3c100975500e.png)
+![244](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-02-06_this-is-a-good-us-economy_img_244_3c100975500e.png)
 
 > **Figure 4: 244**  
-> **Interactive Data & Source:** [Youtube](https://www.youtube.com/watch?v=pKEYqrs72ps) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-02-06_this-is-a-good-us-economy_img_244_3c100975500e.png)
+> **Interactive Data & Source:** [Youtube](https://www.youtube.com/watch?v=pKEYqrs72ps) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-02-06_this-is-a-good-us-economy_img_244_3c100975500e.png)
 
 Economic strength, we could argue, would undermine rate cuts as inflation would rise. However, this may not necessarily be the case, for various reasons.
 
 I) Headline inflation was strong in the first few months of last year. So, if inflation pressures remain benign, the number would still continue to drop even due to the base effect.
 
-![245](assets/2024-02-06_this-is-a-good-us-economy_img_245_98312764c920.png)
+![245](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-02-06_this-is-a-good-us-economy_img_245_98312764c920.png)
 
 > **Figure 5: 245**  
-> **Interactive Data & Source:** [Youtube](https://www.youtube.com/watch?v=pKEYqrs72ps) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-02-06_this-is-a-good-us-economy_img_245_98312764c920.png)
+> **Interactive Data & Source:** [Youtube](https://www.youtube.com/watch?v=pKEYqrs72ps) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-02-06_this-is-a-good-us-economy_img_245_98312764c920.png)
 
 II) However, average inflation in the past six months has been benign.
 
-![246](assets/2024-02-06_this-is-a-good-us-economy_img_246_6b8ef42f1ba4.png)
+![246](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-02-06_this-is-a-good-us-economy_img_246_6b8ef42f1ba4.png)
 
 > **Figure 6: 246**  
-> **Interactive Data & Source:** [Youtube](https://www.youtube.com/watch?v=pKEYqrs72ps) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-02-06_this-is-a-good-us-economy_img_246_6b8ef42f1ba4.png)
+> **Interactive Data & Source:** [Youtube](https://www.youtube.com/watch?v=pKEYqrs72ps) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-02-06_this-is-a-good-us-economy_img_246_6b8ef42f1ba4.png)
 
 III) Core inflation, meanwhile, the Fed’s preferred gauge is still dropping
 
-![247](assets/2024-02-06_this-is-a-good-us-economy_img_247_ed993e57a777.png)
+![247](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-02-06_this-is-a-good-us-economy_img_247_ed993e57a777.png)
 
 > **Figure 7: 247**  
-> **Interactive Data & Source:** [Youtube](https://www.youtube.com/watch?v=pKEYqrs72ps) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-02-06_this-is-a-good-us-economy_img_247_ed993e57a777.png)
+> **Interactive Data & Source:** [Youtube](https://www.youtube.com/watch?v=pKEYqrs72ps) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-02-06_this-is-a-good-us-economy_img_247_ed993e57a777.png)
 
 So this is indeed a good US economy. Not necessarily a healthy one, as we will show, but a good one. Inflation is receding at a healthy pace, growth is close to long-term averages and the labour market is strong.
 
@@ -96,17 +96,17 @@ What did most of the analysis world get wrong (bar James that is)?
 
 Well, the answer is surprisingly simple. Debt. The Treasury of the world’s biggest economy didn’t want to enter an election year in a recession. So it ran a high deficit and boosted the economy, in hopes that consumers would not go on a spending binge and stoke inflation. After all, incentivising new factories in the Rust Belt to boost growth may not have the same effect as sending cheques across the nation.
 
-![248](assets/2024-02-06_this-is-a-good-us-economy_img_248_36c75aa6440a.png)
+![248](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-02-06_this-is-a-good-us-economy_img_248_36c75aa6440a.png)
 
 > **Figure 8: 248**  
-> **Interactive Data & Source:** [Ft](https://www.ft.com/content/4c78d236-5af7-40ad-9188-6f37a6223f36) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-02-06_this-is-a-good-us-economy_img_248_36c75aa6440a.png)
+> **Interactive Data & Source:** [Ft](https://www.ft.com/content/4c78d236-5af7-40ad-9188-6f37a6223f36) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-02-06_this-is-a-good-us-economy_img_248_36c75aa6440a.png)
 
 Meanwhile, acting quickly, the Fed avoided “the inflation mindset”, i.e. the secular increase of consumer expectations over inflation, which can become inflationary by itself. Consumer expectations for inflation are indeed coming down.
 
-![249](assets/2024-02-06_this-is-a-good-us-economy_img_249_513aaf1b0939.png)
+![249](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-02-06_this-is-a-good-us-economy_img_249_513aaf1b0939.png)
 
 > **Figure 9: 249**  
-> **Interactive Data & Source:** [Ft](https://www.ft.com/content/4c78d236-5af7-40ad-9188-6f37a6223f36) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-02-06_this-is-a-good-us-economy_img_249_513aaf1b0939.png)
+> **Interactive Data & Source:** [Ft](https://www.ft.com/content/4c78d236-5af7-40ad-9188-6f37a6223f36) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-02-06_this-is-a-good-us-economy_img_249_513aaf1b0939.png)
 
 So, in this environment, the Fed is[now saying](https://www.ft.com/content/4c78d236-5af7-40ad-9188-6f37a6223f36)it will perform three cuts this year, and qualifies this statement by intoning that the fight against inflation can’t be[considered won yet](https://www.youtube.com/watch?v=OPO7S8WimSc).
 
@@ -114,10 +114,10 @@ So, in this environment, the Fed is[now saying](https://www.ft.com/content/4c78d
 
 For one, we will not be fighting the Fed, whose 2024 policies are becoming clearer by the day. If they say “three cuts” we are likely to believe them. We also stick to our guns that cuts might come later in the year, as the Fed is wary of cutting “too soon” according to it’s chair. Additionally, we are now looking hard at the debt world once more.**This may be a good economy, but it was likely purchased at the expense of a future economy.**To be sure, some of the debt incurred is “good debt”, the kind that fosters higher growth. But at these high levels, any debt is precarious and has implications for long-term investors, even if is in the world’s reserve currency. At this point, we should add that neither presidential candidate in the US is too excited about fiscal discipline. It is, thus, not outside the realm of possibility that credit agencies might once again warn investors about rising US debt. According to the IMF, the number could be as high as 137% in four years, higher than the 133% at the height of the pandemic, a time when GDP collapsed.
 
-![2410](assets/2024-02-06_this-is-a-good-us-economy_img_2410_693682208079.png)
+![2410](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-02-06_this-is-a-good-us-economy_img_2410_693682208079.png)
 
 > **Figure 10: 2410**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-02-06_this-is-a-good-us-economy_img_2410_693682208079.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-02-06_this-is-a-good-us-economy_img_2410_693682208079.png)
 
 Debt to GDP is a very difficult number to bring down. In the last fifty years, only President Clinton managed to reduce it, by less than 10% in the five years from 1996 to 2001 (last year was technically George W. Bush’s year, but it’s safe to say that it was Clinton’s policies which were still affecting the economy.
 
@@ -125,15 +125,15 @@ As a result we stand by our earlier predictions,**that investors should not be s
 
 As for equities, we are still cognisant of the fact that the bond market continues to price in two more cuts than the Fed has said it will perform and that the S&P 500 is trading 27% above its 30-year average, led by a very narrow band of stocks.
 
-![2411](assets/2024-02-06_this-is-a-good-us-economy_img_2411_e54490f18532.png)
+![2411](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-02-06_this-is-a-good-us-economy_img_2411_e54490f18532.png)
 
 > **Figure 11: 2411**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-02-06_this-is-a-good-us-economy_img_2411_e54490f18532.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-02-06_this-is-a-good-us-economy_img_2411_e54490f18532.png)
 
-![2412](assets/2024-02-06_this-is-a-good-us-economy_img_2412_daba3120756d.png)
+![2412](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-02-06_this-is-a-good-us-economy_img_2412_daba3120756d.png)
 
 > **Figure 12: 2412**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-02-06_this-is-a-good-us-economy_img_2412_daba3120756d.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-02-06_this-is-a-good-us-economy_img_2412_daba3120756d.png)
 
 This may be a good economy, and possibly a good market, but neither seems balanced.**Market expectations are still manifestly ahead of economic realities.**And this is the key for investors going forward. Lack of balance means that risks abound. For inflation, this is more the case, as geopolitical tensions continue to disrupt global trade and threaten a third wave of price hikes, which would probably delay rate cuts. And let us not forget that the economy in Europe and the UK is much weaker.
 

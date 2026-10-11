@@ -22,30 +22,30 @@ source_file: "corpus/03-breakwave/insights/2025/2025-10-30_iron-ore-coal-and-gra
 
 Major bulk, made up of iron ore, coal, and grains, exports ended 2025 Q3 above the previous year and sit as the quarter with the highest volume of major bulk exported on the Signal Ocean Platform. Demand from China across all these major bulks helped to drive this, with September being particularly notable for coal and grain demand.
 
-![Στιγμιότυπο Οθόνης 2025 10 30 161631](assets/2025-10-30_iron-ore-coal-and-grains-chinese-demand-spikes_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_071079d4a43e.png)
+![Στιγμιότυπο Οθόνης 2025 10 30 161631](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-10-30_iron-ore-coal-and-grains-chinese-demand-spikes_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_071079d4a43e.png)
 
 > **Figure 1: Στιγμιότυπο Οθόνης 2025 10 30 161631**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/market-insights-dry-bulk-flows-iron-ore) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-10-30_iron-ore-coal-and-grains-chinese-demand-spikes_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_071079d4a43e.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/market-insights-dry-bulk-flows-iron-ore) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-10-30_iron-ore-coal-and-grains-chinese-demand-spikes_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_071079d4a43e.png)
 
-![Στιγμιότυπο Οθόνης 2025 10 30 161718](assets/2025-10-30_iron-ore-coal-and-grains-chinese-demand-spikes_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_f6775c04180e.png)
+![Στιγμιότυπο Οθόνης 2025 10 30 161718](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-10-30_iron-ore-coal-and-grains-chinese-demand-spikes_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_f6775c04180e.png)
 
 > **Figure 2: Στιγμιότυπο Οθόνης 2025 10 30 161718**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/market-insights-dry-bulk-flows-iron-ore) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-10-30_iron-ore-coal-and-grains-chinese-demand-spikes_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_f6775c04180e.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/market-insights-dry-bulk-flows-iron-ore) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-10-30_iron-ore-coal-and-grains-chinese-demand-spikes_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_f6775c04180e.png)
 
-![Στιγμιότυπο Οθόνης 2025 10 30 161728](assets/2025-10-30_iron-ore-coal-and-grains-chinese-demand-spikes_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_042911d21376.png)
+![Στιγμιότυπο Οθόνης 2025 10 30 161728](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-10-30_iron-ore-coal-and-grains-chinese-demand-spikes_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_042911d21376.png)
 
 > **Figure 3: Στιγμιότυπο Οθόνης 2025 10 30 161728**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/market-insights-dry-bulk-flows-iron-ore) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-10-30_iron-ore-coal-and-grains-chinese-demand-spikes_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_042911d21376.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/market-insights-dry-bulk-flows-iron-ore) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-10-30_iron-ore-coal-and-grains-chinese-demand-spikes_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_042911d21376.png)
 
-![Στιγμιότυπο Οθόνης 2025 10 30 161741](assets/2025-10-30_iron-ore-coal-and-grains-chinese-demand-spikes_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_978ab167d389.png)
+![Στιγμιότυπο Οθόνης 2025 10 30 161741](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-10-30_iron-ore-coal-and-grains-chinese-demand-spikes_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_978ab167d389.png)
 
 > **Figure 4: Στιγμιότυπο Οθόνης 2025 10 30 161741**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/market-insights-dry-bulk-flows-iron-ore) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-10-30_iron-ore-coal-and-grains-chinese-demand-spikes_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_978ab167d389.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/market-insights-dry-bulk-flows-iron-ore) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-10-30_iron-ore-coal-and-grains-chinese-demand-spikes_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_978ab167d389.png)
 
-![Στιγμιότυπο Οθόνης 2025 10 30 161750](assets/2025-10-30_iron-ore-coal-and-grains-chinese-demand-spikes_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_142836d2e9e9.png)
+![Στιγμιότυπο Οθόνης 2025 10 30 161750](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-10-30_iron-ore-coal-and-grains-chinese-demand-spikes_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_142836d2e9e9.png)
 
 > **Figure 5: Στιγμιότυπο Οθόνης 2025 10 30 161750**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/market-insights-dry-bulk-flows-iron-ore) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-10-30_iron-ore-coal-and-grains-chinese-demand-spikes_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_142836d2e9e9.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/market-insights-dry-bulk-flows-iron-ore) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-10-30_iron-ore-coal-and-grains-chinese-demand-spikes_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_142836d2e9e9.png)
 
 ## Major Bulk
 
@@ -59,20 +59,20 @@ Furthermore, BHP announced at the start of October that the state-run iron ore b
 
 More recently, stories have broken out detailing that BHP has managed to sell some tonnage to Chinese traders, outlining that some in the market are willing to take deliveries of iron ore. Still, with the negotiations between BHP and CMRG still at a standstill, and Chinese iron ore stocks at a multi-month high, it would be logical to expect imports of iron ore into China to soften before the end of 2025.
 
-![Στιγμιότυπο Οθόνης 2025 10 30 162621](assets/2025-10-30_iron-ore-coal-and-grains-chinese-demand-spikes_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_570dc6044924.png)
+![Στιγμιότυπο Οθόνης 2025 10 30 162621](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-10-30_iron-ore-coal-and-grains-chinese-demand-spikes_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_570dc6044924.png)
 
 > **Figure 6: Στιγμιότυπο Οθόνης 2025 10 30 162621**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/chinas-soybean-imports-pivot-south) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-10-30_iron-ore-coal-and-grains-chinese-demand-spikes_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_570dc6044924.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/chinas-soybean-imports-pivot-south) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-10-30_iron-ore-coal-and-grains-chinese-demand-spikes_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_570dc6044924.png)
 
-![Στιγμιότυπο Οθόνης 2025 10 30 162642](assets/2025-10-30_iron-ore-coal-and-grains-chinese-demand-spikes_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_3dddbeb372da.png)
+![Στιγμιότυπο Οθόνης 2025 10 30 162642](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-10-30_iron-ore-coal-and-grains-chinese-demand-spikes_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_3dddbeb372da.png)
 
 > **Figure 7: Στιγμιότυπο Οθόνης 2025 10 30 162642**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/chinas-soybean-imports-pivot-south) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-10-30_iron-ore-coal-and-grains-chinese-demand-spikes_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_3dddbeb372da.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/chinas-soybean-imports-pivot-south) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-10-30_iron-ore-coal-and-grains-chinese-demand-spikes_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_3dddbeb372da.png)
 
-![Στιγμιότυπο Οθόνης 2025 10 30 162652](assets/2025-10-30_iron-ore-coal-and-grains-chinese-demand-spikes_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_7db682286caa.png)
+![Στιγμιότυπο Οθόνης 2025 10 30 162652](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-10-30_iron-ore-coal-and-grains-chinese-demand-spikes_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_7db682286caa.png)
 
 > **Figure 8: Στιγμιότυπο Οθόνης 2025 10 30 162652**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/chinas-soybean-imports-pivot-south) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-10-30_iron-ore-coal-and-grains-chinese-demand-spikes_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_7db682286caa.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/chinas-soybean-imports-pivot-south) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-10-30_iron-ore-coal-and-grains-chinese-demand-spikes_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_7db682286caa.png)
 
 ## Coal
 
@@ -84,20 +84,20 @@ The short-term demand picture for thermal coal is positive. China will continue 
 
 The longer-term outlook, however, is not as positive for coal demand. China, the world's largest consumer of coal for electricity generation, has invested heavily in renewable energy infrastructure to provide adequate base load for power in the coming years. There has been a high rate of new coal power stations being commissioned, with 2025 H1 seeing the largest amount of coal-fired capacity being added since 2015, but this was to be expected given the 2030 peak carbon deadline set by the Chinese government. From 2030, coal demand in China will consistently soften.
 
-![Στιγμιότυπο Οθόνης 2025 10 30 163750](assets/2025-10-30_iron-ore-coal-and-grains-chinese-demand-spikes_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_6ef270507c7c.png)
+![Στιγμιότυπο Οθόνης 2025 10 30 163750](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-10-30_iron-ore-coal-and-grains-chinese-demand-spikes_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_6ef270507c7c.png)
 
 > **Figure 9: Στιγμιότυπο Οθόνης 2025 10 30 163750**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/chinas-soybean-imports-pivot-south) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-10-30_iron-ore-coal-and-grains-chinese-demand-spikes_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_6ef270507c7c.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/chinas-soybean-imports-pivot-south) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-10-30_iron-ore-coal-and-grains-chinese-demand-spikes_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_6ef270507c7c.png)
 
-![Στιγμιότυπο Οθόνης 2025 10 30 163757](assets/2025-10-30_iron-ore-coal-and-grains-chinese-demand-spikes_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_bde375f53fa6.png)
+![Στιγμιότυπο Οθόνης 2025 10 30 163757](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-10-30_iron-ore-coal-and-grains-chinese-demand-spikes_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_bde375f53fa6.png)
 
 > **Figure 10: Στιγμιότυπο Οθόνης 2025 10 30 163757**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/chinas-soybean-imports-pivot-south) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-10-30_iron-ore-coal-and-grains-chinese-demand-spikes_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_bde375f53fa6.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/chinas-soybean-imports-pivot-south) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-10-30_iron-ore-coal-and-grains-chinese-demand-spikes_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_bde375f53fa6.png)
 
-![Στιγμιότυπο Οθόνης 2025 10 30 163808](assets/2025-10-30_iron-ore-coal-and-grains-chinese-demand-spikes_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_2c693a81b7a1.png)
+![Στιγμιότυπο Οθόνης 2025 10 30 163808](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-10-30_iron-ore-coal-and-grains-chinese-demand-spikes_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_2c693a81b7a1.png)
 
 > **Figure 11: Στιγμιότυπο Οθόνης 2025 10 30 163808**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/chinas-soybean-imports-pivot-south) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-10-30_iron-ore-coal-and-grains-chinese-demand-spikes_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_2c693a81b7a1.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/chinas-soybean-imports-pivot-south) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-10-30_iron-ore-coal-and-grains-chinese-demand-spikes_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_2c693a81b7a1.png)
 
 ## Grains- Soybeans
 
@@ -107,20 +107,20 @@ The tariffs imposed by China on U.S. soybeans have been what the market has poin
 
 Without a positive resolution to the trade talks between the U.S. and China, U.S. farmers will come under pressure, as buyers in other countries are unlikely to require the volumes that China typically purchases. The move could also impact China at the start of next year, when Brazil enters its harvest season, as there is no indication of how much old crop Brazil, the largest supplier of soybeans to China, has left. This could see Chinese buyers look to U.S. soybeans over this period to keep the flows incoming.
 
-![Στιγμιότυπο Οθόνης 2025 10 30 163916](assets/2025-10-30_iron-ore-coal-and-grains-chinese-demand-spikes_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_c560b9f28a89.png)
+![Στιγμιότυπο Οθόνης 2025 10 30 163916](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-10-30_iron-ore-coal-and-grains-chinese-demand-spikes_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_c560b9f28a89.png)
 
 > **Figure 12: Στιγμιότυπο Οθόνης 2025 10 30 163916**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-10-30_iron-ore-coal-and-grains-chinese-demand-spikes_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_c560b9f28a89.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-10-30_iron-ore-coal-and-grains-chinese-demand-spikes_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_c560b9f28a89.png)
 
-![Στιγμιότυπο Οθόνης 2025 10 30 163924](assets/2025-10-30_iron-ore-coal-and-grains-chinese-demand-spikes_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_7220fc08f25e.png)
+![Στιγμιότυπο Οθόνης 2025 10 30 163924](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-10-30_iron-ore-coal-and-grains-chinese-demand-spikes_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_7220fc08f25e.png)
 
 > **Figure 13: Στιγμιότυπο Οθόνης 2025 10 30 163924**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-10-30_iron-ore-coal-and-grains-chinese-demand-spikes_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_7220fc08f25e.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-10-30_iron-ore-coal-and-grains-chinese-demand-spikes_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_7220fc08f25e.png)
 
-![Στιγμιότυπο Οθόνης 2025 10 30 163930](assets/2025-10-30_iron-ore-coal-and-grains-chinese-demand-spikes_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_939ce64b0c3b.png)
+![Στιγμιότυπο Οθόνης 2025 10 30 163930](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-10-30_iron-ore-coal-and-grains-chinese-demand-spikes_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_939ce64b0c3b.png)
 
 > **Figure 14: Στιγμιότυπο Οθόνης 2025 10 30 163930**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-10-30_iron-ore-coal-and-grains-chinese-demand-spikes_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_939ce64b0c3b.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-10-30_iron-ore-coal-and-grains-chinese-demand-spikes_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_939ce64b0c3b.png)
 
 Data Source:[Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform)
 

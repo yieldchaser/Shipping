@@ -30,10 +30,10 @@ source_file: "corpus/03-breakwave/insights/2024/2024-03-04_how-china-is-reducing
 
 Last week’s Core Personal Expenditure number, the Fed’s preferred gauge of inflation, continued to fall, to 2.8% for the year.
 
-![241](assets/2024-03-04_how-china-is-reducing-inflation-and-america-is-stoking-it_img_241_d99045f643ce.png)
+![241](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-03-04_how-china-is-reducing-inflation-and-america-is-stoking-it_img_241_d99045f643ce.png)
 
 > **Figure 1: 241**  
-> **Interactive Data & Source:** [Fxstreet](https://www.fxstreet.com/news/feds-mester-we-cant-expect-last-years-disinflation-to-continue-202402292111) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-03-04_how-china-is-reducing-inflation-and-america-is-stoking-it_img_241_d99045f643ce.png)
+> **Interactive Data & Source:** [Fxstreet](https://www.fxstreet.com/news/feds-mester-we-cant-expect-last-years-disinflation-to-continue-202402292111) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-03-04_how-china-is-reducing-inflation-and-america-is-stoking-it_img_241_d99045f643ce.png)
 
 If we add this super-core inflation number, which is projected to be around 2.5% by the end of the year, and growth of about 2% (building in some downside risk), then US interest rates by the end of 2024 should be around one percentage point lower than their present 5.5%. Yet the Fed is set to deliver three (instead of four) quarter-point rate cuts, and officials have been expressing[doubts](https://www.fxstreet.com/news/feds-mester-we-cant-expect-last-years-disinflation-to-continue-202402292111)as to whether last year’s disinflationary trend can continue.
 
@@ -45,10 +45,10 @@ The way we see it, there are two opposite forces to global inflation. The first 
 
 Let’s begin with the former. The latest Personal Income release was a surprise for economists. Personal income in the US rose 1%, the highest in a year, mostly due to generous social security benefits and resilient labour negotiating power.
 
-![242](assets/2024-03-04_how-china-is-reducing-inflation-and-america-is-stoking-it_img_242_73873b2693f4.png)
+![242](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-03-04_how-china-is-reducing-inflation-and-america-is-stoking-it_img_242_73873b2693f4.png)
 
 > **Figure 2: 242**  
-> **Interactive Data & Source:** [Ft](https://www.ft.com/content/f08e7f24-0e60-40e5-bd3a-1fb75686b030) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-03-04_how-china-is-reducing-inflation-and-america-is-stoking-it_img_242_73873b2693f4.png)
+> **Interactive Data & Source:** [Ft](https://www.ft.com/content/f08e7f24-0e60-40e5-bd3a-1fb75686b030) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-03-04_how-china-is-reducing-inflation-and-america-is-stoking-it_img_242_73873b2693f4.png)
 
 US consumers have decent savings rates and benefit from a tight labour market, the result of demographics, high levels of entrepreneurship and the increasing skills gap. They also benefit from generous fiscal support.
 
@@ -66,10 +66,10 @@ A year later, we are now seeing more good news from the world’s largest manufa
 
 **a) Slack.**As China saw its economic growth stunted by a real estate bubble (a typical phenomenon after a period of fast-paced economic growth), it once again turned to its core skill: manufacturing. Xi’s government has, for now, abandoned plans to empower Eastern Asian consumers, in a bid to stop the economy from tipping over. Instead, it’s focused on manufacturing. As banks turned the tap off for real estate investment, they turned it on for industrial investment. This has created rising slack in manufacturing, to the point where the West is now[warning](https://www.ft.com/content/96dc71be-b795-47dc-a1cc-cccc7aa6a481)China against dumping goods in the market. More slack, it goes without saying, equals lower prices. Economists are[noticing](https://www.reuters.com/world/china/china-expected-take-gradual-approach-prop-up-economy-further-say-analysts-2024-02-23/)that China entered 2024 with a significant output gap.
 
-![243](assets/2024-03-04_how-china-is-reducing-inflation-and-america-is-stoking-it_img_243_c72ecc17b961.png)
+![243](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-03-04_how-china-is-reducing-inflation-and-america-is-stoking-it_img_243_c72ecc17b961.png)
 
 > **Figure 3: 243**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-03-04_how-china-is-reducing-inflation-and-america-is-stoking-it_img_243_c72ecc17b961.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-03-04_how-china-is-reducing-inflation-and-america-is-stoking-it_img_243_c72ecc17b961.png)
 
 **b) The “cheap chip” price wars.**As Nvidia and other US Semiconductors are rising due to AI demand, a rift is created between the cutting-edge microchips and the “utility” microchips. High-end microchips, used towards the creation of AI applications, are very much in demand, while supply is, naturally, limited. They are 3-5 nanometres big. China has only been able to produce chips as small as 15-28nm at least in scale*. Due to trade restrictions, the West is improving its cutting-edge capabilities faster. (It may be, of course, dangerous that 90% of the production of high-end chips is taking place in Taiwan, 81 miles away from Mainland China).
 
@@ -79,17 +79,17 @@ While the cutting-edge chips are becoming more expensive, the lower-end chips, w
 
 **d) Housing:**While China has been evidently disinflationary over the past twenty five years, some of that impact has been offset by higher commodity prices due to demand for construction. However, with the real estate sector still in free fall (and possibly in the doldrums for a few more years), the demand for commodities is waning.
 
-![244](assets/2024-03-04_how-china-is-reducing-inflation-and-america-is-stoking-it_img_244_4a66dcb74af3.png)
+![244](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-03-04_how-china-is-reducing-inflation-and-america-is-stoking-it_img_244_4a66dcb74af3.png)
 
 > **Figure 4: 244**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-03-04_how-china-is-reducing-inflation-and-america-is-stoking-it_img_244_4a66dcb74af3.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-03-04_how-china-is-reducing-inflation-and-america-is-stoking-it_img_244_4a66dcb74af3.png)
 
 This is why the resurgence of China has failed to be accompanied by a surge in commodity prices, which was widely expected.
 
-![$5,png](assets/2024-03-04_how-china-is-reducing-inflation-and-america-is-stoking-it_img_2452cpng_c59d73033a27.png)
+![$5,png](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-03-04_how-china-is-reducing-inflation-and-america-is-stoking-it_img_2452cpng_c59d73033a27.png)
 
 > **Figure 5: $5,png**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-03-04_how-china-is-reducing-inflation-and-america-is-stoking-it_img_2452cpng_c59d73033a27.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-03-04_how-china-is-reducing-inflation-and-america-is-stoking-it_img_2452cpng_c59d73033a27.png)
 
 ### This May Last
 

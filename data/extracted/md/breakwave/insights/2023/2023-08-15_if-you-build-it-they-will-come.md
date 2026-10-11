@@ -24,11 +24,11 @@ source_file: "corpus/03-breakwave/insights/2023/2023-08-15_if-you-build-it-they-
 
 In recent years we have seen a remarkable increase in VLCC flows out of the US Gulf (USG) as overall US crude production increased thanks to the shale revolution. Traditionally, most US crude cargoes are loaded on Aframax and Suezmax vessels but increasingly, these flows are being sized up onto larger VLCCs. However, an important issue with the USG VLCC market is the limited options to load a full cargo of 2 million barrels at terminal. This requires the use of lighterage operations, typically with multiple Aframaxes to bring the VLCC up to a full cargo quantity. As of writing, the only facility able to facilitate a full cargo is the Louisiana Offshore Oil Port (LOOP). Several new facilities have been proposed over recent years, although these have all faced various delays. If US VLCC loadings are to continue growing, it will be important to get these projects operational over the coming years. With that in mind, what is the current outlook for USG VLCC terminal projects?
 
-![Data Source:gibson Shipbrokers](assets/2023-08-15_if-you-build-it-they-will-come_img_screenshot2023-08-14101035_9e2898d8d664.png)
+![Data Source:gibson Shipbrokers](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-08-15_if-you-build-it-they-will-come_img_screenshot2023-08-14101035_9e2898d8d664.png)
 
 > **Figure 1: Data Source:gibson Shipbrokers**  
 > *Data source:Gibson Shipbrokers*  
-> **Interactive Data & Source:** [Gibsons Co](https://www.gibsons.co.uk/market-reports) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-08-15_if-you-build-it-they-will-come_img_screenshot2023-08-14101035_9e2898d8d664.png)
+> **Interactive Data & Source:** [Gibsons Co](https://www.gibsons.co.uk/market-reports) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-08-15_if-you-build-it-they-will-come_img_screenshot2023-08-14101035_9e2898d8d664.png)
 
 In the very near term, The Corpus Christi Channel Improvement Project should be due for completion by Q4 2023 or Q1 2024. This aims to deepen and widen the channel at Ingleside to accommodate vessels with a larger laden draft which means an additional 15% more cargo can be loaded onto a VLCC upon completion. This means lighterage will still be required to bring the cargo to full size.
 

@@ -28,17 +28,17 @@ Meanwhile, the earnings season has begun in the US, with banks reporting through
 
 Finally, as inflation is gripping the world, it will be interesting to watch a speech by Christine Lagarde on the 14th. The ECB has been notably more dovish than the Fed and the Bank of England, mainly because of lower-wage pressures in the continent. However, the ECB chair is coming under increasing pressure, especially from inflation-sensitive Germany, to end QE sooner and raise the cost of money.
 
-![St](assets/2022-01-10_935dp1ga04w23r3nszondofnfu4egu_img_st_70101b8c826f.png)
+![St](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-01-10_935dp1ga04w23r3nszondofnfu4egu_img_st_70101b8c826f.png)
 
 > **Figure 1: St**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-01-10_935dp1ga04w23r3nszondofnfu4egu_img_st_70101b8c826f.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-01-10_935dp1ga04w23r3nszondofnfu4egu_img_st_70101b8c826f.png)
 
 ### Lack of Normality Means Lack of Visibility
 
-![COVID](assets/2022-01-10_935dp1ga04w23r3nszondofnfu4egu_img_covid_bd85e646fdeb.png)
+![COVID](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-01-10_935dp1ga04w23r3nszondofnfu4egu_img_covid_bd85e646fdeb.png)
 
 > **Figure 2: COVID**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-01-10_935dp1ga04w23r3nszondofnfu4egu_img_covid_bd85e646fdeb.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-01-10_935dp1ga04w23r3nszondofnfu4egu_img_covid_bd85e646fdeb.png)
 
 As we enter the third year of the pandemic, it is becoming increasingly apparent that aggregate economic performance will, once again, be largely dependent on the evolution of Covid-19. Economic performance doesn’t just boil down to GDP. Employment metrics are equally important, as is inflation, a key determinant of financial market activity, especially now that QE is truly taking a back seat for the first time in twelve years.
 
@@ -54,10 +54,10 @@ In finance, parabolic risk is dealt with unfettered money printing. In real life
 
 Thus, we intend to consider Omicron, and any other deviation from the path towards normality (whatever the ‘new normal’ looks like) as reason for caution, because it breeds further uncertainty for government and business decision-makers.
 
-![Unsplash Image T4cixluavie](assets/2022-01-10_935dp1ga04w23r3nszondofnfu4egu_img_unsplash-image-t4cixluavie_05be066e3b11.jpg)
+![Unsplash Image T4cixluavie](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-01-10_935dp1ga04w23r3nszondofnfu4egu_img_unsplash-image-t4cixluavie_05be066e3b11.jpg)
 
 > **Figure 3: Unsplash Image T4cixluavie**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-01-10_935dp1ga04w23r3nszondofnfu4egu_img_unsplash-image-t4cixluavie_05be066e3b11.jpg)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-01-10_935dp1ga04w23r3nszondofnfu4egu_img_unsplash-image-t4cixluavie_05be066e3b11.jpg)
 
 If questions like ‘when is the pandemic going to end’ are unanswerable, we need to ask different questions: Will global policymakers work together to bring a swifter end to the pandemic? Will that even make a difference? Will companies switch business and logistics models to account for a ‘forever virus’ strategy? Is there a breakpoint for this to happen? These are the questions we should focus on for the next few months.
 
@@ -77,13 +77,13 @@ In hindsight it will all make sense, it usually does. But from where we are toda
 
 In a post-QE world, where ‘beta’ strategies will be less important and ‘alpha’ strategies have low conviction, it’s a good idea to stick to ‘first principles’. Trust long-term assumptions and strategic asset allocation as a main driver of portfolio performance. Portfolio weights, such as our fixed income and duration underweight, should reflect only high conviction.
 
-![Unsplash Image Tujud0awapi](assets/2022-01-10_935dp1ga04w23r3nszondofnfu4egu_img_unsplash-image-tujud0awapi_103ffc133ca9.jpg)
+![Unsplash Image Tujud0awapi](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-01-10_935dp1ga04w23r3nszondofnfu4egu_img_unsplash-image-tujud0awapi_103ffc133ca9.jpg)
 
 > **Figure 4: Unsplash Image Tujud0awapi**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-01-10_935dp1ga04w23r3nszondofnfu4egu_img_unsplash-image-tujud0awapi_103ffc133ca9.jpg)![Co2](assets/2022-01-10_935dp1ga04w23r3nszondofnfu4egu_img_co2_8010860a4235.jpg)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-01-10_935dp1ga04w23r3nszondofnfu4egu_img_unsplash-image-tujud0awapi_103ffc133ca9.jpg)![Co2](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-01-10_935dp1ga04w23r3nszondofnfu4egu_img_co2_8010860a4235.jpg)
 
 > **Figure 5: Co2**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-01-10_935dp1ga04w23r3nszondofnfu4egu_img_co2_8010860a4235.jpg)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-01-10_935dp1ga04w23r3nszondofnfu4egu_img_co2_8010860a4235.jpg)
 
 The key takeaway from our predicament should be a sobering one: Humanity’s innate anthropocentrism* and technological prowess must not lead to the false conclusion that nature has been, or may yet be, conquered. A simple virus can upset civilisation as we know it.
 

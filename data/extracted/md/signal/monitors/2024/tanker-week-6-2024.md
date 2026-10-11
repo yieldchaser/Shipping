@@ -32,7 +32,7 @@ tags:
 ![65c603af2e133638a928e3b9 Chart of the Week Tanker (1)](../../images/65c603af2e133638a928e3b9_chart of the week tanker (1).png)
 
 > **Figure 1: 65c603af2e133638a928e3b9 Chart of the Week Tanker (1)**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/tanker-week-6-2024) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/65c603af2e133638a928e3b9_chart of the week tanker (1).png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/tanker-week-6-2024) | [Local Asset](../../../../../../corpus/07-signal/images/65c603af2e133638a928e3b9_chart%20of%20the%20week%20tanker%20(1).png)
 
 In the second week of February, the sentiment surrounding crude oil freight rates remained unstable. VLCC MEG-China rates showed signs of gathering strength, indicating a firmer momentum. Conversely, in the clean segment, LR2 MEG-Japan rates displayed initial indications of a downward correction. Nevertheless, LR2 (75kdwt) TCE earnings for the Middle East Gulf to Japan continued to achieve notable highs compared to the lows witnessed at the beginning of the year. This is attributed to a robust evolution in demand tonne days, with earnings more than doubling to exceed $70k/day.
 

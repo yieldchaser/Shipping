@@ -32,8 +32,8 @@ While there are new residual fuels being developed that will meet the sulfur spe
 
 ![Exhibit 1: An Issue of Sulf-Deprecation](../../../charts/poten/2014/poten_2014-08-01_an-issue-of-sulf-deprecation_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2014/poten_2014-08-01_an-issue-of-sulf-deprecation_chart1.png)
+> **Interactive Asset:** [Local Asset (200 DPI PNG)](../../../charts/poten/2014/poten_2014-08-01_an-issue-of-sulf-deprecation_chart1.png)
 
 ![Exhibit 2: An Issue of Sulf-Deprecation](../../../charts/poten/2014/poten_2014-08-01_an-issue-of-sulf-deprecation_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2014/poten_2014-08-01_an-issue-of-sulf-deprecation_chart2.png)
+> **Interactive Asset:** [Local Asset (200 DPI PNG)](../../../charts/poten/2014/poten_2014-08-01_an-issue-of-sulf-deprecation_chart2.png)

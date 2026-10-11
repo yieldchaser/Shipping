@@ -33,10 +33,10 @@ In the grain segment, the pace of Ukrainian shipments is picking up, as six more
 
 ‘The Big Picture’ - Capesize and Panamax Bulkers and Smaller Ship Sizes
 
-![241](assets/2022-08-10_signal-dry-bulk-weekly-report_img_241_4244b984ee38.png)
+![241](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-08-10_signal-dry-bulk-weekly-report_img_241_4244b984ee38.png)
 
 > **Figure 1: 241**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-08-10_signal-dry-bulk-weekly-report_img_241_4244b984ee38.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-08-10_signal-dry-bulk-weekly-report_img_241_4244b984ee38.png)
 
 Weaker freight rate sentiment persisted across all ship size categories in the second week of August.
 
@@ -51,10 +51,10 @@ Weaker freight rate sentiment persisted across all ship size categories in the s
 
 Supply Trend Lines for Key Load Areas
 
-![242](assets/2022-08-10_signal-dry-bulk-weekly-report_img_242_7ca4295e0037.png)
+![242](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-08-10_signal-dry-bulk-weekly-report_img_242_7ca4295e0037.png)
 
 > **Figure 2: 242**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-08-10_signal-dry-bulk-weekly-report_img_242_7ca4295e0037.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-08-10_signal-dry-bulk-weekly-report_img_242_7ca4295e0037.png)
 
 The number of Capesize vessels sailing ballast continued to increase significantly in August, while the number of Handysize and Supramax vessels increased at a similar rate. Panamax appears to be the only size class in which the number of ships sailing in ballast approaches the annual average.
 
@@ -67,10 +67,10 @@ The number of Capesize vessels sailing ballast continued to increase significant
 
 ### Decreasing
 
-![243](assets/2022-08-10_signal-dry-bulk-weekly-report_img_243_471a232cfc63.png)
+![243](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-08-10_signal-dry-bulk-weekly-report_img_243_471a232cfc63.png)
 
 > **Figure 3: 243**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-08-10_signal-dry-bulk-weekly-report_img_243_471a232cfc63.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-08-10_signal-dry-bulk-weekly-report_img_243_471a232cfc63.png)
 
 The downward trend in the Capesize segment continued in the second week of August, while Panamax and Supramax have been trending upward since late July.
 
@@ -85,10 +85,10 @@ The downward trend in the Capesize segment continued in the second week of Augus
 
 ### Dry Bulk Ships Congested at Chinese Ports
 
-![244](assets/2022-08-10_signal-dry-bulk-weekly-report_img_244_b408357fbede.png)
+![244](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-08-10_signal-dry-bulk-weekly-report_img_244_b408357fbede.png)
 
 > **Figure 4: 244**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-08-10_signal-dry-bulk-weekly-report_img_244_b408357fbede.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-08-10_signal-dry-bulk-weekly-report_img_244_b408357fbede.png)
 
 The number of congested vessels continued the upward trend of the previous week, with Supramax and Handysize vessels showing significantly higher congestion levels than other vessel categories.
 

@@ -35,7 +35,7 @@ Is this the end of the world, as we know it? We will probably be spared such dra
 ![A1](assets/2021-08-04_china-mixed-news-and-more-stimulus_img_a1_fcc066a0b0a1.png)
 
 > **Figure 1: A1**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2021/assets/2021-08-04_china-mixed-news-and-more-stimulus_img_a1_fcc066a0b0a1.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-08-04_china-mixed-news-and-more-stimulus_img_a1_fcc066a0b0a1.png)
 
 There is also a degree of contradiction in the ambition to control steel production and a desire to stimulate and support the domestic economy. If there is another round of fiscal and monetary stimulus coming, it could maintain robust manufacturing and construction activities and feed the steel demand. This is also where the rumoured export tariffs may fit in, by keeping the output within the country. Such a development would also see steel production rising in other parts of the world to cater for increasing demand as the economic recovery gathers momentum.
 
@@ -44,7 +44,7 @@ The volumes of iron ore discharged in non-Chinese ports suffered during last yea
 ![A2](assets/2021-08-04_china-mixed-news-and-more-stimulus_img_a2_c0e82764cc7a.png)
 
 > **Figure 2: A2**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2021/assets/2021-08-04_china-mixed-news-and-more-stimulus_img_a2_c0e82764cc7a.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-08-04_china-mixed-news-and-more-stimulus_img_a2_c0e82764cc7a.png)
 
 ---
 

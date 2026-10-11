@@ -34,10 +34,18 @@ The other question is, what will be the reaction of Mexico to U.S. tariffs?. Cur
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: Trumps Tariffs Threat](../../../charts/poten/2019/poten_2019-05-31_trumps-tariffs-threat_chart1.png)
+![Exhibit 1: Mexican Crude Oil Exports](../../../charts/poten/2019/poten_2019-05-31_trumps-tariffs-threat_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2019/poten_2019-05-31_trumps-tariffs-threat_chart1.png)
+> **Exhibit 1: Mexican Crude Oil Exports**  
+> Unit: Kb/d · X-axis: Jan-15 to Apr-19  
+> Series: USG/USAC, USWC, Asia/Australia, UKC/Baltic, Mediterranean, Other  
+> *Source: Lloyd’s List Intelligence*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2019/poten_2019-05-31_trumps-tariffs-threat_chart1.png)
 
-![Exhibit 2: Trumps Tariffs Threat](../../../charts/poten/2019/poten_2019-05-31_trumps-tariffs-threat_chart2.png)
+![Exhibit 2: Mexican Crude Oil Imports By Company (Feb/Mar 2019)](../../../charts/poten/2019/poten_2019-05-31_trumps-tariffs-threat_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2019/poten_2019-05-31_trumps-tariffs-threat_chart2.png)
+> **Exhibit 2: Mexican Crude Oil Imports By Company (Feb/Mar 2019)**  
+> Unit: Kb/d · X-axis: Valero to Other  
+> Series: Kb/d  
+> *Source: EIA*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2019/poten_2019-05-31_trumps-tariffs-threat_chart2.png)

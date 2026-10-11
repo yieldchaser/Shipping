@@ -36,10 +36,10 @@ With this as the backdrop, the dry bulk market enters the summer season not in a
 
 As the industry gathers this week, the contrast between then and now lies not in spot levels alone, but in the sense of momentum – or the lack thereof. June 2025 may be technically better than June 2023, but the excitement and conviction that came with the second half of a couple of years ago have yet to reappear. The market is in a holding pattern, shaped more by what might come than by what is currently unfolding. In that sense, this year’s dinner takes place in an atmosphere of cautious realism, with eyes on the horizon and minds on the long game.
 
-![Στιγμιότυπο Οθόνης 2025 07 07 102526](assets/2025-07-07_he-market-feels-stable_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_72eae4e85a3a.png)
+![Στιγμιότυπο Οθόνης 2025 07 07 102526](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-07-07_he-market-feels-stable_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_72eae4e85a3a.png)
 
 > **Figure 1: Στιγμιότυπο Οθόνης 2025 07 07 102526**  
-> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-07-07_he-market-feels-stable_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_72eae4e85a3a.png)
+> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-07-07_he-market-feels-stable_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_72eae4e85a3a.png)
 
 Data source:[Doric](https://www.doric.gr/)
 

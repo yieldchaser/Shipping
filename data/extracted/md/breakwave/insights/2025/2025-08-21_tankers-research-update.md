@@ -26,10 +26,10 @@ source_file: "corpus/03-breakwave/insights/2025/2025-08-21_tankers-research-upda
 
 • West African gasoline imports from Europe averaged just 270k b/d this year as of August 18, down from 260k b/d in 2024, according to Vortexa. Dangote has increased its crude intake — now above 500k b/d — as the refinery steadily brings units online. Nigeria, which previously accounted for one in five European gasoline barrels last year, now accounts for just one in ten.
 
-![Bfe8 Image 0 1755745751951](assets/2025-08-21_tankers-research-update_img_bfe8-image-0-1755745751951_14cf2a2999a4.png)
+![Bfe8 Image 0 1755745751951](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-08-21_tankers-research-update_img_bfe8-image-0-1755745751951_14cf2a2999a4.png)
 
 > **Figure 1: Bfe8 Image 0 1755745751951**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-08-21_tankers-research-update_img_bfe8-image-0-1755745751951_14cf2a2999a4.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-08-21_tankers-research-update_img_bfe8-image-0-1755745751951_14cf2a2999a4.png)
 
 • The decline in European barrels heading to West Africa — historically a core employment route for MRs and LR1s — is leaving more gasoline trapped in Europe. Inventories in Rotterdam independent storage have climbed by over 25% year on year in 2025. While refiners have adjusted their yields to favour diesel amid stronger diesel crack margins, European gasoline cracks have still averaged just $9/bl this year, a third below 2024 levels.
 

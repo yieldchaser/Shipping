@@ -28,10 +28,10 @@ tags:
 ## This Week, the US and Brazilian Grain Sectors Are in the Spotlight, Particularly Brazil's Strong Position in Soybean Production and Exports to China. Almost 90% of the Panamax Shipping Market Is Concentrated on the Brazil-China Trade Route. the Supramax Vessel Segment, on the Other Hand, Appears to Be More Involved in the US Grain Sector, Where 24% of the Trade Volume Is Handled, Compared to Only 10% for the Brazil-China Route.
 
 
-![67236ca78cde41abe284eca0 67236c736f029c2f560569c8 Dry%20bulk%20grain](../../images/67236ca78cde41abe284eca0_67236c736f029c2f560569c8_dry%20bulk%20grain.avif)
+![67236ca78cde41abe284eca0 67236c736f029c2f560569c8 Dry%20bulk%20grain](../../images/67236ca78cde41abe284eca0_67236c736f029c2f560569c8_dry%2520bulk%2520grain.avif)
 
 > **Figure 1: 67236ca78cde41abe284eca0 67236c736f029c2f560569c8 Dry%20bulk%20grain**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/dry-week-44-2024) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/67236ca78cde41abe284eca0_67236c736f029c2f560569c8_dry%20bulk%20grain.avif)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/dry-week-44-2024) | [Local Asset](../../../../../../corpus/07-signal/images/67236ca78cde41abe284eca0_67236c736f029c2f560569c8_dry%2520bulk%2520grain.avif)
 
 Brazil has increasingly solidified its dominant role in global grain production, particularly in soybeans, positioning itself as a key supplier to China—the world’s largest importer of soybeans. Over the past decade, Brazil’s agricultural sector has expanded rapidly, supported by ample arable land, favourable weather conditions, and significant investment in agricultural technology. This growth has enabled Brazil to surpass the United States in soybean production, with a production volume that consistently meets and often exceeds China’s high demand.
 

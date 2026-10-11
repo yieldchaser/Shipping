@@ -32,10 +32,18 @@ The overall outlook for supply growth is relatively bullish. Ordering has subsid
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: The Road To Recovery](../../../charts/poten/2019/poten_2019-08-02_the-road-to-recovery_chart1.png)
+![Exhibit 1: Tanker Fleet Ordering History vs TCE](../../../charts/poten/2019/poten_2019-08-02_the-road-to-recovery_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2019/poten_2019-08-02_the-road-to-recovery_chart1.png)
+> **Exhibit 1: Tanker Fleet Ordering History vs TCE**  
+> Unit: M Dwt | TCE · X-axis: 2002 to 2019  
+> Series: VLCC, Suezmax, Aframax, Panamax, MR, Handy, VLCC AG-FE TCE  
+> *Source: Poten & Partners*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2019/poten_2019-08-02_the-road-to-recovery_chart1.png)
 
-![Exhibit 2: The Road To Recovery](../../../charts/poten/2019/poten_2019-08-02_the-road-to-recovery_chart2.png)
+![Exhibit 2: Tanker Fleet Removal History](../../../charts/poten/2019/poten_2019-08-02_the-road-to-recovery_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2019/poten_2019-08-02_the-road-to-recovery_chart2.png)
+> **Exhibit 2: Tanker Fleet Removal History**  
+> Unit: M Dwt · X-axis: 2002 to 2019  
+> Series: VLCC, Suezmax, Aframax, Panamax, MR, Handy  
+> *Source: Poten & Partners*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2019/poten_2019-08-02_the-road-to-recovery_chart2.png)

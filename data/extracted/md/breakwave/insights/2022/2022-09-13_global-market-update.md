@@ -53,9 +53,9 @@ Wheat prices rose to the highest levels since early July last week following the
 
 Despite the rising risk of disruptions, the cargo order volumes for agricultural commodities loading in Ukrainian ports have remained stable in recent weeks, following the rebound that began in late July. However, the average cargo size remains low, suggesting that it will take considerable time to shift Ukraine’s substantial inventories, potentially putting the flow at risk from future disruptions.
 
-![Market Chart 1](assets/2022-09-13_global-market-update_img_unnamed287029_4e7cb78e09e2.png)
+![Market Chart 1](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-09-13_global-market-update_img_unnamed287029_4e7cb78e09e2.png)
 
 > **Figure 1: Market Chart 1**  
-> **Interactive Data & Source:** [Shipfix](https://shipfix.com/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-09-13_global-market-update_img_unnamed287029_4e7cb78e09e2.png)
+> **Interactive Data & Source:** [Shipfix](https://shipfix.com/) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-09-13_global-market-update_img_unnamed287029_4e7cb78e09e2.png)
 
 Data Source:[Shipfix](https://shipfix.com/)

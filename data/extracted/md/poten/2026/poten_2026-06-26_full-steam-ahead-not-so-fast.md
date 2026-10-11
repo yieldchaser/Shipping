@@ -30,10 +30,17 @@ This begs the question: Will the situation ever get back to "normal"?
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: Full Steam Ahead   Not So Fast](../../../charts/poten/2026/poten_2026-06-26_full-steam-ahead-not-so-fast_chart1.png)
+![Exhibit 1: Daily Oil Cargoes Transiting the Strait of Hormuz in 2026](../../../charts/poten/2026/poten_2026-06-26_full-steam-ahead-not-so-fast_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2026/poten_2026-06-26_full-steam-ahead-not-so-fast_chart1.png)
+> **Exhibit 1: Daily Oil Cargoes Transiting the Strait of Hormuz in 2026**  
+> Unit: Cargo Count · X-axis: 1-Jan-26 to 25-Jun-26  
+> Series: Crude/Condensates, Dirty Petroleum Products, Clean Petroleum Products  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2026/poten_2026-06-26_full-steam-ahead-not-so-fast_chart1.png)
 
-![Exhibit 2: Full Steam Ahead   Not So Fast](../../../charts/poten/2026/poten_2026-06-26_full-steam-ahead-not-so-fast_chart2.png)
+![Exhibit 2: Crude Oil Prices (Settlement Price)](../../../charts/poten/2026/poten_2026-06-26_full-steam-ahead-not-so-fast_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2026/poten_2026-06-26_full-steam-ahead-not-so-fast_chart2.png)
+> **Exhibit 2: Crude Oil Prices (Settlement Price)**  
+> Unit: $/bbl · X-axis: 1-Jan-26 to 25-Jun-26  
+> Series: Brent, Dubai  
+> *Source: Vortexa, CME*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2026/poten_2026-06-26_full-steam-ahead-not-so-fast_chart2.png)

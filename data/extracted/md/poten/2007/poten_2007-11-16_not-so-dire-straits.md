@@ -86,6 +86,14 @@ CAR - USG BSEA - MED X MED As would be expected, the trend for Black Sea rates c
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: Not So Dire Straits](../../../charts/poten/2007/poten_2007-11-16_not-so-dire-straits_chart1.png)
+> **Chart on PDF page 1: Turkish Strait Delays**  
+> Unit: Number of Days · X-axis: Jan-05 to Nov-07  
+> Series: Northbound, Southbound  
+> *Source: Poten & Partners*  
+> *No image crop of this chart was saved; caption read from the PDF.*
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2007/poten_2007-11-16_not-so-dire-straits_chart1.png)
+> **Chart on PDF page 2: Spot Market Rates - Aframaxes**  
+> Unit: TCE ($/day) · X-axis: Jul-07 to Nov-07  
+> Series: CAR - USG, BSEA - MED, X MED  
+> *Source: Poten & Partners*  
+> *No image crop of this chart was saved; caption read from the PDF.*

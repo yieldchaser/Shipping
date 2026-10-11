@@ -80,6 +80,8 @@ As demand for MDO stays firm and the supplies get increasingly scarce, the relat
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: Bottom of the Barrel](../../../charts/poten/2006/poten_2006-09-01_bottom-of-the-barrel_chart1.png)
-
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2006/poten_2006-09-01_bottom-of-the-barrel_chart1.png)
+> **Chart on PDF page 2: Untitled chart**  
+> Unit: $/MT | % · X-axis: 2001 to 2006  
+> Series: NYMEX Cash Crude Price, Price Strength - MDO:Crude, Price Strength - IFO:Crude  
+> *Source: Poten & Partners*  
+> *No image crop of this chart was saved; caption read from the PDF.*

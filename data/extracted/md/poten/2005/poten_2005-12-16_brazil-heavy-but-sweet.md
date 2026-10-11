@@ -48,6 +48,20 @@ We see significant growing Petrobras presence in the dirty spot fixture market f
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: Brazil- Heavy, but Sweet](../../../charts/poten/2005/poten_2005-12-16_brazil-heavy-but-sweet_chart1.png)
+> **Chart on PDF page 1: Brazil Oil Consumption, Production & Reserves**  
+> Unit: 000 Bpd | Billion Bbls · X-axis: 1981 to 2002  
+> Series: Consumption, Production, Oil Reserves  
+> *Source: BP Statistics/Poten*  
+> *No image crop of this chart was saved; caption read from the PDF.*
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2005/poten_2005-12-16_brazil-heavy-but-sweet_chart1.png)
+> **Chart on PDF page 3: Petrobras Dirty Spot Fixtures by Load Area**  
+> Unit: # Fixtures · X-axis: 1995 to 2005  
+> Series: Other, Med, AG, Carib, W. Africa, Brazil  
+> *Source: Poten & Partners*  
+> *No image crop of this chart was saved; caption read from the PDF.*
+
+> **Chart on PDF page 4: Petrobras Clean Spot Fixtures by Load Area**  
+> Unit: # Fixtures · X-axis: 1995 to 2005  
+> Series: Other, U.S., Med, AG, Carib, Brazil  
+> *Source: Poten & Partners*  
+> *No image crop of this chart was saved; caption read from the PDF.*

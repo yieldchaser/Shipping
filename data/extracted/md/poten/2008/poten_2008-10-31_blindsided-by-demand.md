@@ -94,6 +94,14 @@ Jan Feb Mar Apr May Jun Jul Aug Sep Oct Nov Dec Even in times of more vibrant ec
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: Blindsided by Demand](../../../charts/poten/2008/poten_2008-10-31_blindsided-by-demand_chart1.png)
+> **Chart on PDF page 2: US Gasoline Demand vs. Gasoline Imports**  
+> Unit: 1,000 bbls/day | 1,000 bbls/day · X-axis: 7-Jan-06 to 7-Sep-08  
+> Series: Gasoline Imports, Gasoline Supplied to Market (Demand)  
+> *Source: EIA/Poten*  
+> *No image crop of this chart was saved; caption read from the PDF.*
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2008/poten_2008-10-31_blindsided-by-demand_chart1.png)
+> **Chart on PDF page 3: UK Continent to US Atlantic Coast 37 kt Clean Cargo Time Charter Equivalent (TCE)**  
+> Unit: TCE, 1,000 $/day · X-axis: Jan to Dec  
+> Series: Monthly Ave TCE, 2008, Weekly Average TCE Oct 2008, Max-Min Monthly Average TCE Range from 2000 to 2008, 2007  
+> *Source: Poten*  
+> *No image crop of this chart was saved; caption read from the PDF.*

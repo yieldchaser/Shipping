@@ -53,10 +53,10 @@ French farmers were bringing parts of central Paris to a standstill yesterday as
 
 However, the recent surge is likely to be temporary, as the world is expected to have a surplus of the commodity during the coming year amid projections of a Brazilian record crop. Aggregate global cargo orders rebounded in January ahead of the Brazilian harvest, surpassing the global volumes recorded during the same month in recent years. February has also seen a strong start to activities, with average cargo sizes for Brazil continuing to recover. However, it looks like Indian exports will fall short of what was recorded a year ago amid low yields and more sugar canes being diverted to ethanol production.
 
-![Market Chart 1](assets/2023-02-09_shipfix-global-market-update_img_unnamed-2023-02-09t153835603_43aea0da8a88.png)
+![Market Chart 1](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-02-09_shipfix-global-market-update_img_unnamed-2023-02-09t153835603_43aea0da8a88.png)
 
 > **Figure 1: Market Chart 1**  
-> **Interactive Data & Source:** [Shipfix](https://shipfix.com/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-02-09_shipfix-global-market-update_img_unnamed-2023-02-09t153835603_43aea0da8a88.png)
+> **Interactive Data & Source:** [Shipfix](https://shipfix.com/) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-02-09_shipfix-global-market-update_img_unnamed-2023-02-09t153835603_43aea0da8a88.png)
 
 A thaw in diplomatic relations between China and Australia and an increasing focus on economic growth in the world’s second-largest economy has resulted in an easing of the previous restrictions on imports of Australian coal.
 

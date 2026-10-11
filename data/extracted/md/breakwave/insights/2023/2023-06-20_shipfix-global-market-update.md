@@ -55,9 +55,9 @@ Despite gaining around 25 per cent month-to-date, European coal prices remain ne
 
 Last year’s introduction of European sanctions on Russian coal exports forced the continent’s buyers to find alternative sources of the commodity. The development saw cargo order volumes for Colombian coal bound for Europe increasing during the second half of last year. However, recent months have seen the volumes returning to more normal levels. As a result of the lower demand from European buyers, more of the Colombian coal has found its way to the distant shores in the Far East. Cargo order volumes for the Far East and China have offset some of the decline in European demand. The increase in demand for shipments of Colombian coal to the Far East has primarily benefited the Panamaxes and the Capesizes.
 
-![Market Chart 1](assets/2023-06-20_shipfix-global-market-update_img_unnamed-2023-06-20t124724704_72d6afc354ae.png)
+![Market Chart 1](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-06-20_shipfix-global-market-update_img_unnamed-2023-06-20t124724704_72d6afc354ae.png)
 
 > **Figure 1: Market Chart 1**  
-> **Interactive Data & Source:** [Shipfix](https://shipfix.com/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-06-20_shipfix-global-market-update_img_unnamed-2023-06-20t124724704_72d6afc354ae.png)
+> **Interactive Data & Source:** [Shipfix](https://shipfix.com/) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-06-20_shipfix-global-market-update_img_unnamed-2023-06-20t124724704_72d6afc354ae.png)
 
 Data Source:[Shipfix](https://shipfix.com/)

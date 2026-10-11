@@ -43,33 +43,33 @@ There are three sources which could make inflation ‘sticky’.
 
 One is the consumer, who could begin to shift long-term expectations. With 360% global debt/GDP rates can only go up so much before they disrupt the global financial system. If long term inflation expectations become higher than rates, then it’s a matter of time before consumers begin to borrow at lower rates, expecting inflation to reduce that debt. This was the playbook of the ’70s. However, we must remember that it took a decade of rising prices for that mindset to take hold. We are nowhere near there. Global consumers have been very careful post the pandemic. US consumers who had been more buoyant have started to cut down,
 
-![Market Chart 1](assets/2023-01-24_weekly-mazars-comment-expert-sinologists-needed_img_image00528529_36275286efe0.jpg)
+![Market Chart 1](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-01-24_weekly-mazars-comment-expert-sinologists-needed_img_image00528529_36275286efe0.jpg)
 
 > **Figure 1: Market Chart 1**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-01-24_weekly-mazars-comment-expert-sinologists-needed_img_image00528529_36275286efe0.jpg)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-01-24_weekly-mazars-comment-expert-sinologists-needed_img_image00528529_36275286efe0.jpg)
 
 …after maxing out credit cards causing delinquencies to spike.
 
-![Market Chart 2](assets/2023-01-24_weekly-mazars-comment-expert-sinologists-needed_img_image00628629_d467ca0d1a65.jpg)
+![Market Chart 2](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-01-24_weekly-mazars-comment-expert-sinologists-needed_img_image00628629_d467ca0d1a65.jpg)
 
 > **Figure 2: Market Chart 2**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-01-24_weekly-mazars-comment-expert-sinologists-needed_img_image00628629_d467ca0d1a65.jpg)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-01-24_weekly-mazars-comment-expert-sinologists-needed_img_image00628629_d467ca0d1a65.jpg)
 
 So consumers are not currently a huge concern.
 
 The second source of sticky inflation is the services sector. Services companies are slower to see increased input prices, but raise salaries as fast as anyone else (consumers are affected at the same time, regardless of where they work). This makes the sector slower at reducing prices.
 
-![Market Chart 3](assets/2023-01-24_weekly-mazars-comment-expert-sinologists-needed_img_image00728229_251fa9d65d14.jpg)
+![Market Chart 3](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-01-24_weekly-mazars-comment-expert-sinologists-needed_img_image00728229_251fa9d65d14.jpg)
 
 > **Figure 3: Market Chart 3**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-01-24_weekly-mazars-comment-expert-sinologists-needed_img_image00728229_251fa9d65d14.jpg)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-01-24_weekly-mazars-comment-expert-sinologists-needed_img_image00728229_251fa9d65d14.jpg)
 
 The services sector continuing to hike prices is a concern, but the wider consensus is that the economic slowdown will eventually cap prices at reasonable levels. The whole objective of front-loading rate hikes was exactly to put quick pressures on the services sector (70% of the economy), to prevent wage hike spirals and steep competition for talent (in other words also pricing power to labour).
 
-![Market Chart 4](assets/2023-01-24_weekly-mazars-comment-expert-sinologists-needed_img_image00828229_c3541404a49c.jpg)
+![Market Chart 4](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-01-24_weekly-mazars-comment-expert-sinologists-needed_img_image00828229_c3541404a49c.jpg)
 
 > **Figure 4: Market Chart 4**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-01-24_weekly-mazars-comment-expert-sinologists-needed_img_image00828229_c3541404a49c.jpg)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-01-24_weekly-mazars-comment-expert-sinologists-needed_img_image00828229_c3541404a49c.jpg)
 
 The third potential source of sticky inflation is also the biggest unknown. China. Until a few weeks ago China’s zero-Covid policy dented global growth and caused problems in global supply chains. After the Plenum and demonstration following the World Cup, third-time President Xi performed a U-turn and abruptly ‘opened’ China to the world. On the one hand, as the[IMF](assets/2023-01-24_weekly-mazars-comment-expert-sinologists-needed_global-economic-outlook-may-be-less-_7881025fc971.html)predicted, this should increase growth. On the other, however, it could boost inflation, just as it was coming down. The outcome is very difficult to calculate.
 

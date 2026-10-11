@@ -23,26 +23,26 @@ BRS Group had recently released its Annual Review 2022 edition which present an 
 
 For more information, please visit following link[Brsbrokers](https://www.brsbrokers.com/annualreview2022.html). Meantime, we will take a brief but comprehensive look at the various drybulk size segments’ supply fundamentals. Recent events had shrouded various demand forecasts (be it global gdp growth %, manufacturing/purchasing indices, commodity volumes) with massive uncertainty, coupled with freight rates showing signs of a downward reversal, it is understandable that shipowners are getting a tad jittery. In these times, we must remind ourselves that while demand forecasts can be subjected to whimsical changes of external factors, supply forecast for drybulk fleet are more rooted in cold hard figures from shipyards that offer better clarity on long-term freight prospects and pay less heed to short-term volatility that is beyond the control of individual players.
 
-![Screenshot 20220421 111130 Word](assets/2022-04-21_brs-group-annual-review-2022_img_screenshot-20220421-111130-word_116ee78b5c49.jpg)
+![Screenshot 20220421 111130 Word](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-04-21_brs-group-annual-review-2022_img_screenshot-20220421-111130-word_116ee78b5c49.jpg)
 
 > **Figure 1: Screenshot 20220421 111130 Word**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-04-21_brs-group-annual-review-2022_img_screenshot-20220421-111130-word_116ee78b5c49.jpg)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-04-21_brs-group-annual-review-2022_img_screenshot-20220421-111130-word_116ee78b5c49.jpg)
 
 Since 2007’s massive new orders of 495 Capesize ships which are subsequently delivered over the lean years of 2010-2015, the oversupplied market crashed the Capesize freight rates. Against this backdrop, we witnessed an active approach towards shedding tonnage from 2011-2020.
 
 While Capesize freight experienced a rejuvenation in 2021, only 110 fresh orders were made that year, a far cry from 2007’s 495 & 2008’s 275 numbers. As of early Apr-22, fresh orders for this year thus far stands at 8, a reflection of shipyard slots being fully booked till 2024/25. These 2 facts alone, meant unless we experienced yet another black swan that decimated iron ore & coal demand like 2020, Capesize freight levels should not suffered a drastic y.o.y drop. Looking at Capeize fleet projections (in dwt), the annualized fleet supply growth from 2022-2024 is at a modest 2.17% . By end 2024, it is projected that vessels of 15 years and above will constitute 16.7% of existing fleet (in count).
 
-![Screenshot 20220421 111146 Word](assets/2022-04-21_brs-group-annual-review-2022_img_screenshot-20220421-111146-word_39d6f6487423.jpg)
+![Screenshot 20220421 111146 Word](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-04-21_brs-group-annual-review-2022_img_screenshot-20220421-111146-word_39d6f6487423.jpg)
 
 > **Figure 2: Screenshot 20220421 111146 Word**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-04-21_brs-group-annual-review-2022_img_screenshot-20220421-111146-word_39d6f6487423.jpg)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-04-21_brs-group-annual-review-2022_img_screenshot-20220421-111146-word_39d6f6487423.jpg)
 
 In 2016, we witnessed deletions count exceeding deliveries count for the Panamax fleet following the implosion of rates in 2015/2016. That said, taking a step back, from 2010-2020, the annual deletions count been relatively lackluster as compared to other sizes, especially towards the tail end of the period (less than 10 deletions since 2018). This is attributed to grains (from Brazil and USA) now securing a more prominent role in Panamax’s employment in recent years. Hence, it would also explain why we witnessed a sudden spike in fresh order in 2021 at 171. Looking at Panamax fleet projections (in dwt), the annualized fleet supply growth from 2022-2024 is at 2.74% clip among all vessel sizes. By end 2024, it is projected that vessels of 15 years and above will constitute 30.1% of existing fleet (in count).
 
-![Screenshot 20220421 111214 Word](assets/2022-04-21_brs-group-annual-review-2022_img_screenshot-20220421-111214-word_4bd93e7d45e6.jpg)
+![Screenshot 20220421 111214 Word](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-04-21_brs-group-annual-review-2022_img_screenshot-20220421-111214-word_4bd93e7d45e6.jpg)
 
 > **Figure 3: Screenshot 20220421 111214 Word**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-04-21_brs-group-annual-review-2022_img_screenshot-20220421-111214-word_4bd93e7d45e6.jpg)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-04-21_brs-group-annual-review-2022_img_screenshot-20220421-111214-word_4bd93e7d45e6.jpg)
 
 Looking at Supramax fleet projections (in dwt), the annualized fleet supply growth from 2022-2024 is at 2.13%. By end 2024, it is projected that vessels of 15 years and above will constitute 25.9% of existing fleet (in count).
 

@@ -30,10 +30,16 @@ It is uncertain whether President Putin can be pressured to come to the negotiat
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: More Pressure On Putin](../../../charts/poten/2025/poten_2025-09-12_more-pressure-on-putin_chart1.png)
+![Exhibit 1: Russian Crude Exports by Destination](../../../charts/poten/2025/poten_2025-09-12_more-pressure-on-putin_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2025/poten_2025-09-12_more-pressure-on-putin_chart1.png)
+> **Exhibit 1: Russian Crude Exports by Destination**  
+> Unit: Kb/d · X-axis: Jan-21 to Jul-25  
+> Series: China, India, Netherlands, Turkey, Italy, Finland, South Korea, Lithuania, Other  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2025/poten_2025-09-12_more-pressure-on-putin_chart1.png)
 
-![Exhibit 2: More Pressure On Putin](../../../charts/poten/2025/poten_2025-09-12_more-pressure-on-putin_chart2.png)
+![Exhibit 2: Russia Crude Oil Exports by Vessel Class](../../../charts/poten/2025/poten_2025-09-12_more-pressure-on-putin_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2025/poten_2025-09-12_more-pressure-on-putin_chart2.png)
+> **Exhibit 2: Russia Crude Oil Exports by Vessel Class**  
+> Unit: Kb/d · X-axis: Jan-21 to Jul-25  
+> Series: Aframax / LR2, Suezmax / LR3, VLCC, Other  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2025/poten_2025-09-12_more-pressure-on-putin_chart2.png)

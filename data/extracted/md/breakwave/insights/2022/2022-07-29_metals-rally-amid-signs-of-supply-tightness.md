@@ -23,10 +23,10 @@ source_file: "corpus/03-breakwave/insights/2022/2022-07-29_metals-rally-amid-sig
 
 Commodity markets shrugged off weak economic data, instead focusing on ongoing supply side issues. Metals led the complex higher, while oil gave back some of the recent gains. A slightly weaker USD also boosted investor appetite.
 
-![1659045952900](assets/2022-07-29_metals-rally-amid-signs-of-supply-tightness_img_1659045952900_4e85fdb73822.png)
+![1659045952900](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-07-29_metals-rally-amid-signs-of-supply-tightness_img_1659045952900_4e85fdb73822.png)
 
 > **Figure 1: 1659045952900**  
-> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-07-29_metals-rally-amid-signs-of-supply-tightness_img_1659045952900_4e85fdb73822.png)
+> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-07-29_metals-rally-amid-signs-of-supply-tightness_img_1659045952900_4e85fdb73822.png)
 
 **Aluminium**led the base metals sector higher amid signs of tightening supplies. Stockpiles at London Metal Exchange warehouses plunged to a 31 year low of 295,325t. This equates to approximately 1.5 days of consumption. This comes amid ongoing curbs on supply in Europe, where the energy-intensive smelting process has suffered rising costs. Norsk Hydro issued a fresh warning that rising energy costs could knock out another 1mt/y of capacity. CFO Pal Kildemo said more than a third of smelters globally are currently losing money, with the surge in power prices already curtailing 900kt/y of smelting capacity. Inventories of other metals such as nickel and zinc are also near record lows. A second consecutive quarter of economic contraction in the US was not enough to worry investors. Instead, the prospect of a slower pace of future rate hikes eased concerns of even weaker economic growth.
 

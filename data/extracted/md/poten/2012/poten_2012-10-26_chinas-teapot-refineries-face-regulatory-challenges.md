@@ -42,10 +42,24 @@ Less fuel oil, more crude oil flowing East Growing teapots would only add to ref
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: China's Teapot Refineries Face Regulatory Challenges](../../../charts/poten/2012/poten_2012-10-26_chinas-teapot-refineries-face-regulatory-challenges_chart1.png)
+![Exhibit 1: China Refinery Capacity and Utilization](../../../charts/poten/2012/poten_2012-10-26_chinas-teapot-refineries-face-regulatory-challenges_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2012/poten_2012-10-26_chinas-teapot-refineries-face-regulatory-challenges_chart1.png)
+> **Exhibit 1: China Refinery Capacity and Utilization**  
+> Unit: mbpd | % · X-axis: Jan-11 to Jul-12  
+> Series: China Refinery Capacity, Utilization  
+> *Source: Poten & Partners, Various*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2012/poten_2012-10-26_chinas-teapot-refineries-face-regulatory-challenges_chart1.png)
 
-![Exhibit 2: China's Teapot Refineries Face Regulatory Challenges](../../../charts/poten/2012/poten_2012-10-26_chinas-teapot-refineries-face-regulatory-challenges_chart2.png)
+![Exhibit 2: VLCC Caribs-East Fixtures](../../../charts/poten/2012/poten_2012-10-26_chinas-teapot-refineries-face-regulatory-challenges_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2012/poten_2012-10-26_chinas-teapot-refineries-face-regulatory-challenges_chart2.png)
+> **Exhibit 2: VLCC Caribs-East Fixtures**  
+> Unit: Number of Fixtures · X-axis: Jan-11 to Jul-12  
+> Series: Crude Oil, Fuel Oil  
+> *Source: Poten & Partners*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2012/poten_2012-10-26_chinas-teapot-refineries-face-regulatory-challenges_chart2.png)
+
+> **Chart on PDF page 2: Chinese Fuel Oil Trade Net Imports / (Exports)**  
+> Unit: kbpd · X-axis: Jan-08 to Jan-12  
+> Series: Exports, Imports, Net Imports  
+> *Source: Chinese Customs, Poten*  
+> *No image crop of this chart was saved; caption read from the PDF.*

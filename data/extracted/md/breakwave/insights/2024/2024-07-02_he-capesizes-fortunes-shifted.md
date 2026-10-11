@@ -60,10 +60,10 @@ As highlighted in “The Fix” last week, weekly cargo order volumes for steel 
 
 The increase in Chinese exports of cheap steel has resulted in substantial headwinds for the Indian steel industry. Cargo order volumes for steel loading in Indian ports have come under significant pressure in recent months. While the year started strongly, in line with standard seasonal patterns, the downward trend has been steeper than usual. Average weekly volumes during June dropped to around 275,000 tonnes, compared to 560,000 tonnes a year ago. The 50 per cent decline in cargo order volumes indicates that Indian steel exports will not recover in the short term, and the country’s steel mills may have to focus on the domestic market.
 
-![Στιγμιότυπο Οθόνης 2024 07 02 112152](assets/2024-07-02_he-capesizes-fortunes-shifted_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_6f3e0cb98285.png)
+![Στιγμιότυπο Οθόνης 2024 07 02 112152](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-07-02_he-capesizes-fortunes-shifted_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_6f3e0cb98285.png)
 
 > **Figure 1: Στιγμιότυπο Οθόνης 2024 07 02 112152**  
-> **Interactive Data & Source:** [Shipfix](https://shipfix.com/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-07-02_he-capesizes-fortunes-shifted_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_6f3e0cb98285.png)
+> **Interactive Data & Source:** [Shipfix](https://shipfix.com/) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-07-02_he-capesizes-fortunes-shifted_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_6f3e0cb98285.png)
 
 Data Source:[Shipfix](https://shipfix.com/)
 

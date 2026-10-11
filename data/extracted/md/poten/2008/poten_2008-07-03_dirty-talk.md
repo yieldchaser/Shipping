@@ -44,6 +44,8 @@ The October 2008 meeting of the MEPC may show what the future holds for marine f
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: Dirty Talk](../../../charts/poten/2008/poten_2008-07-03_dirty-talk_chart1.png)
-
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2008/poten_2008-07-03_dirty-talk_chart1.png)
+> **Chart on PDF page 3: Cost Ratio Price Strength to Crude Oil NW Europe 1.0%S FO/Brent & NW Europe Gasoil 10 ppm/Brent**  
+> Unit: % · X-axis: <u>May-07</u> to May-08  
+> Series: 1.0% Fuel Oil/Brent, Gasoil 10 ppm/Brent  
+> *Source: Platts*  
+> *No image crop of this chart was saved; caption read from the PDF.*

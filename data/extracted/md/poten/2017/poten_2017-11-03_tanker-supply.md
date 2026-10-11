@@ -36,10 +36,18 @@ In conclusion, the outlook for tanker supply growth in 2018 is more subdued rela
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: Tanker Supply](../../../charts/poten/2017/poten_2017-11-03_tanker-supply_chart1.png)
+![Exhibit 1: Scheduled Deliveries for Next Year 2016 vs 2017](../../../charts/poten/2017/poten_2017-11-03_tanker-supply_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2017/poten_2017-11-03_tanker-supply_chart1.png)
+> **Exhibit 1: Scheduled Deliveries for Next Year 2016 vs 2017**  
+> Unit: Vessels · X-axis: VLCC to Handy  
+> Series: 2017 Deliv. As of Oct 2016, 2018 Deliv. As of Oct 2017  
+> *Source: Poten & Partners*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2017/poten_2017-11-03_tanker-supply_chart1.png)
 
-![Exhibit 2: Tanker Supply](../../../charts/poten/2017/poten_2017-11-03_tanker-supply_chart2.png)
+![Exhibit 2: Orderbook as Percentage Of The Trading Fleet](../../../charts/poten/2017/poten_2017-11-03_tanker-supply_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2017/poten_2017-11-03_tanker-supply_chart2.png)
+> **Exhibit 2: Orderbook as Percentage Of The Trading Fleet**  
+> Unit: % · X-axis: VLCC to Handy  
+> Series: Orderbook Oct 2016, Orderbook Oct 2017  
+> *Source: Poten & Partners*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2017/poten_2017-11-03_tanker-supply_chart2.png)

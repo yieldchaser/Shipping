@@ -28,10 +28,10 @@ Upon closer examination, the lower soybean prices spurred a surge in Chinese imp
 
 In the long term, the introduction of potential tariffs from China could diminish the competitiveness of U.S. soybeans. Since 2013, Brazil, with its vast land resources, has steadily increased its productivity, catching up with U.S. yield levels. Additionally, significant investments in transportation infrastructure have enabled Brazilian exporters to access the Atlantic Ocean more efficiently. Historically, U.S. soybean producers faced higher production costs but benefitted from lower transportation costs compared to their Brazilian counterparts in key provinces like Mato Grosso and Goias. If this balance shifts, especially with the imposition of potential tariffs, Brazilian producers stand to gain a considerable advantage.
 
-![Στιγμιότυπο Οθόνης 2024 09 18 130214](assets/2024-09-18_wwh003pdfy7cdnp3lt9xbzmdu9cd9y_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_afec52bc5496.png)
+![Στιγμιότυπο Οθόνης 2024 09 18 130214](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-09-18_wwh003pdfy7cdnp3lt9xbzmdu9cd9y_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_afec52bc5496.png)
 
 > **Figure 1: Στιγμιότυπο Οθόνης 2024 09 18 130214**  
-> **Interactive Data & Source:** [Intermodal](https://www.intermodal.gr/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-09-18_wwh003pdfy7cdnp3lt9xbzmdu9cd9y_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_afec52bc5496.png)
+> **Interactive Data & Source:** [Intermodal](https://www.intermodal.gr/) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-09-18_wwh003pdfy7cdnp3lt9xbzmdu9cd9y_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_afec52bc5496.png)
 
 Data Source:[Intermodal](https://www.intermodal.gr/)
 

@@ -32,8 +32,12 @@ In the short-term, the uncertainty and loading inefficiencies have added a (smal
 
 ![Exhibit 1: A Line In The Sand](../../../charts/poten/2017/poten_2017-06-09_a-line-in-the-sand_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2017/poten_2017-06-09_a-line-in-the-sand_chart1.png)
+> **Interactive Asset:** [Local Asset (200 DPI PNG)](../../../charts/poten/2017/poten_2017-06-09_a-line-in-the-sand_chart1.png)
 
-![Exhibit 2: A Line In The Sand](../../../charts/poten/2017/poten_2017-06-09_a-line-in-the-sand_chart2.png)
+![Exhibit 2: Qatar Oil Exports by Destination](../../../charts/poten/2017/poten_2017-06-09_a-line-in-the-sand_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2017/poten_2017-06-09_a-line-in-the-sand_chart2.png)
+> **Exhibit 2: Qatar Oil Exports by Destination**  
+> Unit: Kb/d · X-axis: Jan-15 to Apr-17  
+> Series: Far East, SE Asia/Aus., South Asia, N. Europe, Other  
+> *Source: APEX*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2017/poten_2017-06-09_a-line-in-the-sand_chart2.png)

@@ -56,6 +56,26 @@ For the complete text of Larry's speech, please contact Ms. Saida Seddaoui at ss
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: Bottoms on Bottoms!](../../../charts/poten/2005/poten_2005-04-29_bottoms-on-bottoms_chart1.png)
+> **Chart on PDF page 1: Seaborne Russian Fuel Oil Exports**  
+> Unit: MM Tons · X-axis: 1998 to 2004  
+> Series: Black Sea, Baltic Sea  
+> *Source: Poten & Partners*  
+> *No image crop of this chart was saved; caption read from the PDF.*
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2005/poten_2005-04-29_bottoms-on-bottoms_chart1.png)
+> **Chart on PDF page 2: China's Annual Growth Real GDP**  
+> Unit: Percent · X-axis: 1998 to 2004  
+> Series: Real GDP Growth  
+> *Source: Poten & Partners*  
+> *No image crop of this chart was saved; caption read from the PDF.*
+
+> **Chart on PDF page 3: Fuel Oil Consumption in China**  
+> Unit: MM Tons · X-axis: 1998 to 2004  
+> Series: Imports, Domestic Supply  
+> *Source: Poten & Partners*  
+> *No image crop of this chart was saved; caption read from the PDF.*
+
+> **Chart on PDF page 3: Spot Fuel Oil Fixtures Europe to Far East**  
+> Unit: # Fixtures · X-axis: 2002 to 2004  
+> Series: VLCC, Suezmax, Aframax  
+> *Source: Poten & Partners*  
+> *No image crop of this chart was saved; caption read from the PDF.*

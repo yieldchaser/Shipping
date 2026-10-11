@@ -80,10 +80,10 @@ While the industry faces a growing orderbook, in the short-term the high demand 
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: Untamed Tiger](../../../charts/poten/2006/poten_2006-09-15_untamed-tiger_chart1.png)
+![Exhibit 2: Untitled chart](../../../charts/poten/2006/poten_2006-09-15_untamed-tiger_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2006/poten_2006-09-15_untamed-tiger_chart1.png)
-
-![Exhibit 2: Untamed Tiger](../../../charts/poten/2006/poten_2006-09-15_untamed-tiger_chart2.png)
-
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2006/poten_2006-09-15_untamed-tiger_chart2.png)
+> **Exhibit 2: Untitled chart**  
+> Unit: % | $/bbl · X-axis: 1Q01 to 1Q06  
+> Series: NYMEX Crude Prices, GDP - % Change  
+> *Source: Poten/Bloomberg*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2006/poten_2006-09-15_untamed-tiger_chart2.png)

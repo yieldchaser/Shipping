@@ -27,10 +27,10 @@ It is worth mentioning, however, that despite this rapid growth, absolute number
 
 As such, for now, the impact on oil demand remains limited, with the IEA assessing that in 2021, EVs displaced just 0.3 mbd. Yet, future targets are very ambitious: the electric car fleet needs to displace 7 mbd by 2030 to be in line with Net Zero emission goals. It is questionable whether these ambitious targets (which would require electric car fleet growing to over 300 million by 2030) are achievable, considering the need to expand the infrastructure network of charging points, the limited availability of critical metals and EV price levels.
 
-![Screenshot 20221117 130644 Drive](assets/2022-11-19_gibsons-weekly-tanker-market-report_img_screenshot-20221117-130644-drive_a63cba239ebc.jpg)
+![Screenshot 20221117 130644 Drive](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-11-19_gibsons-weekly-tanker-market-report_img_screenshot-20221117-130644-drive_a63cba239ebc.jpg)
 
 > **Figure 1: Screenshot 20221117 130644 Drive**  
-> **Interactive Data & Source:** [Gibsons Co](https://www.gibsons.co.uk/market-reports) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-11-19_gibsons-weekly-tanker-market-report_img_screenshot-20221117-130644-drive_a63cba239ebc.jpg)
+> **Interactive Data & Source:** [Gibsons Co](https://www.gibsons.co.uk/market-reports) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-11-19_gibsons-weekly-tanker-market-report_img_screenshot-20221117-130644-drive_a63cba239ebc.jpg)
 
 Nonetheless, it is apparent that EV growth rates will continue to accelerate, gradually eating deeper into road fuel consumption. Investment in electrification, driven by EV sales, is already accounting for more than 65% of end use investment in the transport sector and expected to reach 74% this year, meanwhile capital expenditure by listed battery manufacturers tripled in 2021 relative to 2020 levels.
 

@@ -26,8 +26,12 @@ The diversion of 100 kBD of oil exports from Primorsk to Ust-Luga should not imp
 
 ![Exhibit 1: Diversifying Outlets](../../../charts/poten/2012/poten_2012-04-05_diversifying-outlets_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2012/poten_2012-04-05_diversifying-outlets_chart1.png)
+> **Interactive Asset:** [Local Asset (200 DPI PNG)](../../../charts/poten/2012/poten_2012-04-05_diversifying-outlets_chart1.png)
 
-![Exhibit 2: Diversifying Outlets](../../../charts/poten/2012/poten_2012-04-05_diversifying-outlets_chart2.png)
+![Exhibit 2: 2011 Reported Spot Dirty Cargo Fixtures Loading in the Baltic by Discharge Zone](../../../charts/poten/2012/poten_2012-04-05_diversifying-outlets_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2012/poten_2012-04-05_diversifying-outlets_chart2.png)
+> **Exhibit 2: 2011 Reported Spot Dirty Cargo Fixtures Loading in the Baltic by Discharge Zone**  
+> Unit: Number of Fixtures · X-axis: Aframax to VLCC  
+> Series: UK Cont, US Gulf, Baltic, Med, SE Asia, Other  
+> *Source: Poten*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2012/poten_2012-04-05_diversifying-outlets_chart2.png)

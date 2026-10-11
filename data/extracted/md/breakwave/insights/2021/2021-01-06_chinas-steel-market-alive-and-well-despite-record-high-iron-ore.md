@@ -29,7 +29,7 @@ If one looks strictly at the headline profit margin as constructed by what the a
 ![Steel Margin 1](assets/2021-01-06_chinas-steel-market-alive-and-well-despite-record-high-iron-ore_img_steelmargin1_88d2485290ec.jpg)
 
 > **Figure 1: Steel Margin 1**  
-> **Interactive Data & Source:** [Bloomberg News](https://www.bloomberg.com/news/articles/2020-12-19/china-steel-group-executive-expects-decline-in-iron-ore-price) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2021/assets/2021-01-06_chinas-steel-market-alive-and-well-despite-record-high-iron-ore_img_steelmargin1_88d2485290ec.jpg)
+> **Interactive Data & Source:** [Bloomberg News](https://www.bloomberg.com/news/articles/2020-12-19/china-steel-group-executive-expects-decline-in-iron-ore-price) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-01-06_chinas-steel-market-alive-and-well-despite-record-high-iron-ore_img_steelmargin1_88d2485290ec.jpg)
 
 And yet, steel production in 2020 should reach a new record in China and should end up more than 5% higher compared to 2019. In addition, steel inventories remain high on a historical basis (last print was ~9% above last year’s level). All the above make little sense, as profitability seems under pressure, yet steel mills are producing as much as they can in a market that seems flooded with steel.
 
@@ -38,7 +38,7 @@ Macquarie, through their survey, is actually providing a different picture in te
 ![Macq Profitability](assets/2021-01-06_chinas-steel-market-alive-and-well-despite-record-high-iron-ore_img_macqprofitability_e4f536596b57.png)
 
 > **Figure 2: Macq Profitability**  
-> **Interactive Data & Source:** [Bloomberg News](https://www.bloomberg.com/news/articles/2020-12-19/china-steel-group-executive-expects-decline-in-iron-ore-price) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2021/assets/2021-01-06_chinas-steel-market-alive-and-well-despite-record-high-iron-ore_img_macqprofitability_e4f536596b57.png)
+> **Interactive Data & Source:** [Bloomberg News](https://www.bloomberg.com/news/articles/2020-12-19/china-steel-group-executive-expects-decline-in-iron-ore-price) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-01-06_chinas-steel-market-alive-and-well-despite-record-high-iron-ore_img_macqprofitability_e4f536596b57.png)
 
 It is as if in the last few months, steel mills seem to divert away from the generic stele margin and actually generate profits, something that is at odds versus history. After all, prices are quite transparent in the industry, at least on a peer unit basis calculations.
 
@@ -48,7 +48,7 @@ Then again, maybe the fact that utilization is quite high has something to do wi
 
 > **Figure 3: Recent Speculation-Driven Surge in the Value of Iron Ore Is**  
 > *The recent speculation-driven surge in the value of iron ore is unsustainable and the trend will be reversed when the market settles, a senior executive at China’s top industry body said.*  
-> **Interactive Data & Source:** [Bloomberg News](https://www.bloomberg.com/news/articles/2020-12-19/china-steel-group-executive-expects-decline-in-iron-ore-price) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2021/assets/2021-01-06_chinas-steel-market-alive-and-well-despite-record-high-iron-ore_img_macqutilization_4c61c95b281e.png)
+> **Interactive Data & Source:** [Bloomberg News](https://www.bloomberg.com/news/articles/2020-12-19/china-steel-group-executive-expects-decline-in-iron-ore-price) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-01-06_chinas-steel-market-alive-and-well-despite-record-high-iron-ore_img_macqutilization_4c61c95b281e.png)
 
 Furthermore, calls for a reduction in steel production by the Chinese authorities could provide an additional boost to steel prices while at the same time dampen the demand for iron ore and coking coal in the process leading to lower input costs.
 

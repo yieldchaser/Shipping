@@ -19,11 +19,11 @@ source_file: "corpus/03-breakwave/insights/2022/2022-11-25_doric-china-barometer
 
 ---
 
-[![Bymichalis Voutsinasand Helen Vlassi](assets/2022-11-25_doric-china-barometer-part-22_img_buttonwdate_d45d644f7990.png)
+[![Bymichalis Voutsinasand Helen Vlassi](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-11-25_doric-china-barometer-part-22_img_buttonwdate_d45d644f7990.png)
 
 > **Figure 1: Bymichalis Voutsinasand Helen Vlassi**  
 > *ByMichalis Voutsinasand Helen Vlassi*  
-> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/in/michalis-voutsinas-587544163/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-11-25_doric-china-barometer-part-22_img_buttonwdate_d45d644f7990.png)](https://www.breakwaveadvisors.com/agenda22)
+> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/in/michalis-voutsinas-587544163/) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-11-25_doric-china-barometer-part-22_img_buttonwdate_d45d644f7990.png)](https://www.breakwaveadvisors.com/agenda22)
 
 ### Crude Oil/natural Gas
 
@@ -34,10 +34,10 @@ source_file: "corpus/03-breakwave/insights/2022/2022-11-25_doric-china-barometer
 - China’s imports of natural gas sank to a twoyear low of 7.61 metric tonnes in October, reversing from a brief spike of 10.15 million tonnes in previous month.
 - From January to October, China’s total imports stood at 88.74 million tonnes, down circa 10.4 percent from a year earlier.
 
-![Screenshot 20221125 141457 Samsung Notes](assets/2022-11-25_doric-china-barometer-part-22_img_screenshot-20221125-141457-samsungno_70f23796817b.jpg)
+![Screenshot 20221125 141457 Samsung Notes](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-11-25_doric-china-barometer-part-22_img_screenshot-20221125-141457-samsungno_70f23796817b.jpg)
 
 > **Figure 2: Screenshot 20221125 141457 Samsung Notes**  
-> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-11-25_doric-china-barometer-part-22_img_screenshot-20221125-141457-samsungno_70f23796817b.jpg)
+> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-11-25_doric-china-barometer-part-22_img_screenshot-20221125-141457-samsungno_70f23796817b.jpg)
 
 ### Iron Ore October 2022
 
@@ -48,10 +48,10 @@ source_file: "corpus/03-breakwave/insights/2022/2022-11-25_doric-china-barometer
 - On a monthly basis, iron ore output decreased by circa 8.0 percent in October, down from 78.98 million tonnes reported in September.
 - From January to October, 845.84 million metric tonnes of crude iron ore have been extracted in China, or up circa 5.5 percent year-on-year.
 
-![Screenshot 20221125 141512 Samsung Notes](assets/2022-11-25_doric-china-barometer-part-22_img_screenshot-20221125-141512-samsungno_5dcdfe5a3666.jpg)
+![Screenshot 20221125 141512 Samsung Notes](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-11-25_doric-china-barometer-part-22_img_screenshot-20221125-141512-samsungno_5dcdfe5a3666.jpg)
 
 > **Figure 3: Screenshot 20221125 141512 Samsung Notes**  
-> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-11-25_doric-china-barometer-part-22_img_screenshot-20221125-141512-samsungno_5dcdfe5a3666.jpg)
+> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-11-25_doric-china-barometer-part-22_img_screenshot-20221125-141512-samsungno_5dcdfe5a3666.jpg)
 
 ### Coal
 
@@ -63,10 +63,10 @@ source_file: "corpus/03-breakwave/insights/2022/2022-11-25_doric-china-barometer
 - China’s domestic coal output during first ten months of 2022 rose by circa 10.0 percent from a year earlier to 3.69 billion metric tonnes.
 - Chinese government announced the extension of the price limit of USD 92.76 on thermal coal in 2023, in an effort to stabilise prices.
 
-![Screenshot 20221125 141531 Samsung Notes](assets/2022-11-25_doric-china-barometer-part-22_img_screenshot-20221125-141531-samsungno_c15bca09c465.jpg)
+![Screenshot 20221125 141531 Samsung Notes](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-11-25_doric-china-barometer-part-22_img_screenshot-20221125-141531-samsungno_c15bca09c465.jpg)
 
 > **Figure 4: Screenshot 20221125 141531 Samsung Notes**  
-> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-11-25_doric-china-barometer-part-22_img_screenshot-20221125-141531-samsungno_c15bca09c465.jpg)
+> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-11-25_doric-china-barometer-part-22_img_screenshot-20221125-141531-samsungno_c15bca09c465.jpg)
 
 ### Grains
 
@@ -77,10 +77,10 @@ source_file: "corpus/03-breakwave/insights/2022/2022-11-25_doric-china-barometer
 - China’s wheat imports in October increased significantly by circa 158.3 percent from a year earlier, to 1.24 million tonnes.
 - China imported circa 2.7 million tonnes of grains on top of soybean imports in October, or circa 40.7 percent down yearon-year.
 
-![Screenshot 20221125 141554 Samsung Notes](assets/2022-11-25_doric-china-barometer-part-22_img_screenshot-20221125-141554-samsungno_986ec8558410.jpg)
+![Screenshot 20221125 141554 Samsung Notes](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-11-25_doric-china-barometer-part-22_img_screenshot-20221125-141554-samsungno_986ec8558410.jpg)
 
 > **Figure 5: Screenshot 20221125 141554 Samsung Notes**  
-> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-11-25_doric-china-barometer-part-22_img_screenshot-20221125-141554-samsungno_986ec8558410.jpg)
+> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-11-25_doric-china-barometer-part-22_img_screenshot-20221125-141554-samsungno_986ec8558410.jpg)
 
 ### Minors (Exports)
 
@@ -91,10 +91,10 @@ source_file: "corpus/03-breakwave/insights/2022/2022-11-25_doric-china-barometer
 - Chinese steel exports during the first ten months of 2022, lay at 56.46 million tonnes or down by 1.9 percent year-onyear.
 - October’s steel exports stood circa 4.0 percent higher than a reading of 4.98 million tonnes a month earlier.
 
-![Screenshot 20221125 141617 Samsung Notes](assets/2022-11-25_doric-china-barometer-part-22_img_screenshot-20221125-141617-samsungno_c3bc58cd368d.jpg)
+![Screenshot 20221125 141617 Samsung Notes](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-11-25_doric-china-barometer-part-22_img_screenshot-20221125-141617-samsungno_c3bc58cd368d.jpg)
 
 > **Figure 6: Screenshot 20221125 141617 Samsung Notes**  
-> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-11-25_doric-china-barometer-part-22_img_screenshot-20221125-141617-samsungno_c3bc58cd368d.jpg)
+> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-11-25_doric-china-barometer-part-22_img_screenshot-20221125-141617-samsungno_c3bc58cd368d.jpg)
 
 ### Minors (Imports)
 
@@ -105,9 +105,9 @@ source_file: "corpus/03-breakwave/insights/2022/2022-11-25_doric-china-barometer
 - On a year-on-year basis, October’s timber imports decreased by circa 26.5 percent.
 - From January to October, China brought in 58.2 million CBM of timber and logs, or down circa 24.9 percent year-on-year.
 
-![Screenshot 20221125 141645 Samsung Notes](assets/2022-11-25_doric-china-barometer-part-22_img_screenshot-20221125-141645-samsungno_b390c974d047.jpg)
+![Screenshot 20221125 141645 Samsung Notes](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-11-25_doric-china-barometer-part-22_img_screenshot-20221125-141645-samsungno_b390c974d047.jpg)
 
 > **Figure 7: Screenshot 20221125 141645 Samsung Notes**  
-> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-11-25_doric-china-barometer-part-22_img_screenshot-20221125-141645-samsungno_b390c974d047.jpg)
+> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-11-25_doric-china-barometer-part-22_img_screenshot-20221125-141645-samsungno_b390c974d047.jpg)
 
 Data source:[Doric](https://www.doric.gr/)

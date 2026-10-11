@@ -38,6 +38,14 @@ Many anticipated that 2006 would be the year that rates would decline significan
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: Not So Fast](../../../charts/poten/2007/poten_2007-03-09_not-so-fast_chart1.png)
+> **Chart on PDF page 1: Untitled chart**  
+> Unit: Dow Jones Industrial Average | S&P 500 · X-axis: 1/3/2005 to 10/16/2006  
+> Series: Dow Jones Industrial Average, S&P 500  
+> *Source: Poten & Partners*  
+> *No image crop of this chart was saved; caption read from the PDF.*
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2007/poten_2007-03-09_not-so-fast_chart1.png)
+> **Chart on PDF page 2: Poten Tanker Index versus the Poten Tanker Equity Index**  
+> Unit: PTI Index | Poten Tanker Equity Index · X-axis: 1/6/2006 to 12/22/2006  
+> Series: Poten Tanker Index, Poten Tanker Equity Index  
+> *Source: Poten & Partners*  
+> *No image crop of this chart was saved; caption read from the PDF.*

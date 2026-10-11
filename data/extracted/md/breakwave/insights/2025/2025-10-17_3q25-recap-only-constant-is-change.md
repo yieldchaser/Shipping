@@ -20,19 +20,19 @@ source_file: "corpus/03-breakwave/insights/2025/2025-10-17_3q25-recap-only-const
 
 ---
 
-![Rgb Color Brs Shipbrokers Monogram Logo](assets/2025-10-17_3q25-recap-only-constant-is-change_img_rgb-color-brs-shipbrokers-monogram-l_c365f35f1de5.png)
+![Rgb Color Brs Shipbrokers Monogram Logo](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-10-17_3q25-recap-only-constant-is-change_img_rgb-color-brs-shipbrokers-monogram-l_c365f35f1de5.png)
 
 > **Figure 1: Rgb Color Brs Shipbrokers Monogram Logo**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-10-17_3q25-recap-only-constant-is-change_img_rgb-color-brs-shipbrokers-monogram-l_c365f35f1de5.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-10-17_3q25-recap-only-constant-is-change_img_rgb-color-brs-shipbrokers-monogram-l_c365f35f1de5.png)
 
 ### Tariffs – It’s Just the Beginning?
 
 While recent deals with the US brought some clarity ahead of the August deadline, 2026 will be the first full year when most countries outside the US face tariffs on exports to the American market. The implications for dry bulk are significant. In 2024, the top 30 dry bulk importers accounted for 88.8% of global shipments, and many of these will now face fresh economic hurdles as they attempt to address trade surpluses with the US. This casts a lingering shadow over their long-term appetite for dry bulk imports.
 
-![Στιγμιότυπο Οθόνης 2025 10 17 104238](assets/2025-10-17_3q25-recap-only-constant-is-change_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_28f60c62c1fd.png)
+![Στιγμιότυπο Οθόνης 2025 10 17 104238](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-10-17_3q25-recap-only-constant-is-change_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_28f60c62c1fd.png)
 
 > **Figure 2: Στιγμιότυπο Οθόνης 2025 10 17 104238**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-10-17_3q25-recap-only-constant-is-change_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_28f60c62c1fd.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-10-17_3q25-recap-only-constant-is-change_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_28f60c62c1fd.png)
 
 China and India, which together accounted for nearly half of global dry bulk demand in 2024 (40.7% and 6.6% respectively), remain exposed to high US tariffs. Meanwhile, as Washington seeks additional leverage to press for an end to the Ukraine-Russian war, President Trump had floated secondary sactions for buyers of Russian energy. And in his latest UN speech, Trump announced US is ready to impose tougher sanctions on Russia, conditional upon NATO nations agree to follow suit. Furthermore, their positions as BRICS members underscores the structural divide between US trade policy and the world’s largest emerging economies.
 
@@ -44,10 +44,10 @@ Just prior to writing, US-China trade tensions reignited with President Trump th
 
 Last year, the top 3 dry bulk cargoes, namely iron ore, coal and grains account for approximately 64% of total dry shipments volumes. In the first eight months of 2025, they experienced declines in the region of -0.3%, -5.5% and -4.3%, respectively, led by lower Chinese imports.
 
-![Στιγμιότυπο Οθόνης 2025 10 17 104302](assets/2025-10-17_3q25-recap-only-constant-is-change_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_c34dea8f0fa4.png)
+![Στιγμιότυπο Οθόνης 2025 10 17 104302](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-10-17_3q25-recap-only-constant-is-change_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_c34dea8f0fa4.png)
 
 > **Figure 3: Στιγμιότυπο Οθόνης 2025 10 17 104302**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-10-17_3q25-recap-only-constant-is-change_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_c34dea8f0fa4.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-10-17_3q25-recap-only-constant-is-change_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_c34dea8f0fa4.png)
 
 China’s annual declines in dry bulk imports coincide with clear signs of domestic demand weakness and a deepening contraction in the real estate and construction sectors. China’s property sector remains under strain, with new home sales from the country’s 100 largest developers falling 17.6% year-on-year in August, according to China Real Estate Information Corp. This marked the sixth consecutive monthly decline, following a 24% slump in July. Despite fresh stimulus rolled out in Beijing and Shanghai, the downturn persists, extending a housing slump that has now dragged on for more than four years. In addition, the first half of 2025 began with elevated inventory levels, which slowed the overall appetite for imports.
 
@@ -57,10 +57,10 @@ Since the April announcement, fewer Chinese-linked bulk carriers have undertaken
 
 Meanwhile, a Bloomberg report in late September indicated that the leasing arms of at least two major Chinese banks are in talks with regulators to convert shipping leases into mortgages, a move aimed at shielding them from potential USTR-related port fees.
 
-![Στιγμιότυπο Οθόνης 2025 10 17 104317](assets/2025-10-17_3q25-recap-only-constant-is-change_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_39e934596a40.png)
+![Στιγμιότυπο Οθόνης 2025 10 17 104317](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-10-17_3q25-recap-only-constant-is-change_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_39e934596a40.png)
 
 > **Figure 4: Στιγμιότυπο Οθόνης 2025 10 17 104317**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-10-17_3q25-recap-only-constant-is-change_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_39e934596a40.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-10-17_3q25-recap-only-constant-is-change_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_39e934596a40.png)
 
 On 10 October, China unexpectedly announced retaliatory measures imposing port charges on a net-ton basis for US-linked vessels. Exemptions currently apply to vessels entering Chinese shipyards for maintenance, China-built ships, and other cases formally approved by the authorities. Given Capesize vessels’ significant exposure to China-bound iron ore cargoes and their inherently larger tonnage, which magnifies the fee burden, this move effectively targets US-linked capacity in the segment with precision. While speculation continues over potential new exemptions, market activity has quietened markedly, perhaps signalling a brief calm before the storm.
 
@@ -76,10 +76,10 @@ While China’s import appetite, particularly for Indonesian coal, has taken a b
 
 These developments provided upward momentum heading into 3Q25, with spot rates (from C5TC to HS7TC), rebounding from May lows. Market concerns over a prolonged downturn eased and drove a sharp reversal in sentiment as 4Q25 FFA contracts erased all their 1H25 losses to hit fresh highs by end September. Meanwhile, a shortage of suitable tonnage in the North Atlantic, driven by USTR effects and Red Sea diversions, lifted subcape transatlantic rates (P1A_82, S4A_63) last month, thereby widening spreads against their transpacific counterparts (P3A_82, S10_63).
 
-![Στιγμιότυπο Οθόνης 2025 10 17 104327](assets/2025-10-17_3q25-recap-only-constant-is-change_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_acdae2d5f01a.png)
+![Στιγμιότυπο Οθόνης 2025 10 17 104327](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-10-17_3q25-recap-only-constant-is-change_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_acdae2d5f01a.png)
 
 > **Figure 5: Στιγμιότυπο Οθόνης 2025 10 17 104327**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-10-17_3q25-recap-only-constant-is-change_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_acdae2d5f01a.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-10-17_3q25-recap-only-constant-is-change_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_acdae2d5f01a.png)
 
 For the first time in decades, China has avoided US soybean purchases at the start of the export season, signaling agriculture’s renewed role as a bargaining chip in trade tensions with Washington. With importers securing sufficient supply through year-end, industry reports suggest US cargoes may not be needed until 1Q26. And with the latest trade spat, it appears that any hope of China buying US soybeans heading into APEC meeting at end-October has likely evaporated.
 

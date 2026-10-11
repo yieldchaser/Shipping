@@ -145,6 +145,32 @@ So despite record rate levels and continued consolidation in the oil industry, t
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: The More Things Change... The More They Stay the Same](../../../charts/poten/2004/poten_2004-01-09_the-more-things-change-the-more-they-stay-the-same_chart1.png)
+> **Chart on PDF page 1: Comparing Charterers with Fixture Activity**  
+> Unit: % of Fixtures · X-axis: 0% to 100%  
+> Series: 2002%, 2003%  
+> *No image crop of this chart was saved; caption read from the PDF.*
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2004/poten_2004-01-09_the-more-things-change-the-more-they-stay-the-same_chart1.png)
+> **Chart on PDF page 3: 2003 Vessels by Fixture Type**  
+> Unit: % · X-axis: Aframax (5,014) to Panamax (1,663)  
+> Series: Aframax (5,014), Suezmax (2,100), Panamax (1,663), VLCC (1,777)  
+> *No image crop of this chart was saved; caption read from the PDF.*
+
+> **Chart on PDF page 3: Top Five Charterers for VLCC Fixtures**  
+> Unit: Number of Fixtures · X-axis: Shell to ChevronTexaco  
+> Series: Shell, ExxonMobil, Vela, IOC (Indian Oil Co.), ChevronTexaco  
+> *No image crop of this chart was saved; caption read from the PDF.*
+
+> **Chart on PDF page 4: Top Five Charterers for Suezmax Fixtures**  
+> X-axis: 0 to 160  
+> Series: Shell, ExxonMobil, Sunoco, BP, CSSSA (Total)  
+> *No image crop of this chart was saved; caption read from the PDF.*
+
+> **Chart on PDF page 4: Top Five Charterers for Aframax Fixtures**  
+> X-axis: 0 to 600  
+> Series: Shell, ExxonMobil, BP, CSSSA (Total), Karran  
+> *No image crop of this chart was saved; caption read from the PDF.*
+
+> **Chart on PDF page 5: Top Five Charterers for Panamax Fixtures**  
+> X-axis: 0 to 150  
+> Series: Vitol, Alpine, Shell, BP, El Paso  
+> *No image crop of this chart was saved; caption read from the PDF.*

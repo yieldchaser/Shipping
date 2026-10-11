@@ -34,8 +34,12 @@ Some shippers are addressing this challenge by taking Aframaxes on time- charter
 
 ![Exhibit 1: Canada Opens The Floodgates](../../../charts/poten/2024/poten_2024-03-22_canada-opens-the-floodgates_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2024/poten_2024-03-22_canada-opens-the-floodgates_chart1.png)
+> **Interactive Asset:** [Local Asset (200 DPI PNG)](../../../charts/poten/2024/poten_2024-03-22_canada-opens-the-floodgates_chart1.png)
 
-![Exhibit 2: Canada Opens The Floodgates](../../../charts/poten/2024/poten_2024-03-22_canada-opens-the-floodgates_chart2.png)
+![Exhibit 2: Crude & Condensate Exports From Vancouver](../../../charts/poten/2024/poten_2024-03-22_canada-opens-the-floodgates_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2024/poten_2024-03-22_canada-opens-the-floodgates_chart2.png)
+> **Exhibit 2: Crude & Condensate Exports From Vancouver**  
+> Unit: Kb/d · X-axis: Jan-20 to Jan-24  
+> Series: United States, China, South Korea, India, Other  
+> *Source: Vortexa*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2024/poten_2024-03-22_canada-opens-the-floodgates_chart2.png)

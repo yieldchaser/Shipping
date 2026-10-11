@@ -45,6 +45,7 @@ from llama_parse import LlamaParse
 ROOT = Path(__file__).resolve().parents[3]
 sys.path.insert(0, str(ROOT))
 from scripts.extract.llama_manager import manager as key_manager
+from scripts.extract.publishers.mmi_vector_charts import ESTIMATE_NOTES, apply_vector_charts
 
 CACHE_DIR = ROOT / "data" / "extracted" / "cache_mmi_iron_ore_pdf"
 OUT_MD_DIR = ROOT / "data" / "extracted" / "md" / "hellenic" / "iron_ore_pdf"
@@ -1853,7 +1854,8 @@ def generate_report_markdown(sidecar: Dict[str, Any]) -> str:
                 f"| {item.get('chart_date')} | {fmt_num(item.get('iosi62_usd_dmt'))} | {fmt_num(item.get('iopi62_eq_usd_dmt'))} | {fmt_num(item.get('iosi65_usd_dmt'))} | {fmt_num(item.get('iopi65_eq_usd_dmt'))} |"
             )
         comp_block = f"""| Date | IOSI62 (USD/DMT) | IOPi62 CFR Eq (USD/DMT) | IOSI65 (USD/DMT) | IOPi65 CFR Eq (USD/DMT) |\n| :--- | :--- | :--- | :--- | :--- |\n""" + "\n".join(comp_rows)
-        p3_parts.append(f"## Historical Iron Ore Index Comparisons (USD/DMT)\n{comp_block}")
+        note = ESTIMATE_NOTES[sidecar.get("chart_value_source", {}).get("comparisons", "visual")]
+        p3_parts.append(f"## Historical Iron Ore Index Comparisons (USD/DMT)\n{note}\n\n{comp_block}")
 
     p3 = "\n\n".join(p3_parts)
 
@@ -1893,10 +1895,11 @@ def generate_report_markdown(sidecar: Dict[str, Any]) -> str:
     imp_block = (f"""| Month / Period | Import Volume (Million Tonnes) |\n| :--- | :--- |\n""" + "\n".join(imp_rows)) if imp_rows else ""
 
     p4_parts = [f"""<!-- Page 4 -->\n\n# Port Inventories & Exchange Traded Futures\n\n## Iron Ore Port Inventories (Million Tonnes)\n{inv_block}\n\n## Iron Ore Futures Contracts (DCE & SGX)\n{fut_block}"""]
+    chart_src = sidecar.get("chart_value_source", {})
     if fr_block:
-        p4_parts.append(f"## Dry Bulk Freight Rates Historical Line Data (USD/MT)\n{fr_block}")
+        p4_parts.append(f"## Dry Bulk Freight Rates Historical Line Data (USD/MT)\n{ESTIMATE_NOTES[chart_src.get('freight', 'visual')]}\n\n{fr_block}")
     if imp_block:
-        p4_parts.append(f"## Total China Iron Ore Import Volumes (Million Tonnes)\n{imp_block}")
+        p4_parts.append(f"## Total China Iron Ore Import Volumes (Million Tonnes)\n{ESTIMATE_NOTES[chart_src.get('imports', 'visual')]}\n\n{imp_block}")
     p4 = "\n\n".join(p4_parts)
 
     # PAGE 5: Steel Spot & Mill Profitability
@@ -2160,6 +2163,7 @@ async def process_single_mmi_pdf(pdf_path: Path, sem: asyncio.Semaphore) -> Tupl
         bs["source_file"] = pdf_path.name
 
     # 3. Save sidecar JSON
+    chart_value_source = apply_vector_charts(pdf_path, issue_date, year, comparisons_chart, freight_chart, imports_chart)
     sidecar = {
         "pipeline_version": "v4_perfect",
         "metadata": {
@@ -2190,6 +2194,7 @@ async def process_single_mmi_pdf(pdf_path: Path, sem: asyncio.Semaphore) -> Tupl
         "historical_freight_rates": freight_chart,
         "historical_import_volumes": imports_chart,
         "historical_steel_production_consumption": steel_charts,
+        "chart_value_source": chart_value_source,
     }
     out_year_dir = OUT_MD_DIR / year
     out_year_dir.mkdir(parents=True, exist_ok=True)
@@ -2320,6 +2325,7 @@ def process_single_mmi_sync(pdf_path_str: str) -> Dict[str, Any]:
             bs["year"] = year
             bs["source_file"] = pdf_path.name
 
+        chart_value_source = apply_vector_charts(pdf_path, issue_date, year, comparisons_chart, freight_chart, imports_chart)
         sidecar = {
             "pipeline_version": "v4_perfect",
             "metadata": {
@@ -2350,6 +2356,7 @@ def process_single_mmi_sync(pdf_path_str: str) -> Dict[str, Any]:
             "historical_freight_rates": freight_chart,
             "historical_import_volumes": imports_chart,
             "historical_steel_production_consumption": steel_charts,
+            "chart_value_source": chart_value_source,
         }
         json_path.write_text(json.dumps(sidecar, indent=2, ensure_ascii=False) + "\n", encoding="utf-8")
         full_md = generate_report_markdown(sidecar)
@@ -2634,11 +2641,17 @@ def save_stacked_series(
             w.writerows(spec_rows)
         print(f"Saved {len(spec_rows)} cumulative rows to {p_spec.name}")
 
+    # Chart values are never printed: label each row as read from the vector geometry or visually (see mmi_vector_charts)
+    for chart_dict in (freight_chart_dict, imports_chart_dict, comparisons_chart_dict):
+        for it in chart_dict.values():
+            if it.get("value_source") not in ("vector_estimate", "visual_estimate"):
+                it["value_source"] = "vector_estimate" if it.get("value_source") == "vector" else "visual_estimate"
+
     # 11. Historical Freight Rates Chart (Page 4)
     fr_rows = sorted(freight_chart_dict.values(), key=lambda x: (str(x.get("date", "")), str(x.get("chart_date", ""))))
     if fr_rows:
         p_fr = OUT_SERIES_DIR / "hellenic_iron_ore_pdf_freight_rates_series.csv"
-        fr_keys = ["date", "year", "chart_date", "c5_waust_usd_t", "c3_tubarao_usd_t", "source_file"]
+        fr_keys = ["date", "year", "chart_date", "c5_waust_usd_t", "c3_tubarao_usd_t", "source_file", "value_source"]
         with open(p_fr, "w", newline="", encoding="utf-8") as f:
             w = csv.DictWriter(f, fieldnames=fr_keys, extrasaction="ignore")
             w.writeheader()
@@ -2649,7 +2662,7 @@ def save_stacked_series(
     imp_rows = sorted(imports_chart_dict.values(), key=lambda x: (str(x.get("date", "")), str(x.get("period", ""))))
     if imp_rows:
         p_imp = OUT_SERIES_DIR / "hellenic_iron_ore_pdf_import_volumes_series.csv"
-        imp_keys = ["date", "year", "period", "volume_mt", "source_file"]
+        imp_keys = ["date", "year", "period", "volume_mt", "source_file", "value_source"]
         with open(p_imp, "w", newline="", encoding="utf-8") as f:
             w = csv.DictWriter(f, fieldnames=imp_keys, extrasaction="ignore")
             w.writeheader()
@@ -2704,7 +2717,7 @@ def save_stacked_series(
     comp_rows = sorted(comparisons_chart_dict.values(), key=lambda x: (str(x.get("date", "")), str(x.get("chart_date", ""))))
     if comp_rows:
         p_cmp = OUT_SERIES_DIR / "hellenic_iron_ore_pdf_index_comparisons_series.csv"
-        cmp_keys = ["date", "year", "chart_date", "iosi62_usd_dmt", "iopi62_eq_usd_dmt", "iosi65_usd_dmt", "iopi65_eq_usd_dmt", "source_file"]
+        cmp_keys = ["date", "year", "chart_date", "iosi62_usd_dmt", "iopi62_eq_usd_dmt", "iosi65_usd_dmt", "iopi65_eq_usd_dmt", "source_file", "value_source"]
         with open(p_cmp, "w", newline="", encoding="utf-8") as f:
             w = csv.DictWriter(f, fieldnames=cmp_keys, extrasaction="ignore")
             w.writeheader()

@@ -41,10 +41,10 @@ But activity along these routes could rise further in February as January data i
 
 Looking ahead, market expectations of higher Saudi OSPs for March loading cargoes could temper any increases in voyages to India and China seen in February, and therefore cap further rises in TD3C rates
 
-![Στιγμιότυπο Οθόνης 2025 02 06 124504](assets/2025-02-06_uptick-in-saudi-vlcc-voyages-to-india-and-china-could-continue_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_e2c15e8efaae.png)
+![Στιγμιότυπο Οθόνης 2025 02 06 124504](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-02-06_uptick-in-saudi-vlcc-voyages-to-india-and-china-could-continue_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_e2c15e8efaae.png)
 
 > **Figure 1: Στιγμιότυπο Οθόνης 2025 02 06 124504**  
-> **Interactive Data & Source:** [Vortexa](https://www.vortexa.com//oil-gas-data-traders-analysts-data-scientists?gclid=Cj0KCQjw8_qRBhCXARIsAE2AtRZKOvMnbilZ_6_91d7huSFFy71pWLrnPwGwOHVzXsmsG-1a1mZnQw8aAt89EALw_wcB&hsa_acc=1782073842&hsa_ad=548425387665&hsa_cam=14746637662&hsa_grp=125038601902&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_src=g&hsa_tgt=dsa-1431852288425&hsa_ver=3&utm_campaign=%5BCD%5D%20-%20DSA%20-%20EMEA&utm_medium=cpc&utm_medium=ppc&utm_source=google&utm_source=adwords&utm_term=) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-02-06_uptick-in-saudi-vlcc-voyages-to-india-and-china-could-continue_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_e2c15e8efaae.png)
+> **Interactive Data & Source:** [Vortexa](https://www.vortexa.com//oil-gas-data-traders-analysts-data-scientists?gclid=Cj0KCQjw8_qRBhCXARIsAE2AtRZKOvMnbilZ_6_91d7huSFFy71pWLrnPwGwOHVzXsmsG-1a1mZnQw8aAt89EALw_wcB&hsa_acc=1782073842&hsa_ad=548425387665&hsa_cam=14746637662&hsa_grp=125038601902&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_src=g&hsa_tgt=dsa-1431852288425&hsa_ver=3&utm_campaign=%5BCD%5D%20-%20DSA%20-%20EMEA&utm_medium=cpc&utm_medium=ppc&utm_source=google&utm_source=adwords&utm_term=) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-02-06_uptick-in-saudi-vlcc-voyages-to-india-and-china-could-continue_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_e2c15e8efaae.png)
 
 ## Clean – East of Suez: Strong Intra-Se Asia Demand for Mrs Is Limited by Supply-Side Pressure and Lack of Longer-Haul Demand
 
@@ -60,10 +60,10 @@ Upcoming Ramadan-related demand in Southeast Asia is expected to drive higher ga
 
 Additionally, regional refinery maintenance could constrain overall gasoline supply, potentially tightening availability across Asia and moderate the extent to which increased intra-Asia demand translates into higher MR tanker utilisation
 
-![Στιγμιότυπο Οθόνης 2025 02 06 124722](assets/2025-02-06_uptick-in-saudi-vlcc-voyages-to-india-and-china-could-continue_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_1e36f946ced0.png)
+![Στιγμιότυπο Οθόνης 2025 02 06 124722](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-02-06_uptick-in-saudi-vlcc-voyages-to-india-and-china-could-continue_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_1e36f946ced0.png)
 
 > **Figure 2: Στιγμιότυπο Οθόνης 2025 02 06 124722**  
-> **Interactive Data & Source:** [Vortexa](https://www.vortexa.com//oil-gas-data-traders-analysts-data-scientists?gclid=Cj0KCQjw8_qRBhCXARIsAE2AtRZKOvMnbilZ_6_91d7huSFFy71pWLrnPwGwOHVzXsmsG-1a1mZnQw8aAt89EALw_wcB&hsa_acc=1782073842&hsa_ad=548425387665&hsa_cam=14746637662&hsa_grp=125038601902&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_src=g&hsa_tgt=dsa-1431852288425&hsa_ver=3&utm_campaign=%5BCD%5D%20-%20DSA%20-%20EMEA&utm_medium=cpc&utm_medium=ppc&utm_source=google&utm_source=adwords&utm_term=) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-02-06_uptick-in-saudi-vlcc-voyages-to-india-and-china-could-continue_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_1e36f946ced0.png)
+> **Interactive Data & Source:** [Vortexa](https://www.vortexa.com//oil-gas-data-traders-analysts-data-scientists?gclid=Cj0KCQjw8_qRBhCXARIsAE2AtRZKOvMnbilZ_6_91d7huSFFy71pWLrnPwGwOHVzXsmsG-1a1mZnQw8aAt89EALw_wcB&hsa_acc=1782073842&hsa_ad=548425387665&hsa_cam=14746637662&hsa_grp=125038601902&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_src=g&hsa_tgt=dsa-1431852288425&hsa_ver=3&utm_campaign=%5BCD%5D%20-%20DSA%20-%20EMEA&utm_medium=cpc&utm_medium=ppc&utm_source=google&utm_source=adwords&utm_term=) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-02-06_uptick-in-saudi-vlcc-voyages-to-india-and-china-could-continue_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_1e36f946ced0.png)
 
 ## Dirty – West of Suez: Narrowing Rate Differential Favours Ta Aframaxes Over Suezmaxes, But Europe’s Crude Demand Limited
 
@@ -77,10 +77,10 @@ Over the longer-term, Suezmaxes have taken market share from Aframaxes on the TA
 
 ➔ This could over time increase Aframax freight rates on TD25, as Atlantic Aframaxes will be in higher demand
 
-![Στιγμιότυπο Οθόνης 2025 02 06 125030](assets/2025-02-06_uptick-in-saudi-vlcc-voyages-to-india-and-china-could-continue_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_19496b181ba1.png)
+![Στιγμιότυπο Οθόνης 2025 02 06 125030](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-02-06_uptick-in-saudi-vlcc-voyages-to-india-and-china-could-continue_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_19496b181ba1.png)
 
 > **Figure 3: Στιγμιότυπο Οθόνης 2025 02 06 125030**  
-> **Interactive Data & Source:** [Vortexa](https://www.vortexa.com//oil-gas-data-traders-analysts-data-scientists?gclid=Cj0KCQjw8_qRBhCXARIsAE2AtRZKOvMnbilZ_6_91d7huSFFy71pWLrnPwGwOHVzXsmsG-1a1mZnQw8aAt89EALw_wcB&hsa_acc=1782073842&hsa_ad=548425387665&hsa_cam=14746637662&hsa_grp=125038601902&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_src=g&hsa_tgt=dsa-1431852288425&hsa_ver=3&utm_campaign=%5BCD%5D%20-%20DSA%20-%20EMEA&utm_medium=cpc&utm_medium=ppc&utm_source=google&utm_source=adwords&utm_term=) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-02-06_uptick-in-saudi-vlcc-voyages-to-india-and-china-could-continue_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_19496b181ba1.png)
+> **Interactive Data & Source:** [Vortexa](https://www.vortexa.com//oil-gas-data-traders-analysts-data-scientists?gclid=Cj0KCQjw8_qRBhCXARIsAE2AtRZKOvMnbilZ_6_91d7huSFFy71pWLrnPwGwOHVzXsmsG-1a1mZnQw8aAt89EALw_wcB&hsa_acc=1782073842&hsa_ad=548425387665&hsa_cam=14746637662&hsa_grp=125038601902&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_src=g&hsa_tgt=dsa-1431852288425&hsa_ver=3&utm_campaign=%5BCD%5D%20-%20DSA%20-%20EMEA&utm_medium=cpc&utm_medium=ppc&utm_source=google&utm_source=adwords&utm_term=) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-02-06_uptick-in-saudi-vlcc-voyages-to-india-and-china-could-continue_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_19496b181ba1.png)
 
 ## Clean – West of Suez: Russian Diesel on Water Surges, Suggesting Difficulty in Finding Buyers
 
@@ -94,10 +94,10 @@ The market’s inability to absorb this supply has left cargoes stranded at sea,
 
 ➔ Faced with weak demand, some MR operators appear to be slowing down to await potential buyers, increasing oil on water (see blue line RHS chart)
 
-![Στιγμιότυπο Οθόνης 2025 02 06 125240](assets/2025-02-06_uptick-in-saudi-vlcc-voyages-to-india-and-china-could-continue_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_758612ca72d8.png)
+![Στιγμιότυπο Οθόνης 2025 02 06 125240](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-02-06_uptick-in-saudi-vlcc-voyages-to-india-and-china-could-continue_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_758612ca72d8.png)
 
 > **Figure 4: Στιγμιότυπο Οθόνης 2025 02 06 125240**  
-> **Interactive Data & Source:** [Vortexa](https://www.vortexa.com//oil-gas-data-traders-analysts-data-scientists?gclid=Cj0KCQjw8_qRBhCXARIsAE2AtRZKOvMnbilZ_6_91d7huSFFy71pWLrnPwGwOHVzXsmsG-1a1mZnQw8aAt89EALw_wcB&hsa_acc=1782073842&hsa_ad=548425387665&hsa_cam=14746637662&hsa_grp=125038601902&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_src=g&hsa_tgt=dsa-1431852288425&hsa_ver=3&utm_campaign=%5BCD%5D%20-%20DSA%20-%20EMEA&utm_medium=cpc&utm_medium=ppc&utm_source=google&utm_source=adwords&utm_term=) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-02-06_uptick-in-saudi-vlcc-voyages-to-india-and-china-could-continue_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_758612ca72d8.png)
+> **Interactive Data & Source:** [Vortexa](https://www.vortexa.com//oil-gas-data-traders-analysts-data-scientists?gclid=Cj0KCQjw8_qRBhCXARIsAE2AtRZKOvMnbilZ_6_91d7huSFFy71pWLrnPwGwOHVzXsmsG-1a1mZnQw8aAt89EALw_wcB&hsa_acc=1782073842&hsa_ad=548425387665&hsa_cam=14746637662&hsa_grp=125038601902&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_src=g&hsa_tgt=dsa-1431852288425&hsa_ver=3&utm_campaign=%5BCD%5D%20-%20DSA%20-%20EMEA&utm_medium=cpc&utm_medium=ppc&utm_source=google&utm_source=adwords&utm_term=) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-02-06_uptick-in-saudi-vlcc-voyages-to-india-and-china-could-continue_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_758612ca72d8.png)
 
 Data Source:[Vortexa](https://www.vortexa.com//oil-gas-data-traders-analysts-data-scientists?gclid=Cj0KCQjw8_qRBhCXARIsAE2AtRZKOvMnbilZ_6_91d7huSFFy71pWLrnPwGwOHVzXsmsG-1a1mZnQw8aAt89EALw_wcB&hsa_acc=1782073842&hsa_ad=548425387665&hsa_cam=14746637662&hsa_grp=125038601902&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_src=g&hsa_tgt=dsa-1431852288425&hsa_ver=3&utm_campaign=%5BCD%5D%20-%20DSA%20-%20EMEA&utm_medium=cpc&utm_medium=ppc&utm_source=google&utm_source=adwords&utm_term=)
 

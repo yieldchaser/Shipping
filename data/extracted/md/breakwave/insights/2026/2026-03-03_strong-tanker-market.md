@@ -20,11 +20,11 @@ source_file: "corpus/03-breakwave/insights/2026/2026-03-03_strong-tanker-market.
 
 ---
 
-![Byeirini Diamantara&dimitris Roumeliotis](assets/2026-03-03_strong-tanker-market_img_pexels-irfansimsar-32237794_db192a8b3bc9.jpg)
+![Byeirini Diamantara&dimitris Roumeliotis](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-03-03_strong-tanker-market_img_pexels-irfansimsar-32237794_db192a8b3bc9.jpg)
 
 > **Figure 1: Byeirini Diamantara&dimitris Roumeliotis**  
 > *ByEirini Diamantara&Dimitris Roumeliotis*  
-> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/in/eirini-diamantara-58b269105/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-03-03_strong-tanker-market_img_pexels-irfansimsar-32237794_db192a8b3bc9.jpg)
+> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/in/eirini-diamantara-58b269105/) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-03-03_strong-tanker-market_img_pexels-irfansimsar-32237794_db192a8b3bc9.jpg)
 
 The crude tanker tape has shifted from strong to structurally tight in a matter of weeks. As of late February, Baltic TCEs are printing at roughly USD 78k/day for Aframax, USD 129k/day for Suezmax and USD 177k/day for VLCCs, levels that historically coincide with geopolitical stress rather than seasonal strength. The key message for S&P is not the spike itself, but what it signals: effective supply of compliant tonnage is significantly smaller than headline fleet numbers imply.
 

@@ -50,10 +50,10 @@ However, despite the eerie echoes of 2008, we don’t believe we are in a Lehman
 
 But last year proved to be apocalyptic for the bond market, which registered its biggest drop in 40 years. Steep rate hikes meant huge losses, especially for longer-dated bonds (shorter-dated tend to have less volatility).
 
-![Market Chart 1](assets/2023-03-14_mazars-comment-svb-is-not-a-lehman-moment-and-probably-wont-become-one_img_image00428429_92633f776567.jpg)
+![Market Chart 1](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-03-14_mazars-comment-svb-is-not-a-lehman-moment-and-probably-wont-become-one_img_image00428429_92633f776567.jpg)
 
 > **Figure 1: Market Chart 1**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-03-14_mazars-comment-svb-is-not-a-lehman-moment-and-probably-wont-become-one_img_image00428429_92633f776567.jpg)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-03-14_mazars-comment-svb-is-not-a-lehman-moment-and-probably-wont-become-one_img_image00428429_92633f776567.jpg)
 
 This meant a lot of “mark-to-market” losses for banks holding those bonds. But under post-2008 rules, if one holds a bond to maturity they don’t have to write the asset down. These count as “unrealised losses”.
 
@@ -65,10 +65,10 @@ So they started withdrawing their money. As more and more did that, the bank fac
 
 The FDIC stepped in late on Friday, and now the bank is under administration. The US Banking index had two of its worst days in years.
 
-![Market Chart 2](assets/2023-03-14_mazars-comment-svb-is-not-a-lehman-moment-and-probably-wont-become-one_img_image00528629_ae8d109adeea.jpg)
+![Market Chart 2](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-03-14_mazars-comment-svb-is-not-a-lehman-moment-and-probably-wont-become-one_img_image00528629_ae8d109adeea.jpg)
 
 > **Figure 2: Market Chart 2**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-03-14_mazars-comment-svb-is-not-a-lehman-moment-and-probably-wont-become-one_img_image00528629_ae8d109adeea.jpg)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-03-14_mazars-comment-svb-is-not-a-lehman-moment-and-probably-wont-become-one_img_image00528629_ae8d109adeea.jpg)
 
 But this is not a Lehman moment. If one is desperately looking for an analogy, it’s probably a Bear Sterns moment. If handled properly, risks should not pile up.
 

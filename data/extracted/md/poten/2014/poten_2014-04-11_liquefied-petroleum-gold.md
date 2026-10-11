@@ -28,10 +28,18 @@ While the increase in freight rates is directly linked to the present shortage o
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: Liquefied Petroleum Gold](../../../charts/poten/2014/poten_2014-04-11_liquefied-petroleum-gold_chart1.png)
+![Exhibit 1: VLGC Spot Rates - Arabian Gulf - Japan](../../../charts/poten/2014/poten_2014-04-11_liquefied-petroleum-gold_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2014/poten_2014-04-11_liquefied-petroleum-gold_chart1.png)
+> **Exhibit 1: VLGC Spot Rates - Arabian Gulf - Japan**  
+> Unit: Per MT · X-axis: Jan to Dec  
+> Series: 2009, 2010, 2011, 2012, 2013, 2014  
+> *Source: Poten*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2014/poten_2014-04-11_liquefied-petroleum-gold_chart1.png)
 
-![Exhibit 2: Liquefied Petroleum Gold](../../../charts/poten/2014/poten_2014-04-11_liquefied-petroleum-gold_chart2.png)
+![Exhibit 2: VLGC Fleet](../../../charts/poten/2014/poten_2014-04-11_liquefied-petroleum-gold_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2014/poten_2014-04-11_liquefied-petroleum-gold_chart2.png)
+> **Exhibit 2: VLGC Fleet**  
+> Unit: No. Vessels · X-axis: 1980 to 2017  
+> Series: Existing Fleet, Orderbook, Options  
+> *Source: Poten*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2014/poten_2014-04-11_liquefied-petroleum-gold_chart2.png)

@@ -42,64 +42,64 @@ In terms of geopolitics (Venezuela, Iran), it has been one of the most interesti
 
 Yet, markets seem unfazed by these events. Are our portfolios oblivious to rising risks as the world becomes evidently more unstable? Stocks have been going up since the back end of 2025
 
-![Market Chart 1](assets/2026-01-14_geopolitics-matter-for-businesses-the-fed-matters-for-portfolios_img_image009_fe8b567f8d48.jpg)
+![Market Chart 1](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-01-14_geopolitics-matter-for-businesses-the-fed-matters-for-portfolios_img_image009_fe8b567f8d48.jpg)
 
 > **Figure 1: Market Chart 1**  
-> **Interactive Data & Source:** [Newyorkfed](https://www.newyorkfed.org/markets/domestic-market-operations/monetary-policy-implementation/treasury-securities/treasury-securities-operational-details#:~:text=Based%20on%20the%20December%2010,and%2C%20if%20needed%2C%20other%20Treasury) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-01-14_geopolitics-matter-for-businesses-the-fed-matters-for-portfolios_img_image009_fe8b567f8d48.jpg)
+> **Interactive Data & Source:** [Newyorkfed](https://www.newyorkfed.org/markets/domestic-market-operations/monetary-policy-implementation/treasury-securities/treasury-securities-operational-details#:~:text=Based%20on%20the%20December%2010,and%2C%20if%20needed%2C%20other%20Treasury) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-01-14_geopolitics-matter-for-businesses-the-fed-matters-for-portfolios_img_image009_fe8b567f8d48.jpg)
 
 while the US Federal Reserve is once again buying securities in the open market, to[make sure that market turbulence](https://www.newyorkfed.org/markets/domestic-market-operations/monetary-policy-implementation/treasury-securities/treasury-securities-operational-details#:~:text=Based%20on%20the%20December%2010,and%2C%20if%20needed%2C%20other%20Treasury), as it stabilises its reserves, remains well managed (to be sure, this is risk management, not Quantitative Easing, as reserves may drop as well as rise).
 
-![Market Chart 2](assets/2026-01-14_geopolitics-matter-for-businesses-the-fed-matters-for-portfolios_img_image010_efaee7357e05.jpg)
+![Market Chart 2](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-01-14_geopolitics-matter-for-businesses-the-fed-matters-for-portfolios_img_image010_efaee7357e05.jpg)
 
 > **Figure 2: Market Chart 2**  
-> **Interactive Data & Source:** [Cfobrew](https://www.cfobrew.com/stories/2026/01/06/how-cfos-should-be-approaching-tariffs-in-2026) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-01-14_geopolitics-matter-for-businesses-the-fed-matters-for-portfolios_img_image010_efaee7357e05.jpg)
+> **Interactive Data & Source:** [Cfobrew](https://www.cfobrew.com/stories/2026/01/06/how-cfos-should-be-approaching-tariffs-in-2026) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-01-14_geopolitics-matter-for-businesses-the-fed-matters-for-portfolios_img_image010_efaee7357e05.jpg)
 
 A weak employment market suggests that the Fed will also continue to cut rates in 2026, possibly more than once, as it has previously suggested.
 
-![Market Chart 3](assets/2026-01-14_geopolitics-matter-for-businesses-the-fed-matters-for-portfolios_img_image011_58e94857f443.jpg)
+![Market Chart 3](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-01-14_geopolitics-matter-for-businesses-the-fed-matters-for-portfolios_img_image011_58e94857f443.jpg)
 
 > **Figure 3: Market Chart 3**  
-> **Interactive Data & Source:** [Cfobrew](https://www.cfobrew.com/stories/2026/01/06/how-cfos-should-be-approaching-tariffs-in-2026) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-01-14_geopolitics-matter-for-businesses-the-fed-matters-for-portfolios_img_image011_58e94857f443.jpg)
+> **Interactive Data & Source:** [Cfobrew](https://www.cfobrew.com/stories/2026/01/06/how-cfos-should-be-approaching-tariffs-in-2026) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-01-14_geopolitics-matter-for-businesses-the-fed-matters-for-portfolios_img_image011_58e94857f443.jpg)
 
 The equity market is, probably for the right reasons, more optimistic about the potential for AI adoption in 2026, than it is worried about consequences from geopolitics. The bond market, the place to gauge such risks, is slightly more negative, but not emitting an SOS just yet.
 
-![Market Chart 4](assets/2026-01-14_geopolitics-matter-for-businesses-the-fed-matters-for-portfolios_img_image012_7d087b79376d.jpg)
+![Market Chart 4](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-01-14_geopolitics-matter-for-businesses-the-fed-matters-for-portfolios_img_image012_7d087b79376d.jpg)
 
 > **Figure 4: Market Chart 4**  
-> **Interactive Data & Source:** [Cfobrew](https://www.cfobrew.com/stories/2026/01/06/how-cfos-should-be-approaching-tariffs-in-2026) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-01-14_geopolitics-matter-for-businesses-the-fed-matters-for-portfolios_img_image012_7d087b79376d.jpg)
+> **Interactive Data & Source:** [Cfobrew](https://www.cfobrew.com/stories/2026/01/06/how-cfos-should-be-approaching-tariffs-in-2026) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-01-14_geopolitics-matter-for-businesses-the-fed-matters-for-portfolios_img_image012_7d087b79376d.jpg)
 
 Still, my economic brain can’t relax. Last year’s trade war should have wrought much worse outcomes for the global economy than it did. The variable that changed the equation was a 25% drop in oil prices, courtesy of Saudi Arabia who found its way back into America’s good graces. Lower inflation, coupled with AI investment, helped keep real growth above projections. Yet the oil disinflation boon begins to run out after this January, and could significantly dissipate after June, unless oil drops below $55.
 
-![Market Chart 5](assets/2026-01-14_geopolitics-matter-for-businesses-the-fed-matters-for-portfolios_img_image013_63fce3bb6cc9.jpg)
+![Market Chart 5](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-01-14_geopolitics-matter-for-businesses-the-fed-matters-for-portfolios_img_image013_63fce3bb6cc9.jpg)
 
 > **Figure 5: Market Chart 5**  
-> **Interactive Data & Source:** [Cfobrew](https://www.cfobrew.com/stories/2026/01/06/how-cfos-should-be-approaching-tariffs-in-2026) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-01-14_geopolitics-matter-for-businesses-the-fed-matters-for-portfolios_img_image013_63fce3bb6cc9.jpg)
+> **Interactive Data & Source:** [Cfobrew](https://www.cfobrew.com/stories/2026/01/06/how-cfos-should-be-approaching-tariffs-in-2026) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-01-14_geopolitics-matter-for-businesses-the-fed-matters-for-portfolios_img_image013_63fce3bb6cc9.jpg)
 
 Adding to inflation worries is China, which is seeing a resurgence in inflation. Producer prices are still negative year-on-year, but they have been rising in the past few months.
 
-![Market Chart 6](assets/2026-01-14_geopolitics-matter-for-businesses-the-fed-matters-for-portfolios_img_image014_ac8dc381ce58.jpg)
+![Market Chart 6](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-01-14_geopolitics-matter-for-businesses-the-fed-matters-for-portfolios_img_image014_ac8dc381ce58.jpg)
 
 > **Figure 6: Market Chart 6**  
-> **Interactive Data & Source:** [Cfobrew](https://www.cfobrew.com/stories/2026/01/06/how-cfos-should-be-approaching-tariffs-in-2026) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-01-14_geopolitics-matter-for-businesses-the-fed-matters-for-portfolios_img_image014_ac8dc381ce58.jpg)
+> **Interactive Data & Source:** [Cfobrew](https://www.cfobrew.com/stories/2026/01/06/how-cfos-should-be-approaching-tariffs-in-2026) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-01-14_geopolitics-matter-for-businesses-the-fed-matters-for-portfolios_img_image014_ac8dc381ce58.jpg)
 
 Companies may also want to increase the amount of tariffs they pass on to their customers, as their pre-tariff inventories run out. Morgan Stanley, Goldman Sachs and other investment firms have said that their thesis for 2026 is that prices will increase as consumers will be called upon to pay more than[37% of the cost of tariffs](https://www.cfobrew.com/stories/2026/01/06/how-cfos-should-be-approaching-tariffs-in-2026), which they did in 2025.
 
 Of course, to be clear, there remains one big disinflationary force: lower employment in the United States. Despite the Trade War, we feel that a jobless boom will likely not be an inflationary boom.
 
-![Market Chart 7](assets/2026-01-14_geopolitics-matter-for-businesses-the-fed-matters-for-portfolios_img_image015_8618944c9f8c.jpg)
+![Market Chart 7](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-01-14_geopolitics-matter-for-businesses-the-fed-matters-for-portfolios_img_image015_8618944c9f8c.jpg)
 
 > **Figure 7: Market Chart 7**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-01-14_geopolitics-matter-for-businesses-the-fed-matters-for-portfolios_img_image015_8618944c9f8c.jpg)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-01-14_geopolitics-matter-for-businesses-the-fed-matters-for-portfolios_img_image015_8618944c9f8c.jpg)
 
 And disruptions due to protests in Iran and instability in Venezuela could, in the short term, cause some turbulence in oil prices. But that’s hardly a long-term argument for higher oil prices. In Iran, either protests die down, and oil production returns to normal, or they succeed, and a new regime rises, which will likely need more oil revenue to stabilise itself. Venezuela knows, under any regime, that after years of economic hardship, a way needs to be found for the economy to enjoy healthy profits from oil. At any rate, oil will eventually flow, which seems to be Washington’s singular goal, in its pursuit of a manufacturing renaissance and a win in the battle for AI dominance.
 
 While more oil flowing eventually from Venezuela and possibly Iran is good news, OPEC+ could still regulate the flow of the bulk of oil to make sure prices don’t drop much further than this. Stripping for inflation, oil has been trading around $22 /barrel since the 1970s. It is now trading at $17.7. Going lower, which is the only way it could further disinflate the world after June, could become troublesome for oil economies, including Texas’s.
 
-![Similarly](assets/2026-01-14_geopolitics-matter-for-businesses-the-fed-matters-for-portfolios_img_image016_c17996c7564c.jpg)
+![Similarly](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-01-14_geopolitics-matter-for-businesses-the-fed-matters-for-portfolios_img_image016_c17996c7564c.jpg)
 
 > **Figure 8: Similarly**  
 > *Similarly, it’s easy to worry about the White House subjugating the Fed, stoking up inflation and causing a melt-up in long-term yields. On Sunday 11 January, the Fed Chair Jerome Powell said that the central bank had been handed subpoenas over from the Department of Justice over the cost of its renovations. He said: “The threat of criminal charges is a consequence of the Federal Reserve setting interest rates based on our best assessment of what will serve the public, rather than following the preferences of the President.”At the time of writing, large-cap futures and the Dollar were down and gold was up, as the first reaction was a “risk off”. Portfolios tend to react to the Fed, much more than they do to geopolitics.*  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-01-14_geopolitics-matter-for-businesses-the-fed-matters-for-portfolios_img_image016_c17996c7564c.jpg)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-01-14_geopolitics-matter-for-businesses-the-fed-matters-for-portfolios_img_image016_c17996c7564c.jpg)
 
 “How would that work” Ben wondered, returning to our original point. How would all this disruption really hurt oil prices? Higher producer inflation out of China can be balanced against possibly a higher output from Venezuela, or Saudi Arabia regulating prices to remain close to their present levels. Short-term disruptions can be dealt with. The possible regime change in two countries hostile to the global economic order is actually the best geopolitical news in years.
 

@@ -60,6 +60,20 @@ It is true that world oil inventories have increased in the last seven years. Ho
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: Crude Inventories - Friend or Foe to Tankers?](../../../charts/poten/2005/poten_2005-02-25_crude-inventories-friend-or-foe-to-tankers_chart1.png)
+> **Chart on PDF page 2: World Oil Inventories On Land Commercial**  
+> Unit: MM Bbls | Days · X-axis: 1997 to 2004  
+> Series: OECD Pacific Days, Western Europe Days, North America Days, OECD Pacific Inv, Western Europe Inv, North America Inv  
+> *Source: OPEC/Poten*  
+> *No image crop of this chart was saved; caption read from the PDF.*
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2005/poten_2005-02-25_crude-inventories-friend-or-foe-to-tankers_chart1.png)
+> **Chart on PDF page 3: World Oil Inventories Strategic Petroleum Reserves**  
+> Unit: MM Bbls | Days · X-axis: 1997 to 2004  
+> Series: OECD Pacific Days, Western Europe Days, North America Days, OECD Pacific Inv, Western Europe Inv, North America Inv  
+> *Source: OPEC/Poten*  
+> *No image crop of this chart was saved; caption read from the PDF.*
+
+> **Chart on PDF page 4: Total World Oil Inventories**  
+> Unit: MM Bbls | Days · X-axis: 1997 to 2004  
+> Series: Days of Inventory, Inv On Land, Inv On the Water  
+> *Source: OPEC/Poten*  
+> *No image crop of this chart was saved; caption read from the PDF.*

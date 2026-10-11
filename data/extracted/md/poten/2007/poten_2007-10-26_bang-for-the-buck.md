@@ -44,6 +44,8 @@ It is difficult to see this situation changing. In fact our view would be that t
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: Bang for the Buck](../../../charts/poten/2007/poten_2007-10-26_bang-for-the-buck_chart1.png)
-
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2007/poten_2007-10-26_bang-for-the-buck_chart1.png)
+> **Chart on PDF page 1: Asset Prices and Exchange Rates**  
+> Unit: $/Won | $ Million · X-axis: Jan-02 to Jan-07  
+> Series: Won/$, VLCC NB Price ($)  
+> *Source: Poten & Partners*  
+> *No image crop of this chart was saved; caption read from the PDF.*

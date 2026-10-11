@@ -26,17 +26,17 @@ Overall dry bulk rates increased as we anticipated last week, with only panamax 
 
 As we also have been discussing in our Weekly Dry Bulk Reports, we remain bullish for the dry bulk market. Both China and the world outside of China continue to show important signs of industrial growth, and remaining particularly helpful is that steel production outside of China has continued to strengthen and enjoy long-awaited growth. Most recently, steel production outside of China totaled approximately 70.9 million tons in January, which has marked a month-on-month increase of 2.6 million tons (4%) and a year-on-year increase of 5.1 million tons (8%). Steel production outside of China has now increased on a year-on-year basis for five straight months, with the growth particularly robust during each of the last three months.
 
-![241](assets/2024-02-29_june-inflection-point-remains-significant_img_241_09c167e093b1.jpg)
+![241](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-02-29_june-inflection-point-remains-significant_img_241_09c167e093b1.jpg)
 
 > **Figure 1: 241**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-02-29_june-inflection-point-remains-significant_img_241_09c167e093b1.jpg)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-02-29_june-inflection-point-remains-significant_img_241_09c167e093b1.jpg)
 
 As we have been stressing in our Weekly Dry Bulk Reports, June last year saw an inflection point of sorts as there was finally growth in steel production outside of China. Prior to June, steel production outside of China had fallen on a year-on-year basis for fifteen straight months (during those fifteen months, production outside of China contracted year-on-year by 77 million tons). The turnaround in the market has not only continued but has also intensified.
 
-![242](assets/2024-02-29_june-inflection-point-remains-significant_img_242_3f0cbbcfb739.jpg)
+![242](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-02-29_june-inflection-point-remains-significant_img_242_3f0cbbcfb739.jpg)
 
 > **Figure 2: 242**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-02-29_june-inflection-point-remains-significant_img_242_3f0cbbcfb739.jpg)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-02-29_june-inflection-point-remains-significant_img_242_3f0cbbcfb739.jpg)
 
 ---
 

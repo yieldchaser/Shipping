@@ -24,10 +24,10 @@ source_file: "corpus/03-breakwave/insights/2025/2025-02-10_the-big-picture-maxim
 
 Trump said this week that he wants to make a deal with Iran rather than return to his policy of ‘maximum pressure’. Maximum pressure aims to restrict Iran’s oil exports. Combined with the threat of tariffs on China, it could succeed. A deal, on the other hand, could boost Iran’s oil exports and deliver its massive shadow fleet to the scrap yard. Which scenario would be better for tanker demand?
 
-![F3f1 Image 0 1738949748957](assets/2025-02-10_the-big-picture-maximum-uncertainty_img_f3f1-image-0-1738949748957_902b3eb5dc2d.png)
+![F3f1 Image 0 1738949748957](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-02-10_the-big-picture-maximum-uncertainty_img_f3f1-image-0-1738949748957_902b3eb5dc2d.png)
 
 > **Figure 1: F3f1 Image 0 1738949748957**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-02-10_the-big-picture-maximum-uncertainty_img_f3f1-image-0-1738949748957_902b3eb5dc2d.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-02-10_the-big-picture-maximum-uncertainty_img_f3f1-image-0-1738949748957_902b3eb5dc2d.png)
 
 ### If Iran’s Crude Exports Drop to Zero…
 
@@ -39,10 +39,10 @@ Replacing all Iranian crude exports to China with barrels from elsewhere in the 
 
 But the loss in utilisation for smaller ships would be a small price to pay for the additional demand for compliant VLCCs. Only a handful of the 126 different VLCCs 17 years old or older (14% of the VLCC fleet) used in last year’s Iranian crude trade would find employment doing anything but floating storage if Iran’s exports were to dry up. This would reduce their useful capacity to move oil. They would be joined by a further 27 VLCCs that turn 17 this year, 37 VLCCs next year and 51 VLCCs in 2026 . This scenario would be strongly bullish for VLCCs. But of course, the longer the loss of Iranian exports is sustained, the tighter oil supply would become, leading to oil price volatility, and potentially slowing oil demand growth.
 
-![86bc Image 1 1738949811416](assets/2025-02-10_the-big-picture-maximum-uncertainty_img_86bc-image-1-1738949811416_06d9c769162c.png)
+![86bc Image 1 1738949811416](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-02-10_the-big-picture-maximum-uncertainty_img_86bc-image-1-1738949811416_06d9c769162c.png)
 
 > **Figure 2: 86bc Image 1 1738949811416**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-02-10_the-big-picture-maximum-uncertainty_img_86bc-image-1-1738949811416_06d9c769162c.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-02-10_the-big-picture-maximum-uncertainty_img_86bc-image-1-1738949811416_06d9c769162c.png)
 
 ### If No Change in Iran’s Crude Exports…
 
@@ -54,10 +54,10 @@ If Iranian flows revert to 2024 levels, the trade will continue to allow the mas
 
 Trump will drop his policy of maximum pressure once he feels Iran has been, or has committed to become, de-fanged. Trump is targeting not just Iran’s nuclear ambitions, but also its ballistic and conventional weaponry. His goal is a new deal to replace the one he pulled the US out of during his first term. Iranian politicians, humbled perhaps by the recent collapse of the country’s ‘axis of resistance’, have signalled some willingness to talk. If a deal can be struck soon, VLCCs would benefit from a shift away from the shadow fleet as Iran emerges from the shadows. Furthermore, they would gain from planned increases in exports as Iran slowly ramps up its crude production. Iran pumped roughly 3.2 m b/d of crude and condensates in November. It aims to raise that by 200k b/d in March this year, and another 400k b/d next year, assuming of course it can find the buyers.
 
-![A44b Image 2 1738949896413](assets/2025-02-10_the-big-picture-maximum-uncertainty_img_a44b-image-2-1738949896413_ff20581299de.png)
+![A44b Image 2 1738949896413](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-02-10_the-big-picture-maximum-uncertainty_img_a44b-image-2-1738949896413_ff20581299de.png)
 
 > **Figure 3: A44b Image 2 1738949896413**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-02-10_the-big-picture-maximum-uncertainty_img_a44b-image-2-1738949896413_ff20581299de.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-02-10_the-big-picture-maximum-uncertainty_img_a44b-image-2-1738949896413_ff20581299de.png)
 
 ---
 

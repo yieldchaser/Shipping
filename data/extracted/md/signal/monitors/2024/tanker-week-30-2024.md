@@ -29,10 +29,10 @@ tags:
 ## This Week's Chart Underscores Signs of a Slight Upward Movement in the Growth of Dirty VLCC Tonne Days From the Arabian Gulf to the Far East, Rebounding From the Bottom Low Seen at the Beginning of July. This Positive Trend Is Mirrored in WS Rates for the MEG-China Route, Which Recorded an Uptick This Week. While This Development Is Encouraging, It Remains to Be Seen If the Supply-Demand Dynamics Will Further Enhance the Recent Freight Market Sentiment. We Are Actively Tracking the Correlation Between Vessel Availability and Cargo Demand to Better Anticipate Emerging Trends, Which Is Reflected in Ourvlcc Insights Dashboard.
 
 
-![66a38f9d030394320602d19e 66a38f590b19d58cad20d24a Chart%20of%20the%20week%20tanker](../../images/66a38f9d030394320602d19e_66a38f590b19d58cad20d24a_chart%20of%20the%20week%20tanker.avif)
+![66a38f9d030394320602d19e 66a38f590b19d58cad20d24a Chart%20of%20the%20week%20tanker](../../images/66a38f9d030394320602d19e_66a38f590b19d58cad20d24a_chart%2520of%2520the%2520week%2520tanker.avif)
 
 > **Figure 1: 66a38f9d030394320602d19e 66a38f590b19d58cad20d24a Chart%20of%20the%20week%20tanker**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/tanker-week-30-2024) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/66a38f9d030394320602d19e_66a38f590b19d58cad20d24a_chart%20of%20the%20week%20tanker.avif)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/tanker-week-30-2024) | [Local Asset](../../../../../../corpus/07-signal/images/66a38f9d030394320602d19e_66a38f590b19d58cad20d24a_chart%2520of%2520the%2520week%2520tanker.avif)
 
 As July concludes, there are indications of a more robust VLCC freight market. A steady upward trend in the growth of dirty tonne days from the AG to the Far East suggests potential further improvements in the coming days. Although the current levels do not yet match the strong demand growth experienced in the first quarter of the year, positive developments are evident. Notably, the recent decline in vessel counts at AG Ras Tanura is expected to support the recent uptick in freight rates.
 

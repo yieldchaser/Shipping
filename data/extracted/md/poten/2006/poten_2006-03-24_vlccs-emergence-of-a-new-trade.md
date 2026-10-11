@@ -70,6 +70,20 @@ Note: This week's Opinion draws on a Special Feature in Poten's monthly multi-cl
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: VLCCs - Emergence of a New Trade](../../../charts/poten/2006/poten_2006-03-24_vlccs-emergence-of-a-new-trade_chart1.png)
+> **Chart on PDF page 1: Economic Growth and Fuel Oil Consumption China**  
+> Unit: Percent | MM Tons · X-axis: 1998 to 2005  
+> Series: Economic Growth, Fuel Oil Consumption  
+> *Source: Poten & Partners*  
+> *No image crop of this chart was saved; caption read from the PDF.*
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2006/poten_2006-03-24_vlccs-emergence-of-a-new-trade_chart1.png)
+> **Chart on PDF page 2: Fuel Oil Imports and Exports China**  
+> Unit: MM Tons · X-axis: 1998 to 2005  
+> Series: Exports, Imports  
+> *Source: Poten & Partners*  
+> *No image crop of this chart was saved; caption read from the PDF.*
+
+> **Chart on PDF page 3: Fuel Oil Exports Russia**  
+> Unit: MM Tons · X-axis: 1998 to 2004  
+> Series: Baltic Sea, Black Sea  
+> *Source: Poten & Partners*  
+> *No image crop of this chart was saved; caption read from the PDF.*

@@ -28,15 +28,15 @@ Brazil’s corn trades have experienced significant re-routing over the last two
 
 In 2023/24 (March-February), China was the dominant export market for Brazil’s corn, taking 16.5m tonnes of a 54.0m tonne total. For comparison, the second-largest destination that year, Japan, received fewer than 5m tonnes.
 
-![A368 Image 0 1758624425199](assets/2025-09-25_how-will-brazils-corn-trades-affect-panamax-and-geared-bulker-demand_img_a368-image-0-1758624425199_6ae6c5418ca7.png)
+![A368 Image 0 1758624425199](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-09-25_how-will-brazils-corn-trades-affect-panamax-and-geared-bulker-demand_img_a368-image-0-1758624425199_6ae6c5418ca7.png)
 
 > **Figure 1: A368 Image 0 1758624425199**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-09-25_how-will-brazils-corn-trades-affect-panamax-and-geared-bulker-demand_img_a368-image-0-1758624425199_6ae6c5418ca7.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-09-25_how-will-brazils-corn-trades-affect-panamax-and-geared-bulker-demand_img_a368-image-0-1758624425199_6ae6c5418ca7.png)
 
-![1911 Image 1 1758624437686](assets/2025-09-25_how-will-brazils-corn-trades-affect-panamax-and-geared-bulker-demand_img_1911-image-1-1758624437686_7d20cd3483e7.png)
+![1911 Image 1 1758624437686](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-09-25_how-will-brazils-corn-trades-affect-panamax-and-geared-bulker-demand_img_1911-image-1-1758624437686_7d20cd3483e7.png)
 
 > **Figure 2: 1911 Image 1 1758624437686**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-09-25_how-will-brazils-corn-trades-affect-panamax-and-geared-bulker-demand_img_1911-image-1-1758624437686_7d20cd3483e7.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-09-25_how-will-brazils-corn-trades-affect-panamax-and-geared-bulker-demand_img_1911-image-1-1758624437686_7d20cd3483e7.png)
 
 Then, in 2024/25, the Brazil-China corn trade slumped to 1.1m tonnes, and Brazil’s corn export total (to all markets) dropped almost 30% to 38.2m tonnes.
 
@@ -52,19 +52,19 @@ Our second chart, left, outlines Brazil’s corn trades by destination and vesse
 
 In summary, voyages to Asia from Brazil are predominantly Panamax (defined here as 70-99.9k dwt), whereas the Supra/Ultramax fleet (45-99.9k dwt) is the largest individual sector involved in the trade to North Africa.
 
-![2e2f Image 2 1758624461128](assets/2025-09-25_how-will-brazils-corn-trades-affect-panamax-and-geared-bulker-demand_img_2e2f-image-2-1758624461128_813c9175d481.png)
+![2e2f Image 2 1758624461128](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-09-25_how-will-brazils-corn-trades-affect-panamax-and-geared-bulker-demand_img_2e2f-image-2-1758624461128_813c9175d481.png)
 
 > **Figure 3: 2e2f Image 2 1758624461128**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-09-25_how-will-brazils-corn-trades-affect-panamax-and-geared-bulker-demand_img_2e2f-image-2-1758624461128_813c9175d481.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-09-25_how-will-brazils-corn-trades-affect-panamax-and-geared-bulker-demand_img_2e2f-image-2-1758624461128_813c9175d481.png)
 
 In place of Northeast Asia, other countries have assumed more importance for Brazil’s corn exporters. Together, Egypt, Iran and Vietnam (the three largest buyers) made up more than 40% of last year’s shipments.
 
 Brazilian corn shipments to the EU have a more even split by vessel size (60% Panamax; 40% geared bulker by cargo volume). The EU, and Spain in particular, is important for Brazil’s corn exporters.
 
-![Ac72 Image 3 1758624477918](assets/2025-09-25_how-will-brazils-corn-trades-affect-panamax-and-geared-bulker-demand_img_ac72-image-3-1758624477918_ae12ebeebce5.png)
+![Ac72 Image 3 1758624477918](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-09-25_how-will-brazils-corn-trades-affect-panamax-and-geared-bulker-demand_img_ac72-image-3-1758624477918_ae12ebeebce5.png)
 
 > **Figure 4: Ac72 Image 3 1758624477918**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-09-25_how-will-brazils-corn-trades-affect-panamax-and-geared-bulker-demand_img_ac72-image-3-1758624477918_ae12ebeebce5.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-09-25_how-will-brazils-corn-trades-affect-panamax-and-geared-bulker-demand_img_ac72-image-3-1758624477918_ae12ebeebce5.png)
 
 Volumes from Brazil to the EU remain below previous peaks owing to competition from Ukraine and the US (incidentally, the IGC adds that increased US price competitiveness has been a factor behind the downturn in Brazil’s corn exports to Japan, so creating more Panamax employment in the Pacific instead).
 

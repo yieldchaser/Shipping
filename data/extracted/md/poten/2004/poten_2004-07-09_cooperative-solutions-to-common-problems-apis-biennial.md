@@ -44,14 +44,10 @@ We feel that API's tanker conferences provides an effective forum for discussing
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: Cooperative Solutions to Common Problems API's Biennial Tanker Conference](../../../charts/poten/2004/poten_2004-07-09_cooperative-solutions-to-common-problems-apis-biennial_chart1.png)
-
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2004/poten_2004-07-09_cooperative-solutions-to-common-problems-apis-biennial_chart1.png)
-
 ![Exhibit 2: Cooperative Solutions to Common Problems API's Biennial Tanker Conference](../../../charts/poten/2004/poten_2004-07-09_cooperative-solutions-to-common-problems-apis-biennial_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2004/poten_2004-07-09_cooperative-solutions-to-common-problems-apis-biennial_chart2.png)
+> **Interactive Asset:** [Local Asset (200 DPI PNG)](../../../charts/poten/2004/poten_2004-07-09_cooperative-solutions-to-common-problems-apis-biennial_chart2.png)
 
 ![Exhibit 3: Cooperative Solutions to Common Problems API's Biennial Tanker Conference](../../../charts/poten/2004/poten_2004-07-09_cooperative-solutions-to-common-problems-apis-biennial_chart3.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2004/poten_2004-07-09_cooperative-solutions-to-common-problems-apis-biennial_chart3.png)
+> **Interactive Asset:** [Local Asset (200 DPI PNG)](../../../charts/poten/2004/poten_2004-07-09_cooperative-solutions-to-common-problems-apis-biennial_chart3.png)

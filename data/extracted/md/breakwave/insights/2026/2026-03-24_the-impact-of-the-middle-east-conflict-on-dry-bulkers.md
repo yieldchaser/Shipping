@@ -20,22 +20,22 @@ source_file: "corpus/03-breakwave/insights/2026/2026-03-24_the-impact-of-the-mid
 
 ---
 
-![Rgb Color Brs Shipbrokers Monogram L](assets/2026-03-24_the-impact-of-the-middle-east-conflict-on-dry-bulkers_img_rgb-color-brs-shipbrokers-monogram-l_c365f35f1de5.png)
+![Rgb Color Brs Shipbrokers Monogram L](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-03-24_the-impact-of-the-middle-east-conflict-on-dry-bulkers_img_rgb-color-brs-shipbrokers-monogram-l_c365f35f1de5.png)
 
 > **Figure 1: Rgb Color Brs Shipbrokers Monogram L**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-03-24_the-impact-of-the-middle-east-conflict-on-dry-bulkers_img_rgb-color-brs-shipbrokers-monogram-l_c365f35f1de5.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-03-24_the-impact-of-the-middle-east-conflict-on-dry-bulkers_img_rgb-color-brs-shipbrokers-monogram-l_c365f35f1de5.png)
 
-![Στιγμιότυπο Οθόνης 2026 03 24 141806](assets/2026-03-24_the-impact-of-the-middle-east-conflict-on-dry-bulkers_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_008943b18c07.png)
+![Στιγμιότυπο Οθόνης 2026 03 24 141806](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-03-24_the-impact-of-the-middle-east-conflict-on-dry-bulkers_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_008943b18c07.png)
 
 > **Figure 2: Στιγμιότυπο Οθόνης 2026 03 24 141806**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-03-24_the-impact-of-the-middle-east-conflict-on-dry-bulkers_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_008943b18c07.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-03-24_the-impact-of-the-middle-east-conflict-on-dry-bulkers_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_008943b18c07.png)
 
 According to AXSMarine data, a total of 338 bulkers has been recorded in the Middle East Gulf. This includes 4 Capesizes, 3 Baby Capesizes, 15 Post-Panamaxes, 71 Panamaxes, 23 Ultramaxes, 44 Supramaxes, 17 Handymaxes, and 62 Handysize units, as well as 161 small bulkers. This situation is contributing to a tightening in vessel supply. As of writing, only one attack on bulkers has been reported, involving a 30,000-dwt vessel.
 
-![Στιγμιότυπο Οθόνης 2026 03 24 141814](assets/2026-03-24_the-impact-of-the-middle-east-conflict-on-dry-bulkers_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_8804166554ad.png)
+![Στιγμιότυπο Οθόνης 2026 03 24 141814](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-03-24_the-impact-of-the-middle-east-conflict-on-dry-bulkers_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_8804166554ad.png)
 
 > **Figure 3: Στιγμιότυπο Οθόνης 2026 03 24 141814**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-03-24_the-impact-of-the-middle-east-conflict-on-dry-bulkers_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_8804166554ad.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-03-24_the-impact-of-the-middle-east-conflict-on-dry-bulkers_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_8804166554ad.png)
 
 ### Immediate Impact
 
@@ -57,10 +57,10 @@ As a side note, the MEG is a vital repositioning region for vessels, connecting 
 
 Should the situation in the Strait persist, the first in the firing line will likely come be UAE exports of limestone and aggregates. The UAE and Oman collectively account for around 75% of global seaborne limestone shipments in 2025.
 
-![Στιγμιότυπο Οθόνης 2026 03 24 141825](assets/2026-03-24_the-impact-of-the-middle-east-conflict-on-dry-bulkers_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_5bd797d75421.png)
+![Στιγμιότυπο Οθόνης 2026 03 24 141825](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-03-24_the-impact-of-the-middle-east-conflict-on-dry-bulkers_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_5bd797d75421.png)
 
 > **Figure 4: Στιγμιότυπο Οθόνης 2026 03 24 141825**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-03-24_the-impact-of-the-middle-east-conflict-on-dry-bulkers_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_5bd797d75421.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-03-24_the-impact-of-the-middle-east-conflict-on-dry-bulkers_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_5bd797d75421.png)
 
 Fertilizers and grains should be the next markets affected. Countries in the MEG are among the world’s key suppliers of fertilizers - especially nitrogen, but also phosphates. Moreover, global energy and agricultural markets are closely interconnected through several channels:
 
@@ -72,19 +72,19 @@ If energy prices remain elevated, these linkages could transmit the shock across
 
 Nitrogen fertilizer production is primarily associated with natural gas while certain biofuels are derived from crops such as soybeans, corn and sugar. In the biofuel sector, the RME index for biodiesel has recently been assessed around $299/t in the physical market, with paper market levels trading between $460–470/t, highlighting the link between geopolitical tensions affecting the agricultural sector and increased emphasis on biodiesel production.
 
-![Στιγμιότυπο Οθόνης 2026 03 24 141835](assets/2026-03-24_the-impact-of-the-middle-east-conflict-on-dry-bulkers_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_da968b47927a.png)
+![Στιγμιότυπο Οθόνης 2026 03 24 141835](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-03-24_the-impact-of-the-middle-east-conflict-on-dry-bulkers_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_da968b47927a.png)
 
 > **Figure 5: Στιγμιότυπο Οθόνης 2026 03 24 141835**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-03-24_the-impact-of-the-middle-east-conflict-on-dry-bulkers_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_da968b47927a.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-03-24_the-impact-of-the-middle-east-conflict-on-dry-bulkers_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_da968b47927a.png)
 
 ### Potential Gas-to-Coal Switching?
 
 Natural gas production disruptions in the region propelled natural gas prices sharply higher. As of writing, the JKM has risen to $25.39/MMBtu from $10.70/MMBtu pre-conflict, while NWE prices have reached approximately $18.93/MMBtu, up nearly 90% over the same period. Considering that 90% of crude exports from Hormuz head eastwards, the impact has been most pronounced in Asia, particularly in China (19.68%), India (11.83%), and Taiwan, China (8.37%).
 
-![Στιγμιότυπο Οθόνης 2026 03 24 141842](assets/2026-03-24_the-impact-of-the-middle-east-conflict-on-dry-bulkers_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_bdd62cd7838b.png)
+![Στιγμιότυπο Οθόνης 2026 03 24 141842](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-03-24_the-impact-of-the-middle-east-conflict-on-dry-bulkers_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_bdd62cd7838b.png)
 
 > **Figure 6: Στιγμιότυπο Οθόνης 2026 03 24 141842**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-03-24_the-impact-of-the-middle-east-conflict-on-dry-bulkers_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_bdd62cd7838b.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-03-24_the-impact-of-the-middle-east-conflict-on-dry-bulkers_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_bdd62cd7838b.png)
 
 In response to tightening energy supply, both European and Japan- South Korea- Taiwan, China markets have begun shifting away from gas and towards alternative energy sources, notably coal. Several countries have already reconsidered coal usage despite long-term decarbonization commitments. This has helped to propel coal process upwards given that it comes soon after the introduction of Indonesia’s RKAB policy aiming to manage production levels there. However, considering the conflict in the Middle East Gulf, the country just announced alterations in their policy in order to response to energy market turmoil. Additionally, Indonesia is planning to imply taxes to exports in order to boost their revenues, followed by the surge in demand.
 

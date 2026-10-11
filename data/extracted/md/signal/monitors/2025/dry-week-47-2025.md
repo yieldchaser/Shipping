@@ -40,10 +40,10 @@ tags:
 ## Spotlight of the Week: Market Pulse | Capesize Freight Market Overview
 
 
-![Spotlight of the Week: Market Pulse | Capesize Freight Market Overview](../../images/6920679bbbc99ee1728b2326_834567f9.png)
+![Spotlight of the Week: Market Pulse | Capesize Freight Market Overview](../../../../../../corpus/07-signal/images/6920679bbbc99ee1728b2326_834567f9.png)
 
 > **Figure 1: Spotlight of the Week: Market Pulse | Capesize Freight Market Overview**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/dry-week-47-2025) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6920679bbbc99ee1728b2326_834567f9.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/dry-week-47-2025) | [Local Asset](../../../../../../corpus/07-signal/images/6920679bbbc99ee1728b2326_834567f9.png)
 
 [https://app.signalocean.com/dry/dynamic/market-prices-dry](https://app.signalocean.com/dry/dynamic/market-prices-dry)
 
@@ -55,11 +55,11 @@ Atlantic Capesize sentiment has strengthened despite high ballast supply, while 
 Over the past month, Atlantic Capesize sentiment has firmed as the ballaster supply picture has tightened. The decline in available ballasters, after the late-summer peak, has helped stabilize freight levels despite ongoing volatility. At the same time, Brazilian iron ore’s position in the Chinese market is facing growing competitive pressure from Simandou’s gradual ramp-up, adding a new layer of uncertainty to C3 flows and rate performance.
 
 
-![Https://app.signalocean.com/dry/dynamic/capesinsightsdownloadable](../../images/6920679bbbc99ee1728b232b_2d6d0b61.png)
+![Https://app.signalocean.com/dry/dynamic/capesinsightsdownloadable](../../../../../../corpus/07-signal/images/6920679bbbc99ee1728b232b_2d6d0b61.png)
 
 > **Figure 2: Https://app.signalocean.com/dry/dynamic/capesinsightsdownloadable**  
 > *https://app.signalocean.com/dry/dynamic/capes_insights_downloadable*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/dry-week-47-2025) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6920679bbbc99ee1728b232b_2d6d0b61.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/dry-week-47-2025) | [Local Asset](../../../../../../corpus/07-signal/images/6920679bbbc99ee1728b232b_2d6d0b61.png)
 
 
 ## West Australia Capesize Daily Volume Loaded
@@ -67,11 +67,11 @@ Over the past month, Atlantic Capesize sentiment has firmed as the ballaster sup
 In the Pacific, C5 sentiment has softened as November’s West Australian daily volumes dipped below the 2.1–2.2 Mt demand range, putting renewed downward pressure on rates.
 
 
-![Https://app.signalocean.com/dry/dynamic/capesinsightsdownloadable](../../images/6920679bbbc99ee1728b2323_fdfe4020.png)
+![Https://app.signalocean.com/dry/dynamic/capesinsightsdownloadable](../../../../../../corpus/07-signal/images/6920679bbbc99ee1728b2323_fdfe4020.png)
 
 > **Figure 3: Https://app.signalocean.com/dry/dynamic/capesinsightsdownloadable**  
 > *https://app.signalocean.com/dry/dynamic/capes_insights_downloadable*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/dry-week-47-2025) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6920679bbbc99ee1728b2323_fdfe4020.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/dry-week-47-2025) | [Local Asset](../../../../../../corpus/07-signal/images/6920679bbbc99ee1728b2323_fdfe4020.png)
 
 The key question is no longer whether Simandou will matter, but how quickly new supply corridors will alter medium and long-term capesize freight demand and vessel utilisation.
 

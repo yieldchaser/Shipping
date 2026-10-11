@@ -28,10 +28,17 @@ When the Strait of Hormuz reopens there will likely be significant catch-up dema
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: Crazy Train](../../../charts/poten/2026/poten_2026-03-27_crazy-train_chart1.png)
+![Exhibit 1: Dirty Tanker Freight Rates in 2026](../../../charts/poten/2026/poten_2026-03-27_crazy-train_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2026/poten_2026-03-27_crazy-train_chart1.png)
+> **Exhibit 1: Dirty Tanker Freight Rates in 2026**  
+> Unit: US$/Ton · X-axis: 1-Jan to 26-Mar  
+> Series: VLCC: USG-FE (270Kt), Suezmax: WAF-UKC (130 Kt), Aframax: Car-USG (70 Kt)  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2026/poten_2026-03-27_crazy-train_chart1.png)
 
-![Exhibit 2: Crazy Train](../../../charts/poten/2026/poten_2026-03-27_crazy-train_chart2.png)
+![Exhibit 2: Clean Tanker Freight Rates in 2026](../../../charts/poten/2026/poten_2026-03-27_crazy-train_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2026/poten_2026-03-27_crazy-train_chart2.png)
+> **Exhibit 2: Clean Tanker Freight Rates in 2026**  
+> Unit: US$/Ton · X-axis: 1-Jan to 26-Mar  
+> Series: MR: Car-USAC (38Kt), MR: USG-UKC (38 Kt), LR1: UKC-USAC (60 Kt)  
+> *Source: Poten & Partners*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2026/poten_2026-03-27_crazy-train_chart2.png)

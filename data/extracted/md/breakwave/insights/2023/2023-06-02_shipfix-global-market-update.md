@@ -53,9 +53,9 @@ Copper prices fell nearly six per cent during the past month. While the prices a
 
 The forward-looking cargo order data indicate that global demand for the red metal has hit a soft patch, with aggregate demand for seaborne transportation below the levels observed earlier in the year. Order volumes remained broadly unchanged month-on-month in May, with a minor increase in cargoes destined for China and a fall in demand from the rest of the world. Still, compared to the same month last year, aggregate order volumes have fallen considerably, with non-Chinese demand slumping. However, with the demand for seaborne transportation of copper to Chinese ports remaining stable, there may be some hope for the country’s manufacturing sector.
 
-![Market Chart 1](assets/2023-06-02_shipfix-global-market-update_img_unnamed-2023-06-02t133046980_bb538669cae1.png)
+![Market Chart 1](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-06-02_shipfix-global-market-update_img_unnamed-2023-06-02t133046980_bb538669cae1.png)
 
 > **Figure 1: Market Chart 1**  
-> **Interactive Data & Source:** [Shipfix](https://shipfix.com/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-06-02_shipfix-global-market-update_img_unnamed-2023-06-02t133046980_bb538669cae1.png)
+> **Interactive Data & Source:** [Shipfix](https://shipfix.com/) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-06-02_shipfix-global-market-update_img_unnamed-2023-06-02t133046980_bb538669cae1.png)
 
 Data Source:[Shipfix](https://shipfix.com/)

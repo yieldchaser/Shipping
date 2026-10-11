@@ -60,10 +60,10 @@ A surge in weekly cargo order volumes during February and March contributed to e
 
 Continued robust cargo order volumes during the past few weeks and a strong start to the current week indicate that sugar prices will continue to retreat. Weekly cargo order volumes also remain well above the levels seen a year ago, suggesting that a repeat of last year’s price spike is looking increasingly unlikely.
 
-![Στιγμιότυπο Οθόνης 2024 05 30 101501](assets/2024-05-30_baltic-dry-index-recorded-a-modest-retreat_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_247e1ed81c2c.png)
+![Στιγμιότυπο Οθόνης 2024 05 30 101501](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-05-30_baltic-dry-index-recorded-a-modest-retreat_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_247e1ed81c2c.png)
 
 > **Figure 1: Στιγμιότυπο Οθόνης 2024 05 30 101501**  
-> **Interactive Data & Source:** [Shipfix](https://shipfix.com/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-05-30_baltic-dry-index-recorded-a-modest-retreat_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_247e1ed81c2c.png)
+> **Interactive Data & Source:** [Shipfix](https://shipfix.com/) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-05-30_baltic-dry-index-recorded-a-modest-retreat_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_247e1ed81c2c.png)
 
 Data Source:[Shipfix](https://shipfix.com/)
 

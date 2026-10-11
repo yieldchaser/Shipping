@@ -34,6 +34,10 @@ Economic growth launched Brazil to the top of the charts from an oil demand pers
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: The World Cup Runneth Over](../../../charts/poten/2014/poten_2014-06-06_the-world-cup-runneth-over_chart1.png)
+![Exhibit 1: Total Reported Spot Fixtures – to Brazil](../../../charts/poten/2014/poten_2014-06-06_the-world-cup-runneth-over_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2014/poten_2014-06-06_the-world-cup-runneth-over_chart1.png)
+> **Exhibit 1: Total Reported Spot Fixtures – to Brazil**  
+> Unit: Million MT · X-axis: 2003 to 2014 YTD  
+> Series: CLN, DTY  
+> *Source: Poten*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2014/poten_2014-06-06_the-world-cup-runneth-over_chart1.png)

@@ -25,11 +25,11 @@ ANALYSIS / EAST OF SUEZ / DIRTY
 
 ## VLCC Rates Pick Up, Is a Rally on the Cards?
 
-![VLCC Tanker Rate Index (Lhs) Vs](assets/2023-06-22_vortexa-freight-weekly_img_unnamed-2023-06-22t155509528_5140419f6328.png)
+![VLCC Tanker Rate Index (Lhs) Vs](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-06-22_vortexa-freight-weekly_img_unnamed-2023-06-22t155509528_5140419f6328.png)
 
 > **Figure 1: VLCC Tanker Rate Index (Lhs) Vs**  
 > *VLCC tanker rate index (LHS) vs. VLCC utilisation ex-West Africa and US Gulf (RHS)*  
-> **Interactive Data & Source:** [Marketingmail Vortexa](https://marketingmail.vortexa.com/ODM3LU1aRS01NzgAAAGMfbMF4JHUEi9-6d_L4eUPppjjVLSLvgWCMRwXxq0fsV8cycqogy5Ua-P4Oc8v0TLDK0Oy0EU=) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-06-22_vortexa-freight-weekly_img_unnamed-2023-06-22t155509528_5140419f6328.png)
+> **Interactive Data & Source:** [Marketingmail Vortexa](https://marketingmail.vortexa.com/ODM3LU1aRS01NzgAAAGMfbMF4JHUEi9-6d_L4eUPppjjVLSLvgWCMRwXxq0fsV8cycqogy5Ua-P4Oc8v0TLDK0Oy0EU=) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-06-22_vortexa-freight-weekly_img_unnamed-2023-06-22t155509528_5140419f6328.png)
 
 - Global VLCC[utilisation](https://marketingmail.vortexa.com/ODM3LU1aRS01NzgAAAGMfbMF4JHUEi9-6d_L4eUPppjjVLSLvgWCMRwXxq0fsV8cycqogy5Ua-P4Oc8v0TLDK0Oy0EU=)has picked up by over 5% in June. This is mostly driven by tanker demand out of the[Atlantic basin](https://marketingmail.vortexa.com/ODM3LU1aRS01NzgAAAGMfbMF6Pg7jAe9UKpdr67Dzi-U6-tdxhp0NAdPkIJlwMx8f8nD6aPM7lNzAfjcwnCasvJ2MY4=)(US Gulf and West Africa) which has risen almost 20% in the same period. Most of these flows are headed to China and South Korea, which is in line with a similar pick up in VLCC freight rates towards East Asia.
 - On the tanker supply side, VLCC[laden](https://marketingmail.vortexa.com/ODM3LU1aRS01NzgAAAGMfbMF4t2jsk0tQKSWmhvCsZm9GnwvDffpqtmE4dhqwmqH7lDxeviYra79DvkcZmvegO9QFnM=)numbers are once again higher than ballast numbers in the tier 1 market. Additionally,[availability](https://marketingmail.vortexa.com/ODM3LU1aRS01NzgAAAGMfbMF4ZTbH1S84rc3XXpaxow8JcbfmRwvGLvj6erqGtORMX69rOXHmUY4aIB7MzoksWsVUoY=)of VLCCs in West Africa remains low, painting a tight tanker supply picture and adding further support for freight rates.
@@ -39,11 +39,11 @@ ANALYSIS / WEST OF SUEZ / DIRTY
 
 ## Aframaxes and Suezmaxes Heading Towards the Mediterranean, But Excess Tonnage Curbs Freight Rate Elevation
 
-![No - Of Aframax & Suezmax Ballasting to Europe (Excl](assets/2023-06-22_vortexa-freight-weekly_img_unnamed-2023-06-22t160025661_c3e3dd8b1bf6.png)
+![No - Of Aframax & Suezmax Ballasting to Europe (Excl](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-06-22_vortexa-freight-weekly_img_unnamed-2023-06-22t160025661_c3e3dd8b1bf6.png)
 
 > **Figure 2: No - Of Aframax & Suezmax Ballasting to Europe (Excl**  
 > *No. of Aframax & Suezmax ballasting to Europe (excl. Russian vessels) vs. TD19 Cross-Mediterranean rates ($/t)*  
-> **Interactive Data & Source:** [Marketingmail Vortexa](https://marketingmail.vortexa.com/ODM3LU1aRS01NzgAAAGMfbMF4dnHccmnhOm8oynvVMiP20gVU4nPDtL-9pg_wEOLGYk2vtLkcfzPXQ9Es8tFthDHV8c=) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-06-22_vortexa-freight-weekly_img_unnamed-2023-06-22t160025661_c3e3dd8b1bf6.png)
+> **Interactive Data & Source:** [Marketingmail Vortexa](https://marketingmail.vortexa.com/ODM3LU1aRS01NzgAAAGMfbMF4dnHccmnhOm8oynvVMiP20gVU4nPDtL-9pg_wEOLGYk2vtLkcfzPXQ9Es8tFthDHV8c=) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-06-22_vortexa-freight-weekly_img_unnamed-2023-06-22t160025661_c3e3dd8b1bf6.png)
 
 - ·Aframax and Suezmax tanker owners are opting to[head towards Europe](https://marketingmail.vortexa.com/ODM3LU1aRS01NzgAAAGMfbMF4dnHccmnhOm8oynvVMiP20gVU4nPDtL-9pg_wEOLGYk2vtLkcfzPXQ9Es8tFthDHV8c=)after discharging their cargo. This is in line with the elevated[Libyan m-o-m exports](https://marketingmail.vortexa.com/ODM3LU1aRS01NzgAAAGMfbMF4NKWIRBRf-bPPIHowOmfx7hVdiK0jWlAmLI4kLa1evWKm9jBqxzRm56poGaodMrF-IY=), according to preliminary June figures.
 - ·Exports might remain at these levels or grow higher as the BTC pipeline has not come online at full operational levels. The accumulation of tonnage in the region has left[Cross-Mediterranean Aframax freight rates](https://marketingmail.vortexa.com/ODM3LU1aRS01NzgAAAGMfbMF4s71Vt4gT-xsn880gqpKQHu4gCmF2BcDaTCu2QJ6HEihvitMato0nS6GsN5baIerUHA=)suppressed, hovering around 1-year lows.

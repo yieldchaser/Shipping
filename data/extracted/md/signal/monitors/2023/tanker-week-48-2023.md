@@ -32,7 +32,7 @@ tags:
 ![6569b3c761c0e4a60a51fc16 Panama Congestion](../../images/6569b3c761c0e4a60a51fc16_PANAMA CONGESTION.png)
 
 > **Figure 1: 6569b3c761c0e4a60a51fc16 Panama Congestion**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/tanker-week-48-2023) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6569b3c761c0e4a60a51fc16_PANAMA CONGESTION.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/tanker-week-48-2023) | [Local Asset](../../../../../../corpus/07-signal/images/6569b3c761c0e4a60a51fc16_PANAMA%20CONGESTION.png)
 
 Sentiment for crude oil freight rates deteriorated in November, which was particularly evident in the weaker trend towards the end of the month. However, there was a glimmer of optimism in the Very Large Crude Carrier (VLCC) segment, supported by a downward trend in supply below the annual average. In particular, the growth rate of VLCC demand in tonne-days recovered in the second half of the month, creating the conditions for more robust momentum in VLCC freight rates at the beginning of December.
 

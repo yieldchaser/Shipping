@@ -27,21 +27,21 @@ As we have been highlighting in our Weekly China Reports since last year, variou
 ![Ch1](assets/2021-09-10_chinas-consumer-market-continues-to-turn-corner_img_ch1_4bebb8e26774.jpg)
 
 > **Figure 1: Ch1**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2021/assets/2021-09-10_chinas-consumer-market-continues-to-turn-corner_img_ch1_4bebb8e26774.jpg)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-09-10_chinas-consumer-market-continues-to-turn-corner_img_ch1_4bebb8e26774.jpg)
 
 Clothing sales (which includes garments, footwear, hats, and knitwear) in China have remained even more positive recently as sales have continued to experience stronger growth. Clothing sales in China in July totaled approximately 94.5 billion yuan, which marks a year-on-year increase of 6%. China’s domestic clothing sales have now grown on a year-on-year basis for twelve consecutive months. Prior to this period, they had contracted on a year-on-year basis during twenty-nine out of the previous thirty months.
 
 ![Ch2](assets/2021-09-10_chinas-consumer-market-continues-to-turn-corner_img_ch2_4733eb2f2bfb.jpg)
 
 > **Figure 2: Ch2**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2021/assets/2021-09-10_chinas-consumer-market-continues-to-turn-corner_img_ch2_4733eb2f2bfb.jpg)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-09-10_chinas-consumer-market-continues-to-turn-corner_img_ch2_4733eb2f2bfb.jpg)
 
 Household appliance sales totaled approximately 74.1 billion yuan in July, which marks a year-on-year increase of 8%. Household appliance sales have now grown grown on a year-on-year basis for ten consecutive months. Prior to this period, household appliance sales had contracted on a year-on-year basis during eight out of the previous twelve months.
 
 ![Ch3](assets/2021-09-10_chinas-consumer-market-continues-to-turn-corner_img_ch3_df3cbd0f6867.jpg)
 
 > **Figure 3: Ch3**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2021/assets/2021-09-10_chinas-consumer-market-continues-to-turn-corner_img_ch3_df3cbd0f6867.jpg)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-09-10_chinas-consumer-market-continues-to-turn-corner_img_ch3_df3cbd0f6867.jpg)
 
 ---
 

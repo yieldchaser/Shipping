@@ -32,10 +32,18 @@ All in all, both the crude and product tanker markets look to benefit as the Uni
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: Make American Oil Great Again](../../../charts/poten/2016/poten_2016-09-23_make-american-oil-great-again_chart1.png)
+![Exhibit 1: U.S. Crude Oil Trade (2014-2040)](../../../charts/poten/2016/poten_2016-09-23_make-american-oil-great-again_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2016/poten_2016-09-23_make-american-oil-great-again_chart1.png)
+> **Exhibit 1: U.S. Crude Oil Trade (2014-2040)**  
+> Unit: Mb/d · X-axis: 2014 to 2040  
+> Series: Imports, Exports  
+> *Source: EIA*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2016/poten_2016-09-23_make-american-oil-great-again_chart1.png)
 
-![Exhibit 2: Make American Oil Great Again](../../../charts/poten/2016/poten_2016-09-23_make-american-oil-great-again_chart2.png)
+![Exhibit 2: U.S. Petroleum Product Trade (2014-2040)](../../../charts/poten/2016/poten_2016-09-23_make-american-oil-great-again_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2016/poten_2016-09-23_make-american-oil-great-again_chart2.png)
+> **Exhibit 2: U.S. Petroleum Product Trade (2014-2040)**  
+> Unit: Mb/d · X-axis: 2014 to 2040  
+> Series: Imports, Exports  
+> *Source: EIA*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2016/poten_2016-09-23_make-american-oil-great-again_chart2.png)

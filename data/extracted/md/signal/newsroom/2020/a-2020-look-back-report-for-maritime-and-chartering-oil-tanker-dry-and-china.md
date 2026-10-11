@@ -40,11 +40,11 @@ The coronavirus pandemic caused a major disruption across the global economy. Th
 ### Dirty Tankers – VLCCs
 
 
-![VLCC Supply Rates and Fixtures](../../images/66b520cce30bbfa2120271f1_5feb0325f84dfe6bbec614c6_VLCC%20-%20Combined%20v2.avif)
+![VLCC Supply Rates and Fixtures](../../images/66b520cce30bbfa2120271f1_5feb0325f84dfe6bbec614c6_VLCC%2520-%2520Combined%2520v2.avif)
 
 > **Figure 1: VLCC Supply Rates and Fixtures**  
 > *VLCC supply rates and fixtures. Arabian Gulf (AG), Ras Tanura, January-November 2020. TCE estimation for AG/Far East based on Ras Tanura/Ningbo round voyage with 2 idle days Ras Tanura Supply Trend is based on 16 days Laycan forward, Available and Spot/Relet vessels.*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/a-2020-look-back-report-for-maritime-and-chartering-oil-tanker-dry-and-china) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/66b520cce30bbfa2120271f1_5feb0325f84dfe6bbec614c6_VLCC%20-%20Combined%20v2.avif)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/a-2020-look-back-report-for-maritime-and-chartering-oil-tanker-dry-and-china) | [Local Asset](../../../../../../corpus/07-signal/images/66b520cce30bbfa2120271f1_5feb0325f84dfe6bbec614c6_VLCC%2520-%2520Combined%2520v2.avif)
 
 In the dirty tankers segment, TCE rates for VLCCs fluctuated from highs to lows within a few months. This tanker segment had a positive momentum in March as crude exports increased driving VLCC demand and freight rates upwards. Following a dramatic [collapse of OPEC+](https://www.rigzone.com/news/saudi\_belligerence\_pushes\_vlcc\_rates\_to\_comedic\_highs-01-apr-2020-161585-article/) discussions on March 6th where Russia responded with “Nyet” to oil production cuts, Saudi Arabia announced that it would raise its crude output and offer market discounts. In the Arabian Gulf to Asia route, specifically, TCE for VLCCs reached a record high in mid-March at $243K as the demand for VLCCs was high in Ras Tanura. Also, concerns over an oversupply of oil due to the stalled economy caused by the pandemic forced traders to book tankers as floating storage driving VLCC demand further.
 
@@ -58,11 +58,11 @@ On the demand side, VLCC fixtures in the Arabian Gulf were strong in January, Ma
 ### Clean Tankers – Lr2s
 
 
-![Lr2 Supply Rates and Fixtures](../../images/66b520cde30bbfa2120271fe_5feb035cec1dd18780562479_LR2%20-%20Combined%20v2.avif)
+![Lr2 Supply Rates and Fixtures](../../images/66b520cde30bbfa2120271fe_5feb035cec1dd18780562479_LR2%2520-%2520Combined%2520v2.avif)
 
 > **Figure 2: Lr2 Supply Rates and Fixtures**  
 > *LR2 supply rates and fixtures. Arabian Gulf (AG), Jubail, January-November 2020. TCE estimation for AG is based on Jubail/Yosu round voyage with 2 idle days. The Jubail Supply trend is based on 10 days Laycan forward, Available and Spot/Relet vessels.*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/a-2020-look-back-report-for-maritime-and-chartering-oil-tanker-dry-and-china) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/66b520cde30bbfa2120271fe_5feb035cec1dd18780562479_LR2%20-%20Combined%20v2.avif)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/a-2020-look-back-report-for-maritime-and-chartering-oil-tanker-dry-and-china) | [Local Asset](../../../../../../corpus/07-signal/images/66b520cde30bbfa2120271fe_5feb035cec1dd18780562479_LR2%2520-%2520Combined%2520v2.avif)
 
 The clean tanker segment, and LR2s specifically, had a disappointing start to the year in the Arabian Gulf. LR2s, however, saw a massive increase in earnings out of the same region in April with TCE skyrocketing to $154k or just north of Worldscale 500. The spike did not last long and rates declined but looking at the demand the number of fixtures remained at steadier levels compared to the crude market.
 
@@ -70,11 +70,11 @@ The clean tanker segment, and LR2s specifically, had a disappointing start to th
 ### Dry Market – Capesizes
 
 
-![TCE Estimation for Brazil / North China Is Based on Santos / Qingdao Round Voyage with 2 Idle Days](../../images/66b520cde30bbfa21202720f_5feb050f62e9ea0554a9006f_Capesize%20-%20Brazil%20-%20Combined%20v2.avif)
+![TCE Estimation for Brazil / North China Is Based on Santos / Qingdao Round Voyage with 2 Idle Days](../../images/66b520cde30bbfa21202720f_5feb050f62e9ea0554a9006f_Capesize%2520-%2520Brazil%2520-%2520Combined%2520v2.avif)
 
 > **Figure 3: TCE Estimation for Brazil / North China Is Based on Santos / Qingdao Round Voyage with 2 Idle Days**  
 > *TCE estimation for Brazil / North China is based on Santos / Qingdao round voyage with 2 idle days. The Santos Supply Trend is based on 30 days Laycan forward, Available and Contract/Program/Spot/Relet vessels.*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/a-2020-look-back-report-for-maritime-and-chartering-oil-tanker-dry-and-china) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/66b520cde30bbfa21202720f_5feb050f62e9ea0554a9006f_Capesize%20-%20Brazil%20-%20Combined%20v2.avif)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/a-2020-look-back-report-for-maritime-and-chartering-oil-tanker-dry-and-china) | [Local Asset](../../../../../../corpus/07-signal/images/66b520cde30bbfa21202720f_5feb050f62e9ea0554a9006f_Capesize%2520-%2520Brazil%2520-%2520Combined%2520v2.avif)
 
 A revival of the Chinese steel industry depleted stocks of iron ore in the region, a key ingredient for steelmaking, and renewed the need for imports from Brazil. After a weak first half for the Capesize segment, Brazil-China freight rates peaked in the beginning of the third quarter, with tonnage supply running low in Santos, as China engaged high ton-mile iron ore imports from Brazil.
 
@@ -82,39 +82,39 @@ A revival of the Chinese steel industry depleted stocks of iron ore in the regio
 ## China Balances Out Global Crude Oil Market
 
 
-![VLCC Segment: Chinese Imports Vs](../../images/66b520cde30bbfa212027202_5feb059ef94519bb8cc1b284_China%20%20-%20VLCCs%20-%20Port%20Congestions%20-%20Combined%20v2.avif)
+![VLCC Segment: Chinese Imports Vs](../../images/66b520cde30bbfa212027202_5feb059ef94519bb8cc1b284_China%2520%2520-%2520VLCCs%2520-%2520Port%2520Congestions%2520-%2520Combined%2520v2.avif)
 
 > **Figure 4: VLCC Segment: Chinese Imports Vs**  
 > *VLCC segment: Chinese imports vs. other countries and Port Congestion in China between January and November 2020.*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/a-2020-look-back-report-for-maritime-and-chartering-oil-tanker-dry-and-china) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/66b520cde30bbfa212027202_5feb059ef94519bb8cc1b284_China%20%20-%20VLCCs%20-%20Port%20Congestions%20-%20Combined%20v2.avif)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/a-2020-look-back-report-for-maritime-and-chartering-oil-tanker-dry-and-china) | [Local Asset](../../../../../../corpus/07-signal/images/66b520cde30bbfa212027202_5feb059ef94519bb8cc1b284_China%2520%2520-%2520VLCCs%2520-%2520Port%2520Congestions%2520-%2520Combined%2520v2.avif)
 
 According to oil data analytics firm [OilX](https://www.argusmedia.com/en/news/2149569-chinas-september-iron-ore-imports-rise-to-near-record), during 2020, China imported a total of 11.01 million bpd, a 8.5% increase compared to last year. While China was the first country that was impacted by the covid-19 outbreak, it seems that it has since bounced back strong. In fact, OilX argues that the world’s largest importer of crude oil is on track to be the only major country to raise its oil demand year-on-year. In 2020, the high demand for crude oil in China was responsible for balancing out the lost demand from other regions providing support for the global crude oil market.
 
 
-![Capesize Segment: Chinese Imports Vs](../../images/66b520cde30bbfa212027205_5feb05d323fd62197aa40f0a_Chine%20-%20Capesize%20-%20Port%20Congestions%20-%20Combined%20v2.avif)
+![Capesize Segment: Chinese Imports Vs](../../images/66b520cde30bbfa212027205_5feb05d323fd62197aa40f0a_Chine%2520-%2520Capesize%2520-%2520Port%2520Congestions%2520-%2520Combined%2520v2.avif)
 
 > **Figure 5: Capesize Segment: Chinese Imports Vs**  
 > *Capesize segment: Chinese imports vs. other countries and Port Congestion in China between January and November 2020.*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/a-2020-look-back-report-for-maritime-and-chartering-oil-tanker-dry-and-china) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/66b520cde30bbfa212027205_5feb05d323fd62197aa40f0a_Chine%20-%20Capesize%20-%20Port%20Congestions%20-%20Combined%20v2.avif)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/a-2020-look-back-report-for-maritime-and-chartering-oil-tanker-dry-and-china) | [Local Asset](../../../../../../corpus/07-signal/images/66b520cde30bbfa212027205_5feb05d323fd62197aa40f0a_Chine%2520-%2520Capesize%2520-%2520Port%2520Congestions%2520-%2520Combined%2520v2.avif)
 
 The Chinese imports increase of both crude oil and dry cargo, led to significant port congestion and difficulties in accommodating the high number of VLCCs and Capesize vessels. The average waiting time for vessels that were waiting to discharge outside of Chinese ports ranged from several days to two weeks, leading, as a result, to an increase in Ton Days as illustrated in the graphs below.
 
 
-![Capesize Segment: Tonmiles and Tondays Over Time for Capes Heading Into China](../../images/66b520cde30bbfa212027212_5feb06cdf94519cf5ec260ac_Ton%20Chart%20-%20signal%20ocean%20platrform%20-%20charterers%20shipbrokers%20commercil%20operators.avif)
+![Capesize Segment: Tonmiles and Tondays Over Time for Capes Heading Into China](../../images/66b520cde30bbfa212027212_5feb06cdf94519cf5ec260ac_Ton%2520Chart%2520-%2520signal%2520ocean%2520platrform%2520-%2520charterers%2520shipbrokers%2520commercil%2520operators.avif)
 
 > **Figure 6: Capesize Segment: Tonmiles and Tondays Over Time for Capes Heading Into China**  
 > *Capesize segment: TonMiles and TonDays over time for Capes heading into China*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/a-2020-look-back-report-for-maritime-and-chartering-oil-tanker-dry-and-china) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/66b520cde30bbfa212027212_5feb06cdf94519cf5ec260ac_Ton%20Chart%20-%20signal%20ocean%20platrform%20-%20charterers%20shipbrokers%20commercil%20operators.avif)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/a-2020-look-back-report-for-maritime-and-chartering-oil-tanker-dry-and-china) | [Local Asset](../../../../../../corpus/07-signal/images/66b520cde30bbfa212027212_5feb06cdf94519cf5ec260ac_Ton%2520Chart%2520-%2520signal%2520ocean%2520platrform%2520-%2520charterers%2520shipbrokers%2520commercil%2520operators.avif)
 
 
 ## Impact on Bunker Fuel Prices
 
 
-![In the Above Graph We See How the Bunker Prices Fluctuated From January Until the End of November](../../images/66b520cde30bbfa2120271f6_5feb0703a0df4d33e3abd421_Bunker%20Prices%20v2.avif)
+![In the Above Graph We See How the Bunker Prices Fluctuated From January Until the End of November](../../images/66b520cde30bbfa2120271f6_5feb0703a0df4d33e3abd421_Bunker%2520Prices%2520v2.avif)
 
 > **Figure 7: In the Above Graph We See How the Bunker Prices Fluctuated From January Until the End of November**  
 > *In the above graph we see how the bunker prices fluctuated from January until the end of November*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/a-2020-look-back-report-for-maritime-and-chartering-oil-tanker-dry-and-china) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/66b520cde30bbfa2120271f6_5feb0703a0df4d33e3abd421_Bunker%20Prices%20v2.avif)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/a-2020-look-back-report-for-maritime-and-chartering-oil-tanker-dry-and-china) | [Local Asset](../../../../../../corpus/07-signal/images/66b520cde30bbfa2120271f6_5feb0703a0df4d33e3abd421_Bunker%2520Prices%2520v2.avif)
 
 The year started with the IMO 2020 regulation kicking in, one of the most significant changes in the tanker industry in recent years. Beginning January 2020 vessels are required to either utilise low sulfur marine bunker fuel such as VLSFO or use the cheaper bunker fuel alternative, HSFO, only if they are equipped with scrubbers. As a result, VLSFO prices were expected to soar and scrubber fitted vessels to benefit from bunker savings. And then, coronavirus happened.
 

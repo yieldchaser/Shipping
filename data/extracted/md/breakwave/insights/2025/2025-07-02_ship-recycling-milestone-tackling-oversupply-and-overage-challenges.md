@@ -24,28 +24,28 @@ source_file: "corpus/03-breakwave/insights/2025/2025-07-02_ship-recycling-milest
 
 First adopted in Hong Kong in 2009, the Convention’s implementation has been a long and complex process, reflecting years of negotiation, debate, and determination from governments, regulators, industry stakeholders, and NGOs. While India leads with over 110 yards compliant with the Convention, Bangladesh and Turkey show limited readiness, and Pakistan currently has none. Recently announced funding to upgrade Pakistan’s Gadani shipbreaking facilities highlights ongoing regional challenges. The regulatory landscape remains fragmented, with existing conventions such as the Basel Convention and EU regulations complicating compliance, particularly for South Asian recycling hubs.
 
-![Στιγμιότυπο Οθόνης 2025 07 02 111638](assets/2025-07-02_ship-recycling-milestone-tackling-oversupply-and-overage-challenges_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_3f0166939bac.png)
+![Στιγμιότυπο Οθόνης 2025 07 02 111638](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-07-02_ship-recycling-milestone-tackling-oversupply-and-overage-challenges_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_3f0166939bac.png)
 
 > **Figure 1: Στιγμιότυπο Οθόνης 2025 07 02 111638**  
-> **Interactive Data & Source:** [Allied-shipbroking](https://www.allied-shipbroking.gr/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-07-02_ship-recycling-milestone-tackling-oversupply-and-overage-challenges_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_3f0166939bac.png)
+> **Interactive Data & Source:** [Allied-shipbroking](https://www.allied-shipbroking.gr/) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-07-02_ship-recycling-milestone-tackling-oversupply-and-overage-challenges_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_3f0166939bac.png)
 
 ### Oversupply and Fleet Modernization Pressures
 
 Advancements in ship recycling show limited progress in primary demolition markets. India’s demand remains subdued due to monsoon conditions, Bangladesh shows no significant activity even after enforcement of the Convention on 26 June, and Pakistan remains cautious despite temporary regulatory allowances. Turkey continues its usual inactivity. Since 2009, over 8,200 ships have been scrapped in South Asia, with at least 473 fatalities and 517 injuries likely underreported due to untracked occupational diseases. Market expectations suggest the Convention may improve sentiment in the demolition market.
 
-![Στιγμιότυπο Οθόνης 2025 07 02 111646](assets/2025-07-02_ship-recycling-milestone-tackling-oversupply-and-overage-challenges_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_c4897891fe20.png)
+![Στιγμιότυπο Οθόνης 2025 07 02 111646](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-07-02_ship-recycling-milestone-tackling-oversupply-and-overage-challenges_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_c4897891fe20.png)
 
 > **Figure 2: Στιγμιότυπο Οθόνης 2025 07 02 111646**  
-> **Interactive Data & Source:** [Allied-shipbroking](https://www.allied-shipbroking.gr/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-07-02_ship-recycling-milestone-tackling-oversupply-and-overage-challenges_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_c4897891fe20.png)
+> **Interactive Data & Source:** [Allied-shipbroking](https://www.allied-shipbroking.gr/) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-07-02_ship-recycling-milestone-tackling-oversupply-and-overage-challenges_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_c4897891fe20.png)
 
 ### Demolition Trends: Dry Bulk Maintains Lead Over Tankers in 2025
 
 By mid-2025, demolition activity remains centered in the dry bulk sector, with older Panamax and Ultramax vessels being phased out. Though scrapping volumes are below last year’s levels, owners focus on fleet renewal driven by evolving environmental regulations and earnings volatility. The tanker sector, particularly VLCCs, shows weak scrapping momentum. Despite strong scrap prices and mounting compliance costs, many aging tankers remain in service, reflecting owner hesitance or operation in noncompliant trades. The shadow fleet, comprising older vessels engaged in sanctioned trades, continues to operate under opaque ownership.
 
-![Στιγμιότυπο Οθόνης 2025 07 02 111659](assets/2025-07-02_ship-recycling-milestone-tackling-oversupply-and-overage-challenges_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_fca221de57d8.png)
+![Στιγμιότυπο Οθόνης 2025 07 02 111659](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-07-02_ship-recycling-milestone-tackling-oversupply-and-overage-challenges_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_fca221de57d8.png)
 
 > **Figure 3: Στιγμιότυπο Οθόνης 2025 07 02 111659**  
-> **Interactive Data & Source:** [Allied-shipbroking](https://www.allied-shipbroking.gr/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-07-02_ship-recycling-milestone-tackling-oversupply-and-overage-challenges_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_fca221de57d8.png)
+> **Interactive Data & Source:** [Allied-shipbroking](https://www.allied-shipbroking.gr/) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-07-02_ship-recycling-milestone-tackling-oversupply-and-overage-challenges_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_fca221de57d8.png)
 
 ### India's Competitive Edge in Ship Recycling
 

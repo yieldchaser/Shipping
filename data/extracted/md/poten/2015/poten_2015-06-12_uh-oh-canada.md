@@ -28,10 +28,14 @@ Even though future production growth may slow down based on lower oil prices, we
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: Uh Oh Canada](../../../charts/poten/2015/poten_2015-06-12_uh-oh-canada_chart1.png)
+![Exhibit 1: Fig. 1: Canadian Production Forecast](../../../charts/poten/2015/poten_2015-06-12_uh-oh-canada_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2015/poten_2015-06-12_uh-oh-canada_chart1.png)
+> **Exhibit 1: Fig. 1: Canadian Production Forecast**  
+> Unit: million barrels per day · X-axis: 2005 to 2030  
+> Series: Actual, Forecast, June 2014 Forecast, Oil Sands Growth, Oil Sands Operating & In Construction, Eastern Canada, Conventional Heavy, Pentanes/Condensate, Conventional Light  
+> *Source: CAPP*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2015/poten_2015-06-12_uh-oh-canada_chart1.png)
 
 ![Exhibit 2: Uh Oh Canada](../../../charts/poten/2015/poten_2015-06-12_uh-oh-canada_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2015/poten_2015-06-12_uh-oh-canada_chart2.png)
+> **Interactive Asset:** [Local Asset (200 DPI PNG)](../../../charts/poten/2015/poten_2015-06-12_uh-oh-canada_chart2.png)

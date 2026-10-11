@@ -141,6 +141,8 @@ pages: 6
 | **Jiangyin** | -55.00 | +20.00 | **Dalian** | -10.00 | +0.00 |
 
 ## Historical Iron Ore Index Comparisons (USD/DMT)
+> **Approximate.** The report prints no numbers for this chart. Values were read visually from the chart image by the parser and are rough estimates.
+
 | Date | IOSI62 (USD/DMT) | IOPi62 CFR Eq (USD/DMT) | IOSI65 (USD/DMT) | IOPi65 CFR Eq (USD/DMT) |
 | :--- | :--- | :--- | :--- | :--- |
 | 2-Sep-20 | 120.00 | 118.00 | 128.00 | 126.00 |
@@ -173,6 +175,8 @@ pages: 6
 | **SGX** | **Sep. 21** | USD/DMT | 163.70 | +3.90 | +2.44% | 2.99 | 20.72 | 158.90 | 165.95 |
 
 ## Dry Bulk Freight Rates Historical Line Data (USD/MT)
+> **Approximate.** The report prints no numbers for this chart. Values were read visually from the chart image by the parser and are rough estimates.
+
 | Date | C5 W. Australia - Qingdao (USD/MT) | C3 Tubarao - Qingdao (USD/MT) |
 | :--- | :--- | :--- |
 | 31-Jul-20 | 8.00 | 18.00 |
@@ -190,6 +194,8 @@ pages: 6
 | 31-Jul-21 | 15.00 | 30.00 |
 
 ## Total China Iron Ore Import Volumes (Million Tonnes)
+> **Approximate.** The report prints no numbers for this chart. Values were read visually from the chart image by the parser and are rough estimates.
+
 | Month / Period | Import Volume (Million Tonnes) |
 | :--- | :--- |
 | Jul-20 | 112.00 |

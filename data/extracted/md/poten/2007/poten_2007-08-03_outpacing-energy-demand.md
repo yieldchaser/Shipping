@@ -96,6 +96,14 @@ One remedy to the seemingly excessive availability of VLCC's is a pickup in crud
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: Outpacing Energy Demand](../../../charts/poten/2007/poten_2007-08-03_outpacing-energy-demand_chart1.png)
+> **Chart on PDF page 1: Spot VLCC AG-FE TCE vs Avails**  
+> Unit: Monthly Average TCE, $/day | Monthly Average 30 day VLCC Avails · X-axis: Jan-02 to May-07  
+> Series: AG-FE TCE, VLCC Next 30 Days  
+> *Source: Poten&Partners*  
+> *No image crop of this chart was saved; caption read from the PDF.*
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2007/poten_2007-08-03_outpacing-energy-demand_chart1.png)
+> **Chart on PDF page 2: VLCC TCE vs Avails to Fleet Ratio**  
+> Unit: TCE, $/day | Ratio · X-axis: 2002 to YTD 2007  
+> Series: TCE, Avails to Fleet Ratio  
+> *Source: Poten&Partners*  
+> *No image crop of this chart was saved; caption read from the PDF.*

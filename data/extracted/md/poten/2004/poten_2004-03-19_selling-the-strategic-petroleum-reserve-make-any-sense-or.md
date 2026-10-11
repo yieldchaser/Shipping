@@ -44,6 +44,8 @@ The following table compares current imports from select nations with the 648 mi
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: Selling the Strategic Petroleum Reserve Make Any Sense or Cents?](../../../charts/poten/2004/poten_2004-03-19_selling-the-strategic-petroleum-reserve-make-any-sense-or_chart1.png)
-
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2004/poten_2004-03-19_selling-the-strategic-petroleum-reserve-make-any-sense-or_chart1.png)
+> **Chart on PDF page 3: Portion of U.S. Consumption Satisfied by Production & Imports**  
+> Unit: BPD · X-axis: 1965 to 2000  
+> Series: Imports, Production  
+> *Source: Poten/BP Statistics*  
+> *No image crop of this chart was saved; caption read from the PDF.*

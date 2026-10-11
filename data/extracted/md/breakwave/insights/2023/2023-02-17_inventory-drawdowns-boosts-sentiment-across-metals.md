@@ -23,10 +23,10 @@ source_file: "corpus/03-breakwave/insights/2023/2023-02-17_inventory-drawdowns-b
 
 Signs of stronger demand in China boosted sentiment and was aided by falls in inventories across various markets.
 
-![1676580847094](assets/2023-02-17_inventory-drawdowns-boosts-sentiment-across-metals_img_1676580847094_cfcad0d68b00.png)
+![1676580847094](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-02-17_inventory-drawdowns-boosts-sentiment-across-metals_img_1676580847094_cfcad0d68b00.png)
 
 > **Figure 1: 1676580847094**  
-> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-02-17_inventory-drawdowns-boosts-sentiment-across-metals_img_1676580847094_cfcad0d68b00.png)
+> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-02-17_inventory-drawdowns-boosts-sentiment-across-metals_img_1676580847094_cfcad0d68b00.png)
 
 **Copper**led the base metals sector higher amid signs of stronger demand. Copper stockpiles on the Shanghai Futures Exchange fell for the first time in two months. Growth in aluminium inventories also slowed, according to data from Shanghai Metals Market. This comes amid ongoing risks of further supply disruptions. Earlier this week, Freeport-McMoRan Inc suspended operations at its Grasberg copper mine in Indonesia due to landslides. This is adding to disruption to Peru’s output caused by social unrest. The better fundamentals offset concerns of a more hawkish stance by the Federal Reserve. Loretta Mester said she saw a compelling case for a 50bp hike at the FOMC’s last meeting.
 

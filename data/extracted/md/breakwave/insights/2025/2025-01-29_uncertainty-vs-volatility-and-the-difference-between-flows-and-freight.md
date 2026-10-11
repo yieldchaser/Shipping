@@ -32,12 +32,12 @@ Up to late 2022, these turbulences were also reflected in wide fluctuations of o
 
 Before answering that question, let us look at the key factors behind stable prices: a mix of limited demand growth and supply-side flexibility. As for the latter, OPEC+ has been very successful in restraining supplies over the last two years. In February 2023, global onshore inventories outside China (right-hand chart below) were still at a seasonal high, reflecting a too quick resumption of production post Covid. But since then, production curtailments, largely shouldered by Saudi Arabia and the UAE, have led stocks to Vortexa dataset lows.
 
-![Στιγμιότυπο Οθόνης 2025 01 29 131238](assets/2025-01-29_uncertainty-vs-volatility-and-the-difference-between-flows-and-freight_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_36c52b8c8970.png)
+![Στιγμιότυπο Οθόνης 2025 01 29 131238](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-01-29_uncertainty-vs-volatility-and-the-difference-between-flows-and-freight_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_36c52b8c8970.png)
 
 > **Figure 1: Στιγμιότυπο Οθόνης 2025 01 29 131238**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-01-29_uncertainty-vs-volatility-and-the-difference-between-flows-and-freight_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_36c52b8c8970.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-01-29_uncertainty-vs-volatility-and-the-difference-between-flows-and-freight_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_36c52b8c8970.png)
 
-Many forecasters suggest 2025 oil prices to be (marginally) lower than in 2024 ([John Kemp survey](../pdfs/2025-01-29_uncertainty-vs-volatility-and-the-difference-between-flows-and-freight_oil-outlook-survey-2025-2029_ff7b6df890c1.pdf)), with most projections located in a narrow range, suggesting even lower volatility in times of high uncertainty. The pressure on prices stems from strong non-OPEC supply growth expectations and less-than-stellar demand projections. However, the left-hand chart above shows that crude export growth outside the OPEC+ group has been very limited ever since Q4 2018. The author of these lines wouldn’t be surprised at all if 2025 followed a similar path, making it relatively easy for OPEC+ to manage the market.
+Many forecasters suggest 2025 oil prices to be (marginally) lower than in 2024 ([John Kemp survey](../../../../../../corpus/03-breakwave/insights/pdfs/2025-01-29_uncertainty-vs-volatility-and-the-difference-between-flows-and-freight_oil-outlook-survey-2025-2029_ff7b6df890c1.pdf)), with most projections located in a narrow range, suggesting even lower volatility in times of high uncertainty. The pressure on prices stems from strong non-OPEC supply growth expectations and less-than-stellar demand projections. However, the left-hand chart above shows that crude export growth outside the OPEC+ group has been very limited ever since Q4 2018. The author of these lines wouldn’t be surprised at all if 2025 followed a similar path, making it relatively easy for OPEC+ to manage the market.
 
 Meanwhile, the lack of oil demand growth, especially in key road transportation fuels, has left the global refining industry with ample spare capacity, taking also the heat out of global refined product markets, thereby contributing further to range-bound oil prices over the last year.
 
@@ -49,10 +49,10 @@ But we have also seen substantial changes in origin/destination pairs, largely d
 
 More recently we have seen a huge reshuffling of middle distillate flows out of the Wider Arabian Sea (including in particular the Middle East Gulf, the Red Sea and the west coast of India). Flows to the Pacific Basin (including the regional Arabian Sea market) of both diesel and jet/kero have been surging over recent months, while those to the Atlantic Basin have been axed by more than 50% from a September high (see chart below).
 
-![Στιγμιότυπο Οθόνης 2025 01 29 131333](assets/2025-01-29_uncertainty-vs-volatility-and-the-difference-between-flows-and-freight_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_1b94bdc5d44c.png)
+![Στιγμιότυπο Οθόνης 2025 01 29 131333](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-01-29_uncertainty-vs-volatility-and-the-difference-between-flows-and-freight_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_1b94bdc5d44c.png)
 
 > **Figure 2: Στιγμιότυπο Οθόνης 2025 01 29 131333**  
-> **Interactive Data & Source:** [Vortexa](https://www.vortexa.com/product-freight-analytics/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-01-29_uncertainty-vs-volatility-and-the-difference-between-flows-and-freight_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_1b94bdc5d44c.png)
+> **Interactive Data & Source:** [Vortexa](https://www.vortexa.com/product-freight-analytics/) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-01-29_uncertainty-vs-volatility-and-the-difference-between-flows-and-freight_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_1b94bdc5d44c.png)
 
 The swing in volumes is unprecedented. Between September and November the change in the gap been Pacific and Atlantic Basin amounted to 1.3mbd and in the four months to January even to 1.5mbd. For jet/kero the last three months mark the only time outside the core Covid period that more volumes are directed eastwards than westwards.
 

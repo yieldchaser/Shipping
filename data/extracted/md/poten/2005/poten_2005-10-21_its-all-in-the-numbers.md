@@ -44,6 +44,14 @@ Gasoline Gasoil Jet Fuel Total 2004 10.23 4.14 1.75 16.12 2005 10.53 4.09 1.78 1
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: It's All in the Numbers](../../../charts/poten/2005/poten_2005-10-21_its-all-in-the-numbers_chart1.png)
+> **Chart on PDF page 2: Apparent Refined Oil Consumption**  
+> Unit: Mm Bpd · X-axis: 03-Jun to 07-Oct  
+> Series: Jet Fuel, Gasoil, Gasoline  
+> *Source: EIA/Poten*  
+> *No image crop of this chart was saved; caption read from the PDF.*
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2005/poten_2005-10-21_its-all-in-the-numbers_chart1.png)
+> **Chart on PDF page 2: Apparent Oil Consumption 2005 vs 2004**  
+> Unit: MM Bpd · X-axis: 10-Jun to 23-Sep  
+> Series: 2005, 2004  
+> *Source: EIA/Poten*  
+> *No image crop of this chart was saved; caption read from the PDF.*

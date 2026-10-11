@@ -88,6 +88,14 @@ For those readers not fortunate to attend the EIA's 2008 Energy Conference, sele
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: Energizing the Last Thirty Years!](../../../charts/poten/2008/poten_2008-04-11_energizing-the-last-thirty-years_chart1.png)
+> **Chart on PDF page 1: US Refinery Input vs. US Crude Oil Imports**  
+> Unit: Million bbl/day | % · X-axis: Jan-78 to Jan-08  
+> Series: % Crude Oil Imports in Refinery Inputs, Crude Oil Imports w/o SPR, Crude Oil Refinery and Blender Net Inputs  
+> *Source: EIA*  
+> *No image crop of this chart was saved; caption read from the PDF.*
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2008/poten_2008-04-11_energizing-the-last-thirty-years_chart1.png)
+> **Chart on PDF page 2: US Energy Consumption**  
+> Unit: Quadrillion Btus · X-axis: 2005 to 2029  
+> Series: Liquid Fuels and Other Petroleum, Natural Gas, Coal, Nuclear Power, Hydropower, Biomass, Other Renewable Energy, Other  
+> *Source: EIA*  
+> *No image crop of this chart was saved; caption read from the PDF.*

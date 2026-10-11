@@ -29,7 +29,7 @@ tags:
 
 > **Figure 1: Https://app.signalocean.com/dry/dynamic/capesinsightsdownloadable**  
 > *https://app.signalocean.com/dry/dynamic/capes_insights_downloadable*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/dry-week-09-2025) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/67bec0d1bd1a75a730213fc1_AD_4nXeV__4zf8d7Tt2BF1X5GySs1XvvhLcVtg61CGGDSWp890xHT2gMVtCXk7T_h9I3TpxhmErgnVwIdgmo-UIdLWo0498QaDCGYCckjZw0o7op2q4oPmnmzQTnvC4KbkC88XITbsQQ.avif)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/dry-week-09-2025) | [Local Asset](../../../../../../corpus/07-signal/images/67bec0d1bd1a75a730213fc1_AD_4nXeV__4zf8d7Tt2BF1X5GySs1XvvhLcVtg61CGGDSWp890xHT2gMVtCXk7T_h9I3TpxhmErgnVwIdgmo-UIdLWo0498QaDCGYCckjZw0o7op2q4oPmnmzQTnvC4KbkC88XITbsQQ.avif)
 
 Recent observations indicate that [imported iron ore stocks](https://www.mysteel.net/market-insights/5077559-weekly-chinas-iron-ore-port-stocks-dip-03-) at China’s major ports have seen a slight decrease, dropping by 529,900 tonnes, or 0.3% week-on-week, to a total of 153.4 million tonnes as of February 20. This reduction occurs even as both the incoming and discharged volumes of iron ore have risen in recent weeks, suggesting that while port operations are strong, there is a clear drawdown in overall stockpiles.
 

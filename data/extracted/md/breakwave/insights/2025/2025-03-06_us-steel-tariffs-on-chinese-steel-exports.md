@@ -24,10 +24,10 @@ source_file: "corpus/03-breakwave/insights/2025/2025-03-06_us-steel-tariffs-on-c
 Snapshot of Spot Freight Rates, Supply-Demand Trends, Port Congestions
 March 05, 2025
 
-![Στιγμιότυπο Οθόνης 2025 03 06 133350](assets/2025-03-06_us-steel-tariffs-on-chinese-steel-exports_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_d3921b91598a.png)
+![Στιγμιότυπο Οθόνης 2025 03 06 133350](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-03-06_us-steel-tariffs-on-chinese-steel-exports_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_d3921b91598a.png)
 
 > **Figure 1: Στιγμιότυπο Οθόνης 2025 03 06 133350**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-03-06_us-steel-tariffs-on-chinese-steel-exports_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_d3921b91598a.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-03-06_us-steel-tariffs-on-chinese-steel-exports_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_d3921b91598a.png)
 
 The recent reinstatement of a 25% tariff on steel imports by the United States, effective March 12, 2025, aims to protect domestic manufacturing but has significant implications for global trade dynamics, particularly concerning China's steel exports and the freight vessel industry.
 
@@ -49,10 +49,10 @@ Suprama​​​x vessels, accounting for 69.4% of steel shipments, dominate Chi
 
 The combination of tariff-induced trade shifts, monthly export fluctuations, and the predominance of mid-size vessel classes (Supramax, Handymax) suggests a strategic industry transition. The freight market will likely see increased demand for flexible and fuel-efficient vessel categories, rather than large-scale bulk carriers, as Chinese steel exporters diversify their shipping strategies in response to trade barriers.
 
-![Στιγμιότυπο Οθόνης 2025 03 06 133514](assets/2025-03-06_us-steel-tariffs-on-chinese-steel-exports_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_293550bdd2d9.png)
+![Στιγμιότυπο Οθόνης 2025 03 06 133514](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-03-06_us-steel-tariffs-on-chinese-steel-exports_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_293550bdd2d9.png)
 
 > **Figure 2: Στιγμιότυπο Οθόνης 2025 03 06 133514**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-03-06_us-steel-tariffs-on-chinese-steel-exports_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_293550bdd2d9.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-03-06_us-steel-tariffs-on-chinese-steel-exports_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_293550bdd2d9.png)
 
 ​​​​The upward trend in Capesize rates from Brazil to North China gained momentum in early March, driven by a decline in the number of ballasters, which is now supporting firmer market conditions.
 
@@ -61,10 +61,10 @@ The combination of tariff-induced trade shifts, monthly export fluctuations, and
 - **Supramax**vessel freight rates on the Indo-ECI route held firm levels around $9 per tonne, with an upward trend in early March.
 - **Handysize**freight rates for the NOPAC Far East route continued above nearly $30 per tonne from the end of February, marking a 25% monthly increase. ​​​​​​
 
-![Στιγμιότυπο Οθόνης 2025 03 06 133600](assets/2025-03-06_us-steel-tariffs-on-chinese-steel-exports_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_958a80608e47.png)
+![Στιγμιότυπο Οθόνης 2025 03 06 133600](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-03-06_us-steel-tariffs-on-chinese-steel-exports_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_958a80608e47.png)
 
 > **Figure 3: Στιγμιότυπο Οθόνης 2025 03 06 133600**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-03-06_us-steel-tariffs-on-chinese-steel-exports_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_958a80608e47.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-03-06_us-steel-tariffs-on-chinese-steel-exports_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_958a80608e47.png)
 
 The latest indicators from the ballasters' perspective suggest a mixed outlook, with a notable downward revision in the Capesize SE Africa.
 
@@ -73,10 +73,10 @@ The latest indicators from the ballasters' perspective suggest a mixed outlook, 
 - **Supramax SE Asia:**In the first days of March, levels increased above the annual average of 98, and early March showed signs of an upward trend.
 - **Handysize NOPAC:**The Handy NOPAC segment confirmed one week further the downward revision from the end of February, while still 5 above the annual trend of 82.
 
-![Στιγμιότυπο Οθόνης 2025 03 06 133644](assets/2025-03-06_us-steel-tariffs-on-chinese-steel-exports_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_872974c5a2c4.png)
+![Στιγμιότυπο Οθόνης 2025 03 06 133644](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-03-06_us-steel-tariffs-on-chinese-steel-exports_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_872974c5a2c4.png)
 
 > **Figure 4: Στιγμιότυπο Οθόνης 2025 03 06 133644**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-03-06_us-steel-tariffs-on-chinese-steel-exports_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_872974c5a2c4.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-03-06_us-steel-tariffs-on-chinese-steel-exports_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_872974c5a2c4.png)
 
 The first days of March show a reversal in sentiment within the Capesize segment. Following weeks of a consistent decline in tonne-day growth, early signs of an upward correction emerge.
 
@@ -85,10 +85,10 @@ The first days of March show a reversal in sentiment within the Capesize segment
 - **Supramax**: The growth rate remains the strongest among vessel size categories, maintaining a steady upward trajectory since early February.
 - **Handysize**: Its growth rate has begun to align with that of the Panamax segment, which experienced a downward trend in the first week of the month.
 
-![Στιγμιότυπο Οθόνης 2025 03 06 133731](assets/2025-03-06_us-steel-tariffs-on-chinese-steel-exports_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_b5dc22910d4b.png)
+![Στιγμιότυπο Οθόνης 2025 03 06 133731](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-03-06_us-steel-tariffs-on-chinese-steel-exports_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_b5dc22910d4b.png)
 
 > **Figure 5: Στιγμιότυπο Οθόνης 2025 03 06 133731**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-03-06_us-steel-tariffs-on-chinese-steel-exports_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_b5dc22910d4b.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-03-06_us-steel-tariffs-on-chinese-steel-exports_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_b5dc22910d4b.png)
 
 **Congestion**at Chinese dry bulk ports trended upward, with an increasing number of vessels in the Capesize, Supramax and Handysize segments.
 

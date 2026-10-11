@@ -118,6 +118,16 @@ What are the commonalities between the two periods? First of all, similar to tod
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: This Time it is Different](../../../charts/poten/2022/poten_2022-07-29_this-time-it-is-different_chart1.png)
+![Exhibit 1: Newbuilding Tanker Prices](../../../charts/poten/2022/poten_2022-07-29_this-time-it-is-different_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2022/poten_2022-07-29_this-time-it-is-different_chart1.png)
+> **Exhibit 1: Newbuilding Tanker Prices**  
+> Unit: Mln US$ · X-axis: Jan-2002 to Jul-2022  
+> Series: VLCC, Suezmax, Aframax, LR1, MR  
+> *Source: Poten & Partners*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2022/poten_2022-07-29_this-time-it-is-different_chart1.png)
+
+> **Chart on PDF page 1: 5 Year Old Tanker Prices**  
+> Unit: Mln US$ · X-axis: Jan-2002 to Jul-2022  
+> Series: VLCC, Suezmax, Aframax, LR1, MR  
+> *Source: Poten & Partners*  
+> *No image crop of this chart was saved; caption read from the PDF.*

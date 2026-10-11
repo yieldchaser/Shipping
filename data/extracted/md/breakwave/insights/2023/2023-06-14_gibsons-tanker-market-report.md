@@ -27,10 +27,10 @@ The tanker fleet is ageing fast, ironically “helped” by virtually non-existi
 
 It is also a well-known fact that investment in new tonnage has declined notably in recent years, embattled by the pandemic-driven collapse in tanker demand, sizable increases in asset values and rapidly disappearing near term yard availability, concerns about long term oil demand and uncertainly about future vessels designs and fuels. As a result, at the start of this year, the tanker orderbook shrunk to its lowest level in at least two decades.
 
-![1 (3)](assets/2023-06-14_gibsons-tanker-market-report_img_128329_c9cc43fda21a.png)
+![1 (3)](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-06-14_gibsons-tanker-market-report_img_128329_c9cc43fda21a.png)
 
 > **Figure 1: 1 (3)**  
-> **Interactive Data & Source:** [Gibsons Co](https://www.gibsons.co.uk/market-reports) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-06-14_gibsons-tanker-market-report_img_128329_c9cc43fda21a.png)
+> **Interactive Data & Source:** [Gibsons Co](https://www.gibsons.co.uk/market-reports) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-06-14_gibsons-tanker-market-report_img_128329_c9cc43fda21a.png)
 
 Yet, there has been an increase in newbuilding appetite across almost all size groups so far in 2023. With Aframaxes/LR2s being the best performing asset since the war in Ukraine broke out, it is not surprising that this size group is in the lead, with combined orders for the year to date already at their highest since 2017. Investment in new Suezmaxes is the highest since 2020, whist MR orders for the year to date are just marginally short of last year’s total. We have also seen a few orders for Handy and LR1 tankers, following years of marginal, (if any) investment in these size groups. Most of the orders are for 2025 delivery, whilst there is a growing volume of tankers for delivery in 2026 or even later, as yard capacity sells out. Going forward, yard availability is highly likely to face further constraints amid booming LNG demand, whilst any fresh orders for large bulk carriers could also eat into tanker slots.
 

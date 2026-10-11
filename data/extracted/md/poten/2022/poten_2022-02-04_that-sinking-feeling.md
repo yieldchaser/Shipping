@@ -42,4 +42,4 @@ The above statistics make it abundantly clear why the tanker market was in the d
 
 ![Exhibit 1: That Sinking Feeling](../../../charts/poten/2022/poten_2022-02-04_that-sinking-feeling_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2022/poten_2022-02-04_that-sinking-feeling_chart1.png)
+> **Interactive Asset:** [Local Asset (200 DPI PNG)](../../../charts/poten/2022/poten_2022-02-04_that-sinking-feeling_chart1.png)

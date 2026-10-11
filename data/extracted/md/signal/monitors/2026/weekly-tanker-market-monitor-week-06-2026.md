@@ -31,11 +31,11 @@ tags:
 The average VLCC ballast speed in the AG area is now edging toward the upper range of 11.9, which aligns with the upward trend in TD3C rates. (Speeds Trend Analysis available [now](https://app.signalocean.com/tanker/dynamic/timeseries\_tanker) here)
 
 
-![All Data and Commentary Reflect Market Conditions as of [Thursday, 5 February 2026], Unless Otherwise Stated.](../../images/6985e3bd658ed643736a6f33_ef47a8f4.png)
+![All Data and Commentary Reflect Market Conditions as of [Thursday, 5 February 2026], Unless Otherwise Stated.](../../../../../../corpus/07-signal/images/6985e3bd658ed643736a6f33_ef47a8f4.png)
 
 > **Figure 1: All Data and Commentary Reflect Market Conditions as of [Thursday, 5 February 2026], Unless Otherwise Stated.**  
 > *All data and commentary reflect market conditions as of [Thursday, 5 February 2026], unless otherwise stated.*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-tanker-market-monitor-week-06-2026) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6985e3bd658ed643736a6f33_ef47a8f4.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-tanker-market-monitor-week-06-2026) | [Local Asset](../../../../../../corpus/07-signal/images/6985e3bd658ed643736a6f33_ef47a8f4.png)
 
 Amid rising Middle East tensions and geopolitical shifts, TD3C was indicating a soft downward trend into Friday’s close in the previous week, but the move proved short-lived, with rates surprisingly spiking again shortly thereafter.
 
@@ -54,16 +54,16 @@ Mid-week [energy news](https://oilprice.com/Latest-Energy-News/World-News/India-
 In light of these developments, we reviewed U.S. crude oil shipments to India using [TSOP](https://app.signalocean.com/tanker/dynamic/oilflows) data. From September onward, we observed a gradual increase in U.S. crude oil volumes shipped to India compared with the corresponding months of the previous year. Notably, during August 2025, volumes increased by more than 180% compared with July 2025 and by more than 80% compared with August 2024. This upward trend aligns with industry reports from early August, when U.S. officials first called on India to halt purchases of Russian oil or face potential tariff penalties.
 
 
-![‍chart of the Week| AG VLCC Ballast Speed on Rise](../../images/6985e3bd658ed643736a6f27_33a3dc8c.png)
+![‍chart of the Week| AG VLCC Ballast Speed on Rise](../../../../../../corpus/07-signal/images/6985e3bd658ed643736a6f27_33a3dc8c.png)
 
 > **Figure 2: ‍chart of the Week| AG VLCC Ballast Speed on Rise**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-tanker-market-monitor-week-06-2026) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6985e3bd658ed643736a6f27_33a3dc8c.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-tanker-market-monitor-week-06-2026) | [Local Asset](../../../../../../corpus/07-signal/images/6985e3bd658ed643736a6f27_33a3dc8c.png)
 
 
-![‍chart of the Week| AG VLCC Ballast Speed on Rise](../../images/6985e3bd658ed643736a6f2a_2f0184f4.png)
+![‍chart of the Week| AG VLCC Ballast Speed on Rise](../../../../../../corpus/07-signal/images/6985e3bd658ed643736a6f2a_2f0184f4.png)
 
 > **Figure 3: ‍chart of the Week| AG VLCC Ballast Speed on Rise**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-tanker-market-monitor-week-06-2026) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6985e3bd658ed643736a6f2a_2f0184f4.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-tanker-market-monitor-week-06-2026) | [Local Asset](../../../../../../corpus/07-signal/images/6985e3bd658ed643736a6f2a_2f0184f4.png)
 
 
 ## Freight Market Overview - Dirty
@@ -72,10 +72,10 @@ In light of these developments, we reviewed U.S. crude oil shipments to India us
 ## Baltic Dirty Tanker Indextrending Exceptionally Higher (+87% YoY)
 
 
-![Baltic Dirty Tanker Index Trending Exceptionally Higher (+87% YoY)](../../images/6985e3bd658ed643736a6f18_fc2013e7.png)
+![Baltic Dirty Tanker Index Trending Exceptionally Higher (+87% YoY)](../../../../../../corpus/07-signal/images/6985e3bd658ed643736a6f18_fc2013e7.png)
 
 > **Figure 4: Baltic Dirty Tanker Index Trending Exceptionally Higher (+87% YoY)**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-tanker-market-monitor-week-06-2026) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6985e3bd658ed643736a6f18_fc2013e7.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-tanker-market-monitor-week-06-2026) | [Local Asset](../../../../../../corpus/07-signal/images/6985e3bd658ed643736a6f18_fc2013e7.png)
 
 
 ## Dirtytce$/day
@@ -90,10 +90,10 @@ In light of these developments, we reviewed U.S. crude oil shipments to India us
 - Freight sentiment remains strong, despite a slight easing of momentum compared to recent levels. This sustained optimism is reflected when contrasting current figures with weekly, monthly, and annual performance.
 
 
-![6985e3bd658ed643736a6f21 630ae398](../../images/6985e3bd658ed643736a6f21_630ae398.png)
+![6985e3bd658ed643736a6f21 630ae398](../../../../../../corpus/07-signal/images/6985e3bd658ed643736a6f21_630ae398.png)
 
 > **Figure 5: 6985e3bd658ed643736a6f21 630ae398**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-tanker-market-monitor-week-06-2026) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6985e3bd658ed643736a6f21_630ae398.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-tanker-market-monitor-week-06-2026) | [Local Asset](../../../../../../corpus/07-signal/images/6985e3bd658ed643736a6f21_630ae398.png)
 
 
 - **VLCC:** Time Charter Equivalent (TCE) rates for the Middle East Gulf to China route are approximately $123k/d, marking a significant rise from the $29k/d seen at the beginning of January.
@@ -101,10 +101,10 @@ In light of these developments, we reviewed U.S. crude oil shipments to India us
 - **Aframax:** North Sea-to-Continent rates currently stand at $90k/d. While this represents an outstanding increase from the start-of-year rate of around $57k/d, it is significantly weaker than the extraordinary spike to approximately $140k/d recorded just before the end of January.
 
 
-![6985e3bd658ed643736a6f24 6d884c9f](../../images/6985e3bd658ed643736a6f24_6d884c9f.png)
+![6985e3bd658ed643736a6f24 6d884c9f](../../../../../../corpus/07-signal/images/6985e3bd658ed643736a6f24_6d884c9f.png)
 
 > **Figure 6: 6985e3bd658ed643736a6f24 6d884c9f**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-tanker-market-monitor-week-06-2026) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6985e3bd658ed643736a6f24_6d884c9f.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-tanker-market-monitor-week-06-2026) | [Local Asset](../../../../../../corpus/07-signal/images/6985e3bd658ed643736a6f24_6d884c9f.png)
 
 
 ## Freight Market Overview - Clean
@@ -116,10 +116,10 @@ In light of these developments, we reviewed U.S. crude oil shipments to India us
 - The current index value shows remarkable strength, posting a significant increase that places it notably higher than last year. However, it is crucial to temper this enthusiasm by recalling the exceptionally high peak observed just two years ago. While the current level is firmer on an annual basis, it has not yet reached the remarkable heights of 2024. During that period, the index surged to an unprecedented 1,400 points by the close of January.
 
 
-![Baltic Clean Tanker Index (+30% YoY)](../../images/6985e3bd658ed643736a6f1e_da2e54ce.png)
+![Baltic Clean Tanker Index (+30% YoY)](../../../../../../corpus/07-signal/images/6985e3bd658ed643736a6f1e_da2e54ce.png)
 
 > **Figure 7: Baltic Clean Tanker Index (+30% YoY)**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-tanker-market-monitor-week-06-2026) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6985e3bd658ed643736a6f1e_da2e54ce.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-tanker-market-monitor-week-06-2026) | [Local Asset](../../../../../../corpus/07-signal/images/6985e3bd658ed643736a6f1e_da2e54ce.png)
 
 
 ## Cleantce$/day
@@ -134,16 +134,16 @@ In light of these developments, we reviewed U.S. crude oil shipments to India us
 - In the **clean** segment, the standout route for annual growth is MR USG to Continent, with earnings up 337% annually and latest indications at about $43k/day.
 
 
-![6985e3bd658ed643736a6f30 6d9d1a84](../../images/6985e3bd658ed643736a6f30_6d9d1a84.png)
+![6985e3bd658ed643736a6f30 6d9d1a84](../../../../../../corpus/07-signal/images/6985e3bd658ed643736a6f30_6d9d1a84.png)
 
 > **Figure 8: 6985e3bd658ed643736a6f30 6d9d1a84**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-tanker-market-monitor-week-06-2026) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6985e3bd658ed643736a6f30_6d9d1a84.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-tanker-market-monitor-week-06-2026) | [Local Asset](../../../../../../corpus/07-signal/images/6985e3bd658ed643736a6f30_6d9d1a84.png)
 
 
-![6985e3bd658ed643736a6f36 D1745161](../../images/6985e3bd658ed643736a6f36_d1745161.png)
+![6985e3bd658ed643736a6f36 D1745161](../../../../../../corpus/07-signal/images/6985e3bd658ed643736a6f36_d1745161.png)
 
 > **Figure 9: 6985e3bd658ed643736a6f36 D1745161**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-tanker-market-monitor-week-06-2026) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6985e3bd658ed643736a6f36_d1745161.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-tanker-market-monitor-week-06-2026) | [Local Asset](../../../../../../corpus/07-signal/images/6985e3bd658ed643736a6f36_d1745161.png)
 
 
 ## Supply Market Trends
@@ -160,10 +160,10 @@ In this section, we highlight the areas of the dirty Baltic routes where TSOP si
 - **AG:** However, the net supply trend in the AG is signalling a decrease, with the vessel count down by around 26% from the end of December in the previous year.
 
 
-![VLCC | Wafr vs AG](../../images/6985e3bd658ed643736a6f2d_41b8d833.png)
+![VLCC | Wafr vs AG](../../../../../../corpus/07-signal/images/6985e3bd658ed643736a6f2d_41b8d833.png)
 
 > **Figure 10: VLCC | Wafr vs AG**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-tanker-market-monitor-week-06-2026) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6985e3bd658ed643736a6f2d_41b8d833.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-tanker-market-monitor-week-06-2026) | [Local Asset](../../../../../../corpus/07-signal/images/6985e3bd658ed643736a6f2d_41b8d833.png)
 
 
 ## Suezmax | Wafrvsblack Sea
@@ -175,10 +175,10 @@ In this section, we highlight the areas of the dirty Baltic routes where TSOP si
 - **Black Sea**: A downward trend in vessel availability has been noted over the past month. Current volatility averages around 25 vessels, down from the peak of just over 30 vessels recorded in mid-November 2025.
 
 
-![Suezmax | Wafr vs Black Sea](../../images/6985e3bd658ed643736a6f1b_f5b005b8.png)
+![Suezmax | Wafr vs Black Sea](../../../../../../corpus/07-signal/images/6985e3bd658ed643736a6f1b_f5b005b8.png)
 
 > **Figure 11: Suezmax | Wafr vs Black Sea**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-tanker-market-monitor-week-06-2026) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6985e3bd658ed643736a6f1b_f5b005b8.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-tanker-market-monitor-week-06-2026) | [Local Asset](../../../../../../corpus/07-signal/images/6985e3bd658ed643736a6f1b_f5b005b8.png)
 
 
 ## Dirty Demand | Tonne Miles - Index View
@@ -189,10 +189,10 @@ In this section, we highlight the areas of the dirty Baltic routes where TSOP si
 The VLCC segment's year-on-year tonne-mile index growth has recently fallen below 100%, lagging behind the Suezmax and Aframax segments. Furthermore, this trend has been in steady decline since its mid-November peak, raising early caution signals regarding the freight market's ability to sustain strength as we approach the end of the first quarter.
 
 
-![VLCC | Suezmax | Aframax 7d Ma Mixed](../../images/6985e3bd658ed643736a6f39_7bd04cd2.png)
+![VLCC | Suezmax | Aframax 7d Ma Mixed](../../../../../../corpus/07-signal/images/6985e3bd658ed643736a6f39_7bd04cd2.png)
 
 > **Figure 12: VLCC | Suezmax | Aframax 7d Ma Mixed**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-tanker-market-monitor-week-06-2026) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6985e3bd658ed643736a6f39_7bd04cd2.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-tanker-market-monitor-week-06-2026) | [Local Asset](../../../../../../corpus/07-signal/images/6985e3bd658ed643736a6f39_7bd04cd2.png)
 
 Metrics Description: [Index View](https://app.signalocean.com/dry/dynamic/timeseries\_dry) (Base 100) by total Tonne Miles over the selected period. This facilitates relative performance comparisons between segments of different sizes (e.g., comparing the growth rate of VLCC vs Suezmax)
 
@@ -205,10 +205,10 @@ Metrics Description: [Index View](https://app.signalocean.com/dry/dynamic/timese
 The Aframax segment is experiencing a significant downward trend in its growth index, recently dropping to a low of 80%. This contrasts sharply with the firmer performance observed in the dirty tonne-miles growth rate.
 
 
-![Aframax | Panamax | Mr 7d Ma Mixed](../../images/6985e3bd658ed643736a6f3c_2695f664.png)
+![Aframax | Panamax | Mr 7d Ma Mixed](../../../../../../corpus/07-signal/images/6985e3bd658ed643736a6f3c_2695f664.png)
 
 > **Figure 13: Aframax | Panamax | Mr 7d Ma Mixed**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-tanker-market-monitor-week-06-2026) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6985e3bd658ed643736a6f3c_2695f664.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-tanker-market-monitor-week-06-2026) | [Local Asset](../../../../../../corpus/07-signal/images/6985e3bd658ed643736a6f3c_2695f664.png)
 
 Metrics Description: [Index View](https://app.signalocean.com/dry/dynamic/timeseries\_dry) (Base 100) by total Tonne Miles over the selected period. This facilitates relative performance comparisons between segments of different sizes (e.g., comparing the growth rate of VLCC vs Suezmax)
 

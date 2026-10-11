@@ -26,10 +26,18 @@ What can we learn from the above two examples in terms of how a possible economi
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: Recession Ahead](../../../charts/poten/2019/poten_2019-08-16_recession-ahead_chart1.png)
+![Exhibit 1: Global GDP Growth vs Oil Demand Growth](../../../charts/poten/2019/poten_2019-08-16_recession-ahead_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2019/poten_2019-08-16_recession-ahead_chart1.png)
+> **Exhibit 1: Global GDP Growth vs Oil Demand Growth**  
+> Unit: % · X-axis: 1966 to 2016  
+> Series: Global GDP Growth, Oil Demand Growth  
+> *Source: Worldbank, BP*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2019/poten_2019-08-16_recession-ahead_chart1.png)
 
-![Exhibit 2: Recession Ahead](../../../charts/poten/2019/poten_2019-08-16_recession-ahead_chart2.png)
+![Exhibit 2: Oil Trade vs VLCC Rates](../../../charts/poten/2019/poten_2019-08-16_recession-ahead_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2019/poten_2019-08-16_recession-ahead_chart2.png)
+> **Exhibit 2: Oil Trade vs VLCC Rates**  
+> Unit: Kb/d | VLCC TCE · X-axis: 1980 to 2015  
+> Series: Oil Movements, VLCC Rates  
+> *Source: BP, Poten*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2019/poten_2019-08-16_recession-ahead_chart2.png)

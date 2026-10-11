@@ -24,10 +24,14 @@ While we have highlighted the impact of hurricanes on the Aframax tanker market 
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: Keeping An Eye On The Hurricanes](../../../charts/poten/2018/poten_2018-09-07_keeping-an-eye-on-the-hurricanes_chart1.png)
+![Exhibit 1: Major U.S. Gulf Hurricanes vs Aframax Car-USG Rates](../../../charts/poten/2018/poten_2018-09-07_keeping-an-eye-on-the-hurricanes_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2018/poten_2018-09-07_keeping-an-eye-on-the-hurricanes_chart1.png)
+> **Exhibit 1: Major U.S. Gulf Hurricanes vs Aframax Car-USG Rates**  
+> Unit: TCE ($/day) · X-axis: Jan-00 to Jan-18  
+> Series: Aframax Car-USG Rates, Ivan, Katrina, Rita, Gustav, Ike, Isaac, Harvey  
+> *Source: Poten, NOAA*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2018/poten_2018-09-07_keeping-an-eye-on-the-hurricanes_chart1.png)
 
 ![Exhibit 2: Keeping An Eye On The Hurricanes](../../../charts/poten/2018/poten_2018-09-07_keeping-an-eye-on-the-hurricanes_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2018/poten_2018-09-07_keeping-an-eye-on-the-hurricanes_chart2.png)
+> **Interactive Asset:** [Local Asset (200 DPI PNG)](../../../charts/poten/2018/poten_2018-09-07_keeping-an-eye-on-the-hurricanes_chart2.png)

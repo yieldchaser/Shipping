@@ -38,4 +38,4 @@ The crude tanker market will probably benefit from these alterative pipeline rou
 
 ![Exhibit 1: Backup Plans](../../../charts/poten/2026/poten_2026-07-17_backup-plans_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2026/poten_2026-07-17_backup-plans_chart1.png)
+> **Interactive Asset:** [Local Asset (200 DPI PNG)](../../../charts/poten/2026/poten_2026-07-17_backup-plans_chart1.png)

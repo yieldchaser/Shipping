@@ -32,10 +32,18 @@ However, we caution against too much pessimism. The oil and tanker markets are p
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: Not So Happy New Year](../../../charts/poten/2018/poten_2018-01-12_not-so-happy-new-year_chart1.png)
+![Exhibit 1: VLCC 270,000: Ras Tanura - Chiba](../../../charts/poten/2018/poten_2018-01-12_not-so-happy-new-year_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2018/poten_2018-01-12_not-so-happy-new-year_chart1.png)
+> **Exhibit 1: VLCC 270,000: Ras Tanura - Chiba**  
+> Unit: US$/day · X-axis: 1 to 51  
+> Series: 2018, 2017, 2016, 2015  
+> *Source: Poten & Partners*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2018/poten_2018-01-12_not-so-happy-new-year_chart1.png)
 
-![Exhibit 2: Not So Happy New Year](../../../charts/poten/2018/poten_2018-01-12_not-so-happy-new-year_chart2.png)
+![Exhibit 2: Change in Monthly Voyages 2016Q4 vs 2017Q4](../../../charts/poten/2018/poten_2018-01-12_not-so-happy-new-year_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2018/poten_2018-01-12_not-so-happy-new-year_chart2.png)
+> **Exhibit 2: Change in Monthly Voyages 2016Q4 vs 2017Q4**  
+> Unit: Change in Monthly Voyages · X-axis: Middle East - USG to WAF - Asia  
+> Series: Middle East - USG, Middle East - Asia, Intra Middle East, Middle East - UKC, All Other, USG - Asia, WAF - Asia  
+> *Source: Lloyd’s List Intelligence*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2018/poten_2018-01-12_not-so-happy-new-year_chart2.png)

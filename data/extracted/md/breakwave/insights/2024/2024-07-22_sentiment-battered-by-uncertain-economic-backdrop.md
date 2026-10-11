@@ -24,10 +24,10 @@ A broader risk-off tone across markets weighed on sentiment, and was exacerbated
 
 *By*[*Daniel Hynes*](https://www.linkedin.com/in/dahynes/)
 
-![Στιγμιότυπο Οθόνης 2024 07 22 102141](assets/2024-07-22_sentiment-battered-by-uncertain-economic-backdrop_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_c8018a0ac175.png)
+![Στιγμιότυπο Οθόνης 2024 07 22 102141](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-07-22_sentiment-battered-by-uncertain-economic-backdrop_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_c8018a0ac175.png)
 
 > **Figure 1: Στιγμιότυπο Οθόνης 2024 07 22 102141**  
-> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-07-22_sentiment-battered-by-uncertain-economic-backdrop_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_c8018a0ac175.png)
+> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-07-22_sentiment-battered-by-uncertain-economic-backdrop_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_c8018a0ac175.png)
 
 ### Market Commentary
 
@@ -43,10 +43,10 @@ A broader risk-off tone across markets weighed on sentiment, and was exacerbated
 
 **European gas**prices pared some of the week’s gains as traders assessed the impact of supply risks. There are growing concerns about deliveries from the Freeport LNG export terminal as it struggles to restart following Hurricane Beryl. North Asia LNG prices remained elevated amid strong demand, as a heatwave boosts cooling requirements. Supply tightness is also evident. Egypt’s gas output has dropped to its lowest level in six years.
 
-![Cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85](assets/2024-07-22_sentiment-battered-by-uncertain-economic-backdrop_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_5abed0bb83a2.png)
+![Cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-07-22_sentiment-battered-by-uncertain-economic-backdrop_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_5abed0bb83a2.png)
 
 > **Figure 2: Cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85**  
-> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-07-22_sentiment-battered-by-uncertain-economic-backdrop_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_5abed0bb83a2.png)
+> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-07-22_sentiment-battered-by-uncertain-economic-backdrop_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_5abed0bb83a2.png)
 
 Data source:[Commodities Wrap](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI)
 

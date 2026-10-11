@@ -22,22 +22,25 @@ The path towards completion for Africa's largest refinery has not been easy. Nig
 
 The plan for the Dangote refinery is to meet a number of key objectives. First of all, it aims to eliminate Nigeria's reliance on imported petroleum products, such as gasoline, diesel, kerosine and jet fuel. Another objective is to produce a surplus of product to enable exports. Dangote also targets to use significant quantities of domestically produced crude oil.
 
-As the refinery is ramping up, Dangote is starting to fulfill this objective. If Dangote can increase the production of gasoline, diesel and jet fuel according to plan, it is entirely feasible that Nigeria's net refined product imports (imports minus exports) will become negative as soon as 2026. [Chart 1](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2025/poten_2025-01-31_gaining-momentum_chart1.png) shows that Nigeria's clean product imports declined significantly in the summer of 2023. This decline was not related to the Dangote refinery, but due to the sudden removal of fuel subsidies in May 2023 by the new Nigerian President Bola Tinubu. In 2022, the Nigerian government spend $20 Billion on fuel subsidies, representing 40% of the government's revenue. This was unsustainable, especially since the subsidies facilitated corruption and led to widespread smuggling of fuel across the border to neighboring countries. However, soaring inflation and currency devaluation forced the government to reverse course and partially reinstate the fuel subsidies in March 2024. Because Dangote started to produce domestic gasoline a few months later, these subsidies did not lead to a sustained increase in fuel imports.
+As the refinery is ramping up, Dangote is starting to fulfill this objective. If Dangote can increase the production of gasoline, diesel and jet fuel according to plan, it is entirely feasible that Nigeria's net refined product imports (imports minus exports) will become negative as soon as 2026. [Chart 1](../../../charts/poten/2025/poten_2025-01-31_gaining-momentum_chart1.png) shows that Nigeria's clean product imports declined significantly in the summer of 2023. This decline was not related to the Dangote refinery, but due to the sudden removal of fuel subsidies in May 2023 by the new Nigerian President Bola Tinubu. In 2022, the Nigerian government spend $20 Billion on fuel subsidies, representing 40% of the government's revenue. This was unsustainable, especially since the subsidies facilitated corruption and led to widespread smuggling of fuel across the border to neighboring countries. However, soaring inflation and currency devaluation forced the government to reverse course and partially reinstate the fuel subsidies in March 2024. Because Dangote started to produce domestic gasoline a few months later, these subsidies did not lead to a sustained increase in fuel imports.
 
-> **Exhibit 1: Gaining Momentum (Chart 1)**  
-> *Source: Poten & Partners*  
-> **Interactive Data & Source:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2025/poten_2025-01-31_gaining-momentum_chart1.png)
+> **Exhibit 1: Clean Product Imports into Nigeria**  
+> Unit: Kb/d · X-axis: Jan-20 to Jan-25  
+> Series: Belgium, Netherlands, Norway, Latvia, Russia, France, India, United Kingdom, Other  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2025/poten_2025-01-31_gaining-momentum_chart1.png)
 
-![Exhibit 1: Gaining Momentum](../../../charts/poten/2025/poten_2025-01-31_gaining-momentum_chart1.png)
+![Exhibit 1: Clean Product Imports into Nigeria](../../../charts/poten/2025/poten_2025-01-31_gaining-momentum_chart1.png)
 
 In addition to supplying fuel to the domestic market, the Dangote refinery has also started to export refined products in 2024. The main destinations are in the region (Togo, Ghana and Angola), but Dangote has also shipped products to South Korea, Spain, Puerto Rico and Brazil. Western Europe is the region mostly affected by Dangote flexing its muscles in the refined product markets. From 2020-2022, they exported an average of 270,000 b/d of products to Nigeria, representing 70% of the total. Imports over the last 6 months averaged only 130,000 b/d (50% less) and Europe's market share dropped to 47%. Since Europe's domestic demand is stagnating, it will need to find alternative export destinations for its products.
 
-Dangote imports its crude feedstock from multiple sources ([Chart 2](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2025/poten_2025-01-31_gaining-momentum_chart2.png)). As planned and to be expected, most of the crudes for the refinery are domestic Nigerian grades, primarily shipped from Nigeria's offshore fields. However, Dangote also regularly imports WTI from the United States. Late last year, it shipped a cargo from Angola and most recently it was reported that it purchased crude oil from Cameroon, further diversifying its sources of supply. The fact that Dangote does not exclusively use domestic crude somewhat mitigates the impact on the global crude oil trades.
+Dangote imports its crude feedstock from multiple sources ([Chart 2](../../../charts/poten/2025/poten_2025-01-31_gaining-momentum_chart2.png)). As planned and to be expected, most of the crudes for the refinery are domestic Nigerian grades, primarily shipped from Nigeria's offshore fields. However, Dangote also regularly imports WTI from the United States. Late last year, it shipped a cargo from Angola and most recently it was reported that it purchased crude oil from Cameroon, further diversifying its sources of supply. The fact that Dangote does not exclusively use domestic crude somewhat mitigates the impact on the global crude oil trades.
 
-> **Exhibit 2: Gaining Momentum (Chart 2)**  
-> *Source: Poten & Partners*  
-> **Interactive Data & Source:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2025/poten_2025-01-31_gaining-momentum_chart2.png)
+> **Exhibit 2: Dangote Crude Sourcing (Weekly)**  
+> Unit: Kb/d · X-axis: 1-Jan-24 to 13-Jan-25  
+> Series: Nigeria, United States, Angola  
+> *Source: Vortexa*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2025/poten_2025-01-31_gaining-momentum_chart2.png)
 
-![Exhibit 2: Gaining Momentum](../../../charts/poten/2025/poten_2025-01-31_gaining-momentum_chart2.png)
+![Exhibit 2: Dangote Crude Sourcing (Weekly)](../../../charts/poten/2025/poten_2025-01-31_gaining-momentum_chart2.png)
 
 While it is still not operating at full capacity, it can already be said that Mr. Dangote is delivering on his promises. His mammoth refinery is reshuffling both crude oil and product flows in the Atlantic Basin. The refinery utilizes VLCCs, Suezmaxes and Aframaxes for its crude purchases, while MRs and LR1 and LR2 product carriers move products in and out of the country.

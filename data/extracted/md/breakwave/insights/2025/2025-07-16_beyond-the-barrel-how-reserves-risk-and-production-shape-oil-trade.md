@@ -26,10 +26,10 @@ In energy economics, proven oil reserves refer to quantities of crude oil that g
 
 **Top Ranking Countries**: Venezuela remains the world’s largest holder of proven oil reserves (approximately 304 billion barrels), followed by Saudi Arabia (approximately 297 billion barrels). Iran holds approximately 209 billion barrels, while Canada possesses around 167 billion barrels, largely in oil sands. Iraq, the UAE, and Kuwait each have reserves exceeding 100 billion barrels. Russia is estimated to hold around 107 billion barrels, though reporting standards vary. The United States, ranking ninth with approximately 74 billion barrels, nevertheless leads global oil production.
 
-![Στιγμιότυπο Οθόνης 2025 07 16 105149](assets/2025-07-16_beyond-the-barrel-how-reserves-risk-and-production-shape-oil-trade_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_27dcbf976c58.png)
+![Στιγμιότυπο Οθόνης 2025 07 16 105149](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-07-16_beyond-the-barrel-how-reserves-risk-and-production-shape-oil-trade_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_27dcbf976c58.png)
 
 > **Figure 1: Στιγμιότυπο Οθόνης 2025 07 16 105149**  
-> **Interactive Data & Source:** [Allied-shipbroking](https://www.allied-shipbroking.gr/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-07-16_beyond-the-barrel-how-reserves-risk-and-production-shape-oil-trade_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_27dcbf976c58.png)
+> **Interactive Data & Source:** [Allied-shipbroking](https://www.allied-shipbroking.gr/) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-07-16_beyond-the-barrel-how-reserves-risk-and-production-shape-oil-trade_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_27dcbf976c58.png)
 
 This uneven distribution of reserves shapes the global energy landscape and drives long-haul tanker flows. Countries with vast reserves but constrained production whether due to sanctions, infrastructure bottlenecks, or political instability often wield geopolitical leverage rather than market dominance. This dynamic is expressed through OPEC+ coordination, control over key maritime chokepoints such as the Strait of Hormuz, and regional alliances that influence energy security and seaborne trade.
 

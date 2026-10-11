@@ -32,7 +32,7 @@ tags:
 
 > **Figure 1: Data Source: The Signal Ocean Platform Data**  
 > *Data Source: The Signal Ocean Platform Data*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/dry-week-48-2023) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/656712bd3f97b8e9dfd09873_DRY PANAMAX TONNE CHART.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/dry-week-48-2023) | [Local Asset](../../../../../../corpus/07-signal/images/656712bd3f97b8e9dfd09873_DRY%20PANAMAX%20TONNE%20CHART.png)
 
 The dynamics of the freight market at the end of November fueled market participants' expectations of an upturn in the final month of the year, with the Panamax ship size continuing to gain significant strength compared to the smaller vessel categories. In addition, rates for Capesize vessels from Brazil to North China saw renewed gains, the stability of which is yet to be confirmed as iron ore prices have recently gained momentum, providing positive momentum for the end of the final quarter of this year. In the Panamax vessel segment, the increase in tonne days between the Continent and the Far East after a slump at the end of October is interesting to observe. This recent upward trend appears to have supported the rise in the Baltic Panamax Index, which points to a late recovery also aided by an increase in Chinese coal imports.
 

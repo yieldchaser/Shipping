@@ -20,10 +20,10 @@ source_file: "corpus/03-breakwave/insights/2024/2024-06-20_the-long-view.html"
 
 ---
 
-![Istock 485480338](assets/2024-06-20_the-long-view_img_istock-485480338_e8cd5e92a0e9.jpg)
+![Istock 485480338](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-06-20_the-long-view_img_istock-485480338_e8cd5e92a0e9.jpg)
 
 > **Figure 1: Istock 485480338**  
-> **Interactive Data & Source:** [Gibsons Co](https://www.gibsons.co.uk/market-reports) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-06-20_the-long-view_img_istock-485480338_e8cd5e92a0e9.jpg)
+> **Interactive Data & Source:** [Gibsons Co](https://www.gibsons.co.uk/market-reports) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-06-20_the-long-view_img_istock-485480338_e8cd5e92a0e9.jpg)
 
 Oil demand will peak this decade, that is the call by the International Energy Agency (IEA) who released their Oil 2024 report this week. The agency is now forecasting global oil demand growth to slow for the remainder of this decade, peaking in 2029 at 105.6 mbd from 103.2 mbd in 2024 and slip marginally to 105.4 mbd in 2030. The bulk of this demand growth, as expected will come from India and China, and other emerging Asian nations, primarily the petrochemical sector and aviation demand. The growing electrification of road transport will continue to pressure road fuel demand, with gasoline demand expected to fall by 1.6 mbd by 2030.
 
@@ -37,10 +37,10 @@ What does all this mean for the tanker markets? Firstly, for the crude tanker se
 
 Likewise, the shift in demand from conventional refined products to biofuels, petrochemical feedstocks and NGLs will result in new opportunities for specialized and chemical tankers as well as the gas carrier fleets. For both crude and product tankers, this period will undoubtedly result in some readjustment, but fleet supply fundamentals should be able to offset these changing patterns or in the case of the crude sector, likely provide a stable source of support beyond 2030. However, it is important to note that this is just one view while others such as OPEC and other forecasting agencies are taking a more bullish view about when oil demand will peak.
 
-![Στιγμιότυπο Οθόνης 2024 06 19 102610](assets/2024-06-20_the-long-view_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_abb6d37901f6.png)
+![Στιγμιότυπο Οθόνης 2024 06 19 102610](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-06-20_the-long-view_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_abb6d37901f6.png)
 
 > **Figure 2: Στιγμιότυπο Οθόνης 2024 06 19 102610**  
-> **Interactive Data & Source:** [Gibsons Co](https://www.gibsons.co.uk/market-reports) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-06-20_the-long-view_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_abb6d37901f6.png)
+> **Interactive Data & Source:** [Gibsons Co](https://www.gibsons.co.uk/market-reports) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-06-20_the-long-view_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_abb6d37901f6.png)
 
 Data source:[Gibson Shipbrokers](https://www.gibsons.co.uk/market-reports)
 

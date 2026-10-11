@@ -23,10 +23,10 @@ source_file: "corpus/03-breakwave/insights/2023/2023-09-22_signal-tanker-weekly-
 
 **Higher growth rates of dirty Libyan exports to Italy, Spain, France & the Netherlands in 2Q - 3Q 2023**
 
-![Market Chart 1](assets/2023-09-22_signal-tanker-weekly-report_img_unnamed-2023-09-21t205048187_d7eba43ca1da.png)
+![Market Chart 1](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-09-22_signal-tanker-weekly-report_img_unnamed-2023-09-21t205048187_d7eba43ca1da.png)
 
 > **Figure 1: Market Chart 1**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-09-22_signal-tanker-weekly-report_img_unnamed-2023-09-21t205048187_d7eba43ca1da.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-09-22_signal-tanker-weekly-report_img_unnamed-2023-09-21t205048187_d7eba43ca1da.png)
 
 The third week of September began on a positive note for VLCC crude oil freight rates, moving well off the August lows and setting a more energetic tone in the transition from the summer season. It remains uncertain whether this newfound momentum will continue through the end of the month as the market hopes for a stronger recovery during the upcoming winter period.
 
@@ -44,10 +44,10 @@ Freight Market, Supply and Demand
 
 Market Rates (WS)
 
-![‘Dirty’ Ws​vlcc - Suezmax - Aframax Weaker](assets/2023-09-22_signal-tanker-weekly-report_img_unnamed-2023-09-21t205315982_9d564de2fd4e.png)
+![‘Dirty’ Ws​vlcc - Suezmax - Aframax Weaker](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-09-22_signal-tanker-weekly-report_img_unnamed-2023-09-21t205315982_9d564de2fd4e.png)
 
 > **Figure 2: ‘Dirty’ Ws​vlcc - Suezmax - Aframax Weaker**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-09-22_signal-tanker-weekly-report_img_unnamed-2023-09-21t205315982_9d564de2fd4e.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-09-22_signal-tanker-weekly-report_img_unnamed-2023-09-21t205315982_9d564de2fd4e.png)
 
 Sentiment seems to have been revised upward for the VLCC MEG-China route, whereas, there is still downward pressure in the Aframax.
 
@@ -55,28 +55,28 @@ Sentiment seems to have been revised upward for the VLCC MEG-China route, wherea
 2. Suezmax freight rates for shipments from West Africa to continental Europe rose to WS78, up 10% from a month ago, while rates on the Suez-Baltic-Med route remained unchanged at WS73 for another week.
 3. Aframax Med freight rates remained at WS88 levels, with signs of a pause in the downward trend, while current sentiment shows a 19% monthly decline.
 
-![‘Product’ Wslr2 Weaker](assets/2023-09-22_signal-tanker-weekly-report_img_unnamed-2023-09-21t205444021_9bb96287ed72.png)
+![‘Product’ Wslr2 Weaker](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-09-22_signal-tanker-weekly-report_img_unnamed-2023-09-21t205444021_9bb96287ed72.png)
 
 > **Figure 3: ‘Product’ Wslr2 Weaker**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-09-22_signal-tanker-weekly-report_img_unnamed-2023-09-21t205444021_9bb96287ed72.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-09-22_signal-tanker-weekly-report_img_unnamed-2023-09-21t205444021_9bb96287ed72.png)
 
 - LR2 AG freight rates fell to 135 WS, after exceeding 140 WS last week, while a flatter trend appears to be emerging for the coming days.
 
 ## Panamaxweaker
 
-![Weaker](assets/2023-09-22_signal-tanker-weekly-report_img_unnamed-2023-09-21t205645016_ca42786a6200.png)
+![Weaker](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-09-22_signal-tanker-weekly-report_img_unnamed-2023-09-21t205645016_ca42786a6200.png)
 
 > **Figure 4: Weaker**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-09-22_signal-tanker-weekly-report_img_unnamed-2023-09-21t205645016_ca42786a6200.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-09-22_signal-tanker-weekly-report_img_unnamed-2023-09-21t205645016_ca42786a6200.png)
 
 - Panamax Carib-to-USG rates fell to 132 WS, down 65% from a year ago, with the downward trend continuing since the end of Week 27.
 
 ## ‘Clean’mr Steady
 
-![‘Clean’mr Steady](assets/2023-09-22_signal-tanker-weekly-report_img_unnamed-2023-09-21t205740830_20872f7e0c62.png)
+![‘Clean’mr Steady](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-09-22_signal-tanker-weekly-report_img_unnamed-2023-09-21t205740830_20872f7e0c62.png)
 
 > **Figure 5: ‘Clean’mr Steady**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-09-22_signal-tanker-weekly-report_img_unnamed-2023-09-21t205740830_20872f7e0c62.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-09-22_signal-tanker-weekly-report_img_unnamed-2023-09-21t205740830_20872f7e0c62.png)
 
 - MR1 rates for the Baltic continent remained at the previous week's level of about WS 183, while the upward trend seems to be flattening.
 
@@ -86,10 +86,10 @@ Sentiment seems to have been revised upward for the VLCC MEG-China route, wherea
 
 Supply Trend Lines for Key Load Areas
 
-!['Dirty' (#Vessels) - Mixed](assets/2023-09-22_signal-tanker-weekly-report_img_unnamed-2023-09-21t205912988_1487b6ef9d0b.png)
+!['Dirty' (#Vessels) - Mixed](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-09-22_signal-tanker-weekly-report_img_unnamed-2023-09-21t205912988_1487b6ef9d0b.png)
 
 > **Figure 6: 'Dirty' (#Vessels) - Mixed**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-09-22_signal-tanker-weekly-report_img_unnamed-2023-09-21t205912988_1487b6ef9d0b.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-09-22_signal-tanker-weekly-report_img_unnamed-2023-09-21t205912988_1487b6ef9d0b.png)
 
 Crude oil tanker supply continued to develop unevenly in the third week of September, however, in the VLCC segment, the number hovers below the annual average.
 
@@ -98,15 +98,15 @@ Crude oil tanker supply continued to develop unevenly in the third week of Septe
 - Aframax Primorsk: The current number of ships is 36, which is 3 ships above the annual average, with the tendency of a further increase in the coming days of September.
 - Aframax Med Novo: The number of ships is now 16, 4 above the annual average, with high volatility and uncertainty about an upward or downward movement.
 
-!['Clean'lr2 (#Vessels) - Increasing](assets/2023-09-22_signal-tanker-weekly-report_img_unnamed-2023-09-21t210156880_30190800ab44.png)
+!['Clean'lr2 (#Vessels) - Increasing](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-09-22_signal-tanker-weekly-report_img_unnamed-2023-09-21t210156880_30190800ab44.png)
 
 > **Figure 7: 'Clean'lr2 (#Vessels) - Increasing**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-09-22_signal-tanker-weekly-report_img_unnamed-2023-09-21t210156880_30190800ab44.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-09-22_signal-tanker-weekly-report_img_unnamed-2023-09-21t210156880_30190800ab44.png)
 
-![MR1 (#Vessels) - Decreasing](assets/2023-09-22_signal-tanker-weekly-report_img_unnamed-2023-09-21t210205993_beb38a13763f.png)
+![MR1 (#Vessels) - Decreasing](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-09-22_signal-tanker-weekly-report_img_unnamed-2023-09-21t210205993_beb38a13763f.png)
 
 > **Figure 8: MR1 (#Vessels) - Decreasing**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-09-22_signal-tanker-weekly-report_img_unnamed-2023-09-21t210205993_beb38a13763f.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-09-22_signal-tanker-weekly-report_img_unnamed-2023-09-21t210205993_beb38a13763f.png)
 
 - ​​​​​Clean LR2 AG Jubail: The number of ships recorded a sudden increase in the third week of September, reaching 8 ships, 4 above the annual average.
 
@@ -116,17 +116,17 @@ Crude oil tanker supply continued to develop unevenly in the third week of Septe
 
 ## ​​‘Dirty’ Increasing
 
-![Dirty](assets/2023-09-22_signal-tanker-weekly-report_img_unnamed-2023-09-21t210346787_18ae1704cc58.png)
+![Dirty](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-09-22_signal-tanker-weekly-report_img_unnamed-2023-09-21t210346787_18ae1704cc58.png)
 
 > **Figure 9: Dirty**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-09-22_signal-tanker-weekly-report_img_unnamed-2023-09-21t210346787_18ae1704cc58.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-09-22_signal-tanker-weekly-report_img_unnamed-2023-09-21t210346787_18ae1704cc58.png)
 
 - Dirty tonne days: In the third week of September, the percentage increase in demand (tonne days) for all crude oil vessel size categories held decreasing pace, although there were signs of an upturn in Aframax
 
-![‘Clean’ Panamax / MR Decreasing](assets/2023-09-22_signal-tanker-weekly-report_img_unnamed-2023-09-21t210435459_ed4ca06c3e31.png)
+![‘Clean’ Panamax / MR Decreasing](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-09-22_signal-tanker-weekly-report_img_unnamed-2023-09-21t210435459_ed4ca06c3e31.png)
 
 > **Figure 10: ‘Clean’ Panamax / MR Decreasing**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-09-22_signal-tanker-weekly-report_img_unnamed-2023-09-21t210435459_ed4ca06c3e31.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-09-22_signal-tanker-weekly-report_img_unnamed-2023-09-21t210435459_ed4ca06c3e31.png)
 
 - Panamax tonne days: Downward pressure is maintained in the third week of September, with the last peak recorded in week 36.
 

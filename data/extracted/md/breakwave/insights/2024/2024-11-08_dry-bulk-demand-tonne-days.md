@@ -27,10 +27,10 @@ November 07, 2024
 
 *This week’s highlight focuses on the growing demand in tonne-days for specific dry cargo types across different vessel sizes, offering insights into recent freight market trends and identifying areas where strong demand for certain cargoes could potentially support freight rates.*
 
-![Στιγμιότυπο Οθόνης 2024 11 08 102922](assets/2024-11-08_dry-bulk-demand-tonne-days_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_a1a7e12e2e9c.png)
+![Στιγμιότυπο Οθόνης 2024 11 08 102922](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-11-08_dry-bulk-demand-tonne-days_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_a1a7e12e2e9c.png)
 
 > **Figure 1: Στιγμιότυπο Οθόνης 2024 11 08 102922**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-11-08_dry-bulk-demand-tonne-days_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_a1a7e12e2e9c.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-11-08_dry-bulk-demand-tonne-days_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_a1a7e12e2e9c.png)
 
 November brought a significant downturn in dry bulk freight rates, with the Baltic Capesize Index plummeting by 40% on a monthly level. The Baltic Panamax Index also showed a decline, though at a slower pace of 14%. In smaller vessel categories, the Supramax and Handysize segments have seen milder decreases, with the Supramax index down by 10% and the Handysize index demonstrating notable resilience, remaining relatively stable at last month’s levels. This varied performance across vessel types reflects differing dynamics and demand factors influencing each segment.
 
@@ -38,10 +38,10 @@ Examining recent freight market trends and attempting to anticipate developments
 
 In the Supramax segment, minerals cargoes have shown consistent growth in tonne-days since early June, reaching 35 million in recent weeks — the highest level observed in the past three years. Looking ahead, these upward trends in specific cargo types could provide some support to freight rates in Q4, particularly if export volumes in key regions remain strong. However, with varying demand across vessel sizes and types, the outlook for dry bulk freight rates may remain mixed, shaped by evolving global trade patterns and regional increased ongoing geopolitical risks.
 
-![Στιγμιότυπο Οθόνης 2024 11 08 103108](assets/2024-11-08_dry-bulk-demand-tonne-days_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_22ffa6d61f0c.png)
+![Στιγμιότυπο Οθόνης 2024 11 08 103108](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-11-08_dry-bulk-demand-tonne-days_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_22ffa6d61f0c.png)
 
 > **Figure 2: Στιγμιότυπο Οθόνης 2024 11 08 103108**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-11-08_dry-bulk-demand-tonne-days_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_22ffa6d61f0c.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-11-08_dry-bulk-demand-tonne-days_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_22ffa6d61f0c.png)
 
 The dry bulk freight market continues to show weakening momentum in the larger vessel categories, though Capesize rates from Brazil to North China are displaying subtle indications of a possible upward shift.
 
@@ -53,10 +53,10 @@ The dry bulk freight market continues to show weakening momentum in the larger v
 
 - **Handysize**freight rates for the NOPAC Far East route have dropped below $34 per ton, reflecting a 4% decline month-over-month, with a downward trend continuing into November.
 
-![Στιγμιότυπο Οθόνης 2024 11 08 103222](assets/2024-11-08_dry-bulk-demand-tonne-days_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_8b555d23cc2e.png)
+![Στιγμιότυπο Οθόνης 2024 11 08 103222](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-11-08_dry-bulk-demand-tonne-days_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_8b555d23cc2e.png)
 
 > **Figure 3: Στιγμιότυπο Οθόνης 2024 11 08 103222**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-11-08_dry-bulk-demand-tonne-days_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_8b555d23cc2e.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-11-08_dry-bulk-demand-tonne-days_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_8b555d23cc2e.png)
 
 The second week of the November still signalled a mixed trend, with the number of ballasters still rising in the Capesize, while the Panamax segment continues to experience a decline.
 
@@ -65,10 +65,10 @@ The second week of the November still signalled a mixed trend, with the number o
 - **Supramax SE Asia:**There has been an upward adjustment, with numbers moving above the annual average of 100 and nearing around 105.
 - **Handysize NOPAC:**An upward revision above the annual average seems is confirmed from the previous month, with levels now around 88—22 higher than the low recorded in week 38.
 
-![Στιγμιότυπο Οθόνης 2024 11 08 103326](assets/2024-11-08_dry-bulk-demand-tonne-days_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_b37c3472b455.png)
+![Στιγμιότυπο Οθόνης 2024 11 08 103326](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-11-08_dry-bulk-demand-tonne-days_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_b37c3472b455.png)
 
 > **Figure 4: Στιγμιότυπο Οθόνης 2024 11 08 103326**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-11-08_dry-bulk-demand-tonne-days_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_b37c3472b455.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-11-08_dry-bulk-demand-tonne-days_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_b37c3472b455.png)
 
 In the second week of November, dry tonne-days for the Capesize segment began showing signs of a rebound, with even stronger percentage growth observed across other vessel size categories.
 
@@ -77,10 +77,10 @@ In the second week of November, dry tonne-days for the Capesize segment began sh
 - **Supramax:**The growth rate in the first half of November has shown stronger momentum compared to late October, even surpassing the recent peak reached in week 39.
 - **Handysize:**The growth rate held an increasing pace from the end of October while there are indications of a similar trend in the coming days.
 
-![Στιγμιότυπο Οθόνης 2024 11 08 103434](assets/2024-11-08_dry-bulk-demand-tonne-days_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_a5d1e5d72fb9.png)
+![Στιγμιότυπο Οθόνης 2024 11 08 103434](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-11-08_dry-bulk-demand-tonne-days_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_a5d1e5d72fb9.png)
 
 > **Figure 5: Στιγμιότυπο Οθόνης 2024 11 08 103434**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-11-08_dry-bulk-demand-tonne-days_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_a5d1e5d72fb9.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-11-08_dry-bulk-demand-tonne-days_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_a5d1e5d72fb9.png)
 
 Congestion at Chinese dry bulk ports remains steady, primarily driven by lower levels recorded in the smaller vessel size categories.
 

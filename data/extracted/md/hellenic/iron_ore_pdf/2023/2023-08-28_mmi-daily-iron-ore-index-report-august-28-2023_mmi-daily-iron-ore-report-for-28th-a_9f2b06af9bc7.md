@@ -141,6 +141,8 @@ DCE iron ore futures declined by 0.85% today, the main contract closed at 812.5.
 | **Jiangyin** | -30.00 | +0.00 | **Dalian** | 0.00 | +0.00 |
 
 ## Historical Iron Ore Index Comparisons (USD/DMT)
+> **Approximate.** The report prints no numbers for this chart. Values were read visually from the chart image by the parser and are rough estimates.
+
 | Date | IOSI62 (USD/DMT) | IOPi62 CFR Eq (USD/DMT) | IOSI65 (USD/DMT) | IOPi65 CFR Eq (USD/DMT) |
 | :--- | :--- | :--- | :--- | :--- |
 | 1-Jan-21 | 170.00 | 165.00 | 180.00 | 175.00 |
@@ -179,6 +181,8 @@ DCE iron ore futures declined by 0.85% today, the main contract closed at 812.5.
 | **SGX** | **Sep. 23** | USD/DMT | 110.25 | -3.70 | -3.25% | 6.65 | 37.98 | 111.15 | 114.45 |
 
 ## Dry Bulk Freight Rates Historical Line Data (USD/MT)
+> **Approximate.** The report prints no numbers for this chart. Values were read visually from the chart image by the parser and are rough estimates.
+
 | Date | C5 W. Australia - Qingdao (USD/MT) | C3 Tubarao - Qingdao (USD/MT) |
 | :--- | :--- | :--- |
 | 4-Jan-21 | 18.00 | 18.00 |
@@ -199,21 +203,23 @@ DCE iron ore futures declined by 0.85% today, the main contract closed at 812.5.
 | 4-Jul-23 | 8.00 | 10.00 |
 
 ## Total China Iron Ore Import Volumes (Million Tonnes)
+> **Estimate.** The report prints no numbers for this chart. Values are computed from the chart's vector geometry at each x-axis date label (calibrated on the printed axis ticks; typically within 1% of the axis range).
+
 | Month / Period | Import Volume (Million Tonnes) |
 | :--- | :--- |
-| Jul-22 | 91.00 |
-| Aug-22 | 96.00 |
-| Sep-22 | 99.00 |
-| Oct-22 | 95.00 |
-| Nov-22 | 98.00 |
-| Dec-22 | 90.00 |
-| Jan-23 | 105.00 |
-| Feb-23 | 90.00 |
-| Mar-23 | 100.00 |
-| Apr-23 | 89.00 |
-| May-23 | 95.00 |
-| Jun-23 | 94.00 |
-| Jul-23 | 93.00 |
+| Jul-22 | 91.24 |
+| Aug-22 | 96.26 |
+| Sep-22 | 99.82 |
+| Oct-22 | 95.01 |
+| Nov-22 | 98.77 |
+| Dec-22 | 90.82 |
+| Jan-23 | 103.59 |
+| Feb-23 | 90.61 |
+| Mar-23 | 100.24 |
+| Apr-23 | 90.40 |
+| May-23 | 96.26 |
+| Jun-23 | 95.63 |
+| Jul-23 | 93.54 |
 
 ---
 

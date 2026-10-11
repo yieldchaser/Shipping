@@ -46,10 +46,10 @@ Months of drone strikes on refineries and a lack of ability to process its crude
 
 These high exports included a 2.5 year high in volumes of Russian Arctic, Black Sea and Baltic exports going further afield to China. This is slowing the pace of ballast vessels heading back to the Russia Baltic to load another cargo.
 
-![Market Chart 1](assets/2025-10-17_russian-oil-flows-the-end-game_img_image001_618beb9fe3e7.png)
+![Market Chart 1](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-10-17_russian-oil-flows-the-end-game_img_image001_618beb9fe3e7.png)
 
 > **Figure 1: Market Chart 1**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-10-17_russian-oil-flows-the-end-game_img_image001_618beb9fe3e7.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-10-17_russian-oil-flows-the-end-game_img_image001_618beb9fe3e7.png)
 
 A Baltic-origin Urals laden voyage to China instead of West Coast India translates to a gain of around 70% in tonne-miles. The Russian-trading fleet is heading towards clear challenges with fleet availability. The lower Europe price cap has reduced Russia’s access to Greek-operated vessels (which this summer were responsible for 35% of all Urals liftings). Higher tonne-mile demand for longer voyages to China - due to India’s apparent commitment to stop buying Russian oil - could add to Russia’s demand for ageing vessels. This could benefit the compliant market as vessels exit compliant trade.
 
@@ -63,10 +63,10 @@ The UK’s sanctions on Rosneft and Lukoil have the potential to disrupt the Rus
 
 If we assume that European-linked vessels will now avoid carrying cargoes from these producers due to the risk of UK sanctions, Russia will need to turn to the “grey” and dark fleet. In the last six months, on average 42% of all Russian diesel exports have been facilitated by Greek-operated vessels, as diesel has largely remained under the $100/bbl price cap (except for a short period in late summer/autumn 2023). While diesel exports have shrunk in recent months, compliant ships have grown as a share of all Russian diesel liftings.
 
-![Market Chart 2](assets/2025-10-17_russian-oil-flows-the-end-game_img_image002_b97d62103949.png)
+![Market Chart 2](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-10-17_russian-oil-flows-the-end-game_img_image002_b97d62103949.png)
 
 > **Figure 2: Market Chart 2**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-10-17_russian-oil-flows-the-end-game_img_image002_b97d62103949.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-10-17_russian-oil-flows-the-end-game_img_image002_b97d62103949.png)
 
 The UK’s ban on imports of products refined from Russian crude oil, like the EU’s that is due to come into effect in January 2026 will be difficult complex to enforce and test. We assume that European and UK buyers will, however, err on the side of caution. The EU and UK’s imports of Turkish diesel is already minimal, having dropped recently from around 5% of all imports to 2.7% in September. However, volumes refined in India account for a slightly higher volume (on average 6% in 2025). Europe could rely more on Middle East Gulf-produced middle distillates, including jet fuel. Currently, jet arriving from India into EU and the UK accounts for on average 9% of imports.
 

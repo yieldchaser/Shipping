@@ -20,10 +20,10 @@ source_file: "corpus/03-breakwave/insights/2024/2024-11-29_gxmb3m27vo7uqrw5tu0wy
 
 ---
 
-![Rgb Color Brs Shipbrokers Monogram Logo](assets/2024-11-29_gxmb3m27vo7uqrw5tu0wyqvtzkopls_img_rgb-color-brs-shipbrokers-monogram-l_ee79606c8e74.png)
+![Rgb Color Brs Shipbrokers Monogram Logo](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-11-29_gxmb3m27vo7uqrw5tu0wyqvtzkopls_img_rgb-color-brs-shipbrokers-monogram-l_ee79606c8e74.png)
 
 > **Figure 1: Rgb Color Brs Shipbrokers Monogram Logo**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-11-29_gxmb3m27vo7uqrw5tu0wyqvtzkopls_img_rgb-color-brs-shipbrokers-monogram-l_ee79606c8e74.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-11-29_gxmb3m27vo7uqrw5tu0wyqvtzkopls_img_rgb-color-brs-shipbrokers-monogram-l_ee79606c8e74.png)
 
 The ongoing energy transition is significantly impacting dry bulk shipping and commodity consumption in China through shifts in energy demand, new industrial processes, and trade flow patterns. China’s aim is to accelerate the transition to a net-zero economy by 2060. With the COP28 climate summit now in the rearview mirror it is pertinent to take stock of the current trends in energy consumption and supply and consider their impact on dry bulk shipping.
 
@@ -43,19 +43,19 @@ There are indicators that coal is on its way out the door. Over the past few mon
 
 below 60% for the first time. If achieved, this will be a milestone in its efforts to transition away from fossil fuels.
 
-![Στιγμιότυπο Οθόνης 2024 11 29 121659](assets/2024-11-29_gxmb3m27vo7uqrw5tu0wyqvtzkopls_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_3d8067b34474.png)
+![Στιγμιότυπο Οθόνης 2024 11 29 121659](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-11-29_gxmb3m27vo7uqrw5tu0wyqvtzkopls_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_3d8067b34474.png)
 
 > **Figure 2: Στιγμιότυπο Οθόνης 2024 11 29 121659**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-11-29_gxmb3m27vo7uqrw5tu0wyqvtzkopls_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_3d8067b34474.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-11-29_gxmb3m27vo7uqrw5tu0wyqvtzkopls_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_3d8067b34474.png)
 
 When comparing its official custom and seaborne trade data, China’s share of seaborne cargo declined to 76% of coal import in 2024, from an average 93% of coal imports in 2015-22. This discrepancy is explained by the growth of overland transportation volumes from Mongolia and Russia, which is weighing down on Capesize and Panamax segment because it curbs growth in tonne-mile demand. Whereas for the 704 ships that fall within the older average aged vessels of Post-Panamax (85-100,000 Dwt) to Baby- and SmallCape (100-160,000 Dwt) coal represents a combined tonne-miles demand share at around 65%. Hence any reductions in coal volume will be acutely felt.
 
 Meanwhile, the share of coal in the Supramax (50-60,000 Dwt) segment’s cargoes has fallen from 15.5% to 13.4% in 2023 y-o-y according to AXSMarine data. Global tonne-miles by commodity show that for the Supramax segment there are various opportunities for the increased transportation of other commodities related to the energy transition such as to supply the materials needed for battery production.
 
-![Στιγμιότυπο Οθόνης 2024 11 29 121735](assets/2024-11-29_gxmb3m27vo7uqrw5tu0wyqvtzkopls_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_91c43118d0d3.png)
+![Στιγμιότυπο Οθόνης 2024 11 29 121735](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-11-29_gxmb3m27vo7uqrw5tu0wyqvtzkopls_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_91c43118d0d3.png)
 
 > **Figure 3: Στιγμιότυπο Οθόνης 2024 11 29 121735**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-11-29_gxmb3m27vo7uqrw5tu0wyqvtzkopls_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_91c43118d0d3.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-11-29_gxmb3m27vo7uqrw5tu0wyqvtzkopls_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_91c43118d0d3.png)
 
 The energy transition is steadily creating opportunities for dry bulk shipping. China’s domestic focus on renewable energy infrastructure. Transition technologies like wind turbines, solar panels, and EV batteries require aluminium production from bauxite imports from West Africa and other raw materials such as lithium, cobalt, nickel, and copper. This shift could increase the demand for these minerals thereby boosting dry bulk shipments for mining products to China, thereby drive demand for geared segments sizes.
 
@@ -67,10 +67,10 @@ The country’s steel output from January to September this year was 769 mln mt.
 
 Last year, the EU’s Carbon Border Adjustment Mechanism (CBAM) was introduced. This involves a three-year phase in period and will be fully effective from 2026. CBAM requires EU importers of certain carbon-intensive products to purchase certificates reflecting the carbon emissions of those products. Sectors covered in the first phase of the new regulation include cement, iron and steel, aluminium, fertilizers, electricity, and hydrogen. This is seen as a further incentive for China to develop its green steel capabilities in order to remain competitive in international markets.
 
-![Στιγμιότυπο Οθόνης 2024 11 29 121758](assets/2024-11-29_gxmb3m27vo7uqrw5tu0wyqvtzkopls_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_7659a6832d82.png)
+![Στιγμιότυπο Οθόνης 2024 11 29 121758](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-11-29_gxmb3m27vo7uqrw5tu0wyqvtzkopls_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_7659a6832d82.png)
 
 > **Figure 4: Στιγμιότυπο Οθόνης 2024 11 29 121758**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-11-29_gxmb3m27vo7uqrw5tu0wyqvtzkopls_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_7659a6832d82.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-11-29_gxmb3m27vo7uqrw5tu0wyqvtzkopls_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_7659a6832d82.png)
 
 The iron ore content needs to be higher in green steel making, which is shifting from traditional blast furnaces (coking coal-intensive) to Electric Arc Furnaces (EAF) using more scrap steel and electricity. Moreover, hydrogen-based direct reduced iron (DRI) is also gaining traction as a low-emission alternatives. Demand may also decrease as EAFs use more scrap steel, reducing the need for primary iron ore imports. Thereby any decline in trades like coking coal and iron ore usually sourced from Brazil and Australia could lower demand for Capesize and Panamax vessels as this transition takes accelerates.
 

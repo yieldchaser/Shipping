@@ -56,6 +56,13 @@ Focusing on VLCCs, approximately 2 million bpd of crude cannot be discharged in 
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: Katrina-Rita The One-Two Punch](../../../charts/poten/2005/poten_2005-09-23_katrina-rita-the-one-two-punch_chart1.png)
+> **Chart on PDF page 1: Relative Importance of U.S. Gulf**  
+> Unit: MM Bpd · X-axis: Crude Production to Refinery Capacity  
+> Series: U.S. Gulf, Total U.S.  
+> *Source: EIA/Poten*  
+> *No image crop of this chart was saved; caption read from the PDF.*
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2005/poten_2005-09-23_katrina-rita-the-one-two-punch_chart1.png)
+> **Chart on PDF page 2: Percentage of U.S. Gulf Production Shut-in**  
+> Unit: % · X-axis: 8/29 to 9/21  
+> Series: MMS/Poten  
+> *No image crop of this chart was saved; caption read from the PDF.*

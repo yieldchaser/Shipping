@@ -80,6 +80,14 @@ Continued demand for West African crude oil, and the economic incentives to brin
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: Follow The Leader](../../../charts/poten/2008/poten_2008-05-16_follow-the-leader_chart1.png)
+> **Chart on PDF page 1: Rates in West Africa**  
+> Unit: WS Rate · X-axis: Jan-05 to May-08  
+> Series: WAF - USG (260kt), WAF - USG (130kt)  
+> *Source: Poten & Partners*  
+> *No image crop of this chart was saved; caption read from the PDF.*
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2008/poten_2008-05-16_follow-the-leader_chart1.png)
+> **Chart on PDF page 2: Total Volume of Spot Liftings**  
+> Unit: Million Tons · X-axis: Jan to Dec  
+> Series: 2007, 2008  
+> *Source: Poten & Partners*  
+> *No image crop of this chart was saved; caption read from the PDF.*

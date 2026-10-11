@@ -32,10 +32,18 @@ Ironically, it appears that the challenges facing Brazil at the moment could hav
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: Another BRIC Hits A Wall](../../../charts/poten/2016/poten_2016-09-02_another-bric-hits-a-wall_chart1.png)
+![Exhibit 1: Fig. 1: Brazilian Crude Oil Production vs Petroleum Products Demand](../../../charts/poten/2016/poten_2016-09-02_another-bric-hits-a-wall_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2016/poten_2016-09-02_another-bric-hits-a-wall_chart1.png)
+> **Exhibit 1: Fig. 1: Brazilian Crude Oil Production vs Petroleum Products Demand**  
+> Unit: Mb/d · X-axis: 2000 to 2017  
+> Series: Production, Demand  
+> *Source: IEA*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2016/poten_2016-09-02_another-bric-hits-a-wall_chart1.png)
 
-![Exhibit 2: Another BRIC Hits A Wall](../../../charts/poten/2016/poten_2016-09-02_another-bric-hits-a-wall_chart2.png)
+![Exhibit 2: Fig. 2: Brazilian Crude Oil and Petroleum Products Trade](../../../charts/poten/2016/poten_2016-09-02_another-bric-hits-a-wall_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2016/poten_2016-09-02_another-bric-hits-a-wall_chart2.png)
+> **Exhibit 2: Fig. 2: Brazilian Crude Oil and Petroleum Products Trade**  
+> Unit: Kb/d · X-axis: 2002 to 2016H1  
+> Series: Crude Oil Imports, Ref. Product Imports, Crude Oil Exports, Ref. Product Exports  
+> *Source: JODI*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2016/poten_2016-09-02_another-bric-hits-a-wall_chart2.png)

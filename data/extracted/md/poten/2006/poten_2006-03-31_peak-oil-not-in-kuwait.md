@@ -76,6 +76,13 @@ With long-term crude production plans in place, sophisticated refinery expansion
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: Peak Oil?  Not in Kuwait!](../../../charts/poten/2006/poten_2006-03-31_peak-oil-not-in-kuwait_chart1.png)
+> **Chart on PDF page 2: Kuwait Crude Production**  
+> Unit: bpd (000) · X-axis: 1997 to 2025  
+> Series: EIA/IEA/Poten, Outlook  
+> *No image crop of this chart was saved; caption read from the PDF.*
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2006/poten_2006-03-31_peak-oil-not-in-kuwait_chart1.png)
+> **Chart on PDF page 4: VLCC Fixtures AG - West March 2005 - March 2006**  
+> Unit: # Fixtures · X-axis: Vela to KPC  
+> Series: Vela, Shell, Total, ExxonMobil, KPC  
+> *Source: Poten & Partners*  
+> *No image crop of this chart was saved; caption read from the PDF.*

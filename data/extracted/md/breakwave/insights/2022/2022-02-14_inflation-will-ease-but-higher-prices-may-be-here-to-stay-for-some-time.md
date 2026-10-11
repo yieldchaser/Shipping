@@ -24,10 +24,10 @@ source_file: "corpus/03-breakwave/insights/2022/2022-02-14_inflation-will-ease-b
 
 Last week saw the US registering the highest headline inflation number in over 40 years, 7.5%. Equity and bond markets roiled, with the US 10-year Treasury yield rising above 2% and the S&P 500 shedding nearly 2% for the week. Currently, markets are pricing in nearly more than six rate hikes by the end of the year instead of less than two, three months ago. To be sure, the Fed’s communications have been much more reserved, with even the most hawkish officials expecting four to five hikes during the year.
 
-![Ch1](assets/2022-02-14_inflation-will-ease-but-higher-prices-may-be-here-to-stay-for-some-time_img_ch1_9e26afa75d14.png)
+![Ch1](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-02-14_inflation-will-ease-but-higher-prices-may-be-here-to-stay-for-some-time_img_ch1_9e26afa75d14.png)
 
 > **Figure 1: Ch1**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-02-14_inflation-will-ease-but-higher-prices-may-be-here-to-stay-for-some-time_img_ch1_9e26afa75d14.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-02-14_inflation-will-ease-but-higher-prices-may-be-here-to-stay-for-some-time_img_ch1_9e26afa75d14.png)
 
 Is the market overreacting, or is the Fed so far behind the curve? The truth is, no one knows at this point. No one is an expert on inflation, and certainly not the kind of inflation we are currently experiencing.
 
@@ -35,19 +35,19 @@ For a generation that has only experienced the benefits of globalisation, inflat
 
 In fact, “history” is the operative word. The swift rise in inflation we are seeing today can only be found near, or around very significant historical events. For inflation to rise over 4% in a single year and stay high for more than 3-4 consecutive months, one would have to travel back fifty years to 1973.
 
-![Ch2](assets/2022-02-14_inflation-will-ease-but-higher-prices-may-be-here-to-stay-for-some-time_img_ch2_595ebae517fc.png)
+![Ch2](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-02-14_inflation-will-ease-but-higher-prices-may-be-here-to-stay-for-some-time_img_ch2_595ebae517fc.png)
 
 > **Figure 2: Ch2**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-02-14_inflation-will-ease-but-higher-prices-may-be-here-to-stay-for-some-time_img_ch2_595ebae517fc.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-02-14_inflation-will-ease-but-higher-prices-may-be-here-to-stay-for-some-time_img_ch2_595ebae517fc.png)
 
 The great Milton Friedman, the first major economist of the Monetary Era suggested that “inflation always and everywhere is a monetary phenomenon”. This would imply that interest rates would be the most appropriate tool to fight it. However, and with respect to the Nobel Laureate, this aphorism, which seems to be anchored in many an investor’s and central banker’s thinking, is probably wrong.
 
 If we take US numbers, the first major inflation surge of the century came in 1916. This was the year when America got involved in the First World War. Supply shocks from a devastated European continent drove inflation higher. The next episode took place in 1922. After another collapse in supply, Europe was in disarray, and it followed a massive deflationary episode. Similarly, inflation in 1933-34 came after a significant deflationary episode, following the Great Depression. Inflation in 1941-1942 was again about the US entering a World War, and in 1946 it was about consumer and industrial demand after the European reconstruction was underway. In 1950, the Korean war and a prior deflationary episode drove an inflation surge. In 1973, the Yom Kippur war, coupled with a change in the global economic system from the Gold Standard to Monetarism, fuelled another inflationary episode. Independent central banks and the fall of the Iron Curtain as well as a new status quo in the Middle East, brought nearly unprecedented peace, the “Pax Americana”. With it, a modicum of macroeconomic stability.
 
-![Ch3](assets/2022-02-14_inflation-will-ease-but-higher-prices-may-be-here-to-stay-for-some-time_img_ch3_b45b5336d713.png)
+![Ch3](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-02-14_inflation-will-ease-but-higher-prices-may-be-here-to-stay-for-some-time_img_ch3_b45b5336d713.png)
 
 > **Figure 3: Ch3**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-02-14_inflation-will-ease-but-higher-prices-may-be-here-to-stay-for-some-time_img_ch3_b45b5336d713.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-02-14_inflation-will-ease-but-higher-prices-may-be-here-to-stay-for-some-time_img_ch3_b45b5336d713.png)
 
 It has been nearly fifty years that developed markets haven’t experienced a similar inflation rise like in 2021-22. It becomes apparent that only major global events can cause such sharp rises in price. The response by all nations to the pandemic, which essentially meant shutting production and curtailing movement, had about the same effects as wars of the past.
 
@@ -61,10 +61,10 @@ At the risk of angering the ghost of the great economist, our observations about
 
 **There’s a strong possibility we may see the end of the episode soon.**We are already ten months into this event. Historically, all of the events described lasted about 11-14 months. This time, this should be more the case as no mid or post-war rebuilding is required. The underlying infrastructure has not been destroyed, just hobbled from erratic demand and supply. We have evidence that supply chains are mending and adapting.
 
-![Ch4](assets/2022-02-14_inflation-will-ease-but-higher-prices-may-be-here-to-stay-for-some-time_img_ch4_06cc5a9c15ea.png)
+![Ch4](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-02-14_inflation-will-ease-but-higher-prices-may-be-here-to-stay-for-some-time_img_ch4_06cc5a9c15ea.png)
 
 > **Figure 4: Ch4**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-02-14_inflation-will-ease-but-higher-prices-may-be-here-to-stay-for-some-time_img_ch4_06cc5a9c15ea.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-02-14_inflation-will-ease-but-higher-prices-may-be-here-to-stay-for-some-time_img_ch4_06cc5a9c15ea.png)
 
 Vaccination levels are high in many parts of the world, and more cures are made available. One after another, western governments declare their intention to drop measures and movement limitations. In all probability, the “Great Lockdown” is well behind us. Meanwhile, unless the Ukrainian crisis escalates into a fully-fledged standoff between Russia and NATO, energy prices should start to come off.
 

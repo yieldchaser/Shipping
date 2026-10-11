@@ -23,10 +23,10 @@ The second week saw a continued upswing in Panamax freight rates, with signs of 
 
 ### Chart of the Week: Capesize Demand - Daily Volume Loaded
 
-![Highest Volume Recorded in October for More Than a Year](assets/2022-10-13_signal-dry-bulk-weekly-report_img_unnamed289029_fbe696fd36b0.png)
+![Highest Volume Recorded in October for More Than a Year](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-10-13_signal-dry-bulk-weekly-report_img_unnamed289029_fbe696fd36b0.png)
 
 > **Figure 1: Highest Volume Recorded in October for More Than a Year**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://go.signalocean.com/e/983831/dry-reports-c3/2k55p8/278585659?h=ybNRDUe8Nxf_zQZCLT8QrqtW2x13A7qbMkwusTK9FpA) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-10-13_signal-dry-bulk-weekly-report_img_unnamed289029_fbe696fd36b0.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://go.signalocean.com/e/983831/dry-reports-c3/2k55p8/278585659?h=ybNRDUe8Nxf_zQZCLT8QrqtW2x13A7qbMkwusTK9FpA) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-10-13_signal-dry-bulk-weekly-report_img_unnamed289029_fbe696fd36b0.png)
 
 Data Source: The Signal Ocean Platform, C3 Dashboard, Demand
 [Signal Ocean Platform](https://go.signalocean.com/e/983831/dry-reports-c3/2k55p8/278585659?h=ybNRDUe8Nxf_zQZCLT8QrqtW2x13A7qbMkwusTK9FpA)
@@ -37,10 +37,10 @@ Meanwhile, iron ore prices recorded a rise on Monday as stocks at Chinese ports 
 
 ‘The Big Picture’ - Capesize and Panamax Bulkers and Smaller Ship Sizes
 
-![Market Chart 2](assets/2022-10-13_signal-dry-bulk-weekly-report_img_unnamed289129_7f01af936a35.png)
+![Market Chart 2](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-10-13_signal-dry-bulk-weekly-report_img_unnamed289129_7f01af936a35.png)
 
 > **Figure 2: Market Chart 2**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-10-13_signal-dry-bulk-weekly-report_img_unnamed289129_7f01af936a35.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-10-13_signal-dry-bulk-weekly-report_img_unnamed289129_7f01af936a35.png)
 
 The second week of October saw a continuation of the upward trend in freight rates for Panamax vessels, with firmer signs for Capesize vessels, while a downward trend was observed for smaller vessel size classes.
 
@@ -51,10 +51,10 @@ The second week of October saw a continuation of the upward trend in freight rat
 
 ## Section 2/ Supply -Ballasters (# Vessels) Increasing
 
-![Supply Trend Lines for Key Load Areas](assets/2022-10-13_signal-dry-bulk-weekly-report_img_unnamed289229_1e924994c69f.png)
+![Supply Trend Lines for Key Load Areas](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-10-13_signal-dry-bulk-weekly-report_img_unnamed289229_1e924994c69f.png)
 
 > **Figure 3: Supply Trend Lines for Key Load Areas**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-10-13_signal-dry-bulk-weekly-report_img_unnamed289229_1e924994c69f.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-10-13_signal-dry-bulk-weekly-report_img_unnamed289229_1e924994c69f.png)
 
 The number of Capesize and Panamax vessels sailing with ballast remains below the annual average for the past five weeks, while the number of Supramax vessels appears to be down slightly from the previous week's annual high.
 
@@ -65,10 +65,10 @@ The number of Capesize and Panamax vessels sailing with ballast remains below th
 
 ## Section 3/ Demand -TonDays Decreasing
 
-![TonDays Decreasing](assets/2022-10-13_signal-dry-bulk-weekly-report_img_unnamed289029_fbe696fd36b0.png)
+![TonDays Decreasing](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-10-13_signal-dry-bulk-weekly-report_img_unnamed289029_fbe696fd36b0.png)
 
 > **Figure 4: TonDays Decreasing**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-10-13_signal-dry-bulk-weekly-report_img_unnamed289029_fbe696fd36b0.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-10-13_signal-dry-bulk-weekly-report_img_unnamed289029_fbe696fd36b0.png)
 
 The trend for Capesize vessels has slowed in the first two weeks of October, and there has also been a significant decline for Panamax vessels.
 
@@ -79,10 +79,10 @@ The trend for Capesize vessels has slowed in the first two weeks of October, and
 
 ## Section 4/ Port Congestion -No of Vesselsincreasing
 
-![Dry Bulk Ships Congested at Chinese Ports](assets/2022-10-13_signal-dry-bulk-weekly-report_img_unnamed289429_bc3084529859.png)
+![Dry Bulk Ships Congested at Chinese Ports](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-10-13_signal-dry-bulk-weekly-report_img_unnamed289429_bc3084529859.png)
 
 > **Figure 5: Dry Bulk Ships Congested at Chinese Ports**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-10-13_signal-dry-bulk-weekly-report_img_unnamed289429_bc3084529859.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-10-13_signal-dry-bulk-weekly-report_img_unnamed289429_bc3084529859.png)
 
 The number of congested vessels rose to the highest level since week 35, with a significant increase in the Handysize segment in the last two weeks.
 

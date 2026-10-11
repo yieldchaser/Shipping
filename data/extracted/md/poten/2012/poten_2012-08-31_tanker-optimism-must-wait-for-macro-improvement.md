@@ -70,18 +70,34 @@ Until economic releases start to demonstrate sustained, positive surprises relat
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: Tanker Optimism Must Wait for Macro Improvement](../../../charts/poten/2012/poten_2012-08-31_tanker-optimism-must-wait-for-macro-improvement_chart1.png)
+![Exhibit 1: Global Industial Production Selected Regions](../../../charts/poten/2012/poten_2012-08-31_tanker-optimism-must-wait-for-macro-improvement_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2012/poten_2012-08-31_tanker-optimism-must-wait-for-macro-improvement_chart1.png)
+> **Exhibit 1: Global Industial Production Selected Regions**  
+> Unit: yoy Percent Change · X-axis: Jan-07 to Jan-12  
+> Series: India, US ex-Autos, China, Eurozone  
+> *Source: US Federal Reserve, Bloomberg*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2012/poten_2012-08-31_tanker-optimism-must-wait-for-macro-improvement_chart1.png)
 
-![Exhibit 2: Tanker Optimism Must Wait for Macro Improvement](../../../charts/poten/2012/poten_2012-08-31_tanker-optimism-must-wait-for-macro-improvement_chart2.png)
+![Exhibit 2: Chinese Iron Ore Prices](../../../charts/poten/2012/poten_2012-08-31_tanker-optimism-must-wait-for-macro-improvement_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2012/poten_2012-08-31_tanker-optimism-must-wait-for-macro-improvement_chart2.png)
+> **Exhibit 2: Chinese Iron Ore Prices**  
+> Unit: US$/MT · X-axis: Dec-08 to Dec-11  
+> Series: 62% Fe Content, Delivered Tianjin  
+> *Source: Bloomberg*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2012/poten_2012-08-31_tanker-optimism-must-wait-for-macro-improvement_chart2.png)
 
-![Exhibit 3: Tanker Optimism Must Wait for Macro Improvement](../../../charts/poten/2012/poten_2012-08-31_tanker-optimism-must-wait-for-macro-improvement_chart3.png)
+![Exhibit 3: Dirty Tanker Fleet Utilisation](../../../charts/poten/2012/poten_2012-08-31_tanker-optimism-must-wait-for-macro-improvement_chart3.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2012/poten_2012-08-31_tanker-optimism-must-wait-for-macro-improvement_chart3.png)
+> **Exhibit 3: Dirty Tanker Fleet Utilisation**  
+> Unit: Percent Utilisation · X-axis: 1999 to 2011  
+> Series: Dirty Tanker Fleet Utilisation  
+> *Source: Poten*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2012/poten_2012-08-31_tanker-optimism-must-wait-for-macro-improvement_chart3.png)
 
-![Exhibit 4: Tanker Optimism Must Wait for Macro Improvement](../../../charts/poten/2012/poten_2012-08-31_tanker-optimism-must-wait-for-macro-improvement_chart4.png)
+![Exhibit 4: Nominal Dirty Tanker Earnings vs. Fleet Utilisation Quarterly 2006-12](../../../charts/poten/2012/poten_2012-08-31_tanker-optimism-must-wait-for-macro-improvement_chart4.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2012/poten_2012-08-31_tanker-optimism-must-wait-for-macro-improvement_chart4.png)
+> **Exhibit 4: Nominal Dirty Tanker Earnings vs. Fleet Utilisation Quarterly 2006-12**  
+> Unit: Indexed TCE Earnings, US$000/day · X-axis: 75% to 100%  
+> Series: Quarterly 2006-12  
+> *Source: Poten*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2012/poten_2012-08-31_tanker-optimism-must-wait-for-macro-improvement_chart4.png)

@@ -42,10 +42,10 @@ Average voyage mileage for dirty tankers has declined about 5.5% y-o-y, mostly b
 
 Though tonne-miles are slightly lower y-o-y, they are still exceptionally high compared to historical averages due to the Russian reshuffling effect
 
-![Στιγμιότυπο Οθόνης 2024 09 05 131537](assets/2024-09-05_vlccs-loading-diesel-from-the-middle-east-cap-demand-for-lrs_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_927499d57e21.png)
+![Στιγμιότυπο Οθόνης 2024 09 05 131537](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-09-05_vlccs-loading-diesel-from-the-middle-east-cap-demand-for-lrs_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_927499d57e21.png)
 
 > **Figure 1: Στιγμιότυπο Οθόνης 2024 09 05 131537**  
-> **Interactive Data & Source:** [Vortexa](https://www.vortexa.com//oil-gas-data-traders-analysts-data-scientists?gclid=Cj0KCQjw8_qRBhCXARIsAE2AtRZKOvMnbilZ_6_91d7huSFFy71pWLrnPwGwOHVzXsmsG-1a1mZnQw8aAt89EALw_wcB&hsa_acc=1782073842&hsa_ad=548425387665&hsa_cam=14746637662&hsa_grp=125038601902&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_src=g&hsa_tgt=dsa-1431852288425&hsa_ver=3&utm_campaign=%5BCD%5D%20-%20DSA%20-%20EMEA&utm_medium=cpc&utm_medium=ppc&utm_source=google&utm_source=adwords&utm_term=) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-09-05_vlccs-loading-diesel-from-the-middle-east-cap-demand-for-lrs_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_927499d57e21.png)
+> **Interactive Data & Source:** [Vortexa](https://www.vortexa.com//oil-gas-data-traders-analysts-data-scientists?gclid=Cj0KCQjw8_qRBhCXARIsAE2AtRZKOvMnbilZ_6_91d7huSFFy71pWLrnPwGwOHVzXsmsG-1a1mZnQw8aAt89EALw_wcB&hsa_acc=1782073842&hsa_ad=548425387665&hsa_cam=14746637662&hsa_grp=125038601902&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_src=g&hsa_tgt=dsa-1431852288425&hsa_ver=3&utm_campaign=%5BCD%5D%20-%20DSA%20-%20EMEA&utm_medium=cpc&utm_medium=ppc&utm_source=google&utm_source=adwords&utm_term=) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-09-05_vlccs-loading-diesel-from-the-middle-east-cap-demand-for-lrs_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_927499d57e21.png)
 
 **Clean – East of Suez: Record no. of VLCCs loading diesel from the Middle East cap demand for LRs**
 
@@ -63,10 +63,10 @@ As a portion of tankers return to the dirty trade (especially for Suezmaxes) thi
 - 3 VLCC loadings are already expected in September
 - Whether this trend will remain ultimately hinges on whether crude tanker rates can pick up after the summer lull
 
-![Στιγμιότυπο Οθόνης 2024 09 05 132317](assets/2024-09-05_vlccs-loading-diesel-from-the-middle-east-cap-demand-for-lrs_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_c1e576d3eafe.png)
+![Στιγμιότυπο Οθόνης 2024 09 05 132317](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-09-05_vlccs-loading-diesel-from-the-middle-east-cap-demand-for-lrs_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_c1e576d3eafe.png)
 
 > **Figure 2: Στιγμιότυπο Οθόνης 2024 09 05 132317**  
-> **Interactive Data & Source:** [Vortexa](https://www.vortexa.com//oil-gas-data-traders-analysts-data-scientists?gclid=Cj0KCQjw8_qRBhCXARIsAE2AtRZKOvMnbilZ_6_91d7huSFFy71pWLrnPwGwOHVzXsmsG-1a1mZnQw8aAt89EALw_wcB&hsa_acc=1782073842&hsa_ad=548425387665&hsa_cam=14746637662&hsa_grp=125038601902&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_src=g&hsa_tgt=dsa-1431852288425&hsa_ver=3&utm_campaign=%5BCD%5D%20-%20DSA%20-%20EMEA&utm_medium=cpc&utm_medium=ppc&utm_source=google&utm_source=adwords&utm_term=) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-09-05_vlccs-loading-diesel-from-the-middle-east-cap-demand-for-lrs_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_c1e576d3eafe.png)
+> **Interactive Data & Source:** [Vortexa](https://www.vortexa.com//oil-gas-data-traders-analysts-data-scientists?gclid=Cj0KCQjw8_qRBhCXARIsAE2AtRZKOvMnbilZ_6_91d7huSFFy71pWLrnPwGwOHVzXsmsG-1a1mZnQw8aAt89EALw_wcB&hsa_acc=1782073842&hsa_ad=548425387665&hsa_cam=14746637662&hsa_grp=125038601902&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_src=g&hsa_tgt=dsa-1431852288425&hsa_ver=3&utm_campaign=%5BCD%5D%20-%20DSA%20-%20EMEA&utm_medium=cpc&utm_medium=ppc&utm_source=google&utm_source=adwords&utm_term=) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-09-05_vlccs-loading-diesel-from-the-middle-east-cap-demand-for-lrs_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_c1e576d3eafe.png)
 
 **Dirty – West of Suez: Aframax supply in East Med drops sharply as Libya outage continues; TD19 hits 12-month low**
 
@@ -82,10 +82,10 @@ Due to decreasing optionality in Europe/Med, vessels discharging in NW Europe ar
 
 If the Libya dispute is resolved and crude loadings continue as normal, we could observe a rebound in TD19 rates, which could induce a rebound in ballasters to satisfy the upcoming requirements
 
-![Στιγμιότυπο Οθόνης 2024 09 05 132416](assets/2024-09-05_vlccs-loading-diesel-from-the-middle-east-cap-demand-for-lrs_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_bb3896cfa220.png)
+![Στιγμιότυπο Οθόνης 2024 09 05 132416](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-09-05_vlccs-loading-diesel-from-the-middle-east-cap-demand-for-lrs_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_bb3896cfa220.png)
 
 > **Figure 3: Στιγμιότυπο Οθόνης 2024 09 05 132416**  
-> **Interactive Data & Source:** [Vortexa](https://www.vortexa.com//oil-gas-data-traders-analysts-data-scientists?gclid=Cj0KCQjw8_qRBhCXARIsAE2AtRZKOvMnbilZ_6_91d7huSFFy71pWLrnPwGwOHVzXsmsG-1a1mZnQw8aAt89EALw_wcB&hsa_acc=1782073842&hsa_ad=548425387665&hsa_cam=14746637662&hsa_grp=125038601902&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_src=g&hsa_tgt=dsa-1431852288425&hsa_ver=3&utm_campaign=%5BCD%5D%20-%20DSA%20-%20EMEA&utm_medium=cpc&utm_medium=ppc&utm_source=google&utm_source=adwords&utm_term=) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-09-05_vlccs-loading-diesel-from-the-middle-east-cap-demand-for-lrs_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_bb3896cfa220.png)
+> **Interactive Data & Source:** [Vortexa](https://www.vortexa.com//oil-gas-data-traders-analysts-data-scientists?gclid=Cj0KCQjw8_qRBhCXARIsAE2AtRZKOvMnbilZ_6_91d7huSFFy71pWLrnPwGwOHVzXsmsG-1a1mZnQw8aAt89EALw_wcB&hsa_acc=1782073842&hsa_ad=548425387665&hsa_cam=14746637662&hsa_grp=125038601902&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_src=g&hsa_tgt=dsa-1431852288425&hsa_ver=3&utm_campaign=%5BCD%5D%20-%20DSA%20-%20EMEA&utm_medium=cpc&utm_medium=ppc&utm_source=google&utm_source=adwords&utm_term=) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-09-05_vlccs-loading-diesel-from-the-middle-east-cap-demand-for-lrs_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_bb3896cfa220.png)
 
 **Clean – West of Suez: NW Europe MR freight rate rally short-lived; cooling Med market will likely trigger repositioning**
 
@@ -102,10 +102,10 @@ Decreased vessel availability in NWE during last week’s rally was likely due t
 
 Expected cooling of PADD 1 gasoline demand post-Labor Day and weak refining margins in Europe in general will likely limit NWE tanker demand moving forward
 
-![Στιγμιότυπο Οθόνης 2024 09 05 132429](assets/2024-09-05_vlccs-loading-diesel-from-the-middle-east-cap-demand-for-lrs_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_68810c51b9c1.png)
+![Στιγμιότυπο Οθόνης 2024 09 05 132429](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-09-05_vlccs-loading-diesel-from-the-middle-east-cap-demand-for-lrs_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_68810c51b9c1.png)
 
 > **Figure 4: Στιγμιότυπο Οθόνης 2024 09 05 132429**  
-> **Interactive Data & Source:** [Vortexa](https://www.vortexa.com//oil-gas-data-traders-analysts-data-scientists?gclid=Cj0KCQjw8_qRBhCXARIsAE2AtRZKOvMnbilZ_6_91d7huSFFy71pWLrnPwGwOHVzXsmsG-1a1mZnQw8aAt89EALw_wcB&hsa_acc=1782073842&hsa_ad=548425387665&hsa_cam=14746637662&hsa_grp=125038601902&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_src=g&hsa_tgt=dsa-1431852288425&hsa_ver=3&utm_campaign=%5BCD%5D%20-%20DSA%20-%20EMEA&utm_medium=cpc&utm_medium=ppc&utm_source=google&utm_source=adwords&utm_term=) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-09-05_vlccs-loading-diesel-from-the-middle-east-cap-demand-for-lrs_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_68810c51b9c1.png)
+> **Interactive Data & Source:** [Vortexa](https://www.vortexa.com//oil-gas-data-traders-analysts-data-scientists?gclid=Cj0KCQjw8_qRBhCXARIsAE2AtRZKOvMnbilZ_6_91d7huSFFy71pWLrnPwGwOHVzXsmsG-1a1mZnQw8aAt89EALw_wcB&hsa_acc=1782073842&hsa_ad=548425387665&hsa_cam=14746637662&hsa_grp=125038601902&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_src=g&hsa_tgt=dsa-1431852288425&hsa_ver=3&utm_campaign=%5BCD%5D%20-%20DSA%20-%20EMEA&utm_medium=cpc&utm_medium=ppc&utm_source=google&utm_source=adwords&utm_term=) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-09-05_vlccs-loading-diesel-from-the-middle-east-cap-demand-for-lrs_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_68810c51b9c1.png)
 
 Data Source:[Vortexa](https://www.vortexa.com//oil-gas-data-traders-analysts-data-scientists?gclid=Cj0KCQjw8_qRBhCXARIsAE2AtRZKOvMnbilZ_6_91d7huSFFy71pWLrnPwGwOHVzXsmsG-1a1mZnQw8aAt89EALw_wcB&hsa_acc=1782073842&hsa_ad=548425387665&hsa_cam=14746637662&hsa_grp=125038601902&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_src=g&hsa_tgt=dsa-1431852288425&hsa_ver=3&utm_campaign=%5BCD%5D%20-%20DSA%20-%20EMEA&utm_medium=cpc&utm_medium=ppc&utm_source=google&utm_source=adwords&utm_term=)
 

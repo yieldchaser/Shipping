@@ -31,17 +31,17 @@ In the spot arena, last year’s mid-May harsh downward correction revisited us 
 
 While global stock markets continue to anticipate a "soft landing" and remain at their highest levels, the price of copper is following closely Baltic indices on their downward trend. The price of the pinkishorange metal has fallen by more than 15 percent since its high point at the beginning of 2023, after havin g rebounded during the last
 
-![1 (3)](assets/2023-05-29_doric-weekly-market-insight_img_128329_f8f83b5da855.png)
+![1 (3)](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-05-29_doric-weekly-market-insight_img_128329_f8f83b5da855.png)
 
 > **Figure 1: 1 (3)**  
-> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-05-29_doric-weekly-market-insight_img_128329_f8f83b5da855.png)
+> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-05-29_doric-weekly-market-insight_img_128329_f8f83b5da855.png)
 
 quarter of last year against the backdrop of the reopening of the Chinese economy. Known as “Dr. Copper” for its ability to gauge the health of the global market, the metal is widely used in buildings, infrastructure and household appliances. The steep fall in spot price reflects a rapid rise in stockpiles of the metal outside China, as US and European industrial activity begins to slow after a year of monetary tightening. Additionally, growing concerns that China’s industrial rebound was not materialising had also a negative bearing on the commodity price. On the same wavelength, steel rebar prices in China hit their lowest in three years this week, underscoring flagging growth in the world's second-largest economy, particularly in its weak property sector. The spot price of HRB400 20mm steel rebar - used to reinforce concrete for buildings and infrastructure - fell to 3,510 yuan ($507.80) per tonne in Shanghai, data from consultancy Mysteel showed. That's the lowest reading since April 2020, when the start of the Covid-19 pandemic had curbed most industrial activity, according to Refinitiv. Iron ore futures reported weekly losses as well despite their rebound on Friday, pressured by a bleak demand outlook in top steel producer China. The typical summer slowdown in construction in China, beginning in June, is expected to curb demand for steel, putting a downward pressure on the prices of steel-making ingredients.
 
-![1 (4)](assets/2023-05-29_doric-weekly-market-insight_img_128429_935f94a6c162.png)
+![1 (4)](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-05-29_doric-weekly-market-insight_img_128429_935f94a6c162.png)
 
 > **Figure 2: 1 (4)**  
-> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-05-29_doric-weekly-market-insight_img_128429_935f94a6c162.png)
+> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-05-29_doric-weekly-market-insight_img_128429_935f94a6c162.png)
 
 In a challenging period for the good old economy, metals markets along with Baltic indices may face a gruelling summer, as Chinese demand falters after the second quarter's peak season.
 

@@ -32,6 +32,10 @@ In summary, STS is a proven methodology and the use of larger ships is both viab
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: The Ship To Ship Phenomenon](../../../charts/poten/2023/poten_2023-02-17_the-ship-to-ship-phenomenon_chart1.png)
+![Exhibit 1: Transportation Cost Comparison: Primorsk - Vadinar ($/bbl)](../../../charts/poten/2023/poten_2023-02-17_the-ship-to-ship-phenomenon_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2023/poten_2023-02-17_the-ship-to-ship-phenomenon_chart1.png)
+> **Exhibit 1: Transportation Cost Comparison: Primorsk - Vadinar ($/bbl)**  
+> Unit: $/bbl · X-axis: 0.00 to 15.00  
+> Series: Aframax (Market), Aframax/VLCC STS (Market), Aframax (Dark Fleet Premium), Aframax/VLCC STS (Dark Fleet Premium), Vessel Hire (Afra), Fuel Cost (Afra), Port Costs (Afra), Vessel Hire (VLCC), Fuel Cost (VLCC), Port/Canal/Lightering Costs (VLCC)  
+> *Source: Poten & Partners*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2023/poten_2023-02-17_the-ship-to-ship-phenomenon_chart1.png)

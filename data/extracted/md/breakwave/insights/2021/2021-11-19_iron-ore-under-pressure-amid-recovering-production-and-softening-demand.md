@@ -27,7 +27,7 @@ After an extensive slide, iron ore prices have found some support at an eighteen
 ![Ch1](assets/2021-11-19_iron-ore-under-pressure-amid-recovering-production-and-softening-demand_img_ch1_516e1ee890ad.png)
 
 > **Figure 1: Ch1**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2021/assets/2021-11-19_iron-ore-under-pressure-amid-recovering-production-and-softening-demand_img_ch1_516e1ee890ad.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-11-19_iron-ore-under-pressure-amid-recovering-production-and-softening-demand_img_ch1_516e1ee890ad.png)
 
 However, the headwinds for the Chinese economy are not the only reason for the retreating market prices. The global iron ore output has also been recovering in recent months. Australia and Brazil, the world’s two major producers, are now past much of the disruptions that helped propel prices to record levels during the second quarter. While Brazilian iron ore production is yet to match the levels seen before the Brumadinho dam collapse, mining giant Vale currently has an annual capacity of around 330 million tonnes. Quarterly production has been on the rise throughout the year, with the first two quarters registering year-on-year percentage growth in the low teens. The third quarter showed a modest year-on-year production growth at around one per cent, but the 89.4 million tonnes was still eighteen per cent above the preceding three months. For the year’s final quarter, the company has nevertheless indicated that output could weaken somewhat due to the falling prices.
 
@@ -42,21 +42,21 @@ Last month saw the largest ever volume of seaborne iron ore discharged in ports 
 ![Ch2](assets/2021-11-19_iron-ore-under-pressure-amid-recovering-production-and-softening-demand_img_ch2_93a7e7798d6d.png)
 
 > **Figure 2: Ch2**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2021/assets/2021-11-19_iron-ore-under-pressure-amid-recovering-production-and-softening-demand_img_ch2_93a7e7798d6d.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-11-19_iron-ore-under-pressure-amid-recovering-production-and-softening-demand_img_ch2_93a7e7798d6d.png)
 
 Despite the negative newsflow emitting from China, iron ore keeps flowing into the ports in the world’s second-largest economy. Last month saw volumes only second to October 2020 discharged in Chinese ports, and November looks set to match the 106 million tonnes offloaded despite the month being one day shorter.
 
 ![Ch3](assets/2021-11-19_iron-ore-under-pressure-amid-recovering-production-and-softening-demand_img_ch3_26f00fbe6ceb.png)
 
 > **Figure 3: Ch3**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2021/assets/2021-11-19_iron-ore-under-pressure-amid-recovering-production-and-softening-demand_img_ch3_26f00fbe6ceb.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-11-19_iron-ore-under-pressure-amid-recovering-production-and-softening-demand_img_ch3_26f00fbe6ceb.png)
 
 In light of weakening steel demand from the beleaguered construction sector and curbs on steel production to ease pollution levels, iron ore inventories have been building up in many Chinese ports. Stockpiles are typically expected to start building during the winter in the Northern Hemisphere, as steel mills want to safeguard sufficient supplies ahead of the pick up in construction activities in the spring. However, the current port inventories are around ten per cent above what has been recorded at the point in recent years. Satellite data from Tathya.earth also shows a rapid recovery in inventories in China’s largest iron ore port, Caofeidian, following a drop during the third quarter.
 
 ![Ch4](assets/2021-11-19_iron-ore-under-pressure-amid-recovering-production-and-softening-demand_img_ch4_df7347cb991f.png)
 
 > **Figure 4: Ch4**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2021/assets/2021-11-19_iron-ore-under-pressure-amid-recovering-production-and-softening-demand_img_ch4_df7347cb991f.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-11-19_iron-ore-under-pressure-amid-recovering-production-and-softening-demand_img_ch4_df7347cb991f.png)
 
 The global economic recovery has shifted some of the focus away from China, with steel production recovering globally and adding to the worldwide appetite for iron ore. Nonetheless, given China’s dominant position as the world’s premier consumer of iron ore, the build-up of inventories could add to the bearish sentiment for the commodity. The Chinese steel mills are likely to hope for a resumption of economic stimulus after the Winter Olympics to reduce inventory levels.
 

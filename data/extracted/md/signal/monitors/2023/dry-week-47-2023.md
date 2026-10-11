@@ -32,7 +32,7 @@ tags:
 
 > **Figure 1: Data Source: The Signal Ocean Platform Data**  
 > *Data Source: The Signal Ocean Platform Data*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/dry-week-47-2023) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/655cf2dbfc70f764a8dbea22_CAPESIZE DEMAND.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/dry-week-47-2023) | [Local Asset](../../../../../../corpus/07-signal/images/655cf2dbfc70f764a8dbea22_CAPESIZE%20DEMAND.png)
 
 During the fourth week of November, larger ship categories maintained their stability from preceding days. Notably, the Panamax vessel size exhibited noteworthy gains. Meanwhile, the uncertainty surrounding a stronger momentum for the Capesize segment appeared to have diminished, showing signs of an upturn. Of particular interest is the observation that the surge in demand tonne days for Capesize vessels, noted since mid-October, played a pivotal role in creating a more robust freight environment. This, in turn, contributes to a more optimistic outlook as we approach the end of the month.
 

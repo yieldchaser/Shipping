@@ -53,9 +53,9 @@ According to news reports, a shortage of soybeans is developing in China. Amid r
 
 The increasing shortage of soybeans in China has been reflected in a recovery in order volumes for cargoes to be discharged in China since September. The forward-looking nature of the data set suggests that Chinese buyers have been looking to replenish dwindling stocks. However, the time lag involved in the shipments is likely to support soybean prices in the short term.
 
-![Market Chart 1](assets/2022-10-31_shipfix-global-market-update_img_unnamed-2022-10-31t115924317_6c8dbcc6c9d0.png)
+![Market Chart 1](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-10-31_shipfix-global-market-update_img_unnamed-2022-10-31t115924317_6c8dbcc6c9d0.png)
 
 > **Figure 1: Market Chart 1**  
-> **Interactive Data & Source:** [Shipfix](https://shipfix.com/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-10-31_shipfix-global-market-update_img_unnamed-2022-10-31t115924317_6c8dbcc6c9d0.png)
+> **Interactive Data & Source:** [Shipfix](https://shipfix.com/) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-10-31_shipfix-global-market-update_img_unnamed-2022-10-31t115924317_6c8dbcc6c9d0.png)
 
 Data Source:[Shipfix](https://shipfix.com/)

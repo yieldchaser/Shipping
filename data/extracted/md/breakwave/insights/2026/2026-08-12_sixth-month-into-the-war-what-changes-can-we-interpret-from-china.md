@@ -26,10 +26,10 @@ China’s oil policies start to shift in July, signalling that refiners are incr
 
 China removed transportation fuel export restrictions in late June, resulting in July exports to destinations beyond Hong Kong and Macau rebounding to 510kbd, from just 220kbd in Q2. August exports are reportedly set to rise further to around 680kbd, the highest since July 2025, although some volumes could roll over into September given the limited time available to arrange shipments.
 
-![Στιγμιότυπο Οθόνης 2026 08 12 105842](assets/2026-08-12_sixth-month-into-the-war-what-changes-can-we-interpret-from-china_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_53b7ac645852.png)
+![Στιγμιότυπο Οθόνης 2026 08 12 105842](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-08-12_sixth-month-into-the-war-what-changes-can-we-interpret-from-china_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_53b7ac645852.png)
 
 > **Figure 1: Στιγμιότυπο Οθόνης 2026 08 12 105842**  
-> **Interactive Data & Source:** [Analytics Vortexa](https://analytics.vortexa.com/InsightsHubPage?articleId=7CtmU1YQsqNqTvzdtDJXgp&articleType=highlight&categoryFilters=%5B%22webinar%22%2C%22report%22%2C%22article%22%2C%22highlight%22%2C%22briefing%22%5D&page=InsightsHubPage&tabId=40173c18-c403-400d-85fa-180fff870c86) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-08-12_sixth-month-into-the-war-what-changes-can-we-interpret-from-china_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_53b7ac645852.png)
+> **Interactive Data & Source:** [Analytics Vortexa](https://analytics.vortexa.com/InsightsHubPage?articleId=7CtmU1YQsqNqTvzdtDJXgp&articleType=highlight&categoryFilters=%5B%22webinar%22%2C%22report%22%2C%22article%22%2C%22highlight%22%2C%22briefing%22%5D&page=InsightsHubPage&tabId=40173c18-c403-400d-85fa-180fff870c86) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-08-12_sixth-month-into-the-war-what-changes-can-we-interpret-from-china_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_53b7ac645852.png)
 
 While securing domestic energy supply remains the ultimate priority — Beijing continues to require refiners to maintain product inventories above February levels — the relaxation of export restrictions nevertheless signals a gradual shift towards supporting economic activity.
 
@@ -47,10 +47,10 @@ Under current market conditions, the most reliable seaborne barrels are likely t
 
 **A less visible policy shift is that Beijing has quietly allowed state-run refiners to purchase western-sanctioned Russian energy products**, albeit through intermediaries and with efforts to avoid traceable payments.
 
-![Στιγμιότυπο Οθόνης 2026 08 12 105849](assets/2026-08-12_sixth-month-into-the-war-what-changes-can-we-interpret-from-china_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_52eb3a418ad9.png)
+![Στιγμιότυπο Οθόνης 2026 08 12 105849](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-08-12_sixth-month-into-the-war-what-changes-can-we-interpret-from-china_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_52eb3a418ad9.png)
 
 > **Figure 2: Στιγμιότυπο Οθόνης 2026 08 12 105849**  
-> **Interactive Data & Source:** [Analytics Vortexa](https://analytics.vortexa.com/InsightsHubPage?articleId=7CtmU1YQsqNqTvzdtDJXgp&articleType=highlight&categoryFilters=%5B%22webinar%22%2C%22report%22%2C%22article%22%2C%22highlight%22%2C%22briefing%22%5D&page=InsightsHubPage&tabId=40173c18-c403-400d-85fa-180fff870c86) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-08-12_sixth-month-into-the-war-what-changes-can-we-interpret-from-china_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_52eb3a418ad9.png)
+> **Interactive Data & Source:** [Analytics Vortexa](https://analytics.vortexa.com/InsightsHubPage?articleId=7CtmU1YQsqNqTvzdtDJXgp&articleType=highlight&categoryFilters=%5B%22webinar%22%2C%22report%22%2C%22article%22%2C%22highlight%22%2C%22briefing%22%5D&page=InsightsHubPage&tabId=40173c18-c403-400d-85fa-180fff870c86) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-08-12_sixth-month-into-the-war-what-changes-can-we-interpret-from-china_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_52eb3a418ad9.png)
 
 As highlighted in our July Market Insights, sanctioned crude grades are likely to gain market share in China during August.
 
@@ -70,10 +70,10 @@ Stock draws accelerated to 1mbd in July, the deepest monthly draw since February
 
 Even so, inventories at both state-owned and private facilities remained above early-2025 levels at the end of July.
 
-![Στιγμιότυπο Οθόνης 2026 08 12 105859](assets/2026-08-12_sixth-month-into-the-war-what-changes-can-we-interpret-from-china_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_60abe46afc5d.png)
+![Στιγμιότυπο Οθόνης 2026 08 12 105859](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-08-12_sixth-month-into-the-war-what-changes-can-we-interpret-from-china_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_60abe46afc5d.png)
 
 > **Figure 3: Στιγμιότυπο Οθόνης 2026 08 12 105859**  
-> **Interactive Data & Source:** [Analytics Vortexa](https://analytics.vortexa.com/InsightsHubPage?articleId=4pODuEK4CLtMB289fV0hsx&articleType=article&categoryFilters=%5B%22webinar%22%2C%22report%22%2C%22article%22%2C%22highlight%22%2C%22briefing%22%5D&page=InsightsHubPage&tabId=40173c18-c403-400d-85fa-180fff870c86) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-08-12_sixth-month-into-the-war-what-changes-can-we-interpret-from-china_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_60abe46afc5d.png)
+> **Interactive Data & Source:** [Analytics Vortexa](https://analytics.vortexa.com/InsightsHubPage?articleId=4pODuEK4CLtMB289fV0hsx&articleType=article&categoryFilters=%5B%22webinar%22%2C%22report%22%2C%22article%22%2C%22highlight%22%2C%22briefing%22%5D&page=InsightsHubPage&tabId=40173c18-c403-400d-85fa-180fff870c86) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-08-12_sixth-month-into-the-war-what-changes-can-we-interpret-from-china_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_60abe46afc5d.png)
 
 For August, we expect inventory trends to diverge. Drawdowns from private commercial storage should slow as more Iranian cargoes move onshore. By contrast, state-owned inventories could see faster drawdowns as renewed Middle East supply disruptions increase the need to bridge supply gaps.
 
@@ -91,10 +91,10 @@ Still, this contrasts with Saudi and Iraqi barrels, which were previously China�
 
 Taking Saudi barrels as an example, the Ras Tanura–Rizhao VLCC rate via the normal Hormuz route exceeded $13/b in early August, while the Yanbu–Rizhao rate via the Red Sea spiked to nearly $20/b. Both are substantially above the $2–5/b range seen before February. Although freight for cargoes from Sidi Kerir via the Cape of Good Hope remains below $15/b, the voyage takes more than 50 days laden, excluding SUMED transit time, making the route too slow to be practical for Chinese refiners.
 
-![Στιγμιότυπο Οθόνης 2026 08 12 105908](assets/2026-08-12_sixth-month-into-the-war-what-changes-can-we-interpret-from-china_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_3c71cac31b92.png)
+![Στιγμιότυπο Οθόνης 2026 08 12 105908](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-08-12_sixth-month-into-the-war-what-changes-can-we-interpret-from-china_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_3c71cac31b92.png)
 
 > **Figure 4: Στιγμιότυπο Οθόνης 2026 08 12 105908**  
-> **Interactive Data & Source:** [Analytics Vortexa](https://analytics.vortexa.com/InsightsHubPage?articleId=4pODuEK4CLtMB289fV0hsx&articleType=article&categoryFilters=%5B%22webinar%22%2C%22report%22%2C%22article%22%2C%22highlight%22%2C%22briefing%22%5D&page=InsightsHubPage&tabId=40173c18-c403-400d-85fa-180fff870c86) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-08-12_sixth-month-into-the-war-what-changes-can-we-interpret-from-china_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_3c71cac31b92.png)
+> **Interactive Data & Source:** [Analytics Vortexa](https://analytics.vortexa.com/InsightsHubPage?articleId=4pODuEK4CLtMB289fV0hsx&articleType=article&categoryFilters=%5B%22webinar%22%2C%22report%22%2C%22article%22%2C%22highlight%22%2C%22briefing%22%5D&page=InsightsHubPage&tabId=40173c18-c403-400d-85fa-180fff870c86) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-08-12_sixth-month-into-the-war-what-changes-can-we-interpret-from-china_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_3c71cac31b92.png)
 
 Moreover,**Chinese-flagged tankers have been advised not to enter high-risk areas, as vessels could face extended delays at load ports if they are unable to transit the blockade zones**. Although Chinese tankers are generally not the primary attack targets [[Four in five vessels are now talking their way through Bab el-Mandeb](https://analytics.vortexa.com/InsightsHubPage?articleId=4pODuEK4CLtMB289fV0hsx&articleType=article&categoryFilters=%5B%22webinar%22%2C%22report%22%2C%22article%22%2C%22highlight%22%2C%22briefing%22%5D&page=InsightsHubPage&tabId=40173c18-c403-400d-85fa-180fff870c86)], operators have remained surprisingly cautious about Middle East voyages, minimising the risk of becoming embroiled in diplomatic issues while Beijing’s response to the crisis remains closely watched.
 

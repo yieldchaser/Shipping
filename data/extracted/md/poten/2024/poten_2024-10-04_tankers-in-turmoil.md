@@ -28,10 +28,17 @@ It is difficult to gauge the implications for the tanker market of a full-scale 
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: Tankers In Turmoil](../../../charts/poten/2024/poten_2024-10-04_tankers-in-turmoil_chart1.png)
+![Exhibit 1: Seaborne Crude & Condensates Exports from The Middle East by Load Country](../../../charts/poten/2024/poten_2024-10-04_tankers-in-turmoil_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2024/poten_2024-10-04_tankers-in-turmoil_chart1.png)
+> **Exhibit 1: Seaborne Crude & Condensates Exports from The Middle East by Load Country**  
+> Unit: Kb/d · X-axis: Jan-21 to Sep-24  
+> Series: Saudi Arabia, Iraq, United Arab Emirates, Kuwait, Iran, Oman, Qatar, Yemen, Other  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2024/poten_2024-10-04_tankers-in-turmoil_chart1.png)
 
-![Exhibit 2: Tankers In Turmoil](../../../charts/poten/2024/poten_2024-10-04_tankers-in-turmoil_chart2.png)
+![Exhibit 2: Freight Rates vs Oil Prices](../../../charts/poten/2024/poten_2024-10-04_tankers-in-turmoil_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2024/poten_2024-10-04_tankers-in-turmoil_chart2.png)
+> **Exhibit 2: Freight Rates vs Oil Prices**  
+> Unit: USD/Day | USD/BBL · X-axis: Jan-24 to Oct-24  
+> Series: VLCC: AG-FE (280Kt), Suezmax: AG-FE (130kt), Aframax: AG-SEA (80kt), Brent (USD/BBL)  
+> *Source: Vortexa / Poten & Partners*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2024/poten_2024-10-04_tankers-in-turmoil_chart2.png)

@@ -122,6 +122,14 @@ Barring any longer-term damage from the storm, the Gulf Coast refineries will be
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: Rough Seas Ahead](../../../charts/poten/2008/poten_2008-09-12_rough-seas-ahead_chart1.png)
+> **Chart on PDF page 1: Historical MR Spot Market Rates**  
+> Unit: TCE ($/day) · X-axis: Jan-05 to Aug-08  
+> Series: UKC - USA (37kt)  
+> *Source: Poten*  
+> *No image crop of this chart was saved; caption read from the PDF.*
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2008/poten_2008-09-12_rough-seas-ahead_chart1.png)
+> **Chart on PDF page 2: US Gasoline Stocks and Prices**  
+> Unit: Thousand Barrels | $/gallon · X-axis: Jan-05 to Jun-08  
+> Series: Gasoline Stocks, Gasoline Price  
+> *Source: EIA/Poten*  
+> *No image crop of this chart was saved; caption read from the PDF.*

@@ -34,20 +34,23 @@ Scrubbers may be an option The lower Worldscale estimate is expected to decrease
 
 ![Exhibit 1: Bunkers stable in 2013, ECA Changes ahead in 2015 Worldscale released their estimated bunker prices for 2014 this week.  Over the](../../../charts/poten/2013/poten_2013-10-10_bunkers-stable-in-2013-eca-changes-ahead-in-2015-worldscale_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2013/poten_2013-10-10_bunkers-stable-in-2013-eca-changes-ahead-in-2015-worldscale_chart1.png)
+> **Interactive Asset:** [Local Asset (200 DPI PNG)](../../../charts/poten/2013/poten_2013-10-10_bunkers-stable-in-2013-eca-changes-ahead-in-2015-worldscale_chart1.png)
 
-![Exhibit 2: Bunkers stable in 2013, ECA Changes ahead in 2015 Worldscale released their estimated bunker prices for 2014 this week.  Over the](../../../charts/poten/2013/poten_2013-10-10_bunkers-stable-in-2013-eca-changes-ahead-in-2015-worldscale_chart2.png)
+![Exhibit 2: High Sulfur 380cst Price and Brent](../../../charts/poten/2013/poten_2013-10-10_bunkers-stable-in-2013-eca-changes-ahead-in-2015-worldscale_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2013/poten_2013-10-10_bunkers-stable-in-2013-eca-changes-ahead-in-2015-worldscale_chart2.png)
+> **Exhibit 2: High Sulfur 380cst Price and Brent**  
+> Unit: $/t | $/bbl · X-axis: 1/1/2013 to 10/1/2013  
+> Series: Houston, Rotterdam, Singapore, Brent  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2013/poten_2013-10-10_bunkers-stable-in-2013-eca-changes-ahead-in-2015-worldscale_chart2.png)
 
 ![Exhibit 3: Bunkers stable in 2013, ECA Changes ahead in 2015 Worldscale released their estimated bunker prices for 2014 this week.  Over the](../../../charts/poten/2013/poten_2013-10-10_bunkers-stable-in-2013-eca-changes-ahead-in-2015-worldscale_chart3.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2013/poten_2013-10-10_bunkers-stable-in-2013-eca-changes-ahead-in-2015-worldscale_chart3.png)
+> **Interactive Asset:** [Local Asset (200 DPI PNG)](../../../charts/poten/2013/poten_2013-10-10_bunkers-stable-in-2013-eca-changes-ahead-in-2015-worldscale_chart3.png)
 
 ![Exhibit 4: Bunkers stable in 2013, ECA Changes ahead in 2015 Worldscale released their estimated bunker prices for 2014 this week.  Over the](../../../charts/poten/2013/poten_2013-10-10_bunkers-stable-in-2013-eca-changes-ahead-in-2015-worldscale_chart4.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2013/poten_2013-10-10_bunkers-stable-in-2013-eca-changes-ahead-in-2015-worldscale_chart4.png)
+> **Interactive Asset:** [Local Asset (200 DPI PNG)](../../../charts/poten/2013/poten_2013-10-10_bunkers-stable-in-2013-eca-changes-ahead-in-2015-worldscale_chart4.png)
 
 ![Exhibit 5: Bunkers stable in 2013, ECA Changes ahead in 2015 Worldscale released their estimated bunker prices for 2014 this week.  Over the](../../../charts/poten/2013/poten_2013-10-10_bunkers-stable-in-2013-eca-changes-ahead-in-2015-worldscale_chart5.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2013/poten_2013-10-10_bunkers-stable-in-2013-eca-changes-ahead-in-2015-worldscale_chart5.png)
+> **Interactive Asset:** [Local Asset (200 DPI PNG)](../../../charts/poten/2013/poten_2013-10-10_bunkers-stable-in-2013-eca-changes-ahead-in-2015-worldscale_chart5.png)

@@ -31,11 +31,11 @@ tags:
 [*Book a walkthrough session with us to unpack the full data and insights*](https://calendly.com/thesignalgroup/weekly-market-demo?back=1)
 
 
-![Https://app.signalocean.com/tanker/dynamic/oilflows](../../images/68c3cf9a93efaf2d6dd4c5c7_f4bccc89.png)
+![Https://app.signalocean.com/tanker/dynamic/oilflows](../../../../../../corpus/07-signal/images/68c3cf9a93efaf2d6dd4c5c7_f4bccc89.png)
 
 > **Figure 1: Https://app.signalocean.com/tanker/dynamic/oilflows**  
 > *https://app.signalocean.com/tanker/dynamic/oilflows*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/tanker-week-37-2025) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/68c3cf9a93efaf2d6dd4c5c7_f4bccc89.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/tanker-week-37-2025) | [Local Asset](../../../../../../corpus/07-signal/images/68c3cf9a93efaf2d6dd4c5c7_f4bccc89.png)
 
 This week, the spotlight is on the evolving monthly volumes of dirty oil flows, specifically the increasing trend from Saudi Arabia to China. In August, Saudi crude shipments to China surged by 19% year-on-year, exceeding 50 million barrels. This marks not only the highest monthly volume of 2025 so far but also the strongest level since early last year. This consistent upward trajectory since May indicates Saudi Arabia's aggressive strategy of adjusting its pricing to regain Asian market share.
 

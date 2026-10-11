@@ -50,6 +50,8 @@ Historically it has seemed that spot exposure in the fourth quarter of the year 
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: Above the Average](../../../charts/poten/2008/poten_2008-12-24_above-the-average_chart1.png)
-
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2008/poten_2008-12-24_above-the-average_chart1.png)
+> **Chart on PDF page 1: Average Monthly WS Rates**  
+> Unit: WS Rate · X-axis: Jan to Dec  
+> Series: VLCC Avg '98-'07, 2008 Estimated  
+> *Source: Poten & Partners*  
+> *No image crop of this chart was saved; caption read from the PDF.*

@@ -26,10 +26,10 @@ China’s sanctioned oil imports are rebounding as supply chain adaptations take
 
 In the weeks immediately following[Shandong’s shipping ban and the new OFAC sanctions](https://www.vortexa.com/insights/crude/shandongs-ban-on-ofac-sanctioned-tankers-put-teapots-crude-arrivals-at-risk/)on tankers involved in Russian and Iranian trade, Shandong teapot refiners—the main buyers of discounted sanctioned oil—reduced refinery runs even during the Spring Festival travel rush prep season. Meanwhile, Shandong’s onshore crude inventories rapidly declined, as teapots largely stuck to sanctioned oil despite port discharge slowdowns at state-run Shandong Port Group (SPG) terminals.
 
-![Στιγμιότυπο Οθόνης 2025 02 23 212408](assets/2025-02-24_chinas-swift-workarounds-stabilise-sanctioned-oil-flows_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_8325f73b1f48.png)
+![Στιγμιότυπο Οθόνης 2025 02 23 212408](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-02-24_chinas-swift-workarounds-stabilise-sanctioned-oil-flows_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_8325f73b1f48.png)
 
 > **Figure 1: Στιγμιότυπο Οθόνης 2025 02 23 212408**  
-> **Interactive Data & Source:** [Analytics Vortexa](https://analytics.vortexa.com/Historical?dateRange=2025-01-01T00%3A00%3A00.000Z__2025-02-28T23%3A59%3A59.999Z&metric=t&page=Historical&products=%5B%2254af755a090118dcf9b0724c9a4e9f14745c26165385ffa7f1445bc768f06f11%22%2C%225de0b00094e0fd7542c10f9f8a71b4008d55750f21dc905cda9b0f7f5f76bc08%22%5D&tabId=0bbf96e8-e0ac-4e55-abb9-b77745cb51ab&v=3&vessels=%5B%225f898da6ead4d4933397ffdaaae7441f767facdc44b108b5b06a338409202a03%22%5D) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-02-24_chinas-swift-workarounds-stabilise-sanctioned-oil-flows_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_8325f73b1f48.png)
+> **Interactive Data & Source:** [Analytics Vortexa](https://analytics.vortexa.com/Historical?dateRange=2025-01-01T00%3A00%3A00.000Z__2025-02-28T23%3A59%3A59.999Z&metric=t&page=Historical&products=%5B%2254af755a090118dcf9b0724c9a4e9f14745c26165385ffa7f1445bc768f06f11%22%2C%225de0b00094e0fd7542c10f9f8a71b4008d55750f21dc905cda9b0f7f5f76bc08%22%5D&tabId=0bbf96e8-e0ac-4e55-abb9-b77745cb51ab&v=3&vessels=%5B%225f898da6ead4d4933397ffdaaae7441f767facdc44b108b5b06a338409202a03%22%5D) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-02-24_chinas-swift-workarounds-stabilise-sanctioned-oil-flows_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_8325f73b1f48.png)
 
 ## Sanctioned-Tanker-Friendly Ports Emerge Within and Outside Shandong
 
@@ -48,10 +48,10 @@ As a result, China’s Iranian crude discharge rebounded to 1.3mbd between Febru
 
 Market sources indicate that suppliers and traders absorbed additional demurrage and STS costs for January arrivals. Meanwhile, February/March-arrival Iranian crude discounts remained steady at $1/b below ICE Brent, suggesting that suppliers adjusted profit-sharing strategies to mitigate rising logistics expenses.
 
-![Στιγμιότυπο Οθόνης 2025 02 23 212554](assets/2025-02-24_chinas-swift-workarounds-stabilise-sanctioned-oil-flows_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_171398036419.png)
+![Στιγμιότυπο Οθόνης 2025 02 23 212554](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-02-24_chinas-swift-workarounds-stabilise-sanctioned-oil-flows_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_171398036419.png)
 
 > **Figure 2: Στιγμιότυπο Οθόνης 2025 02 23 212554**  
-> **Interactive Data & Source:** [Analytics Vortexa](https://analytics.vortexa.com/Historical?dateRange=2025-01-01T00%3A00%3A00.000Z__2025-02-28T23%3A59%3A59.999Z&metric=t&page=Historical&products=%5B%2254af755a090118dcf9b0724c9a4e9f14745c26165385ffa7f1445bc768f06f11%22%2C%225de0b00094e0fd7542c10f9f8a71b4008d55750f21dc905cda9b0f7f5f76bc08%22%5D&tabId=0bbf96e8-e0ac-4e55-abb9-b77745cb51ab&v=3&vessels=%5B%225f898da6ead4d4933397ffdaaae7441f767facdc44b108b5b06a338409202a03%22%5D) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-02-24_chinas-swift-workarounds-stabilise-sanctioned-oil-flows_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_171398036419.png)
+> **Interactive Data & Source:** [Analytics Vortexa](https://analytics.vortexa.com/Historical?dateRange=2025-01-01T00%3A00%3A00.000Z__2025-02-28T23%3A59%3A59.999Z&metric=t&page=Historical&products=%5B%2254af755a090118dcf9b0724c9a4e9f14745c26165385ffa7f1445bc768f06f11%22%2C%225de0b00094e0fd7542c10f9f8a71b4008d55750f21dc905cda9b0f7f5f76bc08%22%5D&tabId=0bbf96e8-e0ac-4e55-abb9-b77745cb51ab&v=3&vessels=%5B%225f898da6ead4d4933397ffdaaae7441f767facdc44b108b5b06a338409202a03%22%5D) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-02-24_chinas-swift-workarounds-stabilise-sanctioned-oil-flows_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_171398036419.png)
 
 ## Russia Shifts Non-Sanctioned Tankers to Prioritise Far East Espo Trade
 
@@ -63,10 +63,10 @@ As Russia prioritises ESPO trade for its easier access to loyal Chinese buyers, 
 
 Due to the quick response of new entrants, the Kozmino-to-Shandong freight rate has eased to around $6.50/b this week, down from January’s peak of over $9/b. Meanwhile, ESPO-delivered premiums have increased by $0.8-1/b m-o-m, signalling a rebound in ESPO FOB prices.
 
-![Στιγμιότυπο Οθόνης 2025 02 23 212716](assets/2025-02-24_chinas-swift-workarounds-stabilise-sanctioned-oil-flows_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_e2be0e11bdcf.png)
+![Στιγμιότυπο Οθόνης 2025 02 23 212716](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-02-24_chinas-swift-workarounds-stabilise-sanctioned-oil-flows_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_e2be0e11bdcf.png)
 
 > **Figure 3: Στιγμιότυπο Οθόνης 2025 02 23 212716**  
-> **Interactive Data & Source:** [Analytics Vortexa](https://analytics.vortexa.com/Historical?dateRange=2025-01-01T00%3A00%3A00.000Z__2025-02-28T23%3A59%3A59.999Z&metric=t&page=Historical&products=%5B%2254af755a090118dcf9b0724c9a4e9f14745c26165385ffa7f1445bc768f06f11%22%2C%225de0b00094e0fd7542c10f9f8a71b4008d55750f21dc905cda9b0f7f5f76bc08%22%5D&tabId=0bbf96e8-e0ac-4e55-abb9-b77745cb51ab&v=3&vessels=%5B%225f898da6ead4d4933397ffdaaae7441f767facdc44b108b5b06a338409202a03%22%5D) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-02-24_chinas-swift-workarounds-stabilise-sanctioned-oil-flows_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_e2be0e11bdcf.png)
+> **Interactive Data & Source:** [Analytics Vortexa](https://analytics.vortexa.com/Historical?dateRange=2025-01-01T00%3A00%3A00.000Z__2025-02-28T23%3A59%3A59.999Z&metric=t&page=Historical&products=%5B%2254af755a090118dcf9b0724c9a4e9f14745c26165385ffa7f1445bc768f06f11%22%2C%225de0b00094e0fd7542c10f9f8a71b4008d55750f21dc905cda9b0f7f5f76bc08%22%5D&tabId=0bbf96e8-e0ac-4e55-abb9-b77745cb51ab&v=3&vessels=%5B%225f898da6ead4d4933397ffdaaae7441f767facdc44b108b5b06a338409202a03%22%5D) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-02-24_chinas-swift-workarounds-stabilise-sanctioned-oil-flows_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_e2be0e11bdcf.png)
 
 However, this focus on ESPO has significantly tightened non-sanctioned Aframax availability on other Russian routes, leading to a surge in stranded volumes on sanctioned tankers. This impact is particularly pronounced near ports facing Western scrutiny, where sanctioned tankers are now holding record-high volumes of crude with limited prospects of being accepted by Asian buyers.
 
@@ -84,10 +84,10 @@ However, China is likely to pivot back to these Russian barrels soon, due to Bei
 
 Preliminary flow data suggests that Russian Urals and Arctic crude arrivals could rebound to over 350kbd in March and April.
 
-![Στιγμιότυπο Οθόνης 2025 02 23 212815](assets/2025-02-24_chinas-swift-workarounds-stabilise-sanctioned-oil-flows_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_6b449bdf3cfa.png)
+![Στιγμιότυπο Οθόνης 2025 02 23 212815](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-02-24_chinas-swift-workarounds-stabilise-sanctioned-oil-flows_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_6b449bdf3cfa.png)
 
 > **Figure 4: Στιγμιότυπο Οθόνης 2025 02 23 212815**  
-> **Interactive Data & Source:** [Vortexa](https://www.vortexa.com//oil-gas-data-traders-analysts-data-scientists?gclid=Cj0KCQjw8_qRBhCXARIsAE2AtRZKOvMnbilZ_6_91d7huSFFy71pWLrnPwGwOHVzXsmsG-1a1mZnQw8aAt89EALw_wcB&hsa_acc=1782073842&hsa_ad=548425387665&hsa_cam=14746637662&hsa_grp=125038601902&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_src=g&hsa_tgt=dsa-1431852288425&hsa_ver=3&utm_campaign=%5BCD%5D%20-%20DSA%20-%20EMEA&utm_medium=cpc&utm_medium=ppc&utm_source=google&utm_source=adwords&utm_term=) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-02-24_chinas-swift-workarounds-stabilise-sanctioned-oil-flows_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_6b449bdf3cfa.png)
+> **Interactive Data & Source:** [Vortexa](https://www.vortexa.com//oil-gas-data-traders-analysts-data-scientists?gclid=Cj0KCQjw8_qRBhCXARIsAE2AtRZKOvMnbilZ_6_91d7huSFFy71pWLrnPwGwOHVzXsmsG-1a1mZnQw8aAt89EALw_wcB&hsa_acc=1782073842&hsa_ad=548425387665&hsa_cam=14746637662&hsa_grp=125038601902&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_src=g&hsa_tgt=dsa-1431852288425&hsa_ver=3&utm_campaign=%5BCD%5D%20-%20DSA%20-%20EMEA&utm_medium=cpc&utm_medium=ppc&utm_source=google&utm_source=adwords&utm_term=) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-02-24_chinas-swift-workarounds-stabilise-sanctioned-oil-flows_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_6b449bdf3cfa.png)
 
 ## China’s Sanctioned Oil Demand Will Remain Capped in the Near Term
 

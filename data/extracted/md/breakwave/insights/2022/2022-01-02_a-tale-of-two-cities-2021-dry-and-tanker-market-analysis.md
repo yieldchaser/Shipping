@@ -38,11 +38,11 @@ The big challenge for the evolution of seaborne demand for dry vessels is always
 
 Market consensus is that the growth of the world’s second largest economy will vary from 5% to 5.5% in 2022 as there were no records of sharp rebound within this year. The Chinese Academy of Social Sciences and the People’s Bank of China estimate China’s potential growth rate to be about 5.5% for 2022. Chinese growth slowed in the second half of this year, and there are predictions that the figure will be below 4% for the final quarter. However, official estimates for the full year growth will be released in mid-January.
 
-![Dry - Ton Charts](assets/2022-01-02_a-tale-of-two-cities-2021-dry-and-tanker-market-analysis_img_ch1_97ce7fee6b83.png)
+![Dry - Ton Charts](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-01-02_a-tale-of-two-cities-2021-dry-and-tanker-market-analysis_img_ch1_97ce7fee6b83.png)
 
 > **Figure 1: Dry - Ton Charts**  
 > *Chart 1: Signal Ocean Data| Dry, Ton Charts, Demand in Ton Days % Growth, Year 2021, per Quarter and Month*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform/features) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-01-02_a-tale-of-two-cities-2021-dry-and-tanker-market-analysis_img_ch1_97ce7fee6b83.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform/features) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-01-02_a-tale-of-two-cities-2021-dry-and-tanker-market-analysis_img_ch1_97ce7fee6b83.png)
 
 ### Tankers - Demand Crude and Product
 
@@ -50,17 +50,17 @@ Market consensus is that the growth of the world’s second largest economy will
 
 There are fears of the impact of the Omicron variant on oil demand with EIA, OPEC and the US Energy Information Administration concluding at different positions of estimates for the next year. The IEA in December’s Oil Market Report (OMR) estimated global oil demand to rise by 5.4 mb/d in 2021 and by 3.3 mb/d in 2022, when it returns to pre-pandemic levels at 99.5 mb/d.
 
-![Crude Tankers](assets/2022-01-02_a-tale-of-two-cities-2021-dry-and-tanker-market-analysis_img_ch2_b21460f15f14.png)
+![Crude Tankers](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-01-02_a-tale-of-two-cities-2021-dry-and-tanker-market-analysis_img_ch2_b21460f15f14.png)
 
 > **Figure 2: Crude Tankers**  
 > *Chart 2: Signal Ocean Data| Crude Tankers, Ton Charts, Demand in Ton Days % Growth, Year 2021, per Quarter and Month*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform/features) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-01-02_a-tale-of-two-cities-2021-dry-and-tanker-market-analysis_img_ch2_b21460f15f14.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform/features) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-01-02_a-tale-of-two-cities-2021-dry-and-tanker-market-analysis_img_ch2_b21460f15f14.png)
 
-![Product Tankers](assets/2022-01-02_a-tale-of-two-cities-2021-dry-and-tanker-market-analysis_img_ch3_45ee2fa11559.png)
+![Product Tankers](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-01-02_a-tale-of-two-cities-2021-dry-and-tanker-market-analysis_img_ch3_45ee2fa11559.png)
 
 > **Figure 3: Product Tankers**  
 > *Chart 3: Signal Ocean Data| Product Tankers, Ton Charts, Demand in Ton Days % Growth, Year 2021, per Quarter and Month*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform/features) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-01-02_a-tale-of-two-cities-2021-dry-and-tanker-market-analysis_img_ch3_45ee2fa11559.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform/features) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-01-02_a-tale-of-two-cities-2021-dry-and-tanker-market-analysis_img_ch3_45ee2fa11559.png)
 
 ### Demand - TonCharts Methodology
 
@@ -74,29 +74,29 @@ There are fears of the impact of the Omicron variant on oil demand with EIA, OPE
 
 The evolution of dry market rates for the current year, chart 4, is undoubtedly one of the most profitable that dry bulk shipowners have seen lately, with rates following the ending of summer season surging to ten year highs. It was a year for Capesize and Panamax vessels, but it ended with a year of stronger performance for smaller vessels. The Handysize segment has shown signs of firm rebound over the last weeks of December, when Capesize and Panamax vessels are facing constant headwinds in the upward movement of rates. The fears of a weaker Chinese economic growth and the ongoing cuts of steel productions for a greener future pose a serious challenge on the euphoria of earnings for the large vessel sizes. The energy crisis in China that came suddenly in November with a significant volume of Indonesian coal imports boosted the sentiment of Panamax rates, however, now the issue seems resolved and vessel earnings are showing more volatility towards lower levels.
 
-![Dry Market Rates](assets/2022-01-02_a-tale-of-two-cities-2021-dry-and-tanker-market-analysis_img_ch5_7cdcb627a597.png)
+![Dry Market Rates](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-01-02_a-tale-of-two-cities-2021-dry-and-tanker-market-analysis_img_ch5_7cdcb627a597.png)
 
 > **Figure 4: Dry Market Rates**  
 > *Chart 4: Signal Ocean Data| Dry Market Rates, $/ton, per Main Dry Bulk Ship Size & Route*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform/features) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-01-02_a-tale-of-two-cities-2021-dry-and-tanker-market-analysis_img_ch5_7cdcb627a597.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform/features) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-01-02_a-tale-of-two-cities-2021-dry-and-tanker-market-analysis_img_ch5_7cdcb627a597.png)
 
 ### Tankers - Crude and Product
 
 Although dry bulk rates were hovering throughout the year above their 2016-2020 average, crude tanker rates performed at very weak levels during the second and third quarters of this year, with a trend of recovery in December (chart 5). Overall, 2021 is on track to be one of the worst years for spot crude trades since 2009. The sentiment in the VLCC size for AG to Far East route remained at negative pressure throughout the year and recorded the weakest levels of WS. The fourth quarter will end with a clear upward trend for Aframax Med rates, whereas Suezmax vessels are still facing serious headwinds with some signs for an improved performance that seemed short term.
 
-![Crude Market Rates](assets/2022-01-02_a-tale-of-two-cities-2021-dry-and-tanker-market-analysis_img_ch6_718cefdeb34b.png)
+![Crude Market Rates](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-01-02_a-tale-of-two-cities-2021-dry-and-tanker-market-analysis_img_ch6_718cefdeb34b.png)
 
 > **Figure 5: Crude Market Rates**  
 > *Chart 5: Signal Ocean Data| Crude Market Rates, WS, per Main Tanker Ship Size & Route*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform/features) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-01-02_a-tale-of-two-cities-2021-dry-and-tanker-market-analysis_img_ch6_718cefdeb34b.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform/features) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-01-02_a-tale-of-two-cities-2021-dry-and-tanker-market-analysis_img_ch6_718cefdeb34b.png)
 
 In the product segment, November shifted the sentiment to stronger rates, chart 6, with significant upward movements in Panamax Carib to USG rates and in MR1 clean Algeria to Med. In the MR2, Continent to US rates are gradually recovering but the upturn is not so aggressive compared to the spike of MR1 Algeria Med rates one week before the ending of this year. The last days of December decelerated the euphoria seen in MR1, however, levels are standing at the highest point for this year.
 
-![Product Market Rates](assets/2022-01-02_a-tale-of-two-cities-2021-dry-and-tanker-market-analysis_img_ch7_4a96b5c7dc2a.png)
+![Product Market Rates](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-01-02_a-tale-of-two-cities-2021-dry-and-tanker-market-analysis_img_ch7_4a96b5c7dc2a.png)
 
 > **Figure 6: Product Market Rates**  
 > *Chart 6: Signal Ocean Data| Product Market Rates, WS, per Main Tanker Ship Size & Route*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform/features) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-01-02_a-tale-of-two-cities-2021-dry-and-tanker-market-analysis_img_ch7_4a96b5c7dc2a.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform/features) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-01-02_a-tale-of-two-cities-2021-dry-and-tanker-market-analysis_img_ch7_4a96b5c7dc2a.png)
 
 ### Section 3: Supply Trend
 
@@ -108,31 +108,31 @@ The current picture of the number of vessels sailing in ballast status (chart 7)
 
 This year’s evolution comes to confirm that despite the headwinds in the macroeconomic environment, the seaborne demand for raw materials keeps more vessels employed and the seasonal weakness of rates is likely to be smoothed at the opening of the new year with challenges of downward pressure at the first days of February with the Chinese New Year.
 
-![Ballasters’ View](assets/2022-01-02_a-tale-of-two-cities-2021-dry-and-tanker-market-analysis_img_ch8_4b48d7be34df.png)
+![Ballasters’ View](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-01-02_a-tale-of-two-cities-2021-dry-and-tanker-market-analysis_img_ch8_4b48d7be34df.png)
 
 > **Figure 7: Ballasters’ View**  
 > *Chart 7: Signal Ocean Data| Ballasters’ View, Number of Vessels being Ballast, per Main Dry Bulk Ship SizeCapesize-Panamax, SE Africa, Supramax SE Asia, Handy NOPAC*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform/features) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-01-02_a-tale-of-two-cities-2021-dry-and-tanker-market-analysis_img_ch8_4b48d7be34df.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform/features) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-01-02_a-tale-of-two-cities-2021-dry-and-tanker-market-analysis_img_ch8_4b48d7be34df.png)
 
 ### Port Congestion - China, Dry Vessels
 
 It is immediately apparent when looking at dry bulk vessel congestion, chart 9, that the smaller dry bulk vessel sizes, Handysize-Handymax, are still experiencing port logistics supply chain issues. These are the only vessel sizes appearing with still high levels throughout the year that can also explain the upward sentiment of freight rates in the Handysize market in NOPAC area during December. It is worth mentioning that at the large vessel sizes, despite the constant declining levels since week 46 for Capesize and very large ore carriers, the last two weeks of December emerged with an increasing momentum with the number of Capesize ship congestion almost surpassing the annual average. We closely monitor this latest trend and its impact on freight rates for the first days of January’s new year.
 
-![Number of Dry Bulk Vessels Congested at China](assets/2022-01-02_a-tale-of-two-cities-2021-dry-and-tanker-market-analysis_img_ch9_3fd5a63e6ee1.png)
+![Number of Dry Bulk Vessels Congested at China](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-01-02_a-tale-of-two-cities-2021-dry-and-tanker-market-analysis_img_ch9_3fd5a63e6ee1.png)
 
 > **Figure 8: Number of Dry Bulk Vessels Congested at China**  
 > *Chart 8: Signal Ocean Data| Number of Dry Bulk Vessels congested at China, Per Week 2021 per Ship Size*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform/features) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-01-02_a-tale-of-two-cities-2021-dry-and-tanker-market-analysis_img_ch9_3fd5a63e6ee1.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform/features) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-01-02_a-tale-of-two-cities-2021-dry-and-tanker-market-analysis_img_ch9_3fd5a63e6ee1.png)
 
 ### Tankers - Supply Trend
 
 The supply trend for crude and product tankers at the key trading routes, chart 9, confirm the optimistic sentiment of the upward trend of rates at the last days of December towards the beginning of the new year. In the VLCC segment, load port Ras Tanura, we see that the market experiences a declining number of sailing ships from week 45, at the beginning of November, and fetched levels far below the average of one year ~ nearing to 60 vessels compared to more than 100 vessels at the beginning of August. In the Aframax segment, the trend is also heading downwards in the Mediterranean and Baltic, whereas in the Suezmax, we see again an increasing trend above the average of this year that will push towards a weaker sentiment of freight rates. In the LR2 AG route, the market is experiencing again one of the lowest number of vessels sailing that comes in line with the surprising upward cycle of WS rates.
 
-![Supply Trend](assets/2022-01-02_a-tale-of-two-cities-2021-dry-and-tanker-market-analysis_img_ch10_dcfdf73c66d0.png)
+![Supply Trend](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-01-02_a-tale-of-two-cities-2021-dry-and-tanker-market-analysis_img_ch10_dcfdf73c66d0.png)
 
 > **Figure 9: Supply Trend**  
 > *Chart 9: Signal Ocean Data| Supply Trend, Per Week 2021 per Tanker Ship Size Crude-Product, Market Deployment: spot/relet. VLCC AG_Ras Tanura - Far East, 20 days forward / Suez Wafr_Bonny – East, 28 days forward / Afra Med_Novorossiysk, 6 days forward / Afra Baltic_Primorsk, 10 days forward / LR2 AG_Jubail, 10 days forward*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform/features) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-01-02_a-tale-of-two-cities-2021-dry-and-tanker-market-analysis_img_ch10_dcfdf73c66d0.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform/features) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-01-02_a-tale-of-two-cities-2021-dry-and-tanker-market-analysis_img_ch10_dcfdf73c66d0.png)
 
 ### Bunker Prices and Savings for Shipowners
 
@@ -140,11 +140,11 @@ Compared to the turmoil of 2020, this year has been relatively straightforward f
 
 In real terms, this means that the voyage costs of shipping companies have increased by 50% in 2021 and scrubber-fitted vessels have enjoyed more cost benefits as the year has progressed.
 
-![Signal Ocean Platform](assets/2022-01-02_a-tale-of-two-cities-2021-dry-and-tanker-market-analysis_img_ch11_37118da2f6ab.png)
+![Signal Ocean Platform](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-01-02_a-tale-of-two-cities-2021-dry-and-tanker-market-analysis_img_ch11_37118da2f6ab.png)
 
 > **Figure 10: Signal Ocean Platform**  
 > *Table 1: Data Source| The Signal Ocean Platform*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform/features) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-01-02_a-tale-of-two-cities-2021-dry-and-tanker-market-analysis_img_ch11_37118da2f6ab.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform/features) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-01-02_a-tale-of-two-cities-2021-dry-and-tanker-market-analysis_img_ch11_37118da2f6ab.png)
 
 ### What Does This Year Say for 2022?
 

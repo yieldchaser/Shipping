@@ -26,10 +26,18 @@ Despite all this, India seems to be committed to the Russian crude. Recent repor
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: Is India Committing To The Kremlin](../../../charts/poten/2024/poten_2024-07-26_is-india-committing-to-the-kremlin_chart1.png)
+![Exhibit 1: Urals Oil vs Brent](../../../charts/poten/2024/poten_2024-07-26_is-india-committing-to-the-kremlin_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2024/poten_2024-07-26_is-india-committing-to-the-kremlin_chart1.png)
+> **Exhibit 1: Urals Oil vs Brent**  
+> Unit: Price · X-axis: 2020 to 2024  
+> Series: Urals Oil, Brent  
+> *Source: Trading Economics*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2024/poten_2024-07-26_is-india-committing-to-the-kremlin_chart1.png)
 
-![Exhibit 2: Is India Committing To The Kremlin](../../../charts/poten/2024/poten_2024-07-26_is-india-committing-to-the-kremlin_chart2.png)
+![Exhibit 2: India Ton-Miles By Origin](../../../charts/poten/2024/poten_2024-07-26_is-india-committing-to-the-kremlin_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2024/poten_2024-07-26_is-india-committing-to-the-kremlin_chart2.png)
+> **Exhibit 2: India Ton-Miles By Origin**  
+> Unit: Billion TM · X-axis: Jan-21 to May-24  
+> Series: Russia, United States, Iraq, Nigeria, Saudi Arabia, Other  
+> *Source: Vortexa*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2024/poten_2024-07-26_is-india-committing-to-the-kremlin_chart2.png)

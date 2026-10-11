@@ -152,23 +152,26 @@ Looking ahead, as the market formally enters the critical window for pre-Lunar N
 | **Jiangyin** | -15.00 | +5.00 | **Dalian** | 0.00 | +0.00 |
 
 ## Historical Iron Ore Index Comparisons (USD/DMT)
+> **Estimate.** The report prints no numbers for this chart. Values are computed from the chart's vector geometry at each x-axis date label (calibrated on the printed axis ticks; typically within 1% of the axis range).
+
 | Date | IOSI62 (USD/DMT) | IOPi62 CFR Eq (USD/DMT) | IOSI65 (USD/DMT) | IOPi65 CFR Eq (USD/DMT) |
 | :--- | :--- | :--- | :--- | :--- |
-| 4-Jan-21 | 160.00 | 170.00 | 180.00 | 175.00 |
-| 4-May-21 | 270.00 | 265.00 | 275.00 | 270.00 |
-| 4-Sep-21 | 140.00 | 135.00 | 145.00 | 140.00 |
-| 4-Jan-22 | 110.00 | 105.00 | 115.00 | 110.00 |
-| 4-May-22 | 180.00 | 175.00 | 185.00 | 180.00 |
-| 4-Sep-22 | 120.00 | 115.00 | 125.00 | 120.00 |
-| 4-Jan-23 | 100.00 | 95.00 | 105.00 | 100.00 |
-| 4-May-23 | 110.00 | 105.00 | 115.00 | 110.00 |
-| 4-Sep-23 | 130.00 | 125.00 | 135.00 | 130.00 |
-| 4-Jan-24 | 140.00 | 135.00 | 145.00 | 140.00 |
-| 4-May-24 | 130.00 | 125.00 | 135.00 | 130.00 |
-| 4-Sep-24 | 100.00 | 95.00 | 105.00 | 100.00 |
-| 4-Jan-25 | 105.00 | 100.00 | 110.00 | 105.00 |
-| 4-May-25 | 110.00 | 105.00 | 115.00 | 110.00 |
-| 4-Jan-26 | 115.00 | 110.00 | 120.00 | 115.00 |
+| 4-Jan-21 | 171.54 | 164.36 | 185.90 | 175.64 |
+| 4-May-21 | 192.05 | 190.08 | 228.97 | 227.00 |
+| 4-Sep-21 | 146.92 | 152.05 | 169.48 | 183.85 |
+| 4-Jan-22 | 133.59 | 121.30 | 141.79 | 150.02 |
+| 4-May-22 | 147.94 | 144.35 | 172.55 | 168.96 |
+| 4-Sep-22 | 100.76 | 100.76 | 111.03 | 118.20 |
+| 4-Jan-23 | 114.10 | 114.09 | 129.49 | 129.49 |
+| 4-May-23 | 126.48 | 111.03 | 121.81 | 126.41 |
+| 4-Sep-23 | 105.90 | 120.26 | 126.41 | 135.64 |
+| 4-Jan-24 | 141.76 | 139.73 | 167.44 | 155.12 |
+| 4-May-24 | 121.27 | 119.22 | 136.64 | 134.60 |
+| 4-Sep-24 | 97.70 | 95.66 | 104.91 | 111.04 |
+| 4-Jan-25 | 100.77 | 100.77 | 111.03 | 116.15 |
+| 4-May-25 | 99.74 | 98.72 | 108.97 | 114.10 |
+| 4-Sep-25 | 106.92 | 101.79 | 122.30 | 117.18 |
+| 4-Jan-26 | 105.90 | 107.95 | 121.28 | 119.24 |
 
 ---
 
@@ -191,43 +194,62 @@ Looking ahead, as the market formally enters the critical window for pre-Lunar N
 | **SGX** | **Jun. 26** | USD/DMT | 108.50 | +0.60 | +0.56% | 6.59 | 58.52 | 107.40 | 108.55 |
 
 ## Dry Bulk Freight Rates Historical Line Data (USD/MT)
+> **Estimate.** The report prints no numbers for this chart. Values are computed from the chart's vector geometry at each x-axis date label (calibrated on the printed axis ticks; typically within 1% of the axis range).
+
 | Date | C5 W. Australia - Qingdao (USD/MT) | C3 Tubarao - Qingdao (USD/MT) |
 | :--- | :--- | :--- |
-| 4-Jan-21 | 15.00 | 18.00 |
-| 4-May-21 | 8.00 | 20.00 |
-| 4-Sep-21 | 22.00 | 48.00 |
-| 4-Jan-22 | 10.00 | 35.00 |
-| 4-May-22 | 8.00 | 38.00 |
-| 4-Sep-22 | 8.00 | 18.00 |
-| 4-Jan-23 | 8.00 | 20.00 |
-| 4-May-23 | 8.00 | 22.00 |
-| 4-Sep-23 | 8.00 | 35.00 |
-| 4-Jan-24 | 18.00 | 25.00 |
-| 4-May-24 | 10.00 | 22.00 |
-| 4-Sep-24 | 9.00 | 22.00 |
-| 4-Jan-25 | 9.00 | 22.00 |
-| 4-May-25 | 9.00 | 22.00 |
-| 4-Sep-25 | 9.00 | 22.00 |
-| 4-Jan-26 | 9.00 | 22.00 |
+| 4-Jan-21 | 8.92 | 15.35 |
+| 4-May-21 | 14.51 | 30.44 |
+| 4-Sep-21 | 13.67 | 33.23 |
+| 4-Jan-22 | 8.65 | 21.78 |
+| 4-May-22 | 12.00 | 27.08 |
+| 4-Sep-22 | 8.92 | 19.54 |
+| 4-Jan-23 | 7.53 | 18.99 |
+| 4-May-23 | 8.64 | 22.34 |
+| 4-Sep-23 | 8.08 | 18.71 |
+| 4-Jan-24 | 10.04 | 29.32 |
+| 4-May-24 | 10.60 | 26.53 |
+| 4-Sep-24 | 11.72 | 28.20 |
+| 4-Jan-25 | 6.69 | 18.14 |
+| 4-May-25 | 7.94 | 19.54 |
+| 4-Sep-25 | 10.04 | 24.29 |
+| 4-Jan-26 | 8.43 | 22.40 |
 
 ## Total China Iron Ore Import Volumes (Million Tonnes)
+> **Estimate.** The report prints no numbers for this chart. Values are computed from the chart's vector geometry at each x-axis date label (calibrated on the printed axis ticks; typically within 1% of the axis range).
+
 | Month / Period | Import Volume (Million Tonnes) |
 | :--- | :--- |
-| Jun-23 | 96.00 |
-| Aug-23 | 94.00 |
-| Oct-23 | 106.00 |
-| Dec-23 | 102.00 |
-| Feb-24 | 112.00 |
-| Apr-24 | 103.00 |
-| Jun-24 | 102.00 |
-| Aug-24 | 104.00 |
-| Oct-24 | 104.00 |
-| Dec-24 | 112.00 |
-| Feb-25 | 96.00 |
-| Apr-25 | 95.00 |
-| Jun-25 | 106.00 |
-| Aug-25 | 106.00 |
-| Oct-25 | 116.00 |
+| Jun-23 | 95.54 |
+| Jul-23 | 93.59 |
+| Aug-23 | 106.41 |
+| Sep-23 | 101.19 |
+| Oct-23 | 99.46 |
+| Nov-23 | 102.72 |
+| Dec-23 | 100.76 |
+| Jan-24 | 111.85 |
+| Feb-24 | 97.50 |
+| Mar-24 | 100.76 |
+| Apr-24 | 101.85 |
+| May-24 | 102.06 |
+| Jun-24 | 97.72 |
+| Jul-24 | 102.72 |
+| Aug-24 | 101.41 |
+| Sep-24 | 104.24 |
+| Oct-24 | 103.80 |
+| Nov-24 | 101.85 |
+| Dec-24 | 112.50 |
+| Jan-25 | 97.06 |
+| Feb-25 | 94.24 |
+| Mar-25 | 94.02 |
+| Apr-25 | 103.15 |
+| May-25 | 98.15 |
+| Jun-25 | 105.98 |
+| Jul-25 | 104.67 |
+| Aug-25 | 105.33 |
+| Sep-25 | 116.41 |
+| Oct-25 | 111.19 |
+| Nov-25 | 110.54 |
 
 ---
 

@@ -28,10 +28,18 @@ The actions from the E.U. and the U.S. have boosted oil prices and reopened the 
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: Putin Under Pressure](../../../charts/poten/2025/poten_2025-10-24_putin-under-pressure_chart1.png)
+![Exhibit 1: China: Seaborne Crude Oil Imports by Origin](../../../charts/poten/2025/poten_2025-10-24_putin-under-pressure_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2025/poten_2025-10-24_putin-under-pressure_chart1.png)
+> **Exhibit 1: China: Seaborne Crude Oil Imports by Origin**  
+> Unit: Kb/d · X-axis: Jan-21 to Sep-25  
+> Series: Russia, Iran, Saudi Arabia, Iraq, Angola, Oman, Brazil, United Arab Emirates, Other  
+> *Source: Vortexa*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2025/poten_2025-10-24_putin-under-pressure_chart1.png)
 
-![Exhibit 2: Putin Under Pressure](../../../charts/poten/2025/poten_2025-10-24_putin-under-pressure_chart2.png)
+![Exhibit 2: India: Seaborne Crude Oil Imports by Origin](../../../charts/poten/2025/poten_2025-10-24_putin-under-pressure_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2025/poten_2025-10-24_putin-under-pressure_chart2.png)
+> **Exhibit 2: India: Seaborne Crude Oil Imports by Origin**  
+> Unit: Kb/d · X-axis: Jan-21 to Sep-25  
+> Series: Russia, Venezuela, Iraq, Saudi Arabia, United Arab Emirates, Nigeria, Kuwait, United States, Other  
+> *Source: Vortexa*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2025/poten_2025-10-24_putin-under-pressure_chart2.png)

@@ -24,10 +24,10 @@ A risk-on tone across markets was sparked by signs of falling inflation and a we
 
 *By*[*Daniel Hynes*](https://www.linkedin.com/in/dahynes/)
 
-![Στιγμιότυπο Οθόνης 2024 05 16 103129](assets/2024-05-16_oil-gains-amid-signs-of-stronger-demand_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_e482675a3582.png)
+![Στιγμιότυπο Οθόνης 2024 05 16 103129](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-05-16_oil-gains-amid-signs-of-stronger-demand_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_e482675a3582.png)
 
 > **Figure 1: Στιγμιότυπο Οθόνης 2024 05 16 103129**  
-> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-05-16_oil-gains-amid-signs-of-stronger-demand_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_e482675a3582.png)
+> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-05-16_oil-gains-amid-signs-of-stronger-demand_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_e482675a3582.png)
 
 ### Market Commentary
 
@@ -41,10 +41,10 @@ A risk-on tone across markets was sparked by signs of falling inflation and a we
 
 **North Asian LNG**prices edged higher as hotter weather tempts buyers back into the market. Utilities are stocking up in anticipation of strong cooling demand. Temperatures are expected to rise above their 10y average in Japan, South Korea and China over the next two weeks.
 
-![Στιγμιότυπο Οθόνης 2024 05 16 103150](assets/2024-05-16_oil-gains-amid-signs-of-stronger-demand_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_2c9f26749e55.png)
+![Στιγμιότυπο Οθόνης 2024 05 16 103150](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-05-16_oil-gains-amid-signs-of-stronger-demand_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_2c9f26749e55.png)
 
 > **Figure 2: Στιγμιότυπο Οθόνης 2024 05 16 103150**  
-> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-05-16_oil-gains-amid-signs-of-stronger-demand_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_2c9f26749e55.png)
+> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-05-16_oil-gains-amid-signs-of-stronger-demand_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_2c9f26749e55.png)
 
 Data source:[Commodities Wrap](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI)
 

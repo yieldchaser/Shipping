@@ -32,10 +32,17 @@ The import patterns of Chinese crude oil are also critically important to the ta
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: The Usual Suspects](../../../charts/poten/2023/poten_2023-10-06_the-usual-suspects_chart1.png)
+![Exhibit 1: Chinese Seaborne Crude Imports by Origin](../../../charts/poten/2023/poten_2023-10-06_the-usual-suspects_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2023/poten_2023-10-06_the-usual-suspects_chart1.png)
+> **Exhibit 1: Chinese Seaborne Crude Imports by Origin**  
+> Unit: Kb/d | $/bbl · X-axis: Jan-20 to Sep-23  
+> Series: Saudi Arabia, Russia, Iraq, Oman, Angola, United Arab Emirates, Brazil, Iran, Other, Brent Price ($/bbl)  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2023/poten_2023-10-06_the-usual-suspects_chart1.png)
 
-![Exhibit 2: The Usual Suspects](../../../charts/poten/2023/poten_2023-10-06_the-usual-suspects_chart2.png)
+![Exhibit 2: China and Shandong Seaborne Crude Imports from Russia, Iran and Venezuela](../../../charts/poten/2023/poten_2023-10-06_the-usual-suspects_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2023/poten_2023-10-06_the-usual-suspects_chart2.png)
+> **Exhibit 2: China and Shandong Seaborne Crude Imports from Russia, Iran and Venezuela**  
+> Unit: Kb/d · X-axis: Jan-20 to Sep-23  
+> Series: China Excl Shandong, Shandong  
+> *Source: Vortexa / EIA*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2023/poten_2023-10-06_the-usual-suspects_chart2.png)

@@ -26,6 +26,3 @@ Poten & Partners | new york • london • athens • perth • hong kong • gu
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: Tanker Prospects](../../../charts/poten/2005/poten_2005-12-09_tanker-prospects_chart1.png)
-
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2005/poten_2005-12-09_tanker-prospects_chart1.png)

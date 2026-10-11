@@ -24,17 +24,17 @@ source_file: "corpus/03-breakwave/insights/2022/2022-08-22_chinas-coal-and-iron-
 
 As we have been discussing in our client notes and weekly reports, China's iron ore and coal imports most recently were each able to climb on a month-on-month basis last month, but this year’s contractions nevertheless remain in effect. So far this year, China’s iron ore imports have contracted year-on-year by 22.7 million tons (-3%).
 
-![241](assets/2022-08-22_chinas-coal-and-iron-ore-imports-remain-in-contraction_img_241_ac6d2d73f7f9.jpg)
+![241](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-08-22_chinas-coal-and-iron-ore-imports-remain-in-contraction_img_241_ac6d2d73f7f9.jpg)
 
 > **Figure 1: 241**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-08-22_chinas-coal-and-iron-ore-imports-remain-in-contraction_img_241_ac6d2d73f7f9.jpg)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-08-22_chinas-coal-and-iron-ore-imports-remain-in-contraction_img_241_ac6d2d73f7f9.jpg)
 
 China’s coal imports, not surprisingly, have fared even worse. They have so far contracted year-on-year by 31.4 million tons (-18%).
 
-![242](assets/2022-08-22_chinas-coal-and-iron-ore-imports-remain-in-contraction_img_242_ffc241927051.jpg)
+![242](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-08-22_chinas-coal-and-iron-ore-imports-remain-in-contraction_img_242_ffc241927051.jpg)
 
 > **Figure 2: 242**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-08-22_chinas-coal-and-iron-ore-imports-remain-in-contraction_img_242_ffc241927051.jpg)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-08-22_chinas-coal-and-iron-ore-imports-remain-in-contraction_img_242_ffc241927051.jpg)
 
 Going forward, it remains only China’s iron ore imports that have a chance of ending 2022 showing any growth. Also significant is that unlike in the thermal coal market, there are no substitute buyers globally for iron ore if China’s demand does not improve. Steel output remains in a contraction outside of China (and prospects remain bleak through at least the end of the year), and it is still only China that has any real chance of showing stronger steel output and iron ore demand later this year. Steel prices in China have been increasing since the middle of July, while steel stockpiles have also continued to decline. We remain of our view that there is a good chance that China’s steel output (and iron ore consumption) has been near its low.
 

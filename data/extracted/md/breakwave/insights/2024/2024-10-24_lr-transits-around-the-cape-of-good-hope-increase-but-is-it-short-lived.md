@@ -41,10 +41,10 @@ In addition, as the winter season approaches, tankers will shift to longer route
 
 ➔ This shift is already evident, with zero Suezmax and fewer Aframaxes navigating the Northern Sea Route this month
 
-![Στιγμιότυπο Οθόνης 2024 10 24 095133](assets/2024-10-24_lr-transits-around-the-cape-of-good-hope-increase-but-is-it-short-lived_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_0b79dc7a8725.png)
+![Στιγμιότυπο Οθόνης 2024 10 24 095133](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-10-24_lr-transits-around-the-cape-of-good-hope-increase-but-is-it-short-lived_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_0b79dc7a8725.png)
 
 > **Figure 1: Στιγμιότυπο Οθόνης 2024 10 24 095133**  
-> **Interactive Data & Source:** [Vortexa](https://www.vortexa.com//oil-gas-data-traders-analysts-data-scientists?gclid=Cj0KCQjw8_qRBhCXARIsAE2AtRZKOvMnbilZ_6_91d7huSFFy71pWLrnPwGwOHVzXsmsG-1a1mZnQw8aAt89EALw_wcB&hsa_acc=1782073842&hsa_ad=548425387665&hsa_cam=14746637662&hsa_grp=125038601902&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_src=g&hsa_tgt=dsa-1431852288425&hsa_ver=3&utm_campaign=%5BCD%5D%20-%20DSA%20-%20EMEA&utm_medium=cpc&utm_medium=ppc&utm_source=google&utm_source=adwords&utm_term=) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-10-24_lr-transits-around-the-cape-of-good-hope-increase-but-is-it-short-lived_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_0b79dc7a8725.png)
+> **Interactive Data & Source:** [Vortexa](https://www.vortexa.com//oil-gas-data-traders-analysts-data-scientists?gclid=Cj0KCQjw8_qRBhCXARIsAE2AtRZKOvMnbilZ_6_91d7huSFFy71pWLrnPwGwOHVzXsmsG-1a1mZnQw8aAt89EALw_wcB&hsa_acc=1782073842&hsa_ad=548425387665&hsa_cam=14746637662&hsa_grp=125038601902&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_src=g&hsa_tgt=dsa-1431852288425&hsa_ver=3&utm_campaign=%5BCD%5D%20-%20DSA%20-%20EMEA&utm_medium=cpc&utm_medium=ppc&utm_source=google&utm_source=adwords&utm_term=) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-10-24_lr-transits-around-the-cape-of-good-hope-increase-but-is-it-short-lived_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_0b79dc7a8725.png)
 
 ## Clean – East of Suez: Lr Transits Around the Cape of Good Hope Increase, But Trend Could Prove Short-Lived
 
@@ -62,10 +62,10 @@ Questions around the sustainability of this recent uptick in LR Cape of Good Hop
 
 ➔ Asia’s naphtha demand may have peaked as reformer and ethylene cracker margins are under pressure
 
-![Στιγμιότυπο Οθόνης 2024 10 24 095415](assets/2024-10-24_lr-transits-around-the-cape-of-good-hope-increase-but-is-it-short-lived_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_214827e842d1.png)
+![Στιγμιότυπο Οθόνης 2024 10 24 095415](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-10-24_lr-transits-around-the-cape-of-good-hope-increase-but-is-it-short-lived_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_214827e842d1.png)
 
 > **Figure 2: Στιγμιότυπο Οθόνης 2024 10 24 095415**  
-> **Interactive Data & Source:** [Vortexa](https://www.vortexa.com//oil-gas-data-traders-analysts-data-scientists?gclid=Cj0KCQjw8_qRBhCXARIsAE2AtRZKOvMnbilZ_6_91d7huSFFy71pWLrnPwGwOHVzXsmsG-1a1mZnQw8aAt89EALw_wcB&hsa_acc=1782073842&hsa_ad=548425387665&hsa_cam=14746637662&hsa_grp=125038601902&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_src=g&hsa_tgt=dsa-1431852288425&hsa_ver=3&utm_campaign=%5BCD%5D%20-%20DSA%20-%20EMEA&utm_medium=cpc&utm_medium=ppc&utm_source=google&utm_source=adwords&utm_term=) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-10-24_lr-transits-around-the-cape-of-good-hope-increase-but-is-it-short-lived_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_214827e842d1.png)
+> **Interactive Data & Source:** [Vortexa](https://www.vortexa.com//oil-gas-data-traders-analysts-data-scientists?gclid=Cj0KCQjw8_qRBhCXARIsAE2AtRZKOvMnbilZ_6_91d7huSFFy71pWLrnPwGwOHVzXsmsG-1a1mZnQw8aAt89EALw_wcB&hsa_acc=1782073842&hsa_ad=548425387665&hsa_cam=14746637662&hsa_grp=125038601902&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_src=g&hsa_tgt=dsa-1431852288425&hsa_ver=3&utm_campaign=%5BCD%5D%20-%20DSA%20-%20EMEA&utm_medium=cpc&utm_medium=ppc&utm_source=google&utm_source=adwords&utm_term=) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-10-24_lr-transits-around-the-cape-of-good-hope-increase-but-is-it-short-lived_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_214827e842d1.png)
 
 ## Dirty – West of Suez: Red Sea Impact on Crude Rates Proved Mild, But Attack Concerns Pivoted Suezmaxes to the Atlantic Basin
 
@@ -81,10 +81,10 @@ Following the Russian invasion and the EU oil ban on Russia, Suezmax tankers inc
 
 ➔ Projections for October suggest a likely increase in arrivals, as a m-o-m rise in September departures combined with stronger market enquiries has maintained TD23 rates at four-month highs
 
-![Στιγμιότυπο Οθόνης 2024 10 24 095557](assets/2024-10-24_lr-transits-around-the-cape-of-good-hope-increase-but-is-it-short-lived_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_da8a8c9bdf17.png)
+![Στιγμιότυπο Οθόνης 2024 10 24 095557](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-10-24_lr-transits-around-the-cape-of-good-hope-increase-but-is-it-short-lived_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_da8a8c9bdf17.png)
 
 > **Figure 3: Στιγμιότυπο Οθόνης 2024 10 24 095557**  
-> **Interactive Data & Source:** [Vortexa](https://www.vortexa.com//oil-gas-data-traders-analysts-data-scientists?gclid=Cj0KCQjw8_qRBhCXARIsAE2AtRZKOvMnbilZ_6_91d7huSFFy71pWLrnPwGwOHVzXsmsG-1a1mZnQw8aAt89EALw_wcB&hsa_acc=1782073842&hsa_ad=548425387665&hsa_cam=14746637662&hsa_grp=125038601902&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_src=g&hsa_tgt=dsa-1431852288425&hsa_ver=3&utm_campaign=%5BCD%5D%20-%20DSA%20-%20EMEA&utm_medium=cpc&utm_medium=ppc&utm_source=google&utm_source=adwords&utm_term=) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-10-24_lr-transits-around-the-cape-of-good-hope-increase-but-is-it-short-lived_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_da8a8c9bdf17.png)
+> **Interactive Data & Source:** [Vortexa](https://www.vortexa.com//oil-gas-data-traders-analysts-data-scientists?gclid=Cj0KCQjw8_qRBhCXARIsAE2AtRZKOvMnbilZ_6_91d7huSFFy71pWLrnPwGwOHVzXsmsG-1a1mZnQw8aAt89EALw_wcB&hsa_acc=1782073842&hsa_ad=548425387665&hsa_cam=14746637662&hsa_grp=125038601902&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_src=g&hsa_tgt=dsa-1431852288425&hsa_ver=3&utm_campaign=%5BCD%5D%20-%20DSA%20-%20EMEA&utm_medium=cpc&utm_medium=ppc&utm_source=google&utm_source=adwords&utm_term=) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-10-24_lr-transits-around-the-cape-of-good-hope-increase-but-is-it-short-lived_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_da8a8c9bdf17.png)
 
 ## Clean – West of Suez: 2024’s Record-High Tc14 Employment Is a Stark Contrast to an Increasingly Short-Haul Atlantic MR Market
 
@@ -100,10 +100,10 @@ The European MR market suffers from a lack of demand on TC2 and to WAf, and shor
 
 ➔ Robust demand on TC14 remains a big positive for Atlantic Basin MRs in a market increasingly tilting to short-haul trade
 
-![Στιγμιότυπο Οθόνης 2024 10 24 095755](assets/2024-10-24_lr-transits-around-the-cape-of-good-hope-increase-but-is-it-short-lived_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_247c8ac33677.png)
+![Στιγμιότυπο Οθόνης 2024 10 24 095755](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-10-24_lr-transits-around-the-cape-of-good-hope-increase-but-is-it-short-lived_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_247c8ac33677.png)
 
 > **Figure 4: Στιγμιότυπο Οθόνης 2024 10 24 095755**  
-> **Interactive Data & Source:** [Vortexa](https://www.vortexa.com//oil-gas-data-traders-analysts-data-scientists?gclid=Cj0KCQjw8_qRBhCXARIsAE2AtRZKOvMnbilZ_6_91d7huSFFy71pWLrnPwGwOHVzXsmsG-1a1mZnQw8aAt89EALw_wcB&hsa_acc=1782073842&hsa_ad=548425387665&hsa_cam=14746637662&hsa_grp=125038601902&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_src=g&hsa_tgt=dsa-1431852288425&hsa_ver=3&utm_campaign=%5BCD%5D%20-%20DSA%20-%20EMEA&utm_medium=cpc&utm_medium=ppc&utm_source=google&utm_source=adwords&utm_term=) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-10-24_lr-transits-around-the-cape-of-good-hope-increase-but-is-it-short-lived_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_247c8ac33677.png)
+> **Interactive Data & Source:** [Vortexa](https://www.vortexa.com//oil-gas-data-traders-analysts-data-scientists?gclid=Cj0KCQjw8_qRBhCXARIsAE2AtRZKOvMnbilZ_6_91d7huSFFy71pWLrnPwGwOHVzXsmsG-1a1mZnQw8aAt89EALw_wcB&hsa_acc=1782073842&hsa_ad=548425387665&hsa_cam=14746637662&hsa_grp=125038601902&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_src=g&hsa_tgt=dsa-1431852288425&hsa_ver=3&utm_campaign=%5BCD%5D%20-%20DSA%20-%20EMEA&utm_medium=cpc&utm_medium=ppc&utm_source=google&utm_source=adwords&utm_term=) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-10-24_lr-transits-around-the-cape-of-good-hope-increase-but-is-it-short-lived_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_247c8ac33677.png)
 
 Data Source:[Vortexa](https://www.vortexa.com//oil-gas-data-traders-analysts-data-scientists?gclid=Cj0KCQjw8_qRBhCXARIsAE2AtRZKOvMnbilZ_6_91d7huSFFy71pWLrnPwGwOHVzXsmsG-1a1mZnQw8aAt89EALw_wcB&hsa_acc=1782073842&hsa_ad=548425387665&hsa_cam=14746637662&hsa_grp=125038601902&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_src=g&hsa_tgt=dsa-1431852288425&hsa_ver=3&utm_campaign=%5BCD%5D%20-%20DSA%20-%20EMEA&utm_medium=cpc&utm_medium=ppc&utm_source=google&utm_source=adwords&utm_term=)
 

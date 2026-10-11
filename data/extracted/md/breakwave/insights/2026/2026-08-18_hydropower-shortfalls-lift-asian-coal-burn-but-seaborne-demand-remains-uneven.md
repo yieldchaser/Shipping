@@ -20,10 +20,10 @@ source_file: "corpus/03-breakwave/insights/2026/2026-08-18_hydropower-shortfalls
 
 ---
 
-![Rgb Color Brs Shipbrokers Monogram L](assets/2026-08-18_hydropower-shortfalls-lift-asian-coal-burn-but-seaborne-demand-remains-uneven_img_rgb-color-brs-shipbrokers-monogram-l_c365f35f1de5.png)
+![Rgb Color Brs Shipbrokers Monogram L](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-08-18_hydropower-shortfalls-lift-asian-coal-burn-but-seaborne-demand-remains-uneven_img_rgb-color-brs-shipbrokers-monogram-l_c365f35f1de5.png)
 
 > **Figure 1: Rgb Color Brs Shipbrokers Monogram L**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-08-18_hydropower-shortfalls-lift-asian-coal-burn-but-seaborne-demand-remains-uneven_img_rgb-color-brs-shipbrokers-monogram-l_c365f35f1de5.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-08-18_hydropower-shortfalls-lift-asian-coal-burn-but-seaborne-demand-remains-uneven_img_rgb-color-brs-shipbrokers-monogram-l_c365f35f1de5.png)
 
 The rise of Hydroelectric Power and The Start of El Nino Season
 
@@ -39,19 +39,19 @@ Coal Fills the Hydropower Gap
 
 To safeguard energy security and maintain reliable electricity supply, several Asian countries have increased their reliance on coal-fired generation as hydropower output has weakened. This adjustment has been supported by the region's extensive coal-fired power infrastructure, allowing utilities to respond quickly to supply shortfalls. Consequently, coal has remained a key component of the regional power mix, supporting thermal coal consumption and, in some countries, seaborne import demand.
 
-![2](assets/2026-08-18_hydropower-shortfalls-lift-asian-coal-burn-but-seaborne-demand-remains-uneven_img_2_b94070266ff7.png)
+![2](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-08-18_hydropower-shortfalls-lift-asian-coal-burn-but-seaborne-demand-remains-uneven_img_2_b94070266ff7.png)
 
 > **Figure 2: 2**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-08-18_hydropower-shortfalls-lift-asian-coal-burn-but-seaborne-demand-remains-uneven_img_2_b94070266ff7.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-08-18_hydropower-shortfalls-lift-asian-coal-burn-but-seaborne-demand-remains-uneven_img_2_b94070266ff7.png)
 
 In India, declining hydropower availability has increased reliance on coal-fired generation. Nevertheless, the additional fuel requirement has largely been met through domestic coal output and inventory drawdowns rather than higher imports. According to India's National Power Portal, total coal inventories have declined by almost 10mn tonnes since the onset of the delayed monsoon in June. Meanwhile, stocks at power plants have fallen to approximately 12. days of consumption. The inventory draw indicates that stronger thermal generation is placing additional pressure on the domestic coal system. However, unless stocks fall further or domestic production and rail deliveries prove insufficient, the immediate upside for Indian seaborne thermal coal imports should remain limited.
 
 In contrast, Vietnam’s (EVN) hydropower's share of electricity generation fell from 23.4% (36.5 bln kWh) in 1H25 to 21.0% in 1H26 (10 bln kWh), while overall power demand continued to expand. according to AXSMarine data, Vietnam’s seaborne coal imports increased by 9% y-o-y during 1H26, suggesting the continued reliance on imported coal which was ultimately earmarked for electricity generation. Therefore, coal-fired power generation increased to 93.44 bln kWh in 1H26, accounting for 54.5% of total electricity generation, compared with 84.6 bln kWh and a 54.3% share in 1H25.
 
-![3](assets/2026-08-18_hydropower-shortfalls-lift-asian-coal-burn-but-seaborne-demand-remains-uneven_img_3_725a0677ed3b.png)
+![3](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-08-18_hydropower-shortfalls-lift-asian-coal-burn-but-seaborne-demand-remains-uneven_img_3_725a0677ed3b.png)
 
 > **Figure 3: 3**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-08-18_hydropower-shortfalls-lift-asian-coal-burn-but-seaborne-demand-remains-uneven_img_3_725a0677ed3b.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-08-18_hydropower-shortfalls-lift-asian-coal-burn-but-seaborne-demand-remains-uneven_img_3_725a0677ed3b.png)
 
 Consequently, stronger coal import demand supported additional employment for Panamaxes and Supramaxes transporting Indonesian and Australian cargoes into Southeast Asia, thereby underpinning Pacific basin trade. Nevertheless, Supramax demand has remained temporarily subdued due to weather-related disruptions and increased bunker prices. More specifically, higher bunker prices have emerged as a key cost pressure for the shipping sector, contributing to firmer freight rates and, consequently, higher delivered coal prices. Nevertheless, the Indian government’s coal procurement strategy remains primarily price-driven, with purchases focused on securing coal from the most competitively priced sources available.
 
@@ -59,10 +59,10 @@ The near-term outlook remains weather dependent. Current forecasts indicate that
 
 The future of the Hydropower capacity and Coal
 
-![4](assets/2026-08-18_hydropower-shortfalls-lift-asian-coal-burn-but-seaborne-demand-remains-uneven_img_4_41d1e1eb4793.png)
+![4](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-08-18_hydropower-shortfalls-lift-asian-coal-burn-but-seaborne-demand-remains-uneven_img_4_41d1e1eb4793.png)
 
 > **Figure 4: 4**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-08-18_hydropower-shortfalls-lift-asian-coal-burn-but-seaborne-demand-remains-uneven_img_4_41d1e1eb4793.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-08-18_hydropower-shortfalls-lift-asian-coal-burn-but-seaborne-demand-remains-uneven_img_4_41d1e1eb4793.png)
 
 Source: International Hydropower Association Report, 2026
 

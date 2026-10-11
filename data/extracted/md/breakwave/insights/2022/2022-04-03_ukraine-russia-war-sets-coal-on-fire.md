@@ -30,10 +30,10 @@ This month, the president of the EU commission announced, “We must become inde
 
 Russia remained the 3rd largest coal exporter in the seaborne market, accounting for 17% (180 mln mt) of thermal coal exports and about 10% (30 mln mt) of coking coal exports in 2021. Of the 180 mln mt of thermal coal exported, Europe accounted for 65 mln mt, Japan and South Korea cumulatively bought 37 mln mt, while China bought 40 mln mt. Of the 30 mln mt of coking coal exports, China accounted for about 11 mln mt, followed by 10 mln mt to Japan and South Korea, and about 5 mln mt to Europe and India respectively. Europe has a greater dependence for thermal coal while Asia has been relying on both – thermal coal and coking coal out of Russia. Therefore, these markets are most likely to feel the heat of a potential coal supply disruption. Let us evaluate, how? Given widespread uncertainty followed by announced sanctions, coal importing countries have been taking an extra cautious approach. Some coal exporting majors have announced force majeure while some traders have reportedly resold to other destinations as a result of payment difficulties.
 
-![Screenshot 20220403 173639 Drive](assets/2022-04-03_ukraine-russia-war-sets-coal-on-fire_img_screenshot-20220403-173639-drive_631ab61d7017.jpg)
+![Screenshot 20220403 173639 Drive](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-04-03_ukraine-russia-war-sets-coal-on-fire_img_screenshot-20220403-173639-drive_631ab61d7017.jpg)
 
 > **Figure 1: Screenshot 20220403 173639 Drive**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-04-03_ukraine-russia-war-sets-coal-on-fire_img_screenshot-20220403-173639-drive_631ab61d7017.jpg)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-04-03_ukraine-russia-war-sets-coal-on-fire_img_screenshot-20220403-173639-drive_631ab61d7017.jpg)
 
 ### Europe:
 
@@ -55,10 +55,10 @@ Beijing’s unofficial ban on Australian coal has turned to be lucrative for Rus
 
 Coking coal inventories at major steel mills in China dropped significantly from 3 mln mt to 1.8 mln mt during the past few weeks, hitting a new low since mid-September last year. Despite a low inventory in some steel mills, Chinese buyers are not willing to enter the market at least in the short run until the steelmaking profit recovers. Over the long run, China is expected to compensate for the lost quantity from the last year from Mongolia. In 2021, China imported merely 14.6 mln mt of coking coal against 36.7 mln mt pre-epidemic levels from Mongolia due to the epidemic, a Y-o-Y decrease of 46.5%
 
-![Screenshot 20220403 173644 Drive](assets/2022-04-03_ukraine-russia-war-sets-coal-on-fire_img_screenshot-20220403-173644-drive_79e3061cd850.jpg)
+![Screenshot 20220403 173644 Drive](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-04-03_ukraine-russia-war-sets-coal-on-fire_img_screenshot-20220403-173644-drive_79e3061cd850.jpg)
 
 > **Figure 2: Screenshot 20220403 173644 Drive**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-04-03_ukraine-russia-war-sets-coal-on-fire_img_screenshot-20220403-173644-drive_79e3061cd850.jpg)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-04-03_ukraine-russia-war-sets-coal-on-fire_img_screenshot-20220403-173644-drive_79e3061cd850.jpg)
 
 ### India:
 
@@ -72,10 +72,10 @@ Indian steel companies import nearly 80% (or about 55 mln mt) of their coking co
 
 ### Supply Scenario:
 
-![Screenshot 20220403 173659 Drive](assets/2022-04-03_ukraine-russia-war-sets-coal-on-fire_img_screenshot-20220403-173659-drive_6501939b0f09.jpg)
+![Screenshot 20220403 173659 Drive](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-04-03_ukraine-russia-war-sets-coal-on-fire_img_screenshot-20220403-173659-drive_6501939b0f09.jpg)
 
 > **Figure 3: Screenshot 20220403 173659 Drive**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-04-03_ukraine-russia-war-sets-coal-on-fire_img_screenshot-20220403-173659-drive_6501939b0f09.jpg)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-04-03_ukraine-russia-war-sets-coal-on-fire_img_screenshot-20220403-173659-drive_6501939b0f09.jpg)
 
 Shortcomings in coal supply have already prompted some unusual trade developments. For example, Australian, South African and US steam coal cargoes destined for India reportedly been re-sold into Europe. Meanwhile, European buyers have also shown an increasing interest in Australia, Indonesia, and South African supplies to replace Russian coal. Although Indonesian miners are cashing on the opportunities on the back of lucrative earnings, weather-related disruption followed by export restrictions in Indonesia to address domestic shortages would limit the total export volumes. However, such backhaul trades would represent a significant tonne-mile increase. Other leading producers, including Australia and South Africa, are already experiencing increased demand from both the Asian and European markets, far outstripping available supply. The countries are already producing at their maximum capacity. Any expectations of delivering more to the spot market would hinder miners’ annual coal contracts as they already face difficulties due to a combination of rail capacity issues, maintenance outages, weather conditions, and Covid-related labour shortages. Between all these uncertainties, China and India have chosen to maintain their commercial ties with Russia. Consequently, the Russian commodity exchanges in these two major economies are likely to continue at least in the medium to long run.
 

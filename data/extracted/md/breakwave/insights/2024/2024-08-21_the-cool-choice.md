@@ -20,10 +20,10 @@ source_file: "corpus/03-breakwave/insights/2024/2024-08-21_the-cool-choice.html"
 
 ---
 
-![Unsplash Image Zryoqguerti](assets/2024-08-21_the-cool-choice_img_unsplash-image-zryoqguerti_d362acbfef2f.jpg)
+![Unsplash Image Zryoqguerti](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-08-21_the-cool-choice_img_unsplash-image-zryoqguerti_d362acbfef2f.jpg)
 
 > **Figure 1: Unsplash Image Zryoqguerti**  
-> **Interactive Data & Source:** [Gibsons Co](https://www.gibsons.co.uk/market-reports) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-08-21_the-cool-choice_img_unsplash-image-zryoqguerti_d362acbfef2f.jpg)
+> **Interactive Data & Source:** [Gibsons Co](https://www.gibsons.co.uk/market-reports) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-08-21_the-cool-choice_img_unsplash-image-zryoqguerti_d362acbfef2f.jpg)
 
 LNG as a marine fuel appears to be coming back in vogue. Having lost ground to methanol, ammonia and conventional fuels in recent years, several Owners have placed or announced plans to place large orders of LNG dual fuel ships, most notably Maersk Line who have previously been advocating for methanol as their primary decarbonisation pathway.
 
@@ -35,10 +35,10 @@ However, whilst the current regulatory framework supports the uptake of LNG, met
 
 Nonetheless, despite improvements in the fuelling economics and potential regulatory compliance, LNG still requires significantly higher CAPEX. The difference between a conventional and dual-fuel LNG VLCC is around $19 million, requiring higher TCE earnings to justify the additional CAPEX. Whether this makes sense or not will depend on the relationship between LNG and conventional fuel prices and any additional savings LNG can offer an Owner when it comes to emission regulations such as the ETS and FuelEU initiatives.
 
-![Screenshot 2024 08 21 08.59.38](assets/2024-08-21_the-cool-choice_img_screenshot2024-08-21085938_1cd0cdfe85d4.png)
+![Screenshot 2024 08 21 08.59.38](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-08-21_the-cool-choice_img_screenshot2024-08-21085938_1cd0cdfe85d4.png)
 
 > **Figure 2: Screenshot 2024 08 21 08.59.38**  
-> **Interactive Data & Source:** [Gibsons Co](https://www.gibsons.co.uk/market-reports) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-08-21_the-cool-choice_img_screenshot2024-08-21085938_1cd0cdfe85d4.png)
+> **Interactive Data & Source:** [Gibsons Co](https://www.gibsons.co.uk/market-reports) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-08-21_the-cool-choice_img_screenshot2024-08-21085938_1cd0cdfe85d4.png)
 
 Data source:[Gibson Shipbrokers](https://www.gibsons.co.uk/market-reports)
 

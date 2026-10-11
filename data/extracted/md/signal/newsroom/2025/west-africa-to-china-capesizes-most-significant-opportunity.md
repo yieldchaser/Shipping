@@ -25,10 +25,10 @@ tags:
 ## Through Our Dry Bulk Flow Tool, We Have Identified Changing Trends in the Trade of Bulk Raw Materials From the West Coast of Africa to China. in Particular, Bauxite Flows Have Surged, Driven by China’s Growing Aluminium Production, Leading to a Greater Need for Capesize Vessels. as Raw Material Sourcing Fluctuates, This Tool Enables Valuable Insight Into This Ever-Changing Landscape. in This Report, We Illustrate How Capesize Demand From Western Africa to China Is Set to Rocket and the Drivers Behind This.
 
 
-![680f4bc25f885904e5ef8c39 Ad 4nxfdjinih Tx62bgadf8jypzonmhmnb5tqisbv1jaoq4halsdjtrh2me46eixsrovvbrylxwkgjy9lwindekuguignivadme0fzwgud8 Cfvdxlnzcgxnkmg5foaa5tiya1dppgeqq](../../images/680f4bc25f885904e5ef8c39_AD_4nXfdJINIh-tX62bGadF8JYPZOnmhmNB5TQiSbV1jAOQ4halsdjTrH2mE46eIxSRoVvBryLxwkgJy9lwINdEKUguIGnIvADME0fzWGUd8_CfvDXLNZcGxNKMg5fOaA5tIyA1DPpGeQQ.png)
+![680f4bc25f885904e5ef8c39 Ad 4nxfdjinih Tx62bgadf8jypzonmhmnb5tqisbv1jaoq4halsdjtrh2me46eixsrovvbrylxwkgjy9lwindekuguignivadme0fzwgud8 Cfvdxlnzcgxnkmg5foaa5tiya1dppgeqq](../../../../../../corpus/07-signal/images/680f4bc25f885904e5ef8c39_AD_4nXfdJINIh-tX62bGadF8JYPZOnmhmNB5TQiSbV1jAOQ4halsdjTrH2mE46eIxSRoVvBryLxwkgJy9lwINdEKUguIGnIvADME0fzWGUd8_CfvDXLNZcGxNKMg5fOaA5tIyA1DPpGeQQ.png)
 
 > **Figure 1: 680f4bc25f885904e5ef8c39 Ad 4nxfdjinih Tx62bgadf8jypzonmhmnb5tqisbv1jaoq4halsdjtrh2me46eixsrovvbrylxwkgjy9lwindekuguignivadme0fzwgud8 Cfvdxlnzcgxnkmg5foaa5tiya1dppgeqq**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/west-africa-to-china-capesizes-most-significant-opportunity) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/680f4bc25f885904e5ef8c39_AD_4nXfdJINIh-tX62bGadF8JYPZOnmhmNB5TQiSbV1jAOQ4halsdjTrH2mE46eIxSRoVvBryLxwkgJy9lwINdEKUguIGnIvADME0fzWGUd8_CfvDXLNZcGxNKMg5fOaA5tIyA1DPpGeQQ.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/west-africa-to-china-capesizes-most-significant-opportunity) | [Local Asset](../../../../../../corpus/07-signal/images/680f4bc25f885904e5ef8c39_AD_4nXfdJINIh-tX62bGadF8JYPZOnmhmNB5TQiSbV1jAOQ4halsdjTrH2mE46eIxSRoVvBryLxwkgJy9lwINdEKUguIGnIvADME0fzWGUd8_CfvDXLNZcGxNKMg5fOaA5tIyA1DPpGeQQ.png)
 
 
 ## West Africa to China- Bauxite Offers a Growing Opportunity for Capesize Vessels
@@ -38,11 +38,11 @@ The Chinese appetite for raw materials is well known, and a shift of emphasis to
 ******
 
 
-![Bauxite Exports From Africa Atlantic Coast to China](../../images/680f4bc2cc697be8a8d45e90_AD_4nXd9qWfqMouQeI-1M0krDwoEjEhqCeZbCY_wJREGx5Y0tYgVhM2MeiJgnHb0iJa3F1-LgpLhCsQ3KOm8z3Wa7Y_YY-3kjVV9Hc0X-3S-nerKVxV_DPSdFexXgLi8qh_uwiyQWBBUVQ.png)
+![Bauxite Exports From Africa Atlantic Coast to China](../../../../../../corpus/07-signal/images/680f4bc2cc697be8a8d45e90_AD_4nXd9qWfqMouQeI-1M0krDwoEjEhqCeZbCY_wJREGx5Y0tYgVhM2MeiJgnHb0iJa3F1-LgpLhCsQ3KOm8z3Wa7Y_YY-3kjVV9Hc0X-3S-nerKVxV_DPSdFexXgLi8qh_uwiyQWBBUVQ.png)
 
 > **Figure 2: Bauxite Exports From Africa Atlantic Coast to China**  
 > *Bauxite exports from Africa Atlantic Coast to China*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/west-africa-to-china-capesizes-most-significant-opportunity) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/680f4bc2cc697be8a8d45e90_AD_4nXd9qWfqMouQeI-1M0krDwoEjEhqCeZbCY_wJREGx5Y0tYgVhM2MeiJgnHb0iJa3F1-LgpLhCsQ3KOm8z3Wa7Y_YY-3kjVV9Hc0X-3S-nerKVxV_DPSdFexXgLi8qh_uwiyQWBBUVQ.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/west-africa-to-china-capesizes-most-significant-opportunity) | [Local Asset](../../../../../../corpus/07-signal/images/680f4bc2cc697be8a8d45e90_AD_4nXd9qWfqMouQeI-1M0krDwoEjEhqCeZbCY_wJREGx5Y0tYgVhM2MeiJgnHb0iJa3F1-LgpLhCsQ3KOm8z3Wa7Y_YY-3kjVV9Hc0X-3S-nerKVxV_DPSdFexXgLi8qh_uwiyQWBBUVQ.png)
 
 
 ## Changing Bauxite Trade Patterns From West Africa to China
@@ -50,22 +50,22 @@ The Chinese appetite for raw materials is well known, and a shift of emphasis to
 AAC ports have always been important loading areas for bauxite heading to China. Guinea is the second-largest bauxite producer globally, behind Australia, and China is the largest consumer of bauxite. From 2022 to the end of 2023, AAC was the origin for 43% of the total bauxite China imported by sea. Since the beginning of 2024, this share has increased to 54%.
 
 
-![Origins of Seabourne Bauxite Exports to China](../../images/680f4bc24812642c4c39693a_AD_4nXfJvaIaAem8xT18SHoKOwWB2T1ypCvkrJbpf1i2xNWFVpe9c3F5u4Xi5mfIdtO1odJ6d4ex9LPM_MiR9FKzW5ELu3ZUdAQK_zNihSuJZKqeP1_TDbVgrRSZ0nqr1za9kbkS5MYdJw.png)
+![Origins of Seabourne Bauxite Exports to China](../../../../../../corpus/07-signal/images/680f4bc24812642c4c39693a_AD_4nXfJvaIaAem8xT18SHoKOwWB2T1ypCvkrJbpf1i2xNWFVpe9c3F5u4Xi5mfIdtO1odJ6d4ex9LPM_MiR9FKzW5ELu3ZUdAQK_zNihSuJZKqeP1_TDbVgrRSZ0nqr1za9kbkS5MYdJw.png)
 
 > **Figure 3: Origins of Seabourne Bauxite Exports to China**  
 > *Origins of Seabourne Bauxite exports to China*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/west-africa-to-china-capesizes-most-significant-opportunity) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/680f4bc24812642c4c39693a_AD_4nXfJvaIaAem8xT18SHoKOwWB2T1ypCvkrJbpf1i2xNWFVpe9c3F5u4Xi5mfIdtO1odJ6d4ex9LPM_MiR9FKzW5ELu3ZUdAQK_zNihSuJZKqeP1_TDbVgrRSZ0nqr1za9kbkS5MYdJw.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/west-africa-to-china-capesizes-most-significant-opportunity) | [Local Asset](../../../../../../corpus/07-signal/images/680f4bc24812642c4c39693a_AD_4nXfJvaIaAem8xT18SHoKOwWB2T1ypCvkrJbpf1i2xNWFVpe9c3F5u4Xi5mfIdtO1odJ6d4ex9LPM_MiR9FKzW5ELu3ZUdAQK_zNihSuJZKqeP1_TDbVgrRSZ0nqr1za9kbkS5MYdJw.png)
 
 ******
 
 Of all the origin countries in the AAC, Guinea accounts for the largest country of origin, marginally rising from 90% to 91% in the same period as above. Ghana has overtaken Gabon as the second largest source of export of bauxite in the AAC, most likely a result of heavy investment in the bauxite industry by the Ghanaian Bauxite Company in recent years, which has boosted production.
 
 
-![Country of Origin of Bauxite Exports From Africa Atlantic Coast to China](../../images/680f4bc2f56c9989d6c8761b_AD_4nXc5wXWBzG5hGrCW2swM8l1kH43nCD93w_shNp5NbJ4_bLYlPJtNH0WZX7e1FY-fn8daxrvAvCQKeawjpWMnNTvhElvDZ_CtlPOHlpQMRKVpAyxDqP1cfvUIX_H8xaqUk1vJpQYU.png)
+![Country of Origin of Bauxite Exports From Africa Atlantic Coast to China](../../../../../../corpus/07-signal/images/680f4bc2f56c9989d6c8761b_AD_4nXc5wXWBzG5hGrCW2swM8l1kH43nCD93w_shNp5NbJ4_bLYlPJtNH0WZX7e1FY-fn8daxrvAvCQKeawjpWMnNTvhElvDZ_CtlPOHlpQMRKVpAyxDqP1cfvUIX_H8xaqUk1vJpQYU.png)
 
 > **Figure 4: Country of Origin of Bauxite Exports From Africa Atlantic Coast to China**  
 > *Country of origin of bauxite exports from Africa Atlantic Coast to China*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/west-africa-to-china-capesizes-most-significant-opportunity) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/680f4bc2f56c9989d6c8761b_AD_4nXc5wXWBzG5hGrCW2swM8l1kH43nCD93w_shNp5NbJ4_bLYlPJtNH0WZX7e1FY-fn8daxrvAvCQKeawjpWMnNTvhElvDZ_CtlPOHlpQMRKVpAyxDqP1cfvUIX_H8xaqUk1vJpQYU.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/west-africa-to-china-capesizes-most-significant-opportunity) | [Local Asset](../../../../../../corpus/07-signal/images/680f4bc2f56c9989d6c8761b_AD_4nXc5wXWBzG5hGrCW2swM8l1kH43nCD93w_shNp5NbJ4_bLYlPJtNH0WZX7e1FY-fn8daxrvAvCQKeawjpWMnNTvhElvDZ_CtlPOHlpQMRKVpAyxDqP1cfvUIX_H8xaqUk1vJpQYU.png)
 
 ******
 
@@ -74,11 +74,11 @@ In terms of vessel, Capesize is the most dominant class transporting this cargo.
 ******
 
 
-![Vessel Classes Carrying Bauxite From Africa Atlantic Coast to China](../../images/680f4bc21a9fdb062961267a_AD_4nXcvSssWYA2cmfL-VPnj5jkud91upm8FVCWfgke8o6iKankZgE2RjZKxxnv3HcuY8DVbj9sVwFdOBUOD--aPX4nDTz3Z_xpAsulFV-VJOoqDEsQm_xfoZUeuHohWyN1Rq2F1Y0cuYA.png)
+![Vessel Classes Carrying Bauxite From Africa Atlantic Coast to China](../../../../../../corpus/07-signal/images/680f4bc21a9fdb062961267a_AD_4nXcvSssWYA2cmfL-VPnj5jkud91upm8FVCWfgke8o6iKankZgE2RjZKxxnv3HcuY8DVbj9sVwFdOBUOD--aPX4nDTz3Z_xpAsulFV-VJOoqDEsQm_xfoZUeuHohWyN1Rq2F1Y0cuYA.png)
 
 > **Figure 5: Vessel Classes Carrying Bauxite From Africa Atlantic Coast to China**  
 > *Vessel classes carrying bauxite from Africa Atlantic Coast to China*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/west-africa-to-china-capesizes-most-significant-opportunity) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/680f4bc21a9fdb062961267a_AD_4nXcvSssWYA2cmfL-VPnj5jkud91upm8FVCWfgke8o6iKankZgE2RjZKxxnv3HcuY8DVbj9sVwFdOBUOD--aPX4nDTz3Z_xpAsulFV-VJOoqDEsQm_xfoZUeuHohWyN1Rq2F1Y0cuYA.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/west-africa-to-china-capesizes-most-significant-opportunity) | [Local Asset](../../../../../../corpus/07-signal/images/680f4bc21a9fdb062961267a_AD_4nXcvSssWYA2cmfL-VPnj5jkud91upm8FVCWfgke8o6iKankZgE2RjZKxxnv3HcuY8DVbj9sVwFdOBUOD--aPX4nDTz3Z_xpAsulFV-VJOoqDEsQm_xfoZUeuHohWyN1Rq2F1Y0cuYA.png)
 
 
 ## China’s Position in the Bauxite and Aluminium Market

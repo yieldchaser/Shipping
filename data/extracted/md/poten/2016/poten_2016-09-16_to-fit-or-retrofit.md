@@ -28,10 +28,17 @@ Over the long term we do not expect this to be an issue. The capacity of the new
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: To Fit Or Retrofit](../../../charts/poten/2016/poten_2016-09-16_to-fit-or-retrofit_chart1.png)
+![Exhibit 1: NeoPanamax Transits (estimate June – August 2016)](../../../charts/poten/2016/poten_2016-09-16_to-fit-or-retrofit_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2016/poten_2016-09-16_to-fit-or-retrofit_chart1.png)
+> **Exhibit 1: NeoPanamax Transits (estimate June – August 2016)**  
+> Series: Container Ships, LPG Carriers, Vehicle Carriers, LNG carriers, Crude Tankers  
+> *Source: Panama Canal Authority*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2016/poten_2016-09-16_to-fit-or-retrofit_chart1.png)
 
-![Exhibit 2: To Fit Or Retrofit](../../../charts/poten/2016/poten_2016-09-16_to-fit-or-retrofit_chart2.png)
+![Exhibit 2: Chocks SWL and Panama Canal Net Tonnage Data](../../../charts/poten/2016/poten_2016-09-16_to-fit-or-retrofit_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2016/poten_2016-09-16_to-fit-or-retrofit_chart2.png)
+> **Exhibit 2: Chocks SWL and Panama Canal Net Tonnage Data**  
+> Unit: # Tankers · X-axis: Chocks SWL to Pan Canal NT  
+> Series: Suitable, [Total]  
+> *Source: Q88*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2016/poten_2016-09-16_to-fit-or-retrofit_chart2.png)

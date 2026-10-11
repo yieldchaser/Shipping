@@ -20,11 +20,11 @@ source_file: "corpus/03-breakwave/insights/2026/2026-08-25_vlcc-buying-reshapes-
 
 ---
 
-![Byeirini Diamantara&dimitris Roumeliotis](assets/2026-08-25_vlcc-buying-reshapes-the-tanker-market-in-2026_img_pexels-rafid-sahrear-480671561-19302_a2417b883c40.jpg)
+![Byeirini Diamantara&dimitris Roumeliotis](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-08-25_vlcc-buying-reshapes-the-tanker-market-in-2026_img_pexels-rafid-sahrear-480671561-19302_a2417b883c40.jpg)
 
 > **Figure 1: Byeirini Diamantara&dimitris Roumeliotis**  
 > *ByEirini Diamantara&Dimitris Roumeliotis*  
-> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/in/eirini-diamantara-58b269105/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-08-25_vlcc-buying-reshapes-the-tanker-market-in-2026_img_pexels-rafid-sahrear-480671561-19302_a2417b883c40.jpg)
+> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/in/eirini-diamantara-58b269105/) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-08-25_vlcc-buying-reshapes-the-tanker-market-in-2026_img_pexels-rafid-sahrear-480671561-19302_a2417b883c40.jpg)
 
 The January–July 2026 tanker Sale & Purchase market has been considerably more active than during the corresponding period of 2025, with 365 vessels changing hands compared to 239 last year, representing a 53% year-on-year increase. Activity was particularly strong during the opening months of the year, with January alone accounting for 88 sales (24% of the total), before gradually easing during the second quarter and into July. Despite this moderation, monthly transaction volumes remained broadly above 2025 levels, confirming that market liquidity has strengthened significantly.
 

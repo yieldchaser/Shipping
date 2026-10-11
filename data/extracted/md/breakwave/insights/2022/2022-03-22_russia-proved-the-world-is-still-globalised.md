@@ -32,11 +32,11 @@ Higher interest rates could deter consumers from leveraging up and increasing de
 
 Higher interest rates should also deter companies from leveraging up. This makes more sense. Lower leverage means slower business expansion, which in theory could cap prices. But the problem companies face is one of inputs. How would higher rates prevent them from passing on a portion of the increase onto the consumers? Input prices are so sharp that even in a perfect competition environment, price rises would be warranted.
 
-![Cynic Would Argue That Control Is an Illusion](assets/2022-03-22_russia-proved-the-world-is-still-globalised_img_unsplash-image-untsdm2hihg_6c60b2cc2799.jpg)
+![Cynic Would Argue That Control Is an Illusion](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-03-22_russia-proved-the-world-is-still-globalised_img_unsplash-image-untsdm2hihg_6c60b2cc2799.jpg)
 
 > **Figure 1: Cynic Would Argue That Control Is an Illusion**  
 > *A cynic would argue that control is an illusion. History has always moved on the decisions of the heads of the few great powers, and it is for smaller countries and those far removed from power to accept the consequences. “Theirs is but to do and die”. For all the glory and renown the UK earned during the Battle of Britain, history might have been very different if Admiral Yamamoto had not sneaked an attack on Pearl Harbour. In his own biography, Winston Churchill said on the day of the event:“Being saturated and satiated with emotion and sensation, I went to bed and slept the sleep of the saved and thankful”.*  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-03-22_russia-proved-the-world-is-still-globalised_img_unsplash-image-untsdm2hihg_6c60b2cc2799.jpg)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-03-22_russia-proved-the-world-is-still-globalised_img_unsplash-image-untsdm2hihg_6c60b2cc2799.jpg)
 
 Inflation is external and can’t be controlled. It is the confluence of post-pandemic supply chain disruptions exacerbated by shortages due to sanctions on Russia. It will rise as global companies compete for diminishing resources. It will drop when production is, somehow, restored or equilibrium otherwise reached. None of these can be controlled by the Bank of England.
 
@@ -48,10 +48,10 @@ A less cynic would still see the problem of managing a country in a globalised w
 
 In the movie “The Network” (1976), TV Network president Arthur Jensen chastises anchorman-turned-revolutionary Howard Beale:*“You are an old man who thinks in terms of nations and peoples. There are no nations. There are no peoples. There are no Russians. There are no Arabs. There are no third worlds. There is no West. There is only one holistic system of systems, one vast and immense, interwoven, interacting, multivariate, multinational dominion of dollars. Petro-dollars, electro-dollars, multi-dollars, reichmarks, rins, rubles, pounds, and shekels. It is the international system of currency which determines the totality of life on this planet. That is the natural order of things today.”*Probably the only thing which stops any internet user from understanding this, is heuristics bequeathed by the perception of the nation-state taught in school.
 
-![Unsplash Image Uvgz0 Rmpho](assets/2022-03-22_russia-proved-the-world-is-still-globalised_img_unsplash-image-uvgz0-rmpho_4b4bcdbb52ea.jpg)
+![Unsplash Image Uvgz0 Rmpho](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-03-22_russia-proved-the-world-is-still-globalised_img_unsplash-image-uvgz0-rmpho_4b4bcdbb52ea.jpg)
 
 > **Figure 2: Unsplash Image Uvgz0 Rmpho**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-03-22_russia-proved-the-world-is-still-globalised_img_unsplash-image-uvgz0-rmpho_4b4bcdbb52ea.jpg)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-03-22_russia-proved-the-world-is-still-globalised_img_unsplash-image-uvgz0-rmpho_4b4bcdbb52ea.jpg)
 
 Mr Putin in 2019 said that the international liberal order has become obsolete. Other autocrats around the world might share his opinion. So he challenged it.**The sprawling consequences of his war pose unequivocal proof that globalisation, the mechanism behind the global liberal order, is alive and kicking.**
 

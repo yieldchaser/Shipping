@@ -25,10 +25,10 @@ tags:
 ***Through our dry bulk flow tool, we have identified changing trends in*** [***iron ore flows***](https://www.thesignalgroup.com/weekly-market-monitor/dry-week-24-2025) ***from Indian ports. Growing domestic demand from the steel industry and weaker demand from China have led to less iron ore leaving Indian ports so far in 2025. Fully utilizing the dry bulk flows feature enables maritime professionals, as well as shipping companies and logistics firms, to spot, monitor, and forecast the flow of commodities and position themselves to take advantage of changing market conditions. As raw material sourcing fluctuates, this tool enables valuable insight for shipping companies and firms operating in the dry bulk sector into this ever-changing landscape. This report illustrates how Supramax demand from India may come under considerable pressure for the rest of 2025.***
 
 
-![Heading](../../images/6807ba65405928019c224162_AD_4nXedtMAggZqmXbEU-I-i_FCvFNmBdNIz1Wgn7v-Zint6xXnvueZf8i7FbTx93lamGHzPokY1ScyyGYNol77us3irHqlfKuZ_K-7VGO17SUElve6Aderzpc98e6_gZipSCU2-Y8HthA.png)
+![Heading](../../../../../../corpus/07-signal/images/6807ba65405928019c224162_AD_4nXedtMAggZqmXbEU-I-i_FCvFNmBdNIz1Wgn7v-Zint6xXnvueZf8i7FbTx93lamGHzPokY1ScyyGYNol77us3irHqlfKuZ_K-7VGO17SUElve6Aderzpc98e6_gZipSCU2-Y8HthA.png)
 
 > **Figure 1: Heading**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/indian-iron-ore-exports-face-downward-pressure) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6807ba65405928019c224162_AD_4nXedtMAggZqmXbEU-I-i_FCvFNmBdNIz1Wgn7v-Zint6xXnvueZf8i7FbTx93lamGHzPokY1ScyyGYNol77us3irHqlfKuZ_K-7VGO17SUElve6Aderzpc98e6_gZipSCU2-Y8HthA.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/indian-iron-ore-exports-face-downward-pressure) | [Local Asset](../../../../../../corpus/07-signal/images/6807ba65405928019c224162_AD_4nXedtMAggZqmXbEU-I-i_FCvFNmBdNIz1Wgn7v-Zint6xXnvueZf8i7FbTx93lamGHzPokY1ScyyGYNol77us3irHqlfKuZ_K-7VGO17SUElve6Aderzpc98e6_gZipSCU2-Y8HthA.png)
 
 
 ## Iron Ore Flows From India Slip From Previous Highs
@@ -38,10 +38,10 @@ India is the fifth-largest exporter of iron ore globally and sends the vast majo
 Yet in 2025, total seaborne iron exports figures appear considerably weaker than those in the same period of previous years. This is despite a rise in iron mine output, according to the Ministry of Mines in India, as iron ore export volume was higher in previous years.
 
 
-![Iron Ore Flows From India Slip From Previous Highs](../../images/6807ba661ad820f08688c0eb_AD_4nXeP011WsC4SSyx57ODjFMMmhvDnqejNXR611BRKPDygzQZwRjcFCxLrdvga5c9FntCaS_Roye9J49e95rlGgAV-6Cwky9sVg7QDCSvbmGgfIpsx9TmZTy0pShr7ve-yP1gwltAy.png)
+![Iron Ore Flows From India Slip From Previous Highs](../../../../../../corpus/07-signal/images/6807ba661ad820f08688c0eb_AD_4nXeP011WsC4SSyx57ODjFMMmhvDnqejNXR611BRKPDygzQZwRjcFCxLrdvga5c9FntCaS_Roye9J49e95rlGgAV-6Cwky9sVg7QDCSvbmGgfIpsx9TmZTy0pShr7ve-yP1gwltAy.png)
 
 > **Figure 2: Iron Ore Flows From India Slip From Previous Highs**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/indian-iron-ore-exports-face-downward-pressure) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6807ba661ad820f08688c0eb_AD_4nXeP011WsC4SSyx57ODjFMMmhvDnqejNXR611BRKPDygzQZwRjcFCxLrdvga5c9FntCaS_Roye9J49e95rlGgAV-6Cwky9sVg7QDCSvbmGgfIpsx9TmZTy0pShr7ve-yP1gwltAy.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/indian-iron-ore-exports-face-downward-pressure) | [Local Asset](../../../../../../corpus/07-signal/images/6807ba661ad820f08688c0eb_AD_4nXeP011WsC4SSyx57ODjFMMmhvDnqejNXR611BRKPDygzQZwRjcFCxLrdvga5c9FntCaS_Roye9J49e95rlGgAV-6Cwky9sVg7QDCSvbmGgfIpsx9TmZTy0pShr7ve-yP1gwltAy.png)
 
 
 ## Domestic Needs and Sliding Chinese Demand Weigh on Iron Ore Exports.
@@ -64,10 +64,10 @@ Given India will continue to increase steel production, the country will require
 One thing we could see is greater steel cargoes arriving in India. Demand for steel from construction and infrastructure projects could outpace the increase in domestic steel production, leading to the need for greater steel imports. Given that steel is typically shipped to India via supramaxes or handysize, this could mean that more Supramax vessels are unloading in India without a new cargo to load.
 
 
-![Future Outlook](../../images/6807ba65d7f24cc84e144312_AD_4nXeXV4-GAO30qAdPcEbfD-UtA6gs6EbLHUOmv6yxpZQrDMvQ4qd4jlQbQ4AW5CtLofNQ1kXAP0z6u4JkfJIjYnivugQBzqJeF0B7Jh5NAhd-WHwYnJfMgZwas433NwBUu3P2nhJT.png)
+![Future Outlook](../../../../../../corpus/07-signal/images/6807ba65d7f24cc84e144312_AD_4nXeXV4-GAO30qAdPcEbfD-UtA6gs6EbLHUOmv6yxpZQrDMvQ4qd4jlQbQ4AW5CtLofNQ1kXAP0z6u4JkfJIjYnivugQBzqJeF0B7Jh5NAhd-WHwYnJfMgZwas433NwBUu3P2nhJT.png)
 
 > **Figure 3: Future Outlook**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/indian-iron-ore-exports-face-downward-pressure) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6807ba65d7f24cc84e144312_AD_4nXeXV4-GAO30qAdPcEbfD-UtA6gs6EbLHUOmv6yxpZQrDMvQ4qd4jlQbQ4AW5CtLofNQ1kXAP0z6u4JkfJIjYnivugQBzqJeF0B7Jh5NAhd-WHwYnJfMgZwas433NwBUu3P2nhJT.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/indian-iron-ore-exports-face-downward-pressure) | [Local Asset](../../../../../../corpus/07-signal/images/6807ba65d7f24cc84e144312_AD_4nXeXV4-GAO30qAdPcEbfD-UtA6gs6EbLHUOmv6yxpZQrDMvQ4qd4jlQbQ4AW5CtLofNQ1kXAP0z6u4JkfJIjYnivugQBzqJeF0B7Jh5NAhd-WHwYnJfMgZwas433NwBUu3P2nhJT.png)
 
 
 ## Key Takeaways

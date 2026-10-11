@@ -57,7 +57,7 @@ The deteriorating outlook for the Brazilian sugar harvest has weighed on cargo o
 
 While cargo order volumes for Brazilian exports due for discharge in the Far East and Southeast Asia have recovered somewhat over the past weeks, the aggregate for September looks set to be around 50 per cent lower than the same month last year. Although it is still early days, there appear to be no significant attempts for substitution, with cargo order volumes for Australian and Thai sugar shipments remaining low. Hence, in the short term, the problems associated with the Brazilian sugar trade will support market prices and weigh on tonne-mile demand as the options for supplies from other origins appear limited.
 
-![Στιγμιότυπο Οθόνης 2024 09 30 165822](assets/2024-09-30_the-capesizes-propelled-the-baltic-dry-index-higher_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_aaa194ee5431.png)
+![Στιγμιότυπο Οθόνης 2024 09 30 165822](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-09-30_the-capesizes-propelled-the-baltic-dry-index-higher_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_aaa194ee5431.png)
 
 > **Figure 1: Στιγμιότυπο Οθόνης 2024 09 30 165822**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-09-30_the-capesizes-propelled-the-baltic-dry-index-higher_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_aaa194ee5431.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-09-30_the-capesizes-propelled-the-baltic-dry-index-higher_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_aaa194ee5431.png)

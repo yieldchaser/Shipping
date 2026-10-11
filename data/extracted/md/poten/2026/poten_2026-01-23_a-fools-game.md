@@ -30,10 +30,18 @@ The tanker orderbook for vessels > 10,000 dwt reached 61.6 Million Gross Tons (M
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: A Fools Game](../../../charts/poten/2026/poten_2026-01-23_a-fools-game_chart1.png)
+![Exhibit 1: Russian Crude (excl CPC, Kebco) Exports by Destination](../../../charts/poten/2026/poten_2026-01-23_a-fools-game_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2026/poten_2026-01-23_a-fools-game_chart1.png)
+> **Exhibit 1: Russian Crude (excl CPC, Kebco) Exports by Destination**  
+> Unit: Kb/d · X-axis: Mar-21 to Nov-25  
+> Series: China, India, Netherlands, Turkey, Italy, Finland, South Korea, Lithuania, Other  
+> *Source: Vortexa*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2026/poten_2026-01-23_a-fools-game_chart1.png)
 
-![Exhibit 2: A Fools Game](../../../charts/poten/2026/poten_2026-01-23_a-fools-game_chart2.png)
+![Exhibit 2: Oil Tanker Orderbook](../../../charts/poten/2026/poten_2026-01-23_a-fools-game_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2026/poten_2026-01-23_a-fools-game_chart2.png)
+> **Exhibit 2: Oil Tanker Orderbook**  
+> Unit: Gross Tons · X-axis: 2014 to 2025  
+> Series: VLCC, Suezmax, Aframax, Panamax, Products (Handy/MR), Products (Smaller)  
+> *Source: Poten*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2026/poten_2026-01-23_a-fools-game_chart2.png)

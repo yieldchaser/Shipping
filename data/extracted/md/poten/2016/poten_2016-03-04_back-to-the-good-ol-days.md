@@ -30,10 +30,18 @@ The West Africa to U.S. East Coast market used to be a key market for Suezmax to
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: Back To The Good Ol Days](../../../charts/poten/2016/poten_2016-03-04_back-to-the-good-ol-days_chart1.png)
+![Exhibit 1: PADD 1 Crude Sourcing vs WTI-Brent Spread](../../../charts/poten/2016/poten_2016-03-04_back-to-the-good-ol-days_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2016/poten_2016-03-04_back-to-the-good-ol-days_chart1.png)
+> **Exhibit 1: PADD 1 Crude Sourcing vs WTI-Brent Spread**  
+> Unit: Kb/d | US$ · X-axis: Jan-05 to Jul-15  
+> Series: Domestic Crude Imports, Foreign Imports, WTI - Brent  
+> *Source: EIA*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2016/poten_2016-03-04_back-to-the-good-ol-days_chart1.png)
 
-![Exhibit 2: Back To The Good Ol Days](../../../charts/poten/2016/poten_2016-03-04_back-to-the-good-ol-days_chart2.png)
+![Exhibit 2: PADD 1 Crude Oil Imports by Origin](../../../charts/poten/2016/poten_2016-03-04_back-to-the-good-ol-days_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2016/poten_2016-03-04_back-to-the-good-ol-days_chart2.png)
+> **Exhibit 2: PADD 1 Crude Oil Imports by Origin**  
+> Unit: Kb/d · X-axis: Jan-2010 to Jul-2015  
+> Series: Africa, Europe, N.America, Latin America, Caribbean, M.East, Other  
+> *Source: EIA*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2016/poten_2016-03-04_back-to-the-good-ol-days_chart2.png)

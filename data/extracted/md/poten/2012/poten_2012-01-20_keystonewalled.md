@@ -50,6 +50,10 @@ For information on the services and research products offered by our Marine Proj
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: Key‐Stonewalled](../../../charts/poten/2012/poten_2012-01-20_keystonewalled_chart1.png)
+![Exhibit 1: US Crude Oil & Product Imports](../../../charts/poten/2012/poten_2012-01-20_keystonewalled_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2012/poten_2012-01-20_keystonewalled_chart1.png)
+> **Exhibit 1: US Crude Oil & Product Imports**  
+> Unit: bbls per day | % from Canada · X-axis: 2002 to 2011  
+> Series: Imports - Canada, Other, % Canada  
+> *Source: EIA*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2012/poten_2012-01-20_keystonewalled_chart1.png)

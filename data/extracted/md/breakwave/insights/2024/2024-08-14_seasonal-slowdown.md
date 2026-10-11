@@ -20,10 +20,10 @@ source_file: "corpus/03-breakwave/insights/2024/2024-08-14_seasonal-slowdown.htm
 
 ---
 
-![Tankers Secondary](assets/2024-08-14_seasonal-slowdown_img_tankers-secondary_0d029e248e3f.jpg)
+![Tankers Secondary](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-08-14_seasonal-slowdown_img_tankers-secondary_0d029e248e3f.jpg)
 
 > **Figure 1: Tankers Secondary**  
-> **Interactive Data & Source:** [Gibsons Co](https://www.gibsons.co.uk/market-reports) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-08-14_seasonal-slowdown_img_tankers-secondary_0d029e248e3f.jpg)
+> **Interactive Data & Source:** [Gibsons Co](https://www.gibsons.co.uk/market-reports) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-08-14_seasonal-slowdown_img_tankers-secondary_0d029e248e3f.jpg)
 
 With most tanker markets currently seeing earnings at their lowest levels this year, the recent stock market chaos, ongoing energy transition and geopolitical risk, many are asking whether this simply represents a seasonal slowdown, or something more systemic.
 
@@ -37,10 +37,10 @@ In the Atlantic, MR earnings remain healthy from a historical standpoint, but be
 
 Whilst the market fundamentals are changing, with slower oil demand growth, heightened macroeconomic and geopolitical risk the market outlook remains robust, helped by structural changes in tanker flows and the rapid ageing of the tanker fleet, constraining supply for mainstream players. Overall, the current weakness is mostly attributable to seasonality, with all markets expected to improve as the year progresses.
 
-![Στιγμιότυπο Οθόνης 2024 08 14 152129](assets/2024-08-14_seasonal-slowdown_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_d2bf29121deb.png)
+![Στιγμιότυπο Οθόνης 2024 08 14 152129](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-08-14_seasonal-slowdown_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_d2bf29121deb.png)
 
 > **Figure 2: Στιγμιότυπο Οθόνης 2024 08 14 152129**  
-> **Interactive Data & Source:** [Gibsons Co](https://www.gibsons.co.uk/market-reports) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-08-14_seasonal-slowdown_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_d2bf29121deb.png)
+> **Interactive Data & Source:** [Gibsons Co](https://www.gibsons.co.uk/market-reports) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-08-14_seasonal-slowdown_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_d2bf29121deb.png)
 
 Data source:[Gibson Shipbrokers](https://www.gibsons.co.uk/market-reports)
 

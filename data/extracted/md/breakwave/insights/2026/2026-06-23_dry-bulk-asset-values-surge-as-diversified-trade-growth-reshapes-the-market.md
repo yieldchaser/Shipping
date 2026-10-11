@@ -20,11 +20,11 @@ source_file: "corpus/03-breakwave/insights/2026/2026-06-23_dry-bulk-asset-values
 
 ---
 
-![Byeirini Diamantara&dimitris Roumeliotis](assets/2026-06-23_dry-bulk-asset-values-surge-as-diversified-trade-growth-reshapes-the-market_img_knightship_0d420fade627.jpg)
+![Byeirini Diamantara&dimitris Roumeliotis](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-06-23_dry-bulk-asset-values-surge-as-diversified-trade-growth-reshapes-the-market_img_knightship_0d420fade627.jpg)
 
 > **Figure 1: Byeirini Diamantara&dimitris Roumeliotis**  
 > *ByEirini Diamantara&Dimitris Roumeliotis*  
-> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/in/eirini-diamantara-58b269105/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-06-23_dry-bulk-asset-values-surge-as-diversified-trade-growth-reshapes-the-market_img_knightship_0d420fade627.jpg)
+> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/in/eirini-diamantara-58b269105/) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-06-23_dry-bulk-asset-values-surge-as-diversified-trade-growth-reshapes-the-market_img_knightship_0d420fade627.jpg)
 
 The dry bulk S&P market strengthened during the first half of 2026, supported by healthier freight rates, improved vessel utilisation and rising seaborne commodity demand. Compared to 2025, stronger market fundamentals boosted buyer sentiment and pushed secondhand asset values higher across nearly all dry bulk vessel segments.
 

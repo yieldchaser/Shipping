@@ -29,10 +29,10 @@ tags:
 ## This Week’s Chart Highlights a Notable Decline in the Quarterly Vessel Count for Dirty Tanker Transits Through the Red Sea, Underscoring Growing Concerns Over the Region’s Shipping Activity. the 7-Day Moving Average (Left Chart) Shows a Clear Downward Trajectory in the Vessel Count Throughout the Year Compared to the Previous Year’s Daily Transits for Key Dirty Tanker Categories Such as Very Large Crude Carriers (VLCCs), Suezmax, and Aframax Tankers. Notably, There Has Been a Significant 26% Annual Decrease in Vessel Transits.
 
 
-![66ffcafed5588a00128f3cf1 66ffcad534d70290b6bf709e Tankers%20red%20sea](../../images/66ffcafed5588a00128f3cf1_66ffcad534d70290b6bf709e_tankers%20red%20sea.avif)
+![66ffcafed5588a00128f3cf1 66ffcad534d70290b6bf709e Tankers%20red%20sea](../../images/66ffcafed5588a00128f3cf1_66ffcad534d70290b6bf709e_tankers%2520red%2520sea.avif)
 
 > **Figure 1: 66ffcafed5588a00128f3cf1 66ffcad534d70290b6bf709e Tankers%20red%20sea**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/tanker-week-40-2024) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/66ffcafed5588a00128f3cf1_66ffcad534d70290b6bf709e_tankers%20red%20sea.avif)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/tanker-week-40-2024) | [Local Asset](../../../../../../corpus/07-signal/images/66ffcafed5588a00128f3cf1_66ffcad534d70290b6bf709e_tankers%2520red%2520sea.avif)
 
 The first days of October are marked by the latest wave of Middle Eastern geopolitical tensions, which have raised concerns over a potential increase in oil prices as the region edges toward a wider conflict. Market participants are increasingly anxious about the near-term outlook for oil prices, especially as risks in key maritime routes heighten. A particularly significant threat comes from Houthi attacks in the Red Sea, which continue to disrupt seaborne oil trading. The number of vessels transiting the Red Sea has noticeably declined, reflecting mounting apprehensions over the safety of shipments through this crucial waterway.
 

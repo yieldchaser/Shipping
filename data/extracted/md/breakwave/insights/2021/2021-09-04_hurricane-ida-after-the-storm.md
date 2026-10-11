@@ -39,21 +39,21 @@ So far, we have not seen too many ripples from the hurricane in the dry markets.
 ![A1](assets/2021-09-04_hurricane-ida-after-the-storm_img_a1_d7e5e7c349b4.png)
 
 > **Figure 1: A1**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2021/assets/2021-09-04_hurricane-ida-after-the-storm_img_a1_d7e5e7c349b4.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-09-04_hurricane-ida-after-the-storm_img_a1_d7e5e7c349b4.png)
 
 The shock has come at a critical time, when US soybean shipments are just beginning to ramp up for the Q4 peak export season. Many ships, have repositioned to take advantage of the typical ramp up, and so if power outages do indeed last for several weeks, we could see congestion start to swell. For now, queues of bulk carriers in the Gulf are yet to build up, and remain at average seasonal levels of about 708k dwt.
 
 ![A2](assets/2021-09-04_hurricane-ida-after-the-storm_img_a2_ae83cec13577.png)
 
 > **Figure 2: A2**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2021/assets/2021-09-04_hurricane-ida-after-the-storm_img_a2_ae83cec13577.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-09-04_hurricane-ida-after-the-storm_img_a2_ae83cec13577.png)
 
 And if the disruption is more persistent, there are other ways the dry market may be affected. For importers, an alternative to US supply could be that from South America, though for soybeans specifically, we are currently in the seasonal low-point for shipments from this hemisphere. Additional tonnes could come from stockpiles in the country, but buyers of animal feed may need to look to other commodities, such as wheat and corn, to fill the gap. If cargoes can be found, greater voyage lengths to customers in China would likely translate to a slight increase in vessel demand.
 
 ![A3](assets/2021-09-04_hurricane-ida-after-the-storm_img_a3_2ba7f92466eb.png)
 
 > **Figure 3: A3**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2021/assets/2021-09-04_hurricane-ida-after-the-storm_img_a3_2ba7f92466eb.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-09-04_hurricane-ida-after-the-storm_img_a3_2ba7f92466eb.png)
 
 We have also heard reports that some US grain exporters are redirecting cargoes to their facilities in the Pacific Northwest (PNW). It is unclear how much rail capacity there is to move these volumes towards this coastline, but the shift could leave some bulkers better off than others. Even if total exported volumes are unchanged this season, more shipments from the PNW would likely benefit the Panamax market. Panamaxes and Kamsarmaxes typically account for about 62% of grain shipments from this region, as opposed to 36% from the USG.
 
@@ -62,7 +62,7 @@ But there is a trade-off. In terms of demand per tonne of cargo moved, grain shi
 ![A4](assets/2021-09-04_hurricane-ida-after-the-storm_img_a4_aea7f1a8d750.png)
 
 > **Figure 4: A4**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2021/assets/2021-09-04_hurricane-ida-after-the-storm_img_a4_aea7f1a8d750.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-09-04_hurricane-ida-after-the-storm_img_a4_aea7f1a8d750.png)
 
 So while it is not clear exactly how this event will shape the market over the next few weeks, there are several aspects to keep an eye on. We’ll continue to watch as the story unfolds and more information becomes available.
 

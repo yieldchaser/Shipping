@@ -55,9 +55,9 @@ After falling sharply during the latter parts of the second quarter and the earl
 
 Shipfix’s cargo order data show that weekly volumes for grains loading in Ukrainian ports have remained stable in the past three weeks, with the current week remaining on track for similar levels. Hence, given the forward-looking nature of the order data, seaborne exports of Ukrainian grains look set to remain robust in the coming weeks and months.
 
-![Market Chart 1](assets/2022-08-31_global-market-update_img_unnamed285629_77c404bd582d.png)
+![Market Chart 1](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-08-31_global-market-update_img_unnamed285629_77c404bd582d.png)
 
 > **Figure 1: Market Chart 1**  
-> **Interactive Data & Source:** [Shipfix](https://shipfix.com/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-08-31_global-market-update_img_unnamed285629_77c404bd582d.png)
+> **Interactive Data & Source:** [Shipfix](https://shipfix.com/) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-08-31_global-market-update_img_unnamed285629_77c404bd582d.png)
 
 Data Source:[Shipfix](https://shipfix.com/)

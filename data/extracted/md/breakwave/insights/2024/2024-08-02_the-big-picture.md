@@ -36,11 +36,11 @@ We have identified**three main parts to the Panamax yearly growth story**:
 2. US Pacific Coast departures**(from Portland) carrying potash to Brazil**. These involved voyages around Cape Horn, as was mostly the case in the 1H 2023.
 3. Exports from**Oman**(predominantly Sohar, with smaller volumes from Sur)**to Brazil and India**. Oman is well-positioned to fertiliser importers in South Asia and its producers enjoy access to cheap energy thanks to abundant natural gas.
 
-![Three Examples Above Are Not Necessarily Representative of All](assets/2024-08-02_the-big-picture_img_image028129_90e6b02ff32c.png)
+![Three Examples Above Are Not Necessarily Representative of All](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-08-02_the-big-picture_img_image028129_90e6b02ff32c.png)
 
 > **Figure 1: Three Examples Above Are Not Necessarily Representative of All**  
 > *The three examples above are not necessarily representative of all fertiliser trades from those load ports; they are simply the leading examples of yearly growth in January-June this year.*  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-08-02_the-big-picture_img_image028129_90e6b02ff32c.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-08-02_the-big-picture_img_image028129_90e6b02ff32c.png)
 
 As a result, the**positive impact on freight rates**from the trade gain is**amplified by the effect on tonne-mile demand**.
 
@@ -72,10 +72,10 @@ As a note of caution, the IFA adds that lower fertiliser prices may also erode t
 
 Although the IFA forecasts slowing fertiliser use is still in the medium term,**the latest IFA outlook (from July) projects stronger expansion than in June 2023**.
 
-![Market Chart 2](assets/2024-08-02_the-big-picture_img_image1_b67fae2552ae.png)
+![Market Chart 2](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-08-02_the-big-picture_img_image1_b67fae2552ae.png)
 
 > **Figure 2: Market Chart 2**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-08-02_the-big-picture_img_image1_b67fae2552ae.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-08-02_the-big-picture_img_image1_b67fae2552ae.png)
 
 ---
 

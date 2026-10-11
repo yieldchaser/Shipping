@@ -32,10 +32,18 @@ The impact on the product tanker market is more difficult to predict, as it depe
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: South of the Border Swap](../../../charts/poten/2015/poten_2015-02-20_south-of-the-border-swap_chart1.png)
+![Exhibit 1: Fig. 1: US Crude Oil Imports From Mexico](../../../charts/poten/2015/poten_2015-02-20_south-of-the-border-swap_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2015/poten_2015-02-20_south-of-the-border-swap_chart1.png)
+> **Exhibit 1: Fig. 1: US Crude Oil Imports From Mexico**  
+> Unit: KB/day | % · X-axis: 2000 to 2014  
+> Series: Imports from Mexico, % of US Imports  
+> *Source: EIA*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2015/poten_2015-02-20_south-of-the-border-swap_chart1.png)
 
-![Exhibit 2: South of the Border Swap](../../../charts/poten/2015/poten_2015-02-20_south-of-the-border-swap_chart2.png)
+![Exhibit 2: Fig. 2: Refined Product Exports from US to Mexico](../../../charts/poten/2015/poten_2015-02-20_south-of-the-border-swap_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2015/poten_2015-02-20_south-of-the-border-swap_chart2.png)
+> **Exhibit 2: Fig. 2: Refined Product Exports from US to Mexico**  
+> Unit: KB/day · X-axis: 2000 to 2014  
+> Series: Gasoline, Distillates, Other  
+> *Source: EIA*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2015/poten_2015-02-20_south-of-the-border-swap_chart2.png)

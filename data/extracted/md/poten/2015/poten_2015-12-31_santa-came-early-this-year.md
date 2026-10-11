@@ -28,10 +28,18 @@ The current futures forward curve for HFO in Rotterdam reaches $200/ton only by 
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: Santa Came Early This Year](../../../charts/poten/2015/poten_2015-12-31_santa-came-early-this-year_chart1.png)
+![Exhibit 1: Brent Crude Price vs Rotterdam 380 Cst Bunker Price](../../../charts/poten/2015/poten_2015-12-31_santa-came-early-this-year_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2015/poten_2015-12-31_santa-came-early-this-year_chart1.png)
+> **Exhibit 1: Brent Crude Price vs Rotterdam 380 Cst Bunker Price**  
+> Unit: $/bbl | $/MT · X-axis: Jan-11 to Jul-15  
+> Series: Brent ($/bbl), 380 Cst Rdam ($/MT)  
+> *Source: Bloomberg, Poten & Partners*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2015/poten_2015-12-31_santa-came-early-this-year_chart1.png)
 
-![Exhibit 2: Santa Came Early This Year](../../../charts/poten/2015/poten_2015-12-31_santa-came-early-this-year_chart2.png)
+![Exhibit 2: AG-Japan; 270 Kt VLCC - Total Freight Costs](../../../charts/poten/2015/poten_2015-12-31_santa-came-early-this-year_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2015/poten_2015-12-31_santa-came-early-this-year_chart2.png)
+> **Exhibit 2: AG-Japan; 270 Kt VLCC - Total Freight Costs**  
+> Unit: US$/day · X-axis: Jan-14 to Nov-15  
+> Series: Bunkers, Oth. Voyage Expenses, TCE/Capital Contribution  
+> *Source: Poten & Partners*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2015/poten_2015-12-31_santa-came-early-this-year_chart2.png)

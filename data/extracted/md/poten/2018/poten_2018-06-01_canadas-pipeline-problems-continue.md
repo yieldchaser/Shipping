@@ -34,8 +34,12 @@ At the end of the day, oil is a global commodity and through the pricing mechani
 
 ![Exhibit 1: Canadas Pipeline Problems Continue](../../../charts/poten/2018/poten_2018-06-01_canadas-pipeline-problems-continue_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2018/poten_2018-06-01_canadas-pipeline-problems-continue_chart1.png)
+> **Interactive Asset:** [Local Asset (200 DPI PNG)](../../../charts/poten/2018/poten_2018-06-01_canadas-pipeline-problems-continue_chart1.png)
 
-![Exhibit 2: Canadas Pipeline Problems Continue](../../../charts/poten/2018/poten_2018-06-01_canadas-pipeline-problems-continue_chart2.png)
+![Exhibit 2: U.S. Crude Oil Imports from Canada](../../../charts/poten/2018/poten_2018-06-01_canadas-pipeline-problems-continue_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2018/poten_2018-06-01_canadas-pipeline-problems-continue_chart2.png)
+> **Exhibit 2: U.S. Crude Oil Imports from Canada**  
+> Unit: Kb/d · X-axis: Jan-2000 to Jan-2018  
+> Series: U.S. Crude Oil Imports from Canada  
+> *Source: EIA*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2018/poten_2018-06-01_canadas-pipeline-problems-continue_chart2.png)

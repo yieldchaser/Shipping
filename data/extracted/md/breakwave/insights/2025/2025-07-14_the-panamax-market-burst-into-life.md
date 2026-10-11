@@ -32,17 +32,17 @@ The roots of this Jolt are embedded in trade flow dynamics that have evolved thr
 
 In mid-May, China reinstated five of the previously suspended exporters, a move that rapidly reignited Brazilian flows to Asia. Since then, the pace has accelerated. As of July 7, LSEG data tracked 67.4 million tonnes of soybean exports from Brazil since February – 3 percent ahead of last year’s record-breaking run, with 47.6 million tonnes headed to China. The July line-up reinforces the bullish narrative: 10.4 million tonnes are scheduled to load, a 12 percent year-on-year increase. According to ANEC, Brazil’s July soybean exports are now expected to hit 11.93 million tonnes, up from 9.6 million tonnes in the same month last year. Driving this surge is Brazil’s massive 2025 harvest, which yielded 169.3 million tonnes of soybeans – 22 million more than in 2024. Exporters are pushing volumes aggressively, particularly as uncertainty grows around U.S. trade negotiations. Buyers are keen to secure Brazilian product before the U.S. harvest becomes available in September, anticipating potential geopolitical risks in the second half of the year. Meanwhile, corn looms on the horizon. Brazil’s corn output is expected to reach 128.3 million tonnes this season – an 11 percent year-on-year increase. StoneX projects corn exports at 42 million tonnes, up from 38.5 million in the previous cycle. But logistical friction may emerge as soybean and corn cargoes begin competing for terminal capacity. Should Chinese demand for soybeans remain firm, corn may face port congestion and scheduling conflicts.
 
-![Στιγμιότυπο Οθόνης 2025 07 14 150619](assets/2025-07-14_the-panamax-market-burst-into-life_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_09b9de7ed8f0.png)
+![Στιγμιότυπο Οθόνης 2025 07 14 150619](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-07-14_the-panamax-market-burst-into-life_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_09b9de7ed8f0.png)
 
 > **Figure 1: Στιγμιότυπο Οθόνης 2025 07 14 150619**  
-> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-07-14_the-panamax-market-burst-into-life_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_09b9de7ed8f0.png)
+> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-07-14_the-panamax-market-burst-into-life_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_09b9de7ed8f0.png)
 
 For months, the Panamax segment was weighed down by oversupply and tepid demand. Then, almost overnight, a spark caught fire. Owners stopped chasing stems; charterers began chasing ships. The charts moved, the sentiment flipped, and the market roared back to life. As history often reminds us, turnarounds in commodity and shipping markets sometimes come not with a whisper, but with a bang.
 
-![Στιγμιότυπο Οθόνης 2025 07 14 150701](assets/2025-07-14_the-panamax-market-burst-into-life_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_45156a93d653.png)
+![Στιγμιότυπο Οθόνης 2025 07 14 150701](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-07-14_the-panamax-market-burst-into-life_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_45156a93d653.png)
 
 > **Figure 2: Στιγμιότυπο Οθόνης 2025 07 14 150701**  
-> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-07-14_the-panamax-market-burst-into-life_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_45156a93d653.png)
+> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-07-14_the-panamax-market-burst-into-life_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_45156a93d653.png)
 
 Data source:[Doric](https://www.doric.gr/)
 

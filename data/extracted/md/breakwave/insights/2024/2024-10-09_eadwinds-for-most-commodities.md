@@ -60,10 +60,10 @@ The tonnage supply situations in the major basins have been diverging recently. 
 
 From a demand and supply perspective, the short-term outlook for the panamaxes looks uncertain. Recent depressed demand and rising tonnage supply could weigh on freight rates in the near future. Still, a likely rebound in cargo ordering activities after the Golden Week would offset such a development. However, other factors, such as market lead times, will also contribute to the evolution of panamax freight rates in the coming weeks.
 
-![Στιγμιότυπο Οθόνης 2024 10 09 143944](assets/2024-10-09_eadwinds-for-most-commodities_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_cf0225de55bf.png)
+![Στιγμιότυπο Οθόνης 2024 10 09 143944](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-10-09_eadwinds-for-most-commodities_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_cf0225de55bf.png)
 
 > **Figure 1: Στιγμιότυπο Οθόνης 2024 10 09 143944**  
-> **Interactive Data & Source:** [Shipfix](https://shipfix.com/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-10-09_eadwinds-for-most-commodities_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_cf0225de55bf.png)
+> **Interactive Data & Source:** [Shipfix](https://shipfix.com/) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-10-09_eadwinds-for-most-commodities_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_cf0225de55bf.png)
 
 Data Source:[Shipfix](https://shipfix.com/)
 

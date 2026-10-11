@@ -20,10 +20,10 @@ source_file: "corpus/03-breakwave/insights/2025/2025-07-10_all-about-us.html"
 
 ---
 
-![Ras Tanura Island](assets/2025-07-10_all-about-us_img_ras-tanura-island_a2d0afa64376.jpg)
+![Ras Tanura Island](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-07-10_all-about-us_img_ras-tanura-island_a2d0afa64376.jpg)
 
 > **Figure 1: Ras Tanura Island**  
-> **Interactive Data & Source:** [Gibsons Co](https://www.gibsons.co.uk/market-reports) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-07-10_all-about-us_img_ras-tanura-island_a2d0afa64376.jpg)
+> **Interactive Data & Source:** [Gibsons Co](https://www.gibsons.co.uk/market-reports) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-07-10_all-about-us_img_ras-tanura-island_a2d0afa64376.jpg)
 
 Almost every year since 2020 has been a rollercoaster ride, and the first six months of 2025 were no different with a wide range of factors influencing the tanker markets. The return of President Trump has undoubtedly been the catalyst for much, but not all the volatility and uncertainty. Changes are awash from geopolitics, international relations, trade, conflict, regulation, and decarbonisation among others, with the outlook arguably as uncertain as it has been at any point in the past 5 years. In this report we recap on some of the key topics and developments so far this year.
 
@@ -75,10 +75,10 @@ On the supply side, newbuilding orders have slowed significantly this year. Just
 
 The performance of asset prices has been more mixed. Newbuilding prices across the board have eased this year, but remain at similar levels to the first half of 2024. With the exception of VLCCs where modern secondhand prices have been steady, prices for 5-year-old tankers have fallen by 7-13% depending on the vessel type as weaker spot markets and an uncertain outlook weigh on values. Overall, asset prices remain robust, with older values in many cases still double their pre-war levels.
 
-![Στιγμιότυπο Οθόνης 2025 07 10 110612](assets/2025-07-10_all-about-us_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_17f98ea2dbcf.png)
+![Στιγμιότυπο Οθόνης 2025 07 10 110612](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-07-10_all-about-us_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_17f98ea2dbcf.png)
 
 > **Figure 2: Στιγμιότυπο Οθόνης 2025 07 10 110612**  
-> **Interactive Data & Source:** [Gibsons Co](https://www.gibsons.co.uk/market-reports) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-07-10_all-about-us_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_17f98ea2dbcf.png)
+> **Interactive Data & Source:** [Gibsons Co](https://www.gibsons.co.uk/market-reports) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-07-10_all-about-us_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_17f98ea2dbcf.png)
 
 Data source:[Gibson Shipbrokers](https://www.gibsons.co.uk/market-reports)
 

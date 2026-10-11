@@ -46,4 +46,4 @@ The history of the oil markets has taught us that barrels can move beyond the cl
 
 ![Exhibit 1: Far Eastern Exports?](../../../charts/poten/2010/poten_2010-05-21_far-eastern-exports_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2010/poten_2010-05-21_far-eastern-exports_chart1.png)
+> **Interactive Asset:** [Local Asset (200 DPI PNG)](../../../charts/poten/2010/poten_2010-05-21_far-eastern-exports_chart1.png)

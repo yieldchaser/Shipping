@@ -86,6 +86,8 @@ The psychological impact of a potential cut in supply has already helped spike t
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: Moving Target](../../../charts/poten/2008/poten_2008-10-17_moving-target_chart1.png)
-
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2008/poten_2008-10-17_moving-target_chart1.png)
+> **Chart on PDF page 1: OPEC Production vs. Crude Oil Price**  
+> Unit: Million Barrels Per Day | $/Barrel · X-axis: Oct-06 to Aug-08  
+> Series: Total OPEC Production, Crude Price $/bbl  
+> *Source: EIA/Poten*  
+> *No image crop of this chart was saved; caption read from the PDF.*

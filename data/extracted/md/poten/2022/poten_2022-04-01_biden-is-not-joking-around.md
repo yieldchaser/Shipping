@@ -28,10 +28,18 @@ Most likely, the result will be combination of the above scenarios. We will see 
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: Biden Is Not Joking Around](../../../charts/poten/2022/poten_2022-04-01_biden-is-not-joking-around_chart1.png)
+![Exhibit 1: U.S. SPR Crude Oil Stocks](../../../charts/poten/2022/poten_2022-04-01_biden-is-not-joking-around_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2022/poten_2022-04-01_biden-is-not-joking-around_chart1.png)
+> **Exhibit 1: U.S. SPR Crude Oil Stocks**  
+> Unit: Mln bbl · X-axis: 1977 to 2021  
+> Series: U.S. SPR Crude Oil Stocks  
+> *Source: EIA*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2022/poten_2022-04-01_biden-is-not-joking-around_chart1.png)
 
-![Exhibit 2: Biden Is Not Joking Around](../../../charts/poten/2022/poten_2022-04-01_biden-is-not-joking-around_chart2.png)
+![Exhibit 2: U.S. Crude Oil Production vs Imports and Exports](../../../charts/poten/2022/poten_2022-04-01_biden-is-not-joking-around_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2022/poten_2022-04-01_biden-is-not-joking-around_chart2.png)
+> **Exhibit 2: U.S. Crude Oil Production vs Imports and Exports**  
+> Unit: Kb/day · X-axis: Jan-00 to Oct-21  
+> Series: Production, Imports, Exports  
+> *Source: EIA*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2022/poten_2022-04-01_biden-is-not-joking-around_chart2.png)

@@ -19,10 +19,10 @@ source_file: "corpus/03-breakwave/insights/2023/2023-01-03_breakwave-bi-weekly-d
 
 ---
 
-![Dbreporttop](assets/2023-01-03_breakwave-bi-weekly-dry-bulk-report-january-3-2023_img_dbreporttop_7a66ecf63ccc.png)
+![Dbreporttop](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-01-03_breakwave-bi-weekly-dry-bulk-report-january-3-2023_img_dbreporttop_7a66ecf63ccc.png)
 
 > **Figure 1: Dbreporttop**  
-> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/publications) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-01-03_breakwave-bi-weekly-dry-bulk-report-january-3-2023_img_dbreporttop_7a66ecf63ccc.png)
+> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/publications) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-01-03_breakwave-bi-weekly-dry-bulk-report-january-3-2023_img_dbreporttop_7a66ecf63ccc.png)
 
 •**Quiet holiday break drives spot Capesize rates lower**– As the Christmas holiday break comes to an end and traders return to their desks, the Capesize rate market is once again faced with a significant divergence between spot and futures. On the one hand, although the spot market has weakened quite a bit during the holidays, it remains above the futures market. This is not a surprise: the first quarter has traditionally been the softest quarter of the year with inclement weather in both the Pacific and Atlantic basins usually affecting loading operations, and as a result, shipping demand. We see no reason why this time will be different and, as a result, we also anticipate spot rates to weaken and probably converge on the futures curve over the next few weeks. Yet, time and again, expectations and reality in dry bulk have differed. A case in point is last year, when the Capesize futures market for the first quarter was priced deep in the 20,000 range only to see actual spot rates drifting and averaging below 15,000 (which was still an impressive performance). For those who believe consensus once again will be wrong and with first quarter futures currently at ~9,000, the risk/reward this time around is tilted towards a higher average. However, we believe the greatest opportunity lies further out in the futures curve, as we expect the macro picture as it relates to China to materially improve in the coming months as the country reopens and restocking demand takes over, while at the same, increasing steel mill profitability could lead to increasing demand for imported iron ore.
 
@@ -32,12 +32,12 @@ source_file: "corpus/03-breakwave/insights/2023/2023-01-03_breakwave-bi-weekly-d
 
 [Subcribe - Bi-Weekly Dry Bulk Report](https://www.breakwaveadvisors.com/publications)
 
-![Dbreportchart](assets/2023-01-03_breakwave-bi-weekly-dry-bulk-report-january-3-2023_img_dbreportchart_faa813a3980d.png)
+![Dbreportchart](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-01-03_breakwave-bi-weekly-dry-bulk-report-january-3-2023_img_dbreportchart_faa813a3980d.png)
 
 > **Figure 2: Dbreportchart**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-01-03_breakwave-bi-weekly-dry-bulk-report-january-3-2023_img_dbreportchart_faa813a3980d.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-01-03_breakwave-bi-weekly-dry-bulk-report-january-3-2023_img_dbreportchart_faa813a3980d.png)
 
-![Dbreportbottom](assets/2023-01-03_breakwave-bi-weekly-dry-bulk-report-january-3-2023_img_dbreportbottom_3c0f7ba35da9.png)
+![Dbreportbottom](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-01-03_breakwave-bi-weekly-dry-bulk-report-january-3-2023_img_dbreportbottom_3c0f7ba35da9.png)
 
 > **Figure 3: Dbreportbottom**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-01-03_breakwave-bi-weekly-dry-bulk-report-january-3-2023_img_dbreportbottom_3c0f7ba35da9.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-01-03_breakwave-bi-weekly-dry-bulk-report-january-3-2023_img_dbreportbottom_3c0f7ba35da9.png)

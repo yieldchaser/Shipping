@@ -52,6 +52,11 @@ India's refinery situation has made the country a net exporter of clean products
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: India Comes Clean](../../../charts/poten/2005/poten_2005-08-26_india-comes-clean_chart1.png)
+> **Chart on PDF page 1: India Refining Capacity, 1962-2005**  
+> Unit: mbbl/day · X-axis: 1962 to 2004  
+> *No image crop of this chart was saved; caption read from the PDF.*
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2005/poten_2005-08-26_india-comes-clean_chart1.png)
+> **Chart on PDF page 2: Net Clean Product Spot Exports**  
+> Unit: bbl/d · X-axis: 2000 to YTD 2005  
+> Series: Net Clean Product Spot Exports  
+> *No image crop of this chart was saved; caption read from the PDF.*

@@ -23,10 +23,10 @@ source_file: "corpus/03-breakwave/insights/2022/2022-09-23_metals-gain-as-supply
 
 Commodity markets shrugged off interest rate hikes by central banks to focus on supply side issues. This saw oil and base metals end a volatile session higher.
 
-![1663883759528](assets/2022-09-23_metals-gain-as-supply-issues-offset-demand-concerns_img_1663883759528_088d675aa580.png)
+![1663883759528](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-09-23_metals-gain-as-supply-issues-offset-demand-concerns_img_1663883759528_088d675aa580.png)
 
 > **Figure 1: 1663883759528**  
-> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-09-23_metals-gain-as-supply-issues-offset-demand-concerns_img_1663883759528_088d675aa580.png)
+> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-09-23_metals-gain-as-supply-issues-offset-demand-concerns_img_1663883759528_088d675aa580.png)
 
 **Zinc**led the**base metals**sector higher as the spectre of declining supply outweighed concerns of weaker demand. The slew of central banks tightening monetary policy raises the risk of weaker economic growth. However, the reaction from commodity markets suggests an aggressive rate hike cycle may already be priced in. In the meantime, ongoing supply disruptions continue to push inventories lower.**Zinc**stockpiles in LME warehouses slid to their lowest level since February 2020. Earlier this week, data from China’s statistical bureau showed output of refined zinc fell 5.2% y/y in August. The slowdown in production in China comes as Europe’s energy crisis threatens to curtail more output as costs surge higher. Aluminium also gained amid its own supply issues. Yunnan and Sichuan have ordered smelters to reduce output amid energy shortages.
 

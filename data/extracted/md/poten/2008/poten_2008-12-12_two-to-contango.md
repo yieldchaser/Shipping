@@ -82,6 +82,8 @@ If near-term physical oil prices continue to stay weak relative to future prices
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: Two to Contango](../../../charts/poten/2008/poten_2008-12-12_two-to-contango_chart1.png)
-
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2008/poten_2008-12-12_two-to-contango_chart1.png)
+> **Chart on PDF page 1: Crude Oil Spot vs. Future Prices**  
+> Unit: Differential From Spot Price ($) · X-axis: 1 Mo. to 6 Mo.  
+> Series: July Price Curve, September Price Curve, Current Price Curve  
+> *Source: Bloomberg*  
+> *No image crop of this chart was saved; caption read from the PDF.*

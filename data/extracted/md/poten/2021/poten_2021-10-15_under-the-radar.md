@@ -20,13 +20,14 @@ For much of the 1970s and 1980s, Japan was a shipowners' dream. It was a rapidly
 
 In recent months, the world is starting to recover from Covid-19 and the global economy is gathering steam. The resulting boost in energy demand, combined with disappointing renewable power generation (hydro and wind) in parts of the worlds, has created an acute shortage of natural gas, LNG and coal supplies. This supply crunch has created a run-up in energy prices and also triggered a massive switch to oil product and direct crude burn.
 
-At 30 GW (GigaWatts) Japan is the world's largest user of oil- fired power capacity. On top of that, Japan has some 10 GW of dual-fired capacity that can switch from gas to oil and another 8-10 GW of deactivated powerplants which could use oil. Four of the seven largest oil-fired power plants in the world are located in Japan (the other three are in Saudi Arabia). In their October Oil Market Report, the IEA mentioned that "provisional August data already indicates that there is some unseasonably high demand for fuel oil, crude and middle distillates for power plants in a number of countries, including China, Japan and Pakistan in Asia." The APEX data from Lloyd's List Intelligence ([Chart 1](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2021/poten_2021-10-15_under-the-radar_chart1.png)) seems to confirm the IEA observation, with a marked increase in Japanese oil imports in August, September, and October. Japanese imports in October are projected to reach almost 3.0 million barrels per day (Mb/d), the highest import volume since before the pandemic. If normal seasonal trends hold this year, November and December imports should be even higher. Since Japan sources about 80% of its crude oil from the Middle East (primarily Saudi Arabia and the United Arab Emirates), this bodes well for long-haul tanker demand.
+At 30 GW (GigaWatts) Japan is the world's largest user of oil- fired power capacity. On top of that, Japan has some 10 GW of dual-fired capacity that can switch from gas to oil and another 8-10 GW of deactivated powerplants which could use oil. Four of the seven largest oil-fired power plants in the world are located in Japan (the other three are in Saudi Arabia). In their October Oil Market Report, the IEA mentioned that "provisional August data already indicates that there is some unseasonably high demand for fuel oil, crude and middle distillates for power plants in a number of countries, including China, Japan and Pakistan in Asia." The APEX data from Lloyd's List Intelligence ([Chart 1](../../../charts/poten/2021/poten_2021-10-15_under-the-radar_chart1.png)) seems to confirm the IEA observation, with a marked increase in Japanese oil imports in August, September, and October. Japanese imports in October are projected to reach almost 3.0 million barrels per day (Mb/d), the highest import volume since before the pandemic. If normal seasonal trends hold this year, November and December imports should be even higher. Since Japan sources about 80% of its crude oil from the Middle East (primarily Saudi Arabia and the United Arab Emirates), this bodes well for long-haul tanker demand.
 
-> **Exhibit 1: Under The Radar (Chart 1)**  
-> *Source: Poten & Partners*  
-> **Interactive Data & Source:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2021/poten_2021-10-15_under-the-radar_chart1.png)
+> **Exhibit 1: Crude Import Volumes Into Japan**  
+> Unit: KBbl/day · X-axis: Jan-16 to Oct-21  
+> Series: Saudi Arabia, UAE, Qatar, Oth. M East, Russia (FE), SE Asia, US Gulf, Med., Other  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2021/poten_2021-10-15_under-the-radar_chart1.png)
 
-![Exhibit 1: Under The Radar](../../../charts/poten/2021/poten_2021-10-15_under-the-radar_chart1.png)
+![Exhibit 1: Crude Import Volumes Into Japan](../../../charts/poten/2021/poten_2021-10-15_under-the-radar_chart1.png)
 
 While Japanese oil demand will be supportive for the tanker market in the short-term, what are the prospects for the medium to long-term? Over the last 20 years, Japan's oil demand has been gradually declining, from in 5.48 Mb/d in 2000 to 3.74 Mb/d in 2019. Demand dropped to 3.33 Mb/d in 2020 due to the pandemic, but it is conceivable that future oil demand in Japan will never reach 2019 levels again.
 
@@ -36,6 +37,10 @@ Japan will remain an important market for crude oil tankers (in particular VLCCs
 
 ## Market Exhibits & Charts
 
-![Exhibit 2: Under The Radar](../../../charts/poten/2021/poten_2021-10-15_under-the-radar_chart2.png)
+![Exhibit 2: Japan Crude Oil Imports - Tanker Demand](../../../charts/poten/2021/poten_2021-10-15_under-the-radar_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2021/poten_2021-10-15_under-the-radar_chart2.png)
+> **Exhibit 2: Japan Crude Oil Imports - Tanker Demand**  
+> Unit: Bln Ton-Miles · X-axis: Jan-16 to Oct-21  
+> Series: VLCC, Suezmax, Aframax, Panamax  
+> *Source: Lloyd’s List Intelligence*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2021/poten_2021-10-15_under-the-radar_chart2.png)

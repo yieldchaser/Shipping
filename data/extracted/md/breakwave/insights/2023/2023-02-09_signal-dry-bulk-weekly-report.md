@@ -27,10 +27,10 @@ In the iron ore industry, prices were under pressure as Chinese economic activit
 
 *Rising trend in February with surprisingly high numbers for ship size Supramax*
 
-![Market Chart 1](assets/2023-02-09_signal-dry-bulk-weekly-report_img_unnamed-2023-02-09t104656054_3f93dfec233e.png)
+![Market Chart 1](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-02-09_signal-dry-bulk-weekly-report_img_unnamed-2023-02-09t104656054_3f93dfec233e.png)
 
 > **Figure 1: Market Chart 1**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://go.signalocean.com/e/983831/dry-reports-portcongestion/2nm2b5/301300645?h=PjcTlKw_EnjtzCdK0-nmkblW7Bbc8e8QfHslHr8u1TA) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-02-09_signal-dry-bulk-weekly-report_img_unnamed-2023-02-09t104656054_3f93dfec233e.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://go.signalocean.com/e/983831/dry-reports-portcongestion/2nm2b5/301300645?h=PjcTlKw_EnjtzCdK0-nmkblW7Bbc8e8QfHslHr8u1TA) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-02-09_signal-dry-bulk-weekly-report_img_unnamed-2023-02-09t104656054_3f93dfec233e.png)
 
 Data Source: The Signal Ocean Platform, Dry Bulk Port Congestion, Baltic Sea
 
@@ -40,10 +40,10 @@ Data Source: The Signal Ocean Platform, Dry Bulk Port Congestion, Baltic Sea
 
 ‘The Big Picture’ - Capesize and Panamax Bulkers and Smaller Ship Sizes
 
-![Market Chart 2](assets/2023-02-09_signal-dry-bulk-weekly-report_img_unnamed-2023-02-09t104920361_94bfc2bc4b54.png)
+![Market Chart 2](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-02-09_signal-dry-bulk-weekly-report_img_unnamed-2023-02-09t104920361_94bfc2bc4b54.png)
 
 > **Figure 2: Market Chart 2**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-02-09_signal-dry-bulk-weekly-report_img_unnamed-2023-02-09t104920361_94bfc2bc4b54.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-02-09_signal-dry-bulk-weekly-report_img_unnamed-2023-02-09t104920361_94bfc2bc4b54.png)
 
 Mixed signals for the second week of February, as there seems to be a slight upswing in the smaller ship size segments, while Capesize and Panamax segments continue to show a decline.
 
@@ -54,10 +54,10 @@ Mixed signals for the second week of February, as there seems to be a slight ups
 
 ## Section 2/ Supply -Ballasters (# Vessels) Increasing
 
-![Supply Trend Lines for Key Load Areas](assets/2023-02-09_signal-dry-bulk-weekly-report_img_unnamed-2023-02-09t105000874_22a06a8886db.png)
+![Supply Trend Lines for Key Load Areas](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-02-09_signal-dry-bulk-weekly-report_img_unnamed-2023-02-09t105000874_22a06a8886db.png)
 
 > **Figure 3: Supply Trend Lines for Key Load Areas**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-02-09_signal-dry-bulk-weekly-report_img_unnamed-2023-02-09t105000874_22a06a8886db.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-02-09_signal-dry-bulk-weekly-report_img_unnamed-2023-02-09t105000874_22a06a8886db.png)
 
 The number of ballast ships has continued to increase significantly since the end of the third week, while the Capesize, Panamax and Handysize segments have seen a surprising increase in the last two weeks.
 
@@ -68,10 +68,10 @@ The number of ballast ships has continued to increase significantly since the en
 
 ## Section 3/ Demand -TonDays Decreasing
 
-![TonDays Decreasing](assets/2023-02-09_signal-dry-bulk-weekly-report_img_unnamed-2023-02-09t105031772_d113323d9873.png)
+![TonDays Decreasing](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-02-09_signal-dry-bulk-weekly-report_img_unnamed-2023-02-09t105031772_d113323d9873.png)
 
 > **Figure 4: TonDays Decreasing**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-02-09_signal-dry-bulk-weekly-report_img_unnamed-2023-02-09t105031772_d113323d9873.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-02-09_signal-dry-bulk-weekly-report_img_unnamed-2023-02-09t105031772_d113323d9873.png)
 
 February saw a continuation of the significant decline in demand growth seen since the end of January, with only the Panamax segment recording a slight upward trend in two consecutive weeks.
 
@@ -82,10 +82,10 @@ February saw a continuation of the significant decline in demand growth seen sin
 
 ## Section 4/ Port Congestion -No of Vesselsincreasing
 
-![Dry Bulk Ships Congested at Chinese Ports](assets/2023-02-09_signal-dry-bulk-weekly-report_img_unnamed-2023-02-09t105209229_939c8f5f5779.png)
+![Dry Bulk Ships Congested at Chinese Ports](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-02-09_signal-dry-bulk-weekly-report_img_unnamed-2023-02-09t105209229_939c8f5f5779.png)
 
 > **Figure 5: Dry Bulk Ships Congested at Chinese Ports**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-02-09_signal-dry-bulk-weekly-report_img_unnamed-2023-02-09t105209229_939c8f5f5779.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-02-09_signal-dry-bulk-weekly-report_img_unnamed-2023-02-09t105209229_939c8f5f5779.png)
 
 In the second week of February, congestion reached a new high, having reached its last peak in week 52 of last year.
 

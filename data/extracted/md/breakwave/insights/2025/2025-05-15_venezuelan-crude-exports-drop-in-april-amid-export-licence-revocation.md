@@ -32,10 +32,10 @@ The relationship between the Trump administration and Venezuela’s government i
 
 By April, exports had dropped by 62% from that November peak. The steep decline in April can be especially attributed to PDVSA’s concerns over payment processing issues arising from US sanctions. In response, PDVSA suspended loadings and ordered two vessels,[Carina Voyager](https://analytics.vortexa.com/Map?page=Map&tabId=7cc9105c-6759-4a20-a839-900da43c803d&v=3)and[Dubai Attraction](https://analytics.vortexa.com/Map?page=Map&tabId=7cc9105c-6759-4a20-a839-900da43c803d&v=3)that were en route to the US to return their cargoes.
 
-![Στιγμιότυπο Οθόνης 2025 05 15 161323](assets/2025-05-15_venezuelan-crude-exports-drop-in-april-amid-export-licence-revocation_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_7dea4068dd06.png)
+![Στιγμιότυπο Οθόνης 2025 05 15 161323](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-05-15_venezuelan-crude-exports-drop-in-april-amid-export-licence-revocation_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_7dea4068dd06.png)
 
 > **Figure 1: Στιγμιότυπο Οθόνης 2025 05 15 161323**  
-> **Interactive Data & Source:** [Vortexa](https://www.vortexa.com/insights/crude/market-volatility-drives-chinas-crude-stockpiling/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-05-15_venezuelan-crude-exports-drop-in-april-amid-export-licence-revocation_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_7dea4068dd06.png)
+> **Interactive Data & Source:** [Vortexa](https://www.vortexa.com/insights/crude/market-volatility-drives-chinas-crude-stockpiling/) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-05-15_venezuelan-crude-exports-drop-in-april-amid-export-licence-revocation_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_7dea4068dd06.png)
 
 USGC refiners will likely need to look at other sources as Venezuelan barrels are expected to be phased out from the US market, leaving a shortfall of 250kbd of heavy crude. Vortexa data suggests Chevron Pascagoula and Valero St. Charles have been the key destinations for Venezuelan barrels and accounted for 67% and 80% of their seaborne crude intake over the past two years, respectively.
 
@@ -45,10 +45,10 @@ From a demand perspective, the shutdown of LyondellBasell’s 264kbd refinery in
 
 ## Upside Expected for Exports to China
 
-![Στιγμιότυπο Οθόνης 2025 05 15 161440](assets/2025-05-15_venezuelan-crude-exports-drop-in-april-amid-export-licence-revocation_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_a09c11c3480f.png)
+![Στιγμιότυπο Οθόνης 2025 05 15 161440](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-05-15_venezuelan-crude-exports-drop-in-april-amid-export-licence-revocation_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_a09c11c3480f.png)
 
 > **Figure 2: Στιγμιότυπο Οθόνης 2025 05 15 161440**  
-> **Interactive Data & Source:** [Vortexa](https://www.vortexa.com/insights/crude/market-volatility-drives-chinas-crude-stockpiling/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-05-15_venezuelan-crude-exports-drop-in-april-amid-export-licence-revocation_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_a09c11c3480f.png)
+> **Interactive Data & Source:** [Vortexa](https://www.vortexa.com/insights/crude/market-volatility-drives-chinas-crude-stockpiling/) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-05-15_venezuelan-crude-exports-drop-in-april-amid-export-licence-revocation_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_a09c11c3480f.png)
 
 On 24 March, the Trump administration issued an executive order imposing a 25% secondary tariff on any country importing Venezuelan oil or gas, effective from 2 April. Additionally, it revoked the permits of foreign firms such as Repsol and Eni, which had been receiving Venezuelan oil as debt repayment.
 

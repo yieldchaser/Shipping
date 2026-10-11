@@ -23,19 +23,19 @@ The start of the new year brings weaker sentiment in freight rates, with an incr
 
 In the iron market, prices rose above $120/t earlier this year, up nearly 50% from November lows. ING recently raised its 2023 iron ore forecast on optimism about China's reopening and now expects prices to hover around $115/t in the first quarter, with a seasonal lull expected during Chinese New Year later this month when steel production seasonally slows.
 
-![Market Chart 1](assets/2023-01-19_signal-dry-bulk-weekly-report_img_unnamed-2023-01-19t120004566_96a1033987e1.png)
+![Market Chart 1](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-01-19_signal-dry-bulk-weekly-report_img_unnamed-2023-01-19t120004566_96a1033987e1.png)
 
 > **Figure 1: Market Chart 1**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://go.signalocean.com/e/983831/dry-dynamic-drybulkflows/2njq2y/297808522?h=KAIeVhGxnhbOYOTeLMV6Q2tGVpgfz8v_JBit0OPevy0) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-01-19_signal-dry-bulk-weekly-report_img_unnamed-2023-01-19t120004566_96a1033987e1.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://go.signalocean.com/e/983831/dry-dynamic-drybulkflows/2njq2y/297808522?h=KAIeVhGxnhbOYOTeLMV6Q2tGVpgfz8v_JBit0OPevy0) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-01-19_signal-dry-bulk-weekly-report_img_unnamed-2023-01-19t120004566_96a1033987e1.png)
 
 ## Section 1/ Freight -Market Rates ($/T) Weaker
 
 ‘The Big Picture’ - Capesize and Panamax Bulkers and Smaller Ship Sizes
 
-![Market Chart 2](assets/2023-01-19_signal-dry-bulk-weekly-report_img_unnamed-2023-01-19t120152889_5d2ec927ab8d.png)
+![Market Chart 2](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-01-19_signal-dry-bulk-weekly-report_img_unnamed-2023-01-19t120152889_5d2ec927ab8d.png)
 
 > **Figure 2: Market Chart 2**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-01-19_signal-dry-bulk-weekly-report_img_unnamed-2023-01-19t120152889_5d2ec927ab8d.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-01-19_signal-dry-bulk-weekly-report_img_unnamed-2023-01-19t120152889_5d2ec927ab8d.png)
 
 In January, a weaker trend in spot freight rates emerged for all ship size classes, with the decline in the Supramax segment appearing to be more pronounced at the beginning of the new year.
 
@@ -46,10 +46,10 @@ In January, a weaker trend in spot freight rates emerged for all ship size class
 
 ## Section 2/ Supply -Ballasters (# Vessels) Increasing
 
-![Supply Trend Lines for Key Load Areas](assets/2023-01-19_signal-dry-bulk-weekly-report_img_unnamed-2023-01-19t120250332_813873e7e307.png)
+![Supply Trend Lines for Key Load Areas](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-01-19_signal-dry-bulk-weekly-report_img_unnamed-2023-01-19t120250332_813873e7e307.png)
 
 > **Figure 3: Supply Trend Lines for Key Load Areas**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-01-19_signal-dry-bulk-weekly-report_img_unnamed-2023-01-19t120250332_813873e7e307.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-01-19_signal-dry-bulk-weekly-report_img_unnamed-2023-01-19t120250332_813873e7e307.png)
 
 The number of ballast ships in the Handysize, Supramax and Panamax size classes has increased and has been above the annual average since the end of the second week of January.
 
@@ -60,10 +60,10 @@ The number of ballast ships in the Handysize, Supramax and Panamax size classes 
 
 ## Section 3/ Demand -TonDays Decreasing
 
-![TonDays Decreasing](assets/2023-01-19_signal-dry-bulk-weekly-report_img_unnamed-2023-01-19t120331057_c42f8c3c7d03.png)
+![TonDays Decreasing](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-01-19_signal-dry-bulk-weekly-report_img_unnamed-2023-01-19t120331057_c42f8c3c7d03.png)
 
 > **Figure 4: TonDays Decreasing**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-01-19_signal-dry-bulk-weekly-report_img_unnamed-2023-01-19t120331057_c42f8c3c7d03.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-01-19_signal-dry-bulk-weekly-report_img_unnamed-2023-01-19t120331057_c42f8c3c7d03.png)
 
 Demand growth slowed significantly with the start of the new year, with the sharpest decline in demand for Handysize vessels.
 
@@ -77,10 +77,10 @@ Demand growth slowed significantly with the start of the new year, with the shar
 
 ## Section 4/ Port Congestion -No of Vesselsincreasing
 
-![Increasing](assets/2023-01-19_signal-dry-bulk-weekly-report_img_unnamed-2023-01-19t120503150_60c91e89a6f8.png)
+![Increasing](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-01-19_signal-dry-bulk-weekly-report_img_unnamed-2023-01-19t120503150_60c91e89a6f8.png)
 
 > **Figure 5: Increasing**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-01-19_signal-dry-bulk-weekly-report_img_unnamed-2023-01-19t120503150_60c91e89a6f8.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-01-19_signal-dry-bulk-weekly-report_img_unnamed-2023-01-19t120503150_60c91e89a6f8.png)
 
 In the first days of January, congestion reached a new high, exceeding the high level of week 27, with a significant increase in the Panamax and Handysize segments.
 

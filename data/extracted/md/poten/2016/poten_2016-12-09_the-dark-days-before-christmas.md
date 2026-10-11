@@ -42,8 +42,8 @@ In the oil and tanker market, anything can happen, but it appears prudent for th
 
 ![Exhibit 1: The Dark Days Before Christmas](../../../charts/poten/2016/poten_2016-12-09_the-dark-days-before-christmas_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2016/poten_2016-12-09_the-dark-days-before-christmas_chart1.png)
+> **Interactive Asset:** [Local Asset (200 DPI PNG)](../../../charts/poten/2016/poten_2016-12-09_the-dark-days-before-christmas_chart1.png)
 
 ![Exhibit 2: The Dark Days Before Christmas](../../../charts/poten/2016/poten_2016-12-09_the-dark-days-before-christmas_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2016/poten_2016-12-09_the-dark-days-before-christmas_chart2.png)
+> **Interactive Asset:** [Local Asset (200 DPI PNG)](../../../charts/poten/2016/poten_2016-12-09_the-dark-days-before-christmas_chart2.png)

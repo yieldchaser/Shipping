@@ -31,10 +31,10 @@ tags:
 ## Despite This Improvement in the Monthly Volume of Brazilian Iron Ore Shipments to China, the Freight Market Rate ($/ton) for the C3 Route Is Experiencing a Significant Drop in July. This Decline Is Due to the Vessel Count of Ballasters Reaching a New Peak in the South Atlantic During the Last Days of July, Continuing a Rising Trend That Began at the End of June. the Right Chart Highlights This Upward Trend in the Number of Ballasters, Which Has Put Downward Pressure on Freight Rates Despite the Increased Shipment Volumes. a Similar Peak in the Vessel Count of Ballasters for the Capesize South Atlantic Market Was Recorded During the First Week of June. This Was Highlighted in Ourdry Weekly Market Monitorfor Week 23, 2024.
 
 
-![66ab49a60f2ce26a6315da11 66ab495e5f3a73388b8a3b41 Chart%20of%20the%20week%2031](../../images/66ab49a60f2ce26a6315da11_66ab495e5f3a73388b8a3b41_chart%20of%20the%20week%2031.avif)
+![66ab49a60f2ce26a6315da11 66ab495e5f3a73388b8a3b41 Chart%20of%20the%20week%2031](../../images/66ab49a60f2ce26a6315da11_66ab495e5f3a73388b8a3b41_chart%2520of%2520the%2520week%252031.avif)
 
 > **Figure 1: 66ab49a60f2ce26a6315da11 66ab495e5f3a73388b8a3b41 Chart%20of%20the%20week%2031**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/dry-week-31-2024) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/66ab49a60f2ce26a6315da11_66ab495e5f3a73388b8a3b41_chart%20of%20the%20week%2031.avif)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/dry-week-31-2024) | [Local Asset](../../../../../../corpus/07-signal/images/66ab49a60f2ce26a6315da11_66ab495e5f3a73388b8a3b41_chart%2520of%2520the%2520week%252031.avif)
 
 In the [iron ore market](https://www.scmp.com/economy/global-economy/article/3272435/chinas-politburo-pledges-support-sending-stronger-expected-signal-boost-economy), The Politburo, China’s top decision-making body led by President Xi Jinping, announced on Tuesday that the country will enhance its policy support to bolster the economy. The focus will be on increasing consumption to drive domestic demand. The Politburo acknowledged the growing negative impacts from external changes, weak domestic demand, and the challenging shift from old growth drivers to new ones. Iron ore futures fell further on Tuesday, pressured by the results of China’s key Politburo meeting and a strong global supply outlook.
 

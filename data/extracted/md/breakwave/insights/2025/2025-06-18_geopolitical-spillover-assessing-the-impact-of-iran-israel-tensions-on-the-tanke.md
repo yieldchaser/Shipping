@@ -20,10 +20,10 @@ source_file: "corpus/03-breakwave/insights/2025/2025-06-18_geopolitical-spillove
 
 ---
 
-![685135f0197fc2a6b57a74ae Strait of Hormuz](assets/2025-06-18_geopolitical-spillover-assessing-the-impact-of-iran-israel-tensions-on-the-tanke_img_685135f0197fc2a6b57a74ae-straitofhor_27237613dc77.png)
+![685135f0197fc2a6b57a74ae Strait of Hormuz](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-06-18_geopolitical-spillover-assessing-the-impact-of-iran-israel-tensions-on-the-tanke_img_685135f0197fc2a6b57a74ae-straitofhor_27237613dc77.png)
 
 > **Figure 1: 685135f0197fc2a6b57a74ae Strait of Hormuz**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://app.signalocean.com/tanker/dynamic/oil_prices) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-06-18_geopolitical-spillover-assessing-the-impact-of-iran-israel-tensions-on-the-tanke_img_685135f0197fc2a6b57a74ae-straitofhor_27237613dc77.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://app.signalocean.com/tanker/dynamic/oil_prices) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-06-18_geopolitical-spillover-assessing-the-impact-of-iran-israel-tensions-on-the-tanke_img_685135f0197fc2a6b57a74ae-straitofhor_27237613dc77.png)
 
 ## Executive Summary:
 
@@ -51,10 +51,10 @@ The current rally appeared to stem from a localized but volatile threat landscap
 
 Nonetheless, the risk of broader regional escalation remains a key concern. A worst-case scenario involving sustained conflict and disruption of flows through the Strait of Hormuz could trigger a severe supply shock. According to JPMorgan, such an escalation could remove well over 2.1 million barrels per day from the market and push Brent crude prices sharply higher, potentially exceeding $100 per barrel.
 
-![Στιγμιότυπο Οθόνης 2025 06 18 141430](assets/2025-06-18_geopolitical-spillover-assessing-the-impact-of-iran-israel-tensions-on-the-tanke_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_2536c1c0deed.png)
+![Στιγμιότυπο Οθόνης 2025 06 18 141430](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-06-18_geopolitical-spillover-assessing-the-impact-of-iran-israel-tensions-on-the-tanke_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_2536c1c0deed.png)
 
 > **Figure 2: Στιγμιότυπο Οθόνης 2025 06 18 141430**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://app.signalocean.com/tanker/dynamic/oil_prices) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-06-18_geopolitical-spillover-assessing-the-impact-of-iran-israel-tensions-on-the-tanke_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_2536c1c0deed.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://app.signalocean.com/tanker/dynamic/oil_prices) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-06-18_geopolitical-spillover-assessing-the-impact-of-iran-israel-tensions-on-the-tanke_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_2536c1c0deed.png)
 
 ‍
 
@@ -62,26 +62,26 @@ Nonetheless, the risk of broader regional escalation remains a key concern. A wo
 
 Reports indicate that Israeli strikes targeted defenses near Iran’s key port of Bandar Abbas. Although Iran maintains that operations remain unaffected, any significant damage to this strategically located port, adjacent to the Strait of Hormuz, could disrupt oil vessel traffic. The National Iranian Oil Refining and Distribution Company has stated that its refining and storage facilities remain fully operational and have sustained no damage. Nevertheless, the risk of disrupted oil flows persists, especially given Iran’s past threats to block the strait. The risk of missile attacks on Iranian oil port infrastructure is causing increased uncertainty, evidenced by a rise in estimated waiting times at Kharg Island port. The recently estimated waiting period for vessels has significantly increased to eleven days before the end of last week, up from five days at the start of May. This surge occurred without a corresponding increase in port congestion, as indicated by vessel count.
 
-![Στιγμιότυπο Οθόνης 2025 06 18 141441](assets/2025-06-18_geopolitical-spillover-assessing-the-impact-of-iran-israel-tensions-on-the-tanke_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_7915c34335eb.png)
+![Στιγμιότυπο Οθόνης 2025 06 18 141441](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-06-18_geopolitical-spillover-assessing-the-impact-of-iran-israel-tensions-on-the-tanke_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_7915c34335eb.png)
 
 > **Figure 3: Στιγμιότυπο Οθόνης 2025 06 18 141441**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://app.signalocean.com/tanker/dynamic/congestion_report_tanker_download) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-06-18_geopolitical-spillover-assessing-the-impact-of-iran-israel-tensions-on-the-tanke_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_7915c34335eb.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://app.signalocean.com/tanker/dynamic/congestion_report_tanker_download) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-06-18_geopolitical-spillover-assessing-the-impact-of-iran-israel-tensions-on-the-tanke_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_7915c34335eb.png)
 
 ## Freight Market - Vessel Count in the AG (VLCC)
 
 We have started seeing a reduction in the vessel count at the load area of AG for the VLCC TD3C route, although the WS direction upward trend is not yet significantly pronounced.
 
-![Στιγμιότυπο Οθόνης 2025 06 18 141450](assets/2025-06-18_geopolitical-spillover-assessing-the-impact-of-iran-israel-tensions-on-the-tanke_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_c94d83fa390f.png)
+![Στιγμιότυπο Οθόνης 2025 06 18 141450](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-06-18_geopolitical-spillover-assessing-the-impact-of-iran-israel-tensions-on-the-tanke_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_c94d83fa390f.png)
 
 > **Figure 4: Στιγμιότυπο Οθόνης 2025 06 18 141450**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://app.signalocean.com/tanker/dynamic/vessel_count_tanker_downloadable) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-06-18_geopolitical-spillover-assessing-the-impact-of-iran-israel-tensions-on-the-tanke_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_c94d83fa390f.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://app.signalocean.com/tanker/dynamic/vessel_count_tanker_downloadable) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-06-18_geopolitical-spillover-assessing-the-impact-of-iran-israel-tensions-on-the-tanke_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_c94d83fa390f.png)
 
 ‍
 
-![Στιγμιότυπο Οθόνης 2025 06 18 141459](assets/2025-06-18_geopolitical-spillover-assessing-the-impact-of-iran-israel-tensions-on-the-tanke_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_b8c90dfc6c8d.png)
+![Στιγμιότυπο Οθόνης 2025 06 18 141459](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-06-18_geopolitical-spillover-assessing-the-impact-of-iran-israel-tensions-on-the-tanke_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_b8c90dfc6c8d.png)
 
 > **Figure 5: Στιγμιότυπο Οθόνης 2025 06 18 141459**  
-> **Interactive Data & Source:** [Signal Ocean Dynamic Market Prices](https://app.signalocean.com/tanker/dynamic/market-prices-tankers-downloadable) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-06-18_geopolitical-spillover-assessing-the-impact-of-iran-israel-tensions-on-the-tanke_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_b8c90dfc6c8d.png)
+> **Interactive Data & Source:** [Signal Ocean Dynamic Market Prices](https://app.signalocean.com/tanker/dynamic/market-prices-tankers-downloadable) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-06-18_geopolitical-spillover-assessing-the-impact-of-iran-israel-tensions-on-the-tanke_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_b8c90dfc6c8d.png)
 
 ‍
 
@@ -96,10 +96,10 @@ Closure of the Strait of Hormuz could trigger oil price spikes exceeding $100 pe
 
 ## Ffa Market Signals a Sharp Rise Amid Middle East Tensions
 
-![Στιγμιότυπο Οθόνης 2025 06 18 141507](assets/2025-06-18_geopolitical-spillover-assessing-the-impact-of-iran-israel-tensions-on-the-tanke_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_77d07caf6186.png)
+![Στιγμιότυπο Οθόνης 2025 06 18 141507](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-06-18_geopolitical-spillover-assessing-the-impact-of-iran-israel-tensions-on-the-tanke_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_77d07caf6186.png)
 
 > **Figure 6: Στιγμιότυπο Οθόνης 2025 06 18 141507**  
-> **Interactive Data & Source:** [Signal Ocean Dynamic Market Prices](https://app.signalocean.com/tanker/dynamic/market-prices-tankers-downloadable) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-06-18_geopolitical-spillover-assessing-the-impact-of-iran-israel-tensions-on-the-tanke_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_77d07caf6186.png)
+> **Interactive Data & Source:** [Signal Ocean Dynamic Market Prices](https://app.signalocean.com/tanker/dynamic/market-prices-tankers-downloadable) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-06-18_geopolitical-spillover-assessing-the-impact-of-iran-israel-tensions-on-the-tanke_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_77d07caf6186.png)
 
 ‍
 
@@ -117,11 +117,11 @@ In a scenario where shipping passage disruptions occur, Iran could implement mea
 
 Iran, a significant global oil exporter, primarily sends its oil to China, a crucial partner in Asia. Notably, Iranian oil sales to China saw a rise in mid-March, preceding increased U.S. sanctions. This mid-March increase was the fourth set of sanctions Washington had placed on Iran's oil industry since February, when President Trump announced the reinstatement of a "maximum pressure" approach intended to completely stop the country's oil exports. Should Tehran escalate further by attacking tankers to disrupt shipping, similar to its actions during the Iran-Iraq war in the 1980s, Iranian oil revenues would suffer. This is because China is Iran's only major strategic oil trading partner, importing over 1 million barrels daily. In the case of an increased Iranian oil supply disruption, China could likely seek to strengthen its existing partnership with Brazilian oil companies; however, it is uncertain if this would be able to fully replace Iranian oil supplies.
 
-![- Signalocean Tanker Dashboard: Https://app](assets/2025-06-18_geopolitical-spillover-assessing-the-impact-of-iran-israel-tensions-on-the-tanke_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_efa72497d0e2.png)
+![- Signalocean Tanker Dashboard: Https://app](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-06-18_geopolitical-spillover-assessing-the-impact-of-iran-israel-tensions-on-the-tanke_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_efa72497d0e2.png)
 
 > **Figure 7: - Signalocean Tanker Dashboard: Https://app**  
 > *- SignalOcean Tanker Dashboard: https://app.signalocean.com/tanker/dynamic/oil_prices- Congestion Reports: https://app.signalocean.com/tanker/dynamic/congestion_report_tanker_download- VLCC Market Prices: https://app.signalocean.com/tanker/dynamic/market-prices-tankers-downloadable- EIA Data: https://www.eia.gov- JP Morgan Oil Forecast (2024-2026)*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://app.signalocean.com/tanker/dynamic/oilflows) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-06-18_geopolitical-spillover-assessing-the-impact-of-iran-israel-tensions-on-the-tanke_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_efa72497d0e2.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://app.signalocean.com/tanker/dynamic/oilflows) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-06-18_geopolitical-spillover-assessing-the-impact-of-iran-israel-tensions-on-the-tanke_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_efa72497d0e2.png)
 
 While the dashboard indicates that the**primary discharge area is "Singapore/Malaysia" (64.7%)**, this does**not reflect the final destination**of the cargo. In reality, most of this oil is**transshipped to China**, using Singapore and Malaysian ports as intermediate storage or blending points.
 ‍

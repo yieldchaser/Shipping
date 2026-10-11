@@ -51,9 +51,9 @@ The Baltic Exchange’s wet indices had a fairly quiet day, with the gauge for t
 
 Yesterday’s strong performance for the Baltic Exchange’s Capesize index has been followed by a solid start to the day for the segment in the FFA market. The Capesizes have had a volatile period over the past few months, with daily gains and losses often in the double-digit territory. The index has gained nearly 450 per cent since the end of August but remains 67 per cent below the level seen a year ago. However, yesterday’s robust performance reflected a high level of cargo order volumes for the day amid increasing Chinese demand.
 
-![Market Chart 1](assets/2022-12-08_shipfix-global-market-update_img_unnamed-2022-12-08t140724844_468a5b9219b3.png)
+![Market Chart 1](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-12-08_shipfix-global-market-update_img_unnamed-2022-12-08t140724844_468a5b9219b3.png)
 
 > **Figure 1: Market Chart 1**  
-> **Interactive Data & Source:** [Shipfix](https://shipfix.com/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-12-08_shipfix-global-market-update_img_unnamed-2022-12-08t140724844_468a5b9219b3.png)
+> **Interactive Data & Source:** [Shipfix](https://shipfix.com/) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-12-08_shipfix-global-market-update_img_unnamed-2022-12-08t140724844_468a5b9219b3.png)
 
 Data Source:[Shipfix](https://shipfix.com/)

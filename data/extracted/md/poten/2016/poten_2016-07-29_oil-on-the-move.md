@@ -36,10 +36,18 @@ On July 1, 2016, there were 676 VLCCs trading compared to 644 in July of 2015; a
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: Oil on the Move](../../../charts/poten/2016/poten_2016-07-29_oil-on-the-move_chart1.png)
+![Exhibit 1: Fig. 1: VLCC Voyages 1ˢᵗ Half 2015 vs 2016](../../../charts/poten/2016/poten_2016-07-29_oil-on-the-move_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2016/poten_2016-07-29_oil-on-the-move_chart1.png)
+> **Exhibit 1: Fig. 1: VLCC Voyages 1ˢᵗ Half 2015 vs 2016**  
+> Unit: No. Voyages · X-axis: Jan-15 to Jun-16  
+> Series: AG/EAST, WAF/EAST, AG/WEST, AG/IND, AG/US PAC, Other  
+> *Source: Apex/Lloyds List Intelligence*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2016/poten_2016-07-29_oil-on-the-move_chart1.png)
 
-![Exhibit 2: Oil on the Move](../../../charts/poten/2016/poten_2016-07-29_oil-on-the-move_chart2.png)
+![Exhibit 2: Fig. 2: Spot Fixtures vs Unreported Voyages For Selected Routes](../../../charts/poten/2016/poten_2016-07-29_oil-on-the-move_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2016/poten_2016-07-29_oil-on-the-move_chart2.png)
+> **Exhibit 2: Fig. 2: Spot Fixtures vs Unreported Voyages For Selected Routes**  
+> Unit: Voy./Fixtures · X-axis: WAF - East to AG -EAST  
+> Series: 2015 Fixtures, 2015 Unreported, 2016 Fixtures, 2016 Unreported  
+> *Source: Apex, Poten*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2016/poten_2016-07-29_oil-on-the-move_chart2.png)

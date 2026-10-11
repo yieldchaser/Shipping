@@ -23,10 +23,10 @@ source_file: "corpus/03-breakwave/insights/2022/2022-09-16_gold-slumps-amid-the-
 
 Commodity markets suffered further losses as mixed economic data did nothing to change expectations of further aggressive hikes by the Fed. A stronger USD also weighed on investor appetite.
 
-![1663278664913](assets/2022-09-16_gold-slumps-amid-the-spectre-of-more-aggressive-rate-hikes_img_1663278664913_6ff515366022.png)
+![1663278664913](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-09-16_gold-slumps-amid-the-spectre-of-more-aggressive-rate-hikes_img_1663278664913_6ff515366022.png)
 
 > **Figure 1: 1663278664913**  
-> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-09-16_gold-slumps-amid-the-spectre-of-more-aggressive-rate-hikes_img_1663278664913_6ff515366022.png)
+> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-09-16_gold-slumps-amid-the-spectre-of-more-aggressive-rate-hikes_img_1663278664913_6ff515366022.png)
 
 **Gold**slumped amid expectations of more aggressive rate hikes by the Fed. Spot gold fell more than 2% to USD1,660/oz after data showed demand for workers in the US remains strong. Retail sales were also reasonable. This is likely to keep the Fed on the tightening cycle for the foreseeable future. Rising geopolitical and economic risks are doing little to entice safe haven buying, with the USD remaining the asset of choice. Spot silver followed gold lower, while platinum and palladium were also under pressure.
 

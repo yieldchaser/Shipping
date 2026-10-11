@@ -20,19 +20,19 @@ source_file: "corpus/03-breakwave/insights/2025/2025-12-17_supply-recap-2025-the
 
 ---
 
-![Rgb Color Brs Shipbrokers Monogram L](assets/2025-12-17_supply-recap-2025-the-silent-hand_img_rgb-color-brs-shipbrokers-monogram-l_c365f35f1de5.png)
+![Rgb Color Brs Shipbrokers Monogram L](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-12-17_supply-recap-2025-the-silent-hand_img_rgb-color-brs-shipbrokers-monogram-l_c365f35f1de5.png)
 
 > **Figure 1: Rgb Color Brs Shipbrokers Monogram L**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-12-17_supply-recap-2025-the-silent-hand_img_rgb-color-brs-shipbrokers-monogram-l_c365f35f1de5.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-12-17_supply-recap-2025-the-silent-hand_img_rgb-color-brs-shipbrokers-monogram-l_c365f35f1de5.png)
 
 As we wind down an eventful 2025, and set aside geopolitics and trade tariffs, it is an opportune moment to recap how dry bulk supply fundamentals have evolved. From uneven congestion and reduced fleet speeds to an uncertain orderbook landscape, muted demolition and regulatory shifts, the dynamics (both striking and subtle) shaping transportation capacity have seldom been as varied or as interconnected as they are today.
 
 ### Laden Fleet Speed
 
-![Στιγμιότυπο Οθόνης 2025 12 17 120107](assets/2025-12-17_supply-recap-2025-the-silent-hand_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_a1ce22053c98.png)
+![Στιγμιότυπο Οθόνης 2025 12 17 120107](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-12-17_supply-recap-2025-the-silent-hand_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_a1ce22053c98.png)
 
 > **Figure 2: Στιγμιότυπο Οθόνης 2025 12 17 120107**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-12-17_supply-recap-2025-the-silent-hand_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_a1ce22053c98.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-12-17_supply-recap-2025-the-silent-hand_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_a1ce22053c98.png)
 
 Stricter environmental rules continue to incentivize slower speeds as a means of reducing greenhouse gas emissions. A sizeable share of the global fleet is ageing, less fuel efficient, and increasingly challenged to meet modern environmental standards when operating at higher speeds. Slowing down allows these vessels to remain compliant without incurring substantial retrofitting costs.
 
@@ -42,17 +42,17 @@ Meanwhile, the continued slowdown in Capesize speeds has coincided with the expa
 
 ### Congestion
 
-![Στιγμιότυπο Οθόνης 2025 12 17 120118](assets/2025-12-17_supply-recap-2025-the-silent-hand_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_bf76fe5a5a75.png)
+![Στιγμιότυπο Οθόνης 2025 12 17 120118](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-12-17_supply-recap-2025-the-silent-hand_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_bf76fe5a5a75.png)
 
 > **Figure 3: Στιγμιότυπο Οθόνης 2025 12 17 120118**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-12-17_supply-recap-2025-the-silent-hand_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_bf76fe5a5a75.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-12-17_supply-recap-2025-the-silent-hand_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_bf76fe5a5a75.png)
 
 Discharge congestion across all vessel sizes at Chinese ports declined by 18.5% year-on-year in 2025. This has quietly acted as a counterforce to tightening supply, releasing additional tonnage back into the dry bulk market and partially offsetting the utilization gains stemming from a slower fleet.
 
-![Στιγμιότυπο Οθόνης 2025 12 17 120128](assets/2025-12-17_supply-recap-2025-the-silent-hand_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_f4c2c3d4daab.png)
+![Στιγμιότυπο Οθόνης 2025 12 17 120128](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-12-17_supply-recap-2025-the-silent-hand_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_f4c2c3d4daab.png)
 
 > **Figure 4: Στιγμιότυπο Οθόνης 2025 12 17 120128**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-12-17_supply-recap-2025-the-silent-hand_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_f4c2c3d4daab.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-12-17_supply-recap-2025-the-silent-hand_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_f4c2c3d4daab.png)
 
 Congestion at Brazilian ports, primarily driven by agricultural loadings, has been slightly higher in 2025 compared with 2024. However, it remains far below the levels seen in 2023, when vessel queues exceeded 300 in October-November due to an unfavourable mix of insufficient inland barging capacity, Panama Canal delays and increased sugar stems. The absence of similarly severe congestion in Brazil this year has also partially limited the upside for ECSA fronthaul rates in 4Q25.
 
@@ -60,10 +60,10 @@ Guinea - Given the country’s underdeveloped infrastructure and limited early-s
 
 ### Ships in Shipyard
 
-![Στιγμιότυπο Οθόνης 2025 12 17 120140](assets/2025-12-17_supply-recap-2025-the-silent-hand_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_66c86a82c1f9.png)
+![Στιγμιότυπο Οθόνης 2025 12 17 120140](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-12-17_supply-recap-2025-the-silent-hand_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_66c86a82c1f9.png)
 
 > **Figure 5: Στιγμιότυπο Οθόνης 2025 12 17 120140**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-12-17_supply-recap-2025-the-silent-hand_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_66c86a82c1f9.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-12-17_supply-recap-2025-the-silent-hand_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_66c86a82c1f9.png)
 
 AXSMarine data shows that bulkers in shipyard as a percentage of the active fleet typically peak around 1.6 to 1.8%, a pattern most common during periods of soft freight rates when owners take the opportunity to complete mandatory work. For instance, this range was reached in the second half of 2022 following a strong first half. The same trend reappeared at the start of this year as owners sent more vessels for dry docking to cushion a difficult first quarter, before the ratio eased sharply once freight rates gained momentum through 2025.
 
@@ -71,10 +71,10 @@ AXSMarine data shows that bulkers in shipyard as a percentage of the active flee
 
 Deep Sea bulker contracting activity peaked last year. Capesize rose to 109 units in 2024 before more than halving in 2025. The same pattern is apparent for market darlings like Kamsarmaxes and Ultramaxes. Notably Kamsarmax contracting fell from 193 units in 2024 to below 50 so far this year, while Ultramax orders declined from 245 to under 100.
 
-![Στιγμιότυπο Οθόνης 2025 12 17 120151](assets/2025-12-17_supply-recap-2025-the-silent-hand_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_f9b8ed1ab560.png)
+![Στιγμιότυπο Οθόνης 2025 12 17 120151](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-12-17_supply-recap-2025-the-silent-hand_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_f9b8ed1ab560.png)
 
 > **Figure 6: Στιγμιότυπο Οθόνης 2025 12 17 120151**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-12-17_supply-recap-2025-the-silent-hand_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_f9b8ed1ab560.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-12-17_supply-recap-2025-the-silent-hand_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_f9b8ed1ab560.png)
 
 High yard prices and long lead times into 2028 to 2029 are steering many owners toward purchasing younger secondhand ships rather than costly newbuilds, especially in the absence of firm charter cover. In addition, this broad-based fall in bulker contracting can also be attributed to various external macro-policies that severely cloud forward visibility, from unpredictable trade tariffs rates, tit-for-tat economic sanctions to a clear pivot by US from the global decarbonization agenda. Ship owning and operating involves long-term planning and decision making since the economic life of vessels like bulkers extends to more than 20 years. However, the speed and direction of geopolitical developments are moving faster industry players can appropriately react.
 
@@ -84,10 +84,10 @@ For instance, the recent delay to the IMO’s Net-Zero Framework (NZF) appears t
 
 Scrapping activity has been underwhelming since 2018 with 2025 marking an eighth straight year of lower than average activity. The delay of IMO’s NZF framework is an immediate boost for owners of older conventionally fueled tonnage, whose trading life can now potentially be extended. This keeps veteran units in the active fleet and retains more surplus capacity than originally envisioned by bullish proponents of decarbonization rules.
 
-![Στιγμιότυπο Οθόνης 2025 12 17 120202](assets/2025-12-17_supply-recap-2025-the-silent-hand_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_d2ab49988046.png)
+![Στιγμιότυπο Οθόνης 2025 12 17 120202](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-12-17_supply-recap-2025-the-silent-hand_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_d2ab49988046.png)
 
 > **Figure 7: Στιγμιότυπο Οθόνης 2025 12 17 120202**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-12-17_supply-recap-2025-the-silent-hand_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_d2ab49988046.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-12-17_supply-recap-2025-the-silent-hand_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_d2ab49988046.png)
 
 In 2025, a sustained run of solid earnings (far above cash breakeven levels) since mid-summer has been a key driver, underpinning firmer interest in vessels around 15 years of age, especially Capesizes. The recent USTR/China port fee episode also underscored the strategic value of having non-Chinese built ships, particularly Japanese tonnage, to capitalise on any potential freight market dislocations. It also helps that a majority of bulkers built before 2010 originated from China’s Far East neighbour. Collectively, this reinforces the momentum to keep demolition muted in the foreseeable future.
 
@@ -95,10 +95,10 @@ In 2025, a sustained run of solid earnings (far above cash breakeven levels) sin
 
 Assuming demand stayed constant, any future fleet inefficiency (for example Panama/Suez canal disruption(s), USTR policy redrawing commercial zones, unexpected congestion or longer trades) will translate more quickly into tighter vessel availability.
 
-![Στιγμιότυπο Οθόνης 2025 12 17 120210](assets/2025-12-17_supply-recap-2025-the-silent-hand_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_15441acf4f8f.png)
+![Στιγμιότυπο Οθόνης 2025 12 17 120210](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-12-17_supply-recap-2025-the-silent-hand_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_15441acf4f8f.png)
 
 > **Figure 8: Στιγμιότυπο Οθόνης 2025 12 17 120210**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-12-17_supply-recap-2025-the-silent-hand_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_15441acf4f8f.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-12-17_supply-recap-2025-the-silent-hand_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_15441acf4f8f.png)
 
 Looking ahead, although ore carriers have kept their newbuilding deliveries restrained at under 50 units per year in recent years, forward deliveries are now set to rise from 2026 to 2028 off the low 2022 to 2025 base. Even so, the tentative orderbook for these larger units remains manageable given the expected increase in ton miles from longer haul Brazilian and Guinean ore flows. The more immediate concern lies with Kamsarmax and Ultramax segments, where delivery pressure in 2026 will coincide with murky near-term prospects for both coal and grain trades.
 

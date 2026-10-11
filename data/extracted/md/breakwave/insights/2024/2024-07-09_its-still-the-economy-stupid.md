@@ -74,10 +74,10 @@ And if the two European leaders will find it hard to deliver, re-industrialising
 
 In an economy that suffers from poor demographics (especially in Europe), where inflation remains sticky and where the fourth industrial revolution has yet to yield any tangible productivity gains (if anything, productivity is waning in the West), where, oh where, is the growth necessary to assuage voter frustration going to come from?
 
-![Market Chart 1](assets/2024-07-09_its-still-the-economy-stupid_img_image001_ad3dfd35aa06.png)
+![Market Chart 1](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-07-09_its-still-the-economy-stupid_img_image001_ad3dfd35aa06.png)
 
 > **Figure 1: Market Chart 1**  
-> **Interactive Data & Source:** [Ft](https://www.ft.com/content/96c77095-8a73-46c8-9b09-3ce5f9b2e956?sharetype=blocked) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-07-09_its-still-the-economy-stupid_img_image001_ad3dfd35aa06.png)
+> **Interactive Data & Source:** [Ft](https://www.ft.com/content/96c77095-8a73-46c8-9b09-3ce5f9b2e956?sharetype=blocked) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-07-09_its-still-the-economy-stupid_img_image001_ad3dfd35aa06.png)
 
 Either taxes or borrowing.
 
@@ -89,11 +89,11 @@ Certainly,[some taxes can be levied](https://www.ft.com/content/96c77095-8a73-46
 
 In an era of stagnant demographics and lower productivity, the best way to increase marginal wealth is to create it through debt, and not only for the West. Since Covid-19, debt in the US has increased by 2.7% per annum, in the UK 3.2%, in Japan 3.3% per annum (one way to get the economy out of its own “Japanisation” has been even more debt), and in China a whopping 8.1%. This later number, even if it’s halved, will bring the world’s second-largest economy’s debt to GDP at 106% by 2028, almost where the US was in the turn of the decade.
 
-![Thecatchphrasewas Widely Used in Bill Clinton’s the 1992](assets/2024-07-09_its-still-the-economy-stupid_img_image003_eb78fd00337e.jpg)
+![Thecatchphrasewas Widely Used in Bill Clinton’s the 1992](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-07-09_its-still-the-economy-stupid_img_image003_eb78fd00337e.jpg)
 
 > **Figure 2: Thecatchphrasewas Widely Used in Bill Clinton’s the 1992**  
 > **Thecatchphrasewas widely used in Bill Clinton’s the 1992 election campaign. Incumbent President George Bush, a war veteran, former Vice President and victor of the war in Iraq and the Cold War, was defeated to upstart Bill Clinton, who emphasised the economy. To this day it signifies the importance of economic realities as a factor in making political choices.*  
-> **Interactive Data & Source:** [En Wikipedia](https://en.wikipedia.org/wiki/It%27s_the_economy,_stupid) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-07-09_its-still-the-economy-stupid_img_image003_eb78fd00337e.jpg)
+> **Interactive Data & Source:** [En Wikipedia](https://en.wikipedia.org/wiki/It%27s_the_economy,_stupid) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-07-09_its-still-the-economy-stupid_img_image003_eb78fd00337e.jpg)
 
 Governments, long used to relying on central banks to create wealth enough to buy their own debt, are now facing an existential problem: inflation. Unlike the first rounds of QE, debt accumulation in the last few years has passed right through the economy, increasing the supply of money and creating inflation.
 

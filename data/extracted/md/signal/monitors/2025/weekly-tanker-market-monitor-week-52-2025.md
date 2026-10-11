@@ -41,30 +41,30 @@ Ballast positioning | Supply Vs Cargo Demand | Tonne-day dynamics
 **VLCC** MEG- China **Weaker**
 
 
-![Dirty Freight Market Sentiment](../../images/6954f1dcda38923316d0aba6_e2bc5a1e.png)
+![Dirty Freight Market Sentiment](../../../../../../corpus/07-signal/images/6954f1dcda38923316d0aba6_e2bc5a1e.png)
 
 > **Figure 1: Dirty Freight Market Sentiment**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-tanker-market-monitor-week-52-2025) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6954f1dcda38923316d0aba6_e2bc5a1e.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-tanker-market-monitor-week-52-2025) | [Local Asset](../../../../../../corpus/07-signal/images/6954f1dcda38923316d0aba6_e2bc5a1e.png)
 
 (Last update December 24th)
 
 **Suezmax** Black Sea - Med **Firmer**
 
 
-![Dirty Freight Market Sentiment](../../images/6954f1dcda38923316d0ab9d_d535d33f.png)
+![Dirty Freight Market Sentiment](../../../../../../corpus/07-signal/images/6954f1dcda38923316d0ab9d_d535d33f.png)
 
 > **Figure 2: Dirty Freight Market Sentiment**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-tanker-market-monitor-week-52-2025) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6954f1dcda38923316d0ab9d_d535d33f.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-tanker-market-monitor-week-52-2025) | [Local Asset](../../../../../../corpus/07-signal/images/6954f1dcda38923316d0ab9d_d535d33f.png)
 
 (Last update December 24th)
 
 **Aframax** Cross Med **Weaker**
 
 
-![Dirty Freight Market Sentiment](../../images/6954f1dcda38923316d0aba3_f0aae291.png)
+![Dirty Freight Market Sentiment](../../../../../../corpus/07-signal/images/6954f1dcda38923316d0aba3_f0aae291.png)
 
 > **Figure 3: Dirty Freight Market Sentiment**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-tanker-market-monitor-week-52-2025) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6954f1dcda38923316d0aba3_f0aae291.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-tanker-market-monitor-week-52-2025) | [Local Asset](../../../../../../corpus/07-signal/images/6954f1dcda38923316d0aba3_f0aae291.png)
 
 (Last update December 24th)
 
@@ -73,20 +73,20 @@ Ballast positioning | Supply Vs Cargo Demand | Tonne-day dynamics
 **MR** Sikka - Japan **Firmer**
 
 
-![Dirty Freight Market Sentiment](../../images/6954f1dcda38923316d0abaf_9f5f0284.png)
+![Dirty Freight Market Sentiment](../../../../../../corpus/07-signal/images/6954f1dcda38923316d0abaf_9f5f0284.png)
 
 > **Figure 4: Dirty Freight Market Sentiment**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-tanker-market-monitor-week-52-2025) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6954f1dcda38923316d0abaf_9f5f0284.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-tanker-market-monitor-week-52-2025) | [Local Asset](../../../../../../corpus/07-signal/images/6954f1dcda38923316d0abaf_9f5f0284.png)
 
 (Last update December 24th)
 
 **LR2** MEG - Japan **Steady**
 
 
-![Dirty Freight Market Sentiment](../../images/6954f1dcda38923316d0aba0_9d0bb15e.png)
+![Dirty Freight Market Sentiment](../../../../../../corpus/07-signal/images/6954f1dcda38923316d0aba0_9d0bb15e.png)
 
 > **Figure 5: Dirty Freight Market Sentiment**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-tanker-market-monitor-week-52-2025) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6954f1dcda38923316d0aba0_9d0bb15e.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-tanker-market-monitor-week-52-2025) | [Local Asset](../../../../../../corpus/07-signal/images/6954f1dcda38923316d0aba0_9d0bb15e.png)
 
 (Last update December 24th)
 
@@ -101,10 +101,10 @@ Ballast positioning | Supply Vs Cargo Demand | Tonne-day dynamics
 Signal [Assessment](https://app.signalocean.com/tanker/dynamic/market-prices-tankers) Overview
 
 
-![Dirty Market Signals (WS | Ballast Positioning | Demand Volumes)](../../images/6954f1dcda38923316d0ab9a_989f7e62.png)
+![Dirty Market Signals (WS | Ballast Positioning | Demand Volumes)](../../../../../../corpus/07-signal/images/6954f1dcda38923316d0ab9a_989f7e62.png)
 
 > **Figure 6: Dirty Market Signals (WS | Ballast Positioning | Demand Volumes)**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-tanker-market-monitor-week-52-2025) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6954f1dcda38923316d0ab9a_989f7e62.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-tanker-market-monitor-week-52-2025) | [Local Asset](../../../../../../corpus/07-signal/images/6954f1dcda38923316d0ab9a_989f7e62.png)
 
 
 ## Ballasters| AG & Wafrsupplybuilding
@@ -115,10 +115,10 @@ Signal [Assessment](https://app.signalocean.com/tanker/dynamic/market-prices-tan
 - An increase in VLCC ballast availability in AG and West Africa is weighing on freight momentum into year-end, keeping rates under pressure in the near term.
 
 
-![Ballasters| AG & Wafr Supply Building](../../images/6954f1dcda38923316d0aba9_99b7c66b.png)
+![Ballasters| AG & Wafr Supply Building](../../../../../../corpus/07-signal/images/6954f1dcda38923316d0aba9_99b7c66b.png)
 
 > **Figure 7: Ballasters| AG & Wafr Supply Building**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-tanker-market-monitor-week-52-2025) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6954f1dcda38923316d0aba9_99b7c66b.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-tanker-market-monitor-week-52-2025) | [Local Asset](../../../../../../corpus/07-signal/images/6954f1dcda38923316d0aba9_99b7c66b.png)
 
 **Gross Supply Vs Cargo Demand |TD3 & TD15**
 
@@ -126,16 +126,16 @@ Signal [Assessment](https://app.signalocean.com/tanker/dynamic/market-prices-tan
 - The primary concern for the VLCC market approaching year-end is the noticeable disparity between the gross vessel supply and the anticipated cargo demand. Forward curves indicate that the rate of supply growth is expected to outpace demand in the coming weeks, particularly on the TD3C and TD15 routes.
 
 
-![Ballasters| AG & Wafr Supply Building](../../images/6954f1dcda38923316d0abac_ad9242c1.png)
+![Ballasters| AG & Wafr Supply Building](../../../../../../corpus/07-signal/images/6954f1dcda38923316d0abac_ad9242c1.png)
 
 > **Figure 8: Ballasters| AG & Wafr Supply Building**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-tanker-market-monitor-week-52-2025) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6954f1dcda38923316d0abac_ad9242c1.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-tanker-market-monitor-week-52-2025) | [Local Asset](../../../../../../corpus/07-signal/images/6954f1dcda38923316d0abac_ad9242c1.png)
 
 
-![Ballasters| AG & Wafr Supply Building](../../images/6954f1dcda38923316d0abb2_e1760cc5.png)
+![Ballasters| AG & Wafr Supply Building](../../../../../../corpus/07-signal/images/6954f1dcda38923316d0abb2_e1760cc5.png)
 
 > **Figure 9: Ballasters| AG & Wafr Supply Building**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-tanker-market-monitor-week-52-2025) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6954f1dcda38923316d0abb2_e1760cc5.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-tanker-market-monitor-week-52-2025) | [Local Asset](../../../../../../corpus/07-signal/images/6954f1dcda38923316d0abb2_e1760cc5.png)
 
 
 ## Demand (Volume Loaded) | TD3C
@@ -146,10 +146,10 @@ Lack of incremental volume growth caps freight support
 - TD3C loaded volumes are tracking close to the long-term benchmark (~14.0 mbbl). With 2025 activity yet to show meaningful incremental volume growth, and tonne-day generation gradually easing as voyage durations normalise, the scope for sustained upward pressure on freight rates appears limited.
 
 
-![Demand (Volume Loaded) | TD3C](../../images/6954f1dcda38923316d0abb5_5dae7243.png)
+![Demand (Volume Loaded) | TD3C](../../../../../../corpus/07-signal/images/6954f1dcda38923316d0abb5_5dae7243.png)
 
 > **Figure 10: Demand (Volume Loaded) | TD3C**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-tanker-market-monitor-week-52-2025) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6954f1dcda38923316d0abb5_5dae7243.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-tanker-market-monitor-week-52-2025) | [Local Asset](../../../../../../corpus/07-signal/images/6954f1dcda38923316d0abb5_5dae7243.png)
 
 
 ## Vlcctonnedays | AG to Far East
@@ -160,10 +160,10 @@ Momentum fading after recent highs
 - VLCC tonne-days peaked earlier in the quarter and, while still at relatively high levels, have moderated in recent weeks. This easing in momentum has coincided with a softer rate environment toward year-end.
 
 
-![VLCC Tonne Days | AG to Far East](../../images/6954f1dcda38923316d0abb9_eeda3c75.png)
+![VLCC Tonne Days | AG to Far East](../../../../../../corpus/07-signal/images/6954f1dcda38923316d0abb9_eeda3c75.png)
 
 > **Figure 11: VLCC Tonne Days | AG to Far East**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-tanker-market-monitor-week-52-2025) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6954f1dcda38923316d0abb9_eeda3c75.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-tanker-market-monitor-week-52-2025) | [Local Asset](../../../../../../corpus/07-signal/images/6954f1dcda38923316d0abb9_eeda3c75.png)
 
 
 ## Firmer Tonne-Day Trends | Dirty Aframax & Clean Mr
@@ -174,18 +174,18 @@ Momentum fading after recent highs
 **DIRTY AFRAMAX**
 
 
-![Firmer Tonne-Day Trends | Dirty Aframax & Clean Mr](../../images/6954f1dcda38923316d0abbf_85ba1b15.png)
+![Firmer Tonne-Day Trends | Dirty Aframax & Clean Mr](../../../../../../corpus/07-signal/images/6954f1dcda38923316d0abbf_85ba1b15.png)
 
 > **Figure 12: Firmer Tonne-Day Trends | Dirty Aframax & Clean Mr**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-tanker-market-monitor-week-52-2025) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6954f1dcda38923316d0abbf_85ba1b15.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-tanker-market-monitor-week-52-2025) | [Local Asset](../../../../../../corpus/07-signal/images/6954f1dcda38923316d0abbf_85ba1b15.png)
 
 **CLEAN MR**
 
 
-![Firmer Tonne-Day Trends | Dirty Aframax & Clean Mr](../../images/6954f1dcda38923316d0abbc_a6c1083e.png)
+![Firmer Tonne-Day Trends | Dirty Aframax & Clean Mr](../../../../../../corpus/07-signal/images/6954f1dcda38923316d0abbc_a6c1083e.png)
 
 > **Figure 13: Firmer Tonne-Day Trends | Dirty Aframax & Clean Mr**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-tanker-market-monitor-week-52-2025) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6954f1dcda38923316d0abbc_a6c1083e.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-tanker-market-monitor-week-52-2025) | [Local Asset](../../../../../../corpus/07-signal/images/6954f1dcda38923316d0abbc_a6c1083e.png)
 
 
 ## Takeaway

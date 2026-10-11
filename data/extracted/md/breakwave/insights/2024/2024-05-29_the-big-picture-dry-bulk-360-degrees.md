@@ -38,10 +38,10 @@ This in part demonstrates the large contribution from**continuing expansion in n
 
 It should also be noted that the 7% yearly increase in China’s iron ore imports reported by customs authorities is not reflected in some shipment data, which record similar volumes for 2024, but fewer for 2023.
 
-![Market Chart 1](assets/2024-05-29_the-big-picture-dry-bulk-360-degrees_img_image028129_1b856bd09420.png)
+![Market Chart 1](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-05-29_the-big-picture-dry-bulk-360-degrees_img_image028129_1b856bd09420.png)
 
 > **Figure 1: Market Chart 1**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-05-29_the-big-picture-dry-bulk-360-degrees_img_image028129_1b856bd09420.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-05-29_the-big-picture-dry-bulk-360-degrees_img_image028129_1b856bd09420.png)
 
 ### What of the Well-Documented Real Estate Crisis in China?
 
@@ -67,10 +67,10 @@ Moreover, at 16.5m tonnes, the**Q1 was the strongest quarter for Chinese imports
 
 With April being a slower month for Chinese imports from India (confirmed at 2.6m tonnes) and monsoon rains likely to suppress Q3 volumes, near-term slowdown can be expected.
 
-![Market Chart 2](assets/2024-05-29_the-big-picture-dry-bulk-360-degrees_img_image128129_82ff5f7ba02f.png)
+![Market Chart 2](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-05-29_the-big-picture-dry-bulk-360-degrees_img_image128129_82ff5f7ba02f.png)
 
 > **Figure 2: Market Chart 2**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-05-29_the-big-picture-dry-bulk-360-degrees_img_image128129_82ff5f7ba02f.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-05-29_the-big-picture-dry-bulk-360-degrees_img_image128129_82ff5f7ba02f.png)
 
 It is certainly possible though that the**Chinese annual import total ex-India of 36.6m tonnes in 2023 could be surpassed**this year.
 

@@ -24,10 +24,10 @@ Renewed trade uncertainty pushed industrial commodities lower. Signs of tightnes
 
 *By*[*Daniel Hynes*](https://www.linkedin.com/in/dahynes/)
 
-![Στιγμιότυπο Οθόνης 2025 07 08 115304](assets/2025-07-08_rising-trade-tensions-push-metals-lower_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_e6a79d32b0f5.png)
+![Στιγμιότυπο Οθόνης 2025 07 08 115304](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-07-08_rising-trade-tensions-push-metals-lower_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_e6a79d32b0f5.png)
 
 > **Figure 1: Στιγμιότυπο Οθόνης 2025 07 08 115304**  
-> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-07-08_rising-trade-tensions-push-metals-lower_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_e6a79d32b0f5.png)
+> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-07-08_rising-trade-tensions-push-metals-lower_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_e6a79d32b0f5.png)
 
 ### Market Commentary
 
@@ -45,10 +45,10 @@ Renewed trade uncertainty pushed industrial commodities lower. Signs of tightnes
 
 China continues to ramp up its purchases of nickel metal. China’s imports of refined nickel has reached 78.7kt in the first five months of 2025, up 121% y/y. Beijing appears to be making use of the recent slump in prices, with reports that Beijing has added more than 100kt of nickel for its state reserves this year. The metal is key to its electric vehicle sector, via nickel manganese cobalt and nickel cobalt aluminium batteries.
 
-![Στιγμιότυπο Οθόνης 2025 07 08 115357](assets/2025-07-08_rising-trade-tensions-push-metals-lower_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_d0a3ee3d2fb3.png)
+![Στιγμιότυπο Οθόνης 2025 07 08 115357](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-07-08_rising-trade-tensions-push-metals-lower_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_d0a3ee3d2fb3.png)
 
 > **Figure 2: Στιγμιότυπο Οθόνης 2025 07 08 115357**  
-> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-07-08_rising-trade-tensions-push-metals-lower_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_d0a3ee3d2fb3.png)
+> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-07-08_rising-trade-tensions-push-metals-lower_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_d0a3ee3d2fb3.png)
 
 Data source:[Commodities Wrap](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI)
 

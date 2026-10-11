@@ -42,10 +42,10 @@ What is the most commonly transported cargo on oil tankers sailing southbound al
 - Like tankers moving northbound, crude is also the most common cargo for southbound journeys, but the most common refined products are residual fuel oils and naphtha.
 - Southbound flows are now largely dependent on cargo originating from Russia, as a result of the mass redirection of Russian Baltic/Black Sea crude to mainly India and China, and Russian fuel oil and naphtha to Singapore and East Asia.
 
-![Updated Red Sea](assets/2023-12-20_quick-qampa-red-sea-risks-for-oil-gas-and-tanker-markets_img_updated-red-sea_8f8dc591c21f.png)
+![Updated Red Sea](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-12-20_quick-qampa-red-sea-risks-for-oil-gas-and-tanker-markets_img_updated-red-sea_8f8dc591c21f.png)
 
 > **Figure 1: Updated Red Sea**  
-> **Interactive Data & Source:** [Vortexa](https://www.vortexa.com//oil-gas-data-traders-analysts-data-scientists?gclid=Cj0KCQjw8_qRBhCXARIsAE2AtRZKOvMnbilZ_6_91d7huSFFy71pWLrnPwGwOHVzXsmsG-1a1mZnQw8aAt89EALw_wcB&hsa_acc=1782073842&hsa_ad=548425387665&hsa_cam=14746637662&hsa_grp=125038601902&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_src=g&hsa_tgt=dsa-1431852288425&hsa_ver=3&utm_campaign=%5BCD%5D%20-%20DSA%20-%20EMEA&utm_medium=cpc&utm_medium=ppc&utm_source=google&utm_source=adwords&utm_term=) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-12-20_quick-qampa-red-sea-risks-for-oil-gas-and-tanker-markets_img_updated-red-sea_8f8dc591c21f.png)
+> **Interactive Data & Source:** [Vortexa](https://www.vortexa.com//oil-gas-data-traders-analysts-data-scientists?gclid=Cj0KCQjw8_qRBhCXARIsAE2AtRZKOvMnbilZ_6_91d7huSFFy71pWLrnPwGwOHVzXsmsG-1a1mZnQw8aAt89EALw_wcB&hsa_acc=1782073842&hsa_ad=548425387665&hsa_cam=14746637662&hsa_grp=125038601902&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_src=g&hsa_tgt=dsa-1431852288425&hsa_ver=3&utm_campaign=%5BCD%5D%20-%20DSA%20-%20EMEA&utm_medium=cpc&utm_medium=ppc&utm_source=google&utm_source=adwords&utm_term=) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-12-20_quick-qampa-red-sea-risks-for-oil-gas-and-tanker-markets_img_updated-red-sea_8f8dc591c21f.png)
 
 What would be the implications on freight rates, if there is a sustained disruption on the Red Sea transits?
 

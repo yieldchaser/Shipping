@@ -36,10 +36,10 @@ Global trade in 2024 demonstrated resilience but also highlighted shifting dynam
 
 While 2024 spot market performance underscored the volatility and unpredictability of the dry bulk market, it also highlighted the sector’s resilience in navigating complex global dynamics. The year’s contrasting halves – a strong opening and a subdued finish – offer lessons for the year ahead. As 2025 unfolds, the dry bulk sector faces a more tempered outlook than a year prior. Uncertainties surrounding inflation control in the United States and the efficacy of China’s economic interventions weigh heavily on sentiment. The global economy stands at a delicate crossroads, with risks such as geopolitical instability, shifting trade policies, and potential macroeconomic shocks posing significant challenges. Seasonal patterns are also unlikely to favor strong performance in the first quarter, adding to the cautious tone. However, as is typical in the volatile dry bulk market, sharp reversals and unexpected developments are to be expected, with the first quarter merely serving as the opening act in a long and unpredictable narrative.
 
-![Στιγμιότυπο Οθόνης 2025 01 13 150409](assets/2025-01-13_a-buoyant-market-environment_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_2ba5901331ea.png)
+![Στιγμιότυπο Οθόνης 2025 01 13 150409](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-01-13_a-buoyant-market-environment_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_2ba5901331ea.png)
 
 > **Figure 1: Στιγμιότυπο Οθόνης 2025 01 13 150409**  
-> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-01-13_a-buoyant-market-environment_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_2ba5901331ea.png)
+> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-01-13_a-buoyant-market-environment_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_2ba5901331ea.png)
 
 Data source:[Doric](https://www.doric.gr/)
 

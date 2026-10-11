@@ -36,10 +36,18 @@ While increased exports of condensates from the US to Asia would be a boost for 
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: Condensates to the Rescue?](../../../charts/poten/2014/poten_2014-10-17_condensates-to-the-rescue_chart1.png)
+![Exhibit 1: Global Condensate Production](../../../charts/poten/2014/poten_2014-10-17_condensates-to-the-rescue_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2014/poten_2014-10-17_condensates-to-the-rescue_chart1.png)
+> **Exhibit 1: Global Condensate Production**  
+> Unit: Mb/day · X-axis: 2013 to 2019  
+> Series: Global Condensate Production  
+> *Source: IEA*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2014/poten_2014-10-17_condensates-to-the-rescue_chart1.png)
 
-![Exhibit 2: Condensates to the Rescue?](../../../charts/poten/2014/poten_2014-10-17_condensates-to-the-rescue_chart2.png)
+![Exhibit 2: Main US Condensate Growth Areas](../../../charts/poten/2014/poten_2014-10-17_condensates-to-the-rescue_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2014/poten_2014-10-17_condensates-to-the-rescue_chart2.png)
+> **Exhibit 2: Main US Condensate Growth Areas**  
+> Unit: Mb/day · X-axis: 2012 to 2020  
+> Series: Eagle Ford, Permian, Bakken  
+> *Source: APEC*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2014/poten_2014-10-17_condensates-to-the-rescue_chart2.png)

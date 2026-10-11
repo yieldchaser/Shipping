@@ -23,10 +23,10 @@ source_file: "corpus/03-breakwave/insights/2023/2023-03-15_crude-oil-extends-los
 
 Flight to safety was the dominant theme, although panic selling of risk assets eased. Commodities remained under pressure amid concerns of further economic weakness.
 
-![1678828663758 (1)](assets/2023-03-15_crude-oil-extends-losses-amid-a-risk-off-tone-across-markets_img_167882866375828129_82acbdd88043.png)
+![1678828663758 (1)](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-03-15_crude-oil-extends-losses-amid-a-risk-off-tone-across-markets_img_167882866375828129_82acbdd88043.png)
 
 > **Figure 1: 1678828663758 (1)**  
-> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-03-15_crude-oil-extends-losses-amid-a-risk-off-tone-across-markets_img_167882866375828129_82acbdd88043.png)
+> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-03-15_crude-oil-extends-losses-amid-a-risk-off-tone-across-markets_img_167882866375828129_82acbdd88043.png)
 
 **Gold**was steady as investor demand eased back following a surge yesterday amid the US banking ructions. Treasury yields rebounded slightly, while the USD was mixed. The market’s expectation of a smaller Fed rate hike was supported by inflation data that came in as expected at 0.5% m/m for June. Nevertheless, demand for the safe haven asset remained strong. State Street’s SPDR Gold Shares, the biggest precious metals EFET, saw its holdings rise by more than 381koz yesterday. Even with these gains, investor allocation to gold remains low. We expect this banking turmoil to reinvigorate investor demand over the longer term.
 

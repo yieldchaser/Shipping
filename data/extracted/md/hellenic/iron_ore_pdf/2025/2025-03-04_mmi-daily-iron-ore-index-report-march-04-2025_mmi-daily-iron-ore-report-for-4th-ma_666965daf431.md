@@ -179,34 +179,36 @@ According to SMM shipping data, iron ore shipments from Australia and Brazil las
 | **Port Stock** | **0.01% Phosphorus** | Low Fe Grade 0.09\<P<0.1% | 5.00 | RMB/wet tonne | +0.00 |
 
 ## Historical Iron Ore Index Comparisons (USD/DMT)
+> **Estimate.** The report prints no numbers for this chart. Values are computed from the chart's vector geometry at each x-axis date label (calibrated on the printed axis ticks; typically within 1% of the axis range).
+
 | Date | IOSI62 (USD/DMT) | IOPi62 CFR Eq (USD/DMT) | IOSI65 (USD/DMT) | IOPi65 CFR Eq (USD/DMT) |
 | :--- | :--- | :--- | :--- | :--- |
-| 4-Jan-21 | 160.00 | 170.00 | 175.00 | 165.00 |
-| 4-Mar-21 | 185.00 | 220.00 | 270.00 | 265.00 |
-| 4-May-21 | 190.00 | 230.00 | 275.00 | 270.00 |
-| 4-Jul-21 | 130.00 | 140.00 | 145.00 | 140.00 |
-| 4-Sep-21 | 120.00 | 130.00 | 135.00 | 130.00 |
-| 4-Nov-21 | 110.00 | 120.00 | 125.00 | 120.00 |
-| 4-Jan-22 | 115.00 | 125.00 | 130.00 | 125.00 |
-| 4-Mar-22 | 140.00 | 150.00 | 155.00 | 150.00 |
-| 4-May-22 | 135.00 | 145.00 | 140.00 | 135.00 |
-| 4-Jul-22 | 100.00 | 110.00 | 115.00 | 110.00 |
-| 4-Sep-22 | 105.00 | 115.00 | 110.00 | 105.00 |
-| 4-Nov-22 | 110.00 | 120.00 | 115.00 | 110.00 |
-| 4-Jan-23 | 120.00 | 130.00 | 125.00 | 120.00 |
-| 4-Mar-23 | 130.00 | 140.00 | 135.00 | 130.00 |
-| 4-May-23 | 125.00 | 135.00 | 130.00 | 125.00 |
-| 4-Jul-23 | 115.00 | 125.00 | 120.00 | 115.00 |
-| 4-Sep-23 | 120.00 | 130.00 | 125.00 | 120.00 |
-| 4-Nov-23 | 135.00 | 145.00 | 140.00 | 135.00 |
-| 4-Jan-24 | 140.00 | 150.00 | 155.00 | 150.00 |
-| 4-Mar-24 | 135.00 | 145.00 | 140.00 | 135.00 |
-| 4-May-24 | 125.00 | 135.00 | 130.00 | 125.00 |
-| 4-Jul-24 | 115.00 | 125.00 | 120.00 | 115.00 |
-| 4-Sep-24 | 110.00 | 120.00 | 115.00 | 110.00 |
-| 4-Nov-24 | 105.00 | 115.00 | 110.00 | 105.00 |
-| 4-Jan-25 | 100.00 | 110.00 | 105.00 | 100.00 |
-| 4-Mar-25 | 105.00 | 115.00 | 110.00 | 105.00 |
+| 4-Jan-21 | 169.49 | 163.33 | 179.76 | 176.66 |
+| 4-Mar-21 | 178.71 | 173.61 | 197.18 | 199.24 |
+| 4-May-21 | 192.05 | 195.09 | 228.97 | 232.02 |
+| 4-Jul-21 | 217.69 | 231.02 | 252.57 | 262.81 |
+| 4-Sep-21 | 154.10 | 152.05 | 182.82 | 186.93 |
+| 4-Nov-21 | 102.82 | 115.11 | 120.25 | 143.83 |
+| 4-Jan-22 | 127.45 | 118.21 | 135.65 | 147.96 |
+| 4-Mar-22 | 136.64 | 138.69 | 166.40 | 169.46 |
+| 4-May-22 | 147.94 | 144.35 | 172.56 | 168.97 |
+| 4-Jul-22 | 123.33 | 116.16 | 137.70 | 139.75 |
+| 4-Sep-22 | 103.85 | 99.74 | 112.05 | 118.20 |
+| 4-Nov-22 | 87.43 | 85.38 | 96.66 | 112.05 |
+| 4-Jan-23 | 113.08 | 114.10 | 124.38 | 130.50 |
+| 4-Mar-23 | 128.46 | 126.40 | 142.82 | 141.79 |
+| 4-May-23 | 112.15 | 111.02 | 118.23 | 126.41 |
+| 4-Jul-23 | 100.83 | 115.13 | 119.23 | 129.49 |
+| 4-Sep-23 | 105.89 | 120.26 | 126.41 | 135.64 |
+| 4-Nov-23 | 114.10 | 126.41 | 139.75 | 140.77 |
+| 4-Jan-24 | 142.81 | 139.74 | 167.43 | 155.12 |
+| 4-Mar-24 | 124.36 | 121.30 | 157.19 | 136.68 |
+| 4-May-24 | 120.76 | 118.20 | 134.60 | 133.58 |
+| 4-Jul-24 | 111.02 | 109.99 | 125.38 | 125.38 |
+| 4-Sep-24 | 94.62 | 93.59 | 100.78 | 107.96 |
+| 4-Nov-24 | 102.82 | 100.77 | 118.21 | 115.13 |
+| 4-Jan-25 | 99.73 | 99.73 | 109.99 | 114.10 |
+| 4-Mar-25 | - | - | - | - |
 
 ---
 
@@ -231,6 +233,8 @@ According to SMM shipping data, iron ore shipments from Australia and Brazil las
 | **SGX** | **Mar. 25** | USD/DMT | 100.70 | +0.85 | +0.85% | 9.47 | 35.37 | 99.35 | 101.10 |
 
 ## Dry Bulk Freight Rates Historical Line Data (USD/MT)
+> **Approximate.** The report prints no numbers for this chart. Values were read visually from the chart image by the parser and are rough estimates.
+
 | Date | C5 W. Australia - Qingdao (USD/MT) | C3 Tubarao - Qingdao (USD/MT) |
 | :--- | :--- | :--- |
 | 4-Jan-21 | 15.00 | 18.00 |
@@ -257,27 +261,29 @@ According to SMM shipping data, iron ore shipments from Australia and Brazil las
 | 4-Jan-25 | 8.50 | 12.00 |
 
 ## Total China Iron Ore Import Volumes (Million Tonnes)
+> **Estimate.** The report prints no numbers for this chart. Values are computed from the chart's vector geometry at each x-axis date label (calibrated on the printed axis ticks; typically within 1% of the axis range).
+
 | Month / Period | Import Volume (Million Tonnes) |
 | :--- | :--- |
-| Jun-23 | 96.00 |
-| Jul-23 | 94.00 |
-| Aug-23 | 106.00 |
-| Sep-23 | 101.00 |
-| Oct-23 | 99.00 |
-| Nov-23 | 103.00 |
-| Dec-23 | 100.00 |
+| Jun-23 | 95.49 |
+| Jul-23 | 93.51 |
+| Aug-23 | 106.49 |
+| Sep-23 | 101.21 |
+| Oct-23 | 99.45 |
+| Nov-23 | 102.75 |
+| Dec-23 | 100.77 |
 | Jan-24 | 112.00 |
-| Feb-24 | 97.00 |
-| Mar-24 | 101.00 |
-| Apr-24 | 103.00 |
-| May-24 | 102.00 |
-| Jun-24 | 97.00 |
-| Jul-24 | 102.00 |
-| Aug-24 | 104.00 |
-| Sep-24 | 104.00 |
-| Oct-24 | 102.00 |
-| Nov-24 | 101.00 |
-| Dec-24 | 112.00 |
+| Feb-24 | 97.47 |
+| Mar-24 | 100.77 |
+| Apr-24 | 101.87 |
+| May-24 | 102.09 |
+| Jun-24 | 97.69 |
+| Jul-24 | 102.75 |
+| Aug-24 | 101.43 |
+| Sep-24 | 104.07 |
+| Oct-24 | 103.85 |
+| Nov-24 | 101.87 |
+| Dec-24 | 112.44 |
 
 ---
 

@@ -24,17 +24,17 @@ source_file: "corpus/03-breakwave/insights/2026/2026-08-06_chinas-coal-import-pr
 
 As we have continued to discuss in Commodore Research's Weekly Executive Reports and Weekly China Reports, it has remained incredibly helpful for the dry bulk market that coal production in China is coming under significant government-mandated pressure following May’s catastrophic coal mine accident.
 
-![Chart 1](assets/2026-08-06_chinas-coal-import-prospects-remain-very-bullish_img_chart1_90877a3247b7.jpg)
+![Chart 1](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-08-06_chinas-coal-import-prospects-remain-very-bullish_img_chart1_90877a3247b7.jpg)
 
 > **Figure 1: Chart 1**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-08-06_chinas-coal-import-prospects-remain-very-bullish_img_chart1_90877a3247b7.jpg)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-08-06_chinas-coal-import-prospects-remain-very-bullish_img_chart1_90877a3247b7.jpg)
 
 Also very helpful is that thermal coal burn is surging. Thermal coal burn at China’s six major power plants has set another 2026 record this week and remains well above last year's burn level. July started out slow, but this summer continues to experience a drastic change. Overall, we remain very bullish for China's near-term coal import prospects.
 
-![Chart 2](assets/2026-08-06_chinas-coal-import-prospects-remain-very-bullish_img_chart2_d2e4b53a5f56.jpg)
+![Chart 2](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-08-06_chinas-coal-import-prospects-remain-very-bullish_img_chart2_d2e4b53a5f56.jpg)
 
 > **Figure 2: Chart 2**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-08-06_chinas-coal-import-prospects-remain-very-bullish_img_chart2_d2e4b53a5f56.jpg)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-08-06_chinas-coal-import-prospects-remain-very-bullish_img_chart2_d2e4b53a5f56.jpg)
 
 ---
 

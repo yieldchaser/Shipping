@@ -32,6 +32,9 @@ With incremental cargoes moving from the US Gulf to the Caribbean and Latin Amer
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: Thinking Outside the Triangle](../../../charts/poten/2014/poten_2014-04-17_thinking-outside-the-triangle_chart1.png)
+![Exhibit 1: Transatlantic MR Time Charter Equivalents](../../../charts/poten/2014/poten_2014-04-17_thinking-outside-the-triangle_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2014/poten_2014-04-17_thinking-outside-the-triangle_chart1.png)
+> **Exhibit 1: Transatlantic MR Time Charter Equivalents**  
+> Unit: $/day · X-axis: Jan-09 to Jan-14  
+> Series: Triangulation, UKC-USAC (37kt), USG-UKC (38kt)  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2014/poten_2014-04-17_thinking-outside-the-triangle_chart1.png)

@@ -31,10 +31,10 @@ tags:
 - Indonesia–China coal trade weakness is negatively impacting Panamax tonne-mile demand, particularly on northern discharge routes.
 
 
-![6a0583c2c1763411fa5a290d 87341def](../../images/6a0583c2c1763411fa5a290d_87341def.png)
+![6a0583c2c1763411fa5a290d 87341def](../../../../../../corpus/07-signal/images/6a0583c2c1763411fa5a290d_87341def.png)
 
 > **Figure 1: 6a0583c2c1763411fa5a290d 87341def**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-dry-market-monitor-week-20-2026) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6a0583c2c1763411fa5a290d_87341def.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-dry-market-monitor-week-20-2026) | [Local Asset](../../../../../../corpus/07-signal/images/6a0583c2c1763411fa5a290d_87341def.png)
 
 
 ## Key Takeaways
@@ -49,10 +49,10 @@ All data and commentary reflect market conditions as of [ 13 May 2026], unless o
 ## Spotlight | China's Appetite Forindonesian Coalhits New Low
 
 
-![Spotlight | China's Appetite for Indonesian Coal Hits New Low](../../images/6a0583c2c1763411fa5a2904_38f1b676.png)
+![Spotlight | China's Appetite for Indonesian Coal Hits New Low](../../../../../../corpus/07-signal/images/6a0583c2c1763411fa5a2904_38f1b676.png)
 
 > **Figure 2: Spotlight | China's Appetite for Indonesian Coal Hits New Low**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-dry-market-monitor-week-20-2026) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6a0583c2c1763411fa5a2904_38f1b676.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-dry-market-monitor-week-20-2026) | [Local Asset](../../../../../../corpus/07-signal/images/6a0583c2c1763411fa5a2904_38f1b676.png)
 
 
 ## Flow Trend
@@ -62,10 +62,10 @@ Indonesia-to-China seaborne thermal coal flows declined 11.0% year-over-year to 
 The weakness was concentrated in the first half of 2025, while the second half showed a partial recovery. November and December 2025 volumes exceeded the same months of 2024 by approximately 10%. However, April 2026 flows remained subdued at 11.6 Mt, indicating continued weakness in Chinese imports of Indonesian thermal coal.
 
 
-![Flow Trend](../../images/6a0583c2c1763411fa5a2907_b8308cce.png)
+![Flow Trend](../../../../../../corpus/07-signal/images/6a0583c2c1763411fa5a2907_b8308cce.png)
 
 > **Figure 3: Flow Trend**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-dry-market-monitor-week-20-2026) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6a0583c2c1763411fa5a2907_b8308cce.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-dry-market-monitor-week-20-2026) | [Local Asset](../../../../../../corpus/07-signal/images/6a0583c2c1763411fa5a2907_b8308cce.png)
 
 
 ## Main Driver
@@ -85,13 +85,13 @@ Sangatta 15-day accumulated rainfall data (East Kalimantan) shows the La Niña c
 ![The Weather Angle](../../images/6a05837b3603e49e57b86718_Screenshot 2026-05-14 at 08.40.11.png)
 
 > **Figure 4: The Weather Angle**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-dry-market-monitor-week-20-2026) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6a05837b3603e49e57b86718_Screenshot 2026-05-14 at 08.40.11.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-dry-market-monitor-week-20-2026) | [Local Asset](../../../../../../corpus/07-signal/images/6a05837b3603e49e57b86718_Screenshot%202026-05-14%20at%2008.40.11.png)
 
 
-![The Weather Angle](../../images/6a0583c2c1763411fa5a290a_4289e4f2.png)
+![The Weather Angle](../../../../../../corpus/07-signal/images/6a0583c2c1763411fa5a290a_4289e4f2.png)
 
 > **Figure 5: The Weather Angle**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-dry-market-monitor-week-20-2026) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6a0583c2c1763411fa5a290a_4289e4f2.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-dry-market-monitor-week-20-2026) | [Local Asset](../../../../../../corpus/07-signal/images/6a0583c2c1763411fa5a290a_4289e4f2.png)
 
 
 ## Did La Niña Disrupt Export Flows?
@@ -107,7 +107,7 @@ This divergence of weather patterns and trade flows is further evidenced by the 
 ![Two Snapshots of the Indonesian Daily Export Rate:](../../images/6a05839eab7f3fec2e2bcd03_Screenshot 2026-05-14 at 09.10.54.png)
 
 > **Figure 6: Two Snapshots of the Indonesian Daily Export Rate:**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-dry-market-monitor-week-20-2026) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6a05839eab7f3fec2e2bcd03_Screenshot 2026-05-14 at 09.10.54.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-dry-market-monitor-week-20-2026) | [Local Asset](../../../../../../corpus/07-signal/images/6a05839eab7f3fec2e2bcd03_Screenshot%202026-05-14%20at%2009.10.54.png)
 
 Signal Ocean AXS data indicates a supply-side recovery as daily Indonesian export rates rose from 697 kt/day in March to 753 kt/day in early May 2026. However, when compared to the 818 kt/day recorded in April 2024 (under much drier conditions of 22 mm of rain), a persistent 65 kt/day gap remains, suggesting that demand-side weakness may still be limiting export recovery.
 

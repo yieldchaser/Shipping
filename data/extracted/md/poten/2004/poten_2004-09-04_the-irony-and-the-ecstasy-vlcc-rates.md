@@ -68,6 +68,12 @@ Yes, there are overall more vessels being fixed indicating higher levels of expo
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: The Irony and The Ecstasy VLCC Rates:](../../../charts/poten/2004/poten_2004-09-04_the-irony-and-the-ecstasy-vlcc-rates_chart1.png)
+> **Chart on PDF page 1: VLCC Rates WAF-US (For July-Sept)**  
+> Unit: WS Rates · X-axis: 01-Jul to 04-Sep  
+> Series: WS Rates  
+> *No image crop of this chart was saved; caption read from the PDF.*
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2004/poten_2004-09-04_the-irony-and-the-ecstasy-vlcc-rates_chart1.png)
+> **Chart on PDF page 3: Monthly VLCC Fixture Activity**  
+> Unit: # Fixtures · X-axis: Jan to Aug  
+> Series: 2004, 2003  
+> *No image crop of this chart was saved; caption read from the PDF.*

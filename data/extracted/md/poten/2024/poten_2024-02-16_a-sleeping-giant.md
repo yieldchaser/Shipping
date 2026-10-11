@@ -32,10 +32,17 @@ Indonesia's oil demand is expected to continue to increase, driven by economic g
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: A Sleeping Giant](../../../charts/poten/2024/poten_2024-02-16_a-sleeping-giant_chart1.png)
+![Exhibit 1: Indonesia: Crude Oil Production and Imports And Refinery Intake](../../../charts/poten/2024/poten_2024-02-16_a-sleeping-giant_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2024/poten_2024-02-16_a-sleeping-giant_chart1.png)
+> **Exhibit 1: Indonesia: Crude Oil Production and Imports And Refinery Intake**  
+> Unit: Kb/d · X-axis: Jan-17 to Oct-23  
+> Series: Production, Exports, Refinery Intake, Imports  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2024/poten_2024-02-16_a-sleeping-giant_chart1.png)
 
-![Exhibit 2: A Sleeping Giant](../../../charts/poten/2024/poten_2024-02-16_a-sleeping-giant_chart2.png)
+![Exhibit 2: Indonesia: Clean Products Imports by Origin](../../../charts/poten/2024/poten_2024-02-16_a-sleeping-giant_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2024/poten_2024-02-16_a-sleeping-giant_chart2.png)
+> **Exhibit 2: Indonesia: Clean Products Imports by Origin**  
+> Unit: Kb/d · X-axis: Jan-21 to Jan-24  
+> Series: Singapore, Malaysia, Saudi Arabia, India, China, South Korea, United Arab Emirates, Oman, Other  
+> *Source: Jodi / Vortexa*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2024/poten_2024-02-16_a-sleeping-giant_chart2.png)

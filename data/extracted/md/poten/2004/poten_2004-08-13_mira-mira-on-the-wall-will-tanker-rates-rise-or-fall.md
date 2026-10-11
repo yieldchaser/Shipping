@@ -44,6 +44,14 @@ The tanker market will most certainly feel the drop if 2.3 million barrels per d
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: Mira Mira on the Wall: Will Tanker Rates Rise or Fall?](../../../charts/poten/2004/poten_2004-08-13_mira-mira-on-the-wall-will-tanker-rates-rise-or-fall_chart1.png)
+> **Chart on PDF page 1: Venezuelan Production & U.S. Imports from Venezuela**  
+> Unit: MM Bpd · X-axis: 1990 to 2002  
+> Series: Venezuelan production, Crude Imports into U.S.  
+> *Source: Poten/EIA*  
+> *No image crop of this chart was saved; caption read from the PDF.*
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2004/poten_2004-08-13_mira-mira-on-the-wall-will-tanker-rates-rise-or-fall_chart1.png)
+> **Chart on PDF page 3: Tanker Spot Rates Carib/US**  
+> Unit: WS Rates · X-axis: Jan-00 to Mar-04  
+> Series: Handymax, Aframax  
+> *Source: Poten & Partners*  
+> *No image crop of this chart was saved; caption read from the PDF.*

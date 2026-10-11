@@ -196,46 +196,53 @@ DCE iron ore futures rose by 1.41% today, the main contract closed 790. The trad
 | **SGX** | **Jan. 23** | USD/DMT | 108.85 | +2.70 | +2.54% | 5.87 | 30.76 | 105.70 | 109.15 |
 
 ## Dry Bulk Freight Rates Historical Line Data (USD/MT)
+> **Estimate.** The report prints no numbers for this chart. Values are computed from the chart's vector geometry at each x-axis date label (calibrated on the printed axis ticks; typically within 1% of the axis range).
+
 | Date | C5 W. Australia - Qingdao (USD/MT) | C3 Tubarao - Qingdao (USD/MT) |
 | :--- | :--- | :--- |
-| 4-Jan-21 | 8.00 | 18.00 |
-| 4-Feb-21 | 7.00 | 20.00 |
-| 4-Mar-21 | 9.00 | 25.00 |
-| 4-Apr-21 | 10.00 | 30.00 |
-| 4-May-21 | 12.00 | 35.00 |
-| 4-Jun-21 | 15.00 | 32.00 |
-| 4-Jul-21 | 18.00 | 28.00 |
-| 4-Aug-21 | 20.00 | 35.00 |
-| 4-Oct-21 | 22.00 | 49.00 |
-| 4-Nov-21 | 18.00 | 38.00 |
-| 4-Dec-21 | 15.00 | 30.00 |
-| 4-Jan-22 | 10.00 | 18.00 |
-| 4-Feb-22 | 9.00 | 20.00 |
-| 4-Mar-22 | 10.00 | 22.00 |
-| 4-Apr-22 | 9.00 | 25.00 |
-| 4-May-22 | 8.00 | 38.00 |
-| 4-Jun-22 | 8.00 | 30.00 |
-| 4-Jul-22 | 8.00 | 25.00 |
-| 4-Sep-22 | 9.00 | 20.00 |
-| 4-Oct-22 | 9.00 | 18.00 |
-| 4-Dec-22 | 9.00 | 18.00 |
+| 4-Jan-21 | 8.34 | 15.83 |
+| 4-Feb-21 | 6.11 | 16.67 |
+| 4-Mar-21 | 8.33 | 16.39 |
+| 4-Apr-21 | 10.28 | 21.53 |
+| 4-May-21 | 13.33 | 28.89 |
+| 4-Jun-21 | 10.28 | 22.78 |
+| 4-Jul-21 | 11.02 | 25.65 |
+| 4-Aug-21 | 14.45 | 28.89 |
+| 4-Sep-21 | 13.61 | 33.05 |
+| 4-Oct-21 | 22.23 | 45.30 |
+| 4-Nov-21 | 10.56 | 24.72 |
+| 4-Dec-21 | 13.06 | 29.17 |
+| 4-Jan-22 | 8.92 | 22.13 |
+| 4-Feb-22 | 7.78 | 20.56 |
+| 4-Mar-22 | 10.28 | 23.61 |
+| 4-Apr-22 | 10.28 | 26.11 |
+| 4-May-22 | 11.94 | 25.83 |
+| 4-Jun-22 | 13.33 | 32.64 |
+| 4-Jul-22 | 11.11 | 30.28 |
+| 4-Aug-22 | 7.78 | 22.50 |
+| 4-Sep-22 | 8.89 | 19.86 |
+| 4-Oct-22 | 8.34 | 23.06 |
+| 4-Nov-22 | 8.06 | 19.72 |
+| 4-Dec-22 | 8.33 | 19.63 |
 
 ## Total China Iron Ore Import Volumes (Million Tonnes)
+> **Estimate.** The report prints no numbers for this chart. Values are computed from the chart's vector geometry at each x-axis date label (calibrated on the printed axis ticks; typically within 1% of the axis range).
+
 | Month / Period | Import Volume (Million Tonnes) |
 | :--- | :--- |
-| Oct-21 | 92.00 |
-| Nov-21 | 105.00 |
-| Dec-21 | 86.00 |
-| Jan-22 | 96.00 |
-| Feb-22 | 85.00 |
-| Mar-22 | 86.00 |
-| Apr-22 | 85.00 |
-| May-22 | 93.00 |
-| Jun-22 | 88.00 |
-| Jul-22 | 92.00 |
-| Aug-22 | 97.00 |
-| Sep-22 | 100.00 |
-| Oct-22 | 95.00 |
+| Oct-21 | 91.73 |
+| Nov-21 | 105.05 |
+| Dec-21 | 86.05 |
+| Jan-22 | 95.23 |
+| Feb-22 | 86.05 |
+| Mar-22 | 87.36 |
+| Apr-22 | 86.05 |
+| May-22 | 92.61 |
+| Jun-22 | 88.89 |
+| Jul-22 | 91.29 |
+| Aug-22 | 96.32 |
+| Sep-22 | 99.81 |
+| Oct-22 | 95.01 |
 
 ---
 

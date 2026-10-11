@@ -58,6 +58,26 @@ With such a commanding share of the market, it is difficult to see how 37,000 to
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: Lots of Cargoes Transatlantic Clean](../../../charts/poten/2005/poten_2005-11-18_lots-of-cargoes-transatlantic-clean_chart1.png)
+> **Chart on PDF page 1: Transatlantic Clean Cargo Fixture Activity**  
+> Unit: # Fixtures · X-axis: 1995 to 2005  
+> Series: Transatlantic Clean Cargo Fixture Activity  
+> *Source: Poten & Partners*  
+> *No image crop of this chart was saved; caption read from the PDF.*
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2005/poten_2005-11-18_lots-of-cargoes-transatlantic-clean_chart1.png)
+> **Chart on PDF page 2: Fixture Activity by Cargo Lot Size**  
+> Unit: # Fixtures · X-axis: 1995 to 2005  
+> Series: >70, 60-70, 50-60, 40-50, 35-40, 30-35, 25-30, <25  
+> *Source: Poten & Partners*  
+> *No image crop of this chart was saved; caption read from the PDF.*
+
+> **Chart on PDF page 3: Cargo Lot Size Distribution Transatlantic Clean Cargoes**  
+> Unit: % · X-axis: 2000 to 2005  
+> Series: 33,000, 37,000, >40,000, Other  
+> *Source: Poten & Partners*  
+> *No image crop of this chart was saved; caption read from the PDF.*
+
+> **Chart on PDF page 3: Growth of Product Carrier Cargo Capacity & Deadweight**  
+> Unit: CBM | Deadweight · X-axis: 1973 to 2003  
+> Series: Average Cargo Capacity CBM, Average Deadweight  
+> *Source: Poten & Partners*  
+> *No image crop of this chart was saved; caption read from the PDF.*

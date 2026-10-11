@@ -30,10 +30,18 @@ The bottom-line is: it will be 'all hands on deck' for the producers with spare 
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: Sanctions Extreme Edition](../../../charts/poten/2018/poten_2018-07-06_sanctions-extreme-edition_chart1.png)
+![Exhibit 1: Iran Crude Oil Exports by Destination](../../../charts/poten/2018/poten_2018-07-06_sanctions-extreme-edition_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2018/poten_2018-07-06_sanctions-extreme-edition_chart1.png)
+> **Exhibit 1: Iran Crude Oil Exports by Destination**  
+> Unit: Kb/d · X-axis: Jan-14 to Apr-18  
+> Series: China, India, Korea, Other Asia, Turkey, Other Med, UKC, Other  
+> *Source: Lloyd’s List Intelligence*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2018/poten_2018-07-06_sanctions-extreme-edition_chart1.png)
 
-![Exhibit 2: Sanctions Extreme Edition](../../../charts/poten/2018/poten_2018-07-06_sanctions-extreme-edition_chart2.png)
+![Exhibit 2: Current Production and Estimated Spare Capacity](../../../charts/poten/2018/poten_2018-07-06_sanctions-extreme-edition_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2018/poten_2018-07-06_sanctions-extreme-edition_chart2.png)
+> **Exhibit 2: Current Production and Estimated Spare Capacity**  
+> Unit: Mb/d · X-axis: OPEC: Algeria to Russia  
+> Series: Jun Production, Spare Capacity  
+> *Source: Bloomberg, IEA*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2018/poten_2018-07-06_sanctions-extreme-edition_chart2.png)

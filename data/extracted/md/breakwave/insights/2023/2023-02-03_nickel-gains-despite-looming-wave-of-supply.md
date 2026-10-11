@@ -23,14 +23,14 @@ source_file: "corpus/03-breakwave/insights/2023/2023-02-03_nickel-gains-despite-
 
 Markets remained range bound as the post-FOMC rally petered out on a stronger USD. Doubts on the strength of China’s reopening weighed on sentiment.
 
-![1675373310984](assets/2023-02-03_nickel-gains-despite-looming-wave-of-supply_img_1675373310984_898a6f7f1877.png)
+![1675373310984](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-02-03_nickel-gains-despite-looming-wave-of-supply_img_1675373310984_898a6f7f1877.png)
 
 > **Figure 1: 1675373310984**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-02-03_nickel-gains-despite-looming-wave-of-supply_img_1675373310984_898a6f7f1877.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-02-03_nickel-gains-despite-looming-wave-of-supply_img_1675373310984_898a6f7f1877.png)
 
 **Copper**was up early in the session as part of the risk-on rally after the market perceived Chair Powell’s comments following the FOMC meeting as dovish. Tighter monetary policy has been a major headwind for metals over the past 12 months, but they came under pressure near the close amid doubts over China’s pace of recovery from recent COVID-19 restrictions.
 
-**Nickel**bucked the trend to finish higher as the market looks to strong demand from the electric vehicle (EV) battery sector. This tightness in battery nickel doesn’t represent the[**broader market fundamentals**](../pdfs/2023-02-03_nickel-gains-despite-looming-wave-of-supply_commodity-call-recharging-its-batter_3bfec423b054.pdf). High prices have induced a supply response, with the market now facing a surge in new projects, meaning it is likely to push into surplus this year. If EV sales growth disappoints, we could see downward pressure on nickel prices this year.
+**Nickel**bucked the trend to finish higher as the market looks to strong demand from the electric vehicle (EV) battery sector. This tightness in battery nickel doesn’t represent the[**broader market fundamentals**](https://research.anz.com/file/Commodity_Call_recharging_its_batteries.pdf?docRef=400a0a48-88b7-4bf0-a694-3230064b323c&ch=2). High prices have induced a supply response, with the market now facing a surge in new projects, meaning it is likely to push into surplus this year. If EV sales growth disappoints, we could see downward pressure on nickel prices this year.
 
 **Newcastle coal**prices eased lower, extending a selloff that saw the fuel fall more than 35% this year. Sentiment has weakened amid the easing of the energy crisis in Europe, but the market remains tight amid supply side issues. Coal exports through Newcastle are said to be down 34% y/y in January, according to an AFR report. Ship loading has been impacted by bad weather, with waterlogged mines adding to the issues.
 

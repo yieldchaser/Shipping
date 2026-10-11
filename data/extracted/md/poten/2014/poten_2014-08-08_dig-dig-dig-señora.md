@@ -38,4 +38,4 @@ Vessel Type Number of Transits Tolls (thousands) Long Tons of Cargo (thousands) 
 
 ![Exhibit 1: Dig, Dig, Dig Señora](../../../charts/poten/2014/poten_2014-08-08_dig-dig-dig-señora_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2014/poten_2014-08-08_dig-dig-dig-señora_chart1.png)
+> **Interactive Asset:** [Local Asset (200 DPI PNG)](../../../charts/poten/2014/poten_2014-08-08_dig-dig-dig-señora_chart1.png)

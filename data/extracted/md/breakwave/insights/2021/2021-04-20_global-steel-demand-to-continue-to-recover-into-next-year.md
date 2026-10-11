@@ -37,7 +37,7 @@ Recent data from China have also shown a healthy increase in iron ore imports by
 ![Ulf 2c](assets/2021-04-20_global-steel-demand-to-continue-to-recover-into-next-year_img_ulf2c_77aa2b6442bd.jpg)
 
 > **Figure 1: Ulf 2c**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2021/assets/2021-04-20_global-steel-demand-to-continue-to-recover-into-next-year_img_ulf2c_77aa2b6442bd.jpg)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-04-20_global-steel-demand-to-continue-to-recover-into-next-year_img_ulf2c_77aa2b6442bd.jpg)
 
 A continued strong global recovery in steel demand will benefit the dry bulk sector, with iron ore volumes requiring seaborne transportation remaining strong and supporting freight rates, especially for the larger tonnage. Additionally, the steel products, such as rebar, will in many cases require onward transportation across the oceans to their buyers and add to the tonne-mile demand, which is likely to benefit the medium and smaller vessels. Furthermore, output from the world’s top iron ore producer, Brazilian Vale, is expected to recover to normal levels during the latter part of the year, following earlier mining accidents, contributing to a higher tonnage demand.
 

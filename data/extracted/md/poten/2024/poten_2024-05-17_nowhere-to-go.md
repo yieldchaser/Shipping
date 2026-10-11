@@ -34,8 +34,12 @@ Almost all shipments of Sudanese and South Sudanese are done on Aframaxes and Su
 
 ![Exhibit 1: Nowhere To Go](../../../charts/poten/2024/poten_2024-05-17_nowhere-to-go_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2024/poten_2024-05-17_nowhere-to-go_chart1.png)
+> **Interactive Asset:** [Local Asset (200 DPI PNG)](../../../charts/poten/2024/poten_2024-05-17_nowhere-to-go_chart1.png)
 
-![Exhibit 2: Nowhere To Go](../../../charts/poten/2024/poten_2024-05-17_nowhere-to-go_chart2.png)
+![Exhibit 2: Crude Oil Exports From Sudan by Destination](../../../charts/poten/2024/poten_2024-05-17_nowhere-to-go_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2024/poten_2024-05-17_nowhere-to-go_chart2.png)
+> **Exhibit 2: Crude Oil Exports From Sudan by Destination**  
+> Unit: Kb/d · X-axis: Jan-21 to Mar-24  
+> Series: United Arab Emirates, Malaysia, Singapore, China, Italy, Undetermined, India, Other  
+> *Source: Vortexa*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2024/poten_2024-05-17_nowhere-to-go_chart2.png)

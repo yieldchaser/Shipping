@@ -72,6 +72,32 @@ Saudi spare capacity is about equal to that of one major oil producer such as Ve
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: If Norway Went Down the Drain](../../../charts/poten/2004/poten_2004-06-25_if-norway-went-down-the-drain_chart1.png)
+> **Chart on PDF page 2: Saudi Arabia Production**  
+> Unit: 000 Bpd · X-axis: 1985 to 2003  
+> Series: Exports, Consumption  
+> *Source: BP/Poten*  
+> *No image crop of this chart was saved; caption read from the PDF.*
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2004/poten_2004-06-25_if-norway-went-down-the-drain_chart1.png)
+> **Chart on PDF page 3: Freight Rate Aframax Vs. VLCCs to UKC**  
+> Unit: $ per Ton · X-axis: Jan-03 to May-04  
+> Series: VLCC-AG to UKC, Aframax North Sea-UKC  
+> *Source: Poten & Partners*  
+> *No image crop of this chart was saved; caption read from the PDF.*
+
+> **Chart on PDF page 3: Aframax UKC Spot Fixtures**  
+> Unit: # Fixtures · X-axis: 2003 to 2004  
+> Series: UKC, USA, Med  
+> *Source: Poten & Partners*  
+> *No image crop of this chart was saved; caption read from the PDF.*
+
+> **Chart on PDF page 4: Suezmax UKC Spot Fixtures**  
+> Unit: # Fixtures · X-axis: 2003 to 2004  
+> Series: UKC, Canada&USA, Med, Asia  
+> *Source: Poten & Partners*  
+> *No image crop of this chart was saved; caption read from the PDF.*
+
+> **Chart on PDF page 4: VLCC UKC Spot Fixtures**  
+> Unit: # Fixtures · X-axis: 2003 to 2004  
+> Series: Canada&USA, Asia  
+> *Source: Poten & Partners*  
+> *No image crop of this chart was saved; caption read from the PDF.*

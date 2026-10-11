@@ -27,11 +27,11 @@ By[Dylan Simpson](https://www.linkedin.com/search/results/all/?fetchDeterministi
 
 ### VLCC Supply Overstretched But for How Long?
 
-![VLCC Average Voyage Mileage to East Asia](assets/2023-04-20_vortexa-freight-weekly_img_241_16cdd858679b.png)
+![VLCC Average Voyage Mileage to East Asia](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-04-20_vortexa-freight-weekly_img_241_16cdd858679b.png)
 
 > **Figure 1: VLCC Average Voyage Mileage to East Asia**  
 > *VLCC average voyage mileage to East Asia*  
-> **Interactive Data & Source:** [Marketingmail Vortexa](https://marketingmail.vortexa.com/ODM3LU1aRS01NzgAAAGLOW6_7JeZlRi2ZHIp59YTX1pJzwP68lbKPrUj4Hia8T-p9yxnqJZXDPvt5SW8Es-29UHsVT4=) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-04-20_vortexa-freight-weekly_img_241_16cdd858679b.png)
+> **Interactive Data & Source:** [Marketingmail Vortexa](https://marketingmail.vortexa.com/ODM3LU1aRS01NzgAAAGLOW6_7JeZlRi2ZHIp59YTX1pJzwP68lbKPrUj4Hia8T-p9yxnqJZXDPvt5SW8Es-29UHsVT4=) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-04-20_vortexa-freight-weekly_img_241_16cdd858679b.png)
 
 - Since the end of last summer and the resurgence of China’s purchasing activity, especially from the Atlantic Basin, the VLCC[laden-to-ballast](https://marketingmail.vortexa.com/ODM3LU1aRS01NzgAAAGLOW6_7JeZlRi2ZHIp59YTX1pJzwP68lbKPrUj4Hia8T-p9yxnqJZXDPvt5SW8Es-29UHsVT4=)ratio remains consistently positive. This is mainly attributed to the longer voyages towards East Asia.
 - However, the vessel class could face potential headwinds for the remainder of the quarter. Chinese refineries have commenced their maintenance, which will limit crude buying. Additionally, Chinese (and other Asian) independent refineries have increased their exposure on Russian grades, which are transported on Suezmax and Aframax tankers. Finally, voyage mileage towards East Asia on VLCCs has declined for the 2nd consecutive month.
@@ -41,11 +41,11 @@ By[Dylan Simpson](https://www.linkedin.com/search/results/all/?fetchDeterministi
 
 ### Us Gulf and Russia Keep Suezmaxes Busy
 
-![Suezmax Utilisation for Selected Origins (Lhs) vs Global Monthly](assets/2023-04-20_vortexa-freight-weekly_img_242_b9413b629e94.png)
+![Suezmax Utilisation for Selected Origins (Lhs) vs Global Monthly](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-04-20_vortexa-freight-weekly_img_242_b9413b629e94.png)
 
 > **Figure 2: Suezmax Utilisation for Selected Origins (Lhs) vs Global Monthly**  
 > *Suezmax utilisation for selected origins (LHS) vs global monthly tonne-miles (RHS)*  
-> **Interactive Data & Source:** [Marketingmail Vortexa](https://marketingmail.vortexa.com/ODM3LU1aRS01NzgAAAGLOW6_7QDDb3yRVxT556xa5E5_4WQa6JCU4Qgf49PKisqutaXv66CT0AgrrFAPYTG6gefswH4=) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-04-20_vortexa-freight-weekly_img_242_b9413b629e94.png)
+> **Interactive Data & Source:** [Marketingmail Vortexa](https://marketingmail.vortexa.com/ODM3LU1aRS01NzgAAAGLOW6_7QDDb3yRVxT556xa5E5_4WQa6JCU4Qgf49PKisqutaXv66CT0AgrrFAPYTG6gefswH4=) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-04-20_vortexa-freight-weekly_img_242_b9413b629e94.png)
 
 - [Tonne-miles](https://marketingmail.vortexa.com/ODM3LU1aRS01NzgAAAGLOW6_7QDDb3yRVxT556xa5E5_4WQa6JCU4Qgf49PKisqutaXv66CT0AgrrFAPYTG6gefswH4=)for Suezmax tankers ended in a record high in March showing around a 25% m-o-m increase.[Utilisation for traditional Suezmax markets](https://marketingmail.vortexa.com/ODM3LU1aRS01NzgAAAGLOW6_7e0BrQkXftTR2WbM3iFADm44jr6kWNADkJfkQuDvYuZ6RHoK32AiECYdruxiucyyPWo=)such as out of West Africa, Middle East Gulf, and South America have lost traction since peaking at the start of Q4 2022.
 

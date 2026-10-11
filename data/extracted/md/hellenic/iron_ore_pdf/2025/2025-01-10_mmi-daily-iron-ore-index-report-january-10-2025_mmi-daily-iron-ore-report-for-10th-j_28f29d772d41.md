@@ -171,17 +171,27 @@ Today,ÊDCEÊironÊoreÊfuturesÊopenedÊlowerÊbutÊmovedÊhigherÊthroughoutÊ
 | **Port Stock** | **0.01% Phosphorus** | Low Fe Grade 0.09\<P<0.1% | 5.00 | RMB/wet tonne | +0.00 |
 
 ## Historical Iron Ore Index Comparisons (USD/DMT)
+> **Estimate.** The report prints no numbers for this chart. Values are computed from the chart's vector geometry at each x-axis date label (calibrated on the printed axis ticks; typically within 1% of the axis range).
+
 | Date | IOSI62 (USD/DMT) | IOPi62 CFR Eq (USD/DMT) | IOSI65 (USD/DMT) | IOPi65 CFR Eq (USD/DMT) |
 | :--- | :--- | :--- | :--- | :--- |
-| 4-Jan-21 | 160.00 | 170.00 | 175.00 | 165.00 |
-| 4-Jul-21 | 210.00 | 230.00 | 270.00 | 260.00 |
-| 4-Jan-22 | 130.00 | 140.00 | 135.00 | 130.00 |
-| 4-Jul-22 | 110.00 | 120.00 | 115.00 | 110.00 |
-| 4-Jan-23 | 120.00 | 130.00 | 125.00 | 120.00 |
-| 4-Jul-23 | 140.00 | 150.00 | 145.00 | 140.00 |
-| 4-Jan-24 | 145.00 | 155.00 | 150.00 | 145.00 |
-| 4-Jul-24 | 100.00 | 110.00 | 105.00 | 100.00 |
-| 4-Jan-25 | 100.00 | 110.00 | 105.00 | 100.00 |
+| 4-Jan-21 | 169.49 | 163.33 | 179.76 | 176.66 |
+| 4-Apr-21 | 168.46 | 162.31 | 193.07 | 190.00 |
+| 4-Jul-21 | 217.67 | 231.02 | 253.57 | 260.74 |
+| 4-Oct-21 | 127.42 | 127.43 | 145.37 | 152.04 |
+| 4-Jan-22 | 130.54 | 120.26 | 137.73 | 150.00 |
+| 4-Apr-22 | 157.18 | 159.22 | 182.82 | 185.89 |
+| 4-Jul-22 | 123.33 | 116.16 | 137.70 | 139.75 |
+| 4-Oct-22 | 99.75 | 101.11 | 110.00 | 118.21 |
+| 4-Jan-23 | 113.07 | 114.10 | 124.36 | 130.51 |
+| 4-Apr-23 | 144.87 | 122.31 | 137.69 | 138.72 |
+| 4-Jul-23 | 100.77 | 115.13 | 119.23 | 129.49 |
+| 4-Oct-23 | 104.35 | 123.33 | 133.59 | 138.72 |
+| 4-Jan-24 | 142.82 | 139.74 | 167.43 | 155.12 |
+| 4-Apr-24 | 104.87 | 104.87 | 116.17 | 120.26 |
+| 4-Jul-24 | 111.02 | 111.02 | 127.41 | 126.40 |
+| 4-Oct-24 | 106.24 | 104.53 | 112.39 | 119.91 |
+| 4-Jan-25 | 99.72 | 99.73 | 109.98 | 114.10 |
 
 ---
 
@@ -206,42 +216,46 @@ Today,ÊDCEÊironÊoreÊfuturesÊopenedÊlowerÊbutÊmovedÊhigherÊthroughoutÊ
 | **SGX** | **Feb. 25** | USD/DMT | 97.15 | +0.15 | +0.15% | 5.48 | 32.19 | 96.70 | 98.25 |
 
 ## Dry Bulk Freight Rates Historical Line Data (USD/MT)
+> **Estimate.** The report prints no numbers for this chart. Values are computed from the chart's vector geometry at each x-axis date label (calibrated on the printed axis ticks; typically within 1% of the axis range).
+
 | Date | C5 W. Australia - Qingdao (USD/MT) | C3 Tubarao - Qingdao (USD/MT) |
 | :--- | :--- | :--- |
-| 4-Jan-21 | 15.00 | 18.00 |
-| 4-Apr-21 | 12.00 | 20.00 |
-| 4-Jul-21 | 20.00 | 48.00 |
-| 4-Oct-21 | 18.00 | 35.00 |
-| 4-Jan-22 | 16.00 | 22.00 |
-| 4-Apr-22 | 14.00 | 38.00 |
-| 4-Jul-22 | 12.00 | 32.00 |
-| 4-Oct-22 | 10.00 | 18.00 |
-| 4-Jan-23 | 8.00 | 16.00 |
-| 4-Apr-23 | 7.00 | 15.00 |
-| 4-Jul-23 | 9.00 | 17.00 |
-| 4-Oct-23 | 10.00 | 35.00 |
-| 4-Jan-24 | 18.00 | 20.00 |
-| 4-Apr-24 | 16.00 | 19.00 |
-| 4-Jul-24 | 14.00 | 18.00 |
-| 4-Oct-24 | 10.00 | 17.00 |
-| 4-Jan-25 | 8.00 | 16.00 |
+| 4-Jan-21 | 8.92 | 15.63 |
+| 4-Apr-21 | 10.32 | 21.49 |
+| 4-Jul-21 | 10.88 | 25.55 |
+| 4-Oct-21 | 22.06 | 45.26 |
+| 4-Jan-22 | 9.21 | 21.78 |
+| 4-Apr-22 | 10.05 | 26.00 |
+| 4-Jul-22 | 10.88 | 30.16 |
+| 4-Oct-22 | 8.41 | 22.60 |
+| 4-Jan-23 | 7.53 | 18.98 |
+| 4-Apr-23 | 8.08 | 21.50 |
+| 4-Jul-23 | 8.08 | 20.10 |
+| 4-Oct-23 | 10.95 | 25.68 |
+| 4-Jan-24 | 10.60 | 28.20 |
+| 4-Apr-24 | 9.48 | 24.01 |
+| 4-Jul-24 | 10.32 | 28.48 |
+| 4-Oct-24 | 10.88 | 27.27 |
+| 4-Jan-25 | 6.97 | 18.42 |
 
 ## Total China Iron Ore Import Volumes (Million Tonnes)
+> **Estimate.** The report prints no numbers for this chart. Values are computed from the chart's vector geometry at each x-axis date label (calibrated on the printed axis ticks; typically within 1% of the axis range).
+
 | Month / Period | Import Volume (Million Tonnes) |
 | :--- | :--- |
-| Nov-23 | 103.00 |
-| Dec-23 | 100.00 |
+| Nov-23 | 102.79 |
+| Dec-23 | 100.82 |
 | Jan-24 | 112.00 |
-| Feb-24 | 97.00 |
-| Mar-24 | 101.00 |
-| Apr-24 | 102.00 |
-| May-24 | 102.00 |
-| Jun-24 | 97.00 |
-| Jul-24 | 103.00 |
-| Aug-24 | 101.00 |
-| Sep-24 | 105.00 |
-| Oct-24 | 104.00 |
-| Nov-24 | 102.00 |
+| Feb-24 | 97.53 |
+| Mar-24 | 100.82 |
+| Apr-24 | 101.92 |
+| May-24 | 102.14 |
+| Jun-24 | 97.53 |
+| Jul-24 | 102.79 |
+| Aug-24 | 101.48 |
+| Sep-24 | 104.11 |
+| Oct-24 | 103.89 |
+| Nov-24 | 101.92 |
 
 ---
 

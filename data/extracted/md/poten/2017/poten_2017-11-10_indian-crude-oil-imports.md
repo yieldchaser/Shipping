@@ -34,10 +34,18 @@ Indian oil demand growth looks positive for the coming years and refining capaci
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: Indian Crude Oil Imports](../../../charts/poten/2017/poten_2017-11-10_indian-crude-oil-imports_chart1.png)
+![Exhibit 1: Indian Petroleum Product Demand](../../../charts/poten/2017/poten_2017-11-10_indian-crude-oil-imports_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2017/poten_2017-11-10_indian-crude-oil-imports_chart1.png)
+> **Exhibit 1: Indian Petroleum Product Demand**  
+> Unit: Kb/d · X-axis: 2009 to 2017 YTD  
+> Series: Mid. Distillates, LPG, Naphtha, Gasoline, Kerosene, Other  
+> *Source: JODI*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2017/poten_2017-11-10_indian-crude-oil-imports_chart1.png)
 
-![Exhibit 2: Indian Crude Oil Imports](../../../charts/poten/2017/poten_2017-11-10_indian-crude-oil-imports_chart2.png)
+![Exhibit 2: Indian Crude Oil Imports by Origin](../../../charts/poten/2017/poten_2017-11-10_indian-crude-oil-imports_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2017/poten_2017-11-10_indian-crude-oil-imports_chart2.png)
+> **Exhibit 2: Indian Crude Oil Imports by Origin**  
+> Unit: Kb/d · X-axis: Apr-14 to Oct-17  
+> Series: Middle East, West Africa, Americas, Mediterranean, Other  
+> *Source: Lloyd’s List Intelligence*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2017/poten_2017-11-10_indian-crude-oil-imports_chart2.png)

@@ -39,11 +39,11 @@ tags:
 A sharp decline in tanker transits through the Strait of Hormuz and rising floating storage in the Gulf signal a shift toward risk-managed energy transport rather than normal market operations. Recent AIS data now indicates that commercial tanker traffic has effectively reached a near-standstill, with most vessels remaining anchored in the Gulf while operators assess security and insurance risks. Current indicators, including waypoint activity and vessel transit patterns, provide the basis for the disruption scenarios examined below.
 
 
-![Tsop Floating Storage](../../images/69aea6f445834bc47efbd326_0f904dd3.png)
+![Tsop Floating Storage](../../../../../../corpus/07-signal/images/69aea6f445834bc47efbd326_0f904dd3.png)
 
 > **Figure 1: Tsop Floating Storage**  
 > *TSOP Floating Storage*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/market-insights-strait-of-hormuz-spotlight) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/69aea6f445834bc47efbd326_0f904dd3.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/market-insights-strait-of-hormuz-spotlight) | [Local Asset](../../../../../../corpus/07-signal/images/69aea6f445834bc47efbd326_0f904dd3.png)
 
 
 ## Scenario Matrixscenario 1: De Facto Restriction of Transit with Rising Floating Storage
@@ -86,11 +86,11 @@ Probability: high
 The current disruption to tanker movements in the Gulf is already being reflected in oil market pricing, with AIS tracking showing virtually no commercial tanker transits during several recent observation periods, indicating that shipowners are avoiding the corridor despite the absence of an official closure.
 
 
-![Tsop Waypoints](../../images/69aea6f445834bc47efbd329_0d4a2666.png)
+![Tsop Waypoints](../../../../../../corpus/07-signal/images/69aea6f445834bc47efbd329_0d4a2666.png)
 
 > **Figure 2: Tsop Waypoints**  
 > *TSOP Waypoints*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/market-insights-strait-of-hormuz-spotlight) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/69aea6f445834bc47efbd329_0d4a2666.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/market-insights-strait-of-hormuz-spotlight) | [Local Asset](../../../../../../corpus/07-signal/images/69aea6f445834bc47efbd329_0d4a2666.png)
 
 A useful historical comparison can be found in the tanker attacks of the 1980s, when disruptions to Gulf shipping contributed to sharp swings in freight markets. At the time, key Middle East export routes to Asia, including Japan, were closely watched indicators of tanker market conditions, and earnings could spike sharply as shipowners avoided higher-risk voyages and war-risk premiums increased.
 
@@ -122,11 +122,11 @@ Probability: medium
 The most serious escalation scenario would involve sustained disruption in the Gulf combined with instability spreading beyond the region into the Red Sea corridor. Instability linked to attacks by the Houthis has already increased security risks in the Bab el-Mandeb Strait, one of the world’s most critical maritime chokepoints connecting the Red Sea and the Gulf of Aden. While the strait remains open, attacks on commercial vessels and the resulting security operations have already disrupted traffic and caused many ships to reroute away from the Suez Canal corridor.
 
 
-![Tsop Waypoints](../../images/69aea6f445834bc47efbd32c_434aad13.png)
+![Tsop Waypoints](../../../../../../corpus/07-signal/images/69aea6f445834bc47efbd32c_434aad13.png)
 
 > **Figure 3: Tsop Waypoints**  
 > *TSOP Waypoints*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/market-insights-strait-of-hormuz-spotlight) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/69aea6f445834bc47efbd32c_434aad13.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/market-insights-strait-of-hormuz-spotlight) | [Local Asset](../../../../../../corpus/07-signal/images/69aea6f445834bc47efbd32c_434aad13.png)
 
 A further escalation, such as sustained attacks, mining of shipping lanes, or broader regional instability, could significantly affect transit through Bab el-Mandeb. In such a case, the disruption would extend beyond a single corridor and affect multiple maritime routes linking the Middle East, Europe, and Asia. This would force more vessels to divert around the Cape of Good Hope, increasing transit times, costs, and pressure on global supply chains.
 

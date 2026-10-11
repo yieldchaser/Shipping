@@ -50,7 +50,7 @@ Embracing automation faces the challenge of upskilling the existing teams with n
 
 > **Figure 1: Data Adoption Ladder**  
 > *Figure 1 - Data Adoption Ladder*  
-> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2021/5/8/the-rise-of-data-driven-decisions-in-tramp-shipping#_ftn1) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2021/assets/2021-05-08_the-rise-of-data-driven-decisions-in-tramp-shipping_img_a1_b6ba2339ca3e.png)
+> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2021/5/8/the-rise-of-data-driven-decisions-in-tramp-shipping#_ftn1) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-05-08_the-rise-of-data-driven-decisions-in-tramp-shipping_img_a1_b6ba2339ca3e.png)
 
 -*Avoid swiss army knife solutions:*
 
@@ -96,7 +96,7 @@ Auren Hoffmann is a thought leader within data-as-a-service businesses and a cen
 
 > **Figure 2: -Data Rots Quickly When Markets Move Fast:**  
 > *-Data rots quickly when markets move fast:*  
-> **Interactive Data & Source:** [Oceanbolt](https://www.oceanbolt.com/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2021/assets/2021-05-08_the-rise-of-data-driven-decisions-in-tramp-shipping_img_a2_f34e166e108e.png)
+> **Interactive Data & Source:** [Oceanbolt](https://www.oceanbolt.com/) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-05-08_the-rise-of-data-driven-decisions-in-tramp-shipping_img_a2_f34e166e108e.png)
 
 In order to join two datasets a common key is needed, this key is referred to as a join key. In shipping, examples of join keys are: a vessel’s imo number or a port’s UN/LOCODE.
 

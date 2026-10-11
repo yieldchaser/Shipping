@@ -32,7 +32,7 @@ tags:
 
 > **Figure 1: Data Source: The Signal Ocean Platform, C3 Dashboard**  
 > *Data Source: The Signal Ocean Platform, C3 Dashboard*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/dry-week-22-2023) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/64783ed625f310f0db1424a3_brazil cape logo.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/dry-week-22-2023) | [Local Asset](../../../../../../corpus/07-signal/images/64783ed625f310f0db1424a3_brazil%20cape%20logo.png)
 
 The Chinese economy is grappling with challenges as the property sector weakens and iron ore prices slide. Chinese demand for iron ore is on a decreasing trend, while it seems that we are nearing the end of an era for Chinese construction. Chinese steel producers have expressed the need for production cuts this year due to a batch of worrisome macroeconomic and property sector data. The decline in property investment by 16.2% in April has intensified the pressure, leading to a contraction in new housing prices for the 12th consecutive month. Furthermore, the bearish sentiment has been reinforced by abundant supply, with key producers Australia and Brazil reporting robust output.
 

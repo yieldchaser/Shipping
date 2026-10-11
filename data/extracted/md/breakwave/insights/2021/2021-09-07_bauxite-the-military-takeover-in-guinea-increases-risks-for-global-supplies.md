@@ -29,21 +29,21 @@ The coup d’etat in Guinea over the weekend has resulted in freight rates falli
 ![A1](assets/2021-09-07_bauxite-the-military-takeover-in-guinea-increases-risks-for-global-supplies_img_a1_e5de8a98ede1.jpg)
 
 > **Figure 1: A1**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2021/assets/2021-09-07_bauxite-the-military-takeover-in-guinea-increases-risks-for-global-supplies_img_a1_e5de8a98ede1.jpg)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-09-07_bauxite-the-military-takeover-in-guinea-increases-risks-for-global-supplies_img_a1_e5de8a98ede1.jpg)
 
 The bauxite exports of Guinea have been a real success story over the last few years, with volumes more than quadrupling between 2015 and 2020 and reaching 86 million tonnes last year. The volumes shipped so far this year have also suggested that a new record could be on the cards, with year-to-date exports at 59 million tonnes. However, the evolving situation in Guinea has the potential of derailing such a development.
 
 ![A2](assets/2021-09-07_bauxite-the-military-takeover-in-guinea-increases-risks-for-global-supplies_img_a2_b69f4cfc2602.png)
 
 > **Figure 2: A2**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2021/assets/2021-09-07_bauxite-the-military-takeover-in-guinea-increases-risks-for-global-supplies_img_a2_b69f4cfc2602.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-09-07_bauxite-the-military-takeover-in-guinea-increases-risks-for-global-supplies_img_a2_b69f4cfc2602.png)
 
 For China, the developments over the weekend in the West African nation are particularly serious and could have significant consequences, as it has rapidly become the largest supplier at the same time as the Chinese demand for imported bauxite has increased significantly. The West African nation only started to supply any substantial quantities to China in 2016 but has since dethroned Australia from the top spot. While China has a respectable domestic production at around 70 million tonnes, its demand for imported bauxite has more than doubled in the last five years. According to data from Oceanbolt, so far this year 68 per cent of last year’s record seaborne imports of 115 million tonnes has been matched, which could put the record in jeopardy. Guinea has also seen its share of the Chinese market growing further during the first eight months of the year, with volumes already at 76 per cent of last year’s volumes and a market share of 55 per cent.
 
 ![A3](assets/2021-09-07_bauxite-the-military-takeover-in-guinea-increases-risks-for-global-supplies_img_a3_95eec2a6efc6.png)
 
 > **Figure 3: A3**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2021/assets/2021-09-07_bauxite-the-military-takeover-in-guinea-increases-risks-for-global-supplies_img_a3_95eec2a6efc6.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-09-07_bauxite-the-military-takeover-in-guinea-increases-risks-for-global-supplies_img_a3_95eec2a6efc6.png)
 
 It is probably difficult to exaggerate the current importance of Guinean bauxite to China, especially as the ongoing diplomatic tensions between China and Australia show no signs of abating. Earlier in the year, Guinea also expressed the ambition of phasing in an additional 24 million tonnes of annual export capacity during 2021, something that would contribute to further erosion of the Australian market share. Australia remains the world’s largest producer of the commodity, with an annual output of approximately 105 million tonnes that is projected to grow by around 20 per cent in the coming years. A move to increase imports of Australian bauxite may be unpopular with the Chinese leadership but could prove to be unavoidable if disruptions in Guinea turn out to be material and lengthy. Any new leadership is likely to recognise the importance of exports to the country’s economy, but a potential power vacuum and a threat of closed borders could generate considerable disruptions. Additionally, a new government may decide to review mining concessions and complicate Beijing’s long-term plans to source much of its bauxite and iron ore from the country to reduce the dependence on Australian imports. Under the circumstances, it is therefore easy to imagine that a new government in Guinea will be the target of extensive Chinese diplomacy.
 
@@ -54,7 +54,7 @@ At the same time as the importance of West African bauxite has grown for the Chi
 ![A4](assets/2021-09-07_bauxite-the-military-takeover-in-guinea-increases-risks-for-global-supplies_img_a4_c159659ebb00.png)
 
 > **Figure 4: A4**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2021/assets/2021-09-07_bauxite-the-military-takeover-in-guinea-increases-risks-for-global-supplies_img_a4_c159659ebb00.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-09-07_bauxite-the-military-takeover-in-guinea-increases-risks-for-global-supplies_img_a4_c159659ebb00.png)
 
 ---
 

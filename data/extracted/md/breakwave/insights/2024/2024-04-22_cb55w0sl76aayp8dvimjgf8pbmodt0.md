@@ -36,10 +36,10 @@ In advanced economies, growth is set to rise from 1.6 percent in 2023 to 1.7 per
 
 The sixteenth trading week wrapped up today with oil prices slipping, following an earlier spike of more than $3, after Iran downplayed reported Israeli attacks on its soil, signaling a potential de-escalation of hostilities in the Middle East. Baltic indices, on the other hand, trended upwards, with all segments reporting weekly gains.
 
-![Doric 22.04](assets/2024-04-22_cb55w0sl76aayp8dvimjgf8pbmodt0_img_doric2204_998ec0a1b333.png)
+![Doric 22.04](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-04-22_cb55w0sl76aayp8dvimjgf8pbmodt0_img_doric2204_998ec0a1b333.png)
 
 > **Figure 1: Doric 22.04**  
-> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-04-22_cb55w0sl76aayp8dvimjgf8pbmodt0_img_doric2204_998ec0a1b333.png)
+> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-04-22_cb55w0sl76aayp8dvimjgf8pbmodt0_img_doric2204_998ec0a1b333.png)
 
 Data source:[Doric](https://www.doric.gr/)
 

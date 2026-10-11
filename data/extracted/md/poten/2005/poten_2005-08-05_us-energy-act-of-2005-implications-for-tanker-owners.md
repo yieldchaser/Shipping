@@ -54,6 +54,3 @@ So what does the Act mean as far as tanker owners are concerned? It means more S
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: U.S. Energy Act of 2005 Implications for Tanker Owners](../../../charts/poten/2005/poten_2005-08-05_us-energy-act-of-2005-implications-for-tanker-owners_chart1.png)
-
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2005/poten_2005-08-05_us-energy-act-of-2005-implications-for-tanker-owners_chart1.png)

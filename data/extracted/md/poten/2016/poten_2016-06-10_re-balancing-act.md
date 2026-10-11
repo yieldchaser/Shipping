@@ -26,10 +26,18 @@ Generally, tanker owners should look at these developments with a smile on their
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: Re Balancing Act](../../../charts/poten/2016/poten_2016-06-10_re-balancing-act_chart1.png)
+![Exhibit 1: Global Unplanned Crude Oil Production Outages](../../../charts/poten/2016/poten_2016-06-10_re-balancing-act_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2016/poten_2016-06-10_re-balancing-act_chart1.png)
+> **Exhibit 1: Global Unplanned Crude Oil Production Outages**  
+> Unit: MB/d · X-axis: Jan 2013 to May 2016  
+> Series: East Africa, Canada, Other Non OPEC, Libya, Nigeria, Iran, Other OPEC  
+> *Source: EIA*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2016/poten_2016-06-10_re-balancing-act_chart1.png)
 
-![Exhibit 2: Re Balancing Act](../../../charts/poten/2016/poten_2016-06-10_re-balancing-act_chart2.png)
+![Exhibit 2: U.S. Crude Oil Production vs Crude Price](../../../charts/poten/2016/poten_2016-06-10_re-balancing-act_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2016/poten_2016-06-10_re-balancing-act_chart2.png)
+> **Exhibit 2: U.S. Crude Oil Production vs Crude Price**  
+> Unit: KB/d | WTI (US$) · X-axis: 6-Jun-14 to 6-Jun-16  
+> Series: US Crude Production, WTI  
+> *Source: EIA, Bloomberg*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2016/poten_2016-06-10_re-balancing-act_chart2.png)

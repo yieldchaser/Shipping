@@ -29,7 +29,7 @@ India’s power plant coal stockpiles now stand at only 7.7 million tons. This i
 ![Chart 1](assets/2021-10-07_india-likely-to-experience-largest-ever-blackouts-soon_img_chart1_30f7976d9e51.jpg)
 
 > **Figure 1: Chart 1**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2021/assets/2021-10-07_india-likely-to-experience-largest-ever-blackouts-soon_img_chart1_30f7976d9e51.jpg)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-10-07_india-likely-to-experience-largest-ever-blackouts-soon_img_chart1_30f7976d9e51.jpg)
 
 Overall, we expect that India will experience its largest ever blackouts soon. It would not be surprising to us if this occurs this month. India's largest ever blackouts (and also the world's largest) occurred back on July 30-31, 2012. During this two-day period, approximately 600 million Indians were left without any power. If and when India does experience large blackouts this year, it will further turn the world's attention to the ongoing energy crisis -- which of course already remains a significant issue in China and other nations as well.
 

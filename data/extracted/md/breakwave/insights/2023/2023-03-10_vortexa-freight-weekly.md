@@ -23,10 +23,10 @@ source_file: "corpus/03-breakwave/insights/2023/2023-03-10_vortexa-freight-weekl
 
 By[Dylan Simpson](https://www.linkedin.com/search/results/all/?fetchDeterministicClustersOnly=false&heroEntityKey=urn%3Ali%3Afsd_profile%3AACoAACDtdn0BzHNR8syu_G8WxL-JXL-9PRT5AP4&keywords=dylan%20simpson&origin=RICH_QUERY_SUGGESTION&position=0&searchId=55ecee69-a408-47b2-8686-68f172e21af1&sid=mVl)
 
-![Vlccs in the Driver’s Seat in Latest Crude Freight Rate Increase](assets/2023-03-10_vortexa-freight-weekly_img_unnamed-2023-03-09t132659146_013b83bd86d8.png)
+![Vlccs in the Driver’s Seat in Latest Crude Freight Rate Increase](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-03-10_vortexa-freight-weekly_img_unnamed-2023-03-09t132659146_013b83bd86d8.png)
 
 > **Figure 1: Vlccs in the Driver’s Seat in Latest Crude Freight Rate Increase**  
-> **Interactive Data & Source:** [Marketingmail Vortexa](https://marketingmail.vortexa.com/ODM3LU1aRS01NzgAAAGKYOGJ2LKnmLfDwwcdJb1KwjdyH8dU-GMogGrNL3vEJOnRM09lrx4G1GuUwhDw0OP4gy3RhwM=) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-03-10_vortexa-freight-weekly_img_unnamed-2023-03-09t132659146_013b83bd86d8.png)
+> **Interactive Data & Source:** [Marketingmail Vortexa](https://marketingmail.vortexa.com/ODM3LU1aRS01NzgAAAGKYOGJ2LKnmLfDwwcdJb1KwjdyH8dU-GMogGrNL3vEJOnRM09lrx4G1GuUwhDw0OP4gy3RhwM=) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-03-10_vortexa-freight-weekly_img_unnamed-2023-03-09t132659146_013b83bd86d8.png)
 
 - Crude freight rates have stabilised and rebounded above the average level for 2022. This is in line with a general upward trend in crude tonne-miles across all the major vessel classes.[VLCCs](https://marketingmail.vortexa.com/ODM3LU1aRS01NzgAAAGKYOGJ2LKnmLfDwwcdJb1KwjdyH8dU-GMogGrNL3vEJOnRM09lrx4G1GuUwhDw0OP4gy3RhwM=)show the strongest upside in tonne-miles, followed by[Aframaxes](https://marketingmail.vortexa.com/ODM3LU1aRS01NzgAAAGKYOGJ2tFOn6B60UKiacdJBYo2ChmSaOkrvd4OY_crpoBPubTjsancWeiEe7-0ZKpGelUlosg=).[Suezmax](https://marketingmail.vortexa.com/ODM3LU1aRS01NzgAAAGKYOGJ2auDnZecB-jND8yfbkHwEI-k2E-8WrdSvSZN8wEE0zhFy1-JBw8FIWmi0x3USL437KE=)tonne-miles are not increasing, but remain flat overall. On the supply side, there is tightness in the crude tanker market, with more laden than ballast vessels in the VLCC and Suezmax segments.
 
@@ -35,11 +35,11 @@ By[Dylan Simpson](https://www.linkedin.com/search/results/all/?fetchDeterministi
 
 ## West Africa Suezmax Rates Pick Up in a Tight Tanker Market, But Fundamentals Provide Mixed Signals
 
-![Suezmax Ballasters After Discharging West African Crude Per](assets/2023-03-10_vortexa-freight-weekly_img_unnamed-2023-03-09t132929531_7b6b4136744d.png)
+![Suezmax Ballasters After Discharging West African Crude Per](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-03-10_vortexa-freight-weekly_img_unnamed-2023-03-09t132929531_7b6b4136744d.png)
 
 > **Figure 2: Suezmax Ballasters After Discharging West African Crude Per**  
 > *Suezmax ballasters after discharging West African crude per destination region*  
-> **Interactive Data & Source:** [Marketingmail Vortexa](https://marketingmail.vortexa.com/ODM3LU1aRS01NzgAAAGKYOGJ2cXBKNZ4VtFqg8UFbPYQ5gov-pX_usIagXFWdQulCsjhl85VPWOOVw_9rbv7nMgzHMQ=) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-03-10_vortexa-freight-weekly_img_unnamed-2023-03-09t132929531_7b6b4136744d.png)
+> **Interactive Data & Source:** [Marketingmail Vortexa](https://marketingmail.vortexa.com/ODM3LU1aRS01NzgAAAGKYOGJ2cXBKNZ4VtFqg8UFbPYQ5gov-pX_usIagXFWdQulCsjhl85VPWOOVw_9rbv7nMgzHMQ=) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-03-10_vortexa-freight-weekly_img_unnamed-2023-03-09t132929531_7b6b4136744d.png)
 
 - Suezmax rates out of West Africa, like the West Africa-to-UK Cont ([TD20](https://marketingmail.vortexa.com/ODM3LU1aRS01NzgAAAGKYOGJ2cXBKNZ4VtFqg8UFbPYQ5gov-pX_usIagXFWdQulCsjhl85VPWOOVw_9rbv7nMgzHMQ=)) have performed a mini-rally rising by around 30% over the past one month. This is not a product of demand as tonne-mile out of the region remains stagnant.
 - It has to do with a tighter supply side, as more Suezmaxes are ballasting towards the US instead of West Africa after discharging West African crude (see graph) where rates also recently increased or employed in the Russia trades. Nevertheless, in the short-term freight rates could remain stagnant as[Suezmax availability](https://marketingmail.vortexa.com/ODM3LU1aRS01NzgAAAGKYOGJ2HqsWhM_8jujccsUkMDxqmEynsnyHVeoT_jWAnPW2EgH6-WBlXm79Qw4GJ9M9-pLnyM=)in West Africa is building up (up 10% w-o-w).

@@ -20,11 +20,11 @@ source_file: "corpus/03-breakwave/insights/2026/2026-01-20_market-commentary.htm
 
 ---
 
-![Byeirini Diamantara&dimitris Roumeliotis](assets/2026-01-20_market-commentary_img_unsplash-image-e86goc95qb4_59a152ebca15.jpg)
+![Byeirini Diamantara&dimitris Roumeliotis](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-01-20_market-commentary_img_unsplash-image-e86goc95qb4_59a152ebca15.jpg)
 
 > **Figure 1: Byeirini Diamantara&dimitris Roumeliotis**  
 > *ByEirini Diamantara&Dimitris Roumeliotis*  
-> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/in/eirini-diamantara-58b269105/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-01-20_market-commentary_img_unsplash-image-e86goc95qb4_59a152ebca15.jpg)
+> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/in/eirini-diamantara-58b269105/) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-01-20_market-commentary_img_unsplash-image-e86goc95qb4_59a152ebca15.jpg)
 
 The first half of January reminded everyone that crude tankers do not need a fresh demand miracle to re-rate, they just need the map to change. Baltic Exchange TCEs captured that shift almost day by day. VLCC earnings slid from USD 62,929/day on 24 Dec to a low of USD 37,869/day by 6 Jan, before turning sharply higher to USD 97,323/day on 15 Jan, a 157% rebound from the early-month trough. Suezmaxes followed the same path but with more bite: from USD 92,551/day pre-Christmas down to USD 63,485/day on 7 Jan, then up to USD 107,826/day on 15 Jan. That last move matters: the 15 Jan jump was +32% day-on-day, the biggest daily rise since 12 Oct 2023, and it pushed the index to the highest level since 19 Dec 2022. Aframaxes were steadier, dipping to USD 48,282/day on 5 Jan and grinding up to USD 62,843/day by 15 Jan, but even there the direction was clear once the rally started.
 

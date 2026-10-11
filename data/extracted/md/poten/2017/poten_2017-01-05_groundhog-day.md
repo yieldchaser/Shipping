@@ -32,16 +32,19 @@ Looking ahead, 2017 is shaping up to be an interesting year. A new President is 
 
 ![Exhibit 1: Groundhog Day](../../../charts/poten/2017/poten_2017-01-05_groundhog-day_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2017/poten_2017-01-05_groundhog-day_chart1.png)
+> **Interactive Asset:** [Local Asset (200 DPI PNG)](../../../charts/poten/2017/poten_2017-01-05_groundhog-day_chart1.png)
 
 ![Exhibit 2: Groundhog Day](../../../charts/poten/2017/poten_2017-01-05_groundhog-day_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2017/poten_2017-01-05_groundhog-day_chart2.png)
+> **Interactive Asset:** [Local Asset (200 DPI PNG)](../../../charts/poten/2017/poten_2017-01-05_groundhog-day_chart2.png)
 
-![Exhibit 3: Groundhog Day](../../../charts/poten/2017/poten_2017-01-05_groundhog-day_chart3.png)
+![Exhibit 3: Top 10 Aframax Spot Charterers](../../../charts/poten/2017/poten_2017-01-05_groundhog-day_chart3.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2017/poten_2017-01-05_groundhog-day_chart3.png)
+> **Exhibit 3: Top 10 Aframax Spot Charterers**  
+> Unit: No. Spot Fixtures · X-axis: Vitol to Total  
+> Series: No. Spot Fixtures  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2017/poten_2017-01-05_groundhog-day_chart3.png)
 
 ![Exhibit 4: Groundhog Day](../../../charts/poten/2017/poten_2017-01-05_groundhog-day_chart4.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2017/poten_2017-01-05_groundhog-day_chart4.png)
+> **Interactive Asset:** [Local Asset (200 DPI PNG)](../../../charts/poten/2017/poten_2017-01-05_groundhog-day_chart4.png)

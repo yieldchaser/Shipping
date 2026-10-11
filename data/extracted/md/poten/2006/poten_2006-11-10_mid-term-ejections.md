@@ -30,10 +30,6 @@ Issues concerning climate change, emissions and alternative fuel sources are als
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: Mid-Term Ejections](../../../charts/poten/2006/poten_2006-11-10_mid-term-ejections_chart1.png)
-
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2006/poten_2006-11-10_mid-term-ejections_chart1.png)
-
 ![Exhibit 2: Mid-Term Ejections](../../../charts/poten/2006/poten_2006-11-10_mid-term-ejections_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2006/poten_2006-11-10_mid-term-ejections_chart2.png)
+> **Interactive Asset:** [Local Asset (200 DPI PNG)](../../../charts/poten/2006/poten_2006-11-10_mid-term-ejections_chart2.png)

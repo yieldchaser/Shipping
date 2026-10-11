@@ -27,10 +27,10 @@ The intention of this topic is to examine and dissect how a series of mishaps : 
 
 Meantime, the Baltic Dry Index, which tracks the cost of transporting dry bulk commodities is bearing the brunt. The BDI that touched the 5,600 level in Oct 2021 has witnessed a downfall of 66% in 12 months’ time to 1900 levels during the same time this year (refer to graph below).
 
-![Screenshot 20221118 133701 Samsung+notes](assets/2022-11-18_brs-dry-bulk-weekly-newsletter_img_screenshot-20221118-133701-samsung2b_9b7d8f2bb52c.jpg)
+![Screenshot 20221118 133701 Samsung+notes](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-11-18_brs-dry-bulk-weekly-newsletter_img_screenshot-20221118-133701-samsung2b_9b7d8f2bb52c.jpg)
 
 > **Figure 1: Screenshot 20221118 133701 Samsung+notes**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-11-18_brs-dry-bulk-weekly-newsletter_img_screenshot-20221118-133701-samsung2b_9b7d8f2bb52c.jpg)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-11-18_brs-dry-bulk-weekly-newsletter_img_screenshot-20221118-133701-samsung2b_9b7d8f2bb52c.jpg)
 
 **The Good News:**China’s economy has rebounded at a fasterthan-expected pace in the third quarter, indicated by official figures. China's economic growth rate rebounded to 3.9% on the year in the Q3 ended September, beating a meager growth rate of 0.4% in Q2 ended June. Although the announcement followed the key Communist Party Congress meeting in October, this will not bring back the lost ground in the dry bulk market any earlier than Q2-2023, we believe.
 
@@ -40,10 +40,10 @@ Reportedly, the country has eased its tough restrictions even as the nationwide 
 
 Despite that, stronger seaborne iron ore imports (via Capesize) in the month of October signal a potentially better trajectory to end of 2022.
 
-![Screenshot 20221118 133719 Samsung Notes](assets/2022-11-18_brs-dry-bulk-weekly-newsletter_img_screenshot-20221118-133719-samsungno_e12493a4f47b.jpg)
+![Screenshot 20221118 133719 Samsung Notes](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-11-18_brs-dry-bulk-weekly-newsletter_img_screenshot-20221118-133719-samsungno_e12493a4f47b.jpg)
 
 > **Figure 2: Screenshot 20221118 133719 Samsung Notes**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-11-18_brs-dry-bulk-weekly-newsletter_img_screenshot-20221118-133719-samsungno_e12493a4f47b.jpg)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-11-18_brs-dry-bulk-weekly-newsletter_img_screenshot-20221118-133719-samsungno_e12493a4f47b.jpg)
 
 **Steel**: Poor profit margins and government policy have forced steel mills to trim production while new capacity additions has kept the ball rolling. This meant that China's debt-laden property sector (which accounts for about 70% of the steel consumption) and sluggish domestic consumption are unlikely to absorb any incremental increase in domestic supply which will need to find new export markets. This can be clearly seen in the bottom right graph of the previous page, which indicates that monthly seaborne steel exports from China have been significantly higher than last year since the month of May till date.
 
@@ -51,10 +51,10 @@ Despite that, stronger seaborne iron ore imports (via Capesize) in the month of 
 
 Although volumes picked up from Q3-22 onwards, the total quantity imported in the ten months is still down by 22% to 195 MT from 249 MT in the year earlier. The shipments in Q3 soared as severe drought and heatwave hit western and southern China in late July. Consequently, thermal plants geared up production to meet the spiking demand for air conditioning amid the supply gap from hydropower stations.
 
-![Screenshot 20221118 133734 Samsung Notes](assets/2022-11-18_brs-dry-bulk-weekly-newsletter_img_screenshot-20221118-133734-samsungno_4a4703c06a4c.jpg)
+![Screenshot 20221118 133734 Samsung Notes](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-11-18_brs-dry-bulk-weekly-newsletter_img_screenshot-20221118-133734-samsungno_4a4703c06a4c.jpg)
 
 > **Figure 3: Screenshot 20221118 133734 Samsung Notes**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-11-18_brs-dry-bulk-weekly-newsletter_img_screenshot-20221118-133734-samsungno_4a4703c06a4c.jpg)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-11-18_brs-dry-bulk-weekly-newsletter_img_screenshot-20221118-133734-samsungno_4a4703c06a4c.jpg)
 
 As data suggests, coal imports in October registered the highest quantity of 27 MT in the whole year 2022. This is because thermal plants in China typically start to build inventory in October for the heating season. This resulted in the average coal stocks at major utilities reaching a level equivalent to 25 days of use in late October, according to the China Electricity Council.
 

@@ -26,10 +26,10 @@ As we discussed in Commodore Research's most recent Weekly China Report, Indones
 
 March (data is still pending for April) saw coal imports from Indonesia total 18 million tons. This is up from February by 2.7 million tons (18%) but is down year-on-year by 1.8 million tons (-9%). Imports from Russia, China’s second largest source of coal imports during the last several months, totaled 7.3 million tons. This is up from February by 1 million tons (16%) and is up year-on-year by 400,000 tons (6%). Imports from Australia totaled 4.4 million tons. This is down from February by 400,000 tons (-8%) and is down year-on-year by 700,000 tons (-14%). Imports from Australia peaked in November and have fallen by over 50% since then. Imports from Mongolia totaled 6.8 million tons. This is up from February by 1.7 million tons (33%) and is up year-on-year by 300,000 tons (5%). Imports from the United States totaled 200,000 tons. This is down from February by 1.1 million tons (-85%) and is down year-on-year by 400,000 tons (-67%).
 
-![Chart](assets/2025-05-19_chinas-coal-imports-from-the-united-states-could-now-increase_img_chart_58f64ca4e7a0.jpg)
+![Chart](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-05-19_chinas-coal-imports-from-the-united-states-could-now-increase_img_chart_58f64ca4e7a0.jpg)
 
 > **Figure 1: Chart**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-05-19_chinas-coal-imports-from-the-united-states-could-now-increase_img_chart_58f64ca4e7a0.jpg)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-05-19_chinas-coal-imports-from-the-united-states-could-now-increase_img_chart_58f64ca4e7a0.jpg)
 
 ---
 

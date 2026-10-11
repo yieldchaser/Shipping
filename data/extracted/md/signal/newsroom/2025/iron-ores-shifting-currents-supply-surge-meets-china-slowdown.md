@@ -25,11 +25,11 @@ tags:
 ## Simandou and Australian Supply Expansion Promise a Boost to Capesize Tonnage, But Iron Ore Prices Face China Headwinds
 
 
-![Https://app.signalocean.com/dry/dynamic/drybulkflows](../../images/69130787b8b20c77b1ba71c7_417fefec.png)
+![Https://app.signalocean.com/dry/dynamic/drybulkflows](../../../../../../corpus/07-signal/images/69130787b8b20c77b1ba71c7_417fefec.png)
 
 > **Figure 1: Https://app.signalocean.com/dry/dynamic/drybulkflows**  
 > *https://app.signalocean.com/dry/dynamic/drybulkflows*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/iron-ores-shifting-currents-supply-surge-meets-china-slowdown) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/69130787b8b20c77b1ba71c7_417fefec.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/iron-ores-shifting-currents-supply-surge-meets-china-slowdown) | [Local Asset](../../../../../../corpus/07-signal/images/69130787b8b20c77b1ba71c7_417fefec.png)
 
 
 ## Australia, Brazil, and West Africa Lead the Charge
@@ -49,11 +49,11 @@ In West Africa, momentum is finally building. Simandou in Guinea is moving from 
 For the freight market, the implications are clear. The recent increase in iron ore supply from major export hubs such as Australia, Brazil, and emerging West African origins is already visible through a sharp rise in tonne-days, up by roughly 25–30% since early 2025. This surge reflects stronger long-haul activity and greater tonnage absorption, supporting improved Capesize rate performance and a sustained recovery in the BCI. Continued expansion of these export flows, particularly from projects like Simandou, is expected to further boost tonne-mile demand and gradually rebalance Atlantic–Pacific trade dynamics.
 
 
-![Https://app.signalocean.com/dry/dynamic/timeseriesdry](../../images/69130787b8b20c77b1ba71c4_d7282d45.png)
+![Https://app.signalocean.com/dry/dynamic/timeseriesdry](../../../../../../corpus/07-signal/images/69130787b8b20c77b1ba71c4_d7282d45.png)
 
 > **Figure 2: Https://app.signalocean.com/dry/dynamic/timeseriesdry**  
 > *https://app.signalocean.com/dry/dynamic/timeseries_dry*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/iron-ores-shifting-currents-supply-surge-meets-china-slowdown) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/69130787b8b20c77b1ba71c4_d7282d45.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/iron-ores-shifting-currents-supply-surge-meets-china-slowdown) | [Local Asset](../../../../../../corpus/07-signal/images/69130787b8b20c77b1ba71c4_d7282d45.png)
 
 
 ## Chinese Steel Slowdown Offsets Supply Gains - Port Stocks on the Rise
@@ -63,11 +63,11 @@ However, the recent renewed supply optimism contrasts sharply with China’s wea
 As illustrated in the chart, iron ore shipments to China have grown markedly in 2025, with monthly arrivals consistently exceeding 2024 levels since March. Volumes climbed from around 115 million tonnes in February to more than 140 million tonnes by October, reflecting stronger export flows from Australia and Brazil.
 
 
-![Https://app.signalocean.com/dry/dynamic/drybulkflows](../../images/69130787b8b20c77b1ba71c1_730c1c25.png)
+![Https://app.signalocean.com/dry/dynamic/drybulkflows](../../../../../../corpus/07-signal/images/69130787b8b20c77b1ba71c1_730c1c25.png)
 
 > **Figure 3: Https://app.signalocean.com/dry/dynamic/drybulkflows**  
 > *https://app.signalocean.com/dry/dynamic/drybulkflows*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/iron-ores-shifting-currents-supply-surge-meets-china-slowdown) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/69130787b8b20c77b1ba71c1_730c1c25.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/iron-ores-shifting-currents-supply-surge-meets-china-slowdown) | [Local Asset](../../../../../../corpus/07-signal/images/69130787b8b20c77b1ba71c1_730c1c25.png)
 
 Yet this growth in seaborne supply is occurring at a time of soft domestic steel demand and seasonal production slowdowns. Rising port inventories, together with a lack of meaningful policy stimulus from Beijing, have therefore kept spot prices under downward pressure. As winter maintenance cuts steel output, the continued inflow of cargoes risks widening the imbalance between supply and consumption, reinforcing the bearish tone in the iron ore market.
 

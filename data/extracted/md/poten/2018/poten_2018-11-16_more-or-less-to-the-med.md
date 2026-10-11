@@ -28,10 +28,17 @@ The one thing that could derail the growth of Iraqi exports (at least in the sho
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: More Or Less To The Med](../../../charts/poten/2018/poten_2018-11-16_more-or-less-to-the-med_chart1.png)
+![Exhibit 1: Iraq Crude Oil Exports from Ceyhan by Destination](../../../charts/poten/2018/poten_2018-11-16_more-or-less-to-the-med_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2018/poten_2018-11-16_more-or-less-to-the-med_chart1.png)
+> **Exhibit 1: Iraq Crude Oil Exports from Ceyhan by Destination**  
+> Unit: Kbbl/d · X-axis: Jan-14 to Aug-18  
+> Series: Italy, Greece, Croatia, Spain, Israel, Other  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2018/poten_2018-11-16_more-or-less-to-the-med_chart1.png)
 
-![Exhibit 2: More Or Less To The Med](../../../charts/poten/2018/poten_2018-11-16_more-or-less-to-the-med_chart2.png)
+![Exhibit 2: Iraq Exports by Load Port](../../../charts/poten/2018/poten_2018-11-16_more-or-less-to-the-med_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2018/poten_2018-11-16_more-or-less-to-the-med_chart2.png)
+> **Exhibit 2: Iraq Exports by Load Port**  
+> Unit: Kbbl/d · X-axis: Jan-14 to Aug-18  
+> Series: Ceyhan, Basrah, KAAOT, Other  
+> *Source: Lloyd’s List Intelligence*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2018/poten_2018-11-16_more-or-less-to-the-med_chart2.png)

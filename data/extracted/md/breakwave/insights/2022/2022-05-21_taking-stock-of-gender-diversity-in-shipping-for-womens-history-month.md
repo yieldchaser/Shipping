@@ -25,11 +25,11 @@ source_file: "corpus/03-breakwave/insights/2022/2022-05-21_taking-stock-of-gende
 
 In October of 1974, five previously all-male colleges of the University of Oxford admitted female undergraduates for the first time in its 878 years of history. There was however, another event that has gone largely undocumented, even though it was in itself a giant leap forward for women, specifically in the shipping industry. Two months later, a handful of women brokers involved in the tanker market from Germany, the Netherlands and the UK met for a Christmas lunch at the Ye Olde Cheshire Cheese in London UK. This important gathering was followed shortly thereafter by the formation of the Women’s International Trade and Shipping Association also known as WISTA, a pioneering body that has since become a major influence to attract women to the industry, as well as provider of support across maritime sectors. Nearly half a century on, in the midst of Women’s History Month of 2021, I sought to take stock of the state of gender diversity of shipping. To do so I interviewed a number of women in the industry, ranging from shipping journalists to naval architects, research analysts and shipping lawyers.
 
-![Cartoon of the Month: “Welcome to the Future” - Courtesy Of](assets/2022-05-21_taking-stock-of-gender-diversity-in-shipping-for-womens-history-month_img_1_b8299029e73c.png)
+![Cartoon of the Month: “Welcome to the Future” - Courtesy Of](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-05-21_taking-stock-of-gender-diversity-in-shipping-for-womens-history-month_img_1_b8299029e73c.png)
 
 > **Figure 1: Cartoon of the Month: “Welcome to the Future” - Courtesy Of**  
 > *Cartoon of the month: “Welcome to the future” - Courtesy of Sheridan Hart*  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-05-21_taking-stock-of-gender-diversity-in-shipping-for-womens-history-month_img_1_b8299029e73c.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-05-21_taking-stock-of-gender-diversity-in-shipping-for-womens-history-month_img_1_b8299029e73c.png)
 
 ## As David Bowie Asked: Where Are We Now?
 
@@ -41,11 +41,11 @@ Maria Dragoumerli, a naval architect interviewed for this newsletter and fellow 
 
 Though we are far from perfection when it comes to access to the shipping industry for women and more importantly being able to ensure the same opportunities throughout their careers in the maritime sector, both offshore and onshore, we should acknowledge progress made. We asked our interviewees whether they thought access to the industry had become easier. The majority had been the only women for a long time in their respective roles and now have noticed a visible difference in the number of women they came across in the industry. As Holly Birkett from TradeWinds put it: “It seems to be whenever I walk into a crowded room in a shipping event there seems to be quite a few women there these days. It wasn’t the case a decade ago”.
 
-![Shipowning Companies Headed by Women As of 2021](assets/2022-05-21_taking-stock-of-gender-diversity-in-shipping-for-womens-history-month_img_1_076c34deb53a.png)
+![Shipowning Companies Headed by Women As of 2021](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-05-21_taking-stock-of-gender-diversity-in-shipping-for-womens-history-month_img_1_076c34deb53a.png)
 
 > **Figure 2: Shipowning Companies Headed by Women As of 2021**  
 > *Shipowning companies headed by women as of 2021, measured in tonnage (Source: TradeWinds)*  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-05-21_taking-stock-of-gender-diversity-in-shipping-for-womens-history-month_img_1_076c34deb53a.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-05-21_taking-stock-of-gender-diversity-in-shipping-for-womens-history-month_img_1_076c34deb53a.png)
 
 ## Shipping: Because I’m Worth It?
 

@@ -25,7 +25,7 @@ source_file: "corpus/03-breakwave/insights/2021/2021-07-05_china-increasing-head
 ![Unsplash Image Bafphvdh9ik](assets/2021-07-05_china-increasing-headwinds-for-the-economy-could-keep-stimulus-in-place-for-long_img_unsplash-image-bafphvdh9ik_58c2abc73488.jpg)
 
 > **Figure 1: Unsplash Image Bafphvdh9ik**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2021/assets/2021-07-05_china-increasing-headwinds-for-the-economy-could-keep-stimulus-in-place-for-long_img_unsplash-image-bafphvdh9ik_58c2abc73488.jpg)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-07-05_china-increasing-headwinds-for-the-economy-could-keep-stimulus-in-place-for-long_img_unsplash-image-bafphvdh9ik_58c2abc73488.jpg)
 
 The Chinese economy has provided a considerable number of spectacular data releases in the last fifteen months, as it recovered from the initial effects of the COVID19 outbreak. However, the most recent release of the official purchasing managers’ index (PMI) is pointing towards increasing headwinds for the economy in the months to come. While the manufacturing sector is remaining stable with only a marginal shave compared to May and broadly in line with economists’ anticipations at 50.9, the non-manufacturing gauge failed to meet expectations with a reading of 53.5, compared to 55.2 previously.
 
@@ -38,7 +38,7 @@ The Chinese National Bureau of Statistics also highlighted supply chain problems
 ![Ulf 7.2](assets/2021-07-05_china-increasing-headwinds-for-the-economy-could-keep-stimulus-in-place-for-long_img_ulf72_c7b5c379ece9.png)
 
 > **Figure 2: Ulf 7.2**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2021/assets/2021-07-05_china-increasing-headwinds-for-the-economy-could-keep-stimulus-in-place-for-long_img_ulf72_c7b5c379ece9.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-07-05_china-increasing-headwinds-for-the-economy-could-keep-stimulus-in-place-for-long_img_ulf72_c7b5c379ece9.png)
 
 The Chinese coal production has been hampered in recent months by safety inspections, following a series of accidents, and increasing environmental restrictions. The CCP anniversary celebrations have also seen many coal mines halting their operations to allow for the miners to participate in the commemorations, which will further reduce domestic output. However, in light of the tight supply situation and rising prices some mines have been permitted to expand their operations in recent days, but there will likely be a time lag before those additional volumes will alleviate the situation. Also, the additional output is unlikely to make a serious dent in the imported volumes. Hence, with last winter’s coal shortages in recent memory and low inventories, it is unlikely that China can reduce the flow of imported coal any time soon.
 

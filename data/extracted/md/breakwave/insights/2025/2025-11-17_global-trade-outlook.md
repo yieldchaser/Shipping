@@ -34,10 +34,10 @@ WTO Director-General Ngozi Okonjo-Iweala’s assessment captures this tension su
 
 For global shipping markets, the implications of the WTO’s revised outlook are measured rather than directional. Higher trading activity – whether driven by demand-led growth, precautionary stockpiling, or adjustments in supply chains –typically results in additional cargo movements and incremental tonne-mile demand, though the distribution across segments is unlikely to be uniform. In the dry bulk space, continued industrial output in Asia and infrastructure investment in emerging economies remain supportive of seaborne flows of iron ore, coal, bauxite, grain, and minor bulks, but the extent of improvement will hinge on the durability of these macroeconomic drivers. Container markets may experience fluctuations as tariff realignments and supplier diversification reshape established routes, while tanker trades are set to respond to energy demand patterns and further reconfiguration of crude and product flows. Even if the strong early-2025 momentum moderates into 2026, evolving trade relationships and ongoing supply chain recalibration suggest that global shipping activity will remain dynamic. The challenge for market participants will be to navigate an environment where trade continues to expand, but the sources and directions of growth are increasingly variable.
 
-![Στιγμιότυπο Οθόνης 2025 11 17 103340](assets/2025-11-17_global-trade-outlook_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_c633d9e7ee82.png)
+![Στιγμιότυπο Οθόνης 2025 11 17 103340](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-11-17_global-trade-outlook_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_c633d9e7ee82.png)
 
 > **Figure 1: Στιγμιότυπο Οθόνης 2025 11 17 103340**  
-> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-11-17_global-trade-outlook_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_c633d9e7ee82.png)
+> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-11-17_global-trade-outlook_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_c633d9e7ee82.png)
 
 Data source:[Doric](https://www.doric.gr/)
 

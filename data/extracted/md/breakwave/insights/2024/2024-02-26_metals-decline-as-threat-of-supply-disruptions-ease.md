@@ -24,12 +24,12 @@ source_file: "corpus/03-breakwave/insights/2024/2024-02-26_metals-decline-as-thr
 
 *By*[*Daniel Hynes*](https://www.linkedin.com/in/dahynes/)
 
-![Screenshot 2024 02 26 12.33.17](assets/2024-02-26_metals-decline-as-threat-of-supply-disruptions-ease_img_screenshot2024-02-26123317_fbd04d318f97.png)
+![Screenshot 2024 02 26 12.33.17](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-02-26_metals-decline-as-threat-of-supply-disruptions-ease_img_screenshot2024-02-26123317_fbd04d318f97.png)
 
 > **Figure 1: Screenshot 2024 02 26 12.33.17**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-02-26_metals-decline-as-threat-of-supply-disruptions-ease_img_screenshot2024-02-26123317_fbd04d318f97.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-02-26_metals-decline-as-threat-of-supply-disruptions-ease_img_screenshot2024-02-26123317_fbd04d318f97.png)
 
-**Nickel and aluminium**fell as fears of supply disruptions eased. The two metals escaped any direct impact from the new US package of sanctions on Russia. Instead, the Biden administration focused on entities from the chemical and technology sectors, as well as various less well-known military officials. Both metals saw gains earlier in the week after US President Biden warned of new sanctions in response to the death of Russia’s opposition leader Alexey Navalny.**Copper**ended the week higher as fundamentals continue to improve. Inventories at the LME fell 6% last week and are down 27% this year. Demand has remained strong amid an increased focus on electrification and decarbonisation,[**a trend we expect to continue this year**](../pdfs/2024-02-26_metals-decline-as-threat-of-supply-disruptions-ease_commodity-call-copper-conducts-turna_ddca250eb558.pdf). This comes amid increasing supply side issues. Which will push the market into deficit this year.
+**Nickel and aluminium**fell as fears of supply disruptions eased. The two metals escaped any direct impact from the new US package of sanctions on Russia. Instead, the Biden administration focused on entities from the chemical and technology sectors, as well as various less well-known military officials. Both metals saw gains earlier in the week after US President Biden warned of new sanctions in response to the death of Russia’s opposition leader Alexey Navalny.**Copper**ended the week higher as fundamentals continue to improve. Inventories at the LME fell 6% last week and are down 27% this year. Demand has remained strong amid an increased focus on electrification and decarbonisation,[**a trend we expect to continue this year**](https://research.anz.com/file/Commodity_Call_copper_conducts_turnaround.pdf?docRef=fa0e5672-6adf-48cc-8100-82c41350097e&ch=2). This comes amid increasing supply side issues. Which will push the market into deficit this year.
 
 **Iron ore**futures fell more than 5% last week as signs of further weakness in demand continue to mount. Inventories of iron ore at major Chinese ports rose. Supply concerns also eased, with a cyclone threatening WA ports now tracking away from the state’s iron ore hub.
 

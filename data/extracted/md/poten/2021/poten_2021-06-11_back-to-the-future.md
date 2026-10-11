@@ -32,10 +32,18 @@ While the focus so far has been on crude oil, product tankers will benefit from 
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: Back to the Future](../../../charts/poten/2021/poten_2021-06-11_back-to-the-future_chart1.png)
+![Exhibit 1: Global Oil Demand vs Prior Year](../../../charts/poten/2021/poten_2021-06-11_back-to-the-future_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2021/poten_2021-06-11_back-to-the-future_chart1.png)
+> **Exhibit 1: Global Oil Demand vs Prior Year**  
+> Unit: Mb/d · X-axis: 1Q2020 to 4Q2022  
+> Series: IEA Demand, EIA Demand  
+> *Source: IEA, EIA*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2021/poten_2021-06-11_back-to-the-future_chart1.png)
 
-![Exhibit 2: Back to the Future](../../../charts/poten/2021/poten_2021-06-11_back-to-the-future_chart2.png)
+![Exhibit 2: Non-OPEC Crude Oil Supply vs Prior Year](../../../charts/poten/2021/poten_2021-06-11_back-to-the-future_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2021/poten_2021-06-11_back-to-the-future_chart2.png)
+> **Exhibit 2: Non-OPEC Crude Oil Supply vs Prior Year**  
+> Unit: Mb/d · X-axis: 1Q2020 to 4Q2022  
+> Series: IEA: Non-OPEC Supply, EIA: Non-OPEC Supply  
+> *Source: IEA, EIA*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2021/poten_2021-06-11_back-to-the-future_chart2.png)

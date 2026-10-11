@@ -28,10 +28,18 @@ With respect to the refined product trades, we may see significant reductions as
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: Out of West Africa](../../../charts/poten/2021/poten_2021-06-04_out-of-west-africa_chart1.png)
+![Exhibit 1: Nigeria & Angola: Crude Oil Production](../../../charts/poten/2021/poten_2021-06-04_out-of-west-africa_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2021/poten_2021-06-04_out-of-west-africa_chart1.png)
+> **Exhibit 1: Nigeria & Angola: Crude Oil Production**  
+> Unit: Kb/d · X-axis: 1973 to 2019  
+> Series: Angola, Nigeria  
+> *Source: DOE Energy Information Administration*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2021/poten_2021-06-04_out-of-west-africa_chart1.png)
 
-![Exhibit 2: Out of West Africa](../../../charts/poten/2021/poten_2021-06-04_out-of-west-africa_chart2.png)
+![Exhibit 2: Exports from West Africa by Vessel Size](../../../charts/poten/2021/poten_2021-06-04_out-of-west-africa_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2021/poten_2021-06-04_out-of-west-africa_chart2.png)
+> **Exhibit 2: Exports from West Africa by Vessel Size**  
+> Unit: M Tonnes · X-axis: Jan-14 to Apr-21  
+> Series: VLCC, Suezmax, Aframax  
+> *Source: Lloyd’s List Intelligence*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2021/poten_2021-06-04_out-of-west-africa_chart2.png)

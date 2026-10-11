@@ -32,10 +32,10 @@ Across the Pacific, the Chinese Caixin Manufacturing Purchasing Managers’ Inde
 
 Last year, global seaborne export volumes of dry bulk commodities grew by six per cent to approximately 5.4 billion tonnes. The new record exceeded the pre-pandemic record from 2019 by 130 million tonnes or three per cent. While shipments to China remained broadly in line with 2020, the growth in dry bulk exports last year was to non-Chinese ports and highlighted the shift in economic recovery from China to the rest of the world. The early recovery of the Chinese economy saw the country’s share of global seaborne trade in dry commodities jump to forty per cent in 2020, but stabilizing import volumes last year has brought it back its pre-pandemic trend.
 
-![Ch1](assets/2022-01-08_a-new-year-and-a-return-to-normality_img_ch1_d37ee1d17e79.png)
+![Ch1](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-01-08_a-new-year-and-a-return-to-normality_img_ch1_d37ee1d17e79.png)
 
 > **Figure 1: Ch1**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-01-08_a-new-year-and-a-return-to-normality_img_ch1_d37ee1d17e79.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-01-08_a-new-year-and-a-return-to-normality_img_ch1_d37ee1d17e79.png)
 
 The coming year is likely to drift in the general direction of normality, but with the coronavirus still in circulation, the process should be somewhat gradual. There is also the risk that yet another variant of the Covid-virus could wreak havoc on the global economy. Still, the increasing rollout of the vaccines should hopefully make any new outbreaks less severe. The resilience of global growth in the wake of the spread of the Omicron variant should also indicate that global demand for commodities will remain strong. Nevertheless, the rising headwinds for the Chinese economy could weigh on global demand for seaborne imports. However, once the Winter Olympics are over, there could be an increasing shift towards pro-cyclical stimulus with increasing demand for industrial commodities and seaborne transportation. In addition, the high likelihood of new disruptions in Chinese ports and limited deliveries of new tonnage should support freight rates.
 

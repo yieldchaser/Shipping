@@ -24,10 +24,10 @@ Metal and energy markets came under pressure after China failed to deliver fresh
 
 *By*[*Daniel Hynes*](https://www.linkedin.com/in/dahynes/)
 
-![Στιγμιότυπο Οθόνης 2024 10 09 114645](assets/2024-10-09_lack-of-new-stimulus-measures-triggers-selloff_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_e13acd17aeb6.png)
+![Στιγμιότυπο Οθόνης 2024 10 09 114645](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-10-09_lack-of-new-stimulus-measures-triggers-selloff_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_e13acd17aeb6.png)
 
 > **Figure 1: Στιγμιότυπο Οθόνης 2024 10 09 114645**  
-> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-10-09_lack-of-new-stimulus-measures-triggers-selloff_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_e13acd17aeb6.png)
+> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-10-09_lack-of-new-stimulus-measures-triggers-selloff_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_e13acd17aeb6.png)
 
 ### Market Commentary
 
@@ -39,10 +39,10 @@ The risk-off tone triggered by the lack of new stimulus measures in China also w
 
 **Gold**fell for a fifth day as a stronger USD weighed on investor demand. Some unwinding of long positions amid the risk-off tone also played its part.
 
-![Στιγμιότυπο Οθόνης 2024 10 09 114754](assets/2024-10-09_lack-of-new-stimulus-measures-triggers-selloff_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_dc24473a1516.png)
+![Στιγμιότυπο Οθόνης 2024 10 09 114754](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-10-09_lack-of-new-stimulus-measures-triggers-selloff_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_dc24473a1516.png)
 
 > **Figure 2: Στιγμιότυπο Οθόνης 2024 10 09 114754**  
-> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-10-09_lack-of-new-stimulus-measures-triggers-selloff_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_dc24473a1516.png)
+> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-10-09_lack-of-new-stimulus-measures-triggers-selloff_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_dc24473a1516.png)
 
 Data source:[Commodities Wrap](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI)
 

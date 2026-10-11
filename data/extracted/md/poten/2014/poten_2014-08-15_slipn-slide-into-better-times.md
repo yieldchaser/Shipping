@@ -34,6 +34,10 @@ Vessel Size No. Vessels VLCC 632 Suezmax 436 Aframax 601 LR2 270 Panamax/LR1 410
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: Slip...N' Slide into Better Times](../../../charts/poten/2014/poten_2014-08-15_slipn-slide-into-better-times_chart1.png)
+![Exhibit 1: Tanker Orderbook, by Deadweight Tons](../../../charts/poten/2014/poten_2014-08-15_slipn-slide-into-better-times_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2014/poten_2014-08-15_slipn-slide-into-better-times_chart1.png)
+> **Exhibit 1: Tanker Orderbook, by Deadweight Tons**  
+> Unit: % · X-axis: VLCC to Handysize  
+> Series: VLCC, Suezmax, Aframax, LR2, Panamax/LR1, MR, Handysize  
+> *Source: Poten*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2014/poten_2014-08-15_slipn-slide-into-better-times_chart1.png)

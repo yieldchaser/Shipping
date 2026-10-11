@@ -26,10 +26,18 @@ How will the cutoff in Libyan supplies impact the oil and tanker market going fo
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: It is a Mess in the Med](../../../charts/poten/2020/poten_2020-02-07_it-is-a-mess-in-the-med_chart1.png)
+![Exhibit 1: Libya Crude Oil & Oth. Liquids Production](../../../charts/poten/2020/poten_2020-02-07_it-is-a-mess-in-the-med_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2020/poten_2020-02-07_it-is-a-mess-in-the-med_chart1.png)
+> **Exhibit 1: Libya Crude Oil & Oth. Liquids Production**  
+> Unit: Kb/d · X-axis: Jan-00 to Jan-19  
+> Series: Libya Crude Oil & Oth. Liquids Production  
+> *Source: EIA/IEA*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2020/poten_2020-02-07_it-is-a-mess-in-the-med_chart1.png)
 
-![Exhibit 2: It is a Mess in the Med](../../../charts/poten/2020/poten_2020-02-07_it-is-a-mess-in-the-med_chart2.png)
+![Exhibit 2: Libya Crude Oil Exports by Destination](../../../charts/poten/2020/poten_2020-02-07_it-is-a-mess-in-the-med_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2020/poten_2020-02-07_it-is-a-mess-in-the-med_chart2.png)
+> **Exhibit 2: Libya Crude Oil Exports by Destination**  
+> Unit: Kb/d · X-axis: Jan-14 to Jan-20  
+> Series: Italy, France (Med), Spain (Med), Greece, Other Med, UKC/Atl Coast, Asia, Other  
+> *Source: Lloyd’s List Intelligence*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2020/poten_2020-02-07_it-is-a-mess-in-the-med_chart2.png)

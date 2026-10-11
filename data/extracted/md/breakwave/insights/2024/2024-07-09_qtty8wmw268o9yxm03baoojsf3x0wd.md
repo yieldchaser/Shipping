@@ -62,10 +62,10 @@ Cargo order volumes for nickel ore and concentrates loading globally have been t
 
 However, over the past two months, weekly cargo order volumes for nickel have decreased substantially, with a near-total absence of demand for seaborne transportation from New Caledonia contributing to the decline. Cargo ordering activities in the seaborne nickel trade usually are not affected by any seasonal headwinds during the summer in the Northern Hemisphere, and, hence, the decline is more likely a reflection of an oversupplied market. While nickel inventories are likely to remain high, the decline in demand for seaborne transportation of ore and concentrates should limit inventory growth and stabilise prices in the short to medium term.
 
-![Στιγμιότυπο Οθόνης 2024 07 09 104353](assets/2024-07-09_qtty8wmw268o9yxm03baoojsf3x0wd_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_405117ccc3cb.png)
+![Στιγμιότυπο Οθόνης 2024 07 09 104353](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-07-09_qtty8wmw268o9yxm03baoojsf3x0wd_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_405117ccc3cb.png)
 
 > **Figure 1: Στιγμιότυπο Οθόνης 2024 07 09 104353**  
-> **Interactive Data & Source:** [Shipfix](https://shipfix.com/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-07-09_qtty8wmw268o9yxm03baoojsf3x0wd_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_405117ccc3cb.png)
+> **Interactive Data & Source:** [Shipfix](https://shipfix.com/) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-07-09_qtty8wmw268o9yxm03baoojsf3x0wd_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_405117ccc3cb.png)
 
 Data Source:[Shipfix](https://shipfix.com/)
 

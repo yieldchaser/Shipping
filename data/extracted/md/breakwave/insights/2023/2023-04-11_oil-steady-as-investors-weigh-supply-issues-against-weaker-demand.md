@@ -23,10 +23,10 @@ source_file: "corpus/03-breakwave/insights/2023/2023-04-11_oil-steady-as-investo
 
 There was mixed sentiment in markets with focus shifting towards one more rate hike following the release of strong labour market data on Friday. Precious metals came under pressure as prospects of another rate hike increased. Subdued demand and easing supply issues kept other commodity prices under pressure.
 
-![1681174624617](assets/2023-04-11_oil-steady-as-investors-weigh-supply-issues-against-weaker-demand_img_1681174624617_f7e500c9673b.png)
+![1681174624617](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-04-11_oil-steady-as-investors-weigh-supply-issues-against-weaker-demand_img_1681174624617_f7e500c9673b.png)
 
 > **Figure 1: 1681174624617**  
-> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-04-11_oil-steady-as-investors-weigh-supply-issues-against-weaker-demand_img_1681174624617_f7e500c9673b.png)
+> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-04-11_oil-steady-as-investors-weigh-supply-issues-against-weaker-demand_img_1681174624617_f7e500c9673b.png)
 
 **Crude oil**was steady after rallying nearly 7% last week on OPEC’s announced production cuts from May. Investors are weighing supply tightness against prospects of slowing demand. Market developments remained mixed with Saudi’s Aramco providing full contractual supply of oil for the next month to Asian countries. The Russian Energy Minister is reported to have said that his country reduced oil production by 700kb/d in March. It produced 10.36mb/d in March against 11.1mb/d in February, according to Bloomberg calculations, but this was not apparent in resilient exports and domestic processing. While speculators increased their bullish bets by 63,138 contracts to 176,414, oil’s exchange traded funds saw their biggest outflows since 2019. This suggests the market is still concerned about slowing oil demand.
 

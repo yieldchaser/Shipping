@@ -60,6 +60,14 @@ While the strength of the arbitrage for these products waxes and wanes, its pres
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: The Pacific Arbitrage](../../../charts/poten/2007/poten_2007-02-23_the-pacific-arbitrage_chart1.png)
+> **Chart on PDF page 1: Untitled chart**  
+> Unit: Million Tons · X-axis: 2002 to 2007 YTD  
+> Series: Total Reported Tons Fixed, Annualized Projection  
+> *Source: Poten & Partners*  
+> *No image crop of this chart was saved; caption read from the PDF.*
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2007/poten_2007-02-23_the-pacific-arbitrage_chart1.png)
+> **Chart on PDF page 2: Untitled chart**  
+> Unit: ($/MT) · X-axis: Mar-06 to Jan-07  
+> Series: Charterers' Transportation Costs, Diesel, Gasoline  
+> *Source: Basis Ulsan - Los Angeles (40kt); 90% utilization*  
+> *No image crop of this chart was saved; caption read from the PDF.*

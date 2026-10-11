@@ -24,10 +24,10 @@ Energy and metal markets struggled for direction amid conflicting supply side is
 
 *By*[*Daniel Hynes*](https://www.linkedin.com/in/dahynes/)
 
-![Στιγμιότυπο Οθόνης 2025 07 25 133426](assets/2025-07-25_supply-side-issues-resurface-in-energy-and-metal-markets_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_c0f59822c2f9.png)
+![Στιγμιότυπο Οθόνης 2025 07 25 133426](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-07-25_supply-side-issues-resurface-in-energy-and-metal-markets_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_c0f59822c2f9.png)
 
 > **Figure 1: Στιγμιότυπο Οθόνης 2025 07 25 133426**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-07-25_supply-side-issues-resurface-in-energy-and-metal-markets_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_c0f59822c2f9.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-07-25_supply-side-issues-resurface-in-energy-and-metal-markets_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_c0f59822c2f9.png)
 
 ### Market Commentary
 
@@ -37,16 +37,16 @@ Energy and metal markets struggled for direction amid conflicting supply side is
 
 **Copper**led the**base metal**sector lower as the recent rally petered out. However, conflicting signals on supply left traders in two minds over the outlook. First Quantum said it is encouraged by recent progress at its stalled copper mine in Panama. The firm is loading the last shipment of copper that was stranded when the mine was ordered to shut in late 2023. Recent polling shows Panamanians understand the mine’s economic importance, and President Mulino commented that the slate is now clean to start talks. The mine accounted for 1% of global supply before becoming a target of mass protests. Even if a deal is to be reached, First Quantum warned it would take up to nine months to resume mining at a reduced rate. This is in contrast to reports from Chile of increasing struggles to maintain current production levels. Teck Resources’ Quebrada Blanca mine is grappling with tailing storage issues that could see output fall by 40–50kt this year. This comes as it tries to double the output of the operation following major capital expenditure.
 
-**Gold**fell after the latest US jobs report pointed to strength in the labour market. This reinforced views in the market that the[**US Federal Reserve will keep interest rates on hold for now**](../pdfs/2025-07-25_supply-side-issues-resurface-in-energy-and-metal-markets_fomc-dovish-hold-in-july-ahead-of-cu_76e984246692.pdf). Swap traders slightly trimmed their expectations of a rate cut, projecting fewer than two cuts this year. That triggered buying in the USD, while bond yields pushed higher, weighing on investor demand for gold. Sentiment wasn’t helped by data showing outflows from Chinese exchange-traded funds backed by gold
+**Gold**fell after the latest US jobs report pointed to strength in the labour market. This reinforced views in the market that the[**US Federal Reserve will keep interest rates on hold for now**](https://research.anz.com/file/FOMC_dovish_hold_in_July_ahead_of_cuts_resuming_in_September_1.pdf?docRef=9f0233bb-a556-4ca2-b11a-d8639bdf7f31&ch=2). Swap traders slightly trimmed their expectations of a rate cut, projecting fewer than two cuts this year. That triggered buying in the USD, while bond yields pushed higher, weighing on investor demand for gold. Sentiment wasn’t helped by data showing outflows from Chinese exchange-traded funds backed by gold
 
 ### Chart of the Day
 
 Copper production in Chile has staged a recovery in recent months. Output returned to growth in 2024 as miners overcame operational issues. However, reports the Teck Resources is finding conditions challenging at its Blanc mine suggests the underlying issues facing the Chilean copper industry remain.
 
-![Στιγμιότυπο Οθόνης 2025 07 25 133527](assets/2025-07-25_supply-side-issues-resurface-in-energy-and-metal-markets_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_b71aa2fc453d.png)
+![Στιγμιότυπο Οθόνης 2025 07 25 133527](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-07-25_supply-side-issues-resurface-in-energy-and-metal-markets_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_b71aa2fc453d.png)
 
 > **Figure 2: Στιγμιότυπο Οθόνης 2025 07 25 133527**  
-> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-07-25_supply-side-issues-resurface-in-energy-and-metal-markets_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_b71aa2fc453d.png)
+> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-07-25_supply-side-issues-resurface-in-energy-and-metal-markets_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_b71aa2fc453d.png)
 
 Data source:[Commodities Wrap](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI)
 

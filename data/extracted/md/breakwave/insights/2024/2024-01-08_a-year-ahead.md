@@ -19,10 +19,10 @@ source_file: "corpus/03-breakwave/insights/2024/2024-01-08_a-year-ahead.html"
 
 ---
 
-![Istock 485480338 (2)](assets/2024-01-08_a-year-ahead_img_istock-48548033828229_e8cd5e92a0e9.jpg)
+![Istock 485480338 (2)](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-01-08_a-year-ahead_img_istock-48548033828229_e8cd5e92a0e9.jpg)
 
 > **Figure 1: Istock 485480338 (2)**  
-> **Interactive Data & Source:** [Gibsons Co](https://www.gibsons.co.uk/market-reports) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-01-08_a-year-ahead_img_istock-48548033828229_e8cd5e92a0e9.jpg)
+> **Interactive Data & Source:** [Gibsons Co](https://www.gibsons.co.uk/market-reports) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-01-08_a-year-ahead_img_istock-48548033828229_e8cd5e92a0e9.jpg)
 
 The end of last year was marked by a significant increase in attacks on ocean-going vessels in the Red Sea, with several prominent shipping companies announcing temporary pauses in their transits through the region. At the same time, we have also seen new international sanctions against Russia, which among other things saw an increase in due diligence requirements for companies subject to the G7 price cap. The hastily assembled multinational naval military operation to protect commercial trade transiting through the Red Sea could improve the security situation in the region over time; yet, the latest news that Iran is deploying a warship to the Red Sea reminds us of the risk of further escalation and potentially extreme disruptions to global trade. In contrast, the latest round of international sanctions against Russia could see some owners abandoning Russian trade, boosting tonnage availability in the mainstream market, although much here depends on the Urals price and willingness of counterparties to abide by the new rules.
 
@@ -40,9 +40,9 @@ To sum it all up, strong tanker fundamentals are seen as we head into the new ye
 
 ## Us Crude Production (Mbd)
 
-![Αρχείο Λήψης (7)](assets/2024-01-08_a-year-ahead_img_ceb1cf81cf87ceb5ceafcebfcebbceaecf88_ff20f94e85c4.png)
+![Αρχείο Λήψης (7)](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-01-08_a-year-ahead_img_ceb1cf81cf87ceb5ceafcebfcebbceaecf88_ff20f94e85c4.png)
 
 > **Figure 2: Αρχείο Λήψης (7)**  
-> **Interactive Data & Source:** [Gibsons Co](https://www.gibsons.co.uk/market-reports) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-01-08_a-year-ahead_img_ceb1cf81cf87ceb5ceafcebfcebbceaecf88_ff20f94e85c4.png)
+> **Interactive Data & Source:** [Gibsons Co](https://www.gibsons.co.uk/market-reports) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-01-08_a-year-ahead_img_ceb1cf81cf87ceb5ceafcebfcebbceaecf88_ff20f94e85c4.png)
 
 Data source:[Gibson Shipbrokers](https://www.gibsons.co.uk/market-reports)

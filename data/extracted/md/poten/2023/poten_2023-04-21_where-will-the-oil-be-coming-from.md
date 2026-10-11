@@ -32,10 +32,17 @@ While there is some upside to non-OPEC+ production, it cannot compensate for a s
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: Where Will The Oil Be Coming From](../../../charts/poten/2023/poten_2023-04-21_where-will-the-oil-be-coming-from_chart1.png)
+![Exhibit 1: EIA: Crude Oil Production (Selected Non-OPEC Producers)](../../../charts/poten/2023/poten_2023-04-21_where-will-the-oil-be-coming-from_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2023/poten_2023-04-21_where-will-the-oil-be-coming-from_chart1.png)
+> **Exhibit 1: EIA: Crude Oil Production (Selected Non-OPEC Producers)**  
+> Unit: Mb/d · X-axis: Jan-18 to Oct-24  
+> Series: Canada, United States, Norway, Brazil  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2023/poten_2023-04-21_where-will-the-oil-be-coming-from_chart1.png)
 
-![Exhibit 2: Where Will The Oil Be Coming From](../../../charts/poten/2023/poten_2023-04-21_where-will-the-oil-be-coming-from_chart2.png)
+![Exhibit 2: EIA: Non-OPEC Oil Production Development](../../../charts/poten/2023/poten_2023-04-21_where-will-the-oil-be-coming-from_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2023/poten_2023-04-21_where-will-the-oil-be-coming-from_chart2.png)
+> **Exhibit 2: EIA: Non-OPEC Oil Production Development**  
+> Unit: Mb/d · X-axis: 2021 to 2024  
+> Series: N. America, Lat. America, Europe, Eurasia, M. East, Asia, Africa  
+> *Source: US Energy Information Administration (EIA)*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2023/poten_2023-04-21_where-will-the-oil-be-coming-from_chart2.png)

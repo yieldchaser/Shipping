@@ -32,8 +32,8 @@ The above projections seem to indicate that road transportation will continue to
 
 ![Exhibit 1: Pulling the Plug On Gasoline Demand](../../../charts/poten/2021/poten_2021-10-08_pulling-the-plug-on-gasoline-demand_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2021/poten_2021-10-08_pulling-the-plug-on-gasoline-demand_chart1.png)
+> **Interactive Asset:** [Local Asset (200 DPI PNG)](../../../charts/poten/2021/poten_2021-10-08_pulling-the-plug-on-gasoline-demand_chart1.png)
 
 ![Exhibit 2: Pulling the Plug On Gasoline Demand](../../../charts/poten/2021/poten_2021-10-08_pulling-the-plug-on-gasoline-demand_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2021/poten_2021-10-08_pulling-the-plug-on-gasoline-demand_chart2.png)
+> **Interactive Asset:** [Local Asset (200 DPI PNG)](../../../charts/poten/2021/poten_2021-10-08_pulling-the-plug-on-gasoline-demand_chart2.png)

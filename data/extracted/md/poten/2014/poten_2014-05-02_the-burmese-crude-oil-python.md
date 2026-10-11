@@ -45,8 +45,8 @@ To the shipowner, the development of the pipeline would reduce China's dependenc
 
 ![Exhibit 1: The Burmese Crude Oil Python](../../../charts/poten/2014/poten_2014-05-02_the-burmese-crude-oil-python_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2014/poten_2014-05-02_the-burmese-crude-oil-python_chart1.png)
+> **Interactive Asset:** [Local Asset (200 DPI PNG)](../../../charts/poten/2014/poten_2014-05-02_the-burmese-crude-oil-python_chart1.png)
 
 ![Exhibit 2: The Burmese Crude Oil Python](../../../charts/poten/2014/poten_2014-05-02_the-burmese-crude-oil-python_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2014/poten_2014-05-02_the-burmese-crude-oil-python_chart2.png)
+> **Interactive Asset:** [Local Asset (200 DPI PNG)](../../../charts/poten/2014/poten_2014-05-02_the-burmese-crude-oil-python_chart2.png)

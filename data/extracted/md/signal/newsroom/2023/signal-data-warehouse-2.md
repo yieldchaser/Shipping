@@ -32,6 +32,8 @@ The Signal Ocean Data Warehouse provides an alternative solution for accessing t
 
 Dimitris Tsapoulis, Group COO, Signal Group, explains:
 
+“The sheer scale of data now available to brokers and analysts in the current trading environment is overwhelming to anyone still trying to run the entire data crunching process manually. Our Data Warehouse offering will do the heavy lifting for them by seamlessly streaming the data Signal Ocean curates into their own systems and dashboards and automatically integrating that data with their own information. This will save hours a day and – crucially – make sure users are not on the back foot in what is an exceptionally fast-moving and volatile trading environment.”
+
 “We’ve also made sure that the Data Warehouse solution is as close to a plug-and-play solution as you can get – there is no need for extremely resource-heavy IT integrations or investment in additional storage infrastructure, because our data is hosted on the cloud and our APIs are constantly updated. In short, with the Data Warehouse, companies of any size can harness all available market data without the huge costs in time and money of sifting through a mountain of data and information while their competitors beat them to the fix.”
 
 The Signal Ocean Data Warehouse converges data that spans the entire spectrum of a shipping analysts requirements, including vessel particulars, daily AIS, voyages, tonnage list, daily vessel status, distances, vessel emissions, vessel valuations, port expenses, geos, market rates and freight data – and makes them available through a single unified SQL database.

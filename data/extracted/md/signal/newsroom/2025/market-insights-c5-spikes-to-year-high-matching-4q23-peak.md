@@ -30,10 +30,10 @@ tags:
 *In our previous market insights, we explored the* [*Simandou*](https://www.thesignalgroup.com/newsroom/iron-ores-shifting-currents-supply-surge-meets-china-slowdown) *iron ore story and whether it could meaningfully challenge the long-standing dominance of Australian and Brazilian exporters. This week, we shift focus to Western Australia’s iron ore dynamics behind the recent strength in the C5 freight route assessment. With year-end approaching, we review how shipment volumes have evolved and whether Q4 is on track to deliver a firm close for Australia’s iron ore industry.*
 
 
-![Rising Australian Ore Loadings Keep Upward Pressure on Wa–china Freight.](../../images/6931705367fff000eda17427_6cf8a2b5.png)
+![Rising Australian Ore Loadings Keep Upward Pressure on Wa–china Freight.](../../../../../../corpus/07-signal/images/6931705367fff000eda17427_6cf8a2b5.png)
 
 > **Figure 1: Rising Australian Ore Loadings Keep Upward Pressure on Wa–china Freight.**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/market-insights-c5-spikes-to-year-high-matching-4q23-peak) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6931705367fff000eda17427_6cf8a2b5.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/market-insights-c5-spikes-to-year-high-matching-4q23-peak) | [Local Asset](../../../../../../corpus/07-signal/images/6931705367fff000eda17427_6cf8a2b5.png)
 
 
 - C5 assessments have climbed back to the peak levels last seen in 4Q23,  the highest in nearly a year.
@@ -48,10 +48,10 @@ tags:
 - Seasonal High: China’s Iron Ore Intake from Western Australia exceeded 70M mt in Q4
 
 
-![Spotlight on West Australian Iron Ore Flows | China](../../images/6931705367fff000eda17424_3ce75547.png)
+![Spotlight on West Australian Iron Ore Flows | China](../../../../../../corpus/07-signal/images/6931705367fff000eda17424_3ce75547.png)
 
 > **Figure 2: Spotlight on West Australian Iron Ore Flows | China**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/market-insights-c5-spikes-to-year-high-matching-4q23-peak) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6931705367fff000eda17424_3ce75547.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/market-insights-c5-spikes-to-year-high-matching-4q23-peak) | [Local Asset](../../../../../../corpus/07-signal/images/6931705367fff000eda17424_3ce75547.png)
 
 The strong sentiment from October continued into November, with the early start of Australia’s tropical cyclone season not yet impacting the market. Chinese iron ore imports increased through October and November despite ongoing pressure from the property sector. Export volumes from Port Hedland were also firm, confirming that Western Australia’s shipments held up well ahead of the main cyclone months. Looking ahead to the November–April period, weather-related risks could affect export activity, while wider economic challenges will continue to weigh on Chinese iron ore demand.
 
@@ -59,10 +59,10 @@ The strong sentiment from October continued into November, with the early start 
 - **Port Hedland** | Capesize Iron Ore Exports to China Exceeded 33million metric tonnes in November
 
 
-![Spotlight on West Australian Iron Ore Flows | China](../../images/6931705367fff000eda1742a_02429d74.png)
+![Spotlight on West Australian Iron Ore Flows | China](../../../../../../corpus/07-signal/images/6931705367fff000eda1742a_02429d74.png)
 
 > **Figure 3: Spotlight on West Australian Iron Ore Flows | China**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/market-insights-c5-spikes-to-year-high-matching-4q23-peak) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6931705367fff000eda1742a_02429d74.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/market-insights-c5-spikes-to-year-high-matching-4q23-peak) | [Local Asset](../../../../../../corpus/07-signal/images/6931705367fff000eda1742a_02429d74.png)
 
 In November, Port Hedland’s Capesize iron ore shipments to China climbed past 33 million metric tons, coming close to the May high of more than 35 million tons. Dampier and Port Walcott added meaningful volumes as well, but Port Hedland remained dominant, representing over 60% of Western Australia’s total exports to China.
 
@@ -73,10 +73,10 @@ In November, Port Hedland’s Capesize iron ore shipments to China climbed past 
 - Ballaster availability has tightened, with the 21D MA dropping to 162 vessels
 
 
-![Ballasters vs C5 Rates](../../images/6931705367fff000eda1742d_7bd16f62.png)
+![Ballasters vs C5 Rates](../../../../../../corpus/07-signal/images/6931705367fff000eda1742d_7bd16f62.png)
 
 > **Figure 4: Ballasters vs C5 Rates**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/market-insights-c5-spikes-to-year-high-matching-4q23-peak) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6931705367fff000eda1742d_7bd16f62.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/market-insights-c5-spikes-to-year-high-matching-4q23-peak) | [Local Asset](../../../../../../corpus/07-signal/images/6931705367fff000eda1742d_7bd16f62.png)
 
 Ballaster numbers have retreated significantly from their early-October peak of roughly 180 vessels to around 160 by late November. This decline aligns with the pick-up in iron ore loadings out of Western Australia, which has helped absorb the excess tonnage. The tighter vessel supply, together with stronger export flows, has supported firmer C5 sentiment, with rates rising from around $10/mt in early October to approximately $12/mt by late November.
 

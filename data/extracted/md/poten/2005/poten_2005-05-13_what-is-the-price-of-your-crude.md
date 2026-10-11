@@ -80,6 +80,26 @@ Sometimes it is beneficial to buy crude in dollars, other times the benefit shif
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: What Is The Price of Your Crude?](../../../charts/poten/2005/poten_2005-05-13_what-is-the-price-of-your-crude_chart1.png)
+> **Chart on PDF page 1: U.S Consumer Price Index**  
+> Unit: CPI · X-axis: Jan-00 to Jan-05  
+> Series: CPI  
+> *Source: U.S. Bureau of Labor/Poten*  
+> *No image crop of this chart was saved; caption read from the PDF.*
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2005/poten_2005-05-13_what-is-the-price-of-your-crude_chart1.png)
+> **Chart on PDF page 2: Crude Oil Prices**  
+> Unit: $/Bbl · X-axis: Jan-00 to Jan-05  
+> Series: Current $, Constant 2000$  
+> *Source: Poten & Partners*  
+> *No image crop of this chart was saved; caption read from the PDF.*
+
+> **Chart on PDF page 2: Currency Exchange Rates**  
+> Unit: GBP & Euros/$ | Yen/$ · X-axis: Jan-00 to Jan-05  
+> Series: $ to Euros, $ to GBP, $ to yen  
+> *Source: Poten & Partners*  
+> *No image crop of this chart was saved; caption read from the PDF.*
+
+> **Chart on PDF page 3: Crude Oil Price Indexed To Leading Currencies**  
+> Unit: Index Value · X-axis: Jan-00 to Jan-05  
+> Series: USD, Yen, GBP, Euro  
+> *Source: Poten & Partners*  
+> *No image crop of this chart was saved; caption read from the PDF.*

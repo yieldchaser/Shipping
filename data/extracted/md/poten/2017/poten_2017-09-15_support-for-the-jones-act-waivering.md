@@ -28,10 +28,13 @@ The publicity around the Jones Act waivers has also rekindled the debate about t
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: Support for the Jones Act Waivering](../../../charts/poten/2017/poten_2017-09-15_support-for-the-jones-act-waivering_chart1.png)
+![Exhibit 1: Figure 1. Gulf Coast (PADD 3) to Lower Atlantic (PADD 1C) tanker and barge movements of gasoline](../../../charts/poten/2017/poten_2017-09-15_support-for-the-jones-act-waivering_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2017/poten_2017-09-15_support-for-the-jones-act-waivering_chart1.png)
+> **Exhibit 1: Figure 1. Gulf Coast (PADD 3) to Lower Atlantic (PADD 1C) tanker and barge movements of gasoline**  
+> Unit: thousand barrels per day · X-axis: 2012 to 2017  
+> *Source: U.S. Energy Information Administration, Petroleum Supply Monthly*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2017/poten_2017-09-15_support-for-the-jones-act-waivering_chart1.png)
 
 ![Exhibit 2: Support for the Jones Act Waivering](../../../charts/poten/2017/poten_2017-09-15_support-for-the-jones-act-waivering_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2017/poten_2017-09-15_support-for-the-jones-act-waivering_chart2.png)
+> **Interactive Asset:** [Local Asset (200 DPI PNG)](../../../charts/poten/2017/poten_2017-09-15_support-for-the-jones-act-waivering_chart2.png)

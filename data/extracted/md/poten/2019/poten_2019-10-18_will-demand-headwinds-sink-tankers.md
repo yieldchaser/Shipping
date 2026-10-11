@@ -30,10 +30,17 @@ On the tanker supply side, the risk of fleet growth is limited in the short term
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: Will Demand Headwinds Sink Tankers](../../../charts/poten/2019/poten_2019-10-18_will-demand-headwinds-sink-tankers_chart1.png)
+![Exhibit 1: 2020 Oil Demand Growth](../../../charts/poten/2019/poten_2019-10-18_will-demand-headwinds-sink-tankers_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2019/poten_2019-10-18_will-demand-headwinds-sink-tankers_chart1.png)
+> **Exhibit 1: 2020 Oil Demand Growth**  
+> Unit: Mb/d · X-axis: OECD to World  
+> Series: IEA, EIA, OPEC  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2019/poten_2019-10-18_will-demand-headwinds-sink-tankers_chart1.png)
 
-![Exhibit 2: Will Demand Headwinds Sink Tankers](../../../charts/poten/2019/poten_2019-10-18_will-demand-headwinds-sink-tankers_chart2.png)
+![Exhibit 2: 2020 Oil Supply Growth](../../../charts/poten/2019/poten_2019-10-18_will-demand-headwinds-sink-tankers_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2019/poten_2019-10-18_will-demand-headwinds-sink-tankers_chart2.png)
+> **Exhibit 2: 2020 Oil Supply Growth**  
+> Unit: Mb/d · X-axis: OECD Americas to World  
+> Series: IEA, EIA, OPEC  
+> *Source: IEA, EIA, OPEC*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2019/poten_2019-10-18_will-demand-headwinds-sink-tankers_chart2.png)

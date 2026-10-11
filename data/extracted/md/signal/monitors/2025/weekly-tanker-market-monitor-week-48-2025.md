@@ -36,10 +36,10 @@ tags:
 **TD3C**: 52-Week **High** **142 | TD15**: 52-Week **High 124**
 
 
-![6928951635317d479e5ec0df 6b81c28b](../../images/6928951635317d479e5ec0df_6b81c28b.png)
+![6928951635317d479e5ec0df 6b81c28b](../../../../../../corpus/07-signal/images/6928951635317d479e5ec0df_6b81c28b.png)
 
 > **Figure 1: 6928951635317d479e5ec0df 6b81c28b**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-tanker-market-monitor-week-48-2025) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6928951635317d479e5ec0df_6b81c28b.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-tanker-market-monitor-week-48-2025) | [Local Asset](../../../../../../corpus/07-signal/images/6928951635317d479e5ec0df_6b81c28b.png)
 
 This week’s analysis focuses on VLCC performance and the evolving Russian crude flows. Building on our [October](https://www.thesignalgroup.com/newsroom/from-summer-to-autumn-2025-dirty-tanker-market-review) and [November](https://www.thesignalgroup.com/newsroom/structural-market-shifts-not-just-barrels-powering-the-dirty-rally) Special Editions, we have already outlined the main drivers behind the recent market surge. In the November edition, we emphasised how structural inefficiencies are increasingly shaping market behaviour, reflected in elevated tonne-days despite relatively softer tonne-mile growth.
 
@@ -55,10 +55,10 @@ In this follow-up, we examine how freight prices and vessel supply interact to i
 - Trend Reversal: Late November shows a noticeable easing, with the 21-day MA around 30% below end-October.
 
 
-![Russian Dirty Oil Flows | India](../../images/6928951635317d479e5ec0d9_ef3f6d99.png)
+![Russian Dirty Oil Flows | India](../../../../../../corpus/07-signal/images/6928951635317d479e5ec0d9_ef3f6d99.png)
 
 > **Figure 2: Russian Dirty Oil Flows | India**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-tanker-market-monitor-week-48-2025) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6928951635317d479e5ec0d9_ef3f6d99.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-tanker-market-monitor-week-48-2025) | [Local Asset](../../../../../../corpus/07-signal/images/6928951635317d479e5ec0d9_ef3f6d99.png)
 
 India has not completely halted purchases of Russian crude. November arrivals are on track to reach a multi-month high as refiners front-loaded purchases ahead of the U.S. sanctions deadline. However, the TSOP 21-day moving average of Russian flows has already declined from its late-October peak and is now trending lower following the U.S. measures on Rosneft and Lukoil, announced in late October and effective from [21 November](https://www.cbsnews.com/news/sanctions-choked-russia-oil-industry-a-key-source-of-kremlin-funds/). Together with the sanctions wind-down, this points to a sharp drop in arrivals from December onward. Although Indian refiners can still buy Russian crude from non-sanctioned intermediaries, several developments indicate that inflows are likely to continue falling, rather than stabilising or rebounding:
 
@@ -77,10 +77,10 @@ India has not completely halted purchases of Russian crude. November arrivals ar
 - In the AG, even as supply increased from ~76 in early September to over 100, rates remained elevated. TD3 was already near WS 98 in mid-September and continues to display firmness into late November.
 
 
-![AG | Last 12m Avg: 107 Vessels](../../images/6928951635317d479e5ec0d3_dc1139df.png)
+![AG | Last 12m Avg: 107 Vessels](../../../../../../corpus/07-signal/images/6928951635317d479e5ec0d3_dc1139df.png)
 
 > **Figure 3: AG | Last 12m Avg: 107 Vessels**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-tanker-market-monitor-week-48-2025) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6928951635317d479e5ec0d3_dc1139df.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-tanker-market-monitor-week-48-2025) | [Local Asset](../../../../../../corpus/07-signal/images/6928951635317d479e5ec0d3_dc1139df.png)
 
 
 ## Wafr | Last 12m Avg: 13 Vessels
@@ -89,10 +89,10 @@ India has not completely halted purchases of Russian crude. November arrivals ar
 - In WAF, TD15 has surged as net supply dropped to multi-month lows, with rates holding firm around WS 120 even as availability began to pick up in late November.
 
 
-![Wafr | Last 12m Avg: 13 Vessels](../../images/6928951635317d479e5ec0d6_d33b70cf.png)
+![Wafr | Last 12m Avg: 13 Vessels](../../../../../../corpus/07-signal/images/6928951635317d479e5ec0d6_d33b70cf.png)
 
 > **Figure 4: Wafr | Last 12m Avg: 13 Vessels**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-tanker-market-monitor-week-48-2025) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6928951635317d479e5ec0d6_d33b70cf.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-tanker-market-monitor-week-48-2025) | [Local Asset](../../../../../../corpus/07-signal/images/6928951635317d479e5ec0d6_d33b70cf.png)
 
 
 ## Vlcccongestion| Discharge China +11% WoW
@@ -101,10 +101,10 @@ India has not completely halted purchases of Russian crude. November arrivals ar
 - Discharge congestion in China has climbed sharply from early-autumn lows to the highest levels of the year, tightening effective tonnage supply and adding to the firmer sentiment on long-haul crude routes.
 
 
-![VLCC Congestion | Discharge China +11% WoW](../../images/6928951635317d479e5ec0dc_e1517424.png)
+![VLCC Congestion | Discharge China +11% WoW](../../../../../../corpus/07-signal/images/6928951635317d479e5ec0dc_e1517424.png)
 
 > **Figure 5: VLCC Congestion | Discharge China +11% WoW**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-tanker-market-monitor-week-48-2025) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6928951635317d479e5ec0dc_e1517424.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-tanker-market-monitor-week-48-2025) | [Local Asset](../../../../../../corpus/07-signal/images/6928951635317d479e5ec0dc_e1517424.png)
 
 
 ## Macro Elements

@@ -45,10 +45,10 @@ On the return leg, DPP tankers prefer the shorter route via Bab-el Mandeb/Suez C
 
 ➔ However, there was a single vessel in September which diverted before crossing the BEM strait and navigated via COGH
 
-![Στιγμιότυπο Οθόνης 2024 10 17 100544](assets/2024-10-17_as-middle-distillate-growth-wanes-lrs-find-support-in-naphtha-trade_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_46fd6d55a51d.png)
+![Στιγμιότυπο Οθόνης 2024 10 17 100544](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-10-17_as-middle-distillate-growth-wanes-lrs-find-support-in-naphtha-trade_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_46fd6d55a51d.png)
 
 > **Figure 1: Στιγμιότυπο Οθόνης 2024 10 17 100544**  
-> **Interactive Data & Source:** [Vortexa](https://www.vortexa.com//oil-gas-data-traders-analysts-data-scientists?gclid=Cj0KCQjw8_qRBhCXARIsAE2AtRZKOvMnbilZ_6_91d7huSFFy71pWLrnPwGwOHVzXsmsG-1a1mZnQw8aAt89EALw_wcB&hsa_acc=1782073842&hsa_ad=548425387665&hsa_cam=14746637662&hsa_grp=125038601902&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_src=g&hsa_tgt=dsa-1431852288425&hsa_ver=3&utm_campaign=%5BCD%5D%20-%20DSA%20-%20EMEA&utm_medium=cpc&utm_medium=ppc&utm_source=google&utm_source=adwords&utm_term=) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-10-17_as-middle-distillate-growth-wanes-lrs-find-support-in-naphtha-trade_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_46fd6d55a51d.png)
+> **Interactive Data & Source:** [Vortexa](https://www.vortexa.com//oil-gas-data-traders-analysts-data-scientists?gclid=Cj0KCQjw8_qRBhCXARIsAE2AtRZKOvMnbilZ_6_91d7huSFFy71pWLrnPwGwOHVzXsmsG-1a1mZnQw8aAt89EALw_wcB&hsa_acc=1782073842&hsa_ad=548425387665&hsa_cam=14746637662&hsa_grp=125038601902&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_src=g&hsa_tgt=dsa-1431852288425&hsa_ver=3&utm_campaign=%5BCD%5D%20-%20DSA%20-%20EMEA&utm_medium=cpc&utm_medium=ppc&utm_source=google&utm_source=adwords&utm_term=) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-10-17_as-middle-distillate-growth-wanes-lrs-find-support-in-naphtha-trade_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_46fd6d55a51d.png)
 
 ## Clean – East of Suez: Naphtha Trade to Asia (Especially From Europe) Currently the Only Bright Spot for Lr Demand
 
@@ -64,10 +64,10 @@ Currently, high LR supply in the Med and MEG and a lack of demand for employment
 
 ➔ Global LR tonne-miles for all other CPP excluding naphtha currently have not recovered to Q2 levels
 
-![Στιγμιότυπο Οθόνης 2024 10 17 101255](assets/2024-10-17_as-middle-distillate-growth-wanes-lrs-find-support-in-naphtha-trade_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_553924e0b69c.png)
+![Στιγμιότυπο Οθόνης 2024 10 17 101255](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-10-17_as-middle-distillate-growth-wanes-lrs-find-support-in-naphtha-trade_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_553924e0b69c.png)
 
 > **Figure 2: Στιγμιότυπο Οθόνης 2024 10 17 101255**  
-> **Interactive Data & Source:** [Vortexa](https://www.vortexa.com//oil-gas-data-traders-analysts-data-scientists?gclid=Cj0KCQjw8_qRBhCXARIsAE2AtRZKOvMnbilZ_6_91d7huSFFy71pWLrnPwGwOHVzXsmsG-1a1mZnQw8aAt89EALw_wcB&hsa_acc=1782073842&hsa_ad=548425387665&hsa_cam=14746637662&hsa_grp=125038601902&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_src=g&hsa_tgt=dsa-1431852288425&hsa_ver=3&utm_campaign=%5BCD%5D%20-%20DSA%20-%20EMEA&utm_medium=cpc&utm_medium=ppc&utm_source=google&utm_source=adwords&utm_term=) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-10-17_as-middle-distillate-growth-wanes-lrs-find-support-in-naphtha-trade_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_553924e0b69c.png)
+> **Interactive Data & Source:** [Vortexa](https://www.vortexa.com//oil-gas-data-traders-analysts-data-scientists?gclid=Cj0KCQjw8_qRBhCXARIsAE2AtRZKOvMnbilZ_6_91d7huSFFy71pWLrnPwGwOHVzXsmsG-1a1mZnQw8aAt89EALw_wcB&hsa_acc=1782073842&hsa_ad=548425387665&hsa_cam=14746637662&hsa_grp=125038601902&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_src=g&hsa_tgt=dsa-1431852288425&hsa_ver=3&utm_campaign=%5BCD%5D%20-%20DSA%20-%20EMEA&utm_medium=cpc&utm_medium=ppc&utm_source=google&utm_source=adwords&utm_term=) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-10-17_as-middle-distillate-growth-wanes-lrs-find-support-in-naphtha-trade_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_553924e0b69c.png)
 
 ## Dirty – West of Suez: Lower Demand From Eos Markets Takes Its Toll on Us Gulf Coast Crude/condensate Departures
 
@@ -87,10 +87,10 @@ Additionally, the return of Libyan barrels might create further dents on US Gulf
 
 Nevertheless, refinery maintenance season in the US Gulf Coast should help increase departures, as some barrels will be placed for export instead
 
-![Στιγμιότυπο Οθόνης 2024 10 17 101307](assets/2024-10-17_as-middle-distillate-growth-wanes-lrs-find-support-in-naphtha-trade_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_845de13b4a7c.png)
+![Στιγμιότυπο Οθόνης 2024 10 17 101307](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-10-17_as-middle-distillate-growth-wanes-lrs-find-support-in-naphtha-trade_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_845de13b4a7c.png)
 
 > **Figure 3: Στιγμιότυπο Οθόνης 2024 10 17 101307**  
-> **Interactive Data & Source:** [Vortexa](https://www.vortexa.com//oil-gas-data-traders-analysts-data-scientists?gclid=Cj0KCQjw8_qRBhCXARIsAE2AtRZKOvMnbilZ_6_91d7huSFFy71pWLrnPwGwOHVzXsmsG-1a1mZnQw8aAt89EALw_wcB&hsa_acc=1782073842&hsa_ad=548425387665&hsa_cam=14746637662&hsa_grp=125038601902&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_src=g&hsa_tgt=dsa-1431852288425&hsa_ver=3&utm_campaign=%5BCD%5D%20-%20DSA%20-%20EMEA&utm_medium=cpc&utm_medium=ppc&utm_source=google&utm_source=adwords&utm_term=) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-10-17_as-middle-distillate-growth-wanes-lrs-find-support-in-naphtha-trade_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_845de13b4a7c.png)
+> **Interactive Data & Source:** [Vortexa](https://www.vortexa.com//oil-gas-data-traders-analysts-data-scientists?gclid=Cj0KCQjw8_qRBhCXARIsAE2AtRZKOvMnbilZ_6_91d7huSFFy71pWLrnPwGwOHVzXsmsG-1a1mZnQw8aAt89EALw_wcB&hsa_acc=1782073842&hsa_ad=548425387665&hsa_cam=14746637662&hsa_grp=125038601902&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_src=g&hsa_tgt=dsa-1431852288425&hsa_ver=3&utm_campaign=%5BCD%5D%20-%20DSA%20-%20EMEA&utm_medium=cpc&utm_medium=ppc&utm_source=google&utm_source=adwords&utm_term=) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-10-17_as-middle-distillate-growth-wanes-lrs-find-support-in-naphtha-trade_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_845de13b4a7c.png)
 
 ## Clean – West of Suez: Lower Russian Diesel Employment Adds Vessel Supply Pressure to the Atlantic MR Market
 
@@ -106,10 +106,10 @@ September saw more MRs load in the Gulf of Mexico and Brazil after discharging R
 
 Russian diesel exports have now increased from August lows, but ongoing outages at key refineries may limit the extent of export demand recovery and likely keep extra MR tonnage pressure on the European market, where rates are already under pressure
 
-![Στιγμιότυπο Οθόνης 2024 10 17 101319](assets/2024-10-17_as-middle-distillate-growth-wanes-lrs-find-support-in-naphtha-trade_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_be0daf1ade09.png)
+![Στιγμιότυπο Οθόνης 2024 10 17 101319](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-10-17_as-middle-distillate-growth-wanes-lrs-find-support-in-naphtha-trade_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_be0daf1ade09.png)
 
 > **Figure 4: Στιγμιότυπο Οθόνης 2024 10 17 101319**  
-> **Interactive Data & Source:** [Vortexa](https://www.vortexa.com//oil-gas-data-traders-analysts-data-scientists?gclid=Cj0KCQjw8_qRBhCXARIsAE2AtRZKOvMnbilZ_6_91d7huSFFy71pWLrnPwGwOHVzXsmsG-1a1mZnQw8aAt89EALw_wcB&hsa_acc=1782073842&hsa_ad=548425387665&hsa_cam=14746637662&hsa_grp=125038601902&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_src=g&hsa_tgt=dsa-1431852288425&hsa_ver=3&utm_campaign=%5BCD%5D%20-%20DSA%20-%20EMEA&utm_medium=cpc&utm_medium=ppc&utm_source=google&utm_source=adwords&utm_term=) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-10-17_as-middle-distillate-growth-wanes-lrs-find-support-in-naphtha-trade_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_be0daf1ade09.png)
+> **Interactive Data & Source:** [Vortexa](https://www.vortexa.com//oil-gas-data-traders-analysts-data-scientists?gclid=Cj0KCQjw8_qRBhCXARIsAE2AtRZKOvMnbilZ_6_91d7huSFFy71pWLrnPwGwOHVzXsmsG-1a1mZnQw8aAt89EALw_wcB&hsa_acc=1782073842&hsa_ad=548425387665&hsa_cam=14746637662&hsa_grp=125038601902&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_src=g&hsa_tgt=dsa-1431852288425&hsa_ver=3&utm_campaign=%5BCD%5D%20-%20DSA%20-%20EMEA&utm_medium=cpc&utm_medium=ppc&utm_source=google&utm_source=adwords&utm_term=) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-10-17_as-middle-distillate-growth-wanes-lrs-find-support-in-naphtha-trade_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_be0daf1ade09.png)
 
 Data Source:[Vortexa](https://www.vortexa.com//oil-gas-data-traders-analysts-data-scientists?gclid=Cj0KCQjw8_qRBhCXARIsAE2AtRZKOvMnbilZ_6_91d7huSFFy71pWLrnPwGwOHVzXsmsG-1a1mZnQw8aAt89EALw_wcB&hsa_acc=1782073842&hsa_ad=548425387665&hsa_cam=14746637662&hsa_grp=125038601902&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_src=g&hsa_tgt=dsa-1431852288425&hsa_ver=3&utm_campaign=%5BCD%5D%20-%20DSA%20-%20EMEA&utm_medium=cpc&utm_medium=ppc&utm_source=google&utm_source=adwords&utm_term=)
 

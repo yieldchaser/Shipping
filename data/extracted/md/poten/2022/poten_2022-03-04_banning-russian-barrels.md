@@ -18,13 +18,15 @@ charts_count: 2
 
 As the conflict in Ukraine worsens, ever more sanctions are being inflicted on Russia. Many countries have strongly condemned Russia's actions in Ukraine, but so far, the international community has stopped short of directly targeting Russian energy exports. While this would do significant damage to the Russia economy, it will also hurt the global economy and oil consumers worldwide as prices for petroleum products such as gasoline and diesel will rise further. However, the voices that suggest that this is a sacrifice that the world should be willing to make to stop the conflict in Ukraine are getting louder. Canada has already announced a ban on Russian oil imports, but this is largely a symbolic move since the Canadians have not imported any crude oil from Russia since 2019. The United States is also considering such a move. On Thursday, March 3rd, a bipartisan group of U.S. lawmakers introduced legislation to ban Russian oil imports. The Biden administration has so far resisted implementing such a ban since it is concerned about the impact of higher energy prices on the U.S. consumers.
 
-What would the impact be on global trade flows if the U.S. did enact an import ban on Russian oil products? Where do these imports currently go and how easy will it be to replace the Russian products? Imports of crude oil from Russia have been very volatile ([Chart 1](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2022/poten_2022-03-04_banning-russian-barrels_chart1.png)). In the period from 2003 - 2012, imports averaged 177,000 b/d, exceeding 400,000 b/d on several occasions. From 2013 until mid-2018, imports were down considerably, averaging only 50,000 b/d. Imports have picked up again in recent years. In 2021, Russia exported almost 200,000 b/d of crude oil to the U.S. Flows have already been significantly reduced in 2022 YTD (average 45,000 b/d) and seem to have stopped altogether after the hostilities in the Ukraine started. The main importers of Russian crude oil have traditionally been the refiners on the U.S. East Coast, but the U.S. Gulf refiners and some on the U.S. West Coast are also processing Russian barrels. Par Pacific Holdings, Inc, who owns the only refinery in Hawaii announced yesterday that it is suspending all purchase of Russian crude oil. The 94,000 b/d Hawaii refinery, which sourced about 25% of its crude from Russia will switch to North and South American grades. If the U.S. government bans Russian crudes from U.S. shores, alternatives can also be found in Europe, West Africa and the Middle East as well as obtained from domestic sources.
+What would the impact be on global trade flows if the U.S. did enact an import ban on Russian oil products? Where do these imports currently go and how easy will it be to replace the Russian products? Imports of crude oil from Russia have been very volatile ([Chart 1](../../../charts/poten/2022/poten_2022-03-04_banning-russian-barrels_chart1.png)). In the period from 2003 - 2012, imports averaged 177,000 b/d, exceeding 400,000 b/d on several occasions. From 2013 until mid-2018, imports were down considerably, averaging only 50,000 b/d. Imports have picked up again in recent years. In 2021, Russia exported almost 200,000 b/d of crude oil to the U.S. Flows have already been significantly reduced in 2022 YTD (average 45,000 b/d) and seem to have stopped altogether after the hostilities in the Ukraine started. The main importers of Russian crude oil have traditionally been the refiners on the U.S. East Coast, but the U.S. Gulf refiners and some on the U.S. West Coast are also processing Russian barrels. Par Pacific Holdings, Inc, who owns the only refinery in Hawaii announced yesterday that it is suspending all purchase of Russian crude oil. The 94,000 b/d Hawaii refinery, which sourced about 25% of its crude from Russia will switch to North and South American grades. If the U.S. government bans Russian crudes from U.S. shores, alternatives can also be found in Europe, West Africa and the Middle East as well as obtained from domestic sources.
 
-> **Exhibit 1: Banning Russian Barrels (Chart 1)**  
-> *Source: Poten & Partners*  
-> **Interactive Data & Source:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2022/poten_2022-03-04_banning-russian-barrels_chart1.png)
+> **Exhibit 1: US Crude Oil Imports From Russia**  
+> Unit: Kbbl/day · X-axis: Jan-15 to Oct-21  
+> Series: PADD1, PADD3, PADD5  
+> *Source: EIA*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2022/poten_2022-03-04_banning-russian-barrels_chart1.png)
 
-![Exhibit 1: Banning Russian Barrels](../../../charts/poten/2022/poten_2022-03-04_banning-russian-barrels_chart1.png)
+![Exhibit 1: US Crude Oil Imports From Russia](../../../charts/poten/2022/poten_2022-03-04_banning-russian-barrels_chart1.png)
 
 While U.S. imports of Russian crude oil are fairly limited, the volumes of refined product imports are much higher. In 2021, the U.S. imported 472,000 b/d of refined products from Russia (more than double the volume of crude oil imports). Most of these barrels ended up in PADD 3 (U.S. Gulf area); only small volumes were shipped to the U.S. East Cast (PADD 1) and even less to the U.S. West Coast (PADD 5). The most popular products that U.S. buyers sourced from Russia are Unfinished (partially refined) Oils and Gasoline Blending Components and to a lesser degree Diesel and Fuel Oil.
 
@@ -34,6 +36,10 @@ However, if the conflict continues, the uncertainty around the implications of t
 
 ## Market Exhibits & Charts
 
-![Exhibit 2: Banning Russian Barrels](../../../charts/poten/2022/poten_2022-03-04_banning-russian-barrels_chart2.png)
+![Exhibit 2: US Petroleum Product Imports From Russia](../../../charts/poten/2022/poten_2022-03-04_banning-russian-barrels_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2022/poten_2022-03-04_banning-russian-barrels_chart2.png)
+> **Exhibit 2: US Petroleum Product Imports From Russia**  
+> Unit: Kbbl/day · X-axis: Jan-15 to Oct-21  
+> Series: PADD1, PADD3, PADD5  
+> *Source: EIA*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2022/poten_2022-03-04_banning-russian-barrels_chart2.png)

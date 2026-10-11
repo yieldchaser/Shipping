@@ -34,10 +34,18 @@ The current market imbalance should improve when Saudi exports to the US pick up
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: To Asia with Love](../../../charts/poten/2014/poten_2014-09-05_to-asia-with-love_chart1.png)
+![Exhibit 1: Reported Spot Fixtures from the Caribbean to Asia](../../../charts/poten/2014/poten_2014-09-05_to-asia-with-love_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2014/poten_2014-09-05_to-asia-with-love_chart1.png)
+> **Exhibit 1: Reported Spot Fixtures from the Caribbean to Asia**  
+> Unit: No. Fixtures · X-axis: Jan-2010 to Jul-2014  
+> Series: China /SE Asia, India  
+> *Source: Poten & Partners*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2014/poten_2014-09-05_to-asia-with-love_chart1.png)
 
-![Exhibit 2: To Asia with Love](../../../charts/poten/2014/poten_2014-09-05_to-asia-with-love_chart2.png)
+![Exhibit 2: Reported Spot Fixtures into the U.S. Gulf](../../../charts/poten/2014/poten_2014-09-05_to-asia-with-love_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2014/poten_2014-09-05_to-asia-with-love_chart2.png)
+> **Exhibit 2: Reported Spot Fixtures into the U.S. Gulf**  
+> Unit: No. Fixtures · X-axis: Jan-2010 to Jul-2014  
+> Series: Arabian Gulf, Other  
+> *Source: Poten & Partners*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2014/poten_2014-09-05_to-asia-with-love_chart2.png)

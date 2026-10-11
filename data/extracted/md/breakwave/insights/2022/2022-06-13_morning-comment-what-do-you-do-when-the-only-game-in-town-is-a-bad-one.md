@@ -25,10 +25,10 @@ Markets crashed at the back end of last week, as US inflation surprised again on
 
 Frankly, we are somewhat surprised also. Not by persisting inflation but by the fact that markets seem surprised. Often, forecasters get hung up on the year-on-year effect on the numbers. Inflation was already up 5% in April 2021, the thinking goes. Therefore, this April, the previous inflation effect goes away and the final number should be pressured down. This approach would make sense if we were talking about the same inflation cycle. However, we are not. What we are seeing is two supply-side inflation cycles running back-to-back.
 
-![Market Chart 1](assets/2022-06-13_morning-comment-what-do-you-do-when-the-only-game-in-town-is-a-bad-one_img_image001_a8e063ac5fc1.png)
+![Market Chart 1](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-06-13_morning-comment-what-do-you-do-when-the-only-game-in-town-is-a-bad-one_img_image001_a8e063ac5fc1.png)
 
 > **Figure 1: Market Chart 1**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-06-13_morning-comment-what-do-you-do-when-the-only-game-in-town-is-a-bad-one_img_image001_a8e063ac5fc1.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-06-13_morning-comment-what-do-you-do-when-the-only-game-in-town-is-a-bad-one_img_image001_a8e063ac5fc1.png)
 
 Last year, inflation was all about post-pandemic supply chain dislocations. While supply chains remain at the epicentre of rising prices, this time around, the reason is not simply pandemic-related dislocations but a confluence of much more severe and impactful events:
 

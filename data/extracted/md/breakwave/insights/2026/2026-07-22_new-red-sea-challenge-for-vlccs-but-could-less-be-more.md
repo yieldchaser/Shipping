@@ -28,11 +28,11 @@ Yesterday, Yemen’s Houthis rebels announced their intention to enforce a ‘ma
 
 An expected global decline in VLCC liftings is nominally bearish freight. Indeed, since the closure of Hormuz last week, Atlantic VLCC stems are being overwhelmed with interest from ships open anywhere from the Middle East to Singapore. The US Gulf to China rate has fallen from about $114k/day mid-month to $105k/day yesterday. The heightened risk of Mideast Gulf loadings has meant VLCC earnings from Mideast Gulf to China have increased by almost $85k/day to $379k/day since July 6 to reach a premium of almost $255k/day to loadings in the Gulf of Oman.
 
-![Source: Baltic Exchange / Braemar](assets/2026-07-22_new-red-sea-challenge-for-vlccs-but-could-less-be-more_img_e803-image-0-1784645800373_9a51e82acf53.png)
+![Source: Baltic Exchange / Braemar](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-07-22_new-red-sea-challenge-for-vlccs-but-could-less-be-more_img_e803-image-0-1784645800373_9a51e82acf53.png)
 
 > **Figure 1: Source: Baltic Exchange / Braemar**  
 > *Source: Baltic Exchange / Braemar*  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-07-22_new-red-sea-challenge-for-vlccs-but-could-less-be-more_img_e803-image-0-1784645800373_9a51e82acf53.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-07-22_new-red-sea-challenge-for-vlccs-but-could-less-be-more_img_e803-image-0-1784645800373_9a51e82acf53.png)
 
 However, the key question for the future direction of Atlantic VLCC rates is how badly eastern buyers are going to need crude. This will determine how much they will pay to book the next ship that can carry it. Unless the chaos in the Middle East can be resolved quickly, we are likely to see a re-emergence of our ‘urgency premium’ for freight.
 
@@ -42,19 +42,19 @@ To recap on recent events: Trump declared the US-Iran ceasefire “over” on Ju
 
 Since the ceasefire ‘officially’ ended, around 30 tanker transits via Hormuz were reported (week ending July 19), down from over 90 a week earlier. Of these 30 tankers, around half were Iran-linked dark fleet. Only 5 were compliant VLCCs exiting the Mideast Gulf, down from 30 in the week after the MoU was signed.
 
-![4ef8 Image 1 1784645817577](assets/2026-07-22_new-red-sea-challenge-for-vlccs-but-could-less-be-more_img_4ef8-image-1-1784645817577_b454a43fc622.png)
+![4ef8 Image 1 1784645817577](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-07-22_new-red-sea-challenge-for-vlccs-but-could-less-be-more_img_4ef8-image-1-1784645817577_b454a43fc622.png)
 
 > **Figure 2: 4ef8 Image 1 1784645817577**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-07-22_new-red-sea-challenge-for-vlccs-but-could-less-be-more_img_4ef8-image-1-1784645817577_b454a43fc622.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-07-22_new-red-sea-challenge-for-vlccs-but-could-less-be-more_img_4ef8-image-1-1784645817577_b454a43fc622.png)
 
 *Source: Vortexa*
 
 The shuttle trade to exit the Mideast Gulf was explicitly targeted by Iran. We believe three of the VLCCs hit in the past two weeks have been involved in shuttling oil out of the Mideast Gulf to Fujairah/Gulf of Oman.
 
-![8293 Image 2 1784646005216](assets/2026-07-22_new-red-sea-challenge-for-vlccs-but-could-less-be-more_img_8293-image-2-1784646005216_0cbfa76e8625.png)
+![8293 Image 2 1784646005216](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-07-22_new-red-sea-challenge-for-vlccs-but-could-less-be-more_img_8293-image-2-1784646005216_0cbfa76e8625.png)
 
 > **Figure 3: 8293 Image 2 1784646005216**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-07-22_new-red-sea-challenge-for-vlccs-but-could-less-be-more_img_8293-image-2-1784646005216_0cbfa76e8625.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-07-22_new-red-sea-challenge-for-vlccs-but-could-less-be-more_img_8293-image-2-1784646005216_0cbfa76e8625.png)
 
 To make matters worse, late last week the Houthis fired missiles at Saudi Arabia in response to Saudi attacks on an airport in Yemen. Yesterday, the Houthi’s announced a “maritime embargo” on Saudi Arabia in the Red Sea. This embargo raises serious questions about the viability of eastbound routes from Saudi Arabia’s Yanbu port – the outlet for its East/West pipeline. Saudi crude liftings from Yanbu have averaged 4m b/d since the US-Iran conflict started, up from 1.3m b/d in the two months before the war. In q2 2026, 80% of this Yanbu volume headed East. One charterer was today asking for a 54 day (one way) option for Red Sea load via Suez canal and Cape of Good Hope to S Korea - an extra $1.63 in bunkers alone, basis today’s prices. Ship tracking tools already show one VLCC controlled by COSCO leaving Yanbu yesterday and heading east but now signalling Suez Canal. A dirty-trading LR2 controlled by Dynacom was on an eastbound trip this morning from Yanbu but has also now apparently changed course and is heading for the Suez Canal.
 
@@ -66,10 +66,10 @@ The additional tonnage will now be competing for Atlantic cargoes.
 
 Atlantic basin crude exports in the initial months of Hormuz closure were supplemented by the release of US SPR. US Gulf exports jumped from around 3.77m b/d in March to just over 5.4m b/d in May. US crude exports so far this month have returned to pre conflict levels at about 3.48m b/d. The rate of drawdown of US SPR has averaged about 650k b/d so far in July, down from 1.13m b/d in June. The US SPR is now at its lowest level since the early 1980s. A return to May export levels is unlikely.
 
-![B796 Image 2 1784645894039 (1)](assets/2026-07-22_new-red-sea-challenge-for-vlccs-but-could-less-be-more_img_b796-image-2-178464589403928129_1a2911f2ea14.png)
+![B796 Image 2 1784645894039 (1)](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-07-22_new-red-sea-challenge-for-vlccs-but-could-less-be-more_img_b796-image-2-178464589403928129_1a2911f2ea14.png)
 
 > **Figure 4: B796 Image 2 1784645894039 (1)**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-07-22_new-red-sea-challenge-for-vlccs-but-could-less-be-more_img_b796-image-2-178464589403928129_1a2911f2ea14.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-07-22_new-red-sea-challenge-for-vlccs-but-could-less-be-more_img_b796-image-2-178464589403928129_1a2911f2ea14.png)
 
 *Source: Vortexa*
 

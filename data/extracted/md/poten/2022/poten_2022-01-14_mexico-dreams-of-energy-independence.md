@@ -18,13 +18,15 @@ charts_count: 2
 
 In late December 2021, Mexico's President Andres Manuel Lopez Obrador ("AMLO"), announced ambitious plans to make Mexico self-sufficient in refined petroleum products. To make this happen, Mexico's state oil company PEMEX plans to increase domestic refining capacity and utilization using more domestic crudes. If successful, this could ultimately eliminate both crude oil exports and refined product imports. This major change could have significant implications for the crude oil and product tanker markets. These are not long-term plans either, the changes are almost immediate. PEMEX intends to reduce crude oil exports by 50% in 2022 relative to last year and eliminate them altogether in 2023. In this week's opinion we discuss the implication on the oil and tanker market as well the chances of success for this drastic policy change.
 
-Detailed trade data from Lloyd's List Intelligence ([Chart 1](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2022/poten_2022-01-14_mexico-dreams-of-energy-independence_chart1.png)) shows that Mexican seaborne crude oil exports have been around 1.1 Mb/d since 2016, with monthly averages ranging from a low of 900 Kb/d in the spring of 2017 to highs of 1.4 Mb/d later that year and early 2018. U.S. Gulf refineries have been the major customers, accounting for 54% of Mexican crude oil exports. Asian customers and refiners in the Mediterranean account for most of the remaining export flows. If PEMEX decides to cut exports by 50% this year, it will be important to see where the cuts will take place. In 2021, Aframaxes moved 55% of Mexico's exports, with Suezmaxes and VLCCs each taking 21%. The remaining 3% was done on smaller vessels. The short-haul movements to the U.S. Gulf are predominantly done on Aframaxes, while Suezmaxes are the primary movers of Mexican crude to Spain and Portugal. Customers in India use both Suezmaxes and VLCCs. The long-haul barrels moving to clients in South Korea are all on VLCCs.
+Detailed trade data from Lloyd's List Intelligence ([Chart 1](../../../charts/poten/2022/poten_2022-01-14_mexico-dreams-of-energy-independence_chart1.png)) shows that Mexican seaborne crude oil exports have been around 1.1 Mb/d since 2016, with monthly averages ranging from a low of 900 Kb/d in the spring of 2017 to highs of 1.4 Mb/d later that year and early 2018. U.S. Gulf refineries have been the major customers, accounting for 54% of Mexican crude oil exports. Asian customers and refiners in the Mediterranean account for most of the remaining export flows. If PEMEX decides to cut exports by 50% this year, it will be important to see where the cuts will take place. In 2021, Aframaxes moved 55% of Mexico's exports, with Suezmaxes and VLCCs each taking 21%. The remaining 3% was done on smaller vessels. The short-haul movements to the U.S. Gulf are predominantly done on Aframaxes, while Suezmaxes are the primary movers of Mexican crude to Spain and Portugal. Customers in India use both Suezmaxes and VLCCs. The long-haul barrels moving to clients in South Korea are all on VLCCs.
 
-> **Exhibit 1: Mexico Dreams of Energy Independence (Chart 1)**  
-> *Source: Poten & Partners*  
-> **Interactive Data & Source:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2022/poten_2022-01-14_mexico-dreams-of-energy-independence_chart1.png)
+> **Exhibit 1: Crude Oil Exports from Mexico**  
+> Unit: Kbbl / Day · X-axis: Jan-16 to Oct-21  
+> Series: US Gulf, Other Americas Atl, South Asia, Korea, Other Asia, Mediterranean, Other  
+> *Source: Lloyd’s List Intelligence*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2022/poten_2022-01-14_mexico-dreams-of-energy-independence_chart1.png)
 
-![Exhibit 1: Mexico Dreams of Energy Independence](../../../charts/poten/2022/poten_2022-01-14_mexico-dreams-of-energy-independence_chart1.png)
+![Exhibit 1: Crude Oil Exports from Mexico](../../../charts/poten/2022/poten_2022-01-14_mexico-dreams-of-energy-independence_chart1.png)
 
 It seems that Aframaxes in the Caribbean will be the main victim of declining exports from Mexico. The main customers of Mexican crude are Chevron, Houston Refining, Phillips 66, Valero and the Deer Park refinery in Deer Park, Texas. While the first four companies will have to look for alternative supplies, the Deer Park refinery is 50% owned by PEMEX, with a deal in place to acquire the remaining 50% from Shell later this month. Once 100% owned, the Deer Park refinery, which currently takes about 100,000 b/d of Maya crude, will be considered a "domestic" facility, so crude oil movements will continue, or could even expand in the future. The other clients will have to look elsewhere for their feedstock. Alternatives to Maya include Colombian Castilla, Brazilian Marlim, Arab Heavy from Saudi Arabia and crude from Western Canada. Depending on the choices that the refiners will make, this could benefit other tanker segments, including Suezmaxes (Marlim) and VLCCs (Arab Heavy). If Canadian pipeline crudes are the replacement of choice, that will be a net negative for the tanker market. If clients in India and Korea replace the Mexican crudes with shorter-haul supplies from the Arabian Gulf, that will also be a negative for ton-mile demand.
 
@@ -34,6 +36,10 @@ Mexico's targets are highly ambitious, and it remains to be seen what can be ach
 
 ## Market Exhibits & Charts
 
-![Exhibit 2: Mexico Dreams of Energy Independence](../../../charts/poten/2022/poten_2022-01-14_mexico-dreams-of-energy-independence_chart2.png)
+![Exhibit 2: Petroleum Product Imports By Mexico](../../../charts/poten/2022/poten_2022-01-14_mexico-dreams-of-energy-independence_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2022/poten_2022-01-14_mexico-dreams-of-energy-independence_chart2.png)
+> **Exhibit 2: Petroleum Product Imports By Mexico**  
+> Unit: Kb/d · X-axis: Jan-10 to Jul-21  
+> Series: Naphtha, Gasoline, Gasoil/Diesel, Kerosene  
+> *Source: JODI*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2022/poten_2022-01-14_mexico-dreams-of-energy-independence_chart2.png)

@@ -29,21 +29,21 @@ Of particular note is that furniture, clothing, and household appliance sales in
 ![Chart 1 (1)](assets/2021-10-08_chinese-consumer-market-under-new-pressure_img_chart128129_904c67a529e1.jpg)
 
 > **Figure 1: Chart 1 (1)**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2021/assets/2021-10-08_chinese-consumer-market-under-new-pressure_img_chart128129_904c67a529e1.jpg)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-10-08_chinese-consumer-market-under-new-pressure_img_chart128129_904c67a529e1.jpg)
 
 Clothing sales (which includes garments, footwear, hats, and knitwear) in China have contracted by an even larger amount. Clothing sales in China in August totaled approximately 90 billion yuan, which has marked marked a year-on-year contraction of 7%. China’s domestic clothing sales had previously increased on a year-on-year basis for twelve consecutive months.
 
 ![Chart 2](assets/2021-10-08_chinese-consumer-market-under-new-pressure_img_chart2_1ee895a1bb35.jpg)
 
 > **Figure 2: Chart 2**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2021/assets/2021-10-08_chinese-consumer-market-under-new-pressure_img_chart2_1ee895a1bb35.jpg)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-10-08_chinese-consumer-market-under-new-pressure_img_chart2_1ee895a1bb35.jpg)
 
 Household appliance sales totaled approximately 67.7 billion yuan in August, which has marked a year-on-year contraction of 5%. Household appliance sales had previously grown on a year-on-year basis for ten consecutive months.
 
 ![Chart 3](assets/2021-10-08_chinese-consumer-market-under-new-pressure_img_chart3_89c3c0308a3b.jpg)
 
 > **Figure 3: Chart 3**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2021/assets/2021-10-08_chinese-consumer-market-under-new-pressure_img_chart3_89c3c0308a3b.jpg)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-10-08_chinese-consumer-market-under-new-pressure_img_chart3_89c3c0308a3b.jpg)
 
 ---
 

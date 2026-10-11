@@ -22,13 +22,14 @@ Vessels with scrubbers are able to continue using HFO. An increasing number of v
 
 The introduction of scrubbers and the significant Hi-5 margin have made assessing VLCC earnings more complicated. In addition to the difference between scrubber and non-scrubber vessels, there is also a distinction between non-Eco and Eco- vessels. Eco vessels are generally built after 2014 and have a more fuel-efficient engine, giving them a higher TCE. These distinctions effectively create four categories of tankers: the least efficient vessels are the Non-Eco vessels without a scrubber and the most efficient ones are the Eco vessels with a scrubber. During most of the pandemic, when tanker earnings and oil prices were low, the earnings differential between these vessel categories was between $2,000 and $5,000/day. However, since the Russian invasion of Ukraine, oil prices have skyrocketed and the TCE differentials have increased dramatically as well.
 
-In addition to the difference in vessel specifications, TCE's are also influenced by the likely bunkering location of the vessels. As can be seen in [Chart 1](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2022/poten_2022-07-08_scrubbers-are-delivering-profits_chart1.png), the Hi-5 spread is much higher in Fujairah and Singapore than in Rotterdam and Houston. That means that the benefit of having a scrubber in the Pacific is much higher than it is in the Atlantic. The main driver is the high price of VLSFO in Fujairah and Singapore. Prices for HFO are more similar around the world.
+In addition to the difference in vessel specifications, TCE's are also influenced by the likely bunkering location of the vessels. As can be seen in [Chart 1](../../../charts/poten/2022/poten_2022-07-08_scrubbers-are-delivering-profits_chart1.png), the Hi-5 spread is much higher in Fujairah and Singapore than in Rotterdam and Houston. That means that the benefit of having a scrubber in the Pacific is much higher than it is in the Atlantic. The main driver is the high price of VLSFO in Fujairah and Singapore. Prices for HFO are more similar around the world.
 
-> **Exhibit 1: Scrubbers Are Delivering Profits (Chart 1)**  
-> *Source: Poten & Partners*  
-> **Interactive Data & Source:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2022/poten_2022-07-08_scrubbers-are-delivering-profits_chart1.png)
+> **Exhibit 1: VLSFO - HFO Price Spread In Main Bunker Ports**  
+> Unit: USD · X-axis: Nov-19 to Jul-22  
+> Series: Houston, Rotterdam, Singapore, Fujairah  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2022/poten_2022-07-08_scrubbers-are-delivering-profits_chart1.png)
 
-![Exhibit 1: Scrubbers Are Delivering Profits](../../../charts/poten/2022/poten_2022-07-08_scrubbers-are-delivering-profits_chart1.png)
+![Exhibit 1: VLSFO - HFO Price Spread In Main Bunker Ports](../../../charts/poten/2022/poten_2022-07-08_scrubbers-are-delivering-profits_chart1.png)
 
 Many ship brokers (and the Baltic) still report VLCC TCE's on the basis of a non- scrubber ship. However, this could be slightly misleading, since 43% of the VLCC fleet is equipped with scrubbers. The age group that the fewest scrubbers is the fleet of vessels of 20 years old and older. Out of the 117 VLCCs built in 2002 or earlier, only 27 have a scrubber installed (only one prior to 2000). However, most of these vessels are no longer competing in the regular spot market. They are either used for floating storage or employed in the sanctioned trades involving Iran and Venezuela.
 
@@ -36,6 +37,10 @@ Charterers do not prefer one vessel type over another. They just want the cheape
 
 ## Market Exhibits & Charts
 
-![Exhibit 2: Scrubbers Are Delivering Profits](../../../charts/poten/2022/poten_2022-07-08_scrubbers-are-delivering-profits_chart2.png)
+![Exhibit 2: TCE Spread: Scrubber Ship vs Non-Scrubber Ship](../../../charts/poten/2022/poten_2022-07-08_scrubbers-are-delivering-profits_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2022/poten_2022-07-08_scrubbers-are-delivering-profits_chart2.png)
+> **Exhibit 2: TCE Spread: Scrubber Ship vs Non-Scrubber Ship**  
+> Unit: USD/Day · X-axis: Nov-19 to Jul-22  
+> Series: Trans Atlantic (280Kt), AG-FE (270Kt)  
+> *Source: Poten & Partners*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2022/poten_2022-07-08_scrubbers-are-delivering-profits_chart2.png)

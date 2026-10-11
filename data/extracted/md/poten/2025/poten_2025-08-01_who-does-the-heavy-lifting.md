@@ -28,10 +28,17 @@ What impact do all these changes have on the tanker market? Many of the flows ar
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: Who Does The Heavy Lifting](../../../charts/poten/2025/poten_2025-08-01_who-does-the-heavy-lifting_chart1.png)
+![Exhibit 1: U.S. Heavy Crude Oil Imports By Origin](../../../charts/poten/2025/poten_2025-08-01_who-does-the-heavy-lifting_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2025/poten_2025-08-01_who-does-the-heavy-lifting_chart1.png)
+> **Exhibit 1: U.S. Heavy Crude Oil Imports By Origin**  
+> Unit: Kb/d · X-axis: Jan-09 to May-25  
+> Series: Other, Brazil, Canada, Colombia, Ecuador, Mexico, Venezuela  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2025/poten_2025-08-01_who-does-the-heavy-lifting_chart1.png)
 
-![Exhibit 2: Who Does The Heavy Lifting](../../../charts/poten/2025/poten_2025-08-01_who-does-the-heavy-lifting_chart2.png)
+![Exhibit 2: Crude & Condensate Exports From Vancouver By Destination](../../../charts/poten/2025/poten_2025-08-01_who-does-the-heavy-lifting_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2025/poten_2025-08-01_who-does-the-heavy-lifting_chart2.png)
+> **Exhibit 2: Crude & Condensate Exports From Vancouver By Destination**  
+> Unit: Kb/d · X-axis: Jan-20 to Apr-25  
+> Series: United States, China, South Korea, India, Japan, Brunei, Other  
+> *Source: EIA; Vortexa*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2025/poten_2025-08-01_who-does-the-heavy-lifting_chart2.png)

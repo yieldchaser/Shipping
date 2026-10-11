@@ -60,10 +60,18 @@ The balance between natural gas and petroleum product pricing is already delicat
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: The Super Bowl Shuffle: Heating NYC and the Northeast](../../../charts/poten/2014/poten_2014-01-31_the-super-bowl-shuffle-heating-nyc-and-the-northeast_chart1.png)
+![Exhibit 1: US Distillate Fuel Stocks](../../../charts/poten/2014/poten_2014-01-31_the-super-bowl-shuffle-heating-nyc-and-the-northeast_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2014/poten_2014-01-31_the-super-bowl-shuffle-heating-nyc-and-the-northeast_chart1.png)
+> **Exhibit 1: US Distillate Fuel Stocks**  
+> Unit: Thousand Barrels | Days · X-axis: Jan-12 to Jan-14  
+> Series: Total Distillate Stocks, Days Supply  
+> *Source: EIA/Poten*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2014/poten_2014-01-31_the-super-bowl-shuffle-heating-nyc-and-the-northeast_chart1.png)
 
-![Exhibit 2: The Super Bowl Shuffle: Heating NYC and the Northeast](../../../charts/poten/2014/poten_2014-01-31_the-super-bowl-shuffle-heating-nyc-and-the-northeast_chart2.png)
+![Exhibit 2: Relative Price Strength - Heating Oil v. Natural Gas](../../../charts/poten/2014/poten_2014-01-31_the-super-bowl-shuffle-heating-nyc-and-the-northeast_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2014/poten_2014-01-31_the-super-bowl-shuffle-heating-nyc-and-the-northeast_chart2.png)
+> **Exhibit 2: Relative Price Strength - Heating Oil v. Natural Gas**  
+> Unit: $/MMBTU · X-axis: Jan-13 to Jan-14  
+> Series: #2 Oil (NYH) to Natural Gas  
+> *Source: Bloomberg/Poten*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2014/poten_2014-01-31_the-super-bowl-shuffle-heating-nyc-and-the-northeast_chart2.png)

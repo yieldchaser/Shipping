@@ -68,6 +68,8 @@ Going-forward expect more companies to follow the lead of Petrobras. The use of 
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: Digging Deep](../../../charts/poten/2008/poten_2008-06-27_digging-deep_chart1.png)
-
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2008/poten_2008-06-27_digging-deep_chart1.png)
+> **Chart on PDF page 2: Gulf of Mexico Oil Production**  
+> Unit: Thousand Barrels · X-axis: 1992 to 2016  
+> Series: Shallow-water, Deepwater, MMS Shallow-water Projection, Industry Deepwater Projection, MMS Deepwater Projection, Industry-Announced Discoveries, Undiscovered Resources  
+> *Source: US Minerals Management Service*  
+> *No image crop of this chart was saved; caption read from the PDF.*

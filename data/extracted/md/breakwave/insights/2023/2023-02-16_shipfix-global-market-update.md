@@ -55,10 +55,10 @@ While Indian iron ore export volumes are a far cry from what the giants of the t
 
 Nevertheless, Shipfix’s cargo order volumes for iron ore loading in Indian ports have shown a considerable improvement in recent months. The aggregate volumes for December and January were at the highest levels since the second quarter of 2020, with average cargo sizes stabilising above 50,000 tonnes. The current month also appears to be on course for yet another strong reading, with cargo order volumes potentially matching the past two months. The forward-looking nature of the data set suggests that Chinese imports of Indian iron ore will rise in the coming months.
 
-![Market Chart 1](assets/2023-02-16_shipfix-global-market-update_img_unnamed-2023-02-16t120424947_aef568f184bb.png)
+![Market Chart 1](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-02-16_shipfix-global-market-update_img_unnamed-2023-02-16t120424947_aef568f184bb.png)
 
 > **Figure 1: Market Chart 1**  
-> **Interactive Data & Source:** [Shipfix](https://shipfix.com/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-02-16_shipfix-global-market-update_img_unnamed-2023-02-16t120424947_aef568f184bb.png)
+> **Interactive Data & Source:** [Shipfix](https://shipfix.com/) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-02-16_shipfix-global-market-update_img_unnamed-2023-02-16t120424947_aef568f184bb.png)
 
 A thaw in diplomatic relations between China and Australia and an increasing focus on economic growth in the world’s second-largest economy has resulted in an easing of the previous restrictions on imports of Australian coal.
 

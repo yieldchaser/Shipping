@@ -30,11 +30,11 @@ tags:
 **↓32%** Month-on-Month - **↓40%** Year-on-Year
 
 
-![Thermal Coal Cargo Flows Trend Analysis Available Via the Tsop Platform Here](../../images/69a095ceacdd79f82a1db820_94c85529.png)
+![Thermal Coal Cargo Flows Trend Analysis Available Via the Tsop Platform Here](../../../../../../corpus/07-signal/images/69a095ceacdd79f82a1db820_94c85529.png)
 
 > **Figure 1: Thermal Coal Cargo Flows Trend Analysis Available Via the Tsop Platform Here**  
 > *Thermal Coal Cargo Flows Trend Analysis available via the TSOP platform here*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-dry-market-monitor-week-09-2026) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/69a095ceacdd79f82a1db820_94c85529.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-dry-market-monitor-week-09-2026) | [Local Asset](../../../../../../corpus/07-signal/images/69a095ceacdd79f82a1db820_94c85529.png)
 
 This week’s focus highlights the softening trend in TSOP data flows for Indonesian thermal coal shipments to India, particularly within the Panamax vessel segment, toward the end of February.
 
@@ -47,10 +47,10 @@ Seasonal factors may also have contributed to softer shipment momentum. February
 **Firmer South African Flows and Indian Industrial Demand (+ 118** YoY **)**
 
 
-![‍chart of the Week| Panamax Freight View - Indonesia Thermal Coal to India](../../images/69a095ceacdd79f82a1db826_c75db684.png)
+![‍chart of the Week| Panamax Freight View - Indonesia Thermal Coal to India](../../../../../../corpus/07-signal/images/69a095ceacdd79f82a1db826_c75db684.png)
 
 > **Figure 2: ‍chart of the Week| Panamax Freight View - Indonesia Thermal Coal to India**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-dry-market-monitor-week-09-2026) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/69a095ceacdd79f82a1db826_c75db684.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-dry-market-monitor-week-09-2026) | [Local Asset](../../../../../../corpus/07-signal/images/69a095ceacdd79f82a1db826_c75db684.png)
 
 In contrast, South African thermal coal flows to India demonstrated comparatively firmer movement during the same period. The relative positioning of South African cargoes contributed to increased sourcing flexibility within the Indian market, particularly among industrial consumers
 
@@ -63,10 +63,10 @@ All data and commentary reflect market conditions as of [Wednesday, 25 February 
 The Baltic Dry Index (BDI) has maintained momentum from the previous week, stabilizing above the 2,100-point threshold despite a slight daily dip. This level represents a significant year-on-year increase of +100%. The upward trend is supported by the **Panamax**, **Supramax**, and **Handysize** segments, all of which recorded positive adjustments. While the **Capesize** segment shows early signs of a downward correction, index values remain strong above the 3,000-point mark. C5TC earnings (BCI 180) are in line with the previous week, holding below $25k/d. This reflects a 160% year-on-year increase, compared to the exceptional 290% annual surge recorded mid-week last week.
 
 
-![‍chart of the Week| Panamax Freight View - Indonesia Thermal Coal to India](../../images/69a095ceacdd79f82a1db829_0ac257f2.png)
+![‍chart of the Week| Panamax Freight View - Indonesia Thermal Coal to India](../../../../../../corpus/07-signal/images/69a095ceacdd79f82a1db829_0ac257f2.png)
 
 > **Figure 3: ‍chart of the Week| Panamax Freight View - Indonesia Thermal Coal to India**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-dry-market-monitor-week-09-2026) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/69a095ceacdd79f82a1db829_0ac257f2.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-dry-market-monitor-week-09-2026) | [Local Asset](../../../../../../corpus/07-signal/images/69a095ceacdd79f82a1db829_0ac257f2.png)
 
 **FREIGHT ATLANTIC**
 
@@ -75,10 +75,10 @@ The Baltic Dry Index (BDI) has maintained momentum from the previous week, stabi
 **C3** Tubarao–Qingdao / **C17** Saldanha Bay–Qingdao
 
 
-![‍chart of the Week| Panamax Freight View - Indonesia Thermal Coal to India](../../images/69a095ceacdd79f82a1db823_13cb0a42.png)
+![‍chart of the Week| Panamax Freight View - Indonesia Thermal Coal to India](../../../../../../corpus/07-signal/images/69a095ceacdd79f82a1db823_13cb0a42.png)
 
 > **Figure 4: ‍chart of the Week| Panamax Freight View - Indonesia Thermal Coal to India**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-dry-market-monitor-week-09-2026) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/69a095ceacdd79f82a1db823_13cb0a42.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-dry-market-monitor-week-09-2026) | [Local Asset](../../../../../../corpus/07-signal/images/69a095ceacdd79f82a1db823_13cb0a42.png)
 
 
 - The rate for the Tubarao to Qingdao route held a similar weakening sentiment to the previous week, with rates around $24/ton (+28% YoY). Similarly, the Saldanha Bay-Qingdao rates continued to be assessed around $17/mt (+36% YoY).
@@ -88,10 +88,10 @@ The Baltic Dry Index (BDI) has maintained momentum from the previous week, stabi
 **P7** USG–Qingdao grain ($/mt) / **P8** Santos–Qingdao ($/mt)
 
 
-![‍chart of the Week| Panamax Freight View - Indonesia Thermal Coal to India](../../images/69a095ceacdd79f82a1db838_9a46bacc.png)
+![‍chart of the Week| Panamax Freight View - Indonesia Thermal Coal to India](../../../../../../corpus/07-signal/images/69a095ceacdd79f82a1db838_9a46bacc.png)
 
 > **Figure 5: ‍chart of the Week| Panamax Freight View - Indonesia Thermal Coal to India**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-dry-market-monitor-week-09-2026) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/69a095ceacdd79f82a1db838_9a46bacc.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-dry-market-monitor-week-09-2026) | [Local Asset](../../../../../../corpus/07-signal/images/69a095ceacdd79f82a1db838_9a46bacc.png)
 
 
 - Rates for the USG-Qingdao and Santos-Qingdao routes continue to hold firm. The Santos-Qingdao rate was assessed mid-week above $40/ton, marking a 22% increase year-over-year. Notably, the USG-Qingdao rate has maintained a premium of around $50/ton (+19% YoY) since the beginning of February.
@@ -101,10 +101,10 @@ The Baltic Dry Index (BDI) has maintained momentum from the previous week, stabi
 **S4A** US Gulf trip to Skaw-Passero
 
 
-![‍chart of the Week| Panamax Freight View - Indonesia Thermal Coal to India](../../images/69a095ceacdd79f82a1db83b_29bc53f6.png)
+![‍chart of the Week| Panamax Freight View - Indonesia Thermal Coal to India](../../../../../../corpus/07-signal/images/69a095ceacdd79f82a1db83b_29bc53f6.png)
 
 > **Figure 6: ‍chart of the Week| Panamax Freight View - Indonesia Thermal Coal to India**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-dry-market-monitor-week-09-2026) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/69a095ceacdd79f82a1db83b_29bc53f6.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-dry-market-monitor-week-09-2026) | [Local Asset](../../../../../../corpus/07-signal/images/69a095ceacdd79f82a1db83b_29bc53f6.png)
 
 
 - Rates on the USG-to-Skaw-Passero route saw a notable drop to $26k/d, a significant revision from last week's levels, which were above $30k/day. Despite this recent decline, current rates remain 76% higher than those recorded during the same period last year.
@@ -114,10 +114,10 @@ The Baltic Dry Index (BDI) has maintained momentum from the previous week, stabi
 **HS4\_38 -** US Gulf trip via US Gulf or north coast of South America to Skaw-Passero
 
 
-![‍chart of the Week| Panamax Freight View - Indonesia Thermal Coal to India](../../images/69a095ceacdd79f82a1db847_87f753a7.png)
+![‍chart of the Week| Panamax Freight View - Indonesia Thermal Coal to India](../../../../../../corpus/07-signal/images/69a095ceacdd79f82a1db847_87f753a7.png)
 
 > **Figure 7: ‍chart of the Week| Panamax Freight View - Indonesia Thermal Coal to India**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-dry-market-monitor-week-09-2026) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/69a095ceacdd79f82a1db847_87f753a7.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-dry-market-monitor-week-09-2026) | [Local Asset](../../../../../../corpus/07-signal/images/69a095ceacdd79f82a1db847_87f753a7.png)
 
 
 - USG trip to Skaw-Passero recorded levels of around $24k/d, an increase of around $15k/d from mid-January and up by 128% YoY.
@@ -129,10 +129,10 @@ The Baltic Dry Index (BDI) has maintained momentum from the previous week, stabi
 **C5** West Australia–Qingdao
 
 
-![‍chart of the Week| Panamax Freight View - Indonesia Thermal Coal to India](../../images/69a095ceacdd79f82a1db841_315c8d91.png)
+![‍chart of the Week| Panamax Freight View - Indonesia Thermal Coal to India](../../../../../../corpus/07-signal/images/69a095ceacdd79f82a1db841_315c8d91.png)
 
 > **Figure 8: ‍chart of the Week| Panamax Freight View - Indonesia Thermal Coal to India**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-dry-market-monitor-week-09-2026) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/69a095ceacdd79f82a1db841_315c8d91.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-dry-market-monitor-week-09-2026) | [Local Asset](../../../../../../corpus/07-signal/images/69a095ceacdd79f82a1db841_315c8d91.png)
 
 
 - Rates for the West Australia-Qingdao route remained firm, hovering around $10/ton (+38% YoY). The recent low was observed in mid-January at approximately $7.5/ton.
@@ -144,10 +144,10 @@ The Baltic Dry Index (BDI) has maintained momentum from the previous week, stabi
 **P5\_82** - South China, one Indonesian round voyage
 
 
-![‍chart of the Week| Panamax Freight View - Indonesia Thermal Coal to India](../../images/69a095ceacdd79f82a1db844_3c154331.png)
+![‍chart of the Week| Panamax Freight View - Indonesia Thermal Coal to India](../../../../../../corpus/07-signal/images/69a095ceacdd79f82a1db844_3c154331.png)
 
 > **Figure 9: ‍chart of the Week| Panamax Freight View - Indonesia Thermal Coal to India**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-dry-market-monitor-week-09-2026) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/69a095ceacdd79f82a1db844_3c154331.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-dry-market-monitor-week-09-2026) | [Local Asset](../../../../../../corpus/07-signal/images/69a095ceacdd79f82a1db844_3c154331.png)
 
 
 - The Panamax Pacific market has maintained the substantial gains from the previous weeks of February. Specifically, rates on the P3A\_82 route have climbed above $19k/d, marking about a $7k/day increase compared to the same period last year.
@@ -159,10 +159,10 @@ The Baltic Dry Index (BDI) has maintained momentum from the previous week, stabi
 **S10** South China trip via Indonesia to South China
 
 
-![‍chart of the Week| Panamax Freight View - Indonesia Thermal Coal to India](../../images/69a095ceacdd79f82a1db83e_cbb2e843.png)
+![‍chart of the Week| Panamax Freight View - Indonesia Thermal Coal to India](../../../../../../corpus/07-signal/images/69a095ceacdd79f82a1db83e_cbb2e843.png)
 
 > **Figure 10: ‍chart of the Week| Panamax Freight View - Indonesia Thermal Coal to India**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-dry-market-monitor-week-09-2026) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/69a095ceacdd79f82a1db83e_cbb2e843.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-dry-market-monitor-week-09-2026) | [Local Asset](../../../../../../corpus/07-signal/images/69a095ceacdd79f82a1db83e_cbb2e843.png)
 
 
 - The upward momentum in the Supramax Pacific market continued from the previous week. Notably, the S2 route experienced a spike, reaching approximately $16k/d, a significant monthly increase of 28%. Similarly, rates for the S10 route saw a substantial monthly gain of 47%, holding steady around $12k/d.
@@ -176,10 +176,10 @@ The Baltic Dry Index (BDI) has maintained momentum from the previous week, stabi
 **HS7\_38** - North China-South Korea-Japan trip to Southeast Asia
 
 
-![‍chart of the Week| Panamax Freight View - Indonesia Thermal Coal to India](../../images/69a095ceacdd79f82a1db82c_9bcd4383.png)
+![‍chart of the Week| Panamax Freight View - Indonesia Thermal Coal to India](../../../../../../corpus/07-signal/images/69a095ceacdd79f82a1db82c_9bcd4383.png)
 
 > **Figure 11: ‍chart of the Week| Panamax Freight View - Indonesia Thermal Coal to India**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-dry-market-monitor-week-09-2026) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/69a095ceacdd79f82a1db82c_9bcd4383.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-dry-market-monitor-week-09-2026) | [Local Asset](../../../../../../corpus/07-signal/images/69a095ceacdd79f82a1db82c_9bcd4383.png)
 
 
 - The Pacific Handysize freight market has shown early signs of recovery from its prior weaker trend. Rates for the HS5\_38 and HS6\_38 have firmed up to approximately $10k/d each, with the HS7\_38 rate close behind at nearly $9.7k/d.
@@ -190,10 +190,10 @@ The Baltic Dry Index (BDI) has maintained momentum from the previous week, stabi
 **Capesize | 5D MA Mixed**
 
 
-![Ballasters Overview](../../images/69a095ceacdd79f82a1db82f_07202f3b.png)
+![Ballasters Overview](../../../../../../corpus/07-signal/images/69a095ceacdd79f82a1db82f_07202f3b.png)
 
 > **Figure 12: Ballasters Overview**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-dry-market-monitor-week-09-2026) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/69a095ceacdd79f82a1db82f_07202f3b.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-dry-market-monitor-week-09-2026) | [Local Asset](../../../../../../corpus/07-signal/images/69a095ceacdd79f82a1db82f_07202f3b.png)
 
 Available [here](https://app.signalocean.com/dry/dynamic/capes\_insights\_downloadable)
 
@@ -203,10 +203,10 @@ Available [here](https://app.signalocean.com/dry/dynamic/capes\_insights\_downlo
 **Panamax | 5D MA Mixed**
 
 
-![Ballasters Overview](../../images/69a095ceacdd79f82a1db832_83b94ec5.png)
+![Ballasters Overview](../../../../../../corpus/07-signal/images/69a095ceacdd79f82a1db832_83b94ec5.png)
 
 > **Figure 13: Ballasters Overview**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-dry-market-monitor-week-09-2026) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/69a095ceacdd79f82a1db832_83b94ec5.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-dry-market-monitor-week-09-2026) | [Local Asset](../../../../../../corpus/07-signal/images/69a095ceacdd79f82a1db832_83b94ec5.png)
 
 Available [here](https://app.signalocean.com/dry/dynamic/panamax\_insights)
 
@@ -219,10 +219,10 @@ Available [here](https://app.signalocean.com/dry/dynamic/panamax\_insights)
 **Supramax| 5D MA Increasing**
 
 
-![Ballasters Overview](../../images/69a095ceacdd79f82a1db835_97c34e0e.png)
+![Ballasters Overview](../../../../../../corpus/07-signal/images/69a095ceacdd79f82a1db835_97c34e0e.png)
 
 > **Figure 14: Ballasters Overview**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-dry-market-monitor-week-09-2026) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/69a095ceacdd79f82a1db835_97c34e0e.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-dry-market-monitor-week-09-2026) | [Local Asset](../../../../../../corpus/07-signal/images/69a095ceacdd79f82a1db835_97c34e0e.png)
 
 Available [here](https://app.signalocean.com/dry/dynamic/supramax\_insights)
 
@@ -232,10 +232,10 @@ Available [here](https://app.signalocean.com/dry/dynamic/supramax\_insights)
 **Handysize| 5D MA Increasing**
 
 
-![Ballasters Overview](../../images/69a095ceacdd79f82a1db84a_97918a97.png)
+![Ballasters Overview](../../../../../../corpus/07-signal/images/69a095ceacdd79f82a1db84a_97918a97.png)
 
 > **Figure 15: Ballasters Overview**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-dry-market-monitor-week-09-2026) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/69a095ceacdd79f82a1db84a_97918a97.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-dry-market-monitor-week-09-2026) | [Local Asset](../../../../../../corpus/07-signal/images/69a095ceacdd79f82a1db84a_97918a97.png)
 
 
 - Handysize vessels continued to face elevated supply pressure. In the North Atlantic, the vessel count remained high, exceeding 200 (+13% WoW). In the Pacific, pressure intensified considerably across two key regions: the Far East/NOPAC, where the ballast vessel count was just below 180 (+28% WoW), and the Indian Ocean, which saw its count rise past 100 (+29% WoW).
@@ -245,10 +245,10 @@ Available [here](https://app.signalocean.com/dry/dynamic/supramax\_insights)
 **Capesize ↑5.2%** WoW **| Panamax ↑2.2%** WoW
 
 
-![Ballasters Overview](../../images/69a095ceacdd79f82a1db84d_2c723fe8.png)
+![Ballasters Overview](../../../../../../corpus/07-signal/images/69a095ceacdd79f82a1db84d_2c723fe8.png)
 
 > **Figure 16: Ballasters Overview**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-dry-market-monitor-week-09-2026) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/69a095ceacdd79f82a1db84d_2c723fe8.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-dry-market-monitor-week-09-2026) | [Local Asset](../../../../../../corpus/07-signal/images/69a095ceacdd79f82a1db84d_2c723fe8.png)
 
 The tonne-mile growth rate, measured on a Base 100 Index, rebounded for the larger vessel classes this week. The Capesize index climbed to 94.5, a notable increase of 4.7 points from the previous week's 89.8 (19 February 2026). Similarly, the Panamax index rose by 1.9 points to 88.1, up from 86.2. Despite this weekly momentum, both segments still fall short of the Base 100 benchmark. Capesize remains 5.5 points below base, and Panamax is 11.9 points below base.
 
@@ -257,10 +257,10 @@ The tonne-mile growth rate, measured on a Base 100 Index, rebounded for the larg
 **Supramax ↓ 1.8%** WoW **| Handymax ↑5.3%** WoW **|Handysize ↓ 4.6%** WoW
 
 
-![Ballasters Overview](../../images/69a095ceacdd79f82a1db850_05a81773.png)
+![Ballasters Overview](../../../../../../corpus/07-signal/images/69a095ceacdd79f82a1db850_05a81773.png)
 
 > **Figure 17: Ballasters Overview**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-dry-market-monitor-week-09-2026) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/69a095ceacdd79f82a1db850_05a81773.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-dry-market-monitor-week-09-2026) | [Local Asset](../../../../../../corpus/07-signal/images/69a095ceacdd79f82a1db850_05a81773.png)
 
 The tonne-mile growth rate, measured on a Base 100 Index basis, showed mixed performance across the smaller vessel classes this week. The Handymax index climbed to 98.8, marking a strong increase of 4.9 points from 93.9 on 19 February 2026. In contrast, the Supramax index eased to 96.1, down 1.8 points from 97.9, while the Handysize index declined more sharply to 88.0, a 4.2-point drop from 92.2. Handymax now sits just 1.2 points below the Base 100 benchmark, Supramax is 3.9 points below base, while Handysize has slipped 12.0 points below the benchmark.
 

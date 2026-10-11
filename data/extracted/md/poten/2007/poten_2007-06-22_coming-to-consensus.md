@@ -36,6 +36,8 @@ Newbuilding Prices Secondhand Prices In light of historically high asset prices 
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: Coming to Consensus](../../../charts/poten/2007/poten_2007-06-22_coming-to-consensus_chart1.png)
-
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2007/poten_2007-06-22_coming-to-consensus_chart1.png)
+> **Chart on PDF page 2: Asset Prices - VLCC**  
+> Unit: Price $M · X-axis: 1996 to 2007  
+> Series: Newbuilding Prices, Secondhand Prices  
+> *Source: Poten & Partners*  
+> *No image crop of this chart was saved; caption read from the PDF.*

@@ -32,10 +32,17 @@ Oil companies and traders are taking advantage of the growing crude oil surplus 
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: Tight Oil Unleashed](../../../charts/poten/2017/poten_2017-03-24_tight-oil-unleashed_chart1.png)
+![Exhibit 1: U.S. Crude Oil Production](../../../charts/poten/2017/poten_2017-03-24_tight-oil-unleashed_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2017/poten_2017-03-24_tight-oil-unleashed_chart1.png)
+> **Exhibit 1: U.S. Crude Oil Production**  
+> Unit: Kb/d · X-axis: 2000 to 2030  
+> Series: U.S. Crude Oil Production (Actual), U.S. Crude Oil Production (Forecast)  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2017/poten_2017-03-24_tight-oil-unleashed_chart1.png)
 
-![Exhibit 2: Tight Oil Unleashed](../../../charts/poten/2017/poten_2017-03-24_tight-oil-unleashed_chart2.png)
+![Exhibit 2: U.S. Exports of Crude Oil](../../../charts/poten/2017/poten_2017-03-24_tight-oil-unleashed_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2017/poten_2017-03-24_tight-oil-unleashed_chart2.png)
+> **Exhibit 2: U.S. Exports of Crude Oil**  
+> Unit: Kb/d · X-axis: Jan-10 to Jan-17  
+> Series: U.S. Exports of Crude Oil  
+> *Source: EIA*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2017/poten_2017-03-24_tight-oil-unleashed_chart2.png)

@@ -74,6 +74,14 @@ Managing price risk using crude oil futures isn't a perfect game. With experienc
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: No Longer Crudely Related](../../../charts/poten/2007/poten_2007-04-20_no-longer-crudely-related_chart1.png)
+> **Chart on PDF page 1: WTI-Brent Price Spread, $/bbl**  
+> Unit: $/bbl · X-axis: Jan to Dec  
+> Series: High, Low, Average, 2006, 2007  
+> *Source: Poten & EIA*  
+> *No image crop of this chart was saved; caption read from the PDF.*
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2007/poten_2007-04-20_no-longer-crudely-related_chart1.png)
+> **Chart on PDF page 2: UKC Crude Oil Imports Into the US Gulf Coast**  
+> Unit: 1000 bbl/day · X-axis: 1995 to 2007  
+> Series: UKC Crude Oil Imports  
+> *Source: Poten & Partners*  
+> *No image crop of this chart was saved; caption read from the PDF.*

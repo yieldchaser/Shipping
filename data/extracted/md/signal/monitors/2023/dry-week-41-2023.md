@@ -32,7 +32,7 @@ tags:
 
 > **Figure 1: Data Source: The Signal Ocean Platform Data**  
 > *Data Source: The Signal Ocean Platform Data*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/dry-week-41-2023) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/65264f3f9f74b46f3a1202c7_Dry Bulk Panamax Brazil Congestion.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/dry-week-41-2023) | [Local Asset](../../../../../../corpus/07-signal/images/65264f3f9f74b46f3a1202c7_Dry%20Bulk%20Panamax%20Brazil%20Congestion.png)
 
 The second week of October brought both promising and concerning developments in the shipping industry. In the Capesize Brazil to North China route, freight rates continued to exhibit strength, reaffirming their resilience in the face of various market dynamics. However, amidst these encouraging signs, a significant shift has occurred in the number of ballasters since the end of September. The decrease in ballasters could indicate a change in market dynamics or a response to the evolving conditions in the shipping industry. In contrast to the Capesize sector, the Panamax segment is experiencing a noticeable downward trend in freight rates.
 

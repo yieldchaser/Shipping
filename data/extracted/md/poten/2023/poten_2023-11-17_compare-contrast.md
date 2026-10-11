@@ -28,10 +28,18 @@ It is quite unusual that two major forecasting organizations have such a diverge
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: Compare & Contrast](../../../charts/poten/2023/poten_2023-11-17_compare-contrast_chart1.png)
+![Exhibit 1: IEA vs OPEC Demand Growth (2023 & 2024)](../../../charts/poten/2023/poten_2023-11-17_compare-contrast_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2023/poten_2023-11-17_compare-contrast_chart1.png)
+> **Exhibit 1: IEA vs OPEC Demand Growth (2023 & 2024)**  
+> Unit: Mb/d · X-axis: Americas to World  
+> Series: IEA 2023, IEA 2024, OPEC 2023, OPEC 2024  
+> *Source: IEA, OPEC*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2023/poten_2023-11-17_compare-contrast_chart1.png)
 
-![Exhibit 2: Compare & Contrast](../../../charts/poten/2023/poten_2023-11-17_compare-contrast_chart2.png)
+![Exhibit 2: IEA vs OPEC Oil Supply Growth (2023 & 2024)](../../../charts/poten/2023/poten_2023-11-17_compare-contrast_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2023/poten_2023-11-17_compare-contrast_chart2.png)
+> **Exhibit 2: IEA vs OPEC Oil Supply Growth (2023 & 2024)**  
+> Unit: Mb/d · X-axis: OECD Americas to World  
+> Series: IEA 2023, IEA 2024, OPEC 2023, OPEC 2024  
+> *Source: IEA, OPEC*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2023/poten_2023-11-17_compare-contrast_chart2.png)

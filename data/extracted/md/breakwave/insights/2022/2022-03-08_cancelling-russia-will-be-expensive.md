@@ -30,10 +30,10 @@ To be sure, states*have*been cancelled in the past. Prussia is the most famous e
 
 In the past week, we are witnessing a historical novelty, however. The essential cancelling of an existing state, a nuclear superpower no less, and its people. It’s not just banks and oligarchs. It’s Russian athletes and sports teams, Russian expats and Russian culture, including the Ballets. Electronic Arts updated its flagship “FIFA 22” game to omit all Russian Teams. Developed markets mean to behave as if Russia simply is an[ex-entity](https://www.youtube.com/watch?v=vZw35VUBdzo).
 
-![Unsplash Image 7lbpooxf V8](assets/2022-03-08_cancelling-russia-will-be-expensive_img_unsplash-image-7lbpooxf-v8_71c7dbec966d.jpg)
+![Unsplash Image 7lbpooxf V8](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-03-08_cancelling-russia-will-be-expensive_img_unsplash-image-7lbpooxf-v8_71c7dbec966d.jpg)
 
 > **Figure 1: Unsplash Image 7lbpooxf V8**  
-> **Interactive Data & Source:** [Space](https://www.space.com/russia-refuses-launch-oneweb-satellites-demands) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-03-08_cancelling-russia-will-be-expensive_img_unsplash-image-7lbpooxf-v8_71c7dbec966d.jpg)
+> **Interactive Data & Source:** [Space](https://www.space.com/russia-refuses-launch-oneweb-satellites-demands) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-03-08_cancelling-russia-will-be-expensive_img_unsplash-image-7lbpooxf-v8_71c7dbec966d.jpg)
 
 But western sanctions over the Ukrainian war are great and far-reaching, way beyond Russia and its nationals.
 

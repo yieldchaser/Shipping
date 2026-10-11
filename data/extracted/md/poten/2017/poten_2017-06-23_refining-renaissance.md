@@ -34,10 +34,18 @@ The expected changes in the refining landscape have the potential to drive produ
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: Refining Renaissance](../../../charts/poten/2017/poten_2017-06-23_refining-renaissance_chart1.png)
+![Exhibit 1: Refining Capacity Additions](../../../charts/poten/2017/poten_2017-06-23_refining-renaissance_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2017/poten_2017-06-23_refining-renaissance_chart1.png)
+> **Exhibit 1: Refining Capacity Additions**  
+> Unit: Kb/d · X-axis: 2017 to 2022  
+> Series: OECD Americas, OECD Europe, OECD Asia/Oceania, FSU, China, Other Asia, Africa/L America, Middle East  
+> *Source: IEA*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2017/poten_2017-06-23_refining-renaissance_chart1.png)
 
-![Exhibit 2: Refining Renaissance](../../../charts/poten/2017/poten_2017-06-23_refining-renaissance_chart2.png)
+![Exhibit 2: Clean Tanker Spot Rates](../../../charts/poten/2017/poten_2017-06-23_refining-renaissance_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2017/poten_2017-06-23_refining-renaissance_chart2.png)
+> **Exhibit 2: Clean Tanker Spot Rates**  
+> Unit: TCE · X-axis: Jan-2015 to May-2017  
+> Series: MR UKC-USAC, LR1 AG-Jpn, LR2 AG-Jpn  
+> *Source: Poten*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2017/poten_2017-06-23_refining-renaissance_chart2.png)

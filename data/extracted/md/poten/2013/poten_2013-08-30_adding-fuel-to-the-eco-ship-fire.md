@@ -34,10 +34,18 @@ While the move to eco vessels would seem like a no-brainer to any shipowner, a c
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: Adding Fuel to the Eco Ship Fire](../../../charts/poten/2013/poten_2013-08-30_adding-fuel-to-the-eco-ship-fire_chart1.png)
+![Exhibit 1: Daily Fuel Costs - MR (Eco v. Non-Eco)](../../../charts/poten/2013/poten_2013-08-30_adding-fuel-to-the-eco-ship-fire_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2013/poten_2013-08-30_adding-fuel-to-the-eco-ship-fire_chart1.png)
+> **Exhibit 1: Daily Fuel Costs - MR (Eco v. Non-Eco)**  
+> Unit: $k/day · X-axis: 11.0 to 14.0  
+> Series: Eco Laden, Eco Ballast, Non-Eco Laden, Non-Eco Ballast  
+> *Source: Poten & Partners*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2013/poten_2013-08-30_adding-fuel-to-the-eco-ship-fire_chart1.png)
 
-![Exhibit 2: Adding Fuel to the Eco Ship Fire](../../../charts/poten/2013/poten_2013-08-30_adding-fuel-to-the-eco-ship-fire_chart2.png)
+![Exhibit 2: Trans-Atlantic MR Earnings](../../../charts/poten/2013/poten_2013-08-30_adding-fuel-to-the-eco-ship-fire_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2013/poten_2013-08-30_adding-fuel-to-the-eco-ship-fire_chart2.png)
+> **Exhibit 2: Trans-Atlantic MR Earnings**  
+> Unit: $k/day · X-axis: 1/4/2013 to 8/4/2013  
+> Series: Standard MR, Eco MR  
+> *Source: Poten & Partners*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2013/poten_2013-08-30_adding-fuel-to-the-eco-ship-fire_chart2.png)

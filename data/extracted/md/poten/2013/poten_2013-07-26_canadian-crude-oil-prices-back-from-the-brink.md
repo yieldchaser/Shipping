@@ -28,18 +28,26 @@ U.S. refineries are unable to process Canada's heavy crude at a high rate Early 
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: Canadian Crude Oil Prices Back from the Brink](../../../charts/poten/2013/poten_2013-07-26_canadian-crude-oil-prices-back-from-the-brink_chart1.png)
+![Exhibit 1: Crude Oil Pricing Spread Daily Settlement, July 2012-present](../../../charts/poten/2013/poten_2013-07-26_canadian-crude-oil-prices-back-from-the-brink_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2013/poten_2013-07-26_canadian-crude-oil-prices-back-from-the-brink_chart1.png)
+> **Exhibit 1: Crude Oil Pricing Spread Daily Settlement, July 2012-present**  
+> Unit: $/bbl · X-axis: Jul-12 to Jul-13  
+> Series: Spread, WCS, Bloomberg US Sour Crude Oil Index  
+> *Source: Bloomberg*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2013/poten_2013-07-26_canadian-crude-oil-prices-back-from-the-brink_chart1.png)
 
-![Exhibit 2: Canadian Crude Oil Prices Back from the Brink](../../../charts/poten/2013/poten_2013-07-26_canadian-crude-oil-prices-back-from-the-brink_chart2.png)
+![Exhibit 2: Canadian Crude and Fuel Oil Rail Car Loadings](../../../charts/poten/2013/poten_2013-07-26_canadian-crude-oil-prices-back-from-the-brink_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2013/poten_2013-07-26_canadian-crude-oil-prices-back-from-the-brink_chart2.png)
+> **Exhibit 2: Canadian Crude and Fuel Oil Rail Car Loadings**  
+> Unit: Thousand Rail Cars · X-axis: Jan-09 to Jan-13  
+> Series: Canadian Crude and Fuel Oil Rail Car Loadings  
+> *Source: Statistics Canada*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2013/poten_2013-07-26_canadian-crude-oil-prices-back-from-the-brink_chart2.png)
 
 ![Exhibit 3: Canadian Crude Oil Prices Back from the Brink](../../../charts/poten/2013/poten_2013-07-26_canadian-crude-oil-prices-back-from-the-brink_chart3.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2013/poten_2013-07-26_canadian-crude-oil-prices-back-from-the-brink_chart3.png)
+> **Interactive Asset:** [Local Asset (200 DPI PNG)](../../../charts/poten/2013/poten_2013-07-26_canadian-crude-oil-prices-back-from-the-brink_chart3.png)
 
 ![Exhibit 4: Canadian Crude Oil Prices Back from the Brink](../../../charts/poten/2013/poten_2013-07-26_canadian-crude-oil-prices-back-from-the-brink_chart4.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2013/poten_2013-07-26_canadian-crude-oil-prices-back-from-the-brink_chart4.png)
+> **Interactive Asset:** [Local Asset (200 DPI PNG)](../../../charts/poten/2013/poten_2013-07-26_canadian-crude-oil-prices-back-from-the-brink_chart4.png)

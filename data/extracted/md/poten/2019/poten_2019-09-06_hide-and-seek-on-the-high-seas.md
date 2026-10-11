@@ -26,10 +26,17 @@ Where do we go from here? While the U.S. maintains maximum pressure on the regim
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: Hide and Seek on the High Seas](../../../charts/poten/2019/poten_2019-09-06_hide-and-seek-on-the-high-seas_chart1.png)
+![Exhibit 1: Iran Short Term Storage](../../../charts/poten/2019/poten_2019-09-06_hide-and-seek-on-the-high-seas_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2019/poten_2019-09-06_hide-and-seek-on-the-high-seas_chart1.png)
+> **Exhibit 1: Iran Short Term Storage**  
+> Unit: Mbbl · X-axis: 01-JAN-16 to 14-JUN-19  
+> Series: Iran Short Term Storage  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2019/poten_2019-09-06_hide-and-seek-on-the-high-seas_chart1.png)
 
-![Exhibit 2: Hide and Seek on the High Seas](../../../charts/poten/2019/poten_2019-09-06_hide-and-seek-on-the-high-seas_chart2.png)
+![Exhibit 2: Iran Crude Oil Exports by Destination](../../../charts/poten/2019/poten_2019-09-06_hide-and-seek-on-the-high-seas_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2019/poten_2019-09-06_hide-and-seek-on-the-high-seas_chart2.png)
+> **Exhibit 2: Iran Crude Oil Exports by Destination**  
+> Unit: Kb/d · X-axis: Jan-14 to May-19  
+> Series: China, India, Korea, Other Asia, Turkey, Other Med, UKC, Other  
+> *Source: Lloyd’s List Intelligence*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2019/poten_2019-09-06_hide-and-seek-on-the-high-seas_chart2.png)

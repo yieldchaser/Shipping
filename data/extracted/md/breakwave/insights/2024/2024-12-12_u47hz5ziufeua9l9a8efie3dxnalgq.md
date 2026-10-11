@@ -43,10 +43,10 @@ What would a lifting of the Russian crude ban mean for the Aframax segment?
 
 In total with this predicted scenario, we expect to see 9% of global Aframax demand lost as some Russian crude is absorbed closer to home, though full unwinding of reshuffled flows will likely take time
 
-![Στιγμιότυπο Οθόνης 2024 12 12 130724](assets/2024-12-12_u47hz5ziufeua9l9a8efie3dxnalgq_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_42c83f85bf65.png)
+![Στιγμιότυπο Οθόνης 2024 12 12 130724](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-12-12_u47hz5ziufeua9l9a8efie3dxnalgq_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_42c83f85bf65.png)
 
 > **Figure 1: Στιγμιότυπο Οθόνης 2024 12 12 130724**  
-> **Interactive Data & Source:** [Vortexa](https://www.vortexa.com//oil-gas-data-traders-analysts-data-scientists?gclid=Cj0KCQjw8_qRBhCXARIsAE2AtRZKOvMnbilZ_6_91d7huSFFy71pWLrnPwGwOHVzXsmsG-1a1mZnQw8aAt89EALw_wcB&hsa_acc=1782073842&hsa_ad=548425387665&hsa_cam=14746637662&hsa_grp=125038601902&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_src=g&hsa_tgt=dsa-1431852288425&hsa_ver=3&utm_campaign=%5BCD%5D%20-%20DSA%20-%20EMEA&utm_medium=cpc&utm_medium=ppc&utm_source=google&utm_source=adwords&utm_term=) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-12-12_u47hz5ziufeua9l9a8efie3dxnalgq_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_42c83f85bf65.png)
+> **Interactive Data & Source:** [Vortexa](https://www.vortexa.com//oil-gas-data-traders-analysts-data-scientists?gclid=Cj0KCQjw8_qRBhCXARIsAE2AtRZKOvMnbilZ_6_91d7huSFFy71pWLrnPwGwOHVzXsmsG-1a1mZnQw8aAt89EALw_wcB&hsa_acc=1782073842&hsa_ad=548425387665&hsa_cam=14746637662&hsa_grp=125038601902&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_src=g&hsa_tgt=dsa-1431852288425&hsa_ver=3&utm_campaign=%5BCD%5D%20-%20DSA%20-%20EMEA&utm_medium=cpc&utm_medium=ppc&utm_source=google&utm_source=adwords&utm_term=) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-12-12_u47hz5ziufeua9l9a8efie3dxnalgq_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_42c83f85bf65.png)
 
 ## Clean – East of Suez: Lr2s Looking Towards East at the Expense of West of Suez
 
@@ -60,10 +60,10 @@ For November 2024, the % of LR2 tankers loading in the Middle East Gulf signalli
 
 On the supply-side, tight prompt LR2 supply provides a floor on rates, but a lengthening tonnage list on natural fixing windows for smaller vessel classes (such as LR1s) could exert downward pressure on rates
 
-![Στιγμιότυπο Οθόνης 2024 12 12 130937](assets/2024-12-12_u47hz5ziufeua9l9a8efie3dxnalgq_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_8b6758b87a96.png)
+![Στιγμιότυπο Οθόνης 2024 12 12 130937](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-12-12_u47hz5ziufeua9l9a8efie3dxnalgq_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_8b6758b87a96.png)
 
 > **Figure 2: Στιγμιότυπο Οθόνης 2024 12 12 130937**  
-> **Interactive Data & Source:** [Vortexa](https://www.vortexa.com//oil-gas-data-traders-analysts-data-scientists?gclid=Cj0KCQjw8_qRBhCXARIsAE2AtRZKOvMnbilZ_6_91d7huSFFy71pWLrnPwGwOHVzXsmsG-1a1mZnQw8aAt89EALw_wcB&hsa_acc=1782073842&hsa_ad=548425387665&hsa_cam=14746637662&hsa_grp=125038601902&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_src=g&hsa_tgt=dsa-1431852288425&hsa_ver=3&utm_campaign=%5BCD%5D%20-%20DSA%20-%20EMEA&utm_medium=cpc&utm_medium=ppc&utm_source=google&utm_source=adwords&utm_term=) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-12-12_u47hz5ziufeua9l9a8efie3dxnalgq_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_8b6758b87a96.png)
+> **Interactive Data & Source:** [Vortexa](https://www.vortexa.com//oil-gas-data-traders-analysts-data-scientists?gclid=Cj0KCQjw8_qRBhCXARIsAE2AtRZKOvMnbilZ_6_91d7huSFFy71pWLrnPwGwOHVzXsmsG-1a1mZnQw8aAt89EALw_wcB&hsa_acc=1782073842&hsa_ad=548425387665&hsa_cam=14746637662&hsa_grp=125038601902&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_src=g&hsa_tgt=dsa-1431852288425&hsa_ver=3&utm_campaign=%5BCD%5D%20-%20DSA%20-%20EMEA&utm_medium=cpc&utm_medium=ppc&utm_source=google&utm_source=adwords&utm_term=) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-12-12_u47hz5ziufeua9l9a8efie3dxnalgq_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_8b6758b87a96.png)
 
 ## Dirty – West of Suez: As Europe Opts for Heavy Crude From Farther Origins on Larger Vessels, Td7 Aframax Demand Slumps
 
@@ -83,10 +83,10 @@ Aframaxes struggle, as tonne-miles demand on the North Sea-to-UK Continent (TD7)
 
 Looking forward, strong transatlantic demand for Suezmaxes faces uncertainty, as stagnant European refining margins and declining crude imports could curtail a seasonal rally
 
-![Στιγμιότυπο Οθόνης 2024 12 12 131227](assets/2024-12-12_u47hz5ziufeua9l9a8efie3dxnalgq_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_ebd615238109.png)
+![Στιγμιότυπο Οθόνης 2024 12 12 131227](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-12-12_u47hz5ziufeua9l9a8efie3dxnalgq_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_ebd615238109.png)
 
 > **Figure 3: Στιγμιότυπο Οθόνης 2024 12 12 131227**  
-> **Interactive Data & Source:** [Vortexa](https://www.vortexa.com//oil-gas-data-traders-analysts-data-scientists?gclid=Cj0KCQjw8_qRBhCXARIsAE2AtRZKOvMnbilZ_6_91d7huSFFy71pWLrnPwGwOHVzXsmsG-1a1mZnQw8aAt89EALw_wcB&hsa_acc=1782073842&hsa_ad=548425387665&hsa_cam=14746637662&hsa_grp=125038601902&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_src=g&hsa_tgt=dsa-1431852288425&hsa_ver=3&utm_campaign=%5BCD%5D%20-%20DSA%20-%20EMEA&utm_medium=cpc&utm_medium=ppc&utm_source=google&utm_source=adwords&utm_term=) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-12-12_u47hz5ziufeua9l9a8efie3dxnalgq_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_ebd615238109.png)
+> **Interactive Data & Source:** [Vortexa](https://www.vortexa.com//oil-gas-data-traders-analysts-data-scientists?gclid=Cj0KCQjw8_qRBhCXARIsAE2AtRZKOvMnbilZ_6_91d7huSFFy71pWLrnPwGwOHVzXsmsG-1a1mZnQw8aAt89EALw_wcB&hsa_acc=1782073842&hsa_ad=548425387665&hsa_cam=14746637662&hsa_grp=125038601902&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_src=g&hsa_tgt=dsa-1431852288425&hsa_ver=3&utm_campaign=%5BCD%5D%20-%20DSA%20-%20EMEA&utm_medium=cpc&utm_medium=ppc&utm_source=google&utm_source=adwords&utm_term=) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-12-12_u47hz5ziufeua9l9a8efie3dxnalgq_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_ebd615238109.png)
 
 ## Clean – West of Suez: European Refinery Maintenance Pulls in Higher Diesel Volumes From Usgc, High Availability Muting Rates
 
@@ -102,10 +102,10 @@ Lingering refinery maintenance combined with a closed diesel arb from East of Su
 
 ➔ Softer arbitrage opportunities could put a lid on TC14 MR demand as the year closes out
 
-![Στιγμιότυπο Οθόνης 2024 12 12 131431](assets/2024-12-12_u47hz5ziufeua9l9a8efie3dxnalgq_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_f92dc4d3e809.png)
+![Στιγμιότυπο Οθόνης 2024 12 12 131431](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-12-12_u47hz5ziufeua9l9a8efie3dxnalgq_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_f92dc4d3e809.png)
 
 > **Figure 4: Στιγμιότυπο Οθόνης 2024 12 12 131431**  
-> **Interactive Data & Source:** [Vortexa](https://www.vortexa.com//oil-gas-data-traders-analysts-data-scientists?gclid=Cj0KCQjw8_qRBhCXARIsAE2AtRZKOvMnbilZ_6_91d7huSFFy71pWLrnPwGwOHVzXsmsG-1a1mZnQw8aAt89EALw_wcB&hsa_acc=1782073842&hsa_ad=548425387665&hsa_cam=14746637662&hsa_grp=125038601902&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_src=g&hsa_tgt=dsa-1431852288425&hsa_ver=3&utm_campaign=%5BCD%5D%20-%20DSA%20-%20EMEA&utm_medium=cpc&utm_medium=ppc&utm_source=google&utm_source=adwords&utm_term=) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-12-12_u47hz5ziufeua9l9a8efie3dxnalgq_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_f92dc4d3e809.png)
+> **Interactive Data & Source:** [Vortexa](https://www.vortexa.com//oil-gas-data-traders-analysts-data-scientists?gclid=Cj0KCQjw8_qRBhCXARIsAE2AtRZKOvMnbilZ_6_91d7huSFFy71pWLrnPwGwOHVzXsmsG-1a1mZnQw8aAt89EALw_wcB&hsa_acc=1782073842&hsa_ad=548425387665&hsa_cam=14746637662&hsa_grp=125038601902&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_src=g&hsa_tgt=dsa-1431852288425&hsa_ver=3&utm_campaign=%5BCD%5D%20-%20DSA%20-%20EMEA&utm_medium=cpc&utm_medium=ppc&utm_source=google&utm_source=adwords&utm_term=) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-12-12_u47hz5ziufeua9l9a8efie3dxnalgq_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_f92dc4d3e809.png)
 
 Data Source:[Vortexa](https://www.vortexa.com//oil-gas-data-traders-analysts-data-scientists?gclid=Cj0KCQjw8_qRBhCXARIsAE2AtRZKOvMnbilZ_6_91d7huSFFy71pWLrnPwGwOHVzXsmsG-1a1mZnQw8aAt89EALw_wcB&hsa_acc=1782073842&hsa_ad=548425387665&hsa_cam=14746637662&hsa_grp=125038601902&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_src=g&hsa_tgt=dsa-1431852288425&hsa_ver=3&utm_campaign=%5BCD%5D%20-%20DSA%20-%20EMEA&utm_medium=cpc&utm_medium=ppc&utm_source=google&utm_source=adwords&utm_term=)
 

@@ -32,10 +32,18 @@ As mentioned, worldwide fuel oil demand has been in gradual decline for many yea
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: How Products Ebb And Flow](../../../charts/poten/2016/poten_2016-04-22_how-products-ebb-and-flow_chart1.png)
+![Exhibit 1: Oil Product Demand By Region](../../../charts/poten/2016/poten_2016-04-22_how-products-ebb-and-flow_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2016/poten_2016-04-22_how-products-ebb-and-flow_chart1.png)
+> **Exhibit 1: Oil Product Demand By Region**  
+> Unit: Kb/d · X-axis: 2000 to 2014  
+> Series: Light Distillates, Medium Distillates, Fuel Oil, Others  
+> *Source: BP*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2016/poten_2016-04-22_how-products-ebb-and-flow_chart1.png)
 
-![Exhibit 2: How Products Ebb And Flow](../../../charts/poten/2016/poten_2016-04-22_how-products-ebb-and-flow_chart2.png)
+![Exhibit 2: Global Product Demand History and Outlook](../../../charts/poten/2016/poten_2016-04-22_how-products-ebb-and-flow_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2016/poten_2016-04-22_how-products-ebb-and-flow_chart2.png)
+> **Exhibit 2: Global Product Demand History and Outlook**  
+> Unit: mb/d | y-o-y Growth (RHS) · X-axis: 2001 to 2021  
+> Series: LPG, Naphtha, Motor Gasoline, Jet & Kerosene, Gasoil/Diesel, Residual Fuel, Other Products, y-o-y Growth (RHS)  
+> *Source: IEA*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2016/poten_2016-04-22_how-products-ebb-and-flow_chart2.png)

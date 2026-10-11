@@ -88,6 +88,8 @@ Jan Feb Mar Apr May Jun VLCC Suezmax Aframax Panamax Handymax Of the nearly 160 
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: Get 'Em While They're Hot](../../../charts/poten/2007/poten_2007-06-29_get-em-while-theyre-hot_chart1.png)
-
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2007/poten_2007-06-29_get-em-while-theyre-hot_chart1.png)
+> **Chart on PDF page 1: Historical VLCC Time Charter Rates**  
+> Unit: $/day · X-axis: Jan-02 to May-07  
+> Series: Time Charter -1 Year, Time Charter -3 Year  
+> *Source: Poten & Partners*  
+> *No image crop of this chart was saved; caption read from the PDF.*

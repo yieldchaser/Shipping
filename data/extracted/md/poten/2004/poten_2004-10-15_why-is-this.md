@@ -60,6 +60,20 @@ If crude oil supplies have been tapped out, then there will be limited growth in
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: Why Is This?](../../../charts/poten/2004/poten_2004-10-15_why-is-this_chart1.png)
+> **Chart on PDF page 1: Open Interest Crude Oil Futures**  
+> Unit: Mm Bbls · X-axis: One-Year Ago to Current  
+> Series: IPE, Nymex  
+> *Source: Wall St. Journal/Poten*  
+> *No image crop of this chart was saved; caption read from the PDF.*
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2004/poten_2004-10-15_why-is-this_chart1.png)
+> **Chart on PDF page 2: VLCC Spot Fixtures ex-AG**  
+> Unit: # Fixtures | WS Rates · X-axis: Jan-02 to Jul-04  
+> Series: WS Rates, AG/East, AG/West  
+> *Source: Poten & Partners*  
+> *No image crop of this chart was saved; caption read from the PDF.*
+
+> **Chart on PDF page 3: U.S. Crude Oil Inventory (Excluding SPR)**  
+> Unit: Mm Bbls · X-axis: Jan-02 to Jul-04  
+> Series: EIA/Poten  
+> *Source: EIA/Poten*  
+> *No image crop of this chart was saved; caption read from the PDF.*

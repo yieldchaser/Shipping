@@ -24,10 +24,10 @@ The prospect of easing monetary policy boosted sentiment across the metals compl
 
 *By*[*Daniel Hynes*](https://www.linkedin.com/in/dahynes/)
 
-![Screenshot 2024 08 22 10.00.15](assets/2024-08-22_falling-inventories-fails-to-support-the-oil-market_img_screenshot2024-08-22100015_21f0df03ea9d.png)
+![Screenshot 2024 08 22 10.00.15](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-08-22_falling-inventories-fails-to-support-the-oil-market_img_screenshot2024-08-22100015_21f0df03ea9d.png)
 
 > **Figure 1: Screenshot 2024 08 22 10.00.15**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-08-22_falling-inventories-fails-to-support-the-oil-market_img_screenshot2024-08-22100015_21f0df03ea9d.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-08-22_falling-inventories-fails-to-support-the-oil-market_img_screenshot2024-08-22100015_21f0df03ea9d.png)
 
 ### Market Commentary
 
@@ -37,7 +37,7 @@ The prospect of easing monetary policy boosted sentiment across the metals compl
 
 **Iron ore**futures rose for a third day following recent efforts by Chinese authorities to support the beleaguered property sector. Beijing is considering a new funding option for local governments to buy unsold homes. This would involve the issue of so-called special bonds, which are currently restructured to uses including infrastructure and environmental projects.
 
-**Crude oil**fell to a six-month low as traders looked past a bullish US stockpile report. Weak technicals have seen investors dump the commodity, compounded by signs of[**weakness in China**](../pdfs/2024-08-22_falling-inventories-fails-to-support-the-oil-market_commodity-tracker-mixed-signals-3_5388ce865e78.pdf). China’s apparent oil demand fell 8% y/y to 13.55mb/d in July, based on government data. This follows reports that the nation may have sent as much as 800kb/d into storage, according to Eurasia Group. Easing geopolitical tensions have also played their part. Earlier in the session, crude oil rallied after US government data showed a strong drawdown in inventories. Commercial stockpiles fell by a larger than expected 4,649kbbl last week. Refined product inventories also fell, with gasoline down 1,606kbbl and distillate down 3,312kbbl. However, flight data showed a week-on-week and month-on-month decline in trips for the week starting 19 August. The US driving season is also coming to a close, which will see demand for gasoline weaken.
+**Crude oil**fell to a six-month low as traders looked past a bullish US stockpile report. Weak technicals have seen investors dump the commodity, compounded by signs of[**weakness in China**](https://research.anz.com/file/Commodity_Tracker_mixed_signals__3.pdf?docRef=660b8a23-4570-4289-b587-7e8bf86046cb&ch=2). China’s apparent oil demand fell 8% y/y to 13.55mb/d in July, based on government data. This follows reports that the nation may have sent as much as 800kb/d into storage, according to Eurasia Group. Easing geopolitical tensions have also played their part. Earlier in the session, crude oil rallied after US government data showed a strong drawdown in inventories. Commercial stockpiles fell by a larger than expected 4,649kbbl last week. Refined product inventories also fell, with gasoline down 1,606kbbl and distillate down 3,312kbbl. However, flight data showed a week-on-week and month-on-month decline in trips for the week starting 19 August. The US driving season is also coming to a close, which will see demand for gasoline weaken.
 
 **European gas**fell as high inventories ease concerns about supply disruptions. The continents storage levels have reached 90% of their capacity, according to industry group Gas Infrastructure Europe. That’s more than two months ahead of the EU’s goal.**North Asian LNG**prices were also lower as Indian and Chinese importers pause buying amid high prices.
 
@@ -45,10 +45,10 @@ The prospect of easing monetary policy boosted sentiment across the metals compl
 
 US crude oil inventories fell further last week, suggesting demand remains strong
 
-![Screenshot 2024 08 22 10.05.34](assets/2024-08-22_falling-inventories-fails-to-support-the-oil-market_img_screenshot2024-08-22100534_3dcbc1229007.png)
+![Screenshot 2024 08 22 10.05.34](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-08-22_falling-inventories-fails-to-support-the-oil-market_img_screenshot2024-08-22100534_3dcbc1229007.png)
 
 > **Figure 2: Screenshot 2024 08 22 10.05.34**  
-> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-08-22_falling-inventories-fails-to-support-the-oil-market_img_screenshot2024-08-22100534_3dcbc1229007.png)
+> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-08-22_falling-inventories-fails-to-support-the-oil-market_img_screenshot2024-08-22100534_3dcbc1229007.png)
 
 Data source:[Commodities Wrap](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI)
 

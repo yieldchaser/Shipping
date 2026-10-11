@@ -32,15 +32,15 @@ For instance, the average price of a 5-year-old Handysize vessel currently stand
 
 Specifically, in late November 2016, the HS7TC index was approximately $7,000 per day, while a 5-year-old Handysize vessel was valued at $11.5 million. In comparison, today's price of $24.5 million reflects a +113% premium over the 2016 price. A similar trend was observed in mid-2017 when HS7TC earnings hovered around $7,000 per day, yet the price of a 5-year-old vessel was $13.5 million, meaning that today’s price is at an +88.8% premium compared to the 2017 price. More recently, at the end of July 2023, when the HS7TC index was at $7,167 per day, the price of a 5- year-old Handysize vessel was $24.5 million, which is in line with the current valuation.
 
-![Στιγμιότυπο Οθόνης 2025 02 12 113546](assets/2025-02-12_geopolitical-uncertainty_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_8ca92e71cfa5.png)
+![Στιγμιότυπο Οθόνης 2025 02 12 113546](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-02-12_geopolitical-uncertainty_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_8ca92e71cfa5.png)
 
 > **Figure 1: Στιγμιότυπο Οθόνης 2025 02 12 113546**  
-> **Interactive Data & Source:** [Intermodal](https://www.intermodal.gr/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-02-12_geopolitical-uncertainty_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_8ca92e71cfa5.png)
+> **Interactive Data & Source:** [Intermodal](https://www.intermodal.gr/) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-02-12_geopolitical-uncertainty_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_8ca92e71cfa5.png)
 
-![Στιγμιότυπο Οθόνης 2025 02 12 113558](assets/2025-02-12_geopolitical-uncertainty_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_9fb1674dd597.png)
+![Στιγμιότυπο Οθόνης 2025 02 12 113558](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-02-12_geopolitical-uncertainty_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_9fb1674dd597.png)
 
 > **Figure 2: Στιγμιότυπο Οθόνης 2025 02 12 113558**  
-> **Interactive Data & Source:** [Intermodal](https://www.intermodal.gr/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-02-12_geopolitical-uncertainty_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_9fb1674dd597.png)
+> **Interactive Data & Source:** [Intermodal](https://www.intermodal.gr/) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-02-12_geopolitical-uncertainty_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_9fb1674dd597.png)
 
 The extent of the correction remains debatable, with a 20-25% decline being a more common scenario, given the liquidity that previous years provided to shipowners and the uncertain environment that could lead to both negative and also positive outcomes. What is certain, however, is that 2025 could prove to be a year of increased buyer interest, particularly for those looking to capitalize on the declining prices.
 

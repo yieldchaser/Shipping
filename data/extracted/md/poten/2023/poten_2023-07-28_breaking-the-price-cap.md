@@ -28,10 +28,17 @@ Less exports will lead to lower liftings from Russia. This should reduce the emp
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: Breaking The Price Cap](../../../charts/poten/2023/poten_2023-07-28_breaking-the-price-cap_chart1.png)
+![Exhibit 1: Urals Crude Oil Price](../../../charts/poten/2023/poten_2023-07-28_breaking-the-price-cap_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2023/poten_2023-07-28_breaking-the-price-cap_chart1.png)
+> **Exhibit 1: Urals Crude Oil Price**  
+> Unit: $/bbl · X-axis: 1-Dec-22 to 27-Jul-23  
+> Series: Urals Crude Oil Price, Price Cap  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2023/poten_2023-07-28_breaking-the-price-cap_chart1.png)
 
-![Exhibit 2: Breaking The Price Cap](../../../charts/poten/2023/poten_2023-07-28_breaking-the-price-cap_chart2.png)
+![Exhibit 2: Russian Seaborne Exports from Western Ports](../../../charts/poten/2023/poten_2023-07-28_breaking-the-price-cap_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2023/poten_2023-07-28_breaking-the-price-cap_chart2.png)
+> **Exhibit 2: Russian Seaborne Exports from Western Ports**  
+> Unit: Kbbl/day · X-axis: 4-Jan-21 to 17-Jul-23  
+> Series: India, China, Turkey, Netherlands, Italy, Malaysia, Singapore, Other, 4 wk Average  
+> *Source: Investing.com; Vortexa*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2023/poten_2023-07-28_breaking-the-price-cap_chart2.png)

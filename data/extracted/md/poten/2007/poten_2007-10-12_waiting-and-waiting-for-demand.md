@@ -102,6 +102,19 @@ US refiners are wrestling with the challenges of adapting their operations to me
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: Waiting and Waiting for Demand](../../../charts/poten/2007/poten_2007-10-12_waiting-and-waiting-for-demand_chart1.png)
+> **Chart on PDF page 1: US Product Inventory Range: 2002 to 2006**  
+> Unit: MM bbls · X-axis: Jan to Dec  
+> Series: Gasoline Low, Gasoline High, 2007 Gasoline, Distillate Low, Distillate High, 2007 Distillate  
+> *Source: EIA/Poten*  
+> *No image crop of this chart was saved; caption read from the PDF.*
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2007/poten_2007-10-12_waiting-and-waiting-for-demand_chart1.png)
+> **Chart on PDF page 2: US Refinery Crude Oil Runs**  
+> Unit: MM bbls/day · X-axis: Jan to Oct wk 1  
+> Series: 2006, 2007  
+> *No image crop of this chart was saved; caption read from the PDF.*
+
+> **Chart on PDF page 3: US Gasoline Demand**  
+> Unit: MM bbls/day · X-axis: Jan to Oct wk 1  
+> Series: 2006, 2007  
+> *Source: EIA/Poten*  
+> *No image crop of this chart was saved; caption read from the PDF.*

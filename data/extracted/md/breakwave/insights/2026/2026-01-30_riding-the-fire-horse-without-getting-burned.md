@@ -20,10 +20,10 @@ source_file: "corpus/03-breakwave/insights/2026/2026-01-30_riding-the-fire-horse
 
 ---
 
-![Cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85](assets/2026-01-30_riding-the-fire-horse-without-getting-burned_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_d5b736df8512.png)
+![Cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-01-30_riding-the-fire-horse-without-getting-burned_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_d5b736df8512.png)
 
 > **Figure 1: Cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85**  
-> **Interactive Data & Source:** [Lionshipbrokers](https://lionshipbrokers.gr) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-01-30_riding-the-fire-horse-without-getting-burned_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_d5b736df8512.png)
+> **Interactive Data & Source:** [Lionshipbrokers](https://lionshipbrokers.gr) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-01-30_riding-the-fire-horse-without-getting-burned_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_d5b736df8512.png)
 
 Each Lunar New Year is characterized by one of 12 animals which appear in the Chinese zodiac. On Tuesday, February 17, 2026, a new chapter begins with the arrival of the Year of the Fire Horse—a rare and powerful pairing of one of the twelve zodiac animals with the Fire element in the sixty-year cycle.
 

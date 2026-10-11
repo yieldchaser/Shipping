@@ -34,8 +34,12 @@ As the above illustrates, Turkey is an important country for the tanker market. 
 
 ![Exhibit 1: Orient Express](../../../charts/poten/2016/poten_2016-07-22_orient-express_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2016/poten_2016-07-22_orient-express_chart1.png)
+> **Interactive Asset:** [Local Asset (200 DPI PNG)](../../../charts/poten/2016/poten_2016-07-22_orient-express_chart1.png)
 
-![Exhibit 2: Orient Express](../../../charts/poten/2016/poten_2016-07-22_orient-express_chart2.png)
+![Exhibit 2: Recent Oil Shipments Through Turkey](../../../charts/poten/2016/poten_2016-07-22_orient-express_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2016/poten_2016-07-22_orient-express_chart2.png)
+> **Exhibit 2: Recent Oil Shipments Through Turkey**  
+> Unit: Mb/d · X-axis: Jan-15 to May-16  
+> Series: Bosporus, BTC Pipeline, Kirkuk-Ceyhan  
+> *Source: Lloyd’s / Apex*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2016/poten_2016-07-22_orient-express_chart2.png)

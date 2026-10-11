@@ -30,6 +30,16 @@ So, as is often the case, when analyzing developments in the tanker market, the 
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: What Slowdown](../../../charts/poten/2017/poten_2017-05-19_what-slowdown_chart1.png)
+![Exhibit 1: China Seaborne Crude Oil Imports](../../../charts/poten/2017/poten_2017-05-19_what-slowdown_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2017/poten_2017-05-19_what-slowdown_chart1.png)
+> **Exhibit 1: China Seaborne Crude Oil Imports**  
+> Unit: Mln bbl · X-axis: Jan-16 to Apr-17  
+> Series: Middle East, West Africa, Americas, Atlantic, Asia/Australia, UKC/Baltic, Med  
+> *Source: Lloyd’s List Intelligence*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2017/poten_2017-05-19_what-slowdown_chart1.png)
+
+> **Chart on PDF page 1: China Crude Oil Imports Top 10 Countries**  
+> Unit: Thousand MT · X-axis: Russia to United Kingdom  
+> Series: Jan-17, Feb-17, Mar-17  
+> *Source: China Customs General Administration*  
+> *No image crop of this chart was saved; caption read from the PDF.*

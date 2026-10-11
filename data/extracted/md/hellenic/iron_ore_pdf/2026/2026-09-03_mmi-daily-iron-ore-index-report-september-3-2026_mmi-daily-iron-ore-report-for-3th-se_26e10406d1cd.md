@@ -170,6 +170,8 @@ IronÊoreÊfuturesÊtradedÊfirmerÊonÊWednesday.ÊTheÊDCEÊmost-tradedÊI2701
 | **SGX** | **Oct. 26** | USD/DMT | 99.25 | +1.55 | +1.59% | 0.47 | 38.58 | 98.85 | 99.20 |
 
 ## Dry Bulk Freight Rates Historical Line Data (USD/MT)
+> **Approximate.** The report prints no numbers for this chart. Values were read visually from the chart image by the parser and are rough estimates.
+
 | Date | C5 W. Australia - Qingdao (USD/MT) | C3 Tubarao - Qingdao (USD/MT) |
 | :--- | :--- | :--- |
 | 4-Jan-21 | 15.00 | 18.00 |
@@ -191,27 +193,48 @@ IronÊoreÊfuturesÊtradedÊfirmerÊonÊWednesday.ÊTheÊDCEÊmost-tradedÊI2701
 | 4-May-26 | 16.00 | 38.00 |
 
 ## Total China Iron Ore Import Volumes (Million Tonnes)
+> **Estimate.** The report prints no numbers for this chart. Values are computed from the chart's vector geometry at each x-axis date label (calibrated on the printed axis ticks; typically within 1% of the axis range).
+
 | Month / Period | Import Volume (Million Tonnes) |
 | :--- | :--- |
-| Jun-23 | 95.00 |
-| Aug-23 | 105.00 |
-| Oct-23 | 100.00 |
-| Dec-23 | 110.00 |
-| Feb-24 | 98.00 |
-| Apr-24 | 102.00 |
-| Jun-24 | 97.00 |
-| Aug-24 | 105.00 |
-| Oct-24 | 103.00 |
-| Dec-24 | 112.00 |
-| Feb-25 | 94.00 |
-| Apr-25 | 104.00 |
-| Jun-25 | 106.00 |
-| Aug-25 | 115.00 |
-| Oct-25 | 118.00 |
-| Dec-25 | 119.00 |
-| Feb-26 | 98.00 |
-| Apr-26 | 99.00 |
-| Jun-26 | 108.00 |
+| Jun-23 | 95.63 |
+| Jul-23 | 93.35 |
+| Aug-23 | 106.27 |
+| Sep-23 | 101.21 |
+| Oct-23 | 99.43 |
+| Nov-23 | 102.73 |
+| Dec-23 | 100.95 |
+| Jan-24 | 111.84 |
+| Feb-24 | 97.41 |
+| Mar-24 | 100.70 |
+| Apr-24 | 101.71 |
+| May-24 | 101.97 |
+| Jun-24 | 97.66 |
+| Jul-24 | 102.73 |
+| Aug-24 | 101.46 |
+| Sep-24 | 103.99 |
+| Oct-24 | 103.74 |
+| Nov-24 | 101.97 |
+| Dec-24 | 112.35 |
+| Jan-25 | 97.15 |
+| Feb-25 | 94.11 |
+| Mar-25 | 93.86 |
+| Apr-25 | 103.23 |
+| May-25 | 98.17 |
+| Jun-25 | 106.02 |
+| Jul-25 | 104.50 |
+| Aug-25 | 105.26 |
+| Sep-25 | 116.40 |
+| Oct-25 | 111.34 |
+| Nov-25 | 110.58 |
+| Dec-25 | 119.70 |
+| Jan-26 | 112.35 |
+| Feb-26 | 97.66 |
+| Mar-26 | 104.75 |
+| Apr-26 | 103.74 |
+| May-26 | 97.66 |
+| Jun-26 | 112.60 |
+| Jul-26 | 108.05 |
 
 ---
 

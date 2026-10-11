@@ -27,10 +27,10 @@ On Monday, 2nd February 2026, U.S. President Donald Trump announced a new trade 
 - No confirmation yet from India around if domestic refiners will be told to completely halt Russian imports. If they do, oil prices could jump as replacement barrels are sought despite a well-supplied market.
 - The U.S. will cut tariffs on Indian goods to 18% from the current 50% if India stops buying Russian crude.
 
-![Market Chart 1](assets/2026-02-04_energy-realignment-india-drops-russian-crude-secures-us-tariff-relief_img_unnamed28929_700ef5f90aa4.png)
+![Market Chart 1](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-02-04_energy-realignment-india-drops-russian-crude-secures-us-tariff-relief_img_unnamed28929_700ef5f90aa4.png)
 
 > **Figure 1: Market Chart 1**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://go.signalocean.com/e/983831/er-market-monitor-week-04-2026/2rtjdz/575211467/h/Y58Ykbd733mKxvaWFfe8usIQjtXIlrCKuT6RPRNylSQ) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-02-04_energy-realignment-india-drops-russian-crude-secures-us-tariff-relief_img_unnamed28929_700ef5f90aa4.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://go.signalocean.com/e/983831/er-market-monitor-week-04-2026/2rtjdz/575211467/h/Y58Ykbd733mKxvaWFfe8usIQjtXIlrCKuT6RPRNylSQ) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-02-04_energy-realignment-india-drops-russian-crude-secures-us-tariff-relief_img_unnamed28929_700ef5f90aa4.png)
 
 Source: Crude oil flows from Russia to India from Signal Ocean
 
@@ -44,10 +44,10 @@ TSOP has already started to see India taking less Russian oil, though, and has r
 
 The tariff reductions do, though, offer significant upside for India if it can manage the replacement of Russian crude. The 50% tariff on Indian goods has remained a strong barrier to finished goods entering the U.S. market. These tariffs falling to 18% boost the price competitiveness of Indian origin good and open up the largest consumer market.
 
-![Market Chart 2](assets/2026-02-04_energy-realignment-india-drops-russian-crude-secures-us-tariff-relief_img_unnamed281029_350dae08530c.png)
+![Market Chart 2](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-02-04_energy-realignment-india-drops-russian-crude-secures-us-tariff-relief_img_unnamed281029_350dae08530c.png)
 
 > **Figure 2: Market Chart 2**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-02-04_energy-realignment-india-drops-russian-crude-secures-us-tariff-relief_img_unnamed281029_350dae08530c.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-02-04_energy-realignment-india-drops-russian-crude-secures-us-tariff-relief_img_unnamed281029_350dae08530c.png)
 
 Source: Indian crude oil sources in 2025 from Signal Ocean
 

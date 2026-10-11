@@ -36,8 +36,12 @@ If the Houthi-Saudi conflict escalates further and the avoidance of Bab el- Mand
 
 ![Exhibit 1: Another Brick In The Wall v2](../../../charts/poten/2026/poten_2026-07-24_another-brick-in-the-wall-v2_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2026/poten_2026-07-24_another-brick-in-the-wall-v2_chart1.png)
+> **Interactive Asset:** [Local Asset (200 DPI PNG)](../../../charts/poten/2026/poten_2026-07-24_another-brick-in-the-wall-v2_chart1.png)
 
-![Exhibit 2: Another Brick In The Wall v2](../../../charts/poten/2026/poten_2026-07-24_another-brick-in-the-wall-v2_chart2.png)
+![Exhibit 2: Crude Oil Exports From Yanbu By Destination](../../../charts/poten/2026/poten_2026-07-24_another-brick-in-the-wall-v2_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2026/poten_2026-07-24_another-brick-in-the-wall-v2_chart2.png)
+> **Exhibit 2: Crude Oil Exports From Yanbu By Destination**  
+> Unit: Kb/d · X-axis: 29-Dec-25 to 13-Jul-26  
+> Series: Sumed, China, South Korea, Japan, India, Other Asia, USA, Europe, Other  
+> *Source: EIA, Vortexa*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2026/poten_2026-07-24_another-brick-in-the-wall-v2_chart2.png)

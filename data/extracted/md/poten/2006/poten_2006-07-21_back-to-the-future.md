@@ -58,6 +58,14 @@ For now, we are certain that the demand side of the equation is not set to chang
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: Back to the Future](../../../charts/poten/2006/poten_2006-07-21_back-to-the-future_chart1.png)
+> **Chart on PDF page 1: WS Rate VLCC AG - USG**  
+> Unit: WS Rate AG - USG · X-axis: 1971 to 2005  
+> Series: WS Rate VLCC AG - USG  
+> *Source: Poten & Partners*  
+> *No image crop of this chart was saved; caption read from the PDF.*
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2006/poten_2006-07-21_back-to-the-future_chart1.png)
+> **Chart on PDF page 2: Annual Average Crude Oil Price**  
+> Unit: $ Per Barrel - Inflation Adjusted · X-axis: 1971 to 2005  
+> Series: Arab Light/Brent crude  
+> *Source: BP Statistics/Poten & Partners*  
+> *No image crop of this chart was saved; caption read from the PDF.*

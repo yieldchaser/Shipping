@@ -20,13 +20,15 @@ In terms of energy, Mexico and the United States have had a symbiotic relationsh
 
 Mexico has been an oil producer for many decades. The country started producing before the Mexican Revolution of 1910. Major western oil companies were involved in the Mexican oil industry until the government nationalized the industry in 1938 under PEMEX (Petroleos Mexicanos) to regain control over its oil resources. Mexico's production rose rapidly in the 1970s and 1980s, to reach 3 million barrels per day (Mb/d). Mexican oil production peaked in the early 2000s at around 3.8 Mb/d, before gradually declining. Today, crude oil production is down to around 2.0 Mb/d. In 2013, Mexico amended its constitution, to allow private (both domestic and foreign) investment into the energy sector for the first time since its nationalization. The objective was to reverse the decline in production. However, the current government, under President Lopez Obrador, does not favor opening up the energy sector, and instead has focused on boosting domestic refining. This means increasing the utilization of existing refineries and investing in new capacity (the Dos Bocas refinery).
 
-In April, PEMEX announced that they would cancel up to 436,000 b/d of crude exports, so these barrels could be processed domestically. This led to a drop in exports, in particular to the U.S. However, recent fires at two Mexican refineries could (temporarily) make more crude oil available for exports again. However, as can be seen in [Chart 1](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2024/poten_2024-05-10_much-to-do-about-mexico_chart1.png), Mexican exports have been going down from 1.25 Mb/d in October 2023 to 625,000 b/d in April. Not surprisingly, exports to the US declined the most; from 870,000 b/d to 405,000 b/d. Mexican exports may recover temporarily, but the long-term trend is probably down, a combination of more domestic demand and limited potential for production growth.
+In April, PEMEX announced that they would cancel up to 436,000 b/d of crude exports, so these barrels could be processed domestically. This led to a drop in exports, in particular to the U.S. However, recent fires at two Mexican refineries could (temporarily) make more crude oil available for exports again. However, as can be seen in [Chart 1](../../../charts/poten/2024/poten_2024-05-10_much-to-do-about-mexico_chart1.png), Mexican exports have been going down from 1.25 Mb/d in October 2023 to 625,000 b/d in April. Not surprisingly, exports to the US declined the most; from 870,000 b/d to 405,000 b/d. Mexican exports may recover temporarily, but the long-term trend is probably down, a combination of more domestic demand and limited potential for production growth.
 
-> **Exhibit 1: Much To Do About Mexico (Chart 1)**  
-> *Source: Poten & Partners*  
-> **Interactive Data & Source:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2024/poten_2024-05-10_much-to-do-about-mexico_chart1.png)
+> **Exhibit 1: Crude Oil Exports From Mexico by Destination**  
+> Unit: Kb/d · X-axis: Jan-21 to Mar-24  
+> Series: United States, Spain, South Korea, India, China, Cuba, Japan, Other  
+> *Source: Vortexa*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2024/poten_2024-05-10_much-to-do-about-mexico_chart1.png)
 
-![Exhibit 1: Much To Do About Mexico](../../../charts/poten/2024/poten_2024-05-10_much-to-do-about-mexico_chart1.png)
+![Exhibit 1: Crude Oil Exports From Mexico by Destination](../../../charts/poten/2024/poten_2024-05-10_much-to-do-about-mexico_chart1.png)
 
 Mexico's export declines have created a challenge for the refineries in the US Gulf. Mexico's main export grade is Maya, a heavy sour (high sulphur) crude that is ideal for US Gulf refiners with significant upgrading capacity. These US refiners will have to look for alternatives. Venezuela was one option, but sanctions against this country have recently been reinstated, so export volumes will remain limited. Another source of heavy crude would be Canada, but the startup of the Trans Mountain Pipeline (TMX) expansion will potentially make Canadian crude more expensive and/or less available. If regional supplies are limited, US refiners can also turn to the Middle East for heavier sour grades. It appears that this is already happening. Vortexa recently reported a significant increase in the volume of Saudi crude making its way to the US Gulf.
 
@@ -34,6 +36,10 @@ What does all this mean for shipping? Lower exports from Mexico will negatively 
 
 ## Market Exhibits & Charts
 
-![Exhibit 2: Much To Do About Mexico](../../../charts/poten/2024/poten_2024-05-10_much-to-do-about-mexico_chart2.png)
+![Exhibit 2: Crude Oil Exports From Mexico by Vessel Class](../../../charts/poten/2024/poten_2024-05-10_much-to-do-about-mexico_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2024/poten_2024-05-10_much-to-do-about-mexico_chart2.png)
+> **Exhibit 2: Crude Oil Exports From Mexico by Vessel Class**  
+> Unit: Kb/d · X-axis: Jan-21 to Mar-24  
+> Series: VLCC, Suezmax, Aframax/LR2, Panamax/LR1, Smaller  
+> *Source: Vortexa*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2024/poten_2024-05-10_much-to-do-about-mexico_chart2.png)

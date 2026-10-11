@@ -201,6 +201,8 @@ As of August 1, SMM data showed that the total iron ore inventory at 35 ports na
 | **SGX** | **Sep. 25** | USD/DMT | 100.15 | +0.25 | +0.25% | 10.94 | 52.56 | 99.50 | 101.00 |
 
 ## Dry Bulk Freight Rates Historical Line Data (USD/MT)
+> **Approximate.** The report prints no numbers for this chart. Values were read visually from the chart image by the parser and are rough estimates.
+
 | Date | C5 W. Australia - Qingdao (USD/MT) | C3 Tubarao - Qingdao (USD/MT) |
 | :--- | :--- | :--- |
 | 1 Jan 4 | 15.00 | 18.00 |
@@ -230,6 +232,8 @@ As of August 1, SMM data showed that the total iron ore inventory at 35 ports na
 | 5 May 4 | 41.00 | 4.00 |
 
 ## Total China Iron Ore Import Volumes (Million Tonnes)
+> **Approximate.** The report prints no numbers for this chart. Values were read visually from the chart image by the parser and are rough estimates.
+
 | Month / Period | Import Volume (Million Tonnes) |
 | :--- | :--- |
 | Jun-23 | 96.00 |

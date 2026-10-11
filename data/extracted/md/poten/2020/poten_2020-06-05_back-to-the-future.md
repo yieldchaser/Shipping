@@ -30,10 +30,17 @@ At this point, it is impossible to predict which of the two growth scenarios wil
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: Back to the Future](../../../charts/poten/2020/poten_2020-06-05_back-to-the-future_chart1.png)
+![Exhibit 1: EIA Global Oil Demand Outlook Over Time](../../../charts/poten/2020/poten_2020-06-05_back-to-the-future_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2020/poten_2020-06-05_back-to-the-future_chart1.png)
+> **Exhibit 1: EIA Global Oil Demand Outlook Over Time**  
+> Unit: Mb/d · X-axis: Jan-18 to Oct-21  
+> Series: Jan-20, Feb-20, Mar-20, Apr-20, May-20  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2020/poten_2020-06-05_back-to-the-future_chart1.png)
 
-![Exhibit 2: Back to the Future](../../../charts/poten/2020/poten_2020-06-05_back-to-the-future_chart2.png)
+![Exhibit 2: Regional Oil Demand Growth (Compared to 2019)](../../../charts/poten/2020/poten_2020-06-05_back-to-the-future_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2020/poten_2020-06-05_back-to-the-future_chart2.png)
+> **Exhibit 2: Regional Oil Demand Growth (Compared to 2019)**  
+> Unit: Mb/d · X-axis: Jan-20 to Nov-21  
+> Series: US, Europe, China, Other Asia  
+> *Source: EIA*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2020/poten_2020-06-05_back-to-the-future_chart2.png)

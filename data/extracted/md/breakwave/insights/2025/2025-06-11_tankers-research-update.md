@@ -25,11 +25,11 @@ source_file: "corpus/03-breakwave/insights/2025/2025-06-11_tankers-research-upda
 - China’s crude oil imports fell to a four-month low in May, dropping to 9.54m b/d, according to data from Vortexa. This represents a 14% decline from April’s 11.1m b/d.
 - Shipments from the Middle East Gulf (MEG) to China were particularly impacted, falling to 4.85m b/d in May—a 15% decrease from 5.69m b/d in April and the lowest volume since June 2022. The decline in imports was driven primarily by reduced volumes from key suppliers: Iran (-400k b/d), UAE (-188k b/d), Iraq (-183k b/d) and Saudi Arabia (-153k b/d). These barrels are largely transported on VLCCs, leading to a 7.3% drop in VLCC tonne miles, which fell to 475 billion tonne miles in May.
 
-![Japanese Refiner Taiyo Oil Has Taken Delivery of Russian Crude](assets/2025-06-11_tankers-research-update_img_9253-image-0-1749613240679_f9d95b366760.png)
+![Japanese Refiner Taiyo Oil Has Taken Delivery of Russian Crude](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-06-11_tankers-research-update_img_9253-image-0-1749613240679_f9d95b366760.png)
 
 > **Figure 1: Japanese Refiner Taiyo Oil Has Taken Delivery of Russian Crude**  
 > *Japanese refiner Taiyo Oil has taken delivery of Russian crude aboard the sanctioned Aframax tankerVoyager(113,000 DWT, built 2013). The vessel, blacklisted by both the US and EU, was allowed to discharge under a special waiver granted to the refiner by Japanese authorities on May 21.*  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-06-11_tankers-research-update_img_9253-image-0-1749613240679_f9d95b366760.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-06-11_tankers-research-update_img_9253-image-0-1749613240679_f9d95b366760.png)
 
 - The steep reduction in Iranian flows to China is attributed to the tightening of US sanctions, which have disrupted Tehran’s export channels. Meanwhile, demand from China’s independent refiners has waned as they operate at near-record-low run rates, according to OilChem. The slowdown is attributed to seasonal maintenance, continued work on the ESPO pipeline (expected to last through July), and high inventory levels following prior stockpiling.
 

@@ -28,10 +28,18 @@ In conclusion, we don't believe that the link between VLCC rates and OPEC export
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: OlymPEC Record](../../../charts/poten/2016/poten_2016-08-12_olympec-record_chart1.png)
+![Exhibit 1: OPEC Production by Country](../../../charts/poten/2016/poten_2016-08-12_olympec-record_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2016/poten_2016-08-12_olympec-record_chart1.png)
+> **Exhibit 1: OPEC Production by Country**  
+> Unit: Kb/d · X-axis: 1Q - 2000 to Jul-16  
+> Series: Venezuela, UAE, Qatar, Nigeria, Libya, Kuwait, Ecuador, Angola, Algeria, Iran, Iraq, Saudi Arabia  
+> *Source: OPEC*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2016/poten_2016-08-12_olympec-record_chart1.png)
 
-![Exhibit 2: OlymPEC Record](../../../charts/poten/2016/poten_2016-08-12_olympec-record_chart2.png)
+![Exhibit 2: Middle East OPEC production versus VLCC 1 Yr TC Rates](../../../charts/poten/2016/poten_2016-08-12_olympec-record_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2016/poten_2016-08-12_olympec-record_chart2.png)
+> **Exhibit 2: Middle East OPEC production versus VLCC 1 Yr TC Rates**  
+> Unit: USD/Day | Kb/d · X-axis: 1Q - 2000 to 3Q - 2016  
+> Series: VLCC 1 - YR TC, Middle East OPEC Production  
+> *Source: Poten & Partners*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2016/poten_2016-08-12_olympec-record_chart2.png)

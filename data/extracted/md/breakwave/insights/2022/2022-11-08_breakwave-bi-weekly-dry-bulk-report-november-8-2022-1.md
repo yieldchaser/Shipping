@@ -19,10 +19,10 @@ source_file: "corpus/03-breakwave/insights/2022/2022-11-08_breakwave-bi-weekly-d
 
 ---
 
-![Reporttop](assets/2022-11-08_breakwave-bi-weekly-dry-bulk-report-november-8-2022-1_img_reporttop_232019017473.png)
+![Reporttop](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-11-08_breakwave-bi-weekly-dry-bulk-report-november-8-2022-1_img_reporttop_232019017473.png)
 
 > **Figure 1: Reporttop**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-11-08_breakwave-bi-weekly-dry-bulk-report-november-8-2022-1_img_reporttop_232019017473.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-11-08_breakwave-bi-weekly-dry-bulk-report-november-8-2022-1_img_reporttop_232019017473.png)
 
 ·**Seasonal patterns matter –**In the last five years, Capesize rates have found a short-term bottom during the second week of November, followed by a tight range of outcomes but generally indicating to an average of ~ 10,000-point rally from the early month lows. With spot rates sitting at roughly 12,000 and with futures backwardated to spot, such a potential development will come as a great surprise to the market. How likely is such a scenario this time around? As we always stressed out here, it is extremely difficult to predict short-term moves in spot rates as the parameters affecting the day-to-day freight level are impossible to model. Of course, the assumption that past trends will repeat is always debatable but given the weather seasonality as well as some demand patterns that tend to persist year after year, it might be reasonable to assume that the odds of some strength in the Capesize market over the next few weeks look good. On the other hand, the risk lies with the fact that this year has been anything but normal, and thus, such historical patterns should not apply. Are we about to experience a surprising conclusion to an extraordinary year? With two months left, an unexpected rally in rates will be a mini “black swan event” for market participants that have so far totally discarded such a scenario. Further out the curve, first quarter futures point to a very low rate for Capesizes, currently trading at roughly 6,000. The “optionality” in such an overall pessimistic curve is clearly to the upside, but again, the market needs to see some signs of demand revival before deciding to price a more aggressive rate path, something that currently is quite hard to envision.
 
@@ -30,12 +30,12 @@ source_file: "corpus/03-breakwave/insights/2022/2022-11-08_breakwave-bi-weekly-d
 
 ·**Dry bulk focus shifts back to fundamentals –**Following a period of high uncertainty and significant disruptions across the commodity spectrum, the gradual normalization of trade is shifting the market’s attention back to the traditional demand and supply dynamics that have shaped dry bulk profitability for decades. As effective fleet supply growth for the next few years looks marginal, demand will be the main determinant of spot freight rates with China returning back to the driver’s seat as the dominant force of bulk imports.
 
-![Reportchart](assets/2022-11-08_breakwave-bi-weekly-dry-bulk-report-november-8-2022-1_img_reportchart_674a26f1516b.png)
+![Reportchart](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-11-08_breakwave-bi-weekly-dry-bulk-report-november-8-2022-1_img_reportchart_674a26f1516b.png)
 
 > **Figure 2: Reportchart**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-11-08_breakwave-bi-weekly-dry-bulk-report-november-8-2022-1_img_reportchart_674a26f1516b.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-11-08_breakwave-bi-weekly-dry-bulk-report-november-8-2022-1_img_reportchart_674a26f1516b.png)
 
-![Reportend](assets/2022-11-08_breakwave-bi-weekly-dry-bulk-report-november-8-2022-1_img_reportend_0ec546f3a72e.png)
+![Reportend](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-11-08_breakwave-bi-weekly-dry-bulk-report-november-8-2022-1_img_reportend_0ec546f3a72e.png)
 
 > **Figure 3: Reportend**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-11-08_breakwave-bi-weekly-dry-bulk-report-november-8-2022-1_img_reportend_0ec546f3a72e.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-11-08_breakwave-bi-weekly-dry-bulk-report-november-8-2022-1_img_reportend_0ec546f3a72e.png)

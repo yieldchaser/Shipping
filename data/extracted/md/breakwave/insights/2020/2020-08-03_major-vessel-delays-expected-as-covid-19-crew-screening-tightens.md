@@ -20,10 +20,10 @@ source_file: "corpus/03-breakwave/insights/2020/2020-08-03_major-vessel-delays-e
 
 ---
 
-![Ship25](assets/2020-08-03_major-vessel-delays-expected-as-covid-19-crew-screening-tightens_img_ship25_cae1951c7f4c.jpg)
+![Ship25](../../../../../../corpus/03-breakwave/insights/2020/assets/2020-08-03_major-vessel-delays-expected-as-covid-19-crew-screening-tightens_img_ship25_cae1951c7f4c.jpg)
 
 > **Figure 1: Ship25**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2020/assets/2020-08-03_major-vessel-delays-expected-as-covid-19-crew-screening-tightens_img_ship25_cae1951c7f4c.jpg)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2020/assets/2020-08-03_major-vessel-delays-expected-as-covid-19-crew-screening-tightens_img_ship25_cae1951c7f4c.jpg)
 
 As the new month begins, it was a positive day for dry bulk rates with futures moving higher and now standing well above 20,000/day for Capesizes for the next several months. The upcoming seasonal increase in dry bulk demand is ahead of us, but another unexpected factor might exaggerate any potential increase in freight rates, causing more confusion in an already turbulent year.
 
@@ -31,10 +31,10 @@ According to broker reports, in the last several days, China has increased COVID
 
 In fact, some agents are today reporting that the Lianyungang/LYG Municipal Government is requesting all vessels who had called/visited foreign ports within 14 days (no matter had crew change or not) to quarantine at anchorage without exception.
 
-![China Port Congestion](assets/2020-08-03_major-vessel-delays-expected-as-covid-19-crew-screening-tightens_img_chinaportcongestion_1ad09e57be8b.png)
+![China Port Congestion](../../../../../../corpus/03-breakwave/insights/2020/assets/2020-08-03_major-vessel-delays-expected-as-covid-19-crew-screening-tightens_img_chinaportcongestion_1ad09e57be8b.png)
 
 > **Figure 2: China Port Congestion**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2020/assets/2020-08-03_major-vessel-delays-expected-as-covid-19-crew-screening-tightens_img_chinaportcongestion_1ad09e57be8b.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2020/assets/2020-08-03_major-vessel-delays-expected-as-covid-19-crew-screening-tightens_img_chinaportcongestion_1ad09e57be8b.png)
 
 Such delays are also causing concern among buyers as they increase freight costs, especially for grain buyers.
 

@@ -32,10 +32,10 @@ Even a monthly drop of almost 4m tonnes to 10.0m tonnes failed to prevent soybea
 
 Despite the loss of Ukrainian corn shipments from Chornomorsk, Odesa and Yuzhny with the end of the Black Sea Grain Initiative, September corn futures on the Chicago Board of Trade fell by 13.7% between 24 July and 9 August.
 
-![241](assets/2023-08-13_brazil-dry-bulk-export-driver_img_241_27c14a3c96c6.png)
+![241](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-08-13_brazil-dry-bulk-export-driver_img_241_27c14a3c96c6.png)
 
 > **Figure 1: 241**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-08-13_brazil-dry-bulk-export-driver_img_241_27c14a3c96c6.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-08-13_brazil-dry-bulk-export-driver_img_241_27c14a3c96c6.png)
 
 This demonstrated weak international demand for US corn in the face of what the International Grains Council (IGC) described as “**sizeable and competitively priced” corn supply from Brazil**.
 
@@ -45,10 +45,10 @@ IGC this week noted that, with 64% of the harvest completed, Brazil’s reported
 
 As the chart below shows, Brazil’s corn exports in 2022 offset the seasonal loss of Soybean cargoes from August-December. This suggest Brazil’s grain export terminals will be similarly active through the current quarter as they were in Q2 2023.
 
-![242](assets/2023-08-13_brazil-dry-bulk-export-driver_img_242_6c9670bc4d84.png)
+![242](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-08-13_brazil-dry-bulk-export-driver_img_242_6c9670bc4d84.png)
 
 > **Figure 2: 242**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-08-13_brazil-dry-bulk-export-driver_img_242_6c9670bc4d84.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-08-13_brazil-dry-bulk-export-driver_img_242_6c9670bc4d84.png)
 
 **Panamax/Kamsarmax**tonnage is the main vessel size employed on**Brazil’s corn trades, particularly on longhaul trades into East Asia**.
 
@@ -60,10 +60,10 @@ This quarter may include a greater proportion of longhaul shipments from Brazil 
 
 Vessel tracking data suggests that 34% of corn volumes loaded at Brazil in July and the first week of August have been destined for China.
 
-![243](assets/2023-08-13_brazil-dry-bulk-export-driver_img_243_811ed8eddb8d.png)
+![243](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-08-13_brazil-dry-bulk-export-driver_img_243_811ed8eddb8d.png)
 
 > **Figure 3: 243**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-08-13_brazil-dry-bulk-export-driver_img_243_811ed8eddb8d.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-08-13_brazil-dry-bulk-export-driver_img_243_811ed8eddb8d.png)
 
 As the chart above shows, Capesizes have consistently traded at a premium to Panamaxes in recent months, a stark difference to much of 2022 when Panamax rates largely outperformed the Capes.
 
@@ -73,10 +73,10 @@ Following a poor year for weather in 2022, drier conditions in Q2 allowed miners
 
 While it is true that this year’s export volumes represent a return to year-on-year growth, however, the chart overleaf highlights that**2023 also marks a return to the actual volumes from 2021**. Indeed, the two-year increase is a less impressive 2.9m tonnes.
 
-![244](assets/2023-08-13_brazil-dry-bulk-export-driver_img_244_82be876550d6.png)
+![244](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-08-13_brazil-dry-bulk-export-driver_img_244_82be876550d6.png)
 
 > **Figure 4: 244**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-08-13_brazil-dry-bulk-export-driver_img_244_82be876550d6.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-08-13_brazil-dry-bulk-export-driver_img_244_82be876550d6.png)
 
 ### Braemar Research
 

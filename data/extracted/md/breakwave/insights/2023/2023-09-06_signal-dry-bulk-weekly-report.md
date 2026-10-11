@@ -23,10 +23,10 @@ source_file: "corpus/03-breakwave/insights/2023/2023-09-06_signal-dry-bulk-weekl
 
 **Higher freight rates despite the increase in the volume of ballast ships as demand gradually rises**
 
-![Market Chart 1](assets/2023-09-06_signal-dry-bulk-weekly-report_img_unnamed-2023-09-06t122426860_131c1f87e5e1.png)
+![Market Chart 1](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-09-06_signal-dry-bulk-weekly-report_img_unnamed-2023-09-06t122426860_131c1f87e5e1.png)
 
 > **Figure 1: Market Chart 1**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-09-06_signal-dry-bulk-weekly-report_img_unnamed-2023-09-06t122426860_131c1f87e5e1.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-09-06_signal-dry-bulk-weekly-report_img_unnamed-2023-09-06t122426860_131c1f87e5e1.png)
 
 As September began, freight rates continued to remain firm, as recorded at the end of the summer season. However, the Capesize segment remained under downward pressure. On the other hand, the Panamax and Handysize vessel freight rates showed an upturn. Despite this recent firmness, there are still uncertainties regarding the stability of the market, given the ongoing grain crisis and the gloomy economic outlook in China.
 When we look at the Panamax vessel size segment, we can observe that there is a rise in the number of ballasters heading towards South Africa. However, it is interesting to note that the Panamax Singapore RV route (P6_82) is experiencing a stronger momentum of freight rates. The recent firmness follows an upward trend that has been evident in daily volume loaded since July.
@@ -43,10 +43,10 @@ Freight Market, Supply, Demand and Port Congestion
 ‘The Big Picture’ - Capesize and Panamax Bulkers and Smaller Ship Sizes
 Market Rates ($/t) Firmer
 
-![Market Chart 2](assets/2023-09-06_signal-dry-bulk-weekly-report_img_unnamed-2023-09-06t122855616_32a282d6502e.png)
+![Market Chart 2](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-09-06_signal-dry-bulk-weekly-report_img_unnamed-2023-09-06t122855616_32a282d6502e.png)
 
 > **Figure 2: Market Chart 2**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-09-06_signal-dry-bulk-weekly-report_img_unnamed-2023-09-06t122855616_32a282d6502e.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-09-06_signal-dry-bulk-weekly-report_img_unnamed-2023-09-06t122855616_32a282d6502e.png)
 
 The rise in Panamax and Handysize freight rates continued during the first week of September, while Capesize rates remained low.
 
@@ -57,10 +57,10 @@ The rise in Panamax and Handysize freight rates continued during the first week 
 
 ## Section 2/ Supply ​​​
 
-![Supply Trend Lines for Key Load Areasballasters (# Vessels) Mixed](assets/2023-09-06_signal-dry-bulk-weekly-report_img_unnamed-2023-09-06t122948096_a126f9188bf4.png)
+![Supply Trend Lines for Key Load Areasballasters (# Vessels) Mixed](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-09-06_signal-dry-bulk-weekly-report_img_unnamed-2023-09-06t122948096_a126f9188bf4.png)
 
 > **Figure 3: Supply Trend Lines for Key Load Areasballasters (# Vessels) Mixed**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-09-06_signal-dry-bulk-weekly-report_img_unnamed-2023-09-06t122948096_a126f9188bf4.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-09-06_signal-dry-bulk-weekly-report_img_unnamed-2023-09-06t122948096_a126f9188bf4.png)
 
 The number of ballast ships showed a mixed picture, with a downward trend in the Capesize, Supramax and Handysize segments but an upward trend in Panamax.
 
@@ -71,10 +71,10 @@ The number of ballast ships showed a mixed picture, with a downward trend in the
 
 ## Section 3/ Demand
 
-![Summary of Dry Bulk Demand, per Ship Sizetonnedays Decreasing](assets/2023-09-06_signal-dry-bulk-weekly-report_img_unnamed-2023-09-06t123131824_f6eb1095c7a1.png)
+![Summary of Dry Bulk Demand, per Ship Sizetonnedays Decreasing](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-09-06_signal-dry-bulk-weekly-report_img_unnamed-2023-09-06t123131824_f6eb1095c7a1.png)
 
 > **Figure 4: Summary of Dry Bulk Demand, per Ship Sizetonnedays Decreasing**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-09-06_signal-dry-bulk-weekly-report_img_unnamed-2023-09-06t123131824_f6eb1095c7a1.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-09-06_signal-dry-bulk-weekly-report_img_unnamed-2023-09-06t123131824_f6eb1095c7a1.png)
 
 The overall picture of tonne-day growth observed in the first days of September continued the downward trend of the last days of August, while the Capesize shipping showed a level of gradual improvement.
 
@@ -85,10 +85,10 @@ The overall picture of tonne-day growth observed in the first days of September 
 
 ## Section 4/ Port Congestion ​​​​​
 
-![Dry Bulk Ships Congested at Chinese Portsno of Vessels Increasing](assets/2023-09-06_signal-dry-bulk-weekly-report_img_unnamed-2023-09-06t123428850_3926f298aa45.png)
+![Dry Bulk Ships Congested at Chinese Portsno of Vessels Increasing](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-09-06_signal-dry-bulk-weekly-report_img_unnamed-2023-09-06t123428850_3926f298aa45.png)
 
 > **Figure 5: Dry Bulk Ships Congested at Chinese Portsno of Vessels Increasing**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-09-06_signal-dry-bulk-weekly-report_img_unnamed-2023-09-06t123428850_3926f298aa45.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-09-06_signal-dry-bulk-weekly-report_img_unnamed-2023-09-06t123428850_3926f298aa45.png)
 
 There was a surge in vessel congestion in China at the start of September, but there may be a downward correction in the coming days following a lower level at the end of the previous month. The rise in numbers is due to the Panamax, Supramax, and Handysize categories of ships.
 

@@ -30,10 +30,10 @@ source_file: "corpus/03-breakwave/insights/2023/2023-01-05_doric-china-barometer
 - Imports to China tumbled by 10.6 percent year-on-year in November to USD 226.21 billion, down from a marginal gain of 0.7 percent in October.
 - China posted a total trade surplus of USD 69.84 billion in November, compared with a USD 85.15 billion surplus in the previous month.
 
-![1 (2)](assets/2023-01-05_doric-china-barometer-part-12_img_128229_9da8bc7130aa.png)
+![1 (2)](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-01-05_doric-china-barometer-part-12_img_128229_9da8bc7130aa.png)
 
 > **Figure 1: 1 (2)**  
-> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-01-05_doric-china-barometer-part-12_img_128229_9da8bc7130aa.png)
+> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-01-05_doric-china-barometer-part-12_img_128229_9da8bc7130aa.png)
 
 ## Price Environment
 
@@ -44,10 +44,10 @@ source_file: "corpus/03-breakwave/insights/2023/2023-01-05_doric-china-barometer
 - Non-food prices rose by 1.1 percent year-on-year in November without any significant change since last month.
 - On a monthly basis, November’s consumer price index declined by 0.2 percent after a gain of 0.1 percent in October.
 
-![1 (3)](assets/2023-01-05_doric-china-barometer-part-12_img_128329_2089e3ebb0bb.png)
+![1 (3)](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-01-05_doric-china-barometer-part-12_img_128329_2089e3ebb0bb.png)
 
 > **Figure 2: 1 (3)**  
-> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-01-05_doric-china-barometer-part-12_img_128329_2089e3ebb0bb.png)
+> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-01-05_doric-china-barometer-part-12_img_128329_2089e3ebb0bb.png)
 
 ## Manufacturing 1/2
 
@@ -58,10 +58,10 @@ source_file: "corpus/03-breakwave/insights/2023/2023-01-05_doric-china-barometer
 - The sub-index measuring total new orders balanced at 46.4 percent or down 1.7 percentage points from previous month.
 - China’s Purchasing Manager’s Index (PMI) dropped below the threshold territory, signaling a deterioration in market demand.
 
-![1 (4)](assets/2023-01-05_doric-china-barometer-part-12_img_128429_140c6b926021.png)
+![1 (4)](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-01-05_doric-china-barometer-part-12_img_128429_140c6b926021.png)
 
 > **Figure 3: 1 (4)**  
-> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-01-05_doric-china-barometer-part-12_img_128429_140c6b926021.png)
+> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-01-05_doric-china-barometer-part-12_img_128429_140c6b926021.png)
 
 ## Manufacturing 2/2
 
@@ -72,10 +72,10 @@ source_file: "corpus/03-breakwave/insights/2023/2023-01-05_doric-china-barometer
 - During the first eleven months of 2022, the added value of industries grew by circa 3.8 percent year-on-year.
 - In terms of sectors, the value added of mining increased by 5.9 percent year-onyear; that of manufacturing increased by 2.0 percent year-on-year.
 
-![1 (5)](assets/2023-01-05_doric-china-barometer-part-12_img_128529_741858f26578.png)
+![1 (5)](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-01-05_doric-china-barometer-part-12_img_128529_741858f26578.png)
 
 > **Figure 4: 1 (5)**  
-> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-01-05_doric-china-barometer-part-12_img_128529_741858f26578.png)
+> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-01-05_doric-china-barometer-part-12_img_128529_741858f26578.png)
 
 ## Energy 1/2
 
@@ -86,10 +86,10 @@ source_file: "corpus/03-breakwave/insights/2023/2023-01-05_doric-china-barometer
 - November’s hydropower output in China lay at 21.5 percent lower than October’s reading.
 - China’s solar power generation stood 24.7 percentage points lower than a reading of 15.75 billion kwh in previous month.
 
-![1 (6)](assets/2023-01-05_doric-china-barometer-part-12_img_128629_1466529e7fe6.png)
+![1 (6)](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-01-05_doric-china-barometer-part-12_img_128629_1466529e7fe6.png)
 
 > **Figure 5: 1 (6)**  
-> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-01-05_doric-china-barometer-part-12_img_128629_1466529e7fe6.png)
+> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-01-05_doric-china-barometer-part-12_img_128629_1466529e7fe6.png)
 
 ## Energy 2/2
 
@@ -100,10 +100,10 @@ source_file: "corpus/03-breakwave/insights/2023/2023-01-05_doric-china-barometer
 - Wind power electricity generation during the past month increased by circa 5.7 percent year-on-year.
 - During the past month, nuclear power generation decreased by 11.1 percent from a year earlier, while it stood 3.7 percentage points higher than last month.
 
-![1 (7)](assets/2023-01-05_doric-china-barometer-part-12_img_128729_49b334904ae7.png)
+![1 (7)](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-01-05_doric-china-barometer-part-12_img_128729_49b334904ae7.png)
 
 > **Figure 6: 1 (7)**  
-> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-01-05_doric-china-barometer-part-12_img_128729_49b334904ae7.png)
+> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-01-05_doric-china-barometer-part-12_img_128729_49b334904ae7.png)
 
 Part 2/2 will be published tomorrow.
 

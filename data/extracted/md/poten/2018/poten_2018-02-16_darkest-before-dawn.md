@@ -30,10 +30,18 @@ All-in-all, the immediate outlook for the tanker market is not great, but we see
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: Darkest Before Dawn](../../../charts/poten/2018/poten_2018-02-16_darkest-before-dawn_chart1.png)
+![Exhibit 1: Spot rates: VLCC & MR](../../../charts/poten/2018/poten_2018-02-16_darkest-before-dawn_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2018/poten_2018-02-16_darkest-before-dawn_chart1.png)
+> **Exhibit 1: Spot rates: VLCC & MR**  
+> Unit: US$/day | US$/day · X-axis: Jan-2010 to Jan-2018  
+> Series: VLCC 270,000: Ras Tanura - Chiba, Handymax 37,000: Rotterdam - New York  
+> *Source: Poten & Partners*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2018/poten_2018-02-16_darkest-before-dawn_chart1.png)
 
-![Exhibit 2: Darkest Before Dawn](../../../charts/poten/2018/poten_2018-02-16_darkest-before-dawn_chart2.png)
+![Exhibit 2: Oil Tanker Fleet Age Profile and Orderbook](../../../charts/poten/2018/poten_2018-02-16_darkest-before-dawn_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2018/poten_2018-02-16_darkest-before-dawn_chart2.png)
+> **Exhibit 2: Oil Tanker Fleet Age Profile and Orderbook**  
+> Unit: M DWT · X-axis: 1981 to 2022  
+> Series: Trading, Orders, >=15 Yrs, 11-15 Yrs, 6-10 Yrs, 0-5 Yrs  
+> *Source: Poten& Partners*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2018/poten_2018-02-16_darkest-before-dawn_chart2.png)

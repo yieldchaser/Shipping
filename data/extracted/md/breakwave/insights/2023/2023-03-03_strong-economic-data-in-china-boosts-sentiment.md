@@ -23,10 +23,10 @@ source_file: "corpus/03-breakwave/insights/2023/2023-03-03_strong-economic-data-
 
 Better than expected economic data in China saw commodities rally across the board as hopes of a rebound in demand rose. This was aided by signs of stronger demand in other parts of Asia.
 
-![1677703977520](assets/2023-03-03_strong-economic-data-in-china-boosts-sentiment_img_1677703977520_1aaa2ff6c8df.png)
+![1677703977520](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-03-03_strong-economic-data-in-china-boosts-sentiment_img_1677703977520_1aaa2ff6c8df.png)
 
 > **Figure 1: 1677703977520**  
-> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-03-03_strong-economic-data-in-china-boosts-sentiment_img_1677703977520_1aaa2ff6c8df.png)
+> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-03-03_strong-economic-data-in-china-boosts-sentiment_img_1677703977520_1aaa2ff6c8df.png)
 
 **Base metals**rallied. Economic data highlight a stronger recovery in demand is imminent. China’s Purchasing Manufacturers Index for February hit its highest level since 2012, beating most estimates, as factory’s reopened after the Lunar New Year holiday. This was the first set of comprehensive data released since COVID-19 restrictions ended late last year. It comes ahead of next week’s National People’s Congress where a new growth target will be disclosed. Expectations of lower demand from the electric vehicle sector may need to be reset, after Deputy Finance Minister Xu said China will extend the sales-tax exemption for new energy vehicles and is looking at new policies to further support the sector. The Ministry of Commerce is also looking at measures to expand consumption.
 

@@ -22,10 +22,10 @@ source_file: "corpus/03-breakwave/insights/2025/2025-12-05_rising-australian-ore
 
 *In our previous market insights, we explored the*[*Simandou*](https://go.signalocean.com/e/983831/ply-surge-meets-china-slowdown/2rnrv8/557647939/h/XwUT-xFBexjapYiVHTA0UodrQ7qS_f9TPak_SXsViR0)*iron ore story and whether it could meaningfully challenge the long-standing dominance of Australian and Brazilian exporters. This week, we shift focus to Western Australia’s iron ore dynamics behind the recent strength in the C5 freight route assessment. With year-end approaching, we review how shipment volumes have evolved and whether Q4 is on track to deliver a firm close for Australia’s iron ore industry.*
 
-![Market Chart 1](assets/2025-12-05_rising-australian-ore-loadings-keep-upward-pressure-on-wachina-freight_img_unnamed_e45639904c83.png)
+![Market Chart 1](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-12-05_rising-australian-ore-loadings-keep-upward-pressure-on-wachina-freight_img_unnamed_e45639904c83.png)
 
 > **Figure 1: Market Chart 1**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://go.signalocean.com/e/983831/cyclone-7dayforecast-/2rnrvc/557647939/h/XwUT-xFBexjapYiVHTA0UodrQ7qS_f9TPak_SXsViR0) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-12-05_rising-australian-ore-loadings-keep-upward-pressure-on-wachina-freight_img_unnamed_e45639904c83.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://go.signalocean.com/e/983831/cyclone-7dayforecast-/2rnrvc/557647939/h/XwUT-xFBexjapYiVHTA0UodrQ7qS_f9TPak_SXsViR0) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-12-05_rising-australian-ore-loadings-keep-upward-pressure-on-wachina-freight_img_unnamed_e45639904c83.png)
 
 - C5 assessments have climbed back to the peak levels last seen in 4Q23, the highest in nearly a year.
 
@@ -37,19 +37,19 @@ source_file: "corpus/03-breakwave/insights/2025/2025-12-05_rising-australian-ore
 
 - Seasonal High: China’s Iron Ore Intake from Western Australia exceeded 70M mt in Q4
 
-![​​​​](assets/2025-12-05_rising-australian-ore-loadings-keep-upward-pressure-on-wachina-freight_img_unnamed28129_ec6760959a0e.png)
+![​​​​](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-12-05_rising-australian-ore-loadings-keep-upward-pressure-on-wachina-freight_img_unnamed28129_ec6760959a0e.png)
 
 > **Figure 2: ​​​​**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-12-05_rising-australian-ore-loadings-keep-upward-pressure-on-wachina-freight_img_unnamed28129_ec6760959a0e.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-12-05_rising-australian-ore-loadings-keep-upward-pressure-on-wachina-freight_img_unnamed28129_ec6760959a0e.png)
 
 The strong sentiment from October continued into November, with the early start of Australia’s tropical cyclone season not yet impacting the market. Chinese iron ore imports increased through October and November despite ongoing pressure from the property sector. Export volumes from Port Hedland were also firm, confirming that Western Australia’s shipments held up well ahead of the main cyclone months. Looking ahead to the November–April period, weather-related risks could affect export activity, while wider economic challenges will continue to weigh on Chinese iron ore demand.
 
 - Port Hedland | Capesize Iron Ore Exports to China Exceeded 33million metric tonnes in November
 
-![Market Chart 3](assets/2025-12-05_rising-australian-ore-loadings-keep-upward-pressure-on-wachina-freight_img_unnamed28229_cd6c0ff3d7b9.png)
+![Market Chart 3](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-12-05_rising-australian-ore-loadings-keep-upward-pressure-on-wachina-freight_img_unnamed28229_cd6c0ff3d7b9.png)
 
 > **Figure 3: Market Chart 3**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-12-05_rising-australian-ore-loadings-keep-upward-pressure-on-wachina-freight_img_unnamed28229_cd6c0ff3d7b9.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-12-05_rising-australian-ore-loadings-keep-upward-pressure-on-wachina-freight_img_unnamed28229_cd6c0ff3d7b9.png)
 
 In November, Port Hedland’s Capesize iron ore shipments to China climbed past 33 million metric tons, coming close to the May high of more than 35 million tons. Dampier and Port Walcott added meaningful volumes as well, but Port Hedland remained dominant, representing over 60% of Western Australia’s total exports to China.
 
@@ -57,10 +57,10 @@ In November, Port Hedland’s Capesize iron ore shipments to China climbed past 
 
 - Ballaster availability has tightened, with the 21D MA dropping to 162 vessels
 
-![Market Chart 4](assets/2025-12-05_rising-australian-ore-loadings-keep-upward-pressure-on-wachina-freight_img_unnamed28329_2a61c48deb38.png)
+![Market Chart 4](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-12-05_rising-australian-ore-loadings-keep-upward-pressure-on-wachina-freight_img_unnamed28329_2a61c48deb38.png)
 
 > **Figure 4: Market Chart 4**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-12-05_rising-australian-ore-loadings-keep-upward-pressure-on-wachina-freight_img_unnamed28329_2a61c48deb38.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-12-05_rising-australian-ore-loadings-keep-upward-pressure-on-wachina-freight_img_unnamed28329_2a61c48deb38.png)
 
 Ballaster numbers have retreated significantly from their early-October peak of roughly 180 vessels to around 160 by late November. This decline aligns with the pick-up in iron ore loadings out of Western Australia, which has helped absorb the excess tonnage. The tighter vessel supply, together with stronger export flows, has supported firmer C5 sentiment, with rates rising from around $10/mt in early October to approximately $12/mt by late November.
 

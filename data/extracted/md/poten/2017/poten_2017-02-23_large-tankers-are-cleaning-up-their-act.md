@@ -34,8 +34,8 @@ Going forward, the prospects for growth in the LR1 and LR2 trades look promising
 
 ![Exhibit 1: Large Tankers Are Cleaning Up Their Act](../../../charts/poten/2017/poten_2017-02-23_large-tankers-are-cleaning-up-their-act_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2017/poten_2017-02-23_large-tankers-are-cleaning-up-their-act_chart1.png)
+> **Interactive Asset:** [Local Asset (200 DPI PNG)](../../../charts/poten/2017/poten_2017-02-23_large-tankers-are-cleaning-up-their-act_chart1.png)
 
 ![Exhibit 2: Large Tankers Are Cleaning Up Their Act](../../../charts/poten/2017/poten_2017-02-23_large-tankers-are-cleaning-up-their-act_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2017/poten_2017-02-23_large-tankers-are-cleaning-up-their-act_chart2.png)
+> **Interactive Asset:** [Local Asset (200 DPI PNG)](../../../charts/poten/2017/poten_2017-02-23_large-tankers-are-cleaning-up-their-act_chart2.png)

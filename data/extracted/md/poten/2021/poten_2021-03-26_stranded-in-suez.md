@@ -30,10 +30,18 @@ It is going to be interesting to see how the Med market reacts now that it looks
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: Stranded In Suez](../../../charts/poten/2021/poten_2021-03-26_stranded-in-suez_chart1.png)
+![Exhibit 1: Average Monthy Suezmax Voyages through Suez Canal](../../../charts/poten/2021/poten_2021-03-26_stranded-in-suez_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2021/poten_2021-03-26_stranded-in-suez_chart1.png)
+> **Exhibit 1: Average Monthy Suezmax Voyages through Suez Canal**  
+> Unit: Voyages per month · X-axis: AG - S. Europe to C America - India  
+> Series: AG - S. Europe, Black Sea - Far East, Black Sea - India, AG - E. Med, E. Med - Far East, AG - NW Europe, Black Sea - SE Asia, N Africa - SE Asia, N Africa - Far East, Scandinavia - Far East, AG - Black Sea, C America - India  
+> *Source: Lloyd’s List Intelligence*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2021/poten_2021-03-26_stranded-in-suez_chart1.png)
 
-![Exhibit 2: Stranded In Suez](../../../charts/poten/2021/poten_2021-03-26_stranded-in-suez_chart2.png)
+![Exhibit 2: Black Sea - Med Freight Rates](../../../charts/poten/2021/poten_2021-03-26_stranded-in-suez_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2021/poten_2021-03-26_stranded-in-suez_chart2.png)
+> **Exhibit 2: Black Sea - Med Freight Rates**  
+> Unit: Worldscale · X-axis: 1-Jan-21 to 26-Mar-21  
+> Series: Suezmax, Aframax  
+> *Source: Poten & Partners*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2021/poten_2021-03-26_stranded-in-suez_chart2.png)

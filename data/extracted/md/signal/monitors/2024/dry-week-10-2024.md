@@ -31,7 +31,7 @@ tags:
 ![65e8440c1913f70a41ca77db Chart of the Week Dry (2)](../../images/65e8440c1913f70a41ca77db_chart of the week dry (2).png)
 
 > **Figure 1: 65e8440c1913f70a41ca77db Chart of the Week Dry (2)**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/dry-week-10-2024) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/65e8440c1913f70a41ca77db_chart of the week dry (2).png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/dry-week-10-2024) | [Local Asset](../../../../../../corpus/07-signal/images/65e8440c1913f70a41ca77db_chart%20of%20the%20week%20dry%20(2).png)
 
 The onset of March has brought firmness in freight rates not only for large vessel size categories but also for smaller ones, with the Handysize NOPAC Far East route recording remarkable increases from the previous month. Meanwhile, in the Capesize Brazil to N China route, rates have reached the highest point for the year at $23/ton at the week's outset. However, the sustainability of this upward trend remains uncertain as the Chinese economic environment continues to grapple with significant challenges. Positive signs emerge from the decreasing trend in ballast views for the SE Africa region after weeks of persistent highs, coupled with a notable growth in tonne days within the Capesize segment for the first time this year. Additionally, Brazilian iron ore exports to China have surged by 70% compared to the corresponding period last year.
 

@@ -48,6 +48,10 @@ For shipowners, this throws one more wrench in a slowly turning policy wheel. Wh
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: Redefining Refining: Separating Condensate from Crude Oil](../../../charts/poten/2014/poten_2014-06-27_redefining-refining-separating-condensate-from-crude-oil_chart1.png)
+![Exhibit 1: US Crude Oil Production by Grade](../../../charts/poten/2014/poten_2014-06-27_redefining-refining-separating-condensate-from-crude-oil_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2014/poten_2014-06-27_redefining-refining-separating-condensate-from-crude-oil_chart1.png)
+> **Exhibit 1: US Crude Oil Production by Grade**  
+> Unit: kbd · X-axis: 2011 to 2015  
+> Series: API 50+, API 45-50, API 40-45, API 40-50 sweet, API 35-40 sweet, API 35-40 sour, API 27-35 med-sour, API 27-35 sour, California, API <27 sweet, API <27 sour  
+> *Source: EIA*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2014/poten_2014-06-27_redefining-refining-separating-condensate-from-crude-oil_chart1.png)

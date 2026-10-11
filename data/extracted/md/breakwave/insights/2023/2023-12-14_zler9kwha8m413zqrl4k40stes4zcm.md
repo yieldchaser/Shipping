@@ -23,10 +23,10 @@ source_file: "corpus/03-breakwave/insights/2023/2023-12-14_zler9kwha8m413zqrl4k4
 
 Markets were steady ahead of the FOMC meeting. Industrial metals fell on weak Chinese economic data. However, energy markets rebounded following further drawdowns in inventories.
 
-![1702502560716](assets/2023-12-14_zler9kwha8m413zqrl4k40stes4zcm_img_1702502560716_5ed569f21c1e.png)
+![1702502560716](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-12-14_zler9kwha8m413zqrl4k40stes4zcm_img_1702502560716_5ed569f21c1e.png)
 
 > **Figure 1: 1702502560716**  
-> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-12-14_zler9kwha8m413zqrl4k40stes4zcm_img_1702502560716_5ed569f21c1e.png)
+> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-12-14_zler9kwha8m413zqrl4k40stes4zcm_img_1702502560716_5ed569f21c1e.png)
 
 **Copper**led the base metals sector lower amid further signs of weak economic growth in China. New credit grew more slowly than expected in November, with aggregate financing rising only 9.4% y/y. Banking lending missed consensus, and M1 money supply expanded the least in almost two years. This comes after the market was disappointed with a readout from China’s annual economic work conference, where leaders failed to propose any large fiscal stimulus measures. Nevertheless, the copper market is facing a period of tightness following recent supply side issues. The closure of the Cobre copper mine in Panama and cuts to output at Anglo American operations will see 600kt removed from the market next year. This moves our expectation of a small surplus into a deficit. More recently, inventories in LME warehouses have fallen for three consecutive weeks. Falling treatment charges are also suggesting tightness in the concentrate market.
 

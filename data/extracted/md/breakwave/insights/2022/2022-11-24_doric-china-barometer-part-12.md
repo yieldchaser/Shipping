@@ -19,11 +19,11 @@ source_file: "corpus/03-breakwave/insights/2022/2022-11-24_doric-china-barometer
 
 ---
 
-[![Bymichalis Voutsinasand Helen Vlassi](assets/2022-11-24_doric-china-barometer-part-12_img_buttonwdate_d45d644f7990.png)
+[![Bymichalis Voutsinasand Helen Vlassi](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-11-24_doric-china-barometer-part-12_img_buttonwdate_d45d644f7990.png)
 
 > **Figure 1: Bymichalis Voutsinasand Helen Vlassi**  
 > *ByMichalis Voutsinasand Helen Vlassi*  
-> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/in/michalis-voutsinas-587544163/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-11-24_doric-china-barometer-part-12_img_buttonwdate_d45d644f7990.png)](https://www.breakwaveadvisors.com/agenda22)
+> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/in/michalis-voutsinas-587544163/) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-11-24_doric-china-barometer-part-12_img_buttonwdate_d45d644f7990.png)](https://www.breakwaveadvisors.com/agenda22)
 
 ### Macro Environment
 
@@ -34,10 +34,10 @@ source_file: "corpus/03-breakwave/insights/2022/2022-11-24_doric-china-barometer
 - Imports to China soared by 0.7 percent year-on-year in October to USD 213.17 billion, marking its first contraction since August 2020.
 - China posted a total trade surplus of USD 85.15 billion in October, compared with a USD 84.75 billion surplus in the previous month.
 
-![Screenshot 20221124 161450 Samsung Notes](assets/2022-11-24_doric-china-barometer-part-12_img_screenshot-20221124-161450-samsungno_0658635b5eb5.jpg)
+![Screenshot 20221124 161450 Samsung Notes](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-11-24_doric-china-barometer-part-12_img_screenshot-20221124-161450-samsungno_0658635b5eb5.jpg)
 
 > **Figure 2: Screenshot 20221124 161450 Samsung Notes**  
-> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-11-24_doric-china-barometer-part-12_img_screenshot-20221124-161450-samsungno_0658635b5eb5.jpg)
+> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-11-24_doric-china-barometer-part-12_img_screenshot-20221124-161450-samsungno_0658635b5eb5.jpg)
 
 ### Price Environment
 
@@ -48,10 +48,10 @@ source_file: "corpus/03-breakwave/insights/2022/2022-11-24_doric-china-barometer
 - Non-food prices rose by 1.1 percent year-on-year in October.
 - On a monthly basis, October’s consumer price index remaned stable, contracting by just 0.2 percentage points from previous month.
 
-![Screenshot 20221124 161536 Samsung Notes](assets/2022-11-24_doric-china-barometer-part-12_img_screenshot-20221124-161536-samsungno_c7a2cd91d859.jpg)
+![Screenshot 20221124 161536 Samsung Notes](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-11-24_doric-china-barometer-part-12_img_screenshot-20221124-161536-samsungno_c7a2cd91d859.jpg)
 
 > **Figure 3: Screenshot 20221124 161536 Samsung Notes**  
-> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-11-24_doric-china-barometer-part-12_img_screenshot-20221124-161536-samsungno_c7a2cd91d859.jpg)
+> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-11-24_doric-china-barometer-part-12_img_screenshot-20221124-161536-samsungno_c7a2cd91d859.jpg)
 
 ### Manufacturing 1/2
 
@@ -62,10 +62,10 @@ source_file: "corpus/03-breakwave/insights/2022/2022-11-24_doric-china-barometer
 - The sub-index measuring total new orders stood at 48.1 percent, or down 1.7 percentage points from previous month.
 - China’s Purchasing Manager’s Index (PMI) dropped below the threshold territory, signalling a deterioration in market demand.
 
-![Screenshot 20221124 161609 Samsung Notes (1)](assets/2022-11-24_doric-china-barometer-part-12_img_screenshot-20221124-161609-samsungno_d472ace99269.jpg)
+![Screenshot 20221124 161609 Samsung Notes (1)](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-11-24_doric-china-barometer-part-12_img_screenshot-20221124-161609-samsungno_d472ace99269.jpg)
 
 > **Figure 4: Screenshot 20221124 161609 Samsung Notes (1)**  
-> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-11-24_doric-china-barometer-part-12_img_screenshot-20221124-161609-samsungno_d472ace99269.jpg)
+> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-11-24_doric-china-barometer-part-12_img_screenshot-20221124-161609-samsungno_d472ace99269.jpg)
 
 ### Manufacturing 2/2
 
@@ -76,10 +76,10 @@ source_file: "corpus/03-breakwave/insights/2022/2022-11-24_doric-china-barometer
 - During the first ten months of 2022, the added value of industries grew by circa 4.0 percent year-on-year.
 - In terms of sectors, the value added of mining increased by 4.0 percent year-onyear; that of manufacturing increased by 5.2 percent year-on-year.
 
-![Screenshot 20221124 161630 Samsung Notes](assets/2022-11-24_doric-china-barometer-part-12_img_screenshot-20221124-161630-samsungno_cc84713dd3e7.jpg)
+![Screenshot 20221124 161630 Samsung Notes](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-11-24_doric-china-barometer-part-12_img_screenshot-20221124-161630-samsungno_cc84713dd3e7.jpg)
 
 > **Figure 5: Screenshot 20221124 161630 Samsung Notes**  
-> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-11-24_doric-china-barometer-part-12_img_screenshot-20221124-161630-samsungno_cc84713dd3e7.jpg)
+> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-11-24_doric-china-barometer-part-12_img_screenshot-20221124-161630-samsungno_cc84713dd3e7.jpg)
 
 ### Energy 1/2
 
@@ -91,10 +91,10 @@ In terms of varieties, the growth rate of solar power balanced at 24.7 percent i
 - October’s hydropower output in China stood circa 12.3 percentage points lower than September’s reading.
 - China’s solar power generation increased by 24.7 percent year-on-year from a reading of 18.9 percent rise in previous month.
 
-![Screenshot 20221124 161657 Samsung Notes](assets/2022-11-24_doric-china-barometer-part-12_img_screenshot-20221124-161657-samsungno_54c8c82a0d17.jpg)
+![Screenshot 20221124 161657 Samsung Notes](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-11-24_doric-china-barometer-part-12_img_screenshot-20221124-161657-samsungno_54c8c82a0d17.jpg)
 
 > **Figure 6: Screenshot 20221124 161657 Samsung Notes**  
-> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-11-24_doric-china-barometer-part-12_img_screenshot-20221124-161657-samsungno_54c8c82a0d17.jpg)
+> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-11-24_doric-china-barometer-part-12_img_screenshot-20221124-161657-samsungno_54c8c82a0d17.jpg)
 
 ### Energy 2/2
 
@@ -105,10 +105,10 @@ In terms of varieties, the growth rate of solar power balanced at 24.7 percent i
 - Wind power electricity generation during the past month increased by circa 19.2 percent year-on-year.
 - During the past month, nuclear power generation increased by 7.4 percent from a year earlier, while it stood 2.7 percent lower than last month.
 
-![Screenshot 20221124 161721 Samsung Notes](assets/2022-11-24_doric-china-barometer-part-12_img_screenshot-20221124-161721-samsungno_d2e85df6de9e.jpg)
+![Screenshot 20221124 161721 Samsung Notes](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-11-24_doric-china-barometer-part-12_img_screenshot-20221124-161721-samsungno_d2e85df6de9e.jpg)
 
 > **Figure 7: Screenshot 20221124 161721 Samsung Notes**  
-> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-11-24_doric-china-barometer-part-12_img_screenshot-20221124-161721-samsungno_d2e85df6de9e.jpg)
+> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-11-24_doric-china-barometer-part-12_img_screenshot-20221124-161721-samsungno_d2e85df6de9e.jpg)
 
 Part 2/2 will be published tomorrow.
 

@@ -20,10 +20,10 @@ source_file: "corpus/03-breakwave/insights/2024/2024-12-17_choppy-waters-ahead.h
 
 ---
 
-![Crude Oil Tanker Skinny](assets/2024-12-17_choppy-waters-ahead_img_crude-oil-tanker-skinny_e026b53e567d.jpg)
+![Crude Oil Tanker Skinny](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-12-17_choppy-waters-ahead_img_crude-oil-tanker-skinny_e026b53e567d.jpg)
 
 > **Figure 1: Crude Oil Tanker Skinny**  
-> **Interactive Data & Source:** [Gibsons Co](https://www.gibsons.co.uk/market-reports) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-12-17_choppy-waters-ahead_img_crude-oil-tanker-skinny_e026b53e567d.jpg)
+> **Interactive Data & Source:** [Gibsons Co](https://www.gibsons.co.uk/market-reports) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-12-17_choppy-waters-ahead_img_crude-oil-tanker-skinny_e026b53e567d.jpg)
 
 In recent years, the tanker market has faced quite a few tailwinds. Structurally, the industry has benefitted from the colossal gains in tanker tonne miles following sanctions on Russia, the exit of aging tonnage into the grey fleet and minimal new deliveries. This year, the rerouting via Cape of Good Hope has also supported the clean tanker market.
 
@@ -35,10 +35,10 @@ The picture is somewhat more positive for crude tankers, as increasing crude pro
 
 Much uncertainty, however, surrounds the OPEC+ production strategy. Although the current oil supply/demand balances show that no additional OPEC+ supplies are needed, if the block starts unwinding crude production cuts later in the year, it will certainly benefit the tanker market in the short term. A contango structure could also emerge, supporting storage economics (although land-based inventories would likely fill first). Geopolitics are expected to continue to play a major role in tanker markets, magnifying the degree of uncertainty. Trump 2.0 could bring many changes, with a profound impact on tanker markets, altering the trade dynamics once again. A major escalation of the Middle East conflict could potentially threaten oil supplies in the region. However, stricter Iranian sanctions could be positive, particularly for larger crude tanker market, shifting demand from the dark fleet to mainstream tanker markets..
 
-![Στιγμιότυπο Οθόνης 2024 12 17 122033](assets/2024-12-17_choppy-waters-ahead_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_8c2620e1b06d.png)
+![Στιγμιότυπο Οθόνης 2024 12 17 122033](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-12-17_choppy-waters-ahead_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_8c2620e1b06d.png)
 
 > **Figure 2: Στιγμιότυπο Οθόνης 2024 12 17 122033**  
-> **Interactive Data & Source:** [Gibsons Co](https://www.gibsons.co.uk/market-reports) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-12-17_choppy-waters-ahead_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_8c2620e1b06d.png)
+> **Interactive Data & Source:** [Gibsons Co](https://www.gibsons.co.uk/market-reports) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-12-17_choppy-waters-ahead_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_8c2620e1b06d.png)
 
 Data source:[Gibson Shipbrokers](https://www.gibsons.co.uk/market-reports)
 

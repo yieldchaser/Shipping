@@ -32,7 +32,7 @@ tags:
 ![653a7a74f1fff865cf5b6e92 VLCC Speed](../../images/653a7a74f1fff865cf5b6e92_VLCC SPEED.png)
 
 > **Figure 1: 653a7a74f1fff865cf5b6e92 VLCC Speed**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/tanker-week-43-2023) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/653a7a74f1fff865cf5b6e92_VLCC SPEED.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/tanker-week-43-2023) | [Local Asset](../../../../../../corpus/07-signal/images/653a7a74f1fff865cf5b6e92_VLCC%20SPEED.png)
 
 The third week of October saw a noticeable improvement in market sentiment in the crude oil freight sector. At the same time, we have observed an increase of rates in In the final week of October, crude freight rates on the VLCC MEG-China route witnessed a decline, accompanied by a noticeable uptick in the number of vessels at the VLCC Ras Tanura port. This occurred amidst persistent challenges in the oil industry, marked by ongoing crises that exert downward pressure on oil prices and production levels. However, it is interesting to note that the average ballast speed of VLCC tankers (see image above) increased to levels more than 12knots as the bunker prices cost ($/d) started to fall before the end of the month.
 

@@ -40,6 +40,10 @@ The table above summarizes the impact of changing bunker prices on the flat rate
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: Flat Rate On The Rise Again](../../../charts/poten/2017/poten_2017-10-13_flat-rate-on-the-rise-again_chart1.png)
+![Exhibit 1: 3.5% Sulfur HFO Bunker Prices and WS Average](../../../charts/poten/2017/poten_2017-10-13_flat-rate-on-the-rise-again_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2017/poten_2017-10-13_flat-rate-on-the-rise-again_chart1.png)
+> **Exhibit 1: 3.5% Sulfur HFO Bunker Prices and WS Average**  
+> Unit: $/ton · X-axis: Oct-13 to Jun-17  
+> Series: Avg HFO, 2015 WS Avg, 2016 WS Avg, 2017 WS Avg, 2018 WS Avg  
+> *Source: Ship&Bunker, Bunkerworld, Worldscale*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2017/poten_2017-10-13_flat-rate-on-the-rise-again_chart1.png)

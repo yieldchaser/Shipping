@@ -76,6 +76,8 @@ We wish you and your families a Merry Christmas and a Happy New Year!
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: Tanker Prospects 2009 - 2013](../../../charts/poten/2008/poten_2008-12-19_tanker-prospects-2009-2013_chart1.png)
-
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2008/poten_2008-12-19_tanker-prospects-2009-2013_chart1.png)
+> **Chart on PDF page 1: VLCC Spot Market Rates**  
+> Unit: Time Charter Equivalent ($/day) · X-axis: Jan-04 to Sep-08  
+> Series: AG - FE (260kt)  
+> *Source: Poten & Partners*  
+> *No image crop of this chart was saved; caption read from the PDF.*

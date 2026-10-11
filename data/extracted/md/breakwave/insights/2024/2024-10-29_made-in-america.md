@@ -20,10 +20,10 @@ source_file: "corpus/03-breakwave/insights/2024/2024-10-29_made-in-america.html"
 
 ---
 
-![Στιγμιότυπο Οθόνης 2024 10 29 111726](assets/2024-10-29_made-in-america_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_7204308d92a9.png)
+![Στιγμιότυπο Οθόνης 2024 10 29 111726](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-10-29_made-in-america_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_7204308d92a9.png)
 
 > **Figure 1: Στιγμιότυπο Οθόνης 2024 10 29 111726**  
-> **Interactive Data & Source:** [Gibsons Co](https://www.gibsons.co.uk/report/mexicos-malaise/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-10-29_made-in-america_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_7204308d92a9.png)
+> **Interactive Data & Source:** [Gibsons Co](https://www.gibsons.co.uk/report/mexicos-malaise/) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-10-29_made-in-america_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_7204308d92a9.png)
 
 American crude production has gone from strength to strength in recent years, despite a recent slowdown. After a low of 5 mbd in 2008 and worries about the dependency of the US on imports, the shale revolution massively increased production capabilities over the last decade. The EIA saw crude production at 13.5 mbd last week, a new record. Average production so far this year is 13.2 mbd, up from 12.8 mbd over the same period last year. A possible Trump presidency is seen as being supportive of even greater oil production. Trump has pledged to roll back restrictions on drilling and permitting which were implemented under the Biden administration, as well as to streamline deregulation and end any EV mandates or green energy incentives.
 
@@ -35,10 +35,10 @@ Recent reports indicate that WTI crude originating in Texas and New Mexico, whic
 
 Overall, ever-growing US oil exports seem unlikely to slow down anytime soon. If the IEA forecast of increasing production and a slowdown in consumption comes true, it is possible that the pace of export growth will increase going forward. As demand growth is strongest in East and Southeast Asia, this would largely benefit long haul trade on VLCCs. Further policies implemented by a possible Trump administration could add fuel to the fire, though with global crude supply already looking to outstrip demand in 2025, this remains to be seen.
 
-![Στιγμιότυπο Οθόνης 2024 10 29 111839](assets/2024-10-29_made-in-america_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_e5134b59b691.png)
+![Στιγμιότυπο Οθόνης 2024 10 29 111839](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-10-29_made-in-america_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_e5134b59b691.png)
 
 > **Figure 2: Στιγμιότυπο Οθόνης 2024 10 29 111839**  
-> **Interactive Data & Source:** [Gibsons Co](https://www.gibsons.co.uk/market-reports) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-10-29_made-in-america_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_e5134b59b691.png)
+> **Interactive Data & Source:** [Gibsons Co](https://www.gibsons.co.uk/market-reports) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-10-29_made-in-america_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_e5134b59b691.png)
 
 Data source:[Gibson Shipbrokers](https://www.gibsons.co.uk/market-reports)
 

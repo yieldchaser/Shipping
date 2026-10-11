@@ -24,10 +24,10 @@ source_file: "corpus/03-breakwave/insights/2024/2024-04-29_bkql25bg3bufqvioabueo
 
 Following last week's optimistic Chinese GDP data, Sheng Laiyun, a spokesperson for the National Bureau of Statistics, emphasized that "The Chinese economy had a strong start in the first quarter... laying a solid foundation for achieving the annual goals." In fact, China's GDP in the first quarter of 2024 amounted to RMB 29.63 trillion (US$4.1 trillion) according to preliminary calculations. This marks a 5.3 percent increase from the previous year and a 1.6 percent rise from the previous quarter when adjusted for constant prices
 
-![Στιγμιότυπο Οθόνης 2024 04 29 101503 Doric](assets/2024-04-29_bkql25bg3bufqvioabueoj1k2f7eb9_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_d2abb547537c.png)
+![Στιγμιότυπο Οθόνης 2024 04 29 101503 Doric](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-04-29_bkql25bg3bufqvioabueoj1k2f7eb9_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_d2abb547537c.png)
 
 > **Figure 1: Στιγμιότυπο Οθόνης 2024 04 29 101503 Doric**  
-> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-04-29_bkql25bg3bufqvioabueoj1k2f7eb9_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_d2abb547537c.png)
+> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-04-29_bkql25bg3bufqvioabueoj1k2f7eb9_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_d2abb547537c.png)
 
 The secondary industry (comprising industry and manufacturing) demonstrated the highest growth rate, climbing by 6 percent year-onyear to reach RMB 10.98 trillion (US$1.52 trillion). Concurrently, the tertiary sector (services) experienced a 5 percent year-on-year growth, while the primary sector (encompassing agriculture and resource extraction) saw a 3.3 percent increase compared to the previous year. Moreover, the manufacturing purchasing manager’s index (PMI) rebounded to 50.8 percent in March 2024, signaling a resurgence in expansion after languishing below 50 percent for five consecutive months.
 
@@ -37,19 +37,19 @@ In contrast, the US gross domestic product (GDP) expanded at a 1.6 percent annua
 
 Compared to the fourth quarter, the slowdown in real GDP growth in the first quarter was primarily driven by decelerations in consumer spending, exports, and state and local government spending, along with a downturn in federal government spending. However, these declines were partially offset by an uptick in residential fixed investment. Import activity also accelerated during this period. Although consumer spending, which constitutes a significant portion of economic output, experienced a slowdown earlier in the year, it still contributed to growth in the first quarter. Despite these fluctuations, a key measure of demand in the economy – final sales to private domestic purchasers – remained robust during the January-through-March period, showing only a slight slowdown compared to the fourth quarter.
 
-![Στιγμιότυπο Οθόνης 2024 04 29 102105 Doric](assets/2024-04-29_bkql25bg3bufqvioabueoj1k2f7eb9_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_cb11a235aeed.png)
+![Στιγμιότυπο Οθόνης 2024 04 29 102105 Doric](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-04-29_bkql25bg3bufqvioabueoj1k2f7eb9_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_cb11a235aeed.png)
 
 > **Figure 2: Στιγμιότυπο Οθόνης 2024 04 29 102105 Doric**  
-> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-04-29_bkql25bg3bufqvioabueoj1k2f7eb9_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_cb11a235aeed.png)
+> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-04-29_bkql25bg3bufqvioabueoj1k2f7eb9_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_cb11a235aeed.png)
 
 Over time, the responsiveness of goods trade to global income fluctuations has diminished, though this relationship seems to have stabilized in recent years. In the 1990s, the volume of merchandise trade grew more than twice as fast as real-world GDP, and 1.5 times as fast in the early 2000s. However, the ratio declined from 2.3-to-1 in the 1990s to 1.5-to-1 in the 2000s. Since 2010, the ratio has further decreased to an average of 0.9-to-1, with fluctuations intensifying in later years. For the current trading year, World Trade Organization (WTO) anticipates that world merchandise trade will grow by 2.6 percent, with a projected increase of 3.3 percent in 2025 as demand for traded goods rebounds following a contraction in 2023. Despite a 3.0 percent expansion in 2022, trade volume experienced a decline of 1.2 percent last year. The enduring impacts of high energy prices and inflation particularly dampened demand for trade-intensive manufactured goods, but gradual recovery is expected by the WTO over the next two years as inflationary pressures alleviate and real household incomes improve. Should the WTO's forecast for the current trading year materialize, the ratio of trade to GDP is poised to rebound to 0.94-to-1 in 2024.
 
 Concurrently, while the World Trade Organization anticipates increased trading activity for the current year, BIMCO predicts a strengthening of the supply/demand balance in the dry bulk sector for 2024, followed by a decline in 2025. Conversely, Baltic indices eased off this week, with the leading Baltic Dry Index weighed down mainly by the lackluster performance of Capesize segment and concluding at 1721 points.
 
-![Στιγμιότυπο Οθόνης 2024 04 29 102540 Doric](assets/2024-04-29_bkql25bg3bufqvioabueoj1k2f7eb9_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_cb6dc0553e4e.png)
+![Στιγμιότυπο Οθόνης 2024 04 29 102540 Doric](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-04-29_bkql25bg3bufqvioabueoj1k2f7eb9_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_cb6dc0553e4e.png)
 
 > **Figure 3: Στιγμιότυπο Οθόνης 2024 04 29 102540 Doric**  
-> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-04-29_bkql25bg3bufqvioabueoj1k2f7eb9_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_cb6dc0553e4e.png)
+> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-04-29_bkql25bg3bufqvioabueoj1k2f7eb9_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_cb6dc0553e4e.png)
 
 Data source:[Doric](https://www.doric.gr/)
 

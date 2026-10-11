@@ -19,15 +19,15 @@ source_file: "corpus/03-breakwave/insights/2023/2023-11-30_production-predicamen
 
 ---
 
-![Homepage+banner+1 (1)](assets/2023-11-30_production-predicament_img_homepage2bbanner2b128129_5d7211685255.png)
+![Homepage+banner+1 (1)](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-11-30_production-predicament_img_homepage2bbanner2b128129_5d7211685255.png)
 
 > **Figure 1: Homepage+banner+1 (1)**  
-> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/breakwave-day-2023) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-11-30_production-predicament_img_homepage2bbanner2b128129_5d7211685255.png)
+> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/breakwave-day-2023) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-11-30_production-predicament_img_homepage2bbanner2b128129_5d7211685255.png)
 
-[![Homepage2bbutton](assets/2023-11-30_production-predicament_img_homepage2bbutton28129_1d014100cc65.png)
+[![Homepage2bbutton](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-11-30_production-predicament_img_homepage2bbutton28129_1d014100cc65.png)
 
 > **Figure 2: Homepage2bbutton**  
-> **Interactive Data & Source:** [Gibsons Co](https://www.gibsons.co.uk/market-reports) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-11-30_production-predicament_img_homepage2bbutton28129_1d014100cc65.png)](https://www.breakwaveadvisors.com/breakwave-day-2023)
+> **Interactive Data & Source:** [Gibsons Co](https://www.gibsons.co.uk/market-reports) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-11-30_production-predicament_img_homepage2bbutton28129_1d014100cc65.png)](https://www.breakwaveadvisors.com/breakwave-day-2023)
 
 ## Production Predicament
 
@@ -43,9 +43,9 @@ Much depends on what level of production that demand growth can absorb. OPEC rem
 
 ## OPEC Production vs Quotas (Mbd)
 
-![Αρχείο Λήψης (5)](assets/2023-11-30_production-predicament_img_ceb1cf81cf87ceb5ceafcebfcebbceaecf88_e0d8796e3978.png)
+![Αρχείο Λήψης (5)](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-11-30_production-predicament_img_ceb1cf81cf87ceb5ceafcebfcebbceaecf88_e0d8796e3978.png)
 
 > **Figure 3: Αρχείο Λήψης (5)**  
-> **Interactive Data & Source:** [Gibsons Co](https://www.gibsons.co.uk/market-reports) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-11-30_production-predicament_img_ceb1cf81cf87ceb5ceafcebfcebbceaecf88_e0d8796e3978.png)
+> **Interactive Data & Source:** [Gibsons Co](https://www.gibsons.co.uk/market-reports) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-11-30_production-predicament_img_ceb1cf81cf87ceb5ceafcebfcebbceaecf88_e0d8796e3978.png)
 
 Data source:[Gibson Shipbrokers](https://www.gibsons.co.uk/market-reports)

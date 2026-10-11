@@ -44,10 +44,10 @@ A basic tenet of investment and economics is “markets hate uncertainty”. Thi
 
 However, this is a time of extreme uncertainty, at least in peacetime. The world is a uncertain as it was in the depths of the pandemic.
 
-![Market Chart 1](assets/2025-03-11_whats-the-price-of-uncertainty_img_image001_f00360a2dff4.png)
+![Market Chart 1](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-03-11_whats-the-price-of-uncertainty_img_image001_f00360a2dff4.png)
 
 > **Figure 1: Market Chart 1**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-03-11_whats-the-price-of-uncertainty_img_image001_f00360a2dff4.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-03-11_whats-the-price-of-uncertainty_img_image001_f00360a2dff4.png)
 
 The new US administration has applied a shock to the global economic and diplomatic system, far beyond anything we had seen. And although it was not entirely unexpected (we had often said that Trump 2.0 would not be like Trump 1.0) the shock is still very real.
 
@@ -63,31 +63,31 @@ So how is uncertainty priced in? What does it actually mean for businesses and p
 
 Bond yields in the US dropped and rose in the EU, as America sees a challenge to its growth, whereas the EU sees Germany potentially out of recession.
 
-![Market Chart 2](assets/2025-03-11_whats-the-price-of-uncertainty_img_image002_165cc611b9ce.png)
+![Market Chart 2](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-03-11_whats-the-price-of-uncertainty_img_image002_165cc611b9ce.png)
 
 > **Figure 2: Market Chart 2**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-03-11_whats-the-price-of-uncertainty_img_image002_165cc611b9ce.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-03-11_whats-the-price-of-uncertainty_img_image002_165cc611b9ce.png)
 
 Meanwhile, equity investors took to opposite route, rotating from US to Rest-of-the-World equities, from growth to value, from cyclical to defensives and from Developed to Emerging Markets.
 
-![Market Chart 3](assets/2025-03-11_whats-the-price-of-uncertainty_img_image003_268d53c376df.png)
+![Market Chart 3](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-03-11_whats-the-price-of-uncertainty_img_image003_268d53c376df.png)
 
 > **Figure 3: Market Chart 3**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-03-11_whats-the-price-of-uncertainty_img_image003_268d53c376df.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-03-11_whats-the-price-of-uncertainty_img_image003_268d53c376df.png)
 
 Adding to worries about US assets are two additional factors – boiling down to one: a weaker US Dollar. Dollar weakness and Yen strength are reversing the “carry trade” (investors borrowing in low-yielding Japanese Yen and investing in higher-yielding US assets) which fuels US assets.
 
-![Market Chart 4](assets/2025-03-11_whats-the-price-of-uncertainty_img_image004_0edd855415ad.png)
+![Market Chart 4](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-03-11_whats-the-price-of-uncertainty_img_image004_0edd855415ad.png)
 
 > **Figure 4: Market Chart 4**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-03-11_whats-the-price-of-uncertainty_img_image004_0edd855415ad.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-03-11_whats-the-price-of-uncertainty_img_image004_0edd855415ad.png)
 
 But the fact that equities didn’t correct but merely rotated suggests that the equity market is not yet wholeheartedly buying into the slower US growth argument (bar the cyclicals-into-defensives rotation), and certainly not pricing in a US recession. And whereas we in the investment profession usually look to the bond and not the equity market for macroeconomic forecasts, to quote Atlanta Fed’s Raphael Bostic “The direction of the economy is… very much up in the air”. So equities rotating into sectors they have higher confidence in (like European Defence) is possibly the better reflection of uncertainty than betting on a US recession and sharp rate cuts.
 
-![Market Chart 5](assets/2025-03-11_whats-the-price-of-uncertainty_img_image005_9ee09d98a417.png)
+![Market Chart 5](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-03-11_whats-the-price-of-uncertainty_img_image005_9ee09d98a417.png)
 
 > **Figure 5: Market Chart 5**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-03-11_whats-the-price-of-uncertainty_img_image005_9ee09d98a417.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-03-11_whats-the-price-of-uncertainty_img_image005_9ee09d98a417.png)
 
 But we digress. The second fact worrying markets and bringing down the USD is rumours of a “Mar-A-Lago” accord. This refers to a possible 1985 Plazza Accord-style deal to devalue the US Dollar and allow America to re-industrialise. The dynamics of course are very different between now and then (China 2025 is not Japan 1985 and transatlantic relations are at a nadir), but a possible Dollar devaluation is now giving equity investors at the very least to look at attractively valued non-USD assets.
 

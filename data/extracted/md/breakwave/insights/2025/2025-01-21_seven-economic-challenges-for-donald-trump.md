@@ -50,19 +50,19 @@ Which are these?
 
 Despite better-than-expected numbers last week, US inflation is at 2.9%, almost 1% above target. It could have been higher if not for Chinese economic weakness. But numbers from last week suggest at least an economic rebound in China. The success of the previous stimulus measures could prompt the government to do more, which could reduce China’s deflationary effect on the world. Mr Trump’s tariff plan is inherently inflationary. Over the long term, it may bear fruit, but over the short term, it could put significant pressure on consumers and markets. To be sure, equity and bond markets celebrated slightly better than expected core CPI numbers out of the US. However, that reaction is more about a market looking for a positive catalyst and less about an actual improvement in inflation.
 
-![Market Chart 1](assets/2025-01-21_seven-economic-challenges-for-donald-trump_img_image001_32186d86b24f.png)
+![Market Chart 1](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-01-21_seven-economic-challenges-for-donald-trump_img_image001_32186d86b24f.png)
 
 > **Figure 1: Market Chart 1**  
-> **Interactive Data & Source:** [Bloomberg News](https://www.bloomberg.com/opinion/articles/2024-11-27/bessent-has-6-7-trillion-mountain-of-worry-waiting-at-treasury?sref=EiJDOcNb) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-01-21_seven-economic-challenges-for-donald-trump_img_image001_32186d86b24f.png)
+> **Interactive Data & Source:** [Bloomberg News](https://www.bloomberg.com/opinion/articles/2024-11-27/bessent-has-6-7-trillion-mountain-of-worry-waiting-at-treasury?sref=EiJDOcNb) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-01-21_seven-economic-challenges-for-donald-trump_img_image001_32186d86b24f.png)
 
 ### 2. Bond Market Jitters
 
 Since September, borrowing costs have risen by around 1 percentage point in many developed markets. This is already causing or accentuating political strife in France and Britain. Part of the responsibility should be borne by the Fed. The US central bank surprised markets in September by performing a double rate cut, sending a message that it would follow a loose monetary policy going forward. In the months that followed, economic data improved and Mr Trump’s aggressive trade agenda got the “go-ahead” from American voters, which cast doubts on the Fed’s loose policy message. Last September, markets priced in five to six rate cuts in 2025. Now, they are barely pricing in one to two.
 
-![Market Chart 2](assets/2025-01-21_seven-economic-challenges-for-donald-trump_img_image002_a8f77b4b26f9.png)
+![Market Chart 2](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-01-21_seven-economic-challenges-for-donald-trump_img_image002_a8f77b4b26f9.png)
 
 > **Figure 2: Market Chart 2**  
-> **Interactive Data & Source:** [Bloomberg News](https://www.bloomberg.com/opinion/articles/2024-11-27/bessent-has-6-7-trillion-mountain-of-worry-waiting-at-treasury?sref=EiJDOcNb) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-01-21_seven-economic-challenges-for-donald-trump_img_image002_a8f77b4b26f9.png)
+> **Interactive Data & Source:** [Bloomberg News](https://www.bloomberg.com/opinion/articles/2024-11-27/bessent-has-6-7-trillion-mountain-of-worry-waiting-at-treasury?sref=EiJDOcNb) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-01-21_seven-economic-challenges-for-donald-trump_img_image002_a8f77b4b26f9.png)
 
 ### 3. Higher Interest Rates
 
@@ -80,10 +80,10 @@ The last budget moved the conversation for the “debt ceiling” literally on t
 
 Despite last week’s rebound, after what markets considered to be a positive inflation read, equity momentum has waned. Since equity markets began pricing in Mr Trump’s win, the tech sector, seen as a beneficiary, has again ploughed ahead, giving the impression of a roaring stock market. From mid-September, the “Magnificent 7” have advanced by 25%. But the rest of the US large caps are up 4%, more than half of which in 2 days. In the US, stocks are directly important for consumers, as 401Ks (the American version of a SIPP ), are inextricably linked to the stock market. Mr Trump scores himself on stock market performance. Trading at 27x its earnings, this market does not seem to have priced in either persistently high rates or the effects of sharp hikes in tariffs.
 
-![Market Chart 3](assets/2025-01-21_seven-economic-challenges-for-donald-trump_img_image003_8273c856c461.png)
+![Market Chart 3](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-01-21_seven-economic-challenges-for-donald-trump_img_image003_8273c856c461.png)
 
 > **Figure 3: Market Chart 3**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-01-21_seven-economic-challenges-for-donald-trump_img_image003_8273c856c461.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-01-21_seven-economic-challenges-for-donald-trump_img_image003_8273c856c461.png)
 
 **7. A thin House majority and a “thirsty” party.**
 
@@ -93,10 +93,10 @@ In conclusion
 
 A look at the above would suggest that President Trump’s problem is mostly centred around trade wars, which will, all other things being equal, mean higher interest rates at a time when fiscal space is limited, even for the United States. Mr Trump who is well-back by businesses, is weighing (“pitting” rather) the US businesses and the Office of the President’s power against that of all political foes, trade partners and bond markets. The prevailing narrative is that it is possible to impose tariffs without significantly increasing inflation, and that competitiveness is possible with a stronger US Dollar. That the global political and business world will agree to everything without much resistance and that geopolitical issues will be resolved through the threat of force. Voters, politicians and a large part of the Press, as well as some analysts, stand behind this narrative. The reaction of bond markets suggests that not everyone believes in these outcomes. Will Mr Trump be able to convince bond investors too? Is what Theodore Roosevelt called the “Bully Pulpit” enough to bring markets to heel? This is the biggest economic question of 2025.
 
-![Market Chart 4](assets/2025-01-21_seven-economic-challenges-for-donald-trump_img_image004_123a91b01434.png)
+![Market Chart 4](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-01-21_seven-economic-challenges-for-donald-trump_img_image004_123a91b01434.png)
 
 > **Figure 4: Market Chart 4**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-01-21_seven-economic-challenges-for-donald-trump_img_image004_123a91b01434.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-01-21_seven-economic-challenges-for-donald-trump_img_image004_123a91b01434.png)
 
 ---
 

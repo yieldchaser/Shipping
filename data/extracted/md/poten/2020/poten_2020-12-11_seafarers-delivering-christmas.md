@@ -36,8 +36,12 @@ I could not agree more. We should all support seafarers worldwide by designating
 
 ![Exhibit 1: Seafarers Delivering Christmas](../../../charts/poten/2020/poten_2020-12-11_seafarers-delivering-christmas_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2020/poten_2020-12-11_seafarers-delivering-christmas_chart1.png)
+> **Interactive Asset:** [Local Asset (200 DPI PNG)](../../../charts/poten/2020/poten_2020-12-11_seafarers-delivering-christmas_chart1.png)
 
-![Exhibit 2: Seafarers Delivering Christmas](../../../charts/poten/2020/poten_2020-12-11_seafarers-delivering-christmas_chart2.png)
+![Exhibit 2: Top Seafarer Nations (2015)](../../../charts/poten/2020/poten_2020-12-11_seafarers-delivering-christmas_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2020/poten_2020-12-11_seafarers-delivering-christmas_chart2.png)
+> **Exhibit 2: Top Seafarer Nations (2015)**  
+> Unit: Number of Seafarers · X-axis: China to Ukraine  
+> Series: Officers, Ratings  
+> *Source: International Chamber of Shipping*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2020/poten_2020-12-11_seafarers-delivering-christmas_chart2.png)

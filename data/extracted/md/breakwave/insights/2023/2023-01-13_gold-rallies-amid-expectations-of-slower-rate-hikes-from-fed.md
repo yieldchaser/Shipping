@@ -23,10 +23,10 @@ source_file: "corpus/03-breakwave/insights/2023/2023-01-13_gold-rallies-amid-exp
 
 Slowing US inflation saw risk appetite rise sharply across the complex. This increased confidence of demand strengthening as China’s reopens its economy.
 
-![1673558287433](assets/2023-01-13_gold-rallies-amid-expectations-of-slower-rate-hikes-from-fed_img_1673558287433_d75f104bbc52.png)
+![1673558287433](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-01-13_gold-rallies-amid-expectations-of-slower-rate-hikes-from-fed_img_1673558287433_d75f104bbc52.png)
 
 > **Figure 1: 1673558287433**  
-> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-01-13_gold-rallies-amid-expectations-of-slower-rate-hikes-from-fed_img_1673558287433_d75f104bbc52.png)
+> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-01-13_gold-rallies-amid-expectations-of-slower-rate-hikes-from-fed_img_1673558287433_d75f104bbc52.png)
 
 **Gold**rallied after inflation slowed in the US. This was bolstered by a less aggressive Fed. Philly Fed’s Patrick Harker said he favours hikes of 25bp going forward. A weaker USD as a result of a less hawkish Fed saw investor appetite for the precious metal rise. This was supported by lower yields on Treasuries. The rally in gold lifted the rest of the sector. Silver outperformed gold, and platinum and palladium gained.
 

@@ -51,14 +51,20 @@ Vitol remained the largest spot Aframax charterer, staying well ahead of fellow 
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: Spot The Difference](../../../charts/poten/2018/poten_2018-01-05_spot-the-difference_chart1.png)
+![Exhibit 1: Top 10 VLCC Spot Charterers](../../../charts/poten/2018/poten_2018-01-05_spot-the-difference_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2018/poten_2018-01-05_spot-the-difference_chart1.png)
+> **Exhibit 1: Top 10 VLCC Spot Charterers**  
+> Unit: No. Spot Fixtures · X-axis: Unipec to S Oil  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2018/poten_2018-01-05_spot-the-difference_chart1.png)
 
-![Exhibit 2: Spot The Difference](../../../charts/poten/2018/poten_2018-01-05_spot-the-difference_chart2.png)
+![Exhibit 2: Top 10 Suezmax Spot Charterers](../../../charts/poten/2018/poten_2018-01-05_spot-the-difference_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2018/poten_2018-01-05_spot-the-difference_chart2.png)
+> **Exhibit 2: Top 10 Suezmax Spot Charterers**  
+> Unit: No. Spot Fixtures · X-axis: Chevron to Unipec  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2018/poten_2018-01-05_spot-the-difference_chart2.png)
 
-![Exhibit 3: Spot The Difference](../../../charts/poten/2018/poten_2018-01-05_spot-the-difference_chart3.png)
+![Exhibit 3: Top 10 Aframax Spot Charterers](../../../charts/poten/2018/poten_2018-01-05_spot-the-difference_chart3.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2018/poten_2018-01-05_spot-the-difference_chart3.png)
+> **Exhibit 3: Top 10 Aframax Spot Charterers**  
+> Unit: No. Spot Fixtures · X-axis: Vitol to ExxonMobil  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2018/poten_2018-01-05_spot-the-difference_chart3.png)

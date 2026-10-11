@@ -26,6 +26,7 @@ As the US began embarking on its Memorial Day holiday weekend, charterers pushed
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: Tipping a Balance](../../../charts/poten/2008/poten_2008-05-30_tipping-a-balance_chart1.png)
-
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2008/poten_2008-05-30_tipping-a-balance_chart1.png)
+> **Chart on PDF page 1: Daily Average Aframax WS Rate**  
+> Unit: WS Rate · X-axis: 1-May to 29-May  
+> Series: Poten  
+> *No image crop of this chart was saved; caption read from the PDF.*

@@ -36,10 +36,10 @@ Iron ore futures began the year supported above the $100 per tonne threshold, un
 
 Whether in oil or iron ore, commodity markets are ultimately more than reflections of supply and demand fundamentals; they are structured arenas where concentrated market power, policy intervention, and exogenous shocks interact to redefine equilibrium. For shipping, these dynamics are not abstract but immediate. The sector sits directly at the intersection of commodity flow and geopolitical risk, continuously absorbing shifts in tonne-mile demand, trade routing, and logistical friction. In both markets, the past twelve months have underscored a common lesson: stability is conditional, not structural. In oil, geopolitical risk has reasserted itself as the dominant pricing force; in iron ore, incremental supply growth is steadily reshaping medium-term balance. For shipping, the implication is clear. Any periods of dislocation, whether driven by conflict or capacity cycles, ultimately define earnings, sentiment, and strategic positioning across the freight complex.
 
-![Στιγμιότυπο Οθόνης 2026 05 11 103803](assets/2026-05-11_commodity-markets-are-more-than-reflections-of-supply-and-demand-fundamentals_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_88c116ba5bf2.png)
+![Στιγμιότυπο Οθόνης 2026 05 11 103803](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-05-11_commodity-markets-are-more-than-reflections-of-supply-and-demand-fundamentals_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_88c116ba5bf2.png)
 
 > **Figure 1: Στιγμιότυπο Οθόνης 2026 05 11 103803**  
-> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-05-11_commodity-markets-are-more-than-reflections-of-supply-and-demand-fundamentals_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_88c116ba5bf2.png)
+> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-05-11_commodity-markets-are-more-than-reflections-of-supply-and-demand-fundamentals_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_88c116ba5bf2.png)
 
 Data source:[Doric](https://www.doric.gr/)
 

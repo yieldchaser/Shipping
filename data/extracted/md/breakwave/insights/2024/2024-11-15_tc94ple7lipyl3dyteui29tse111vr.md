@@ -28,31 +28,31 @@ Global grain trade being in a year-on-year contraction remains a headwind for th
 
 The USDA is now forecasting that global coarse grain exports in 2024/25 will total 228.9 million tons. This is 1.3 million tons (-1%) less than was previously forecast and would mark a year-on-year decline of 10.4 million tons (-4%).
 
-![Chart 1](assets/2024-11-15_tc94ple7lipyl3dyteui29tse111vr_img_chart1_3305094285e7.jpg)
+![Chart 1](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-11-15_tc94ple7lipyl3dyteui29tse111vr_img_chart1_3305094285e7.jpg)
 
 > **Figure 1: Chart 1**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-11-15_tc94ple7lipyl3dyteui29tse111vr_img_chart1_3305094285e7.jpg)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-11-15_tc94ple7lipyl3dyteui29tse111vr_img_chart1_3305094285e7.jpg)
 
 Global wheat exports are now expected to total 214.7 million tons. This is 1.1 million tons (-1%) less than was previously forecast and would mark a year-on-year decline of 6.6 million tons (-3%).
 
-![Chart 2](assets/2024-11-15_tc94ple7lipyl3dyteui29tse111vr_img_chart2_204b6e92d0c5.jpg)
+![Chart 2](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-11-15_tc94ple7lipyl3dyteui29tse111vr_img_chart2_204b6e92d0c5.jpg)
 
 > **Figure 2: Chart 2**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-11-15_tc94ple7lipyl3dyteui29tse111vr_img_chart2_204b6e92d0c5.jpg)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-11-15_tc94ple7lipyl3dyteui29tse111vr_img_chart2_204b6e92d0c5.jpg)
 
 Global soybean exports are now expected to total 181.7 million tons. This is 200,000 tons more than was previously forecast and would mark a year-on-year increase of 4.7 million tons (3%).
 
-![Chart 3](assets/2024-11-15_tc94ple7lipyl3dyteui29tse111vr_img_chart3_17e21260c73a.jpg)
+![Chart 3](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-11-15_tc94ple7lipyl3dyteui29tse111vr_img_chart3_17e21260c73a.jpg)
 
 > **Figure 3: Chart 3**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-11-15_tc94ple7lipyl3dyteui29tse111vr_img_chart3_17e21260c73a.jpg)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-11-15_tc94ple7lipyl3dyteui29tse111vr_img_chart3_17e21260c73a.jpg)
 
 Global soymeal exports are now expected to total 74.7 million tons. This is 100,000 tons less than was previously forecast and is the same as a year ago.
 
-![Chart 4](assets/2024-11-15_tc94ple7lipyl3dyteui29tse111vr_img_chart4_3332efa14ffc.jpg)
+![Chart 4](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-11-15_tc94ple7lipyl3dyteui29tse111vr_img_chart4_3332efa14ffc.jpg)
 
 > **Figure 4: Chart 4**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-11-15_tc94ple7lipyl3dyteui29tse111vr_img_chart4_3332efa14ffc.jpg)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-11-15_tc94ple7lipyl3dyteui29tse111vr_img_chart4_3332efa14ffc.jpg)
 
 ---
 

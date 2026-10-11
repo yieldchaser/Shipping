@@ -31,10 +31,10 @@ Thus, investors should not be asking: “is it over?” Rather they should be fo
 
 At current levels, risk assets are pricing in aggressive quantitative tightening well into January 2024 and possibly an economic slowdown.
 
-![Market Chart 1](assets/2022-06-27_morning-market-comment-pressure-points_img_unnamed28229_3623cd3d9d5b.jpg)
+![Market Chart 1](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-06-27_morning-market-comment-pressure-points_img_unnamed28229_3623cd3d9d5b.jpg)
 
 > **Figure 1: Market Chart 1**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-06-27_morning-market-comment-pressure-points_img_unnamed28229_3623cd3d9d5b.jpg)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-06-27_morning-market-comment-pressure-points_img_unnamed28229_3623cd3d9d5b.jpg)
 
 What they are not pricing in is a full-blown global economic recession and the rising possibility of systemic events as liquidity is withdrawn and economic pressures mount.
 
@@ -75,9 +75,9 @@ Certain economies are also in larger peril than others.
 
 - The British economy still has to deal with the consequences of Brexit. Technically, Brexit began during the pandemic, so the economic effects of the pandemic largely obfuscated those of Brexit. As the dust clears from the pandemic, it is becoming clear that Britain faces an uphill battle. The primary problem is the availability of skilled workers. As may have returned to their country of origin, the jobs market is now very tight. This could mean upward pressures in wages and lingering inflation, even after supply-side pressures on prices have abated.
 
-![Britain:](assets/2022-06-27_morning-market-comment-pressure-points_img_unnamed28329_d611502da7fd.jpg)
+![Britain:](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-06-27_morning-market-comment-pressure-points_img_unnamed28329_d611502da7fd.jpg)
 
 > **Figure 2: Britain:**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-06-27_morning-market-comment-pressure-points_img_unnamed28329_d611502da7fd.jpg)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-06-27_morning-market-comment-pressure-points_img_unnamed28329_d611502da7fd.jpg)
 
 Investors will probably spend the next few months looking at the potential emergence of systemic risks. Only when, and if, that danger has been removed will markets begin to see sustainable recovery.

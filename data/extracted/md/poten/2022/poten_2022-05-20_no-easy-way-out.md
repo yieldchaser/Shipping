@@ -32,10 +32,17 @@ A longer-term solution (other than demand destruction, which is politically unde
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: No Easy Way Out](../../../charts/poten/2022/poten_2022-05-20_no-easy-way-out_chart1.png)
+![Exhibit 1: Seaborne Middle East OPEC Crude Exports by Producer](../../../charts/poten/2022/poten_2022-05-20_no-easy-way-out_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2022/poten_2022-05-20_no-easy-way-out_chart1.png)
+> **Exhibit 1: Seaborne Middle East OPEC Crude Exports by Producer**  
+> Unit: Kbbl / Day · X-axis: Jan-17 to Apr-22  
+> Series: Saudi Arabia, Iraq, UAE, Kuwait, Iran  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2022/poten_2022-05-20_no-easy-way-out_chart1.png)
 
-![Exhibit 2: No Easy Way Out](../../../charts/poten/2022/poten_2022-05-20_no-easy-way-out_chart2.png)
+![Exhibit 2: Seaborne Other OPEC Crude Exports by Producer](../../../charts/poten/2022/poten_2022-05-20_no-easy-way-out_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2022/poten_2022-05-20_no-easy-way-out_chart2.png)
+> **Exhibit 2: Seaborne Other OPEC Crude Exports by Producer**  
+> Unit: Kbbl / Day · X-axis: Jan-17 to Apr-22  
+> Series: Nigeria, Angola, Libya, Algeria, Venezuela, Ecuador, Other  
+> *Source: Lloyd’s List Intelligence*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2022/poten_2022-05-20_no-easy-way-out_chart2.png)

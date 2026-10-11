@@ -26,10 +26,18 @@ Because there are many variables to consider, it is difficult to predict how it 
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: Taking Stock of U.S. Crude Flows](../../../charts/poten/2021/poten_2021-06-18_taking-stock-of-us-crude-flows_chart1.png)
+![Exhibit 1: U.S. Crude Oil Stocks vs Imports](../../../charts/poten/2021/poten_2021-06-18_taking-stock-of-us-crude-flows_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2021/poten_2021-06-18_taking-stock-of-us-crude-flows_chart1.png)
+> **Exhibit 1: U.S. Crude Oil Stocks vs Imports**  
+> Unit: Kbbl | Kb/d · X-axis: Jan-10 to Jan-21  
+> Series: Stocks, Imports, Exports  
+> *Source: DOE Energy Information Administration*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2021/poten_2021-06-18_taking-stock-of-us-crude-flows_chart1.png)
 
-![Exhibit 2: Taking Stock of U.S. Crude Flows](../../../charts/poten/2021/poten_2021-06-18_taking-stock-of-us-crude-flows_chart2.png)
+![Exhibit 2: US Gulf Crude Exports by Vessel Class](../../../charts/poten/2021/poten_2021-06-18_taking-stock-of-us-crude-flows_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2021/poten_2021-06-18_taking-stock-of-us-crude-flows_chart2.png)
+> **Exhibit 2: US Gulf Crude Exports by Vessel Class**  
+> Unit: Kb/d · X-axis: Jan-15 to Apr-21  
+> Series: VLCC, Suezmax, Aframax, Smaller  
+> *Source: Lloyd’s List Intelligence*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2021/poten_2021-06-18_taking-stock-of-us-crude-flows_chart2.png)

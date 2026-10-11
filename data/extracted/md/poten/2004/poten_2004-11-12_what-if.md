@@ -64,6 +64,26 @@ It is not the price of oil itself that matters, but the impact of oil prices on 
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: What If](../../../charts/poten/2004/poten_2004-11-12_what-if_chart1.png)
+> **Chart on PDF page 2: North America Oil Import Demand**  
+> Unit: 000 Bpd · X-axis: 1995 to 2015  
+> Series: Historical, Low Oil Prices, High Oil Prices  
+> *Source: Poten & Partners*  
+> *No image crop of this chart was saved; caption read from the PDF.*
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2004/poten_2004-11-12_what-if_chart1.png)
+> **Chart on PDF page 3: Europe Oil Import Demand**  
+> Unit: 000 Bpd · X-axis: 1995 to 2015  
+> Series: Historical, Low Oil Prices, High Oil Prices  
+> *Source: Poten & Partners*  
+> *No image crop of this chart was saved; caption read from the PDF.*
+
+> **Chart on PDF page 3: Asia Oil Import Demand**  
+> Unit: 000 Bpd · X-axis: 1995 to 2015  
+> Series: Historical, Low Oil Prices, High Oil Prices  
+> *Source: Poten & Partners*  
+> *No image crop of this chart was saved; caption read from the PDF.*
+
+> **Chart on PDF page 4: VLCC Demand**  
+> Unit: # Vlccs · X-axis: 1995 to 2015  
+> Series: Historical, Low Oil Prices, High Oil Prices  
+> *Source: Poten & Partners*  
+> *No image crop of this chart was saved; caption read from the PDF.*

@@ -28,6 +28,10 @@ The tanker industry will face a different world in the next five to ten years, r
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: The Election Energy Edition](../../../charts/poten/2020/poten_2020-10-09_the-election-energy-edition_chart1.png)
+![Exhibit 1: US Oil Imports and Exports](../../../charts/poten/2020/poten_2020-10-09_the-election-energy-edition_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2020/poten_2020-10-09_the-election-energy-edition_chart1.png)
+> **Exhibit 1: US Oil Imports and Exports**  
+> Unit: Kb/d · X-axis: Jan-15 to Jul-20  
+> Series: Crude Imports, Products Imports, Crude Exports, Products Exports, NET  
+> *Source: EIA*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2020/poten_2020-10-09_the-election-energy-edition_chart1.png)

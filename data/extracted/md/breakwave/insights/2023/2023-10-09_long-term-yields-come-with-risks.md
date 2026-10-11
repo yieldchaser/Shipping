@@ -33,10 +33,10 @@ Let’s take things from the top. On Friday, the US announced a large jump in pa
 
 This is ostensibly bad news for those who hoped that the Fed would cut interest rates soon. Instead, markets may get another hike, although the probabilities of that remain divided.
 
-![Market Chart 1](assets/2023-10-09_long-term-yields-come-with-risks_img_image006281529_c7506438c866.jpg)
+![Market Chart 1](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-10-09_long-term-yields-come-with-risks_img_image006281529_c7506438c866.jpg)
 
 > **Figure 1: Market Chart 1**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-10-09_long-term-yields-come-with-risks_img_image006281529_c7506438c866.jpg)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-10-09_long-term-yields-come-with-risks_img_image006281529_c7506438c866.jpg)
 
 Again, in terms of the bigger picture, it doesn’t matter. The Fed has communicated that it plans to keep rates higher for longer. The question is not “When is the last rate hike”, but rather “how long is ‘longer’”.
 
@@ -54,17 +54,17 @@ Whatever the outcome, oil prices are going to be pressured upward, at least for 
 
 Needless to say that the timing of this escalation is likely to mean that any rumoured deal between Saudi Arabia and Israel will be impacted. After the weekend’s developments, it is safe to say that it is difficult for the deal to go ahead. Prices rose again.
 
-![Market Chart 2](assets/2023-10-09_long-term-yields-come-with-risks_img_image00728429_d45eb0a65e9e.jpg)
+![Market Chart 2](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-10-09_long-term-yields-come-with-risks_img_image00728429_d45eb0a65e9e.jpg)
 
 > **Figure 2: Market Chart 2**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-10-09_long-term-yields-come-with-risks_img_image00728429_d45eb0a65e9e.jpg)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-10-09_long-term-yields-come-with-risks_img_image00728429_d45eb0a65e9e.jpg)
 
 With West Texas Crude near $90 again, we are risking a third wave of inflation. The first was the post-Covid supply chain disruptions, which were characterised as ‘transitory’. The second wave started when Russia invaded Ukraine, adding to pressures already built up. Cash-flush consumers and tight labour markets turned supply pressures into demand pressures, and inflation shot up to levels we haven’t seen in decades.
 
-![Market Chart 3](assets/2023-10-09_long-term-yields-come-with-risks_img_image00828429_1d16ba19f2be.jpg)
+![Market Chart 3](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-10-09_long-term-yields-come-with-risks_img_image00828429_1d16ba19f2be.jpg)
 
 > **Figure 3: Market Chart 3**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-10-09_long-term-yields-come-with-risks_img_image00828429_1d16ba19f2be.jpg)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-10-09_long-term-yields-come-with-risks_img_image00828429_1d16ba19f2be.jpg)
 
 Now, as the first and second waves seem to subside, a result also of sharp rate hikes, renewed pressures from oil prices could well create a third wave. This could result in prolonged inflation, rates going higher or remaining higher for even longer than anticipated and growth suffering.
 
@@ -72,17 +72,17 @@ This is not bad news for bondholders, per se. Many are locking in high yields, e
 
 For the past few weeks, the yield curve has been dis-inverting, i.e. longer bond yields are catching up to short-term yields.
 
-![Market Chart 4](assets/2023-10-09_long-term-yields-come-with-risks_img_image00928429_26f414d90680.jpg)
+![Market Chart 4](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-10-09_long-term-yields-come-with-risks_img_image00928429_26f414d90680.jpg)
 
 > **Figure 4: Market Chart 4**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-10-09_long-term-yields-come-with-risks_img_image00928429_26f414d90680.jpg)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-10-09_long-term-yields-come-with-risks_img_image00928429_26f414d90680.jpg)
 
 Now remember that inflation lives on the longer end of the curve. For it is investors who are tied to a yield for a long time that are mostly afraid of inflationary pressures. But apart from inflation, there’s another monster, much bigger, that lives on the longer end. The Fed. In the years preceding 2022, the US central bank has become the main buyer of US debt, especially on the long end. This was called “Quantitative Easing”. As the Fed was a big buyer of long bonds, it made sense for investors to buy long, and hope for capital appreciation as the Fed would eagerly take it from their hands. But now, the Fed is performing the opposite operation, “Quantitative Tightening”, selling long bonds to eager investors who like the yield.
 
-![Market Chart 5](assets/2023-10-09_long-term-yields-come-with-risks_img_image01028429_9223d01fef27.jpg)
+![Market Chart 5](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-10-09_long-term-yields-come-with-risks_img_image01028429_9223d01fef27.jpg)
 
 > **Figure 5: Market Chart 5**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-10-09_long-term-yields-come-with-risks_img_image01028429_9223d01fef27.jpg)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-10-09_long-term-yields-come-with-risks_img_image01028429_9223d01fef27.jpg)
 
 The beauty of bonds is that they promise an exact return if held to maturity. But those who buy with thoughts of capital appreciation must be very careful. They need to remember, that the central bank is now a seller, not a buyer. They face a hawkish Fed and unpredictable inflation. The yield they get is hard-earned. Investors need to be prepared to hold the long bond to maturity, 10 or even 30 years, to get the return promised and hope that inflation will not diminish them.
 

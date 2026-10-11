@@ -24,14 +24,14 @@ Sentiment was buoyed by Beijing’s efforts to support economic growth. However,
 
 *By*[*Daniel Hynes*](https://www.linkedin.com/in/dahynes/)
 
-![Στιγμιότυπο Οθόνης 2025 03 07 112201](assets/2025-03-07_metals-rally-amid-improving-outlook-in-china_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_ada95c62b037.png)
+![Στιγμιότυπο Οθόνης 2025 03 07 112201](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-03-07_metals-rally-amid-improving-outlook-in-china_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_ada95c62b037.png)
 
 > **Figure 1: Στιγμιότυπο Οθόνης 2025 03 07 112201**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-03-07_metals-rally-amid-improving-outlook-in-china_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_ada95c62b037.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-03-07_metals-rally-amid-improving-outlook-in-china_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_ada95c62b037.png)
 
 ### Market Commentary
 
-**Copper**led the base metals sector higher as expectations of further stimulus measures in China boosted sentiment. China leaders continued their top legislative meetings on Thursday, with the market looking for more specifics around efforts to reduce overcapacity in heavy industries. The market is also pricing in the impact of tariffs on US imports. Despite the Commerce Department starting an investigation into the dumping of copper, Trump’s speech to Congress suggested he’d already made the decision to enact a levy on copper. US production of base metals has waned for years, so much so that it is now heavily reliant on offshore suppliers. In the case of aluminium, the US imports 67% of its primary consumption. Its reliance on copper is not far behind. This has led to a rush to secure supplies ahead of any rise in costs. Copper and aluminium premiums in the US have risen sharply and waiting times to secure supply on global exchanges have surged. The short-term impact will be further upside in premiums, as the US struggles to adjust to the dislocation in physical markets. Given relatively low global inventories, we expect tariffs will put[**upward pressure on spot prices**](../pdfs/2025-03-07_metals-rally-amid-improving-outlook-in-china_commodity-call-duty-calls_eaf9bfb3e10f.pdf).
+**Copper**led the base metals sector higher as expectations of further stimulus measures in China boosted sentiment. China leaders continued their top legislative meetings on Thursday, with the market looking for more specifics around efforts to reduce overcapacity in heavy industries. The market is also pricing in the impact of tariffs on US imports. Despite the Commerce Department starting an investigation into the dumping of copper, Trump’s speech to Congress suggested he’d already made the decision to enact a levy on copper. US production of base metals has waned for years, so much so that it is now heavily reliant on offshore suppliers. In the case of aluminium, the US imports 67% of its primary consumption. Its reliance on copper is not far behind. This has led to a rush to secure supplies ahead of any rise in costs. Copper and aluminium premiums in the US have risen sharply and waiting times to secure supply on global exchanges have surged. The short-term impact will be further upside in premiums, as the US struggles to adjust to the dislocation in physical markets. Given relatively low global inventories, we expect tariffs will put[**upward pressure on spot prices**](https://research.anz.com/file/Commodity_Call_duty_calls.pdf?docRef=3da30a7f-f4bb-4b57-a53e-aea2c90cc069&ch=2).
 
 **Iron ore**futures were steady around USD100/t following yesterday’s announcement that China’s economic planning agency would mandate steel production cuts. There were no specifics given on the volume of cuts in the sector, which has been impacted by the downturn in the property sector. However, there were reports in state media that steel mills in Shandong have been instructed to cut production by around 4mt this year. The weak domestic market has also seen Chinese steel mills target the export market, which has weighed on international prices.
 
@@ -45,10 +45,10 @@ Sentiment was buoyed by Beijing’s efforts to support economic growth. However,
 
 Chinese steel inventories are at their lowest level on a seasonal basis in more than 10 years. This suggests demand is not as dire as sentiment would suggest. Any mandated cuts to production in China will only tighten the market.
 
-![Στιγμιότυπο Οθόνης 2025 03 07 112305](assets/2025-03-07_metals-rally-amid-improving-outlook-in-china_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_05028beb66b3.png)
+![Στιγμιότυπο Οθόνης 2025 03 07 112305](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-03-07_metals-rally-amid-improving-outlook-in-china_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_05028beb66b3.png)
 
 > **Figure 2: Στιγμιότυπο Οθόνης 2025 03 07 112305**  
-> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-03-07_metals-rally-amid-improving-outlook-in-china_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_05028beb66b3.png)
+> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-03-07_metals-rally-amid-improving-outlook-in-china_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_05028beb66b3.png)
 
 Data source:[Commodities Wrap](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI)
 

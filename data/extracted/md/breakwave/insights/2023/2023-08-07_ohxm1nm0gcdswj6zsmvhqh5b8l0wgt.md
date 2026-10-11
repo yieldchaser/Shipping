@@ -23,11 +23,11 @@ source_file: "corpus/03-breakwave/insights/2023/2023-08-07_ohxm1nm0gcdswj6zsmvhq
 
 Sentiment remained well supported last week by renewed side issues amid a broader improvement in risk appetite across markets. This was aided by weaker USD.
 
-![Data Source:commodities Wrap](assets/2023-08-07_ohxm1nm0gcdswj6zsmvhqh5b8l0wgt_img_1691385642430_a5d74977652d.png)
+![Data Source:commodities Wrap](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-08-07_ohxm1nm0gcdswj6zsmvhqh5b8l0wgt_img_1691385642430_a5d74977652d.png)
 
 > **Figure 1: Data Source:commodities Wrap**  
 > *Data source:Commodities Wrap*  
-> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-08-07_ohxm1nm0gcdswj6zsmvhqh5b8l0wgt_img_1691385642430_a5d74977652d.png)
+> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-08-07_ohxm1nm0gcdswj6zsmvhqh5b8l0wgt_img_1691385642430_a5d74977652d.png)
 
 **Crude oil**gained last week as evidence mounts of tightness in supplies. Saudi Arabia announced late last week that its voluntary 1mb/d reduction in output will now last into September, leaving output at 9mb/d. However, it comments that the cuts may be deepened caught the attention of the market. This was followed by Russia saying it will also extend its own production cut into next month. OPEC’s monitoring committee met on Friday and recommended it stay the course on its current production agreement. However, it noted members are willing to address market developments and take additional measure at any time. The tightness has seen key physical crude market indicators strengthen in recent weeks. Inventories are also falling, with US stockpiles recording their largest ever weekly drawdowns.
 

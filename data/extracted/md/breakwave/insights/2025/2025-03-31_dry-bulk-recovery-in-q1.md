@@ -34,10 +34,10 @@ On taking stock of the supply side, with an orderbook to fleet ratio of circa 10
 
 As we embark on the second quarter, Owners would be hoping that the seasonal uplift may partly offset the deteriorating demand-supply equilibrium or that a Black Swan comes to the rescue yet again.
 
-![Στιγμιότυπο Οθόνης 2025 03 31 104125](assets/2025-03-31_dry-bulk-recovery-in-q1_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_986af3c87f6d.png)
+![Στιγμιότυπο Οθόνης 2025 03 31 104125](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-03-31_dry-bulk-recovery-in-q1_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_986af3c87f6d.png)
 
 > **Figure 1: Στιγμιότυπο Οθόνης 2025 03 31 104125**  
-> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-03-31_dry-bulk-recovery-in-q1_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_986af3c87f6d.png)
+> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-03-31_dry-bulk-recovery-in-q1_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_986af3c87f6d.png)
 
 Data source:[Doric](https://www.doric.gr/)
 

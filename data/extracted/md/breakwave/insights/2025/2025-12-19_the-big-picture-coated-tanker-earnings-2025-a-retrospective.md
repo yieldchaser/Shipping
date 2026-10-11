@@ -34,19 +34,19 @@ A strong crude tanker market, particularly in H2 2025, encouraged coated tankers
 
 LR2 tankers began shifting into dirty trades early in the year after US sanctions in January - mainly on Aframax and LR2s - tightened crude tanker supply and boosted earnings. This encouraged nearly 25 LR2s to dirty up, reducing availability for clean product exports. Strong crude markets in Q4 accelerated the trend, adding nearly 30 more LR2s to the dirty fleet. 52 LR2 new builds have entered the fleet this year and none exited, and nearly 40 more LR2s are trading dirty today than at the start of the year. Only 12 additional vessels are currently available for CPP trades.
 
-![A435 Image 0 1766079308482](assets/2025-12-19_the-big-picture-coated-tanker-earnings-2025-a-retrospective_img_a435-image-0-1766079308482_44e139eae5fe.png)
+![A435 Image 0 1766079308482](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-12-19_the-big-picture-coated-tanker-earnings-2025-a-retrospective_img_a435-image-0-1766079308482_44e139eae5fe.png)
 
 > **Figure 1: A435 Image 0 1766079308482**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-12-19_the-big-picture-coated-tanker-earnings-2025-a-retrospective_img_a435-image-0-1766079308482_44e139eae5fe.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-12-19_the-big-picture-coated-tanker-earnings-2025-a-retrospective_img_a435-image-0-1766079308482_44e139eae5fe.png)
 
 *Source: Vortexa*
 
 The incentive to move to the dirty market has been helped by VLCC/Suezmax poaching LR2 long-haul middle distillate cargoes to the tune of around 200k b/d, which caps LR2 earnings for CPP trades. This trend is most pronounced in the summer months, as a seasonal slow-down in crude demand incentivises the switch. VLCC/Suezmax CPP liftings in June-September were 18% lower than the same period last year, but were still very much present, especially given the higher deliveries of uncoated Suezmaxes compared to last year.
 
-![B722 Image 1 1766079308486](assets/2025-12-19_the-big-picture-coated-tanker-earnings-2025-a-retrospective_img_b722-image-1-1766079308486_24aa1ab9ccbf.png)
+![B722 Image 1 1766079308486](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-12-19_the-big-picture-coated-tanker-earnings-2025-a-retrospective_img_b722-image-1-1766079308486_24aa1ab9ccbf.png)
 
 > **Figure 2: B722 Image 1 1766079308486**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-12-19_the-big-picture-coated-tanker-earnings-2025-a-retrospective_img_b722-image-1-1766079308486_24aa1ab9ccbf.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-12-19_the-big-picture-coated-tanker-earnings-2025-a-retrospective_img_b722-image-1-1766079308486_24aa1ab9ccbf.png)
 
 *Source: Vortexa*
 
@@ -65,6 +65,14 @@ The Israel-Gaza ceasefire in October has yet to result in a substantial increase
 ### Tight Product Market Extends Voyage Length in H2 2025
 
 Unlike the crude market, that saw crude oil supply increase by on average 1.5m b/d in 2H 2025, refined product markets were tight. This has been caused by refinery capacity constraints resulting from:
+
+Shuttering of capacity in Europe (Gunvor Rotterdam late 2024, Wesseling and Grangemouth in Q2 2025) and the US (LyondellBassell Houston in Q1 2025 and Phillips 66 LA in Q4 2025).
+
+Extended refinery maintenance kept product balances tight. As an example, longer than expected spring refinery maintenance in Europe coincided with the region’s strong middle distillate demand this summer. Strong summer travel demand saw Europe’s demand for jet sit 269k b/d above summer seasonal norms. Additionally, there was strong demand for diesel this summer (July imports were 400k b/d above seasonal norms). Strong demand came from in North Africa and Med European countries for power generation and higher marine gasoil requirement due to the new Emissions Control Area in the Med which went into effect in May.
+
+Sanctions on refineries (like Nayara in July and Yulong in October) and producers like Rosneft/Lukoil in October decreased overall refined products in the global supply chain. Rizhao terminal sanctions in October cut throughput at Sinopec refineries linked to the port.
+
+Drone attacks on Russia’s refineries (more below), ongoing issues with the 650k b/d Dangote refinery’s RFCC especially in the second half of the year, and an outage at the 615k b/d Al Zour refinery since October are some of the notable outages that pushed up global refining margins. Europe’s refining margins alone hit a three-year high in November (IEA).
 
 Average tonne-miles for the coated tanker fleet in the second half of the year increased by around 3.5% compared to the first half, as outages prompted increased inter-regional liftings and replacement flows from longer-haul destinations. Below average levels of product stocks in OECD countries heightened the sensitivity of key importers to fluctuations in global product supply.
 
@@ -85,10 +93,10 @@ Whereas very little change was evident in the regional distribution of the LR fl
 
 A widening gulf between supply in the East versus the Atlantic through Q3 accentuated the lack of availability in the US Gulf when Europe’s demand for US diesel picked up in the summer, and we saw spikes in US Gulf MR spot rates. The transatlantic diesel flow is the fronthaul in the Atlantic, which is a trend we’ve seen since the ban on Russian diesel in Europe. The rise in transatlantic diesel flows, and a longer-term decline in demand for Europe’s gasoline make it difficult to triangulate European exports to the US Atlantic coast with US Gulf diesel exports. Exporters in the US Gulf must pay more to attract vessels to the region.
 
-![A6a7 Image 2 1766079308488](assets/2025-12-19_the-big-picture-coated-tanker-earnings-2025-a-retrospective_img_a6a7-image-2-1766079308488_acf7dabfbfdf.png)
+![A6a7 Image 2 1766079308488](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-12-19_the-big-picture-coated-tanker-earnings-2025-a-retrospective_img_a6a7-image-2-1766079308488_acf7dabfbfdf.png)
 
 > **Figure 3: A6a7 Image 2 1766079308488**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-12-19_the-big-picture-coated-tanker-earnings-2025-a-retrospective_img_a6a7-image-2-1766079308488_acf7dabfbfdf.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-12-19_the-big-picture-coated-tanker-earnings-2025-a-retrospective_img_a6a7-image-2-1766079308488_acf7dabfbfdf.png)
 
 *Source: Vortexa*
 
@@ -96,10 +104,10 @@ A widening gulf between supply in the East versus the Atlantic through Q3 accent
 
 2023 and 2024 saw historically few deliveries of coated tankers. This year has been the fourth busiest on record, with almost as much DWT delivering in one year as we saw enter the market in the previous three years. The third quarter of 2025 was the busiest for MR deliveries, with 31 MRs hitting the water.
 
-![64a6 Image 3 1766079308490](assets/2025-12-19_the-big-picture-coated-tanker-earnings-2025-a-retrospective_img_64a6-image-3-1766079308490_047dfb77141e.png)
+![64a6 Image 3 1766079308490](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-12-19_the-big-picture-coated-tanker-earnings-2025-a-retrospective_img_64a6-image-3-1766079308490_047dfb77141e.png)
 
 > **Figure 4: 64a6 Image 3 1766079308490**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-12-19_the-big-picture-coated-tanker-earnings-2025-a-retrospective_img_64a6-image-3-1766079308490_047dfb77141e.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-12-19_the-big-picture-coated-tanker-earnings-2025-a-retrospective_img_64a6-image-3-1766079308490_047dfb77141e.png)
 
 **Time charter**rates for LR2s have improved since an April low of $29k/day for one year. The one-year rate is now up to $36.5k/day. By the end of 2025, MR one year TC rates were back to where they started at just over $23k/day.
 

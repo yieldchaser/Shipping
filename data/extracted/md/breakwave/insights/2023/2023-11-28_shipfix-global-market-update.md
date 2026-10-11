@@ -19,15 +19,15 @@ source_file: "corpus/03-breakwave/insights/2023/2023-11-28_shipfix-global-market
 
 ---
 
-![Homepage+banner+1](assets/2023-11-28_shipfix-global-market-update_img_homepage2bbanner2b1_5d7211685255.png)
+![Homepage+banner+1](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-11-28_shipfix-global-market-update_img_homepage2bbanner2b1_5d7211685255.png)
 
 > **Figure 1: Homepage+banner+1**  
-> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/breakwave-day-2023) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-11-28_shipfix-global-market-update_img_homepage2bbanner2b1_5d7211685255.png)
+> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/breakwave-day-2023) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-11-28_shipfix-global-market-update_img_homepage2bbanner2b1_5d7211685255.png)
 
-[![Homepage2bbutton](assets/2023-11-28_shipfix-global-market-update_img_homepage2bbutton_1d014100cc65.png)
+[![Homepage2bbutton](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-11-28_shipfix-global-market-update_img_homepage2bbutton_1d014100cc65.png)
 
 > **Figure 2: Homepage2bbutton**  
-> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/in/ulf-bergman-81570425/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-11-28_shipfix-global-market-update_img_homepage2bbutton_1d014100cc65.png)](https://www.breakwaveadvisors.com/breakwave-day-2023)
+> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/in/ulf-bergman-81570425/) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-11-28_shipfix-global-market-update_img_homepage2bbutton_1d014100cc65.png)](https://www.breakwaveadvisors.com/breakwave-day-2023)
 
 **A late rebound for the Capesizes contributed to the BDI advancing by more than fifteen per cent last week, with pressure on tonnage supply chiefly responsible for the turnaround. The week was a tale of mixed fortunes for the commodities as a US public holiday put pressure on market activities.**
 
@@ -69,8 +69,8 @@ While the past week failed to match the global cargo order volumes for Capesizes
 
 Should the recent upward trend in demand for seaborne transportation of coal remain in place, it will provide further support for Capesize freight rates. However, the seasonal patterns of cargo order volumes for coal and other commodities suggest that the rebound may run out of steam as we enter the year's final month.
 
-![Data Source:shipfix](assets/2023-11-28_shipfix-global-market-update_img_unnamed-2023-11-28t111425834_4961f90b7d73.png)
+![Data Source:shipfix](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-11-28_shipfix-global-market-update_img_unnamed-2023-11-28t111425834_4961f90b7d73.png)
 
 > **Figure 3: Data Source:shipfix**  
 > *Data Source:Shipfix*  
-> **Interactive Data & Source:** [Shipfix](https://shipfix.com/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-11-28_shipfix-global-market-update_img_unnamed-2023-11-28t111425834_4961f90b7d73.png)
+> **Interactive Data & Source:** [Shipfix](https://shipfix.com/) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-11-28_shipfix-global-market-update_img_unnamed-2023-11-28t111425834_4961f90b7d73.png)

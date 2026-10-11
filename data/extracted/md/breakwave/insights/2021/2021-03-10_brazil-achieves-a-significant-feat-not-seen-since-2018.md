@@ -29,7 +29,7 @@ Brazil’s iron ore exports are likely to increase year-on-year by at the very l
 ![Commodore 3](assets/2021-03-10_brazil-achieves-a-significant-feat-not-seen-since-2018_img_commodore3_d38e2f26d472.jpg)
 
 > **Figure 1: Commodore 3**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2021/assets/2021-03-10_brazil-achieves-a-significant-feat-not-seen-since-2018_img_commodore3_d38e2f26d472.jpg)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-03-10_brazil-achieves-a-significant-feat-not-seen-since-2018_img_commodore3_d38e2f26d472.jpg)
 
 These figures work out to Brazilian iron ore production being poised to rise year-on-year by anywhere from 23 to 45 million tons. While the cargo supply side is only part of the equation, also remaining encouraging is that China’s steel production has continued to set new records this year. In addition, global steel production outside of China has risen on a year-on-year basis for three consecutive months after having previously contracted on a year-on-year basis for eight consecutive months.
 

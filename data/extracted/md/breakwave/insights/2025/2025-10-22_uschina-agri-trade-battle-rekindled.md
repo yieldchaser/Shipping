@@ -32,10 +32,10 @@ Markets reacted with concern over a repeat of the 2018–19 agricultural trade c
 
 By September 2025, China had recorded zero U.S. soybean imports for the first time since 2018, signalling a lasting shift toward Brazilian and South American suppliers.
 
-![Στιγμιότυπο Οθόνης 2025 10 22 091851](assets/2025-10-22_uschina-agri-trade-battle-rekindled_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_320ee34c9125.png)
+![Στιγμιότυπο Οθόνης 2025 10 22 091851](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-10-22_uschina-agri-trade-battle-rekindled_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_320ee34c9125.png)
 
 > **Figure 1: Στιγμιότυπο Οθόνης 2025 10 22 091851**  
-> **Interactive Data & Source:** [Allied-shipbroking](https://www.allied-shipbroking.gr/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-10-22_uschina-agri-trade-battle-rekindled_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_320ee34c9125.png)
+> **Interactive Data & Source:** [Allied-shipbroking](https://www.allied-shipbroking.gr/) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-10-22_uschina-agri-trade-battle-rekindled_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_320ee34c9125.png)
 
 ### Soybean Producers Back Under Pressure
 
@@ -49,10 +49,10 @@ Chinese crushers have swiftly filled the supply gap left by the collapse in U.S.
 
 The policy moves immediately boosted Argentina’s FOB competitiveness, triggering a wave of China-bound bookings at the expense of U.S. Gulf loadings. Traders report that Chinese crushers have already locked in Argentine cargoes for November–December delivery, sustaining long-haul Atlantic-to-Far East flows.
 
-![Στιγμιότυπο Οθόνης 2025 10 22 092157](assets/2025-10-22_uschina-agri-trade-battle-rekindled_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_3e5d331e12b4.png)
+![Στιγμιότυπο Οθόνης 2025 10 22 092157](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-10-22_uschina-agri-trade-battle-rekindled_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_3e5d331e12b4.png)
 
 > **Figure 2: Στιγμιότυπο Οθόνης 2025 10 22 092157**  
-> **Interactive Data & Source:** [Allied-shipbroking](https://www.allied-shipbroking.gr/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-10-22_uschina-agri-trade-battle-rekindled_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_3e5d331e12b4.png)
+> **Interactive Data & Source:** [Allied-shipbroking](https://www.allied-shipbroking.gr/) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-10-22_uschina-agri-trade-battle-rekindled_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_3e5d331e12b4.png)
 
 ### Argentina’s Tax Suspension Shifts Trade Flows
 
@@ -68,10 +68,10 @@ For shipowners, this is translated into firm South America–China stems through
 
 With 1.4 billion people and the world’s largest hog herd, China remains irreplaceable as a soybean importer, accounting for more than 60% of global soybean trade, a volume that dwarfs all other markets combined. In 2024, the United States shipped 27 million tons of soybeans to China, nearly five times more than to Mexico, its next largest buyer. Yet, since the first Trump administration, Beijing has diversified its import base aggressively: in 2016, 41% of China’s soybean imports came from the U.S., but by 2024 that share had fallen to just 20%. This diversification strategy has enhanced China’s bargaining power, enabling it to rely on Brazil and Argentina for supply security while leveraging U.S. farmers as negotiating tools in broader trade discussions.
 
-![Στιγμιότυπο Οθόνης 2025 10 22 092425](assets/2025-10-22_uschina-agri-trade-battle-rekindled_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_0c05fb47f0c1.png)
+![Στιγμιότυπο Οθόνης 2025 10 22 092425](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-10-22_uschina-agri-trade-battle-rekindled_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_0c05fb47f0c1.png)
 
 > **Figure 3: Στιγμιότυπο Οθόνης 2025 10 22 092425**  
-> **Interactive Data & Source:** [Allied-shipbroking](https://www.allied-shipbroking.gr/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-10-22_uschina-agri-trade-battle-rekindled_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_0c05fb47f0c1.png)
+> **Interactive Data & Source:** [Allied-shipbroking](https://www.allied-shipbroking.gr/) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-10-22_uschina-agri-trade-battle-rekindled_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_0c05fb47f0c1.png)
 
 ### Window
 

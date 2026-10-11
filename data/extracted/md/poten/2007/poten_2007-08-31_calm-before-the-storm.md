@@ -82,6 +82,14 @@ While it is challenging to predict the day-to-day weather, let alone the severit
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: Calm Before the Storm?](../../../charts/poten/2007/poten_2007-08-31_calm-before-the-storm_chart1.png)
+> **Chart on PDF page 1: US Gasoline Stocks (000 Barrels)**  
+> Unit: 000 Barrels · X-axis: Jan to Dec  
+> Series: 2005, 2006, 2007  
+> *Source: Poten & Partners*  
+> *No image crop of this chart was saved; caption read from the PDF.*
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2007/poten_2007-08-31_calm-before-the-storm_chart1.png)
+> **Chart on PDF page 2: Headed for higher rates?**  
+> Unit: TCE ($/day) · X-axis: Jan to Dec  
+> Series: 2005, 2006, 2007  
+> *Source: Poten & Partners*  
+> *No image crop of this chart was saved; caption read from the PDF.*

@@ -61,9 +61,9 @@ Since the middle of September, global cargo order volumes for the Supramaxes hav
 
 Still, last week’s rebound looks unlikely to be a temporary blip and could spell the end of the past weeks’ downward trend. The first two days of the current week are already accounting for more than half of last week’s 32 million tonnes of global aggregate order volumes. Additionally, the new week has seen tonnage supply fall below what was recorded during the same period last week. Hence, freight rates in the Supramax segment may recover some of the losses from recent weeks.
 
-![Market Chart 1](assets/2023-10-12_shipfix-global-market-update_img_unnamed-2023-10-12t132331971_b2a472eea49d.png)
+![Market Chart 1](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-10-12_shipfix-global-market-update_img_unnamed-2023-10-12t132331971_b2a472eea49d.png)
 
 > **Figure 1: Market Chart 1**  
-> **Interactive Data & Source:** [Shipfix](https://shipfix.com/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-10-12_shipfix-global-market-update_img_unnamed-2023-10-12t132331971_b2a472eea49d.png)
+> **Interactive Data & Source:** [Shipfix](https://shipfix.com/) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-10-12_shipfix-global-market-update_img_unnamed-2023-10-12t132331971_b2a472eea49d.png)
 
 Data Source:[Shipfix](https://shipfix.com/)

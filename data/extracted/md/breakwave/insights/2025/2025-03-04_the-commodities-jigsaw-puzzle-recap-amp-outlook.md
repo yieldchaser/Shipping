@@ -20,22 +20,22 @@ source_file: "corpus/03-breakwave/insights/2025/2025-03-04_the-commodities-jigsa
 
 ---
 
-![Rgb Color Brs Shipbrokers Monogram Logo](assets/2025-03-04_the-commodities-jigsaw-puzzle-recap-amp-outlook_img_rgb-color-brs-shipbrokers-monogram-l_ee79606c8e74.png)
+![Rgb Color Brs Shipbrokers Monogram Logo](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-03-04_the-commodities-jigsaw-puzzle-recap-amp-outlook_img_rgb-color-brs-shipbrokers-monogram-l_ee79606c8e74.png)
 
 > **Figure 1: Rgb Color Brs Shipbrokers Monogram Logo**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-03-04_the-commodities-jigsaw-puzzle-recap-amp-outlook_img_rgb-color-brs-shipbrokers-monogram-l_ee79606c8e74.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-03-04_the-commodities-jigsaw-puzzle-recap-amp-outlook_img_rgb-color-brs-shipbrokers-monogram-l_ee79606c8e74.png)
 
 ### Seaborne Iron Ore Changes Breakdown
 
-![Στιγμιότυπο Οθόνης 2025 03 04 121525](assets/2025-03-04_the-commodities-jigsaw-puzzle-recap-amp-outlook_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_5e09da83ab50.png)
+![Στιγμιότυπο Οθόνης 2025 03 04 121525](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-03-04_the-commodities-jigsaw-puzzle-recap-amp-outlook_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_5e09da83ab50.png)
 
 > **Figure 2: Στιγμιότυπο Οθόνης 2025 03 04 121525**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-03-04_the-commodities-jigsaw-puzzle-recap-amp-outlook_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_5e09da83ab50.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-03-04_the-commodities-jigsaw-puzzle-recap-amp-outlook_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_5e09da83ab50.png)
 
-![Στιγμιότυπο Οθόνης 2025 03 04 121539](assets/2025-03-04_the-commodities-jigsaw-puzzle-recap-amp-outlook_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_2f8b8fc94d44.png)
+![Στιγμιότυπο Οθόνης 2025 03 04 121539](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-03-04_the-commodities-jigsaw-puzzle-recap-amp-outlook_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_2f8b8fc94d44.png)
 
 > **Figure 3: Στιγμιότυπο Οθόνης 2025 03 04 121539**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-03-04_the-commodities-jigsaw-puzzle-recap-amp-outlook_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_2f8b8fc94d44.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-03-04_the-commodities-jigsaw-puzzle-recap-amp-outlook_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_2f8b8fc94d44.png)
 
 In 2024, seaborne iron ore volumes experienced a year-on-year (y-o-y) increase of 2.4%, while ton-days expanded at a higher rate of 3.4%. This disproportionate growth in ton-days was primarily driven by an increase in longer-haul shipments from Brazil (+18.3 mln mt) and non-Pacific countries such as Peru (+13.3%), Ukraine (+330%), Mozambique (+17.4%) which saw non-pacific flows rise by 15.3 mln mt. Meanwhile, shorter-haul shipments from Australia to the Far East rose by 9.7 mln mt. This trend contributed to improved market prospects for Capesize and VLOCs, particularly in the first quarter of 2024.
 
@@ -49,15 +49,15 @@ Overall, the high Chinese iron ore inventories could be a moderate headwind for 
 
 ### Seaborne Coal Changes Breakdown
 
-![Στιγμιότυπο Οθόνης 2025 03 04 121655](assets/2025-03-04_the-commodities-jigsaw-puzzle-recap-amp-outlook_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_bd620844ae8a.png)
+![Στιγμιότυπο Οθόνης 2025 03 04 121655](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-03-04_the-commodities-jigsaw-puzzle-recap-amp-outlook_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_bd620844ae8a.png)
 
 > **Figure 4: Στιγμιότυπο Οθόνης 2025 03 04 121655**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-03-04_the-commodities-jigsaw-puzzle-recap-amp-outlook_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_bd620844ae8a.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-03-04_the-commodities-jigsaw-puzzle-recap-amp-outlook_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_bd620844ae8a.png)
 
-![Στιγμιότυπο Οθόνης 2025 03 04 121707](assets/2025-03-04_the-commodities-jigsaw-puzzle-recap-amp-outlook_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_255f244cfa02.png)
+![Στιγμιότυπο Οθόνης 2025 03 04 121707](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-03-04_the-commodities-jigsaw-puzzle-recap-amp-outlook_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_255f244cfa02.png)
 
 > **Figure 5: Στιγμιότυπο Οθόνης 2025 03 04 121707**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-03-04_the-commodities-jigsaw-puzzle-recap-amp-outlook_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_255f244cfa02.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-03-04_the-commodities-jigsaw-puzzle-recap-amp-outlook_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_255f244cfa02.png)
 
 In 2024, seaborne coal volumes recorded a slight 1.4% annual y-o-y increase. Meanwhile, ton-days slipped by 0.7%, as port congestion in China remained at low levels. The growth in volumes was primarily driven by an increase in shorter-haul shipments from Indonesia (+27.5 mln mt) and Australia (+11.1 mln mt), which offset a decline in Russian exports (-26.4 mln mt). The latter drop reflected a combination of significant logistical challenges within the Russian Railways network, the impact of international sanctions and subdued global coal prices which restricted market opportunities.
 
@@ -77,15 +77,15 @@ Meanwhile, India’s coal import demand may remain subdued until Q2/Q3 2025 as i
 
 ### Seaborne Grain Changes Breakdown
 
-![Στιγμιότυπο Οθόνης 2025 03 04 121815](assets/2025-03-04_the-commodities-jigsaw-puzzle-recap-amp-outlook_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_2cb34c5dcef0.png)
+![Στιγμιότυπο Οθόνης 2025 03 04 121815](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-03-04_the-commodities-jigsaw-puzzle-recap-amp-outlook_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_2cb34c5dcef0.png)
 
 > **Figure 6: Στιγμιότυπο Οθόνης 2025 03 04 121815**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-03-04_the-commodities-jigsaw-puzzle-recap-amp-outlook_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_2cb34c5dcef0.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-03-04_the-commodities-jigsaw-puzzle-recap-amp-outlook_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_2cb34c5dcef0.png)
 
-![Στιγμιότυπο Οθόνης 2025 03 04 121826](assets/2025-03-04_the-commodities-jigsaw-puzzle-recap-amp-outlook_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_1b6110d91edd.png)
+![Στιγμιότυπο Οθόνης 2025 03 04 121826](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-03-04_the-commodities-jigsaw-puzzle-recap-amp-outlook_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_1b6110d91edd.png)
 
 > **Figure 7: Στιγμιότυπο Οθόνης 2025 03 04 121826**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-03-04_the-commodities-jigsaw-puzzle-recap-amp-outlook_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_1b6110d91edd.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-03-04_the-commodities-jigsaw-puzzle-recap-amp-outlook_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_1b6110d91edd.png)
 
 In 2024, seaborne grain volumes rose marginally by 0.7% Y-o-y, with ton-days growth at 0.4%. This lack of significant growth (be it cargo intake or voyage duration) partly explains the mid-sized vessel segment’s increased focus on coal. A decline in long-haul Brazilian grain shipments (-22.0 mln mt) was offset by higher US exports (+18.9%). Meanwhile, Ukraine's grain exports rose by 10.0 mln mt as Black Sea tensions eased while Argentinian crops rebounded by 17.8 mln mt. However, gains from the world’s fourth and fifth largest suppliers were somewhat offset by lower exports from ROW (-21.6 mln mt).
 
@@ -95,10 +95,10 @@ If China fails to regain its grain purchase momentum in 2025, notwithstanding wh
 
 ### Seaborne Steels Breakdown
 
-![Στιγμιότυπο Οθόνης 2025 03 04 122020](assets/2025-03-04_the-commodities-jigsaw-puzzle-recap-amp-outlook_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_0b009478aa81.png)
+![Στιγμιότυπο Οθόνης 2025 03 04 122020](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-03-04_the-commodities-jigsaw-puzzle-recap-amp-outlook_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_0b009478aa81.png)
 
 > **Figure 8: Στιγμιότυπο Οθόνης 2025 03 04 122020**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-03-04_the-commodities-jigsaw-puzzle-recap-amp-outlook_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_0b009478aa81.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-03-04_the-commodities-jigsaw-puzzle-recap-amp-outlook_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_0b009478aa81.png)
 
 An analysis of AXSMarine data on steel trade flows reveals some interesting realities. In terms of US seaborne steel arrivals, Brazil remains the top supplier due to its geographic closeness. However, South Korea and Vietnam are also significant overseas suppliers, coming from the Pacific basin.
 

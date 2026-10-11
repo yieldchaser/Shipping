@@ -32,6 +32,8 @@ The Academy program was initially created to help the fast-growing Signal train 
 
 Signal founder Ioannis Martinos said:
 
+“Shipping companies have big digital ambitions, but to deliver on those they need to attract and onboard talent which often has little or no exposure to our industry. How can you build and deploy helpful solutions if your technologists don’t understand the shipping business? Having struggled with this in the past, we built a program based on what really happens in the tanker chartering setting. We’ve had great internal success with it, so we wanted to share with others.”
+
 He added:
 
 *“Signal was founded with the vision to bring shipping and technology together.”*

@@ -72,6 +72,20 @@ Rates have come up quickly and decisively since reaching their 18- month lows in
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: The Fall and Rise of Tanker Rates](../../../charts/poten/2005/poten_2005-02-04_the-fall-and-rise-of-tanker-rates_chart1.png)
+> **Chart on PDF page 1: VLCC Spot Rates Versus Vessel Availability**  
+> Unit: WS Rates | # Vessels · X-axis: 11/1/2004 to 2/3/2005  
+> Series: WS Rates, #VLCCs in AG  
+> *Source: Poten & Partners*  
+> *No image crop of this chart was saved; caption read from the PDF.*
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2005/poten_2005-02-04_the-fall-and-rise-of-tanker-rates_chart1.png)
+> **Chart on PDF page 2: VLCC Spot Rates Versus Fixture Activity**  
+> Unit: WS Rates | # Fixtures · X-axis: 11/1/2004 to 2/1/2005  
+> Series: WS Rates, # Fixtures  
+> *Source: Poten & Partners*  
+> *No image crop of this chart was saved; caption read from the PDF.*
+
+> **Chart on PDF page 3: Fixture Activity versus VLCCs Expected in AG**  
+> Unit: # Fixtures | # Vessels · X-axis: 11/1/2004 to 1/26/2005  
+> Series: # Fixtures, # VLCCs in AG  
+> *Source: Poten & Partners*  
+> *No image crop of this chart was saved; caption read from the PDF.*

@@ -37,9 +37,9 @@ At the same time as consumer spending was gathering pace, goods trade didn’t m
 
 With global goods trade growth slowing and China's exports shrinking much faster than expected in May, geared segments concluded today in the red, mirroring concerns for the big picture on their balancing levels. On the flip side, gearless segments focused on specific commodity trades and reported weekly gains, anticipating more active weeks in the usual staple iron ore and grain runs.
 
-![1 (2)](assets/2023-06-12_doric-weekly-market-insight_img_128229_ce9c159bdee1.png)
+![1 (2)](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-06-12_doric-weekly-market-insight_img_128229_ce9c159bdee1.png)
 
 > **Figure 1: 1 (2)**  
-> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-06-12_doric-weekly-market-insight_img_128229_ce9c159bdee1.png)
+> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-06-12_doric-weekly-market-insight_img_128229_ce9c159bdee1.png)
 
 Data source:[Doric](https://www.doric.gr/)

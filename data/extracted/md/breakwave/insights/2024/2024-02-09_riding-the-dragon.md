@@ -38,10 +38,10 @@ Despite concerns, our friends and Clients in the Far East feel overall positive 
 
 ### Gong Xi Fa Cai 新年快乐！
 
-![241](assets/2024-02-09_riding-the-dragon_img_241_e70523757fe3.jpeg)
+![241](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-02-09_riding-the-dragon_img_241_e70523757fe3.jpeg)
 
 > **Figure 1: 241**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-02-09_riding-the-dragon_img_241_e70523757fe3.jpeg)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-02-09_riding-the-dragon_img_241_e70523757fe3.jpeg)
 
 ### Lunar New Year Facts
 
@@ -61,10 +61,10 @@ Despite concerns, our friends and Clients in the Far East feel overall positive 
 
 • The largest annual human migration in the world is taking place the Lunar New Year holidays (a.k.a. the Spring Festival Travel Rush). Over 200 million people will travel within China and tens of millions will travel internationally.
 
-![241](assets/2024-02-09_riding-the-dragon_img_241_e70523757fe3.jpeg)
+![241](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-02-09_riding-the-dragon_img_241_e70523757fe3.jpeg)
 
 > **Figure 2: 241**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-02-09_riding-the-dragon_img_241_e70523757fe3.jpeg)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-02-09_riding-the-dragon_img_241_e70523757fe3.jpeg)
 
 ---
 

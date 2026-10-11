@@ -176,6 +176,8 @@ DCE iron ore futures market slumped sharply by 6.7% and i2201 hit one-year new l
 | **Port Stock** | **0.01% Phosphorus** | Low Fe Grade 0.09\<P<0.1% | 12.00 | RMB/wet tonne | +0.00 |
 
 ## Historical Iron Ore Index Comparisons (USD/DMT)
+> **Approximate.** The report prints no numbers for this chart. Values were read visually from the chart image by the parser and are rough estimates.
+
 | Date | IOSI62 (USD/DMT) | IOPi62 CFR Eq (USD/DMT) | IOSI65 (USD/DMT) | IOPi65 CFR Eq (USD/DMT) |
 | :--- | :--- | :--- | :--- | :--- |
 | 19-Sep-20 | 125.00 | 120.00 | 130.00 | 128.00 |
@@ -208,6 +210,8 @@ DCE iron ore futures market slumped sharply by 6.7% and i2201 hit one-year new l
 | **SGX** | **Sep. 21** | USD/DMT | 133.20 | -12.00 | -8.26% | 1.04 | 189.86 | 133.05 | 147.00 |
 
 ## Dry Bulk Freight Rates Historical Line Data (USD/MT)
+> **Approximate.** The report prints no numbers for this chart. Values were read visually from the chart image by the parser and are rough estimates.
+
 | Date | C5 W. Australia - Qingdao (USD/MT) | C3 Tubarao - Qingdao (USD/MT) |
 | :--- | :--- | :--- |
 | 31-Jul-20 | 8.00 | 17.00 |
@@ -226,6 +230,8 @@ DCE iron ore futures market slumped sharply by 6.7% and i2201 hit one-year new l
 | 31-Aug-21 | 15.00 | 35.00 |
 
 ## Total China Iron Ore Import Volumes (Million Tonnes)
+> **Approximate.** The report prints no numbers for this chart. Values were read visually from the chart image by the parser and are rough estimates.
+
 | Month / Period | Import Volume (Million Tonnes) |
 | :--- | :--- |
 | Jul-20 | 112.00 |

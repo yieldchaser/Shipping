@@ -26,10 +26,10 @@ tags:
 
 *Published on 17 June 2025*
 
-![Heading](../../images/685138d048a6621448ff2f8f_AD_4nXd_oRPOZ2UkAgR-Y1v_gvfmi7yz_77bJT-fKOOcPDvj2G_rul4Z0Uy1PMsz5usy7TBtX9Yb1CB9vzr1Bz4ZP3fYgb2xVeZQVM460uly3xPyNst9eOynISVlVw8iG9Br0YdxkIGEnA.png)
+![Heading](../../../../../../corpus/07-signal/images/685138d048a6621448ff2f8f_AD_4nXd_oRPOZ2UkAgR-Y1v_gvfmi7yz_77bJT-fKOOcPDvj2G_rul4Z0Uy1PMsz5usy7TBtX9Yb1CB9vzr1Bz4ZP3fYgb2xVeZQVM460uly3xPyNst9eOynISVlVw8iG9Br0YdxkIGEnA.png)
 
 > **Figure 1: Heading**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/geopolitical-spillover-assessing-the-impact-of-iran-israel-tensions-on-the-tanker-shipping-industry) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/685138d048a6621448ff2f8f_AD_4nXd_oRPOZ2UkAgR-Y1v_gvfmi7yz_77bJT-fKOOcPDvj2G_rul4Z0Uy1PMsz5usy7TBtX9Yb1CB9vzr1Bz4ZP3fYgb2xVeZQVM460uly3xPyNst9eOynISVlVw8iG9Br0YdxkIGEnA.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/geopolitical-spillover-assessing-the-impact-of-iran-israel-tensions-on-the-tanker-shipping-industry) | [Local Asset](../../../../../../corpus/07-signal/images/685138d048a6621448ff2f8f_AD_4nXd_oRPOZ2UkAgR-Y1v_gvfmi7yz_77bJT-fKOOcPDvj2G_rul4Z0Uy1PMsz5usy7TBtX9Yb1CB9vzr1Bz4ZP3fYgb2xVeZQVM460uly3xPyNst9eOynISVlVw8iG9Br0YdxkIGEnA.png)
 
 
 ## Executive Summary:
@@ -73,11 +73,11 @@ The current rally appeared to stem from a localized but volatile threat landscap
 Nonetheless, the risk of broader regional escalation remains a key concern. A worst-case scenario involving sustained conflict and disruption of flows through the Strait of Hormuz could trigger a severe supply shock. According to JPMorgan, such an escalation could remove well over 2.1 million barrels per day from the market and push Brent crude prices sharply higher, potentially exceeding $100 per barrel.
 
 
-![Https://app.signalocean.com/tanker/dynamic/oilprices](../../images/685138cf48a6621448ff2f7c_AD_4nXcCq1MjZFZ6dDn9Rcwv3mZbaM9IykMydKWTD5eq01fr8cC5ap_XtCcR_w3uCLZuxgVRUTKKInLjRVqp85qapjbRzYk4V3FTf6S6obPOal6mIBFaKVhDDlA83SjG1whBooZhnll2Lg.png)
+![Https://app.signalocean.com/tanker/dynamic/oilprices](../../../../../../corpus/07-signal/images/685138cf48a6621448ff2f7c_AD_4nXcCq1MjZFZ6dDn9Rcwv3mZbaM9IykMydKWTD5eq01fr8cC5ap_XtCcR_w3uCLZuxgVRUTKKInLjRVqp85qapjbRzYk4V3FTf6S6obPOal6mIBFaKVhDDlA83SjG1whBooZhnll2Lg.png)
 
 > **Figure 2: Https://app.signalocean.com/tanker/dynamic/oilprices**  
 > *https://app.signalocean.com/tanker/dynamic/oil_prices*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/geopolitical-spillover-assessing-the-impact-of-iran-israel-tensions-on-the-tanker-shipping-industry) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/685138cf48a6621448ff2f7c_AD_4nXcCq1MjZFZ6dDn9Rcwv3mZbaM9IykMydKWTD5eq01fr8cC5ap_XtCcR_w3uCLZuxgVRUTKKInLjRVqp85qapjbRzYk4V3FTf6S6obPOal6mIBFaKVhDDlA83SjG1whBooZhnll2Lg.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/geopolitical-spillover-assessing-the-impact-of-iran-israel-tensions-on-the-tanker-shipping-industry) | [Local Asset](../../../../../../corpus/07-signal/images/685138cf48a6621448ff2f7c_AD_4nXcCq1MjZFZ6dDn9Rcwv3mZbaM9IykMydKWTD5eq01fr8cC5ap_XtCcR_w3uCLZuxgVRUTKKInLjRVqp85qapjbRzYk4V3FTf6S6obPOal6mIBFaKVhDDlA83SjG1whBooZhnll2Lg.png)
 
 
 ## Elevated Risk to Iranian Oil Port Infrastructure
@@ -85,11 +85,11 @@ Nonetheless, the risk of broader regional escalation remains a key concern. A wo
 Reports indicate that Israeli strikes targeted defenses near Iran’s key port of Bandar Abbas. Although Iran maintains that operations remain unaffected, any significant damage to this strategically located port, adjacent to the Strait of Hormuz, could disrupt oil vessel traffic. The National Iranian Oil Refining and Distribution Company has stated that its refining and storage facilities remain fully operational and have sustained no damage. Nevertheless, the risk of disrupted oil flows persists, especially given Iran’s past threats to block the strait. The risk of missile attacks on Iranian oil port infrastructure is causing increased uncertainty, evidenced by a rise in estimated waiting times at Kharg Island port. The recently estimated waiting period for vessels has significantly increased to eleven days before the end of last week, up from five days at the start of May. This surge occurred without a corresponding increase in port congestion, as indicated by vessel count.
 
 
-![Https://app.signalocean.com/tanker/dynamic/congestionreporttankerdownload](../../images/685138d048a6621448ff2f8c_AD_4nXcFQ9I-Fx6ii3YI6REoBR1BSnxYXWtvT4TKwTvvZF2dKHLKORxCv_1Bipa3ihFj1cwbOcasbCmt_q4KYj-aPxXUwBCiGFuYUXTUkvswgyL4jzKkgxHqnx0d9xLAgNmvMcx_TArHtQ.png)
+![Https://app.signalocean.com/tanker/dynamic/congestionreporttankerdownload](../../../../../../corpus/07-signal/images/685138d048a6621448ff2f8c_AD_4nXcFQ9I-Fx6ii3YI6REoBR1BSnxYXWtvT4TKwTvvZF2dKHLKORxCv_1Bipa3ihFj1cwbOcasbCmt_q4KYj-aPxXUwBCiGFuYUXTUkvswgyL4jzKkgxHqnx0d9xLAgNmvMcx_TArHtQ.png)
 
 > **Figure 3: Https://app.signalocean.com/tanker/dynamic/congestionreporttankerdownload**  
 > *https://app.signalocean.com/tanker/dynamic/congestion_report_tanker_download*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/geopolitical-spillover-assessing-the-impact-of-iran-israel-tensions-on-the-tanker-shipping-industry) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/685138d048a6621448ff2f8c_AD_4nXcFQ9I-Fx6ii3YI6REoBR1BSnxYXWtvT4TKwTvvZF2dKHLKORxCv_1Bipa3ihFj1cwbOcasbCmt_q4KYj-aPxXUwBCiGFuYUXTUkvswgyL4jzKkgxHqnx0d9xLAgNmvMcx_TArHtQ.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/geopolitical-spillover-assessing-the-impact-of-iran-israel-tensions-on-the-tanker-shipping-industry) | [Local Asset](../../../../../../corpus/07-signal/images/685138d048a6621448ff2f8c_AD_4nXcFQ9I-Fx6ii3YI6REoBR1BSnxYXWtvT4TKwTvvZF2dKHLKORxCv_1Bipa3ihFj1cwbOcasbCmt_q4KYj-aPxXUwBCiGFuYUXTUkvswgyL4jzKkgxHqnx0d9xLAgNmvMcx_TArHtQ.png)
 
 
 ## Freight Market - Vessel Count in the AG (VLCC)
@@ -97,18 +97,18 @@ Reports indicate that Israeli strikes targeted defenses near Iran’s key port o
 We have started seeing a reduction in the vessel count at the load area of AG for the VLCC TD3C route, although the WS direction upward trend is not yet significantly pronounced.
 
 
-![Https://app.signalocean.com/tanker/dynamic/vesselcounttankerdownloadable](../../images/685138d048a6621448ff2f92_AD_4nXeyAIb7k7YsSoN2gFHgA7WrN1MdRTTla3NOXZ9HL03o0sJjNFOOJOaFjsBTW67cjecX1x1gbx5mTK2D358pEVScdT_sIdnDnYXR0MH1oK1BW10nH7D7ZnXlWPTqyc49jVpQvY29gw.png)
+![Https://app.signalocean.com/tanker/dynamic/vesselcounttankerdownloadable](../../../../../../corpus/07-signal/images/685138d048a6621448ff2f92_AD_4nXeyAIb7k7YsSoN2gFHgA7WrN1MdRTTla3NOXZ9HL03o0sJjNFOOJOaFjsBTW67cjecX1x1gbx5mTK2D358pEVScdT_sIdnDnYXR0MH1oK1BW10nH7D7ZnXlWPTqyc49jVpQvY29gw.png)
 
 > **Figure 4: Https://app.signalocean.com/tanker/dynamic/vesselcounttankerdownloadable**  
 > *https://app.signalocean.com/tanker/dynamic/vessel_count_tanker_downloadable*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/geopolitical-spillover-assessing-the-impact-of-iran-israel-tensions-on-the-tanker-shipping-industry) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/685138d048a6621448ff2f92_AD_4nXeyAIb7k7YsSoN2gFHgA7WrN1MdRTTla3NOXZ9HL03o0sJjNFOOJOaFjsBTW67cjecX1x1gbx5mTK2D358pEVScdT_sIdnDnYXR0MH1oK1BW10nH7D7ZnXlWPTqyc49jVpQvY29gw.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/geopolitical-spillover-assessing-the-impact-of-iran-israel-tensions-on-the-tanker-shipping-industry) | [Local Asset](../../../../../../corpus/07-signal/images/685138d048a6621448ff2f92_AD_4nXeyAIb7k7YsSoN2gFHgA7WrN1MdRTTla3NOXZ9HL03o0sJjNFOOJOaFjsBTW67cjecX1x1gbx5mTK2D358pEVScdT_sIdnDnYXR0MH1oK1BW10nH7D7ZnXlWPTqyc49jVpQvY29gw.png)
 
 
-![Https://app.signalocean.com/tanker/dynamic/market-Prices-Tankers-Downloadable](../../images/685138d048a6621448ff2f83_AD_4nXfyWnrAqaGoZd3WmaCU3w8y5kQnhzFaKbZTe4psKcb4avISgNco2g18CgHQCbix6iclldfy5lm_61HxX5qyqP2nmOLJsUv4xjTtD_TXyyDTQ_hvQ2I9gvGWZdSRg8jhpf_1age8.png)
+![Https://app.signalocean.com/tanker/dynamic/market-Prices-Tankers-Downloadable](../../../../../../corpus/07-signal/images/685138d048a6621448ff2f83_AD_4nXfyWnrAqaGoZd3WmaCU3w8y5kQnhzFaKbZTe4psKcb4avISgNco2g18CgHQCbix6iclldfy5lm_61HxX5qyqP2nmOLJsUv4xjTtD_TXyyDTQ_hvQ2I9gvGWZdSRg8jhpf_1age8.png)
 
 > **Figure 5: Https://app.signalocean.com/tanker/dynamic/market-Prices-Tankers-Downloadable**  
 > *https://app.signalocean.com/tanker/dynamic/market-prices-tankers-downloadable*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/geopolitical-spillover-assessing-the-impact-of-iran-israel-tensions-on-the-tanker-shipping-industry) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/685138d048a6621448ff2f83_AD_4nXfyWnrAqaGoZd3WmaCU3w8y5kQnhzFaKbZTe4psKcb4avISgNco2g18CgHQCbix6iclldfy5lm_61HxX5qyqP2nmOLJsUv4xjTtD_TXyyDTQ_hvQ2I9gvGWZdSRg8jhpf_1age8.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/geopolitical-spillover-assessing-the-impact-of-iran-israel-tensions-on-the-tanker-shipping-industry) | [Local Asset](../../../../../../corpus/07-signal/images/685138d048a6621448ff2f83_AD_4nXfyWnrAqaGoZd3WmaCU3w8y5kQnhzFaKbZTe4psKcb4avISgNco2g18CgHQCbix6iclldfy5lm_61HxX5qyqP2nmOLJsUv4xjTtD_TXyyDTQ_hvQ2I9gvGWZdSRg8jhpf_1age8.png)
 
 
 ## 3. Scenario Analysis
@@ -122,11 +122,11 @@ Closure of the Strait of Hormuz could trigger oil price spikes exceeding $100 pe
 ## FFA Market Signals a Sharp Rise Amid Middle East Tensions
 
 
-![Https://app.signalocean.com/tanker/dynamic/market-Prices-Tankers-Downloadable](../../images/685138d048a6621448ff2f86_AD_4nXd-ImeWSYl4LL_NyowSJlyzBqVeL9bkuNbmtTkQY9k70j5JpjBTR2hzIKmAgZvLEKE6ZzxtFxqjD146IXQuaHeULq7p1MZr8V99Qm9glZn_b8_EN7iokuA4oHxNv7MUOXHADHLA.png)
+![Https://app.signalocean.com/tanker/dynamic/market-Prices-Tankers-Downloadable](../../../../../../corpus/07-signal/images/685138d048a6621448ff2f86_AD_4nXd-ImeWSYl4LL_NyowSJlyzBqVeL9bkuNbmtTkQY9k70j5JpjBTR2hzIKmAgZvLEKE6ZzxtFxqjD146IXQuaHeULq7p1MZr8V99Qm9glZn_b8_EN7iokuA4oHxNv7MUOXHADHLA.png)
 
 > **Figure 6: Https://app.signalocean.com/tanker/dynamic/market-Prices-Tankers-Downloadable**  
 > *https://app.signalocean.com/tanker/dynamic/market-prices-tankers-downloadable*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/geopolitical-spillover-assessing-the-impact-of-iran-israel-tensions-on-the-tanker-shipping-industry) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/685138d048a6621448ff2f86_AD_4nXd-ImeWSYl4LL_NyowSJlyzBqVeL9bkuNbmtTkQY9k70j5JpjBTR2hzIKmAgZvLEKE6ZzxtFxqjD146IXQuaHeULq7p1MZr8V99Qm9glZn_b8_EN7iokuA4oHxNv7MUOXHADHLA.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/geopolitical-spillover-assessing-the-impact-of-iran-israel-tensions-on-the-tanker-shipping-industry) | [Local Asset](../../../../../../corpus/07-signal/images/685138d048a6621448ff2f86_AD_4nXd-ImeWSYl4LL_NyowSJlyzBqVeL9bkuNbmtTkQY9k70j5JpjBTR2hzIKmAgZvLEKE6ZzxtFxqjD146IXQuaHeULq7p1MZr8V99Qm9glZn_b8_EN7iokuA4oHxNv7MUOXHADHLA.png)
 
 Forward Freight Agreement (FFA) market analysts are projecting a significant increase in VLCC earnings on the Middle East Gulf to China route, with July rates expected to exceed $40,000 per day. These FFA projections reflect growing uncertainty and bullish sentiment in the tanker segment as geopolitical tensions escalate.
 
@@ -143,11 +143,11 @@ In a scenario where shipping passage disruptions occur, Iran could implement mea
 Iran, a significant global oil exporter, primarily sends its oil to China, a crucial partner in Asia. Notably, Iranian oil sales to China saw a rise in mid-March, preceding increased U.S. sanctions. This mid-March increase was the fourth set of sanctions Washington had placed on Iran's oil industry since February, when President Trump announced the reinstatement of a "maximum pressure" approach intended to completely stop the country's oil exports. Should Tehran escalate further by attacking tankers to disrupt shipping, similar to its actions during the Iran-Iraq war in the 1980s, Iranian oil revenues would suffer. This is because China is Iran's only major strategic oil trading partner, importing over 1 million barrels daily. In the case of an increased Iranian oil supply disruption, China could likely seek to strengthen its existing partnership with Brazilian oil companies; however, it is uncertain if this would be able to fully replace Iranian oil supplies.
 
 
-![Https://app.signalocean.com/tanker/dynamic/oilflows|](../../images/685138d048a6621448ff2f89_AD_4nXejmLoYb4jVmJ8p2d0uNZUgEprBi-yd7YX0g7iT7TyuiwxehaT5coD39z2Ys2M22-x6tZMVPo5Mws9xnEzkp52o8bmcO1-J3MCqWBjP9DSvfj6bAFJsQC_BTfWD-Zkv765mgL3urQ.png)
+![Https://app.signalocean.com/tanker/dynamic/oilflows|](../../../../../../corpus/07-signal/images/685138d048a6621448ff2f89_AD_4nXejmLoYb4jVmJ8p2d0uNZUgEprBi-yd7YX0g7iT7TyuiwxehaT5coD39z2Ys2M22-x6tZMVPo5Mws9xnEzkp52o8bmcO1-J3MCqWBjP9DSvfj6bAFJsQC_BTfWD-Zkv765mgL3urQ.png)
 
 > **Figure 7: Https://app.signalocean.com/tanker/dynamic/oilflows|**  
 > *https://app.signalocean.com/tanker/dynamic/oilflows|*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/geopolitical-spillover-assessing-the-impact-of-iran-israel-tensions-on-the-tanker-shipping-industry) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/685138d048a6621448ff2f89_AD_4nXejmLoYb4jVmJ8p2d0uNZUgEprBi-yd7YX0g7iT7TyuiwxehaT5coD39z2Ys2M22-x6tZMVPo5Mws9xnEzkp52o8bmcO1-J3MCqWBjP9DSvfj6bAFJsQC_BTfWD-Zkv765mgL3urQ.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/geopolitical-spillover-assessing-the-impact-of-iran-israel-tensions-on-the-tanker-shipping-industry) | [Local Asset](../../../../../../corpus/07-signal/images/685138d048a6621448ff2f89_AD_4nXejmLoYb4jVmJ8p2d0uNZUgEprBi-yd7YX0g7iT7TyuiwxehaT5coD39z2Ys2M22-x6tZMVPo5Mws9xnEzkp52o8bmcO1-J3MCqWBjP9DSvfj6bAFJsQC_BTfWD-Zkv765mgL3urQ.png)
 
 While the dashboard indicates that the **primary discharge area is "Singapore/Malaysia" (64.7%)**, this does **not reflect the final destination** of the cargo. In reality, most of this oil is **transshipped to China**, using Singapore and Malaysian ports as intermediate storage or blending points.
 

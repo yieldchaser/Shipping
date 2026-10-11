@@ -86,6 +86,13 @@ In today's tanker market, rate seasonality has become less apparent while the ma
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: In The Public Eye](../../../charts/poten/2007/poten_2007-06-08_in-the-public-eye_chart1.png)
+> **Chart on PDF page 1: Poten Tanker and Equity Indices**  
+> X-axis: Jan-00 to Jan-07  
+> Series: Poten Tanker Index, Poten Equity Index, Base  
+> *No image crop of this chart was saved; caption read from the PDF.*
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2007/poten_2007-06-08_in-the-public-eye_chart1.png)
+> **Chart on PDF page 2: Product Carrier Spot Market Rates**  
+> Unit: TCE UKC - USAC (37kt) · X-axis: Jan-05 to May-07  
+> Series: UKC - USAC TCE, Trendline  
+> *Source: Poten & Partners*  
+> *No image crop of this chart was saved; caption read from the PDF.*

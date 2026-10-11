@@ -32,10 +32,10 @@ Against this backdrop, global steel demand dynamics are becoming increasingly di
 
 The cumulative effect of these developments is a fundamental shift in the structure of the steel cycle. The market is moving away from a China-centric, construction-driven model towards a multi-regional growth framework in which incremental demand is generated across a wider geographical base. This may temper the pace of growth in traditional long-haul trades, yet it opens new avenues for tonne-mile generation. Against this backdrop, the strong start to the year in the Baltic indices is underpinned by a cautiously constructive mediumterm outlook, with future strength increasingly tied to trade reconfiguration rather than sheer volume expansion.
 
-![Στιγμιότυπο Οθόνης 2026 02 16 103059](assets/2026-02-16_global-trade_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_ee2a8f3bb2c7.png)
+![Στιγμιότυπο Οθόνης 2026 02 16 103059](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-02-16_global-trade_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_ee2a8f3bb2c7.png)
 
 > **Figure 1: Στιγμιότυπο Οθόνης 2026 02 16 103059**  
-> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-02-16_global-trade_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_ee2a8f3bb2c7.png)
+> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-02-16_global-trade_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_ee2a8f3bb2c7.png)
 
 Data source:[Doric](https://www.doric.gr/)
 

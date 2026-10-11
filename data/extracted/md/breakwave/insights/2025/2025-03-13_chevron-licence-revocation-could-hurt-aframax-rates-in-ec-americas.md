@@ -47,10 +47,10 @@ However, utilisation has plateaued since the start of February
 
 ➔ US tariffs on China and the current geopolitical climate have driven a softening on TD22 (US Gulf-to-East) rates
 
-![Στιγμιότυπο Οθόνης 2025 03 13 105526](assets/2025-03-13_chevron-licence-revocation-could-hurt-aframax-rates-in-ec-americas_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_9f875871f6c1.png)
+![Στιγμιότυπο Οθόνης 2025 03 13 105526](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-03-13_chevron-licence-revocation-could-hurt-aframax-rates-in-ec-americas_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_9f875871f6c1.png)
 
 > **Figure 1: Στιγμιότυπο Οθόνης 2025 03 13 105526**  
-> **Interactive Data & Source:** [Vortexa](https://www.vortexa.com//oil-gas-data-traders-analysts-data-scientists?gclid=Cj0KCQjw8_qRBhCXARIsAE2AtRZKOvMnbilZ_6_91d7huSFFy71pWLrnPwGwOHVzXsmsG-1a1mZnQw8aAt89EALw_wcB&hsa_acc=1782073842&hsa_ad=548425387665&hsa_cam=14746637662&hsa_grp=125038601902&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_src=g&hsa_tgt=dsa-1431852288425&hsa_ver=3&utm_campaign=%5BCD%5D%20-%20DSA%20-%20EMEA&utm_medium=cpc&utm_medium=ppc&utm_source=google&utm_source=adwords&utm_term=) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-03-13_chevron-licence-revocation-could-hurt-aframax-rates-in-ec-americas_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_9f875871f6c1.png)
+> **Interactive Data & Source:** [Vortexa](https://www.vortexa.com//oil-gas-data-traders-analysts-data-scientists?gclid=Cj0KCQjw8_qRBhCXARIsAE2AtRZKOvMnbilZ_6_91d7huSFFy71pWLrnPwGwOHVzXsmsG-1a1mZnQw8aAt89EALw_wcB&hsa_acc=1782073842&hsa_ad=548425387665&hsa_cam=14746637662&hsa_grp=125038601902&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_src=g&hsa_tgt=dsa-1431852288425&hsa_ver=3&utm_campaign=%5BCD%5D%20-%20DSA%20-%20EMEA&utm_medium=cpc&utm_medium=ppc&utm_source=google&utm_source=adwords&utm_term=) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-03-13_chevron-licence-revocation-could-hurt-aframax-rates-in-ec-americas_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_9f875871f6c1.png)
 
 ## Clean – East of Suez:india Exports Quickest to Respond to Reduced Risks for Red Sea Transits for E-W Middle Distillate Flows
 
@@ -66,10 +66,10 @@ Other major Middle East exporters of jet and diesel (Saudi Arabia, UAE, Qatar) h
 
 Even with the India-led February uptick, total voyages via the Red Sea remain well short of pre-2024 levels, and a recent increase in tensions between Israel-Palestine may prompt a resumption in Houthi attacks on vessels linked to western/Israeli trading activity
 
-![Στιγμιότυπο Οθόνης 2025 03 13 105800](assets/2025-03-13_chevron-licence-revocation-could-hurt-aframax-rates-in-ec-americas_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_305a824eccf4.png)
+![Στιγμιότυπο Οθόνης 2025 03 13 105800](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-03-13_chevron-licence-revocation-could-hurt-aframax-rates-in-ec-americas_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_305a824eccf4.png)
 
 > **Figure 2: Στιγμιότυπο Οθόνης 2025 03 13 105800**  
-> **Interactive Data & Source:** [Vortexa](https://www.vortexa.com//oil-gas-data-traders-analysts-data-scientists?gclid=Cj0KCQjw8_qRBhCXARIsAE2AtRZKOvMnbilZ_6_91d7huSFFy71pWLrnPwGwOHVzXsmsG-1a1mZnQw8aAt89EALw_wcB&hsa_acc=1782073842&hsa_ad=548425387665&hsa_cam=14746637662&hsa_grp=125038601902&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_src=g&hsa_tgt=dsa-1431852288425&hsa_ver=3&utm_campaign=%5BCD%5D%20-%20DSA%20-%20EMEA&utm_medium=cpc&utm_medium=ppc&utm_source=google&utm_source=adwords&utm_term=) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-03-13_chevron-licence-revocation-could-hurt-aframax-rates-in-ec-americas_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_305a824eccf4.png)
+> **Interactive Data & Source:** [Vortexa](https://www.vortexa.com//oil-gas-data-traders-analysts-data-scientists?gclid=Cj0KCQjw8_qRBhCXARIsAE2AtRZKOvMnbilZ_6_91d7huSFFy71pWLrnPwGwOHVzXsmsG-1a1mZnQw8aAt89EALw_wcB&hsa_acc=1782073842&hsa_ad=548425387665&hsa_cam=14746637662&hsa_grp=125038601902&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_src=g&hsa_tgt=dsa-1431852288425&hsa_ver=3&utm_campaign=%5BCD%5D%20-%20DSA%20-%20EMEA&utm_medium=cpc&utm_medium=ppc&utm_source=google&utm_source=adwords&utm_term=) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-03-13_chevron-licence-revocation-could-hurt-aframax-rates-in-ec-americas_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_305a824eccf4.png)
 
 ## Dirty – West of Suez:chevron Licence Revocation Could Dampen Aframax in the Us Market
 
@@ -85,10 +85,10 @@ Since the US waiver on Venezuelan crude expired in May 2024, 18 Aframax vessels 
 
 Moving into April, Venezuela’s crude exports are expected to shift to VLCCs for transportation to further destinations like Asia. With the dark fleet supply remaining tight, there is a possibility that mainstream VLCCs will enter these trades
 
-![Στιγμιότυπο Οθόνης 2025 03 13 110021](assets/2025-03-13_chevron-licence-revocation-could-hurt-aframax-rates-in-ec-americas_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_9e1affd160ce.png)
+![Στιγμιότυπο Οθόνης 2025 03 13 110021](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-03-13_chevron-licence-revocation-could-hurt-aframax-rates-in-ec-americas_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_9e1affd160ce.png)
 
 > **Figure 3: Στιγμιότυπο Οθόνης 2025 03 13 110021**  
-> **Interactive Data & Source:** [Vortexa](https://www.vortexa.com//oil-gas-data-traders-analysts-data-scientists?gclid=Cj0KCQjw8_qRBhCXARIsAE2AtRZKOvMnbilZ_6_91d7huSFFy71pWLrnPwGwOHVzXsmsG-1a1mZnQw8aAt89EALw_wcB&hsa_acc=1782073842&hsa_ad=548425387665&hsa_cam=14746637662&hsa_grp=125038601902&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_src=g&hsa_tgt=dsa-1431852288425&hsa_ver=3&utm_campaign=%5BCD%5D%20-%20DSA%20-%20EMEA&utm_medium=cpc&utm_medium=ppc&utm_source=google&utm_source=adwords&utm_term=) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-03-13_chevron-licence-revocation-could-hurt-aframax-rates-in-ec-americas_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_9e1affd160ce.png)
+> **Interactive Data & Source:** [Vortexa](https://www.vortexa.com//oil-gas-data-traders-analysts-data-scientists?gclid=Cj0KCQjw8_qRBhCXARIsAE2AtRZKOvMnbilZ_6_91d7huSFFy71pWLrnPwGwOHVzXsmsG-1a1mZnQw8aAt89EALw_wcB&hsa_acc=1782073842&hsa_ad=548425387665&hsa_cam=14746637662&hsa_grp=125038601902&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_src=g&hsa_tgt=dsa-1431852288425&hsa_ver=3&utm_campaign=%5BCD%5D%20-%20DSA%20-%20EMEA&utm_medium=cpc&utm_medium=ppc&utm_source=google&utm_source=adwords&utm_term=) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-03-13_chevron-licence-revocation-could-hurt-aframax-rates-in-ec-americas_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_9e1affd160ce.png)
 
 ## Clean – West of Suez:weak Growth Momentum Continues for Russia Mrs As Russia Cpp Exports (Excl. Diesel) Degrade
 
@@ -106,10 +106,10 @@ This supply-side pressure has incentivised MRs to reposition regionally, particu
 
 In the short-term, a resurgence in MR employment from such a repositioning is unlikely
 
-![Στιγμιότυπο Οθόνης 2025 03 13 110251](assets/2025-03-13_chevron-licence-revocation-could-hurt-aframax-rates-in-ec-americas_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_932b9c6cb657.png)
+![Στιγμιότυπο Οθόνης 2025 03 13 110251](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-03-13_chevron-licence-revocation-could-hurt-aframax-rates-in-ec-americas_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_932b9c6cb657.png)
 
 > **Figure 4: Στιγμιότυπο Οθόνης 2025 03 13 110251**  
-> **Interactive Data & Source:** [Vortexa](https://www.vortexa.com//oil-gas-data-traders-analysts-data-scientists?gclid=Cj0KCQjw8_qRBhCXARIsAE2AtRZKOvMnbilZ_6_91d7huSFFy71pWLrnPwGwOHVzXsmsG-1a1mZnQw8aAt89EALw_wcB&hsa_acc=1782073842&hsa_ad=548425387665&hsa_cam=14746637662&hsa_grp=125038601902&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_src=g&hsa_tgt=dsa-1431852288425&hsa_ver=3&utm_campaign=%5BCD%5D%20-%20DSA%20-%20EMEA&utm_medium=cpc&utm_medium=ppc&utm_source=google&utm_source=adwords&utm_term=) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-03-13_chevron-licence-revocation-could-hurt-aframax-rates-in-ec-americas_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_932b9c6cb657.png)
+> **Interactive Data & Source:** [Vortexa](https://www.vortexa.com//oil-gas-data-traders-analysts-data-scientists?gclid=Cj0KCQjw8_qRBhCXARIsAE2AtRZKOvMnbilZ_6_91d7huSFFy71pWLrnPwGwOHVzXsmsG-1a1mZnQw8aAt89EALw_wcB&hsa_acc=1782073842&hsa_ad=548425387665&hsa_cam=14746637662&hsa_grp=125038601902&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_src=g&hsa_tgt=dsa-1431852288425&hsa_ver=3&utm_campaign=%5BCD%5D%20-%20DSA%20-%20EMEA&utm_medium=cpc&utm_medium=ppc&utm_source=google&utm_source=adwords&utm_term=) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-03-13_chevron-licence-revocation-could-hurt-aframax-rates-in-ec-americas_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_932b9c6cb657.png)
 
 Data Source:[Vortexa](https://www.vortexa.com//oil-gas-data-traders-analysts-data-scientists?gclid=Cj0KCQjw8_qRBhCXARIsAE2AtRZKOvMnbilZ_6_91d7huSFFy71pWLrnPwGwOHVzXsmsG-1a1mZnQw8aAt89EALw_wcB&hsa_acc=1782073842&hsa_ad=548425387665&hsa_cam=14746637662&hsa_grp=125038601902&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_src=g&hsa_tgt=dsa-1431852288425&hsa_ver=3&utm_campaign=%5BCD%5D%20-%20DSA%20-%20EMEA&utm_medium=cpc&utm_medium=ppc&utm_source=google&utm_source=adwords&utm_term=)
 

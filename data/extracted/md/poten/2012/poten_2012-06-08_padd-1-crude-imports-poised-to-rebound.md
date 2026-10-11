@@ -28,10 +28,17 @@ Suezmaxes handle an overwhelming majority of spot crude oil volumes between West
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: PADD 1 Crude Imports Poised to Rebound](../../../charts/poten/2012/poten_2012-06-08_padd-1-crude-imports-poised-to-rebound_chart1.png)
+![Exhibit 1: PADD 1 Crude Oil Imports by Source](../../../charts/poten/2012/poten_2012-06-08_padd-1-crude-imports-poised-to-rebound_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2012/poten_2012-06-08_padd-1-crude-imports-poised-to-rebound_chart1.png)
+> **Exhibit 1: PADD 1 Crude Oil Imports by Source**  
+> Unit: ,000 bbl/d · X-axis: Jan-09 to Jan-12  
+> Series: West Africa, Arabian Gulf, Canada, Others  
+> *Source: EIA, Poten*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2012/poten_2012-06-08_padd-1-crude-imports-poised-to-rebound_chart1.png)
 
-![Exhibit 2: PADD 1 Crude Imports Poised to Rebound](../../../charts/poten/2012/poten_2012-06-08_padd-1-crude-imports-poised-to-rebound_chart2.png)
+![Exhibit 2: WAF-USAC Fixtures by Expected Discharge Date](../../../charts/poten/2012/poten_2012-06-08_padd-1-crude-imports-poised-to-rebound_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2012/poten_2012-06-08_padd-1-crude-imports-poised-to-rebound_chart2.png)
+> **Exhibit 2: WAF-USAC Fixtures by Expected Discharge Date**  
+> Unit: ,000 bbl/d · X-axis: Jun-11 to Jun-12  
+> Series: WAF-USAC Fixtures  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2012/poten_2012-06-08_padd-1-crude-imports-poised-to-rebound_chart2.png)

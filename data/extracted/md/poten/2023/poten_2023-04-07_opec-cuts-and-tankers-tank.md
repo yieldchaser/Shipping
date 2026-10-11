@@ -30,10 +30,18 @@ Since the formation of OPEC+, the cartel has implemented 7 production cuts (the 
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: OPEC Cuts and Tankers Tank](../../../charts/poten/2023/poten_2023-04-07_opec-cuts-and-tankers-tank_chart1.png)
+![Exhibit 1: Exports from OPEC By Destination](../../../charts/poten/2023/poten_2023-04-07_opec-cuts-and-tankers-tank_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2023/poten_2023-04-07_opec-cuts-and-tankers-tank_chart1.png)
+> **Exhibit 1: Exports from OPEC By Destination**  
+> Unit: Kbbl / day · X-axis: Jan-16 to Jan-23  
+> Series: China, India, Japan, Korea, Oth. Asia, Mediterranean, Americas, Atl., Other  
+> *Source: Lloyd's List Intelligence; Poten & Partners*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2023/poten_2023-04-07_opec-cuts-and-tankers-tank_chart1.png)
 
-![Exhibit 2: OPEC Cuts and Tankers Tank](../../../charts/poten/2023/poten_2023-04-07_opec-cuts-and-tankers-tank_chart2.png)
+![Exhibit 2: OPEC Cuts Vs VLCC AG-Far East Rates](../../../charts/poten/2023/poten_2023-04-07_opec-cuts-and-tankers-tank_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2023/poten_2023-04-07_opec-cuts-and-tankers-tank_chart2.png)
+> **Exhibit 2: OPEC Cuts Vs VLCC AG-Far East Rates**  
+> Unit: AG-FE TCE | OPEC Cut (Kbbl/d) · X-axis: 1/1/2016 to 1/1/2023  
+> Series: OPEC Cuts, VLCC: AG-FE TCE  
+> *Source: Lloyd's List Intelligence; Poten & Partners*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2023/poten_2023-04-07_opec-cuts-and-tankers-tank_chart2.png)

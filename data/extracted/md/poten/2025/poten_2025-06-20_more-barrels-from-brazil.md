@@ -28,10 +28,17 @@ The location of Brazil's oil production is advantageous for the tanker industry.
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: More Barrels From Brazil](../../../charts/poten/2025/poten_2025-06-20_more-barrels-from-brazil_chart1.png)
+![Exhibit 1: Brazil Crude Oil Exports by Destination](../../../charts/poten/2025/poten_2025-06-20_more-barrels-from-brazil_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2025/poten_2025-06-20_more-barrels-from-brazil_chart1.png)
+> **Exhibit 1: Brazil Crude Oil Exports by Destination**  
+> Unit: Kb/d · X-axis: Jan-17 to May-25  
+> Series: China, United States, Spain, Chile, India, Portugal, Netherlands, Singapore, Other  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2025/poten_2025-06-20_more-barrels-from-brazil_chart1.png)
 
-![Exhibit 2: More Barrels From Brazil](../../../charts/poten/2025/poten_2025-06-20_more-barrels-from-brazil_chart2.png)
+![Exhibit 2: Brazil Crude Oil Exports by Vessel Class](../../../charts/poten/2025/poten_2025-06-20_more-barrels-from-brazil_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2025/poten_2025-06-20_more-barrels-from-brazil_chart2.png)
+> **Exhibit 2: Brazil Crude Oil Exports by Vessel Class**  
+> Unit: Kb/d · X-axis: Jan-17 to May-25  
+> Series: VLCC, Suezmax / LR3, Aframax / LR2, Panamax / LR1, Other  
+> *Source: Vortexa*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2025/poten_2025-06-20_more-barrels-from-brazil_chart2.png)

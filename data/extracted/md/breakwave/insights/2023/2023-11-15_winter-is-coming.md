@@ -19,10 +19,10 @@ source_file: "corpus/03-breakwave/insights/2023/2023-11-15_winter-is-coming.html
 
 ---
 
-![Delos Tanker](assets/2023-11-15_winter-is-coming_img_delos-tanker_78943569c105.jpg)
+![Delos Tanker](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-11-15_winter-is-coming_img_delos-tanker_78943569c105.jpg)
 
 > **Figure 1: Delos Tanker**  
-> **Interactive Data & Source:** [Gibsons Co](https://www.gibsons.co.uk/market-reports) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-11-15_winter-is-coming_img_delos-tanker_78943569c105.jpg)
+> **Interactive Data & Source:** [Gibsons Co](https://www.gibsons.co.uk/market-reports) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-11-15_winter-is-coming_img_delos-tanker_78943569c105.jpg)
 
 In the crude tanker market, we have witnessed a return of spectacular volatility, with spot earnings on several key Suezmax and Aframax trades in the Atlantic Basin briefly spiking close or in some cases even above $100,000/day on a non-scrubber, non eco basis recently. VLCCs, the tanker segment most vulnerable to the Middle East OPEC+ production cuts, have also seen a sizable uplift in earnings, albeit perhaps not as impressive as the one experienced by smaller segments.
 
@@ -32,9 +32,9 @@ In recent days, crude tanker rates have started to soften, although they still r
 
 ## Russian Crude Exports in the West (Kbd)
 
-![Αρχείο Λήψης (6)](assets/2023-11-15_winter-is-coming_img_ceb1cf81cf87ceb5ceafcebfcebbceaecf88_a8c2289c4ef9.png)
+![Αρχείο Λήψης (6)](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-11-15_winter-is-coming_img_ceb1cf81cf87ceb5ceafcebfcebbceaecf88_a8c2289c4ef9.png)
 
 > **Figure 2: Αρχείο Λήψης (6)**  
-> **Interactive Data & Source:** [Gibsons Co](https://www.gibsons.co.uk/market-reports) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-11-15_winter-is-coming_img_ceb1cf81cf87ceb5ceafcebfcebbceaecf88_a8c2289c4ef9.png)
+> **Interactive Data & Source:** [Gibsons Co](https://www.gibsons.co.uk/market-reports) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-11-15_winter-is-coming_img_ceb1cf81cf87ceb5ceafcebfcebbceaecf88_a8c2289c4ef9.png)
 
 Data source:[Gibson Shipbrokers](https://www.gibsons.co.uk/market-reports)

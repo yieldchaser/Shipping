@@ -70,6 +70,19 @@ The current fill rate of around 75,000 bpd requires the dedicated service of abo
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: Topping Off the U.S. Strategic Petroleum Reserve](../../../charts/poten/2005/poten_2005-06-17_topping-off-the-us-strategic-petroleum-reserve_chart1.png)
+> **Chart on PDF page 1: U.S. Strategic Petroleum Reserve**  
+> Unit: MM Bbls · X-axis: Jan-78 to Jan-04  
+> Series: U.S. Strategic Petroleum Reserve  
+> *Source: EIA/Poten*  
+> *No image crop of this chart was saved; caption read from the PDF.*
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2005/poten_2005-06-17_topping-off-the-us-strategic-petroleum-reserve_chart1.png)
+> **Chart on PDF page 2: U.S. Commercial Crude Oil Inventories**  
+> Unit: MM Bbls · X-axis: Jan-78 to Jan-04  
+> Series: U.S. Commercial Crude Oil Inventories  
+> *Source: EIA/Poten*  
+> *No image crop of this chart was saved; caption read from the PDF.*
+
+> **Chart on PDF page 3: U.S. Private & Public Oil Inventories**  
+> Unit: Mm Bbls · X-axis: Jan-78 to Jan-04  
+> Series: Oil Company, Government  
+> *No image crop of this chart was saved; caption read from the PDF.*

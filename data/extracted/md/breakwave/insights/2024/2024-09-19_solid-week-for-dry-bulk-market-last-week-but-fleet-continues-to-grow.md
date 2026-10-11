@@ -30,10 +30,10 @@ In another positive development looking to the near term, the United States Depa
 
 It is helpful that more grain cargoes are now expected, but nevertheless a year-on-year contraction in global grain trade is still expected. So far this year, the dry bulk fleet has already grown by approximately 275 vessels, and any trade contraction remains problematic. As we discussed in our Commodore Research's most recent Weekly Dry Bulk Report, the fleet in August most recently grew by a net addition of 37 vessels.
 
-![Chart 1](assets/2024-09-19_solid-week-for-dry-bulk-market-last-week-but-fleet-continues-to-grow_img_chart1_aa3cd2aa02c5.jpg)
+![Chart 1](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-09-19_solid-week-for-dry-bulk-market-last-week-but-fleet-continues-to-grow_img_chart1_aa3cd2aa02c5.jpg)
 
 > **Figure 1: Chart 1**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-09-19_solid-week-for-dry-bulk-market-last-week-but-fleet-continues-to-grow_img_chart1_aa3cd2aa02c5.jpg)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-09-19_solid-week-for-dry-bulk-market-last-week-but-fleet-continues-to-grow_img_chart1_aa3cd2aa02c5.jpg)
 
 ---
 

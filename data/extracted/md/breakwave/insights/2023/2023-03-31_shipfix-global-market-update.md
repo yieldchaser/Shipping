@@ -19,10 +19,10 @@ source_file: "corpus/03-breakwave/insights/2023/2023-03-31_shipfix-global-market
 
 ---
 
-[![1 (7)](assets/2023-03-31_shipfix-global-market-update_img_128729_6a1eba4cf887.png)
+[![1 (7)](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-03-31_shipfix-global-market-update_img_128729_6a1eba4cf887.png)
 
 > **Figure 1: 1 (7)**  
-> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/in/ulf-bergman-81570425/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-03-31_shipfix-global-market-update_img_128729_6a1eba4cf887.png)](https://www.breakwaveadvisors.com/insights/2023/3/31/did-you-know)
+> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/in/ulf-bergman-81570425/) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-03-31_shipfix-global-market-update_img_128729_6a1eba4cf887.png)](https://www.breakwaveadvisors.com/insights/2023/3/31/did-you-know)
 
 *By*[*Ulf Bergman*](https://www.linkedin.com/in/ulf-bergman-81570425/)
 
@@ -60,9 +60,9 @@ Today’s release of robust Chinese PMI is putting the world’s second-largest 
 
 Demand for copper is usually seen as a leading indicator of economic growth. Hence, recent months’ high cargo order volumes for copper discharging in China lend support to the positive outlook for the Chinese economy. While aggregate volumes look set for a minor decline in March compared to February, they still remain respectable in the context of the past few years. Cargo order volumes have also been trending higher during the past few weeks, suggesting that copper prices will continue to rebound in the near term.
 
-![Market Chart 2](assets/2023-03-31_shipfix-global-market-update_img_unnamed-2023-03-31t140207586_735fe03066ce.png)
+![Market Chart 2](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-03-31_shipfix-global-market-update_img_unnamed-2023-03-31t140207586_735fe03066ce.png)
 
 > **Figure 2: Market Chart 2**  
-> **Interactive Data & Source:** [Shipfix](https://shipfix.com/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-03-31_shipfix-global-market-update_img_unnamed-2023-03-31t140207586_735fe03066ce.png)
+> **Interactive Data & Source:** [Shipfix](https://shipfix.com/) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-03-31_shipfix-global-market-update_img_unnamed-2023-03-31t140207586_735fe03066ce.png)
 
 Data Source:[Shipfix](https://shipfix.com/)

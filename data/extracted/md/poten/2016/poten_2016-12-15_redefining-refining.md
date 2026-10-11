@@ -28,10 +28,18 @@ OPEC expects limited growth in product movements in the medium-term as some new 
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: Redefining Refining](../../../charts/poten/2016/poten_2016-12-15_redefining-refining_chart1.png)
+![Exhibit 1: Refining Capacity and Expansion (2017-2021)](../../../charts/poten/2016/poten_2016-12-15_redefining-refining_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2016/poten_2016-12-15_redefining-refining_chart1.png)
+> **Exhibit 1: Refining Capacity and Expansion (2017-2021)**  
+> Unit: MB/d · X-axis: U.S. & Canada to Other Asia Pac.  
+> Series: Existing, Additions (2017-'21)  
+> *Source: OPEC*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2016/poten_2016-12-15_redefining-refining_chart1.png)
 
-![Exhibit 2: Redefining Refining](../../../charts/poten/2016/poten_2016-12-15_redefining-refining_chart2.png)
+![Exhibit 2: Refinery Capacity Additions by Region](../../../charts/poten/2016/poten_2016-12-15_redefining-refining_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2016/poten_2016-12-15_redefining-refining_chart2.png)
+> **Exhibit 2: Refinery Capacity Additions by Region**  
+> Unit: MB/d · X-axis: 2017 to 2021  
+> Series: U.S. & Canada, Latin America, Africa, Europe, Russia & Caspian, Middle East, China, Other Asia Pac.  
+> *Source: OPEC*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2016/poten_2016-12-15_redefining-refining_chart2.png)

@@ -30,10 +30,18 @@ For the product tanker market, strong gasoline demand in the U.S. could be a pos
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: U.S. Driving Seasonality](../../../charts/poten/2017/poten_2017-06-02_us-driving-seasonality_chart1.png)
+![Exhibit 1: Weekly U.S. Gasoline Sales](../../../charts/poten/2017/poten_2017-06-02_us-driving-seasonality_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2017/poten_2017-06-02_us-driving-seasonality_chart1.png)
+> **Exhibit 1: Weekly U.S. Gasoline Sales**  
+> Unit: Kb/d · X-axis: 1 to 51  
+> Series: 5 yr Range, 2016, 2017  
+> *Source: EIA*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2017/poten_2017-06-02_us-driving-seasonality_chart1.png)
 
-![Exhibit 2: U.S. Driving Seasonality](../../../charts/poten/2017/poten_2017-06-02_us-driving-seasonality_chart2.png)
+![Exhibit 2: PADD 1 Gasoline Imports: Summer vs Other Months](../../../charts/poten/2017/poten_2017-06-02_us-driving-seasonality_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2017/poten_2017-06-02_us-driving-seasonality_chart2.png)
+> **Exhibit 2: PADD 1 Gasoline Imports: Summer vs Other Months**  
+> Unit: KB/d | KB/d · X-axis: 2005 to 2016  
+> Series: Summer, Rest of Year, Difference  
+> *Source: EIA*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2017/poten_2017-06-02_us-driving-seasonality_chart2.png)

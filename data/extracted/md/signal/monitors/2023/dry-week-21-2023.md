@@ -32,7 +32,7 @@ tags:
 
 > **Figure 1: Data Source: The Signal Ocean Platform, Dry Bulk Flows Https://app.signalocean.com/dry/dynamic/drybulkflows**  
 > *Data Source: The Signal Ocean Platform, Dry Bulk Flows https://app.signalocean.com/dry/dynamic/drybulkflows*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/dry-week-21-2023) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/646f38c09ef0ffbf89d9d400_ukraine grains logo.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/dry-week-21-2023) | [Local Asset](../../../../../../corpus/07-signal/images/646f38c09ef0ffbf89d9d400_ukraine%20grains%20logo.png)
 
 In the closing days of May, the freight market experienced a notable slowdown in momentum, primarily observed in the Capesize segment. Conversely, the smaller vessel size segments have maintained a relatively stable outlook. However, uncertainty continues to prevail as the demand picture remains relatively weak. Growing concerns surround China's economic growth and its iron ore import needs, as there are indications of moderation in the iron ore spot price.
 

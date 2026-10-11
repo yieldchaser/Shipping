@@ -24,10 +24,10 @@ Rising tensions in the Middle East continue to hang over energy markets. Metals 
 
 *By*[*Daniel Hynes*](https://www.linkedin.com/in/dahynes/)
 
-![Στιγμιότυπο Οθόνης 2024 10 14 110523](assets/2024-10-14_markets-steady-as-they-ponder-geopolitical-risks-and-stimulus-measures_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_ef8e3156474e.png)
+![Στιγμιότυπο Οθόνης 2024 10 14 110523](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-10-14_markets-steady-as-they-ponder-geopolitical-risks-and-stimulus-measures_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_ef8e3156474e.png)
 
 > **Figure 1: Στιγμιότυπο Οθόνης 2024 10 14 110523**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-10-14_markets-steady-as-they-ponder-geopolitical-risks-and-stimulus-measures_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_ef8e3156474e.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-10-14_markets-steady-as-they-ponder-geopolitical-risks-and-stimulus-measures_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_ef8e3156474e.png)
 
 ### Market Commentary
 
@@ -35,16 +35,16 @@ Rising tensions in the Middle East continue to hang over energy markets. Metals 
 
 Global gas prices remained volatile amid geopolitical risks to supply.**European gas benchmark**futures failed to hold gains from earlier in the week as traders ponder what a potential response from Israel would mean for supply. Concerns remain around the risk of closure of the Strait of Hormuz, a key waterway for LNG shipments. For now, a mild start to winter is helping assuage some of these worries about tighter supplies.**North Asian LNG**prices traded around USD13/mmBtu amid other supply side issues. Two production trains went offline at the Bintulu plant in Malaysia. This was partly mitigated by the No 2 production line at the Ichthys LNG export plant in Australia restarting last week.
 
-**Copper**surged last week on hopes that China’s recently announced stimulus measures would boost demand. So far, though, they have fallen well short of expectations. Despite the lack of details, the PBoC’s effective support of equity markets could ultimately be[**beneficial to commodity markets**](../pdfs/2024-10-14_markets-steady-as-they-ponder-geopolitical-risks-and-stimulus-measures_commodity-call-confidence-booster_d6b939800d19.pdf). A combination of stability in the real estate sector and stronger equity markets could see consumer sentiment rebound, which could bolster domestic confidence enough to lead to an economic rebound and stronger demand for commodities.**Aluminium**gained late in the week after Emirates Global Aluminium suspended operations at its bauxite mine in Guinea. The raw material is used to feed its alumina refinery in Abu Dhabi and is then converted into metal. The stoppage follows several other supply curtailments at mining operations at a time of strong demand.
+**Copper**surged last week on hopes that China’s recently announced stimulus measures would boost demand. So far, though, they have fallen well short of expectations. Despite the lack of details, the PBoC’s effective support of equity markets could ultimately be[**beneficial to commodity markets**](https://research.anz.com/file/Commodity_Call_confidence_booster.pdf?docRef=48422b13-3f3a-4917-9ed9-719f647b8af7&ch=2). A combination of stability in the real estate sector and stronger equity markets could see consumer sentiment rebound, which could bolster domestic confidence enough to lead to an economic rebound and stronger demand for commodities.**Aluminium**gained late in the week after Emirates Global Aluminium suspended operations at its bauxite mine in Guinea. The raw material is used to feed its alumina refinery in Abu Dhabi and is then converted into metal. The stoppage follows several other supply curtailments at mining operations at a time of strong demand.
 
 **Iron ore**ended the week higher amid uncertainty over Beijing’s next move to support its economy. While officials have repeatedly said they will support the real estate market, little detail is available of any additional measures they will be implementing. Chinese steel rebar prices have continued to lift, suggesting the recent weak conditions are easing.
 
 **Gold**prices remained steady as investors took stock of recent data that suggests the US Fed may not need to cut as aggressively as it did at the last meeting.
 
-![Στιγμιότυπο Οθόνης 2024 10 14 110651](assets/2024-10-14_markets-steady-as-they-ponder-geopolitical-risks-and-stimulus-measures_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_384dd0988921.png)
+![Στιγμιότυπο Οθόνης 2024 10 14 110651](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-10-14_markets-steady-as-they-ponder-geopolitical-risks-and-stimulus-measures_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_384dd0988921.png)
 
 > **Figure 2: Στιγμιότυπο Οθόνης 2024 10 14 110651**  
-> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-10-14_markets-steady-as-they-ponder-geopolitical-risks-and-stimulus-measures_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_384dd0988921.png)
+> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-10-14_markets-steady-as-they-ponder-geopolitical-risks-and-stimulus-measures_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_384dd0988921.png)
 
 Data source:[Commodities Wrap](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI)
 

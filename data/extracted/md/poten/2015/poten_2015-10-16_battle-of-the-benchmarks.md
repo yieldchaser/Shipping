@@ -32,10 +32,18 @@ Once more of the term contracts expire, it may become increasingly advantageous 
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: Battle of the Benchmarks](../../../charts/poten/2015/poten_2015-10-16_battle-of-the-benchmarks_chart1.png)
+![Exhibit 1: WTI vs Brent Prices](../../../charts/poten/2015/poten_2015-10-16_battle-of-the-benchmarks_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2015/poten_2015-10-16_battle-of-the-benchmarks_chart1.png)
+> **Exhibit 1: WTI vs Brent Prices**  
+> Unit: $/bbl | Spread: $/bbl · X-axis: Jan-12 to Jul-15  
+> Series: WTI, Brent, Spread  
+> *Source: Bloomberg*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2015/poten_2015-10-16_battle-of-the-benchmarks_chart1.png)
 
-![Exhibit 2: Battle of the Benchmarks](../../../charts/poten/2015/poten_2015-10-16_battle-of-the-benchmarks_chart2.png)
+![Exhibit 2: PADD 1 Crude Imports from West Africa](../../../charts/poten/2015/poten_2015-10-16_battle-of-the-benchmarks_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2015/poten_2015-10-16_battle-of-the-benchmarks_chart2.png)
+> **Exhibit 2: PADD 1 Crude Imports from West Africa**  
+> Unit: Kb/d · X-axis: 2011-01 to 2015-08  
+> Series: EIA Imports, Est. based on BoL  
+> *Source: EIA, Poten & Partners*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2015/poten_2015-10-16_battle-of-the-benchmarks_chart2.png)

@@ -42,26 +42,26 @@ The “foreign tax” is particularly worrying for foreign investors, especially
 
 On the one hand, the policy is consistent with a weaker Dollar as a way to revive manufacturing and reduce trade deficits. A lower Dollar will help American companies export less and import only the bare necessities. Stephen Miran, the President’s Chair of the Council of Economic Advisers is on the record that a weaker Dollar is the best policy, and Treasury Secretary (and possible Fed pick) Scott Bessent has often suggested that there’s no alternative to the Dollar as the global reserve and to American global leadership. In other words, the US government will push for whatever it can get out of the Dollar’s status, in the belief that its position is, for the time being unassailable. There will always be demand for Dollars and for Treasuries, especially around the 5%.
 
-![Market Chart 1](assets/2025-06-12_would-you-still-buy-a-us-treasury-at-5-probably-yes_img_image001_8650ade01dce.png)
+![Market Chart 1](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-06-12_would-you-still-buy-a-us-treasury-at-5-probably-yes_img_image001_8650ade01dce.png)
 
 > **Figure 1: Market Chart 1**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-06-12_would-you-still-buy-a-us-treasury-at-5-probably-yes_img_image001_8650ade01dce.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-06-12_would-you-still-buy-a-us-treasury-at-5-probably-yes_img_image001_8650ade01dce.png)
 
 On the other hand, the US’s net investments (assets less liabilities) deficit, is very wide. The country depends on foreign money significantly to keep itself funded.
 
-![Market Chart 2](assets/2025-06-12_would-you-still-buy-a-us-treasury-at-5-probably-yes_img_image002_8300bac4a854.png)
+![Market Chart 2](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-06-12_would-you-still-buy-a-us-treasury-at-5-probably-yes_img_image002_8300bac4a854.png)
 
 > **Figure 2: Market Chart 2**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-06-12_would-you-still-buy-a-us-treasury-at-5-probably-yes_img_image002_8300bac4a854.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-06-12_would-you-still-buy-a-us-treasury-at-5-probably-yes_img_image002_8300bac4a854.png)
 
 Up to a point, some of that can be substituted with simple printing by the Fed. The US central bank already owns 15% of all US debt, and could add to that, pushing the Dollar even lower. But, in the words of Kenneth Rogoff, these actions will simply compel competitive economies to find ways to shift away from the Dollar faster, accelerating its decline.
 
 From an investor standpoint, the question is now clear: will investors seek other “Risk Free” investments, like Swiss Bonds (which are again in negative-yielding territory, but have nowhere near the issuance capacity to supplant the Treasury) or the Bund or even real assets (gold, real estate, inflation-linked securities).
 
-![Market Chart 3](assets/2025-06-12_would-you-still-buy-a-us-treasury-at-5-probably-yes_img_image003_10ee969fa6e1.png)
+![Market Chart 3](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-06-12_would-you-still-buy-a-us-treasury-at-5-probably-yes_img_image003_10ee969fa6e1.png)
 
 > **Figure 3: Market Chart 3**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-06-12_would-you-still-buy-a-us-treasury-at-5-probably-yes_img_image003_10ee969fa6e1.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-06-12_would-you-still-buy-a-us-treasury-at-5-probably-yes_img_image003_10ee969fa6e1.png)
 
 Or will they behaviourally accept that the US’s financial system advantage is so big, that the government can afford to greatly lean on it and simply try to find more tax-efficient ways to go about their business.
 

@@ -30,10 +30,17 @@ Ordering will pick up at some point. Some brave owners will dive in, and others 
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: The Boom Before the Bust](../../../charts/poten/2023/poten_2023-05-19_the-boom-before-the-bust_chart1.png)
+![Exhibit 1: Tanker Ordering](../../../charts/poten/2023/poten_2023-05-19_the-boom-before-the-bust_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2023/poten_2023-05-19_the-boom-before-the-bust_chart1.png)
+> **Exhibit 1: Tanker Ordering**  
+> Unit: DWT | $/day · X-axis: 2000 to 2023  
+> Series: VLCC, Suezmax, Aframax/LR2, Panamax/LR1, MR/Handy, VLCC TCE: AG-FE (HFO)  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2023/poten_2023-05-19_the-boom-before-the-bust_chart1.png)
 
-![Exhibit 2: The Boom Before the Bust](../../../charts/poten/2023/poten_2023-05-19_the-boom-before-the-bust_chart2.png)
+![Exhibit 2: Tanker Recycling](../../../charts/poten/2023/poten_2023-05-19_the-boom-before-the-bust_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2023/poten_2023-05-19_the-boom-before-the-bust_chart2.png)
+> **Exhibit 2: Tanker Recycling**  
+> Unit: DWT | $/day · X-axis: 2000 to 2023  
+> Series: VLCC, Suezmax, Aframax/LR2, Panamax/LR1, MR/Handy, VLCC TCE: AG-FE (HFO)  
+> *Source: Poten & Partners*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2023/poten_2023-05-19_the-boom-before-the-bust_chart2.png)

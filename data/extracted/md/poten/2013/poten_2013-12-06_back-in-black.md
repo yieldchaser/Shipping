@@ -50,6 +50,9 @@ products offered by our Marine Projects & Consulting department or to contact ou
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: Back In Black](../../../charts/poten/2013/poten_2013-12-06_back-in-black_chart1.png)
+![Exhibit 1: Spot VLCC Rates Arabian Gulf to Far East (260kt)](../../../charts/poten/2013/poten_2013-12-06_back-in-black_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2013/poten_2013-12-06_back-in-black_chart1.png)
+> **Exhibit 1: Spot VLCC Rates Arabian Gulf to Far East (260kt)**  
+> Unit: Time Charter Equivalent ($/day) · X-axis: Jan to Dec  
+> Series: 2003 - 2007 Avg., 2009 - 2013 Avg., 1996 - 2013 Avg., 2008, 2013  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2013/poten_2013-12-06_back-in-black_chart1.png)

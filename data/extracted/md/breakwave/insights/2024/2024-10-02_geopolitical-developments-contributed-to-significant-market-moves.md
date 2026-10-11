@@ -64,10 +64,10 @@ After several months of relative stability, global cargo order volumes for coppe
 
 After a period of declining Chinese demand for copper shipments, recent weeks have seen a tendency towards a rebound in cargo order volumes due for discharge in Chinese ports. While last week’s robust volumes could have been an effect of the upcoming Golden Week holidays, recent announcements that the Chinese leadership will introduce more support measures for the world’s second-largest economy may also have contributed to the increase. Still, the aggregate cargo order volumes for September suggest that copper prices will remain elevated.
 
-![Στιγμιότυπο Οθόνης 2024 10 02 162145](assets/2024-10-02_geopolitical-developments-contributed-to-significant-market-moves_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_a20266fe4ae3.png)
+![Στιγμιότυπο Οθόνης 2024 10 02 162145](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-10-02_geopolitical-developments-contributed-to-significant-market-moves_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_a20266fe4ae3.png)
 
 > **Figure 1: Στιγμιότυπο Οθόνης 2024 10 02 162145**  
-> **Interactive Data & Source:** [Shipfix](https://shipfix.com/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-10-02_geopolitical-developments-contributed-to-significant-market-moves_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_a20266fe4ae3.png)
+> **Interactive Data & Source:** [Shipfix](https://shipfix.com/) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-10-02_geopolitical-developments-contributed-to-significant-market-moves_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_a20266fe4ae3.png)
 
 Data Source:[Shipfix](https://shipfix.com/)
 

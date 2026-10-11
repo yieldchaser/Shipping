@@ -30,10 +30,10 @@ The primary focus of investors right now is the possibility of runaway inflation
 
 Which brings us back to the original issue. Risk management, which can only begin when investors are comfortable with risk. But markets have forgotten how to deal with risk. For the past few years many fund managers found themselves under pressure from outflows due to competing passive funds. A lot of the less entrenched operators had to take on increased risk, in full knowledge that the Fed would provide a much better and cheaper blanket risk hedge than they ever could. This world turned on its head, when inflation numbers shot up and wage growth followed.
 
-![Unsplash Image Skfy8ljb7x4](assets/2022-02-22_a-trendless-market-and-a-brave-new-world_img_unsplash-image-skfy8ljb7x4_ca4e0b3b2d09.jpg)
+![Unsplash Image Skfy8ljb7x4](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-02-22_a-trendless-market-and-a-brave-new-world_img_unsplash-image-skfy8ljb7x4_ca4e0b3b2d09.jpg)
 
 > **Figure 1: Unsplash Image Skfy8ljb7x4**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-02-22_a-trendless-market-and-a-brave-new-world_img_unsplash-image-skfy8ljb7x4_ca4e0b3b2d09.jpg)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-02-22_a-trendless-market-and-a-brave-new-world_img_unsplash-image-skfy8ljb7x4_ca4e0b3b2d09.jpg)
 
 ### We Feel That the Market Is Not in a Transitional Phase, But Rather at a Crossroads.
 
@@ -47,10 +47,10 @@ Our take is that the world tends to move forward not backward. Both of these sce
 
 A world at the cusp of the New Green Economy and more technological revolutions wrought by Blockchain, quantum computing and possibly a new form of energy that would obliterate the internal combustion engine. A path where nations realise that globalisation can’t be scaled back and that this interconnected world needs new economic and political theories if the transition to the next phase of the nation-state is not to become dystopia. In this world, central planning is subordinated to the bottom-up forces of the economy, and the painting that emerges will not be one driven by policy but the one of the most prevailing winds. Companies understand this and focus on positioning for the next decade. Some prepare their “metaverse” and “Blockchain” strategies. Some focus on evolving hybrid work and a new way of managing.
 
-![Unsplash Image Q1p7bh3shj8](assets/2022-02-22_a-trendless-market-and-a-brave-new-world_img_unsplash-image-q1p7bh3shj8_6c4194f0d2ba.jpg)
+![Unsplash Image Q1p7bh3shj8](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-02-22_a-trendless-market-and-a-brave-new-world_img_unsplash-image-q1p7bh3shj8_6c4194f0d2ba.jpg)
 
 > **Figure 2: Unsplash Image Q1p7bh3shj8**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-02-22_a-trendless-market-and-a-brave-new-world_img_unsplash-image-q1p7bh3shj8_6c4194f0d2ba.jpg)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-02-22_a-trendless-market-and-a-brave-new-world_img_unsplash-image-q1p7bh3shj8_6c4194f0d2ba.jpg)
 
 Meanwhile, supply chains are being repaired without -or even in spite of- national strategies, showcasing exactly how potent the power of businesses and innovation is to drive the economy. New theories will come at the backwash of huge changes. They will describe how the new world can evolve from the chaos of the old and how policy makers can restore civic supremacy.
 

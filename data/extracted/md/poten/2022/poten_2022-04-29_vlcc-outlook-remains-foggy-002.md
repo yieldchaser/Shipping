@@ -36,10 +36,18 @@ However, for a full recovery of the VLCC market, several other factors would lik
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: VLCC Outlook Remains Foggy 002](../../../charts/poten/2022/poten_2022-04-29_vlcc-outlook-remains-foggy-002_chart1.png)
+![Exhibit 1: TonMile Demand From VLCC Exports By Load Region](../../../charts/poten/2022/poten_2022-04-29_vlcc-outlook-remains-foggy-002_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2022/poten_2022-04-29_vlcc-outlook-remains-foggy-002_chart1.png)
+> **Exhibit 1: TonMile Demand From VLCC Exports By Load Region**  
+> Unit: TonMiles (Mln) per Day · X-axis: Jan-18 to Mar-22  
+> Series: Middle East, West Africa, Mediterranean, Americas, Atlantic, UKC/Baltic, Asia/Australia, Americas, Pacific  
+> *Source: Lloyd’s List Intelligence*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2022/poten_2022-04-29_vlcc-outlook-remains-foggy-002_chart1.png)
 
-![Exhibit 2: VLCC Outlook Remains Foggy 002](../../../charts/poten/2022/poten_2022-04-29_vlcc-outlook-remains-foggy-002_chart2.png)
+![Exhibit 2: VLCC TCE (AG - FE; 270,000t; Scrubber Equipped)](../../../charts/poten/2022/poten_2022-04-29_vlcc-outlook-remains-foggy-002_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2022/poten_2022-04-29_vlcc-outlook-remains-foggy-002_chart2.png)
+> **Exhibit 2: VLCC TCE (AG - FE; 270,000t; Scrubber Equipped)**  
+> Unit: USD/Day · X-axis: 1-Sep-21 to 1-Apr-22  
+> Series: VLCC TCE (AG - FE, 270,000t, Scrubber Equipped)  
+> *Source: Poten & Partners*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2022/poten_2022-04-29_vlcc-outlook-remains-foggy-002_chart2.png)

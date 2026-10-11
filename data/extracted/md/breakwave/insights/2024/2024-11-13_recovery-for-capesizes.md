@@ -64,10 +64,10 @@ The weak demand for the supramaxes has, to some extent, been offset by pressure 
 
 With the recent weak demand situation and lack of indications that cargo order volumes are picking up, there is little to suggest that the supramaxes will see a revival in the short term. While the past week’s tonnage supply situation may provide some limited offset, any such development looks set to be negligible.
 
-![Market Chart 1](assets/2024-11-13_recovery-for-capesizes_img_unnamed_7a4fef839e47.png)
+![Market Chart 1](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-11-13_recovery-for-capesizes_img_unnamed_7a4fef839e47.png)
 
 > **Figure 1: Market Chart 1**  
-> **Interactive Data & Source:** [Shipfix](https://shipfix.com/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-11-13_recovery-for-capesizes_img_unnamed_7a4fef839e47.png)
+> **Interactive Data & Source:** [Shipfix](https://shipfix.com/) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-11-13_recovery-for-capesizes_img_unnamed_7a4fef839e47.png)
 
 Data Source:[Shipfix](https://shipfix.com/)
 

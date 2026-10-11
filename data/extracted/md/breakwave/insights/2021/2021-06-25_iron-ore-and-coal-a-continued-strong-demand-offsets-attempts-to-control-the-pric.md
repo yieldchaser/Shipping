@@ -25,7 +25,7 @@ source_file: "corpus/03-breakwave/insights/2021/2021-06-25_iron-ore-and-coal-a-c
 ![Unsplash Image Ib7jwp7m0ia](assets/2021-06-25_iron-ore-and-coal-a-continued-strong-demand-offsets-attempts-to-control-the-pric_img_unsplash-image-ib7jwp7m0ia_f5edd8adff46.jpg)
 
 > **Figure 1: Unsplash Image Ib7jwp7m0ia**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2021/assets/2021-06-25_iron-ore-and-coal-a-continued-strong-demand-offsets-attempts-to-control-the-pric_img_unsplash-image-ib7jwp7m0ia_f5edd8adff46.jpg)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-06-25_iron-ore-and-coal-a-continued-strong-demand-offsets-attempts-to-control-the-pric_img_unsplash-image-ib7jwp7m0ia_f5edd8adff46.jpg)
 
 That the Chinese leadership has a desire to bring commodity prices under control is by now well documented, with various measures implemented to bring this about. If the attempts are successful in the long run remain to be seen. Some observers are sceptical about any lasting effects, with Glencore’s outgoing Chief Executive Officer, Ivan Glasenberg, saying earlier in the week that the Chinese efforts to cool rising commodity prices cannot be sustained for long. He suggested that any effects are likely to be short-lived, as the fundamentals are supportive of the current high price levels.
 
@@ -38,7 +38,7 @@ Despite the output restrictions and the ongoing political tensions, preliminary 
 ![Ulf 1 6.25](assets/2021-06-25_iron-ore-and-coal-a-continued-strong-demand-offsets-attempts-to-control-the-pric_img_ulf1625_49a1a36269a4.png)
 
 > **Figure 2: Ulf 1 6.25**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2021/assets/2021-06-25_iron-ore-and-coal-a-continued-strong-demand-offsets-attempts-to-control-the-pric_img_ulf1625_49a1a36269a4.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-06-25_iron-ore-and-coal-a-continued-strong-demand-offsets-attempts-to-control-the-pric_img_ulf1625_49a1a36269a4.png)
 
 If iron ore price developments failed to meet Beijing’s expectations of a larger decline, coal prices must be seen as an outright disappointment. While domestic prices may have shown some restraint, international coal prices have steadily risen and are now trading at levels not seen since the early parts of 2011. While the commodity rapidly is earning a public reputation as the world’s least wanted energy source, ongoing supply constraints and higher demand have more than offset China’s efforts to curb the surging prices. The rising temperatures in the Northern Hemisphere have increased demand from Japan and South Korea, while demand from the Chinese steel industry remains strong.
 
@@ -47,14 +47,14 @@ If iron ore price developments failed to meet Beijing’s expectations of a larg
 ![Ulf 2 6.25](assets/2021-06-25_iron-ore-and-coal-a-continued-strong-demand-offsets-attempts-to-control-the-pric_img_ulf2625_4607217f6290.jpg)
 
 > **Figure 3: Ulf 2 6.25**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2021/assets/2021-06-25_iron-ore-and-coal-a-continued-strong-demand-offsets-attempts-to-control-the-pric_img_ulf2625_4607217f6290.jpg)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-06-25_iron-ore-and-coal-a-continued-strong-demand-offsets-attempts-to-control-the-pric_img_ulf2625_4607217f6290.jpg)
 
 The ongoing restrictions on coal production in numerous Chinese mines, either due to safety inspections or environmental curbs, could force the country to increase its imports of the commodity. There are already indications of below-average inventories for this time of the year and, with last winter’s shortages in mind, China’s state planning agency, the National Development and Reform Commission, has urged the coal industry to build infrastructure to store reserves of coal. China’s position as the triple crown holder for coal (i.e. largest producer, largest importer and largest consumer) could prove beneficial for dry bulk shipping should the domestic production continue to suffer from safety and environmental curbs. Given that a large part of the coal consumed in China is domestically produced at the moment, even a modest increase in the proportion of overseas sourced coal could have a considerable positive impact on the tonnage demand. According to cargo tracking data from Oceanbolt, Chinese seaborne imports of coal year-to-date are already above of previous years.
 
 ![Ulf 3 6.25](assets/2021-06-25_iron-ore-and-coal-a-continued-strong-demand-offsets-attempts-to-control-the-pric_img_ulf3625_9633f1ec263c.png)
 
 > **Figure 4: Ulf 3 6.25**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2021/assets/2021-06-25_iron-ore-and-coal-a-continued-strong-demand-offsets-attempts-to-control-the-pric_img_ulf3625_9633f1ec263c.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-06-25_iron-ore-and-coal-a-continued-strong-demand-offsets-attempts-to-control-the-pric_img_ulf3625_9633f1ec263c.png)
 
 It is worth bearing in mind that the data set only covers seaborne imports and any volumes coming overland from Mongolia are not included. The periodic closures of the Mongolian border due to Covid-19 outbreaks may also have affected the flows of imported coal, with more arriving by sea. Any initiatives by the Chinese authorities to rebuild the coal inventories ahead of the winter, while domestic mining capacity remains curtailed, will further increase imports and should benefit the Panamax and Capesize segments.
 

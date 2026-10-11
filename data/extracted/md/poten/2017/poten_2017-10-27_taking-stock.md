@@ -30,10 +30,18 @@ As global crude stocks worldwide are dwindling, robust oil demand growth should 
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: Taking Stock](../../../charts/poten/2017/poten_2017-10-27_taking-stock_chart1.png)
+![Exhibit 1: U.S. Crude Oil Stocks (excl SPR)](../../../charts/poten/2017/poten_2017-10-27_taking-stock_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2017/poten_2017-10-27_taking-stock_chart1.png)
+> **Exhibit 1: U.S. Crude Oil Stocks (excl SPR)**  
+> Unit: Mln bbl · X-axis: Jan-12 to Jan-17  
+> Series: U.S. Crude Oil Stocks (excl SPR)  
+> *Source: EIA*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2017/poten_2017-10-27_taking-stock_chart1.png)
 
-![Exhibit 2: Taking Stock](../../../charts/poten/2017/poten_2017-10-27_taking-stock_chart2.png)
+![Exhibit 2: Floating Storage by Location](../../../charts/poten/2017/poten_2017-10-27_taking-stock_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2017/poten_2017-10-27_taking-stock_chart2.png)
+> **Exhibit 2: Floating Storage by Location**  
+> Unit: Million Bbl · X-axis: 03-APR-15 to 15-SEP-17  
+> Series: Middle East, SE Asia, NW Europe, WAF, Far East, N America, Med, Other  
+> *Source: Lloyd's List Intelligence*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2017/poten_2017-10-27_taking-stock_chart2.png)

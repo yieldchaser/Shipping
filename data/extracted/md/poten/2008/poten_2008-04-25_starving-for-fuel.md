@@ -68,6 +68,8 @@ With Governments world-wide mandating an expanding use of biofuels, more of thes
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: Starving for Fuel](../../../charts/poten/2008/poten_2008-04-25_starving-for-fuel_chart1.png)
-
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2008/poten_2008-04-25_starving-for-fuel_chart1.png)
+> **Chart on PDF page 1: US Ethanol Production vs. Corn Price**  
+> Unit: 1,000 bbl/day | $/bushel · X-axis: Jan-99 to Jan-09  
+> Series: US Corn Price, $/bushel, Average Daily US Ethanol Production, barrel/day, Estimated Daily US Ethanol Production, barrel/day  
+> *Source: RFA/Cornell/Poten*  
+> *No image crop of this chart was saved; caption read from the PDF.*

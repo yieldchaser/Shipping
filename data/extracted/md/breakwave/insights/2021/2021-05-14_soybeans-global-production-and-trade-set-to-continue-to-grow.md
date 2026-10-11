@@ -29,7 +29,7 @@ Soybean futures are trading within striking distance of the all-time high set in
 ![Ulf 5.14](assets/2021-05-14_soybeans-global-production-and-trade-set-to-continue-to-grow_img_ulf514_747e3e2e5ac5.jpg)
 
 > **Figure 1: Ulf 5.14**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2021/assets/2021-05-14_soybeans-global-production-and-trade-set-to-continue-to-grow_img_ulf514_747e3e2e5ac5.jpg)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-05-14_soybeans-global-production-and-trade-set-to-continue-to-grow_img_ulf514_747e3e2e5ac5.jpg)
 
 The latest projections on trade and inventory levels for soybeans recently released by the US Department of Agriculture are unlikely to pour cold water on the rising prices. A positive demand outlook is expected to keep US stockpiles near a seven-year low, with the USDA projecting that soybean stocks will increase by just 20 million bushels from 120 million bushels. The USDA is forecasting that the global soybean production in 2021/22 will reach 386 million tonnes, an increase of around six per cent compared to the current agricultural marketing year. A great majority of the supply growth is anticipated to come from the Americas, with the US and Brazil expected to account for two-thirds of the increased production.
 
@@ -42,7 +42,7 @@ Global seaborne volumes of soybeans could be on course for eclipsing the previou
 ![Ulf 5.14b](assets/2021-05-14_soybeans-global-production-and-trade-set-to-continue-to-grow_img_ulf514b_8997bc4ed3f6.png)
 
 > **Figure 2: Ulf 5.14b**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2021/assets/2021-05-14_soybeans-global-production-and-trade-set-to-continue-to-grow_img_ulf514b_8997bc4ed3f6.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-05-14_soybeans-global-production-and-trade-set-to-continue-to-grow_img_ulf514b_8997bc4ed3f6.png)
 
 ---
 

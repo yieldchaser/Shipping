@@ -54,6 +54,10 @@ information on the services and research products offered by our Marine Projects
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: Made in China](../../../charts/poten/2011/poten_2011-11-11_made-in-china_chart1.png)
+![Exhibit 1: VLCC Fleet Age Profile](../../../charts/poten/2011/poten_2011-11-11_made-in-china_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2011/poten_2011-11-11_made-in-china_chart1.png)
+> **Exhibit 1: VLCC Fleet Age Profile**  
+> Unit: No. of Vessels · X-axis: <1 to 23  
+> Series: 0-5 Years, 6-10 Years, 11-15 Years, 16-20 Years, >21 Years  
+> *Source: Poten*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2011/poten_2011-11-11_made-in-china_chart1.png)

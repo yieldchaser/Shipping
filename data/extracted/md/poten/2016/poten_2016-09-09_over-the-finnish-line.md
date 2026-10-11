@@ -30,10 +30,14 @@ Will the cost of these systems encourage some owners to scrap their vessel rathe
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: Over The Finnish Line](../../../charts/poten/2016/poten_2016-09-09_over-the-finnish-line_chart1.png)
+![Exhibit 1: World Merchant Fleet](../../../charts/poten/2016/poten_2016-09-09_over-the-finnish-line_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2016/poten_2016-09-09_over-the-finnish-line_chart1.png)
+> **Exhibit 1: World Merchant Fleet**  
+> Unit: Vessels · X-axis: Gas Carriers to Other Vessels  
+> Series: Trading, On Order  
+> *Source: Clarkson*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2016/poten_2016-09-09_over-the-finnish-line_chart1.png)
 
 ![Exhibit 2: Over The Finnish Line](../../../charts/poten/2016/poten_2016-09-09_over-the-finnish-line_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2016/poten_2016-09-09_over-the-finnish-line_chart2.png)
+> **Interactive Asset:** [Local Asset (200 DPI PNG)](../../../charts/poten/2016/poten_2016-09-09_over-the-finnish-line_chart2.png)

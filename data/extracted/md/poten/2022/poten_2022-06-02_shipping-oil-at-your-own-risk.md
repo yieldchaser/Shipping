@@ -32,10 +32,17 @@ The shipping implications of such cutbacks will be significant as well. Aframaxe
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: Shipping Oil At Your Own Risk](../../../charts/poten/2022/poten_2022-06-02_shipping-oil-at-your-own-risk_chart1.png)
+![Exhibit 1: Russian Crude Oil Exports From The Baltic](../../../charts/poten/2022/poten_2022-06-02_shipping-oil-at-your-own-risk_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2022/poten_2022-06-02_shipping-oil-at-your-own-risk_chart1.png)
+> **Exhibit 1: Russian Crude Oil Exports From The Baltic**  
+> Unit: Kbbl / Day · X-axis: Jan-17 to Apr-22  
+> Series: Netherlands, Germany, UK/Eire, Other NW Europe, Asia, Med, Other  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2022/poten_2022-06-02_shipping-oil-at-your-own-risk_chart1.png)
 
-![Exhibit 2: Shipping Oil At Your Own Risk](../../../charts/poten/2022/poten_2022-06-02_shipping-oil-at-your-own-risk_chart2.png)
+![Exhibit 2: Russian Crude Oil Exports From The Black Sea](../../../charts/poten/2022/poten_2022-06-02_shipping-oil-at-your-own-risk_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2022/poten_2022-06-02_shipping-oil-at-your-own-risk_chart2.png)
+> **Exhibit 2: Russian Crude Oil Exports From The Black Sea**  
+> Unit: Kbbl / Day · X-axis: Jan-17 to Apr-22  
+> Series: Italy, Greece, Other Med., UKC/Baltic, China, India, Other  
+> *Source: Lloyd’s List Intelligence*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2022/poten_2022-06-02_shipping-oil-at-your-own-risk_chart2.png)

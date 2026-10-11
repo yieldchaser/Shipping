@@ -52,8 +52,8 @@ Since Russian Urals crude oil flows from disparate export locations, anticipatin
 
 ![Exhibit 1: Ukraine in the Membrane](../../../charts/poten/2014/poten_2014-03-07_ukraine-in-the-membrane_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2014/poten_2014-03-07_ukraine-in-the-membrane_chart1.png)
+> **Interactive Asset:** [Local Asset (200 DPI PNG)](../../../charts/poten/2014/poten_2014-03-07_ukraine-in-the-membrane_chart1.png)
 
 ![Exhibit 2: Ukraine in the Membrane](../../../charts/poten/2014/poten_2014-03-07_ukraine-in-the-membrane_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2014/poten_2014-03-07_ukraine-in-the-membrane_chart2.png)
+> **Interactive Asset:** [Local Asset (200 DPI PNG)](../../../charts/poten/2014/poten_2014-03-07_ukraine-in-the-membrane_chart2.png)

@@ -27,17 +27,17 @@ In my nearly 20 years in investments there’s one rule that seems to work under
 
 While SVB and Credit Suisse’s failures inescapably evoke images of 2008, we were fairly confident that the latest turmoil wouldn’t turn out to be a Lehman moment. Lehman was an accident, fostered by a year-long credit crunch and triggered by bad judgement calls from governments and regulators. The lessons were well learned. Central banks have made sure that there’s enough liquidity at all times and are ready to release trillions at the blink of an eye.
 
-![Market Chart 1](assets/2023-04-03_mazars-commentthe-mini-banking-crisis-is-mostly-over-thats-no-reason-to-relax_img_image00428529_93e3117d9333.jpg)
+![Market Chart 1](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-04-03_mazars-commentthe-mini-banking-crisis-is-mostly-over-thats-no-reason-to-relax_img_image00428529_93e3117d9333.jpg)
 
 > **Figure 1: Market Chart 1**  
-> **Interactive Data & Source:** [Ons Gov](https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/employmentandemployeetypes/articles/characteristicsofhomeworkersgreatbritain/september2022tojanuary2023) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-04-03_mazars-commentthe-mini-banking-crisis-is-mostly-over-thats-no-reason-to-relax_img_image00428529_93e3117d9333.jpg)
+> **Interactive Data & Source:** [Ons Gov](https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/employmentandemployeetypes/articles/characteristicsofhomeworkersgreatbritain/september2022tojanuary2023) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-04-03_mazars-commentthe-mini-banking-crisis-is-mostly-over-thats-no-reason-to-relax_img_image00428529_93e3117d9333.jpg)
 
 Treasuries, governments and legislatures are also more sensitive to the dangers of economic instability and contagion. This makes them quicker to react, assured that they will not be faced with a widespread populist revolution for saving the financial system. Assurances that liquidity is ample have eased tensions. Use of deposit Fed liquidity facilities remains significant, but at least it has levelled out.
 
-![Market Chart 2](assets/2023-04-03_mazars-commentthe-mini-banking-crisis-is-mostly-over-thats-no-reason-to-relax_img_image00528729_fca40ce1e561.jpg)
+![Market Chart 2](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-04-03_mazars-commentthe-mini-banking-crisis-is-mostly-over-thats-no-reason-to-relax_img_image00528729_fca40ce1e561.jpg)
 
 > **Figure 2: Market Chart 2**  
-> **Interactive Data & Source:** [Ons Gov](https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/employmentandemployeetypes/articles/characteristicsofhomeworkersgreatbritain/september2022tojanuary2023) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-04-03_mazars-commentthe-mini-banking-crisis-is-mostly-over-thats-no-reason-to-relax_img_image00528729_fca40ce1e561.jpg)
+> **Interactive Data & Source:** [Ons Gov](https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/employmentandemployeetypes/articles/characteristicsofhomeworkersgreatbritain/september2022tojanuary2023) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-04-03_mazars-commentthe-mini-banking-crisis-is-mostly-over-thats-no-reason-to-relax_img_image00528729_fca40ce1e561.jpg)
 
 But the US regional banks that failed and Credit Suisse had something in common. They were troubled entities. SVB didn’t have a risk officer and didn’t properly hedge its bond exposure. Credit Suisse was mired in scandal and hadn’t properly transitioned towards a new banking model. If not for years of quantitative easing, they may have failed earlier.
 
@@ -47,10 +47,10 @@ However, the previous cycle was unusually long, lasting for a decade and a half.
 
 Thus, many a bad business model survived and thrived. But the return of inflation and higher interest rates are now exposing areas of weakness.**Troubled banks may not necessarily initiate a 2008-style contagion event. Rather, they may act as canaries in a coalmine to warn markets of dangers that lie ahead.**
 
-![Market Chart 3](assets/2023-04-03_mazars-commentthe-mini-banking-crisis-is-mostly-over-thats-no-reason-to-relax_img_image006281029_f8f17aea1630.jpg)
+![Market Chart 3](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-04-03_mazars-commentthe-mini-banking-crisis-is-mostly-over-thats-no-reason-to-relax_img_image006281029_f8f17aea1630.jpg)
 
 > **Figure 3: Market Chart 3**  
-> **Interactive Data & Source:** [Ons Gov](https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/employmentandemployeetypes/articles/characteristicsofhomeworkersgreatbritain/september2022tojanuary2023) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-04-03_mazars-commentthe-mini-banking-crisis-is-mostly-over-thats-no-reason-to-relax_img_image006281029_f8f17aea1630.jpg)
+> **Interactive Data & Source:** [Ons Gov](https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/employmentandemployeetypes/articles/characteristicsofhomeworkersgreatbritain/september2022tojanuary2023) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-04-03_mazars-commentthe-mini-banking-crisis-is-mostly-over-thats-no-reason-to-relax_img_image006281029_f8f17aea1630.jpg)
 
 So what are the immediate areas of risk we should be focusing on?
 

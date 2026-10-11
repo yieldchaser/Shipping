@@ -55,9 +55,9 @@ In the past few weeks, grain prices have been recovering from recent lows amid i
 
 Cargo order volumes for fertilisers loading in Russian ports surged in May after trending lower throughout the early parts of the year. Rising demand for seaborne transportation to Brazil, India, China and Southeast Asia was chiefly responsible for the month-on-month increase. Hence, the forward-looking nature of the data suggests that there will be increasing volumes of Russian fertilisers discharged in those countries in the coming months. However, the current month has come off to a slow start, with order volumes for the first third of the month suggesting that the aggregate will fail to match what was recorded in May. The development may fuel further uncertainty over the prospects of the BSGI.
 
-![Market Chart 1](assets/2023-06-13_shipfix-global-market-update_img_unnamed-2023-06-13t115823645_baa38d3a5cd1.png)
+![Market Chart 1](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-06-13_shipfix-global-market-update_img_unnamed-2023-06-13t115823645_baa38d3a5cd1.png)
 
 > **Figure 1: Market Chart 1**  
-> **Interactive Data & Source:** [Shipfix](https://shipfix.com/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-06-13_shipfix-global-market-update_img_unnamed-2023-06-13t115823645_baa38d3a5cd1.png)
+> **Interactive Data & Source:** [Shipfix](https://shipfix.com/) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-06-13_shipfix-global-market-update_img_unnamed-2023-06-13t115823645_baa38d3a5cd1.png)
 
 Data Source:[Shipfix](https://shipfix.com/)

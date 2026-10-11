@@ -86,6 +86,14 @@ One of the things that oil companies do well is crude oil and refined product sy
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: Pipeline Perils](../../../charts/poten/2006/poten_2006-08-11_pipeline-perils_chart1.png)
+> **Chart on PDF page 1: Untitled chart**  
+> Unit: (000 bbl/day) | ($/day) · X-axis: Jan-02 to Jan-07  
+> Series: VLCC AG - USG (280kt), Alaskan Crude Oil Production  
+> *Source: Poten & Partners/EIA*  
+> *No image crop of this chart was saved; caption read from the PDF.*
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2006/poten_2006-08-11_pipeline-perils_chart1.png)
+> **Chart on PDF page 2: Fixtures To USWC**  
+> Unit: Number of Fixtures · X-axis: Jan-05 to Jul-06  
+> Series: VLCC, Suezmax, Aframax, Panamax  
+> *Source: Poten & Partners*  
+> *No image crop of this chart was saved; caption read from the PDF.*

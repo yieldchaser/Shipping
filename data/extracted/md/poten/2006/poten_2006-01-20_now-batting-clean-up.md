@@ -159,6 +159,22 @@ For those charterers who are unhappy with their standing in the spot market rank
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: Now Batting Clean Up....](../../../charts/poten/2006/poten_2006-01-20_now-batting-clean-up_chart1.png)
+> **Chart on PDF page 2: Untitled chart**  
+> Unit: # of Spot Fixtures · X-axis: Shell to Glencore  
+> Series: # of Spot Fixtures  
+> *No image crop of this chart was saved; caption read from the PDF.*
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2006/poten_2006-01-20_now-batting-clean-up_chart1.png)
+> **Chart on PDF page 3: # of Spot Fixtures**  
+> Unit: # of Spot Fixtures · X-axis: Vitol to Titan  
+> Series: Vitol, Shell, BP, Itochu, TTMI, Glencore, Morgan Stanley, Clearlake, CSSA, Titan  
+> *No image crop of this chart was saved; caption read from the PDF.*
+
+> **Chart on PDF page 3: # of Spot Fixtures**  
+> Unit: # of Spot Fixtures · X-axis: Shell to Itochu  
+> Series: Shell, BP, Citgo, ExxonMobil, Vitol, Chevron, Trafigura, Glencore, CSSA, Itochu  
+> *No image crop of this chart was saved; caption read from the PDF.*
+
+> **Chart on PDF page 4: Untitled chart**  
+> Unit: # of Spot Fixtures · X-axis: Shell to Polimeri  
+> Series: Shell, BP, Vitol, Glencore, CSSA, Lukoil, Sibneft, AOT, Trafigura, Polimeri  
+> *No image crop of this chart was saved; caption read from the PDF.*

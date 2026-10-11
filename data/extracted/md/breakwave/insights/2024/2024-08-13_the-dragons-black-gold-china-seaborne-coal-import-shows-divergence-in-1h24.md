@@ -20,17 +20,17 @@ source_file: "corpus/03-breakwave/insights/2024/2024-08-13_the-dragons-black-gol
 
 ---
 
-![Rgb Color Brs Shipbrokers Monogram Logo](assets/2024-08-13_the-dragons-black-gold-china-seaborne-coal-import-shows-divergence-in-1h24_img_rgb-color-brs-shipbrokers-monogram-l_ee79606c8e74.png)
+![Rgb Color Brs Shipbrokers Monogram Logo](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-08-13_the-dragons-black-gold-china-seaborne-coal-import-shows-divergence-in-1h24_img_rgb-color-brs-shipbrokers-monogram-l_ee79606c8e74.png)
 
 > **Figure 1: Rgb Color Brs Shipbrokers Monogram Logo**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-08-13_the-dragons-black-gold-china-seaborne-coal-import-shows-divergence-in-1h24_img_rgb-color-brs-shipbrokers-monogram-l_ee79606c8e74.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-08-13_the-dragons-black-gold-china-seaborne-coal-import-shows-divergence-in-1h24_img_rgb-color-brs-shipbrokers-monogram-l_ee79606c8e74.png)
 
 The latest official customs data shows that China's coal imports hit a record 249.6mln mt in 1H24, an astounding 11.9% year-on-year increase. The total import volume of thermal coal reached 192mln mt, which is 9.0% higher than the 176mln mt recorded over the same period in 2023. The total import value of China's thermal coal stood at $16bln, a 15.8% decrease year-on-year as prices fell to an average of $83.34/t, a y-o-y decrease of 22.7%.
 
-![Στιγμιότυπο Οθόνης 2024 08 13 005702](assets/2024-08-13_the-dragons-black-gold-china-seaborne-coal-import-shows-divergence-in-1h24_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_0744c8c28c47.png)
+![Στιγμιότυπο Οθόνης 2024 08 13 005702](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-08-13_the-dragons-black-gold-china-seaborne-coal-import-shows-divergence-in-1h24_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_0744c8c28c47.png)
 
 > **Figure 2: Στιγμιότυπο Οθόνης 2024 08 13 005702**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-08-13_the-dragons-black-gold-china-seaborne-coal-import-shows-divergence-in-1h24_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_0744c8c28c47.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-08-13_the-dragons-black-gold-china-seaborne-coal-import-shows-divergence-in-1h24_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_0744c8c28c47.png)
 
 The significant year-on-year increase in the volumes is largely due to the relatively stable import margin. Domestic thermal coal is not able to compete with imported coal, therefore domestic coal is less economic and backed out by the imported.
 
@@ -44,28 +44,28 @@ In this context of overall growth in seaborne coal import volumes, there are arg
 2. Lower railway cost in China supports domestic coal sales
 3. Mongolia has boosted its coal production and exports
 
-![Στιγμιότυπο Οθόνης 2024 08 13 005554](assets/2024-08-13_the-dragons-black-gold-china-seaborne-coal-import-shows-divergence-in-1h24_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_34fbb70793e0.png)
+![Στιγμιότυπο Οθόνης 2024 08 13 005554](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-08-13_the-dragons-black-gold-china-seaborne-coal-import-shows-divergence-in-1h24_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_34fbb70793e0.png)
 
 > **Figure 3: Στιγμιότυπο Οθόνης 2024 08 13 005554**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-08-13_the-dragons-black-gold-china-seaborne-coal-import-shows-divergence-in-1h24_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_34fbb70793e0.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-08-13_the-dragons-black-gold-china-seaborne-coal-import-shows-divergence-in-1h24_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_34fbb70793e0.png)
 
 1. Indonesian coal unprofitable in North China
 
 For coal buyers in North China, due to their proximity to China's domestic key mining regions of Shanxi, Shaanxi, Xinjiang, etc., purchasing domestic coal delivered overland can save them seaborne shipping costs. The average cost in 2023 for cabotage trade from North China to South China was $4.60/t. Moreover, if buyers choose to import coal from Indonesia, buyers in the North have to pay a higher cost due to the longer seaborne sailing distance, which is about 50% longer than to South China. Additionally, due to the less favourable open position of ships in North China, where it is more difficult to secure the next loading stem, shipowners often ask for higher rates to compensate for the difficulty in obtaining their next voyage. For example, based on a 76,000 Dwt LME, basis the loading port of Samarinda in the Indonesian province of East Kalimantan, the average freight difference in 2023 between a stem discharging at Dalian (North China) and Putian (South China) stood at $2/t. Thereby buyers in North China who stuck to Indonesian import business suffered a total profit loss of $6.6/t compared to South China importers. Accordingly, the total price difference significantly reduces the willingness of buyers to purchase thermal coal from Indonesia, especially against the backdrop of a general decline in coal prices and narrowing profit margins this year.
 
-![Στιγμιότυπο Οθόνης 2024 08 13 005720](assets/2024-08-13_the-dragons-black-gold-china-seaborne-coal-import-shows-divergence-in-1h24_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_4fb3a03d1607.png)
+![Στιγμιότυπο Οθόνης 2024 08 13 005720](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-08-13_the-dragons-black-gold-china-seaborne-coal-import-shows-divergence-in-1h24_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_4fb3a03d1607.png)
 
 > **Figure 4: Στιγμιότυπο Οθόνης 2024 08 13 005720**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-08-13_the-dragons-black-gold-china-seaborne-coal-import-shows-divergence-in-1h24_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_4fb3a03d1607.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-08-13_the-dragons-black-gold-china-seaborne-coal-import-shows-divergence-in-1h24_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_4fb3a03d1607.png)
 
 2. Lower railway cost support domestic coal sales
 
 Since the end of April, several local railway bureaus in China have announced preferential policies for coal freight, lowering associated freight rates by 10-30% based on cargo volume. This is seen as a measure to stimulate demand for coal transportation during the traditional ‘low demand’ season. This policy supports the government’s shift from truck to railway, as the government encourages the use of railways to transport of goods in order to reduce carbon emissions. In addition to a practice of tax and fee reductions, it is expected to boost cargo transportation when the demand is low. Although the discount varies by region and there are restrictions on the time span of the preferential policies (mainly from April to June), the policy is expected to have a positive effect on the marginal coal transportation volume. According to CNCA (China National Coal Association), following the implementation of the policy at the end of April, the railway transportation volume of coal, after a year-on-year decline in April, achieved a monthly increase in volumes shipped in May and June, which were 234 mln mt and 230 mln mt, respectively.
 
-![Στιγμιότυπο Οθόνης 2024 08 13 005743](assets/2024-08-13_the-dragons-black-gold-china-seaborne-coal-import-shows-divergence-in-1h24_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_6165c2bb18a5.png)
+![Στιγμιότυπο Οθόνης 2024 08 13 005743](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-08-13_the-dragons-black-gold-china-seaborne-coal-import-shows-divergence-in-1h24_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_6165c2bb18a5.png)
 
 > **Figure 5: Στιγμιότυπο Οθόνης 2024 08 13 005743**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-08-13_the-dragons-black-gold-china-seaborne-coal-import-shows-divergence-in-1h24_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_6165c2bb18a5.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-08-13_the-dragons-black-gold-china-seaborne-coal-import-shows-divergence-in-1h24_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_6165c2bb18a5.png)
 
 3. Mongolia continues to boost coal production
 

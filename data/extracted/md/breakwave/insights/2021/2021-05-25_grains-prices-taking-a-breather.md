@@ -25,7 +25,7 @@ source_file: "corpus/03-breakwave/insights/2021/2021-05-25_grains-prices-taking-
 ![Unsplash Image Joovc9d Jis](assets/2021-05-25_grains-prices-taking-a-breather_img_unsplash-image-joovc9d-jis_5c14dba7e653.jpg)
 
 > **Figure 1: Unsplash Image Joovc9d Jis**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2021/assets/2021-05-25_grains-prices-taking-a-breather_img_unsplash-image-joovc9d-jis_5c14dba7e653.jpg)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-05-25_grains-prices-taking-a-breather_img_unsplash-image-joovc9d-jis_5c14dba7e653.jpg)
 
 In the nine months between the middle of last August and the middle of May this year, the corn price was on an impressive trajectory and recorded an increase of close to 150 per cent when it hit an eight-year high two weeks ago. Since then, corn futures have dropped by around fifteen per cent, with investors losing some appetite for commodities following attempts by Chinese authorities to control surging commodity prices. Additionally, a recent report from the US Department of Agriculture (USDA) projected corn inventories to increase during the next agricultural marketing year, which begins in September. The forecast 250 million bushels increase, on the anticipated end of August levels of 1.26 billion bushels, during the 2021/22 year was above market expectations and contributed to the price correction. Likewise, soybeans retreated from their recent highs, albeit somewhat less dramatic, on higher harvest expectations for the recently planted crops following favorable weather forecasts for the US Midwest
 
@@ -34,7 +34,7 @@ In the nine months between the middle of last August and the middle of May this 
 ![Ulf1 5.25](assets/2021-05-25_grains-prices-taking-a-breather_img_ulf1525_4b8bae13cbda.jpg)
 
 > **Figure 2: Ulf1 5.25**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2021/assets/2021-05-25_grains-prices-taking-a-breather_img_ulf1525_4b8bae13cbda.jpg)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-05-25_grains-prices-taking-a-breather_img_ulf1525_4b8bae13cbda.jpg)
 
 Despite the recent headlines that China has already sourced more than a third of the next agricultural marketing year’s expected corn imports from the US, the USDA is expecting US corn exports to face stiff competition from Argentina, Brazil, and Ukraine. The trio is expected to increase its combined exports by around 19.5 million metric tonnes in the coming year, which is expected to weigh on the US export volumes along with low inventory levels. However, the current poor weather conditions in Brazil’s major agricultural areas, with rainfall well below normal, could see yields dropping on the country’s second corn harvest and lend support to the volumes eventually shipped out of US ports. The USDA is anticipating China to import around 26 million tonnes of corn from its international suppliers during the year that begins in September, out of which 9.5 million tonnes have already been sourced from the US.
 
@@ -45,14 +45,14 @@ As Ukraine’s seaborne grain and oilseed exports have grown in recent years, th
 ![Ulf2 5.25](assets/2021-05-25_grains-prices-taking-a-breather_img_ulf2525_30b8066e3459.png)
 
 > **Figure 3: Ulf2 5.25**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2021/assets/2021-05-25_grains-prices-taking-a-breather_img_ulf2525_30b8066e3459.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-05-25_grains-prices-taking-a-breather_img_ulf2525_30b8066e3459.png)
 
 With the increasing flow of seaborne agricultural commodities from Ukraine to China, the nature of the trade has changed. The Panamax segment has become the tonnage of choice for many charterers and has edged out both Supramaxes and Capesizes, which previously handled large portions of the grain cargoes. While the evolution of the market shares may look dramatic, in absolute terms it is more a question of the Panamax segment growing while the volumes shipped on Supramaxes or Capesizes remaining fairly stable.
 
 ![Ulf3 5.25](assets/2021-05-25_grains-prices-taking-a-breather_img_ulf3525_61946acae4f8.png)
 
 > **Figure 4: Ulf3 5.25**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2021/assets/2021-05-25_grains-prices-taking-a-breather_img_ulf3525_61946acae4f8.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-05-25_grains-prices-taking-a-breather_img_ulf3525_61946acae4f8.png)
 
 The retreating grain prices may be bad news for the farmers, but not necessarily for the dry bulk shipping sector. The demand outlook for grains and oilseeds remains solid, with the Chinese appetite unlikely to vanish anytime soon. The demand for livestock feed continues to surge and provides support for healthy seaborne volumes. The persistent strength of the container shipping sector is also likely to continue to drive many agricultural commodity consignments to the dry bulk sector, as a result of equipment shortage and high freight rates.
 

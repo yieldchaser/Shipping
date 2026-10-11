@@ -26,10 +26,10 @@ Oil markets began the week on edge as fears mounted over a potential closure of 
 
 The pullback deepened after Israel and Iran agreed to a ceasefire, bringing a two-week flare-up to an end. With no material disruption to oil or gas flows through the Strait – responsible for nearly 20 percent of global seaborne energy exports – prices collapsed further. Brent briefly fell below $67 a barrel on Tuesday before clawing back some ground in later sessions. By Friday, oil benchmarks were on track for their steepest weekly decline since March 2023. Markets effectively unwound the entire risk premium built up since Israel initiated the conflict on June 13. The rapid swing in sentiment highlights the structural shifts in global energy dynamics: even in a region long synonymous with supply shocks, today's markets appear far less reactive. Improved logistical resilience, diversified sourcing, and strategic reserves have diminished the dominance of Middle East politics in shaping oil price trajectories.
 
-![Στιγμιότυπο Οθόνης 2025 06 30 102951](assets/2025-06-30_fragility-beneath-apparent-stability_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_1bb7e5736b93.png)
+![Στιγμιότυπο Οθόνης 2025 06 30 102951](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-06-30_fragility-beneath-apparent-stability_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_1bb7e5736b93.png)
 
 > **Figure 1: Στιγμιότυπο Οθόνης 2025 06 30 102951**  
-> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-06-30_fragility-beneath-apparent-stability_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_1bb7e5736b93.png)
+> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-06-30_fragility-beneath-apparent-stability_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_1bb7e5736b93.png)
 
 This sense of balance – if not complacency – has also characterized the iron ore market, where prices have remained tightly rangebound. Since early June, the benchmark price has oscillated between $91 and $95 per tonne, reflecting a market caught between weak Chinese construction demand and consistent restocking activity from processors and traders. The near-term picture remains one of stasis, with little to disrupt the current equilibrium. Yet beneath the surface, questions are mounting about the sustainability of Chinese steel production in the second half of the year. The outcome will hinge on a delicate interplay between policy direction, the pace of real estate stabilization, and seasonal supply-side variables such as weather-related disruptions in major exporting regions.
 
@@ -41,10 +41,10 @@ In parallel with the broader economic picture, the Capesize segment experienced 
 
 Looking across markets, a shared theme emerges: fragility beneath apparent stability. Oil prices may have shrugged off geopolitical fears, but only because actual supply flows remained uninterrupted. Iron ore is holding steady, sustained by a delicate balance between weak demand and routine restocking. Capesize rates rallied, then corrected, illustrating just how sensitive the freight market is to even short-lived shifts in cargo flow. In each case, markets are walking a narrow path, vulnerable to tipping either way. With Chinese demand clouded by deflation and industrial weakness, and global sentiment tethered to volatile macroeconomic signals, a durable trend – whether in commodities or freight – remains elusive. The second half of the year may yet deliver stronger momentum, but for now, markets appear stuck in a state of watchful hesitation.
 
-![Στιγμιότυπο Οθόνης 2025 06 30 103012](assets/2025-06-30_fragility-beneath-apparent-stability_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_48cc93f9c940.png)
+![Στιγμιότυπο Οθόνης 2025 06 30 103012](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-06-30_fragility-beneath-apparent-stability_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_48cc93f9c940.png)
 
 > **Figure 2: Στιγμιότυπο Οθόνης 2025 06 30 103012**  
-> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-06-30_fragility-beneath-apparent-stability_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_48cc93f9c940.png)
+> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-06-30_fragility-beneath-apparent-stability_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_48cc93f9c940.png)
 
 Data source:[Doric](https://www.doric.gr/)
 

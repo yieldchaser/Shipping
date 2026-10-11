@@ -34,10 +34,18 @@ However, with Saudi Arabian exports representing about 20% of the total VLCC ton
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: Saudi Arabia Rules The Waves](../../../charts/poten/2017/poten_2017-08-25_saudi-arabia-rules-the-waves_chart1.png)
+![Exhibit 1: Saudi Arabian Crude Oil Use](../../../charts/poten/2017/poten_2017-08-25_saudi-arabia-rules-the-waves_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2017/poten_2017-08-25_saudi-arabia-rules-the-waves_chart1.png)
+> **Exhibit 1: Saudi Arabian Crude Oil Use**  
+> Unit: MB/d · X-axis: 1Q 2013 to 2Q 2017  
+> Series: Exports, Refinery Intake, Direct Burn  
+> *Source: Jodi*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2017/poten_2017-08-25_saudi-arabia-rules-the-waves_chart1.png)
 
-![Exhibit 2: Saudi Arabia Rules The Waves](../../../charts/poten/2017/poten_2017-08-25_saudi-arabia-rules-the-waves_chart2.png)
+![Exhibit 2: Saudi Arabian Crude Oil Exports by Destination](../../../charts/poten/2017/poten_2017-08-25_saudi-arabia-rules-the-waves_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2017/poten_2017-08-25_saudi-arabia-rules-the-waves_chart2.png)
+> **Exhibit 2: Saudi Arabian Crude Oil Exports by Destination**  
+> Unit: Mb/d | TCE · X-axis: Jan-15 to Jul-17  
+> Series: Asia/Australia, Mediterranean, Americas, Atlantic, Americas, Pacific, Middle East / E Africa, UKC/Baltic, TD3 TCE  
+> *Source: Lloyd’s List Intelligence*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2017/poten_2017-08-25_saudi-arabia-rules-the-waves_chart2.png)

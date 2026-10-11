@@ -26,10 +26,10 @@ With the new year now here, it remains encouraging — and not at all surprising
 
 The biggest change globally at the moment for the dry bulk market is that strong growth in coal-derived electricity generation has suddenly returned in India. As we discussed for our clients in Commodore Research's most recent Weekly Executive Report, the 5% year-on-year growth seen in India's coal-derived electricity generation last month has marked a drastic change from the 6% year-on-year contraction seen in November and 14% year-on-year contraction seen in October. Before last month, coal-derived generation in India had contracted on a year-on-year basis during seven of the prior ten months, which marked the**only time this decade**that such an event occurred. Now, though, significant growth has returned again. If this growth is able to continue, it would go a long way towards further supporting the dry bulk market. This is an area we will be monitoring very closely for our clients and will be continuing to publish updates. As we stressed in Commodore Research's Weekly Executive Reports reports last year, India’s coal-derived electricity contraction and coal import contraction was one of the dry bulk market’s only major sustained headwinds last year.
 
-![Chart](assets/2026-01-14_significant-sudden-change-in-india_img_chart_db94fd2780ba.jpg)
+![Chart](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-01-14_significant-sudden-change-in-india_img_chart_db94fd2780ba.jpg)
 
 > **Figure 1: Chart**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-01-14_significant-sudden-change-in-india_img_chart_db94fd2780ba.jpg)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-01-14_significant-sudden-change-in-india_img_chart_db94fd2780ba.jpg)
 
 ---
 

@@ -24,20 +24,20 @@ source_file: "corpus/03-breakwave/insights/2024/2024-02-15_meg-vlcc-rates-rise-u
 
 *By*[*Mary Melton*](https://www.linkedin.com/search/results/all/?fetchDeterministicClustersOnly=true&heroEntityKey=urn%3Ali%3Afsd_profile%3AACoAABXVyecBtg-pRnIrZe0BoWk0ygPiUfbvhsw&keywords=mary%20melton&origin=RICH_QUERY_SUGGESTION&position=0&searchId=40e8d7d2-c4d0-4022-81e7-176f6eba418b&sid=H_Y&spellCorrectionEnabled=false)
 
-![Screenshot 2024 02 15 13.08.12](assets/2024-02-15_meg-vlcc-rates-rise-usg-aframax-demand-declines_img_screenshot2024-02-15130812_bcc2b8f44167.png)
+![Screenshot 2024 02 15 13.08.12](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-02-15_meg-vlcc-rates-rise-usg-aframax-demand-declines_img_screenshot2024-02-15130812_bcc2b8f44167.png)
 
 > **Figure 1: Screenshot 2024 02 15 13.08.12**  
-> **Interactive Data & Source:** [Marketingmail Vortexa](https://marketingmail.vortexa.com/ODM3LU1aRS01NzgAAAGRR5v6qddXLFUg50r70__nVQNFvVcM7sjFPQ_JMQIQdHLswPUKZCNyHWicnpO2HTNe05YGCFw=) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-02-15_meg-vlcc-rates-rise-usg-aframax-demand-declines_img_screenshot2024-02-15130812_bcc2b8f44167.png)
+> **Interactive Data & Source:** [Marketingmail Vortexa](https://marketingmail.vortexa.com/ODM3LU1aRS01NzgAAAGRR5v6qddXLFUg50r70__nVQNFvVcM7sjFPQ_JMQIQdHLswPUKZCNyHWicnpO2HTNe05YGCFw=) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-02-15_meg-vlcc-rates-rise-usg-aframax-demand-declines_img_screenshot2024-02-15130812_bcc2b8f44167.png)
 
 - VLCC freight rates Middle East-to-China ([TD3C](https://marketingmail.vortexa.com/ODM3LU1aRS01NzgAAAGRR5v6qddXLFUg50r70__nVQNFvVcM7sjFPQ_JMQIQdHLswPUKZCNyHWicnpO2HTNe05YGCFw=)) have increased about 20% in the last two weeks. This follows Saudi Arabia’s decision to not increase March OSPs, which could be interpreted as Saudi Arabia trying to gain back lost market share in the NE Asia market from Russian and Atlantic Basin crudes (Argus).
 
 - However, global VLCC ballast mileage was significantly lower in January, suggesting VLCCs were ballasting to the MEG after discharging in the East instead of going to the Atlantic Basin. This trend appears to be continuing in February, as the number of[ballasters heading to the MEG after discharging EoS](https://marketingmail.vortexa.com/ODM3LU1aRS01NzgAAAGRR5v6qtZppFaf9J0ghPSXo0ZRvn2r0672q76H8Xp0Lkn5RYqWwCoLwdLCcDQau8sSB6H8RoM=)is continuing to increase, approaching 4-month highs.
 - The crude market is tight despite low demand: ongoing OPEC cuts have drastically reduced[onshore crude tank utilisation](https://marketingmail.vortexa.com/ODM3LU1aRS01NzgAAAGRR5v6ql_5_omS0YaG_bNcmi1q2OG4L-RiHWxC5uBNcZrkSTwaeY8aKgKfCrNWI2cxkfCFijw=), and January’s global seaborne crude exports were well below seasonal averages. These factors point to increased crude demand in the medium-term, but in the short-term vessel supply-side factors will likely cap significant upward momentum in VLCC rates in the Middle East.
 
-![Screenshot 2024 02 15 13.08.26](assets/2024-02-15_meg-vlcc-rates-rise-usg-aframax-demand-declines_img_screenshot2024-02-15130826_18916719f646.png)
+![Screenshot 2024 02 15 13.08.26](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-02-15_meg-vlcc-rates-rise-usg-aframax-demand-declines_img_screenshot2024-02-15130826_18916719f646.png)
 
 > **Figure 2: Screenshot 2024 02 15 13.08.26**  
-> **Interactive Data & Source:** [Marketingmail Vortexa](https://marketingmail.vortexa.com/ODM3LU1aRS01NzgAAAGRR5v6qqPV2A1Xx9GD3zNFJpQx24U6u5GAN6yiwQMri1Gs1p04jDD9_HzQcGfC_k6zRz1Xul0=) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-02-15_meg-vlcc-rates-rise-usg-aframax-demand-declines_img_screenshot2024-02-15130826_18916719f646.png)
+> **Interactive Data & Source:** [Marketingmail Vortexa](https://marketingmail.vortexa.com/ODM3LU1aRS01NzgAAAGRR5v6qqPV2A1Xx9GD3zNFJpQx24U6u5GAN6yiwQMri1Gs1p04jDD9_HzQcGfC_k6zRz1Xul0=) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-02-15_meg-vlcc-rates-rise-usg-aframax-demand-declines_img_screenshot2024-02-15130826_18916719f646.png)
 
 - [US crude exports to Europe](https://marketingmail.vortexa.com/ODM3LU1aRS01NzgAAAGRR5v6qqPV2A1Xx9GD3zNFJpQx24U6u5GAN6yiwQMri1Gs1p04jDD9_HzQcGfC_k6zRz1Xul0=)increased in December due to tax implications from end-of-year crude in storage, which[increased Aframax tonne-mile demand](https://marketingmail.vortexa.com/ODM3LU1aRS01NzgAAAGRR5v6qotasJLaidQwvadquyRyiH6GyIvfsXkWnaNqmX-76WlTdoHE3Jyne-BDlmvQPkKawu0=)for Aframaxes in late December and into the first half of January. This has now cooled off from H2 of January onwards, and freight rates USG-to-Europe ([TD25](https://marketingmail.vortexa.com/ODM3LU1aRS01NzgAAAGRR5v6qcFivLjgGxt7eRABte0pN2BsTdBGSDQYEXyk0TpO-LYcwbSaps7Bii79VXQK03eND6I=)) have declined about 25% over the same period.
 

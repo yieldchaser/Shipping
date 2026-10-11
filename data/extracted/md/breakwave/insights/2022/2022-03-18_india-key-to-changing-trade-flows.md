@@ -34,10 +34,10 @@ Traditionally, India is dependent on arms imports from Russia, and any sanctions
 
 Following the Chinese import ban on Australian coal, the flow of the commodity from down-under has been increasingly directed to India, replacing much of the volumes previously received from Indonesia. At the same time, China made Indonesia its primary provider of seaborne coal imports. As a result of this shift in trade flows, India has been sourcing most of its coal from Australia, followed by Indonesia and South Africa. While India historically has imported coal from Russia, the quantities fail to make any material impact. However, should India increase purchases of discounted Russian coal substantially, the recently developed trade pattern will change considerably. If Russian supplies were to be shipped from ports in the western parts of the country, e.g. Ust-Luga or Murmansk, there would be a considerable increase in the tonne-mile demand related to Indian coal imports.
 
-![Ch1](assets/2022-03-18_india-key-to-changing-trade-flows_img_ch1_a63929dcbb01.png)
+![Ch1](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-03-18_india-key-to-changing-trade-flows_img_ch1_a63929dcbb01.png)
 
 > **Figure 1: Ch1**  
-> **Interactive Data & Source:** [Shipfix](https://shipfix.com/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-03-18_india-key-to-changing-trade-flows_img_ch1_a63929dcbb01.png)
+> **Interactive Data & Source:** [Shipfix](https://shipfix.com/) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-03-18_india-key-to-changing-trade-flows_img_ch1_a63929dcbb01.png)
 
 *Source: Shipfix*
 
@@ -45,19 +45,19 @@ If Indian utilities were to rely on Russian supplies increasingly, it would free
 
 As Shipfix has previously reported, cargo orders for coal destined for Europe surged in recent weeks. During the week before last, they reached the highest weekly volumes recorded in our data. While the new orders subsided somewhat last week, total volumes were still substantial enough to qualify for the runner up position. So far this week, orders remain robust but perhaps not in record-breaking territory. Order numbers have not increased to the same extent as volumes, highlighting the shift from Russian coal shipped in smaller vessels to larger tonnage for longer distances.
 
-![Ch2](assets/2022-03-18_india-key-to-changing-trade-flows_img_ch2_9946a5ff71c0.png)
+![Ch2](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-03-18_india-key-to-changing-trade-flows_img_ch2_9946a5ff71c0.png)
 
 > **Figure 2: Ch2**  
-> **Interactive Data & Source:** [Shipfix](https://shipfix.com/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-03-18_india-key-to-changing-trade-flows_img_ch2_9946a5ff71c0.png)
+> **Interactive Data & Source:** [Shipfix](https://shipfix.com/) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-03-18_india-key-to-changing-trade-flows_img_ch2_9946a5ff71c0.png)
 
 *Source: Shipfix*
 
 It is not only coal that India is considering buying at discounted rates from Russia. The Indian officials also suggested increasing imports of fertilisers from Russia if discounts are available. Greater access to fertilisers also has the potential to boost Indian crop production and fuelling increasing exports from India should global food prices remain high. After five years of good harvests, inventories have been building up, allowing the South Asian nation to take advantage of high wheat prices and boost its exports. Earlier in the month, it was announced that India had agreed to export 500,000 tonnes of wheat and that annual exports of the crop were expected to reach seven million tonnes. The monthâ€™s announcement has already translated into an increasing cargo order activity, with recent weeks substantially above what has been seen in the past.
 
-![Ch3](assets/2022-03-18_india-key-to-changing-trade-flows_img_ch3_103f24e42e57.png)
+![Ch3](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-03-18_india-key-to-changing-trade-flows_img_ch3_103f24e42e57.png)
 
 > **Figure 3: Ch3**  
-> **Interactive Data & Source:** [Shipfix](https://shipfix.com/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-03-18_india-key-to-changing-trade-flows_img_ch3_103f24e42e57.png)
+> **Interactive Data & Source:** [Shipfix](https://shipfix.com/) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-03-18_india-key-to-changing-trade-flows_img_ch3_103f24e42e57.png)
 
 *Source: Shipfix*
 
@@ -65,10 +65,10 @@ The crude oil trade flows are also likely to see a change as a result of Indiaâ€
 
 The freight rates for the dry bulk sector are also likely to benefit from an Indian pivot towards Russian supplied commodities, as it looks set to contribute to an increasingly sub-optimal global flow of cargoes. The changing flow of dry bulk commodities has also led to some traditional relationships between front and back-haul freight rates breaking down. The outbreak of war closed the trade out of the Black Sea, and the Atlantic basin became less attractive for Supramax shipowners. Hence, the traditional back-haul route from North China to West Africa (S3_58) has risen substantially above its front-haul peers for the first time.
 
-![Ch4](assets/2022-03-18_india-key-to-changing-trade-flows_img_ch4_ef36569a8847.png)
+![Ch4](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-03-18_india-key-to-changing-trade-flows_img_ch4_ef36569a8847.png)
 
 > **Figure 4: Ch4**  
-> **Interactive Data & Source:** [Shipfix](https://shipfix.com/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-03-18_india-key-to-changing-trade-flows_img_ch4_ef36569a8847.png)
+> **Interactive Data & Source:** [Shipfix](https://shipfix.com/) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-03-18_india-key-to-changing-trade-flows_img_ch4_ef36569a8847.png)
 
 Data Source:[Shipfix](https://shipfix.com/)
 

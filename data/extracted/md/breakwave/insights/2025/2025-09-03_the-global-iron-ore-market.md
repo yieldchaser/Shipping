@@ -30,10 +30,10 @@ Amid these challenging market conditions, a significant infrastructure investmen
 
 Strategic investments in key infrastructure, such as airports, bridges, and national roads, are expected to enhance domestic and international connectivity, streamline logistics processes, and reduce transport costs, thereby strengthening Vietnam’s position as a key logistics hub and unlocking new economic potential. The government has set an official GDP growth target of 6.5% to 7.0% for 2025, with an even more ambitious target of exceeding 10% average annual growth during the 2026–2030 period, placing infrastructure development at the center of its growth ambitions.
 
-![Στιγμιότυπο Οθόνης 2025 09 03 102050](assets/2025-09-03_the-global-iron-ore-market_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_7e595971a391.png)
+![Στιγμιότυπο Οθόνης 2025 09 03 102050](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-09-03_the-global-iron-ore-market_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_7e595971a391.png)
 
 > **Figure 1: Στιγμιότυπο Οθόνης 2025 09 03 102050**  
-> **Interactive Data & Source:** [Intermodal](https://www.intermodal.gr/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-09-03_the-global-iron-ore-market_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_7e595971a391.png)
+> **Interactive Data & Source:** [Intermodal](https://www.intermodal.gr/) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-09-03_the-global-iron-ore-market_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_7e595971a391.png)
 
 Evidently, Vietnam's infrastructure program is poised to substantially benefit the seaborne iron ore trade and the dry bulk sector. As these large-scale projects require significant quantities of steel and other materials, iron ore inflows will play a central role in ensuring their successful realization. Iron ore inflows are forecast to surge by almost 50% y-o-y, from 18 million tons in 2024 to a record high of 27 million tons in 2025. Imports are projected to rise further, reaching an estimated 31 million tons in 2026. This stronger demand from Vietnam is estimated to underpin overall Indo-Pacific imports, which are forecast to grow by about 5% in 2025 to 239 million tons and by another 3.7% in 2026 to 248 million tons.
 

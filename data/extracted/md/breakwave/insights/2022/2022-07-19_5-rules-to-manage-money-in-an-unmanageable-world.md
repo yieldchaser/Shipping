@@ -40,10 +40,10 @@ Thankfully, investors don't have to think about the vagaries of a globalised wor
 
 Corporations aren't at the mercy of globalisation. They drive it. Corporations have a solid handle on their supply chains. A policy maker won't rest until a supply issue that affects all of society is solved, never really in a perfect way. A corporation only has to worry about sorting one supply chain, its own. It can re-rout shipments, manage inventories, outsource faster than any policymaker can reach any sort of accord.
 
-![243](assets/2022-07-19_5-rules-to-manage-money-in-an-unmanageable-world_img_243_523fa61fa1a6.jpg)
+![243](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-07-19_5-rules-to-manage-money-in-an-unmanageable-world_img_243_523fa61fa1a6.jpg)
 
 > **Figure 1: 243**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-07-19_5-rules-to-manage-money-in-an-unmanageable-world_img_243_523fa61fa1a6.jpg)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-07-19_5-rules-to-manage-money-in-an-unmanageable-world_img_243_523fa61fa1a6.jpg)
 
 **Unmanageable doesn't mean not navigable. A CEO can do for shareholders much more than a Prime Minister, President of even a Dictator can do for their constituents. The system is called 'capitalism'. That we struggle as citizens does not mean we can't still thrive as shareholders.**
 
@@ -51,17 +51,17 @@ Investors need to remember that the larger part of their investments is corporat
 
 Yes, global inflation is an issue. And yes, withdrawal of quantitative easing is bad for equities. But for all the bluster, inflation is mostly supply-driven which means that it will eventually pass. And while quantitative easing has driven stocks for more than a decade, that does not mean that fundamentals don't apply at all. QE affects stocks only from a certain valuation onwards, above 15x times forward earnings.
 
-![$1.jpg](assets/2022-07-19_5-rules-to-manage-money-in-an-unmanageable-world_img_241jpg_deb70ba18f79.png)
+![$1.jpg](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-07-19_5-rules-to-manage-money-in-an-unmanageable-world_img_241jpg_deb70ba18f79.png)
 
 > **Figure 2: $1.jpg**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-07-19_5-rules-to-manage-money-in-an-unmanageable-world_img_241jpg_deb70ba18f79.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-07-19_5-rules-to-manage-money-in-an-unmanageable-world_img_241jpg_deb70ba18f79.png)
 
 Below a certain point, it's not QE that will be driving equity returns, but earnings. Lack of QE will simply mean less excess valuations, less of a stock market impetus.
 
-![$2.jpg](assets/2022-07-19_5-rules-to-manage-money-in-an-unmanageable-world_img_242jpg_3c35348b9601.png)
+![$2.jpg](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-07-19_5-rules-to-manage-money-in-an-unmanageable-world_img_242jpg_3c35348b9601.png)
 
 > **Figure 3: $2.jpg**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-07-19_5-rules-to-manage-money-in-an-unmanageable-world_img_242jpg_3c35348b9601.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-07-19_5-rules-to-manage-money-in-an-unmanageable-world_img_242jpg_3c35348b9601.png)
 
 Lack of any central paradigm, someone to underwrite risk, will mean lower portfolio resilience to shocks. But it does not mean the abandonment of time-honoured investing principles. If anything, it means a return to first principles.
 

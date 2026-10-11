@@ -32,19 +32,19 @@ July 31, 2024
 
 ## Chart of the Week: Ukrainian Grain Shipments to All Destinations
 
-![Cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85](assets/2024-08-02_upward-trend-in-the-number-of-ballasters_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_e659868944bb.png)
+![Cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-08-02_upward-trend-in-the-number-of-ballasters_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_e659868944bb.png)
 
 > **Figure 1: Cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://go.signalocean.com/e/983831/-expected-signal-boost-economy/2qfk2x/427700469/h/WEAOH5Ygaq3B9vUBQLV0s-fJ9q17ZYH6kuHL6g2hJbY) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-08-02_upward-trend-in-the-number-of-ballasters_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_e659868944bb.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://go.signalocean.com/e/983831/-expected-signal-boost-economy/2qfk2x/427700469/h/WEAOH5Ygaq3B9vUBQLV0s-fJ9q17ZYH6kuHL6g2hJbY) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-08-02_upward-trend-in-the-number-of-ballasters_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_e659868944bb.png)
 
 In the[iron ore market](https://go.signalocean.com/e/983831/-expected-signal-boost-economy/2qfk2x/427700469/h/WEAOH5Ygaq3B9vUBQLV0s-fJ9q17ZYH6kuHL6g2hJbY), The Politburo, China’s top decision-making body led by President Xi Jinping, announced on Tuesday that the country will enhance its policy support to bolster the economy. The focus will be on increasing consumption to drive domestic demand. The Politburo acknowledged the growing negative impacts from external changes, weak domestic demand, and the challenging shift from old growth drivers to new ones. Iron ore futures fell further on Tuesday, pressured by the results of China’s key Politburo meeting and a strong global supply outlook.
 
 The September iron ore contract on China’s Dalian Commodity Exchange (DCE) ended the day 2.77% lower, settling at 756 yuan ($104.14) per metric ton. Similarly, the benchmark August iron ore contract on the Singapore Exchange dropped 3.08% to $98.75 per ton, marking its lowest level since April 8, as of 0700 GMT.
 
-![Στιγμιότυπο Οθόνης 2024 08 02 102956](assets/2024-08-02_upward-trend-in-the-number-of-ballasters_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_975163fc4417.png)
+![Στιγμιότυπο Οθόνης 2024 08 02 102956](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-08-02_upward-trend-in-the-number-of-ballasters_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_975163fc4417.png)
 
 > **Figure 2: Στιγμιότυπο Οθόνης 2024 08 02 102956**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-08-02_upward-trend-in-the-number-of-ballasters_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_975163fc4417.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-08-02_upward-trend-in-the-number-of-ballasters_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_975163fc4417.png)
 
 The dry bulk freight market has sustained a decline in rates for the Cape Brazil to North China routes, whereas the Panamax Continental Far East rates continue to trend upward.
 
@@ -53,10 +53,10 @@ The dry bulk freight market has sustained a decline in rates for the Cape Brazil
 - **Supramax**vessel freight rates on the Indo-ECI route have shown a slightly firmer momentum since the third week of June, with rates at $11 per ton. This week's rates are 30% higher compared to the same period last year.
 - **Handysize**freight rates for the NOPAC Far East route have remained consistent over the past ten weeks, holding steady at approximately $36 per ton. This marks a notable 35% increase compared to rates observed one year ago.
 
-![Στιγμιότυπο Οθόνης 2024 08 02 103132](assets/2024-08-02_upward-trend-in-the-number-of-ballasters_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_1e5ac4d698f2.png)
+![Στιγμιότυπο Οθόνης 2024 08 02 103132](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-08-02_upward-trend-in-the-number-of-ballasters_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_1e5ac4d698f2.png)
 
 > **Figure 3: Στιγμιότυπο Οθόνης 2024 08 02 103132**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-08-02_upward-trend-in-the-number-of-ballasters_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_1e5ac4d698f2.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-08-02_upward-trend-in-the-number-of-ballasters_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_1e5ac4d698f2.png)
 
 In the last week of July, the Cape SE Africa market continued to experience an accelerated pace of ballasters. Meanwhile, the Panamax SE Africa market remained near its annual average. In contrast, the Supramax SE Asia and Handy NOPAC markets recorded decreases.
 
@@ -65,10 +65,10 @@ In the last week of July, the Cape SE Africa market continued to experience an a
 - **Supramax SE Asia**: The count of ballast ships has now dropped below 90, indicating a trend that is falling below the annual average of 100 for early August.
 - **Handysize NOPAC**: After the peak in week 27, when the number of ballast ships reached the annual average of 78, the subsequent weeks saw a decline, staying below the annual trend. Recent levels have now fallen to their lowest in over a month.
 
-![Στιγμιότυπο Οθόνης 2024 08 02 103313](assets/2024-08-02_upward-trend-in-the-number-of-ballasters_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_cb1daadf6c79.png)
+![Στιγμιότυπο Οθόνης 2024 08 02 103313](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-08-02_upward-trend-in-the-number-of-ballasters_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_cb1daadf6c79.png)
 
 > **Figure 4: Στιγμιότυπο Οθόνης 2024 08 02 103313**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-08-02_upward-trend-in-the-number-of-ballasters_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_cb1daadf6c79.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-08-02_upward-trend-in-the-number-of-ballasters_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_cb1daadf6c79.png)
 
 In the last week of July, the outlook for dry tonne days showed an upward trend, especially for larger vessel segments.
 
@@ -77,10 +77,10 @@ In the last week of July, the outlook for dry tonne days showed an upward trend,
 - **Supramax**: The growth rate held its upward trend observed over the past five weeks, showing improvement from the low point recorded at the end of week 21.
 - **Handysize**: The upward trend in the Handysize vessel segment reversed at the end of the second week of the month, showing signs of a downward shift for early August.
 
-![Στιγμιότυπο Οθόνης 2024 08 02 103600](assets/2024-08-02_upward-trend-in-the-number-of-ballasters_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_c087fcc5f75f.png)
+![Στιγμιότυπο Οθόνης 2024 08 02 103600](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-08-02_upward-trend-in-the-number-of-ballasters_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_c087fcc5f75f.png)
 
 > **Figure 5: Στιγμιότυπο Οθόνης 2024 08 02 103600**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-08-02_upward-trend-in-the-number-of-ballasters_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_c087fcc5f75f.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-08-02_upward-trend-in-the-number-of-ballasters_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_c087fcc5f75f.png)
 
 In the last week of July, Chinese dry bulk port congestion continued its upward trend from the previous week, reaching the highest level for the current year.
 

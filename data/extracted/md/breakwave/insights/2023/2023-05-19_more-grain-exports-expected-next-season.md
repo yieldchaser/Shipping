@@ -27,7 +27,7 @@ This season’s contraction continues to put pressure on the dry bulk market. Co
 
 For next year, expectations are most bullish for coarse grain exports. The USDA is forecasting that global coarse grain exports in the upcoming 2023/24 season will total 234.9 million tons. This would mark a year-on-year increase of 19.9 million tons (9%). Much better harvests are expected in the United States and Argentina. The war in Ukraine, though, is expected to continue to have a very significant impact on Ukraine’s coarse grain production and exports.
 
-![Chart](assets/2023-05-19_more-grain-exports-expected-next-season_img_chart_4b9e4c745d2f.jpg)
+![Chart](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-05-19_more-grain-exports-expected-next-season_img_chart_4b9e4c745d2f.jpg)
 
 > **Figure 1: Chart**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-05-19_more-grain-exports-expected-next-season_img_chart_4b9e4c745d2f.jpg)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-05-19_more-grain-exports-expected-next-season_img_chart_4b9e4c745d2f.jpg)

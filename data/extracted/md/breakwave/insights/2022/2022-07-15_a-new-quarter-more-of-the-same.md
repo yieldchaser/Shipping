@@ -25,10 +25,10 @@ It is difficult not to get caught up in the general feeling of doom and gloom wh
 
 However, the year started differently. After an extended period of Covid-related disruptions, the new year provided some promises of a return to something that resembled normality for the commodities and dry bulk freight markets. In the last few years, the markets’ traditional seasonal patterns have been largely absent. Still, with the global economy emerging from the clutches of the pandemic and a popular narrative of a commodities super-cycle, it was widely expected that this year would mark the end of disruptions. However, the Russian assault on its western neighbour, followed by an extensive breakout of the Covid-virus in China and renewed lockdowns, effectively ended any such notions. Shipfix’s cargo order data for the first half of the year highlight a brief recovery in volumes following the Chinese New Year, but it proved short-lived, and the monthly data has been trending lower since in contrast to standard seasonal patterns.
 
-![#12 Dry Bulk Orders for Disch China Monthly 2022](assets/2022-07-15_a-new-quarter-more-of-the-same_img_2312drybulkordersfordischchinamonthl_40b17deca9dc.png)
+![#12 Dry Bulk Orders for Disch China Monthly 2022](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-07-15_a-new-quarter-more-of-the-same_img_2312drybulkordersfordischchinamonthl_40b17deca9dc.png)
 
 > **Figure 1: #12 Dry Bulk Orders for Disch China Monthly 2022**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-07-15_a-new-quarter-more-of-the-same_img_2312drybulkordersfordischchinamonthl_40b17deca9dc.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-07-15_a-new-quarter-more-of-the-same_img_2312drybulkordersfordischchinamonthl_40b17deca9dc.png)
 
 Source: Shipfix
 
@@ -42,19 +42,19 @@ The increasingly dubious outlook for the global economy has taken its toll on th
 
 Dry bulk freight rates could get some support from government initiatives to support growth rates, most notably in China. There are reports that the Chinese government is preparing to make the equivalent of 1.1 trillion dollars available for infrastructure investments to support the economy in the wake of the extensive damages caused by the lockdowns during the year's second quarter. If it comes to fruition, it will mark a significant policy reversal for Beijing, where debt control has recently been on the top of the agenda. In addition, the infrastructure investment plans that the US administration put in place to help the country emerge from the clutches of the pandemic will also have lasting effects on the US demand for dry bulk commodities. Despite the US economy facing increasing interest rates and more expensive investments, the country’s imports of cement, an essential building material, look set to rise. Shipfix cargo order data point toward increasing volumes discharged in US ports in the coming months.
 
-![1](assets/2022-07-15_a-new-quarter-more-of-the-same_img_1_6ba7cd1b3fd9.png)
+![1](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-07-15_a-new-quarter-more-of-the-same_img_1_6ba7cd1b3fd9.png)
 
 > **Figure 2: 1**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-07-15_a-new-quarter-more-of-the-same_img_1_6ba7cd1b3fd9.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-07-15_a-new-quarter-more-of-the-same_img_1_6ba7cd1b3fd9.png)
 
 Source: Shipfix
 
 An extensive Chinese drive to invest in infrastructure projects would promote the demand for many dry bulk commodities, notably iron ore and copper. The red metal has seen its fortunes under pressure in the last few months amid weak Chinese demand during the recent lockdowns. Cargo order volumes for copper heading for China have been trending higher since the middle of April, providing some support for the notion that the Chinese economy is recovering, albeit slowly. However, the past two weeks have seen volumes collapsing, possibly reflecting concerns over rising Covid-infection rates and renewed lockdowns. A successful implementation of the reported stimulus programmes would nevertheless see the volumes regaining their positive momentum.
 
-![2](assets/2022-07-15_a-new-quarter-more-of-the-same_img_2_29d54cdf19e8.png)
+![2](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-07-15_a-new-quarter-more-of-the-same_img_2_29d54cdf19e8.png)
 
 > **Figure 3: 2**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-07-15_a-new-quarter-more-of-the-same_img_2_29d54cdf19e8.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-07-15_a-new-quarter-more-of-the-same_img_2_29d54cdf19e8.png)
 
 Source: Shipfix
 

@@ -38,8 +38,8 @@ While the traditional fourth quarter rally appears to be in full swing, VLCC own
 
 ![Exhibit 1: VLCC Rates Climb to Highest Levels in 2013 VLCC rates rose to $47,200/d (Worldscale 59) on November 8th for the benchmark](../../../charts/poten/2013/poten_2013-11-08_vlcc-rates-climb-to-highest-levels-in-2013-vlcc-rates-rose_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2013/poten_2013-11-08_vlcc-rates-climb-to-highest-levels-in-2013-vlcc-rates-rose_chart1.png)
+> **Interactive Asset:** [Local Asset (200 DPI PNG)](../../../charts/poten/2013/poten_2013-11-08_vlcc-rates-climb-to-highest-levels-in-2013-vlcc-rates-rose_chart1.png)
 
 ![Exhibit 2: VLCC Rates Climb to Highest Levels in 2013 VLCC rates rose to $47,200/d (Worldscale 59) on November 8th for the benchmark](../../../charts/poten/2013/poten_2013-11-08_vlcc-rates-climb-to-highest-levels-in-2013-vlcc-rates-rose_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2013/poten_2013-11-08_vlcc-rates-climb-to-highest-levels-in-2013-vlcc-rates-rose_chart2.png)
+> **Interactive Asset:** [Local Asset (200 DPI PNG)](../../../charts/poten/2013/poten_2013-11-08_vlcc-rates-climb-to-highest-levels-in-2013-vlcc-rates-rose_chart2.png)

@@ -32,10 +32,14 @@ The structure of the forward oil price curve does not favor keeping oil in inven
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: Where Does It All Go](../../../charts/poten/2020/poten_2020-02-28_where-does-it-all-go_chart1.png)
+![Exhibit 1: Independent refiners aggregate utilization rate](../../../charts/poten/2020/poten_2020-02-28_where-does-it-all-go_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2020/poten_2020-02-28_where-does-it-all-go_chart1.png)
+> **Exhibit 1: Independent refiners aggregate utilization rate**  
+> Unit: % · X-axis: Jan to Dec  
+> Series: 2016-19 range, 2020  
+> *Source: Bloomberg*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2020/poten_2020-02-28_where-does-it-all-go_chart1.png)
 
 ![Exhibit 2: Where Does It All Go](../../../charts/poten/2020/poten_2020-02-28_where-does-it-all-go_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2020/poten_2020-02-28_where-does-it-all-go_chart2.png)
+> **Interactive Asset:** [Local Asset (200 DPI PNG)](../../../charts/poten/2020/poten_2020-02-28_where-does-it-all-go_chart2.png)

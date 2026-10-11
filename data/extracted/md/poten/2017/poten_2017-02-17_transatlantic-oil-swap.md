@@ -38,10 +38,18 @@ It looks like the transatlantic product trade will remain a significant source o
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: Transatlantic Oil Swap](../../../charts/poten/2017/poten_2017-02-17_transatlantic-oil-swap_chart1.png)
+![Exhibit 1: Fig. 1: Product Exports from Europe to North America vs Freight (UKC-USAC)](../../../charts/poten/2017/poten_2017-02-17_transatlantic-oil-swap_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2017/poten_2017-02-17_transatlantic-oil-swap_chart1.png)
+> **Exhibit 1: Fig. 1: Product Exports from Europe to North America vs Freight (UKC-USAC)**  
+> Unit: K Tons/Month | TCE · X-axis: Jan-05 to Jan-16  
+> Series: Gasoline, Gas/Diesel Oil, Naphtha, Other, TCE (RTM-NY)  
+> *Source: IEA*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2017/poten_2017-02-17_transatlantic-oil-swap_chart1.png)
 
-![Exhibit 2: Transatlantic Oil Swap](../../../charts/poten/2017/poten_2017-02-17_transatlantic-oil-swap_chart2.png)
+![Exhibit 2: Fig. 2: Product Exports from North America to Europe vs Freight (USG-UKC)](../../../charts/poten/2017/poten_2017-02-17_transatlantic-oil-swap_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2017/poten_2017-02-17_transatlantic-oil-swap_chart2.png)
+> **Exhibit 2: Fig. 2: Product Exports from North America to Europe vs Freight (USG-UKC)**  
+> Unit: K Tons/Month | TCE · X-axis: Jan-05 to Jan-16  
+> Series: Gasoline, Gas/Diesel Oil, Naphtha, Other, TCE (USG-UKC)  
+> *Source: IEA*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2017/poten_2017-02-17_transatlantic-oil-swap_chart2.png)

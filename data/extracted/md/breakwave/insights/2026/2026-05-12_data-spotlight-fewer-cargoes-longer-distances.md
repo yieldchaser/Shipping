@@ -20,10 +20,10 @@ source_file: "corpus/03-breakwave/insights/2026/2026-05-12_data-spotlight-fewer-
 
 ---
 
-![Unsplash Image Juqnquem V4](assets/2026-05-12_data-spotlight-fewer-cargoes-longer-distances_img_unsplash-image-juqnquem-v4_7ffc30094c33.jpg)
+![Unsplash Image Juqnquem V4](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-05-12_data-spotlight-fewer-cargoes-longer-distances_img_unsplash-image-juqnquem-v4_7ffc30094c33.jpg)
 
 > **Figure 1: Unsplash Image Juqnquem V4**  
-> **Interactive Data & Source:** [App Tankersinternational](http://app.tankersinternational.com/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-05-12_data-spotlight-fewer-cargoes-longer-distances_img_unsplash-image-juqnquem-v4_7ffc30094c33.jpg)
+> **Interactive Data & Source:** [App Tankersinternational](http://app.tankersinternational.com/) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-05-12_data-spotlight-fewer-cargoes-longer-distances_img_unsplash-image-juqnquem-v4_7ffc30094c33.jpg)
 
 The disruption to Middle East crude exports continues to reshape the VLCC market, but headline cargo losses only tell part of the story.
 
@@ -41,10 +41,10 @@ As long as Atlantic Basin crude continues to substitute for constrained Middle E
 
 Moreover, a return to more traditional Middle East export flows would likely coincide with a recovery in overall cargo volumes, offsetting the impact of shorter voyage distances and ultimately returning the market to a more balanced but still fundamentally healthy tonnemile environment.
 
-![Στιγμιότυπο Οθόνης 2026 05 12 112046](assets/2026-05-12_data-spotlight-fewer-cargoes-longer-distances_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_74e3699c8d0d.png)
+![Στιγμιότυπο Οθόνης 2026 05 12 112046](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-05-12_data-spotlight-fewer-cargoes-longer-distances_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_74e3699c8d0d.png)
 
 > **Figure 2: Στιγμιότυπο Οθόνης 2026 05 12 112046**  
-> **Interactive Data & Source:** [Tankersinternational](https://tankersinternational.com/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-05-12_data-spotlight-fewer-cargoes-longer-distances_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_74e3699c8d0d.png)
+> **Interactive Data & Source:** [Tankersinternational](https://tankersinternational.com/) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-05-12_data-spotlight-fewer-cargoes-longer-distances_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_74e3699c8d0d.png)
 
 Data Source:[Tankers International](https://tankersinternational.com/)
 

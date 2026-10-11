@@ -62,10 +62,10 @@ The past two months have seen a seasonal decline in demand for seaborne transpor
 
 While Chinese imports of US coal look set to increase in the coming months, as indicated by the recent robust cargo order data, Chinese authorities could also target this trade in response to the new US tariffs. Coal from the US accounts for a relatively small part of Chinese imports and should be relatively easy to substitute. Any restrictions on Chinese imports of US coal would primarily affect tonne-mile demand for capesizes and panamaxes, as replacements would likely be sourced from closer exporters. Additionally, if the Chinese leadership decided to target agricultural imports from the US, demand in the mid-sized segments during the second half of the year would come under pressure.
 
-![Market Chart 1](assets/2024-05-15_iron-ore-was-one-of-the-session-losers_img_unnamed_9be314d4130a.png)
+![Market Chart 1](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-05-15_iron-ore-was-one-of-the-session-losers_img_unnamed_9be314d4130a.png)
 
 > **Figure 1: Market Chart 1**  
-> **Interactive Data & Source:** [Shipfix](https://shipfix.com/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-05-15_iron-ore-was-one-of-the-session-losers_img_unnamed_9be314d4130a.png)
+> **Interactive Data & Source:** [Shipfix](https://shipfix.com/) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-05-15_iron-ore-was-one-of-the-session-losers_img_unnamed_9be314d4130a.png)
 
 Data Source:[Shipfix](https://shipfix.com/)
 

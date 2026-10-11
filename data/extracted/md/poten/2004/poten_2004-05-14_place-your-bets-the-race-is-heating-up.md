@@ -70,6 +70,19 @@ Rates have generally weakened from their historical highs of January because shi
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: Place Your Bets The Race Is Heating Up!](../../../charts/poten/2004/poten_2004-05-14_place-your-bets-the-race-is-heating-up_chart1.png)
+> **Chart on PDF page 1: World Oil Consumption & Oil Prices**  
+> Unit: MM Bpd | $/BBl · X-axis: 1999 to 2003  
+> Series: $/BBl, MM Bpd  
+> *Source: Poten & Partners/EIA*  
+> *No image crop of this chart was saved; caption read from the PDF.*
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2004/poten_2004-05-14_place-your-bets-the-race-is-heating-up_chart1.png)
+> **Chart on PDF page 2: World Oil Consumption & Tanker Supply**  
+> Unit: MM Bpd | MM Dwt · X-axis: 1999 to 2003  
+> Series: MM Dwt, MM Bpd  
+> *Source: Poten & Partners/EIA*  
+> *No image crop of this chart was saved; caption read from the PDF.*
+
+> **Chart on PDF page 3: WS Rates AG to FE 2002 to Present**  
+> Unit: WS Rates · X-axis: 01/01/02 to 03/11/04  
+> Series: WS Rates  
+> *No image crop of this chart was saved; caption read from the PDF.*

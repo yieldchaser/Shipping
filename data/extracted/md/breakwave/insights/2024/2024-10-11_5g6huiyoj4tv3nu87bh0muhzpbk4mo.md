@@ -36,10 +36,10 @@ As the chart below shows, Australia’s supply of thermal coal to two main Asian
 
 **Japan’s heatwave led to another massive August intake of Australian thermal coal**, mainly benefitting Panamax tonnage, judging by vessel tracking. Official data confirmed August was a two-year high of 8.0m tonnes for thermal coal exports to Japan.
 
-![Market Chart 1](assets/2024-10-11_5g6huiyoj4tv3nu87bh0muhzpbk4mo_img_image0_803d72880b4a.png)
+![Market Chart 1](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-10-11_5g6huiyoj4tv3nu87bh0muhzpbk4mo_img_image0_803d72880b4a.png)
 
 > **Figure 1: Market Chart 1**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-10-11_5g6huiyoj4tv3nu87bh0muhzpbk4mo_img_image0_803d72880b4a.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-10-11_5g6huiyoj4tv3nu87bh0muhzpbk4mo_img_image0_803d72880b4a.png)
 
 This was short-lived as AXS vessel tracking indicated a retreat below 30m tonnes in September as summer aircon demand faded.
 
@@ -55,10 +55,10 @@ At the same time, fewer Australian thermal coal cargoes have been shipped to Ind
 
 **Our second comment**is that while Panamax demand benefitted from demand for Australian thermal coal from China and Japan in the Q3, it is significant that**Capes avoided the slump in Australian coal trades involvement seen in each of the preceding two Q3s**(see chart below).
 
-![Market Chart 2](assets/2024-10-11_5g6huiyoj4tv3nu87bh0muhzpbk4mo_img_image1_3a8c06fed1e8.png)
+![Market Chart 2](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-10-11_5g6huiyoj4tv3nu87bh0muhzpbk4mo_img_image1_3a8c06fed1e8.png)
 
 > **Figure 2: Market Chart 2**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-10-11_5g6huiyoj4tv3nu87bh0muhzpbk4mo_img_image1_3a8c06fed1e8.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-10-11_5g6huiyoj4tv3nu87bh0muhzpbk4mo_img_image1_3a8c06fed1e8.png)
 
 In the past two years steep quarterly falls into the Q3 of around -7m tonnes have followed.
 
@@ -74,10 +74,10 @@ Although**India**has again enjoyed the biggest expansion story for steel product
 
 In, the overland inflow of Mongolian coking coal has increased since 2019-20 to the detriment of import demand.
 
-![China](assets/2024-10-11_5g6huiyoj4tv3nu87bh0muhzpbk4mo_img_image2_b2147cb85d26.png)
+![China](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-10-11_5g6huiyoj4tv3nu87bh0muhzpbk4mo_img_image2_b2147cb85d26.png)
 
 > **Figure 3: China**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-10-11_5g6huiyoj4tv3nu87bh0muhzpbk4mo_img_image2_b2147cb85d26.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-10-11_5g6huiyoj4tv3nu87bh0muhzpbk4mo_img_image2_b2147cb85d26.png)
 
 ---
 

@@ -88,6 +88,25 @@ A falling price and a cutback in AG exports may be temporary. No one has suggest
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: OPEC Cuts Production- Is There a Message?](../../../charts/poten/2004/poten_2004-12-10_opec-cuts-production-is-there-a-message_chart1.png)
+> **Chart on PDF page 1: AG Exports and Oil Prices**  
+> Unit: MM Bpd | $/Bbl · X-axis: Jan-01 to Jul-04  
+> Series: MM Bpd, $/Bbl  
+> *Source: EIA/Poten*  
+> *No image crop of this chart was saved; caption read from the PDF.*
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2004/poten_2004-12-10_opec-cuts-production-is-there-a-message_chart1.png)
+> **Chart on PDF page 2: Oil Prices versus AG Exports (2001-Sept 2004)**  
+> Unit: $/Bbl | MM Bpd · X-axis: 18 to 24  
+> Series: EIA/Poten  
+> *No image crop of this chart was saved; caption read from the PDF.*
+
+> **Chart on PDF page 3: U.S. Crude Oil Inventory**  
+> Unit: Million Bbls · X-axis: Jan-00 to Jan-04  
+> Series: U.S. Crude Oil Inventory  
+> *Source: EIA/Poten*  
+> *No image crop of this chart was saved; caption read from the PDF.*
+
+> **Chart on PDF page 3: U.S. Heating Oil Inventory**  
+> Unit: Million Bbls · X-axis: Jan-00 to Jan-04  
+> Series: U.S. Heating Oil Inventory  
+> *Source: EIA/Poten*  
+> *No image crop of this chart was saved; caption read from the PDF.*

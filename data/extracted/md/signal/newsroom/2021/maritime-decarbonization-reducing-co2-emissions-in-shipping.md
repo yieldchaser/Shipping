@@ -41,11 +41,11 @@ Solutions to reach decarbonization exist and will continue being developed. Data
 Data monitoring is essential for all players,  owners and charterers alike, to assess emissions historically and identify load / discharge areas with the highest and lowest CO2 emissions levels per vessel segment. With this method, shipping players can optimize fleet deployment and immediately address short term factors, such as slow steaming and triangulation. By optimally selecting ships for cargoes the industry can, starting today, achieve a direct reduction in the CO2 emissions of shipping. [Digital transformation in commercial shipping](https://theicct.org/publications/marine-eexi-nov2020)is now crucial to facilitate decisions that balance profitability with environmental footprint.
 
 
-![Scrubber Exhaust Pipe of Ships Systems (E.g](../../images/66b51d3dda739356d24ea52a_60ed87a0a9010bc64f5506c3_maritime%20decarbonasation%20signal%20ocean%20platform%20data%20v2.avif)
+![Scrubber Exhaust Pipe of Ships Systems (E.g](../../images/66b51d3dda739356d24ea52a_60ed87a0a9010bc64f5506c3_maritime%2520decarbonasation%2520signal%2520ocean%2520platform%2520data%2520v2.avif)
 
 > **Figure 1: Scrubber Exhaust Pipe of Ships Systems (E.g**  
 > *Scrubber Exhaust pipe of ships systems (e.g. chemical scrubbers, gas scrubbers)*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/maritime-decarbonization-reducing-co2-emissions-in-shipping) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/66b51d3dda739356d24ea52a_60ed87a0a9010bc64f5506c3_maritime%20decarbonasation%20signal%20ocean%20platform%20data%20v2.avif)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/maritime-decarbonization-reducing-co2-emissions-in-shipping) | [Local Asset](../../../../../../corpus/07-signal/images/66b51d3dda739356d24ea52a_60ed87a0a9010bc64f5506c3_maritime%2520decarbonasation%2520signal%2520ocean%2520platform%2520data%2520v2.avif)
 
 
 ## Co2 Emissions Monitoring with the Signal Ocean Platform
@@ -60,11 +60,11 @@ The Signal Ocean Platform estimates CO2 emissions from AIS data converted into v
 The below geographical distribution (Chart 1), using The Signal Ocean Platform data, demonstrates the level of CO2 maritime emissions for the year 2020, million tons per load area, for VLCC, Suezmax, Aframax fleets compared to Panamax and MR fleets. The same dataset can be used to aggregate information by segment, route or industry player (charterer or commercial operator), as a useful proxy to their comparative environmental performance. Such perspectives can enable participants to track and adjust their operational practices and decision making as they look to achieve the interim 2030 IMO objectives.
 
 
-![Total Co2 Emissions, Year 2020 per Load Area, for VLCC, Suezmax, Aframax, Panamax, Mr Fleets](../../images/66b51d3dda739356d24ea544_60ed8ce2867056b48107fa21_wet%20co2%20maritime%20and%20shipping%20industry%20emissio%20year%202020%20geographic%20distribution%20signal%20ocean.avif)
+![Total Co2 Emissions, Year 2020 per Load Area, for VLCC, Suezmax, Aframax, Panamax, Mr Fleets](../../images/66b51d3dda739356d24ea544_60ed8ce2867056b48107fa21_wet%2520co2%2520maritime%2520and%2520shipping%2520industry%2520emissio%2520year%25202020%2520geographic%2520distribution%2520signal%2520ocean.avif)
 
 > **Chart 1: Total Co2 Emissions, Year 2020 per Load Area, for VLCC, Suezmax, Aframax, Panamax, Mr Fleets**  
 > *Chart 1: Total CO2 Emissions, Year 2020 per Load Area, for VLCC, Suezmax, Aframax, Panamax, MR Fleets. Signal Ocean Platform data.*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/maritime-decarbonization-reducing-co2-emissions-in-shipping) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/66b51d3dda739356d24ea544_60ed8ce2867056b48107fa21_wet%20co2%20maritime%20and%20shipping%20industry%20emissio%20year%202020%20geographic%20distribution%20signal%20ocean.avif)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/maritime-decarbonization-reducing-co2-emissions-in-shipping) | [Local Asset](../../../../../../corpus/07-signal/images/66b51d3dda739356d24ea544_60ed8ce2867056b48107fa21_wet%2520co2%2520maritime%2520and%2520shipping%2520industry%2520emissio%2520year%25202020%2520geographic%2520distribution%2520signal%2520ocean.avif)
 
 
 ## Triangulation Is Key
@@ -74,11 +74,11 @@ While we often consider the laden leg when we are thinking about CO2 emissions a
 The figures for year 2020 indicate highest average triangulation time for MR2: 59% and MR1:57% (chart 2), however, taking into account cargo quantity transported and the number of voyages per vessel size, normalised CO2 per ton mile  (chart 3) appear the lowest for MR2s and Aframaxes.
 
 
-![&3:average Triangulation Time and Co2 Emissions per Vessel Class](../../images/66b51d3dda739356d24ea52f_60ee98b3d5512e7b81b8a266_total%20co2%20emission%20per%20vessel%20class%20signal%20ocean%20platform%20decarbonasation%20and%20shipping%20v2.avif)
+![&3:average Triangulation Time and Co2 Emissions per Vessel Class](../../images/66b51d3dda739356d24ea52f_60ee98b3d5512e7b81b8a266_total%2520co2%2520emission%2520per%2520vessel%2520class%2520signal%2520ocean%2520platform%2520decarbonasation%2520and%2520shipping%2520v2.avif)
 
 > **Chart 2: &3:average Triangulation Time and Co2 Emissions per Vessel Class**  
 > *Chart 2&3:Average Triangulation Time and CO2 emissions per vessel class. Signal Ocean Platform data.*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/maritime-decarbonization-reducing-co2-emissions-in-shipping) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/66b51d3dda739356d24ea52f_60ee98b3d5512e7b81b8a266_total%20co2%20emission%20per%20vessel%20class%20signal%20ocean%20platform%20decarbonasation%20and%20shipping%20v2.avif)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/maritime-decarbonization-reducing-co2-emissions-in-shipping) | [Local Asset](../../../../../../corpus/07-signal/images/66b51d3dda739356d24ea52f_60ee98b3d5512e7b81b8a266_total%2520co2%2520emission%2520per%2520vessel%2520class%2520signal%2520ocean%2520platform%2520decarbonasation%2520and%2520shipping%2520v2.avif)
 
 
 ## The Impact of Vessel Speed on the Reduction of Co2 Emissions
@@ -86,11 +86,11 @@ The figures for year 2020 indicate highest average triangulation time for MR2: 5
 The industry is used to adjusting the speed based on market conditions as shown at the chart 4 below. The commercial decision of vessel speed follows the volatility of the spot freight market and market expectations for future earnings. It is worth noting that establishing slow steaming could have a significant impact on the overall CO2 emissions. With [The Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform/features), users can navigate and monitor cases of CO2 savings in the ballast and laden leg of voyages adjusting vessel speed. We can say that with a 1 knot reduction in vessel speed in the laden leg, there is potential to save around 2 millions tons of CO2 on a yearly basis for tankers, however this can fluctuate with market conditions and is strongly influenced by the decisions of commercial operators as they navigate the challenges of supply and demand.
 
 
-![Speed Report per Vessel Class](../../images/66b51d3dda739356d24ea53f_60ed8d4f85dae95285bf5ebf_vessel%20speeds%20signal%20ocean%20platform%20decarbonasation%20maritime.avif)
+![Speed Report per Vessel Class](../../images/66b51d3dda739356d24ea53f_60ed8d4f85dae95285bf5ebf_vessel%2520speeds%2520signal%2520ocean%2520platform%2520decarbonasation%2520maritime.avif)
 
 > **Chart 4: Speed Report per Vessel Class**  
 > *Chart 4: Speed report per vessel class. Signal Ocean Platform data.*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/maritime-decarbonization-reducing-co2-emissions-in-shipping) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/66b51d3dda739356d24ea53f_60ed8d4f85dae95285bf5ebf_vessel%20speeds%20signal%20ocean%20platform%20decarbonasation%20maritime.avif)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/maritime-decarbonization-reducing-co2-emissions-in-shipping) | [Local Asset](../../../../../../corpus/07-signal/images/66b51d3dda739356d24ea53f_60ed8d4f85dae95285bf5ebf_vessel%2520speeds%2520signal%2520ocean%2520platform%2520decarbonasation%2520maritime.avif)
 
 
 ## The Steps for Lower Co2 Emissions Transition

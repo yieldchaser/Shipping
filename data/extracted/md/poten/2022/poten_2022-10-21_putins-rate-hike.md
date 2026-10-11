@@ -28,10 +28,18 @@ While the tanker industry usually finds a way to keep the oil flowing, despite t
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: Putins Rate Hike](../../../charts/poten/2022/poten_2022-10-21_putins-rate-hike_chart1.png)
+![Exhibit 1: Crude Oil Exports from Russia](../../../charts/poten/2022/poten_2022-10-21_putins-rate-hike_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2022/poten_2022-10-21_putins-rate-hike_chart1.png)
+> **Exhibit 1: Crude Oil Exports from Russia**  
+> Unit: Kbbl / Day · X-axis: Jan-17 to Jul-22  
+> Series: China, Korea, Other Asia, UKC/Baltic, Mediterranean, Americas. Atlantic, Other  
+> *Source: Lloyd’s List Intelligence*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2022/poten_2022-10-21_putins-rate-hike_chart1.png)
 
-![Exhibit 2: Putins Rate Hike](../../../charts/poten/2022/poten_2022-10-21_putins-rate-hike_chart2.png)
+![Exhibit 2: Aframax & Suezmax Freight Rates](../../../charts/poten/2022/poten_2022-10-21_putins-rate-hike_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2022/poten_2022-10-21_putins-rate-hike_chart2.png)
+> **Exhibit 2: Aframax & Suezmax Freight Rates**  
+> Unit: $/day · X-axis: 1-Jan-21 to 1-Oct-22  
+> Series: Aframax (UKC-UKC), Suezmax (WAF - UKC)  
+> *Source: Poten & Partners*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2022/poten_2022-10-21_putins-rate-hike_chart2.png)

@@ -26,6 +26,8 @@ tags:
 
 This initiative aims to leverage Giacomo’s extensive industry expertise and strategic vision to establish new pools in untapped markets, enhancing both the efficiency and sustainability of maritime operations. The venture will initially focus on building a robust fleet within the petroleum products’ segments, with plans to explore additional segments in the future. Further details will be shared in due course.
 
+"I am thrilled to embark on this journey with Signal Group, a partner that shares my vision for innovation and growth in the maritime sector. Together, we aim to unlock new opportunities, strengthen Signal Maritime’s leadership position, and make a lasting impact on the industry."
+
 Signal Maritime’s support underscores its commitment to fostering innovation and delivering excellence in maritime operations. This collaboration represents a significant milestone in Signal Group’s expansion strategy, capitalising on Giacomo’s unparalleled expertise to explore new frontiers and address the dynamic challenges of the global market.
 
 ***Media Inquiries:***

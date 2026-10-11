@@ -32,11 +32,11 @@ The current year presents year to date an overall slower dry bulk demand growth 
 In graph 1, we can see the total growth of dry bulk demand in ton days for all vessel class categories in comparison to 2021 and the sharp decrease we described above, especially with the onset of geopolitical tensions between Russia and Ukraine. It seems that the second quarter will end with significantly slower growth than the first three months as there is a sustained decreasing trend till the first days of May.
 
 
-![Graph 1| Data Source: The Signal Ocean Platform, Ton Days, Period 2021-22the Tondays Time-Series Graph Presents the Laden Days of the Seagoing and Stopped Vessels for the User-Selected Vessel Class Range That Have Loaded (Area From, All Areas) and Discharged (Area to All) the Selected Areas](../../images/66b51e4690a5b02ce9935470_627a26aa9135c81ff700ff0a_Dry%20Bulk%20Demand%20-%20Ton%20Days%20(%25%20Growth)%20%20(1).avif)
+![Graph 1| Data Source: The Signal Ocean Platform, Ton Days, Period 2021-22the Tondays Time-Series Graph Presents the Laden Days of the Seagoing and Stopped Vessels for the User-Selected Vessel Class Range That Have Loaded (Area From, All Areas) and Discharged (Area to All) the Selected Areas](../../images/66b51e4690a5b02ce9935470_627a26aa9135c81ff700ff0a_Dry%2520Bulk%2520Demand%2520-%2520Ton%2520Days%2520(%2525%2520Growth)%2520%2520(1).avif)
 
 > **Figure 1: Graph 1| Data Source: The Signal Ocean Platform, Ton Days, Period 2021-22the Tondays Time-Series Graph Presents the Laden Days of the Seagoing and Stopped Vessels for the User-Selected Vessel Class Range That Have Loaded (Area From, All Areas) and Discharged (Area to All) the Selected Areas**  
 > *Graph 1| Data Source: The Signal Ocean Platform, Ton Days, Period 2021-22The TonDays time-series graph presents the laden days of the seagoing and stopped vessels for the user-selected vessel class range that have loaded (Area From, All Areas) and discharged (Area To All) the selected areas. We define TonDays = Deadweight * VoyageDays VoyageDays = LastDischargeSailingDate - FirstLoadStartTimeOfOperation. To compute the TonDays time-series, we aggregate for each day the TonDaysPerDay for all the seagoing and stopped vessels.*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/dry-bulk-demand-quarterly-review-2022) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/66b51e4690a5b02ce9935470_627a26aa9135c81ff700ff0a_Dry%20Bulk%20Demand%20-%20Ton%20Days%20(%25%20Growth)%20%20(1).avif)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/dry-bulk-demand-quarterly-review-2022) | [Local Asset](../../../../../../corpus/07-signal/images/66b51e4690a5b02ce9935470_627a26aa9135c81ff700ff0a_Dry%2520Bulk%2520Demand%2520-%2520Ton%2520Days%2520(%2525%2520Growth)%2520%2520(1).avif)
 
 There is currently a holding uncertainty for the future of dry bulk demand as we are in the front of a [zero-COVID](https://www.bbc.com/news/59882774) policy in China with questions on how serious the current wave can be as the rise in daily cases is mainly due to the Omicron variant. There are mixed concerns on how Chinese policy will change as more infections are detected across the country with most of the principal elements of the zero-COVID policy remaining in place. The ongoing threat is whether China will defeat the slower economic growth for this year when [Chinese iron ore imports](https://www.reuters.com/article/china-economy-trade-ironore-idAFL2N2VA07E)remained almost flat during January-February at almost similar levels to the previous year at around 181.1M tons vs 181.5M tons a year ago.
 
@@ -53,20 +53,20 @@ With all said above, estimates for the growth of the world’s second-largest ec
 It is true that the growth of the Chinese economy is at risk given the latest estimates, however, it is interesting that the evolution of ton days growth in the Capesize segment (Graph 2) is in an upward trajectory from April onwards, however, the growth persists sharply lower than the levels of last year. We are cautious about the future growth due to the challenges aforesaid although it is a positive signal for Capesize freight rates that the demand seems to be gradually recovering from the constant decrease of growth seen in the March-April period.
 
 
-![Graph 2| Data Source: The Signal Ocean Platform, Capesize, Ton Days, Period 2021-22](../../images/66b51e4690a5b02ce9935479_627a270feb48a92b2854a0b3_Dry%20Bulk%20Demand%20-%20Capesize%20Ton%20Days%20(%25%20Growth)%20%20(1).avif)
+![Graph 2| Data Source: The Signal Ocean Platform, Capesize, Ton Days, Period 2021-22](../../images/66b51e4690a5b02ce9935479_627a270feb48a92b2854a0b3_Dry%2520Bulk%2520Demand%2520-%2520Capesize%2520Ton%2520Days%2520(%2525%2520Growth)%2520%2520(1).avif)
 
 > **Figure 2: Graph 2| Data Source: The Signal Ocean Platform, Capesize, Ton Days, Period 2021-22**  
 > *Graph 2| Data Source: The Signal Ocean Platform, Capesize, Ton Days, Period 2021-22*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/dry-bulk-demand-quarterly-review-2022) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/66b51e4690a5b02ce9935479_627a270feb48a92b2854a0b3_Dry%20Bulk%20Demand%20-%20Capesize%20Ton%20Days%20(%25%20Growth)%20%20(1).avif)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/dry-bulk-demand-quarterly-review-2022) | [Local Asset](../../../../../../corpus/07-signal/images/66b51e4690a5b02ce9935479_627a270feb48a92b2854a0b3_Dry%2520Bulk%2520Demand%2520-%2520Capesize%2520Ton%2520Days%2520(%2525%2520Growth)%2520%2520(1).avif)
 
 In a comparison with Capesize, demand ton days growth for Supramax has not yet shown signs of an upturn. The existing trend is decreasing to levels lower than last year and the current evolution appears to continue at a similar pace as the previous month. (Graph 3)
 
 
-![Graph 3| Data Source: The Signal Ocean Platform, Supramax, Ton Days, Period 2021-22](../../images/66b51e4690a5b02ce99354d2_627a26f44d23eb1ec5dc50ef_Dry%20Bulk%20Demand%20-%20Supramax%20Ton%20Days%20(%25%20Growth)%20.avif)
+![Graph 3| Data Source: The Signal Ocean Platform, Supramax, Ton Days, Period 2021-22](../../images/66b51e4690a5b02ce99354d2_627a26f44d23eb1ec5dc50ef_Dry%2520Bulk%2520Demand%2520-%2520Supramax%2520Ton%2520Days%2520(%2525%2520Growth)%2520.avif)
 
 > **Figure 3: Graph 3| Data Source: The Signal Ocean Platform, Supramax, Ton Days, Period 2021-22**  
 > *Graph 3| Data Source: The Signal Ocean Platform, Supramax, Ton Days, Period 2021-22*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/dry-bulk-demand-quarterly-review-2022) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/66b51e4690a5b02ce99354d2_627a26f44d23eb1ec5dc50ef_Dry%20Bulk%20Demand%20-%20Supramax%20Ton%20Days%20(%25%20Growth)%20.avif)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/dry-bulk-demand-quarterly-review-2022) | [Local Asset](../../../../../../corpus/07-signal/images/66b51e4690a5b02ce99354d2_627a26f44d23eb1ec5dc50ef_Dry%2520Bulk%2520Demand%2520-%2520Supramax%2520Ton%2520Days%2520(%2525%2520Growth)%2520.avif)
 
 
 #### This Year's Evolution Trend per Vessel Class - Cargo Flows
@@ -74,36 +74,36 @@ In a comparison with Capesize, demand ton days growth for Supramax has not yet s
 With a focus on the evolution of this year, we can see in Graph 4 that the Capesize has already started the upward cycle, while Panamax demand growth in ton days is still in a persistent downward trend. At the same time, looking at the smaller vessel class categories, the Handysize segment now seemed to exit from the downward trend compared to weaker growth evidenced in the Supramax segment.
 
 
-![Graph 4| Data Source: The Signal Ocean Platform, Major Dry Bulk Vessel Class Categories, Ton Days, Period 2021-22](../../images/66b51e4690a5b02ce9935473_627a275db337a1442c86ec8e_image%20(287).avif)
+![Graph 4| Data Source: The Signal Ocean Platform, Major Dry Bulk Vessel Class Categories, Ton Days, Period 2021-22](../../images/66b51e4690a5b02ce9935473_627a275db337a1442c86ec8e_image%2520(287).avif)
 
 > **Figure 4: Graph 4| Data Source: The Signal Ocean Platform, Major Dry Bulk Vessel Class Categories, Ton Days, Period 2021-22**  
 > *Graph 4| Data Source: The Signal Ocean Platform, Major Dry Bulk Vessel Class Categories, Ton Days, Period 2021-22*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/dry-bulk-demand-quarterly-review-2022) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/66b51e4690a5b02ce9935473_627a275db337a1442c86ec8e_image%20(287).avif)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/dry-bulk-demand-quarterly-review-2022) | [Local Asset](../../../../../../corpus/07-signal/images/66b51e4690a5b02ce9935473_627a275db337a1442c86ec8e_image%2520(287).avif)
 
 Looking at the **cargo flows**, (Graph 5), we noticed that in the Capesize segment, there is an improved flow from Brazil to China in March-April, while monthly cargo volumes from Australia stood at similar monthly levels to last year. The latest estimates on cargo flow support the revival we have seen lately in the demand for Capesize vessels in the seaborne iron ore transportation with a positive impact on the direction of freight rates.
 
 
-![Graph 5| Data Source: The Signal Ocean Platform, Capesize, Monthly Cargo Flow From Brazil/australia to China, Period 2021-22](../../images/66b51e4690a5b02ce99354cf_627a278d5a5be52a094e0c53_image%20(288).avif)
+![Graph 5| Data Source: The Signal Ocean Platform, Capesize, Monthly Cargo Flow From Brazil/australia to China, Period 2021-22](../../images/66b51e4690a5b02ce99354cf_627a278d5a5be52a094e0c53_image%2520(288).avif)
 
 > **Figure 5: Graph 5| Data Source: The Signal Ocean Platform, Capesize, Monthly Cargo Flow From Brazil/australia to China, Period 2021-22**  
 > *Graph 5| Data Source: The Signal Ocean Platform, Capesize, Monthly Cargo Flow from Brazil/Australia to China, Period 2021-22*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/dry-bulk-demand-quarterly-review-2022) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/66b51e4690a5b02ce99354cf_627a278d5a5be52a094e0c53_image%20(288).avif)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/dry-bulk-demand-quarterly-review-2022) | [Local Asset](../../../../../../corpus/07-signal/images/66b51e4690a5b02ce99354cf_627a278d5a5be52a094e0c53_image%2520(288).avif)
 
 In smaller vessel class categories, (Graphs 6 & 7), Russia and Ukraine have played a crucial role in the evolution of ton days from February onwards as we see sharp while the [major blockades at Ukrainian seaports](https://www.nepia.com/industry-news/russia-ukraine-military-action-impact-on-shipping/) have caused the monthly volume of flows to standstill.
 
 
-![Graph 6| Data Source: The Signal Ocean Platform, Supramax, Russian/ukraine Monthly Cargo Flow to All, Period 2021-22](../../images/66b51e4690a5b02ce9935476_627a27aefbd529180379ab6f_image%20(289).avif)
+![Graph 6| Data Source: The Signal Ocean Platform, Supramax, Russian/ukraine Monthly Cargo Flow to All, Period 2021-22](../../images/66b51e4690a5b02ce9935476_627a27aefbd529180379ab6f_image%2520(289).avif)
 
 > **Figure 6: Graph 6| Data Source: The Signal Ocean Platform, Supramax, Russian/ukraine Monthly Cargo Flow to All, Period 2021-22**  
 > *Graph 6| Data Source: The Signal Ocean Platform, Supramax, Russian/Ukraine Monthly Cargo Flow to All, Period 2021-22*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/dry-bulk-demand-quarterly-review-2022) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/66b51e4690a5b02ce9935476_627a27aefbd529180379ab6f_image%20(289).avif)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/dry-bulk-demand-quarterly-review-2022) | [Local Asset](../../../../../../corpus/07-signal/images/66b51e4690a5b02ce9935476_627a27aefbd529180379ab6f_image%2520(289).avif)
 
 
-![Graph 7| Data Source: The Signal Ocean Platform, Handysize, Russian/ukraine Monthly Cargo Flow to All, Period 2021-22](../../images/66b51e4690a5b02ce993547c_627a27c8c57d46b3715253b1_image%20(290).avif)
+![Graph 7| Data Source: The Signal Ocean Platform, Handysize, Russian/ukraine Monthly Cargo Flow to All, Period 2021-22](../../images/66b51e4690a5b02ce993547c_627a27c8c57d46b3715253b1_image%2520(290).avif)
 
 > **Figure 7: Graph 7| Data Source: The Signal Ocean Platform, Handysize, Russian/ukraine Monthly Cargo Flow to All, Period 2021-22**  
 > *Graph 7| Data Source: The Signal Ocean Platform, Handysize, Russian/Ukraine Monthly Cargo Flow to All, Period 2021-22*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/dry-bulk-demand-quarterly-review-2022) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/66b51e4690a5b02ce993547c_627a27c8c57d46b3715253b1_image%20(290).avif)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/dry-bulk-demand-quarterly-review-2022) | [Local Asset](../../../../../../corpus/07-signal/images/66b51e4690a5b02ce993547c_627a27c8c57d46b3715253b1_image%2520(290).avif)
 
 
 ## What’s Next

@@ -64,10 +64,10 @@ Following the release of weak US labour data on Friday, the US dollar has come u
 
 Weekly cargo order volumes for dry bulk commodities due for discharge in Chinese ports have steadily declined since the beginning of May. While the data excludes shipments covered by longer-term agreements, the spot market data show weakness compared to the same period last year. The aggregate for July was more than thirty per cent lower than a year ago, while June recorded a nine per cent year-on-year decline. Hence, the forward-looking nature of the cargo order data suggests that the Chinese economy will continue to face headwinds.
 
-![Στιγμιότυπο Οθόνης 2024 08 06 115208](assets/2024-08-06_nohio79tbi3oczohbwzjodwjijyig0_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_9c5a46ce6bdc.png)
+![Στιγμιότυπο Οθόνης 2024 08 06 115208](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-08-06_nohio79tbi3oczohbwzjodwjijyig0_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_9c5a46ce6bdc.png)
 
 > **Figure 1: Στιγμιότυπο Οθόνης 2024 08 06 115208**  
-> **Interactive Data & Source:** [Shipfix](https://shipfix.com/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-08-06_nohio79tbi3oczohbwzjodwjijyig0_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_9c5a46ce6bdc.png)
+> **Interactive Data & Source:** [Shipfix](https://shipfix.com/) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-08-06_nohio79tbi3oczohbwzjodwjijyig0_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_9c5a46ce6bdc.png)
 
 Data Source:[Shipfix](https://shipfix.com/)
 

@@ -33,7 +33,7 @@ tags:
 
 > **Figure 1: Data Source: The Signal Ocean Platform**  
 > *Data Source: The Signal Ocean Platform*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/tanker-week-28-2023) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/64b018fe80726168bd513424_chart of the week tankers.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/tanker-week-28-2023) | [Local Asset](../../../../../../corpus/07-signal/images/64b018fe80726168bd513424_chart%20of%20the%20week%20tankers.png)
 
 The second week of July has witnessed a sustained decline in crude tanker freight rates, which is further compounded by the challenges posed by the summer season on the market. Particularly, Chinese oil demand from the United States has significantly dropped compared to the levels seen a year ago. Analyzing the chart provided, it becomes evident that both May and June marked the lowest monthly volume of U.S. crude oil shipments to China via Very Large Crude Carriers (VLCC) tankers since early last year.
 

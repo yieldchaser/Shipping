@@ -24,10 +24,10 @@ source_file: "corpus/03-breakwave/insights/2025/2025-03-19_capesize-market-analy
 Snapshot of Spot Freight Rates, Supply-Demand Trends, Port Congestions
 March 18, 2025
 
-![Στιγμιότυπο Οθόνης 2025 03 19 225910](assets/2025-03-19_capesize-market-analysis_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_704a663f6f9d.png)
+![Στιγμιότυπο Οθόνης 2025 03 19 225910](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-03-19_capesize-market-analysis_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_704a663f6f9d.png)
 
 > **Figure 1: Στιγμιότυπο Οθόνης 2025 03 19 225910**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-03-19_capesize-market-analysis_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_704a663f6f9d.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-03-19_capesize-market-analysis_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_704a663f6f9d.png)
 
 The dry bulk freight market is currently experiencing a significant upswing, primarily fueled by a notable decrease in the number of ballasters on the C3 route. This has led to anticipation of a market undersupply in the coming weeks, fostering a bullish sentiment among market participants.
 
@@ -51,10 +51,10 @@ Weekly arrivals of Capesize vessels to the South Atlantic are expected to declin
 
 The lack of available vessels and increased iron ore shipments from Brazil have tightened the supply side, creating a favorable environment for freight rates, particularly on the C3 route. This is further exacerbated by China's aggressive import strategy, which, combined with seasonal surges in Brazilian exports, is expected to continue market volatility. Traders and shipowners would be well advised to monitor congestion trends and vessel availability, as these will be key factors in determining future freight market dynamics.
 
-![Στιγμιότυπο Οθόνης 2025 03 19 230108](assets/2025-03-19_capesize-market-analysis_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_4a50a53a069a.png)
+![Στιγμιότυπο Οθόνης 2025 03 19 230108](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-03-19_capesize-market-analysis_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_4a50a53a069a.png)
 
 > **Figure 2: Στιγμιότυπο Οθόνης 2025 03 19 230108**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-03-19_capesize-market-analysis_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_4a50a53a069a.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-03-19_capesize-market-analysis_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_4a50a53a069a.png)
 
 ​​​​The diminishing number of ballasters continued to drive the accelerated rise in Capesize rates from Brazil to North China during the third week of March.
 
@@ -63,10 +63,10 @@ The lack of available vessels and increased iron ore shipments from Brazil have 
 - **Supramax**vessel freight rates on the Indo-ECI route saw a 13% increase week-over-week, holding firm above $9 per tonne.
 - **Handysize**freight rates for the NOPAC Far East route saw a 10% increase over the month, remaining above almost $30 per tonne since the end of February.
 
-![Στιγμιότυπο Οθόνης 2025 03 19 230154](assets/2025-03-19_capesize-market-analysis_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_3e3a9e63f840.png)
+![Στιγμιότυπο Οθόνης 2025 03 19 230154](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-03-19_capesize-market-analysis_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_3e3a9e63f840.png)
 
 > **Figure 3: Στιγμιότυπο Οθόνης 2025 03 19 230154**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-03-19_capesize-market-analysis_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_3e3a9e63f840.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-03-19_capesize-market-analysis_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_3e3a9e63f840.png)
 
 The latest indicators from the ballasters' perspective maintain the mixed outlook of previous weeks, with a significant downward revision in the Capesize and Panamax segments in Southeast Africa, while smaller vessel size segments have seen an uptick.
 
@@ -75,10 +75,10 @@ The latest indicators from the ballasters' perspective maintain the mixed outloo
 - **Supramax SE Asia**: The third week of March saw a continued rise in levels, surpassing the yearly average of 98. Current trends strongly suggest that this upward trajectory will persist in the upcoming days, potentially nearing recent highs around 120.
 - **Handysize NOPAC**: The Handy NOPAC segment's levels have increased to 95, continuing an upward trend that began at the end of last week.
 
-![Στιγμιότυπο Οθόνης 2025 03 19 230246](assets/2025-03-19_capesize-market-analysis_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_b15304890501.png)
+![Στιγμιότυπο Οθόνης 2025 03 19 230246](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-03-19_capesize-market-analysis_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_b15304890501.png)
 
 > **Figure 4: Στιγμιότυπο Οθόνης 2025 03 19 230246**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-03-19_capesize-market-analysis_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_b15304890501.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-03-19_capesize-market-analysis_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_b15304890501.png)
 
 The third week of March continued the upward trend seen in the previous week for the Capesize and Panamax vessel segments, reinforcing market expectations for a strong close to the first quarter of the year.
 
@@ -87,10 +87,10 @@ The third week of March continued the upward trend seen in the previous week for
 - **Supramax**: The growth rate remains the strongest among vessel size categories; however, no significant spikes have been observed yet, with the trend instead maintaining a steady momentum.
 - **Handysize**: Its growth rate is no longer in line with that of the Panamax segment, and signs of a downward trend have been observed since the end of the second week of March.
 
-![Στιγμιότυπο Οθόνης 2025 03 19 230331](assets/2025-03-19_capesize-market-analysis_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_c7077f300770.png)
+![Στιγμιότυπο Οθόνης 2025 03 19 230331](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-03-19_capesize-market-analysis_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_c7077f300770.png)
 
 > **Figure 5: Στιγμιότυπο Οθόνης 2025 03 19 230331**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-03-19_capesize-market-analysis_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_c7077f300770.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-03-19_capesize-market-analysis_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_c7077f300770.png)
 
 Congestion at Chinese dry bulk ports has declined since peaking in the second week of March, with a downward trend observed across all vessel size segments.
 

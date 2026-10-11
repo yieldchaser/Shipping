@@ -24,10 +24,10 @@ Rising geopolitical tensions lifted energy markets. Easing trade tension elicite
 
 *By*[*Daniel Hynes*](https://www.linkedin.com/in/dahynes/)
 
-![Στιγμιότυπο Οθόνης 2025 06 12 122811](assets/2025-06-12_oil-surges-amid-renewed-geopolitical-tensions_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_921c14152dad.png)
+![Στιγμιότυπο Οθόνης 2025 06 12 122811](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-06-12_oil-surges-amid-renewed-geopolitical-tensions_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_921c14152dad.png)
 
 > **Figure 1: Στιγμιότυπο Οθόνης 2025 06 12 122811**  
-> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-06-12_oil-surges-amid-renewed-geopolitical-tensions_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_921c14152dad.png)
+> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-06-12_oil-surges-amid-renewed-geopolitical-tensions_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_921c14152dad.png)
 
 ### Market Commentary
 
@@ -45,10 +45,10 @@ Gold’s is an important part of central bank reserves globally. Record high pur
 
 In a worrying sign for oil, US gasoline demand has been soft since the start of the US driving season. Implied demand has edged lower over the past four weeks, according to Energy Information Administration data. At 9.75mb/d, its well below the normal seasonal levels of over 10mb/d.
 
-![Στιγμιότυπο Οθόνης 2025 06 12 122948](assets/2025-06-12_oil-surges-amid-renewed-geopolitical-tensions_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_1ca1973a8a75.png)
+![Στιγμιότυπο Οθόνης 2025 06 12 122948](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-06-12_oil-surges-amid-renewed-geopolitical-tensions_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_1ca1973a8a75.png)
 
 > **Figure 2: Στιγμιότυπο Οθόνης 2025 06 12 122948**  
-> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-06-12_oil-surges-amid-renewed-geopolitical-tensions_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_1ca1973a8a75.png)
+> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-06-12_oil-surges-amid-renewed-geopolitical-tensions_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_1ca1973a8a75.png)
 
 Data source:[Commodities Wrap](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI)
 

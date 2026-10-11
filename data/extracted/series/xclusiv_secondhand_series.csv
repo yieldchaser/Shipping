@@ -8272,134 +8272,134 @@ issue_date,report_week,sector,vessel_type,tenor,price_usd_mill,source_file
 2026-08-03,31,Tanker,VLCC,15 Year,82.0,xclusiv_2026_xclusiv-2026_08_03.pdf
 2026-08-03,31,Tanker,VLCC,5 Year,156.0,xclusiv_2026_xclusiv-2026_08_03.pdf
 2026-08-03,31,Tanker,VLCC,Resale,181.0,xclusiv_2026_xclusiv-2026_08_03.pdf
-2026-08-10,32,Dry,Capesize,10 Year,56.0,xclusiv_2026_nan_xclusiv-2026_08_10.pdf
-2026-08-10,32,Dry,Capesize,15 Year,37.0,xclusiv_2026_nan_xclusiv-2026_08_10.pdf
-2026-08-10,32,Dry,Capesize,5 Year,74.0,xclusiv_2026_nan_xclusiv-2026_08_10.pdf
-2026-08-10,32,Dry,Capesize,Resale,81.5,xclusiv_2026_nan_xclusiv-2026_08_10.pdf
-2026-08-10,32,Dry,Handysize,10 Year,24.0,xclusiv_2026_nan_xclusiv-2026_08_10.pdf
-2026-08-10,32,Dry,Handysize,15 Year,15.0,xclusiv_2026_nan_xclusiv-2026_08_10.pdf
-2026-08-10,32,Dry,Handysize,5 Year,31.5,xclusiv_2026_nan_xclusiv-2026_08_10.pdf
-2026-08-10,32,Dry,Handysize,Resale,37.0,xclusiv_2026_nan_xclusiv-2026_08_10.pdf
-2026-08-10,32,Dry,Kamsarmax,10 Year,31.0,xclusiv_2026_nan_xclusiv-2026_08_10.pdf
-2026-08-10,32,Dry,Kamsarmax,15 Year,21.0,xclusiv_2026_nan_xclusiv-2026_08_10.pdf
-2026-08-10,32,Dry,Kamsarmax,5 Year,40.0,xclusiv_2026_nan_xclusiv-2026_08_10.pdf
-2026-08-10,32,Dry,Kamsarmax,Resale,45.5,xclusiv_2026_nan_xclusiv-2026_08_10.pdf
-2026-08-10,32,Dry,Ultramax,10 Year,29.5,xclusiv_2026_nan_xclusiv-2026_08_10.pdf
-2026-08-10,32,Dry,Supramax,15 Year,18.5,xclusiv_2026_nan_xclusiv-2026_08_10.pdf
-2026-08-10,32,Dry,Ultramax,5 Year,38.5,xclusiv_2026_nan_xclusiv-2026_08_10.pdf
-2026-08-10,32,Dry,Ultramax,Resale,43.5,xclusiv_2026_nan_xclusiv-2026_08_10.pdf
-2026-08-10,32,Tanker,Aframax,10 Year,72.5,xclusiv_2026_nan_xclusiv-2026_08_10.pdf
-2026-08-10,32,Tanker,Aframax,15 Year,50.0,xclusiv_2026_nan_xclusiv-2026_08_10.pdf
-2026-08-10,32,Tanker,Aframax,5 Year,85.0,xclusiv_2026_nan_xclusiv-2026_08_10.pdf
-2026-08-10,32,Tanker,Aframax,Resale,95.0,xclusiv_2026_nan_xclusiv-2026_08_10.pdf
-2026-08-10,32,Tanker,MR2,10 Year,38.0,xclusiv_2026_nan_xclusiv-2026_08_10.pdf
-2026-08-10,32,Tanker,MR2,15 Year,26.0,xclusiv_2026_nan_xclusiv-2026_08_10.pdf
-2026-08-10,32,Tanker,MR2,5 Year,48.0,xclusiv_2026_nan_xclusiv-2026_08_10.pdf
-2026-08-10,32,Tanker,MR2,Resale,55.0,xclusiv_2026_nan_xclusiv-2026_08_10.pdf
-2026-08-10,32,Tanker,Suezmax,10 Year,84.0,xclusiv_2026_nan_xclusiv-2026_08_10.pdf
-2026-08-10,32,Tanker,Suezmax,15 Year,66.0,xclusiv_2026_nan_xclusiv-2026_08_10.pdf
-2026-08-10,32,Tanker,Suezmax,5 Year,100.0,xclusiv_2026_nan_xclusiv-2026_08_10.pdf
-2026-08-10,32,Tanker,Suezmax,Resale,120.0,xclusiv_2026_nan_xclusiv-2026_08_10.pdf
-2026-08-10,32,Tanker,VLCC,10 Year,133.0,xclusiv_2026_nan_xclusiv-2026_08_10.pdf
-2026-08-10,32,Tanker,VLCC,15 Year,100.0,xclusiv_2026_nan_xclusiv-2026_08_10.pdf
-2026-08-10,32,Tanker,VLCC,5 Year,158.0,xclusiv_2026_nan_xclusiv-2026_08_10.pdf
-2026-08-10,32,Tanker,VLCC,Resale,183.0,xclusiv_2026_nan_xclusiv-2026_08_10.pdf
-2026-08-17,33,Dry,Capesize,10 Year,56.0,xclusiv_2026_nan_xclusiv-2026_08_17.pdf
-2026-08-17,33,Dry,Capesize,15 Year,37.0,xclusiv_2026_nan_xclusiv-2026_08_17.pdf
-2026-08-17,33,Dry,Capesize,5 Year,74.0,xclusiv_2026_nan_xclusiv-2026_08_17.pdf
-2026-08-17,33,Dry,Capesize,Resale,81.5,xclusiv_2026_nan_xclusiv-2026_08_17.pdf
-2026-08-17,33,Dry,Handysize,10 Year,24.0,xclusiv_2026_nan_xclusiv-2026_08_17.pdf
-2026-08-17,33,Dry,Handysize,15 Year,15.0,xclusiv_2026_nan_xclusiv-2026_08_17.pdf
-2026-08-17,33,Dry,Handysize,5 Year,31.5,xclusiv_2026_nan_xclusiv-2026_08_17.pdf
-2026-08-17,33,Dry,Handysize,Resale,37.5,xclusiv_2026_nan_xclusiv-2026_08_17.pdf
-2026-08-17,33,Dry,Kamsarmax,10 Year,31.0,xclusiv_2026_nan_xclusiv-2026_08_17.pdf
-2026-08-17,33,Dry,Kamsarmax,15 Year,21.0,xclusiv_2026_nan_xclusiv-2026_08_17.pdf
-2026-08-17,33,Dry,Kamsarmax,5 Year,40.5,xclusiv_2026_nan_xclusiv-2026_08_17.pdf
-2026-08-17,33,Dry,Kamsarmax,Resale,45.8,xclusiv_2026_nan_xclusiv-2026_08_17.pdf
-2026-08-17,33,Dry,Ultramax,10 Year,29.5,xclusiv_2026_nan_xclusiv-2026_08_17.pdf
-2026-08-17,33,Dry,Supramax,15 Year,18.5,xclusiv_2026_nan_xclusiv-2026_08_17.pdf
-2026-08-17,33,Dry,Ultramax,5 Year,38.5,xclusiv_2026_nan_xclusiv-2026_08_17.pdf
-2026-08-17,33,Dry,Ultramax,Resale,43.5,xclusiv_2026_nan_xclusiv-2026_08_17.pdf
-2026-08-17,33,Tanker,Aframax,10 Year,72.5,xclusiv_2026_nan_xclusiv-2026_08_17.pdf
-2026-08-17,33,Tanker,Aframax,15 Year,50.0,xclusiv_2026_nan_xclusiv-2026_08_17.pdf
-2026-08-17,33,Tanker,Aframax,5 Year,85.0,xclusiv_2026_nan_xclusiv-2026_08_17.pdf
-2026-08-17,33,Tanker,Aframax,Resale,95.0,xclusiv_2026_nan_xclusiv-2026_08_17.pdf
-2026-08-17,33,Tanker,MR2,10 Year,38.0,xclusiv_2026_nan_xclusiv-2026_08_17.pdf
-2026-08-17,33,Tanker,MR2,15 Year,26.0,xclusiv_2026_nan_xclusiv-2026_08_17.pdf
-2026-08-17,33,Tanker,MR2,5 Year,48.0,xclusiv_2026_nan_xclusiv-2026_08_17.pdf
-2026-08-17,33,Tanker,MR2,Resale,55.0,xclusiv_2026_nan_xclusiv-2026_08_17.pdf
-2026-08-17,33,Tanker,Suezmax,10 Year,84.0,xclusiv_2026_nan_xclusiv-2026_08_17.pdf
-2026-08-17,33,Tanker,Suezmax,15 Year,66.0,xclusiv_2026_nan_xclusiv-2026_08_17.pdf
-2026-08-17,33,Tanker,Suezmax,5 Year,104.0,xclusiv_2026_nan_xclusiv-2026_08_17.pdf
-2026-08-17,33,Tanker,Suezmax,Resale,125.0,xclusiv_2026_nan_xclusiv-2026_08_17.pdf
-2026-08-17,33,Tanker,VLCC,10 Year,132.5,xclusiv_2026_nan_xclusiv-2026_08_17.pdf
-2026-08-17,33,Tanker,VLCC,15 Year,100.0,xclusiv_2026_nan_xclusiv-2026_08_17.pdf
-2026-08-17,33,Tanker,VLCC,5 Year,157.5,xclusiv_2026_nan_xclusiv-2026_08_17.pdf
-2026-08-17,33,Tanker,VLCC,Resale,182.5,xclusiv_2026_nan_xclusiv-2026_08_17.pdf
-2026-08-24,34,Dry,Capesize,10 Year,56.0,xclusiv_2026_nan_xclusiv-2026_08_24.pdf
-2026-08-24,34,Dry,Capesize,15 Year,37.0,xclusiv_2026_nan_xclusiv-2026_08_24.pdf
-2026-08-24,34,Dry,Capesize,5 Year,74.0,xclusiv_2026_nan_xclusiv-2026_08_24.pdf
-2026-08-24,34,Dry,Capesize,Resale,81.5,xclusiv_2026_nan_xclusiv-2026_08_24.pdf
-2026-08-24,34,Dry,Handysize,10 Year,24.0,xclusiv_2026_nan_xclusiv-2026_08_24.pdf
-2026-08-24,34,Dry,Handysize,15 Year,15.0,xclusiv_2026_nan_xclusiv-2026_08_24.pdf
-2026-08-24,34,Dry,Handysize,5 Year,31.5,xclusiv_2026_nan_xclusiv-2026_08_24.pdf
-2026-08-24,34,Dry,Handysize,Resale,37.5,xclusiv_2026_nan_xclusiv-2026_08_24.pdf
-2026-08-24,34,Dry,Kamsarmax,10 Year,31.0,xclusiv_2026_nan_xclusiv-2026_08_24.pdf
-2026-08-24,34,Dry,Kamsarmax,15 Year,21.0,xclusiv_2026_nan_xclusiv-2026_08_24.pdf
-2026-08-24,34,Dry,Kamsarmax,5 Year,40.0,xclusiv_2026_nan_xclusiv-2026_08_24.pdf
-2026-08-24,34,Dry,Kamsarmax,Resale,45.8,xclusiv_2026_nan_xclusiv-2026_08_24.pdf
-2026-08-24,34,Dry,Ultramax,10 Year,30.0,xclusiv_2026_nan_xclusiv-2026_08_24.pdf
-2026-08-24,34,Dry,Supramax,15 Year,18.5,xclusiv_2026_nan_xclusiv-2026_08_24.pdf
-2026-08-24,34,Dry,Ultramax,5 Year,38.5,xclusiv_2026_nan_xclusiv-2026_08_24.pdf
-2026-08-24,34,Dry,Ultramax,Resale,43.5,xclusiv_2026_nan_xclusiv-2026_08_24.pdf
-2026-08-24,34,Tanker,Aframax,10 Year,72.5,xclusiv_2026_nan_xclusiv-2026_08_24.pdf
-2026-08-24,34,Tanker,Aframax,15 Year,50.0,xclusiv_2026_nan_xclusiv-2026_08_24.pdf
-2026-08-24,34,Tanker,Aframax,5 Year,85.0,xclusiv_2026_nan_xclusiv-2026_08_24.pdf
-2026-08-24,34,Tanker,Aframax,Resale,95.0,xclusiv_2026_nan_xclusiv-2026_08_24.pdf
-2026-08-24,34,Tanker,MR2,10 Year,38.0,xclusiv_2026_nan_xclusiv-2026_08_24.pdf
-2026-08-24,34,Tanker,MR2,15 Year,26.0,xclusiv_2026_nan_xclusiv-2026_08_24.pdf
-2026-08-24,34,Tanker,MR2,5 Year,48.0,xclusiv_2026_nan_xclusiv-2026_08_24.pdf
-2026-08-24,34,Tanker,MR2,Resale,56.0,xclusiv_2026_nan_xclusiv-2026_08_24.pdf
-2026-08-24,34,Tanker,Suezmax,10 Year,84.0,xclusiv_2026_nan_xclusiv-2026_08_24.pdf
-2026-08-24,34,Tanker,Suezmax,15 Year,66.0,xclusiv_2026_nan_xclusiv-2026_08_24.pdf
-2026-08-24,34,Tanker,Suezmax,5 Year,105.3,xclusiv_2026_nan_xclusiv-2026_08_24.pdf
-2026-08-24,34,Tanker,Suezmax,Resale,126.7,xclusiv_2026_nan_xclusiv-2026_08_24.pdf
-2026-08-24,34,Tanker,VLCC,10 Year,132.3,xclusiv_2026_nan_xclusiv-2026_08_24.pdf
-2026-08-24,34,Tanker,VLCC,15 Year,100.0,xclusiv_2026_nan_xclusiv-2026_08_24.pdf
-2026-08-24,34,Tanker,VLCC,5 Year,157.3,xclusiv_2026_nan_xclusiv-2026_08_24.pdf
-2026-08-24,34,Tanker,VLCC,Resale,182.3,xclusiv_2026_nan_xclusiv-2026_08_24.pdf
-2026-08-31,35,Dry,Capesize,10 Year,56.0,xclusiv_2026_nan_xclusiv-2026_08_31.pdf
-2026-08-31,35,Dry,Capesize,15 Year,37.0,xclusiv_2026_nan_xclusiv-2026_08_31.pdf
-2026-08-31,35,Dry,Capesize,5 Year,74.0,xclusiv_2026_nan_xclusiv-2026_08_31.pdf
-2026-08-31,35,Dry,Capesize,Resale,81.5,xclusiv_2026_nan_xclusiv-2026_08_31.pdf
-2026-08-31,35,Dry,Handysize,10 Year,24.0,xclusiv_2026_nan_xclusiv-2026_08_31.pdf
-2026-08-31,35,Dry,Handysize,15 Year,15.0,xclusiv_2026_nan_xclusiv-2026_08_31.pdf
-2026-08-31,35,Dry,Handysize,5 Year,31.5,xclusiv_2026_nan_xclusiv-2026_08_31.pdf
-2026-08-31,35,Dry,Handysize,Resale,37.5,xclusiv_2026_nan_xclusiv-2026_08_31.pdf
-2026-08-31,35,Dry,Kamsarmax,10 Year,31.0,xclusiv_2026_nan_xclusiv-2026_08_31.pdf
-2026-08-31,35,Dry,Kamsarmax,15 Year,21.0,xclusiv_2026_nan_xclusiv-2026_08_31.pdf
-2026-08-31,35,Dry,Kamsarmax,5 Year,40.0,xclusiv_2026_nan_xclusiv-2026_08_31.pdf
-2026-08-31,35,Dry,Kamsarmax,Resale,45.9,xclusiv_2026_nan_xclusiv-2026_08_31.pdf
-2026-08-31,35,Dry,Ultramax,10 Year,30.0,xclusiv_2026_nan_xclusiv-2026_08_31.pdf
-2026-08-31,35,Dry,Ultramax,15 Year,18.5,xclusiv_2026_nan_xclusiv-2026_08_31.pdf
-2026-08-31,35,Dry,Ultramax,5 Year,38.5,xclusiv_2026_nan_xclusiv-2026_08_31.pdf
-2026-08-31,35,Dry,Ultramax,Resale,43.5,xclusiv_2026_nan_xclusiv-2026_08_31.pdf
-2026-08-31,35,Tanker,Aframax,10 Year,72.5,xclusiv_2026_nan_xclusiv-2026_08_31.pdf
-2026-08-31,35,Tanker,Aframax,15 Year,50.0,xclusiv_2026_nan_xclusiv-2026_08_31.pdf
-2026-08-31,35,Tanker,Aframax,5 Year,85.0,xclusiv_2026_nan_xclusiv-2026_08_31.pdf
-2026-08-31,35,Tanker,Aframax,Resale,95.0,xclusiv_2026_nan_xclusiv-2026_08_31.pdf
-2026-08-31,35,Tanker,MR2,10 Year,38.3,xclusiv_2026_nan_xclusiv-2026_08_31.pdf
-2026-08-31,35,Tanker,MR2,15 Year,26.3,xclusiv_2026_nan_xclusiv-2026_08_31.pdf
-2026-08-31,35,Tanker,MR2,5 Year,48.3,xclusiv_2026_nan_xclusiv-2026_08_31.pdf
-2026-08-31,35,Tanker,MR2,Resale,56.8,xclusiv_2026_nan_xclusiv-2026_08_31.pdf
-2026-08-31,35,Tanker,Suezmax,10 Year,85.0,xclusiv_2026_nan_xclusiv-2026_08_31.pdf
-2026-08-31,35,Tanker,Suezmax,15 Year,67.0,xclusiv_2026_nan_xclusiv-2026_08_31.pdf
-2026-08-31,35,Tanker,Suezmax,5 Year,106.0,xclusiv_2026_nan_xclusiv-2026_08_31.pdf
-2026-08-31,35,Tanker,Suezmax,Resale,127.5,xclusiv_2026_nan_xclusiv-2026_08_31.pdf
-2026-08-31,35,Tanker,VLCC,10 Year,132.3,xclusiv_2026_nan_xclusiv-2026_08_31.pdf
-2026-08-31,35,Tanker,VLCC,15 Year,100.0,xclusiv_2026_nan_xclusiv-2026_08_31.pdf
-2026-08-31,35,Tanker,VLCC,5 Year,157.3,xclusiv_2026_nan_xclusiv-2026_08_31.pdf
-2026-08-31,35,Tanker,VLCC,Resale,182.3,xclusiv_2026_nan_xclusiv-2026_08_31.pdf
+2026-08-10,32,Dry,Capesize,10 Year,56.0,xclusiv_2026_xclusiv-2026_08_10.pdf
+2026-08-10,32,Dry,Capesize,15 Year,37.0,xclusiv_2026_xclusiv-2026_08_10.pdf
+2026-08-10,32,Dry,Capesize,5 Year,74.0,xclusiv_2026_xclusiv-2026_08_10.pdf
+2026-08-10,32,Dry,Capesize,Resale,81.5,xclusiv_2026_xclusiv-2026_08_10.pdf
+2026-08-10,32,Dry,Handysize,10 Year,24.0,xclusiv_2026_xclusiv-2026_08_10.pdf
+2026-08-10,32,Dry,Handysize,15 Year,15.0,xclusiv_2026_xclusiv-2026_08_10.pdf
+2026-08-10,32,Dry,Handysize,5 Year,31.5,xclusiv_2026_xclusiv-2026_08_10.pdf
+2026-08-10,32,Dry,Handysize,Resale,37.0,xclusiv_2026_xclusiv-2026_08_10.pdf
+2026-08-10,32,Dry,Kamsarmax,10 Year,31.0,xclusiv_2026_xclusiv-2026_08_10.pdf
+2026-08-10,32,Dry,Kamsarmax,15 Year,21.0,xclusiv_2026_xclusiv-2026_08_10.pdf
+2026-08-10,32,Dry,Kamsarmax,5 Year,40.0,xclusiv_2026_xclusiv-2026_08_10.pdf
+2026-08-10,32,Dry,Kamsarmax,Resale,45.5,xclusiv_2026_xclusiv-2026_08_10.pdf
+2026-08-10,32,Dry,Ultramax,10 Year,29.5,xclusiv_2026_xclusiv-2026_08_10.pdf
+2026-08-10,32,Dry,Supramax,15 Year,18.5,xclusiv_2026_xclusiv-2026_08_10.pdf
+2026-08-10,32,Dry,Ultramax,5 Year,38.5,xclusiv_2026_xclusiv-2026_08_10.pdf
+2026-08-10,32,Dry,Ultramax,Resale,43.5,xclusiv_2026_xclusiv-2026_08_10.pdf
+2026-08-10,32,Tanker,Aframax,10 Year,72.5,xclusiv_2026_xclusiv-2026_08_10.pdf
+2026-08-10,32,Tanker,Aframax,15 Year,50.0,xclusiv_2026_xclusiv-2026_08_10.pdf
+2026-08-10,32,Tanker,Aframax,5 Year,85.0,xclusiv_2026_xclusiv-2026_08_10.pdf
+2026-08-10,32,Tanker,Aframax,Resale,95.0,xclusiv_2026_xclusiv-2026_08_10.pdf
+2026-08-10,32,Tanker,MR2,10 Year,38.0,xclusiv_2026_xclusiv-2026_08_10.pdf
+2026-08-10,32,Tanker,MR2,15 Year,26.0,xclusiv_2026_xclusiv-2026_08_10.pdf
+2026-08-10,32,Tanker,MR2,5 Year,48.0,xclusiv_2026_xclusiv-2026_08_10.pdf
+2026-08-10,32,Tanker,MR2,Resale,55.0,xclusiv_2026_xclusiv-2026_08_10.pdf
+2026-08-10,32,Tanker,Suezmax,10 Year,84.0,xclusiv_2026_xclusiv-2026_08_10.pdf
+2026-08-10,32,Tanker,Suezmax,15 Year,66.0,xclusiv_2026_xclusiv-2026_08_10.pdf
+2026-08-10,32,Tanker,Suezmax,5 Year,100.0,xclusiv_2026_xclusiv-2026_08_10.pdf
+2026-08-10,32,Tanker,Suezmax,Resale,120.0,xclusiv_2026_xclusiv-2026_08_10.pdf
+2026-08-10,32,Tanker,VLCC,10 Year,133.0,xclusiv_2026_xclusiv-2026_08_10.pdf
+2026-08-10,32,Tanker,VLCC,15 Year,100.0,xclusiv_2026_xclusiv-2026_08_10.pdf
+2026-08-10,32,Tanker,VLCC,5 Year,158.0,xclusiv_2026_xclusiv-2026_08_10.pdf
+2026-08-10,32,Tanker,VLCC,Resale,183.0,xclusiv_2026_xclusiv-2026_08_10.pdf
+2026-08-17,33,Dry,Capesize,10 Year,56.0,xclusiv_2026_xclusiv-2026_08_17.pdf
+2026-08-17,33,Dry,Capesize,15 Year,37.0,xclusiv_2026_xclusiv-2026_08_17.pdf
+2026-08-17,33,Dry,Capesize,5 Year,74.0,xclusiv_2026_xclusiv-2026_08_17.pdf
+2026-08-17,33,Dry,Capesize,Resale,81.5,xclusiv_2026_xclusiv-2026_08_17.pdf
+2026-08-17,33,Dry,Handysize,10 Year,24.0,xclusiv_2026_xclusiv-2026_08_17.pdf
+2026-08-17,33,Dry,Handysize,15 Year,15.0,xclusiv_2026_xclusiv-2026_08_17.pdf
+2026-08-17,33,Dry,Handysize,5 Year,31.5,xclusiv_2026_xclusiv-2026_08_17.pdf
+2026-08-17,33,Dry,Handysize,Resale,37.5,xclusiv_2026_xclusiv-2026_08_17.pdf
+2026-08-17,33,Dry,Kamsarmax,10 Year,31.0,xclusiv_2026_xclusiv-2026_08_17.pdf
+2026-08-17,33,Dry,Kamsarmax,15 Year,21.0,xclusiv_2026_xclusiv-2026_08_17.pdf
+2026-08-17,33,Dry,Kamsarmax,5 Year,40.5,xclusiv_2026_xclusiv-2026_08_17.pdf
+2026-08-17,33,Dry,Kamsarmax,Resale,45.8,xclusiv_2026_xclusiv-2026_08_17.pdf
+2026-08-17,33,Dry,Ultramax,10 Year,29.5,xclusiv_2026_xclusiv-2026_08_17.pdf
+2026-08-17,33,Dry,Supramax,15 Year,18.5,xclusiv_2026_xclusiv-2026_08_17.pdf
+2026-08-17,33,Dry,Ultramax,5 Year,38.5,xclusiv_2026_xclusiv-2026_08_17.pdf
+2026-08-17,33,Dry,Ultramax,Resale,43.5,xclusiv_2026_xclusiv-2026_08_17.pdf
+2026-08-17,33,Tanker,Aframax,10 Year,72.5,xclusiv_2026_xclusiv-2026_08_17.pdf
+2026-08-17,33,Tanker,Aframax,15 Year,50.0,xclusiv_2026_xclusiv-2026_08_17.pdf
+2026-08-17,33,Tanker,Aframax,5 Year,85.0,xclusiv_2026_xclusiv-2026_08_17.pdf
+2026-08-17,33,Tanker,Aframax,Resale,95.0,xclusiv_2026_xclusiv-2026_08_17.pdf
+2026-08-17,33,Tanker,MR2,10 Year,38.0,xclusiv_2026_xclusiv-2026_08_17.pdf
+2026-08-17,33,Tanker,MR2,15 Year,26.0,xclusiv_2026_xclusiv-2026_08_17.pdf
+2026-08-17,33,Tanker,MR2,5 Year,48.0,xclusiv_2026_xclusiv-2026_08_17.pdf
+2026-08-17,33,Tanker,MR2,Resale,55.0,xclusiv_2026_xclusiv-2026_08_17.pdf
+2026-08-17,33,Tanker,Suezmax,10 Year,84.0,xclusiv_2026_xclusiv-2026_08_17.pdf
+2026-08-17,33,Tanker,Suezmax,15 Year,66.0,xclusiv_2026_xclusiv-2026_08_17.pdf
+2026-08-17,33,Tanker,Suezmax,5 Year,104.0,xclusiv_2026_xclusiv-2026_08_17.pdf
+2026-08-17,33,Tanker,Suezmax,Resale,125.0,xclusiv_2026_xclusiv-2026_08_17.pdf
+2026-08-17,33,Tanker,VLCC,10 Year,132.5,xclusiv_2026_xclusiv-2026_08_17.pdf
+2026-08-17,33,Tanker,VLCC,15 Year,100.0,xclusiv_2026_xclusiv-2026_08_17.pdf
+2026-08-17,33,Tanker,VLCC,5 Year,157.5,xclusiv_2026_xclusiv-2026_08_17.pdf
+2026-08-17,33,Tanker,VLCC,Resale,182.5,xclusiv_2026_xclusiv-2026_08_17.pdf
+2026-08-24,34,Dry,Capesize,10 Year,56.0,xclusiv_2026_xclusiv-2026_08_24.pdf
+2026-08-24,34,Dry,Capesize,15 Year,37.0,xclusiv_2026_xclusiv-2026_08_24.pdf
+2026-08-24,34,Dry,Capesize,5 Year,74.0,xclusiv_2026_xclusiv-2026_08_24.pdf
+2026-08-24,34,Dry,Capesize,Resale,81.5,xclusiv_2026_xclusiv-2026_08_24.pdf
+2026-08-24,34,Dry,Handysize,10 Year,24.0,xclusiv_2026_xclusiv-2026_08_24.pdf
+2026-08-24,34,Dry,Handysize,15 Year,15.0,xclusiv_2026_xclusiv-2026_08_24.pdf
+2026-08-24,34,Dry,Handysize,5 Year,31.5,xclusiv_2026_xclusiv-2026_08_24.pdf
+2026-08-24,34,Dry,Handysize,Resale,37.5,xclusiv_2026_xclusiv-2026_08_24.pdf
+2026-08-24,34,Dry,Kamsarmax,10 Year,31.0,xclusiv_2026_xclusiv-2026_08_24.pdf
+2026-08-24,34,Dry,Kamsarmax,15 Year,21.0,xclusiv_2026_xclusiv-2026_08_24.pdf
+2026-08-24,34,Dry,Kamsarmax,5 Year,40.0,xclusiv_2026_xclusiv-2026_08_24.pdf
+2026-08-24,34,Dry,Kamsarmax,Resale,45.8,xclusiv_2026_xclusiv-2026_08_24.pdf
+2026-08-24,34,Dry,Ultramax,10 Year,30.0,xclusiv_2026_xclusiv-2026_08_24.pdf
+2026-08-24,34,Dry,Supramax,15 Year,18.5,xclusiv_2026_xclusiv-2026_08_24.pdf
+2026-08-24,34,Dry,Ultramax,5 Year,38.5,xclusiv_2026_xclusiv-2026_08_24.pdf
+2026-08-24,34,Dry,Ultramax,Resale,43.5,xclusiv_2026_xclusiv-2026_08_24.pdf
+2026-08-24,34,Tanker,Aframax,10 Year,72.5,xclusiv_2026_xclusiv-2026_08_24.pdf
+2026-08-24,34,Tanker,Aframax,15 Year,50.0,xclusiv_2026_xclusiv-2026_08_24.pdf
+2026-08-24,34,Tanker,Aframax,5 Year,85.0,xclusiv_2026_xclusiv-2026_08_24.pdf
+2026-08-24,34,Tanker,Aframax,Resale,95.0,xclusiv_2026_xclusiv-2026_08_24.pdf
+2026-08-24,34,Tanker,MR2,10 Year,38.0,xclusiv_2026_xclusiv-2026_08_24.pdf
+2026-08-24,34,Tanker,MR2,15 Year,26.0,xclusiv_2026_xclusiv-2026_08_24.pdf
+2026-08-24,34,Tanker,MR2,5 Year,48.0,xclusiv_2026_xclusiv-2026_08_24.pdf
+2026-08-24,34,Tanker,MR2,Resale,56.0,xclusiv_2026_xclusiv-2026_08_24.pdf
+2026-08-24,34,Tanker,Suezmax,10 Year,84.0,xclusiv_2026_xclusiv-2026_08_24.pdf
+2026-08-24,34,Tanker,Suezmax,15 Year,66.0,xclusiv_2026_xclusiv-2026_08_24.pdf
+2026-08-24,34,Tanker,Suezmax,5 Year,105.3,xclusiv_2026_xclusiv-2026_08_24.pdf
+2026-08-24,34,Tanker,Suezmax,Resale,126.7,xclusiv_2026_xclusiv-2026_08_24.pdf
+2026-08-24,34,Tanker,VLCC,10 Year,132.3,xclusiv_2026_xclusiv-2026_08_24.pdf
+2026-08-24,34,Tanker,VLCC,15 Year,100.0,xclusiv_2026_xclusiv-2026_08_24.pdf
+2026-08-24,34,Tanker,VLCC,5 Year,157.3,xclusiv_2026_xclusiv-2026_08_24.pdf
+2026-08-24,34,Tanker,VLCC,Resale,182.3,xclusiv_2026_xclusiv-2026_08_24.pdf
+2026-08-31,35,Dry,Capesize,10 Year,56.0,xclusiv_2026_xclusiv-2026_08_31.pdf
+2026-08-31,35,Dry,Capesize,15 Year,37.0,xclusiv_2026_xclusiv-2026_08_31.pdf
+2026-08-31,35,Dry,Capesize,5 Year,74.0,xclusiv_2026_xclusiv-2026_08_31.pdf
+2026-08-31,35,Dry,Capesize,Resale,81.5,xclusiv_2026_xclusiv-2026_08_31.pdf
+2026-08-31,35,Dry,Handysize,10 Year,24.0,xclusiv_2026_xclusiv-2026_08_31.pdf
+2026-08-31,35,Dry,Handysize,15 Year,15.0,xclusiv_2026_xclusiv-2026_08_31.pdf
+2026-08-31,35,Dry,Handysize,5 Year,31.5,xclusiv_2026_xclusiv-2026_08_31.pdf
+2026-08-31,35,Dry,Handysize,Resale,37.5,xclusiv_2026_xclusiv-2026_08_31.pdf
+2026-08-31,35,Dry,Kamsarmax,10 Year,31.0,xclusiv_2026_xclusiv-2026_08_31.pdf
+2026-08-31,35,Dry,Kamsarmax,15 Year,21.0,xclusiv_2026_xclusiv-2026_08_31.pdf
+2026-08-31,35,Dry,Kamsarmax,5 Year,40.0,xclusiv_2026_xclusiv-2026_08_31.pdf
+2026-08-31,35,Dry,Kamsarmax,Resale,45.9,xclusiv_2026_xclusiv-2026_08_31.pdf
+2026-08-31,35,Dry,Ultramax,10 Year,30.0,xclusiv_2026_xclusiv-2026_08_31.pdf
+2026-08-31,35,Dry,Ultramax,15 Year,18.5,xclusiv_2026_xclusiv-2026_08_31.pdf
+2026-08-31,35,Dry,Ultramax,5 Year,38.5,xclusiv_2026_xclusiv-2026_08_31.pdf
+2026-08-31,35,Dry,Ultramax,Resale,43.5,xclusiv_2026_xclusiv-2026_08_31.pdf
+2026-08-31,35,Tanker,Aframax,10 Year,72.5,xclusiv_2026_xclusiv-2026_08_31.pdf
+2026-08-31,35,Tanker,Aframax,15 Year,50.0,xclusiv_2026_xclusiv-2026_08_31.pdf
+2026-08-31,35,Tanker,Aframax,5 Year,85.0,xclusiv_2026_xclusiv-2026_08_31.pdf
+2026-08-31,35,Tanker,Aframax,Resale,95.0,xclusiv_2026_xclusiv-2026_08_31.pdf
+2026-08-31,35,Tanker,MR2,10 Year,38.3,xclusiv_2026_xclusiv-2026_08_31.pdf
+2026-08-31,35,Tanker,MR2,15 Year,26.3,xclusiv_2026_xclusiv-2026_08_31.pdf
+2026-08-31,35,Tanker,MR2,5 Year,48.3,xclusiv_2026_xclusiv-2026_08_31.pdf
+2026-08-31,35,Tanker,MR2,Resale,56.8,xclusiv_2026_xclusiv-2026_08_31.pdf
+2026-08-31,35,Tanker,Suezmax,10 Year,85.0,xclusiv_2026_xclusiv-2026_08_31.pdf
+2026-08-31,35,Tanker,Suezmax,15 Year,67.0,xclusiv_2026_xclusiv-2026_08_31.pdf
+2026-08-31,35,Tanker,Suezmax,5 Year,106.0,xclusiv_2026_xclusiv-2026_08_31.pdf
+2026-08-31,35,Tanker,Suezmax,Resale,127.5,xclusiv_2026_xclusiv-2026_08_31.pdf
+2026-08-31,35,Tanker,VLCC,10 Year,132.3,xclusiv_2026_xclusiv-2026_08_31.pdf
+2026-08-31,35,Tanker,VLCC,15 Year,100.0,xclusiv_2026_xclusiv-2026_08_31.pdf
+2026-08-31,35,Tanker,VLCC,5 Year,157.3,xclusiv_2026_xclusiv-2026_08_31.pdf
+2026-08-31,35,Tanker,VLCC,Resale,182.3,xclusiv_2026_xclusiv-2026_08_31.pdf
 2026-09-07,36,Dry,Capesize,10 Year,57.0,xclusiv_2026_xclusiv-2026_09_07.pdf
 2026-09-07,36,Dry,Capesize,15 Year,37.5,xclusiv_2026_xclusiv-2026_09_07.pdf
 2026-09-07,36,Dry,Capesize,5 Year,74.0,xclusiv_2026_xclusiv-2026_09_07.pdf
@@ -8432,38 +8432,38 @@ issue_date,report_week,sector,vessel_type,tenor,price_usd_mill,source_file
 2026-09-07,36,Tanker,VLCC,15 Year,100.0,xclusiv_2026_xclusiv-2026_09_07.pdf
 2026-09-07,36,Tanker,VLCC,5 Year,157.0,xclusiv_2026_xclusiv-2026_09_07.pdf
 2026-09-07,36,Tanker,VLCC,Resale,182.0,xclusiv_2026_xclusiv-2026_09_07.pdf
-2026-09-15,37,Dry,Capesize,10 Year,58.0,xclusiv_15_09_2026_xclusiv_shipbrokers_weekly_14th_september_2026.pdf
-2026-09-15,37,Dry,Capesize,15 Year,38.0,xclusiv_15_09_2026_xclusiv_shipbrokers_weekly_14th_september_2026.pdf
-2026-09-15,37,Dry,Capesize,5 Year,74.0,xclusiv_15_09_2026_xclusiv_shipbrokers_weekly_14th_september_2026.pdf
-2026-09-15,37,Dry,Capesize,Resale,83.0,xclusiv_15_09_2026_xclusiv_shipbrokers_weekly_14th_september_2026.pdf
-2026-09-15,37,Dry,Handysize,10 Year,24.0,xclusiv_15_09_2026_xclusiv_shipbrokers_weekly_14th_september_2026.pdf
-2026-09-15,37,Dry,Handysize,15 Year,15.0,xclusiv_15_09_2026_xclusiv_shipbrokers_weekly_14th_september_2026.pdf
-2026-09-15,37,Dry,Handysize,5 Year,31.5,xclusiv_15_09_2026_xclusiv_shipbrokers_weekly_14th_september_2026.pdf
-2026-09-15,37,Dry,Handysize,Resale,37.5,xclusiv_15_09_2026_xclusiv_shipbrokers_weekly_14th_september_2026.pdf
-2026-09-15,37,Dry,Kamsarmax,10 Year,34.0,xclusiv_15_09_2026_xclusiv_shipbrokers_weekly_14th_september_2026.pdf
-2026-09-15,37,Dry,Kamsarmax,15 Year,22.5,xclusiv_15_09_2026_xclusiv_shipbrokers_weekly_14th_september_2026.pdf
-2026-09-15,37,Dry,Kamsarmax,5 Year,42.0,xclusiv_15_09_2026_xclusiv_shipbrokers_weekly_14th_september_2026.pdf
-2026-09-15,37,Dry,Kamsarmax,Resale,47.0,xclusiv_15_09_2026_xclusiv_shipbrokers_weekly_14th_september_2026.pdf
-2026-09-15,37,Dry,Ultramax,10 Year,30.0,xclusiv_15_09_2026_xclusiv_shipbrokers_weekly_14th_september_2026.pdf
-2026-09-15,37,Dry,Supramax,15 Year,19.0,xclusiv_15_09_2026_xclusiv_shipbrokers_weekly_14th_september_2026.pdf
-2026-09-15,37,Dry,Ultramax,5 Year,39.0,xclusiv_15_09_2026_xclusiv_shipbrokers_weekly_14th_september_2026.pdf
-2026-09-15,37,Dry,Ultramax,Resale,44.0,xclusiv_15_09_2026_xclusiv_shipbrokers_weekly_14th_september_2026.pdf
-2026-09-15,37,Tanker,Aframax,10 Year,72.5,xclusiv_15_09_2026_xclusiv_shipbrokers_weekly_14th_september_2026.pdf
-2026-09-15,37,Tanker,Aframax,15 Year,55.0,xclusiv_15_09_2026_xclusiv_shipbrokers_weekly_14th_september_2026.pdf
-2026-09-15,37,Tanker,Aframax,5 Year,85.0,xclusiv_15_09_2026_xclusiv_shipbrokers_weekly_14th_september_2026.pdf
-2026-09-15,37,Tanker,Aframax,Resale,95.0,xclusiv_15_09_2026_xclusiv_shipbrokers_weekly_14th_september_2026.pdf
-2026-09-15,37,Tanker,MR2,10 Year,40.0,xclusiv_15_09_2026_xclusiv_shipbrokers_weekly_14th_september_2026.pdf
-2026-09-15,37,Tanker,MR2,15 Year,27.0,xclusiv_15_09_2026_xclusiv_shipbrokers_weekly_14th_september_2026.pdf
-2026-09-15,37,Tanker,MR2,5 Year,50.0,xclusiv_15_09_2026_xclusiv_shipbrokers_weekly_14th_september_2026.pdf
-2026-09-15,37,Tanker,MR2,Resale,58.0,xclusiv_15_09_2026_xclusiv_shipbrokers_weekly_14th_september_2026.pdf
-2026-09-15,37,Tanker,Suezmax,10 Year,92.0,xclusiv_15_09_2026_xclusiv_shipbrokers_weekly_14th_september_2026.pdf
-2026-09-15,37,Tanker,Suezmax,15 Year,72.0,xclusiv_15_09_2026_xclusiv_shipbrokers_weekly_14th_september_2026.pdf
-2026-09-15,37,Tanker,Suezmax,5 Year,112.0,xclusiv_15_09_2026_xclusiv_shipbrokers_weekly_14th_september_2026.pdf
-2026-09-15,37,Tanker,Suezmax,Resale,133.0,xclusiv_15_09_2026_xclusiv_shipbrokers_weekly_14th_september_2026.pdf
-2026-09-15,37,Tanker,VLCC,10 Year,144.0,xclusiv_15_09_2026_xclusiv_shipbrokers_weekly_14th_september_2026.pdf
-2026-09-15,37,Tanker,VLCC,15 Year,124.0,xclusiv_15_09_2026_xclusiv_shipbrokers_weekly_14th_september_2026.pdf
-2026-09-15,37,Tanker,VLCC,5 Year,165.0,xclusiv_15_09_2026_xclusiv_shipbrokers_weekly_14th_september_2026.pdf
-2026-09-15,37,Tanker,VLCC,Resale,190.0,xclusiv_15_09_2026_xclusiv_shipbrokers_weekly_14th_september_2026.pdf
+2026-09-14,37,Dry,Capesize,10 Year,58.0,xclusiv_2026_xclusiv-2026_09_14.pdf
+2026-09-14,37,Dry,Capesize,15 Year,38.0,xclusiv_2026_xclusiv-2026_09_14.pdf
+2026-09-14,37,Dry,Capesize,5 Year,74.0,xclusiv_2026_xclusiv-2026_09_14.pdf
+2026-09-14,37,Dry,Capesize,Resale,83.0,xclusiv_2026_xclusiv-2026_09_14.pdf
+2026-09-14,37,Dry,Handysize,10 Year,24.0,xclusiv_2026_xclusiv-2026_09_14.pdf
+2026-09-14,37,Dry,Handysize,15 Year,15.0,xclusiv_2026_xclusiv-2026_09_14.pdf
+2026-09-14,37,Dry,Handysize,5 Year,31.5,xclusiv_2026_xclusiv-2026_09_14.pdf
+2026-09-14,37,Dry,Handysize,Resale,37.5,xclusiv_2026_xclusiv-2026_09_14.pdf
+2026-09-14,37,Dry,Kamsarmax,10 Year,34.0,xclusiv_2026_xclusiv-2026_09_14.pdf
+2026-09-14,37,Dry,Kamsarmax,15 Year,22.5,xclusiv_2026_xclusiv-2026_09_14.pdf
+2026-09-14,37,Dry,Kamsarmax,5 Year,42.0,xclusiv_2026_xclusiv-2026_09_14.pdf
+2026-09-14,37,Dry,Kamsarmax,Resale,47.0,xclusiv_2026_xclusiv-2026_09_14.pdf
+2026-09-14,37,Dry,Ultramax,10 Year,30.0,xclusiv_2026_xclusiv-2026_09_14.pdf
+2026-09-14,37,Dry,Supramax,15 Year,19.0,xclusiv_2026_xclusiv-2026_09_14.pdf
+2026-09-14,37,Dry,Ultramax,5 Year,39.0,xclusiv_2026_xclusiv-2026_09_14.pdf
+2026-09-14,37,Dry,Ultramax,Resale,44.0,xclusiv_2026_xclusiv-2026_09_14.pdf
+2026-09-14,37,Tanker,Aframax,10 Year,72.5,xclusiv_2026_xclusiv-2026_09_14.pdf
+2026-09-14,37,Tanker,Aframax,15 Year,55.0,xclusiv_2026_xclusiv-2026_09_14.pdf
+2026-09-14,37,Tanker,Aframax,5 Year,85.0,xclusiv_2026_xclusiv-2026_09_14.pdf
+2026-09-14,37,Tanker,Aframax,Resale,95.0,xclusiv_2026_xclusiv-2026_09_14.pdf
+2026-09-14,37,Tanker,MR2,10 Year,40.0,xclusiv_2026_xclusiv-2026_09_14.pdf
+2026-09-14,37,Tanker,MR2,15 Year,27.0,xclusiv_2026_xclusiv-2026_09_14.pdf
+2026-09-14,37,Tanker,MR2,5 Year,50.0,xclusiv_2026_xclusiv-2026_09_14.pdf
+2026-09-14,37,Tanker,MR2,Resale,58.0,xclusiv_2026_xclusiv-2026_09_14.pdf
+2026-09-14,37,Tanker,Suezmax,10 Year,92.0,xclusiv_2026_xclusiv-2026_09_14.pdf
+2026-09-14,37,Tanker,Suezmax,15 Year,72.0,xclusiv_2026_xclusiv-2026_09_14.pdf
+2026-09-14,37,Tanker,Suezmax,5 Year,112.0,xclusiv_2026_xclusiv-2026_09_14.pdf
+2026-09-14,37,Tanker,Suezmax,Resale,133.0,xclusiv_2026_xclusiv-2026_09_14.pdf
+2026-09-14,37,Tanker,VLCC,10 Year,144.0,xclusiv_2026_xclusiv-2026_09_14.pdf
+2026-09-14,37,Tanker,VLCC,15 Year,124.0,xclusiv_2026_xclusiv-2026_09_14.pdf
+2026-09-14,37,Tanker,VLCC,5 Year,165.0,xclusiv_2026_xclusiv-2026_09_14.pdf
+2026-09-14,37,Tanker,VLCC,Resale,190.0,xclusiv_2026_xclusiv-2026_09_14.pdf
 2026-09-21,38,Dry,Capesize,10 Year,58.0,xclusiv_2026_xclusiv-2026_09_21.pdf
 2026-09-21,38,Dry,Capesize,15 Year,38.0,xclusiv_2026_xclusiv-2026_09_21.pdf
 2026-09-21,38,Dry,Capesize,5 Year,74.0,xclusiv_2026_xclusiv-2026_09_21.pdf

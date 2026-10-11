@@ -53,26 +53,26 @@ This is the part where workers measure their importance and if the labour market
 
 Central banks found themselves behind the curve and are now racing to stop the spiral. The Fed may have paused, but looking at the statements of its officials, the next rate move is more likely to be a hike than a cut. The EU is expected to hike twice.
 
-![Market Chart 1](assets/2023-05-30_mazars-comment-very-slow-growth-higher-than-average-inflation-stagflation_img_image00128329_c8a1c4055a9a.png)
+![Market Chart 1](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-05-30_mazars-comment-very-slow-growth-higher-than-average-inflation-stagflation_img_image00128329_c8a1c4055a9a.png)
 
 > **Figure 1: Market Chart 1**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-05-30_mazars-comment-very-slow-growth-higher-than-average-inflation-stagflation_img_image00128329_c8a1c4055a9a.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-05-30_mazars-comment-very-slow-growth-higher-than-average-inflation-stagflation_img_image00128329_c8a1c4055a9a.png)
 
 In the UK, which is reconstructing its economy post-Brexit, growth is slower and the skills shortages more acute. So is the wage-price spiral. Inflation grew by 1.2% for April, the third straight month that prices rose near 1%. Consumers are undeterred as demand remains fairly robust. The central bank has signalled that it might become more aggressive.**As a result, the market is now pricing no less than four rate hikes until the end of the year.**
 
-![Market Chart 2](assets/2023-05-30_mazars-comment-very-slow-growth-higher-than-average-inflation-stagflation_img_unnamed-2023-05-30t110247458_ef3ecb2e9b07.png)
+![Market Chart 2](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-05-30_mazars-comment-very-slow-growth-higher-than-average-inflation-stagflation_img_unnamed-2023-05-30t110247458_ef3ecb2e9b07.png)
 
 > **Figure 2: Market Chart 2**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-05-30_mazars-comment-very-slow-growth-higher-than-average-inflation-stagflation_img_unnamed-2023-05-30t110247458_ef3ecb2e9b07.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-05-30_mazars-comment-very-slow-growth-higher-than-average-inflation-stagflation_img_unnamed-2023-05-30t110247458_ef3ecb2e9b07.png)
 
 Now comes the ugly part. For a wage-price inflation to stop, central banks need to lower demand to disincentivise companies from hiking prices and communicate to employees that they will not dole out wage rises. Lowering demand is a very nice and technical way of saying that people need to become poorer.
 
 Hopes that the Fed will quickly reduce rates by the end of the year are fundamentally, for the time being, unfounded.
 
-![Market Chart 3](assets/2023-05-30_mazars-comment-very-slow-growth-higher-than-average-inflation-stagflation_img_image00328129_b129a74dbcb9.png)
+![Market Chart 3](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-05-30_mazars-comment-very-slow-growth-higher-than-average-inflation-stagflation_img_image00328129_b129a74dbcb9.png)
 
 > **Figure 3: Market Chart 3**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-05-30_mazars-comment-very-slow-growth-higher-than-average-inflation-stagflation_img_image00328129_b129a74dbcb9.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-05-30_mazars-comment-very-slow-growth-higher-than-average-inflation-stagflation_img_image00328129_b129a74dbcb9.png)
 
 The exercise becomes more difficult as the famous skills-gap comes into the spotlight. For years companies have been complaining that they just can’t get the right staff. This is where the educational system has, in essence, failed us. Jorge Louis Borges, a famous Argentinian writer, suggested that in an infinite library of real and false knowledge, people might go mad or become dogmatic to cope. Where information and misinformation become abundant, filtering is a more important skill than learning. We live in an age where Artificial Intelligence takes initiatives and algo’s make choices we can’t decode. Yet students continue to sit in desks reminiscent of 19th-century factories, learning to receive (usually outdated) knowledge rather than filter and target it. The sad fact is that our age moved past our ability to take stock. Education, not the quickest evolving sector, is miles behind even that milestone. If one accounts for the poor western demographics, which have seen many boomers leave the workplace altogether and fewer Gen -Z’s taking their place,**it becomes clear that the skills problem won’t be resolved anytime soon. For central banks, thus, to achieve their demand-reduction target, they will need to press hard on consumption.**
 

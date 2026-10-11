@@ -40,8 +40,8 @@ The palm oil trade looks as though it will remain an attractive destination for 
 
 ![Exhibit 1: What's Cooking in the Palm Oil Trade?](../../../charts/poten/2014/poten_2014-10-24_whats-cooking-in-the-palm-oil-trade_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2014/poten_2014-10-24_whats-cooking-in-the-palm-oil-trade_chart1.png)
+> **Interactive Asset:** [Local Asset (200 DPI PNG)](../../../charts/poten/2014/poten_2014-10-24_whats-cooking-in-the-palm-oil-trade_chart1.png)
 
 ![Exhibit 2: What's Cooking in the Palm Oil Trade?](../../../charts/poten/2014/poten_2014-10-24_whats-cooking-in-the-palm-oil-trade_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2014/poten_2014-10-24_whats-cooking-in-the-palm-oil-trade_chart2.png)
+> **Interactive Asset:** [Local Asset (200 DPI PNG)](../../../charts/poten/2014/poten_2014-10-24_whats-cooking-in-the-palm-oil-trade_chart2.png)

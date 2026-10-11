@@ -25,10 +25,10 @@ China’s dramatic shift away from its strict zero covid policy at the end of 20
 
 In terms of crude supply, Russia is likely to establish itself as China’s top oil supplier when pipeline flows are included, particularly with reports that the top state-owned refiners have returned to purchasing Russian crude after a brief hiatus towards the end of 2022. Further, smaller teapot refiners in Shandong province may also turn to discounted Russian fuel as a feedstock for their facilities. Nevertheless, not all of China’s demand growth is expected to be met with Russian barrels, with higher buying out of the Americas, West Africa and Middle East expected to contribute towards an uptick in vessel demand, most notably for VLCCs. With Chinese crude production largely flat, on the crude side it is quite simple. China will need to increase seaborne imports to meet its demand growth – a positive for the tanker market even if Russia plays a significant role. However, for refined products the picture is less straight forward.
 
-![1 (2)](assets/2023-02-23_gibsons-tanker-market-report_img_128229_5866c6f953a6.png)
+![1 (2)](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-02-23_gibsons-tanker-market-report_img_128229_5866c6f953a6.png)
 
 > **Figure 1: 1 (2)**  
-> **Interactive Data & Source:** [Gibsons Co](https://www.gibsons.co.uk/market-reports) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-02-23_gibsons-tanker-market-report_img_128229_5866c6f953a6.png)
+> **Interactive Data & Source:** [Gibsons Co](https://www.gibsons.co.uk/market-reports) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-02-23_gibsons-tanker-market-report_img_128229_5866c6f953a6.png)
 
 Over the course of the pandemic, China has boosted its domestic refining industry and now boasts the largest capacity in the world at 18.4mbd, ahead of the United States. Although lower utilisation rates means that projected run rates for 2023 stands at 14.5mbd (+800kbd yoy). However, despite increased capacity and higher output, the forecast for refined product exports growth is modest, having been revised down since China abandoned its zero covid policy. Whilst overall CPP exports are expected to grow with gasoil and jet seeing the greatest upside, gasoline exports are expected to fall back as domestic travel sees barrels retained for local consumption. Overall exports are now expected to grow by around 10%, pegged back by stronger domestic consumption.
 

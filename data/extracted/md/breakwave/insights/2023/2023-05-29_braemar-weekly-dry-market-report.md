@@ -29,10 +29,10 @@ source_file: "corpus/03-breakwave/insights/2023/2023-05-29_braemar-weekly-dry-ma
 
 The volume of bauxite shipped on Capes totalled 40.7m tonnes from January-April this year, an increase of 11% YoY. The long-haul trade from Guinea-China represented 83% of these volumes, at 33.9m tonnes.
 
-![Market Chart 1](assets/2023-05-29_braemar-weekly-dry-market-report_img_image0281229_0664357eb00a.png)
+![Market Chart 1](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-05-29_braemar-weekly-dry-market-report_img_image0281229_0664357eb00a.png)
 
 > **Figure 1: Market Chart 1**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-05-29_braemar-weekly-dry-market-report_img_image0281229_0664357eb00a.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-05-29_braemar-weekly-dry-market-report_img_image0281229_0664357eb00a.png)
 
 This has made bauxite an important source of Cape utilisation.**While bauxite accounted for 6% of volumes shipped on Capes in April, it accounted for 12% of total Cape demand**(measured in deadweight tonne days).
 
@@ -40,10 +40,10 @@ Amid lower iron ore volumes out of Brazil, which has been hit by weather-related
 
 The second graph demonstrates how Guinea has increased its share of cargoes relative to Brazil, accounting for 36% of cargo loadings last month compared to 26% in April last year.
 
-![Market Chart 2](assets/2023-05-29_braemar-weekly-dry-market-report_img_image1281229_9899497f9ae2.png)
+![Market Chart 2](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-05-29_braemar-weekly-dry-market-report_img_image1281229_9899497f9ae2.png)
 
 > **Figure 2: Market Chart 2**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-05-29_braemar-weekly-dry-market-report_img_image1281229_9899497f9ae2.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-05-29_braemar-weekly-dry-market-report_img_image1281229_9899497f9ae2.png)
 
 While the overall trend has shifted towards Guinea, there is a clear seasonal pullback during Guinea’s rainy season from around June to August/September. Last year, Guinea’s ratio of Cape loadings compared to Brazil went from 28% in May to less than 16% in August. Since 2019, Capesize bauxite volumes out of Guinea have declined by an average of 31% from the previous quarter in Q3, while drier weather in Brazil typically allows miners to increase exports during this period.
 
@@ -57,10 +57,10 @@ Indonesia, the third largest exporter of bauxite last year, is introducing a ban
 
 The ban has already increased demand for Guinea’s bauxite and reportedly accelerated the development of some projects. Indonesia exported 17.3m tonnes of bauxite on Capes in 2022, however, volumes have fallen off steeply ahead of the ban. With Australian bauxite exports falling by 9% from the previous year in April, Chinese smelters have clearly looked to Guinea to make up the shortfall, with positive implications for Cape demand.
 
-![Market Chart 3](assets/2023-05-29_braemar-weekly-dry-market-report_img_image2281129_a43682115a49.png)
+![Market Chart 3](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-05-29_braemar-weekly-dry-market-report_img_image2281129_a43682115a49.png)
 
 > **Figure 3: Market Chart 3**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-05-29_braemar-weekly-dry-market-report_img_image2281129_a43682115a49.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-05-29_braemar-weekly-dry-market-report_img_image2281129_a43682115a49.png)
 
 Indonesian authorities hope the ban will encourage domestic processing and exports of higher valuable alumina and aluminium, as a similar ban did with nickel.
 
@@ -78,10 +78,10 @@ This reflects lingering power supply issues for smelters that have become increa
 
 Efforts to reduce emissions have also led to a national production cap of 45m tonnes per year and permits are required for any capacity expansions. As capacity nears the cap, these permits have become scarce, limiting prospects for future growth.
 
-![Market Chart 4](assets/2023-05-29_braemar-weekly-dry-market-report_img_image3281029_858107551c2c.png)
+![Market Chart 4](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-05-29_braemar-weekly-dry-market-report_img_image3281029_858107551c2c.png)
 
 > **Figure 4: Market Chart 4**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-05-29_braemar-weekly-dry-market-report_img_image3281029_858107551c2c.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-05-29_braemar-weekly-dry-market-report_img_image3281029_858107551c2c.png)
 
 Despite this, a drawdown in aluminium stocks, which have declined by 47% since 9 March, suggests apparent aluminium consumption has remained strong.
 

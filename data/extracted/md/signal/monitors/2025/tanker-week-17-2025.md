@@ -26,10 +26,10 @@ tags:
 
 *Published on 24 April 2025*
 
-![‍](../../images/680a6134424e515212c48ab0_AD_4nXdSnOE4w4RT2hThXNFA4JjoHjLTQrEHHDLa24yUFbSz0XzKV_xfY8RE62Z3jYvyVV3e9SHzH84f0Kky5J00Bk1jXQ17AZwnPC5fnvcZ77zfGMiFIpokYmYPLxC8Vhx_yFyoSEcZWw.png)
+![‍](../../../../../../corpus/07-signal/images/680a6134424e515212c48ab0_AD_4nXdSnOE4w4RT2hThXNFA4JjoHjLTQrEHHDLa24yUFbSz0XzKV_xfY8RE62Z3jYvyVV3e9SHzH84f0Kky5J00Bk1jXQ17AZwnPC5fnvcZ77zfGMiFIpokYmYPLxC8Vhx_yFyoSEcZWw.png)
 
 > **Figure 1: ‍**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/tanker-week-17-2025) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/680a6134424e515212c48ab0_AD_4nXdSnOE4w4RT2hThXNFA4JjoHjLTQrEHHDLa24yUFbSz0XzKV_xfY8RE62Z3jYvyVV3e9SHzH84f0Kky5J00Bk1jXQ17AZwnPC5fnvcZ77zfGMiFIpokYmYPLxC8Vhx_yFyoSEcZWw.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/tanker-week-17-2025) | [Local Asset](../../../../../../corpus/07-signal/images/680a6134424e515212c48ab0_AD_4nXdSnOE4w4RT2hThXNFA4JjoHjLTQrEHHDLa24yUFbSz0XzKV_xfY8RE62Z3jYvyVV3e9SHzH84f0Kky5J00Bk1jXQ17AZwnPC5fnvcZ77zfGMiFIpokYmYPLxC8Vhx_yFyoSEcZWw.png)
 
 
 ## Despite Persistent International Sanctions, Iran Managed to Sustain Significant Crude Oil Exports Between January 2023 and March 2025, Totaling Approximately 268.5 Million Barrels. This Continued Export Activity—entirely Sourced From Iranian Production—demonstrates Tehran’s Resilience and Strategic Adaptability in Circumventing Global Pressure.

@@ -30,10 +30,10 @@ source_file: "corpus/03-breakwave/insights/2023/2023-01-27_doric-china-barometer
 - Imports to China tumbled by 7.5 percent year-on-year in December to USD 228.07 billion, up significantly from a drop of 10.6 percent in November.
 - China posted a total trade surplus of USD 78.02 billion in December, compared with a USD 69.84 billion surplus in the previous month.
 
-![1 (3)](assets/2023-01-27_doric-china-barometer-highlights_img_128329_de79a22fced7.png)
+![1 (3)](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-01-27_doric-china-barometer-highlights_img_128329_de79a22fced7.png)
 
 > **Figure 1: 1 (3)**  
-> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-01-27_doric-china-barometer-highlights_img_128329_de79a22fced7.png)
+> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-01-27_doric-china-barometer-highlights_img_128329_de79a22fced7.png)
 
 ### Manufacturing 1/2
 
@@ -41,10 +41,10 @@ source_file: "corpus/03-breakwave/insights/2023/2023-01-27_doric-china-barometer
 - Average daily output in December stood at 2.53 million tonnes, or up 1.1 percent from previous month.
 - In 2022, China churned out 1.01 billion tonnes of crude steel, or down 2.1 percent from a year earlier.
 
-![1+(3)](assets/2023-01-27_doric-china-barometer-highlights_img_12b28329_6f7edbe6c176.png)
+![1+(3)](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-01-27_doric-china-barometer-highlights_img_12b28329_6f7edbe6c176.png)
 
 > **Figure 2: 1+(3)**  
-> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-01-27_doric-china-barometer-highlights_img_12b28329_6f7edbe6c176.png)
+> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-01-27_doric-china-barometer-highlights_img_12b28329_6f7edbe6c176.png)
 
 ### Manufacturing 2/2
 
@@ -52,10 +52,10 @@ source_file: "corpus/03-breakwave/insights/2023/2023-01-27_doric-china-barometer
 - Property sales by floor area dropped by 24.3 percent year-on-year in 2022, continuing the double-digits fall for the 12th straight month.
 - China’s central bank announced the introduction of a dynamic mechanism, allowing cities to adjust the lowest limit for first-home mortgage rates.
 
-![1+%284%29](assets/2023-01-27_doric-china-barometer-highlights_img_12b252842529_b6f80e6537f2.jpg)
+![1+%284%29](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-01-27_doric-china-barometer-highlights_img_12b252842529_b6f80e6537f2.jpg)
 
 > **Figure 3: 1+%284%29**  
-> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-01-27_doric-china-barometer-highlights_img_12b252842529_b6f80e6537f2.jpg)
+> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-01-27_doric-china-barometer-highlights_img_12b252842529_b6f80e6537f2.jpg)
 
 ### Crude Oil
 
@@ -64,10 +64,10 @@ source_file: "corpus/03-breakwave/insights/2023/2023-01-27_doric-china-barometer
 - In 2022, crude imports totalled 508.28 million tonnes, down 0.9 percent from a year earlier.
 - Chinese independent refiners chased discounted Iranian oil, in order to use quotas before year-end.
 
-![1 (4)](assets/2023-01-27_doric-china-barometer-highlights_img_128429_989f444cb8a2.png)
+![1 (4)](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-01-27_doric-china-barometer-highlights_img_128429_989f444cb8a2.png)
 
 > **Figure 4: 1 (4)**  
-> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-01-27_doric-china-barometer-highlights_img_128429_989f444cb8a2.png)
+> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-01-27_doric-china-barometer-highlights_img_128429_989f444cb8a2.png)
 
 ### Iron Ore
 
@@ -78,10 +78,10 @@ source_file: "corpus/03-breakwave/insights/2023/2023-01-27_doric-china-barometer
 - On a monthly basis, iron ore output increased by 4.5 percent in December, up from 74.54 million tonnes reported in November.
 - From January to December, 1.01 billion metric tonnes of crude iron ore has been extracted in China, or down 2.1 percent year-on-year.
 
-![1 (5)](assets/2023-01-27_doric-china-barometer-highlights_img_128529_b47a4076523a.png)
+![1 (5)](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-01-27_doric-china-barometer-highlights_img_128529_b47a4076523a.png)
 
 > **Figure 5: 1 (5)**  
-> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-01-27_doric-china-barometer-highlights_img_128529_b47a4076523a.png)
+> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-01-27_doric-china-barometer-highlights_img_128529_b47a4076523a.png)
 
 ### Coal
 
@@ -93,9 +93,9 @@ source_file: "corpus/03-breakwave/insights/2023/2023-01-27_doric-china-barometer
 - China’s domestic coal output in 2022 rose by circa 9.0 percent from a year earlier to 4.49 billion metric tonnes.
 - China’s daily coal output slipped by 0.4 percent month-on-month in December, as Covid outbreaks slowed demand from industrial users.
 
-![1 (6)](assets/2023-01-27_doric-china-barometer-highlights_img_128629_8add7ed20e76.png)
+![1 (6)](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-01-27_doric-china-barometer-highlights_img_128629_8add7ed20e76.png)
 
 > **Figure 6: 1 (6)**  
-> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-01-27_doric-china-barometer-highlights_img_128629_8add7ed20e76.png)
+> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-01-27_doric-china-barometer-highlights_img_128629_8add7ed20e76.png)
 
 Data source:[Doric](https://www.doric.gr/)

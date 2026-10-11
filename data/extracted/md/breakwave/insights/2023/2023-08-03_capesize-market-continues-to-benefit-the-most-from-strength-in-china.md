@@ -27,7 +27,7 @@ More recently, though, the rest of the world has also seen bullish developments 
 
 Overall, the capesize market continues to benefit the most from the strength in China and recent improvements in the steel/iron ore and coal markets outside of China. Month after month of moderate fleet growth, though, has remained a headwind for the overall dry bulk market — and it remains most problematic for handysize, handymax, and panamax segments, as these segments have suffered the most from this year’s contraction in global grain trade as we have continued to stress in Commodore's Weekly Dry Bulk Reports. The end of the Black Sea grain export deal remains a new issue as well.
 
-![Chart (3)](assets/2023-08-03_capesize-market-continues-to-benefit-the-most-from-strength-in-china_img_chart28329_d4c6583b29a7.jpg)
+![Chart (3)](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-08-03_capesize-market-continues-to-benefit-the-most-from-strength-in-china_img_chart28329_d4c6583b29a7.jpg)
 
 > **Figure 1: Chart (3)**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-08-03_capesize-market-continues-to-benefit-the-most-from-strength-in-china_img_chart28329_d4c6583b29a7.jpg)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-08-03_capesize-market-continues-to-benefit-the-most-from-strength-in-china_img_chart28329_d4c6583b29a7.jpg)

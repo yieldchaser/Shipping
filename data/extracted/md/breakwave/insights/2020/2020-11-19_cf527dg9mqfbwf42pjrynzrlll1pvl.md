@@ -22,10 +22,10 @@ source_file: "corpus/03-breakwave/insights/2020/2020-11-19_cf527dg9mqfbwf42pjryn
 
 *By Ulf Bergman*
 
-![Vaccine](assets/2020-11-19_cf527dg9mqfbwf42pjrynzrlll1pvl_img_vaccine_c2b44a386a77.jpg)
+![Vaccine](../../../../../../corpus/03-breakwave/insights/2020/assets/2020-11-19_cf527dg9mqfbwf42pjrynzrlll1pvl_img_vaccine_c2b44a386a77.jpg)
 
 > **Figure 1: Vaccine**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2020/assets/2020-11-19_cf527dg9mqfbwf42pjrynzrlll1pvl_img_vaccine_c2b44a386a77.jpg)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2020/assets/2020-11-19_cf527dg9mqfbwf42pjrynzrlll1pvl_img_vaccine_c2b44a386a77.jpg)
 
 The world is almost spoilt for choice, with two vaccines showing great potential with the initial findings. Pfizer’s first announcement sent equities and oil soaring, but with sentiments cooling considerably fairly quickly as reality set in. Moderna subsequently published even stronger test statistics on their vaccine, only to be outdone by Pfizer’s second batch of test data. Optimism has started to be on a more stable footing, as the results point towards a solution to the pandemic and that the initial release was not just a fluke. There are also several other vaccine research projects due to publish their initial findings in the near future. Based on the strong results, Pfizer is likely to file for regulatory approval shortly and start the wheels moving for vaccinating the world’s population.
 
@@ -39,20 +39,20 @@ In the short to medium-term it looks like we will see more of the same, but with
 
 ### 12-Month Performance of the Chinese Yuan vs. the Us Dollar (%)
 
-![Source: Trading Economics](assets/2020-11-19_cf527dg9mqfbwf42pjrynzrlll1pvl_img_ulf80_dfd751ace8e4.jpg)
+![Source: Trading Economics](../../../../../../corpus/03-breakwave/insights/2020/assets/2020-11-19_cf527dg9mqfbwf42pjrynzrlll1pvl_img_ulf80_dfd751ace8e4.jpg)
 
 > **Figure 2: Source: Trading Economics**  
 > *Source: Trading Economics*  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2020/assets/2020-11-19_cf527dg9mqfbwf42pjrynzrlll1pvl_img_ulf80_dfd751ace8e4.jpg)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2020/assets/2020-11-19_cf527dg9mqfbwf42pjrynzrlll1pvl_img_ulf80_dfd751ace8e4.jpg)
 
 Following a series of coal mine accidents, Chinese authorities are stepping up safety inspections in the coming year, which could reduce domestic production and require imported coal to make up for any shortfall. Inventories in some ports are already below the desired levels and strong industrial growth is driving electricity production higher, indicating that imports of thermal coal are likely to increase.
 
 The outlook for commodities into the first part of next year looks bullish, with a continued healthy demand from Chinese buyers and a likely pickup in demand in Europe. China will still be the dominant player for many commodities, but perhaps slightly less so with increasing activities in Europe and elsewhere.
 
-![Market Chart 3](assets/2020-11-19_cf527dg9mqfbwf42pjrynzrlll1pvl_img_image-asset_2deebdc1fda2.jpeg)
+![Market Chart 3](../../../../../../corpus/03-breakwave/insights/2020/assets/2020-11-19_cf527dg9mqfbwf42pjrynzrlll1pvl_img_image-asset_2deebdc1fda2.jpeg)
 
 > **Figure 3: Market Chart 3**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2020/assets/2020-11-19_cf527dg9mqfbwf42pjrynzrlll1pvl_img_image-asset_2deebdc1fda2.jpeg)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2020/assets/2020-11-19_cf527dg9mqfbwf42pjrynzrlll1pvl_img_image-asset_2deebdc1fda2.jpeg)
 
 The rollout of vaccines will over time see the gradual switch to spending on services, as consumers and companies are less and less constrained by social restrictions. Beleaguered industries, such as leisure and airlines, can be expected to start recovering, leading to an increase in the demand for jet and other distillate fuels, drawing down storage and increasing production. Such an increase in fuel demand could potentially push up shipping bunker fuel prices, as some jet fuel and similar feedstock have found their way into the blending of shipping’s low sulphur fuel because of the glut. Tanker shipping is, however, unlikely to recover until vaccination levels have reached a critical mass with increasing global mobility.
 

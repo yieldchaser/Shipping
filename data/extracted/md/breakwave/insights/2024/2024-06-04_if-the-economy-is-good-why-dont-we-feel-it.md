@@ -45,35 +45,35 @@ The past couple of weeks have been bereft of direction.
 
 The global economy is dithering. US growth is marginally decelerating, with inflation only very slightly slowing.
 
-![Market Chart 1](assets/2024-06-04_if-the-economy-is-good-why-dont-we-feel-it_img_image001_24de71306a02.png)
+![Market Chart 1](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-06-04_if-the-economy-is-good-why-dont-we-feel-it_img_image001_24de71306a02.png)
 
 > **Figure 1: Market Chart 1**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-06-04_if-the-economy-is-good-why-dont-we-feel-it_img_image001_24de71306a02.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-06-04_if-the-economy-is-good-why-dont-we-feel-it_img_image001_24de71306a02.png)
 
 Meanwhile in Europe, growth appears to be stabilising, but inflation is rebounding.
 
-![Market Chart 2](assets/2024-06-04_if-the-economy-is-good-why-dont-we-feel-it_img_image002_190367245452.png)
+![Market Chart 2](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-06-04_if-the-economy-is-good-why-dont-we-feel-it_img_image002_190367245452.png)
 
 > **Figure 2: Market Chart 2**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-06-04_if-the-economy-is-good-why-dont-we-feel-it_img_image002_190367245452.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-06-04_if-the-economy-is-good-why-dont-we-feel-it_img_image002_190367245452.png)
 
 **As the data dithers, so do data-dependent central banks, and especially the Fed.**In the last few days, two key Fed officials (Logan, Kashkari), as well as the FOMC minutes suggested that even rate hikes might be on the table. At the same time, other key officials (Williams, Bostic, Goolsbee) suggested that monetary conditions are tight enough.
 
 To be sure, a two-year inverted yield curve without a recession (but instead above-trend growth), and inflation stuck north of 3% (core PCE around 2.7%) suggests that the Fed may have been too dovish in its approach. Inflation is, of course coming down, but not quickly enough.
 
-![Market Chart 3](assets/2024-06-04_if-the-economy-is-good-why-dont-we-feel-it_img_image003_92f86870aece.png)
+![Market Chart 3](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-06-04_if-the-economy-is-good-why-dont-we-feel-it_img_image003_92f86870aece.png)
 
 > **Figure 3: Market Chart 3**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-06-04_if-the-economy-is-good-why-dont-we-feel-it_img_image003_92f86870aece.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-06-04_if-the-economy-is-good-why-dont-we-feel-it_img_image003_92f86870aece.png)
 
 A key theme, which we discussed at the time of Jay Powel’s selection is playing out. That when the world’s de facto central bank would need leadership, Mr. Powell w didn’t have the experience and academic background to deliver the extraordinary. Maybe the world is better without the ego of a Greenspan or the singular pursuits of a Bernanke.**Central banks handing some power back to democratically elected governments does not sound like a bad idea in principle, even if that transference isn’t 100% voluntary. But it does beg a question: what will be the role of central banks at a time of intensifying trade wars and high debt? Will they observe, will they lead or will they follow? In the next few weeks, we will explore the theme of trade wars and their implications more.**
 
 Meanwhile, later in the week, the ECB will likely perform the first rate cut amongst major central banks, but we are still not 100% certain, even with three days to go.
 
-![Market Chart 4](assets/2024-06-04_if-the-economy-is-good-why-dont-we-feel-it_img_image004_9aeed996af83.png)
+![Market Chart 4](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-06-04_if-the-economy-is-good-why-dont-we-feel-it_img_image004_9aeed996af83.png)
 
 > **Figure 4: Market Chart 4**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-06-04_if-the-economy-is-good-why-dont-we-feel-it_img_image004_9aeed996af83.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-06-04_if-the-economy-is-good-why-dont-we-feel-it_img_image004_9aeed996af83.png)
 
 **With the economy ambiguous, inflation ambiguous and central banks ambiguous, it is only natural that the stock and bond markets are ambiguous too.**The S&P has been trading in a narrow range of 100 points in the past two weeks, and the US 2y Treasury remains shy of the 5% level.**As long as the Fed remains unclear about the potential for further tightening, markets will likely remain nervous.**
 
@@ -89,10 +89,10 @@ Do we spend time and effort to uncover trends underlying the noise? A better app
 
 This market offers very few tactical opportunities, as a lack of clear direction is accompanied by low volatility. This means that asset prices would not, even temporarily, fall to a level which would make them attractive. So even if one were to take shorter-term risks, they would likely not be rewarded over a short-term period.
 
-![Market Chart 5](assets/2024-06-04_if-the-economy-is-good-why-dont-we-feel-it_img_image005_4d6f9ec5dbc5.png)
+![Market Chart 5](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-06-04_if-the-economy-is-good-why-dont-we-feel-it_img_image005_4d6f9ec5dbc5.png)
 
 > **Figure 5: Market Chart 5**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-06-04_if-the-economy-is-good-why-dont-we-feel-it_img_image005_4d6f9ec5dbc5.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-06-04_if-the-economy-is-good-why-dont-we-feel-it_img_image005_4d6f9ec5dbc5.png)
 
 With the risk of sounding like a broken record, we don’t think of investing as making uninformed decisions, especially with other people’s money. Short-term opacity compels asset allocators to fall back towards their strategic allocation, something we have often advocated for. The existence of a strategic asset allocation means that we are never passive viewers of markets. Instead, we rely on the big trends to curry returns.
 

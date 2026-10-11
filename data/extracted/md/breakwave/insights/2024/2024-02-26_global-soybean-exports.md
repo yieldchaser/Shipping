@@ -32,19 +32,19 @@ Amid ample global supplies, US soybean prices have sustained a downward trend ov
 
 Against this backdrop, the key P6 (ECSA RV) index reported an average of $15,127 daily so far this year, compared to a respective average of $10,415 daily the year before. However, market tendencies were vastly different in these two years. In late February 2023, the leading granary of the east coast of South America was witnessing strong gains day by day. Twelve months later, in spite of a generous week start, the last few trading days were marked by severe pressure, with early March ECSA candidates fixing well below index levels. This stark contrast illustrates the volatile nature of the market and the rapid shifts in trading dynamics within a relatively short period. Similarly, the Baltic voyage P8 index (Santos/Qingdao) concluded today at $42.85 per metric tonne, marking a substantial increase compared to the previous year. However, it's important to note that the Baltic index experienced a loss of approximately $1.6 within just a few days, underscoring the volatility and unpredictability inherent in the shipping market.
 
-![Screenshot 2024 02 26 12.15.05](assets/2024-02-26_global-soybean-exports_img_screenshot2024-02-26121505_35fb58f0e9b9.png)
+![Screenshot 2024 02 26 12.15.05](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-02-26_global-soybean-exports_img_screenshot2024-02-26121505_35fb58f0e9b9.png)
 
 > **Figure 1: Screenshot 2024 02 26 12.15.05**  
-> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-02-26_global-soybean-exports_img_screenshot2024-02-26121505_35fb58f0e9b9.png)
+> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-02-26_global-soybean-exports_img_screenshot2024-02-26121505_35fb58f0e9b9.png)
 
 Looking forward, following a robust year with 101.7 million tonnes of Chinese imports, soybean demand from the leading importer may experience a slight decrease in the current trading year. LSEG commodity analysts emphasized that China's soybean crushing margins have continued to decline from last summer's high levels, as domestic soybean meal prices hit three-year lows this January. Furthermore, massive corn imports and high inventory levels have also partially offset the feed demand for soybean meal. Additionally, China is expected to guide farmers to reduce hog production capacity, which could result in decreasing hog stocks and, consequently, lower feed demand for soybean meal. These factors collectively suggest a potential moderation in soybean demand from China in the near term.
 
 It appears that despite concerns about the outlook for grain and coal trades, there has been significant activity in the Panamax period desks in the early part of this year. This suggests optimism for a quite robust spot market throughout the remainder of 2024. Well-described vessels have been commanding premiums well above the average rates seen in 2023, indicating strong demand and confidence in the market.
 
-![Screenshot 2024 02 26 12.15.15](assets/2024-02-26_global-soybean-exports_img_screenshot2024-02-26121515_58c23bd2dbad.png)
+![Screenshot 2024 02 26 12.15.15](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-02-26_global-soybean-exports_img_screenshot2024-02-26121515_58c23bd2dbad.png)
 
 > **Figure 2: Screenshot 2024 02 26 12.15.15**  
-> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-02-26_global-soybean-exports_img_screenshot2024-02-26121515_58c23bd2dbad.png)
+> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-02-26_global-soybean-exports_img_screenshot2024-02-26121515_58c23bd2dbad.png)
 
 Data source:[Doric](https://www.doric.gr/)
 

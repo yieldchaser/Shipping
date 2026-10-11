@@ -30,10 +30,18 @@ Overall, crude tanker owners looking into the EIA's crystal ball will see some b
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: Unlce Sams Crystal Ball](../../../charts/poten/2015/poten_2015-04-17_unlce-sams-crystal-ball_chart1.png)
+![Exhibit 1: U.S. net crude oil imports, alternative scenarios](../../../charts/poten/2015/poten_2015-04-17_unlce-sams-crystal-ball_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2015/poten_2015-04-17_unlce-sams-crystal-ball_chart1.png)
+> **Exhibit 1: U.S. net crude oil imports, alternative scenarios**  
+> Unit: million barrels/day · X-axis: 2005 to 2040  
+> Series: History, Projections, Low Oil Price, Reference, High Oil Price, High Oil and Gas Resource  
+> *Source: EIA Annual Energy Outlook 2015*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2015/poten_2015-04-17_unlce-sams-crystal-ball_chart1.png)
 
-![Exhibit 2: Unlce Sams Crystal Ball](../../../charts/poten/2015/poten_2015-04-17_unlce-sams-crystal-ball_chart2.png)
+![Exhibit 2: U.S. net petroleum product imports, alternative scenarios](../../../charts/poten/2015/poten_2015-04-17_unlce-sams-crystal-ball_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2015/poten_2015-04-17_unlce-sams-crystal-ball_chart2.png)
+> **Exhibit 2: U.S. net petroleum product imports, alternative scenarios**  
+> Unit: million barrels/day · X-axis: 2005 to 2040  
+> Series: History, Projections, Low Oil Price, Reference, High Oil and Gas Resource, High Oil Price  
+> *Source: EIA Annual Energy Outlook 2015*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2015/poten_2015-04-17_unlce-sams-crystal-ball_chart2.png)

@@ -49,10 +49,10 @@ The Baltic Exchange’s wet freight indices continued to outperform the gauges i
 
 Rising expectations that the UN-monitored deal that has allowed Ukraine to recommence its seaborne exports of agricultural commodities will be extended weighed on prices yesterday. Today’s confirmation that the agreement has been prolonged for another 120 days is likely to put additional pressure on prices. The uncertainty over the deal’s future, combined with an escalation on the ground in Ukraine, has weighed on shippers’ confidence in recent weeks, and cargo order volumes have suffered as a result. Weekly volumes dropped significantly in the middle of October and have remained at the lowest levels since early August. However, the increased clarity can be expected to fuel a rebound in ordering activities.
 
-![Market Chart 1](assets/2022-11-17_shipfix-global-market-update_img_unnamed-2022-11-17t151250068_8fdfd59abfce.png)
+![Market Chart 1](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-11-17_shipfix-global-market-update_img_unnamed-2022-11-17t151250068_8fdfd59abfce.png)
 
 > **Figure 1: Market Chart 1**  
-> **Interactive Data & Source:** [Shipfix](https://shipfix.com/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-11-17_shipfix-global-market-update_img_unnamed-2022-11-17t151250068_8fdfd59abfce.png)
+> **Interactive Data & Source:** [Shipfix](https://shipfix.com/) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-11-17_shipfix-global-market-update_img_unnamed-2022-11-17t151250068_8fdfd59abfce.png)
 
 The Ukrainian grain exports are facing renewed uncertainty amid the recent Russian suspension of its participation in the UN-monitored deal, followed by a rapid re-engagement, and a possible expiry of the current agreement later in November.
 

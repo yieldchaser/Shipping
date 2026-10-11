@@ -29,7 +29,7 @@ source_file: "corpus/03-breakwave/insights/2021/2021-02-10_dont-tell-me-the-ox-d
 ![Bull Snow](assets/2021-02-10_dont-tell-me-the-ox-doesnt-look-like-a-bull_img_bullsnow_4fc5d76b75cf.jpg)
 
 > **Figure 1: Bull Snow**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2021/assets/2021-02-10_dont-tell-me-the-ox-doesnt-look-like-a-bull_img_bullsnow_4fc5d76b75cf.jpg)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-02-10_dont-tell-me-the-ox-doesnt-look-like-a-bull_img_bullsnow_4fc5d76b75cf.jpg)
 
 That being said, the market is currently experiencing the usual lull which accompanies this time of the year that coincides with the Chinese New Year festivities. And while close to the Spring Festival the largest movement in the world is recorded while the world’s most populous nation celebrates the Lunar New Year by visiting their hometowns (and the dry bulk market somewhat stagnates), we still live in the Covid-19 era.
 
@@ -56,7 +56,7 @@ According to the United States Department of Agriculture, Brazil’s yearly soyb
 ![Ship13](assets/2021-02-10_dont-tell-me-the-ox-doesnt-look-like-a-bull_img_ship13_cae4ba6883fc.jpg)
 
 > **Figure 2: Ship13**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2021/assets/2021-02-10_dont-tell-me-the-ox-doesnt-look-like-a-bull_img_ship13_cae4ba6883fc.jpg)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-02-10_dont-tell-me-the-ox-doesnt-look-like-a-bull_img_ship13_cae4ba6883fc.jpg)
 
 Furthermore, China has already booked its highest-ever volume of US corn for delivery in the 2020/21 marketing year, while prospects for a weaker dollar will likely encourage further purchases of US agricultural goods. A questionmark of course remains as to how the new Biden administration will handle the tariff dispute between Washington and Beijing, which of course goes beyond purchasing commitments to commercial cybertheft and the Chinese system of industrial subsidies.
 

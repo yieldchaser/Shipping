@@ -28,10 +28,18 @@ So far, the expanded Panama Canal locks have been successful and well utilized. 
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: Panama Tankers](../../../charts/poten/2018/poten_2018-08-24_panama-tankers_chart1.png)
+![Exhibit 1: Neopanamax Transits Oct 2017-Jun 2018](../../../charts/poten/2018/poten_2018-08-24_panama-tankers_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2018/poten_2018-08-24_panama-tankers_chart1.png)
+> **Exhibit 1: Neopanamax Transits Oct 2017-Jun 2018**  
+> Unit: Number | % · X-axis: Container to Other  
+> Series: Container, LPG, LNG, Dry Bulk, Crude, Vehicle, Passenger, Chemical, Other  
+> *Source: Panama Canal Authority*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2018/poten_2018-08-24_panama-tankers_chart1.png)
 
-![Exhibit 2: Panama Tankers](../../../charts/poten/2018/poten_2018-08-24_panama-tankers_chart2.png)
+![Exhibit 2: Panama Canal Oil Tanker Transits (Neopanamax)](../../../charts/poten/2018/poten_2018-08-24_panama-tankers_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2018/poten_2018-08-24_panama-tankers_chart2.png)
+> **Exhibit 2: Panama Canal Oil Tanker Transits (Neopanamax)**  
+> Unit: Transit · X-axis: Jun-16 to Aug-18  
+> Series: Laden, Ballast  
+> *Source: Lloyd’s List Intelligence, Poten*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2018/poten_2018-08-24_panama-tankers_chart2.png)

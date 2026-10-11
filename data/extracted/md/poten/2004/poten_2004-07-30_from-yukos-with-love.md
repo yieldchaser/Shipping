@@ -46,6 +46,8 @@ Yukos' financial troubles come at a time when oil demand is particularly high an
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: From Yukos With Love](../../../charts/poten/2004/poten_2004-07-30_from-yukos-with-love_chart1.png)
-
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2004/poten_2004-07-30_from-yukos-with-love_chart1.png)
+> **Chart on PDF page 2: Russian Oil Production & Consumption**  
+> Unit: 000 Bpd · X-axis: 1985 to 2003  
+> Series: Production, Consumption  
+> *Source: BP Statistics/Poten*  
+> *No image crop of this chart was saved; caption read from the PDF.*

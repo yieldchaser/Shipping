@@ -104,6 +104,8 @@ It seems that asset opportunities are available especially to those willing to a
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: The Waiting Game](../../../charts/poten/2008/poten_2008-11-14_the-waiting-game_chart1.png)
-
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2008/poten_2008-11-14_the-waiting-game_chart1.png)
+> **Chart on PDF page 2: World Shipping Orderbook**  
+> Unit: $ Billion · X-axis: Tankers to Other  
+> Series: Orderbook Cost, Anticipated Financing  
+> *Source: Poten Capital Services*  
+> *No image crop of this chart was saved; caption read from the PDF.*

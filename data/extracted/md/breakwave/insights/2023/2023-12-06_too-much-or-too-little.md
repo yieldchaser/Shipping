@@ -19,15 +19,15 @@ source_file: "corpus/03-breakwave/insights/2023/2023-12-06_too-much-or-too-littl
 
 ---
 
-![Homepage+banner+1](assets/2023-12-06_too-much-or-too-little_img_homepage2bbanner2b1_5d7211685255.png)
+![Homepage+banner+1](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-12-06_too-much-or-too-little_img_homepage2bbanner2b1_5d7211685255.png)
 
 > **Figure 1: Homepage+banner+1**  
-> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/breakwave-day-2023) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-12-06_too-much-or-too-little_img_homepage2bbanner2b1_5d7211685255.png)
+> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/breakwave-day-2023) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-12-06_too-much-or-too-little_img_homepage2bbanner2b1_5d7211685255.png)
 
-[![Homepage2bbutton](assets/2023-12-06_too-much-or-too-little_img_homepage2bbutton28129_1d014100cc65.png)
+[![Homepage2bbutton](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-12-06_too-much-or-too-little_img_homepage2bbutton28129_1d014100cc65.png)
 
 > **Figure 2: Homepage2bbutton**  
-> **Interactive Data & Source:** [Gibsons Co](https://www.gibsons.co.uk/market-reports) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-12-06_too-much-or-too-little_img_homepage2bbutton28129_1d014100cc65.png)](https://www.breakwaveadvisors.com/breakwave-day-2023)
+> **Interactive Data & Source:** [Gibsons Co](https://www.gibsons.co.uk/market-reports) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-12-06_too-much-or-too-little_img_homepage2bbutton28129_1d014100cc65.png)](https://www.breakwaveadvisors.com/breakwave-day-2023)
 
 2023 has seen a notable increase in new tanker ordering activity and as the year slowly draws to its end, it is perhaps time to reflect on where investment in new tonnage has been the strongest and where it is still lacking.
 
@@ -41,9 +41,9 @@ The trend is similar if we consider total tanker orderbook vs. the fleet at 15+ 
 
 ## Tanker Orderbook vs Tanker Supply 15+ Years
 
-![Αρχείο Λήψης (6)](assets/2023-12-06_too-much-or-too-little_img_ceb1cf81cf87ceb5ceafcebfcebbceaecf88_bc9d021a3cf6.png)
+![Αρχείο Λήψης (6)](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-12-06_too-much-or-too-little_img_ceb1cf81cf87ceb5ceafcebfcebbceaecf88_bc9d021a3cf6.png)
 
 > **Figure 3: Αρχείο Λήψης (6)**  
-> **Interactive Data & Source:** [Gibsons Co](https://www.gibsons.co.uk/market-reports) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-12-06_too-much-or-too-little_img_ceb1cf81cf87ceb5ceafcebfcebbceaecf88_bc9d021a3cf6.png)
+> **Interactive Data & Source:** [Gibsons Co](https://www.gibsons.co.uk/market-reports) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-12-06_too-much-or-too-little_img_ceb1cf81cf87ceb5ceafcebfcebbceaecf88_bc9d021a3cf6.png)
 
 Data source:[Gibson Shipbrokers](https://www.gibsons.co.uk/market-reports)

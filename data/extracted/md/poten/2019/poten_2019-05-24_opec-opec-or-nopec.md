@@ -30,10 +30,18 @@ Who knows what's next for OPEC, but it is clear that the producer's club still p
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: OPEC OPEC or NOPEC](../../../charts/poten/2019/poten_2019-05-24_opec-opec-or-nopec_chart1.png)
+![Exhibit 1: OPEC Crude Oil Production](../../../charts/poten/2019/poten_2019-05-24_opec-opec-or-nopec_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2019/poten_2019-05-24_opec-opec-or-nopec_chart1.png)
+> **Exhibit 1: OPEC Crude Oil Production**  
+> Unit: Mb/d · X-axis: Jan-14 to Jan-19  
+> Series: OPEC Crude Oil Production  
+> *Source: IEA*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2019/poten_2019-05-24_opec-opec-or-nopec_chart1.png)
 
-![Exhibit 2: OPEC OPEC or NOPEC](../../../charts/poten/2019/poten_2019-05-24_opec-opec-or-nopec_chart2.png)
+![Exhibit 2: Freight Rates: VLCC AG-FE (270Kt)](../../../charts/poten/2019/poten_2019-05-24_opec-opec-or-nopec_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2019/poten_2019-05-24_opec-opec-or-nopec_chart2.png)
+> **Exhibit 2: Freight Rates: VLCC AG-FE (270Kt)**  
+> Unit: US$/day · X-axis: Jan-14 to Apr-19  
+> Series: VLCC AG-FE (270Kt)  
+> *Source: Poten & Partners*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2019/poten_2019-05-24_opec-opec-or-nopec_chart2.png)

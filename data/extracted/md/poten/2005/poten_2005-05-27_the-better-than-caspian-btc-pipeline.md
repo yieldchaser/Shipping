@@ -38,18 +38,14 @@ The economies of scale of VLCCs make them a more attractive option than Suezmaxe
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: The Better Than Caspian (BTC) Pipeline](../../../charts/poten/2005/poten_2005-05-27_the-better-than-caspian-btc-pipeline_chart1.png)
-
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2005/poten_2005-05-27_the-better-than-caspian-btc-pipeline_chart1.png)
-
 ![Exhibit 2: The Better Than Caspian (BTC) Pipeline](../../../charts/poten/2005/poten_2005-05-27_the-better-than-caspian-btc-pipeline_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2005/poten_2005-05-27_the-better-than-caspian-btc-pipeline_chart2.png)
+> **Interactive Asset:** [Local Asset (200 DPI PNG)](../../../charts/poten/2005/poten_2005-05-27_the-better-than-caspian-btc-pipeline_chart2.png)
 
 ![Exhibit 3: The Better Than Caspian (BTC) Pipeline](../../../charts/poten/2005/poten_2005-05-27_the-better-than-caspian-btc-pipeline_chart3.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2005/poten_2005-05-27_the-better-than-caspian-btc-pipeline_chart3.png)
+> **Interactive Asset:** [Local Asset (200 DPI PNG)](../../../charts/poten/2005/poten_2005-05-27_the-better-than-caspian-btc-pipeline_chart3.png)
 
 ![Exhibit 4: The Better Than Caspian (BTC) Pipeline](../../../charts/poten/2005/poten_2005-05-27_the-better-than-caspian-btc-pipeline_chart4.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2005/poten_2005-05-27_the-better-than-caspian-btc-pipeline_chart4.png)
+> **Interactive Asset:** [Local Asset (200 DPI PNG)](../../../charts/poten/2005/poten_2005-05-27_the-better-than-caspian-btc-pipeline_chart4.png)

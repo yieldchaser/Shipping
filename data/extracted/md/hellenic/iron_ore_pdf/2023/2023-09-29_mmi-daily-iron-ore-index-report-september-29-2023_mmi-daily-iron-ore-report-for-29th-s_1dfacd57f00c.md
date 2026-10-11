@@ -165,6 +165,8 @@ _No 58% Fe brand assessments reported for this session._
 | **SGX** | **Oct. 23** | USD/DMT | 119.20 | +3.80 | +3.29% | 3.20 | 34.24 | 118.45 | 120.95 |
 
 ## Dry Bulk Freight Rates Historical Line Data (USD/MT)
+> **Approximate.** The report prints no numbers for this chart. Values were read visually from the chart image by the parser and are rough estimates.
+
 | Date | C5 W. Australia - Qingdao (USD/MT) | C3 Tubarao - Qingdao (USD/MT) |
 | :--- | :--- | :--- |
 | 4-Jan-21 | 15.00 | 18.00 |
@@ -200,6 +202,8 @@ _No 58% Fe brand assessments reported for this session._
 | 4-Sep-23 | 2.00 | 2.00 |
 
 ## Total China Iron Ore Import Volumes (Million Tonnes)
+> **Approximate.** The report prints no numbers for this chart. Values were read visually from the chart image by the parser and are rough estimates.
+
 | Month / Period | Import Volume (Million Tonnes) |
 | :--- | :--- |
 | Aug-22 | 97.00 |

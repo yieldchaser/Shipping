@@ -38,10 +38,10 @@ Some of China’s export growth has been at the expense of other suppliers.
 
 The 38% yearly import jump is causing Indian steel mills concern, given**protectionist measures in Brazil, Chile and the US against Chinese steel**this year.
 
-![Market Chart 1](assets/2024-06-21_the-big-picture-global-steel-trades-and-chinas-steel-sector_img_image0_139b029ebddd.png)
+![Market Chart 1](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-06-21_the-big-picture-global-steel-trades-and-chinas-steel-sector_img_image0_139b029ebddd.png)
 
 > **Figure 1: Market Chart 1**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-06-21_the-big-picture-global-steel-trades-and-chinas-steel-sector_img_image0_139b029ebddd.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-06-21_the-big-picture-global-steel-trades-and-chinas-steel-sector_img_image0_139b029ebddd.png)
 
 For the 1H 2024 Braemar anticipates that, while China’s steel exports are on track for at least 53m tonnes (more than 20% higher YoY), combined exports from 12 other leading suppliers will be around 72-74m tonnes (minus intra-EU trades), resulting in more modest, yet positive, growth in the region of 3%.
 
@@ -57,10 +57,10 @@ Currently in its “transitional phase”, the CBAM will apply to iron and steel
 
 Both hot rolled coil (HRC) and rebar steel prices close to the lows of the last three years, there appears to have been little boost from the Q2 construction season. May was a comparatively strong month for crude steel output though.
 
-![Market Chart 2](assets/2024-06-21_the-big-picture-global-steel-trades-and-chinas-steel-sector_img_image1_1aa1659d4b65.png)
+![Market Chart 2](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-06-21_the-big-picture-global-steel-trades-and-chinas-steel-sector_img_image1_1aa1659d4b65.png)
 
 > **Figure 2: Market Chart 2**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-06-21_the-big-picture-global-steel-trades-and-chinas-steel-sector_img_image1_1aa1659d4b65.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-06-21_the-big-picture-global-steel-trades-and-chinas-steel-sector_img_image1_1aa1659d4b65.png)
 
 Some**production controls could keep the second half of 2024 in line with recent seasonal patterns**.
 
@@ -72,10 +72,10 @@ Moreover, it has been rumoured in industry media that 15-17m tonnes of cuts are 
 
 The threat to ship demand from less iron ore demand could be compounded by**port stockbuild**. SteelHome data put national iron ore port inventory above 146m tonnes on 14 June, marking a two-year high and a.
 
-![Sizable Net Gain of 40m Tonnes in the Past Eight Months](assets/2024-06-21_the-big-picture-global-steel-trades-and-chinas-steel-sector_img_image2_545e387b06f2.png)
+![Sizable Net Gain of 40m Tonnes in the Past Eight Months](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-06-21_the-big-picture-global-steel-trades-and-chinas-steel-sector_img_image2_545e387b06f2.png)
 
 > **Figure 3: Sizable Net Gain of 40m Tonnes in the Past Eight Months**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-06-21_the-big-picture-global-steel-trades-and-chinas-steel-sector_img_image2_545e387b06f2.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-06-21_the-big-picture-global-steel-trades-and-chinas-steel-sector_img_image2_545e387b06f2.png)
 
 Despite some apparent negatives,**three steel-related Chinese trades have performed well in 2023-24**: (1) steel exports, (2) iron ore imports and (3) coking coal imports.
 

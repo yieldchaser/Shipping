@@ -54,9 +54,9 @@ After giving up considerable ground from the high recorded during the second qua
 
 Chinese soybean imports are likely to rise in the coming months, as the volumes of forward-looking cargo orders have been trending higher recently. With almost all of January accounted for, the aggregate volumes for the month are well above what has been recorded during the same month in recent years. While Chinese cargo orders for soybeans loading in the US remain unseasonally robust, much of the recent surge is due to an increase in orders for cargoes loading on South America’s east coast.
 
-![Market Chart 1](assets/2023-02-01_shipfix-global-market-update-pkjq0_img_unnamed-2023-02-01t130045262_e176b44f504d.png)
+![Market Chart 1](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-02-01_shipfix-global-market-update-pkjq0_img_unnamed-2023-02-01t130045262_e176b44f504d.png)
 
 > **Figure 1: Market Chart 1**  
-> **Interactive Data & Source:** [Shipfix](https://shipfix.com/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-02-01_shipfix-global-market-update-pkjq0_img_unnamed-2023-02-01t130045262_e176b44f504d.png)
+> **Interactive Data & Source:** [Shipfix](https://shipfix.com/) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-02-01_shipfix-global-market-update-pkjq0_img_unnamed-2023-02-01t130045262_e176b44f504d.png)
 
 Data Source:[Shipfix](https://shipfix.com/)

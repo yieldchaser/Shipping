@@ -18,13 +18,14 @@ charts_count: 2
 
 After the Russian invasion of Ukraine, the G7 imposed sanctions on the Russian oil industry. This led to significant trade disruptions as Europe stopped importing Russian crude and products and the regime in the Kremlin was forced to find alternative clients for their oil. Infrastructure limitations at Russia's export terminals, where VLCCs cannot load, have historically favored Aframaxes and (to a lesser extent) Suezmaxes. Needless to say, Aframaxes greatly benefitted from the need to transport Russian crude over much longer distances, increasingly to customers in India and China. Despite this period of above average prosperity, tanker owners remained sanguine about new orders. In 2022 and 2023, only 11 and 9 Aframaxes were ordered respectively, a modest number given the size and the relatively advanced age of the fleet. The Aframax fleet has an average age of 13.8 years, while almost half the fleet is 16 years old or older.
 
-One of the reasons for the reluctance to order new dirty Aframaxes could have been the availability of a large pool of clean (coated) Aframaxes that could possibly switch to the dirty trades if the economics made sense. Based on data from Vortexa (see [Chart 1](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2024/poten_2024-02-02_do-you-want-coatings-with-that_chart1.png)), the share of LR2s employed in the crude and/or dirty trades was relatively steady at between 50 and 55% in 2022 and the first half of 2023. However, since May 2023, this share started to decline with more vessels switching from clean to dirty. As of today, only some 45% is employed the clean trades, a significant drop. A quick look at the clean versus dirty Aframax freight rates shows a possible explanation. Since March of 2023, rates for dirty Aframaxes have outperformed those for clean vessels, sometimes by a significant margin. This was not the case for most of 2022.
+One of the reasons for the reluctance to order new dirty Aframaxes could have been the availability of a large pool of clean (coated) Aframaxes that could possibly switch to the dirty trades if the economics made sense. Based on data from Vortexa (see [Chart 1](../../../charts/poten/2024/poten_2024-02-02_do-you-want-coatings-with-that_chart1.png)), the share of LR2s employed in the crude and/or dirty trades was relatively steady at between 50 and 55% in 2022 and the first half of 2023. However, since May 2023, this share started to decline with more vessels switching from clean to dirty. As of today, only some 45% is employed the clean trades, a significant drop. A quick look at the clean versus dirty Aframax freight rates shows a possible explanation. Since March of 2023, rates for dirty Aframaxes have outperformed those for clean vessels, sometimes by a significant margin. This was not the case for most of 2022.
 
-> **Exhibit 1: Do You Want Coatings With That (Chart 1)**  
-> *Source: Poten & Partners*  
-> **Interactive Data & Source:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2024/poten_2024-02-02_do-you-want-coatings-with-that_chart1.png)
+> **Exhibit 1: LR2 Tankers Trading Cargo**  
+> Unit: Ships | % · X-axis: Jan-22 to Feb-24  
+> Series: Clean, Crude, Dirty, Clean %  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2024/poten_2024-02-02_do-you-want-coatings-with-that_chart1.png)
 
-![Exhibit 1: Do You Want Coatings With That](../../../charts/poten/2024/poten_2024-02-02_do-you-want-coatings-with-that_chart1.png)
+![Exhibit 1: LR2 Tankers Trading Cargo](../../../charts/poten/2024/poten_2024-02-02_do-you-want-coatings-with-that_chart1.png)
 
 Relative to Aframaxes, LR2s have gained popularity over the last 10-15 years as owners anticipated significant growth in long- haul product trades. There are very few LR2s built prior to 2008. Only 13 LR2s built from 1996-2007 are still around. The boom delivery periods for LR2s were 2008-2012 (the aftermath of the "Super Cycle" order boom) and 2015-2017. In 2023, we witnessed another LR2 order boom. No less than 75 LR2s were contracted last year (compared to only a handful of Aframaxes). Trading flexibility is one of the key reasons for this discrepancy. The uncertainty around long-term oil demand, shifting trading patterns and the expectation that demand for long-haul product flows will increase are all contributing factors.
 
@@ -34,6 +35,10 @@ It will be interesting to see if some of the LR2s that switched to move dirty pr
 
 ## Market Exhibits & Charts
 
-![Exhibit 2: Do You Want Coatings With That](../../../charts/poten/2024/poten_2024-02-02_do-you-want-coatings-with-that_chart2.png)
+![Exhibit 2: Clean Vs Dirty Aframax Freight Rates](../../../charts/poten/2024/poten_2024-02-02_do-you-want-coatings-with-that_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2024/poten_2024-02-02_do-you-want-coatings-with-that_chart2.png)
+> **Exhibit 2: Clean Vs Dirty Aframax Freight Rates**  
+> Unit: TCE · X-axis: Jan-22 to Jan-24  
+> Series: Clean (AG-Jpn), Dirty (Avg 3 Routes)  
+> *Source: Vortexa/Poten*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2024/poten_2024-02-02_do-you-want-coatings-with-that_chart2.png)

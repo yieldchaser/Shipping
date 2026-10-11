@@ -82,6 +82,14 @@ The logical way to supplement any shortcomings in domestic supplies is through i
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: Start Your Engines](../../../charts/poten/2008/poten_2008-05-23_start-your-engines_chart1.png)
+> **Chart on PDF page 1: Light Products vs. Crude Oil**  
+> Unit: $/gallon · X-axis: May-07 to May-08  
+> Series: WTI, 87 Oct Gasoline, 93 Oct Gasoline, Diesel  
+> *Source: Poten & Partners*  
+> *No image crop of this chart was saved; caption read from the PDF.*
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2008/poten_2008-05-23_start-your-engines_chart1.png)
+> **Chart on PDF page 2: Gasoline and Diesel Stocks**  
+> Unit: Thousand barrels · X-axis: Jan-08 to May-08  
+> Series: Gasoline Stocks, Distillate Stocks  
+> *Source: EIA/Poten*  
+> *No image crop of this chart was saved; caption read from the PDF.*

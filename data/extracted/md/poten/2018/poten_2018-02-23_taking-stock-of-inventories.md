@@ -26,10 +26,18 @@ The combination of these changes in the U.S. oil markets, i.e. higher production
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: Taking Stock of Inventories](../../../charts/poten/2018/poten_2018-02-23_taking-stock-of-inventories_chart1.png)
+![Exhibit 1: Weekly Crude Oil Balance](../../../charts/poten/2018/poten_2018-02-23_taking-stock-of-inventories_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2018/poten_2018-02-23_taking-stock-of-inventories_chart1.png)
+> **Exhibit 1: Weekly Crude Oil Balance**  
+> Unit: Kb/d | Inventory in Kb/d · X-axis: 1/6/2017 to 2/2/2018  
+> Series: Production, Imports, Refinery Input, Exports, Change in Inventory  
+> *Source: EIA*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2018/poten_2018-02-23_taking-stock-of-inventories_chart1.png)
 
-![Exhibit 2: Taking Stock of Inventories](../../../charts/poten/2018/poten_2018-02-23_taking-stock-of-inventories_chart2.png)
+![Exhibit 2: Strategic Petroleum Reserve inventories and planned sales (2017-2028)](../../../charts/poten/2018/poten_2018-02-23_taking-stock-of-inventories_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2018/poten_2018-02-23_taking-stock-of-inventories_chart2.png)
+> **Exhibit 2: Strategic Petroleum Reserve inventories and planned sales (2017-2028)**  
+> Unit: million barrels (at start of year) | million barrels · X-axis: 2017 to 2027  
+> Series: 21st Century Cures Act, Bipartisan Budget Act of 2015 Section 404, Section 403, Fixing America's Surface Transportation Act, Bipartisan Budget Act of 2018, Tax Cuts and Jobs Act  
+> *Source: U.S. Energy Information Administration, based on Strategic Petroleum Reserve*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2018/poten_2018-02-23_taking-stock-of-inventories_chart2.png)

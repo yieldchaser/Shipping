@@ -76,7 +76,7 @@ Because as the world fragments and cooperation is rendered more difficult betwee
 
 The Trump-Biden election is but a small episode in a very large turn of history: the end of the short-lived unipolar world and America’s response to that. Ultimately the election will not matter as much as we may think. What will matter is the course the world’s superpower will decide to take. Investors may well park their Modern Portfolio Theory, and pick up some history books.
 
-![American Imperium](assets/2024-01-29_american-imperium_img_americanimperium_c40109d26819.jpg)
+![American Imperium](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-01-29_american-imperium_img_americanimperium_c40109d26819.jpg)
 
 > **Figure 1: American Imperium**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-01-29_american-imperium_img_americanimperium_c40109d26819.jpg)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-01-29_american-imperium_img_americanimperium_c40109d26819.jpg)

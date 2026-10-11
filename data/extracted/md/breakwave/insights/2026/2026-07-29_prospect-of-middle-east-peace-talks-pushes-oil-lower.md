@@ -22,10 +22,10 @@ source_file: "corpus/03-breakwave/insights/2026/2026-07-29_prospect-of-middle-ea
 
 The prospect of peace talks in the Middle East pushed the energy sector lower. The rest of the complex also fell amid subdued risk appetite from investors.
 
-![Στιγμιότυπο Οθόνης 2026 07 29 102916](assets/2026-07-29_prospect-of-middle-east-peace-talks-pushes-oil-lower_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_dd23cb02c196.png)
+![Στιγμιότυπο Οθόνης 2026 07 29 102916](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-07-29_prospect-of-middle-east-peace-talks-pushes-oil-lower_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_dd23cb02c196.png)
 
 > **Figure 1: Στιγμιότυπο Οθόνης 2026 07 29 102916**  
-> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-07-29_prospect-of-middle-east-peace-talks-pushes-oil-lower_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_dd23cb02c196.png)
+> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-07-29_prospect-of-middle-east-peace-talks-pushes-oil-lower_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_dd23cb02c196.png)
 
 ### Market Commentary
 
@@ -41,10 +41,10 @@ The prospect of peace talks in the Middle East pushed the energy sector lower. T
 
 India is not a major iron ore exporter. It accounts for only about 2% of imports into China. In 2025, that amounted to only 5mt, well down on 10-12mt per year being achieved in recent years. However, the country makes up a far larger slice of the low-grade ore used by Chinese mills to reduce costs. Excluding pellets, about 90% of low-grade ore shipments from Odisha are bound for China.
 
-![Στιγμιότυπο Οθόνης 2026 07 29 103016](assets/2026-07-29_prospect-of-middle-east-peace-talks-pushes-oil-lower_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_0191f74b21e1.png)
+![Στιγμιότυπο Οθόνης 2026 07 29 103016](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-07-29_prospect-of-middle-east-peace-talks-pushes-oil-lower_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_0191f74b21e1.png)
 
 > **Figure 2: Στιγμιότυπο Οθόνης 2026 07 29 103016**  
-> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-07-29_prospect-of-middle-east-peace-talks-pushes-oil-lower_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_0191f74b21e1.png)
+> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-07-29_prospect-of-middle-east-peace-talks-pushes-oil-lower_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_0191f74b21e1.png)
 
 Data source:[Commodities Wrap](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI)
 

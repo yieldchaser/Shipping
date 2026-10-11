@@ -20,11 +20,11 @@ source_file: "corpus/03-breakwave/insights/2026/2026-02-10_tanker-newbuilding-ac
 
 ---
 
-![Byeirini Diamantara&dimitris Roumeliotis](assets/2026-02-10_tanker-newbuilding-activity_img_unsplash-image-9tv1nhucxpm28129_c38d45363d85.jpg)
+![Byeirini Diamantara&dimitris Roumeliotis](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-02-10_tanker-newbuilding-activity_img_unsplash-image-9tv1nhucxpm28129_c38d45363d85.jpg)
 
 > **Figure 1: Byeirini Diamantara&dimitris Roumeliotis**  
 > *ByEirini Diamantara&Dimitris Roumeliotis*  
-> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/in/eirini-diamantara-58b269105/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-02-10_tanker-newbuilding-activity_img_unsplash-image-9tv1nhucxpm28129_c38d45363d85.jpg)
+> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/in/eirini-diamantara-58b269105/) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-02-10_tanker-newbuilding-activity_img_unsplash-image-9tv1nhucxpm28129_c38d45363d85.jpg)
 
 The renewed acceleration in tanker newbuilding activity has once again brought the question of oversupply to the forefront of market discussions, particularly as deliveries are set to rise sharply over the next two years. In 2026 and 2027 alone, around 342 and 368 tankers respectively are expected to be added to the active tanker fleet, marking the highest annual additions since 2009, when 406 vessels entered service at the peak of the last major supply cycle. At first glance, these figures inevitably raise concerns that the market may be heading towards another period of excessive fleet growth. However, a closer examination of delivery patterns, fleet age profiles and segment-specific dynamics suggests that the risk is more nuanced than the headline numbers imply.
 

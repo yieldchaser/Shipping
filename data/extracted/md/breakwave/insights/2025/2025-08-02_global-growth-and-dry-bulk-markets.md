@@ -36,10 +36,10 @@ Advanced economies are expected to grow by 1.5 and 1.6 percent in 2025 and 2026 
 
 For dry bulk markets, the thirty-first trading week offered little in the way of clear direction. The spot market appeared to pause – not necessarily to absorb the IMF’s updated outlook, but more directly in response to signals out of China. The much-anticipated July Politburo meeting, which was expected to set the economic tone for H2 2025, failed to deliver any major new stimulus for the beleaguered property sector. This lack of policy momentum weighed on sentiment across commodity markets. As a result, the Baltic Dry Index slipped for the second consecutive week, closing at 2,018 points – down roughly 10 percent week-on-week. The Capesize segment bore the brunt of the decline. Looking ahead, while the IMF’s slightly more optimistic revisions may offer some macro-level encouragement, the dry bulk market continues to trade on near-term fundamentals, with Chinese policy direction and seasonal demand patterns playing a far greater role in shaping the immediate outlook.
 
-![Screenshot 2025 08 02 10.15.26](assets/2025-08-02_global-growth-and-dry-bulk-markets_img_screenshot2025-08-02101526_a3e5df089f12.png)
+![Screenshot 2025 08 02 10.15.26](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-08-02_global-growth-and-dry-bulk-markets_img_screenshot2025-08-02101526_a3e5df089f12.png)
 
 > **Figure 1: Screenshot 2025 08 02 10.15.26**  
-> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-08-02_global-growth-and-dry-bulk-markets_img_screenshot2025-08-02101526_a3e5df089f12.png)
+> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-08-02_global-growth-and-dry-bulk-markets_img_screenshot2025-08-02101526_a3e5df089f12.png)
 
 Data source:[Doric](https://www.doric.gr/)
 

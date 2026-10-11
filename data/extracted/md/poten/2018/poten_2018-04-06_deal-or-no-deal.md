@@ -32,10 +32,18 @@ Given the above, U.S. sanctions would likely reduce Iranian exports by a maximum
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: Deal Or No Deal](../../../charts/poten/2018/poten_2018-04-06_deal-or-no-deal_chart1.png)
+![Exhibit 1: Iranian Crude Oil Production](../../../charts/poten/2018/poten_2018-04-06_deal-or-no-deal_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2018/poten_2018-04-06_deal-or-no-deal_chart1.png)
+> **Exhibit 1: Iranian Crude Oil Production**  
+> Unit: Mb/d · X-axis: Jan-15 to Jan-18  
+> Series: Iranian Crude Oil Production  
+> *Source: IEA*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2018/poten_2018-04-06_deal-or-no-deal_chart1.png)
 
-![Exhibit 2: Deal Or No Deal](../../../charts/poten/2018/poten_2018-04-06_deal-or-no-deal_chart2.png)
+![Exhibit 2: Seaborne Iranian Crude Oil Exports](../../../charts/poten/2018/poten_2018-04-06_deal-or-no-deal_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2018/poten_2018-04-06_deal-or-no-deal_chart2.png)
+> **Exhibit 2: Seaborne Iranian Crude Oil Exports**  
+> Unit: Kb/d · X-axis: Jan-14 to Jan-18  
+> Series: China, India, Japan, Korea, NW Europe, Med, Other  
+> *Source: Lloyd’s List Intelligence*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2018/poten_2018-04-06_deal-or-no-deal_chart2.png)

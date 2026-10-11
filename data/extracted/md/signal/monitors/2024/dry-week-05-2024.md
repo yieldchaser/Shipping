@@ -28,10 +28,10 @@ tags:
 ## The Downward Revision in the Growth of Capesize Tonne Days in January with the BCI Dropping
 
 
-![65bb6a74b77d68ddcbf91216 Dry](../../images/65bb6a74b77d68ddcbf91216_dry.png)
+![65bb6a74b77d68ddcbf91216 Dry](../../../../../../corpus/07-signal/images/65bb6a74b77d68ddcbf91216_dry.png)
 
 > **Figure 1: 65bb6a74b77d68ddcbf91216 Dry**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/dry-week-05-2024) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/65bb6a74b77d68ddcbf91216_dry.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/dry-week-05-2024) | [Local Asset](../../../../../../corpus/07-signal/images/65bb6a74b77d68ddcbf91216_dry.png)
 
 In the last week of January, the dry freight market sustained weakness in the Capesize segment, while the number of ballasters in the Southeast (SE) continued to grow amid declining demand. As depicted in the accompanying image, the growth outlook for Capesize tonne days in January has been adjusted downward, coinciding with a notable decline in the Baltic Capesize Index (BCI).
 

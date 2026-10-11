@@ -30,10 +30,10 @@ Crude stock builds in China’s onshore tanks accelerated significantly through 
 
 As of May 4, China’s majors-owned crude tank utilisation rate stood at 62%, suggesting ample capacity remains for further stockpiling. With seasonal refinery maintenance ongoing and strategic restocking underway, inventory builds are expected to continue into Q3. The recent Saudi-led OPEC+ agreement to increase output in June—following sharp OSP cuts for Asian buyers in May—along with mounting oversupply in the Atlantic Basin, may further incentivise Chinese purchases for mainstream barrels.
 
-![Στιγμιότυπο Οθόνης 2025 05 08 103632](assets/2025-05-08_market-volatility-drives-chinas-crude-stockpiling_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_32d9be89a57f.png)
+![Στιγμιότυπο Οθόνης 2025 05 08 103632](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-05-08_market-volatility-drives-chinas-crude-stockpiling_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_32d9be89a57f.png)
 
 > **Figure 1: Στιγμιότυπο Οθόνης 2025 05 08 103632**  
-> **Interactive Data & Source:** [Vortexa](https://www.vortexa.com//oil-gas-data-traders-analysts-data-scientists?gclid=Cj0KCQjw8_qRBhCXARIsAE2AtRZKOvMnbilZ_6_91d7huSFFy71pWLrnPwGwOHVzXsmsG-1a1mZnQw8aAt89EALw_wcB&hsa_acc=1782073842&hsa_ad=548425387665&hsa_cam=14746637662&hsa_grp=125038601902&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_src=g&hsa_tgt=dsa-1431852288425&hsa_ver=3&utm_campaign=%5BCD%5D%20-%20DSA%20-%20EMEA&utm_medium=cpc&utm_medium=ppc&utm_source=google&utm_source=adwords&utm_term=) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-05-08_market-volatility-drives-chinas-crude-stockpiling_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_32d9be89a57f.png)
+> **Interactive Data & Source:** [Vortexa](https://www.vortexa.com//oil-gas-data-traders-analysts-data-scientists?gclid=Cj0KCQjw8_qRBhCXARIsAE2AtRZKOvMnbilZ_6_91d7huSFFy71pWLrnPwGwOHVzXsmsG-1a1mZnQw8aAt89EALw_wcB&hsa_acc=1782073842&hsa_ad=548425387665&hsa_cam=14746637662&hsa_grp=125038601902&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_src=g&hsa_tgt=dsa-1431852288425&hsa_ver=3&utm_campaign=%5BCD%5D%20-%20DSA%20-%20EMEA&utm_medium=cpc&utm_medium=ppc&utm_source=google&utm_source=adwords&utm_term=) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-05-08_market-volatility-drives-chinas-crude-stockpiling_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_32d9be89a57f.png)
 
 ## Tanker Sanctions Push Record Russian Arctic Crude Into China
 
@@ -45,10 +45,10 @@ Unable to access regular markets, these Arctic cargoes have been rerouted to Chi
 
 Meanwhile, China’s demand for Russian Far East light grades—notably Sokol and Sakhalin Blend—remained strong, with April imports exceeding 220kbd. These grades continue to attract smaller refiners due to their favourable distillate yield and proximity.
 
-![Στιγμιότυπο Οθόνης 2025 05 08 103727](assets/2025-05-08_market-volatility-drives-chinas-crude-stockpiling_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_58ad1e3961d9.png)
+![Στιγμιότυπο Οθόνης 2025 05 08 103727](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-05-08_market-volatility-drives-chinas-crude-stockpiling_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_58ad1e3961d9.png)
 
 > **Figure 2: Στιγμιότυπο Οθόνης 2025 05 08 103727**  
-> **Interactive Data & Source:** [Vortexa](https://www.vortexa.com//oil-gas-data-traders-analysts-data-scientists?gclid=Cj0KCQjw8_qRBhCXARIsAE2AtRZKOvMnbilZ_6_91d7huSFFy71pWLrnPwGwOHVzXsmsG-1a1mZnQw8aAt89EALw_wcB&hsa_acc=1782073842&hsa_ad=548425387665&hsa_cam=14746637662&hsa_grp=125038601902&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_src=g&hsa_tgt=dsa-1431852288425&hsa_ver=3&utm_campaign=%5BCD%5D%20-%20DSA%20-%20EMEA&utm_medium=cpc&utm_medium=ppc&utm_source=google&utm_source=adwords&utm_term=) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-05-08_market-volatility-drives-chinas-crude-stockpiling_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_58ad1e3961d9.png)
+> **Interactive Data & Source:** [Vortexa](https://www.vortexa.com//oil-gas-data-traders-analysts-data-scientists?gclid=Cj0KCQjw8_qRBhCXARIsAE2AtRZKOvMnbilZ_6_91d7huSFFy71pWLrnPwGwOHVzXsmsG-1a1mZnQw8aAt89EALw_wcB&hsa_acc=1782073842&hsa_ad=548425387665&hsa_cam=14746637662&hsa_grp=125038601902&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_src=g&hsa_tgt=dsa-1431852288425&hsa_ver=3&utm_campaign=%5BCD%5D%20-%20DSA%20-%20EMEA&utm_medium=cpc&utm_medium=ppc&utm_source=google&utm_source=adwords&utm_term=) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-05-08_market-volatility-drives-chinas-crude-stockpiling_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_58ad1e3961d9.png)
 
 By contrast, imports of Russian flagship ESPO Blend and Urals crude slid to multi-year lows, constrained by pricing pressures tied to elevated freight costs for direct shipments on non-sanctioned tankers—undermining their appeal relative to other discounted alternatives.
 

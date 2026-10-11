@@ -30,10 +30,18 @@ If the OPEC cuts are implemented fully, it is likely that Saudi production will 
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: OPEC Cuts A Deal](../../../charts/poten/2016/poten_2016-09-30_opec-cuts-a-deal_chart1.png)
+![Exhibit 1: OPEC Crude Oil Production](../../../charts/poten/2016/poten_2016-09-30_opec-cuts-a-deal_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2016/poten_2016-09-30_opec-cuts-a-deal_chart1.png)
+> **Exhibit 1: OPEC Crude Oil Production**  
+> Unit: Kb/d · X-axis: 1997 to 2016  
+> Series: OPEC Crude Oil Production  
+> *Source: Bloomberg*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2016/poten_2016-09-30_opec-cuts-a-deal_chart1.png)
 
-![Exhibit 2: OPEC Cuts A Deal](../../../charts/poten/2016/poten_2016-09-30_opec-cuts-a-deal_chart2.png)
+![Exhibit 2: OPEC Countries with Growth Potential (exempt from production cuts)](../../../charts/poten/2016/poten_2016-09-30_opec-cuts-a-deal_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2016/poten_2016-09-30_opec-cuts-a-deal_chart2.png)
+> **Exhibit 2: OPEC Countries with Growth Potential (exempt from production cuts)**  
+> Unit: Kb/d · X-axis: Jan-05 to Jul-16  
+> Series: Nigeria, Iran, Libya  
+> *Source: Bloomberg*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2016/poten_2016-09-30_opec-cuts-a-deal_chart2.png)

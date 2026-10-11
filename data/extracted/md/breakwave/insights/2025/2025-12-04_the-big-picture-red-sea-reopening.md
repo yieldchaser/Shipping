@@ -32,10 +32,10 @@ The Houthis announced their intention to halt their attacks last month. Laden ta
 
 The volume of oil moved through the Suez Canal has jumped 46% since January and is now (basis flows discharging in November) just 17% shy of its 2019 average. Dirty oil (crude + fuel oil) moving through the Canal is already back to 2019 levels thanks to high Russian exports in recent months. But it remains well below peak flows seen in H1 2023 while Europe barred Russian oil and the Red Sea granted safe passage. Clean volumes are still some 30% off their 2019 levels, and well below 2023 levels as Russia’s war with Ukraine lifted flows between the Atlantic and the refiners and consumers East of Suez.
 
-![Market Chart 1](assets/2025-12-04_the-big-picture-red-sea-reopening_img_image001_8061a95a3355.png)
+![Market Chart 1](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-12-04_the-big-picture-red-sea-reopening_img_image001_8061a95a3355.png)
 
 > **Figure 1: Market Chart 1**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-12-04_the-big-picture-red-sea-reopening_img_image001_8061a95a3355.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-12-04_the-big-picture-red-sea-reopening_img_image001_8061a95a3355.png)
 
 A full return to 2019 levels of Canal transit and the resulting loss of long deviations via the Cape of Good Hope appears to hinge on maintaining today’s fragile ceasefire between Palestine and Israel. A return to peak 2023 levels depends on how hard the US pushes Putin on Ukraine, and how quickly Russian oil returns to Europe. Before we look at what could happen, we must understand wider changes in trade between the East and Atlantic due to the war, the Red Sea closure and other structural changes.
 
@@ -49,10 +49,10 @@ After the outbreak of the war, trade between the East and Atlantic increased by 
 
 East to Atlantic flows increased 12% when comparing 2019 to 2023. Apart from the war, this coincided with the opening of more refining capacity in the Middle East (approx. 2.1m b/d according to Platts) between 2019 and 2023, along with a 610k b/d loss in Europe’s capacity through 2022 (OECD). As these new refineries began to produce European-spec jet fuel and diesel and Europe sought a replacement for Russian diesel, the volume of middle distillates from the East to Atlantic increased by 344 k b/d (25%). This increased demand for LR2s at the expense of lost demand for Russia-origin MRs.
 
-![Market Chart 2](assets/2025-12-04_the-big-picture-red-sea-reopening_img_image002_c72373888309.png)
+![Market Chart 2](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-12-04_the-big-picture-red-sea-reopening_img_image002_c72373888309.png)
 
 > **Figure 2: Market Chart 2**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-12-04_the-big-picture-red-sea-reopening_img_image002_c72373888309.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-12-04_the-big-picture-red-sea-reopening_img_image002_c72373888309.png)
 
 Although trade between the East and the Atlantic had increased by 9% because of the Russian war, it declined 8% yoy in 2024 with the Red Sea closure, wiping out most of the gains from the new trade routes. The reroute around the Cape of Good Hope was costly. A voyage from the Middle East-to-Europe around the Cape is about 15 days longer than one through the Suez Canal, raising freight costs.
 

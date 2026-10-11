@@ -22,13 +22,15 @@ Gabon is a small country on the Atlantic coast of Central Africa. It is about 10
 
 Because of the uncertain situation after the coup, it is too early to predict whether Gabon's oil production and exports will be disrupted. The big oil majors are no longer active in Gabon. The country's largest producers include Anglo-French independent oil company Perenco, French Maurel & Prom, BW Energy from Norway, and UK based Tullow Oil. Maurel & Prom is purchasing Assala Energy in Gabon from private equity group Carlyle. While its current production makes it one of the smaller OPEC producers, 210,000 b/d can make a difference in a tight oil market, which is already impacted by production cuts from Russia and Saudi Arabia. It also reminds market participants of the geopolitical risks inherent in the oil markets.
 
-Gabon's oil is sold to a wide variety of customers. By far the largest buyer of Gabon's oil is China ([Chart 1](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2023/poten_2023-09-01_chaos-in-gabon_chart1.png)), but they also sell oil to Israel, Indonesia, the Netherlands, Italy and France. South Korea and India used to be clients, but they have not bought oil from Gabon in the last 12 months.
+Gabon's oil is sold to a wide variety of customers. By far the largest buyer of Gabon's oil is China ([Chart 1](../../../charts/poten/2023/poten_2023-09-01_chaos-in-gabon_chart1.png)), but they also sell oil to Israel, Indonesia, the Netherlands, Italy and France. South Korea and India used to be clients, but they have not bought oil from Gabon in the last 12 months.
 
-> **Exhibit 1: Chaos in Gabon (Chart 1)**  
-> *Source: Poten & Partners*  
-> **Interactive Data & Source:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2023/poten_2023-09-01_chaos-in-gabon_chart1.png)
+> **Exhibit 1: Gabon Crude Exports By Destination**  
+> Unit: Kb/d · X-axis: Jan-20 to Jul-23  
+> Series: China, Israel, Indonesia, South Korea, Netherlands, India, Australia, Italy, Other  
+> *Source: Vortexa*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2023/poten_2023-09-01_chaos-in-gabon_chart1.png)
 
-![Exhibit 1: Chaos in Gabon](../../../charts/poten/2023/poten_2023-09-01_chaos-in-gabon_chart1.png)
+![Exhibit 1: Gabon Crude Exports By Destination](../../../charts/poten/2023/poten_2023-09-01_chaos-in-gabon_chart1.png)
 
 The exporters are using several different terminals. Most crude is loaded from an onshore terminal in Port-Gentil, but the producers in Gabon also use several offshore loading terminals including SBMs, FSOs and an FPSO. Both the Cap Lopez terminal in Port Gentil as well as the offshore facilities have access to deep water, which means that exporters can use the optimal vessel class, from Aframax up to VLCCs. Exports to China in generally use VLCCs and some Suezmaxes, while Israel primarily uses Aframaxes, with the occasional Suezmax sprinkled in. Indonesia almost always imports crude from Gabon on Suezmaxes.
 
@@ -36,6 +38,10 @@ While the situation in Gabon remains extremely uncertain and it has been reporte
 
 ## Market Exhibits & Charts
 
-![Exhibit 2: Chaos in Gabon](../../../charts/poten/2023/poten_2023-09-01_chaos-in-gabon_chart2.png)
+![Exhibit 2: Gabon Crude Exports By Vessel Class](../../../charts/poten/2023/poten_2023-09-01_chaos-in-gabon_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2023/poten_2023-09-01_chaos-in-gabon_chart2.png)
+> **Exhibit 2: Gabon Crude Exports By Vessel Class**  
+> Unit: Kb/d · X-axis: Jan-20 to Jul-23  
+> Series: Suezmax, VLCC, Aframax, Other  
+> *Source: Vortexa*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2023/poten_2023-09-01_chaos-in-gabon_chart2.png)

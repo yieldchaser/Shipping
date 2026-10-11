@@ -28,11 +28,11 @@ tags:
 ## Higher Monthly Volumes of Congestion at Major Brazilian Ports and Days Waiting
 
 
-![Data Source: The Signal Ocean Platform Data](../../images/6554e44861a60ab81de1d248_Untitled.png)
+![Data Source: The Signal Ocean Platform Data](../../../../../../corpus/07-signal/images/6554e44861a60ab81de1d248_Untitled.png)
 
 > **Figure 1: Data Source: The Signal Ocean Platform Data**  
 > *Data Source: The Signal Ocean Platform Data*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/dry-week-46-2023) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6554e44861a60ab81de1d248_Untitled.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/dry-week-46-2023) | [Local Asset](../../../../../../corpus/07-signal/images/6554e44861a60ab81de1d248_Untitled.png)
 
 In the third week of November, the larger ship categories recorded greater stability in freight rates, which indicates a more solid development. In contrast, a downward trend was observed in the smaller ship sizes, particularly in the Handysize category. At the beginning of the fourth quarter, the stability of the upturn in freight rates is being called into question. The current supply and demand dynamics do not yet show promising signs of robust momentum, adding to the uncertainties in the market. Interestingly, the Panamax freight market should continue to gain momentum as congestion in Brazilian ports has reached record levels compared to a similar period two years ago.
 

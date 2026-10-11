@@ -30,10 +30,16 @@ Future developments will drive the relative strength of the VLCCs versus the Sue
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: Going Going Down](../../../charts/poten/2023/poten_2023-03-24_going-going-down_chart1.png)
+![Exhibit 1: Nigeria Crude Exports by Vessel Class](../../../charts/poten/2023/poten_2023-03-24_going-going-down_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2023/poten_2023-03-24_going-going-down_chart1.png)
+> **Exhibit 1: Nigeria Crude Exports by Vessel Class**  
+> Unit: Kb/d · X-axis: Jan-15 to Jan-23  
+> Series: VLCC, Suezmax, Aframax, Smaller  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2023/poten_2023-03-24_going-going-down_chart1.png)
 
-![Exhibit 2: Going Going Down](../../../charts/poten/2023/poten_2023-03-24_going-going-down_chart2.png)
+![Exhibit 2: Angola Crude Exports by Vessel Class](../../../charts/poten/2023/poten_2023-03-24_going-going-down_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2023/poten_2023-03-24_going-going-down_chart2.png)
+> **Exhibit 2: Angola Crude Exports by Vessel Class**  
+> Unit: Kb/d · X-axis: Jan-15 to Jan-23  
+> Series: VLCC, Suezmax, Aframax, Smaller  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2023/poten_2023-03-24_going-going-down_chart2.png)

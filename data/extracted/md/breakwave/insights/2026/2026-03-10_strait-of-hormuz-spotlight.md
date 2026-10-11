@@ -22,10 +22,10 @@ source_file: "corpus/03-breakwave/insights/2026/2026-03-10_strait-of-hormuz-spot
 
 Commercial tanker transits near zero, floating storage rising, war-risk premiums climbing.
 
-![Market Chart 1](assets/2026-03-10_strait-of-hormuz-spotlight_img_unnamed_4f9ef0724327.png)
+![Market Chart 1](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-03-10_strait-of-hormuz-spotlight_img_unnamed_4f9ef0724327.png)
 
 > **Figure 1: Market Chart 1**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://go.signalocean.com/e/983831/nker-dynamic-waypoints-tankers/2rxckh/584073833/h/S6ZxPXESRmZLUBLVXDH9FXuvOZkLCmOKBA2uV0Ur_58) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-03-10_strait-of-hormuz-spotlight_img_unnamed_4f9ef0724327.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://go.signalocean.com/e/983831/nker-dynamic-waypoints-tankers/2rxckh/584073833/h/S6ZxPXESRmZLUBLVXDH9FXuvOZkLCmOKBA2uV0Ur_58) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-03-10_strait-of-hormuz-spotlight_img_unnamed_4f9ef0724327.png)
 
 ### Strait of Hormuz Disruption
 
@@ -67,10 +67,10 @@ If the slowdown begins to affect supply flows, maritime security operations in t
 
 Policy discussions have already begun around naval escort missions and temporary insurance backstops designed to restore confidence among shipowners. In practical terms, this could allow tanker movements to resume gradually, although under conditions where maritime security plays a more visible role in supporting the continuity of trade routes.
 
-![Market Chart 2](assets/2026-03-10_strait-of-hormuz-spotlight_img_unnamed28129_f38dba846a57.png)
+![Market Chart 2](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-03-10_strait-of-hormuz-spotlight_img_unnamed28129_f38dba846a57.png)
 
 > **Figure 2: Market Chart 2**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://go.signalocean.com/e/983831/nker-dynamic-waypoints-tankers/2rxckh/584073833/h/S6ZxPXESRmZLUBLVXDH9FXuvOZkLCmOKBA2uV0Ur_58) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-03-10_strait-of-hormuz-spotlight_img_unnamed28129_f38dba846a57.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://go.signalocean.com/e/983831/nker-dynamic-waypoints-tankers/2rxckh/584073833/h/S6ZxPXESRmZLUBLVXDH9FXuvOZkLCmOKBA2uV0Ur_58) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-03-10_strait-of-hormuz-spotlight_img_unnamed28129_f38dba846a57.png)
 
 ### Scenario 4: Market Shock and Temporary Pricing Power
 
@@ -92,10 +92,10 @@ During maritime disruptions, it is common to see quiet coordination among export
 
 As the largest buyer of Gulf crude, China has a strong interest in preventing prolonged disruption. Rather than deploying military power in the region, Beijing is more likely to act through diplomacy and economic engagement — discussions with producers, consultations with importers such as India, or mediation efforts aimed at keeping energy flows stable. So far, the evidence points to diplomatic influence rather than a formal coalition.
 
-![Market Chart 3](assets/2026-03-10_strait-of-hormuz-spotlight_img_unnamed28229_51578c911c33.png)
+![Market Chart 3](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-03-10_strait-of-hormuz-spotlight_img_unnamed28229_51578c911c33.png)
 
 > **Figure 3: Market Chart 3**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://go.signalocean.com/e/983831/nker-dynamic-waypoints-tankers/2rxckh/584073833/h/S6ZxPXESRmZLUBLVXDH9FXuvOZkLCmOKBA2uV0Ur_58) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-03-10_strait-of-hormuz-spotlight_img_unnamed28229_51578c911c33.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://go.signalocean.com/e/983831/nker-dynamic-waypoints-tankers/2rxckh/584073833/h/S6ZxPXESRmZLUBLVXDH9FXuvOZkLCmOKBA2uV0Ur_58) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-03-10_strait-of-hormuz-spotlight_img_unnamed28229_51578c911c33.png)
 
 ### Scenario 7: Expansion of the Maritime Crisis
 

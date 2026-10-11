@@ -31,10 +31,10 @@ tags:
 **Signal Ocean** voyage data confirms a sustained ramp in seaborne crude liftings from Venezuela through 2026. On a **7-day** moving-average basis, monthly volumes have risen in unbroken succession from approximately 0.62m bbl in January to roughly 1.5m bbl by mid-June, six consecutive month-on-month gains and an increase of about 144% over the period. The series peaked above 2.0m bbl in early May, and the year-to-date average (~1.10m bbl) runs at roughly double the 2024 and 2025 full-year levels.
 
 
-![‍spotlight of the Week| Venezuelan Crude Oil Flows‍](../../images/6a3aad779ecdbb816cf27b57_4effdf91.jpeg)
+![‍spotlight of the Week| Venezuelan Crude Oil Flows‍](../../../../../../corpus/07-signal/images/6a3aad779ecdbb816cf27b57_4effdf91.jpeg)
 
 > **Figure 1: ‍spotlight of the Week| Venezuelan Crude Oil Flows‍**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-tanker-market-monitor-week-25-2026) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6a3aad779ecdbb816cf27b57_4effdf91.jpeg)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-tanker-market-monitor-week-25-2026) | [Local Asset](../../../../../../corpus/07-signal/images/6a3aad779ecdbb816cf27b57_4effdf91.jpeg)
 
 The recovery began in January–February, following the reinstatement of several US licenses for Venezuela-related energy activities. Momentum strengthened further after June 10, 2026, when the US Treasury (OFAC) eased additional general licenses covering oil, gas, and mineral extraction, effectively extending and broadening the scope of existing authorizations. Cargoes are being marketed by Vitol and Trafigura, while SLB has signed a long-term framework agreement with PDVSA to support modernization and production growth, highlighting the gradual re-engagement of mainstream international counterparties in the Venezuelan energy sector.
 
@@ -46,21 +46,21 @@ The views below are taken directly from the Signal Ocean platform's [*Oil Flows*
 **Historical comparison — Venezuela crude liftings, 2026 vs prior years**
 
 
-![7-Day Moving Average of Barrels](../../images/6a3aad779ecdbb816cf27b4e_0abaf19d.png)
+![7-Day Moving Average of Barrels](../../../../../../corpus/07-signal/images/6a3aad779ecdbb816cf27b4e_0abaf19d.png)
 
 > **Figure 2: 7-Day Moving Average of Barrels**  
 > *7-day moving average of barrels. The 2026 line (blue) runs clear of 2023–2025 throughout the year to date.(Oil Flows Trend Analysis)*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-tanker-market-monitor-week-25-2026) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6a3aad779ecdbb816cf27b4e_0abaf19d.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-tanker-market-monitor-week-25-2026) | [Local Asset](../../../../../../corpus/07-signal/images/6a3aad779ecdbb816cf27b4e_0abaf19d.png)
 
 
 ## 2026 Focus — Destinations, Vessel Classes, and Cargo Mix
 
 
-![2026 to Date: Destination Countries, Vessel-Class Split, and Cargo Types (Signal Ocean).](../../images/6a3aad779ecdbb816cf27b4b_7df11467.png)
+![2026 to Date: Destination Countries, Vessel-Class Split, and Cargo Types (Signal Ocean).](../../../../../../corpus/07-signal/images/6a3aad779ecdbb816cf27b4b_7df11467.png)
 
 > **Figure 3: 2026 to Date: Destination Countries, Vessel-Class Split, and Cargo Types (Signal Ocean).**  
 > *2026 to date: destination countries, vessel-class split, and cargo types (Signal Ocean).*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-tanker-market-monitor-week-25-2026) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6a3aad779ecdbb816cf27b4b_7df11467.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-tanker-market-monitor-week-25-2026) | [Local Asset](../../../../../../corpus/07-signal/images/6a3aad779ecdbb816cf27b4b_7df11467.png)
 
 The platform detail reinforces three points. Destinations: the United States leads at 44.7% of 2026 flows, followed by India at 17.8% and the Bahamas at 10.5%. Vessel classes: Aframax holds the largest share at 38%, ahead of VLCC at 32% and Suezmax at 24%, reflecting the Caribbean short-haul and intermediate-haul nature of much of the trade. Cargo mix: crude dominates at 92% of liftings, with fuel oil the next largest at 8%.
 
@@ -78,11 +78,11 @@ All data and commentary reflect market conditions as of [Thursday, 18 June 2026]
 The **Baltic Dirty Tanker Index** (BDTI) surged to a multi-year high of 3,737 points in early April 2026, highlighting the significant impact of Middle East geopolitical tensions on crude tanker markets. Elevated uncertainty surrounding vessel transit through the Strait of Hormuz increased freight risk premiums, reduced effective vessel availability, and intensified competition for available tonnage, driving freight rates to historic highs across key crude oil routes.
 
 
-![(Market Prices Available Dirty)](../../images/6a3aad779ecdbb816cf27b51_2586e774.png)
+![(Market Prices Available Dirty)](../../../../../../corpus/07-signal/images/6a3aad779ecdbb816cf27b51_2586e774.png)
 
 > **Figure 4: (Market Prices Available Dirty)**  
 > *(Market Prices available Dirty)*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-tanker-market-monitor-week-25-2026) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6a3aad779ecdbb816cf27b51_2586e774.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-tanker-market-monitor-week-25-2026) | [Local Asset](../../../../../../corpus/07-signal/images/6a3aad779ecdbb816cf27b51_2586e774.png)
 
 By **17 June 2026**, the index had eased to 1,953 points, as diplomatic progress between the United States and Iran reduced concerns over potential disruptions to Gulf crude exports. The decline reflects a partial normalization of freight markets following the unwinding of extreme geopolitical risk premiums. Nevertheless, tanker earnings remain elevated relative to historical averages, suggesting that residual geopolitical uncertainty, ongoing fleet inefficiencies, and the critical role of Middle Eastern exports in global oil balances continue to provide underlying support to freight markets.
 
@@ -94,10 +94,10 @@ By **17 June 2026**, the index had eased to 1,953 points, as diplomatic progress
 **TD2** Middle East Gulf to Singapore **| TD3C** Middle East Gulf to China | **TD15** West African to China | **TD34** Gulf of Oman to China
 
 
-![Dirty VLCC](../../images/6a3aad779ecdbb816cf27b54_c928014d.png)
+![Dirty VLCC](../../../../../../corpus/07-signal/images/6a3aad779ecdbb816cf27b54_c928014d.png)
 
 > **Figure 5: Dirty VLCC**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-tanker-market-monitor-week-25-2026) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6a3aad779ecdbb816cf27b54_c928014d.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-tanker-market-monitor-week-25-2026) | [Local Asset](../../../../../../corpus/07-signal/images/6a3aad779ecdbb816cf27b54_c928014d.png)
 
 (Spot Comparison available [here](https://app.signalocean.com/tanker/dynamic/market-prices-tankers))
 
@@ -108,11 +108,11 @@ TD3C increased 9.2% week-on-week to 439.1 WS, while TD34 rose 31.6% to 180 WS, r
 The outperformance of these Gulf-linked routes indicates that freight sentiment remains particularly sensitive to developments affecting Middle East crude exports. As a result, TD3C and TD34 will remain key indicators to watch as the market reassesses operating conditions across the Gulf and their implications for crude tanker demand.
 
 
-![(Market Prices Available Dirty)](../../images/6a3aad779ecdbb816cf27b45_3bd07eb3.png)
+![(Market Prices Available Dirty)](../../../../../../corpus/07-signal/images/6a3aad779ecdbb816cf27b45_3bd07eb3.png)
 
 > **Figure 6: (Market Prices Available Dirty)**  
 > *(Market Prices available Dirty)*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-tanker-market-monitor-week-25-2026) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6a3aad779ecdbb816cf27b45_3bd07eb3.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-tanker-market-monitor-week-25-2026) | [Local Asset](../../../../../../corpus/07-signal/images/6a3aad779ecdbb816cf27b45_3bd07eb3.png)
 
 
 ## Supply Market Trends
@@ -125,19 +125,19 @@ This week, the VLCC USG market takes centre stage, where signals of an oversuppl
 - VLCC Insights from the [Signal Ocean Platform](https://app.signalocean.com/tanker/dynamic/vlcc\_insights\_downloadable) indicates that the TD22 route shifted into an oversupplied state starting in late May. After the net vessel count climbed from 11 to more than 20 by mid-May, current forecasts for the next 10 to 20 days suggest that supply growth continues to outpace projected demand.
 
 
-![Supply Market Trends](../../images/6a3aad779ecdbb816cf27b5a_7e2e880b.png)
+![Supply Market Trends](../../../../../../corpus/07-signal/images/6a3aad779ecdbb816cf27b5a_7e2e880b.png)
 
 > **Figure 7: Supply Market Trends**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-tanker-market-monitor-week-25-2026) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6a3aad779ecdbb816cf27b5a_7e2e880b.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-tanker-market-monitor-week-25-2026) | [Local Asset](../../../../../../corpus/07-signal/images/6a3aad779ecdbb816cf27b5a_7e2e880b.png)
 
 
 - A similar surplus is evident in the West African market, where the net vessel count has remained above 20 since early June. Although this is down from a peak of 31 at the end of May, the oversupply is expected to intensify over the next 10 to 20 days, paralleling the conditions observed in the USG and signaling a broader oversupplied market environment.
 
 
-![Supply Market Trends](../../images/6a3aad779ecdbb816cf27b48_53f90c34.png)
+![Supply Market Trends](../../../../../../corpus/07-signal/images/6a3aad779ecdbb816cf27b48_53f90c34.png)
 
 > **Figure 8: Supply Market Trends**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-tanker-market-monitor-week-25-2026) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6a3aad779ecdbb816cf27b48_53f90c34.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-tanker-market-monitor-week-25-2026) | [Local Asset](../../../../../../corpus/07-signal/images/6a3aad779ecdbb816cf27b48_53f90c34.png)
 
 Persistent vessel surpluses in both the US Gulf and West Africa are likely to limit upside potential for VLCC freight rates in the near term, particularly on TD22 and TD15, unless cargo demand accelerates materially.
 
@@ -147,10 +147,10 @@ Persistent vessel surpluses in both the US Gulf and West Africa are likely to li
 **VLCC ↓** 1.7% WoW **| Suezmax ↑** 7.0% WoW **| Aframax ↓** 1.1% WoW
 
 
-![Dirty Demand (Tonne Miles)| 7d Ma - Index View](../../images/6a3aad779ecdbb816cf27b5e_57c685bf.png)
+![Dirty Demand (Tonne Miles)| 7d Ma - Index View](../../../../../../corpus/07-signal/images/6a3aad779ecdbb816cf27b5e_57c685bf.png)
 
 > **Figure 9: Dirty Demand (Tonne Miles)| 7d Ma - Index View**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-tanker-market-monitor-week-25-2026) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6a3aad779ecdbb816cf27b5e_57c685bf.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-tanker-market-monitor-week-25-2026) | [Local Asset](../../../../../../corpus/07-signal/images/6a3aad779ecdbb816cf27b5e_57c685bf.png)
 
 VLCC tonne-mile demand eased further, declining 2.6 ppts WoW to 147.9%, though remaining by far the strongest segment and well above historical norms. Suezmaxes posted the largest weekly improvement, rising 5.8 ppts WoW to 86.0%, recovering from recent lows but remaining below the 100% threshold. Aframaxes softened marginally, down 1.1 ppts WoW to 97.3%, hovering just below parity and broadly stable compared with the previous week.
 

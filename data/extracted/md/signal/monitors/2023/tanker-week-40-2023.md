@@ -32,7 +32,7 @@ tags:
 ![Heading](../../images/651ed73cba22b08c9207fa7d_VLCC DIRTY.png)
 
 > **Figure 1: Heading**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/tanker-week-40-2023) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/651ed73cba22b08c9207fa7d_VLCC DIRTY.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/tanker-week-40-2023) | [Local Asset](../../../../../../corpus/07-signal/images/651ed73cba22b08c9207fa7d_VLCC%20DIRTY.png)
 
 During the first week of October, the VLCC MEG China rates experienced a downward revision, amid hopes of a recovery. Looking at the demand, growth rates are still significantly lower than what they were the previous year leading to a negative sentiment in the crude freight market. Moreover, there are concerns about oil demand as oil prices dropped early in October due to Saudi Arabian oil supply cuts and a drop in US crude oil inventories. The U.S. crude futures have been trading lower for the fourth time in five sessions, and they currently stand at $87.58 a barrel. If this trend continues, it would be the lowest closing price since Sept. 11.
 

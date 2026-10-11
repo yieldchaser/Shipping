@@ -48,6 +48,14 @@ If a price conspiracy suit does come to pass, the ensuing litigation might see a
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: What? - Me Slow Down!](../../../charts/poten/2007/poten_2007-05-25_what-me-slow-down_chart1.png)
+> **Chart on PDF page 1: US East Coast (PADD 1) Imports of Gasoline-like Components**  
+> Unit: thousand bbl/day · X-axis: 2004 to 2006  
+> Series: EIA/Poten  
+> *Source: EIA/Poten*  
+> *No image crop of this chart was saved; caption read from the PDF.*
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2007/poten_2007-05-25_what-me-slow-down_chart1.png)
+> **Chart on PDF page 3: 2006 Monthly US East Coast (PADD 1) Gasoline-like Component Imports**  
+> Unit: Million bbls/month · X-axis: Jan-06 to Dec-06  
+> Series: EIA/Poten  
+> *Source: EIA/Poten*  
+> *No image crop of this chart was saved; caption read from the PDF.*

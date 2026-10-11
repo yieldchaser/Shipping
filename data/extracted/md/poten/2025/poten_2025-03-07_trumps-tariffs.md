@@ -30,10 +30,18 @@ It appears that if the U.S. imposes tariffs on Canadian and Mexican crude oil an
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: Trumps Tariffs](../../../charts/poten/2025/poten_2025-03-07_trumps-tariffs_chart1.png)
+![Exhibit 1: U.S. Seaborne Oil Imports From Canada](../../../charts/poten/2025/poten_2025-03-07_trumps-tariffs_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2025/poten_2025-03-07_trumps-tariffs_chart1.png)
+> **Exhibit 1: U.S. Seaborne Oil Imports From Canada**  
+> Unit: Kb/d · X-axis: Jan-20 to Jan-25  
+> Series: Crude/Condensates, Dirty Petroleum Products, Clean Petroleum Products  
+> *Source: Vortexa*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2025/poten_2025-03-07_trumps-tariffs_chart1.png)
 
-![Exhibit 2: Trumps Tariffs](../../../charts/poten/2025/poten_2025-03-07_trumps-tariffs_chart2.png)
+![Exhibit 2: U.S. Seaborne Oil Imports From Mexico](../../../charts/poten/2025/poten_2025-03-07_trumps-tariffs_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2025/poten_2025-03-07_trumps-tariffs_chart2.png)
+> **Exhibit 2: U.S. Seaborne Oil Imports From Mexico**  
+> Unit: Kb/d · X-axis: Jan-20 to Jan-25  
+> Series: Crude/Condensates, Dirty Petroleum Products, Clean Petroleum Products  
+> *Source: Vortexa*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2025/poten_2025-03-07_trumps-tariffs_chart2.png)

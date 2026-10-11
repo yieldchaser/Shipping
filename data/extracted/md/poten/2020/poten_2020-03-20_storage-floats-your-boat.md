@@ -28,10 +28,18 @@ As the chart above illustrates, floating storage of crude oil is not a new pheno
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: Storage Floats Your Boat](../../../charts/poten/2020/poten_2020-03-20_storage-floats-your-boat_chart1.png)
+![Exhibit 1: Floating Storage Over Time](../../../charts/poten/2020/poten_2020-03-20_storage-floats-your-boat_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2020/poten_2020-03-20_storage-floats-your-boat_chart1.png)
+> **Exhibit 1: Floating Storage Over Time**  
+> Unit: Mln Bbl | TCE · X-axis: Dec-08 to Dec-19  
+> Series: VLCC, Suezmax, Aframax, VLCC AG-FE TCE  
+> *Source: Lloyds List Intelligence*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2020/poten_2020-03-20_storage-floats-your-boat_chart1.png)
 
-![Exhibit 2: Storage Floats Your Boat](../../../charts/poten/2020/poten_2020-03-20_storage-floats-your-boat_chart2.png)
+![Exhibit 2: U.S. Crude Oil Stocks](../../../charts/poten/2020/poten_2020-03-20_storage-floats-your-boat_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2020/poten_2020-03-20_storage-floats-your-boat_chart2.png)
+> **Exhibit 2: U.S. Crude Oil Stocks**  
+> Unit: M Bbl · X-axis: Dec-08 to Dec-19  
+> Series: Crude Oil in SPR, U.S. Crude Stocks Excl SPR  
+> *Source: EIA*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2020/poten_2020-03-20_storage-floats-your-boat_chart2.png)

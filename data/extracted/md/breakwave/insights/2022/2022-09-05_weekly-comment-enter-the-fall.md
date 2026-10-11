@@ -23,10 +23,10 @@ source_file: "corpus/03-breakwave/insights/2022/2022-09-05_weekly-comment-enter-
 
 ## Week
 
-![Week](assets/2022-09-05_weekly-comment-enter-the-fall_img_image003_a1f2ddcc0b61.jpg)
+![Week](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-09-05_weekly-comment-enter-the-fall_img_image003_a1f2ddcc0b61.jpg)
 
 > **Figure 1: Week**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-09-05_weekly-comment-enter-the-fall_img_image003_a1f2ddcc0b61.jpg)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-09-05_weekly-comment-enter-the-fall_img_image003_a1f2ddcc0b61.jpg)
 
 One thing school children and traders have in common? They dread September.
 
@@ -36,10 +36,10 @@ It is a good time to remind investors that In bear markets rallies happen, but p
 
 Thus, the modest low-volume bear-market rally has ended. Adding to the negative sentiment, September is traditionally one of the worst months for equity returns.
 
-![Market Chart 2](assets/2022-09-05_weekly-comment-enter-the-fall_img_image00428129_474d9b00e810.jpg)
+![Market Chart 2](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-09-05_weekly-comment-enter-the-fall_img_image00428129_474d9b00e810.jpg)
 
 > **Figure 2: Market Chart 2**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-09-05_weekly-comment-enter-the-fall_img_image00428129_474d9b00e810.jpg)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-09-05_weekly-comment-enter-the-fall_img_image00428129_474d9b00e810.jpg)
 
 Adding to worries, markets now turn their attention towards energy-starved Europe, as Russia is squeezing energy supplies in a bid to curb the continent’s support of Ukraine. The European continent is preparing for one of the most difficult winters post-World War II.
 

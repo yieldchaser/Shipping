@@ -19,10 +19,10 @@ source_file: "corpus/03-breakwave/insights/2023/2023-01-31_breakwave-bi-weekly-d
 
 ---
 
-![Dbreporttop](assets/2023-01-31_breakwave-bi-weekly-dry-bulk-report-january-31-2023_img_dbreporttop_3f12af098c0b.png)
+![Dbreporttop](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-01-31_breakwave-bi-weekly-dry-bulk-report-january-31-2023_img_dbreporttop_3f12af098c0b.png)
 
 > **Figure 1: Dbreporttop**  
-> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/publications) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-01-31_breakwave-bi-weekly-dry-bulk-report-january-31-2023_img_dbreporttop_3f12af098c0b.png)
+> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/publications) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-01-31_breakwave-bi-weekly-dry-bulk-report-january-31-2023_img_dbreporttop_3f12af098c0b.png)
 
 **· Chinese New Year celebrations are over, now what?****–**One of the slowest weeks of the year in terms of Chinese activity is now behind us, and the bulk commodity markets are once again looking forward to what the consensus sees as a solid rebound in physical demand for materials. Whether this is just unrealistic expectations or there is a genuine need to restock is anybody’s guess, but for dry bulk shipping the historical pattern points to gradually higher spot rates for the rest of the year. Such optimism is also built into a steepened futures curve, although the low levels of current spot rates propably exaggerate such a contango. It will be interesting to see whether the dry bulk market can move higher in the month of February that historically has been the weakest month of the year since CNY happened to be early this year, as it is unclear whether such an anomaly can have a meaningful impact on market balance. Although spot rates at almost zero make attractive headlines, the reality in shipping is that only averages matter, and such dips in activity are expected in an industry that is characterized by extreme volatility. We anticipate some revival in spot rates by the middle of next month, as China’s spring construction gets underway and steel demand pushes iron ore imports higher. Yet, any real sustainable push in import demand should come further down the road, reflecting the considerable stimulus already in the pipeline that will require increasing iron ore and steel quantities to support the new anticipated construction and manufacturing activity.
 
@@ -32,12 +32,12 @@ source_file: "corpus/03-breakwave/insights/2023/2023-01-31_breakwave-bi-weekly-d
 
 [Subscribe - Bi-Weekly Dry Bulk Report](https://www.breakwaveadvisors.com/publications)
 
-![Dbreportchart](assets/2023-01-31_breakwave-bi-weekly-dry-bulk-report-january-31-2023_img_dbreportchart_fc52412b5923.png)
+![Dbreportchart](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-01-31_breakwave-bi-weekly-dry-bulk-report-january-31-2023_img_dbreportchart_fc52412b5923.png)
 
 > **Figure 2: Dbreportchart**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-01-31_breakwave-bi-weekly-dry-bulk-report-january-31-2023_img_dbreportchart_fc52412b5923.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-01-31_breakwave-bi-weekly-dry-bulk-report-january-31-2023_img_dbreportchart_fc52412b5923.png)
 
-![Dbreportbottom](assets/2023-01-31_breakwave-bi-weekly-dry-bulk-report-january-31-2023_img_dbreportbottom_d51d58bf4279.png)
+![Dbreportbottom](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-01-31_breakwave-bi-weekly-dry-bulk-report-january-31-2023_img_dbreportbottom_d51d58bf4279.png)
 
 > **Figure 3: Dbreportbottom**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-01-31_breakwave-bi-weekly-dry-bulk-report-january-31-2023_img_dbreportbottom_d51d58bf4279.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-01-31_breakwave-bi-weekly-dry-bulk-report-january-31-2023_img_dbreportbottom_d51d58bf4279.png)

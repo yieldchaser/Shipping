@@ -23,16 +23,16 @@ source_file: "corpus/03-breakwave/insights/2023/2023-08-21_china-continues-to-co
 
 The most recently released data shows that daily crude steel output at large and medium-sized mills in China averaged 2.15 million tons during August 1 - 10. This marks a 0.5% increase from late July and is up year-on-year by 11%.
 
-![Chart 1 (74)](assets/2023-08-21_china-continues-to-consume-large-amount-of-thermal-coal-and-iron-ore_img_chart1287429_d33a4d7d94e2.jpg)
+![Chart 1 (74)](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-08-21_china-continues-to-consume-large-amount-of-thermal-coal-and-iron-ore_img_chart1287429_d33a4d7d94e2.jpg)
 
 > **Figure 1: Chart 1 (74)**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-08-21_china-continues-to-consume-large-amount-of-thermal-coal-and-iron-ore_img_chart1287429_d33a4d7d94e2.jpg)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-08-21_china-continues-to-consume-large-amount-of-thermal-coal-and-iron-ore_img_chart1287429_d33a4d7d94e2.jpg)
 
 We continue to stress that China is producing a very healthy amount of steel (and is consuming a very healthy amount of iron ore). The excess in China's housing market remains grotesque, but supply and demand of Chinese homes is not what drives the dry bulk spot market. The actual production of steel, consumption of iron ore, consumption of thermal coal, etc are what drives China's commodity imports and spot demand for vessels. Significant in the iron ore market is that China's steel output has most recently come in at this level that is up year-on-year by 11%.
 
 As we also have been stressing in Commodore's Weekly China Reports, significant in the coal market is that China's thermal coal-derived electricity generation most recently came in at a level that is up year-on-year by 8%. Growth has remained strong and China's thermal coal-derived electricity generation also set an all-time high last month. Thermal coal-derived electricity generation, which makes up the bulk of China's electricity output, totaled a record 599.7 billion kilowatt hours last month. This is up from June by 76.9 billion kilowatt hours (15%) and is up year-on-year by 43.7 billion kilowatt hours (8%). The previous record was 598.9 billion kilowatt hours produced in August 2022.
 
-![Chart 2 (63)](assets/2023-08-21_china-continues-to-consume-large-amount-of-thermal-coal-and-iron-ore_img_chart2286329_09badc9f4ee5.jpg)
+![Chart 2 (63)](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-08-21_china-continues-to-consume-large-amount-of-thermal-coal-and-iron-ore_img_chart2286329_09badc9f4ee5.jpg)
 
 > **Figure 2: Chart 2 (63)**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-08-21_china-continues-to-consume-large-amount-of-thermal-coal-and-iron-ore_img_chart2286329_09badc9f4ee5.jpg)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-08-21_china-continues-to-consume-large-amount-of-thermal-coal-and-iron-ore_img_chart2286329_09badc9f4ee5.jpg)

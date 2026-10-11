@@ -148,17 +148,27 @@ DCE iron ore futures market falling sharply trends by 5.78%. the main contract c
 | **Jiangyin** | -30.00 | +0.00 | **Dalian** | 0.00 | +0.00 |
 
 ## Historical Iron Ore Index Comparisons (USD/DMT)
+> **Estimate.** The report prints no numbers for this chart. Values are computed from the chart's vector geometry at each x-axis date label (calibrated on the printed axis ticks; typically within 1% of the axis range).
+
 | Date | IOSI62 (USD/DMT) | IOPi62 CFR Eq (USD/DMT) | IOSI65 (USD/DMT) | IOPi65 CFR Eq (USD/DMT) |
 | :--- | :--- | :--- | :--- | :--- |
-| 1-Jan-21 | 165.00 | 170.00 | 185.00 | 180.00 |
-| 1-Mar-21 | 160.00 | 165.00 | 180.00 | 175.00 |
-| 1-May-21 | 200.00 | 210.00 | 260.00 | 250.00 |
-| 1-Jul-21 | 250.00 | 260.00 | 275.00 | 270.00 |
-| 1-Sep-21 | 180.00 | 190.00 | 200.00 | 195.00 |
-| 1-Nov-21 | 120.00 | 130.00 | 140.00 | 135.00 |
-| 1-Jan-22 | 130.00 | 140.00 | 150.00 | 145.00 |
-| 1-Mar-22 | 150.00 | 160.00 | 170.00 | 165.00 |
-| 1-May-22 | 150.00 | 160.00 | 170.00 | 165.00 |
+| 1-Jan-21 | 163.60 | 158.46 | 171.80 | 172.82 |
+| 1-Feb-21 | 159.23 | 162.99 | 182.82 | 188.63 |
+| 1-Mar-21 | 177.69 | 175.64 | 197.18 | 200.25 |
+| 1-Apr-21 | 167.41 | 162.31 | 191.00 | 190.00 |
+| 1-May-21 | 192.05 | 190.01 | 228.97 | 226.93 |
+| 1-Jun-21 | 191.00 | 216.60 | 221.77 | 260.66 |
+| 1-Jul-21 | 215.66 | 230.01 | 251.55 | 257.72 |
+| 1-Aug-21 | 194.47 | 197.87 | 229.35 | 231.37 |
+| 1-Sep-21 | 158.18 | 157.14 | 184.86 | 194.05 |
+| 1-Oct-21 | 123.33 | 124.36 | 141.79 | 150.00 |
+| 1-Nov-21 | 109.95 | 117.17 | 131.47 | 142.82 |
+| 1-Dec-21 | 105.89 | 99.74 | 119.23 | 128.46 |
+| 1-Jan-22 | 125.13 | 117.43 | 132.57 | 147.18 |
+| 1-Feb-22 | 143.84 | 144.36 | 172.56 | 173.79 |
+| 1-Mar-22 | 133.59 | 135.64 | 165.38 | 166.41 |
+| 1-Apr-22 | 156.15 | 156.16 | 181.79 | 183.85 |
+| 1-May-22 | 147.26 | 143.33 | 171.88 | 167.95 |
 
 ---
 
@@ -181,42 +191,46 @@ DCE iron ore futures market falling sharply trends by 5.78%. the main contract c
 | **SGX** | **129.85** | USD/DMT | 5.91 | - | - | 21.59 | 127.75 | 138.20 | - |
 
 ## Dry Bulk Freight Rates Historical Line Data (USD/MT)
+> **Estimate.** The report prints no numbers for this chart. Values are computed from the chart's vector geometry at each x-axis date label (calibrated on the printed axis ticks; typically within 1% of the axis range).
+
 | Date | C5 W. Australia - Qingdao (USD/MT) | C3 Tubarao - Qingdao (USD/MT) |
 | :--- | :--- | :--- |
-| 4-Jan-21 | 10.00 | 18.00 |
-| 4-Feb-21 | 10.00 | 20.00 |
-| 4-Mar-21 | 11.00 | 22.00 |
-| 4-Apr-21 | 12.00 | 25.00 |
-| 4-May-21 | 14.00 | 28.00 |
-| 4-Jun-21 | 15.00 | 30.00 |
-| 4-Jul-21 | 16.00 | 32.00 |
-| 4-Aug-21 | 18.00 | 38.00 |
-| 4-Sep-21 | 22.00 | 48.00 |
-| 4-Oct-21 | 24.00 | 49.00 |
-| 4-Nov-21 | 18.00 | 42.00 |
-| 4-Dec-21 | 14.00 | 35.00 |
-| 4-Jan-22 | 12.00 | 28.00 |
-| 4-Feb-22 | 11.00 | 26.00 |
-| 4-Mar-22 | 10.00 | 25.00 |
-| 4-Apr-22 | 11.00 | 27.00 |
-| 4-May-22 | 12.00 | 28.00 |
+| 4-Jan-21 | 8.37 | 15.63 |
+| 4-Feb-21 | 5.85 | 16.47 |
+| 4-Mar-21 | 8.36 | 16.19 |
+| 4-Apr-21 | 10.18 | 21.50 |
+| 4-May-21 | 13.11 | 28.76 |
+| 4-Jun-21 | 9.76 | 22.62 |
+| 4-Jul-21 | 10.88 | 25.55 |
+| 4-Aug-21 | 14.79 | 29.33 |
+| 4-Sep-21 | 13.40 | 32.86 |
+| 4-Oct-21 | 21.85 | 45.25 |
+| 4-Nov-21 | 10.60 | 24.85 |
+| 4-Dec-21 | 13.11 | 29.04 |
+| 4-Jan-22 | 8.92 | 22.25 |
+| 4-Feb-22 | 7.25 | 20.38 |
+| 4-Mar-22 | 10.04 | 23.59 |
+| 4-Apr-22 | 10.04 | 25.97 |
+| 4-May-22 | 12.00 | 25.69 |
 
 ## Total China Iron Ore Import Volumes (Million Tonnes)
+> **Estimate.** The report prints no numbers for this chart. Values are computed from the chart's vector geometry at each x-axis date label (calibrated on the printed axis ticks; typically within 1% of the axis range).
+
 | Month / Period | Import Volume (Million Tonnes) |
 | :--- | :--- |
-| Mar-21 | 102.00 |
-| Apr-21 | 98.00 |
-| May-21 | 89.00 |
-| Jun-21 | 88.00 |
-| Jul-21 | 87.00 |
-| Aug-21 | 97.00 |
-| Sep-21 | 95.00 |
-| Oct-21 | 91.00 |
-| Nov-21 | 105.00 |
-| Dec-21 | 86.00 |
-| Jan-22 | 95.00 |
-| Feb-22 | 85.00 |
-| Mar-22 | 87.00 |
+| Mar-21 | 102.14 |
+| Apr-21 | 98.63 |
+| May-21 | 89.86 |
+| Jun-21 | 89.42 |
+| Jul-21 | 88.54 |
+| Aug-21 | 97.53 |
+| Sep-21 | 95.56 |
+| Oct-21 | 91.61 |
+| Nov-21 | 104.99 |
+| Dec-21 | 86.13 |
+| Jan-22 | 95.12 |
+| Feb-22 | 85.91 |
+| Mar-22 | 87.23 |
 
 ---
 

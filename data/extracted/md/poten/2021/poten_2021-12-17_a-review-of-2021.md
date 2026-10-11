@@ -30,10 +30,17 @@ Other events that made headlines in 2021 included the closure of the Suez Canal 
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: A Review Of 2021](../../../charts/poten/2021/poten_2021-12-17_a-review-of-2021_chart1.png)
+![Exhibit 1: EIA Oil Demand Outlook Over Time (STEO)](../../../charts/poten/2021/poten_2021-12-17_a-review-of-2021_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2021/poten_2021-12-17_a-review-of-2021_chart1.png)
+> **Exhibit 1: EIA Oil Demand Outlook Over Time (STEO)**  
+> Unit: Mb/d · X-axis: Jan-19 to Oct-22  
+> Series: Dec-20, Jun-21, Dec-21  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2021/poten_2021-12-17_a-review-of-2021_chart1.png)
 
-![Exhibit 2: A Review Of 2021](../../../charts/poten/2021/poten_2021-12-17_a-review-of-2021_chart2.png)
+![Exhibit 2: EIA Oil Supply Outlook Over Time (STEO)](../../../charts/poten/2021/poten_2021-12-17_a-review-of-2021_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2021/poten_2021-12-17_a-review-of-2021_chart2.png)
+> **Exhibit 2: EIA Oil Supply Outlook Over Time (STEO)**  
+> Unit: Mb/d · X-axis: Jan-19 to Oct-22  
+> Series: Dec-20, Jun-21, Dec-21  
+> *Source: EIA – Short Term Energy Outlook*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2021/poten_2021-12-17_a-review-of-2021_chart2.png)

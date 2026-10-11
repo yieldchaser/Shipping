@@ -28,10 +28,18 @@ It is difficult to speculate why certain charterers engage in floating storage a
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: Whatever Floats Your Boat](../../../charts/poten/2015/poten_2015-05-08_whatever-floats-your-boat_chart1.png)
+![Exhibit 1: 12 month Brent Time Spread vs 1 yr TC + Interest](../../../charts/poten/2015/poten_2015-05-08_whatever-floats-your-boat_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2015/poten_2015-05-08_whatever-floats-your-boat_chart1.png)
+> **Exhibit 1: 12 month Brent Time Spread vs 1 yr TC + Interest**  
+> Unit: USD/BBL · X-axis: 3/15/2013 to 4/15/2015  
+> Series: VLCC 1 Yr TC, Interest, 12 Mos Brent Spread  
+> *Source: Bloomberg / Poten & Partners*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2015/poten_2015-05-08_whatever-floats-your-boat_chart1.png)
 
-![Exhibit 2: Whatever Floats Your Boat](../../../charts/poten/2015/poten_2015-05-08_whatever-floats-your-boat_chart2.png)
+![Exhibit 2: Floating Storage](../../../charts/poten/2015/poten_2015-05-08_whatever-floats-your-boat_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2015/poten_2015-05-08_whatever-floats-your-boat_chart2.png)
+> **Exhibit 2: Floating Storage**  
+> Unit: BBL (x1,000) · X-axis: 1/1/2014 to 5/1/2015  
+> Series: Arabian Gulf, South East Asia, Mediterranean, West Africa, Global  
+> *Source: Bloomberg*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2015/poten_2015-05-08_whatever-floats-your-boat_chart2.png)

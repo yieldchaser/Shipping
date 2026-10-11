@@ -24,10 +24,18 @@ Even though Sunoco's self‐imposed deadline is only a few months away, the fina
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: Helping Colonials](../../../charts/poten/2012/poten_2012-03-30_helping-colonials_chart1.png)
+![Exhibit 1: US Mid-Atlantic and North East Coast CPP Imports](../../../charts/poten/2012/poten_2012-03-30_helping-colonials_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2012/poten_2012-03-30_helping-colonials_chart1.png)
+> **Exhibit 1: US Mid-Atlantic and North East Coast CPP Imports**  
+> Unit: Thousand bbls/day · X-axis: Jan to Dec  
+> Series: 2010, 2011  
+> *Source: EIA/Poten*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2012/poten_2012-03-30_helping-colonials_chart1.png)
 
-![Exhibit 2: Helping Colonials](../../../charts/poten/2012/poten_2012-03-30_helping-colonials_chart2.png)
+![Exhibit 2: UKC to USAC 37kt Clean Tanker Earnings](../../../charts/poten/2012/poten_2012-03-30_helping-colonials_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2012/poten_2012-03-30_helping-colonials_chart2.png)
+> **Exhibit 2: UKC to USAC 37kt Clean Tanker Earnings**  
+> Unit: Time Charter Earnings Equivalent, $/day · X-axis: Jan to Dec  
+> Series: 5 yr Range, 2010, 2011, 2012  
+> *Source: Poten*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2012/poten_2012-03-30_helping-colonials_chart2.png)

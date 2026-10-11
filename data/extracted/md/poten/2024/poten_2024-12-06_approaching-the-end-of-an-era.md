@@ -30,10 +30,17 @@ It is difficult to be definitive about the changes that are in store for the fut
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: Approaching The End Of An Era](../../../charts/poten/2024/poten_2024-12-06_approaching-the-end-of-an-era_chart1.png)
+![Exhibit 1: Seaborne Crude Volumes Loading in the North Sea by Destination](../../../charts/poten/2024/poten_2024-12-06_approaching-the-end-of-an-era_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2024/poten_2024-12-06_approaching-the-end-of-an-era_chart1.png)
+> **Exhibit 1: Seaborne Crude Volumes Loading in the North Sea by Destination**  
+> Unit: Kb/d · X-axis: Jan-16 to Sep-24  
+> Series: Netherlands, United Kingdom, Germany, Sweden, China, Norway, Poland, Other  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2024/poten_2024-12-06_approaching-the-end-of-an-era_chart1.png)
 
-![Exhibit 2: Approaching The End Of An Era](../../../charts/poten/2024/poten_2024-12-06_approaching-the-end-of-an-era_chart2.png)
+![Exhibit 2: North Sea Crude Oil Loadings by Vessel Class](../../../charts/poten/2024/poten_2024-12-06_approaching-the-end-of-an-era_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2024/poten_2024-12-06_approaching-the-end-of-an-era_chart2.png)
+> **Exhibit 2: North Sea Crude Oil Loadings by Vessel Class**  
+> Unit: Kb/d · X-axis: Jan-16 to Sep-24  
+> Series: Aframax, Suezmax, VLCC, Other  
+> *Source: Vortexa*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2024/poten_2024-12-06_approaching-the-end-of-an-era_chart2.png)

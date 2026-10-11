@@ -110,6 +110,3 @@ Without tremendous subsidies, to the detriment of the taxpayers, it will be very
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: Dreams Money Can Buy](../../../charts/poten/2008/poten_2008-11-07_dreams-money-can-buy_chart1.png)
-
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2008/poten_2008-11-07_dreams-money-can-buy_chart1.png)

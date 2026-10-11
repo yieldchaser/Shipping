@@ -30,10 +30,18 @@ Based on the above, it appears that both Suezmax and VLCC markets could face dow
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: Less Out of Africa](../../../charts/poten/2016/poten_2016-05-20_less-out-of-africa_chart1.png)
+![Exhibit 1: Nigeria - Crude Oil Production](../../../charts/poten/2016/poten_2016-05-20_less-out-of-africa_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2016/poten_2016-05-20_less-out-of-africa_chart1.png)
+> **Exhibit 1: Nigeria - Crude Oil Production**  
+> Unit: KB/d · X-axis: Jan-97 to Jan-16  
+> Series: Crude Oil Production  
+> *Source: Bloomberg*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2016/poten_2016-05-20_less-out-of-africa_chart1.png)
 
-![Exhibit 2: Less Out of Africa](../../../charts/poten/2016/poten_2016-05-20_less-out-of-africa_chart2.png)
+![Exhibit 2: Crude Oil Spot Fixtures Loading In Nigeria (2015/2016 YTD)](../../../charts/poten/2016/poten_2016-05-20_less-out-of-africa_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2016/poten_2016-05-20_less-out-of-africa_chart2.png)
+> **Exhibit 2: Crude Oil Spot Fixtures Loading In Nigeria (2015/2016 YTD)**  
+> Unit: % · X-axis: India to Other  
+> Series: India, West Africa, East Coast South America, UK Continent, South Africa, Mediterranean, USAC / US Gulf, Other  
+> *Source: Poten & Partners*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2016/poten_2016-05-20_less-out-of-africa_chart2.png)

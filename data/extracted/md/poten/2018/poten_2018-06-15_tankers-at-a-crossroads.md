@@ -36,10 +36,18 @@ Looking at the earnings, both Suezmax and Aframax segments appear to be in dire 
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: Tankers At A Crossroads](../../../charts/poten/2018/poten_2018-06-15_tankers-at-a-crossroads_chart1.png)
+![Exhibit 1: Change In Ton Mile Demand by Load Area](../../../charts/poten/2018/poten_2018-06-15_tankers-at-a-crossroads_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2018/poten_2018-06-15_tankers-at-a-crossroads_chart1.png)
+> **Exhibit 1: Change In Ton Mile Demand by Load Area**  
+> Unit: % · X-axis: Total to Middle East  
+> Series: Suezmax, Aframax  
+> *Source: Lloyd’s List Intelligence*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2018/poten_2018-06-15_tankers-at-a-crossroads_chart1.png)
 
-![Exhibit 2: Tankers At A Crossroads](../../../charts/poten/2018/poten_2018-06-15_tankers-at-a-crossroads_chart2.png)
+![Exhibit 2: Change In Ton Mile Demand by Discharge Area](../../../charts/poten/2018/poten_2018-06-15_tankers-at-a-crossroads_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2018/poten_2018-06-15_tankers-at-a-crossroads_chart2.png)
+> **Exhibit 2: Change In Ton Mile Demand by Discharge Area**  
+> Unit: % · X-axis: Total to Asia/Australia  
+> Series: Suezmax, Aframax  
+> *Source: Lloyd’s List Intelligence*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2018/poten_2018-06-15_tankers-at-a-crossroads_chart2.png)

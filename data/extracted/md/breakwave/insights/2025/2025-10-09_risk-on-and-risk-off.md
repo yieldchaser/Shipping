@@ -46,24 +46,24 @@ There is only one condition in which this may happen: currency debasement. In su
 
 The rally in equities, which persists on the back of mega-AI tech funding deals,
 
-![Market Chart 1](assets/2025-10-09_risk-on-and-risk-off_img_image008_bba260301f7e.png)
+![Market Chart 1](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-10-09_risk-on-and-risk-off_img_image008_bba260301f7e.png)
 
 > **Figure 1: Market Chart 1**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-10-09_risk-on-and-risk-off_img_image008_bba260301f7e.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-10-09_risk-on-and-risk-off_img_image008_bba260301f7e.png)
 
 the jitters in the bond market, including some G7 like the UK and France,
 
-![Market Chart 2](assets/2025-10-09_risk-on-and-risk-off_img_image009_4f6f49277024.png)
+![Market Chart 2](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-10-09_risk-on-and-risk-off_img_image009_4f6f49277024.png)
 
 > **Figure 2: Market Chart 2**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-10-09_risk-on-and-risk-off_img_image009_4f6f49277024.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-10-09_risk-on-and-risk-off_img_image009_4f6f49277024.png)
 
 Dollar’s depreciation (with the Renminbi following and Pound Sterling also weak vs the Euro) and of course, the gold rally,
 
-![Market Chart 3](assets/2025-10-09_risk-on-and-risk-off_img_image010_60f7f4d6aaee.png)
+![Market Chart 3](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-10-09_risk-on-and-risk-off_img_image010_60f7f4d6aaee.png)
 
 > **Figure 3: Market Chart 3**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-10-09_risk-on-and-risk-off_img_image010_60f7f4d6aaee.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-10-09_risk-on-and-risk-off_img_image010_60f7f4d6aaee.png)
 
 all point to the same conclusion: we are at the mature part of a debt cycle, where debt issuance accounts for increasing interest payments. Governments devalue their currencies to reduce the real debt burden. And if they (or most of them) try to do it together, then real assets, like commodities and real estate, would tend to appreciate.
 
@@ -71,35 +71,35 @@ We discussed this extensively in our latest quarterly, when we deduced that so-c
 
 Now, central banks, vigilant of inflation, can of course intervene to protect their currencies, lest too much depreciation becomes inflationary, but we get a sense that no central bank wants to engage in such counter-cyclical policies. The ECB has a dovish bias. It has already taken rates back down to 2%, and still may have to contend with serious policy and political complications in France and perhaps Germany. The BoE is more reserved because inflation persists, but ultimately it may be forced towards a more dovish stance as well. The Labour government in the UK is fending off challenges (albeit nothing like the pressures Mr Macron seems to endure), and the fiscal situation is deteriorating, which means that monetary policy will come to the rescue. A dilemma which the Fed doesn’t seem to have, despite sharper tariff-related inflation pressures, as the central bank was finally convinced (sic) to see things more in line with the President and the Treasury, who advocate for cheaper money. Markets are now pricing in 5 rate cuts until the end of 2026, despite persistent inflation.
 
-![Market Chart 4](assets/2025-10-09_risk-on-and-risk-off_img_image011_d5bfa4bff607.png)
+![Market Chart 4](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-10-09_risk-on-and-risk-off_img_image011_d5bfa4bff607.png)
 
 > **Figure 4: Market Chart 4**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-10-09_risk-on-and-risk-off_img_image011_d5bfa4bff607.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-10-09_risk-on-and-risk-off_img_image011_d5bfa4bff607.png)
 
 So the story is so far consistent: currency debasement leading to higher equity prices, while at the same time the US government is creating demand for Treasuries (GENIUS Act, pressures to reduce rates), keeping US bond long rates manageable despite underlying weakness. All that, under the pressure of more debt, which is obviously spilling over to the fiscally weaker G7 nations.
 
 Except… It’s not entirely true. The latest data from the International Institute of Finance suggests that global debt/GDP has actually fallen, from 325% to 323% in the last quarter.
 
-![Market Chart 5](assets/2025-10-09_risk-on-and-risk-off_img_image012_cb27bad3b354.png)
+![Market Chart 5](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-10-09_risk-on-and-risk-off_img_image012_cb27bad3b354.png)
 
 > **Figure 5: Market Chart 5**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-10-09_risk-on-and-risk-off_img_image012_cb27bad3b354.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-10-09_risk-on-and-risk-off_img_image012_cb27bad3b354.png)
 
 More to the point, the longer-term chart suggests that global debt as a percentage of global growth has actually been pretty stable throughout the past decade.
 
 Now, one could argue that government debt is still high. This is true. As a percentage of total debt, corporates and governments hold the largest share, while consumers and banks have deleveraged.
 
-![Market Chart 6](assets/2025-10-09_risk-on-and-risk-off_img_image013_a66833eb324f.png)
+![Market Chart 6](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-10-09_risk-on-and-risk-off_img_image013_a66833eb324f.png)
 
 > **Figure 6: Market Chart 6**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-10-09_risk-on-and-risk-off_img_image013_a66833eb324f.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-10-09_risk-on-and-risk-off_img_image013_a66833eb324f.png)
 
 But here is the crux. Governments can always print money to pay off their debts. And corporates tend to be more careful with their balance sheets than banks have been in the past (which also affected consumer balance sheets).
 
-![Market Chart 7](assets/2025-10-09_risk-on-and-risk-off_img_image014_f44bb6a5e73e.png)
+![Market Chart 7](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-10-09_risk-on-and-risk-off_img_image014_f44bb6a5e73e.png)
 
 > **Figure 7: Market Chart 7**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-10-09_risk-on-and-risk-off_img_image014_f44bb6a5e73e.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-10-09_risk-on-and-risk-off_img_image014_f44bb6a5e73e.png)
 
 A financials-driven debt cycle is usually one of leverage, which can be reduced quickly, turning a difficult situation into a crisis. Not all debt cycles are the same. They might end up in similar places eventually, but where each cycle differs is in the time it takes for risks to manifest.
 

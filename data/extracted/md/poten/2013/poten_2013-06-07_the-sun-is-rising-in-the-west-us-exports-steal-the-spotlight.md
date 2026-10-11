@@ -58,12 +58,12 @@ For more information on import, export and fixture data, please contact as per b
 
 ![Exhibit 1: The Sun is Rising in the West: US Exports Steal the Spotlight](../../../charts/poten/2013/poten_2013-06-07_the-sun-is-rising-in-the-west-us-exports-steal-the-spotlight_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2013/poten_2013-06-07_the-sun-is-rising-in-the-west-us-exports-steal-the-spotlight_chart1.png)
+> **Interactive Asset:** [Local Asset (200 DPI PNG)](../../../charts/poten/2013/poten_2013-06-07_the-sun-is-rising-in-the-west-us-exports-steal-the-spotlight_chart1.png)
 
 ![Exhibit 2: The Sun is Rising in the West: US Exports Steal the Spotlight](../../../charts/poten/2013/poten_2013-06-07_the-sun-is-rising-in-the-west-us-exports-steal-the-spotlight_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2013/poten_2013-06-07_the-sun-is-rising-in-the-west-us-exports-steal-the-spotlight_chart2.png)
+> **Interactive Asset:** [Local Asset (200 DPI PNG)](../../../charts/poten/2013/poten_2013-06-07_the-sun-is-rising-in-the-west-us-exports-steal-the-spotlight_chart2.png)
 
 ![Exhibit 3: The Sun is Rising in the West: US Exports Steal the Spotlight](../../../charts/poten/2013/poten_2013-06-07_the-sun-is-rising-in-the-west-us-exports-steal-the-spotlight_chart3.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2013/poten_2013-06-07_the-sun-is-rising-in-the-west-us-exports-steal-the-spotlight_chart3.png)
+> **Interactive Asset:** [Local Asset (200 DPI PNG)](../../../charts/poten/2013/poten_2013-06-07_the-sun-is-rising-in-the-west-us-exports-steal-the-spotlight_chart3.png)

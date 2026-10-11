@@ -76,24 +76,24 @@ That includes
 
 As for the economy? As we said, all eventualities are open. We have already focused on the upside risks for inflation in previous editions, due to tariffs (?) and immigration curbs. But there are positive outcomes possible as well. Over the short term, growth could pick up, and inflation might not be as bad if the energy sector helps prices go down, at least according to Scott Bessent, the Treasury Secretary who seems to be a good source of information for investors. More drilling (although the US oil output is at an all-time high), may act as a counterweight to immigration and tariff-related inflation.
 
-![Market Chart 1](assets/2025-02-10_a-survivors-guide-to-navigating-the-market-under-the-new-presidency_img_image004_ddaf980098cf.jpg)
+![Market Chart 1](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-02-10_a-survivors-guide-to-navigating-the-market-under-the-new-presidency_img_image004_ddaf980098cf.jpg)
 
 > **Figure 1: Market Chart 1**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-02-10_a-survivors-guide-to-navigating-the-market-under-the-new-presidency_img_image004_ddaf980098cf.jpg)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-02-10_a-survivors-guide-to-navigating-the-market-under-the-new-presidency_img_image004_ddaf980098cf.jpg)
 
 If tariffs are not imposed on an industrial scale, then lower prices at the pump may well bring down long-term inflation expectations, at least according to the[Treasury Secretary](assets/2025-02-10_a-survivors-guide-to-navigating-the-market-under-the-new-presidency_bessent-says-trump-is-focused-on-the_c6ef896c03bf.html). Treasury yields were already down last week to below 4.5% and rate cut expectations picked up.
 
-![Market Chart 2](assets/2025-02-10_a-survivors-guide-to-navigating-the-market-under-the-new-presidency_img_image005_98a66950d6a4.jpg)
+![Market Chart 2](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-02-10_a-survivors-guide-to-navigating-the-market-under-the-new-presidency_img_image005_98a66950d6a4.jpg)
 
 > **Figure 2: Market Chart 2**  
-> **Interactive Data & Source:** [Reuters](https://www.reuters.com/world/europe/is-reform-germanys-debt-brake-cards-2024-11-12/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-02-10_a-survivors-guide-to-navigating-the-market-under-the-new-presidency_img_image005_98a66950d6a4.jpg)
+> **Interactive Data & Source:** [Reuters](https://www.reuters.com/world/europe/is-reform-germanys-debt-brake-cards-2024-11-12/) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-02-10_a-survivors-guide-to-navigating-the-market-under-the-new-presidency_img_image005_98a66950d6a4.jpg)
 
 And pressing allies to increase their meagre defence spending to match the US’s might have a very positive effect. Germany and France alone would need to add $120bn to their spending, which, with a bit of creative accounting, can include a lot of infrastructure spending.
 
-![Στιγμιότυπο Οθόνης 2025 02 10 162229](assets/2025-02-10_a-survivors-guide-to-navigating-the-market-under-the-new-presidency_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_1a6842961acd.png)
+![Στιγμιότυπο Οθόνης 2025 02 10 162229](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-02-10_a-survivors-guide-to-navigating-the-market-under-the-new-presidency_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_1a6842961acd.png)
 
 > **Figure 3: Στιγμιότυπο Οθόνης 2025 02 10 162229**  
-> **Interactive Data & Source:** [Reuters](https://www.reuters.com/world/europe/is-reform-germanys-debt-brake-cards-2024-11-12/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-02-10_a-survivors-guide-to-navigating-the-market-under-the-new-presidency_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_1a6842961acd.png)
+> **Interactive Data & Source:** [Reuters](https://www.reuters.com/world/europe/is-reform-germanys-debt-brake-cards-2024-11-12/) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-02-10_a-survivors-guide-to-navigating-the-market-under-the-new-presidency_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_1a6842961acd.png)
 
 That should help Germany out of its recession, even[at the cost of](https://www.reuters.com/world/europe/is-reform-germanys-debt-brake-cards-2024-11-12/)its 0.35% borrowing cap.
 

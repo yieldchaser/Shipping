@@ -30,4 +30,4 @@ The question remains: what will owners decide? New vessels will most likely be a
 
 ![Exhibit 1: The Bug Stops Here](../../../charts/poten/2019/poten_2019-08-30_the-bug-stops-here_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2019/poten_2019-08-30_the-bug-stops-here_chart1.png)
+> **Interactive Asset:** [Local Asset (200 DPI PNG)](../../../charts/poten/2019/poten_2019-08-30_the-bug-stops-here_chart1.png)

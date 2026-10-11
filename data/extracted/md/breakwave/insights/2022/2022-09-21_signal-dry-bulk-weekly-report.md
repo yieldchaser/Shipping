@@ -29,10 +29,10 @@ In the coal segment, futures contracts for Newcastle coal, the benchmark for the
 
 ‘The Big Picture’ - Capesize and Panamax Bulkers and Smaller Ship Sizes
 
-![Market Chart 1](assets/2022-09-21_signal-dry-bulk-weekly-report_img_unnamed287429_29636e7da9f9.png)
+![Market Chart 1](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-09-21_signal-dry-bulk-weekly-report_img_unnamed287429_29636e7da9f9.png)
 
 > **Figure 1: Market Chart 1**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-09-21_signal-dry-bulk-weekly-report_img_unnamed287429_29636e7da9f9.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-09-21_signal-dry-bulk-weekly-report_img_unnamed287429_29636e7da9f9.png)
 
 In the third week of September, freight rate sentiment firmed across all vessel categories, with a downward trend for Panamax vessels.
 
@@ -43,10 +43,10 @@ In the third week of September, freight rate sentiment firmed across all vessel 
 
 ## Section 2/ Supply -Ballasters (# Vessels) Increasing
 
-![Supply Trend Lines for Key Load Areas](assets/2022-09-21_signal-dry-bulk-weekly-report_img_unnamed287529_75bff5ba1172.png)
+![Supply Trend Lines for Key Load Areas](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-09-21_signal-dry-bulk-weekly-report_img_unnamed287529_75bff5ba1172.png)
 
 > **Figure 2: Supply Trend Lines for Key Load Areas**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-09-21_signal-dry-bulk-weekly-report_img_unnamed287529_75bff5ba1172.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-09-21_signal-dry-bulk-weekly-report_img_unnamed287529_75bff5ba1172.png)
 
 The number of Capesize and Panamax vessels sailing with ballast remained below the annual average, while the number of Handysize and Supramax vessels followed the previous week's sharp increase.
 
@@ -57,10 +57,10 @@ The number of Capesize and Panamax vessels sailing with ballast remained below t
 
 ## Section 3/ Demand -TonDays Increasing
 
-![TonDays Increasing](assets/2022-09-21_signal-dry-bulk-weekly-report_img_unnamed287629_5efe49444fd6.png)
+![TonDays Increasing](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-09-21_signal-dry-bulk-weekly-report_img_unnamed287629_5efe49444fd6.png)
 
 > **Figure 3: TonDays Increasing**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-09-21_signal-dry-bulk-weekly-report_img_unnamed287629_5efe49444fd6.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-09-21_signal-dry-bulk-weekly-report_img_unnamed287629_5efe49444fd6.png)
 
 The third week of September saw a continuation of the upward trend in Capesize vessels, while some firmness was observed in the Supramax and Panamax segment.
 
@@ -71,10 +71,10 @@ The third week of September saw a continuation of the upward trend in Capesize v
 
 ## Section 4/ Port Congestion -No of Vesselsincreasing
 
-![Dry Bulk Ships Congested at Chinese Ports](assets/2022-09-21_signal-dry-bulk-weekly-report_img_unnamed287729_1e63cb9556bf.png)
+![Dry Bulk Ships Congested at Chinese Ports](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-09-21_signal-dry-bulk-weekly-report_img_unnamed287729_1e63cb9556bf.png)
 
 > **Figure 4: Dry Bulk Ships Congested at Chinese Ports**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-09-21_signal-dry-bulk-weekly-report_img_unnamed287729_1e63cb9556bf.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-09-21_signal-dry-bulk-weekly-report_img_unnamed287729_1e63cb9556bf.png)
 
 The number of congested vessels has accelerated over the past two weeks, with significant increases in all vessel size categories.
 

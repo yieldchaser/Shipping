@@ -29,24 +29,24 @@ Because the fact remains that while rates have gone up from zero to 1.75% in six
 
 At this point, only real estate markets have seen a direct effect from higher rates, with long mortgage yields at multi-year highs.
 
-![Market Chart 1](assets/2022-07-06_weekly-comment-the-great-deflation-of-2023_img_unnamed28429_113b70502166.jpg)
+![Market Chart 1](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-07-06_weekly-comment-the-great-deflation-of-2023_img_unnamed28429_113b70502166.jpg)
 
 > **Figure 1: Market Chart 1**  
-> **Interactive Data & Source:** [Gzeromedia](https://www.gzeromedia.com/viewpoint/does-the-world-really-need-more-oil-right-now) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-07-06_weekly-comment-the-great-deflation-of-2023_img_unnamed28429_113b70502166.jpg)
+> **Interactive Data & Source:** [Gzeromedia](https://www.gzeromedia.com/viewpoint/does-the-world-really-need-more-oil-right-now) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-07-06_weekly-comment-the-great-deflation-of-2023_img_unnamed28429_113b70502166.jpg)
 
 And, interesting enough, the Fed has not proceeded with any significant removal of liquidity, via Quantitative Tightening just yet. So while it tries to curb inflation, it’s movements (or lack thereof) in the asset market may be betraying its true nature: that of a market-friendly monetary dove.
 
-![Market Chart 2](assets/2022-07-06_weekly-comment-the-great-deflation-of-2023_img_unnamed28529_8717b8ed7f2c.jpg)
+![Market Chart 2](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-07-06_weekly-comment-the-great-deflation-of-2023_img_unnamed28529_8717b8ed7f2c.jpg)
 
 > **Figure 2: Market Chart 2**  
-> **Interactive Data & Source:** [Gzeromedia](https://www.gzeromedia.com/viewpoint/does-the-world-really-need-more-oil-right-now) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-07-06_weekly-comment-the-great-deflation-of-2023_img_unnamed28529_8717b8ed7f2c.jpg)
+> **Interactive Data & Source:** [Gzeromedia](https://www.gzeromedia.com/viewpoint/does-the-world-really-need-more-oil-right-now) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-07-06_weekly-comment-the-great-deflation-of-2023_img_unnamed28529_8717b8ed7f2c.jpg)
 
 To be sure, we don’t anticipate that inflation will come down dramatically in the next three-four months. This is due to the year-on-year effect of inflation. Last summer, price rises were significantly moderated. This means that on a year-on-year basis, headline inflation pressures could persist for this summer. And the Fed is highly sensitive even to high-frequency monthly data, so we are fully ready for another triple rate hike in July.
 
-![Market Chart 3](assets/2022-07-06_weekly-comment-the-great-deflation-of-2023_img_unnamed28629_5a82233c3d5d.jpg)
+![Market Chart 3](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-07-06_weekly-comment-the-great-deflation-of-2023_img_unnamed28629_5a82233c3d5d.jpg)
 
 > **Figure 3: Market Chart 3**  
-> **Interactive Data & Source:** [Gzeromedia](https://www.gzeromedia.com/viewpoint/does-the-world-really-need-more-oil-right-now) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-07-06_weekly-comment-the-great-deflation-of-2023_img_unnamed28629_5a82233c3d5d.jpg)
+> **Interactive Data & Source:** [Gzeromedia](https://www.gzeromedia.com/viewpoint/does-the-world-really-need-more-oil-right-now) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-07-06_weekly-comment-the-great-deflation-of-2023_img_unnamed28629_5a82233c3d5d.jpg)
 
 The question is what happens thereafter. Following September, there’s a significant confluence of factors which could help reign in inflation, and with it constrictive policy:
 
@@ -55,10 +55,10 @@ The question is what happens thereafter. Following September, there’s a signif
 3. **China is beginning to rebound post-lockdowns**. While the longer-term pressures on the economy are still very relevant, including clampdowns on major growth sectors, the immediate effect of major ports and cities coming back into production should be greatly beneficial for inflation.
 4. **Fossil fuel prices could come down.**Oil demand and supply are coming back in equilibrium. By some[sources](https://www.gzeromedia.com/viewpoint/does-the-world-really-need-more-oil-right-now), supply may even exceed demand. This should put meaningful downside pressure in fossil fuels. Additionally, while quantitative tightening hasn’t started, we have seen evidence of market deleveraging. This should also reduce speculation on the futures markets.
 
-![Market Chart 4](assets/2022-07-06_weekly-comment-the-great-deflation-of-2023_img_unnamed28729_fdaac6284102.jpg)
+![Market Chart 4](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-07-06_weekly-comment-the-great-deflation-of-2023_img_unnamed28729_fdaac6284102.jpg)
 
 > **Figure 4: Market Chart 4**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-07-06_weekly-comment-the-great-deflation-of-2023_img_unnamed28729_fdaac6284102.jpg)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-07-06_weekly-comment-the-great-deflation-of-2023_img_unnamed28729_fdaac6284102.jpg)
 
 What would follow this, incredible by globalisation standards, inflation bout? An above-trend inflation, or deflation?
 

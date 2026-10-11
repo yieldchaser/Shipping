@@ -82,6 +82,32 @@ As China and the United States fight it out over who can consume more oil faster
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: The Rise of Oil Empires](../../../charts/poten/2005/poten_2005-07-15_the-rise-of-oil-empires_chart1.png)
+> **Chart on PDF page 1: Oil Production S. America**  
+> Unit: 000 Bpd · X-axis: 1965 to 2000  
+> Series: Net Exports, Consumption  
+> *Source: BP Energy Statistics/Poten*  
+> *No image crop of this chart was saved; caption read from the PDF.*
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2005/poten_2005-07-15_the-rise-of-oil-empires_chart1.png)
+> **Chart on PDF page 2: Oil Production Africa**  
+> Unit: 000 Bpd · X-axis: 1965 to 2000  
+> Series: Net Exports, Consumption  
+> *Source: BP Energy Statistics/Poten*  
+> *No image crop of this chart was saved; caption read from the PDF.*
+
+> **Chart on PDF page 3: FSU Oil Production**  
+> Unit: 000 Bpd · X-axis: 1985 to 2003  
+> Series: Uzbekistan, Turkmenistan, Azerbaijan, Kazakhstan, Russia  
+> *Source: BP Energy Statistics/Poten*  
+> *No image crop of this chart was saved; caption read from the PDF.*
+
+> **Chart on PDF page 3: Oil Production FSU**  
+> Unit: 000 Bpd · X-axis: 1985 to 2003  
+> Series: Net Exports, Consumption  
+> *Source: BP Energy Statistics/Poten*  
+> *No image crop of this chart was saved; caption read from the PDF.*
+
+> **Chart on PDF page 4: AG Oil Production**  
+> Unit: 000 Bpd · X-axis: 1985 to 2003  
+> Series: Oman, Qatar, Iraq, Kuwait, UAE, Iran, S. Arabia  
+> *Source: BP Energy Statistics/Poten*  
+> *No image crop of this chart was saved; caption read from the PDF.*

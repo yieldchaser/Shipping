@@ -33,7 +33,7 @@ tags:
 
 > **Figure 1: Data Source: The Signal Ocean Platform**  
 > *Data Source: The Signal Ocean Platform*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/tanker-week-13-2024) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/660583fe43b1bfe43b41e324_Aframax Dirty Tonne Days.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/tanker-week-13-2024) | [Local Asset](../../../../../../corpus/07-signal/images/660583fe43b1bfe43b41e324_Aframax%20Dirty%20Tonne%20Days.png)
 
 As March draws to a close, the crude freight market is witnessing a softening momentum in VLCC MEG-China rates, juxtaposed with continued weekly growth in demand tonne days. Notably, the Aframax cross Mediterranean rates have rebounded, spurred by an accelerated pace of growth in dirty tonne days since mid-March (refer to the image above).
 

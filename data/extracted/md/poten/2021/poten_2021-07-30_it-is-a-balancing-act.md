@@ -30,10 +30,17 @@ Are VLCC's doomed? Not at all! The market can (and most likely will) bounce back
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: It Is A Balancing Act](../../../charts/poten/2021/poten_2021-07-30_it-is-a-balancing-act_chart1.png)
+![Exhibit 1: VLCC Supply vs TM Demand](../../../charts/poten/2021/poten_2021-07-30_it-is-a-balancing-act_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2021/poten_2021-07-30_it-is-a-balancing-act_chart1.png)
+> **Exhibit 1: VLCC Supply vs TM Demand**  
+> Unit: Count | Bn TM · X-axis: Jan-14 to Feb-21  
+> Series: Fleet Count, TM Demand  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2021/poten_2021-07-30_it-is-a-balancing-act_chart1.png)
 
-![Exhibit 2: It Is A Balancing Act](../../../charts/poten/2021/poten_2021-07-30_it-is-a-balancing-act_chart2.png)
+![Exhibit 2: Productivity (TM/VLCC) vs TCE](../../../charts/poten/2021/poten_2021-07-30_it-is-a-balancing-act_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2021/poten_2021-07-30_it-is-a-balancing-act_chart2.png)
+> **Exhibit 2: Productivity (TM/VLCC) vs TCE**  
+> Unit: Bn TM/VLCC | x$1,000 · X-axis: Jan-14 to Feb-21  
+> Series: TM/VLCC, TD3 TCE  
+> *Source: Lloyd’s List Intelligence; Poten*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2021/poten_2021-07-30_it-is-a-balancing-act_chart2.png)

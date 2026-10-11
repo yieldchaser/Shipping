@@ -72,11 +72,11 @@ With Voyages Data API you can develop insights from where all ships on water hav
 - Combine vessels trading patterns with relevant Fixture data
 
 
-![An Indicative Dashboard Created by Voyages API Data](../../images/66eab29a53002021b08e8469_66eaafc7b96895f8d810d5b9_Screenshot%202024-09-18%20at%2011.47.15.avif)
+![An Indicative Dashboard Created by Voyages API Data](../../images/66eab29a53002021b08e8469_66eaafc7b96895f8d810d5b9_Screenshot%25202024-09-18%2520at%252011.47.15.avif)
 
 > **Figure 1: An Indicative Dashboard Created by Voyages API Data**  
 > *An indicative dashboard created by Voyages API data*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/maritime-data-api-and-sdk) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/66eab29a53002021b08e8469_66eaafc7b96895f8d810d5b9_Screenshot%202024-09-18%20at%2011.47.15.avif)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/maritime-data-api-and-sdk) | [Local Asset](../../../../../../corpus/07-signal/images/66eab29a53002021b08e8469_66eaafc7b96895f8d810d5b9_Screenshot%25202024-09-18%2520at%252011.47.15.avif)
 
 
 ## Daily Vessel State API
@@ -91,10 +91,10 @@ The Daily Vessel State API provides historical data and real-time updates on the
 - Incident Response: Quickly identify and respond to incidents or anomalies in vessel operations.
 
 
-![Daily Vessel State API](../../images/66eab29a53002021b08e846c_66eab0dae06295ef0b06c99e_Screenshot%202024-09-18%20at%2011.50.26.avif)
+![Daily Vessel State API](../../images/66eab29a53002021b08e846c_66eab0dae06295ef0b06c99e_Screenshot%25202024-09-18%2520at%252011.50.26.avif)
 
 > **Figure 2: Daily Vessel State API**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/maritime-data-api-and-sdk) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/66eab29a53002021b08e846c_66eab0dae06295ef0b06c99e_Screenshot%202024-09-18%20at%2011.50.26.avif)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/maritime-data-api-and-sdk) | [Local Asset](../../../../../../corpus/07-signal/images/66eab29a53002021b08e846c_66eab0dae06295ef0b06c99e_Screenshot%25202024-09-18%2520at%252011.50.26.avif)
 
 
 ## Tonnage List API
@@ -111,7 +111,7 @@ With the Signal Tonnage List API you can monitor how actual vessel supply has ev
 ![Tonnage List API](../../images/66b51de8de38288155690503_622b5a33e6631a69db362cfa_Tonnage-List-API.avif)
 
 > **Figure 3: Tonnage List API**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/maritime-data-api-and-sdk) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/66b51de8de38288155690503_622b5a33e6631a69db362cfa_Tonnage-List-API.avif)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/maritime-data-api-and-sdk) | [Local Asset](../../../../../../corpus/07-signal/images/66b51de8de38288155690503_622b5a33e6631a69db362cfa_Tonnage-List-API.avif)
 
 
 ## Scraped Data API
@@ -133,7 +133,7 @@ Some questions that the user can answer:
 ![Scraped Data API](../../images/66b51de8de382881556904fd_622b5a485b53ba240f26c35e_Scraped-Data-API.avif)
 
 > **Figure 4: Scraped Data API**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/maritime-data-api-and-sdk) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/66b51de8de382881556904fd_622b5a485b53ba240f26c35e_Scraped-Data-API.avif)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/maritime-data-api-and-sdk) | [Local Asset](../../../../../../corpus/07-signal/images/66b51de8de382881556904fd_622b5a485b53ba240f26c35e_Scraped-Data-API.avif)
 
 
 ## Vessel Emissions API
@@ -147,11 +147,11 @@ With[maritime decarbonisation](https://www.thesignalgroup.com/newsroom/maritime-
 - Analyse EEOI, AER, CII, alignment scores, and rank vessels against the industry standards (IMO, Poseidon Principles, Sea Cargo Charterer)
 
 
-![An Indicative Dashboard Created by Vessel Emissions API Data](../../images/66eab29a53002021b08e8456_66eab135c22988d55d7ac897_Screenshot%202024-09-18%20at%2011.53.27.avif)
+![An Indicative Dashboard Created by Vessel Emissions API Data](../../images/66eab29a53002021b08e8456_66eab135c22988d55d7ac897_Screenshot%25202024-09-18%2520at%252011.53.27.avif)
 
 > **Figure 5: An Indicative Dashboard Created by Vessel Emissions API Data**  
 > *An indicative dashboard created by Vessel Emissions API data*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/maritime-data-api-and-sdk) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/66eab29a53002021b08e8456_66eab135c22988d55d7ac897_Screenshot%202024-09-18%20at%2011.53.27.avif)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/maritime-data-api-and-sdk) | [Local Asset](../../../../../../corpus/07-signal/images/66eab29a53002021b08e8456_66eab135c22988d55d7ac897_Screenshot%25202024-09-18%2520at%252011.53.27.avif)
 
 
 ## Vessels API
@@ -170,7 +170,7 @@ With the Vessels API you can find the answer to the following questions:
 ![Vessels API](../../images/66b51de8de382881556904fa_622b6f89e6ce8b1b34ba5d89_Vessels-API.avif)
 
 > **Figure 6: Vessels API**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/maritime-data-api-and-sdk) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/66b51de8de382881556904fa_622b6f89e6ce8b1b34ba5d89_Vessels-API.avif)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/maritime-data-api-and-sdk) | [Local Asset](../../../../../../corpus/07-signal/images/66b51de8de382881556904fa_622b6f89e6ce8b1b34ba5d89_Vessels-API.avif)
 
 
 ## Vessel Distances API
@@ -186,7 +186,7 @@ Accurate routes and sea distance calculation are critical in taking the right de
 ![Vessel Distances API](../../images/66b51de8de38288155690509_622b5a6e86571a2cf2ddef9a_Distance-API.avif)
 
 > **Figure 7: Vessel Distances API**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/maritime-data-api-and-sdk) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/66b51de8de38288155690509_622b5a6e86571a2cf2ddef9a_Distance-API.avif)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/maritime-data-api-and-sdk) | [Local Asset](../../../../../../corpus/07-signal/images/66b51de8de38288155690509_622b5a6e86571a2cf2ddef9a_Distance-API.avif)
 
 
 ## Market Rates API
@@ -200,10 +200,10 @@ The Market Rates API offers access to historical and current market rates across
 - Strategic Planning: Develop strategic plans for fleet deployment and chartering decisions based on comprehensive market data.
 
 
-![Market Rates API](../../images/66eab29a53002021b08e846f_66eab1b2acbe8b531f3d7cde_Screenshot%202024-09-18%20at%2011.55.15.avif)
+![Market Rates API](../../images/66eab29a53002021b08e846f_66eab1b2acbe8b531f3d7cde_Screenshot%25202024-09-18%2520at%252011.55.15.avif)
 
 > **Figure 8: Market Rates API**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/maritime-data-api-and-sdk) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/66eab29a53002021b08e846f_66eab1b2acbe8b531f3d7cde_Screenshot%202024-09-18%20at%2011.55.15.avif)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/maritime-data-api-and-sdk) | [Local Asset](../../../../../../corpus/07-signal/images/66eab29a53002021b08e846f_66eab1b2acbe8b531f3d7cde_Screenshot%25202024-09-18%2520at%252011.55.15.avif)
 
 
 ## Geos API
@@ -232,7 +232,7 @@ With a wealth of data on recent fixtures, reported market assessments, port cost
 ![Freight API](../../images/66b51de9de38288155690667_622b5a7e2118be0dfb804121_Freight-API.avif)
 
 > **Figure 9: Freight API**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/maritime-data-api-and-sdk) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/66b51de9de38288155690667_622b5a7e2118be0dfb804121_Freight-API.avif)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/maritime-data-api-and-sdk) | [Local Asset](../../../../../../corpus/07-signal/images/66b51de9de38288155690667_622b5a7e2118be0dfb804121_Freight-API.avif)
 
 
 ## Vessel Valuation API
@@ -248,7 +248,7 @@ The Vessel Valuations API helps you estimate the current and historical price of
 ![Vessel Valuation API](../../images/66b51de8de38288155690500_622b6ff01ff829c0bd5023be_Vessel-Valuations-API.avif)
 
 > **Figure 10: Vessel Valuation API**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/maritime-data-api-and-sdk) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/66b51de8de38288155690500_622b6ff01ff829c0bd5023be_Vessel-Valuations-API.avif)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/maritime-data-api-and-sdk) | [Local Asset](../../../../../../corpus/07-signal/images/66b51de8de38288155690500_622b6ff01ff829c0bd5023be_Vessel-Valuations-API.avif)
 
 
 ## Port Expenses API
@@ -263,7 +263,7 @@ Port expenses are an important and difficult to track financial aspect of any co
 ![Port Expenses API](../../images/66b51de8de38288155690506_622b766be0c5eb8050fb3cc9_Port-Expenses-API.avif)
 
 > **Figure 11: Port Expenses API**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/maritime-data-api-and-sdk) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/66b51de8de38288155690506_622b766be0c5eb8050fb3cc9_Port-Expenses-API.avif)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/maritime-data-api-and-sdk) | [Local Asset](../../../../../../corpus/07-signal/images/66b51de8de38288155690506_622b766be0c5eb8050fb3cc9_Port-Expenses-API.avif)
 
 
 ## Signal APIs to Help Startups Accelerate Their Product Growth

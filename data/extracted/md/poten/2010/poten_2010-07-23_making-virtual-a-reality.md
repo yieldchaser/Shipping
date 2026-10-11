@@ -74,4 +74,4 @@ Well intentioned as they may be, any attempts to change well‐worn shipping pra
 
 ![Exhibit 1: Making Virtual A Reality](../../../charts/poten/2010/poten_2010-07-23_making-virtual-a-reality_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2010/poten_2010-07-23_making-virtual-a-reality_chart1.png)
+> **Interactive Asset:** [Local Asset (200 DPI PNG)](../../../charts/poten/2010/poten_2010-07-23_making-virtual-a-reality_chart1.png)

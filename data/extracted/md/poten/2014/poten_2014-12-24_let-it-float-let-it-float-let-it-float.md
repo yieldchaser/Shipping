@@ -34,10 +34,18 @@ Large scale floating storage could provide a significant boost to the tanker mar
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: Let it Float, Let it Float, Let it Float](../../../charts/poten/2014/poten_2014-12-24_let-it-float-let-it-float-let-it-float_chart1.png)
+![Exhibit 1: Brent Contango Over Time](../../../charts/poten/2014/poten_2014-12-24_let-it-float-let-it-float-let-it-float_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2014/poten_2014-12-24_let-it-float-let-it-float-let-it-float_chart1.png)
+> **Exhibit 1: Brent Contango Over Time**  
+> Unit: Spread to Spot Price · X-axis: Spot to Front+24  
+> Series: 12/23/2014, 10/20/2014, 8/20/2014, 6/20/2014, 1/2/2009  
+> *Source: Bloomberg*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2014/poten_2014-12-24_let-it-float-let-it-float-let-it-float_chart1.png)
 
-![Exhibit 2: Let it Float, Let it Float, Let it Float](../../../charts/poten/2014/poten_2014-12-24_let-it-float-let-it-float-let-it-float_chart2.png)
+![Exhibit 2: Demand/Supply Balance until 2Q15](../../../charts/poten/2014/poten_2014-12-24_let-it-float-let-it-float-let-it-float_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2014/poten_2014-12-24_let-it-float-let-it-float-let-it-float_chart2.png)
+> **Exhibit 2: Demand/Supply Balance until 2Q15**  
+> Unit: mb/d | mb/d · X-axis: 1Q09 to 1Q15  
+> Series: Implied Stock Ch.&Misc to Bal (RHS), Oil Demand, Oil Supply  
+> *Source: IEA*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2014/poten_2014-12-24_let-it-float-let-it-float-let-it-float_chart2.png)

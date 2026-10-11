@@ -40,6 +40,7 @@ Tanker company stock prices at all time highs reflecting investors' belief that 
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: Happy Thanksgiving!](../../../charts/poten/2004/poten_2004-11-24_happy-thanksgiving_chart1.png)
-
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2004/poten_2004-11-24_happy-thanksgiving_chart1.png)
+> **Chart on PDF page 1: PTI vs Lazard Index**  
+> X-axis: Jan-2002 to Nov-2004  
+> Series: Poten Freight Index, Lazard Equity Index  
+> *No image crop of this chart was saved; caption read from the PDF.*

@@ -26,18 +26,23 @@ Despite these bearish demand signals, Chinese crude oil imports have held up rem
 
 It remains to be seen what Chinese refiners will do if/when some of these sanctions are lifted and prices for Russian, Iranian and Venezuelan crudes move closer to global benchmarks like Brent, WTI or Dubai.
 
-One factor that received limited attention in the past is that China itself is a significant oil producer and has increased its output in recent years. Through the 2010s, Chinese oil production responded to international oil prices and after reaching a peak in 2015, China's output dipped with lower oil prices. However, since 2019, the Chinese government has increased its focus on sustained domestic production to ensure energy security. According to the IEA, China's production reached 4.34 Mb/d in 2024, growing to 4.42 Mb/d in 2025. The share of production from the legacy Daqing oil field (which is 65 years old) has declined over the years, from 43% in 1995 to 16% in 2024. Production from offshore oilfields (Bohai and South China Sea) is rising and some of the barrels are even exported (see [Chart 2](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2025/poten_2025-11-14_no-more-chinese-tailwinds_chart2.png)), mainly to regional refiners in South Korea, Singapore and Japan. China also has significant (largely untapped) shale oil reserves. China targets production from shale to reach at least 100,000 b/d with the potential for much higher output.
+One factor that received limited attention in the past is that China itself is a significant oil producer and has increased its output in recent years. Through the 2010s, Chinese oil production responded to international oil prices and after reaching a peak in 2015, China's output dipped with lower oil prices. However, since 2019, the Chinese government has increased its focus on sustained domestic production to ensure energy security. According to the IEA, China's production reached 4.34 Mb/d in 2024, growing to 4.42 Mb/d in 2025. The share of production from the legacy Daqing oil field (which is 65 years old) has declined over the years, from 43% in 1995 to 16% in 2024. Production from offshore oilfields (Bohai and South China Sea) is rising and some of the barrels are even exported (see [Chart 2](../../../charts/poten/2025/poten_2025-11-14_no-more-chinese-tailwinds_chart2.png)), mainly to regional refiners in South Korea, Singapore and Japan. China also has significant (largely untapped) shale oil reserves. China targets production from shale to reach at least 100,000 b/d with the potential for much higher output.
 
-> **Exhibit 2: No More Chinese Tailwinds (Chart 2)**  
-> *Source: Poten & Partners*  
-> **Interactive Data & Source:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2025/poten_2025-11-14_no-more-chinese-tailwinds_chart2.png)
+> **Exhibit 2: China Seaborne Crude Oil Exports**  
+> Unit: Kb/d · X-axis: Jan-16 to Sep-25  
+> Series: South Korea, Singapore, Japan, Malaysia, China, United States, India, Thailand, Other  
+> *Source: Vortexa*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2025/poten_2025-11-14_no-more-chinese-tailwinds_chart2.png)
 
-![Exhibit 2: No More Chinese Tailwinds](../../../charts/poten/2025/poten_2025-11-14_no-more-chinese-tailwinds_chart2.png)
+![Exhibit 2: China Seaborne Crude Oil Exports](../../../charts/poten/2025/poten_2025-11-14_no-more-chinese-tailwinds_chart2.png)
 
 China's oil demand is likely to peak within the next decade. As strategic reserves reach their target levels and domestic production is on the upswing, we could see Chinese seaborne crude imports decline in the not-too-distant future, something tanker owners would have considered unthinkable a decade ago.
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: No More Chinese Tailwinds](../../../charts/poten/2025/poten_2025-11-14_no-more-chinese-tailwinds_chart1.png)
+![Exhibit 1: China: Seaborne Crude Oil Imports by Origin](../../../charts/poten/2025/poten_2025-11-14_no-more-chinese-tailwinds_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2025/poten_2025-11-14_no-more-chinese-tailwinds_chart1.png)
+> **Exhibit 1: China: Seaborne Crude Oil Imports by Origin**  
+> Unit: Kb/d · X-axis: Jan-16 to Oct-25  
+> Series: Saudi Arabia, Iraq, Russia, Angola, Oman, Iran, Brazil, United Arab Emirates, Other  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2025/poten_2025-11-14_no-more-chinese-tailwinds_chart1.png)

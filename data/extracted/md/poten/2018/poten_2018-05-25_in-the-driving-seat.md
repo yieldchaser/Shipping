@@ -26,10 +26,18 @@ So, while tanker owners should not get too excited about the start of the summer
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: In The Driving Seat](../../../charts/poten/2018/poten_2018-05-25_in-the-driving-seat_chart1.png)
+![Exhibit 1: Weekly U.S. Gasoline Sales](../../../charts/poten/2018/poten_2018-05-25_in-the-driving-seat_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2018/poten_2018-05-25_in-the-driving-seat_chart1.png)
+> **Exhibit 1: Weekly U.S. Gasoline Sales**  
+> Unit: Kb/d · X-axis: 1 to 51  
+> Series: 5 yr Range, 2017, 2018  
+> *Source: EIA*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2018/poten_2018-05-25_in-the-driving-seat_chart1.png)
 
-![Exhibit 2: In The Driving Seat](../../../charts/poten/2018/poten_2018-05-25_in-the-driving-seat_chart2.png)
+![Exhibit 2: U.S. Imports and Exports of Gasoline and Blending](../../../charts/poten/2018/poten_2018-05-25_in-the-driving-seat_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2018/poten_2018-05-25_in-the-driving-seat_chart2.png)
+> **Exhibit 2: U.S. Imports and Exports of Gasoline and Blending**  
+> Unit: Kb/d · X-axis: Jan-10 to Jan-18  
+> Series: Exports, Imports, Net  
+> *Source: EIA*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2018/poten_2018-05-25_in-the-driving-seat_chart2.png)

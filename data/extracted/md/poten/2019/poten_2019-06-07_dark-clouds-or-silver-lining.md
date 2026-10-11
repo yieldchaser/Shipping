@@ -32,10 +32,18 @@ The development of oil prices from here will probably have a big impact on the o
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: Dark Clouds or Silver Lining](../../../charts/poten/2019/poten_2019-06-07_dark-clouds-or-silver-lining_chart1.png)
+![Exhibit 1: World Oil Demand Growth (early reporters), YoY, Kb/d](../../../charts/poten/2019/poten_2019-06-07_dark-clouds-or-silver-lining_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2019/poten_2019-06-07_dark-clouds-or-silver-lining_chart1.png)
+> **Exhibit 1: World Oil Demand Growth (early reporters), YoY, Kb/d**  
+> Unit: Kb/d · X-axis: Jan-14 to Jan-19  
+> Series: World Oil Demand Growth  
+> *Source: Morgan Stanley*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2019/poten_2019-06-07_dark-clouds-or-silver-lining_chart1.png)
 
-![Exhibit 2: Dark Clouds or Silver Lining](../../../charts/poten/2019/poten_2019-06-07_dark-clouds-or-silver-lining_chart2.png)
+![Exhibit 2: Brent Crude Oil Price](../../../charts/poten/2019/poten_2019-06-07_dark-clouds-or-silver-lining_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2019/poten_2019-06-07_dark-clouds-or-silver-lining_chart2.png)
+> **Exhibit 2: Brent Crude Oil Price**  
+> Unit: $/bbl · X-axis: 1-Jan-19 to 1-Jun-19  
+> Series: Brent Crude Oil Price  
+> *Source: Bloomberg*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2019/poten_2019-06-07_dark-clouds-or-silver-lining_chart2.png)

@@ -25,11 +25,11 @@ tags:
 
 *Published on 09 July 2025*
 
-![Https://app.signalocean.com/dry/dynamic/drybulkflows-Downloadable](../../images/686ecb37eefc0a47100e7c3e_AD_4nXdxaGCOz4hveSSSzDu0pNJJPcabtuDY1siNyP1taGMMrjmix9GFrKgddpnpLRG_ucPc_ATDvuaOH5GDY0NHt0pzSfhl_ZvnsWnCodjG9IWroRJMWhsQkPPkMYi3h2ClV7UCyUn0kw.png)
+![Https://app.signalocean.com/dry/dynamic/drybulkflows-Downloadable](../../../../../../corpus/07-signal/images/686ecb37eefc0a47100e7c3e_AD_4nXdxaGCOz4hveSSSzDu0pNJJPcabtuDY1siNyP1taGMMrjmix9GFrKgddpnpLRG_ucPc_ATDvuaOH5GDY0NHt0pzSfhl_ZvnsWnCodjG9IWroRJMWhsQkPPkMYi3h2ClV7UCyUn0kw.png)
 
 > **Figure 1: Https://app.signalocean.com/dry/dynamic/drybulkflows-Downloadable**  
 > *https://app.signalocean.com/dry/dynamic/drybulkflows-downloadable*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/dry-week-28-2025) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/686ecb37eefc0a47100e7c3e_AD_4nXdxaGCOz4hveSSSzDu0pNJJPcabtuDY1siNyP1taGMMrjmix9GFrKgddpnpLRG_ucPc_ATDvuaOH5GDY0NHt0pzSfhl_ZvnsWnCodjG9IWroRJMWhsQkPPkMYi3h2ClV7UCyUn0kw.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/dry-week-28-2025) | [Local Asset](../../../../../../corpus/07-signal/images/686ecb37eefc0a47100e7c3e_AD_4nXdxaGCOz4hveSSSzDu0pNJJPcabtuDY1siNyP1taGMMrjmix9GFrKgddpnpLRG_ucPc_ATDvuaOH5GDY0NHt0pzSfhl_ZvnsWnCodjG9IWroRJMWhsQkPPkMYi3h2ClV7UCyUn0kw.png)
 
 This week’s **Chart Monitor highlights increasing constraints on Brazilian corn exports*,*** even as the country nears its second-largest harvest on record. Brazil’s National Supply Company (Conab) projects 2024–2025 corn production at nearly 5 billion bushels (about 126.2 million metric tons), a 10% year-over-year increase fueled by favorable weather in April and May, which boosted yields across key producing states, especially for the [second crop](https://ukragroconsult.com/en/news/record-harvest-of-safrinha-corn-in-brazil/) (safrinha), which makes up roughly 78% of national output.
 

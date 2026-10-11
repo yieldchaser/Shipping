@@ -29,17 +29,17 @@ source_file: "corpus/03-breakwave/insights/2023/2023-09-05_capitalism-101-watch-
 
 “Sell in May and go away”, the old traders say. This is not because markets fall in the summer. It is because volumes are low and signals are not trustworthy. In September traders return, and the month is usually the second worst for stocks.
 
-![Market Chart 1](assets/2023-09-05_capitalism-101-watch-the-fed-buy-the-dips_img_image00228429_f995fc5b79d6.jpg)
+![Market Chart 1](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-09-05_capitalism-101-watch-the-fed-buy-the-dips_img_image00228429_f995fc5b79d6.jpg)
 
 > **Figure 1: Market Chart 1**  
-> **Interactive Data & Source:** [Searchenginejournal](https://www.searchenginejournal.com/is-chatgpt-getting-dumber-usage-drops-as-users-complain/491659/#close) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-09-05_capitalism-101-watch-the-fed-buy-the-dips_img_image00228429_f995fc5b79d6.jpg)
+> **Interactive Data & Source:** [Searchenginejournal](https://www.searchenginejournal.com/is-chatgpt-getting-dumber-usage-drops-as-users-complain/491659/#close) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-09-05_capitalism-101-watch-the-fed-buy-the-dips_img_image00228429_f995fc5b79d6.jpg)
 
 Despite robots doing much of the work these days, trading volumes in the summer were quite muted. Their human masters, it seems, don’t quite trust them with the shop while they are away. Why would they, by the way? ChatGPT, the face of the AI revolution, is losing subscribers and some of its[lustre](https://www.searchenginejournal.com/is-chatgpt-getting-dumber-usage-drops-as-users-complain/491659/#close), as users complain that the model gives more wrong answers. To be sure, OpenAI says that’s not the case, they are just using it more and noticing stuff they didn’t before. Others say that the world experienced through the internet and social media is bound to make any intelligence dumber. I’m no expert either way (primarily because no human would admit they have gotten dumber by being glued to their phone), but it seems that we are at the “peak of inflated expectations”, the phase where the tech hype is wearing off and practical realities set in.
 
-![Market Chart 2](assets/2023-09-05_capitalism-101-watch-the-fed-buy-the-dips_img_image00328129_3d5dddb4c579.png)
+![Market Chart 2](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-09-05_capitalism-101-watch-the-fed-buy-the-dips_img_image00328129_3d5dddb4c579.png)
 
 > **Figure 2: Market Chart 2**  
-> **Interactive Data & Source:** [Bbc](https://www.bbc.com/news/business-66506132) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-09-05_capitalism-101-watch-the-fed-buy-the-dips_img_image00328129_3d5dddb4c579.png)
+> **Interactive Data & Source:** [Bbc](https://www.bbc.com/news/business-66506132) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-09-05_capitalism-101-watch-the-fed-buy-the-dips_img_image00328129_3d5dddb4c579.png)
 
 But I digress. As we approach the final third of the year, let us look at where we are and how we got here. The first half was supposed to be bleak. Yet global economic growth far outperformed expectations. This was due to China reopening and a long-time needed inventory buildup. Consumers were also much more resilient than anticipated. Markets also performed very well, as the AI craze gripped traders until the summer, so press headlines added to the optimism.
 
@@ -53,9 +53,9 @@ If September is usually a bad month for stocks, we can see how the immediate dat
 
 **To reiterate: with rates near the flattening point, market retrenchments may again be buying signals. And while with QT persisting we are nowhere near the persistent low-volatility bull market we got used to in the past decade, a shift from sideways trading to a volatile upward trend is already happening.**
 
-![Market Chart 3](assets/2023-09-05_capitalism-101-watch-the-fed-buy-the-dips_img_image006281429_0b859d50fcf1.jpg)
+![Market Chart 3](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-09-05_capitalism-101-watch-the-fed-buy-the-dips_img_image006281429_0b859d50fcf1.jpg)
 
 > **Figure 3: Market Chart 3**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-09-05_capitalism-101-watch-the-fed-buy-the-dips_img_image006281429_0b859d50fcf1.jpg)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-09-05_capitalism-101-watch-the-fed-buy-the-dips_img_image006281429_0b859d50fcf1.jpg)
 
 **We can take advantage of it if we can weather the occasional storm and crisis. In this environment, tactical asset allocation, security and industry selection will matter significantly over the next few quarters.**

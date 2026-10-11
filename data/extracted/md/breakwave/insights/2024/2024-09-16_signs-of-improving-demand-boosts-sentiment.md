@@ -24,11 +24,11 @@ Metal markets gained amid signs of improving demand. Easing supply disruptions s
 
 *By*[*Daniel Hynes*](https://www.linkedin.com/in/dahynes/)
 
-![Prices and Commentary Accurate As of 07:00 Sydney/05:00](assets/2024-09-16_signs-of-improving-demand-boosts-sentiment_img_241_3c8ad036bdf6.png)
+![Prices and Commentary Accurate As of 07:00 Sydney/05:00](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-09-16_signs-of-improving-demand-boosts-sentiment_img_241_3c8ad036bdf6.png)
 
 > **Figure 1: Prices and Commentary Accurate As of 07:00 Sydney/05:00**  
 > *Prices and commentary accurate as of 07:00 Sydney/05:00 Singapore/17:00(-1d) New York/22:00(-1d) London.*  
-> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-09-16_signs-of-improving-demand-boosts-sentiment_img_241_3c8ad036bdf6.png)
+> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-09-16_signs-of-improving-demand-boosts-sentiment_img_241_3c8ad036bdf6.png)
 
 ### Market Commentary
 
@@ -46,10 +46,10 @@ A weaker USD helped spur renewed investor interest in the**base metals**sector.*
 
 Further weakness in China's economy could see Beijing introduce more stimulus measures.
 
-![242](assets/2024-09-16_signs-of-improving-demand-boosts-sentiment_img_242_1b830cd0cd20.png)
+![242](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-09-16_signs-of-improving-demand-boosts-sentiment_img_242_1b830cd0cd20.png)
 
 > **Figure 2: 242**  
-> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-09-16_signs-of-improving-demand-boosts-sentiment_img_242_1b830cd0cd20.png)
+> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-09-16_signs-of-improving-demand-boosts-sentiment_img_242_1b830cd0cd20.png)
 
 Data source:[Commodities Wrap](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI)
 

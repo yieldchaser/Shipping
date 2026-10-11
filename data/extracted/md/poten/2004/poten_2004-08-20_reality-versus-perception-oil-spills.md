@@ -66,6 +66,14 @@ The tanker industry has its work cut out for itself to improve its credibility w
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: Reality Versus Perception: Oil Spills](../../../charts/poten/2004/poten_2004-08-20_reality-versus-perception-oil-spills_chart1.png)
+> **Chart on PDF page 1: Petroleum Releases to Environment North America (000 Tons)**  
+> Unit: 000 Tons  
+> Series: Transportation, Consumption, Nature, Extraction  
+> *Source: National Research Council/Poten*  
+> *No image crop of this chart was saved; caption read from the PDF.*
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2004/poten_2004-08-20_reality-versus-perception-oil-spills_chart1.png)
+> **Chart on PDF page 2: Aggregate of Individual Spills over 7 Tons**  
+> Unit: 000 Tons Oil · X-axis: 1970 to 2000  
+> Series: Quantity of oil spilled  
+> *Source: ITOPF/Poten*  
+> *No image crop of this chart was saved; caption read from the PDF.*

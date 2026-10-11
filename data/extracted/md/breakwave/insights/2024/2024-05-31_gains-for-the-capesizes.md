@@ -62,10 +62,10 @@ Rice prices gained ground during the second half of last year as shipments from 
 
 In recent months, we have seen volatile weekly cargo order volumes for rice. While India has reappeared among the world’s leading exporters, volumes are considerably lower than in past years. The past two weeks have seen relatively robust ordering activities for rice loading globally. Still, despite this, the aggregate for the whole of May is around five million tonnes, somewhat below the average for the past eight months. In addition, the monthly global aggregate demand has been trending lower since March, suggesting that the recent downward pressure on prices may prove short-lived.
 
-![Στιγμιότυπο Οθόνης 2024 05 31 165628](assets/2024-05-31_gains-for-the-capesizes_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_44c2522bfaa3.png)
+![Στιγμιότυπο Οθόνης 2024 05 31 165628](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-05-31_gains-for-the-capesizes_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_44c2522bfaa3.png)
 
 > **Figure 1: Στιγμιότυπο Οθόνης 2024 05 31 165628**  
-> **Interactive Data & Source:** [Shipfix](https://shipfix.com/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-05-31_gains-for-the-capesizes_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_44c2522bfaa3.png)
+> **Interactive Data & Source:** [Shipfix](https://shipfix.com/) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-05-31_gains-for-the-capesizes_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_44c2522bfaa3.png)
 
 Data Source:[Shipfix](https://shipfix.com/)
 

@@ -40,10 +40,10 @@ Now looking ahead, the supply side of the orderbook for bulk carriers has been f
 
 This is the backdrop, but reliance on such insight needs to be measured against 'events' to occur, some of which will end up as 'black swan' , and how these affect the landscape as they have done so materially in the last years.
 
-![Στιγμιότυπο Οθόνης 2024 09 09 134544](assets/2024-09-09_fzo0z0yzpgnomzr9pvbgqom50dmkli_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_ebe51006654a.png)
+![Στιγμιότυπο Οθόνης 2024 09 09 134544](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-09-09_fzo0z0yzpgnomzr9pvbgqom50dmkli_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_ebe51006654a.png)
 
 > **Figure 1: Στιγμιότυπο Οθόνης 2024 09 09 134544**  
-> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-09-09_fzo0z0yzpgnomzr9pvbgqom50dmkli_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_ebe51006654a.png)
+> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-09-09_fzo0z0yzpgnomzr9pvbgqom50dmkli_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_ebe51006654a.png)
 
 Data source:[Doric](https://www.doric.gr/)
 

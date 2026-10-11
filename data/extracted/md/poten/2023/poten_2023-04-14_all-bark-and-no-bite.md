@@ -38,8 +38,8 @@ The IEA uses a variety of sources to calculate a weighted average Russian seabor
 
 ![Exhibit 1: All Bark And No Bite](../../../charts/poten/2023/poten_2023-04-14_all-bark-and-no-bite_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2023/poten_2023-04-14_all-bark-and-no-bite_chart1.png)
+> **Interactive Asset:** [Local Asset (200 DPI PNG)](../../../charts/poten/2023/poten_2023-04-14_all-bark-and-no-bite_chart1.png)
 
 ![Exhibit 2: All Bark And No Bite](../../../charts/poten/2023/poten_2023-04-14_all-bark-and-no-bite_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2023/poten_2023-04-14_all-bark-and-no-bite_chart2.png)
+> **Interactive Asset:** [Local Asset (200 DPI PNG)](../../../charts/poten/2023/poten_2023-04-14_all-bark-and-no-bite_chart2.png)

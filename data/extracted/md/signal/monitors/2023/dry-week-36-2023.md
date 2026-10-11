@@ -32,7 +32,7 @@ tags:
 
 > **Figure 1: Data Source: The Signal Ocean Platform Data**  
 > *Data Source: The Signal Ocean Platform Data*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/dry-week-36-2023) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/64f82b3c5193b228ec284559_Panamax ballasters.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/dry-week-36-2023) | [Local Asset](../../../../../../corpus/07-signal/images/64f82b3c5193b228ec284559_Panamax%20ballasters.png)
 
 As September began, freight rates continued to remain firm, as recorded at the end of the summer season. However, the Capesize segment remained under downward pressure. On the other hand, the Panamax and Handysize vessel freight rates showed an upturn. Despite this recent firmness, there are still uncertainties regarding the stability of the market, given the ongoing grain crisis and the gloomy economic outlook in China.
 

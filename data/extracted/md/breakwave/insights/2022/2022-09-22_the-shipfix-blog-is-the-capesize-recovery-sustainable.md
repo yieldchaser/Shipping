@@ -35,28 +35,28 @@ The outlook for the Chinese economy nevertheless remains uncertain, as new Covid
 
 Global cargo ordering activities for Capesizes have been trending higher since the lows observed during the first half of July, when volumes were at the lowest levels since the end of December 2020. Still, the volumes recorded by Shipfix in the past two weeks have failed to maintain much of the momentum that was evident during the latter parts of August. While weekly cargo orders in the segment appear to have stabilised and the last week could still be adjusted higher as some data may be delayed, volumes remain well below the levels seen in the last two years at the same time of the year. However, the current order volumes are reasonably similar to what was seen in September 2019.
 
-![1](assets/2022-09-22_the-shipfix-blog-is-the-capesize-recovery-sustainable_img_1_23bbfc35cfd8.png)
+![1](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-09-22_the-shipfix-blog-is-the-capesize-recovery-sustainable_img_1_23bbfc35cfd8.png)
 
 > **Figure 1: 1**  
-> **Interactive Data & Source:** [Shipfix](https://shipfix.com/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-09-22_the-shipfix-blog-is-the-capesize-recovery-sustainable_img_1_23bbfc35cfd8.png)
+> **Interactive Data & Source:** [Shipfix](https://shipfix.com/) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-09-22_the-shipfix-blog-is-the-capesize-recovery-sustainable_img_1_23bbfc35cfd8.png)
 
 ### Source: Shipfix
 
 The fortunes of the Capesize freight markets have become increasingly associated with those of the Chinese economy, as iron ore and coal shipments to China have occupied a large part of the fleet. Hence, the slowdown in demand from the Chinese buyers that began with Beijing’s clampdown on pollution levels some fifteen months ago and accelerated with the problems in the country’s real estate sector has weighed on global aggregate demand levels. The nature of much of the seaborne transportation of commodities to China onboard Capesizes does not allow it to be captured through cargo order data, as contracts are often long-term. Still, the number of public orders for cargoes bound for China has nevertheless been picking up in the last three weeks following a dip in early August.
 
-![1](assets/2022-09-22_the-shipfix-blog-is-the-capesize-recovery-sustainable_img_1_bf9c7e3c96a0.png)
+![1](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-09-22_the-shipfix-blog-is-the-capesize-recovery-sustainable_img_1_bf9c7e3c96a0.png)
 
 > **Figure 2: 1**  
-> **Interactive Data & Source:** [Shipfix](https://shipfix.com/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-09-22_the-shipfix-blog-is-the-capesize-recovery-sustainable_img_1_bf9c7e3c96a0.png)
+> **Interactive Data & Source:** [Shipfix](https://shipfix.com/) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-09-22_the-shipfix-blog-is-the-capesize-recovery-sustainable_img_1_bf9c7e3c96a0.png)
 
 ### Source: Shipfix
 
 Despite the meagre charter rates seen in the latter parts of last month, the recovery started to build momentum in August as the markets started to absorb excess tonnage. For example, the ordering activities for Capesizes loading in the Atlantic basin picked up sharply in the middle of August and remained elevated into early September. However, in a potentially ominous development, the recovery has run out of steam in the last two weeks.
 
-![1](assets/2022-09-22_the-shipfix-blog-is-the-capesize-recovery-sustainable_img_1_64efdddd9ee2.png)
+![1](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-09-22_the-shipfix-blog-is-the-capesize-recovery-sustainable_img_1_64efdddd9ee2.png)
 
 > **Figure 3: 1**  
-> **Interactive Data & Source:** [Shipfix](https://shipfix.com/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-09-22_the-shipfix-blog-is-the-capesize-recovery-sustainable_img_1_64efdddd9ee2.png)
+> **Interactive Data & Source:** [Shipfix](https://shipfix.com/) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-09-22_the-shipfix-blog-is-the-capesize-recovery-sustainable_img_1_64efdddd9ee2.png)
 
 ### Source: Shipfix
 

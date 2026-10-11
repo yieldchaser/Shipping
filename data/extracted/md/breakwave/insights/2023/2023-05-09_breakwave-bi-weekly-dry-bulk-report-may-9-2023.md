@@ -19,10 +19,10 @@ source_file: "corpus/03-breakwave/insights/2023/2023-05-09_breakwave-bi-weekly-d
 
 ---
 
-![Dbreporttop](assets/2023-05-09_breakwave-bi-weekly-dry-bulk-report-may-9-2023_img_dbreporttop_4c1e8e74ae96.png)
+![Dbreporttop](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-05-09_breakwave-bi-weekly-dry-bulk-report-may-9-2023_img_dbreporttop_4c1e8e74ae96.png)
 
 > **Figure 1: Dbreporttop**  
-> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/publications) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-05-09_breakwave-bi-weekly-dry-bulk-report-may-9-2023_img_dbreporttop_4c1e8e74ae96.png)
+> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/publications) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-05-09_breakwave-bi-weekly-dry-bulk-report-may-9-2023_img_dbreporttop_4c1e8e74ae96.png)
 
 ·**Stability brings optimism, as Capesize spot rates reach 20,000 –**As Capesize rates continue to gently move higher, one can feel an**air of optimism**amongst market participants. After all, with volatility having abated considerably from the highs of the last few years, the lack of steep drops in the spot market has translated to expectations for stronger rates for the rest of the year. On the other hand, the lack of volatility is also the exact reason why the futures curve has slowly converged to spot, thus**flattening the curve**, as the “embedded optionality value” has naturally also declined.**Our view**for**gradual increase**towards the mid-20,000s for Capesize spot rates remains in place, while at the same time we also feel that the current setup is more characteristic of a “**calm before the storm**” type, rather than a fundamental shift towards stability in the market balance. As a result, we expect the month of**June**to be quite**volatile**, and our initial forecast calls for a jump in spot Capesize rates ahead of the fiscal year-end for some of the major Australian miners. The dry bulk market is**better balanced**compared to the last decade, and that calls for higher lows and higher highs absent a significant deterioration in shipping market demand. Finally, looking at the**smaller size dry bulk**segments, we also feel that the**bottom**for spot rates is near, and although seasonality for those segments would call for a muted summer market, the Capesize sector has its way of supporting that smaller vessels during periods of robust rates, something which we think will be the case this time around as well.
 
@@ -32,12 +32,12 @@ source_file: "corpus/03-breakwave/insights/2023/2023-05-09_breakwave-bi-weekly-d
 
 [Subscribe: Bi-Weekly Dry Bulk Report](https://www.breakwaveadvisors.com/publications)
 
-![Dbreportchart](assets/2023-05-09_breakwave-bi-weekly-dry-bulk-report-may-9-2023_img_dbreportchart_794c813cba4e.png)
+![Dbreportchart](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-05-09_breakwave-bi-weekly-dry-bulk-report-may-9-2023_img_dbreportchart_794c813cba4e.png)
 
 > **Figure 2: Dbreportchart**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-05-09_breakwave-bi-weekly-dry-bulk-report-may-9-2023_img_dbreportchart_794c813cba4e.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-05-09_breakwave-bi-weekly-dry-bulk-report-may-9-2023_img_dbreportchart_794c813cba4e.png)
 
-![Dbreportbottom](assets/2023-05-09_breakwave-bi-weekly-dry-bulk-report-may-9-2023_img_dbreportbottom_cddf4f0ad395.png)
+![Dbreportbottom](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-05-09_breakwave-bi-weekly-dry-bulk-report-may-9-2023_img_dbreportbottom_cddf4f0ad395.png)
 
 > **Figure 3: Dbreportbottom**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-05-09_breakwave-bi-weekly-dry-bulk-report-may-9-2023_img_dbreportbottom_cddf4f0ad395.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-05-09_breakwave-bi-weekly-dry-bulk-report-may-9-2023_img_dbreportbottom_cddf4f0ad395.png)

@@ -30,10 +30,10 @@ source_file: "corpus/03-breakwave/insights/2025/2025-05-07_tankers-research-upda
 - Assuming OPEC’s over-producing members do not improve compliance with previously agreed production targets, OPEC+ currently now looks likely to unwind its full 2.2m b/d of voluntary cuts by October or November this year. Saudi has recently signalled it could cope with a prolonged low oil price environment. Observers see Saudi’s actions arising from frustrations over recent overproduction by certain OPEC members, notably Kazakhstan and Iraq, but also to reverse the loss of market share to US shale oil.
 - While lower oil prices open Russian oil exports to a broader base of compliant tankers (that can move Russian oil below the price cap), it also gives western nations – notably the US - greater scope to squeeze oil exports from both Russia and Iran – both of which should support demand for compliant VLCCs.
 
-![9acb Image 0 1746540093621](assets/2025-05-07_tankers-research-update_img_9acb-image-0-1746540093621_b133fba7d784.png)
+![9acb Image 0 1746540093621](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-05-07_tankers-research-update_img_9acb-image-0-1746540093621_b133fba7d784.png)
 
 > **Figure 1: 9acb Image 0 1746540093621**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-05-07_tankers-research-update_img_9acb-image-0-1746540093621_b133fba7d784.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-05-07_tankers-research-update_img_9acb-image-0-1746540093621_b133fba7d784.png)
 
 ### India Steps Up Us Crude Purchases
 
@@ -42,10 +42,10 @@ source_file: "corpus/03-breakwave/insights/2025/2025-05-07_tankers-research-upda
 - Exporters have intensified pressure on New Delhi to conclude a bilateral trade agreement with the US, after President Donald Trump delayed a proposed 26% tariff on Indian goods earlier this month. In-person negotiations are slated to begin in the second half of May.
 - India imported 85k b/d more crude from the US in April than in March, mostly on VLCCs. India also lifted Russian crude imports in April. Shorter-haul crude imports from the Middle East declined in April. Overall India’s crude imports were down 9.5% in April vs March, although imports have since recovered some lost ground.
 
-![Bcae Image 1 1746540093623](assets/2025-05-07_tankers-research-update_img_bcae-image-1-1746540093623_38585421fc36.png)
+![Bcae Image 1 1746540093623](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-05-07_tankers-research-update_img_bcae-image-1-1746540093623_38585421fc36.png)
 
 > **Figure 2: Bcae Image 1 1746540093623**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-05-07_tankers-research-update_img_bcae-image-1-1746540093623_38585421fc36.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-05-07_tankers-research-update_img_bcae-image-1-1746540093623_38585421fc36.png)
 
 ### California Refinery Closures Could Boost Clean Tanker Demand
 

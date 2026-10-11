@@ -30,10 +30,10 @@ In[the first article](https://www.breakwaveadvisors.com/insights/2020/10/22/2021
 
 The coal share in total dry bulk trade measured by volume was 27%* in 2019 and was as such the second largest commodity group. The demand for vessels cannot simply be derived from volume - we need to take distance and trade inefficiencies into account as well - as time spent on the total transport work is what ultimately impacts the aggregated demand for vessels. If we measure the coal share in total dry bulk trade by using the Volume x Duration metric([more details here](https://www.klaveness.com/news/2020/10/30/2021-dry-bulk-outlook-will-iron-ore-export-be-able-to-meet-demand)), we end up with coal having a 20% market share in dry bulk vessel demand in 2019. In the first nine month of 2020 the market share of coal has decreased to 18%.
 
-![Klav 10](assets/2020-11-06_2021-dry-bulk-outlook-coal_img_klav10_7db7adc5cd64.png)
+![Klav 10](../../../../../../corpus/03-breakwave/insights/2020/assets/2020-11-06_2021-dry-bulk-outlook-coal_img_klav10_7db7adc5cd64.png)
 
 > **Figure 1: Klav 10**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2020/assets/2020-11-06_2021-dry-bulk-outlook-coal_img_klav10_7db7adc5cd64.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2020/assets/2020-11-06_2021-dry-bulk-outlook-coal_img_klav10_7db7adc5cd64.png)
 
 If we break it down by segment, we see that 46% of all seaborne coal volumes are carried on Panamaxes, with the Cape segment in second place at 28% and Supras in third place at 20%. If we pivot and instead look at the market share of coal in each vessel segment, we see that while 28% of all seaborne coal is carried on Capesize vessels, only 16% of
 
@@ -47,28 +47,28 @@ Coking coal will continue to be a vital energy source for global steel productio
 
 The thermal coal industry is without doubt under heavy pressure these days. Investors are pulling out of coal related companies in fear of association, whilst local pollution together with global warming, is affecting the public’s and policymakers’ attitude towards coal negatively. However, the rumor of coal’s death is greatly exaggerated in our view.
 
-![Klav 11](assets/2020-11-06_2021-dry-bulk-outlook-coal_img_klav11_82a81ed19ecd.png)
+![Klav 11](../../../../../../corpus/03-breakwave/insights/2020/assets/2020-11-06_2021-dry-bulk-outlook-coal_img_klav11_82a81ed19ecd.png)
 
 > **Figure 2: Klav 11**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2020/assets/2020-11-06_2021-dry-bulk-outlook-coal_img_klav11_82a81ed19ecd.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2020/assets/2020-11-06_2021-dry-bulk-outlook-coal_img_klav11_82a81ed19ecd.png)
 
 The chart above shows all the capacity additions and retirements since 2000 in the global thermal coal fleet in addition to thermal coal plants currently under construction or in various phases of development. The year axis represents actual start for historical periods and the scheduled start for future periods. There will be slippage in the completion year of plants currently under construction so 2020 is unlikely to record as strong growth as indicated by the graph.
 
 Given that the pipeline of projects in the coming five years is considerably lower than the actual additions in the previous 5-year period it seems very likely that the yearly capacity additions will slow down going forward. Also, we should expect retirements in the developed economies to continue at a high level as margins from coal fired electricity production is under pressure from competing sources of energy such as gas and renewables. However, while we do believe that the net growth in coal fired capacity will slow down – both in percentage terms and absolute terms – we are less confident that we will see negative growth in the coming years.
 
-![Klav 12](assets/2020-11-06_2021-dry-bulk-outlook-coal_img_klav12_4c117816b8b9.png)
+![Klav 12](../../../../../../corpus/03-breakwave/insights/2020/assets/2020-11-06_2021-dry-bulk-outlook-coal_img_klav12_4c117816b8b9.png)
 
 > **Figure 3: Klav 12**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2020/assets/2020-11-06_2021-dry-bulk-outlook-coal_img_klav12_4c117816b8b9.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2020/assets/2020-11-06_2021-dry-bulk-outlook-coal_img_klav12_4c117816b8b9.png)
 
 If we drill down and take a closer look at where retirements are happening and where new thermal coal plants are coming on stream the outlook for the seaborne trade looks better. Almost half of the retirements in the last 5 years have occurred in the United States, a country that is not a big coal importer due to abundant domestic coal reserves. In second place we find China with 23% of global retirements. However, new commissions in China has been five times as high in the same period, and China will without doubt continue to expand the size of their thermal coal fleet in the coming years.
 
 In third and fourth place we have the EU and the UK. The trend of high retirements in the EU is set to continue and this is the region where we are most likely to see substantial negative growth levels in coal imports going forward. The UK has decided to phase out coal entirely from the energy system in 2024. But, the positive news for the global seaborne market is that most of the fall in UK imports is already behind us and any further declines will not be significant from a global perspective. Thus, to summarize it is mostly retirements in the EU which will be a negative factor for coal imports in the coming years.
 
-![Klav 13](assets/2020-11-06_2021-dry-bulk-outlook-coal_img_klav13_4a051b15d153.png)
+![Klav 13](../../../../../../corpus/03-breakwave/insights/2020/assets/2020-11-06_2021-dry-bulk-outlook-coal_img_klav13_4a051b15d153.png)
 
 > **Figure 4: Klav 13**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2020/assets/2020-11-06_2021-dry-bulk-outlook-coal_img_klav13_4a051b15d153.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2020/assets/2020-11-06_2021-dry-bulk-outlook-coal_img_klav13_4a051b15d153.png)
 
 Now, let’s have a look at where the thermal coal fleet is growing. The thermal coal fleet pipeline is by far largest in China. However, nowadays there is no direct link between the size of China’s thermal coal fleet and the size of of China’s coal import. The reason is that China also has large coal reserves and the Chinese government is keeping coal imports in check to protect the profitability of domestic miners. Thus, for China there are other forces at play which we will come back to later. The region with the second largest pipeline is Emerging Asia, a region where coal imports has been growing strongly in recent years, a growth that is set to continue in the coming years.
 
@@ -88,10 +88,10 @@ We believe coal loadings to China will increase in November and December even in
 
 Without a policy change imports will be on par with this year. We think a policy change for the worse is unlikely given that the coal price is in the red zone.
 
-![Klav 14](assets/2020-11-06_2021-dry-bulk-outlook-coal_img_klav14_3d25963690f7.png)
+![Klav 14](../../../../../../corpus/03-breakwave/insights/2020/assets/2020-11-06_2021-dry-bulk-outlook-coal_img_klav14_3d25963690f7.png)
 
 > **Figure 5: Klav 14**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2020/assets/2020-11-06_2021-dry-bulk-outlook-coal_img_klav14_3d25963690f7.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2020/assets/2020-11-06_2021-dry-bulk-outlook-coal_img_klav14_3d25963690f7.png)
 
 China is limiting their imports of Australian coal due to an increasingly negative bilateral relationship between the two countries. China can easily live without Australian thermal coal but will find it harder to replace Australian coking coal. It remains to be seen for how long China can maintain their hard stance on import of Australian coking coal, but it is likely to continue to be a negative factor for imports in the coming months.
 
@@ -103,18 +103,18 @@ Indian coal imports were growing steadily in the last 3 years. 2020 import has b
 
 Nevertheless, for 2021 we are confident that imports will increase on the back of a post covid-19 recovery.
 
-![Klav 15](assets/2020-11-06_2021-dry-bulk-outlook-coal_img_klav15_5db922b5840c.png)
+![Klav 15](../../../../../../corpus/03-breakwave/insights/2020/assets/2020-11-06_2021-dry-bulk-outlook-coal_img_klav15_5db922b5840c.png)
 
 > **Figure 6: Klav 15**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2020/assets/2020-11-06_2021-dry-bulk-outlook-coal_img_klav15_5db922b5840c.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2020/assets/2020-11-06_2021-dry-bulk-outlook-coal_img_klav15_5db922b5840c.png)
 
 ### Coal Imports in the Rest of the World in 2021 – Growth in Emerging Asia Will Lead the Way
 
-![All Trade Growth Numbers in This Article Is Derived From Our](assets/2020-11-06_2021-dry-bulk-outlook-coal_img_klav16_027ab0f6f533.png)
+![All Trade Growth Numbers in This Article Is Derived From Our](../../../../../../corpus/03-breakwave/insights/2020/assets/2020-11-06_2021-dry-bulk-outlook-coal_img_klav16_027ab0f6f533.png)
 
 > **Figure 7: All Trade Growth Numbers in This Article Is Derived From Our**  
 > **All trade growth numbers in this article is derived from our in-house analytical platform which includes data and material from AXSMarine, all rights reserved.*  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2020/assets/2020-11-06_2021-dry-bulk-outlook-coal_img_klav16_027ab0f6f533.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2020/assets/2020-11-06_2021-dry-bulk-outlook-coal_img_klav16_027ab0f6f533.png)
 
 Coal imports in the world outside China and India has also been trending higher in recent years as the growth in Asia has more than offset declines in developed economies in the western world. South East Asian imports has grown exponentially in the last three years culminating with a year on year growth rate in imports of about 46% in 2019. Loadings of coal volumes to South East Asian nations has managed to record a solid growth of 19% year to date, in a period where the economies has been hard hit by covid-19. We firmly believe that South Asian imports will continue to grow at a firm pace in 2021.
 

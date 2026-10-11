@@ -28,10 +28,18 @@ Although trade fundamentals support ton-mile growth for the VLCC sector, additio
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: Spring Chickens and More to Hatch](../../../charts/poten/2014/poten_2014-03-21_spring-chickens-and-more-to-hatch_chart1.png)
+![Exhibit 1: VLCC Fleet - Start of 2009](../../../charts/poten/2014/poten_2014-03-21_spring-chickens-and-more-to-hatch_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2014/poten_2014-03-21_spring-chickens-and-more-to-hatch_chart1.png)
+> **Exhibit 1: VLCC Fleet - Start of 2009**  
+> Unit: # Vessels · X-axis: 1984 to 2010  
+> Series: Double-Hull, Single-Hull, Orderbook  
+> *Source: Poten & Partners*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2014/poten_2014-03-21_spring-chickens-and-more-to-hatch_chart1.png)
 
-![Exhibit 2: Spring Chickens and More to Hatch](../../../charts/poten/2014/poten_2014-03-21_spring-chickens-and-more-to-hatch_chart2.png)
+![Exhibit 2: VLCC Fleet - Current](../../../charts/poten/2014/poten_2014-03-21_spring-chickens-and-more-to-hatch_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2014/poten_2014-03-21_spring-chickens-and-more-to-hatch_chart2.png)
+> **Exhibit 2: VLCC Fleet - Current**  
+> Unit: # Vessels · X-axis: 1992 to 2017  
+> Series: Double-Hull, Orderbook  
+> *Source: Poten & Partners*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2014/poten_2014-03-21_spring-chickens-and-more-to-hatch_chart2.png)

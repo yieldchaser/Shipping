@@ -28,10 +28,17 @@ In the medium to long term the oil production trajectory in the U.S. and Canada 
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: Rock versus Sand](../../../charts/poten/2017/poten_2017-04-28_rock-versus-sand_chart1.png)
+![Exhibit 1: U.S. Crude Oil Production](../../../charts/poten/2017/poten_2017-04-28_rock-versus-sand_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2017/poten_2017-04-28_rock-versus-sand_chart1.png)
+> **Exhibit 1: U.S. Crude Oil Production**  
+> Unit: MBpd | % · X-axis: 2000 to 2017 F  
+> Series: Shale Oil, Total U.S., Shale Oil % of Total  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2017/poten_2017-04-28_rock-versus-sand_chart1.png)
 
-![Exhibit 2: Rock versus Sand](../../../charts/poten/2017/poten_2017-04-28_rock-versus-sand_chart2.png)
+![Exhibit 2: Canadian Production versus Exports to the U.S.](../../../charts/poten/2017/poten_2017-04-28_rock-versus-sand_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2017/poten_2017-04-28_rock-versus-sand_chart2.png)
+> **Exhibit 2: Canadian Production versus Exports to the U.S.**  
+> Unit: KBpd | % · X-axis: 2000 to 2016  
+> Series: Exports to US, Crude Oil Production, US Export %  
+> *Source: DOE/EIA*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2017/poten_2017-04-28_rock-versus-sand_chart2.png)

@@ -68,18 +68,33 @@ This still might represent a reasonable risk/reward trade-off for an owner, but 
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: Tanker Earnings and the Value of a Third Special Survey](../../../charts/poten/2012/poten_2012-08-24_tanker-earnings-and-the-value-of-a-third-special-survey_chart1.png)
+![Exhibit 1: VLCC Spot TCE Earnings](../../../charts/poten/2012/poten_2012-08-24_tanker-earnings-and-the-value-of-a-third-special-survey_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2012/poten_2012-08-24_tanker-earnings-and-the-value-of-a-third-special-survey_chart1.png)
+> **Exhibit 1: VLCC Spot TCE Earnings**  
+> Unit: US$000s/day · X-axis: Dec-10 to Dec-13  
+> Series: 260 WAF-USG, 260 AG-Japan, TD3 FFA Curve  
+> *Source: Poten, Baltic Exchange*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2012/poten_2012-08-24_tanker-earnings-and-the-value-of-a-third-special-survey_chart1.png)
 
-![Exhibit 2: Tanker Earnings and the Value of a Third Special Survey](../../../charts/poten/2012/poten_2012-08-24_tanker-earnings-and-the-value-of-a-third-special-survey_chart2.png)
+![Exhibit 2: Dirty Tanker Demolition as a Percent of Fleet](../../../charts/poten/2012/poten_2012-08-24_tanker-earnings-and-the-value-of-a-third-special-survey_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2012/poten_2012-08-24_tanker-earnings-and-the-value-of-a-third-special-survey_chart2.png)
+> **Exhibit 2: Dirty Tanker Demolition as a Percent of Fleet**  
+> Unit: Percent of Fleet · X-axis: 1q06 to 1q12F  
+> *Source: Poten*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2012/poten_2012-08-24_tanker-earnings-and-the-value-of-a-third-special-survey_chart2.png)
 
-![Exhibit 3: Tanker Earnings and the Value of a Third Special Survey](../../../charts/poten/2012/poten_2012-08-24_tanker-earnings-and-the-value-of-a-third-special-survey_chart3.png)
+![Exhibit 3: Dirty Tanker Demolition Age](../../../charts/poten/2012/poten_2012-08-24_tanker-earnings-and-the-value-of-a-third-special-survey_chart3.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2012/poten_2012-08-24_tanker-earnings-and-the-value-of-a-third-special-survey_chart3.png)
+> **Exhibit 3: Dirty Tanker Demolition Age**  
+> Unit: Age, years · X-axis: 1q01 to 1q11  
+> Series: Quarterly, 4-qtr Avg  
+> *Source: Poten*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2012/poten_2012-08-24_tanker-earnings-and-the-value-of-a-third-special-survey_chart3.png)
 
-![Exhibit 4: Tanker Earnings and the Value of a Third Special Survey](../../../charts/poten/2012/poten_2012-08-24_tanker-earnings-and-the-value-of-a-third-special-survey_chart4.png)
+![Exhibit 4: VLCC Demolition Value Weekly, Subcontinent Delivery](../../../charts/poten/2012/poten_2012-08-24_tanker-earnings-and-the-value-of-a-third-special-survey_chart4.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2012/poten_2012-08-24_tanker-earnings-and-the-value-of-a-third-special-survey_chart4.png)
+> **Exhibit 4: VLCC Demolition Value Weekly, Subcontinent Delivery**  
+> Unit: US$ millions · X-axis: Dec-08 to Jun-12  
+> Series: VLCC Demolition Value  
+> *Source: Poten, Baltic Exchange*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2012/poten_2012-08-24_tanker-earnings-and-the-value-of-a-third-special-survey_chart4.png)

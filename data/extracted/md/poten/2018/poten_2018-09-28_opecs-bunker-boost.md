@@ -30,10 +30,18 @@ If OPEC's scenario plays out, this is good news for tanker owners. However, it i
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: OPECs Bunker Boost](../../../charts/poten/2018/poten_2018-09-28_opecs-bunker-boost_chart1.png)
+![Exhibit 1: Impact of IMO regulations on global oil demand growth](../../../charts/poten/2018/poten_2018-09-28_opecs-bunker-boost_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2018/poten_2018-09-28_opecs-bunker-boost_chart1.png)
+> **Exhibit 1: Impact of IMO regulations on global oil demand growth**  
+> Unit: mb/d · X-axis: 2018 to 2023  
+> Series: Growth in the Reference Case, Growth without IMO regulations  
+> *Source: OPEC*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2018/poten_2018-09-28_opecs-bunker-boost_chart1.png)
 
-![Exhibit 2: OPECs Bunker Boost](../../../charts/poten/2018/poten_2018-09-28_opecs-bunker-boost_chart2.png)
+![Exhibit 2: Marine bunker demand by fuel type](../../../charts/poten/2018/poten_2018-09-28_opecs-bunker-boost_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2018/poten_2018-09-28_opecs-bunker-boost_chart2.png)
+> **Exhibit 2: Marine bunker demand by fuel type**  
+> Unit: mb/d · X-axis: 2017 to 2023  
+> Series: Diesel, Blend fuel 0.5% max, Fuel oil 3.5% max (scrubbers), Fuel oil 3.5% max  
+> *Source: OPEC*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2018/poten_2018-09-28_opecs-bunker-boost_chart2.png)

@@ -23,14 +23,14 @@ source_file: "corpus/03-breakwave/insights/2023/2023-04-28_1z1d8wtpl2o9m1tladho5
 
 Despite mixed economic data, a risk-on tone helped stem the selling earlier this week in commodity markets.
 
-![Screenshot 20230428 122802 Linkedin](assets/2023-04-28_1z1d8wtpl2o9m1tladho5tu8cx6s2y_img_screenshot-20230428-122802-linkedin_1917a13b34a2.jpg)
+![Screenshot 20230428 122802 Linkedin](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-04-28_1z1d8wtpl2o9m1tladho5tu8cx6s2y_img_screenshot-20230428-122802-linkedin_1917a13b34a2.jpg)
 
 > **Figure 1: Screenshot 20230428 122802 Linkedin**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-04-28_1z1d8wtpl2o9m1tladho5tu8cx6s2y_img_screenshot-20230428-122802-linkedin_1917a13b34a2.jpg)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-04-28_1z1d8wtpl2o9m1tladho5tu8cx6s2y_img_screenshot-20230428-122802-linkedin_1917a13b34a2.jpg)
 
 **Copper**was under pressure earlier in the session following Chinese data showing profits at industrial companies fell 19% in March. This was compounded by reports that Chinese copper processors were planning to reduce production for Q2 2023. This is typically the peak demand season; however, demand has been impacted by a slower than expected recovery after COVID-19 and sluggish export driven demand. A stronger than expected rise in an inflation measure saw concerns of further rate hikes also weigh on sentiment. However, after falling to a four-month low, opportunistic buyers helped push the red metal back into positive territory by the close of the session. This came following reports that MMG’s copper mine in Perty suffered a setback in its efforts to reduce holdings of 115kt of semi-processed metal built up during recent protests. It said it may take until Q4 to ship the stockpiled material.
 
-**Lithium**carbonate prices in China extended recent gains amid rising supply side issues. Prices are down nearly 75% this year as sales of electric vehicles (EV) in China softened. This was exacerbated by concerns around a new wave of supply. However,[**resource nationalism could delay that growth**](../pdfs/2023-04-28_1z1d8wtpl2o9m1tladho5tu8cx6s2y_commodity-call-lithium-supply-risks-_183db89fadf6.pdf). Chile, holder of the world’s largest reserves, has a new policy requiring state involvement for new lithium projects and the use of environmentally friendly processing that is still unproven on a commercial scale. This could delay the delivery of its pipeline of projects.
+**Lithium**carbonate prices in China extended recent gains amid rising supply side issues. Prices are down nearly 75% this year as sales of electric vehicles (EV) in China softened. This was exacerbated by concerns around a new wave of supply. However,[**resource nationalism could delay that growth**](https://research.anz.com/file/Commodity_Call_lithium_supply_risks_mount.pdf?docRef=425d3b70-d677-47c8-8d15-1ca4bb1fe729&ch=2). Chile, holder of the world’s largest reserves, has a new policy requiring state involvement for new lithium projects and the use of environmentally friendly processing that is still unproven on a commercial scale. This could delay the delivery of its pipeline of projects.
 
 The uncertain economic backdrop helped push**gold**above USD2,000/oz early in the session. However, high inflation saw expectations of further rate hikes rise, putting downward pressure on the precious metal.
 

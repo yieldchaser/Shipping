@@ -64,10 +64,10 @@ Additionally, market lead times for orders in the Atlantic basin have been on an
 
 The current week has seen a relatively robust start for cargo ordering in the capesize segment, but Easter is likely to have provided some disruptions. At the same time, vessel supply has seen some downward pressure over the past two days compared to the early stages of the past week. Together with suggestions that market lead times in the Atlantic are facing some downward pressure, the current demand and supply situation for the capesizes may offer some respite from recent declines.
 
-![Market Chart 1](assets/2024-04-04_european-natural-gas-grains-and-oilseeds-were-among-the-minority-of-commodities_img_unnamed_67b6419640f7.png)
+![Market Chart 1](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-04-04_european-natural-gas-grains-and-oilseeds-were-among-the-minority-of-commodities_img_unnamed_67b6419640f7.png)
 
 > **Figure 1: Market Chart 1**  
-> **Interactive Data & Source:** [Shipfix](https://shipfix.com/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-04-04_european-natural-gas-grains-and-oilseeds-were-among-the-minority-of-commodities_img_unnamed_67b6419640f7.png)
+> **Interactive Data & Source:** [Shipfix](https://shipfix.com/) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-04-04_european-natural-gas-grains-and-oilseeds-were-among-the-minority-of-commodities_img_unnamed_67b6419640f7.png)
 
 Data Source:[Shipfix](https://shipfix.com/)
 

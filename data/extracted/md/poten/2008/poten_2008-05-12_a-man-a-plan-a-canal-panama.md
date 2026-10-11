@@ -60,6 +60,12 @@ Improved traffic conditions will change the way crude and products are parceled 
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: A Man A Plan A Canal - Panama](../../../charts/poten/2008/poten_2008-05-12_a-man-a-plan-a-canal-panama_chart1.png)
+> **Chart on PDF page 1: Panamax Fleet Profile - Total Vessels 346**  
+> Unit: # Vessels · X-axis: 1981 to 2009  
+> Series: Orderbook = 203, DH = 225, Non-DH = 121  
+> *No image crop of this chart was saved; caption read from the PDF.*
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2008/poten_2008-05-12_a-man-a-plan-a-canal-panama_chart1.png)
+> **Chart on PDF page 2: Panamax Fixtures**  
+> Unit: # of Fixtures · X-axis: 2003 to 2006 YTD  
+> Series: Trans-Canal, Total  
+> *No image crop of this chart was saved; caption read from the PDF.*

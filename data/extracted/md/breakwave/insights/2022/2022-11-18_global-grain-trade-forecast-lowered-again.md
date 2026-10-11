@@ -27,28 +27,28 @@ The USDA is now forecasting that global coarse grain exports in 2022/23 will tot
 
 .
 
-![Chart 1 (62)](assets/2022-11-18_global-grain-trade-forecast-lowered-again_img_chart1286229_0924516c1505.jpg)
+![Chart 1 (62)](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-11-18_global-grain-trade-forecast-lowered-again_img_chart1286229_0924516c1505.jpg)
 
 > **Figure 1: Chart 1 (62)**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-11-18_global-grain-trade-forecast-lowered-again_img_chart1286229_0924516c1505.jpg)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-11-18_global-grain-trade-forecast-lowered-again_img_chart1286229_0924516c1505.jpg)
 
 Global wheat exports are expected to total 208.7 million tons. This is 400,000 tons more than was forecast a month ago but would mark a year-on-year increase of 5.9 million tons (3%).
 
-![Chart 2 (53)](assets/2022-11-18_global-grain-trade-forecast-lowered-again_img_chart2285329_328364a73393.jpg)
+![Chart 2 (53)](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-11-18_global-grain-trade-forecast-lowered-again_img_chart2285329_328364a73393.jpg)
 
 > **Figure 2: Chart 2 (53)**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-11-18_global-grain-trade-forecast-lowered-again_img_chart2285329_328364a73393.jpg)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-11-18_global-grain-trade-forecast-lowered-again_img_chart2285329_328364a73393.jpg)
 
 Global soybean exports are expected to total 169.1 million tons. This is 900,000 tons (1%) more than was forecast a month ago and would mark a year-on-year increase of 15.1 million tons (10%).
 
-![Chart 3 (41)](assets/2022-11-18_global-grain-trade-forecast-lowered-again_img_chart3284129_3073648f2a2f.jpg)
+![Chart 3 (41)](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-11-18_global-grain-trade-forecast-lowered-again_img_chart3284129_3073648f2a2f.jpg)
 
 > **Figure 3: Chart 3 (41)**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-11-18_global-grain-trade-forecast-lowered-again_img_chart3284129_3073648f2a2f.jpg)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-11-18_global-grain-trade-forecast-lowered-again_img_chart3284129_3073648f2a2f.jpg)
 
 Global soymeal exports are expected to total 70 million tons. This is 100,000 tons more than was forecast a month ago but would mark a year-on-year increase of 1.7 million tons (2%).
 
-![Chart 4 (19)](assets/2022-11-18_global-grain-trade-forecast-lowered-again_img_chart4281929_163d1bbd3f94.jpg)
+![Chart 4 (19)](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-11-18_global-grain-trade-forecast-lowered-again_img_chart4281929_163d1bbd3f94.jpg)
 
 > **Figure 4: Chart 4 (19)**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-11-18_global-grain-trade-forecast-lowered-again_img_chart4281929_163d1bbd3f94.jpg)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-11-18_global-grain-trade-forecast-lowered-again_img_chart4281929_163d1bbd3f94.jpg)

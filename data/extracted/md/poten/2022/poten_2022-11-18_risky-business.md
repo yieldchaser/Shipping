@@ -26,10 +26,18 @@ There are alternatives to the International Group of P&I Insurers. For example, 
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: Risky Business](../../../charts/poten/2022/poten_2022-11-18_risky-business_chart1.png)
+![Exhibit 1: Baltic Sea Crude Exports from Russian Federation](../../../charts/poten/2022/poten_2022-11-18_risky-business_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2022/poten_2022-11-18_risky-business_chart1.png)
+> **Exhibit 1: Baltic Sea Crude Exports from Russian Federation**  
+> Unit: Kbbl / Day · X-axis: Jan-17 to Oct-22  
+> Series: Netherlands, Germany, UK/Eire, Other NW Europe, Asia, Med, Other  
+> *Source: Lloyd’s List Intelligence*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2022/poten_2022-11-18_risky-business_chart1.png)
 
-![Exhibit 2: Risky Business](../../../charts/poten/2022/poten_2022-11-18_risky-business_chart2.png)
+![Exhibit 2: [Black Sea Crude Exports from Russian Federation]](../../../charts/poten/2022/poten_2022-11-18_risky-business_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2022/poten_2022-11-18_risky-business_chart2.png)
+> **Exhibit 2: [Black Sea Crude Exports from Russian Federation]**  
+> Unit: [Kbbl / Day] · X-axis: Jan-17 to Oct-22  
+> Series: Italy, Greece, Other Med., UKC/Baltic, China, India, Other  
+> *Source: Lloyd’s List Intelligence*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2022/poten_2022-11-18_risky-business_chart2.png)

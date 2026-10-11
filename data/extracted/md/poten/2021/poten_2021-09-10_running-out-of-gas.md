@@ -24,18 +24,23 @@ All of South Africa's refineries temporarily stopped production in April 2020 as
 
 Since South Africa does not produce significant volumes of crude oil, the refiners historically had to import their feedstock. Most imports of crude oil come from the Middle East (Saudi Arabia and UAE) and West Africa (Nigeria and Angola). Occasionally, U.S. crude oil is shipped to South Africa as well. Prior to 2012, Iran was South Africa's largest crude oil supplier, accounting for about 27% of the country's total crude oil imports. After the U.S. and Europe imposed sanctions, South Africa halted imports from Iran and substituted their barrels with supplies from other OPEC countries. Over the last five years, South Africa imported an average of 350,000 b/d of crude oil, about 100,000 b/d in VLCCs and 250,000 b/d in Suezmaxes.
 
-The regional storage hub of Saldanha Bay might have been the most important piece of South African oil infrastructure in recent years. Saldanha Bay is a natural harbor, located on the south-western coast of South Africa, about 65 miles from Cape Town. It is a strategic storage point with a capacity of approximately 60 million barrels. Because of its strategic location, the terminal is popular with traders looking to store crude oil. It gives them the option to ship crude to either Europe or Asia depending on regional demand and relative prices. Saldanha Bay can accommodate vessels up to VLCC size. The terminal was popular in 2020 during the Covid induced oil supply glut. As can be seen in [Chart 2](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2021/poten_2021-09-10_running-out-of-gas_chart2.png), crude oil imports into the terminal picked up in the first half of the year, while the terminal turned into an exporter by the end of last year.
+The regional storage hub of Saldanha Bay might have been the most important piece of South African oil infrastructure in recent years. Saldanha Bay is a natural harbor, located on the south-western coast of South Africa, about 65 miles from Cape Town. It is a strategic storage point with a capacity of approximately 60 million barrels. Because of its strategic location, the terminal is popular with traders looking to store crude oil. It gives them the option to ship crude to either Europe or Asia depending on regional demand and relative prices. Saldanha Bay can accommodate vessels up to VLCC size. The terminal was popular in 2020 during the Covid induced oil supply glut. As can be seen in [Chart 2](../../../charts/poten/2021/poten_2021-09-10_running-out-of-gas_chart2.png), crude oil imports into the terminal picked up in the first half of the year, while the terminal turned into an exporter by the end of last year.
 
-> **Exhibit 2: Running Out Of Gas (Chart 2)**  
-> *Source: Poten & Partners*  
-> **Interactive Data & Source:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2021/poten_2021-09-10_running-out-of-gas_chart2.png)
+> **Exhibit 2: Crude Imports/Exports Saldanha Bay**  
+> Unit: Kb/d · X-axis: 1/1/2015 to 7/1/2021  
+> Series: Imports, Exports  
+> *Source: Lloyd’s List Intelligence*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2021/poten_2021-09-10_running-out-of-gas_chart2.png)
 
-![Exhibit 2: Running Out Of Gas](../../../charts/poten/2021/poten_2021-09-10_running-out-of-gas_chart2.png)
+![Exhibit 2: Crude Imports/Exports Saldanha Bay](../../../charts/poten/2021/poten_2021-09-10_running-out-of-gas_chart2.png)
 
 Going forward, it appears South Africa will closely resemble other countries (such as Australia and New Zealand) with an ageing refining industry that cannot compete in global markets. Crude oil movements will be mostly focused around the storage terminal of Saldanha Bay, while domestic product demand will be mostly satisfied by refined product imports. Given their proximity, Middle Eastern refineries are the most likely source of product. For the shipping market, MR product tankers are the segment that will reap the benefits.
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: Running Out Of Gas](../../../charts/poten/2021/poten_2021-09-10_running-out-of-gas_chart1.png)
+![Exhibit 1: Crude Import Volumes Into South Africa by Origin](../../../charts/poten/2021/poten_2021-09-10_running-out-of-gas_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2021/poten_2021-09-10_running-out-of-gas_chart1.png)
+> **Exhibit 1: Crude Import Volumes Into South Africa by Origin**  
+> Unit: Kb/day · X-axis: Jan-16 to Oct-21  
+> Series: S. Arabia, UAE, Oth. ME, Angola, Nigeria, Oth. WAFR, Americas, Atl., Med, Other  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2021/poten_2021-09-10_running-out-of-gas_chart1.png)

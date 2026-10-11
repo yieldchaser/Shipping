@@ -54,6 +54,18 @@ Until we see some signs of a demand slowdown, we feel that rates will remain som
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: OPEC Production and VLCC Rates - What It Means](../../../charts/poten/2004/poten_2004-12-17_opec-production-and-vlcc-rates-what-it-means_chart1.png)
+> **Chart on PDF page 2: AG Exports versus U.S. AG Imports**  
+> Unit: MM Bpd | % · X-axis: Jan-01 to Jul-04  
+> Series: % AG Exports to U.S., AG Exports, U.S. AG Imports  
+> *Source: EIA/Poten*  
+> *No image crop of this chart was saved; caption read from the PDF.*
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2004/poten_2004-12-17_opec-production-and-vlcc-rates-what-it-means_chart1.png)
+> **Chart on PDF page 3: AG East Vlcc Rates versus AG Exports**  
+> Unit: WS Rates · X-axis: 18 to 24  
+> Series: EIA/Poten, Outliers  
+> *No image crop of this chart was saved; caption read from the PDF.*
+
+> **Chart on PDF page 3: AG West Vlcc Rates versus AG Exports**  
+> Unit: WS Rates · X-axis: 18 to 24  
+> Series: EIA/Poten, Outliers  
+> *No image crop of this chart was saved; caption read from the PDF.*

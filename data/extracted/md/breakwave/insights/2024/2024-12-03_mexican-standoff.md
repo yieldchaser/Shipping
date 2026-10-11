@@ -20,10 +20,10 @@ source_file: "corpus/03-breakwave/insights/2024/2024-12-03_mexican-standoff.html
 
 ---
 
-![Products Tanker](assets/2024-12-03_mexican-standoff_img_products-tanker_432c58f603f3.jpg)
+![Products Tanker](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-12-03_mexican-standoff_img_products-tanker_432c58f603f3.jpg)
 
 > **Figure 1: Products Tanker**  
-> **Interactive Data & Source:** [Gibsons Co](https://www.gibsons.co.uk/market-reports) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-12-03_mexican-standoff_img_products-tanker_432c58f603f3.jpg)
+> **Interactive Data & Source:** [Gibsons Co](https://www.gibsons.co.uk/market-reports) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-12-03_mexican-standoff_img_products-tanker_432c58f603f3.jpg)
 
 President-elect Donald Trump has announced that he will implement a 25% tariff on all products entering the US from Canada and Mexico. Sources indicate that oil will not be exempted from the tariffs, and as such oil flows could be significantly impacted. Canada exports over 4 mbd to the US, the vast majority of which is heavy crude transported on pipelines and difficult to redirect. Mexico on the other hand, exports around 500 kbd of mostly heavy crude to the US, all of which is seaborne and more readily redirected. If these tariffs are implemented, how will Mexican and Canadian oil flows change?
 
@@ -37,10 +37,10 @@ It is difficult to imagine the tariffs being enacted in their current form, as t
 
 ### Mexican Crude Exports to the Us (Kbd)
 
-![Στιγμιότυπο Οθόνης 2024 12 03 102231](assets/2024-12-03_mexican-standoff_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_4551c418043f.png)
+![Στιγμιότυπο Οθόνης 2024 12 03 102231](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-12-03_mexican-standoff_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_4551c418043f.png)
 
 > **Figure 2: Στιγμιότυπο Οθόνης 2024 12 03 102231**  
-> **Interactive Data & Source:** [Gibsons Co](https://www.gibsons.co.uk/market-reports) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-12-03_mexican-standoff_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_4551c418043f.png)
+> **Interactive Data & Source:** [Gibsons Co](https://www.gibsons.co.uk/market-reports) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-12-03_mexican-standoff_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_4551c418043f.png)
 
 Data source:[Gibson Shipbrokers](https://www.gibsons.co.uk/market-reports)
 

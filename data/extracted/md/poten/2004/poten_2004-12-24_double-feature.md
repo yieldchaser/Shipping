@@ -54,8 +54,8 @@ Jimmy Stewart starred in this Christmas movie of what life would have been like 
 
 ![Exhibit 1: Double Feature](../../../charts/poten/2004/poten_2004-12-24_double-feature_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2004/poten_2004-12-24_double-feature_chart1.png)
+> **Interactive Asset:** [Local Asset (200 DPI PNG)](../../../charts/poten/2004/poten_2004-12-24_double-feature_chart1.png)
 
 ![Exhibit 2: Double Feature](../../../charts/poten/2004/poten_2004-12-24_double-feature_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2004/poten_2004-12-24_double-feature_chart2.png)
+> **Interactive Asset:** [Local Asset (200 DPI PNG)](../../../charts/poten/2004/poten_2004-12-24_double-feature_chart2.png)

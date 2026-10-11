@@ -26,10 +26,10 @@ VLCCs have had a tough first half in 2022, with increasing vessel supply and wea
 
 In the last two quarters, VLCC tankers have battled bleak markets prompted by weak demand fundamentals for crude, as well as high newbuild numbers causing oversupply globally. This has seen VLCC freight rates unable to sustain any surges this year. The recent increase in VLCC freight rates has occurred over a longer period than previous surges, which suggests a more persistent improvement. With supply and demand factors giving few clues, the question is: what is causing this increase in freight rates?
 
-![244](assets/2022-07-20_vlcc-freight-rate-recovery-challenged-by-stormy-waters-ahead_img_244_3e8d0cd23280.png)
+![244](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-07-20_vlcc-freight-rate-recovery-challenged-by-stormy-waters-ahead_img_244_3e8d0cd23280.png)
 
 > **Figure 1: 244**  
-> **Interactive Data & Source:** [Vortexa](https://www.vortexa.com//oil-gas-data-traders-analysts-data-scientists?gclid=Cj0KCQjw8_qRBhCXARIsAE2AtRZKOvMnbilZ_6_91d7huSFFy71pWLrnPwGwOHVzXsmsG-1a1mZnQw8aAt89EALw_wcB&hsa_acc=1782073842&hsa_ad=548425387665&hsa_cam=14746637662&hsa_grp=125038601902&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_src=g&hsa_tgt=dsa-1431852288425&hsa_ver=3&utm_campaign=%5BCD%5D%20-%20DSA%20-%20EMEA&utm_medium=cpc&utm_medium=ppc&utm_source=google&utm_source=adwords&utm_term=) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-07-20_vlcc-freight-rate-recovery-challenged-by-stormy-waters-ahead_img_244_3e8d0cd23280.png)
+> **Interactive Data & Source:** [Vortexa](https://www.vortexa.com//oil-gas-data-traders-analysts-data-scientists?gclid=Cj0KCQjw8_qRBhCXARIsAE2AtRZKOvMnbilZ_6_91d7huSFFy71pWLrnPwGwOHVzXsmsG-1a1mZnQw8aAt89EALw_wcB&hsa_acc=1782073842&hsa_ad=548425387665&hsa_cam=14746637662&hsa_grp=125038601902&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_src=g&hsa_tgt=dsa-1431852288425&hsa_ver=3&utm_campaign=%5BCD%5D%20-%20DSA%20-%20EMEA&utm_medium=cpc&utm_medium=ppc&utm_source=google&utm_source=adwords&utm_term=) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-07-20_vlcc-freight-rate-recovery-challenged-by-stormy-waters-ahead_img_244_3e8d0cd23280.png)
 
 ### Td22, Td1, Td3c and Td15 Freight Rate Percentage Increases Since 1 June 2022
 
@@ -41,10 +41,10 @@ Similarly, on the crude demand side flows to the US have remained stagnant. Flow
 
 The current situation on the tanker supply side also contradicts increasing freight rates. VLCC availability in the Middle East and the US Gulf has reached multi-year highs, while in West Africa tanker supply is ticking upwards, approaching relatively high levels.
 
-![245](assets/2022-07-20_vlcc-freight-rate-recovery-challenged-by-stormy-waters-ahead_img_245_3701882eb79e.png)
+![245](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-07-20_vlcc-freight-rate-recovery-challenged-by-stormy-waters-ahead_img_245_3701882eb79e.png)
 
 > **Figure 2: 245**  
-> **Interactive Data & Source:** [Vortexa](https://www.vortexa.com//oil-gas-data-traders-analysts-data-scientists?gclid=Cj0KCQjw8_qRBhCXARIsAE2AtRZKOvMnbilZ_6_91d7huSFFy71pWLrnPwGwOHVzXsmsG-1a1mZnQw8aAt89EALw_wcB&hsa_acc=1782073842&hsa_ad=548425387665&hsa_cam=14746637662&hsa_grp=125038601902&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_src=g&hsa_tgt=dsa-1431852288425&hsa_ver=3&utm_campaign=%5BCD%5D%20-%20DSA%20-%20EMEA&utm_medium=cpc&utm_medium=ppc&utm_source=google&utm_source=adwords&utm_term=) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-07-20_vlcc-freight-rate-recovery-challenged-by-stormy-waters-ahead_img_245_3701882eb79e.png)
+> **Interactive Data & Source:** [Vortexa](https://www.vortexa.com//oil-gas-data-traders-analysts-data-scientists?gclid=Cj0KCQjw8_qRBhCXARIsAE2AtRZKOvMnbilZ_6_91d7huSFFy71pWLrnPwGwOHVzXsmsG-1a1mZnQw8aAt89EALw_wcB&hsa_acc=1782073842&hsa_ad=548425387665&hsa_cam=14746637662&hsa_grp=125038601902&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_src=g&hsa_tgt=dsa-1431852288425&hsa_ver=3&utm_campaign=%5BCD%5D%20-%20DSA%20-%20EMEA&utm_medium=cpc&utm_medium=ppc&utm_source=google&utm_source=adwords&utm_term=) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-07-20_vlcc-freight-rate-recovery-challenged-by-stormy-waters-ahead_img_245_3701882eb79e.png)
 
 **VLCC tonne-miles out of the Middle East vs VLCC freight rates originating in the Middle East**
 

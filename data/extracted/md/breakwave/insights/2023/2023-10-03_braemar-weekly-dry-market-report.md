@@ -29,10 +29,10 @@ Argentina’s grain exports have to some extent been overshadowed this year by e
 
 Yet, the country’s grain export flows have been subject to ups and downs, caused by (1) the worst drought in 50 years, (2) so-called “soy dollar” and “corn dollar” temporary exchange rates—government responses to the strength of the peso, which is a by-product of efforts to tame inflation, and (3) a pause in export sales ahead of the first round of the presidential election next month.
 
-![Market Chart 1](assets/2023-10-03_braemar-weekly-dry-market-report_img_image0281329_2a17da68aa0d.png)
+![Market Chart 1](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-10-03_braemar-weekly-dry-market-report_img_image0281329_2a17da68aa0d.png)
 
 > **Figure 1: Market Chart 1**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-10-03_braemar-weekly-dry-market-report_img_image0281329_2a17da68aa0d.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-10-03_braemar-weekly-dry-market-report_img_image0281329_2a17da68aa0d.png)
 
 The historic drought helped squeeze Argentina’s combined grain and soy exports down by a massive 35m tonnes YoY to 58.4m tonnes in the various 2022/23 trade years, according to the US Department of Agriculture (USDA).
 
@@ -42,10 +42,10 @@ Argentina's government has implemented incentives to promote sales and improve t
 
 Strong August shipments of corn from Argentina prompted the USDA to upgrade its 2022/23 (Oct/Sep) estimate to 25.0m tonnes.
 
-![Market Chart 2](assets/2023-10-03_braemar-weekly-dry-market-report_img_image1281329_2eeab66894bd.png)
+![Market Chart 2](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-10-03_braemar-weekly-dry-market-report_img_image1281329_2eeab66894bd.png)
 
 > **Figure 2: Market Chart 2**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-10-03_braemar-weekly-dry-market-report_img_image1281329_2eeab66894bd.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-10-03_braemar-weekly-dry-market-report_img_image1281329_2eeab66894bd.png)
 
 Argentina’s corn exports have—from a shipping perspective—been far more significant than wheat for example, given (1) larger volumes and (2) a broader spread of destinations. These range from Peru (on geared bulkers) and North Africa (mainly geared) to the Middle East and Southeast Asia, with significant volumes shipped to South Korea (mostly on Panamax).
 
@@ -55,10 +55,10 @@ Argentina’s efforts with the soy dollar have not always been viewed as success
 
 Argentina is well established as the world’s largest supplier of soymeal. Exports are focused on markets in the Mediterranean (on a mixture of sub-Cape vessels), plus Southeast Asia (mainly on Panamaxes).
 
-![Market Chart 3](assets/2023-10-03_braemar-weekly-dry-market-report_img_image2281229_80b32bafd874.png)
+![Market Chart 3](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-10-03_braemar-weekly-dry-market-report_img_image2281229_80b32bafd874.png)
 
 > **Figure 3: Market Chart 3**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-10-03_braemar-weekly-dry-market-report_img_image2281229_80b32bafd874.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-10-03_braemar-weekly-dry-market-report_img_image2281229_80b32bafd874.png)
 
 Last year the USDA estimated 21.1m tonnes of soymeal exports from Argentina. Seeding in Argentina is expected imminently, and an El Niño event in growing areas may herald a return to normal weather. For 2022/23 the USDA projects exports of 23.4m tonnes, growth of 2.3m tonnes.
 

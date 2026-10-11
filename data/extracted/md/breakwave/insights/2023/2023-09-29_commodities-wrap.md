@@ -23,10 +23,10 @@ source_file: "corpus/03-breakwave/insights/2023/2023-09-29_commodities-wrap.html
 
 Commodity prices saw some mean reversion, with oil prices retreating from a recent high while metals pared some of their recent losses.
 
-![1695941561675](assets/2023-09-29_commodities-wrap_img_1695941561675_00272df4de9e.png)
+![1695941561675](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-09-29_commodities-wrap_img_1695941561675_00272df4de9e.png)
 
 > **Figure 1: 1695941561675**  
-> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-09-29_commodities-wrap_img_1695941561675_00272df4de9e.png)
+> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-09-29_commodities-wrap_img_1695941561675_00272df4de9e.png)
 
 **Crude oil**prices retreated after touching a high of USD97/bbl on Wednesday. US oil inventories fell to a multi-year seasonal low; this supported the steepening backwardated curve for both Brent and WTI. Production cuts by Saudi Arabia and Russia are significantly tightening the oil market balance. Saudi Arabia is likely to raise its official oil selling price to Asia for November sales, according to Bloomberg survey data. This all comes when demand in China and the US looks strong. Increase in international travel during the Golden Week holiday is boosting Chinese oil demand. In addition, supply of oil products is getting tighter with recent export curbs. China’s plans to limit fuel export quotas for this year could further tighten the oil products market. The market is already grappling with lower inventories and a recently imposed export ban of diesel and gasoline by Russia. Adding to this supply woes, US oil refineries will be shut for maintenance, taking some production off in the fourth quarter.
 

@@ -53,9 +53,9 @@ While copper prices staged a bit of a comeback during the second half of July an
 
 However, Shipfix cargo order data for copper discharging in Chinese ports have been showing considerable strength in recent weeks. While the weekly volumes have been a bit volatile, the data highlight a strong recovery in demand from the world’s largest importer of the commodity. Given the forward-looking nature of the data, import volumes are likely to rise in the coming months, possibly reflecting increasing economic activities in the country on the back of the announced stimulus packages.
 
-![Market Chart 1](assets/2022-09-06_global-market-update_img_unnamed285729_aa39d7348793.png)
+![Market Chart 1](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-09-06_global-market-update_img_unnamed285729_aa39d7348793.png)
 
 > **Figure 1: Market Chart 1**  
-> **Interactive Data & Source:** [Shipfix](https://shipfix.com/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-09-06_global-market-update_img_unnamed285729_aa39d7348793.png)
+> **Interactive Data & Source:** [Shipfix](https://shipfix.com/) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-09-06_global-market-update_img_unnamed285729_aa39d7348793.png)
 
 Data Source:[Shipfix](https://shipfix.com/)

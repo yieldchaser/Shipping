@@ -51,9 +51,9 @@ Lower crude oil prices and weaker demand contributed to bunker prices retreating
 
 Agricultural commodity prices lost some ground in the past week as weakening global growth rates were seen to weigh on demand. However, an improving supply situation has also contributed to the weaker prices, with wheat being particularly affected. Rising Russian exports following a large harvest last year are providing bearish pressure on the futures. In addition, weekly cargo order volumes for grains loading in Ukraine rose during the past week to the highest levels since the end of November. If the latest development proves sustainable, it could put additional pressure on wheat and corn prices in the near term.
 
-![Market Chart 1](assets/2023-01-09_shipfix-global-market-update_img_unnamed-2023-01-09t153836156_5d5742931f20.png)
+![Market Chart 1](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-01-09_shipfix-global-market-update_img_unnamed-2023-01-09t153836156_5d5742931f20.png)
 
 > **Figure 1: Market Chart 1**  
-> **Interactive Data & Source:** [Shipfix](https://shipfix.com/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-01-09_shipfix-global-market-update_img_unnamed-2023-01-09t153836156_5d5742931f20.png)
+> **Interactive Data & Source:** [Shipfix](https://shipfix.com/) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-01-09_shipfix-global-market-update_img_unnamed-2023-01-09t153836156_5d5742931f20.png)
 
 Data Source:[Shipfix](https://shipfix.com/)

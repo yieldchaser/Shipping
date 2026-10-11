@@ -19,16 +19,16 @@ source_file: "corpus/03-breakwave/insights/2023/2023-12-04_doric-weekly-market-i
 
 ---
 
-![Homepage+banner+1 (1)](assets/2023-12-04_doric-weekly-market-insight_img_homepage2bbanner2b128129_5d7211685255.png)
+![Homepage+banner+1 (1)](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-12-04_doric-weekly-market-insight_img_homepage2bbanner2b128129_5d7211685255.png)
 
 > **Figure 1: Homepage+banner+1 (1)**  
-> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/breakwave-day-2023) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-12-04_doric-weekly-market-insight_img_homepage2bbanner2b128129_5d7211685255.png)
+> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/breakwave-day-2023) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-12-04_doric-weekly-market-insight_img_homepage2bbanner2b128129_5d7211685255.png)
 
-[![Bymichalis Voutsinas](assets/2023-12-04_doric-weekly-market-insight_img_homepage2bbutton28129_1d014100cc65.png)
+[![Bymichalis Voutsinas](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-12-04_doric-weekly-market-insight_img_homepage2bbutton28129_1d014100cc65.png)
 
 > **Figure 2: Bymichalis Voutsinas**  
 > *ByMichalis Voutsinas*  
-> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/in/michalis-voutsinas-587544163/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-12-04_doric-weekly-market-insight_img_homepage2bbutton28129_1d014100cc65.png)](https://www.breakwaveadvisors.com/breakwave-day-2023)
+> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/in/michalis-voutsinas-587544163/) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-12-04_doric-weekly-market-insight_img_homepage2bbutton28129_1d014100cc65.png)](https://www.breakwaveadvisors.com/breakwave-day-2023)
 
 ## “During the Forty-Eighth Trading Week, the Spot Market Appeared Solely Fixated on One Question: How High Could It Soar?”
 
@@ -38,10 +38,10 @@ Growth in advanced economies was seen headed for a soft landing, with the United
 
 While many major emerging-market economies have responded to global trends by increasing interest rates to prevent currency depreciation against the US dollar, China has taken a different approach, opting to ease monetary policy to counteract a slowdown in domestic demand. Despite an initial post-reopening surge in early 2023, China's growth is expected to decelerate throughout the year. The OECD has slightly adjusted its growth forecast for the world’s second-largest economy, raising it by 0.1 points to 5.2 percent for this year and projecting 4.7 percent for the following year. In contrast, GDP growth in the other major Asian emerging-market economies, India and Indonesia, is projected to remain relatively steady in 2023 and 2024 at circa 6 percent for India and 5 percent for Indonesia. The growth trajectories in the remaining G20 emergingmarket economies vary significantly, contingent upon each nation's idiosyncrasies. Generally, except for China, there's a projected modest enhancement in growth among the G20 emerging-market economies over the next few years.
 
-![1](assets/2023-12-04_doric-weekly-market-insight_img_1_c6746b12fd44.png)
+![1](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-12-04_doric-weekly-market-insight_img_1_c6746b12fd44.png)
 
 > **Figure 3: 1**  
-> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-12-04_doric-weekly-market-insight_img_1_c6746b12fd44.png)
+> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-12-04_doric-weekly-market-insight_img_1_c6746b12fd44.png)
 
 Despite the growth in global output, trade volumes have experienced a slower-than-anticipated rise in the first half of this year, resulting in a decline in trade intensity. Merchandise trade volumes have been particularly weak, especially in the major advanced economies, with global trade in goods falling by 2.5 percent over the year to June. After a swift rebound from the initial pandemic months, the global trade-to-GDP ratio surpassed 2018 levels by the fourth quarter of 2021 and maintained this position until the third quarter of 2022. However, this ratio has consistently lagged behind the anticipated trajectory compared to the pre-pandemic decade's growth pace. Since mid-2022, reduced merchandise trade has contributed to a decline in total trade relative to GDP. Leading indicators suggest a gradual recovery in trade following the current slowdown. Although there's a notable increase in container port activity in China, overall indicators point toward a mild recovery in total volumes.
 

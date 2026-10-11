@@ -32,7 +32,7 @@ tags:
 ![From Summer to Autumn: 2025 Dirty Tanker Market Review](../../images/68de40280b296cf4d9f76f21_Screenshot 2025-10-02 at 10.03.31.png)
 
 > **Figure 1: From Summer to Autumn: 2025 Dirty Tanker Market Review**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/from-summer-to-autumn-2025-dirty-tanker-market-review) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/68de40280b296cf4d9f76f21_Screenshot 2025-10-02 at 10.03.31.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/from-summer-to-autumn-2025-dirty-tanker-market-review) | [Local Asset](../../../../../../corpus/07-signal/images/68de40280b296cf4d9f76f21_Screenshot%202025-10-02%20at%2010.03.31.png)
 
 
 ## Snapshot: A Powerful Rally - Scenarios Behind the Recovery
@@ -43,7 +43,7 @@ The summer of 2025 surprised with earnings, as VLCC rates climbed well above sea
 ![‍snapshot: A Powerful Rally - Scenarios Behind the Recovery](../../images/68de40606393fea8f75bdf63_Screenshot 2025-10-02 at 10.05.11.png)
 
 > **Figure 2: ‍snapshot: A Powerful Rally - Scenarios Behind the Recovery**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/from-summer-to-autumn-2025-dirty-tanker-market-review) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/68de40606393fea8f75bdf63_Screenshot 2025-10-02 at 10.05.11.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/from-summer-to-autumn-2025-dirty-tanker-market-review) | [Local Asset](../../../../../../corpus/07-signal/images/68de40606393fea8f75bdf63_Screenshot%202025-10-02%20at%2010.05.11.png)
 
 
 ### Dynamic 1 – Brent-Dubai Efs Swings and Shifting Arbitrage
@@ -64,31 +64,31 @@ Such volatility does not necessarily indicate weaker European demand, nor can it
 The more likely scenario is that Europe continues to act as the main absorber of displaced U.S. Gulf volumes. With the U.S. Gulf–Asia arbitrage effectively closed, Asian buyers have been less competitive in securing these flows, creating additional space for Europe. This outcome reflects short-term trade dynamics rather than a structural change in demand.
 
 
-![Usg Crude Export Flows to Europe, Jan–aug 2023, 2024 vs 2025](../../images/68de43e7c6d7da74cd0548e0_0674150b.png)
+![Usg Crude Export Flows to Europe, Jan–aug 2023, 2024 vs 2025](../../../../../../corpus/07-signal/images/68de43e7c6d7da74cd0548e0_0674150b.png)
 
 > **Figure 1: Usg Crude Export Flows to Europe, Jan–aug 2023, 2024 vs 2025**  
 > *Figure 1: USG crude export flows to Europe, Jan–Aug 2023, 2024 vs 2025 (Source: Signal Ocean Cargo Flows Trend Analysis).https://app.signalocean.com/tanker/dynamic/oilflows*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/from-summer-to-autumn-2025-dirty-tanker-market-review) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/68de43e7c6d7da74cd0548e0_0674150b.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/from-summer-to-autumn-2025-dirty-tanker-market-review) | [Local Asset](../../../../../../corpus/07-signal/images/68de43e7c6d7da74cd0548e0_0674150b.png)
 
 From mid-September, Shell’s 404 kb/d Pernis refinery in the Netherlands, Europe’s largest, entered a major turnaround expected to last through October and possibly into November, temporarily curbing regional crude demand. While some market participants noted that refinery maintenance has not been hefty overall this year, market talk suggests that runs could rebound in November and December, reversing the slowdown from September and October.
 
 In parallel, Europe’s pull on Atlantic Basin barrels has weakened, opening space for more flows to be diverted eastward, including PADD 3 to the Far East/India, Brazil to the Far East/India, and WAFR to the Far East/India (see **Figure** 2), supported by favorable arbitrage economics. From October, US exports to Europe are also expected to increase, with WTI now competitively priced into the region.
 
 
-![Africa Atlantic Coast Crude Export Flows to Far East/ India, Jan–aug 2024 vs 2025](../../images/68de43e7c6d7da74cd0548e6_7192ff24.png)
+![Africa Atlantic Coast Crude Export Flows to Far East/ India, Jan–aug 2024 vs 2025](../../../../../../corpus/07-signal/images/68de43e7c6d7da74cd0548e6_7192ff24.png)
 
 > **Figure 2: Africa Atlantic Coast Crude Export Flows to Far East/ India, Jan–aug 2024 vs 2025**  
 > *Figure 2: Africa Atlantic Coast crude export flows to Far East/ India, Jan–Aug 2024 vs 2025 (Source: Signal Ocean Cargo Flows Trend Analysis).https://app.signalocean.com/tanker/dynamic/oilflows*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/from-summer-to-autumn-2025-dirty-tanker-market-review) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/68de43e7c6d7da74cd0548e6_7192ff24.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/from-summer-to-autumn-2025-dirty-tanker-market-review) | [Local Asset](../../../../../../corpus/07-signal/images/68de43e7c6d7da74cd0548e6_7192ff24.png)
 
 Meanwhile, Guyana and Brazil both increased exports to Europe and Asia over the summer months, a trend that market participants are confident will continue (see **Figure** 3). These additional flows not only diversified supply but also pushed tonne-miles higher, reinforcing the eastward pull on Atlantic Basin barrels.
 
 
-![Guyana / Brazil Crude Export Flows to Europe, Jan–aug 2023, 2024 vs 2025](../../images/68de43e7c6d7da74cd0548f5_9468fd7c.png)
+![Guyana / Brazil Crude Export Flows to Europe, Jan–aug 2023, 2024 vs 2025](../../../../../../corpus/07-signal/images/68de43e7c6d7da74cd0548f5_9468fd7c.png)
 
 > **Figure 3: Guyana / Brazil Crude Export Flows to Europe, Jan–aug 2023, 2024 vs 2025**  
 > *Figure 3: Guyana / BRAZIL crude export flows to Europe, Jan–Aug 2023, 2024 vs 2025 (Source: Signal Ocean Cargo Flows Trend Analysis).https://app.signalocean.com/tanker/dynamic/oilflows*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/from-summer-to-autumn-2025-dirty-tanker-market-review) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/68de43e7c6d7da74cd0548f5_9468fd7c.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/from-summer-to-autumn-2025-dirty-tanker-market-review) | [Local Asset](../../../../../../corpus/07-signal/images/68de43e7c6d7da74cd0548f5_9468fd7c.png)
 
 
 ## Dynamic 3 – Early Summer Fixing and Saudi Export Surge
@@ -96,11 +96,11 @@ Meanwhile, Guyana and Brazil both increased exports to Europe and Asia over the 
 One of the earliest signs of tightening appeared from voyages scheduled well before August loadings. Softer freight rates in May and early June, combined with weaker crude prices, encouraged charterers to secure vessels earlier than usual in anticipation of increased demand through late summer. At the same time, Saudi Arabia’s seasonal crude burn declined, freeing up additional barrels for export. In August 2025, flows from the Kingdom reached 192 million barrels, up from 177 million barrels a year earlier, highlighting the scale of the surge (see **Figure** 4).
 
 
-![Saudi Arabia Crude Export Flows, Jan–aug 2024 vs 2025](../../images/68de43e7c6d7da74cd0548f8_6627b4b9.png)
+![Saudi Arabia Crude Export Flows, Jan–aug 2024 vs 2025](../../../../../../corpus/07-signal/images/68de43e7c6d7da74cd0548f8_6627b4b9.png)
 
 > **Figure 4: Saudi Arabia Crude Export Flows, Jan–aug 2024 vs 2025**  
 > *Figure 4: Saudi Arabia crude export flows, Jan–Aug 2024 vs 2025 (Source: Signal Ocean Cargo Flows Trend Analysis).https://app.signalocean.com/tanker/dynamic/oilflows*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/from-summer-to-autumn-2025-dirty-tanker-market-review) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/68de43e7c6d7da74cd0548f8_6627b4b9.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/from-summer-to-autumn-2025-dirty-tanker-market-review) | [Local Asset](../../../../../../corpus/07-signal/images/68de43e7c6d7da74cd0548f8_6627b4b9.png)
 
 
 ## Segment Performance
@@ -111,18 +111,18 @@ One of the earliest signs of tightening appeared from voyages scheduled well bef
 On the TD3C benchmark (MEG–China), Worldscale levels climbed sharply, peaking just above WS100 on September 19, before easing to WS95–97 by September 25. By September 30, rates had retreated further to WS89.8, reflecting some cooling in sentiment but still standing well above seasonal norms. (see **Figure** 5 and 6)
 
 
-![VLCC](../../images/68de43e7c6d7da74cd0548e9_5cf5bf73.png)
+![VLCC](../../../../../../corpus/07-signal/images/68de43e7c6d7da74cd0548e9_5cf5bf73.png)
 
 > **Figure 7: VLCC**  
 > *(Source: Signal Ocean Market Prices).https://app.signalocean.com/tanker/dynamic/market-prices-tankers*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/from-summer-to-autumn-2025-dirty-tanker-market-review) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/68de43e7c6d7da74cd0548e9_5cf5bf73.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/from-summer-to-autumn-2025-dirty-tanker-market-review) | [Local Asset](../../../../../../corpus/07-signal/images/68de43e7c6d7da74cd0548e9_5cf5bf73.png)
 
 
-![TD3C Seasonal Evolution MEG - China TCE](../../images/68de43e7c6d7da74cd0548ec_d634b07d.png)
+![TD3C Seasonal Evolution MEG - China TCE](../../../../../../corpus/07-signal/images/68de43e7c6d7da74cd0548ec_d634b07d.png)
 
 > **Figure 6: TD3C Seasonal Evolution MEG - China TCE**  
 > *Figure 6 TD3C Seasonal Evolution MEG - China TCE(Source: Signal Ocean Market Prices).https://app.signalocean.com/tanker/dynamic/market-prices-tankers*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/from-summer-to-autumn-2025-dirty-tanker-market-review) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/68de43e7c6d7da74cd0548ec_d634b07d.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/from-summer-to-autumn-2025-dirty-tanker-market-review) | [Local Asset](../../../../../../corpus/07-signal/images/68de43e7c6d7da74cd0548ec_d634b07d.png)
 
 
 ### Usg–china (TD22)
@@ -130,27 +130,27 @@ On the TD3C benchmark (MEG–China), Worldscale levels climbed sharply, peaking 
 On the TD22 benchmark (US Gulf–China), rates surged through September, peaking near USD 12M mid-month before easing back towards USD 10M by September 30. Despite the late pullback, current levels remain substantially above historical averages, highlighting strong US export activity and limited tonnage availability for long-haul voyages to Asia. (see **Figure** 7)
 
 
-![TD22 Seasonal Evolution Usg - China](../../images/68de43e7c6d7da74cd0548e3_ba04f28e.png)
+![TD22 Seasonal Evolution Usg - China](../../../../../../corpus/07-signal/images/68de43e7c6d7da74cd0548e3_ba04f28e.png)
 
 > **Figure 7: TD22 Seasonal Evolution Usg - China**  
 > *Figure 7: TD22 Seasonal Evolution USG - China(Source: Signal Ocean Market Prices).https://app.signalocean.com/tanker/dynamic/market-prices-tankers*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/from-summer-to-autumn-2025-dirty-tanker-market-review) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/68de43e7c6d7da74cd0548e3_ba04f28e.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/from-summer-to-autumn-2025-dirty-tanker-market-review) | [Local Asset](../../../../../../corpus/07-signal/images/68de43e7c6d7da74cd0548e3_ba04f28e.png)
 
 **Suezmaxes** also benefited from Atlantic basin dislocations. By late August, the TD20 Nigeria–UKC benchmark hovered around WS130, equivalent to roughly $48,000 per day before dropping to WS 104. (see **Figure** 8 & 9)
 
 
-![Td20 Seasonal Evolution Wafr - UK Continent](../../images/68de43e7c6d7da74cd0548ef_dd1cb1ea.png)
+![Td20 Seasonal Evolution Wafr - UK Continent](../../../../../../corpus/07-signal/images/68de43e7c6d7da74cd0548ef_dd1cb1ea.png)
 
 > **Figure 9: Td20 Seasonal Evolution Wafr - UK Continent**  
 > *Figure 9: TD20 Seasonal Evolution Wafr - Uk Continent(Source: Signal Ocean Market Prices).https://app.signalocean.com/tanker/dynamic/market-prices-tankers*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/from-summer-to-autumn-2025-dirty-tanker-market-review) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/68de43e7c6d7da74cd0548ef_dd1cb1ea.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/from-summer-to-autumn-2025-dirty-tanker-market-review) | [Local Asset](../../../../../../corpus/07-signal/images/68de43e7c6d7da74cd0548ef_dd1cb1ea.png)
 
 
-![Td20 Seasonal Evolution Wafr - UK Continent TCE](../../images/68de43e7c6d7da74cd0548f2_32ede740.png)
+![Td20 Seasonal Evolution Wafr - UK Continent TCE](../../../../../../corpus/07-signal/images/68de43e7c6d7da74cd0548f2_32ede740.png)
 
 > **Figure 9: Td20 Seasonal Evolution Wafr - UK Continent TCE**  
 > *Figure 9 TD20 Seasonal Evolution Wafr - UK Continent TCE(Source: Signal Ocean Market Prices).https://app.signalocean.com/tanker/dynamic/market-prices-tankers*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/from-summer-to-autumn-2025-dirty-tanker-market-review) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/68de43e7c6d7da74cd0548f2_32ede740.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/from-summer-to-autumn-2025-dirty-tanker-market-review) | [Local Asset](../../../../../../corpus/07-signal/images/68de43e7c6d7da74cd0548f2_32ede740.png)
 
 
 ## Risks & Watch-Items for Q4
@@ -167,8 +167,8 @@ On the TD22 benchmark (US Gulf–China), rates surged through September, peaking
 While spot fundamentals drove the summer rally, the FFA market is now showing early warning signs for the near term. Signal Ocean Market Forecast Insights on September 22 highlighted a **moderately bearish** sentiment, which has since **materialized**. That said, TCE earnings on the MEG–China route remain above $70,000/day, suggesting that sentiment alone can't explain the pullback, especially as vessel availability stays tight. Still, macroeconomic and geopolitical risks remain, and the forward curve indicates a retracement, either a VLCC retest of summer highs or a softer correction heading into year-end.
 
 
-![VLCC Insights Market Forecasts](../../images/68de43e7c6d7da74cd0548fb_b0bc114d.png)
+![VLCC Insights Market Forecasts](../../../../../../corpus/07-signal/images/68de43e7c6d7da74cd0548fb_b0bc114d.png)
 
 > **Figure 10: VLCC Insights Market Forecasts**  
 > *Figure 10 Vlcc Insights Market Forecasts*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/from-summer-to-autumn-2025-dirty-tanker-market-review) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/68de43e7c6d7da74cd0548fb_b0bc114d.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/from-summer-to-autumn-2025-dirty-tanker-market-review) | [Local Asset](../../../../../../corpus/07-signal/images/68de43e7c6d7da74cd0548fb_b0bc114d.png)

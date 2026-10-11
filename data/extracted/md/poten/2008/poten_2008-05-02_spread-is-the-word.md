@@ -64,6 +64,8 @@ Quality starts with the vessel operator and the people manning the ship. Not all
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: Spread is the Word](../../../charts/poten/2008/poten_2008-05-02_spread-is-the-word_chart1.png)
-
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2008/poten_2008-05-02_spread-is-the-word_chart1.png)
+> **Chart on PDF page 1: Relative Rates**  
+> Unit: WS Rate | Non-DH/DH Ratio · X-axis: Jan-05 to WE - 5/2/08  
+> Series: Non-DH/DH Ratio, Non-DH WS Rate, DH WS Rate  
+> *Source: Poten & Partners*  
+> *No image crop of this chart was saved; caption read from the PDF.*

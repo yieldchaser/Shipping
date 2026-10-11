@@ -33,7 +33,7 @@ In another positive sign for growth in the Chinese economy, the People’s Bank 
 ![Ch1](assets/2021-12-22_dry-weekly-market-monitor_img_ch1_0692ffa70397.png)
 
 > **Figure 1: Ch1**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2021/assets/2021-12-22_dry-weekly-market-monitor_img_ch1_0692ffa70397.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-12-22_dry-weekly-market-monitor_img_ch1_0692ffa70397.png)
 
 Following the highs recorded at Week 49 for Capesize ships, the momentum was weakened for two consecutive weeks with Brazil to NChina rates now heading below $23/ton, however, the market remains healthy compared to December 2020. In the Panamax segment, the decreasing trend is even more pronounced with Cont-Far East rates at less than $45/t, while it seems a challenge for the market to fetch again levels in the range of $50/t.
 
@@ -46,7 +46,7 @@ Supply Trend Lines for Key Load Areas
 ![Ch2](assets/2021-12-22_dry-weekly-market-monitor_img_ch2_de187638418a.png)
 
 > **Figure 2: Ch2**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2021/assets/2021-12-22_dry-weekly-market-monitor_img_ch2_de187638418a.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-12-22_dry-weekly-market-monitor_img_ch2_de187638418a.png)
 
 The supply trend line has kept the decreasing trend from Week 49 up to now as we mentioned in our previous Weekly Monitor. However, this week comes with a significant spike in the handysize NOPAC area.
 
@@ -63,7 +63,7 @@ Evolution of Demand -% Growth
 ![Ch3](assets/2021-12-22_dry-weekly-market-monitor_img_ch3_59441311fddb.png)
 
 > **Figure 3: Ch3**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2021/assets/2021-12-22_dry-weekly-market-monitor_img_ch3_59441311fddb.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-12-22_dry-weekly-market-monitor_img_ch3_59441311fddb.png)
 
 The opening of the third week of December comes to confirm that the increasing trend in ton days demand growth remains in the supramax segment.
 
@@ -76,7 +76,7 @@ Dry bulk ships congested around Chinese ports
 ![Ch4](assets/2021-12-22_dry-weekly-market-monitor_img_ch4_b51bfe5ab752.png)
 
 > **Figure 4: Ch4**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2021/assets/2021-12-22_dry-weekly-market-monitor_img_ch4_b51bfe5ab752.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-12-22_dry-weekly-market-monitor_img_ch4_b51bfe5ab752.png)
 
 Week 51 keeps the decreasing trend below the average trend line of previous weeks, however, we see a sense of upward trend stemming from the smaller ship sizes.
 

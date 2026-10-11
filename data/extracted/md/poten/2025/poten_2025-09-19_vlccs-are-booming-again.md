@@ -28,10 +28,17 @@ Based on the all these factors, the strong VLCC market is not a surprise. But wh
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: VLCCs Are Booming Again](../../../charts/poten/2025/poten_2025-09-19_vlccs-are-booming-again_chart1.png)
+![Exhibit 1: VLCC: AG - FE](../../../charts/poten/2025/poten_2025-09-19_vlccs-are-booming-again_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2025/poten_2025-09-19_vlccs-are-booming-again_chart1.png)
+> **Exhibit 1: VLCC: AG - FE**  
+> Unit: US$/day · X-axis: 1 to 51  
+> Series: 2025, 2024, 2023, 2022, 2021  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2025/poten_2025-09-19_vlccs-are-booming-again_chart1.png)
 
-![Exhibit 2: VLCCs Are Booming Again](../../../charts/poten/2025/poten_2025-09-19_vlccs-are-booming-again_chart2.png)
+![Exhibit 2: VLCC Ton-Mile Development vs Fleet Growth](../../../charts/poten/2025/poten_2025-09-19_vlccs-are-booming-again_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2025/poten_2025-09-19_vlccs-are-booming-again_chart2.png)
+> **Exhibit 2: VLCC Ton-Mile Development vs Fleet Growth**  
+> Unit: Bln Ton-Miles | Fleet Count · X-axis: 1-Jan-16 to 1-May-25  
+> Series: Active Fleet, Bln Ton-Miles  
+> *Source: Poten & Partners, Vortexa*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2025/poten_2025-09-19_vlccs-are-booming-again_chart2.png)

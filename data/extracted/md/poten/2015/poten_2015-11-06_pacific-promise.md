@@ -36,10 +36,18 @@ The impact on the refined product trades and product tanker employment in the Pa
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: Pacific Promise](../../../charts/poten/2015/poten_2015-11-06_pacific-promise_chart1.png)
+![Exhibit 1: Development of Asian Refining Capacity (Select Countries)](../../../charts/poten/2015/poten_2015-11-06_pacific-promise_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2015/poten_2015-11-06_pacific-promise_chart1.png)
+> **Exhibit 1: Development of Asian Refining Capacity (Select Countries)**  
+> Unit: Kb/d · X-axis: 2002 to 2014  
+> Series: China, India, Japan, South Korea, Singapore, Indonesia, Australia  
+> *Source: BP Statistical Review 2015*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2015/poten_2015-11-06_pacific-promise_chart1.png)
 
-![Exhibit 2: Pacific Promise](../../../charts/poten/2015/poten_2015-11-06_pacific-promise_chart2.png)
+![Exhibit 2: Development of Asian Clean Product Trades (Exports + Imports)](../../../charts/poten/2015/poten_2015-11-06_pacific-promise_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2015/poten_2015-11-06_pacific-promise_chart2.png)
+> **Exhibit 2: Development of Asian Clean Product Trades (Exports + Imports)**  
+> Unit: Kb/d · X-axis: 2002 to 2015  
+> Series: Singapore, Korea, India, Japan, China, Indonesia, Australia  
+> *Source: Jodi*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2015/poten_2015-11-06_pacific-promise_chart2.png)

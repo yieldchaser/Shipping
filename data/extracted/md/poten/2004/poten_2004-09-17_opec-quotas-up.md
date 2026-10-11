@@ -64,6 +64,13 @@ As world oil demand continues to grow, Saudi Arabia will be less able to contrib
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: OPEC Quotas: Up](../../../charts/poten/2004/poten_2004-09-17_opec-quotas-up_chart1.png)
+> **Chart on PDF page 2: West Texas Monthly Crude Prices**  
+> Unit: $/Bbl · X-axis: Jan-01 to Jul-04  
+> Series: West Texas Monthly Crude Prices  
+> *Source: Dow Jones Energy Service/Poten*  
+> *No image crop of this chart was saved; caption read from the PDF.*
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2004/poten_2004-09-17_opec-quotas-up_chart1.png)
+> **Chart on PDF page 3: Percentage of Oil Provided by Saudi Arabia**  
+> Unit: % of Production · X-axis: 1986 to 2004  
+> Series: EIA/Poten  
+> *No image crop of this chart was saved; caption read from the PDF.*

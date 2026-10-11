@@ -36,8 +36,8 @@ The question of what to do with the Aruba to New York (TC3) benchmark for clean 
 
 ![Exhibit 1: Leaving Some with a BITR Taste](../../../charts/poten/2014/poten_2014-02-14_leaving-some-with-a-bitr-taste_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2014/poten_2014-02-14_leaving-some-with-a-bitr-taste_chart1.png)
+> **Interactive Asset:** [Local Asset (200 DPI PNG)](../../../charts/poten/2014/poten_2014-02-14_leaving-some-with-a-bitr-taste_chart1.png)
 
 ![Exhibit 2: Leaving Some with a BITR Taste](../../../charts/poten/2014/poten_2014-02-14_leaving-some-with-a-bitr-taste_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2014/poten_2014-02-14_leaving-some-with-a-bitr-taste_chart2.png)
+> **Interactive Asset:** [Local Asset (200 DPI PNG)](../../../charts/poten/2014/poten_2014-02-14_leaving-some-with-a-bitr-taste_chart2.png)

@@ -28,10 +28,18 @@ VLCC rates in the 2000-2009 period averaged $58,000/day, with several months ave
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: The End Of A Decade](../../../charts/poten/2019/poten_2019-12-20_the-end-of-a-decade_chart1.png)
+![Exhibit 1: Freight Rates (VLCC: AG-Japan)](../../../charts/poten/2019/poten_2019-12-20_the-end-of-a-decade_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2019/poten_2019-12-20_the-end-of-a-decade_chart1.png)
+> **Exhibit 1: Freight Rates (VLCC: AG-Japan)**  
+> Unit: USD/Day · X-axis: Jan '00 to Jan '19  
+> Series: 2000-2009, 2010-2019  
+> *Source: Poten & Partners*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2019/poten_2019-12-20_the-end-of-a-decade_chart1.png)
 
-![Exhibit 2: The End Of A Decade](../../../charts/poten/2019/poten_2019-12-20_the-end-of-a-decade_chart2.png)
+![Exhibit 2: Brent Crude Oil Price](../../../charts/poten/2019/poten_2019-12-20_the-end-of-a-decade_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2019/poten_2019-12-20_the-end-of-a-decade_chart2.png)
+> **Exhibit 2: Brent Crude Oil Price**  
+> Unit: $/bbl · X-axis: Jan-00 to Jan-19  
+> Series: Brent Crude Oil Price  
+> *Source: EIA*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2019/poten_2019-12-20_the-end-of-a-decade_chart2.png)

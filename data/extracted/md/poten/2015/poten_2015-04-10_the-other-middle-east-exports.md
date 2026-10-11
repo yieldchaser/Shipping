@@ -34,10 +34,18 @@ Product exports from the Middle East are still at an early stage and will provid
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: The Other Middle East Exports](../../../charts/poten/2015/poten_2015-04-10_the-other-middle-east-exports_chart1.png)
+![Exhibit 1: Saudi Arabian Refined Product Exports](../../../charts/poten/2015/poten_2015-04-10_the-other-middle-east-exports_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2015/poten_2015-04-10_the-other-middle-east-exports_chart1.png)
+> **Exhibit 1: Saudi Arabian Refined Product Exports**  
+> Unit: Kb/d · X-axis: Jan-08 to Jul-14  
+> Series: Gasoil/Diesel, Gasoline, Kerosine, Fuel Oil  
+> *Source: JODI*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2015/poten_2015-04-10_the-other-middle-east-exports_chart1.png)
 
-![Exhibit 2: The Other Middle East Exports](../../../charts/poten/2015/poten_2015-04-10_the-other-middle-east-exports_chart2.png)
+![Exhibit 2: Reported Clean Spot Fixtures from the Middle East](../../../charts/poten/2015/poten_2015-04-10_the-other-middle-east-exports_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2015/poten_2015-04-10_the-other-middle-east-exports_chart2.png)
+> **Exhibit 2: Reported Clean Spot Fixtures from the Middle East**  
+> Unit: No. Fixtures · X-axis: 2008 to 2014  
+> Series: Suezmax, LR2, LR1, MR, Handysize, Small  
+> *Source: Poten & Partners*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2015/poten_2015-04-10_the-other-middle-east-exports_chart2.png)

@@ -60,6 +60,14 @@ That's the message in the chart- let's hope the investors are right again!
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: Investors- What Do They Know?](../../../charts/poten/2005/poten_2005-04-15_investors-what-do-they-know_chart1.png)
+> **Chart on PDF page 1: Poten Tanker Index vs Equity Index**  
+> Unit: Index Value · X-axis: Jan-97 to Jan-05  
+> Series: PTI, Equity  
+> *Source: Poten & Partners*  
+> *No image crop of this chart was saved; caption read from the PDF.*
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2005/poten_2005-04-15_investors-what-do-they-know_chart1.png)
+> **Chart on PDF page 2: Differential Between Equity & Tanker Indices**  
+> Unit: Equity Less Tanker Indices · X-axis: Jul-00 to Jan-05  
+> Series: Equity Less Tanker Indices  
+> *Source: Poten & Partners*  
+> *No image crop of this chart was saved; caption read from the PDF.*

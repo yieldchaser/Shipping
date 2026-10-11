@@ -34,8 +34,8 @@ However, for owners that have the experience and confidence to take the long-ter
 
 ![Exhibit 1: Take Advantage of This Yard Sale](../../../charts/poten/2016/poten_2016-05-13_take-advantage-of-this-yard-sale_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2016/poten_2016-05-13_take-advantage-of-this-yard-sale_chart1.png)
+> **Interactive Asset:** [Local Asset (200 DPI PNG)](../../../charts/poten/2016/poten_2016-05-13_take-advantage-of-this-yard-sale_chart1.png)
 
 ![Exhibit 2: Take Advantage of This Yard Sale](../../../charts/poten/2016/poten_2016-05-13_take-advantage-of-this-yard-sale_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2016/poten_2016-05-13_take-advantage-of-this-yard-sale_chart2.png)
+> **Interactive Asset:** [Local Asset (200 DPI PNG)](../../../charts/poten/2016/poten_2016-05-13_take-advantage-of-this-yard-sale_chart2.png)

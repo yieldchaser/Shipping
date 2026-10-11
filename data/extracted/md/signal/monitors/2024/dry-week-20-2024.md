@@ -31,7 +31,7 @@ tags:
 ![6644b83d184f2859e2a8ec57 Chart of the Week Dry (2)](../../images/6644b83d184f2859e2a8ec57_CHART OF THE WEEK DRY (2).png)
 
 > **Figure 1: 6644b83d184f2859e2a8ec57 Chart of the Week Dry (2)**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/dry-week-20-2024) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6644b83d184f2859e2a8ec57_CHART OF THE WEEK DRY (2).png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/dry-week-20-2024) | [Local Asset](../../../../../../corpus/07-signal/images/6644b83d184f2859e2a8ec57_CHART%20OF%20THE%20WEEK%20DRY%20(2).png)
 
 The month of May presents challenges for the Capesize freight market prices, as uncertainties loom over Chinese macroeconomic fundamentals, potentially impacting future growth and demand. As China moves into the second quarter, [various indicators](https://www.cnbc.com/2024/05/15/chinas-economy-reveals-pockets-of-softness-ahead-of-fridays-data.html)hint at the possibility of sluggish economic expansion unless conditions improve, leading to heightened expectations for monetary policy adjustments. Over the weekend, the People’s Bank of China disclosed April’s new loan data, revealing a significant decline in demand. Several metrics hit their lowest levels in at least two decades, painting a concerning picture of the economic landscape. Moreover, on Friday, China is slated to issue its inaugural 30-year ultra-long bond, signalling the commencement of a previously announced initiative aimed at raising 1 trillion yuan ($138.25 billion) for pivotal strategic projects.
 

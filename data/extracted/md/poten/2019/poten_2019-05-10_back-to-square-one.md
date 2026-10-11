@@ -28,10 +28,18 @@ However, while ton-mile demand for VLCCs declined much less than demand for Suez
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: Back to Square One](../../../charts/poten/2019/poten_2019-05-10_back-to-square-one_chart1.png)
+![Exhibit 1: Change in Ton Mile Demand](../../../charts/poten/2019/poten_2019-05-10_back-to-square-one_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2019/poten_2019-05-10_back-to-square-one_chart1.png)
+> **Exhibit 1: Change in Ton Mile Demand**  
+> Unit: Bln TM/Month · X-axis: 2018Q1 - 2018Q4 to 2018Q4 - 2019Q1  
+> Series: VLCC, Suezmax, Aframax, Other  
+> *Source: Lloyd’s List Intelligence*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2019/poten_2019-05-10_back-to-square-one_chart1.png)
 
-![Exhibit 2: Back to Square One](../../../charts/poten/2019/poten_2019-05-10_back-to-square-one_chart2.png)
+![Exhibit 2: Tanker Freight Rates](../../../charts/poten/2019/poten_2019-05-10_back-to-square-one_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2019/poten_2019-05-10_back-to-square-one_chart2.png)
+> **Exhibit 2: Tanker Freight Rates**  
+> Unit: US$/day · X-axis: Jan-18 to Apr-19  
+> Series: VLCC TD3c, Suezmax TD20, Aframax TD9  
+> *Source: Poten & Partners*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2019/poten_2019-05-10_back-to-square-one_chart2.png)

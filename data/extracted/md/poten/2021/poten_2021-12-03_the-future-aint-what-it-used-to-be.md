@@ -26,10 +26,18 @@ In conclusion, the outlook for the tanker market is highly uncertain. Oil supply
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: The Future Aint What It Used To Be](../../../charts/poten/2021/poten_2021-12-03_the-future-aint-what-it-used-to-be_chart1.png)
+![Exhibit 1: Oil Demand/Production and Stock Changes](../../../charts/poten/2021/poten_2021-12-03_the-future-aint-what-it-used-to-be_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2021/poten_2021-12-03_the-future-aint-what-it-used-to-be_chart1.png)
+> **Exhibit 1: Oil Demand/Production and Stock Changes**  
+> Unit: Mb/d | Mb/d · X-axis: Jan-19 to Nov-22  
+> Series: Stock Changes, Oil Demand, Oil Production  
+> *Source: EIA*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2021/poten_2021-12-03_the-future-aint-what-it-used-to-be_chart1.png)
 
-![Exhibit 2: The Future Aint What It Used To Be](../../../charts/poten/2021/poten_2021-12-03_the-future-aint-what-it-used-to-be_chart2.png)
+![Exhibit 2: Brent Oil Price vs TCE (TD3)](../../../charts/poten/2021/poten_2021-12-03_the-future-aint-what-it-used-to-be_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2021/poten_2021-12-03_the-future-aint-what-it-used-to-be_chart2.png)
+> **Exhibit 2: Brent Oil Price vs TCE (TD3)**  
+> Unit: $/bbl | EMPTY · X-axis: Jan-19 to Nov-21  
+> Series: Brent Oil Price, TCE (TD3/TD3c)  
+> *Source: Poten & Partners*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2021/poten_2021-12-03_the-future-aint-what-it-used-to-be_chart2.png)

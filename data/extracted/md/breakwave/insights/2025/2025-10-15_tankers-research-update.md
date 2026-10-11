@@ -38,11 +38,11 @@ In sum, the efforts by USTR on Friday to provide ‘greater certainty’ may hav
 
 We have compiled the following table below as a quick guide to the US and Chinese port fees. Please note that this is our interpretation of the rules and could be subject to change as more clarity emerges.
 
-![1ustr Fee Exemptions for Chinese-Built Vessels:](assets/2025-10-15_tankers-research-update_img_f1bc-image-0-1760462163275_9a30b0b624fb.png)
+![1ustr Fee Exemptions for Chinese-Built Vessels:](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-10-15_tankers-research-update_img_f1bc-image-0-1760462163275_9a30b0b624fb.png)
 
 > **Figure 1: 1ustr Fee Exemptions for Chinese-Built Vessels:**  
 > *1USTR fee exemptions for Chinese-built vessels:*  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-10-15_tankers-research-update_img_f1bc-image-0-1760462163275_9a30b0b624fb.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-10-15_tankers-research-update_img_f1bc-image-0-1760462163275_9a30b0b624fb.png)
 
 *- At least 75% US owned*
 

@@ -90,6 +90,25 @@ While both rate and volatility late-year statistical trends might repeat themsel
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: Volatility Redux](../../../charts/poten/2007/poten_2007-10-15_volatility-redux_chart1.png)
+> **Chart on PDF page 1: VLCC: AG to Far East WS Rates, 1997 to August 2007**  
+> Unit: WS · X-axis: Average to Standard Deviation  
+> Series: 1997 to 2002, 2003 to August 2007  
+> *Source: Poten data*  
+> *No image crop of this chart was saved; caption read from the PDF.*
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2007/poten_2007-10-15_volatility-redux_chart1.png)
+> **Chart on PDF page 2: VLCC: AG to Far East Monthly TCE 1997 to 2006**  
+> Unit: TCE, $/day · X-axis: Jan to Dec  
+> Series: Min, Max, VLCC Average WS, Std Dev, Jan to Aug 2007  
+> *Source: Poten*  
+> *No image crop of this chart was saved; caption read from the PDF.*
+
+> **Chart on PDF page 2: VLCC Fixtures From AG to Far East 1997 to 2006**  
+> Unit: Monthly Fixtures · X-axis: Jan to Dec  
+> Series: Low, High, Average, Jan to August 2007  
+> *Source: Poten data*  
+> *No image crop of this chart was saved; caption read from the PDF.*
+
+> **Chart on PDF page 3: Timecharter Equivalent for VLCCs AG to Far East**  
+> Unit: TCE $/Day · X-axis: WE - 01/05/2007 to WE - 08/17/2007  
+> Series: Timecharter Equivalent  
+> *No image crop of this chart was saved; caption read from the PDF.*

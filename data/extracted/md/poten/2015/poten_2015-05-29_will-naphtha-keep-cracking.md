@@ -34,10 +34,18 @@ The IEA forecasts that Asian demand growth will slow and that the region's short
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: Will Naphtha Keep Cracking](../../../charts/poten/2015/poten_2015-05-29_will-naphtha-keep-cracking_chart1.png)
+![Exhibit 1: Main naphtha trade flows](../../../charts/poten/2015/poten_2015-05-29_will-naphtha-keep-cracking_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2015/poten_2015-05-29_will-naphtha-keep-cracking_chart1.png)
+> **Exhibit 1: Main naphtha trade flows**  
+> X-axis: 2010 to 2015 E  
+> Series: AG-FE, SOUTH ASIA-FE, MED-MED, MED-FE, RS-FE  
+> *Source: EIA*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2015/poten_2015-05-29_will-naphtha-keep-cracking_chart1.png)
 
-![Exhibit 2: Will Naphtha Keep Cracking](../../../charts/poten/2015/poten_2015-05-29_will-naphtha-keep-cracking_chart2.png)
+![Exhibit 2: Forecasted Asian naphtha balances](../../../charts/poten/2015/poten_2015-05-29_will-naphtha-keep-cracking_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2015/poten_2015-05-29_will-naphtha-keep-cracking_chart2.png)
+> **Exhibit 2: Forecasted Asian naphtha balances**  
+> Unit: mb/d · X-axis: 2008 to 2020  
+> Series: Middle East surplus, Asian shortfall  
+> *Source: IEA*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2015/poten_2015-05-29_will-naphtha-keep-cracking_chart2.png)

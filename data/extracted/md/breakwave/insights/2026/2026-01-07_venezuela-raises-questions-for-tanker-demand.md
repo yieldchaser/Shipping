@@ -24,10 +24,10 @@ Post US operation to remove Maduro from Venezuela will we revert to pre-Venezuel
 
 On balance, the next chapter for Venezuelan crude trade should favour Aframaxes over the VLCCs, and compliant ships over shadow tankers.
 
-![Market Chart 1](assets/2026-01-07_venezuela-raises-questions-for-tanker-demand_img_image001_305e0fd621dd.png)
+![Market Chart 1](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-01-07_venezuela-raises-questions-for-tanker-demand_img_image001_305e0fd621dd.png)
 
 > **Figure 1: Market Chart 1**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-01-07_venezuela-raises-questions-for-tanker-demand_img_image001_305e0fd621dd.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-01-07_venezuela-raises-questions-for-tanker-demand_img_image001_305e0fd621dd.png)
 
 *Source: Vortexa*
 
@@ -35,10 +35,10 @@ Thanks to the US blockade of Venezuela’s oil exports in December, Venezuela’
 
 During 2025 China imported between 66%-75% and (458-590k b/d) of Venezuela’s crude exports. The upper limit assumes that the 132k b/d of crude exports with ‘undetermined’ destination went to China. The US took 22% (150k b/d). Exports to India, Italy and Spain were permitted under US sanction waivers until late May. Their combined imports averaged 43k b/d for the year. Cuba imported only around 5k b/d.
 
-![Market Chart 2](assets/2026-01-07_venezuela-raises-questions-for-tanker-demand_img_image002_5ee4e0ae9b3d.png)
+![Market Chart 2](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-01-07_venezuela-raises-questions-for-tanker-demand_img_image002_5ee4e0ae9b3d.png)
 
 > **Figure 2: Market Chart 2**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-01-07_venezuela-raises-questions-for-tanker-demand_img_image002_5ee4e0ae9b3d.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-01-07_venezuela-raises-questions-for-tanker-demand_img_image002_5ee4e0ae9b3d.png)
 
 *Source: Vortexa*
 
@@ -58,10 +58,10 @@ At some point Chinese state-owned refiners will look to replace the roughly 200k
 
 Newly unemployed dark fleet VLCCs that transported Venezuelan crude to China are likely to move into the Iranian trade. Out of the 76 shadow VLCCs that lifted a Venezuelan crude cargo in 2025, 44 (58%) are free of sanctions. While they remain so, some of the younger vessels can be used to discharge in Chinese terminals. The Shandong Port Group’s ban remains in place for US-sanctioned vessels. Venezuela’s displaced sanctioned vessels could call in Iran. This would enable Iran to increase crude exports. Iran’s crude exports fell in December by around 830k b/d from 1.93m b/d the previous month due to a shortage of tonnage thanks to the buildup of oil on its fleet in East Asia.
 
-![Bc07 Image 2 1767728499132](assets/2026-01-07_venezuela-raises-questions-for-tanker-demand_img_bc07-image-2-1767728499132_c00ed384532f.png)
+![Bc07 Image 2 1767728499132](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-01-07_venezuela-raises-questions-for-tanker-demand_img_bc07-image-2-1767728499132_c00ed384532f.png)
 
 > **Figure 3: Bc07 Image 2 1767728499132**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-01-07_venezuela-raises-questions-for-tanker-demand_img_bc07-image-2-1767728499132_c00ed384532f.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-01-07_venezuela-raises-questions-for-tanker-demand_img_bc07-image-2-1767728499132_c00ed384532f.png)
 
 *Source: Vortexa*
 

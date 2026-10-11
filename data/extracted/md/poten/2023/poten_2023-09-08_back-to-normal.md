@@ -34,10 +34,17 @@ As we get closer to the fourth quarter and seasonal oil demand picks up, we expe
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: Back To Normal](../../../charts/poten/2023/poten_2023-09-08_back-to-normal_chart1.png)
+![Exhibit 1: VLCC 270,000 KT: AG - FE](../../../charts/poten/2023/poten_2023-09-08_back-to-normal_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2023/poten_2023-09-08_back-to-normal_chart1.png)
+> **Exhibit 1: VLCC 270,000 KT: AG - FE**  
+> Unit: US$/day · X-axis: 1 to 51  
+> Series: 2018-2022 Range, 2023  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2023/poten_2023-09-08_back-to-normal_chart1.png)
 
-![Exhibit 2: Back To Normal](../../../charts/poten/2023/poten_2023-09-08_back-to-normal_chart2.png)
+![Exhibit 2: VLCC: Historical Time Charter Rates](../../../charts/poten/2023/poten_2023-09-08_back-to-normal_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2023/poten_2023-09-08_back-to-normal_chart2.png)
+> **Exhibit 2: VLCC: Historical Time Charter Rates**  
+> Unit: $/day · X-axis: Jan-2000 to Jan-2023  
+> Series: 1 Year TC, 3 Year TC  
+> *Source: Poten & Partners*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2023/poten_2023-09-08_back-to-normal_chart2.png)

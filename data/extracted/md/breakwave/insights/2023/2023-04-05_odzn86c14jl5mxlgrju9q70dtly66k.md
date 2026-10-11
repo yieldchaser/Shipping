@@ -19,10 +19,10 @@ source_file: "corpus/03-breakwave/insights/2023/2023-04-05_odzn86c14jl5mxlgrju9q
 
 ---
 
-![1 (11)](assets/2023-04-05_odzn86c14jl5mxlgrju9q70dtly66k_img_1281129_63f2c0ca8a17.png)
+![1 (11)](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-04-05_odzn86c14jl5mxlgrju9q70dtly66k_img_1281129_63f2c0ca8a17.png)
 
 > **Figure 1: 1 (11)**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-04-05_odzn86c14jl5mxlgrju9q70dtly66k_img_1281129_63f2c0ca8a17.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-04-05_odzn86c14jl5mxlgrju9q70dtly66k_img_1281129_63f2c0ca8a17.png)
 
 A tank terminal is a facility that houses multiple bulk liquid storage tanks.
 
@@ -32,26 +32,26 @@ Tanks allow owners of the liquid products to store their products in a location 
 
 ## Discharge Port: Refining, Storage and Distribution
 
-![Εικόνα1](assets/2023-04-05_odzn86c14jl5mxlgrju9q70dtly66k_img_ce95ceb9cebacf8ccebdceb11_e7b8c4748849.png)
+![Εικόνα1](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-04-05_odzn86c14jl5mxlgrju9q70dtly66k_img_ce95ceb9cebacf8ccebdceb11_e7b8c4748849.png)
 
 > **Figure 2: Εικόνα1**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-04-05_odzn86c14jl5mxlgrju9q70dtly66k_img_ce95ceb9cebacf8ccebdceb11_e7b8c4748849.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-04-05_odzn86c14jl5mxlgrju9q70dtly66k_img_ce95ceb9cebacf8ccebdceb11_e7b8c4748849.png)
 
 ## Some of the Best Known:
 
 1. ## Singapore
 
-![Horizon Oil Terminal 1](assets/2023-04-05_odzn86c14jl5mxlgrju9q70dtly66k_img_horizon-oil-terminal-1_9e2fce98c062.jpg)
+![Horizon Oil Terminal 1](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-04-05_odzn86c14jl5mxlgrju9q70dtly66k_img_horizon-oil-terminal-1_9e2fce98c062.jpg)
 
 > **Figure 3: Horizon Oil Terminal 1**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-04-05_odzn86c14jl5mxlgrju9q70dtly66k_img_horizon-oil-terminal-1_9e2fce98c062.jpg)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-04-05_odzn86c14jl5mxlgrju9q70dtly66k_img_horizon-oil-terminal-1_9e2fce98c062.jpg)
 
 ## 2. Rotterdam
 
-![Photo Odfjell 90754](assets/2023-04-05_odzn86c14jl5mxlgrju9q70dtly66k_img_photo-odfjell-90754_28049b1e6bd6.jpg)
+![Photo Odfjell 90754](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-04-05_odzn86c14jl5mxlgrju9q70dtly66k_img_photo-odfjell-90754_28049b1e6bd6.jpg)
 
 > **Figure 4: Photo Odfjell 90754**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-04-05_odzn86c14jl5mxlgrju9q70dtly66k_img_photo-odfjell-90754_28049b1e6bd6.jpg)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-04-05_odzn86c14jl5mxlgrju9q70dtly66k_img_photo-odfjell-90754_28049b1e6bd6.jpg)
 
 ## 3.fujairah
 
@@ -59,7 +59,7 @@ Tanks allow owners of the liquid products to store their products in a location 
 
 ## 5. Houston
 
-![1200x0 (1)](assets/2023-04-05_odzn86c14jl5mxlgrju9q70dtly66k_img_1200x028129_c673e6442e69.jpg)
+![1200x0 (1)](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-04-05_odzn86c14jl5mxlgrju9q70dtly66k_img_1200x028129_c673e6442e69.jpg)
 
 > **Figure 5: 1200x0 (1)**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-04-05_odzn86c14jl5mxlgrju9q70dtly66k_img_1200x028129_c673e6442e69.jpg)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-04-05_odzn86c14jl5mxlgrju9q70dtly66k_img_1200x028129_c673e6442e69.jpg)

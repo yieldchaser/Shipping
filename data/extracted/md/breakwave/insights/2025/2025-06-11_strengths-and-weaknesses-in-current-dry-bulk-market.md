@@ -26,10 +26,10 @@ Overall dry bulk rates increased last week. Capesize rates jumped another 25%. T
 
 Overall, we must continue to stress that China’s steel production remains at a firm level and that we remain bullish for China’s iron ore import prospects. The recent strength in spot iron ore volume and uptick in capesize rates is not extremely surprising. At the same time, though, we must continue to stress that we remain very concerned for global coal trade prospects. While in last week’s Weekly Executive Report we reiterated our bearishness for China’s coal-derived electricity generation and China’s coal import prospects, this week’s Weekly Executive Report included a focus on India. India’s total electricity generation and coal-derived electricity generation have both now contracted on a year-on-year basis during three of the last five months. And very concerning for the dry bulk market is that last month saw India’s coal-derived electricity fall year-on-year by 11%, which is the largest contraction seen this decade. As we have stressed often in our Weekly Executive Reports this year, weakness in India’s overall economy, combined with the return of sustained growth in Indian hydropower production, continues to put considerable pressure on India’s coal-derived electricity generation and demand for imported coal.
 
-![Chart](assets/2025-06-11_strengths-and-weaknesses-in-current-dry-bulk-market_img_chart_ca88248730d8.jpg)
+![Chart](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-06-11_strengths-and-weaknesses-in-current-dry-bulk-market_img_chart_ca88248730d8.jpg)
 
 > **Figure 1: Chart**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-06-11_strengths-and-weaknesses-in-current-dry-bulk-market_img_chart_ca88248730d8.jpg)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-06-11_strengths-and-weaknesses-in-current-dry-bulk-market_img_chart_ca88248730d8.jpg)
 
 ---
 

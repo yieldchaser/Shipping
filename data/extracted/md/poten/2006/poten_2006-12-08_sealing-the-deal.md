@@ -60,6 +60,8 @@ The price of coating a vessel has increased marginally making the incremental co
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: Sealing The Deal](../../../charts/poten/2006/poten_2006-12-08_sealing-the-deal_chart1.png)
-
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2006/poten_2006-12-08_sealing-the-deal_chart1.png)
+> **Chart on PDF page 1: Untitled chart**  
+> Unit: Price ($M) | Ratio (SH:NB) · X-axis: Jan-02 to Aug-06  
+> Series: Ratio, VLCC Newbuilding, VLCC Second Hand  
+> *Source: Poten & Partners*  
+> *No image crop of this chart was saved; caption read from the PDF.*

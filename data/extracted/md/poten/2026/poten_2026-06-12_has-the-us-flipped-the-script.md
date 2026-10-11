@@ -28,10 +28,17 @@ It appears that the US blockade, choking off Iranian exports, in combination wit
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: Has The U.S. Flipped The Script](../../../charts/poten/2026/poten_2026-06-12_has-the-us-flipped-the-script_chart1.png)
+![Exhibit 1: Daily Oil Cargoes Transiting the Strait of Hormuz in 2026](../../../charts/poten/2026/poten_2026-06-12_has-the-us-flipped-the-script_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2026/poten_2026-06-12_has-the-us-flipped-the-script_chart1.png)
+> **Exhibit 1: Daily Oil Cargoes Transiting the Strait of Hormuz in 2026**  
+> Unit: Cargo Count · X-axis: 1-Jan to 11-Jun  
+> Series: Crude/Condensates, Dirty Petroleum Products, Clean Petroleum Products  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2026/poten_2026-06-12_has-the-us-flipped-the-script_chart1.png)
 
-![Exhibit 2: Has The U.S. Flipped The Script](../../../charts/poten/2026/poten_2026-06-12_has-the-us-flipped-the-script_chart2.png)
+![Exhibit 2: Iran Crude & Dirty Product Exports By Destination](../../../charts/poten/2026/poten_2026-06-12_has-the-us-flipped-the-script_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2026/poten_2026-06-12_has-the-us-flipped-the-script_chart2.png)
+> **Exhibit 2: Iran Crude & Dirty Product Exports By Destination**  
+> Unit: Kb/d · X-axis: 6-Jan-25 to 25-May-26  
+> Series: China, Undetermined, Malaysia, India, Singapore, Sri Lanka, South Korea, Philippines, Other  
+> *Source: Vortexa*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2026/poten_2026-06-12_has-the-us-flipped-the-script_chart2.png)

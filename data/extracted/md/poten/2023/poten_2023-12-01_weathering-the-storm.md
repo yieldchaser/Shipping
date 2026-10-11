@@ -34,10 +34,17 @@ Kazakhstan is an important producer in a strategic location. It supplies both Eu
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: Weathering The Storm](../../../charts/poten/2023/poten_2023-12-01_weathering-the-storm_chart1.png)
+![Exhibit 1: Black Sea Crude Loadings by Grade](../../../charts/poten/2023/poten_2023-12-01_weathering-the-storm_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2023/poten_2023-12-01_weathering-the-storm_chart1.png)
+> **Exhibit 1: Black Sea Crude Loadings by Grade**  
+> Unit: Kb/d · X-axis: Jan-20 to Nov-23  
+> Series: CPC Blend, Urals, Siberian Light, Kazakh Blend (KEBCO), Azeri Light, Other  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2023/poten_2023-12-01_weathering-the-storm_chart1.png)
 
-![Exhibit 2: Weathering The Storm](../../../charts/poten/2023/poten_2023-12-01_weathering-the-storm_chart2.png)
+![Exhibit 2: Black Sea Crude Loadings by Destination](../../../charts/poten/2023/poten_2023-12-01_weathering-the-storm_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2023/poten_2023-12-01_weathering-the-storm_chart2.png)
+> **Exhibit 2: Black Sea Crude Loadings by Destination**  
+> Unit: Kb/d · X-axis: Jan-20 to Nov-23  
+> Series: Italy, India, Turkey, South Korea, Romania, China, Netherlands, France, Other  
+> *Source: Vortexa*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2023/poten_2023-12-01_weathering-the-storm_chart2.png)

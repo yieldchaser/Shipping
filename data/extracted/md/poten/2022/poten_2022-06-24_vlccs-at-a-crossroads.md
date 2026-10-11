@@ -34,10 +34,17 @@ It is hard to predict which scenario will play out. The truth will probably be s
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: VLCCs at a Crossroads](../../../charts/poten/2022/poten_2022-06-24_vlccs-at-a-crossroads_chart1.png)
+![Exhibit 1: VLCC Ton-Mile Demand By Load Region vs Fleet Development](../../../charts/poten/2022/poten_2022-06-24_vlccs-at-a-crossroads_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2022/poten_2022-06-24_vlccs-at-a-crossroads_chart1.png)
+> **Exhibit 1: VLCC Ton-Mile Demand By Load Region vs Fleet Development**  
+> Unit: TonMiles (Mln) per Day | # VLCCs · X-axis: Jan-15 to Apr-22  
+> Series: Middle East, West Africa, Mediterranean, Americas, Atlantic, UKC/Baltic, Asia/Australia, Americas, Pacific, VLCC Fleet Count  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2022/poten_2022-06-24_vlccs-at-a-crossroads_chart1.png)
 
-![Exhibit 2: VLCCs at a Crossroads](../../../charts/poten/2022/poten_2022-06-24_vlccs-at-a-crossroads_chart2.png)
+![Exhibit 2: Productivity (TM/VLCC) vs TCE](../../../charts/poten/2022/poten_2022-06-24_vlccs-at-a-crossroads_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2022/poten_2022-06-24_vlccs-at-a-crossroads_chart2.png)
+> **Exhibit 2: Productivity (TM/VLCC) vs TCE**  
+> Unit: Bn TM/VLCC | x$1,000 · X-axis: Jan-14 to May-22  
+> Series: TM/VLCC, TD3 TCE  
+> *Source: Lloyd’s List Intelligence; Poten & Partners*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2022/poten_2022-06-24_vlccs-at-a-crossroads_chart2.png)

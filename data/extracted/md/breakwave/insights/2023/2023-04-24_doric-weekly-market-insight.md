@@ -27,17 +27,17 @@ Following World Trade Organization's rather bearish view of 1.7 percent merchand
 
 On the macro front, the world’s second largest economy expanded by 4.5 percent in the first quarter as consumption got a boost after Beijing abandoned draconian Covid-19 measures. Beating expectations for growth of circa 4 percent, the year-on-year figures from China's National Bureau of Statistics marked the strongest expansion since early last year. On a quarterly basis, GDP grew 2.2 percent in the first three months of the year, up from a marginal 0.5 percent rise at the end of last year. An increasing number of positive factors are contributing to the overall improvement in economic operation, Meng Wei, spokesperson for the National Development and Reform Commission, told a press conference on Wednesday, adding that domestic demand is gradually expanding, production and supply are recovering at a faster pace, and public expectations are notably improving. The higher-than-expected growth rate in the first quarter was partly driven by a rebound in consumption, with official data showing retail sales gathering momentum. In fact, retail sales in March rose a forecast-beating 10.6 percent, closing in on a two-year high.
 
-![1 (10)](assets/2023-04-24_doric-weekly-market-insight_img_1281029_8a9d6f900978.png)
+![1 (10)](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-04-24_doric-weekly-market-insight_img_1281029_8a9d6f900978.png)
 
 > **Figure 1: 1 (10)**  
-> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-04-24_doric-weekly-market-insight_img_1281029_8a9d6f900978.png)
+> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-04-24_doric-weekly-market-insight_img_1281029_8a9d6f900978.png)
 
 Conversely, factory output last month was up 3.9 percent from a year earlier, slightly missing expectations. On a month-on-month basis, in March, the added value of industries above designated size increased marginally by 0.12 percent. In terms of three categories, the added value of the mining industry increased by 0.9 percent year-on-year, the manufacturing industry moved up by 4.2 percent, and the production and supply of electricity, heat power, gas and water increased by 5.2 percent. In terms of products, 127.25 million tonnes of steel were furnaced, a solid year-on-year increase of 8.1 percent. Additionally, the output of the cement industry came at 205.80 million tonnes, up 10.4 percent on an annual basis.
 
-![1 (11)](assets/2023-04-24_doric-weekly-market-insight_img_1281129_fbb232425555.png)
+![1 (11)](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-04-24_doric-weekly-market-insight_img_1281129_fbb232425555.png)
 
 > **Figure 2: 1 (11)**  
-> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-04-24_doric-weekly-market-insight_img_1281129_fbb232425555.png)
+> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-04-24_doric-weekly-market-insight_img_1281129_fbb232425555.png)
 
 In spite of the strong performance in March, China’s contribution to global steel demand growth will lessen, as its population declines and moves to consumption-driven growth. The World Steel Association, in the latest update of its Short Range Outlook, stressed that future global steel demand growth will rely on reduced drivers, primarily concentrated in Asia. Investments in decarbonisation and dynamic emerging economies will increasingly drive positive momentum for global steel demand, even as China’s contribution to global growth diminishes. For the current year, global steel demand is expected to see a 2.3 percent rebound to reach 1,822.3 Mt. Steel demand is forecast to grow by 1.7 percent in 2024 to 1,854.0 Mt. Manufacturing will lead the recovery, but high interest rates will continue to weigh on demand dynamics. Next year, growth is expected to accelerate in most regions, but deceleration is expected in China.
 

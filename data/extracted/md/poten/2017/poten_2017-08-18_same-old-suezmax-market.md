@@ -28,10 +28,18 @@ What happened to the size of the Suezmax fleet? The difference between August 1,
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: Same Old Suezmax Market](../../../charts/poten/2017/poten_2017-08-18_same-old-suezmax-market_chart1.png)
+![Exhibit 1: Suezmax 130,000: Bonny - Philadelphia](../../../charts/poten/2017/poten_2017-08-18_same-old-suezmax-market_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2017/poten_2017-08-18_same-old-suezmax-market_chart1.png)
+> **Exhibit 1: Suezmax 130,000: Bonny - Philadelphia**  
+> Unit: US$/day · X-axis: 1 to 51  
+> Series: 2017, 2016, 2015  
+> *Source: Poten*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2017/poten_2017-08-18_same-old-suezmax-market_chart1.png)
 
-![Exhibit 2: Same Old Suezmax Market](../../../charts/poten/2017/poten_2017-08-18_same-old-suezmax-market_chart2.png)
+![Exhibit 2: Average Monthly Suezmax Voyages by Import Area (Jan-Jul)](../../../charts/poten/2017/poten_2017-08-18_same-old-suezmax-market_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2017/poten_2017-08-18_same-old-suezmax-market_chart2.png)
+> **Exhibit 2: Average Monthly Suezmax Voyages by Import Area (Jan-Jul)**  
+> X-axis: N America to AustralA...  
+> Series: 2017, 2016, 2015  
+> *Source: Lloyd’s List Intelligence*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2017/poten_2017-08-18_same-old-suezmax-market_chart2.png)

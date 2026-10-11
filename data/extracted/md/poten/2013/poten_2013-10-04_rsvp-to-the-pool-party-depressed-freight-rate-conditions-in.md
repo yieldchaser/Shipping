@@ -48,20 +48,23 @@ The pool management deck is being reshuffled, some pools are gaining ships while
 
 ![Exhibit 1: RSVP to the Pool Party Depressed freight rate conditions in the early part of the last decade saw the](../../../charts/poten/2013/poten_2013-10-04_rsvp-to-the-pool-party-depressed-freight-rate-conditions-in_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2013/poten_2013-10-04_rsvp-to-the-pool-party-depressed-freight-rate-conditions-in_chart1.png)
+> **Interactive Asset:** [Local Asset (200 DPI PNG)](../../../charts/poten/2013/poten_2013-10-04_rsvp-to-the-pool-party-depressed-freight-rate-conditions-in_chart1.png)
 
 ![Exhibit 2: RSVP to the Pool Party Depressed freight rate conditions in the early part of the last decade saw the](../../../charts/poten/2013/poten_2013-10-04_rsvp-to-the-pool-party-depressed-freight-rate-conditions-in_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2013/poten_2013-10-04_rsvp-to-the-pool-party-depressed-freight-rate-conditions-in_chart2.png)
+> **Interactive Asset:** [Local Asset (200 DPI PNG)](../../../charts/poten/2013/poten_2013-10-04_rsvp-to-the-pool-party-depressed-freight-rate-conditions-in_chart2.png)
 
 ![Exhibit 3: RSVP to the Pool Party Depressed freight rate conditions in the early part of the last decade saw the](../../../charts/poten/2013/poten_2013-10-04_rsvp-to-the-pool-party-depressed-freight-rate-conditions-in_chart3.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2013/poten_2013-10-04_rsvp-to-the-pool-party-depressed-freight-rate-conditions-in_chart3.png)
+> **Interactive Asset:** [Local Asset (200 DPI PNG)](../../../charts/poten/2013/poten_2013-10-04_rsvp-to-the-pool-party-depressed-freight-rate-conditions-in_chart3.png)
 
-![Exhibit 4: RSVP to the Pool Party Depressed freight rate conditions in the early part of the last decade saw the](../../../charts/poten/2013/poten_2013-10-04_rsvp-to-the-pool-party-depressed-freight-rate-conditions-in_chart4.png)
+![Exhibit 4: Market Rate Structure](../../../charts/poten/2013/poten_2013-10-04_rsvp-to-the-pool-party-depressed-freight-rate-conditions-in_chart4.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2013/poten_2013-10-04_rsvp-to-the-pool-party-depressed-freight-rate-conditions-in_chart4.png)
+> **Exhibit 4: Market Rate Structure**  
+> Unit: $/day · X-axis: VLCC to Aframax  
+> Series: Current Spot, 1-Yr Time Charter, 3-Yr Time Charter, 5-Yr Time Charter  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2013/poten_2013-10-04_rsvp-to-the-pool-party-depressed-freight-rate-conditions-in_chart4.png)
 
 ![Exhibit 5: RSVP to the Pool Party Depressed freight rate conditions in the early part of the last decade saw the](../../../charts/poten/2013/poten_2013-10-04_rsvp-to-the-pool-party-depressed-freight-rate-conditions-in_chart5.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2013/poten_2013-10-04_rsvp-to-the-pool-party-depressed-freight-rate-conditions-in_chart5.png)
+> **Interactive Asset:** [Local Asset (200 DPI PNG)](../../../charts/poten/2013/poten_2013-10-04_rsvp-to-the-pool-party-depressed-freight-rate-conditions-in_chart5.png)

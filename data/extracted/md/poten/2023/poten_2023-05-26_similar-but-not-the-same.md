@@ -26,10 +26,18 @@ The implications for the product tanker market are not altogether clear. The gra
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: Similar But Not The Same](../../../charts/poten/2023/poten_2023-05-26_similar-but-not-the-same_chart1.png)
+![Exhibit 1: U.S. Vehicle Miles Travelled](../../../charts/poten/2023/poten_2023-05-26_similar-but-not-the-same_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2023/poten_2023-05-26_similar-but-not-the-same_chart1.png)
+> **Exhibit 1: U.S. Vehicle Miles Travelled**  
+> Unit: Million Miles · X-axis: Jan to Dec  
+> Series: 2019, 2020, 2021, 2022, 2023  
+> *Source: St Louis Fed*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2023/poten_2023-05-26_similar-but-not-the-same_chart1.png)
 
-![Exhibit 2: Similar But Not The Same](../../../charts/poten/2023/poten_2023-05-26_similar-but-not-the-same_chart2.png)
+![Exhibit 2: Weekly U.S. Gasoline Imports and Exports](../../../charts/poten/2023/poten_2023-05-26_similar-but-not-the-same_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2023/poten_2023-05-26_similar-but-not-the-same_chart2.png)
+> **Exhibit 2: Weekly U.S. Gasoline Imports and Exports**  
+> Unit: Kb/d · X-axis: 4-Jan-19 to 21-Apr-23  
+> Series: Gasoline & Blending Comp. Imports, Gasoline Exports  
+> *Source: EIA*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2023/poten_2023-05-26_similar-but-not-the-same_chart2.png)

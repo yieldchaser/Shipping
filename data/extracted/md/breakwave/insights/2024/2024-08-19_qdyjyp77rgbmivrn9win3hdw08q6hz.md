@@ -24,14 +24,14 @@ A risk-on tone across markets boosted sentiment across commodities. This was tri
 
 *By*[*Daniel Hynes*](https://www.linkedin.com/in/dahynes/)
 
-![Screenshot 2024 08 19 10.57.10](assets/2024-08-19_qdyjyp77rgbmivrn9win3hdw08q6hz_img_screenshot2024-08-19105710_079fe0cc7f7d.png)
+![Screenshot 2024 08 19 10.57.10](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-08-19_qdyjyp77rgbmivrn9win3hdw08q6hz_img_screenshot2024-08-19105710_079fe0cc7f7d.png)
 
 > **Figure 1: Screenshot 2024 08 19 10.57.10**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-08-19_qdyjyp77rgbmivrn9win3hdw08q6hz_img_screenshot2024-08-19105710_079fe0cc7f7d.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-08-19_qdyjyp77rgbmivrn9win3hdw08q6hz_img_screenshot2024-08-19105710_079fe0cc7f7d.png)
 
 ### Market Commentary
 
-**Copper**recorded its first weekly gain since early July as fears of a hard economic landing in the US eased. A combination of robust US jobs data and better than expected retail sales triggered a risk-on tone across markets. It also took the focus away from China, where recovery remains elusive. China’s industrial output rose 5.1% in July, down from June’s 5.3%. Retail sales climbed 2.3%, according to official government data. Prices were also supported by renewed supply side issues. A strike at BHP’s Escondida copper mine in Chile threatened to disrupt over 5% of global supply. This was in addition to disruption at Lundin Mining’s copper mine in Chile. These concerns may ease after reports over the weekend that BHP and union leaders reached a preliminary wage agreement. Even so,[**the risk of further disruptions remains high**](../pdfs/2024-08-19_qdyjyp77rgbmivrn9win3hdw08q6hz_commodity-call-copper-strikes-out-1_24b1cb014056.pdf). Several mines in Chile, representing approximately 900kt of copper or 4% of global supply, have yet to finalise wage discussions. Even if just a fraction of the upcoming labour negotiations results in lost supply, our market deficit in copper is likely to increase.
+**Copper**recorded its first weekly gain since early July as fears of a hard economic landing in the US eased. A combination of robust US jobs data and better than expected retail sales triggered a risk-on tone across markets. It also took the focus away from China, where recovery remains elusive. China’s industrial output rose 5.1% in July, down from June’s 5.3%. Retail sales climbed 2.3%, according to official government data. Prices were also supported by renewed supply side issues. A strike at BHP’s Escondida copper mine in Chile threatened to disrupt over 5% of global supply. This was in addition to disruption at Lundin Mining’s copper mine in Chile. These concerns may ease after reports over the weekend that BHP and union leaders reached a preliminary wage agreement. Even so,[**the risk of further disruptions remains high**](https://research.anz.com/file/Commodity_Call_copper_strikes_out__1.pdf?docRef=576c2c7a-ea95-49b4-bbfa-b5087a296837&ch=2). Several mines in Chile, representing approximately 900kt of copper or 4% of global supply, have yet to finalise wage discussions. Even if just a fraction of the upcoming labour negotiations results in lost supply, our market deficit in copper is likely to increase.
 
 **Iron ore**futures fell more than 9% last week to trade at a two year low amid weak demand from China’s steel industry. China Baowu Steel Group warned that conditions are worse than downturns of 2008 and 2015. It expects the crisis will likely be longer and more difficult to endure than it expected. Steel mills are already pulling back on output, with July volumes down 9% y/y. Total iron ore stockpiles across ports in China fell 0.5% w/w to 149.6mt for the week ending 16 August. Nevertheless, steel mills are likely to pullback on iron ore purchases amid weak margins and subdued demand.
 
@@ -45,10 +45,10 @@ A risk-on tone across markets boosted sentiment across commodities. This was tri
 
 House prices in China's 70 largest cities continue to weaken amid a lack of buying from consumers
 
-![Screenshot 2024 08 19 11.00.54](assets/2024-08-19_qdyjyp77rgbmivrn9win3hdw08q6hz_img_screenshot2024-08-19110054_8c7a825109df.png)
+![Screenshot 2024 08 19 11.00.54](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-08-19_qdyjyp77rgbmivrn9win3hdw08q6hz_img_screenshot2024-08-19110054_8c7a825109df.png)
 
 > **Figure 2: Screenshot 2024 08 19 11.00.54**  
-> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-08-19_qdyjyp77rgbmivrn9win3hdw08q6hz_img_screenshot2024-08-19110054_8c7a825109df.png)
+> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-08-19_qdyjyp77rgbmivrn9win3hdw08q6hz_img_screenshot2024-08-19110054_8c7a825109df.png)
 
 Data source:[Commodities Wrap](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI)
 

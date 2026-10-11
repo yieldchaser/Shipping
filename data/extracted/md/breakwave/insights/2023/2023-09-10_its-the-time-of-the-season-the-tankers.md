@@ -26,11 +26,11 @@ source_file: "corpus/03-breakwave/insights/2023/2023-09-10_its-the-time-of-the-s
 
 In recent years, both the Covid-19 pandemic and the Russian invasion of Ukraine created external shocks to the market that crushed seasonal factors. However, according to**Poten Tanker Opinion**, 2023 has been a more “normal” market so far and we have seen rates, especially for the larger crude tankers weaken throughout the summer. Does that mean that we are experiencing the more typical summer doldrums this year and, more importantly, are we at the cusp of a seasonal recovery in tanker demand and rates?
 
-![Source: Poten & Partners](assets/2023-09-10_its-the-time-of-the-season-the-tankers_img_screenshot2023-09-09125553_069988feaae9.png)
+![Source: Poten & Partners](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-09-10_its-the-time-of-the-season-the-tankers_img_screenshot2023-09-09125553_069988feaae9.png)
 
 > **Figure 1: Source: Poten & Partners**  
 > *Source: Poten & Partners*  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-09-10_its-the-time-of-the-season-the-tankers_img_screenshot2023-09-09125553_069988feaae9.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-09-10_its-the-time-of-the-season-the-tankers_img_screenshot2023-09-09125553_069988feaae9.png)
 
 As always, there are different views in the market as lower exports out of the Middle East, due to the recent OPEC export cuts, may reduce demand for tonnage.
 

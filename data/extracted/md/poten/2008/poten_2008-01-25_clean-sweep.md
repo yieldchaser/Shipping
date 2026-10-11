@@ -165,6 +165,28 @@ The total activity of spot clean fixtures will likely increase, yet the total am
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: Clean Sweep](../../../charts/poten/2008/poten_2008-01-25_clean-sweep_chart1.png)
+> **Chart on PDF page 1: Reported Clean Spot Fixtures**  
+> Unit: Number of Fixtures · X-axis: Aframax to Small  
+> Series: 2006, 2007  
+> *Source: Poten*  
+> *No image crop of this chart was saved; caption read from the PDF.*
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2008/poten_2008-01-25_clean-sweep_chart1.png)
+> **Chart on PDF page 2: Aframax**  
+> Unit: Number of Fixtures · X-axis: Shell to Petrobras  
+> Series: Number of Fixtures  
+> *No image crop of this chart was saved; caption read from the PDF.*
+
+> **Chart on PDF page 3: Panamax**  
+> Unit: Number of Fixtures · X-axis: Shell to Morgan Stanley  
+> Series: Number of Fixtures  
+> *No image crop of this chart was saved; caption read from the PDF.*
+
+> **Chart on PDF page 4: Handymax**  
+> Unit: Number of Fixtures · X-axis: Vitol to Trafigura  
+> Series: Number of Fixtures  
+> *No image crop of this chart was saved; caption read from the PDF.*
+
+> **Chart on PDF page 4: Small**  
+> Unit: Number of Fixtures · X-axis: Litasco to Projector  
+> Series: Number of Fixtures  
+> *No image crop of this chart was saved; caption read from the PDF.*

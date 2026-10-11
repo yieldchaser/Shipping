@@ -38,8 +38,12 @@ Longer term disruption of Iraqi exports from Ceyhan would mainly affect Mediterr
 
 ![Exhibit 1: Kurdish Tightrope](../../../charts/poten/2017/poten_2017-10-20_kurdish-tightrope_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2017/poten_2017-10-20_kurdish-tightrope_chart1.png)
+> **Interactive Asset:** [Local Asset (200 DPI PNG)](../../../charts/poten/2017/poten_2017-10-20_kurdish-tightrope_chart1.png)
 
-![Exhibit 2: Kurdish Tightrope](../../../charts/poten/2017/poten_2017-10-20_kurdish-tightrope_chart2.png)
+![Exhibit 2: Iraq Crude Exports Via Ceyhan By Destination](../../../charts/poten/2017/poten_2017-10-20_kurdish-tightrope_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2017/poten_2017-10-20_kurdish-tightrope_chart2.png)
+> **Exhibit 2: Iraq Crude Exports Via Ceyhan By Destination**  
+> Unit: Kb/d · X-axis: Jan-14 to Jul-17  
+> Series: S Europe, E Med, Black Sea, UKC, Asia, N America, Middle East  
+> *Source: Lloyd’s List Intelligence*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2017/poten_2017-10-20_kurdish-tightrope_chart2.png)

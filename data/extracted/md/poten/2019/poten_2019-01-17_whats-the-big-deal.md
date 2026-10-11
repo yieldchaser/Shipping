@@ -28,10 +28,18 @@ In conclusion, the tanker market in general and the VLCC market in particular wi
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: Whats The Big Deal](../../../charts/poten/2019/poten_2019-01-17_whats-the-big-deal_chart1.png)
+![Exhibit 1: Chinese Seaborne Crude Oil Imports](../../../charts/poten/2019/poten_2019-01-17_whats-the-big-deal_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2019/poten_2019-01-17_whats-the-big-deal_chart1.png)
+> **Exhibit 1: Chinese Seaborne Crude Oil Imports**  
+> Unit: Kb/d · X-axis: 1Q2015 to 4Q2019  
+> Series: AG, Red Sea, Other Middle East, West Africa, US Gulf, S America (Atl), Other EC Americas, Asia/Aus., North Sea, Med, WC Americas  
+> *Source: Lloyd’s List Intelligence*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2019/poten_2019-01-17_whats-the-big-deal_chart1.png)
 
-![Exhibit 2: Whats The Big Deal](../../../charts/poten/2019/poten_2019-01-17_whats-the-big-deal_chart2.png)
+![Exhibit 2: US Crude Oil Exports To China](../../../charts/poten/2019/poten_2019-01-17_whats-the-big-deal_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2019/poten_2019-01-17_whats-the-big-deal_chart2.png)
+> **Exhibit 2: US Crude Oil Exports To China**  
+> Unit: Kb/d · X-axis: Jan-16 to Oct-19  
+> Series: US Crude Oil Exports To China  
+> *Source: EIA*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2019/poten_2019-01-17_whats-the-big-deal_chart2.png)

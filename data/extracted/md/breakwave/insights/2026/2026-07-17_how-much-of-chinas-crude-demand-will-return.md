@@ -28,10 +28,10 @@ With crude benchmarks retreating from above $100/b, market attention is shifting
 
 Setting aside potential logistical disruptions, the global crude balance has already begun to shift. Gulf exports are recovering from recent lows, alternative suppliers continue to load above seasonal norms, while China's crude imports remain well below historical averages. As a result, crude loadings are once again outpacing crude discharges.
 
-![Στιγμιότυπο Οθόνης 2026 07 17 124922](assets/2026-07-17_how-much-of-chinas-crude-demand-will-return_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_cf134fad3198.png)
+![Στιγμιότυπο Οθόνης 2026 07 17 124922](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-07-17_how-much-of-chinas-crude-demand-will-return_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_cf134fad3198.png)
 
 > **Figure 1: Στιγμιότυπο Οθόνης 2026 07 17 124922**  
-> **Interactive Data & Source:** [Vortexa](https://www.vortexa.com//oil-gas-data-traders-analysts-data-scientists?gclid=Cj0KCQjw8_qRBhCXARIsAE2AtRZKOvMnbilZ_6_91d7huSFFy71pWLrnPwGwOHVzXsmsG-1a1mZnQw8aAt89EALw_wcB&hsa_acc=1782073842&hsa_ad=548425387665&hsa_cam=14746637662&hsa_grp=125038601902&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_src=g&hsa_tgt=dsa-1431852288425&hsa_ver=3&utm_campaign=%5BCD%5D%20-%20DSA%20-%20EMEA&utm_medium=cpc&utm_medium=ppc&utm_source=google&utm_source=adwords&utm_term=) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-07-17_how-much-of-chinas-crude-demand-will-return_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_cf134fad3198.png)
+> **Interactive Data & Source:** [Vortexa](https://www.vortexa.com//oil-gas-data-traders-analysts-data-scientists?gclid=Cj0KCQjw8_qRBhCXARIsAE2AtRZKOvMnbilZ_6_91d7huSFFy71pWLrnPwGwOHVzXsmsG-1a1mZnQw8aAt89EALw_wcB&hsa_acc=1782073842&hsa_ad=548425387665&hsa_cam=14746637662&hsa_grp=125038601902&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_src=g&hsa_tgt=dsa-1431852288425&hsa_ver=3&utm_campaign=%5BCD%5D%20-%20DSA%20-%20EMEA&utm_medium=cpc&utm_medium=ppc&utm_source=google&utm_source=adwords&utm_term=) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-07-17_how-much-of-chinas-crude-demand-will-return_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_cf134fad3198.png)
 
 China's oil imports declined for a fourth consecutive month in June, with crude imports running around 4.4mbd below the 2025 average. Seaborne crude arrivals fell to just over 6mbd—the lowest monthly level since at least 2016—while Middle Eastern imports declined to just 2mbd, down from an already decade-low level of around 3mbd in May.
 
@@ -43,10 +43,10 @@ China removed its fuel export restrictions in early July after more than three m
 
 As a result, state-owned refiners will likely need to increase crude throughput in the coming weeks to support the reported objective of restoring motor fuel exports towards 2025 average levels during July.
 
-![Στιγμιότυπο Οθόνης 2026 07 17 124930](assets/2026-07-17_how-much-of-chinas-crude-demand-will-return_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_d4a9f80b2c7b.png)
+![Στιγμιότυπο Οθόνης 2026 07 17 124930](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-07-17_how-much-of-chinas-crude-demand-will-return_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_d4a9f80b2c7b.png)
 
 > **Figure 2: Στιγμιότυπο Οθόνης 2026 07 17 124930**  
-> **Interactive Data & Source:** [Vortexa](https://www.vortexa.com//oil-gas-data-traders-analysts-data-scientists?gclid=Cj0KCQjw8_qRBhCXARIsAE2AtRZKOvMnbilZ_6_91d7huSFFy71pWLrnPwGwOHVzXsmsG-1a1mZnQw8aAt89EALw_wcB&hsa_acc=1782073842&hsa_ad=548425387665&hsa_cam=14746637662&hsa_grp=125038601902&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_src=g&hsa_tgt=dsa-1431852288425&hsa_ver=3&utm_campaign=%5BCD%5D%20-%20DSA%20-%20EMEA&utm_medium=cpc&utm_medium=ppc&utm_source=google&utm_source=adwords&utm_term=) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-07-17_how-much-of-chinas-crude-demand-will-return_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_d4a9f80b2c7b.png)
+> **Interactive Data & Source:** [Vortexa](https://www.vortexa.com//oil-gas-data-traders-analysts-data-scientists?gclid=Cj0KCQjw8_qRBhCXARIsAE2AtRZKOvMnbilZ_6_91d7huSFFy71pWLrnPwGwOHVzXsmsG-1a1mZnQw8aAt89EALw_wcB&hsa_acc=1782073842&hsa_ad=548425387665&hsa_cam=14746637662&hsa_grp=125038601902&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_src=g&hsa_tgt=dsa-1431852288425&hsa_ver=3&utm_campaign=%5BCD%5D%20-%20DSA%20-%20EMEA&utm_medium=cpc&utm_medium=ppc&utm_source=google&utm_source=adwords&utm_term=) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-07-17_how-much-of-chinas-crude-demand-will-return_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_d4a9f80b2c7b.png)
 
 Under a high-case scenario, in which fuel exports recover during July and continue to increase through the remainder of the year to fully utilise the available export quotas, an increase of around 700kbd in motor fuel exports from Q2 levels could translate into approximately 1.2mbd of additional crude demand, assuming a 60% transportation fuel yield.
 
@@ -72,10 +72,10 @@ However, such replenishment is unlikely to occur at a constant pace. Rather than
 
 In addition, China's immediate refill requirement is relatively modest. Unlike Japan and South Korea, China only began drawing down crude inventories in May, resulting in a smaller cumulative stock draw despite a comparable daily withdrawal rate.
 
-![Στιγμιότυπο Οθόνης 2026 07 17 124939](assets/2026-07-17_how-much-of-chinas-crude-demand-will-return_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_6550e158628c.png)
+![Στιγμιότυπο Οθόνης 2026 07 17 124939](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-07-17_how-much-of-chinas-crude-demand-will-return_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_6550e158628c.png)
 
 > **Figure 3: Στιγμιότυπο Οθόνης 2026 07 17 124939**  
-> **Interactive Data & Source:** [Vortexa](https://www.vortexa.com//oil-gas-data-traders-analysts-data-scientists?gclid=Cj0KCQjw8_qRBhCXARIsAE2AtRZKOvMnbilZ_6_91d7huSFFy71pWLrnPwGwOHVzXsmsG-1a1mZnQw8aAt89EALw_wcB&hsa_acc=1782073842&hsa_ad=548425387665&hsa_cam=14746637662&hsa_grp=125038601902&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_src=g&hsa_tgt=dsa-1431852288425&hsa_ver=3&utm_campaign=%5BCD%5D%20-%20DSA%20-%20EMEA&utm_medium=cpc&utm_medium=ppc&utm_source=google&utm_source=adwords&utm_term=) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-07-17_how-much-of-chinas-crude-demand-will-return_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_6550e158628c.png)
+> **Interactive Data & Source:** [Vortexa](https://www.vortexa.com//oil-gas-data-traders-analysts-data-scientists?gclid=Cj0KCQjw8_qRBhCXARIsAE2AtRZKOvMnbilZ_6_91d7huSFFy71pWLrnPwGwOHVzXsmsG-1a1mZnQw8aAt89EALw_wcB&hsa_acc=1782073842&hsa_ad=548425387665&hsa_cam=14746637662&hsa_grp=125038601902&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_src=g&hsa_tgt=dsa-1431852288425&hsa_ver=3&utm_campaign=%5BCD%5D%20-%20DSA%20-%20EMEA&utm_medium=cpc&utm_medium=ppc&utm_source=google&utm_source=adwords&utm_term=) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-07-17_how-much-of-chinas-crude-demand-will-return_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_6550e158628c.png)
 
 The more significant source of demand lies in China's ongoing strategic storage expansion. More than 100mb of new state-controlled storage capacity, together with over 60mb of spare capacity in private commercial tanks, provides substantial room for further inventory accumulation.
 
@@ -91,10 +91,10 @@ However, the crisis has also accelerated structural changes in China's oil deman
 
 The chart below illustrates our high-case scenario, which assumes the strongest plausible recovery in crude demand under current market conditions and policy settings. Under this scenario, a large share of the 4.4mbd of Hormuz-related demand loss could be offset by higher refinery throughput following the removal of fuel export restrictions, together with inventory replenishment and continued stock building.
 
-![Στιγμιότυπο Οθόνης 2026 07 17 124947](assets/2026-07-17_how-much-of-chinas-crude-demand-will-return_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_5a44de72a9e9.png)
+![Στιγμιότυπο Οθόνης 2026 07 17 124947](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-07-17_how-much-of-chinas-crude-demand-will-return_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_5a44de72a9e9.png)
 
 > **Figure 4: Στιγμιότυπο Οθόνης 2026 07 17 124947**  
-> **Interactive Data & Source:** [Vortexa](https://www.vortexa.com//oil-gas-data-traders-analysts-data-scientists?gclid=Cj0KCQjw8_qRBhCXARIsAE2AtRZKOvMnbilZ_6_91d7huSFFy71pWLrnPwGwOHVzXsmsG-1a1mZnQw8aAt89EALw_wcB&hsa_acc=1782073842&hsa_ad=548425387665&hsa_cam=14746637662&hsa_grp=125038601902&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_src=g&hsa_tgt=dsa-1431852288425&hsa_ver=3&utm_campaign=%5BCD%5D%20-%20DSA%20-%20EMEA&utm_medium=cpc&utm_medium=ppc&utm_source=google&utm_source=adwords&utm_term=) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-07-17_how-much-of-chinas-crude-demand-will-return_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_5a44de72a9e9.png)
+> **Interactive Data & Source:** [Vortexa](https://www.vortexa.com//oil-gas-data-traders-analysts-data-scientists?gclid=Cj0KCQjw8_qRBhCXARIsAE2AtRZKOvMnbilZ_6_91d7huSFFy71pWLrnPwGwOHVzXsmsG-1a1mZnQw8aAt89EALw_wcB&hsa_acc=1782073842&hsa_ad=548425387665&hsa_cam=14746637662&hsa_grp=125038601902&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_src=g&hsa_tgt=dsa-1431852288425&hsa_ver=3&utm_campaign=%5BCD%5D%20-%20DSA%20-%20EMEA&utm_medium=cpc&utm_medium=ppc&utm_source=google&utm_source=adwords&utm_term=) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-07-17_how-much-of-chinas-crude-demand-will-return_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_5a44de72a9e9.png)
 
 Domestic fuel demand is also expected to recover, although part of the decline in gasoline and diesel consumption appears structural rather than cyclical. We estimate domestic fuel demand fell by more than 1.2mbd during the crisis, with at least 0.4mbd unlikely to return.
 

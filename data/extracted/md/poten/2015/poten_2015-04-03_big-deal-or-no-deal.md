@@ -32,8 +32,8 @@ However, the biggest wild card is what impact additional Iranian oil has on the 
 
 ![Exhibit 1: Big Deal or No Deal](../../../charts/poten/2015/poten_2015-04-03_big-deal-or-no-deal_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2015/poten_2015-04-03_big-deal-or-no-deal_chart1.png)
+> **Interactive Asset:** [Local Asset (200 DPI PNG)](../../../charts/poten/2015/poten_2015-04-03_big-deal-or-no-deal_chart1.png)
 
 ![Exhibit 2: Big Deal or No Deal](../../../charts/poten/2015/poten_2015-04-03_big-deal-or-no-deal_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2015/poten_2015-04-03_big-deal-or-no-deal_chart2.png)
+> **Interactive Asset:** [Local Asset (200 DPI PNG)](../../../charts/poten/2015/poten_2015-04-03_big-deal-or-no-deal_chart2.png)

@@ -23,10 +23,10 @@ source_file: "corpus/03-breakwave/insights/2024/2024-01-18_metals-fall-following
 
 Disappointing economic data weighed on sentiment across the commodities complex. A stronger USD also kept investor appetite low.
 
-![1705526137880](assets/2024-01-18_metals-fall-following-mixed-economic-data-in-china_img_1705526137880_06cf0ca85479.png)
+![1705526137880](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-01-18_metals-fall-following-mixed-economic-data-in-china_img_1705526137880_06cf0ca85479.png)
 
 > **Figure 1: 1705526137880**  
-> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-01-18_metals-fall-following-mixed-economic-data-in-china_img_1705526137880_06cf0ca85479.png)
+> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-01-18_metals-fall-following-mixed-economic-data-in-china_img_1705526137880_06cf0ca85479.png)
 
 **Copper**extended recent losses after economic data in China missed expectations. Gross domestic product grew at 5.2% last year, meeting an official target. Industrial production rose 6.8% in December which was around consensus. However, retail sales and the urban jobless rate disappointed. The prospect of further stimulus measures also looks low. Chinese Premier, Li Qiang, trumpeted the nation’s ability to hit its 5% growth target without flooding the economy with massive stimulus. The data contributed to a downbeat mood across metal markets, with zinc leading the rest of the complex lower. This is despite recent supply disruptions. Nystar announced earlier this week that it was mothballing its Budel zinc smelter. The copper market is still reeling from Panama’s decision to shut the Cobra copper mine.
 

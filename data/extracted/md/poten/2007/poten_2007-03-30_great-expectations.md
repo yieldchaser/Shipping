@@ -86,6 +86,8 @@ With several challenges facing the oil industry today- from regulations, to pric
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: Great Expectations](../../../charts/poten/2007/poten_2007-03-30_great-expectations_chart1.png)
-
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2007/poten_2007-03-30_great-expectations_chart1.png)
+> **Chart on PDF page 1: Untitled chart**  
+> Unit: $ · X-axis: Apr-06 to Mar-07  
+> Series: TCE ($/day)  
+> *Source: Poten/IEA*  
+> *No image crop of this chart was saved; caption read from the PDF.*

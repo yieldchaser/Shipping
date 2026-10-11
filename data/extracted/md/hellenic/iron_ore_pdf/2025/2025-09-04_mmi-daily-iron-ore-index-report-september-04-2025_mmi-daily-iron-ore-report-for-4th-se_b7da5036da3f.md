@@ -173,6 +173,8 @@ This week, 18 blast furnaces underwent maintenance while 16 resumed production d
 | **SGX** | **SGX Front Month** | USD/DMT | 1.65 | +1.60 | - | 2.53 | 1.38 | 0.75 | 1.75 |
 
 ## Dry Bulk Freight Rates Historical Line Data (USD/MT)
+> **Approximate.** The report prints no numbers for this chart. Values were read visually from the chart image by the parser and are rough estimates.
+
 | Date | C5 W. Australia - Qingdao (USD/MT) | C3 Tubarao - Qingdao (USD/MT) |
 | :--- | :--- | :--- |
 | 1-Jan-21 | 8.50 | 22.50 |
@@ -191,6 +193,8 @@ This week, 18 blast furnaces underwent maintenance while 16 resumed production d
 | 1-May-25 | 6.90 | 19.20 |
 
 ## Total China Iron Ore Import Volumes (Million Tonnes)
+> **Approximate.** The report prints no numbers for this chart. Values were read visually from the chart image by the parser and are rough estimates.
+
 | Month / Period | Import Volume (Million Tonnes) |
 | :--- | :--- |
 | Jun-23 | 105.00 |

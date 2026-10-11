@@ -30,31 +30,31 @@ tags:
 As international diplomatic efforts around the Russia–Ukraine conflict continue, we are closely monitoring the year-over-year changes in Russian grain shipment volumes.
 
 
-![‍](../../images/693693b708ba8b1e45b361fc_8d61b8cc.png)
+![‍](../../../../../../corpus/07-signal/images/693693b708ba8b1e45b361fc_8d61b8cc.png)
 
 > **Figure 1: ‍**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-dry-market-monitor-week-50-2025) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/693693b708ba8b1e45b361fc_8d61b8cc.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-dry-market-monitor-week-50-2025) | [Local Asset](../../../../../../corpus/07-signal/images/693693b708ba8b1e45b361fc_8d61b8cc.png)
 
 
-![‍](../../images/693693b708ba8b1e45b361f6_48f6a7ee.png)
+![‍](../../../../../../corpus/07-signal/images/693693b708ba8b1e45b361f6_48f6a7ee.png)
 
 > **Figure 2: ‍**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-dry-market-monitor-week-50-2025) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/693693b708ba8b1e45b361f6_48f6a7ee.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-dry-market-monitor-week-50-2025) | [Local Asset](../../../../../../corpus/07-signal/images/693693b708ba8b1e45b361f6_48f6a7ee.png)
 
 
 ## Egypt|top Destination for Russian Wheat
 
 
-![Egypt| Top Destination for Russian Wheat](../../images/693693b708ba8b1e45b361f9_a56226a1.png)
+![Egypt| Top Destination for Russian Wheat](../../../../../../corpus/07-signal/images/693693b708ba8b1e45b361f9_a56226a1.png)
 
 > **Figure 3: Egypt| Top Destination for Russian Wheat**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-dry-market-monitor-week-50-2025) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/693693b708ba8b1e45b361f9_a56226a1.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-dry-market-monitor-week-50-2025) | [Local Asset](../../../../../../corpus/07-signal/images/693693b708ba8b1e45b361f9_a56226a1.png)
 
 
-![‍](../../images/693693b808ba8b1e45b361ff_128a9437.png)
+![‍](../../../../../../corpus/07-signal/images/693693b808ba8b1e45b361ff_128a9437.png)
 
 > **Figure 4: ‍**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-dry-market-monitor-week-50-2025) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/693693b808ba8b1e45b361ff_128a9437.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-dry-market-monitor-week-50-2025) | [Local Asset](../../../../../../corpus/07-signal/images/693693b808ba8b1e45b361ff_128a9437.png)
 
 Egypt’s near-doubling of Russian wheat imports in November is consistent with the country’s renewed buying spree, as state buyer Mostakbal Misr secured roughly 500,000 tonnes of [Black Sea wheat](https://ukragroconsult.com/en/news/egypt-buys-about-500-thsd-tons-of-black-sea-wheat/?utm\_source=chatgpt.com), including a large share from Russia, for December–January delivery, while Egypt intensified purchases to stabilise domestic supply. Recent reports also note that Ukraine and Bulgaria have increased shipments to Egypt, but Russia remains the dominant supplier, reinforced by high-level negotiations and deepening economic ties highlighted during Russia’s November delegation visit to Cairo. Together, these developments confirm the sharp year-on-year rebound in Egypt’s intake of Russian wheat and its continued role as Moscow’s top overseas market.
 

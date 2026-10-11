@@ -30,10 +30,18 @@ Does this mean that OPEC+ will not increase output? Not necessarily. OPEC has su
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: All Eyes On OPEC+](../../../charts/poten/2024/poten_2024-08-23_all-eyes-on-opec_chart1.png)
+![Exhibit 1: OPEC+ vs Non-OPEC Crude Oil Production](../../../charts/poten/2024/poten_2024-08-23_all-eyes-on-opec_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2024/poten_2024-08-23_all-eyes-on-opec_chart1.png)
+> **Exhibit 1: OPEC+ vs Non-OPEC Crude Oil Production**  
+> Unit: Mb/d · X-axis: 1Q2021 to 2Q2025  
+> Series: OPEC+, Non-OPEC  
+> *Source: IEA*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2024/poten_2024-08-23_all-eyes-on-opec_chart1.png)
 
-![Exhibit 2: All Eyes On OPEC+](../../../charts/poten/2024/poten_2024-08-23_all-eyes-on-opec_chart2.png)
+![Exhibit 2: OPEC+ Crude Exports by Origin](../../../charts/poten/2024/poten_2024-08-23_all-eyes-on-opec_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2024/poten_2024-08-23_all-eyes-on-opec_chart2.png)
+> **Exhibit 2: OPEC+ Crude Exports by Origin**  
+> Unit: Kb/d · X-axis: Jan-20 to Jul-24  
+> Series: Saudi Arabia, Russia, Iraq, United Arab Emirates, Kuwait, Nigeria, Iran, Libya, Oman, Other  
+> *Source: Vortexa/Poten & Partners*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2024/poten_2024-08-23_all-eyes-on-opec_chart2.png)

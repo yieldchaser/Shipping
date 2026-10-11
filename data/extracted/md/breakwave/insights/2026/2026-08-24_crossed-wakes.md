@@ -20,10 +20,10 @@ source_file: "corpus/03-breakwave/insights/2026/2026-08-24_crossed-wakes.html"
 
 ---
 
-![Tanker](assets/2026-08-24_crossed-wakes_img_tanker_e5832ce07803.jpg)
+![Tanker](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-08-24_crossed-wakes_img_tanker_e5832ce07803.jpg)
 
 > **Figure 1: Tanker**  
-> **Interactive Data & Source:** [Gibsons Co](https://www.gibsons.co.uk/market-reports) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-08-24_crossed-wakes_img_tanker_e5832ce07803.jpg)
+> **Interactive Data & Source:** [Gibsons Co](https://www.gibsons.co.uk/market-reports) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-08-24_crossed-wakes_img_tanker_e5832ce07803.jpg)
 
 The crude vessel segments have crossed wakes this year — moving in different directions even as they share the same waters. Crude ton-miles softened overall in 2026 to date, though Suezmaxes and Aframaxes picked up share even as VLCCs came under pressure.
 
@@ -39,10 +39,10 @@ Looking ahead, each crude vessel segment carries a distinct vulnerability, thoug
 
 VLCC ton-miles, meanwhile, remain most exposed to Chinese import demand, since China’s imports have stayed well below pre-war levels for most of the year, leaving it the one major buyer with real room to add barrels and boost long-haul demand at scale; this added demand could tighten tonnage supply further — a pool with some tonnage already tied up in Middle East Gulf for STS workarounds — supporting current earnings levels. Middle East developments will determine the scale of that lift: continued disruption would force China further afield for replacement barrels and add long-haul ton-miles, while a resolution would let it revert to shorter-haul Gulf crude, still adding demand but with a smaller ton-mile uplift. Suezmax risk sits mainly in the Black Sea and Europe. CPC exports remain exposed to a risk of further attacks. European autumn maintenance usually cuts crude intake and would normally weigh on Suezmax pull, but strong margins and tight supply this year could see refiners trim or delay turnarounds, keeping intake firmer than the seasonal pattern suggests.
 
-![Στιγμιότυπο Οθόνης 2026 08 24 100507](assets/2026-08-24_crossed-wakes_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_f9d98a618401.png)
+![Στιγμιότυπο Οθόνης 2026 08 24 100507](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-08-24_crossed-wakes_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_f9d98a618401.png)
 
 > **Figure 2: Στιγμιότυπο Οθόνης 2026 08 24 100507**  
-> **Interactive Data & Source:** [Gibsons Co](https://www.gibsons.co.uk/market-reports) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-08-24_crossed-wakes_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_f9d98a618401.png)
+> **Interactive Data & Source:** [Gibsons Co](https://www.gibsons.co.uk/market-reports) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-08-24_crossed-wakes_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_f9d98a618401.png)
 
 Data source:[Gibson Shipbrokers](https://www.gibsons.co.uk/market-reports)
 

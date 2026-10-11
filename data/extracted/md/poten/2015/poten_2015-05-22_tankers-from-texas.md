@@ -30,10 +30,17 @@ So far, the U.S. oil industry has skillfully managed to balance domestic tight o
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: Tankers from Texas](../../../charts/poten/2015/poten_2015-05-22_tankers-from-texas_chart1.png)
+![Exhibit 1: U.S. tight oil production - selected plays](../../../charts/poten/2015/poten_2015-05-22_tankers-from-texas_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2015/poten_2015-05-22_tankers-from-texas_chart1.png)
+> **Exhibit 1: U.S. tight oil production - selected plays**  
+> Unit: million barrels of oil per day · X-axis: 2000 to 2014  
+> Series: Eagle Ford (TX), Bakken (MT & ND), Spraberry (TX & NM Permian), Bonespring (TX & NM Permian), Wolfcamp (TX & NM Permian), Delaware (TX & NM Permian), Yeso & Glorieta (TX & NM Permian), Niobrara-Codell (CO, WY), Haynesville, Marcellus, Woodford (OK), Granite Wash (OK & TX), Austin Chalk (LA & TX), Monterey (CA)  
+> *Source: EIA derived from state administrative data collected by Drillinginfo Inc. Data are through May 2014 and represent EIA's official tight oil estimates, but are not survey data. State abbreviations indicate primary state(s).*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2015/poten_2015-05-22_tankers-from-texas_chart1.png)
 
-![Exhibit 2: Tankers from Texas](../../../charts/poten/2015/poten_2015-05-22_tankers-from-texas_chart2.png)
+![Exhibit 2: U.S. Crude Oil Exports to Canada](../../../charts/poten/2015/poten_2015-05-22_tankers-from-texas_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2015/poten_2015-05-22_tankers-from-texas_chart2.png)
+> **Exhibit 2: U.S. Crude Oil Exports to Canada**  
+> Unit: Kb/d · X-axis: Jan-12 to May-15  
+> Series: U.S. Crude Oil Exports to Canada  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2015/poten_2015-05-22_tankers-from-texas_chart2.png)

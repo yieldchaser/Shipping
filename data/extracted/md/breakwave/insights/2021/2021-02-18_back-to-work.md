@@ -23,7 +23,7 @@ source_file: "corpus/03-breakwave/insights/2021/2021-02-18_back-to-work.html"
 ![By Ulf Bergman](assets/2021-02-18_back-to-work_img_image-asset_266a681e504f.jpeg)
 
 > **Figure 1: By Ulf Bergman**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2021/assets/2021-02-18_back-to-work_img_image-asset_266a681e504f.jpeg)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-02-18_back-to-work_img_image-asset_266a681e504f.jpeg)
 
 The week-long holiday for the Chinese Lunar New Year is over and the world’s second largest economy is getting back to work. As widely expected, travel during the period was a far cry from the levels usually seen. The Ministry of Transport reported a 73 percent decline of daily trips compared to 2019, the last normal year. Travel restrictions imposed to curb the spread of the virus made the annual journey to the home region difficult or impossible for many Chinese. There was also a drop in the number of visitors to shopping malls in many larger cities, suggesting that many consumers remain wary of visiting crowded areas and exposing themselves to the circulating virus.
 
@@ -34,14 +34,14 @@ The Chinese equity markets, which have been shut for the week, reacted positivel
 ![Ulf 410](assets/2021-02-18_back-to-work_img_ulf410_5d261c2c9772.jpg)
 
 > **Figure 2: Ulf 410**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2021/assets/2021-02-18_back-to-work_img_ulf410_5d261c2c9772.jpg)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-02-18_back-to-work_img_ulf410_5d261c2c9772.jpg)
 
 The ongoing success story of the Chinese recovery/growth in combination with recent expectations of an accelerating global economy, as vaccines are rolled out and stimulus measures take effect, have kept pushing copper prices higher. The commodity, often considered an economic bellwether due to its importance in industrial production, has gained almost 90 percent since the lows in March last year and is currently trading at a nine-year high. The production guidance from the top producers is also pointing towards a considerable copper deficit this year, with output struggling to keep up with the projected rising demand.
 
 ![Ulf 420](assets/2021-02-18_back-to-work_img_ulf420_bf8f6a205d95.jpg)
 
 > **Figure 3: Ulf 420**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2021/assets/2021-02-18_back-to-work_img_ulf420_bf8f6a205d95.jpg)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-02-18_back-to-work_img_ulf420_bf8f6a205d95.jpg)
 
 The news of resilient consumer spending in China during the Lunar New Year holidays are likely to support higher copper prices, as it serves as an indicator of the economic growth remaining on a firm footing. The fears that extensive travel restrictions would put a hamper on the economy appears to be unfounded and, if copper prices are doing their usual job of being a barometer, growth looks likely to continue for the largest consumer of the metal. While the holidays were unusual this year and some factories remained open, the return of the Chinese economy to full force is likely to see the demand for industrial commodities rise yet again. Iron ore futures on the Dalian exchange also rose on the first trading day after the break and traded on new highs.
 

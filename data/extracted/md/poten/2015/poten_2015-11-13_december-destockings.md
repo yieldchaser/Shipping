@@ -38,8 +38,8 @@ Lower oil prices will help in reducing companies' tax bill as WTI is currently p
 
 ![Exhibit 1: December deStockings](../../../charts/poten/2015/poten_2015-11-13_december-destockings_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2015/poten_2015-11-13_december-destockings_chart1.png)
+> **Interactive Asset:** [Local Asset (200 DPI PNG)](../../../charts/poten/2015/poten_2015-11-13_december-destockings_chart1.png)
 
 ![Exhibit 2: December deStockings](../../../charts/poten/2015/poten_2015-11-13_december-destockings_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2015/poten_2015-11-13_december-destockings_chart2.png)
+> **Interactive Asset:** [Local Asset (200 DPI PNG)](../../../charts/poten/2015/poten_2015-11-13_december-destockings_chart2.png)

@@ -30,10 +30,10 @@ source_file: "corpus/03-breakwave/insights/2023/2023-01-06_dycuxk1g12t19gzz151ms
 - China’s imports of natural gas increased to a 10-months high of 10.32 million tonnes in November, reversing from 7.61 million tonnes in previous month.
 - From January to November, China total imports stood at 99.2 million tonnes, down circa 10.4 percent from a year earlier.
 
-![1 (2)](assets/2023-01-06_dycuxk1g12t19gzz151msbfpxla6zb_img_128229_3fd930bcd97f.png)
+![1 (2)](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-01-06_dycuxk1g12t19gzz151msbfpxla6zb_img_128229_3fd930bcd97f.png)
 
 > **Figure 1: 1 (2)**  
-> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-01-06_dycuxk1g12t19gzz151msbfpxla6zb_img_128229_3fd930bcd97f.png)
+> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-01-06_dycuxk1g12t19gzz151msbfpxla6zb_img_128229_3fd930bcd97f.png)
 
 ## Iron Ore
 
@@ -44,10 +44,10 @@ source_file: "corpus/03-breakwave/insights/2023/2023-01-06_dycuxk1g12t19gzz151ms
 - On a monthly basis, iron ore output decreased by 6.54 percent in November, down from 79.76 million tonnes reported in October.
 - From January to November, 735.11 million metric tonnes of crude iron ore has been extracted in China, or down circa 1.4 percent year-on-year.
 
-![1 (3)](assets/2023-01-06_dycuxk1g12t19gzz151msbfpxla6zb_img_128329_d47fd535c211.png)
+![1 (3)](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-01-06_dycuxk1g12t19gzz151msbfpxla6zb_img_128329_d47fd535c211.png)
 
 > **Figure 2: 1 (3)**  
-> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-01-06_dycuxk1g12t19gzz151msbfpxla6zb_img_128329_d47fd535c211.png)
+> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-01-06_dycuxk1g12t19gzz151msbfpxla6zb_img_128329_d47fd535c211.png)
 
 ## Coal
 
@@ -59,10 +59,10 @@ source_file: "corpus/03-breakwave/insights/2023/2023-01-06_dycuxk1g12t19gzz151ms
 - China’s domestic coal output during first eleven months of 2022 rose by circa 9.7 percent from a year earlier to 4.09 billion metric tonnes.
 - China’s daily coal output hit an all time high in November as miners increased operations to meet higher heating demand.
 
-![1 (4)](assets/2023-01-06_dycuxk1g12t19gzz151msbfpxla6zb_img_128429_05d3834c7bfe.png)
+![1 (4)](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-01-06_dycuxk1g12t19gzz151msbfpxla6zb_img_128429_05d3834c7bfe.png)
 
 > **Figure 3: 1 (4)**  
-> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-01-06_dycuxk1g12t19gzz151msbfpxla6zb_img_128429_05d3834c7bfe.png)
+> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-01-06_dycuxk1g12t19gzz151msbfpxla6zb_img_128429_05d3834c7bfe.png)
 
 ## Grains
 
@@ -73,10 +73,10 @@ source_file: "corpus/03-breakwave/insights/2023/2023-01-06_dycuxk1g12t19gzz151ms
 - China’s wheat imports in November increased by circa 25.5 percent from a year earlier, to 1.6 million tonnes.
 - China imported 2.35 million tonnes of grains on top of soybean imports in November, or circa 46.7 percent down year-on-year.
 
-![1 (5)](assets/2023-01-06_dycuxk1g12t19gzz151msbfpxla6zb_img_128529_51a889214d33.png)
+![1 (5)](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-01-06_dycuxk1g12t19gzz151msbfpxla6zb_img_128529_51a889214d33.png)
 
 > **Figure 4: 1 (5)**  
-> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-01-06_dycuxk1g12t19gzz151msbfpxla6zb_img_128529_51a889214d33.png)
+> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-01-06_dycuxk1g12t19gzz151msbfpxla6zb_img_128529_51a889214d33.png)
 
 ## Minors (Exports)
 
@@ -87,10 +87,10 @@ source_file: "corpus/03-breakwave/insights/2023/2023-01-06_dycuxk1g12t19gzz151ms
 - Chinese steel exports during the first eleven months of 2022, lay at 61.88 million tonnes or up 26.7 percent year-onyear.
 - November’s steel exports balanced at 0.3 percent lower than a reading of 5.18 million tonnes a month earlier.
 
-![1 (6)](assets/2023-01-06_dycuxk1g12t19gzz151msbfpxla6zb_img_128629_4e0598898bbe.png)
+![1 (6)](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-01-06_dycuxk1g12t19gzz151msbfpxla6zb_img_128629_4e0598898bbe.png)
 
 > **Figure 5: 1 (6)**  
-> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-01-06_dycuxk1g12t19gzz151msbfpxla6zb_img_128629_4e0598898bbe.png)
+> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-01-06_dycuxk1g12t19gzz151msbfpxla6zb_img_128629_4e0598898bbe.png)
 
 ## Minors (Imports)
 
@@ -101,9 +101,9 @@ source_file: "corpus/03-breakwave/insights/2023/2023-01-06_dycuxk1g12t19gzz151ms
 - On a year-on-year basis, November’s timber imports decreased by circa 21.1 percent.
 - From January to November, China brought in 64.2 million CBM of timber and logs, or down circa 24.6 percent year-on-year.
 
-![1 (8)](assets/2023-01-06_dycuxk1g12t19gzz151msbfpxla6zb_img_128829_decb346463f0.png)
+![1 (8)](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-01-06_dycuxk1g12t19gzz151msbfpxla6zb_img_128829_decb346463f0.png)
 
 > **Figure 6: 1 (8)**  
-> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-01-06_dycuxk1g12t19gzz151msbfpxla6zb_img_128829_decb346463f0.png)
+> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-01-06_dycuxk1g12t19gzz151msbfpxla6zb_img_128829_decb346463f0.png)
 
 Data source:[Doric](https://www.doric.gr/)

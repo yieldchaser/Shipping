@@ -34,6 +34,10 @@ Looking at total OPEC shipments in January 2017 (excluding the countries that ar
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: OPEC Cuts Down Tanker Demand](../../../charts/poten/2017/poten_2017-02-10_opec-cuts-down-tanker-demand_chart1.png)
+![Exhibit 1: OPEC Crude Oil Exports](../../../charts/poten/2017/poten_2017-02-10_opec-cuts-down-tanker-demand_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2017/poten_2017-02-10_opec-cuts-down-tanker-demand_chart1.png)
+> **Exhibit 1: OPEC Crude Oil Exports**  
+> Unit: Mb/d · X-axis: Saudi Arabia to Libya  
+> Series: Jan-15, Jan-16, Sep-16, Dec-16, Jan-17  
+> *Source: Lloyd’s List Intelligence*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2017/poten_2017-02-10_opec-cuts-down-tanker-demand_chart1.png)

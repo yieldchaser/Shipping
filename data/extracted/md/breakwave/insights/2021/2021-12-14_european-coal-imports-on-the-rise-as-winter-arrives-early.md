@@ -29,35 +29,35 @@ European natural gas prices have surged amid rising tensions between Russia and 
 ![Ch1](assets/2021-12-14_european-coal-imports-on-the-rise-as-winter-arrives-early_img_ch1_a1f8e924aa1b.png)
 
 > **Figure 1: Ch1**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2021/assets/2021-12-14_european-coal-imports-on-the-rise-as-winter-arrives-early_img_ch1_a1f8e924aa1b.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-12-14_european-coal-imports-on-the-rise-as-winter-arrives-early_img_ch1_a1f8e924aa1b.png)
 
 In the wake of rising natural gas prices and tight supply, the importance of thermal coal to the energy mix has been increasing in many European countries. After many years of declining use, the unusually frigid conditions have forced many power plants to boost the use of fossil fuels to keep up with rising electricity demand. At the same time, as surging demand has pushed European electricity prices into record territory, the production is facing a double whammy in terms of costs. Alongside rising energy commodity prices, the increasing use of fossil fuels has seen European carbon credits trading ever higher during the fourth quarter. While the carbon permits are trading some ten per cent lower than the recent peak, the allowances are still 150 per cent more expensive than at the beginning of the year.
 
 ![Ch2](assets/2021-12-14_european-coal-imports-on-the-rise-as-winter-arrives-early_img_ch2_b6a9a6e327aa.png)
 
 > **Figure 2: Ch2**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2021/assets/2021-12-14_european-coal-imports-on-the-rise-as-winter-arrives-early_img_ch2_b6a9a6e327aa.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-12-14_european-coal-imports-on-the-rise-as-winter-arrives-early_img_ch2_b6a9a6e327aa.png)
 
 Europe is widely seen as one of the leading players in the drive towards decarbonisation, so it is perhaps a bit surprising that the continent’s seaborne coal imports have been steadily increasing during the second half of the year. However, the uncertainty surrounding the continent’s primary supplier of natural gas, Russia, has been amplified by low gas inventory levels ahead of the winter. As a result, thermal coal has seen a temporary reversal of its fortunes. Last month recorded the highest volume of coal discharged in European ports since October 2019, at 9.7 million tonnes or 45 per cent above the same month the previous year. Based on the quantities offloaded during the last two weeks, it is possible that the volumes in December will record a similar year-on-year growth and top ten million tonnes. However, the total imports for the year still look set to be 25 per cent below the pre-pandemic levels of 2019.
 
 ![Ch3](assets/2021-12-14_european-coal-imports-on-the-rise-as-winter-arrives-early_img_ch3_434ef31eb73e.png)
 
 > **Figure 3: Ch3**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2021/assets/2021-12-14_european-coal-imports-on-the-rise-as-winter-arrives-early_img_ch3_434ef31eb73e.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-12-14_european-coal-imports-on-the-rise-as-winter-arrives-early_img_ch3_434ef31eb73e.png)
 
 As for natural gas, Europe has become increasingly reliant on coal shipments from Russia. Since 2016, the country has doubled its share of the European market for seaborne coal to 41 per cent at the same time as total import volumes have shrunk by more than a third. While Russia has become the dominant coal supplier to the European market, the previous champion, Colombia, has seen its share dwindling to ten per cent over the same period. Australia is another winner, with its market share doubling as some of the coal previously destined for China finds its way to European ports. On average, 1.5 million tonnes of Australian coal have been discharged in European ports during the current year, approximately fifty per cent more than during 2020.
 
 ![Ch4](assets/2021-12-14_european-coal-imports-on-the-rise-as-winter-arrives-early_img_ch4_d6c268879391.png)
 
 > **Figure 4: Ch4**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2021/assets/2021-12-14_european-coal-imports-on-the-rise-as-winter-arrives-early_img_ch4_d6c268879391.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-12-14_european-coal-imports-on-the-rise-as-winter-arrives-early_img_ch4_d6c268879391.png)
 
 The demise of the long-distance coal trade with Colombia in recent years has resulted in the Capesize segment’s market share shrinking. The growing importance of exports from Russia has made the trade increasingly dominated by the Panamax segment for the shorter voyages. However, in the wake of the Chinese import embargo on Australian coal, the increasing volumes shipped from Australia to Europe have led to the larger tonnage reclaiming some of the lost business.
 
 ![Ch5](assets/2021-12-14_european-coal-imports-on-the-rise-as-winter-arrives-early_img_ch5_1c2784fce0be.png)
 
 > **Figure 5: Ch5**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2021/assets/2021-12-14_european-coal-imports-on-the-rise-as-winter-arrives-early_img_ch5_1c2784fce0be.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-12-14_european-coal-imports-on-the-rise-as-winter-arrives-early_img_ch5_1c2784fce0be.png)
 
 The early arrival of the winter in Europe looks set to keep coal imports high in the coming months, as inventories for both gas and coal remain low. However, the energy crunch has generated a record amount of renewable-power supply deals, suggesting that a repeat next winter is becoming somewhat less likely. Increasing tensions in Eastern Europe, with the possibility of additional US and European sanctions on Russian trade, could see coal traders looking to source the commodity from other countries. Given that Russia is Europe’s nearest supplier, any such change in the trade patterns would increase the tonne-mile demand.
 

@@ -27,7 +27,7 @@ China's coal import data for June by origin was released recently and shows impo
 ![A1](assets/2021-07-28_chinas-coal-import-shift-continues-intensifying-demand-to-become-even-stronger_img_a1_ea14c25e0ee0.jpg)
 
 > **Figure 1: A1**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2021/assets/2021-07-28_chinas-coal-import-shift-continues-intensifying-demand-to-become-even-stronger_img_a1_ea14c25e0ee0.jpg)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-07-28_chinas-coal-import-shift-continues-intensifying-demand-to-become-even-stronger_img_a1_ea14c25e0ee0.jpg)
 
 China imported 17 million tons of coal from Indonesia in June, which is up month-on-month by 5.8 million tons (52%) and up year-on-year by 6.2 million tons (57%). China imported 5.3 million tons from Russia, which is up month-on-month by 200,000 tons (4%) and up year-on-year by 2.4 million tons (83%). Overall, Indonesia has remained the primary source of China's coal imports while Russia has remained the clear secondary source. Basically all of Indonesia's coal exports are thermal coal cargoes, while the majority of Russia's coal exports are coking coal cargoes.
 

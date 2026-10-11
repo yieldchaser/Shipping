@@ -43,6 +43,22 @@ However, even though the supply side may have a significant impact on freight ra
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: Decisions Decisions](../../../charts/poten/2019/poten_2019-03-01_decisions-decisions_chart1.png)
+![Exhibit 1: VLCC & Suezmax Scrapping History](../../../charts/poten/2019/poten_2019-03-01_decisions-decisions_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2019/poten_2019-03-01_decisions-decisions_chart1.png)
+> **Exhibit 1: VLCC & Suezmax Scrapping History**  
+> Unit: # Vessels · X-axis: 2002 to 2019  
+> Series: VLCC, Suezmax  
+> *Source: Poten & Partners*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2019/poten_2019-03-01_decisions-decisions_chart1.png)
+
+> **Chart on PDF page 1: VLCC Age Profile**  
+> Unit: % · X-axis: 0-5 Yrs Old to 16+ Yrs Old  
+> Series: VLCC  
+> *Source: Poten & Partners*  
+> *No image crop of this chart was saved; caption read from the PDF.*
+
+> **Chart on PDF page 1: Suezmax Age Profile**  
+> Unit: % · X-axis: 0-5 Yrs Old to 16+ Yrs Old  
+> Series: Suezmax  
+> *Source: Poten & Partners*  
+> *No image crop of this chart was saved; caption read from the PDF.*

@@ -28,10 +28,18 @@ Indonesia has ambitions to increase crude oil production as well as refining cap
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: Pacific Promise](../../../charts/poten/2017/poten_2017-03-03_pacific-promise_chart1.png)
+![Exhibit 1: Indonesian Crude Oil Exports by Destination](../../../charts/poten/2017/poten_2017-03-03_pacific-promise_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2017/poten_2017-03-03_pacific-promise_chart1.png)
+> **Exhibit 1: Indonesian Crude Oil Exports by Destination**  
+> Unit: B/d · X-axis: China to Other  
+> Series: 2016, 2015  
+> *Source: Lloyd’s List Intelligence*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2017/poten_2017-03-03_pacific-promise_chart1.png)
 
-![Exhibit 2: Pacific Promise](../../../charts/poten/2017/poten_2017-03-03_pacific-promise_chart2.png)
+![Exhibit 2: Indonesian Crude Oil Imports by Load Area](../../../charts/poten/2017/poten_2017-03-03_pacific-promise_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2017/poten_2017-03-03_pacific-promise_chart2.png)
+> **Exhibit 2: Indonesian Crude Oil Imports by Load Area**  
+> Unit: B/d · X-axis: West Africa to Americas  
+> Series: 2016, 2015  
+> *Source: Lloyd’s List Intelligence*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2017/poten_2017-03-03_pacific-promise_chart2.png)

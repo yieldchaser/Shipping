@@ -30,10 +30,10 @@ This year's Golden Week came on the back of several policy initiatives aimed at 
 
 Meanwhile, global trade dynamics have shown signs of recovery, albeit with lingering uncertainties. According to the World Trade Organization (WTO), global merchandise trade experienced a 2.3 percent year-on-year increase in the first half of 2024, indicating a modest rebound after the downturn witnessed in 2023. This recovery is expected to continue into 2025, with the WTO forecasting global trade volumes to rise by 2.7 percent in 2024 and 3.0 percent in 2025.
 
-![Στιγμιότυπο Οθόνης 2024 10 14 105029](assets/2024-10-14_o67sbsngroi41qutut6agkmbks43ys_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_b3002054ce66.png)
+![Στιγμιότυπο Οθόνης 2024 10 14 105029](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-10-14_o67sbsngroi41qutut6agkmbks43ys_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_b3002054ce66.png)
 
 > **Figure 1: Στιγμιότυπο Οθόνης 2024 10 14 105029**  
-> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-10-14_o67sbsngroi41qutut6agkmbks43ys_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_b3002054ce66.png)
+> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-10-14_o67sbsngroi41qutut6agkmbks43ys_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_b3002054ce66.png)
 
 The easing of inflationary pressures has allowed central banks in advanced economies to reduce interest rates, which in turn is expected to stimulate consumer spending, drive investment, and support the gradual recovery of global trade.
 
@@ -45,10 +45,10 @@ Trade in agricultural products fell by 1 percent year-on-year in the first half 
 
 In the spot market for the forty-first trading week, the dry bulk market exhibited a similarly cautious tone, reflecting the broader global economic environment. Geared vessels saw minimal price movement, with rates largely drifting sideways. The Capesize sector, however, suffered significant declines, with rates dropping by double digits, a stark contrast to the Panamax segment, which managed a modest recovery. These developments suggest a cautious sentiment across the global dry bulk shipping sector, as market participants continue to navigate the broader economic uncertainties.
 
-![Στιγμιότυπο Οθόνης 2024 10 14 105229](assets/2024-10-14_o67sbsngroi41qutut6agkmbks43ys_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_6c8d96aba44f.png)
+![Στιγμιότυπο Οθόνης 2024 10 14 105229](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-10-14_o67sbsngroi41qutut6agkmbks43ys_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_6c8d96aba44f.png)
 
 > **Figure 2: Στιγμιότυπο Οθόνης 2024 10 14 105229**  
-> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-10-14_o67sbsngroi41qutut6agkmbks43ys_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_6c8d96aba44f.png)
+> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-10-14_o67sbsngroi41qutut6agkmbks43ys_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_6c8d96aba44f.png)
 
 Data source:[Doric](https://www.doric.gr/)
 

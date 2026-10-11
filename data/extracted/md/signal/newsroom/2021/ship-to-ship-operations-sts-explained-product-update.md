@@ -34,10 +34,10 @@ STS operations are especially relevant for large tankers that may face supply ch
 That said, STS procedures require robust shipping operations management to mitigate risks such as accidents or oil spills. Coordination, timing, and clear documentation—such as a bill of lading—are critical to safe execution.
 
 
-![66b51f522e7da8e9b64fbfbe 60b8bf47334993946610de05 Shutterstock 1701584185%20(1)%20(1)](../../images/66b51f522e7da8e9b64fbfbe_60b8bf47334993946610de05_shutterstock_1701584185%20(1)%20(1).avif)
+![66b51f522e7da8e9b64fbfbe 60b8bf47334993946610de05 Shutterstock 1701584185%20(1)%20(1)](../../images/66b51f522e7da8e9b64fbfbe_60b8bf47334993946610de05_shutterstock_1701584185%2520(1)%2520(1).avif)
 
 > **Figure 1: 66b51f522e7da8e9b64fbfbe 60b8bf47334993946610de05 Shutterstock 1701584185%20(1)%20(1)**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/ship-to-ship-operations-sts-explained-product-update) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/66b51f522e7da8e9b64fbfbe_60b8bf47334993946610de05_shutterstock_1701584185%20(1)%20(1).avif)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/ship-to-ship-operations-sts-explained-product-update) | [Local Asset](../../../../../../corpus/07-signal/images/66b51f522e7da8e9b64fbfbe_60b8bf47334993946610de05_shutterstock_1701584185%2520(1)%2520(1).avif)
 
 
 ## How Sts Operations Report Work in the Signal Ocean Platform
@@ -45,20 +45,20 @@ That said, STS procedures require robust shipping operations management to mitig
 The STS Operations report displays all Ship-to-Ship Operations carried out at specific areas or ports, within a selected time frame, going back 12 months. Users can select a combination of areas and/or ports to focus on.
 
 
-![Ship to Ship (Sts) Operations Report in Signal Ocean Platform](../../images/66b51f522e7da8e9b64fbfb6_60b8bfc0c072a384444f317d_Ship%20to%20ship%20operation%20report%20STS%20-%20Signal%20Ocean%20Platform.avif)
+![Ship to Ship (Sts) Operations Report in Signal Ocean Platform](../../images/66b51f522e7da8e9b64fbfb6_60b8bfc0c072a384444f317d_Ship%2520to%2520ship%2520operation%2520report%2520STS%2520-%2520Signal%2520Ocean%2520Platform.avif)
 
 > **Figure 2: Ship to Ship (Sts) Operations Report in Signal Ocean Platform**  
 > *Ship to Ship (STS) Operations Report in Signal Ocean Platform*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/ship-to-ship-operations-sts-explained-product-update) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/66b51f522e7da8e9b64fbfb6_60b8bfc0c072a384444f317d_Ship%20to%20ship%20operation%20report%20STS%20-%20Signal%20Ocean%20Platform.avif)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/ship-to-ship-operations-sts-explained-product-update) | [Local Asset](../../../../../../corpus/07-signal/images/66b51f522e7da8e9b64fbfb6_60b8bfc0c072a384444f317d_Ship%2520to%2520ship%2520operation%2520report%2520STS%2520-%2520Signal%2520Ocean%2520Platform.avif)
 
 The report focuses on 3 types of STS operations, including Lightering (when a bigger vessel operates with a smaller one), a Cargo Transfer (when vessels of the same size operate) and FPSO/Storage (when the operation involves a Storage or FPSO vessel). The data are displayed in a table format with filtering and sorting options per column. The table includes information ranging from Vessel names,Operation types and IMO, to Commercial operators.
 
 
-![Visualization of Sts Operation Inside Voyage History in Signal Ocean Platform](../../images/66b51f522e7da8e9b64fbfb0_60b8c05c2747675ba2dc6f07_STS%20in%20voyage%20history.avif)
+![Visualization of Sts Operation Inside Voyage History in Signal Ocean Platform](../../images/66b51f522e7da8e9b64fbfb0_60b8c05c2747675ba2dc6f07_STS%2520in%2520voyage%2520history.avif)
 
 > **Figure 3: Visualization of Sts Operation Inside Voyage History in Signal Ocean Platform**  
 > *Visualization of STS operation inside voyage history in Signal Ocean Platform*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/ship-to-ship-operations-sts-explained-product-update) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/66b51f522e7da8e9b64fbfb0_60b8c05c2747675ba2dc6f07_STS%20in%20voyage%20history.avif)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/ship-to-ship-operations-sts-explained-product-update) | [Local Asset](../../../../../../corpus/07-signal/images/66b51f522e7da8e9b64fbfb0_60b8c05c2747675ba2dc6f07_STS%2520in%2520voyage%2520history.avif)
 
 
 ## Why Is Monitoring Sts Operations Useful for Players Involved in Commercial Shipping and Commodities Trading?

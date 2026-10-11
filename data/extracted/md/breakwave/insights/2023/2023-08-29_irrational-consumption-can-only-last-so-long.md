@@ -26,6 +26,7 @@ source_file: "corpus/03-breakwave/insights/2023/2023-08-29_irrational-consumptio
 - *Jerome Powell’s speech at Jackson Hole had a little in it for everyone. Some hawkish talk about raising interest rates if consumption continues to be strong and some dovish talk about the labour market. As far as markets are concerned, the central banking main “event of the year” had all the excitement of a corporate away day.*
 - *Presently, Americans are still flush with cash after the pandemic checks. We can’t predict growth in a volatile economic environment, because we can’t predict consumption. When the whole economy is unbalanced and volatile,*[*our key theme from the beginning of the year*](https://www.mazars.co.uk/Home/Services/Financial-Planning/Latest-economic-market-and-investment-news/Quarterly-investment-outlook-Q1-2023)*, then this uncertainty translates into policy uncertainty.*
 - *What does this all mean for investors?*
+   - Bond yields will remain elevated for some time.
 
 *The concentrated efforts of central banks to curb consumption usually work. We haven’t bet against the Fed yet and we don’t intend to. And in this case, when consumption recedes, bad news for the economy will, all other things being equal, be good news for markets, who will finally see the cost of money recede.*
 
@@ -45,17 +46,17 @@ The standard formula is Government Expenditure + Investment + Consumption + Expo
 
 One can ascertain government expenditure as the powers that be are usually on a budget. Investment also follows seasonal trends, as do exports and imports. But the problem, what makes GDP so unpredictable, is consumption. Not only is[consumption a psychological process](https://hbr.org/2002/09/pricing-and-the-psychology-of-consumption), it is also by far the biggest component of GDP. In the Western world, it accounts for 70%-85% of GDP.
 
-![Market Chart 1](assets/2023-08-29_irrational-consumption-can-only-last-so-long_img_image00428629_2c9f4f0b1cf9.jpg)
+![Market Chart 1](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-08-29_irrational-consumption-can-only-last-so-long_img_image00428629_2c9f4f0b1cf9.jpg)
 
 > **Figure 1: Market Chart 1**  
-> **Interactive Data & Source:** [Mazars Co](https://www.mazars.co.uk/Home/Services/Financial-Planning/Latest-economic-market-and-investment-news/Quarterly-investment-outlook-Q1-2023) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-08-29_irrational-consumption-can-only-last-so-long_img_image00428629_2c9f4f0b1cf9.jpg)
+> **Interactive Data & Source:** [Mazars Co](https://www.mazars.co.uk/Home/Services/Financial-Planning/Latest-economic-market-and-investment-news/Quarterly-investment-outlook-Q1-2023) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-08-29_irrational-consumption-can-only-last-so-long_img_image00428629_2c9f4f0b1cf9.jpg)
 
 Presently, credit conditions for consumers are as bad as they have been since the Euro Crisis.
 
-![Market Chart 2](assets/2023-08-29_irrational-consumption-can-only-last-so-long_img_image00528829_0e7638479073.jpg)
+![Market Chart 2](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-08-29_irrational-consumption-can-only-last-so-long_img_image00528829_0e7638479073.jpg)
 
 > **Figure 2: Market Chart 2**  
-> **Interactive Data & Source:** [Mazars Co](https://www.mazars.co.uk/Home/Services/Financial-Planning/Latest-economic-market-and-investment-news/Quarterly-investment-outlook-Q1-2023) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-08-29_irrational-consumption-can-only-last-so-long_img_image00528829_0e7638479073.jpg)
+> **Interactive Data & Source:** [Mazars Co](https://www.mazars.co.uk/Home/Services/Financial-Planning/Latest-economic-market-and-investment-news/Quarterly-investment-outlook-Q1-2023) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-08-29_irrational-consumption-can-only-last-so-long_img_image00528829_0e7638479073.jpg)
 
 Yet, according to the Fed, consumption has been much stronger than anticipated. So why is the economy strong?
 
@@ -63,10 +64,10 @@ Back in 2014, when the US was pumping a lot of shale gas and gaining market shar
 
 As a result, Gasoline prices also plunged, from over $5 per gallon to $2. The US is a heavily driving culture. 2.4% of household expenditure goes to gasoline. Less money for gasoline means more money for other purchases. The assumption was that a heavy drop in gasoline prices would lead to a pickup in consumption. In reality, the needle barely moved. The collapse in gasoline prices led to only a modest pick in core consumption (5% up from 4%). In late 2015, consumption fell alongside gasoline prices.
 
-![Market Chart 3](assets/2023-08-29_irrational-consumption-can-only-last-so-long_img_image006281329_f4f5cb7b1588.jpg)
+![Market Chart 3](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-08-29_irrational-consumption-can-only-last-so-long_img_image006281329_f4f5cb7b1588.jpg)
 
 > **Figure 3: Market Chart 3**  
-> **Interactive Data & Source:** [Mazars Co](https://www.mazars.co.uk/Home/Services/Financial-Planning/Latest-economic-market-and-investment-news/Quarterly-investment-outlook-Q1-2023) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-08-29_irrational-consumption-can-only-last-so-long_img_image006281329_f4f5cb7b1588.jpg)
+> **Interactive Data & Source:** [Mazars Co](https://www.mazars.co.uk/Home/Services/Financial-Planning/Latest-economic-market-and-investment-news/Quarterly-investment-outlook-Q1-2023) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-08-29_irrational-consumption-can-only-last-so-long_img_image006281329_f4f5cb7b1588.jpg)
 
 Presently, Americans are still flush with cash after the pandemic checks. Credit card delinquencies might be going upwards, but at 0.5% for 90+ days they are still at half their historical average.
 

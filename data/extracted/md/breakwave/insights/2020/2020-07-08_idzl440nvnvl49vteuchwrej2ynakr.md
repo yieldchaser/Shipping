@@ -26,11 +26,11 @@ Currently, the futures curve is pricing continuing declines in Capesize spot rat
 
 ### Chart: Q4 2020 Capesize Futures Contract
 
-![Volume of Capesize Tonnage Waiting at Chinese Ports Jumped To](assets/2020-07-08_idzl440nvnvl49vteuchwrej2ynakr_img_q420_294066fe6213.jpg)
+![Volume of Capesize Tonnage Waiting at Chinese Ports Jumped To](../../../../../../corpus/03-breakwave/insights/2020/assets/2020-07-08_idzl440nvnvl49vteuchwrej2ynakr_img_q420_294066fe6213.jpg)
 
 > **Figure 1: Volume of Capesize Tonnage Waiting at Chinese Ports Jumped To**  
 > *The volume of Capesize tonnage waiting at Chinese ports jumped to over 16m dwt last week, the highest level in over two years according to AIS data from Refinitiv.*  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2020/assets/2020-07-08_idzl440nvnvl49vteuchwrej2ynakr_img_q420_294066fe6213.jpg)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2020/assets/2020-07-08_idzl440nvnvl49vteuchwrej2ynakr_img_q420_294066fe6213.jpg)
 
 However, over the last 12 months the global economy has experienced unprecedented challenges and major changes. And yet, that doesn’t seem to have had an impact on traders expectations about the second half of the year. One has to wonder if there is any fundamental consideration at all, positive or negative, for futures prices other than what “last year’s rates” were (it was higher, by the way, at ~22,000).
 
@@ -43,10 +43,10 @@ Braemar writes:
 - *Heavy seasonal rains are reportedly slowing the rate that incoming vessels can be discharged, but the queues are also in part down to China’s enormous purchases of iron ore over the past few weeks, some of which would otherwise be heading to countries which have cut back their imports, such as Japan and South Korea.*
 - *Chinese iron ore receipts were just under 99m tonnes in June, up 4% MoM and up 23% YoY.*
 
-![Braemar Brazil Shipoments](assets/2020-07-08_idzl440nvnvl49vteuchwrej2ynakr_img_braemarbrazilshipoments_32d09f2ac84a.png)
+![Braemar Brazil Shipoments](../../../../../../corpus/03-breakwave/insights/2020/assets/2020-07-08_idzl440nvnvl49vteuchwrej2ynakr_img_braemarbrazilshipoments_32d09f2ac84a.png)
 
 > **Figure 2: Braemar Brazil Shipoments**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2020/assets/2020-07-08_idzl440nvnvl49vteuchwrej2ynakr_img_braemarbrazilshipoments_32d09f2ac84a.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2020/assets/2020-07-08_idzl440nvnvl49vteuchwrej2ynakr_img_braemarbrazilshipoments_32d09f2ac84a.png)
 
 Additionally, iron ore prices pushed higher overnight, now standing at almost $107/mt, continuing to incentivize miners to sell as much iron ore as they can given such attractive profit margins.
 

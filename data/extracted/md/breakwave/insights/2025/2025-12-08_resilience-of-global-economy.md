@@ -30,10 +30,10 @@ In Brazil, real GDP is projected to increase by 2.4 percent in 2025 before slowi
 
 Turning to global trade, growth is anticipated to reach 4.2 percent in 2025, reflecting stronger-than-expected front-loading in the first half of the year. This momentum is only partly unwinding as investment- and technology-related trade remains robust. Trade growth is expected to moderate to 2.3 percent in 2026 as the full impact of higher tariffs materialises, before recovering to 2.8 percent in 2027. The composition of trade is shifting, with emerging-market economies accounting for a larger share of global flows. South-East Asia’s role is expected to expand further, while China’s relative contribution moderates and advanced economies’ share continues to decline. Global growth has evolved more steadily than earlier anticipated, lending firmer support to dry bulk sentiment as the industry heads into the new year. The Capesize market’s rally to two-year highs has sharpened this shift in tone. Although challenges persist on the geopolitical and structural fronts, the macro setting is now aligned more favourably with dry bulk demand than implied by initial-year assessments.
 
-![Στιγμιότυπο Οθόνης 2025 12 07 234635](assets/2025-12-08_resilience-of-global-economy_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_476d3ec70fbe.png)
+![Στιγμιότυπο Οθόνης 2025 12 07 234635](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-12-08_resilience-of-global-economy_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_476d3ec70fbe.png)
 
 > **Figure 1: Στιγμιότυπο Οθόνης 2025 12 07 234635**  
-> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-12-08_resilience-of-global-economy_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_476d3ec70fbe.png)
+> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-12-08_resilience-of-global-economy_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_476d3ec70fbe.png)
 
 Data source:[Doric](https://www.doric.gr/)
 

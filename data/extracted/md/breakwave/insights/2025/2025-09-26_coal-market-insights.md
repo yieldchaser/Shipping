@@ -20,10 +20,10 @@ source_file: "corpus/03-breakwave/insights/2025/2025-09-26_coal-market-insights.
 
 ---
 
-![Market Chart 1](assets/2025-09-26_coal-market-insights_img_unnamed_947cab049f02.png)
+![Market Chart 1](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-09-26_coal-market-insights_img_unnamed_947cab049f02.png)
 
 > **Figure 1: Market Chart 1**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-09-26_coal-market-insights_img_unnamed_947cab049f02.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-09-26_coal-market-insights_img_unnamed_947cab049f02.png)
 
 ### Global Perspective
 
@@ -47,39 +47,39 @@ India's coal market is set for substantial growth. The nation's domestic coal pr
 
 Beyond India’s expanding domestic output and steel-driven demand, shifting trade flows are reshaping coal supply dynamics, with Russia and Australia regaining ground in the Indian import mix. Coal shipments from Russia to India have increased substantially this year compared to the first eight months of last year. After reaching a high of almost 4 million metric tons in April, shipments leveled off, consistently surpassing an average of 2.5 million metric tons per month between June and August.
 
-![Market Chart 2](assets/2025-09-26_coal-market-insights_img_unnamed28129_e0dc5f7e26b3.png)
+![Market Chart 2](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-09-26_coal-market-insights_img_unnamed28129_e0dc5f7e26b3.png)
 
 > **Figure 2: Market Chart 2**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-09-26_coal-market-insights_img_unnamed28129_e0dc5f7e26b3.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-09-26_coal-market-insights_img_unnamed28129_e0dc5f7e26b3.png)
 
-![Market Chart 3](assets/2025-09-26_coal-market-insights_img_unnamed28229_90a1d43148f1.png)
+![Market Chart 3](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-09-26_coal-market-insights_img_unnamed28229_90a1d43148f1.png)
 
 > **Figure 3: Market Chart 3**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-09-26_coal-market-insights_img_unnamed28229_90a1d43148f1.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-09-26_coal-market-insights_img_unnamed28229_90a1d43148f1.png)
 
 metallurgical coal shipments have shown significant strength since May 2025, reaching around 3.4 million metric tons in August. This follows a peak of 4.4 million metric tons at the end of June, a typical seasonal high driven by fiscal year-end production efforts and increased Asian steel demand. While current year trends mirror the strong monthly activity seen in 2022, Australian exporters are now facing heightened competition from Russia. Additionally, miners continue to grapple with escalating costs and substantial Queensland royalty burdens, which are jeopardizing the profitability of higher-cost operations.
 
-![Australia's](assets/2025-09-26_coal-market-insights_img_unnamed28329_102c2aaadbd5.png)
+![Australia's](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-09-26_coal-market-insights_img_unnamed28329_102c2aaadbd5.png)
 
 > **Figure 4: Australia's**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-09-26_coal-market-insights_img_unnamed28329_102c2aaadbd5.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-09-26_coal-market-insights_img_unnamed28329_102c2aaadbd5.png)
 
-![Market Chart 5](assets/2025-09-26_coal-market-insights_img_unnamed28429_fbbaea6eb2d7.png)
+![Market Chart 5](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-09-26_coal-market-insights_img_unnamed28429_fbbaea6eb2d7.png)
 
 > **Figure 5: Market Chart 5**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-09-26_coal-market-insights_img_unnamed28429_fbbaea6eb2d7.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-09-26_coal-market-insights_img_unnamed28429_fbbaea6eb2d7.png)
 
 While coal shipments from Russia and Australia increased,coal shipments reached a record low in July, mirroring July 2022 figures. Shipments fell to 7 million metric tons before recovering to approximately 8.5 million metric tons by the end of August. These volumes, however, remain below the May 2022 peak of about 16 million metric tons.
 
-![Indonesian](assets/2025-09-26_coal-market-insights_img_unnamed28529_811fd35a1834.png)
+![Indonesian](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-09-26_coal-market-insights_img_unnamed28529_811fd35a1834.png)
 
 > **Figure 6: Indonesian**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-09-26_coal-market-insights_img_unnamed28529_811fd35a1834.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-09-26_coal-market-insights_img_unnamed28529_811fd35a1834.png)
 
-![Market Chart 7](assets/2025-09-26_coal-market-insights_img_unnamed28629_f8cbcc3a5d19.png)
+![Market Chart 7](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-09-26_coal-market-insights_img_unnamed28629_f8cbcc3a5d19.png)
 
 > **Figure 7: Market Chart 7**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-09-26_coal-market-insights_img_unnamed28629_f8cbcc3a5d19.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-09-26_coal-market-insights_img_unnamed28629_f8cbcc3a5d19.png)
 
 ### China: Balancing Coal Growth with Renewables
 
@@ -87,17 +87,17 @@ China presents a complex balance between fossil fuels and clean energy. In the f
 
 **Coal imports, however, tell a different story**. In Q2 2025, shipments from Indonesia to China fell by nearly, reflecting weaker demand and strong domestic supply.
 
-![30% Year-on-Year](assets/2025-09-26_coal-market-insights_img_unnamed28729_2c8a7ee953a7.png)
+![30% Year-on-Year](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-09-26_coal-market-insights_img_unnamed28729_2c8a7ee953a7.png)
 
 > **Figure 8: 30% Year-on-Year**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-09-26_coal-market-insights_img_unnamed28729_2c8a7ee953a7.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-09-26_coal-market-insights_img_unnamed28729_2c8a7ee953a7.png)
 
 By late summer, though, volumes had clearly rebounded: estimated cargoes in July, August, and the first 20 days of September were about 50% higher than in Q1 2025, though still around 6% below the same period in 2024. In August 2025, import volumes reached their highest point for the year, highlighting the impact of domestic supply constraints on trade. According to the National Bureau of Statistics of China, raw coal output slipped by 2.5% YoY to 380 Mt in August 2025 as safety inspections constrained production. With summer heat lifting power demand and drought curbing hydropower, utilities leaned more heavily on seaborne coal to bridge the gap.
 
-![Market Chart 9](assets/2025-09-26_coal-market-insights_img_unnamed28829_0dd5c69f3582.png)
+![Market Chart 9](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-09-26_coal-market-insights_img_unnamed28829_0dd5c69f3582.png)
 
 > **Figure 9: Market Chart 9**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-09-26_coal-market-insights_img_unnamed28829_0dd5c69f3582.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-09-26_coal-market-insights_img_unnamed28829_0dd5c69f3582.png)
 
 ### Key Takeaways
 

@@ -28,10 +28,18 @@ While the dry bulk shipping markets have been heavily impacted by the developmen
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: Market TurmOil](../../../charts/poten/2015/poten_2015-08-28_market-turmoil_chart1.png)
+![Exhibit 1: S&P 500 versus Shanghai Stock Exchange 2005-2015](../../../charts/poten/2015/poten_2015-08-28_market-turmoil_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2015/poten_2015-08-28_market-turmoil_chart1.png)
+> **Exhibit 1: S&P 500 versus Shanghai Stock Exchange 2005-2015**  
+> Unit: Index · X-axis: 3-Jan-05 to 3-Jan-15  
+> Series: SSE, SnP 500  
+> *Source: Bloomberg*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2015/poten_2015-08-28_market-turmoil_chart1.png)
 
-![Exhibit 2: Market TurmOil](../../../charts/poten/2015/poten_2015-08-28_market-turmoil_chart2.png)
+![Exhibit 2: Chinese Oil Demand versus Demand for Main Refined Products](../../../charts/poten/2015/poten_2015-08-28_market-turmoil_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2015/poten_2015-08-28_market-turmoil_chart2.png)
+> **Exhibit 2: Chinese Oil Demand versus Demand for Main Refined Products**  
+> Unit: Mb/d · X-axis: 1-Jan-10 to 1-Jan-15  
+> Series: Crude Imports, Demand for Main Pet. Products  
+> *Source: JODI*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2015/poten_2015-08-28_market-turmoil_chart2.png)

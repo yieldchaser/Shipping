@@ -31,7 +31,7 @@ tags:
 ![65df0c904af41304c53e8892 Chart of the Week Dry](../../images/65df0c904af41304c53e8892_chart of the week dry.png)
 
 > **Figure 1: 65df0c904af41304c53e8892 Chart of the Week Dry**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/dry-week-09-2024) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/65df0c904af41304c53e8892_chart of the week dry.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/dry-week-09-2024) | [Local Asset](../../../../../../corpus/07-signal/images/65df0c904af41304c53e8892_chart%20of%20the%20week%20dry.png)
 
 At the end of the month, there's a notable upturn in the Capesize Brazil to N China route, with rates reaching new highs since the year's outset. However, it remains uncertain whether this firmness will persist into March. Interestingly, despite signs of a stronger freight market sentiment, there's a decrease in the growth of tonne days, particularly notable in the Handysize segment. Additionally, there's a decrease in the number of ballasters for large vessel size categories, following several weeks of peaks lasting over a month. In the Panamax segment, there's a noteworthy record in the P6 route for ballasters to ECSA, showing a recent decline after consistently peaking for many weeks until the end of February, while there's a recovery in the growth of ECSA daily volume loaded. (see image above)
 

@@ -20,10 +20,10 @@ source_file: "corpus/03-breakwave/insights/2020/2020-07-21_vales-results-positiv
 
 ---
 
-![Vale 1](assets/2020-07-21_vales-results-positive-for-dry-bulk-with-a-caveat_img_vale1_144f0c3e42a5.jpg)
+![Vale 1](../../../../../../corpus/03-breakwave/insights/2020/assets/2020-07-21_vales-results-positive-for-dry-bulk-with-a-caveat_img_vale1_144f0c3e42a5.jpg)
 
 > **Figure 1: Vale 1**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2020/assets/2020-07-21_vales-results-positive-for-dry-bulk-with-a-caveat_img_vale1_144f0c3e42a5.jpg)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2020/assets/2020-07-21_vales-results-positive-for-dry-bulk-with-a-caveat_img_vale1_144f0c3e42a5.jpg)
 
 Last night, Vale provided their second quarter production results as well as their guidance for the rest of the year. Although their production numbers for Q2 fell short of expectations, especially when it comes to sales, the company reaffirmed their annual production guidance, which points to a strong output for the second part of the year, something that should help dry bulk rates in general and Capesize spot rates more specifically.
 
@@ -33,10 +33,10 @@ When it comes to guidance, Vale reaffirmed their 310-330 mt annual guidance for 
 
 ### Vale Updated Quarterly Guidance:
 
-![Vale Q2](assets/2020-07-21_vales-results-positive-for-dry-bulk-with-a-caveat_img_valeq2_752ddf716193.png)
+![Vale Q2](../../../../../../corpus/03-breakwave/insights/2020/assets/2020-07-21_vales-results-positive-for-dry-bulk-with-a-caveat_img_valeq2_752ddf716193.png)
 
 > **Figure 2: Vale Q2**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2020/assets/2020-07-21_vales-results-positive-for-dry-bulk-with-a-caveat_img_valeq2_752ddf716193.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2020/assets/2020-07-21_vales-results-positive-for-dry-bulk-with-a-caveat_img_valeq2_752ddf716193.png)
 
 For dry bulk, the results are promising:
 

@@ -27,11 +27,11 @@ tags:
 *Signal Ocean’s preliminary data, derived directly from Voyage Details movements, indicate a sharp reversal in U.S. crude oil flows in November, following a standout performance in October.*
 
 
-![Https://app.signalocean.com/tanker/dynamic/oilflows](../../images/691dcef59c2e449b1aa9b04b_266c4e36.png)
+![Https://app.signalocean.com/tanker/dynamic/oilflows](../../../../../../corpus/07-signal/images/691dcef59c2e449b1aa9b04b_266c4e36.png)
 
 > **Figure 1: Https://app.signalocean.com/tanker/dynamic/oilflows**  
 > *https://app.signalocean.com/tanker/dynamic/oilflows*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/market-insights-oversupply-ahead-early-signs-signal-weaker-u-s-crude-oil-flows) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/691dcef59c2e449b1aa9b04b_266c4e36.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/market-insights-oversupply-ahead-early-signs-signal-weaker-u-s-crude-oil-flows) | [Local Asset](../../../../../../corpus/07-signal/images/691dcef59c2e449b1aa9b04b_266c4e36.png)
 
 
 - Flows climbed to 129.8 M barrels in October 2025, the strongest monthly level of the year and the culmination of steady growth from August through October. However, early November Voyage Details show a steep pullback, with estimated flows currently approx. 110 M barrels for the end of the current month.

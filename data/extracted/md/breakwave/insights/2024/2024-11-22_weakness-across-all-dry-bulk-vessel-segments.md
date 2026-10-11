@@ -62,10 +62,10 @@ After a significant decline in August, global cargo order volumes for nickel con
 
 The recent strong showing for the seaborne zinc trade suggests that the metal’s prices may face headwinds in the near term as the global market becomes better supplied. In addition, the robust cargo order volumes align with the narrative of a glut in the new year.
 
-![Market Chart 1](assets/2024-11-22_weakness-across-all-dry-bulk-vessel-segments_img_unnamed28129_f7d140d3aa71.png)
+![Market Chart 1](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-11-22_weakness-across-all-dry-bulk-vessel-segments_img_unnamed28129_f7d140d3aa71.png)
 
 > **Figure 1: Market Chart 1**  
-> **Interactive Data & Source:** [Shipfix](https://shipfix.com/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-11-22_weakness-across-all-dry-bulk-vessel-segments_img_unnamed28129_f7d140d3aa71.png)
+> **Interactive Data & Source:** [Shipfix](https://shipfix.com/) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-11-22_weakness-across-all-dry-bulk-vessel-segments_img_unnamed28129_f7d140d3aa71.png)
 
 Data Source:[Shipfix](https://shipfix.com/)
 

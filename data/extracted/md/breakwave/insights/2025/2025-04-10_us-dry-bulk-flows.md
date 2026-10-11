@@ -24,10 +24,10 @@ source_file: "corpus/03-breakwave/insights/2025/2025-04-10_us-dry-bulk-flows.htm
 Snapshot of Spot Freight Rates, Supply-Demand Trends, Port Congestions
 April 09, 2025
 
-![Στιγμιότυπο Οθόνης 2025 04 09 171300](assets/2025-04-10_us-dry-bulk-flows_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_96c3b37ca480.png)
+![Στιγμιότυπο Οθόνης 2025 04 09 171300](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-04-10_us-dry-bulk-flows_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_96c3b37ca480.png)
 
 > **Figure 1: Στιγμιότυπο Οθόνης 2025 04 09 171300**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-04-10_us-dry-bulk-flows_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_96c3b37ca480.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-04-10_us-dry-bulk-flows_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_96c3b37ca480.png)
 
 ### Escalation of U.s.-China Trade Tensions: Implications for Dry Bulk Freight
 
@@ -57,10 +57,10 @@ Following China's announcement of retaliatory tariffs—34% on U.S. imports incl
 
 In the coal market, the immediate price reaction was more muted. Despite a 15% tariff on U.S. coal, prices for seaborne coal and coking coal remained relatively stable. This resilience is partly due to the small share of U.S. coal in China’s overall imports and the quick redirection of U.S. cargoes toward alternative markets like India. However, the broader market remains cautious, with uncertainty around long-term demand and trade flows likely to maintain price volatility.
 
-![Στιγμιότυπο Οθόνης 2025 04 09 171357](assets/2025-04-10_us-dry-bulk-flows_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_a623d8e22b4e.png)
+![Στιγμιότυπο Οθόνης 2025 04 09 171357](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-04-10_us-dry-bulk-flows_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_a623d8e22b4e.png)
 
 > **Figure 2: Στιγμιότυπο Οθόνης 2025 04 09 171357**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-04-10_us-dry-bulk-flows_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_a623d8e22b4e.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-04-10_us-dry-bulk-flows_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_a623d8e22b4e.png)
 
 ​​​​The freight market sentiment for the Capesize vessel segment is being revised downward as the number of ballasters increases, while we observe soft signs of a slight downward revision in the Panamax market, along with firmness in the smaller vessel sizes segments.
 
@@ -69,10 +69,10 @@ In the coal market, the immediate price reaction was more muted. Despite a 15% t
 - **Supramax**vessel freight rates on the Indo-ECI route rose by 13% compared to last month, reaching almost $9 per tonne.
 - **Handysize**freight rates for the NOPAC Far East route have remained above $30 per tonne since late February, rising by 8% over the past month.
 
-![Στιγμιότυπο Οθόνης 2025 04 09 171538](assets/2025-04-10_us-dry-bulk-flows_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_8d2ba665bf7b.png)
+![Στιγμιότυπο Οθόνης 2025 04 09 171538](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-04-10_us-dry-bulk-flows_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_8d2ba665bf7b.png)
 
 > **Figure 3: Στιγμιότυπο Οθόνης 2025 04 09 171538**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-04-10_us-dry-bulk-flows_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_8d2ba665bf7b.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-04-10_us-dry-bulk-flows_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_8d2ba665bf7b.png)
 
 The latest ballaster indicators point to continued downward revisions in the Panamax and Supramax sectors in Southeast Africa, while the Capesize segment has shown signs of upward pressure since the beginning of April.
 
@@ -82,10 +82,10 @@ The latest ballaster indicators point to continued downward revisions in the Pan
 - **Supramax SE Asia**: Current trends indicate a sustained downward trajectory from the peak observed in Week 13, with recent levels now falling below the annual average of 100.
 - **Handysize NOPAC**: The Handy NOPAC segment's levels have increased to 98, continuing an upward trend that began at the end of week 11.
 
-![Στιγμιότυπο Οθόνης 2025 04 09 171636](assets/2025-04-10_us-dry-bulk-flows_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_b83fad723d5f.png)
+![Στιγμιότυπο Οθόνης 2025 04 09 171636](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-04-10_us-dry-bulk-flows_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_b83fad723d5f.png)
 
 > **Figure 4: Στιγμιότυπο Οθόνης 2025 04 09 171636**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-04-10_us-dry-bulk-flows_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_b83fad723d5f.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-04-10_us-dry-bulk-flows_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_b83fad723d5f.png)
 
 The first days of April are marked by a downward trajectory in the Capesize growth of tonne days and a significant preserved growth in the Panamax.
 
@@ -94,10 +94,10 @@ The first days of April are marked by a downward trajectory in the Capesize grow
 - **Supramax**: The growth rate remained elevated, marking a firmer pace than the levels observed in Week 11.
 - **Handysize**: Its growth rate remained consistent with the previous three weeks, showing a gradual increase starting at the end of week 2.
 
-![Στιγμιότυπο Οθόνης 2025 04 09 171751](assets/2025-04-10_us-dry-bulk-flows_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_5876ff18551a.png)
+![Στιγμιότυπο Οθόνης 2025 04 09 171751](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-04-10_us-dry-bulk-flows_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_5876ff18551a.png)
 
 > **Figure 5: Στιγμιότυπο Οθόνης 2025 04 09 171751**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-04-10_us-dry-bulk-flows_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_5876ff18551a.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-04-10_us-dry-bulk-flows_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_5876ff18551a.png)
 
 Congestion at Chinese dry bulk ports exhibited a slight upward trend in early April for the Capesize, Panamax, and Handysize vessel segments, while the overall trend appears to maintain a downward trajectory from the end of March.
 

@@ -32,10 +32,18 @@ In the early days and months of the changes, as the distribution channels for th
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: IMO2020 Will Fuel the Product Markets](../../../charts/poten/2019/poten_2019-03-29_imo2020-will-fuel-the-product-markets_chart1.png)
+![Exhibit 1: Bunker Fuel Demand 2019 - 2024](../../../charts/poten/2019/poten_2019-03-29_imo2020-will-fuel-the-product-markets_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2019/poten_2019-03-29_imo2020-will-fuel-the-product-markets_chart1.png)
+> **Exhibit 1: Bunker Fuel Demand 2019 - 2024**  
+> Unit: Mb/d · X-axis: 2019 to 2024  
+> Series: Fuel Oil, FO: Scrubbers, FO: Non Compliance, Very Low Sulphur Fuel Oil, Marine Gasoil  
+> *Source: IEA*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2019/poten_2019-03-29_imo2020-will-fuel-the-product-markets_chart1.png)
 
-![Exhibit 2: IMO2020 Will Fuel the Product Markets](../../../charts/poten/2019/poten_2019-03-29_imo2020-will-fuel-the-product-markets_chart2.png)
+![Exhibit 2: HFO vs Gasoil Forward Curves](../../../charts/poten/2019/poten_2019-03-29_imo2020-will-fuel-the-product-markets_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2019/poten_2019-03-29_imo2020-will-fuel-the-product-markets_chart2.png)
+> **Exhibit 2: HFO vs Gasoil Forward Curves**  
+> Unit: $/Ton · X-axis: 04/2019 to 10/2024  
+> Series: HFO (Rotterdam), LS Gasoil (NWE)  
+> *Source: Bloomberg*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2019/poten_2019-03-29_imo2020-will-fuel-the-product-markets_chart2.png)

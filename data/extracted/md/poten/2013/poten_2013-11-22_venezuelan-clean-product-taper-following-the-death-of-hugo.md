@@ -54,8 +54,8 @@ products offered by our Marine Projects & Consulting department or to contact ou
 
 ![Exhibit 1: Venezuelan Clean Product Taper Following the death of Hugo Chavez in March of 2013, Nicolas Maduro took over as](../../../charts/poten/2013/poten_2013-11-22_venezuelan-clean-product-taper-following-the-death-of-hugo_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2013/poten_2013-11-22_venezuelan-clean-product-taper-following-the-death-of-hugo_chart1.png)
+> **Interactive Asset:** [Local Asset (200 DPI PNG)](../../../charts/poten/2013/poten_2013-11-22_venezuelan-clean-product-taper-following-the-death-of-hugo_chart1.png)
 
 ![Exhibit 2: Venezuelan Clean Product Taper Following the death of Hugo Chavez in March of 2013, Nicolas Maduro took over as](../../../charts/poten/2013/poten_2013-11-22_venezuelan-clean-product-taper-following-the-death-of-hugo_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2013/poten_2013-11-22_venezuelan-clean-product-taper-following-the-death-of-hugo_chart2.png)
+> **Interactive Asset:** [Local Asset (200 DPI PNG)](../../../charts/poten/2013/poten_2013-11-22_venezuelan-clean-product-taper-following-the-death-of-hugo_chart2.png)

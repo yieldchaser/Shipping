@@ -30,10 +30,18 @@ Even though it is reasonable to expect that China's oil demand growth (in percen
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: The Middle Kingdom Opens Up](../../../charts/poten/2015/poten_2015-10-30_the-middle-kingdom-opens-up_chart1.png)
+![Exhibit 1: Chinese Crude Oil Imports by Source (2010 – 2015)](../../../charts/poten/2015/poten_2015-10-30_the-middle-kingdom-opens-up_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2015/poten_2015-10-30_the-middle-kingdom-opens-up_chart1.png)
+> **Exhibit 1: Chinese Crude Oil Imports by Source (2010 – 2015)**  
+> Unit: Mn Metric Tons · X-axis: Jan-10 to Jun-15  
+> Series: Saudi Arabia, Oman, Iran, Iraq, Angola, Nigeria, Venezuela, Russia, Kazakhstan, Other  
+> *Source: Bloomberg / China Customs*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2015/poten_2015-10-30_the-middle-kingdom-opens-up_chart1.png)
 
-![Exhibit 2: The Middle Kingdom Opens Up](../../../charts/poten/2015/poten_2015-10-30_the-middle-kingdom-opens-up_chart2.png)
+![Exhibit 2: China’s Strategic Petroleum Reserves (actual & planned)](../../../charts/poten/2015/poten_2015-10-30_the-middle-kingdom-opens-up_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2015/poten_2015-10-30_the-middle-kingdom-opens-up_chart2.png)
+> **Exhibit 2: China’s Strategic Petroleum Reserves (actual & planned)**  
+> Unit: Million bbl · X-axis: 2006 to 2020  
+> Series: Actual, Planned  
+> *Source: IEA*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2015/poten_2015-10-30_the-middle-kingdom-opens-up_chart2.png)

@@ -24,11 +24,11 @@ A risk-on tone across broader financial markets helped push commodity markets hi
 
 *By*[*Daniel Hynes*](https://www.linkedin.com/in/dahynes/)
 
-![Crude Oilcontinued It Recovery From Its Recent Plunge As](assets/2024-08-09_crude-oil-gains-amid-a-broader-rally-across-risk-asset-classes_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_1f0cce6ef112.png)
+![Crude Oilcontinued It Recovery From Its Recent Plunge As](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-08-09_crude-oil-gains-amid-a-broader-rally-across-risk-asset-classes_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_1f0cce6ef112.png)
 
 > **Figure 1: Crude Oilcontinued It Recovery From Its Recent Plunge As**  
 > *Crude oilcontinued it recovery from its recent plunge as elevated geopolitical risks came into focus. Israel remains on edge as it prepares for a retaliatory attack from Iran following the assassination of Hamas and Hezbollah leaders. However, a call between Iran’s President Masoud Pezeshkian and French counterpart Emmanual Macron potentially opened a diplomatic path to de-escalation. There is also no end in sight to the political situation that has closed Libya’s Sharara oil field. The National Oil Company has declaredforce majeureat the field, which was producing about 270kb/d before the closure. One bright spot in the oil market is jet fuel demand in China. Total air traffic grew by 14% in June compared with the same period 2019. Domestic flights are up nearly 10%, according to government data. This is leading the country’s refiners to lift output of the aviation fuel to take advantage of improved margins.*  
-> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-08-09_crude-oil-gains-amid-a-broader-rally-across-risk-asset-classes_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_1f0cce6ef112.png)
+> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-08-09_crude-oil-gains-amid-a-broader-rally-across-risk-asset-classes_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_1f0cce6ef112.png)
 
 ### Market Commentary
 
@@ -40,10 +40,10 @@ A risk-on tone across broader financial markets helped push commodity markets hi
 
 **Gold**snapped a five-day losing streak amid a broader rally across risk assets. Despite its haven status, the precious metal was caught up in Monday’s plunge across broader markets. A subsequent relief rally allowed gold to tag along.
 
-![Στιγμιότυπο Οθόνης 2024 08 09 103900](assets/2024-08-09_crude-oil-gains-amid-a-broader-rally-across-risk-asset-classes_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_3c02f5e7751b.png)
+![Στιγμιότυπο Οθόνης 2024 08 09 103900](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-08-09_crude-oil-gains-amid-a-broader-rally-across-risk-asset-classes_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_3c02f5e7751b.png)
 
 > **Figure 2: Στιγμιότυπο Οθόνης 2024 08 09 103900**  
-> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-08-09_crude-oil-gains-amid-a-broader-rally-across-risk-asset-classes_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_3c02f5e7751b.png)
+> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-08-09_crude-oil-gains-amid-a-broader-rally-across-risk-asset-classes_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_3c02f5e7751b.png)
 
 Data source:[Commodities Wrap](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI)
 

@@ -60,6 +60,26 @@ For these reasons, we think that the beat will go on, but the tempo will be a bi
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: And the Beat Goes On](../../../charts/poten/2005/poten_2005-03-25_and-the-beat-goes-on_chart1.png)
+> **Chart on PDF page 1: World Oil Consumption**  
+> Unit: Mm Bpd · X-axis: 2002 to 2005 Proj  
+> Series: World Oil Consumption  
+> *Source: IEA/Poten*  
+> *No image crop of this chart was saved; caption read from the PDF.*
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2005/poten_2005-03-25_and-the-beat-goes-on_chart1.png)
+> **Chart on PDF page 2: Year to Year Percentage Change in Oil Consumption**  
+> Unit: Percent · X-axis: 2002-2003 to 2004-2005 Proj  
+> Series: World, North America, OECD Europe, OECD Pacific, Other Asia, China  
+> *Source: IEA/Poten*  
+> *No image crop of this chart was saved; caption read from the PDF.*
+
+> **Chart on PDF page 3: Year to Year Percentage Change in Oil Supply**  
+> Unit: Percent · X-axis: 2002-2003 to 2004-2005 Proj  
+> Series: North America, Europe, Russia, Africa, China, OPEC  
+> *Source: IEA/Poten*  
+> *No image crop of this chart was saved; caption read from the PDF.*
+
+> **Chart on PDF page 3: OPEC AG Production**  
+> Unit: Mm Bpd · X-axis: Jan-02 to Jan-05  
+> Series: OPEC AG Production  
+> *Source: IEA/Poten*  
+> *No image crop of this chart was saved; caption read from the PDF.*

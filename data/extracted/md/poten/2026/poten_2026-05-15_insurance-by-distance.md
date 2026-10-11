@@ -30,10 +30,17 @@ In conclusion: diversification will not end the Middle East-Asia crude axis, but
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: Insurance By Distance](../../../charts/poten/2026/poten_2026-05-15_insurance-by-distance_chart1.png)
+![Exhibit 1: Japan Crude Oil Imports by Origin](../../../charts/poten/2026/poten_2026-05-15_insurance-by-distance_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2026/poten_2026-05-15_insurance-by-distance_chart1.png)
+> **Exhibit 1: Japan Crude Oil Imports by Origin**  
+> Unit: Kb/d · X-axis: Jan-17 to Jan-26  
+> Series: Saudi Arabia, United Arab Emirates, Kuwait, Qatar, Russia, Iran, United States, Oman, Other  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2026/poten_2026-05-15_insurance-by-distance_chart1.png)
 
-![Exhibit 2: Insurance By Distance](../../../charts/poten/2026/poten_2026-05-15_insurance-by-distance_chart2.png)
+![Exhibit 2: Middle East Gulf Crude Oil Exports by Destination](../../../charts/poten/2026/poten_2026-05-15_insurance-by-distance_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2026/poten_2026-05-15_insurance-by-distance_chart2.png)
+> **Exhibit 2: Middle East Gulf Crude Oil Exports by Destination**  
+> Unit: Kb/d · X-axis: Jan-17 to Jan-26  
+> Series: China, India, Japan, South Korea, United States, Singapore, Taiwan, Thailand, Other  
+> *Source: Vortexa*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2026/poten_2026-05-15_insurance-by-distance_chart2.png)

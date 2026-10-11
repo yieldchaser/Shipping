@@ -34,10 +34,10 @@ Nvidia crossed the threshold to become the world’s most valuable company. What
 
 As for bonds, are we simply liking a yield because it’s relatively high compared to the last 15 years, even if we know that it’s difficult to return to a low-yield world? In a world with so much debt, where governments might even welcome a spot of inflation, is a 4.5% yield for a mid-range bond still attractive, or is it the new norm?
 
-![Unsplash Image Eggfz5x2lna](assets/2024-06-26_three-questions-for-asset-allocators-politics-nvidia-and-bonds_img_unsplash-image-eggfz5x2lna_5c2db4a62546.jpg)
+![Unsplash Image Eggfz5x2lna](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-06-26_three-questions-for-asset-allocators-politics-nvidia-and-bonds_img_unsplash-image-eggfz5x2lna_5c2db4a62546.jpg)
 
 > **Figure 1: Unsplash Image Eggfz5x2lna**  
-> **Interactive Data & Source:** [Bloomberg News](https://www.bloomberg.com/graphics/2024-ai-data-centers-power-grids/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-06-26_three-questions-for-asset-allocators-politics-nvidia-and-bonds_img_unsplash-image-eggfz5x2lna_5c2db4a62546.jpg)
+> **Interactive Data & Source:** [Bloomberg News](https://www.bloomberg.com/graphics/2024-ai-data-centers-power-grids/) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-06-26_three-questions-for-asset-allocators-politics-nvidia-and-bonds_img_unsplash-image-eggfz5x2lna_5c2db4a62546.jpg)
 
 One of the oldest tricks in real estate is comparison. If a real estate agent has an apartment they really want to push, they will never show it outright. Instead, they will show a client - a couple of bad apartments before that. Exasperated from the rounds and disappointed, the client is more likely to agree to the apartment the agent wanted to promote in the first place.
 
@@ -51,19 +51,19 @@ In the last two weeks, a few interesting things happened.
 
 For one, in France, Mr Macron joined a long list of Western leaders who got significant market backlash as a result of a political gamble. Spreads with Germany are wider, French large caps are down 7% and billionaires are threatening to leave the country if a hard-left coalition gains power. It was not but a few years ago when Francois Hollande, Mr Macron’s former political boss caused another exodus of the ultra-high net worth.**In a world laden with debt, political wiggle room disappears as quickly as fiscal space. The more the potential for government giveaways is reduced, the more world leaders are incentivised to make riskier decisions, and the more uncertain the outcomes.**Is higher political risk priced in markets? Or better yet, are markets any good at understanding political risk, especially in historically stable countries, let alone properly price it? Investment experience shows that markets have a difficult time appreciating non-financial and non-linear risks, which means we need to assume that there are pockets of risk in global geopolitics, that may have gone under the radar.
 
-![Market Chart 2](assets/2024-06-26_three-questions-for-asset-allocators-politics-nvidia-and-bonds_img_image004_e3e2d1b856a6.png)
+![Market Chart 2](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-06-26_three-questions-for-asset-allocators-politics-nvidia-and-bonds_img_image004_e3e2d1b856a6.png)
 
 > **Figure 2: Market Chart 2**  
-> **Interactive Data & Source:** [Bloomberg News](https://www.bloomberg.com/graphics/2024-ai-data-centers-power-grids/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-06-26_three-questions-for-asset-allocators-politics-nvidia-and-bonds_img_image004_e3e2d1b856a6.png)
+> **Interactive Data & Source:** [Bloomberg News](https://www.bloomberg.com/graphics/2024-ai-data-centers-power-grids/) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-06-26_three-questions-for-asset-allocators-politics-nvidia-and-bonds_img_image004_e3e2d1b856a6.png)
 
 ### What Can Stop Nvidia?
 
 The second thing that happened was Nvidia crossing the threshold to become the world’s most valuable company. Is the former graphics card maker and Warcraft-lovers icon poised to take over the world? What can possibly break its ascendance and, subsequently, the ever-larger weight of tech in global and US equity indices?
 
-![Market Chart 3](assets/2024-06-26_three-questions-for-asset-allocators-politics-nvidia-and-bonds_img_image005_01f9fbf5ae2d.png)
+![Market Chart 3](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-06-26_three-questions-for-asset-allocators-politics-nvidia-and-bonds_img_image005_01f9fbf5ae2d.png)
 
 > **Figure 3: Market Chart 3**  
-> **Interactive Data & Source:** [Bloomberg News](https://www.bloomberg.com/graphics/2024-ai-data-centers-power-grids/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-06-26_three-questions-for-asset-allocators-politics-nvidia-and-bonds_img_image005_01f9fbf5ae2d.png)
+> **Interactive Data & Source:** [Bloomberg News](https://www.bloomberg.com/graphics/2024-ai-data-centers-power-grids/) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-06-26_three-questions-for-asset-allocators-politics-nvidia-and-bonds_img_image005_01f9fbf5ae2d.png)
 
 For one, the government. Unlike Apple and Microsoft, the company is a virtual monopoly in the high-end microchip space, the equivalent of Standard Oil and JP Morgan one hundred and twenty years ago. As such, one can’t help but wonder whether it will face the same fate, that of a government-mandated breakup. Mitigating that risk is Nvidia’s importance in the global race for AI. If a company is considered a strategic asset, a national champion of sorts, then breaking it up is risky.
 
@@ -79,10 +79,10 @@ Are they right?
 
 Is this a case of “the contrast effect” mentioned above? Are we simply liking a yield because it’s relatively high compared to the last 15 years, even if we know that it’s difficult to return to a low-yield world?
 
-![Market Chart 4](assets/2024-06-26_three-questions-for-asset-allocators-politics-nvidia-and-bonds_img_image006_27fdd5d5713d.png)
+![Market Chart 4](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-06-26_three-questions-for-asset-allocators-politics-nvidia-and-bonds_img_image006_27fdd5d5713d.png)
 
 > **Figure 4: Market Chart 4**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-06-26_three-questions-for-asset-allocators-politics-nvidia-and-bonds_img_image006_27fdd5d5713d.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-06-26_three-questions-for-asset-allocators-politics-nvidia-and-bonds_img_image006_27fdd5d5713d.png)
 
 Or are investors simply loading up on bonds in anticipation of rate cuts (which should reduce yields and improve prices, all other things being equal)?
 

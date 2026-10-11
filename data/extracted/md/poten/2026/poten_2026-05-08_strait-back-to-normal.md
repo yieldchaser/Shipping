@@ -32,10 +32,16 @@ Tanker markets will probably experience a two-stage move. First, spot rates and 
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: Strait Back To Normal](../../../charts/poten/2026/poten_2026-05-08_strait-back-to-normal_chart1.png)
+![Exhibit 1: Oil Tanker Ton-Mile Demand](../../../charts/poten/2026/poten_2026-05-08_strait-back-to-normal_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2026/poten_2026-05-08_strait-back-to-normal_chart1.png)
+> **Exhibit 1: Oil Tanker Ton-Mile Demand**  
+> Unit: Bln TM · X-axis: 6-Jan-20 to 5-Mar-26  
+> Series: Crude/Condensates, Clean Petroleum Products, Dirty Petroleum Products  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2026/poten_2026-05-08_strait-back-to-normal_chart1.png)
 
-![Exhibit 2: Strait Back To Normal](../../../charts/poten/2026/poten_2026-05-08_strait-back-to-normal_chart2.png)
+![Exhibit 2: Tanker Rates ($/MT)](../../../charts/poten/2026/poten_2026-05-08_strait-back-to-normal_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2026/poten_2026-05-08_strait-back-to-normal_chart2.png)
+> **Exhibit 2: Tanker Rates ($/MT)**  
+> Unit: $/MT · X-axis: 3-Jan-20 to 2-Mar-26  
+> Series: VLCC: USG-FE, Suezmax: WAF-UKC, Aframax: Car-USG  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2026/poten_2026-05-08_strait-back-to-normal_chart2.png)

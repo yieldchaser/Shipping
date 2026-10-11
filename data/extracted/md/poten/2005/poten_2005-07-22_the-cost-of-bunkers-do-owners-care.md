@@ -68,6 +68,25 @@ The record proportion of the bunker cost to the freight revenue was 100%, which 
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: The Cost of Bunkers, Do Owners Care?](../../../charts/poten/2005/poten_2005-07-22_the-cost-of-bunkers-do-owners-care_chart1.png)
+> **Chart on PDF page 1: WS Rate for VLCCs Trading AG/East**  
+> Unit: WS Rate · X-axis: Jan-00 to Jan-05  
+> Series: Poten & Partners  
+> *No image crop of this chart was saved; caption read from the PDF.*
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2005/poten_2005-07-22_the-cost-of-bunkers-do-owners-care_chart1.png)
+> **Chart on PDF page 2: Freight Revenue for VLCC Cargo AG East**  
+> Unit: $000 · X-axis: Jan-00 to Jan-05  
+> Series: Bunker Cost, Freight Revenue Net of Bunkers  
+> *Source: Poten & Partners*  
+> *No image crop of this chart was saved; caption read from the PDF.*
+
+> **Chart on PDF page 2: Portion of Freight Revenue to Pay for Bunkers**  
+> Unit: % · X-axis: Jan-00 to Jan-05  
+> Series: Portion of Freight Revenue to Pay for Bunkers  
+> *Source: Poten & Partners*  
+> *No image crop of this chart was saved; caption read from the PDF.*
+
+> **Chart on PDF page 3: $/Day TCE for VLCC Owner Trading AG/East**  
+> Unit: $/Day · X-axis: Jan-00 to Jan-05  
+> Series: $/Day TCE for VLCC Owner Trading AG/East  
+> *Source: Poten & Partners*  
+> *No image crop of this chart was saved; caption read from the PDF.*

@@ -64,6 +64,14 @@ Worldwide economic growth over the recent past was considered the driving engine
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: Index, Index on the Wall, What Will Decide a Rise or Fall?](../../../charts/poten/2004/poten_2004-05-07_index-index-on-the-wall-what-will-decide-a-rise-or-fall_chart1.png)
+> **Chart on PDF page 2: Poten Tanker Index Vs. Lazard Freres Index**  
+> Unit: Index Value · X-axis: 1/5/1996 to 5/16/2003  
+> Series: Poten Tanker Index, Lazard Stock Index  
+> *Source: Poten & Partners*  
+> *No image crop of this chart was saved; caption read from the PDF.*
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2004/poten_2004-05-07_index-index-on-the-wall-what-will-decide-a-rise-or-fall_chart1.png)
+> **Chart on PDF page 3: Poten Tanker Index Vs. Lazard Freres Index**  
+> Unit: Index Value · X-axis: 9/5/2003 to 4/16/2004  
+> Series: Poten Tanker Index, Lazard Stock Index  
+> *Source: Poten & Partners*  
+> *No image crop of this chart was saved; caption read from the PDF.*

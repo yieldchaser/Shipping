@@ -66,10 +66,10 @@ Tonnage supply has been trending higher in the Atlantic and Pacific basins over 
 
 While demand in the Atlantic has provided some respite for the panamaxes over the past week, the segment will likely continue to face headwinds amid seasonal weakness that, under normal circumstances, will last until the end of the month. In addition, the supply situation looks set to contribute to additional weakness.
 
-![241](assets/2024-06-12_dry-bulk-seasonal-weakness_img_241_125fbde5c01c.png)
+![241](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-06-12_dry-bulk-seasonal-weakness_img_241_125fbde5c01c.png)
 
 > **Figure 1: 241**  
-> **Interactive Data & Source:** [Shipfix](https://shipfix.com/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-06-12_dry-bulk-seasonal-weakness_img_241_125fbde5c01c.png)
+> **Interactive Data & Source:** [Shipfix](https://shipfix.com/) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-06-12_dry-bulk-seasonal-weakness_img_241_125fbde5c01c.png)
 
 Data Source:[Shipfix](https://shipfix.com/)
 

@@ -36,6 +36,10 @@ The benefits of fuel efficient designs might have been reduced for now but the i
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: Fuel Efficiency Saves The Day Rate](../../../charts/poten/2014/poten_2014-11-26_fuel-efficiency-saves-the-day-rate_chart1.png)
+![Exhibit 1: Bunker Prices in Fujairah 2004-2014](../../../charts/poten/2014/poten_2014-11-26_fuel-efficiency-saves-the-day-rate_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2014/poten_2014-11-26_fuel-efficiency-saves-the-day-rate_chart1.png)
+> **Exhibit 1: Bunker Prices in Fujairah 2004-2014**  
+> Unit: $/MT · X-axis: Jan-04 to Jan-14  
+> Series: Bunker Prices  
+> *Source: LQM*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2014/poten_2014-11-26_fuel-efficiency-saves-the-day-rate_chart1.png)

@@ -26,10 +26,10 @@ As we discussed in Commodore Research's most recent Weekly Executive Report, The
 
 The USDA forecasts that global coarse grain exports in 2026/27 will total 249 million tons. This would mark a year-on-year decrease of 15.4 million tons (-6%) from the 2025/26 season. Coarse grain exports will remain the global grain market’s largest cargo by volume. Moderate year-on-year declines in coarse grain exports are expected from the United States and Argentina. Small year-on-year increases in coarse grain exports are expected from Brazil and Ukraine.
 
-![Chart](assets/2026-06-18_less-grain-exports-expected-next-season_img_chart_f1983a69a6f4.jpg)
+![Chart](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-06-18_less-grain-exports-expected-next-season_img_chart_f1983a69a6f4.jpg)
 
 > **Figure 1: Chart**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-06-18_less-grain-exports-expected-next-season_img_chart_f1983a69a6f4.jpg)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-06-18_less-grain-exports-expected-next-season_img_chart_f1983a69a6f4.jpg)
 
 ---
 

@@ -22,10 +22,10 @@ source_file: "corpus/03-breakwave/insights/2026/2026-02-24_vlccs-entering-the-si
 
 Sinokor has positioned itself as the single largest VLCC commercial operator - a scale that materially alters the competitive structure of the segment.
 
-![Στιγμιότυπο Οθόνης 2026 02 24 111656](assets/2026-02-24_vlccs-entering-the-sinokor-era_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_b6866cc820ea.png)
+![Στιγμιότυπο Οθόνης 2026 02 24 111656](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-02-24_vlccs-entering-the-sinokor-era_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_b6866cc820ea.png)
 
 > **Figure 1: Στιγμιότυπο Οθόνης 2026 02 24 111656**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-02-24_vlccs-entering-the-sinokor-era_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_b6866cc820ea.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-02-24_vlccs-entering-the-sinokor-era_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_b6866cc820ea.png)
 
 ### Executive Overview
 
@@ -35,10 +35,10 @@ Within this evolving environment, Sinokor Merchant Marine has expanded its VLCC 
 
 Data derived from the Signal Ocean Platform (TSOP) were used to evaluate the impact of Sinokor's expansion on the VLCC market. The analysis examines fleet size, market share, and age distribution in order to provide a comprehensive and data-driven assessment of how Sinokor's positioning alters the competitive landscape.
 
-![Market Chart 2](assets/2026-02-24_vlccs-entering-the-sinokor-era_img_unnamed_76f71cf61dc3.png)
+![Market Chart 2](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-02-24_vlccs-entering-the-sinokor-era_img_unnamed_76f71cf61dc3.png)
 
 > **Figure 2: Market Chart 2**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-02-24_vlccs-entering-the-sinokor-era_img_unnamed_76f71cf61dc3.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-02-24_vlccs-entering-the-sinokor-era_img_unnamed_76f71cf61dc3.png)
 
 ## Sinokor's Strategic Expansion
 
@@ -48,10 +48,10 @@ By January, greater clarity began to emerge, with Sinokor identified as the prin
 
 The aggressive expansion is noteworthy, as the decision coincides with an upward trend in benchmark valuation assessments. The valuation for a 10-year-old VLCC has experienced a 24% annual increase, reaching its highest value in the last decade.
 
-![Market Chart 3](assets/2026-02-24_vlccs-entering-the-sinokor-era_img_unnamed28129_5c5dcff084fc.png)
+![Market Chart 3](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-02-24_vlccs-entering-the-sinokor-era_img_unnamed28129_5c5dcff084fc.png)
 
 > **Figure 3: Market Chart 3**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-02-24_vlccs-entering-the-sinokor-era_img_unnamed28129_5c5dcff084fc.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-02-24_vlccs-entering-the-sinokor-era_img_unnamed28129_5c5dcff084fc.png)
 
 ## Mapping the New VLCC Commercial Order
 
@@ -65,10 +65,10 @@ Historically, Tankers International dominated the segment through the end of 202
 
 Following the dissolution of that partnership in January 2026, Sinokor consolidated its position independently. With its confirmed acquisitions, Sinokor now stands as the largest single commercial operator observed in the modern VLCC market, controlling approximately 12% of the global fleet under one commercial platform, a scale that materially alters the competitive structure of the segment.
 
-![Market Chart 4](assets/2026-02-24_vlccs-entering-the-sinokor-era_img_unnamed28229_946e0e47bc02.png)
+![Market Chart 4](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-02-24_vlccs-entering-the-sinokor-era_img_unnamed28229_946e0e47bc02.png)
 
 > **Figure 4: Market Chart 4**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-02-24_vlccs-entering-the-sinokor-era_img_unnamed28229_946e0e47bc02.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-02-24_vlccs-entering-the-sinokor-era_img_unnamed28229_946e0e47bc02.png)
 
 ## Unprecedented Concentration in the VLCC Spot Market
 
@@ -80,10 +80,10 @@ A significant shift emerged in 2025, when Lucky Maritime became the first commer
 
 This development marks a fundamental change in the competitive dynamics of the VLCC spot segment, elevating Sinokor to a scale never previously observed for a single commercial operator.
 
-![Market Chart 5](assets/2026-02-24_vlccs-entering-the-sinokor-era_img_unnamed28329_12c9fd86e1bb.png)
+![Market Chart 5](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-02-24_vlccs-entering-the-sinokor-era_img_unnamed28329_12c9fd86e1bb.png)
 
 > **Figure 5: Market Chart 5**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-02-24_vlccs-entering-the-sinokor-era_img_unnamed28329_12c9fd86e1bb.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-02-24_vlccs-entering-the-sinokor-era_img_unnamed28329_12c9fd86e1bb.png)
 
 ## Sinokor Fleet Age Profile vs. Major VLCC Operators
 
@@ -91,10 +91,10 @@ A notable feature of Sinokor's recent acquisitions is the age profile of the ves
 
 TSOP data show that Sinokor's fleet has an average age of 12.6 years, with roughly 70% of its vessels older than 10 years. While this average is close to the overall VLCC fleet average of 13.2 years, the composition differs. Sinokor's fleet is more concentrated in mid- to older-aged vessels, indicating greater exposure to ships in the later stages of their trading life.
 
-![Market Chart 6](assets/2026-02-24_vlccs-entering-the-sinokor-era_img_unnamed28429_4bf90377c28c.png)
+![Market Chart 6](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-02-24_vlccs-entering-the-sinokor-era_img_unnamed28429_4bf90377c28c.png)
 
 > **Figure 6: Market Chart 6**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-02-24_vlccs-entering-the-sinokor-era_img_unnamed28429_4bf90377c28c.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-02-24_vlccs-entering-the-sinokor-era_img_unnamed28429_4bf90377c28c.png)
 
 ### Key Takeaway
 

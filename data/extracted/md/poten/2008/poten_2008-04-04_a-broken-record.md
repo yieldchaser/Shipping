@@ -74,10 +74,6 @@ In order to quickly reduce gasoline prices, one would need to either increase cr
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: A Broken Record](../../../charts/poten/2008/poten_2008-04-04_a-broken-record_chart1.png)
-
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2008/poten_2008-04-04_a-broken-record_chart1.png)
-
 ![Exhibit 2: A Broken Record](../../../charts/poten/2008/poten_2008-04-04_a-broken-record_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2008/poten_2008-04-04_a-broken-record_chart2.png)
+> **Interactive Asset:** [Local Asset (200 DPI PNG)](../../../charts/poten/2008/poten_2008-04-04_a-broken-record_chart2.png)

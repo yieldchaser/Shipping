@@ -44,10 +44,10 @@ So to make the point, the “when” becomes vaguely “near”. Cults, soothsay
 
 Is the dollar in decline? Well, it is currently being debased for economic reasons. But that doesn’t mean it will sink immediately, or that it will be replaced tomorrow. In fact, for the last couple of months, it has been rebounding.
 
-![Market Chart 1](assets/2025-10-14_how-dependent-are-we-on-politics-and-sam-altman_img_image006_9967def86d5d.jpg)
+![Market Chart 1](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-10-14_how-dependent-are-we-on-politics-and-sam-altman_img_image006_9967def86d5d.jpg)
 
 > **Figure 1: Market Chart 1**  
-> **Interactive Data & Source:** [Bloomberg News](https://www.bloomberg.com/news/articles/2025-10-06/openai-signs-amd-chips-deal-worth-tens-of-billions-of-dollars?utm_source=website&utm_medium=share&utm_campaign=linkedin?sref&sref=EiJDOcNb) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-10-14_how-dependent-are-we-on-politics-and-sam-altman_img_image006_9967def86d5d.jpg)
+> **Interactive Data & Source:** [Bloomberg News](https://www.bloomberg.com/news/articles/2025-10-06/openai-signs-amd-chips-deal-worth-tens-of-billions-of-dollars?utm_source=website&utm_medium=share&utm_campaign=linkedin?sref&sref=EiJDOcNb) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-10-14_how-dependent-are-we-on-politics-and-sam-altman_img_image006_9967def86d5d.jpg)
 
 Until the Renminbi or some other currency steps up, it’s difficult to predict its demise.
 
@@ -57,31 +57,31 @@ The week held some other useful reminders for investors and businesses.
 
 **b**.and therefore not a gold-like substitute in a potential post-Dollar world. In case it was missed, when President Trump threatened, stocks lost around c. 1.6%, and Bitcoin lost 11% overnight (rebounded by about a third on Monday morning). Bonds and gold, on the other hand, did what they are supposed to do, held and rose.
 
-![Crypto Is Not a Safe Asset,](assets/2025-10-14_how-dependent-are-we-on-politics-and-sam-altman_img_image007_c26e728cd326.jpg)
+![Crypto Is Not a Safe Asset,](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-10-14_how-dependent-are-we-on-politics-and-sam-altman_img_image007_c26e728cd326.jpg)
 
 > **Figure 2: Crypto Is Not a Safe Asset,**  
-> **Interactive Data & Source:** [Bloomberg News](https://www.bloomberg.com/news/articles/2025-10-06/openai-signs-amd-chips-deal-worth-tens-of-billions-of-dollars?utm_source=website&utm_medium=share&utm_campaign=linkedin?sref&sref=EiJDOcNb) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-10-14_how-dependent-are-we-on-politics-and-sam-altman_img_image007_c26e728cd326.jpg)
+> **Interactive Data & Source:** [Bloomberg News](https://www.bloomberg.com/news/articles/2025-10-06/openai-signs-amd-chips-deal-worth-tens-of-billions-of-dollars?utm_source=website&utm_medium=share&utm_campaign=linkedin?sref&sref=EiJDOcNb) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-10-14_how-dependent-are-we-on-politics-and-sam-altman_img_image007_c26e728cd326.jpg)
 
 . Sam Altman, Open AI’s holds the three-year bull market at the palm of his hand. And when all is said and done, this is now the biggest issue in the market. OpenAI’s capitalisation is an estimated $500bn. The company, which is a recipient of hardware, is investing c. $1tn in data centres and microchips. Open AI now influences both the financial economy…
 
-![C. Openai Is Crucial for the Future of the Rally](assets/2025-10-14_how-dependent-are-we-on-politics-and-sam-altman_img_image008_85e9bc8830e2.jpg)
+![C. Openai Is Crucial for the Future of the Rally](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-10-14_how-dependent-are-we-on-politics-and-sam-altman_img_image008_85e9bc8830e2.jpg)
 
 > **Figure 3: C. Openai Is Crucial for the Future of the Rally**  
-> **Interactive Data & Source:** [Bloomberg News](https://www.bloomberg.com/news/articles/2025-10-06/openai-signs-amd-chips-deal-worth-tens-of-billions-of-dollars?utm_source=website&utm_medium=share&utm_campaign=linkedin?sref&sref=EiJDOcNb) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-10-14_how-dependent-are-we-on-politics-and-sam-altman_img_image008_85e9bc8830e2.jpg)
+> **Interactive Data & Source:** [Bloomberg News](https://www.bloomberg.com/news/articles/2025-10-06/openai-signs-amd-chips-deal-worth-tens-of-billions-of-dollars?utm_source=website&utm_medium=share&utm_campaign=linkedin?sref&sref=EiJDOcNb) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-10-14_how-dependent-are-we-on-politics-and-sam-altman_img_image008_85e9bc8830e2.jpg)
 
 and the real economy, where Professor Furman from Harvard suggests that US economic growth would be near-zero without technological capital expenditure.
 
-![Market Chart 4](assets/2025-10-14_how-dependent-are-we-on-politics-and-sam-altman_img_image009_7ea07b3b2ccb.jpg)
+![Market Chart 4](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-10-14_how-dependent-are-we-on-politics-and-sam-altman_img_image009_7ea07b3b2ccb.jpg)
 
 > **Figure 4: Market Chart 4**  
-> **Interactive Data & Source:** [Bloomberg News](https://www.bloomberg.com/news/articles/2025-10-06/openai-signs-amd-chips-deal-worth-tens-of-billions-of-dollars?utm_source=website&utm_medium=share&utm_campaign=linkedin?sref&sref=EiJDOcNb) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-10-14_how-dependent-are-we-on-politics-and-sam-altman_img_image009_7ea07b3b2ccb.jpg)
+> **Interactive Data & Source:** [Bloomberg News](https://www.bloomberg.com/news/articles/2025-10-06/openai-signs-amd-chips-deal-worth-tens-of-billions-of-dollars?utm_source=website&utm_medium=share&utm_campaign=linkedin?sref&sref=EiJDOcNb) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-10-14_how-dependent-are-we-on-politics-and-sam-altman_img_image009_7ea07b3b2ccb.jpg)
 
 Now, Bloomberg, and other organisations have identified many of these deals as “circular”, which means that they remain between a closed circuit of companies, driving each other’s valuation higher.
 
-![Market Chart 5](assets/2025-10-14_how-dependent-are-we-on-politics-and-sam-altman_img_image010_6f94d2807ea4.jpg)
+![Market Chart 5](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-10-14_how-dependent-are-we-on-politics-and-sam-altman_img_image010_6f94d2807ea4.jpg)
 
 > **Figure 5: Market Chart 5**  
-> **Interactive Data & Source:** [Bloomberg News](https://www.bloomberg.com/news/articles/2025-10-06/openai-signs-amd-chips-deal-worth-tens-of-billions-of-dollars?utm_source=website&utm_medium=share&utm_campaign=linkedin?sref&sref=EiJDOcNb) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-10-14_how-dependent-are-we-on-politics-and-sam-altman_img_image010_6f94d2807ea4.jpg)
+> **Interactive Data & Source:** [Bloomberg News](https://www.bloomberg.com/news/articles/2025-10-06/openai-signs-amd-chips-deal-worth-tens-of-billions-of-dollars?utm_source=website&utm_medium=share&utm_campaign=linkedin?sref&sref=EiJDOcNb) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-10-14_how-dependent-are-we-on-politics-and-sam-altman_img_image010_6f94d2807ea4.jpg)
 
 Valuations are high, the rally is extended, and the speed at which equities and risk assets were rebought after Friday’s fall suggests there’s a lot of appetite and cash to buy the equity dips. With the Fed now in rate-cutting mode, it’s difficult to see which event (barring a black swan) could derail markets.
 

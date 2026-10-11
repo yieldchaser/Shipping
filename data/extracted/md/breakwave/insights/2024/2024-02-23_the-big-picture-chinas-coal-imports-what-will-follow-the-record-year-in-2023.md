@@ -32,10 +32,10 @@ Firstly,**snow**in southern and central regions prompted five generating compani
 
 Secondly, media reports this week suggested China’s government will intensify its**mine safety campaign**in three leading coal producing provinces, ahead of the National People’s Congress meeting in March.
 
-![241](assets/2024-02-23_the-big-picture-chinas-coal-imports-what-will-follow-the-record-year-in-2023_img_241_af30364a4af8.png)
+![241](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-02-23_the-big-picture-chinas-coal-imports-what-will-follow-the-record-year-in-2023_img_241_af30364a4af8.png)
 
 > **Figure 1: 241**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-02-23_the-big-picture-chinas-coal-imports-what-will-follow-the-record-year-in-2023_img_241_af30364a4af8.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-02-23_the-big-picture-chinas-coal-imports-what-will-follow-the-record-year-in-2023_img_241_af30364a4af8.png)
 
 McCloskey comments that**Shanxi has been the first province**to issue an official statement, outlining a review of “rampant” overproduction at the province’s mines.
 
@@ -59,10 +59,10 @@ Figures provided by AXS show a grand total of 29.2m tonnes arriving in January 2
 
 Of course, these figures exclude the sizeable overland component of mainly coking coal from Mongolia, as well as the railed share from Russia.
 
-![242](assets/2024-02-23_the-big-picture-chinas-coal-imports-what-will-follow-the-record-year-in-2023_img_242_c5a80cd774f8.png)
+![242](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-02-23_the-big-picture-chinas-coal-imports-what-will-follow-the-record-year-in-2023_img_242_c5a80cd774f8.png)
 
 > **Figure 2: 242**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-02-23_the-big-picture-chinas-coal-imports-what-will-follow-the-record-year-in-2023_img_242_c5a80cd774f8.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-02-23_the-big-picture-chinas-coal-imports-what-will-follow-the-record-year-in-2023_img_242_c5a80cd774f8.png)
 
 One of the few sources of Chinese imports to see any kind of monthly increase in January was Colombia, with inbound volumes rising to 0.8m tonnes, one of the highest such months recorded in the shipment data.
 
@@ -70,10 +70,10 @@ However,**to see a repeat**of last year’s extraordinary record in 2024 would r
 
 For that to happen would require an alignment of drivers, influenced by weather conditions, economic and industrial performance, competition from other fuel types, as well as domestic coal production.
 
-![243](assets/2024-02-23_the-big-picture-chinas-coal-imports-what-will-follow-the-record-year-in-2023_img_243_b95c33e7974f.png)
+![243](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-02-23_the-big-picture-chinas-coal-imports-what-will-follow-the-record-year-in-2023_img_243_b95c33e7974f.png)
 
 > **Figure 3: 243**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-02-23_the-big-picture-chinas-coal-imports-what-will-follow-the-record-year-in-2023_img_243_b95c33e7974f.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-02-23_the-big-picture-chinas-coal-imports-what-will-follow-the-record-year-in-2023_img_243_b95c33e7974f.png)
 
 ---
 

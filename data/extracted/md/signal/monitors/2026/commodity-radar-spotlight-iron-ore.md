@@ -36,11 +36,11 @@ A 3% increase in global iron ore flows masks weak downstream demand
 - Outlook to 2026, weak domestic steel demand and already high port stocks in China will impact demand, but India’s steel expansions offer upside, albeit limited.
 
 
-![Source: Iron Ore-Driven Tonne-Miles From Signal Ocean](../../images/6971e700bc5ae9b997bab2c7_4d97d336.png)
+![Source: Iron Ore-Driven Tonne-Miles From Signal Ocean](../../../../../../corpus/07-signal/images/6971e700bc5ae9b997bab2c7_4d97d336.png)
 
 > **Figure 1: Source: Iron Ore-Driven Tonne-Miles From Signal Ocean**  
 > *Source: Iron ore-driven tonne-miles from Signal Ocean*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/commodity-radar-spotlight-iron-ore) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6971e700bc5ae9b997bab2c7_4d97d336.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/commodity-radar-spotlight-iron-ore) | [Local Asset](../../../../../../corpus/07-signal/images/6971e700bc5ae9b997bab2c7_4d97d336.png)
 
 Global iron ore flows reached 1.7bt in 2025, 3% higher than in 2024. The growth was driven by strong growth in flows to China and extremely strong growth in flows to India. China saw an increase in iron ore flows of 3%, resulting in an extra 52mt of iron ore flowing to China. Iron ore flows into India surged by 72%, yet the absolute growth figure is just shy of 6mt.
 
@@ -49,11 +49,11 @@ The origin of iron ore was dominated unsurprisingly by Australia and Brazil, wit
 These flow figures would indicate a well-performing global steel sector, one that is seeing production increases in line with the improved flow figures. This is not the case, however. The WSA has member crude steel production for the first eleven months of 2025 down by 2%, with very few pockets of growth. Both China and Japan, the top two receivers of the most iron ore flows on TSOP, saw steel production decline by 4%.
 
 
-![Source: Global Iron Ore Exports From Signal Ocean](../../images/6971e700bc5ae9b997bab2c1_a312ff21.png)
+![Source: Global Iron Ore Exports From Signal Ocean](../../../../../../corpus/07-signal/images/6971e700bc5ae9b997bab2c1_a312ff21.png)
 
 > **Figure 2: Source: Global Iron Ore Exports From Signal Ocean**  
 > *Source: Global iron ore exports from Signal Ocean*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/commodity-radar-spotlight-iron-ore) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6971e700bc5ae9b997bab2c1_a312ff21.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/commodity-radar-spotlight-iron-ore) | [Local Asset](../../../../../../corpus/07-signal/images/6971e700bc5ae9b997bab2c1_a312ff21.png)
 
 China’s steel production decline and increased imports of iron ore have led to a surge in iron ore stock levels in the country. Now, stock builds before the CNY period are not unusual but this time around, stocks have consistently building from the summer. Adding to this, downstream demand for steel has underperformed, leading to pressure on steel mills, which have cut back, and iron ore port stocks are now sitting at multi-year highs. The outlook for 2026 is that steel production in China will continue to decline, as the government looks control the over-capacity within the industry and trade barriers impact both the demand and supply side.
 
@@ -64,11 +64,11 @@ Yet, given that China consumes over 75% of the seaborne iron flows on TSOP, the 
 The opening and ramping up of the Simandou project in Guinea does offer a positive upside for 2026. The project will export 120mt of iron ore once at full capacity, but this isn't expected until late 2028 and is dependent on all systems and blocks being fully utilised. Rio Tinto has reported they expect the project to take 30months to reach 60mt of output, 50% of the total operational capacity.  Despite this, the Guinea to China route is over double the nautical miles that iron ore from Australia travels to China. Meaning that if demand falls for iron ore, but the source of this iron ore shifts to Guinea, freight rates will be supported.
 
 
-![Source: Crude Steel Production From the World Steel Association](../../images/6971e700bc5ae9b997bab2c4_b940d3c1.png)
+![Source: Crude Steel Production From the World Steel Association](../../../../../../corpus/07-signal/images/6971e700bc5ae9b997bab2c4_b940d3c1.png)
 
 > **Figure 3: Source: Crude Steel Production From the World Steel Association**  
 > *Source: Crude steel production from the World Steel Association*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/commodity-radar-spotlight-iron-ore) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6971e700bc5ae9b997bab2c4_b940d3c1.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/commodity-radar-spotlight-iron-ore) | [Local Asset](../../../../../../corpus/07-signal/images/6971e700bc5ae9b997bab2c4_b940d3c1.png)
 
 
 ## Shifting Trade Will Change Capesize Outlook

@@ -24,10 +24,10 @@ Commodity markets pushed lower as a stronger USD weighed on investor appetite. E
 
 *By*[*Daniel Hynes*](https://www.linkedin.com/in/dahynes/)
 
-![Στιγμιότυπο Οθόνης 2025 09 05 111925](assets/2025-09-05_oil-falls-amid-concerns-of-higher-opec-supply_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_448bcdb28cb0.png)
+![Στιγμιότυπο Οθόνης 2025 09 05 111925](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-09-05_oil-falls-amid-concerns-of-higher-opec-supply_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_448bcdb28cb0.png)
 
 > **Figure 1: Στιγμιότυπο Οθόνης 2025 09 05 111925**  
-> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-09-05_oil-falls-amid-concerns-of-higher-opec-supply_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_448bcdb28cb0.png)
+> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-09-05_oil-falls-amid-concerns-of-higher-opec-supply_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_448bcdb28cb0.png)
 
 ### Market Commentary
 
@@ -45,10 +45,10 @@ Commodity markets pushed lower as a stronger USD weighed on investor appetite. E
 
 US crude oil inventories are rebuilding earlier than in previous years following the driving season, suggesting demand is not as strong as originally suspected. This may see OPEC hold back from rising output further on October.
 
-![Στιγμιότυπο Οθόνης 2025 09 05 112020](assets/2025-09-05_oil-falls-amid-concerns-of-higher-opec-supply_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_82b2c4f2b36a.png)
+![Στιγμιότυπο Οθόνης 2025 09 05 112020](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-09-05_oil-falls-amid-concerns-of-higher-opec-supply_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_82b2c4f2b36a.png)
 
 > **Figure 2: Στιγμιότυπο Οθόνης 2025 09 05 112020**  
-> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-09-05_oil-falls-amid-concerns-of-higher-opec-supply_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_82b2c4f2b36a.png)
+> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-09-05_oil-falls-amid-concerns-of-higher-opec-supply_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_82b2c4f2b36a.png)
 
 Data source:[Commodities Wrap](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI)
 

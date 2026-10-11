@@ -45,38 +45,38 @@ Reflecting on the past year we have taken some indicative examples for the perfo
 In the **Capesize** segment, rates from **Brazil** to **North China** peaked at over $30/t at the beginning of December. However, this increase was short-lived. At the beginning of the new year, rates no longer exceeded the 25 $/t mark. At the same time, prices for WAust to China stagnated at around 10 $/tonne. For 2023 as a whole, the recovery phase was most pronounced at the beginning of December, although the highs of early October 2021 were no longer reached. (**Image 1**)
 
 
-![Image 1: Market Prices, Capesize, Signal Assessments 2022-2023](../../images/66b51c0d40312fcb08b05c30_659e67a1b78c57b22c7c3bfd_cape%20freight.avif)
+![Image 1: Market Prices, Capesize, Signal Assessments 2022-2023](../../images/66b51c0d40312fcb08b05c30_659e67a1b78c57b22c7c3bfd_cape%2520freight.avif)
 
 > **Figure 1: Image 1: Market Prices, Capesize, Signal Assessments 2022-2023**  
 > *Image 1: Market Prices, Capesize, Signal Assessments 2022-2023*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/dry-bulk-annual-review-2023) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/66b51c0d40312fcb08b05c30_659e67a1b78c57b22c7c3bfd_cape%20freight.avif)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/dry-bulk-annual-review-2023) | [Local Asset](../../../../../../corpus/07-signal/images/66b51c0d40312fcb08b05c30_659e67a1b78c57b22c7c3bfd_cape%2520freight.avif)
 
 In the **Panamax** segment, rates also peaked for the **Continent**/**TA RV** route in early December at levels of $29/tonne, when last December were not surpassing $23/tonne, while there was a downward correction ending the year returning to a similar level seen from mid-October to early November at below the $25/tonne mark. In the FarEast/RV, we can see a softer momentum at rates not exceeding the $20/tonne mark. The last peak of the market for the FarEast/RV was recorded in March 2022, where market prices exceeded $30/tonne mid-month. In recent days it seems that the sentiment will sustain the levels of the ending year at below $20/tonne. (**Image** 2)
 
 
-![Image 2: Market Prices, Panamax, Signal Assessments 2022-2023](../../images/66b51c0e40312fcb08b05c90_659e67eadb7eae05e319eb51_pmx%20freight.avif)
+![Image 2: Market Prices, Panamax, Signal Assessments 2022-2023](../../images/66b51c0e40312fcb08b05c90_659e67eadb7eae05e319eb51_pmx%2520freight.avif)
 
 > **Figure 2: Image 2: Market Prices, Panamax, Signal Assessments 2022-2023**  
 > *Image 2: Market Prices, Panamax, Signal Assessments 2022-2023*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/dry-bulk-annual-review-2023) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/66b51c0e40312fcb08b05c90_659e67eadb7eae05e319eb51_pmx%20freight.avif)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/dry-bulk-annual-review-2023) | [Local Asset](../../../../../../corpus/07-signal/images/66b51c0e40312fcb08b05c90_659e67eadb7eae05e319eb51_pmx%2520freight.avif)
 
 In the **Supramax** segment, it is interesting to look at the development of rates in the **USG**/**Continent** and **Mediterranean** Black Sea/**Far East** trades, where a notable peak was recorded at the beginning of December compared to the weaker environment of the previous months. In the USG/Continent route, market prices peaked at $32/tonne at the end of the first ten days of December, while in contrast to the larger vessel categories, where the recovery did not continue, rates maintained the momentum of almost below $30/tonne, with an increase of around 20% from the level of early January a year ago. (**Image 3**) In the **Mediterranean** Black Sea/**Far East** trade, rates rose from lows of $27/tonne in early August to $40/tonne, with momentum continuing at the beginning of the year. It remains to be seen whether the first quarter will maintain the strength of these days, as rates started similarly firm in January last year, only to fall in the following days in February and March.
 
 
-![Image 3: Market Prices, Supramax, Signal Assessments 2022-2023](../../images/66b51c0d40312fcb08b05c41_659e682ca46dd5a0cafa4ca0_supra%20freight.avif)
+![Image 3: Market Prices, Supramax, Signal Assessments 2022-2023](../../images/66b51c0d40312fcb08b05c41_659e682ca46dd5a0cafa4ca0_supra%2520freight.avif)
 
 > **Figure 3: Image 3: Market Prices, Supramax, Signal Assessments 2022-2023**  
 > *Image 3: Market Prices, Supramax, Signal Assessments 2022-2023*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/dry-bulk-annual-review-2023) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/66b51c0d40312fcb08b05c41_659e682ca46dd5a0cafa4ca0_supra%20freight.avif)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/dry-bulk-annual-review-2023) | [Local Asset](../../../../../../corpus/07-signal/images/66b51c0d40312fcb08b05c41_659e682ca46dd5a0cafa4ca0_supra%2520freight.avif)
 
 In the Handysize segment, **USG-USAC**/**Cont** route, an outstanding trend reversal was observed, with prices firming to over $30/tonne and holding in this range since early December, whereas in July they could not even reach $20/tonne. (**Image 4**) In the Brazilian market, there was a rise to $50/tonne for Brazil/Continent route, from the beginning of December to the end of the month, although prices now appear to be fluctuating below this trend, but are still significantly higher than in the summer season, when prices in July and August did not exceed $40/tonne.
 
 
-![Image 4: Market Prices, Handysize, Signal Assessments 2022-2023](../../images/66b51c0d40312fcb08b05c3a_659e685f5161b17855c93f3d_handy%20freight.avif)
+![Image 4: Market Prices, Handysize, Signal Assessments 2022-2023](../../images/66b51c0d40312fcb08b05c3a_659e685f5161b17855c93f3d_handy%2520freight.avif)
 
 > **Figure 4: Image 4: Market Prices, Handysize, Signal Assessments 2022-2023**  
 > *Image 4: Market Prices, Handysize, Signal Assessments 2022-2023*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/dry-bulk-annual-review-2023) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/66b51c0d40312fcb08b05c3a_659e685f5161b17855c93f3d_handy%20freight.avif)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/dry-bulk-annual-review-2023) | [Local Asset](../../../../../../corpus/07-signal/images/66b51c0d40312fcb08b05c3a_659e685f5161b17855c93f3d_handy%2520freight.avif)
 
 In addition to the aforementioned rate recovery, it's essential to examine the prominent trends observed in dry bulk flows of major commodities from primary exporters to China. These trends are poised to have a substantial impact on the future trajectory of market prices.
 
@@ -89,11 +89,11 @@ In addition to the aforementioned rate recovery, it's essential to examine the p
 In 2023, despite the challenges in the Chinese economy, there was a notable increase in iron ore exports from Brazil to China, facilitated by VLOC and Capesize vessels. In the first quarter, there was a decline in Brazilian iron ore exports. However, there was a significant upturn at the end of the third quarter. An annual increase of 13% was recorded in August, followed by an increase of 11% in September. The peak of this unexpected growth was reached in December, when Brazilian iron ore exports to China reached their highest monthly volume since the beginning of 2022. In December, exports reached a peak of 30 million tonnes, representing a remarkable increase of 30% in the month and 24% compared to the December figures of the previous year. (**Image 5**)
 
 
-![Image 5: Dry Bulk Flows, Iron Ore, VLOC-Capesize, Brazil to China, 2022-2023](../../images/66b51c0d40312fcb08b05c37_659e68b1c2809ea618ad5570_image%205.capesize%20iron%20ore%20brazil%20-%20china.avif)
+![Image 5: Dry Bulk Flows, Iron Ore, VLOC-Capesize, Brazil to China, 2022-2023](../../images/66b51c0d40312fcb08b05c37_659e68b1c2809ea618ad5570_image%25205.capesize%2520iron%2520ore%2520brazil%2520-%2520china.avif)
 
 > **Figure 5: Image 5: Dry Bulk Flows, Iron Ore, VLOC-Capesize, Brazil to China, 2022-2023**  
 > *Image 5: Dry Bulk Flows, Iron Ore, VLOC-Capesize, Brazil to China, 2022-2023*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/dry-bulk-annual-review-2023) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/66b51c0d40312fcb08b05c37_659e68b1c2809ea618ad5570_image%205.capesize%20iron%20ore%20brazil%20-%20china.avif)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/dry-bulk-annual-review-2023) | [Local Asset](../../../../../../corpus/07-signal/images/66b51c0d40312fcb08b05c37_659e68b1c2809ea618ad5570_image%25205.capesize%2520iron%2520ore%2520brazil%2520-%2520china.avif)
 
 
 #### Coal
@@ -101,20 +101,20 @@ In 2023, despite the challenges in the Chinese economy, there was a notable incr
 In the coal sector, Indonesian exports to China demonstrated greater dynamism in the final months of the current year compared to the monthly volumes from Russia using Panamax and Supramax vessel sizes. As depicted in **Image 6,** December's monthly volume surged to 20 million tonnes, echoing the previous peak witnessed in March 2023 when volumes surpassed the 20 million-tonne threshold. Reflecting on the first quarter of 2022, Indonesian coal exports to China had experienced notably subdued monthly volumes.
 
 
-![Image 6: Dry Bulk Flows, Coal, Panamax - Supramax, Indonesia to China, 2022-2023](../../images/66b51c0d40312fcb08b05c34_659e690813d31d409039cd01_image%207.pmx-supra%20coal%20indonesia.avif)
+![Image 6: Dry Bulk Flows, Coal, Panamax - Supramax, Indonesia to China, 2022-2023](../../images/66b51c0d40312fcb08b05c34_659e690813d31d409039cd01_image%25207.pmx-supra%2520coal%2520indonesia.avif)
 
 > **Figure 6: Image 6: Dry Bulk Flows, Coal, Panamax - Supramax, Indonesia to China, 2022-2023**  
 > *Image 6: Dry Bulk Flows, Coal, Panamax - Supramax, Indonesia to China, 2022-2023*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/dry-bulk-annual-review-2023) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/66b51c0d40312fcb08b05c34_659e690813d31d409039cd01_image%207.pmx-supra%20coal%20indonesia.avif)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/dry-bulk-annual-review-2023) | [Local Asset](../../../../../../corpus/07-signal/images/66b51c0d40312fcb08b05c34_659e690813d31d409039cd01_image%25207.pmx-supra%2520coal%2520indonesia.avif)
 
 Regarding the Russian Federation, a significant shift was observed in the monthly volume of coal exports to China towards the end of the last year. Starting from September, Russia faced challenges in increasing coal sales to Asian markets, while exports from Indonesia and Australia began to strengthen their positions. (**Image 7**) In November and December, Russian coal exports to China experienced notably lower volumes compared to the peaks observed from April to July. It appears that this recent trend is poised to continue into the New Year.
 
 
-![Image 7: Dry Bulk Flows, Coal, Panamax - Supramax, Russia to China, 2022-2023](../../images/66b51c0d40312fcb08b05c3d_659e693fd47d792a58c0f65e_pmx-supra%20coal%20russia.image%206.avif)
+![Image 7: Dry Bulk Flows, Coal, Panamax - Supramax, Russia to China, 2022-2023](../../images/66b51c0d40312fcb08b05c3d_659e693fd47d792a58c0f65e_pmx-supra%2520coal%2520russia.image%25206.avif)
 
 > **Figure 7: Image 7: Dry Bulk Flows, Coal, Panamax - Supramax, Russia to China, 2022-2023**  
 > *Image 7: Dry Bulk Flows, Coal, Panamax - Supramax, Russia to China, 2022-2023*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/dry-bulk-annual-review-2023) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/66b51c0d40312fcb08b05c3d_659e693fd47d792a58c0f65e_pmx-supra%20coal%20russia.image%206.avif)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/dry-bulk-annual-review-2023) | [Local Asset](../../../../../../corpus/07-signal/images/66b51c0d40312fcb08b05c3d_659e693fd47d792a58c0f65e_pmx-supra%2520coal%2520russia.image%25206.avif)
 
 In 2023, the grain industry experienced fierce competition between Brazil and the US in exporting to China. After an impressive start in the first quarter, Brazilian grain shipments to China, especially utilizing Panamax vessels, saw significant peaks in March, April, and July (see **Image 8** for reference). However, this momentum decelerated towards the close of the year. Contrary to expectations, Brazil did not surpass US grain exports. As 2024 unfolds, there's uncertainty regarding whether Brazil's grain sector will mirror the dynamism of 2023. Recent forecasts indicate a potential downturn for Brazil's agricultural exports in 2024. Specifically, the Brazilian Institute of Geography and Statistics (IBGE) projects a production of 306.2 million tons of grains, cereals, and legumes for 2024—a 3.2% decrease from the anticipated 2023 output.
 
@@ -122,11 +122,11 @@ In 2023, the grain industry experienced fierce competition between Brazil and th
 #### Grain
 
 
-![Image 8: Dry Bulk Flows, Grain, Panamax, Brazil to China, 2022-2023](../../images/66b51c0e40312fcb08b05c8d_659e698707f21b177111f7b6_image%208.pmx%20grain%20Brazil%20China.avif)
+![Image 8: Dry Bulk Flows, Grain, Panamax, Brazil to China, 2022-2023](../../images/66b51c0e40312fcb08b05c8d_659e698707f21b177111f7b6_image%25208.pmx%2520grain%2520Brazil%2520China.avif)
 
 > **Figure 8: Image 8: Dry Bulk Flows, Grain, Panamax, Brazil to China, 2022-2023**  
 > *Image 8: Dry Bulk Flows, Grain, Panamax, Brazil to China, 2022-2023*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/dry-bulk-annual-review-2023) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/66b51c0e40312fcb08b05c8d_659e698707f21b177111f7b6_image%208.pmx%20grain%20Brazil%20China.avif)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/dry-bulk-annual-review-2023) | [Local Asset](../../../../../../corpus/07-signal/images/66b51c0e40312fcb08b05c8d_659e698707f21b177111f7b6_image%25208.pmx%2520grain%2520Brazil%2520China.avif)
 
 
 ## Demand Tonne Charts
@@ -134,44 +134,44 @@ In 2023, the grain industry experienced fierce competition between Brazil and th
 In the concluding section of this review, we analysed the year-over-year evolution of tonne days for major commodities across various vessel classes and evaluated the performance of the Baltic Index by vessel size. Beginning with the Capesize segment for iron ore, as illustrated in **Image 9**, the tonne days exhibited growth surpassing the previous year's figures starting from May. The peak was notably observed in December, coinciding with a surge in the Baltic Capesize Index. Throughout 2023, December emerged as the pinnacle month for iron ore demand in terms of tonne days within the Capesize vessel category.
 
 
-![Image 9: Tonne Days, Iron Ore, Capesize, 2022-2023 & BCI](../../images/66b51c0e40312fcb08b05c68_659e6a08c61cb2269feb4e30_Screenshot%202024-01-10%20at%2009.57.17.avif)
+![Image 9: Tonne Days, Iron Ore, Capesize, 2022-2023 & BCI](../../images/66b51c0e40312fcb08b05c68_659e6a08c61cb2269feb4e30_Screenshot%25202024-01-10%2520at%252009.57.17.avif)
 
 > **Figure 9: Image 9: Tonne Days, Iron Ore, Capesize, 2022-2023 & BCI**  
 > *Image 9: Tonne Days, Iron Ore, Capesize, 2022-2023 & BCI*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/dry-bulk-annual-review-2023) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/66b51c0e40312fcb08b05c68_659e6a08c61cb2269feb4e30_Screenshot%202024-01-10%20at%2009.57.17.avif)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/dry-bulk-annual-review-2023) | [Local Asset](../../../../../../corpus/07-signal/images/66b51c0e40312fcb08b05c68_659e6a08c61cb2269feb4e30_Screenshot%25202024-01-10%2520at%252009.57.17.avif)
 
 Within the Panamax segment, the demand growth in tonne days for energy exceeded the previous year's levels solely during the first quarter and then again from November onwards. Concurrently, the Baltic Panamax Index exhibited a comparable trajectory. As depicted in **Image 10**, there was a notable peak post-November, with tonne days for energy surpassing the preceding year's metrics. However, it remains uncertain whether the current first quarter will mirror the robust upward trend observed in the corresponding period of the previous year with the first indications of January signalling a strong growth.
 
 
-![Image 10: Tonne Days, Energy, Panamax, 2022-2023 & BPI](../../images/66b51c0e40312fcb08b05c4b_659e6a54812a3f5b304a9d95_Screenshot%202024-01-10%20at%2009.58.24.avif)
+![Image 10: Tonne Days, Energy, Panamax, 2022-2023 & BPI](../../images/66b51c0e40312fcb08b05c4b_659e6a54812a3f5b304a9d95_Screenshot%25202024-01-10%2520at%252009.58.24.avif)
 
 > **Figure 10: Image 10: Tonne Days, Energy, Panamax, 2022-2023 & BPI**  
 > *Image 10: Tonne Days, Energy, Panamax, 2022-2023 & BPI*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/dry-bulk-annual-review-2023) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/66b51c0e40312fcb08b05c4b_659e6a54812a3f5b304a9d95_Screenshot%202024-01-10%20at%2009.58.24.avif)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/dry-bulk-annual-review-2023) | [Local Asset](../../../../../../corpus/07-signal/images/66b51c0e40312fcb08b05c4b_659e6a54812a3f5b304a9d95_Screenshot%25202024-01-10%2520at%252009.58.24.avif)
 
 In the Supramax segment, there was a pronounced decline in demand for the Supramax vessel size, particularly intensifying towards the year's final quarter. Throughout most of the year, growth consistently lagged behind the previous year's figures. A notable exception occurred in October when performance levels surpassed those of the previous year; however, this did not significantly boost the Baltic Supramax Index, as depicted in **Image 11**. Concurrently, the Handysize segment, illustrated in Image 12, also witnessed a decline in tonne days for agricultural products starting from September. However, this downturn was less aggressive compared to the Supramax segment. At the start of the new year, there is no sign of a revival in growth in tonne-days for agricultural products in both vessel sizes, indicating a continued downward trend in the dry indices.
 
 
-![Image 11: Tonne Days, Agricultural, Supramax, 2022-2023 & BSI](../../images/66b51c0e40312fcb08b05c4e_659e6a9911a2a6dbc3b9c137_Screenshot%202024-01-10%20at%2009.59.43.avif)
+![Image 11: Tonne Days, Agricultural, Supramax, 2022-2023 & BSI](../../images/66b51c0e40312fcb08b05c4e_659e6a9911a2a6dbc3b9c137_Screenshot%25202024-01-10%2520at%252009.59.43.avif)
 
 > **Figure 11: Image 11: Tonne Days, Agricultural, Supramax, 2022-2023 & BSI**  
 > *Image 11: Tonne Days, Agricultural, Supramax, 2022-2023 & BSI*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/dry-bulk-annual-review-2023) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/66b51c0e40312fcb08b05c4e_659e6a9911a2a6dbc3b9c137_Screenshot%202024-01-10%20at%2009.59.43.avif)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/dry-bulk-annual-review-2023) | [Local Asset](../../../../../../corpus/07-signal/images/66b51c0e40312fcb08b05c4e_659e6a9911a2a6dbc3b9c137_Screenshot%25202024-01-10%2520at%252009.59.43.avif)
 
 
-![Image 12: Tonne Days, Agricultural, Handysize, 2022-2023 & BHSI](../../images/66b51c0e40312fcb08b05c6e_659e6ae95e71bc826ae2463f_Screenshot%202024-01-10%20at%2010.00.43.avif)
+![Image 12: Tonne Days, Agricultural, Handysize, 2022-2023 & BHSI](../../images/66b51c0e40312fcb08b05c6e_659e6ae95e71bc826ae2463f_Screenshot%25202024-01-10%2520at%252010.00.43.avif)
 
 > **Figure 12: Image 12: Tonne Days, Agricultural, Handysize, 2022-2023 & BHSI**  
 > *Image 12: Tonne Days, Agricultural, Handysize, 2022-2023 & BHSI*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/dry-bulk-annual-review-2023) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/66b51c0e40312fcb08b05c6e_659e6ae95e71bc826ae2463f_Screenshot%202024-01-10%20at%2010.00.43.avif)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/dry-bulk-annual-review-2023) | [Local Asset](../../../../../../corpus/07-signal/images/66b51c0e40312fcb08b05c6e_659e6ae95e71bc826ae2463f_Screenshot%25202024-01-10%2520at%252010.00.43.avif)
 
 In the smaller vessel size segments, while there was a downward trend in the evolution of tonne days for agricultural products, especially pronounced in the final quarter of the year, there was a significant uptick observed for minerals in both the Supramax and Handysize segments, as illustrated in **Image 13**. Consequently, this growth in minerals exerted an upward influence on rate performance as we approached the conclusion of the fourth quarter of 2023.
 
 
-![Image 13: Tonne Days, Minerals, Handysize - Supramax, 2022-2023](../../images/66b51c0e40312fcb08b05c6b_659e6b3db484e8cc77646c27_Screenshot%202024-01-10%20at%2010.02.25.avif)
+![Image 13: Tonne Days, Minerals, Handysize - Supramax, 2022-2023](../../images/66b51c0e40312fcb08b05c6b_659e6b3db484e8cc77646c27_Screenshot%25202024-01-10%2520at%252010.02.25.avif)
 
 > **Figure 13: Image 13: Tonne Days, Minerals, Handysize - Supramax, 2022-2023**  
 > *Image 13: Tonne Days, Minerals, Handysize - Supramax, 2022-2023*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/dry-bulk-annual-review-2023) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/66b51c0e40312fcb08b05c6b_659e6b3db484e8cc77646c27_Screenshot%202024-01-10%20at%2010.02.25.avif)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/dry-bulk-annual-review-2023) | [Local Asset](../../../../../../corpus/07-signal/images/66b51c0e40312fcb08b05c6b_659e6b3db484e8cc77646c27_Screenshot%25202024-01-10%2520at%252010.02.25.avif)
 
 Taking into account the above parameters of dry bulk flows and the growth of tonne days, the year 2024 is expected to see similar challenges of the previous year with one more additional dynamic factor stemming from the Red Sea escalation of attacks. It seems that the first quarter captures the uncertainty of Considering the outlined parameters related to dry bulk flows and tonne-day growth, 2024 is anticipated to present challenges reminiscent of the previous year, further intensified by escalating attacks in the Red Sea. The first quarter reflects uncertainties surrounding China's economic landscape, with recent stimulus measures bolstering sentiment around iron ore. Concurrently, persistent tensions between Russia and Ukraine continue to jeopardise Ukrainian grain exports. Additionally, the dissolution of the Black Sea Grain Initiative in July suggests its inapplicability in forthcoming months. Analysing market rate trends reveals a promising trajectory in the iron ore market, attributed to increased Brazilian exports to China. Furthermore, within smaller vessel segments, a burgeoning demand for minerals appears to counterbalance the declining trend observed in agricultural products.

@@ -34,8 +34,8 @@ We believe that 2015 has the potential to develop into an exciting year and we w
 
 ![Exhibit 1: 2014 In The Rear View](../../../charts/poten/2014/poten_2014-12-31_2014-in-the-rear-view_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2014/poten_2014-12-31_2014-in-the-rear-view_chart1.png)
+> **Interactive Asset:** [Local Asset (200 DPI PNG)](../../../charts/poten/2014/poten_2014-12-31_2014-in-the-rear-view_chart1.png)
 
 ![Exhibit 2: 2014 In The Rear View](../../../charts/poten/2014/poten_2014-12-31_2014-in-the-rear-view_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2014/poten_2014-12-31_2014-in-the-rear-view_chart2.png)
+> **Interactive Asset:** [Local Asset (200 DPI PNG)](../../../charts/poten/2014/poten_2014-12-31_2014-in-the-rear-view_chart2.png)

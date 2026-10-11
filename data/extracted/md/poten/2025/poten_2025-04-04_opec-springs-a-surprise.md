@@ -24,16 +24,22 @@ Why is OPEC bumping up production now? The official OPEC announcement talks abou
 
 So, what are the potential implications on the oil and tanker markets? The oil price has nose-dived in the last two days. Prior to "Liberation Day", WTI was priced at close to $72/bbl. After President Trump announced the tariffs, WTI declined to $66 - $67/bbl. After the OPEC announcement, prices fell to $64/bbl. Today, WTI is trading below $62/bbl, which is costly for oil producers globally.
 
-In theory, the tanker market should benefit from the increased output of the OPEC-8. As [Chart 2](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2025/poten_2025-04-04_opec-springs-a-surprise_chart2.png) shows, about 66% of the exports of these countries is done on VLCCs, while 18% goes on Suezmaxes and 15% on Aframaxes. VLCCs should therefore be the main beneficiaries. Increased exports from Russia and Kazakhstan would support Suezmax and Aframax employment, but it is uncertain how much more these countries will be able to produce. In the short- term, exports from Kazakhstan could even go down since Russia temporarily closed two of the three moorings at the Caspian Pipeline Consortium terminal in the Black Sea, which handles approximately 80% of Kazakhstan's oil exports. This will impact Suezmaxes in particular. A low oil price could bring an additional benefit to the regular Aframax and Suezmax fleet. With the price of Russian Urals below the price cap, mainstream owners can again service this trade, replacing vessels from the dark fleet.
+In theory, the tanker market should benefit from the increased output of the OPEC-8. As [Chart 2](../../../charts/poten/2025/poten_2025-04-04_opec-springs-a-surprise_chart2.png) shows, about 66% of the exports of these countries is done on VLCCs, while 18% goes on Suezmaxes and 15% on Aframaxes. VLCCs should therefore be the main beneficiaries. Increased exports from Russia and Kazakhstan would support Suezmax and Aframax employment, but it is uncertain how much more these countries will be able to produce. In the short- term, exports from Kazakhstan could even go down since Russia temporarily closed two of the three moorings at the Caspian Pipeline Consortium terminal in the Black Sea, which handles approximately 80% of Kazakhstan's oil exports. This will impact Suezmaxes in particular. A low oil price could bring an additional benefit to the regular Aframax and Suezmax fleet. With the price of Russian Urals below the price cap, mainstream owners can again service this trade, replacing vessels from the dark fleet.
 
-> **Exhibit 2: OPEC Springs A Surprise (Chart 2)**  
-> *Source: Poten & Partners*  
-> **Interactive Data & Source:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2025/poten_2025-04-04_opec-springs-a-surprise_chart2.png)
+> **Exhibit 2: Seaborne Crude Oil Exports From OPEC-8 By Vessel Class**  
+> Unit: Kb/d · X-axis: Jan-18 to Jan-25  
+> Series: VLCC, Suezmax, Aframax/LR2, Other  
+> *Source: Vortexa*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2025/poten_2025-04-04_opec-springs-a-surprise_chart2.png)
 
-![Exhibit 2: OPEC Springs A Surprise](../../../charts/poten/2025/poten_2025-04-04_opec-springs-a-surprise_chart2.png)
+![Exhibit 2: Seaborne Crude Oil Exports From OPEC-8 By Vessel Class](../../../charts/poten/2025/poten_2025-04-04_opec-springs-a-surprise_chart2.png)
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: OPEC Springs A Surprise](../../../charts/poten/2025/poten_2025-04-04_opec-springs-a-surprise_chart1.png)
+![Exhibit 1: Seaborne Crude Oil Exports From OPEC-8 By Origin](../../../charts/poten/2025/poten_2025-04-04_opec-springs-a-surprise_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2025/poten_2025-04-04_opec-springs-a-surprise_chart1.png)
+> **Exhibit 1: Seaborne Crude Oil Exports From OPEC-8 By Origin**  
+> Unit: Kb/d · X-axis: Jan-18 to Jan-25  
+> Series: Saudi Arabia, Russia (Excl CPC Blend), Iraq, United Arab Emirates, Kuwait, Kazakhstan (incl CPC Blend), Oman, Algeria  
+> *Source: Vortexa*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2025/poten_2025-04-04_opec-springs-a-surprise_chart1.png)

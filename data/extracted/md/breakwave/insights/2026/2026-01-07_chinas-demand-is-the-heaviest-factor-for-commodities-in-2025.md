@@ -38,10 +38,10 @@ India will increase steel production in 2026 to align with domestic demand growt
 
 Lower iron ore prices could incentivize buyers to replenish their inventories, supporting export volumes. Yet, the effect of this will be limited in the short term as Chinese port stocks of iron ore are reportedly already high. Buyers will wait until prices drop before returning to the market. Low prices in 2025 already led to an inventory build that would be unsustainable for the entirety of 2026.
 
-![Market Chart 1](assets/2026-01-07_chinas-demand-is-the-heaviest-factor-for-commodities-in-2025_img_unnamed_fcedd5218300.png)
+![Market Chart 1](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-01-07_chinas-demand-is-the-heaviest-factor-for-commodities-in-2025_img_unnamed_fcedd5218300.png)
 
 > **Figure 1: Market Chart 1**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://go.thesignalgroup.com/e/983831/dry-dynamic-drybulkflows/2rr1rv/566413075/h/5KTKyTByvjeq4TytzYi8bj--oAUQ0vFRQyHPIEOY_bI) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-01-07_chinas-demand-is-the-heaviest-factor-for-commodities-in-2025_img_unnamed_fcedd5218300.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://go.thesignalgroup.com/e/983831/dry-dynamic-drybulkflows/2rr1rv/566413075/h/5KTKyTByvjeq4TytzYi8bj--oAUQ0vFRQyHPIEOY_bI) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-01-07_chinas-demand-is-the-heaviest-factor-for-commodities-in-2025_img_unnamed_fcedd5218300.png)
 
 [**Dry Bulk Flows**](https://go.thesignalgroup.com/e/983831/dry-dynamic-drybulkflows/2rr1rv/566413075/h/5KTKyTByvjeq4TytzYi8bj--oAUQ0vFRQyHPIEOY_bI)**| Coal**
 
@@ -53,10 +53,10 @@ Thermal coal makes up the majority of seaborne coal tonnage, around 77%. China h
 
 This will have consequences on capesize demand, with the outlook for iron ore already weak; another year of lower coal flows could weigh heavily on capesize demand, particularly in the Pacific.
 
-![Market Chart 2](assets/2026-01-07_chinas-demand-is-the-heaviest-factor-for-commodities-in-2025_img_unnamed28129_452a9b845327.png)
+![Market Chart 2](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-01-07_chinas-demand-is-the-heaviest-factor-for-commodities-in-2025_img_unnamed28129_452a9b845327.png)
 
 > **Figure 2: Market Chart 2**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://go.thesignalgroup.com/e/983831/dry-dynamic-drybulkflows/2rr1rv/566413075/h/5KTKyTByvjeq4TytzYi8bj--oAUQ0vFRQyHPIEOY_bI) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-01-07_chinas-demand-is-the-heaviest-factor-for-commodities-in-2025_img_unnamed28129_452a9b845327.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://go.thesignalgroup.com/e/983831/dry-dynamic-drybulkflows/2rr1rv/566413075/h/5KTKyTByvjeq4TytzYi8bj--oAUQ0vFRQyHPIEOY_bI) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-01-07_chinas-demand-is-the-heaviest-factor-for-commodities-in-2025_img_unnamed28129_452a9b845327.png)
 
 [**Dry Bulk Flows**](https://go.thesignalgroup.com/e/983831/dry-dynamic-drybulkflows/2rr1rv/566413075/h/5KTKyTByvjeq4TytzYi8bj--oAUQ0vFRQyHPIEOY_bI)**| Bauxite**
 
@@ -68,10 +68,10 @@ This is one factor that should keep utilization rates at Chinese aluminium smelt
 
 Bauxite, therefore, provides some positivity in the capesize market. The outlook for iron ore and coal is softer, and this will drag on capesize demand, but bauxite should continue to outperform. Longer term, the restructuring of Guinea’s domestic bauxite processing remains a risk to bauxite flows, but it is unlikely to have any meaningful impact until the later stages of the decade.
 
-![Market Chart 3](assets/2026-01-07_chinas-demand-is-the-heaviest-factor-for-commodities-in-2025_img_unnamed28229_97db1c7b24e2.png)
+![Market Chart 3](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-01-07_chinas-demand-is-the-heaviest-factor-for-commodities-in-2025_img_unnamed28229_97db1c7b24e2.png)
 
 > **Figure 3: Market Chart 3**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://go.thesignalgroup.com/e/983831/dry-dynamic-drybulkflows/2rr1rv/566413075/h/5KTKyTByvjeq4TytzYi8bj--oAUQ0vFRQyHPIEOY_bI) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-01-07_chinas-demand-is-the-heaviest-factor-for-commodities-in-2025_img_unnamed28229_97db1c7b24e2.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://go.thesignalgroup.com/e/983831/dry-dynamic-drybulkflows/2rr1rv/566413075/h/5KTKyTByvjeq4TytzYi8bj--oAUQ0vFRQyHPIEOY_bI) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-01-07_chinas-demand-is-the-heaviest-factor-for-commodities-in-2025_img_unnamed28229_97db1c7b24e2.png)
 
 [**Dry Bulk Flows**](https://go.thesignalgroup.com/e/983831/dry-dynamic-drybulkflows/2rr1rv/566413075/h/5KTKyTByvjeq4TytzYi8bj--oAUQ0vFRQyHPIEOY_bI)**| Steel**
 
@@ -83,10 +83,10 @@ The trend of weaker domestic demand is expected to continue into 2026, albeit wi
 
 Steel products are shipped overwhelmingly by supramax vessels, 47% since 2022. Yet, of all the cargo typically carried by supramax vessels, less than 9% is steel on a tonnage basis. This means that steel performance is unlikely to shift the supramax rates in a meaningful manner. However, this is more pronounced on short-to-medium distance routes, such as China to India or China to other Southeast Asian countries. As a result, rates on supramaxes on these routes could see some upward pressure based on the increased expectation of Chinese steel exports, particularly to India.
 
-![Market Chart 4](assets/2026-01-07_chinas-demand-is-the-heaviest-factor-for-commodities-in-2025_img_unnamed28329_b996747a59c9.png)
+![Market Chart 4](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-01-07_chinas-demand-is-the-heaviest-factor-for-commodities-in-2025_img_unnamed28329_b996747a59c9.png)
 
 > **Figure 4: Market Chart 4**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-01-07_chinas-demand-is-the-heaviest-factor-for-commodities-in-2025_img_unnamed28329_b996747a59c9.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-01-07_chinas-demand-is-the-heaviest-factor-for-commodities-in-2025_img_unnamed28329_b996747a59c9.png)
 
 ### Takeaways
 

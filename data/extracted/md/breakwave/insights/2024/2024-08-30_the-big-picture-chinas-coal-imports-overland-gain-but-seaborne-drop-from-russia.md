@@ -46,15 +46,15 @@ Annual growth from Mongolia has been maintained into 2024, NSO data show, with J
 
 The blue dots on our map highlight new and existing Mongolian/Chinese border crossings involving railings (which are reloaded on to different trains due to the countries’ different gauges).
 
-![Market Chart 1](assets/2024-08-30_the-big-picture-chinas-coal-imports-overland-gain-but-seaborne-drop-from-russia_img_image028129_d8a647100966.png)
+![Market Chart 1](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-08-30_the-big-picture-chinas-coal-imports-overland-gain-but-seaborne-drop-from-russia_img_image028129_d8a647100966.png)
 
 > **Figure 1: Market Chart 1**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-08-30_the-big-picture-chinas-coal-imports-overland-gain-but-seaborne-drop-from-russia_img_image028129_d8a647100966.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-08-30_the-big-picture-chinas-coal-imports-overland-gain-but-seaborne-drop-from-russia_img_image028129_d8a647100966.png)
 
-![Market Chart 2](assets/2024-08-30_the-big-picture-chinas-coal-imports-overland-gain-but-seaborne-drop-from-russia_img_image128129_91a5e0cc32ee.png)
+![Market Chart 2](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-08-30_the-big-picture-chinas-coal-imports-overland-gain-but-seaborne-drop-from-russia_img_image128129_91a5e0cc32ee.png)
 
 > **Figure 2: Market Chart 2**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-08-30_the-big-picture-chinas-coal-imports-overland-gain-but-seaborne-drop-from-russia_img_image128129_91a5e0cc32ee.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-08-30_the-big-picture-chinas-coal-imports-overland-gain-but-seaborne-drop-from-russia_img_image128129_91a5e0cc32ee.png)
 
 The main border crossing for railed Mongolian coal into China at**Erenhot**has been supplemented since late 2022 by the**completion of the Tavan Tolgoi-Gashuun Sukhait Railway (Tavan T-GS Railway)**.
 
@@ -64,10 +64,10 @@ In addition, the Tex Report comments that Mongolia has plans to lift volumes fur
 
 With Mongolian coal exports confirmed at 6.9m tonnes in July, Braemar has included its estimate for the Q3 2024 in the chart below.
 
-![Market Chart 3](assets/2024-08-30_the-big-picture-chinas-coal-imports-overland-gain-but-seaborne-drop-from-russia_img_image2_522746cf7568.png)
+![Market Chart 3](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-08-30_the-big-picture-chinas-coal-imports-overland-gain-but-seaborne-drop-from-russia_img_image2_522746cf7568.png)
 
 > **Figure 3: Market Chart 3**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-08-30_the-big-picture-chinas-coal-imports-overland-gain-but-seaborne-drop-from-russia_img_image2_522746cf7568.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-08-30_the-big-picture-chinas-coal-imports-overland-gain-but-seaborne-drop-from-russia_img_image2_522746cf7568.png)
 
 ### How Then Do These Developments Relate to Seaborne Volumes?
 

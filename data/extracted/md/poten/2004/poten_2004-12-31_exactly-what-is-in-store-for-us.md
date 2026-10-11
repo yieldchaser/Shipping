@@ -44,6 +44,14 @@ The following table is a listing of IEA estimates for crude oil consumption in k
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: Exactly What Is In Store for Us?](../../../charts/poten/2004/poten_2004-12-31_exactly-what-is-in-store-for-us_chart1.png)
+> **Chart on PDF page 1: # AG Spot Fiixtures vs VLCC Rates AG/East**  
+> Unit: # Fixtures | WS Rates · X-axis: 2000 to 2004  
+> Series: WS Rates, # Fixtures  
+> *Source: Poten & Partners*  
+> *No image crop of this chart was saved; caption read from the PDF.*
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2004/poten_2004-12-31_exactly-what-is-in-store-for-us_chart1.png)
+> **Chart on PDF page 2: Fixture Activity by Discharge Area**  
+> Unit: # Fixtures · X-axis: 2000 to 2004  
+> Series: Far East, U.S., SE Asia, N. China, India  
+> *Source: Poten & Partners*  
+> *No image crop of this chart was saved; caption read from the PDF.*

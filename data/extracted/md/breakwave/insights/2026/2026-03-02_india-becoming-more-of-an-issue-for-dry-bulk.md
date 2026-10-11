@@ -26,10 +26,10 @@ As we discussed in Commodore Research's most recent Weekly Executive Report, Ind
 
 As we have stressed often in our Weekly Executive Reports, such a sustained contraction in India’s coal-derived electricity generation is very rare. Much warmer than usual weather has continued throughout parts of India and remains a headwind on electricity demand. Hydropower production has also continued to grow. India’s economy has also faced struggles at times recently.
 
-![Chart](assets/2026-03-02_india-becoming-more-of-an-issue-for-dry-bulk_img_chart_97718272fc89.jpg)
+![Chart](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-03-02_india-becoming-more-of-an-issue-for-dry-bulk_img_chart_97718272fc89.jpg)
 
 > **Figure 1: Chart**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-03-02_india-becoming-more-of-an-issue-for-dry-bulk_img_chart_97718272fc89.jpg)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-03-02_india-becoming-more-of-an-issue-for-dry-bulk_img_chart_97718272fc89.jpg)
 
 ---
 

@@ -164,38 +164,42 @@ _No desk commentary reported for this session._
 | **SGX** | **Nov. 21** | USD/DMT | 94.85 | +4.00 | +4.40% | 2.47 | 19.53 | 89.10 | 95.00 |
 
 ## Dry Bulk Freight Rates Historical Line Data (USD/MT)
+> **Estimate.** The report prints no numbers for this chart. Values are computed from the chart's vector geometry at each x-axis date label (calibrated on the printed axis ticks; typically within 1% of the axis range).
+
 | Date | C5 W. Australia - Qingdao (USD/MT) | C3 Tubarao - Qingdao (USD/MT) |
 | :--- | :--- | :--- |
-| 1-Nov-20 | 750.00 | 70.00 |
-| 1-Dec-20 | 800.00 | 75.00 |
-| 1-Jan-21 | 1,150.00 | 110.00 |
-| 1-Feb-21 | 1,050.00 | 100.00 |
-| 1-Mar-21 | 1,100.00 | 105.00 |
-| 1-Apr-21 | 1,150.00 | 110.00 |
-| 1-May-21 | 1,350.00 | 130.00 |
-| 1-Jun-21 | 1,320.00 | 128.00 |
-| 1-Jul-21 | 1,280.00 | 125.00 |
-| 1-Aug-21 | 1,100.00 | 105.00 |
-| 1-Sep-21 | 800.00 | 75.00 |
-| 1-Oct-21 | 600.00 | 55.00 |
-| 1-Nov-21 | 520.00 | 48.00 |
+| 1-Nov-20 | 7.25 | 15.07 |
+| 1-Dec-20 | 6.69 | 13.67 |
+| 1-Jan-21 | 8.28 | 15.79 |
+| 1-Feb-21 | 6.13 | 17.31 |
+| 1-Mar-21 | 7.25 | 15.56 |
+| 1-Apr-21 | 10.04 | 21.22 |
+| 1-May-21 | 13.11 | 28.76 |
+| 1-Jun-21 | 11.16 | 24.01 |
+| 1-Jul-21 | 11.71 | 26.94 |
+| 1-Aug-21 | 14.93 | 28.76 |
+| 1-Sep-21 | 13.67 | 34.35 |
+| 1-Oct-21 | 21.22 | 45.25 |
+| 1-Nov-21 | 12.33 | 28.20 |
 
 ## Total China Iron Ore Import Volumes (Million Tonnes)
+> **Estimate.** The report prints no numbers for this chart. Values are computed from the chart's vector geometry at each x-axis date label (calibrated on the printed axis ticks; typically within 1% of the axis range).
+
 | Month / Period | Import Volume (Million Tonnes) |
 | :--- | :--- |
-| Oct-20 | 106.00 |
-| Nov-20 | 98.00 |
-| Dec-20 | 97.00 |
-| Jan-21 | 98.00 |
-| Feb-21 | 83.00 |
-| Mar-21 | 102.00 |
-| Apr-21 | 98.00 |
-| May-21 | 89.00 |
-| Jun-21 | 88.00 |
-| Jul-21 | 88.00 |
-| Aug-21 | 97.00 |
-| Sep-21 | 95.00 |
-| Oct-21 | 91.00 |
+| Oct-20 | 106.74 |
+| Nov-20 | 98.19 |
+| Dec-20 | 96.66 |
+| Jan-21 | 98.85 |
+| Feb-21 | 82.62 |
+| Mar-21 | 102.14 |
+| Apr-21 | 98.63 |
+| May-21 | 89.86 |
+| Jun-21 | 89.42 |
+| Jul-21 | 88.54 |
+| Aug-21 | 97.53 |
+| Sep-21 | 95.56 |
+| Oct-21 | 91.61 |
 
 ---
 

@@ -32,10 +32,18 @@ In summary, the refining industry is going through major changes with significan
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: All Eyes On The East](../../../charts/poten/2019/poten_2019-04-05_all-eyes-on-the-east_chart1.png)
+![Exhibit 1: Oil Product Exports From China](../../../charts/poten/2019/poten_2019-04-05_all-eyes-on-the-east_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2019/poten_2019-04-05_all-eyes-on-the-east_chart1.png)
+> **Exhibit 1: Oil Product Exports From China**  
+> Unit: Kb/d · X-axis: Jan-10 to Jan-18  
+> Series: Gasoline, Gasoil/Diesel, Kerosenes, Fuel Oil, Unspecified Oil Prod.  
+> *Source: JODI*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2019/poten_2019-04-05_all-eyes-on-the-east_chart1.png)
 
-![Exhibit 2: All Eyes On The East](../../../charts/poten/2019/poten_2019-04-05_all-eyes-on-the-east_chart2.png)
+![Exhibit 2: Oil Product Exports From India](../../../charts/poten/2019/poten_2019-04-05_all-eyes-on-the-east_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2019/poten_2019-04-05_all-eyes-on-the-east_chart2.png)
+> **Exhibit 2: Oil Product Exports From India**  
+> Unit: Kb/d · X-axis: Jan-10 to Jan-18  
+> Series: Gasoline, Gasoil/Diesel, Kerosenes, Fuel Oil, Unspecified Oil Prod.  
+> *Source: JODI*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2019/poten_2019-04-05_all-eyes-on-the-east_chart2.png)

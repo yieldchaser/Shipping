@@ -28,25 +28,25 @@ While their expectations for a year-on-year increase of 200 million tons for thi
 ![Indonesia Comm](assets/2021-02-03_recent-surge-in-indonesian-coal-exports-to-china_img_indonesiacomm_afdb7c648142.jpg)
 
 > **Figure 1: Indonesia Comm**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2021/assets/2021-02-03_recent-surge-in-indonesian-coal-exports-to-china_img_indonesiacomm_afdb7c648142.jpg)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-02-03_recent-surge-in-indonesian-coal-exports-to-china_img_indonesiacomm_afdb7c648142.jpg)
 
 Russia exported 7 million tons of coal to China in December. This is up month-on-month by 3.9 million tons (126%), year-on-year by 6.6 million tons (1,650%), and contributed to approximately 18% of China’s total coal imports
 
 ![Russia Comm](assets/2021-02-03_recent-surge-in-indonesian-coal-exports-to-china_img_russiacomm_518a19574c54.jpg)
 
 > **Figure 2: Russia Comm**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2021/assets/2021-02-03_recent-surge-in-indonesian-coal-exports-to-china_img_russiacomm_518a19574c54.jpg)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-02-03_recent-surge-in-indonesian-coal-exports-to-china_img_russiacomm_518a19574c54.jpg)
 
 Mongolia exported only 1.8 million tons of coal to China in December. This is down year-on-year by 1.2 million tons (-40%), is unchanged from a week ago, and contributed to only approximately 5% of China’s total coal imports. As we discussed in our Weekly China Reports last year, a surge in coronavirus cases in Mongolia late last year affected border clearance and coal trucking into China.
 
 ![Mongolia Comm](assets/2021-02-03_recent-surge-in-indonesian-coal-exports-to-china_img_mongoliacomm_41b81f59c299.jpg)
 
 > **Figure 3: Mongolia Comm**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2021/assets/2021-02-03_recent-surge-in-indonesian-coal-exports-to-china_img_mongoliacomm_41b81f59c299.jpg)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-02-03_recent-surge-in-indonesian-coal-exports-to-china_img_mongoliacomm_41b81f59c299.jpg)
 
 Australia did not export any coal to China in December. This is down month-on-month by 650,000 tons and year-on-year by 400,000 tons. China’s ban on coal imports from Australia remains in effect.
 
 ![Australia Comm](assets/2021-02-03_recent-surge-in-indonesian-coal-exports-to-china_img_australiacomm_fb1b40008c3a.jpg)
 
 > **Figure 4: Australia Comm**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2021/assets/2021-02-03_recent-surge-in-indonesian-coal-exports-to-china_img_australiacomm_fb1b40008c3a.jpg)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-02-03_recent-surge-in-indonesian-coal-exports-to-china_img_australiacomm_fb1b40008c3a.jpg)

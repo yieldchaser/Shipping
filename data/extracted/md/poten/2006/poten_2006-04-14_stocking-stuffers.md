@@ -60,6 +60,14 @@ The looming question for tanker owners is whether demand will be met by increase
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: Stocking Stuffers](../../../charts/poten/2006/poten_2006-04-14_stocking-stuffers_chart1.png)
+> **Chart on PDF page 1: US Crude Stocks**  
+> Unit: Barrels (M) · X-axis: JAN to DEC  
+> Series: 2002, 2003, 2004, 2005, 2006  
+> *Source: API/Poten & Partners*  
+> *No image crop of this chart was saved; caption read from the PDF.*
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2006/poten_2006-04-14_stocking-stuffers_chart1.png)
+> **Chart on PDF page 2: US Refinery Utilization %**  
+> Unit: % · X-axis: 1/7/2005 to 4/7/2006  
+> Series: US Refinery Utilization  
+> *Source: API/Poten & Partners*  
+> *No image crop of this chart was saved; caption read from the PDF.*

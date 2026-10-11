@@ -22,13 +22,15 @@ U.S. crude oil exports, which started in 2016, quickly ramped up to reach 2.5 Mb
 
 Where did all this extra crude go? The short answer is Europe. After Russia invaded Ukraine (exactly one year ago today), the UK and the EU decided to move away from Russian oil and oil products and the increased availability of U.S. export barrels was very convenient. Northwest Europe ramped up purchases of U.S. crude, from an average of 683 Kb/d in 2021 to 1,064 Kb/d in 2022 (+56%). European countries in the Mediterranean took another 123 Kb/d (+79%). Asia also imported 170 Kb/d more U.S. crude oil in 2022 (+13%).
 
-An unexpected development for the tanker market was that a significant portion of the additional U.S. barrels to Europe were moved on VLCCs. As is illustrated in [Chart 2](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2023/poten_2023-02-24_the-next-wave_chart2.png), VLCC movements from the U.S. Gulf to Europe were relatively rare prior to 2022. After the invasion, this changed quickly. Virtually all the additional sales to Europe were done on VLCCs. What was the reason for this change, and will this persist or is it likely to be temporary? There are a number of reasons for this development. First, because Russia exports its crude primarily on Aframaxes and Suezmaxes (its terminals cannot load VLCCs), ton-mile demand and rates for these tanker segments increased dramatically in the aftermath of the invasion. This made VLCCs relatively cheap, both on a $/barrel and on an absolute basis.
+An unexpected development for the tanker market was that a significant portion of the additional U.S. barrels to Europe were moved on VLCCs. As is illustrated in [Chart 2](../../../charts/poten/2023/poten_2023-02-24_the-next-wave_chart2.png), VLCC movements from the U.S. Gulf to Europe were relatively rare prior to 2022. After the invasion, this changed quickly. Virtually all the additional sales to Europe were done on VLCCs. What was the reason for this change, and will this persist or is it likely to be temporary? There are a number of reasons for this development. First, because Russia exports its crude primarily on Aframaxes and Suezmaxes (its terminals cannot load VLCCs), ton-mile demand and rates for these tanker segments increased dramatically in the aftermath of the invasion. This made VLCCs relatively cheap, both on a $/barrel and on an absolute basis.
 
-> **Exhibit 2: The Next Wave (Chart 2)**  
-> *Source: Poten & Partners*  
-> **Interactive Data & Source:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2023/poten_2023-02-24_the-next-wave_chart2.png)
+> **Exhibit 2: US Gulf Crude Exports by Vessel Class To Europe**  
+> Unit: Kb/d · X-axis: Mar-15 to Dec-22  
+> Series: VLCC, Suezmax, Aframax, Smaller  
+> *Source: Lloyd’s List Intelligence*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2023/poten_2023-02-24_the-next-wave_chart2.png)
 
-![Exhibit 2: The Next Wave](../../../charts/poten/2023/poten_2023-02-24_the-next-wave_chart2.png)
+![Exhibit 2: US Gulf Crude Exports by Vessel Class To Europe](../../../charts/poten/2023/poten_2023-02-24_the-next-wave_chart2.png)
 
 ### Sources: Lloyd's List Intelligence
 
@@ -42,6 +44,9 @@ For the VLCC market, this means that more tonnage will likely be employed on the
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: The Next Wave](../../../charts/poten/2023/poten_2023-02-24_the-next-wave_chart1.png)
+![Exhibit 1: Seaborne Crude Exports from United States of America](../../../charts/poten/2023/poten_2023-02-24_the-next-wave_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2023/poten_2023-02-24_the-next-wave_chart1.png)
+> **Exhibit 1: Seaborne Crude Exports from United States of America**  
+> Unit: Kbbl / Day · X-axis: Jan-18 to Jan-23  
+> Series: China/Korea, India, Other Asia, UKC/Baltic, Mediterranean, Americas (Atl), Other  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2023/poten_2023-02-24_the-next-wave_chart1.png)

@@ -42,6 +42,3 @@ With a distinguished list of speakers and panels, this event should be on everyo
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: Greeks and Norwegians Talk Ships](../../../charts/poten/2006/poten_2006-02-10_greeks-and-norwegians-talk-ships_chart1.png)
-
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2006/poten_2006-02-10_greeks-and-norwegians-talk-ships_chart1.png)

@@ -34,10 +34,14 @@ The key question for the tanker market is now how sustainable these developments
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: The Chinese Tea Party 1](../../../charts/poten/2016/poten_2016-06-03_the-chinese-tea-party-1_chart1.png)
+![Exhibit 1: Crude and Fuel Oil Imports into Qingdao](../../../charts/poten/2016/poten_2016-06-03_the-chinese-tea-party-1_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2016/poten_2016-06-03_the-chinese-tea-party-1_chart1.png)
+> **Exhibit 1: Crude and Fuel Oil Imports into Qingdao**  
+> Unit: 1,000 Kb/d · X-axis: Jun-15 to Jun-16  
+> Series: Middle East, WAF, Latin America, Far East, Other  
+> *Source: Informa / Apex*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2016/poten_2016-06-03_the-chinese-tea-party-1_chart1.png)
 
 ![Exhibit 2: The Chinese Tea Party 1](../../../charts/poten/2016/poten_2016-06-03_the-chinese-tea-party-1_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2016/poten_2016-06-03_the-chinese-tea-party-1_chart2.png)
+> **Interactive Asset:** [Local Asset (200 DPI PNG)](../../../charts/poten/2016/poten_2016-06-03_the-chinese-tea-party-1_chart2.png)

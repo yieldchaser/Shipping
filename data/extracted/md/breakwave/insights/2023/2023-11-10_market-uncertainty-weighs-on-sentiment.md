@@ -23,10 +23,10 @@ source_file: "corpus/03-breakwave/insights/2023/2023-11-10_market-uncertainty-we
 
 Uncertainty over monetary policy saw a mixed performance from commodity markets. Concerns over economic growth in China also weighed on sentiment.
 
-![1699562648627](assets/2023-11-10_market-uncertainty-weighs-on-sentiment_img_1699562648627_57ea193f5e53.png)
+![1699562648627](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-11-10_market-uncertainty-weighs-on-sentiment_img_1699562648627_57ea193f5e53.png)
 
 > **Figure 1: 1699562648627**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-11-10_market-uncertainty-weighs-on-sentiment_img_1699562648627_57ea193f5e53.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-11-10_market-uncertainty-weighs-on-sentiment_img_1699562648627_57ea193f5e53.png)
 
 **Gold**rallied late in the session after dovish comments from the Fed. Governor Raphael Bostic argued there’s probably no need for more rate increases. Even so, two other governors warned that the full effect of past rate hikes have not been fully felt. The comments supported gold’s appeal as an interest rate sensitive haven asset. The market is now pricing in almost no chance of a rate hike in December. The**Platinum Group Metals**remained under pressure amid concerns over demand.**Palladium**fell below USD1,000/oz for the first time in five years as a slowdown in car sales and the rise of electric vehicles weighs on demand. This fall as been magnified by users switching to cheaper**platinum.**
 
@@ -36,6 +36,6 @@ The dovish comments from the Fed helped push copper prices higher. Early in the 
 
 **European gas**rallied after EU lawmakers called on the bloc to expand sanctions on Russia. North Asian LNG also gained after Chevron’s Gorgon plant suffered an electrical issue and disrupted exports.
 
-**European carbon**prices rallied as the market speculated that recent selling was overdone. This was aided by a broad rise amid a combination of colder weather and lower renewable generation. Australian carbon credit units remain stuck in a tight range as hopes of rising demand gives way to the realities of a market still in transition. With entities covered by the new Safeguard Mechanism not required to surrender ACCUs until the end of February 2025, the accumulation of ACCUs has been subdued. Investor demand has also plateaued. This comes amid a deluge of supply. The[market should remain in surplus](../pdfs/2023-11-10_market-uncertainty-weighs-on-sentiment_commodity-call-market-awash-with-acc_373779453240.pdf)until demand begins to scale up, which is likely to occur in parallel to a slowdown in issuance to registered projects.
+**European carbon**prices rallied as the market speculated that recent selling was overdone. This was aided by a broad rise amid a combination of colder weather and lower renewable generation. Australian carbon credit units remain stuck in a tight range as hopes of rising demand gives way to the realities of a market still in transition. With entities covered by the new Safeguard Mechanism not required to surrender ACCUs until the end of February 2025, the accumulation of ACCUs has been subdued. Investor demand has also plateaued. This comes amid a deluge of supply. The[market should remain in surplus](https://research.anz.com/file/Commodity_Call_market_awash_with_ACCUs.pdf?docRef=df761fe4-bf61-481e-a4ea-f44f9bacdc97&ch=2)until demand begins to scale up, which is likely to occur in parallel to a slowdown in issuance to registered projects.
 
 Data source:[Commodities Wrap](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI)

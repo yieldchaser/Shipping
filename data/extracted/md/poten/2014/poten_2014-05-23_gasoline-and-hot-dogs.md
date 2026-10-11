@@ -32,24 +32,34 @@ Although the recipe is ripe for improving ship demand, a long and growing tonnag
 
 ![Exhibit 1: Gasoline and Hot Dogs](../../../charts/poten/2014/poten_2014-05-23_gasoline-and-hot-dogs_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2014/poten_2014-05-23_gasoline-and-hot-dogs_chart1.png)
+> **Interactive Asset:** [Local Asset (200 DPI PNG)](../../../charts/poten/2014/poten_2014-05-23_gasoline-and-hot-dogs_chart1.png)
 
-![Exhibit 2: Gasoline and Hot Dogs](../../../charts/poten/2014/poten_2014-05-23_gasoline-and-hot-dogs_chart2.png)
+![Exhibit 2: US Gasoline Demand](../../../charts/poten/2014/poten_2014-05-23_gasoline-and-hot-dogs_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2014/poten_2014-05-23_gasoline-and-hot-dogs_chart2.png)
+> **Exhibit 2: US Gasoline Demand**  
+> Unit: kbd · X-axis: Week 1 to Week 51  
+> Series: 2013 Gasoline Demand, 2014 Gasoline Demand  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2014/poten_2014-05-23_gasoline-and-hot-dogs_chart2.png)
 
 ![Exhibit 3: Gasoline and Hot Dogs](../../../charts/poten/2014/poten_2014-05-23_gasoline-and-hot-dogs_chart3.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2014/poten_2014-05-23_gasoline-and-hot-dogs_chart3.png)
+> **Interactive Asset:** [Local Asset (200 DPI PNG)](../../../charts/poten/2014/poten_2014-05-23_gasoline-and-hot-dogs_chart3.png)
 
 ![Exhibit 4: Gasoline and Hot Dogs](../../../charts/poten/2014/poten_2014-05-23_gasoline-and-hot-dogs_chart4.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2014/poten_2014-05-23_gasoline-and-hot-dogs_chart4.png)
+> **Interactive Asset:** [Local Asset (200 DPI PNG)](../../../charts/poten/2014/poten_2014-05-23_gasoline-and-hot-dogs_chart4.png)
 
-![Exhibit 5: Gasoline and Hot Dogs](../../../charts/poten/2014/poten_2014-05-23_gasoline-and-hot-dogs_chart5.png)
+![Exhibit 5: US Gasoline Imports](../../../charts/poten/2014/poten_2014-05-23_gasoline-and-hot-dogs_chart5.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2014/poten_2014-05-23_gasoline-and-hot-dogs_chart5.png)
+> **Exhibit 5: US Gasoline Imports**  
+> Unit: kbd · X-axis: Week 1 to Week 52  
+> Series: 2013 Total Imports, 2014 Total Imports  
+> *Source: EIA/Poten*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2014/poten_2014-05-23_gasoline-and-hot-dogs_chart5.png)
 
-![Exhibit 6: Gasoline and Hot Dogs](../../../charts/poten/2014/poten_2014-05-23_gasoline-and-hot-dogs_chart6.png)
+![Exhibit 6: US Gasoline Stocks](../../../charts/poten/2014/poten_2014-05-23_gasoline-and-hot-dogs_chart6.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2014/poten_2014-05-23_gasoline-and-hot-dogs_chart6.png)
+> **Exhibit 6: US Gasoline Stocks**  
+> Unit: kbbls · X-axis: Week 1 to Week 51  
+> Series: 2013 Finished Mogas Stocks, 2014 Finished Mogas Stocks  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2014/poten_2014-05-23_gasoline-and-hot-dogs_chart6.png)

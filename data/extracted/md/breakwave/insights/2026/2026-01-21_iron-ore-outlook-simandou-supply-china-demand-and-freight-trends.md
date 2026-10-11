@@ -22,10 +22,10 @@ source_file: "corpus/03-breakwave/insights/2026/2026-01-21_iron-ore-outlook-sima
 
 In this week’s Allied Quantumsea Research, we review the evolving iron ore market landscape as 2026 begins, focusing on the widening gap between price performance and underlying fundamentals. We examine the early implications of Simandou’s first shipments, assess China’s steel demand and inventory dynamics, and evaluate how these factors are shaping both iron ore pricing and Capesize freight markets.
 
-![Στιγμιότυπο Οθόνης 2026 01 21 110910](assets/2026-01-21_iron-ore-outlook-simandou-supply-china-demand-and-freight-trends_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_5a49d0a66277.png)
+![Στιγμιότυπο Οθόνης 2026 01 21 110910](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-01-21_iron-ore-outlook-simandou-supply-china-demand-and-freight-trends_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_5a49d0a66277.png)
 
 > **Figure 1: Στιγμιότυπο Οθόνης 2026 01 21 110910**  
-> **Interactive Data & Source:** [Allied-shipbroking](https://www.allied-shipbroking.gr/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-01-21_iron-ore-outlook-simandou-supply-china-demand-and-freight-trends_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_5a49d0a66277.png)
+> **Interactive Data & Source:** [Allied-shipbroking](https://www.allied-shipbroking.gr/) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-01-21_iron-ore-outlook-simandou-supply-china-demand-and-freight-trends_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_5a49d0a66277.png)
 
 ### Market Overview: Price Strength versus Fundamentals
 
@@ -41,10 +41,10 @@ These initial volumes are small relative to global seaborne trade and will not m
 
 The project’s longer‑term significance lies in its scale. Once fully ramped up, industry expectations suggest annual capacity could approach 120 million tonnes, positioning Simandou among the world’s largest iron ore producers. Over time, this high‑grade supply has the potential to reshape global trade flows and influence price dynamics, particularly if full ramp‑up coincides with continued weakness in global steel demand growth.
 
-![Στιγμιότυπο Οθόνης 2026 01 21 110924](assets/2026-01-21_iron-ore-outlook-simandou-supply-china-demand-and-freight-trends_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_44381f4a614a.png)
+![Στιγμιότυπο Οθόνης 2026 01 21 110924](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-01-21_iron-ore-outlook-simandou-supply-china-demand-and-freight-trends_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_44381f4a614a.png)
 
 > **Figure 2: Στιγμιότυπο Οθόνης 2026 01 21 110924**  
-> **Interactive Data & Source:** [Allied-shipbroking](https://www.allied-shipbroking.gr/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-01-21_iron-ore-outlook-simandou-supply-china-demand-and-freight-trends_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_44381f4a614a.png)
+> **Interactive Data & Source:** [Allied-shipbroking](https://www.allied-shipbroking.gr/) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-01-21_iron-ore-outlook-simandou-supply-china-demand-and-freight-trends_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_44381f4a614a.png)
 
 ### China Demand: Weak Steel Fundamentals Beneath Strong Import Flows
 

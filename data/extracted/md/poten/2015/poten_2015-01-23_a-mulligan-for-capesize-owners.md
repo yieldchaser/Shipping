@@ -34,10 +34,18 @@ More conversions will likely be negotiated, however, at the moment, we don't exp
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: A Mulligan for Capesize Owners?](../../../charts/poten/2015/poten_2015-01-23_a-mulligan-for-capesize-owners_chart1.png)
+![Exhibit 1: Capesize vs Suezmax Spot Earnings](../../../charts/poten/2015/poten_2015-01-23_a-mulligan-for-capesize-owners_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2015/poten_2015-01-23_a-mulligan-for-capesize-owners_chart1.png)
+> **Exhibit 1: Capesize vs Suezmax Spot Earnings**  
+> Unit: $/Day · X-axis: Jan-12 to Oct-14  
+> Series: Capesize, Suezmax  
+> *Source: Baltic Exchange*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2015/poten_2015-01-23_a-mulligan-for-capesize-owners_chart1.png)
 
-![Exhibit 2: A Mulligan for Capesize Owners?](../../../charts/poten/2015/poten_2015-01-23_a-mulligan-for-capesize-owners_chart2.png)
+![Exhibit 2: Capesize (> 120,000 dwt) Orderbook Analysis](../../../charts/poten/2015/poten_2015-01-23_a-mulligan-for-capesize-owners_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2015/poten_2015-01-23_a-mulligan-for-capesize-owners_chart2.png)
+> **Exhibit 2: Capesize (> 120,000 dwt) Orderbook Analysis**  
+> Unit: # Vessels · X-axis: Total Capesize Orderbook to Candidates for Conversion  
+> Series: # Vessels  
+> *Source: Poten and Partners*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2015/poten_2015-01-23_a-mulligan-for-capesize-owners_chart2.png)

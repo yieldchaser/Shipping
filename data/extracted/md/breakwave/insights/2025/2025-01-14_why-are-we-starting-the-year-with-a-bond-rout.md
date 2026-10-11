@@ -40,10 +40,10 @@ Summary
 
 The year started on a negative note for risk assets, for both global equities and bonds. Equities are down 4.5% since their December highs and bonds down 6.5% from their own September highs.
 
-![Market Chart 1](assets/2025-01-14_why-are-we-starting-the-year-with-a-bond-rout_img_image001_b0d74acd1664.png)
+![Market Chart 1](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-01-14_why-are-we-starting-the-year-with-a-bond-rout_img_image001_b0d74acd1664.png)
 
 > **Figure 1: Market Chart 1**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-01-14_why-are-we-starting-the-year-with-a-bond-rout_img_image001_b0d74acd1664.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-01-14_why-are-we-starting-the-year-with-a-bond-rout_img_image001_b0d74acd1664.png)
 
 ### Why Are We Witnessing a Bond Rout?
 
@@ -55,10 +55,10 @@ In the weeks that followed, the Fed tried to moderate the signalling impact of t
 
 In November, the US election resulted in a Republican trifecta, which would allow Mr Trump more room to implement trade tariffs across the board, a move generally considered inflationary. Inflation expectations started climbing faster, and bond prices came down (bonds have fixed payments, so their owners dislike inflation).
 
-![Market Chart 2](assets/2025-01-14_why-are-we-starting-the-year-with-a-bond-rout_img_image002_e4c3077e8e5d.png)
+![Market Chart 2](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-01-14_why-are-we-starting-the-year-with-a-bond-rout_img_image002_e4c3077e8e5d.png)
 
 > **Figure 2: Market Chart 2**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-01-14_why-are-we-starting-the-year-with-a-bond-rout_img_image002_e4c3077e8e5d.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-01-14_why-are-we-starting-the-year-with-a-bond-rout_img_image002_e4c3077e8e5d.png)
 
 In its mid-December meeting the Fed completed its about-turn suggesting that it was now more mindful of inflation. From that point on, equities began to slip as well.
 
@@ -76,18 +76,18 @@ There are many factors aggravating the problem, such as overall policy uncertain
 
 The sharp move in bonds even prompted questions to the UK Chancellor in the House of Commons, dramatizing the situation. Yet, there’s nothing particularly bad about His Majesty’s Government Debt. The spread of the 10yr Gilt and the 10yr Treasury is fairly stable, which suggests that UK debt is following the US. The Pound is weaker vs the Dollar, to be sure, but again that’s due to perceptions of higher inflation in the US. It did take a 1.4% plunge against the Euro, but it’s still 2.5% up since August.
 
-![Market Chart 3](assets/2025-01-14_why-are-we-starting-the-year-with-a-bond-rout_img_image003_7cd2b3bdff0b.png)
+![Market Chart 3](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-01-14_why-are-we-starting-the-year-with-a-bond-rout_img_image003_7cd2b3bdff0b.png)
 
 > **Figure 3: Market Chart 3**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-01-14_why-are-we-starting-the-year-with-a-bond-rout_img_image003_7cd2b3bdff0b.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-01-14_why-are-we-starting-the-year-with-a-bond-rout_img_image003_7cd2b3bdff0b.png)
 
 The UK economy is stable. For 2025 the IMF projects growth of 1.5%, while it downgraded EU’s growth from 1.5% to 1.2%. The UK has a relatively stable government (Germany is faced with elections in February and France is politically unstable), which seems keen to facilitate business growth, even by pressuring regulators to accept more risk.
 
-![Uk’s Extra Problem Is Really Its Debt Structure](assets/2025-01-14_why-are-we-starting-the-year-with-a-bond-rout_img_image004_4f7fc5012313.png)
+![Uk’s Extra Problem Is Really Its Debt Structure](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-01-14_why-are-we-starting-the-year-with-a-bond-rout_img_image004_4f7fc5012313.png)
 
 > **Figure 4: Uk’s Extra Problem Is Really Its Debt Structure**  
 > *The UK’s extra problem is really its debt structure.*  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-01-14_why-are-we-starting-the-year-with-a-bond-rout_img_image004_4f7fc5012313.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-01-14_why-are-we-starting-the-year-with-a-bond-rout_img_image004_4f7fc5012313.png)
 
 As yields and inflation expectations rise, so do inflation-linked Gilts. For the UK this is a particular problem, a quarter of the debt is inflation-linked, more than double that of the next large economy’s, which means that interest payments also rise, limiting fiscal space. This means that the government will need more funding. This can come either from more borrowing or with higher taxes. Borrowing may have been the government’s preference, and could still happen, but with long yields going up, repayments will become onerous, and increasing the supply of UK debt in this market is becoming more difficult.
 

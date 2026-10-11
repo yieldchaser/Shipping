@@ -24,20 +24,22 @@ Refining output will likely take longer to return to pre-hurricane levels mainly
 
 Key infrastructure was also impacted by Hurricane Ida. Some of the key pipelines, such as the Colonial pipeline - which was shut down as a precaution - have reopened, but with many refineries still out, product pipelines could face a lack of product in the future. Most ports in the region, including the Port of New Orleans and Port Fourchon reopened, although only for daylight operations. Portions of the Mississippi River remain closed due a downed power line. According to the Coast Guard, the Louisiana Offshore Oil Port (LOOP) remains closed as well.
 
-The impact on the tanker market of all these events is mixed. It appears to benefit the crude carriers. Especially Aframaxes were in demand, pushing up rates, as can be seen in [Chart 1](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2021/poten_2021-09-03_weathering-the-storm_chart1.png). A number of vessels were stranded, and the continued uncertainty around the Mississippi River has forced charterers to look for alternative terminals and STS options to discharge vessels. The upcoming holiday weekend in the U.S. could add further upward pressure to rates. A return of offshore production could provide a short-term boost to crude oil exports, which were already on an upswing.
+The impact on the tanker market of all these events is mixed. It appears to benefit the crude carriers. Especially Aframaxes were in demand, pushing up rates, as can be seen in [Chart 1](../../../charts/poten/2021/poten_2021-09-03_weathering-the-storm_chart1.png). A number of vessels were stranded, and the continued uncertainty around the Mississippi River has forced charterers to look for alternative terminals and STS options to discharge vessels. The upcoming holiday weekend in the U.S. could add further upward pressure to rates. A return of offshore production could provide a short-term boost to crude oil exports, which were already on an upswing.
 
-> **Exhibit 1: Weathering The Storm (Chart 1)**  
-> *Source: Poten & Partners*  
-> **Interactive Data & Source:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2021/poten_2021-09-03_weathering-the-storm_chart1.png)
+> **Exhibit 1: US Gulf Aframax Freight Market (70Kt Car-USG)**  
+> Unit: TCE (VLSFO) · X-axis: 1-Apr-21 to 2-Sep-21  
+> Series: US Gulf Aframax Freight Market (70Kt Car-USG)  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2021/poten_2021-09-03_weathering-the-storm_chart1.png)
 
-![Exhibit 1: Weathering The Storm](../../../charts/poten/2021/poten_2021-09-03_weathering-the-storm_chart1.png)
+![Exhibit 1: US Gulf Aframax Freight Market (70Kt Car-USG)](../../../charts/poten/2021/poten_2021-09-03_weathering-the-storm_chart1.png)
 
-The situation for Product Tankers is quite different. Rates have declined as there is a surplus of tonnage in the area and no cargoes ([Chart 2](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2021/poten_2021-09-03_weathering-the-storm_chart2.png)). As long as the refineries remain offline, less export cargoes will be available. Under those circumstances, we expect the product tanker market in the USG to stay weak.
+The situation for Product Tankers is quite different. Rates have declined as there is a surplus of tonnage in the area and no cargoes ([Chart 2](../../../charts/poten/2021/poten_2021-09-03_weathering-the-storm_chart2.png)). As long as the refineries remain offline, less export cargoes will be available. Under those circumstances, we expect the product tanker market in the USG to stay weak.
 
-> **Exhibit 2: Weathering The Storm (Chart 2)**  
-> *Source: Poten & Partners*  
-> **Interactive Data & Source:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2021/poten_2021-09-03_weathering-the-storm_chart2.png)
+> **Exhibit 2: US Gulf Product Freight Market (38Kt USG - UKC)**  
+> Unit: TCE (VLSFO) · X-axis: 1-Apr-21 to 2-Sep-21  
+> Series: US Gulf Product Freight Market (38Kt USG - UKC)  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2021/poten_2021-09-03_weathering-the-storm_chart2.png)
 
-![Exhibit 2: Weathering The Storm](../../../charts/poten/2021/poten_2021-09-03_weathering-the-storm_chart2.png)
+![Exhibit 2: US Gulf Product Freight Market (38Kt USG - UKC)](../../../charts/poten/2021/poten_2021-09-03_weathering-the-storm_chart2.png)
 
 The U.S. oil industry is resilient and both production and refining will recover fairly soon. Over the next few weeks we may see some supply/demand imbalances and rate volatility before the market normalizes.

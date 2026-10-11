@@ -29,16 +29,16 @@ In line with exports, China's import trends have notably surged in recent months
 
 China witnessed a significant uptick in coal imports during November as well, marking a solid 20.9 percent increase month-on-month. Buyers capitalized on the opportunity of more affordable imported coal ahead of the winter season. Chinese customs cleared 43.51 million tonnes of coal last month, showcasing a substantial 34.7 percent surge year-on-year. During November, imported coal maintained a price advantage over domestic coal, driving utility companies to increase their purchases. Additionally, a seasonal reduction in hydroelectric power production further bolstered the demand for imports. Analysts from China Coal Transportation and Distribution Association highlighted these factors as contributing to the increased coal demand lately. According to customs data, total coal imports for the first 11 months of the year amounted to 427.14 million tonnes, marking a notable 62.9 percent surge compared to the same period in 2022. Notably, China's coal imports from Australia experienced a 19 percent month-on-month rise during November.
 
-![1a](assets/2023-12-12_an-impactful-film-ending_img_1a_007b939e6b1c.png)
+![1a](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-12-12_an-impactful-film-ending_img_1a_007b939e6b1c.png)
 
 > **Figure 1: 1a**  
-> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-12-12_an-impactful-film-ending_img_1a_007b939e6b1c.png)
+> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-12-12_an-impactful-film-ending_img_1a_007b939e6b1c.png)
 
 In the realm of staple grains, China's import of soybeans surged to 7.92 million metric tonnes in November, marking a 7.8 percent increase year-on-year. Over the first 11 months of the year, the world's leading soybean buyer imported a total of 89.63 million tonnes, reflecting a substantial 13.3 percent surge year-on-year. While Brazil has dominated soybean shipments to China this year, the arrival of US soybeans is anticipated to rebound in the upcoming months. Meanwhile, Brazilian soybean exports have been scaling unprecedented heights, setting new records almost every month, as indicated by LSEG trade flow data. November witnessed Brazil exporting 4.4 million tonnes of soybeans, second only to the 4.9 million tonnes exported in November 2018. A combination of robust Chinese demand, ample supply, competitive pricing, and a strong export momentum has propelled Brazil's soybean industry to remarkable success. China has also been procuring corn at exceptional levels. LSEG flow data reveals that November saw China import 4.2 million metric tonnes, a record high for the month and nearly five times the long-term average. Notably, China has significantly shifted its corn purchases to Brazil, accounting for 83 percent of total imports. Despite China signing 11 agricultural product purchase contracts with US exporters, outstanding corn sales to China have declined to 335 thousand tonnes, in contrast to 1.8 million tonnes from a year ago and 10.7 million tonnes in 2021.
 
-![1](assets/2023-12-12_an-impactful-film-ending_img_1_05cffe745677.png)
+![1](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-12-12_an-impactful-film-ending_img_1_05cffe745677.png)
 
 > **Figure 2: 1**  
-> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-12-12_an-impactful-film-ending_img_1_05cffe745677.png)
+> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-12-12_an-impactful-film-ending_img_1_05cffe745677.png)
 
 Data source:[Doric](https://www.doric.gr/)

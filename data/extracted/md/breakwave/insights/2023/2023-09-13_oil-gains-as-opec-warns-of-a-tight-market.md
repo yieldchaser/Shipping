@@ -23,11 +23,11 @@ source_file: "corpus/03-breakwave/insights/2023/2023-09-13_oil-gains-as-opec-war
 
 A loss in momentum in China’s property sector weighed on industrial metals. Oil gained amid the prospect of tight supplies in coming months.
 
-![Data Source:commodities Wrap](assets/2023-09-13_oil-gains-as-opec-warns-of-a-tight-market_img_1694556588476_198774501591.png)
+![Data Source:commodities Wrap](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-09-13_oil-gains-as-opec-warns-of-a-tight-market_img_1694556588476_198774501591.png)
 
 > **Figure 1: Data Source:commodities Wrap**  
 > *Data source:Commodities Wrap*  
-> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-09-13_oil-gains-as-opec-warns-of-a-tight-market_img_1694556588476_198774501591.png)
+> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-09-13_oil-gains-as-opec-warns-of-a-tight-market_img_1694556588476_198774501591.png)
 
 **Crude oil**rallied to a 10-month high after OPEC forecast a significantly tight market. In its latest monthly outlook, the oil group said the market may experience a shortfall of 3.3mb/d in the fourth quarter of the year. This would make it one of the largest deficits in more than a decade. This comes as Saudi Arabia and the broader OPEC+ alliance implemented production cuts agreed to earlier in the year. Output from the 13 members of OPEC has averaged 27.4mb/d in Q3 2023, roughly 1.8mb/d less than it believes consumers needed. Estimates of demand were largely unchanged from last month. This expected level of tightness was in stark contrast to EIA’s estimate. The US energy group expects a market deficit of only 230kb/d. It also raised its forecast for US supply in 2024 to 13.16mb/d. Brent crude pushed above USD92/bbl, while WTI was also stronger following the reports.
 

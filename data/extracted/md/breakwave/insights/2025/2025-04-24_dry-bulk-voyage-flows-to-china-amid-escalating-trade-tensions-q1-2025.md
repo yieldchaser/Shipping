@@ -24,10 +24,10 @@ source_file: "corpus/03-breakwave/insights/2025/2025-04-24_dry-bulk-voyage-flows
 Snapshot of Spot Freight Rates, Supply-Demand Trends, Port Congestions
 April 23, 2025
 
-![Στιγμιότυπο Οθόνης 2025 04 24 102233](assets/2025-04-24_dry-bulk-voyage-flows-to-china-amid-escalating-trade-tensions-q1-2025_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_fa1cee0b4b89.png)
+![Στιγμιότυπο Οθόνης 2025 04 24 102233](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-04-24_dry-bulk-voyage-flows-to-china-amid-escalating-trade-tensions-q1-2025_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_fa1cee0b4b89.png)
 
 > **Figure 1: Στιγμιότυπο Οθόνης 2025 04 24 102233**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://go.signalocean.com/e/983831/cts-in-2025-1CpmmqaT8ju-p-html/2r2mp3/488812493/h/57cwcipGOoUiIlXmjkNLOC01LYKS4tz0q0iEa1GzjPY) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-04-24_dry-bulk-voyage-flows-to-china-amid-escalating-trade-tensions-q1-2025_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_fa1cee0b4b89.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://go.signalocean.com/e/983831/cts-in-2025-1CpmmqaT8ju-p-html/2r2mp3/488812493/h/57cwcipGOoUiIlXmjkNLOC01LYKS4tz0q0iEa1GzjPY) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-04-24_dry-bulk-voyage-flows-to-china-amid-escalating-trade-tensions-q1-2025_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_fa1cee0b4b89.png)
 
 The first quarter of 2025 has shown mixed signals in China's dry bulk import profile, reflecting commodity-specific trends and the broader strategic shifts underway amid the U.S.-China trade war. The above charts reveal YoY volume comparisons for March 2025 vs. March 2024, highlighting divergent patterns in iron ore, coal, and grain flows to China.
 
@@ -53,10 +53,10 @@ Grain imports have soared, highlighting food security as a critical pillar of Ch
 
 The data reveals a clear shift in China’s commodity sourcing strategy, driven not just by economic and seasonal factors but also by broader strategic realignments amid the ongoing trade war with the U.S. Iron ore and grain imports from Brazil are rising sharply, supporting long-haul dry bulk demand. In contrast, coal imports from Indonesia are falling, signalling a more selective or deliberately redirected approach to procurement.
 
-![Στιγμιότυπο Οθόνης 2025 04 24 102339](assets/2025-04-24_dry-bulk-voyage-flows-to-china-amid-escalating-trade-tensions-q1-2025_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_14068902b889.png)
+![Στιγμιότυπο Οθόνης 2025 04 24 102339](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-04-24_dry-bulk-voyage-flows-to-china-amid-escalating-trade-tensions-q1-2025_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_14068902b889.png)
 
 > **Figure 2: Στιγμιότυπο Οθόνης 2025 04 24 102339**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-04-24_dry-bulk-voyage-flows-to-china-amid-escalating-trade-tensions-q1-2025_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_14068902b889.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-04-24_dry-bulk-voyage-flows-to-china-amid-escalating-trade-tensions-q1-2025_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_14068902b889.png)
 
 Sentiment in the Capesize freight market is softening amid a rising number of ballasters, while recent indicators suggest a weakening outlook for the Handy NOPAC Far East market.
 
@@ -65,10 +65,10 @@ Sentiment in the Capesize freight market is softening amid a rising number of ba
 - **Supramax**vessel freight rates on the Indonesia–East Coast India (ECI) route remained steady at around $9 per tonne, registering a modest 1.4% month-on-month decline.
 - **Handysize**freight rates for the NOPAC Far East route slipped slightly below $29 per tonne, recording a 9% decline month-on-month.
 
-![Στιγμιότυπο Οθόνης 2025 04 24 102618](assets/2025-04-24_dry-bulk-voyage-flows-to-china-amid-escalating-trade-tensions-q1-2025_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_fb548a7d34e0.png)
+![Στιγμιότυπο Οθόνης 2025 04 24 102618](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-04-24_dry-bulk-voyage-flows-to-china-amid-escalating-trade-tensions-q1-2025_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_fb548a7d34e0.png)
 
 > **Figure 3: Στιγμιότυπο Οθόνης 2025 04 24 102618**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-04-24_dry-bulk-voyage-flows-to-china-amid-escalating-trade-tensions-q1-2025_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_fb548a7d34e0.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-04-24_dry-bulk-voyage-flows-to-china-amid-escalating-trade-tensions-q1-2025_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_fb548a7d34e0.png)
 
 Recent ballaster indicators highlight sharp increases in Supramax activity across Southeast Asia and Handy vessels in the North Pacific, while Capesize levels in Southeast Africa hold their upward trend.
 
@@ -77,10 +77,10 @@ Recent ballaster indicators highlight sharp increases in Supramax activity acros
 - **Supramax SE Asia**: The current trend shows a continuous upward movement starting from the end of week 15. As of now, recent levels have crossed the 100 mark and continue to remain above it.
 - **Handysize NOPAC**: The Handy NOPAC segment's levels have increased to 100, continuing an upward trend that began at the end of week 11.
 
-![Στιγμιότυπο Οθόνης 2025 04 24 102735](assets/2025-04-24_dry-bulk-voyage-flows-to-china-amid-escalating-trade-tensions-q1-2025_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_6338a11f35dd.png)
+![Στιγμιότυπο Οθόνης 2025 04 24 102735](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-04-24_dry-bulk-voyage-flows-to-china-amid-escalating-trade-tensions-q1-2025_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_6338a11f35dd.png)
 
 > **Figure 4: Στιγμιότυπο Οθόνης 2025 04 24 102735**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-04-24_dry-bulk-voyage-flows-to-china-amid-escalating-trade-tensions-q1-2025_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_6338a11f35dd.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-04-24_dry-bulk-voyage-flows-to-china-amid-escalating-trade-tensions-q1-2025_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_6338a11f35dd.png)
 
 The final week of April was characterised by a slowdown in the growth of tonne-days across all vessel size categories.
 
@@ -89,10 +89,10 @@ The final week of April was characterised by a slowdown in the growth of tonne-d
 - **Supramax**: Although the growth rate remained above the low seen in Week 11, a slight downward revision was observed ahead of month-end.
 - **Handysize**: Its growth rate has shown a gradual decline in the second half of the month, following a final spike observed in Week 13.
 
-![Στιγμιότυπο Οθόνης 2025 04 24 103001](assets/2025-04-24_dry-bulk-voyage-flows-to-china-amid-escalating-trade-tensions-q1-2025_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_4089dac92e59.png)
+![Στιγμιότυπο Οθόνης 2025 04 24 103001](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-04-24_dry-bulk-voyage-flows-to-china-amid-escalating-trade-tensions-q1-2025_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_4089dac92e59.png)
 
 > **Figure 5: Στιγμιότυπο Οθόνης 2025 04 24 103001**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-04-24_dry-bulk-voyage-flows-to-china-amid-escalating-trade-tensions-q1-2025_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_4089dac92e59.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-04-24_dry-bulk-voyage-flows-to-china-amid-escalating-trade-tensions-q1-2025_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_4089dac92e59.png)
 
 Dry bulk port congestion in China saw a downward revision just days before month-end, following a spike observed the previous week.
 

@@ -62,6 +62,14 @@ When taking a fundamental approach to the market, it is easier to see that the p
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: Beyond Fundamentals](../../../charts/poten/2007/poten_2007-10-19_beyond-fundamentals_chart1.png)
+> **Chart on PDF page 1: WTI Prices**  
+> Unit: $/bbl · X-axis: Jan to Dec  
+> Series: 2006, 2007  
+> *Source: EIA*  
+> *No image crop of this chart was saved; caption read from the PDF.*
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2007/poten_2007-10-19_beyond-fundamentals_chart1.png)
+> **Chart on PDF page 2: Crude Stocks and Supply**  
+> Unit: Crude Oil Stocks (000 barrels) | Number of Days Supply · X-axis: Jan-07 to Sep-07  
+> Series: Crude Stocks, Days Supply  
+> *Source: EIA*  
+> *No image crop of this chart was saved; caption read from the PDF.*

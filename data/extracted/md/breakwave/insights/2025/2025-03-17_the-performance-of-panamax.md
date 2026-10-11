@@ -36,10 +36,10 @@ China’s aggressive stockpiling and high crush rates to meet livestock feed dem
 
 In essence, the Panamax segment’s resurgence reflects a broader shift in global grain dynamics. While geopolitical tensions and trade disputes have disrupted traditional trade flows, they have simultaneously opened new opportunities for Brazil’s agricultural sector and provided fresh momentum for Panamax vessels. With the grain season in full swing and demand gaining momentum, the Panamax segment appears to be breaking free from the sluggish conditions of the first quarter. Whether this positive momentum will be sustained remains to be seen, but the current market dynamics suggest a more buoyant outlook for the months ahead.
 
-![Στιγμιότυπο Οθόνης 2025 03 17 101145](assets/2025-03-17_the-performance-of-panamax_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_22859037edee.png)
+![Στιγμιότυπο Οθόνης 2025 03 17 101145](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-03-17_the-performance-of-panamax_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_22859037edee.png)
 
 > **Figure 1: Στιγμιότυπο Οθόνης 2025 03 17 101145**  
-> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-03-17_the-performance-of-panamax_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_22859037edee.png)
+> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-03-17_the-performance-of-panamax_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_22859037edee.png)
 
 Data source:[Doric](https://www.doric.gr/)
 

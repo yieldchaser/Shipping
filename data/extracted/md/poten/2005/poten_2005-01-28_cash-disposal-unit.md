@@ -126,6 +126,3 @@ In our opinion, the only dangerous strategy is for the tanker industry to double
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: Cash Disposal Unit](../../../charts/poten/2005/poten_2005-01-28_cash-disposal-unit_chart1.png)
-
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2005/poten_2005-01-28_cash-disposal-unit_chart1.png)

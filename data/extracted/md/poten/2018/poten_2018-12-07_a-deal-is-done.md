@@ -28,10 +28,18 @@ So, what will happen to tanker rates this time around? While psychology may put 
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: A Deal Is Done](../../../charts/poten/2018/poten_2018-12-07_a-deal-is-done_chart1.png)
+![Exhibit 1: Brent Crude Oil Price](../../../charts/poten/2018/poten_2018-12-07_a-deal-is-done_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2018/poten_2018-12-07_a-deal-is-done_chart1.png)
+> **Exhibit 1: Brent Crude Oil Price**  
+> Unit: $/bbl · X-axis: Jan-14 to Jul-18  
+> Series: Brent Crude Oil Price  
+> *Source: EIA*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2018/poten_2018-12-07_a-deal-is-done_chart1.png)
 
-![Exhibit 2: A Deal Is Done](../../../charts/poten/2018/poten_2018-12-07_a-deal-is-done_chart2.png)
+![Exhibit 2: Middle East OPEC Production vs TD3c TCE](../../../charts/poten/2018/poten_2018-12-07_a-deal-is-done_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2018/poten_2018-12-07_a-deal-is-done_chart2.png)
+> **Exhibit 2: Middle East OPEC Production vs TD3c TCE**  
+> Unit: Mb/d | $/d · X-axis: Jan-14 to Oct-18  
+> Series: ME OPEC, ME OPEC Cuts, TCE  
+> *Source: Poten & Partners, IEA*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2018/poten_2018-12-07_a-deal-is-done_chart2.png)

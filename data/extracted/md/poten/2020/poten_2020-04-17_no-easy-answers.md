@@ -32,10 +32,18 @@ What does this mean for oil tankers? In the short-term production cuts are alway
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: No Easy Answers](../../../charts/poten/2020/poten_2020-04-17_no-easy-answers_chart1.png)
+![Exhibit 1: Supply - Demand Balance](../../../charts/poten/2020/poten_2020-04-17_no-easy-answers_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2020/poten_2020-04-17_no-easy-answers_chart1.png)
+> **Exhibit 1: Supply - Demand Balance**  
+> Unit: Mb/d · X-axis: Jan-19 to Nov-21  
+> Series: Total Demand, Total Production - Base, Total Production W OPEC+ Cuts  
+> *Source: EIA, Poten & Partners*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2020/poten_2020-04-17_no-easy-answers_chart1.png)
 
-![Exhibit 2: No Easy Answers](../../../charts/poten/2020/poten_2020-04-17_no-easy-answers_chart2.png)
+![Exhibit 2: Inventory Development](../../../charts/poten/2020/poten_2020-04-17_no-easy-answers_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2020/poten_2020-04-17_no-easy-answers_chart2.png)
+> **Exhibit 2: Inventory Development**  
+> Unit: MB/d | Mbbl · X-axis: Jan-20 to Nov-21  
+> Series: Inventory Addition / (Draw) w. Cuts, Inventory Addition / (Draw) (Base), Cumulative Inv. (w. Cuts), Cumulative Inv. (Base)  
+> *Source: EIA, Poten & Partners*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2020/poten_2020-04-17_no-easy-answers_chart2.png)

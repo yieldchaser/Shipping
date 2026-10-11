@@ -32,7 +32,7 @@ tags:
 
 > **Figure 1: Data Source: The Signal Ocean Platform Data**  
 > *Data Source: The Signal Ocean Platform Data*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/dry-week-30-2023) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/64bfe7ea0a9772056dd337c8_capesize chart of the week.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/dry-week-30-2023) | [Local Asset](../../../../../../corpus/07-signal/images/64bfe7ea0a9772056dd337c8_capesize%20chart%20of%20the%20week.png)
 
 The last days of July are still quiet with a weaker sentiment of freight rates in all size classes, while all eyes are on the Black Sea grain market after Russia decided to not extend the agreement  that allows the safe shipment of Ukrainian grain through the Black Sea ports.
 

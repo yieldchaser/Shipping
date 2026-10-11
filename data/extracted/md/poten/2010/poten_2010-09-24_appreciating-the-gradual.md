@@ -40,6 +40,16 @@ For more information about the study, please click here.
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: Appreciating the Gradual](../../../charts/poten/2010/poten_2010-09-24_appreciating-the-gradual_chart1.png)
+![Exhibit 1: U.S. Trade in Goods with China](../../../charts/poten/2010/poten_2010-09-24_appreciating-the-gradual_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2010/poten_2010-09-24_appreciating-the-gradual_chart1.png)
+> **Exhibit 1: U.S. Trade in Goods with China**  
+> Unit: billions of U.S. dollars · X-axis: 1985 to 2010  
+> Series: U.S. exports to China, U.S. imports from China  
+> *Source: U.S. Census Bureau and Economic Policy Institute*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2010/poten_2010-09-24_appreciating-the-gradual_chart1.png)
+
+> **Chart on PDF page 1: USD / CNY Exchange Rate**  
+> Unit: Yuan per USD · X-axis: 1/1/2007 to 7/1/2010  
+> Series: USD / CNY Exchange Rate  
+> *Source: Bloomberg*  
+> *No image crop of this chart was saved; caption read from the PDF.*

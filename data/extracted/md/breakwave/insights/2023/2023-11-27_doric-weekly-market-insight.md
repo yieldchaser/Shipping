@@ -19,16 +19,16 @@ source_file: "corpus/03-breakwave/insights/2023/2023-11-27_doric-weekly-market-i
 
 ---
 
-![Homepage+banner+1 (1)](assets/2023-11-27_doric-weekly-market-insight_img_homepage2bbanner2b128129_5d7211685255.png)
+![Homepage+banner+1 (1)](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-11-27_doric-weekly-market-insight_img_homepage2bbanner2b128129_5d7211685255.png)
 
 > **Figure 1: Homepage+banner+1 (1)**  
-> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/breakwave-day-2023) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-11-27_doric-weekly-market-insight_img_homepage2bbanner2b128129_5d7211685255.png)
+> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/breakwave-day-2023) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-11-27_doric-weekly-market-insight_img_homepage2bbanner2b128129_5d7211685255.png)
 
-[![Bymichalis Voutsinas](assets/2023-11-27_doric-weekly-market-insight_img_homepage2bbutton28129_1d014100cc65.png)
+[![Bymichalis Voutsinas](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-11-27_doric-weekly-market-insight_img_homepage2bbutton28129_1d014100cc65.png)
 
 > **Figure 2: Bymichalis Voutsinas**  
 > *ByMichalis Voutsinas*  
-> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/in/michalis-voutsinas-587544163/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-11-27_doric-weekly-market-insight_img_homepage2bbutton28129_1d014100cc65.png)](https://www.breakwaveadvisors.com/breakwave-day-2023)
+> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/in/michalis-voutsinas-587544163/) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-11-27_doric-weekly-market-insight_img_homepage2bbutton28129_1d014100cc65.png)](https://www.breakwaveadvisors.com/breakwave-day-2023)
 
 ## “With Hang Seng Mainland Properties Index Reporting Gains at Last, Iron Ore Prices Galloping and Capesize Spot Market Rocketing on Friday, Hopes Have Resurfaced That Light Can Be Cast Over the Shadow of the Property Crisis in China in the Next Year.”
 
@@ -40,23 +40,23 @@ Contrarily, iron ore futures experienced their fifth consecutive weekly gain on 
 
 Last month, China revealed a plan to issue 1 trillion yuan ($139 billion) in sovereign bonds by the year's end. This initiative is part of a broader strategy that includes increasing the 2023 budget deficit target to 3.8 percent of the gross domestic product (GDP), up from the initial 3 percent target. China's government advisers call for a steady growth target in 2024 when more fiscal policy support is expected to keep long-term development goals on track, Reuters reported.
 
-![1](assets/2023-11-27_doric-weekly-market-insight_img_1_d2089a1814f4.png)
+![1](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-11-27_doric-weekly-market-insight_img_1_d2089a1814f4.png)
 
 > **Figure 3: 1**  
-> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-11-27_doric-weekly-market-insight_img_1_d2089a1814f4.png)
+> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-11-27_doric-weekly-market-insight_img_1_d2089a1814f4.png)
 
 In light of rumours that Chinese authorities have compiled a list of 50 real estate developers for funding support, iron ore prices surged to new highs this week. According to reports from Bloomberg, Country Garden Holdings Co. and Sino-Ocean Group are included in China's draft list, indicating a shift by Beijing to assist some of the country's most distressed builders. This move is expected to support steel demand from the construction sector, especially during the seasonal weakest period for construction activity in the first quarter of the next year. Bloomberg Intelligence's gauge of developer stocks has risen on expectations that this financial aid will alleviate concerns of further contagion in China's property sector. Furthermore, the Hang Seng Mainland Properties index, tracking Chinese developers, rose by 4.3 percent on Thursday, contributing to weekly gains of 9.1 percent. In reference to specific developers, Country Garden is yet to unveil its restructuring plan but its Hong Kong shares are up more than 60 percent this month. Distressed Chinese builder’s shares in Hong Kong rallied 24 percent Thursday to cap their best day in a year. Its 5.625%-dollar bond due 2030 gained another 10 percent after jumping 40 percent in the previous session, according to Bloombergcompiled data. The positive momentum extends even to Evergrande, with its stock price on an upward trajectory over the past few weeks.
 
-![1ceb1](assets/2023-11-27_doric-weekly-market-insight_img_1ceb1_0d8a34e8325f.png)
+![1ceb1](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-11-27_doric-weekly-market-insight_img_1ceb1_0d8a34e8325f.png)
 
 > **Figure 4: 1ceb1**  
-> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-11-27_doric-weekly-market-insight_img_1ceb1_0d8a34e8325f.png)
+> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-11-27_doric-weekly-market-insight_img_1ceb1_0d8a34e8325f.png)
 
 With Hang Seng Mainland Properties index reporting gains at last, iron ore prices galloping and Capesize spot market rocketing on Friday, hopes have resurfaced that light can be cast over the shadow of the property crisis in China in the next year.
 
-![1ceb2](assets/2023-11-27_doric-weekly-market-insight_img_1ceb2_b13d6464947c.png)
+![1ceb2](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-11-27_doric-weekly-market-insight_img_1ceb2_b13d6464947c.png)
 
 > **Figure 5: 1ceb2**  
-> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-11-27_doric-weekly-market-insight_img_1ceb2_b13d6464947c.png)
+> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-11-27_doric-weekly-market-insight_img_1ceb2_b13d6464947c.png)
 
 Data source:[Doric](https://www.doric.gr/)

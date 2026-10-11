@@ -22,11 +22,11 @@ source_file: "corpus/03-breakwave/insights/2020/2020-11-27_china-to-increase-coa
 
 *By Ulf Bergman*
 
-![Coal Price](assets/2020-11-27_china-to-increase-coal-imports-from-indonesia_img_ship19_27f3d0a7611d.jpg)
+![Coal Price](../../../../../../corpus/03-breakwave/insights/2020/assets/2020-11-27_china-to-increase-coal-imports-from-indonesia_img_ship19_27f3d0a7611d.jpg)
 
 > **Figure 1: Coal Price**  
 > *Coal price, USD/ton*  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2020/assets/2020-11-27_china-to-increase-coal-imports-from-indonesia_img_ship19_27f3d0a7611d.jpg)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2020/assets/2020-11-27_china-to-increase-coal-imports-from-indonesia_img_ship19_27f3d0a7611d.jpg)
 
 As widely reported, there is currently a large flotilla of vessels laden with Australian coal at anchor of the Chinese coast. Around six million tonnes are currently awaiting to be discharged in Chinese ports, but with the ongoing political tensions between China and Australia showing no immediate signs of improvement, it looks very likely that the vessels will remain anchored were they are for some time. The Australian Prime Minister appears to be seeking a resolution to the problems causing many Australian cargoes to be trapped at sea, but success in the short-term looks rather unlikely.
 
@@ -38,10 +38,10 @@ It is also interesting to note that the agreed increase in purchases of Indonesi
 
 However, in the short-term, China is likely to increase its imports of coal, according to a report by Wood Mackenzie. The company expects seaborne imports of thermal coal to be around twenty million tonnes in December, which is thirteen percent above the monthly average for the year so far. In addition, January is forecast to be colder than usual and likely to increase demand for coal in China.
 
-![Ulf 81](assets/2020-11-27_china-to-increase-coal-imports-from-indonesia_img_ulf81_de4e51af3ff2.jpg)
+![Ulf 81](../../../../../../corpus/03-breakwave/insights/2020/assets/2020-11-27_china-to-increase-coal-imports-from-indonesia_img_ulf81_de4e51af3ff2.jpg)
 
 > **Figure 2: Ulf 81**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2020/assets/2020-11-27_china-to-increase-coal-imports-from-indonesia_img_ulf81_de4e51af3ff2.jpg)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2020/assets/2020-11-27_china-to-increase-coal-imports-from-indonesia_img_ulf81_de4e51af3ff2.jpg)
 
 An increase in Chinese demand for imported thermal coal is likely to be supportive of coal prices, which have already rallied from the lows seen in September. With Australian coal imports banned, it remains to be seen what the source for additional volumes would be. However, with year-to-date imports from Indonesia around 25 percent lower than last year, the country could be a likely candidate. A late year boost in Chinese demand for seaborne coal would also be supportive of freight rates.
 

@@ -26,10 +26,18 @@ The impact of the shale oil boom is increasingly felt in the tanker industry. Th
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: The Permian Is Percolating](../../../charts/poten/2017/poten_2017-09-29_the-permian-is-percolating_chart1.png)
+![Exhibit 1: U.S. Light Tight Oil Production](../../../charts/poten/2017/poten_2017-09-29_the-permian-is-percolating_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2017/poten_2017-09-29_the-permian-is-percolating_chart1.png)
+> **Exhibit 1: U.S. Light Tight Oil Production**  
+> Unit: MB/d · X-axis: Jan-08 to Jan-17  
+> Series: Bakken, Niobrara, Permian, Eagle Ford, Other  
+> *Source: EIA*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2017/poten_2017-09-29_the-permian-is-percolating_chart1.png)
 
-![Exhibit 2: The Permian Is Percolating](../../../charts/poten/2017/poten_2017-09-29_the-permian-is-percolating_chart2.png)
+![Exhibit 2: U.S. Crude Oil Exports](../../../charts/poten/2017/poten_2017-09-29_the-permian-is-percolating_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2017/poten_2017-09-29_the-permian-is-percolating_chart2.png)
+> **Exhibit 2: U.S. Crude Oil Exports**  
+> Unit: Kb/d · X-axis: Jan-16 to Sep-17  
+> Series: U.S. Crude Oil Exports  
+> *Source: EIA*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2017/poten_2017-09-29_the-permian-is-percolating_chart2.png)

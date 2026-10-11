@@ -40,19 +40,19 @@ Graphs 1 and 2 with[**The Signal Ocean Platform**](https://www.thesignalgroup.co
 
 In the tanker segment, (Graph 1) we can see the importance of the Aframax segment in Russian exports, actually amounting to 47% share of the total at the ports Primorsk, Ust-Luga grasped and 30% at Novorossiysk. It is interesting to note that at the Kozmino, the Aftamax size grasped the 90% share of cargoes, while at the other ports of Vysotsk, Saint Perterburg, Kavkaz, Obskaya Bay, MR1 tankers held the lion share of activity with percentages of 60%, 70% 40% and 86% respectively.
 
-![Year 2021](assets/2022-03-02_us-response-to-russian-invasion-with-sanctions-on-shipping_img_ch1_16e6b0ac26f1.png)
+![Year 2021](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-03-02_us-response-to-russian-invasion-with-sanctions-on-shipping_img_ch1_16e6b0ac26f1.png)
 
 > **Figure 1: Year 2021**  
 > *Graph 1: Signal Ocean Data| Year 2021, Cargoes Activity, Per Tanker Vessel Size and Port, Russian Federation*  
-> **Interactive Data & Source:** [Nepia](https://www.nepia.com/industry-news/russia-ukraine-military-action-impact-on-shipping/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-03-02_us-response-to-russian-invasion-with-sanctions-on-shipping_img_ch1_16e6b0ac26f1.png)
+> **Interactive Data & Source:** [Nepia](https://www.nepia.com/industry-news/russia-ukraine-military-action-impact-on-shipping/) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-03-02_us-response-to-russian-invasion-with-sanctions-on-shipping_img_ch1_16e6b0ac26f1.png)
 
 In the bulker segment, (Graph 2) we see that the Capesize size has a minor share in the cargo flows per Russian port, while smaller vessel sizes, Handysize - Supramax along with the Panamax are heavily influenced by the activity of coal, grain and other minor dry cargoes mainly at Ust-Luga and Novorossiysk. The below graph indicates about 20% share of cargoes for the Supramax vessels at Novorossiysk, while for Handysize vessels is 60%.
 
-![Year 2021](assets/2022-03-02_us-response-to-russian-invasion-with-sanctions-on-shipping_img_ch2_1a1e4c273d16.png)
+![Year 2021](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-03-02_us-response-to-russian-invasion-with-sanctions-on-shipping_img_ch2_1a1e4c273d16.png)
 
 > **Figure 2: Year 2021**  
 > *Graph 2: Signal Ocean Data| Year 2021, Cargoes Activity, Per Vessel Size and Port, Russian Federation*  
-> **Interactive Data & Source:** [Nepia](https://www.nepia.com/industry-news/russia-ukraine-military-action-impact-on-shipping/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-03-02_us-response-to-russian-invasion-with-sanctions-on-shipping_img_ch2_1a1e4c273d16.png)
+> **Interactive Data & Source:** [Nepia](https://www.nepia.com/industry-news/russia-ukraine-military-action-impact-on-shipping/) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-03-02_us-response-to-russian-invasion-with-sanctions-on-shipping_img_ch2_1a1e4c273d16.png)
 
 Given the above influence of cargo flows on vessel sizes per port, our below analysis monitors the freight market situation on the tanker Aframax size, where we see an intense level of impact in the Baltic freight rates and supply trend at Primorsk, Kozmino and Novorossiysk. In the bulker segment, the Supramax size is in the spotlight with Med/Black Sea to Far East supply trend in a rapid decrease and high volatility on freight rates under the fears of grain disruptions.
 
@@ -62,27 +62,27 @@ The last few days we experienced a stronger momentum of tanker rates in the Afra
 
 Image 1 from the The Signal Ocean Platform visualizes the rapid acceleration of rates in the period of one week in the Baltic route with the supply of ships on decrease. The supply trend monitors the number of vessels with max ETA in the next 14 days at the load port of Novorossiysk, Russian Federation and latest AIS signs of five days.
 
-![Aframax Supply Trend](assets/2022-03-02_us-response-to-russian-invasion-with-sanctions-on-shipping_img_ch3_bc7a9046f382.png)
+![Aframax Supply Trend](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-03-02_us-response-to-russian-invasion-with-sanctions-on-shipping_img_ch3_bc7a9046f382.png)
 
 > **Figure 3: Aframax Supply Trend**  
 > *Image 1: Signal Ocean Data| Aframax Supply Trend, Novorossiysk, Russian Federation, Market Deployment: Relet-Spot, Afra-Baltic Rates, Commercial Status: Available, Max ETA 6 days, Latest AIS since 5 days*  
-> **Interactive Data & Source:** [Nepia](https://www.nepia.com/industry-news/russia-ukraine-military-action-impact-on-shipping/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-03-02_us-response-to-russian-invasion-with-sanctions-on-shipping_img_ch3_bc7a9046f382.png)
+> **Interactive Data & Source:** [Nepia](https://www.nepia.com/industry-news/russia-ukraine-military-action-impact-on-shipping/) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-03-02_us-response-to-russian-invasion-with-sanctions-on-shipping_img_ch3_bc7a9046f382.png)
 
 The availability of ships at base loading ports of Primorsk, Kozmino with ETA in the next 10 days implies that there is a potential of around 16% removal of vessels of Russian interests at Primorsk, 7% at Kozmino. It is interesting that at the current availability of vessels at Novorossiysk, there is 0% with vessels of Russian interests. The current supply trend with the percentages of capacity removals is a strong signal that could lead Aframax freight rates to new highs in the next few days.
 
-![Supply](assets/2022-03-02_us-response-to-russian-invasion-with-sanctions-on-shipping_img_ch4_aa170b5833b6.png)
+![Supply](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-03-02_us-response-to-russian-invasion-with-sanctions-on-shipping_img_ch4_aa170b5833b6.png)
 
 > **Figure 4: Supply**  
 > *Graph 3: Signal Ocean Data| Supply, Market Deployment: Spot, Relet, ETA next 10 days, Latest AIS since 5 days*  
-> **Interactive Data & Source:** [Nepia](https://www.nepia.com/industry-news/russia-ukraine-military-action-impact-on-shipping/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-03-02_us-response-to-russian-invasion-with-sanctions-on-shipping_img_ch4_aa170b5833b6.png)
+> **Interactive Data & Source:** [Nepia](https://www.nepia.com/industry-news/russia-ukraine-military-action-impact-on-shipping/) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-03-02_us-response-to-russian-invasion-with-sanctions-on-shipping_img_ch4_aa170b5833b6.png)
 
 In the scenario of U.S. sanctions on Russian energy exports, Europe and the U.S. will need to replace the supply scarcity with other sources that eventually will increase the demand ton miles growth and sustain the euphoria of freight rates. Looking at the current evolution of demand, tondays growth we can see in image 2 with The Signal Ocean Platform data that there is an already an increasing pace compared to the lows before the Russian invasion and the upward trend is going to meet the highs of a similar period last year.
 
-![Aframax Demand TonDays Trend](assets/2022-03-02_us-response-to-russian-invasion-with-sanctions-on-shipping_img_ch5_67c04a51de44.png)
+![Aframax Demand TonDays Trend](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-03-02_us-response-to-russian-invasion-with-sanctions-on-shipping_img_ch5_67c04a51de44.png)
 
 > **Figure 5: Aframax Demand TonDays Trend**  
 > *Image 2: Signal Ocean Data| Aframax Demand Tondays Trend, 2022-2021, Dirty, The TonDays time-series graph presents the laden days of the seagoing and stopped vessels for the user-selected vessel class range that have loaded (Area From) and discharged (Area To) the selected areas. This graph shows the 7 days moving average (MA) of the time series.We define TonDays = Deadweight * VoyageDays and so TonDaysPerDay = TonDays / VoyageDays, where VoyageDays = LastDischargeSailingDate - FirstLoadStartTimeOfOperation.To compute the TonDays time-series, we aggregate for each day the TonDaysPerDay for all the seagoing and stopped vessels.*  
-> **Interactive Data & Source:** [Nepia](https://www.nepia.com/industry-news/russia-ukraine-military-action-impact-on-shipping/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-03-02_us-response-to-russian-invasion-with-sanctions-on-shipping_img_ch5_67c04a51de44.png)
+> **Interactive Data & Source:** [Nepia](https://www.nepia.com/industry-news/russia-ukraine-military-action-impact-on-shipping/) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-03-02_us-response-to-russian-invasion-with-sanctions-on-shipping_img_ch5_67c04a51de44.png)
 
 Overall, we can say that the impact on the freight market seems significant for the crude supply of ships in the aframax size for the Baltic Area and demand ton-days growth as the US and Europe is likely to need to replace around 4million barrels/day in the case of U.S. sanctions on Russian energy exports.
 
@@ -94,11 +94,11 @@ The restrictions on Black Sea ports are uncertain when they will be relaxed with
 
 Image 3 with The Signal Ocean Platform data visualizes the performance of Supramax freight rates in the Med/Black Sea over the last days before and after the Russian-Ukrainian war tensions and we can easily see that the sentiment improved significantly after mid-February with the supply evolution of ships at less than 90 vessels. The supply trend at Novo signaled a rapid decrease to around 50 ships, while there is a downward direction of rates as shipowners are avoiding to send their ships at ports of high risk.
 
-![Supramax Med/bsea - Far East Market Rates and Supply Trend](assets/2022-03-02_us-response-to-russian-invasion-with-sanctions-on-shipping_img_ch6_7f1dc278589d.png)
+![Supramax Med/bsea - Far East Market Rates and Supply Trend](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-03-02_us-response-to-russian-invasion-with-sanctions-on-shipping_img_ch6_7f1dc278589d.png)
 
 > **Figure 6: Supramax Med/bsea - Far East Market Rates and Supply Trend**  
 > *Image 3: Signal Ocean Data| Supramax Med/BSea - Far East Market Rates and Supply Trend*  
-> **Interactive Data & Source:** [Foxbusiness](https://www.foxbusiness.com/economy/china-confirms-it-has-lifted-wheat-import-restrictions-on-russia) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-03-02_us-response-to-russian-invasion-with-sanctions-on-shipping_img_ch6_7f1dc278589d.png)
+> **Interactive Data & Source:** [Foxbusiness](https://www.foxbusiness.com/economy/china-confirms-it-has-lifted-wheat-import-restrictions-on-russia) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-03-02_us-response-to-russian-invasion-with-sanctions-on-shipping_img_ch6_7f1dc278589d.png)
 
 What’s next to be considered as a critical point in the grain market is the potential of sanctions on Russian grain exports, then the key import destination will be China that will lead to an increase in ton miles demand growth for dry bulkers and new increase of rates. At this point, we need to highlight that[**China**](https://www.foxbusiness.com/economy/china-confirms-it-has-lifted-wheat-import-restrictions-on-russia)has already announced on Thursday that it is lifting the wheat import restrictions on Russia.
 

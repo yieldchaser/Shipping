@@ -34,6 +34,16 @@ So the recent developments in the oil market have not been so scary after all fo
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: Asian Oil Demand - Trick or Treat?](../../../charts/poten/2014/poten_2014-10-31_asian-oil-demand-trick-or-treat_chart1.png)
+![Exhibit 1: Crude Oil Imports into India and China](../../../charts/poten/2014/poten_2014-10-31_asian-oil-demand-trick-or-treat_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2014/poten_2014-10-31_asian-oil-demand-trick-or-treat_chart1.png)
+> **Exhibit 1: Crude Oil Imports into India and China**  
+> Unit: 1,000 mbd · X-axis: Apr2002 to Aug2014  
+> Series: China, India, 6 per. Mov. Avg. (China), 6 per. Mov. Avg. (India)  
+> *Source: JODI*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2014/poten_2014-10-31_asian-oil-demand-trick-or-treat_chart1.png)
+
+> **Chart on PDF page 1: VLCC and Suezmax Spot TCE's AG-East 2014 YTD**  
+> Unit: US$/day · X-axis: 01/03/2014 to 10/10/2014  
+> Series: VLCC: Ras Tanura - Chiba, Suezmax: Ras Tanura - Singapore  
+> *Source: Poten*  
+> *No image crop of this chart was saved; caption read from the PDF.*

@@ -26,10 +26,10 @@ Overall dry bulk rates climbed last week, with all but capesize rates ending up 
 
 For the panamax market, of note is that South American spot grain cargo volume jumped last week. South American spot grain cargo volume normally slows by this time of year, but this year has seen a longer than normal South American peak grain export season as we have continued to discuss in Commodore Research's Weekly Executive Reports.
 
-![Chart](assets/2025-08-28_panamaxes-finding-strength_img_chart_d9d46c79f509.jpg)
+![Chart](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-08-28_panamaxes-finding-strength_img_chart_d9d46c79f509.jpg)
 
 > **Figure 1: Chart**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-08-28_panamaxes-finding-strength_img_chart_d9d46c79f509.jpg)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-08-28_panamaxes-finding-strength_img_chart_d9d46c79f509.jpg)
 
 At the same time that South America’s peak grain export season has stretched on longer than usual, also new is that China’s coal import demand is finally strengthening. As we have been highlighting in Commodore Research's recent Weekly Executive Reports and Weekly China Reports, China’s domestic coal output has finally re-entered contraction, and China’s coal-derived electricity generation has also finally been faring better than domestic coal output again. The dynamics governing China’s coal import demand have become greatly improved. Overall, the shift in Chinese coal market dynamics and extended South American peak grain export season continue to lend significant support to the panamax sector.
 

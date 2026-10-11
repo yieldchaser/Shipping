@@ -24,10 +24,10 @@ source_file: "corpus/03-breakwave/insights/2025/2025-02-26_capesize-south-atlant
 Snapshot of Spot Freight Rates, Supply-Demand Trends, Port Congestions
 February 26, 2025
 
-![Στιγμιότυπο Οθόνης 2025 02 26 104451](assets/2025-02-26_capesize-south-atlantic-ballasters-vs-baltic-rates_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_0f5e7ce3999c.png)
+![Στιγμιότυπο Οθόνης 2025 02 26 104451](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-02-26_capesize-south-atlantic-ballasters-vs-baltic-rates_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_0f5e7ce3999c.png)
 
 > **Figure 1: Στιγμιότυπο Οθόνης 2025 02 26 104451**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://go.signalocean.com/e/983831/s-iron-ore-port-stocks-dip-03-/2qxmwx/472118478/h/g9HIIDpK4qpokbJWttczvA-o8_vDE8zVWNOgPlAeLWI) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-02-26_capesize-south-atlantic-ballasters-vs-baltic-rates_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_0f5e7ce3999c.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://go.signalocean.com/e/983831/s-iron-ore-port-stocks-dip-03-/2qxmwx/472118478/h/g9HIIDpK4qpokbJWttczvA-o8_vDE8zVWNOgPlAeLWI) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-02-26_capesize-south-atlantic-ballasters-vs-baltic-rates_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_0f5e7ce3999c.png)
 
 Recent observations indicate that[imported iron ore stocks](https://go.signalocean.com/e/983831/s-iron-ore-port-stocks-dip-03-/2qxmwx/472118478/h/g9HIIDpK4qpokbJWttczvA-o8_vDE8zVWNOgPlAeLWI)at China’s major ports have seen a slight decrease, dropping by 529,900 tonnes, or 0.3% week-on-week, to a total of 153.4 million tonnes as of February 20. This reduction occurs even as both the incoming and discharged volumes of iron ore have risen in recent weeks, suggesting that while port operations are strong, there is a clear drawdown in overall stockpiles.
 
@@ -35,10 +35,10 @@ This modest dip in port inventories appears to indicate that China's immediate d
 
 In summary, the interaction between steady throughput, the strategic use of port stockpiles, and rising ballaster numbers hint at a transitional phase in the market. If these trends persist, the Capesize segment may witness ongoing declines in freight prices, prompting shipping companies to reevaluate their capacity deployment and pricing strategies in a market where supply increasingly surpasses fresh demand. By the end of the month, ballasters in the South Atlantic recorded a modest 5% decrease from their previous highs, though levels remain significantly above the record lows observed at the start of the year. It remains uncertain whether the March trend will continue to decline, potentially boosting C3 freight rates.
 
-![Στιγμιότυπο Οθόνης 2025 02 26 104604](assets/2025-02-26_capesize-south-atlantic-ballasters-vs-baltic-rates_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_7d72e2a99cf9.png)
+![Στιγμιότυπο Οθόνης 2025 02 26 104604](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-02-26_capesize-south-atlantic-ballasters-vs-baltic-rates_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_7d72e2a99cf9.png)
 
 > **Figure 2: Στιγμιότυπο Οθόνης 2025 02 26 104604**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-02-26_capesize-south-atlantic-ballasters-vs-baltic-rates_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_7d72e2a99cf9.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-02-26_capesize-south-atlantic-ballasters-vs-baltic-rates_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_7d72e2a99cf9.png)
 
 The trend for Capesize rates from Brazil to North China strengthened before the end of the month, while signs of recovery in other vessel size categories have now been confirmed, gaining further momentum from the third week's end.
 
@@ -47,10 +47,10 @@ The trend for Capesize rates from Brazil to North China strengthened before the 
 - **Supramax**vessel freight rates on the Indo-ECI route have been revised to over $8 per tonne by the end of the third week, reaching nearly $9 per tonne, with an upward trend expected in March.
 - **Handysize**freight rates for the NOPAC Far East route have climbed to nearly $30 per tonne, marking a 15% increase month-over-month.
 
-![Στιγμιότυπο Οθόνης 2025 02 26 104650](assets/2025-02-26_capesize-south-atlantic-ballasters-vs-baltic-rates_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_75109cbfd9dd.png)
+![Στιγμιότυπο Οθόνης 2025 02 26 104650](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-02-26_capesize-south-atlantic-ballasters-vs-baltic-rates_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_75109cbfd9dd.png)
 
 > **Figure 3: Στιγμιότυπο Οθόνης 2025 02 26 104650**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-02-26_capesize-south-atlantic-ballasters-vs-baltic-rates_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_75109cbfd9dd.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-02-26_capesize-south-atlantic-ballasters-vs-baltic-rates_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_75109cbfd9dd.png)
 
 The latest indicators from the ballasters' perspective suggest a downward correction, though levels remain higher than those seen in early January.
 
@@ -59,10 +59,10 @@ The latest indicators from the ballasters' perspective suggest a downward correc
 - **Supramax SE Asia**: The final week of February saw levels fall slightly below the annual average of 98, with early March showing signs of a continued downward trend.
 - **Handysize NOPAC**: The Handy NOPAC segment confirmed the previous week's downward revision, with levels falling below the annual trend of 27.
 
-![Στιγμιότυπο Οθόνης 2025 02 26 104811](assets/2025-02-26_capesize-south-atlantic-ballasters-vs-baltic-rates_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_69ae87c2683a.png)
+![Στιγμιότυπο Οθόνης 2025 02 26 104811](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-02-26_capesize-south-atlantic-ballasters-vs-baltic-rates_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_69ae87c2683a.png)
 
 > **Figure 4: Στιγμιότυπο Οθόνης 2025 02 26 104811**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-02-26_capesize-south-atlantic-ballasters-vs-baltic-rates_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_69ae87c2683a.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-02-26_capesize-south-atlantic-ballasters-vs-baltic-rates_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_69ae87c2683a.png)
 
 The decline in tonne-days persisted in the Capesize segment, but signs of recovery are emerging, suggesting that levels may have bottomed out since mid-February.
 
@@ -71,10 +71,10 @@ The decline in tonne-days persisted in the Capesize segment, but signs of recove
 - **Supramax**: The growth rate remains the strongest among vessel size categories, sustaining a steady upward trajectory throughout February.
 - **Handysize**: Its growth rate remained above that of the Panamax segment, reaching its highest level since the end of Week 5.
 
-![Στιγμιότυπο Οθόνης 2025 02 26 104908](assets/2025-02-26_capesize-south-atlantic-ballasters-vs-baltic-rates_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_b00d1a589250.png)
+![Στιγμιότυπο Οθόνης 2025 02 26 104908](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-02-26_capesize-south-atlantic-ballasters-vs-baltic-rates_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_b00d1a589250.png)
 
 > **Figure 5: Στιγμιότυπο Οθόνης 2025 02 26 104908**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-02-26_capesize-south-atlantic-ballasters-vs-baltic-rates_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_b00d1a589250.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-02-26_capesize-south-atlantic-ballasters-vs-baltic-rates_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_b00d1a589250.png)
 
 Congestion at Chinese dry bulk ports continued to ease, with a trend pointing toward fewer congested ships in early March.
 

@@ -56,6 +56,8 @@ The energy "crisis" will be much shorter and less onerous if politically expedie
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: Now Playing: "U.S. Senate Hearings on Energy](../../../charts/poten/2005/poten_2005-11-11_now-playing-us-senate-hearings-on-energy_chart1.png)
-
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2005/poten_2005-11-11_now-playing-us-senate-hearings-on-energy_chart1.png)
+> **Chart on PDF page 2: U.S. Gasoline Consumption & Retail Price**  
+> Unit: 000 Bpd | $/Gallon · X-axis: Jan-02 to Jul-05  
+> Series: $/Gallon, Gasoline Consumption  
+> *Source: EIA/Poten*  
+> *No image crop of this chart was saved; caption read from the PDF.*

@@ -30,10 +30,18 @@ On a positive note, MR scrapping has picked up markedly in 2021. Year to date, w
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: Transatlantic Turbulence](../../../charts/poten/2021/poten_2021-11-19_transatlantic-turbulence_chart1.png)
+![Exhibit 1: Weekly US East Coast Product Imports](../../../charts/poten/2021/poten_2021-11-19_transatlantic-turbulence_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2021/poten_2021-11-19_transatlantic-turbulence_chart1.png)
+> **Exhibit 1: Weekly US East Coast Product Imports**  
+> Unit: Kb/d · X-axis: 2019-01-04 to 2021-11-05  
+> Series: Total Gasoline, Distillate Fuel Oil, Other, 4-Wk Moving Avg  
+> *Source: EIA*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2021/poten_2021-11-19_transatlantic-turbulence_chart1.png)
 
-![Exhibit 2: Transatlantic Turbulence](../../../charts/poten/2021/poten_2021-11-19_transatlantic-turbulence_chart2.png)
+![Exhibit 2: MR Freight Rates: UKC - USAC (37Kt)](../../../charts/poten/2021/poten_2021-11-19_transatlantic-turbulence_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2021/poten_2021-11-19_transatlantic-turbulence_chart2.png)
+> **Exhibit 2: MR Freight Rates: UKC - USAC (37Kt)**  
+> Unit: US$/day · X-axis: 1 to 51  
+> Series: 2021, 2020, 2019, 2018, 2017  
+> *Source: Poten & Partners*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2021/poten_2021-11-19_transatlantic-turbulence_chart2.png)

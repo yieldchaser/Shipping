@@ -60,6 +60,8 @@ One of the more counter intuitive conclusions is that the age of the vessels sho
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: The Tankship Tromedy](../../../charts/poten/2006/poten_2006-05-26_the-tankship-tromedy_chart1.png)
-
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2006/poten_2006-05-26_the-tankship-tromedy_chart1.png)
+> **Chart on PDF page 1: Spill Statistics in BBLS**  
+> Unit: BBLS · X-axis: 1995 to 2004  
+> Series: Other Spills, Largest Spill  
+> *Source: The Tankship Tromedy; based on Center for Tankship Excellence (CTX) database*  
+> *No image crop of this chart was saved; caption read from the PDF.*

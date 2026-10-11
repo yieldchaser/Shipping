@@ -59,9 +59,9 @@ Weekly cargo order volumes for coal discharging in China have shown weakness rec
 
 The decline in Chinese demand for seaborne transportation of coal has to a great extent affected the order volumes for Indonesia, which dropped below 2.5 million tonnes last week. At the same time, the spot order volumes for shipments from Australia continued to show a modest recovery following the removal of the Chinese ban on coal imports from the country.
 
-![Market Chart 1](assets/2023-06-27_shipfix-global-market-update_img_unnamed-2023-06-27t111135060_4add1dabfa30.png)
+![Market Chart 1](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-06-27_shipfix-global-market-update_img_unnamed-2023-06-27t111135060_4add1dabfa30.png)
 
 > **Figure 1: Market Chart 1**  
-> **Interactive Data & Source:** [Shipfix](https://shipfix.com/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-06-27_shipfix-global-market-update_img_unnamed-2023-06-27t111135060_4add1dabfa30.png)
+> **Interactive Data & Source:** [Shipfix](https://shipfix.com/) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-06-27_shipfix-global-market-update_img_unnamed-2023-06-27t111135060_4add1dabfa30.png)
 
 Data Source:[Shipfix](https://shipfix.com/)

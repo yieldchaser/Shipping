@@ -30,7 +30,7 @@ The September Coal Market Update builds on The Signal Group’s summer spotlight
 ![Coal Market Insights – September 2025: Shifting Flows Reshape Global Trade‍](../../images/68d3c317d2072dda2bfd15d7_Newsroom image (1).png)
 
 > **Figure 1: Coal Market Insights – September 2025: Shifting Flows Reshape Global Trade‍**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/coal-market-insights-september-2025-shifting-flows-reshape-global-trade) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/68d3c317d2072dda2bfd15d7_Newsroom image (1).png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/coal-market-insights-september-2025-shifting-flows-reshape-global-trade) | [Local Asset](../../../../../../corpus/07-signal/images/68d3c317d2072dda2bfd15d7_Newsroom%20image%20(1).png)
 
 
 ## Global Perspective

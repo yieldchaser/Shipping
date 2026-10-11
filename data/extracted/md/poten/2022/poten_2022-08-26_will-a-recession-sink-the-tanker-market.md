@@ -36,10 +36,18 @@ One important difference we see between these historical recessions and the curr
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: Will A Recession Sink The Tanker Market](../../../charts/poten/2022/poten_2022-08-26_will-a-recession-sink-the-tanker-market_chart1.png)
+![Exhibit 1: Global Oil Demand (Change from 1st Recession Month)](../../../charts/poten/2022/poten_2022-08-26_will-a-recession-sink-the-tanker-market_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2022/poten_2022-08-26_will-a-recession-sink-the-tanker-market_chart1.png)
+> **Exhibit 1: Global Oil Demand (Change from 1st Recession Month)**  
+> Unit: Mbbl/d · X-axis: -6M to +24M  
+> Series: Early '90s (Jul-90), Asia Fin. Crisis (Jul-97), Early 2000s (Mar-01), 2008 Fin. Crisis (Dec-07), Covid (Feb-20)  
+> *Source: EIA*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2022/poten_2022-08-26_will-a-recession-sink-the-tanker-market_chart1.png)
 
-![Exhibit 2: Will A Recession Sink The Tanker Market](../../../charts/poten/2022/poten_2022-08-26_will-a-recession-sink-the-tanker-market_chart2.png)
+![Exhibit 2: TCE During Recessions (VLCC - AG-FE)](../../../charts/poten/2022/poten_2022-08-26_will-a-recession-sink-the-tanker-market_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2022/poten_2022-08-26_will-a-recession-sink-the-tanker-market_chart2.png)
+> **Exhibit 2: TCE During Recessions (VLCC - AG-FE)**  
+> Unit: TCE USD/day · X-axis: -6M to +24M  
+> Series: Early '90s (Jul-90), Asia Fin. Crisis (Jul-97), Early 2000s (Mar-01), 2008 Fin. Crisis (Dec-07), Covid (Feb-20)  
+> *Source: Poten & Partners*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2022/poten_2022-08-26_will-a-recession-sink-the-tanker-market_chart2.png)

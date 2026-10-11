@@ -30,10 +30,18 @@ It is difficult to draw clear conclusions from the above data that would help ex
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: Outages and Turnarounds](../../../charts/poten/2018/poten_2018-02-09_outages-and-turnarounds_chart1.png)
+![Exhibit 1: US: Refinery Outage](../../../charts/poten/2018/poten_2018-02-09_outages-and-turnarounds_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2018/poten_2018-02-09_outages-and-turnarounds_chart1.png)
+> **Exhibit 1: US: Refinery Outage**  
+> Unit: Kb/d · X-axis: Jan to Dec  
+> Series: 2013, 2014, 2015, 2016, 2017  
+> *Source: Bloomberg*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2018/poten_2018-02-09_outages-and-turnarounds_chart1.png)
 
-![Exhibit 2: Outages and Turnarounds](../../../charts/poten/2018/poten_2018-02-09_outages-and-turnarounds_chart2.png)
+![Exhibit 2: China: Refinery Outage](../../../charts/poten/2018/poten_2018-02-09_outages-and-turnarounds_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2018/poten_2018-02-09_outages-and-turnarounds_chart2.png)
+> **Exhibit 2: China: Refinery Outage**  
+> Unit: Kb/d · X-axis: Jan to Dec  
+> Series: 2013, 2014, 2015, 2016, 2017  
+> *Source: Bloomberg*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2018/poten_2018-02-09_outages-and-turnarounds_chart2.png)

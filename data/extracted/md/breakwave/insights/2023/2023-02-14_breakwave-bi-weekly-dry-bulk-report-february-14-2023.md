@@ -19,10 +19,10 @@ source_file: "corpus/03-breakwave/insights/2023/2023-02-14_breakwave-bi-weekly-d
 
 ---
 
-![Dbreporttop](assets/2023-02-14_breakwave-bi-weekly-dry-bulk-report-february-14-2023_img_dbreporttop_825ee8fd1096.png)
+![Dbreporttop](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-02-14_breakwave-bi-weekly-dry-bulk-report-february-14-2023_img_dbreporttop_825ee8fd1096.png)
 
 > **Figure 1: Dbreporttop**  
-> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/publications) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-02-14_breakwave-bi-weekly-dry-bulk-report-february-14-2023_img_dbreporttop_825ee8fd1096.png)
+> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/publications) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-02-14_breakwave-bi-weekly-dry-bulk-report-february-14-2023_img_dbreporttop_825ee8fd1096.png)
 
 **·****Volatility increasing as Capesize rates look for a bottom –**A dearth of cargo flow, especially out of Brazil, has driven Capesize rates to almost zero as seasonal weakness is now in full swing. Although the increasing West African bauxite exports over the last few years have managed to absorb a significant number of vessels, the Atlantic basin remains oversupplied, and it will take some time for the balance to be restored. As a result, owners prefer to stay in the Pacific instead of taking the expensive ballasting path, which in turn has also driven timecharter rates in that part of the world to multi-year lows. Over the last week or so, however, owners have resisted further erosion in spot rates, which is understandable given that real spot rates have reached almost zero. On the other hand, futures have now begun to price a recovery in spot rates, and the significant contango in the forward month is a testament of such optimism for the development of market balance as we enter the spring months. The dry bulk market has been in similar situations many times in the past, and time and again market balance has been restored quite swiftly, at least most of the time. Could it be different this time? There are a number of positives that lead us to believe a recovery in spot rates might be around the corner. China has been communicating its willingness to restore high growth rates, something that implies significant infrastructure spending and some normalization in its ailing real estate sector. In addition, global economic growth ex-China also looks healthier versus a few months ago, and recession calls are now slowly turning into a “soft landing” type of scenarios in most parts of the world. Dry bulk shipping should benefit from such an economic setup, and we see no reason why the current weakness is not just a seasonal phenomenon which has been widely anticipated by most market participants for months now.
 
@@ -32,12 +32,12 @@ source_file: "corpus/03-breakwave/insights/2023/2023-02-14_breakwave-bi-weekly-d
 
 [Subscribe - Bi-weekly Dry Bulk Report](https://www.breakwaveadvisors.com/publications)
 
-![Dbreportchart](assets/2023-02-14_breakwave-bi-weekly-dry-bulk-report-february-14-2023_img_dbreportchart_7905daa999cd.png)
+![Dbreportchart](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-02-14_breakwave-bi-weekly-dry-bulk-report-february-14-2023_img_dbreportchart_7905daa999cd.png)
 
 > **Figure 2: Dbreportchart**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-02-14_breakwave-bi-weekly-dry-bulk-report-february-14-2023_img_dbreportchart_7905daa999cd.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-02-14_breakwave-bi-weekly-dry-bulk-report-february-14-2023_img_dbreportchart_7905daa999cd.png)
 
-![Dbreportbottom](assets/2023-02-14_breakwave-bi-weekly-dry-bulk-report-february-14-2023_img_dbreportbottom_9d121b9b819e.png)
+![Dbreportbottom](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-02-14_breakwave-bi-weekly-dry-bulk-report-february-14-2023_img_dbreportbottom_9d121b9b819e.png)
 
 > **Figure 3: Dbreportbottom**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-02-14_breakwave-bi-weekly-dry-bulk-report-february-14-2023_img_dbreportbottom_9d121b9b819e.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-02-14_breakwave-bi-weekly-dry-bulk-report-february-14-2023_img_dbreportbottom_9d121b9b819e.png)

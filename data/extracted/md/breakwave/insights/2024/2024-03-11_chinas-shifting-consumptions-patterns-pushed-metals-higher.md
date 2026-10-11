@@ -24,12 +24,12 @@ source_file: "corpus/03-breakwave/insights/2024/2024-03-11_chinas-shifting-consu
 
 *By*[*Daniel Hynes*](https://www.linkedin.com/in/dahynes/)
 
-![Screenshot 2024 03 11 09.44.14](assets/2024-03-11_chinas-shifting-consumptions-patterns-pushed-metals-higher_img_screenshot2024-03-11094414_26d7a432383a.png)
+![Screenshot 2024 03 11 09.44.14](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-03-11_chinas-shifting-consumptions-patterns-pushed-metals-higher_img_screenshot2024-03-11094414_26d7a432383a.png)
 
 > **Figure 1: Screenshot 2024 03 11 09.44.14**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-03-11_chinas-shifting-consumptions-patterns-pushed-metals-higher_img_screenshot2024-03-11094414_26d7a432383a.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-03-11_chinas-shifting-consumptions-patterns-pushed-metals-higher_img_screenshot2024-03-11094414_26d7a432383a.png)
 
-The latest National People’s Congress meeting failed to excite the market, with no new stimulus measures announced, despite setting an aggressive growth target of 5%. However, China’s focus on high quality development in new, emerging sectors is likely to see the country’s[**consumption of commodities continue to shift and evolve**](../pdfs/2024-03-11_chinas-shifting-consumptions-patterns-pushed-metals-higher_commodity-call-out-with-old-commodit_e8ce5179a55d.pdf). We see demand for metals & critical minerals and cleaner burning fuels such as gas continuing to rise. At the same time, there is likely to be less support for demand of commodities such as oil, steel and iron ore.
+The latest National People’s Congress meeting failed to excite the market, with no new stimulus measures announced, despite setting an aggressive growth target of 5%. However, China’s focus on high quality development in new, emerging sectors is likely to see the country’s[**consumption of commodities continue to shift and evolve**](https://research.anz.com/file/Commodity_Call_out_with_old_commodities_in_with_new.pdf?docRef=841e0d11-4b6c-4ed2-a51c-265dad44ccfd&ch=2). We see demand for metals & critical minerals and cleaner burning fuels such as gas continuing to rise. At the same time, there is likely to be less support for demand of commodities such as oil, steel and iron ore.
 
 The**base metals**sector ended the week higher, led by a solid gain in copper amid signs of tightness. Stockpiles held in LME warehouses fell sharply last week. Refined copper monthly imports were 2.5% y/y in January-February 2024. Imports of copper ore & concentrates were also up only marginally, highlighting tightness in the international market following recent mine closures.**Zinc**gained after orders to withdraw the metal from LME warehouses surged. This follows reports that South Korea’s Young Poong Corp has cut refined zinc production at its Seokpo smelter by 20%.
 

@@ -30,10 +30,17 @@ Crude oil exports have fallen due to the combination of concerted OPEC+ efforts 
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: Oil Markets Are Rebalancing](../../../charts/poten/2020/poten_2020-05-22_oil-markets-are-rebalancing_chart1.png)
+![Exhibit 1: Middle East Seaborne Crude Trade](../../../charts/poten/2020/poten_2020-05-22_oil-markets-are-rebalancing_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2020/poten_2020-05-22_oil-markets-are-rebalancing_chart1.png)
+> **Exhibit 1: Middle East Seaborne Crude Trade**  
+> Unit: Mb/d · X-axis: Jan.D1 to May.D2  
+> Series: Saudi Arabia, Iraq, UAE, Kuwait, Other M.E.  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2020/poten_2020-05-22_oil-markets-are-rebalancing_chart1.png)
 
-![Exhibit 2: Oil Markets Are Rebalancing](../../../charts/poten/2020/poten_2020-05-22_oil-markets-are-rebalancing_chart2.png)
+![Exhibit 2: Non Middle East Seaborne Crude Trade](../../../charts/poten/2020/poten_2020-05-22_oil-markets-are-rebalancing_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2020/poten_2020-05-22_oil-markets-are-rebalancing_chart2.png)
+> **Exhibit 2: Non Middle East Seaborne Crude Trade**  
+> Unit: Mb/d · X-axis: Jan.D1 to May.D2  
+> Series: Americas Atl., Asia/Aus., Mediterranean, UKC/Baltic, West Africa, Americas Pac.  
+> *Source: Lloyd’s List Intelligence*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2020/poten_2020-05-22_oil-markets-are-rebalancing_chart2.png)

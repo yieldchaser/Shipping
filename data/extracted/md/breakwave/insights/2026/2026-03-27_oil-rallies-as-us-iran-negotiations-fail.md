@@ -24,10 +24,10 @@ Energy markets rallied as the prospect of peace talks diminished. Precious metal
 
 *By*[*Daniel Hynes*](https://www.linkedin.com/in/dahynes/)
 
-![Στιγμιότυπο Οθόνης 2026 03 27 152605](assets/2026-03-27_oil-rallies-as-us-iran-negotiations-fail_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_c33cf40aa591.png)
+![Στιγμιότυπο Οθόνης 2026 03 27 152605](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-03-27_oil-rallies-as-us-iran-negotiations-fail_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_c33cf40aa591.png)
 
 > **Figure 1: Στιγμιότυπο Οθόνης 2026 03 27 152605**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-03-27_oil-rallies-as-us-iran-negotiations-fail_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_c33cf40aa591.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-03-27_oil-rallies-as-us-iran-negotiations-fail_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_c33cf40aa591.png)
 
 ### Market Commentary
 
@@ -35,7 +35,7 @@ Energy markets rallied as the prospect of peace talks diminished. Precious metal
 
 The prospect of an escalation in the Middle East conflict also pushed**global gas**prices higher. The hope of additional sources of supply are also fading. Business leaders in the US are warning that the US lacks the infrastructure to alleviate a global shortage of LNG. Charles Reidl, chief of the Centre for Liquefied Natural Gas, said the US has the resources but not the infrastructure. Concerns over supply shortages were exacerbated by reports that LNG production in Australia at two plants operated by Chevron had been reduced after a tropical cyclone. Disruptions to Qatar’s LNG exports have already been reshaping LNG trade. Shipments to European ports have significantly dropped since February’s record high. Ship tracking data show the US is now sending more shipments to Asia, as buyers replace volumes typically sourced from the Persian Gulf.
 
-**Copper**fell while aluminium gained as the Middle East conflict has different impacts across the metals complex. The prospect of an escalation in military action by the US weighed on sentiment in the copper market. The metal has been under pressure amid concerns the higher energy costs will curtail economic activity and hurt demand.**Aluminium**bucked the trend to push higher on concerns supply disruptions are mounting. The Middle East supplies 9% of global aluminium and meets 18% of world ex-China demand. The scale of disruption to shipments and production hinges on how long the Middle East conflict persists, with about 4–5mt of exports currently at risk. Global aluminium growth is constrained by China’s output cap of 45mt, while US import tariffs and Europe’s carbon tax are adding to the hurdles. Unlike the energy crisis that followed Russia’s invasion of Ukraine in 2022, there is[**no alternative supply**](../pdfs/2026-03-27_oil-rallies-as-us-iran-negotiations-fail_aluminium-s-rising-supply-risk_b372e0fce2ef.pdf)to cover the 4–5mt shortfall. Following the imposition of sanctions on Russian metal, the Middle East became a crucial supplier to the European Union and countries including the US and Japan. Any further disruption to deliveries would add upward pressure on aluminium prices and premiums.
+**Copper**fell while aluminium gained as the Middle East conflict has different impacts across the metals complex. The prospect of an escalation in military action by the US weighed on sentiment in the copper market. The metal has been under pressure amid concerns the higher energy costs will curtail economic activity and hurt demand.**Aluminium**bucked the trend to push higher on concerns supply disruptions are mounting. The Middle East supplies 9% of global aluminium and meets 18% of world ex-China demand. The scale of disruption to shipments and production hinges on how long the Middle East conflict persists, with about 4–5mt of exports currently at risk. Global aluminium growth is constrained by China’s output cap of 45mt, while US import tariffs and Europe’s carbon tax are adding to the hurdles. Unlike the energy crisis that followed Russia’s invasion of Ukraine in 2022, there is[**no alternative supply**](https://research.anz.com/file/Aluminium_s_rising_supply_risk.pdf?docRef=bd1c6180-6e2d-4598-adb6-df3bc5555862&ch=2)to cover the 4–5mt shortfall. Following the imposition of sanctions on Russian metal, the Middle East became a crucial supplier to the European Union and countries including the US and Japan. Any further disruption to deliveries would add upward pressure on aluminium prices and premiums.
 
 **Gold**dropped as much as 2.6% to trade near USD4,400/oz after Iran rejected a push for peace talks. The precious metal has been trading contrary to its normal safe haven properties. Instead, concerns over higher inflation prompting central banks to increase rates have prompted investors to reduce their exposure. We discuss this further in[**today’s edition of the 5in5withANZ podcast**](https://open.spotify.com/episode/60YFU7i6XJZiSRQCsZEvXZ?si=adc0315f07ba4390).
 
@@ -45,10 +45,10 @@ There are only three channels through which China’s aluminium output could ris
 
 So, we think China would only marginally increase aluminium production by lifting the cap. In the short-termextra output likely capped at <1 mt, mostly through optimisation and restarts. Over the medium term (2–3 years) we could see larger increases possible, but constrained by power, carbon policy, and economics. This is why the 45mt ceiling, even if adjusted, will not accelerate production growth.
 
-![Στιγμιότυπο Οθόνης 2026 03 27 152707](assets/2026-03-27_oil-rallies-as-us-iran-negotiations-fail_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_eb759ae3ba81.png)
+![Στιγμιότυπο Οθόνης 2026 03 27 152707](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-03-27_oil-rallies-as-us-iran-negotiations-fail_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_eb759ae3ba81.png)
 
 > **Figure 2: Στιγμιότυπο Οθόνης 2026 03 27 152707**  
-> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-03-27_oil-rallies-as-us-iran-negotiations-fail_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_eb759ae3ba81.png)
+> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-03-27_oil-rallies-as-us-iran-negotiations-fail_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_eb759ae3ba81.png)
 
 Data source:[Commodities Wrap](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI)
 

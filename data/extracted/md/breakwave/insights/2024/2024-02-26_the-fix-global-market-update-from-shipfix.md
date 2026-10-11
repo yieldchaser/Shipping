@@ -58,10 +58,10 @@ Copper prices have had a volatile start to the year. While the three-month futur
 
 Weekly global cargo order volumes for copper have also been volatile since the beginning of the year. A strong recovery in demand for seaborne transportation of copper during the first few weeks of the year preceded higher copper prices during the second half of January. A decline in order volumes in the run-up to the Chinese New Year subsequently weighed on prices. However, non-Chinese demand has since contributed to a rebound. Still, last week’s weak cargo order volumes indicate that the recent recovery could lose momentum, with copper prices declining yet again. On the other hand, a seasonal recovery for Chinese demand in the coming weeks would support prices at current levels.
 
-![241](assets/2024-02-26_the-fix-global-market-update-from-shipfix_img_241_4009383e1827.png)
+![241](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-02-26_the-fix-global-market-update-from-shipfix_img_241_4009383e1827.png)
 
 > **Figure 1: 241**  
-> **Interactive Data & Source:** [Shipfix](https://shipfix.com/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-02-26_the-fix-global-market-update-from-shipfix_img_241_4009383e1827.png)
+> **Interactive Data & Source:** [Shipfix](https://shipfix.com/) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-02-26_the-fix-global-market-update-from-shipfix_img_241_4009383e1827.png)
 
 Data Source:[Shipfix](https://shipfix.com/)
 

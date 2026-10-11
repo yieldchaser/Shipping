@@ -60,10 +60,10 @@ While tradeflow data suggested that Indian coal imports rose during March compar
 
 Weekly cargo order volumes for coal discharging in India have been volatile over the past few weeks, with the past week showing considerable weakness. However, the current week has shown some early promise, and should the remainder of it proceed along a similar path, the aggregate could approach what was recorded during the month’s first week. Also, should the country’s utilities heed the government’s request, it is likely that demand will accelerated in the coming weeks. Such a development would primarily benefit the supramaxes and the panamaxes, which are typically the vessels of choice in the Indian coal trade.
 
-![Στιγμιότυπο Οθόνης 2024 04 17 163323 Ξξ](assets/2024-04-17_the-current-week-has-shown-some-early-promise_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_333d13ecce08.png)
+![Στιγμιότυπο Οθόνης 2024 04 17 163323 Ξξ](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-04-17_the-current-week-has-shown-some-early-promise_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_333d13ecce08.png)
 
 > **Figure 1: Στιγμιότυπο Οθόνης 2024 04 17 163323 Ξξ**  
-> **Interactive Data & Source:** [Shipfix](https://shipfix.com/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-04-17_the-current-week-has-shown-some-early-promise_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_333d13ecce08.png)
+> **Interactive Data & Source:** [Shipfix](https://shipfix.com/) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-04-17_the-current-week-has-shown-some-early-promise_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_333d13ecce08.png)
 
 Data Source:[Shipfix](https://shipfix.com/)
 

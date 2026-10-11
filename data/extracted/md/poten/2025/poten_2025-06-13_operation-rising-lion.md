@@ -28,10 +28,17 @@ Tanker rates also rose after the attacks, in particular for VLCCs, the main vess
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: Operation Rising Lion](../../../charts/poten/2025/poten_2025-06-13_operation-rising-lion_chart1.png)
+![Exhibit 1: Crude Oil & Condensate Exports From AG By Origin](../../../charts/poten/2025/poten_2025-06-13_operation-rising-lion_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2025/poten_2025-06-13_operation-rising-lion_chart1.png)
+> **Exhibit 1: Crude Oil & Condensate Exports From AG By Origin**  
+> Unit: Kb/d · X-axis: Jan-16 to May-25  
+> Series: Saudi Arabia, Iraq, United Arab Emirates, Kuwait, Iran, Oman, Qatar, Undetermined, Bahrain  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2025/poten_2025-06-13_operation-rising-lion_chart1.png)
 
-![Exhibit 2: Operation Rising Lion](../../../charts/poten/2025/poten_2025-06-13_operation-rising-lion_chart2.png)
+![Exhibit 2: VLCC AG-FE TCE vs Brent Price](../../../charts/poten/2025/poten_2025-06-13_operation-rising-lion_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2025/poten_2025-06-13_operation-rising-lion_chart2.png)
+> **Exhibit 2: VLCC AG-FE TCE vs Brent Price**  
+> Unit: TCE | $/bbl · X-axis: 01-Jan-25 to 01-Jun-25  
+> Series: VLCC: AG-FE TCE, Brent Crude Oil  
+> *Source: Vortexa; Poten & Partners*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2025/poten_2025-06-13_operation-rising-lion_chart2.png)

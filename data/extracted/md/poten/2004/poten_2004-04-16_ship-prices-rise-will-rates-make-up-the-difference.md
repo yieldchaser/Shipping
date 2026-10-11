@@ -112,6 +112,20 @@ Last year, if a newbuilding were delivered to you, it brought with it a lot of p
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: Ship Prices Rise: Will Rates Make up the Difference?](../../../charts/poten/2004/poten_2004-04-16_ship-prices-rise-will-rates-make-up-the-difference_chart1.png)
+> **Chart on PDF page 2: VLCC WS Rates Vs. Newbuilding Prices 1995-2004**  
+> Unit: WS Rates | Millions US$ · X-axis: Jan-95 to May-03  
+> Series: WS Rates, Newbuilding Prices  
+> *Source: Poten & Partners*  
+> *No image crop of this chart was saved; caption read from the PDF.*
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2004/poten_2004-04-16_ship-prices-rise-will-rates-make-up-the-difference_chart1.png)
+> **Chart on PDF page 3: VLCC Newbuilding Prices Vs. Second Hand Prices**  
+> Unit: Millions of $ | Millions of $ · X-axis: Jan-95 to May-03  
+> Series: Newbuilding Prices, Second Hand Prices  
+> *Source: Poten & Partners*  
+> *No image crop of this chart was saved; caption read from the PDF.*
+
+> **Chart on PDF page 3: Plate Steel Prices**  
+> Unit: US$/ton · X-axis: Mar-02 to Nov-03  
+> Series: Plate Steel Prices  
+> *Source: MEPS*  
+> *No image crop of this chart was saved; caption read from the PDF.*

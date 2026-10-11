@@ -38,6 +38,9 @@ Seaborne export options from Canada are increasingly limited, especially for lar
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: Pipe Dreams Re Awakening](../../../charts/poten/2017/poten_2017-02-03_pipe-dreams-re-awakening_chart1.png)
+![Exhibit 1: Fig. 1: Pipeline Routes](../../../charts/poten/2017/poten_2017-02-03_pipe-dreams-re-awakening_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2017/poten_2017-02-03_pipe-dreams-re-awakening_chart1.png)
+> **Exhibit 1: Fig. 1: Pipeline Routes**  
+> Series: Dakota Access Pipeline, Keystone pipeline, Keystone XL expansion  
+> *Source: TransCanada, Energy Transfer Partners*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2017/poten_2017-02-03_pipe-dreams-re-awakening_chart1.png)

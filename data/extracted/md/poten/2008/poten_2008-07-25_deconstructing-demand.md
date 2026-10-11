@@ -44,6 +44,14 @@ Although some countries have decreased subsidies offered to motorists, there is 
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: Deconstructing Demand](../../../charts/poten/2008/poten_2008-07-25_deconstructing-demand_chart1.png)
+> **Chart on PDF page 1: Annual Global Oil Demand Changes**  
+> Unit: % Change (y-o-y) · X-axis: 2006 to 2009  
+> Series: North America, OECD Europe, China, Non-OECD Asia, Latin America, Middle East, Africa  
+> *Source: Poten/IEA*  
+> *No image crop of this chart was saved; caption read from the PDF.*
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2008/poten_2008-07-25_deconstructing-demand_chart1.png)
+> **Chart on PDF page 2: Oil Consumption**  
+> Unit: Million Barrels Per day | % of Total · X-axis: 2006 to 2009  
+> Series: Total Demand, % of Total  
+> *Source: Poten/IEA*  
+> *No image crop of this chart was saved; caption read from the PDF.*

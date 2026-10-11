@@ -34,10 +34,10 @@ In Asia, attention remains firmly on China. After an unexpectedly strong start t
 
 Overall, the OECD characterises the global outlook as increasingly fragile. A rising tide of trade protectionism, paired with greater policy uncertainty, is already eroding confidence among both businesses and consumers. The institution warns against retreating into economic nationalism, and instead calls for a renewed emphasis on diversification, international cooperation, and flexible policymaking capable of navigating this new era of heightened uncertainty. While the age of rapid globalisation appears to be over, what has emerged is a more fragmented but still interconnected order – what the OECD terms “slowbalisation”. This emerging paradigm is increasingly visible in the dry bulk market. This evolving backdrop is mirrored in current shipping markets. The spot market remains at relatively low levels, a sign of continued caution – but has edged higher compared to last week, suggesting a fragile but persistent undercurrent of activity. In this environment, the challenge for shipping remains one of adaptation: staying responsive to shifting trade flows, commodity reconfigurations, and the broader recalibration of global economic linkages. The path forward may be uneven, but activity – albeit fragile – continues to flow.
 
-![Στιγμιότυπο Οθόνης 2025 06 09 011103](assets/2025-06-09_the-global-economy-continues-to-navigate-a-patchy-recovery_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_3f26f1d6fe53.png)
+![Στιγμιότυπο Οθόνης 2025 06 09 011103](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-06-09_the-global-economy-continues-to-navigate-a-patchy-recovery_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_3f26f1d6fe53.png)
 
 > **Figure 1: Στιγμιότυπο Οθόνης 2025 06 09 011103**  
-> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-06-09_the-global-economy-continues-to-navigate-a-patchy-recovery_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_3f26f1d6fe53.png)
+> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-06-09_the-global-economy-continues-to-navigate-a-patchy-recovery_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_3f26f1d6fe53.png)
 
 Data source:[Doric](https://www.doric.gr/)
 

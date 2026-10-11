@@ -82,6 +82,17 @@ The VLCC market is reaping the benefit of high oil demand fueled by developing e
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: A Midsummer Night's Dream!](../../../charts/poten/2004/poten_2004-07-23_a-midsummer-nights-dream_chart1.png)
+> **Chart on PDF page 1: VLCC WS Rates AG-Far East**  
+> Unit: WS Rates · X-axis: Jul-96 to Jul-04  
+> Series: WS Rates  
+> *No image crop of this chart was saved; caption read from the PDF.*
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2004/poten_2004-07-23_a-midsummer-nights-dream_chart1.png)
+> **Chart on PDF page 2: VLCC Shipping Costs AG-Far East**  
+> Unit: $ per Barrel · X-axis: Jul-96 to Jul-04  
+> Series: VLCC Shipping Costs  
+> *No image crop of this chart was saved; caption read from the PDF.*
+
+> **Chart on PDF page 3: VLCC TCE Rates AG-Far East**  
+> Unit: $ per Day · X-axis: Jul-96 to Jul-04  
+> Series: VLCC TCE Rates AG-Far East  
+> *No image crop of this chart was saved; caption read from the PDF.*

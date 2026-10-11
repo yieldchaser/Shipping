@@ -34,10 +34,10 @@ That counterview deserves attention. It assumes that employment of crude older t
 
 Shadow oil certainly dominates the employment of older crude carriers. Ninety percent of 20+ yr old VLCCs (in H1 2025) employment was in the sanctioned Venezuela and Iran crude trade. Three quarters of Suezmax trade, and over ninety percent of Aframax/LR2 crude trade came from shadow sources in H1 2025.
 
-![A33a Image 0 1764253553887](assets/2025-11-28_the-big-picture-peace-in-ukraine-good-or-bad-for-tanker-freight_img_a33a-image-0-1764253553887_867a740bd6d2.png)
+![A33a Image 0 1764253553887](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-11-28_the-big-picture-peace-in-ukraine-good-or-bad-for-tanker-freight_img_a33a-image-0-1764253553887_867a740bd6d2.png)
 
 > **Figure 1: A33a Image 0 1764253553887**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-11-28_the-big-picture-peace-in-ukraine-good-or-bad-for-tanker-freight_img_a33a-image-0-1764253553887_867a740bd6d2.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-11-28_the-big-picture-peace-in-ukraine-good-or-bad-for-tanker-freight_img_a33a-image-0-1764253553887_867a740bd6d2.png)
 
 While war-time Russian flows added roughly 30% to average voyage length for the global dirty-trading Aframax/LR2 tankers, it did little to extend the average supply chain for Suezmaxes or VLCCs (which combined fell by 1%) .
 

@@ -194,6 +194,8 @@ DCE iron ore futures tight ，the main contract I2405 closed 960.5. an decrease 
 | **SGX** | **Mar. 24** | USD/DMT | 130.10 | +0.15 | +0.12% | 8.71 | 36.27 | 128.45 | 131.50 |
 
 ## Dry Bulk Freight Rates Historical Line Data (USD/MT)
+> **Approximate.** The report prints no numbers for this chart. Values were read visually from the chart image by the parser and are rough estimates.
+
 | Date | C5 W. Australia - Qingdao (USD/MT) | C3 Tubarao - Qingdao (USD/MT) |
 | :--- | :--- | :--- |
 | 4-Jan-21 | 18.00 | 20.00 |
@@ -217,21 +219,23 @@ DCE iron ore futures tight ，the main contract I2405 closed 960.5. an decrease 
 | 4-Jan-24 | 8.00 | 20.00 |
 
 ## Total China Iron Ore Import Volumes (Million Tonnes)
+> **Estimate.** The report prints no numbers for this chart. Values are computed from the chart's vector geometry at each x-axis date label (calibrated on the printed axis ticks; typically within 1% of the axis range).
+
 | Month / Period | Import Volume (Million Tonnes) |
 | :--- | :--- |
-| Dec-22 | 90.00 |
-| Jan-23 | 104.00 |
-| Feb-23 | 90.00 |
-| Mar-23 | 100.00 |
-| Apr-23 | 89.00 |
-| May-23 | 96.00 |
-| Jun-23 | 95.00 |
-| Jul-23 | 93.00 |
-| Aug-23 | 106.00 |
-| Sep-23 | 101.00 |
-| Oct-23 | 98.00 |
-| Nov-23 | 103.00 |
-| Dec-23 | 100.00 |
+| Dec-22 | 90.82 |
+| Jan-23 | 103.59 |
+| Feb-23 | 90.61 |
+| Mar-23 | 100.24 |
+| Apr-23 | 90.40 |
+| May-23 | 96.26 |
+| Jun-23 | 95.63 |
+| Jul-23 | 93.54 |
+| Aug-23 | 106.52 |
+| Sep-23 | 101.28 |
+| Oct-23 | 99.40 |
+| Nov-23 | 102.75 |
+| Dec-23 | 100.87 |
 
 ---
 

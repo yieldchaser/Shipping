@@ -28,10 +28,18 @@ The U.S. also remains a significant importer of refined products, although impor
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: The Other Exports](../../../charts/poten/2018/poten_2018-03-23_the-other-exports_chart1.png)
+![Exhibit 1: US Petroleum Product Exports (Oil Tanker Commodities)](../../../charts/poten/2018/poten_2018-03-23_the-other-exports_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2018/poten_2018-03-23_the-other-exports_chart1.png)
+> **Exhibit 1: US Petroleum Product Exports (Oil Tanker Commodities)**  
+> Unit: Kb/d · X-axis: Jan-00 to Jan-17  
+> Series: Distillate Fuel Oil, Gasoline Blending Components, Kerosene-Type Jet Fuel, Residual Fuel Oil, Finished Motor Gasoline, Unfinished Oils, Kerosene  
+> *Source: EIA*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2018/poten_2018-03-23_the-other-exports_chart1.png)
 
-![Exhibit 2: The Other Exports](../../../charts/poten/2018/poten_2018-03-23_the-other-exports_chart2.png)
+![Exhibit 2: U.S. Petroleum Product Exports by Destination](../../../charts/poten/2018/poten_2018-03-23_the-other-exports_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2018/poten_2018-03-23_the-other-exports_chart2.png)
+> **Exhibit 2: U.S. Petroleum Product Exports by Destination**  
+> Unit: Kb/d · X-axis: Jan-10 to Jul-17  
+> Series: Europe, FSU, Asia, Middle East, Africa, Caribbean, Central America, Latin America, Australia, North America  
+> *Source: EIA*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2018/poten_2018-03-23_the-other-exports_chart2.png)

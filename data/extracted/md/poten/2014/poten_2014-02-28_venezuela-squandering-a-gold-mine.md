@@ -74,14 +74,26 @@ If export volumes increase further, the knock-effect for Medium-Range (MR) produ
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: Venezuela: Squandering a Gold Mine](../../../charts/poten/2014/poten_2014-02-28_venezuela-squandering-a-gold-mine_chart1.png)
+![Exhibit 1: Proven Oil Reserves - 2012](../../../charts/poten/2014/poten_2014-02-28_venezuela-squandering-a-gold-mine_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2014/poten_2014-02-28_venezuela-squandering-a-gold-mine_chart1.png)
+> **Exhibit 1: Proven Oil Reserves - 2012**  
+> Unit: billion barrels · X-axis: Venezuela to Other  
+> Series: Venezuela, Saudi Arabia, Canada, Iran, Iraq, Kuwait, United States, Brazil, Mexico, Other  
+> *Source: BP Statistics*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2014/poten_2014-02-28_venezuela-squandering-a-gold-mine_chart1.png)
 
-![Exhibit 2: Venezuela: Squandering a Gold Mine](../../../charts/poten/2014/poten_2014-02-28_venezuela-squandering-a-gold-mine_chart2.png)
+![Exhibit 2: US Gulf Exports to Caribbean](../../../charts/poten/2014/poten_2014-02-28_venezuela-squandering-a-gold-mine_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2014/poten_2014-02-28_venezuela-squandering-a-gold-mine_chart2.png)
+> **Exhibit 2: US Gulf Exports to Caribbean**  
+> Unit: Thousand MT · X-axis: Jan to Dec  
+> Series: 2012, 2013, 2014  
+> *Source: Poten & Partners*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2014/poten_2014-02-28_venezuela-squandering-a-gold-mine_chart2.png)
 
-![Exhibit 3: Venezuela: Squandering a Gold Mine](../../../charts/poten/2014/poten_2014-02-28_venezuela-squandering-a-gold-mine_chart3.png)
+![Exhibit 3: US Gulf - Caribbean (basis Atlantic Colombia)](../../../charts/poten/2014/poten_2014-02-28_venezuela-squandering-a-gold-mine_chart3.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2014/poten_2014-02-28_venezuela-squandering-a-gold-mine_chart3.png)
+> **Exhibit 3: US Gulf - Caribbean (basis Atlantic Colombia)**  
+> Unit: Lumpsum · X-axis: Jan-12 to Jan-14  
+> Series: Lumpsum US Gulf - Caribbean (basis Atlantic Colombia)  
+> *Source: Poten & Partners*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2014/poten_2014-02-28_venezuela-squandering-a-gold-mine_chart3.png)

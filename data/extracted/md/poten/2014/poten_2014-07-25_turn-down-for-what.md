@@ -32,10 +32,18 @@ With crude oil demand broadly considered to increase through the balance of the 
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: Turn Down for What?](../../../charts/poten/2014/poten_2014-07-25_turn-down-for-what_chart1.png)
+![Exhibit 1: VLCC Spot Rates & Vessel Supply](../../../charts/poten/2014/poten_2014-07-25_turn-down-for-what_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2014/poten_2014-07-25_turn-down-for-what_chart1.png)
+> **Exhibit 1: VLCC Spot Rates & Vessel Supply**  
+> Unit: Vessel Supply | Worldscale Rate · X-axis: Jan-14 to Jul-14  
+> Series: VLCC Supply - Next 30 Days, Worldscale Rate - Arabian Gulf to Far East  
+> *Source: Poten*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2014/poten_2014-07-25_turn-down-for-what_chart1.png)
 
-![Exhibit 2: Turn Down for What?](../../../charts/poten/2014/poten_2014-07-25_turn-down-for-what_chart2.png)
+![Exhibit 2: VLCC Trading Fleet & Orderbook](../../../charts/poten/2014/poten_2014-07-25_turn-down-for-what_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2014/poten_2014-07-25_turn-down-for-what_chart2.png)
+> **Exhibit 2: VLCC Trading Fleet & Orderbook**  
+> Unit: No. Vessels · X-axis: 1992 to 2017  
+> Series: Current Fleet, Orderbook  
+> *Source: Poten*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2014/poten_2014-07-25_turn-down-for-what_chart2.png)

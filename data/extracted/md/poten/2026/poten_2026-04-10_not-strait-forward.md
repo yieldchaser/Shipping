@@ -26,10 +26,18 @@ The crisis has revealed a fundamental weakness in maritime law: While the rules 
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: Not Strait Forward](../../../charts/poten/2026/poten_2026-04-10_not-strait-forward_chart1.png)
+![Exhibit 1: Crude & Dirty Product Exports From The AG by Destination](../../../charts/poten/2026/poten_2026-04-10_not-strait-forward_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2026/poten_2026-04-10_not-strait-forward_chart1.png)
+> **Exhibit 1: Crude & Dirty Product Exports From The AG by Destination**  
+> Unit: Kb/d · X-axis: 1-Jan-24 to 30-Mar-26  
+> Series: NE Asia, Arabian Sea, SE Asia, NW Europe, Mediterranean, S Atlantic, EC N Americas, WC Americas, Undetermined  
+> *Source: Vortexa*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2026/poten_2026-04-10_not-strait-forward_chart1.png)
 
-![Exhibit 2: Not Strait Forward](../../../charts/poten/2026/poten_2026-04-10_not-strait-forward_chart2.png)
+![Exhibit 2: Clean Product Exports from the AG by Destination](../../../charts/poten/2026/poten_2026-04-10_not-strait-forward_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2026/poten_2026-04-10_not-strait-forward_chart2.png)
+> **Exhibit 2: Clean Product Exports from the AG by Destination**  
+> Unit: Kb/d · X-axis: 1-Jan-24 to 30-Mar-26  
+> Series: NE Asia, Arabian Sea, SE Asia, NW Europe, Mediterranean, S Atlantic, EC N Americas, WC Americas, Undetermined  
+> *Source: Vortexa*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2026/poten_2026-04-10_not-strait-forward_chart2.png)

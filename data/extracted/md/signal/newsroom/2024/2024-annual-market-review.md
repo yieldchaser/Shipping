@@ -64,7 +64,7 @@ The aging profile of these vessels adds complexity to the market dynamics. Older
 ![Fleet in Service & Average Age](../../images/6763140f5cd21404366783ef_AD_4nXeG76KHg6qoh95d-u0hlQM4ecoWl9IlDvESPSzTsJJzRqrbEGArHGYepArLOuKUIXThQsCtvVqRwaLE4vzro-sqNHh0vbx_I0lC8DW0r3uXjzRshC0huvihvQqtPNrSW6RMXqVK4A.avif)
 
 > **Figure 1: Fleet in Service & Average Age**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/2024-annual-market-review) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6763140f5cd21404366783ef_AD_4nXeG76KHg6qoh95d-u0hlQM4ecoWl9IlDvESPSzTsJJzRqrbEGArHGYepArLOuKUIXThQsCtvVqRwaLE4vzro-sqNHh0vbx_I0lC8DW0r3uXjzRshC0huvihvQqtPNrSW6RMXqVK4A.avif)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/2024-annual-market-review) | [Local Asset](../../../../../../corpus/07-signal/images/6763140f5cd21404366783ef_AD_4nXeG76KHg6qoh95d-u0hlQM4ecoWl9IlDvESPSzTsJJzRqrbEGArHGYepArLOuKUIXThQsCtvVqRwaLE4vzro-sqNHh0vbx_I0lC8DW0r3uXjzRshC0huvihvQqtPNrSW6RMXqVK4A.avif)
 
 
 ## Fleet Growth (Dry)
@@ -77,13 +77,13 @@ For the **smaller vessel categories**, such as Supramax and Handysize, there has
 ![‍fleet Growth (Dry)](../../images/6763140f902b872b6f228e8c_AD_4nXdx29j4CnLV8S6bf2DtPvgWTqmpEaSkGK6_E7EfRsz5YyDVQS2MvyF85gysGXoPS1TpVuEisgmmkseGpJLATeVEvWNrg4neAPh7OXA1jG3-eAcxqcKTf4C6NoejLL27IP99fneynw.avif)
 
 > **Figure 2: ‍fleet Growth (Dry)**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/2024-annual-market-review) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6763140f902b872b6f228e8c_AD_4nXdx29j4CnLV8S6bf2DtPvgWTqmpEaSkGK6_E7EfRsz5YyDVQS2MvyF85gysGXoPS1TpVuEisgmmkseGpJLATeVEvWNrg4neAPh7OXA1jG3-eAcxqcKTf4C6NoejLL27IP99fneynw.avif)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/2024-annual-market-review) | [Local Asset](../../../../../../corpus/07-signal/images/6763140f902b872b6f228e8c_AD_4nXdx29j4CnLV8S6bf2DtPvgWTqmpEaSkGK6_E7EfRsz5YyDVQS2MvyF85gysGXoPS1TpVuEisgmmkseGpJLATeVEvWNrg4neAPh7OXA1jG3-eAcxqcKTf4C6NoejLL27IP99fneynw.avif)
 
 
 ![‍fleet Growth (Dry)](../../images/67631410f60c987fe7d57c7c_AD_4nXe1lWPUmCnO3kcFWKF3FKldJnxfbZmaBNxST4lvOCkSRh6iYkAIH4BsObPbt9YgTlM0n_hRB3nJz98UM407Az8Y-_gw42YrkKrtNpsLYBpgJ8RDe5PSQhzNUWaOiQTZhwCPea954g.avif)
 
 > **Figure 3: ‍fleet Growth (Dry)**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/2024-annual-market-review) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/67631410f60c987fe7d57c7c_AD_4nXe1lWPUmCnO3kcFWKF3FKldJnxfbZmaBNxST4lvOCkSRh6iYkAIH4BsObPbt9YgTlM0n_hRB3nJz98UM407Az8Y-_gw42YrkKrtNpsLYBpgJ8RDe5PSQhzNUWaOiQTZhwCPea954g.avif)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/2024-annual-market-review) | [Local Asset](../../../../../../corpus/07-signal/images/67631410f60c987fe7d57c7c_AD_4nXe1lWPUmCnO3kcFWKF3FKldJnxfbZmaBNxST4lvOCkSRh6iYkAIH4BsObPbt9YgTlM0n_hRB3nJz98UM407Az8Y-_gw42YrkKrtNpsLYBpgJ8RDe5PSQhzNUWaOiQTZhwCPea954g.avif)
 
 For the **Capesize vessels**, the picture is more stable. While only a limited number of vessel deliveries are anticipated in the Very Large Ore Carrier (VLOC) category, with the current schedule indicating new additions in 2026, the standard Capesize segment is projected to experience a moderate influx of new deliveries. The standard Capesize segment is forecasted to see a moderate delivery schedule. The annual number of new Capesize vessels is not expected to exceed 40, representing a more controlled expansion compared to the surge observed in 2020, which marked the peak year for Capesize deliveries. One key challenge across the larger vessel segments lies in **minimal scrapping activity**. Despite the aging profile of many vessels, scrapping levels have remained low, sustaining the fleet at historically high levels for the past three years. This lack of fleet contraction could exacerbate competition among vessels, particularly for employment in critical routes such as the South Atlantic to Asia, where ballasters vie for limited cargo availability to meet Asian demand.
 
@@ -98,13 +98,13 @@ Interestingly, for the coming year, the VLCC segment does not appear to face the
 ![‍](../../images/6763140fafa0781ec51d1e2e_AD_4nXfeqZhnujI5EAXEyLUfKcFa5OnFaf_R521bsZBZfTYo5L9AdmP2WSES_XrsZE7C4-3PKJkYMsDLhJgVkdotWHHCJmoSPomPSanAro67u9TTRUCuXkI50Px9zBDCoZoNqDe7r6bs.avif)
 
 > **Figure 4: ‍**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/2024-annual-market-review) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6763140fafa0781ec51d1e2e_AD_4nXfeqZhnujI5EAXEyLUfKcFa5OnFaf_R521bsZBZfTYo5L9AdmP2WSES_XrsZE7C4-3PKJkYMsDLhJgVkdotWHHCJmoSPomPSanAro67u9TTRUCuXkI50Px9zBDCoZoNqDe7r6bs.avif)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/2024-annual-market-review) | [Local Asset](../../../../../../corpus/07-signal/images/6763140fafa0781ec51d1e2e_AD_4nXfeqZhnujI5EAXEyLUfKcFa5OnFaf_R521bsZBZfTYo5L9AdmP2WSES_XrsZE7C4-3PKJkYMsDLhJgVkdotWHHCJmoSPomPSanAro67u9TTRUCuXkI50Px9zBDCoZoNqDe7r6bs.avif)
 
 
 ![‍](../../images/6763140fe1b90cda22a84107_AD_4nXerRkYUIUpnOOku-DII49yx71x4ymIpRMPOWgC_dn_CT0iAfA1zA9Pjn-VsdzSecdJr_EL1Q0RjWCSG-0R-bSSmTvtjgLbGhv_RR_VnV572QxNFAPu75_RzuK7oR0UDsrZPBZ8U.avif)
 
 > **Figure 5: ‍**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/2024-annual-market-review) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6763140fe1b90cda22a84107_AD_4nXerRkYUIUpnOOku-DII49yx71x4ymIpRMPOWgC_dn_CT0iAfA1zA9Pjn-VsdzSecdJr_EL1Q0RjWCSG-0R-bSSmTvtjgLbGhv_RR_VnV572QxNFAPu75_RzuK7oR0UDsrZPBZ8U.avif)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/2024-annual-market-review) | [Local Asset](../../../../../../corpus/07-signal/images/6763140fe1b90cda22a84107_AD_4nXerRkYUIUpnOOku-DII49yx71x4ymIpRMPOWgC_dn_CT0iAfA1zA9Pjn-VsdzSecdJr_EL1Q0RjWCSG-0R-bSSmTvtjgLbGhv_RR_VnV572QxNFAPu75_RzuK7oR0UDsrZPBZ8U.avif)
 
 
 ## Section Ii: Review of Seaborne Trade Evolution - Cargo Count and Voyages to the Far East
@@ -128,13 +128,13 @@ As renewable energy initiatives progress in Asia, there could be shifts in energ
 ![‍](../../images/6763140f0ec21ef182f57e7f_AD_4nXeY9pr0dnQPBkwXtu4PylXPfMTNjFmEVGgugIqAmiCSQUqNYJZDA29I12RMpPPWByNzxAsbxtkwJgY_p31hbryiRiNDjklA_5012hurKfAVdALrTBfWWcmzJlvmnCeNm5Z0picR.avif)
 
 > **Figure 6: ‍**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/2024-annual-market-review) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6763140f0ec21ef182f57e7f_AD_4nXeY9pr0dnQPBkwXtu4PylXPfMTNjFmEVGgugIqAmiCSQUqNYJZDA29I12RMpPPWByNzxAsbxtkwJgY_p31hbryiRiNDjklA_5012hurKfAVdALrTBfWWcmzJlvmnCeNm5Z0picR.avif)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/2024-annual-market-review) | [Local Asset](../../../../../../corpus/07-signal/images/6763140f0ec21ef182f57e7f_AD_4nXeY9pr0dnQPBkwXtu4PylXPfMTNjFmEVGgugIqAmiCSQUqNYJZDA29I12RMpPPWByNzxAsbxtkwJgY_p31hbryiRiNDjklA_5012hurKfAVdALrTBfWWcmzJlvmnCeNm5Z0picR.avif)
 
 
 ![‍](../../images/676314119147fa39b0e5a4aa_AD_4nXd3ajO8MF9Y-QA4ToAVE4_CbjQ62YjTo-OUKydD7MaERvu0HtMXt9tJTj1vmTemVonMNnQAUXD0CX67hzQvGbQNrUIq_qbBVoEUVLHCDpSWKigFrlQt-SAsZPOjofxgedqsuKZv3A.avif)
 
 > **Figure 7: ‍**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/2024-annual-market-review) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/676314119147fa39b0e5a4aa_AD_4nXd3ajO8MF9Y-QA4ToAVE4_CbjQ62YjTo-OUKydD7MaERvu0HtMXt9tJTj1vmTemVonMNnQAUXD0CX67hzQvGbQNrUIq_qbBVoEUVLHCDpSWKigFrlQt-SAsZPOjofxgedqsuKZv3A.avif)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/2024-annual-market-review) | [Local Asset](../../../../../../corpus/07-signal/images/676314119147fa39b0e5a4aa_AD_4nXd3ajO8MF9Y-QA4ToAVE4_CbjQ62YjTo-OUKydD7MaERvu0HtMXt9tJTj1vmTemVonMNnQAUXD0CX67hzQvGbQNrUIq_qbBVoEUVLHCDpSWKigFrlQt-SAsZPOjofxgedqsuKZv3A.avif)
 
 Focusing on coal trade, **image 5**, there is a clear shift in cargo volumes, with an increasing flow of coal exports from Indonesian hubs to the Far East. This trend has gained prominence as Russian coal exports have seen a significant decline in monthly volumes. The shift highlights China’s growing dependency on Indonesian coal, which has, in turn, influenced vessel utilization patterns. The **Panamax vessel size category** has emerged as the primary beneficiary of this trend, with its market share rising sharply to 50%, compared to 30% for Supramax vessels. This marks a notable shift in vessel preference, as it is the first time in three years that Panamax vessels have achieved such a dominant share.
 
@@ -144,7 +144,7 @@ October and November closed with record-high monthly coal cargo volumes, the hig
 ![‍](../../images/6763140fa49bc732299aa13f_AD_4nXfSpMHe8hhn0u-6QzehV_i_y7Z6mYSLvECfSAaVLFOGGFuBMMVyvv1BEvgIOcPbXCI9AiNyg93g5Q4rZcNPo1mLZeQe9V65QdOAhVg7I3n_z-q1ZmfvIRUqG4uLFGbNlQbqmLQLiQ.avif)
 
 > **Figure 8: ‍**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/2024-annual-market-review) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6763140fa49bc732299aa13f_AD_4nXfSpMHe8hhn0u-6QzehV_i_y7Z6mYSLvECfSAaVLFOGGFuBMMVyvv1BEvgIOcPbXCI9AiNyg93g5Q4rZcNPo1mLZeQe9V65QdOAhVg7I3n_z-q1ZmfvIRUqG4uLFGbNlQbqmLQLiQ.avif)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/2024-annual-market-review) | [Local Asset](../../../../../../corpus/07-signal/images/6763140fa49bc732299aa13f_AD_4nXfSpMHe8hhn0u-6QzehV_i_y7Z6mYSLvECfSAaVLFOGGFuBMMVyvv1BEvgIOcPbXCI9AiNyg93g5Q4rZcNPo1mLZeQe9V65QdOAhVg7I3n_z-q1ZmfvIRUqG4uLFGbNlQbqmLQLiQ.avif)
 
 
 ## Oil
@@ -163,13 +163,13 @@ The market's reliance on steady but unspectacular cargo volumes, combined with t
 ![‍](../../images/6763140f43d37e5133539a7e_AD_4nXckKBGImzxbftwbf_Brqo8ee5pDZ-tXbDvuR2VI-qKbwzPfICr5V4U_Um2h-I0PfrlOQ9dJAv9c5xAjLfZkE_kDDmizKLA0c87b0xzV6NhOeLbR11f79lNvLd8KR4iXBuwf2nw89g.avif)
 
 > **Figure 9: ‍**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/2024-annual-market-review) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6763140f43d37e5133539a7e_AD_4nXckKBGImzxbftwbf_Brqo8ee5pDZ-tXbDvuR2VI-qKbwzPfICr5V4U_Um2h-I0PfrlOQ9dJAv9c5xAjLfZkE_kDDmizKLA0c87b0xzV6NhOeLbR11f79lNvLd8KR4iXBuwf2nw89g.avif)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/2024-annual-market-review) | [Local Asset](../../../../../../corpus/07-signal/images/6763140f43d37e5133539a7e_AD_4nXckKBGImzxbftwbf_Brqo8ee5pDZ-tXbDvuR2VI-qKbwzPfICr5V4U_Um2h-I0PfrlOQ9dJAv9c5xAjLfZkE_kDDmizKLA0c87b0xzV6NhOeLbR11f79lNvLd8KR4iXBuwf2nw89g.avif)
 
 
 ![‍](../../images/6763140f74c3cf4d810b6cfe_AD_4nXe8qHZecrAd9AwQxjLox5J0FQz2o-2TYhSTeGi8deKgDJ87RQc8acEQcCVHm0xg3rPmDBNS23Qs9dce81nBt0kgOWwGkSxpvMe9d69KLsZwo8_oEQsvRRTRmrM14OIGE49qPAL63A.avif)
 
 > **Figure 10: ‍**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/2024-annual-market-review) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6763140f74c3cf4d810b6cfe_AD_4nXe8qHZecrAd9AwQxjLox5J0FQz2o-2TYhSTeGi8deKgDJ87RQc8acEQcCVHm0xg3rPmDBNS23Qs9dce81nBt0kgOWwGkSxpvMe9d69KLsZwo8_oEQsvRRTRmrM14OIGE49qPAL63A.avif)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/2024-annual-market-review) | [Local Asset](../../../../../../corpus/07-signal/images/6763140f74c3cf4d810b6cfe_AD_4nXe8qHZecrAd9AwQxjLox5J0FQz2o-2TYhSTeGi8deKgDJ87RQc8acEQcCVHm0xg3rPmDBNS23Qs9dce81nBt0kgOWwGkSxpvMe9d69KLsZwo8_oEQsvRRTRmrM14OIGE49qPAL63A.avif)
 
 
 ## Focus on Dirty Tanker Market Dynamics: AG vs. Russian Dynamism
@@ -184,7 +184,7 @@ Looking at the volume of crude oil voyages from the Russian Pacific to Far Easte
 ![Focus on Dirty Tanker Market Dynamics: AG vs. Russian Dynamism](../../images/6763140fbcab7832204a4a8f_AD_4nXcdETFJRModbK5nL-TBUnGCXZUgVZoKF-FQrQdGMkBFj6RY8XQL1qDXhS3vsbjK2Z_09Q-6nBLA1w3h-a-G9V_etpgGp9XXDm5DzElVxkPqsnnYZGT5hYcZE8mkP-5DvYHl4-qtpA.avif)
 
 > **Figure 11: Focus on Dirty Tanker Market Dynamics: AG vs. Russian Dynamism**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/2024-annual-market-review) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6763140fbcab7832204a4a8f_AD_4nXcdETFJRModbK5nL-TBUnGCXZUgVZoKF-FQrQdGMkBFj6RY8XQL1qDXhS3vsbjK2Z_09Q-6nBLA1w3h-a-G9V_etpgGp9XXDm5DzElVxkPqsnnYZGT5hYcZE8mkP-5DvYHl4-qtpA.avif)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/2024-annual-market-review) | [Local Asset](../../../../../../corpus/07-signal/images/6763140fbcab7832204a4a8f_AD_4nXcdETFJRModbK5nL-TBUnGCXZUgVZoKF-FQrQdGMkBFj6RY8XQL1qDXhS3vsbjK2Z_09Q-6nBLA1w3h-a-G9V_etpgGp9XXDm5DzElVxkPqsnnYZGT5hYcZE8mkP-5DvYHl4-qtpA.avif)
 
 The Aframax vessels, which are often considered more versatile and flexible than larger ship sizes like VLCCs, have played a dominant role in meeting the demand for Russian crude oil exports to the Far East. Throughout 2024, Aframax vessels have steadily gained employment, benefiting from this upward trend in voyage flows from the Russian Pacific to the Far East. These vessels have become increasingly sought after due to their ability to navigate the narrower, more congested shipping lanes around the region, making them particularly well-suited to this growing trade.
 
@@ -203,7 +203,7 @@ At this section of the analysis, it is important to emphasise an intriguing mark
 ![‍](../../images/67631410e02f757c5e85fd3f_AD_4nXdtMxNkEmTzNexkuXHBrWsyAwiHUvYGHQJTsTZFjiFQlZe3HJL2tVvpVM6rB71YwYD6ZZgH7BIbHhOx0-jhHxBQBIThhi_rLka5ot1vzuA5JCQMnPwx-Ff5ZVO38dK7VLD2BTW3bA.avif)
 
 > **Figure 12: ‍**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/2024-annual-market-review) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/67631410e02f757c5e85fd3f_AD_4nXdtMxNkEmTzNexkuXHBrWsyAwiHUvYGHQJTsTZFjiFQlZe3HJL2tVvpVM6rB71YwYD6ZZgH7BIbHhOx0-jhHxBQBIThhi_rLka5ot1vzuA5JCQMnPwx-Ff5ZVO38dK7VLD2BTW3bA.avif)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/2024-annual-market-review) | [Local Asset](../../../../../../corpus/07-signal/images/67631410e02f757c5e85fd3f_AD_4nXdtMxNkEmTzNexkuXHBrWsyAwiHUvYGHQJTsTZFjiFQlZe3HJL2tVvpVM6rB71YwYD6ZZgH7BIbHhOx0-jhHxBQBIThhi_rLka5ot1vzuA5JCQMnPwx-Ff5ZVO38dK7VLD2BTW3bA.avif)
 
 This resilience in ship asset prices appears to be driven largely by heightened geopolitical risks, which have created an environment of increased uncertainty and, consequently, an inflated value profile for vessels in both the dry and tanker segments. These geopolitical factors—ranging from sanctions on Russian oil exports to shifts in energy trade patterns—have amplified the perceived strategic importance of fleet ownership, encouraging buyers to secure tonnage even in the face of fluctuating market conditions.
 

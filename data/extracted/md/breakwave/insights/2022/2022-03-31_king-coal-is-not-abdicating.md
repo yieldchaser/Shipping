@@ -28,10 +28,10 @@ Prices have been soaring on concerns over global supplies of the commodity, as e
 
 Despite the decarbonization debate topping the global agenda in recent years, seaborne exports volumes of coal have shown no signs of declining. If anything, the numbers have been on the rise since the world started to emerge from the initial effects of the pandemic. An increasingly tight supply situation for natural gas have seen thermal coal becoming more important to many countries’ energy mix yet again. Even in Europe, often seen as the leading force in the global decarbonization efforts, imported volumes of seaborne coal have reached their highest levels since 2018 in recent months. Even before the war in Ukraine, the flow of Russian gas through the pipelines to Europe was unreliable and saw European seaborne imports of coal reaching sixteen million tonnes in October last year, the highest monthly volume for three years. While monthly volumes have receded from the recent high, the early arrival of winter in Europe combined with a legacy of low natural gas inventory levels have kept imports above what has been seen in recent years.
 
-![Ch1](assets/2022-03-31_king-coal-is-not-abdicating_img_ch1_ded58cf1e212.png)
+![Ch1](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-03-31_king-coal-is-not-abdicating_img_ch1_ded58cf1e212.png)
 
 > **Figure 1: Ch1**  
-> **Interactive Data & Source:** [Shipfix](https://shipfix.com/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-03-31_king-coal-is-not-abdicating_img_ch1_ded58cf1e212.png)
+> **Interactive Data & Source:** [Shipfix](https://shipfix.com/) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-03-31_king-coal-is-not-abdicating_img_ch1_ded58cf1e212.png)
 
 *Source: Shipfix*
 
@@ -39,10 +39,10 @@ However, it is not only in Europe that the demand for thermal coal is rising. Th
 
 Global seaborne exports of coal are dominated by Australia and Indonesia, which between them accounts for almost two-thirds of total volumes. Another five countries make up most of the remaining third. Apart from a drop in volumes during December and January, mainly due to export restrictions and adverse weather conditions in Indonesia, the average total monthly seaborne volumes have been just below ninety million tonnes during the last year. However, the current month may be heading for levels well above the average. With more than a fifth left of the month, shipped volumes have already reached eighty million tonnes and assuming a degree of linearity for the remainder of March, the total for the month may reach 100 million tonnes. Should the rest of the month evolve along such a path, seaborne exports would be thirteen per cent higher than the same month last year and highlight the increasing importance of the commodity to the global energy mix
 
-![Ch2](assets/2022-03-31_king-coal-is-not-abdicating_img_ch2_b7cf24743ef5.png)
+![Ch2](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-03-31_king-coal-is-not-abdicating_img_ch2_b7cf24743ef5.png)
 
 > **Figure 2: Ch2**  
-> **Interactive Data & Source:** [Shipfix](https://shipfix.com/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-03-31_king-coal-is-not-abdicating_img_ch2_b7cf24743ef5.png)
+> **Interactive Data & Source:** [Shipfix](https://shipfix.com/) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-03-31_king-coal-is-not-abdicating_img_ch2_b7cf24743ef5.png)
 
 *Source: Shipfix*
 
@@ -50,10 +50,10 @@ Russian coal exports have held up well on an aggregate level for the month, but 
 
 Shipfix weekly order data for coal cargoes have been declining from recent highs, potentially as a result of surging coal prices. The development may suggest that seaborne coal flows could struggle to match recent record highs in the coming month. However, on an aggregate level, the order data for March looks solid, and in recent days there has also been a tendency towards a recovery in cargo orders. Hence, King Coal’s reign look set to continue for a bit longer.
 
-![Ch3](assets/2022-03-31_king-coal-is-not-abdicating_img_ch3_a4d520cdf5c9.png)
+![Ch3](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-03-31_king-coal-is-not-abdicating_img_ch3_a4d520cdf5c9.png)
 
 > **Figure 3: Ch3**  
-> **Interactive Data & Source:** [Shipfix](https://shipfix.com/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-03-31_king-coal-is-not-abdicating_img_ch3_a4d520cdf5c9.png)
+> **Interactive Data & Source:** [Shipfix](https://shipfix.com/) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-03-31_king-coal-is-not-abdicating_img_ch3_a4d520cdf5c9.png)
 
 Data Source:[Shipfix](https://shipfix.com/)
 

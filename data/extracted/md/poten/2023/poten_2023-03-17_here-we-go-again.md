@@ -32,10 +32,17 @@ Many of the large established players remain on the sidelines, but if history is
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: Here We Go Again](../../../charts/poten/2023/poten_2023-03-17_here-we-go-again_chart1.png)
+![Exhibit 1: World Orderbook](../../../charts/poten/2023/poten_2023-03-17_here-we-go-again_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2023/poten_2023-03-17_here-we-go-again_chart1.png)
+> **Exhibit 1: World Orderbook**  
+> Unit: Gross Tons · X-axis: 2014 to 2023  
+> Series: Oil/Chem Tankers, Bulkers, LNG Tankers, LPG Tankers, Container Ships, Other  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2023/poten_2023-03-17_here-we-go-again_chart1.png)
 
-![Exhibit 2: Here We Go Again](../../../charts/poten/2023/poten_2023-03-17_here-we-go-again_chart2.png)
+![Exhibit 2: VLCC: Historical Newbuilding and Second Hand Values 2002-2023](../../../charts/poten/2023/poten_2023-03-17_here-we-go-again_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2023/poten_2023-03-17_here-we-go-again_chart2.png)
+> **Exhibit 2: VLCC: Historical Newbuilding and Second Hand Values 2002-2023**  
+> Unit: Million USD · X-axis: Jan-2002 to Jan-2023  
+> Series: Newbuilding Price, 5 Yr Old  
+> *Source: Poten & Partners*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2023/poten_2023-03-17_here-we-go-again_chart2.png)

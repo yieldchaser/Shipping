@@ -29,11 +29,11 @@ source_file: "corpus/03-breakwave/insights/2024/2024-01-12_the-most-important-ch
 
 Similarly 6 out of 9 months over Jan-Sep 2023 had yielded record imports for gasoline and blending components. The so-called “revenge” demand after Covid and a string of refinery outages contributed to strong trade flows and high cracks.
 
-![Arrivals Ofgasoline/blending Componentsanddieselin Top-100](assets/2024-01-12_the-most-important-chart-moving-from-2023-into-2024_img_011028129_676b9a417b98.png)
+![Arrivals Ofgasoline/blending Componentsanddieselin Top-100](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-01-12_the-most-important-chart-moving-from-2023-into-2024_img_011028129_676b9a417b98.png)
 
 > **Figure 1: Arrivals Ofgasoline/blending Componentsanddieselin Top-100**  
 > *Arrivals ofgasoline/blending componentsanddieselin Top-100 import ports (mbd)*  
-> **Interactive Data & Source:** [Tinyurl](http://tinyurl.com/4kyjfyd5) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-01-12_the-most-important-chart-moving-from-2023-into-2024_img_011028129_676b9a417b98.png)
+> **Interactive Data & Source:** [Tinyurl](http://tinyurl.com/4kyjfyd5) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-01-12_the-most-important-chart-moving-from-2023-into-2024_img_011028129_676b9a417b98.png)
 
 While over Q3 growth momentum for both gasoline and diesel started to fade, Q4 2023 saw a dramatic reverse of dynamics. For each month over Oct-Dec, both gasoline and diesel imports were lower year-on-year. In the case of gasoline, levels fell even into close reach of the 2016-2022 seasonal averages. The observation is a global one, but no regional market is holding up particularly strongly.
 

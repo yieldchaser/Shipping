@@ -19,35 +19,35 @@ source_file: "corpus/03-breakwave/insights/2023/2023-07-03_brs-dry-bulk-weekly-n
 
 ---
 
-![Rgb Color Brs Shipbrokers Monogram Logo](assets/2023-07-03_brs-dry-bulk-weekly-newsletter_img_rgb-color-brs-shipbrokers-monogram-l_ee79606c8e74.png)
+![Rgb Color Brs Shipbrokers Monogram Logo](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-07-03_brs-dry-bulk-weekly-newsletter_img_rgb-color-brs-shipbrokers-monogram-l_ee79606c8e74.png)
 
 > **Figure 1: Rgb Color Brs Shipbrokers Monogram Logo**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-07-03_brs-dry-bulk-weekly-newsletter_img_rgb-color-brs-shipbrokers-monogram-l_ee79606c8e74.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-07-03_brs-dry-bulk-weekly-newsletter_img_rgb-color-brs-shipbrokers-monogram-l_ee79606c8e74.png)
 
 ## Capesize Shipments of Guinea Bauxite Forecasted to Slow Down in Q3 Amid Rainy Seasons
 
 Based on AXSMarine data, during the first five months of 2023, the seaborne export of bauxite remained strong, exhibiting a growth of 2.3 million tons (3.4% year-on-year) compared to the corresponding period of the previous year. When examining the distribution across vessel types, there was a notable movement towards larger sizes. This was demonstrated as Capesizes carried 6.3 million tons more (increasing by 15.7% y-o-y). Meanwhile, shipments on smaller Over-Panamaxes and Panamaxes fell by 3.3 million tons (32.7% y-o-y) and 1.5 million tons (14.2% y-o-y), respectively.
 
-![1 (4)](assets/2023-07-03_brs-dry-bulk-weekly-newsletter_img_128429_491333100b55.png)
+![1 (4)](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-07-03_brs-dry-bulk-weekly-newsletter_img_128429_491333100b55.png)
 
 > **Figure 2: 1 (4)**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-07-03_brs-dry-bulk-weekly-newsletter_img_128429_491333100b55.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-07-03_brs-dry-bulk-weekly-newsletter_img_128429_491333100b55.png)
 
 Guinea continued to dominate the seaborne bauxite export market, accounting for 71.7% of seaborne volumes worldwide in the first five months of 2023. Australia followed closely with an 18.2% market share. However, Indonesia, which held a 10.7% market share in 2022, significantly cut its exports in 2023, reducing by 7.8 million tons compared to the same period last year. This decline was attributed to the announcement made by President Joko Widodo in late December 2022, stating that bauxite exports from Indonesia would be banned from June 2023. Notably, despite Indonesian shipments of bauxite on Capesizes falling by a significant 7.3 million tons, this was more-than-offset by an increase of 13.3 million tons in bauxite shipments on Capesizes from Guinea, all of which was destined for China.
 
-![1 (5)](assets/2023-07-03_brs-dry-bulk-weekly-newsletter_img_128529_d3d4f22bf39d.png)
+![1 (5)](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-07-03_brs-dry-bulk-weekly-newsletter_img_128529_d3d4f22bf39d.png)
 
 > **Figure 3: 1 (5)**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-07-03_brs-dry-bulk-weekly-newsletter_img_128529_d3d4f22bf39d.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-07-03_brs-dry-bulk-weekly-newsletter_img_128529_d3d4f22bf39d.png)
 
 Global alumina production in the first four months of 2023 remained consistent with 2022 levels, reaching 44.8 million tons, according to data from the International Aluminium Institute. A slight increase of 1.3 million tons from China was counterbalanced by a reduction of 1 million tons in Europe. In 2022, China represented 57% of global production, with Australia (Rio Tinto, Alcoa, Rusal) holding a 14% share and Brazil (Hydro, Rio Tinto, Alcoa) capturing an 8% share. It is worth noting that Australia and Brazil are both net-exporters of bauxite, with respective outputs of 100 million tons and 33 million tons in 2022. Since they are self-sufficient in bauxite supply, their alumina output doesn’t influence changes in global bauxite shipments.
 
 According to the sample data collected by Aladdiny, China possessed a total alumina capacity of 95.92 million tons by the end of 2022. Antaike estimated that approximately 54% of the alumina were refined from imported bauxite. Their projections indicated that 9.2 million tons of additional capacity was introduced in 2022, with a further 3.8 million tons to be added in 2023, all relying on imported bauxite. Since 2017, the utilization of domestic bauxite in China has been declining, while the consumption of imported bauxite has continued to rise. This trend suggests that the dependence on imported bauxite will continue to grow throughout 2023.
 
-![1 (6)](assets/2023-07-03_brs-dry-bulk-weekly-newsletter_img_128629_26b99d4bad7f.png)
+![1 (6)](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-07-03_brs-dry-bulk-weekly-newsletter_img_128629_26b99d4bad7f.png)
 
 > **Figure 4: 1 (6)**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-07-03_brs-dry-bulk-weekly-newsletter_img_128629_26b99d4bad7f.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-07-03_brs-dry-bulk-weekly-newsletter_img_128629_26b99d4bad7f.png)
 
 Antaike has provided a forecast stating that in 2023, approximately 49 million tons of alumina will be produced in China using imported bauxite. This translates to bauxite demand of 137.5 million tons. In the initial five months of the year, China has already imported 60.6 million tons of bauxite, averaging around 12.1 million tons per month. To fulfil the required alumina production, an additional 76.9 million tons of bauxite (averaging around 11 million tons per month) will need to be imported.
 

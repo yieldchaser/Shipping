@@ -30,10 +30,17 @@ The timing of the tanker market recovery remains uncertain, but there are clear 
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: Ready For Takeoff](../../../charts/poten/2021/poten_2021-02-26_ready-for-takeoff_chart1.png)
+![Exhibit 1: Seaborne Crude Oil Exports By Load Region](../../../charts/poten/2021/poten_2021-02-26_ready-for-takeoff_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2021/poten_2021-02-26_ready-for-takeoff_chart1.png)
+> **Exhibit 1: Seaborne Crude Oil Exports By Load Region**  
+> Unit: TonMiles (Mln) per Day · X-axis: Jan-15 to Jan-21  
+> Series: Middle East, West Africa, Mediterranean, Americas, Atlantic, UKC/Baltic, Asia/Australia, Americas, Pacific  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2021/poten_2021-02-26_ready-for-takeoff_chart1.png)
 
-![Exhibit 2: Ready For Takeoff](../../../charts/poten/2021/poten_2021-02-26_ready-for-takeoff_chart2.png)
+![Exhibit 2: Seaborne Crude Oil Exports By Discharge Region](../../../charts/poten/2021/poten_2021-02-26_ready-for-takeoff_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2021/poten_2021-02-26_ready-for-takeoff_chart2.png)
+> **Exhibit 2: Seaborne Crude Oil Exports By Discharge Region**  
+> Unit: TonMiles (Mln) per Day · X-axis: Jan-15 to Jan-21  
+> Series: Asia/Australia, Americas, Atlantic, Americas, Pacific, Mediterranean, Middle East/E Africa, UKC/Baltic, West Africa  
+> *Source: Lloyd's List Intelligence*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2021/poten_2021-02-26_ready-for-takeoff_chart2.png)

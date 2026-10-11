@@ -52,6 +52,10 @@ When comparing reported dirty spot fixture volumes in so far in 2015 with the sa
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: Top Dirty Tanker Routes in 20151](../../../charts/poten/2015/poten_2015-08-07_top-dirty-tanker-routes-in-20151_chart1.png)
+![Exhibit 1: Dirty Tanker Routes Showing Largest Increases and Decreases (2015 vs 2014)](../../../charts/poten/2015/poten_2015-08-07_top-dirty-tanker-routes-in-20151_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2015/poten_2015-08-07_top-dirty-tanker-routes-in-20151_chart1.png)
+> **Exhibit 1: Dirty Tanker Routes Showing Largest Increases and Decreases (2015 vs 2014)**  
+> Unit: Million Tons · X-axis: MED - UKC to AG - Far East  
+> Series: Increase, Decrease  
+> *Source: Poten & Partners*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2015/poten_2015-08-07_top-dirty-tanker-routes-in-20151_chart1.png)

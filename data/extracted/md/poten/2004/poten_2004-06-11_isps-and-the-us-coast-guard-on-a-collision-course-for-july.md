@@ -46,6 +46,3 @@ The development of the code has given the industry a regulatory framework that h
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: ISPS and the US Coast Guard - On a Collision Course for July 1st?](../../../charts/poten/2004/poten_2004-06-11_isps-and-the-us-coast-guard-on-a-collision-course-for-july_chart1.png)
-
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2004/poten_2004-06-11_isps-and-the-us-coast-guard-on-a-collision-course-for-july_chart1.png)

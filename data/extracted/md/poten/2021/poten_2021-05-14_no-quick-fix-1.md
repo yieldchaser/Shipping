@@ -36,10 +36,17 @@ The tanker market needs a supply adjustment. While a low-rate environment will e
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: No Quick Fix 1](../../../charts/poten/2021/poten_2021-05-14_no-quick-fix-1_chart1.png)
+![Exhibit 1: Crude & Dirty Product TM Demand by Load Region](../../../charts/poten/2021/poten_2021-05-14_no-quick-fix-1_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2021/poten_2021-05-14_no-quick-fix-1_chart1.png)
+> **Exhibit 1: Crude & Dirty Product TM Demand by Load Region**  
+> Unit: TonMiles (Mln) per Day · X-axis: Jan-19 to Apr-21  
+> Series: Middle East, West Africa, Mediterranean, Americas, Atlantic, UKC/Baltic, Asia/Australia, Americas, Pacific, Avg 2019 Q1  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2021/poten_2021-05-14_no-quick-fix-1_chart1.png)
 
-![Exhibit 2: No Quick Fix 1](../../../charts/poten/2021/poten_2021-05-14_no-quick-fix-1_chart2.png)
+![Exhibit 2: Oil Tanker Fleet Size](../../../charts/poten/2021/poten_2021-05-14_no-quick-fix-1_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2021/poten_2021-05-14_no-quick-fix-1_chart2.png)
+> **Exhibit 2: Oil Tanker Fleet Size**  
+> Unit: M DWT · X-axis: Jan-19 to May-21  
+> Series: VLCC, Suezmax, Aframax/LR2, 2019 Q1 Average  
+> *Source: Lloyds List Intelligence/Poten*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2021/poten_2021-05-14_no-quick-fix-1_chart2.png)

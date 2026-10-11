@@ -20,11 +20,11 @@ source_file: "corpus/03-breakwave/insights/2026/2026-01-09_why-the-vlcc-market-h
 
 ---
 
-![Bymette Frederiksen](assets/2026-01-09_why-the-vlcc-market-had-one-of-the-strongest-years-in-a-decade-and-what-could-li_img_1767711335630_8e087d6fffaa.jpg)
+![Bymette Frederiksen](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-01-09_why-the-vlcc-market-had-one-of-the-strongest-years-in-a-decade-and-what-could-li_img_1767711335630_8e087d6fffaa.jpg)
 
 > **Figure 1: Bymette Frederiksen**  
 > *ByMette Frederiksen*  
-> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/in/mette-frederiksen-2a826216/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-01-09_why-the-vlcc-market-had-one-of-the-strongest-years-in-a-decade-and-what-could-li_img_1767711335630_8e087d6fffaa.jpg)
+> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/in/mette-frederiksen-2a826216/) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-01-09_why-the-vlcc-market-had-one-of-the-strongest-years-in-a-decade-and-what-could-li_img_1767711335630_8e087d6fffaa.jpg)
 
 The VLCC market has just wrapped up one of its most powerful freight environments in years. Earnings surged past $100,000 per day, with momentum staying strong throughout Q3 and Q4.
 

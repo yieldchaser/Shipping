@@ -40,6 +40,8 @@ As ship owners and charterers well know, planning, evaluating and executing sign
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: Prognosticator's Peril](../../../charts/poten/2007/poten_2007-05-18_prognosticators-peril_chart1.png)
-
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2007/poten_2007-05-18_prognosticators-peril_chart1.png)
+> **Chart on PDF page 1: US Gasoline Production**  
+> Unit: Mbbl/day | % · X-axis: Jan-2004 to Dec-2006  
+> Series: Million Barrels Per Day, Refinery Utilization  
+> *Source: EIA/Poten*  
+> *No image crop of this chart was saved; caption read from the PDF.*

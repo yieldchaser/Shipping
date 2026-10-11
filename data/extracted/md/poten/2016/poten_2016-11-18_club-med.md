@@ -32,8 +32,8 @@ Oil flows in the Mediterranean are rising and because of stagnant regional deman
 
 ![Exhibit 1: Club Med](../../../charts/poten/2016/poten_2016-11-18_club-med_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2016/poten_2016-11-18_club-med_chart1.png)
+> **Interactive Asset:** [Local Asset (200 DPI PNG)](../../../charts/poten/2016/poten_2016-11-18_club-med_chart1.png)
 
 ![Exhibit 2: Club Med](../../../charts/poten/2016/poten_2016-11-18_club-med_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2016/poten_2016-11-18_club-med_chart2.png)
+> **Interactive Asset:** [Local Asset (200 DPI PNG)](../../../charts/poten/2016/poten_2016-11-18_club-med_chart2.png)

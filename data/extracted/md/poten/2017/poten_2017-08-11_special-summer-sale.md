@@ -30,10 +30,18 @@ Our analysis is admittedly basic and could be flawed, since it is backward looki
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: Special Summer Sale](../../../charts/poten/2017/poten_2017-08-11_special-summer-sale_chart1.png)
+![Exhibit 1: VLCC: Historical Newbuilding and Second Hand Values](../../../charts/poten/2017/poten_2017-08-11_special-summer-sale_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2017/poten_2017-08-11_special-summer-sale_chart1.png)
+> **Exhibit 1: VLCC: Historical Newbuilding and Second Hand Values**  
+> Unit: Million USD · X-axis: Jan-2000 to Jan-2017  
+> Series: Newbuilding, SH: 5 Yr Old  
+> *Source: Poten & Partners*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2017/poten_2017-08-11_special-summer-sale_chart1.png)
 
-![Exhibit 2: Special Summer Sale](../../../charts/poten/2017/poten_2017-08-11_special-summer-sale_chart2.png)
+![Exhibit 2: Break Even Prices vs Spot & TC Rates](../../../charts/poten/2017/poten_2017-08-11_special-summer-sale_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2017/poten_2017-08-11_special-summer-sale_chart2.png)
+> **Exhibit 2: Break Even Prices vs Spot & TC Rates**  
+> Unit: TCE $ · X-axis: VLCC to MR  
+> Series: NB BE, 5yr old BE, 5yr TC Rate, Spot (last 5yrs)  
+> *Source: Poten & Partners*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2017/poten_2017-08-11_special-summer-sale_chart2.png)

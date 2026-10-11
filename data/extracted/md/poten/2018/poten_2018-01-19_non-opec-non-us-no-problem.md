@@ -32,8 +32,8 @@ In summary, non-OPEC crude oil production remains supportive to the tanker marke
 
 ![Exhibit 1: Non OPEC Non US No Problem](../../../charts/poten/2018/poten_2018-01-19_non-opec-non-us-no-problem_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2018/poten_2018-01-19_non-opec-non-us-no-problem_chart1.png)
+> **Interactive Asset:** [Local Asset (200 DPI PNG)](../../../charts/poten/2018/poten_2018-01-19_non-opec-non-us-no-problem_chart1.png)
 
 ![Exhibit 2: Non OPEC Non US No Problem](../../../charts/poten/2018/poten_2018-01-19_non-opec-non-us-no-problem_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2018/poten_2018-01-19_non-opec-non-us-no-problem_chart2.png)
+> **Interactive Asset:** [Local Asset (200 DPI PNG)](../../../charts/poten/2018/poten_2018-01-19_non-opec-non-us-no-problem_chart2.png)

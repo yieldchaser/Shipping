@@ -41,20 +41,20 @@ On the other hand, OPEC’s analysts are considerably less concerned regarding t
 **** The late-year resurgence of the pandemic has dashed any hopes for the beleaguered owners of crude tankers of ending the year on a positive note. While a recovery during the latter part of December has brought VLCC rates above those recorded at the end of last year, the freight markets have failed to mirror the strength of the crude oil markets throughout the year. Despite a sizeable retreat, crude oil prices have gained around forty per cent year to date. The freight rates exhibited some positive momentum during the second half of the year, with a fifty per cent increase in WS rates between late August and the end of October. However, much of those gains have evaporated in recent weeks. The rapid spread of the Omicron amplified the effects of the release of crude oil from strategic reserves by the US and other countries and have dampened the demand for seaborne tanker transportation. The disparity between the performance of the oil and freight markets highlights that supply has been the main factor, with too much tonnage available at the same time as OPEC and other producers have constrained output.
 
 
-![Image 1: Year to Date Development of Brent Crude Prices and VLCC Market Rates](../../images/66b51dc9da739356d24f692e_61c5a0777ee78e20875b3a64_1%20Signal%20Ocean%20Platform%20-%20Year%20to%20date%20development%20of%20Brent%20Crude%20prices%20and%20VLCC%20market%20rates.avif)
+![Image 1: Year to Date Development of Brent Crude Prices and VLCC Market Rates](../../images/66b51dc9da739356d24f692e_61c5a0777ee78e20875b3a64_1%2520Signal%2520Ocean%2520Platform%2520-%2520Year%2520to%2520date%2520development%2520of%2520Brent%2520Crude%2520prices%2520and%2520VLCC%2520market%2520rates.avif)
 
 > **Figure 1: Image 1: Year to Date Development of Brent Crude Prices and VLCC Market Rates**  
 > *Image 1: Year to date development of Brent Crude prices and VLCC market rates*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/a-lost-year-for-tanker-owners-will-2022-rates-offer-some-relief) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/66b51dc9da739356d24f692e_61c5a0777ee78e20875b3a64_1%20Signal%20Ocean%20Platform%20-%20Year%20to%20date%20development%20of%20Brent%20Crude%20prices%20and%20VLCC%20market%20rates.avif)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/a-lost-year-for-tanker-owners-will-2022-rates-offer-some-relief) | [Local Asset](../../../../../../corpus/07-signal/images/66b51dc9da739356d24f692e_61c5a0777ee78e20875b3a64_1%2520Signal%2520Ocean%2520Platform%2520-%2520Year%2520to%2520date%2520development%2520of%2520Brent%2520Crude%2520prices%2520and%2520VLCC%2520market%2520rates.avif)
 
 The energy crunch that befell China in the earlier parts of the quarter saw the headlines dominated by coal and natural gas as imports and prices surged. However, somewhat in the shadows, crude oil shipments to the world’s largest importer also increased as the country boosted its energy purchases. VLCC shipments to Chinese ports have risen by almost forty per cent since the middle of October and provided the freight markets with some much-needed support.
 
 
-![Image 2: Signal Ocean Data | Chinese Seaborne Crude Oil Imports as Measured in Ton Miles](../../images/66b51dc9da739356d24f698b_61c5a0972d36e702f0327622_2%20Signal%20Ocean%20platform%20Chinese%20seaborne%20crude%20oil%20imports%20as%20measured%20in%20ton%20miles.avif)
+![Image 2: Signal Ocean Data | Chinese Seaborne Crude Oil Imports as Measured in Ton Miles](../../images/66b51dc9da739356d24f698b_61c5a0972d36e702f0327622_2%2520Signal%2520Ocean%2520platform%2520Chinese%2520seaborne%2520crude%2520oil%2520imports%2520as%2520measured%2520in%2520ton%2520miles.avif)
 
 > **Figure 2: Image 2: Signal Ocean Data | Chinese Seaborne Crude Oil Imports as Measured in Ton Miles**  
 > *Image 2: Signal Ocean Data | Chinese seaborne crude oil imports as measured in ton miles*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/a-lost-year-for-tanker-owners-will-2022-rates-offer-some-relief) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/66b51dc9da739356d24f698b_61c5a0972d36e702f0327622_2%20Signal%20Ocean%20platform%20Chinese%20seaborne%20crude%20oil%20imports%20as%20measured%20in%20ton%20miles.avif)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/a-lost-year-for-tanker-owners-will-2022-rates-offer-some-relief) | [Local Asset](../../../../../../corpus/07-signal/images/66b51dc9da739356d24f698b_61c5a0972d36e702f0327622_2%2520Signal%2520Ocean%2520platform%2520Chinese%2520seaborne%2520crude%2520oil%2520imports%2520as%2520measured%2520in%2520ton%2520miles.avif)
 
 
 #### Crude Demand - VLCC Shipments
@@ -67,11 +67,11 @@ Unless the Omicron variant, or yet another mutation, wreaks complete havoc on th
 One factor that is unlikely to support rates in the coming year is slow-steaming. According to [Signal’s data](/signal-ocean/platform), the weekly average speeds in the crude trade have been trending lower for much of the year. While average speeds picked up during the first half of the fourth quarter, as demand and freight rates rebound, renewed concerns over the pandemic have seen vessels slowing down yet again. As a result, speeds are still below what was recorded a year ago and will offer only limited scope for additional slow-steaming should the demand remain weak.
 
 
-![Image 3: Signal Ocean Data | Weekly Average Vessel Speed by Tonnage Segment (Laden and Ballast) in Knots During the Last Twelve Months](../../images/66b51dc9da739356d24f6a0b_61c5a0b44c32b423eaaa02e9_3%20Signal%20Ocean%20Data%20%20Weekly%20average%20vessel%20speed%20by%20tonnage%20segment%20laden%20and%20ballast%20in%20knots.avif)
+![Image 3: Signal Ocean Data | Weekly Average Vessel Speed by Tonnage Segment (Laden and Ballast) in Knots During the Last Twelve Months](../../images/66b51dc9da739356d24f6a0b_61c5a0b44c32b423eaaa02e9_3%2520Signal%2520Ocean%2520Data%2520%2520Weekly%2520average%2520vessel%2520speed%2520by%2520tonnage%2520segment%2520laden%2520and%2520ballast%2520in%2520knots.avif)
 
 > **Figure 3: Image 3: Signal Ocean Data | Weekly Average Vessel Speed by Tonnage Segment (Laden and Ballast) in Knots During the Last Twelve Months**  
 > *Image 3: Signal Ocean Data | Weekly average vessel speed by tonnage segment (laden and ballast) in knots during the last twelve months*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/a-lost-year-for-tanker-owners-will-2022-rates-offer-some-relief) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/66b51dc9da739356d24f6a0b_61c5a0b44c32b423eaaa02e9_3%20Signal%20Ocean%20Data%20%20Weekly%20average%20vessel%20speed%20by%20tonnage%20segment%20laden%20and%20ballast%20in%20knots.avif)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/a-lost-year-for-tanker-owners-will-2022-rates-offer-some-relief) | [Local Asset](../../../../../../corpus/07-signal/images/66b51dc9da739356d24f6a0b_61c5a0b44c32b423eaaa02e9_3%2520Signal%2520Ocean%2520Data%2520%2520Weekly%2520average%2520vessel%2520speed%2520by%2520tonnage%2520segment%2520laden%2520and%2520ballast%2520in%2520knots.avif)
 
 
 #### Clean Mr2
@@ -79,20 +79,20 @@ One factor that is unlikely to support rates in the coming year is slow-steaming
 While the dirty tanker sector has had a challenging year, the freight market for tankers transporting refined petroleum products has eventually endured a less problematic year. Unlike their dirty siblings, clean tankers have enjoyed quite a revival during the last month. Freight rates for clean MR2 tankers on the Continent to US Atlantic Coast route have enjoyed the best rates since May 2020 in the recent days.
 
 
-![Image 4: Signal Ocean Data | Markets Rates (WS) for Clean Mr2 Tankers on the Continent to US Atlantic Trade](../../images/66b51dcada739356d24f6a6e_61c5a0d09233fd92319a30a7_4%20Signal%20Ocean%20Data%20%20Markets%20rates%20WS%20for%20clean%20MR2%20tankers%20on%20the%20Continent%20to%20US.avif)
+![Image 4: Signal Ocean Data | Markets Rates (WS) for Clean Mr2 Tankers on the Continent to US Atlantic Trade](../../images/66b51dcada739356d24f6a6e_61c5a0d09233fd92319a30a7_4%2520Signal%2520Ocean%2520Data%2520%2520Markets%2520rates%2520WS%2520for%2520clean%2520MR2%2520tankers%2520on%2520the%2520Continent%2520to%2520US.avif)
 
 > **Figure 4: Image 4: Signal Ocean Data | Markets Rates (WS) for Clean Mr2 Tankers on the Continent to US Atlantic Trade**  
 > *Image 4: Signal Ocean Data | Markets rates (WS) for clean MR2 tankers on the Continent to US Atlantic trade*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/a-lost-year-for-tanker-owners-will-2022-rates-offer-some-relief) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/66b51dcada739356d24f6a6e_61c5a0d09233fd92319a30a7_4%20Signal%20Ocean%20Data%20%20Markets%20rates%20WS%20for%20clean%20MR2%20tankers%20on%20the%20Continent%20to%20US.avif)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/a-lost-year-for-tanker-owners-will-2022-rates-offer-some-relief) | [Local Asset](../../../../../../corpus/07-signal/images/66b51dcada739356d24f6a6e_61c5a0d09233fd92319a30a7_4%2520Signal%2520Ocean%2520Data%2520%2520Markets%2520rates%2520WS%2520for%2520clean%2520MR2%2520tankers%2520on%2520the%2520Continent%2520to%2520US.avif)
 
 The release of strategic oil reserves harmed the tonnage demand in the dirty sector. Their proximity to the refineries reduced the need for seaborne transportation compared to the oil moving from overseas producers. On the other hand, the release did not alter the demand for refined products and, hence, the clean sector did well as global demand for fuel continued to recover. The number of laden MR2 vessels have been trending higher during the fourth quarter as the global economic recovery kept gaining momentum. Average vessel speeds in the clean taker trade have been volatile throughout the year but have risen recently, as the number of laden vessels increased during December.
 
 
-![Image 5: Signal Ocean Data | Average Mr2 Speeds in the Clean Trade with the Number of Laden Vessels in the Segment](../../images/66b51dcada739356d24f6a6b_61c5a0eb13ba321352b9e130_5%20Signal%20Ocean%20Data%20%20Average%20MR2%20Speeds%20in%20the%20clean%20trade%20with%20the%20number%20of%20laden%20vessels.avif)
+![Image 5: Signal Ocean Data | Average Mr2 Speeds in the Clean Trade with the Number of Laden Vessels in the Segment](../../images/66b51dcada739356d24f6a6b_61c5a0eb13ba321352b9e130_5%2520Signal%2520Ocean%2520Data%2520%2520Average%2520MR2%2520Speeds%2520in%2520the%2520clean%2520trade%2520with%2520the%2520number%2520of%2520laden%2520vessels.avif)
 
 > **Figure 5: Image 5: Signal Ocean Data | Average Mr2 Speeds in the Clean Trade with the Number of Laden Vessels in the Segment**  
 > *Image 5: Signal Ocean Data | Average MR2 Speeds in the clean trade with the number of laden vessels in the segment*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/a-lost-year-for-tanker-owners-will-2022-rates-offer-some-relief) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/66b51dcada739356d24f6a6b_61c5a0eb13ba321352b9e130_5%20Signal%20Ocean%20Data%20%20Average%20MR2%20Speeds%20in%20the%20clean%20trade%20with%20the%20number%20of%20laden%20vessels.avif)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/a-lost-year-for-tanker-owners-will-2022-rates-offer-some-relief) | [Local Asset](../../../../../../corpus/07-signal/images/66b51dcada739356d24f6a6b_61c5a0eb13ba321352b9e130_5%2520Signal%2520Ocean%2520Data%2520%2520Average%2520MR2%2520Speeds%2520in%2520the%2520clean%2520trade%2520with%2520the%2520number%2520of%2520laden%2520vessels.avif)
 
 
 ### The Tanker Market Recovery Drifting Further Into Next Year

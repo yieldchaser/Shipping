@@ -26,11 +26,11 @@ On Monday Trump cut India’s tariffs on exports to the US from 50% to 18%. Trum
 
 Since last October India has been a key growth market for compliant oil from both the Middle East and the Atlantic. The replacement of Russian crude imports lost to sanctions has been shared almost evenly between the Middle East and South America. While Russia’s (incl. CPC) share of India’s imports fell by nearly 13 percentage-points between Q3 2025 and January 2026, the Middle East’s share of Indian imports grew by 7.2 percentage-points (mostly increases from Saudi Arabia, Qatar and Iraq), while Latin America’s grew by 6.6 percentage-points (mostly from Brazil – compensating for declining volumes from the US after a post-tariff surge in October last year).
 
-![Source: Vortexa](assets/2026-02-05_big-picture-india-us-trade-deal_img_46e3-image-0-1770223748378_6256ba046755.png)
+![Source: Vortexa](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-02-05_big-picture-india-us-trade-deal_img_46e3-image-0-1770223748378_6256ba046755.png)
 
 > **Figure 1: Source: Vortexa**  
 > *Source: Vortexa. Volume from Russia includes CPC blend.*  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-02-05_big-picture-india-us-trade-deal_img_46e3-image-0-1770223748378_6256ba046755.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-02-05_big-picture-india-us-trade-deal_img_46e3-image-0-1770223748378_6256ba046755.png)
 
 In theory we could now see India drop a further 1m b/d of Russia crude imports. This assumes the EU/UK sanctioned Nayara stops taking approx. 400k b/d of Russian crude (for which no obvious alternative sources are available). If the slack was once again picked up in roughly equal measure by the Middle East and South America, and allowing for the growth in India oil imports since Q3 2025 averages, this could see an extra 520k b/d arriving from the Mid East, and 480k b/d from South America.
 
@@ -42,10 +42,10 @@ However, it could be that Latin America’s could eat into the Middle East’s s
 
 If this competitiveness allowed the Middle East to make up 80% of India’s shortage of Russian bbls, this might require an extra 7 VLCCs for Middle East/India, 6 for US/India and 4 for Latin America to India.
 
-![B688 Image 1 1770224004154](assets/2026-02-05_big-picture-india-us-trade-deal_img_b688-image-1-1770224004154_bac73c12e84a.png)
+![B688 Image 1 1770224004154](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-02-05_big-picture-india-us-trade-deal_img_b688-image-1-1770224004154_bac73c12e84a.png)
 
 > **Figure 2: B688 Image 1 1770224004154**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-02-05_big-picture-india-us-trade-deal_img_b688-image-1-1770224004154_bac73c12e84a.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-02-05_big-picture-india-us-trade-deal_img_b688-image-1-1770224004154_bac73c12e84a.png)
 
 ### The Case for the Middle East
 
@@ -63,19 +63,19 @@ In 2025, Guyana’s crude exports were 717k b/d in 2025 (+106k b/d yoy), Brazil�
 
 Given the benefit of economies of scale on long-hauls to India, VLCC ability to load in Guyana and Argentina will be the limiting factor. Since Guyana’s crude exports started in 2020, VLCC liftings have generally been restricted in Guyana from late-autumn through January each year thanks to high waves. During that period Suezmaxes traditionally loaded all cargoes, and they tend to stay in the Atlantic. However, in Q4 of 2025, seven VLCCs moved Guyanese crude to Asia. Argentina only recently started loading Suezmaxes at Puerto Rosales last August, before which all exports were limited to Aframax and Panamax. Argentina’s VMSO pipeline to a new deepwater port at Punta Colorado will add180k b/d of export capacity in late 2026, rising to 550k b/d in 2027. This comes on the heels of the Puerto Rosales expansion in 2025, which saw exports increase by nearly 150k b/d.
 
-![5903 Image 1 1770223772537](assets/2026-02-05_big-picture-india-us-trade-deal_img_5903-image-1-1770223772537_4820ccfa7bb6.png)
+![5903 Image 1 1770223772537](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-02-05_big-picture-india-us-trade-deal_img_5903-image-1-1770223772537_4820ccfa7bb6.png)
 
 > **Figure 3: 5903 Image 1 1770223772537**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-02-05_big-picture-india-us-trade-deal_img_5903-image-1-1770223772537_4820ccfa7bb6.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-02-05_big-picture-india-us-trade-deal_img_5903-image-1-1770223772537_4820ccfa7bb6.png)
 
 Trump’s announcement leaves several questions unanswered. Is the Indian government now going to restrict the 647k b/d of Russian crude imported by state-owned refiners in January? Where does this leave the EU/UK-sanctioned Nayara refinery, which is solely reliant on Russian crude (circa 400k b/d of Russia imports)? Will the Indian government insist on full compliance by its private refiners other than Nayara? Reliance and HMEL have already cut their Russian crude imports to zero in January following Europe’s Jan 21st ban on CPP refined from Russian crude oil. Commentators have expressed some scepticism that India would stop all Russian imports. They have suggested that the US-India deal could be more about pressuring Russia than a real desire to end India-bound Russian flows.
 
 Nevertheless, while any import restrictions remain in place, a battle is shaping up between the Americas and the Middle East for market share in India. Compliant tankers should benefit. The question is the extent to which average haul length rises, and which ship sizes will be favoured.
 
-![01c7 Image 3 1770224055344](assets/2026-02-05_big-picture-india-us-trade-deal_img_01c7-image-3-1770224055344_36ff5ff08e45.png)
+![01c7 Image 3 1770224055344](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-02-05_big-picture-india-us-trade-deal_img_01c7-image-3-1770224055344_36ff5ff08e45.png)
 
 > **Figure 4: 01c7 Image 3 1770224055344**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-02-05_big-picture-india-us-trade-deal_img_01c7-image-3-1770224055344_36ff5ff08e45.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-02-05_big-picture-india-us-trade-deal_img_01c7-image-3-1770224055344_36ff5ff08e45.png)
 
 ---
 

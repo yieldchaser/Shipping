@@ -30,10 +30,18 @@ On the product side, the situation is rather similar. If Venezuela can no longer
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: Face off in Venezuela](../../../charts/poten/2019/poten_2019-01-25_face-off-in-venezuela_chart1.png)
+![Exhibit 1: Venezuela* Crude Oil Exports](../../../charts/poten/2019/poten_2019-01-25_face-off-in-venezuela_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2019/poten_2019-01-25_face-off-in-venezuela_chart1.png)
+> **Exhibit 1: Venezuela* Crude Oil Exports**  
+> Unit: Kb/d · X-axis: Jan-14 to Oct-18  
+> Series: USA, China, India, Europe, Other  
+> *Source: Lloyd’s List Intelligence*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2019/poten_2019-01-25_face-off-in-venezuela_chart1.png)
 
-![Exhibit 2: Face off in Venezuela](../../../charts/poten/2019/poten_2019-01-25_face-off-in-venezuela_chart2.png)
+![Exhibit 2: U.S. Product Exports to Venezuela](../../../charts/poten/2019/poten_2019-01-25_face-off-in-venezuela_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2019/poten_2019-01-25_face-off-in-venezuela_chart2.png)
+> **Exhibit 2: U.S. Product Exports to Venezuela**  
+> Unit: Kb/d · X-axis: Jan-14 to Oct-18  
+> Series: Unfinished Oils, Distillates, Gasoline & Blending Comp.  
+> *Source: EIA*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2019/poten_2019-01-25_face-off-in-venezuela_chart2.png)

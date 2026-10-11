@@ -23,10 +23,10 @@ source_file: "corpus/03-breakwave/insights/2022/2022-09-07_commodity-markets-fal
 
 Worsening economic conditions in China and Europe created a risk-off tone across markets. Commodities came under pressure, with energy leading the complex lower. A stronger USD also weighed on investor appetite.
 
-![1662501561333](assets/2022-09-07_commodity-markets-fall-as-the-economic-backdrop-deteriorates_img_1662501561333_603a871294c3.png)
+![1662501561333](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-09-07_commodity-markets-fall-as-the-economic-backdrop-deteriorates_img_1662501561333_603a871294c3.png)
 
 > **Figure 1: 1662501561333**  
-> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-09-07_commodity-markets-fall-as-the-economic-backdrop-deteriorates_img_1662501561333_603a871294c3.png)
+> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-09-07_commodity-markets-fall-as-the-economic-backdrop-deteriorates_img_1662501561333_603a871294c3.png)
 
 **Crude oil**fell as concerns over demand weighed on sentiment. The city of Guiyang joined Chengdu in restricting movement by the public amid renewed outbreaks of COVID-19. More infectious strains of the virus are raising concerns that authorities will be forced to more frequently lockdown areas as China persists with a zero-COVID strategy. The tone in today’s market was in stark contrast to yesterday, after OPEC unexpectedly cut output at its monthly meeting. The 100kb/d cut in output for October sends a signal to the market that OPEC doesn’t see the current move as representative of the fundamentals in the market.
 

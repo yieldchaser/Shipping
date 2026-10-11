@@ -20,10 +20,10 @@ source_file: "corpus/03-breakwave/insights/2020/2020-08-03_2unrs5w9vbna7njjpbkdo
 
 ---
 
-![Img 1994](assets/2020-08-03_2unrs5w9vbna7njjpbkdo4loy7xx78_img_img-1994_549767fc9549.jpeg)
+![Img 1994](../../../../../../corpus/03-breakwave/insights/2020/assets/2020-08-03_2unrs5w9vbna7njjpbkdo4loy7xx78_img_img-1994_549767fc9549.jpeg)
 
 > **Figure 1: Img 1994**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2020/assets/2020-08-03_2unrs5w9vbna7njjpbkdo4loy7xx78_img_img-1994_549767fc9549.jpeg)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2020/assets/2020-08-03_2unrs5w9vbna7njjpbkdo4loy7xx78_img_img-1994_549767fc9549.jpeg)
 
 As we highlighted in several notes last month, China has recently made several unprecedented large purchases of corn from the United States. Overall, any deterioration in US-China relations is not having an impact on China’s agricultural purchases. July 10th saw China purchase 1.365 million tons of US corn, which at the time marked China's largest one-day purchase of US corn since 1994. July 14th then saw 1.762 million tons purchased, which marked China's largest ever one-day purchase of US corn. More recently, July 30th saw 1.937 million tons of US corn purchased which now stands as China’s largest ever one-day purchase.
 

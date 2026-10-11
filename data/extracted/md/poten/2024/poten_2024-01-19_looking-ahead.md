@@ -36,10 +36,16 @@ Overall, the year 2024 should be another strong year across the tanker universe.
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: Looking Ahead](../../../charts/poten/2024/poten_2024-01-19_looking-ahead_chart1.png)
+![Exhibit 1: VLCC Fleet Age Profile and Orderbook](../../../charts/poten/2024/poten_2024-01-19_looking-ahead_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2024/poten_2024-01-19_looking-ahead_chart1.png)
+> **Exhibit 1: VLCC Fleet Age Profile and Orderbook**  
+> Unit: # Vessels · X-axis: 1996 to 2027  
+> Series: Trading, On Order  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2024/poten_2024-01-19_looking-ahead_chart1.png)
 
-![Exhibit 2: Looking Ahead](../../../charts/poten/2024/poten_2024-01-19_looking-ahead_chart2.png)
+![Exhibit 2: Tanker Fleet Recycling History](../../../charts/poten/2024/poten_2024-01-19_looking-ahead_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2024/poten_2024-01-19_looking-ahead_chart2.png)
+> **Exhibit 2: Tanker Fleet Recycling History**  
+> Unit: # Vessels · X-axis: 2003 to 2023  
+> Series: VLCC, Suezmax, Aframax, Panamax, MR, Handy  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2024/poten_2024-01-19_looking-ahead_chart2.png)

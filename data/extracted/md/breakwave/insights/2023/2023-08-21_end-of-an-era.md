@@ -26,10 +26,10 @@ For product tankers, much of the past decade’s investment was focused on chang
 
 From 2013 to 2022, Middle East refining capacity expanded by 2.8mbd, but from 2022, to 2028 that growth slows to 0.9mbd, with around 70% of that growth taking place over the next year. Ultimately this highlights that following the start-up of Duqm early next year, no new export originated Middle East refineries are due to come online. Those projects which do start up, are either small scale expansions or domestically focused. One also has to consider that regional demand is also set to increase over the next 5 years, which ultimately indicates that Middle East product balances will tighten over the medium term. Furthermore, given the lead time it takes to develop a greenfield refinery project, there is little chance of the outlook changing.
 
-![1 (2)](assets/2023-08-21_end-of-an-era_img_128229_bba01e613f7e.png)
+![1 (2)](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-08-21_end-of-an-era_img_128229_bba01e613f7e.png)
 
 > **Figure 1: 1 (2)**  
-> **Interactive Data & Source:** [Gibsons Co](https://www.gibsons.co.uk/market-reports) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-08-21_end-of-an-era_img_128229_bba01e613f7e.png)
+> **Interactive Data & Source:** [Gibsons Co](https://www.gibsons.co.uk/market-reports) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-08-21_end-of-an-era_img_128229_bba01e613f7e.png)
 
 With the Middle East story largely concluded, the next stop should be India. However here, issues with acquiring land have prevented new mega projects materialising, with Middle East based investors choosing China instead. Although India is still expected to boost capacity, much of this is likely to be domestically focused, suggesting little upside for product exports in the medium term.
 

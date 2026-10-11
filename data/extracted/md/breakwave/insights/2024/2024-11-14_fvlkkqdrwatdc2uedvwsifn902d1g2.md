@@ -20,10 +20,10 @@ source_file: "corpus/03-breakwave/insights/2024/2024-11-14_fvlkkqdrwatdc2uedvwsi
 
 ---
 
-![Market Chart 1](assets/2024-11-14_fvlkkqdrwatdc2uedvwsifn902d1g2_img_unnamed28129_921af2e290ea.png)
+![Market Chart 1](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-11-14_fvlkkqdrwatdc2uedvwsifn902d1g2_img_unnamed28129_921af2e290ea.png)
 
 > **Figure 1: Market Chart 1**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://go.signalocean.com/e/983831/a-tariffs-farm-exports-732272-/2qpx7x/448948359/h/psH_lV6KGnAQp0m2APN2VVn2ZvQP5ikZFwmPrQdGNvc) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-11-14_fvlkkqdrwatdc2uedvwsifn902d1g2_img_unnamed28129_921af2e290ea.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://go.signalocean.com/e/983831/a-tariffs-farm-exports-732272-/2qpx7x/448948359/h/psH_lV6KGnAQp0m2APN2VVn2ZvQP5ikZFwmPrQdGNvc) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-11-14_fvlkkqdrwatdc2uedvwsifn902d1g2_img_unnamed28129_921af2e290ea.png)
 
 The potential implications of the new 2024 U.S. election and the resulting presidential administration on the freight industry are substantial, particularly across the agricultural and energy shipping sectors. If[tariffs](https://go.signalocean.com/e/983831/a-tariffs-farm-exports-732272-/2qpx7x/448948359/h/psH_lV6KGnAQp0m2APN2VVn2ZvQP5ikZFwmPrQdGNvc)on U.S. grain exports to China are increased, American grain exports could face further decline, shifting demand toward alternative suppliers like Brazil and affecting the traditional U.S. - China grain shipping routes. In energy markets, if sanctions on Russian and Iranian oil are eased, there could be an influx of crude oil, which may lower global oil prices and shift trade routes and tanker demand across the Middle East, Europe, and Asia. Conversely, a focus on bolstering U.S. fossil fuel production could increase coal and oil exports, particularly to regions facing energy shortages, which would drive demand for bulk carriers and tankers along U.S.-to-Europe and Asia routes.
 
@@ -33,10 +33,10 @@ Continued tariffs on U.S. grain exports to China are likely to drive China towar
 
 The Trump administration may consider renegotiating trade terms with China to regain ground in agricultural exports. However, if tariffs persist, the U.S. agricultural sector may continue to seek new markets in Southeast Asia or Africa, while China strengthens its ties with Brazilian producers. This shift could lead to increased competition in the global grain market, impacting prices and the profitability of American farmers.
 
-![Market Chart 2](assets/2024-11-14_fvlkkqdrwatdc2uedvwsifn902d1g2_img_unnamed28229_2810c10afcbf.png)
+![Market Chart 2](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-11-14_fvlkkqdrwatdc2uedvwsifn902d1g2_img_unnamed28229_2810c10afcbf.png)
 
 > **Figure 2: Market Chart 2**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-11-14_fvlkkqdrwatdc2uedvwsifn902d1g2_img_unnamed28229_2810c10afcbf.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-11-14_fvlkkqdrwatdc2uedvwsifn902d1g2_img_unnamed28229_2810c10afcbf.png)
 
 ### Image 1: The Signal Ocean Voyages Data Grain Flows
 
@@ -46,10 +46,10 @@ The Trump administration may consider renegotiating trade terms with China to re
 
 In the energy sector, following the 2024 U.S. election, a second Trump administration may prioritize efforts to mediate or end the Russia-Ukraine conflict to stabilize global energy prices, which has faced supply disruptions due to the war. Trump’s foreign policy approach could encourage European leaders to resume imports of Russian crude oil, potentially if a peace agreement is reached. The reentry of Russian oil into the European market would likely lower energy costs across the region, which would have downstream effects on various sectors, including manufacturing and logistics. In image 2, we can view the monthly quantity of crude oil flows from Saudi Arabia to China compared to the monthly quantity of tonnes from Russia to China, where it seems that although China is still purchasing from Russia, the Saudi Arabian has not yet lost its dominant position to cater the Chinese energy demand market.
 
-![Market Chart 3](assets/2024-11-14_fvlkkqdrwatdc2uedvwsifn902d1g2_img_unnamed28329_33f76a5a1fef.png)
+![Market Chart 3](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-11-14_fvlkkqdrwatdc2uedvwsifn902d1g2_img_unnamed28329_33f76a5a1fef.png)
 
 > **Figure 3: Market Chart 3**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-11-14_fvlkkqdrwatdc2uedvwsifn902d1g2_img_unnamed28329_33f76a5a1fef.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-11-14_fvlkkqdrwatdc2uedvwsifn902d1g2_img_unnamed28329_33f76a5a1fef.png)
 
 ### Image 2: The Signal Ocean Voyages Data
 
@@ -71,10 +71,10 @@ Increased agricultural trade between Brazil and China may raise demand for dry b
 
 Over recent years, monthly grain shipments from the U.S. Gulf to China have trended downward. Signal Ocean data on Panamax and Supramax vessel movements (Image 3) reveals occasional spikes—especially in late Q2 of 2022 and again in 2023—but these short-term gains have not offset the general decline. Modest rebounds observed in September and October this year remain within a broader downward trend seen over the past three years.
 
-![Market Chart 4](assets/2024-11-14_fvlkkqdrwatdc2uedvwsifn902d1g2_img_unnamed28429_9982ab58db04.png)
+![Market Chart 4](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-11-14_fvlkkqdrwatdc2uedvwsifn902d1g2_img_unnamed28429_9982ab58db04.png)
 
 > **Figure 4: Market Chart 4**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-11-14_fvlkkqdrwatdc2uedvwsifn902d1g2_img_unnamed28429_9982ab58db04.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-11-14_fvlkkqdrwatdc2uedvwsifn902d1g2_img_unnamed28429_9982ab58db04.png)
 
 ### Image 3: The Signal Ocean Voyages Data Grain Flows & Tonne Days Growth
 
@@ -90,10 +90,10 @@ The growth in tonne days—a metric of distance and cargo volume—mirrors grain
 
 Competitive pressures on U.S. grain exporters, driven by tariffs and trade barriers, may depress demand for Panamax and Supramax vessels on U.S.-China grain routes. Conversely, Brazil’s growing grain exports to China may boost demand for these vessel types on Brazil-Asia (image 4) routes, potentially driving up charter rates.
 
-![Market Chart 5](assets/2024-11-14_fvlkkqdrwatdc2uedvwsifn902d1g2_img_unnamed28529_4af9425b8d7f.png)
+![Market Chart 5](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-11-14_fvlkkqdrwatdc2uedvwsifn902d1g2_img_unnamed28529_4af9425b8d7f.png)
 
 > **Figure 5: Market Chart 5**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-11-14_fvlkkqdrwatdc2uedvwsifn902d1g2_img_unnamed28529_4af9425b8d7f.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-11-14_fvlkkqdrwatdc2uedvwsifn902d1g2_img_unnamed28529_4af9425b8d7f.png)
 
 ### Image 4: The Signal Ocean Voyages Data Grain Flows & Tonne Days Growth
 

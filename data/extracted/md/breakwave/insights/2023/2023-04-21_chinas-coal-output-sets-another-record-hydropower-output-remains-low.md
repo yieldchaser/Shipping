@@ -30,10 +30,10 @@ New is that thermal coal-derived electricity generation grew year-on-year by mor
 
 China's hydropower production totaled only 68.4 billion kilowatt hours last month. This is the same amount that was produced in February and is down year-on-year by 12.1 billion kilowatt hours (-15%). China's hydropower production has now contracted on a year-on-year basis during seven of the last eight months, and last month's 15% year-on-year contraction marked the largest since October. As we have highlighted in our research, water inflows have been low. A full breakdown of China's electricity production will be included in Commodore's next weekly client report.
 
-![241](assets/2023-04-21_chinas-coal-output-sets-another-record-hydropower-output-remains-low_img_241_afd13f6ecfc3.png)
+![241](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-04-21_chinas-coal-output-sets-another-record-hydropower-output-remains-low_img_241_afd13f6ecfc3.png)
 
 > **Figure 1: 241**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-04-21_chinas-coal-output-sets-another-record-hydropower-output-remains-low_img_241_afd13f6ecfc3.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-04-21_chinas-coal-output-sets-another-record-hydropower-output-remains-low_img_241_afd13f6ecfc3.png)
 
 ---
 

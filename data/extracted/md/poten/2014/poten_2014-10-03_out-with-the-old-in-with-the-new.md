@@ -30,10 +30,18 @@ Is this the right time to buy? That is a topic of another opinion.
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: Out with the old, in with the new?](../../../charts/poten/2014/poten_2014-10-03_out-with-the-old-in-with-the-new_chart1.png)
+![Exhibit 1: Cash Break Even Rates Versus 5-Year Charter Rates](../../../charts/poten/2014/poten_2014-10-03_out-with-the-old-in-with-the-new_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2014/poten_2014-10-03_out-with-the-old-in-with-the-new_chart1.png)
+> **Exhibit 1: Cash Break Even Rates Versus 5-Year Charter Rates**  
+> Unit: $/day · X-axis: 10-Yr Old Vessel to Newbuilding Resale  
+> Series: OPEX, Financing, Revenue, Equity Contribution  
+> *Source: Poten*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2014/poten_2014-10-03_out-with-the-old-in-with-the-new_chart1.png)
 
-![Exhibit 2: Out with the old, in with the new?](../../../charts/poten/2014/poten_2014-10-03_out-with-the-old-in-with-the-new_chart2.png)
+![Exhibit 2: Historical Cash Break Even Rates (2008-2014)](../../../charts/poten/2014/poten_2014-10-03_out-with-the-old-in-with-the-new_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2014/poten_2014-10-03_out-with-the-old-in-with-the-new_chart2.png)
+> **Exhibit 2: Historical Cash Break Even Rates (2008-2014)**  
+> Unit: $/day · X-axis: Jul-08 to Jul-14  
+> Series: Newbuilding Resale, 10-Year Old  
+> *Source: Poten*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2014/poten_2014-10-03_out-with-the-old-in-with-the-new_chart2.png)

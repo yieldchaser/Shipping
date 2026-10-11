@@ -23,10 +23,10 @@ In just a couple of days from now, the EU ban on imports of Russian crude will c
 
 What will happen on the crude side, will offer an indication of what is likely to happen when the EU ban on imports of Russian clean and dirty products comes into effect on 5th of February. Yet, whilst there are many similarities between the crude and product markets, there are also some differences. Russian crude exports to the UK and EU countries in Northwest Europe (which in the past, accounted for the vast majority of Russian trade to Europe) have been in steady decline since spring, falling to just 120 kbd in November from 1.27 mbd in January/February 2022. In contrast, Russian clean exports to the UK/EU show a considerably slower rate of decline, with the trade averaging 0.77 mbd in October versus 1.2 mbd during the 1st two months of this year. Furthermore, exports actually increased to 1 mbd in November, which suggests that Russia could be maximizing product exports until the February deadline.
 
-![1 (10)](assets/2022-12-07_gibsons-tanker-market-report_img_1281029_d2143b3f6f50.png)
+![1 (10)](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-12-07_gibsons-tanker-market-report_img_1281029_d2143b3f6f50.png)
 
 > **Figure 1: 1 (10)**  
-> **Interactive Data & Source:** [Gibsons Co](https://www.gibsons.co.uk/market-reports) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-12-07_gibsons-tanker-market-report_img_1281029_d2143b3f6f50.png)
+> **Interactive Data & Source:** [Gibsons Co](https://www.gibsons.co.uk/market-reports) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-12-07_gibsons-tanker-market-report_img_1281029_d2143b3f6f50.png)
 
 Furthermore, no major reshuffle in Russian CPP export flows has been seen so far to date. There have been some increases in shipments to the Middle East, West Africa and Latin America; however, these gains have been fairly limited, although trading of Russian products via storage terminals in Northwest Europe has also seen an increase.
 

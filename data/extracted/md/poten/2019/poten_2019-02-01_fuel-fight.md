@@ -26,10 +26,18 @@ It is difficult to directly translate the developments in the transatlantic prod
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: Fuel Fight](../../../charts/poten/2019/poten_2019-02-01_fuel-fight_chart1.png)
+![Exhibit 1: MR Freight Rates](../../../charts/poten/2019/poten_2019-02-01_fuel-fight_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2019/poten_2019-02-01_fuel-fight_chart1.png)
+> **Exhibit 1: MR Freight Rates**  
+> Unit: TCE · X-axis: Jan-2005 to Jan-2019  
+> Series: UKC-USAC, USG-UKC, USG-UKC-USAC  
+> *Source: Poten & Partners*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2019/poten_2019-02-01_fuel-fight_chart1.png)
 
-![Exhibit 2: Fuel Fight](../../../charts/poten/2019/poten_2019-02-01_fuel-fight_chart2.png)
+![Exhibit 2: Transatlantic Products Trades](../../../charts/poten/2019/poten_2019-02-01_fuel-fight_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2019/poten_2019-02-01_fuel-fight_chart2.png)
+> **Exhibit 2: Transatlantic Products Trades**  
+> Unit: Ktons · X-axis: 1Q2005 to 3Q2018  
+> Series: MoGas: EUR-USA, Mid Dist: USA-EUR  
+> *Source: IEA*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2019/poten_2019-02-01_fuel-fight_chart2.png)

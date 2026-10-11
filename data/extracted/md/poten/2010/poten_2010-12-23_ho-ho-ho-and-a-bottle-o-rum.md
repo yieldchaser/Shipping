@@ -38,4 +38,4 @@ Projects & Consulting department or to contact our tanker brokers please visit o
 
 ![Exhibit 1: Ho Ho Ho And A Bottle O' Rum!](../../../charts/poten/2010/poten_2010-12-23_ho-ho-ho-and-a-bottle-o-rum_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2010/poten_2010-12-23_ho-ho-ho-and-a-bottle-o-rum_chart1.png)
+> **Interactive Asset:** [Local Asset (200 DPI PNG)](../../../charts/poten/2010/poten_2010-12-23_ho-ho-ho-and-a-bottle-o-rum_chart1.png)

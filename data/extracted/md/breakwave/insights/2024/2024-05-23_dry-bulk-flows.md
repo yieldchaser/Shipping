@@ -24,10 +24,10 @@ source_file: "corpus/03-breakwave/insights/2024/2024-05-23_dry-bulk-flows.html"
 Snapshot of Spot Freight Rates, Supply-Demand Trends, Port Congestions
 May 21, 2024
 
-![Στιγμιότυπο Οθόνης 2024 05 23 101057](assets/2024-05-23_dry-bulk-flows_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_f03a2297a254.png)
+![Στιγμιότυπο Οθόνης 2024 05 23 101057](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-05-23_dry-bulk-flows_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_f03a2297a254.png)
 
 > **Figure 1: Στιγμιότυπο Οθόνης 2024 05 23 101057**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://go.signalocean.com/e/983831/s-of-improved-property-demand-/2q6x1d/410333720/h/ZpY_Tkl0lheBod39mK9O1FTRi24uH-W2DhT7pAqOz4A) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-05-23_dry-bulk-flows_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_f03a2297a254.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://go.signalocean.com/e/983831/s-of-improved-property-demand-/2q6x1d/410333720/h/ZpY_Tkl0lheBod39mK9O1FTRi24uH-W2DhT7pAqOz4A) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-05-23_dry-bulk-flows_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_f03a2297a254.png)
 
 In the third week of May, there are indications that the Capesize market segment is showing resistance, with rates in the Brazil to North China route seemingly holding firm and not expected to drop before the end of the month. However, there's a growing number of ballasters in Southeast Africa, introducing uncertainty regarding the segment's firmness for the summer season.
 
@@ -39,10 +39,10 @@ Meanwhile, in the coal segment, the positive momentum for both Capesize and Pana
 
 Recent estimates for May suggest a further uptick, with Chinese coal imports from Australia anticipated to rise by 5% compared to the previous month. This ongoing trend underscores the resilience and growing appetite for coal imports, particularly from key markets like China. Despite uncertainties surrounding the conclusion of the month, this upward trajectory bodes well for the shipping industry, as it reflects sustained demand for vessel services in the Panamax segment.
 
-![Στιγμιότυπο Οθόνης 2024 05 23 101256](assets/2024-05-23_dry-bulk-flows_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_e32833cc4323.png)
+![Στιγμιότυπο Οθόνης 2024 05 23 101256](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-05-23_dry-bulk-flows_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_e32833cc4323.png)
 
 > **Figure 2: Στιγμιότυπο Οθόνης 2024 05 23 101256**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-05-23_dry-bulk-flows_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_e32833cc4323.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-05-23_dry-bulk-flows_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_e32833cc4323.png)
 
 In the third week of May, there are signs of a downward trend in the Panamax Cont-FE route, while there seems to be a flat momentum for the Capesize, Supramax and Handysize vessel segments.
 
@@ -51,10 +51,10 @@ In the third week of May, there are signs of a downward trend in the Panamax Con
 - **Supramax**vessel freight rates on the Indo-ECI route held levels around $12 per ton, marking a 39% increase compared to a comparable week from a year ago.
 - **Handysize**freight rates for the NOPAC Far East route remained consistent with the sentiment of the previous week, standing at approximately $35 per ton. This marks a notable 20% increase compared to levels observed a year ago.
 
-![Στιγμιότυπο Οθόνης 2024 05 23 101501](assets/2024-05-23_dry-bulk-flows_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_010519186c5a.png)
+![Στιγμιότυπο Οθόνης 2024 05 23 101501](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-05-23_dry-bulk-flows_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_010519186c5a.png)
 
 > **Figure 3: Στιγμιότυπο Οθόνης 2024 05 23 101501**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-05-23_dry-bulk-flows_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_010519186c5a.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-05-23_dry-bulk-flows_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_010519186c5a.png)
 
 In the third week of May, the ballast situation presents a mixed picture compared to previous days. There's a notable uptrend in ballasters for Capesize vessels in SE Africa and Supramax vessels in SE Asia. Conversely, a downward trajectory persists for Handysize vessels in NOPAC. Panamax segment levels remained largely unchanged from the previous week. Notably, while Capesize and Panamax segments show an increase in Southeast Africa, indications of a downward trend emerge for Supramax in Southeast Asia and Handy in NOPAC.
 
@@ -63,10 +63,10 @@ In the third week of May, the ballast situation presents a mixed picture compare
 - **Supramax SE Asia**: The count of ballast ships is now hovering above the annual average of 100, following three consecutive weeks of persistent increases.
 - **Handysize NOPAC**: Following the end of week 17, the tally of ballast ships has consistently stayed beneath the annual average of 80, indicating a downward trajectory for the remainder of May. The current figure has dipped to 70.
 
-![Στιγμιότυπο Οθόνης 2024 05 23 101712](assets/2024-05-23_dry-bulk-flows_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_9fec2320ece7.png)
+![Στιγμιότυπο Οθόνης 2024 05 23 101712](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-05-23_dry-bulk-flows_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_9fec2320ece7.png)
 
 > **Figure 4: Στιγμιότυπο Οθόνης 2024 05 23 101712**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-05-23_dry-bulk-flows_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_9fec2320ece7.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-05-23_dry-bulk-flows_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_9fec2320ece7.png)
 
 Throughout the latter half of May, a consistent decline in tonne-day growth is observable across all vessel size segments. Particularly noteworthy is the substantial decrease witnessed in the Capesize, Panamax, and Handysize categories, extending for yet another week.
 
@@ -75,10 +75,10 @@ Throughout the latter half of May, a consistent decline in tonne-day growth is o
 - **Supramax**: Despite initial indications of stabilisation, the growth rate in May has continued to decline, showing a further decrease from the levels observed four weeks ago.
 - **Handysize**: The decline in tonne-day growth rate has persisted over the past four weeks, with the current pace remaining slower than the slowest observed since the conclusion of the 9th week.
 
-![Στιγμιότυπο Οθόνης 2024 05 23 101905](assets/2024-05-23_dry-bulk-flows_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_9a6b2ef33fb3.png)
+![Στιγμιότυπο Οθόνης 2024 05 23 101905](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-05-23_dry-bulk-flows_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_9a6b2ef33fb3.png)
 
 > **Figure 5: Στιγμιότυπο Οθόνης 2024 05 23 101905**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-05-23_dry-bulk-flows_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_9a6b2ef33fb3.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-05-23_dry-bulk-flows_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_9a6b2ef33fb3.png)
 
 During the third week of May, the upward trend observed in preceding days has been affirmed, as Chinese dry bulk congestion has notably increased across all vessel size segments.
 

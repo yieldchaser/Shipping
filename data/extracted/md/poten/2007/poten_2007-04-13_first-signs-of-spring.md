@@ -100,6 +100,20 @@ Rates for larger tankers particularly VLCCs, can be expected to weaken in the ne
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: First Signs of Spring](../../../charts/poten/2007/poten_2007-04-13_first-signs-of-spring_chart1.png)
+> **Chart on PDF page 1: AG - USG (280kt) TCE ($/day)**  
+> Unit: $/day · X-axis: Jan to Dec  
+> Series: 2004, 2005, 2006, 2007  
+> *Source: Poten & EIA*  
+> *No image crop of this chart was saved; caption read from the PDF.*
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2007/poten_2007-04-13_first-signs-of-spring_chart1.png)
+> **Chart on PDF page 2: Untitled chart**  
+> Unit: % of Operable Capacity · X-axis: Week 1 to Week 51  
+> Series: 2004, 2005, 2006, 2007  
+> *Source: Poten & EIA*  
+> *No image crop of this chart was saved; caption read from the PDF.*
+
+> **Chart on PDF page 3: Untitled chart**  
+> Unit: Thousand Barrels Per Day · X-axis: Week 1 to Week 25  
+> Series: 2004, 2005, 2006, 2007  
+> *Source: Poten & EIA*  
+> *No image crop of this chart was saved; caption read from the PDF.*

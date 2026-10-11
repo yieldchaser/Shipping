@@ -62,10 +62,10 @@ Like many other commodities, China is a dominant importer of grains and oilseeds
 
 Cargo order volumes for agricultural commodities discharging in Chinese ports have been trending lower since March. While the year started strongly, with cargo order volumes well above what was observed during the same period last year, the monthly aggregates for May and June failed to match the readings for the same months in 2023. In addition, with more than half of July behind us, the current month looks set to fall well below the volumes seen a year ago. Hence, unless Chinese demand recovers in the very near future, the depressed cargo order volumes suggest that grain and oilseed prices will continue to face headwinds in the near term.
 
-![Στιγμιότυπο Οθόνης 2024 07 23 121131](assets/2024-07-23_headwinds-for-the-capesizes-and-supply-disruptions_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_eb78ee172849.png)
+![Στιγμιότυπο Οθόνης 2024 07 23 121131](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-07-23_headwinds-for-the-capesizes-and-supply-disruptions_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_eb78ee172849.png)
 
 > **Figure 1: Στιγμιότυπο Οθόνης 2024 07 23 121131**  
-> **Interactive Data & Source:** [Shipfix](https://shipfix.com/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-07-23_headwinds-for-the-capesizes-and-supply-disruptions_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_eb78ee172849.png)
+> **Interactive Data & Source:** [Shipfix](https://shipfix.com/) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-07-23_headwinds-for-the-capesizes-and-supply-disruptions_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_eb78ee172849.png)
 
 Data Source:[Shipfix](https://shipfix.com/)
 

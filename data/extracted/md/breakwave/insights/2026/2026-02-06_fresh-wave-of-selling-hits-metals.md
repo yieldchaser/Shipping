@@ -24,10 +24,10 @@ Precious metals were hit with a fresh wave of selling, which weighed on sentimen
 
 *By*[*Daniel Hynes*](https://www.linkedin.com/in/dahynes/)
 
-![Στιγμιότυπο Οθόνης 2026 02 06 125457](assets/2026-02-06_fresh-wave-of-selling-hits-metals_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_21ee614e264c.png)
+![Στιγμιότυπο Οθόνης 2026 02 06 125457](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-02-06_fresh-wave-of-selling-hits-metals_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_21ee614e264c.png)
 
 > **Figure 1: Στιγμιότυπο Οθόνης 2026 02 06 125457**  
-> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-02-06_fresh-wave-of-selling-hits-metals_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_21ee614e264c.png)
+> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-02-06_fresh-wave-of-selling-hits-metals_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_21ee614e264c.png)
 
 ### Market Commentary
 
@@ -45,10 +45,10 @@ Precious metals were hit with a fresh wave of selling, which weighed on sentimen
 
 Outflows from silver-backed exchange trade funds have increased significantly in recent days. However, there could be further to come. The volumes are still well below what was built in a frantic period of buying in December.
 
-![Στιγμιότυπο Οθόνης 2026 02 06 125555](assets/2026-02-06_fresh-wave-of-selling-hits-metals_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_6b66b4d513cf.png)
+![Στιγμιότυπο Οθόνης 2026 02 06 125555](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-02-06_fresh-wave-of-selling-hits-metals_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_6b66b4d513cf.png)
 
 > **Figure 2: Στιγμιότυπο Οθόνης 2026 02 06 125555**  
-> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-02-06_fresh-wave-of-selling-hits-metals_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_6b66b4d513cf.png)
+> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-02-06_fresh-wave-of-selling-hits-metals_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_6b66b4d513cf.png)
 
 Data source:[Commodities Wrap](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI)
 

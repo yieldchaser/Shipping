@@ -32,11 +32,11 @@ Dry bulk trade through the Strait of Hormuz faces disruption, with the impact la
 The Strait of Hormuz is the most important waypoint for vessels destined for the Arabian Gulf, as the largest discharge ports are located on the western side. Given the current conflict in the region, many vessels currently inside the Gulf are unlikely to risk exiting in the near term, effectively limiting available tonnage.
 
 
-![Source: Vessel Count Tsop | Dry Inside Hormuz](../../images/69a99892d7519f22aec5d155_49e71dc5.png)
+![Source: Vessel Count Tsop | Dry Inside Hormuz](../../../../../../corpus/07-signal/images/69a99892d7519f22aec5d155_49e71dc5.png)
 
 > **Figure 1: Source: Vessel Count Tsop | Dry Inside Hormuz**  
 > *Source: Vessel Count TSOP | Dry Inside Hormuz*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/market-insights-iran--usa-israel-conflict-impact-on-bulk) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/69a99892d7519f22aec5d155_49e71dc5.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/market-insights-iran--usa-israel-conflict-impact-on-bulk) | [Local Asset](../../../../../../corpus/07-signal/images/69a99892d7519f22aec5d155_49e71dc5.png)
 
 
 - ~320 bulk vessels are currently inside the Strait of Hormuz
@@ -45,11 +45,11 @@ The Strait of Hormuz is the most important waypoint for vessels destined for the
 - The number of stranded vessels represents less than 2% of the total dry bulk fleet (~13,000 vessels)  and ~3% of the Panamax fleet.
 
 
-![Source: Dry Fleet in Service Analysis Tsop](../../images/69a99892d7519f22aec5d152_46254ded.png)
+![Source: Dry Fleet in Service Analysis Tsop](../../../../../../corpus/07-signal/images/69a99892d7519f22aec5d152_46254ded.png)
 
 > **Figure 2: Source: Dry Fleet in Service Analysis Tsop**  
 > *Source: Dry Fleet in Service Analysis TSOP*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/market-insights-iran--usa-israel-conflict-impact-on-bulk) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/69a99892d7519f22aec5d152_46254ded.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/market-insights-iran--usa-israel-conflict-impact-on-bulk) | [Local Asset](../../../../../../corpus/07-signal/images/69a99892d7519f22aec5d152_46254ded.png)
 
 Overall, given the small share of vessels relative to the total fleet, any impact on the dry bulk freight market is expected to be limited and primarily concentrated in smaller and mid-sized vessel segments.
 
@@ -63,20 +63,20 @@ Around 51% of these vessels are currently laden, indicating that a significant s
 In addition, around 8% of the vessels operating in the area are linked to sanctioned entities, reflecting the continued presence of vessels associated with Iranian trade flows. Even before the recent escalation in the region, sanctions risks were already shaping Iranian-linked bulk trading. For example, in early 2026, an Iran-flagged vessel listed under U.S. sanctions records delivered a cargo of urea fertilizer to [Brazil](https://brazilstockguide.com/insights/iran-flagged-vessel-listed-under-u-s-sanctions-docks-in-brazil-with-fertilizer-cargo/) after loading in Asaluyeh, highlighting how Iranian fertilizer shipments have continued to move through international dry bulk routes despite existing sanctions.
 
 
-![Source: View of Vessels Inside the Strait of Hormuz, Live at 09:37 Gmt March 05 2026](../../images/69a99892d7519f22aec5d158_254da394.png)
+![Source: View of Vessels Inside the Strait of Hormuz, Live at 09:37 Gmt March 05 2026](../../../../../../corpus/07-signal/images/69a99892d7519f22aec5d158_254da394.png)
 
 > **Figure 3: Source: View of Vessels Inside the Strait of Hormuz, Live at 09:37 Gmt March 05 2026**  
 > *Source: View of vessels inside the Strait of Hormuz, Live at 09:37 GMT March 05 2026*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/market-insights-iran--usa-israel-conflict-impact-on-bulk) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/69a99892d7519f22aec5d158_254da394.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/market-insights-iran--usa-israel-conflict-impact-on-bulk) | [Local Asset](../../../../../../corpus/07-signal/images/69a99892d7519f22aec5d158_254da394.png)
 
 Although more than **300** vessels are currently located inside the Strait of Hormuz and effectively removed from active trading, this represents a relatively small share of the global dry bulk fleet. The vessels account for roughly **2%** of the total active fleet, although the share rises to around **3%** of the **Panamax** fleet currently in service.
 
 
-![Source: Dry Fleet in Service Analysis Tsop](../../images/69a99892d7519f22aec5d15b_b5f53f99.png)
+![Source: Dry Fleet in Service Analysis Tsop](../../../../../../corpus/07-signal/images/69a99892d7519f22aec5d15b_b5f53f99.png)
 
 > **Figure 4: Source: Dry Fleet in Service Analysis Tsop**  
 > *Source: Dry Fleet in Service Analysis TSOP*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/market-insights-iran--usa-israel-conflict-impact-on-bulk) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/69a99892d7519f22aec5d15b_b5f53f99.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/market-insights-iran--usa-israel-conflict-impact-on-bulk) | [Local Asset](../../../../../../corpus/07-signal/images/69a99892d7519f22aec5d15b_b5f53f99.png)
 
 
 ## Spotlight | Dry Bulk Flows - Arabian Gulf
@@ -84,11 +84,11 @@ Although more than **300** vessels are currently located inside the Strait of Ho
 The Arabian Gulf is a growing destination for dry bulk demand, with dry bulk commodity flows to the area increasing by 9% in 2025 to reach 579mt, marking the third consecutive year of growth. The majority, 31% in 2025, originates from the Arabian Gulf as well, with the UAE, Oman, and Bahrain accounting for over 86% of all Arabian Gulf-to-Arabian Gulf dry bulk flows.  On a global count of flows to the Arabian Gulf, the same countries account for over 27%.
 
 
-![Source: Dry Bulk Flows Destined for the Arabian Gulf](../../images/69a99892d7519f22aec5d15e_452574c6.png)
+![Source: Dry Bulk Flows Destined for the Arabian Gulf](../../../../../../corpus/07-signal/images/69a99892d7519f22aec5d15e_452574c6.png)
 
 > **Figure 5: Source: Dry Bulk Flows Destined for the Arabian Gulf**  
 > *Source: Dry bulk flows destined for the Arabian Gulf*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/market-insights-iran--usa-israel-conflict-impact-on-bulk) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/69a99892d7519f22aec5d15e_452574c6.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/market-insights-iran--usa-israel-conflict-impact-on-bulk) | [Local Asset](../../../../../../corpus/07-signal/images/69a99892d7519f22aec5d15e_452574c6.png)
 
 Given that the majority and largest discharge points sit inside the Strait of Hormuz, dry bulk flows to the region are likely to come under significant pressure during the Iran–U.S./Israel conflict, as vessels avoid the chokepoint, war-risk insurance is withdrawn, and carriers suspend transits, even if some Gulf ports remain technically accessible. However, because the Arabian Gulf accounts for a relatively small share of global dry bulk trade, around 3% according to Signal Ocean,  the impact on the wider dry bulk market or bulk commodity prices is expected to be limited unless the disruption at Hormuz becomes prolonged.
 

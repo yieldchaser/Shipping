@@ -32,7 +32,7 @@ tags:
 
 > **Figure 1: Data Source: The Signal Ocean Platform Data**  
 > *Data Source: The Signal Ocean Platform Data*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/dry-week-42-2023) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/652ed57d46f39b462b5e6bbb_CAPESIZE DEMAND.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/dry-week-42-2023) | [Local Asset](../../../../../../corpus/07-signal/images/652ed57d46f39b462b5e6bbb_CAPESIZE%20DEMAND.png)
 
 The third week of October witnessed robust Capesize Brazil to China freight rates, as indicated in the chart above. Furthermore, the demand in tonne days exhibited a noteworthy surge in recent days. Nevertheless, the recent uptick in the number of ballasters presents a downward pressure to the latest recovery signs.
 

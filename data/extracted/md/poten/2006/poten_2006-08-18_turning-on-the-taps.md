@@ -80,6 +80,14 @@ As the region regains lost production more cargoes will flow from these African 
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: Turning on the Taps](../../../charts/poten/2006/poten_2006-08-18_turning-on-the-taps_chart1.png)
+> **Chart on PDF page 1: Nigerian Production (000 bbl/day)**  
+> Unit: 000 bbl/day · X-axis: 2003 to 2007 Estimate  
+> Series: Nigerian Production  
+> *Source: EIA/Poten & Partners*  
+> *No image crop of this chart was saved; caption read from the PDF.*
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2006/poten_2006-08-18_turning-on-the-taps_chart1.png)
+> **Chart on PDF page 2: Time Charter Equivalent WAF - USAC (130kt)**  
+> Unit: TCE $/day · X-axis: Jan to Dec  
+> Series: 2005, 2006  
+> *Source: Poten & Partners*  
+> *No image crop of this chart was saved; caption read from the PDF.*

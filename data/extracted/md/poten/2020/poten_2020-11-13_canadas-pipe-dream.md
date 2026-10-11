@@ -34,10 +34,17 @@ Killing the project would hurt the tanker market as these increased exports from
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: Canadas Pipe Dream](../../../charts/poten/2020/poten_2020-11-13_canadas-pipe-dream_chart1.png)
+![Exhibit 1: Canada - Crude Oil Production](../../../charts/poten/2020/poten_2020-11-13_canadas-pipe-dream_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2020/poten_2020-11-13_canadas-pipe-dream_chart1.png)
+> **Exhibit 1: Canada - Crude Oil Production**  
+> Unit: Kb/d · X-axis: Jan-10 to Jul-20  
+> Series: Canada - Crude Oil Production  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2020/poten_2020-11-13_canadas-pipe-dream_chart1.png)
 
-![Exhibit 2: Canadas Pipe Dream](../../../charts/poten/2020/poten_2020-11-13_canadas-pipe-dream_chart2.png)
+![Exhibit 2: Canadian Crude Oil Exports](../../../charts/poten/2020/poten_2020-11-13_canadas-pipe-dream_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2020/poten_2020-11-13_canadas-pipe-dream_chart2.png)
+> **Exhibit 2: Canadian Crude Oil Exports**  
+> Unit: Kb/d · X-axis: Jan-10 to Jul-20  
+> Series: PADD I, Padd II, PADD III, PADD IV, PADD V, Other Exports  
+> *Source: Canada Energy Regulator (CER)*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2020/poten_2020-11-13_canadas-pipe-dream_chart2.png)

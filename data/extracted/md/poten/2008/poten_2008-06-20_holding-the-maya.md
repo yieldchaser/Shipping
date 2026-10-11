@@ -58,6 +58,19 @@ Reported West African Crude Oil Fixtures to the US Gulf Coast 2004 2005 2006 200
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: Holding the Maya](../../../charts/poten/2008/poten_2008-06-20_holding-the-maya_chart1.png)
+> **Chart on PDF page 1: Mexican Crude Oil Production**  
+> Unit: Thousand bbl/day · X-axis: Jan-90 to Jan-06  
+> Series: Mexican Crude Oil Production  
+> *No image crop of this chart was saved; caption read from the PDF.*
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2008/poten_2008-06-20_holding-the-maya_chart1.png)
+> **Chart on PDF page 2: US Gulf Coast Imports of Mexican Crude Oil**  
+> Unit: Thousand bbls/day · X-axis: 2004 to 2007  
+> Series: less than 1% Sulfur, between 1% and 3% sulfur, more than 3% sulfur, Total  
+> *Source: EIA/Poten*  
+> *No image crop of this chart was saved; caption read from the PDF.*
+
+> **Chart on PDF page 3: Reported West African Crude Oil Fixtures to the US Gulf Coast**  
+> Unit: # Fixtures · X-axis: 2004 to Ytd 2008  
+> Series: VLCC, Suezmax  
+> *Source: Poten*  
+> *No image crop of this chart was saved; caption read from the PDF.*

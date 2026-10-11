@@ -24,10 +24,10 @@ Ongoing inflationary pressures in the US put further doubts on imminent rate cut
 
 *By*[*Daniel Hynes*](https://www.linkedin.com/in/dahynes/)
 
-![Στιγμιότυπο Οθόνης 2024 05 01 111505](assets/2024-05-01_positive-economic-data-in-china-boosts-sentiment_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_559acced9fd3.png)
+![Στιγμιότυπο Οθόνης 2024 05 01 111505](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-05-01_positive-economic-data-in-china-boosts-sentiment_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_559acced9fd3.png)
 
 > **Figure 1: Στιγμιότυπο Οθόνης 2024 05 01 111505**  
-> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-05-01_positive-economic-data-in-china-boosts-sentiment_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_559acced9fd3.png)
+> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-05-01_positive-economic-data-in-china-boosts-sentiment_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_559acced9fd3.png)
 
 **Copper**rallied past USD10,000/t following better-than-expected economic data in China. Manufacturing activity in China rebounded in April, with the Caixin PMI coming in at 51.4. This was followed by the official PMI, which rose to 50.4. However, new export orders were behind the gains, signalling ongoing sluggishness in domestic demand. The gains were reversed after data showed US labour costs continue to rise, raising concerns about inflation and subsequent rate cuts by the US Federal Reserve. Nevertheless, copper locked in its biggest monthly gain in over two years. Closures to key copper mines triggered the over three-month rally. Those concerns over supply have only intensified in recent weeks. Operational issues in Chile continue to plague Codelco’s output. Access to water is expected to remain a challenge, with PWC estimating half of global copper mining will be in areas that are at significant risk of drought in coming years. Easing supply concerns saw**zinc**prices fall sharply. Nystar said it will restart an idled smelter in the Netherlands next month. The smelter was originally closed due to excessive energy costs; however, the Dutch government’s temporary measures have helped reduced the burden on the company.
 
@@ -39,10 +39,10 @@ Ongoing inflationary pressures in the US put further doubts on imminent rate cut
 
 **European gas**prices edged higher as traders’ eye increasing competition for supply with Asia. A heatwave across southeast Asia is likely to see rising demand for power. This comes following several weeks of stagnant injections in storage.**North Asia LNG**prices were also higher amid the better outlook for demand.
 
-![Στιγμιότυπο Οθόνης 2024 05 01 111641](assets/2024-05-01_positive-economic-data-in-china-boosts-sentiment_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_25be95547cf3.png)
+![Στιγμιότυπο Οθόνης 2024 05 01 111641](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-05-01_positive-economic-data-in-china-boosts-sentiment_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_25be95547cf3.png)
 
 > **Figure 2: Στιγμιότυπο Οθόνης 2024 05 01 111641**  
-> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-05-01_positive-economic-data-in-china-boosts-sentiment_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_25be95547cf3.png)
+> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-05-01_positive-economic-data-in-china-boosts-sentiment_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_25be95547cf3.png)
 
 Data source:[Commodities Wrap](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI)
 

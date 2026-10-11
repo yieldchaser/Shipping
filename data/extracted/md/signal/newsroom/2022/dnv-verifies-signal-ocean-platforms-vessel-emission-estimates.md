@@ -31,6 +31,8 @@ DNV has now issued a formal Letter of Professional Opinion that recognises the v
 Following a detailed review, Dr. George Dimopoulos, Principal Specialist and Head of DNV Maritime’s R&D and Advisory Unit, said:
 *"After the review, our qualified professional opinion is that the subject Vessel Emissions Algorithm of Signal Ocean meets the required standards detailed in MARPOL’s carbon intensity calculation guidelines. DNV invests substantially in research, development, and innovation to provide value to our customers and the society at large. We will continue to actively support initiatives and developments that advance digital smart solutions to tackle decarbonization of the maritime industry."*
 
+David Watts, VP of Business Development and Partnerships at Signal Ocean said: "The maritime industry is working hard to improve its emission performance. The provision of robust and consistent estimates for a vessel's emissions performance is a crucial step in providing greater transparency and allowing market participants to make more informed decisions. Coverage will be expanded to include smaller wet and dry vessels later this year with Container ships estimates being added after that."
+
 *He added, "The service allows users to compare a vessel's or fleet's performance against the IMO's Carbon Intensity Indicator, Poseidon Principles and Sea Cargo Charter targets. We will continue to invest in this area and respond to new measures as they are introduced by the IMO."* 
 
 MARPOL’s carbon intensity calculation guidelines are set forth MARPOL Annex VI, Resolution MEPC.278(70) (SEEMP Part II & Data Collection) and Resolution MEPC.336(76) (Carbon intensity calculation guidelines).

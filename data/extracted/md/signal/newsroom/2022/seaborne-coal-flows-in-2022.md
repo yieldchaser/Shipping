@@ -46,7 +46,7 @@ An initial look at European coal imports (Figure 1) shows that total shipments h
 
 > **Figure 1: Image 1- Data Source: The Signal Ocean Platform, Coal Flows to Europe, 2020-2022 Https://app.signalocean.com/dry/reports/drybulkflows**  
 > *Image 1- Data Source: The Signal Ocean Platform, Coal Flows to Europe, 2020-2022 https://app.signalocean.com/dry/reports/drybulkflows*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/seaborne-coal-flows-in-2022) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/637cf900b7f5cf8f79440627_Picture1.avif)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/seaborne-coal-flows-in-2022) | [Local Asset](../../../../../../corpus/07-signal/images/637cf900b7f5cf8f79440627_Picture1.avif)
 
 
 ## Ii. Europe Ramping Up Coal Imports From South Africa
@@ -58,7 +58,7 @@ Today we are talking about replacing Russian coal flows to Europe, as we approac
 
 > **Figure 2: Image 2- Data Source: The Signal Ocean Platform, Coal Flows From South Africa to Europe Https://app.signalocean.com/dry/reports/drybulkflows**  
 > *Image 2- Data Source: The Signal Ocean Platform, Coal Flows from South Africa to Europe https://app.signalocean.com/dry/reports/drybulkflows*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/seaborne-coal-flows-in-2022) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/637cf93e92f85451fcdda2b2_Picture2.avif)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/seaborne-coal-flows-in-2022) | [Local Asset](../../../../../../corpus/07-signal/images/637cf93e92f85451fcdda2b2_Picture2.avif)
 
 
 ## Iii. the Netherlands Emerged as the Top Destination for US Coal Exports
@@ -70,7 +70,7 @@ We took a look at the Netherlands to examine how the main European coal importer
 
 > **Figure 3: Image 3- Data Source: The Signal Ocean Platform, Coal Flows From Russia and the U.s**  
 > *Image 3- Data Source: The Signal Ocean Platform, Coal Flows from Russia and the U.S. to NL https://app.signalocean.com/dry/reports/drybulkflows*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/seaborne-coal-flows-in-2022) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/637cf966a916153100c845c9_Picture3.avif)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/seaborne-coal-flows-in-2022) | [Local Asset](../../../../../../corpus/07-signal/images/637cf966a916153100c845c9_Picture3.avif)
 
 
 ## Iv. Russian Coal Gains Share in Asia: China and India
@@ -84,7 +84,7 @@ As shown in image 4, Russian coal shipments to China have increased significantl
 
 > **Figure 4: Image 4- Data Source: The Signal Ocean Platform, Coal Flows From Russia to China Https://app.signalocean.com/dry/reports/drybulkflows**  
 > *Image 4- Data Source: The Signal Ocean Platform, Coal Flows from Russia to China https://app.signalocean.com/dry/reports/drybulkflows*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/seaborne-coal-flows-in-2022) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/637cf9a01b835243b8b8963b_Picture4.avif)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/seaborne-coal-flows-in-2022) | [Local Asset](../../../../../../corpus/07-signal/images/637cf9a01b835243b8b8963b_Picture4.avif)
 
 In the case of the Indian coal market (image 5), we have seen a historical record of Russian coal imports in the summer season. With a trend of decrease in the fall, however, the pace remains historically high and India appears to be dependent on Russian coal. The share of Panamax vessels in Russian coal imports for the Indian market is even more significant than that of the Chinese, at 45%, while the percentage of Supramax vessels is 20%, as in the case of China.
 
@@ -93,7 +93,7 @@ In the case of the Indian coal market (image 5), we have seen a historical recor
 
 > **Figure 5: Image 5- Data Source: The Signal Ocean Platform, Coal Flows From Russia to India Https://app.signalocean.com/dry/reports/drybulkflows**  
 > *Image 5- Data Source: The Signal Ocean Platform, Coal Flows from Russia to India https://app.signalocean.com/dry/reports/drybulkflows*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/seaborne-coal-flows-in-2022) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/637cfa29d81b3879bce0095b_Picture5.avif)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/seaborne-coal-flows-in-2022) | [Local Asset](../../../../../../corpus/07-signal/images/637cfa29d81b3879bce0095b_Picture5.avif)
 
 
 ## V. Demand - Ton Days and Miles
@@ -107,7 +107,7 @@ As shown in the image (6) below, the fourth quarter began with a significant inc
 
 > **Figure 6: Image 6- Data Source: The Signal Ocean Platform, Capesize Ton Charts Https://app.signalocean.com/dry/reports/toncharts**  
 > *Image 6- Data Source: The Signal Ocean Platform, Capesize Ton Charts https://app.signalocean.com/dry/reports/toncharts*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/seaborne-coal-flows-in-2022) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/637cfa57835d3745c63bab40_Picture6.avif)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/seaborne-coal-flows-in-2022) | [Local Asset](../../../../../../corpus/07-signal/images/637cfa57835d3745c63bab40_Picture6.avif)
 
 
 ## Looking Ahead

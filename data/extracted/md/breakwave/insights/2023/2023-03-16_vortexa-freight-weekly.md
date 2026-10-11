@@ -25,11 +25,11 @@ By[Dylan Simpson](https://www.linkedin.com/search/results/all/?fetchDeterministi
 
 ## Analysis / East of Suez / Dirty
 
-![VLCC Utilisation by Voyage Status](assets/2023-03-16_vortexa-freight-weekly_img_unnamed-2023-03-16t122855851_666d88e81a9e.png)
+![VLCC Utilisation by Voyage Status](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-03-16_vortexa-freight-weekly_img_unnamed-2023-03-16t122855851_666d88e81a9e.png)
 
 > **Figure 1: VLCC Utilisation by Voyage Status**  
 > *VLCC utilisation by voyage status*  
-> **Interactive Data & Source:** [Vortexa](https://www.vortexa.com//oil-gas-data-traders-analysts-data-scientists?gclid=Cj0KCQjw8_qRBhCXARIsAE2AtRZKOvMnbilZ_6_91d7huSFFy71pWLrnPwGwOHVzXsmsG-1a1mZnQw8aAt89EALw_wcB&hsa_acc=1782073842&hsa_ad=548425387665&hsa_cam=14746637662&hsa_grp=125038601902&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_src=g&hsa_tgt=dsa-1431852288425&hsa_ver=3&utm_campaign=%5BCD%5D%20-%20DSA%20-%20EMEA&utm_medium=cpc&utm_medium=ppc&utm_source=google&utm_source=adwords&utm_term=) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-03-16_vortexa-freight-weekly_img_unnamed-2023-03-16t122855851_666d88e81a9e.png)
+> **Interactive Data & Source:** [Vortexa](https://www.vortexa.com//oil-gas-data-traders-analysts-data-scientists?gclid=Cj0KCQjw8_qRBhCXARIsAE2AtRZKOvMnbilZ_6_91d7huSFFy71pWLrnPwGwOHVzXsmsG-1a1mZnQw8aAt89EALw_wcB&hsa_acc=1782073842&hsa_ad=548425387665&hsa_cam=14746637662&hsa_grp=125038601902&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_src=g&hsa_tgt=dsa-1431852288425&hsa_ver=3&utm_campaign=%5BCD%5D%20-%20DSA%20-%20EMEA&utm_medium=cpc&utm_medium=ppc&utm_source=google&utm_source=adwords&utm_term=) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-03-16_vortexa-freight-weekly_img_unnamed-2023-03-16t122855851_666d88e81a9e.png)
 
 VLCC freight rates performed a mini-rally, with a 33% and a 12% w-o-w increase on the Middle East-to-China (TD3C) and US Gulf-to-China (TD22) respectively.
 
@@ -38,10 +38,10 @@ VLCC freight rates performed a mini-rally, with a 33% and a 12% w-o-w increase o
 
 ## Analysis / West of Suez / Dirty
 
-![Aframaxes Hesitate As European Crude Demand Falters](assets/2023-03-16_vortexa-freight-weekly_img_unnamed-2023-03-16t123147621_c8f91cd3d0ac.png)
+![Aframaxes Hesitate As European Crude Demand Falters](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-03-16_vortexa-freight-weekly_img_unnamed-2023-03-16t123147621_c8f91cd3d0ac.png)
 
 > **Figure 2: Aframaxes Hesitate As European Crude Demand Falters**  
-> **Interactive Data & Source:** [Vortexa](https://www.vortexa.com//oil-gas-data-traders-analysts-data-scientists?gclid=Cj0KCQjw8_qRBhCXARIsAE2AtRZKOvMnbilZ_6_91d7huSFFy71pWLrnPwGwOHVzXsmsG-1a1mZnQw8aAt89EALw_wcB&hsa_acc=1782073842&hsa_ad=548425387665&hsa_cam=14746637662&hsa_grp=125038601902&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_src=g&hsa_tgt=dsa-1431852288425&hsa_ver=3&utm_campaign=%5BCD%5D%20-%20DSA%20-%20EMEA&utm_medium=cpc&utm_medium=ppc&utm_source=google&utm_source=adwords&utm_term=) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-03-16_vortexa-freight-weekly_img_unnamed-2023-03-16t123147621_c8f91cd3d0ac.png)
+> **Interactive Data & Source:** [Vortexa](https://www.vortexa.com//oil-gas-data-traders-analysts-data-scientists?gclid=Cj0KCQjw8_qRBhCXARIsAE2AtRZKOvMnbilZ_6_91d7huSFFy71pWLrnPwGwOHVzXsmsG-1a1mZnQw8aAt89EALw_wcB&hsa_acc=1782073842&hsa_ad=548425387665&hsa_cam=14746637662&hsa_grp=125038601902&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_src=g&hsa_tgt=dsa-1431852288425&hsa_ver=3&utm_campaign=%5BCD%5D%20-%20DSA%20-%20EMEA&utm_medium=cpc&utm_medium=ppc&utm_source=google&utm_source=adwords&utm_term=) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-03-16_vortexa-freight-weekly_img_unnamed-2023-03-16t123147621_c8f91cd3d0ac.png)
 
 Aframax utilisation towards Europe vs. availability in the US Gulf (RHS)
 

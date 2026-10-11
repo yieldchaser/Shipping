@@ -34,10 +34,10 @@ Global headline inflation is projected to decline further to 3.8 percent in 2026
 
 Compared with the stress conditions observed a year ago, today’s dry bulk market is operating from a markedly stronger footing. Early-year momentum, improving sentiment, and a more supportive macro backdrop have collectively lifted earnings across all major segments. However, with global trade growth expected to slow and policyrelated uncertainties still unresolved, the current upswing should be viewed through a cyclical lens rather than as the start of a linear recovery. The outlook remains constructive, particularly as emerging markets continue to absorb increasing volumes of seaborne commodities, but the sustainability of current rate levels will ultimately depend on how effectively demand growth keeps pace with fleet availability as the year progresses.
 
-![Στιγμιότυπο Οθόνης 2026 01 26 142754](assets/2026-01-26_dry-bulk-market-on-a-stronger-footing_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_91068a7f1290.png)
+![Στιγμιότυπο Οθόνης 2026 01 26 142754](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-01-26_dry-bulk-market-on-a-stronger-footing_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_91068a7f1290.png)
 
 > **Figure 1: Στιγμιότυπο Οθόνης 2026 01 26 142754**  
-> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-01-26_dry-bulk-market-on-a-stronger-footing_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_91068a7f1290.png)
+> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-01-26_dry-bulk-market-on-a-stronger-footing_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_91068a7f1290.png)
 
 Data source:[Doric](https://www.doric.gr/)
 

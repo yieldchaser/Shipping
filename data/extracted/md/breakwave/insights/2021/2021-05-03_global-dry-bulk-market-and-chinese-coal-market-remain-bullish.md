@@ -25,7 +25,7 @@ source_file: "corpus/03-breakwave/insights/2021/2021-05-03_global-dry-bulk-marke
 ![Unsplash Image Aig78yghdmm](assets/2021-05-03_global-dry-bulk-market-and-chinese-coal-market-remain-bullish_img_unsplash-image-aig78yghdmm_f996e64aa9dc.jpg)
 
 > **Figure 1: Unsplash Image Aig78yghdmm**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2021/assets/2021-05-03_global-dry-bulk-market-and-chinese-coal-market-remain-bullish_img_unsplash-image-aig78yghdmm_f996e64aa9dc.jpg)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-05-03_global-dry-bulk-market-and-chinese-coal-market-remain-bullish_img_unsplash-image-aig78yghdmm_f996e64aa9dc.jpg)
 
 Dry bulk rates increased across the board again last week, with capesize rates again finding the largest amount of support. Capesize rates ended last week up by 17%. Panamax rates ended up by 2%. Supramax rates ended up by 3%. Handysize rates ended up by 5%. As we have also discussed in this week's Weekly Dry Bulk Report, Chinese coastal coal freight rates fell by 5%. However, this has marked the first decline since early April, and rates remain very high and are still very close to 2017 highs. Before last week, Chinese coastal coal freight rates had fallen just once during the previous eleven weeks. Also significant is that last week's decline was brief. Coastal coal freight rates started to rise again during the second half of last week.
 
@@ -36,14 +36,14 @@ We remain bullish for China’s near-term coal import prospects. Of note globall
 ![Jeff 1](assets/2021-05-03_global-dry-bulk-market-and-chinese-coal-market-remain-bullish_img_jeff1_786a3de340a7.jpg)
 
 > **Figure 2: Jeff 1**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2021/assets/2021-05-03_global-dry-bulk-market-and-chinese-coal-market-remain-bullish_img_jeff1_786a3de340a7.jpg)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-05-03_global-dry-bulk-market-and-chinese-coal-market-remain-bullish_img_jeff1_786a3de340a7.jpg)
 
 Thermal coal prices in China have also continued to climb as consumption remains very strong and as domestic coal port stockpiles have remained particularly low. Chinese coal production growth also remains under pressure due to coal mine inspections and safety restrictions put in place last month following a series of tragic coal mine accidents. The price of benchmark Qinhuangdao thermal coal ended last week at approximately 805 yuan/ton, which is up week-on-week by 2% and up year-on-year by 71%. Domestic thermal coal prices have been climbing since the beginning of March and are now at the highest level seen since late January.
 
 ![Jeff 2](assets/2021-05-03_global-dry-bulk-market-and-chinese-coal-market-remain-bullish_img_jeff2_b4fa03e27d5c.jpg)
 
 > **Figure 3: Jeff 2**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2021/assets/2021-05-03_global-dry-bulk-market-and-chinese-coal-market-remain-bullish_img_jeff2_b4fa03e27d5c.jpg)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-05-03_global-dry-bulk-market-and-chinese-coal-market-remain-bullish_img_jeff2_b4fa03e27d5c.jpg)
 
 ---
 

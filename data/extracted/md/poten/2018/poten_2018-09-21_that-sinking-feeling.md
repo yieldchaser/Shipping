@@ -30,10 +30,17 @@ The Iranian sanctions have not had a material impact on the tanker market so far
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: That Sinking Feeling](../../../charts/poten/2018/poten_2018-09-21_that-sinking-feeling_chart1.png)
+![Exhibit 1: Iranian Crude Oil Exports by Destination](../../../charts/poten/2018/poten_2018-09-21_that-sinking-feeling_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2018/poten_2018-09-21_that-sinking-feeling_chart1.png)
+> **Exhibit 1: Iranian Crude Oil Exports by Destination**  
+> Unit: Kb/d · X-axis: Jan-14 to Jul-18  
+> Series: China, India, Korea, Other Asia, Turkey, Other Med, UKC, Other  
+> *Source: Lloyd’s List Intelligence*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2018/poten_2018-09-21_that-sinking-feeling_chart1.png)
 
-![Exhibit 2: That Sinking Feeling](../../../charts/poten/2018/poten_2018-09-21_that-sinking-feeling_chart2.png)
+![Exhibit 2: Iranian Short Term Floating Storage](../../../charts/poten/2018/poten_2018-09-21_that-sinking-feeling_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2018/poten_2018-09-21_that-sinking-feeling_chart2.png)
+> **Exhibit 2: Iranian Short Term Floating Storage**  
+> Unit: Mbbl · X-axis: Jan-16 to Jul-18  
+> *Source: Lloyd’s List Intelligence*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2018/poten_2018-09-21_that-sinking-feeling_chart2.png)

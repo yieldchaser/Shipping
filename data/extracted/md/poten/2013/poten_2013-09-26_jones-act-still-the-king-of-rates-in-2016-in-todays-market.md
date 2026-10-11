@@ -52,16 +52,16 @@ The US Flag market will continue to see strong earnings through 2016, but partic
 
 ![Exhibit 1: Jones Act - Still the king of rates in 2016? In today's market Jones Act tankers command a significant premium as few ships](../../../charts/poten/2013/poten_2013-09-26_jones-act-still-the-king-of-rates-in-2016-in-todays-market_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2013/poten_2013-09-26_jones-act-still-the-king-of-rates-in-2016-in-todays-market_chart1.png)
+> **Interactive Asset:** [Local Asset (200 DPI PNG)](../../../charts/poten/2013/poten_2013-09-26_jones-act-still-the-king-of-rates-in-2016-in-todays-market_chart1.png)
 
 ![Exhibit 2: Jones Act - Still the king of rates in 2016? In today's market Jones Act tankers command a significant premium as few ships](../../../charts/poten/2013/poten_2013-09-26_jones-act-still-the-king-of-rates-in-2016-in-todays-market_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2013/poten_2013-09-26_jones-act-still-the-king-of-rates-in-2016-in-todays-market_chart2.png)
+> **Interactive Asset:** [Local Asset (200 DPI PNG)](../../../charts/poten/2013/poten_2013-09-26_jones-act-still-the-king-of-rates-in-2016-in-todays-market_chart2.png)
 
 ![Exhibit 3: Jones Act - Still the king of rates in 2016? In today's market Jones Act tankers command a significant premium as few ships](../../../charts/poten/2013/poten_2013-09-26_jones-act-still-the-king-of-rates-in-2016-in-todays-market_chart3.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2013/poten_2013-09-26_jones-act-still-the-king-of-rates-in-2016-in-todays-market_chart3.png)
+> **Interactive Asset:** [Local Asset (200 DPI PNG)](../../../charts/poten/2013/poten_2013-09-26_jones-act-still-the-king-of-rates-in-2016-in-todays-market_chart3.png)
 
 ![Exhibit 4: Jones Act - Still the king of rates in 2016? In today's market Jones Act tankers command a significant premium as few ships](../../../charts/poten/2013/poten_2013-09-26_jones-act-still-the-king-of-rates-in-2016-in-todays-market_chart4.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2013/poten_2013-09-26_jones-act-still-the-king-of-rates-in-2016-in-todays-market_chart4.png)
+> **Interactive Asset:** [Local Asset (200 DPI PNG)](../../../charts/poten/2013/poten_2013-09-26_jones-act-still-the-king-of-rates-in-2016-in-todays-market_chart4.png)

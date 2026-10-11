@@ -72,6 +72,18 @@ Oil is a commodity whose price is affected by supply and demand factors but as a
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: Considering the End of Affordable Oil](../../../charts/poten/2004/poten_2004-05-21_considering-the-end-of-affordable-oil_chart1.png)
+> **Chart on PDF page 2: World and U.S. Oil Consumption**  
+> Unit: MM Bpd | % · X-axis: 1960 to 2000  
+> Series: U.S. Percentage, Rest of the World, United States  
+> *Source: IEA/Poten*  
+> *No image crop of this chart was saved; caption read from the PDF.*
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2004/poten_2004-05-21_considering-the-end-of-affordable-oil_chart1.png)
+> **Chart on PDF page 3: World Oil Consumption & Past Trend Anslyses**  
+> Unit: MM Bpd · X-axis: 1960 to 2000  
+> Series: Oil Consumption Forecast Based on Low Priced Oil, Oil Consumption Forecast Based on High Priced Oil, IEA/Poten, Era of Low Priced Oil, Era of High Priced Oil, Era of Moderate Priced Oil  
+> *No image crop of this chart was saved; caption read from the PDF.*
+
+> **Chart on PDF page 4: World Oil Consumption & Trend Anslyses Based on Moderate Oil Prices**  
+> Unit: MM Bpd · X-axis: 1984 to 2024  
+> Series: IEA/Poten  
+> *No image crop of this chart was saved; caption read from the PDF.*

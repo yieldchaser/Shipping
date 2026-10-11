@@ -50,10 +50,10 @@ A significant share of global urea trade passes through the Strait of Hormuz. Th
 
 Unlike energy markets, where strategic reserves may partially mitigate supply shocks, fertiliser production capacity cannot be expanded quickly. Building new ammonia or urea plants requires significant capital investment and multi-year construction timelines, which means sustained supply disruptions could affect pricing and trade flows over an extended period.
 
-![Στιγμιότυπο Οθόνης 2026 03 11 163059](assets/2026-03-11_hormuz-disruption-and-the-emerging-fertiliser-shock_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_a54a26240f7d.png)
+![Στιγμιότυπο Οθόνης 2026 03 11 163059](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-03-11_hormuz-disruption-and-the-emerging-fertiliser-shock_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_a54a26240f7d.png)
 
 > **Figure 1: Στιγμιότυπο Οθόνης 2026 03 11 163059**  
-> **Interactive Data & Source:** [Allied-shipbroking](https://www.allied-shipbroking.gr/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-03-11_hormuz-disruption-and-the-emerging-fertiliser-shock_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_a54a26240f7d.png)
+> **Interactive Data & Source:** [Allied-shipbroking](https://www.allied-shipbroking.gr/) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-03-11_hormuz-disruption-and-the-emerging-fertiliser-shock_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_a54a26240f7d.png)
 
 ### Fertiliser Prices and the Role of Asian Importers
 
@@ -61,10 +61,10 @@ Market participants have already observed upward pressure in fertiliser markets 
 
 India supplements domestic fertiliser production with imports while also relying on natural gas imports for part of its domestic manufacturing base. Disruptions affecting Gulf supply routes could therefore increase competition for alternative cargoes from other producing regions, contributing to upward pressure on global fertiliser prices. Government procurement programmes and fertiliser subsidy systems across Asia may also influence market dynamics if authorities move to secure additional supply ahead of key planting seasons.
 
-![Στιγμιότυπο Οθόνης 2026 03 11 163209](assets/2026-03-11_hormuz-disruption-and-the-emerging-fertiliser-shock_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_c470fbceec01.png)
+![Στιγμιότυπο Οθόνης 2026 03 11 163209](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-03-11_hormuz-disruption-and-the-emerging-fertiliser-shock_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_c470fbceec01.png)
 
 > **Figure 2: Στιγμιότυπο Οθόνης 2026 03 11 163209**  
-> **Interactive Data & Source:** [Allied-shipbroking](https://www.allied-shipbroking.gr/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-03-11_hormuz-disruption-and-the-emerging-fertiliser-shock_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_c470fbceec01.png)
+> **Interactive Data & Source:** [Allied-shipbroking](https://www.allied-shipbroking.gr/) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-03-11_hormuz-disruption-and-the-emerging-fertiliser-shock_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_c470fbceec01.png)
 
 ### Implications for Brazil and Global Agriculture
 

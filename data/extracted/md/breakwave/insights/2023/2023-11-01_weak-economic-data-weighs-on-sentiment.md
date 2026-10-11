@@ -23,10 +23,10 @@ source_file: "corpus/03-breakwave/insights/2023/2023-11-01_weak-economic-data-we
 
 Weak economic data in China weighed on sentiment across the industrial metals sectors. Energy markets remained on edge amid elevated geopolitical risks.
 
-![1698787843415](assets/2023-11-01_weak-economic-data-weighs-on-sentiment_img_1698787843415_7dd2c07f0eb7.png)
+![1698787843415](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-11-01_weak-economic-data-weighs-on-sentiment_img_1698787843415_7dd2c07f0eb7.png)
 
 > **Figure 1: 1698787843415**  
-> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-11-01_weak-economic-data-weighs-on-sentiment_img_1698787843415_7dd2c07f0eb7.png)
+> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-11-01_weak-economic-data-weighs-on-sentiment_img_1698787843415_7dd2c07f0eb7.png)
 
 **Base metals**fell after weaker than expected manufacturing data in China raised concerns about the economic recovery. The official manufacturing purchasing managers index came in below expectations at 49.5. Below 50 suggests activity is contracting. This suggests there is more work required to boost economic growth, despite recent support measures. These include raising the fiscal deficit ratio for 2023 to about 3.8% of GDP, as well as an additional CNY1tn of debt to support construction activity. Sentiment in the**copper**market wasn’t helped by signs of higher supply. September output in Chile rose 4.1% y/y, following similar gains in July and August. State-owned mining giant Codelco shrugged off project delays to increase production in Q3 after a series of disappointing results. Losses in**aluminium**were limited amid reports that smelters in Yunnan are now subject to renewed output cuts. Officials are becoming increasingly worried about power consumption ahead of the peak demand period.
 

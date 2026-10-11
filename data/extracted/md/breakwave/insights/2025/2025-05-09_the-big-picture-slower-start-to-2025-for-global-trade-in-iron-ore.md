@@ -28,20 +28,20 @@ The most severe supply-side constraint in early 2025 was in Australia, caused by
 
 Rio Tinto, the mining company, whose operations faced the greatest disruption, did not change their production guidance for the 2025 calendar year.
 
-![All Volumes Have Been Converted Into Standard Wet Basis From](assets/2025-05-09_the-big-picture-slower-start-to-2025-for-global-trade-in-iron-ore_img_778a-image-0-1746720803245_7a28ce15444a.png)
+![All Volumes Have Been Converted Into Standard Wet Basis From](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-05-09_the-big-picture-slower-start-to-2025-for-global-trade-in-iron-ore_img_778a-image-0-1746720803245_7a28ce15444a.png)
 
 > **Figure 1: All Volumes Have Been Converted Into Standard Wet Basis From**  
 > *All volumes have been converted into standard wet basis from Australian Bureau of Statistics figures.*  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-05-09_the-big-picture-slower-start-to-2025-for-global-trade-in-iron-ore_img_778a-image-0-1746720803245_7a28ce15444a.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-05-09_the-big-picture-slower-start-to-2025-for-global-trade-in-iron-ore_img_778a-image-0-1746720803245_7a28ce15444a.png)
 
 The process of catch-up, as operations normalised, helped lift**Australian iron ore exports from the lowest month in almost six years in February**(60.2m tonnes) to the**second-highest month on record in March**(85.5m tonnes), as ore shipments caught up.
 
 **Brazil’s exports in the first four months registered a slight yearly rise**to 114.9m tonnes, according to official data (see chart below).
 
-![1d0a Image 0 1746720766838](assets/2025-05-09_the-big-picture-slower-start-to-2025-for-global-trade-in-iron-ore_img_1d0a-image-0-1746720766838_14aedc95d1a3.png)
+![1d0a Image 0 1746720766838](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-05-09_the-big-picture-slower-start-to-2025-for-global-trade-in-iron-ore_img_1d0a-image-0-1746720766838_14aedc95d1a3.png)
 
 > **Figure 2: 1d0a Image 0 1746720766838**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-05-09_the-big-picture-slower-start-to-2025-for-global-trade-in-iron-ore_img_1d0a-image-0-1746720766838_14aedc95d1a3.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-05-09_the-big-picture-slower-start-to-2025-for-global-trade-in-iron-ore_img_1d0a-image-0-1746720766838_14aedc95d1a3.png)
 
 While seasonal Q1 rains in Brazil have frequently hampered mining and supply chain operations in previous Q1s, the country’s iron ore production levels are not solely determined by rainfall.
 

@@ -30,10 +30,10 @@ In the iron ore market, prices have shown retreat as in the coal segment, from d
 
 ## Section 1 - Freight -Market Rates ($/T) - Firmer
 
-![Ch1](assets/2022-03-16_signal-dry-bulk-weekly-report_img_ch1_6c06669250fd.png)
+![Ch1](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-03-16_signal-dry-bulk-weekly-report_img_ch1_6c06669250fd.png)
 
 > **Figure 1: Ch1**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-03-16_signal-dry-bulk-weekly-report_img_ch1_6c06669250fd.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-03-16_signal-dry-bulk-weekly-report_img_ch1_6c06669250fd.png)
 
 Capesize Brazil to NChina rates increased to levels above $30/t this week, almost 5 points up from previous week, while there is a constant accelerated trend since Week 7. The turnaround is remarkable compared to the low of Week 3 $18/t. Panamax Continent to Far East rates have shown a soft decrease, however, levels are still above $50/t. Uncertainty in coal supplies seems to hold the outstanding surge of Panamax freight rates following the Russian-Ukraine tensions.
 
@@ -46,10 +46,10 @@ Capesize Brazil to NChina rates increased to levels above $30/t this week, almos
 
 Supply Trend Lines for Key Load Areas
 
-![Ch2](assets/2022-03-16_signal-dry-bulk-weekly-report_img_ch2_874dabf8ff0e.png)
+![Ch2](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-03-16_signal-dry-bulk-weekly-report_img_ch2_874dabf8ff0e.png)
 
 > **Figure 2: Ch2**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-03-16_signal-dry-bulk-weekly-report_img_ch2_874dabf8ff0e.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-03-16_signal-dry-bulk-weekly-report_img_ch2_874dabf8ff0e.png)
 
 The ballasters’ view has recorded a firm decrease in the Panamax segment, while the number of ballasters is aggressively increasing in the handysize and supramax segment.
 
@@ -61,10 +61,10 @@ The ballasters’ view has recorded a firm decrease in the Panamax segment, whil
 
 ## Decreasing
 
-![Ch3](assets/2022-03-16_signal-dry-bulk-weekly-report_img_ch3_ea7e64567df8.png)
+![Ch3](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-03-16_signal-dry-bulk-weekly-report_img_ch3_ea7e64567df8.png)
 
 > **Figure 3: Ch3**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-03-16_signal-dry-bulk-weekly-report_img_ch3_ea7e64567df8.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-03-16_signal-dry-bulk-weekly-report_img_ch3_ea7e64567df8.png)
 
 The dry bulk demand evolution keeps growing in the Panamax and supramax vessel segments. It is interesting to see that demand growth in the handysize segment is evolving significantly at lower volumes than in the supramax segment. However, demand growth for smaller vessel sizes is still higher than in the Capesize segment in the aftermath of war tensions.
 
@@ -76,10 +76,10 @@ The dry bulk demand evolution keeps growing in the Panamax and supramax vessel s
 
 ## Dry Bulk Ships Congested Around Chinese Ports
 
-![Ch4](assets/2022-03-16_signal-dry-bulk-weekly-report_img_ch4_c7509126e1ad.png)
+![Ch4](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-03-16_signal-dry-bulk-weekly-report_img_ch4_c7509126e1ad.png)
 
 > **Figure 4: Ch4**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-03-16_signal-dry-bulk-weekly-report_img_ch4_c7509126e1ad.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-03-16_signal-dry-bulk-weekly-report_img_ch4_c7509126e1ad.png)
 
 - The number of ship congestion is on an increasing trend for three successive weeks. The levels have surpassed the minimum of 860 vessels since Week 8, while the overall trend is still below the record highs witnessed last quarter of the previous year.
 

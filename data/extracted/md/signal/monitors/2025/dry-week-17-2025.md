@@ -25,11 +25,11 @@ tags:
 
 *Published on 23 April 2025*
 
-![Https://app.signalocean.com/dry/dynamic/drybulkflows-Downloadable](../../images/6808f1a6dee730e3421f9f78_AD_4nXfdsKsTKqkc_XxkQT-V7-UgOoMnXPSx5cgrNdCSpJ6FLrK024gP4BlDR67l_V0BPS6GQaFIUSdt7skFxFs_bxjkH0lEpeJ-6l77ltk9x0vcpaY2DbYbE0Slq84lfbvv9f351f-PNg.png)
+![Https://app.signalocean.com/dry/dynamic/drybulkflows-Downloadable](../../../../../../corpus/07-signal/images/6808f1a6dee730e3421f9f78_AD_4nXfdsKsTKqkc_XxkQT-V7-UgOoMnXPSx5cgrNdCSpJ6FLrK024gP4BlDR67l_V0BPS6GQaFIUSdt7skFxFs_bxjkH0lEpeJ-6l77ltk9x0vcpaY2DbYbE0Slq84lfbvv9f351f-PNg.png)
 
 > **Figure 1: Https://app.signalocean.com/dry/dynamic/drybulkflows-Downloadable**  
 > *https://app.signalocean.com/dry/dynamic/drybulkflows-downloadable*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/dry-week-17-2025) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6808f1a6dee730e3421f9f78_AD_4nXfdsKsTKqkc_XxkQT-V7-UgOoMnXPSx5cgrNdCSpJ6FLrK024gP4BlDR67l_V0BPS6GQaFIUSdt7skFxFs_bxjkH0lEpeJ-6l77ltk9x0vcpaY2DbYbE0Slq84lfbvv9f351f-PNg.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/dry-week-17-2025) | [Local Asset](../../../../../../corpus/07-signal/images/6808f1a6dee730e3421f9f78_AD_4nXfdsKsTKqkc_XxkQT-V7-UgOoMnXPSx5cgrNdCSpJ6FLrK024gP4BlDR67l_V0BPS6GQaFIUSdt7skFxFs_bxjkH0lEpeJ-6l77ltk9x0vcpaY2DbYbE0Slq84lfbvv9f351f-PNg.png)
 
 The first quarter of 2025 has shown mixed signals in China's dry bulk import profile, reflecting commodity-specific trends and the broader strategic shifts underway amid the U.S.-China trade war. The above charts reveal YoY volume comparisons for March 2025 vs. March 2024, highlighting divergent patterns in iron ore, coal, and grain flows to China.
 

@@ -70,6 +70,14 @@ On This Note, We Wish All of You a Happy and
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: OPEC on OPEC](../../../charts/poten/2005/poten_2005-12-30_opec-on-opec_chart1.png)
+> **Chart on PDF page 2: OPEC Production Capacity & Export Availability**  
+> Unit: MM Bpd · X-axis: 2004 to 2010  
+> Series: Production Capacity, Export Availability  
+> *Source: OPEC/Poten*  
+> *No image crop of this chart was saved; caption read from the PDF.*
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2005/poten_2005-12-30_opec-on-opec_chart1.png)
+> **Chart on PDF page 3: Planned Expansion of OPEC Refinery Capacity**  
+> Unit: 000 Bbls · X-axis: Saudi Arabia to Venezuela  
+> Series: OPEC/Poten  
+> *Source: OPEC/Poten*  
+> *No image crop of this chart was saved; caption read from the PDF.*

@@ -31,14 +31,14 @@ Despite the country being home to the fourth-largest coal deposits in the world,
 ![A1](assets/2021-09-03_coal-indias-seaborne-imports-poised-to-increase_img_a1_a3671b2069f5.png)
 
 > **Figure 1: A1**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2021/assets/2021-09-03_coal-indias-seaborne-imports-poised-to-increase_img_a1_a3671b2069f5.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-09-03_coal-indias-seaborne-imports-poised-to-increase_img_a1_a3671b2069f5.png)
 
 It has been highlighted in Ocean Analytics’ previous Insights contributions that the ongoing diplomatic tensions between China and Australia have seen large parts of the Australian coal exports being diverted to India following the Chinese import embargo. This trend has remained in place throughout the year and the Australian miners have usurped the top spot previously held by the Indonesian suppliers. The news that India is likely to increase the import of coal is likely to delight the Australian coal miners, who can hope to ship an even greater part of the coal they previously dispatched to China. During the first eight months of the year, India has already imported more coal from down under than it did in a whole year previously. At the same time, Indonesia has lost its previously dominant position in the Indian market but much of its output is now going to China instead and is replacing the banned Australian imports.
 
 ![A2](assets/2021-09-03_coal-indias-seaborne-imports-poised-to-increase_img_a2_21911dcd3c31.png)
 
 > **Figure 2: A2**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2021/assets/2021-09-03_coal-indias-seaborne-imports-poised-to-increase_img_a2_21911dcd3c31.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-09-03_coal-indias-seaborne-imports-poised-to-increase_img_a2_21911dcd3c31.png)
 
 South Africa has long been the third-largest source of imported coal for the Indian marketplace, with annual volumes averaging 37 million tonnes in recent years. The country’s share of the seaborne imports has also remained stable during the years leading up to the pandemic, but as the Covid related challenges increased during this year the market share has declined. This has been even more pronounced in the last few months with civil unrest affecting the region around Richards Bay, where the country’s largest coal port is located. While cargo operations have resumed in the wake of the violent protests, volumes shipped from the port in August were fifteen per cent below the same month last year, according to data from Oceanbolt.
 
@@ -47,7 +47,7 @@ The unrest affected the rail lines serving Richards Bay, reducing the amount of 
 ![A3](assets/2021-09-03_coal-indias-seaborne-imports-poised-to-increase_img_a3_bf8a6fd814f1.png)
 
 > **Figure 3: A3**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2021/assets/2021-09-03_coal-indias-seaborne-imports-poised-to-increase_img_a3_bf8a6fd814f1.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-09-03_coal-indias-seaborne-imports-poised-to-increase_img_a3_bf8a6fd814f1.png)
 
 ---
 

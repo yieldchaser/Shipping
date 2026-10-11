@@ -171,6 +171,30 @@ While the top six charterers in 2006 held onto their rankings in 2007, several n
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: Charterer Smackdown](../../../charts/poten/2008/poten_2008-01-11_charterer-smackdown_chart1.png)
+> **Chart on PDF page 1: Untitled chart**  
+> Unit: # of Reported Fixtures · X-axis: VLCC to Handymax  
+> Series: 2006, 2007  
+> *Source: Poten*  
+> *No image crop of this chart was saved; caption read from the PDF.*
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2008/poten_2008-01-11_charterer-smackdown_chart1.png)
+> **Chart on PDF page 3: VLCC**  
+> Unit: # of Fixtures · X-axis: ExxonMobil to Vela  
+> Series: ExxonMobil, Unipec, Shell, Ioc, SK, BP, Sinochem, ConocoPhillips, CPC, Vela  
+> *Source: Poten*  
+> *No image crop of this chart was saved; caption read from the PDF.*
+
+> **Chart on PDF page 3: Suezmax**  
+> Unit: # of Fixtures · X-axis: Shell to Mercuria  
+> Series: Shell, Sun, Clearlake, BP, Total, Repsol, Petrobras, ExxonMobil, Ioc, Mercuria  
+> *Source: Poten*  
+> *No image crop of this chart was saved; caption read from the PDF.*
+
+> **Chart on PDF page 4: Aframax**  
+> Unit: # of Fixtures · X-axis: Shell to Chevron  
+> Series: Poten  
+> *No image crop of this chart was saved; caption read from the PDF.*
+
+> **Chart on PDF page 5: Panamax**  
+> Unit: # of Fixtures · X-axis: ST Shipping to Trafigura  
+> Series: Poten  
+> *No image crop of this chart was saved; caption read from the PDF.*

@@ -28,10 +28,18 @@ The tanker fleet has grown in 2020 with the delivery of 36 VLCCs, 29 Suezmaxes a
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: Winter Doldrums](../../../charts/poten/2021/poten_2021-01-15_winter-doldrums_chart1.png)
+![Exhibit 1: VLCC: AG - FE](../../../charts/poten/2021/poten_2021-01-15_winter-doldrums_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2021/poten_2021-01-15_winter-doldrums_chart1.png)
+> **Exhibit 1: VLCC: AG - FE**  
+> Unit: US$/day · X-axis: 1 to 51  
+> Series: 2021, 2020, 2019, 2018, 2017  
+> *Source: Poten & Partners*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2021/poten_2021-01-15_winter-doldrums_chart1.png)
 
-![Exhibit 2: Winter Doldrums](../../../charts/poten/2021/poten_2021-01-15_winter-doldrums_chart2.png)
+![Exhibit 2: Crude & Dirty Products: TonMiles (2020 vs 2019)](../../../charts/poten/2021/poten_2021-01-15_winter-doldrums_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2021/poten_2021-01-15_winter-doldrums_chart2.png)
+> **Exhibit 2: Crude & Dirty Products: TonMiles (2020 vs 2019)**  
+> Unit: M TonMiles/day · X-axis: Jan to Dec  
+> Series: 2019, VLCC, Suezmax, Aframax  
+> *Source: Lloyd’s List Intelligence*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2021/poten_2021-01-15_winter-doldrums_chart2.png)

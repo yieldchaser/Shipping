@@ -40,19 +40,19 @@ a. We expect ordering for other ships types to slow down after a busy 2024, leav
 
 b. The slowdown in ordering is likely to focus on ships that would have been trickier to build, like LNG carriers and container ships. This will open more space to tankers than the simple ‘share of dwt’ would suggest. Tankers currently make up around 35% of DWT delivering in 2027, but just 20% of CGT
 
-![Market Chart 1](assets/2025-01-07_the-big-picture-tanker-ordering_img_image0_fb59ae03a7f3.png)
+![Market Chart 1](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-01-07_the-big-picture-tanker-ordering_img_image0_fb59ae03a7f3.png)
 
 > **Figure 1: Market Chart 1**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-01-07_the-big-picture-tanker-ordering_img_image0_fb59ae03a7f3.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-01-07_the-big-picture-tanker-ordering_img_image0_fb59ae03a7f3.png)
 
 c. We expect capacity at Chinese yards will continue to expand, opening new slots from 2027. CGT expected to be built worldwide in 2026 is already 3% higher than 2025, which was itself up 4% on 2023.
 
 d. More Chinese capacity will be targeting tankers. Not just those yards that already build tankers, but those like Yangzijiang Shipbuilding that have recently moved into the tanker space.
 
-![Market Chart 2](assets/2025-01-07_the-big-picture-tanker-ordering_img_image128129_371de1d3e5f5.png)
+![Market Chart 2](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-01-07_the-big-picture-tanker-ordering_img_image128129_371de1d3e5f5.png)
 
 > **Figure 2: Market Chart 2**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-01-07_the-big-picture-tanker-ordering_img_image128129_371de1d3e5f5.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-01-07_the-big-picture-tanker-ordering_img_image128129_371de1d3e5f5.png)
 
 Even if tankers were to maintain their 2026 share of total CGT built worldwide, this would requireacity of today’s delivery schedule for 2027 to grow by 12%.
 
@@ -64,10 +64,10 @@ Currently we assume shadow tanker demand doesn’t grow from here. As such we lo
 
 Having revised our NB delivery numbers upward, we could of course now risk overstating fleet growth at the tail end of our five year outlook. Interesting to note that just this morning we learned of the cancellation by a large trader of what we had assumed was a firm order for four Handies delivering 2027. If confirmed this would represent the first cancellation oftanker order for a long time. greyer haired among us will still remember (just) that a full 15% of the orders placed during the commodity supercycle were subsequently removed from the tanker orderbook prior delivery – 90% of which were either cancelled or converted to other ship types.
 
-![Braemar’s Estimate of Nb Tanker Deliveries In…](assets/2025-01-07_the-big-picture-tanker-ordering_img_image2_e060d549604b.png)
+![Braemar’s Estimate of Nb Tanker Deliveries In…](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-01-07_the-big-picture-tanker-ordering_img_image2_e060d549604b.png)
 
 > **Figure 3: Braemar’s Estimate of Nb Tanker Deliveries In…**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-01-07_the-big-picture-tanker-ordering_img_image2_e060d549604b.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-01-07_the-big-picture-tanker-ordering_img_image2_e060d549604b.png)
 
 ---
 

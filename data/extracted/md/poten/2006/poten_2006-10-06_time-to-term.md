@@ -50,6 +50,14 @@ The largest time charterers of Handymax product carriers have been the trading c
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: Time to Term](../../../charts/poten/2006/poten_2006-10-06_time-to-term_chart1.png)
+> **Chart on PDF page 1: Untitled chart**  
+> X-axis: 2002 to 2006 YTD  
+> Series: January - September, October - December  
+> *Source: Poten & Partners*  
+> *No image crop of this chart was saved; caption read from the PDF.*
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2006/poten_2006-10-06_time-to-term_chart1.png)
+> **Chart on PDF page 2: Period Versus Spot**  
+> Unit: $ · X-axis: Jan-02 to Jul-06  
+> Series: CAR - USAC (38kt) - TCE, Time Charter - 3 Year  
+> *Source: Poten & Partners*  
+> *No image crop of this chart was saved; caption read from the PDF.*

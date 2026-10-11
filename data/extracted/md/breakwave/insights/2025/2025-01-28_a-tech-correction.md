@@ -32,10 +32,10 @@ source_file: "corpus/03-breakwave/insights/2025/2025-01-28_a-tech-correction.htm
 
 In the past few days, a Chinese Large Language Model (LLM (what most people call AI) called Deepseek made its debut, upsetting global financial markets. While not groundbreaking in terms of performance, Deepseek purports to achieve similar results with competitors for a fraction of the cost of training and using less powerful microchips. The news upset financial markets, which for the last two years had changed their bullish narrative from “helpful central banks” to the “AI Revolution”. Led by the so-called Magnificent Seven (Nvidia, Apple, Google, Meta, Tesla, Amazon and Microsoft) equity markets managed to weather higher interest rates, economic uncertainty and the contraction of global liquidity thanks to hopes that they could lead the world in the next era. Nvidia especially, a microchip company listed since the late 1990s, became the world’s largest listed firm in only two years, after Chat GPT began to answer questions in a language humans could understand. Nvidia, the purveyor of the world’s cutting-edge microchips, came to be thought of as the company best positioned to benefit from the fourth industrial revolution. The idea that Deepseek could deliver cutting-edge technology without having to use Nvidia’s most cutting-edge chips, sent the world’s most expensive company plummeting nearly 20%.
 
-![Market Chart 1](assets/2025-01-28_a-tech-correction_img_image003_46ea94dc61e6.jpg)
+![Market Chart 1](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-01-28_a-tech-correction_img_image003_46ea94dc61e6.jpg)
 
 > **Figure 1: Market Chart 1**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-01-28_a-tech-correction_img_image003_46ea94dc61e6.jpg)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-01-28_a-tech-correction_img_image003_46ea94dc61e6.jpg)
 
 ### What Do We Make of It?
 
@@ -49,10 +49,10 @@ Having said that, we would maintain a sanguine approach. US tech stocks and Nvid
 
 It’s very difficult to say how long the correction will persist. The stock market would need to fall nearly 10%-20% from its highs for valuations to normalise. On the day of the Nvidia correction, other major tech companies weren’t significantly affected.
 
-![Market Chart 2](assets/2025-01-28_a-tech-correction_img_image00428129_556c73825b53.jpg)
+![Market Chart 2](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-01-28_a-tech-correction_img_image00428129_556c73825b53.jpg)
 
 > **Figure 2: Market Chart 2**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-01-28_a-tech-correction_img_image00428129_556c73825b53.jpg)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-01-28_a-tech-correction_img_image00428129_556c73825b53.jpg)
 
 The rest of the market ex-Big Tech was down just half a percentage point. Overall, markets remain liquid, most non-tech and non-US stocks trade in more agreeable valuations and potentially higher inflation is more conducive for equities than bonds.
 

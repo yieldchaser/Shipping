@@ -22,10 +22,10 @@ source_file: "corpus/03-breakwave/insights/2025/2025-08-15_iraq-crude-exports-am
 
 Asia realigns as Iraq expands and the U.S. targets Russian oil imports from Indian buyers
 
-![Market Chart 1](assets/2025-08-15_iraq-crude-exports-amp-dirty-oil-flows_img_unnamed_5303ee0033ae.png)
+![Market Chart 1](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-08-15_iraq-crude-exports-amp-dirty-oil-flows_img_unnamed_5303ee0033ae.png)
 
 > **Figure 1: Market Chart 1**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-08-15_iraq-crude-exports-amp-dirty-oil-flows_img_unnamed_5303ee0033ae.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-08-15_iraq-crude-exports-amp-dirty-oil-flows_img_unnamed_5303ee0033ae.png)
 
 In late July 2025, the United States announced a 25 percent tariff on Indian exports, explicitly citing India’s continued purchases of Russian crude oil and military equipment. The move was widely interpreted as part of a broader strategy targeting countries that maintain strong commercial ties with Moscow.
 
@@ -35,10 +35,10 @@ On August 6, a follow-up executive order imposed an additional 25 percent tariff
 
 Within the Arabian Gulf, Iraq ranks as the third-largest crude supplier, holding a 19.0% share behind Saudi Arabia and the UAE. From Iraq’s perspective, China and India are its two most critical markets: China accounts for 48% of Iraqi dirty crude exports, while India follows with 38.4%, according to July 2025 tanker tracking data. The prominence of Indian demand reflects Iraq’s position as a stable supplier of medium sour grades, well-suited to Indian refinery configurations. Indian crude oil purchasing is primarily influenced by pricing and quality; however, Iraq stands to gain if there are changes in market sentiment or stricter policies regarding Russian oil exports.
 
-![Market Chart 2](assets/2025-08-15_iraq-crude-exports-amp-dirty-oil-flows_img_unnamed28129_558e289e22cc.png)
+![Market Chart 2](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-08-15_iraq-crude-exports-amp-dirty-oil-flows_img_unnamed28129_558e289e22cc.png)
 
 > **Figure 2: Market Chart 2**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-08-15_iraq-crude-exports-amp-dirty-oil-flows_img_unnamed28129_558e289e22cc.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-08-15_iraq-crude-exports-amp-dirty-oil-flows_img_unnamed28129_558e289e22cc.png)
 
 Iraq’s southern export infrastructure is highly centralized: 97.5% of its crude volumes depart via Basrah Port, and 94% originate from the Al Basrah Oil Terminal. Crude accounts for 97.9% of Iraq’s total dirty cargo exports, and Very Large Crude Carriers (VLCCs) handle 88.3% of all shipments. China’s Cezi Dao Terminal (10.8%) is currently the leading destination for Basrah-origin crude, followed closely by key Indian refineries at Reliance Jamnagar SPM (8.8%), Paradip (6.2%), and Vadinar (5.2%).
 

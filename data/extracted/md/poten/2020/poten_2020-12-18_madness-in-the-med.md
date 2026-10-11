@@ -28,10 +28,17 @@ Suezmaxes were badly hit in the Mediterranean due to the one-two punch of the Li
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: Madness in the Med](../../../charts/poten/2020/poten_2020-12-18_madness-in-the-med_chart1.png)
+![Exhibit 1: Average Monthly Suezmax Voyages (By Load Area)](../../../charts/poten/2020/poten_2020-12-18_madness-in-the-med_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2020/poten_2020-12-18_madness-in-the-med_chart1.png)
+> **Exhibit 1: Average Monthly Suezmax Voyages (By Load Area)**  
+> Unit: Voyages · X-axis: Americas, Atlantic to Asia/Australia  
+> Series: 2019, 2020  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2020/poten_2020-12-18_madness-in-the-med_chart1.png)
 
-![Exhibit 2: Madness in the Med](../../../charts/poten/2020/poten_2020-12-18_madness-in-the-med_chart2.png)
+![Exhibit 2: 2020 Suezmax Voyages Loading In the Mediterranean (By Dest.)](../../../charts/poten/2020/poten_2020-12-18_madness-in-the-med_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2020/poten_2020-12-18_madness-in-the-med_chart2.png)
+> **Exhibit 2: 2020 Suezmax Voyages Loading In the Mediterranean (By Dest.)**  
+> Unit: Number of Voyages · X-axis: Jan to Dec  
+> Series: 2019, China, India, Other Asia, Italy, Greece, Oth. Med, UKC, Other  
+> *Source: Lloyd’s List intelligence*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2020/poten_2020-12-18_madness-in-the-med_chart2.png)

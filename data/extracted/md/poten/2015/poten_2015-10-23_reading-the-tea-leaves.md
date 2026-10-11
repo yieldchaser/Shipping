@@ -30,10 +30,18 @@ Coordinated OPEC action can no longer be counted on and if this year is any guid
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: Reading The Tea Leaves](../../../charts/poten/2015/poten_2015-10-23_reading-the-tea-leaves_chart1.png)
+![Exhibit 1: Global Oil Demand Growth – Comparison of Projections](../../../charts/poten/2015/poten_2015-10-23_reading-the-tea-leaves_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2015/poten_2015-10-23_reading-the-tea-leaves_chart1.png)
+> **Exhibit 1: Global Oil Demand Growth – Comparison of Projections**  
+> Unit: Million b/d · X-axis: As of Oct 2014 to As of Oct 2015  
+> Series: IEA Forecast, EIA Forecast, OPEC Forecast, Investment Bank A, Investment Bank B, Average  
+> *Source: EIA, IEA, OPEC, Investment Banks*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2015/poten_2015-10-23_reading-the-tea-leaves_chart1.png)
 
-![Exhibit 2: Reading The Tea Leaves](../../../charts/poten/2015/poten_2015-10-23_reading-the-tea-leaves_chart2.png)
+![Exhibit 2: IEA Demand Growth Projections (OECD vs Non OECD)](../../../charts/poten/2015/poten_2015-10-23_reading-the-tea-leaves_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2015/poten_2015-10-23_reading-the-tea-leaves_chart2.png)
+> **Exhibit 2: IEA Demand Growth Projections (OECD vs Non OECD)**  
+> Unit: Million b/d · X-axis: As of Oct 2014 Proj for 2015 to As of Oct 2015 Proj for 2016  
+> Series: OECD, Non OECD  
+> *Source: IEA*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2015/poten_2015-10-23_reading-the-tea-leaves_chart2.png)

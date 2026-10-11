@@ -24,10 +24,10 @@ source_file: "corpus/03-breakwave/insights/2020/2020-09-25_uloyzv8ecv8g8r6py4iuv
 
 ### Low Orderbooks
 
-![Shipyard](assets/2020-09-25_uloyzv8ecv8g8r6py4iuvompxc724k_img_shipyard_e527db2ed8bd.jpg)
+![Shipyard](../../../../../../corpus/03-breakwave/insights/2020/assets/2020-09-25_uloyzv8ecv8g8r6py4iuvompxc724k_img_shipyard_e527db2ed8bd.jpg)
 
 > **Figure 1: Shipyard**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2020/assets/2020-09-25_uloyzv8ecv8g8r6py4iuvompxc724k_img_shipyard_e527db2ed8bd.jpg)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2020/assets/2020-09-25_uloyzv8ecv8g8r6py4iuvompxc724k_img_shipyard_e527db2ed8bd.jpg)
 
 2020 has been a big year for supply growth so far. While the pandemic has generated some degree of slippage, certain sectors have seen heavy additions. The dry bulk fleet as a while has grown by almost 25m dwt, an increase of nearly 3% since the start of the year. In the Cape market, we’ve seen 9.6m dwt of Newcastlemax capacity come onto the water, though fleet growth for the Capesize sector as a whole has been kept somewhat at bay by removals of some of the old converted units earlier in the year.
 
@@ -35,10 +35,10 @@ Meanwhile in the Panamax sector, we’ve seen supply grow by almost 5% so far th
 
 We expect these deliveries to be felt in the market in the coming months, but further out we are faced with a very limited orderbook. In dwt terms, the current orderbook represents just 7% of the trading fleet, the lowest level since the late 80s.
 
-![Bmr 1](assets/2020-09-25_uloyzv8ecv8g8r6py4iuvompxc724k_img_bmr1_3bd8b2c7f17a.png)
+![Bmr 1](../../../../../../corpus/03-breakwave/insights/2020/assets/2020-09-25_uloyzv8ecv8g8r6py4iuvompxc724k_img_bmr1_3bd8b2c7f17a.png)
 
 > **Figure 2: Bmr 1**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2020/assets/2020-09-25_uloyzv8ecv8g8r6py4iuvompxc724k_img_bmr1_3bd8b2c7f17a.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2020/assets/2020-09-25_uloyzv8ecv8g8r6py4iuvompxc724k_img_bmr1_3bd8b2c7f17a.png)
 
 This is a product of extremely low levels of contracting. 2020 is set to see the lowest volume of orders for new ships placed since 2016, and the second lowest since 2001 with just 138 vessels ordered to date.
 
@@ -46,10 +46,10 @@ This is a product of extremely low levels of contracting. 2020 is set to see the
 
 Across the bulker segments, we see similar trends in the orderbook, though there are some key differences. The Capesizes have the largest orderbook expressed both in absolute dwt terms and as a percentage of today’s fleet. With almost 32m dwt slated to deliver over the early 2020s, the orderbook amounts to around 9% of today’s carrying capacity. But this is still the lowest fraction on order since 1997.
 
-![Bmr 2](assets/2020-09-25_uloyzv8ecv8g8r6py4iuvompxc724k_img_bmr2_a1f305123f66.png)
+![Bmr 2](../../../../../../corpus/03-breakwave/insights/2020/assets/2020-09-25_uloyzv8ecv8g8r6py4iuvompxc724k_img_bmr2_a1f305123f66.png)
 
 > **Figure 3: Bmr 2**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2020/assets/2020-09-25_uloyzv8ecv8g8r6py4iuvompxc724k_img_bmr2_a1f305123f66.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2020/assets/2020-09-25_uloyzv8ecv8g8r6py4iuvompxc724k_img_bmr2_a1f305123f66.png)
 
 For the Panamaxes, we have just over 16m dwt on order, translating to around 7% of todays fleet, though a third of this figure is made up of ships which are scheduled to deliver later this year. In the Supra segment, there is 11.4m dwt of capacity on the books, representing under 6% of current capacity (the lowest since 1993).
 
@@ -59,10 +59,10 @@ The Handy fleet stands out as one sector which has both a very low forward order
 
 Of the limited number of vessels that have been contracted this year, a few features have stood out.
 
-![Bmr 3](assets/2020-09-25_uloyzv8ecv8g8r6py4iuvompxc724k_img_bmr3_4c802600c1c0.png)
+![Bmr 3](../../../../../../corpus/03-breakwave/insights/2020/assets/2020-09-25_uloyzv8ecv8g8r6py4iuvompxc724k_img_bmr3_4c802600c1c0.png)
 
 > **Figure 4: Bmr 3**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2020/assets/2020-09-25_uloyzv8ecv8g8r6py4iuvompxc724k_img_bmr3_4c802600c1c0.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2020/assets/2020-09-25_uloyzv8ecv8g8r6py4iuvompxc724k_img_bmr3_4c802600c1c0.png)
 
 Capesize ordering has continued to focus heavily on the Newcastlemax design, including a greater number of LNG dual fueled ships. And ordering in the Panamax sector has continued to favour Kamsarmax and Post-Panamax sizes, with only 3 ‘standard’ Panamax designs ordered.
 
@@ -78,10 +78,10 @@ Firstly, environmental scrutiny and uncertainty over regulation are at the foref
 
 This is a key issue holding shipowners back when considering fleet renewal and, in the absence of clarity on the best way to comply with these regulations, we expect it to keep a lid on the orderbook. A relatively strong steel price has also kept newbuilding prices firm. For some investors, these prices seem out of step with freight market expectations, given high levels f oversupply in some sectors.
 
-![Ship13](assets/2020-09-25_uloyzv8ecv8g8r6py4iuvompxc724k_img_ship13_cae4ba6883fc.jpg)
+![Ship13](../../../../../../corpus/03-breakwave/insights/2020/assets/2020-09-25_uloyzv8ecv8g8r6py4iuvompxc724k_img_ship13_cae4ba6883fc.jpg)
 
 > **Figure 5: Ship13**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2020/assets/2020-09-25_uloyzv8ecv8g8r6py4iuvompxc724k_img_ship13_cae4ba6883fc.jpg)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2020/assets/2020-09-25_uloyzv8ecv8g8r6py4iuvompxc724k_img_ship13_cae4ba6883fc.jpg)
 
 And of course the Covid-19 pandemic has added another layer of uncertainty to the picture, with volatility taking a step increase. Just in the last few months we have seen Capesize earnings hover at Opex levels, before setting the record for the greatest daily change in rates, and this has filtered through into the smaller sizes.
 

@@ -66,10 +66,10 @@ Security conditions represent a third major transmission channel. In the Red Sea
 This cautious adjustment is visible in vessel activity through the Bab el-Mandeb Strait. Volumes in 2025 show a modest recovery from 2024 lows but remain structurally below pre-crisis ranges, contributing to continued reliance on Cape of Good Hope routing.
 
 
-![Maritime Security and Routing Economics](../../images/69441d59c09c6c150326d69d_eecd8f25.png)
+![Maritime Security and Routing Economics](../../../../../../corpus/07-signal/images/69441d59c09c6c150326d69d_eecd8f25.png)
 
 > **Figure 1: Maritime Security and Routing Economics**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/annual-review-2025-freight-markets-commodities-geopolitical-risk) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/69441d59c09c6c150326d69d_eecd8f25.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/annual-review-2025-freight-markets-commodities-geopolitical-risk) | [Local Asset](../../../../../../corpus/07-signal/images/69441d59c09c6c150326d69d_eecd8f25.png)
 
 **** [**Waypoints**](https://app.signalocean.com/tanker/dynamic/waypoints\_tankers) **| COGH**
 
@@ -78,10 +78,10 @@ Despite the November announcement indicating a pause to [Houthi](https://www.alj
 **Clean Product Rerouting Eases from Peaks, Despite Monthly Volatility**
 
 
-![Maritime Security and Routing Economics](../../images/69441d59c09c6c150326d6af_12fda8b3.png)
+![Maritime Security and Routing Economics](../../../../../../corpus/07-signal/images/69441d59c09c6c150326d6af_12fda8b3.png)
 
 > **Figure 2: Maritime Security and Routing Economics**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/annual-review-2025-freight-markets-commodities-geopolitical-risk) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/69441d59c09c6c150326d6af_12fda8b3.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/annual-review-2025-freight-markets-commodities-geopolitical-risk) | [Local Asset](../../../../../../corpus/07-signal/images/69441d59c09c6c150326d6af_12fda8b3.png)
 
 [**Oil Flows**](https://app.signalocean.com/tanker/dynamic/crude\_oil\_flows) **| Trading Tensions Persist**
 
@@ -90,10 +90,10 @@ Venezuela’s crude oil production is estimated at around 860,000 bpd (IEA), a s
 Despite the reduced upstream output, seaborne crude exports remain clearly visible in [TSOP](https://app.signalocean.com/tanker/dynamic/crude\_oil\_flows) data, with China absorbing the majority of shipments over the past six months. Export flows are highly concentrated in large vessels, with VLCCs carrying close to 60% of total volumes, underscoring Venezuela’s continued reliance on long-haul Asian demand.
 
 
-![Maritime Security and Routing Economics](../../images/69441d59c09c6c150326d6a6_0f008ca4.png)
+![Maritime Security and Routing Economics](../../../../../../corpus/07-signal/images/69441d59c09c6c150326d6a6_0f008ca4.png)
 
 > **Figure 3: Maritime Security and Routing Economics**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/annual-review-2025-freight-markets-commodities-geopolitical-risk) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/69441d59c09c6c150326d6a6_0f008ca4.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/annual-review-2025-freight-markets-commodities-geopolitical-risk) | [Local Asset](../../../../../../corpus/07-signal/images/69441d59c09c6c150326d6a6_0f008ca4.png)
 
 [**Dry Bulk Flows**](https://app.signalocean.com/dry/dynamic/drybulkflows) **| U.S. - China Grain Tensions**
 
@@ -106,10 +106,10 @@ USDA data show that a substantial share of these sales is scheduled for near-ter
 This renewed sales activity is already reflected in trade flows, as illustrated in the Signal Ocean Platform data below, which show rising U.S. Gulf and U.S. West Coast soybean shipments moving toward China and other Asian destinations, supported mainly by Panamax (65%) and Supramax tonnage (28%).
 
 
-![Maritime Security and Routing Economics](../../images/69441d59c09c6c150326d6b2_0ef9a584.png)
+![Maritime Security and Routing Economics](../../../../../../corpus/07-signal/images/69441d59c09c6c150326d6b2_0ef9a584.png)
 
 > **Figure 4: Maritime Security and Routing Economics**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/annual-review-2025-freight-markets-commodities-geopolitical-risk) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/69441d59c09c6c150326d6b2_0ef9a584.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/annual-review-2025-freight-markets-commodities-geopolitical-risk) | [Local Asset](../../../../../../corpus/07-signal/images/69441d59c09c6c150326d6b2_0ef9a584.png)
 
 
 ## Port Fees Suspended | A Late-Year Reset
@@ -122,19 +122,19 @@ Available evidence suggests that the one-year suspension has not yet influenced 
 Deliveries YTD 690 (~60% of China)**
 
 
-![‍port Fees Suspended | A Late-Year Reset](../../images/69441d59c09c6c150326d6a0_9f871a66.png)
+![‍port Fees Suspended | A Late-Year Reset](../../../../../../corpus/07-signal/images/69441d59c09c6c150326d6a0_9f871a66.png)
 
 > **Figure 5: ‍port Fees Suspended | A Late-Year Reset**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/annual-review-2025-freight-markets-commodities-geopolitical-risk) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/69441d59c09c6c150326d6a0_9f871a66.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/annual-review-2025-freight-markets-commodities-geopolitical-risk) | [Local Asset](../../../../../../corpus/07-signal/images/69441d59c09c6c150326d6a0_9f871a66.png)
 
 **** [**Tanker**](https://app.signalocean.com/tanker/dynamic/orderbook\_tanker) **| Scheduled Deliveries by Country Built 
 Deliveries YTD 215 (~60% of China)**
 
 
-![‍port Fees Suspended | A Late-Year Reset](../../images/69441d59c09c6c150326d6ac_c99bad62.png)
+![‍port Fees Suspended | A Late-Year Reset](../../../../../../corpus/07-signal/images/69441d59c09c6c150326d6ac_c99bad62.png)
 
 > **Figure 6: ‍port Fees Suspended | A Late-Year Reset**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/annual-review-2025-freight-markets-commodities-geopolitical-risk) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/69441d59c09c6c150326d6ac_c99bad62.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/annual-review-2025-freight-markets-commodities-geopolitical-risk) | [Local Asset](../../../../../../corpus/07-signal/images/69441d59c09c6c150326d6ac_c99bad62.png)
 
 
 ## If Geopolitics Quiet Down in 2026… the Supply Side Won’t
@@ -144,20 +144,20 @@ Even under a relatively calmer near-term geopolitical backdrop, supply-side cond
 [**Fleet in Service Analysis**](https://app.signalocean.com/dry/dynamic/orderbook\_dry) **| Moderate Fleet Growth**
 
 
-![If Geopolitics Quiet Down in 2026… the Supply Side Won’t](../../images/69441d59c09c6c150326d6a9_2dd2b47a.png)
+![If Geopolitics Quiet Down in 2026… the Supply Side Won’t](../../../../../../corpus/07-signal/images/69441d59c09c6c150326d6a9_2dd2b47a.png)
 
 > **Figure 7: If Geopolitics Quiet Down in 2026… the Supply Side Won’t**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/annual-review-2025-freight-markets-commodities-geopolitical-risk) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/69441d59c09c6c150326d6a9_2dd2b47a.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/annual-review-2025-freight-markets-commodities-geopolitical-risk) | [Local Asset](../../../../../../corpus/07-signal/images/69441d59c09c6c150326d6a9_2dd2b47a.png)
 
 Dry bulk fleet growth remains moderate through 2025, although an inflection point is visible in forward projections. Deliveries accelerate into 2026 as late-2024 and 2025 ordering waves hit the water, while demolition remains insufficient to absorb incoming tonnage.
 
 [**Fleet in Service Analysis**](https://app.signalocean.com/tanker/dynamic/orderbook\_tanker) **| Stroger Supply Inflection**
 
 
-![If Geopolitics Quiet Down in 2026… the Supply Side Won’t](../../images/69441d59c09c6c150326d6a3_317da802.png)
+![If Geopolitics Quiet Down in 2026… the Supply Side Won’t](../../../../../../corpus/07-signal/images/69441d59c09c6c150326d6a3_317da802.png)
 
 > **Figure 8: If Geopolitics Quiet Down in 2026… the Supply Side Won’t**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/annual-review-2025-freight-markets-commodities-geopolitical-risk) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/69441d59c09c6c150326d6a3_317da802.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/annual-review-2025-freight-markets-commodities-geopolitical-risk) | [Local Asset](../../../../../../corpus/07-signal/images/69441d59c09c6c150326d6a3_317da802.png)
 
 Tankers are projected to record higher net fleet growth compared with recent years, based on current delivery schedules. After an extended period of limited net expansion, scheduled deliveries increase in 2026, resulting in a larger net addition to the fleet under existing assumptions. Under the current projections, tanker supply conditions in 2026 may be more sensitive to variations in demand and operational factors, including geopolitical developments.
 

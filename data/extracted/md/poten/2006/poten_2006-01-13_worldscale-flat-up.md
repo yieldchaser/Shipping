@@ -42,6 +42,8 @@ No doubt the discipline imposed by the annual process and constant updates keeps
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: Worldscale Flat Up!](../../../charts/poten/2006/poten_2006-01-13_worldscale-flat-up_chart1.png)
-
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2006/poten_2006-01-13_worldscale-flat-up_chart1.png)
+> **Chart on PDF page 2: WS100 Flat Rate Various Voyages**  
+> Unit: $ · X-axis: Carib/USGulf to AG/LOOP  
+> Series: 2001, 2002, 2003, 2004, 2005, 2006  
+> *Source: Poten & Partners*  
+> *No image crop of this chart was saved; caption read from the PDF.*

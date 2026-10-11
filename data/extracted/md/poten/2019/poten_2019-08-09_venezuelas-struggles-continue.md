@@ -30,10 +30,18 @@ As the situation in Venezuela becomes more tense, it is hoped that negotiations 
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: Venezuelas Struggles Continue](../../../charts/poten/2019/poten_2019-08-09_venezuelas-struggles-continue_chart1.png)
+![Exhibit 1: Venezuelan Crude Oil Production](../../../charts/poten/2019/poten_2019-08-09_venezuelas-struggles-continue_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2019/poten_2019-08-09_venezuelas-struggles-continue_chart1.png)
+> **Exhibit 1: Venezuelan Crude Oil Production**  
+> Unit: Mb/d · X-axis: Jan-14 to May-19  
+> Series: Venezuelan Crude Oil Production  
+> *Source: IEA*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2019/poten_2019-08-09_venezuelas-struggles-continue_chart1.png)
 
-![Exhibit 2: Venezuelas Struggles Continue](../../../charts/poten/2019/poten_2019-08-09_venezuelas-struggles-continue_chart2.png)
+![Exhibit 2: Venezuela* Crude Oil Exports](../../../charts/poten/2019/poten_2019-08-09_venezuelas-struggles-continue_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2019/poten_2019-08-09_venezuelas-struggles-continue_chart2.png)
+> **Exhibit 2: Venezuela* Crude Oil Exports**  
+> Unit: Kb/d · X-axis: Jan-14 to Apr-19  
+> Series: USA, China, India, S Europe, NW Europe, Other  
+> *Source: Lloyd’s List Intelligence*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2019/poten_2019-08-09_venezuelas-struggles-continue_chart2.png)

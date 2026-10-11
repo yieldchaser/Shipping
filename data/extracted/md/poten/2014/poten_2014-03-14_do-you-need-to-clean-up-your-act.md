@@ -48,14 +48,25 @@ Trade/Vessel 2014 YTD FY 2013 2009 - 2013 2004 - 2013 CAR - USA (70kt) DTY $36,7
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: Do You Need to Clean Up Your Act?](../../../charts/poten/2014/poten_2014-03-14_do-you-need-to-clean-up-your-act_chart1.png)
+![Exhibit 1: Refining Capacity Additions - Rolling Outlook](../../../charts/poten/2014/poten_2014-03-14_do-you-need-to-clean-up-your-act_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2014/poten_2014-03-14_do-you-need-to-clean-up-your-act_chart1.png)
+> **Exhibit 1: Refining Capacity Additions - Rolling Outlook**  
+> Unit: kbd · X-axis: AG to WCSA  
+> Series: 2006 - 2012 Outlook, 2011 - 2017 Outlook, 2013 - 2018 Outlook  
+> *Source: Poten & Partners*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2014/poten_2014-03-14_do-you-need-to-clean-up-your-act_chart1.png)
 
-![Exhibit 2: Do You Need to Clean Up Your Act?](../../../charts/poten/2014/poten_2014-03-14_do-you-need-to-clean-up-your-act_chart2.png)
+![Exhibit 2: LR2 Spot Fixtures - Clean Cargo](../../../charts/poten/2014/poten_2014-03-14_do-you-need-to-clean-up-your-act_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2014/poten_2014-03-14_do-you-need-to-clean-up-your-act_chart2.png)
+> **Exhibit 2: LR2 Spot Fixtures - Clean Cargo**  
+> Unit: No. Fixtures · X-axis: 2004 to 2014  
+> Series: AG, SOUTH ASIA  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2014/poten_2014-03-14_do-you-need-to-clean-up-your-act_chart2.png)
 
-![Exhibit 3: Do You Need to Clean Up Your Act?](../../../charts/poten/2014/poten_2014-03-14_do-you-need-to-clean-up-your-act_chart3.png)
+![Exhibit 3: LR1 Spot Fixtures - Clean Cargo](../../../charts/poten/2014/poten_2014-03-14_do-you-need-to-clean-up-your-act_chart3.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2014/poten_2014-03-14_do-you-need-to-clean-up-your-act_chart3.png)
+> **Exhibit 3: LR1 Spot Fixtures - Clean Cargo**  
+> Unit: No. Fixtures · X-axis: 2004 to 2014  
+> Series: AG, SOUTH ASIA  
+> *Source: Poten & Partners*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2014/poten_2014-03-14_do-you-need-to-clean-up-your-act_chart3.png)

@@ -40,10 +40,18 @@ Overall, the net impact of the lifting of Iranian sanctions on the tanker market
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: Iran Sanctions](../../../charts/poten/2015/poten_2015-07-17_iran-sanctions_chart1.png)
+![Exhibit 1: Iran Oil Production (mb/d)](../../../charts/poten/2015/poten_2015-07-17_iran-sanctions_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2015/poten_2015-07-17_iran-sanctions_chart1.png)
+> **Exhibit 1: Iran Oil Production (mb/d)**  
+> Unit: mb/d · X-axis: 1Q09 to 2Q20  
+> Series: Base case relief, Sanctions removal delayed, Consumption  
+> *Source: IEA, WoodMackenzie, Barclays Research*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2015/poten_2015-07-17_iran-sanctions_chart1.png)
 
-![Exhibit 2: Iran Sanctions](../../../charts/poten/2015/poten_2015-07-17_iran-sanctions_chart2.png)
+![Exhibit 2: Global Oil Production and Demand](../../../charts/poten/2015/poten_2015-07-17_iran-sanctions_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2015/poten_2015-07-17_iran-sanctions_chart2.png)
+> **Exhibit 2: Global Oil Production and Demand**  
+> Unit: Mb/d | MB/d · X-axis: 1Q2013 to 4Q2015  
+> Series: Production, Demand, Stock Change  
+> *Source: IEA*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2015/poten_2015-07-17_iran-sanctions_chart2.png)

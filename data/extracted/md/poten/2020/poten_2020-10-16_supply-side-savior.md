@@ -40,6 +40,9 @@ Obviously, scrapping is not automatic at a certain age. Elevated scrapping usual
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: Supply Side Savior](../../../charts/poten/2020/poten_2020-10-16_supply-side-savior_chart1.png)
+![Exhibit 1: Oil Tanker Fleet Profile](../../../charts/poten/2020/poten_2020-10-16_supply-side-savior_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2020/poten_2020-10-16_supply-side-savior_chart1.png)
+> **Exhibit 1: Oil Tanker Fleet Profile**  
+> Unit: M DWT · X-axis: 1986 to 2022  
+> Series: Dirty Trading, Dirty On Order, Clean Trading, Clean On Order  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2020/poten_2020-10-16_supply-side-savior_chart1.png)

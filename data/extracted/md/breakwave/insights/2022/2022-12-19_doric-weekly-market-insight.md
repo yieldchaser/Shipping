@@ -25,18 +25,18 @@ Few trading days are left before the final curtain and the Baltic Dry Indices ar
 
 In tandem, the UNCTAD nowcast indicates that the value of global trade will decrease in the fourth quarter of 2022 both for goods and for services. Global trade should hit a record $32 trillion for 2022, but a slowdown that began in the second half of the year is expected to worsen in 2023 as geopolitical tensions and tight financial conditions persist, according to the latest Global Trade Update published by UNCTAD this week. However, despite a nominal decline in global trade so far, the volume of trade was continuingly increasing throughout 2022 – a signal of solid global demand. Part of the decline in the value of international trade during the second half of 2022 is due to softer primary product prices – more prominently energy.
 
-![1 (3)](assets/2022-12-19_doric-weekly-market-insight_img_128329_57d3d169ce94.png)
+![1 (3)](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-12-19_doric-weekly-market-insight_img_128329_57d3d169ce94.png)
 
 > **Figure 1: 1 (3)**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-12-19_doric-weekly-market-insight_img_128329_57d3d169ce94.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-12-19_doric-weekly-market-insight_img_128329_57d3d169ce94.png)
 
 While the outlook for global trade remains uncertain, negative factors appear to outweigh positive trends, according to the intergovernmental organization. In particular, economic growth projections for 2023 are being revised downwards due to high energy prices, tighter monetary policies and sustained inflation in many economies. Additionally, persistently high commodity prices and the continued rise in the prices of intermediate inputs and consumers goods are expected to negatively affect demand for imports. Last but not least, record levels of global debt and the increase in interest rates pose significant concerns for debt sustainability. On the contrary, recently signed agreements such as the Regional Comprehensive Economic Partnership and the African Continental Free Trade Area, as well as improvements in the logistics of global trade are expected to have a positive bearing in the trading volumes of 2023.
 
 As far as the maritime trade is concerned, UNCTAD projects it will lose further steam, with growth slowing to 1.4 percent in 2022. Although freight and hire rates have fallen since mid-2022, they are still above preCovid-19 levels. Market levels remain high for oil and natural gas tanker cargo due to the ongoing energy crisis. In an increasingly unpredictable operating environment, future shipping costs will likely be higher and more volatile than in the past. For the period 2023-2027, maritime trade is expected to grow at 2.1 percent annually – considerably slower than the 3.3 percent average recorded during the past three decades.
 
-![1 (4)](assets/2022-12-19_doric-weekly-market-insight_img_128429_259c4709fcfb.png)
+![1 (4)](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-12-19_doric-weekly-market-insight_img_128429_259c4709fcfb.png)
 
 > **Figure 2: 1 (4)**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-12-19_doric-weekly-market-insight_img_128429_259c4709fcfb.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-12-19_doric-weekly-market-insight_img_128429_259c4709fcfb.png)
 
 With the above in mind, the front ends of the dry bulk sector forward curves are in backwardation, with first quarter values balancing well below current spot market appraisals across the board. However, both market consensus as well as Q2 and Q3 23 forward values seem to be in agreement that a recovery may only be a few months away.

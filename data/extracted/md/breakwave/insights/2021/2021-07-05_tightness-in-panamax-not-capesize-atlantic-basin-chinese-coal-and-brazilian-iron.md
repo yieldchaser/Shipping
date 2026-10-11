@@ -29,7 +29,7 @@ Of note is that Brazil’s iron ore exports have continued to enjoy significant 
 ![Comm 7.5](assets/2021-07-05_tightness-in-panamax-not-capesize-atlantic-basin-chinese-coal-and-brazilian-iron_img_comm75_e560b6318d49.jpg)
 
 > **Figure 1: Comm 7.5**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2021/assets/2021-07-05_tightness-in-panamax-not-capesize-atlantic-basin-chinese-coal-and-brazilian-iron_img_comm75_e560b6318d49.jpg)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-07-05_tightness-in-panamax-not-capesize-atlantic-basin-chinese-coal-and-brazilian-iron_img_comm75_e560b6318d49.jpg)
 
 While the capesize Atlantic basin has not tightened recently, ironically it has been the panamax Atlantic basin that has tightened significantly. This remains very supportive to panamax rates and is also helpful for the entire dry bulk market. It also remains encouraging that panamax rates (and rates for the smaller vessel classes) have continued to rise even as China’s coal import demand has not yet experienced sustained strength. As highlighted in our Weekly Dry Bulk Report and Weekly China Report this week, China’s coal import demand improved last week, but import demand is likely to intensify further as the nation’s coal consumption remains likely to continue to outpace domestic coal production.
 

@@ -45,10 +45,10 @@ Market speculation suggests a shift towards higher crude purchases from West Afr
 
 ➔ Although the increase is modest for now, it could lead to higher Suezmax demand, tightening vessel availability in the Atlantic Basin and placing upward pressure on regional freight rates
 
-![Στιγμιότυπο Οθόνης 2025 02 13 134545](assets/2025-02-13_eastwest-lr-tonne-miles-fall-further-damage-from-red-sea-opening_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_24e9a3d8e0e7.png)
+![Στιγμιότυπο Οθόνης 2025 02 13 134545](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-02-13_eastwest-lr-tonne-miles-fall-further-damage-from-red-sea-opening_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_24e9a3d8e0e7.png)
 
 > **Figure 1: Στιγμιότυπο Οθόνης 2025 02 13 134545**  
-> **Interactive Data & Source:** [Vortexa](https://www.vortexa.com//oil-gas-data-traders-analysts-data-scientists?gclid=Cj0KCQjw8_qRBhCXARIsAE2AtRZKOvMnbilZ_6_91d7huSFFy71pWLrnPwGwOHVzXsmsG-1a1mZnQw8aAt89EALw_wcB&hsa_acc=1782073842&hsa_ad=548425387665&hsa_cam=14746637662&hsa_grp=125038601902&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_src=g&hsa_tgt=dsa-1431852288425&hsa_ver=3&utm_campaign=%5BCD%5D%20-%20DSA%20-%20EMEA&utm_medium=cpc&utm_medium=ppc&utm_source=google&utm_source=adwords&utm_term=) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-02-13_eastwest-lr-tonne-miles-fall-further-damage-from-red-sea-opening_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_24e9a3d8e0e7.png)
+> **Interactive Data & Source:** [Vortexa](https://www.vortexa.com//oil-gas-data-traders-analysts-data-scientists?gclid=Cj0KCQjw8_qRBhCXARIsAE2AtRZKOvMnbilZ_6_91d7huSFFy71pWLrnPwGwOHVzXsmsG-1a1mZnQw8aAt89EALw_wcB&hsa_acc=1782073842&hsa_ad=548425387665&hsa_cam=14746637662&hsa_grp=125038601902&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_src=g&hsa_tgt=dsa-1431852288425&hsa_ver=3&utm_campaign=%5BCD%5D%20-%20DSA%20-%20EMEA&utm_medium=cpc&utm_medium=ppc&utm_source=google&utm_source=adwords&utm_term=) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-02-13_eastwest-lr-tonne-miles-fall-further-damage-from-red-sea-opening_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_24e9a3d8e0e7.png)
 
 ## Clean – East of Suez: East/west Lr Tonne-Miles Fall to 2023 Levels As Europe Demand Slows, Further Damage From Red Sea Opening
 
@@ -66,10 +66,10 @@ Greater loss in global LR tonne-miles would inevitably come with a full reopenin
 
 As LR earnings are under mounting pressure, and with high LR2 deliveries this year, expect LRs to be incentivised to dirty up and enter crude/DPP trade for more profitable employment
 
-![Στιγμιότυπο Οθόνης 2025 02 13 135613](assets/2025-02-13_eastwest-lr-tonne-miles-fall-further-damage-from-red-sea-opening_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_7ccbb24c867d.png)
+![Στιγμιότυπο Οθόνης 2025 02 13 135613](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-02-13_eastwest-lr-tonne-miles-fall-further-damage-from-red-sea-opening_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_7ccbb24c867d.png)
 
 > **Figure 2: Στιγμιότυπο Οθόνης 2025 02 13 135613**  
-> **Interactive Data & Source:** [Vortexa](https://www.vortexa.com//oil-gas-data-traders-analysts-data-scientists?gclid=Cj0KCQjw8_qRBhCXARIsAE2AtRZKOvMnbilZ_6_91d7huSFFy71pWLrnPwGwOHVzXsmsG-1a1mZnQw8aAt89EALw_wcB&hsa_acc=1782073842&hsa_ad=548425387665&hsa_cam=14746637662&hsa_grp=125038601902&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_src=g&hsa_tgt=dsa-1431852288425&hsa_ver=3&utm_campaign=%5BCD%5D%20-%20DSA%20-%20EMEA&utm_medium=cpc&utm_medium=ppc&utm_source=google&utm_source=adwords&utm_term=) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-02-13_eastwest-lr-tonne-miles-fall-further-damage-from-red-sea-opening_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_7ccbb24c867d.png)
+> **Interactive Data & Source:** [Vortexa](https://www.vortexa.com//oil-gas-data-traders-analysts-data-scientists?gclid=Cj0KCQjw8_qRBhCXARIsAE2AtRZKOvMnbilZ_6_91d7huSFFy71pWLrnPwGwOHVzXsmsG-1a1mZnQw8aAt89EALw_wcB&hsa_acc=1782073842&hsa_ad=548425387665&hsa_cam=14746637662&hsa_grp=125038601902&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_src=g&hsa_tgt=dsa-1431852288425&hsa_ver=3&utm_campaign=%5BCD%5D%20-%20DSA%20-%20EMEA&utm_medium=cpc&utm_medium=ppc&utm_source=google&utm_source=adwords&utm_term=) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-02-13_eastwest-lr-tonne-miles-fall-further-damage-from-red-sea-opening_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_7ccbb24c867d.png)
 
 ## Dirty – West of Suez: Suezmax Voyages Remain Strong on the Aftermath of Sanctions
 
@@ -87,10 +87,10 @@ The recent geopolitical developments (US sanctions on Russian-traded tankers and
 
 ➔ This could result in softer competition with Aframax tankers in the Atlantic
 
-![Στιγμιότυπο Οθόνης 2025 02 13 135905](assets/2025-02-13_eastwest-lr-tonne-miles-fall-further-damage-from-red-sea-opening_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_cc6a8fad4323.png)
+![Στιγμιότυπο Οθόνης 2025 02 13 135905](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-02-13_eastwest-lr-tonne-miles-fall-further-damage-from-red-sea-opening_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_cc6a8fad4323.png)
 
 > **Figure 3: Στιγμιότυπο Οθόνης 2025 02 13 135905**  
-> **Interactive Data & Source:** [Vortexa](https://www.vortexa.com//oil-gas-data-traders-analysts-data-scientists?gclid=Cj0KCQjw8_qRBhCXARIsAE2AtRZKOvMnbilZ_6_91d7huSFFy71pWLrnPwGwOHVzXsmsG-1a1mZnQw8aAt89EALw_wcB&hsa_acc=1782073842&hsa_ad=548425387665&hsa_cam=14746637662&hsa_grp=125038601902&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_src=g&hsa_tgt=dsa-1431852288425&hsa_ver=3&utm_campaign=%5BCD%5D%20-%20DSA%20-%20EMEA&utm_medium=cpc&utm_medium=ppc&utm_source=google&utm_source=adwords&utm_term=) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-02-13_eastwest-lr-tonne-miles-fall-further-damage-from-red-sea-opening_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_cc6a8fad4323.png)
+> **Interactive Data & Source:** [Vortexa](https://www.vortexa.com//oil-gas-data-traders-analysts-data-scientists?gclid=Cj0KCQjw8_qRBhCXARIsAE2AtRZKOvMnbilZ_6_91d7huSFFy71pWLrnPwGwOHVzXsmsG-1a1mZnQw8aAt89EALw_wcB&hsa_acc=1782073842&hsa_ad=548425387665&hsa_cam=14746637662&hsa_grp=125038601902&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_src=g&hsa_tgt=dsa-1431852288425&hsa_ver=3&utm_campaign=%5BCD%5D%20-%20DSA%20-%20EMEA&utm_medium=cpc&utm_medium=ppc&utm_source=google&utm_source=adwords&utm_term=) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-02-13_eastwest-lr-tonne-miles-fall-further-damage-from-red-sea-opening_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_cc6a8fad4323.png)
 
 ## Clean – West of Suez: Ample MR Availability in the Us Gulf Drives Freight to Lowest Levels Over the Past 24-Months
 
@@ -110,10 +110,10 @@ Preliminary Feb (days 1-8) data for US Gulf Coast Motor fuel exports indicate fl
 
 Freight price rally which started early Dec-24 could not be sustained due to fall in exports; meanwhile as refineries gear up for spring maintenance, a rebound in freight prices could wait until the summer driving season
 
-![Στιγμιότυπο Οθόνης 2025 02 13 140059](assets/2025-02-13_eastwest-lr-tonne-miles-fall-further-damage-from-red-sea-opening_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_84ccfcebef09.png)
+![Στιγμιότυπο Οθόνης 2025 02 13 140059](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-02-13_eastwest-lr-tonne-miles-fall-further-damage-from-red-sea-opening_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_84ccfcebef09.png)
 
 > **Figure 4: Στιγμιότυπο Οθόνης 2025 02 13 140059**  
-> **Interactive Data & Source:** [Vortexa](https://www.vortexa.com//oil-gas-data-traders-analysts-data-scientists?gclid=Cj0KCQjw8_qRBhCXARIsAE2AtRZKOvMnbilZ_6_91d7huSFFy71pWLrnPwGwOHVzXsmsG-1a1mZnQw8aAt89EALw_wcB&hsa_acc=1782073842&hsa_ad=548425387665&hsa_cam=14746637662&hsa_grp=125038601902&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_src=g&hsa_tgt=dsa-1431852288425&hsa_ver=3&utm_campaign=%5BCD%5D%20-%20DSA%20-%20EMEA&utm_medium=cpc&utm_medium=ppc&utm_source=google&utm_source=adwords&utm_term=) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-02-13_eastwest-lr-tonne-miles-fall-further-damage-from-red-sea-opening_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_84ccfcebef09.png)
+> **Interactive Data & Source:** [Vortexa](https://www.vortexa.com//oil-gas-data-traders-analysts-data-scientists?gclid=Cj0KCQjw8_qRBhCXARIsAE2AtRZKOvMnbilZ_6_91d7huSFFy71pWLrnPwGwOHVzXsmsG-1a1mZnQw8aAt89EALw_wcB&hsa_acc=1782073842&hsa_ad=548425387665&hsa_cam=14746637662&hsa_grp=125038601902&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_src=g&hsa_tgt=dsa-1431852288425&hsa_ver=3&utm_campaign=%5BCD%5D%20-%20DSA%20-%20EMEA&utm_medium=cpc&utm_medium=ppc&utm_source=google&utm_source=adwords&utm_term=) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-02-13_eastwest-lr-tonne-miles-fall-further-damage-from-red-sea-opening_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_84ccfcebef09.png)
 
 Data Source:[Vortexa](https://www.vortexa.com//oil-gas-data-traders-analysts-data-scientists?gclid=Cj0KCQjw8_qRBhCXARIsAE2AtRZKOvMnbilZ_6_91d7huSFFy71pWLrnPwGwOHVzXsmsG-1a1mZnQw8aAt89EALw_wcB&hsa_acc=1782073842&hsa_ad=548425387665&hsa_cam=14746637662&hsa_grp=125038601902&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_src=g&hsa_tgt=dsa-1431852288425&hsa_ver=3&utm_campaign=%5BCD%5D%20-%20DSA%20-%20EMEA&utm_medium=cpc&utm_medium=ppc&utm_source=google&utm_source=adwords&utm_term=)
 

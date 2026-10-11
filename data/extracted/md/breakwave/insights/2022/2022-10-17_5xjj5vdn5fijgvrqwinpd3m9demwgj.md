@@ -41,10 +41,10 @@ source_file: "corpus/03-breakwave/insights/2022/2022-10-17_5xjj5vdn5fijgvrqwinpd
 
 Having a country’s sovereign debt on the front page of every financial news outlet on the planet is never a good thing. Greece and Italy found that out a decade ago. The Euro crisis demolished incumbent leaderships, cost years of austerity and lacklustre growth and, to this day, paints a bull’s eye on their backs every time there’s notable market volatility.
 
-![Market Chart 1](assets/2022-10-17_5xjj5vdn5fijgvrqwinpd3m9demwgj_img_image00428229_bd68d87e5bf7.jpg)
+![Market Chart 1](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-10-17_5xjj5vdn5fijgvrqwinpd3m9demwgj_img_image00428229_bd68d87e5bf7.jpg)
 
 > **Figure 1: Market Chart 1**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-10-17_5xjj5vdn5fijgvrqwinpd3m9demwgj_img_image00428229_bd68d87e5bf7.jpg)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-10-17_5xjj5vdn5fijgvrqwinpd3m9demwgj_img_image00428229_bd68d87e5bf7.jpg)
 
 With the UK, however, things ought to be different. The country features a comfortable 87% government debt-to-GDP, below the 91% global average and significantly lower than the 140%-plus for Greece and Italy. The economy has firm roots in big sectors like finance, exports, technology, healthcare and logistics. And unlike the two Eurozone nations, it has complete liberty to print its own money. In a monetary world, monetary independence is important. It means that a country can always print money to pay off what it owes- even at the cost of a weaker currency.
 
@@ -58,11 +58,11 @@ The end of Quantitative Easing, a nearly ubiquitous financial paradigm, is now b
 
 And when extreme volatility is met by the false assumption that markets can be ignored or even worse, that they ‘need to be taught a lesson’, catastrophe looms.
 
-![MR Kwarteng’s Transgression](assets/2022-10-17_5xjj5vdn5fijgvrqwinpd3m9demwgj_img_image00528129_b067974975f8.jpg)
+![MR Kwarteng’s Transgression](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-10-17_5xjj5vdn5fijgvrqwinpd3m9demwgj_img_image00528129_b067974975f8.jpg)
 
 > **Figure 2: MR Kwarteng’s Transgression**  
 > *Mr Kwarteng’s transgression, in fact, is probably dwarfed by the present Fed’s belief that it can ignore market volatility in its fight against inflation. For years we have said that markets were behaving like Pavlov’s dogs, responding to the Fed’s stimulus. This may have been the case when markets were going up. But when bond markets are collapsing, we find that the metaphor is no longer useful. Markets are big and deep and can run wild.Theyare the bedrock of capitalism, not central banks. They can react much faster to events and challenges than any political body can decide on how to respond to them.*  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-10-17_5xjj5vdn5fijgvrqwinpd3m9demwgj_img_image00528129_b067974975f8.jpg)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-10-17_5xjj5vdn5fijgvrqwinpd3m9demwgj_img_image00528129_b067974975f8.jpg)
 
 2008, was all about the moral hazard created by the financial industry. Banks were thereafter shackled and risk was transferred to private, non-systemic investors, like asset managers and private equity funds.
 
@@ -90,7 +90,7 @@ It will take patience for the damage to be undone. Announcing a U-turn in terms 
 
 Having said that, we believe that the UK is in a much stronger position that Greece or Italy. It has much lower debt, a broader economy and a great track record in keeping spending from getting out of control. For lack of a better word, it has ‘street credibility’, accumulated investor goodwill. There is damage for sure, but if British governments exhibit prudence and willingness to reconcile with their largest trading partners, we think that this damage can be reversed.
 
-![Market Chart 3](assets/2022-10-17_5xjj5vdn5fijgvrqwinpd3m9demwgj_img_image00628229_02dc4a31ed0d.jpg)
+![Market Chart 3](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-10-17_5xjj5vdn5fijgvrqwinpd3m9demwgj_img_image00628229_02dc4a31ed0d.jpg)
 
 > **Figure 3: Market Chart 3**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-10-17_5xjj5vdn5fijgvrqwinpd3m9demwgj_img_image00628229_02dc4a31ed0d.jpg)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-10-17_5xjj5vdn5fijgvrqwinpd3m9demwgj_img_image00628229_02dc4a31ed0d.jpg)

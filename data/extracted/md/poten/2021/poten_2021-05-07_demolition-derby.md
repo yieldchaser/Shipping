@@ -36,10 +36,17 @@ So, in conclusion, shipowners have been reluctant to scrap their vessels so far 
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: Demolition Derby](../../../charts/poten/2021/poten_2021-05-07_demolition-derby_chart1.png)
+![Exhibit 1: VLCC Fleet Age Profile and Orderbook](../../../charts/poten/2021/poten_2021-05-07_demolition-derby_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2021/poten_2021-05-07_demolition-derby_chart1.png)
+> **Exhibit 1: VLCC Fleet Age Profile and Orderbook**  
+> Unit: # of VLCCs · X-axis: 1990 to 2024  
+> Series: Trading, On Order  
+> *Source: 1-May-2021*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2021/poten_2021-05-07_demolition-derby_chart1.png)
 
-![Exhibit 2: Demolition Derby](../../../charts/poten/2021/poten_2021-05-07_demolition-derby_chart2.png)
+![Exhibit 2: VLCC Fleet Development: Deliveries vs Demolition vs Rates](../../../charts/poten/2021/poten_2021-05-07_demolition-derby_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2021/poten_2021-05-07_demolition-derby_chart2.png)
+> **Exhibit 2: VLCC Fleet Development: Deliveries vs Demolition vs Rates**  
+> Unit: # of VLCCs | TD3 TCE · X-axis: 1996 to 2021 YTD  
+> Series: Delivery, Demolition, TCE  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2021/poten_2021-05-07_demolition-derby_chart2.png)

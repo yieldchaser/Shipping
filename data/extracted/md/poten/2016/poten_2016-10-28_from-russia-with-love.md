@@ -30,10 +30,18 @@ Russia is a key player in the international oil and tanker markets and its influ
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: From Russia With Love](../../../charts/poten/2016/poten_2016-10-28_from-russia-with-love_chart1.png)
+![Exhibit 1: Russian Crude Oil Production and Refinery Intake](../../../charts/poten/2016/poten_2016-10-28_from-russia-with-love_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2016/poten_2016-10-28_from-russia-with-love_chart1.png)
+> **Exhibit 1: Russian Crude Oil Production and Refinery Intake**  
+> Unit: MB/d · X-axis: 2002 to 2016E  
+> Series: Crude Production, Refinery Intake, Available for Export  
+> *Source: IEA, JODI*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2016/poten_2016-10-28_from-russia-with-love_chart1.png)
 
-![Exhibit 2: From Russia With Love](../../../charts/poten/2016/poten_2016-10-28_from-russia-with-love_chart2.png)
+![Exhibit 2: Russian Seaborne Crude Oil Exports by Load Area](../../../charts/poten/2016/poten_2016-10-28_from-russia-with-love_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2016/poten_2016-10-28_from-russia-with-love_chart2.png)
+> **Exhibit 2: Russian Seaborne Crude Oil Exports by Load Area**  
+> Unit: KB/d · X-axis: Baltic to Kozmino  
+> Series: 2015 Aframax, 2015 Suezmax, 2016 Aframax, 2016 Suezmax  
+> *Source: Lloyds List Intelligence*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2016/poten_2016-10-28_from-russia-with-love_chart2.png)

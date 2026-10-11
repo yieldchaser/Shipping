@@ -57,4 +57,4 @@ Similar to the other segments, there is no change in the top spot for Aframaxes.
 
 ![Exhibit 1: Tanker Midterms](../../../charts/poten/2018/poten_2018-06-29_tanker-midterms_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2018/poten_2018-06-29_tanker-midterms_chart1.png)
+> **Interactive Asset:** [Local Asset (200 DPI PNG)](../../../charts/poten/2018/poten_2018-06-29_tanker-midterms_chart1.png)

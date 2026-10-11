@@ -28,11 +28,11 @@ tags:
 ## Brazilian Iron Ore Export Volumes Increased in August, Leading to a Boost in Capesize Tonne Days
 
 
-![Data Source: The Signal Ocean Platform Data](../../images/6501777bd8659dda77e11114_DRY.png)
+![Data Source: The Signal Ocean Platform Data](../../../../../../corpus/07-signal/images/6501777bd8659dda77e11114_DRY.png)
 
 > **Figure 1: Data Source: The Signal Ocean Platform Data**  
 > *Data Source: The Signal Ocean Platform Data*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/dry-week-37-2023) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6501777bd8659dda77e11114_DRY.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/dry-week-37-2023) | [Local Asset](../../../../../../corpus/07-signal/images/6501777bd8659dda77e11114_DRY.png)
 
 In the second week of September, despite the ongoing challenges surrounding China's economic recovery and uncertainties regarding grain trade negotiations between Ukraine and Russia, we observed a continued firm momentum of freight rates. It is uncertain if the current situation will continue, as there has been a decline in the growth rate of tonne days demand and an increase in the number of ballast vessels. Based on recent supply and demand figures, there may be a decrease in freight rates towards the end of the third quarter this year.
 

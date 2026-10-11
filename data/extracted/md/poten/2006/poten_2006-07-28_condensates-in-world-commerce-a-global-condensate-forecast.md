@@ -54,6 +54,3 @@ I. INTRODUCTION II. REPORT SUMMARY III. CONDENSATES WEST A. CONDENSATE SUPPLY WE
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: Condensates in World Commerce: A Global Condensate Forecast](../../../charts/poten/2006/poten_2006-07-28_condensates-in-world-commerce-a-global-condensate-forecast_chart1.png)
-
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2006/poten_2006-07-28_condensates-in-world-commerce-a-global-condensate-forecast_chart1.png)

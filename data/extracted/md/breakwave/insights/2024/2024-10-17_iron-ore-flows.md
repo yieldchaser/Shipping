@@ -28,10 +28,10 @@ October 16, 2024
 
 *The Capesize market rates for the Brazil to North China route have softened, yet rising iron ore exports from Brazil, particularly after a strong third quarter, and increasing port congestion suggest potential upward pressure on rates. September saw a 12% year-on-year rise in iron ore shipments to China, signalling a recovery from earlier declines, and this trend is supported by increased output from Rio Tinto and Vale despite challenges in China’s demand. If congestion and iron ore volumes continue to rise, the Capesize market could see rate increases in the coming weeks.*
 
-![Στιγμιότυπο Οθόνης 2024 10 17 103544](assets/2024-10-17_iron-ore-flows_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_10ae929ac86e.png)
+![Στιγμιότυπο Οθόνης 2024 10 17 103544](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-10-17_iron-ore-flows_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_10ae929ac86e.png)
 
 > **Figure 1: Στιγμιότυπο Οθόνης 2024 10 17 103544**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://go.signalocean.com/e/983831/se-output-even-as-china-slows-/2qmrnb/442077924/h/F7k8XZt1CdG08Afa3uHcXGhXFuCy33Dt73St-N4hF90) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-10-17_iron-ore-flows_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_10ae929ac86e.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://go.signalocean.com/e/983831/se-output-even-as-china-slows-/2qmrnb/442077924/h/F7k8XZt1CdG08Afa3uHcXGhXFuCy33Dt73St-N4hF90) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-10-17_iron-ore-flows_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_10ae929ac86e.png)
 
 This week's focus highlights the softening trend observed in Capesize market rates for the Brazil to North China route, coinciding with a steady increase in the number of ballasters throughout October. Despite the current rate decline, the iron ore flows from Brazil to China present a compelling narrative. On a quarterly basis, the third quarter of 2024 saw the highest volume of iron ore shipments to China, surpassing 40 million tons for the first time since 2021. This notable milestone underlines the strengthening iron ore export activity from Brazil. In September alone, the monthly volume of iron ore exported from Brazil to China recorded a 12% year-on-year increase compared to September 2023, marking a solid recovery from earlier in the year.
 
@@ -41,10 +41,10 @@ If the current momentum in iron ore exports from Brazil persists, it could lead 
 
 This dynamic interplay between vessel availability, congestion levels, and commodity flows will be key to watch in the coming weeks as the Capesize market adjusts to these evolving factors.
 
-![Στιγμιότυπο Οθόνης 2024 10 17 103648](assets/2024-10-17_iron-ore-flows_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_b1d1c1ae02c7.png)
+![Στιγμιότυπο Οθόνης 2024 10 17 103648](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-10-17_iron-ore-flows_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_b1d1c1ae02c7.png)
 
 > **Figure 2: Στιγμιότυπο Οθόνης 2024 10 17 103648**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-10-17_iron-ore-flows_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_b1d1c1ae02c7.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-10-17_iron-ore-flows_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_b1d1c1ae02c7.png)
 
 The dry bulk freight market showed mixed sentiment in the third week of October. A softening trend was confirmed on the Capesize Brazil–North China route, while early signs of an upward trend on the Panamax Continent–Far East route have now reversed, stabilising near last week's levels.
 
@@ -53,10 +53,10 @@ The dry bulk freight market showed mixed sentiment in the third week of October.
 - **Supramax**vessel freight rates on the Indo-ECI route remain around $11 per ton, reflecting a 3% increase compared to the previous month.
 - **Handysize**freight rates for the NOPAC Far East route have remained steady at $35 per ton since April, marking a 12% increase compared to the same period last year.
 
-![Στιγμιότυπο Οθόνης 2024 10 17 103745](assets/2024-10-17_iron-ore-flows_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_e60938ecd9db.png)
+![Στιγμιότυπο Οθόνης 2024 10 17 103745](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-10-17_iron-ore-flows_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_e60938ecd9db.png)
 
 > **Figure 3: Στιγμιότυπο Οθόνης 2024 10 17 103745**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-10-17_iron-ore-flows_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_e60938ecd9db.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-10-17_iron-ore-flows_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_e60938ecd9db.png)
 
 The third week of October appears to show a downward trend for the larger vessel size categories, while sharp increases have been recorded in the Supramax markets in Southeast Asia and the Handy sector in the North Pacific.
 
@@ -65,10 +65,10 @@ The third week of October appears to show a downward trend for the larger vessel
 - **Supramax SE Asia**: The number of ballast ships surged to 120, marking a notable increase from the lows observed in the previous week. However, it remains uncertain whether this spike will be sustained through the end of the month.
 - **Handysize NOPAC**: Following the year's peak of 97 ballasters recorded last week, the number now appears to be on a downward trend. However, it still remains 5 above the annual average.
 
-![Στιγμιότυπο Οθόνης 2024 10 17 103841](assets/2024-10-17_iron-ore-flows_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_cafee1780fe4.png)
+![Στιγμιότυπο Οθόνης 2024 10 17 103841](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-10-17_iron-ore-flows_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_cafee1780fe4.png)
 
 > **Figure 4: Στιγμιότυπο Οθόνης 2024 10 17 103841**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-10-17_iron-ore-flows_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_cafee1780fe4.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-10-17_iron-ore-flows_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_cafee1780fe4.png)
 
 In the third week of October, dry tonne-days for the Capesize and Supramax segments continued to decline sharply, maintaining a downward trend. Meanwhile, the upward revisions seen in the Panamax segment during the previous weeks appeared to be solidifying into a confirmed trend for October.
 
@@ -77,10 +77,10 @@ In the third week of October, dry tonne-days for the Capesize and Supramax segme
 - **Supramax**: The growth rate has continued on a downward trend, signalling weaker overall growth for October.
 - **Handysize**: The Handysize vessel segment maintained a steady growth pace throughout the first half of October. However, it remains to be seen if this momentum will translate into a stronger weekly percentage increase in the coming days.
 
-![Στιγμιότυπο Οθόνης 2024 10 17 103933](assets/2024-10-17_iron-ore-flows_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_3f60352f12b2.png)
+![Στιγμιότυπο Οθόνης 2024 10 17 103933](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-10-17_iron-ore-flows_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_3f60352f12b2.png)
 
 > **Figure 5: Στιγμιότυπο Οθόνης 2024 10 17 103933**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-10-17_iron-ore-flows_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_3f60352f12b2.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-10-17_iron-ore-flows_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_3f60352f12b2.png)
 
 Congestion at Chinese dry bulk ports showed a decline in the third week of October, with a downward trend observed across all vessel size segments.
 

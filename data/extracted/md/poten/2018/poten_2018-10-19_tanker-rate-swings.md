@@ -34,10 +34,18 @@ Increased tanker scrapping may have contributed to the tighter tonnage balances 
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: Tanker Rate Swings](../../../charts/poten/2018/poten_2018-10-19_tanker-rate-swings_chart1.png)
+![Exhibit 1: VLCC 270,000: Ras Tanura - Ningpo](../../../charts/poten/2018/poten_2018-10-19_tanker-rate-swings_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2018/poten_2018-10-19_tanker-rate-swings_chart1.png)
+> **Exhibit 1: VLCC 270,000: Ras Tanura - Ningpo**  
+> Unit: US$/day · X-axis: 1 to 51  
+> Series: 2018, 2017, 2016, 2015  
+> *Source: Poten & Partners*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2018/poten_2018-10-19_tanker-rate-swings_chart1.png)
 
-![Exhibit 2: Tanker Rate Swings](../../../charts/poten/2018/poten_2018-10-19_tanker-rate-swings_chart2.png)
+![Exhibit 2: AG Fixture Count](../../../charts/poten/2018/poten_2018-10-19_tanker-rate-swings_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2018/poten_2018-10-19_tanker-rate-swings_chart2.png)
+> **Exhibit 2: AG Fixture Count**  
+> Unit: Fixtures /Decade AoM · X-axis: Jan D1 to Dec D1  
+> Series: 2017, 2018  
+> *Source: Poten & Partners*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2018/poten_2018-10-19_tanker-rate-swings_chart2.png)

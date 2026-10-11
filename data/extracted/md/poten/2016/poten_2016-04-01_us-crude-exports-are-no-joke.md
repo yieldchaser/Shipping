@@ -36,10 +36,18 @@ It is too early to tell how successful exports will be but the initial indicatio
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: US Crude Exports Are No Joke](../../../charts/poten/2016/poten_2016-04-01_us-crude-exports-are-no-joke_chart1.png)
+![Exhibit 1: Fig. 1: U.S. Crude and Condensates Exports by destination (Jan 2010 – Dec 2015)](../../../charts/poten/2016/poten_2016-04-01_us-crude-exports-are-no-joke_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2016/poten_2016-04-01_us-crude-exports-are-no-joke_chart1.png)
+> **Exhibit 1: Fig. 1: U.S. Crude and Condensates Exports by destination (Jan 2010 – Dec 2015)**  
+> Unit: Kb/d · X-axis: Jan-2010 to Jul-2015  
+> Series: Canada, Europe, Asia, Other  
+> *Source: EIA*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2016/poten_2016-04-01_us-crude-exports-are-no-joke_chart1.png)
 
-![Exhibit 2: US Crude Exports Are No Joke](../../../charts/poten/2016/poten_2016-04-01_us-crude-exports-are-no-joke_chart2.png)
+![Exhibit 2: Fig. 1: Total U.S. Crude and Condensates Exports](../../../charts/poten/2016/poten_2016-04-01_us-crude-exports-are-no-joke_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2016/poten_2016-04-01_us-crude-exports-are-no-joke_chart2.png)
+> **Exhibit 2: Fig. 1: Total U.S. Crude and Condensates Exports**  
+> Unit: Kb/d · X-axis: Jan-13 to Mar-16  
+> Series: Total U.S. Crude and Condensates Exports  
+> *Source: EIA*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2016/poten_2016-04-01_us-crude-exports-are-no-joke_chart2.png)

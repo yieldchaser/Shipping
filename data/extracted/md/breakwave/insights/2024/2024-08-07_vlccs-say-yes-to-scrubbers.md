@@ -20,10 +20,10 @@ source_file: "corpus/03-breakwave/insights/2024/2024-08-07_vlccs-say-yes-to-scru
 
 ---
 
-![Tankers 4 Square](assets/2024-08-07_vlccs-say-yes-to-scrubbers_img_tankers-4-square_a310bd6dfbdb.jpg)
+![Tankers 4 Square](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-08-07_vlccs-say-yes-to-scrubbers_img_tankers-4-square_a310bd6dfbdb.jpg)
 
 > **Figure 1: Tankers 4 Square**  
-> **Interactive Data & Source:** [Gibsons Co](https://www.gibsons.co.uk/market-reports) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-08-07_vlccs-say-yes-to-scrubbers_img_tankers-4-square_a310bd6dfbdb.jpg)
+> **Interactive Data & Source:** [Gibsons Co](https://www.gibsons.co.uk/market-reports) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-08-07_vlccs-say-yes-to-scrubbers_img_tankers-4-square_a310bd6dfbdb.jpg)
 
 It has been over four years since the IMO’s global sulphur rules were introduced. Prior to implementation, there had been much speculation about potential lack of compliant 0.5% sulphur bunker fuel, the economics of installing exhaust gas cleaning technology and the future direction of Hi5 spread – the difference between high sulphur bunker fuel (HSFO) and compliant very low sulphur fuel oil (VLSFO).
 
@@ -39,10 +39,10 @@ On smaller sizes, scrubber uptake is even lower – 8% of the LR1/Panamax fleet,
 
 Without doubt, larger tankers that have installed the technology, particularly those that have gone through retrofits back in 2020/2021 have had their investment paid off. For smaller tankers, it is less clear cut, and much depends on installation dates, the number of operating days within a year and trading patterns.
 
-![Στιγμιότυπο Οθόνης 2024 08 07 130601](assets/2024-08-07_vlccs-say-yes-to-scrubbers_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_f6829abaced4.png)
+![Στιγμιότυπο Οθόνης 2024 08 07 130601](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-08-07_vlccs-say-yes-to-scrubbers_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_f6829abaced4.png)
 
 > **Figure 2: Στιγμιότυπο Οθόνης 2024 08 07 130601**  
-> **Interactive Data & Source:** [Gibsons Co](https://www.gibsons.co.uk/market-reports) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-08-07_vlccs-say-yes-to-scrubbers_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_f6829abaced4.png)
+> **Interactive Data & Source:** [Gibsons Co](https://www.gibsons.co.uk/market-reports) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-08-07_vlccs-say-yes-to-scrubbers_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_f6829abaced4.png)
 
 Data source:[Gibson Shipbrokers](https://www.gibsons.co.uk/market-reports)
 

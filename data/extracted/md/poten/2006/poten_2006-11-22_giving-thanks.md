@@ -34,6 +34,7 @@ demand for crude oil and products ¡ A crude oil price that seems to be in a ran
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: Giving Thanks](../../../charts/poten/2006/poten_2006-11-22_giving-thanks_chart1.png)
-
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2006/poten_2006-11-22_giving-thanks_chart1.png)
+> **Chart on PDF page 1: 2006 PTI vs Equity Index**  
+> Unit: Index · X-axis: Jan to Nov  
+> Series: Equity Index, PTI, Equity Index 2006 Trendline, PTI 2006 Trendline  
+> *No image crop of this chart was saved; caption read from the PDF.*

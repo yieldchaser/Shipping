@@ -20,10 +20,10 @@ source_file: "corpus/03-breakwave/insights/2020/2020-07-20_panamax-and-handymax-
 
 ---
 
-![Ship8](assets/2020-07-20_panamax-and-handymax-fleet-growth_img_ship8_5e3015038cc6.jpg)
+![Ship8](../../../../../../corpus/03-breakwave/insights/2020/assets/2020-07-20_panamax-and-handymax-fleet-growth_img_ship8_5e3015038cc6.jpg)
 
 > **Figure 1: Ship8**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2020/assets/2020-07-20_panamax-and-handymax-fleet-growth_img_ship8_5e3015038cc6.jpg)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2020/assets/2020-07-20_panamax-and-handymax-fleet-growth_img_ship8_5e3015038cc6.jpg)
 
 66 dry bulk vessels were delivered last month. This is 26 more than were delivered in May and marks the largest amount of newbuildings delivered since January 2017. Last month saw the delivery of 8 handysize vessels, 22 handymax vessels, 21 panamax vessels, and 15 capesize vessels. In comparison, May saw the delivery of 3 handysize vessels, 11 handymax vessels, 20 panamax vessels, and 6 capesize vessels. 9 dry bulk vessels were scrapped last month This is 3 more than were scrapped in May. Last month saw the removal of 2 handysize vessels, 1 handymax vessel, and 6 capesize vessels. In comparison, May saw the removal of 2 handysize vessels, 1 handymax vessel, 1 panamax vessel, and 2 capesize vessels.
 

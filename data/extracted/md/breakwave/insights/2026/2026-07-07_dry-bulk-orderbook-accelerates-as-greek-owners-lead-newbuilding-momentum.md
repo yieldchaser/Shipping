@@ -20,11 +20,11 @@ source_file: "corpus/03-breakwave/insights/2026/2026-07-07_dry-bulk-orderbook-ac
 
 ---
 
-![Byeirini Diamantara&dimitris Roumeliotis](assets/2026-07-07_dry-bulk-orderbook-accelerates-as-greek-owners-lead-newbuilding-momentum_img_unsplash-image-b-8enpognaw_d90d258514f5.jpg)
+![Byeirini Diamantara&dimitris Roumeliotis](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-07-07_dry-bulk-orderbook-accelerates-as-greek-owners-lead-newbuilding-momentum_img_unsplash-image-b-8enpognaw_d90d258514f5.jpg)
 
 > **Figure 1: Byeirini Diamantara&dimitris Roumeliotis**  
 > *ByEirini Diamantara&Dimitris Roumeliotis*  
-> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/in/eirini-diamantara-58b269105/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-07-07_dry-bulk-orderbook-accelerates-as-greek-owners-lead-newbuilding-momentum_img_unsplash-image-b-8enpognaw_d90d258514f5.jpg)
+> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/in/eirini-diamantara-58b269105/) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-07-07_dry-bulk-orderbook-accelerates-as-greek-owners-lead-newbuilding-momentum_img_unsplash-image-b-8enpognaw_d90d258514f5.jpg)
 
 The dry bulk orderbook has expanded meaningfully during the first half of 2026, pointing to a market that continues to invest in fleet renewal despite the uncertainty surrounding future fuels, shipyard pricing and long-term demand visibility. As of Jan-Jun 2026, the bulk carrier orderbook stands at 1,642 vessels against an active fleet of 14,908 units, translating into an orderbook-to-fleet ratio of 11.0%. This compares with 1,363 vessels on order against a fleet of 14,360 units during the same period of 2025, when the ratio stood at 9.5%. In other words, while the active fleet has grown by around 3.8% year-on-year, the orderbook has increased by more than 20%, highlighting a clear acceleration in contracting appetite.
 

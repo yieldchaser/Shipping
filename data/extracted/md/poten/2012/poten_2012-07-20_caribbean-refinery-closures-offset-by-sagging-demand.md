@@ -70,12 +70,12 @@ Philadelphia Fed Survey Current Employment Index
 
 ![Exhibit 1: Caribbean Refinery Closures Offset by Sagging Demand](../../../charts/poten/2012/poten_2012-07-20_caribbean-refinery-closures-offset-by-sagging-demand_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2012/poten_2012-07-20_caribbean-refinery-closures-offset-by-sagging-demand_chart1.png)
+> **Interactive Asset:** [Local Asset (200 DPI PNG)](../../../charts/poten/2012/poten_2012-07-20_caribbean-refinery-closures-offset-by-sagging-demand_chart1.png)
 
 ![Exhibit 2: Caribbean Refinery Closures Offset by Sagging Demand](../../../charts/poten/2012/poten_2012-07-20_caribbean-refinery-closures-offset-by-sagging-demand_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2012/poten_2012-07-20_caribbean-refinery-closures-offset-by-sagging-demand_chart2.png)
+> **Interactive Asset:** [Local Asset (200 DPI PNG)](../../../charts/poten/2012/poten_2012-07-20_caribbean-refinery-closures-offset-by-sagging-demand_chart2.png)
 
 ![Exhibit 3: Caribbean Refinery Closures Offset by Sagging Demand](../../../charts/poten/2012/poten_2012-07-20_caribbean-refinery-closures-offset-by-sagging-demand_chart3.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2012/poten_2012-07-20_caribbean-refinery-closures-offset-by-sagging-demand_chart3.png)
+> **Interactive Asset:** [Local Asset (200 DPI PNG)](../../../charts/poten/2012/poten_2012-07-20_caribbean-refinery-closures-offset-by-sagging-demand_chart3.png)

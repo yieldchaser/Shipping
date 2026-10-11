@@ -44,6 +44,14 @@ We should not underestimate China's importance in the world of oil. Speculations
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: China Syndrome](../../../charts/poten/2004/poten_2004-01-02_china-syndrome_chart1.png)
+> **Chart on PDF page 1: History of Consumption and Production China**  
+> Unit: 000 Bpd · X-axis: 1965 to 2000  
+> Series: Consumption, Production, China as Exporter, China as Importer  
+> *Source: BP Statistics/Poten*  
+> *No image crop of this chart was saved; caption read from the PDF.*
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2004/poten_2004-01-02_china-syndrome_chart1.png)
+> **Chart on PDF page 3: # Spot Fixtures by Tanker Type**  
+> Unit: # Fixtures · X-axis: 2001 to 2003  
+> Series: Handy, Panamax, Aframax, Suezmax, VLCC  
+> *Source: Poten & Partners*  
+> *No image crop of this chart was saved; caption read from the PDF.*

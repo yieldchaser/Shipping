@@ -30,6 +30,10 @@ Although the flat rates change every year, the Worldscale nominal freight scale 
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: Worldscale Talks Turkey](../../../charts/poten/2016/poten_2016-11-23_worldscale-talks-turkey_chart1.png)
+![Exhibit 1: HFO Bunker Prices](../../../charts/poten/2016/poten_2016-11-23_worldscale-talks-turkey_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2016/poten_2016-11-23_worldscale-talks-turkey_chart1.png)
+> **Exhibit 1: HFO Bunker Prices**  
+> Unit: $/ton · X-axis: Oct-13 to Jun-16  
+> Series: Avg HFO, 2015 WS Avg, 2016 WS Avg, 2017 WS Avg  
+> *Source: Ship & Bunker, Bunkerworld*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2016/poten_2016-11-23_worldscale-talks-turkey_chart1.png)

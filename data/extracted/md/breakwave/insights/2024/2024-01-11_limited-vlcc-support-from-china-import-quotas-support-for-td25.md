@@ -27,11 +27,11 @@ Happy New Year! In our first issue of 2024, in the East we discuss the outlook f
 
 ## New Crude Import Quotas Offer Limited Support to China-Bound VLCC Freight Rates
 
-![VLCC Freight Rates on Major China-Bound Routes](assets/2024-01-11_limited-vlcc-support-from-china-import-quotas-support-for-td25_img_unnamed-2024-01-11t130108922_834981a3a228.png)
+![VLCC Freight Rates on Major China-Bound Routes](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-01-11_limited-vlcc-support-from-china-import-quotas-support-for-td25_img_unnamed-2024-01-11t130108922_834981a3a228.png)
 
 > **Figure 1: VLCC Freight Rates on Major China-Bound Routes**  
 > *VLCC freight rates on major China-bound routes*  
-> **Interactive Data & Source:** [Vortexa](https://www.vortexa.com//oil-gas-data-traders-analysts-data-scientists?gclid=Cj0KCQjw8_qRBhCXARIsAE2AtRZKOvMnbilZ_6_91d7huSFFy71pWLrnPwGwOHVzXsmsG-1a1mZnQw8aAt89EALw_wcB&hsa_acc=1782073842&hsa_ad=548425387665&hsa_cam=14746637662&hsa_grp=125038601902&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_src=g&hsa_tgt=dsa-1431852288425&hsa_ver=3&utm_campaign=%5BCD%5D%20-%20DSA%20-%20EMEA&utm_medium=cpc&utm_medium=ppc&utm_source=google&utm_source=adwords&utm_term=) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-01-11_limited-vlcc-support-from-china-import-quotas-support-for-td25_img_unnamed-2024-01-11t130108922_834981a3a228.png)
+> **Interactive Data & Source:** [Vortexa](https://www.vortexa.com//oil-gas-data-traders-analysts-data-scientists?gclid=Cj0KCQjw8_qRBhCXARIsAE2AtRZKOvMnbilZ_6_91d7huSFFy71pWLrnPwGwOHVzXsmsG-1a1mZnQw8aAt89EALw_wcB&hsa_acc=1782073842&hsa_ad=548425387665&hsa_cam=14746637662&hsa_grp=125038601902&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_src=g&hsa_tgt=dsa-1431852288425&hsa_ver=3&utm_campaign=%5BCD%5D%20-%20DSA%20-%20EMEA&utm_medium=cpc&utm_medium=ppc&utm_source=google&utm_source=adwords&utm_term=) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-01-11_limited-vlcc-support-from-china-import-quotas-support-for-td25_img_unnamed-2024-01-11t130108922_834981a3a228.png)
 
 - China issued crude import quotas for 2024, rather than the usual practice of around 50% of the yearly allowance at the start of the year. The change aims to boost imports, as many refiners exhausted their quotas in late 2023
 - However, state-run refiners, with unlimited quotas, also reduced imports in the last two months of 2023 amid softened crude demand. Throughout December, VLCC rates on China-bound routes (TD3C, TD15 and TD22) experienced declines approaching 20%. Even after the quota announcement, these rates continued to slide.
@@ -41,11 +41,11 @@ Happy New Year! In our first issue of 2024, in the East we discuss the outlook f
 
 ## High USG-to-Europe Aframax Rates Likely to Endure in Short-Term
 
-![USG Prompt Aframax Availability](assets/2024-01-11_limited-vlcc-support-from-china-import-quotas-support-for-td25_img_unnamed-2024-01-11t130331076_92c8f36db492.png)
+![USG Prompt Aframax Availability](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-01-11_limited-vlcc-support-from-china-import-quotas-support-for-td25_img_unnamed-2024-01-11t130331076_92c8f36db492.png)
 
 > **Figure 2: USG Prompt Aframax Availability**  
 > *USG prompt Aframax availability*  
-> **Interactive Data & Source:** [Vortexa](https://www.vortexa.com//oil-gas-data-traders-analysts-data-scientists?gclid=Cj0KCQjw8_qRBhCXARIsAE2AtRZKOvMnbilZ_6_91d7huSFFy71pWLrnPwGwOHVzXsmsG-1a1mZnQw8aAt89EALw_wcB&hsa_acc=1782073842&hsa_ad=548425387665&hsa_cam=14746637662&hsa_grp=125038601902&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_src=g&hsa_tgt=dsa-1431852288425&hsa_ver=3&utm_campaign=%5BCD%5D%20-%20DSA%20-%20EMEA&utm_medium=cpc&utm_medium=ppc&utm_source=google&utm_source=adwords&utm_term=) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-01-11_limited-vlcc-support-from-china-import-quotas-support-for-td25_img_unnamed-2024-01-11t130331076_92c8f36db492.png)
+> **Interactive Data & Source:** [Vortexa](https://www.vortexa.com//oil-gas-data-traders-analysts-data-scientists?gclid=Cj0KCQjw8_qRBhCXARIsAE2AtRZKOvMnbilZ_6_91d7huSFFy71pWLrnPwGwOHVzXsmsG-1a1mZnQw8aAt89EALw_wcB&hsa_acc=1782073842&hsa_ad=548425387665&hsa_cam=14746637662&hsa_grp=125038601902&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_src=g&hsa_tgt=dsa-1431852288425&hsa_ver=3&utm_campaign=%5BCD%5D%20-%20DSA%20-%20EMEA&utm_medium=cpc&utm_medium=ppc&utm_source=google&utm_source=adwords&utm_term=) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-01-11_limited-vlcc-support-from-china-import-quotas-support-for-td25_img_unnamed-2024-01-11t130331076_92c8f36db492.png)
 
 - Aframax rates USG-to-Europe (TD25) shot up last week, increasing about 60% since the rally began at the New Year. This was a function of both supply and demand fundamentals. Higher enquiries from European buyers served to increase tanker demand and clear tonnage in the US Gulf. As a result, prompt availability has continued to decline during this freight rate rally.
 - Some of the enquiry activity from European buyers is likely driven by opportunistic buying due to a weak market and low prices for US crude due to ample supply, and it is unlikely that this buying will be sustained. However, buying could continue due to the proximity of the US as a source of crude supply during uncertainty in the Middle East and ongoing OPEC supply cuts.

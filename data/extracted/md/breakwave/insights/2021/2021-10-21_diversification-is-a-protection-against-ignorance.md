@@ -33,7 +33,7 @@ In one of his talks to his shareholders: “99% of people who invest should be e
 ![Buffett Gates](assets/2021-10-21_diversification-is-a-protection-against-ignorance_img_buffett-gates_b2345c0f3bb2.jpg)
 
 > **Figure 1: Buffett Gates**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2021/assets/2021-10-21_diversification-is-a-protection-against-ignorance_img_buffett-gates_b2345c0f3bb2.jpg)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-10-21_diversification-is-a-protection-against-ignorance_img_buffett-gates_b2345c0f3bb2.jpg)
 
 Of course, selecting stocks or even asset classes for a concentrated portfolio requires a lot of analysis and attention. An investor with a concentrated portfolio needs to put the work in and must know as much as possible about their investments. They should be reading industry reports, studying financials and tracking the business environment carefully.
 
@@ -46,7 +46,7 @@ If you have a financial advisor or money manager who is a fiduciary (and you sho
 ![Mark Twain2](assets/2021-10-21_diversification-is-a-protection-against-ignorance_img_mark-twain2_11ebaa1cce43.jpg)
 
 > **Figure 2: Mark Twain2**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2021/assets/2021-10-21_diversification-is-a-protection-against-ignorance_img_mark-twain2_11ebaa1cce43.jpg)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-10-21_diversification-is-a-protection-against-ignorance_img_mark-twain2_11ebaa1cce43.jpg)
 
 There is no correct answer to this question. Some investors might be happier with a concentrated portfolio. Others may not be able to tolerate the volatility.
 

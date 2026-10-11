@@ -31,18 +31,18 @@ Furthermore, another 37 percent were gathered around the 1001- 1499-point range,
 
 As far as the first half of 2023 goes, the vast majority is of the opinion that market has some depth, but not sufficient enough to push the Baltic Dry Index average above 1500 points. Looking forward into the second half of the year, a much better trading environment is expected. China has entered 2023 with trepidation. While the abrupt end to the zeroCovid strategy has boosted market confidence towards better economic conditions ahead, it has also increased uncertainty and negatively affected trading activity so far. Many macro and commodity analysts perceived the current juncture as the darkest hours of China’s economy before the dawn. With the situation still very fluid, any forecasts need to be constantly revisited as conditions evolve.
 
-![1 (10)](assets/2023-01-16_doric-weekly-market-insight_img_1281029_f11bd0ef5750.png)
+![1 (10)](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-01-16_doric-weekly-market-insight_img_1281029_f11bd0ef5750.png)
 
 > **Figure 1: 1 (10)**  
-> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-01-16_doric-weekly-market-insight_img_1281029_f11bd0ef5750.png)
+> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-01-16_doric-weekly-market-insight_img_1281029_f11bd0ef5750.png)
 
 In terms of the specific segments, Capesizes and Panamaxes are the most desirable sizes of this survey, with the former gathering one third of the replies and the latter 23.5 percent of them. The rest 43 percent was equally shared in the two geared segments. Following a period with the BHSI TC and BSI TC averages directly competing and challenging in most of the times the respective averages of the largest bulkers, the workhorses of the sector have seen their daily hires heading south in the trailing six months.
 
 Against this backdrop, the more volatile gearless segments are believed to have better chances for a quick positive reaction. As a final note and while trying to quantify the terms “cautiously optimistic” and rather pessimistic”, 25.5 percent of the respondents feel that the market will have an average of 2,500 points or above some time in the next one to two years. At the same time, the vast majority was arguing that more time will be needed for such a mellow and sweet average. At this point, it is pretty rational to assume that as every shipbroking firm around the globe, Doric’s vote goes in favour of the former.
 
-![1 (11)](assets/2023-01-16_doric-weekly-market-insight_img_1281129_97593b86ee45.png)
+![1 (11)](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-01-16_doric-weekly-market-insight_img_1281129_97593b86ee45.png)
 
 > **Figure 2: 1 (11)**  
-> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-01-16_doric-weekly-market-insight_img_1281129_97593b86ee45.png)
+> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-01-16_doric-weekly-market-insight_img_1281129_97593b86ee45.png)
 
 Data source:[Doric](https://www.doric.gr/)

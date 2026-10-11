@@ -32,7 +32,7 @@ tags:
 ![657c1c0b80e998fd38706447 Dirty VLCC](../../images/657c1c0b80e998fd38706447_dirty vlcc.png)
 
 > **Figure 1: 657c1c0b80e998fd38706447 Dirty VLCC**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/tanker-week-50-2023) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/657c1c0b80e998fd38706447_dirty vlcc.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/tanker-week-50-2023) | [Local Asset](../../../../../../corpus/07-signal/images/657c1c0b80e998fd38706447_dirty%20vlcc.png)
 
 In the second week of December, the outlook for the crude oil freight market is subdued despite earlier expectations of stronger momentum. In the clean segment, however, there are encouraging signs that sentiment is brightening, particularly on the LR2 MEG-Japan route.
 

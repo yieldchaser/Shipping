@@ -56,6 +56,8 @@ For further conference information, please contact the Center for Energy, Marine
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: The Middle East It's More Than Just Oil!](../../../charts/poten/2004/poten_2004-04-02_the-middle-east-its-more-than-just-oil_chart1.png)
-
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2004/poten_2004-04-02_the-middle-east-its-more-than-just-oil_chart1.png)
+> **Chart on PDF page 2: Ex-Arabian Gulf VLCC Fixturs**  
+> Unit: # Fixtures · X-axis: Far East to Europe  
+> Series: 2001, 2002, 2003  
+> *Source: Poten & Partners*  
+> *No image crop of this chart was saved; caption read from the PDF.*

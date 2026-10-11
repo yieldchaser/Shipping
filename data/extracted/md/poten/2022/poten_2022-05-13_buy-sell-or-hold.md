@@ -20,19 +20,20 @@ The oil tanker industry is in a transition period at the same as it is slowly co
 
 While the tanker market experienced a brief rate spike in the second quarter of 2020, the impact of Covid-19, and the oil demand destruction that came with it, has been overwhelmingly negative for both crude oil and product tankers. Freight rates continued to be challenging until the Russian invasion of Ukraine in February of this year. The international sanctions on Russian crude oil and petroleum products have created significant dislocations and moved tanker rates higher. Crude tanker rates have weakened again, but product tanker rates continue to be strong. However, the world is facing rising interest rates, an ongoing geopolitical crisis and a Chinese slowdown due to their aggressive response to domestic Covid- 19 outbreaks. Escalating energy and food prices can easily trigger a global recession, which will hurt oil demand.
 
-The above situation does not provide tanker owners with a strong incentive to invest in their business. But the uncertain rate environment is not the only problem. After a long period of low (or negative) earnings, companies are also faced with high newbuilding prices and long delivery times. This is the result of booming newbuilding orders for containership and LNG carriers ([Chart 1](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2022/poten_2022-05-13_buy-sell-or-hold_chart1.png)). These higher value vessels have filled up the orderbook for the next few years. The price of a standard VLCC has increased to $115 million ([Chart 2](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2022/poten_2022-05-13_buy-sell-or-hold_chart2.png)). This is the highest VLCC newbuilding price since 2009, the tail end of the shipping "super cycle". Even if an owner is willing and able to pay this price, he will not be able to take delivery until 2025. The situation for the smaller tankers in not much better.
+The above situation does not provide tanker owners with a strong incentive to invest in their business. But the uncertain rate environment is not the only problem. After a long period of low (or negative) earnings, companies are also faced with high newbuilding prices and long delivery times. This is the result of booming newbuilding orders for containership and LNG carriers ([Chart 1](../../../charts/poten/2022/poten_2022-05-13_buy-sell-or-hold_chart1.png)). These higher value vessels have filled up the orderbook for the next few years. The price of a standard VLCC has increased to $115 million ([Chart 2](../../../charts/poten/2022/poten_2022-05-13_buy-sell-or-hold_chart2.png)). This is the highest VLCC newbuilding price since 2009, the tail end of the shipping "super cycle". Even if an owner is willing and able to pay this price, he will not be able to take delivery until 2025. The situation for the smaller tankers in not much better.
 
 > **Exhibit 1: Buy Sell or Hold (Chart 1)**  
 > *Source: Poten & Partners*  
-> **Interactive Data & Source:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2022/poten_2022-05-13_buy-sell-or-hold_chart1.png)
+> **Interactive Data & Source:** [Local Asset (200 DPI PNG)](../../../charts/poten/2022/poten_2022-05-13_buy-sell-or-hold_chart1.png)
 
-![Exhibit 1: Buy Sell or Hold](../../../charts/poten/2022/poten_2022-05-13_buy-sell-or-hold_chart1.png)
+![Exhibit 1: World Orderbook](../../../charts/poten/2022/poten_2022-05-13_buy-sell-or-hold_chart1.png)
 
-> **Exhibit 2: Buy Sell or Hold (Chart 2)**  
-> *Source: Poten & Partners*  
-> **Interactive Data & Source:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2022/poten_2022-05-13_buy-sell-or-hold_chart2.png)
+> **Exhibit 1: World Orderbook**  
+> Unit: Gross Tons · X-axis: 2014 to 2022ytd  
+> Series: Oil/Chem Tankers, Bulkers, LNG Tankers, LPG Tankers, Container Ships, Other  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2022/poten_2022-05-13_buy-sell-or-hold_chart1.png)
 
-![Exhibit 2: Buy Sell or Hold](../../../charts/poten/2022/poten_2022-05-13_buy-sell-or-hold_chart2.png)
+![Exhibit 2: Tanker Newbuilding Prices](../../../charts/poten/2022/poten_2022-05-13_buy-sell-or-hold_chart2.png)
 
 At $115 million for a standard VLCC, an owner needs on average about $33,500 per day for the next 20 years after delivery to break even on the investment. Given where earnings have been in recent years, this requires quite a leap of faith. Especially considering that tanker shipping is no longer considered a "growth" industry. The world is increasingly concerned about climate change and wants to move away from fossil fuels and toward renewable energy. However, even if the tanker industry has limited growth potential, existing vessels only have a limited life span and replacement tonnage will still be needed. That
 

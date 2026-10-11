@@ -23,10 +23,10 @@ source_file: "corpus/03-breakwave/insights/2022/2022-12-14_risk-sentiment-booste
 
 A risk-on rally across markets saw commodities surge higher. A lower-than-expected inflation print sparked the rally, while a weaker USD added support. Ongoing easing of virus controls in China boosted sentiment.
 
-![1670967288044](assets/2022-12-14_risk-sentiment-boosted-by-lower-than-expected-inflation_img_1670967288044_14384ee7749c.png)
+![1670967288044](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-12-14_risk-sentiment-boosted-by-lower-than-expected-inflation_img_1670967288044_14384ee7749c.png)
 
 > **Figure 1: 1670967288044**  
-> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-12-14_risk-sentiment-boosted-by-lower-than-expected-inflation_img_1670967288044_14384ee7749c.png)
+> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-12-14_risk-sentiment-boosted-by-lower-than-expected-inflation_img_1670967288044_14384ee7749c.png)
 
 **Gold**rallied after slower-than-expected rise in inflation sparked hopes that the Fed will start reducing the pace of interest rate hikes. The data suggest it will slow at this week’s FOMC meeting. The inflation data say Treasuries surged, with the 10-year yield falling 10bp. A weaker USD also boosted investor appetite for the precious metal.
 

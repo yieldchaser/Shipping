@@ -64,10 +64,6 @@ Jan Feb Mar Apr May Jun Aug Sep Oct Nov Dec 2006 - Gasoline Stocks 2005 - Gasoli
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: What Lazy Days of Summer?](../../../charts/poten/2006/poten_2006-08-04_what-lazy-days-of-summer_chart1.png)
-
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2006/poten_2006-08-04_what-lazy-days-of-summer_chart1.png)
-
 ![Exhibit 2: What Lazy Days of Summer?](../../../charts/poten/2006/poten_2006-08-04_what-lazy-days-of-summer_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2006/poten_2006-08-04_what-lazy-days-of-summer_chart2.png)
+> **Interactive Asset:** [Local Asset (200 DPI PNG)](../../../charts/poten/2006/poten_2006-08-04_what-lazy-days-of-summer_chart2.png)

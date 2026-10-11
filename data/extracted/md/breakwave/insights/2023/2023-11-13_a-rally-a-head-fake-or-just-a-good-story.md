@@ -53,40 +53,40 @@ After a bad September and October, we are seeing the first signs of an equity ra
 
 Yes, we can’t have a sustainable bull market while there’s Quantitative Tightening, to be sure, but that should now be just around the corner.
 
-![Market Chart 1](assets/2023-11-13_a-rally-a-head-fake-or-just-a-good-story_img_image00828529_ba89b6ac0773.jpg)
+![Market Chart 1](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-11-13_a-rally-a-head-fake-or-just-a-good-story_img_image00828529_ba89b6ac0773.jpg)
 
 > **Figure 1: Market Chart 1**  
-> **Interactive Data & Source:** [Bloomberg News](https://www.bloomberg.com/news/articles/2023-11-10/us-s-credit-rating-outlook-changed-to-negative-by-moody-s) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-11-13_a-rally-a-head-fake-or-just-a-good-story_img_image00828529_ba89b6ac0773.jpg)
+> **Interactive Data & Source:** [Bloomberg News](https://www.bloomberg.com/news/articles/2023-11-10/us-s-credit-rating-outlook-changed-to-negative-by-moody-s) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-11-13_a-rally-a-head-fake-or-just-a-good-story_img_image00828529_ba89b6ac0773.jpg)
 
 All that is valid, and we have argued as such. But, we have also warned against reading too much into the sustainability of a Santa rally. Let’s look under the numbers for a while. Since the beginning of November, US equities have rallied 5.3%. But this rally is mostly down to the dominance of a few tech companies. The S&P 500 Top Ten actually rallied 8.5%. An equally weighted S&P 500 has only gained 3.6%. And bonds, which should be favoured if investors really feel that rate cuts are coming, have only gained 1.7%.
 
-![Market Chart 2](assets/2023-11-13_a-rally-a-head-fake-or-just-a-good-story_img_image00928529_9c63a2e64cf2.jpg)
+![Market Chart 2](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-11-13_a-rally-a-head-fake-or-just-a-good-story_img_image00928529_9c63a2e64cf2.jpg)
 
 > **Figure 2: Market Chart 2**  
-> **Interactive Data & Source:** [Bloomberg News](https://www.bloomberg.com/news/articles/2023-11-10/us-s-credit-rating-outlook-changed-to-negative-by-moody-s) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-11-13_a-rally-a-head-fake-or-just-a-good-story_img_image00928529_9c63a2e64cf2.jpg)
+> **Interactive Data & Source:** [Bloomberg News](https://www.bloomberg.com/news/articles/2023-11-10/us-s-credit-rating-outlook-changed-to-negative-by-moody-s) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-11-13_a-rally-a-head-fake-or-just-a-good-story_img_image00928529_9c63a2e64cf2.jpg)
 
 Interesting fun fact. The heavy outperformance of a few stocks against the rest of the market has been closely linked to financial stress.
 
-![Market Chart 3](assets/2023-11-13_a-rally-a-head-fake-or-just-a-good-story_img_image01028529_1b4a556962fe.jpg)
+![Market Chart 3](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-11-13_a-rally-a-head-fake-or-just-a-good-story_img_image01028529_1b4a556962fe.jpg)
 
 > **Figure 3: Market Chart 3**  
-> **Interactive Data & Source:** [Bloomberg News](https://www.bloomberg.com/news/articles/2023-11-10/us-s-credit-rating-outlook-changed-to-negative-by-moody-s) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-11-13_a-rally-a-head-fake-or-just-a-good-story_img_image01028529_1b4a556962fe.jpg)
+> **Interactive Data & Source:** [Bloomberg News](https://www.bloomberg.com/news/articles/2023-11-10/us-s-credit-rating-outlook-changed-to-negative-by-moody-s) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-11-13_a-rally-a-head-fake-or-just-a-good-story_img_image01028529_1b4a556962fe.jpg)
 
 Central bankers Jay Powell and Christine Lagarde last week, reminded us that it is not written in stone that their next moves will be rate cuts. This caused some stress amongst traders by the end of the week.
 
 From an economic perspective, things aren’t that great either. On the face of it, the global economy is doing much better than anticipated. About half of economists now predict a recession, versus roughly one year ago.
 
-![Market Chart 4](assets/2023-11-13_a-rally-a-head-fake-or-just-a-good-story_img_image01228429_e5d0df17e22e.jpg)
+![Market Chart 4](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-11-13_a-rally-a-head-fake-or-just-a-good-story_img_image01228429_e5d0df17e22e.jpg)
 
 > **Figure 4: Market Chart 4**  
-> **Interactive Data & Source:** [Bloomberg News](https://www.bloomberg.com/news/articles/2023-11-10/us-s-credit-rating-outlook-changed-to-negative-by-moody-s) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-11-13_a-rally-a-head-fake-or-just-a-good-story_img_image01228429_e5d0df17e22e.jpg)
+> **Interactive Data & Source:** [Bloomberg News](https://www.bloomberg.com/news/articles/2023-11-10/us-s-credit-rating-outlook-changed-to-negative-by-moody-s) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-11-13_a-rally-a-head-fake-or-just-a-good-story_img_image01228429_e5d0df17e22e.jpg)
 
 But to achieve this, governments ramped up borrowing. Especially the US government, which is now running a 6.7% deficit and will be making interest payments of 4.4% by the end of 2024, nearly double its projected real GDP.
 
-![Market Chart 5](assets/2023-11-13_a-rally-a-head-fake-or-just-a-good-story_img_image01328329_4d79027d892d.jpg)
+![Market Chart 5](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-11-13_a-rally-a-head-fake-or-just-a-good-story_img_image01328329_4d79027d892d.jpg)
 
 > **Figure 5: Market Chart 5**  
-> **Interactive Data & Source:** [Bloomberg News](https://www.bloomberg.com/news/articles/2023-11-10/us-s-credit-rating-outlook-changed-to-negative-by-moody-s) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-11-13_a-rally-a-head-fake-or-just-a-good-story_img_image01328329_4d79027d892d.jpg)
+> **Interactive Data & Source:** [Bloomberg News](https://www.bloomberg.com/news/articles/2023-11-10/us-s-credit-rating-outlook-changed-to-negative-by-moody-s) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-11-13_a-rally-a-head-fake-or-just-a-good-story_img_image01328329_4d79027d892d.jpg)
 
 It’s no wonder that Moody’s followed Fitch last week,[downgrading](https://www.bloomberg.com/news/articles/2023-11-10/us-s-credit-rating-outlook-changed-to-negative-by-moody-s)US debt.
 
@@ -94,10 +94,10 @@ And there’s the geopolitical risk premium to think about. Getting an above-zer
 
 If you are looking at UK GDP, then look beyond the 0.2% rise headline. September’s uptick was mostly due to a rise in demand for professional services and healthcare. Consumption, the sustainable driver of GDP, was subdued.
 
-![Market Chart 6](assets/2023-11-13_a-rally-a-head-fake-or-just-a-good-story_img_image01428229_1abe16e90123.jpg)
+![Market Chart 6](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-11-13_a-rally-a-head-fake-or-just-a-good-story_img_image01428229_1abe16e90123.jpg)
 
 > **Figure 6: Market Chart 6**  
-> **Interactive Data & Source:** [Bloomberg News](https://www.bloomberg.com/news/articles/2023-11-13/goldman-sachs-morgan-stanley-diverge-on-fed-rate-cut-forecasts?sref=EiJDOcNb) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-11-13_a-rally-a-head-fake-or-just-a-good-story_img_image01428229_1abe16e90123.jpg)
+> **Interactive Data & Source:** [Bloomberg News](https://www.bloomberg.com/news/articles/2023-11-13/goldman-sachs-morgan-stanley-diverge-on-fed-rate-cut-forecasts?sref=EiJDOcNb) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-11-13_a-rally-a-head-fake-or-just-a-good-story_img_image01428229_1abe16e90123.jpg)
 
 *Source: ONS.*
 

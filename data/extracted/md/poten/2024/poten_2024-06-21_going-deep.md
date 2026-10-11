@@ -36,10 +36,17 @@ It will likely take several more years until the first deepwater terminal is ope
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: Going Deep](../../../charts/poten/2024/poten_2024-06-21_going-deep_chart1.png)
+![Exhibit 1: US Gulf Crude Oil Exports by Vessel Class](../../../charts/poten/2024/poten_2024-06-21_going-deep_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2024/poten_2024-06-21_going-deep_chart1.png)
+> **Exhibit 1: US Gulf Crude Oil Exports by Vessel Class**  
+> Unit: Kb/d · X-axis: Jan-20 to May-24  
+> Series: VLCC, Suezmax / LR3, Aframax / LR2, Panamax / LR1, Other  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2024/poten_2024-06-21_going-deep_chart1.png)
 
-![Exhibit 2: Going Deep](../../../charts/poten/2024/poten_2024-06-21_going-deep_chart2.png)
+![Exhibit 2: US Gulf VLCC Exports by Destination](../../../charts/poten/2024/poten_2024-06-21_going-deep_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2024/poten_2024-06-21_going-deep_chart2.png)
+> **Exhibit 2: US Gulf VLCC Exports by Destination**  
+> Unit: Kb/d · X-axis: Jan-20 to May-24  
+> Series: South Korea, China, India, Taiwan, Netherlands, Singapore, Thailand, Germany, Other  
+> *Source: Vortexa*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2024/poten_2024-06-21_going-deep_chart2.png)

@@ -32,24 +32,24 @@ Iron ore market fundamentals continued to soften as subdued Chinese steel demand
 
 ● Iron ore flows from Australia increased by 5% y/y, but flows from Brazil have fallen by over 11%.
 
-![Στιγμιότυπο Οθόνης 2026 09 29 140401](assets/2026-09-29_steel-demand-softens-as-iron-ore-flows-face-growing-headwinds_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_101827220fd9.png)
+![Στιγμιότυπο Οθόνης 2026 09 29 140401](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-09-29_steel-demand-softens-as-iron-ore-flows-face-growing-headwinds_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_101827220fd9.png)
 
 > **Figure 1: Στιγμιότυπο Οθόνης 2026 09 29 140401**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-09-29_steel-demand-softens-as-iron-ore-flows-face-growing-headwinds_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_101827220fd9.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-09-29_steel-demand-softens-as-iron-ore-flows-face-growing-headwinds_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_101827220fd9.png)
 
 Global seaborne bulk iron ore flows reached 153.5 Mt in August 2026, flat on the same period a year earlier but up 5% m/m. Seaborne iron ore arrivals in China in August fell 7.7%, despite flows leaving for China increasing slightly by 0.2%. Iron ore flows from Guinea reached a record high of 3.1 Mt in August, at a time when loadings in Guinea typically soften by up to 20% due to heavy rainfall. This is in stark contrast to Brazil, which experienced an 11% decline in iron ore exports, driven by softer demand from European steelmakers. The largest iron ore producer, Australia, saw exports increase by 5%, driven by robust loading volumes and steady Asian demand.
 
-![Στιγμιότυπο Οθόνης 2026 09 29 140505](assets/2026-09-29_steel-demand-softens-as-iron-ore-flows-face-growing-headwinds_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_29ea716b5a6e.png)
+![Στιγμιότυπο Οθόνης 2026 09 29 140505](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-09-29_steel-demand-softens-as-iron-ore-flows-face-growing-headwinds_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_29ea716b5a6e.png)
 
 > **Figure 2: Στιγμιότυπο Οθόνης 2026 09 29 140505**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-09-29_steel-demand-softens-as-iron-ore-flows-face-growing-headwinds_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_29ea716b5a6e.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-09-29_steel-demand-softens-as-iron-ore-flows-face-growing-headwinds_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_29ea716b5a6e.png)
 
 The outlook for Q4 2026 may be less positive. The EU’s new steel import regime introduces a “melt and pour” requirement, improving traceability to the steel’s original production country and limiting the scope for quota circumvention through third-country processing or transhipment. This could reduce the appetite of steel processors in key intermediary markets such as Türkiye, Egypt and Vietnam, weakening demand for semi-finished and finished steel from China and, in turn, reducing Chinese steel export flows. Combined with already high iron ore port stocks in China, expectations of weaker steel demand point to softer iron ore flows in 2026 Q4. While iron ore shipments from Simandou in Guinea are likely to remain strong, and potentially increase further, the resulting pullback is likely to come primarily from Brazil, where exports are already showing signs of weakness.
 
-![Στιγμιότυπο Οθόνης 2026 09 29 140555](assets/2026-09-29_steel-demand-softens-as-iron-ore-flows-face-growing-headwinds_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_d5ee9a8fb93b.png)
+![Στιγμιότυπο Οθόνης 2026 09 29 140555](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-09-29_steel-demand-softens-as-iron-ore-flows-face-growing-headwinds_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_d5ee9a8fb93b.png)
 
 > **Figure 3: Στιγμιότυπο Οθόνης 2026 09 29 140555**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-09-29_steel-demand-softens-as-iron-ore-flows-face-growing-headwinds_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_d5ee9a8fb93b.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-09-29_steel-demand-softens-as-iron-ore-flows-face-growing-headwinds_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_d5ee9a8fb93b.png)
 
 ### Guinea to China the Likely Positive in 2026 Q4
 

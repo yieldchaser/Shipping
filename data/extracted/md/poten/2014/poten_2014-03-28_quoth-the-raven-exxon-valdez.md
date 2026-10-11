@@ -36,6 +36,10 @@ On a micro level, the Prince William Sound can be now considered as one of the s
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: Quoth the Raven: Exxon Valdez](../../../charts/poten/2014/poten_2014-03-28_quoth-the-raven-exxon-valdez_chart1.png)
+![Exhibit 1: Worldwide Oil Consumption kbd / Oil Spills by Incidence & Volume](../../../charts/poten/2014/poten_2014-03-28_quoth-the-raven-exxon-valdez_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2014/poten_2014-03-28_quoth-the-raven-exxon-valdez_chart1.png)
+> **Exhibit 1: Worldwide Oil Consumption kbd / Oil Spills by Incidence & Volume**  
+> Unit: kbd · X-axis: 1960 to 2010  
+> Series: Worldwide Oil Consumption, Oil Spills by Incidence & Volume  
+> *Source: ITOPF, BP Statistics*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2014/poten_2014-03-28_quoth-the-raven-exxon-valdez_chart1.png)

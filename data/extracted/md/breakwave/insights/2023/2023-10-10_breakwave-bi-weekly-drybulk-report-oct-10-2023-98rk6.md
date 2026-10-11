@@ -19,10 +19,10 @@ source_file: "corpus/03-breakwave/insights/2023/2023-10-10_breakwave-bi-weekly-d
 
 ---
 
-![Dbreporttop](assets/2023-10-10_breakwave-bi-weekly-drybulk-report-oct-10-2023-98rk6_img_dbreporttop_cc50cb61bd6f.png)
+![Dbreporttop](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-10-10_breakwave-bi-weekly-drybulk-report-oct-10-2023-98rk6_img_dbreporttop_cc50cb61bd6f.png)
 
 > **Figure 1: Dbreporttop**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-10-10_breakwave-bi-weekly-drybulk-report-oct-10-2023-98rk6_img_dbreporttop_cc50cb61bd6f.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-10-10_breakwave-bi-weekly-drybulk-report-oct-10-2023-98rk6_img_dbreporttop_cc50cb61bd6f.png)
 
 **• Capesize spot rates reach 16-month highs amid a tighter Atlantic market –**Once again, dry bulk volatility comes back with a vengeance as supply/demand balance in the Atlantic is now tilted towards stronger rates for the foreseeable future. Such a shift comes despite an unfavorable macro picture, with China continuing to suffer from weak steel demand (although we believe this is about to change as discussed below). Freight futures clearly demonstrate such a pessimism, with a sharply backwardated curve for the next several months against a Capesize spot market that is pushing towards the 30,000 mark. As we head into the busiest time of the year for Capesizes, we see two scenarios that can either propel rates to higher levels or lead to the much-anticipated correction in the near term. On the positive side, if Brazil can export more iron ore than expected for November/December (i.e., reaching the high end of Vale’s guidance), even if such product is of inferior quality, then the need for spot Capesize ships should come as a surprise to a market that is already tight due to increasing bauxite exports out of West Africa. On the other hand, if the decision is to stick to the “quality over quantity” mantra, then we believe the need for additional spot ships will be limited and Atlantic spot rates will gradually decline. The futures curve currently prices in the second scenario, which we, however, still believe is quite aggressive given that historically fourth quarter rates tend to hold better in such intermittent corrections compared to other periods in the year. Whatever the outcome might be, our view remains that the fourth quarter will be the strongest period of the year, as historical patterns are now back in a market that was significantly distorted in the past few years due to the pandemic.
 
@@ -30,14 +30,14 @@ source_file: "corpus/03-breakwave/insights/2023/2023-10-10_breakwave-bi-weekly-d
 
 **• Dry bulk focus shifts back to fundamentals –**Following a period of high uncertainty and significant disruptions across the commodity spectrum, the gradual normalization of trade is shifting the market’s attention back to the traditional demand and supply dynamics that have shaped dry bulk profitability for decades. As effective fleet supply growth for the next few years looks marginal, demand will be the main determinant of spot freight rates with China returning back to the driver’s seat as the dominant force of bulk imports and thus shipping demand.
 
-![Dbreportchart](assets/2023-10-10_breakwave-bi-weekly-drybulk-report-oct-10-2023-98rk6_img_dbreportchart_fe9810718bdb.png)
+![Dbreportchart](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-10-10_breakwave-bi-weekly-drybulk-report-oct-10-2023-98rk6_img_dbreportchart_fe9810718bdb.png)
 
 > **Figure 2: Dbreportchart**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-10-10_breakwave-bi-weekly-drybulk-report-oct-10-2023-98rk6_img_dbreportchart_fe9810718bdb.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-10-10_breakwave-bi-weekly-drybulk-report-oct-10-2023-98rk6_img_dbreportchart_fe9810718bdb.png)
 
-![Dbreportbottom](assets/2023-10-10_breakwave-bi-weekly-drybulk-report-oct-10-2023-98rk6_img_dbreportbottom_1d749fcd63dd.png)
+![Dbreportbottom](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-10-10_breakwave-bi-weekly-drybulk-report-oct-10-2023-98rk6_img_dbreportbottom_1d749fcd63dd.png)
 
 > **Figure 3: Dbreportbottom**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-10-10_breakwave-bi-weekly-drybulk-report-oct-10-2023-98rk6_img_dbreportbottom_1d749fcd63dd.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-10-10_breakwave-bi-weekly-drybulk-report-oct-10-2023-98rk6_img_dbreportbottom_1d749fcd63dd.png)
 
 ### Subscribe:

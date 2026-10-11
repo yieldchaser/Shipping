@@ -30,10 +30,14 @@ Nobody knows what will happen in 2024. Despite the forecasts, it could be a rela
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: Danger Ahead](../../../charts/poten/2024/poten_2024-06-07_danger-ahead_chart1.png)
+![Exhibit 1: Hurricane Impact on Refining and Offshore Crude Production](../../../charts/poten/2024/poten_2024-06-07_danger-ahead_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2024/poten_2024-06-07_danger-ahead_chart1.png)
+> **Exhibit 1: Hurricane Impact on Refining and Offshore Crude Production**  
+> Unit: Kb/d · X-axis: Jan-2005 to Jan-2024  
+> Series: Refining: PADD3 Crude Throughput, Offshore Crude Production  
+> *Source: EIA*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2024/poten_2024-06-07_danger-ahead_chart1.png)
 
 ![Exhibit 2: Danger Ahead](../../../charts/poten/2024/poten_2024-06-07_danger-ahead_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2024/poten_2024-06-07_danger-ahead_chart2.png)
+> **Interactive Asset:** [Local Asset (200 DPI PNG)](../../../charts/poten/2024/poten_2024-06-07_danger-ahead_chart2.png)

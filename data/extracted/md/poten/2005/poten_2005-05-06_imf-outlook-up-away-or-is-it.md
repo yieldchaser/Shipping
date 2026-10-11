@@ -46,6 +46,12 @@ There is little evidence that points to a near-term turning point in economic ac
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: IMF Outlook Up & Away Or Is It?](../../../charts/poten/2005/poten_2005-05-06_imf-outlook-up-away-or-is-it_chart1.png)
+> **Chart on PDF page 1: IMF Outlook United States and Europe**  
+> Unit: % Growth · X-axis: 2003 to 2006  
+> Series: U.S. 5/05, U.S. 9/04, Europe 5/05, Europe 9/04  
+> *No image crop of this chart was saved; caption read from the PDF.*
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2005/poten_2005-05-06_imf-outlook-up-away-or-is-it_chart1.png)
+> **Chart on PDF page 2: IMF Outlook China and India**  
+> Unit: % Growth · X-axis: 2003 to 2006  
+> Series: China 5/05, China 9/04, India 5/05, India 9/04  
+> *No image crop of this chart was saved; caption read from the PDF.*

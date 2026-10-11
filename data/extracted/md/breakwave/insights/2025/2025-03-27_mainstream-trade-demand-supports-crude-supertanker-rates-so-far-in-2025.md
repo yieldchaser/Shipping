@@ -43,10 +43,10 @@ We expect these replacement flows, to continue, but to a lesser extent, as crude
 
 ➔ If US tariffs on Canada and Mexico materialise, this will also likely send crude from the Americas further afield and increasing tonne-mile demand
 
-![Στιγμιότυπο Οθόνης 2025 03 26 214717](assets/2025-03-27_mainstream-trade-demand-supports-crude-supertanker-rates-so-far-in-2025_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_bb88c788cf55.png)
+![Στιγμιότυπο Οθόνης 2025 03 26 214717](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-03-27_mainstream-trade-demand-supports-crude-supertanker-rates-so-far-in-2025_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_bb88c788cf55.png)
 
 > **Figure 1: Στιγμιότυπο Οθόνης 2025 03 26 214717**  
-> **Interactive Data & Source:** [Vortexa](https://www.vortexa.com//oil-gas-data-traders-analysts-data-scientists?gclid=Cj0KCQjw8_qRBhCXARIsAE2AtRZKOvMnbilZ_6_91d7huSFFy71pWLrnPwGwOHVzXsmsG-1a1mZnQw8aAt89EALw_wcB&hsa_acc=1782073842&hsa_ad=548425387665&hsa_cam=14746637662&hsa_grp=125038601902&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_src=g&hsa_tgt=dsa-1431852288425&hsa_ver=3&utm_campaign=%5BCD%5D%20-%20DSA%20-%20EMEA&utm_medium=cpc&utm_medium=ppc&utm_source=google&utm_source=adwords&utm_term=) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-03-27_mainstream-trade-demand-supports-crude-supertanker-rates-so-far-in-2025_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_bb88c788cf55.png)
+> **Interactive Data & Source:** [Vortexa](https://www.vortexa.com//oil-gas-data-traders-analysts-data-scientists?gclid=Cj0KCQjw8_qRBhCXARIsAE2AtRZKOvMnbilZ_6_91d7huSFFy71pWLrnPwGwOHVzXsmsG-1a1mZnQw8aAt89EALw_wcB&hsa_acc=1782073842&hsa_ad=548425387665&hsa_cam=14746637662&hsa_grp=125038601902&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_src=g&hsa_tgt=dsa-1431852288425&hsa_ver=3&utm_campaign=%5BCD%5D%20-%20DSA%20-%20EMEA&utm_medium=cpc&utm_medium=ppc&utm_source=google&utm_source=adwords&utm_term=) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-03-27_mainstream-trade-demand-supports-crude-supertanker-rates-so-far-in-2025_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_bb88c788cf55.png)
 
 ## Clean – East of Suez: More Newbuild VLCC and Suezmax Entering Clean Trade, with the Majority of Non-Newbuilds Returning to Dirty​
 
@@ -64,10 +64,10 @@ A number of newbuild Suezmax and VLCC are carrying clean products from East to W
 
 ➔ High likelihood newbuilds perform their maiden voyage in clean trade before transitioning to dirty, as clean voyages from East to West helps the owners to reposition vessels and minimizing ballast legs
 
-![Στιγμιότυπο Οθόνης 2025 03 26 214729](assets/2025-03-27_mainstream-trade-demand-supports-crude-supertanker-rates-so-far-in-2025_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_d2dc931b3c95.png)
+![Στιγμιότυπο Οθόνης 2025 03 26 214729](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-03-27_mainstream-trade-demand-supports-crude-supertanker-rates-so-far-in-2025_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_d2dc931b3c95.png)
 
 > **Figure 2: Στιγμιότυπο Οθόνης 2025 03 26 214729**  
-> **Interactive Data & Source:** [Vortexa](https://www.vortexa.com//oil-gas-data-traders-analysts-data-scientists?gclid=Cj0KCQjw8_qRBhCXARIsAE2AtRZKOvMnbilZ_6_91d7huSFFy71pWLrnPwGwOHVzXsmsG-1a1mZnQw8aAt89EALw_wcB&hsa_acc=1782073842&hsa_ad=548425387665&hsa_cam=14746637662&hsa_grp=125038601902&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_src=g&hsa_tgt=dsa-1431852288425&hsa_ver=3&utm_campaign=%5BCD%5D%20-%20DSA%20-%20EMEA&utm_medium=cpc&utm_medium=ppc&utm_source=google&utm_source=adwords&utm_term=) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-03-27_mainstream-trade-demand-supports-crude-supertanker-rates-so-far-in-2025_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_d2dc931b3c95.png)
+> **Interactive Data & Source:** [Vortexa](https://www.vortexa.com//oil-gas-data-traders-analysts-data-scientists?gclid=Cj0KCQjw8_qRBhCXARIsAE2AtRZKOvMnbilZ_6_91d7huSFFy71pWLrnPwGwOHVzXsmsG-1a1mZnQw8aAt89EALw_wcB&hsa_acc=1782073842&hsa_ad=548425387665&hsa_cam=14746637662&hsa_grp=125038601902&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_src=g&hsa_tgt=dsa-1431852288425&hsa_ver=3&utm_campaign=%5BCD%5D%20-%20DSA%20-%20EMEA&utm_medium=cpc&utm_medium=ppc&utm_source=google&utm_source=adwords&utm_term=) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-03-27_mainstream-trade-demand-supports-crude-supertanker-rates-so-far-in-2025_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_d2dc931b3c95.png)
 
 ## Dirty – West of Suez: Lower Trade Demand in the Atlantic Takes Its Toll on Us Gulf Coast Departures, Hurting Aframax Rates
 
@@ -85,10 +85,10 @@ Softer demand from Europe driven by refinery maintenance season was a key factor
 
 Going forward, uncertainty around tariffs and their implications for domestic refining markets, will impact whether USGC departures will further decrease if more crude is pulled away from export markets due to the need for domestic consumption
 
-![Στιγμιότυπο Οθόνης 2025 03 26 214745](assets/2025-03-27_mainstream-trade-demand-supports-crude-supertanker-rates-so-far-in-2025_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_e39c3df9f9b3.png)
+![Στιγμιότυπο Οθόνης 2025 03 26 214745](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-03-27_mainstream-trade-demand-supports-crude-supertanker-rates-so-far-in-2025_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_e39c3df9f9b3.png)
 
 > **Figure 3: Στιγμιότυπο Οθόνης 2025 03 26 214745**  
-> **Interactive Data & Source:** [Vortexa](https://www.vortexa.com//oil-gas-data-traders-analysts-data-scientists?gclid=Cj0KCQjw8_qRBhCXARIsAE2AtRZKOvMnbilZ_6_91d7huSFFy71pWLrnPwGwOHVzXsmsG-1a1mZnQw8aAt89EALw_wcB&hsa_acc=1782073842&hsa_ad=548425387665&hsa_cam=14746637662&hsa_grp=125038601902&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_src=g&hsa_tgt=dsa-1431852288425&hsa_ver=3&utm_campaign=%5BCD%5D%20-%20DSA%20-%20EMEA&utm_medium=cpc&utm_medium=ppc&utm_source=google&utm_source=adwords&utm_term=) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-03-27_mainstream-trade-demand-supports-crude-supertanker-rates-so-far-in-2025_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_e39c3df9f9b3.png)
+> **Interactive Data & Source:** [Vortexa](https://www.vortexa.com//oil-gas-data-traders-analysts-data-scientists?gclid=Cj0KCQjw8_qRBhCXARIsAE2AtRZKOvMnbilZ_6_91d7huSFFy71pWLrnPwGwOHVzXsmsG-1a1mZnQw8aAt89EALw_wcB&hsa_acc=1782073842&hsa_ad=548425387665&hsa_cam=14746637662&hsa_grp=125038601902&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_src=g&hsa_tgt=dsa-1431852288425&hsa_ver=3&utm_campaign=%5BCD%5D%20-%20DSA%20-%20EMEA&utm_medium=cpc&utm_medium=ppc&utm_source=google&utm_source=adwords&utm_term=) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-03-27_mainstream-trade-demand-supports-crude-supertanker-rates-so-far-in-2025_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_e39c3df9f9b3.png)
 
 ## Clean – West of Suez: Dangote Refinery Ramping Up Production, Increasing MR Utilisation Out of Waf
 
@@ -106,10 +106,10 @@ Moving forward, a planned maintenance for RFCC (gasoline making) unit of 204 kbd
 
 ➔ This could provide a short-term support for longer-haul MR utilisation in the Atlantic Basin
 
-![Στιγμιότυπο Οθόνης 2025 03 26 214756](assets/2025-03-27_mainstream-trade-demand-supports-crude-supertanker-rates-so-far-in-2025_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_15d0f1d5d366.png)
+![Στιγμιότυπο Οθόνης 2025 03 26 214756](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-03-27_mainstream-trade-demand-supports-crude-supertanker-rates-so-far-in-2025_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_15d0f1d5d366.png)
 
 > **Figure 4: Στιγμιότυπο Οθόνης 2025 03 26 214756**  
-> **Interactive Data & Source:** [Vortexa](https://www.vortexa.com//oil-gas-data-traders-analysts-data-scientists?gclid=Cj0KCQjw8_qRBhCXARIsAE2AtRZKOvMnbilZ_6_91d7huSFFy71pWLrnPwGwOHVzXsmsG-1a1mZnQw8aAt89EALw_wcB&hsa_acc=1782073842&hsa_ad=548425387665&hsa_cam=14746637662&hsa_grp=125038601902&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_src=g&hsa_tgt=dsa-1431852288425&hsa_ver=3&utm_campaign=%5BCD%5D%20-%20DSA%20-%20EMEA&utm_medium=cpc&utm_medium=ppc&utm_source=google&utm_source=adwords&utm_term=) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-03-27_mainstream-trade-demand-supports-crude-supertanker-rates-so-far-in-2025_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_15d0f1d5d366.png)
+> **Interactive Data & Source:** [Vortexa](https://www.vortexa.com//oil-gas-data-traders-analysts-data-scientists?gclid=Cj0KCQjw8_qRBhCXARIsAE2AtRZKOvMnbilZ_6_91d7huSFFy71pWLrnPwGwOHVzXsmsG-1a1mZnQw8aAt89EALw_wcB&hsa_acc=1782073842&hsa_ad=548425387665&hsa_cam=14746637662&hsa_grp=125038601902&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_src=g&hsa_tgt=dsa-1431852288425&hsa_ver=3&utm_campaign=%5BCD%5D%20-%20DSA%20-%20EMEA&utm_medium=cpc&utm_medium=ppc&utm_source=google&utm_source=adwords&utm_term=) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-03-27_mainstream-trade-demand-supports-crude-supertanker-rates-so-far-in-2025_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_15d0f1d5d366.png)
 
 Data Source:[Vortexa](https://www.vortexa.com//oil-gas-data-traders-analysts-data-scientists?gclid=Cj0KCQjw8_qRBhCXARIsAE2AtRZKOvMnbilZ_6_91d7huSFFy71pWLrnPwGwOHVzXsmsG-1a1mZnQw8aAt89EALw_wcB&hsa_acc=1782073842&hsa_ad=548425387665&hsa_cam=14746637662&hsa_grp=125038601902&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_src=g&hsa_tgt=dsa-1431852288425&hsa_ver=3&utm_campaign=%5BCD%5D%20-%20DSA%20-%20EMEA&utm_medium=cpc&utm_medium=ppc&utm_source=google&utm_source=adwords&utm_term=)
 

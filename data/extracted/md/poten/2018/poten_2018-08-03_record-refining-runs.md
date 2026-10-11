@@ -26,10 +26,18 @@ Projected deliveries for the remainder of this year and 2019 are less than in pr
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: Record Refining Runs](../../../charts/poten/2018/poten_2018-08-03_record-refining-runs_chart1.png)
+![Exhibit 1: U.S. Gross Refinery Inputs (4 Week Average)](../../../charts/poten/2018/poten_2018-08-03_record-refining-runs_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2018/poten_2018-08-03_record-refining-runs_chart1.png)
+> **Exhibit 1: U.S. Gross Refinery Inputs (4 Week Average)**  
+> Unit: Kb/d · X-axis: 01 to 51  
+> Series: 2018, 2017, 2016, 2015, 2014  
+> *Source: EIA*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2018/poten_2018-08-03_record-refining-runs_chart1.png)
 
-![Exhibit 2: Record Refining Runs](../../../charts/poten/2018/poten_2018-08-03_record-refining-runs_chart2.png)
+![Exhibit 2: Spot Rate: MR USG - UKC (38 Kt)](../../../charts/poten/2018/poten_2018-08-03_record-refining-runs_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2018/poten_2018-08-03_record-refining-runs_chart2.png)
+> **Exhibit 2: Spot Rate: MR USG - UKC (38 Kt)**  
+> Unit: US$/day · X-axis: 1 to 51  
+> Series: 2018, 2017, 2016, 2015, 2014  
+> *Source: Poten*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2018/poten_2018-08-03_record-refining-runs_chart2.png)

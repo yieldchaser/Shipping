@@ -34,8 +34,12 @@ The SARS epidemic in 2003 pushed oil prices down nearly 20% and created signific
 
 ![Exhibit 1: Coronavirus Concerns](../../../charts/poten/2019/poten_2019-01-23_coronavirus-concerns_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2019/poten_2019-01-23_coronavirus-concerns_chart1.png)
+> **Interactive Asset:** [Local Asset (200 DPI PNG)](../../../charts/poten/2019/poten_2019-01-23_coronavirus-concerns_chart1.png)
 
-![Exhibit 2: Coronavirus Concerns](../../../charts/poten/2019/poten_2019-01-23_coronavirus-concerns_chart2.png)
+![Exhibit 2: China: Oil Production & Imports](../../../charts/poten/2019/poten_2019-01-23_coronavirus-concerns_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2019/poten_2019-01-23_coronavirus-concerns_chart2.png)
+> **Exhibit 2: China: Oil Production & Imports**  
+> Unit: Mb/d · X-axis: 2000 to 2020  
+> Series: Production, Imports  
+> *Source: IEA*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2019/poten_2019-01-23_coronavirus-concerns_chart2.png)

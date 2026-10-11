@@ -62,10 +62,10 @@ Cargo order volumes for coal due for discharge in India remained stable from Jun
 
 In absolute terms, the lower Indian demand has seen volumes from Indonesia decreasing the most. Still, the island nation has broadly maintained its market share in the Indian seaborne coal trade. On the other hand, South Africa and, to a lesser extent, Mozambique have seen volumes above the average for the past two years, while the US and Australia have lost market share.
 
-![Στιγμιότυπο Οθόνης 2024 10 23 154653](assets/2024-10-23_weaker-demand-and-higher-chinese-production_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_2e9a9020bb1f.png)
+![Στιγμιότυπο Οθόνης 2024 10 23 154653](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-10-23_weaker-demand-and-higher-chinese-production_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_2e9a9020bb1f.png)
 
 > **Figure 1: Στιγμιότυπο Οθόνης 2024 10 23 154653**  
-> **Interactive Data & Source:** [Shipfix](https://shipfix.com/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-10-23_weaker-demand-and-higher-chinese-production_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_2e9a9020bb1f.png)
+> **Interactive Data & Source:** [Shipfix](https://shipfix.com/) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-10-23_weaker-demand-and-higher-chinese-production_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_2e9a9020bb1f.png)
 
 Data Source:[Shipfix](https://shipfix.com/)
 

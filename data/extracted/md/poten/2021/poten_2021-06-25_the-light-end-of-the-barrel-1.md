@@ -26,18 +26,24 @@ Asia is the key market for condensates and many Asian refiners equipped with con
 
 Total OPEC production of "Other Liquids", which mainly consists of condensate, declined from 5.43 Mb/d in December 2019 to 4.98 Mb/d in July 2020, before recovering to 5.26 Mb/d in June 2021. In their latest Short Term Energy Outlook, the EIA forecasts that the output of Other Liquids will grow to 5.6 Mb/d in 2022. This is good news for Asian refiners, provided sanctions on Iran are lifted.
 
-Using Poten's proprietary fixture database, we did an analysis of what type vessels shipped cargoes of condensates during 2020/2021. The results show that condensate is typically shipped on small to medium sized oil tankers. Most shipments are done on Aframaxes and Panamaxes, while Suezmaxes and VLCCs are relatively rarely used (see [Chart 2](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2021/poten_2021-06-25_the-light-end-of-the-barrel-1_chart2.png)). While there are no special requirements for the transportation of condensates, it is more flammable and explosive than normal crude oil, making it a little more tricky to transport. In 2018, the 2007 built Iranian Suezmax Sanchi collided with a Chinese bulk carrier in the East China Sea. The collision caused a massive explosion on the Sanchi, which was carrying a cargo of condensate.
+Using Poten's proprietary fixture database, we did an analysis of what type vessels shipped cargoes of condensates during 2020/2021. The results show that condensate is typically shipped on small to medium sized oil tankers. Most shipments are done on Aframaxes and Panamaxes, while Suezmaxes and VLCCs are relatively rarely used (see [Chart 2](../../../charts/poten/2021/poten_2021-06-25_the-light-end-of-the-barrel-1_chart2.png)). While there are no special requirements for the transportation of condensates, it is more flammable and explosive than normal crude oil, making it a little more tricky to transport. In 2018, the 2007 built Iranian Suezmax Sanchi collided with a Chinese bulk carrier in the East China Sea. The collision caused a massive explosion on the Sanchi, which was carrying a cargo of condensate.
 
-> **Exhibit 2: The Light End Of The Barrel 1 (Chart 2)**  
+> **Exhibit 2: 2020 / 2021 Condensate Spot Fixtures By Vessel Class**  
+> Unit: % · X-axis: Vessel Class  
+> Series: Handymax, Small, Suezmax, Panamax, Aframax  
 > *Source: Poten & Partners*  
-> **Interactive Data & Source:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2021/poten_2021-06-25_the-light-end-of-the-barrel-1_chart2.png)
+> [Chart image (200 DPI PNG)](../../../charts/poten/2021/poten_2021-06-25_the-light-end-of-the-barrel-1_chart2.png)
 
-![Exhibit 2: The Light End Of The Barrel 1](../../../charts/poten/2021/poten_2021-06-25_the-light-end-of-the-barrel-1_chart2.png)
+![Exhibit 2: 2020 / 2021 Condensate Spot Fixtures By Vessel Class](../../../charts/poten/2021/poten_2021-06-25_the-light-end-of-the-barrel-1_chart2.png)
 
 Replacing condensate barrels from the Atlantic with volumes from Iran will not, by itself, have a positive impact on ton-miles. However, increased demand due to a global post-Covid recovery and expected growth in the petrochemical industry will lead to higher transportation volumes.
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: The Light End Of The Barrel 1](../../../charts/poten/2021/poten_2021-06-25_the-light-end-of-the-barrel-1_chart1.png)
+![Exhibit 1: OPEC: Other Liquids Production](../../../charts/poten/2021/poten_2021-06-25_the-light-end-of-the-barrel-1_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2021/poten_2021-06-25_the-light-end-of-the-barrel-1_chart1.png)
+> **Exhibit 1: OPEC: Other Liquids Production**  
+> Unit: Mb/d · X-axis: Jan-17 to Oct-22  
+> Series: OPEC: Other Liquids Production  
+> *Source: DOE Energy Information Administration*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2021/poten_2021-06-25_the-light-end-of-the-barrel-1_chart1.png)

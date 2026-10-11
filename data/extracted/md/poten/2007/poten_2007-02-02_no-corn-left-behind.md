@@ -42,6 +42,14 @@ For either scenario, US imports of crude oil will likely continue to grow as dom
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: No Corn Left Behind](../../../charts/poten/2007/poten_2007-02-02_no-corn-left-behind_chart1.png)
+> **Chart on PDF page 1: Untitled chart**  
+> Unit: Thousand Barrels Per Day · X-axis: 2006 to 2017  
+> Series: Mandated Ethanol Content, Proposed Ethanol Content  
+> *Source: Poten & Partners*  
+> *No image crop of this chart was saved; caption read from the PDF.*
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2007/poten_2007-02-02_no-corn-left-behind_chart1.png)
+> **Chart on PDF page 3: US Gasoline Supply Expected Hydrocarbon Content**  
+> Unit: Million Barrels Per Day · X-axis: 2000 to 2017  
+> Series: US Gasoline Supply, Expected Hydrocarbon Content  
+> *Source: Poten & Partners*  
+> *No image crop of this chart was saved; caption read from the PDF.*

@@ -20,11 +20,11 @@ source_file: "corpus/03-breakwave/insights/2026/2026-09-15_japans-dry-bulk-shipb
 
 ---
 
-![Byeirini Diamantara&dimitris Roumeliotis](assets/2026-09-15_japans-dry-bulk-shipbuilding-market_img_unsplash-image-vz9wkid03cs_74e705f9d177.jpg)
+![Byeirini Diamantara&dimitris Roumeliotis](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-09-15_japans-dry-bulk-shipbuilding-market_img_unsplash-image-vz9wkid03cs_74e705f9d177.jpg)
 
 > **Figure 1: Byeirini Diamantara&dimitris Roumeliotis**  
 > *ByEirini Diamantara&Dimitris Roumeliotis*  
-> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/in/eirini-diamantara-58b269105/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-09-15_japans-dry-bulk-shipbuilding-market_img_unsplash-image-vz9wkid03cs_74e705f9d177.jpg)
+> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/in/eirini-diamantara-58b269105/) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-09-15_japans-dry-bulk-shipbuilding-market_img_unsplash-image-vz9wkid03cs_74e705f9d177.jpg)
 
 Japan’s dry bulk shipbuilding market is dominated by a relatively small group of established builders, but the balance between historical fleet presence and current newbuilding activity varies considerably across vessel segments. Looking first at the active fleet, NSY is by far the largest Japanese dry bulk builder, with 1,299 vessels currently trading, representing 36.6% of the Japanese-built fleet. Tsuneishi follows with 686 vessels, or 19.3%, while Oshima ranks third with 423 vessels and an 11.9% share. Namura and Shin Kurushima account for a further 10.0% and 7.8%, respectively. Together, these names form the core of Japan’s dry bulk construction base and underline how concentrated the country’s shipbuilding expertise remains around a relatively limited number of major groups.
 

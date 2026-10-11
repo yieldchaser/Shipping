@@ -60,6 +60,14 @@ While demand for crude oil and economic growth are all good things, the price im
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: Balancing Act](../../../charts/poten/2006/poten_2006-08-25_balancing-act_chart1.png)
+> **Chart on PDF page 1: Untitled chart**  
+> Unit: % | $/bbl · X-axis: 2001 to 2007  
+> Series: Oil Prices, U.S. Change in GDP  
+> *Source: NYMEX/EIA/Poten & Partners*  
+> *No image crop of this chart was saved; caption read from the PDF.*
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2006/poten_2006-08-25_balancing-act_chart1.png)
+> **Chart on PDF page 2: Untitled chart**  
+> Unit: (000 bbl) | (Million Vehicles) · X-axis: Jan to Jul  
+> Series: Auto Sales - 2006, Auto Sales - 2005, Gasoline Demand - 2005, Gasoline Demand - 2006  
+> *Source: Poten & Partners*  
+> *No image crop of this chart was saved; caption read from the PDF.*

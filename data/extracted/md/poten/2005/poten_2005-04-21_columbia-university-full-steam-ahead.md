@@ -34,6 +34,3 @@ The Center has stepped in and filled a clear need within the industry. For furth
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: Columbia University: Full Steam Ahead!](../../../charts/poten/2005/poten_2005-04-21_columbia-university-full-steam-ahead_chart1.png)
-
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2005/poten_2005-04-21_columbia-university-full-steam-ahead_chart1.png)

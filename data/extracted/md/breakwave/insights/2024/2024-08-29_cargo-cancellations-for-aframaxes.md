@@ -27,15 +27,15 @@ Aframaxes face cargo cancellations as Libyan crude production halts once again
 - Libya’s largest export terminal, Es Sider, started cutting oil shipments on Tuesday. Waha Oil Co., which supplies Es Sider, was expected to gradually reduce exports. Sirte Oil Co. also announced plans to reduce output. Other ports, for instance Mellitah, remained active with vessels fixed ‘on subs’ yesterday.
 - Libyan crude exports move predominantly on Aframaxes, making up roughly a quarter of all Mediterranean Aframax liftings (roughly 45/month). The loss of Libyan cargoes is already negatively impacting Aframax freight rates, off another $1,200/day yesterday for cross Med voyages.
 
-![Market Chart 1](assets/2024-08-29_cargo-cancellations-for-aframaxes_img_image0_f2c897676f0c.png)
+![Market Chart 1](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-08-29_cargo-cancellations-for-aframaxes_img_image0_f2c897676f0c.png)
 
 > **Figure 1: Market Chart 1**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-08-29_cargo-cancellations-for-aframaxes_img_image0_f2c897676f0c.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-08-29_cargo-cancellations-for-aframaxes_img_image0_f2c897676f0c.png)
 
-![Market Chart 2](assets/2024-08-29_cargo-cancellations-for-aframaxes_img_image1_b8a661fd8911.png)
+![Market Chart 2](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-08-29_cargo-cancellations-for-aframaxes_img_image1_b8a661fd8911.png)
 
 > **Figure 2: Market Chart 2**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-08-29_cargo-cancellations-for-aframaxes_img_image1_b8a661fd8911.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-08-29_cargo-cancellations-for-aframaxes_img_image1_b8a661fd8911.png)
 
 - It is unclear how long the Libyan crude outage will last, but previous (recent) production restrictions have lasted anything from a few months (1st half 2022) to 5 years (2013-2017). Two recent cessations (Jan 2011 – April 2012 and/lasted around a Dec 2019-Jan 2021) lasted a little over a year.
 - Libya's seaborne exports amounted to 1.02m b/d in July, with most of the exports flowing to the Mediterranean and Northwest Europe, primarily on Aframaxes and some Suezmaxes. As of August 27th, Aframax rates out of the Mediterranean have softened, with the MED/Singapore route trading at $3.6 million, down from $4.1 million. Aframaxes that were originally loading Libyan crude will likely find alternative employment in other Mediterranean ports or the Black Sea.

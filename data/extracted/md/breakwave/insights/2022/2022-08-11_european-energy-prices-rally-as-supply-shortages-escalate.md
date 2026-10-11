@@ -24,10 +24,10 @@ source_file: "corpus/03-breakwave/insights/2022/2022-08-11_european-energy-price
 
 A lower-than-expected inflation print saw a risk-on tone across markets push commodity markets higher. This was supported by signs of improving demand for some commodities.
 
-![241](assets/2022-08-11_european-energy-prices-rally-as-supply-shortages-escalate_img_241_0ae3e8e92f61.png)
+![241](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-08-11_european-energy-prices-rally-as-supply-shortages-escalate_img_241_0ae3e8e92f61.png)
 
 > **Figure 1: 241**  
-> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-08-11_european-energy-prices-rally-as-supply-shortages-escalate_img_241_0ae3e8e92f61.png)
+> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-08-11_european-energy-prices-rally-as-supply-shortages-escalate_img_241_0ae3e8e92f61.png)
 
 **Crude oil**gained amidst a risk-on tone across markets as signs of cooling inflation and a weaker USD boosted sentiment. The slower-than-expected pace of inflation cooled investor expectations of future rate hikes and eased concerns of weaker economic growth. This was supported by signs of better demand. Energy Information Administration data showed that US gasoline demand improved after inventories sank. US gasoline inventories fell 4,978kbbl last week, which helped push gasoline supplied (a proxy for demand) up 582kb/d to 9.12mb/d. This was slightly tempered by a strong gain in US crude oil inventories, which rose 5,457kbbl last week. Much of that gain was driven by a rise in domestic output, which hit a near two-year high of 12/2mb/d. Global supply concerns also eased, with Russia’s pipeline operator Transneft resuming flows on the Druzhba pipeline toward Ukraine.
 

@@ -29,23 +29,23 @@ Fifty-two weeks later, the gauge of activity in the dry bulk spectrum, Baltic Dr
 
 Whilst the capricious Capesizes are still looking for any indication for a large liquidity injection or a generous fiscal stimulus from Beijing, the rest of the pack reported significant gains during August. In particular, the workhorses of the grain trades trended strongly upwards in the last four weeks, ending today at BPI82 TC levels of $13,041 daily or up $4,987 month-on-month. In sync, Supramaxes lay at $9,993 daily, reporting $1,715 gains on a monthly basis. The small and flexible Handies balanced at $9,122 daily on this Friday’s closing, or some 26.8 percent higher month-on-month. In the FFA spectrum, the latest mini rally in the spot market values pushed the forward curves higher as well. Indicatively, the front end of the Panamax curve stands $2,000 above where it was a month ago. Similarly but less intensely, the other curves have also tilted to the upside.
 
-![1 (2)](assets/2023-08-28_xfrc0v93jwq2i3rqxivul00zi1d62y_img_128229_6c3fccc65efb.png)
+![1 (2)](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-08-28_xfrc0v93jwq2i3rqxivul00zi1d62y_img_128229_6c3fccc65efb.png)
 
 > **Figure 1: 1 (2)**  
-> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-08-28_xfrc0v93jwq2i3rqxivul00zi1d62y_img_128229_6c3fccc65efb.png)
+> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-08-28_xfrc0v93jwq2i3rqxivul00zi1d62y_img_128229_6c3fccc65efb.png)
 
 In spite of the improved market sentiment of late, concerns are still running high about the slowdown of China’s property sector. From January to July, the investment in real estate development was 6,771.7 billion yuan, a year-on-year decrease of 8.5 percent. Among them, the investment in residential buildings was 5,148.5 billion yuan, down by 7.6 percent. From January to July, floor space of commercial buildings sold was 665.63 million square meters, a yearon-year decrease of 6.5 percent, of which the floor space of residential buildings sold decreased by 4.3 percent. The sales of commercial buildings were 7,045.0 billion yuan, down by 1.5 percent, of which the sales of residential buildings increased by 0.7 percent. Against this backdrop, China’s real estate climate index landed at multi-month lows of 93.78 points.
 
-![1 (3)](assets/2023-08-28_xfrc0v93jwq2i3rqxivul00zi1d62y_img_128329_48646592d04d.png)
+![1 (3)](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-08-28_xfrc0v93jwq2i3rqxivul00zi1d62y_img_128329_48646592d04d.png)
 
 > **Figure 2: 1 (3)**  
-> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-08-28_xfrc0v93jwq2i3rqxivul00zi1d62y_img_128329_48646592d04d.png)
+> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-08-28_xfrc0v93jwq2i3rqxivul00zi1d62y_img_128329_48646592d04d.png)
 
 With the world’s three largest manufacturers, China, EU and the US being all in manufacturing contraction, China’s property sector not getting into its stride, and the full rate rise impact to come, the latest uptick of Baltic indices was not only heartening but also imperative.
 
-![1 (4)](assets/2023-08-28_xfrc0v93jwq2i3rqxivul00zi1d62y_img_128429_4de3a3b2aadf.png)
+![1 (4)](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-08-28_xfrc0v93jwq2i3rqxivul00zi1d62y_img_128429_4de3a3b2aadf.png)
 
 > **Figure 3: 1 (4)**  
-> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-08-28_xfrc0v93jwq2i3rqxivul00zi1d62y_img_128429_4de3a3b2aadf.png)
+> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-08-28_xfrc0v93jwq2i3rqxivul00zi1d62y_img_128429_4de3a3b2aadf.png)
 
 Data source:[Doric](https://www.doric.gr/)

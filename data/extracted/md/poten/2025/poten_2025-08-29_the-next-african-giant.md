@@ -28,8 +28,12 @@ Just like most other countries in West Africa (with the exception of Nigeria wit
 
 ![Exhibit 1: The Next African Giant](../../../charts/poten/2025/poten_2025-08-29_the-next-african-giant_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2025/poten_2025-08-29_the-next-african-giant_chart1.png)
+> **Interactive Asset:** [Local Asset (200 DPI PNG)](../../../charts/poten/2025/poten_2025-08-29_the-next-african-giant_chart1.png)
 
-![Exhibit 2: The Next African Giant](../../../charts/poten/2025/poten_2025-08-29_the-next-african-giant_chart2.png)
+![Exhibit 2: West Africa Crude Oil Export By Origin Country](../../../charts/poten/2025/poten_2025-08-29_the-next-african-giant_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2025/poten_2025-08-29_the-next-african-giant_chart2.png)
+> **Exhibit 2: West Africa Crude Oil Export By Origin Country**  
+> Unit: Kb/d · X-axis: Jan-17 to May-25  
+> Series: Nigeria, Angola, Republic of the Congo, Gabon, Ghana, Equatorial Guinea, Chad, Cameroon, Other  
+> *Source: Poten & Partners, Vortexa*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2025/poten_2025-08-29_the-next-african-giant_chart2.png)

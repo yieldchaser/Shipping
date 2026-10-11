@@ -40,10 +40,10 @@ Global trade rebounded in 2024 but softened toward year-end. Merchandise imports
 
 At this juncture of heightened uncertainty, where geopolitical developments appear to exert a greater influence than economic fundamentals, the Baltic Dry Index has recovered from its first-quarter lows. These earlier troughs were largely a result of a double blow – rising uncertainty and unfavorable seasonal patterns. With the latter no longer in play, the spot market has gained momentum, particularly in the geared segments, reflecting a more supportive trade environment.
 
-![Screenshot 2025 03 24 09.40.59](assets/2025-03-24_the-global-economy-in-a-nutshell_img_screenshot2025-03-24094059_886f74e33f0d.png)
+![Screenshot 2025 03 24 09.40.59](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-03-24_the-global-economy-in-a-nutshell_img_screenshot2025-03-24094059_886f74e33f0d.png)
 
 > **Figure 1: Screenshot 2025 03 24 09.40.59**  
-> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-03-24_the-global-economy-in-a-nutshell_img_screenshot2025-03-24094059_886f74e33f0d.png)
+> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-03-24_the-global-economy-in-a-nutshell_img_screenshot2025-03-24094059_886f74e33f0d.png)
 
 Data source:[Doric](https://www.doric.gr/)
 

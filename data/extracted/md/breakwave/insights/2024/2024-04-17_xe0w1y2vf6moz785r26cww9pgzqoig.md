@@ -22,15 +22,15 @@ source_file: "corpus/03-breakwave/insights/2024/2024-04-17_xe0w1y2vf6moz785r26cw
 
 - The predominant narrative revolved around the Houthi assaults on more than 80 commercial vessels in the Red Sea since the attacks began. A growing number of tankers opted to bypass the Red Sea altogether and take the significantly longer route around the Cape of Good Hope. This added approximately 30 days to a round voyage from the Middle East to Europe, according to AXS. The number of weekly laden tanker (>25k dwt) transits via the Red Sea (Bab-el-Mandeb) more than halved from mid-October to mid-March, from 49 to 23. By the end of the quarter, tanker traffic passing through the Red Sea was down around 64% compared to the period prior to the attacks (see chart). Extended sailing time in laden and ballast led to a shortage of available tonnage.
 
-![Red Sea Diversions](assets/2024-04-17_xe0w1y2vf6moz785r26cww9pgzqoig_img_image001_a3c91049ddeb.png)
+![Red Sea Diversions](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-04-17_xe0w1y2vf6moz785r26cww9pgzqoig_img_image001_a3c91049ddeb.png)
 
 > **Figure 1: Red Sea Diversions**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-04-17_xe0w1y2vf6moz785r26cww9pgzqoig_img_image001_a3c91049ddeb.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-04-17_xe0w1y2vf6moz785r26cww9pgzqoig_img_image001_a3c91049ddeb.png)
 
-![Market Chart 2](assets/2024-04-17_xe0w1y2vf6moz785r26cww9pgzqoig_img_image002_9e8aff9a37ae.png)
+![Market Chart 2](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-04-17_xe0w1y2vf6moz785r26cww9pgzqoig_img_image002_9e8aff9a37ae.png)
 
 > **Figure 2: Market Chart 2**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-04-17_xe0w1y2vf6moz785r26cww9pgzqoig_img_image002_9e8aff9a37ae.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-04-17_xe0w1y2vf6moz785r26cww9pgzqoig_img_image002_9e8aff9a37ae.png)
 
 **Ukraine drone attacks**- Russia faced persistent drone attacks on its refineries during the quarter. Major refinery Surgut Kirshi (420k b/d) was repeatedly attacked in March, with Rosneft’s Ryazan (343k b/d) also hit on March 13. Despite this, Russia's CPP exports in Q1 reached the highest level since Q1-23, at 1.8m b/d.
 
@@ -38,33 +38,33 @@ source_file: "corpus/03-breakwave/insights/2024/2024-04-17_xe0w1y2vf6moz785r26cw
 
 **Dangote refinery starts production**- Dangote’s 650k b/d Lekki refinery in Nigeria commenced operations after years of delays. The refinery is expected to hit full production by year-end. Thus far, the refinery has taken 5 VLCC and one Suezmax cargo from the USG, as well as 17 Suezmax leading in Nigeria. We count 14m bbls loading in March alone, up from 4m bbls in Feb. Discharging delays have been significantly above average. We have seen little obvious reduction on Nigeria’s crude seaborne exports beyond Nigeria, which had been feared. Although Dangote is targeting domestic refined product demand, the refinery has so far exported 10 CPP cargoes, many to destinations beyond West Africa, according to Vortexa data.
 
-![Cpp Exports From Lekki (Dangote Refinery) Nigeria](assets/2024-04-17_xe0w1y2vf6moz785r26cww9pgzqoig_img_image2_8a4963bc33ca.png)
+![Cpp Exports From Lekki (Dangote Refinery) Nigeria](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-04-17_xe0w1y2vf6moz785r26cww9pgzqoig_img_image2_8a4963bc33ca.png)
 
 > **Figure 3: Cpp Exports From Lekki (Dangote Refinery) Nigeria**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-04-17_xe0w1y2vf6moz785r26cww9pgzqoig_img_image2_8a4963bc33ca.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-04-17_xe0w1y2vf6moz785r26cww9pgzqoig_img_image2_8a4963bc33ca.png)
 
 **TMX readies for Canadian crude flows**- Charterers purchased crude cargoes to load at Canada's West Coast via the Trans Mountain Pipeline expansion project, which is expected to start liftings this quarter (Q2-24).
 
 - Oman’s new Duqm refinery reached full capacity during the first quarter, leading to a 41% increase in CPP exports from Oman, compared to Q1-23, reaching 556k b/d.
 
-![Duqm Hits Full Capacity](assets/2024-04-17_xe0w1y2vf6moz785r26cww9pgzqoig_img_image3_e5e2aa895a3e.png)
+![Duqm Hits Full Capacity](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-04-17_xe0w1y2vf6moz785r26cww9pgzqoig_img_image3_e5e2aa895a3e.png)
 
 > **Figure 4: Duqm Hits Full Capacity**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-04-17_xe0w1y2vf6moz785r26cww9pgzqoig_img_image3_e5e2aa895a3e.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-04-17_xe0w1y2vf6moz785r26cww9pgzqoig_img_image3_e5e2aa895a3e.png)
 
-![Market Chart 5](assets/2024-04-17_xe0w1y2vf6moz785r26cww9pgzqoig_img_image003_ca91c6861030.png)
+![Market Chart 5](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-04-17_xe0w1y2vf6moz785r26cww9pgzqoig_img_image003_ca91c6861030.png)
 
 > **Figure 5: Market Chart 5**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-04-17_xe0w1y2vf6moz785r26cww9pgzqoig_img_image003_ca91c6861030.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-04-17_xe0w1y2vf6moz785r26cww9pgzqoig_img_image003_ca91c6861030.png)
 
 **Global oil demand**– Oil demand is expected to have been steady in the first quarter of the year at just over 102m b/d, up 2% YoY, but down slightly on the previous quarter. A rise in bunker fuel demand resulting from higher steaming speeds to make up for time lost during red sea diversions, mostly involving containerships – was cited as a supporting feature of oil demand.
 
 - Tanker demand increased sharply during the quarter on the back of tanker diversions to avoid Houthi attacks in the Red Sea, and to a lesser extent the unsold barrels on board recently-sanctioned tankers. Crude markets were least affected – as not much crude oil was moving through the Suez Canal. Crude oil ‘on the water’ has risen 4% since the Houthi attacks. The volume of CPP and DPP on the water rose by 16% and 15% respectively, as Russian eastbound cargoes avoided the Red Sea, and Mid East/India middle distillates moved the long way round the Cape to Europe.
 
-![Tanker Demand](assets/2024-04-17_xe0w1y2vf6moz785r26cww9pgzqoig_img_image5_59fb69805d07.png)
+![Tanker Demand](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-04-17_xe0w1y2vf6moz785r26cww9pgzqoig_img_image5_59fb69805d07.png)
 
 > **Figure 6: Tanker Demand**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-04-17_xe0w1y2vf6moz785r26cww9pgzqoig_img_image5_59fb69805d07.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-04-17_xe0w1y2vf6moz785r26cww9pgzqoig_img_image5_59fb69805d07.png)
 
 **Oil prices**- Brent climbed steadily throughout Q1, reaching $86/bbl (currently at $90.8/bbl) by the end of the quarter. Brent was up 13% QoQ. OPEC+ members confirmed they would continue output cuts of 2.2m b/d at least until end of Q2-24.
 
@@ -94,10 +94,10 @@ Average earnings for**LR2**tankers jumped at the start of February, peaking at 1
 
 **MRs**had a reasonably consistent quarter. Average sector earnings picked up from 35k $/day at the start of January to 51k $/day by the end, and then hovered around 50k $/day for the remainder of the quarter. MR clean tankers trading in the West outperformed clean MRs trading in the East by approximately 23k $/day. This is down from an average premium of 29k $/day in 2023.
 
-![Market Chart 7](assets/2024-04-17_xe0w1y2vf6moz785r26cww9pgzqoig_img_image004_2781a5a86408.png)
+![Market Chart 7](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-04-17_xe0w1y2vf6moz785r26cww9pgzqoig_img_image004_2781a5a86408.png)
 
 > **Figure 7: Market Chart 7**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-04-17_xe0w1y2vf6moz785r26cww9pgzqoig_img_image004_2781a5a86408.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-04-17_xe0w1y2vf6moz785r26cww9pgzqoig_img_image004_2781a5a86408.png)
 
 **Time charter markets**were busy in Q1 2024, particularly for MRs. One year TC rates improved across the board, with the exception of Suezmax rates, which slipped slightly from a very strong start to the year. The biggest improvements were seen by MRs, which saw 1 yr. TC rates lift by 3.5k $/day during the quarter.
 

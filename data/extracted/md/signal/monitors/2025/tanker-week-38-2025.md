@@ -26,11 +26,11 @@ tags:
 
 *Published on 22 September 2025*
 
-![Https://app.signalocean.com/tanker/dynamic/oilflows](../../images/68d12564c570964e7505a144_9ebe9b92.png)
+![Https://app.signalocean.com/tanker/dynamic/oilflows](../../../../../../corpus/07-signal/images/68d12564c570964e7505a144_9ebe9b92.png)
 
 > **Figure 1: Https://app.signalocean.com/tanker/dynamic/oilflows**  
 > *https://app.signalocean.com/tanker/dynamic/oilflows*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/tanker-week-38-2025) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/68d12564c570964e7505a144_9ebe9b92.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/tanker-week-38-2025) | [Local Asset](../../../../../../corpus/07-signal/images/68d12564c570964e7505a144_9ebe9b92.png)
 
 
 ### Baltic Sea Flows Under Pressure
@@ -41,26 +41,26 @@ This week’s focus is on the volatility of dirty oil flows from the Baltic Sea'
 ### Rising Role of Novorossiysk
 
 
-![Rising Role of Novorossiysk](../../images/68d12564c570964e7505a14a_4ff08d83.png)
+![Rising Role of Novorossiysk](../../../../../../corpus/07-signal/images/68d12564c570964e7505a14a_4ff08d83.png)
 
 > **Figure 2: Rising Role of Novorossiysk**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/tanker-week-38-2025) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/68d12564c570964e7505a14a_4ff08d83.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/tanker-week-38-2025) | [Local Asset](../../../../../../corpus/07-signal/images/68d12564c570964e7505a14a_4ff08d83.png)
 
 Black Sea crude flows show a marked reconfiguration of Russia’s export network. Volumes through Novorossiysk appeared to be rising sharply in September, with the 7-day moving average approaching 3 million barrels per day equivalent. The Sheskharis terminal now handles nearly 70% of shipments, while Novorossiysk accounts for a further 25%.
 
 
-![Rising Role of Novorossiysk](../../images/68d12564c570964e7505a14d_471d69a9.png)
+![Rising Role of Novorossiysk](../../../../../../corpus/07-signal/images/68d12564c570964e7505a14d_471d69a9.png)
 
 > **Figure 3: Rising Role of Novorossiysk**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/tanker-week-38-2025) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/68d12564c570964e7505a14d_471d69a9.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/tanker-week-38-2025) | [Local Asset](../../../../../../corpus/07-signal/images/68d12564c570964e7505a14d_471d69a9.png)
 
 India receives the largest share of flows, at 48%, followed by Romania, Turkey, and Italy. This distribution demonstrates Moscow's strategy to maintain market access despite disruptions in the Baltic region.
 
 
-![Rising Role of Novorossiysk](../../images/68d12564c570964e7505a147_34416ec5.png)
+![Rising Role of Novorossiysk](../../../../../../corpus/07-signal/images/68d12564c570964e7505a147_34416ec5.png)
 
 > **Figure 4: Rising Role of Novorossiysk**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/tanker-week-38-2025) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/68d12564c570964e7505a147_34416ec5.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/tanker-week-38-2025) | [Local Asset](../../../../../../corpus/07-signal/images/68d12564c570964e7505a147_34416ec5.png)
 
 Planned September exports from Novorossiysk are now revised upward, with producers such as Novatek redirecting volumes southward after damage at Ust-Luga. These latest adjustments underline the Black Sea’s crucial role for sustaining Russian seaborne exports.
 

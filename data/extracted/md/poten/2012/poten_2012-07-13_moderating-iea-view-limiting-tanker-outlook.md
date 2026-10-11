@@ -62,12 +62,12 @@ In the near term, the current malaise in the VLCC market may be reflecting a pau
 
 ![Exhibit 1: Moderating IEA View Limiting Tanker Outlook](../../../charts/poten/2012/poten_2012-07-13_moderating-iea-view-limiting-tanker-outlook_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2012/poten_2012-07-13_moderating-iea-view-limiting-tanker-outlook_chart1.png)
+> **Interactive Asset:** [Local Asset (200 DPI PNG)](../../../charts/poten/2012/poten_2012-07-13_moderating-iea-view-limiting-tanker-outlook_chart1.png)
 
 ![Exhibit 2: Moderating IEA View Limiting Tanker Outlook](../../../charts/poten/2012/poten_2012-07-13_moderating-iea-view-limiting-tanker-outlook_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2012/poten_2012-07-13_moderating-iea-view-limiting-tanker-outlook_chart2.png)
+> **Interactive Asset:** [Local Asset (200 DPI PNG)](../../../charts/poten/2012/poten_2012-07-13_moderating-iea-view-limiting-tanker-outlook_chart2.png)
 
 ![Exhibit 3: Moderating IEA View Limiting Tanker Outlook](../../../charts/poten/2012/poten_2012-07-13_moderating-iea-view-limiting-tanker-outlook_chart3.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2012/poten_2012-07-13_moderating-iea-view-limiting-tanker-outlook_chart3.png)
+> **Interactive Asset:** [Local Asset (200 DPI PNG)](../../../charts/poten/2012/poten_2012-07-13_moderating-iea-view-limiting-tanker-outlook_chart3.png)

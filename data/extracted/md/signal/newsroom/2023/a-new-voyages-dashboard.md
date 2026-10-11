@@ -34,7 +34,7 @@ While the dashboard is very versatile and can be used in a number of ways, an in
 ![Heading](../../images/63f730e3ea94a15cdc6d3361_newsroom image 1.avif)
 
 > **Figure 1: Heading**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/a-new-voyages-dashboard) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/63f730e3ea94a15cdc6d3361_newsroom image 1.avif)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/a-new-voyages-dashboard) | [Local Asset](../../../../../../corpus/07-signal/images/63f730e3ea94a15cdc6d3361_newsroom%20image%201.avif)
 
 Another interesting case that surfaces is the ability to look into how new trading patterns are created. When looking, for example, at how Aframaxes trading dirty operate after completing a voyage in India, it becomes apparent that while traditionally these vessels would then go on to load in the Arabian Gulf, in recent months, the volume loaded in the Baltic region has almost doubled.
 
@@ -42,7 +42,7 @@ Another interesting case that surfaces is the ability to look into how new tradi
 ![Heading](../../images/63f73157cc1cf45fa69ec66c_newsroom image 2.avif)
 
 > **Figure 2: Heading**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/a-new-voyages-dashboard) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/63f73157cc1cf45fa69ec66c_newsroom image 2.avif)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/a-new-voyages-dashboard) | [Local Asset](../../../../../../corpus/07-signal/images/63f73157cc1cf45fa69ec66c_newsroom%20image%202.avif)
 
 Analyses such as these become possible with the use of the new Voyages dashboard.
 

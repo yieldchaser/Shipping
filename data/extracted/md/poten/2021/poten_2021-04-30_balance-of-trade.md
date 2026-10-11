@@ -18,13 +18,14 @@ charts_count: 2
 
 Historically, the global VLCC trade has been dominated by large volumes of crude oil moving from the Arabian Gulf to Europe, the U.S. Gulf and Asia. The west coast of Latin America and the United States did not generate a lot of VLCC demand. The only regular trade used to be from the AG to the U.S. West Coast, where VLCCs (as well as the occasional ULCC) would deliver crude oil to several refineries in California. It used to be the case that these vessels would then have to ballast back to the AG or go around Cape Horn to pick up a cargo in the Atlantic. The lack of backhaul business made this a relatively unattractive "niche" trade that not every owner would consider. However, this has gradually changed in recent years. In this week's Tanker Opinion we will discuss the recent developments and the potential for further changes in the coming years.
 
-It seems that the number of VLCCs discharging on the Pacific side of the Americas has declined slightly over the years, while the opportunities to load VLCCs in the area have increased over the same period. [Chart 1](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2021/poten_2021-04-30_balance-of-trade_chart1.png) shows that in 2017 and 2018 there were 8-10 VLCCs per month discharging on the Pacific side of the America's, while loadings averaged only 2 per month. This meant that there was very limited backhaul business for the vessels that made the long trip across the Pacific. Since 2019, the market has become more balanced, although Covid-19 made 2020 a highly unusual year and we have to be careful not draw too many conclusions based on that.
+It seems that the number of VLCCs discharging on the Pacific side of the Americas has declined slightly over the years, while the opportunities to load VLCCs in the area have increased over the same period. [Chart 1](../../../charts/poten/2021/poten_2021-04-30_balance-of-trade_chart1.png) shows that in 2017 and 2018 there were 8-10 VLCCs per month discharging on the Pacific side of the America's, while loadings averaged only 2 per month. This meant that there was very limited backhaul business for the vessels that made the long trip across the Pacific. Since 2019, the market has become more balanced, although Covid-19 made 2020 a highly unusual year and we have to be careful not draw too many conclusions based on that.
 
-> **Exhibit 1: Balance of Trade (Chart 1)**  
-> *Source: Poten & Partners*  
-> **Interactive Data & Source:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2021/poten_2021-04-30_balance-of-trade_chart1.png)
+> **Exhibit 1: VLCC Balance Americas, Pacific**  
+> Unit: Number of Voyages · X-axis: Jan-17 to Apr-21  
+> Series: Discharge Americas Pac, Loading C America  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2021/poten_2021-04-30_balance-of-trade_chart1.png)
 
-![Exhibit 1: Balance of Trade](../../../charts/poten/2021/poten_2021-04-30_balance-of-trade_chart1.png)
+![Exhibit 1: VLCC Balance Americas, Pacific](../../../charts/poten/2021/poten_2021-04-30_balance-of-trade_chart1.png)
 
 We expect that VLCC traffic to the U.S. West Coast will recover to some extent in 2021 and beyond. There are various competing dynamics at work on the U.S. West Coast. Historically, West Coast refiners have predominantly run domestic (California) crudes, complemented by ANS grades from Alaska (moved on Jones Act tankers) and some long-haul imports from the Middle East. In recent years, we have seen some diversification of supply sources because both local production and Alaskan output have been declining. This downward trend is expected to continue.
 
@@ -38,6 +39,10 @@ We expect both imports and exports on VLCCs to grow in the coming years, making 
 
 ## Market Exhibits & Charts
 
-![Exhibit 2: Balance of Trade](../../../charts/poten/2021/poten_2021-04-30_balance-of-trade_chart2.png)
+![Exhibit 2: VLCC Export Voyages from C America - Pacific](../../../charts/poten/2021/poten_2021-04-30_balance-of-trade_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2021/poten_2021-04-30_balance-of-trade_chart2.png)
+> **Exhibit 2: VLCC Export Voyages from C America - Pacific**  
+> Unit: Number of Voyages · X-axis: Jan-17 to Jan-21  
+> Series: China, India, Japan, Storage, Other  
+> *Source: Lloyd’s List Intelligence*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2021/poten_2021-04-30_balance-of-trade_chart2.png)

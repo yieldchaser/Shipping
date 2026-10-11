@@ -34,6 +34,8 @@ The recent shift in consumer preferences towards more fuel efficient vehicles is
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: No Longer Kings of the Road](../../../charts/poten/2008/poten_2008-06-06_no-longer-kings-of-the-road_chart1.png)
-
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2008/poten_2008-06-06_no-longer-kings-of-the-road_chart1.png)
+> **Chart on PDF page 1: US Daily Gasoline Consumption**  
+> Unit: thousand bbl/d · X-axis: Jan-00 to Apr-08  
+> Series: US Daily Gasoline Consumption, Trend line  
+> *Source: EIA*  
+> *No image crop of this chart was saved; caption read from the PDF.*

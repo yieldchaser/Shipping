@@ -575,18 +575,6 @@ issue_date,report_week,metric_name,current_value,week_change,prev_value,source_f
 2025-12-22,51,SUEZ TCE,91.465,14705.0,76.76,carriers_2025_W51_WK-51-25-CARRIERS_SP-MARKET-REPORT.pdf
 2025-12-22,51,AFRA TCE,61.978,4305.0,57.673,carriers_2025_W51_WK-51-25-CARRIERS_SP-MARKET-REPORT.pdf
 2025-12-22,51,MR ATLANTIC TC routes,28.002,-4330.0,32.332,carriers_2025_W51_WK-51-25-CARRIERS_SP-MARKET-REPORT.pdf
-2026-09-15,37,Baltic DIRTY Tanker Index,4325.0,1457.0,2868.0,15_09_2026_carriers_sales_purchase_market_report_week_37 (1).pdf
-2026-09-15,37,Baltic CLEAN Tanker Index,1837.0,253.0,1584.0,15_09_2026_carriers_sales_purchase_market_report_week_37 (1).pdf
-2026-09-15,37,VLCC TCE,588.593,19981.0,388.612,15_09_2026_carriers_sales_purchase_market_report_week_37 (1).pdf
-2026-09-15,37,SUEZ TCE,305.44,146726.0,158.714,15_09_2026_carriers_sales_purchase_market_report_week_37 (1).pdf
-2026-09-15,37,AFRA TCE,142.403,75510.0,66.893,15_09_2026_carriers_sales_purchase_market_report_week_37 (1).pdf
-2026-09-15,37,MR ATLANTIC TC routes,21347.0,,,15_09_2026_carriers_sales_purchase_market_report_week_37 (1).pdf
-2026-09-01,35,Baltic DIRTY Tanker Index,2676.0,-285.0,2961.0,15_09_2026_carriers_sales_purchase_market_report_week_37 (2).pdf
-2026-09-01,35,Baltic CLEAN Tanker Index,1412.0,62.0,1350.0,15_09_2026_carriers_sales_purchase_market_report_week_37 (2).pdf
-2026-09-01,35,VLCC TCE,345.206,15846.0,329.36,15_09_2026_carriers_sales_purchase_market_report_week_37 (2).pdf
-2026-09-01,35,SUEZ TCE,128.58,-109933.0,238.513,15_09_2026_carriers_sales_purchase_market_report_week_37 (2).pdf
-2026-09-01,35,AFRA TCE,65.556,-14862.0,80.418,15_09_2026_carriers_sales_purchase_market_report_week_37 (2).pdf
-2026-09-01,35,MR ATLANTIC TC routes,24.295,-1123.0,25.418,15_09_2026_carriers_sales_purchase_market_report_week_37 (2).pdf
 2026-01-05,1,Baltic DIRTY Tanker Index,1188.0,-199.0,1387.0,carriers_2026_W01_WK-1-26-CARRIERS_SP-MARKET-REPORT.pdf
 2026-01-05,1,Baltic CLEAN Tanker Index,746.0,-9.0,755.0,carriers_2026_W01_WK-1-26-CARRIERS_SP-MARKET-REPORT.pdf
 2026-01-05,1,VLCC TCE,38.242,-45640.0,83.882,carriers_2026_W01_WK-1-26-CARRIERS_SP-MARKET-REPORT.pdf
@@ -779,27 +767,9 @@ issue_date,report_week,metric_name,current_value,week_change,prev_value,source_f
 2026-09-14,37,SUEZ TCE,305.44,146726.0,158.714,carriers_2026_W37_WK-37-26-CARRIERS_SP-MARKET-REPORT.pdf
 2026-09-14,37,AFRA TCE,142.403,75510.0,66.893,carriers_2026_W37_WK-37-26-CARRIERS_SP-MARKET-REPORT.pdf
 2026-09-14,37,MR ATLANTIC TC routes,21347.0,,,carriers_2026_W37_WK-37-26-CARRIERS_SP-MARKET-REPORT.pdf
-2026-09-21,38,Baltic DIRTY Tanker Index,5092.0,767.0,4325.0,carriers_2026_W38_WK-38-26-CARRIERS_SP-MARKET-REPORT.pdf
-2026-09-21,38,Baltic CLEAN Tanker Index,1970.0,133.0,1837.0,carriers_2026_W38_WK-38-26-CARRIERS_SP-MARKET-REPORT.pdf
-2026-09-21,38,VLCC TCE,735.349,146756.0,588.593,carriers_2026_W38_WK-38-26-CARRIERS_SP-MARKET-REPORT.pdf
-2026-09-21,38,SUEZ TCE,303.358,-2082.0,305.44,carriers_2026_W38_WK-38-26-CARRIERS_SP-MARKET-REPORT.pdf
-2026-09-21,38,AFRA TCE,180.832,38429.0,142.403,carriers_2026_W38_WK-38-26-CARRIERS_SP-MARKET-REPORT.pdf
-2026-09-21,38,MR ATLANTIC TC routes,28862.0,7515.0,21347.0,carriers_2026_W38_WK-38-26-CARRIERS_SP-MARKET-REPORT.pdf
-2026-09-21,38,Baltic DIRTY Tanker Index,5092.0,767.0,4325.0,carriers_2026_W38_WK-38-26-CARRIERS_SP-MARKET-REPORT.pdf.pdf
-2026-09-21,38,Baltic CLEAN Tanker Index,1970.0,133.0,1837.0,carriers_2026_W38_WK-38-26-CARRIERS_SP-MARKET-REPORT.pdf.pdf
-2026-09-21,38,VLCC TCE,735.349,146756.0,588.593,carriers_2026_W38_WK-38-26-CARRIERS_SP-MARKET-REPORT.pdf.pdf
-2026-09-21,38,SUEZ TCE,303.358,-2082.0,305.44,carriers_2026_W38_WK-38-26-CARRIERS_SP-MARKET-REPORT.pdf.pdf
-2026-09-21,38,AFRA TCE,180.832,38429.0,142.403,carriers_2026_W38_WK-38-26-CARRIERS_SP-MARKET-REPORT.pdf.pdf
-2026-09-21,38,MR ATLANTIC TC routes,28862.0,7515.0,21347.0,carriers_2026_W38_WK-38-26-CARRIERS_SP-MARKET-REPORT.pdf.pdf
 2026-09-28,39,Baltic DIRTY Tanker Index,5432.0,340.0,5092.0,carriers_2026_W39_WK-39-26-CARRIERS_SP-MARKET-REPORT.pdf
 2026-09-28,39,Baltic CLEAN Tanker Index,2226.0,256.0,1970.0,carriers_2026_W39_WK-39-26-CARRIERS_SP-MARKET-REPORT.pdf
 2026-09-28,39,VLCC TCE,695.267,-40082.0,735.349,carriers_2026_W39_WK-39-26-CARRIERS_SP-MARKET-REPORT.pdf
 2026-09-28,39,SUEZ TCE,301.851,-1507.0,303.358,carriers_2026_W39_WK-39-26-CARRIERS_SP-MARKET-REPORT.pdf
 2026-09-28,39,AFRA TCE,242.028,61196.0,180.832,carriers_2026_W39_WK-39-26-CARRIERS_SP-MARKET-REPORT.pdf
 2026-09-28,39,MR ATLANTIC TC routes,57622.0,28760.0,28862.0,carriers_2026_W39_WK-39-26-CARRIERS_SP-MARKET-REPORT.pdf
-2026-09-28,39,Baltic DIRTY Tanker Index,5432.0,340.0,5092.0,general_broker_28_09_2026_carriers_sales_purchase_market_report_week_39.pdf
-2026-09-28,39,Baltic CLEAN Tanker Index,2226.0,256.0,1970.0,general_broker_28_09_2026_carriers_sales_purchase_market_report_week_39.pdf
-2026-09-28,39,VLCC TCE,695.267,-40082.0,735.349,general_broker_28_09_2026_carriers_sales_purchase_market_report_week_39.pdf
-2026-09-28,39,SUEZ TCE,301.851,-1507.0,303.358,general_broker_28_09_2026_carriers_sales_purchase_market_report_week_39.pdf
-2026-09-28,39,AFRA TCE,242.028,61196.0,180.832,general_broker_28_09_2026_carriers_sales_purchase_market_report_week_39.pdf
-2026-09-28,39,MR ATLANTIC TC routes,57622.0,28760.0,28862.0,general_broker_28_09_2026_carriers_sales_purchase_market_report_week_39.pdf

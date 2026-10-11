@@ -60,11 +60,11 @@ US September rough rice futures have seen continued volatility during July, with
 
 Aggregate global cargo order volumes for rice also continue to support elevated rice prices. While a minor increase in July may have contributed to the recent downward pressure on the futures, the volumes remain depressed compared to recent years. Also, large parts of July’s volumes were recorded during one week in the middle of the month. Hence, as the demand for seaborne transportation of rice has retreated since the middle of the month, prices may see a recovery in the near term.
 
-![Data Source:shipfix](assets/2023-08-01_shipfix-global-market-update_img_241_25053baa3135.png)
+![Data Source:shipfix](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-08-01_shipfix-global-market-update_img_241_25053baa3135.png)
 
 > **Figure 1: Data Source:shipfix**  
 > *Data Source:Shipfix*  
-> **Interactive Data & Source:** [Shipfix](https://shipfix.com/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-08-01_shipfix-global-market-update_img_241_25053baa3135.png)
+> **Interactive Data & Source:** [Shipfix](https://shipfix.com/) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-08-01_shipfix-global-market-update_img_241_25053baa3135.png)
 
 ---
 

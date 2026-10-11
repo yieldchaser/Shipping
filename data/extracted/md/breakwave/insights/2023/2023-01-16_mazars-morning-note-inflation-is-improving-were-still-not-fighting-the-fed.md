@@ -39,31 +39,31 @@ Despite the Fed’s persistently hawkish rhetoric, since the last quarter of 202
 
 To be fair, plenty of data support the idea that the Fed should back down. For the last six months, the average monthly US inflation was 0.2%.
 
-![Market Chart 1](assets/2023-01-16_mazars-morning-note-inflation-is-improving-were-still-not-fighting-the-fed_img_image00628529_2b1895091238.jpg)
+![Market Chart 1](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-01-16_mazars-morning-note-inflation-is-improving-were-still-not-fighting-the-fed_img_image00628529_2b1895091238.jpg)
 
 > **Figure 1: Market Chart 1**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-01-16_mazars-morning-note-inflation-is-improving-were-still-not-fighting-the-fed_img_image00628529_2b1895091238.jpg)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-01-16_mazars-morning-note-inflation-is-improving-were-still-not-fighting-the-fed_img_image00628529_2b1895091238.jpg)
 
 If that trend persists, then the US economy should be at 2% inflation by June.
 
-![Market Chart 2](assets/2023-01-16_mazars-morning-note-inflation-is-improving-were-still-not-fighting-the-fed_img_image00728129_4df5b46ad928.jpg)
+![Market Chart 2](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-01-16_mazars-morning-note-inflation-is-improving-were-still-not-fighting-the-fed_img_image00728129_4df5b46ad928.jpg)
 
 > **Figure 2: Market Chart 2**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-01-16_mazars-morning-note-inflation-is-improving-were-still-not-fighting-the-fed_img_image00728129_4df5b46ad928.jpg)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-01-16_mazars-morning-note-inflation-is-improving-were-still-not-fighting-the-fed_img_image00728129_4df5b46ad928.jpg)
 
 One could make an argument that inflation expectations remain anchored. A long running survey of US consumers suggests that while long-term inflation expectations near 3%, they are actually low compared to average 5y inflation.
 
-![Market Chart 3](assets/2023-01-16_mazars-morning-note-inflation-is-improving-were-still-not-fighting-the-fed_img_image00828129_946224317ca3.jpg)
+![Market Chart 3](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-01-16_mazars-morning-note-inflation-is-improving-were-still-not-fighting-the-fed_img_image00828129_946224317ca3.jpg)
 
 > **Figure 3: Market Chart 3**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-01-16_mazars-morning-note-inflation-is-improving-were-still-not-fighting-the-fed_img_image00828129_946224317ca3.jpg)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-01-16_mazars-morning-note-inflation-is-improving-were-still-not-fighting-the-fed_img_image00828129_946224317ca3.jpg)
 
 Or even that all non-services inflation components are dropping fast.
 
-![Market Chart 4](assets/2023-01-16_mazars-morning-note-inflation-is-improving-were-still-not-fighting-the-fed_img_image00928229_f8847fd8972c.jpg)
+![Market Chart 4](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-01-16_mazars-morning-note-inflation-is-improving-were-still-not-fighting-the-fed_img_image00928229_f8847fd8972c.jpg)
 
 > **Figure 4: Market Chart 4**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-01-16_mazars-morning-note-inflation-is-improving-were-still-not-fighting-the-fed_img_image00928229_f8847fd8972c.jpg)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-01-16_mazars-morning-note-inflation-is-improving-were-still-not-fighting-the-fed_img_image00928229_f8847fd8972c.jpg)
 
 Nevertheless, markets focusing on dissecting inflation numbers are ignoring one basic rule. The question is not ‘where is inflation heading’, but rather, where the Fed thinks inflation is heading.
 
@@ -73,10 +73,10 @@ One of the things that I find astounding about market participants is their pers
 
 And presently, the Fed is telling us it remains hawkish. Not only is it pushing interest rates higher, but also it is draining money from the markets.
 
-![Market Chart 5](assets/2023-01-16_mazars-morning-note-inflation-is-improving-were-still-not-fighting-the-fed_img_image01028229_d30084b1cc03.jpg)
+![Market Chart 5](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-01-16_mazars-morning-note-inflation-is-improving-were-still-not-fighting-the-fed_img_image01028229_d30084b1cc03.jpg)
 
 > **Figure 5: Market Chart 5**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-01-16_mazars-morning-note-inflation-is-improving-were-still-not-fighting-the-fed_img_image01028229_d30084b1cc03.jpg)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-01-16_mazars-morning-note-inflation-is-improving-were-still-not-fighting-the-fed_img_image01028229_d30084b1cc03.jpg)
 
 If the Fed was looking to return to Quantitative Easing as a natural state of play, then ignoring inflation coming down would certainly be a mistake. However, if it is looking to reduce the size of its balance sheet and disengage from its role as the underwriter of all market risks (i.e. printing money at the hint of volatility), while preserving its reputation as an inflation fighter, then it is probably on course to do that.
 

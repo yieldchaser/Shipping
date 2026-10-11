@@ -55,9 +55,9 @@ Cargo order volumes for copper discharging globally have recovered strongly in r
 
 Apart from a spike at the end of June, amid higher demand for copper to be transported to China, the average cargo sizes have remained relatively stable in the past few months. The typical cargo of seaborne copper has stayed in the range of 15-20,000 tonnes for much of the year, both for shipments to China and the rest of the world.
 
-![Market Chart 1](assets/2023-07-13_shipfix-global-market-update_img_unnamed-2023-07-13t111041316_411b02db945c.png)
+![Market Chart 1](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-07-13_shipfix-global-market-update_img_unnamed-2023-07-13t111041316_411b02db945c.png)
 
 > **Figure 1: Market Chart 1**  
-> **Interactive Data & Source:** [Shipfix](https://shipfix.com/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-07-13_shipfix-global-market-update_img_unnamed-2023-07-13t111041316_411b02db945c.png)
+> **Interactive Data & Source:** [Shipfix](https://shipfix.com/) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-07-13_shipfix-global-market-update_img_unnamed-2023-07-13t111041316_411b02db945c.png)
 
 Data Source:[Shipfix](https://shipfix.com/)

@@ -38,10 +38,18 @@ The announcement of the Norwegian Shipowners Association is symbolically signifi
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: To Beach or Not to Beach](../../../charts/poten/2015/poten_2015-08-21_to-beach-or-not-to-beach_chart1.png)
+![Exhibit 1: South Asian Scrap Prices versus Chinese Steel Prices](../../../charts/poten/2015/poten_2015-08-21_to-beach-or-not-to-beach_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2015/poten_2015-08-21_to-beach-or-not-to-beach_chart1.png)
+> **Exhibit 1: South Asian Scrap Prices versus Chinese Steel Prices**  
+> Unit: USD/ton | $/LDT · X-axis: Jan-07 to Jul-15  
+> Series: China Domestic Steel Plate 20mm (USD/ton), Scrap Price $/LDT  
+> *Source: Bloomberg / Poten & Partners*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2015/poten_2015-08-21_to-beach-or-not-to-beach_chart1.png)
 
-![Exhibit 2: To Beach or Not to Beach](../../../charts/poten/2015/poten_2015-08-21_to-beach-or-not-to-beach_chart2.png)
+![Exhibit 2: Scrapping Activity by Country (2010 – 2015 YTD)](../../../charts/poten/2015/poten_2015-08-21_to-beach-or-not-to-beach_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2015/poten_2015-08-21_to-beach-or-not-to-beach_chart2.png)
+> **Exhibit 2: Scrapping Activity by Country (2010 – 2015 YTD)**  
+> Unit: DWT · X-axis: 2010 to 2015YTD  
+> Series: India, Bangladesh, Pakistan, China, Other  
+> *Source: Poten & Partners*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2015/poten_2015-08-21_to-beach-or-not-to-beach_chart2.png)

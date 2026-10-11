@@ -60,10 +60,10 @@ Grains and oilseed have faced significant headwinds since the beginning of the y
 
 While the supply side has received much of the attention for the price developments for grains and oilseeds, the lack of demand growth from Chinese buyers is also likely to have contributed. Aggregate cargo order volumes for agricultural commodities discharging in Chinese ports since the beginning of January are broadly in line with what was recorded a year ago. Hence, stable Chinese demand has yet to absorb solid supplies of grains and oilseeds. The past week saw a minor increase in demand for seaborne transportation of agricultural commodities bound for China. However, should recent years’ seasonal patterns see a repeat, the rebound is likely to be relatively short-lived. As a result, Chinese demand is unlikely to provide any support for grain and oilseed prices in the near term.
 
-![Screenshot 2024 03 18 18.16.15](assets/2024-03-18_positive-news-for-the-chinese-economy_img_screenshot2024-03-18181615_4270e6537c07.png)
+![Screenshot 2024 03 18 18.16.15](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-03-18_positive-news-for-the-chinese-economy_img_screenshot2024-03-18181615_4270e6537c07.png)
 
 > **Figure 1: Screenshot 2024 03 18 18.16.15**  
-> **Interactive Data & Source:** [Shipfix](https://shipfix.com/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-03-18_positive-news-for-the-chinese-economy_img_screenshot2024-03-18181615_4270e6537c07.png)
+> **Interactive Data & Source:** [Shipfix](https://shipfix.com/) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-03-18_positive-news-for-the-chinese-economy_img_screenshot2024-03-18181615_4270e6537c07.png)
 
 Data Source:[Shipfix](https://shipfix.com/)
 

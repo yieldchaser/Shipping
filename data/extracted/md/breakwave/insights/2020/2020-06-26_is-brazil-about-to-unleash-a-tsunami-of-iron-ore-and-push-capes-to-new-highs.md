@@ -20,11 +20,11 @@ source_file: "corpus/03-breakwave/insights/2020/2020-06-26_is-brazil-about-to-un
 
 ---
 
-![Vale Sa Expects to Navigate Surging COVID-19 Infections In](assets/2020-06-26_is-brazil-about-to-unleash-a-tsunami-of-iron-ore-and-push-capes-to-new-highs_img_vale-squarelogo-1416638537406_5c990e34d64f.png)
+![Vale Sa Expects to Navigate Surging COVID-19 Infections In](../../../../../../corpus/03-breakwave/insights/2020/assets/2020-06-26_is-brazil-about-to-unleash-a-tsunami-of-iron-ore-and-push-capes-to-new-highs_img_vale-squarelogo-1416638537406_5c990e34d64f.png)
 
 > **Figure 1: Vale Sa Expects to Navigate Surging COVID-19 Infections In**  
 > *Vale SA expects to navigate surging Covid-19 infections in Brazil to achieve its production guidance this year and sees output bouncing back significantly in 2021 as the company recovers from tailings dam disasters, Credit Suisse Group AG analysts wrote in a report, citing talks with Vale’s top brass.*  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2020/assets/2020-06-26_is-brazil-about-to-unleash-a-tsunami-of-iron-ore-and-push-capes-to-new-highs_img_vale-squarelogo-1416638537406_5c990e34d64f.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2020/assets/2020-06-26_is-brazil-about-to-unleash-a-tsunami-of-iron-ore-and-push-capes-to-new-highs_img_vale-squarelogo-1416638537406_5c990e34d64f.png)
 
 Much ink has been spent on the importance of Brazil in the dry bulk market. The significant sailing distance to China and the high commodity export nature of its economy makes Brazil a key region for the dry bulk market. Thus, any change, positive or negative, in the rate of bulk exports, and dry bulk owners and investors alike should pay close attention.
 
@@ -40,10 +40,10 @@ As Bloomberg reports:
 
 Such a scenario is not as far fetched as the market currently prices-in: Vale has to only meet last year’s production level, which combined with higher exports from other Brazilian miners could lead to a tsunami or iron ore exports out of Brazil in a short period of time. Combine that with ongoing very strong iron ore export volumes out of Australia, Canada and South Africa and high global port congestion for Capesize vessels, and the stars seem to align extremely well for dry bulk.
 
-![Br Io](assets/2020-06-26_is-brazil-about-to-unleash-a-tsunami-of-iron-ore-and-push-capes-to-new-highs_img_brio_a6cf880d39d5.png)
+![Br Io](../../../../../../corpus/03-breakwave/insights/2020/assets/2020-06-26_is-brazil-about-to-unleash-a-tsunami-of-iron-ore-and-push-capes-to-new-highs_img_brio_a6cf880d39d5.png)
 
 > **Figure 2: Br Io**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2020/assets/2020-06-26_is-brazil-about-to-unleash-a-tsunami-of-iron-ore-and-push-capes-to-new-highs_img_brio_a6cf880d39d5.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2020/assets/2020-06-26_is-brazil-about-to-unleash-a-tsunami-of-iron-ore-and-push-capes-to-new-highs_img_brio_a6cf880d39d5.png)
 
 Relative changes in rates are measurable only during periods that supply and demand is close to balance. Currently the dry bulk market, and more specifically the Capesize market, is out of balance in favor of shipowners. Any additional push on the demand side, i.e. increasing Brazilian iron ore exports, and the freight market can once again touch levels that have not been seen since the beginning of the decade.
 

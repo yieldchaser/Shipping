@@ -26,17 +26,17 @@ As we discussed in Commodore Research's most recent Weekly Dry Bulk Report, the 
 
 Of particular note is that the USDA is now forecasting that global coarse grain exports in 2023/24 will total 243.2 million tons, which would mark a year-on-year jump of 22.9 million tons (10%) and is 2.3 million tons (1%) more than was predicted a month ago. Coarse grain will continue to serve as the dry bulk market’s largest volume grain cargo and is still expected to experience the largest year-on-year increase in exports. Significant year-on-year increases are still expected for both Argentinean coarse grain exports and US coarse grain exports.
 
-![241](assets/2024-03-15_smaller-dry-bulk-vessel-classes-continue-to-benefit-from-robust-coarse-grain-tra_img_241_3ce7ea89b30c.jpg)
+![241](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-03-15_smaller-dry-bulk-vessel-classes-continue-to-benefit-from-robust-coarse-grain-tra_img_241_3ce7ea89b30c.jpg)
 
 > **Figure 1: 241**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-03-15_smaller-dry-bulk-vessel-classes-continue-to-benefit-from-robust-coarse-grain-tra_img_241_3ce7ea89b30c.jpg)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-03-15_smaller-dry-bulk-vessel-classes-continue-to-benefit-from-robust-coarse-grain-tra_img_241_3ce7ea89b30c.jpg)
 
 China’s primary grain imports remain soybeans, but also of note and significant for the dry bulk market is that China’s coarse grain imports are expected to continue to strengthen due to both stronger consumption in China and an increase in stockpiling (as well as more global supply). Even more imports are now expected for China, with the USDA now predicting 39.9 million tons of coarse grain will be imported. A month ago, the USDA was predicting that 39.5 million tons would be imported. Imports totaled 32.6 million tons in 2022/23.
 
-![242](assets/2024-03-15_smaller-dry-bulk-vessel-classes-continue-to-benefit-from-robust-coarse-grain-tra_img_242_70239e7a1af0.jpg)
+![242](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-03-15_smaller-dry-bulk-vessel-classes-continue-to-benefit-from-robust-coarse-grain-tra_img_242_70239e7a1af0.jpg)
 
 > **Figure 2: 242**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-03-15_smaller-dry-bulk-vessel-classes-continue-to-benefit-from-robust-coarse-grain-tra_img_242_70239e7a1af0.jpg)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-03-15_smaller-dry-bulk-vessel-classes-continue-to-benefit-from-robust-coarse-grain-tra_img_242_70239e7a1af0.jpg)
 
 ---
 

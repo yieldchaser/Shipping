@@ -30,10 +30,10 @@ Whilst all these projects have struggled, either in terms of regulatory approval
 
 So, what would the impact be for the tanker markets? For VLCCs it is undoubtedly bullish and will increase the attractiveness of using VLCCs for US exports where receiving port restrictions are not a factor. For Suezmaxes and Aframaxes it could be bearish given just two of these proposed terminals could (theoretically) handle total US crude exports. Aframaxes in particular have benefitted from both export demand and lightering demand, whilst Suezmaxes have been useful in terms of economies of scale and port restrictions. Rising production may be one way to offset the loss of demand for Suezmaxes and Aframaxes, however, even adding just one terminal could be enough to significantly impact demand for smaller crude tankers. Given that the US currently exports around 4 million b/d, with the total capacity of these terminal projects in the 7-8 million b/d range, it is unlikely that more than two will be built. Yet, even just one has the potential to move the dial in the favour of VLCCs.
 
-![Screenshot 2025 03 24 11.06.14](assets/2025-03-24_opening-the-floodgates_img_screenshot2025-03-24110614_f6aedd4a196d.png)
+![Screenshot 2025 03 24 11.06.14](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-03-24_opening-the-floodgates_img_screenshot2025-03-24110614_f6aedd4a196d.png)
 
 > **Figure 1: Screenshot 2025 03 24 11.06.14**  
-> **Interactive Data & Source:** [Gibsons Co](https://www.gibsons.co.uk/market-reports) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-03-24_opening-the-floodgates_img_screenshot2025-03-24110614_f6aedd4a196d.png)
+> **Interactive Data & Source:** [Gibsons Co](https://www.gibsons.co.uk/market-reports) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-03-24_opening-the-floodgates_img_screenshot2025-03-24110614_f6aedd4a196d.png)
 
 Data source:[Gibson Shipbrokers](https://www.gibsons.co.uk/market-reports)
 

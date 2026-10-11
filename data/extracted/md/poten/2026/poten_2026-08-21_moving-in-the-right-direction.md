@@ -24,10 +24,18 @@ Venezuela is still far away from the 3.2 Mb/d of production that they reached in
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: Moving In The Right Direction](../../../charts/poten/2026/poten_2026-08-21_moving-in-the-right-direction_chart1.png)
+![Exhibit 1: Venezuela Crude Exports by Destination](../../../charts/poten/2026/poten_2026-08-21_moving-in-the-right-direction_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2026/poten_2026-08-21_moving-in-the-right-direction_chart1.png)
+> **Exhibit 1: Venezuela Crude Exports by Destination**  
+> Unit: Kb/d · X-axis: Jan-16 to May-26  
+> Series: China, United States, India, Curacao, Cuba, Caribbean Netherlands, Malaysia, Other  
+> *Source: Vortexa*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2026/poten_2026-08-21_moving-in-the-right-direction_chart1.png)
 
-![Exhibit 2: Moving In The Right Direction](../../../charts/poten/2026/poten_2026-08-21_moving-in-the-right-direction_chart2.png)
+![Exhibit 2: Crude Exports from Venezuela by Vessel Class](../../../charts/poten/2026/poten_2026-08-21_moving-in-the-right-direction_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2026/poten_2026-08-21_moving-in-the-right-direction_chart2.png)
+> **Exhibit 2: Crude Exports from Venezuela by Vessel Class**  
+> Unit: Kb/d · X-axis: Jan-16 to May-26  
+> Series: VLCC, Suezmax, Aframax/LR2, Panamax/LR1, Smaller  
+> *Source: Vortexa*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2026/poten_2026-08-21_moving-in-the-right-direction_chart2.png)

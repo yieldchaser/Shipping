@@ -2286,40 +2286,6 @@ issue_date,report_week,section,page,vessel_name,type,dwt,built,yard,price_raw,pr
 2025-12-22,51,tankers,1,OM SHANGHAI,TANKER,19999.0,2007,Fukuoka Shipbuilding,15.00,15.0,CHINESE,,carriers_2025_W51_WK-51-25-CARRIERS_SP-MARKET-REPORT.pdf
 2025-12-22,51,tankers,1,GINGA KITE,TANKER,19997.0,2001,Shin Kurushima Akitsu,6.90,6.9,UNDISCLOSED,,carriers_2025_W51_WK-51-25-CARRIERS_SP-MARKET-REPORT.pdf
 2025-12-22,51,containers,1,NEVZAT KALKAVAN,CV,26811.0,2011,Sedef Tuzla,17.00,17.0,MSC,"1,849 TEU",carriers_2025_W51_WK-51-25-CARRIERS_SP-MARKET-REPORT.pdf
-2026-09-15,37,bulk_carriers,1,OSAKA STAR,BC,84947.0,2016,Sasebo Heavy Industries,"34,000,000",34000000.0,UNDISCLOSED,,15_09_2026_carriers_sales_purchase_market_report_week_37 (1).pdf
-2026-09-15,37,bulk_carriers,1,BW JAPAN,BC,81609.0,2019,Tsuneishi Heavy Inds Cebu,"38,250,000",38250000.0,GREAT EASTERN,,15_09_2026_carriers_sales_purchase_market_report_week_37 (1).pdf
-2026-09-15,37,bulk_carriers,1,DAEBO GLADSTONE,BC,81399.0,2013,Hyundai Samho HI,"21,000,000",21000000.0,UNDISCLOSED,,15_09_2026_carriers_sales_purchase_market_report_week_37 (1).pdf
-2026-09-15,37,bulk_carriers,1,SEA ORION,BC,76602.0,2005,Imabari Shbldg - Marugame,"11,500,000",11500000.0,UNDISCLOSED,,15_09_2026_carriers_sales_purchase_market_report_week_37 (1).pdf
-2026-09-15,37,bulk_carriers,1,MELIA,BC,76225.0,2005,Tsuneishi Corp - Tadotsu,"11,500,000",11500000.0,UNDISCLOSED,,15_09_2026_carriers_sales_purchase_market_report_week_37 (1).pdf
-2026-09-15,37,bulk_carriers,1,AE JUPITER,BC,74475.0,2007,Hudong-Zhonghua,"11,500,000",11500000.0,CHINESE,,15_09_2026_carriers_sales_purchase_market_report_week_37 (1).pdf
-2026-09-15,37,bulk_carriers,1,DOLPHIN 76,BC,74133.0,2002,Namura Shipbuilding - Imari,"7,800,000",7800000.0,UNDISCLOSED,,15_09_2026_carriers_sales_purchase_market_report_week_37 (1).pdf
-2026-09-15,37,bulk_carriers,1,OCEAN GLORY,BC,48437.0,2001,Sanoyas Hishino Meisho Corp,"5,800,000",5800000.0,UNDISCLOSED,,15_09_2026_carriers_sales_purchase_market_report_week_37 (1).pdf
-2026-09-15,37,bulk_carriers,1,BOSTON HARMONY,BC,38561.0,2015,Shin Kurushima Toyohashi,"23,000,000",23000000.0,UNDISCLOSED,,15_09_2026_carriers_sales_purchase_market_report_week_37 (1).pdf
-2026-09-15,37,bulk_carriers,1,CRIMSON WYOMING,BC,33117.0,2015,Kanda Kawajiri,"18,000,000",18000000.0,GREEK,,15_09_2026_carriers_sales_purchase_market_report_week_37 (1).pdf
-2026-09-15,37,tankers,1,NISSOS HERACLEA,TANKER,313525.0,2009,Hyundai Heavy Inds - Ulsan,"112,000,000",112000000.0,MIDDLE EASTERN,,15_09_2026_carriers_sales_purchase_market_report_week_37 (1).pdf
-2026-09-15,37,tankers,1,PINIOS,TANKER,299999.0,2026,Hengli Shipbuilding Dalian,"200,000,000",200000000.0,UNDISCLOSED,,15_09_2026_carriers_sales_purchase_market_report_week_37 (1).pdf
-2026-09-15,37,containers,1,NEWNEW PANDA 1,CV,53697.0,2007,Hyundai Mipo,"43,000,000",43000000.0,UNDISCLOSED,"4,363 TEU",15_09_2026_carriers_sales_purchase_market_report_week_37 (1).pdf
-2026-09-01,35,bulk_carriers,1,NAVIOS POLLUX,BC,180727.0,2009,STX OFFSHORE & SHBLDG,"30,750,000",30750000.0,UNDISCLOSED,,15_09_2026_carriers_sales_purchase_market_report_week_37 (2).pdf
-2026-09-01,35,bulk_carriers,1,KIYO,BC,92353.0,2012,Namura Shipbuilding - Imari,"19,300,000",19300000.0,UNDISCLOSED,,15_09_2026_carriers_sales_purchase_market_report_week_37 (2).pdf
-2026-09-01,35,bulk_carriers,1,HARVEST,BC,58779.0,2008,Tsuneishi Zhoushan Shbldg,"13,800,000",13800000.0,UNDISCLOSED,,15_09_2026_carriers_sales_purchase_market_report_week_37 (2).pdf
-2026-09-01,35,bulk_carriers,1,KANCHANA NAREE,BC,56920.0,2011,Taizhou Sanfu Ship,"14,600,000",14600000.0,CHINESE,,15_09_2026_carriers_sales_purchase_market_report_week_37 (2).pdf
-2026-09-01,35,bulk_carriers,1,FLC HAPPINESS,BC,56799.0,2009,Taizhou Kouan Shipbuilding,"12,900,000",12900000.0,CHINESE,,15_09_2026_carriers_sales_purchase_market_report_week_37 (2).pdf
-2026-09-01,35,bulk_carriers,1,MARIANNA,BC,55753.0,2010,IHI Marine United -,"17,000,000",17000000.0,UNDISCLOSED,,15_09_2026_carriers_sales_purchase_market_report_week_37 (2).pdf
-2026-09-01,35,bulk_carriers,1,DEVBULK SINEM,BC,38009.0,2013,Pha Rung,"14,800,000",14800000.0,UNDISCLOSED,,15_09_2026_carriers_sales_purchase_market_report_week_37 (2).pdf
-2026-09-01,35,bulk_carriers,1,CHINA SPIRIT,BC,35097.0,2013,Nanjing Dongze Shipyard Co,"13,000,000",13000000.0,UNDISCLOSED,,15_09_2026_carriers_sales_purchase_market_report_week_37 (2).pdf
-2026-09-01,35,tankers,1,PRINCESS NATALIE,TANKER,320261.0,2011,Daewoo Shipbuilding,"97,000,000",97000000.0,SINGAPORE,,15_09_2026_carriers_sales_purchase_market_report_week_37 (2).pdf
-2026-09-01,35,tankers,1,CAPE BENAT,TANKER,156642.0,2010,Jiangsu Rongsheng,"62,500,000",62500000.0,UAE,,15_09_2026_carriers_sales_purchase_market_report_week_37 (2).pdf
-2026-09-01,35,tankers,1,SUEZ ICE SUPREME,TANKER,146356.0,2007,Universal Shbldg - Tsu,"57,000,000",57000000.0,UAE,ICE CLASS,15_09_2026_carriers_sales_purchase_market_report_week_37 (2).pdf
-2026-09-01,35,tankers,1,MINERVA XANTHE,TANKER,50922.0,2006,STX Shipbuilding - Jinhae,"16,000,000",16000000.0,CHINESE,,15_09_2026_carriers_sales_purchase_market_report_week_37 (2).pdf
-2026-09-01,35,tankers,1,LUCTOR,TANKER,50383.0,2011,Onomichi Dockyard Co Ltd,"26,000,000",26000000.0,UNDISCLOSED,INCL BBB,15_09_2026_carriers_sales_purchase_market_report_week_37 (2).pdf
-2026-09-01,35,tankers,1,TURMOIL,TANKER,49997.0,2011,Onomichi Dockyard Co Ltd,"26,000,000",26000000.0,UNDISCLOSED,INCL BBB,15_09_2026_carriers_sales_purchase_market_report_week_37 (2).pdf
-2026-09-01,35,tankers,1,XING TONG 799,TANKER,49962.0,2011,Onomichi Dockyard Co Ltd,"27,200,000",27200000.0,INDONESIAN,,15_09_2026_carriers_sales_purchase_market_report_week_37 (2).pdf
-2026-09-01,35,tankers,1,PM REGENT,TANKER,49874.0,2018,JAPAN MARINE UTD - MAI,"45,500,000",45500000.0,UNDISCLOSED,,15_09_2026_carriers_sales_purchase_market_report_week_37 (2).pdf
-2026-09-01,35,tankers,1,RUI FU SHENG,TANKER,46846.0,2007,Sungdong Shipbuilding & Eng,"19,000,000",19000000.0,UNDISCLOSED,,15_09_2026_carriers_sales_purchase_market_report_week_37 (2).pdf
-2026-09-01,35,tankers,1,TANGGUH BATUR,LNG,84980.0,2008,Daewoo Shipbuilding,"30,000,000",30000000.0,UNDISCLOSED,,15_09_2026_carriers_sales_purchase_market_report_week_37 (2).pdf
-2026-09-01,35,tankers,1,ARCTIC VOYAGER,LNG,75485.0,2006,Kawasaki Shipbuilding,"28,000,000",28000000.0,TURKISH,,15_09_2026_carriers_sales_purchase_market_report_week_37 (2).pdf
-2026-09-01,35,tankers,1,BW BIRCH,LPG,58123.0,2007,Hyundai Heavy Inds - Ulsan,"64,000,000",64000000.0,UNDISCLOSED,,15_09_2026_carriers_sales_purchase_market_report_week_37 (2).pdf
-2026-09-01,35,containers,1,WES SINA,CV,12829.0,2007,Dae Sun Shipbuilding & Eng,"12,500,000",12500000.0,CHINESE,"1,049 TEU",15_09_2026_carriers_sales_purchase_market_report_week_37 (2).pdf
 2026-01-05,1,bulk_carriers,1,SEACON SHANGHAI,BC,80811.0,2019,Huangpu Wenchong Longxue,26.70,26.7,DEXTER NAVIGATION,,carriers_2026_W01_WK-1-26-CARRIERS_SP-MARKET-REPORT.pdf
 2026-01-05,1,tankers,1,DHT EUROPE,TANKER,317713.0,2007,Hyundai Samho HI,101.60 EN BLOC,101.6,UNDISCLOSED,,carriers_2026_W01_WK-1-26-CARRIERS_SP-MARKET-REPORT.pdf
 2026-01-05,1,tankers,1,DHT CHINA,TANKER,317794.0,2007,Hyundai Samho HI,101.60 EN BLOC,101.6,UNDISCLOSED,INCL T/C TO,carriers_2026_W01_WK-1-26-CARRIERS_SP-MARKET-REPORT.pdf
@@ -3033,52 +2999,6 @@ issue_date,report_week,section,page,vessel_name,type,dwt,built,yard,price_raw,pr
 2026-09-14,37,tankers,1,NISSOS HERACLEA,TANKER,313525.0,2009,Hyundai Heavy Inds - Ulsan,"112,000,000",112000000.0,MIDDLE EASTERN,,carriers_2026_W37_WK-37-26-CARRIERS_SP-MARKET-REPORT.pdf
 2026-09-14,37,tankers,1,PINIOS,TANKER,299999.0,2026,Hengli Shipbuilding Dalian,"200,000,000",200000000.0,UNDISCLOSED,,carriers_2026_W37_WK-37-26-CARRIERS_SP-MARKET-REPORT.pdf
 2026-09-14,37,containers,1,NEWNEW PANDA 1,CV,53697.0,2007,Hyundai Mipo,"43,000,000",43000000.0,UNDISCLOSED,"4,363 TEU",carriers_2026_W37_WK-37-26-CARRIERS_SP-MARKET-REPORT.pdf
-2026-09-21,38,bulk_carriers,1,HOUHENG 6,BC,261838.0,2017,ZHOUSHAN CHANGHONG INT,"70,000,000",70000000.0,UNDISCLOSED,,carriers_2026_W38_WK-38-26-CARRIERS_SP-MARKET-REPORT.pdf
-2026-09-21,38,bulk_carriers,1,HOUHENG 5,BC,261761.0,2017,Guangzhou Shipyard Intl Co,"70,000,000",70000000.0,UNDISCLOSED,,carriers_2026_W38_WK-38-26-CARRIERS_SP-MARKET-REPORT.pdf
-2026-09-21,38,bulk_carriers,1,HIGHLAND,BC,174092.0,2006,Shanghai Waigaoqiao Shbldg,"25,000,000",25000000.0,UNDISCLOSED,,carriers_2026_W38_WK-38-26-CARRIERS_SP-MARKET-REPORT.pdf
-2026-09-21,38,bulk_carriers,1,HC WISDOM,BC,95711.0,2013,Imabari Shbldg - Marugame,"24,500,000",24500000.0,UNDISCLOSED,,carriers_2026_W38_WK-38-26-CARRIERS_SP-MARKET-REPORT.pdf
-2026-09-21,38,bulk_carriers,1,CK VENTURE,BC,82269.0,2012,Dalian Shipbuilding Ind - No 2,"19,000,000",19000000.0,UNDISCLOSED,,carriers_2026_W38_WK-38-26-CARRIERS_SP-MARKET-REPORT.pdf
-2026-09-21,38,bulk_carriers,1,BORA,BC,81682.0,2014,Sainty Shipbuilding Yangzhou,"22,000,000",22000000.0,GREEK,,carriers_2026_W38_WK-38-26-CARRIERS_SP-MARKET-REPORT.pdf
-2026-09-21,38,bulk_carriers,1,KING LOONG,BC,77430.0,2006,Oshima Shipbuilding Co Ltd,"13,000,000",13000000.0,UNDISCLOSED,,carriers_2026_W38_WK-38-26-CARRIERS_SP-MARKET-REPORT.pdf
-2026-09-21,38,bulk_carriers,1,OCEAN TIANBAO,BC,63455.0,2016,China Shipping Ind Jiangsu,"27,500,000",27500000.0,TURKISH,,carriers_2026_W38_WK-38-26-CARRIERS_SP-MARKET-REPORT.pdf
-2026-09-21,38,bulk_carriers,1,IPSEA COLOSSUS,BC,58818.0,2011,Kawasaki HI - Kobe - curr,"21,000,000",21000000.0,UNDISCLOSED,,carriers_2026_W38_WK-38-26-CARRIERS_SP-MARKET-REPORT.pdf
-2026-09-21,38,bulk_carriers,1,DESERT SPRING,BC,57437.0,2012,Hyundai Mipo Dockyard,"17,900,000",17900000.0,UNDISCLOSED,,carriers_2026_W38_WK-38-26-CARRIERS_SP-MARKET-REPORT.pdf
-2026-09-21,38,bulk_carriers,1,VELA,BC,53565.0,2007,Nam Trieu,"10,000,000",10000000.0,UNDISCLOSED,,carriers_2026_W38_WK-38-26-CARRIERS_SP-MARKET-REPORT.pdf
-2026-09-21,38,bulk_carriers,1,WOOYANG CLES,BC,39202.0,2014,Yangfan Group Co Ltd,"18,500,000",18500000.0,UNDISCLOSED,,carriers_2026_W38_WK-38-26-CARRIERS_SP-MARKET-REPORT.pdf
-2026-09-21,38,bulk_carriers,1,IVS KESTREL,BC,32768.0,2014,Kanda Kawajiri,"17,000,000",17000000.0,UNDISCLOSED,,carriers_2026_W38_WK-38-26-CARRIERS_SP-MARKET-REPORT.pdf
-2026-09-21,38,tankers,1,KALLISTA,TANKER,317441.0,2010,Hyundai Heavy Inds - Ulsan,"132,000,000",132000000.0,CHINESE,,carriers_2026_W38_WK-38-26-CARRIERS_SP-MARKET-REPORT.pdf
-2026-09-21,38,tankers,1,SEA LEOPARD,TANKER,314000.0,2011,Daewoo Shipbuilding,"135,000,000",135000000.0,UNDISCLOSED,,carriers_2026_W38_WK-38-26-CARRIERS_SP-MARKET-REPORT.pdf
-2026-09-21,38,tankers,1,ASHOKA,TANKER,302550.0,2010,Universal Shbldg - Ariake,"130,000,000",130000000.0,UNDISCLOSED,,carriers_2026_W38_WK-38-26-CARRIERS_SP-MARKET-REPORT.pdf
-2026-09-21,38,tankers,1,OLYMPIC FUTURE,TANKER,155039.0,2004,Namura Shipbuilding - Imari,"50,000,000",50000000.0,UNDISCLOSED,,carriers_2026_W38_WK-38-26-CARRIERS_SP-MARKET-REPORT.pdf
-2026-09-21,38,tankers,1,OLYMPIC FLAG,TANKER,154966.0,2004,Namura Shipbuilding - Imari,"50,000,000",50000000.0,UNDISCLOSED,,carriers_2026_W38_WK-38-26-CARRIERS_SP-MARKET-REPORT.pdf
-2026-09-21,38,tankers,1,GRAFF,TANKER,150678.0,2001,NKK Corp - Tsu,"45,000,000",45000000.0,UNDISCLOSED,,carriers_2026_W38_WK-38-26-CARRIERS_SP-MARKET-REPORT.pdf
-2026-09-21,38,tankers,1,VIENNA WOOD,TANKER,105304.0,2010,Sumitomo Heavy Marine,"49,400,000",49400000.0,UNDISCLOSED,,carriers_2026_W38_WK-38-26-CARRIERS_SP-MARKET-REPORT.pdf
-2026-09-21,38,tankers,1,KATHERINE LADY,TANKER,49999.0,2022,Hyundai Mipo Dockyard,"53,000,000",53000000.0,UNDISCLOSED,,carriers_2026_W38_WK-38-26-CARRIERS_SP-MARKET-REPORT.pdf
-2026-09-21,38,tankers,1,ARDMORE ENDEAVOUR,TANKER,49859.0,2013,STX OFFSHORE & SHBLDG,"36,000,000",36000000.0,UNDISCLOSED,,carriers_2026_W38_WK-38-26-CARRIERS_SP-MARKET-REPORT.pdf
-2026-09-21,38,containers,1,EF EMMA,CV,24095.0,2008,Aker Warnemuende,"22,000,000",22000000.0,MSC,"1,698 TEU",carriers_2026_W38_WK-38-26-CARRIERS_SP-MARKET-REPORT.pdf
-2026-09-21,38,bulk_carriers,1,HOUHENG 6,BC,261838.0,2017,ZHOUSHAN CHANGHONG INT,"70,000,000",70000000.0,UNDISCLOSED,,carriers_2026_W38_WK-38-26-CARRIERS_SP-MARKET-REPORT.pdf.pdf
-2026-09-21,38,bulk_carriers,1,HOUHENG 5,BC,261761.0,2017,Guangzhou Shipyard Intl Co,"70,000,000",70000000.0,UNDISCLOSED,,carriers_2026_W38_WK-38-26-CARRIERS_SP-MARKET-REPORT.pdf.pdf
-2026-09-21,38,bulk_carriers,1,HIGHLAND,BC,174092.0,2006,Shanghai Waigaoqiao Shbldg,"25,000,000",25000000.0,UNDISCLOSED,,carriers_2026_W38_WK-38-26-CARRIERS_SP-MARKET-REPORT.pdf.pdf
-2026-09-21,38,bulk_carriers,1,HC WISDOM,BC,95711.0,2013,Imabari Shbldg - Marugame,"24,500,000",24500000.0,UNDISCLOSED,,carriers_2026_W38_WK-38-26-CARRIERS_SP-MARKET-REPORT.pdf.pdf
-2026-09-21,38,bulk_carriers,1,CK VENTURE,BC,82269.0,2012,Dalian Shipbuilding Ind - No 2,"19,000,000",19000000.0,UNDISCLOSED,,carriers_2026_W38_WK-38-26-CARRIERS_SP-MARKET-REPORT.pdf.pdf
-2026-09-21,38,bulk_carriers,1,BORA,BC,81682.0,2014,Sainty Shipbuilding Yangzhou,"22,000,000",22000000.0,GREEK,,carriers_2026_W38_WK-38-26-CARRIERS_SP-MARKET-REPORT.pdf.pdf
-2026-09-21,38,bulk_carriers,1,KING LOONG,BC,77430.0,2006,Oshima Shipbuilding Co Ltd,"13,000,000",13000000.0,UNDISCLOSED,,carriers_2026_W38_WK-38-26-CARRIERS_SP-MARKET-REPORT.pdf.pdf
-2026-09-21,38,bulk_carriers,1,OCEAN TIANBAO,BC,63455.0,2016,China Shipping Ind Jiangsu,"27,500,000",27500000.0,TURKISH,,carriers_2026_W38_WK-38-26-CARRIERS_SP-MARKET-REPORT.pdf.pdf
-2026-09-21,38,bulk_carriers,1,IPSEA COLOSSUS,BC,58818.0,2011,Kawasaki HI - Kobe - curr,"21,000,000",21000000.0,UNDISCLOSED,,carriers_2026_W38_WK-38-26-CARRIERS_SP-MARKET-REPORT.pdf.pdf
-2026-09-21,38,bulk_carriers,1,DESERT SPRING,BC,57437.0,2012,Hyundai Mipo Dockyard,"17,900,000",17900000.0,UNDISCLOSED,,carriers_2026_W38_WK-38-26-CARRIERS_SP-MARKET-REPORT.pdf.pdf
-2026-09-21,38,bulk_carriers,1,VELA,BC,53565.0,2007,Nam Trieu,"10,000,000",10000000.0,UNDISCLOSED,,carriers_2026_W38_WK-38-26-CARRIERS_SP-MARKET-REPORT.pdf.pdf
-2026-09-21,38,bulk_carriers,1,WOOYANG CLES,BC,39202.0,2014,Yangfan Group Co Ltd,"18,500,000",18500000.0,UNDISCLOSED,,carriers_2026_W38_WK-38-26-CARRIERS_SP-MARKET-REPORT.pdf.pdf
-2026-09-21,38,bulk_carriers,1,IVS KESTREL,BC,32768.0,2014,Kanda Kawajiri,"17,000,000",17000000.0,UNDISCLOSED,,carriers_2026_W38_WK-38-26-CARRIERS_SP-MARKET-REPORT.pdf.pdf
-2026-09-21,38,tankers,1,KALLISTA,TANKER,317441.0,2010,Hyundai Heavy Inds - Ulsan,"132,000,000",132000000.0,CHINESE,,carriers_2026_W38_WK-38-26-CARRIERS_SP-MARKET-REPORT.pdf.pdf
-2026-09-21,38,tankers,1,SEA LEOPARD,TANKER,314000.0,2011,Daewoo Shipbuilding,"135,000,000",135000000.0,UNDISCLOSED,,carriers_2026_W38_WK-38-26-CARRIERS_SP-MARKET-REPORT.pdf.pdf
-2026-09-21,38,tankers,1,ASHOKA,TANKER,302550.0,2010,Universal Shbldg - Ariake,"130,000,000",130000000.0,UNDISCLOSED,,carriers_2026_W38_WK-38-26-CARRIERS_SP-MARKET-REPORT.pdf.pdf
-2026-09-21,38,tankers,1,OLYMPIC FUTURE,TANKER,155039.0,2004,Namura Shipbuilding - Imari,"50,000,000",50000000.0,UNDISCLOSED,,carriers_2026_W38_WK-38-26-CARRIERS_SP-MARKET-REPORT.pdf.pdf
-2026-09-21,38,tankers,1,OLYMPIC FLAG,TANKER,154966.0,2004,Namura Shipbuilding - Imari,"50,000,000",50000000.0,UNDISCLOSED,,carriers_2026_W38_WK-38-26-CARRIERS_SP-MARKET-REPORT.pdf.pdf
-2026-09-21,38,tankers,1,GRAFF,TANKER,150678.0,2001,NKK Corp - Tsu,"45,000,000",45000000.0,UNDISCLOSED,,carriers_2026_W38_WK-38-26-CARRIERS_SP-MARKET-REPORT.pdf.pdf
-2026-09-21,38,tankers,1,VIENNA WOOD,TANKER,105304.0,2010,Sumitomo Heavy Marine,"49,400,000",49400000.0,UNDISCLOSED,,carriers_2026_W38_WK-38-26-CARRIERS_SP-MARKET-REPORT.pdf.pdf
-2026-09-21,38,tankers,1,KATHERINE LADY,TANKER,49999.0,2022,Hyundai Mipo Dockyard,"53,000,000",53000000.0,UNDISCLOSED,,carriers_2026_W38_WK-38-26-CARRIERS_SP-MARKET-REPORT.pdf.pdf
-2026-09-21,38,tankers,1,ARDMORE ENDEAVOUR,TANKER,49859.0,2013,STX OFFSHORE & SHBLDG,"36,000,000",36000000.0,UNDISCLOSED,,carriers_2026_W38_WK-38-26-CARRIERS_SP-MARKET-REPORT.pdf.pdf
-2026-09-21,38,containers,1,EF EMMA,CV,24095.0,2008,Aker Warnemuende,"22,000,000",22000000.0,MSC,"1,698 TEU",carriers_2026_W38_WK-38-26-CARRIERS_SP-MARKET-REPORT.pdf.pdf
 2026-09-28,39,bulk_carriers,1,LC MILADY,BC,93758.0,2011,Shanhaiguan Shipbuilding Ind,"HIGH 14,000,000",14000000.0,UNDISCLOSED,,carriers_2026_W39_WK-39-26-CARRIERS_SP-MARKET-REPORT.pdf
 2026-09-28,39,bulk_carriers,1,RTM DIAS,BC,89892.0,2013,Namura Shipbuilding - Imari,"42,800,000 EN BLOC",42800000.0,CHINESE,,carriers_2026_W39_WK-39-26-CARRIERS_SP-MARKET-REPORT.pdf
 2026-09-28,39,bulk_carriers,1,RTM FLINDERS,BC,89892.0,2013,Namura Shipbuilding - Imari,"42,800,000 EN BLOC",42800000.0,CHINESE,,carriers_2026_W39_WK-39-26-CARRIERS_SP-MARKET-REPORT.pdf
@@ -3104,31 +3024,6 @@ issue_date,report_week,section,page,vessel_name,type,dwt,built,yard,price_raw,pr
 2026-09-28,39,tankers,1,SEA RUNNER,TANKER,49999.0,2008,Guangzhou Shipyard Intl Co,"20,500,000",20500000.0,GREEK,,carriers_2026_W39_WK-39-26-CARRIERS_SP-MARKET-REPORT.pdf
 2026-09-28,39,tankers,1,DYLAN,TANKER,49998.0,2009,Guangzhou Shipyard Intl Co,"19,500,000",19500000.0,GREEK,,carriers_2026_W39_WK-39-26-CARRIERS_SP-MARKET-REPORT.pdf
 2026-09-28,39,containers,1,VELA,CV,56535.0,2009,Zhejiang,"10,000,000",10000000.0,UNDISCLOSED,"4,254 TEU",carriers_2026_W39_WK-39-26-CARRIERS_SP-MARKET-REPORT.pdf
-2026-09-28,39,bulk_carriers,1,LC MILADY,BC,93758.0,2011,Shanhaiguan Shipbuilding Ind,"HIGH 14,000,000",14000000.0,UNDISCLOSED,,general_broker_28_09_2026_carriers_sales_purchase_market_report_week_39.pdf
-2026-09-28,39,bulk_carriers,1,RTM DIAS,BC,89892.0,2013,Namura Shipbuilding - Imari,"42,800,000 EN BLOC",42800000.0,CHINESE,,general_broker_28_09_2026_carriers_sales_purchase_market_report_week_39.pdf
-2026-09-28,39,bulk_carriers,1,RTM FLINDERS,BC,89892.0,2013,Namura Shipbuilding - Imari,"42,800,000 EN BLOC",42800000.0,CHINESE,,general_broker_28_09_2026_carriers_sales_purchase_market_report_week_39.pdf
-2026-09-28,39,bulk_carriers,1,GCL HAZIRA,BC,81986.0,2021,Nantong COSCO KHI Ship,"38,000,000",38000000.0,UNDISCLOSED,DD PASSED,general_broker_28_09_2026_carriers_sales_purchase_market_report_week_39.pdf
-2026-09-28,39,bulk_carriers,1,NEW WAVELET,BC,81984.0,2021,Nantong COSCO KHI Ship,"42,000,000",42000000.0,UNDISCLOSED,,general_broker_28_09_2026_carriers_sales_purchase_market_report_week_39.pdf
-2026-09-28,39,bulk_carriers,1,BABITONGA,BC,81770.0,2019,TSUNEISHI SHBLDG - FKY,"38,500,000",38500000.0,SINCERE NAVIGATION,,general_broker_28_09_2026_carriers_sales_purchase_market_report_week_39.pdf
-2026-09-28,39,bulk_carriers,1,GENEVA STAR,BC,75843.0,2009,Tsuneishi Holdings,"17,000,000",17000000.0,BRIGHT NAVIGATION,SS/DD DUE 04/2027,general_broker_28_09_2026_carriers_sales_purchase_market_report_week_39.pdf
-2026-09-28,39,bulk_carriers,1,CS CALLA,BC,37482.0,2011,Tianjin Xingang Shipbuilding,"11,000,000",11000000.0,UNDISCLOSED,,general_broker_28_09_2026_carriers_sales_purchase_market_report_week_39.pdf
-2026-09-28,39,bulk_carriers,1,CELESTE,BC,34295.0,2012,Zhejiang Jingang Shipbuilding,"11,100,000",11100000.0,GREEK,,general_broker_28_09_2026_carriers_sales_purchase_market_report_week_39.pdf
-2026-09-28,39,tankers,1,SEEB,TANKER,319439.0,2011,Daewoo Shipbuilding,"160,000,000",160000000.0,UNDISCLOSED,,general_broker_28_09_2026_carriers_sales_purchase_market_report_week_39.pdf
-2026-09-28,39,tankers,1,RAIN CUBIC,TANKER,319429.0,2008,Daewoo Shipbuilding,"92,000,000",92000000.0,UAE,,general_broker_28_09_2026_carriers_sales_purchase_market_report_week_39.pdf
-2026-09-28,39,tankers,1,SEAKING,TANKER,319063.0,2013,Hyundai Heavy Inds - Ulsan,"177,000,000",177000000.0,UNDISCLOSED,,general_broker_28_09_2026_carriers_sales_purchase_market_report_week_39.pdf
-2026-09-28,39,tankers,1,SUEZ PROTOPIA,TANKER,160391.0,2008,Samsung Heavy Inds - Geoje,"82,000,000",82000000.0,UNDISCLOSED,,general_broker_28_09_2026_carriers_sales_purchase_market_report_week_39.pdf
-2026-09-28,39,tankers,1,SPEEDWAY,TANKER,158594.0,2017,Hyundai Samho HI,"98,000,000",98000000.0,UNDISCLOSED,,general_broker_28_09_2026_carriers_sales_purchase_market_report_week_39.pdf
-2026-09-28,39,tankers,1,ALMI GALAXY,TANKER,157787.0,2012,Daewoo Shipbuilding,"88,000,000",88000000.0,UNDISCLOSED,,general_broker_28_09_2026_carriers_sales_purchase_market_report_week_39.pdf
-2026-09-28,39,tankers,1,DAEHAN 5112,TANKER,156881.0,2027,Daehan Shipbuilding,"106,000,000",106000000.0,UNDISCLOSED,,general_broker_28_09_2026_carriers_sales_purchase_market_report_week_39.pdf
-2026-09-28,39,tankers,1,VENDAVEL,TANKER,149999.0,2011,New Times Shipbuilding Co,"94,500,000",94500000.0,UNDISCLOSED,,general_broker_28_09_2026_carriers_sales_purchase_market_report_week_39.pdf
-2026-09-28,39,tankers,1,POROS,TANKER,149876.0,2008,Universal Shbldg,"80,000,000",80000000.0,UNDISCLOSED,,general_broker_28_09_2026_carriers_sales_purchase_market_report_week_39.pdf
-2026-09-28,39,tankers,1,MARLIN HESTIA,TANKER,74260.0,2017,Sungdong Shipbuilding & Eng,"49,000,000",49000000.0,PENINSULAR,,general_broker_28_09_2026_carriers_sales_purchase_market_report_week_39.pdf
-2026-09-28,39,tankers,1,MARLIN HERA,TANKER,74198.0,2017,Sungdong Shipbuilding & Eng,"49,000,000",49000000.0,PENINSULAR,,general_broker_28_09_2026_carriers_sales_purchase_market_report_week_39.pdf
-2026-09-28,39,tankers,1,CHEMTRANS NOVA,TANKER,73870.0,2006,New Century Shipbuilding Co,"20,000,000",20000000.0,UNDISCLOSED,,general_broker_28_09_2026_carriers_sales_purchase_market_report_week_39.pdf
-2026-09-28,39,tankers,1,LONDON STAR,TANKER,73869.0,2006,New Century Shipbuilding Co,"21,500,000",21500000.0,CHINESE,,general_broker_28_09_2026_carriers_sales_purchase_market_report_week_39.pdf
-2026-09-28,39,tankers,1,SEA RUNNER,TANKER,49999.0,2008,Guangzhou Shipyard Intl Co,"20,500,000",20500000.0,GREEK,,general_broker_28_09_2026_carriers_sales_purchase_market_report_week_39.pdf
-2026-09-28,39,tankers,1,DYLAN,TANKER,49998.0,2009,Guangzhou Shipyard Intl Co,"19,500,000",19500000.0,GREEK,,general_broker_28_09_2026_carriers_sales_purchase_market_report_week_39.pdf
-2026-09-28,39,containers,1,VELA,CV,56535.0,2009,Zhejiang,"10,000,000",10000000.0,UNDISCLOSED,"4,254 TEU",general_broker_28_09_2026_carriers_sales_purchase_market_report_week_39.pdf
 2026-10-05,40,bulk_carriers,1,BULK JOYANCE,BC,175636.0,2012,JINHAI HEAVY INDUSTRY,"31,100,000",31.1,CHINESE,,carriers_2026_W40_WK-40-26-CARRIERS_SP-MARKET-REPORT.pdf
 2026-10-05,40,bulk_carriers,1,EKATERINI V,BC,173555.0,2012,Bohai Shipbuilding Heavy Ind,"35,000,000",35.0,FAR EASTERN,,carriers_2026_W40_WK-40-26-CARRIERS_SP-MARKET-REPORT.pdf
 2026-10-05,40,bulk_carriers,1,CONSTANTINOS G.O.,BC,87447.0,2011,Hudong-Zhonghua,"16,000,000",16.0,UNDISCLOSED,,carriers_2026_W40_WK-40-26-CARRIERS_SP-MARKET-REPORT.pdf

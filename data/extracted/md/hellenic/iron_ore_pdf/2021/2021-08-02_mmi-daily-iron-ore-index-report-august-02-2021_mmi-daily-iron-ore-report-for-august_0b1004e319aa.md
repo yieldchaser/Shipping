@@ -177,14 +177,23 @@ DCE iron ore futures market vibrated narrowly and quotations in the physical por
 | **Port Stock** | **0.01% Phosphorus** | Low Fe Grade 0.09\<P<0.1% | 14.00 | RMB/wet tonne | -4.00 |
 
 ## Historical Iron Ore Index Comparisons (USD/DMT)
+> **Estimate.** The report prints no numbers for this chart. Values are computed from the chart's vector geometry at each x-axis date label (calibrated on the printed axis ticks; typically within 1% of the axis range).
+
 | Date | IOSI62 (USD/DMT) | IOPi62 CFR Eq (USD/DMT) | IOSI65 (USD/DMT) | IOPi65 CFR Eq (USD/DMT) |
 | :--- | :--- | :--- | :--- | :--- |
-| 2-Sep-20 | 118.00 | 116.00 | 120.00 | 118.00 |
-| 2-Nov-20 | 130.00 | 128.00 | 132.00 | 130.00 |
-| 2-Jan-21 | 175.00 | 173.00 | 180.00 | 178.00 |
-| 2-Mar-21 | 170.00 | 168.00 | 175.00 | 173.00 |
-| 2-May-21 | 210.00 | 208.00 | 240.00 | 238.00 |
-| 2-Jul-21 | 220.00 | 218.00 | 250.00 | 248.00 |
+| 2-Aug-20 | 116.16 | 116.77 | 126.62 | 124.15 |
+| 2-Sep-20 | 127.44 | 133.59 | 138.72 | 138.72 |
+| 2-Oct-20 | 124.02 | 125.04 | 135.30 | 137.35 |
+| 2-Nov-20 | 120.77 | 122.05 | 134.10 | 140.00 |
+| 2-Dec-20 | 139.74 | 129.49 | 147.95 | 145.90 |
+| 2-Jan-21 | 164.36 | 158.61 | 172.56 | 172.97 |
+| 2-Feb-21 | 159.22 | 163.33 | 182.81 | 188.97 |
+| 2-Mar-21 | 178.71 | 173.60 | 197.18 | 199.24 |
+| 2-Apr-21 | 168.45 | 162.31 | 193.06 | 190.00 |
+| 2-May-21 | 192.05 | 192.55 | 228.97 | 229.48 |
+| 2-Jun-21 | 198.26 | 217.18 | 228.00 | 261.29 |
+| 2-Jul-21 | 217.69 | 231.02 | 252.56 | 262.82 |
+| 2-Aug-21 | - | - | - | - |
 
 ---
 
@@ -209,6 +218,8 @@ DCE iron ore futures market vibrated narrowly and quotations in the physical por
 | **SGX** | **Sep. 21** | USD/DMT | 177.85 | +0.20 | +0.11% | 2.87 | 197.35 | 171.65 | 179.90 |
 
 ## Dry Bulk Freight Rates Historical Line Data (USD/MT)
+> **Approximate.** The report prints no numbers for this chart. Values were read visually from the chart image by the parser and are rough estimates.
+
 | Date | C5 W. Australia - Qingdao (USD/MT) | C3 Tubarao - Qingdao (USD/MT) |
 | :--- | :--- | :--- |
 | 31-Jul-20 | 7.50 | 18.00 |
@@ -225,21 +236,23 @@ DCE iron ore futures market vibrated narrowly and quotations in the physical por
 | 30-Jun-21 | 14.00 | 28.50 |
 
 ## Total China Iron Ore Import Volumes (Million Tonnes)
+> **Estimate.** The report prints no numbers for this chart. Values are computed from the chart's vector geometry at each x-axis date label (calibrated on the printed axis ticks; typically within 1% of the axis range).
+
 | Month / Period | Import Volume (Million Tonnes) |
 | :--- | :--- |
-| Jun-20 | 102.00 |
-| Jul-20 | 112.00 |
-| Aug-20 | 100.00 |
-| Sep-20 | 108.00 |
-| Oct-20 | 106.00 |
-| Nov-20 | 96.00 |
-| Dec-20 | 95.00 |
-| Jan-21 | 98.00 |
-| Feb-21 | 83.00 |
-| Mar-21 | 103.00 |
-| Apr-21 | 98.00 |
-| May-21 | 89.00 |
-| Jun-21 | 89.00 |
+| Jun-20 | 101.70 |
+| Jul-20 | 112.66 |
+| Aug-20 | 100.38 |
+| Sep-20 | 108.50 |
+| Oct-20 | 106.74 |
+| Nov-20 | 98.19 |
+| Dec-20 | 96.66 |
+| Jan-21 | 98.85 |
+| Feb-21 | 82.62 |
+| Mar-21 | 102.14 |
+| Apr-21 | 98.63 |
+| May-21 | 89.86 |
+| Jun-21 | 89.42 |
 
 ---
 

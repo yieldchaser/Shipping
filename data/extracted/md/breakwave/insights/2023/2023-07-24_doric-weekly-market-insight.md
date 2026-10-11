@@ -31,17 +31,17 @@ Whilst the state of affairs in the largest granary of Europe took yet another ne
 
 Brazil’s dominance in the soybean export market remains intact as US exports continue to stay sluggish. In particular, Brazilian soybean exports reached an all-time high level in June. According to Refinitiv trade flow data, the leading soybean exporter shipped a recordbreaking 13.1 million tonnes of beans in June, surpassing the five year average by some 35.8 percent. The surge in Brazilian soybean exports can be largely attributed to China's insatiable appetite for beans during the period. In fact, Brazil shipped 8.6 million tonnes of soybeans to China, up significantly from the past two years. As of July 9, total 2022/23 Brazilian soybean exports have reached 64.3 million tonnes, 19.1 percent above the long-term average and the highest on record.
 
-![1 (7)](assets/2023-07-24_doric-weekly-market-insight_img_128729_baa81f63c51a.png)
+![1 (7)](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-07-24_doric-weekly-market-insight_img_128729_baa81f63c51a.png)
 
 > **Figure 1: 1 (7)**  
-> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-07-24_doric-weekly-market-insight_img_128729_baa81f63c51a.png)
+> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-07-24_doric-weekly-market-insight_img_128729_baa81f63c51a.png)
 
 Conversely, US soybean market has been inactive. In June, soybean exports from the United States further declined to a mere 0.8 million tonnes, down from 0.9 million tonnes in May, the lowest figure since 2016. As of June 29, outstanding sales of US soybeans totaled 3.2 million tonnes, a significant drop from the previous year’s 7.7 million tonnes. Refinitiv forecasts the 2023/24 US soybean exports at 49.5 million tonnes on lower supply and international demand, compared to USDA's July projection of 50.35 million tonnes.
 
-![1 (8)](assets/2023-07-24_doric-weekly-market-insight_img_128829_0430d312cdd1.png)
+![1 (8)](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-07-24_doric-weekly-market-insight_img_128829_0430d312cdd1.png)
 
 > **Figure 2: 1 (8)**  
-> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-07-24_doric-weekly-market-insight_img_128829_0430d312cdd1.png)
+> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-07-24_doric-weekly-market-insight_img_128829_0430d312cdd1.png)
 
 Although US soy imports are likely to plunged to near zero in the coming months, active imports from South American countries (mainly Brazil) should maintain China soybean imports at near record high levels. Refinitiv trade flows show that 9.26 and 7.84 million tonnes of soybeans are scheduled to arrive in China in July and August, well above the last year’s same period. However, concerns have been expressed from various sources that China soybean imports may slow down after quite a few months with record volumes as the autumn starts. If so, dry bulk shipping needs to find another pillar of support to maintain even the current levels.
 

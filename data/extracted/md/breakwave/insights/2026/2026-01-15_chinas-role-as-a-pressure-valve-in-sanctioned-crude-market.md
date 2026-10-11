@@ -28,10 +28,10 @@ China released a new batch of 2026 crude import quotas — what does it mean for
 
 China’s seaborne crude imports climbed to 12mbd in December 2025, marking a new record despite a not-fully-recovered domestic economy. More than 35mb (or ~1.1 mbd) of these arrivals flowed into onshore crude inventories, leaving adjusted refinery intake broadly flat month on month.
 
-![Στιγμιότυπο Οθόνης 2026 01 15 184200](assets/2026-01-15_chinas-role-as-a-pressure-valve-in-sanctioned-crude-market_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_da4ffbcedccb.png)
+![Στιγμιότυπο Οθόνης 2026 01 15 184200](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-01-15_chinas-role-as-a-pressure-valve-in-sanctioned-crude-market_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_da4ffbcedccb.png)
 
 > **Figure 1: Στιγμιότυπο Οθόνης 2026 01 15 184200**  
-> **Interactive Data & Source:** [Vortexa](https://www.vortexa.com//oil-gas-data-traders-analysts-data-scientists?gclid=Cj0KCQjw8_qRBhCXARIsAE2AtRZKOvMnbilZ_6_91d7huSFFy71pWLrnPwGwOHVzXsmsG-1a1mZnQw8aAt89EALw_wcB&hsa_acc=1782073842&hsa_ad=548425387665&hsa_cam=14746637662&hsa_grp=125038601902&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_src=g&hsa_tgt=dsa-1431852288425&hsa_ver=3&utm_campaign=%5BCD%5D%20-%20DSA%20-%20EMEA&utm_medium=cpc&utm_medium=ppc&utm_source=google&utm_source=adwords&utm_term=) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-01-15_chinas-role-as-a-pressure-valve-in-sanctioned-crude-market_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_da4ffbcedccb.png)
+> **Interactive Data & Source:** [Vortexa](https://www.vortexa.com//oil-gas-data-traders-analysts-data-scientists?gclid=Cj0KCQjw8_qRBhCXARIsAE2AtRZKOvMnbilZ_6_91d7huSFFy71pWLrnPwGwOHVzXsmsG-1a1mZnQw8aAt89EALw_wcB&hsa_acc=1782073842&hsa_ad=548425387665&hsa_cam=14746637662&hsa_grp=125038601902&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_src=g&hsa_tgt=dsa-1431852288425&hsa_ver=3&utm_campaign=%5BCD%5D%20-%20DSA%20-%20EMEA&utm_medium=cpc&utm_medium=ppc&utm_source=google&utm_source=adwords&utm_term=) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-01-15_chinas-role-as-a-pressure-valve-in-sanctioned-crude-market_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_da4ffbcedccb.png)
 
 While over 12mb of stockbuilds during December occurred in Guangdong, primarily at state-owned storage facilities linked to Sinopec Maoming and PetroChina Jieyang refineries, nearly 15mb was accumulated in Shandong. This aligns with record-high sanctioned crude imports into Shandong during November-December.
 
@@ -45,19 +45,19 @@ Meanwhile, China has accelerated the discharge of Venezuelan barrels since Novem
 
 However, the discharge rate has slowed since December, reflecting storage constraints for high-viscosity Venezuelan grades, particularly in Shandong, compounded by seasonally weak winter demand.
 
-![Στιγμιότυπο Οθόνης 2026 01 15 184256](assets/2026-01-15_chinas-role-as-a-pressure-valve-in-sanctioned-crude-market_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_6b5246741741.png)
+![Στιγμιότυπο Οθόνης 2026 01 15 184256](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-01-15_chinas-role-as-a-pressure-valve-in-sanctioned-crude-market_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_6b5246741741.png)
 
 > **Figure 2: Στιγμιότυπο Οθόνης 2026 01 15 184256**  
-> **Interactive Data & Source:** [Vortexa](https://www.vortexa.com//oil-gas-data-traders-analysts-data-scientists?gclid=Cj0KCQjw8_qRBhCXARIsAE2AtRZKOvMnbilZ_6_91d7huSFFy71pWLrnPwGwOHVzXsmsG-1a1mZnQw8aAt89EALw_wcB&hsa_acc=1782073842&hsa_ad=548425387665&hsa_cam=14746637662&hsa_grp=125038601902&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_src=g&hsa_tgt=dsa-1431852288425&hsa_ver=3&utm_campaign=%5BCD%5D%20-%20DSA%20-%20EMEA&utm_medium=cpc&utm_medium=ppc&utm_source=google&utm_source=adwords&utm_term=) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-01-15_chinas-role-as-a-pressure-valve-in-sanctioned-crude-market_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_6b5246741741.png)
+> **Interactive Data & Source:** [Vortexa](https://www.vortexa.com//oil-gas-data-traders-analysts-data-scientists?gclid=Cj0KCQjw8_qRBhCXARIsAE2AtRZKOvMnbilZ_6_91d7huSFFy71pWLrnPwGwOHVzXsmsG-1a1mZnQw8aAt89EALw_wcB&hsa_acc=1782073842&hsa_ad=548425387665&hsa_cam=14746637662&hsa_grp=125038601902&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_src=g&hsa_tgt=dsa-1431852288425&hsa_ver=3&utm_campaign=%5BCD%5D%20-%20DSA%20-%20EMEA&utm_medium=cpc&utm_medium=ppc&utm_source=google&utm_source=adwords&utm_term=) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-01-15_chinas-role-as-a-pressure-valve-in-sanctioned-crude-market_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_6b5246741741.png)
 
 ## Elastic Demand Meets Structural Constraints in China
 
 China has emerged as the key destination for sanctioned crude in recent years, absorbing around 55% of global seaborne sanctioned exports since 2023.
 
-![Στιγμιότυπο Οθόνης 2026 01 15 184333](assets/2026-01-15_chinas-role-as-a-pressure-valve-in-sanctioned-crude-market_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_a799841333e0.png)
+![Στιγμιότυπο Οθόνης 2026 01 15 184333](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-01-15_chinas-role-as-a-pressure-valve-in-sanctioned-crude-market_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_a799841333e0.png)
 
 > **Figure 3: Στιγμιότυπο Οθόνης 2026 01 15 184333**  
-> **Interactive Data & Source:** [Vortexa](https://www.vortexa.com//oil-gas-data-traders-analysts-data-scientists?gclid=Cj0KCQjw8_qRBhCXARIsAE2AtRZKOvMnbilZ_6_91d7huSFFy71pWLrnPwGwOHVzXsmsG-1a1mZnQw8aAt89EALw_wcB&hsa_acc=1782073842&hsa_ad=548425387665&hsa_cam=14746637662&hsa_grp=125038601902&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_src=g&hsa_tgt=dsa-1431852288425&hsa_ver=3&utm_campaign=%5BCD%5D%20-%20DSA%20-%20EMEA&utm_medium=cpc&utm_medium=ppc&utm_source=google&utm_source=adwords&utm_term=) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-01-15_chinas-role-as-a-pressure-valve-in-sanctioned-crude-market_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_a799841333e0.png)
+> **Interactive Data & Source:** [Vortexa](https://www.vortexa.com//oil-gas-data-traders-analysts-data-scientists?gclid=Cj0KCQjw8_qRBhCXARIsAE2AtRZKOvMnbilZ_6_91d7huSFFy71pWLrnPwGwOHVzXsmsG-1a1mZnQw8aAt89EALw_wcB&hsa_acc=1782073842&hsa_ad=548425387665&hsa_cam=14746637662&hsa_grp=125038601902&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_src=g&hsa_tgt=dsa-1431852288425&hsa_ver=3&utm_campaign=%5BCD%5D%20-%20DSA%20-%20EMEA&utm_medium=cpc&utm_medium=ppc&utm_source=google&utm_source=adwords&utm_term=) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-01-15_chinas-role-as-a-pressure-valve-in-sanctioned-crude-market_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_a799841333e0.png)
 
 Its flexible feedstock slate and ample onshore storage capacity allow the country to absorb large volumes of deeply discounted barrels. However, several structural and policy constraints continue to shape how far Chinese refiners can extend this role.
 

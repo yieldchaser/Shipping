@@ -26,24 +26,24 @@ Inflation is the sort of unpredictable variable that can expose even the clevere
 
 If anything, in December it slowed down from 2.7% to 2.4%, faster than projections. What is even more maddening is that neither other data (like PMIs, Chinese producer inflation), nor the Fed’s own projections seem to be consistent with such low inflation.
 
-![Market Chart 1](assets/2026-02-18_should-we-throw-the-higher-inflation-towel_img_image001_b400eb27a4eb.png)
+![Market Chart 1](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-02-18_should-we-throw-the-higher-inflation-towel_img_image001_b400eb27a4eb.png)
 
 > **Figure 1: Market Chart 1**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-02-18_should-we-throw-the-higher-inflation-towel_img_image001_b400eb27a4eb.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-02-18_should-we-throw-the-higher-inflation-towel_img_image001_b400eb27a4eb.png)
 
 As expected, the market reacted broadly positively to the data, with investors now pricing in close to three rate cuts by the end of 2026, as opposed to one, which is projected by the Fed Dot Plot (a tool incoming Chair Kevin Warsh wants to dispense with).
 
-![Market Chart 2](assets/2026-02-18_should-we-throw-the-higher-inflation-towel_img_image002_185c395432c4.png)
+![Market Chart 2](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-02-18_should-we-throw-the-higher-inflation-towel_img_image002_185c395432c4.png)
 
 > **Figure 2: Market Chart 2**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-02-18_should-we-throw-the-higher-inflation-towel_img_image002_185c395432c4.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-02-18_should-we-throw-the-higher-inflation-towel_img_image002_185c395432c4.png)
 
 It should come as no surprise that the 10-year yield is now trading at the lower end of the 4%-4.5% range of the last two years.
 
-![Market Chart 3](assets/2026-02-18_should-we-throw-the-higher-inflation-towel_img_image003_9c3fb76cb690.png)
+![Market Chart 3](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-02-18_should-we-throw-the-higher-inflation-towel_img_image003_9c3fb76cb690.png)
 
 > **Figure 3: Market Chart 3**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-02-18_should-we-throw-the-higher-inflation-towel_img_image003_9c3fb76cb690.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-02-18_should-we-throw-the-higher-inflation-towel_img_image003_9c3fb76cb690.png)
 
 Was the president simply right that tariffs (which I remind you are not being “paid for” by foreigners) are not necessarily inflationary? Is the apocalypse coming with a lag, once the lower oil price effect is removed from the data? Is the data being skewed by the previous shutdown, where some items, like rents, were not counted and only inferred?
 
@@ -73,10 +73,10 @@ However, given the debt burden, we do believe that the US government is comforta
 
 The Fed and the US government have their work cut out for them if they want to avoid increasing debt servicing costs. Already, the US is spending 12.5% of tax receipts just to cover interest expenditure.
 
-![Market Chart 4](assets/2026-02-18_should-we-throw-the-higher-inflation-towel_img_image004_48d827ccd851.png)
+![Market Chart 4](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-02-18_should-we-throw-the-higher-inflation-towel_img_image004_48d827ccd851.png)
 
 > **Figure 4: Market Chart 4**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-02-18_should-we-throw-the-higher-inflation-towel_img_image004_48d827ccd851.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-02-18_should-we-throw-the-higher-inflation-towel_img_image004_48d827ccd851.png)
 
 Further fiscal expansion will likely mean higher inflation and borrowing costs. A Fed straightjacket on fiscal expansion could stifle growth. US businesses should be prepared for both eventualities. European and UK businesses, who are seeing a challenge to growth from the American demand shock, are not as exposed to potentially higher inflation.
 

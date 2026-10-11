@@ -53,10 +53,10 @@ The wheat futures trading in Chicago have declined by more than forty per cent s
 
 Despite sanctions and other disruptions to Russian trade flows, the year’s record wheat harvest has seen cargo order volumes for the grain loading in the country’s ports surging since the beginning of the third quarter. While October and November failed to match the September volumes, they were among the highest ever recorded. However, the current month has seen a slow start to ordering activities, suggesting that Russian wheat exports will start to ease off in the coming months.
 
-![Market Chart 1](assets/2022-12-16_shipfix-global-market-update_img_unnamed-2022-12-16t130913445_d473c4a36d39.png)
+![Market Chart 1](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-12-16_shipfix-global-market-update_img_unnamed-2022-12-16t130913445_d473c4a36d39.png)
 
 > **Figure 1: Market Chart 1**  
-> **Interactive Data & Source:** [Shipfix](https://shipfix.com/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-12-16_shipfix-global-market-update_img_unnamed-2022-12-16t130913445_d473c4a36d39.png)
+> **Interactive Data & Source:** [Shipfix](https://shipfix.com/) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-12-16_shipfix-global-market-update_img_unnamed-2022-12-16t130913445_d473c4a36d39.png)
 
 The easing of the Chinese Covid restrictions has been eagerly awaited by many in the commodity and dry bulk markets, as a reopening of the Chinese economy could be expected to boost demand. Still, the Chinese economy is facing considerable headwinds, and the economic revival may fail to impress.
 

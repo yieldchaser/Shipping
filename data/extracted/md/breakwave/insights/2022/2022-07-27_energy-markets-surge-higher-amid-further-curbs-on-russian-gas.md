@@ -23,10 +23,10 @@ source_file: "corpus/03-breakwave/insights/2022/2022-07-27_energy-markets-surge-
 
 Commodity markets were mixed as supply tightness amid a weakening economic backdrop saw large moves across metals and energy.
 
-![1658874834186](assets/2022-07-27_energy-markets-surge-higher-amid-further-curbs-on-russian-gas_img_1658874834186_ceba56c79f84.png)
+![1658874834186](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-07-27_energy-markets-surge-higher-amid-further-curbs-on-russian-gas_img_1658874834186_ceba56c79f84.png)
 
 > **Figure 1: 1658874834186**  
-> **Interactive Data & Source:** [Publications Anz](https://publications.anz.com/SingletrackCMS__DownloadDocument?docRef=4d689440-30a6-4eb9-a7b3-351b260b1049&uid=bd219b92-f5cc-400e-9646-4178791864b7&jobRef=a8a3b288-c634-4b83-9c6c-3715d0bf1d3d) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-07-27_energy-markets-surge-higher-amid-further-curbs-on-russian-gas_img_1658874834186_ceba56c79f84.png)
+> **Interactive Data & Source:** [Publications Anz](https://publications.anz.com/SingletrackCMS__DownloadDocument?docRef=4d689440-30a6-4eb9-a7b3-351b260b1049&uid=bd219b92-f5cc-400e-9646-4178791864b7&jobRef=a8a3b288-c634-4b83-9c6c-3715d0bf1d3d) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-07-27_energy-markets-surge-higher-amid-further-curbs-on-russian-gas_img_1658874834186_ceba56c79f84.png)
 
 **Energy markets**surged higher as Russia curbed gas supplies further. Dutch front month futures rallied more than 13% to end the session just shy of EUR200/MWh following Gazprom’s announcement yesterday that gas flows through Nord Stream would be cut to 20% of capacity. Only one major turbine remains in working condition based on Gazprom’s statements. The other five turbines need to be returned to Canada for additional repairs. However, sanctions are likely to make that process difficult. With the prospect of gas flows remaining curbed for the foreseeable future, the European Union pressed ahead with a plan to cut gas use by 15% through next winter. Fears of an energy crunch sent power prices higher, with Germany year-ahead power climbing as much as 11% to EUR380/MWh.
 

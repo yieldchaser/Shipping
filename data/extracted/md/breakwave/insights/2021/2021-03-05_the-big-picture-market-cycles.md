@@ -30,7 +30,7 @@ Across the board, commodity prices are booming. Crude has surprised many by clim
 
 > **Figure 1: “It Wont Be Plain Sailing and We Do Not Expect a Cycle Like**  
 > *“It wont be plain sailing and we do not expect a cycle like 2004-2010, in height or duration, but the path of pricing does suggest that for freight and bulk commodities, the cycle has at last moved into the next phase.”*  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2021/assets/2021-03-05_the-big-picture-market-cycles_img_bmr90_d23d37591f67.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-03-05_the-big-picture-market-cycles_img_bmr90_d23d37591f67.png)
 
 Similarly, dry bulk freight rates are on fire with most markets at their highest levels in over ten years. With so many countries around the world planning large stimulus packages to spark a post-Covid economic recovery, speculation has mounted over whether a surge in consumption and apparent boom in green investment will trigger the next elusive ‘supercycle’.
 
@@ -45,7 +45,7 @@ This indeed turned out to be the case, with prices picking up over the following
 ![Bmr 91](assets/2021-03-05_the-big-picture-market-cycles_img_bmr91_0251078154be.png)
 
 > **Figure 2: Bmr 91**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2021/assets/2021-03-05_the-big-picture-market-cycles_img_bmr91_0251078154be.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-03-05_the-big-picture-market-cycles_img_bmr91_0251078154be.png)
 
 ### What About Freight?
 
@@ -57,7 +57,7 @@ Superimposed on this pattern, China’s massive raw material demand growth in th
 
 > **Figure 3: As Always**  
 > *As always, for a more in-depth view of how we see the different bulker markets developing, please get in touch through your broker.*  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2021/assets/2021-03-05_the-big-picture-market-cycles_img_bmr92_9b8e94b9798c.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-03-05_the-big-picture-market-cycles_img_bmr92_9b8e94b9798c.png)
 
 ### Where Are We Now?
 

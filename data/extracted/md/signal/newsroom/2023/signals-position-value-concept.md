@@ -44,7 +44,7 @@ Consider the case of an Aframax opening in Trieste. She could embark on a transa
 
 > **Figure 1: Indicative Example Comparison of a Transatlantic Voyage and an East Run for Vessel Opening in Central Mediterranean Image Source: The Signal Ocean Platform**  
 > *Indicative example comparison of a transatlantic voyage and an east run for vessel opening in central Mediterranean Image source: The Signal Ocean Platform*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/signals-position-value-concept) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/66b51f5b942e52c7d1276477_64b111c95d77dce14da80865_VT5x9H-arCMm5Ed9K5nzBdxqiCtAVo7dtKTzzqaFLVVkd2bBmGBl7-1SYoCu0-CblohrOWarZTLkN568NlvE8d-j8iEn2RIpw80sng9pY_5Qax3O32rXjo8uZ0y3DOSFSehSZzTvp-_Tw1hdUd3OHdc.avif)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/signals-position-value-concept) | [Local Asset](../../../../../../corpus/07-signal/images/66b51f5b942e52c7d1276477_64b111c95d77dce14da80865_VT5x9H-arCMm5Ed9K5nzBdxqiCtAVo7dtKTzzqaFLVVkd2bBmGBl7-1SYoCu0-CblohrOWarZTLkN568NlvE8d-j8iEn2RIpw80sng9pY_5Qax3O32rXjo8uZ0y3DOSFSehSZzTvp-_Tw1hdUd3OHdc.avif)
 
 Similar calculations can be applied to price correctly multiple discharging options for any fixture. Everything has a price; we just need to determine the right one.
 

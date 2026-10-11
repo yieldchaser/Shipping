@@ -34,10 +34,10 @@ Conversely, U.S. soybean exports have remained largely muted this year, though t
 
 The Panamax market has now clearly shifted from last year’s subdued conditions toward a phase of renewed activity and firmer underlying fundamentals. Pacific demand is being anchored by China’s heightened coal import requirements and persistent thermal power needs, while Atlantic momentum is supported by strong Brazilian soybean exports and the recent re-emergence of U.S. purchases. Looking ahead, the interplay between resilient Asian energy demand, sustained South American agricultural exports, and measured U.S. trading activity suggests that Panamax tonnage should remain well-supported into winter, even if volatility continues to shape weekly sentiment. There is cautious optimism that, provided commodity flows across both basins remain broadly intact, the segment is positioned to maintain a constructive tone into the new year, potentially delivering higher seasonal lows during what is typically the weakest first quarter.
 
-![Στιγμιότυπο Οθόνης 2025 11 24 102519](assets/2025-11-24_panamax-market_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_e66366375881.png)
+![Στιγμιότυπο Οθόνης 2025 11 24 102519](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-11-24_panamax-market_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_e66366375881.png)
 
 > **Figure 1: Στιγμιότυπο Οθόνης 2025 11 24 102519**  
-> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-11-24_panamax-market_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_e66366375881.png)
+> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-11-24_panamax-market_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_e66366375881.png)
 
 Data source:[Doric](https://www.doric.gr/)
 

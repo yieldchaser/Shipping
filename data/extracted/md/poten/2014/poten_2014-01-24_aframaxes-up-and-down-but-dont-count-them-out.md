@@ -90,6 +90,10 @@ Looking forward, the discussion for new crude oil exports hinges largely on new 
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: Aframaxes: Up and Down, But Don't Count Them Out](../../../charts/poten/2014/poten_2014-01-24_aframaxes-up-and-down-but-dont-count-them-out_chart1.png)
+![Exhibit 1: Aframax Time Charter Equivalents](../../../charts/poten/2014/poten_2014-01-24_aframaxes-up-and-down-but-dont-count-them-out_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2014/poten_2014-01-24_aframaxes-up-and-down-but-dont-count-them-out_chart1.png)
+> **Exhibit 1: Aframax Time Charter Equivalents**  
+> Unit: $/day · X-axis: Jan-13 to Jan-14  
+> Series: Cayo Arcas - Houston (70kt), Sidi Kerir - Lavera (80kt), Novorossisk - Augusta (80kt)  
+> *Source: Poten & Partners*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2014/poten_2014-01-24_aframaxes-up-and-down-but-dont-count-them-out_chart1.png)

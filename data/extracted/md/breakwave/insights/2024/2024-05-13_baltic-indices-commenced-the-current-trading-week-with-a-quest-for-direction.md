@@ -36,10 +36,10 @@ In terms of the other two major commodities within the dry bulk spectrum, China'
 
 The most striking statistic, however, emerged from China's exporting activity rather than its importing endeavors. Specifically, China's steel exports surged by 16.3 percent in April compared to the previous year, reaching a volume of 9.22 million tonnes. These shipments in April contributed to a total of 35.02 million tonnes exported during the period from January to April, marking the highest figure for this period since 2016 and representing a remarkable 27 percent year-on-year increase.
 
-![Στιγμιότυπο Οθόνης 2024 05 13 100344](assets/2024-05-13_baltic-indices-commenced-the-current-trading-week-with-a-quest-for-direction_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_865e55275e29.png)
+![Στιγμιότυπο Οθόνης 2024 05 13 100344](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-05-13_baltic-indices-commenced-the-current-trading-week-with-a-quest-for-direction_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_865e55275e29.png)
 
 > **Figure 1: Στιγμιότυπο Οθόνης 2024 05 13 100344**  
-> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-05-13_baltic-indices-commenced-the-current-trading-week-with-a-quest-for-direction_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_865e55275e29.png)
+> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-05-13_baltic-indices-commenced-the-current-trading-week-with-a-quest-for-direction_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_865e55275e29.png)
 
 Given the market dynamics outlined earlier, the Baltic Supramax index wrapped up the day at $16,333 daily, slightly below this year's highs. Both the Baltic Capesize and Panamax indices capped off the nineteenth trading week at one-and-a-half-month highs, achieving $18,230 and $16,333 respectively. Conversely, Baltic Handysize index was the only one in the red, balancing at $12,647 daily.
 

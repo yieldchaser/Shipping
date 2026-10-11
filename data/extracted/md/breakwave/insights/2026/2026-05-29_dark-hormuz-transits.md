@@ -32,10 +32,10 @@ What began as a behaviour largely associated with Iran-linked tonnage has broade
 
 For the market, the implication is clear: Gulf exports have not stopped, but a growing share of the physical flow is becoming harder to observe in real time. That matters for load timing, origin attribution, destination reads, and near-term availability signals.
 
-![Στιγμιότυπο Οθόνης 2026 05 29 102238](assets/2026-05-29_dark-hormuz-transits_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_750f1902f3a7.png)
+![Στιγμιότυπο Οθόνης 2026 05 29 102238](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-05-29_dark-hormuz-transits_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_750f1902f3a7.png)
 
 > **Figure 1: Στιγμιότυπο Οθόνης 2026 05 29 102238**  
-> **Interactive Data & Source:** [Vortexa](https://www.vortexa.com//oil-gas-data-traders-analysts-data-scientists?gclid=Cj0KCQjw8_qRBhCXARIsAE2AtRZKOvMnbilZ_6_91d7huSFFy71pWLrnPwGwOHVzXsmsG-1a1mZnQw8aAt89EALw_wcB&hsa_acc=1782073842&hsa_ad=548425387665&hsa_cam=14746637662&hsa_grp=125038601902&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_src=g&hsa_tgt=dsa-1431852288425&hsa_ver=3&utm_campaign=%5BCD%5D%20-%20DSA%20-%20EMEA&utm_medium=cpc&utm_medium=ppc&utm_source=google&utm_source=adwords&utm_term=) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-05-29_dark-hormuz-transits_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_750f1902f3a7.png)
+> **Interactive Data & Source:** [Vortexa](https://www.vortexa.com//oil-gas-data-traders-analysts-data-scientists?gclid=Cj0KCQjw8_qRBhCXARIsAE2AtRZKOvMnbilZ_6_91d7huSFFy71pWLrnPwGwOHVzXsmsG-1a1mZnQw8aAt89EALw_wcB&hsa_acc=1782073842&hsa_ad=548425387665&hsa_cam=14746637662&hsa_grp=125038601902&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_src=g&hsa_tgt=dsa-1431852288425&hsa_ver=3&utm_campaign=%5BCD%5D%20-%20DSA%20-%20EMEA&utm_medium=cpc&utm_medium=ppc&utm_source=google&utm_source=adwords&utm_term=) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-05-29_dark-hormuz-transits_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_750f1902f3a7.png)
 
 ## Dark Loads Outside Hormuz Are Surging
 
@@ -43,10 +43,10 @@ The Hormuz transit data captures only one channel. Vortexa-confirmed dark loadin
 
 The UAE departures chart makes the scale of this shift explicit. Overall departures from UAE have remained substantial throughout the crisis, but the share of those loads occurring dark has risen from negligible levels in early March to above 90% in the most recent weeks. The export system is adapting, not stopping – with more cargo moving through channels where the loading event is harder to observe through AIS.
 
-![Στιγμιότυπο Οθόνης 2026 05 29 102330](assets/2026-05-29_dark-hormuz-transits_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_651e4ba41983.png)
+![Στιγμιότυπο Οθόνης 2026 05 29 102330](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-05-29_dark-hormuz-transits_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_651e4ba41983.png)
 
 > **Figure 2: Στιγμιότυπο Οθόνης 2026 05 29 102330**  
-> **Interactive Data & Source:** [Vortexa](https://www.vortexa.com//oil-gas-data-traders-analysts-data-scientists?gclid=Cj0KCQjw8_qRBhCXARIsAE2AtRZKOvMnbilZ_6_91d7huSFFy71pWLrnPwGwOHVzXsmsG-1a1mZnQw8aAt89EALw_wcB&hsa_acc=1782073842&hsa_ad=548425387665&hsa_cam=14746637662&hsa_grp=125038601902&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_src=g&hsa_tgt=dsa-1431852288425&hsa_ver=3&utm_campaign=%5BCD%5D%20-%20DSA%20-%20EMEA&utm_medium=cpc&utm_medium=ppc&utm_source=google&utm_source=adwords&utm_term=) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-05-29_dark-hormuz-transits_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_651e4ba41983.png)
+> **Interactive Data & Source:** [Vortexa](https://www.vortexa.com//oil-gas-data-traders-analysts-data-scientists?gclid=Cj0KCQjw8_qRBhCXARIsAE2AtRZKOvMnbilZ_6_91d7huSFFy71pWLrnPwGwOHVzXsmsG-1a1mZnQw8aAt89EALw_wcB&hsa_acc=1782073842&hsa_ad=548425387665&hsa_cam=14746637662&hsa_grp=125038601902&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_src=g&hsa_tgt=dsa-1431852288425&hsa_ver=3&utm_campaign=%5BCD%5D%20-%20DSA%20-%20EMEA&utm_medium=cpc&utm_medium=ppc&utm_source=google&utm_source=adwords&utm_term=) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-05-29_dark-hormuz-transits_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_651e4ba41983.png)
 
 VLCC-class vessels have consistently represented around 59% of dark loads across April and May, making them the dominant size class by a significant margin. That points to a clear commercial incentive: when visibility and routing are constrained, operators are still trying to move the largest possible parcels through whichever channel remains available.
 

@@ -60,6 +60,14 @@ Jan Feb Mar Apr May Jun Aug Sep Oct Nov Dec In the past few weeks, US crude oil 
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: Sizing Up Summer's End](../../../charts/poten/2007/poten_2007-08-17_sizing-up-summers-end_chart1.png)
+> **Chart on PDF page 1: US Crude Oil Inventory vs. VLCC TCE AG - USG (280 kt)**  
+> Unit: Thousand Barrels | TCE, $/day · X-axis: Jan-06 to Jul-07  
+> Series: US Crude Oil Inventory, TCE  
+> *Source: EIA/Poten*  
+> *No image crop of this chart was saved; caption read from the PDF.*
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2007/poten_2007-08-17_sizing-up-summers-end_chart1.png)
+> **Chart on PDF page 2: General Tendency of TCE Response to Crude Oil Inventory**  
+> Unit: TCE, $/day · X-axis: 314,686 to 346,899  
+> Series: TCE, Trendline (R Square=0.17)  
+> *Source: EIA/Poten*  
+> *No image crop of this chart was saved; caption read from the PDF.*

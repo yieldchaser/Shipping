@@ -38,8 +38,8 @@ There is still hope that all the threats of tariffs are just negotiating tactics
 
 ![Exhibit 1: Collateral Damage](../../../charts/poten/2018/poten_2018-06-22_collateral-damage_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2018/poten_2018-06-22_collateral-damage_chart1.png)
+> **Interactive Asset:** [Local Asset (200 DPI PNG)](../../../charts/poten/2018/poten_2018-06-22_collateral-damage_chart1.png)
 
 ![Exhibit 2: Collateral Damage](../../../charts/poten/2018/poten_2018-06-22_collateral-damage_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2018/poten_2018-06-22_collateral-damage_chart2.png)
+> **Interactive Asset:** [Local Asset (200 DPI PNG)](../../../charts/poten/2018/poten_2018-06-22_collateral-damage_chart2.png)

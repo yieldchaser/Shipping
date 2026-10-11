@@ -34,4 +34,4 @@ In summary, the data from the average distance analysis is not conclusive and in
 
 ![Exhibit 1: Are Tankers Going The Distance](../../../charts/poten/2015/poten_2015-06-05_are-tankers-going-the-distance_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2015/poten_2015-06-05_are-tankers-going-the-distance_chart1.png)
+> **Interactive Asset:** [Local Asset (200 DPI PNG)](../../../charts/poten/2015/poten_2015-06-05_are-tankers-going-the-distance_chart1.png)

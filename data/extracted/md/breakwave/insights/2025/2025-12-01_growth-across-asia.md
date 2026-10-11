@@ -32,10 +32,10 @@ India’s latest quarterly reading underscores the point. GDP expanded 8.2 perce
 
 Despite an increasingly complex backdrop, the IMF has been explicit in emphasising the continued strength and resilience of India’s macroeconomic framework. For the dry bulk shipping sector – which is currently enjoying an unusually buoyant winter – the sustained outperformance of the world’s fourth-largest economy could play an outsized role in maintaining trade momentum at a moment when two of the main pillars of global demand are moving in opposite directions. The United States, increasingly inward-focused, is generating less spillover activity for global trade, while China – still central to bulk commodity flows – is navigating a slower growth phase and reassessing the foundations of its development model. In this context, India offers what the dry bulk market rarely experiences: incremental, broad-based demand growth anchored in steelintensive infrastructure investment, expanding energy needs, and rising household consumption. If sustained, India’s trajectory has the potential not only to cushion volatility in global freight markets but also to reshape tonne-mile dynamics. For an industry accustomed to cyclical highs that fade as quickly as they arrive, India’s expansion – should it stay on course – has the potential to shift from providing supplementary support to acting as a central driver capable of redefining the balance of global bulk commodity flows.
 
-![Στιγμιότυπο Οθόνης 2025 12 01 094149](assets/2025-12-01_growth-across-asia_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_65907a847f1e.png)
+![Στιγμιότυπο Οθόνης 2025 12 01 094149](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-12-01_growth-across-asia_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_65907a847f1e.png)
 
 > **Figure 1: Στιγμιότυπο Οθόνης 2025 12 01 094149**  
-> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-12-01_growth-across-asia_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_65907a847f1e.png)
+> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-12-01_growth-across-asia_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_65907a847f1e.png)
 
 Data source:[Doric](https://www.doric.gr/)
 

@@ -20,10 +20,10 @@ source_file: "corpus/03-breakwave/insights/2026/2026-03-16_locked-strait.html"
 
 ---
 
-![Istock 485480338](assets/2026-03-16_locked-strait_img_istock-485480338_ce7742c70ec8.jpg)
+![Istock 485480338](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-03-16_locked-strait_img_istock-485480338_ce7742c70ec8.jpg)
 
 > **Figure 1: Istock 485480338**  
-> **Interactive Data & Source:** [Gibsons Co](https://www.gibsons.co.uk/market-reports) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-03-16_locked-strait_img_istock-485480338_ce7742c70ec8.jpg)
+> **Interactive Data & Source:** [Gibsons Co](https://www.gibsons.co.uk/market-reports) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-03-16_locked-strait_img_istock-485480338_ce7742c70ec8.jpg)
 
 The crisis in the Middle East shows no signs of abating. Attacks on oil infrastructure in the region have continued, and multiple vessels have been hit. Transit through the SOH remains effectively blocked, with just a few tankers crossing Hormuz since the outset of hostilities. With storage filling up, Gulf countries have been forced to shut production and refining capacity. The IEA report released yesterday assesses that the region’s crude production has been cut by at least 10 mbd. Global oil supply as a result is projected to fall by 8 mbd this month, as some production increases are expected elsewhere. The latest estimates of regional refining capacity shut-ins range between 2.35 and 3 mbd.
 
@@ -41,10 +41,10 @@ It is impossible to predict how long the conflict in the Middle East will last. 
 
 However, the longer-term picture is somewhat more constructive. Once the situation in the Middle East stabilises and crude flows resume, we are likely to see pent-up demand as refiners move to replenish both commercial and strategic inventories. The longer-term picture is also becoming more positive. If there is a regime change in Iran, this would bring Iranian barrels back onto mainstream VLCCs and Suezmaxes, with this incremental demand helping to offset the increasing volume of new tanker deliveries expected in 2026 and 2027. Furthermore, the prolonged absence of Middle Eastern barrels from global supply reduces the risk of a heavy oversupply scenario that could ultimately have triggered global production cutbacks.
 
-![Στιγμιότυπο Οθόνης 2026 03 16 100612](assets/2026-03-16_locked-strait_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_e6cdc6e614b5.png)
+![Στιγμιότυπο Οθόνης 2026 03 16 100612](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-03-16_locked-strait_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_e6cdc6e614b5.png)
 
 > **Figure 2: Στιγμιότυπο Οθόνης 2026 03 16 100612**  
-> **Interactive Data & Source:** [Gibsons Co](https://www.gibsons.co.uk/market-reports) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-03-16_locked-strait_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_e6cdc6e614b5.png)
+> **Interactive Data & Source:** [Gibsons Co](https://www.gibsons.co.uk/market-reports) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-03-16_locked-strait_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_e6cdc6e614b5.png)
 
 Data source:[Gibson Shipbrokers](https://www.gibsons.co.uk/market-reports)
 

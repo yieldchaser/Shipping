@@ -23,10 +23,10 @@ source_file: "corpus/03-breakwave/insights/2022/2022-07-22_european-gas-rises-as
 
 Fears of weaker demand gripped commodity markets, pushing the metals and energy sectors lower. Slightly weaker USD and safe haven demand helped push the precious metals sector higher.
 
-![1658439552099](assets/2022-07-22_european-gas-rises-as-russian-gas-flows-restart-slowly_img_1658439552099_6dc87b936fe6.png)
+![1658439552099](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-07-22_european-gas-rises-as-russian-gas-flows-restart-slowly_img_1658439552099_6dc87b936fe6.png)
 
 > **Figure 1: 1658439552099**  
-> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-07-22_european-gas-rises-as-russian-gas-flows-restart-slowly_img_1658439552099_6dc87b936fe6.png)
+> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-07-22_european-gas-rises-as-russian-gas-flows-restart-slowly_img_1658439552099_6dc87b936fe6.png)
 
 **Crude oil**extended losses as concerns of weaker demand weighed on sentiment. This week’s EIA report that showed US stockpiles of gasoline rose by 3.5mbbls last week continued to hang over the market. This has been driven by weaker demand, despite being in the middle of the US driving season. At 8.52mb/d, demand is at its lowest seasonal level since 2008, as high gasoline prices take their toll on consumers. This has subsequently weighed on US gasoline crack spread, which has halved from its peak in early June to below USD30/bbl. This comes as some supply side disruptions ease. Libya’s National Oil Corporation said that crude output will recover to 1.2mb/d in about a week to 10 days from the current level of 700kb/d.
 

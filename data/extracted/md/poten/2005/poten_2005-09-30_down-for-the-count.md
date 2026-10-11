@@ -58,10 +58,10 @@ The one-two punch has put U.S. refining capacity down for the count, which will 
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: Down for the Count!](../../../charts/poten/2005/poten_2005-09-30_down-for-the-count_chart1.png)
+![Exhibit 2: TransAtlantic Clean Cargo Fixtures](../../../charts/poten/2005/poten_2005-09-30_down-for-the-count_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2005/poten_2005-09-30_down-for-the-count_chart1.png)
-
-![Exhibit 2: Down for the Count!](../../../charts/poten/2005/poten_2005-09-30_down-for-the-count_chart2.png)
-
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2005/poten_2005-09-30_down-for-the-count_chart2.png)
+> **Exhibit 2: TransAtlantic Clean Cargo Fixtures**  
+> Unit: $/Day | # Fixtures · X-axis: Jan-02 to Jul-05  
+> Series: $/Day, # Fixtures  
+> *Source: Poten & Partners*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2005/poten_2005-09-30_down-for-the-count_chart2.png)

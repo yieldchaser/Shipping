@@ -49,14 +49,23 @@ In the Aframax segment, Chevron also takes the first spot with 74 fixtures durin
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: Tanker Midterms   2024 Edition](../../../charts/poten/2024/poten_2024-06-28_tanker-midterms-2024-edition_chart1.png)
+![Exhibit 1: Top 10 VLCC Spot Charterers](../../../charts/poten/2024/poten_2024-06-28_tanker-midterms-2024-edition_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2024/poten_2024-06-28_tanker-midterms-2024-edition_chart1.png)
+> **Exhibit 1: Top 10 VLCC Spot Charterers**  
+> Unit: No. Spot Fixtures · X-axis: Unipec to Sinochem  
+> Series: Unipec, Petrobras, Shell, IOC, GS Caltex, Chevron, ExxonMobil, Total, SK Corp, Sinochem  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2024/poten_2024-06-28_tanker-midterms-2024-edition_chart1.png)
 
-![Exhibit 2: Tanker Midterms   2024 Edition](../../../charts/poten/2024/poten_2024-06-28_tanker-midterms-2024-edition_chart2.png)
+![Exhibit 2: Top 10 Aframax Spot Charterers](../../../charts/poten/2024/poten_2024-06-28_tanker-midterms-2024-edition_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2024/poten_2024-06-28_tanker-midterms-2024-edition_chart2.png)
+> **Exhibit 2: Top 10 Aframax Spot Charterers**  
+> Unit: No. Spot Fixtures · X-axis: Chevron to ExxonMobil  
+> Series: Chevron, Total, PTT, ENI, BP, PK Orlen, Shell, Heritage..., Unipec, ExxonMobil  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2024/poten_2024-06-28_tanker-midterms-2024-edition_chart2.png)
 
-![Exhibit 3: Tanker Midterms   2024 Edition](../../../charts/poten/2024/poten_2024-06-28_tanker-midterms-2024-edition_chart3.png)
+![Exhibit 3: Top 10 Suezmax Spot Charterers](../../../charts/poten/2024/poten_2024-06-28_tanker-midterms-2024-edition_chart3.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2024/poten_2024-06-28_tanker-midterms-2024-edition_chart3.png)
+> **Exhibit 3: Top 10 Suezmax Spot Charterers**  
+> Unit: No. Spot Fixtures · X-axis: Chevron to Unipec  
+> Series: Chevron, Shell, ExxonMobil, Repsol, IOC, Vitol, Total, BPCL, ENI, Unipec  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2024/poten_2024-06-28_tanker-midterms-2024-edition_chart3.png)

@@ -25,7 +25,7 @@ Marine Pollution Bulletin has published a new study from Chalmers University of 
 
 As a result of this study, the Swedish Transport Agency and the Swedish Agency for Marine and Water Management have proposed a new ban on vessels using scrubbers in the internal waters of the Baltic Sea. Similar bans are already in place in various countries, including China, for which the use of open-loop scrubber systems (sucking in seawater, spraying it into the exhaust, and discharging it overboard) are not allowed when in certain proximity from shoreline and inland bodies of water. Overall, this study is a reminder of possible unforeseen regulations hanging over the head of the dry bulk market — but the use of scrubbers remains extremely unlikely to be fully banned. As we have been stressing in our Weekly Dry Bulk Reports this year, the decision to fit dry bulk vessels with scrubbers has proven to be a very wise decision economically. Most recently, the VLSFO-HSFO spread ended last week at approximately $286/ton. At the start of this year, the spread stood at only approximately $141/ton.
 
-![Chart 1 (58)](assets/2022-10-28_critical-scrubber-study-released_img_chart1285829_5326edd26d4d.jpg)
+![Chart 1 (58)](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-10-28_critical-scrubber-study-released_img_chart1285829_5326edd26d4d.jpg)
 
 > **Figure 1: Chart 1 (58)**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-10-28_critical-scrubber-study-released_img_chart1285829_5326edd26d4d.jpg)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-10-28_critical-scrubber-study-released_img_chart1285829_5326edd26d4d.jpg)

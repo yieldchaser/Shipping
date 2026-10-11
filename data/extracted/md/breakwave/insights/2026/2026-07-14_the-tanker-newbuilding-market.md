@@ -20,11 +20,11 @@ source_file: "corpus/03-breakwave/insights/2026/2026-07-14_the-tanker-newbuildin
 
 ---
 
-![Byeirini Diamantara&dimitris Roumeliotis](assets/2026-07-14_the-tanker-newbuilding-market_img_unsplash-image-ngxd3zwmifa_89b9419e105b.jpg)
+![Byeirini Diamantara&dimitris Roumeliotis](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-07-14_the-tanker-newbuilding-market_img_unsplash-image-ngxd3zwmifa_89b9419e105b.jpg)
 
 > **Figure 1: Byeirini Diamantara&dimitris Roumeliotis**  
 > *ByEirini Diamantara&Dimitris Roumeliotis*  
-> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/in/eirini-diamantara-58b269105/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-07-14_the-tanker-newbuilding-market_img_unsplash-image-ngxd3zwmifa_89b9419e105b.jpg)
+> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/in/eirini-diamantara-58b269105/) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-07-14_the-tanker-newbuilding-market_img_unsplash-image-ngxd3zwmifa_89b9419e105b.jpg)
 
 The tanker newbuilding market has entered 2026 with considerably stronger momentum, reflecting growing confidence in long-term market fundamentals despite continued uncertainty surrounding environmental regulations and future propulsion technologies. As of mid-2026, the tanker fleet (>10,000 dwt) consists of 8,090 vessels, while the global orderbook has expanded to 1,535 ships, resulting in an orderbook-to-fleet ratio of 19.0%. This compares with an active fleet of 7,746 vessels and an orderbook of 1,220 vessels during the same period of 2025, when the ratio stood at 15.8%. While the fleet has grown by approximately 4.4% year-on-year, the orderbook has increased by almost 26%, highlighting a clear acceleration in investment activity across the sector.
 

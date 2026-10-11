@@ -23,10 +23,10 @@ By[Daniel Hynes](https://www.linkedin.com/in/dahynes/)
 
 Energy and metals jumped amid anticipation of Chinese stimulus. This was aided by a risk on tone across markets following a lower-than-expected inflation print in the US.
 
-![1686694525860](assets/2023-06-14_metals-rally-amid-expectations-of-chinese-stimulus-measures_img_1686694525860_c4b65dcdb836.png)
+![1686694525860](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-06-14_metals-rally-amid-expectations-of-chinese-stimulus-measures_img_1686694525860_c4b65dcdb836.png)
 
 > **Figure 1: 1686694525860**  
-> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-06-14_metals-rally-amid-expectations-of-chinese-stimulus-measures_img_1686694525860_c4b65dcdb836.png)
+> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-06-14_metals-rally-amid-expectations-of-chinese-stimulus-measures_img_1686694525860_c4b65dcdb836.png)
 
 Copper led the base metals higher after China cut its short-term policy interest rate. The PBoC cuts its seven-day reverse repo rate by 10bp to 1.9%. This came after data showed credit demand weakened in May, with aggregate financing at CNY1.6tn. Beijing is also said to be considering a broad package of stimulus measures focused on supporting the real estate market. This was supported by several supply-side issues. In the copper market, European producer Boliden halted output at its biggest smelter following a fire at the plant in southern Sweden. Aluminium smelters in China are also suffering from a lack of rainfall in Yunnan, where electricity is generating via hydropower plants. Even though recent rain could see some smelters restart, risks of ongoing constraints remain high. In the meantime, aluminium inventories have plunged about 60% since March.
 

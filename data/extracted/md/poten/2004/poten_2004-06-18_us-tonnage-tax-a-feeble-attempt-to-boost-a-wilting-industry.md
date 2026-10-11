@@ -54,6 +54,8 @@ We feel that the proposed tonnage tax and bringing back tax deferrals are equiva
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: US Tonnage Tax A Feeble Attempt to Boost a Wilting Industry](../../../charts/poten/2004/poten_2004-06-18_us-tonnage-tax-a-feeble-attempt-to-boost-a-wilting-industry_chart1.png)
-
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2004/poten_2004-06-18_us-tonnage-tax-a-feeble-attempt-to-boost-a-wilting-industry_chart1.png)
+> **Chart on PDF page 2: Privately Owned U.S. Flag Fleet Active Vessels Only**  
+> Unit: # Vessels · X-axis: 1990 to 2003  
+> Series: Passenger, Bulk Carrier, General Cargo, Intermodal, Tanker  
+> *Source: Marad/Poten*  
+> *No image crop of this chart was saved; caption read from the PDF.*

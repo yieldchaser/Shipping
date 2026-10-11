@@ -23,10 +23,10 @@ source_file: "corpus/03-breakwave/insights/2023/2023-03-08_sentiment-dented-by-h
 
 Hawkish comments from central bankers weighed on sentiment across markets. The subsequent risk off tone saw commodities come under pressure.
 
-![1678224961481](assets/2023-03-08_sentiment-dented-by-hawkish-comments-from-fed_img_1678224961481_687d71bb8f0d.png)
+![1678224961481](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-03-08_sentiment-dented-by-hawkish-comments-from-fed_img_1678224961481_687d71bb8f0d.png)
 
 > **Figure 1: 1678224961481**  
-> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-03-08_sentiment-dented-by-hawkish-comments-from-fed_img_1678224961481_687d71bb8f0d.png)
+> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-03-08_sentiment-dented-by-hawkish-comments-from-fed_img_1678224961481_687d71bb8f0d.png)
 
 **Crude oil**extended losses after Fed Chair Jerome Powell warned that the central bank may need to raise rates faster than expected, and to a higher endpoint. This raised concerns of weaker demand in the US. Inventories have been rising sharply in recent weeks, while EIA’s measure of apparent demand for gasoline remains at a two-year low. This offset any optimism of stronger demand from China. Earlier in the week, the tone at CERAWeek was positive. Saudi Aramco CEO Amin Nasser said demand from China is very strong, a view global trader Trafigura also supports. The focus has also been on supply. OPEC Chief Haitham Al-Ghais met with US shale bosses on the sidelines of the conference. EIA lowered its crude oil production forecasts for US supply for both this year and next amid signs of subdued growth and higher costs.
 

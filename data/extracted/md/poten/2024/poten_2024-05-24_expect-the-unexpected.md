@@ -28,8 +28,12 @@ What can we expect in this market going forward? It is impossible to predict. Ho
 
 ![Exhibit 1: Expect The Unexpected](../../../charts/poten/2024/poten_2024-05-24_expect-the-unexpected_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2024/poten_2024-05-24_expect-the-unexpected_chart1.png)
+> **Interactive Asset:** [Local Asset (200 DPI PNG)](../../../charts/poten/2024/poten_2024-05-24_expect-the-unexpected_chart1.png)
 
-![Exhibit 2: Expect The Unexpected](../../../charts/poten/2024/poten_2024-05-24_expect-the-unexpected_chart2.png)
+![Exhibit 2: Mediterranean Aframax Market (80Kt Sidi Kerir - Lavera)](../../../charts/poten/2024/poten_2024-05-24_expect-the-unexpected_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2024/poten_2024-05-24_expect-the-unexpected_chart2.png)
+> **Exhibit 2: Mediterranean Aframax Market (80Kt Sidi Kerir - Lavera)**  
+> Unit: TCE · X-axis: Jan-18 to Apr-24  
+> Series: TCE, COVID Pandemic, Russian Invasion, Hamas Attack  
+> *Source: Poten*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2024/poten_2024-05-24_expect-the-unexpected_chart2.png)

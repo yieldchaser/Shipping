@@ -26,10 +26,10 @@ tags:
 
 *Published on 23 May 2025*
 
-![Heading](../../images/683092378caeaa9c48ac4819_AD_4nXf8vTgLciJZNo_0yEcvHps8kiL5JBz0QGiH2nlZuANPfwcLfjgmsge0d15JTiBDmMSzACwNl1yxqJrpR5n45BMlRQOGZAByupG91wExlVashd_rRrQfEtTdBZrN9f1_mD0JROkbdQ.png)
+![Heading](../../../../../../corpus/07-signal/images/683092378caeaa9c48ac4819_AD_4nXf8vTgLciJZNo_0yEcvHps8kiL5JBz0QGiH2nlZuANPfwcLfjgmsge0d15JTiBDmMSzACwNl1yxqJrpR5n45BMlRQOGZAByupG91wExlVashd_rRrQfEtTdBZrN9f1_mD0JROkbdQ.png)
 
 > **Figure 1: Heading**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/tanker-week-21-2025) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/683092378caeaa9c48ac4819_AD_4nXf8vTgLciJZNo_0yEcvHps8kiL5JBz0QGiH2nlZuANPfwcLfjgmsge0d15JTiBDmMSzACwNl1yxqJrpR5n45BMlRQOGZAByupG91wExlVashd_rRrQfEtTdBZrN9f1_mD0JROkbdQ.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/tanker-week-21-2025) | [Local Asset](../../../../../../corpus/07-signal/images/683092378caeaa9c48ac4819_AD_4nXf8vTgLciJZNo_0yEcvHps8kiL5JBz0QGiH2nlZuANPfwcLfjgmsge0d15JTiBDmMSzACwNl1yxqJrpR5n45BMlRQOGZAByupG91wExlVashd_rRrQfEtTdBZrN9f1_mD0JROkbdQ.png)
 
 **At the end of the third week of May,** we are analysing the AG growth in tonne days within the dirty segment for VLCC tankers and the Ras Tanura supply trend to reveal the potential reasons behind the persistent downward pressure seen in the AG-China freight market sentiment.
 

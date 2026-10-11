@@ -32,10 +32,18 @@ If shipowners continue to show restraint and limit the contracting of additional
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: No Blast From The Past](../../../charts/poten/2015/poten_2015-01-16_no-blast-from-the-past_chart1.png)
+![Exhibit 1: Fig. 1: Brent Crude Oil Prices (1984 – 2015)](../../../charts/poten/2015/poten_2015-01-16_no-blast-from-the-past_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2015/poten_2015-01-16_no-blast-from-the-past_chart1.png)
+> **Exhibit 1: Fig. 1: Brent Crude Oil Prices (1984 – 2015)**  
+> Unit: USD/bbl · X-axis: Jan-84 to Jan-14  
+> Series: Brent Crude Oil Prices  
+> *Source: Bloomberg*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2015/poten_2015-01-16_no-blast-from-the-past_chart1.png)
 
-![Exhibit 2: No Blast From The Past](../../../charts/poten/2015/poten_2015-01-16_no-blast-from-the-past_chart2.png)
+![Exhibit 2: Fig. 2: Middle East Oil Production vs VLCC Rates](../../../charts/poten/2015/poten_2015-01-16_no-blast-from-the-past_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2015/poten_2015-01-16_no-blast-from-the-past_chart2.png)
+> **Exhibit 2: Fig. 2: Middle East Oil Production vs VLCC Rates**  
+> Unit: Mb/d | $/day · X-axis: 1976 to 2014  
+> Series: M.East Crude Production, 1 yr TC Rates  
+> *Source: Poten and Partners*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2015/poten_2015-01-16_no-blast-from-the-past_chart2.png)

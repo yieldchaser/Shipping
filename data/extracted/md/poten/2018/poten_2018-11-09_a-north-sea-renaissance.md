@@ -34,10 +34,18 @@ The implications for the tanker market of these changes are mostly positive. Mor
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: A North Sea Renaissance](../../../charts/poten/2018/poten_2018-11-09_a-north-sea-renaissance_chart1.png)
+![Exhibit 1: North Sea Crude Oil Production](../../../charts/poten/2018/poten_2018-11-09_a-north-sea-renaissance_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2018/poten_2018-11-09_a-north-sea-renaissance_chart1.png)
+> **Exhibit 1: North Sea Crude Oil Production**  
+> Unit: Kb/d · X-axis: 1972 to 2017  
+> Series: Norway, United Kingdom, Denmark  
+> *Source: BP/IEA*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2018/poten_2018-11-09_a-north-sea-renaissance_chart1.png)
 
-![Exhibit 2: A North Sea Renaissance](../../../charts/poten/2018/poten_2018-11-09_a-north-sea-renaissance_chart2.png)
+![Exhibit 2: North Sea Tanker Loadings](../../../charts/poten/2018/poten_2018-11-09_a-north-sea-renaissance_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2018/poten_2018-11-09_a-north-sea-renaissance_chart2.png)
+> **Exhibit 2: North Sea Tanker Loadings**  
+> Unit: % of Bbls · X-axis: Jan-14 to Aug-18  
+> Series: VLCC, Suezmax, Aframax, Other  
+> *Source: Lloyd’s List Intelligence*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2018/poten_2018-11-09_a-north-sea-renaissance_chart2.png)

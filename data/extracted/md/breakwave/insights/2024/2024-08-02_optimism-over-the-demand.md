@@ -68,10 +68,10 @@ While Chinese seaborne coal imports have been affected by several structural iss
 
 Weekly cargo order volumes have been trending lower since the beginning of June, with shipments from Indonesia taking the brunt of the declining demand. The past two months have seen demand drop by around 40 per cent compared to last year. In addition, unlike this year, cargo order volumes trended higher throughout June and July last year. Hence, the coming months look set to see Chinese coal imports retreat from the levels recorded in recent months.
 
-![Στιγμιότυπο Οθόνης 2024 08 02 131947](assets/2024-08-02_optimism-over-the-demand_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_27dac130ff6d.png)
+![Στιγμιότυπο Οθόνης 2024 08 02 131947](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-08-02_optimism-over-the-demand_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_27dac130ff6d.png)
 
 > **Figure 1: Στιγμιότυπο Οθόνης 2024 08 02 131947**  
-> **Interactive Data & Source:** [Shipfix](https://shipfix.com/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-08-02_optimism-over-the-demand_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_27dac130ff6d.png)
+> **Interactive Data & Source:** [Shipfix](https://shipfix.com/) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-08-02_optimism-over-the-demand_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_27dac130ff6d.png)
 
 Data Source:[Shipfix](https://shipfix.com/)
 

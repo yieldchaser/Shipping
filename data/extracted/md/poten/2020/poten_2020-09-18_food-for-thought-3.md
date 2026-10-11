@@ -34,6 +34,10 @@ No doubt, people will debate the likelihood of these possible outcomes, but the 
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: Food For Thought 3](../../../charts/poten/2020/poten_2020-09-18_food-for-thought-3_chart1.png)
+![Exhibit 1: Liquid fuels consumption](../../../charts/poten/2020/poten_2020-09-18_food-for-thought-3_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2020/poten_2020-09-18_food-for-thought-3_chart1.png)
+> **Exhibit 1: Liquid fuels consumption**  
+> Unit: Mb/d · X-axis: 2000 to 2050  
+> Series: Rapid, Net Zero, Business-as-usual  
+> *Source: BP*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2020/poten_2020-09-18_food-for-thought-3_chart1.png)

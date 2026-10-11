@@ -38,10 +38,10 @@ Markets are happy to acknowledge a US-China trade truce, potential SCOTUS tariff
 
 A pervasive narrative in the past few weeks is the assumed return to some sort of mean. America’s trade truce with China (maybe it will last a year, maybe it will not), puts global trade on a more secure footing. And a possible negative Supreme Court ruling (maybe before the end of the year) would make tariff imposition even harder. The IEEPA (International Emergency Economic Powers Act) tariffs account for nearly 2/3 of all tariff income, and, if they are stricken down, it could force the government to return c/ $140bn to importers.
 
-![Market Chart 1](assets/2025-11-11_the-geopolitical-centre-doesnt-hold-why-you-should-care_img_image008_8a387c07c5b0.jpg)
+![Market Chart 1](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-11-11_the-geopolitical-centre-doesnt-hold-why-you-should-care_img_image008_8a387c07c5b0.jpg)
 
 > **Figure 1: Market Chart 1**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-11-11_the-geopolitical-centre-doesnt-hold-why-you-should-care_img_image008_8a387c07c5b0.jpg)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-11-11_the-geopolitical-centre-doesnt-hold-why-you-should-care_img_image008_8a387c07c5b0.jpg)
 
 Additionally, at the time of writing, the US government shutdown, the longest in history, was close to ending.
 
@@ -61,37 +61,37 @@ As for the trade truce? It is simply time to rethink and reposition some pawns.
 
 Yet, equity allocations are at year-long highs.
 
-![Market Chart 2](assets/2025-11-11_the-geopolitical-centre-doesnt-hold-why-you-should-care_img_image011_79539cfbcba3.jpg)
+![Market Chart 2](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-11-11_the-geopolitical-centre-doesnt-hold-why-you-should-care_img_image011_79539cfbcba3.jpg)
 
 > **Figure 2: Market Chart 2**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-11-11_the-geopolitical-centre-doesnt-hold-why-you-should-care_img_image011_79539cfbcba3.jpg)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-11-11_the-geopolitical-centre-doesnt-hold-why-you-should-care_img_image011_79539cfbcba3.jpg)
 
 And equity markets seem to eagerly dismiss a more hawkish Fed.
 
-![Market Chart 3](assets/2025-11-11_the-geopolitical-centre-doesnt-hold-why-you-should-care_img_image012_b2efdd5d62c9.jpg)
+![Market Chart 3](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-11-11_the-geopolitical-centre-doesnt-hold-why-you-should-care_img_image012_b2efdd5d62c9.jpg)
 
 > **Figure 3: Market Chart 3**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-11-11_the-geopolitical-centre-doesnt-hold-why-you-should-care_img_image012_b2efdd5d62c9.jpg)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-11-11_the-geopolitical-centre-doesnt-hold-why-you-should-care_img_image012_b2efdd5d62c9.jpg)
 
-![Even As Valuations Are Expensive](assets/2025-11-11_the-geopolitical-centre-doesnt-hold-why-you-should-care_img_image013_b75e9fe3d150.jpg)
+![Even As Valuations Are Expensive](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-11-11_the-geopolitical-centre-doesnt-hold-why-you-should-care_img_image013_b75e9fe3d150.jpg)
 
 > **Figure 4: Even As Valuations Are Expensive**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-11-11_the-geopolitical-centre-doesnt-hold-why-you-should-care_img_image013_b75e9fe3d150.jpg)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-11-11_the-geopolitical-centre-doesnt-hold-why-you-should-care_img_image013_b75e9fe3d150.jpg)
 
 and worries about an AI-stock bubble grow louder.
 
-![Source: Bloomberg](assets/2025-11-11_the-geopolitical-centre-doesnt-hold-why-you-should-care_img_image014_b66cb5fdff3b.jpg)
+![Source: Bloomberg](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-11-11_the-geopolitical-centre-doesnt-hold-why-you-should-care_img_image014_b66cb5fdff3b.jpg)
 
 > **Figure 5: Source: Bloomberg**  
 > *Source: Bloomberg, # of stories about a “bubble”*  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-11-11_the-geopolitical-centre-doesnt-hold-why-you-should-care_img_image014_b66cb5fdff3b.jpg)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-11-11_the-geopolitical-centre-doesnt-hold-why-you-should-care_img_image014_b66cb5fdff3b.jpg)
 
 The US 10-year Treasury, which was just a few weeks ago at the epicentre of global news as an asset endangered in the age of debt, is not yielding 5% but a relatively benign 4% and, if anything, it is on a downward trajectory since January.
 
-![Market Chart 6](assets/2025-11-11_the-geopolitical-centre-doesnt-hold-why-you-should-care_img_image015_afe917cfecc6.jpg)
+![Market Chart 6](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-11-11_the-geopolitical-centre-doesnt-hold-why-you-should-care_img_image015_afe917cfecc6.jpg)
 
 > **Figure 6: Market Chart 6**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-11-11_the-geopolitical-centre-doesnt-hold-why-you-should-care_img_image015_afe917cfecc6.jpg)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-11-11_the-geopolitical-centre-doesnt-hold-why-you-should-care_img_image015_afe917cfecc6.jpg)
 
 Are markets being too complacent? Are they so well-equipped to see through the noise that none of this matters?
 

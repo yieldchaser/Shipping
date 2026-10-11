@@ -32,10 +32,10 @@ But we do see this episode, as well as emerging issues from the private credit m
 
 This morning Brent crude peaked at highs of $117, with intense volatility—almost double (+98%) its levels at the December lows, before retracing just north of $100. It is the steepest rise in oil prices in modern history since 1985. The move comes after the election of a new Supreme Leader in Iran and a wider spillover of the conflict, with Iranian strikes against targets including Bahrain, Quartar, Saudi Arabia, and Iraq, as well as the targeting of Iranian refineries by western forces.
 
-![Market Chart 1](assets/2026-03-10_the-iran-war-is-spilling-over-to-other-countries-and-financial-markets-should-we_img_image006_51a18f622129.png)
+![Market Chart 1](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-03-10_the-iran-war-is-spilling-over-to-other-countries-and-financial-markets-should-we_img_image006_51a18f622129.png)
 
 > **Figure 1: Market Chart 1**  
-> **Interactive Data & Source:** [Ft](https://www.ft.com/content/dd3444c7-b8fa-4f6c-9451-ffb9e2525cd9?) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-03-10_the-iran-war-is-spilling-over-to-other-countries-and-financial-markets-should-we_img_image006_51a18f622129.png)
+> **Interactive Data & Source:** [Ft](https://www.ft.com/content/dd3444c7-b8fa-4f6c-9451-ffb9e2525cd9?) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-03-10_the-iran-war-is-spilling-over-to-other-countries-and-financial-markets-should-we_img_image006_51a18f622129.png)
 
 ### Is This a Crisis?
 
@@ -47,10 +47,10 @@ The key issue remains not “how much” oil rises, but “for how long.” Mark
 
 At the moment, the U.S. Federal Reserve finds itself in a difficult position. Friday’s weak payroll numbers (minus 92,000, the second-worst reading since the pandemic) would normally have triggered expectations of rate cuts. However, fears that a prolonged war could push energy prices even higher and complicate the central bank’s traditional reassuring intervention, whether in practice or in rhetoric, creating concern in financial markets. Additionally, and while largely unnoticed, Chinese producer prices are coming out of disinflation territory, adding to inflationary pressures.
 
-![Market Chart 2](assets/2026-03-10_the-iran-war-is-spilling-over-to-other-countries-and-financial-markets-should-we_img_image007_dc8c0109a337.png)
+![Market Chart 2](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-03-10_the-iran-war-is-spilling-over-to-other-countries-and-financial-markets-should-we_img_image007_dc8c0109a337.png)
 
 > **Figure 2: Market Chart 2**  
-> **Interactive Data & Source:** [Ft](https://www.ft.com/content/dd3444c7-b8fa-4f6c-9451-ffb9e2525cd9?) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-03-10_the-iran-war-is-spilling-over-to-other-countries-and-financial-markets-should-we_img_image007_dc8c0109a337.png)
+> **Interactive Data & Source:** [Ft](https://www.ft.com/content/dd3444c7-b8fa-4f6c-9451-ffb9e2525cd9?) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-03-10_the-iran-war-is-spilling-over-to-other-countries-and-financial-markets-should-we_img_image007_dc8c0109a337.png)
 
 Nevertheless, we don’t see evidence of a wider crisis.
 
@@ -58,10 +58,10 @@ Nevertheless, we don’t see evidence of a wider crisis.
 
 Between 2011 and mid-2014, Brent prices averaged around $98 per barrel. During that period, average U.S. inflation was 2.1%, while European inflation averaged 1.9%.
 
-![Market Chart 3](assets/2026-03-10_the-iran-war-is-spilling-over-to-other-countries-and-financial-markets-should-we_img_image008_0478bd68d12f.png)
+![Market Chart 3](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-03-10_the-iran-war-is-spilling-over-to-other-countries-and-financial-markets-should-we_img_image008_0478bd68d12f.png)
 
 > **Figure 3: Market Chart 3**  
-> **Interactive Data & Source:** [Ft](https://www.ft.com/content/dd3444c7-b8fa-4f6c-9451-ffb9e2525cd9?) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-03-10_the-iran-war-is-spilling-over-to-other-countries-and-financial-markets-should-we_img_image008_0478bd68d12f.png)
+> **Interactive Data & Source:** [Ft](https://www.ft.com/content/dd3444c7-b8fa-4f6c-9451-ffb9e2525cd9?) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-03-10_the-iran-war-is-spilling-over-to-other-countries-and-financial-markets-should-we_img_image008_0478bd68d12f.png)
 
 With the labour market weakening, artificial intelligence creating structural changes in the economy, and the United States reducing its demand from the rest of the world, strong disinflationary pressures remain in place.
 
@@ -75,10 +75,10 @@ Equity markets had become relatively expensive and were searching for a catalyst
 
 U.S. equities were about 6% below their highs on Monday morning, while European and Japanese markets have entered "official correction" territory, slightly above 10%.
 
-![Market Chart 4](assets/2026-03-10_the-iran-war-is-spilling-over-to-other-countries-and-financial-markets-should-we_img_image009_e7069b2865fd.png)
+![Market Chart 4](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-03-10_the-iran-war-is-spilling-over-to-other-countries-and-financial-markets-should-we_img_image009_e7069b2865fd.png)
 
 > **Figure 4: Market Chart 4**  
-> **Interactive Data & Source:** [Ft](https://www.ft.com/content/dd3444c7-b8fa-4f6c-9451-ffb9e2525cd9?) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-03-10_the-iran-war-is-spilling-over-to-other-countries-and-financial-markets-should-we_img_image009_e7069b2865fd.png)
+> **Interactive Data & Source:** [Ft](https://www.ft.com/content/dd3444c7-b8fa-4f6c-9451-ffb9e2525cd9?) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-03-10_the-iran-war-is-spilling-over-to-other-countries-and-financial-markets-should-we_img_image009_e7069b2865fd.png)
 
 All of this remains within the range of normal market volatility. It is also worth remembering that European and Asian equities had rallied significantly since the beginning of the year, largely due to U.S. dollar weakness. Now that this trade has reversed amid the crisis, these markets are correcting more sharply.
 

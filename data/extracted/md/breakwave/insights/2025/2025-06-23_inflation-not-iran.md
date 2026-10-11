@@ -40,17 +40,17 @@ Most of the time, it’s economic and financial developments that drive the glob
 
 So let’s stick to our lane and look at the impact of major geopolitical and oil-related events on major assets. In the last 46 years, the only event that has a causal relationship with a major equity retrenchment is 9/11, which accentuated the impact of the dot-com bubble. One could argue that the invasion of Ukraine which ramped up inflation and forced the Fed to accelerate rate hikes also had some limited impact, but the truth is that the world was on a rate-hike path before February 2022.
 
-![Market Chart 1](assets/2025-06-23_inflation-not-iran_img_image005_e3e09ecf714f.jpg)
+![Market Chart 1](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-06-23_inflation-not-iran_img_image005_e3e09ecf714f.jpg)
 
 > **Figure 1: Market Chart 1**  
-> **Interactive Data & Source:** [Youtube](https://www.youtube.com/watch?v=qZmguw8KB6A&pp=0gcJCdgAo7VqN5tD) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-06-23_inflation-not-iran_img_image005_e3e09ecf714f.jpg)
+> **Interactive Data & Source:** [Youtube](https://www.youtube.com/watch?v=qZmguw8KB6A&pp=0gcJCdgAo7VqN5tD) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-06-23_inflation-not-iran_img_image005_e3e09ecf714f.jpg)
 
 So here it is. Geopolitics don’t tend to affect equities over the medium term so much. Do they affect oil? We looked at oil-producing-specific events, and even then the outcome was not conclusive.
 
-![Market Chart 2](assets/2025-06-23_inflation-not-iran_img_image006_4e081f9848ac.jpg)
+![Market Chart 2](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-06-23_inflation-not-iran_img_image006_4e081f9848ac.jpg)
 
 > **Figure 2: Market Chart 2**  
-> **Interactive Data & Source:** [Youtube](https://www.youtube.com/watch?v=qZmguw8KB6A&pp=0gcJCdgAo7VqN5tD) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-06-23_inflation-not-iran_img_image006_4e081f9848ac.jpg)
+> **Interactive Data & Source:** [Youtube](https://www.youtube.com/watch?v=qZmguw8KB6A&pp=0gcJCdgAo7VqN5tD) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-06-23_inflation-not-iran_img_image006_4e081f9848ac.jpg)
 
 One year after the invasions of Kuwait and Ukraine, oil prices were down over 20%, despite their initial reactions. After the 2003 Second Gulf War and the 2011 Arab Spring, oil prices indeed rose materially, but neither event saw a significant initial oil price shock.
 
@@ -62,10 +62,10 @@ It may be tempting fate to say so, but looking at similar events in the past doe
 
 Having said that, while this weekend’s developments may not necessarily exacerbate the general picture, we need to remember that oil has been trading much lower than average in the past couple of months, which helped inflation remain tame during the initial stages of the trade war. Tensions in the Middle East have catalysed a 30% rebound since the beginning of May, which will very likely impact inflation in the US, UK and Europe in the coming months, accelerate underlying upward pressures which are, until now hidden under the bonnet.
 
-![Market Chart 3](assets/2025-06-23_inflation-not-iran_img_image007_4a75720fb56c.jpg)
+![Market Chart 3](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-06-23_inflation-not-iran_img_image007_4a75720fb56c.jpg)
 
 > **Figure 3: Market Chart 3**  
-> **Interactive Data & Source:** [Reuters](https://www.reuters.com/business/finance/trump-says-he-may-have-change-his-mind-about-firing-fed-chair-powell-2025-06-20/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-06-23_inflation-not-iran_img_image007_4a75720fb56c.jpg)
+> **Interactive Data & Source:** [Reuters](https://www.reuters.com/business/finance/trump-says-he-may-have-change-his-mind-about-firing-fed-chair-powell-2025-06-20/) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-06-23_inflation-not-iran_img_image007_4a75720fb56c.jpg)
 
 As Fed Chair Jerome Powell said causing the[ire of the President](https://www.reuters.com/business/finance/trump-says-he-may-have-change-his-mind-about-firing-fed-chair-powell-2025-06-20/)in what could (and possibly should) have otherwise been last week’s top economic news story, “tariff impact is coming”. The US central bank fears that the combination of tariffs and rising energy prices may cause inflation to rebound, upping their inflation outlook. And despite Jerome Powell’s verbal acrobatics, balancing a negative outlook for inflation with a solid growth outlook, and still able to justify the outlook for two cuts by the end of the year, this was not enough for the White House, which launched a fresh attack on the Fed’s Chair, with threats to fire him.
 
@@ -73,10 +73,10 @@ Markets, now confident that the level-headed Scott Bessent has a firm hand on th
 
 To be sure, in both the Fed and the Bank of England we see some growing scepticism about the decision to hold rates steady by some voting members, but recent energy price rises should give more ammunition to the hawkish members.
 
-![Market Chart 4](assets/2025-06-23_inflation-not-iran_img_image008_9c28b7d7ff67.jpg)
+![Market Chart 4](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-06-23_inflation-not-iran_img_image008_9c28b7d7ff67.jpg)
 
 > **Figure 4: Market Chart 4**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-06-23_inflation-not-iran_img_image008_9c28b7d7ff67.jpg)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-06-23_inflation-not-iran_img_image008_9c28b7d7ff67.jpg)
 
 Ultimately this is the biggest takeaway of the week:**it is very difficult to predict the short-term effect of geopolitical events or its impact on the financial markets. But over the medium term, it is economic and financial developments that drive markets. From this perspective, rising energy prices will probably give more ammunition to central bankers who feel that maintaining rates at the current levels, instead of lowering them, is the right thing to do for now.**
 

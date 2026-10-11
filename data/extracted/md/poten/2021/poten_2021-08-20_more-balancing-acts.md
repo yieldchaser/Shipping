@@ -36,10 +36,18 @@ In contrast to the VLCC market, where Ton-Mile demand has come off at the same t
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: More Balancing Acts](../../../charts/poten/2021/poten_2021-08-20_more-balancing-acts_chart1.png)
+![Exhibit 1: Suezmax Ton-Mile Demand (by Load Area) vs Fleet Size](../../../charts/poten/2021/poten_2021-08-20_more-balancing-acts_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2021/poten_2021-08-20_more-balancing-acts_chart1.png)
+> **Exhibit 1: Suezmax Ton-Mile Demand (by Load Area) vs Fleet Size**  
+> Unit: Ton-Miles (Bln) | Fleet (MDWT) · X-axis: Jan-14 to Jul-21  
+> Series: Middle East, Americas, Atlantic, West Africa, UKC/Baltic, Mediterranean, Asia/Australia, Americas, Pacific, Fleet Size  
+> *Source: Lloyd’s List Intelligence; Poten*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2021/poten_2021-08-20_more-balancing-acts_chart1.png)
 
-![Exhibit 2: More Balancing Acts](../../../charts/poten/2021/poten_2021-08-20_more-balancing-acts_chart2.png)
+![Exhibit 2: Aframax Ton-Mile Demand (by Load Area) vs Fleet Size](../../../charts/poten/2021/poten_2021-08-20_more-balancing-acts_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2021/poten_2021-08-20_more-balancing-acts_chart2.png)
+> **Exhibit 2: Aframax Ton-Mile Demand (by Load Area) vs Fleet Size**  
+> Unit: Ton-Miles (Bln) | Fleet (DWT) · X-axis: Jan-14 to Jul-21  
+> Series: Middle East, Americas, Atlantic, West Africa, UKC/Baltic, Mediterranean, Asia/Australia, Americas, Pacific, Fleet Size  
+> *Source: Lloyd’s List Intelligence; Poten*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2021/poten_2021-08-20_more-balancing-acts_chart2.png)

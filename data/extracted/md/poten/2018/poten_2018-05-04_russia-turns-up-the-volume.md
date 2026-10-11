@@ -28,10 +28,18 @@ Assuming that Russian crude oil exports to China will continue to increase, it i
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: Russia Turns Up The Volume](../../../charts/poten/2018/poten_2018-05-04_russia-turns-up-the-volume_chart1.png)
+![Exhibit 1: Seaborne Russian Crude Exports by Export Area](../../../charts/poten/2018/poten_2018-05-04_russia-turns-up-the-volume_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2018/poten_2018-05-04_russia-turns-up-the-volume_chart1.png)
+> **Exhibit 1: Seaborne Russian Crude Exports by Export Area**  
+> Unit: M Tons/Month · X-axis: Jan-14 to Jan-18  
+> Series: Baltic, Mediterranean, Asia  
+> *Source: Lloyd’s List Intelligence*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2018/poten_2018-05-04_russia-turns-up-the-volume_chart1.png)
 
-![Exhibit 2: Russia Turns Up The Volume](../../../charts/poten/2018/poten_2018-05-04_russia-turns-up-the-volume_chart2.png)
+![Exhibit 2: Selected Chinese Crude Oil Imports](../../../charts/poten/2018/poten_2018-05-04_russia-turns-up-the-volume_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2018/poten_2018-05-04_russia-turns-up-the-volume_chart2.png)
+> **Exhibit 2: Selected Chinese Crude Oil Imports**  
+> Unit: M Tons/Month · X-axis: Jan-04 to Jan-18  
+> Series: Russia, Saudi Arabia  
+> *Source: Chinese Customs via Bloomberg*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2018/poten_2018-05-04_russia-turns-up-the-volume_chart2.png)

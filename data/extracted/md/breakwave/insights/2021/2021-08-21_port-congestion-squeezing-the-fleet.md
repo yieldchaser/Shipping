@@ -31,7 +31,7 @@ At the global level, queues of bulk carriers at ports and anchorages hit a peak 
 ![A0](assets/2021-08-21_port-congestion-squeezing-the-fleet_img_a0_16dc3b62f70c.png)
 
 > **Figure 1: A0**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2021/assets/2021-08-21_port-congestion-squeezing-the-fleet_img_a0_16dc3b62f70c.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-08-21_port-congestion-squeezing-the-fleet_img_a0_16dc3b62f70c.png)
 
 A major driver of the uptick in China has been a tightening in COVID-19 restrictions, put in place to stem a spate of outbreaks of the delta variant in the country. It’s tough to nail down exactly which rules are in place at each port, but it is clear that the individual restrictions and bottlenecks are compounding to slow the turnaround of ships in Chinese ports.
 
@@ -40,7 +40,7 @@ Based on the latest information from port agents, the only blanket quarantine me
 ![A1](assets/2021-08-21_port-congestion-squeezing-the-fleet_img_a1_24f12f6d4edd.png)
 
 > **Figure 2: A1**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2021/assets/2021-08-21_port-congestion-squeezing-the-fleet_img_a1_24f12f6d4edd.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-08-21_port-congestion-squeezing-the-fleet_img_a1_24f12f6d4edd.png)
 
 Some of the most significant disruption appears to be in the Yangtze River region, where ships face strict pilotage rules. The region’s anchorages account for about 18% of total bulker congestion in China, but it has become a particularly bad bottleneck for geared vessels. Last week as much as 30% of Supra and Handy congestion in China was in the Yangtze region, where power plants have recently upped their purchases of Indonesian coal. Compared to the bigger ships, the geared fleet has seen the greatest YoY increases in Chinese congestion as a share of the trading fleet, reaching a record 5.2%, up by 2.1 points YoY.
 
@@ -53,7 +53,7 @@ For the Panamaxes specifically, another key driver of congestion has been a lack
 ![A2 (002)](assets/2021-08-21_port-congestion-squeezing-the-fleet_img_a22800229_79146a888c4c.png)
 
 > **Figure 3: A2 (002)**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2021/assets/2021-08-21_port-congestion-squeezing-the-fleet_img_a22800229_79146a888c4c.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-08-21_port-congestion-squeezing-the-fleet_img_a22800229_79146a888c4c.png)
 
 China’s total grain imports over the first seven months of the year totaled almost 100m tonnes, up by around 32% YoY, with monthly receipts hitting an all time high of over 17m tonnes in June. The majority of the increase came from corn, imports of which are up by 290% YoY so far in 2021 to 18.7m tonnes after China increased its purchases to feed a recovering pig herd and rebuild stockpiles. Congestion resulting from grain imports is likely to remain high over the coming weeks, with laden vessels continuing to arrive.
 
@@ -66,7 +66,7 @@ With the carrying capacity of the fleet being trimmed, the market is clearly rec
 ![A3 (002)](assets/2021-08-21_port-congestion-squeezing-the-fleet_img_a32800229_ccddf696361b.png)
 
 > **Figure 4: A3 (002)**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2021/assets/2021-08-21_port-congestion-squeezing-the-fleet_img_a32800229_ccddf696361b.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-08-21_port-congestion-squeezing-the-fleet_img_a32800229_ccddf696361b.png)
 
 Looking forward, it seems unlikely that the COVID-related stresses on China’s port activity will ease overnight, and with little room for grain capacity expansion, the pile-up of agricultural cargoes is also unlikely to quickly diminish. On the bigger ships, the recent uptick in iron ore shipments in both basins could also trigger an increase in the volume of Cape arrivals in China over the next few weeks, sustaining queues further. With these factors in mind, we believe there is still further upside to today’s incredibly strong market, despite this week’s turmoil in commodity prices.
 

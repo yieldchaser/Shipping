@@ -48,11 +48,11 @@ A smaller share does not automatically mean less coal is used in every month. Wh
 For the second half, weather and hydroelectric production will be decisive. A hot summer would raise cooling demand, while weak rainfall would limit hydroelectric output and increase the need for coal generation. A mild summer or strong rainfall would have the opposite effect. The report does not assume a lasting rise in coal-fired generation; it assumes that coal remains necessary when electricity demand rises faster than cleaner supply.
 
 
-![Estimated Monthly Coal Share of Electricity Generation, with a 12-Month Average](../../images/6a7edcc94785dd5320613061_c0531eac.png)
+![Estimated Monthly Coal Share of Electricity Generation, with a 12-Month Average](../../../../../../corpus/07-signal/images/6a7edcc94785dd5320613061_c0531eac.png)
 
 > **Figure 1: Estimated Monthly Coal Share of Electricity Generation, with a 12-Month Average**  
 > *Figure 1. Estimated monthly coal share of electricity generation, with a 12-month average. The May 2026 estimate was 50.4%. Sources: National Bureau of Statistics, China Electricity Council via Ember, and Signal Group Trade Flows.*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/market-insights-china-supply-and-demand-outlook-august-2026) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6a7edcc94785dd5320613061_c0531eac.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/market-insights-china-supply-and-demand-outlook-august-2026) | [Local Asset](../../../../../../corpus/07-signal/images/6a7edcc94785dd5320613061_c0531eac.png)
 
 
 ## Supply: Domestic Production Remains the Foundation
@@ -64,11 +64,11 @@ These figures show scale, but they are not a complete physical balance. Domestic
 Even with those limits, the direction is clear: domestic mines cover most national demand, while imports give coastal utilities flexibility. Buyers can increase seaborne purchases when domestic supply is disrupted, electricity use rises quickly or imported coal becomes less expensive. They can reduce purchases when inventories are high or domestic coal is readily available.
 
 
-![Domestic Raw Coal Output and Seaborne Thermal Coal Arrivals on a Daily Basis](../../images/6a7edcc94785dd5320613064_2737ac1f.png)
+![Domestic Raw Coal Output and Seaborne Thermal Coal Arrivals on a Daily Basis](../../../../../../corpus/07-signal/images/6a7edcc94785dd5320613064_2737ac1f.png)
 
 > **Figure 2: Domestic Raw Coal Output and Seaborne Thermal Coal Arrivals on a Daily Basis**  
 > *Figure 2. Domestic raw coal output and seaborne thermal coal arrivals on a daily basis. The two series are not directly comparable because domestic output is measured before processing. Sources: National Bureau of Statistics and Signal Group Trade Flows.*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/market-insights-china-supply-and-demand-outlook-august-2026) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6a7edcc94785dd5320613064_2737ac1f.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/market-insights-china-supply-and-demand-outlook-august-2026) | [Local Asset](../../../../../../corpus/07-signal/images/6a7edcc94785dd5320613064_2737ac1f.png)
 
 
 ## Indonesia Should Keep Nearby Supply Available
@@ -87,11 +87,11 @@ June and July were stronger. Current records show 27.6 million tonnes in June an
 The central outlook of 21-23 million tonnes a month is close to the 21.8 million-tonne average recorded in settled January-May data and below the 25.2 million-tonne average in the same period of 2025. Power demand should support occasional stronger months, but the evidence does not justify assuming that the preliminary June and July pace will continue throughout the second half.
 
 
-![Monthly Seaborne Thermal Coal Arrivals](../../images/6a7edcc94785dd532061305e_0c109878.png)
+![Monthly Seaborne Thermal Coal Arrivals](../../../../../../corpus/07-signal/images/6a7edcc94785dd532061305e_0c109878.png)
 
 > **Figure 3: Monthly Seaborne Thermal Coal Arrivals**  
 > *Figure 3. Monthly seaborne thermal coal arrivals. June and July 2026 remain preliminary because late voyage records can be added after month-end. Source: Signal Group Trade Flows.*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/market-insights-china-supply-and-demand-outlook-august-2026) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6a7edcc94785dd532061305e_0c109878.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/market-insights-china-supply-and-demand-outlook-august-2026) | [Local Asset](../../../../../../corpus/07-signal/images/6a7edcc94785dd532061305e_0c109878.png)
 
 
 ## Outlook Scenarios
@@ -102,7 +102,7 @@ The outlook depends on two linked questions: how much coal-fired generation Chin
 ![Outlook Scenarios](../../images/6a7edc7fe34c8ef9f246b149_Screenshot 2026-08-14 at 10.14.16.png)
 
 > **Figure 4: Outlook Scenarios**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/market-insights-china-supply-and-demand-outlook-august-2026) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6a7edc7fe34c8ef9f246b149_Screenshot 2026-08-14 at 10.14.16.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/market-insights-china-supply-and-demand-outlook-august-2026) | [Local Asset](../../../../../../corpus/07-signal/images/6a7edc7fe34c8ef9f246b149_Screenshot%202026-08-14%20at%2010.14.16.png)
 
 
 ## Shipping Implications: Panamax Carries Most of the Trade
@@ -116,11 +116,11 @@ Supramax performance was weaker. January-July volume fell 25.0% to 28.7 million 
 Origin remains decisive for tonne-miles. In 2025, Indonesia supplied 69.3% of China's Panamax thermal coal volume but generated 51.8% of Panamax tonne-miles, with an average haul of 1,895 nautical miles. Australia supplied 17.8% of volume but generated 32.2% of tonne-miles, with an average haul of 4,593 nautical miles. Moving five million tonnes of supply from Indonesia to Australia would add about 13.5 billion tonne-miles, equal to roughly 4.2% of the current seven-month Panamax total.
 
 
-![Origin Mix of China's 2025 Panamax Thermal Coal Imports](../../images/6a7edcc94785dd5320613067_1868dcd4.png)
+![Origin Mix of China's 2025 Panamax Thermal Coal Imports](../../../../../../corpus/07-signal/images/6a7edcc94785dd5320613067_1868dcd4.png)
 
 > **Figure 4: Origin Mix of China's 2025 Panamax Thermal Coal Imports**  
 > *Figure 4. Origin mix of China's 2025 Panamax thermal coal imports. Indonesian cargoes dominate volume; Australian cargoes contribute a larger share of tonne-miles because the voyage is longer. Source: Signal Group Trade Flows.*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/market-insights-china-supply-and-demand-outlook-august-2026) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6a7edcc94785dd5320613067_1868dcd4.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/market-insights-china-supply-and-demand-outlook-august-2026) | [Local Asset](../../../../../../corpus/07-signal/images/6a7edcc94785dd5320613067_1868dcd4.png)
 
 The Baltic Exchange's P5TC Panamax time-charter average was US$19,530 a day in July 2026, while the S11TC Supramax average was US$21,433 a day. These are whole-market freight measures, not China-coal prices. Grain, minerals, competing routes and fleet supply also influence them, so the supply-and-demand outlook should not be read as a direct freight-rate forecast.
 

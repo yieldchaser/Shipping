@@ -20,11 +20,11 @@ source_file: "corpus/03-breakwave/insights/2026/2026-06-03_why-vlccs-and-suezmax
 
 ---
 
-![Bymette Frederiksen](assets/2026-06-03_why-vlccs-and-suezmaxes-work-better-together_img_unsplash-image-983knf8azec_efb549cc7057.jpg)
+![Bymette Frederiksen](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-06-03_why-vlccs-and-suezmaxes-work-better-together_img_unsplash-image-983knf8azec_efb549cc7057.jpg)
 
 > **Figure 1: Bymette Frederiksen**  
 > *ByMette Frederiksen*  
-> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/in/mette-frederiksen-2a826216/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-06-03_why-vlccs-and-suezmaxes-work-better-together_img_unsplash-image-983knf8azec_efb549cc7057.jpg)
+> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/in/mette-frederiksen-2a826216/) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-06-03_why-vlccs-and-suezmaxes-work-better-together_img_unsplash-image-983knf8azec_efb549cc7057.jpg)
 
 The crude tanker market is entering a new era – one that is increasingly dynamic, fragmented and opportunity-driven. In this environment, scale alone is no longer enough; flexibility, optionality, and intelligence are the defining commercial advantages. That is why integrating VLCC and Suezmax tonnage into a single pooling platform represents a significant evolution in tanker commercial management.
 

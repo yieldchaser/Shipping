@@ -32,7 +32,7 @@ tags:
 
 > **Figure 1: Data Source: The Signal Ocean Platform, Dry Bulk Flows Https://app.signalocean.com/dry/dynamic/drybulkflows-Downloadable**  
 > *Data Source: The Signal Ocean Platform, Dry Bulk Flows https://app.signalocean.com/dry/dynamic/drybulkflows-downloadable*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/dry-bulk-week-18) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/645366231b72a897971d696f_coal flows logo.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/dry-bulk-week-18) | [Local Asset](../../../../../../corpus/07-signal/images/645366231b72a897971d696f_coal%20flows%20logo.png)
 
 In the first days of May, we have seen that the Capesize freight market momentum is still solid, while there are signs of slowdown in Panamax. It is interesting to note that the Chinese (see picture above) have stepped up their Australian thermal coal imports again after the lifting of the ban, which will eventually have a positive impact on Panamax rates. April was the first month of highest Chinese thermal coal imports from Australia, with the trend of increased purchases continuing in the second quarter.
 

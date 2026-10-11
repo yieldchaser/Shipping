@@ -30,42 +30,42 @@ Third, among Gulf load ports, the spot market now runs through Fujairah, while R
 
 At first glance, the Gulf looks busier, and on a pure fixture count, it is. But counting ships flatters the picture. When we follow the barrels rather than the bookings, Yanbu pulls ahead — its mix is weighted toward 270,000-barrel crude liftings, whereas the Gulf carries a longer tail of smaller clean and product parcels that lift the fixture tally without moving comparable volume. The result is a neat inversion: fewer fixtures at Yanbu, but more oil on the water.
 
-![Fixtures and Total Lifted Volume by Region, 2 Mar – 29 May 2026](assets/2026-06-09_red-sea-vs-arabian-gulf-comparing-the-fixing-activity-behind-the-barrels_img_unnamed_dc897396a45b.png)
+![Fixtures and Total Lifted Volume by Region, 2 Mar – 29 May 2026](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-06-09_red-sea-vs-arabian-gulf-comparing-the-fixing-activity-behind-the-barrels_img_unnamed_dc897396a45b.png)
 
 > **Figure 1: Fixtures and Total Lifted Volume by Region, 2 Mar – 29 May 2026**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-06-09_red-sea-vs-arabian-gulf-comparing-the-fixing-activity-behind-the-barrels_img_unnamed_dc897396a45b.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-06-09_red-sea-vs-arabian-gulf-comparing-the-fixing-activity-behind-the-barrels_img_unnamed_dc897396a45b.png)
 
 Monthly fixture trends reinforce the contrast. Yanbu maintained relatively stable activity throughout the quarter, whereas Arabian Gulf fixtures increased progressively, resulting in a wider gap in activity by the end of the period.
 
-![Monthly Fixture Activity, Both Regions, March–may 2026](assets/2026-06-09_red-sea-vs-arabian-gulf-comparing-the-fixing-activity-behind-the-barrels_img_unnamed28129_069e0e7b9234.png)
+![Monthly Fixture Activity, Both Regions, March–may 2026](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-06-09_red-sea-vs-arabian-gulf-comparing-the-fixing-activity-behind-the-barrels_img_unnamed28129_069e0e7b9234.png)
 
 > **Figure 2: Monthly Fixture Activity, Both Regions, March–may 2026**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-06-09_red-sea-vs-arabian-gulf-comparing-the-fixing-activity-behind-the-barrels_img_unnamed28129_069e0e7b9234.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-06-09_red-sea-vs-arabian-gulf-comparing-the-fixing-activity-behind-the-barrels_img_unnamed28129_069e0e7b9234.png)
 
 ### The Dirty Book - Where the Two Regions Genuinely Diverge
 
 The differences become clearer when focusing on dirty cargoes — crude oil and fuel oil — and examining fixture activity by vessel class. The divergence is concentrated in the VLCC segment. Yanbu recorded 77 dirty VLCC fixtures compared with 57 in the Arabian Gulf, accounting for its higher total crude volumes despite fewer overall fixtures. Activity in the Suezmax segment was broadly balanced, with 15 fixtures from Yanbu and 14 from the Arabian Gulf. In the Aframax/LR2 segment, however, the pattern reversed, with the Arabian Gulf recording 9 fixtures against Yanbu's 4.
 
-![Dirty Fixtures by Vessel-Size Class, Yanbu vs AG](assets/2026-06-09_red-sea-vs-arabian-gulf-comparing-the-fixing-activity-behind-the-barrels_img_unnamed28229_d74e6593f93e.png)
+![Dirty Fixtures by Vessel-Size Class, Yanbu vs AG](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-06-09_red-sea-vs-arabian-gulf-comparing-the-fixing-activity-behind-the-barrels_img_unnamed28229_d74e6593f93e.png)
 
 > **Figure 3: Dirty Fixtures by Vessel-Size Class, Yanbu vs AG**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-06-09_red-sea-vs-arabian-gulf-comparing-the-fixing-activity-behind-the-barrels_img_unnamed28229_d74e6593f93e.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-06-09_red-sea-vs-arabian-gulf-comparing-the-fixing-activity-behind-the-barrels_img_unnamed28229_d74e6593f93e.png)
 
 Read together, the shape is intuitive. Yanbu behaves like a pure crude-export artery feeding long-haul VLCC trades; the Gulf's dirty book spreads further down into the mid-sizes, reflecting a more varied set of loadings and shorter-haul work.
 
 ### The Same Comparison, Narrowed to the Three Sizes That Matter Most for Dirty Crude
 
-![Market Chart 4](assets/2026-06-09_red-sea-vs-arabian-gulf-comparing-the-fixing-activity-behind-the-barrels_img_unnamed28329_e8fcc8b4550a.png)
+![Market Chart 4](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-06-09_red-sea-vs-arabian-gulf-comparing-the-fixing-activity-behind-the-barrels_img_unnamed28329_e8fcc8b4550a.png)
 
 > **Figure 4: Market Chart 4**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-06-09_red-sea-vs-arabian-gulf-comparing-the-fixing-activity-behind-the-barrels_img_unnamed28329_e8fcc8b4550a.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-06-09_red-sea-vs-arabian-gulf-comparing-the-fixing-activity-behind-the-barrels_img_unnamed28329_e8fcc8b4550a.png)
 
 The cargo mix underneath tells the complementary half of the story. Yanbu's book is the dirtier of the two — 97 dirty fixtures against 48 clean — while the Gulf is far more balanced (86 dirty, 97 clean), buoyed by the steady stream of naphtha and refined products out of Sohar, Duqm, and Ruwais.
 
-![Dirty vs Clean Cargo Mix by Region](assets/2026-06-09_red-sea-vs-arabian-gulf-comparing-the-fixing-activity-behind-the-barrels_img_unnamed28429_7a846c1cd8ba.png)
+![Dirty vs Clean Cargo Mix by Region](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-06-09_red-sea-vs-arabian-gulf-comparing-the-fixing-activity-behind-the-barrels_img_unnamed28429_7a846c1cd8ba.png)
 
 > **Figure 5: Dirty vs Clean Cargo Mix by Region**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-06-09_red-sea-vs-arabian-gulf-comparing-the-fixing-activity-behind-the-barrels_img_unnamed28429_7a846c1cd8ba.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-06-09_red-sea-vs-arabian-gulf-comparing-the-fixing-activity-behind-the-barrels_img_unnamed28429_7a846c1cd8ba.png)
 
 ### Gulf Load Ports - Fujairah Leads, Ras Tanura Goes Quiet
 
@@ -75,11 +75,11 @@ Ras Tanura's limited spot fixture count should be viewed in the context of two i
 
 ### Gulf Named Load Ports Ranked by Fixture Count, Split by Cargo Type
 
-![All Data](assets/2026-06-09_red-sea-vs-arabian-gulf-comparing-the-fixing-activity-behind-the-barrels_img_unnamed28529_947b6a65de10.png)
+![All Data](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-06-09_red-sea-vs-arabian-gulf-comparing-the-fixing-activity-behind-the-barrels_img_unnamed28529_947b6a65de10.png)
 
 > **Figure 6: All Data**  
 > *All data, estimates, and projections presented herein are based on information available as of 9 June 2026. While every effort has been made to ensure accuracy, the analysis is subject to revision as additional information becomes available.*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-06-09_red-sea-vs-arabian-gulf-comparing-the-fixing-activity-behind-the-barrels_img_unnamed28529_947b6a65de10.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-06-09_red-sea-vs-arabian-gulf-comparing-the-fixing-activity-behind-the-barrels_img_unnamed28529_947b6a65de10.png)
 
 ### Market Context - A Quarter Shaped by an Unresolved Crisis
 

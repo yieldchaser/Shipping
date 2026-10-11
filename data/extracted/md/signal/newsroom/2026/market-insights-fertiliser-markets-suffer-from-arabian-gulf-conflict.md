@@ -29,10 +29,10 @@ While global markets are currently preoccupied with the potential impact of esca
 [TSOP](https://app.signalocean.com/dry/dynamic/waypoints\_dry) waypoints data (Strait of Hormuz EW), for the agriculture cargo type, is already capturing the near standstill of vessel count from the onset of the crisis.  If sustained, disruptions to fertiliser exports could create challenges for agricultural producers, potentially influencing crop yields and contributing to upward pressure on food prices in the months ahead.
 
 
-![Iran- Usa/israel Conflict Impact on Fertiliser Markets](../../images/69aeff5157be2ae9bf2761d7_b4e00610.png)
+![Iran- Usa/israel Conflict Impact on Fertiliser Markets](../../../../../../corpus/07-signal/images/69aeff5157be2ae9bf2761d7_b4e00610.png)
 
 > **Figure 1: Iran- Usa/israel Conflict Impact on Fertiliser Markets**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/market-insights-fertiliser-markets-suffer-from-arabian-gulf-conflict) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/69aeff5157be2ae9bf2761d7_b4e00610.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/market-insights-fertiliser-markets-suffer-from-arabian-gulf-conflict) | [Local Asset](../../../../../../corpus/07-signal/images/69aeff5157be2ae9bf2761d7_b4e00610.png)
 
 In our analysis below, we take a closer look at what if the conflict persists could mean for the fertiliser supply chain that also depends heavily on the Gulf.
 
@@ -44,11 +44,11 @@ In our analysis below, we take a closer look at what if the conflict persists co
 - ~46% of global urea flows from the Arabian Gulf
 
 
-![Source: Vessel Count Tsop | Fertiliser Flows From the Arabian Gulf](../../images/69aeff5157be2ae9bf2761da_56163d4d.png)
+![Source: Vessel Count Tsop | Fertiliser Flows From the Arabian Gulf](../../../../../../corpus/07-signal/images/69aeff5157be2ae9bf2761da_56163d4d.png)
 
 > **Figure 2: Source: Vessel Count Tsop | Fertiliser Flows From the Arabian Gulf**  
 > *Source: Vessel Count TSOP | Fertiliser flows from the Arabian Gulf*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/market-insights-fertiliser-markets-suffer-from-arabian-gulf-conflict) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/69aeff5157be2ae9bf2761da_56163d4d.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/market-insights-fertiliser-markets-suffer-from-arabian-gulf-conflict) | [Local Asset](../../../../../../corpus/07-signal/images/69aeff5157be2ae9bf2761da_56163d4d.png)
 
 The Arabian Gulf is one of the most important regions for global fertiliser production and trade. Countries including Saudi Arabia, Qatar, Oman, and the United Arab Emirates host major facilities producing key inputs such as urea, sulphur, and ammonia. Iran is also a notable producer of ammonia, an essential component used in nitrogen-based fertilizers.
 
@@ -65,17 +65,17 @@ As a result, with the Iran-US/Israel war effectively closing the Strait of Hormu
 - India and China are most exposed to limited fertilizer flows from the Arabian Gulf, as the region accounts for 23% and 20% of all fertiliser imports, respectively.
 
 
-![Exposure of Major Importers](../../images/69aeff5157be2ae9bf2761d4_5774fc5b.png)
+![Exposure of Major Importers](../../../../../../corpus/07-signal/images/69aeff5157be2ae9bf2761d4_5774fc5b.png)
 
 > **Figure 3: Exposure of Major Importers**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/market-insights-fertiliser-markets-suffer-from-arabian-gulf-conflict) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/69aeff5157be2ae9bf2761d4_5774fc5b.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/market-insights-fertiliser-markets-suffer-from-arabian-gulf-conflict) | [Local Asset](../../../../../../corpus/07-signal/images/69aeff5157be2ae9bf2761d4_5774fc5b.png)
 
 
-![Source: Fertiliser Flows to India Tsop , Fertiliser Flows to China Tsop](../../images/69aeff5157be2ae9bf2761dd_0c2e4dae.png)
+![Source: Fertiliser Flows to India Tsop , Fertiliser Flows to China Tsop](../../../../../../corpus/07-signal/images/69aeff5157be2ae9bf2761dd_0c2e4dae.png)
 
 > **Figure 4: Source: Fertiliser Flows to India Tsop , Fertiliser Flows to China Tsop**  
 > *Source: Fertiliser flows to India TSOP , fertiliser flows to China TSOP*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/market-insights-fertiliser-markets-suffer-from-arabian-gulf-conflict) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/69aeff5157be2ae9bf2761dd_0c2e4dae.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/market-insights-fertiliser-markets-suffer-from-arabian-gulf-conflict) | [Local Asset](../../../../../../corpus/07-signal/images/69aeff5157be2ae9bf2761dd_0c2e4dae.png)
 
 **Read more at AXSMarine:** [**Key Dry Bulk Data Trends: February 2026**](https://public.axsmarine.com/blog/key-dry-bulk-data-trends-february-2026)
 

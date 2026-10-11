@@ -19,16 +19,16 @@ source_file: "corpus/03-breakwave/insights/2023/2023-11-29_death-and-taxes-it-ta
 
 ---
 
-![Homepage+banner+1 (1)](assets/2023-11-29_death-and-taxes-it-takes-a-village-to-maintain-wealth_img_homepage2bbanner2b128129_5d7211685255.png)
+![Homepage+banner+1 (1)](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-11-29_death-and-taxes-it-takes-a-village-to-maintain-wealth_img_homepage2bbanner2b128129_5d7211685255.png)
 
 > **Figure 1: Homepage+banner+1 (1)**  
-> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/breakwave-day-2023) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-11-29_death-and-taxes-it-takes-a-village-to-maintain-wealth_img_homepage2bbanner2b128129_5d7211685255.png)
+> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/breakwave-day-2023) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-11-29_death-and-taxes-it-takes-a-village-to-maintain-wealth_img_homepage2bbanner2b128129_5d7211685255.png)
 
-[![Three Things I’m Thinking About This Week](assets/2023-11-29_death-and-taxes-it-takes-a-village-to-maintain-wealth_img_homepage2bbutton28129_1d014100cc65.png)
+[![Three Things I’m Thinking About This Week](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-11-29_death-and-taxes-it-takes-a-village-to-maintain-wealth_img_homepage2bbutton28129_1d014100cc65.png)
 
 > **Figure 2: Three Things I’m Thinking About This Week**  
 > *The three things I’m thinking about this week*  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-11-29_death-and-taxes-it-takes-a-village-to-maintain-wealth_img_homepage2bbutton28129_1d014100cc65.png)](https://www.breakwaveadvisors.com/breakwave-day-2023)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-11-29_death-and-taxes-it-takes-a-village-to-maintain-wealth_img_homepage2bbutton28129_1d014100cc65.png)](https://www.breakwaveadvisors.com/breakwave-day-2023)
 
 1. *We don’t have any evidence to say that this Santa rally signals the beginning of a sustainable bull market just yet. Into 2024 though, a bull market prompted by the cessation of Quantitative Tightening is a real possibility.*
 2. *In terms of the UK budget: The Fiscal Drag (no change in the income bands) balances out the negative fiscal effects of the Chancellor’s giveaways. The Fiscal Drag is a “stealth tax”.*
@@ -36,17 +36,17 @@ source_file: "corpus/03-breakwave/insights/2023/2023-11-29_death-and-taxes-it-ta
 
 Stock markets continue to rally, performing their usual Christmas song-and-dance aided, presumably, by the tailwinds of more bullish projections around interest rates. A balanced portfolio performance is, as of this morning, roughly in line with what is expected after a bad year.
 
-![Market Chart 3](assets/2023-11-29_death-and-taxes-it-takes-a-village-to-maintain-wealth_img_image00128329_1c81bdd22d2e.png)
+![Market Chart 3](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-11-29_death-and-taxes-it-takes-a-village-to-maintain-wealth_img_image00128329_1c81bdd22d2e.png)
 
 > **Figure 3: Market Chart 3**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-11-29_death-and-taxes-it-takes-a-village-to-maintain-wealth_img_image00128329_1c81bdd22d2e.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-11-29_death-and-taxes-it-takes-a-village-to-maintain-wealth_img_image00128329_1c81bdd22d2e.png)
 
 Despite the obvious, that market-implied rate expectations are the worst way of trying to predict rates, some of the bullishness is justified. As central banks pause rate hikes, they can’t continue quantitative tightening for much longer, for fear of driving bank reserves at the Fed down by too much. So far, the Fed and the ECB have drained more than three trillion dollars from financial markets. When this process stops, and central bank balance sheets start levelling out again, equity markets will be able to sustain a bull rally once again.
 
-![Market Chart 4](assets/2023-11-29_death-and-taxes-it-takes-a-village-to-maintain-wealth_img_image00228229_c85b42e6cc6f.png)
+![Market Chart 4](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-11-29_death-and-taxes-it-takes-a-village-to-maintain-wealth_img_image00228229_c85b42e6cc6f.png)
 
 > **Figure 4: Market Chart 4**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-11-29_death-and-taxes-it-takes-a-village-to-maintain-wealth_img_image00228229_c85b42e6cc6f.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-11-29_death-and-taxes-it-takes-a-village-to-maintain-wealth_img_image00228229_c85b42e6cc6f.png)
 
 **So, to be clear, we don’t have any evidence to say that this Santa rally signals the beginning of a sustainable bull market just yet. Into 2024 though, a bull market prompted by the cessation of Quantitative Tightening is a real possibility. With bonds already paying a decent yield, some equity bullishness will be welcome for diversified portfolios.**
 
@@ -62,10 +62,10 @@ In essence, Fiscal Drag is an indirect tax, governments impose when they don’t
 
 The Fiscal Drag, all other things being equal, is projected to add £45bn to the government’s coffers by 2028 according to calculations by Bloomberg. An estimated four million people will be pulled into the 20% basic rate income bracket by 2028 and three million will be pulled above the 40% bracket. And this is with somewhat benign OBR projections for inflation. So, when all is said and done, some taxes were shuffled around, but the net fiscal effect is negligent. If anything, by 2028, the government tax intake is projected to be 37.7% of GDP, the highest in 70 years.
 
-![Market Chart 5](assets/2023-11-29_death-and-taxes-it-takes-a-village-to-maintain-wealth_img_image00328129_529e69f4b7bc.png)
+![Market Chart 5](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-11-29_death-and-taxes-it-takes-a-village-to-maintain-wealth_img_image00328129_529e69f4b7bc.png)
 
 > **Figure 5: Market Chart 5**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-11-29_death-and-taxes-it-takes-a-village-to-maintain-wealth_img_image00328129_529e69f4b7bc.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-11-29_death-and-taxes-it-takes-a-village-to-maintain-wealth_img_image00328129_529e69f4b7bc.png)
 
 This brings us to the subject of Total Wealth Management. In an era where inflation is un-anchored, i.e. less predictable, price changes might affect all manner of regulation, whether intended or not. This is why wealth needs to be viewed as a whole. When investment specialists propose a product, any product, they should also be able to answer how this affects their client’s total wealth position.
 

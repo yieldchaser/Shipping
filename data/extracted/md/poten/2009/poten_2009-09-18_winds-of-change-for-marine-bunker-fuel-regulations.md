@@ -48,4 +48,4 @@ In summary, the impending marine fuel regulations pose distinct issues for vesse
 
 ![Exhibit 1: Winds of Change for Marine Bunker Fuel Regulations](../../../charts/poten/2009/poten_2009-09-18_winds-of-change-for-marine-bunker-fuel-regulations_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2009/poten_2009-09-18_winds-of-change-for-marine-bunker-fuel-regulations_chart1.png)
+> **Interactive Asset:** [Local Asset (200 DPI PNG)](../../../charts/poten/2009/poten_2009-09-18_winds-of-change-for-marine-bunker-fuel-regulations_chart1.png)

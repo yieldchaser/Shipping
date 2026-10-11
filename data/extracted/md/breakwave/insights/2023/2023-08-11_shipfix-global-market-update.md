@@ -61,9 +61,9 @@ However, the current quarter has begun strongly, with aggregate volumes during J
 
 After a brief spike in average cargo sizes for bauxite bound for China in the middle of July, the spot trade has shifted away from Capesizes in favour of the mid-sized segments in the past few weeks. As a result, the typical cargo heading for Chinese ports has retreated to below 70,000 tonnes. In contrast, shipments bound for the rest of the world have remained reasonably stable at around 30,000 tonnes.
 
-![Market Chart 1](assets/2023-08-11_shipfix-global-market-update_img_unnamed-2023-08-10t161955601_9611fb4a54c2.png)
+![Market Chart 1](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-08-11_shipfix-global-market-update_img_unnamed-2023-08-10t161955601_9611fb4a54c2.png)
 
 > **Figure 1: Market Chart 1**  
-> **Interactive Data & Source:** [Shipfix](https://shipfix.com/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-08-11_shipfix-global-market-update_img_unnamed-2023-08-10t161955601_9611fb4a54c2.png)
+> **Interactive Data & Source:** [Shipfix](https://shipfix.com/) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-08-11_shipfix-global-market-update_img_unnamed-2023-08-10t161955601_9611fb4a54c2.png)
 
 Data Source:[Shipfix](https://shipfix.com/)

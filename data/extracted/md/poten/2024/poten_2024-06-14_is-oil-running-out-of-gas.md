@@ -28,10 +28,17 @@ Obviously, the IEA outlook is subject to a lot of uncertainty and geopolitical e
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: Is Oil Running Out Of Gas](../../../charts/poten/2024/poten_2024-06-14_is-oil-running-out-of-gas_chart1.png)
+![Exhibit 1: Net crude oil exports versus Asian import requirement, 2019-2030](../../../charts/poten/2024/poten_2024-06-14_is-oil-running-out-of-gas_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2024/poten_2024-06-14_is-oil-running-out-of-gas_chart1.png)
+> **Exhibit 1: Net crude oil exports versus Asian import requirement, 2019-2030**  
+> Unit: mb/d · X-axis: 2019 to 2030  
+> Series: Atlantic Basin (ex-Russia), Russia, Middle East, Asian Crude Deficit  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2024/poten_2024-06-14_is-oil-running-out-of-gas_chart1.png)
 
-![Exhibit 2: Is Oil Running Out Of Gas](../../../charts/poten/2024/poten_2024-06-14_is-oil-running-out-of-gas_chart2.png)
+![Exhibit 2: Regional balances for total refined products, 2023-2030](../../../charts/poten/2024/poten_2024-06-14_is-oil-running-out-of-gas_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2024/poten_2024-06-14_is-oil-running-out-of-gas_chart2.png)
+> **Exhibit 2: Regional balances for total refined products, 2023-2030**  
+> Unit: mb/d · X-axis: Africa to United States  
+> Series: 2030, 2023  
+> *Source: IEA*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2024/poten_2024-06-14_is-oil-running-out-of-gas_chart2.png)

@@ -20,10 +20,10 @@ source_file: "corpus/03-breakwave/insights/2024/2024-12-11_keep-rollin.html"
 
 ---
 
-![Tanker (1)](assets/2024-12-11_keep-rollin_img_tanker28129_55391d7a4915.jpg)
+![Tanker (1)](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-12-11_keep-rollin_img_tanker28129_55391d7a4915.jpg)
 
 > **Figure 1: Tanker (1)**  
-> **Interactive Data & Source:** [Gibsons Co](https://www.gibsons.co.uk/market-reports) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-12-11_keep-rollin_img_tanker28129_55391d7a4915.jpg)
+> **Interactive Data & Source:** [Gibsons Co](https://www.gibsons.co.uk/market-reports) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-12-11_keep-rollin_img_tanker28129_55391d7a4915.jpg)
 
 Last week OPEC+ made the seemingly inevitable decision to roll over production cuts for another 3 months, acknowledging that the current fundamentals do not allow for additional OPEC+ production. In fact, with the fundamentals suggesting a well-supplied market for 2025, the group further slowed the pace of production increases.
 
@@ -35,10 +35,10 @@ Whilst expected increases in non-OPEC supply next year suggest there will be lit
 
 So, what does this mean for tankers? Overall, perhaps not a lot. Given the oil supply/demand balances for 2025, further delays to OPEC+ output increases were anticipated. As such, crude tanker demand growth will be driven by expanding production in the Atlantic basin, which typically generates more tonne miles than production from the Middle East. If OPEC+ were to press ahead with production increases, then the US might have to act as the swing producer if prices fell, putting pressure on long haul exports from the US. Further, any increases in Russian production would have likely benefitted the “dark fleet” opposed to the mainstream tanker market. A “market share” strategy, whereby OPEC+ oil floods the market, was always and still is, a key risk, yet for now the producer group continues to show remarkable cohesion.
 
-![Στιγμιότυπο Οθόνης 2024 12 11 095120](assets/2024-12-11_keep-rollin_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_8c182f45a1e2.png)
+![Στιγμιότυπο Οθόνης 2024 12 11 095120](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-12-11_keep-rollin_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_8c182f45a1e2.png)
 
 > **Figure 2: Στιγμιότυπο Οθόνης 2024 12 11 095120**  
-> **Interactive Data & Source:** [Gibsons Co](https://www.gibsons.co.uk/market-reports) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-12-11_keep-rollin_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_8c182f45a1e2.png)
+> **Interactive Data & Source:** [Gibsons Co](https://www.gibsons.co.uk/market-reports) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-12-11_keep-rollin_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_8c182f45a1e2.png)
 
 Data source:[Gibson Shipbrokers](https://www.gibsons.co.uk/market-reports)
 

@@ -32,10 +32,18 @@ In conclusion, while the new refinery being built in Nigeria could be good for t
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: A Game Changer In Africa](../../../charts/poten/2021/poten_2021-08-27_a-game-changer-in-africa_chart1.png)
+![Exhibit 1: Crude Exports from Nigeria](../../../charts/poten/2021/poten_2021-08-27_a-game-changer-in-africa_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2021/poten_2021-08-27_a-game-changer-in-africa_chart1.png)
+> **Exhibit 1: Crude Exports from Nigeria**  
+> Unit: Kbbl / Day · X-axis: Jan-16 to Jul-21  
+> Series: UKC/Baltic, Mediterranean, Americas. Atlantic, Asia/Australia, Americas. Pacific, Middle East/E Africa, Other  
+> *Source: Lloyd’s List Intelligence*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2021/poten_2021-08-27_a-game-changer-in-africa_chart1.png)
 
-![Exhibit 2: A Game Changer In Africa](../../../charts/poten/2021/poten_2021-08-27_a-game-changer-in-africa_chart2.png)
+![Exhibit 2: Petroleum Product Imports By: Nigeria](../../../charts/poten/2021/poten_2021-08-27_a-game-changer-in-africa_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2021/poten_2021-08-27_a-game-changer-in-africa_chart2.png)
+> **Exhibit 2: Petroleum Product Imports By: Nigeria**  
+> Unit: Kb/d · X-axis: Jan-10 to Jan-21  
+> Series: Naphtha, Gasoline, Gasoil/Diesel, Kerosene  
+> *Source: JODI*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2021/poten_2021-08-27_a-game-changer-in-africa_chart2.png)

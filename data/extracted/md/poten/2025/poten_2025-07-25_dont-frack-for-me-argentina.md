@@ -30,8 +30,8 @@ Argentina is making a big push towards boosting shale oil production and expandi
 
 ![Exhibit 1: Dont Frack For Me Argentina](../../../charts/poten/2025/poten_2025-07-25_dont-frack-for-me-argentina_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2025/poten_2025-07-25_dont-frack-for-me-argentina_chart1.png)
+> **Interactive Asset:** [Local Asset (200 DPI PNG)](../../../charts/poten/2025/poten_2025-07-25_dont-frack-for-me-argentina_chart1.png)
 
 ![Exhibit 2: Dont Frack For Me Argentina](../../../charts/poten/2025/poten_2025-07-25_dont-frack-for-me-argentina_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2025/poten_2025-07-25_dont-frack-for-me-argentina_chart2.png)
+> **Interactive Asset:** [Local Asset (200 DPI PNG)](../../../charts/poten/2025/poten_2025-07-25_dont-frack-for-me-argentina_chart2.png)

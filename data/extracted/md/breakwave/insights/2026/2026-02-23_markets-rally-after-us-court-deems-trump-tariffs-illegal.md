@@ -24,10 +24,10 @@ Rising geopolitical tensions pushed energy markets higher. Industrial metals gai
 
 *By*[*Daniel Hynes*](https://www.linkedin.com/in/dahynes/)
 
-![Screenshot 2026 02 23 09.32.37](assets/2026-02-23_markets-rally-after-us-court-deems-trump-tariffs-illegal_img_screenshot2026-02-23093237_cc5d6ab9a1cf.png)
+![Screenshot 2026 02 23 09.32.37](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-02-23_markets-rally-after-us-court-deems-trump-tariffs-illegal_img_screenshot2026-02-23093237_cc5d6ab9a1cf.png)
 
 > **Figure 1: Screenshot 2026 02 23 09.32.37**  
-> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-02-23_markets-rally-after-us-court-deems-trump-tariffs-illegal_img_screenshot2026-02-23093237_cc5d6ab9a1cf.png)
+> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-02-23_markets-rally-after-us-court-deems-trump-tariffs-illegal_img_screenshot2026-02-23093237_cc5d6ab9a1cf.png)
 
 ### Market Commentary
 
@@ -43,10 +43,10 @@ Rising geopolitical tensions pushed energy markets higher. Industrial metals gai
 
 China’s stockpiling of crude oil last year went a long way to keeping the market tight after OPEC started rolling back its production cuts. That stockpiling could continue in 2026 amid the increased risk of supply disruptions. The US is threatening to attack Iran in a bid to reach deal on its nuclear program. Recent peace talks have done little to bring Russia and Ukraine closer to an end in their war. Any further stockpiling by China could see the looming market surplus come in much smaller than expected.
 
-![241](assets/2026-02-23_markets-rally-after-us-court-deems-trump-tariffs-illegal_img_241_6ad1886512af.png)
+![241](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-02-23_markets-rally-after-us-court-deems-trump-tariffs-illegal_img_241_6ad1886512af.png)
 
 > **Figure 2: 241**  
-> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-02-23_markets-rally-after-us-court-deems-trump-tariffs-illegal_img_241_6ad1886512af.png)
+> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-02-23_markets-rally-after-us-court-deems-trump-tariffs-illegal_img_241_6ad1886512af.png)
 
 Data source:[Commodities Wrap](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI)
 

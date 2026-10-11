@@ -165,31 +165,44 @@ DCE iron ore futures fall today by 2.23%. the main contract I2309 closed 681. Tr
 | **SGX** | **Jun. 23** | USD/DMT | 95.55 | +0.05 | +0.05% | 4.32 | 27.42 | 94.70 | 97.25 |
 
 ## Dry Bulk Freight Rates Historical Line Data (USD/MT)
+> **Estimate.** The report prints no numbers for this chart. Values are computed from the chart's vector geometry at each x-axis date label (calibrated on the printed axis ticks; typically within 1% of the axis range).
+
 | Date | C5 W. Australia - Qingdao (USD/MT) | C3 Tubarao - Qingdao (USD/MT) |
 | :--- | :--- | :--- |
-| Contract | 12,309.00 | - |
-| Closing Price | 681.00 | -1.50 |
-| Vol traded ('000 lots) | 93.73 | 6.68 |
-| Open positions ('000 lots) | 78.24 | 0.52 |
-| Day Low | 674.00 | -8.00 |
-| Day High | 695.00 | -15.50 |
+| 4-Jan-21 | 8.39 | 15.64 |
+| 4-Mar-21 | 8.39 | 16.18 |
+| 4-May-21 | 13.22 | 28.81 |
+| 4-Jul-21 | 11.08 | 25.86 |
+| 4-Sep-21 | 13.76 | 33.11 |
+| 4-Nov-21 | 10.55 | 25.06 |
+| 4-Jan-22 | 8.92 | 21.99 |
+| 4-Mar-22 | 10.00 | 23.44 |
+| 4-May-22 | 12.15 | 26.93 |
+| 4-Jul-22 | 10.80 | 30.15 |
+| 4-Sep-22 | 8.92 | 19.81 |
+| 4-Nov-22 | 7.85 | 19.41 |
+| 4-Jan-23 | 7.31 | 18.60 |
+| 4-Mar-23 | 7.99 | 19.00 |
+| 4-May-23 | 8.66 | 22.63 |
 
 ## Total China Iron Ore Import Volumes (Million Tonnes)
+> **Estimate.** The report prints no numbers for this chart. Values are computed from the chart's vector geometry at each x-axis date label (calibrated on the printed axis ticks; typically within 1% of the axis range).
+
 | Month / Period | Import Volume (Million Tonnes) |
 | :--- | :--- |
-| Apr-22 | 85.00 |
-| May-22 | 93.00 |
-| Jun-22 | 88.00 |
-| Jul-22 | 91.00 |
-| Aug-22 | 96.00 |
-| Sep-22 | 99.00 |
-| Oct-22 | 95.00 |
-| Nov-22 | 98.00 |
-| Dec-22 | 90.00 |
-| Jan-23 | 105.00 |
-| Feb-23 | 90.00 |
-| Mar-23 | 100.00 |
-| Apr-23 | 90.00 |
+| Apr-22 | 86.01 |
+| May-22 | 92.50 |
+| Jun-22 | 88.94 |
+| Jul-22 | 91.24 |
+| Aug-22 | 96.26 |
+| Sep-22 | 99.82 |
+| Oct-22 | 95.01 |
+| Nov-22 | 98.77 |
+| Dec-22 | 90.82 |
+| Jan-23 | 103.59 |
+| Feb-23 | 90.61 |
+| Mar-23 | 100.24 |
+| Apr-23 | 90.40 |
 
 ---
 

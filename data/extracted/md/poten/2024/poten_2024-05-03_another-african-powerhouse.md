@@ -24,18 +24,24 @@ According to the US Geological Survey (USGS) the continents we now know as Afric
 
 How much oil is discoverable and commercially viable in Namibia is unknown at this point. There are currently four drilling rigs operating in Namibian waters and the consensus seems to be that in terms of exploration, the oil companies have only scratched the surface of the hydrocarbon potential in the country. Based on current discoveries alone, Namibia could produce 500,000 b/d within a decade and more than 1 Mb/d on a longer-term basis. Not much has been disclosed yet about the quality of the oil offshore Namibia, but based on nearby deposits in West Africa and similar geologies in Brazil and Guyana, the expectation is that the crude will be more likely sweet (<0.6% sulphur) rather than sour.
 
-The future implications for the tanker market of the oil exploration developments in Namibia are encouraging. There is no domestic refining capacity in Namibia, so all crude oil production will be exported. To some extent, the new production from Namibia can replace declines in Nigeria and slowdowns in Angola. As can be seen in [Chart 1](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2024/poten_2024-05-03_another-african-powerhouse_chart1.png), West African exports have stagnated somewhat in recent years. Adding several hundreds of thousands of barrels per day by the end of this decade could make this a growth area again. Some of this new oil may stay in the Atlantic Basin, but most of the future oil demand growth will be concentrated in Asia, so Namibian exports will generate ample ton-mile demand.
+The future implications for the tanker market of the oil exploration developments in Namibia are encouraging. There is no domestic refining capacity in Namibia, so all crude oil production will be exported. To some extent, the new production from Namibia can replace declines in Nigeria and slowdowns in Angola. As can be seen in [Chart 1](../../../charts/poten/2024/poten_2024-05-03_another-african-powerhouse_chart1.png), West African exports have stagnated somewhat in recent years. Adding several hundreds of thousands of barrels per day by the end of this decade could make this a growth area again. Some of this new oil may stay in the Atlantic Basin, but most of the future oil demand growth will be concentrated in Asia, so Namibian exports will generate ample ton-mile demand.
 
-> **Exhibit 1: Another African Powerhouse (Chart 1)**  
-> *Source: Poten & Partners*  
-> **Interactive Data & Source:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2024/poten_2024-05-03_another-african-powerhouse_chart1.png)
+> **Exhibit 1: W Africa Crude Oil Exports by Destination**  
+> Unit: Kb/d · X-axis: Jan-20 to Mar-24  
+> Series: China, India, Spain, Netherlands, France, United States, Indonesia, Italy, Other  
+> *Source: Vortexa*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2024/poten_2024-05-03_another-african-powerhouse_chart1.png)
 
-![Exhibit 1: Another African Powerhouse](../../../charts/poten/2024/poten_2024-05-03_another-african-powerhouse_chart1.png)
+![Exhibit 1: W Africa Crude Oil Exports by Destination](../../../charts/poten/2024/poten_2024-05-03_another-african-powerhouse_chart1.png)
 
 Based on recent experience, more crude oil exports from West Africa will mostly benefit VLCCs and Suezmaxes. With no loading restrictions in Namibia, VLCCs will likely be the main beneficiaries.
 
 ## Market Exhibits & Charts
 
-![Exhibit 2: Another African Powerhouse](../../../charts/poten/2024/poten_2024-05-03_another-african-powerhouse_chart2.png)
+![Exhibit 2: Crude Exports from W Africa by Vessel Class](../../../charts/poten/2024/poten_2024-05-03_another-african-powerhouse_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2024/poten_2024-05-03_another-african-powerhouse_chart2.png)
+> **Exhibit 2: Crude Exports from W Africa by Vessel Class**  
+> Unit: Kb/d · X-axis: Jan-20 to Mar-24  
+> Series: VLCC, Suezmax, Aframax/LR2, Panamax/LR1, Smaller  
+> *Source: Vortexa*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2024/poten_2024-05-03_another-african-powerhouse_chart2.png)

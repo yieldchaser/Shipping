@@ -20,10 +20,10 @@ source_file: "corpus/03-breakwave/insights/2020/2020-06-16_capesize-futures-surg
 
 ---
 
-![Market Chart 1](assets/2020-06-16_capesize-futures-surge-as-the-atlantic-market-comes-back-roaring_img_image-asset_da8729e3150a.jpeg)
+![Market Chart 1](../../../../../../corpus/03-breakwave/insights/2020/assets/2020-06-16_capesize-futures-surge-as-the-atlantic-market-comes-back-roaring_img_image-asset_da8729e3150a.jpeg)
 
 > **Figure 1: Market Chart 1**  
-> **Interactive Data & Source:** [Braemarscreen](https://braemarscreen.com/home) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2020/assets/2020-06-16_capesize-futures-surge-as-the-atlantic-market-comes-back-roaring_img_image-asset_da8729e3150a.jpeg)
+> **Interactive Data & Source:** [Braemarscreen](https://braemarscreen.com/home) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2020/assets/2020-06-16_capesize-futures-surge-as-the-atlantic-market-comes-back-roaring_img_image-asset_da8729e3150a.jpeg)
 
 A mad day in[freight futures today](https://braemarscreen.com/home), as improving spot rates across the globe and better sentiment in macroeconomic fundamentals (see[infrastructure spending](https://www.foxbusiness.com/markets/us-stocks-june-16-2020)) pushed freight futures higher, aided by significant short covering of bearish bets made earlier in the year.
 
@@ -31,11 +31,11 @@ As the spot Capesize market is repeating its year ago pattern (with a brief inte
 
 [BDRY, the dry bulk ETF](https://etfmg.com/funds/bdry/), is having its best two weeks on record, up ~44%, on high volume and is up more than 90% from the recent lows just only a month ago:
 
-![Brazil Is Shipping More Iron Ore](assets/2020-06-16_capesize-futures-surge-as-the-atlantic-market-comes-back-roaring_img_bdryroc_7d17bcc33e0f.jpg)
+![Brazil Is Shipping More Iron Ore](../../../../../../corpus/03-breakwave/insights/2020/assets/2020-06-16_capesize-futures-surge-as-the-atlantic-market-comes-back-roaring_img_bdryroc_7d17bcc33e0f.jpg)
 
 > **Figure 2: Brazil Is Shipping More Iron Ore**  
 > *Brazil is shipping more iron ore, with the last count this week pointing to more than 30 million tons in exports for June, by far the highest number in six months*  
-> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2020/6/10/what-is-driving-capesize-rates-higher) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2020/assets/2020-06-16_capesize-futures-surge-as-the-atlantic-market-comes-back-roaring_img_bdryroc_7d17bcc33e0f.jpg)
+> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2020/6/10/what-is-driving-capesize-rates-higher) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2020/assets/2020-06-16_capesize-futures-surge-as-the-atlantic-market-comes-back-roaring_img_bdryroc_7d17bcc33e0f.jpg)
 
 The drivers for the higher activity, and thus, stronger rates, remain the same (also see our comment from last week[here](https://www.breakwaveadvisors.com/insights/2020/6/10/what-is-driving-capesize-rates-higher)):
 
@@ -49,10 +49,10 @@ All of the above is causing a major upward push in the dry bulk sector, which co
 
 Finally, here is how Capesize rates have so far performed versus last year:
 
-![Capesize Spot Rates Are Now Where They Were This Time Last Year](assets/2020-06-16_capesize-futures-surge-as-the-atlantic-market-comes-back-roaring_img_capesize2019_73fcee269b27.jpg)
+![Capesize Spot Rates Are Now Where They Were This Time Last Year](../../../../../../corpus/03-breakwave/insights/2020/assets/2020-06-16_capesize-futures-surge-as-the-atlantic-market-comes-back-roaring_img_capesize2019_73fcee269b27.jpg)
 
 > **Figure 3: Capesize Spot Rates Are Now Where They Were This Time Last Year**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2020/assets/2020-06-16_capesize-futures-surge-as-the-atlantic-market-comes-back-roaring_img_capesize2019_73fcee269b27.jpg)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2020/assets/2020-06-16_capesize-futures-surge-as-the-atlantic-market-comes-back-roaring_img_capesize2019_73fcee269b27.jpg)
 
 Capesize spot rates are now where they were this time last year
 

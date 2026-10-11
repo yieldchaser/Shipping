@@ -34,10 +34,10 @@ China and India remain the principal drivers of global commodity demand and, con
 
 For the dry bulk market, the IMF's latest projections suggest that the pace of growth alone is no longer sufficient to gauge commodity demand. Its composition and geographic distribution have become equally important. While global GDP is expected to moderate, continued infrastructure investment across Asia, industrialization in emerging markets and energy security concerns should continue to underpin demand for key bulk commodities. Meanwhile, geopolitical fragmentation is reshaping trade flows through supply diversification and longer-haul cargo movements, supporting tonne-mile demand. Although slower trade growth, persistent inflation and geopolitical risks are likely to sustain freight market volatility, the broader macroeconomic backdrop remains supportive. Rather than signalling weaker commodity demand, the IMF's outlook points to an evolving trade landscape, with emerging Asia continuing to drive incremental dry bulk demand.
 
-![Στιγμιότυπο Οθόνης 2026 07 13 102556](assets/2026-07-13_a-growing-paradox-at-the-heart-of-the-global-economy_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_5e59a11a9e68.png)
+![Στιγμιότυπο Οθόνης 2026 07 13 102556](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-07-13_a-growing-paradox-at-the-heart-of-the-global-economy_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_5e59a11a9e68.png)
 
 > **Figure 1: Στιγμιότυπο Οθόνης 2026 07 13 102556**  
-> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-07-13_a-growing-paradox-at-the-heart-of-the-global-economy_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_5e59a11a9e68.png)
+> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-07-13_a-growing-paradox-at-the-heart-of-the-global-economy_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_5e59a11a9e68.png)
 
 Data source:[Doric](https://www.doric.gr/)
 

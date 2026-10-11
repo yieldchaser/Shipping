@@ -43,7 +43,7 @@ The shipping industry has been relying on inefficient means to process and excha
 ![Challenges in Commercial Shipping and the Role of Big Data](../../images/66b51fa70ff31bc45d54a02a_5fc15be53f2172960a75e3f3_Signal-Ocean-What-it-does.avif)
 
 > **Figure 1: Challenges in Commercial Shipping and the Role of Big Data**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/chartering-platform-and-tanker-pools-2020-use-cases) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/66b51fa70ff31bc45d54a02a_5fc15be53f2172960a75e3f3_Signal-Ocean-What-it-does.avif)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/chartering-platform-and-tanker-pools-2020-use-cases) | [Local Asset](../../../../../../corpus/07-signal/images/66b51fa70ff31bc45d54a02a_5fc15be53f2172960a75e3f3_Signal-Ocean-What-it-does.avif)
 
 
 ###### Request a Demo
@@ -64,7 +64,7 @@ Below is an example of a potential cargo and the vessels that at the time could 
 ![Monitoring the Competition](../../images/66b51fa70ff31bc45d54a02d_5fc15be53f2172795975e409_Competition-monitoring-for-a-potential-Black-Sea-cargo-Signal-Ocean-Platform.avif)
 
 > **Figure 2: Monitoring the Competition**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/chartering-platform-and-tanker-pools-2020-use-cases) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/66b51fa70ff31bc45d54a02d_5fc15be53f2172795975e409_Competition-monitoring-for-a-potential-Black-Sea-cargo-Signal-Ocean-Platform.avif)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/chartering-platform-and-tanker-pools-2020-use-cases) | [Local Asset](../../../../../../corpus/07-signal/images/66b51fa70ff31bc45d54a02d_5fc15be53f2172795975e409_Competition-monitoring-for-a-potential-Black-Sea-cargo-Signal-Ocean-Platform.avif)
 
 
 ### Fixture Timing
@@ -78,7 +78,7 @@ In the graph below, the blue line is the market and the red line is the **vessel
 
 > **Figure 3: Day-to-Day and Point-in-Time Vessel Supply Can Give You a Signal on the Market and Help You Decide Whether to Wait or Fix Now.**  
 > *Day-to-day and point-in-time vessel supply can give you a signal on the market and help you decide whether to wait or fix now.*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/chartering-platform-and-tanker-pools-2020-use-cases) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/66b51fa70ff31bc45d54a031_5fc15be53f2172e3bc75e40a_vessel-supply-s-Market-graph-example-from-signal-ocean-platform.avif)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/chartering-platform-and-tanker-pools-2020-use-cases) | [Local Asset](../../../../../../corpus/07-signal/images/66b51fa70ff31bc45d54a031_5fc15be53f2172e3bc75e40a_vessel-supply-s-Market-graph-example-from-signal-ocean-platform.avif)
 
 
 ### Strategic Fleet Deployment and Benchmarking
@@ -92,7 +92,7 @@ Let’s assume a scenario where a new vessel is joining our pool. She opens in C
 
 > **Figure 4: A Voyage Database Can Be Used to Quickly Gain Experience About the Options a Vessel Has**  
 > *A voyage database can be used to quickly gain experience about the options a vessel has. Here we see an aggregated voyage database for Aframaxes from Open area to next relevant Load area ranked by number of cargoes.*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/chartering-platform-and-tanker-pools-2020-use-cases) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/66b51fa70ff31bc45d54a038_5fc15be53f217283a175e40b_Voyage-data-set-example-from-signal-ocean-platform.avif)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/chartering-platform-and-tanker-pools-2020-use-cases) | [Local Asset](../../../../../../corpus/07-signal/images/66b51fa70ff31bc45d54a038_5fc15be53f217283a175e40b_Voyage-data-set-example-from-signal-ocean-platform.avif)
 
 **A difficult problem** to solve for any commercial operator **is how to account for the optionality that the market provides with voyages of different durations ending up in different discharge areas.** To address this problem, the concept of “position value” was designed. Combining many of the core capabilities and data offered by the Signal Ocean chartering platform, this dynamic model allows users to estimate an approximate, real-time TCE offset for any loading area in the world compared to a reference point (e.g. Gibraltar). Using this model, users can, for example, deduce that on a particular day having an Aframax available in Japan is approximately $0.7m worse than having the same vessel in the Baltic.
 
@@ -100,7 +100,7 @@ Let’s assume a scenario where a new vessel is joining our pool. She opens in C
 ![Strategic Fleet Deployment and Benchmarking](../../images/66b51fa70ff31bc45d54a034_5fc15be53f2172e66375e40c_Position-Value-map-example-from-signal-ocean-platform.avif)
 
 > **Figure 5: Strategic Fleet Deployment and Benchmarking**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/chartering-platform-and-tanker-pools-2020-use-cases) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/66b51fa70ff31bc45d54a034_5fc15be53f2172e66375e40c_Position-Value-map-example-from-signal-ocean-platform.avif)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/chartering-platform-and-tanker-pools-2020-use-cases) | [Local Asset](../../../../../../corpus/07-signal/images/66b51fa70ff31bc45d54a034_5fc15be53f2172e66375e40c_Position-Value-map-example-from-signal-ocean-platform.avif)
 
 *The position value of a port indicates the expected relative profit for a voyage starting from such port. Here we see a variation of positions value by area. These values are used in Signal’s day-to-day estimations to assess the right rate to go East versus the right level to reposition to the USA versus staying in the local market.*
 

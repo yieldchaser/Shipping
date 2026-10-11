@@ -30,6 +30,10 @@ In conclusion, there is no doubt that the market has been very bad for the last 
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: Money For Nothing And Ships For Free](../../../charts/poten/2021/poten_2021-08-13_money-for-nothing-and-ships-for-free_chart1.png)
+![Exhibit 1: VLCC: Company Reported TCE vs AG-China TCE](../../../charts/poten/2021/poten_2021-08-13_money-for-nothing-and-ships-for-free_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2021/poten_2021-08-13_money-for-nothing-and-ships-for-free_chart1.png)
+> **Exhibit 1: VLCC: Company Reported TCE vs AG-China TCE**  
+> Unit: TCE ($/day) · X-axis: 1Q2015 to 1Q2021  
+> Series: Reported TCE Range, AG-China TCE  
+> *Source: Company Reports; Poten & Partners*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2021/poten_2021-08-13_money-for-nothing-and-ships-for-free_chart1.png)

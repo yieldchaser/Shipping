@@ -19,11 +19,11 @@ source_file: "corpus/03-breakwave/insights/2022/2022-11-21_doric-weekly-market-i
 
 ---
 
-[![Bymichalis Voutsinas](assets/2022-11-21_doric-weekly-market-insight_img_page2b211_c497586f981c.png)
+[![Bymichalis Voutsinas](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-11-21_doric-weekly-market-insight_img_page2b211_c497586f981c.png)
 
 > **Figure 1: Bymichalis Voutsinas**  
 > *ByMichalis Voutsinas*  
-> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/in/michalis-voutsinas-587544163/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-11-21_doric-weekly-market-insight_img_page2b211_c497586f981c.png)](https://www.breakwaveadvisors.com/agenda22)
+> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/in/michalis-voutsinas-587544163/) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-11-21_doric-weekly-market-insight_img_page2b211_c497586f981c.png)](https://www.breakwaveadvisors.com/agenda22)
 
 Breakwave Advisors 2nd annual shipping market event
 
@@ -37,10 +37,10 @@ Setting aside the stressed real estate sector, the world’s second largest econ
 
 The southern city is setting up hospitals and quarantine sites with capacity for circa 250,000 beds for Covid-19 infections, officials said on Thursday. While state media have repeatedly reiterate Beijing’s commitment to eradicate Covid, health officials on Thursday laid out plans to strengthen the national hospital framework in a potential sign they are bracing for an increased caseload.
 
-![Screenshot 20221121 103123 Samsung Notes](assets/2022-11-21_doric-weekly-market-insight_img_screenshot-20221121-103123-samsungno_ef32d70fc5e5.jpg)
+![Screenshot 20221121 103123 Samsung Notes](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-11-21_doric-weekly-market-insight_img_screenshot-20221121-103123-samsungno_ef32d70fc5e5.jpg)
 
 > **Figure 2: Screenshot 20221121 103123 Samsung Notes**  
-> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-11-21_doric-weekly-market-insight_img_screenshot-20221121-103123-samsungno_ef32d70fc5e5.jpg)
+> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-11-21_doric-weekly-market-insight_img_screenshot-20221121-103123-samsungno_ef32d70fc5e5.jpg)
 
 Against this backdrop, Asian markets were in cautious mood on Friday, with investors preoccupied by the gloomy global economic picture and Covid’s persistence in China. The Nikkei ended the forty-sixth week marginally lower, reversing small gains from earlier. Hong Kong stocks dropped off amid more losses for Chinese property developers. China stocks trended mostly sideways, tracking the cautious mood in regional markets amid concerns of aggressive US tightening and domestic Covid19 outbreaks. In commodity markets, oil futures regained some ground but still nursed steep losses for the week on worries about Chinese demand and tighter monetary policy in the US.
 

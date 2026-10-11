@@ -24,10 +24,10 @@ As US–Iran nuclear negotiations move through their latest round, the shipping 
 
 The data behind this trend points to something more striking. For the first time in at least ten years, the market value of a five-year-old VLCC has surpassed the price of a newbuilding. In the Suezmax segment, the two are now almost equal. With the ordering spree seen in March now extending into April, the pressure this creates on newbuilding prices is real, and it is pointing upward.
 
-![Στιγμιότυπο Οθόνης 2026 04 22 135328](assets/2026-04-22_usiran-negotiations-and-the-case-for-crude-tanker-capacity_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_e7c4c27edb96.png)
+![Στιγμιότυπο Οθόνης 2026 04 22 135328](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-04-22_usiran-negotiations-and-the-case-for-crude-tanker-capacity_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_e7c4c27edb96.png)
 
 > **Figure 1: Στιγμιότυπο Οθόνης 2026 04 22 135328**  
-> **Interactive Data & Source:** [Allied-shipbroking](https://www.allied-shipbroking.gr/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-04-22_usiran-negotiations-and-the-case-for-crude-tanker-capacity_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_e7c4c27edb96.png)
+> **Interactive Data & Source:** [Allied-shipbroking](https://www.allied-shipbroking.gr/) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-04-22_usiran-negotiations-and-the-case-for-crude-tanker-capacity_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_e7c4c27edb96.png)
 
 Allied QuantumSea Research recorded 92 newbuilding contracts across dry bulk and tanker segments in March, comprising 67 tankers and 25 bulkers. Based on disclosed firm pricing, this equated to approximately $3.64bn of invested capital. More than 70% of that capital was directed toward VLCCs and Suezmaxes alone, a concentration that defines the month and sets the tone for what has followed.
 

@@ -26,10 +26,17 @@ We don't expect refined product demand in California to drop rapidly and shuttin
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: Another Refinery Retires](../../../charts/poten/2024/poten_2024-10-18_another-refinery-retires_chart1.png)
+![Exhibit 1: Seaborne Crude Oil Imports into California](../../../charts/poten/2024/poten_2024-10-18_another-refinery-retires_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2024/poten_2024-10-18_another-refinery-retires_chart1.png)
+> **Exhibit 1: Seaborne Crude Oil Imports into California**  
+> Unit: Kb/d · X-axis: Jan-20 to Sep-24  
+> Series: United States, Iraq, Panama, Saudi Arabia, Ecuador, Brazil, Mexico, Canada, Other, 6 Months Mov. Avg.  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2024/poten_2024-10-18_another-refinery-retires_chart1.png)
 
-![Exhibit 2: Another Refinery Retires](../../../charts/poten/2024/poten_2024-10-18_another-refinery-retires_chart2.png)
+![Exhibit 2: Seaborne Clean Product Imports into California](../../../charts/poten/2024/poten_2024-10-18_another-refinery-retires_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2024/poten_2024-10-18_another-refinery-retires_chart2.png)
+> **Exhibit 2: Seaborne Clean Product Imports into California**  
+> Unit: Kb/d · X-axis: Jan-20 to Sep-24  
+> Series: United States, South Korea, Singapore, India, Canada, China, Indonesia, Japan, Other  
+> *Source: Vortexa*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2024/poten_2024-10-18_another-refinery-retires_chart2.png)

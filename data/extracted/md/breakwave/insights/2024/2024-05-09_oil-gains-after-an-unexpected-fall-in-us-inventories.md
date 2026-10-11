@@ -24,10 +24,10 @@ A risk-off tone across markets weighed on sentiment. A stronger USD led to lower
 
 *By*[*Daniel Hynes*](https://www.linkedin.com/in/dahynes/)
 
-![Στιγμιότυπο Οθόνης 2024 05 09 123853](assets/2024-05-09_oil-gains-after-an-unexpected-fall-in-us-inventories_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_56f3cd26a76b.png)
+![Στιγμιότυπο Οθόνης 2024 05 09 123853](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-05-09_oil-gains-after-an-unexpected-fall-in-us-inventories_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_56f3cd26a76b.png)
 
 > **Figure 1: Στιγμιότυπο Οθόνης 2024 05 09 123853**  
-> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-05-09_oil-gains-after-an-unexpected-fall-in-us-inventories_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_56f3cd26a76b.png)
+> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-05-09_oil-gains-after-an-unexpected-fall-in-us-inventories_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_56f3cd26a76b.png)
 
 ### Market Commentary
 
@@ -41,10 +41,10 @@ The risk-off tone across markets also weighed on sentiment across the**base meta
 
 **Iron ore**futures fell despite a more upbeat assessment on demand. One of the world’s biggest exporters, Brazil’s Vale SA, said China’s real estate market is poised to improve in the second half of the year. It pointed to government stimulus as a reason for its more bullish outlook. It also sees strong demand from the infrastructure and manufacturing sectors.
 
-![Στιγμιότυπο Οθόνης 2024 05 09 124023](assets/2024-05-09_oil-gains-after-an-unexpected-fall-in-us-inventories_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_bc51f21dd5d0.png)
+![Στιγμιότυπο Οθόνης 2024 05 09 124023](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-05-09_oil-gains-after-an-unexpected-fall-in-us-inventories_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_bc51f21dd5d0.png)
 
 > **Figure 2: Στιγμιότυπο Οθόνης 2024 05 09 124023**  
-> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-05-09_oil-gains-after-an-unexpected-fall-in-us-inventories_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_bc51f21dd5d0.png)
+> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-05-09_oil-gains-after-an-unexpected-fall-in-us-inventories_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_bc51f21dd5d0.png)
 
 Data source:[Commodities Wrap](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI)
 

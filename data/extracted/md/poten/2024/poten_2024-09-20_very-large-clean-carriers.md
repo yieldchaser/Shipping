@@ -32,10 +32,17 @@ This freight arbitrage will likely continue until the growing number of cleaned 
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: Very Large Clean Carriers](../../../charts/poten/2024/poten_2024-09-20_very-large-clean-carriers_chart1.png)
+![Exhibit 1: Pacific To Atlantic Clean Trade By Vessel Class](../../../charts/poten/2024/poten_2024-09-20_very-large-clean-carriers_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2024/poten_2024-09-20_very-large-clean-carriers_chart1.png)
+> **Exhibit 1: Pacific To Atlantic Clean Trade By Vessel Class**  
+> Unit: Kb/d | Percentage · X-axis: 1-Jan-24 to 9-Sep-24  
+> Series: VLCC, Suezmax, Aframax, LR3, LR2, LR1, MR, Handy, Smaller, Coated Percentage  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2024/poten_2024-09-20_very-large-clean-carriers_chart1.png)
 
-![Exhibit 2: Very Large Clean Carriers](../../../charts/poten/2024/poten_2024-09-20_very-large-clean-carriers_chart2.png)
+![Exhibit 2: LR2 vs VLCC Tanker Freight Rates](../../../charts/poten/2024/poten_2024-09-20_very-large-clean-carriers_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2024/poten_2024-09-20_very-large-clean-carriers_chart2.png)
+> **Exhibit 2: LR2 vs VLCC Tanker Freight Rates**  
+> Unit: Lumpsum · X-axis: Jan-23 to Sep-24  
+> Series: VLCC (280KT Dirty: AG-UKC), LR2 (90KT Clean: AG-UKC)  
+> *Source: Vortexa / Poten & Partners*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2024/poten_2024-09-20_very-large-clean-carriers_chart2.png)

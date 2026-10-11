@@ -34,8 +34,12 @@ Although the OBOR projects are meant to stimulate economic growth and trade, the
 
 ![Exhibit 1: One Belt One Road](../../../charts/poten/2017/poten_2017-10-06_one-belt-one-road_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2017/poten_2017-10-06_one-belt-one-road_chart1.png)
+> **Interactive Asset:** [Local Asset (200 DPI PNG)](../../../charts/poten/2017/poten_2017-10-06_one-belt-one-road_chart1.png)
 
-![Exhibit 2: One Belt One Road](../../../charts/poten/2017/poten_2017-10-06_one-belt-one-road_chart2.png)
+![Exhibit 2: Tanker Discharges Ma Day Island (Myanmar) by Vessel Class](../../../charts/poten/2017/poten_2017-10-06_one-belt-one-road_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2017/poten_2017-10-06_one-belt-one-road_chart2.png)
+> **Exhibit 2: Tanker Discharges Ma Day Island (Myanmar) by Vessel Class**  
+> Unit: Kbbl · X-axis: Jan-17 to Oct-17  
+> Series: VLCC, Suezmax  
+> *Source: Lloyds Intelligence*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2017/poten_2017-10-06_one-belt-one-road_chart2.png)

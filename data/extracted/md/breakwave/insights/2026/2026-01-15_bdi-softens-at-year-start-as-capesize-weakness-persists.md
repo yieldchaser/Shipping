@@ -26,10 +26,10 @@ This weekly market monitor provides an analysis of the latest freight market dev
 
 Sharp correction since the December peak highlights near-term pressure, though levels remain above last year (+51%)
 
-![Market Chart 1](assets/2026-01-15_bdi-softens-at-year-start-as-capesize-weakness-persists_img_unnamed_2435c1c78d53.png)
+![Market Chart 1](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-01-15_bdi-softens-at-year-start-as-capesize-weakness-persists_img_unnamed_2435c1c78d53.png)
 
 > **Figure 1: Market Chart 1**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://go.signalocean.com/e/983831/dry-dynamic-drybulkflows/2rrq4n/568934524/h/1BrB9nWGcHf2Hw_CjRXlPZ8V0fDWdccwSmUW-RZVnjs) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-01-15_bdi-softens-at-year-start-as-capesize-weakness-persists_img_unnamed_2435c1c78d53.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://go.signalocean.com/e/983831/dry-dynamic-drybulkflows/2rrq4n/568934524/h/1BrB9nWGcHf2Hw_CjRXlPZ8V0fDWdccwSmUW-RZVnjs) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-01-15_bdi-softens-at-year-start-as-capesize-weakness-persists_img_unnamed_2435c1c78d53.png)
 
 ### Key Takeaways
 
@@ -47,10 +47,10 @@ Despite the recent weakness, the market pulse remains stronger than it was a yea
 
 As of 12 January, Brazilian iron ore shipments on a 7-day moving-average basis are estimated to be ~2.6% lower year-on-year versus the same early-January period in 2024. The latest 7-day average also suggests early-2026 shipments are running ~16% below early-2025 levels and ~18% below early-2024, based on Signal Ocean data.
 
-![Market Chart 2](assets/2026-01-15_bdi-softens-at-year-start-as-capesize-weakness-persists_img_unnamed28129_64729ed5e2bf.png)
+![Market Chart 2](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-01-15_bdi-softens-at-year-start-as-capesize-weakness-persists_img_unnamed28129_64729ed5e2bf.png)
 
 > **Figure 2: Market Chart 2**  
-> **Interactive Data & Source:** [Signal Ocean Dynamic Market Prices](https://go.signalocean.com/e/983831/dry-dynamic-market-prices-dry/2rrq4k/568934524/h/1BrB9nWGcHf2Hw_CjRXlPZ8V0fDWdccwSmUW-RZVnjs) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-01-15_bdi-softens-at-year-start-as-capesize-weakness-persists_img_unnamed28129_64729ed5e2bf.png)
+> **Interactive Data & Source:** [Signal Ocean Dynamic Market Prices](https://go.signalocean.com/e/983831/dry-dynamic-market-prices-dry/2rrq4k/568934524/h/1BrB9nWGcHf2Hw_CjRXlPZ8V0fDWdccwSmUW-RZVnjs) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-01-15_bdi-softens-at-year-start-as-capesize-weakness-persists_img_unnamed28129_64729ed5e2bf.png)
 
 ### Freight Market Weaker
 
@@ -58,17 +58,17 @@ Market price trends depicted are based on Signal Ocean Assessments. For real-tim
 
 [Comparison](https://go.signalocean.com/e/983831/dry-dynamic-market-prices-dry/2rrq4k/568934524/h/1BrB9nWGcHf2Hw_CjRXlPZ8V0fDWdccwSmUW-RZVnjs)
 
-![Baltic Rates](assets/2026-01-15_bdi-softens-at-year-start-as-capesize-weakness-persists_img_unnamed28229_1369c9df4790.png)
+![Baltic Rates](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-01-15_bdi-softens-at-year-start-as-capesize-weakness-persists_img_unnamed28229_1369c9df4790.png)
 
 > **Figure 3: Baltic Rates**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://go.signalocean.com/e/983831/ic-capes-insights-downloadable/2rrq4r/568934524/h/1BrB9nWGcHf2Hw_CjRXlPZ8V0fDWdccwSmUW-RZVnjs) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-01-15_bdi-softens-at-year-start-as-capesize-weakness-persists_img_unnamed28229_1369c9df4790.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://go.signalocean.com/e/983831/ic-capes-insights-downloadable/2rrq4r/568934524/h/1BrB9nWGcHf2Hw_CjRXlPZ8V0fDWdccwSmUW-RZVnjs) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-01-15_bdi-softens-at-year-start-as-capesize-weakness-persists_img_unnamed28229_1369c9df4790.png)
 
 - The recent drop in the BDI is led by a sharp correction in Capesize (BCI), whereas Panamax, Supramax, and Handysize markets have shown comparatively milder declines.
 
-![Capesize | Weaker](assets/2026-01-15_bdi-softens-at-year-start-as-capesize-weakness-persists_img_unnamed28329_ad5923a12961.png)
+![Capesize | Weaker](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-01-15_bdi-softens-at-year-start-as-capesize-weakness-persists_img_unnamed28329_ad5923a12961.png)
 
 > **Figure 4: Capesize | Weaker**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://go.signalocean.com/e/983831/ic-capes-insights-downloadable/2rrq4r/568934524/h/1BrB9nWGcHf2Hw_CjRXlPZ8V0fDWdccwSmUW-RZVnjs) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-01-15_bdi-softens-at-year-start-as-capesize-weakness-persists_img_unnamed28329_ad5923a12961.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://go.signalocean.com/e/983831/ic-capes-insights-downloadable/2rrq4r/568934524/h/1BrB9nWGcHf2Hw_CjRXlPZ8V0fDWdccwSmUW-RZVnjs) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-01-15_bdi-softens-at-year-start-as-capesize-weakness-persists_img_unnamed28329_ad5923a12961.png)
 
 - Cape freight rates on the Brazil–China and WAus–China routes have trended lower since early December, following a clear summer peak reached mid-year. The continued easing into mid-January signals a soft start to the year, with rates losing momentum during the first month of 2026.
 
@@ -77,10 +77,10 @@ Market price trends depicted are based on Signal Ocean Assessments. For real-tim
 
 ### Ballasters Overview
 
-![Capesize| Vessel Count Grows in Io / Sa](assets/2026-01-15_bdi-softens-at-year-start-as-capesize-weakness-persists_img_unnamed28429_e9a731696d19.png)
+![Capesize| Vessel Count Grows in Io / Sa](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-01-15_bdi-softens-at-year-start-as-capesize-weakness-persists_img_unnamed28429_e9a731696d19.png)
 
 > **Figure 5: Capesize| Vessel Count Grows in Io / Sa**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-01-15_bdi-softens-at-year-start-as-capesize-weakness-persists_img_unnamed28429_e9a731696d19.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-01-15_bdi-softens-at-year-start-as-capesize-weakness-persists_img_unnamed28429_e9a731696d19.png)
 
 - Ballast counts are building most notably in IO/SA, which remains the largest accumulation area at 183 vessels (+12% WoW). The Pacific is also showing increased availability, led by Australasia at 231 vessels (+14% WoW). In the Atlantic, NATL rose sharply in percentage terms (+29% WoW), while SATL declined to 36 vessels (-14% WoW). FEAST/NOPAC eased slightly to 126 vessels (-3% WoW).​​​​​​
 

@@ -20,10 +20,10 @@ source_file: "corpus/03-breakwave/insights/2024/2024-12-20_trumps-wall-of-tariff
 
 ---
 
-![Rgb Color Brs Shipbrokers Monogram Logo](assets/2024-12-20_trumps-wall-of-tariffs_img_rgb-color-brs-shipbrokers-monogram-l_ee79606c8e74.png)
+![Rgb Color Brs Shipbrokers Monogram Logo](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-12-20_trumps-wall-of-tariffs_img_rgb-color-brs-shipbrokers-monogram-l_ee79606c8e74.png)
 
 > **Figure 1: Rgb Color Brs Shipbrokers Monogram Logo**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-12-20_trumps-wall-of-tariffs_img_rgb-color-brs-shipbrokers-monogram-l_ee79606c8e74.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-12-20_trumps-wall-of-tariffs_img_rgb-color-brs-shipbrokers-monogram-l_ee79606c8e74.png)
 
 It has been only one month since Donald Trump was officially confirmed as the 47th US President. Given the strong mandate that was handed to him by the US electorate, it is likely that Trump’s conviction to enact his policies will, this time, come with stronger execution and precision. Sensing that, the world is already busy preparing for his return and self-proclaimed favourite word: “tariffs”.
 
@@ -31,10 +31,10 @@ For instance, Canada pledged to devote more resources and personnel to its borde
 
 Some of these developments suggest we are moving towards a world and trade order whereby unpredictability should no longer be a shock rather than a norm to take in one’s stride. Furthermore, the pace of change could be faster than we expect, not in a linear progression, which can manifest across various dimensions (see below).
 
-![Στιγμιότυπο Οθόνης 2024 12 20 155709](assets/2024-12-20_trumps-wall-of-tariffs_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_9cd9f320674b.png)
+![Στιγμιότυπο Οθόνης 2024 12 20 155709](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-12-20_trumps-wall-of-tariffs_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_9cd9f320674b.png)
 
 > **Figure 2: Στιγμιότυπο Οθόνης 2024 12 20 155709**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-12-20_trumps-wall-of-tariffs_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_9cd9f320674b.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-12-20_trumps-wall-of-tariffs_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_9cd9f320674b.png)
 
 Above all, the main question for the dry bulk community is how all this could come back to China and consequently impact the bulkers market which has been losing some of its mojo since mid-2024.
 
@@ -46,10 +46,10 @@ Firstly, the trend of ‘re-shoring/friend-shoring’ the supply chain should co
 
 Already, China’s annual import growth for dry bulk commodities has decelerated over the past few years and is estimated to be just below 3.0% across 2024. This is lower than the 4.5% annual growth rate posted across 2018 to 2023, not to mention the 6.1% averaged from 2015 to 2018.
 
-![Στιγμιότυπο Οθόνης 2024 12 20 155727](assets/2024-12-20_trumps-wall-of-tariffs_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_1a6620afff0c.png)
+![Στιγμιότυπο Οθόνης 2024 12 20 155727](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-12-20_trumps-wall-of-tariffs_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_1a6620afff0c.png)
 
 > **Figure 3: Στιγμιότυπο Οθόνης 2024 12 20 155727**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-12-20_trumps-wall-of-tariffs_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_1a6620afff0c.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-12-20_trumps-wall-of-tariffs_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_1a6620afff0c.png)
 
 Given the well-documented headwinds facing China’s economy in the coming years, and now Chinese exports (an important avenue for forex earnings) are facing considerable headwinds, any overtly optimistic projection in China’s GDP growth needs to be taken with a pinch of salt. Beijing has targeted around 5% growth for 2024. However, in early December, a prominent Chinese economist, Gao Shanwen was reportedly saying that growth is likely lower than official figures suggest and a realistic outlook for the coming years would be 3-4%.
 
@@ -63,10 +63,10 @@ Hence, it is important to note that the future depends not only on Washington’
 
 On paper, that appears logical, and we have discussed this in Issue 143. Indeed, China is more well-prepared from a grain procurement standpoint . Beside soybeans, to reduce its dependence on US grains, in 2022 Beijing approved imports of Brazilian corn. Furthermore, earlier this year, it approved corn purchases from Argentina, enabling its first corn shipments in 15 years and the most substantial wheat trade since the 1990s. On the sorghum side (which tends to fall outside the radar), US producers depend heavily on China, where it is used in animal feed and the production of the liquor baijiu. However, late last month, China began allowing sorghum imports from Brazil. Although Brazil has historically exported little sorghum, its production has doubled over the last four years according to the Brazilian Association of Corn and Sorghum Producers (Abramilho).
 
-![Στιγμιότυπο Οθόνης 2024 12 20 155740](assets/2024-12-20_trumps-wall-of-tariffs_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_2cce282870f2.png)
+![Στιγμιότυπο Οθόνης 2024 12 20 155740](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-12-20_trumps-wall-of-tariffs_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_2cce282870f2.png)
 
 > **Figure 4: Στιγμιότυπο Οθόνης 2024 12 20 155740**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-12-20_trumps-wall-of-tariffs_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_2cce282870f2.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-12-20_trumps-wall-of-tariffs_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_2cce282870f2.png)
 
 Nonetheless, it is important to highlight that the Chinese economy President Xi is managing now is radically different from 7 to 8 years ago. In the wake of tightening access to Western high-technology, deflationary pressures, and an underwhelming real estate recovery, we cannot dismiss the possibility of Beijing making concessions in Trump’s second presidency. Furthermore, back in 2017, Trump was a fresh-face in international politics and an unknown variable. Now all foreign leaders have some idea of the consequences of engaging/retaliating against him. In addition, unlike his first term, Trump should be now better placed to execute his policies, since his team is now all hand-picked by him plus the Republicans have majorities in the Senate and Congress. As the famous saying goes, ‘Personnel is Policy’, Trump’s incoming cabinet is filed with hawkish characters picked to implement his ‘America First’ agenda. Hence, ‘tit-for-tat’ for trade discussions need not necessarily be the sole way forward despite the inevitable rise in tensions.
 

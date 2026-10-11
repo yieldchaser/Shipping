@@ -68,6 +68,8 @@ There are a variety of half-baked plans aimed at changing gasoline prices, most 
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: Passing The Buck](../../../charts/poten/2006/poten_2006-04-28_passing-the-buck_chart1.png)
-
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2006/poten_2006-04-28_passing-the-buck_chart1.png)
+> **Chart on PDF page 2: Crude Oil vs. Gasoline Prices**  
+> Unit: Price Per Gallon | Price of Oil as a % of Gasoline · X-axis: May-05 to Apr-06  
+> Series: Gasoline Unleaded, Crude Oil, Crude/Gas Ratio  
+> *Source: Poten & Partners/NYMEX*  
+> *No image crop of this chart was saved; caption read from the PDF.*

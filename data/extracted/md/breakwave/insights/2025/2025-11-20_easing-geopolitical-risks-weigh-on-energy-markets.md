@@ -24,10 +24,10 @@ Easing geopolitical tensions weighed on energy markets, with oil and gas ending 
 
 *By*[*Daniel Hynes*](https://www.linkedin.com/in/dahynes/)
 
-![Στιγμιότυπο Οθόνης 2025 11 20 102104](assets/2025-11-20_easing-geopolitical-risks-weigh-on-energy-markets_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_852139abd76b.png)
+![Στιγμιότυπο Οθόνης 2025 11 20 102104](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-11-20_easing-geopolitical-risks-weigh-on-energy-markets_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_852139abd76b.png)
 
 > **Figure 1: Στιγμιότυπο Οθόνης 2025 11 20 102104**  
-> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-11-20_easing-geopolitical-risks-weigh-on-energy-markets_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_852139abd76b.png)
+> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-11-20_easing-geopolitical-risks-weigh-on-energy-markets_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_852139abd76b.png)
 
 ### Market Commentary
 
@@ -43,10 +43,10 @@ Easing geopolitical risks weighed on the natural gas markets, with**European gas
 
 China is the world’s largest producer of refined zinc, making up over half of the world’s supply. Production has surged in 2025 and is on track for an annual record. However, smelter output outside China has contracted due to high energy costs and uneconomic treatment charges, leading to closures in Japan and curtailments in Europe. This is why global inventories have been on a steady decline (aside from the build over the past nine days).
 
-![Στιγμιότυπο Οθόνης 2025 11 20 102212](assets/2025-11-20_easing-geopolitical-risks-weigh-on-energy-markets_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_ec4bc545cc83.png)
+![Στιγμιότυπο Οθόνης 2025 11 20 102212](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-11-20_easing-geopolitical-risks-weigh-on-energy-markets_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_ec4bc545cc83.png)
 
 > **Figure 2: Στιγμιότυπο Οθόνης 2025 11 20 102212**  
-> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-11-20_easing-geopolitical-risks-weigh-on-energy-markets_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_ec4bc545cc83.png)
+> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-11-20_easing-geopolitical-risks-weigh-on-energy-markets_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_ec4bc545cc83.png)
 
 Data source:[Commodities Wrap](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI)
 

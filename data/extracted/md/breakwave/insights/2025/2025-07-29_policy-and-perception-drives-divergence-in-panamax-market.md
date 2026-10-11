@@ -20,19 +20,19 @@ source_file: "corpus/03-breakwave/insights/2025/2025-07-29_policy-and-perception
 
 ---
 
-![Rgb Color Brs Shipbrokers Monogram Logo](assets/2025-07-29_policy-and-perception-drives-divergence-in-panamax-market_img_rgb-color-brs-shipbrokers-monogram-l_ee79606c8e74.png)
+![Rgb Color Brs Shipbrokers Monogram Logo](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-07-29_policy-and-perception-drives-divergence-in-panamax-market_img_rgb-color-brs-shipbrokers-monogram-l_ee79606c8e74.png)
 
 > **Figure 1: Rgb Color Brs Shipbrokers Monogram Logo**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-07-29_policy-and-perception-drives-divergence-in-panamax-market_img_rgb-color-brs-shipbrokers-monogram-l_ee79606c8e74.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-07-29_policy-and-perception-drives-divergence-in-panamax-market_img_rgb-color-brs-shipbrokers-monogram-l_ee79606c8e74.png)
 
 Following a half year hibernation, Panamax freight rates have finally woken up. Freight rates have risen noticeably across all routes, while the transatlantic P1A route has undoubtedly stood out. This may be linked to the perception of the impact of USTR policies on the fundamental future dynamics of the shipping market. In February 2025, the USTR released a Section 301 proposal targeting Chinese shipping, logistics, and shipbuilding industries, announcing that starting from mid-October 2025, shipowners and operators of China-linked vessels calling at US ports would be subject to levies. Although these regulations remain proposals and are open to potential significant change (especially concerning their introduction date), they have undeniably shaken dry bulker markets.
 
 As of 18 July, P1A closed at $20,900/day, up 143% from the June low ($8,614/day on 2 June). In comparison, the Pacific market's P3A and P6 routes increased by 69% and 49%, reaching $14,636 and $16,182/day, respectively. The premium of P1A over P5TC reached 22%, marking the highest level in the past year. Since the launch of the Baltic Panamax Index basis 82,000 Dwt Kamsarmax in 2018, the average of P1A is 4.4% lower than P5TC.
 
-![Στιγμιότυπο Οθόνης 2025 07 28 153114](assets/2025-07-29_policy-and-perception-drives-divergence-in-panamax-market_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_0791a1904bc8.png)
+![Στιγμιότυπο Οθόνης 2025 07 28 153114](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-07-29_policy-and-perception-drives-divergence-in-panamax-market_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_0791a1904bc8.png)
 
 > **Figure 2: Στιγμιότυπο Οθόνης 2025 07 28 153114**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-07-29_policy-and-perception-drives-divergence-in-panamax-market_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_0791a1904bc8.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-07-29_policy-and-perception-drives-divergence-in-panamax-market_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_0791a1904bc8.png)
 
 This surge reflects the market's response to fundamental shifts driven by the USTR's influence, providing strong support for the rally from both the supply and demand sides. With geopolitical tensions apparently not abating, and uncertainty over US-China trade relationship, the USTR’s proposed policies targeting China’s maritime sector are reshaping the global shipping landscape faster than expected.
 
@@ -44,24 +44,24 @@ According to AXSMarine data on Panamax (68,000-85,000 DWT) trade flows, in 2Q25,
 
 This trend of “self-decoupling” is spreading beyond US-linked routes. In transatlantic trade, where the US is the largest export source (accounting for over 40% of Panamax exports according to AXSMarine), the declining favorability of China-linked vessels among charterers significantly reduces their ability to secure cargoes, resulting in a marked decline in their participation across the transatlantic market.
 
-![Στιγμιότυπο Οθόνης 2025 07 28 153125](assets/2025-07-29_policy-and-perception-drives-divergence-in-panamax-market_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_dafd541dc33c.png)
+![Στιγμιότυπο Οθόνης 2025 07 28 153125](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-07-29_policy-and-perception-drives-divergence-in-panamax-market_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_dafd541dc33c.png)
 
 > **Figure 3: Στιγμιότυπο Οθόνης 2025 07 28 153125**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-07-29_policy-and-perception-drives-divergence-in-panamax-market_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_dafd541dc33c.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-07-29_policy-and-perception-drives-divergence-in-panamax-market_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_dafd541dc33c.png)
 
-![Στιγμιότυπο Οθόνης 2025 07 28 153147](assets/2025-07-29_policy-and-perception-drives-divergence-in-panamax-market_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_d43e6080a50b.png)
+![Στιγμιότυπο Οθόνης 2025 07 28 153147](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-07-29_policy-and-perception-drives-divergence-in-panamax-market_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_d43e6080a50b.png)
 
 > **Figure 4: Στιγμιότυπο Οθόνης 2025 07 28 153147**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-07-29_policy-and-perception-drives-divergence-in-panamax-market_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_d43e6080a50b.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-07-29_policy-and-perception-drives-divergence-in-panamax-market_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_d43e6080a50b.png)
 
 On the demand side, the US exhibits a clear seasonality in its exports, with the fourth quarter being the peak export season due to the grain harvest. Export volumes then decline progressively in the following calendar quarters. In recent months, fresh procurement developments driven by the decoupling of China-US trade has sharply increased US exports to Europe, shifting the demand structure of the transatlantic route.
 
 Although the China-US Geneva Joint Statement removed most tariffs, China’s 15% tariffs on US coal and grain remain (in response to US tariffs on Chinese fentanyl), which has significantly altered global dry bulk trade flows. Against this backdrop, we observe the US actively seeking new export markets—including Europe—to absorb volumes that would otherwise have been purchased by China. According to AXSMarine data, in 1H25, US exports to China plunged from 14.6 mln mt to 8.0 mln mt, while exports to other regions rose across the board: Europe increased by 2.6 mln mt to 8.1 mln mt, while volumes shipped to major ‘Other’ Asian countries (Japan/South Korea/India) rose by 6.3 mln mt to 18.6 million mt, and other countries increased by 4 mln mt to 15.8 mln mt.
 
-![Στιγμιότυπο Οθόνης 2025 07 28 153159](assets/2025-07-29_policy-and-perception-drives-divergence-in-panamax-market_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_91b9050da563.png)
+![Στιγμιότυπο Οθόνης 2025 07 28 153159](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-07-29_policy-and-perception-drives-divergence-in-panamax-market_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_91b9050da563.png)
 
 > **Figure 5: Στιγμιότυπο Οθόνης 2025 07 28 153159**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-07-29_policy-and-perception-drives-divergence-in-panamax-market_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_91b9050da563.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-07-29_policy-and-perception-drives-divergence-in-panamax-market_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_91b9050da563.png)
 
 In summary, amid shifting fundamentals in the shipping market, fleets that were once flexibly deployed are now split into two separate pools by policy expectations, reducing overall transport efficiency. A man-made barrier has formed between China-linked and non-China-linked vessels. For Chinese vessels, they appear to be perceived as no longer suitable for the Atlantic market. Accordingly, they now appear to be increasingly chasing Pacific and China-Brazil/West Africa trades. Meanwhile, non-China-linked vessels have tended to stay in the Atlantic to capitalize on premium rates. This divide prevents vessels from freely flowing based on ‘free hand of the market’.
 

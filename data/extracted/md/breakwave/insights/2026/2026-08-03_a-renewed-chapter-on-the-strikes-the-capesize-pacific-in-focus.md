@@ -26,10 +26,10 @@ August opens with a renewed chapter on the Port Hedland strikes. Using AXS Dry I
 
 *By*[*Maria Bertzeletou*](https://www.linkedin.com/in/maria-bertzeletou-99851a80/)*· Senior Market Analyst*
 
-![Στιγμιότυπο Οθόνης 2026 08 03 153426](assets/2026-08-03_a-renewed-chapter-on-the-strikes-the-capesize-pacific-in-focus_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_3884fd081b19.png)
+![Στιγμιότυπο Οθόνης 2026 08 03 153426](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-08-03_a-renewed-chapter-on-the-strikes-the-capesize-pacific-in-focus_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_3884fd081b19.png)
 
 > **Figure 1: Στιγμιότυπο Οθόνης 2026 08 03 153426**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-08-03_a-renewed-chapter-on-the-strikes-the-capesize-pacific-in-focus_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_3884fd081b19.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-08-03_a-renewed-chapter-on-the-strikes-the-capesize-pacific-in-focus_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_3884fd081b19.png)
 
 THE RENEWED CHAPTER
 
@@ -41,40 +41,40 @@ THE FLOW OF SHIPMENTS
 
 Current export flows do not point to a tightening physical market. Australian seaborne iron ore exports ran at 16.5 Mt in the latest full week and 953.7 Mt year-to-date, 1.3% above the same point last year, while Brazil shipped 9.1 Mt during the week. Among the majors, Rio Tinto has shipped 178.8 Mt year-to-date, BHP 164.9 Mt (close to last year's 168.0 Mt) and Fortescue 113.5 Mt. The volume flow remains intact, with no evidence so far of a material shortfall in iron ore loadings that would, on its own, tighten the Pacific market or lift C5. If anything, last week's data suggested marginally softer Australian export volumes rather than signs of tightening cargo availability.
 
-![Στιγμιότυπο Οθόνης 2026 08 03 154010](assets/2026-08-03_a-renewed-chapter-on-the-strikes-the-capesize-pacific-in-focus_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_95c5536906ae.png)
+![Στιγμιότυπο Οθόνης 2026 08 03 154010](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-08-03_a-renewed-chapter-on-the-strikes-the-capesize-pacific-in-focus_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_95c5536906ae.png)
 
 > **Figure 2: Στιγμιότυπο Οθόνης 2026 08 03 154010**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-08-03_a-renewed-chapter-on-the-strikes-the-capesize-pacific-in-focus_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_95c5536906ae.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-08-03_a-renewed-chapter-on-the-strikes-the-capesize-pacific-in-focus_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_95c5536906ae.png)
 
 THE BALLASTERS MAP: WHERE THE SHIPS ARE
 
 The ballasters map shows the prompt vessel supply around Western Australia. Around 110 Capesize ballasters, representing approximately 20.6 Mt of deadweight, were positioned off the Western Australian coast, with 54 already bound for Port Hedland, a further 16 heading for Port Walcott and 9 for Dampier. These vessels are sailing in ballast towards the loading ports in search of their next cargo, with supply concentrated across the region most exposed to any disruption in loading schedules.
 
-![Στιγμιότυπο Οθόνης 2026 08 03 154020](assets/2026-08-03_a-renewed-chapter-on-the-strikes-the-capesize-pacific-in-focus_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_3b902ff6091d.png)
+![Στιγμιότυπο Οθόνης 2026 08 03 154020](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-08-03_a-renewed-chapter-on-the-strikes-the-capesize-pacific-in-focus_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_3b902ff6091d.png)
 
 > **Figure 3: Στιγμιότυπο Οθόνης 2026 08 03 154020**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-08-03_a-renewed-chapter-on-the-strikes-the-capesize-pacific-in-focus_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_3b902ff6091d.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-08-03_a-renewed-chapter-on-the-strikes-the-capesize-pacific-in-focus_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_3b902ff6091d.png)
 
 The fleet balance suggests that prompt vessel supply remains elevated. As of 31 July, the Pacific Capesize fleet comprised 547 laden vessels and 534 in ballast, leaving 49% of the fleet available for its next voyage—above the level seen at the start of the year. The Atlantic-to-Pacific ballast ratio stood at around 0.38, remaining well below 1.0 and indicating a continued concentration of ballast tonnage in the Pacific. In that context, any temporary interruption to loading schedules would leave more vessels competing for available cargoes rather than reduce vessel availability.
 
-![Στιγμιότυπο Οθόνης 2026 08 03 154150](assets/2026-08-03_a-renewed-chapter-on-the-strikes-the-capesize-pacific-in-focus_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_5f6b5db6f9e2.png)
+![Στιγμιότυπο Οθόνης 2026 08 03 154150](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-08-03_a-renewed-chapter-on-the-strikes-the-capesize-pacific-in-focus_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_5f6b5db6f9e2.png)
 
 > **Figure 4: Στιγμιότυπο Οθόνης 2026 08 03 154150**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-08-03_a-renewed-chapter-on-the-strikes-the-capesize-pacific-in-focus_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_5f6b5db6f9e2.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-08-03_a-renewed-chapter-on-the-strikes-the-capesize-pacific-in-focus_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_5f6b5db6f9e2.png)
 
-![Στιγμιότυπο Οθόνης 2026 08 03 154202](assets/2026-08-03_a-renewed-chapter-on-the-strikes-the-capesize-pacific-in-focus_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_86e2df42a956.png)
+![Στιγμιότυπο Οθόνης 2026 08 03 154202](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-08-03_a-renewed-chapter-on-the-strikes-the-capesize-pacific-in-focus_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_86e2df42a956.png)
 
 > **Figure 5: Στιγμιότυπο Οθόνης 2026 08 03 154202**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-08-03_a-renewed-chapter-on-the-strikes-the-capesize-pacific-in-focus_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_86e2df42a956.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-08-03_a-renewed-chapter-on-the-strikes-the-capesize-pacific-in-focus_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_86e2df42a956.png)
 
 THE SPOT READ: C5 THE WEAKER LEG
 
 C5 (West Australia–Qingdao) is trading well below C3 (Brazil–Qingdao): the spread sat near –$21/mt at the end of July, wider than about –$14/mt a year earlier, with C5 running at roughly 0.37 times C3. With export volumes remaining stable and ballast supply elevated, there is little evidence to support a narrowing of the C5–C3 differential in the near term.
 
-![Στιγμιότυπο Οθόνης 2026 08 03 154309](assets/2026-08-03_a-renewed-chapter-on-the-strikes-the-capesize-pacific-in-focus_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_7ab193ee2029.png)
+![Στιγμιότυπο Οθόνης 2026 08 03 154309](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-08-03_a-renewed-chapter-on-the-strikes-the-capesize-pacific-in-focus_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_7ab193ee2029.png)
 
 > **Figure 6: Στιγμιότυπο Οθόνης 2026 08 03 154309**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-08-03_a-renewed-chapter-on-the-strikes-the-capesize-pacific-in-focus_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_7ab193ee2029.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-08-03_a-renewed-chapter-on-the-strikes-the-capesize-pacific-in-focus_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_7ab193ee2029.png)
 
 WHAT TO WATCH
 

@@ -25,7 +25,7 @@ source_file: "corpus/03-breakwave/insights/2021/2021-03-09_chinese-trade-the-sea
 ![Unsplash Image Kdvafjoqf4m](assets/2021-03-09_chinese-trade-the-seasonality-fails-to-emerge_img_unsplash-image-kdvafjoqf4m_fd895671a043.jpg)
 
 > **Figure 1: Unsplash Image Kdvafjoqf4m**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2021/assets/2021-03-09_chinese-trade-the-seasonality-fails-to-emerge_img_unsplash-image-kdvafjoqf4m_fd895671a043.jpg)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-03-09_chinese-trade-the-seasonality-fails-to-emerge_img_unsplash-image-kdvafjoqf4m_fd895671a043.jpg)
 
 The release of Chinese import and export data for the first two months of the year surprised on the upside, with exports being especially strong. That the year-on-year increases would look impressive was widely expected. The first two months of last year was when much of China’s economy was facing very severe restrictions as the authorities fought the early stages of the pandemic and economic activities took a hit, creating a low base for the comparison. However, China’s international trade remained strong in the early parts of 2021, despite the continued impact of the coronavirus pandemic worldwide, and exports surged by 60 per cent compared to a year ago and surpassed the 38 per cent increase projected by economists. Similarly, imports grew by 22 per cent in January and February beating the consensus forecast of 15 per cent.
 
@@ -35,7 +35,7 @@ The official data for January and February are normally combined to smooth out t
 
 > **Figure 2: Source: The General Administration of Customs of the People’s**  
 > *Source: The General Administration of Customs of the People’s Republic of China*  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2021/assets/2021-03-09_chinese-trade-the-seasonality-fails-to-emerge_img_ulf1a_79dfd05538eb.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-03-09_chinese-trade-the-seasonality-fails-to-emerge_img_ulf1a_79dfd05538eb.png)
 
 The data released on Sunday by the Chinese Customs also showed that the iron ore imports rose in the early parts of the year, increasing by 2.8 per cent compared to the same period last year. The world’s top steelmaking nation imported 181.5 million tonnes of iron ore in January and February, compared with 176.6 million tonnes during the same period a year ago. Unlike the import and export data, the volumes were broadly in line with analysts’ expectations.
 

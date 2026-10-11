@@ -40,10 +40,9 @@ The main driver for tanker trade activity is the incremental quantity of crude b
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: BTC (Bound To China?)](../../../charts/poten/2006/poten_2006-06-09_btc-bound-to-china_chart1.png)
+![Exhibit 2: Fixtures Ex- Ceyhan](../../../charts/poten/2006/poten_2006-06-09_btc-bound-to-china_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2006/poten_2006-06-09_btc-bound-to-china_chart1.png)
-
-![Exhibit 2: BTC (Bound To China?)](../../../charts/poten/2006/poten_2006-06-09_btc-bound-to-china_chart2.png)
-
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2006/poten_2006-06-09_btc-bound-to-china_chart2.png)
+> **Exhibit 2: Fixtures Ex- Ceyhan**  
+> Unit: # of Fixtures · X-axis: 1996 to 2006  
+> Series: Suezmax, VLCC  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2006/poten_2006-06-09_btc-bound-to-china_chart2.png)

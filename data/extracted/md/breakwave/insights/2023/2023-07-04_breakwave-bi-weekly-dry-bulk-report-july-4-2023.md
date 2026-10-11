@@ -19,10 +19,10 @@ source_file: "corpus/03-breakwave/insights/2023/2023-07-04_breakwave-bi-weekly-d
 
 ---
 
-![Dbreporttop](assets/2023-07-04_breakwave-bi-weekly-dry-bulk-report-july-4-2023_img_dbreporttop_b3d06c2b8dd0.png)
+![Dbreporttop](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-07-04_breakwave-bi-weekly-dry-bulk-report-july-4-2023_img_dbreporttop_b3d06c2b8dd0.png)
 
 > **Figure 1: Dbreporttop**  
-> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/publications) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-07-04_breakwave-bi-weekly-dry-bulk-report-july-4-2023_img_dbreporttop_b3d06c2b8dd0.png)
+> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/publications) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-07-04_breakwave-bi-weekly-dry-bulk-report-july-4-2023_img_dbreporttop_b3d06c2b8dd0.png)
 
 **• Dull days usually translate to lower rates as fleet efficiencies prevail**– Despite the fact that trade volumes remain strong when it comes to major bulks, the absence of any disruption across the major shipping lanes has translated to lower spot freight rates across the spectrum. This is anything but surprising given that without a tightness in a major shipping hub, demand for spot ships naturally declines as shippers favor dedicated tonnage. Iron ore volumes from both Brazil and Australia have been high, especially versus last year, but once again, dedicated tonnage and prearranged deals have smoothened out the shipment schedules. As we entered the summer months, activity out of West Africa will gradually wane out due to weather, leaving only Brazil as the dominant exporter in the Atlantic basin. Without competition, we expect relatively stable exporting rates, and thus, a steady freight rate environment in that part of the world. In the Pacific, Capesizes have been quite active as of late, and although demand remains strong for iron ore cargoes to China, once again, we are looking for potential disruptions to cause a tightness in that market before any meaningful turnaround in rates. Furthermore, Sub-Cape rates are now back to pre-Covid run rates, having declined considerably in the last 18 months. Overall, the macro picture will play a major role on how the market develops, but without a change in the pace of trade, the main thing bulls have going for is the very low absolute level of spot rates that could potentially translate to high percentage increases when the time comes.
 
@@ -32,12 +32,12 @@ source_file: "corpus/03-breakwave/insights/2023/2023-07-04_breakwave-bi-weekly-d
 
 [Subscribe: Bi-Weekly Dry Bulk Report](https://www.breakwaveadvisors.com/publications)
 
-![Dbreportchart](assets/2023-07-04_breakwave-bi-weekly-dry-bulk-report-july-4-2023_img_dbreportchart_f0b4c06814cd.png)
+![Dbreportchart](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-07-04_breakwave-bi-weekly-dry-bulk-report-july-4-2023_img_dbreportchart_f0b4c06814cd.png)
 
 > **Figure 2: Dbreportchart**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-07-04_breakwave-bi-weekly-dry-bulk-report-july-4-2023_img_dbreportchart_f0b4c06814cd.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-07-04_breakwave-bi-weekly-dry-bulk-report-july-4-2023_img_dbreportchart_f0b4c06814cd.png)
 
-![Dbreportbottom](assets/2023-07-04_breakwave-bi-weekly-dry-bulk-report-july-4-2023_img_dbreportbottom_2b7b7c471296.png)
+![Dbreportbottom](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-07-04_breakwave-bi-weekly-dry-bulk-report-july-4-2023_img_dbreportbottom_2b7b7c471296.png)
 
 > **Figure 3: Dbreportbottom**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-07-04_breakwave-bi-weekly-dry-bulk-report-july-4-2023_img_dbreportbottom_2b7b7c471296.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-07-04_breakwave-bi-weekly-dry-bulk-report-july-4-2023_img_dbreportbottom_2b7b7c471296.png)

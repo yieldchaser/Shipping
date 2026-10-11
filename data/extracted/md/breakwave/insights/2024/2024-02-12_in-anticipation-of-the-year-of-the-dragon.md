@@ -36,10 +36,10 @@ Specifically for China, consumer prices experienced their most rapid annual decl
 
 HSBC economists underscored another element contributing to the deflationary landscape in the Chinese economy, noting, "The Lunar New Year falls in February this year compared to the end of January last year, causing distortions to the base." In a more favourable macroeconomic backdrop, Baltic indices garnered further reinforcement from this distortion, reporting notably higher values year-on-year thus far. In anticipation of the Year of the Dragon, all segments are looking forward to a year characterized by the dragon's charisma, intelligence, confidence, power, luck, and gifted nature.
 
-![Screenshot 2024 02 11 09.40.54](assets/2024-02-12_in-anticipation-of-the-year-of-the-dragon_img_screenshot2024-02-11094054_0e635f7424b6.png)
+![Screenshot 2024 02 11 09.40.54](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-02-12_in-anticipation-of-the-year-of-the-dragon_img_screenshot2024-02-11094054_0e635f7424b6.png)
 
 > **Figure 1: Screenshot 2024 02 11 09.40.54**  
-> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-02-12_in-anticipation-of-the-year-of-the-dragon_img_screenshot2024-02-11094054_0e635f7424b6.png)
+> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-02-12_in-anticipation-of-the-year-of-the-dragon_img_screenshot2024-02-11094054_0e635f7424b6.png)
 
 Data source:[Doric](https://www.doric.gr/)
 

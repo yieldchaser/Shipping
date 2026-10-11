@@ -30,10 +30,18 @@ In the past, VLCC's were used occasionally for long-haul shipments from the UKC 
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: Sailing Into The Unknown](../../../charts/poten/2019/poten_2019-12-13_sailing-into-the-unknown_chart1.png)
+![Exhibit 1: Dirty Product Trade by Load Area](../../../charts/poten/2019/poten_2019-12-13_sailing-into-the-unknown_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2019/poten_2019-12-13_sailing-into-the-unknown_chart1.png)
+> **Exhibit 1: Dirty Product Trade by Load Area**  
+> Unit: Kb/d · X-axis: Jan-14 to Oct-19  
+> Series: Middle East, Americas, Atlantic, Asia/Australia, UKC/Baltic, Mediterranean, West Africa, Americas, Pacific  
+> *Source: IEA*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2019/poten_2019-12-13_sailing-into-the-unknown_chart1.png)
 
-![Exhibit 2: Sailing Into The Unknown](../../../charts/poten/2019/poten_2019-12-13_sailing-into-the-unknown_chart2.png)
+![Exhibit 2: Dirty Product Ton-Miles (Bln) by Discharge Area (Sep-Nov)](../../../charts/poten/2019/poten_2019-12-13_sailing-into-the-unknown_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2019/poten_2019-12-13_sailing-into-the-unknown_chart2.png)
+> **Exhibit 2: Dirty Product Ton-Miles (Bln) by Discharge Area (Sep-Nov)**  
+> Unit: Bln · X-axis: Asia/Australia to West Africa  
+> Series: 2019, 2018, 2017  
+> *Source: Lloyd's List Intelligence*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2019/poten_2019-12-13_sailing-into-the-unknown_chart2.png)

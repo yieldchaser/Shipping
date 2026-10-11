@@ -20,10 +20,10 @@ source_file: "corpus/03-breakwave/insights/2025/2025-09-07_sanctions-and-tariffs
 
 ---
 
-![Singapore Anchorage](assets/2025-09-07_sanctions-and-tariffs-test-russias-crude-trade_img_singapore-anchorage_738512a8ef27.jpg)
+![Singapore Anchorage](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-09-07_sanctions-and-tariffs-test-russias-crude-trade_img_singapore-anchorage_738512a8ef27.jpg)
 
 > **Figure 1: Singapore Anchorage**  
-> **Interactive Data & Source:** [Gibsons Co](https://www.gibsons.co.uk/market-reports) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-09-07_sanctions-and-tariffs-test-russias-crude-trade_img_singapore-anchorage_738512a8ef27.jpg)
+> **Interactive Data & Source:** [Gibsons Co](https://www.gibsons.co.uk/market-reports) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-09-07_sanctions-and-tariffs-test-russias-crude-trade_img_singapore-anchorage_738512a8ef27.jpg)
 
 Western economies are turning up the heat on Russia, tightening sanctions and raising tariffs in an effort to squeeze its energy revenues. Yet despite mounting pressure, Russian crude exports have so far shown remarkable resilience. The EU’s lower crude price cap came into effect this week, and Washington has doubled tariffs on Indian goods to 50% as part of the efforts to pressure New Delhi over its continued imports of Russian crude. Against this backdrop, Donald Trump’s latest meeting with Vladimir Putin delivered no breakthroughs, while the war itself grinds on with drone attacks and continuing hostilities.
 
@@ -39,10 +39,10 @@ For now, tougher sanctions and tariffs have had only a limited effect on the ove
 
 ### Russia’s Crude Exports to India From Western Terminals (Kbd)
 
-![Στιγμιότυπο Οθόνης 2025 09 08 001435](assets/2025-09-07_sanctions-and-tariffs-test-russias-crude-trade_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_3b5359c6ad0a.png)
+![Στιγμιότυπο Οθόνης 2025 09 08 001435](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-09-07_sanctions-and-tariffs-test-russias-crude-trade_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_3b5359c6ad0a.png)
 
 > **Figure 2: Στιγμιότυπο Οθόνης 2025 09 08 001435**  
-> **Interactive Data & Source:** [Gibsons Co](https://www.gibsons.co.uk/market-reports) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-09-07_sanctions-and-tariffs-test-russias-crude-trade_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_3b5359c6ad0a.png)
+> **Interactive Data & Source:** [Gibsons Co](https://www.gibsons.co.uk/market-reports) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-09-07_sanctions-and-tariffs-test-russias-crude-trade_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_3b5359c6ad0a.png)
 
 Data source:[Gibson Shipbrokers](https://www.gibsons.co.uk/market-reports)
 

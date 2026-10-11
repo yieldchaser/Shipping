@@ -33,10 +33,10 @@ In the grain segment, Chicago wheat futures were at the $9.3 level in late June,
 
 ‘The Big Picture’ - Capesize and Panamax Bulkers and Smaller Ship Sizes
 
-![Market Chart 1](assets/2022-06-29_signal-dry-bulk-weekly-report_img_unnamed282929_f40397616218.png)
+![Market Chart 1](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-06-29_signal-dry-bulk-weekly-report_img_unnamed282929_f40397616218.png)
 
 > **Figure 1: Market Chart 1**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-06-29_signal-dry-bulk-weekly-report_img_unnamed282929_f40397616218.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-06-29_signal-dry-bulk-weekly-report_img_unnamed282929_f40397616218.png)
 
 In the last days of June, the weaker sentiment observed in the previous week was confirmed with a decline in all ship size categories.
 
@@ -49,10 +49,10 @@ In the last days of June, the weaker sentiment observed in the previous week was
 
 ## Number of Vessels -Increasing
 
-![Supply Trend Lines for Key Load Areas](assets/2022-06-29_signal-dry-bulk-weekly-report_img_unnamed283029_d4037cf73a04.png)
+![Supply Trend Lines for Key Load Areas](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-06-29_signal-dry-bulk-weekly-report_img_unnamed283029_d4037cf73a04.png)
 
 > **Figure 2: Supply Trend Lines for Key Load Areas**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-06-29_signal-dry-bulk-weekly-report_img_unnamed283029_d4037cf73a04.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-06-29_signal-dry-bulk-weekly-report_img_unnamed283029_d4037cf73a04.png)
 
 In the Handysize, Supramax, and Panamax segments, the number of ballast tankers has increased significantly. However, Capesize SE Africa has seen a downward trend that has continued since the end of week 23.
 
@@ -65,10 +65,10 @@ In the Handysize, Supramax, and Panamax segments, the number of ballast tankers 
 
 ## Increasing
 
-![Increasing](assets/2022-06-29_signal-dry-bulk-weekly-report_img_unnamed283129_7f35ac09e604.png)
+![Increasing](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-06-29_signal-dry-bulk-weekly-report_img_unnamed283129_7f35ac09e604.png)
 
 > **Figure 3: Increasing**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-06-29_signal-dry-bulk-weekly-report_img_unnamed283129_7f35ac09e604.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-06-29_signal-dry-bulk-weekly-report_img_unnamed283129_7f35ac09e604.png)
 
 June seems to end with a recovery in the Capesize segment, and there are signs of an upswing in Panamax and Handysize.
 
@@ -81,10 +81,10 @@ June seems to end with a recovery in the Capesize segment, and there are signs o
 
 ## Number of Vessels - Increasing
 
-![Dry Bulk Ships Congested at Chinese Ports](assets/2022-06-29_signal-dry-bulk-weekly-report_img_unnamed283229_30e1819d010e.png)
+![Dry Bulk Ships Congested at Chinese Ports](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-06-29_signal-dry-bulk-weekly-report_img_unnamed283229_30e1819d010e.png)
 
 > **Figure 4: Dry Bulk Ships Congested at Chinese Ports**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-06-29_signal-dry-bulk-weekly-report_img_unnamed283229_30e1819d010e.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-06-29_signal-dry-bulk-weekly-report_img_unnamed283229_30e1819d010e.png)
 
 The number of congested vessels emerged with an increasing trend through the end of June, driven by upward movements in the Handysize, Supramax, and Panamax segments.
 

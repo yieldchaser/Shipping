@@ -20,11 +20,11 @@ source_file: "corpus/03-breakwave/insights/2026/2026-06-02_aging-sanctioned-and-
 
 ---
 
-![Byeirini Diamantara&dimitris Roumeliotis](assets/2026-06-02_aging-sanctioned-and-stranded-the-new-structural-reality-in-the-market_img_unsplash-image-cy-hgrtdov0k_18c518ec8e00.jpg)
+![Byeirini Diamantara&dimitris Roumeliotis](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-06-02_aging-sanctioned-and-stranded-the-new-structural-reality-in-the-market_img_unsplash-image-cy-hgrtdov0k_18c518ec8e00.jpg)
 
 > **Figure 1: Byeirini Diamantara&dimitris Roumeliotis**  
 > *ByEirini Diamantara&Dimitris Roumeliotis*  
-> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/in/eirini-diamantara-58b269105/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-06-02_aging-sanctioned-and-stranded-the-new-structural-reality-in-the-market_img_unsplash-image-cy-hgrtdov0k_18c518ec8e00.jpg)
+> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/in/eirini-diamantara-58b269105/) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-06-02_aging-sanctioned-and-stranded-the-new-structural-reality-in-the-market_img_unsplash-image-cy-hgrtdov0k_18c518ec8e00.jpg)
 
 One of the most defining developments in contemporary maritime dynamics is the increasingly distorted relationship between fleet aging, sanctions exposure, and demolition activity. While both the tanker and dry bulk sectors face aging fleet profiles, sanctions are influencing these markets in fundamentally different ways, creating a distinct two-tier structure in global shipping.
 

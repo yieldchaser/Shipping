@@ -58,10 +58,10 @@ However, copper prices may stabilise in the short term after substantial gains i
 
 Still, demand from Chinese buyers remains stable, with volumes broadly in line with the past few months. Also, cargo order volumes for discharge in Chinese ports are higher than during the same month last year. As copper demand is often seen as a bellwether for economic activity, more robust demand for the metal in China could herald a period of improvement for the world’s second-largest economy. Should such a development materialise, it would support Chinese demand for other commodities but could also weigh on Chinese steel exports.
 
-![Στιγμιότυπο Οθόνης 2024 04 26 151642](assets/2024-04-26_concerns-have-been-growing-that-global-supplies-will-be-insufficient-to-cover-fu_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_329b0fd30b85.png)
+![Στιγμιότυπο Οθόνης 2024 04 26 151642](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-04-26_concerns-have-been-growing-that-global-supplies-will-be-insufficient-to-cover-fu_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_329b0fd30b85.png)
 
 > **Figure 1: Στιγμιότυπο Οθόνης 2024 04 26 151642**  
-> **Interactive Data & Source:** [Shipfix](https://shipfix.com/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-04-26_concerns-have-been-growing-that-global-supplies-will-be-insufficient-to-cover-fu_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_329b0fd30b85.png)
+> **Interactive Data & Source:** [Shipfix](https://shipfix.com/) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-04-26_concerns-have-been-growing-that-global-supplies-will-be-insufficient-to-cover-fu_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_329b0fd30b85.png)
 
 Data Source:[Shipfix](https://shipfix.com/)
 

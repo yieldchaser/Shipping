@@ -23,10 +23,10 @@ source_file: "corpus/03-breakwave/insights/2023/2023-10-18_signal-dry-bulk-weekl
 
 ***Capesize tonne days growth from Brazil to China reaches new high, surpassing last year's growth***
 
-![Market Chart 1](assets/2023-10-18_signal-dry-bulk-weekly-report_img_unnamed-2023-10-18t140041980_a7bb9fcffdc3.png)
+![Market Chart 1](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-10-18_signal-dry-bulk-weekly-report_img_unnamed-2023-10-18t140041980_a7bb9fcffdc3.png)
 
 > **Figure 1: Market Chart 1**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-10-18_signal-dry-bulk-weekly-report_img_unnamed-2023-10-18t140041980_a7bb9fcffdc3.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-10-18_signal-dry-bulk-weekly-report_img_unnamed-2023-10-18t140041980_a7bb9fcffdc3.png)
 
 The third week of October witnessed robust Capesize Brazil to China freight rates, as indicated in the chart above. Furthermore, the demand in tonne days exhibited a noteworthy surge in recent days. Nevertheless, the recent uptick in the number of ballasters presents a downward pressure to the latest recovery signs.
 
@@ -42,10 +42,10 @@ Freight Market, Supply, Demand and Port Congestion
 
 Market Rates ($/t) Mixed
 
-![Market Chart 2](assets/2023-10-18_signal-dry-bulk-weekly-report_img_unnamed-2023-10-18t140327944_c70997c2a0c2.png)
+![Market Chart 2](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-10-18_signal-dry-bulk-weekly-report_img_unnamed-2023-10-18t140327944_c70997c2a0c2.png)
 
 > **Figure 2: Market Chart 2**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-10-18_signal-dry-bulk-weekly-report_img_unnamed-2023-10-18t140327944_c70997c2a0c2.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-10-18_signal-dry-bulk-weekly-report_img_unnamed-2023-10-18t140327944_c70997c2a0c2.png)
 
 In terms of the number of ballast vessels, the third week of October saw an upward trend in all ship size segments, with peaks in Supramax and Handysize.
 
@@ -56,10 +56,10 @@ In terms of the number of ballast vessels, the third week of October saw an upwa
 
 ## Section 3/ Demand
 
-![Summary of Dry Bulk Demand, per Ship Sizetonne Days Mixed](assets/2023-10-18_signal-dry-bulk-weekly-report_img_unnamed-2023-10-18t140437166_057b6a0c9d41.png)
+![Summary of Dry Bulk Demand, per Ship Sizetonne Days Mixed](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-10-18_signal-dry-bulk-weekly-report_img_unnamed-2023-10-18t140437166_057b6a0c9d41.png)
 
 > **Figure 3: Summary of Dry Bulk Demand, per Ship Sizetonne Days Mixed**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-10-18_signal-dry-bulk-weekly-report_img_unnamed-2023-10-18t140437166_057b6a0c9d41.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-10-18_signal-dry-bulk-weekly-report_img_unnamed-2023-10-18t140437166_057b6a0c9d41.png)
 
 There are still signs of recovery in the Capesize segment, while the downward trend continues in the other ship size categories.
 
@@ -70,10 +70,10 @@ There are still signs of recovery in the Capesize segment, while the downward tr
 
 ## Section 4/ Port Congestion
 
-![Dry Bulk Ships Congested at Chinese Portsno of Vessels Decreasing](assets/2023-10-18_signal-dry-bulk-weekly-report_img_unnamed-2023-10-18t141543068_fc64463f1b52.png)
+![Dry Bulk Ships Congested at Chinese Portsno of Vessels Decreasing](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-10-18_signal-dry-bulk-weekly-report_img_unnamed-2023-10-18t141543068_fc64463f1b52.png)
 
 > **Figure 4: Dry Bulk Ships Congested at Chinese Portsno of Vessels Decreasing**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-10-18_signal-dry-bulk-weekly-report_img_unnamed-2023-10-18t141543068_fc64463f1b52.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-10-18_signal-dry-bulk-weekly-report_img_unnamed-2023-10-18t141543068_fc64463f1b52.png)
 
 The level of ship congestion decreased in the third week of October, with a downward trend in the Capesize, Panamax and Handysize segments.
 

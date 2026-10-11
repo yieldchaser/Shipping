@@ -31,19 +31,19 @@ In addition to having to second-guess Russia’s intentions, any attempts to res
 
 Despite the difficulties that the Ukrainian exporters are facing, the deal has translated into rising cargo order volumes for agricultural commodities loading in Ukrainian ports. The quantities recorded by Shipfix for the first day of this week are significantly higher than what has been observed for whole weeks in recent months. For obvious reasons, order volumes dropped in the immediate aftermath of the Russian invasion and have not shown any signs of recovery until this week. The forward-looking nature of the data may suggest that shippers are gearing up to start exporting grains rapidly.
 
-![1](assets/2022-07-28_a-recovery-for-the-ukrainian-grains-trade_img_1_5bc3d7d33755.png)
+![1](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-07-28_a-recovery-for-the-ukrainian-grains-trade_img_1_5bc3d7d33755.png)
 
 > **Figure 1: 1**  
-> **Interactive Data & Source:** [Shipfix](https://shipfix.com/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-07-28_a-recovery-for-the-ukrainian-grains-trade_img_1_5bc3d7d33755.png)
+> **Interactive Data & Source:** [Shipfix](https://shipfix.com/) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-07-28_a-recovery-for-the-ukrainian-grains-trade_img_1_5bc3d7d33755.png)
 
 *Source: Shipfix*
 
 Another interesting development is that, despite the rising cargo order volumes, the number of cargoes has decreased. The development suggests that shippers are looking to use larger vessels rather than coasters and barges to move their precious shipments.
 
-![Agri Cargoes Loading Ukraine 0726 Nbr of Cargoes](assets/2022-07-28_a-recovery-for-the-ukrainian-grains-trade_img_agricargoesloadingukraine0726nbrofca_3a703b2036e8.png)
+![Agri Cargoes Loading Ukraine 0726 Nbr of Cargoes](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-07-28_a-recovery-for-the-ukrainian-grains-trade_img_agricargoesloadingukraine0726nbrofca_3a703b2036e8.png)
 
 > **Figure 2: Agri Cargoes Loading Ukraine 0726 Nbr of Cargoes**  
-> **Interactive Data & Source:** [Shipfix](https://shipfix.com/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-07-28_a-recovery-for-the-ukrainian-grains-trade_img_agricargoesloadingukraine0726nbrofca_3a703b2036e8.png)
+> **Interactive Data & Source:** [Shipfix](https://shipfix.com/) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-07-28_a-recovery-for-the-ukrainian-grains-trade_img_agricargoesloadingukraine0726nbrofca_3a703b2036e8.png)
 
 *Source: Shipfix*
 

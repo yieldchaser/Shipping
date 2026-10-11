@@ -24,14 +24,14 @@ Easing fears of supply disruptions pushed energy markets lower. Metals were mixe
 
 *By*[*Daniel Hynes*](https://www.linkedin.com/in/dahynes/)
 
-![Στιγμιότυπο Οθόνης 2025 06 24 131613](assets/2025-06-24_oil-falls-as-tensions-ease-in-middle-east_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_30b6cce1d747.png)
+![Στιγμιότυπο Οθόνης 2025 06 24 131613](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-06-24_oil-falls-as-tensions-ease-in-middle-east_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_30b6cce1d747.png)
 
 > **Figure 1: Στιγμιότυπο Οθόνης 2025 06 24 131613**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-06-24_oil-falls-as-tensions-ease-in-middle-east_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_30b6cce1d747.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-06-24_oil-falls-as-tensions-ease-in-middle-east_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_30b6cce1d747.png)
 
 ### Market Commentary
 
-**Crude oil**prices fell amid easing fears of supply disruptions. Following the US attack on its nuclear facilities, Iran launched missiles at a US base in Qatar. The attack appeared to be measured though, with no casualties reported. The New York Times reported that three Iranian officials said their government had given advance notice that the missile strike was coming. The market had feared that Iran’s retaliatory response would involve attacks on energy infrastructure in the region, including disrupting flows through the Strait of Hormuz. While the situation can change quickly, this initial response indicates it’s reluctant to drag the US into the conflict. It also highlights that the market had already priced in the risk of a significant disruption. Should Iran refrain from escalatory responses, this should keep oil prices elevated but contained. This fits the[**extended conflict scenario**](../pdfs/2025-06-24_oil-falls-as-tensions-ease-in-middle-east_commodity-call-energy-markets-eye-su_b0bb89fabbf8.pdf)we highlighted last week as the most likely. Under this scenario, energy infrastructure in the region is untouched, however, it threatens oil flows through the Strait of Hormuz. Ultimately disruptions remain limited. We would expect prices to trade in USD75-85/bbl.
+**Crude oil**prices fell amid easing fears of supply disruptions. Following the US attack on its nuclear facilities, Iran launched missiles at a US base in Qatar. The attack appeared to be measured though, with no casualties reported. The New York Times reported that three Iranian officials said their government had given advance notice that the missile strike was coming. The market had feared that Iran’s retaliatory response would involve attacks on energy infrastructure in the region, including disrupting flows through the Strait of Hormuz. While the situation can change quickly, this initial response indicates it’s reluctant to drag the US into the conflict. It also highlights that the market had already priced in the risk of a significant disruption. Should Iran refrain from escalatory responses, this should keep oil prices elevated but contained. This fits the[**extended conflict scenario**](https://research.anz.com/file/Commodity_Call_energy_markets_eye_supply_risks.pdf?docRef=8e941dbd-c9ae-4067-a176-59e6b6e6bc2b&ch=2)we highlighted last week as the most likely. Under this scenario, energy infrastructure in the region is untouched, however, it threatens oil flows through the Strait of Hormuz. Ultimately disruptions remain limited. We would expect prices to trade in USD75-85/bbl.
 
 **North Asia LNG**prices surged higher on fears of supply disruptions. Spot prices traded above USD14/MMBtu, their highest level since late February following the US attack on Iran nuclear facilities. This comes amid an outlook for strong demand across the region. Japanese power prices soared 25% w/w as weather forecasts point to higher-than-normal temperatures. Japan has already issued multiple heat alerts, which doesn’t bode well for the remainder of the summer. Strong cooling demand will require additional gas-fired power generation.**European gas**futures followed oil prices lower; However, it pared some of the losses late in the session after Qatar suspend airspace traffic. The country is also one of the biggest LNG exporters and concerns remain that cargoes will still be impacted by the tensions in the region.
 
@@ -45,10 +45,10 @@ Base metals were mixed as the market contemplates the impact of a broader Middle
 
 Japanese LNG imports have been subdued in recent months. However, that may be about to change with higher-than-normal temperatures expected to boost electricity demand. Strong cooling demand will require additional gas-fired power generation.
 
-![Στιγμιότυπο Οθόνης 2025 06 24 131734](assets/2025-06-24_oil-falls-as-tensions-ease-in-middle-east_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_f43df2a1f3b6.png)
+![Στιγμιότυπο Οθόνης 2025 06 24 131734](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-06-24_oil-falls-as-tensions-ease-in-middle-east_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_f43df2a1f3b6.png)
 
 > **Figure 2: Στιγμιότυπο Οθόνης 2025 06 24 131734**  
-> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-06-24_oil-falls-as-tensions-ease-in-middle-east_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_f43df2a1f3b6.png)
+> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-06-24_oil-falls-as-tensions-ease-in-middle-east_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_f43df2a1f3b6.png)
 
 Data source:[Commodities Wrap](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI)
 

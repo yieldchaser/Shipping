@@ -45,10 +45,10 @@ Should the flow of fuel oil along the Russia-to-Asia route continue to increase,
 
 ➔ These operators prefer the longer route via the Cape of Good Hope, rather than transiting via the Suez Canal
 
-![Στιγμιότυπο Οθόνης 2024 11 14 132014](assets/2024-11-14_fuel-oil-tightness-and-weaker-refining-margins-to-support-tonne-miles_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_143accec5803.png)
+![Στιγμιότυπο Οθόνης 2024 11 14 132014](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-11-14_fuel-oil-tightness-and-weaker-refining-margins-to-support-tonne-miles_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_143accec5803.png)
 
 > **Figure 1: Στιγμιότυπο Οθόνης 2024 11 14 132014**  
-> **Interactive Data & Source:** [Vortexa](https://www.vortexa.com//oil-gas-data-traders-analysts-data-scientists?gclid=Cj0KCQjw8_qRBhCXARIsAE2AtRZKOvMnbilZ_6_91d7huSFFy71pWLrnPwGwOHVzXsmsG-1a1mZnQw8aAt89EALw_wcB&hsa_acc=1782073842&hsa_ad=548425387665&hsa_cam=14746637662&hsa_grp=125038601902&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_src=g&hsa_tgt=dsa-1431852288425&hsa_ver=3&utm_campaign=%5BCD%5D%20-%20DSA%20-%20EMEA&utm_medium=cpc&utm_medium=ppc&utm_source=google&utm_source=adwords&utm_term=) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-11-14_fuel-oil-tightness-and-weaker-refining-margins-to-support-tonne-miles_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_143accec5803.png)
+> **Interactive Data & Source:** [Vortexa](https://www.vortexa.com//oil-gas-data-traders-analysts-data-scientists?gclid=Cj0KCQjw8_qRBhCXARIsAE2AtRZKOvMnbilZ_6_91d7huSFFy71pWLrnPwGwOHVzXsmsG-1a1mZnQw8aAt89EALw_wcB&hsa_acc=1782073842&hsa_ad=548425387665&hsa_cam=14746637662&hsa_grp=125038601902&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_src=g&hsa_tgt=dsa-1431852288425&hsa_ver=3&utm_campaign=%5BCD%5D%20-%20DSA%20-%20EMEA&utm_medium=cpc&utm_medium=ppc&utm_source=google&utm_source=adwords&utm_term=) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-11-14_fuel-oil-tightness-and-weaker-refining-margins-to-support-tonne-miles_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_143accec5803.png)
 
 ## Clean – East of Suez: Longer-Haul Vlgc Voyages Supressed, But Situation Could Be Changing
 
@@ -64,10 +64,10 @@ Around 20% of PDH capacity is offline in China. When this returns, we should exp
 
 ➔ With a return in demand from East Asia, increasing LPG exports from the US Gulf may face increased Panama Canal congestion, as LPG carrier transits are not prioritised over other vessel types, which should support freight rates
 
-![Στιγμιότυπο Οθόνης 2024 11 14 133743](assets/2024-11-14_fuel-oil-tightness-and-weaker-refining-margins-to-support-tonne-miles_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_2e8ab626aade.png)
+![Στιγμιότυπο Οθόνης 2024 11 14 133743](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-11-14_fuel-oil-tightness-and-weaker-refining-margins-to-support-tonne-miles_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_2e8ab626aade.png)
 
 > **Figure 2: Στιγμιότυπο Οθόνης 2024 11 14 133743**  
-> **Interactive Data & Source:** [Vortexa](https://www.vortexa.com//oil-gas-data-traders-analysts-data-scientists?gclid=Cj0KCQjw8_qRBhCXARIsAE2AtRZKOvMnbilZ_6_91d7huSFFy71pWLrnPwGwOHVzXsmsG-1a1mZnQw8aAt89EALw_wcB&hsa_acc=1782073842&hsa_ad=548425387665&hsa_cam=14746637662&hsa_grp=125038601902&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_src=g&hsa_tgt=dsa-1431852288425&hsa_ver=3&utm_campaign=%5BCD%5D%20-%20DSA%20-%20EMEA&utm_medium=cpc&utm_medium=ppc&utm_source=google&utm_source=adwords&utm_term=) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-11-14_fuel-oil-tightness-and-weaker-refining-margins-to-support-tonne-miles_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_2e8ab626aade.png)
+> **Interactive Data & Source:** [Vortexa](https://www.vortexa.com//oil-gas-data-traders-analysts-data-scientists?gclid=Cj0KCQjw8_qRBhCXARIsAE2AtRZKOvMnbilZ_6_91d7huSFFy71pWLrnPwGwOHVzXsmsG-1a1mZnQw8aAt89EALw_wcB&hsa_acc=1782073842&hsa_ad=548425387665&hsa_cam=14746637662&hsa_grp=125038601902&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_src=g&hsa_tgt=dsa-1431852288425&hsa_ver=3&utm_campaign=%5BCD%5D%20-%20DSA%20-%20EMEA&utm_medium=cpc&utm_medium=ppc&utm_source=google&utm_source=adwords&utm_term=) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-11-14_fuel-oil-tightness-and-weaker-refining-margins-to-support-tonne-miles_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_2e8ab626aade.png)
 
 ## Dirty – West of Suez: Tmx Raises Supply Competition for Heavy Sour Crudes in the Us Gulf, Presents Opportunity for Aframaxes
 
@@ -85,10 +85,10 @@ Moving forward, this presents an employment opportunity for the Americas Aframax
 
 ➔ Especially when the Olmeca refinery opens, and reduces heavysour Maya crude loadings at Dos Bocas, PADD 3 could increasingly look to Colombia as a supplier
 
-![Στιγμιότυπο Οθόνης 2024 11 14 134056](assets/2024-11-14_fuel-oil-tightness-and-weaker-refining-margins-to-support-tonne-miles_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_1124c745e4b2.png)
+![Στιγμιότυπο Οθόνης 2024 11 14 134056](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-11-14_fuel-oil-tightness-and-weaker-refining-margins-to-support-tonne-miles_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_1124c745e4b2.png)
 
 > **Figure 3: Στιγμιότυπο Οθόνης 2024 11 14 134056**  
-> **Interactive Data & Source:** [Vortexa](https://www.vortexa.com//oil-gas-data-traders-analysts-data-scientists?gclid=Cj0KCQjw8_qRBhCXARIsAE2AtRZKOvMnbilZ_6_91d7huSFFy71pWLrnPwGwOHVzXsmsG-1a1mZnQw8aAt89EALw_wcB&hsa_acc=1782073842&hsa_ad=548425387665&hsa_cam=14746637662&hsa_grp=125038601902&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_src=g&hsa_tgt=dsa-1431852288425&hsa_ver=3&utm_campaign=%5BCD%5D%20-%20DSA%20-%20EMEA&utm_medium=cpc&utm_medium=ppc&utm_source=google&utm_source=adwords&utm_term=) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-11-14_fuel-oil-tightness-and-weaker-refining-margins-to-support-tonne-miles_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_1124c745e4b2.png)
+> **Interactive Data & Source:** [Vortexa](https://www.vortexa.com//oil-gas-data-traders-analysts-data-scientists?gclid=Cj0KCQjw8_qRBhCXARIsAE2AtRZKOvMnbilZ_6_91d7huSFFy71pWLrnPwGwOHVzXsmsG-1a1mZnQw8aAt89EALw_wcB&hsa_acc=1782073842&hsa_ad=548425387665&hsa_cam=14746637662&hsa_grp=125038601902&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_src=g&hsa_tgt=dsa-1431852288425&hsa_ver=3&utm_campaign=%5BCD%5D%20-%20DSA%20-%20EMEA&utm_medium=cpc&utm_medium=ppc&utm_source=google&utm_source=adwords&utm_term=) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-11-14_fuel-oil-tightness-and-weaker-refining-margins-to-support-tonne-miles_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_1124c745e4b2.png)
 
 ## Clean – West of Suez: Lr2s Likely to Win Out in a Changing European Refining Landscape
 
@@ -102,10 +102,10 @@ Higher tonne-mile demand for TA diesel flows has provided some demand support fo
 
 In contrast, middle distillate arrivals from the Wider Arabian Sea (especially since Cape of Good Hope rerouting has become the norm), have translated to an average gain of 18 bn tonne-miles per month in 2024 compared to 2021 As European refinery margins continue to be under pressure, which could lead to further run cuts and shutdowns, inflows of middle distillate from the East will remain elevated
 
-![Στιγμιότυπο Οθόνης 2024 11 14 134512](assets/2024-11-14_fuel-oil-tightness-and-weaker-refining-margins-to-support-tonne-miles_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_fde5b2a48aa2.png)
+![Στιγμιότυπο Οθόνης 2024 11 14 134512](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-11-14_fuel-oil-tightness-and-weaker-refining-margins-to-support-tonne-miles_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_fde5b2a48aa2.png)
 
 > **Figure 4: Στιγμιότυπο Οθόνης 2024 11 14 134512**  
-> **Interactive Data & Source:** [Vortexa](https://www.vortexa.com//oil-gas-data-traders-analysts-data-scientists?gclid=Cj0KCQjw8_qRBhCXARIsAE2AtRZKOvMnbilZ_6_91d7huSFFy71pWLrnPwGwOHVzXsmsG-1a1mZnQw8aAt89EALw_wcB&hsa_acc=1782073842&hsa_ad=548425387665&hsa_cam=14746637662&hsa_grp=125038601902&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_src=g&hsa_tgt=dsa-1431852288425&hsa_ver=3&utm_campaign=%5BCD%5D%20-%20DSA%20-%20EMEA&utm_medium=cpc&utm_medium=ppc&utm_source=google&utm_source=adwords&utm_term=) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-11-14_fuel-oil-tightness-and-weaker-refining-margins-to-support-tonne-miles_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_fde5b2a48aa2.png)
+> **Interactive Data & Source:** [Vortexa](https://www.vortexa.com//oil-gas-data-traders-analysts-data-scientists?gclid=Cj0KCQjw8_qRBhCXARIsAE2AtRZKOvMnbilZ_6_91d7huSFFy71pWLrnPwGwOHVzXsmsG-1a1mZnQw8aAt89EALw_wcB&hsa_acc=1782073842&hsa_ad=548425387665&hsa_cam=14746637662&hsa_grp=125038601902&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_src=g&hsa_tgt=dsa-1431852288425&hsa_ver=3&utm_campaign=%5BCD%5D%20-%20DSA%20-%20EMEA&utm_medium=cpc&utm_medium=ppc&utm_source=google&utm_source=adwords&utm_term=) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-11-14_fuel-oil-tightness-and-weaker-refining-margins-to-support-tonne-miles_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_fde5b2a48aa2.png)
 
 Data Source:[Vortexa](https://www.vortexa.com//oil-gas-data-traders-analysts-data-scientists?gclid=Cj0KCQjw8_qRBhCXARIsAE2AtRZKOvMnbilZ_6_91d7huSFFy71pWLrnPwGwOHVzXsmsG-1a1mZnQw8aAt89EALw_wcB&hsa_acc=1782073842&hsa_ad=548425387665&hsa_cam=14746637662&hsa_grp=125038601902&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_src=g&hsa_tgt=dsa-1431852288425&hsa_ver=3&utm_campaign=%5BCD%5D%20-%20DSA%20-%20EMEA&utm_medium=cpc&utm_medium=ppc&utm_source=google&utm_source=adwords&utm_term=)
 

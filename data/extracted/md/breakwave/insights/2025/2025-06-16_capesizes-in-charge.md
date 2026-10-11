@@ -36,10 +36,10 @@ To further compound matters, geopolitical risk has intensified dramatically late
 
 Yet, amid the broader climate of uncertainty and rising geopolitical and economic risk, the dry bulk spot market has continued to surprise to the upside. Capesizes have led the charge, supported by firm demand and improving cargo volumes, while the smaller segments are beginning to gain traction as well. Seasonality has emerged as a key driver, particularly in the Atlantic basin, where a surge in activity has reinvigorated market sentiment. The Baltic Dry Index closed the week at 1,968 points, marking its highest level in several months and underscoring the strength of the current rally. While macroeconomic headwinds remain formidable, the spot market appears – at least for now – to be charting its own course, propelled by near-term physical fundamentals rather than broader sentiment.
 
-![Στιγμιότυπο Οθόνης 2025 06 16 110410](assets/2025-06-16_capesizes-in-charge_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_fd2dc2ab8e98.png)
+![Στιγμιότυπο Οθόνης 2025 06 16 110410](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-06-16_capesizes-in-charge_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_fd2dc2ab8e98.png)
 
 > **Figure 1: Στιγμιότυπο Οθόνης 2025 06 16 110410**  
-> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-06-16_capesizes-in-charge_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_fd2dc2ab8e98.png)
+> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-06-16_capesizes-in-charge_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_fd2dc2ab8e98.png)
 
 Data source:[Doric](https://www.doric.gr/)
 

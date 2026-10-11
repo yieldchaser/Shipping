@@ -28,10 +28,10 @@ source_file: "corpus/03-breakwave/insights/2025/2025-07-31_tankers-research-upda
 - It is unclear, however, how European governments will influence the oil purchasing decision of Europe’s privately-owned refineries. The bloc can replace what remains of Russia’s oil flows into the bloc (roughly 210k b/d into Hungary and Slovakia) with US crude, but refiners would prefer to take medium sour crude. Replacing those remaining Russian barrels could, in theory, be achieved by diverting around 20% of today’s long-haul US/Asia flows to Europe. Since Russia declared war on Ukraine, the US has stepped in to replace the lion’s share of Russian barrels in Europe, both for crude oil and refined products. In 2024, the EU accounted for 28% of total US oil exports and 39% of its crude exports.
 - Thus far this year, EU-27 imports of US oil are roughly 13% down on 2024 levels. In June this year, the EU imported 1.17m b/d of US crude/condensates, 411k b/d of US clean products (excluding LPG but including chems, lubes and biofuels) and 34k b/d of US dirty refined products. This equates to 13% of the EU’s total crude/condensate imports from outside the bloc, 9.5% of its clean petroleum product imports and 6% of its dirty refined products.
 
-![241](assets/2025-07-31_tankers-research-update_img_241_f832c054cd90.png)
+![241](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-07-31_tankers-research-update_img_241_f832c054cd90.png)
 
 > **Figure 1: 241**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-07-31_tankers-research-update_img_241_f832c054cd90.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-07-31_tankers-research-update_img_241_f832c054cd90.png)
 
 - Since Russia invaded Ukraine, Europe has sharply increased US crude imports, rising by nearly 500k b/d from pre-war, reaching around 1.5m b/d in 2024—roughly 20% of total crude imports, with Northwest Europe as the primary recipient.
 
@@ -56,10 +56,10 @@ source_file: "corpus/03-breakwave/insights/2025/2025-07-31_tankers-research-upda
 - With Chevron seen as a strategic counterweight to growing Chinese influence over Venezuela’s remaining oil exports, the reinstatement may be aimed at reasserting Western commercial presence in a region otherwise dominated by opaque STS operations, shadow tankers, and Chinese trading entities.
 - Still, structural uncertainties remain. PDVSA had previously demanded that Chevron return a cargo of nearly 1 million barrels due to unresolved issues over non-payment.
 
-![242](assets/2025-07-31_tankers-research-update_img_242_47de13579c37.png)
+![242](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-07-31_tankers-research-update_img_242_47de13579c37.png)
 
 > **Figure 2: 242**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-07-31_tankers-research-update_img_242_47de13579c37.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-07-31_tankers-research-update_img_242_47de13579c37.png)
 
 ### Small Shandong Refiners Restart Under New Ownership, Threatening Overcapacity and Margins
 

@@ -34,10 +34,12 @@ Looking at imports by origin, seaborne imports of Middle Eastern crudes have ext
 
 In contrast to India’s state-run refiner Indian Oil (IOC), Chinese state-run refiners have been more conservative in increasing their uptake of Russian crude after the Russia-Ukraine invasion. In fact, Sinopec lifted more US crude in July with a total of five VLCCs (or 320kbd), compared to only one each month in the last two months, at the expense of Russian ESPO Blend cargos, likely signalling a rebalancing of its purchases to its regular suppliers, included those in the Atlantic Basin.
 
-![241](assets/2022-08-23_are-chinas-crude-imports-on-a-path-to-recovery_img_241_8da9fbb0b86d.png)
+China crude imports by origin region (mbd)
+
+![241](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-08-23_are-chinas-crude-imports-on-a-path-to-recovery_img_241_8da9fbb0b86d.png)
 
 > **Figure 1: 241**  
-> **Interactive Data & Source:** [Analytics Vortexa](https://analytics.vortexa.com/?dateRange=2019-01-01T00%3A00%3A00.000Z__2022-08-18T23%3A59%3A59.999Z&filtersEnabled=%5B%22p%22%2C%22o%22%2C%22d%22%2C%22d_r%22%2C%22intra%22%2C%22sts_o%22%2C%22c_o%22%2C%22v%22%5D&metric=bpd&movementEvent=unloading_start&page=Flows&products=%5B%2254af755a090118dcf9b0724c9a4e9f14745c26165385ffa7f1445bc768f06f11%22%5D&sortField=unloading_start&tabId=79e451b4-c797-47b5-940c-9821caee6759&timeSeriesProperty=origin_region&to=%5B%22b5fafce6e20de2dc307fb7e0b89978ee91a49a7b6ec6f5461daf2633f3c56674%22%5D) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-08-23_are-chinas-crude-imports-on-a-path-to-recovery_img_241_8da9fbb0b86d.png)
+> **Interactive Data & Source:** [Analytics Vortexa](https://analytics.vortexa.com/?dateRange=2019-01-01T00%3A00%3A00.000Z__2022-08-18T23%3A59%3A59.999Z&filtersEnabled=%5B%22p%22%2C%22o%22%2C%22d%22%2C%22d_r%22%2C%22intra%22%2C%22sts_o%22%2C%22c_o%22%2C%22v%22%5D&metric=bpd&movementEvent=unloading_start&page=Flows&products=%5B%2254af755a090118dcf9b0724c9a4e9f14745c26165385ffa7f1445bc768f06f11%22%5D&sortField=unloading_start&tabId=79e451b4-c797-47b5-940c-9821caee6759&timeSeriesProperty=origin_region&to=%5B%22b5fafce6e20de2dc307fb7e0b89978ee91a49a7b6ec6f5461daf2633f3c56674%22%5D) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-08-23_are-chinas-crude-imports-on-a-path-to-recovery_img_241_8da9fbb0b86d.png)
 
 ## Refiners Enjoy More Discounted Grade Options
 
@@ -49,17 +51,21 @@ Besides ESPO blend, the teapot refiners also turned to Urals, as the Russian fla
 
 In contrast, Urals exports to Chinese state-run refiners could slow to a halt in August, as China aims to stay politically neutral and state-run companies have been cautious in lifting cargos from Russian Baltics, on the back of EU’s proposal of banning Russian oil by the end of the year.
 
-![242](assets/2022-08-23_are-chinas-crude-imports-on-a-path-to-recovery_img_242_c1a126dc9551.png)
+Chinese imports of Russian crude by refiner and grade (kbd)
+
+![242](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-08-23_are-chinas-crude-imports-on-a-path-to-recovery_img_242_c1a126dc9551.png)
 
 > **Figure 2: 242**  
-> **Interactive Data & Source:** [Analytics Vortexa](https://analytics.vortexa.com/?dateRange=2020-01-01T00%3A00%3A00.000Z__2022-08-16T23%3A59%3A59.999Z&filtersEnabled=%5B%22p%22%2C%22o%22%2C%22d%22%2C%22d_r%22%2C%22intra%22%2C%22sts_o%22%2C%22c_o%22%2C%22v%22%5D&metric=bpd&movementEvent=unloading_start&page=Flows&products=%5B%22c8803c073c2980d9849784c16bcd41d7f7b7561d2c8c1799a16166527b120242%22%2C%2204c4ea46fc6fccfe8388717f399b40e5e348f9a98c451d99e7366caa998191a7%22%5D&sortField=unloading_start&tabId=79e451b4-c797-47b5-940c-9821caee6759&timeSeriesHiddenSeries=%5B%22seasonal_comparison_12%22%2C%22seasonal_comparison_24%22%5D&timeSeriesProperty=destination_trading_sub_region&to=%5B%22934c47f36c16a58d68ef5e007e62a23f5f036ee3f3d1f5f85a48c572b90ad8b2%22%5D) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-08-23_are-chinas-crude-imports-on-a-path-to-recovery_img_242_c1a126dc9551.png)
+> **Interactive Data & Source:** [Analytics Vortexa](https://analytics.vortexa.com/?dateRange=2020-01-01T00%3A00%3A00.000Z__2022-08-16T23%3A59%3A59.999Z&filtersEnabled=%5B%22p%22%2C%22o%22%2C%22d%22%2C%22d_r%22%2C%22intra%22%2C%22sts_o%22%2C%22c_o%22%2C%22v%22%5D&metric=bpd&movementEvent=unloading_start&page=Flows&products=%5B%22c8803c073c2980d9849784c16bcd41d7f7b7561d2c8c1799a16166527b120242%22%2C%2204c4ea46fc6fccfe8388717f399b40e5e348f9a98c451d99e7366caa998191a7%22%5D&sortField=unloading_start&tabId=79e451b4-c797-47b5-940c-9821caee6759&timeSeriesHiddenSeries=%5B%22seasonal_comparison_12%22%2C%22seasonal_comparison_24%22%5D&timeSeriesProperty=destination_trading_sub_region&to=%5B%22934c47f36c16a58d68ef5e007e62a23f5f036ee3f3d1f5f85a48c572b90ad8b2%22%5D) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-08-23_are-chinas-crude-imports-on-a-path-to-recovery_img_242_c1a126dc9551.png)
 
 Traders have also lowered prices of sanctioned barrels stored in commercial storage amidst stiffer competition from Russian crude, which has led to intra-country crude flows into Shandong province picking up to a 2-year high in the month of July. The widening of the Brent M1-M4 time spread to 10$/b in July from around 5$/b in Q2, and generally unprofitable Atlantic Basin/Asia pricing patterns have helped this development as well.
 
-![243](assets/2022-08-23_are-chinas-crude-imports-on-a-path-to-recovery_img_243_a246fea3286a.png)
+China intra-country crude arrivals (mbd, LHS) vs. intra-arrivals in Shandong province (kbd, RHS)
+
+![243](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-08-23_are-chinas-crude-imports-on-a-path-to-recovery_img_243_a246fea3286a.png)
 
 > **Figure 3: 243**  
-> **Interactive Data & Source:** [Analytics Vortexa](https://analytics.vortexa.com/?dateRange=2020-01-01T00%3A00%3A00.000Z__2022-08-16T23%3A59%3A59.999Z&filtersEnabled=%5B%22p%22%2C%22o%22%2C%22d%22%2C%22d_r%22%2C%22v%22%2C%22intra%22%2C%22sts_o%22%2C%22c_o%22%2C%22w%22%5D&from=%5B%22b5fafce6e20de2dc307fb7e0b89978ee91a49a7b6ec6f5461daf2633f3c56674%22%5D&intraMovementFilter=0&metric=bpd&movementEvent=unloading_start&page=Flows&products=%5B%2254af755a090118dcf9b0724c9a4e9f14745c26165385ffa7f1445bc768f06f11%22%2C%22adc86f3bb55b41f2a4430a2d18fc3f7c863fc8add14340f0aa0c4db8cd85e0a9%22%5D&tabId=a973444c-c834-4af9-b649-efe99b8a6877&timeSeriesProperty=product_grade&to=%5B%22b5fafce6e20de2dc307fb7e0b89978ee91a49a7b6ec6f5461daf2633f3c56674%22%5D) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-08-23_are-chinas-crude-imports-on-a-path-to-recovery_img_243_a246fea3286a.png)
+> **Interactive Data & Source:** [Analytics Vortexa](https://analytics.vortexa.com/?dateRange=2020-01-01T00%3A00%3A00.000Z__2022-08-16T23%3A59%3A59.999Z&filtersEnabled=%5B%22p%22%2C%22o%22%2C%22d%22%2C%22d_r%22%2C%22v%22%2C%22intra%22%2C%22sts_o%22%2C%22c_o%22%2C%22w%22%5D&from=%5B%22b5fafce6e20de2dc307fb7e0b89978ee91a49a7b6ec6f5461daf2633f3c56674%22%5D&intraMovementFilter=0&metric=bpd&movementEvent=unloading_start&page=Flows&products=%5B%2254af755a090118dcf9b0724c9a4e9f14745c26165385ffa7f1445bc768f06f11%22%2C%22adc86f3bb55b41f2a4430a2d18fc3f7c863fc8add14340f0aa0c4db8cd85e0a9%22%5D&tabId=a973444c-c834-4af9-b649-efe99b8a6877&timeSeriesProperty=product_grade&to=%5B%22b5fafce6e20de2dc307fb7e0b89978ee91a49a7b6ec6f5461daf2633f3c56674%22%5D) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-08-23_are-chinas-crude-imports-on-a-path-to-recovery_img_243_a246fea3286a.png)
 
 ## State-Run Refiners See More Upside to Increase Runs Than Teapots
 
@@ -71,10 +77,12 @@ Chinese state-run refiners may also boost clean refined products exports for the
 
 Although current shipping data suggests that a long-awaited phenomenal recovery is yet to materialise, VLCC freight rates on all major China-bound routes have picked up strongly into the main trading week of the month, as the additional crude demand, if materialising, will likely be supplied from conventional suppliers from the Middle East and Atlantic Basin.
 
-![244](assets/2022-08-23_are-chinas-crude-imports-on-a-path-to-recovery_img_244_aea5b9fe958e.png)
+VLCC freight rates on major China-bound routes ($/t)
+
+![244](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-08-23_are-chinas-crude-imports-on-a-path-to-recovery_img_244_aea5b9fe958e.png)
 
 > **Figure 4: 244**  
-> **Interactive Data & Source:** [Analytics Vortexa](https://analytics.vortexa.com/?dateRange=last-exact-six-months&page=FreightPricing&preset=TD24&ratesBreakdownProperty=cost&tabId=55b2af8a-973e-464e-a9bd-83466720fa8c) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-08-23_are-chinas-crude-imports-on-a-path-to-recovery_img_244_aea5b9fe958e.png)
+> **Interactive Data & Source:** [Analytics Vortexa](https://analytics.vortexa.com/?dateRange=last-exact-six-months&page=FreightPricing&preset=TD24&ratesBreakdownProperty=cost&tabId=55b2af8a-973e-464e-a9bd-83466720fa8c) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-08-23_are-chinas-crude-imports-on-a-path-to-recovery_img_244_aea5b9fe958e.png)
 
 Data Source:[Vortexa](https://www.vortexa.com//oil-gas-data-traders-analysts-data-scientists?gclid=Cj0KCQjw8_qRBhCXARIsAE2AtRZKOvMnbilZ_6_91d7huSFFy71pWLrnPwGwOHVzXsmsG-1a1mZnQw8aAt89EALw_wcB&hsa_acc=1782073842&hsa_ad=548425387665&hsa_cam=14746637662&hsa_grp=125038601902&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_src=g&hsa_tgt=dsa-1431852288425&hsa_ver=3&utm_campaign=%5BCD%5D%20-%20DSA%20-%20EMEA&utm_medium=cpc&utm_medium=ppc&utm_source=google&utm_source=adwords&utm_term=)
 

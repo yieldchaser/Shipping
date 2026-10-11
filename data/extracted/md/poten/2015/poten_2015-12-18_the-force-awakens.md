@@ -30,10 +30,18 @@ Last but not least, which tanker segments will likely benefit from U.S. crude ex
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: The Force Awakens](../../../charts/poten/2015/poten_2015-12-18_the-force-awakens_chart1.png)
+![Exhibit 1: WTI and Brent Prices & Spread](../../../charts/poten/2015/poten_2015-12-18_the-force-awakens_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2015/poten_2015-12-18_the-force-awakens_chart1.png)
+> **Exhibit 1: WTI and Brent Prices & Spread**  
+> Unit: $/bbl | $/bbl · X-axis: Jan-11 to Oct-15  
+> Series: WTI, Brent, Spread  
+> *Source: Bloomberg*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2015/poten_2015-12-18_the-force-awakens_chart1.png)
 
-![Exhibit 2: The Force Awakens](../../../charts/poten/2015/poten_2015-12-18_the-force-awakens_chart2.png)
+![Exhibit 2: EIA Crude Export Scenarios](../../../charts/poten/2015/poten_2015-12-18_the-force-awakens_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2015/poten_2015-12-18_the-force-awakens_chart2.png)
+> **Exhibit 2: EIA Crude Export Scenarios**  
+> Unit: Mb/d · X-axis: 2012 to 2025  
+> Series: Low Price, High Oil Resource, Low Oil Price / Ref Case, High Oil Resource  
+> *Source: EIA, September 2015*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2015/poten_2015-12-18_the-force-awakens_chart2.png)

@@ -36,8 +36,8 @@ True to form, Washington appears to be in denial of market forces as far as Cana
 
 ![Exhibit 1: Eastbound or Down](../../../charts/poten/2014/poten_2014-06-20_eastbound-or-down_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2014/poten_2014-06-20_eastbound-or-down_chart1.png)
+> **Interactive Asset:** [Local Asset (200 DPI PNG)](../../../charts/poten/2014/poten_2014-06-20_eastbound-or-down_chart1.png)
 
 ![Exhibit 2: Eastbound or Down](../../../charts/poten/2014/poten_2014-06-20_eastbound-or-down_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2014/poten_2014-06-20_eastbound-or-down_chart2.png)
+> **Interactive Asset:** [Local Asset (200 DPI PNG)](../../../charts/poten/2014/poten_2014-06-20_eastbound-or-down_chart2.png)

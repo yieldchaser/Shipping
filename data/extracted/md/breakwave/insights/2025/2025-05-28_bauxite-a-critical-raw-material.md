@@ -26,10 +26,10 @@ Guinea's military government recent decision to revoke 51 mining licenses, for b
 
 Over the past three decades, seaborne bauxite trade has expanded significantly. The CAGR stood at a modest 2.5% from 1996 to 2005, accelerating to 6.9% between 2006 and 2015, and further surging to 9.6% from 2016 through 2025. A primary catalyst for this robust growth has been China's escalating reliance on bauxite to fuel its rapidly expanding aluminum output. Initially, this demand supported China's burgeoning construction and infrastructure sectors. The expansion of China's middle class has also bolstered demand across aluminum-intensive sectors such as packaging, transportation, and consumer durables. More recently, the global transition towards a low-carbon economy has arisen as another critical driver, with aluminum playing a central role in markets like electric vehicles, solar panel frames, and energyefficient buildings, thereby amplifying bauxite demand.
 
-![Στιγμιότυπο Οθόνης 2025 05 28 091125](assets/2025-05-28_bauxite-a-critical-raw-material_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_bc07dc495e9f.png)
+![Στιγμιότυπο Οθόνης 2025 05 28 091125](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-05-28_bauxite-a-critical-raw-material_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_bc07dc495e9f.png)
 
 > **Figure 1: Στιγμιότυπο Οθόνης 2025 05 28 091125**  
-> **Interactive Data & Source:** [Intermodal](https://www.intermodal.gr/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-05-28_bauxite-a-critical-raw-material_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_bc07dc495e9f.png)
+> **Interactive Data & Source:** [Intermodal](https://www.intermodal.gr/) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-05-28_bauxite-a-critical-raw-material_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_bc07dc495e9f.png)
 
 Contrary to the prevailing trends in dry bulk trade, bauxite is poised to be the strongest-performing minor bulk commodity in 2025. While major bulks face headwinds and other minor bulks anticipate only marginal growth, bauxite trade stands out as a notable exception, adding to tonnage demand for bulkers within an otherwise uneven dry bulk landscape, which has been influenced by weakened Chinese dry bulk demand due to declining local manufacturing activity and projected slower GDP growth.
 

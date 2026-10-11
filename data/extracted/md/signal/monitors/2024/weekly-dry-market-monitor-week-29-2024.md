@@ -37,7 +37,7 @@ tags:
 ![6698d56b7e00e332c6c3d904 Chart of the Week Dry (4)](../../images/6698d56b7e00e332c6c3d904_chart of the week dry (4).avif)
 
 > **Figure 1: 6698d56b7e00e332c6c3d904 Chart of the Week Dry (4)**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-dry-market-monitor-week-29-2024) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6698d56b7e00e332c6c3d904_chart of the week dry (4).avif)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-dry-market-monitor-week-29-2024) | [Local Asset](../../../../../../corpus/07-signal/images/6698d56b7e00e332c6c3d904_chart%20of%20the%20week%20dry%20(4).avif)
 
 The third week of July concluded with a notable decline in the Capesize Brazil to North China rates, signaling a shift towards weaker market conditions exacerbated by an increasing number of ballast vessels in the SE Africa region. This rise in ballast vessels suggests a potential oversupply scenario looming ahead. Concurrently, the growth in demand tonne days indicates a subdued weekly percentage increase, indicating a cautious outlook for July, particularly in the larger vessel size segments.
 

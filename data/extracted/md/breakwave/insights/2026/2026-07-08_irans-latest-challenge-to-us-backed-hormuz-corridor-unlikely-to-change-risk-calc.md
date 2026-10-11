@@ -32,11 +32,11 @@ These attacks are not materially changing VLCC owners’ risk assessments. Our b
 
 Mideast Gulf to China VLCC was assessed at $317k/day today, up $20k/day on yesterday. TD3C paper ticked up, with Balmo up $17k/day and Aug 2026 up $28k/day. The remaining contracts for 2026 also firmed.
 
-![Source: Baltic Exchange](assets/2026-07-08_irans-latest-challenge-to-us-backed-hormuz-corridor-unlikely-to-change-risk-calc_img_c6f4-image-0-1783447774287_b5ec58aabf8f.png)
+![Source: Baltic Exchange](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-07-08_irans-latest-challenge-to-us-backed-hormuz-corridor-unlikely-to-change-risk-calc_img_c6f4-image-0-1783447774287_b5ec58aabf8f.png)
 
 > **Figure 1: Source: Baltic Exchange**  
 > *Source: Baltic Exchange*  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-07-08_irans-latest-challenge-to-us-backed-hormuz-corridor-unlikely-to-change-risk-calc_img_c6f4-image-0-1783447774287_b5ec58aabf8f.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-07-08_irans-latest-challenge-to-us-backed-hormuz-corridor-unlikely-to-change-risk-calc_img_c6f4-image-0-1783447774287_b5ec58aabf8f.png)
 
 ### State of Play Before the Recent Attacks
 
@@ -56,10 +56,10 @@ A few key players were behind most of the recovery in crude liftings inside the 
 
 Ships operating in the Mideast Gulf could soon be joined by others. According to the predicted destinations produced by Vortexa, the number of empty VLCCs heading towards the Middle East Gulf has risen steeply since the start of June, from 60 to over 90 ships today, on top of the 24 empty VLCCs already in the Gulf. Around 70 of the tankers on their way to the Gulf are not controlled by Sinokor or a Mideast national oil company. However, these ships may be more likely to stay outside the Gulf near Fujairah and pick up shuttle cargoes given last night’s attacks.
 
-![E253 Image 1 1783447774289](assets/2026-07-08_irans-latest-challenge-to-us-backed-hormuz-corridor-unlikely-to-change-risk-calc_img_e253-image-1-1783447774289_6544d50d0a79.png)
+![E253 Image 1 1783447774289](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-07-08_irans-latest-challenge-to-us-backed-hormuz-corridor-unlikely-to-change-risk-calc_img_e253-image-1-1783447774289_6544d50d0a79.png)
 
 > **Figure 2: E253 Image 1 1783447774289**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-07-08_irans-latest-challenge-to-us-backed-hormuz-corridor-unlikely-to-change-risk-calc_img_e253-image-1-1783447774289_6544d50d0a79.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-07-08_irans-latest-challenge-to-us-backed-hormuz-corridor-unlikely-to-change-risk-calc_img_e253-image-1-1783447774289_6544d50d0a79.png)
 
 *Source: Vortexa*
 

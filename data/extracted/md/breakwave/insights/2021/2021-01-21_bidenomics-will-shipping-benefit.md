@@ -22,7 +22,7 @@ source_file: "corpus/03-breakwave/insights/2021/2021-01-21_bidenomics-will-shipp
 ![By Ulf Bergman](assets/2021-01-21_bidenomics-will-shipping-benefit_img_image-asset_24ca9c380554.jpeg)
 
 > **Figure 1: By Ulf Bergman**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2021/assets/2021-01-21_bidenomics-will-shipping-benefit_img_image-asset_24ca9c380554.jpeg)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-01-21_bidenomics-will-shipping-benefit_img_image-asset_24ca9c380554.jpeg)
 
 The eyes of the world turned towards Washington DC, as Joe Biden was sworn in as the 46th President of the United States of America. The new administration is not lacking challenges with the coronavirus still rampant across the nation and unemployment well above pre-pandemic levels. The vaccination programme is also still in its infancy, but the new administration is setting ambitious goals for the coming months.
 
@@ -37,13 +37,13 @@ Depending on the extent of the new infrastructure investments, the ramped-up dem
 ![Market Chart 2](assets/2021-01-21_bidenomics-will-shipping-benefit_img_image-asset_d37e847872ea.png)
 
 > **Figure 2: Market Chart 2**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2021/assets/2021-01-21_bidenomics-will-shipping-benefit_img_image-asset_d37e847872ea.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-01-21_bidenomics-will-shipping-benefit_img_image-asset_d37e847872ea.png)
 
 Another striking aspect of the inauguration speech was how the new president sees the country’s place in the world. The customary American approach of working with its allies and international organisations, promoting global trade among other things, has returned and is likely to benefit the shipping industry. The growing protectionism that the world has seen for the last few years is not beneficial for shipping in the longer-term, with less goods moving around the world. However, with the world’s largest economy now back in a more traditional role, the process of increasing protectionism may not disappear but retreat to some extent.
 
 ![China Us](assets/2021-01-21_bidenomics-will-shipping-benefit_img_chinaus_43a996c352d2.jpeg)
 
 > **Figure 3: China Us**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2021/assets/2021-01-21_bidenomics-will-shipping-benefit_img_chinaus_43a996c352d2.jpeg)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-01-21_bidenomics-will-shipping-benefit_img_chinaus_43a996c352d2.jpeg)
 
 How the Trans-Pacific relationship between the US and China will evolve with a new occupant in the White House remains to be seen. The new administration is likely to retain some of the grievances, such as trade imbalance and intellectual properties, and the future of the “phase one” agreement from last year may also be another problem. According to data compiled by Bloomberg, China only purchased 58 percent of the pledged 172 billion dollars, with energy purchases especially weak at a meagre 39 percent. The pandemic may be a valid cause for the failure to live up to the deal, which was widely welcomed by the shipping world. A return to some form of normality, both politically and economically, could perhaps see a greater degree of compliance with the trade deal.

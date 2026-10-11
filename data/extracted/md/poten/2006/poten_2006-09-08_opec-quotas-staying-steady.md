@@ -60,10 +60,10 @@ OPEC currently contributes 30% of the 85.5 million barrels supplied per day. Reg
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: OPEC Quotas: Staying Steady](../../../charts/poten/2006/poten_2006-09-08_opec-quotas-staying-steady_chart1.png)
+![Exhibit 2: OPEC 10 Crude Production vs OPEC Quota](../../../charts/poten/2006/poten_2006-09-08_opec-quotas-staying-steady_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2006/poten_2006-09-08_opec-quotas-staying-steady_chart1.png)
-
-![Exhibit 2: OPEC Quotas: Staying Steady](../../../charts/poten/2006/poten_2006-09-08_opec-quotas-staying-steady_chart2.png)
-
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2006/poten_2006-09-08_opec-quotas-staying-steady_chart2.png)
+> **Exhibit 2: OPEC 10 Crude Production vs OPEC Quota**  
+> Unit: (Bbl/day) · X-axis: Jul-05 to Jul-06  
+> Series: OPEC 10 Crude Production, OPEC Quota  
+> *Source: EIA/Poten*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2006/poten_2006-09-08_opec-quotas-staying-steady_chart2.png)

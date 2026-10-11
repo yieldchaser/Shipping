@@ -30,24 +30,24 @@ The availability of new and public money serves to compound the mounting orderbo
 
 ![Exhibit 1: Shipbuilding's Slippery Slope](../../../charts/poten/2014/poten_2014-05-09_shipbuildings-slippery-slope_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2014/poten_2014-05-09_shipbuildings-slippery-slope_chart1.png)
+> **Interactive Asset:** [Local Asset (200 DPI PNG)](../../../charts/poten/2014/poten_2014-05-09_shipbuildings-slippery-slope_chart1.png)
 
 ![Exhibit 2: Shipbuilding's Slippery Slope](../../../charts/poten/2014/poten_2014-05-09_shipbuildings-slippery-slope_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2014/poten_2014-05-09_shipbuildings-slippery-slope_chart2.png)
+> **Interactive Asset:** [Local Asset (200 DPI PNG)](../../../charts/poten/2014/poten_2014-05-09_shipbuildings-slippery-slope_chart2.png)
 
 ![Exhibit 3: Shipbuilding's Slippery Slope](../../../charts/poten/2014/poten_2014-05-09_shipbuildings-slippery-slope_chart3.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2014/poten_2014-05-09_shipbuildings-slippery-slope_chart3.png)
+> **Interactive Asset:** [Local Asset (200 DPI PNG)](../../../charts/poten/2014/poten_2014-05-09_shipbuildings-slippery-slope_chart3.png)
 
 ![Exhibit 4: Shipbuilding's Slippery Slope](../../../charts/poten/2014/poten_2014-05-09_shipbuildings-slippery-slope_chart4.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2014/poten_2014-05-09_shipbuildings-slippery-slope_chart4.png)
+> **Interactive Asset:** [Local Asset (200 DPI PNG)](../../../charts/poten/2014/poten_2014-05-09_shipbuildings-slippery-slope_chart4.png)
 
 ![Exhibit 5: Shipbuilding's Slippery Slope](../../../charts/poten/2014/poten_2014-05-09_shipbuildings-slippery-slope_chart5.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2014/poten_2014-05-09_shipbuildings-slippery-slope_chart5.png)
+> **Interactive Asset:** [Local Asset (200 DPI PNG)](../../../charts/poten/2014/poten_2014-05-09_shipbuildings-slippery-slope_chart5.png)
 
 ![Exhibit 6: Shipbuilding's Slippery Slope](../../../charts/poten/2014/poten_2014-05-09_shipbuildings-slippery-slope_chart6.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2014/poten_2014-05-09_shipbuildings-slippery-slope_chart6.png)
+> **Interactive Asset:** [Local Asset (200 DPI PNG)](../../../charts/poten/2014/poten_2014-05-09_shipbuildings-slippery-slope_chart6.png)

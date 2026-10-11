@@ -20,11 +20,11 @@ source_file: "corpus/03-breakwave/insights/2026/2026-07-28_saudi-arabias-energy-
 
 ---
 
-![Byeirini Diamantara&dimitris Roumeliotis](assets/2026-07-28_saudi-arabias-energy-pivot-faces-a-new-threat_img_unsplash-image-ilhclr4ckc_3c3eb293c5fe.jpg)
+![Byeirini Diamantara&dimitris Roumeliotis](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-07-28_saudi-arabias-energy-pivot-faces-a-new-threat_img_unsplash-image-ilhclr4ckc_3c3eb293c5fe.jpg)
 
 > **Figure 1: Byeirini Diamantara&dimitris Roumeliotis**  
 > *ByEirini Diamantara&Dimitris Roumeliotis*  
-> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/in/eirini-diamantara-58b269105/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-07-28_saudi-arabias-energy-pivot-faces-a-new-threat_img_unsplash-image-ilhclr4ckc_3c3eb293c5fe.jpg)
+> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/in/eirini-diamantara-58b269105/) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-07-28_saudi-arabias-energy-pivot-faces-a-new-threat_img_unsplash-image-ilhclr4ckc_3c3eb293c5fe.jpg)
 
 The latest escalation in the Red Sea highlights how quickly geopolitical risk can reshape global energy trade and shipping patterns. Over the past two years, much of the market's attention has focused on the Strait of Hormuz as the world's most critical oil chokepoint. However, Saudi Arabia's strategic response has gradually reduced its dependence on that corridor by dramatically increasing crude exports through its Red Sea terminal at Yanbu. What was once considered an alternative export outlet has rapidly evolved into a cornerstone of Saudi Arabia's energy export strategy, making the security of the Red Sea more critical than ever for global oil markets.
 

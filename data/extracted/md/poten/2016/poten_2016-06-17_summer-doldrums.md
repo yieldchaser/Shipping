@@ -30,10 +30,18 @@ Counter to what one might expect, the increase in gasoline demand during the U.S
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: Summer Doldrums](../../../charts/poten/2016/poten_2016-06-17_summer-doldrums_chart1.png)
+![Exhibit 1: Weekly VLCC Rates (Arabian Gulf - Japan)](../../../charts/poten/2016/poten_2016-06-17_summer-doldrums_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2016/poten_2016-06-17_summer-doldrums_chart1.png)
+> **Exhibit 1: Weekly VLCC Rates (Arabian Gulf - Japan)**  
+> Unit: $/Day · X-axis: 1 to 51  
+> Series: 2011, 2012, 2013, 2014, 2015, 2016  
+> *Source: Poten*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2016/poten_2016-06-17_summer-doldrums_chart1.png)
 
-![Exhibit 2: Summer Doldrums](../../../charts/poten/2016/poten_2016-06-17_summer-doldrums_chart2.png)
+![Exhibit 2: Weekly U.S. Gasoline Sales](../../../charts/poten/2016/poten_2016-06-17_summer-doldrums_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2016/poten_2016-06-17_summer-doldrums_chart2.png)
+> **Exhibit 2: Weekly U.S. Gasoline Sales**  
+> Unit: Kb/d · X-axis: 1 to 53  
+> Series: 2011, 2012, 2013, 2014, 2015, 2016  
+> *Source: EIA*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2016/poten_2016-06-17_summer-doldrums_chart2.png)

@@ -23,10 +23,10 @@ source_file: "corpus/03-breakwave/insights/2023/2023-08-30_gold-gains-amid-specu
 
 A weak macro-economic backdrop weighed on sentiment. This was offset by hopes that central banks may be done raising rates and ongoing supply side issues.
 
-![1693354212629](assets/2023-08-30_gold-gains-amid-speculation-the-fed-may-pause_img_1693354212629_f36de95e3282.png)
+![1693354212629](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-08-30_gold-gains-amid-speculation-the-fed-may-pause_img_1693354212629_f36de95e3282.png)
 
 > **Figure 1: 1693354212629**  
-> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-08-30_gold-gains-amid-speculation-the-fed-may-pause_img_1693354212629_f36de95e3282.png)
+> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-08-30_gold-gains-amid-speculation-the-fed-may-pause_img_1693354212629_f36de95e3282.png)
 
 **Gold**rallied amid speculation the Federal Reserve may pause its interest rate hikes. US job openings fell more than expected in July, while a separate report showed a bigger-than-expected decline in consumer confidence. This saw bond yields fall and the USD weaken as the market lowered its bets on a hike in rates at the September meeting.
 

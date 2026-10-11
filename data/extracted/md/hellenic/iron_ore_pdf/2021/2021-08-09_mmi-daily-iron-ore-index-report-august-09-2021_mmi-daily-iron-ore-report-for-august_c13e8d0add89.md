@@ -171,6 +171,8 @@ CE iron ore futures main contract dropped by 4.43%, and quotations in the physic
 | **Port Stock** | **0.01% Phosphorus** | Low Fe Grade 0.09\<P<0.1% | 22.00 | RMB/wet tonne | +3.00 |
 
 ## Historical Iron Ore Index Comparisons (USD/DMT)
+> **Approximate.** The report prints no numbers for this chart. Values were read visually from the chart image by the parser and are rough estimates.
+
 | Date | IOSI62 (USD/DMT) | IOPi62 CFR Eq (USD/DMT) | IOSI65 (USD/DMT) | IOPi65 CFR Eq (USD/DMT) |
 | :--- | :--- | :--- | :--- | :--- |
 | 2-Sep-20 | 122.00 | 120.00 | 126.00 | 124.00 |
@@ -203,6 +205,8 @@ CE iron ore futures main contract dropped by 4.43%, and quotations in the physic
 | **SGX** | **Sep. 21** | USD/DMT | 160.85 | -7.00 | -4.17% | 2.86 | 208.76 | 158.05 | 168.80 |
 
 ## Dry Bulk Freight Rates Historical Line Data (USD/MT)
+> **Approximate.** The report prints no numbers for this chart. Values were read visually from the chart image by the parser and are rough estimates.
+
 | Date | C5 W. Australia - Qingdao (USD/MT) | C3 Tubarao - Qingdao (USD/MT) |
 | :--- | :--- | :--- |
 | 31-Jul-20 | 8.00 | 18.00 |
@@ -220,6 +224,8 @@ CE iron ore futures main contract dropped by 4.43%, and quotations in the physic
 | 31-Jul-21 | 15.00 | 30.00 |
 
 ## Total China Iron Ore Import Volumes (Million Tonnes)
+> **Approximate.** The report prints no numbers for this chart. Values were read visually from the chart image by the parser and are rough estimates.
+
 | Month / Period | Import Volume (Million Tonnes) |
 | :--- | :--- |
 | Jul-20 | 112.00 |

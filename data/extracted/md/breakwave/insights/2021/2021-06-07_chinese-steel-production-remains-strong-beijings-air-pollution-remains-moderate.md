@@ -29,14 +29,14 @@ Regarding steel production, the most recently released data shows daily crude st
 ![Jeff 1 6.7](assets/2021-06-07_chinese-steel-production-remains-strong-beijings-air-pollution-remains-moderate_img_jeff167_f902c6d49c9f.jpg)
 
 > **Figure 1: Jeff 1 6.7**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2021/assets/2021-06-07_chinese-steel-production-remains-strong-beijings-air-pollution-remains-moderate_img_jeff167_f902c6d49c9f.jpg)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-06-07_chinese-steel-production-remains-strong-beijings-air-pollution-remains-moderate_img_jeff167_f902c6d49c9f.jpg)
 
 Regarding air pollution, air pollution levels in Beijing were moderate again last week. As we discussed in this week's Weekly China Report, average PM 2.5 levels in Beijing reached a high of only 125 last week. A reading of 200 or higher is considered "unhealthy", but fortunately Beijing's air pollution has mostly remained below that level in recent weeks.
 
 ![Jeff 2 6.7](assets/2021-06-07_chinese-steel-production-remains-strong-beijings-air-pollution-remains-moderate_img_jeff267_e48ffd8e6057.jpg)
 
 > **Figure 2: Jeff 2 6.7**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2021/assets/2021-06-07_chinese-steel-production-remains-strong-beijings-air-pollution-remains-moderate_img_jeff267_e48ffd8e6057.jpg)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-06-07_chinese-steel-production-remains-strong-beijings-air-pollution-remains-moderate_img_jeff267_e48ffd8e6057.jpg)
 
 ---
 

@@ -33,11 +33,11 @@ SVB and Signature, two arguably big players in the US regional banking space, ar
 
 Since SVB’s collapse, roughly $120bn in cash has been pulled from the American regional banking system. About half of that money went to bigger systemic banks and the other half to money market funds which experienced the[biggest month](https://www.ft.com/content/032523bc-3b92-4b94-b6b8-ebbe1d606b2c)of inflows since the Covid-19 crisis.[Fractional reserve banking](https://www.investopedia.com/terms/f/fractionalreservebanking.asp), the system by which a bank keeps only a fraction of deposits available for withdrawal, makes banking a Trust business. If trust is eroded, no bank can stand.
 
-![This Time Around](assets/2023-03-28_mazars-comment-a-war-on-two-fronts_img_image00428529_91ff457ff715.jpg)
+![This Time Around](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-03-28_mazars-comment-a-war-on-two-fronts_img_image00428529_91ff457ff715.jpg)
 
 > **Figure 1: This Time Around**  
 > *This time around, instead of treating inflation as transitory, they chose to treat financial instability as such.Central banks across the board used the same page from the playbook:“The financial system is strong, and we have the (non-interest rate) tools to fight instability if it needs to be”.*  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-03-28_mazars-comment-a-war-on-two-fronts_img_image00428529_91ff457ff715.jpg)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-03-28_mazars-comment-a-war-on-two-fronts_img_image00428529_91ff457ff715.jpg)
 
 Yet, despite the noise of banks breaking, central bankers have opted once again to flag their inflation-fighting credentials.
 
@@ -45,11 +45,11 @@ Yet, despite the noise of banks breaking, central bankers have opted once again 
 
 When all is said and done, however, we have entered (in the US) the area of 5% interest rates. This is the area where most financial accidents happen. From 1994 to 2000, when the Fed consistently kept rates in that range, no less than four major accidents occurred: The Mexican Bond Crisis, The Asian Crisis, the Long Term Capital Management Crisis and finally the Dot.Com Bubble.
 
-![But Most Importantly](assets/2023-03-28_mazars-comment-a-war-on-two-fronts_img_image00528729_e5130148f8a4.jpg)
+![But Most Importantly](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-03-28_mazars-comment-a-war-on-two-fronts_img_image00528729_e5130148f8a4.jpg)
 
 > **Figure 2: But Most Importantly**  
 > *But most importantly, it would be detrimental towards their ability to influence markets. The ‘secret’ of central bankers, is that their biggest weapon issignalling. If theysignalmany future rate hikes, they might as well do less. Market forces, which always act in an anticipatory way, will do the much of tightening for them. If they signal more cheap money on the way, investors can relax and invest, flushing the markets with cash themselves.*  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-03-28_mazars-comment-a-war-on-two-fronts_img_image00528729_e5130148f8a4.jpg)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-03-28_mazars-comment-a-war-on-two-fronts_img_image00528729_e5130148f8a4.jpg)
 
 **A “War on Two Fronts”, with a primary focus on inflation, seems like a big risk.**
 
@@ -59,10 +59,10 @@ Many investors believe that central banks could have reversed course and paused 
 
 Could central banks have paused for a couple of months, and hike later if necessary? Yes. But markets would have probably taken the pause as a preamble to rate cuts (which they are already pricing in), and hiking could have been even more difficult.
 
-![Market Chart 3](assets/2023-03-28_mazars-comment-a-war-on-two-fronts_img_image006281029_d0f89ec6544e.jpg)
+![Market Chart 3](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-03-28_mazars-comment-a-war-on-two-fronts_img_image006281029_d0f89ec6544e.jpg)
 
 > **Figure 3: Market Chart 3**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-03-28_mazars-comment-a-war-on-two-fronts_img_image006281029_d0f89ec6544e.jpg)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-03-28_mazars-comment-a-war-on-two-fronts_img_image006281029_d0f89ec6544e.jpg)
 
 Pundits may easily cry “policy error”, and could even claim they are right if the next thing breaks. Right and wrong is a game of publicity, however. Real policymakers with great responsibility in their hands, increasingly find themselves with few, if any, good options.
 

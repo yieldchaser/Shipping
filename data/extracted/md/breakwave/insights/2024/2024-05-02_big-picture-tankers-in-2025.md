@@ -28,17 +28,17 @@ From the perspective of oil demand growth vs. tanker supply growth, we concede t
 
 The evolving relationship between oil production and oil demand could fuel that strength by adding to sailing distance. Oil demand is expected to grow fastest in Asia Pacific (up 4.7% over the next two years according to the IEA) whereas supply growth will be focused on far flung wells in the US, Guyana, Brazil and Canada. At some point China will need to re-build its crude oil stocks from today’s depleted levels, boosting seaborne trade. And geopolitics, that has introduced so many inefficiencies into today’s tanker trades, could get more complicated (and certainly less predictable) if Trump regains the Oval office. A return to pre-pandemic trade patterns would produce a very different set of TCE returns - notably because seaborne exports are still below their pre-pandemic levels. But this is unlikely, in our view.
 
-![Market Chart 1](assets/2024-05-02_big-picture-tankers-in-2025_img_image001_28ea8bae36ce.jpg)
+![Market Chart 1](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-05-02_big-picture-tankers-in-2025_img_image001_28ea8bae36ce.jpg)
 
 > **Figure 1: Market Chart 1**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-05-02_big-picture-tankers-in-2025_img_image001_28ea8bae36ce.jpg)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-05-02_big-picture-tankers-in-2025_img_image001_28ea8bae36ce.jpg)
 
 To top it all, this year’s bearish themes are looking a little less bearish. The Dos Bocas refinery in Mexico and Dangote’s in Nigeria were expected to cut exports of crude oil in both regions, and imports of refined products. Instead, Dangote is now tying up VLCCs and Suezmaxes on lengthy demurrage, and Dos Bocas looks set to lengthen US supply chains when it eventually starts. Tighter sanctions on Iran’s ageing shadow fleet could open the door for Saudi Arabia to release more oil into the international spot fleet.
 
-![Market Chart 2](assets/2024-05-02_big-picture-tankers-in-2025_img_image1_aaa147b2dc17.png)
+![Market Chart 2](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-05-02_big-picture-tankers-in-2025_img_image1_aaa147b2dc17.png)
 
 > **Figure 2: Market Chart 2**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-05-02_big-picture-tankers-in-2025_img_image1_aaa147b2dc17.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-05-02_big-picture-tankers-in-2025_img_image1_aaa147b2dc17.png)
 
 ### Enter the Mega-Bulls
 
@@ -60,10 +60,10 @@ While perhaps within the grasp of an eco–scrubber VLCC, an average TCE across 
 
 For one, average speed has room to increase. EEXI may have cut the maximum speed achievable by some (mostly older) tankers, but there remains plenty of room for manoeuvre. The VLCC fleet averaged (laden and ballast) 12.8kts during the super-spikes end 2019/early 2020. Speeds during the strong market in Q1 this year averaged 12.1kts. Tanker speeds today are just 20% off the bottom of their 2016-2024 range. Speeding up is therefore likely to keep spikes short. A longer-term acceleration to say, 12.5kts, could theoretically grow VLCC capacity by 4% - equivalent to about 35 additional vessels
 
-![Στιγμιότυπο Οθόνης 2024 05 02 103159](assets/2024-05-02_big-picture-tankers-in-2025_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_3a3c6aa29ed6.png)
+![Στιγμιότυπο Οθόνης 2024 05 02 103159](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-05-02_big-picture-tankers-in-2025_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_3a3c6aa29ed6.png)
 
 > **Figure 3: Στιγμιότυπο Οθόνης 2024 05 02 103159**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-05-02_big-picture-tankers-in-2025_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_3a3c6aa29ed6.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-05-02_big-picture-tankers-in-2025_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_3a3c6aa29ed6.png)
 
 When rate spikes present themselves, charterers also still have plenty of levers to pull. First, they will hide cargoes, as demonstrated once again by Chinese VLCC fixtures in the Mid East this week. Then they will delay cargoes. Then they will loosen self-imposed age-restrictions to increase the pool of acceptable ships.
 
@@ -71,10 +71,10 @@ The mega-bulls would argue that charterer age-restrictions have already relaxed 
 
 On average, non-stationary earnings days (i.e. excluding floating storage employment) for 15-19 year old VLCCs have risen by a third since 2021, from 89 days to 119 days today (derived from voyage tracking tools, which are imperfect). An under-15 year old VLCC is on track to average 159 non-stationary earnings days so far this year. Bringing the 15-20 year old fleet utilisation up to the modern average could effectively add another 36 VLCCs to the fleet.
 
-![Market Chart 4](assets/2024-05-02_big-picture-tankers-in-2025_img_image3_dc8939209f1a.png)
+![Market Chart 4](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-05-02_big-picture-tankers-in-2025_img_image3_dc8939209f1a.png)
 
 > **Figure 4: Market Chart 4**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-05-02_big-picture-tankers-in-2025_img_image3_dc8939209f1a.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-05-02_big-picture-tankers-in-2025_img_image3_dc8939209f1a.png)
 
 ### Retirement Delayed
 
@@ -82,10 +82,10 @@ There is also the possibility that mainstream charterers could, under certain ci
 
 The tanker market is no stranger to fixing ships over 19 years old. In the late 1990s almost half the tanker fleet was 20 or above. The single-hull phaseout removed most of them during the 2000s and the fleet remained almost exclusively under 20 for the following two decades. When sanctioned oil exporters like Iran, Venezuela and Russia opened a range of niche ‘shadow’ trades, the over-20 fleet began to grow once again after 2020.
 
-![Στιγμιότυπο Οθόνης 2024 05 02 103600](assets/2024-05-02_big-picture-tankers-in-2025_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_b277e15ef37b.png)
+![Στιγμιότυπο Οθόνης 2024 05 02 103600](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-05-02_big-picture-tankers-in-2025_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_b277e15ef37b.png)
 
 > **Figure 5: Στιγμιότυπο Οθόνης 2024 05 02 103600**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-05-02_big-picture-tankers-in-2025_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_b277e15ef37b.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-05-02_big-picture-tankers-in-2025_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_b277e15ef37b.png)
 
 It is reasonable to assume that few of these older tankers will head for the beaches over the next two years. Indeed, Russia-trading tankers are finding willing non-sanctioned trading buyers on the second-hand market. As such, a full 18% of the world tanker capacity is likely to be over 19 years old in 2025.
 
@@ -97,15 +97,15 @@ Finally, there is the trade itself that could shift in response to red hot freig
 
 Red Sea diversions have added tonne miles, but they have also shown that, for crude oil at least, some long-haul trades simply don’t need to work. Mid East to Atlantic basin crude flows fell in line with Mid East OPEC output cuts after 2022. But the decline accelerated when Houthi rebel attacks raised the cost of Westbound shipments. Since last December westbound crude flows have fallen by a third year-on-year, from 1.76m b/d to 1.16m b/d. Flows within the Atlantic basin made up for the loss, up nearly 6% over the same period.
 
-![Market Chart 6](assets/2024-05-02_big-picture-tankers-in-2025_img_image5_4dfad0050b34.png)
+![Market Chart 6](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-05-02_big-picture-tankers-in-2025_img_image5_4dfad0050b34.png)
 
 > **Figure 6: Market Chart 6**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-05-02_big-picture-tankers-in-2025_img_image5_4dfad0050b34.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-05-02_big-picture-tankers-in-2025_img_image5_4dfad0050b34.png)
 
-![Market Chart 7](assets/2024-05-02_big-picture-tankers-in-2025_img_image6_a81478c5873e.png)
+![Market Chart 7](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-05-02_big-picture-tankers-in-2025_img_image6_a81478c5873e.png)
 
 > **Figure 7: Market Chart 7**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-05-02_big-picture-tankers-in-2025_img_image6_a81478c5873e.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-05-02_big-picture-tankers-in-2025_img_image6_a81478c5873e.png)
 
 ### Buffers Intact
 

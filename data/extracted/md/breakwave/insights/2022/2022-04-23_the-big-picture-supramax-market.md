@@ -29,10 +29,10 @@ The Supramaxes now receive a premium over all other sectors as several trades fo
 
 The Baltic Supramax 58 average today settled at $29,105/day, marking a 24.6% increase YoY, but a 9.5% decline MoM following a broad decline in dry bulk rates from the end of March. Total liftings on Supramaxes in March totalled 98m tonnes, declining by 4.4% YoY, although the highest level since June 2021. However, while trade has not performed particularly strongly, bulk carrier demand from Supramaxes increased by 6.4% YoY.
 
-![Screenshot 20220422 113225 Word](assets/2022-04-23_the-big-picture-supramax-market_img_screenshot-20220422-113225-word_a2f8e2854de5.jpg)
+![Screenshot 20220422 113225 Word](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-04-23_the-big-picture-supramax-market_img_screenshot-20220422-113225-word_a2f8e2854de5.jpg)
 
 > **Figure 1: Screenshot 20220422 113225 Word**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-04-23_the-big-picture-supramax-market_img_screenshot-20220422-113225-word_a2f8e2854de5.jpg)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-04-23_the-big-picture-supramax-market_img_screenshot-20220422-113225-word_a2f8e2854de5.jpg)
 
 Driving employment in the east has been the resurgence in Indonesian coal trade. Supramaxes lifted 13.8m tonnes of coal in Indonesia in March, rising by 13.0% YoY and the highest since December 2020. Of these volumes, Indian imports increased by 19.0% to 3.1m tonnes, while shipments discharged in Bangladesh more than doubled YoY to 1.3m tonnes. Chinese imports of Indonesian coal on Supras declined by 22.5% YoY to 4.9m tonnes. The changes in trade flows above resulted in a net loss of 174k tonnes of coal. As a result, the longer voyages to both WC India and Bangladesh compared to China (bss Qingdao) have provided support to rates in this region.
 
@@ -42,10 +42,10 @@ Demand for Supramaxes from aggregates, which primarily consists of building mate
 
 In March, dry bulk shipments imported into Europe on Supramaxes totalled 7.3m tonnes, increasing by 13.8% YoY. Average voyage lengths on Supramax voyages into Europe, increased by over 6 days in March YoY, in part due to a speed reduction owing to high bunker prices. As a result demand, measured in dwt days, increased by 30.9% YoY in March.
 
-![Screenshot 20220422 113249 Word](assets/2022-04-23_the-big-picture-supramax-market_img_screenshot-20220422-113249-word_d27fc96d231e.jpg)
+![Screenshot 20220422 113249 Word](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-04-23_the-big-picture-supramax-market_img_screenshot-20220422-113249-word_d27fc96d231e.jpg)
 
 > **Figure 2: Screenshot 20220422 113249 Word**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-04-23_the-big-picture-supramax-market_img_screenshot-20220422-113249-word_d27fc96d231e.jpg)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-04-23_the-big-picture-supramax-market_img_screenshot-20220422-113249-word_d27fc96d231e.jpg)
 
 Imports of aggregates increased to 776k tonnes, doubling YoY and the highest level on record. Although these voyages are not considerably demand-intensive, the extra shipments have been effective in keeping vessels employed in the Continent/Mediterranean. Of these volumes, 62.3% loaded in Norway and the remaining 37.7% from Turkey.
 
@@ -61,10 +61,10 @@ Supramax demand generated from petroleum coke, otherwise known as petcoke, hit n
 
 In terms of destination, this has been more of a mixed bag. The largest increase has been shipments into India, totalling 639k tonnes, more than doubling YoY, loaded largely in Saudi Arabia and the US. While petcoke typically provides a discount to coal, demand has driven prices to near-similar levels in 2022 as buyers look for alternative fuel sources. As a result, we expect these shipments to continue strongly on the basis primary energy sources, namely coal, remain in short supply.
 
-![Screenshot 20220422 113314 Word](assets/2022-04-23_the-big-picture-supramax-market_img_screenshot-20220422-113314-word_d55f1bbfff6a.jpg)
+![Screenshot 20220422 113314 Word](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-04-23_the-big-picture-supramax-market_img_screenshot-20220422-113314-word_d55f1bbfff6a.jpg)
 
 > **Figure 3: Screenshot 20220422 113314 Word**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-04-23_the-big-picture-supramax-market_img_screenshot-20220422-113314-word_d55f1bbfff6a.jpg)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-04-23_the-big-picture-supramax-market_img_screenshot-20220422-113314-word_d55f1bbfff6a.jpg)
 
 ### India Congestion
 

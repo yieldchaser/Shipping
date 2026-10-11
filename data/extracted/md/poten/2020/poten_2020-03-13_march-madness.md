@@ -28,10 +28,18 @@ Where the VLCC market will go from here depends on several factors: how long wil
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: March Madness](../../../charts/poten/2020/poten_2020-03-13_march-madness_chart1.png)
+![Exhibit 1: VLCC Freight Rates : Middle East - Far East](../../../charts/poten/2020/poten_2020-03-13_march-madness_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2020/poten_2020-03-13_march-madness_chart1.png)
+> **Exhibit 1: VLCC Freight Rates : Middle East - Far East**  
+> Unit: US$/day · X-axis: 1 to 51  
+> Series: 2020, 2019, 2018, 2017  
+> *Source: Poten & Partners*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2020/poten_2020-03-13_march-madness_chart1.png)
 
-![Exhibit 2: March Madness](../../../charts/poten/2020/poten_2020-03-13_march-madness_chart2.png)
+![Exhibit 2: Weekly Reported VLCC Spot Fixtures by Destination](../../../charts/poten/2020/poten_2020-03-13_march-madness_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2020/poten_2020-03-13_march-madness_chart2.png)
+> **Exhibit 2: Weekly Reported VLCC Spot Fixtures by Destination**  
+> Unit: Spot Fixtures · X-axis: 2018W1 to 2020W11  
+> Series: Asia, Americas, Europe, Other  
+> *Source: Poten & Partners*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2020/poten_2020-03-13_march-madness_chart2.png)

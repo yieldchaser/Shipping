@@ -34,10 +34,18 @@ Over the last year, deliveries of newbuilding tonnage have slowed and the tanker
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: The Bottom of the Barrel?](../../../charts/poten/2014/poten_2014-12-05_the-bottom-of-the-barrel_chart1.png)
+![Exhibit 1: Fig. 1 VLCC Rates vs Oil Prices](../../../charts/poten/2014/poten_2014-12-05_the-bottom-of-the-barrel_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2014/poten_2014-12-05_the-bottom-of-the-barrel_chart1.png)
+> **Exhibit 1: Fig. 1 VLCC Rates vs Oil Prices**  
+> Unit: TCE in US$ | Brent in US$ · X-axis: 2001 to 2014  
+> Series: VLCC 270,000: Ras Tanura - Chiba, Brent Price  
+> *Source: Bloomberg, Poten*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2014/poten_2014-12-05_the-bottom-of-the-barrel_chart1.png)
 
-![Exhibit 2: The Bottom of the Barrel?](../../../charts/poten/2014/poten_2014-12-05_the-bottom-of-the-barrel_chart2.png)
+![Exhibit 2: Fig. 2 VLCC Rates vs Middle East OPEC Production](../../../charts/poten/2014/poten_2014-12-05_the-bottom-of-the-barrel_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2014/poten_2014-12-05_the-bottom-of-the-barrel_chart2.png)
+> **Exhibit 2: Fig. 2 VLCC Rates vs Middle East OPEC Production**  
+> Unit: TCE in US$ | ME OPEC Prod in 1,000 b/d · X-axis: 2000 to 2014  
+> Series: Middle East OPEC Prod., VLCC Rates  
+> *Source: Poten, IEA*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2014/poten_2014-12-05_the-bottom-of-the-barrel_chart2.png)

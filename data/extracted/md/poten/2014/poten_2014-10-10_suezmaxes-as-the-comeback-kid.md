@@ -42,8 +42,12 @@ Newbuilding prices have not moved nearly as much as secondhand prices over the s
 
 ![Exhibit 1: Suezmaxes as the Comeback Kid?](../../../charts/poten/2014/poten_2014-10-10_suezmaxes-as-the-comeback-kid_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2014/poten_2014-10-10_suezmaxes-as-the-comeback-kid_chart1.png)
+> **Interactive Asset:** [Local Asset (200 DPI PNG)](../../../charts/poten/2014/poten_2014-10-10_suezmaxes-as-the-comeback-kid_chart1.png)
 
-![Exhibit 2: Suezmaxes as the Comeback Kid?](../../../charts/poten/2014/poten_2014-10-10_suezmaxes-as-the-comeback-kid_chart2.png)
+![Exhibit 2: Newbuilding and Secondhand Prices (2008-2014)](../../../charts/poten/2014/poten_2014-10-10_suezmaxes-as-the-comeback-kid_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2014/poten_2014-10-10_suezmaxes-as-the-comeback-kid_chart2.png)
+> **Exhibit 2: Newbuilding and Secondhand Prices (2008-2014)**  
+> Unit: Price Mn $ | SH/NB % · X-axis: Jan-08 to Jul-14  
+> Series: NB Contract, SH 5 year, 5yr/NB ->, 5-yr Old Price as % of NB Price  
+> *Source: Poten*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2014/poten_2014-10-10_suezmaxes-as-the-comeback-kid_chart2.png)

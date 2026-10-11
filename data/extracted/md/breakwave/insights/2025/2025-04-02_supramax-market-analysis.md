@@ -24,10 +24,10 @@ source_file: "corpus/03-breakwave/insights/2025/2025-04-02_supramax-market-analy
 Snapshot of Spot Freight Rates, Supply-Demand Trends, Port Congestions
 April 02, 2025
 
-![Στιγμιότυπο Οθόνης 2025 04 02 150735](assets/2025-04-02_supramax-market-analysis_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_963a79d1fa82.png)
+![Στιγμιότυπο Οθόνης 2025 04 02 150735](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-04-02_supramax-market-analysis_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_963a79d1fa82.png)
 
 > **Figure 1: Στιγμιότυπο Οθόνης 2025 04 02 150735**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-04-02_supramax-market-analysis_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_963a79d1fa82.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-04-02_supramax-market-analysis_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_963a79d1fa82.png)
 
 ### Supramax Market Analysis: S8 Route Surges Amidst Tightening Tonnage Supply
 
@@ -56,10 +56,10 @@ However, market participants should remain alert to the possibility of rapid cor
 
 In summary, the recent surge in the S8 rate underscores the sensitivity of the Supramax market to shifts in regional supply-demand dynamics. With both the S8 and S11TC indices pointing higher, the current rally appears well-grounded — but sustained strength will ultimately depend on whether supply remains tight or begins to normalise.
 
-![Στιγμιότυπο Οθόνης 2025 04 02 150849](assets/2025-04-02_supramax-market-analysis_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_c7073ceb1d4c.png)
+![Στιγμιότυπο Οθόνης 2025 04 02 150849](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-04-02_supramax-market-analysis_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_c7073ceb1d4c.png)
 
 > **Figure 2: Στιγμιότυπο Οθόνης 2025 04 02 150849**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-04-02_supramax-market-analysis_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_c7073ceb1d4c.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-04-02_supramax-market-analysis_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_c7073ceb1d4c.png)
 
 ​​​​The freight market sentiment for large vessels was boosted at the end of March due to a combination of fewer ballasters and increased tonne-day demand growth.
 
@@ -68,10 +68,10 @@ In summary, the recent surge in the S8 rate underscores the sensitivity of the S
 - **Supramax**vessel freight rates on the Indo-ECI route experienced a 9% increase month-over-month, nearing $10 per tonne.
 - **Handysize**freight rates for the NOPAC Far East route have been over $30 per tonne since the end of February, and saw a 5% increase over the last month.
 
-![Στιγμιότυπο Οθόνης 2025 04 02 150958](assets/2025-04-02_supramax-market-analysis_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_5332436ce856.png)
+![Στιγμιότυπο Οθόνης 2025 04 02 150958](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-04-02_supramax-market-analysis_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_5332436ce856.png)
 
 > **Figure 3: Στιγμιότυπο Οθόνης 2025 04 02 150958**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-04-02_supramax-market-analysis_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_5332436ce856.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-04-02_supramax-market-analysis_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_5332436ce856.png)
 
 The latest indicators from the ballaster perspective continue to reflect a mixed outlook, with notable downward revisions in the Capesize and Panamax segments in Southeast Africa, as well as the Supramax market in Southeast Asia. In contrast, the Handysize sector in the NOPAC region still shows increasing vessel activity."
 
@@ -80,10 +80,10 @@ The latest indicators from the ballaster perspective continue to reflect a mixed
 - **Supramax SE Asia**: Current trends strongly suggest a downward trajectory in the upcoming days, potentially nearing the annual average of 100.
 - **Handysize NOPAC**: The Handy NOPAC segment's levels have increased to 95, continuing an upward trend that began at the end of week 11.
 
-![Στιγμιότυπο Οθόνης 2025 04 02 151048](assets/2025-04-02_supramax-market-analysis_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_20a4cbcff9d3.png)
+![Στιγμιότυπο Οθόνης 2025 04 02 151048](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-04-02_supramax-market-analysis_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_20a4cbcff9d3.png)
 
 > **Figure 4: Στιγμιότυπο Οθόνης 2025 04 02 151048**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-04-02_supramax-market-analysis_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_20a4cbcff9d3.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-04-02_supramax-market-analysis_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_20a4cbcff9d3.png)
 
 The end of March marked a significant recovery in the Panamax and Capesize vessel segments, while smaller vessel categories appear to be experiencing stagnant momentum.
 
@@ -92,10 +92,10 @@ The end of March marked a significant recovery in the Panamax and Capesize vesse
 - **Supramax**: The growth rate maintained a steady momentum, with no significant spikes observed. Week 8 appeared to align with current levels.
 - **Handysize**: Its growth rate remained consistent with the previous two weeks, showing a gradual increase starting at the end of week 2.
 
-![Στιγμιότυπο Οθόνης 2025 04 02 151201](assets/2025-04-02_supramax-market-analysis_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_99db7e3c6b01.png)
+![Στιγμιότυπο Οθόνης 2025 04 02 151201](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-04-02_supramax-market-analysis_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_99db7e3c6b01.png)
 
 > **Figure 5: Στιγμιότυπο Οθόνης 2025 04 02 151201**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-04-02_supramax-market-analysis_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_99db7e3c6b01.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-04-02_supramax-market-analysis_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_99db7e3c6b01.png)
 
 Congestion at Chinese dry bulk ports showed a downward trend at the end of March, with significant declines seen across all vessel size segments.
 

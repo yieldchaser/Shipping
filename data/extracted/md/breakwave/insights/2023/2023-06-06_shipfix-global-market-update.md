@@ -61,9 +61,9 @@ While European coal imports remain on a downward trend, Indian imports of the co
 
 Average cargo sizes for shipments from Australia and Indonesia to India have seen a mean reversion during the past month amid marginal declines. In contrast, the average for imports from South Africa has remained on the upward trajectory that began during the early parts of the year.
 
-![Market Chart 1](assets/2023-06-06_shipfix-global-market-update_img_unnamed-2023-06-06t124835780_ea932f0b5d0f.png)
+![Market Chart 1](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-06-06_shipfix-global-market-update_img_unnamed-2023-06-06t124835780_ea932f0b5d0f.png)
 
 > **Figure 1: Market Chart 1**  
-> **Interactive Data & Source:** [Shipfix](https://shipfix.com/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-06-06_shipfix-global-market-update_img_unnamed-2023-06-06t124835780_ea932f0b5d0f.png)
+> **Interactive Data & Source:** [Shipfix](https://shipfix.com/) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-06-06_shipfix-global-market-update_img_unnamed-2023-06-06t124835780_ea932f0b5d0f.png)
 
 Data Source:[Shipfix](https://shipfix.com/)

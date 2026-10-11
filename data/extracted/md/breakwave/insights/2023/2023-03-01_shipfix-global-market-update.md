@@ -51,10 +51,10 @@ While crude oil prices advanced yesterday, bunker prices experienced a mixed day
 
 Following the European ban on imports of Russian coal, the miners have been forced to find alternative markets for their output. The loss of the closest market has seen Russian coal loading in the Baltic Sea travelling longer distances to reach the new export markets. In the past ten months, the Asian markets have become increasingly important for the coal shipped from the ports in the Baltic. While much of the growth for the Asian trade is for the long voyage to China and the Far East, India and the Middle East have also grown in importance since the middle of last year. For the long journey to China and the Far East, larger vessels are also increasingly popular, compared to the historical norm for all voyages.
 
-![Αρχείο Λήψης (3)](assets/2023-03-01_shipfix-global-market-update_img_ceb1cf81cf87ceb5ceafcebfcebbceaecf88_022375c33eac.png)
+![Αρχείο Λήψης (3)](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-03-01_shipfix-global-market-update_img_ceb1cf81cf87ceb5ceafcebfcebbceaecf88_022375c33eac.png)
 
 > **Figure 1: Αρχείο Λήψης (3)**  
-> **Interactive Data & Source:** [Shipfix](https://shipfix.com/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-03-01_shipfix-global-market-update_img_ceb1cf81cf87ceb5ceafcebfcebbceaecf88_022375c33eac.png)
+> **Interactive Data & Source:** [Shipfix](https://shipfix.com/) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-03-01_shipfix-global-market-update_img_ceb1cf81cf87ceb5ceafcebfcebbceaecf88_022375c33eac.png)
 
 A thaw in diplomatic relations between China and Australia and an increasing focus on economic growth in the world’s second-largest economy has resulted in an easing of the previous restrictions on imports of Australian coal.
 

@@ -108,6 +108,20 @@ Since the weather will remain a factor throughout the winter, crude oil demand w
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: Suezmax Rates Surging](../../../charts/poten/2005/poten_2005-12-02_suezmax-rates-surging_chart1.png)
+> **Chart on PDF page 1: The Surge in Suezmax TCE Earnings**  
+> Unit: $/Day · X-axis: 05-Aug to 25-Nov  
+> Series: North Sea, Med, Average, W. Africa, Far East  
+> *Source: Poten & Partners*  
+> *No image crop of this chart was saved; caption read from the PDF.*
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2005/poten_2005-12-02_suezmax-rates-surging_chart1.png)
+> **Chart on PDF page 3: Shipping Cost & Suezmax Earnings**  
+> Unit: $/Day | $/Bbl · X-axis: 07/02/2004 to 11/04/2005  
+> Series: $/Bbl, $/Day  
+> *Source: Poten & Partners*  
+> *No image crop of this chart was saved; caption read from the PDF.*
+
+> **Chart on PDF page 3: Crude Price & Shipping Cost as % of Crude Price**  
+> Unit: $/Bbl | % · X-axis: 07/02/2004 to 11/04/2005  
+> Series: % of Crude, Crude Oil Price  
+> *Source: Poten & Partners*  
+> *No image crop of this chart was saved; caption read from the PDF.*

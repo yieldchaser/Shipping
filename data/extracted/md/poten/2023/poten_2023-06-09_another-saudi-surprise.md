@@ -32,10 +32,17 @@ As we approach the end of refinery maintenance, Chinese demand is expected to ma
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: Another Saudi Surprise](../../../charts/poten/2023/poten_2023-06-09_another-saudi-surprise_chart1.png)
+![Exhibit 1: EIA: OPEC+ Russia Crude Oil Production](../../../charts/poten/2023/poten_2023-06-09_another-saudi-surprise_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2023/poten_2023-06-09_another-saudi-surprise_chart1.png)
+> **Exhibit 1: EIA: OPEC+ Russia Crude Oil Production**  
+> Unit: Mb/d · X-axis: Jan-19 to Oct-24  
+> Series: Saudi Arabia, UAE, Kuwait, Iran, Iraq, Nigeria, Angola, Congo, Eq. Guinea, Gabon, Libya, Algeria, Venezuela, Opec Total, Russia  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2023/poten_2023-06-09_another-saudi-surprise_chart1.png)
 
-![Exhibit 2: Another Saudi Surprise](../../../charts/poten/2023/poten_2023-06-09_another-saudi-surprise_chart2.png)
+![Exhibit 2: Brent Crude Price Vs VLCC Rates](../../../charts/poten/2023/poten_2023-06-09_another-saudi-surprise_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2023/poten_2023-06-09_another-saudi-surprise_chart2.png)
+> **Exhibit 2: Brent Crude Price Vs VLCC Rates**  
+> Unit: $/bbl | TCE · X-axis: 2-Jan-23 to 5-Jun-23  
+> Series: Brent Price, VLCC TCE: AG-FE  
+> *Source: Lloyd’s List Intelligence; Poten & Partners*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2023/poten_2023-06-09_another-saudi-surprise_chart2.png)

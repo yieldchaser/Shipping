@@ -30,8 +30,8 @@ While the oil industry is suffering from this "good sweating", the tanker market
 
 ![Exhibit 1: The Haves And The Have Nots 3](../../../charts/poten/2016/poten_2016-02-12_the-haves-and-the-have-nots-3_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2016/poten_2016-02-12_the-haves-and-the-have-nots-3_chart1.png)
+> **Interactive Asset:** [Local Asset (200 DPI PNG)](../../../charts/poten/2016/poten_2016-02-12_the-haves-and-the-have-nots-3_chart1.png)
 
 ![Exhibit 2: The Haves And The Have Nots 3](../../../charts/poten/2016/poten_2016-02-12_the-haves-and-the-have-nots-3_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2016/poten_2016-02-12_the-haves-and-the-have-nots-3_chart2.png)
+> **Interactive Asset:** [Local Asset (200 DPI PNG)](../../../charts/poten/2016/poten_2016-02-12_the-haves-and-the-have-nots-3_chart2.png)

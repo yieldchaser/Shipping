@@ -28,10 +28,18 @@ Murmurs of another SPR release circulated concurrently with news of the escalati
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: S.P. aRe Becoming Irrelevant?](../../../charts/poten/2013/poten_2013-09-13_sp-are-becoming-irrelevant_chart1.png)
+![Exhibit 1: U.S. Crude Oil Inventories](../../../charts/poten/2013/poten_2013-09-13_sp-are-becoming-irrelevant_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2013/poten_2013-09-13_sp-are-becoming-irrelevant_chart1.png)
+> **Exhibit 1: U.S. Crude Oil Inventories**  
+> Unit: Thousand Barrels · X-axis: 2003 to 2013  
+> Series: Commercial Crude Oil Stocks, SPR  
+> *Source: EIA*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2013/poten_2013-09-13_sp-are-becoming-irrelevant_chart1.png)
 
-![Exhibit 2: S.P. aRe Becoming Irrelevant?](../../../charts/poten/2013/poten_2013-09-13_sp-are-becoming-irrelevant_chart2.png)
+![Exhibit 2: Light/Sweet Crude Oil Imports](../../../charts/poten/2013/poten_2013-09-13_sp-are-becoming-irrelevant_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2013/poten_2013-09-13_sp-are-becoming-irrelevant_chart2.png)
+> **Exhibit 2: Light/Sweet Crude Oil Imports**  
+> Unit: Thousand Barrels · X-axis: 1/1/2010 to 1/1/2013  
+> Series: Light/Sweet Crude Oil Imports  
+> *Source: Poten & Partners*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2013/poten_2013-09-13_sp-are-becoming-irrelevant_chart2.png)

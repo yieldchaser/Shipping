@@ -19,11 +19,11 @@ source_file: "corpus/03-breakwave/insights/2023/2023-03-29_chinas-decoupling-con
 
 ---
 
-[![Byjeffrey Landsberg](assets/2023-03-29_chinas-decoupling-continues_img_1281129_6b3edcdadb69.png)
+[![Byjeffrey Landsberg](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-03-29_chinas-decoupling-continues_img_1281129_6b3edcdadb69.png)
 
 > **Figure 1: Byjeffrey Landsberg**  
 > *ByJeffrey Landsberg*  
-> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/in/jeffrey-landsberg-70ab957/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-03-29_chinas-decoupling-continues_img_1281129_6b3edcdadb69.png)](https://www.breakwaveadvisors.com/insights/2023/3/29/did-you-know)
+> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/in/jeffrey-landsberg-70ab957/) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-03-29_chinas-decoupling-continues_img_1281129_6b3edcdadb69.png)](https://www.breakwaveadvisors.com/insights/2023/3/29/did-you-know)
 
 As we have been stressing in our Weekly Dry Bulk Reports this year, we have been of the view that a recession has been underway for months in much of the global economy including the United States. The uniqueness and magnitude of current global consumer distress is still not being acknowledged (and most likely is still unknown) by most pundits, government officials, economists, media outlets, etc. In recent reports, we have been discussing how retail sales are not adjusted for inflation and how simple analysis of actual purchases of goods often is not provided. We continue to stress that the purchase of actual goods remains in contraction and that this is incredibly rare. This typically only occurs in recessions.
 
@@ -33,7 +33,7 @@ In China, both the consumer side and industrial side continue to strengthen, and
 
 On the industrial side, year-on-year strength has also continued to intensify in China, with steel output continuing to fare particularly well. The most recently released data shows that daily crude steel output at large and medium-sized mills in China averaged 2.25 million tons during March 11 - 20. This is 5% more than was seen in early March and is up year-on-year by 10%. Steel production has remained strong and has now climbed to the highest level seen since June.
 
-![Chart](assets/2023-03-29_chinas-decoupling-continues_img_chart_ec5b0fd01083.jpg)
+![Chart](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-03-29_chinas-decoupling-continues_img_chart_ec5b0fd01083.jpg)
 
 > **Figure 2: Chart**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-03-29_chinas-decoupling-continues_img_chart_ec5b0fd01083.jpg)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-03-29_chinas-decoupling-continues_img_chart_ec5b0fd01083.jpg)

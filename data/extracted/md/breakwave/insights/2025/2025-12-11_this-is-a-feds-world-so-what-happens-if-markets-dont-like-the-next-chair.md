@@ -40,10 +40,10 @@ The second decade was about learning another lesson:**don’t fight the Fed (or 
 
 With valuations at very high levels, a trade war between the US and the rest of the world, political instability and inflation creeping up, the fundamentals don’t paint a pretty picture. If it weren’t for OPEC+ accepting oil $20 lower than last January and technology capital expenditure, the economic picture might have been materially worse. Which is why we are currently a neutral around our asset allocation, despite a great run in risk assets.
 
-![Market Chart 1](assets/2025-12-11_this-is-a-feds-world-so-what-happens-if-markets-dont-like-the-next-chair_img_image002_d122eff73f61.jpg)
+![Market Chart 1](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-12-11_this-is-a-feds-world-so-what-happens-if-markets-dont-like-the-next-chair_img_image002_d122eff73f61.jpg)
 
 > **Figure 1: Market Chart 1**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-12-11_this-is-a-feds-world-so-what-happens-if-markets-dont-like-the-next-chair_img_image002_d122eff73f61.jpg)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-12-11_this-is-a-feds-world-so-what-happens-if-markets-dont-like-the-next-chair_img_image002_d122eff73f61.jpg)
 
 But overall, we are seeing building risks but we are not outright negative. This is primarily because the Fed is in rate-cutting mode and widely expected to deliver another one in December, however begrudgingly. When markets lost confidence about a rate cut in the Fed’s December meeting, US large caps plunged. Similarly, when New York Fed Chair Williams surprisingly sided with the doves, Stephen Miran and Christopher Waller, the latter an outsider for the Fed Chair, equity markets rebounded.
 

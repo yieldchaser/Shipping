@@ -26,10 +26,17 @@ The implications for the tanker market are varied. Less imports from long-haul s
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: Bargain Hunters](../../../charts/poten/2023/poten_2023-07-07_bargain-hunters_chart1.png)
+![Exhibit 1: India: Seaborne Crude & Condensate Imports By Origin](../../../charts/poten/2023/poten_2023-07-07_bargain-hunters_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2023/poten_2023-07-07_bargain-hunters_chart1.png)
+> **Exhibit 1: India: Seaborne Crude & Condensate Imports By Origin**  
+> Unit: Kb/d · X-axis: 1-Jan-20 to 1-Apr-23  
+> Series: Iraq, Saudi Arabia, Russia, United Arab Emirates, United States, Nigeria, Kuwait, Other  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2023/poten_2023-07-07_bargain-hunters_chart1.png)
 
-![Exhibit 2: Bargain Hunters](../../../charts/poten/2023/poten_2023-07-07_bargain-hunters_chart2.png)
+![Exhibit 2: India: Crude & Condensate Imports by Vessel Class](../../../charts/poten/2023/poten_2023-07-07_bargain-hunters_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2023/poten_2023-07-07_bargain-hunters_chart2.png)
+> **Exhibit 2: India: Crude & Condensate Imports by Vessel Class**  
+> Unit: % · X-axis: 1-Jan-20 to 1-May-23  
+> Series: VLCC, Suezmax, Aframax, Smaller  
+> *Source: Vortexa*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2023/poten_2023-07-07_bargain-hunters_chart2.png)

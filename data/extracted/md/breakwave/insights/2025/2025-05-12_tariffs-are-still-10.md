@@ -54,20 +54,20 @@ What are we left with?
 
 - Unless repealed, four times the previous tariffs, which is, by and large unsustainable.
 
-![Market Chart 1](assets/2025-05-12_tariffs-are-still-10_img_image004_83094524424a.jpg)
+![Market Chart 1](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-05-12_tariffs-are-still-10_img_image004_83094524424a.jpg)
 
 > **Figure 1: Market Chart 1**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-05-12_tariffs-are-still-10_img_image004_83094524424a.jpg)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-05-12_tariffs-are-still-10_img_image004_83094524424a.jpg)
 
 - Likely higher inflation in the US and inflation uncertainty for everyone else.
 
 - Lower growth for the global economy and possibly higher unemployment
 - Corporations very uncertain about where and how their new supply chain positioning should be.
 
-![Market Chart 2](assets/2025-05-12_tariffs-are-still-10_img_image005_a3d94603c036.jpg)
+![Market Chart 2](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-05-12_tariffs-are-still-10_img_image005_a3d94603c036.jpg)
 
 > **Figure 2: Market Chart 2**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-05-12_tariffs-are-still-10_img_image005_a3d94603c036.jpg)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-05-12_tariffs-are-still-10_img_image005_a3d94603c036.jpg)
 
 - The longer trade disruptions last, the more the damage is done to the global economy.
 
@@ -79,10 +79,10 @@ What are we left with?
 
 Markets of course often think in relative terms and “signals”. Upping tariffs is a “disaster” but lowering them is “great news” for traders, even if the new level is much higher than the previous average.**Presently, many investors are still hoping that the US administration will recognise tariffs to be a “bad idea”, and that one can’t turn a consumer society into a manufacturing one without significant pain and roll them back. They are also focusing a lot on Scott Bessent’s apparent leadership of the economic arm of the US administration.**
 
-![Market Chart 3](assets/2025-05-12_tariffs-are-still-10_img_image006_73b1cbee6df0.jpg)
+![Market Chart 3](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-05-12_tariffs-are-still-10_img_image006_73b1cbee6df0.jpg)
 
 > **Figure 3: Market Chart 3**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-05-12_tariffs-are-still-10_img_image006_73b1cbee6df0.jpg)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-05-12_tariffs-are-still-10_img_image006_73b1cbee6df0.jpg)
 
 Additionally, markets have calmed due to what they believe to be the re-affirmation of the “Fed Put”. Last week, the US central bank is rumoured to have intervened to increase demand for short-term US T-Bills, the biggest such intervention since 2021. Other reports suggest wide interventions on the long-end of the yield curve, lowering long term borrowing costs.
 

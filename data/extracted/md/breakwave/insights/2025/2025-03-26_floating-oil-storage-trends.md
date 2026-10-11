@@ -62,10 +62,10 @@ Geopolitical instability has significantly impacted floating storage utilization
 
 The floating storage data for the Arabian Gulf reflects these disruptions, with noticeable spikes in stored quantities corresponding to periods of heightened instability. Since early 2022, storage levels have fluctuated significantly, with peak accumulations exceeding 10 million barrels, particularly in mid-2022, early 2023, and early 2024. These trends suggest that logistical bottlenecks and supply chain adjustments in response to geopolitical tensions have played a critical role in shaping storage patterns.
 
-![Market Chart 1](assets/2025-03-26_floating-oil-storage-trends_img_unnamed28129_30867f1cbe1b.png)
+![Market Chart 1](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-03-26_floating-oil-storage-trends_img_unnamed28129_30867f1cbe1b.png)
 
 > **Figure 1: Market Chart 1**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-03-26_floating-oil-storage-trends_img_unnamed28129_30867f1cbe1b.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-03-26_floating-oil-storage-trends_img_unnamed28129_30867f1cbe1b.png)
 
 ### Emerging Forces Behind Floating Storage Trends
 
@@ -87,10 +87,10 @@ As we move through 2025, the global floating storage market is showing notable s
 
 In terms of floating storage distribution, Singapore/Malaysia and North China continue to dominate, holding 19.6% and 14.2% of global floating storage, respectively. These figures highlight Asia’s continued importance as a refining and crude trading hub. However, their shares have remained relatively stable from 2024 to 2025, suggesting that offshore storage reliance in these regions has not undergone major structural changes. The Arabian Gulf, on the other hand, has experienced a modest decline in floating storage share, dropping to 4.0%. This shift suggests a greater emphasis on efficient crude movement and a potential preference for land-based storage solutions rather than prolonged offshore storage. Meanwhile, storage levels in the US Gulf and US West Coast remain relatively low, reinforcing the decreasing role of North America in global floating storage. Other regions, such as the African Atlantic Coast and the Caribs, continue to hold steady at 4.8% and 4.4%, respectively, reflecting their ongoing significance as transit-heavy storage locations.
 
-![Market Chart 2](assets/2025-03-26_floating-oil-storage-trends_img_unnamed28229_7c62668bbdad.png)
+![Market Chart 2](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-03-26_floating-oil-storage-trends_img_unnamed28229_7c62668bbdad.png)
 
 > **Figure 2: Market Chart 2**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-03-26_floating-oil-storage-trends_img_unnamed28229_7c62668bbdad.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-03-26_floating-oil-storage-trends_img_unnamed28229_7c62668bbdad.png)
 
 When examining vessel size rankings, VLCCs continue to dominate in 2025, accounting for 55% of total floating storage, a trend that remains unchanged from 2024. Their continued dominance is driven by their cost-efficiency in long-term crude storage and their ability to hold large volumes over extended periods. Suezmax vessels remain in second place with a 23% share, serving mid-sized crude shipments, particularly in constrained waterways or regional storage hubs. Aframax vessels also retain a strong presence at 19%, reflecting their critical role in shorter-haul crude transportation and regional storage needs. Panamax vessels, on the other hand, maintain a minimal role in floating storage, accounting for only 3%, as they are primarily used for refined product transport rather than long-term crude storage.
 

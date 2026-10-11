@@ -33,7 +33,7 @@ tags:
 
 > **Figure 1: Data Source: Https://app.signalocean.com/tanker/dynamic/oilflows**  
 > *Data Source: https://app.signalocean.com/tanker/dynamic/oilflows*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/tanker-week-30-2023) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/64c23f21ca77b1f9d305717e_chart of the week tankers.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/tanker-week-30-2023) | [Local Asset](../../../../../../corpus/07-signal/images/64c23f21ca77b1f9d305717e_chart%20of%20the%20week%20tankers.png)
 
 In the last days of July, the outlook for crude oil freight rates showed signs of weakness as the growth of demand in tonne days continued to decline. Additionally, the daily 25-day moving average of crude oil flows from Arabian Gulf countries to China has been consistently decreasing since its peak in mid-April. During July, the volume of oil flows reached levels even lower than those recorded in the previous year.
 

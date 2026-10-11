@@ -108,6 +108,26 @@ Considering the general direction of crude oil prices and continuing demand for 
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: Bunkers Go Bonkers](../../../charts/poten/2005/poten_2005-03-18_bunkers-go-bonkers_chart1.png)
+> **Chart on PDF page 1: Bunker and Crude Prices in Arabian Gulf**  
+> Unit: $/Ton · X-axis: Jan-99 to Jan-05  
+> Series: MDO, Crude, CST  
+> *Source: Poten & Partners*  
+> *No image crop of this chart was saved; caption read from the PDF.*
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2005/poten_2005-03-18_bunkers-go-bonkers_chart1.png)
+> **Chart on PDF page 2: Spread in AG Between Crude and Bunker Prices**  
+> Unit: $/Ton · X-axis: Jan-99 to Jan-05  
+> Series: Spread  
+> *Source: Poten & Partners*  
+> *No image crop of this chart was saved; caption read from the PDF.*
+
+> **Chart on PDF page 2: VLCC AG/Japan Spot WS & TCE Rates**  
+> Unit: WS Rates | $/Day · X-axis: Jan-99 to Jan-05  
+> Series: WS Rates, $/Day  
+> *Source: Poten & Partners*  
+> *No image crop of this chart was saved; caption read from the PDF.*
+
+> **Chart on PDF page 3: Equivalent WS Points to Absorb Extra Bunker Costs Reference Year 2001**  
+> Unit: WS Points · X-axis: Jan-99 to Jan-05  
+> Series: Poten & Partners  
+> *Source: Poten & Partners*  
+> *No image crop of this chart was saved; caption read from the PDF.*

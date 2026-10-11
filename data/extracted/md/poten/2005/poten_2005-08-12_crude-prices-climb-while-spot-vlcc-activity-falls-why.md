@@ -68,6 +68,20 @@ Suppose this bubble of speculation bursts and oil prices come down? This will en
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: Crude Prices Climb While Spot VLCC Activity Falls Why?](../../../charts/poten/2005/poten_2005-08-12_crude-prices-climb-while-spot-vlcc-activity-falls-why_chart1.png)
+> **Chart on PDF page 2: Total Monthly VLCC Fixture Activity**  
+> Unit: # Fixtures · X-axis: Jan to Dec  
+> Series: 2004, 2005  
+> *Source: Poten & Partners*  
+> *No image crop of this chart was saved; caption read from the PDF.*
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2005/poten_2005-08-12_crude-prices-climb-while-spot-vlcc-activity-falls-why_chart1.png)
+> **Chart on PDF page 2: Arabian Gulf Monthly VLCC Fixture Activity**  
+> Unit: # Fixtures · X-axis: Jan to Dec  
+> Series: 2004, 2005  
+> *Source: Poten & Partners*  
+> *No image crop of this chart was saved; caption read from the PDF.*
+
+> **Chart on PDF page 3: Average U.S. Oil Inventories**  
+> Unit: Mm Bbls · X-axis: 2000 to Current  
+> Series: Crude, Gasoline  
+> *Source: EIA/Poten*  
+> *No image crop of this chart was saved; caption read from the PDF.*

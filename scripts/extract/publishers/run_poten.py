@@ -1045,7 +1045,7 @@ def process_pdf(
                 new_txt = elem_txt
                 referenced_cnums = []
                 for c_num, c_info in chart_map.items():
-                    link_url = f"file:///{c_info['abs_path']}"
+                    link_url = f"../../../charts/poten/{year}/{c_info['file_name']}"  # relative: resolves in any checkout
                     # Match (Chart N) or (Exhibit N)
                     pattern_paren = re.compile(rf'\((?:Chart|Exhibit)\s+{c_num}\)', re.I)
                     if pattern_paren.search(new_txt):
@@ -1061,11 +1061,13 @@ def process_pdf(
                 for c_num in referenced_cnums:
                     if c_num not in inlined_charts:
                         c_info = chart_map[c_num]
-                        abs_link = f"file:///{c_info['abs_path']}"
                         rel_img = f"../../../charts/poten/{year}/{c_info['file_name']}"
+                        abs_link = rel_img
+                        # placeholder caption: scripts/md_cleanup/poten_chart_captions.py replaces it with the
+                        # chart's printed title, unit, series and source (the charts are images)
                         fig_block = (
                             f"> **Exhibit {c_num}: {title} (Chart {c_num})**  \n"
-                            f"> *Source: Poten & Partners*  \n"
+                            f"> *Source: as printed on the chart*  \n"
                             f"> **Interactive Data & Source:** [Local Asset (200 DPI PNG)]({abs_link})\n\n"
                             f"![Exhibit {c_num}: {title}]({rel_img})"
                         )
@@ -1114,7 +1116,7 @@ def process_pdf(
         if remaining_charts:
             md_parts.append("## Market Exhibits & Charts\n\n")
             for c in remaining_charts:
-                abs_link = f"file:///{c['abs_path']}"
+                abs_link = f"../../../charts/poten/{year}/{c['file_name']}"
                 rel_img = f"../../../charts/poten/{year}/{c['file_name']}"
                 md_parts.append(f"![Exhibit {c['chart_num']}: {title}]({rel_img})\n\n> **Interactive Asset:** [Local Asset (200 DPI PNG)]({abs_link})\n\n")
 

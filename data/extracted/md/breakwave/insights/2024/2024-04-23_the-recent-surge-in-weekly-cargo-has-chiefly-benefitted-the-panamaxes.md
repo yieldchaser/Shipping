@@ -62,10 +62,10 @@ The past two weeks have seen a significant increase in cargo ordering activities
 
 The recent surge in weekly cargo has chiefly benefitted the panamaxes, with the demand situation in the other segments broadly unchanged. Given the often lengthy voyages in the coal trade from the Baltic Sea, the recent developments have added to the tonne-mile demand in the panamax segment.
 
-![Στιγμιότυπο Οθόνης 2024 04 22 192031](assets/2024-04-23_the-recent-surge-in-weekly-cargo-has-chiefly-benefitted-the-panamaxes_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_6fd17aa59d89.png)
+![Στιγμιότυπο Οθόνης 2024 04 22 192031](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-04-23_the-recent-surge-in-weekly-cargo-has-chiefly-benefitted-the-panamaxes_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_6fd17aa59d89.png)
 
 > **Figure 1: Στιγμιότυπο Οθόνης 2024 04 22 192031**  
-> **Interactive Data & Source:** [Shipfix](https://shipfix.com/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-04-23_the-recent-surge-in-weekly-cargo-has-chiefly-benefitted-the-panamaxes_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_6fd17aa59d89.png)
+> **Interactive Data & Source:** [Shipfix](https://shipfix.com/) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-04-23_the-recent-surge-in-weekly-cargo-has-chiefly-benefitted-the-panamaxes_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_6fd17aa59d89.png)
 
 Data Source:[Shipfix](https://shipfix.com/)
 

@@ -27,7 +27,7 @@ China's coal imports totaled a very robust 39.9 million tons last month. This is
 
 With global commodity prices remaining down this year compared to 2022’s prices (due primarily to weakness in demand from the world outside of China), China has continued to benefit greatly and happily import robust amounts of commodities. Of particular significance is that China’s producer prices (which includes commodities and production materials) most recently fell year-on-year in June by 5.4%. China’s producer prices have now contracted on a year-on-year basis for nine straight months, and June’s 5.4% contraction has marked the largest contraction during this period.
 
-![Chart](assets/2023-07-14_chinas-major-dry-bulk-imports-collectively-up-25-y-o-y-in-june_img_chart_9ec27b44b893.jpg)
+![Chart](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-07-14_chinas-major-dry-bulk-imports-collectively-up-25-y-o-y-in-june_img_chart_9ec27b44b893.jpg)
 
 > **Figure 1: Chart**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-07-14_chinas-major-dry-bulk-imports-collectively-up-25-y-o-y-in-june_img_chart_9ec27b44b893.jpg)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-07-14_chinas-major-dry-bulk-imports-collectively-up-25-y-o-y-in-june_img_chart_9ec27b44b893.jpg)

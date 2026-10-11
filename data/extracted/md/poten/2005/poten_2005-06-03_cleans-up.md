@@ -72,6 +72,32 @@ It looks to us that the clean up batter is about to hit a home run!
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: Cleans Up!](../../../charts/poten/2005/poten_2005-06-03_cleans-up_chart1.png)
+> **Chart on PDF page 1: U.S. Clean Products Imports**  
+> Unit: 000 Bpd · X-axis: Jan-2000 to Jan-2005  
+> Series: U.S. Clean Products Imports  
+> *Source: EIA/Poten*  
+> *No image crop of this chart was saved; caption read from the PDF.*
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2005/poten_2005-06-03_cleans-up_chart1.png)
+> **Chart on PDF page 2: # Spot Clean Fixtures by Vessel Type**  
+> Unit: # Fixtures · X-axis: 2000 to 2005  
+> Series: Panamax, Handymax, Small  
+> *Source: Poten*  
+> *No image crop of this chart was saved; caption read from the PDF.*
+
+> **Chart on PDF page 3: Handymax Clean Fixtures by Load Area**  
+> Unit: # Fixtures · X-axis: 2000 to 2005  
+> Series: Other, Asia, Europe, Caribs  
+> *Source: Poten & Partners*  
+> *No image crop of this chart was saved; caption read from the PDF.*
+
+> **Chart on PDF page 3: Handymax Clean Fixtures in Voyage Days**  
+> Unit: Voyage Days · X-axis: 2000 to 2005  
+> Series: Other, Asia, Europe, Caribs  
+> *Source: Poten & Partners*  
+> *No image crop of this chart was saved; caption read from the PDF.*
+
+> **Chart on PDF page 4: TCE Rates for Clean Spot Trading**  
+> Unit: $/Day · X-axis: Jan-00 to Jan-05  
+> Series: Handymax, Panamax  
+> *Source: Poten & Partners*  
+> *No image crop of this chart was saved; caption read from the PDF.*

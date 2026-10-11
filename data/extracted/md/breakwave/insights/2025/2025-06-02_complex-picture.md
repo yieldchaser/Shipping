@@ -36,10 +36,10 @@ The Baltic indices have remained largely unshaken by the ongoing geopolitical tu
 
 Missing image: https://images.squarespace-cdn.com/content/v1/5a4d1d26e5dd5b537a6647c5/1748805891882-R7UEURV5GMU6USH0UROD/%CE%A3%CF%84%CE%B9%CE%B3%CE%BC%CE%B9%CF%8C%CF%84%CF%85%CF%80%CE%BF+%CE%BF%CE%B8%CF%8C%CE%BD%CE%B7%CF%82+2025-06-01+214329.png
 
-![Στιγμιότυπο Οθόνης 2025 06 01 214322](assets/2025-06-02_complex-picture_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_428e3307a7fc.png)
+![Στιγμιότυπο Οθόνης 2025 06 01 214322](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-06-02_complex-picture_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_428e3307a7fc.png)
 
 > **Figure 1: Στιγμιότυπο Οθόνης 2025 06 01 214322**  
-> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-06-02_complex-picture_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_428e3307a7fc.png)
+> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-06-02_complex-picture_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_428e3307a7fc.png)
 
 Data source:[Doric](https://www.doric.gr/)
 

@@ -23,7 +23,7 @@ source_file: "corpus/03-breakwave/insights/2021/2021-03-22_9dcienhj117wywf4e4wsa
 ![Unsplash Image Knxqv2d2pgi](assets/2021-03-22_9dcienhj117wywf4e4wsa6g5a5enpk_img_unsplash-image-knxqv2d2pgi_807fc5208684.jpg)
 
 > **Figure 1: Unsplash Image Knxqv2d2pgi**  
-> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2021/3/5/in-dry-bulk-nothing-goes-straight-up) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2021/assets/2021-03-22_9dcienhj117wywf4e4wsa6g5a5enpk_img_unsplash-image-knxqv2d2pgi_807fc5208684.jpg)
+> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2021/3/5/in-dry-bulk-nothing-goes-straight-up) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-03-22_9dcienhj117wywf4e4wsa6g5a5enpk_img_unsplash-image-knxqv2d2pgi_807fc5208684.jpg)
 
 A few weeks ago,[we predicted](https://www.breakwaveadvisors.com/insights/2021/3/5/in-dry-bulk-nothing-goes-straight-up)that rates across dry bulk will start to top out and possibly even turn lower as we head towards the end of the month. We forecasted relatively stable Capesize rates which could lead to a convergence of the higher futures curve towards spot levels while the sub-cape sector was set for flattish to lower spot rates as seasonality would weight on South American grain cargo flow.
 
@@ -37,7 +37,7 @@ Yet, as one sees the market today, it is quite impressive the fact that owners, 
 
 > **Figure 2: Baltic Dry Index**  
 > *Baltic Dry Index, Spot, 10-Year Range and Implied Futures*  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2021/assets/2021-03-22_9dcienhj117wywf4e4wsa6g5a5enpk_img_brfixtures_dc6a0437365a.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-03-22_9dcienhj117wywf4e4wsa6g5a5enpk_img_brfixtures_dc6a0437365a.png)
 
 So, what do we now believe for the near future?
 
@@ -51,7 +51,7 @@ On the other hand, if the Brazilian miners stay put for another week or two, the
 
 > **Figure 3: Source: Bloomberg and Breakwave Advisors**  
 > *Source: Bloomberg and Breakwave Advisors*  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2021/assets/2021-03-22_9dcienhj117wywf4e4wsa6g5a5enpk_img_bdiandfutures_7e61d1d8f708.jpg)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-03-22_9dcienhj117wywf4e4wsa6g5a5enpk_img_bdiandfutures_7e61d1d8f708.jpg)
 
 On the sub-cape segments, the futures curve remains relatively flat for the near dated futures, which translates to increased confidence by market participants on the sustainability of the current impressively high rates. We are under no illusion that we understand the complicated nature of short term spot rates for the sub-cape segments better than what market participants are willing to put their money on. Seasonality is against the bulls, and we believe shipping rates are affected by seasonality, but as previously mentioned, we are not in a normal market by any means.
 

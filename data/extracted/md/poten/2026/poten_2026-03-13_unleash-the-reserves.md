@@ -28,10 +28,17 @@ The U.S. Department of Energy has established a 120-day delivery window for the 
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: Unleash The Reserves](../../../charts/poten/2026/poten_2026-03-13_unleash-the-reserves_chart1.png)
+![Exhibit 1: Seaborne Crude Movements in 2022](../../../charts/poten/2026/poten_2026-03-13_unleash-the-reserves_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2026/poten_2026-03-13_unleash-the-reserves_chart1.png)
+> **Exhibit 1: Seaborne Crude Movements in 2022**  
+> Unit: Mb/d | WTI $/bbl · X-axis: 27-Dec-21 to 26-Dec-22  
+> Series: NE Asia, NW Europe, AG, Med, SE Asia, EC N America, S Atlantic, WC Americas, Other, WTI  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2026/poten_2026-03-13_unleash-the-reserves_chart1.png)
 
-![Exhibit 2: Unleash The Reserves](../../../charts/poten/2026/poten_2026-03-13_unleash-the-reserves_chart2.png)
+![Exhibit 2: Daily Crude Oil Exports From the Arabian Gulf (Transit Strait Of Hormuz)](../../../charts/poten/2026/poten_2026-03-13_unleash-the-reserves_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2026/poten_2026-03-13_unleash-the-reserves_chart2.png)
+> **Exhibit 2: Daily Crude Oil Exports From the Arabian Gulf (Transit Strait Of Hormuz)**  
+> Unit: Mb/d · X-axis: 1-Jan-26 to 14-Mar-26  
+> Series: Saudi Arabia, Iraq, United Arab Emirates, Kuwait, Iran, Qatar, Oman, Bahrain, Other  
+> *Source: Vortexa*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2026/poten_2026-03-13_unleash-the-reserves_chart2.png)

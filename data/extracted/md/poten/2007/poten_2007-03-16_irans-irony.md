@@ -64,6 +64,8 @@ US congressmen in particular are urging even more stringent sanctions on foreign
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: Iran's Irony](../../../charts/poten/2007/poten_2007-03-16_irans-irony_chart1.png)
-
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2007/poten_2007-03-16_irans-irony_chart1.png)
+> **Chart on PDF page 1: Untitled chart**  
+> Unit: Million Barrels Per Day | Million People · X-axis: 1965 to 2007  
+> Series: Production, Consumption, Population  
+> *Source: Poten/BP Statistics*  
+> *No image crop of this chart was saved; caption read from the PDF.*

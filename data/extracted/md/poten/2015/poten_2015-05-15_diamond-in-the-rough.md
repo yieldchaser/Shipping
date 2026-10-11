@@ -34,8 +34,8 @@ Steady growth in African product imports will continue to provide support to the
 
 ![Exhibit 1: Diamond in the Rough](../../../charts/poten/2015/poten_2015-05-15_diamond-in-the-rough_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2015/poten_2015-05-15_diamond-in-the-rough_chart1.png)
+> **Interactive Asset:** [Local Asset (200 DPI PNG)](../../../charts/poten/2015/poten_2015-05-15_diamond-in-the-rough_chart1.png)
 
 ![Exhibit 2: Diamond in the Rough](../../../charts/poten/2015/poten_2015-05-15_diamond-in-the-rough_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2015/poten_2015-05-15_diamond-in-the-rough_chart2.png)
+> **Interactive Asset:** [Local Asset (200 DPI PNG)](../../../charts/poten/2015/poten_2015-05-15_diamond-in-the-rough_chart2.png)

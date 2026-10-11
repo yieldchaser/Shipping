@@ -40,11 +40,11 @@ Global seaborne bulk bauxite flows rose by 2% to reach 68.4mt in 2026 Q2. Of the
 China and India both saw imports increase, whilst the UAE saw imports fall as major ports became inaccessible due to the conflict in the wider Gulf region.
 
 
-![Source: Seaborne Bauxite Flows Origins and Destinations From Signal Ocean](../../images/6a58a7069c46b10c5eafda9e_4a0bfa5c.png)
+![Source: Seaborne Bauxite Flows Origins and Destinations From Signal Ocean](../../../../../../corpus/07-signal/images/6a58a7069c46b10c5eafda9e_4a0bfa5c.png)
 
 > **Figure 1: Source: Seaborne Bauxite Flows Origins and Destinations From Signal Ocean**  
 > *Source: Seaborne bauxite flows origins and destinations from Signal Ocean*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/commodity-radar-spotlight-aluminium-chain-q2-2026) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6a58a7069c46b10c5eafda9e_4a0bfa5c.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/commodity-radar-spotlight-aluminium-chain-q2-2026) | [Local Asset](../../../../../../corpus/07-signal/images/6a58a7069c46b10c5eafda9e_4a0bfa5c.png)
 
 
 ## Global Seaborne Alumina
@@ -53,11 +53,11 @@ Global seaborne bulk alumina trade declined by close to 4% to 10.4Mt in Q2 2026,
 If the conflict continues to re-escalate, the alumina trade is likely to remain disrupted, particularly on routes through the Gulf. Over the medium term, however, Indonesia's expanding aluminium smelting capacity is expected to support stronger regional alumina demand and reshape global trade flows
 
 
-![Source: Seaborne Aluminal Flows Origins and Destinations From Signal Ocean](../../images/6a58a73ee9bb8994dfe4e430_2888e4fb.png)
+![Source: Seaborne Aluminal Flows Origins and Destinations From Signal Ocean](../../../../../../corpus/07-signal/images/6a58a73ee9bb8994dfe4e430_2888e4fb.png)
 
 > **Figure 2: Source: Seaborne Aluminal Flows Origins and Destinations From Signal Ocean**  
 > *Source: Seaborne aluminal flows origins and destinations from Signal Ocean*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/commodity-radar-spotlight-aluminium-chain-q2-2026) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6a58a73ee9bb8994dfe4e430_2888e4fb.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/commodity-radar-spotlight-aluminium-chain-q2-2026) | [Local Asset](../../../../../../corpus/07-signal/images/6a58a73ee9bb8994dfe4e430_2888e4fb.png)
 
 
 ## Global Seaborne Aluminium
@@ -67,10 +67,10 @@ Global seaborne bulk aluminium flows increased by 17% to reach 1.4mt in 2026 Q2.
 The United States saw similar levels of seaborne bulk aluminium imports in 2026 Q2 as it did in 2025 Q2. This was despite an increased tariff on aluminium imports from 24% to 50% introduced in June 2025.
 
 
-![Source: Seaborne Aluminium Flows, Origins, and Destinations From Signal Ocean](../../images/6a58a760de3014055e2602e5_408f61b9.png)
+![Source: Seaborne Aluminium Flows, Origins, and Destinations From Signal Ocean](../../../../../../corpus/07-signal/images/6a58a760de3014055e2602e5_408f61b9.png)
 
 > **Figure 3: Source: Seaborne Aluminium Flows, Origins, and Destinations From Signal Ocean**  
 > *Source: Seaborne aluminium flows, origins, and destinations from Signal Ocean*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/commodity-radar-spotlight-aluminium-chain-q2-2026) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6a58a760de3014055e2602e5_408f61b9.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/commodity-radar-spotlight-aluminium-chain-q2-2026) | [Local Asset](../../../../../../corpus/07-signal/images/6a58a760de3014055e2602e5_408f61b9.png)
 
 **Explore the data yourself:** All flow figures in this report are drawn from [The Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean/signal-ocean-platform), where you can filter by commodity, route, and date range to track the aluminium chain in real time. [Get in touch](https://www.thesignalgroup.com/request-demo) for a walkthrough of our dry bulk flows module.

@@ -28,10 +28,18 @@ The Medium-Range (MR) product tanker market in the US Gulf could see the much mo
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: Liby-honest: How lost crude oil flows could be a boon for clean](../../../charts/poten/2013/poten_2013-09-06_liby-honest-how-lost-crude-oil-flows-could-be-a-boon-for_chart1.png)
+![Exhibit 1: Northwest Europe Refining Margins Weekly Close](../../../charts/poten/2013/poten_2013-09-06_liby-honest-how-lost-crude-oil-flows-could-be-a-boon-for_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2013/poten_2013-09-06_liby-honest-how-lost-crude-oil-flows-could-be-a-boon-for_chart1.png)
+> **Exhibit 1: Northwest Europe Refining Margins Weekly Close**  
+> Unit: $/Bbl | $/Bbl · X-axis: Jan-10 to Jul-13  
+> Series: Brent, Refining Margin  
+> *Source: Bloomberg*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2013/poten_2013-09-06_liby-honest-how-lost-crude-oil-flows-could-be-a-boon-for_chart1.png)
 
-![Exhibit 2: Liby-honest: How lost crude oil flows could be a boon for clean](../../../charts/poten/2013/poten_2013-09-06_liby-honest-how-lost-crude-oil-flows-could-be-a-boon-for_chart2.png)
+![Exhibit 2: Aframax Fixtures ex-Libya Monthly Total](../../../charts/poten/2013/poten_2013-09-06_liby-honest-how-lost-crude-oil-flows-could-be-a-boon-for_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2013/poten_2013-09-06_liby-honest-how-lost-crude-oil-flows-could-be-a-boon-for_chart2.png)
+> **Exhibit 2: Aframax Fixtures ex-Libya Monthly Total**  
+> Unit: Fixture Count · X-axis: Jan to Dec  
+> Series: 2011, 2012, 2013, 5-Year High  
+> *Source: Poten & Partners*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2013/poten_2013-09-06_liby-honest-how-lost-crude-oil-flows-could-be-a-boon-for_chart2.png)

@@ -43,10 +43,10 @@ Looking ahead to 2025, an escalation of trade tensions between the US and China,
 
 ➔ This could likely keep a lid on rates, especially if OPEC continues to follow a path of moderating supply increases this year
 
-![Στιγμιότυπο Οθόνης 2025 01 09 140814](assets/2025-01-09_narrowing-transatlantic-freight-spreads-drives-mr-supply-in-nwe_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_26ab8be4ce08.png)
+![Στιγμιότυπο Οθόνης 2025 01 09 140814](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-01-09_narrowing-transatlantic-freight-spreads-drives-mr-supply-in-nwe_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_26ab8be4ce08.png)
 
 > **Figure 1: Στιγμιότυπο Οθόνης 2025 01 09 140814**  
-> **Interactive Data & Source:** [Vortexa](https://www.vortexa.com//oil-gas-data-traders-analysts-data-scientists?gclid=Cj0KCQjw8_qRBhCXARIsAE2AtRZKOvMnbilZ_6_91d7huSFFy71pWLrnPwGwOHVzXsmsG-1a1mZnQw8aAt89EALw_wcB&hsa_acc=1782073842&hsa_ad=548425387665&hsa_cam=14746637662&hsa_grp=125038601902&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_src=g&hsa_tgt=dsa-1431852288425&hsa_ver=3&utm_campaign=%5BCD%5D%20-%20DSA%20-%20EMEA&utm_medium=cpc&utm_medium=ppc&utm_source=google&utm_source=adwords&utm_term=) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-01-09_narrowing-transatlantic-freight-spreads-drives-mr-supply-in-nwe_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_26ab8be4ce08.png)
+> **Interactive Data & Source:** [Vortexa](https://www.vortexa.com//oil-gas-data-traders-analysts-data-scientists?gclid=Cj0KCQjw8_qRBhCXARIsAE2AtRZKOvMnbilZ_6_91d7huSFFy71pWLrnPwGwOHVzXsmsG-1a1mZnQw8aAt89EALw_wcB&hsa_acc=1782073842&hsa_ad=548425387665&hsa_cam=14746637662&hsa_grp=125038601902&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_src=g&hsa_tgt=dsa-1431852288425&hsa_ver=3&utm_campaign=%5BCD%5D%20-%20DSA%20-%20EMEA&utm_medium=cpc&utm_medium=ppc&utm_source=google&utm_source=adwords&utm_term=) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-01-09_narrowing-transatlantic-freight-spreads-drives-mr-supply-in-nwe_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_26ab8be4ce08.png)
 
 ## Clean – East of Suez: East-West LR2 Middle Distillate Voyages Bounce Back From Record Lows, Supporting Longer Voyages Via Cogh
 
@@ -62,10 +62,10 @@ Recently however, we have observed a rebound in East-to-West voyages, as also ev
 
 ➔ If East/West flows persist, longer average voyage mileage will tighten LR2 availability and in turn support East/West LR2 freight rates
 
-![Στιγμιότυπο Οθόνης 2025 01 09 140828](assets/2025-01-09_narrowing-transatlantic-freight-spreads-drives-mr-supply-in-nwe_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_5daaadd32f76.png)
+![Στιγμιότυπο Οθόνης 2025 01 09 140828](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-01-09_narrowing-transatlantic-freight-spreads-drives-mr-supply-in-nwe_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_5daaadd32f76.png)
 
 > **Figure 2: Στιγμιότυπο Οθόνης 2025 01 09 140828**  
-> **Interactive Data & Source:** [Vortexa](https://www.vortexa.com//oil-gas-data-traders-analysts-data-scientists?gclid=Cj0KCQjw8_qRBhCXARIsAE2AtRZKOvMnbilZ_6_91d7huSFFy71pWLrnPwGwOHVzXsmsG-1a1mZnQw8aAt89EALw_wcB&hsa_acc=1782073842&hsa_ad=548425387665&hsa_cam=14746637662&hsa_grp=125038601902&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_src=g&hsa_tgt=dsa-1431852288425&hsa_ver=3&utm_campaign=%5BCD%5D%20-%20DSA%20-%20EMEA&utm_medium=cpc&utm_medium=ppc&utm_source=google&utm_source=adwords&utm_term=) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-01-09_narrowing-transatlantic-freight-spreads-drives-mr-supply-in-nwe_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_5daaadd32f76.png)
+> **Interactive Data & Source:** [Vortexa](https://www.vortexa.com//oil-gas-data-traders-analysts-data-scientists?gclid=Cj0KCQjw8_qRBhCXARIsAE2AtRZKOvMnbilZ_6_91d7huSFFy71pWLrnPwGwOHVzXsmsG-1a1mZnQw8aAt89EALw_wcB&hsa_acc=1782073842&hsa_ad=548425387665&hsa_cam=14746637662&hsa_grp=125038601902&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_src=g&hsa_tgt=dsa-1431852288425&hsa_ver=3&utm_campaign=%5BCD%5D%20-%20DSA%20-%20EMEA&utm_medium=cpc&utm_medium=ppc&utm_source=google&utm_source=adwords&utm_term=) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-01-09_narrowing-transatlantic-freight-spreads-drives-mr-supply-in-nwe_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_5daaadd32f76.png)
 
 ## Dirty – West of Suez: Ab Aframax Rates Face Supply Headwinds Amidst Fading Year-End Rally in Padd 3 Crude Exports
 
@@ -81,10 +81,10 @@ However, expectations of limited upside on TD25 rates grows, as the number of Af
 
 Additionally, Aframax employment on TA routes may face headwinds as a parallel rise in tonne-mile demand for VLCCs from PADD 3 on the TA route creates competitive pressure on Aframax earning potential
 
-![Στιγμιότυπο Οθόνης 2025 01 09 140839](assets/2025-01-09_narrowing-transatlantic-freight-spreads-drives-mr-supply-in-nwe_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_496db245b10a.png)
+![Στιγμιότυπο Οθόνης 2025 01 09 140839](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-01-09_narrowing-transatlantic-freight-spreads-drives-mr-supply-in-nwe_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_496db245b10a.png)
 
 > **Figure 3: Στιγμιότυπο Οθόνης 2025 01 09 140839**  
-> **Interactive Data & Source:** [Vortexa](https://www.vortexa.com//oil-gas-data-traders-analysts-data-scientists?gclid=Cj0KCQjw8_qRBhCXARIsAE2AtRZKOvMnbilZ_6_91d7huSFFy71pWLrnPwGwOHVzXsmsG-1a1mZnQw8aAt89EALw_wcB&hsa_acc=1782073842&hsa_ad=548425387665&hsa_cam=14746637662&hsa_grp=125038601902&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_src=g&hsa_tgt=dsa-1431852288425&hsa_ver=3&utm_campaign=%5BCD%5D%20-%20DSA%20-%20EMEA&utm_medium=cpc&utm_medium=ppc&utm_source=google&utm_source=adwords&utm_term=) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-01-09_narrowing-transatlantic-freight-spreads-drives-mr-supply-in-nwe_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_496db245b10a.png)
+> **Interactive Data & Source:** [Vortexa](https://www.vortexa.com//oil-gas-data-traders-analysts-data-scientists?gclid=Cj0KCQjw8_qRBhCXARIsAE2AtRZKOvMnbilZ_6_91d7huSFFy71pWLrnPwGwOHVzXsmsG-1a1mZnQw8aAt89EALw_wcB&hsa_acc=1782073842&hsa_ad=548425387665&hsa_cam=14746637662&hsa_grp=125038601902&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_src=g&hsa_tgt=dsa-1431852288425&hsa_ver=3&utm_campaign=%5BCD%5D%20-%20DSA%20-%20EMEA&utm_medium=cpc&utm_medium=ppc&utm_source=google&utm_source=adwords&utm_term=) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-01-09_narrowing-transatlantic-freight-spreads-drives-mr-supply-in-nwe_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_496db245b10a.png)
 
 ## Clean – West of Suez: Narrowing Rate Differential Stems MR Migration From Europe-to-Usgc, Increasing MR Supply in Europe
 
@@ -100,10 +100,10 @@ It is unlikely that MR tonnage will be enticed to the USGC any time soon, as ava
 
 ➔ The cold weather hitting PADD 1 could increase demand for diesel, leading to a higher domestic requirement and less seaborne exports from PADD 3, especially as PADD 3 diesel stocks are very low (EIA)
 
-![Στιγμιότυπο Οθόνης 2025 01 09 140851](assets/2025-01-09_narrowing-transatlantic-freight-spreads-drives-mr-supply-in-nwe_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_b7c3ef861efe.png)
+![Στιγμιότυπο Οθόνης 2025 01 09 140851](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-01-09_narrowing-transatlantic-freight-spreads-drives-mr-supply-in-nwe_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_b7c3ef861efe.png)
 
 > **Figure 4: Στιγμιότυπο Οθόνης 2025 01 09 140851**  
-> **Interactive Data & Source:** [Vortexa](https://www.vortexa.com//oil-gas-data-traders-analysts-data-scientists?gclid=Cj0KCQjw8_qRBhCXARIsAE2AtRZKOvMnbilZ_6_91d7huSFFy71pWLrnPwGwOHVzXsmsG-1a1mZnQw8aAt89EALw_wcB&hsa_acc=1782073842&hsa_ad=548425387665&hsa_cam=14746637662&hsa_grp=125038601902&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_src=g&hsa_tgt=dsa-1431852288425&hsa_ver=3&utm_campaign=%5BCD%5D%20-%20DSA%20-%20EMEA&utm_medium=cpc&utm_medium=ppc&utm_source=google&utm_source=adwords&utm_term=) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-01-09_narrowing-transatlantic-freight-spreads-drives-mr-supply-in-nwe_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_b7c3ef861efe.png)
+> **Interactive Data & Source:** [Vortexa](https://www.vortexa.com//oil-gas-data-traders-analysts-data-scientists?gclid=Cj0KCQjw8_qRBhCXARIsAE2AtRZKOvMnbilZ_6_91d7huSFFy71pWLrnPwGwOHVzXsmsG-1a1mZnQw8aAt89EALw_wcB&hsa_acc=1782073842&hsa_ad=548425387665&hsa_cam=14746637662&hsa_grp=125038601902&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_src=g&hsa_tgt=dsa-1431852288425&hsa_ver=3&utm_campaign=%5BCD%5D%20-%20DSA%20-%20EMEA&utm_medium=cpc&utm_medium=ppc&utm_source=google&utm_source=adwords&utm_term=) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-01-09_narrowing-transatlantic-freight-spreads-drives-mr-supply-in-nwe_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_b7c3ef861efe.png)
 
 Data Source:[Vortexa](https://www.vortexa.com//oil-gas-data-traders-analysts-data-scientists?gclid=Cj0KCQjw8_qRBhCXARIsAE2AtRZKOvMnbilZ_6_91d7huSFFy71pWLrnPwGwOHVzXsmsG-1a1mZnQw8aAt89EALw_wcB&hsa_acc=1782073842&hsa_ad=548425387665&hsa_cam=14746637662&hsa_grp=125038601902&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_src=g&hsa_tgt=dsa-1431852288425&hsa_ver=3&utm_campaign=%5BCD%5D%20-%20DSA%20-%20EMEA&utm_medium=cpc&utm_medium=ppc&utm_source=google&utm_source=adwords&utm_term=)
 

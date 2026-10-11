@@ -86,10 +86,16 @@ For non-professional investors, this means becoming more attentive to the words 
 For business leaders and board members, resilience means increased responsibility. This can also come in the form of asking the right questions.
 
 1. Is my company’s leadership (CEO, CFO, Board) aligned with the notion of Resilience?
+   - Are the right people, internals and externals, in the right place?
 2. Is my company’s capital structure resilient?
+   - Will it need to refinance debt soon, at possibly higher levels?
+   - Will it need to raise money soon, and if so what is the most advantageous market to do so?
 3. Is my company’s operational structure resilient?
+   - Are my supply chains concentrated enough to withstand disruptions in global trade?
 
 i. Are my agents knowledgeable of their respective markets and well-positioned for a fast-paced political and economic environment?
+   - Are there contingency plans to get parts/equipment/services from alternative vendors quickly should the need arise?
+   - Can my technological infrastructure withstand increasingly sophisticated cyber attacks?
 
 1. Is my company keeping up with new technologies in a sensible and profitable way?
 

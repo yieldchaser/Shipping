@@ -36,4 +36,4 @@ While the USTR rules for tankers seem to have been watered down, there is bipart
 
 ![Exhibit 1: Make America Build Ships Again](../../../charts/poten/2025/poten_2025-04-25_make-america-build-ships-again_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2025/poten_2025-04-25_make-america-build-ships-again_chart1.png)
+> **Interactive Asset:** [Local Asset (200 DPI PNG)](../../../charts/poten/2025/poten_2025-04-25_make-america-build-ships-again_chart1.png)

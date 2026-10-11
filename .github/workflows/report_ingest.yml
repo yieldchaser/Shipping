@@ -166,6 +166,8 @@ jobs:
           python -m scripts.parse_engine run --source clarksons --new-only || true
           python -m scripts.parse_engine promote --source clarksons --new-only --apply || true
           python -m scripts.parse_engine series --source clarksons --root data/extracted/md/clarksons --out-dir data/extracted/series --require-engine-schema || true
+          # same-issue re-drops (HSN collection-route names): archive the twin MD, fold its series rows into the canonical
+          python scripts/md_cleanup/twin_guard.py --apply || true
           python scripts/verify/build_corpus_inventory.py --merge-existing || true
           python scripts/sync_extraction_register.py || true
           python scripts/audit/generate_cadence_audit.py || true
@@ -228,6 +230,9 @@ jobs:
             docs/CORPUS_CADENCE_AND_AUDIT.md \
             corpus/CORPUS_PUBLICATION_CADENCE_AND_AUDIT.xlsx \
             data/extracted/md \
+            data/archive/twins \
+            data/derived/twin_documents.json \
+            data/derived/pdf_md5_index.json \
             data/extracted/series \
             data/extracted/EXTRACTION_REGISTER.json \
             docs/EXTRACTION_REGISTER.md; do

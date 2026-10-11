@@ -32,10 +32,18 @@ Freight rates for the benchmark Arabian Gulf - Far East trade are averaging $12,
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: Post-Panamax Stress Disorder](../../../charts/poten/2013/poten_2013-08-23_post-panamax-stress-disorder_chart1.png)
+![Exhibit 1: Panamax Spot Fixtures 2010 - 2013 Est., Dirty Cargo](../../../charts/poten/2013/poten_2013-08-23_post-panamax-stress-disorder_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2013/poten_2013-08-23_post-panamax-stress-disorder_chart1.png)
+> **Exhibit 1: Panamax Spot Fixtures 2010 - 2013 Est., Dirty Cargo**  
+> Unit: No. Fixtures | Total Fixtures Per Year · X-axis: 2010 to 2013 Est.  
+> Series: CAR, UKC, ISEA, MED, WCSA, Total (RHS)  
+> *Source: Poten & Partners*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2013/poten_2013-08-23_post-panamax-stress-disorder_chart1.png)
 
-![Exhibit 2: Post-Panamax Stress Disorder](../../../charts/poten/2013/poten_2013-08-23_post-panamax-stress-disorder_chart2.png)
+![Exhibit 2: LR1 Spot Fixtures 2010 - 2013 Est., Clean Cargo](../../../charts/poten/2013/poten_2013-08-23_post-panamax-stress-disorder_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2013/poten_2013-08-23_post-panamax-stress-disorder_chart2.png)
+> **Exhibit 2: LR1 Spot Fixtures 2010 - 2013 Est., Clean Cargo**  
+> Unit: No. Fixtures | Total Fixtures Per Year · X-axis: 2010 to 2013 Est.  
+> Series: AG, SOUTH ASIA, UKC, FE, RS, Total (RHS)  
+> *Source: Poten & Partners*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2013/poten_2013-08-23_post-panamax-stress-disorder_chart2.png)

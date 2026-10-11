@@ -55,10 +55,10 @@ Shipfix’s forward-looking cargo orders provide support for the notion that the
 
 With less than a week left of February, the total for the month looks unlikely to match January's reading or, indeed, the same month last year. Hence, the data may indicate that the world’s largest economy is starting to feel the effects of recent months’ interest rate hikes.
 
-![Market Chart 1](assets/2023-02-24_shipfix-global-market-update_img_unnamed-2023-02-24t102906627_4eef576e883d.png)
+![Market Chart 1](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-02-24_shipfix-global-market-update_img_unnamed-2023-02-24t102906627_4eef576e883d.png)
 
 > **Figure 1: Market Chart 1**  
-> **Interactive Data & Source:** [Shipfix](https://shipfix.com/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-02-24_shipfix-global-market-update_img_unnamed-2023-02-24t102906627_4eef576e883d.png)
+> **Interactive Data & Source:** [Shipfix](https://shipfix.com/) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-02-24_shipfix-global-market-update_img_unnamed-2023-02-24t102906627_4eef576e883d.png)
 
 A thaw in diplomatic relations between China and Australia and an increasing focus on economic growth in the world’s second-largest economy has resulted in an easing of the previous restrictions on imports of Australian coal.
 

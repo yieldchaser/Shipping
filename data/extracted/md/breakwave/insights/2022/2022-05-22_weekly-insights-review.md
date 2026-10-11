@@ -31,17 +31,17 @@ The transition of the shipping industry to green future is in full force with 63
 
 [Read More](https://www.breakwaveadvisors.com/insights/2022/5/16/shipping-decarbonization-weekly-insights)
 
-![Unsplash Image Dcyrvs41c9y](assets/2022-05-22_weekly-insights-review_img_unsplash-image-dcyrvs41c9y_3f7251c4bef2.jpg)
+![Unsplash Image Dcyrvs41c9y](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-05-22_weekly-insights-review_img_unsplash-image-dcyrvs41c9y_3f7251c4bef2.jpg)
 
 > **Figure 1: Unsplash Image Dcyrvs41c9y**  
-> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2022/5/17/the-big-picture-iron-ore-improving) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-05-22_weekly-insights-review_img_unsplash-image-dcyrvs41c9y_3f7251c4bef2.jpg)
+> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2022/5/17/the-big-picture-iron-ore-improving) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-05-22_weekly-insights-review_img_unsplash-image-dcyrvs41c9y_3f7251c4bef2.jpg)
 
 ## The Big Picture: Iron Ore Improving
 
-![Unsplash Image Li Uksslyje](assets/2022-05-22_weekly-insights-review_img_unsplash-image-li-uksslyje_cba7177e00b0.jpg)
+![Unsplash Image Li Uksslyje](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-05-22_weekly-insights-review_img_unsplash-image-li-uksslyje_cba7177e00b0.jpg)
 
 > **Figure 2: Unsplash Image Li Uksslyje**  
-> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2022/5/17/the-big-picture-iron-ore-improving) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-05-22_weekly-insights-review_img_unsplash-image-li-uksslyje_cba7177e00b0.jpg)
+> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2022/5/17/the-big-picture-iron-ore-improving) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-05-22_weekly-insights-review_img_unsplash-image-li-uksslyje_cba7177e00b0.jpg)
 
 ## Shipments Growing in May
 
@@ -49,10 +49,10 @@ As weather in Brazil starts to subside and the end of the financial year for sev
 
 [Read More](https://www.breakwaveadvisors.com/insights/2022/5/17/the-big-picture-iron-ore-improving)
 
-![Unsplash Image Zlayqbb36ts](assets/2022-05-22_weekly-insights-review_img_unsplash-image-zlayqbb36ts_a7a61e693e70.jpg)
+![Unsplash Image Zlayqbb36ts](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-05-22_weekly-insights-review_img_unsplash-image-zlayqbb36ts_a7a61e693e70.jpg)
 
 > **Figure 3: Unsplash Image Zlayqbb36ts**  
-> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2022/5/19/preliminary-202223-grain-trade-forecast) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-05-22_weekly-insights-review_img_unsplash-image-zlayqbb36ts_a7a61e693e70.jpg)
+> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2022/5/19/preliminary-202223-grain-trade-forecast) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-05-22_weekly-insights-review_img_unsplash-image-zlayqbb36ts_a7a61e693e70.jpg)
 
 ## Preliminary 2022/23 Grain Trade Forecast
 
@@ -61,10 +61,10 @@ As weather in Brazil starts to subside and the end of the financial year for sev
 The United States Department of Agriculture (USDA) recently released their first global grain export forecast for the upcoming 2022/23 season. The forecast is still very preliminary, but of note is that only 487.3 million tons of exports are expected.
 [Read More](https://www.breakwaveadvisors.com/insights/2022/5/19/preliminary-202223-grain-trade-forecast)
 
-![Unsplash Image Gfadxp32uv4](assets/2022-05-22_weekly-insights-review_img_unsplash-image-gfadxp32uv4_52ee22f0c40e.jpg)
+![Unsplash Image Gfadxp32uv4](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-05-22_weekly-insights-review_img_unsplash-image-gfadxp32uv4_52ee22f0c40e.jpg)
 
 > **Figure 4: Unsplash Image Gfadxp32uv4**  
-> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2022/4/15/seaborne-coal-due-for-a-shakeup) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-05-22_weekly-insights-review_img_unsplash-image-gfadxp32uv4_52ee22f0c40e.jpg)
+> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2022/4/15/seaborne-coal-due-for-a-shakeup) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-05-22_weekly-insights-review_img_unsplash-image-gfadxp32uv4_52ee22f0c40e.jpg)
 
 ## Dry Bulk Newbuilding Review: The Spring Sentiment
 
@@ -73,10 +73,10 @@ Shipping News Update
 Amid a climate of increased uncertainty fuelled by a variety of admittedly worrying factors, investors’ appetite for newbuilding orders in the dry bulk segment remains relatively controlled, thus offering ground for low fleet growth and utilization projections.
 [Read More](https://www.breakwaveadvisors.com/insights/2022/4/15/seaborne-coal-due-for-a-shakeup)
 
-![Unsplash Image 9dohz7wjvdm](assets/2022-05-22_weekly-insights-review_img_unsplash-image-9dohz7wjvdm_cda0b014016a.jpg)
+![Unsplash Image 9dohz7wjvdm](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-05-22_weekly-insights-review_img_unsplash-image-9dohz7wjvdm_cda0b014016a.jpg)
 
 > **Figure 5: Unsplash Image 9dohz7wjvdm**  
-> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2022/5/20/taking-stock-of-gender-diversity-in-shipping-for-womens-history-month) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-05-22_weekly-insights-review_img_unsplash-image-9dohz7wjvdm_cda0b014016a.jpg)
+> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2022/5/20/taking-stock-of-gender-diversity-in-shipping-for-womens-history-month) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-05-22_weekly-insights-review_img_unsplash-image-9dohz7wjvdm_cda0b014016a.jpg)
 
 ## Taking Stock of Gender Diversity in Shipping for Women’s History Month
 
@@ -87,10 +87,10 @@ In October of 1974, five previously all-male colleges of the University of Oxfor
 
 ## Metals Rebound As Focus Returns to Tight Supplies and Stimulus Measures
 
-![Unsplash Image Wtxlry3nnto](assets/2022-05-22_weekly-insights-review_img_unsplash-image-wtxlry3nnto_27958a20b8ea.jpg)
+![Unsplash Image Wtxlry3nnto](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-05-22_weekly-insights-review_img_unsplash-image-wtxlry3nnto_27958a20b8ea.jpg)
 
 > **Figure 6: Unsplash Image Wtxlry3nnto**  
-> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2022/4/16/q1-2022-tonne-mile-review) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-05-22_weekly-insights-review_img_unsplash-image-wtxlry3nnto_27958a20b8ea.jpg)
+> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2022/4/16/q1-2022-tonne-mile-review) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-05-22_weekly-insights-review_img_unsplash-image-wtxlry3nnto_27958a20b8ea.jpg)
 
 ## Investors Shrugged Off Concerns of Weaker Economic Growth
 
@@ -102,10 +102,10 @@ As we move into the second quarter of this year, we analyse the effects of recen
 
 ## Losing Around 25% of the Value on the Most Heavily Traded Route Worldwide
 
-![1](assets/2022-05-22_weekly-insights-review_img_1_a6f53bb13b27.jpg)
+![1](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-05-22_weekly-insights-review_img_1_a6f53bb13b27.jpg)
 
 > **Figure 7: 1**  
-> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2022/5/20/turbulent-seas-for-the-vlccs) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-05-22_weekly-insights-review_img_1_a6f53bb13b27.jpg)
+> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2022/5/20/turbulent-seas-for-the-vlccs) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-05-22_weekly-insights-review_img_1_a6f53bb13b27.jpg)
 
 After a short-lived spike during the start of April, VLCC rates have tumbled, losing around 25% of the value on the most heavily traded route worldwide.
 [Read More](https://www.breakwaveadvisors.com/insights/2022/5/20/turbulent-seas-for-the-vlccs)

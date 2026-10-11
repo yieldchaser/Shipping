@@ -59,9 +59,9 @@ Following a recovery at the beginning of September, global aggregate weekly orde
 
 An increase in vessel supply also contributed to the relative weakness of the Panamaxes. While the supply weakened somewhat in the Atlantic and the Indian Ocean last week, it continued to trend higher in the Pacific, contributing to higher global availability of vessels. Hence, activities in the Pacific may continue to weigh on the Panamaxes.
 
-![Market Chart 1](assets/2023-09-26_shipfix-global-market-update_img_unnamed-2023-09-26t100723286_63f0849523be.png)
+![Market Chart 1](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-09-26_shipfix-global-market-update_img_unnamed-2023-09-26t100723286_63f0849523be.png)
 
 > **Figure 1: Market Chart 1**  
-> **Interactive Data & Source:** [Shipfix](https://shipfix.com/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-09-26_shipfix-global-market-update_img_unnamed-2023-09-26t100723286_63f0849523be.png)
+> **Interactive Data & Source:** [Shipfix](https://shipfix.com/) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-09-26_shipfix-global-market-update_img_unnamed-2023-09-26t100723286_63f0849523be.png)
 
 Data Source:[Shipfix](https://shipfix.com/)

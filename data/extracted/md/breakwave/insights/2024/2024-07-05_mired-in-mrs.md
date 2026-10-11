@@ -20,10 +20,10 @@ source_file: "corpus/03-breakwave/insights/2024/2024-07-05_mired-in-mrs.html"
 
 ---
 
-![Στιγμιότυπο Οθόνης 2024 07 05 095300](assets/2024-07-05_mired-in-mrs_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_1b8893120651.png)
+![Στιγμιότυπο Οθόνης 2024 07 05 095300](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-07-05_mired-in-mrs_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_1b8893120651.png)
 
 > **Figure 1: Στιγμιότυπο Οθόνης 2024 07 05 095300**  
-> **Interactive Data & Source:** [Gibsons Co](https://www.gibsons.co.uk/market-reports) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-07-05_mired-in-mrs_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_1b8893120651.png)
+> **Interactive Data & Source:** [Gibsons Co](https://www.gibsons.co.uk/market-reports) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-07-05_mired-in-mrs_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_1b8893120651.png)
 
 MR tankers, the workhorses of both the clean and occasionally dirty product markets form the largest segment of the tanker industry. They are essential for the overall functioning of the market, making a detailed analysis of MR supply crucial for understanding tanker market dynamics.
 
@@ -37,10 +37,10 @@ Structural changes in clean tanker flows due to sanctions on Russia are likely t
 
 The exact effects of these demand-side developments are yet to play out. On supply side, however, the picture is much clearer: unless the orderbook continues to grow, the size of the fleet under 20 years of age will continue to shrink.
 
-![Στιγμιότυπο Οθόνης 2024 07 05 095602](assets/2024-07-05_mired-in-mrs_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_340d8003659d.png)
+![Στιγμιότυπο Οθόνης 2024 07 05 095602](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-07-05_mired-in-mrs_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_340d8003659d.png)
 
 > **Figure 2: Στιγμιότυπο Οθόνης 2024 07 05 095602**  
-> **Interactive Data & Source:** [Gibsons Co](https://www.gibsons.co.uk/market-reports) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-07-05_mired-in-mrs_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_340d8003659d.png)
+> **Interactive Data & Source:** [Gibsons Co](https://www.gibsons.co.uk/market-reports) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-07-05_mired-in-mrs_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_340d8003659d.png)
 
 Data source:[Gibson Shipbrokers](https://www.gibsons.co.uk/market-reports)
 

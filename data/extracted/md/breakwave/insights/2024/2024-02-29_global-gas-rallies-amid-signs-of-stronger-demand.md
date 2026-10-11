@@ -24,11 +24,11 @@ source_file: "corpus/03-breakwave/insights/2024/2024-02-29_global-gas-rallies-am
 
 *By*[*Daniel Hynes*](https://www.linkedin.com/in/dahynes/)
 
-![Iron Orefutures Resumed Their Slide](assets/2024-02-29_global-gas-rallies-amid-signs-of-stronger-demand_img_screenshot2024-02-29095826_d59a589d8af1.png)
+![Iron Orefutures Resumed Their Slide](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-02-29_global-gas-rallies-amid-signs-of-stronger-demand_img_screenshot2024-02-29095826_d59a589d8af1.png)
 
 > **Figure 1: Iron Orefutures Resumed Their Slide**  
 > *Iron orefutures resumed their slide, as doubts over a rebound in China persist. The country is entering its peak construction period, but there is little sign of steelmakers increasing output. The state-backed newspaper,Economic Dailycalled for authorities to use monetary and financial regulatory tools to support the economy, in a sign that growth remains weak.*  
-> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-02-29_global-gas-rallies-amid-signs-of-stronger-demand_img_screenshot2024-02-29095826_d59a589d8af1.png)
+> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-02-29_global-gas-rallies-amid-signs-of-stronger-demand_img_screenshot2024-02-29095826_d59a589d8af1.png)
 
 **Crude oil**was little changed as higher inventories tempered optimism of tighter supplies in recent weeks. US crude oil inventories rose 4.2mbbl last week, according to Energy Information Administration data. While this was smaller than the 8.4mbbl increase another industry report projected earlier in the week, it still indicates the market may not be as tight as originally thought. Prices have been steadily climbing in recent weeks amid signs of tightness. In a bullish signal, physical spot prices are rising faster than longer dated futures. The recent moves have also been supported by supply cuts from OPEC and its allies. A Bloomberg survey indicates most are expecting the group to extend the current supply agreement into the second quarter. The group is scheduled to meet in early March to discuss its strategy. Concerns over Chinese demand may help it make that decision. China National Petroleum Corp said it expects China’s consumption to rise only 1% this year to 764mt on a softer economy.
 

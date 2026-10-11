@@ -36,6 +36,7 @@ Enough about tankers, let's talk about the dry bulk market...
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: Happy Thanksgiving!](../../../charts/poten/2007/poten_2007-11-21_happy-thanksgiving_chart1.png)
-
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2007/poten_2007-11-21_happy-thanksgiving_chart1.png)
+> **Chart on PDF page 1: Poten Tanker Index vs Equity Index**  
+> X-axis: Jan-2002 to Jan-2007  
+> Series: Poten Tanker Freight Index, Equity Index  
+> *No image crop of this chart was saved; caption read from the PDF.*

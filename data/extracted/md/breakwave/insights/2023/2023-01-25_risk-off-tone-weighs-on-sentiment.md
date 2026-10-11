@@ -23,10 +23,10 @@ source_file: "corpus/03-breakwave/insights/2023/2023-01-25_risk-off-tone-weighs-
 
 A risk off tone across markets weighed on sentiment across the commodity sector. Profit taking ensued, with the energy sector experiencing the biggest losses.
 
-![1674594783717](assets/2023-01-25_risk-off-tone-weighs-on-sentiment_img_1674594783717_0e7c31ca03b6.png)
+![1674594783717](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-01-25_risk-off-tone-weighs-on-sentiment_img_1674594783717_0e7c31ca03b6.png)
 
 > **Figure 1: 1674594783717**  
-> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-01-25_risk-off-tone-weighs-on-sentiment_img_1674594783717_0e7c31ca03b6.png)
+> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-01-25_risk-off-tone-weighs-on-sentiment_img_1674594783717_0e7c31ca03b6.png)
 
 **Crude oil**fell amid a bearish tone across broader asset classes. Sentiment was weaker following a slew of companies reporting weak quarterly results. This follows mixed economic data in recent weeks. The sell-off was constrained by expectations of a strong rebound in demand from China, the world’s largest crude importer. Consensus forecast for growth in 2023 sits at 800kb/d, according to Bloomberg data. This presents an issue for the OPEC+ alliance. Delegates are expecting an advisory committee of ministers to recommended keeping oil production unchanged when they meet next week. Uncertainty around Chinese demand in the short term remains the main issues. They are also waiting for more clarity on the impact of sanctions on Russia supply. In the US, gasoline prices are rising earlier than usual this year amid meagre inventories and higher than normal refinery maintenance. According to the AAA, it averaged USD3.446/gallon on Monday, its highest level ever for this time of the year.
 

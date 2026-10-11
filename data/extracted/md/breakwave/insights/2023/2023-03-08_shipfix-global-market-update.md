@@ -55,9 +55,9 @@ The past year has also seen increased demand for seaborne transportation of Russ
 
 Average cargo sizes have been trending higher over the past two years for the Russian fertiliser trade out of the Baltic Sea. During the period, the average size increased from around 20,000 to 30,000 tonnes across all shipments. In contrast, the monthly averages for cargoes bound for India have been volatile, and after remaining high in the past year, they have been under pressure in recent months.
 
-![Market Chart 1](assets/2023-03-08_shipfix-global-market-update_img_unnamed-2023-03-08t155600268_e70fb08b53be.png)
+![Market Chart 1](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-03-08_shipfix-global-market-update_img_unnamed-2023-03-08t155600268_e70fb08b53be.png)
 
 > **Figure 1: Market Chart 1**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-03-08_shipfix-global-market-update_img_unnamed-2023-03-08t155600268_e70fb08b53be.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-03-08_shipfix-global-market-update_img_unnamed-2023-03-08t155600268_e70fb08b53be.png)
 
 A thaw in diplomatic relations between China and Australia and an increasing focus on economic growth in the world’s second-largest economy has resulted in an easing of the previous restrictions on imports of Australian coal.

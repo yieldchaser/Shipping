@@ -34,4 +34,4 @@ If Iranian crude is replaced by crude oil from Saudi Arabia and the U.A.E., the 
 
 ![Exhibit 1: Waivers No More](../../../charts/poten/2019/poten_2019-04-26_waivers-no-more_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2019/poten_2019-04-26_waivers-no-more_chart1.png)
+> **Interactive Asset:** [Local Asset (200 DPI PNG)](../../../charts/poten/2019/poten_2019-04-26_waivers-no-more_chart1.png)

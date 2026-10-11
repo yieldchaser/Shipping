@@ -31,10 +31,10 @@ Signal Ocean has long held deep respect for the market structure and dynamics of
 "We have immense respect for AXSMarine’ s achievements - both in the strength of its products, like AXSDry and Alphaliner, and its position in the market" said Ioannis Martinos, CEO of Signal Ocean. "This investment and partnership is rooted in a shared vision: to build technology and provide quality data that enhance the way our industry operates. Together, we aim to push the boundaries of innovation, deepen collaboration across market participants, and deliver solutions that truly serve the community across prefixing, postfixing and commodities tracking. For our clients, this will mean more robust data and faster feature development". The combined product portfolio extends beyond the primary offerings to also include AXSMarine affiliate Next Voyage Maritime Pte. and Signal Ocean affiliate Shiplex S.A., who develop voyage and ship management ERP solutions. Together, the group now supports a community of more than 1,500 clients.
 
 
-![6979ef140e7c1ae7814ae5fc Ioannis Gilbert Land](../../images/6979ef140e7c1ae7814ae5fc_Ioannis-_Gilbert_land.png)
+![6979ef140e7c1ae7814ae5fc Ioannis Gilbert Land](../../../../../../corpus/07-signal/images/6979ef140e7c1ae7814ae5fc_Ioannis-_Gilbert_land.png)
 
 > **Figure 1: 6979ef140e7c1ae7814ae5fc Ioannis Gilbert Land**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/signal-acquires-axsmarine) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6979ef140e7c1ae7814ae5fc_Ioannis-_Gilbert_land.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/signal-acquires-axsmarine) | [Local Asset](../../../../../../corpus/07-signal/images/6979ef140e7c1ae7814ae5fc_Ioannis-_Gilbert_land.png)
 
 Signal Ocean also reaffirmed the importance of its broader network of partnerships, including its valued relationship with BRS, a leading shipbroking group which remains a long-term satisfied client of both the Signal Ocean and AXSMarine solutions. The companies will continue developing and strengthening their partnership to create greater alignment and improve efficiency for users across the sector.
 

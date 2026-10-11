@@ -34,6 +34,10 @@ To determine what may happen after the refinery strikes end, it is instructive t
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: Force Majeure In France](../../../charts/poten/2016/poten_2016-05-27_force-majeure-in-france_chart1.png)
+![Exhibit 1: French Refined Product Imports 2010/2011 by Origin](../../../charts/poten/2016/poten_2016-05-27_force-majeure-in-france_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2016/poten_2016-05-27_force-majeure-in-france_chart1.png)
+> **Exhibit 1: French Refined Product Imports 2010/2011 by Origin**  
+> Unit: Ktons/month · X-axis: Jan2010 to Feb2011  
+> Series: UKC, AG, CAR+ S. Ame., FE, MED, SEA, SOUTH ASIA, N. America  
+> *Source: IEA*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2016/poten_2016-05-27_force-majeure-in-france_chart1.png)

@@ -56,6 +56,8 @@ Let us not forget, spot market rates have stayed relatively firm further helping
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: Tanker Stocks Running Aground](../../../charts/poten/2008/poten_2008-10-10_tanker-stocks-running-aground_chart1.png)
-
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2008/poten_2008-10-10_tanker-stocks-running-aground_chart1.png)
+> **Chart on PDF page 1: Change in Equity Prices**  
+> Unit: Price Relative to Month Ago (%) · X-axis: 9/10/08 to 10/10/08  
+> Series: OSG, FRO, TK, VLCCF, TNP, GMR  
+> *Source: Poten & Bloomberg*  
+> *No image crop of this chart was saved; caption read from the PDF.*

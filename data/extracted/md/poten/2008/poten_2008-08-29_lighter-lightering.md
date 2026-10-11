@@ -62,6 +62,8 @@ The capital expenses associated with the TOPS are estimated at $1.8 billion. So 
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: Lighter Lightering?](../../../charts/poten/2008/poten_2008-08-29_lighter-lightering_chart1.png)
-
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2008/poten_2008-08-29_lighter-lightering_chart1.png)
+> **Chart on PDF page 1: Gulf Coast (PADD 3) Crude Oil Imports**  
+> Unit: Thousand Barrels Per Day · X-axis: 1999 to 2011  
+> Series: Annual Average  
+> *Source: EIA/Poten & Partners*  
+> *No image crop of this chart was saved; caption read from the PDF.*

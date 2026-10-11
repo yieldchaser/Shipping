@@ -20,10 +20,10 @@ source_file: "corpus/03-breakwave/insights/2024/2024-05-30_opecs-dilemma.html"
 
 ---
 
-![Reports](assets/2024-05-30_opecs-dilemma_img_reports_01511b1adf0e.jpg)
+![Reports](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-05-30_opecs-dilemma_img_reports_01511b1adf0e.jpg)
 
 > **Figure 1: Reports**  
-> **Interactive Data & Source:** [Gibsons Co](https://www.gibsons.co.uk/market-reports) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-05-30_opecs-dilemma_img_reports_01511b1adf0e.jpg)
+> **Interactive Data & Source:** [Gibsons Co](https://www.gibsons.co.uk/market-reports) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-05-30_opecs-dilemma_img_reports_01511b1adf0e.jpg)
 
 Oil markets once again are carefully watching for any comments from OPEC+ officials, with speculation building what the group will decide during their upcoming meeting on June 2nd. Will OPEC+ continue with their current production cuts or will they cut further, allowing non-OPEC members to grab an even larger market share? Alternatively, what are the chances of any easing in voluntary production cuts, particularly for countries that are in need of increasing their revenue stream? The importance of OPEC+ for the crude tanker market should not be understated, with all member states accounting for 41.3 bpd or 41% of global supply in April 2024.
 
@@ -35,10 +35,10 @@ On the supply side, non-OPEC+ supply is expected to rise by 1.4 mbd in 2024, acc
 
 However, the reality appears different. Brent prices are trading around $81-83/bbl, after averaging $89/bbl in April as concerns over geopolitical tensions in the Middle East ease. The downward trend in oil prices suggests a current oversupply, and the faltering demand growth supports this notion further. As such, the prevailing market fundamentals may deter OPEC+ from loosening their existing production cuts too soon.
 
-![Στιγμιότυπο Οθόνης 2024 05 30 111519](assets/2024-05-30_opecs-dilemma_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_06ef4a2bac91.png)
+![Στιγμιότυπο Οθόνης 2024 05 30 111519](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-05-30_opecs-dilemma_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_06ef4a2bac91.png)
 
 > **Figure 2: Στιγμιότυπο Οθόνης 2024 05 30 111519**  
-> **Interactive Data & Source:** [Gibsons Co](https://www.gibsons.co.uk/market-reports) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-05-30_opecs-dilemma_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_06ef4a2bac91.png)
+> **Interactive Data & Source:** [Gibsons Co](https://www.gibsons.co.uk/market-reports) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-05-30_opecs-dilemma_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_06ef4a2bac91.png)
 
 Data source:[Gibson Shipbrokers](https://www.gibsons.co.uk/market-reports)
 

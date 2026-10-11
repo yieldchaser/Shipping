@@ -32,8 +32,8 @@ While there are other pipelines on the drawing board, most of these are just in 
 
 ![Exhibit 1: Pipe Dreams](../../../charts/poten/2015/poten_2015-02-06_pipe-dreams_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2015/poten_2015-02-06_pipe-dreams_chart1.png)
+> **Interactive Asset:** [Local Asset (200 DPI PNG)](../../../charts/poten/2015/poten_2015-02-06_pipe-dreams_chart1.png)
 
 ![Exhibit 2: Pipe Dreams](../../../charts/poten/2015/poten_2015-02-06_pipe-dreams_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2015/poten_2015-02-06_pipe-dreams_chart2.png)
+> **Interactive Asset:** [Local Asset (200 DPI PNG)](../../../charts/poten/2015/poten_2015-02-06_pipe-dreams_chart2.png)

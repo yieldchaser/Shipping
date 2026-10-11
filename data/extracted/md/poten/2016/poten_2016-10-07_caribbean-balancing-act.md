@@ -32,10 +32,18 @@ Over the last 15 years, this region has developed into a growing VLCC region wit
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: Caribbean Balancing Act](../../../charts/poten/2016/poten_2016-10-07_caribbean-balancing-act_chart1.png)
+![Exhibit 1: VLCC Exports from Caribbean vs Regional Imports (2015 / 2016)](../../../charts/poten/2016/poten_2016-10-07_caribbean-balancing-act_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2016/poten_2016-10-07_caribbean-balancing-act_chart1.png)
+> **Exhibit 1: VLCC Exports from Caribbean vs Regional Imports (2015 / 2016)**  
+> Unit: Voyages · X-axis: Venezuela to Caribbean  
+> Series: 2015, 2016  
+> *Source: Lloyds List Intelligence*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2016/poten_2016-10-07_caribbean-balancing-act_chart1.png)
 
-![Exhibit 2: Caribbean Balancing Act](../../../charts/poten/2016/poten_2016-10-07_caribbean-balancing-act_chart2.png)
+![Exhibit 2: VLCC Spot Rates (270,000 t) AG - U.S. Gulf vs Caribbean – SE Asia](../../../charts/poten/2016/poten_2016-10-07_caribbean-balancing-act_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2016/poten_2016-10-07_caribbean-balancing-act_chart2.png)
+> **Exhibit 2: VLCC Spot Rates (270,000 t) AG - U.S. Gulf vs Caribbean – SE Asia**  
+> Unit: $/day · X-axis: Jan-15 to Oct-16  
+> Series: Spread, Ras Tanura - LOOP, Puerto La Cruz - Singapore  
+> *Source: Poten & Partners*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2016/poten_2016-10-07_caribbean-balancing-act_chart2.png)

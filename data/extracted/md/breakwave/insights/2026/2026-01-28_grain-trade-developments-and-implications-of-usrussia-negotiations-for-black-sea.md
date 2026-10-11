@@ -72,10 +72,10 @@ Based on weekly export tracking data comparing January 2026 with January 2025 pr
 
 • No January 2026 week exceeded 600,000 tonnes
 
-![Στιγμιότυπο Οθόνης 2026 01 28 100015](assets/2026-01-28_grain-trade-developments-and-implications-of-usrussia-negotiations-for-black-sea_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_a750807526cd.png)
+![Στιγμιότυπο Οθόνης 2026 01 28 100015](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-01-28_grain-trade-developments-and-implications-of-usrussia-negotiations-for-black-sea_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_a750807526cd.png)
 
 > **Figure 1: Στιγμιότυπο Οθόνης 2026 01 28 100015**  
-> **Interactive Data & Source:** [Allied-shipbroking](https://www.allied-shipbroking.gr/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-01-28_grain-trade-developments-and-implications-of-usrussia-negotiations-for-black-sea_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_a750807526cd.png)
+> **Interactive Data & Source:** [Allied-shipbroking](https://www.allied-shipbroking.gr/) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-01-28_grain-trade-developments-and-implications-of-usrussia-negotiations-for-black-sea_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_a750807526cd.png)
 
 ### Looking Ahead: Market Context
 

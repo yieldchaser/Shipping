@@ -60,53 +60,53 @@ We are entering a new era of global de-synchronisation. Market and economic de-s
 
 Decisions by the US Federal Reserve and the European Central Bank last week tell us not just a story of interest rates, but how different regions see their futures diverging. The thinking is that, over the short and medium term, trade wars and a crackdown on immigration will likely result in upward inflation pressures in the US. While the IMF and various institutions see also real GDP acceleration, we would be a bit more reserved on the economic growth side of things. Yes, drumming up domestic production, deregulation and lower corporate taxes may spur growth enough to counterbalance the disturbance, but this will take time to play out. Bond markets are not pricing in significantly higher inflation, so yields could climb further, reducing fiscal space more immediately, while higher inflation may eat into nominal growth.**So, for the short-term, we see likely higher inflation, despite last week’s benign core Personal Consumption Expenditure number which, however, reflects a previous economic paradigm, and we have questions over medium-term growth in the world’s largest economy.**
 
-![Market Chart 1](assets/2025-02-04_began-the-trade-wars-have-what-it-means-for-portfolios-and-businesses_img_image007_6f294d9a39b7.jpg)
+![Market Chart 1](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-02-04_began-the-trade-wars-have-what-it-means-for-portfolios-and-businesses_img_image007_6f294d9a39b7.jpg)
 
 > **Figure 1: Market Chart 1**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-02-04_began-the-trade-wars-have-what-it-means-for-portfolios-and-businesses_img_image007_6f294d9a39b7.jpg)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-02-04_began-the-trade-wars-have-what-it-means-for-portfolios-and-businesses_img_image007_6f294d9a39b7.jpg)
 
 Over the short term, this could boost domestic demand, but it will likely cause a lot of issues for US large caps who have 41% of earnings from abroad. Not only will manufacturing likely face serious importing issues and margin pressures, but it is not inconceivable that US companies will find themselves in a more hostile environment abroad if tariffs are already imposed. A threat carried out or repeated on every subject is not an effective deterrent. This is not likely reflected in present valuations which, for US large caps, trade at the top 10% of their historic valuations, despite last week’s Nvidia correction.
 
-![Market Chart 2](assets/2025-02-04_began-the-trade-wars-have-what-it-means-for-portfolios-and-businesses_img_image008_fb8c9934a436.jpg)
+![Market Chart 2](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-02-04_began-the-trade-wars-have-what-it-means-for-portfolios-and-businesses_img_image008_fb8c9934a436.jpg)
 
 > **Figure 2: Market Chart 2**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-02-04_began-the-trade-wars-have-what-it-means-for-portfolios-and-businesses_img_image008_fb8c9934a436.jpg)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-02-04_began-the-trade-wars-have-what-it-means-for-portfolios-and-businesses_img_image008_fb8c9934a436.jpg)
 
 The EU, is going a different way. Disinflationary pressures are stronger, with wages not nearly as adaptable as in Anglo-Saxon economies, and China finding more fertile ground to sell goods at lower prices.
 
 Meanwhile, tariffs on US exports will likely reduce demand for goods, political uncertainty in France and Germany and persistent centrifugal EU forces are not conducive to growth, which the IMF has consistently downgraded over the past year.
 
-![Market Chart 3](assets/2025-02-04_began-the-trade-wars-have-what-it-means-for-portfolios-and-businesses_img_image009_db20f80f8a36.jpg)
+![Market Chart 3](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-02-04_began-the-trade-wars-have-what-it-means-for-portfolios-and-businesses_img_image009_db20f80f8a36.jpg)
 
 > **Figure 3: Market Chart 3**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-02-04_began-the-trade-wars-have-what-it-means-for-portfolios-and-businesses_img_image009_db20f80f8a36.jpg)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-02-04_began-the-trade-wars-have-what-it-means-for-portfolios-and-businesses_img_image009_db20f80f8a36.jpg)
 
 Tariffs may well increase EU inflation over the longer term, as global supply chains stand to be disrupted again. However, it is a different sort of disruption at the origin (China) and at the endpoint (US) so we could see a very different situation than during the pandemic.
 
 Thus, it is no wonder that central banks diverged, with the Fed taking a hawkish stance and maintaining rates (over the President’s vocal objections) while the ECB dovishly chose to support the beleaguered single currency area and may well do so again.
 
-![Market Chart 4](assets/2025-02-04_began-the-trade-wars-have-what-it-means-for-portfolios-and-businesses_img_image010_8b35fd2b8f07.jpg)
+![Market Chart 4](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-02-04_began-the-trade-wars-have-what-it-means-for-portfolios-and-businesses_img_image010_8b35fd2b8f07.jpg)
 
 > **Figure 4: Market Chart 4**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-02-04_began-the-trade-wars-have-what-it-means-for-portfolios-and-businesses_img_image010_8b35fd2b8f07.jpg)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-02-04_began-the-trade-wars-have-what-it-means-for-portfolios-and-businesses_img_image010_8b35fd2b8f07.jpg)
 
 If there’s anything holding it back, it is the potential for capital flight if interest rates widen too much, but Christine Lagarde seems to prioritise shielding the EU and the Euro at the current juncture.
 
 As for the BoE? The UK’s central bank is in a bind. On the one hand, it faces persistent wage inflation. On the other, growth has been lacklustre, and with its main trading partner, the EU, in the doldrums and the other boarding up the trade gates, as well as higher inflation reducing fiscal space, GDP upside is limited.
 
-![Market Chart 5](assets/2025-02-04_began-the-trade-wars-have-what-it-means-for-portfolios-and-businesses_img_image011_f0f17d154165.jpg)
+![Market Chart 5](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-02-04_began-the-trade-wars-have-what-it-means-for-portfolios-and-businesses_img_image011_f0f17d154165.jpg)
 
 > **Figure 5: Market Chart 5**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-02-04_began-the-trade-wars-have-what-it-means-for-portfolios-and-businesses_img_image011_f0f17d154165.jpg)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-02-04_began-the-trade-wars-have-what-it-means-for-portfolios-and-businesses_img_image011_f0f17d154165.jpg)
 
 ### Conclusions
 
 As political and economic rifts widen, the global economy diverges. The US is on a path to inflationary expansion, the EU on a disinflationary slowdown, and the UK on a stagflation one. Yet if inflation pulls up globally, stagflation could become a reality for all developed markets. Monetary and even fiscal policy can only do so much in the face of such a megatrend as the reordering of globalisation and the post-WWII world order and the uncertainty this brings. Such a reordering may not happen in the space of months but could take years to complete, on a road with many twists and turns.
 
-![Market Chart 6](assets/2025-02-04_began-the-trade-wars-have-what-it-means-for-portfolios-and-businesses_img_image012_5097325ee808.jpg)
+![Market Chart 6](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-02-04_began-the-trade-wars-have-what-it-means-for-portfolios-and-businesses_img_image012_5097325ee808.jpg)
 
 > **Figure 6: Market Chart 6**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-02-04_began-the-trade-wars-have-what-it-means-for-portfolios-and-businesses_img_image012_5097325ee808.jpg)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-02-04_began-the-trade-wars-have-what-it-means-for-portfolios-and-businesses_img_image012_5097325ee808.jpg)
 
 What should investors do? Take a look up and see that chips are in the air and that is very difficult to say where they will land. Simply put, portfolio managers need to look beyond the benign picture of global equity and bond markets and recognise that systemic risks are on the rise. We live in a different world now than we did a decade ago, or maybe even three weeks ago.. So steps can be taken to manage risks within portfolios.
 

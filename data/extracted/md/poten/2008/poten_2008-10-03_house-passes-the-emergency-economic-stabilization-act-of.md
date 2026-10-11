@@ -66,6 +66,3 @@ No part of this publication may be reproduced, in whole or in part, in any form,
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: House Passes the Emergency Economic Stabilization Act of 2008](../../../charts/poten/2008/poten_2008-10-03_house-passes-the-emergency-economic-stabilization-act-of_chart1.png)
-
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2008/poten_2008-10-03_house-passes-the-emergency-economic-stabilization-act-of_chart1.png)

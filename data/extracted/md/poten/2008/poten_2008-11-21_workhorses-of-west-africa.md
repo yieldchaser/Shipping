@@ -58,6 +58,14 @@ While on the surface freight economics would tend to favor the VLCC, the practic
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: Workhorses of West Africa](../../../charts/poten/2008/poten_2008-11-21_workhorses-of-west-africa_chart1.png)
+> **Chart on PDF page 1: West Africa Liftings**  
+> Unit: Reported Spot Liftings Per Month · X-axis: Jan to Nov  
+> Series: VLCC 2007, VLCC 2008, Suezmax 2007, Suezmax 2008  
+> *Source: Poten & Partners*  
+> *No image crop of this chart was saved; caption read from the PDF.*
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2008/poten_2008-11-21_workhorses-of-west-africa_chart1.png)
+> **Chart on PDF page 2: Freight Rates in West Africa**  
+> Unit: $/day · X-axis: Jan-04 to Oct-08  
+> Series: WAF - USA (260kt), WAF - USA (130kt), 12 Mo. VLCC Average, 12 Mo. Suezmax Average  
+> *Source: Poten & Partners*  
+> *No image crop of this chart was saved; caption read from the PDF.*

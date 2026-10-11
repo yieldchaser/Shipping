@@ -28,10 +28,10 @@ October 29, 2024
 
 *This week, the US and Brazilian grain sectors are in the spotlight, particularly Brazil's strong position in soybean production and exports to China. Almost 90% of the Panamax shipping market is concentrated on the Brazil-China trade route. The Supramax vessel segment, on the other hand, appears to be more involved in the US grain sector, where 24% of the trade volume is handled, compared to only 10% for the Brazil-China route.*
 
-![Στιγμιότυπο Οθόνης 2024 10 31 092404](assets/2024-10-31_vijsx2jd20a4mfbmgflsu7y0mlox6f_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_243d055549b9.png)
+![Στιγμιότυπο Οθόνης 2024 10 31 092404](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-10-31_vijsx2jd20a4mfbmgflsu7y0mlox6f_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_243d055549b9.png)
 
 > **Figure 1: Στιγμιότυπο Οθόνης 2024 10 31 092404**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://go.signalocean.com/e/983831/-despite-china-s-stimulus-push/2qnvy7/445143696/h/BN2l6-ynLMPGERnMpD7Yyp96UE_UpWiisnh92_lZ8_Y) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-10-31_vijsx2jd20a4mfbmgflsu7y0mlox6f_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_243d055549b9.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://go.signalocean.com/e/983831/-despite-china-s-stimulus-push/2qnvy7/445143696/h/BN2l6-ynLMPGERnMpD7Yyp96UE_UpWiisnh92_lZ8_Y) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-10-31_vijsx2jd20a4mfbmgflsu7y0mlox6f_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_243d055549b9.png)
 
 Brazil has increasingly solidified its dominant role in global grain production, particularly in soybeans, positioning itself as a key supplier to China—the world’s largest importer of soybeans. Over the past decade, Brazil’s agricultural sector has expanded rapidly, supported by ample arable land, favourable weather conditions, and significant investment in agricultural technology. This growth has enabled Brazil to surpass the United States in soybean production, with a production volume that consistently meets and often exceeds China’s high demand.
 
@@ -41,10 +41,10 @@ The result is a distinct competitive edge for Brazil in the Panamax vessel marke
 
 Meanwhile, looking at the evolution of freight market trends at the end of the month, there is still a significant weakening trend in the Capesize Brazil to North China route, while,[iron ore price](https://go.signalocean.com/e/983831/-despite-china-s-stimulus-push/2qnvy7/445143696/h/BN2l6-ynLMPGERnMpD7Yyp96UE_UpWiisnh92_lZ8_Y)trends remain highly volatile, influenced by both the complex economic environment and China’s periodic economic stimulus measures aimed at revitalising its industrial sector. Recent stimulus packages have injected fresh optimism into the market, with the potential to stabilise demand for iron ore, which would benefit the freight market. However, the pace and scale of recovery remain uncertain, creating a mixed outlook for Capesize freight rates.
 
-![Στιγμιότυπο Οθόνης 2024 10 31 092503](assets/2024-10-31_vijsx2jd20a4mfbmgflsu7y0mlox6f_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_bc405ba1b372.png)
+![Στιγμιότυπο Οθόνης 2024 10 31 092503](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-10-31_vijsx2jd20a4mfbmgflsu7y0mlox6f_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_bc405ba1b372.png)
 
 > **Figure 2: Στιγμιότυπο Οθόνης 2024 10 31 092503**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-10-31_vijsx2jd20a4mfbmgflsu7y0mlox6f_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_bc405ba1b372.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-10-31_vijsx2jd20a4mfbmgflsu7y0mlox6f_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_bc405ba1b372.png)
 
 The dry bulk freight market is still experiencing a weakening momentum in the large vessel size categories, with Capesize rates from Brazil to North China showing the weakest trend since the peak in week 39.
 
@@ -53,10 +53,10 @@ The dry bulk freight market is still experiencing a weakening momentum in the la
 - **Supramax**vessel freight rates on the Indo-ECI route dropped around $10 per ton, reflecting a monthly decrease of 10%.
 - **Handysize**freight rates for the NOPAC Far East route have recently fallen below $35 per ton, marking a shift after several consecutive weeks of relatively steady sentiment since the end of the first quarter. This decline signals a change in market dynamics, as factors influencing supply and demand continue to evolve.
 
-![Στιγμιότυπο Οθόνης 2024 10 31 092547](assets/2024-10-31_vijsx2jd20a4mfbmgflsu7y0mlox6f_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_a9d4934c1e4a.png)
+![Στιγμιότυπο Οθόνης 2024 10 31 092547](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-10-31_vijsx2jd20a4mfbmgflsu7y0mlox6f_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_a9d4934c1e4a.png)
 
 > **Figure 3: Στιγμιότυπο Οθόνης 2024 10 31 092547**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-10-31_vijsx2jd20a4mfbmgflsu7y0mlox6f_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_a9d4934c1e4a.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-10-31_vijsx2jd20a4mfbmgflsu7y0mlox6f_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_a9d4934c1e4a.png)
 
 The end of the October signalled a mixed trend, with the number of ballasters still rising in the Capesize, while the Panamax segment continues to experience a decline.
 
@@ -65,10 +65,10 @@ The end of the October signalled a mixed trend, with the number of ballasters st
 - **Supramax SE Asia**: Following a surge to 120 ballast ships two weeks ago, there has been a downward adjustment, with numbers dipping below the annual average of 100 and nearing 90 by the end of October. This decline suggests a tightening in availability as the month comes to a close.
 - **Handysize NOPAC**: An upward revision above the annual average seems to be occurring over the last three weeks, with levels now around 88—22 higher than the low recorded in week 38.
 
-![Στιγμιότυπο Οθόνης 2024 10 31 092631](assets/2024-10-31_vijsx2jd20a4mfbmgflsu7y0mlox6f_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_60d7698c0c43.png)
+![Στιγμιότυπο Οθόνης 2024 10 31 092631](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-10-31_vijsx2jd20a4mfbmgflsu7y0mlox6f_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_60d7698c0c43.png)
 
 > **Figure 4: Στιγμιότυπο Οθόνης 2024 10 31 092631**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-10-31_vijsx2jd20a4mfbmgflsu7y0mlox6f_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_60d7698c0c43.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-10-31_vijsx2jd20a4mfbmgflsu7y0mlox6f_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_60d7698c0c43.png)
 
 In the last week of October, dry tonne-days for the Capesize segment continued to sharply decline, reinforcing the downward trend observed in the previous weeks of the month.
 
@@ -77,10 +77,10 @@ In the last week of October, dry tonne-days for the Capesize segment continued t
 - **Supramax**: The growth rate indicating a firmer growth than the previous week, even surpassing the most recent peak occurring in week 39.
 - **Handysize**: The growth rate held a decreasing pace in the last two weeks of the month, while there are indications of a softening trend in the coming days.
 
-![Στιγμιότυπο Οθόνης 2024 10 31 092729](assets/2024-10-31_vijsx2jd20a4mfbmgflsu7y0mlox6f_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_9e40d8545232.png)
+![Στιγμιότυπο Οθόνης 2024 10 31 092729](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-10-31_vijsx2jd20a4mfbmgflsu7y0mlox6f_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_9e40d8545232.png)
 
 > **Figure 5: Στιγμιότυπο Οθόνης 2024 10 31 092729**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-10-31_vijsx2jd20a4mfbmgflsu7y0mlox6f_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_9e40d8545232.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-10-31_vijsx2jd20a4mfbmgflsu7y0mlox6f_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_9e40d8545232.png)
 
 Congestion at Chinese dry bulk ports has declined throughout the month, with a downward trend evident across the Capesize, Panamax, and Supramax vessel segments.
 

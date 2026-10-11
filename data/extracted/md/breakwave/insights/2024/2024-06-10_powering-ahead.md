@@ -34,19 +34,19 @@ In the realm of dry bulk commodities, specifically focusing on China, iron ore i
 
 Throughout May, the world’ largest coal consumer imported 43.82 million metric tonnes, up from 39.58 million tonnes in May 2023. However, this represented a 3 percent decline from the 45.25 million tonnes of this April. China's coal output in April plummeted to its lowest level since October 2022, with safety inspections following several fatal mining accidents significantly impacting production. Notably, coal imports for the first five months of 2024 totaled 204.97 million tonnes, reflecting a substantial 12.6 percent increase from the corresponding period in the previous year. In contrast, China's soybean imports in May 2024 witnessed a steep 15 percent decline from May 2023, totaling 10.22 million metric tonnes. This drop was predominantly attributed to floods in Brazil, adversely affecting the harvest. For the first five months of 2024, China’s soybean imports amounted to 37.37 million tonnes, marking a 5.4 percent decrease compared to the same period in 2023. Despite the uptrend in hog prices stimulating demand, soybean imports fell short of expectations.
 
-![Screenshot 2024 06 08 19.08.46](assets/2024-06-10_powering-ahead_img_screenshot2024-06-08190846_5aafdda2369a.png)
+![Screenshot 2024 06 08 19.08.46](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-06-10_powering-ahead_img_screenshot2024-06-08190846_5aafdda2369a.png)
 
 > **Figure 1: Screenshot 2024 06 08 19.08.46**  
-> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-06-10_powering-ahead_img_screenshot2024-06-08190846_5aafdda2369a.png)
+> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-06-10_powering-ahead_img_screenshot2024-06-08190846_5aafdda2369a.png)
 
 Putting Posidonia and Chinese imports aside, the ECB reduced its record-high deposit rate by 25 basis points to 3.75 percent, aligning with the central banks of Canada, Sweden, and Switzerland in initiating the unwinding process of some of the steepest rate hikes implemented to curb post-pandemic inflationary pressures. This move precedes actions by the US Federal Reserve and the Bank of England, marking the ECB's first rate reduction in five years. However, the bank refrained from indicating any further actions. "Interest rate decisions will be made based on our assessment of the inflation outlook considering incoming economic and financial data, underlying inflation dynamics, and the effectiveness of monetary policy transmission," stated the ECB in a release. "The Governing Council does not commit to a specific rate trajectory in advance.
 
 The wrap-up of the Posidonia 2024 week left market sentiment notably upbeat, fueled by the rise in both Chinese imports and exports, as well as the ECB's landmark move to lower deposit rates for the first time in half a decade. Nevertheless, amid this overall positive atmosphere, a dissonant chord emerges with Chinese iron ore port stocks stubbornly holding at a two-year peak of 149.3 million tonnes, edging ever closer to the critical threshold of 150 million.
 
-![Screenshot 2024 06 08 19.08.56](assets/2024-06-10_powering-ahead_img_screenshot2024-06-08190856_049d9befabab.png)
+![Screenshot 2024 06 08 19.08.56](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-06-10_powering-ahead_img_screenshot2024-06-08190856_049d9befabab.png)
 
 > **Figure 2: Screenshot 2024 06 08 19.08.56**  
-> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-06-10_powering-ahead_img_screenshot2024-06-08190856_049d9befabab.png)
+> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-06-10_powering-ahead_img_screenshot2024-06-08190856_049d9befabab.png)
 
 Data source:[Doric](https://www.doric.gr/)
 

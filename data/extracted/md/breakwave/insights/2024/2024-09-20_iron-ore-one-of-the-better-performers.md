@@ -64,10 +64,10 @@ While Indonesia remains dominant in the Indian seaborne coal trade, the island n
 
 Demand for transportation of the dirtiest of fossil fuels to India usually sees a seasonal rebound during the third and fourth quarters of the year. Still, this year, the development has yet to materialise. Hence, as India is one of the world’s leading importers of the commodity, the case for a significant coal price recovery remains weak.
 
-![Στιγμιότυπο Οθόνης 2024 09 20 165917](assets/2024-09-20_iron-ore-one-of-the-better-performers_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_33d969af3592.png)
+![Στιγμιότυπο Οθόνης 2024 09 20 165917](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-09-20_iron-ore-one-of-the-better-performers_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_33d969af3592.png)
 
 > **Figure 1: Στιγμιότυπο Οθόνης 2024 09 20 165917**  
-> **Interactive Data & Source:** [Shipfix](https://shipfix.com/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-09-20_iron-ore-one-of-the-better-performers_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_33d969af3592.png)
+> **Interactive Data & Source:** [Shipfix](https://shipfix.com/) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-09-20_iron-ore-one-of-the-better-performers_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_33d969af3592.png)
 
 Data Source:[Shipfix](https://shipfix.com/)
 

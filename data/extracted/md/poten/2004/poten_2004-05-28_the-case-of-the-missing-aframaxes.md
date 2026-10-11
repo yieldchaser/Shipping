@@ -56,6 +56,32 @@ The falloff in Caribbean exporters probably is a statistical fluke. Wait a month
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: The Case of the Missing Aframaxes](../../../charts/poten/2004/poten_2004-05-28_the-case-of-the-missing-aframaxes_chart1.png)
+> **Chart on PDF page 1: Aframax Fixtures ex-Caribs**  
+> Unit: # Fixtures · X-axis: Jan-01 to Jan-04  
+> Series: Aframax Fixtures  
+> *Source: Poten & Partners*  
+> *No image crop of this chart was saved; caption read from the PDF.*
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2004/poten_2004-05-28_the-case-of-the-missing-aframaxes_chart1.png)
+> **Chart on PDF page 2: Venezuelan Petroleum Exports to U.S.**  
+> Unit: 000 Bpd · X-axis: Jan-01 to Jan-04  
+> Series: Crude + Products, Crude  
+> *Source: EIA/Poten*  
+> *No image crop of this chart was saved; caption read from the PDF.*
+
+> **Chart on PDF page 3: Colombian Petroleum Exports to U.S.**  
+> Unit: 000 Bpd · X-axis: Jan-01 to Jan-04  
+> Series: Crude + Products, Crude  
+> *Source: EIA/Poten*  
+> *No image crop of this chart was saved; caption read from the PDF.*
+
+> **Chart on PDF page 3: Mexican Petroleum Exports to U.S.**  
+> Unit: 000 Bpd · X-axis: Jan-01 to Jan-04  
+> Series: Crude + Products, Crude  
+> *Source: EIA/Poten*  
+> *No image crop of this chart was saved; caption read from the PDF.*
+
+> **Chart on PDF page 4: Russian Petroleum Exports to U.S.**  
+> Unit: 000 Bpd · X-axis: Jan-01 to Jan-04  
+> Series: Crude + Products, Crude  
+> *Source: EIA/Poten*  
+> *No image crop of this chart was saved; caption read from the PDF.*

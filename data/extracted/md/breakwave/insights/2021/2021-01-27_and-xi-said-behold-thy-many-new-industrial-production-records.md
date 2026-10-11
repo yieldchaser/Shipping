@@ -25,7 +25,7 @@ source_file: "corpus/03-breakwave/insights/2021/2021-01-27_and-xi-said-behold-th
 ![Vale Iron Ore 2](assets/2021-01-27_and-xi-said-behold-thy-many-new-industrial-production-records_img_valeironore2_073efe0c6191.jpg)
 
 > **Figure 1: Vale Iron Ore 2**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2021/assets/2021-01-27_and-xi-said-behold-thy-many-new-industrial-production-records_img_valeironore2_073efe0c6191.jpg)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-01-27_and-xi-said-behold-thy-many-new-industrial-production-records_img_valeironore2_073efe0c6191.jpg)
 
 As we have been examining in our Weekly China Reports since last year, the Chinese economy has continued to emerge from the pandemic with a stronger economy. Newly released December data has continued to confirm such strength. China's overall industrial production in December rose year-on-year by 7.3%, which marked the largest growth seen throughout 2020. New lending in December grew year-on-year by 11%, which has marked the strongest growth seen since September and has continued to signal post-coronavirus support. Also of note is crude steel production in December totaled 91.3 million tons, which has marked year-on-year growth of 8%. Chinese steel prices have remained near multi-year highs despite the strength in production.
 
@@ -36,7 +36,7 @@ Noteworthy for the dry bulk shipping and seaborne coal markets is that China's d
 ![Chart 2](assets/2021-01-27_and-xi-said-behold-thy-many-new-industrial-production-records_img_chart2_1c91e09ed8fd.jpg)
 
 > **Figure 2: Chart 2**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2021/assets/2021-01-27_and-xi-said-behold-thy-many-new-industrial-production-records_img_chart2_1c91e09ed8fd.jpg)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-01-27_and-xi-said-behold-thy-many-new-industrial-production-records_img_chart2_1c91e09ed8fd.jpg)
 
 December has marked the second consecutive month where China's coal-derived electricity generation growth has exceeded coal production growth. This has remained very advantageous for the dry bulk shipping and seaborne coal markets. Overall, the industrial side of China's economy has continued to fare extremely well. As we have also examined in this week's Weekly China Report, China's consumer sector continues to turn a corner as well. China's equity market has also continued to find strength.
 

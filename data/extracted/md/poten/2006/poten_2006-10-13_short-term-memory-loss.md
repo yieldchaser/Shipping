@@ -34,6 +34,8 @@ The spot market rates have experienced volatility in rates throughout the past f
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: Short-Term Memory Loss](../../../charts/poten/2006/poten_2006-10-13_short-term-memory-loss_chart1.png)
-
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2006/poten_2006-10-13_short-term-memory-loss_chart1.png)
+> **Chart on PDF page 1: VLCC WS Rates**  
+> Unit: WS · X-axis: 1996 to 2006  
+> Series: Low, Average, High  
+> *Source: Poten & Partners*  
+> *No image crop of this chart was saved; caption read from the PDF.*

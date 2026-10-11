@@ -31,7 +31,7 @@ tags:
 ![Australian Coal Flows to Asia Hover Above Last Year’s Volume Tonnes](../../images/65d5eb79aae1897ece3f6e56_Australian coal flows.png)
 
 > **Figure 1: Australian Coal Flows to Asia Hover Above Last Year’s Volume Tonnes**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/dry-week-08-2024) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/65d5eb79aae1897ece3f6e56_Australian coal flows.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/dry-week-08-2024) | [Local Asset](../../../../../../corpus/07-signal/images/65d5eb79aae1897ece3f6e56_Australian%20coal%20flows.png)
 
 In the final days of February, the dry bulk freight market appeared to maintain a relatively stable momentum, particularly evident in the large vessel size categories where rates remained close to the highs reached in the third week, notably on the Capesize Brazil to North China route and Panamax Continent to Far East route. However, there remains cause for concern regarding the recent market momentum, as the weekly growth rates in demand tonne days continue to decline significantly compared to the peaks observed at the end of last year.
 

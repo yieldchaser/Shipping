@@ -35,29 +35,29 @@ Overall, Argentine wheat production is expected to decline in 2022-2023. The Arg
 The Panamax, Supramax and Handysize vessel categories account for a significant portion (image 1) of the monthly volume (in tonnes) of agricultural bulk flows from all origin countries to all destinations. November ended on a downward trend, and the first 20 days of December still point to slower growth, while production in Argentina and Canada remains uncertain.
 
 
-![Image 1 - Data Source: The Signal Ocean Platform, Dry Bulk Flows, Agricultural Products, by Vessel Class](../../images/66b51eda8e0cdfc8bf26a93d_63a4579f66f59374d980a1cf_image%204.avif)
+![Image 1 - Data Source: The Signal Ocean Platform, Dry Bulk Flows, Agricultural Products, by Vessel Class](../../images/66b51eda8e0cdfc8bf26a93d_63a4579f66f59374d980a1cf_image%25204.avif)
 
 > **Figure 1: Image 1 - Data Source: The Signal Ocean Platform, Dry Bulk Flows, Agricultural Products, by Vessel Class**  
 > *Image 1 - Data Source: The Signal Ocean Platform, Dry Bulk Flows, Agricultural Products, By vessel class*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/the-impact-of-recent-argentine-soybean-production-losses-on-the-dry-freight-market) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/66b51eda8e0cdfc8bf26a93d_63a4579f66f59374d980a1cf_image%204.avif)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/the-impact-of-recent-argentine-soybean-production-losses-on-the-dry-freight-market) | [Local Asset](../../../../../../corpus/07-signal/images/66b51eda8e0cdfc8bf26a93d_63a4579f66f59374d980a1cf_image%25204.avif)
 
 Looking at the main countries of origin and destination of agricultural production (image 2), Brazil, the United States, and Argentina are the top three countries of origin, with 20%, 18%, and 11%, respectively. China is the main importer, accounting for 24.5% of global agricultural flows, and other Asian countries such as Japan (5%), Egypt (4%), and Turkey (3%) account for the smallest shares.
 
 
-![Image 2 - Data Source: The Signal Ocean Platform, Dry Bulk Flows, Agricultural Products, Origin - Destination Countries](../../images/66b51ed98e0cdfc8bf26a909_63a457cf2230df70b5294ac8_image%203.avif)
+![Image 2 - Data Source: The Signal Ocean Platform, Dry Bulk Flows, Agricultural Products, Origin - Destination Countries](../../images/66b51ed98e0cdfc8bf26a909_63a457cf2230df70b5294ac8_image%25203.avif)
 
 > **Figure 2: Image 2 - Data Source: The Signal Ocean Platform, Dry Bulk Flows, Agricultural Products, Origin - Destination Countries**  
 > *Image 2 - Data Source: The Signal Ocean Platform, Dry Bulk Flows, Agricultural Products, Origin - Destination Countries*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/the-impact-of-recent-argentine-soybean-production-losses-on-the-dry-freight-market) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/66b51ed98e0cdfc8bf26a909_63a457cf2230df70b5294ac8_image%203.avif)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/the-impact-of-recent-argentine-soybean-production-losses-on-the-dry-freight-market) | [Local Asset](../../../../../../corpus/07-signal/images/66b51ed98e0cdfc8bf26a909_63a457cf2230df70b5294ac8_image%25203.avif)
 
 Wheat, corn, and soybeans are the major grain commodities with significant percentages of total global agricultural bulk flows from all origin countries to all destinations, with the Panamax ship class accounting for 34%. Soybeans rank third in cargo grades with an 18% share, after wheat (30%) and corn (22%).
 
 
-![Image 3 - Data Source: The Signal Ocean Platform, Dry Bulk Flows, Agricultural Products, Vessel Class - Cargo Grades](../../images/66b51eda8e0cdfc8bf26a934_63a457f91b7271111ac208f6_image%202.avif)
+![Image 3 - Data Source: The Signal Ocean Platform, Dry Bulk Flows, Agricultural Products, Vessel Class - Cargo Grades](../../images/66b51eda8e0cdfc8bf26a934_63a457f91b7271111ac208f6_image%25202.avif)
 
 > **Figure 3: Image 3 - Data Source: The Signal Ocean Platform, Dry Bulk Flows, Agricultural Products, Vessel Class - Cargo Grades**  
 > *Image 3 - Data Source: The Signal Ocean Platform, Dry Bulk Flows, Agricultural Products, Vessel Class - Cargo grades*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/the-impact-of-recent-argentine-soybean-production-losses-on-the-dry-freight-market) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/66b51eda8e0cdfc8bf26a934_63a457f91b7271111ac208f6_image%202.avif)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/the-impact-of-recent-argentine-soybean-production-losses-on-the-dry-freight-market) | [Local Asset](../../../../../../corpus/07-signal/images/66b51eda8e0cdfc8bf26a934_63a457f91b7271111ac208f6_image%25202.avif)
 
 
 ## Ii. Freight Market: Ballasters to South Africa vs Panamax ($/d) Rates
@@ -67,11 +67,11 @@ The latest picture of the Panamax market for a Singapore roundtrip via Altantic 
 As shown in the chart below, the number of ballast ships was even higher in previous months, but at that time rates ($/day) were at a firmer level as the daily volume shipped (3-week moving average) was higher than today's decreased level (373k tonnes). The latest daily shipped volume figure is one of the lowest since the beginning of the year and has put pressure on freight rates for the last quarter of 2022. It is interesting to note that in mid-May, the number of ballast vessels was close to 100, but rates were at $30k/day, as daily shipped volumes reached one of the highest levels at that time (500k tonnes and above), while demand remained at similar high levels until the beginning of the fourth quarter.
 
 
-![Image 4 - Data Source: The Signal Ocean Platform, Supply - Ballasters, Demand & Freight ($/day)](../../images/66b51eda8e0cdfc8bf26a937_63a4582bb80646755d68b17e_image%205.avif)
+![Image 4 - Data Source: The Signal Ocean Platform, Supply - Ballasters, Demand & Freight ($/day)](../../images/66b51eda8e0cdfc8bf26a937_63a4582bb80646755d68b17e_image%25205.avif)
 
 > **Figure 4: Image 4 - Data Source: The Signal Ocean Platform, Supply - Ballasters, Demand & Freight ($/day)**  
 > *Image 4 - Data Source: The Signal Ocean Platform, Supply - Ballasters, Demand & Freight ($/day)*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/the-impact-of-recent-argentine-soybean-production-losses-on-the-dry-freight-market) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/66b51eda8e0cdfc8bf26a937_63a4582bb80646755d68b17e_image%205.avif)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/the-impact-of-recent-argentine-soybean-production-losses-on-the-dry-freight-market) | [Local Asset](../../../../../../corpus/07-signal/images/66b51eda8e0cdfc8bf26a937_63a4582bb80646755d68b17e_image%25205.avif)
 
 In our third and final section of this analysis, we show a sensitivity analysis on supply and demand scenarios that will have a decisive impact on freight rates in the coming months of the new year.
 
@@ -81,11 +81,11 @@ In our third and final section of this analysis, we show a sensitivity analysis 
 The recent weakness in daily cargo volumes that we have observed for the Panamax South Atlantic market has heightened concerns about freight rate trends. In our pessimistic scenario (Figure 5) with daily loadings of 380,000 tons, the supply of vessels for the next 20 and 40 days is lower than the demand and risks weaker dynamics in expected freight rates. However, the baseline scenario with 480k tonnes of daily cargo from the South Atlantic is the level that can potentially lead the market to firmness, as we have also seen in the second quarter of 2022.
 
 
-![Image 5 - Data Source: The Signal Ocean Platform, Supply - Ballasters, Supply - Demand Scenarios](../../images/66b51eda8e0cdfc8bf26a93a_63a4586bfa3dbf373d171019_image%201.avif)
+![Image 5 - Data Source: The Signal Ocean Platform, Supply - Ballasters, Supply - Demand Scenarios](../../images/66b51eda8e0cdfc8bf26a93a_63a4586bfa3dbf373d171019_image%25201.avif)
 
 > **Figure 5: Image 5 - Data Source: The Signal Ocean Platform, Supply - Ballasters, Supply - Demand Scenarios**  
 > *Image 5 - Data Source: The Signal Ocean Platform, Supply - Ballasters, Supply - Demand Scenarios*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/the-impact-of-recent-argentine-soybean-production-losses-on-the-dry-freight-market) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/66b51eda8e0cdfc8bf26a93a_63a4586bfa3dbf373d171019_image%201.avif)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/the-impact-of-recent-argentine-soybean-production-losses-on-the-dry-freight-market) | [Local Asset](../../../../../../corpus/07-signal/images/66b51eda8e0cdfc8bf26a93a_63a4586bfa3dbf373d171019_image%25201.avif)
 
 It remains to be seen how the supply/demand balance will affect freight rate developments, as the recent drought in Argentina has had a major impact on daily cargo volumes from the South Atlantic following the end of the summer season.
 

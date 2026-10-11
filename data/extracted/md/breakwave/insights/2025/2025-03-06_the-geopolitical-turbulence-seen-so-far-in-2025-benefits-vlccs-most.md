@@ -43,10 +43,10 @@ Competition for dark fleet vessels to service Russia’s ESPO trade would furthe
 
 ➔ Moving forward, VLCC-sized dark fleet vessels may be utilised for STS operations in the Middle East for Russia Baltics-to-China loads or offshore Yeosu to facilitate the Kozmino-to-China trade
 
-![Στιγμιότυπο Οθόνης 2025 03 06 143355](assets/2025-03-06_the-geopolitical-turbulence-seen-so-far-in-2025-benefits-vlccs-most_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_1dc9a31f67bd.png)
+![Στιγμιότυπο Οθόνης 2025 03 06 143355](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-03-06_the-geopolitical-turbulence-seen-so-far-in-2025-benefits-vlccs-most_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_1dc9a31f67bd.png)
 
 > **Figure 1: Στιγμιότυπο Οθόνης 2025 03 06 143355**  
-> **Interactive Data & Source:** [Vortexa](https://www.vortexa.com//oil-gas-data-traders-analysts-data-scientists?gclid=Cj0KCQjw8_qRBhCXARIsAE2AtRZKOvMnbilZ_6_91d7huSFFy71pWLrnPwGwOHVzXsmsG-1a1mZnQw8aAt89EALw_wcB&hsa_acc=1782073842&hsa_ad=548425387665&hsa_cam=14746637662&hsa_grp=125038601902&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_src=g&hsa_tgt=dsa-1431852288425&hsa_ver=3&utm_campaign=%5BCD%5D%20-%20DSA%20-%20EMEA&utm_medium=cpc&utm_medium=ppc&utm_source=google&utm_source=adwords&utm_term=) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-03-06_the-geopolitical-turbulence-seen-so-far-in-2025-benefits-vlccs-most_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_1dc9a31f67bd.png)
+> **Interactive Data & Source:** [Vortexa](https://www.vortexa.com//oil-gas-data-traders-analysts-data-scientists?gclid=Cj0KCQjw8_qRBhCXARIsAE2AtRZKOvMnbilZ_6_91d7huSFFy71pWLrnPwGwOHVzXsmsG-1a1mZnQw8aAt89EALw_wcB&hsa_acc=1782073842&hsa_ad=548425387665&hsa_cam=14746637662&hsa_grp=125038601902&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_src=g&hsa_tgt=dsa-1431852288425&hsa_ver=3&utm_campaign=%5BCD%5D%20-%20DSA%20-%20EMEA&utm_medium=cpc&utm_medium=ppc&utm_source=google&utm_source=adwords&utm_term=) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-03-06_the-geopolitical-turbulence-seen-so-far-in-2025-benefits-vlccs-most_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_1dc9a31f67bd.png)
 
 ## Clean – East of Suez: Light Distillates Could Become the Driving Force of Lrs in the Pacific Basin
 
@@ -64,10 +64,10 @@ LR availability in the Middle East Gulf is rising, with many engaged in short-ha
 
 ➔ This supply-side pressure will likely cap upside on freight rates out of the Middle East
 
-![Στιγμιότυπο Οθόνης 2025 03 06 143608](assets/2025-03-06_the-geopolitical-turbulence-seen-so-far-in-2025-benefits-vlccs-most_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_599d223e7f48.png)
+![Στιγμιότυπο Οθόνης 2025 03 06 143608](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-03-06_the-geopolitical-turbulence-seen-so-far-in-2025-benefits-vlccs-most_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_599d223e7f48.png)
 
 > **Figure 2: Στιγμιότυπο Οθόνης 2025 03 06 143608**  
-> **Interactive Data & Source:** [Vortexa](https://www.vortexa.com//oil-gas-data-traders-analysts-data-scientists?gclid=Cj0KCQjw8_qRBhCXARIsAE2AtRZKOvMnbilZ_6_91d7huSFFy71pWLrnPwGwOHVzXsmsG-1a1mZnQw8aAt89EALw_wcB&hsa_acc=1782073842&hsa_ad=548425387665&hsa_cam=14746637662&hsa_grp=125038601902&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_src=g&hsa_tgt=dsa-1431852288425&hsa_ver=3&utm_campaign=%5BCD%5D%20-%20DSA%20-%20EMEA&utm_medium=cpc&utm_medium=ppc&utm_source=google&utm_source=adwords&utm_term=) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-03-06_the-geopolitical-turbulence-seen-so-far-in-2025-benefits-vlccs-most_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_599d223e7f48.png)
+> **Interactive Data & Source:** [Vortexa](https://www.vortexa.com//oil-gas-data-traders-analysts-data-scientists?gclid=Cj0KCQjw8_qRBhCXARIsAE2AtRZKOvMnbilZ_6_91d7huSFFy71pWLrnPwGwOHVzXsmsG-1a1mZnQw8aAt89EALw_wcB&hsa_acc=1782073842&hsa_ad=548425387665&hsa_cam=14746637662&hsa_grp=125038601902&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_src=g&hsa_tgt=dsa-1431852288425&hsa_ver=3&utm_campaign=%5BCD%5D%20-%20DSA%20-%20EMEA&utm_medium=cpc&utm_medium=ppc&utm_source=google&utm_source=adwords&utm_term=) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-03-06_the-geopolitical-turbulence-seen-so-far-in-2025-benefits-vlccs-most_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_599d223e7f48.png)
 
 ## Dirty – West of Suez: The Geopolitical Turbulence Seen So Far in 2025 Benefits Mainstream Vlccs Most
 
@@ -85,10 +85,10 @@ More sanctions make acquiring discounted barrels more challenging
 
 ➔ For now, VLCCs are enjoying a boost which would continue if the war ends and Russian crude flowing East lessens
 
-![Στιγμιότυπο Οθόνης 2025 03 06 144028](assets/2025-03-06_the-geopolitical-turbulence-seen-so-far-in-2025-benefits-vlccs-most_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_bd80095f212d.png)
+![Στιγμιότυπο Οθόνης 2025 03 06 144028](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-03-06_the-geopolitical-turbulence-seen-so-far-in-2025-benefits-vlccs-most_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_bd80095f212d.png)
 
 > **Figure 3: Στιγμιότυπο Οθόνης 2025 03 06 144028**  
-> **Interactive Data & Source:** [Vortexa](https://www.vortexa.com//oil-gas-data-traders-analysts-data-scientists?gclid=Cj0KCQjw8_qRBhCXARIsAE2AtRZKOvMnbilZ_6_91d7huSFFy71pWLrnPwGwOHVzXsmsG-1a1mZnQw8aAt89EALw_wcB&hsa_acc=1782073842&hsa_ad=548425387665&hsa_cam=14746637662&hsa_grp=125038601902&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_src=g&hsa_tgt=dsa-1431852288425&hsa_ver=3&utm_campaign=%5BCD%5D%20-%20DSA%20-%20EMEA&utm_medium=cpc&utm_medium=ppc&utm_source=google&utm_source=adwords&utm_term=) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-03-06_the-geopolitical-turbulence-seen-so-far-in-2025-benefits-vlccs-most_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_bd80095f212d.png)
+> **Interactive Data & Source:** [Vortexa](https://www.vortexa.com//oil-gas-data-traders-analysts-data-scientists?gclid=Cj0KCQjw8_qRBhCXARIsAE2AtRZKOvMnbilZ_6_91d7huSFFy71pWLrnPwGwOHVzXsmsG-1a1mZnQw8aAt89EALw_wcB&hsa_acc=1782073842&hsa_ad=548425387665&hsa_cam=14746637662&hsa_grp=125038601902&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_src=g&hsa_tgt=dsa-1431852288425&hsa_ver=3&utm_campaign=%5BCD%5D%20-%20DSA%20-%20EMEA&utm_medium=cpc&utm_medium=ppc&utm_source=google&utm_source=adwords&utm_term=) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-03-06_the-geopolitical-turbulence-seen-so-far-in-2025-benefits-vlccs-most_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_bd80095f212d.png)
 
 ## Clean – West of Suez: Vessel Supply-Side Pressure Limits Tc2 Gains Despite Rising Cpp Loadings in Nw Europe
 
@@ -106,10 +106,10 @@ Looking forward, PADD 1 could be looking toward Europe for more gasoline this su
 
 ➔ Demand in the US Gulf will likely remain muted. PADD 3 loadings remain low, and with low PADD 1 diesel stocks (EIA), it is likely that PADD 3 diesel seaborne exports could remain somewhat limited in the near term
 
-![Στιγμιότυπο Οθόνης 2025 03 06 144155](assets/2025-03-06_the-geopolitical-turbulence-seen-so-far-in-2025-benefits-vlccs-most_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_f133cd873a14.png)
+![Στιγμιότυπο Οθόνης 2025 03 06 144155](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-03-06_the-geopolitical-turbulence-seen-so-far-in-2025-benefits-vlccs-most_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_f133cd873a14.png)
 
 > **Figure 4: Στιγμιότυπο Οθόνης 2025 03 06 144155**  
-> **Interactive Data & Source:** [Vortexa](https://www.vortexa.com//oil-gas-data-traders-analysts-data-scientists?gclid=Cj0KCQjw8_qRBhCXARIsAE2AtRZKOvMnbilZ_6_91d7huSFFy71pWLrnPwGwOHVzXsmsG-1a1mZnQw8aAt89EALw_wcB&hsa_acc=1782073842&hsa_ad=548425387665&hsa_cam=14746637662&hsa_grp=125038601902&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_src=g&hsa_tgt=dsa-1431852288425&hsa_ver=3&utm_campaign=%5BCD%5D%20-%20DSA%20-%20EMEA&utm_medium=cpc&utm_medium=ppc&utm_source=google&utm_source=adwords&utm_term=) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-03-06_the-geopolitical-turbulence-seen-so-far-in-2025-benefits-vlccs-most_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_f133cd873a14.png)
+> **Interactive Data & Source:** [Vortexa](https://www.vortexa.com//oil-gas-data-traders-analysts-data-scientists?gclid=Cj0KCQjw8_qRBhCXARIsAE2AtRZKOvMnbilZ_6_91d7huSFFy71pWLrnPwGwOHVzXsmsG-1a1mZnQw8aAt89EALw_wcB&hsa_acc=1782073842&hsa_ad=548425387665&hsa_cam=14746637662&hsa_grp=125038601902&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_src=g&hsa_tgt=dsa-1431852288425&hsa_ver=3&utm_campaign=%5BCD%5D%20-%20DSA%20-%20EMEA&utm_medium=cpc&utm_medium=ppc&utm_source=google&utm_source=adwords&utm_term=) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-03-06_the-geopolitical-turbulence-seen-so-far-in-2025-benefits-vlccs-most_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_f133cd873a14.png)
 
 Data Source:[Vortexa](https://www.vortexa.com//oil-gas-data-traders-analysts-data-scientists?gclid=Cj0KCQjw8_qRBhCXARIsAE2AtRZKOvMnbilZ_6_91d7huSFFy71pWLrnPwGwOHVzXsmsG-1a1mZnQw8aAt89EALw_wcB&hsa_acc=1782073842&hsa_ad=548425387665&hsa_cam=14746637662&hsa_grp=125038601902&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_src=g&hsa_tgt=dsa-1431852288425&hsa_ver=3&utm_campaign=%5BCD%5D%20-%20DSA%20-%20EMEA&utm_medium=cpc&utm_medium=ppc&utm_source=google&utm_source=adwords&utm_term=)
 

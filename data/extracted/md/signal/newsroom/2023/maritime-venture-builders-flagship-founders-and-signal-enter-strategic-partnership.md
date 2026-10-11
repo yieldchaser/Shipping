@@ -36,6 +36,8 @@ By bringing their respective strengths into this strategic partnership, Signal a
 
 **Nikolas Pyrgiotis, VP of Ventures at Signal**,is also convinced of the mutual benefit of the partnership:
 
+"The maritime ecosystem is global, but startup ecosystems are mostly local and tend to operate in silos. Coalitions like this are important to gain access to new investment opportunities and complement expertise and network reach. We believe that the shipping and technology depth of Signal coupled with data from The Signal Ocean Platform will accelerate the development of Flagship Founders’ventures and together we will advance venture building for maritime technology start-ups worldwide."
+
 **About Signal**
 
 Signal’s vision is to make global shipping more efficient, effective and profitable through the application of technology and market experience. Our passion for applied science and technology and our understanding of the complex shipping business continues to open up new opportunities.

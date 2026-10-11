@@ -51,9 +51,9 @@ Aluminium prices have recovered in recent days following trading at the lowest l
 
 The drop in demand has also translated into declining bauxite exports from Guinea, one of the largest suppliers of the vital ingredient for aluminium production. However, volumes loading in West Africa have started to recover in recent weeks, albeit from very low levels.
 
-![Market Chart 1](assets/2022-07-21_global-market-update_img_unnamed285029_980e7dbc7a01.png)
+![Market Chart 1](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-07-21_global-market-update_img_unnamed285029_980e7dbc7a01.png)
 
 > **Figure 1: Market Chart 1**  
-> **Interactive Data & Source:** [Shipfix](https://shipfix.com/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-07-21_global-market-update_img_unnamed285029_980e7dbc7a01.png)
+> **Interactive Data & Source:** [Shipfix](https://shipfix.com/) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-07-21_global-market-update_img_unnamed285029_980e7dbc7a01.png)
 
 Data Source:[Shipfix](https://shipfix.com/)

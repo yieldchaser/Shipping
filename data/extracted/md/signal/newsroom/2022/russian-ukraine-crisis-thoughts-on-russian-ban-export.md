@@ -38,11 +38,11 @@ Using the [Signal Ocean platform](https://www.thesignalgroup.com/signal-ocean/si
 In the graph 1, we can see that Handysize vessel size is the most exposed with Russian-Ukraine tensions injecting worries about the future development of agricultural supplies. The Russian exports account for 7% of the seaborne exported volumes by Handysize vessels, which also implies the importance of wheat exports on smaller dry bulk vessels. The next vessel size is the Panamax and post Panamax with Russian coal exported volumes playing a major role on the seaborne demand transportation for bigger vessel sizes.
 
 
-![Graph 1 Data Source: The Signal Ocean Data, Russian Exports, % Share, Dry Bulk, Year 2021, per Vessel Size](../../images/66b51e27eb66ac4fa9ad1c75_62388f8d2388e436dd404e71_image%20(202).avif)
+![Graph 1 Data Source: The Signal Ocean Data, Russian Exports, % Share, Dry Bulk, Year 2021, per Vessel Size](../../images/66b51e27eb66ac4fa9ad1c75_62388f8d2388e436dd404e71_image%2520(202).avif)
 
 > **Figure 1: Graph 1 Data Source: The Signal Ocean Data, Russian Exports, % Share, Dry Bulk, Year 2021, per Vessel Size**  
 > *Graph 1 Data Source: The Signal Ocean Data, Russian Exports, % share, Dry Bulk, Year 2021, Per Vessel Size*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/russian-ukraine-crisis-thoughts-on-russian-ban-export) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/66b51e27eb66ac4fa9ad1c75_62388f8d2388e436dd404e71_image%20(202).avif)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/russian-ukraine-crisis-thoughts-on-russian-ban-export) | [Local Asset](../../../../../../corpus/07-signal/images/66b51e27eb66ac4fa9ad1c75_62388f8d2388e436dd404e71_image%2520(202).avif)
 
 In the iron ore market, the minor role of the Russian economy on iron ore exports is being reflected in the Capesize segment with only a 2% share in the previous year (Graph 1). In addition, the very large ore carriers, as expected, are not at all impacted by the dynamics of Russian exports, where we see the iron ore mining investments from Australia and Brazil having tremendous effects on the euphoria of rates given the ongoing Chinese economic stimulus package.
 
@@ -54,11 +54,11 @@ It is noteworthy to mention that despite the weak effect of Russian iron ore exp
 Dry bulk rates for the smaller ship sizes, Handysize NOPAC-FE and Supramax China-Waf recorded significant increase from February 28th till today (Graph 2). We see Handysize NOPAC-FE rates at levels around $70/t and Supramax China-Wafr excess $90/t. There is also a notable increase in the Panamax Cont-FEast route as intense concerns on a potential coal supply shortage has triggered more demand towards the Far East. In the Capesize segment, the upturn of freight rates appears softer, while it seems that iron ore carriers are not severely influenced by the ongoing geopolitical uncertainties.
 
 
-![Graph 2 Data Source: Signal Ocean Data, Dry Market Rates, $/ton, 2021-2022](../../images/66b51e28eb66ac4fa9ad1cd7_62388fe8e35cba845aef2467_image%20(203).avif)
+![Graph 2 Data Source: Signal Ocean Data, Dry Market Rates, $/ton, 2021-2022](../../images/66b51e28eb66ac4fa9ad1cd7_62388fe8e35cba845aef2467_image%2520(203).avif)
 
 > **Figure 2: Graph 2 Data Source: Signal Ocean Data, Dry Market Rates, $/ton, 2021-2022**  
 > *Graph 2 Data Source: Signal Ocean Data, Dry Market Rates, $/ton, 2021-2022*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/russian-ukraine-crisis-thoughts-on-russian-ban-export) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/66b51e28eb66ac4fa9ad1cd7_62388fe8e35cba845aef2467_image%20(203).avif)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/russian-ukraine-crisis-thoughts-on-russian-ban-export) | [Local Asset](../../../../../../corpus/07-signal/images/66b51e28eb66ac4fa9ad1cd7_62388fe8e35cba845aef2467_image%2520(203).avif)
 
 The Russian and Ukraine grain markets as leading wheat exporters have already started to change the world seaborne transportation scene. The geopolitical picture has sparked fears on grain food suppliers that have led [Middle East and North African](https://www.dw.com/en/middle-east-faces-severe-wheat-crisis-over-war-in-ukraine/a-61056418) countries to seek alternative sources instead of Russian-Ukraine wheat exported volumes. Overall, the Black Sea and Mediterranean grain market supplies not only the Middle East-North Africa, but even more China. Last month, China announced that it is not going to impose restrictions on Russian wheat imports, while it has started to [buy corn and soybean](https://www.dw.com/en/middle-east-faces-severe-wheat-crisis-over-war-in-ukraine/a-61056418) from the U.S. to avert future supply shortages.
 
@@ -72,11 +72,11 @@ The threat on air for the future evolution of dry bulk freight rates on specific
 The importance of Russian oil exports is significantly higher in the tanker segment than in the dry, but still smaller vessel sizes are the most exposed both in the dirty and clean segments. We see that the MR1 size has taken almost 25% share of Russian exports in the dirty and 14% in the clean, whereas in the Aframax less than 20% share in the dirty and 8% share in the clean. The MR2 size presents a higher percentage in the dirty than in the clean segment with 10% share in the dirty compared to only 3% in the clean. Panamax vessel size appears to be less exposed to dirty cargoes in comparison with the MR2 size, but of lower percentages both in the dirty and clean. Lastly, the Suezmax comes only with a percentage of influence in the dirty, of around 7% share, while VLCCs with no recorded impact.
 
 
-![Graph 3 Data Source: The Signal Ocean Data, Russian Exports, % Share, Dirty/clean, Tankers, Year 2021, per Vessel Size](../../images/66b51e27eb66ac4fa9ad1c7a_6238900c5779e303dbac2e05_image%20(204).avif)
+![Graph 3 Data Source: The Signal Ocean Data, Russian Exports, % Share, Dirty/clean, Tankers, Year 2021, per Vessel Size](../../images/66b51e27eb66ac4fa9ad1c7a_6238900c5779e303dbac2e05_image%2520(204).avif)
 
 > **Figure 3: Graph 3 Data Source: The Signal Ocean Data, Russian Exports, % Share, Dirty/clean, Tankers, Year 2021, per Vessel Size**  
 > *Graph 3 Data Source: The Signal Ocean Data, Russian Exports, % share, Dirty/Clean, Tankers, Year 2021, Per Vessel Size*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/russian-ukraine-crisis-thoughts-on-russian-ban-export) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/66b51e27eb66ac4fa9ad1c7a_6238900c5779e303dbac2e05_image%20(204).avif)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/russian-ukraine-crisis-thoughts-on-russian-ban-export) | [Local Asset](../../../../../../corpus/07-signal/images/66b51e27eb66ac4fa9ad1c7a_6238900c5779e303dbac2e05_image%2520(204).avif)
 
 The worries for the future security of Russian oil supplies are increasing as there are not yet guarantees how the ongoing conflict will damage the existing inventories and production. The [IEA](https://www.reuters.com/business/energy/iea-says-3-mln-bpd-russian-oil-could-be-shut-next-month-2022-03-16/) recently calculated a potential loss of around 3mil barrels per day of Russian crude and refined products from April that could spur another round of volatility in oil prices and dampen world demand.
 
@@ -86,11 +86,11 @@ The worries for the future security of Russian oil supplies are increasing as th
 The impact of the geopolitical uncertainty from the ongoing conflicts and fears on oil supply losses from the Russian market have soared dirty and clean WS freight rates to astonishing levels within the first two weeks of March (Graph 4). It is noteworthy that the evolution of rates have reached levels not seen ever before over the last five years. In the Aframax segment, Baltic WS rates exceeded WS500 and Suez BalticSea-Mediterranean rates neared WS300. However, the last few days we have seen a drop in the escalation of Aframax Baltic WS rates, but they still remain excessively higher with the European Union being in uncertainty for the replacement of Russian oil supplies.
 
 
-![Graph 4 Data Source: The Signal Ocean Data, WS Rates, Dirty/clean, Tankers, 2021-2022](../../images/66b51e28eb66ac4fa9ad1ce6_62389035588f0f783b3cb638_image%20(205).avif)
+![Graph 4 Data Source: The Signal Ocean Data, WS Rates, Dirty/clean, Tankers, 2021-2022](../../images/66b51e28eb66ac4fa9ad1ce6_62389035588f0f783b3cb638_image%2520(205).avif)
 
 > **Figure 4: Graph 4 Data Source: The Signal Ocean Data, WS Rates, Dirty/clean, Tankers, 2021-2022**  
 > *Graph 4 Data Source: The Signal Ocean Data, WS Rates, Dirty/Clean, Tankers, 2021-2022*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/russian-ukraine-crisis-thoughts-on-russian-ban-export) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/66b51e28eb66ac4fa9ad1ce6_62389035588f0f783b3cb638_image%20(205).avif)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/russian-ukraine-crisis-thoughts-on-russian-ban-export) | [Local Asset](../../../../../../corpus/07-signal/images/66b51e28eb66ac4fa9ad1ce6_62389035588f0f783b3cb638_image%2520(205).avif)
 
 In the clean segment, for the Baltic to Continent route,MR1 vessel size records almost the same surprising picture with the dirty Baltic routes, and it is interesting to see WS rates hovering above  of Suezmax WS rates, almost at WS400.
 

@@ -32,14 +32,26 @@ In aggregate, crude and product imports into Australia have been relatively cons
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: Coming Clean Down Under](../../../charts/poten/2015/poten_2015-03-27_coming-clean-down-under_chart1.png)
+![Exhibit 1: Australian Clean Product Imports vs Refinery Runs](../../../charts/poten/2015/poten_2015-03-27_coming-clean-down-under_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2015/poten_2015-03-27_coming-clean-down-under_chart1.png)
+> **Exhibit 1: Australian Clean Product Imports vs Refinery Runs**  
+> Unit: Kb/d · X-axis: Jan2010 to Jan2015  
+> Series: Motor and aviation gasoline, Kerosenes, Gas/diesel oil, Other oil products, Refinery output  
+> *Source: JODI*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2015/poten_2015-03-27_coming-clean-down-under_chart1.png)
 
-![Exhibit 2: Coming Clean Down Under](../../../charts/poten/2015/poten_2015-03-27_coming-clean-down-under_chart2.png)
+![Exhibit 2: Clean Product Imports](../../../charts/poten/2015/poten_2015-03-27_coming-clean-down-under_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2015/poten_2015-03-27_coming-clean-down-under_chart2.png)
+> **Exhibit 2: Clean Product Imports**  
+> Unit: % · X-axis: Singapore to Other  
+> Series: Singapore, Japan, S Korea, Indonesia, Taiwan, Other  
+> *Source: Australian Dep. Of Industry and Science*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2015/poten_2015-03-27_coming-clean-down-under_chart2.png)
 
-![Exhibit 3: Coming Clean Down Under](../../../charts/poten/2015/poten_2015-03-27_coming-clean-down-under_chart3.png)
+![Exhibit 3: Crude Imports](../../../charts/poten/2015/poten_2015-03-27_coming-clean-down-under_chart3.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2015/poten_2015-03-27_coming-clean-down-under_chart3.png)
+> **Exhibit 3: Crude Imports**  
+> Unit: % · X-axis: Malaysia to Other  
+> Series: Malaysia, UAE, Indonesia, Nigeria, Vietnam, Other  
+> *Source: Australian Dep. Of Industry and Science*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2015/poten_2015-03-27_coming-clean-down-under_chart3.png)

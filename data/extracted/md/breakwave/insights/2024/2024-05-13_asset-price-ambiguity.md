@@ -20,10 +20,10 @@ source_file: "corpus/03-breakwave/insights/2024/2024-05-13_asset-price-ambiguity
 
 ---
 
-![Nissos Nikouria 4](assets/2024-05-13_asset-price-ambiguity_img_nissos-nikouria-4_967132817018.jpg)
+![Nissos Nikouria 4](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-05-13_asset-price-ambiguity_img_nissos-nikouria-4_967132817018.jpg)
 
 > **Figure 1: Nissos Nikouria 4**  
-> **Interactive Data & Source:** [Gibsons Co](https://www.gibsons.co.uk/market-reports) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-05-13_asset-price-ambiguity_img_nissos-nikouria-4_967132817018.jpg)
+> **Interactive Data & Source:** [Gibsons Co](https://www.gibsons.co.uk/market-reports) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-05-13_asset-price-ambiguity_img_nissos-nikouria-4_967132817018.jpg)
 
 VLCC asset prices appear to be caught in a paradoxical market scenario. While conventional market sentiment and pricing models would suggest that prices are reaching overheated levels, mirroring the peaks seen in 2008, the underlying supply dynamics seem to justify these increases for now.
 
@@ -37,10 +37,10 @@ Furthermore, an aspect frequently omitted in such asset price assessments is the
 
 However, the combination of geopolitical tensions, reasonably low orderbook and an ageing fleet show little sign of major downward pressure on freight rates over the next two to three years. When valued against forward earnings potential, it could be argued that both newbuild and secondhand values are reasonable and may remain at elevated levels for some time.
 
-![Στιγμιότυπο Οθόνης 2024 05 13 133919](assets/2024-05-13_asset-price-ambiguity_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_53b0ef0d3c67.png)
+![Στιγμιότυπο Οθόνης 2024 05 13 133919](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-05-13_asset-price-ambiguity_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_53b0ef0d3c67.png)
 
 > **Figure 2: Στιγμιότυπο Οθόνης 2024 05 13 133919**  
-> **Interactive Data & Source:** [Gibsons Co](https://www.gibsons.co.uk/market-reports) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-05-13_asset-price-ambiguity_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_53b0ef0d3c67.png)
+> **Interactive Data & Source:** [Gibsons Co](https://www.gibsons.co.uk/market-reports) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-05-13_asset-price-ambiguity_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_53b0ef0d3c67.png)
 
 Data source:[Gibson Shipbrokers](https://www.gibsons.co.uk/market-reports)
 

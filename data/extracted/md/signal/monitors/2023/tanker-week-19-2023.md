@@ -33,7 +33,7 @@ tags:
 
 > **Figure 1: Data Source: The Signal Ocean Platform - Supply / Demand Ton Charts Https://app.signalocean.com/tanker/reports/historicaltl**  
 > *Data Source: The Signal Ocean Platform - Supply / Demand Ton Charts https://app.signalocean.com/tanker/reports/historicaltl*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/tanker-week-19-2023) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/645de7a133351959b3b8c14d_chart of the week wet logo.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/tanker-week-19-2023) | [Local Asset](../../../../../../corpus/07-signal/images/645de7a133351959b3b8c14d_chart%20of%20the%20week%20wet%20logo.png)
 
 Freight rates for VLCC crude oil tankers continued to weaken in the second week of May, with the number of vessels at the Ras Tanura port of loading rising to a surprising level (left chart above) and reaching a high of more than 100, while ton-miles demanded from AG to China for VLCC tankers is at a lower level than the same period last year. (right chart above).
 

@@ -26,10 +26,10 @@ China's industrial production in March increased year-on-year by 7.7%. Excluding
 
 Of note in China's steel market is that the most recently released data shows that daily crude steel production at large and medium-sized mills in China averaged an impressive 2.2 million tons during April 1 - April 10. This is up by 3% from late March and is up year-on-year by 4%. China’s steel production has remained up on a year-on-year basis almost consistently since the middle of October. Prior to the middle of October, China's steel production last year had remained stuck in a year-on-year contraction throughout almost all of late February through early October.
 
-![Chart](assets/2025-04-21_chinas-industrial-sector-including-steel-continues-to-fare-well_img_chart_a23edb11cbce.jpg)
+![Chart](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-04-21_chinas-industrial-sector-including-steel-continues-to-fare-well_img_chart_a23edb11cbce.jpg)
 
 > **Figure 1: Chart**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-04-21_chinas-industrial-sector-including-steel-continues-to-fare-well_img_chart_a23edb11cbce.jpg)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-04-21_chinas-industrial-sector-including-steel-continues-to-fare-well_img_chart_a23edb11cbce.jpg)
 
 ---
 

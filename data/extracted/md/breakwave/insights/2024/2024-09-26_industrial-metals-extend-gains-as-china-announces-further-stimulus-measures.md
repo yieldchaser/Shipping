@@ -24,10 +24,10 @@ Further stimulus measures in China helped push industrial metals higher. Oil mar
 
 *By*[*Daniel Hynes*](https://www.linkedin.com/in/dahynes/)
 
-![Στιγμιότυπο Οθόνης 2024 09 26 081836](assets/2024-09-26_industrial-metals-extend-gains-as-china-announces-further-stimulus-measures_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_43c949a5d3f1.png)
+![Στιγμιότυπο Οθόνης 2024 09 26 081836](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-09-26_industrial-metals-extend-gains-as-china-announces-further-stimulus-measures_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_43c949a5d3f1.png)
 
 > **Figure 1: Στιγμιότυπο Οθόνης 2024 09 26 081836**  
-> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-09-26_industrial-metals-extend-gains-as-china-announces-further-stimulus-measures_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_43c949a5d3f1.png)
+> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-09-26_industrial-metals-extend-gains-as-china-announces-further-stimulus-measures_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_43c949a5d3f1.png)
 
 ### Market Commentary
 
@@ -45,10 +45,10 @@ Further stimulus measures in China helped push industrial metals higher. Oil mar
 
 Another weekly drawdown in US oil inventories signals strong demand in the world's biggest consumer.
 
-![Στιγμιότυπο Οθόνης 2024 09 26 081929](assets/2024-09-26_industrial-metals-extend-gains-as-china-announces-further-stimulus-measures_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_12365cec35b4.png)
+![Στιγμιότυπο Οθόνης 2024 09 26 081929](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-09-26_industrial-metals-extend-gains-as-china-announces-further-stimulus-measures_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_12365cec35b4.png)
 
 > **Figure 2: Στιγμιότυπο Οθόνης 2024 09 26 081929**  
-> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-09-26_industrial-metals-extend-gains-as-china-announces-further-stimulus-measures_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_12365cec35b4.png)
+> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-09-26_industrial-metals-extend-gains-as-china-announces-further-stimulus-measures_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_12365cec35b4.png)
 
 Data source:[Commodities Wrap](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI)
 

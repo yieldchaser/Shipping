@@ -20,19 +20,19 @@ source_file: "corpus/03-breakwave/insights/2026/2026-07-24_hkc-one-year-on-why-d
 
 ---
 
-![Rgb Color Brs Shipbrokers Monogram L](assets/2026-07-24_hkc-one-year-on-why-demolition-remains-subdued_img_rgb-color-brs-shipbrokers-monogram-l_c365f35f1de5.png)
+![Rgb Color Brs Shipbrokers Monogram L](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-07-24_hkc-one-year-on-why-demolition-remains-subdued_img_rgb-color-brs-shipbrokers-monogram-l_c365f35f1de5.png)
 
 > **Figure 1: Rgb Color Brs Shipbrokers Monogram L**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-07-24_hkc-one-year-on-why-demolition-remains-subdued_img_rgb-color-brs-shipbrokers-monogram-l_c365f35f1de5.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-07-24_hkc-one-year-on-why-demolition-remains-subdued_img_rgb-color-brs-shipbrokers-monogram-l_c365f35f1de5.png)
 
 One year after the Hong Kong International Convention for the Safe and Environmentally Sound Recycling of Ships (HKC) entered into force, the widely expected wave of demolition has still not arrived. When the HKC formally took effect in June 2025, many in the market expected a visible increase in recycling volumes, supported by an ageing global fleet, tighter environmentals regulation and rising newbuilding deliveries.
 
 In theory, all these factors should have accelerated the exit of older tonnage. However, in practice data suggests that demolition activity has remained subdued.
 
-![2](assets/2026-07-24_hkc-one-year-on-why-demolition-remains-subdued_img_2_a9973131c667.png)
+![2](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-07-24_hkc-one-year-on-why-demolition-remains-subdued_img_2_a9973131c667.png)
 
 > **Figure 2: 2**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-07-24_hkc-one-year-on-why-demolition-remains-subdued_img_2_a9973131c667.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-07-24_hkc-one-year-on-why-demolition-remains-subdued_img_2_a9973131c667.png)
 
 ### Why Have Dry Bulk Owners Been So Reluctant to Scrap?
 
@@ -50,10 +50,10 @@ Looking at the bulkers actually recycled so far this year, scrapping candidates 
 
 At present, bulkers aged 20-24 years only account for around 7% of the dry bulker active fleet, and many of these vessels are gradually entering their fifth special survey window. Even so, they will not necessarily flow directly into the demolition market. For a geared-size bulker of more than 20 years old, special survey costs are typically around $300,000. This adds cost pressure, but if the vessel can still secure positive cash flow, the owner may still choose to pass the survey and continue trading. Only when survey, repair and compliance costs clearly exceed expected future earnings, or when second-hand value falls close to or below recycling value, does special survey become a genuine demolition trigger
 
-![3](assets/2026-07-24_hkc-one-year-on-why-demolition-remains-subdued_img_3_75bb4f12cdce.png)
+![3](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-07-24_hkc-one-year-on-why-demolition-remains-subdued_img_3_75bb4f12cdce.png)
 
 > **Figure 3: 3**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-07-24_hkc-one-year-on-why-demolition-remains-subdued_img_3_75bb4f12cdce.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-07-24_hkc-one-year-on-why-demolition-remains-subdued_img_3_75bb4f12cdce.png)
 
 The recycling pattern seen so far this year supports this logic. In the limited dry bulk demolition activity recorded in 2026 to date, recycling has remained concentrated in the Indian subcontinent rather than expanding globally simply because the HKC has taken effect. Bangladesh has re-established itself as the leading destination for dry bulk recycling, taking more than half of the reported bulk carrier demolition volume and showing particular strength in the 60,000-99,999 Dwt segment. Around 83% of Panamax and Post-Panamax bulkers recycled this year have gone to Bangladesh.
 

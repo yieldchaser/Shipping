@@ -32,7 +32,7 @@ tags:
 ![65d75fbec15ada7de9b2214a Suezmax (1)](../../images/65d75fbec15ada7de9b2214a_suezmax (1).png)
 
 > **Figure 1: 65d75fbec15ada7de9b2214a Suezmax (1)**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/tanker-week-8-2024) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/65d75fbec15ada7de9b2214a_suezmax (1).png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/tanker-week-8-2024) | [Local Asset](../../../../../../corpus/07-signal/images/65d75fbec15ada7de9b2214a_suezmax%20(1).png)
 
 In the final days of February, the VLCC MEG-China route attracted market attention as rates appeared to peak suddenly in mid-February before subsequently retracting to weaker levels. It remains uncertain whether the month's end will bring about a sustained rebound, given the ongoing decrease in tonne days for the VLCC segment. On the supply side, the latest figures show an unexpected increase for VLCC Ras Tanura, defying expectations of levels below the annual average. The volatility between lows and highs recorded from week to week creates instability, making it challenging for VLCC rates to establish a firmer sentiment. Meanwhile, in the Suezmax segment, there has been a notable strengthening in the evolution of Suezmax dirty tonnes from AG to Med UK, evidenced by a significant spike in rates ($/d).
 

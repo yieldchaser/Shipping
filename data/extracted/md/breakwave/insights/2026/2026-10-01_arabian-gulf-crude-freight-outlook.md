@@ -20,38 +20,38 @@ source_file: "corpus/03-breakwave/insights/2026/2026-10-01_arabian-gulf-crude-fr
 
 ---
 
-![Saudi Exports Are Recovering Through Both Hormuz and Yanbu](assets/2026-10-01_arabian-gulf-crude-freight-outlook_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_90560891a7d7.png)
+![Saudi Exports Are Recovering Through Both Hormuz and Yanbu](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-10-01_arabian-gulf-crude-freight-outlook_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_90560891a7d7.png)
 
 > **Figure 1: Saudi Exports Are Recovering Through Both Hormuz and Yanbu**  
 > *Saudi exports are recovering through both Hormuz and Yanbu, but the additional barrels are moving through a vessel intensive system that has not restored normal tanker availability or voyage costs.*  
-> **Interactive Data & Source:** [Allied-shipbroking](https://www.allied-shipbroking.gr/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-10-01_arabian-gulf-crude-freight-outlook_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_90560891a7d7.png)
+> **Interactive Data & Source:** [Allied-shipbroking](https://www.allied-shipbroking.gr/) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-10-01_arabian-gulf-crude-freight-outlook_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_90560891a7d7.png)
 
 East West Pipeline Red Sea Risk and the Wider Tanker Market
 
 This week's Allied QuantumSea Research reviews the latest phase of Saudi crude export recovery. The East-West Pipeline is moving about 3.5 million barrels per day and overseas shipments from Yanbu have resumed. Saudi-linked VLCC transits through Hormuz have also reached their highest weekly level since the conflict began. The additional volume is important, but the operating system still depends on protected passages, ship-to-ship transfers, elevated war-risk cover and restricted owner acceptance around Bab el-Mandeb.
 
-![Στιγμιότυπο Οθόνης 2026 09 30 142441](assets/2026-10-01_arabian-gulf-crude-freight-outlook_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_1ccedbd17c3c.png)
+![Στιγμιότυπο Οθόνης 2026 09 30 142441](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-10-01_arabian-gulf-crude-freight-outlook_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_1ccedbd17c3c.png)
 
 > **Figure 2: Στιγμιότυπο Οθόνης 2026 09 30 142441**  
-> **Interactive Data & Source:** [Allied-shipbroking](https://www.allied-shipbroking.gr/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-10-01_arabian-gulf-crude-freight-outlook_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_1ccedbd17c3c.png)
+> **Interactive Data & Source:** [Allied-shipbroking](https://www.allied-shipbroking.gr/) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-10-01_arabian-gulf-crude-freight-outlook_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_1ccedbd17c3c.png)
 
 ### Saudi Export Recovery Is Material But Remains Operationally Constrained
 
 September oil shipments through Hormuz are estimated at approximately 7.4 million barrels per day, while combined crude exports from the principal Middle East producers have recovered to 12.8 million barrels per day, the highest level since the conflict began in February. Hormuz flows nevertheless remain well below the approximately 20 million barrels per day that passed through the strait before the conflict. The recovery is concentrated on crude tankers rather than a broad return of commercial shipping. Preliminary vessel tracking recorded 19 Saudi-linked VLCC transits during 14-20 September, up from five in the previous week and the highest weekly total since the conflict began. These figures show that Saudi Arabia is restoring exports through two constrained routes at the same time. Higher Gulf loadings support VLCC employment and shuttle demand, while renewed pipeline flows shift part of the loading programme back toward Yanbu without removing Red Sea insurance and passage risk.
 
-![Στιγμιότυπο Οθόνης 2026 09 30 142453](assets/2026-10-01_arabian-gulf-crude-freight-outlook_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_dc31ada600e4.png)
+![Στιγμιότυπο Οθόνης 2026 09 30 142453](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-10-01_arabian-gulf-crude-freight-outlook_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_dc31ada600e4.png)
 
 > **Figure 3: Στιγμιότυπο Οθόνης 2026 09 30 142453**  
-> **Interactive Data & Source:** [Allied-shipbroking](https://www.allied-shipbroking.gr/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-10-01_arabian-gulf-crude-freight-outlook_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_dc31ada600e4.png)
+> **Interactive Data & Source:** [Allied-shipbroking](https://www.allied-shipbroking.gr/) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-10-01_arabian-gulf-crude-freight-outlook_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_dc31ada600e4.png)
 
 ### Higher Exports Have Not Produced Cheaper Freight
 
 Daily TCE assessments on 24 September remained well above their recent monthly comparisons. The TD3C Arabian Gulf–China VLCC assessment increased marginally to $1.29 million per day from $1.27 million on 17 September, compared with $678,000 last month. TD20 West Africa–UK Continent Suezmax earnings eased to $242,000 per day from $253,000 but remained more than double the last-month level of $118,000. TD25 US Gulf–UK Continent Aframax earnings strengthened further to $175,000 per day, up from $137,000 on 17 September and approximately four times the last-month assessment of $43,000.
 
-![Στιγμιότυπο Οθόνης 2026 09 30 142506](assets/2026-10-01_arabian-gulf-crude-freight-outlook_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_b3c83cff227d.png)
+![Στιγμιότυπο Οθόνης 2026 09 30 142506](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-10-01_arabian-gulf-crude-freight-outlook_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_b3c83cff227d.png)
 
 > **Figure 4: Στιγμιότυπο Οθόνης 2026 09 30 142506**  
-> **Interactive Data & Source:** [Allied-shipbroking](https://www.allied-shipbroking.gr/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-10-01_arabian-gulf-crude-freight-outlook_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_b3c83cff227d.png)
+> **Interactive Data & Source:** [Allied-shipbroking](https://www.allied-shipbroking.gr/) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-10-01_arabian-gulf-crude-freight-outlook_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_b3c83cff227d.png)
 
 ### The Bypass Has Its Own Maritime Constraint
 
@@ -73,10 +73,10 @@ The latest assessments show that the freight escalation is no longer confined to
 
 This shift points to a wider tightening across the crude-tanker complex. Atlantic owners are pricing the opportunity cost of repositioning vessels toward the East, while longer replacement-crude voyages from the Americas and West Africa are competing for tonnage already affected by Gulf shuttle demand, STS operations and extended voyage duration. The result is a broader reduction in effective vessel availability, with the strongest acceleration now visible outside the VLCC segment.
 
-![Στιγμιότυπο Οθόνης 2026 09 30 142523](assets/2026-10-01_arabian-gulf-crude-freight-outlook_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_c59a3de473c9.png)
+![Στιγμιότυπο Οθόνης 2026 09 30 142523](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-10-01_arabian-gulf-crude-freight-outlook_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_c59a3de473c9.png)
 
 > **Figure 5: Στιγμιότυπο Οθόνης 2026 09 30 142523**  
-> **Interactive Data & Source:** [Allied-shipbroking](https://www.allied-shipbroking.gr/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-10-01_arabian-gulf-crude-freight-outlook_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_c59a3de473c9.png)
+> **Interactive Data & Source:** [Allied-shipbroking](https://www.allied-shipbroking.gr/) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-10-01_arabian-gulf-crude-freight-outlook_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_c59a3de473c9.png)
 
 ### Fuel Remains Expensive But Is Not the Sole Driver
 
@@ -84,11 +84,11 @@ Marine fuel prices declined during the latest week, but most remained above thei
 
 The combination of declining weekly bunker prices and rising VLCC and Aframax earnings is important. It shows that the latest freight escalation cannot be explained by fuel costs alone. Security exposure, restricted owner acceptance, STS operations and the loss of productive vessel time play a larger role in freight pricing.
 
-![Freight and Bunker Benchmarks Reflect the Supplied Market Table](assets/2026-10-01_arabian-gulf-crude-freight-outlook_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_709f697db75f.png)
+![Freight and Bunker Benchmarks Reflect the Supplied Market Table](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-10-01_arabian-gulf-crude-freight-outlook_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_709f697db75f.png)
 
 > **Figure 6: Freight and Bunker Benchmarks Reflect the Supplied Market Table**  
 > *Freight and bunker benchmarks reflect the supplied market table dated 24 September 2026. Percentage comparisons are calculated from the displayed TCE values. Pipeline, export and vessel-transit figures reflect public operational and tracking updates available through 28 September 2026. Pipeline throughput has not been confirmed by Saudi Aramco. Shipment and transit estimates are preliminary, use different measurement scopes and may be revised. AIS-based movements may be undercount protected or non-transmitting vessels.*  
-> **Interactive Data & Source:** [Allied-shipbroking](https://www.allied-shipbroking.gr/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-10-01_arabian-gulf-crude-freight-outlook_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_709f697db75f.png)
+> **Interactive Data & Source:** [Allied-shipbroking](https://www.allied-shipbroking.gr/) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-10-01_arabian-gulf-crude-freight-outlook_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_709f697db75f.png)
 
 ### Crude Tanker Market Outlook
 

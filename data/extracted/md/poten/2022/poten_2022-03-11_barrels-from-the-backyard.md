@@ -30,10 +30,18 @@ The impact on the tanker market of more Venezuelan is likely limited in the shor
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: Barrels From The Backyard](../../../charts/poten/2022/poten_2022-03-11_barrels-from-the-backyard_chart1.png)
+![Exhibit 1: Venezuela* Crude Oil Exports](../../../charts/poten/2022/poten_2022-03-11_barrels-from-the-backyard_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2022/poten_2022-03-11_barrels-from-the-backyard_chart1.png)
+> **Exhibit 1: Venezuela* Crude Oil Exports**  
+> Unit: Kb/d · X-axis: Jan-14 to Jan-22  
+> Series: USA, China, India, S Europe, NW Europe, Other  
+> *Source: Lloyd's List Intelligence*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2022/poten_2022-03-11_barrels-from-the-backyard_chart1.png)
 
-![Exhibit 2: Barrels From The Backyard](../../../charts/poten/2022/poten_2022-03-11_barrels-from-the-backyard_chart2.png)
+![Exhibit 2: Venezuelan Crude Oil Production](../../../charts/poten/2022/poten_2022-03-11_barrels-from-the-backyard_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2022/poten_2022-03-11_barrels-from-the-backyard_chart2.png)
+> **Exhibit 2: Venezuelan Crude Oil Production**  
+> Unit: Mb/d · X-axis: Jan-14 to Jan-22  
+> Series: Venezuelan Crude Oil Production  
+> *Source: IEA*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2022/poten_2022-03-11_barrels-from-the-backyard_chart2.png)

@@ -28,10 +28,18 @@ As U.S. exports ramped up in 2017, more VLCCs were utilized and export markets i
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: US Exports to the Rescue](../../../charts/poten/2022/poten_2022-02-11_us-exports-to-the-rescue_chart1.png)
+![Exhibit 1: US Crude Oil Production & Exports](../../../charts/poten/2022/poten_2022-02-11_us-exports-to-the-rescue_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2022/poten_2022-02-11_us-exports-to-the-rescue_chart1.png)
+> **Exhibit 1: US Crude Oil Production & Exports**  
+> Unit: Mb/d · X-axis: Jan-10 to Jul-23  
+> Series: Alaska, Gulf Of Mexico, Lower 48, Crude Oil Exports  
+> *Source: EIA*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2022/poten_2022-02-11_us-exports-to-the-rescue_chart1.png)
 
-![Exhibit 2: US Exports to the Rescue](../../../charts/poten/2022/poten_2022-02-11_us-exports-to-the-rescue_chart2.png)
+![Exhibit 2: Seaborne Crude Exports from United States of America](../../../charts/poten/2022/poten_2022-02-11_us-exports-to-the-rescue_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2022/poten_2022-02-11_us-exports-to-the-rescue_chart2.png)
+> **Exhibit 2: Seaborne Crude Exports from United States of America**  
+> Unit: Kbbl / Day · X-axis: Jan-16 to Oct-21  
+> Series: China/Korea, India, Other Asia, UKC/Baltic, Mediterranean, Americas (Atl), Other  
+> *Source: Lloyd’s List Intelligence*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2022/poten_2022-02-11_us-exports-to-the-rescue_chart2.png)

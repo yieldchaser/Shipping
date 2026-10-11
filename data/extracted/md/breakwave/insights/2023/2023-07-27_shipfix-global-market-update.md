@@ -55,9 +55,9 @@ Still, Chinese steel exports may see a rebound in the coming months. Shipfix’s
 
 The average cargo size for steel loading in China has remained stable over the past few months. After a minor increase in March to around 31,000 tonnes, the typical steel cargo has stabilised at approximately 28,000 tonnes.
 
-![Market Chart 1](assets/2023-07-27_shipfix-global-market-update_img_unnamed-2023-07-27t131242959_09a1f6a0bb7a.png)
+![Market Chart 1](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-07-27_shipfix-global-market-update_img_unnamed-2023-07-27t131242959_09a1f6a0bb7a.png)
 
 > **Figure 1: Market Chart 1**  
-> **Interactive Data & Source:** [Shipfix](https://shipfix.com/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-07-27_shipfix-global-market-update_img_unnamed-2023-07-27t131242959_09a1f6a0bb7a.png)
+> **Interactive Data & Source:** [Shipfix](https://shipfix.com/) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-07-27_shipfix-global-market-update_img_unnamed-2023-07-27t131242959_09a1f6a0bb7a.png)
 
 Data Source:[Shipfix](https://shipfix.com/)

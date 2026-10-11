@@ -86,8 +86,8 @@ information on the services and research products offered by our Marine Projects
 
 ![Exhibit 1: Public Displays of Capital Injection](../../../charts/poten/2011/poten_2011-09-23_public-displays-of-capital-injection_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2011/poten_2011-09-23_public-displays-of-capital-injection_chart1.png)
+> **Interactive Asset:** [Local Asset (200 DPI PNG)](../../../charts/poten/2011/poten_2011-09-23_public-displays-of-capital-injection_chart1.png)
 
 ![Exhibit 2: Public Displays of Capital Injection](../../../charts/poten/2011/poten_2011-09-23_public-displays-of-capital-injection_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2011/poten_2011-09-23_public-displays-of-capital-injection_chart2.png)
+> **Interactive Asset:** [Local Asset (200 DPI PNG)](../../../charts/poten/2011/poten_2011-09-23_public-displays-of-capital-injection_chart2.png)

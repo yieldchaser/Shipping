@@ -117,4 +117,4 @@ The prospect of crude oil exports from the United States, a result of increasing
 
 ![Exhibit 1: The Growing Presence of the United States as Energy Exporter](../../../charts/poten/2013/poten_2013-04-26_the-growing-presence-of-the-united-states-as-energy-exporter_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2013/poten_2013-04-26_the-growing-presence-of-the-united-states-as-energy-exporter_chart1.png)
+> **Interactive Asset:** [Local Asset (200 DPI PNG)](../../../charts/poten/2013/poten_2013-04-26_the-growing-presence-of-the-united-states-as-energy-exporter_chart1.png)

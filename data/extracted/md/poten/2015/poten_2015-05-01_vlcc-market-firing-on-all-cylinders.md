@@ -32,10 +32,18 @@ In conclusion, the VLCC market is fairly balanced and as long as the oil keeps f
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: VLCC Market Firing On All Cylinders](../../../charts/poten/2015/poten_2015-05-01_vlcc-market-firing-on-all-cylinders_chart1.png)
+![Exhibit 1: AG- East VLCC rates ($/Day)](../../../charts/poten/2015/poten_2015-05-01_vlcc-market-firing-on-all-cylinders_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2015/poten_2015-05-01_vlcc-market-firing-on-all-cylinders_chart1.png)
+> **Exhibit 1: AG- East VLCC rates ($/Day)**  
+> Unit: $/Day · X-axis: Jan to Dec  
+> Series: 2012, 2013, 2014, 2015  
+> *Source: Poten & Partners*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2015/poten_2015-05-01_vlcc-market-firing-on-all-cylinders_chart1.png)
 
-![Exhibit 2: VLCC Market Firing On All Cylinders](../../../charts/poten/2015/poten_2015-05-01_vlcc-market-firing-on-all-cylinders_chart2.png)
+![Exhibit 2: World Oil Production](../../../charts/poten/2015/poten_2015-05-01_vlcc-market-firing-on-all-cylinders_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2015/poten_2015-05-01_vlcc-market-firing-on-all-cylinders_chart2.png)
+> **Exhibit 2: World Oil Production**  
+> Unit: Mb/d · X-axis: 1Q12 to 1Q15  
+> Series: Non-OPEC, OPEC, OPEC NGLs  
+> *Source: IEA*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2015/poten_2015-05-01_vlcc-market-firing-on-all-cylinders_chart2.png)

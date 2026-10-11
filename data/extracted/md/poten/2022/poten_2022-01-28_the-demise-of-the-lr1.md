@@ -34,10 +34,17 @@ The LR1 segment will not disappear overnight and could even make a comeback if c
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: The Demise of the LR1](../../../charts/poten/2022/poten_2022-01-28_the-demise-of-the-lr1_chart1.png)
+![Exhibit 1: LR Trades: TonMile Demand](../../../charts/poten/2022/poten_2022-01-28_the-demise-of-the-lr1_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2022/poten_2022-01-28_the-demise-of-the-lr1_chart1.png)
+> **Exhibit 1: LR Trades: TonMile Demand**  
+> Unit: TonMiles (Mln) per Day · X-axis: Jan-15 to Oct-21  
+> Series: Aframax (Clean), Panamax (Clean)  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2022/poten_2022-01-28_the-demise-of-the-lr1_chart1.png)
 
-![Exhibit 2: The Demise of the LR1](../../../charts/poten/2022/poten_2022-01-28_the-demise-of-the-lr1_chart2.png)
+![Exhibit 2: 2021 LR1 Product Tanker Trade By Age](../../../charts/poten/2022/poten_2022-01-28_the-demise-of-the-lr1_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2022/poten_2022-01-28_the-demise-of-the-lr1_chart2.png)
+> **Exhibit 2: 2021 LR1 Product Tanker Trade By Age**  
+> Unit: Voyages | % · X-axis: 0 to 20+  
+> Series: Clean, Crude, Dirty  
+> *Source: Lloyd’s List Intelligence*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2022/poten_2022-01-28_the-demise-of-the-lr1_chart2.png)

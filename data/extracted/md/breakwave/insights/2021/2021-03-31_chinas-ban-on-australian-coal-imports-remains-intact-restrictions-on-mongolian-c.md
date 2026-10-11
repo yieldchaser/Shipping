@@ -25,7 +25,7 @@ By[Jeffrey Landsberg](mailto:jeffrey@commodore-research.com)
 ![Compass](assets/2021-03-31_chinas-ban-on-australian-coal-imports-remains-intact-restrictions-on-mongolian-c_img_compass_839c0120ad15.jpeg)
 
 > **Figure 1: Compass**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2021/assets/2021-03-31_chinas-ban-on-australian-coal-imports-remains-intact-restrictions-on-mongolian-c_img_compass_839c0120ad15.jpeg)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-03-31_chinas-ban-on-australian-coal-imports-remains-intact-restrictions-on-mongolian-c_img_compass_839c0120ad15.jpeg)
 
 China’s coal import data for January and February by origin has been released and shows that imports from Indonesia have remained the primary source of China’s imports. The ban on Australian imports also clearly remains in place, with February marking the third straight month where no coal imports from Australia entered China. Also quite noteworthy is that coal imports from Mongolia experienced the largest year-on-year increase — but as we have discussed in our recent Weekly China Reports, imports from Mongolia have been coming under sharp pressure during the last several days as China’s government has been putting limitations on the number of Mongolian coal trucks allowed into the country. New daily coronavirus cases in Mongolia have also been setting records during the past several days, and there is no sign that China's restrictions on Mongolian coal trucks will end anytime soon.
 
@@ -36,7 +36,7 @@ Mongolia and the United States were the only two major exporters to experience y
 ![Commod 3](assets/2021-03-31_chinas-ban-on-australian-coal-imports-remains-intact-restrictions-on-mongolian-c_img_commod3_5e8b0be02d71.jpg)
 
 > **Figure 2: Commod 3**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2021/assets/2021-03-31_chinas-ban-on-australian-coal-imports-remains-intact-restrictions-on-mongolian-c_img_commod3_5e8b0be02d71.jpg)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-03-31_chinas-ban-on-australian-coal-imports-remains-intact-restrictions-on-mongolian-c_img_commod3_5e8b0be02d71.jpg)
 
 ---
 

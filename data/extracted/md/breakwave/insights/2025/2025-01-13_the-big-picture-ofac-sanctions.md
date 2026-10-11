@@ -40,17 +40,17 @@ The new OFAC sanctions, if effective, will have a mixed impact on tonne miles. S
 
 BUT the tonne-mile story is not relevant here - as these new sanctions have the opportunity to create 100% replacement demand for the compliant fleet, whether it remains exported from shadow exporters or not. The newly-sanctioned fleet would move into floating storage, and eventually scrap (assuming someone can buy the hull now that it is subject to sanctions). 57% of the tanker fleet now sanctioned by OFAC is already over 20 years old.
 
-![Market Chart 1](assets/2025-01-13_the-big-picture-ofac-sanctions_img_image0_3df488752f90.png)
+![Market Chart 1](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-01-13_the-big-picture-ofac-sanctions_img_image0_3df488752f90.png)
 
 > **Figure 1: Market Chart 1**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-01-13_the-big-picture-ofac-sanctions_img_image0_3df488752f90.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-01-13_the-big-picture-ofac-sanctions_img_image0_3df488752f90.png)
 
 NB: this new OFAC list is on top of the 245 tankers (of sizes that interest us, that were already sanctioned by OFAC)
 
-![Market Chart 2](assets/2025-01-13_the-big-picture-ofac-sanctions_img_image1_65c81d05c5ea.png)
+![Market Chart 2](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-01-13_the-big-picture-ofac-sanctions_img_image1_65c81d05c5ea.png)
 
 > **Figure 2: Market Chart 2**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-01-13_the-big-picture-ofac-sanctions_img_image1_65c81d05c5ea.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-01-13_the-big-picture-ofac-sanctions_img_image1_65c81d05c5ea.png)
 
 ---
 

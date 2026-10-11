@@ -36,6 +36,3 @@ WISHING YOU THE VERY BEST THIS HOLIDAY SEASON!
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: Holiday Wishes!](../../../charts/poten/2005/poten_2005-12-23_holiday-wishes_chart1.png)
-
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2005/poten_2005-12-23_holiday-wishes_chart1.png)

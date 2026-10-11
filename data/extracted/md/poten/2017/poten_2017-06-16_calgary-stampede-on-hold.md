@@ -32,4 +32,4 @@ So, how about the chances of the Energy East pipeline? This project is still ali
 
 ![Exhibit 1: Calgary Stampede On Hold](../../../charts/poten/2017/poten_2017-06-16_calgary-stampede-on-hold_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2017/poten_2017-06-16_calgary-stampede-on-hold_chart1.png)
+> **Interactive Asset:** [Local Asset (200 DPI PNG)](../../../charts/poten/2017/poten_2017-06-16_calgary-stampede-on-hold_chart1.png)

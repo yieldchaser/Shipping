@@ -62,10 +62,10 @@ While demand showed some signs of recovery at the end of August, the development
 
 The current downward trend for weekly cargo order volumes for coal bound for China is at odds with developments a year ago. While there was some volatility in the weekly cargo order volumes, there was an upward trend during the second half of last year’s third quarter. Hence, given the current weakness, the upside for the Newcastle futures may be limited.
 
-![Στιγμιότυπο Οθόνης 2024 09 23 174601](assets/2024-09-23_h0tsg5eo09i2vaqeqz7bgonbrh4bhk_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_51da2577234a.png)
+![Στιγμιότυπο Οθόνης 2024 09 23 174601](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-09-23_h0tsg5eo09i2vaqeqz7bgonbrh4bhk_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_51da2577234a.png)
 
 > **Figure 1: Στιγμιότυπο Οθόνης 2024 09 23 174601**  
-> **Interactive Data & Source:** [Shipfix](https://shipfix.com/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-09-23_h0tsg5eo09i2vaqeqz7bgonbrh4bhk_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_51da2577234a.png)
+> **Interactive Data & Source:** [Shipfix](https://shipfix.com/) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-09-23_h0tsg5eo09i2vaqeqz7bgonbrh4bhk_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_51da2577234a.png)
 
 Data Source:[Shipfix](https://shipfix.com/)
 

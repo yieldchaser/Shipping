@@ -86,6 +86,25 @@ Obviously rates indicate strong demand for Aframax tankers. Underlying fixture a
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: Aframax Runup Myth or Reality?](../../../charts/poten/2004/poten_2004-10-22_aframax-runup-myth-or-reality_chart1.png)
+> **Chart on PDF page 1: Weekly Average Aframax Spot WS Rates Caribs - US Gulf**  
+> Unit: WS Rates · X-axis: 01/02/2004 to 10/08/2004  
+> Series: Poten & Partners  
+> *No image crop of this chart was saved; caption read from the PDF.*
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2004/poten_2004-10-22_aframax-runup-myth-or-reality_chart1.png)
+> **Chart on PDF page 2: Aframax Spot Fixture Activity**  
+> Unit: # Fixtures · X-axis: Jan to Dec  
+> Series: 2002, 2003, 2004  
+> *Source: Poten & Partners*  
+> *No image crop of this chart was saved; caption read from the PDF.*
+
+> **Chart on PDF page 3: Aframax Spot Fixtures by Load Area**  
+> Unit: % · X-axis: 2002 to 2004  
+> Series: AG, Caribbean, Mediterranean, SE Asia, N. Europe, Other  
+> *Source: Poten & Partners*  
+> *No image crop of this chart was saved; caption read from the PDF.*
+
+> **Chart on PDF page 3: Aframax Spot Fixture Activity AG Load Area**  
+> Unit: # Fixtures · X-axis: Jan to Dec  
+> Series: 2002, 2003, 2004  
+> *Source: Poten & Partners*  
+> *No image crop of this chart was saved; caption read from the PDF.*

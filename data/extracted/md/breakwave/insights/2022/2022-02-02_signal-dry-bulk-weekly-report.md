@@ -30,10 +30,10 @@ Lastly, all eyes are on the Indonesian coal ban's expiry, where only coal miners
 
 ‘The Big Picture’ - Capesize and Panamax Bulkers and Smaller Ship Sizes
 
-![Ch1](assets/2022-02-02_signal-dry-bulk-weekly-report_img_ch1_1d4e82b14347.png)
+![Ch1](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-02-02_signal-dry-bulk-weekly-report_img_ch1_1d4e82b14347.png)
 
 > **Figure 1: Ch1**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-02-02_signal-dry-bulk-weekly-report_img_ch1_1d4e82b14347.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-02-02_signal-dry-bulk-weekly-report_img_ch1_1d4e82b14347.png)
 
 - Capesize Brazil to NChina rates inched up for the first time since the beginning of the new year. Rates are now eventually heading to stand above $20/t, however, the sentiment is still weak vs ~$30/t at Week 49, 2021).
 
@@ -47,10 +47,10 @@ Lastly, all eyes are on the Indonesian coal ban's expiry, where only coal miners
 
 Supply Trend Lines for Key Load Areas
 
-![Ch2](assets/2022-02-02_signal-dry-bulk-weekly-report_img_ch2_07b26f7ea6fa.png)
+![Ch2](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-02-02_signal-dry-bulk-weekly-report_img_ch2_07b26f7ea6fa.png)
 
 > **Figure 2: Ch2**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-02-02_signal-dry-bulk-weekly-report_img_ch2_07b26f7ea6fa.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-02-02_signal-dry-bulk-weekly-report_img_ch2_07b26f7ea6fa.png)
 
 - The number of vessels sailing in ballast status is still evolving above the average trend line for the handysize, supramax and Panamax segments.
 
@@ -61,10 +61,10 @@ Supply Trend Lines for Key Load Areas
 
 ## Decreasing
 
-![Ch3](assets/2022-02-02_signal-dry-bulk-weekly-report_img_ch3_0d9c2bc135b6.png)
+![Ch3](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-02-02_signal-dry-bulk-weekly-report_img_ch3_0d9c2bc135b6.png)
 
 > **Figure 3: Ch3**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-02-02_signal-dry-bulk-weekly-report_img_ch3_0d9c2bc135b6.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-02-02_signal-dry-bulk-weekly-report_img_ch3_0d9c2bc135b6.png)
 
 - The end of January does not look positive for the Capesize and demand evolution growth with the Chinese New Year averting an increase of growth.
 
@@ -78,10 +78,10 @@ Supply Trend Lines for Key Load Areas
 
 ## Dry Bulk Ships Congested Around Chinese Ports
 
-![Ch4](assets/2022-02-02_signal-dry-bulk-weekly-report_img_ch4_3d7d5711a088.png)
+![Ch4](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-02-02_signal-dry-bulk-weekly-report_img_ch4_3d7d5711a088.png)
 
 > **Figure 4: Ch4**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-02-02_signal-dry-bulk-weekly-report_img_ch4_3d7d5711a088.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-02-02_signal-dry-bulk-weekly-report_img_ch4_3d7d5711a088.png)
 
 - Chinese dry bulk port congestion is still hovering at lower levels than the highs of Weeks 51 & 52. 2021 and below the average of ~1120 vessels.
 

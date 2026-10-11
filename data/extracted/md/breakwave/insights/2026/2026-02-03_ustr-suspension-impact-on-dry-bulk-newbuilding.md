@@ -20,10 +20,10 @@ source_file: "corpus/03-breakwave/insights/2026/2026-02-03_ustr-suspension-impac
 
 ---
 
-![Rgb Color Brs Shipbrokers Monogram L](assets/2026-02-03_ustr-suspension-impact-on-dry-bulk-newbuilding_img_rgb-color-brs-shipbrokers-monogram-l_c365f35f1de5.png)
+![Rgb Color Brs Shipbrokers Monogram L](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-02-03_ustr-suspension-impact-on-dry-bulk-newbuilding_img_rgb-color-brs-shipbrokers-monogram-l_c365f35f1de5.png)
 
 > **Figure 1: Rgb Color Brs Shipbrokers Monogram L**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-02-03_ustr-suspension-impact-on-dry-bulk-newbuilding_img_rgb-color-brs-shipbrokers-monogram-l_c365f35f1de5.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-02-03_ustr-suspension-impact-on-dry-bulk-newbuilding_img_rgb-color-brs-shipbrokers-monogram-l_c365f35f1de5.png)
 
 Last year the newbuilding industry, and especially orders for dry bulkers, experienced a bleak period due to the impact of the regulations targeting Chinese shipbuilding and Chinese owned and operated ships which were formulated by the Office of the United States Trade Representative (USTR).
 
@@ -31,20 +31,20 @@ From a timeline perspective, although the USTR formally initiated a Section 301 
 
 Data suggest that the release of proposals to impose additional fees on certain Chinese vessels proved to be the catalyst for a significant decline in new ship ordering activity in April. Accordingly, the China Newbuilding Price Index (CNDPI) weakened. Furthermore, weakness in ordering was further compounded by the overall weakness in the charter market during 1H25.
 
-![Στιγμιότυπο Οθόνης 2026 02 02 152430](assets/2026-02-03_ustr-suspension-impact-on-dry-bulk-newbuilding_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_0d9c1e6228de.png)
+![Στιγμιότυπο Οθόνης 2026 02 02 152430](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-02-03_ustr-suspension-impact-on-dry-bulk-newbuilding_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_0d9c1e6228de.png)
 
 > **Figure 2: Στιγμιότυπο Οθόνης 2026 02 02 152430**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-02-03_ustr-suspension-impact-on-dry-bulk-newbuilding_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_0d9c1e6228de.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-02-03_ustr-suspension-impact-on-dry-bulk-newbuilding_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_0d9c1e6228de.png)
 
-![Στιγμιότυπο Οθόνης 2026 02 02 152443](assets/2026-02-03_ustr-suspension-impact-on-dry-bulk-newbuilding_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_bb11f7f87637.png)
+![Στιγμιότυπο Οθόνης 2026 02 02 152443](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-02-03_ustr-suspension-impact-on-dry-bulk-newbuilding_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_bb11f7f87637.png)
 
 > **Figure 3: Στιγμιότυπο Οθόνης 2026 02 02 152443**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-02-03_ustr-suspension-impact-on-dry-bulk-newbuilding_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_bb11f7f87637.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-02-03_ustr-suspension-impact-on-dry-bulk-newbuilding_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_bb11f7f87637.png)
 
-![Στιγμιότυπο Οθόνης 2026 02 02 152455](assets/2026-02-03_ustr-suspension-impact-on-dry-bulk-newbuilding_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_051cd901c7e3.png)
+![Στιγμιότυπο Οθόνης 2026 02 02 152455](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-02-03_ustr-suspension-impact-on-dry-bulk-newbuilding_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_051cd901c7e3.png)
 
 > **Figure 4: Στιγμιότυπο Οθόνης 2026 02 02 152455**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-02-03_ustr-suspension-impact-on-dry-bulk-newbuilding_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_051cd901c7e3.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-02-03_ustr-suspension-impact-on-dry-bulk-newbuilding_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_051cd901c7e3.png)
 
 After the initial USTR proposals were published, there were several calls for comments. However, Washington did not provide regular updates and thus the USTR proposals loomed over shipping markets for much of the year with these accentuating as the 14 October implementation date approached. Indeed, as the USTR regulations were introduced it became clear that China would introduce similar reciprocal measures on US-linked ships.
 
@@ -58,10 +58,10 @@ Despite the weakening of the CNDPI for most of last year, it eventually stabiliz
 
 Notably, some yards that previously focused on bulk carriers began accepting orders for containers and tankers as they went after ships with more added value. For example, New Dayang Shipbuilding, which traditionally built 63,000 Dwt bulk carriers, started constructing feeders and MR tankers last year.
 
-![Στιγμιότυπο Οθόνης 2026 02 02 152504](assets/2026-02-03_ustr-suspension-impact-on-dry-bulk-newbuilding_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_bf0ce273debc.png)
+![Στιγμιότυπο Οθόνης 2026 02 02 152504](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-02-03_ustr-suspension-impact-on-dry-bulk-newbuilding_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_bf0ce273debc.png)
 
 > **Figure 5: Στιγμιότυπο Οθόνης 2026 02 02 152504**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-02-03_ustr-suspension-impact-on-dry-bulk-newbuilding_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_bf0ce273debc.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-02-03_ustr-suspension-impact-on-dry-bulk-newbuilding_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_bf0ce273debc.png)
 
 The ordering pattern for each vessel segment also differed in 2025. Capesize orders increased substantially, with their share of total newbuilding vessels rising from 18% in 2024 to 38% in 2025, while the share of other vessel classes declined across the board. Furthermore, clearly can be seen from chart, China continues to dominate the newbuilding order with an overwhelming advantage, accounting for 80% of the total number of dry bulker orders. Itself, this implies that the cheaper prices available in Chinese yards trumped the uncertainty generated from the USTR proposals.
 

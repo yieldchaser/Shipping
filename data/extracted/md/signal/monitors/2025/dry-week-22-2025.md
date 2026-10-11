@@ -25,11 +25,11 @@ tags:
 
 *Published on 28 May 2025*
 
-![Https://app.signalocean.com/dry/dynamic/portinsightsdrydownload](../../images/68515181e3e70109ddab2834_AD_4nXfQiTLyKNVVQKPlRLAV96JIIKq_ajvjs4zRNPKTJnvffY87PC4UxiL15vrxWTLvtWJZ1IYJiiMpNEq5MCv4ZNl_tL6VaJaDqLiXExXPU0k3512Cu3xJhknbQeWzEsBsWZ0Me7XH2A.png)
+![Https://app.signalocean.com/dry/dynamic/portinsightsdrydownload](../../../../../../corpus/07-signal/images/68515181e3e70109ddab2834_AD_4nXfQiTLyKNVVQKPlRLAV96JIIKq_ajvjs4zRNPKTJnvffY87PC4UxiL15vrxWTLvtWJZ1IYJiiMpNEq5MCv4ZNl_tL6VaJaDqLiXExXPU0k3512Cu3xJhknbQeWzEsBsWZ0Me7XH2A.png)
 
 > **Figure 1: Https://app.signalocean.com/dry/dynamic/portinsightsdrydownload**  
 > *https://app.signalocean.com/dry/dynamic/port_insights_dry_download*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/dry-week-22-2025) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/68515181e3e70109ddab2834_AD_4nXfQiTLyKNVVQKPlRLAV96JIIKq_ajvjs4zRNPKTJnvffY87PC4UxiL15vrxWTLvtWJZ1IYJiiMpNEq5MCv4ZNl_tL6VaJaDqLiXExXPU0k3512Cu3xJhknbQeWzEsBsWZ0Me7XH2A.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/dry-week-22-2025) | [Local Asset](../../../../../../corpus/07-signal/images/68515181e3e70109ddab2834_AD_4nXfQiTLyKNVVQKPlRLAV96JIIKq_ajvjs4zRNPKTJnvffY87PC4UxiL15vrxWTLvtWJZ1IYJiiMpNEq5MCv4ZNl_tL6VaJaDqLiXExXPU0k3512Cu3xJhknbQeWzEsBsWZ0Me7XH2A.png)
 
 **This week’s Market Monitor focuses on Australian dry bulk port congestion,** following last week’s news of debris disrupting operations at Newcastle, the country’s largest thermal coal port. Newcastle’s loading port efficiency appears to be under serious turbulence due to severe rainfall leading to flooding across the Hunter River tributaries, a key region for coal mining. This has already signalled a significant impact on key congestion metrics, with an increase in port days in waiting status.
 

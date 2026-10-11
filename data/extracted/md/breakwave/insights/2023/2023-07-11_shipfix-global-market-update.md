@@ -57,9 +57,9 @@ Cargo order volumes for Russian coal loading in the Baltic Sea remained under pr
 
 Despite the decline in demand for seaborne transportation of Russian coal from the Baltic Sea to China, the average cargo order size for the trade has remained relatively stable. Since the beginning of the year, the typical cargo for the long voyage from the Baltic Sea to China has remained around 60,000 tonnes***.***
 
-![Market Chart 1](assets/2023-07-11_shipfix-global-market-update_img_unnamed-2023-07-11t111746349_3daa060de78d.png)
+![Market Chart 1](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-07-11_shipfix-global-market-update_img_unnamed-2023-07-11t111746349_3daa060de78d.png)
 
 > **Figure 1: Market Chart 1**  
-> **Interactive Data & Source:** [Shipfix](https://shipfix.com/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-07-11_shipfix-global-market-update_img_unnamed-2023-07-11t111746349_3daa060de78d.png)
+> **Interactive Data & Source:** [Shipfix](https://shipfix.com/) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-07-11_shipfix-global-market-update_img_unnamed-2023-07-11t111746349_3daa060de78d.png)
 
 Data Source:[Shipfix](https://shipfix.com/)

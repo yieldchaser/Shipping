@@ -30,10 +30,16 @@ We will keep a close eye on Russian oil exports to see what will happen in April
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: Nothing To See Here Yet](../../../charts/poten/2022/poten_2022-03-18_nothing-to-see-here-yet_chart1.png)
+![Exhibit 1: Daily Russian Crude Exports by Destination](../../../charts/poten/2022/poten_2022-03-18_nothing-to-see-here-yet_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2022/poten_2022-03-18_nothing-to-see-here-yet_chart1.png)
+> **Exhibit 1: Daily Russian Crude Exports by Destination**  
+> Unit: Kbbl · X-axis: 11-Feb-22 to 17-Mar-22  
+> Series: Asia/Australia, Mediterranean, UKC/Baltic, Americas, Atlantic, Unknown  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2022/poten_2022-03-18_nothing-to-see-here-yet_chart1.png)
 
-![Exhibit 2: Nothing To See Here Yet](../../../charts/poten/2022/poten_2022-03-18_nothing-to-see-here-yet_chart2.png)
+![Exhibit 2: Daily Russian Crude Exports by Load Area](../../../charts/poten/2022/poten_2022-03-18_nothing-to-see-here-yet_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2022/poten_2022-03-18_nothing-to-see-here-yet_chart2.png)
+> **Exhibit 2: Daily Russian Crude Exports by Load Area**  
+> Unit: Kbbl · X-axis: 11-Feb-22 to 17-Mar-22  
+> Series: Black Sea, Far East - China Sea, Scandinavia/Baltic  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2022/poten_2022-03-18_nothing-to-see-here-yet_chart2.png)

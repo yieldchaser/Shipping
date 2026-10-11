@@ -20,10 +20,10 @@ source_file: "corpus/03-breakwave/insights/2026/2026-02-09_reassessing-russian-s
 
 ---
 
-![Tankerrr 2 1](assets/2026-02-09_reassessing-russian-supply_img_tankerrr-2-1_89290ba50318.jpg)
+![Tankerrr 2 1](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-02-09_reassessing-russian-supply_img_tankerrr-2-1_89290ba50318.jpg)
 
 > **Figure 1: Tankerrr 2 1**  
-> **Interactive Data & Source:** [Gibsons Co](https://www.gibsons.co.uk/market-reports) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-02-09_reassessing-russian-supply_img_tankerrr-2-1_89290ba50318.jpg)
+> **Interactive Data & Source:** [Gibsons Co](https://www.gibsons.co.uk/market-reports) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-02-09_reassessing-russian-supply_img_tankerrr-2-1_89290ba50318.jpg)
 
 Last week, President Trump announced that the United States and India had agreed a trade deal. Whilst the deal is not expected to be signed until March, Trump claimed that India had committed to stopping imports of Russian oil. For the tanker markets, such a move would be significant and lead to further adjustments in oil trade flows. However, India faces a number of challenges in weaning itself off Russian oil, whilst Russia itself will struggle to redirect Indian volumes to alternative markets. Notably, the Indian government is yet to acknowledge the agreement to cease Russian oil imports entirely.
 
@@ -35,10 +35,10 @@ Russia will also likely face growing logistical constraints with its oil on the 
 
 In the near term it seems certain that India will further reduce Russian imports in favour of mainstream cargoes, leading to another shift in demand from the dark to mainstream tanker fleet, likely increasing upside volatility in freight rates. Yet Russian oil will not simply disappear, making China’s appetite for these cargoes a key factor for the strength of the broader tanker market. Let’s not forget, the harder it becomes to sell Russian oil, the steeper the discounts on offer, the more tempting those barrels become and perhaps, the more pressure on Russia to find a path to peace.
 
-![Στιγμιότυπο Οθόνης 2026 02 09 095218](assets/2026-02-09_reassessing-russian-supply_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_dfb418c3ac34.png)
+![Στιγμιότυπο Οθόνης 2026 02 09 095218](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-02-09_reassessing-russian-supply_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_dfb418c3ac34.png)
 
 > **Figure 2: Στιγμιότυπο Οθόνης 2026 02 09 095218**  
-> **Interactive Data & Source:** [Gibsons Co](https://www.gibsons.co.uk/market-reports) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-02-09_reassessing-russian-supply_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_dfb418c3ac34.png)
+> **Interactive Data & Source:** [Gibsons Co](https://www.gibsons.co.uk/market-reports) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-02-09_reassessing-russian-supply_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_dfb418c3ac34.png)
 
 Data source:[Gibson Shipbrokers](https://www.gibsons.co.uk/market-reports)
 

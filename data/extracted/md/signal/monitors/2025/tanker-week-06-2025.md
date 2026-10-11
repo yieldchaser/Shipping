@@ -33,7 +33,7 @@ tags:
 
 > **Figure 1: Https://app.signalocean.com/tanker/dynamic/oilflows**  
 > *https://app.signalocean.com/tanker/dynamic/oilflows*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/tanker-week-06-2025) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/67a50b9bbd2567f925434c33_AD_4nXcWzvuWCmKtFwDM-Xj924fLBMZMP9hLHj6Sy0xMZvi84OzanL_Vy_GGt8Q8Nh1N6mOrLk0Wsz18fLvXy3PJI-Tvy6eTGUfcJqQBgju9O5nFvx9221S33Kj_KD4eHaSJ_1nWcbA1Ng.avif)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/tanker-week-06-2025) | [Local Asset](../../../../../../corpus/07-signal/images/67a50b9bbd2567f925434c33_AD_4nXcWzvuWCmKtFwDM-Xj924fLBMZMP9hLHj6Sy0xMZvi84OzanL_Vy_GGt8Q8Nh1N6mOrLk0Wsz18fLvXy3PJI-Tvy6eTGUfcJqQBgju9O5nFvx9221S33Kj_KD4eHaSJ_1nWcbA1Ng.avif)
 
 The crude oil freight market remains highly volatile, with recent spikes in VLCC rates on the MEG-China route. While tonne-day demand growth has yet to show signs of recovery, market sentiment appears to be firming, driven by uncertainty surrounding oil price fluctuations and China's crude oil demand. Additionally, the impending implementation of U.S. tariffs on the energy sector adds to the instability.
 

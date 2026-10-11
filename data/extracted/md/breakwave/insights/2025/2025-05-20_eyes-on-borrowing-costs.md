@@ -40,49 +40,49 @@ When I was introduced to finance, exactly 20 years ago, my new boss asked me whi
 
 Equity markets may be rebounding, but, ultimately, that’s what they do. Unless faced with systemic shocks, equities tend to mean-revert towards their upward trend, especially when they get assurances from the central bank that the system will remain liquid and the cost of money will not soar.
 
-![Market Chart 1](assets/2025-05-20_eyes-on-borrowing-costs_img_image009_4777d08113c4.jpg)
+![Market Chart 1](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-05-20_eyes-on-borrowing-costs_img_image009_4777d08113c4.jpg)
 
 > **Figure 1: Market Chart 1**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-05-20_eyes-on-borrowing-costs_img_image009_4777d08113c4.jpg)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-05-20_eyes-on-borrowing-costs_img_image009_4777d08113c4.jpg)
 
 But bond markets, the more important economic indicators, are getting worried. US longer term borrowing costs have been going up, as investors begin to fear that inflation will rebound. The 10y US Treasury is at 4.4% and the 30y Treasury hit 5%.
 
-![Market Chart 2](assets/2025-05-20_eyes-on-borrowing-costs_img_image010_43be6ce952c5.jpg)
+![Market Chart 2](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-05-20_eyes-on-borrowing-costs_img_image010_43be6ce952c5.jpg)
 
 > **Figure 2: Market Chart 2**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-05-20_eyes-on-borrowing-costs_img_image010_43be6ce952c5.jpg)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-05-20_eyes-on-borrowing-costs_img_image010_43be6ce952c5.jpg)
 
 This comes despite the latest US Inflation data which saw prices in the US rise a mere 2.3%, below expectations for the second consecutive month,
 
-![Market Chart 3](assets/2025-05-20_eyes-on-borrowing-costs_img_image011_960e599a2375.jpg)
+![Market Chart 3](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-05-20_eyes-on-borrowing-costs_img_image011_960e599a2375.jpg)
 
 > **Figure 3: Market Chart 3**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-05-20_eyes-on-borrowing-costs_img_image011_960e599a2375.jpg)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-05-20_eyes-on-borrowing-costs_img_image011_960e599a2375.jpg)
 
 Markets recognised that benign readings are mostly due to lower energy prices and softer demand for items like airline tickets (tourism in the US has taken a hit lately). However, investors acknowledge that:
 
 1. Energy prices are below their usual range and could mean revert.
 
-![Market Chart 4](assets/2025-05-20_eyes-on-borrowing-costs_img_image012_e4437677b141.jpg)
+![Market Chart 4](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-05-20_eyes-on-borrowing-costs_img_image012_e4437677b141.jpg)
 
 > **Figure 4: Market Chart 4**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-05-20_eyes-on-borrowing-costs_img_image012_e4437677b141.jpg)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-05-20_eyes-on-borrowing-costs_img_image012_e4437677b141.jpg)
 
 2.Tariffs on imported goods are just now beginning to show up in the data.
 
 3.Higher inflation expectations from consumers have a habit of becoming a self-fulfilling prophecy.
 
-![Market Chart 5](assets/2025-05-20_eyes-on-borrowing-costs_img_image013_cb375174a2ed.jpg)
+![Market Chart 5](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-05-20_eyes-on-borrowing-costs_img_image013_cb375174a2ed.jpg)
 
 > **Figure 5: Market Chart 5**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-05-20_eyes-on-borrowing-costs_img_image013_cb375174a2ed.jpg)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-05-20_eyes-on-borrowing-costs_img_image013_cb375174a2ed.jpg)
 
 4.Lower CPI may be a symptom of more sluggish demand, as core retail sales (excluding energy, food and other volatile parts) in the US dropped by 0.2%.
 
-![Market Chart 6](assets/2025-05-20_eyes-on-borrowing-costs_img_image014_dd6f6ce50f76.jpg)
+![Market Chart 6](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-05-20_eyes-on-borrowing-costs_img_image014_dd6f6ce50f76.jpg)
 
 > **Figure 6: Market Chart 6**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-05-20_eyes-on-borrowing-costs_img_image014_dd6f6ce50f76.jpg)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-05-20_eyes-on-borrowing-costs_img_image014_dd6f6ce50f76.jpg)
 
 Adding to borrowing cost angst, are concerns that the Republican “Big Beautiful Bill” (a massive legislative package proposed by House Republicans in 2025 to enact the President’s key policy priorities for his second term) will not be fiscally neutral, but significantly add to the deficit.
 
@@ -90,19 +90,19 @@ Friday’s downgrade by Moody’s, the last rating agency that rated US debt “
 
 The US won’t of course likely directly default. It has already broken the link with Gold since 1971, so it can always print money to pay off its debts. Its status as a global reserve currency all but ensures that the government will be able to spend as much as it needs to. Despite the publicity around Debt Ceiling battles, Congress has never failed to pass resolutions to fund the government. But borrowing cost worries could add downward pressure to the Dollar, which has so far lost recent gains, but not yet much beyond that.
 
-![Market Chart 7](assets/2025-05-20_eyes-on-borrowing-costs_img_image015_e1421478d5f1.jpg)
+![Market Chart 7](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-05-20_eyes-on-borrowing-costs_img_image015_e1421478d5f1.jpg)
 
 > **Figure 7: Market Chart 7**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-05-20_eyes-on-borrowing-costs_img_image015_e1421478d5f1.jpg)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-05-20_eyes-on-borrowing-costs_img_image015_e1421478d5f1.jpg)
 
 Additionally, they could pressure consumers on the upside, as borrowing costs rise. Younger workers could find themselves not being able to climb the housing ladder. Businesses could have a tough time refinancing their debts. More importantly, the government would find it even harder to refinance itself (nearly $10tn of debt to be issued in 2025), with a lot of it coming in the second half of the year and the Republican Mega Bill still to be discounted.
 
 As US borrowing costs rise, so do the rest of the world’s, especially British yields which tend to be more closely correlated. The US 10-year yield is still the bedrock of most global asset allocation portfolios and global-risk free rate.
 
-![Market Chart 8](assets/2025-05-20_eyes-on-borrowing-costs_img_image016_aa0b7df0ac68.jpg)
+![Market Chart 8](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-05-20_eyes-on-borrowing-costs_img_image016_aa0b7df0ac68.jpg)
 
 > **Figure 8: Market Chart 8**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-05-20_eyes-on-borrowing-costs_img_image016_aa0b7df0ac68.jpg)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-05-20_eyes-on-borrowing-costs_img_image016_aa0b7df0ac68.jpg)
 
 Meanwhile, the White House is pressuring corporations to keep prices down and absorb the tariffs themselves. This can happen for a short while, but as pre-tariff inventories are reduced, then we could see surges in inflation and possibly lower margins as firms will not want to alienate their client base.
 

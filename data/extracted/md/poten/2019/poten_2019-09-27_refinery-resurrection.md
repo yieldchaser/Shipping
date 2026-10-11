@@ -32,10 +32,18 @@ The startup of the Limetree Bay facility should be a net positive for the shippi
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: Refinery Resurrection](../../../charts/poten/2019/poten_2019-09-27_refinery-resurrection_chart1.png)
+![Exhibit 1: Tanker & Barge Movements from USG to US Atl. Coast](../../../charts/poten/2019/poten_2019-09-27_refinery-resurrection_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2019/poten_2019-09-27_refinery-resurrection_chart1.png)
+> **Exhibit 1: Tanker & Barge Movements from USG to US Atl. Coast**  
+> Unit: KB/day · X-axis: 1Q2010 to 1Q2019  
+> Series: USG-Lower Atlantic, USG-Mid Atlantic, USG-New England  
+> *Source: Lloyd’s List Intelligence*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2019/poten_2019-09-27_refinery-resurrection_chart1.png)
 
-![Exhibit 2: Refinery Resurrection](../../../charts/poten/2019/poten_2019-09-27_refinery-resurrection_chart2.png)
+![Exhibit 2: U.S. Product Exports to Latin & Central America](../../../charts/poten/2019/poten_2019-09-27_refinery-resurrection_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2019/poten_2019-09-27_refinery-resurrection_chart2.png)
+> **Exhibit 2: U.S. Product Exports to Latin & Central America**  
+> Unit: KB/day · X-axis: 1Q2010 to 1Q2019  
+> Series: Mexico, Brazil, Chile, Panama, Colombia, Ecuador, Other  
+> *Source: EIA*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2019/poten_2019-09-27_refinery-resurrection_chart2.png)

@@ -28,8 +28,12 @@ The financial trading community offers liquidity and market making capabilities 
 
 ![Exhibit 1: Going GovernMental: EIA Closure and Reopening](../../../charts/poten/2013/poten_2013-10-18_going-governmental-eia-closure-and-reopening_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2013/poten_2013-10-18_going-governmental-eia-closure-and-reopening_chart1.png)
+> **Interactive Asset:** [Local Asset (200 DPI PNG)](../../../charts/poten/2013/poten_2013-10-18_going-governmental-eia-closure-and-reopening_chart1.png)
 
-![Exhibit 2: Going GovernMental: EIA Closure and Reopening](../../../charts/poten/2013/poten_2013-10-18_going-governmental-eia-closure-and-reopening_chart2.png)
+![Exhibit 2: Dept. of Energy vs. C2](../../../charts/poten/2013/poten_2013-10-18_going-governmental-eia-closure-and-reopening_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2013/poten_2013-10-18_going-governmental-eia-closure-and-reopening_chart2.png)
+> **Exhibit 2: Dept. of Energy vs. C2**  
+> Unit: Thousand Barrels · X-axis: Jan-10 to Sep-13  
+> Series: Monthly Company Level Imports (EIA), Commodity Cargoes - C2  
+> *Source: EIA & Poten*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2013/poten_2013-10-18_going-governmental-eia-closure-and-reopening_chart2.png)

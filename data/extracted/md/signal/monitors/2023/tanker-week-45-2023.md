@@ -32,7 +32,7 @@ tags:
 ![U.s. Crude Oil Exports Record Remarkable Rise Destined to Korea](../../images/654cf18a1a5b63b85d9a2d5c_us crude oil flows.png)
 
 > **Figure 1: U.s. Crude Oil Exports Record Remarkable Rise Destined to Korea**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/tanker-week-45-2023) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/654cf18a1a5b63b85d9a2d5c_us crude oil flows.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/tanker-week-45-2023) | [Local Asset](../../../../../../corpus/07-signal/images/654cf18a1a5b63b85d9a2d5c_us%20crude%20oil%20flows.png)
 
 The crude freight market gained momentum in early November due to the ongoing crisis in the Middle East. The VLCC segment has seen significant activity, but the In the second week of November, freight rates for crude oil tankers remained firm with slight signs of a downward correction. The upward momentum of early November in the second half of November remains uncertain as there are signs of an increase in the supply of crude oil tankers, which contrasts with the downward trend observed at the end of October.
 

@@ -32,8 +32,12 @@ In summary, it is not going to be easy to integrate the Trans Mountain exports i
 
 ![Exhibit 1: Taking The Long Way Home](../../../charts/poten/2023/poten_2023-12-15_taking-the-long-way-home_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2023/poten_2023-12-15_taking-the-long-way-home_chart1.png)
+> **Interactive Asset:** [Local Asset (200 DPI PNG)](../../../charts/poten/2023/poten_2023-12-15_taking-the-long-way-home_chart1.png)
 
-![Exhibit 2: Taking The Long Way Home](../../../charts/poten/2023/poten_2023-12-15_taking-the-long-way-home_chart2.png)
+![Exhibit 2: Risk Classification of Global Aframax/LR2 Fleet](../../../charts/poten/2023/poten_2023-12-15_taking-the-long-way-home_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2023/poten_2023-12-15_taking-the-long-way-home_chart2.png)
+> **Exhibit 2: Risk Classification of Global Aframax/LR2 Fleet**  
+> Unit: Number of Vessels  
+> Series: Low Risk, Medium Risk, High Risk, Sanctioned  
+> *Source: Vortexa/Windward*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2023/poten_2023-12-15_taking-the-long-way-home_chart2.png)

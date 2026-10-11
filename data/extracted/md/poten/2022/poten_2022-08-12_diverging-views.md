@@ -28,10 +28,18 @@ The tanker industry will need to keep an eye out on the developments in the oil 
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: Diverging Views](../../../charts/poten/2022/poten_2022-08-12_diverging-views_chart1.png)
+![Exhibit 1: Global Oil Demand vs 2019](../../../charts/poten/2022/poten_2022-08-12_diverging-views_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2022/poten_2022-08-12_diverging-views_chart1.png)
+> **Exhibit 1: Global Oil Demand vs 2019**  
+> Unit: Mb/d · X-axis: 1Q2020 to 4Q2023  
+> Series: IEA Demand, EIA Demand, OPEC Demand  
+> *Source: IEA, EIA, OPEC*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2022/poten_2022-08-12_diverging-views_chart1.png)
 
-![Exhibit 2: Diverging Views](../../../charts/poten/2022/poten_2022-08-12_diverging-views_chart2.png)
+![Exhibit 2: Non-OPEC Crude Oil Supply vs 2019](../../../charts/poten/2022/poten_2022-08-12_diverging-views_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2022/poten_2022-08-12_diverging-views_chart2.png)
+> **Exhibit 2: Non-OPEC Crude Oil Supply vs 2019**  
+> Unit: Mb/d · X-axis: 1Q2020 to 4Q2023  
+> Series: IEA: Non-OPEC Supply, EIA: Non-OPEC Supply, OPEC: Non-OPEC Supply  
+> *Source: IEA, EIA, OPEC*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2022/poten_2022-08-12_diverging-views_chart2.png)

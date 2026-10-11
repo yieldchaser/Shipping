@@ -26,14 +26,14 @@ source_file: "corpus/03-breakwave/insights/2021/2021-02-24_chinese-lending-remai
 
 > **Figure 1: In Recent Months We Have Been Coming Across Articles and Reports**  
 > *In recent months we have been coming across articles and reports stating that the Chinese government is significantly pulling back on their accommodative stance on lending, but we must continue to stress that this is not very accurate. A significant changecouldoccur later this year (we do not expect that it will), but so far this year the central government is acting in a similar manner as was seen during much of last year.*  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2021/assets/2021-02-24_chinese-lending-remains-strong_img_image-asset_311956586950.jpeg)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-02-24_chinese-lending-remains-strong_img_image-asset_311956586950.jpeg)
 
 Data released earlier this month showed that new lending set another all-time high in January, with year-on-year growth also easily exceeding the year-on-year growth seen during the second half of last year.
 
 ![Comodore Lending](assets/2021-02-24_chinese-lending-remains-strong_img_comodorelending_d2d8fac4a0c6.jpg)
 
 > **Figure 2: Comodore Lending**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2021/assets/2021-02-24_chinese-lending-remains-strong_img_comodorelending_d2d8fac4a0c6.jpg)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-02-24_chinese-lending-remains-strong_img_comodorelending_d2d8fac4a0c6.jpg)
 
 Chinese banks issued a record 3.58 trillion yuan in new loans in January, which marks a month-on-month increase of 2.32 trillion yuan (184%) and a year-on-year increase of 240 billion yuan (7%). While new lending often sets records in January, the year-on-year growth is particularly noteworthy as lending during the second half of 2020 rose by 5%. So far this year, lending growth is exceeding that level.
 

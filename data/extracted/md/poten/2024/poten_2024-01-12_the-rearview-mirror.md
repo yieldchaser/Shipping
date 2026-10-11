@@ -42,8 +42,8 @@ Overall, we did not do too bad. Three projections proved to be correct, one was 
 
 ![Exhibit 1: The Rearview Mirror](../../../charts/poten/2024/poten_2024-01-12_the-rearview-mirror_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2024/poten_2024-01-12_the-rearview-mirror_chart1.png)
+> **Interactive Asset:** [Local Asset (200 DPI PNG)](../../../charts/poten/2024/poten_2024-01-12_the-rearview-mirror_chart1.png)
 
 ![Exhibit 2: The Rearview Mirror](../../../charts/poten/2024/poten_2024-01-12_the-rearview-mirror_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2024/poten_2024-01-12_the-rearview-mirror_chart2.png)
+> **Interactive Asset:** [Local Asset (200 DPI PNG)](../../../charts/poten/2024/poten_2024-01-12_the-rearview-mirror_chart2.png)

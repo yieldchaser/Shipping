@@ -30,8 +30,12 @@ Just like U.S. crude imports are currently a mix of direct deliveries on Aframax
 
 ![Exhibit 1: Keeping Exports in the LOOP](../../../charts/poten/2017/poten_2017-07-28_keeping-exports-in-the-loop_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2017/poten_2017-07-28_keeping-exports-in-the-loop_chart1.png)
+> **Interactive Asset:** [Local Asset (200 DPI PNG)](../../../charts/poten/2017/poten_2017-07-28_keeping-exports-in-the-loop_chart1.png)
 
-![Exhibit 2: Keeping Exports in the LOOP](../../../charts/poten/2017/poten_2017-07-28_keeping-exports-in-the-loop_chart2.png)
+![Exhibit 2: Seaborne U.S. Crude Oil Exports](../../../charts/poten/2017/poten_2017-07-28_keeping-exports-in-the-loop_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2017/poten_2017-07-28_keeping-exports-in-the-loop_chart2.png)
+> **Exhibit 2: Seaborne U.S. Crude Oil Exports**  
+> Unit: KB/d · X-axis: Jan-15 to Jul-17  
+> Series: VLCC, Suezmax, Aframax, Panamax  
+> *Source: Lloyd’s List Intelligence*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2017/poten_2017-07-28_keeping-exports-in-the-loop_chart2.png)

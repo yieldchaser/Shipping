@@ -28,31 +28,31 @@ As we have discussed often, we have been stressing that a return of growth in gr
 
 The USDA is now forecasting that global coarse grain exports in 2025/26 will total 253.8 million tons. This would mark a year-on-year increase of 26.4 million tons (12%) from the 2024/25 season. Coarse grain exports will remain the global grain market’s largest cargo by volume. A large year-on-year increase in coarse grain exports is expected from the United States. A moderate year-on-year increase is expected from Argentina. Small year-on-year increases are expected from Ukraine and Brazil.
 
-![Chart 1](assets/2026-04-17_global-grain-trade-forecast-raised-yet-again_img_chart1_2445e71ff219.jpg)
+![Chart 1](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-04-17_global-grain-trade-forecast-raised-yet-again_img_chart1_2445e71ff219.jpg)
 
 > **Figure 1: Chart 1**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-04-17_global-grain-trade-forecast-raised-yet-again_img_chart1_2445e71ff219.jpg)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-04-17_global-grain-trade-forecast-raised-yet-again_img_chart1_2445e71ff219.jpg)
 
 Global wheat exports are expected to total 221.8 million tons. This would mark a year-on-year increase of 11.3 million tons (5%) from the 2024/25 season. Moderate increases are expected from the European Union and Australia. Small increases are expected from the United States and Russia.
 
-![Chart 2](assets/2026-04-17_global-grain-trade-forecast-raised-yet-again_img_chart2_32327c5ab120.jpg)
+![Chart 2](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-04-17_global-grain-trade-forecast-raised-yet-again_img_chart2_32327c5ab120.jpg)
 
 > **Figure 2: Chart 2**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-04-17_global-grain-trade-forecast-raised-yet-again_img_chart2_32327c5ab120.jpg)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-04-17_global-grain-trade-forecast-raised-yet-again_img_chart2_32327c5ab120.jpg)
 
 Global soybean exports are expected to total 187.2 million tons. This would mark a year-on-year increase of 3 million tons (2%) from the 2024/25 season. A large increase in soybean exports is expected from Brazil and a small increase is expected from Argentina. A large decline is expected from the United States..
 
-![Chart 3](assets/2026-04-17_global-grain-trade-forecast-raised-yet-again_img_chart3_5dba5786634e.jpg)
+![Chart 3](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-04-17_global-grain-trade-forecast-raised-yet-again_img_chart3_5dba5786634e.jpg)
 
 > **Figure 3: Chart 3**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-04-17_global-grain-trade-forecast-raised-yet-again_img_chart3_5dba5786634e.jpg)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-04-17_global-grain-trade-forecast-raised-yet-again_img_chart3_5dba5786634e.jpg)
 
 Global soymeal exports are expected to total 84.1 million tons. This would mark a year-on-year increase of 1 million tons (1%). Small increases in exports are expected from the United States and Brazil. A small drop is expected from Argentina.
 
-![Chart 4](assets/2026-04-17_global-grain-trade-forecast-raised-yet-again_img_chart4_2dee685cb361.jpg)
+![Chart 4](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-04-17_global-grain-trade-forecast-raised-yet-again_img_chart4_2dee685cb361.jpg)
 
 > **Figure 4: Chart 4**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-04-17_global-grain-trade-forecast-raised-yet-again_img_chart4_2dee685cb361.jpg)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-04-17_global-grain-trade-forecast-raised-yet-again_img_chart4_2dee685cb361.jpg)
 
 ---
 

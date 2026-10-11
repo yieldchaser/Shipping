@@ -62,10 +62,10 @@ However, it is not just in China and India that coal imports will face headwinds
 
 Together with the downward trend for cargo order volumes for coal discharging in China and India, the seasonal weakness in the rest of the Far East and Southeast Asia will contribute to continued pressure on the short-dated Newcastle coal futures. The softer demand for seaborne transportation of coal will also contribute to headwinds for demand in the mid-sized dry bulk vessel segments.
 
-![Στιγμιότυπο Οθόνης 2024 06 25 115547](assets/2024-06-25_o0yud7yuhnc4liytygdbppahrqe7y4_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_33815e8f9b5f.png)
+![Στιγμιότυπο Οθόνης 2024 06 25 115547](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-06-25_o0yud7yuhnc4liytygdbppahrqe7y4_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_33815e8f9b5f.png)
 
 > **Figure 1: Στιγμιότυπο Οθόνης 2024 06 25 115547**  
-> **Interactive Data & Source:** [Shipfix](https://shipfix.com/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-06-25_o0yud7yuhnc4liytygdbppahrqe7y4_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_33815e8f9b5f.png)
+> **Interactive Data & Source:** [Shipfix](https://shipfix.com/) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-06-25_o0yud7yuhnc4liytygdbppahrqe7y4_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_33815e8f9b5f.png)
 
 Data Source:[Shipfix](https://shipfix.com/)
 

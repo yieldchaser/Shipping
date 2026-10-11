@@ -19,10 +19,10 @@ source_file: "corpus/03-breakwave/insights/2023/2023-05-27_brs-iron-ore-amp-stee
 
 ---
 
-![Brs Logo No Background (1)](assets/2023-05-27_brs-iron-ore-amp-steel-bi-weekly-newsletter_img_brslogo-nobackground28129_f39a57dd6dc6.png)
+![Brs Logo No Background (1)](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-05-27_brs-iron-ore-amp-steel-bi-weekly-newsletter_img_brslogo-nobackground28129_f39a57dd6dc6.png)
 
 > **Figure 1: Brs Logo No Background (1)**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-05-27_brs-iron-ore-amp-steel-bi-weekly-newsletter_img_brslogo-nobackground28129_f39a57dd6dc6.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-05-27_brs-iron-ore-amp-steel-bi-weekly-newsletter_img_brslogo-nobackground28129_f39a57dd6dc6.png)
 
 In April, crude steel production in the 63 countries reporting to the World Steel Association declined to 161.4 million tons, representing a decrease of 2.4% compared to the corresponding period last year. During the first four months of the year, Japan and South Korea combined produced 51.2 million tons, experiencing a slight decrease of 1.7 million tons compared to the same period last year. In contrast, India's steel production maintains firm, with an annual growth of 3%. However, production from the 27 countries of the European Union remained subdued, declining by 11.1% year-on-year in April.
 
@@ -34,7 +34,7 @@ Furthermore, total funds used for property development by enterprises have shrun
 
 The compulsory implementation of output control on crude steel hasn’t been put into effect. Initially, we expected it to be carried out in late Q3, however, considering a persistent struggling steel profits, the output cuts may come earlier. To ensure that the total annual steel output does not exceed that of the previous year, the average monthly output for the remaining months of this year should be below 82.3 million tons. It is thus projected that crude steel production in H2- 23 will be 37 million tons lower than in the H1-23.
 
-![1](assets/2023-05-27_brs-iron-ore-amp-steel-bi-weekly-newsletter_img_1_6565efb2f5ee.png)
+![1](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-05-27_brs-iron-ore-amp-steel-bi-weekly-newsletter_img_1_6565efb2f5ee.png)
 
 > **Figure 2: 1**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-05-27_brs-iron-ore-amp-steel-bi-weekly-newsletter_img_1_6565efb2f5ee.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-05-27_brs-iron-ore-amp-steel-bi-weekly-newsletter_img_1_6565efb2f5ee.png)

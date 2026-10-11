@@ -26,10 +26,10 @@ source_file: "corpus/03-breakwave/insights/2024/2024-02-02_the-big-picture-steel
 
 - *The two charts below both show crude steel production outside China—the first tracks tonnes produced, the second annual change—which begs the question: are we seeing stagnation or recovery?*
 
-![241](assets/2024-02-02_the-big-picture-steel-production-outside-china-stagnation-or-recovery_img_241_da3e46adec5c.png)
+![241](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-02-02_the-big-picture-steel-production-outside-china-stagnation-or-recovery_img_241_da3e46adec5c.png)
 
 > **Figure 1: 241**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-02-02_the-big-picture-steel-production-outside-china-stagnation-or-recovery_img_241_da3e46adec5c.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-02-02_the-big-picture-steel-production-outside-china-stagnation-or-recovery_img_241_da3e46adec5c.png)
 
 After the rebound from the collapse of April 2020, a pattern of**declining monthly peaks emerges through the course of 2021-23**.
 
@@ -43,10 +43,10 @@ According to initial estimates from the Joint Plan Committee of the Ministry of 
 
 At the same time steel exports from India retreated 16% to 6.7m tonnes, whereas the country’s imports gained 28% to 7.2m tonnes, a symptom of rising demand.
 
-![242](assets/2024-02-02_the-big-picture-steel-production-outside-china-stagnation-or-recovery_img_242_46c21b0b0932.png)
+![242](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-02-02_the-big-picture-steel-production-outside-china-stagnation-or-recovery_img_242_46c21b0b0932.png)
 
 > **Figure 2: 242**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-02-02_the-big-picture-steel-production-outside-china-stagnation-or-recovery_img_242_46c21b0b0932.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-02-02_the-big-picture-steel-production-outside-china-stagnation-or-recovery_img_242_46c21b0b0932.png)
 
 Perhaps one of the downside risks for the country’s steelmakers could be competition from China across Asian export markets.
 
@@ -66,10 +66,10 @@ As China drove iron ore import demand in 2023, can the rest of the world contrib
 
 The charts below demonstrate it**would not require a return to 2021 steel output levels for coking coal and import demand growth in Europe, Japan and South Korea to be generated**in 2024. A partial upturn would suffice.
 
-![243](assets/2024-02-02_the-big-picture-steel-production-outside-china-stagnation-or-recovery_img_243_0036b6013d90.png)
+![243](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-02-02_the-big-picture-steel-production-outside-china-stagnation-or-recovery_img_243_0036b6013d90.png)
 
 > **Figure 3: 243**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-02-02_the-big-picture-steel-production-outside-china-stagnation-or-recovery_img_243_0036b6013d90.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-02-02_the-big-picture-steel-production-outside-china-stagnation-or-recovery_img_243_0036b6013d90.png)
 
 ### China
 

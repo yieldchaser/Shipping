@@ -20,10 +20,10 @@ source_file: "corpus/03-breakwave/insights/2024/2024-03-12_grey-shift.html"
 
 ---
 
-![Gibson Report4](assets/2024-03-12_grey-shift_img_gibsonreport4_f5dd041edf24.jpeg)
+![Gibson Report4](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-03-12_grey-shift_img_gibsonreport4_f5dd041edf24.jpeg)
 
 > **Figure 1: Gibson Report4**  
-> **Interactive Data & Source:** [Gibsons Co](https://www.gibsons.co.uk/market-reports) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-03-12_grey-shift_img_gibsonreport4_f5dd041edf24.jpeg)
+> **Interactive Data & Source:** [Gibsons Co](https://www.gibsons.co.uk/market-reports) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-03-12_grey-shift_img_gibsonreport4_f5dd041edf24.jpeg)
 
 With OPEC+ set to roll over existing production cuts into Q2, the case of Russia is increasingly more complex. On top of a tightening sanctions regime, Russia is expected to make additional cuts of 471kbd on top of existing cuts of 500kbd, while current output levels stand at 9.5mbd for February according to government officials. These cuts are expected to include both crude and products and should help to keep Russian oil pricing firmly above the G7 price cap, particularly given higher benchmark brent prices. This comes as the Russian market is becoming increasingly more difficult for many players to get involved with; as sanctions enforcement increases, things could become even trickier going forward.
 
@@ -35,10 +35,10 @@ The recent case of undelivered Sokol grade crude due to sanctions and payment is
 
 What is this likely to mean for the mainstream tanker market? Firstly, if lower Russian export volumes materialise, buyers in India and China will be forced to seek replacement barrels from the Middle East and the Atlantic, which may lend support to the VLCC sector. However, the biggest impact is likely to be seen in the Suezmax and Aframax sectors, where a significant number of vessels, capable of trading Russian barrels and in the conventional trade, could migrate back into the mainstream market. This will also coincide with the easing of seasonal Turkish Straits delays, multiplying the downward pressure. Overall, tighter enforcement of price cap threatens to shake up the business model established since 2022, with the brunt of the impact felt by the mainstream market.
 
-![Screenshot 2024 03 12 14.22.03](assets/2024-03-12_grey-shift_img_screenshot2024-03-12142203_63dfacff2eb1.png)
+![Screenshot 2024 03 12 14.22.03](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-03-12_grey-shift_img_screenshot2024-03-12142203_63dfacff2eb1.png)
 
 > **Figure 2: Screenshot 2024 03 12 14.22.03**  
-> **Interactive Data & Source:** [Gibsons Co](https://www.gibsons.co.uk/market-reports) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-03-12_grey-shift_img_screenshot2024-03-12142203_63dfacff2eb1.png)
+> **Interactive Data & Source:** [Gibsons Co](https://www.gibsons.co.uk/market-reports) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-03-12_grey-shift_img_screenshot2024-03-12142203_63dfacff2eb1.png)
 
 Data source:[Gibson Shipbrokers](https://www.gibsons.co.uk/market-reports)
 

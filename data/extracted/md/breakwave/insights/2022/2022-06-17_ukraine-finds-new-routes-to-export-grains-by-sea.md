@@ -25,11 +25,11 @@ Ukrainian grain exports from Danube River ports have been surging in recent week
 
 Ukraine has faced difficulties exporting commodities since the beginning of the invasion with most of the country’s commercial ports remaining shut since then. The country is known as ‘the breadbasket of Europe’, and is the world’s fourth-largest grain exporter, with Middle Eastern and Northern African countries, too, heavily reliant on the country for grain.
 
-![Using Shipfix Ais Trade Flows Data](assets/2022-06-17_ukraine-finds-new-routes-to-export-grains-by-sea_img_1_3e437ab98d39.png)
+![Using Shipfix Ais Trade Flows Data](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-06-17_ukraine-finds-new-routes-to-export-grains-by-sea_img_1_3e437ab98d39.png)
 
 > **Figure 1: Using Shipfix Ais Trade Flows Data**  
 > *Chart: using Shipfix AIS Trade Flows data, this chart shows shipments so far this year from the Ukrainian Danube River Ports of Kiliya, Izmail and Reni. The chart shows that over the last few months exports from these ports have been surging as Ukraine finds a way to ship grains to international markets.*  
-> **Interactive Data & Source:** [Shipfix](https://shipfix.com/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-06-17_ukraine-finds-new-routes-to-export-grains-by-sea_img_1_3e437ab98d39.png)
+> **Interactive Data & Source:** [Shipfix](https://shipfix.com/) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-06-17_ukraine-finds-new-routes-to-export-grains-by-sea_img_1_3e437ab98d39.png)
 
 Only the Ukrainian ports of Reni, Izmail, and Kiliia on the Danube river have been able to start up again to export grains. Last week there were over 40 vessels leaving these ports laden with grain, well above the volumes exported from these river ports pre-invasion.
 

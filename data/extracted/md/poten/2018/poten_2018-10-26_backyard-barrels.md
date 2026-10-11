@@ -30,10 +30,18 @@ While it appears that changes are afoot in some of the biggest customers of the 
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: Backyard Barrels](../../../charts/poten/2018/poten_2018-10-26_backyard-barrels_chart1.png)
+![Exhibit 1: U.S. Product Imports and Exports (4 Wk MAvg)](../../../charts/poten/2018/poten_2018-10-26_backyard-barrels_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2018/poten_2018-10-26_backyard-barrels_chart1.png)
+> **Exhibit 1: U.S. Product Imports and Exports (4 Wk MAvg)**  
+> Unit: Kb/d · X-axis: Jan-02 to Jan-18  
+> Series: Product Imports, Product Exports, Net Prod Imports  
+> *Source: DOE/EIA*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2018/poten_2018-10-26_backyard-barrels_chart1.png)
 
-![Exhibit 2: Backyard Barrels](../../../charts/poten/2018/poten_2018-10-26_backyard-barrels_chart2.png)
+![Exhibit 2: U.S. Product Exports to Latin & Central America](../../../charts/poten/2018/poten_2018-10-26_backyard-barrels_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2018/poten_2018-10-26_backyard-barrels_chart2.png)
+> **Exhibit 2: U.S. Product Exports to Latin & Central America**  
+> Unit: KB/day · X-axis: 1q2010 to 1q2018  
+> Series: Mexico, Brazil, Chile, Panama, Colombia, Ecuador, Other  
+> *Source: DOE/EIA*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2018/poten_2018-10-26_backyard-barrels_chart2.png)

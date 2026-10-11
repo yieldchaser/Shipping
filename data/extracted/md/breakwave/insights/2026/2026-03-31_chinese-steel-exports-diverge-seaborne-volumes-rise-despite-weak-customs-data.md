@@ -20,17 +20,17 @@ source_file: "corpus/03-breakwave/insights/2026/2026-03-31_chinese-steel-exports
 
 ---
 
-![Rgb Color Brs Shipbrokers Monogram L](assets/2026-03-31_chinese-steel-exports-diverge-seaborne-volumes-rise-despite-weak-customs-data_img_rgb-color-brs-shipbrokers-monogram-l_c365f35f1de5.png)
+![Rgb Color Brs Shipbrokers Monogram L](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-03-31_chinese-steel-exports-diverge-seaborne-volumes-rise-despite-weak-customs-data_img_rgb-color-brs-shipbrokers-monogram-l_c365f35f1de5.png)
 
 > **Figure 1: Rgb Color Brs Shipbrokers Monogram L**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-03-31_chinese-steel-exports-diverge-seaborne-volumes-rise-despite-weak-customs-data_img_rgb-color-brs-shipbrokers-monogram-l_c365f35f1de5.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-03-31_chinese-steel-exports-diverge-seaborne-volumes-rise-despite-weak-customs-data_img_rgb-color-brs-shipbrokers-monogram-l_c365f35f1de5.png)
 
 In early 2026, China’s official customs data points to a sequential slowdown in steel exports, with cumulative shipments across January and February totalling 15.59mln mt, down 8.1% y-o-y. However, shipping data from AXSMarine presents a somewhat more nuanced picture. While reported export volumes have declined, shipments via dry bulk vessels have increased over the same period, rising by 12.3% y-o-y to 13.8mln mt. While part of the discrepancy may reflect differences in shipment timing, the increase in dry bulk volumes nonetheless points to a degree of resilience in seaborne activity, suggesting that underlying export flows may be holding up better than implied by customs data.
 
-![Στιγμιότυπο Οθόνης 2026 03 30 102124](assets/2026-03-31_chinese-steel-exports-diverge-seaborne-volumes-rise-despite-weak-customs-data_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_49b133eb3dd7.png)
+![Στιγμιότυπο Οθόνης 2026 03 30 102124](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-03-31_chinese-steel-exports-diverge-seaborne-volumes-rise-despite-weak-customs-data_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_49b133eb3dd7.png)
 
 > **Figure 2: Στιγμιότυπο Οθόνης 2026 03 30 102124**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-03-31_chinese-steel-exports-diverge-seaborne-volumes-rise-despite-weak-customs-data_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_49b133eb3dd7.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-03-31_chinese-steel-exports-diverge-seaborne-volumes-rise-despite-weak-customs-data_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_49b133eb3dd7.png)
 
 This divergence indicates that the recent weakness in export data may not fully reflect actual demand conditions. In particular, it raises the possibility that earlier concerns over a sharp contraction in steel-related shipping demand may have been overstated.
 
@@ -40,10 +40,10 @@ Shipping wise, the steel export segment within the dry bulk market reveals a not
 
 While the combined import volume of these top ten destinations declined by 32.4% y-o-y in January–February 2025, this was offset by increased shipments to a broader range of smaller markets. As a result, the overall export performance remained relatively resilient, highlighting a shift toward a more diversified export structure amid the previously mentioned trade frictions. Despite weakening demand from traditional buyers, China has successfully identified new markets to absorb incremental export volumes. Among the key sources of growth, India stands out, with imports increasing by 228.8% y-o-y to 0.52mln mt, compared to just 0.16mln mt in the same period last year, when it ranked only 25th among China’s steel export destinations.
 
-![Στιγμιότυπο Οθόνης 2026 03 30 102129](assets/2026-03-31_chinese-steel-exports-diverge-seaborne-volumes-rise-despite-weak-customs-data_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_39f5225c9a64.png)
+![Στιγμιότυπο Οθόνης 2026 03 30 102129](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-03-31_chinese-steel-exports-diverge-seaborne-volumes-rise-despite-weak-customs-data_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_39f5225c9a64.png)
 
 > **Figure 3: Στιγμιότυπο Οθόνης 2026 03 30 102129**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-03-31_chinese-steel-exports-diverge-seaborne-volumes-rise-despite-weak-customs-data_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_39f5225c9a64.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-03-31_chinese-steel-exports-diverge-seaborne-volumes-rise-despite-weak-customs-data_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_39f5225c9a64.png)
 
 Nevertheless, China’s steel exports are unlikely to enjoy a smooth path going forward. More importantly, the Middle East conflict has disrupted shipping through the Strait of Hormuz, prompting some Chinese steel exporters to halt new offers to the region. Rising freight rates, vessel shortages, and insurance inflations have limited the availability of cargoes to Gulf countries, China’s second-largest steel market. Such constantly evolving policy and macro developments are also raising the bar for seaborne trade: shipowners and charterers must continuously adapt to shifting market conditions and actively explore viable trade routes.
 
@@ -53,10 +53,10 @@ From a policy perspective, the decline in exports is not unexpected. Export cont
 
 Beyond policy, other factors have also played a role. RMB appreciation has weighed on export competitiveness, while ongoing trade frictions, including anti-dumping measures from countries such as Mexico, Brazil, and Pakistan, have added pressure on shipments. Taken together, these dynamics suggest that the recent decline in exports reflects a combination of factors, rather than being solely driven by regulatory changes. Escalating US tariffs have also increased export uncertainty. Although some duties were struck down in February 2026, core tariffs under Sections 232 and 301 remain, and frequent policy shifts, blocked transshipment routes, and broader coverage on downstream products make cost calculation difficult for exporters, adding indirect pressure on Chinese steel shipments.
 
-![Στιγμιότυπο Οθόνης 2026 03 30 102143](assets/2026-03-31_chinese-steel-exports-diverge-seaborne-volumes-rise-despite-weak-customs-data_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_710522c868ee.png)
+![Στιγμιότυπο Οθόνης 2026 03 30 102143](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-03-31_chinese-steel-exports-diverge-seaborne-volumes-rise-despite-weak-customs-data_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_710522c868ee.png)
 
 > **Figure 4: Στιγμιότυπο Οθόνης 2026 03 30 102143**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-03-31_chinese-steel-exports-diverge-seaborne-volumes-rise-despite-weak-customs-data_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_710522c868ee.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-03-31_chinese-steel-exports-diverge-seaborne-volumes-rise-despite-weak-customs-data_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_710522c868ee.png)
 
 That being said, this seaborne export resilience should be interpreted with some caution. Structural headwinds remain in place, including policy-driven export constraints and broader industry restructuring. From a medium- to long-term perspective, a reduction in steel exports is likely to remain the prevailing trend, in line with policy objectives outlined during the recent “Two Sessions” meeting which emphasised capacity reduction, industrial upgrading, and a transition towards higher-value production.
 

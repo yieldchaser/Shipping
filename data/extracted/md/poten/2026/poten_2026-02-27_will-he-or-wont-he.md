@@ -30,8 +30,12 @@ From a tanker market perspective, it appears that whatever happens, there is lit
 
 ![Exhibit 1: Will He Or Wont He](../../../charts/poten/2026/poten_2026-02-27_will-he-or-wont-he_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2026/poten_2026-02-27_will-he-or-wont-he_chart1.png)
+> **Interactive Asset:** [Local Asset (200 DPI PNG)](../../../charts/poten/2026/poten_2026-02-27_will-he-or-wont-he_chart1.png)
 
-![Exhibit 2: Will He Or Wont He](../../../charts/poten/2026/poten_2026-02-27_will-he-or-wont-he_chart2.png)
+![Exhibit 2: Iran Crude Oil Exports by Vessel Class](../../../charts/poten/2026/poten_2026-02-27_will-he-or-wont-he_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2026/poten_2026-02-27_will-he-or-wont-he_chart2.png)
+> **Exhibit 2: Iran Crude Oil Exports by Vessel Class**  
+> Unit: Kb/d · X-axis: Jan-16 to Jan-26  
+> Series: VLCC, Suezmax / LR3, Aframax / LR2, Panamax / LR1, Other  
+> *Source: Vortexa*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2026/poten_2026-02-27_will-he-or-wont-he_chart2.png)

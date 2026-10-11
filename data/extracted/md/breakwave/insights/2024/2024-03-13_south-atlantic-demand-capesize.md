@@ -20,19 +20,19 @@ source_file: "corpus/03-breakwave/insights/2024/2024-03-13_south-atlantic-demand
 
 ---
 
-![Screenshot 2024 03 13 17.01.38](assets/2024-03-13_south-atlantic-demand-capesize_img_screenshot2024-03-13170138_1da2b878cb0f.png)
+![Screenshot 2024 03 13 17.01.38](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-03-13_south-atlantic-demand-capesize_img_screenshot2024-03-13170138_1da2b878cb0f.png)
 
 > **Figure 1: Screenshot 2024 03 13 17.01.38**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-03-13_south-atlantic-demand-capesize_img_screenshot2024-03-13170138_1da2b878cb0f.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-03-13_south-atlantic-demand-capesize_img_screenshot2024-03-13170138_1da2b878cb0f.png)
 
 During the second week of March, there's a notable surge in freight rates, particularly in the larger vessel categories, accentuated by a diminishing number of ballasters. The demand indicator reflected in the volume of South Atlantic daily loaded shipments appeared robust and exceeded the benchmark demand as indicated by the 7-day moving average.
 
 In the iron market, iron ore futures prices continued their downward trend for a second consecutive session on Monday, reaching their lowest levels in over four months. This decline was primarily driven by the persistent weakness in the fundamentals of this vital steelmaking component, particularly in China, the largest consumer of iron ore globally. This downward pressure on prices is mainly attributed to a temporary supply glut stemming from better-than-expected shipments in the first quarter of the year, coupled with a slower-than-anticipated demand recovery. This combination has exerted significant downward pressure on iron ore prices, underscoring the delicate balance between supply and demand dynamics in the global steel industry.
 
-![Screenshot 2024 03 13 17.04.04](assets/2024-03-13_south-atlantic-demand-capesize_img_screenshot2024-03-13170404_9ae6754fd28e.png)
+![Screenshot 2024 03 13 17.04.04](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-03-13_south-atlantic-demand-capesize_img_screenshot2024-03-13170404_9ae6754fd28e.png)
 
 > **Figure 2: Screenshot 2024 03 13 17.04.04**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-03-13_south-atlantic-demand-capesize_img_screenshot2024-03-13170404_9ae6754fd28e.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-03-13_south-atlantic-demand-capesize_img_screenshot2024-03-13170404_9ae6754fd28e.png)
 
 Capesize Brazil to North China rates have sustained their upward trajectory, building upon the significant spike observed in preceding days. Recent levels reflect one of the peak points reached in the past 12 months, underscoring the strength and resilience of this shipping route.
 
@@ -43,10 +43,10 @@ Capesize Brazil to North China rates have sustained their upward trajectory, bui
 
 - **Handysize**freight rates for the NOPAC Far East route held levels above $40 per ton, 27% stronger than rates observed a month ago.
 
-![Screenshot 2024 03 13 17.04.13](assets/2024-03-13_south-atlantic-demand-capesize_img_screenshot2024-03-13170413_b2595410018a.png)
+![Screenshot 2024 03 13 17.04.13](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-03-13_south-atlantic-demand-capesize_img_screenshot2024-03-13170413_b2595410018a.png)
 
 > **Figure 3: Screenshot 2024 03 13 17.04.13**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-03-13_south-atlantic-demand-capesize_img_screenshot2024-03-13170413_b2595410018a.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-03-13_south-atlantic-demand-capesize_img_screenshot2024-03-13170413_b2595410018a.png)
 
 The number of ballast vessels continued a significant declining trend for both Capesize and Panamax vessels, while the increase is persisting for Supramax vessels in the SE Asia region and for Handysize in the NOPAC.
 
@@ -57,10 +57,10 @@ The number of ballast vessels continued a significant declining trend for both C
 
 - **Handysize NOPAC**: The count of ballast ships surged to 100, even surpassing the highs recorded in the previous week, and now trending to a new spike not seen over the last year.
 
-![Screenshot 2024 03 13 17.04.22](assets/2024-03-13_south-atlantic-demand-capesize_img_screenshot2024-03-13170422_e981b8a8832c.png)
+![Screenshot 2024 03 13 17.04.22](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-03-13_south-atlantic-demand-capesize_img_screenshot2024-03-13170422_e981b8a8832c.png)
 
 > **Figure 4: Screenshot 2024 03 13 17.04.22**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-03-13_south-atlantic-demand-capesize_img_screenshot2024-03-13170422_e981b8a8832c.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-03-13_south-atlantic-demand-capesize_img_screenshot2024-03-13170422_e981b8a8832c.png)
 
 The downward trajectory in demand tonne days that persisted across all vessel size categories has now started to reverse to an upward trend for the Capesize segment.
 
@@ -70,10 +70,10 @@ The downward trajectory in demand tonne days that persisted across all vessel si
 
 - **Handysize:**The growth rate of tonne days continues with weakness, while a firmer pace was recorded two weeks ago.
 
-![Screenshot 2024 03 13 17.04.31](assets/2024-03-13_south-atlantic-demand-capesize_img_screenshot2024-03-13170431_e7c215a66bda.png)
+![Screenshot 2024 03 13 17.04.31](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-03-13_south-atlantic-demand-capesize_img_screenshot2024-03-13170431_e7c215a66bda.png)
 
 > **Figure 5: Screenshot 2024 03 13 17.04.31**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-03-13_south-atlantic-demand-capesize_img_screenshot2024-03-13170431_e7c215a66bda.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-03-13_south-atlantic-demand-capesize_img_screenshot2024-03-13170431_e7c215a66bda.png)
 
 In the second week of March, there was a continuous decline recorded of congestion seen in the Capesize, Panamax and Supramax vessel segments.
 

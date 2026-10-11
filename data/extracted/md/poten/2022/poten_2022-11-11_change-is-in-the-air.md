@@ -40,6 +40,10 @@ Due to these increases in flat rates, we can expect the Worldscale rates negotia
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: Change Is In The Air](../../../charts/poten/2022/poten_2022-11-11_change-is-in-the-air_chart1.png)
+![Exhibit 1: Ras Tanura - Ningbo 2022 to 2023 Estimated Flat Rate Change](../../../charts/poten/2022/poten_2022-11-11_change-is-in-the-air_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2022/poten_2022-11-11_change-is-in-the-air_chart1.png)
+> **Exhibit 1: Ras Tanura - Ningbo 2022 to 2023 Estimated Flat Rate Change**  
+> Unit: Flat Rate ($/ton) · X-axis: 2022 to 2023  
+> Series: Bunker Price, Speed/Cons., Fixed Hire  
+> *Source: Poten & Partners*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2022/poten_2022-11-11_change-is-in-the-air_chart1.png)

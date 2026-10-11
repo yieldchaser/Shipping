@@ -30,10 +30,18 @@ We expect that the actual crude oil (and product) tanker deliveries this year wi
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: Slippery Orders](../../../charts/poten/2016/poten_2016-07-15_slippery-orders_chart1.png)
+![Exhibit 1: Fig. 1: June VLCC Orderbook vs Actual Deliveries for Each of the Years Shown](../../../charts/poten/2016/poten_2016-07-15_slippery-orders_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2016/poten_2016-07-15_slippery-orders_chart1.png)
+> **Exhibit 1: Fig. 1: June VLCC Orderbook vs Actual Deliveries for Each of the Years Shown**  
+> Unit: Vessel Count · X-axis: 2013 to 2016  
+> Series: Del. Jan-Jun, Del Jun-Dec, Postponed, Scheduled 2016  
+> *Source: Poten*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2016/poten_2016-07-15_slippery-orders_chart1.png)
 
-![Exhibit 2: Slippery Orders](../../../charts/poten/2016/poten_2016-07-15_slippery-orders_chart2.png)
+![Exhibit 2: Fig. 2: June Suezmax Orderbook vs Actual Deliveries for Each of the Years Shown](../../../charts/poten/2016/poten_2016-07-15_slippery-orders_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2016/poten_2016-07-15_slippery-orders_chart2.png)
+> **Exhibit 2: Fig. 2: June Suezmax Orderbook vs Actual Deliveries for Each of the Years Shown**  
+> Unit: Vessel Count · X-axis: 2013 to 2016  
+> Series: Del. Jan-Jun, Del Jun-Dec, Postponed, Scheduled 2016  
+> *Source: Poten*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2016/poten_2016-07-15_slippery-orders_chart2.png)

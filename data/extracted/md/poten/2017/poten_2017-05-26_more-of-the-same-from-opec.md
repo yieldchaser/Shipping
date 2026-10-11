@@ -28,10 +28,18 @@ While the markets were not immediately impressed with the extension of the cuts 
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: More Of The Same From OPEC](../../../charts/poten/2017/poten_2017-05-26_more-of-the-same-from-opec_chart1.png)
+![Exhibit 1: OPEC Crude Oil Exports](../../../charts/poten/2017/poten_2017-05-26_more-of-the-same-from-opec_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2017/poten_2017-05-26_more-of-the-same-from-opec_chart1.png)
+> **Exhibit 1: OPEC Crude Oil Exports**  
+> Unit: Mb/d · X-axis: Jan-15 to Mar-17  
+> Series: Core Middle East, Other, Quota Exempt  
+> *Source: Lloyd’s List Intelligence*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2017/poten_2017-05-26_more-of-the-same-from-opec_chart1.png)
 
-![Exhibit 2: More Of The Same From OPEC](../../../charts/poten/2017/poten_2017-05-26_more-of-the-same-from-opec_chart2.png)
+![Exhibit 2: OPEC Production vs Seaborne Exports](../../../charts/poten/2017/poten_2017-05-26_more-of-the-same-from-opec_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2017/poten_2017-05-26_more-of-the-same-from-opec_chart2.png)
+> **Exhibit 2: OPEC Production vs Seaborne Exports**  
+> Unit: Mb/d | Export% · X-axis: Jan-15 to Mar-17  
+> Series: Production, Seaborne Exports, Export%  
+> *Source: IEA; Lloyd’s List Intelligence*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2017/poten_2017-05-26_more-of-the-same-from-opec_chart2.png)

@@ -23,10 +23,10 @@ source_file: "corpus/03-breakwave/insights/2022/2022-07-10_weekly-insights-revie
 
 ## Read Here Everything You Need to Know
 
-![Unsplash Image D5kmhgxgzmi](assets/2022-07-10_weekly-insights-review_img_unsplash-image-d5kmhgxgzmi_d82e17a31b75.jpg)
+![Unsplash Image D5kmhgxgzmi](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-07-10_weekly-insights-review_img_unsplash-image-d5kmhgxgzmi_d82e17a31b75.jpg)
 
 > **Figure 1: Unsplash Image D5kmhgxgzmi**  
-> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2022/7/4/chinas-coal-imports-from-russia-are-likely-to-continue-to-climb) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-07-10_weekly-insights-review_img_unsplash-image-d5kmhgxgzmi_d82e17a31b75.jpg)
+> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2022/7/4/chinas-coal-imports-from-russia-are-likely-to-continue-to-climb) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-07-10_weekly-insights-review_img_unsplash-image-d5kmhgxgzmi_d82e17a31b75.jpg)
 
 ## China's Coal Imports From Russia Are Likely to Continue to Climb
 
@@ -42,15 +42,15 @@ China's coal import data for May by origin has been released and shows imports f
 Last week featured more volatility, with the world’s leading indices anchoring at bear-market levels in anticipation of new sharp rate hikes by the Fed.
 [Read More](https://www.breakwaveadvisors.com/insights/2022/7/6/weekly-comment-the-great-deflation-of-2023)
 
-![Unsplash Image Q8xsczyh6d8](assets/2022-07-10_weekly-insights-review_img_unsplash-image-q8xsczyh6d8_674ff82df87b.jpg)
+![Unsplash Image Q8xsczyh6d8](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-07-10_weekly-insights-review_img_unsplash-image-q8xsczyh6d8_674ff82df87b.jpg)
 
 > **Figure 2: Unsplash Image Q8xsczyh6d8**  
-> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2022/7/6/crude-oil-plunges-amid-rising-recessionary-fears) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-07-10_weekly-insights-review_img_unsplash-image-q8xsczyh6d8_674ff82df87b.jpg)
+> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2022/7/6/crude-oil-plunges-amid-rising-recessionary-fears) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-07-10_weekly-insights-review_img_unsplash-image-q8xsczyh6d8_674ff82df87b.jpg)
 
-![Unsplash Image J Lmptk8tmg](assets/2022-07-10_weekly-insights-review_img_unsplash-image-j-lmptk8tmg_da944bc8805b.jpg)
+![Unsplash Image J Lmptk8tmg](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-07-10_weekly-insights-review_img_unsplash-image-j-lmptk8tmg_da944bc8805b.jpg)
 
 > **Figure 3: Unsplash Image J Lmptk8tmg**  
-> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2022/7/6/crude-oil-plunges-amid-rising-recessionary-fears) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-07-10_weekly-insights-review_img_unsplash-image-j-lmptk8tmg_da944bc8805b.jpg)
+> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2022/7/6/crude-oil-plunges-amid-rising-recessionary-fears) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-07-10_weekly-insights-review_img_unsplash-image-j-lmptk8tmg_da944bc8805b.jpg)
 
 ## Crude Oil Plunges Amid Rising Recessionary Fears
 
@@ -59,10 +59,10 @@ Last week featured more volatility, with the world’s leading indices anchoring
 A stronger USD also weighed on investor sentiment.
 [Read More](https://www.breakwaveadvisors.com/insights/2022/7/6/crude-oil-plunges-amid-rising-recessionary-fears)
 
-![Unsplash Image Lfncq6eu1cm](assets/2022-07-10_weekly-insights-review_img_unsplash-image-lfncq6eu1cm_f9e997839de5.jpg)
+![Unsplash Image Lfncq6eu1cm](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-07-10_weekly-insights-review_img_unsplash-image-lfncq6eu1cm_f9e997839de5.jpg)
 
 > **Figure 4: Unsplash Image Lfncq6eu1cm**  
-> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2022/7/7/indias-refiners-face-headwinds-after-months-of-windfall-profits) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-07-10_weekly-insights-review_img_unsplash-image-lfncq6eu1cm_f9e997839de5.jpg)
+> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2022/7/7/indias-refiners-face-headwinds-after-months-of-windfall-profits) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-07-10_weekly-insights-review_img_unsplash-image-lfncq6eu1cm_f9e997839de5.jpg)
 
 ## India’s Refiners Face Headwinds After Months of Windfall Profits
 
@@ -78,17 +78,17 @@ A stronger USD also weighed on investor sentiment.
 Commodity markets rebounded as the focus returned to tightness in physical markets
 [Read More](https://www.breakwaveadvisors.com/insights/2022/7/8/metals-rebound-as-china-plans-further-stimulus-measures)
 
-![Unsplash Image P Qvsf7yodw](assets/2022-07-10_weekly-insights-review_img_unsplash-image-p-qvsf7yodw_571ac05a8d82.jpg)
+![Unsplash Image P Qvsf7yodw](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-07-10_weekly-insights-review_img_unsplash-image-p-qvsf7yodw_571ac05a8d82.jpg)
 
 > **Figure 5: Unsplash Image P Qvsf7yodw**  
-> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2022/6/24/the-big-picture-thermal-coal-outlook) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-07-10_weekly-insights-review_img_unsplash-image-p-qvsf7yodw_571ac05a8d82.jpg)
+> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2022/6/24/the-big-picture-thermal-coal-outlook) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-07-10_weekly-insights-review_img_unsplash-image-p-qvsf7yodw_571ac05a8d82.jpg)
 
 ## War in Ukraine Continues to Divide the World
 
-![Unsplash Image Iwly Plic U](assets/2022-07-10_weekly-insights-review_img_unsplash-image-iwly-plic-u_462bbc96a3d7.jpg)
+![Unsplash Image Iwly Plic U](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-07-10_weekly-insights-review_img_unsplash-image-iwly-plic-u_462bbc96a3d7.jpg)
 
 > **Figure 6: Unsplash Image Iwly Plic U**  
-> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2022/6/24/the-big-picture-thermal-coal-outlook) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-07-10_weekly-insights-review_img_unsplash-image-iwly-plic-u_462bbc96a3d7.jpg)
+> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2022/6/24/the-big-picture-thermal-coal-outlook) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-07-10_weekly-insights-review_img_unsplash-image-iwly-plic-u_462bbc96a3d7.jpg)
 
 ## Βoth India and China Have Been Standing Out From Many Other Nations in Continuing to Work with Russia
 
@@ -96,10 +96,10 @@ India and China have been standing out from many other nations in continuing to 
 
 ## Tanker Tailor Soldier Sailor
 
-![Unsplash Image Iftbhuffece (1)](assets/2022-07-10_weekly-insights-review_img_unsplash-image-iftbhuffece28129_979e4ffbb2aa.jpg)
+![Unsplash Image Iftbhuffece (1)](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-07-10_weekly-insights-review_img_unsplash-image-iftbhuffece28129_979e4ffbb2aa.jpg)
 
 > **Figure 7: Unsplash Image Iftbhuffece (1)**  
-> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2022/7/8/tanker-tailor-soldier-sailor) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-07-10_weekly-insights-review_img_unsplash-image-iftbhuffece28129_979e4ffbb2aa.jpg)
+> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2022/7/8/tanker-tailor-soldier-sailor) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-07-10_weekly-insights-review_img_unsplash-image-iftbhuffece28129_979e4ffbb2aa.jpg)
 
 ## It Is Often Said That Posidonia Gatherings Are “Family”.
 

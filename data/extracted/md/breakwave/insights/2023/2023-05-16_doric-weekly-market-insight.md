@@ -31,19 +31,19 @@ With Chinese international trade data being the focal point of the shipping comm
 
 In reference to the dry bulk commodities, in specific, Chinese customs cleared 90.44 million tonnes of iron ore in April, 5.1 percent more than a year earlier. Iron ore demand picked up as China's average daily hot metal output among the surveyed 247 steel mills reached 2.45 million tonnes in April, up 5.6 percent from the same period the previous year, according to a Reuters calculation based on data from consultancy Mysteel. April volumes, however, were below 100.23 million tonnes imported in March as shrinking steel margins undermined buying interest. Furthermore, data on Thursday showed new Chinese bank loans plunged more sharply than expected during the previous month, among a slew of downbeat indicators spurring
 
-![1 (6)](assets/2023-05-16_doric-weekly-market-insight_img_128629_6fc98f1a0490.png)
+![1 (6)](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-05-16_doric-weekly-market-insight_img_128629_6fc98f1a0490.png)
 
 > **Figure 1: 1 (6)**  
-> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-05-16_doric-weekly-market-insight_img_128629_6fc98f1a0490.png)
+> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-05-16_doric-weekly-market-insight_img_128629_6fc98f1a0490.png)
 
 concerns that the economy’s recovery is losing steam. Many Chinese steel mills have reportedly lowered their prices amidst growing apprehension over steel demand during peak spring construction season. Against this backdrop, the most-traded September iron ore on China's Dalian Commodity Exchange reported losses today, marking a sixth consecutive weekly decline. Iron ore has slumped more than 20 percent since touching this year's maxima of $131 a tonne in mid-March, as the initial joyous feeling over China's lifting of Covid-19 restrictions subsided.
 
 As far as the other two major commodities of the dry bulk spectrum go, China's soybean imports fell in April to 7.26 million tonnes, significantly below market’s expectations. Chinese customs in April began a requirement for traders to wait for results of quarantine checks before taking delivery of their soybeans up to two weeks later, said Dayue Futures analyst Wang Mingwei. Traders or crushers were able previously to take delivery into their own warehouses while awaiting the inspection permit before starting processing. Cargoes are now held at customs warehouses until the permit is granted, increasing importers’ costs and having a negative bearing on the quantity demanded. Another commodity that softened in April was coal, with customs data showing imports easing to 40.68 million tonnes, down from a 15-month high of 41.17 million in March. In spite of an impressive first quarter when coal imports were standing materially above those of last year, the question for the seaborne coal market is whether April's decline marks the start of a weaker import trend. The price differential between domestic and imported thermal coal prices will be a key factor determining seaborne activity going forward. Up to now, Australian coal was cheaper than equivalent local supplies, a balance that has shifted in recent weeks.
 
-![Data Source:doric](assets/2023-05-16_doric-weekly-market-insight_img_128729_fc79e8b9aa22.png)
+![Data Source:doric](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-05-16_doric-weekly-market-insight_img_128729_fc79e8b9aa22.png)
 
 > **Figure 2: Data Source:doric**  
 > *Data source:Doric*  
-> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-05-16_doric-weekly-market-insight_img_128729_fc79e8b9aa22.png)
+> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-05-16_doric-weekly-market-insight_img_128729_fc79e8b9aa22.png)
 
 In a week overwhelmed by macro dynamics and lack of vividness down to the spot arena, the leading Baltic Dry Index trended sideways, in anticipation of what lies ahead.

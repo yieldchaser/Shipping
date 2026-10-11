@@ -28,11 +28,11 @@ When I signed up for my first shipping exam, as part of the[**Institute of Chart
 
 So what does it mean exactly? Derived demand is a demand based on, a good or service’s ability to acquire another good or service. Let’s use the California Gold Rush as an example. After an initial discovery in the late 1840s, news of gold deposits in California brought close to half a million people westwards. These people wanted gold. Yet, I am sure the guy that decided to not take a shot at finding gold, but instead manufacture picks and shovels ended up much richer than the huge majority of prospectors. You see, demand for picks and shovels was a derived demand that allowed the acquisition of gold nuggets. Similarly, shipping is a derived demand that allows for the efficient, safe and in most cases relative to the value of the cargo, cheap transportation of a good in demand. In the first edition of Making Waves in 2022 we will explore the relationship between the price of a cargo, in this case crude oil (or black gold as it is sometimes referred to) and the cost of shipping, or tanker freight rates.
 
-![Gold Fever (Courtesy Ofnational Geographic)](assets/2022-03-05_1aozoe8qjjo8zf5mcznujk9a5sunpo_img_tankers_3eaaf4216f74.png)
+![Gold Fever (Courtesy Ofnational Geographic)](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-03-05_1aozoe8qjjo8zf5mcznujk9a5sunpo_img_tankers_3eaaf4216f74.png)
 
 > **Figure 1: Gold Fever (Courtesy Ofnational Geographic)**  
 > *Gold Fever (Courtesy ofNational Geographic)*  
-> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/company/national-geographic-society/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-03-05_1aozoe8qjjo8zf5mcznujk9a5sunpo_img_tankers_3eaaf4216f74.png)
+> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/company/national-geographic-society/) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-03-05_1aozoe8qjjo8zf5mcznujk9a5sunpo_img_tankers_3eaaf4216f74.png)
 
 ### So If One Goes Up, So Does the Other?
 
@@ -48,11 +48,11 @@ Oil prices in general, are a function of supply and demand. In the case of crude
 
 Thus, the price of crude oil is dependent on the balance between supply and demand at any given time. On top of that, countries will have their own oil inventories, known as strategic reserves, whilst companies may have also built up stocks in case of significant disruption to their supply. The price of aforementioned refined products will also have an impact on the demand for crude oil and in turn lead most likely to a market impact on decisions or trades around the supply of oil.
 
-![This Year Prices Have Been at Their Highest in the Last 5 Years](assets/2022-03-05_1aozoe8qjjo8zf5mcznujk9a5sunpo_img_tankers_f4ee65b525c2.png)
+![This Year Prices Have Been at Their Highest in the Last 5 Years](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-03-05_1aozoe8qjjo8zf5mcznujk9a5sunpo_img_tankers_f4ee65b525c2.png)
 
 > **Figure 2: This Year Prices Have Been at Their Highest in the Last 5 Years**  
 > *This year prices have been at their highest in the last 5 years and more due to supply tightness in the market (if you’re interested in learning more about US crude oil prices and freight specifically join me for the followingwebinar)*  
-> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/posts/vortexa_vortexa-argus-virtualevent-activity-6891719717254414339-6zl9) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-03-05_1aozoe8qjjo8zf5mcznujk9a5sunpo_img_tankers_f4ee65b525c2.png)
+> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/posts/vortexa_vortexa-argus-virtualevent-activity-6891719717254414339-6zl9) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-03-05_1aozoe8qjjo8zf5mcznujk9a5sunpo_img_tankers_f4ee65b525c2.png)
 
 ### 2. What Moves Tanker Rates?
 

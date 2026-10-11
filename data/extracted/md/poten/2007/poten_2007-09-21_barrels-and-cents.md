@@ -66,6 +66,8 @@ Barring outside forces - such as production quotas - markets usually find some s
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: Barrels and Cents](../../../charts/poten/2007/poten_2007-09-21_barrels-and-cents_chart1.png)
-
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2007/poten_2007-09-21_barrels-and-cents_chart1.png)
+> **Chart on PDF page 2: Cheap Crude Oil?**  
+> Unit: Dollar Equivalent in Local Currency, $/bbl · X-axis: Sep-06 to Sep-07  
+> Series: Spot Brent Bought in US$, Spot Brent Bought by Euros, Spot Brent Bought by Chinese Yuan, Spot Brent Bought by Indian Rupee  
+> *Source: EIA/Poten ending Sept 18, 2007*  
+> *No image crop of this chart was saved; caption read from the PDF.*

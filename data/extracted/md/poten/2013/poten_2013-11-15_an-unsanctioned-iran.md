@@ -50,6 +50,16 @@ As for now, the full return Iranian crude oil to the international markets lies 
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: An Unsanctioned Iran?](../../../charts/poten/2013/poten_2013-11-15_an-unsanctioned-iran_chart1.png)
+![Exhibit 1: Estimated unplanned crude oil production disruptions among OPEC producers](../../../charts/poten/2013/poten_2013-11-15_an-unsanctioned-iran_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2013/poten_2013-11-15_an-unsanctioned-iran_chart1.png)
+> **Exhibit 1: Estimated unplanned crude oil production disruptions among OPEC producers**  
+> Unit: thousand barrels per day · X-axis: Jan-11 to Aug-13  
+> Series: Iraq, Nigeria, Libya, Iran  
+> *Source: EIA*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2013/poten_2013-11-15_an-unsanctioned-iran_chart1.png)
+
+> **Chart on PDF page 1: Iranian Crude Production**  
+> Unit: (000) Bbls/day · X-axis: Jan-09 to Sep-13  
+> Series: Iranian Crude Production  
+> *Source: EIA, IEA*  
+> *No image crop of this chart was saved; caption read from the PDF.*

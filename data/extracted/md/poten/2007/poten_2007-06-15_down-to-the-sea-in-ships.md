@@ -32,6 +32,14 @@ In addition to maintaining high standards of vessel quality, owners must somehow
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: Down to the Sea in Ships](../../../charts/poten/2007/poten_2007-06-15_down-to-the-sea-in-ships_chart1.png)
+> **Chart on PDF page 1: Seafarer Supply/Demand Balances**  
+> Unit: Surplus or Deficit in Thousands · X-axis: 2005 to 2015  
+> Series: Officers, Ratings  
+> *Source: BIMCO/ISF estimates*  
+> *No image crop of this chart was saved; caption read from the PDF.*
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2007/poten_2007-06-15_down-to-the-sea-in-ships_chart1.png)
+> **Chart on PDF page 2: Tanker Orderbook**  
+> Unit: Million DWT · X-axis: 2007 to 2011  
+> Series: VLCC, Suezmax, Aframax, Panamax, Handymax  
+> *Source: Poten & Partners*  
+> *No image crop of this chart was saved; caption read from the PDF.*

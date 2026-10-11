@@ -68,6 +68,32 @@ Regardless of the reason, a buildup in inventory translates to more cargoes for 
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: Getting Back to (Inventory) Basics?](../../../charts/poten/2005/poten_2005-07-29_getting-back-to-inventory-basics_chart1.png)
+> **Chart on PDF page 1: Crude Inventory & Days of Consumption in Inventory**  
+> Unit: Mm Bbls · X-axis: Jan-90 to Jan-04  
+> Series: Crude Inventory  
+> *Source: EIA/Poten*  
+> *No image crop of this chart was saved; caption read from the PDF.*
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2005/poten_2005-07-29_getting-back-to-inventory-basics_chart1.png)
+> **Chart on PDF page 1: Days in Inventory**  
+> Unit: Days in Inventory · X-axis: Jan-90 to Jan-04  
+> Series: Days in Inventory  
+> *Source: EIA/Poten*  
+> *No image crop of this chart was saved; caption read from the PDF.*
+
+> **Chart on PDF page 2: Gasoline Inventory & Days of Consumption in Inventory**  
+> Unit: Mm Bbls | Days in Inventory · X-axis: Jan-90 to Jan-04  
+> Series: Gasoline Inventory, Days in Inventory  
+> *Source: EIA/Poten*  
+> *No image crop of this chart was saved; caption read from the PDF.*
+
+> **Chart on PDF page 3: Gasoil Inventory & Days of Consumption in Inventory**  
+> Unit: Mm Bbls | Days in Inventory · X-axis: Jan-90 to Jan-04  
+> Series: Gasoil Inventory, Days in Inventory  
+> *Source: EIA/Poten*  
+> *No image crop of this chart was saved; caption read from the PDF.*
+
+> **Chart on PDF page 4: Jet Fuel Inventory & Days of Consumption in Inventory**  
+> Unit: Mm Bbls | Days in Inventory · X-axis: Jan-90 to Jan-04  
+> Series: Inventory, Days in Inventory  
+> *Source: EIA/Poten*  
+> *No image crop of this chart was saved; caption read from the PDF.*

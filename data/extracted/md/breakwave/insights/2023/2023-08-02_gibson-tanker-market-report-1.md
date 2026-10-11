@@ -25,11 +25,11 @@ In Europe, besides contending with an intense heatwave, lower rainfall has impac
 
 Low rainfall since mid May has put pressure on this network and low water levels at the Kaub choke point have resulted in draft restrictions and reduced the cargo quantity barges can carry. Although this is not unusual for the time of year and fresh rain is forecast, it has a knock on effect for regional product stocks and thus refining margins. With this in mind and the potential for greater variation in average seasonal rainfall patterns due to climate change, such disruption is likely to become more common.
 
-![Data Source:gibson Shipbrokers](assets/2023-08-02_gibson-tanker-market-report-1_img_screenshot2023-07-31123651_0c08edb19eb3.png)
+![Data Source:gibson Shipbrokers](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-08-02_gibson-tanker-market-report-1_img_screenshot2023-07-31123651_0c08edb19eb3.png)
 
 > **Figure 1: Data Source:gibson Shipbrokers**  
 > *Data source:Gibson Shipbrokers*  
-> **Interactive Data & Source:** [Gibsons Co](https://www.gibsons.co.uk/market-reports) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-08-02_gibson-tanker-market-report-1_img_screenshot2023-07-31123651_0c08edb19eb3.png)
+> **Interactive Data & Source:** [Gibsons Co](https://www.gibsons.co.uk/market-reports) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-08-02_gibson-tanker-market-report-1_img_screenshot2023-07-31123651_0c08edb19eb3.png)
 
 As of writing, the current water level at Kaub stands at 155cm following fresh rainfall but had stood at 92cm at the start of the week. Barges have been restricted to carry around 1,500mt of cargo versus a standard size of 2,500mt, which corresponds to a 40% reduction in barge carrying capacity. This in turn had led to congestion and waiting along the river and to load product in ARA.
 

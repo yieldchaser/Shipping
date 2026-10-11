@@ -54,6 +54,13 @@ Spare Capacity Algeria 1,375 894 1,375 0 Indonesia 925 1,450 925 0 Iran 3,650 4,
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: OPEC Production: Staying the Course](../../../charts/poten/2006/poten_2006-03-10_opec-production-staying-the-course_chart1.png)
+> **Chart on PDF page 1: OPEC Production**  
+> Unit: 000 Bpd · X-axis: 2000 to 2005  
+> Series: Venezuela, UAE, Saudi Arabia, Qatar, Nigeria, Libya, Kuwait, Iraq, Iran, Indonesia, Algeria  
+> *Source: EIA/Poten*  
+> *No image crop of this chart was saved; caption read from the PDF.*
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2006/poten_2006-03-10_opec-production-staying-the-course_chart1.png)
+> **Chart on PDF page 2: OPEC Production Through February 2006**  
+> Unit: WS | k BPD · X-axis: Jan-1997 to May-2005  
+> Series: AG - Far East, OPEC Production  
+> *No image crop of this chart was saved; caption read from the PDF.*

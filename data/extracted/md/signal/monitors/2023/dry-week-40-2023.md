@@ -31,7 +31,7 @@ tags:
 ![Brazilian Grain Exports Broke Records This Year, Outpacing Weak US Exports](../../images/651c6472b6c806fb75290f30_DRY BULK FLOWS.png)
 
 > **Figure 1: Brazilian Grain Exports Broke Records This Year, Outpacing Weak US Exports**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/dry-week-40-2023) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/651c6472b6c806fb75290f30_DRY BULK FLOWS.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/dry-week-40-2023) | [Local Asset](../../../../../../corpus/07-signal/images/651c6472b6c806fb75290f30_DRY%20BULK%20FLOWS.png)
 
 As we enter the fourth quarter of this year, the market is showing a strong resurgence with rates increasing year-over-year. Notably, Capesize Brazil to North China rates have exceeded $20 per tonne. This significant upswing in the freight market's momentum is evident not only in the large vessel size segment but also in the Supramax and Handysize categories.
 

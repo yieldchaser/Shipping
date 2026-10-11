@@ -79,10 +79,10 @@ We examined the correlation of spot freight rates in the spot and futures market
 
 **The synthetic one month forward curve: Spot Capesize Freight Market - FFA and Evolution of Vessels Supply Brazil - China. Data Source:**SSY
 
-![Ch1](assets/2022-04-10_forward-freight-agreement-ffa-and-freight-risk-management-a-powerful-mix_img_ch1_1fae08790fcf.png)
+![Ch1](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-04-10_forward-freight-agreement-ffa-and-freight-risk-management-a-powerful-mix_img_ch1_1fae08790fcf.png)
 
 > **Figure 1: Ch1**  
-> **Interactive Data & Source:** [Ssyonline](https://www.ssyonline.com/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-04-10_forward-freight-agreement-ffa-and-freight-risk-management-a-powerful-mix_img_ch1_1fae08790fcf.png)
+> **Interactive Data & Source:** [Ssyonline](https://www.ssyonline.com/) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-04-10_forward-freight-agreement-ffa-and-freight-risk-management-a-powerful-mix_img_ch1_1fae08790fcf.png)
 
 Graph 1: The Signal Ocean Platform | Capesize Supply Trend - Market Rates $/t and FFA for Brazil - China, data provided by[**SSY**](https://www.ssyonline.com/)
 
@@ -96,10 +96,10 @@ Capesize/ Routes- Tubarao/Beilun and Baoshan | W Australia/ Beilun and Baoshan |
 
 Panamax/ Routes- Skaw-Gib/Far East | Japan-SK-NOPAC round voyage)
 
-![Ch2](assets/2022-04-10_forward-freight-agreement-ffa-and-freight-risk-management-a-powerful-mix_img_ch2_4a98e629e55a.png)
+![Ch2](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-04-10_forward-freight-agreement-ffa-and-freight-risk-management-a-powerful-mix_img_ch2_4a98e629e55a.png)
 
 > **Figure 2: Ch2**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-04-10_forward-freight-agreement-ffa-and-freight-risk-management-a-powerful-mix_img_ch2_4a98e629e55a.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-04-10_forward-freight-agreement-ffa-and-freight-risk-management-a-powerful-mix_img_ch2_4a98e629e55a.png)
 
 Image 1: The Signal Ocean Platform FFA Report, for Capesize C3 route,**Spot Market**
 
@@ -115,10 +115,10 @@ Supramax 58 10tc - The freight future settlement prices based on the Supramax (5
 
 Handysize 38 7tc - The freight future settlement prices based on the Handysize (38,000dwt) time charter index by the Baltic Exchange (weighted average of spot rates on 7 benchmark routes)
 
-![Ch3](assets/2022-04-10_forward-freight-agreement-ffa-and-freight-risk-management-a-powerful-mix_img_ch3_55e369d5e6c2.png)
+![Ch3](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-04-10_forward-freight-agreement-ffa-and-freight-risk-management-a-powerful-mix_img_ch3_55e369d5e6c2.png)
 
 > **Figure 3: Ch3**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-04-10_forward-freight-agreement-ffa-and-freight-risk-management-a-powerful-mix_img_ch3_55e369d5e6c2.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-04-10_forward-freight-agreement-ffa-and-freight-risk-management-a-powerful-mix_img_ch3_55e369d5e6c2.png)
 
 Image 2: The Signal Ocean Platform FFA Report, for Capesize 5tc,**Time charter**
 

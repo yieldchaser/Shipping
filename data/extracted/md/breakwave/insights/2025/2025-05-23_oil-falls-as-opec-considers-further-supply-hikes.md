@@ -24,10 +24,10 @@ A risk-off tone weighed on sentiment across the commodity complex. Fear of risin
 
 *By*[*Daniel Hynes*](https://www.linkedin.com/in/dahynes/)
 
-![Στιγμιότυπο Οθόνης 2025 05 23 114355](assets/2025-05-23_oil-falls-as-opec-considers-further-supply-hikes_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_23ad6a74b3bc.png)
+![Στιγμιότυπο Οθόνης 2025 05 23 114355](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-05-23_oil-falls-as-opec-considers-further-supply-hikes_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_23ad6a74b3bc.png)
 
 > **Figure 1: Στιγμιότυπο Οθόνης 2025 05 23 114355**  
-> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-05-23_oil-falls-as-opec-considers-further-supply-hikes_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_23ad6a74b3bc.png)
+> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-05-23_oil-falls-as-opec-considers-further-supply-hikes_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_23ad6a74b3bc.png)
 
 ### Market Commentary
 
@@ -43,10 +43,10 @@ A stronger USD created headwinds for the**gold**market. The precious metal recor
 
 Inventories of aluminium held on global exchanges have been falling steadily over the past 12 months. Despite concerns about the economic backdrop, limited supply growth is keeping the market tight.
 
-![Στιγμιότυπο Οθόνης 2025 05 23 115350](assets/2025-05-23_oil-falls-as-opec-considers-further-supply-hikes_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_5a30dc9e20c7.png)
+![Στιγμιότυπο Οθόνης 2025 05 23 115350](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-05-23_oil-falls-as-opec-considers-further-supply-hikes_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_5a30dc9e20c7.png)
 
 > **Figure 2: Στιγμιότυπο Οθόνης 2025 05 23 115350**  
-> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-05-23_oil-falls-as-opec-considers-further-supply-hikes_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_5a30dc9e20c7.png)
+> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-05-23_oil-falls-as-opec-considers-further-supply-hikes_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_5a30dc9e20c7.png)
 
 Data source:[Commodities Wrap](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI)
 

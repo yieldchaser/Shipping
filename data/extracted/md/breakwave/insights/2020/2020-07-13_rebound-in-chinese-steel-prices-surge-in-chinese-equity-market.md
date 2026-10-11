@@ -20,10 +20,10 @@ source_file: "corpus/03-breakwave/insights/2020/2020-07-13_rebound-in-chinese-st
 
 ---
 
-![Market Chart 1](assets/2020-07-13_rebound-in-chinese-steel-prices-surge-in-chinese-equity-market_img_image-asset_81d6efcef399.jpeg)
+![Market Chart 1](../../../../../../corpus/03-breakwave/insights/2020/assets/2020-07-13_rebound-in-chinese-steel-prices-surge-in-chinese-equity-market_img_image-asset_81d6efcef399.jpeg)
 
 > **Figure 1: Market Chart 1**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2020/assets/2020-07-13_rebound-in-chinese-steel-prices-surge-in-chinese-equity-market_img_image-asset_81d6efcef399.jpeg)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2020/assets/2020-07-13_rebound-in-chinese-steel-prices-surge-in-chinese-equity-market_img_image-asset_81d6efcef399.jpeg)
 
 The latest data from the China Iron and Steel Association (CISA) shows that daily crude steel output at large and medium-sized mills averaged a record 2.14 million tons during June 21 - June 30. This is very robust volume that is up year-on-year by 5%, but it is unchanged from the previous ten days. Previously, steel output had been on a consistent climb since early April. Also of note is that while steel prices in China finally fell two weeks ago (which marked the first decline in prices since late April), prices rebounded last week. For example, the average price of hot rolled coil ended last week at 3,975 yuan/ton ($568), which is 75 yuan (2%) more than a week ago. It is likely that steel output in June was beginning to exceed demand, but the recent plateau in steel output has been supportive to steel prices this month.
 

@@ -32,7 +32,7 @@ tags:
 ![64f9d67ab2f8e6cb01801a9b Russia India](../../images/64f9d67ab2f8e6cb01801a9b_russia india.png)
 
 > **Figure 1: 64f9d67ab2f8e6cb01801a9b Russia India**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/tanker-week-36-2023) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/64f9d67ab2f8e6cb01801a9b_russia india.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/tanker-week-36-2023) | [Local Asset](../../../../../../corpus/07-signal/images/64f9d67ab2f8e6cb01801a9b_russia%20india.png)
 
 The first week of September brings a downward movement in crude oil freight rates and a continued downward trend in VLCC tonne days demand growth. MEG -Rates for China have now fallen to their lowest levels since the beginning of this year, but there is still guarded optimism for a rebound in the third quarter of the year.
 

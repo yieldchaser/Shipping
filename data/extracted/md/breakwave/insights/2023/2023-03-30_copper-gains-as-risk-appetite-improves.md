@@ -23,10 +23,10 @@ source_file: "corpus/03-breakwave/insights/2023/2023-03-30_copper-gains-as-risk-
 
 A further recovery in risk appetite lifted commodities, but gains were limited amid concerns of weaker demand.
 
-![1680130605218](assets/2023-03-30_copper-gains-as-risk-appetite-improves_img_1680130605218_fc8781aa30f6.png)
+![1680130605218](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-03-30_copper-gains-as-risk-appetite-improves_img_1680130605218_fc8781aa30f6.png)
 
 > **Figure 1: 1680130605218**  
-> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-03-30_copper-gains-as-risk-appetite-improves_img_1680130605218_fc8781aa30f6.png)
+> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-03-30_copper-gains-as-risk-appetite-improves_img_1680130605218_fc8781aa30f6.png)
 
 **Copper**inched higher amid a broader recovery in risk appetite. As fear for the banking sector fades, investors have begun dipping their toes back into commodities. However, the gains have been limited amid the uncertain economic backdrop. Inflation remains high, with central banks likely to keep tightening monetary policy. The speed of China’s economic recovery has also been disappointing. Nevertheless, there are growing expectations that the copper market will tighten as the headwinds ease. This could be exacerbated by the low level of inventories.
 

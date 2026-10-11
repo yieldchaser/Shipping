@@ -25,7 +25,7 @@ source_file: "corpus/03-breakwave/insights/2021/2021-02-25_commodity-boom-superc
 ![Market Chart 1](assets/2021-02-25_commodity-boom-supercycle-me_img_image-asset_5bad4ba19148.jpeg)
 
 > **Figure 1: Market Chart 1**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2021/assets/2021-02-25_commodity-boom-supercycle-me_img_image-asset_5bad4ba19148.jpeg)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-02-25_commodity-boom-supercycle-me_img_image-asset_5bad4ba19148.jpeg)
 
 The world changed dramatically in January 2020 with the realization of the seriousness of the coronavirus outbreak and its impact on lives worldwide. On January 23, China locked down Wuhan, a city of 11 million, to contain the spread of the highly contagious and deadly "novel coronavirus," as it was then called (it was not until March that the World Health Organization declared a global pandemic). Beijing's timely and robust steps to contain the outbreak, coupled with massive government financial support, allowed the Chinese economy to lead the global recovery from the damage caused by the pandemic.
 
@@ -44,7 +44,7 @@ Today, each commodity has its own story, but supply constraints versus rising de
 ![Maria 1](assets/2021-02-25_commodity-boom-supercycle-me_img_maria1_07fd407a3529.png)
 
 > **Figure 2: Maria 1**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2021/assets/2021-02-25_commodity-boom-supercycle-me_img_maria1_07fd407a3529.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-02-25_commodity-boom-supercycle-me_img_maria1_07fd407a3529.png)
 
 Iron ore climbed a mountain last November and remains close to its 2020 peak. Concerns about supply grew last month after Brazil’s Vale – one of the world’s largest producers of ore and pellets – lowered its production forecasts. China, meanwhile, is importing iron ore at record rates of around 100 million tons per month, as it pursues an infrastructure-led recovery requiring vast quantities of steel.
 
@@ -61,7 +61,7 @@ The upcoming decades are in front of new trends in major dry bulk commodities th
 ![Market Chart 3](assets/2021-02-25_commodity-boom-supercycle-me_img_image-asset_7f9934305566.jpeg)
 
 > **Figure 3: Market Chart 3**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2021/assets/2021-02-25_commodity-boom-supercycle-me_img_image-asset_7f9934305566.jpeg)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-02-25_commodity-boom-supercycle-me_img_image-asset_7f9934305566.jpeg)
 
 China wants to be carbon neutral by 2060 and some provincial-level authorities have taken steps towards the government’s goals, while others’ actions have been slow or vague. For China, the new goal reflects several ambitions. Following through will put it in a leadership position among major countries. China’s decarbonization initiatives provide major opportunities to accelerate technology innovation and industrial upgrading, further strengthening its economy.
 
@@ -80,7 +80,7 @@ Under the new goals of carbon neutrality, China’s top diplomat says Beijing se
 ![China Factory](assets/2021-02-25_commodity-boom-supercycle-me_img_chinafactory_f6e9320cf5fc.jpeg)
 
 > **Figure 4: China Factory**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2021/assets/2021-02-25_commodity-boom-supercycle-me_img_chinafactory_f6e9320cf5fc.jpeg)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-02-25_commodity-boom-supercycle-me_img_chinafactory_f6e9320cf5fc.jpeg)
 
 Overall, Chinese strong economic indications amid COVID-19 crisis will be the pillar of demand recovery for the dry bulk freight markets. The Chinese economy continues its fast recovery from the pandemic, helped by a strong containment effort and swift policy actions to mitigate the impact of the crisis. After a record contraction in the first three months last year due to unprecedented lockdowns and factory closures, the world's number-two economy has since bounced back. The International Monetary Fund projects growth forecast for China to 7.9 percent. As a stronger sign, twenty-nine of 31 provinces, autonomous regions and municipalities on the Chinese mainland have set their GDP growth rate higher than 6 percent in 2021, according to the released work reports from the local governments.
 

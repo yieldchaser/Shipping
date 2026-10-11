@@ -34,10 +34,10 @@ With the situation in Iran still a developing story, testing investor conviction
 
 Essentially, the question for financial markets can be pinned to this one chart, the massive outperformance of semiconductors. Will it continue, or will it revert to normal?
 
-![Market Chart 1](assets/2026-07-10_technology-a-speedbump-or-a-paradigm-shift_img_image001_56e4d843b3ad.png)
+![Market Chart 1](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-07-10_technology-a-speedbump-or-a-paradigm-shift_img_image001_56e4d843b3ad.png)
 
 > **Figure 1: Market Chart 1**  
-> **Interactive Data & Source:** [Dot](http://dot.com/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-07-10_technology-a-speedbump-or-a-paradigm-shift_img_image001_56e4d843b3ad.png)
+> **Interactive Data & Source:** [Dot](http://dot.com/) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-07-10_technology-a-speedbump-or-a-paradigm-shift_img_image001_56e4d843b3ad.png)
 
 There are a few memorable events in recent market history, times when the market speaks to us. In October 1987, global financial markets told us not to tamper with currencies. Financial history registered Black Monday as the worst one-day drop, still, in history. In October 2001, the financial system spoke to us again, and told us it needed better supervision. Three years of economic malaise followed the fall of Enron. In September 2008, Wall Street went silent altogether, as Lehman was barring its doors, initiating the worst crisis in almost a century.
 
@@ -47,10 +47,10 @@ But for investors, most of whom grew up with the cultural references crafted Isa
 
 As a result, since 2022, anything and everything that had to do with AI simply went up. Nvidia went from a procurer of gaming graphics cards to the world most important high-end chipmaker, gaining 1250% since the end of 2022. Taiwan Semiconductors (TSMC) grew 246% in value at the same time. ASML, a company that makes semiconductor equipment, became the most valuable European company, increasing its market cap by 200%. The so-called Magnificent 7 (Nvidia, Apple, Google, Microsoft, Amazon, Meta, Tesla) now constitute 33% of total US large cap market cap.
 
-![Market Chart 2](assets/2026-07-10_technology-a-speedbump-or-a-paradigm-shift_img_image002_2def893e0013.png)
+![Market Chart 2](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-07-10_technology-a-speedbump-or-a-paradigm-shift_img_image002_2def893e0013.png)
 
 > **Figure 2: Market Chart 2**  
-> **Interactive Data & Source:** [Dot](http://dot.com/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-07-10_technology-a-speedbump-or-a-paradigm-shift_img_image002_2def893e0013.png)
+> **Interactive Data & Source:** [Dot](http://dot.com/) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-07-10_technology-a-speedbump-or-a-paradigm-shift_img_image002_2def893e0013.png)
 
 In the last few weeks, however, large US tech stocks have lagged their large-cap counterparts. Even as indices hit new highs, the Magnificent Seven have underperformed.
 
@@ -60,31 +60,31 @@ This time is not like the Wild West of the[dot.com](http://dot.com/)bubble. Behi
 
 Second, valuations of some of the key companies after this extraordinary Magnificent Seven rally have come down to much more palatable levels. They deflated, but didn’t burst.
 
-![Market Chart 3](assets/2026-07-10_technology-a-speedbump-or-a-paradigm-shift_img_image003_52d2a4ea40c3.png)
+![Market Chart 3](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-07-10_technology-a-speedbump-or-a-paradigm-shift_img_image003_52d2a4ea40c3.png)
 
 > **Figure 3: Market Chart 3**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-07-10_technology-a-speedbump-or-a-paradigm-shift_img_image003_52d2a4ea40c3.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-07-10_technology-a-speedbump-or-a-paradigm-shift_img_image003_52d2a4ea40c3.png)
 
 This is only natural. The investment case has changed. Two years ago, an investor bought US large tech names for the cash flow generation and the share buybacks. The AI revolution came with the need for massive capital expenditure. This is reducing cash for shareholders, while increasing uncertainty as that capital is now tied up to data centres and other infrastructure projects.
 
-![Market Chart 4](assets/2026-07-10_technology-a-speedbump-or-a-paradigm-shift_img_image004_f57d85de1f55.png)
+![Market Chart 4](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-07-10_technology-a-speedbump-or-a-paradigm-shift_img_image004_f57d85de1f55.png)
 
 > **Figure 4: Market Chart 4**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-07-10_technology-a-speedbump-or-a-paradigm-shift_img_image004_f57d85de1f55.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-07-10_technology-a-speedbump-or-a-paradigm-shift_img_image004_f57d85de1f55.png)
 
 Investors also bought balance sheets clean of debt. But now, the same companies are not only cutting buybacks, but turning to debt markets to raise even more money.
 
-![Market Chart 5](assets/2026-07-10_technology-a-speedbump-or-a-paradigm-shift_img_image005_77670af7f36d.png)
+![Market Chart 5](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-07-10_technology-a-speedbump-or-a-paradigm-shift_img_image005_77670af7f36d.png)
 
 > **Figure 5: Market Chart 5**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-07-10_technology-a-speedbump-or-a-paradigm-shift_img_image005_77670af7f36d.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-07-10_technology-a-speedbump-or-a-paradigm-shift_img_image005_77670af7f36d.png)
 
 In essence, it is asking investors, a lot of whom have been retail, “bandwagon” allocators, to trust the long-term case over the short term hype. Most agreed to be patient. Some shifted capital to companies that better represented the recent sentiment-driven market, like Space X. Others are saving up more capital to participate in the coming IPOs of Antrhopic and OpenAI.
 
-![Market Chart 6](assets/2026-07-10_technology-a-speedbump-or-a-paradigm-shift_img_image006_539619b1fbb2.png)
+![Market Chart 6](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-07-10_technology-a-speedbump-or-a-paradigm-shift_img_image006_539619b1fbb2.png)
 
 > **Figure 6: Market Chart 6**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-07-10_technology-a-speedbump-or-a-paradigm-shift_img_image006_539619b1fbb2.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-07-10_technology-a-speedbump-or-a-paradigm-shift_img_image006_539619b1fbb2.png)
 
 This is all very consistent with a narrative shifting in nature, becoming more mainstream and not with a “bubble bursting”.
 
@@ -92,10 +92,10 @@ Are there worrying signs?
 
 Yes. Many investors are worried about the fall in average token prices, which may suggest the commoditisation of AI and potential shifts to cheaper models if the US giants try to hike prices.
 
-![Market Chart 7](assets/2026-07-10_technology-a-speedbump-or-a-paradigm-shift_img_image007_0016f3e4aa31.png)
+![Market Chart 7](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-07-10_technology-a-speedbump-or-a-paradigm-shift_img_image007_0016f3e4aa31.png)
 
 > **Figure 7: Market Chart 7**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-07-10_technology-a-speedbump-or-a-paradigm-shift_img_image007_0016f3e4aa31.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-07-10_technology-a-speedbump-or-a-paradigm-shift_img_image007_0016f3e4aa31.png)
 
 And then there is the "circular economy” in the AI ecosystem. In September 2025, Nvidia committed up to $100bn to OpenAI, tied to the deployment of ten gigawatts of its systems, with much of that cash flowing back into Nvidia GPUs (it has since reduced that investment to about a third). In November, it agreed to invest up to $10bn in Anthropic, alongside Microsoft's $5bn, as Anthropic committed $30bn to Azure and up to one gigawatt of Grace Blackwell and Vera Rubin capacity. That round lifted Anthropic's valuation to roughly $350bn, from $183bn in September. The supplier is funding its two largest customers, and their purchases underwrite its own revenue line. As a result, Anthropic’s valuation has risen by roughly one trillion, from $183bn in September to $1.2tn ahead of its upcoming IPO.
 

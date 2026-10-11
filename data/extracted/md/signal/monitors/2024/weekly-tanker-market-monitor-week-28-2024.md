@@ -32,7 +32,7 @@ tags:
 ![668ff24cea39bfb7fc672bc1 Chart of the Week Tanker (1)](../../images/668ff24cea39bfb7fc672bc1_chart of the week tanker (1).avif)
 
 > **Figure 1: 668ff24cea39bfb7fc672bc1 Chart of the Week Tanker (1)**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-tanker-market-monitor-week-28-2024) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/668ff24cea39bfb7fc672bc1_chart of the week tanker (1).avif)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-tanker-market-monitor-week-28-2024) | [Local Asset](../../../../../../corpus/07-signal/images/668ff24cea39bfb7fc672bc1_chart%20of%20the%20week%20tanker%20(1).avif)
 
 The second week of July has seen a continued weakening in crude oil freight rates. However, there are indications of a potential positive turn in the coming days, as the elevated number of vessels in Ras Tanura for the VLCC MEG-China route has begun to gradually decline. The evolving supply dynamics in the near future will be critical to monitor, especially as demand indicators and the growth of tonne days paint a challenging summer outlook for the freight market.
 

@@ -76,6 +76,14 @@ AG - FE (260kt) WAF - USA (130kt) On average since January 2000, VLCCs have earn
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: Bargain Hunting](../../../charts/poten/2008/poten_2008-08-01_bargain-hunting_chart1.png)
+> **Chart on PDF page 1: Price Differential**  
+> Unit: Price $M · X-axis: 2003 to 2008  
+> Series: VLCC to Suezmax, Suezmax to Aframax, VLCC to Aframax  
+> *Source: Poten & Partners*  
+> *No image crop of this chart was saved; caption read from the PDF.*
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2008/poten_2008-08-01_bargain-hunting_chart1.png)
+> **Chart on PDF page 2: VLCC & Suezmax Earnings**  
+> Unit: TCE ($/day) · X-axis: Jan-03 to Jan-08  
+> Series: AG - FE (260kt), WAF - USA (130kt)  
+> *Source: Poten & Partners*  
+> *No image crop of this chart was saved; caption read from the PDF.*

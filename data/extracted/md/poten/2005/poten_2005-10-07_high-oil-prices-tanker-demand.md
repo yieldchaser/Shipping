@@ -50,6 +50,14 @@ Investments are pouring into energy projects that will increase oil supply and d
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: High Oil Prices & Tanker Demand](../../../charts/poten/2005/poten_2005-10-07_high-oil-prices-tanker-demand_chart1.png)
+> **Chart on PDF page 1: U.S. Gasoline Inventory and Supply**  
+> Unit: 000 Bpd | MM Bbls · X-axis: 6/3 to 9/23  
+> Series: Inventory, Imports, Refinery Output  
+> *Source: EIA/Poten*  
+> *No image crop of this chart was saved; caption read from the PDF.*
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2005/poten_2005-10-07_high-oil-prices-tanker-demand_chart1.png)
+> **Chart on PDF page 2: U.S. Gasoline Consumption and Price**  
+> Unit: 000 Bpd | $/Gallon · X-axis: 6/3 to 9/23  
+> Series: Price, Consumption  
+> *Source: EIA/Poten*  
+> *No image crop of this chart was saved; caption read from the PDF.*

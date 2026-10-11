@@ -44,6 +44,7 @@ Whatever the outcome of these three players' game of posturing and jockeying, pa
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: High Stakes Energy Poker](../../../charts/poten/2007/poten_2007-07-06_high-stakes-energy-poker_chart1.png)
-
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2007/poten_2007-07-06_high-stakes-energy-poker_chart1.png)
+> **Chart on PDF page 1: Mandated and Proposed US Ethanol Production**  
+> Unit: million bbl/day · X-axis: 2008 to 2022  
+> Series: Proposed Cellulosic-based, Proposed Corn-based, Mandated Corn-based  
+> *No image crop of this chart was saved; caption read from the PDF.*

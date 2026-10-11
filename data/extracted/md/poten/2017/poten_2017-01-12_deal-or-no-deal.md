@@ -34,10 +34,18 @@ The main uncertainty facing Iranian oil production and exports at this point see
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: Deal ... Or No Deal](../../../charts/poten/2017/poten_2017-01-12_deal-or-no-deal_chart1.png)
+![Exhibit 1: Iran Exports by Destination](../../../charts/poten/2017/poten_2017-01-12_deal-or-no-deal_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2017/poten_2017-01-12_deal-or-no-deal_chart1.png)
+> **Exhibit 1: Iran Exports by Destination**  
+> Unit: Mb/d · X-axis: Jan-15 to Nov-16  
+> Series: China, S Asia, Japan & Korea, Med, NW Europe, Other  
+> *Source: Lloyd's Intelligence / APEX*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2017/poten_2017-01-12_deal-or-no-deal_chart1.png)
 
-![Exhibit 2: Deal ... Or No Deal](../../../charts/poten/2017/poten_2017-01-12_deal-or-no-deal_chart2.png)
+![Exhibit 2: Iran Floating Storage](../../../charts/poten/2017/poten_2017-01-12_deal-or-no-deal_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2017/poten_2017-01-12_deal-or-no-deal_chart2.png)
+> **Exhibit 2: Iran Floating Storage**  
+> Unit: M Bbl · X-axis: Apr-14 to Dec-16  
+> Series: Iran Floating Storage  
+> *Source: Windward/Bloomberg*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2017/poten_2017-01-12_deal-or-no-deal_chart2.png)

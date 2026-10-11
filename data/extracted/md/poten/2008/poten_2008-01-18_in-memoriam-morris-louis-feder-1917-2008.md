@@ -86,6 +86,3 @@ Rabbi Richard Jacobs Riverside Memorial Chapel January 13, 2008 New York City
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: In Memoriam: Morris Louis Feder (1917 - 2008)](../../../charts/poten/2008/poten_2008-01-18_in-memoriam-morris-louis-feder-1917-2008_chart1.png)
-
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2008/poten_2008-01-18_in-memoriam-morris-louis-feder-1917-2008_chart1.png)

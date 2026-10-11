@@ -29,14 +29,14 @@ Any notions that the Chinese New Year would send iron prices lower have so far b
 ![Ulf 400](assets/2021-02-11_iron-ore-demand-to-remain-firm-on-recovery-in-non-chinese-markets_img_ulf400_82a9e23a4294.jpg)
 
 > **Figure 1: Ulf 400**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2021/assets/2021-02-11_iron-ore-demand-to-remain-firm-on-recovery-in-non-chinese-markets_img_ulf400_82a9e23a4294.jpg)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-02-11_iron-ore-demand-to-remain-firm-on-recovery-in-non-chinese-markets_img_ulf400_82a9e23a4294.jpg)
 
 The mood among many market watchers has also turned bullish for the coming months, with Credit Suisse upgrading their price forecast for the first half of the year by 55 percent to 170 USD per tonne. American investment bank Citi also expects demand for seaborne iron ore to remain strong, with an increase by 30 million tonnes this year and adding to the already considerable levels of last year. While many commodity analysts maintain a bullish outlook, there is a considerable disconnect with the equity markets where many mining stocks are trading at a discount to current iron ore prices. The mining analysts at JPMorgan have engaged in some number crunching and concluded that the share prices of the major producers, such as BHP and Rio Tinto, are implying an iron ore price of below 70 USD per tonne. Only time will tell whether it is the equity or the commodity markets that are correct, but at this stage such a considerable decline in iron ore prices look rather unlikely as global demand is likely to remain firm. Hence, some equity investors could have some pleasant surprises in the future.
 
 ![Iron Ore 1](assets/2021-02-11_iron-ore-demand-to-remain-firm-on-recovery-in-non-chinese-markets_img_ironore1_7b9ea8c23740.jpg)
 
 > **Figure 2: Iron Ore 1**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2021/assets/2021-02-11_iron-ore-demand-to-remain-firm-on-recovery-in-non-chinese-markets_img_ironore1_7b9ea8c23740.jpg)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-02-11_iron-ore-demand-to-remain-firm-on-recovery-in-non-chinese-markets_img_ironore1_7b9ea8c23740.jpg)
 
 Given China’s dominant position in the iron ore market, with some 70 percent of the seaborne market, much of the current focus is on the timing of any tapering of the ongoing stimulus spending. There are expectations that the Chinese leadership will reduce spending during this year to avoid overheating the economy, as it is well beyond the recovery phase by now. However, there are promising signs that the non-Chinese demand for iron ore is on the mend, which could offset any softening conditions in China.
 

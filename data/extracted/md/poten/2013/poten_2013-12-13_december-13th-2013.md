@@ -46,4 +46,4 @@ products offered by our Marine Projects & Consulting department or to contact ou
 
 ![Exhibit 1: December 13th, 2013](../../../charts/poten/2013/poten_2013-12-13_december-13th-2013_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2013/poten_2013-12-13_december-13th-2013_chart1.png)
+> **Interactive Asset:** [Local Asset (200 DPI PNG)](../../../charts/poten/2013/poten_2013-12-13_december-13th-2013_chart1.png)

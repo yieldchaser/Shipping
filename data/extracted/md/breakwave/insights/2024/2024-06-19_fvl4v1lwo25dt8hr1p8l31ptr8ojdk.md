@@ -36,10 +36,10 @@ A broader risk-on tone across global markets helped push**crude oil**prices high
 
 **Iron ore**futures gained on better steel demand. The China Iron and Steel Association reported that daily crude steel output of its member mills in early June rose from late May.
 
-![Στιγμιότυπο Οθόνης 2024 06 19 102937](assets/2024-06-19_fvl4v1lwo25dt8hr1p8l31ptr8ojdk_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_51e0b10dd5ae.png)
+![Στιγμιότυπο Οθόνης 2024 06 19 102937](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-06-19_fvl4v1lwo25dt8hr1p8l31ptr8ojdk_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_51e0b10dd5ae.png)
 
 > **Figure 1: Στιγμιότυπο Οθόνης 2024 06 19 102937**  
-> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-06-19_fvl4v1lwo25dt8hr1p8l31ptr8ojdk_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_51e0b10dd5ae.png)
+> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-06-19_fvl4v1lwo25dt8hr1p8l31ptr8ojdk_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_51e0b10dd5ae.png)
 
 Data source:[Commodities Wrap](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI)
 

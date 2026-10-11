@@ -25,10 +25,10 @@ tags:
 ### Strait of Hormuz | From Vital Energy Chokepoint Point to Pressurepointthe Sustained Tensions Since Saturday Continue to Diminish the Prospects for De-Escalation.
 
 
-![69a9ebc44049e2ee27eb877d F5c7ebfd](../../images/69a9ebc44049e2ee27eb877d_f5c7ebfd.png)
+![69a9ebc44049e2ee27eb877d F5c7ebfd](../../../../../../corpus/07-signal/images/69a9ebc44049e2ee27eb877d_f5c7ebfd.png)
 
 > **Figure 1: 69a9ebc44049e2ee27eb877d F5c7ebfd**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/market-insights-rising-tensions-since-saturday-escalate-energy-risk) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/69a9ebc44049e2ee27eb877d_f5c7ebfd.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/market-insights-rising-tensions-since-saturday-escalate-energy-risk) | [Local Asset](../../../../../../corpus/07-signal/images/69a9ebc44049e2ee27eb877d_f5c7ebfd.png)
 
 [TSOP](https://app.signalocean.com/tanker/dynamic/iran\_tensions) Iran Tensions Insights
 
@@ -57,10 +57,10 @@ Based on TSOP AIS vessel tracking data, daily crossings through the Strait of Ho
 Waypoints Strait of Hormuz
 
 
-![What We Know So Far](../../images/69a9ebc44049e2ee27eb8780_b072c9bb.png)
+![What We Know So Far](../../../../../../corpus/07-signal/images/69a9ebc44049e2ee27eb8780_b072c9bb.png)
 
 > **Figure 2: What We Know So Far**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/market-insights-rising-tensions-since-saturday-escalate-energy-risk) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/69a9ebc44049e2ee27eb8780_b072c9bb.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/market-insights-rising-tensions-since-saturday-escalate-energy-risk) | [Local Asset](../../../../../../corpus/07-signal/images/69a9ebc44049e2ee27eb8780_b072c9bb.png)
 
 [TSOP](https://app.signalocean.com/tanker/dynamic/waypoints\_tankers) Waypoints Comparison
 
@@ -70,10 +70,10 @@ Waypoints Strait of Hormuz
 Bunker fuel prices in Fujairah have risen sharply over the past week, with VLSFO reaching **$610/ton** on 5 March, **up 22% WoW.**
 
 
-![Bunker Fuel Prices Spike in Fujairah](../../images/69a9ebc44049e2ee27eb877a_81879901.png)
+![Bunker Fuel Prices Spike in Fujairah](../../../../../../corpus/07-signal/images/69a9ebc44049e2ee27eb877a_81879901.png)
 
 > **Figure 3: Bunker Fuel Prices Spike in Fujairah**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/market-insights-rising-tensions-since-saturday-escalate-energy-risk) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/69a9ebc44049e2ee27eb877a_81879901.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/market-insights-rising-tensions-since-saturday-escalate-energy-risk) | [Local Asset](../../../../../../corpus/07-signal/images/69a9ebc44049e2ee27eb877a_81879901.png)
 
 [TSOP](https://app.signalocean.com/tanker/dynamic/iran\_tensions) Iran Tensions Insights
 
@@ -83,10 +83,10 @@ Bunker fuel prices in Fujairah have risen sharply over the past week, with VLSFO
 Security disruptions in the Strait of Hormuz appear to be pushing up Arabian Gulf port congestion, which increased by ~**7%** between 27 February and 4 March 2026.
 
 
-![Hormuz Disruptions Push AG Congestion Higher](../../images/69a9ebc44049e2ee27eb8783_f5914034.png)
+![Hormuz Disruptions Push AG Congestion Higher](../../../../../../corpus/07-signal/images/69a9ebc44049e2ee27eb8783_f5914034.png)
 
 > **Figure 4: Hormuz Disruptions Push AG Congestion Higher**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/market-insights-rising-tensions-since-saturday-escalate-energy-risk) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/69a9ebc44049e2ee27eb8783_f5914034.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/market-insights-rising-tensions-since-saturday-escalate-energy-risk) | [Local Asset](../../../../../../corpus/07-signal/images/69a9ebc44049e2ee27eb8783_f5914034.png)
 
 [TSOP](https://app.signalocean.com/tanker/dynamic/iran\_tensions) Iran Tensions Insights
 

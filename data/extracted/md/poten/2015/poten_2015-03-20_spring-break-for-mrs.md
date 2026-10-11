@@ -38,10 +38,18 @@ In summary, the healthy product rates of the last six months were caused by both
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: Spring Break for MRs?](../../../charts/poten/2015/poten_2015-03-20_spring-break-for-mrs_chart1.png)
+![Exhibit 1: MR Spot Market Rates](../../../charts/poten/2015/poten_2015-03-20_spring-break-for-mrs_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2015/poten_2015-03-20_spring-break-for-mrs_chart1.png)
+> **Exhibit 1: MR Spot Market Rates**  
+> Unit: US$/day · X-axis: Jan-10 to Jan-15  
+> Series: MR 38 KT: Rotterdam - New York Clean Cargo, MR 35KT: Shuaiba - Karachi Clean Cargo  
+> *Source: Poten*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2015/poten_2015-03-20_spring-break-for-mrs_chart1.png)
 
-![Exhibit 2: Spring Break for MRs?](../../../charts/poten/2015/poten_2015-03-20_spring-break-for-mrs_chart2.png)
+![Exhibit 2: Reported MR Clean Fixture Volumes for selected Load Areas](../../../charts/poten/2015/poten_2015-03-20_spring-break-for-mrs_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2015/poten_2015-03-20_spring-break-for-mrs_chart2.png)
+> **Exhibit 2: Reported MR Clean Fixture Volumes for selected Load Areas**  
+> Unit: No. Fixtures · X-axis: Middle East to S Asia  
+> Series: Oct 2013-Feb 2014, Oct 2014 - Feb 2015  
+> *Source: Poten*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2015/poten_2015-03-20_spring-break-for-mrs_chart2.png)

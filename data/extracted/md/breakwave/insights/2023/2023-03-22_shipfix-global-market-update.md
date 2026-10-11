@@ -53,9 +53,9 @@ In the past five weeks, cargo order volumes for agricultural commodities loading
 
 Asia, and in particular China and the Far East, remains the destination for a large part of the shipments. Since the beginning of the year, China and the Far East have accounted for, on average, a quarter of the weekly volumes. This trade is also dominated by larger cargo sizes, with the average order topping 60,000 tonnes. In contrast, shipments to the rest of the world are typically around 40,000 tonnes. Hence, the development of falling order volumes bound for China and the Far East could weigh on demand in the mid-sized vessel segments. On the other hand, the decreasing demand for seaborne transportation from Brazil and Argentina to the rest of the world is more likely to affect the smaller vessels.
 
-![Market Chart 1](assets/2023-03-22_shipfix-global-market-update_img_unnamed-2023-03-22t130845118_7de385971a9e.png)
+![Market Chart 1](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-03-22_shipfix-global-market-update_img_unnamed-2023-03-22t130845118_7de385971a9e.png)
 
 > **Figure 1: Market Chart 1**  
-> **Interactive Data & Source:** [Shipfix](https://shipfix.com/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-03-22_shipfix-global-market-update_img_unnamed-2023-03-22t130845118_7de385971a9e.png)
+> **Interactive Data & Source:** [Shipfix](https://shipfix.com/) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-03-22_shipfix-global-market-update_img_unnamed-2023-03-22t130845118_7de385971a9e.png)
 
 Data Source:[Shipfix](https://shipfix.com/)

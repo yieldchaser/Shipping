@@ -28,11 +28,11 @@ Renewed attention on Venezuela’s oil sector has re-entered market discussion a
 
 Venezuela holds one of the world’s largest proven crude oil reserves. However, reserves are not a freight variable. Tanker demand responds to barrels produced, exported, and moved, not to in-ground resource estimates.
 
-![Differing Crude Quality Profiles of Venezuelan Heavy Sour Grades](assets/2026-01-05_venezuela-russia-and-the-oil-balance_img_unnamed_f290f768ef8c.png)
+![Differing Crude Quality Profiles of Venezuelan Heavy Sour Grades](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-01-05_venezuela-russia-and-the-oil-balance_img_unnamed_f290f768ef8c.png)
 
 > **Figure 1: Differing Crude Quality Profiles of Venezuelan Heavy Sour Grades**  
 > *The differing crude quality profiles of Venezuelan heavy sour grades and Russia's Urals blend underscore structural variations in their compatibility with refineries and typical trade routes. Specifically, Venezuelan grades, such as high-sulphur, extra-heavy, Maya-like crudes, are characterized by their low API gravity and high sulphur content, placing them in the low-API/high-sulphur sector of the crude quality distribution chart.*  
-> **Interactive Data & Source:** [Signal Ocean Tanker Dynamic Crude Oil Flows](https://go.signalocean.com/e/983831/tanker-dynamic-crude-oil-flows/2rqw4y/565781923/h/fLXYReNi7N6RD0oQ3vAYRxmd_TP2OVmMHb_GgMgNzJg) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-01-05_venezuela-russia-and-the-oil-balance_img_unnamed_f290f768ef8c.png)
+> **Interactive Data & Source:** [Signal Ocean Tanker Dynamic Crude Oil Flows](https://go.signalocean.com/e/983831/tanker-dynamic-crude-oil-flows/2rqw4y/565781923/h/fLXYReNi7N6RD0oQ3vAYRxmd_TP2OVmMHb_GgMgNzJg) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-01-05_venezuela-russia-and-the-oil-balance_img_unnamed_f290f768ef8c.png)
 
 Current Venezuelan production and export capacity remain constrained by infrastructure conditions, investment requirements, and the quality of crude oil. Venezuelan output is predominantly heavy and extra-heavy, which limits the range of compatible refineries and typically favors Atlantic Basin destinations with complex refining capabilities. Any increase in exports is therefore expected to be incremental rather than large enough to alter the global supply balance in the near term materially.
 
@@ -56,11 +56,11 @@ Furthermore, sanctions compliance has segmented the global tanker fleet, effecti
 
 The combined impact of Venezuela and Russia reveals that freight outcomes are complex and not simply driven by supply changes. The possible shortening of Atlantic routes due to Venezuelan normalization is counterbalanced by Russia's continued long-haul exports to Asia. This creates an asymmetric system: while Atlantic routes may shorten, flows from Eurasia to Asia remain extended. Consequently, this dynamic interaction limits the power of any isolated regional event to substantially decrease overall global tanker demand.
 
-![Concentration of Long-Haul Global Crude Exports Into Asia Is](assets/2026-01-05_venezuela-russia-and-the-oil-balance_img_unnamed28129_474f675165a5.png)
+![Concentration of Long-Haul Global Crude Exports Into Asia Is](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-01-05_venezuela-russia-and-the-oil-balance_img_unnamed28129_474f675165a5.png)
 
 > **Figure 2: Concentration of Long-Haul Global Crude Exports Into Asia Is**  
 > *The concentration of long-haul global crude exports into Asia is pronounced. Analysis of these flows by origin and destination underscores the structural significance of Russia in meeting the import demands of China and India.*  
-> **Interactive Data & Source:** [Signal Ocean Tanker Dynamic Crude Oil Flows](https://go.signalocean.com/e/983831/tanker-dynamic-crude-oil-flows/2rqw4y/565781923/h/fLXYReNi7N6RD0oQ3vAYRxmd_TP2OVmMHb_GgMgNzJg) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-01-05_venezuela-russia-and-the-oil-balance_img_unnamed28129_474f675165a5.png)
+> **Interactive Data & Source:** [Signal Ocean Tanker Dynamic Crude Oil Flows](https://go.signalocean.com/e/983831/tanker-dynamic-crude-oil-flows/2rqw4y/565781923/h/fLXYReNi7N6RD0oQ3vAYRxmd_TP2OVmMHb_GgMgNzJg) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-01-05_venezuela-russia-and-the-oil-balance_img_unnamed28129_474f675165a5.png)
 
 ### Supply–demand Balance and Price Signals
 
@@ -68,11 +68,11 @@ The broader oil market backdrop is defined by supply growth outpacing demand gro
 
 Oil prices reflect this configuration. Brent crude ended December 2025 near $60.85 per barrel, reflecting persistent oversupply and demand softness, and the U.S. Energy Information Administration projects Brent will average around $55 per barrel in 2026, with prices expected to remain near that level as inventories continue to build and supply outpaces demand.
 
-![Monthly Global Crude Flows Show Stable Volumes with Seasonal](assets/2026-01-05_venezuela-russia-and-the-oil-balance_img_unnamed28229_05e69f4e2566.png)
+![Monthly Global Crude Flows Show Stable Volumes with Seasonal](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-01-05_venezuela-russia-and-the-oil-balance_img_unnamed28229_05e69f4e2566.png)
 
 > **Figure 3: Monthly Global Crude Flows Show Stable Volumes with Seasonal**  
 > *Monthly global crude flows show stable volumes with seasonal variation, indicating that changes in tanker demand are driven by routing, storage, and time at sea rather than step-change volume growth.*  
-> **Interactive Data & Source:** [Signal Ocean Tanker Dynamic Crude Oil Flows](https://go.signalocean.com/e/983831/tanker-dynamic-crude-oil-flows/2rqw4y/565781923/h/fLXYReNi7N6RD0oQ3vAYRxmd_TP2OVmMHb_GgMgNzJg) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-01-05_venezuela-russia-and-the-oil-balance_img_unnamed28229_05e69f4e2566.png)
+> **Interactive Data & Source:** [Signal Ocean Tanker Dynamic Crude Oil Flows](https://go.signalocean.com/e/983831/tanker-dynamic-crude-oil-flows/2rqw4y/565781923/h/fLXYReNi7N6RD0oQ3vAYRxmd_TP2OVmMHb_GgMgNzJg) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-01-05_venezuela-russia-and-the-oil-balance_img_unnamed28229_05e69f4e2566.png)
 
 ### Longer-Term Considerations for Oil Prices
 

@@ -34,10 +34,10 @@ Week 37, September 13, 2024
 
 ### ​​​​​​
 
-![Screenshot 2024 09 13 14.34.06](assets/2024-09-13_dirty-oil-shipments_img_screenshot2024-09-13143406_ccb609323b7d.png)
+![Screenshot 2024 09 13 14.34.06](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-09-13_dirty-oil-shipments_img_screenshot2024-09-13143406_ccb609323b7d.png)
 
 > **Figure 1: Screenshot 2024 09 13 14.34.06**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://go.signalocean.com/e/983831/upply-to-China-in-October-html/2qjywd/435923930/h/C-bhrCSGJOIXwz21cP7KEJYmmQ5fu4NVnBP3AhlzbIw) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-09-13_dirty-oil-shipments_img_screenshot2024-09-13143406_ccb609323b7d.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://go.signalocean.com/e/983831/upply-to-China-in-October-html/2qjywd/435923930/h/C-bhrCSGJOIXwz21cP7KEJYmmQ5fu4NVnBP3AhlzbIw) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-09-13_dirty-oil-shipments_img_screenshot2024-09-13143406_ccb609323b7d.png)
 
 This week, the oil market saw news of an increase in crude oil production from[Saudi Arabia.](https://go.signalocean.com/e/983831/upply-to-China-in-October-html/2qjywd/435923930/h/C-bhrCSGJOIXwz21cP7KEJYmmQ5fu4NVnBP3AhlzbIw)Saudi Arabia is anticipated to boost its crude oil supply to China in October, following a recent price cut for its oil sold in Asia. This move comes as the world's leading crude exporter seeks to strengthen its market share amid fluctuating global oil dynamics. According to trade sources cited by Reuters, the Kingdom plans to ship a total of 46 million barrels of crude to China next month, an increase from the estimated 43 million barrels expected to arrive in September.
 
@@ -58,10 +58,10 @@ Sentiment in the dirty freight market appears to be firming in the second week o
 
 ### ‘Dirty’ (# Vessels) - Mixed
 
-![241](assets/2024-09-13_dirty-oil-shipments_img_241_ef9cbf9f34c0.png)
+![241](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-09-13_dirty-oil-shipments_img_241_ef9cbf9f34c0.png)
 
 > **Figure 2: 241**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-09-13_dirty-oil-shipments_img_241_ef9cbf9f34c0.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-09-13_dirty-oil-shipments_img_241_ef9cbf9f34c0.png)
 
 The supply of crude tankers showed an upward trend in the second week of September, exceeding the annual average on both the Suez West Africa and Aframax Mediterranean routes. In contrast, a downward trend was observed for VLCC activity on the Ras Tanura route.
 
@@ -74,10 +74,10 @@ The supply of crude tankers showed an upward trend in the second week of Septemb
 
 ### ​​‘Dirty’ Decreasing
 
-![242](assets/2024-09-13_dirty-oil-shipments_img_242_83dbcab5a47c.png)
+![242](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-09-13_dirty-oil-shipments_img_242_83dbcab5a47c.png)
 
 > **Figure 3: 242**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-09-13_dirty-oil-shipments_img_242_83dbcab5a47c.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-09-13_dirty-oil-shipments_img_242_83dbcab5a47c.png)
 
 **Dirty**tonne days: The decrease in VLCC tonne-days growth has persisted through the first half of September, raising uncertainties about the long-term stability of firmness for dirty freight rates. This decline reflects a weakening demand for VLCCs, contributing to market volatility. Similarly, Suezmax tonne-days growth continues on a downward trajectory, amplifying concerns about sustained softness in this segment. In contrast, Aframax tonne-days growth is showing stronger signs of resilience, with potential for more stable or even rising freight rates in the near term. However, the overall market outlook remains uncertain as the contrasting trends across these tanker classes could signal a more complex supply-demand dynamic emerging in the weeks ahead.
 

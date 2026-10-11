@@ -33,7 +33,7 @@ The Signal Ocean Platform empowers maritime professionals with up-to-date, actio
 ![Sanctioned Vessels: Definitions and Overview](../../images/67f50aaf84107d1e23e059e4_How to video (2).png)
 
 > **Figure 1: Sanctioned Vessels: Definitions and Overview**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/tracking-sanctions-at-sea-aframax-surge-and-geopolitical-fallout) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/67f50aaf84107d1e23e059e4_How to video (2).png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/tracking-sanctions-at-sea-aframax-surge-and-geopolitical-fallout) | [Local Asset](../../../../../../corpus/07-signal/images/67f50aaf84107d1e23e059e4_How%20to%20video%20(2).png)
 
 A vessel is sanctioned for three main reasons:
 
@@ -50,18 +50,18 @@ Given the targeted nature of the sanctions, certain vessel types and classes hav
 This growing number of Aframaxes sanctioned is due to them engaging in sanctiobale trade. Aframaxes are best suited to transporting oil products from ports and regions under wider economic sanctions, such as the Black Sea, a key region for Russian oil exports. In addition to this, Aframaxes are also used in short-haul deliveries to larger vessels in neutral waters to obscure the origin of the cargo. By limiting the number of Aframaxes available, this practice becomes more difficult and impacts sanctioned nations' exports.
 
 
-![Sanctioned Vessel Types](../../images/67f50b44656685b4aea44edd_AD_4nXcK5AkvhhtleeYmcTulvudtioBJLBnAQWn1cJ_lBN0Q0nB-D1kK5oYsSiZTqGsP3pP_pfMC1VIL61jm_rTg36bPHVS-GKNmS6j97lFNYg1DzWIGtbTAmCjaEbCiW1LbdkaejrZZ5g.png)
+![Sanctioned Vessel Types](../../../../../../corpus/07-signal/images/67f50b44656685b4aea44edd_AD_4nXcK5AkvhhtleeYmcTulvudtioBJLBnAQWn1cJ_lBN0Q0nB-D1kK5oYsSiZTqGsP3pP_pfMC1VIL61jm_rTg36bPHVS-GKNmS6j97lFNYg1DzWIGtbTAmCjaEbCiW1LbdkaejrZZ5g.png)
 
 > **Figure 2: Sanctioned Vessel Types**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/tracking-sanctions-at-sea-aframax-surge-and-geopolitical-fallout) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/67f50b44656685b4aea44edd_AD_4nXcK5AkvhhtleeYmcTulvudtioBJLBnAQWn1cJ_lBN0Q0nB-D1kK5oYsSiZTqGsP3pP_pfMC1VIL61jm_rTg36bPHVS-GKNmS6j97lFNYg1DzWIGtbTAmCjaEbCiW1LbdkaejrZZ5g.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/tracking-sanctions-at-sea-aframax-surge-and-geopolitical-fallout) | [Local Asset](../../../../../../corpus/07-signal/images/67f50b44656685b4aea44edd_AD_4nXcK5AkvhhtleeYmcTulvudtioBJLBnAQWn1cJ_lBN0Q0nB-D1kK5oYsSiZTqGsP3pP_pfMC1VIL61jm_rTg36bPHVS-GKNmS6j97lFNYg1DzWIGtbTAmCjaEbCiW1LbdkaejrZZ5g.png)
 
 Dry bulk vessels make up 51% of the total vessel population within our platform, but account for just 26% of the total sanctioned population. Within this group, vessels classified as small make up the most significant percentage, 71%. These vessels have the flexibility to carry many different cargo types, so placing them under sanctions reduces the ability of the sanctioned entities to react to market movements, furthering the economic impact of the sanctions.
 
 
-![Sanctioned Vessel Types](../../images/67f50ba204037eeeb643f54f_AD_4nXdH1ZJFBp3A5YVbNs3xBfNo1pO3KUFxoSnPKX8f2F1kmsZkF7ZBgdKQRCWu3ln3UoIoCmhOc7CtGaHocfvIKBAFf0Lfrl3PD-rxYSh4ecS097TH3ZKMKSVtUj7_P6rMK9BZLfU7.png)
+![Sanctioned Vessel Types](../../../../../../corpus/07-signal/images/67f50ba204037eeeb643f54f_AD_4nXdH1ZJFBp3A5YVbNs3xBfNo1pO3KUFxoSnPKX8f2F1kmsZkF7ZBgdKQRCWu3ln3UoIoCmhOc7CtGaHocfvIKBAFf0Lfrl3PD-rxYSh4ecS097TH3ZKMKSVtUj7_P6rMK9BZLfU7.png)
 
 > **Figure 3: Sanctioned Vessel Types**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/tracking-sanctions-at-sea-aframax-surge-and-geopolitical-fallout) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/67f50ba204037eeeb643f54f_AD_4nXdH1ZJFBp3A5YVbNs3xBfNo1pO3KUFxoSnPKX8f2F1kmsZkF7ZBgdKQRCWu3ln3UoIoCmhOc7CtGaHocfvIKBAFf0Lfrl3PD-rxYSh4ecS097TH3ZKMKSVtUj7_P6rMK9BZLfU7.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/tracking-sanctions-at-sea-aframax-surge-and-geopolitical-fallout) | [Local Asset](../../../../../../corpus/07-signal/images/67f50ba204037eeeb643f54f_AD_4nXdH1ZJFBp3A5YVbNs3xBfNo1pO3KUFxoSnPKX8f2F1kmsZkF7ZBgdKQRCWu3ln3UoIoCmhOc7CtGaHocfvIKBAFf0Lfrl3PD-rxYSh4ecS097TH3ZKMKSVtUj7_P6rMK9BZLfU7.png)
 
 
 ## Other Sanctioned Vessel Characteristics
@@ -71,10 +71,10 @@ Sanctions on vessels are also concentrated on a few flag carriers. Vessels flyin
 Panama and Barbados seem odd companions to Iran and Russia in this list, but they have often provided a flag of convenience (FOC) in the past for foreign-owned vessels that wish to register outside their domestic territory. While some of the reasoning for a vessel seeking an FOC is purely economic, to avoid liabilities or taxes, in more recent times, this practice has been adopted by those wanting to distance themselves from international scrutiny. Panama has begun to respond to the pressure from the international community and limit some registrations, but the country remains the flag with the third-highest number of sanctions on our platform.
 
 
-![Other Sanctioned Vessel Characteristics](../../images/67f50beb4d0deca697432b48_AD_4nXfUbxdPaKp2TKfSDIYTxNj1Kx0P5LRx_OdWAuRDckPxq7hLLyec5wFJApNk3t8mOlciiEoKYCj3hrCJT-uZdtLQZt_SXxyA2XHypRhzr9nMOM1a9iG2rZEiZR60P1HvgZd9iOq5PQ.png)
+![Other Sanctioned Vessel Characteristics](../../../../../../corpus/07-signal/images/67f50beb4d0deca697432b48_AD_4nXfUbxdPaKp2TKfSDIYTxNj1Kx0P5LRx_OdWAuRDckPxq7hLLyec5wFJApNk3t8mOlciiEoKYCj3hrCJT-uZdtLQZt_SXxyA2XHypRhzr9nMOM1a9iG2rZEiZR60P1HvgZd9iOq5PQ.png)
 
 > **Figure 4: Other Sanctioned Vessel Characteristics**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/tracking-sanctions-at-sea-aframax-surge-and-geopolitical-fallout) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/67f50beb4d0deca697432b48_AD_4nXfUbxdPaKp2TKfSDIYTxNj1Kx0P5LRx_OdWAuRDckPxq7hLLyec5wFJApNk3t8mOlciiEoKYCj3hrCJT-uZdtLQZt_SXxyA2XHypRhzr9nMOM1a9iG2rZEiZR60P1HvgZd9iOq5PQ.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/tracking-sanctions-at-sea-aframax-surge-and-geopolitical-fallout) | [Local Asset](../../../../../../corpus/07-signal/images/67f50beb4d0deca697432b48_AD_4nXfUbxdPaKp2TKfSDIYTxNj1Kx0P5LRx_OdWAuRDckPxq7hLLyec5wFJApNk3t8mOlciiEoKYCj3hrCJT-uZdtLQZt_SXxyA2XHypRhzr9nMOM1a9iG2rZEiZR60P1HvgZd9iOq5PQ.png)
 
 
 ## Key Takeaways

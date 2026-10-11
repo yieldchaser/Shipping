@@ -53,9 +53,9 @@ Thermal coal prices have been steadily gaining ground in the last month, with Ne
 
 The recent disruptions due to the weather conditions have affected ordering activities. Shipfix’s data highlights a significant drop in demand for vessel loading coal in Australian ports in recent weeks, and the early parts of the current week show no signs of a rebound. Hence, thermal coal prices are unlikely to reverse course in the near future amid the increasingly tight supply situation.
 
-![Market Chart 1](assets/2022-07-13_global-market-update_img_unnamed283729_6a09c1ae8801.png)
+![Market Chart 1](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-07-13_global-market-update_img_unnamed283729_6a09c1ae8801.png)
 
 > **Figure 1: Market Chart 1**  
-> **Interactive Data & Source:** [Shipfix](https://shipfix.com/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-07-13_global-market-update_img_unnamed283729_6a09c1ae8801.png)
+> **Interactive Data & Source:** [Shipfix](https://shipfix.com/) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-07-13_global-market-update_img_unnamed283729_6a09c1ae8801.png)
 
 Data Source:[Shipfix](https://shipfix.com/)

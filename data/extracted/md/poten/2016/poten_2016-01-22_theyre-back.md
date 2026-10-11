@@ -30,10 +30,18 @@ With respect to the implication for the crude oil tanker market, it appears that
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: Theyre Back](../../../charts/poten/2016/poten_2016-01-22_theyre-back_chart1.png)
+![Exhibit 1: Iranian Floating Oil Storage (March 31, 2014 – January 21, 2016)](../../../charts/poten/2016/poten_2016-01-22_theyre-back_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2016/poten_2016-01-22_theyre-back_chart1.png)
+> **Exhibit 1: Iranian Floating Oil Storage (March 31, 2014 – January 21, 2016)**  
+> Unit: MMBBL · X-axis: Jan 2015 to Jan 2016  
+> Series: Iranian Floating Storage (MMBBL)  
+> *Source: Windward*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2016/poten_2016-01-22_theyre-back_chart1.png)
 
-![Exhibit 2: Theyre Back](../../../charts/poten/2016/poten_2016-01-22_theyre-back_chart2.png)
+![Exhibit 2: Monthly Iranian petroleum and other liquids production (2011-17)](../../../charts/poten/2016/poten_2016-01-22_theyre-back_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2016/poten_2016-01-22_theyre-back_chart2.png)
+> **Exhibit 2: Monthly Iranian petroleum and other liquids production (2011-17)**  
+> Unit: million barrels per day · X-axis: Jan-11 to Jan-17  
+> Series: crude oil, non-crude liquids, forecast  
+> *Source: U.S. Energy Information Administration, Short-Term Energy Outlook, January 2016*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2016/poten_2016-01-22_theyre-back_chart2.png)

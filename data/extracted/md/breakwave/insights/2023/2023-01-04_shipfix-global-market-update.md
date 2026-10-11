@@ -57,9 +57,9 @@ The new year has started with temperature records across many parts of Europe as
 
 In the wake of the European import ban on Russian coal, the continent’s buyers faced the challenge of replacing their traditional primary source of the commodity. As a result, cargo order volumes for coal loading in South Africa destined for European ports soared to unprecedented levels in March last year and remained high throughout the remainder of the year. However, monthly volumes fell back during December and reached the lowest levels since May amid lower European demand for the commodity. While last month’s volumes still remain high in a historical context, the month-on-month decline suggests that imports may decline as the winter draws to an end.
 
-![Market Chart 1](assets/2023-01-04_shipfix-global-market-update_img_unnamed-2023-01-04t141106158_4cc6567368ae.png)
+![Market Chart 1](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-01-04_shipfix-global-market-update_img_unnamed-2023-01-04t141106158_4cc6567368ae.png)
 
 > **Figure 1: Market Chart 1**  
-> **Interactive Data & Source:** [Shipfix](https://shipfix.com/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-01-04_shipfix-global-market-update_img_unnamed-2023-01-04t141106158_4cc6567368ae.png)
+> **Interactive Data & Source:** [Shipfix](https://shipfix.com/) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-01-04_shipfix-global-market-update_img_unnamed-2023-01-04t141106158_4cc6567368ae.png)
 
 Data Source:[Shipfix](https://shipfix.com/)

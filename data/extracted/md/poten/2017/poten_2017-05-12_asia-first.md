@@ -24,10 +24,17 @@ In conclusion, the growth in U.S. exports is real and the recent trend towards s
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: Asia First](../../../charts/poten/2017/poten_2017-05-12_asia-first_chart1.png)
+![Exhibit 1: U.S. Crude Oil Supply & Disposition](../../../charts/poten/2017/poten_2017-05-12_asia-first_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2017/poten_2017-05-12_asia-first_chart1.png)
+> **Exhibit 1: U.S. Crude Oil Supply & Disposition**  
+> Unit: kb/d · X-axis: Jan-1981 to Sep-2015  
+> Series: Production, Imports, Refining Demand, Exports  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2017/poten_2017-05-12_asia-first_chart1.png)
 
-![Exhibit 2: Asia First](../../../charts/poten/2017/poten_2017-05-12_asia-first_chart2.png)
+![Exhibit 2: U.S. Crude Oil Exports](../../../charts/poten/2017/poten_2017-05-12_asia-first_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2017/poten_2017-05-12_asia-first_chart2.png)
+> **Exhibit 2: U.S. Crude Oil Exports**  
+> Unit: kb/d · X-axis: Jan-2010 to Jan-2017  
+> Series: Canada, Other  
+> *Source: DOE/EIA*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2017/poten_2017-05-12_asia-first_chart2.png)

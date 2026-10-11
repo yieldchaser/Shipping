@@ -36,15 +36,15 @@ McCloskey observed that domestic coal production has been slow to pick up after 
 
 The State Grid Energy Research Institute has forecast a 5% gain in China’s power demand this year, which would mark an acceleration from 3.4% annual growth rate in the first five months—implying faster growth of 6.1% in the rest of the year.
 
-![Db8a Image 0 1752162680664](assets/2025-07-11_the-big-picture-what-can-change-chinas-coal-import-appetite_img_db8a-image-0-1752162680664_55ffd9aa5ed9.png)
+![Db8a Image 0 1752162680664](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-07-11_the-big-picture-what-can-change-chinas-coal-import-appetite_img_db8a-image-0-1752162680664_55ffd9aa5ed9.png)
 
 > **Figure 1: Db8a Image 0 1752162680664**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-07-11_the-big-picture-what-can-change-chinas-coal-import-appetite_img_db8a-image-0-1752162680664_55ffd9aa5ed9.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-07-11_the-big-picture-what-can-change-chinas-coal-import-appetite_img_db8a-image-0-1752162680664_55ffd9aa5ed9.png)
 
-![5afc Image 1 1752162705536](assets/2025-07-11_the-big-picture-what-can-change-chinas-coal-import-appetite_img_5afc-image-1-1752162705536_2941364f769e.png)
+![5afc Image 1 1752162705536](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-07-11_the-big-picture-what-can-change-chinas-coal-import-appetite_img_5afc-image-1-1752162705536_2941364f769e.png)
 
 > **Figure 2: 5afc Image 1 1752162705536**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-07-11_the-big-picture-what-can-change-chinas-coal-import-appetite_img_5afc-image-1-1752162705536_2941364f769e.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-07-11_the-big-picture-what-can-change-chinas-coal-import-appetite_img_5afc-image-1-1752162705536_2941364f769e.png)
 
 For perspective, power demand rose at an annual rate of 5.5% in 2016-20 and 6.8% in 2020-24 inclusive (see chart below).
 

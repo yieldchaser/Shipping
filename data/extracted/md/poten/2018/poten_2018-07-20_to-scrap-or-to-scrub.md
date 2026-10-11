@@ -26,10 +26,18 @@ Other key factors that may drive tanker scrapping over the next few years are th
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: To Scrap Or To Scrub](../../../charts/poten/2018/poten_2018-07-20_to-scrap-or-to-scrub_chart1.png)
+![Exhibit 1: VLCC Fleet Development: Deliveries vs Demolition vs Rates](../../../charts/poten/2018/poten_2018-07-20_to-scrap-or-to-scrub_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2018/poten_2018-07-20_to-scrap-or-to-scrub_chart1.png)
+> **Exhibit 1: VLCC Fleet Development: Deliveries vs Demolition vs Rates**  
+> Unit: # of VLCCs | TD3 TCE · X-axis: 1996 to 2018ytd  
+> Series: Delivery, Demolition, TCE  
+> *Source: Poten*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2018/poten_2018-07-20_to-scrap-or-to-scrub_chart1.png)
 
-![Exhibit 2: To Scrap Or To Scrub](../../../charts/poten/2018/poten_2018-07-20_to-scrap-or-to-scrub_chart2.png)
+![Exhibit 2: 1988 - 2017 Tanker demolition vs Scrap price](../../../charts/poten/2018/poten_2018-07-20_to-scrap-or-to-scrub_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2018/poten_2018-07-20_to-scrap-or-to-scrub_chart2.png)
+> **Exhibit 2: 1988 - 2017 Tanker demolition vs Scrap price**  
+> Unit: Million DWT | $/LDT · X-axis: 1988 to 2018ytd  
+> Series: Tanker Scrapping, Scrap price  
+> *Source: Poten*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2018/poten_2018-07-20_to-scrap-or-to-scrub_chart2.png)

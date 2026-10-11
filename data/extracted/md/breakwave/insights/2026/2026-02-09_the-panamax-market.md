@@ -34,10 +34,10 @@ This shift comes at a time when growth in coal-fired power generation is already
 
 Against this broader backdrop, the Panamax market closed the week at $14,865 per day, down 5.2 percent week-on-week but still approximately 60 percent higher year-on-year. Activity out of ECSA has continued to underpin the market so far this year, absorbing tonnage and preventing a sharper correction despite softer conditions elsewhere. As the market approaches the Chinese New Year holidays, a more measured tone is likely to prevail, with owners and charterers alike showing greater caution. Looking ahead, the balance of risks suggests that the Panamax segment will remain increasingly reliant on agricultural flows to sustain earnings. Soybeans, led by Brazil, continue to offer visibility, volume, and competitive pricing, reinforcing their role as the primary driver of employment. Coal, meanwhile, appears set to play a diminishing role, constrained by structural shifts in production and consumption rather than short-term cyclical factors.
 
-![Στιγμιότυπο Οθόνης 2026 02 09 102414](assets/2026-02-09_the-panamax-market_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_573341c07e1b.png)
+![Στιγμιότυπο Οθόνης 2026 02 09 102414](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-02-09_the-panamax-market_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_573341c07e1b.png)
 
 > **Figure 1: Στιγμιότυπο Οθόνης 2026 02 09 102414**  
-> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-02-09_the-panamax-market_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_573341c07e1b.png)
+> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-02-09_the-panamax-market_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_573341c07e1b.png)
 
 Data source:[Doric](https://www.doric.gr/)
 

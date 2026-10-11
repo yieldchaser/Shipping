@@ -22,18 +22,23 @@ Global oil demand is expected to grow from 90.6 million barrels per day (Mb/d) i
 
 On the supply side of the equation, OPEC's analysts expect non- OPEC oil production to rebound in the medium-term. Non- OPEC production will increase from 62.9 Mb/d in 2020 to 69.8 Mb/d in 2025 (+6.9 Mb/d), recovering well above 2019 levels. Almost 40% (2.7 Mb/d) of the non-OPEC increase is forecast to come from the United States, where tight oil production is expected to rise from 11.5 Mb/d to 14.5 Mb/d (other U.S. output will decline slightly). OPEC expects much of the additional U.S. production to be exported, mostly to long-haul destinations in Asia. U.S. crude oil exports are forecast to reach 4.0 Mb/d in 2025. This would generate significant additional VLCC demand. At the same time as the U.S. is exporting more light (tight oil) crudes, OPEC expects higher imports of heavier grades (below 25 API) from Latin America and the Middle East. This will further boost ton-mile demand, especially the long-haul imports from the Middle East.
 
-Beyond 2025, exports from non-OPEC countries (the U.S. in particular) are forecast to decline. At this time, OPEC production will make a comeback and increase its overall market share. From 2020 to 2025 OPEC output is expected to increase from 30.7 Mb/d to 34 Mb/d, but it remains below the 2019 number of 34.6 Mb/d. However, after 2025 the OPEC countries capture most of the additional output. From 2025 to 2045, OPEC liquids output increases from 34 Mb/d to 42.7 Mb/d. OPEC's global market share rises from 33% in 2020, to 39% in 2045. Even more important for the tanker market, the market share of OPEC in the inter-regional crude and condensate exports ([Chart 2](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2021/poten_2021-10-01_oil-is-here-to-stay-for-a-while_chart2.png)) increases from 48% in 2020 to 57% in 2045.
+Beyond 2025, exports from non-OPEC countries (the U.S. in particular) are forecast to decline. At this time, OPEC production will make a comeback and increase its overall market share. From 2020 to 2025 OPEC output is expected to increase from 30.7 Mb/d to 34 Mb/d, but it remains below the 2019 number of 34.6 Mb/d. However, after 2025 the OPEC countries capture most of the additional output. From 2025 to 2045, OPEC liquids output increases from 34 Mb/d to 42.7 Mb/d. OPEC's global market share rises from 33% in 2020, to 39% in 2045. Even more important for the tanker market, the market share of OPEC in the inter-regional crude and condensate exports ([Chart 2](../../../charts/poten/2021/poten_2021-10-01_oil-is-here-to-stay-for-a-while_chart2.png)) increases from 48% in 2020 to 57% in 2045.
 
-> **Exhibit 2: Oil Is Here To Stay For A While (Chart 2)**  
-> *Source: Poten & Partners*  
-> **Interactive Data & Source:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2021/poten_2021-10-01_oil-is-here-to-stay-for-a-while_chart2.png)
+> **Exhibit 2: Inter-Regional Crude & Condensate Exports By Origin**  
+> Unit: Mb/d | % · X-axis: 2019 to 2045  
+> Series: US & Canada, Latin America, Africa, Europe, Russia & Caspian, Middle East, Asia-Pacific, Middle East %  
+> *Source: OPEC (World Oil Outlook 2045)*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2021/poten_2021-10-01_oil-is-here-to-stay-for-a-while_chart2.png)
 
-![Exhibit 2: Oil Is Here To Stay For A While](../../../charts/poten/2021/poten_2021-10-01_oil-is-here-to-stay-for-a-while_chart2.png)
+![Exhibit 2: Inter-Regional Crude & Condensate Exports By Origin](../../../charts/poten/2021/poten_2021-10-01_oil-is-here-to-stay-for-a-while_chart2.png)
 
 If the OPEC projections come to fruition, the tanker market could have a few more good years left as more U.S. imports and exports as well as a higher OPEC market share are typically good for ton-mile demand.
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: Oil Is Here To Stay For A While](../../../charts/poten/2021/poten_2021-10-01_oil-is-here-to-stay-for-a-while_chart1.png)
+![Exhibit 1: Global Oil Demand Outlook](../../../charts/poten/2021/poten_2021-10-01_oil-is-here-to-stay-for-a-while_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2021/poten_2021-10-01_oil-is-here-to-stay-for-a-while_chart1.png)
+> **Exhibit 1: Global Oil Demand Outlook**  
+> Unit: Mb/d · X-axis: 2019 to 2045  
+> Series: OECD Americas, OECD Europe, OECD Asia Oceania, Latin America, Middle East & Africa, India, China, Other Asia, Russia/Eurasia  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2021/poten_2021-10-01_oil-is-here-to-stay-for-a-while_chart1.png)

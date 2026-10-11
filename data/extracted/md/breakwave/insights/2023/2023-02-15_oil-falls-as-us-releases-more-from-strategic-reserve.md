@@ -23,10 +23,10 @@ source_file: "corpus/03-breakwave/insights/2023/2023-02-15_oil-falls-as-us-relea
 
 Increased market expectations of US monetary policy staying tighter for longer weighed on commodity prices.
 
-![1676409749138](assets/2023-02-15_oil-falls-as-us-releases-more-from-strategic-reserve_img_1676409749138_1730a73eefb0.png)
+![1676409749138](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-02-15_oil-falls-as-us-releases-more-from-strategic-reserve_img_1676409749138_1730a73eefb0.png)
 
 > **Figure 1: 1676409749138**  
-> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-02-15_oil-falls-as-us-releases-more-from-strategic-reserve_img_1676409749138_1730a73eefb0.png)
+> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-02-15_oil-falls-as-us-releases-more-from-strategic-reserve_img_1676409749138_1730a73eefb0.png)
 
 **Crude oil**prices fell after the US announced it would release 26mb oil from the Strategic Petroleum Reserve (SPR). This is in addition to a record sale of 180mb oil last year. There was a consideration to cancel the sale as reserves are already depleted, but it requires congress approval. Stronger than expected US inflation was not a help either. The market shrugged off supply issues as Russia announced an output cut of 500kb/d for the next month in retaliation to the western sanctions. The OPEC downgraded its non-OPEC supply estimates by 150kb/d for 2023 in its latest monthly report. While increased demand projections by 100kb/d as China reopens increases demand prospects for 2023. The IEA is due to release its monthly oil report today. A confirmation on tightening market balance should lend support to oil prices.
 

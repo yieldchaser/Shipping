@@ -24,10 +24,10 @@ Commodity prices fell across sectors after Trump’s US election win. The strong
 
 *By*[*Daniel Hynes*](https://www.linkedin.com/in/dahynes/)
 
-![Στιγμιότυπο Οθόνης 2024 11 11 131030](assets/2024-11-11_signs-of-subdued-demand-weighs-on-oil-prices_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_feccd19e6bc6.png)
+![Στιγμιότυπο Οθόνης 2024 11 11 131030](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-11-11_signs-of-subdued-demand-weighs-on-oil-prices_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_feccd19e6bc6.png)
 
 > **Figure 1: Στιγμιότυπο Οθόνης 2024 11 11 131030**  
-> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-11-11_signs-of-subdued-demand-weighs-on-oil-prices_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_feccd19e6bc6.png)
+> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-11-11_signs-of-subdued-demand-weighs-on-oil-prices_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_feccd19e6bc6.png)
 
 ### Market Commentary
 
@@ -43,10 +43,10 @@ A stronger USD and the prospect of a renewed US-China trade war weighed on senti
 
 US investment in the power grid is expected to rise strong over the next two years, driven not only by renewable energy capacity additions but also rising demand for electricity from battery & semiconductor facilities and data centres. This should support copper and aluminium demand.
 
-![Στιγμιότυπο Οθόνης 2024 11 11 131313](assets/2024-11-11_signs-of-subdued-demand-weighs-on-oil-prices_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_da16c5a8f7d6.png)
+![Στιγμιότυπο Οθόνης 2024 11 11 131313](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-11-11_signs-of-subdued-demand-weighs-on-oil-prices_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_da16c5a8f7d6.png)
 
 > **Figure 2: Στιγμιότυπο Οθόνης 2024 11 11 131313**  
-> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-11-11_signs-of-subdued-demand-weighs-on-oil-prices_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_da16c5a8f7d6.png)
+> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-11-11_signs-of-subdued-demand-weighs-on-oil-prices_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_da16c5a8f7d6.png)
 
 Data source:[Commodities Wrap](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI)
 

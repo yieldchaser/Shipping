@@ -90,8 +90,8 @@ information on the services and research products offered by our Marine Projects
 
 ![Exhibit 1: Syria of Events](../../../charts/poten/2011/poten_2011-09-09_syria-of-events_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2011/poten_2011-09-09_syria-of-events_chart1.png)
+> **Interactive Asset:** [Local Asset (200 DPI PNG)](../../../charts/poten/2011/poten_2011-09-09_syria-of-events_chart1.png)
 
 ![Exhibit 2: Syria of Events](../../../charts/poten/2011/poten_2011-09-09_syria-of-events_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2011/poten_2011-09-09_syria-of-events_chart2.png)
+> **Interactive Asset:** [Local Asset (200 DPI PNG)](../../../charts/poten/2011/poten_2011-09-09_syria-of-events_chart2.png)

@@ -38,10 +38,10 @@ In this increasingly complex environment, the defining characteristic of the glo
 
 Missing image: https://images.squarespace-cdn.com/content/v1/5a4d1d26e5dd5b537a6647c5/1774212371442-WDXBBANROKUNFRQKP313/%CE%A3%CF%84%CE%B9%CE%B3%CE%BC%CE%B9%CF%8C%CF%84%CF%85%CF%80%CE%BF+%CE%BF%CE%B8%CF%8C%CE%BD%CE%B7%CF%82+2026-03-22+224257.png
 
-![Στιγμιότυπο Οθόνης 2026 03 22 224245](assets/2026-03-23_the-global-economic-landscape_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_e0f7f4dc7859.png)
+![Στιγμιότυπο Οθόνης 2026 03 22 224245](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-03-23_the-global-economic-landscape_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_e0f7f4dc7859.png)
 
 > **Figure 1: Στιγμιότυπο Οθόνης 2026 03 22 224245**  
-> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-03-23_the-global-economic-landscape_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_e0f7f4dc7859.png)
+> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-03-23_the-global-economic-landscape_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_e0f7f4dc7859.png)
 
 Data source:[Doric](https://www.doric.gr/)
 

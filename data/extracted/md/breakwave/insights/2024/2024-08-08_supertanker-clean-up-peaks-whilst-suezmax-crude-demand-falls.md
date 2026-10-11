@@ -52,10 +52,10 @@ There are two factors at play for this development:
 - A weakening of the current mainstream Suezmax market (rates currently at 2024-lows) likely has attracted vessels to the Russian trades
 - These vessels predominantly operate
 
-![Στιγμιότυπο Οθόνης 2024 08 08 125815](assets/2024-08-08_supertanker-clean-up-peaks-whilst-suezmax-crude-demand-falls_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_4066efdfe41f.png)
+![Στιγμιότυπο Οθόνης 2024 08 08 125815](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-08-08_supertanker-clean-up-peaks-whilst-suezmax-crude-demand-falls_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_4066efdfe41f.png)
 
 > **Figure 1: Στιγμιότυπο Οθόνης 2024 08 08 125815**  
-> **Interactive Data & Source:** [Vortexa](https://www.vortexa.com//oil-gas-data-traders-analysts-data-scientists?gclid=Cj0KCQjw8_qRBhCXARIsAE2AtRZKOvMnbilZ_6_91d7huSFFy71pWLrnPwGwOHVzXsmsG-1a1mZnQw8aAt89EALw_wcB&hsa_acc=1782073842&hsa_ad=548425387665&hsa_cam=14746637662&hsa_grp=125038601902&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_src=g&hsa_tgt=dsa-1431852288425&hsa_ver=3&utm_campaign=%5BCD%5D%20-%20DSA%20-%20EMEA&utm_medium=cpc&utm_medium=ppc&utm_source=google&utm_source=adwords&utm_term=) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-08-08_supertanker-clean-up-peaks-whilst-suezmax-crude-demand-falls_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_4066efdfe41f.png)
+> **Interactive Data & Source:** [Vortexa](https://www.vortexa.com//oil-gas-data-traders-analysts-data-scientists?gclid=Cj0KCQjw8_qRBhCXARIsAE2AtRZKOvMnbilZ_6_91d7huSFFy71pWLrnPwGwOHVzXsmsG-1a1mZnQw8aAt89EALw_wcB&hsa_acc=1782073842&hsa_ad=548425387665&hsa_cam=14746637662&hsa_grp=125038601902&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_src=g&hsa_tgt=dsa-1431852288425&hsa_ver=3&utm_campaign=%5BCD%5D%20-%20DSA%20-%20EMEA&utm_medium=cpc&utm_medium=ppc&utm_source=google&utm_source=adwords&utm_term=) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-08-08_supertanker-clean-up-peaks-whilst-suezmax-crude-demand-falls_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_4066efdfe41f.png)
 
 ### Clean – East of Suez: Supertankers Cleaning Up Reach a Recordhigh in July, Trend Will Likely Subside
 
@@ -73,10 +73,10 @@ The trend, however, will likely subside going forward:
 - There are no indications of new vessels cleaning up via fixture data
 - LR2 East-to-West freight rates have almost halved since May, making the segment more financially attractive to traders
 
-![Στιγμιότυπο Οθόνης 2024 08 08 125829](assets/2024-08-08_supertanker-clean-up-peaks-whilst-suezmax-crude-demand-falls_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_8f069b7a3f73.png)
+![Στιγμιότυπο Οθόνης 2024 08 08 125829](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-08-08_supertanker-clean-up-peaks-whilst-suezmax-crude-demand-falls_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_8f069b7a3f73.png)
 
 > **Figure 2: Στιγμιότυπο Οθόνης 2024 08 08 125829**  
-> **Interactive Data & Source:** [Vortexa](https://www.vortexa.com//oil-gas-data-traders-analysts-data-scientists?gclid=Cj0KCQjw8_qRBhCXARIsAE2AtRZKOvMnbilZ_6_91d7huSFFy71pWLrnPwGwOHVzXsmsG-1a1mZnQw8aAt89EALw_wcB&hsa_acc=1782073842&hsa_ad=548425387665&hsa_cam=14746637662&hsa_grp=125038601902&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_src=g&hsa_tgt=dsa-1431852288425&hsa_ver=3&utm_campaign=%5BCD%5D%20-%20DSA%20-%20EMEA&utm_medium=cpc&utm_medium=ppc&utm_source=google&utm_source=adwords&utm_term=) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-08-08_supertanker-clean-up-peaks-whilst-suezmax-crude-demand-falls_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_8f069b7a3f73.png)
+> **Interactive Data & Source:** [Vortexa](https://www.vortexa.com//oil-gas-data-traders-analysts-data-scientists?gclid=Cj0KCQjw8_qRBhCXARIsAE2AtRZKOvMnbilZ_6_91d7huSFFy71pWLrnPwGwOHVzXsmsG-1a1mZnQw8aAt89EALw_wcB&hsa_acc=1782073842&hsa_ad=548425387665&hsa_cam=14746637662&hsa_grp=125038601902&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_src=g&hsa_tgt=dsa-1431852288425&hsa_ver=3&utm_campaign=%5BCD%5D%20-%20DSA%20-%20EMEA&utm_medium=cpc&utm_medium=ppc&utm_source=google&utm_source=adwords&utm_term=) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-08-08_supertanker-clean-up-peaks-whilst-suezmax-crude-demand-falls_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_8f069b7a3f73.png)
 
 ### Dirty – West of Suez: Global Suezmax Tonne-Mile Demand Falling, But Voyage Counts Remain High From Intra-Regional and USG Trade
 
@@ -89,10 +89,10 @@ However, Suezmax voyage counts are well above seasonal highs, coming from an inc
 - Some momentum may be gathering in the Atlantic Basin, which could support demand moving forwards July saw a large increase in tonne-miles from US Gulf-to-Europe, as crude exports to Europe remain high amid flagging Asian demand for US crude
 - Recent fixing of VLCCs Brazil-to-Europe will likely be capped by falling Suezmax rates, which could entice charterers to fix on Suezmaxes instead
 
-![Στιγμιότυπο Οθόνης 2024 08 08 125846](assets/2024-08-08_supertanker-clean-up-peaks-whilst-suezmax-crude-demand-falls_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_875d6c0889a0.png)
+![Στιγμιότυπο Οθόνης 2024 08 08 125846](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-08-08_supertanker-clean-up-peaks-whilst-suezmax-crude-demand-falls_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_875d6c0889a0.png)
 
 > **Figure 3: Στιγμιότυπο Οθόνης 2024 08 08 125846**  
-> **Interactive Data & Source:** [Vortexa](https://www.vortexa.com//oil-gas-data-traders-analysts-data-scientists?gclid=Cj0KCQjw8_qRBhCXARIsAE2AtRZKOvMnbilZ_6_91d7huSFFy71pWLrnPwGwOHVzXsmsG-1a1mZnQw8aAt89EALw_wcB&hsa_acc=1782073842&hsa_ad=548425387665&hsa_cam=14746637662&hsa_grp=125038601902&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_src=g&hsa_tgt=dsa-1431852288425&hsa_ver=3&utm_campaign=%5BCD%5D%20-%20DSA%20-%20EMEA&utm_medium=cpc&utm_medium=ppc&utm_source=google&utm_source=adwords&utm_term=) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-08-08_supertanker-clean-up-peaks-whilst-suezmax-crude-demand-falls_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_875d6c0889a0.png)
+> **Interactive Data & Source:** [Vortexa](https://www.vortexa.com//oil-gas-data-traders-analysts-data-scientists?gclid=Cj0KCQjw8_qRBhCXARIsAE2AtRZKOvMnbilZ_6_91d7huSFFy71pWLrnPwGwOHVzXsmsG-1a1mZnQw8aAt89EALw_wcB&hsa_acc=1782073842&hsa_ad=548425387665&hsa_cam=14746637662&hsa_grp=125038601902&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_src=g&hsa_tgt=dsa-1431852288425&hsa_ver=3&utm_campaign=%5BCD%5D%20-%20DSA%20-%20EMEA&utm_medium=cpc&utm_medium=ppc&utm_source=google&utm_source=adwords&utm_term=) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-08-08_supertanker-clean-up-peaks-whilst-suezmax-crude-demand-falls_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_875d6c0889a0.png)
 
 ### Clean – West of Suez: Will a Drop in MR Availability Provide a Floor to Tc18 Freight Rates?
 

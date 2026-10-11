@@ -44,10 +44,10 @@ Russian fuel oil exports could see further upside in Q4 as refineries ramp up po
 
 However, Middle East refineries are expected to enter planned maintenance next quarter, which could dampen fuel oil supplies from the region
 
-![Στιγμιότυπο Οθόνης 2024 09 26 080618](assets/2024-09-26_more-supertanker-clean-ups-in-store-as-cleandirty-rates-spread-widens_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_cce767bb8bbf.png)
+![Στιγμιότυπο Οθόνης 2024 09 26 080618](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-09-26_more-supertanker-clean-ups-in-store-as-cleandirty-rates-spread-widens_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_cce767bb8bbf.png)
 
 > **Figure 1: Στιγμιότυπο Οθόνης 2024 09 26 080618**  
-> **Interactive Data & Source:** [Vortexa](https://www.vortexa.com//oil-gas-data-traders-analysts-data-scientists?gclid=Cj0KCQjw8_qRBhCXARIsAE2AtRZKOvMnbilZ_6_91d7huSFFy71pWLrnPwGwOHVzXsmsG-1a1mZnQw8aAt89EALw_wcB&hsa_acc=1782073842&hsa_ad=548425387665&hsa_cam=14746637662&hsa_grp=125038601902&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_src=g&hsa_tgt=dsa-1431852288425&hsa_ver=3&utm_campaign=%5BCD%5D%20-%20DSA%20-%20EMEA&utm_medium=cpc&utm_medium=ppc&utm_source=google&utm_source=adwords&utm_term=) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-09-26_more-supertanker-clean-ups-in-store-as-cleandirty-rates-spread-widens_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_cce767bb8bbf.png)
+> **Interactive Data & Source:** [Vortexa](https://www.vortexa.com//oil-gas-data-traders-analysts-data-scientists?gclid=Cj0KCQjw8_qRBhCXARIsAE2AtRZKOvMnbilZ_6_91d7huSFFy71pWLrnPwGwOHVzXsmsG-1a1mZnQw8aAt89EALw_wcB&hsa_acc=1782073842&hsa_ad=548425387665&hsa_cam=14746637662&hsa_grp=125038601902&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_src=g&hsa_tgt=dsa-1431852288425&hsa_ver=3&utm_campaign=%5BCD%5D%20-%20DSA%20-%20EMEA&utm_medium=cpc&utm_medium=ppc&utm_source=google&utm_source=adwords&utm_term=) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-09-26_more-supertanker-clean-ups-in-store-as-cleandirty-rates-spread-widens_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_cce767bb8bbf.png)
 
 ## Clean – East of Suez: Clean Supertankers Slashed Lr Rates in Half, But Clean/dirty Tanker Freight Spread Widens Once Again
 
@@ -61,10 +61,10 @@ However, Middle East refineries are expected to enter planned maintenance next q
 
 However, support of LRs for the naphtha flows East and limited availability for LRs in the MEG has once again widened the spread between clean and dirty tankers, suggesting the cleaning-up trend may continue
 
-![Στιγμιότυπο Οθόνης 2024 09 26 160521](assets/2024-09-26_more-supertanker-clean-ups-in-store-as-cleandirty-rates-spread-widens_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_da38de672d12.png)
+![Στιγμιότυπο Οθόνης 2024 09 26 160521](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-09-26_more-supertanker-clean-ups-in-store-as-cleandirty-rates-spread-widens_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_da38de672d12.png)
 
 > **Figure 2: Στιγμιότυπο Οθόνης 2024 09 26 160521**  
-> **Interactive Data & Source:** [Vortexa](https://www.vortexa.com//oil-gas-data-traders-analysts-data-scientists?gclid=Cj0KCQjw8_qRBhCXARIsAE2AtRZKOvMnbilZ_6_91d7huSFFy71pWLrnPwGwOHVzXsmsG-1a1mZnQw8aAt89EALw_wcB&hsa_acc=1782073842&hsa_ad=548425387665&hsa_cam=14746637662&hsa_grp=125038601902&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_src=g&hsa_tgt=dsa-1431852288425&hsa_ver=3&utm_campaign=%5BCD%5D%20-%20DSA%20-%20EMEA&utm_medium=cpc&utm_medium=ppc&utm_source=google&utm_source=adwords&utm_term=) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-09-26_more-supertanker-clean-ups-in-store-as-cleandirty-rates-spread-widens_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_da38de672d12.png)
+> **Interactive Data & Source:** [Vortexa](https://www.vortexa.com//oil-gas-data-traders-analysts-data-scientists?gclid=Cj0KCQjw8_qRBhCXARIsAE2AtRZKOvMnbilZ_6_91d7huSFFy71pWLrnPwGwOHVzXsmsG-1a1mZnQw8aAt89EALw_wcB&hsa_acc=1782073842&hsa_ad=548425387665&hsa_cam=14746637662&hsa_grp=125038601902&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_src=g&hsa_tgt=dsa-1431852288425&hsa_ver=3&utm_campaign=%5BCD%5D%20-%20DSA%20-%20EMEA&utm_medium=cpc&utm_medium=ppc&utm_source=google&utm_source=adwords&utm_term=) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-09-26_more-supertanker-clean-ups-in-store-as-cleandirty-rates-spread-widens_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_da38de672d12.png)
 
 ## Dirty – West of Suez: Aframaxes Lose Out to Suezmaxes on the Transatlantic Route, But Plummeting Freight Rate Spread Could Spark a Reversal
 
@@ -80,10 +80,10 @@ Suezmax voyage counts on the route have remained high during most of 2024, eatin
 
 However, demand will likely face headwinds as European refinery maintenance season is underway
 
-![Στιγμιότυπο Οθόνης 2024 09 26 081018](assets/2024-09-26_more-supertanker-clean-ups-in-store-as-cleandirty-rates-spread-widens_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_9e1b1c2a9075.png)
+![Στιγμιότυπο Οθόνης 2024 09 26 081018](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-09-26_more-supertanker-clean-ups-in-store-as-cleandirty-rates-spread-widens_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_9e1b1c2a9075.png)
 
 > **Figure 3: Στιγμιότυπο Οθόνης 2024 09 26 081018**  
-> **Interactive Data & Source:** [Vortexa](https://www.vortexa.com//oil-gas-data-traders-analysts-data-scientists?gclid=Cj0KCQjw8_qRBhCXARIsAE2AtRZKOvMnbilZ_6_91d7huSFFy71pWLrnPwGwOHVzXsmsG-1a1mZnQw8aAt89EALw_wcB&hsa_acc=1782073842&hsa_ad=548425387665&hsa_cam=14746637662&hsa_grp=125038601902&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_src=g&hsa_tgt=dsa-1431852288425&hsa_ver=3&utm_campaign=%5BCD%5D%20-%20DSA%20-%20EMEA&utm_medium=cpc&utm_medium=ppc&utm_source=google&utm_source=adwords&utm_term=) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-09-26_more-supertanker-clean-ups-in-store-as-cleandirty-rates-spread-widens_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_9e1b1c2a9075.png)
+> **Interactive Data & Source:** [Vortexa](https://www.vortexa.com//oil-gas-data-traders-analysts-data-scientists?gclid=Cj0KCQjw8_qRBhCXARIsAE2AtRZKOvMnbilZ_6_91d7huSFFy71pWLrnPwGwOHVzXsmsG-1a1mZnQw8aAt89EALw_wcB&hsa_acc=1782073842&hsa_ad=548425387665&hsa_cam=14746637662&hsa_grp=125038601902&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_src=g&hsa_tgt=dsa-1431852288425&hsa_ver=3&utm_campaign=%5BCD%5D%20-%20DSA%20-%20EMEA&utm_medium=cpc&utm_medium=ppc&utm_source=google&utm_source=adwords&utm_term=) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-09-26_more-supertanker-clean-ups-in-store-as-cleandirty-rates-spread-widens_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_9e1b1c2a9075.png)
 
 ## Clean – West of Suez: Mrs Trading in Russia Trade Flexibly and Opportunistically, Moving Between Russia and Other Markets
 
@@ -99,10 +99,10 @@ These flexible trade patterns are unchanged y-o-y (see chart), underscoring the 
 
 This flexibility and interaction with the mainstream market is not experienced by the fleet trading Russian crude, which mostly only lift Russian and other sanctioned crude cargoes, due to Russian crude pricing above the cap and subsequent sanctions enforcement
 
-![Στιγμιότυπο Οθόνης 2024 09 26 081229](assets/2024-09-26_more-supertanker-clean-ups-in-store-as-cleandirty-rates-spread-widens_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_4c8fa6aed68c.png)
+![Στιγμιότυπο Οθόνης 2024 09 26 081229](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-09-26_more-supertanker-clean-ups-in-store-as-cleandirty-rates-spread-widens_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_4c8fa6aed68c.png)
 
 > **Figure 4: Στιγμιότυπο Οθόνης 2024 09 26 081229**  
-> **Interactive Data & Source:** [Vortexa](https://www.vortexa.com//oil-gas-data-traders-analysts-data-scientists?gclid=Cj0KCQjw8_qRBhCXARIsAE2AtRZKOvMnbilZ_6_91d7huSFFy71pWLrnPwGwOHVzXsmsG-1a1mZnQw8aAt89EALw_wcB&hsa_acc=1782073842&hsa_ad=548425387665&hsa_cam=14746637662&hsa_grp=125038601902&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_src=g&hsa_tgt=dsa-1431852288425&hsa_ver=3&utm_campaign=%5BCD%5D%20-%20DSA%20-%20EMEA&utm_medium=cpc&utm_medium=ppc&utm_source=google&utm_source=adwords&utm_term=) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-09-26_more-supertanker-clean-ups-in-store-as-cleandirty-rates-spread-widens_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_4c8fa6aed68c.png)
+> **Interactive Data & Source:** [Vortexa](https://www.vortexa.com//oil-gas-data-traders-analysts-data-scientists?gclid=Cj0KCQjw8_qRBhCXARIsAE2AtRZKOvMnbilZ_6_91d7huSFFy71pWLrnPwGwOHVzXsmsG-1a1mZnQw8aAt89EALw_wcB&hsa_acc=1782073842&hsa_ad=548425387665&hsa_cam=14746637662&hsa_grp=125038601902&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_src=g&hsa_tgt=dsa-1431852288425&hsa_ver=3&utm_campaign=%5BCD%5D%20-%20DSA%20-%20EMEA&utm_medium=cpc&utm_medium=ppc&utm_source=google&utm_source=adwords&utm_term=) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-09-26_more-supertanker-clean-ups-in-store-as-cleandirty-rates-spread-widens_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_4c8fa6aed68c.png)
 
 Data Source:[Vortexa](https://www.vortexa.com//oil-gas-data-traders-analysts-data-scientists?gclid=Cj0KCQjw8_qRBhCXARIsAE2AtRZKOvMnbilZ_6_91d7huSFFy71pWLrnPwGwOHVzXsmsG-1a1mZnQw8aAt89EALw_wcB&hsa_acc=1782073842&hsa_ad=548425387665&hsa_cam=14746637662&hsa_grp=125038601902&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_src=g&hsa_tgt=dsa-1431852288425&hsa_ver=3&utm_campaign=%5BCD%5D%20-%20DSA%20-%20EMEA&utm_medium=cpc&utm_medium=ppc&utm_source=google&utm_source=adwords&utm_term=)
 

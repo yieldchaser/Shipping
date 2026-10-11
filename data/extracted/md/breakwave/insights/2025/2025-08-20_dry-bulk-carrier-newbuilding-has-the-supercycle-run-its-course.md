@@ -20,33 +20,33 @@ source_file: "corpus/03-breakwave/insights/2025/2025-08-20_dry-bulk-carrier-newb
 
 ---
 
-![Rgb Color Brs Shipbrokers Monogram Logo](assets/2025-08-20_dry-bulk-carrier-newbuilding-has-the-supercycle-run-its-course_img_rgb-color-brs-shipbrokers-monogram-l_ee79606c8e74.png)
+![Rgb Color Brs Shipbrokers Monogram Logo](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-08-20_dry-bulk-carrier-newbuilding-has-the-supercycle-run-its-course_img_rgb-color-brs-shipbrokers-monogram-l_ee79606c8e74.png)
 
 > **Figure 1: Rgb Color Brs Shipbrokers Monogram Logo**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-08-20_dry-bulk-carrier-newbuilding-has-the-supercycle-run-its-course_img_rgb-color-brs-shipbrokers-monogram-l_ee79606c8e74.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-08-20_dry-bulk-carrier-newbuilding-has-the-supercycle-run-its-course_img_rgb-color-brs-shipbrokers-monogram-l_ee79606c8e74.png)
 
 In the first seven months of 2025, dry bulker ordering activity has experienced an unusually deep slump compared to the last few years.
 
-![Στιγμιότυπο Οθόνης 2025 08 19 103538](assets/2025-08-20_dry-bulk-carrier-newbuilding-has-the-supercycle-run-its-course_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_a3147569a610.png)
+![Στιγμιότυπο Οθόνης 2025 08 19 103538](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-08-20_dry-bulk-carrier-newbuilding-has-the-supercycle-run-its-course_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_a3147569a610.png)
 
 > **Figure 2: Στιγμιότυπο Οθόνης 2025 08 19 103538**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-08-20_dry-bulk-carrier-newbuilding-has-the-supercycle-run-its-course_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_a3147569a610.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-08-20_dry-bulk-carrier-newbuilding-has-the-supercycle-run-its-course_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_a3147569a610.png)
 
 New orders for dry bulk carriers plummeted by 63% year-on-year in the first seven months of 2025, totalling only 15.46 million Dwt. This sharp decline stands in stark contrast to the historic peak in 2024, when annual orders hit 63.91 million Dwt—the highest level in the past decade.
 
 The slump can be partly attributed to prices remaining persistently high while many dry bulker markets have languished at relatively low levels. Notably, the China Newbuilding Dry Bulk Price Index (CNDPI – an index system assessed by a professional committee consisting of 21 domestic and foreign shipbrokers) averaged its highest level since records began in 2011 during the first seven months of 2025. However, it should be noted that price movements typically lag behind order volumes. Indeed, prices are now starting to weaken and accordingly The CNDPI currently stands 3.3% below its peak of 1,167 points recorded in September–October 2024. With shipbuilding activity reaching its highest level, there remains room for further downward adjustment. By deadweight tonnage, Capesize orders totaled 8.85 million DWT (57% of the total), followed by Supramax at 4.90 million DWT (31%), driven by strong performance in the Capesize and Supramax chartering markets. In contrast, Panamax and Handysize orders combined amounted to just 417,000 DWT (3%).
 
-![Στιγμιότυπο Οθόνης 2025 08 19 103549](assets/2025-08-20_dry-bulk-carrier-newbuilding-has-the-supercycle-run-its-course_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_a6a8dadbfb2a.png)
+![Στιγμιότυπο Οθόνης 2025 08 19 103549](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-08-20_dry-bulk-carrier-newbuilding-has-the-supercycle-run-its-course_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_a6a8dadbfb2a.png)
 
 > **Figure 3: Στιγμιότυπο Οθόνης 2025 08 19 103549**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-08-20_dry-bulk-carrier-newbuilding-has-the-supercycle-run-its-course_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_a6a8dadbfb2a.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-08-20_dry-bulk-carrier-newbuilding-has-the-supercycle-run-its-course_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_a6a8dadbfb2a.png)
 
 In terms of vessel count, a total of 165 orders were placed in the first seven months of 2025, with Supramax accounting for 55%, Capesize for 23%, and combined Panamax and Handysize to 11%. Whether measured in deadweight or vessel count, this year’s order volume is likely to be the lowest in the past decade, compared to the ten-year average of 485 vessels.
 
-![Στιγμιότυπο Οθόνης 2025 08 19 103602](assets/2025-08-20_dry-bulk-carrier-newbuilding-has-the-supercycle-run-its-course_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_adb28d2aefa5.png)
+![Στιγμιότυπο Οθόνης 2025 08 19 103602](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-08-20_dry-bulk-carrier-newbuilding-has-the-supercycle-run-its-course_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_adb28d2aefa5.png)
 
 > **Figure 4: Στιγμιότυπο Οθόνης 2025 08 19 103602**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-08-20_dry-bulk-carrier-newbuilding-has-the-supercycle-run-its-course_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_adb28d2aefa5.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-08-20_dry-bulk-carrier-newbuilding-has-the-supercycle-run-its-course_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_adb28d2aefa5.png)
 
 China remains the top source of orders among the top five ordering nations (with fifth and sixth place tied). However, overall orders from Chinese owners fell by 48.6% compared to the same period last year. Rather than reflecting the recent USTR proposals, this decline more reflects the exceptional number of orders placed by Chinese owners last year. However, China’s Capesize orders actually grew by 36.4% year-on-year as 30 units were contracted. This reflects the "National Cargo, National Fleet" strategy initiated last year by COSCO - the country’s largest shipping conglomerate - which is accelerating an ambitious 100-vessel construction plan. For example, in July the group placed orders for 10 Capesizes split between Qingdao Beihai Shipyard and COSCO Shipping Zhoushan Shipyard scheduled for delivery between 4Q27 and 4Q28. Additionally, Shandong Shipping ordered 10 methanol dual-fuel 320,000 Dwt vessels at Qingdao Beihai Shipyard in June.
 
@@ -58,10 +58,10 @@ One reason behind this trend is existing dry bulker fleet which is teetering on 
 
 ### 1. High Newbuilding Prices (Relative to Vessel Earnings)
 
-![Στιγμιότυπο Οθόνης 2025 08 19 103614](assets/2025-08-20_dry-bulk-carrier-newbuilding-has-the-supercycle-run-its-course_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_7c778223e849.png)
+![Στιγμιότυπο Οθόνης 2025 08 19 103614](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-08-20_dry-bulk-carrier-newbuilding-has-the-supercycle-run-its-course_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_7c778223e849.png)
 
 > **Figure 5: Στιγμιότυπο Οθόνης 2025 08 19 103614**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-08-20_dry-bulk-carrier-newbuilding-has-the-supercycle-run-its-course_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_7c778223e849.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-08-20_dry-bulk-carrier-newbuilding-has-the-supercycle-run-its-course_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_7c778223e849.png)
 
 Newbuilding prices surged across the board in 2024, with Capesize prices rising by 11.4% and even Handysize inching up by 4%. This spike was driven by two main factors:
 

@@ -30,8 +30,8 @@ Tanker owners currently face the best of both worlds: a strong negotiating posit
 
 ![Exhibit 1: Building for the Future](../../../charts/poten/2015/poten_2015-07-31_building-for-the-future_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2015/poten_2015-07-31_building-for-the-future_chart1.png)
+> **Interactive Asset:** [Local Asset (200 DPI PNG)](../../../charts/poten/2015/poten_2015-07-31_building-for-the-future_chart1.png)
 
 ![Exhibit 2: Building for the Future](../../../charts/poten/2015/poten_2015-07-31_building-for-the-future_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2015/poten_2015-07-31_building-for-the-future_chart2.png)
+> **Interactive Asset:** [Local Asset (200 DPI PNG)](../../../charts/poten/2015/poten_2015-07-31_building-for-the-future_chart2.png)

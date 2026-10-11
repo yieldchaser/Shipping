@@ -36,8 +36,8 @@ It is safe to assume that while the crude export situation is uncertain, Libya w
 
 ![Exhibit 1: More From The Med Maybe](../../../charts/poten/2016/poten_2016-04-08_more-from-the-med-maybe_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2016/poten_2016-04-08_more-from-the-med-maybe_chart1.png)
+> **Interactive Asset:** [Local Asset (200 DPI PNG)](../../../charts/poten/2016/poten_2016-04-08_more-from-the-med-maybe_chart1.png)
 
 ![Exhibit 2: More From The Med Maybe](../../../charts/poten/2016/poten_2016-04-08_more-from-the-med-maybe_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2016/poten_2016-04-08_more-from-the-med-maybe_chart2.png)
+> **Interactive Asset:** [Local Asset (200 DPI PNG)](../../../charts/poten/2016/poten_2016-04-08_more-from-the-med-maybe_chart2.png)

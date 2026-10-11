@@ -30,10 +30,10 @@ In the first article we started off by having a look at the[big picture](https:/
 
 The industry convention is to include bauxite in the minor bulks group. However, as bauxite stem sizes and average distance traveled has increased rapidly in recent years, we believe it is long overdue to move bauxite out of the minor bulks group which is dominated by geared vessels. Bauxite had a 3.1%* market share in total dry bulk trade measured by volume in 2019 (left chart below). The demand for vessels cannot simply be derived from volume - we need to take distance and trade inefficiencies into account as well - as time spent on the total transport work is what ultimately impacts the aggregated demand for vessels. If we measure the share of minor bulks in total dry bulk trade by using the Dwt x Duration metric, we end up with a market share of closer to 3.6% in 2019 (chart in the middle below), which is higher the volume based market share. In the first ten months of 2020 the market share of bauxite in total vessel demand has increased further to 4.2%.
 
-![Bmr 30](assets/2020-11-27_2021-dry-bulk-outlook-bauxite_img_bmr30_df5339dc15f8.png)
+![Bmr 30](../../../../../../corpus/03-breakwave/insights/2020/assets/2020-11-27_2021-dry-bulk-outlook-bauxite_img_bmr30_df5339dc15f8.png)
 
 > **Figure 1: Bmr 30**  
-> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2020/11/20/2021-dry-bulk-outlook-minor-bulks) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2020/assets/2020-11-27_2021-dry-bulk-outlook-bauxite_img_bmr30_df5339dc15f8.png)
+> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2020/11/20/2021-dry-bulk-outlook-minor-bulks) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2020/assets/2020-11-27_2021-dry-bulk-outlook-bauxite_img_bmr30_df5339dc15f8.png)
 
 If we break it down by segment, we clearly see dominance of the larger sizes. 40% of all bauxite volumes were carried on Panamaxes in 2019 (right chart above), followed by Capesize at 36%. The market share of the Supramax segment is 19% while the market share of the Handysize segment is about 3%. If we pivot and instead look at the market share of bauxite in each vessel segment’s carrying capacity, we see that bauxite constitutes 6.7% of the demand for Capesize vessels in 2019, 3.6% of the demand for Panamax vessels and 2.7% of the demand for Supramaxes (middle graph).
 
@@ -45,10 +45,10 @@ Bauxite ore is the world’s primary source of aluminum. The ore must first be c
 
 Most of the demand for Bauxite comes from China. The seaborne bauxite trade totaled 166Mt in 2019, whereof 119Mt was destined for China. China has grown their market share steadily from 64% in 2015 to 74% in 2019. In the first ten months of 2020 China’s market share has increased with another percentage point. The second largest import region is the Atlantic, where EU and North America are the largest demand centers.
 
-![Bmr 31](assets/2020-11-27_2021-dry-bulk-outlook-bauxite_img_bmr31_6c3c1473e62e.png)
+![Bmr 31](../../../../../../corpus/03-breakwave/insights/2020/assets/2020-11-27_2021-dry-bulk-outlook-bauxite_img_bmr31_6c3c1473e62e.png)
 
 > **Figure 2: Bmr 31**  
-> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2020/11/20/2021-dry-bulk-outlook-minor-bulks) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2020/assets/2020-11-27_2021-dry-bulk-outlook-bauxite_img_bmr31_6c3c1473e62e.png)
+> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2020/11/20/2021-dry-bulk-outlook-minor-bulks) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2020/assets/2020-11-27_2021-dry-bulk-outlook-bauxite_img_bmr31_6c3c1473e62e.png)
 
 The global aluminum demand and bauxite demand is widely expected to grow in the coming years with steady demand growth in Asia and increased usage of aluminum in industries such as automotive and aerospace.
 
@@ -56,17 +56,17 @@ The global aluminum demand and bauxite demand is widely expected to grow in the 
 
 Indonesia used to be a major bauxite exporter, but that position ended in 2014 when the ban on export of unprocessed minerals was implemented ([further details here](https://www.breakwaveadvisors.com/insights/2020/11/20/2021-dry-bulk-outlook-minor-bulks)). Those miners who has started the process of building alumina refineries has since been allowed to restart exports. Under the current rules, exports of bauxite are allowed until January 11, 2022. Malaysia opportunistically stepped in and filled the void by increased export through port of Kuantan in 2015. However, the export was stopped in 2016 due to environmental reasons. From 2016 onwards the growth in seaborne bauxite supply has been all about West-Africa and Australia (see mid graph below). Global Bauxite export has increased with 81% between 2013 and 2019. The shift in export from South-East Asia to West-Africa and Australia has also been very positive for drybulk as a whole as this greatly increases the average distance of the transport work. If we use our dwt*duration metric we see that the bauxite derived demand for vessels has increased a massive 144% during the same period. The increase in transport work has been healthy in all segments, but it is clearly the Capesize segment which has benefitted the most. The growth in bauxite derived demand during the 2013-2019 period has been about 50% for the vessels with a dwt below 100k. This is healthy but is dwarfed by the fivefold increase in demand witnessed in the Capesize segment. The reason why the Capesize segment has seen such a high growth in bauxite derived demand is that this is the preferred carrier of the longhaul trade from West-Africa to China (see right graph below).
 
-![Bmr 32](assets/2020-11-27_2021-dry-bulk-outlook-bauxite_img_bmr32_308bcbcc68f1.png)
+![Bmr 32](../../../../../../corpus/03-breakwave/insights/2020/assets/2020-11-27_2021-dry-bulk-outlook-bauxite_img_bmr32_308bcbcc68f1.png)
 
 > **Figure 3: Bmr 32**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2020/assets/2020-11-27_2021-dry-bulk-outlook-bauxite_img_bmr32_308bcbcc68f1.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2020/assets/2020-11-27_2021-dry-bulk-outlook-bauxite_img_bmr32_308bcbcc68f1.png)
 
 Global export volumes are up 13% in the first 10 months of 2020. The growth engine is once again West Africa with a 25% growth in volume. Guinean export represents most West-African export with a 97% market share. We have seen a clear seasonal pattern in the Guinean export in recent years where the export slows down during the monsoon season in July and thereafter improves gradually towards the dry season which starts in December and last until May. The annualized export rate in the first ten months of 2020 amounts to 82 million tonnes. Chinese companies are investing heavily in Guinea and ramping up export. In addition, you have EGA, based in Abu Dhabi, who is in the middle of their ramp up in exports. The current pipeline of projects under construction will ensure that the production and export of in Guinea will continue to grow at a strong pace in 2021 and in the years thereafter. With a 95% market share on the Guinea-China trade route the beneficiary of this volume growth will be the Capesize segment.
 
-![Bmr 33](assets/2020-11-27_2021-dry-bulk-outlook-bauxite_img_bmr33_222e884b5369.png)
+![Bmr 33](../../../../../../corpus/03-breakwave/insights/2020/assets/2020-11-27_2021-dry-bulk-outlook-bauxite_img_bmr33_222e884b5369.png)
 
 > **Figure 4: Bmr 33**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2020/assets/2020-11-27_2021-dry-bulk-outlook-bauxite_img_bmr33_222e884b5369.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2020/assets/2020-11-27_2021-dry-bulk-outlook-bauxite_img_bmr33_222e884b5369.png)
 
 Australia is the second largest exporter in the world with 41 million tonnes exported in 2019. The compound average growth rate in export between 2015 and 2019 was at an impressive 22%. Year to date growth rates in exports has slowed to 1%. Going forward it is expected that production and export will maintain a steady growth supported by a solid project pipeline. The vessel segment that will benefit most from such a ramp up will be the Panamaxes with a current market share in exports of 84%.
 
@@ -74,11 +74,11 @@ The Indonesian bauxite export is very likely to continue its ramp up in exports 
 
 Based on the current project pipeline we are confident that the bauxite trade will grow at a healthy rate in 2021 and in the coming decade.
 
-![All Trade Growth Numbers in This Article Is Derived From Our](assets/2020-11-27_2021-dry-bulk-outlook-bauxite_img_bmr34_a7994417832a.png)
+![All Trade Growth Numbers in This Article Is Derived From Our](../../../../../../corpus/03-breakwave/insights/2020/assets/2020-11-27_2021-dry-bulk-outlook-bauxite_img_bmr34_a7994417832a.png)
 
 > **Figure 5: All Trade Growth Numbers in This Article Is Derived From Our**  
 > **All trade growth numbers in this article is derived from our in-house analytical platform which includes data and material from AXSMarine, all rights reserved.*  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2020/assets/2020-11-27_2021-dry-bulk-outlook-bauxite_img_bmr34_a7994417832a.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2020/assets/2020-11-27_2021-dry-bulk-outlook-bauxite_img_bmr34_a7994417832a.png)
 
 his completes our run down of the dry bulk demand side. Next week we will finish of the series with a look on the supply side.
 

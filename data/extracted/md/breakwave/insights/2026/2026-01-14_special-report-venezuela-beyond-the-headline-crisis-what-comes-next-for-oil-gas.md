@@ -24,10 +24,10 @@ This week, Allied Quantumsea Research reviews Venezuela’s mounting economic an
 
 Venezuela risks losing most of its export revenues if the current sanctions and trade restrictions persist through 2026, a situation that could deepen the country’s economic and humanitarian challenges due to its heavy reliance on energy exports for foreign exchange. Despite holding the world’s largest proven oil reserves, around 300 billion barrels, production has collapsed to roughly 1 million barrels per day, a fraction of past output due to underinvestment, infrastructure decline, and limited market access. Venezuela also possesses large natural gas reserves and significant mineral deposits, but extraction and export remain constrained by structural, legal, and market obstacles. Under these conditions, the key question is not whether Venezuela’s resource sectors can recover, but the pace and framework in which any revival might occur.
 
-![Στιγμιότυπο Οθόνης 2026 01 14 110422](assets/2026-01-14_special-report-venezuela-beyond-the-headline-crisis-what-comes-next-for-oil-gas_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_18b0d45b0a2f.png)
+![Στιγμιότυπο Οθόνης 2026 01 14 110422](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-01-14_special-report-venezuela-beyond-the-headline-crisis-what-comes-next-for-oil-gas_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_18b0d45b0a2f.png)
 
 > **Figure 1: Στιγμιότυπο Οθόνης 2026 01 14 110422**  
-> **Interactive Data & Source:** [Allied-shipbroking](https://www.allied-shipbroking.gr/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-01-14_special-report-venezuela-beyond-the-headline-crisis-what-comes-next-for-oil-gas_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_18b0d45b0a2f.png)
+> **Interactive Data & Source:** [Allied-shipbroking](https://www.allied-shipbroking.gr/) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-01-14_special-report-venezuela-beyond-the-headline-crisis-what-comes-next-for-oil-gas_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_18b0d45b0a2f.png)
 
 ### An Upside, Reform-Contingent Resource Scenario for Venezuela
 

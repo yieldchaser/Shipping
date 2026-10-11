@@ -30,10 +30,10 @@ China has committed to building coal-fired power plants through at least 2027. H
 
 Thermal power generation—primarily coal-based—recorded a 2.3% decline in April and a 4.1% decrease from January to April 2025, according to Reuters (May 19, 2025). Does this suggest coal may be losing its role as the backbone of China’s power system? At the same time, China—the world’s secondlargest economy—achieved significant renewable energy milestones, with solar and wind power growing by 45% and 18% year-on-year, respectively, according to China’s National Energy Administration.
 
-![Στιγμιότυπο Οθόνης 2025 05 30 115338](assets/2025-05-30_coal-power-expansion-china-in-global-context_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_a37620877719.png)
+![Στιγμιότυπο Οθόνης 2025 05 30 115338](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-05-30_coal-power-expansion-china-in-global-context_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_a37620877719.png)
 
 > **Figure 1: Στιγμιότυπο Οθόνης 2025 05 30 115338**  
-> **Interactive Data & Source:** [Allied-shipbroking](https://www.allied-shipbroking.gr/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-05-30_coal-power-expansion-china-in-global-context_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_a37620877719.png)
+> **Interactive Data & Source:** [Allied-shipbroking](https://www.allied-shipbroking.gr/) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-05-30_coal-power-expansion-china-in-global-context_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_a37620877719.png)
 
 ### Utilization at a Record Low
 
@@ -53,10 +53,10 @@ The data in the chart below illustrate the global landscape of coal power develo
 - **Shelved and Cancelled Projects:**China accounts for 66% of shelved capacity and 32% of cancelled projects since 2010.
 - **Retired and Mothballed Plants:**China has retired 25% of global coal plants since 2000 and mothballed 10%. India, by contrast, has retired only 3% and mothballed 2%, indicating a relatively slower phase-out process.
 
-![Στιγμιότυπο Οθόνης 2025 05 30 115707](assets/2025-05-30_coal-power-expansion-china-in-global-context_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_b2a9c6e5b81d.png)
+![Στιγμιότυπο Οθόνης 2025 05 30 115707](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-05-30_coal-power-expansion-china-in-global-context_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_b2a9c6e5b81d.png)
 
 > **Figure 2: Στιγμιότυπο Οθόνης 2025 05 30 115707**  
-> **Interactive Data & Source:** [Allied-shipbroking](https://www.allied-shipbroking.gr/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-05-30_coal-power-expansion-china-in-global-context_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_b2a9c6e5b81d.png)
+> **Interactive Data & Source:** [Allied-shipbroking](https://www.allied-shipbroking.gr/) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-05-30_coal-power-expansion-china-in-global-context_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_b2a9c6e5b81d.png)
 
 Data Source:[Allied](https://www.allied-shipbroking.gr/)
 

@@ -20,11 +20,11 @@ source_file: "corpus/03-breakwave/insights/2026/2026-04-01_controlled-hormuz.htm
 
 ---
 
-![Byeirini Diamantara&dimitris Roumeliotis](assets/2026-04-01_controlled-hormuz_img_unsplash-image-1a1sbme8ovi_ab058a0cb9cb.jpg)
+![Byeirini Diamantara&dimitris Roumeliotis](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-04-01_controlled-hormuz_img_unsplash-image-1a1sbme8ovi_ab058a0cb9cb.jpg)
 
 > **Figure 1: Byeirini Diamantara&dimitris Roumeliotis**  
 > *ByEirini Diamantara&Dimitris Roumeliotis*  
-> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/in/eirini-diamantara-58b269105/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-04-01_controlled-hormuz_img_unsplash-image-1a1sbme8ovi_ab058a0cb9cb.jpg)
+> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/in/eirini-diamantara-58b269105/) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-04-01_controlled-hormuz_img_unsplash-image-1a1sbme8ovi_ab058a0cb9cb.jpg)
 
 The Strait of Hormuz is no longer simply a chokepoint. It is gradually being reshaped into a controlled corridor where access is conditional, selective, and increasingly political. What began as a wartime disruption is now evolving into a structural shift, with Iran attempting to formalise its influence over one of the most critical arteries of global energy trade. The introduction of an “approved passage” system, whether through formal coordination, diplomatic channels, or reportedly even financial arrangements, signals a transition from disruption to governance, albeit one that challenges long-standing norms of free navigation.
 

@@ -30,10 +30,18 @@ Overall, crude oil tanker demand has been relatively flat and rates are down as 
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: Trade Flows In Flux](../../../charts/poten/2018/poten_2018-07-13_trade-flows-in-flux_chart1.png)
+![Exhibit 1: Change in Crude/Dirty Products TonMile Demand (Compared to Prior Year)](../../../charts/poten/2018/poten_2018-07-13_trade-flows-in-flux_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2018/poten_2018-07-13_trade-flows-in-flux_chart1.png)
+> **Exhibit 1: Change in Crude/Dirty Products TonMile Demand (Compared to Prior Year)**  
+> Unit: % · X-axis: 2015 Q1 to 2018 Q2  
+> Series: VLCC, Suezmax, Aframax, Total Crude/Dirty Prods  
+> *Source: Lloyd’s List Intelligence*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2018/poten_2018-07-13_trade-flows-in-flux_chart1.png)
 
-![Exhibit 2: Trade Flows In Flux](../../../charts/poten/2018/poten_2018-07-13_trade-flows-in-flux_chart2.png)
+![Exhibit 2: Change in Crude/Dirty Products Loaded by Region (Compared To Prior Year)](../../../charts/poten/2018/poten_2018-07-13_trade-flows-in-flux_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2018/poten_2018-07-13_trade-flows-in-flux_chart2.png)
+> **Exhibit 2: Change in Crude/Dirty Products Loaded by Region (Compared To Prior Year)**  
+> Unit: Kb/d · X-axis: 2015 Q1 to 2018 Q2  
+> Series: Middle East, Americas, Atl., UKC/Baltic, Med, Asia/Aust., WAF, Americas, Pac., Total Crude/Dirty  
+> *Source: Lloyd’s List Intelligence*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2018/poten_2018-07-13_trade-flows-in-flux_chart2.png)

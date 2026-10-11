@@ -33,9 +33,9 @@ On the same wavelength, the eurozone manufacturing sector continued its sustaine
 
 With Capesizes being in the doldrums and manufacturing activity in contraction across the board, BDI reported an August average of 1150 points, on the low end of the last twenty months. However, China has rolled out a series of policy measures lately that may have a positive bearing on both manufacturing activity and Baltic indices. According to a joint statement by the People’s Bank of China and the National Administration of Financial Regulation, minimum downpayments for mortgages will be cut to 20 percent for first-time buyers and to 30 percent for second-time buyers nationwide. Previously, homebuyers in tier I cities, such as Beijing and Shanghai, had to find downpayments of at least 30 percent to 40 percent. In addition, interest rates on new mortgages are also being slashed by about 40 percentage points after the central bank set a lower minimum premium to its benchmark loan prime rate. Against this backdrop, base metals rallied this Friday on renewed demand optimism.
 
-![1 (4)](assets/2023-09-04_doric-weekly-market-insight_img_128429_b85c98403a87.png)
+![1 (4)](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-09-04_doric-weekly-market-insight_img_128429_b85c98403a87.png)
 
 > **Figure 1: 1 (4)**  
-> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-09-04_doric-weekly-market-insight_img_128429_b85c98403a87.png)
+> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-09-04_doric-weekly-market-insight_img_128429_b85c98403a87.png)
 
 Data source:[Doric](https://www.doric.gr/)

@@ -28,10 +28,18 @@ The Mexican oil industry continues to face challenges, but the outlook for the c
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: Viva Mexico](../../../charts/poten/2017/poten_2017-12-15_viva-mexico_chart1.png)
+![Exhibit 1: Mexico Crude Oil Exports](../../../charts/poten/2017/poten_2017-12-15_viva-mexico_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2017/poten_2017-12-15_viva-mexico_chart1.png)
+> **Exhibit 1: Mexico Crude Oil Exports**  
+> Unit: Kb/d · X-axis: Jan-14 to Sep-17  
+> Series: Americas. Atlantic, Asia/Australia, Mediterranean, UKC/Baltic, Americas. Pacific  
+> *Source: Lloyd’s List Intelligence*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2017/poten_2017-12-15_viva-mexico_chart1.png)
 
-![Exhibit 2: Viva Mexico](../../../charts/poten/2017/poten_2017-12-15_viva-mexico_chart2.png)
+![Exhibit 2: Mexico Petroleum Product Imports](../../../charts/poten/2017/poten_2017-12-15_viva-mexico_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2017/poten_2017-12-15_viva-mexico_chart2.png)
+> **Exhibit 2: Mexico Petroleum Product Imports**  
+> Unit: Ktons/Month · X-axis: Jan-05 to Jan-17  
+> Series: Gasoline, Gasoil/Diesel, Jet Fuel, Naphtha, Resid  
+> *Source: IEA*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2017/poten_2017-12-15_viva-mexico_chart2.png)

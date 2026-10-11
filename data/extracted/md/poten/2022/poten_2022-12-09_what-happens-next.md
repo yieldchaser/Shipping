@@ -28,10 +28,18 @@ Which direction the Russian government decides to go will have a major impact on
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: What Happens Next](../../../charts/poten/2022/poten_2022-12-09_what-happens-next_chart1.png)
+![Exhibit 1: Daily Russian Crude Exports by Load Area (Excl CPC)](../../../charts/poten/2022/poten_2022-12-09_what-happens-next_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2022/poten_2022-12-09_what-happens-next_chart1.png)
+> **Exhibit 1: Daily Russian Crude Exports by Load Area (Excl CPC)**  
+> Unit: B/d · X-axis: 6/1/2022 to 12/7/2022  
+> Series: Black Sea, Far East - China Sea, Scandinavia/Baltic, 5 day MA  
+> *Source: Lloyd’s List Intelligence*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2022/poten_2022-12-09_what-happens-next_chart1.png)
 
-![Exhibit 2: What Happens Next](../../../charts/poten/2022/poten_2022-12-09_what-happens-next_chart2.png)
+![Exhibit 2: Tanker Freight Rates](../../../charts/poten/2022/poten_2022-12-09_what-happens-next_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2022/poten_2022-12-09_what-happens-next_chart2.png)
+> **Exhibit 2: Tanker Freight Rates**  
+> Unit: TCE ($/day) · X-axis: 3-Oct-22 to 5-Dec-22  
+> Series: VLCC: AG-FE, Suezmax: WAF-UKC, Aframax: UKC-UKC  
+> *Source: Poten & Partners*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2022/poten_2022-12-09_what-happens-next_chart2.png)

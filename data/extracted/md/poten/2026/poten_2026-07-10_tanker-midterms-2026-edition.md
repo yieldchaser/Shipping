@@ -49,14 +49,23 @@ Vitol remains the largest reported Aframax spot charterer in 1H 2025 ahead of BP
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: Tanker Midterms   2026 Edition](../../../charts/poten/2026/poten_2026-07-10_tanker-midterms-2026-edition_chart1.png)
+![Exhibit 1: Top 10 VLCC Spot Charterers](../../../charts/poten/2026/poten_2026-07-10_tanker-midterms-2026-edition_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2026/poten_2026-07-10_tanker-midterms-2026-edition_chart1.png)
+> **Exhibit 1: Top 10 VLCC Spot Charterers**  
+> Unit: No. Spot Fixtures · X-axis: Unipec to Petrochina  
+> Series: 1H 2026  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2026/poten_2026-07-10_tanker-midterms-2026-edition_chart1.png)
 
-![Exhibit 2: Tanker Midterms   2026 Edition](../../../charts/poten/2026/poten_2026-07-10_tanker-midterms-2026-edition_chart2.png)
+![Exhibit 2: Top 10 Suezmax Spot Charterers](../../../charts/poten/2026/poten_2026-07-10_tanker-midterms-2026-edition_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2026/poten_2026-07-10_tanker-midterms-2026-edition_chart2.png)
+> **Exhibit 2: Top 10 Suezmax Spot Charterers**  
+> Unit: No. Spot Fixtures · X-axis: Chevron to Petrobras  
+> Series: 1H 2026  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2026/poten_2026-07-10_tanker-midterms-2026-edition_chart2.png)
 
-![Exhibit 3: Tanker Midterms   2026 Edition](../../../charts/poten/2026/poten_2026-07-10_tanker-midterms-2026-edition_chart3.png)
+![Exhibit 3: Top 10 Aframax Spot Charterers](../../../charts/poten/2026/poten_2026-07-10_tanker-midterms-2026-edition_chart3.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2026/poten_2026-07-10_tanker-midterms-2026-edition_chart3.png)
+> **Exhibit 3: Top 10 Aframax Spot Charterers**  
+> Unit: No. Spot Fixtures · X-axis: VITOL to Shell  
+> Series: 1H 2026  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2026/poten_2026-07-10_tanker-midterms-2026-edition_chart3.png)

@@ -48,8 +48,8 @@ Potential projects in remote or politically-uncertain environments could also ad
 
 ![Exhibit 1: Project Delays Reduce LNG Supply Projections](../../../charts/poten/2007/poten_2007-04-18_project-delays-reduce-lng-supply-projections_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2007/poten_2007-04-18_project-delays-reduce-lng-supply-projections_chart1.png)
+> **Interactive Asset:** [Local Asset (200 DPI PNG)](../../../charts/poten/2007/poten_2007-04-18_project-delays-reduce-lng-supply-projections_chart1.png)
 
 ![Exhibit 2: Project Delays Reduce LNG Supply Projections](../../../charts/poten/2007/poten_2007-04-18_project-delays-reduce-lng-supply-projections_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2007/poten_2007-04-18_project-delays-reduce-lng-supply-projections_chart2.png)
+> **Interactive Asset:** [Local Asset (200 DPI PNG)](../../../charts/poten/2007/poten_2007-04-18_project-delays-reduce-lng-supply-projections_chart2.png)

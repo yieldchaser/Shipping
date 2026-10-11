@@ -23,12 +23,12 @@ source_file: "corpus/03-breakwave/insights/2023/2023-11-15_irw0xzbtihfobjxhfgg00
 
 A risk-on tone across markets, triggered by lower inflation data helped boost sentiment. This was aided by a weaker USD, which increased investor appetite in the sector.
 
-![1699995347123](assets/2023-11-15_irw0xzbtihfobjxhfgg00ajgoz5dut_img_1699995347123_aa55fb397cb4.png)
+![1699995347123](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-11-15_irw0xzbtihfobjxhfgg00ajgoz5dut_img_1699995347123_aa55fb397cb4.png)
 
 > **Figure 1: 1699995347123**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-11-15_irw0xzbtihfobjxhfgg00ajgoz5dut_img_1699995347123_aa55fb397cb4.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-11-15_irw0xzbtihfobjxhfgg00ajgoz5dut_img_1699995347123_aa55fb397cb4.png)
 
-**Gold**rallied after US inflation came in lower than expected. This triggered a fall in the USD while Treasury yields also dropped. The data is likely to take the pressure off the Fed to further tighten monetary policy this year. This sparked some strong buying in the precious metal and is likely to[support further investment demand of gold](../pdfs/2023-11-15_irw0xzbtihfobjxhfgg00ajgoz5dut_the-vault-gold-market-s-sanctuary_e63bf31c32b2.pdf). We also see geopolitical tensions becoming a recurring feature, which should see a structural risk premium embedded. A drive by central banks to diversify their reserves has been a feature of the gold market since early 2022. Increasing geopolitical risks will fuel this trend. This should reduce the burden on physical and investment demand for clearing the market surplus.
+**Gold**rallied after US inflation came in lower than expected. This triggered a fall in the USD while Treasury yields also dropped. The data is likely to take the pressure off the Fed to further tighten monetary policy this year. This sparked some strong buying in the precious metal and is likely to[support further investment demand of gold](https://research.anz.com/file/The_Vault_gold_market_s_sanctuary.pdf?docRef=b97eb4e4-ba4a-4919-842d-8e4f1ad4cba9&ch=2). We also see geopolitical tensions becoming a recurring feature, which should see a structural risk premium embedded. A drive by central banks to diversify their reserves has been a feature of the gold market since early 2022. Increasing geopolitical risks will fuel this trend. This should reduce the burden on physical and investment demand for clearing the market surplus.
 
 The spectre of an end to the tightening cycle helped push**base metals**higher. Rate hikes have weighed on economic growth in developed economies, raising concerns about demand for copper and other metals. This has been an issue that participants at Asia Copper Week have been discussing this week. However, optimism has been building that support for China’s struggling real estate sector will start to have an impact. The country plans to provide CNY1tn of low-cost financing to urban village renovation and affordable housing programs.
 

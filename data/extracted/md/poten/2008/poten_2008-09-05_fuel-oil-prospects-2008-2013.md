@@ -64,6 +64,8 @@ The publication is planned for October 2008 with a special promotional discount 
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: Fuel Oil Prospects 2008-2013](../../../charts/poten/2008/poten_2008-09-05_fuel-oil-prospects-2008-2013_chart1.png)
-
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2008/poten_2008-09-05_fuel-oil-prospects-2008-2013_chart1.png)
+> **Chart on PDF page 1: Singapore IFO-380 July 2003 - July 2008**  
+> Unit: Monthly Average $/MT · X-axis: Jul-03 to Jul-08  
+> Series: Singapore IFO-380  
+> *Source: Platts*  
+> *No image crop of this chart was saved; caption read from the PDF.*

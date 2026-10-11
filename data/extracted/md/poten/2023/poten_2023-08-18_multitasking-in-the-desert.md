@@ -20,13 +20,14 @@ Saudi Arabia is a powerhouse in the crude oil markets. It is one of the largest 
 
 Saudi Arabia's refining capacity is concentrated on the East and West Coasts of the country. Aramco operates six (6) refineries on the West Coast, bordering the Red Sea with a total capacity of 1.93 Mb/d. The three (3) East Coast refineries, located in the Arabian Gulf, have a combined capacity of 1.255 Mb/d. The Saudi's also have a smaller (126 Kb/d) refinery in the middle of the country, near Riyadh. Please note that five of Aramco's refineries are partially owned by foreign oil companies (Total, Shell, etc.). With a total capacity of more than 3.3 Mb/d, most of it conveniently located on the coast, the Kingdom has ample opportunities to export excess products.
 
-Let's start with the exports of refined products. From 2020- 2023, Saudi Arabia exported an average of 1.5 Mb/d of refined products. The volumes were lower in 2020 (around 1.3 Mb/d) as the Covid-19 pandemic reduced oil demand, but recovered in 2021. As can been seen in [Chart 1](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2023/poten_2023-08-18_multitasking-in-the-desert_chart1.png), despite some month-to- month fluctuations, export volumes have been fairly stable. Destinations are varied, some are long-haul (China, Singapore, Japan, and various European countries) and some are short-haul (UAE, India and Egypt). Most exports to China are not your typical clean petroleum products. They are mainly chemicals (such as Monoethylene Glycol, Styrene and Acetone) which are most likely transported on chemical/parcel tankers, not regular product tankers. In contrast, Saudi exports to Europe, which is mostly diesel (66%), are utilizing regular Aframax-sized product carriers (LR2s). After invasion of Ukraine and in particular after the EU ban on Russian product imports went into effect, Saudi Arabia boosted its exports to Europe. It appears that Saudi Arabia replaced some of the diesel that Europe could no longer source from Russia. The same is true for fuel oil and refinery feedstocks. These "dirty" products never made it from Saudi Arabia to Europe prior to the conflict, but since May 2022, some 50 Kb/d are now moving on Aframaxes.
+Let's start with the exports of refined products. From 2020- 2023, Saudi Arabia exported an average of 1.5 Mb/d of refined products. The volumes were lower in 2020 (around 1.3 Mb/d) as the Covid-19 pandemic reduced oil demand, but recovered in 2021. As can been seen in [Chart 1](../../../charts/poten/2023/poten_2023-08-18_multitasking-in-the-desert_chart1.png), despite some month-to- month fluctuations, export volumes have been fairly stable. Destinations are varied, some are long-haul (China, Singapore, Japan, and various European countries) and some are short-haul (UAE, India and Egypt). Most exports to China are not your typical clean petroleum products. They are mainly chemicals (such as Monoethylene Glycol, Styrene and Acetone) which are most likely transported on chemical/parcel tankers, not regular product tankers. In contrast, Saudi exports to Europe, which is mostly diesel (66%), are utilizing regular Aframax-sized product carriers (LR2s). After invasion of Ukraine and in particular after the EU ban on Russian product imports went into effect, Saudi Arabia boosted its exports to Europe. It appears that Saudi Arabia replaced some of the diesel that Europe could no longer source from Russia. The same is true for fuel oil and refinery feedstocks. These "dirty" products never made it from Saudi Arabia to Europe prior to the conflict, but since May 2022, some 50 Kb/d are now moving on Aframaxes.
 
-> **Exhibit 1: Multitasking In The Desert (Chart 1)**  
-> *Source: Poten & Partners*  
-> **Interactive Data & Source:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2023/poten_2023-08-18_multitasking-in-the-desert_chart1.png)
+> **Exhibit 1: Clean Product Exports By Saudi Arabia By Destination**  
+> Unit: Kb/d · X-axis: Jan-20 to Jul-23  
+> Series: Middle East, Europe, Far East, Africa, SE Asia, South Asia, North America, Other  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2023/poten_2023-08-18_multitasking-in-the-desert_chart1.png)
 
-![Exhibit 1: Multitasking In The Desert](../../../charts/poten/2023/poten_2023-08-18_multitasking-in-the-desert_chart1.png)
+![Exhibit 1: Clean Product Exports By Saudi Arabia By Destination](../../../charts/poten/2023/poten_2023-08-18_multitasking-in-the-desert_chart1.png)
 
 Despite ample domestic refining capacity, Saudi Arabia does import 150- 200,000 b/d of clean petroleum products, mainly gasoline and diesel. India was the main supplier from 2020 until the end of 2022, but since the start of 2023, Russia has become the dominant player, seeking alternative outlets for its products. The Saudis also import small volumes from their neighbors in the region (UAE, Oman, Kuwait, and Qatar) Saudi Arabia has a long coastline and there is significant traffic between ports in the Kingdom. Since there is more refining capacity on the West Coast, most of the movement is products coming from the Red Sea (mainly Yanbu and Jubail). Some of the tankers are going to Ras Tanura on the East Coast, but there is also a fair amount of traffic within the Red Sea. Most of the intra-Saudi Arabia refined product movements involve gasoline and diesel and are done on MRs and LR1s.
 
@@ -34,6 +35,9 @@ Saudi Arabia is a key player in the global refined product market. The countries
 
 ## Market Exhibits & Charts
 
-![Exhibit 2: Multitasking In The Desert](../../../charts/poten/2023/poten_2023-08-18_multitasking-in-the-desert_chart2.png)
+![Exhibit 2: Clean Product Imports By Saudi Arabia By Origin](../../../charts/poten/2023/poten_2023-08-18_multitasking-in-the-desert_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2023/poten_2023-08-18_multitasking-in-the-desert_chart2.png)
+> **Exhibit 2: Clean Product Imports By Saudi Arabia By Origin**  
+> Unit: Kb/d · X-axis: Jan-20 to Jul-23  
+> Series: India, United Arab Emirates, Russia, Oman, Netherlands, Indonesia, Malaysia, China, Other  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2023/poten_2023-08-18_multitasking-in-the-desert_chart2.png)

@@ -34,10 +34,18 @@ VLCCs will likely play a minor role in Trans-Atlantic exports until additional V
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: Super Size Me](../../../charts/poten/2019/poten_2019-02-22_super-size-me_chart1.png)
+![Exhibit 1: U.S. Gulf Crude Oil Exports to Europe by Port](../../../charts/poten/2019/poten_2019-02-22_super-size-me_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2019/poten_2019-02-22_super-size-me_chart1.png)
+> **Exhibit 1: U.S. Gulf Crude Oil Exports to Europe by Port**  
+> Unit: 1,000 Tons · X-axis: Jan-16 to Oct-18  
+> Series: Corpus Christi, TX, Beaumont, TX, Houston, TX, Gramercy, LA, Freeport, TX, New Orleans, LA, Texas City, TX, Port Arthur, TX, Other  
+> *Source: US Dept. Of Commerce*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2019/poten_2019-02-22_super-size-me_chart1.png)
 
-![Exhibit 2: Super Size Me](../../../charts/poten/2019/poten_2019-02-22_super-size-me_chart2.png)
+![Exhibit 2: Aframax & Suezmax Freight Rates: USG -UKC](../../../charts/poten/2019/poten_2019-02-22_super-size-me_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2019/poten_2019-02-22_super-size-me_chart2.png)
+> **Exhibit 2: Aframax & Suezmax Freight Rates: USG -UKC**  
+> Unit: WS · X-axis: Jan-16 to Jan-19  
+> Series: Aframax (70Kt) USG-UKC, Suezmax (150Kt) USG-UKC  
+> *Source: Lloyd’s List Intelligence*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2019/poten_2019-02-22_super-size-me_chart2.png)

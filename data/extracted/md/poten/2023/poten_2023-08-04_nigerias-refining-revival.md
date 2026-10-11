@@ -32,10 +32,17 @@ The trade flow changes in West Africa will take time. It could be years before t
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: Nigerias Refining Revival](../../../charts/poten/2023/poten_2023-08-04_nigerias-refining-revival_chart1.png)
+![Exhibit 1: Nigeria Crude Oil Exports by Destination](../../../charts/poten/2023/poten_2023-08-04_nigerias-refining-revival_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2023/poten_2023-08-04_nigerias-refining-revival_chart1.png)
+> **Exhibit 1: Nigeria Crude Oil Exports by Destination**  
+> Unit: Kb/d · X-axis: Jan-21 to Jul-23  
+> Series: India, Netherlands, France, Spain, Indonesia, Canada, United States, Other  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2023/poten_2023-08-04_nigerias-refining-revival_chart1.png)
 
-![Exhibit 2: Nigerias Refining Revival](../../../charts/poten/2023/poten_2023-08-04_nigerias-refining-revival_chart2.png)
+![Exhibit 2: West Africa Seaborne Clean Product Imports By Origin](../../../charts/poten/2023/poten_2023-08-04_nigerias-refining-revival_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2023/poten_2023-08-04_nigerias-refining-revival_chart2.png)
+> **Exhibit 2: West Africa Seaborne Clean Product Imports By Origin**  
+> Unit: Kb/d · X-axis: Jan-21 to Jul-23  
+> Series: Netherlands, Belgium, India, Russia, South Korea, Latvia, Norway, Spain, Other  
+> *Source: Vortexa*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2023/poten_2023-08-04_nigerias-refining-revival_chart2.png)

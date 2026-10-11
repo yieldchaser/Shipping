@@ -20,10 +20,10 @@ source_file: "corpus/03-breakwave/insights/2024/2024-04-16_turkish-delight.html"
 
 ---
 
-![Gibson Image](assets/2024-04-16_turkish-delight_img_gibsonimage_9b7053fe6d38.png)
+![Gibson Image](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-04-16_turkish-delight_img_gibsonimage_9b7053fe6d38.png)
 
 > **Figure 1: Gibson Image**  
-> **Interactive Data & Source:** [Gibsons Co](https://www.gibsons.co.uk/market-reports) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-04-16_turkish-delight_img_gibsonimage_9b7053fe6d38.png)
+> **Interactive Data & Source:** [Gibsons Co](https://www.gibsons.co.uk/market-reports) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-04-16_turkish-delight_img_gibsonimage_9b7053fe6d38.png)
 
 After just over a year of being offline, discussions about restarting the 450 kbd KRG pipeline remains at an impasse. Despite months of negotiations since March 2023, insufficient progress has been made to restart flows from Northern Iraq to the Turkish port of Ceyhan. Political tension between the Federal Iraqi Government, the autonomous Kurdistan Regional Government (KRG) and Turkey have blocked previous attempts at finding a resolution. For the tanker market, particularly the Aframax sector, this resulted in the loss of approximately 400 kbd of exports out of Ceyhan, reducing the supply of crude cargoes in the Mediterranean, forcing owners to look for other opportunities.
 
@@ -37,10 +37,10 @@ It is also worth noting that given current OPEC product quotas, if Iraq is to st
 
 Although, the resumption of Northern exports should be good news for the Mediterranean Aframax sector, the gains could be capped. While in in theory this should support cross-Mediterranean rates. The biggest unknown is likely to come from Aframaxes engaged in Russian trade. Urals continue to trade above the $60 G7 price cap and increasing sanctions enforcement is forcing some players to exit this trade and seek other opportunities. An additional, 350 kbd of non-sanctioned Iraqi crude is unlikely to be sufficient to offset rising vessel availability in the region if enough tonnage leaves the Russian market.
 
-![Στιγμιότυπο Οθόνης 2024 04 16 130617](assets/2024-04-16_turkish-delight_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_3ed265556b5b.png)
+![Στιγμιότυπο Οθόνης 2024 04 16 130617](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-04-16_turkish-delight_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_3ed265556b5b.png)
 
 > **Figure 2: Στιγμιότυπο Οθόνης 2024 04 16 130617**  
-> **Interactive Data & Source:** [Gibsons Co](https://www.gibsons.co.uk/market-reports) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-04-16_turkish-delight_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_3ed265556b5b.png)
+> **Interactive Data & Source:** [Gibsons Co](https://www.gibsons.co.uk/market-reports) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-04-16_turkish-delight_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_3ed265556b5b.png)
 
 Data source:[Gibson Shipbrokers](https://www.gibsons.co.uk/market-reports)
 

@@ -25,11 +25,11 @@ tags:
 
 *Published on 19 March 2025*
 
-![Https://app.signalocean.com/dry/dynamic/capesinsightsdownloadable](../../images/67da86a9a889a341d28d456a_AD_4nXcB8ZlWnBbceq3yQsjid3Gk5u-9jZe3Udd9-HndQhdEvtcXiNtqv3XZFIQviuyciyl1UUGUgUx9-Mf5isoNQIRBvJ5-c6CpXuIHFAccTPE4SqflWFRbQgi7cSEGiT9mDmMzr_Oe.png)
+![Https://app.signalocean.com/dry/dynamic/capesinsightsdownloadable](../../../../../../corpus/07-signal/images/67da86a9a889a341d28d456a_AD_4nXcB8ZlWnBbceq3yQsjid3Gk5u-9jZe3Udd9-HndQhdEvtcXiNtqv3XZFIQviuyciyl1UUGUgUx9-Mf5isoNQIRBvJ5-c6CpXuIHFAccTPE4SqflWFRbQgi7cSEGiT9mDmMzr_Oe.png)
 
 > **Figure 1: Https://app.signalocean.com/dry/dynamic/capesinsightsdownloadable**  
 > *https://app.signalocean.com/dry/dynamic/capes_insights_downloadable*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/dry-week-12-2025) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/67da86a9a889a341d28d456a_AD_4nXcB8ZlWnBbceq3yQsjid3Gk5u-9jZe3Udd9-HndQhdEvtcXiNtqv3XZFIQviuyciyl1UUGUgUx9-Mf5isoNQIRBvJ5-c6CpXuIHFAccTPE4SqflWFRbQgi7cSEGiT9mDmMzr_Oe.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/dry-week-12-2025) | [Local Asset](../../../../../../corpus/07-signal/images/67da86a9a889a341d28d456a_AD_4nXcB8ZlWnBbceq3yQsjid3Gk5u-9jZe3Udd9-HndQhdEvtcXiNtqv3XZFIQviuyciyl1UUGUgUx9-Mf5isoNQIRBvJ5-c6CpXuIHFAccTPE4SqflWFRbQgi7cSEGiT9mDmMzr_Oe.png)
 
 The dry bulk freight market is currently experiencing a significant upswing, primarily fuelled by a notable decrease in the number of ballasters on the C3 route. This has led to anticipation of a market undersupply in the coming weeks, fostering a bullish sentiment among market participants.
 

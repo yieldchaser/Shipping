@@ -39,10 +39,10 @@ Last week was somewhat disappointing on the inflation front, as US data suggeste
 
 We have often said that in a “game of chicken”, the Fed would usually win. Liquidity, by and large, does drive markets.
 
-![Market Chart 1](assets/2023-02-21_mazars-comment-the-next-five-bull-markets_img_image00228229_651e3a3e8855.jpg)
+![Market Chart 1](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-02-21_mazars-comment-the-next-five-bull-markets_img_image00228229_651e3a3e8855.jpg)
 
 > **Figure 1: Market Chart 1**  
-> **Interactive Data & Source:** [Barrons](https://www.barrons.com/articles/active-fund-managers-performance-51663781330) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-02-21_mazars-comment-the-next-five-bull-markets_img_image00228229_651e3a3e8855.jpg)
+> **Interactive Data & Source:** [Barrons](https://www.barrons.com/articles/active-fund-managers-performance-51663781330) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-02-21_mazars-comment-the-next-five-bull-markets_img_image00228229_651e3a3e8855.jpg)
 
 The Fed hiked at the fastest pace in over forty years, causing one of the sharpest retrenchments bond markets have experienced. Looking around, nothing is broken. Excluding the fact that Big Tech capitalisation is now back to normal levels, the economic and financial system has easily weathered the storm.
 

@@ -26,17 +26,17 @@ As we have been highlighting in Commodore Research's Weekly Executive Reports an
 
 Particularly noteworthy is that each of the last four months have seen retail spending growth in the United States exceed inflation. Before this period, retail spending growth had come in under inflation during seventeen of the prior twenty-three months — showing that during that time, Americans were purchasing less goods than they did one year prior, which to us is a telltale sign of recession. Now, though, the last four months have seen a dramatic change..
 
-![242](assets/2025-02-27_us-turnaround-began-last-year_img_242_db0898c79110.jpg)
+![242](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-02-27_us-turnaround-began-last-year_img_242_db0898c79110.jpg)
 
 > **Figure 1: 242**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-02-27_us-turnaround-began-last-year_img_242_db0898c79110.jpg)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-02-27_us-turnaround-began-last-year_img_242_db0898c79110.jpg)
 
 Also experiencing a turnaround has been US industrial production, including manufacturing production (which accounts for approximately 75% of industrial production). US industrial production has now grown on a year-on-year basis for two straight months, including most recently by 2%. Before these last two months, US industrial production had contracted on a year-on-year basis during ten of the prior thirteen months.
 
-![241](assets/2025-02-27_us-turnaround-began-last-year_img_241_8d2ed8b72ee8.jpg)
+![241](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-02-27_us-turnaround-began-last-year_img_241_8d2ed8b72ee8.jpg)
 
 > **Figure 2: 241**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-02-27_us-turnaround-began-last-year_img_241_8d2ed8b72ee8.jpg)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-02-27_us-turnaround-began-last-year_img_241_8d2ed8b72ee8.jpg)
 
 Important is that excluding years when coronavirus restrictions were in place, the 2% year-on-year growth most recently seen in US industrial production has marked the strongest growth seen since 2018.
 

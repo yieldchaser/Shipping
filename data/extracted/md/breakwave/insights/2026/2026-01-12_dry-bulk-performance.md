@@ -34,10 +34,10 @@ The Handysize market continues to reflect both seasonal behaviour and evolving m
 
 Taken together, the dry bulk market’s early-2026 performance illustrates a familiar seasonal dip layered onto a structurally stronger foundation. Iron ore remains the anchor, and while inventories are heavy, import momentum remains relatively steady. Coal and grain flows continue to support Panamax and Ultramax employment, even as seasonal softness temporarily suppresses earnings. Minor bulks are moving through their typical Q1 contraction, yet underlying trade lanes remain stable and vessel lists balanced. Looking ahead, the key variables shaping the next phase of the market include China’s policy stance following its January economic signals, the strength and timing of Brazil’s grain exports, India’s energy and industrial demand, and the broader impact of easing global financial conditions. Overall, the market appears better positioned than a year ago. As seasonal volumes build into Q2, the prospect of a more constructive year – anchored by higher lows and firmer structural support – remains credible.
 
-![Στιγμιότυπο Οθόνης 2026 01 12 092211](assets/2026-01-12_dry-bulk-performance_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_22c0b9f5fcf0.png)
+![Στιγμιότυπο Οθόνης 2026 01 12 092211](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-01-12_dry-bulk-performance_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_22c0b9f5fcf0.png)
 
 > **Figure 1: Στιγμιότυπο Οθόνης 2026 01 12 092211**  
-> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-01-12_dry-bulk-performance_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_22c0b9f5fcf0.png)
+> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-01-12_dry-bulk-performance_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_22c0b9f5fcf0.png)
 
 Data source:[Doric](https://www.doric.gr/)
 

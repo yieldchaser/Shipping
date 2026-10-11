@@ -60,6 +60,32 @@ The future of Middle East exports is a netting exercise between growth in demand
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: A Romp Down Memory Lane Pacific Basin](../../../charts/poten/2004/poten_2004-07-16_a-romp-down-memory-lane-pacific-basin_chart1.png)
+> **Chart on PDF page 1: China**  
+> Unit: 000 Bpd · X-axis: 1985 to 2003  
+> Series: Consumption, Production  
+> *Source: BP/Poten*  
+> *No image crop of this chart was saved; caption read from the PDF.*
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2004/poten_2004-07-16_a-romp-down-memory-lane-pacific-basin_chart1.png)
+> **Chart on PDF page 2: India**  
+> Unit: 000 Bpd · X-axis: 1985 to 2003  
+> Series: Consumption, Production  
+> *Source: BP/Poten*  
+> *No image crop of this chart was saved; caption read from the PDF.*
+
+> **Chart on PDF page 2: Indonesia**  
+> Unit: 000 Bpd · X-axis: 1985 to 2003  
+> Series: Consumption, Production  
+> *Source: BP/Poten*  
+> *No image crop of this chart was saved; caption read from the PDF.*
+
+> **Chart on PDF page 3: Pacific Basin**  
+> Unit: 000 Bpd · X-axis: 1985 to 2003  
+> Series: Consumption, Production  
+> *Source: BP/Poten*  
+> *No image crop of this chart was saved; caption read from the PDF.*
+
+> **Chart on PDF page 3: Middle East Crude Exports**  
+> Unit: 000 Bpd · X-axis: 1985 to 2003  
+> Series: Middle East Crude Exports  
+> *Source: BP/Poten*  
+> *No image crop of this chart was saved; caption read from the PDF.*

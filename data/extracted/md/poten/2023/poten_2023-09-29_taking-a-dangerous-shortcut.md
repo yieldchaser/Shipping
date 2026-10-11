@@ -34,10 +34,18 @@ Russia already utilizes a growing "dark fleet" for regular oil shipments to coun
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: Taking A Dangerous Shortcut](../../../charts/poten/2023/poten_2023-09-29_taking-a-dangerous-shortcut_chart1.png)
+![Exhibit 1: Russian Northern Searoute Voyages (Clean & Dirty)](../../../charts/poten/2023/poten_2023-09-29_taking-a-dangerous-shortcut_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2023/poten_2023-09-29_taking-a-dangerous-shortcut_chart1.png)
+> **Exhibit 1: Russian Northern Searoute Voyages (Clean & Dirty)**  
+> Unit: Kb/d · X-axis: Jan-20 to Jul-23  
+> Series: China, Russia, Undetermined, Netherlands  
+> *Source: Vortexa*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2023/poten_2023-09-29_taking-a-dangerous-shortcut_chart1.png)
 
-![Exhibit 2: Taking A Dangerous Shortcut](../../../charts/poten/2023/poten_2023-09-29_taking-a-dangerous-shortcut_chart2.png)
+![Exhibit 2: Baltics Russia Crude Exports](../../../charts/poten/2023/poten_2023-09-29_taking-a-dangerous-shortcut_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2023/poten_2023-09-29_taking-a-dangerous-shortcut_chart2.png)
+> **Exhibit 2: Baltics Russia Crude Exports**  
+> Unit: Kb/d · X-axis: Jan-20 to Jul-23  
+> Series: Ice Class (1A/1B), Non Ice Class  
+> *Source: Vortexa*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2023/poten_2023-09-29_taking-a-dangerous-shortcut_chart2.png)

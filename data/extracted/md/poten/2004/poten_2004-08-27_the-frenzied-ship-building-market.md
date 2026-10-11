@@ -78,6 +78,14 @@ Buying tankers at current levels requires a somewhat rosy view of the future. Ma
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: The Frenzied Ship Building Market](../../../charts/poten/2004/poten_2004-08-27_the-frenzied-ship-building-market_chart1.png)
+> **Chart on PDF page 1: Newbuilding Prices**  
+> Unit: Millions of $ · X-axis: Jan-99 to Jan-04  
+> Series: VLCC, Suezmax, Aframax, Panamax  
+> *Source: Poten & Partners, Inc.*  
+> *No image crop of this chart was saved; caption read from the PDF.*
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2004/poten_2004-08-27_the-frenzied-ship-building-market_chart1.png)
+> **Chart on PDF page 2: Plate Steel Prices**  
+> Unit: US$/ton · X-axis: Mar-02 to Apr-04  
+> Series: Plate Steel Prices  
+> *Source: MEPS*  
+> *No image crop of this chart was saved; caption read from the PDF.*

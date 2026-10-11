@@ -34,10 +34,18 @@ At the moment, newbuilding prices are relatively affordable compared to second h
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: Tanker Prices](../../../charts/poten/2015/poten_2015-06-26_tanker-prices_chart1.png)
+![Exhibit 1: VLCC Newbuilding and Second Hand Prices](../../../charts/poten/2015/poten_2015-06-26_tanker-prices_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2015/poten_2015-06-26_tanker-prices_chart1.png)
+> **Exhibit 1: VLCC Newbuilding and Second Hand Prices**  
+> Unit: Million USD | $/day · X-axis: Jan-2000 to Jan-2015  
+> Series: Newbuilding, NB Resale, 5 yr Old, 10 yr Old, TCE AG-FE  
+> *Source: Poten and Partners*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2015/poten_2015-06-26_tanker-prices_chart1.png)
 
-![Exhibit 2: Tanker Prices](../../../charts/poten/2015/poten_2015-06-26_tanker-prices_chart2.png)
+![Exhibit 2: VLCC Second Hand Prices vs Newbuilding Contract Prices](../../../charts/poten/2015/poten_2015-06-26_tanker-prices_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2015/poten_2015-06-26_tanker-prices_chart2.png)
+> **Exhibit 2: VLCC Second Hand Prices vs Newbuilding Contract Prices**  
+> Unit: % of NB Price · X-axis: Jan-2006 to Jan-2015  
+> Series: NB Resale %, 5 yr old %, 10 yr old %  
+> *Source: Poten and Partners*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2015/poten_2015-06-26_tanker-prices_chart2.png)

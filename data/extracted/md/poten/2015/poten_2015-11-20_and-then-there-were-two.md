@@ -32,8 +32,8 @@ Either of these pipelines would be helpful to the tanker market as increased exp
 
 ![Exhibit 1: And Then There Were Two](../../../charts/poten/2015/poten_2015-11-20_and-then-there-were-two_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2015/poten_2015-11-20_and-then-there-were-two_chart1.png)
+> **Interactive Asset:** [Local Asset (200 DPI PNG)](../../../charts/poten/2015/poten_2015-11-20_and-then-there-were-two_chart1.png)
 
 ![Exhibit 2: And Then There Were Two](../../../charts/poten/2015/poten_2015-11-20_and-then-there-were-two_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2015/poten_2015-11-20_and-then-there-were-two_chart2.png)
+> **Interactive Asset:** [Local Asset (200 DPI PNG)](../../../charts/poten/2015/poten_2015-11-20_and-then-there-were-two_chart2.png)

@@ -28,10 +28,17 @@ Where do we go from here? As rates reach into the stratosphere, it seems that th
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: Uncharted Territory](../../../charts/poten/2019/poten_2019-10-11_uncharted-territory_chart1.png)
+![Exhibit 1: VLCC: AG - FE](../../../charts/poten/2019/poten_2019-10-11_uncharted-territory_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2019/poten_2019-10-11_uncharted-territory_chart1.png)
+> **Exhibit 1: VLCC: AG - FE**  
+> Unit: US$/day · X-axis: 1 to 51  
+> Series: 2019, 2015, 2008, 2004  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2019/poten_2019-10-11_uncharted-territory_chart1.png)
 
-![Exhibit 2: Uncharted Territory](../../../charts/poten/2019/poten_2019-10-11_uncharted-territory_chart2.png)
+![Exhibit 2: Estimated Modern Available Spot VLCC Fleet](../../../charts/poten/2019/poten_2019-10-11_uncharted-territory_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2019/poten_2019-10-11_uncharted-territory_chart2.png)
+> **Exhibit 2: Estimated Modern Available Spot VLCC Fleet**  
+> Unit: VLCC · X-axis: Total VLCC Fleet to Modern Spot Fleet  
+> Series: Total VLCC Fleet, Older than 15Y, Cosco Dalian, Other Cosco, Iran, Drydock/Scrubber, TC/OilCo, Modern Spot Fleet  
+> *Source: Poten & Partners*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2019/poten_2019-10-11_uncharted-territory_chart2.png)

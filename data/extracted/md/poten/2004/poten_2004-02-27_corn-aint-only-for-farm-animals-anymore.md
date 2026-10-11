@@ -40,6 +40,26 @@ If ethanol use spreads further across the US, domestic production of gasoline wi
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: Corn Ain't Only for Farm Animals Anymore](../../../charts/poten/2004/poten_2004-02-27_corn-aint-only-for-farm-animals-anymore_chart1.png)
+> **Chart on PDF page 2: Number of Vehicles in US**  
+> Unit: Population in MM · X-axis: 1970 to 2000  
+> Series: SUVs, 4-Wheeled Trucks, Minivans & Vans, Automobiles  
+> *Source: Poten & Partners/EIA*  
+> *No image crop of this chart was saved; caption read from the PDF.*
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2004/poten_2004-02-27_corn-aint-only-for-farm-animals-anymore_chart1.png)
+> **Chart on PDF page 3: US Gasoline Consumption**  
+> Unit: 000 bpd · X-axis: Jan-00 to Jan-04  
+> Series: Gasoline Consumption, Trend line  
+> *Source: Poten & Partners/EIA*  
+> *No image crop of this chart was saved; caption read from the PDF.*
+
+> **Chart on PDF page 3: US Gasoline Imports**  
+> Unit: 000 bpd · X-axis: Jan-00 to Jan-04  
+> Series: Gasoline Imports, Trend line  
+> *Source: Poten & Partners/EIA*  
+> *No image crop of this chart was saved; caption read from the PDF.*
+
+> **Chart on PDF page 4: US Gasoline Consumption in Summer Months**  
+> Unit: 000 bpd · X-axis: Jun-00 to Jul-03  
+> Series: US Gasoline Consumption  
+> *Source: Poten & Partners/EIA*  
+> *No image crop of this chart was saved; caption read from the PDF.*

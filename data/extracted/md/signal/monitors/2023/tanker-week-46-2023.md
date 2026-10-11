@@ -29,10 +29,10 @@ tags:
 ## Growth in VLCC Dirty Tonne Days Slowed to Its Lowest Level of the Year in the Fourth Quarter
 
 
-![655642c55736d8bc6e38d407 VLCC](../../images/655642c55736d8bc6e38d407_VLCC.png)
+![655642c55736d8bc6e38d407 VLCC](../../../../../../corpus/07-signal/images/655642c55736d8bc6e38d407_VLCC.png)
 
 > **Figure 1: 655642c55736d8bc6e38d407 VLCC**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/tanker-week-46-2023) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/655642c55736d8bc6e38d407_VLCC.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/tanker-week-46-2023) | [Local Asset](../../../../../../corpus/07-signal/images/655642c55736d8bc6e38d407_VLCC.png)
 
 In the third week of November, crude freight market sentiment recorded a decrease with VLCC AG to China rates holding a resistance for firmer levels, however, when looking at the demand side there has been a further decrease in VLCC dirty tonne days growth. In the clean segment, there has been a rather steady sentiment amid a weakening picture of the previous weeks, while demand does not yet still provoke signs of recovery. Overall, the fourth quarter of the year seems to evolve with a downward pressure on freight rates despite optimism for a winter demand boosting the rates.
 

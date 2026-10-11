@@ -102,6 +102,20 @@ Under these circumstances of a thinner market, less spare capacity to handle var
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: Are We Moving Towards Chaos?](../../../charts/poten/2005/poten_2005-10-28_are-we-moving-towards-chaos_chart1.png)
+> **Chart on PDF page 2: Running Standard Deviation of Aframax TCE Earnings**  
+> Unit: $ · X-axis: 06/07/2002 to 06/03/2005  
+> Series: Caribs Upcoast, Intra-Med, Singapore Far East  
+> *Source: Poten & Partners*  
+> *No image crop of this chart was saved; caption read from the PDF.*
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2005/poten_2005-10-28_are-we-moving-towards-chaos_chart1.png)
+> **Chart on PDF page 3: Running Standard Deviation of Tanker TCE Earnings**  
+> Unit: $ · X-axis: 06/07/2002 to 06/03/2005  
+> Series: Aframax, Panamax, Handymax  
+> *Source: Poten & Partners*  
+> *No image crop of this chart was saved; caption read from the PDF.*
+
+> **Chart on PDF page 4: Aframax Cargo Tons Caribs Upcoast**  
+> Unit: Mm Tons · X-axis: Jan-02 to Jul-05  
+> Series: Cargo Tons, Stand Dev  
+> *Source: Poten & Partners*  
+> *No image crop of this chart was saved; caption read from the PDF.*

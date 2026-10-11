@@ -35,7 +35,7 @@ The volumes of imported dry bulk commodities have also remained strong in the fi
 ![Ch1](assets/2021-12-09_chinese-imports-on-the-rise-despite-signs-of-an-economic-slowdown_img_ch1_62bd3986eca2.png)
 
 > **Figure 1: Ch1**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2021/assets/2021-12-09_chinese-imports-on-the-rise-despite-signs-of-an-economic-slowdown_img_ch1_62bd3986eca2.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-12-09_chinese-imports-on-the-rise-despite-signs-of-an-economic-slowdown_img_ch1_62bd3986eca2.png)
 
 However, the robust aggregate data hides a somewhat mixed picture across the different commodities. In the wake of the extensive restrictions on steel production, iron ore imports have gone against the flow with a three per cent decline in volumes. The drop has also led to the steel-making ingredient losing close to a tenth of its share of total bulk imports. On the other hand, coal volumes jumped by almost thirty per cent during the period, as the energy crunch drove demand higher for the fossil fuel. The energy-intensive nature of aluminium production is likely to have contributed to two per cent less bauxite being discharged in Chinese ports compared to the same period in 2020. Imports of other significant commodities, e.g. grains and non-ferrous ores, grew by around ten per cent year to date.
 

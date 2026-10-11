@@ -28,10 +28,17 @@ The vast majority of Jones Act tankers are on long-term charter and we expect th
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: Keeping Up With The Joneses (Act)](../../../charts/poten/2026/poten_2026-03-20_keeping-up-with-the-joneses-act_chart1.png)
+![Exhibit 1: Jones Act Tanker & Barge Product Movements](../../../charts/poten/2026/poten_2026-03-20_keeping-up-with-the-joneses-act_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2026/poten_2026-03-20_keeping-up-with-the-joneses-act_chart1.png)
+> **Exhibit 1: Jones Act Tanker & Barge Product Movements**  
+> Unit: Kb/d · X-axis: Jan-15 to Nov-25  
+> Series: PADD1 to 3, PADD2 to 1, PADD2 to 3, PADD3 to 1, PADD3 to 5  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2026/poten_2026-03-20_keeping-up-with-the-joneses-act_chart1.png)
 
-![Exhibit 2: Keeping Up With The Joneses (Act)](../../../charts/poten/2026/poten_2026-03-20_keeping-up-with-the-joneses-act_chart2.png)
+![Exhibit 2: Jones Act Tanker & Barge Crude Movements](../../../charts/poten/2026/poten_2026-03-20_keeping-up-with-the-joneses-act_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2026/poten_2026-03-20_keeping-up-with-the-joneses-act_chart2.png)
+> **Exhibit 2: Jones Act Tanker & Barge Crude Movements**  
+> Unit: Kb/d · X-axis: Jan-15 to Nov-25  
+> Series: PADD1 to 3, PADD2 to 1, PADD2 to 3, PADD3 to 1  
+> *Source: EIA*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2026/poten_2026-03-20_keeping-up-with-the-joneses-act_chart2.png)

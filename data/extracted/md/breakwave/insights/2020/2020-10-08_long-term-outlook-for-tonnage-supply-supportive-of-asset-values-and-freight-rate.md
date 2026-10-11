@@ -22,10 +22,10 @@ source_file: "corpus/03-breakwave/insights/2020/2020-10-08_long-term-outlook-for
 
 *By Ulf Bergman*
 
-![Ship8](assets/2020-10-08_long-term-outlook-for-tonnage-supply-supportive-of-asset-values-and-freight-rate_img_ship8_5e3015038cc6.jpg)
+![Ship8](../../../../../../corpus/03-breakwave/insights/2020/assets/2020-10-08_long-term-outlook-for-tonnage-supply-supportive-of-asset-values-and-freight-rate_img_ship8_5e3015038cc6.jpg)
 
 > **Figure 1: Ship8**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2020/assets/2020-10-08_long-term-outlook-for-tonnage-supply-supportive-of-asset-values-and-freight-rate_img_ship8_5e3015038cc6.jpg)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2020/assets/2020-10-08_long-term-outlook-for-tonnage-supply-supportive-of-asset-values-and-freight-rate_img_ship8_5e3015038cc6.jpg)
 
 A survey of senior maritime decision makers and their outlook for the decade ahead was published by the Global Maritime Forum earlier this week and it makes for quite sobering reading. The study found that the responders are seeing, among other things, a remarkably high probability of another pandemic striking and/or a major financial crisis developing during the next ten years. What makes the findings a cause of concern is that the survey also points towards a perceived lack of preparedness in the shipping industry to deal with either type of crisis.
 
@@ -33,17 +33,17 @@ The survey was done during the latter part of the second quarter with the pandem
 
 As the world is currently in the midst of the ongoing outbreak, the final bill for the global economy is not likely to be presented any time soon. The economic impact will be felt for a long time and the world’s ability to deal with another economic crisis greatly diminished, with limited fiscal and monetary room for manoeuvre.
 
-![Ulf Tonnage](assets/2020-10-08_long-term-outlook-for-tonnage-supply-supportive-of-asset-values-and-freight-rate_img_ulftonnage_4d37f06b7b0f.jpg)
+![Ulf Tonnage](../../../../../../corpus/03-breakwave/insights/2020/assets/2020-10-08_long-term-outlook-for-tonnage-supply-supportive-of-asset-values-and-freight-rate_img_ulftonnage_4d37f06b7b0f.jpg)
 
 > **Figure 2: Ulf Tonnage**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2020/assets/2020-10-08_long-term-outlook-for-tonnage-supply-supportive-of-asset-values-and-freight-rate_img_ulftonnage_4d37f06b7b0f.jpg)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2020/assets/2020-10-08_long-term-outlook-for-tonnage-supply-supportive-of-asset-values-and-freight-rate_img_ulftonnage_4d37f06b7b0f.jpg)
 
 If the findings of the survey are realistic or not are clearly open for debate. Any concerns that either a financial crisis or a second pandemic could wreak havoc on the global economy and the demand for seaborne transport are, however, likely to influence shipping companies’ investment decisions in the near-term. The idea of committing to new tonnage could look unattractive to a shipowner in the light of these risks. Combining this with the lack of clarity on future environmental regulations and no clear frontrunner for propulsion fuel of the future, it is no surprise that the shipyards’ orderbooks currently are historically thin. Even before the pandemic, a shipowner faced the risk of ordering a vessel that could be obsolete well before the end of its economic life due to non-compliance with new policies.
 
-![Ship35](assets/2020-10-08_long-term-outlook-for-tonnage-supply-supportive-of-asset-values-and-freight-rate_img_ship35_115fa206727e.jpg)
+![Ship35](../../../../../../corpus/03-breakwave/insights/2020/assets/2020-10-08_long-term-outlook-for-tonnage-supply-supportive-of-asset-values-and-freight-rate_img_ship35_115fa206727e.jpg)
 
 > **Figure 3: Ship35**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2020/assets/2020-10-08_long-term-outlook-for-tonnage-supply-supportive-of-asset-values-and-freight-rate_img_ship35_115fa206727e.jpg)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2020/assets/2020-10-08_long-term-outlook-for-tonnage-supply-supportive-of-asset-values-and-freight-rate_img_ship35_115fa206727e.jpg)
 
 Braemar ACM pointed out in a previous contribution to Insights that charterers are increasingly employing younger tonnage due to better environmental credentials. Older vessels could, as a result, struggle to find employment and end up being recycled sooner rather than later, especially if charter rates were to come under pressure for a period of time. A reluctance by shipowners to order new vessels due to a high level of uncertainty regarding the future and an increase in phasing out of older tonnage could see the world’s dry bulk fleet having negative growth in the coming decade.
 

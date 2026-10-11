@@ -20,10 +20,10 @@ source_file: "corpus/03-breakwave/insights/2020/2020-08-17_chinese-lending-remai
 
 ---
 
-![Market Chart 1](assets/2020-08-17_chinese-lending-remains-well-above-last-years-level_img_image-asset_b5f8b7c2b99e.jpeg)
+![Market Chart 1](../../../../../../corpus/03-breakwave/insights/2020/assets/2020-08-17_chinese-lending-remains-well-above-last-years-level_img_image-asset_b5f8b7c2b99e.jpeg)
 
 > **Figure 1: Market Chart 1**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2020/assets/2020-08-17_chinese-lending-remains-well-above-last-years-level_img_image-asset_b5f8b7c2b99e.jpeg)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2020/assets/2020-08-17_chinese-lending-remains-well-above-last-years-level_img_image-asset_b5f8b7c2b99e.jpeg)
 
 Chinese banks issued 993 billion yuan in new loans in July, which marks a month-on-month decline of 817 billion yuan (-45%) and a year-on-year decline of 67 billion yuan (-6%). Despite the decline, the first seven months of this year have still seen lending grow year-on-year by 22%.
 

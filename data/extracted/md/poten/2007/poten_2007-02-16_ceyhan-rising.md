@@ -38,6 +38,7 @@ Vessel Size USA Med East of Suez Other Total VLCC 2 4 6 Suezmax 12 11 5 2 30 Afr
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: Ceyhan Rising](../../../charts/poten/2007/poten_2007-02-16_ceyhan-rising_chart1.png)
-
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2007/poten_2007-02-16_ceyhan-rising_chart1.png)
+> **Chart on PDF page 2: Ceyhan Fixtures Since June 2006: Percent Share by Vessel**  
+> Unit: % · X-axis: VLCC to Aframax  
+> Series: VLCC, Suezmax, Aframax  
+> *No image crop of this chart was saved; caption read from the PDF.*

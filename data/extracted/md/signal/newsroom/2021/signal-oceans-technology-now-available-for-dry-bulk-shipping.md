@@ -29,6 +29,8 @@ tags:
 
 The move follows nearly two years of development in close partnership with shipbroker Simpson Spence Young (SSY) and detailed beta testing with more than 30 shipowners and charterers. The Signal Ocean Platform is already successfully used in the tanker market by shipbrokers, shipowners, traders and energy majors who manage around half of the world’s crude oil spot tonnage and cargoes.
 
+Signal Group Chief Executive Officer Ioannis Martinos said: “ Adapting our tanker technology to dry bulk was not straightforward. Working with the dry desk at one of the world’s leading shipbrokers, and a few select clients, helped us develop a dry bulk solution which is relevant and simple to use. We now look forward to engaging commercial teams around the world to extend and improve the product further.”
+
 Launched by [Signal Group](https://www.thesignalgroup.com) in 2018, the[Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean/signal-ocean-platform) continuously processes and combines streams of private and public data such as AIS, tonnage lists, cargo lists, vessel positions, port costs, port line-ups and freight rates. Using advanced algorithms and artificial intelligence, data is transformed into private and actionable insights on the freight market. Users can optimally match vessels to cargoes, run profitability comparisons, make CO2 estimates, and use Signal’s patented technology to forecast vessel movements and availability across the globe.
 
 Stanko Jekov, SSY’s Global Head of Dry Cargo commented:

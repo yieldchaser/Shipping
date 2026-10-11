@@ -36,10 +36,18 @@ Yesterday, Ineos (the operator of the pipeline) announced that they anticipate t
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: Fixing Forties](../../../charts/poten/2017/poten_2017-12-22_fixing-forties_chart1.png)
+![Exhibit 1: Hound Point Loadings](../../../charts/poten/2017/poten_2017-12-22_fixing-forties_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2017/poten_2017-12-22_fixing-forties_chart1.png)
+> **Exhibit 1: Hound Point Loadings**  
+> Unit: Tons (x1,000) · X-axis: Jan-14 to Jul-17  
+> Series: Aframax, Suezmax, VLCC  
+> *Source: Lloyd’s List Intelligence*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2017/poten_2017-12-22_fixing-forties_chart1.png)
 
-![Exhibit 2: Fixing Forties](../../../charts/poten/2017/poten_2017-12-22_fixing-forties_chart2.png)
+![Exhibit 2: 2017 Hound Point Exports by Destination](../../../charts/poten/2017/poten_2017-12-22_fixing-forties_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2017/poten_2017-12-22_fixing-forties_chart2.png)
+> **Exhibit 2: 2017 Hound Point Exports by Destination**  
+> Unit: % · X-axis: China to Other  
+> Series: China, Korea, Netherlands, United Kingdom, North Sea STS, Spain, Other  
+> *Source: Lloyd’s List Intelligence*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2017/poten_2017-12-22_fixing-forties_chart2.png)

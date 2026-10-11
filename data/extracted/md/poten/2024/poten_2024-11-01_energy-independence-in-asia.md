@@ -20,13 +20,15 @@ Vietnam is an oil producer, crude oil importer and exporter. It plans to continu
 
 Oil exploration in Vietnam started in earnest in the 1970s, and first oil was produced from the Bach Ho field in 1986. Production gradually increased until the early 2000s. In August 2004, Vietnam's oil production reached an all-time high of 417,000 barrels per day (b/d). Production averaged around 300,000 b/d from 2000-2015, after which a gradual decline set in. Current production is around 170,000 b/d. Most of Vietnam's crude oil is refined domestically, but limited volumes (around 30,000 b/d) are exported to a variety of countries in the region, including Thailand, Australia, Japan, China, Singapore, Malaysia, and South Korea.
 
-Vietnam has approximately 350,000 b/d of refining capacity. The oldest facility is the Dung Quat Refinery in Quang Ngai Province, on the east coast of central Vietnam. This refinery, which opened in 2010 has a capacity of 130,000 b/d. It processes mostly domestic crude from the Bach Ho Basin, known for its low sulfur content. The second facility is the Nghi Son Refinery and Petrochemical Complex, which has been operational since 2018. This refinery is located in the Thanh Hoa Province in northern Vietnam, 200 kilometers south of Hanoi. This 200,000 b/d facility is designed to process heavy crude oil from Kuwait. Kuwait Petroleum owns 35.1% of the Nghi Son refinery and they are the sole provider of crude oil. [Chart 1](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2024/poten_2024-11-01_energy-independence-in-asia_chart1.png) shows the Vietnams crude oil imports by country of origin. While there are several countries that supply small quantities to the Dung Quat Refinery, the exclusive deal that the Kuwaiti's have with the Nghi Son refinery, means that they dominate Vietnams crude oil imports, providing an average 80% of total crude oil imports over the last four years. This refinery can receive VLCCs, and virtually all crude from Kuwait is delivered on VLCCs. On July 5, 2024, the Nghi Son refinery received the 200th VLCC at its facility.
+Vietnam has approximately 350,000 b/d of refining capacity. The oldest facility is the Dung Quat Refinery in Quang Ngai Province, on the east coast of central Vietnam. This refinery, which opened in 2010 has a capacity of 130,000 b/d. It processes mostly domestic crude from the Bach Ho Basin, known for its low sulfur content. The second facility is the Nghi Son Refinery and Petrochemical Complex, which has been operational since 2018. This refinery is located in the Thanh Hoa Province in northern Vietnam, 200 kilometers south of Hanoi. This 200,000 b/d facility is designed to process heavy crude oil from Kuwait. Kuwait Petroleum owns 35.1% of the Nghi Son refinery and they are the sole provider of crude oil. [Chart 1](../../../charts/poten/2024/poten_2024-11-01_energy-independence-in-asia_chart1.png) shows the Vietnams crude oil imports by country of origin. While there are several countries that supply small quantities to the Dung Quat Refinery, the exclusive deal that the Kuwaiti's have with the Nghi Son refinery, means that they dominate Vietnams crude oil imports, providing an average 80% of total crude oil imports over the last four years. This refinery can receive VLCCs, and virtually all crude from Kuwait is delivered on VLCCs. On July 5, 2024, the Nghi Son refinery received the 200th VLCC at its facility.
 
-> **Exhibit 1: Energy Independence In Asia (Chart 1)**  
-> *Source: Poten & Partners*  
-> **Interactive Data & Source:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2024/poten_2024-11-01_energy-independence-in-asia_chart1.png)
+> **Exhibit 1: Vietnam: Crude Oil Imports by Origin**  
+> Unit: KB/d · X-axis: Jan-21 to Sep-24  
+> Series: Kuwait, Libya, Azerbaijan, Nigeria, United States, Iran, Angola, Brazil, Other  
+> *Source: Vortexa*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2024/poten_2024-11-01_energy-independence-in-asia_chart1.png)
 
-![Exhibit 1: Energy Independence In Asia](../../../charts/poten/2024/poten_2024-11-01_energy-independence-in-asia_chart1.png)
+![Exhibit 1: Vietnam: Crude Oil Imports by Origin](../../../charts/poten/2024/poten_2024-11-01_energy-independence-in-asia_chart1.png)
 
 The two main refineries in Vietnam only produce enough to cover around 50% of the country's oil product and chemical demand. This means that Vietnam has to import significant volumes of refined products. Over the last two years, Vietnam imported an average of 280,000 b/d, mostly from regional suppliers in South Korea, Singapore, Malaysia, China and Thailand. Given the volumes and distances involved, it is no surprise that Vietnam's product imports are mostly done on MRs, Handys and smaller vessels. The use of larger product carriers, such as LR1s is extremely rare.
 
@@ -36,6 +38,10 @@ If Vietnam builds up its refining capacity, it will require more crude oil impor
 
 ## Market Exhibits & Charts
 
-![Exhibit 2: Energy Independence In Asia](../../../charts/poten/2024/poten_2024-11-01_energy-independence-in-asia_chart2.png)
+![Exhibit 2: Vietnam: Clean Product Imports by Origin](../../../charts/poten/2024/poten_2024-11-01_energy-independence-in-asia_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2024/poten_2024-11-01_energy-independence-in-asia_chart2.png)
+> **Exhibit 2: Vietnam: Clean Product Imports by Origin**  
+> Unit: KB/d · X-axis: Jan-21 to Sep-24  
+> Series: South Korea, Singapore, Malaysia, China, Thailand, Indonesia, Brunei, Taiwan, Other  
+> *Source: Vortexa*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2024/poten_2024-11-01_energy-independence-in-asia_chart2.png)

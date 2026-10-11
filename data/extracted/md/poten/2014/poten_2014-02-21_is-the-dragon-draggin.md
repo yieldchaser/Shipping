@@ -34,10 +34,18 @@ While China's continued growth is still a sure thing by any measure, the outlook
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: Is the Dragon Draggin'?](../../../charts/poten/2014/poten_2014-02-21_is-the-dragon-draggin_chart1.png)
+![Exhibit 1: Chinese Charterer Spot Fixture Activity](../../../charts/poten/2014/poten_2014-02-21_is-the-dragon-draggin_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2014/poten_2014-02-21_is-the-dragon-draggin_chart1.png)
+> **Exhibit 1: Chinese Charterer Spot Fixture Activity**  
+> Unit: Units | % · X-axis: 2009 to 2013  
+> Series: To China, To Singapore, % Influence  
+> *Source: Poten & Partners*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2014/poten_2014-02-21_is-the-dragon-draggin_chart1.png)
 
-![Exhibit 2: Is the Dragon Draggin'?](../../../charts/poten/2014/poten_2014-02-21_is-the-dragon-draggin_chart2.png)
+![Exhibit 2: Chinese Refining Capacity](../../../charts/poten/2014/poten_2014-02-21_is-the-dragon-draggin_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2014/poten_2014-02-21_is-the-dragon-draggin_chart2.png)
+> **Exhibit 2: Chinese Refining Capacity**  
+> Unit: kbd · X-axis: 1980 to 2020  
+> Series: Chinese Refining Capacity  
+> *Source: Poten & Partners*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2014/poten_2014-02-21_is-the-dragon-draggin_chart2.png)

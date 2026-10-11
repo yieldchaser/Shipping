@@ -111,6 +111,22 @@ For 2004, Handymax tankers will again be the vessel of choice for clean market c
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: Who is the Biggest of the Clean?](../../../charts/poten/2004/poten_2004-01-23_who-is-the-biggest-of-the-clean_chart1.png)
+> **Chart on PDF page 1: Fixture Activity vs Charterers**  
+> Unit: % Fixtures · X-axis: 0 to 100%  
+> Series: 2002, 2003  
+> *No image crop of this chart was saved; caption read from the PDF.*
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2004/poten_2004-01-23_who-is-the-biggest-of-the-clean_chart1.png)
+> **Chart on PDF page 3: Top Five Charterers for Handymax Fixtures**  
+> X-axis: Shell to CSSA  
+> Series: Shell, Vitol, Citgo, BP, CSSA  
+> *No image crop of this chart was saved; caption read from the PDF.*
+
+> **Chart on PDF page 4: Top Five Charterers for Panamax Fixtures**  
+> X-axis: Vitol to Addax  
+> Series: Vitol, Shell, Itochu, BP, Addax  
+> *No image crop of this chart was saved; caption read from the PDF.*
+
+> **Chart on PDF page 4: Top Five Charterers for Aframax Fixtures**  
+> X-axis: Shell to BP  
+> Series: Shell, Vitol, PDI, Addax, BP  
+> *No image crop of this chart was saved; caption read from the PDF.*

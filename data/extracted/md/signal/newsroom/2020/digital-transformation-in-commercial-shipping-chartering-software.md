@@ -45,20 +45,20 @@ The Signal Ocean chartering software renders a market view that is unique to eac
 The Supply Trend Report (pictured below) can be used to quickly identify market dynamics, including forward vessel supply and emissions data to align with decarbonization efforts. This feature, along with other chartering software capabilities, helps in making informed decisions. Charterers can use this Report to  identify the right time to come to the market with their future cargoes.
 
 
-![Here Is a the Supply Trend Report for VLCCs in Ras Tanura versus the VLCC AG-Far East Market Rates.](../../images/66b51fc0e080abc09f7496b8_5fc15be53f21723d2975e422_Supply%20Trend%20Report%20for%20VLCCs%20in%20Ras%20Tanura%20versus%20the%20VLCC%20AG-Far%20East%20market%20rates.avif)
+![Here Is a the Supply Trend Report for VLCCs in Ras Tanura versus the VLCC AG-Far East Market Rates.](../../images/66b51fc0e080abc09f7496b8_5fc15be53f21723d2975e422_Supply%2520Trend%2520Report%2520for%2520VLCCs%2520in%2520Ras%2520Tanura%2520versus%2520the%2520VLCC%2520AG-Far%2520East%2520market%2520rates.avif)
 
 > **Figure 1: Here Is a the Supply Trend Report for VLCCs in Ras Tanura versus the VLCC AG-Far East Market Rates.**  
 > *Here is a the Supply Trend Report for VLCCs in Ras Tanura versus the VLCC AG-Far East market rates.*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/digital-transformation-in-commercial-shipping-chartering-software) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/66b51fc0e080abc09f7496b8_5fc15be53f21723d2975e422_Supply%20Trend%20Report%20for%20VLCCs%20in%20Ras%20Tanura%20versus%20the%20VLCC%20AG-Far%20East%20market%20rates.avif)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/digital-transformation-in-commercial-shipping-chartering-software) | [Local Asset](../../../../../../corpus/07-signal/images/66b51fc0e080abc09f7496b8_5fc15be53f21723d2975e422_Supply%2520Trend%2520Report%2520for%2520VLCCs%2520in%2520Ras%2520Tanura%2520versus%2520the%2520VLCC%2520AG-Far%2520East%2520market%2520rates.avif)
 
 This report is especially powerful when used in combination with the Fixture Counts Report for the same region and vessel class (pictured below).  Here we see VLCC Fixture counts for 2020 and 2019, broken down into months and decades.
 
 
-![The Fixture Count Dashboard Shows VLCC Fixtures by Region for 2020 and 2019](../../images/66b51fc0e080abc09f7496b4_5fc15be53f2172fed875e423_The%20Fixture%20Count%20Dashboard%20shows%20VLCC%20Fixtures%20-%20signal%20ocean%20platform.avif)
+![The Fixture Count Dashboard Shows VLCC Fixtures by Region for 2020 and 2019](../../images/66b51fc0e080abc09f7496b4_5fc15be53f2172fed875e423_The%2520Fixture%2520Count%2520Dashboard%2520shows%2520VLCC%2520Fixtures%2520-%2520signal%2520ocean%2520platform.avif)
 
 > **Figure 2: The Fixture Count Dashboard Shows VLCC Fixtures by Region for 2020 and 2019**  
 > *The Fixture Count Dashboard shows VLCC Fixtures by region for 2020 and 2019. Here we see Fixtures per month and per decade, organized by region, for Aframax vessels.*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/digital-transformation-in-commercial-shipping-chartering-software) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/66b51fc0e080abc09f7496b4_5fc15be53f2172fed875e423_The%20Fixture%20Count%20Dashboard%20shows%20VLCC%20Fixtures%20-%20signal%20ocean%20platform.avif)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/digital-transformation-in-commercial-shipping-chartering-software) | [Local Asset](../../../../../../corpus/07-signal/images/66b51fc0e080abc09f7496b4_5fc15be53f2172fed875e423_The%2520Fixture%2520Count%2520Dashboard%2520shows%2520VLCC%2520Fixtures%2520-%2520signal%2520ocean%2520platform.avif)
 
 
 ## Real-Time View of a Vessel Under Your Charter
@@ -66,11 +66,11 @@ This report is especially powerful when used in combination with the Fixture Cou
 Use the Signal Ocean chartering software to quickly check the current commercial operation of a vessel. You can see whether the vessel has berthed and check her distance relative to a  port. In addition to enabling Charterers to assess vessel availability, the chartering platform can also be used to provide visibility into whether cargoes load on the desired date and safely reach the required destination within the specified time frame. The Ports Dashboard can be used to provide a detailed, near-real-time view of vessel activity.
 
 
-![Using the Ports Dashboard, You Can See Whether a Vessel Has Berthed and What Operation She Is Currently Doing.](../../images/66b51fc0e080abc09f7496b1_5fc15be53f21721a4e75e424_Ports%20Dashboard%20-%20signal%20ocean%20platform.avif)
+![Using the Ports Dashboard, You Can See Whether a Vessel Has Berthed and What Operation She Is Currently Doing.](../../images/66b51fc0e080abc09f7496b1_5fc15be53f21721a4e75e424_Ports%2520Dashboard%2520-%2520signal%2520ocean%2520platform.avif)
 
 > **Figure 3: Using the Ports Dashboard, You Can See Whether a Vessel Has Berthed and What Operation She Is Currently Doing.**  
 > *Using the Ports Dashboard, you can see whether a vessel has berthed and what operation she is currently doing.*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/digital-transformation-in-commercial-shipping-chartering-software) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/66b51fc0e080abc09f7496b1_5fc15be53f21721a4e75e424_Ports%20Dashboard%20-%20signal%20ocean%20platform.avif)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/digital-transformation-in-commercial-shipping-chartering-software) | [Local Asset](../../../../../../corpus/07-signal/images/66b51fc0e080abc09f7496b1_5fc15be53f21721a4e75e424_Ports%2520Dashboard%2520-%2520signal%2520ocean%2520platform.avif)
 
 Before coming to market and during a voyage, The Signal Ocean Platform enables charterers to spot both high-level market dynamics (including changes in vessel supply, freight rates,  Forward Freight Agreement (FFA) trends) and granular information about vessel movements and current operations, down to the jetty-level. and granular information about vessel movements and current operations, down to the jetty-level. Using Signal Ocean allows charterers to stay informed of market trends and, as a result, make optimal chartering decisions for their business.
 

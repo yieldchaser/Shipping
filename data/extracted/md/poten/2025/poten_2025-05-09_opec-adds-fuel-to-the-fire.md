@@ -24,16 +24,21 @@ What are the implications for the tanker market of the accelerated production in
 
 One of the key challenges is to determine if these increases that OPEC has announced will translate into more barrels on the water or if these increases are being used to satisfy the so-called "compensation plans". Except for Algeria, all the other member in the OPEC-8 group exceeded their production targets during the period between January 2024 and March 2025. On April 16, these countries submitted an updated compensation plan. Iraq, Kazakhstan and (to a lesser extend) Russia overproduced the most. Kazakhstan has shown no real intention to cut back (they boosted exports this year), while Iraq has promised much, but delivered little. The OPEC quotas and compensation plans have become increasingly detailed and complex, but appear to have limited practical impact.
 
-Since the production increases have been announced, we have seen some more exports from the OPEC-8 group, but a detailed look at the seaborne exports of the individual countries does not show a clear pattern (see [Chart 1](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2025/poten_2025-05-09_opec-adds-fuel-to-the-fire_chart1.png)) yet. Crude oil exports in April did average 230,000 b/d higher than those in March, but it is probably too early to call May, although the first week does show an increase. There are also significant month-to-month variations. However, continued increases in OPEC-8 production will show up in the seaborne export numbers and create additional employment opportunities for tankers, in particular VLCCs, which would be the main beneficiaries. Russia and Kazakhstan already produce at or close to capacity, so the increase will likely come from the countries with spare capacity, such as Saudi Arabia, the UAE, Iraq and Kuwait.
+Since the production increases have been announced, we have seen some more exports from the OPEC-8 group, but a detailed look at the seaborne exports of the individual countries does not show a clear pattern (see [Chart 1](../../../charts/poten/2025/poten_2025-05-09_opec-adds-fuel-to-the-fire_chart1.png)) yet. Crude oil exports in April did average 230,000 b/d higher than those in March, but it is probably too early to call May, although the first week does show an increase. There are also significant month-to-month variations. However, continued increases in OPEC-8 production will show up in the seaborne export numbers and create additional employment opportunities for tankers, in particular VLCCs, which would be the main beneficiaries. Russia and Kazakhstan already produce at or close to capacity, so the increase will likely come from the countries with spare capacity, such as Saudi Arabia, the UAE, Iraq and Kuwait.
 
-> **Exhibit 1: OPEC Adds Fuel To The Fire (Chart 1)**  
-> *Source: Poten & Partners*  
-> **Interactive Data & Source:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2025/poten_2025-05-09_opec-adds-fuel-to-the-fire_chart1.png)
+> **Exhibit 1: Seaborne OPEC-8 Crude & Condensates Exports by Origin**  
+> Unit: Mb/d · X-axis: 1-Jan-24 to 21-Apr-25  
+> Series: Saudi Arabia, Russia, Iraq, United Arab Emirates, Kuwait, Oman, Algeria, Kazakhstan  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2025/poten_2025-05-09_opec-adds-fuel-to-the-fire_chart1.png)
 
-![Exhibit 1: OPEC Adds Fuel To The Fire](../../../charts/poten/2025/poten_2025-05-09_opec-adds-fuel-to-the-fire_chart1.png)
+![Exhibit 1: Seaborne OPEC-8 Crude & Condensates Exports by Origin](../../../charts/poten/2025/poten_2025-05-09_opec-adds-fuel-to-the-fire_chart1.png)
 
 ## Market Exhibits & Charts
 
-![Exhibit 2: OPEC Adds Fuel To The Fire](../../../charts/poten/2025/poten_2025-05-09_opec-adds-fuel-to-the-fire_chart2.png)
+![Exhibit 2: Seaborne OPEC-8 Crude & Condensates Exports by Vessel Class](../../../charts/poten/2025/poten_2025-05-09_opec-adds-fuel-to-the-fire_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2025/poten_2025-05-09_opec-adds-fuel-to-the-fire_chart2.png)
+> **Exhibit 2: Seaborne OPEC-8 Crude & Condensates Exports by Vessel Class**  
+> Unit: Mb/d · X-axis: 1-Jan-24 to 21-Apr-25  
+> Series: VLCC, Suezmax, Aframax/LR2, Smaller  
+> *Source: Vortexa*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2025/poten_2025-05-09_opec-adds-fuel-to-the-fire_chart2.png)

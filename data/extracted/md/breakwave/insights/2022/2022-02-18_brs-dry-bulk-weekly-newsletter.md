@@ -22,29 +22,29 @@ source_file: "corpus/03-breakwave/insights/2022/2022-02-18_brs-dry-bulk-weekly-n
 
 This year has started with bang as a sustained rally in oil prices has propelled marine fuel prices to their highest levels since 1 January 2020, when the majority of the world’s fleet switched to lower sulphur fuel. This week, we present our outlook for crude and marine fuel prices and discuss whether higher marine fuel prices, and wider spreads between low sulphur and high sulphur fuels, are here to stay.
 
-![Screenshot 20220218 121748 Word](assets/2022-02-18_brs-dry-bulk-weekly-newsletter_img_screenshot-20220218-121748-word_cd931aecb8c5.jpg)
+![Screenshot 20220218 121748 Word](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-02-18_brs-dry-bulk-weekly-newsletter_img_screenshot-20220218-121748-word_cd931aecb8c5.jpg)
 
 > **Figure 1: Screenshot 20220218 121748 Word**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-02-18_brs-dry-bulk-weekly-newsletter_img_screenshot-20220218-121748-word_cd931aecb8c5.jpg)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-02-18_brs-dry-bulk-weekly-newsletter_img_screenshot-20220218-121748-word_cd931aecb8c5.jpg)
 
-![Screenshot 20220218 121806 Word](assets/2022-02-18_brs-dry-bulk-weekly-newsletter_img_screenshot-20220218-121806-word_9b7a66f2cf89.jpg)
+![Screenshot 20220218 121806 Word](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-02-18_brs-dry-bulk-weekly-newsletter_img_screenshot-20220218-121806-word_9b7a66f2cf89.jpg)
 
 > **Figure 2: Screenshot 20220218 121806 Word**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-02-18_brs-dry-bulk-weekly-newsletter_img_screenshot-20220218-121806-word_9b7a66f2cf89.jpg)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-02-18_brs-dry-bulk-weekly-newsletter_img_screenshot-20220218-121806-word_9b7a66f2cf89.jpg)
 
 ### Crude Prices Hit Eight-Year Highs
 
 Crude prices have surged to eight-year highs since the start of the year after being stoked by a combination of a relatively tight physical crude market, oil inventories in several major consumer languishing at low levels, tightening global middle distillates markets and simmering geopolitical tensions between Ukraine and Russia so that front month ICE Brent and NYMEX WTI are currently oscillating around $93/bbl and $91/bbl, respectively. Furthermore, although these factors largely impact prompt factors, they have also succeeded in dragging prices for future delivery higher.
 
-![Screenshot 20220218 121757 Word](assets/2022-02-18_brs-dry-bulk-weekly-newsletter_img_screenshot-20220218-121757-word_65a0428c63f6.jpg)
+![Screenshot 20220218 121757 Word](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-02-18_brs-dry-bulk-weekly-newsletter_img_screenshot-20220218-121757-word_65a0428c63f6.jpg)
 
 > **Figure 3: Screenshot 20220218 121757 Word**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-02-18_brs-dry-bulk-weekly-newsletter_img_screenshot-20220218-121757-word_65a0428c63f6.jpg)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-02-18_brs-dry-bulk-weekly-newsletter_img_screenshot-20220218-121757-word_65a0428c63f6.jpg)
 
-![Screenshot 20220218 121753 Word](assets/2022-02-18_brs-dry-bulk-weekly-newsletter_img_screenshot-20220218-121753-word_69af0a287328.jpg)
+![Screenshot 20220218 121753 Word](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-02-18_brs-dry-bulk-weekly-newsletter_img_screenshot-20220218-121753-word_69af0a287328.jpg)
 
 > **Figure 4: Screenshot 20220218 121753 Word**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-02-18_brs-dry-bulk-weekly-newsletter_img_screenshot-20220218-121753-word_69af0a287328.jpg)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-02-18_brs-dry-bulk-weekly-newsletter_img_screenshot-20220218-121753-word_69af0a287328.jpg)
 
 ### Where Next for Crude Prices?
 
@@ -60,10 +60,10 @@ The main question is how will the above impact marine fuel prices?Considering ou
 
 To a certain extent, global high sulphur fuel oil (HSFO, sold into the bunker pool as 380 Cst) markets are also being supported by similar factors to those supporting lower sulphur fuels and today’s marine fuel futures prices suggest that VLSFO and MGO will strengthen versus 380 Cst. However, we believe that there remains plenty of scope for the opposite to occur. Global high sulphur fuel demand currently remains supported by the switch of some natural gas-fired power generation capacity, especially in the Northern Hemisphere, to fuel oil. This has occurred as natural gas prices have soared with recent data suggesting that, on a barrel of oil equivalent basis, European natural gas prices recently an eyewatering $350/bbl. However, natural gas prices should weaken once the Northern Hemisphere exits peak winter demand season which should also see fuel oil demand weaken. Furthermore, as OPEC+ continues to unwind its production cuts, this should see global sour crude production steadily rise. As more sour crude is processed by refiners this ‘organically’ boosts the output of HSFO and most of our oil supply growth this year is either very light crude (especially from the US) or sour, neither of which will help simple refiners ‘organically’ increase their production of the demanded-for middle of the barrel products.
 
-![Screenshot 20220218 121820 Word](assets/2022-02-18_brs-dry-bulk-weekly-newsletter_img_screenshot-20220218-121820-word_8c3b1fec5abc.jpg)
+![Screenshot 20220218 121820 Word](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-02-18_brs-dry-bulk-weekly-newsletter_img_screenshot-20220218-121820-word_8c3b1fec5abc.jpg)
 
 > **Figure 5: Screenshot 20220218 121820 Word**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-02-18_brs-dry-bulk-weekly-newsletter_img_screenshot-20220218-121820-word_8c3b1fec5abc.jpg)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-02-18_brs-dry-bulk-weekly-newsletter_img_screenshot-20220218-121820-word_8c3b1fec5abc.jpg)
 
 ### So How Will the Drybulk Fleet React to Higher Bunker Prices?
 

@@ -36,10 +36,10 @@ During the initial four months of this year, crude steel production across China
 
 Amidst challenging conditions in the steel and property markets, Chinese authorities recently unveiled their most ambitious plan yet. This plan includes reducing minimum down payment requirements to as low as 15 percent, down from the previous 20 percent, and eliminating the floor on mortgage rates nationwide. Additionally, policymakers allocated 300 billion yuan ($42.25 billion) in financing for local state-owned enterprises to purchase unsold completed apartments, aiming to convert them into affordable housing. Despite these efforts, doubts persist regarding their effectiveness. Goldman Sachs suggests that China's housing market still has room to weaken, as previous attempts to revitalize it have failed to halt a three-year decline. Estimates propose that the government may need to invest more than 15 trillion yuan (US$2.1 trillion) to address the underlying issues plaguing the sector. In sync, Baltic indices continue to express skepticism about the tangible impact of the latest Chinese measures, with trends mostly sideways during the twenty-first trading week.
 
-![Στιγμιότυπο Οθόνης 2024 05 27 111839](assets/2024-05-27_bafwp3ot2by3dhfu1qe1am2ttrykw7_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_7023690804c1.png)
+![Στιγμιότυπο Οθόνης 2024 05 27 111839](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-05-27_bafwp3ot2by3dhfu1qe1am2ttrykw7_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_7023690804c1.png)
 
 > **Figure 1: Στιγμιότυπο Οθόνης 2024 05 27 111839**  
-> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-05-27_bafwp3ot2by3dhfu1qe1am2ttrykw7_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_7023690804c1.png)
+> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-05-27_bafwp3ot2by3dhfu1qe1am2ttrykw7_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_7023690804c1.png)
 
 Data source:[Doric](https://www.doric.gr/)
 

@@ -26,10 +26,10 @@ Snapshot of Crude and Product Freight Rates, Supply-Demand
 
 Week 19, 08 May, 2025
 
-![Στιγμιότυπο Οθόνης 2025 05 09 111955](assets/2025-05-09_decline-in-saudi-oil-flows-to-china-in-q2-2025_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_2199bf95cbfb.png)
+![Στιγμιότυπο Οθόνης 2025 05 09 111955](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-05-09_decline-in-saudi-oil-flows-to-china-in-q2-2025_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_2199bf95cbfb.png)
 
 > **Figure 1: Στιγμιότυπο Οθόνης 2025 05 09 111955**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-05-09_decline-in-saudi-oil-flows-to-china-in-q2-2025_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_2199bf95cbfb.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-05-09_decline-in-saudi-oil-flows-to-china-in-q2-2025_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_2199bf95cbfb.png)
 
 In the second quarter of 2025, oil flows from Saudi Arabia to China declined sharply. This downturn can be attributed to a combination of seasonal and structural factors. Notably, Chinese refineries traditionally undergo scheduled maintenance during Q2, particularly in April and May. This maintenance period temporarily reduces the country's crude oil demand, decreasing import volumes. Additionally, inventories that had been stockpiled in the first quarter were likely drawn down, as Chinese importers had proactively increased purchases ahead of anticipated market shifts, such as price hikes or supply disruptions. This front-loading of imports occurred just as a key development unfolded in global oil supply. In late April 2025, OPEC+ announced it would begin gradually unwinding its voluntary production cuts, starting in June with an additional 411,000 barrels per day of crude entering the market. The timing suggests that importers may have been positioning themselves ahead of expected changes in supply dynamics. The bloc's leading producers, Saudi Arabia and Russia spearheaded this decision. The move was motivated by a desire to regain market share and stimulate global demand, particularly as oil prices had begun to soften amid economic uncertainties.
 
@@ -43,43 +43,43 @@ Amid a sustained downturn in global oil prices—Brent crude recently fell below
 
 In summary, the Q2 2025 decline in Saudi oil flows to China reflects a mix of seasonal demand reduction, strategic inventory adjustments, and evolving global supply dynamics. The OPEC+ decision to raise output has introduced downward pressure on prices, while geopolitical and macroeconomic uncertainties continue to influence global demand. However, signs point to a possible rebound in Chinese imports from Saudi Arabia later in the year, contingent on refinery utilization, economic stimulus, and the relative attractiveness of Saudi crude compared to other suppliers.
 
-![Στιγμιότυπο Οθόνης 2025 05 09 112037](assets/2025-05-09_decline-in-saudi-oil-flows-to-china-in-q2-2025_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_bc0a5114d3f9.png)
+![Στιγμιότυπο Οθόνης 2025 05 09 112037](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-05-09_decline-in-saudi-oil-flows-to-china-in-q2-2025_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_bc0a5114d3f9.png)
 
 > **Figure 2: Στιγμιότυπο Οθόνης 2025 05 09 112037**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-05-09_decline-in-saudi-oil-flows-to-china-in-q2-2025_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_bc0a5114d3f9.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-05-09_decline-in-saudi-oil-flows-to-china-in-q2-2025_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_bc0a5114d3f9.png)
 
 Crude oil tanker freight market sentiment weakened in the second week of May. The Suezmax segment indicated a more pronounced downward trend compared to the start of the month.
 
 - **VLCC**freight rates on the**MEG–China**dropped to WS 60, reflecting a 12% weekly decrease. Meanwhile, Suezmax rates from West Africa to continental Europe dropped below WS100, showing an 18% weekly decrease. Meanwhile, rates on the**Baltic–Mediterranean route**dropped to WS110, standing 17% lower than a week ago.
 - **Aframax**freight rates in the**Mediterranean**dropped below WS170, showing 7% weekly decrease.
 
-![Στιγμιότυπο Οθόνης 2025 05 09 112054](assets/2025-05-09_decline-in-saudi-oil-flows-to-china-in-q2-2025_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_6bd01ff6dfe1.png)
+![Στιγμιότυπο Οθόνης 2025 05 09 112054](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-05-09_decline-in-saudi-oil-flows-to-china-in-q2-2025_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_6bd01ff6dfe1.png)
 
 > **Figure 3: Στιγμιότυπο Οθόνης 2025 05 09 112054**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-05-09_decline-in-saudi-oil-flows-to-china-in-q2-2025_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_6bd01ff6dfe1.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-05-09_decline-in-saudi-oil-flows-to-china-in-q2-2025_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_6bd01ff6dfe1.png)
 
 - **LR2**AG freight rates dropped to WS110, reflecting a monthly drop of 25%.
 
-![Στιγμιότυπο Οθόνης 2025 05 09 112105](assets/2025-05-09_decline-in-saudi-oil-flows-to-china-in-q2-2025_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_4124dea95ad4.png)
+![Στιγμιότυπο Οθόνης 2025 05 09 112105](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-05-09_decline-in-saudi-oil-flows-to-china-in-q2-2025_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_4124dea95ad4.png)
 
 > **Figure 4: Στιγμιότυπο Οθόνης 2025 05 09 112105**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-05-09_decline-in-saudi-oil-flows-to-china-in-q2-2025_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_4124dea95ad4.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-05-09_decline-in-saudi-oil-flows-to-china-in-q2-2025_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_4124dea95ad4.png)
 
 - **Panamax**Carib-to-USG rates showed a slight upward trend, reaching approximately WS180. However, these rates are still 10% lower compared to the levels observed a month prior.
 
-![Στιγμιότυπο Οθόνης 2025 05 09 112113](assets/2025-05-09_decline-in-saudi-oil-flows-to-china-in-q2-2025_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_690c3a4588bf.png)
+![Στιγμιότυπο Οθόνης 2025 05 09 112113](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-05-09_decline-in-saudi-oil-flows-to-china-in-q2-2025_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_690c3a4588bf.png)
 
 > **Figure 5: Στιγμιότυπο Οθόνης 2025 05 09 112113**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-05-09_decline-in-saudi-oil-flows-to-china-in-q2-2025_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_690c3a4588bf.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-05-09_decline-in-saudi-oil-flows-to-china-in-q2-2025_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_690c3a4588bf.png)
 
 - **MR1**freight rates for Baltic-to-Continent shipments hovered around WS140, representing a 7% monthly decrease.
 
 - **MR2**freight rates for shipments from the Continent to the US Atlantic Coast (USAC) reached WS125, a 15% monthly decrease. Meanwhile, MR2 rates from the US Gulf to the Continent remained stable around WS110, consistent with the previous week's sentiment and levels observed a month prior.
 
-![Στιγμιότυπο Οθόνης 2025 05 09 112120](assets/2025-05-09_decline-in-saudi-oil-flows-to-china-in-q2-2025_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_827a90fcc74c.png)
+![Στιγμιότυπο Οθόνης 2025 05 09 112120](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-05-09_decline-in-saudi-oil-flows-to-china-in-q2-2025_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_827a90fcc74c.png)
 
 > **Figure 6: Στιγμιότυπο Οθόνης 2025 05 09 112120**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-05-09_decline-in-saudi-oil-flows-to-china-in-q2-2025_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_827a90fcc74c.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-05-09_decline-in-saudi-oil-flows-to-china-in-q2-2025_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_827a90fcc74c.png)
 
 ​​​​​The upward pressure observed at the close of April intensified in early May, with the first week of the month showing a significant increase from the lows of two weeks prior.
 
@@ -88,31 +88,31 @@ Crude oil tanker freight market sentiment weakened in the second week of May. Th
 - **Aframax Med**: The current number continues with a downward trend, still well below the annual benchmark of 10.
 - **Aframax Baltic**: The current number of ships is approximately 30, an increase of nearly 7 vessels compared to the end of last week. This figure is now only 2 ships below the annual average.
 
-![Στιγμιότυπο Οθόνης 2025 05 09 112134](assets/2025-05-09_decline-in-saudi-oil-flows-to-china-in-q2-2025_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_2111c05e7169.png)
+![Στιγμιότυπο Οθόνης 2025 05 09 112134](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-05-09_decline-in-saudi-oil-flows-to-china-in-q2-2025_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_2111c05e7169.png)
 
 > **Figure 7: Στιγμιότυπο Οθόνης 2025 05 09 112134**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-05-09_decline-in-saudi-oil-flows-to-china-in-q2-2025_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_2111c05e7169.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-05-09_decline-in-saudi-oil-flows-to-china-in-q2-2025_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_2111c05e7169.png)
 
-![Στιγμιότυπο Οθόνης 2025 05 09 112141](assets/2025-05-09_decline-in-saudi-oil-flows-to-china-in-q2-2025_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_9544ab2b46ce.png)
+![Στιγμιότυπο Οθόνης 2025 05 09 112141](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-05-09_decline-in-saudi-oil-flows-to-china-in-q2-2025_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_9544ab2b46ce.png)
 
 > **Figure 8: Στιγμιότυπο Οθόνης 2025 05 09 112141**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-05-09_decline-in-saudi-oil-flows-to-china-in-q2-2025_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_9544ab2b46ce.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-05-09_decline-in-saudi-oil-flows-to-china-in-q2-2025_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_9544ab2b46ce.png)
 
 - **Clean LR2 AG Jubail**: Amid levels hovering below the annual average of 11, the vessel count has started to show signs of a soft increase from the end of April.
 
 - **Clean MR**: Skikda, Algeria, experienced a significant increase in MR1 vessel calls, reaching 43, which is over ten more than the annual average. This elevated activity mirrors the previous week's levels. In Amsterdam, MR2 vessel calls continue to trend upwards, exceeding the yearly average of 32 for the third straight week, indicating ongoing growth in vessel traffic this May.
 
-![Στιγμιότυπο Οθόνης 2025 05 09 112151](assets/2025-05-09_decline-in-saudi-oil-flows-to-china-in-q2-2025_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_a2d1e073f7bb.png)
+![Στιγμιότυπο Οθόνης 2025 05 09 112151](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-05-09_decline-in-saudi-oil-flows-to-china-in-q2-2025_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_a2d1e073f7bb.png)
 
 > **Figure 9: Στιγμιότυπο Οθόνης 2025 05 09 112151**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-05-09_decline-in-saudi-oil-flows-to-china-in-q2-2025_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_a2d1e073f7bb.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-05-09_decline-in-saudi-oil-flows-to-china-in-q2-2025_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_a2d1e073f7bb.png)
 
 - **Dirty**tonne days: Tonne-day growth is sharply declining in early May, particularly for VLCCs. Aframax tonne days are also trending downwards after a brief recovery two weeks prior. Suezmax tonne-day growth remains near its annual average for over six weeks, with the last peak occurring at the end of week 11.
 
-![Στιγμιότυπο Οθόνης 2025 05 09 112158](assets/2025-05-09_decline-in-saudi-oil-flows-to-china-in-q2-2025_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_5df7c841733e.png)
+![Στιγμιότυπο Οθόνης 2025 05 09 112158](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-05-09_decline-in-saudi-oil-flows-to-china-in-q2-2025_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_5df7c841733e.png)
 
 > **Figure 10: Στιγμιότυπο Οθόνης 2025 05 09 112158**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-05-09_decline-in-saudi-oil-flows-to-china-in-q2-2025_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_5df7c841733e.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-05-09_decline-in-saudi-oil-flows-to-china-in-q2-2025_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_5df7c841733e.png)
 
 - **Panamax**tonne days: Over the past seven weeks, the growth rate has remained below this year's weekly average, in contrast to the end of Week 8, when levels were close to surpassing the annual average.
 

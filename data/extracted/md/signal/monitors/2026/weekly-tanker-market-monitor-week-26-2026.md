@@ -31,26 +31,26 @@ tags:
 *Arabian Gulf dirty-cargo flows, 2026 (blue) vs. 2023–2025. Flows collapse from early March and remain depressed through Q2.*
 
 
-![(Oil Flows Trend Analysis)](../../images/6a3e51d5618ca6eea68c1312_c11f7fb6.png)
+![(Oil Flows Trend Analysis)](../../../../../../corpus/07-signal/images/6a3e51d5618ca6eea68c1312_c11f7fb6.png)
 
 > **Figure 1: (Oil Flows Trend Analysis)**  
 > *(Oil Flows Trend Analysis)*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-tanker-market-monitor-week-26-2026) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6a3e51d5618ca6eea68c1312_c11f7fb6.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-tanker-market-monitor-week-26-2026) | [Local Asset](../../../../../../corpus/07-signal/images/6a3e51d5618ca6eea68c1312_c11f7fb6.png)
 
 The 2026 trend (blue) sits far below its 2023–2025 range, the visible fingerprint of the wartime collapse. Flows tracked the historical norm through mid-March, fell off a cliff in the last week of March, and bottomed at 3.31M barrels on 21 May. The series has since recovered to 6.97M barrels on 24 June, but the year-to-date average of 10.68M remains about 40% below the three-year same-window average of 17.85M.
 
 
-![Spotlight of the Week| AG Dirty Oil Flows](../../images/6a3e51d5618ca6eea68c1315_44a70ba8.png)
+![Spotlight of the Week| AG Dirty Oil Flows](../../../../../../corpus/07-signal/images/6a3e51d5618ca6eea68c1315_44a70ba8.png)
 
 > **Figure 2: Spotlight of the Week| AG Dirty Oil Flows**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-tanker-market-monitor-week-26-2026) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6a3e51d5618ca6eea68c1315_44a70ba8.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-tanker-market-monitor-week-26-2026) | [Local Asset](../../../../../../corpus/07-signal/images/6a3e51d5618ca6eea68c1315_44a70ba8.png)
 
 
-![West→east Vessel Count (7-Day Moving Average)](../../images/6a3e51d5618ca6eea68c1318_78f55228.png)
+![West→east Vessel Count (7-Day Moving Average)](../../../../../../corpus/07-signal/images/6a3e51d5618ca6eea68c1318_78f55228.png)
 
 > **Figure 3: West→east Vessel Count (7-Day Moving Average)**  
 > *West→East vessel count (7-day moving average)*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-tanker-market-monitor-week-26-2026) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6a3e51d5618ca6eea68c1318_78f55228.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-tanker-market-monitor-week-26-2026) | [Local Asset](../../../../../../corpus/07-signal/images/6a3e51d5618ca6eea68c1318_78f55228.png)
 
 West-to-East vessel count, smoothed on a 7-day moving average, tracks the prior-year range through February, then collapses to zero around 9 March when the strait closed. Transits hold near zero through May, a near-total halt of roughly eleven weeks, before turning sharply upward and reaching 4.86 on 25 June. That rebound is consistent with the loadings recovery seen in the cargo data, though transits remain about 58% below the 2023–2025 norm for the same window.
 
@@ -86,17 +86,17 @@ The bypass routes that carried Gulf crude during the closure are not a temporary
 Yanbu tells the other half of the story. As Gulf transits stalled, loadings here climbed steadily from March and now run far above any prior year, a clear sign that crude is being rerouted to the Red Sea coast. The pace stepped up sharply after the 19 June deal, lifting daily loadings from about 2.7 to 4.0 mbpd within days and pushing the 7-day average to a 4.06 mbpd peak on 23 June. June's monthly average of 2.68 mbpd already edges out May's 2.53, and the late-month surge points to a stronger July.
 
 
-![(Oil Flows Trend Analysis)](../../images/6a3e51d5618ca6eea68c130f_bf460262.png)
+![(Oil Flows Trend Analysis)](../../../../../../corpus/07-signal/images/6a3e51d5618ca6eea68c130f_bf460262.png)
 
 > **Figure 4: (Oil Flows Trend Analysis)**  
 > *(Oil Flows Trend Analysis)*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-tanker-market-monitor-week-26-2026) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6a3e51d5618ca6eea68c130f_bf460262.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-tanker-market-monitor-week-26-2026) | [Local Asset](../../../../../../corpus/07-signal/images/6a3e51d5618ca6eea68c130f_bf460262.png)
 
 
-![Pipelines & The Red Sea Outlet](../../images/6a3e51d5618ca6eea68c131b_8765a1e0.png)
+![Pipelines & The Red Sea Outlet](../../../../../../corpus/07-signal/images/6a3e51d5618ca6eea68c131b_8765a1e0.png)
 
 > **Figure 5: Pipelines & The Red Sea Outlet**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-tanker-market-monitor-week-26-2026) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6a3e51d5618ca6eea68c131b_8765a1e0.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-tanker-market-monitor-week-26-2026) | [Local Asset](../../../../../../corpus/07-signal/images/6a3e51d5618ca6eea68c131b_8765a1e0.png)
 
 Two signals track the recovery: Yanbu crude loadings and the West→East vessel count, both on a 7-day moving-average basis. Both turned up in late June; neither has yet returned to a settled pre-disruption pattern.
 
@@ -104,7 +104,7 @@ Two signals track the recovery: Yanbu crude loadings and the West→East vessel 
 ![Pipelines & The Red Sea Outlet](../../images/6a3e51a6e12b58f1247e4d7d_Screenshot 2026-06-26 at 10.28.40.png)
 
 > **Figure 6: Pipelines & The Red Sea Outlet**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-tanker-market-monitor-week-26-2026) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6a3e51a6e12b58f1247e4d7d_Screenshot 2026-06-26 at 10.28.40.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-tanker-market-monitor-week-26-2026) | [Local Asset](../../../../../../corpus/07-signal/images/6a3e51a6e12b58f1247e4d7d_Screenshot%202026-06-26%20at%2010.28.40.png)
 
 
 ## Risks to the Recovery

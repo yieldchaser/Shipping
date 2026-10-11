@@ -46,6 +46,26 @@ Tanker owners should keep a sharp eye on the driver, AG exports, but in today's 
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: The Driver](../../../charts/poten/2004/poten_2004-10-29_the-driver_chart1.png)
+> **Chart on PDF page 1: Vlcc Rates vs Middle East Exports**  
+> Unit: WS Rates | MM Bpd · X-axis: Jan-01 to Jul-04  
+> Series: WS Rates, Mm Bpd  
+> *Source: Poten/EIA*  
+> *No image crop of this chart was saved; caption read from the PDF.*
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2004/poten_2004-10-29_the-driver_chart1.png)
+> **Chart on PDF page 2: Comparison of Vlcc & Suezmax WS Rates**  
+> Unit: WS Rates · X-axis: Jan-01 to Jul-04  
+> Series: Suezmax, Vlcc  
+> *Source: Poten & Partners*  
+> *No image crop of this chart was saved; caption read from the PDF.*
+
+> **Chart on PDF page 3: Comparison of Suezmax & Aframax WS Rates**  
+> Unit: WS Rates · X-axis: Jan-01 to Jul-04  
+> Series: Aframax, Suezmax  
+> *Source: Poten & Partners*  
+> *No image crop of this chart was saved; caption read from the PDF.*
+
+> **Chart on PDF page 4: Comparison of Aframax & Panamax WS Rates**  
+> Unit: WS Rates · X-axis: Jan-01 to Jul-04  
+> Series: Panamax, Aframax  
+> *Source: Poten & Partners*  
+> *No image crop of this chart was saved; caption read from the PDF.*

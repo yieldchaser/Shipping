@@ -42,6 +42,12 @@ If the IEA outlook proves correct, and barring extraordinary developments, VLCC 
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: 2006 IEA Outlook: Let the Good Times Roll?](../../../charts/poten/2006/poten_2006-07-07_2006-iea-outlook-let-the-good-times-roll_chart1.png)
+> **Chart on PDF page 1: IEA Worldwide Oil Demand**  
+> Unit: mm bbl/d · X-axis: 2004 to 2006  
+> Series: US Demand, Other OECD Demand, non-OECD Demand  
+> *No image crop of this chart was saved; caption read from the PDF.*
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2006/poten_2006-07-07_2006-iea-outlook-let-the-good-times-roll_chart1.png)
+> **Chart on PDF page 2: Sources of non-OECD 2006 Growth**  
+> Unit: % · X-axis: FSU to Africa  
+> Series: FSU, Europe, China, Other Asia, Latin America, Middle East, Africa  
+> *No image crop of this chart was saved; caption read from the PDF.*

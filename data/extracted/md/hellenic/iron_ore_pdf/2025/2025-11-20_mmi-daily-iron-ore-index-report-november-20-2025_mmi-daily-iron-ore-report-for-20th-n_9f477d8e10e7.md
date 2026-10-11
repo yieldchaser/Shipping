@@ -162,56 +162,75 @@ Today, DCE iron ore continued to weake trend today, with the most-traded contrac
 | **SGX** | **Dec. 25** | USD/DMT | 104.00 | -0.35 | -0.34% | 10.19 | 65.41 | 103.25 | 104.85 |
 
 ## Dry Bulk Freight Rates Historical Line Data (USD/MT)
+> **Estimate.** The report prints no numbers for this chart. Values are computed from the chart's vector geometry at each x-axis date label (calibrated on the printed axis ticks; typically within 1% of the axis range).
+
 | Date | C5 W. Australia - Qingdao (USD/MT) | C3 Tubarao - Qingdao (USD/MT) |
 | :--- | :--- | :--- |
-| 4-Jan-21 | 15.00 | 18.00 |
-| 4-Mar-21 | 20.00 | 22.00 |
-| 4-May-21 | 25.00 | 28.00 |
-| 4-Sep-21 | 50.00 | 48.00 |
-| 4-Nov-21 | 22.00 | 25.00 |
-| 4-Jan-22 | 18.00 | 20.00 |
-| 4-Mar-22 | 20.00 | 22.00 |
-| 4-May-22 | 18.00 | 20.00 |
-| 4-Jul-22 | 16.00 | 18.00 |
-| 4-Sep-22 | 16.00 | 18.00 |
-| 4-Nov-22 | 16.00 | 18.00 |
-| 4-Jan-23 | 16.00 | 18.00 |
-| 4-Mar-23 | 16.00 | 18.00 |
-| 4-May-23 | 16.00 | 18.00 |
-| 4-Jul-23 | 16.00 | 18.00 |
-| 4-Sep-23 | 16.00 | 18.00 |
-| 4-Nov-23 | 16.00 | 18.00 |
-| 4-Jan-24 | 16.00 | 18.00 |
-| 4-Mar-24 | 16.00 | 18.00 |
-| 4-May-24 | 16.00 | 18.00 |
-| 4-Jul-24 | 16.00 | 18.00 |
-| 4-Sep-24 | 16.00 | 18.00 |
-| 4-Nov-24 | 16.00 | 18.00 |
-| 4-Jan-25 | 16.00 | 18.00 |
-| 4-Mar-25 | 16.00 | 18.00 |
-| 4-May-25 | 16.00 | 18.00 |
-| 4-Jul-25 | 16.00 | 18.00 |
-| 4-Sep-25 | 16.00 | 18.00 |
-| 4-Nov-25 | 16.00 | 18.00 |
+| 4-Jan-21 | 8.92 | 15.63 |
+| 4-Mar-21 | 7.25 | 15.63 |
+| 4-May-21 | 14.51 | 30.44 |
+| 4-Jul-21 | 10.60 | 25.40 |
+| 4-Sep-21 | 13.67 | 33.23 |
+| 4-Nov-21 | 10.60 | 24.85 |
+| 4-Jan-22 | 8.92 | 22.33 |
+| 4-Mar-22 | 10.04 | 23.46 |
+| 4-May-22 | 12.00 | 25.69 |
+| 4-Jul-22 | 10.88 | 30.16 |
+| 4-Sep-22 | 8.08 | 19.54 |
+| 4-Nov-22 | 8.64 | 20.94 |
+| 4-Jan-23 | 7.53 | 18.98 |
+| 4-Mar-23 | 7.80 | 18.70 |
+| 4-May-23 | 8.92 | 22.34 |
+| 4-Jul-23 | 8.08 | 20.66 |
+| 4-Sep-23 | 8.08 | 18.70 |
+| 4-Nov-23 | 8.37 | 20.39 |
+| 4-Jan-24 | 9.76 | 29.60 |
+| 4-Mar-24 | 14.79 | 29.60 |
+| 4-May-24 | 10.04 | 25.13 |
+| 4-Jul-24 | 10.32 | 28.48 |
+| 4-Sep-24 | 11.72 | 28.20 |
+| 4-Nov-24 | 8.64 | 20.38 |
+| 4-Jan-25 | 6.96 | 17.86 |
+| 4-Mar-25 | 10.60 | 20.10 |
+| 4-May-25 | 7.81 | 19.26 |
+| 4-Jul-25 | 7.24 | 18.71 |
+| 4-Sep-25 | 10.04 | 24.29 |
+| 4-Nov-25 | 10.32 | 23.45 |
 
 ## Total China Iron Ore Import Volumes (Million Tonnes)
+> **Estimate.** The report prints no numbers for this chart. Values are computed from the chart's vector geometry at each x-axis date label (calibrated on the printed axis ticks; typically within 1% of the axis range).
+
 | Month / Period | Import Volume (Million Tonnes) |
 | :--- | :--- |
-| Jun-23 | 95.00 |
-| Aug-23 | 105.00 |
-| Oct-23 | 100.00 |
-| Dec-23 | 103.00 |
-| Feb-24 | 112.00 |
-| Apr-24 | 102.00 |
-| Jun-24 | 103.00 |
-| Aug-24 | 104.00 |
-| Oct-24 | 104.00 |
-| Dec-24 | 112.00 |
-| Feb-25 | 96.00 |
-| Apr-25 | 94.00 |
-| Jun-25 | 106.00 |
-| Aug-25 | 105.00 |
-| Oct-25 | 110.00 |
+| Jun-23 | 95.54 |
+| Jul-23 | 93.59 |
+| Aug-23 | 106.41 |
+| Sep-23 | 101.19 |
+| Oct-23 | 99.46 |
+| Nov-23 | 102.72 |
+| Dec-23 | 100.76 |
+| Jan-24 | 111.85 |
+| Feb-24 | 97.50 |
+| Mar-24 | 100.76 |
+| Apr-24 | 101.85 |
+| May-24 | 102.06 |
+| Jun-24 | 97.72 |
+| Jul-24 | 102.72 |
+| Aug-24 | 101.41 |
+| Sep-24 | 104.24 |
+| Oct-24 | 103.80 |
+| Nov-24 | 101.85 |
+| Dec-24 | 112.50 |
+| Jan-25 | 97.06 |
+| Feb-25 | 94.24 |
+| Mar-25 | 94.02 |
+| Apr-25 | 103.15 |
+| May-25 | 98.15 |
+| Jun-25 | 105.98 |
+| Jul-25 | 104.67 |
+| Aug-25 | 105.33 |
+| Sep-25 | 116.41 |
+| Oct-25 | 111.19 |
 
 ---
 

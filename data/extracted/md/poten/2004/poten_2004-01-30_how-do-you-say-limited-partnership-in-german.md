@@ -78,6 +78,3 @@ Since 1999, there have been more than 60 reported KG transactions involving tank
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: How Do You Say "Limited Partnership" in German?](../../../charts/poten/2004/poten_2004-01-30_how-do-you-say-limited-partnership-in-german_chart1.png)
-
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2004/poten_2004-01-30_how-do-you-say-limited-partnership-in-german_chart1.png)

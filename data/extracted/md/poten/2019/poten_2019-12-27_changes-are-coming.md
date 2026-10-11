@@ -32,6 +32,10 @@ The wide range of fuel prices makes it difficult to gauge shipowners returns in 
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: Changes Are Coming](../../../charts/poten/2019/poten_2019-12-27_changes-are-coming_chart1.png)
+![Exhibit 1: Singapore Fuel Prices](../../../charts/poten/2019/poten_2019-12-27_changes-are-coming_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2019/poten_2019-12-27_changes-are-coming_chart1.png)
+> **Exhibit 1: Singapore Fuel Prices**  
+> Unit: $/ton · X-axis: 1-Aug-19 to 19-Dec-19  
+> Series: HSFO, MGO, VLSFO  
+> *Source: Ship & Bunker / Peninsula*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2019/poten_2019-12-27_changes-are-coming_chart1.png)

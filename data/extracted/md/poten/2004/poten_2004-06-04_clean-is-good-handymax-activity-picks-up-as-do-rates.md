@@ -64,6 +64,26 @@ There is little expansion of refinery capacity in the United States, which means
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: Clean Is Good Handymax Activity Picks Up As Do Rates](../../../charts/poten/2004/poten_2004-06-04_clean-is-good-handymax-activity-picks-up-as-do-rates_chart1.png)
+> **Chart on PDF page 1: Handymax Spot Rates**  
+> Unit: WS Rates · X-axis: 09/05/2003 to 06/11/2004  
+> Series: UKC/U.S., Caribs/U.S.  
+> *Source: Poten & Partners*  
+> *No image crop of this chart was saved; caption read from the PDF.*
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2004/poten_2004-06-04_clean-is-good-handymax-activity-picks-up-as-do-rates_chart1.png)
+> **Chart on PDF page 2: Handymax Fixture Activity**  
+> Unit: # Fixtures · X-axis: 1999 to 2004  
+> Series: Handymax Fixture Activity  
+> *Source: Poten & Partners*  
+> *No image crop of this chart was saved; caption read from the PDF.*
+
+> **Chart on PDF page 2: Handymax Spot Fixtures by Principal Trades**  
+> Unit: # Fixtures · X-axis: 1999 to 2004  
+> Series: Carib/U.S., UKC/U.S., Intra-Asia  
+> *Source: Poten & Partners*  
+> *No image crop of this chart was saved; caption read from the PDF.*
+
+> **Chart on PDF page 3: Handymax Spot Fixtures By Principal Trades**  
+> Unit: % · X-axis: 1999 to 2004  
+> Series: Carib/U.S., UKC/U.S., Intra-Asia, Other  
+> *Source: Poten & Partners*  
+> *No image crop of this chart was saved; caption read from the PDF.*

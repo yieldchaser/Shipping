@@ -23,10 +23,10 @@ source_file: "corpus/03-breakwave/insights/2025/2025-02-27_russian-oil-flows.htm
 
 ### ​
 
-![Screenshot 2025 02 27 10.49.36](assets/2025-02-27_russian-oil-flows_img_screenshot2025-02-27104936_a69994670687.png)
+![Screenshot 2025 02 27 10.49.36](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-02-27_russian-oil-flows_img_screenshot2025-02-27104936_a69994670687.png)
 
 > **Figure 1: Screenshot 2025 02 27 10.49.36**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-02-27_russian-oil-flows_img_screenshot2025-02-27104936_a69994670687.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-02-27_russian-oil-flows_img_screenshot2025-02-27104936_a69994670687.png)
 
 ### Reckoning the Past: Russian Oil’s Journey to Asia
 
@@ -56,34 +56,34 @@ The left-hand chart in the image, "Dirty Russia - China," shows that Russian cru
 
 The right-hand chart, "Dirty Russia - India," shows a less pronounced decline compared to China, but there is still a notable downward revision for February 2025. January 2025 volumes remain comparable to 2023 and 2024, likely reflecting pre-contracted shipments before the January 10 sanctions came into effect. By February 2025, a decline is evident, indicating that tighter enforcement of sanctions is beginning to restrict India's ability to secure Russian crude. From March to June, India seems to continuously try to adjust its oil sourcing strategies, possibly securing alternative supply chains or negotiating new payment arrangements.
 
-![Screenshot 2025 02 27 10.50.04](assets/2025-02-27_russian-oil-flows_img_screenshot2025-02-27105004_b08af4a76df8.png)
+![Screenshot 2025 02 27 10.50.04](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-02-27_russian-oil-flows_img_screenshot2025-02-27105004_b08af4a76df8.png)
 
 > **Figure 2: Screenshot 2025 02 27 10.50.04**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-02-27_russian-oil-flows_img_screenshot2025-02-27105004_b08af4a76df8.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-02-27_russian-oil-flows_img_screenshot2025-02-27105004_b08af4a76df8.png)
 
 Sentiment in the**dirty freight market**weakened toward the end of the month, with VLCC MEG/China routes struggling to maintain the momentum of the previous week.
 
 - **VLCC**freight rates for**MEG-China**routes stood below WS60, marking a 14% weekly decrease. Suezmax rates for**West Africa to continental Europe**reached WS88, reflecting a 13% monthly decrease Meanwhile, Suezmax rates on the Baltic-Mediterranean route held levels above WS100, up 20% month-over-month.
 - **Aframax**freight rates in the**Mediterranean**have struggled to sustain the bullish momentum seen in previous days, currently standing at WS130, marking a 4% decline from the past week.
 
-![Screenshot 2025 02 27 10.50.16](assets/2025-02-27_russian-oil-flows_img_screenshot2025-02-27105016_b2f607a60926.png)
+![Screenshot 2025 02 27 10.50.16](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-02-27_russian-oil-flows_img_screenshot2025-02-27105016_b2f607a60926.png)
 
 > **Figure 3: Screenshot 2025 02 27 10.50.16**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-02-27_russian-oil-flows_img_screenshot2025-02-27105016_b2f607a60926.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-02-27_russian-oil-flows_img_screenshot2025-02-27105016_b2f607a60926.png)
 
 **LR2**AG freight rates have dropped to approximately WS120, reflecting a 7% decline compared to the previous week.
 
-![Screenshot 2025 02 27 10.50.24](assets/2025-02-27_russian-oil-flows_img_screenshot2025-02-27105024_6c99acd57c06.png)
+![Screenshot 2025 02 27 10.50.24](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-02-27_russian-oil-flows_img_screenshot2025-02-27105024_6c99acd57c06.png)
 
 > **Figure 4: Screenshot 2025 02 27 10.50.24**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-02-27_russian-oil-flows_img_screenshot2025-02-27105024_6c99acd57c06.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-02-27_russian-oil-flows_img_screenshot2025-02-27105024_6c99acd57c06.png)
 
 **Panamax**Carib-to-USG rates held steady at WS120 for another week, though they remain 65% lower than the same period last year.
 
-![Screenshot 2025 02 27 10.50.51](assets/2025-02-27_russian-oil-flows_img_screenshot2025-02-27105051_124eb91ac6b5.png)
+![Screenshot 2025 02 27 10.50.51](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-02-27_russian-oil-flows_img_screenshot2025-02-27105051_124eb91ac6b5.png)
 
 > **Figure 5: Screenshot 2025 02 27 10.50.51**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-02-27_russian-oil-flows_img_screenshot2025-02-27105051_124eb91ac6b5.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-02-27_russian-oil-flows_img_screenshot2025-02-27105051_124eb91ac6b5.png)
 
 **MR1**freight rates for Baltic-to-Continent shipments remained firm above WS200, maintaining similar momentum to that of a month ago.
 
@@ -91,10 +91,10 @@ Meanwhile,**MR2**rates for shipments from the Continent to the US Atlantic Coast
 
 ### Section 2/ Supply
 
-![Screenshot 2025 02 27 10.51.12](assets/2025-02-27_russian-oil-flows_img_screenshot2025-02-27105112_f2cc5ebfc45f.png)
+![Screenshot 2025 02 27 10.51.12](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-02-27_russian-oil-flows_img_screenshot2025-02-27105112_f2cc5ebfc45f.png)
 
 > **Figure 6: Screenshot 2025 02 27 10.51.12**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-02-27_russian-oil-flows_img_screenshot2025-02-27105112_f2cc5ebfc45f.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-02-27_russian-oil-flows_img_screenshot2025-02-27105112_f2cc5ebfc45f.png)
 
 The availability of crude tankers continued to decline, with recent estimates indicating that levels remained below the yearly average on major routes as the month drew to a close.
 
@@ -103,32 +103,32 @@ The availability of crude tankers continued to decline, with recent estimates in
 - **Aframax Med**: The vessel count has remained consistently below the annual average since early January, with recent activity indicating a soft rise, but still lower than the highs of the end year.
 - **Aframax Baltic**: The number of ships has remained below the annual average of 30 and stood at around 20 — almost nine fewer than six weeks ago.
 
-![Screenshot 2025 02 27 10.51.19](assets/2025-02-27_russian-oil-flows_img_screenshot2025-02-27105119_3204a1458fcd.png)
+![Screenshot 2025 02 27 10.51.19](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-02-27_russian-oil-flows_img_screenshot2025-02-27105119_3204a1458fcd.png)
 
 > **Figure 7: Screenshot 2025 02 27 10.51.19**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-02-27_russian-oil-flows_img_screenshot2025-02-27105119_3204a1458fcd.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-02-27_russian-oil-flows_img_screenshot2025-02-27105119_3204a1458fcd.png)
 
-![Screenshot 2025 02 27 10.51.24](assets/2025-02-27_russian-oil-flows_img_screenshot2025-02-27105124_015cd77e4d55.png)
+![Screenshot 2025 02 27 10.51.24](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-02-27_russian-oil-flows_img_screenshot2025-02-27105124_015cd77e4d55.png)
 
 > **Figure 8: Screenshot 2025 02 27 10.51.24**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-02-27_russian-oil-flows_img_screenshot2025-02-27105124_015cd77e4d55.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-02-27_russian-oil-flows_img_screenshot2025-02-27105124_015cd77e4d55.png)
 
 - **Clean LR2 AG Jubail**: We continue to observe a downward trend, with the number of vessels hovering slightly below the annual average of 11, followed by a significant spike three weeks ago.
 - **Clean MR**: The number of ships at the Algerian port of Skikda spiked above the annual average and stood at 39, 8 higher than the annual average of 30. Meanwhile, MR2 activity in Amsterdam continued its downward trend but remained slightly above the annual average.
 
 ### Section 3/ Demand (Tonne Days)
 
-![Screenshot 2025 02 27 10.51.30](assets/2025-02-27_russian-oil-flows_img_screenshot2025-02-27105130_141e37e736b0.png)
+![Screenshot 2025 02 27 10.51.30](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-02-27_russian-oil-flows_img_screenshot2025-02-27105130_141e37e736b0.png)
 
 > **Figure 9: Screenshot 2025 02 27 10.51.30**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-02-27_russian-oil-flows_img_screenshot2025-02-27105130_141e37e736b0.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-02-27_russian-oil-flows_img_screenshot2025-02-27105130_141e37e736b0.png)
 
 **Dirty**tonne days: The growth rate of dirty tonne-days for VLCCs remained weak, continuing to lag well below the annual trend. In contrast, the Suezmax segment has shown a stronger recovery since the end of the previous week, while Aframax activity has picked up pace, surpassing the annual trend for the first time since late last year.
 
-![Screenshot 2025 02 27 10.51.35](assets/2025-02-27_russian-oil-flows_img_screenshot2025-02-27105135_9a1c6bf1d254.png)
+![Screenshot 2025 02 27 10.51.35](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-02-27_russian-oil-flows_img_screenshot2025-02-27105135_9a1c6bf1d254.png)
 
 > **Figure 10: Screenshot 2025 02 27 10.51.35**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-02-27_russian-oil-flows_img_screenshot2025-02-27105135_9a1c6bf1d254.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-02-27_russian-oil-flows_img_screenshot2025-02-27105135_9a1c6bf1d254.png)
 
 **Panamax**tonne days: The growth rate remained well below the recent weekly annual average, with not yet signs of a rebound.
 

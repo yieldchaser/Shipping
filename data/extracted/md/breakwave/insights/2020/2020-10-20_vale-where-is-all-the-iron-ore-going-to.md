@@ -22,17 +22,17 @@ source_file: "corpus/03-breakwave/insights/2020/2020-10-20_vale-where-is-all-the
 
 Vale, the Brazilian mining company, yesterday reported third quarter production figures, and although production numbers were generally in line with expectations, reported sales for iron ore were well below what the historical relationship between production and sales would have pointed to. In fact, despite iron ore production being about 2mt above last year’s level, iron ore sales were almost 11mt below last year. Such a variation can have a major impact on shipping volumes, although it is unclear what the size of such impact is at any given time. As the chart below shows, the rebuilding of inventories that were drawn down late last year was significant during the past two quarters.
 
-![Invenotry Vale](assets/2020-10-20_vale-where-is-all-the-iron-ore-going-to_img_invenotryvale_66c93eff62a7.png)
+![Invenotry Vale](../../../../../../corpus/03-breakwave/insights/2020/assets/2020-10-20_vale-where-is-all-the-iron-ore-going-to_img_invenotryvale_66c93eff62a7.png)
 
 > **Figure 1: Invenotry Vale**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2020/assets/2020-10-20_vale-where-is-all-the-iron-ore-going-to_img_invenotryvale_66c93eff62a7.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2020/assets/2020-10-20_vale-where-is-all-the-iron-ore-going-to_img_invenotryvale_66c93eff62a7.png)
 
 Vale mentioned that in September such discrepancy had started to normalize, with further alignment (sales vs. production) expected for the rest of the year. Based on the reported numbers, Vale can hit their production target of ~310mt for 2020 but sales will fall well short of such number, most likely some 20mt+ below that. For shipping, it is not what is produced, but what is shipped, and despite production ending up being higher versus last year, sales volume will most likely end up being lower.
 
-![Porto Teluk](assets/2020-10-20_vale-where-is-all-the-iron-ore-going-to_img_porto-teluk_7197bca2bc4b.jpg)
+![Porto Teluk](../../../../../../corpus/03-breakwave/insights/2020/assets/2020-10-20_vale-where-is-all-the-iron-ore-going-to_img_porto-teluk_7197bca2bc4b.jpg)
 
 > **Figure 2: Porto Teluk**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2020/assets/2020-10-20_vale-where-is-all-the-iron-ore-going-to_img_porto-teluk_7197bca2bc4b.jpg)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2020/assets/2020-10-20_vale-where-is-all-the-iron-ore-going-to_img_porto-teluk_7197bca2bc4b.jpg)
 
 Teluk Rubiah Terminal, Malaysia
 

@@ -24,10 +24,10 @@ source_file: "corpus/03-breakwave/insights/2025/2025-05-08_grain-dry-bulk-flows.
 Snapshot of Spot Freight Rates, Supply-Demand Trends, Port Congestions
 May 07, 2025
 
-![Στιγμιότυπο Οθόνης 2025 05 08 093037](assets/2025-05-08_grain-dry-bulk-flows_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_828bd569478f.png)
+![Στιγμιότυπο Οθόνης 2025 05 08 093037](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-05-08_grain-dry-bulk-flows_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_828bd569478f.png)
 
 > **Figure 1: Στιγμιότυπο Οθόνης 2025 05 08 093037**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-05-08_grain-dry-bulk-flows_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_828bd569478f.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-05-08_grain-dry-bulk-flows_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_828bd569478f.png)
 
 Between 2022 and 2024, US grain exports to Mexico have shown a significant upward trend, with Mexico's share rising from 7.6% in 2022 to 9.3% in 2024, indicating a strong and growing demand from its southern neighbor. This 1.7 percentage point increase reflects deeper trade ties and potentially changing sourcing strategies amid ongoing global uncertainties.
 
@@ -39,10 +39,10 @@ However, if a thaw in US-China relations occurs in 2025, a potential revamp in g
 
 In summary, the current growth of exports to Mexico and the prominence of smaller vessels underscore a robust and regionally integrated trade dynamic. Yet, the geopolitical landscape, particularly the trajectory of US-China relations, will play a critical role in shaping 2025’s export flows and fleet deployment strategies.
 
-![Στιγμιότυπο Οθόνης 2025 05 08 093341](assets/2025-05-08_grain-dry-bulk-flows_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_3a2295e95941.png)
+![Στιγμιότυπο Οθόνης 2025 05 08 093341](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-05-08_grain-dry-bulk-flows_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_3a2295e95941.png)
 
 > **Figure 2: Στιγμιότυπο Οθόνης 2025 05 08 093341**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-05-08_grain-dry-bulk-flows_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_3a2295e95941.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-05-08_grain-dry-bulk-flows_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_3a2295e95941.png)
 
 Capesize freight market sentiment remains stable, supported by a slight decrease in the number of ballast vessels.
 
@@ -51,10 +51,10 @@ Capesize freight market sentiment remains stable, supported by a slight decrease
 - **Supramax**vessel freight rates for the Indonesia to East Coast India route remained stable at around $9.5 per tonne, representing a 45% rise over the quarter.
 - **Handysize**freight rates for the NOPAC Far East route slipped slightly below $28 per tonne, registering a 12% decline month-on-month.
 
-![Στιγμιότυπο Οθόνης 2025 05 08 093653](assets/2025-05-08_grain-dry-bulk-flows_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_812297bc1298.png)
+![Στιγμιότυπο Οθόνης 2025 05 08 093653](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-05-08_grain-dry-bulk-flows_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_812297bc1298.png)
 
 > **Figure 3: Στιγμιότυπο Οθόνης 2025 05 08 093653**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-05-08_grain-dry-bulk-flows_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_812297bc1298.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-05-08_grain-dry-bulk-flows_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_812297bc1298.png)
 
 The latest ballaster indicators point to downward momentum, with signals approaching the annual average for Capesize and Panamax activity in Southeast Africa.
 
@@ -63,10 +63,10 @@ The latest ballaster indicators point to downward momentum, with signals approac
 - **Supramax SE Asia**: Current trends indicate a downward trajectory from the peak observed in Week 13, with recent levels now slightly above the annual average of 100.
 - **Handysize NOPAC**: The Handy NOPAC segment's levels have decreased to 79, continuing a downward trend that began at the end of week 16.
 
-![Στιγμιότυπο Οθόνης 2025 05 08 093832](assets/2025-05-08_grain-dry-bulk-flows_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_d4b9734d27e6.png)
+![Στιγμιότυπο Οθόνης 2025 05 08 093832](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-05-08_grain-dry-bulk-flows_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_d4b9734d27e6.png)
 
 > **Figure 4: Στιγμιότυπο Οθόνης 2025 05 08 093832**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-05-08_grain-dry-bulk-flows_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_d4b9734d27e6.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-05-08_grain-dry-bulk-flows_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_d4b9734d27e6.png)
 
 Tonne-day growth declined in the first week of May, with the Supramax segment appearing to be the only one showing resistance to this downward trend.
 
@@ -75,10 +75,10 @@ Tonne-day growth declined in the first week of May, with the Supramax segment ap
 - **Supramax**: The growth rate remained elevated, marking a firmer pace than the levels observed in Week 11.
 - **Handysize**: The growth rate has softened since its peak at the end of week 13, indicating a gentle downward trend.
 
-![Στιγμιότυπο Οθόνης 2025 05 08 093921](assets/2025-05-08_grain-dry-bulk-flows_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_f7628f085964.png)
+![Στιγμιότυπο Οθόνης 2025 05 08 093921](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-05-08_grain-dry-bulk-flows_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_f7628f085964.png)
 
 > **Figure 5: Στιγμιότυπο Οθόνης 2025 05 08 093921**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-05-08_grain-dry-bulk-flows_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_f7628f085964.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-05-08_grain-dry-bulk-flows_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_f7628f085964.png)
 
 Dry bulk port congestion in China began to ease in early May, following three consecutive weeks of increases.
 

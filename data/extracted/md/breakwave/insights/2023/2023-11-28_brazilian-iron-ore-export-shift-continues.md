@@ -19,23 +19,23 @@ source_file: "corpus/03-breakwave/insights/2023/2023-11-28_brazilian-iron-ore-ex
 
 ---
 
-![Homepage+banner+1](assets/2023-11-28_brazilian-iron-ore-export-shift-continues_img_homepage2bbanner2b1_5d7211685255.png)
+![Homepage+banner+1](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-11-28_brazilian-iron-ore-export-shift-continues_img_homepage2bbanner2b1_5d7211685255.png)
 
 > **Figure 1: Homepage+banner+1**  
-> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/breakwave-day-2023) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-11-28_brazilian-iron-ore-export-shift-continues_img_homepage2bbanner2b1_5d7211685255.png)
+> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/breakwave-day-2023) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-11-28_brazilian-iron-ore-export-shift-continues_img_homepage2bbanner2b1_5d7211685255.png)
 
-[![Byjeffrey Landsberg](assets/2023-11-28_brazilian-iron-ore-export-shift-continues_img_homepage2bbutton_1d014100cc65.png)
+[![Byjeffrey Landsberg](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-11-28_brazilian-iron-ore-export-shift-continues_img_homepage2bbutton_1d014100cc65.png)
 
 > **Figure 2: Byjeffrey Landsberg**  
 > *ByJeffrey Landsberg*  
-> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/in/jeffrey-landsberg-70ab957/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-11-28_brazilian-iron-ore-export-shift-continues_img_homepage2bbutton_1d014100cc65.png)](https://www.breakwaveadvisors.com/breakwave-day-2023)
+> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/in/jeffrey-landsberg-70ab957/) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-11-28_brazilian-iron-ore-export-shift-continues_img_homepage2bbutton_1d014100cc65.png)](https://www.breakwaveadvisors.com/breakwave-day-2023)
 
 Brazil most recently exported 33.8 million tons of iron ore in October, which marked a month-on-month decline of 1.9 million tons (-5%) but a year-on-year increase of 7 million tons (26%).
 
-![Chart (2)](assets/2023-11-28_brazilian-iron-ore-export-shift-continues_img_chart28229_a9c925421951.jpg)
+![Chart (2)](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-11-28_brazilian-iron-ore-export-shift-continues_img_chart28229_a9c925421951.jpg)
 
 > **Figure 3: Chart (2)**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-11-28_brazilian-iron-ore-export-shift-continues_img_chart28229_a9c925421951.jpg)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-11-28_brazilian-iron-ore-export-shift-continues_img_chart28229_a9c925421951.jpg)
 
 While down again on a month-on-month basis, 33.8 million tons is a firm amount that is much higher than was exported back in October 2022. Also significant is that the last three months have seen Brazil’s exports total 107 million tons. The only other time that such a large amount was exported was back in 2018.
 

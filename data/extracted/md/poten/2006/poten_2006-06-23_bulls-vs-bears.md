@@ -46,6 +46,8 @@ Strong market fundamentals of supply and demand indicate that we can anticipate 
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: Bulls vs. Bears](../../../charts/poten/2006/poten_2006-06-23_bulls-vs-bears_chart1.png)
-
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2006/poten_2006-06-23_bulls-vs-bears_chart1.png)
+> **Chart on PDF page 1: VLCC AG - Far East (260 kt)**  
+> Unit: TCE ($/day) · X-axis: Jan to Dec  
+> Series: 2006, 2005  
+> *Source: Poten & Partners*  
+> *No image crop of this chart was saved; caption read from the PDF.*

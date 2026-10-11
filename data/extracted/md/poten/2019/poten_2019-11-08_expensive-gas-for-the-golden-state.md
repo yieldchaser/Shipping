@@ -34,10 +34,18 @@ We don't expect this situation to last very long as the refinery outages will mo
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: Expensive Gas for the Golden State](../../../charts/poten/2019/poten_2019-11-08_expensive-gas-for-the-golden-state_chart1.png)
+![Exhibit 1: California Gasoline Prices vs U.S. Average](../../../charts/poten/2019/poten_2019-11-08_expensive-gas-for-the-golden-state_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2019/poten_2019-11-08_expensive-gas-for-the-golden-state_chart1.png)
+> **Exhibit 1: California Gasoline Prices vs U.S. Average**  
+> Unit: USD · X-axis: Jan-17 to Nov-19  
+> Series: Spread, California Average Gasoline Price, U.S. Average Gasoline Price  
+> *Source: EIA*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2019/poten_2019-11-08_expensive-gas-for-the-golden-state_chart1.png)
 
-![Exhibit 2: Expensive Gas for the Golden State](../../../charts/poten/2019/poten_2019-11-08_expensive-gas-for-the-golden-state_chart2.png)
+![Exhibit 2: California Gasoline Imports by Origin](../../../charts/poten/2019/poten_2019-11-08_expensive-gas-for-the-golden-state_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2019/poten_2019-11-08_expensive-gas-for-the-golden-state_chart2.png)
+> **Exhibit 2: California Gasoline Imports by Origin**  
+> Unit: Kb/d · X-axis: Jan-18 to Oct-19  
+> Series: Korea, Singapore, Japan, Netherlands, Belgium, U.K., Other  
+> *Source: Poten & Partners*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2019/poten_2019-11-08_expensive-gas-for-the-golden-state_chart2.png)

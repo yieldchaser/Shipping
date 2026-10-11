@@ -38,10 +38,10 @@ Poten & Partners recently shared a compelling outlook in their "Ready For A Rebo
 
 - **LatAm to Asia demand surge**: Signal Ocean reports that tonne-mile demand from Brazil to China has nearly doubled, adding roughly 1 billion nm to the weekly 7-day average since March. This trend is tightening availability in the Atlantic basin and further supporting VLCC freight momentum.
 
-![Td3ccurve82625](assets/2025-08-27_are-vlccs-poised-for-a-comeback_img_td3ccurve8262528129_38875f2526c1.png)
+![Td3ccurve82625](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-08-27_are-vlccs-poised-for-a-comeback_img_td3ccurve8262528129_38875f2526c1.png)
 
 > **Figure 1: Td3ccurve82625**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-08-27_are-vlccs-poised-for-a-comeback_img_td3ccurve8262528129_38875f2526c1.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-08-27_are-vlccs-poised-for-a-comeback_img_td3ccurve8262528129_38875f2526c1.png)
 
 ### Summary for Investors
 

@@ -29,11 +29,11 @@ tags:
 ## This Week's Focus Is on the Evolution of VLCC Net Supply Growth in the Arabian Gulf (AG), the Performance of Baltic Rates, and a Comparative Analysis of Gross Supply versus Cargo Demand Over the Next 10, 20, and 30 Days.
 
 
-![Https://app.signalocean.com/tanker/dynamic/vlccinsightsdownloadable](../../images/67d2f6b6a834be738e428352_AD_4nXe4conDN9DJpJ0VOn-ugm41QUnjscrL_EURXZIyO9Fi3ALdw8737vjjTqObC2rvM-nfGetdYAhazBRQ_76d_usg5_qmSwyW61qAo-GAVQGWNPamZy2enhbN-CHm36aRFPLwuRfH9A.png)
+![Https://app.signalocean.com/tanker/dynamic/vlccinsightsdownloadable](../../../../../../corpus/07-signal/images/67d2f6b6a834be738e428352_AD_4nXe4conDN9DJpJ0VOn-ugm41QUnjscrL_EURXZIyO9Fi3ALdw8737vjjTqObC2rvM-nfGetdYAhazBRQ_76d_usg5_qmSwyW61qAo-GAVQGWNPamZy2enhbN-CHm36aRFPLwuRfH9A.png)
 
 > **Figure 1: Https://app.signalocean.com/tanker/dynamic/vlccinsightsdownloadable**  
 > *https://app.signalocean.com/tanker/dynamic/vlcc_insights_downloadable*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/tanker-week-11-2025) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/67d2f6b6a834be738e428352_AD_4nXe4conDN9DJpJ0VOn-ugm41QUnjscrL_EURXZIyO9Fi3ALdw8737vjjTqObC2rvM-nfGetdYAhazBRQ_76d_usg5_qmSwyW61qAo-GAVQGWNPamZy2enhbN-CHm36aRFPLwuRfH9A.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/tanker-week-11-2025) | [Local Asset](../../../../../../corpus/07-signal/images/67d2f6b6a834be738e428352_AD_4nXe4conDN9DJpJ0VOn-ugm41QUnjscrL_EURXZIyO9Fi3ALdw8737vjjTqObC2rvM-nfGetdYAhazBRQ_76d_usg5_qmSwyW61qAo-GAVQGWNPamZy2enhbN-CHm36aRFPLwuRfH9A.png)
 
 
 ## VLCC Net Supply Trends, Baltic Rates Performance & Cargo Demand Projections

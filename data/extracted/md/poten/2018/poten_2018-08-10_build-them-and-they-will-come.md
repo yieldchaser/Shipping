@@ -30,6 +30,10 @@ Even if not all these offshore terminals are built, VLCC export capacity from th
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: Build Them And They Will Come](../../../charts/poten/2018/poten_2018-08-10_build-them-and-they-will-come_chart1.png)
+![Exhibit 1: U.S. Gulf Crude Exports by Vessel Class](../../../charts/poten/2018/poten_2018-08-10_build-them-and-they-will-come_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2018/poten_2018-08-10_build-them-and-they-will-come_chart1.png)
+> **Exhibit 1: U.S. Gulf Crude Exports by Vessel Class**  
+> Unit: Kbbl/d · X-axis: Jan-14 to Jan-18  
+> Series: Panamax, Aframax, Suezmax, VLCC  
+> *Source: Lloyd’s List Intelligence*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2018/poten_2018-08-10_build-them-and-they-will-come_chart1.png)

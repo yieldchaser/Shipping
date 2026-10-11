@@ -66,6 +66,20 @@ In light of OPEC's decision to maintain current quota levels, production volume 
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: Aframaxes in the Black (Sea)](../../../charts/poten/2006/poten_2006-12-15_aframaxes-in-the-black-sea_chart1.png)
+> **Chart on PDF page 1: Untitled chart**  
+> Unit: TCE ($/day) · X-axis: 9/29/2006 to 12/15/2006  
+> Series: AG - FE (260kt), WAF - USAC (130kt), BSEA - MED (80kt), CAR - USG (50kt), CAR - USAC (38kt)  
+> *Source: Poten & Partners*  
+> *No image crop of this chart was saved; caption read from the PDF.*
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2006/poten_2006-12-15_aframaxes-in-the-black-sea_chart1.png)
+> **Chart on PDF page 2: Untitled chart**  
+> X-axis: 9/29/2006 to 12/15/2006  
+> Series: Northbound, Southbound  
+> *Source: Poten & Partners*  
+> *No image crop of this chart was saved; caption read from the PDF.*
+
+> **Chart on PDF page 3: Untitled chart**  
+> Unit: Million Tons · X-axis: Oct to Dec  
+> Series: BLACK SEA, Other MED  
+> *Source: Poten & Partners*  
+> *No image crop of this chart was saved; caption read from the PDF.*

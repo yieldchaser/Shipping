@@ -28,10 +28,10 @@ tags:
 ## The World of Dry Bulk Shipping Convened in Geneva Over Two Days Last Week for the Annual Geneva Dry Conference Hosted by Splash247. a Strong Team From Signal Ocean Attended and Has Put Together the Following Piece, Crystallizing Our Top Commodity Talking Points From the Conference, Arising From Both the Formal Sessions and Wider Conversations with Attendees During and at Our After-Conference Event.
 
 
-![681b577b754412339fcfc79d Ad 4nxcedbucpfm1gvcesibf3buwoly8ibe9yjvdecfktpcqlnm8p8lp6wayu97apqh9gcykzleaxlsy8bde R531isnod3uv4bykwfgjm B5mu43ljulaswk25o9 Ohmytfosu5lraqda](../../images/681b577b754412339fcfc79d_AD_4nXceDBucpfm1gvCeSibF3buwOLy8IbE9yjvdEcfktpcQlNM8P8LP6WAyu97ApQh9GCYkZLEaXLSY8bDe-R531isnod3UV4BykWFGJM-b5mu43lJulaSWK25O9_oHmYtFOsU5LraqdA.png)
+![681b577b754412339fcfc79d Ad 4nxcedbucpfm1gvcesibf3buwoly8ibe9yjvdecfktpcqlnm8p8lp6wayu97apqh9gcykzleaxlsy8bde R531isnod3uv4bykwfgjm B5mu43ljulaswk25o9 Ohmytfosu5lraqda](../../../../../../corpus/07-signal/images/681b577b754412339fcfc79d_AD_4nXceDBucpfm1gvCeSibF3buwOLy8IbE9yjvdEcfktpcQlNM8P8LP6WAyu97ApQh9GCYkZLEaXLSY8bDe-R531isnod3UV4BykWFGJM-b5mu43lJulaSWK25O9_oHmYtFOsU5LraqdA.png)
 
 > **Figure 1: 681b577b754412339fcfc79d Ad 4nxcedbucpfm1gvcesibf3buwoly8ibe9yjvdecfktpcqlnm8p8lp6wayu97apqh9gcykzleaxlsy8bde R531isnod3uv4bykwfgjm B5mu43ljulaswk25o9 Ohmytfosu5lraqda**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/geneva-dry-2025-top-takeaways) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/681b577b754412339fcfc79d_AD_4nXceDBucpfm1gvCeSibF3buwOLy8IbE9yjvdEcfktpcQlNM8P8LP6WAyu97ApQh9GCYkZLEaXLSY8bDe-R531isnod3UV4BykWFGJM-b5mu43lJulaSWK25O9_oHmYtFOsU5LraqdA.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/geneva-dry-2025-top-takeaways) | [Local Asset](../../../../../../corpus/07-signal/images/681b577b754412339fcfc79d_AD_4nXceDBucpfm1gvCeSibF3buwOLy8IbE9yjvdEcfktpcQlNM8P8LP6WAyu97ApQh9GCYkZLEaXLSY8bDe-R531isnod3UV4BykWFGJM-b5mu43lJulaSWK25O9_oHmYtFOsU5LraqdA.png)
 
 
 ## Is Bauxite Still a Minor Bulk?

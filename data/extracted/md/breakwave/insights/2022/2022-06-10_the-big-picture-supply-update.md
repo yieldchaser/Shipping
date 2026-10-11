@@ -29,10 +29,10 @@ At 914m dwt, the dry bulk fleet has grown by 1.5% so far this year. We have take
 
 Starting 2022, Q1 was another quarter of reduced ordering. A total of 117 vessels were contracted over this period, falling for the third quarter in a row. Despite owners having plenty of capital following a strong period of returns last year, most have been reluctant to renew their fleets. In Q2, so far 107 bulkers have been ordered tracking towards a similar level to that of Q1.
 
-![Market Chart 1](assets/2022-06-10_the-big-picture-supply-update_img_image028429_efb28ce38d59.png)
+![Market Chart 1](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-06-10_the-big-picture-supply-update_img_image028429_efb28ce38d59.png)
 
 > **Figure 1: Market Chart 1**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-06-10_the-big-picture-supply-update_img_image028429_efb28ce38d59.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-06-10_the-big-picture-supply-update_img_image028429_efb28ce38d59.png)
 
 This can be owed to several themes we have previously discussed, namely regulatory uncertainty and high prices, which some may consider unjustifiable. Slot availability is thin out to 2024 due to the sustained popularity in containerships and gas carriers. Subsequently, we have reduced our expectations for future orders being delivered in 2023 and 2024.
 
@@ -42,10 +42,10 @@ While we previously anticipated very limited slippage on the newbuilding market,
 
 On the other hand, scrapping has declined as fleet renewals have subsided. As a result, we have reduced our anticipated level of removals from 4.4m dwt to 3.6m in 2022. Driving the bulk of our assumptions on removals are the historical percentages of a sector’s overage fleet (20+ years) that have been scrapped, while being able to override this if we expect more or less to occur. As the prospect of ordering and receiving delivery of a vessel over a customary timeframe is limited, we expect fewer removals to occur than what we would have typically expected. Of the 17 vessels scrapped so far this year, 8 have been Capes, driving the share of the sector’s fleet which is overage down to just 1%.
 
-![Market Chart 2](assets/2022-06-10_the-big-picture-supply-update_img_image128429_b7edf6c364c7.png)
+![Market Chart 2](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-06-10_the-big-picture-supply-update_img_image128429_b7edf6c364c7.png)
 
 > **Figure 2: Market Chart 2**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-06-10_the-big-picture-supply-update_img_image128429_b7edf6c364c7.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-06-10_the-big-picture-supply-update_img_image128429_b7edf6c364c7.png)
 
 With freight rates still at healthy levels across all sizes, we believe vessels will trade for a longer period than they otherwise would have. New IMO regulation incoming in 2023 is similarly playing a role. Given the 20+ year vessels are the least efficient in the fleet, it may be more economical to continue to trade older vessels until this is enforced and then reassess. Therefore, we expect scrapping in 2023 to increase to 5.1m dwt, closer to levels we formerly expected for this year. As environmental regulation gets stricter beyond 2023, we expect scrapping to increase as the older vessels become less viable.
 
@@ -55,10 +55,10 @@ Finally, despite scrap prices in both Turkey and the Indian Sub-Continent reachi
 
 The Capesize sector has seen the fewest orders across all dry bulk sectors this year at 11 vessels, with the Handies (40 ships) the nearest across the other sectors. In Q2, only 1 Capesize has been ordered so far compared to 36 over the same period in 2021. Subsequently, we have revised down our fleet size forecast by 3.6m dwt by year-end 2026, implying a compound annual growth rate (CAGR) of 1.5% over the 5-year period.
 
-![Market Chart 3](assets/2022-06-10_the-big-picture-supply-update_img_image228429_21bbef5601e9.png)
+![Market Chart 3](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-06-10_the-big-picture-supply-update_img_image228429_21bbef5601e9.png)
 
 > **Figure 3: Market Chart 3**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-06-10_the-big-picture-supply-update_img_image228429_21bbef5601e9.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-06-10_the-big-picture-supply-update_img_image228429_21bbef5601e9.png)
 
 The Capes, given their size, are the vessels most prone to competing with the large container and gas carriers currently taking up yard slots. These ships are comparatively more expensive, for example a 174k gas carrier is currently commanding approximately $230m per unit. As a result, yards have driven up quotes for a Large Capesize, which would use a similar size slot, to $67m, given the newfound competition for a yard space. The gas carriers also take circa 4-6 months longer to build, keeping slots occupied for longer periods.
 
@@ -68,10 +68,10 @@ While we see slower growth across the Capesizes, we still see continued populari
 
 While the 82k dwt Kamsarmax design accounts for the majority of orders, additional growth is coming from the Post-Panamaxes. Deliveries of the 93k dwt ship are set to hit their highest level since 2012 in 2023, with 2022 only a few behind. Given their suitability to coal trade and the recent resurgence in coal demand in 2022, we expect orders for these vessels to continue, with some already due for delivery out to 2025. The need for renewals in the Panamax fleet, however, is much larger than the Capesizes, with 13% of the fleet 20 years or older, hence our expectations for greater fleet growth in this segment.
 
-![Market Chart 4](assets/2022-06-10_the-big-picture-supply-update_img_image328529_e79fa92a3004.png)
+![Market Chart 4](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-06-10_the-big-picture-supply-update_img_image328529_e79fa92a3004.png)
 
 > **Figure 4: Market Chart 4**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-06-10_the-big-picture-supply-update_img_image328529_e79fa92a3004.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-06-10_the-big-picture-supply-update_img_image328529_e79fa92a3004.png)
 
 ## Outlook
 

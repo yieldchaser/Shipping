@@ -27,10 +27,10 @@ The tonne mile transformation of tanker flows is far from complete, particularly
 
 The recent notable changes in China’s Covid policy, if maintained, will aid the country’s economic growth and its oil demand over the longer term. Ultimately, this will benefit the long haul crude trade from the Atlantic Basin into Asia, once the rebalancing of flows into Europe is complete. In the short term, however, a massive Covid wave is a bearish factor for Chinese crude demand. Yet, a nearly 50% hike in the first batch of Chinese product export quotas for 2023 is likely to keep product exports at elevated levels, maintaining crude inflows, particularly if refining margins in the East remain healthy, with growing volume of products being pulled West.
 
-![1 (9)](assets/2023-01-13_gibsons-weekly-tanker-market-report_img_128929_b58f9383e5c8.png)
+![1 (9)](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-01-13_gibsons-weekly-tanker-market-report_img_128929_b58f9383e5c8.png)
 
 > **Figure 1: 1 (9)**  
-> **Interactive Data & Source:** [Gibsons Co](https://www.gibsons.co.uk/market-reports) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-01-13_gibsons-weekly-tanker-market-report_img_128929_b58f9383e5c8.png)
+> **Interactive Data & Source:** [Gibsons Co](https://www.gibsons.co.uk/market-reports) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-01-13_gibsons-weekly-tanker-market-report_img_128929_b58f9383e5c8.png)
 
 Nonetheless, headwinds remain. Sizable OPEC+ production cuts, with the actual decline in exports coming entirely from the Middle East, are yet to be fully felt by the crude tanker market. Regional exports will be further pressured as Middle East refining runs are projected to increase substantially this year due to a large-scale refining capacity expansion over the 2022-23 period. At the same time, alarm bells over the health of global economy are ringing somewhat louder. The IMF has recently warned that 2023 will be tougher than last year, with Europe, the US and China seeing their economies slowing. Tightness in tanker supply, which became apparent in the 2nd half of the year, will also be somewhat alleviated by new deliveries, albeit not critically. New additions are trending lower YoY, with just 133 tankers above 25,000 dwt (non-Russian) scheduled for delivery in 2023, compared to 184 units delivered last year.
 

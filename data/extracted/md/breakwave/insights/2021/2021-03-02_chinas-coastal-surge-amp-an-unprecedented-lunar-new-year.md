@@ -25,7 +25,7 @@ source_file: "corpus/03-breakwave/insights/2021/2021-03-02_chinas-coastal-surge-
 ![Soya Panamax](assets/2021-03-02_chinas-coastal-surge-amp-an-unprecedented-lunar-new-year_img_soyapanamax_9058e861a1ed.jpg)
 
 > **Figure 1: Soya Panamax**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2021/assets/2021-03-02_chinas-coastal-surge-amp-an-unprecedented-lunar-new-year_img_soyapanamax_9058e861a1ed.jpg)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-03-02_chinas-coastal-surge-amp-an-unprecedented-lunar-new-year_img_soyapanamax_9058e861a1ed.jpg)
 
 Dry bulk rates were mixed last week, with capesize and panamax rates falling while supramax and handysize rates surged even further. The fact that supramax and handysize rates were again able to rise by such a large amount (supramax led the way, rising last week by an impressive 24%) has shown that the overall spot imbalance that led to last month’s initial surge in freight rates remains largely in place. As we also discussed in our most recent Weekly Dry Bulk Report and Weekly China Report, also of significance is that Chinese coastal coal freight rates jumped by an extremely large amount last week. This strength has occurred due to vessel supply tightness and not surging cargo demand.
 
@@ -36,7 +36,7 @@ Chinese steel prices, though, continue to find impressive support. The average p
 ![Commodore 2](assets/2021-03-02_chinas-coastal-surge-amp-an-unprecedented-lunar-new-year_img_commodore2_c5f14acf3e90.jpg)
 
 > **Figure 2: Commodore 2**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2021/assets/2021-03-02_chinas-coastal-surge-amp-an-unprecedented-lunar-new-year_img_commodore2_c5f14acf3e90.jpg)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-03-02_chinas-coastal-surge-amp-an-unprecedented-lunar-new-year_img_commodore2_c5f14acf3e90.jpg)
 
 Overall, it is very encouraging that Chinese steel production set a record during Lunar New Year of all times, and China is continuing to show the world extremely bullish signals in the industrial, agricultural, and financial markets. We continue to believe that consensus regarding the Chinese economy is still not nearly as bullish as it should be. We also continue to anticipate that China's financial reforms seen domestically in 2019 and in prior years will continue to be abandoned, and that the government will continue to take advantage of turmoil in the United States and elsewhere and work to further enhance its power and influence globally. For the dry bulk market, this all remains extremely promising.
 

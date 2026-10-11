@@ -35,10 +35,10 @@ tags:
 **Recorded sailings have already recovered from a very low base.** Signal loading data show **918,364 tonnes** of coal shipped from the US Gulf to China in January–September 2026, against 51,726 tonnes a year earlier. August and September alone accounted for 695,375 tonnes, close to 76% of the 2026 total, placing the improvement firmly in the late-summer loading programme. The recovery nonetheless remains below the 2024 level: China took 4.6% of US Gulf coal exports to all destinations this year against 9.8% in 2024, and the China-bound tonnage is some 47% below 2024. These are recorded cargoes covering 2026, while the commitment covers 2027 and 2028; the loading data do not establish a causal link to the future commitment.
 
 
-![Coal in Focus — China’s 2027–28 US Coal Commitment](../../images/6ac601493f048e68dd4f81a4_cb0c9fd5.png)
+![Coal in Focus — China’s 2027–28 US Coal Commitment](../../../../../../corpus/07-signal/images/6ac601493f048e68dd4f81a4_cb0c9fd5.png)
 
 > **Figure 1: Coal in Focus — China’s 2027–28 US Coal Commitment**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-dry-market-monitor-week-40-2026) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6ac601493f048e68dd4f81a4_cb0c9fd5.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-dry-market-monitor-week-40-2026) | [Local Asset](../../../../../../corpus/07-signal/images/6ac601493f048e68dd4f81a4_cb0c9fd5.png)
 
 *Figure 1: January–September US Gulf coal exports to China and China’s share of all-destination US Gulf coal exports. The 2026 recovery remains below 2024 in both volume and destination share (Source: Signal).*
 
@@ -51,14 +51,14 @@ tags:
 ![Freight Market Overview | BDI & Segment Metrics](../../images/6ac6006f8588599db95ae20f_Screenshot 2026-10-07 at 09.17.52.png)
 
 > **Figure 2: Freight Market Overview | BDI & Segment Metrics**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-dry-market-monitor-week-40-2026) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6ac6006f8588599db95ae20f_Screenshot 2026-10-07 at 09.17.52.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-dry-market-monitor-week-40-2026) | [Local Asset](../../../../../../corpus/07-signal/images/6ac6006f8588599db95ae20f_Screenshot%202026-10-07%20at%2009.17.52.png)
 
 
-![Baltic Dry Index — Spot Rate Summary Across Segments as of 2 Oct 2026](../../images/6ac601493f048e68dd4f819e_8c501120.png)
+![Baltic Dry Index — Spot Rate Summary Across Segments as of 2 Oct 2026](../../../../../../corpus/07-signal/images/6ac601493f048e68dd4f819e_8c501120.png)
 
 > **Figure 2: Baltic Dry Index — Spot Rate Summary Across Segments as of 2 Oct 2026**  
 > *Figure 2: Baltic Dry Index — spot rate summary across segments as of 2 Oct 2026. The BDI closed the week at 3,148 points, against a 52-week high of 3,628, a low of 1,532 and an average of 2,498 (Source: Signal).*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-dry-market-monitor-week-40-2026) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6ac601493f048e68dd4f819e_8c501120.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-dry-market-monitor-week-40-2026) | [Local Asset](../../../../../../corpus/07-signal/images/6ac601493f048e68dd4f819e_8c501120.png)
 
 **The composite gave back the previous week’s gain.** The BDI eased to 3,148 points (+8 daily, −278 week-on-week) from 3,426 on 25 September, a sequence the Baltic Exchange’s own weekly report records identically. **Capesize** drove the fall: the BCI dropped 742 points to 5,042, with C5TC(180) down $6,726 to $42,228/day and C5TC(182) at $45,731/day. **Panamax** eased more modestly, the BPI 35 points lower at 2,372 and P5TC down $313 to $21,349/day. **Supramax** and **Handysize** were effectively unchanged — the BSI three points higher at 1,789 and the BHSI four points lower at 1,007 — and both sit within a few points of their 52-week highs of 1,797 and 1,013.
 
@@ -78,7 +78,7 @@ Panamax Pacific routes eased, P3A\_82 down $766 and P5\_82 down $225, a pattern 
 
 > **Figure 4: Global Ballaster Fleet and Regional Counts as of 2 October 2026**  
 > *Global ballaster fleet and regional counts as of 2 October 2026. Counts are point-in-time and regional figures sum to the global total (Source: Signal).*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-dry-market-monitor-week-40-2026) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6ac60098074378f84a290342_Screenshot 2026-10-07 at 09.18.01.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-dry-market-monitor-week-40-2026) | [Local Asset](../../../../../../corpus/07-signal/images/6ac60098074378f84a290342_Screenshot%202026-10-07%20at%2009.18.01.png)
 
 The largest single regional concentration of the week was 235 Capesize ballasters in Australasia, followed by 213 Panamax in the same region. Panamax carried the largest global count at 780 and Capesize the smallest at 620, with Capesize open tonnage heavily weighted to the Pacific. Within Handysize, the North Atlantic including the Mediterranean and Black Sea held that segment’s largest pool at 174 vessels.
 
@@ -88,17 +88,17 @@ The largest single regional concentration of the week was 235 Capesize ballaster
 **Freight.** The BCI fell 742 points to 5,042 (+32 on the day). C5TC(180), the 180,000 dwt timecharter average, lost $6,726 to $42,228/day, the largest weekly decline of the four segments; C5TC(182), the 182,000 dwt benchmark that became the market standard in January 2026, closed at $45,731/day. Losses were spread across the basket, with the China–Brazil/West Africa round (C14\_182, −$8,880 to $41,814/day) and the China–Japan transpacific round (C10\_182, −$7,017 to $38,846/day) leading. The Cont-Med trip to China–Japan (C9\_182) remained the highest-paid route in the basket at $87,400/day; the transatlantic round (C8\_182) was the highest-paying round-voyage route at $57,719/day despite a $5,219 fall. The index finished 1,121 points above its level a quarter ago and 2,322 points above a year ago, against a 52-week high of 6,427 and a low of 2,175.
 
 
-![Baltic Capesize Index (BCI) — Spot Rate Summary as of 2 Oct 2026](../../images/6ac601493f048e68dd4f81a1_3dae5bf1.png)
+![Baltic Capesize Index (BCI) — Spot Rate Summary as of 2 Oct 2026](../../../../../../corpus/07-signal/images/6ac601493f048e68dd4f81a1_3dae5bf1.png)
 
 > **Figure 3: Baltic Capesize Index (BCI) — Spot Rate Summary as of 2 Oct 2026**  
 > *Figure 3: Baltic Capesize Index (BCI) — spot rate summary as of 2 Oct 2026 (Source: Signal).*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-dry-market-monitor-week-40-2026) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6ac601493f048e68dd4f81a1_3dae5bf1.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-dry-market-monitor-week-40-2026) | [Local Asset](../../../../../../corpus/07-signal/images/6ac601493f048e68dd4f81a1_3dae5bf1.png)
 
 
-![Capesize | Analysis](../../images/6ac601493f048e68dd4f81a7_38fc3a55.png)
+![Capesize | Analysis](../../../../../../corpus/07-signal/images/6ac601493f048e68dd4f81a7_38fc3a55.png)
 
 > **Figure 6: Capesize | Analysis**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-dry-market-monitor-week-40-2026) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6ac601493f048e68dd4f81a7_38fc3a55.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-dry-market-monitor-week-40-2026) | [Local Asset](../../../../../../corpus/07-signal/images/6ac601493f048e68dd4f81a7_38fc3a55.png)
 
 *Figure 4: Capesize — Global ballaster fleet and regional positioning as of 2 Oct 2026 (Source: Signal).*
 
@@ -107,20 +107,20 @@ The largest single regional concentration of the week was 235 Capesize ballaster
 On the forward balance the two supply measures diverge: for C3, total supply runs below expected demand for roughly the first thirty days before crossing above it, while supply excluding laden vessels finishes lower still. For C5, total supply tracks demand through the first fortnight and crosses above it at about day fourteen, whereas supply excluding laden vessels flattens from about day eleven and ends well below demand.
 
 
-![Capesize | Analysis](../../images/6ac601493f048e68dd4f819b_96b660f6.png)
+![Capesize | Analysis](../../../../../../corpus/07-signal/images/6ac601493f048e68dd4f819b_96b660f6.png)
 
 > **Figure 7: Capesize | Analysis**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-dry-market-monitor-week-40-2026) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6ac601493f048e68dd4f819b_96b660f6.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-dry-market-monitor-week-40-2026) | [Local Asset](../../../../../../corpus/07-signal/images/6ac601493f048e68dd4f819b_96b660f6.png)
 
 *Figure 5: Capesize — C3 & C5 forward balance: cumulative Supply, Supply excluding laden vessels and Expected Demand over days forward (Source: Signal).*
 
 **Supply/demand — market-position indicator.** The demand-to-supply series compares four-week-average year-on-year growth in tonne-mile demand with growth in available tonnage, so a reading above 1.00 means demand is growing faster than tonnage rather than that cargo physically exceeds ships. For the week ending 1 October the provisional Capesize ratio stands at **1.01**. Over four weeks West African bauxite rose 23% to 12.98 Mt and West African iron ore 47% to 5.92 Mt, while East Coast South American cargo fell 2.99 Mt; the pooled Capesize/VLOC North Atlantic loading-to-open-DWT ratio increased from 0.91 to 1.08. Western Australian ore fines were 7.4% lower in the latest week.
 
 
-![Capesize | Analysis](../../images/6ac601493f048e68dd4f81aa_997983a8.png)
+![Capesize | Analysis](../../../../../../corpus/07-signal/images/6ac601493f048e68dd4f81aa_997983a8.png)
 
 > **Figure 8: Capesize | Analysis**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-dry-market-monitor-week-40-2026) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6ac601493f048e68dd4f81aa_997983a8.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-dry-market-monitor-week-40-2026) | [Local Asset](../../../../../../corpus/07-signal/images/6ac601493f048e68dd4f81aa_997983a8.png)
 
 *Figure 6: Capesize — demand-to-supply ratio (LHS bars, four-week-average year-on-year growth; above 1.00 = tonne-mile demand growing faster than available tonnage) against the C5TC weekly average (RHS line). Available tonnage excludes VLOC tonnage on long-term contract. Shaded band = latest six provisional weeks. The annotated $48,901/day is the settled weekly average for the week ending 1 October 2026 as supplied in the research input; it is not the 2 October closing assessment quoted above, and the underlying series is not reproduced in this report (Source: Signal; Baltic Exchange).*
 
@@ -130,18 +130,18 @@ On the forward balance the two supply measures diverge: for C3, total supply run
 **Freight.** The BPI eased 35 points to 2,372 and the P5TC average fell $313 to $21,349/day. Every route in the basket finished lower. P3A\_82 (Hong Kong–South Korea transpacific) fell $766 to $20,597/day, P2A\_82 (Skaw–Gibraltar trip to Taiwan–Japan) $271 to $30,622/day and P6\_82 (Singapore round via Atlantic) $268 to $21,407/day. P5\_82 (South China/Indonesian round) eased $225 to $19,081/day, P4\_82 $73 to $13,106/day and P1A\_82 (Skaw–Gibraltar transatlantic round) just $27 to $21,618/day. The grain routes softened marginally, P7 (US Gulf–Qingdao) down $0.16 to $76.88/mt and P8 (Santos–Qingdao) down $0.28 to $56.94/mt. The index remains 177 points above its level a quarter ago, against a 52-week high of 2,521 and a low of 1,266.
 
 
-![Panamax | Analysis](../../images/6ac601493f048e68dd4f81ad_8d4ac158.png)
+![Panamax | Analysis](../../../../../../corpus/07-signal/images/6ac601493f048e68dd4f81ad_8d4ac158.png)
 
 > **Figure 9: Panamax | Analysis**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-dry-market-monitor-week-40-2026) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6ac601493f048e68dd4f81ad_8d4ac158.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-dry-market-monitor-week-40-2026) | [Local Asset](../../../../../../corpus/07-signal/images/6ac601493f048e68dd4f81ad_8d4ac158.png)
 
 *Figure 7: Baltic Panamax Index (BPI) — spot rate summary as of 2 Oct 2026 (Source: Signal).*
 
 
-![Panamax | Analysis](../../images/6ac601493f048e68dd4f81b0_b4a227ac.png)
+![Panamax | Analysis](../../../../../../corpus/07-signal/images/6ac601493f048e68dd4f81b0_b4a227ac.png)
 
 > **Figure 10: Panamax | Analysis**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-dry-market-monitor-week-40-2026) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6ac601493f048e68dd4f81b0_b4a227ac.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-dry-market-monitor-week-40-2026) | [Local Asset](../../../../../../corpus/07-signal/images/6ac601493f048e68dd4f81b0_b4a227ac.png)
 
 *Figure 8: Panamax — Global ballaster fleet and regional positioning as of 2 Oct 2026 (Source: Signal).*
 
@@ -150,20 +150,20 @@ On the forward balance the two supply measures diverge: for C3, total supply run
 On the forward balance, total supply finishes below expected demand on all four panels. The P1/P2/P7 group runs below demand across the whole twenty-day window; P3 runs above demand until about days fourteen to fifteen and below thereafter; P5 falls increasingly short from about day four and P6 from about day five. Supply excluding laden vessels sits lower again on each panel. The latest reading remains provisional.
 
 
-![Panamax | Analysis](../../images/6ac601493f048e68dd4f81b3_0687159c.png)
+![Panamax | Analysis](../../../../../../corpus/07-signal/images/6ac601493f048e68dd4f81b3_0687159c.png)
 
 > **Figure 11: Panamax | Analysis**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-dry-market-monitor-week-40-2026) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6ac601493f048e68dd4f81b3_0687159c.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-dry-market-monitor-week-40-2026) | [Local Asset](../../../../../../corpus/07-signal/images/6ac601493f048e68dd4f81b3_0687159c.png)
 
 *Figure 9: Panamax — P1/P2/P7, P3, P5 & P6 forward balance: cumulative Supply, Supply excluding laden vessels and Expected Demand over days forward (Source: Signal).*
 
 **Supply/demand — market-position indicator.** For the week ending 1 October the provisional Panamax ratio stands at **0.96**. US Gulf grain recorded the clearest Atlantic cargo increase, rising from 0.22 Mt to 2.00 Mt over four weeks across 28 voyages, up from three, of which 1.20 Mt was assigned to China. East Coast South American grain fell 1.20 Mt over the same four weeks and the North Atlantic loading-to-open-DWT ratio eased from 0.47 to 0.41..
 
 
-![Panamax | Analysis](../../images/6ac601493f048e68dd4f81b6_a6bc94ac.png)
+![Panamax | Analysis](../../../../../../corpus/07-signal/images/6ac601493f048e68dd4f81b6_a6bc94ac.png)
 
 > **Figure 12: Panamax | Analysis**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-dry-market-monitor-week-40-2026) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6ac601493f048e68dd4f81b6_a6bc94ac.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-dry-market-monitor-week-40-2026) | [Local Asset](../../../../../../corpus/07-signal/images/6ac601493f048e68dd4f81b6_a6bc94ac.png)
 
 *Figure 10: Panamax — demand-to-supply ratio (LHS bars, four-week-average year-on-year growth) against the P5TC weekly average (RHS line). Shaded band = latest three provisional weeks. The annotated $21,568/day is the settled weekly average for the week ending 1 October 2026 as supplied in the research input; it is not the 2 October closing assessment quoted above (Source: Signal; Baltic Exchange).*
 
@@ -175,18 +175,18 @@ On the forward balance, total supply finishes below expected demand on all four 
 In the Pacific and Indian Ocean, S2 (North China, one Australian or Pacific round) rose $300 to $21,444/day, S15 (Indian Ocean trip via South Africa) $268 to $19,929/day, S8 $121 to $25,550/day and S3 $91 to $21,083/day. The US Gulf routes moved against that: S1C (US Gulf to China–South Japan) fell $937 to $31,794/day and S4A (US Gulf to Skaw-Passero) $606 to $32,038/day, while S1B (Canakkale via Mediterranean) lost $536 to $25,786/day. S4A nonetheless remains the highest-paid route in the basket.
 
 
-![Supramax | Analysis](../../images/6ac601493f048e68dd4f81b9_5f39e43c.png)
+![Supramax | Analysis](../../../../../../corpus/07-signal/images/6ac601493f048e68dd4f81b9_5f39e43c.png)
 
 > **Figure 13: Supramax | Analysis**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-dry-market-monitor-week-40-2026) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6ac601493f048e68dd4f81b9_5f39e43c.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-dry-market-monitor-week-40-2026) | [Local Asset](../../../../../../corpus/07-signal/images/6ac601493f048e68dd4f81b9_5f39e43c.png)
 
 *Figure 11: Baltic Supramax Index (BSI) — spot rate summary as of 2 Oct 2026 (Source: Signal).*
 
 
-![Supramax | Analysis](../../images/6ac601493f048e68dd4f81c2_7e02854f.png)
+![Supramax | Analysis](../../../../../../corpus/07-signal/images/6ac601493f048e68dd4f81c2_7e02854f.png)
 
 > **Figure 14: Supramax | Analysis**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-dry-market-monitor-week-40-2026) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6ac601493f048e68dd4f81c2_7e02854f.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-dry-market-monitor-week-40-2026) | [Local Asset](../../../../../../corpus/07-signal/images/6ac601493f048e68dd4f81c2_7e02854f.png)
 
 *Figure 12: Supramax — Global ballaster fleet and regional positioning as of 2 Oct 2026 (Source: Signal).*
 
@@ -195,20 +195,20 @@ In the Pacific and Indian Ocean, S2 (North China, one Australian or Pacific roun
 On the forward balance, total supply ends above expected demand on all four panels, the clearest cover of any segment this week, although on S5 total supply dips below demand briefly between roughly days two and five before rising above it. Supply excluding laden West African tonnage sits materially lower on the S5 panel and does not clear demand until about day nine.
 
 
-![Supramax | Analysis](../../images/6ac601493f048e68dd4f81bc_f51a587e.png)
+![Supramax | Analysis](../../../../../../corpus/07-signal/images/6ac601493f048e68dd4f81bc_f51a587e.png)
 
 > **Figure 15: Supramax | Analysis**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-dry-market-monitor-week-40-2026) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6ac601493f048e68dd4f81bc_f51a587e.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-dry-market-monitor-week-40-2026) | [Local Asset](../../../../../../corpus/07-signal/images/6ac601493f048e68dd4f81bc_f51a587e.png)
 
 *Figure 13: Supramax — S4A/S1C, S4B, S5 & S8/S10 forward balance: cumulative Supply, Supply excluding laden vessels and Expected Demand over days forward (Source: Signal).*
 
 **Supply/demand — market-position indicator.** For the week ending 1 October the provisional Supramax ratio remains at **0.83**, the lowest of the four segments. Over four weeks Southeast Asian thermal coal rose 13% to 14.79 Mt and Far East steels 11% to 10.82 Mt, while the Pacific loading-to-open-DWT ratio edged up from 0.93 to 0.94. Gulf grain fell 16% in the latest week and Far East steels were also lower.
 
 
-![Supramax | Analysis](../../images/6ac601493f048e68dd4f81c5_711a4a83.png)
+![Supramax | Analysis](../../../../../../corpus/07-signal/images/6ac601493f048e68dd4f81c5_711a4a83.png)
 
 > **Figure 16: Supramax | Analysis**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-dry-market-monitor-week-40-2026) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6ac601493f048e68dd4f81c5_711a4a83.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-dry-market-monitor-week-40-2026) | [Local Asset](../../../../../../corpus/07-signal/images/6ac601493f048e68dd4f81c5_711a4a83.png)
 
 *Figure 14: Supramax — demand-to-supply ratio (LHS bars, four-week-average year-on-year growth) against the S11TC weekly average (RHS line). Shaded band = latest three provisional weeks. The annotated $22,637/day is the settled weekly average for the week ending 1 October 2026 as supplied in the research input; it is not the 2 October closing assessment quoted above (Source: Signal; Baltic Exchange).*
 
@@ -220,28 +220,28 @@ On the forward balance, total supply ends above expected demand on all four pane
 The Atlantic trips weakened, HS4\_38 (US Gulf trip via US Gulf or North Coast South America) falling $807 to $24,107/day and HS3\_38 (Rio de Janeiro–Recalada to Skaw) $84 to $25,594/day, with HS5\_38 (South East Asia to Singapore–Japan) down $363 to $17,531/day. The index stands 120 points above its level a month ago.
 
 
-![Handysize | Analysis](../../images/6ac601493f048e68dd4f81bf_bf875b90.png)
+![Handysize | Analysis](../../../../../../corpus/07-signal/images/6ac601493f048e68dd4f81bf_bf875b90.png)
 
 > **Figure 17: Handysize | Analysis**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-dry-market-monitor-week-40-2026) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6ac601493f048e68dd4f81bf_bf875b90.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-dry-market-monitor-week-40-2026) | [Local Asset](../../../../../../corpus/07-signal/images/6ac601493f048e68dd4f81bf_bf875b90.png)
 
 *Figure 15: Baltic Handysize Index (BHSI) — spot rate summary as of 2 Oct 2026 (Source: Signal).*
 
 
-![Handysize | Analysis](../../images/6ac601493f048e68dd4f81cb_5ff86f7c.png)
+![Handysize | Analysis](../../../../../../corpus/07-signal/images/6ac601493f048e68dd4f81cb_5ff86f7c.png)
 
 > **Figure 18: Handysize | Analysis**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-dry-market-monitor-week-40-2026) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6ac601493f048e68dd4f81cb_5ff86f7c.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-dry-market-monitor-week-40-2026) | [Local Asset](../../../../../../corpus/07-signal/images/6ac601493f048e68dd4f81cb_5ff86f7c.png)
 
 *Figure 16: Handysize — Global ballaster fleet and regional positioning as of 2 Oct 2026 (Source: Signal).*
 
 **Ballaster positioning.** The global Handysize ballaster count stood at 661 on 2 October. The North Atlantic including the Mediterranean and Black Sea held 174 vessels, the largest regional pool within the Handysize segment, with 156 in each of FEAST/NOPAC and Australasia, 103 in the Indian Ocean/South Africa and 72 in the South Atlantic. That concentration sits in the region where the week’s route gains were recorded. Across all four segments the largest single regional pool was 235 Capesize ballasters in Australasia.
 
 
-![Handysize | Analysis](../../images/6ac601493f048e68dd4f81c8_d7b5cbec.png)
+![Handysize | Analysis](../../../../../../corpus/07-signal/images/6ac601493f048e68dd4f81c8_d7b5cbec.png)
 
 > **Figure 19: Handysize | Analysis**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-dry-market-monitor-week-40-2026) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6ac601493f048e68dd4f81c8_d7b5cbec.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-dry-market-monitor-week-40-2026) | [Local Asset](../../../../../../corpus/07-signal/images/6ac601493f048e68dd4f81c8_d7b5cbec.png)
 
 *Figure 17: Handysize — HS1/HS2, HS5, HS6 & HS7 forward balance: cumulative Supply, Supply excluding laden vessels and Expected Demand over days forward (Source: Signal).*
 
@@ -250,10 +250,10 @@ The Atlantic trips weakened, HS4\_38 (US Gulf trip via US Gulf or North Coast So
 On the forward balance, total supply sits comfortably above expected demand on the HS1/HS2 and HS5 panels. On HS6 total supply runs below demand from about day two to day fourteen and then crosses above, finishing above demand at the end of the window. HS7 is the one  where total supply remains below demand throughout. Supply excluding laden is lower again on the HS6 and HS7 routes.
 
 
-![Handysize | Analysis](../../images/6ac601493f048e68dd4f81ce_bf83dc41.png)
+![Handysize | Analysis](../../../../../../corpus/07-signal/images/6ac601493f048e68dd4f81ce_bf83dc41.png)
 
 > **Figure 20: Handysize | Analysis**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-dry-market-monitor-week-40-2026) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6ac601493f048e68dd4f81ce_bf83dc41.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-dry-market-monitor-week-40-2026) | [Local Asset](../../../../../../corpus/07-signal/images/6ac601493f048e68dd4f81ce_bf83dc41.png)
 
 *Figure 18: Handysize — demand-to-supply ratio (LHS bars, four-week-average year-on-year growth) against the HS7TC weekly average (RHS line). Shaded band = latest five provisional weeks. The annotated $18,194/day is the settled weekly average for the week ending 1 October 2026 as supplied in the research input; it is not the 2 October closing assessment quoted above (Source: Signal; Baltic Exchange).*
 
@@ -264,7 +264,7 @@ On the forward balance, total supply sits comfortably above expected demand on t
 ![Overall Market Trend | Conclusions](../../images/6ac60110a5edd3c4dcbcce20_Screenshot 2026-10-07 at 09.18.22.png)
 
 > **Figure 21: Overall Market Trend | Conclusions**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-dry-market-monitor-week-40-2026) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6ac60110a5edd3c4dcbcce20_Screenshot 2026-10-07 at 09.18.22.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-dry-market-monitor-week-40-2026) | [Local Asset](../../../../../../corpus/07-signal/images/6ac60110a5edd3c4dcbcce20_Screenshot%202026-10-07%20at%2009.18.22.png)
 
 *Table 1: Index levels and timecharter averages are the published closing assessments of 2 October 2026; ballaster counts are point-in-time on the same date. Demand-to-supply ratios are the weekly series for the week ending 1 October 2026 and are provisional. The weekly timecharter averages underlying that series are not reproduced here, as they cover a different period from the 2 October closing assessments (Source: Signal; Baltic Exchange).*
 

@@ -20,10 +20,10 @@ source_file: "corpus/03-breakwave/insights/2025/2025-10-24_chinas-soybean-import
 
 ---
 
-![Market Chart 1](assets/2025-10-24_chinas-soybean-imports-pivot-south-us-shipments-vanish-in-september-as-south-ame_img_unnamed_54a89bf5d3e3.png)
+![Market Chart 1](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-10-24_chinas-soybean-imports-pivot-south-us-shipments-vanish-in-september-as-south-ame_img_unnamed_54a89bf5d3e3.png)
 
 > **Figure 1: Market Chart 1**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://go.signalocean.com/e/983831/dry-dynamic-drybulkflows/2rk223/541973999/h/gVaVedBc2VvRQH0UdhcEwFF8nYJVtR35VNF3knbYAAw) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-10-24_chinas-soybean-imports-pivot-south-us-shipments-vanish-in-september-as-south-ame_img_unnamed_54a89bf5d3e3.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://go.signalocean.com/e/983831/dry-dynamic-drybulkflows/2rk223/541973999/h/gVaVedBc2VvRQH0UdhcEwFF8nYJVtR35VNF3knbYAAw) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-10-24_chinas-soybean-imports-pivot-south-us-shipments-vanish-in-september-as-south-ame_img_unnamed_54a89bf5d3e3.png)
 
 China’s soybean supply chain took a sharp turn south in September.
 
@@ -34,28 +34,28 @@ China’s soybean supply chain took a sharp turn south in September.
 
 Shipments reached a peak of 4.1 Mt in January and decreased to 2.7 Mt in February, then fell to zero in September 2025; 2025 clearly differs from 2024, confirming customs reports of no U.S. soybean arrivals.
 
-![Market Chart 2](assets/2025-10-24_chinas-soybean-imports-pivot-south-us-shipments-vanish-in-september-as-south-ame_img_unnamed28129_276a28fe257b.png)
+![Market Chart 2](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-10-24_chinas-soybean-imports-pivot-south-us-shipments-vanish-in-september-as-south-ame_img_unnamed28129_276a28fe257b.png)
 
 > **Figure 2: Market Chart 2**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://go.signalocean.com/e/983831/dry-dynamic-drybulkflows/2rk223/541973999/h/gVaVedBc2VvRQH0UdhcEwFF8nYJVtR35VNF3knbYAAw) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-10-24_chinas-soybean-imports-pivot-south-us-shipments-vanish-in-september-as-south-ame_img_unnamed28129_276a28fe257b.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://go.signalocean.com/e/983831/dry-dynamic-drybulkflows/2rk223/541973999/h/gVaVedBc2VvRQH0UdhcEwFF8nYJVtR35VNF3knbYAAw) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-10-24_chinas-soybean-imports-pivot-south-us-shipments-vanish-in-september-as-south-ame_img_unnamed28129_276a28fe257b.png)
 
 ## Argentina Steps Up - Export Incentives Spark Surge
 
 From August to October 2025, shipments experienced a significant increase. September saw nearly 1.5 Mt, approximately double the 2024 figures, largely due to temporary export-tax relief and a weakened peso, which enhanced export competitiveness. October volumes climbed even higher to about 2.3 Mt, marking a 64% month-on-month rise and over 320% year-on-year growth.
 
-![Market Chart 3](assets/2025-10-24_chinas-soybean-imports-pivot-south-us-shipments-vanish-in-september-as-south-ame_img_unnamed28229_2a3f4587ff51.png)
+![Market Chart 3](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-10-24_chinas-soybean-imports-pivot-south-us-shipments-vanish-in-september-as-south-ame_img_unnamed28229_2a3f4587ff51.png)
 
 > **Figure 3: Market Chart 3**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://go.signalocean.com/e/983831/dry-dynamic-drybulkflows/2rk223/541973999/h/gVaVedBc2VvRQH0UdhcEwFF8nYJVtR35VNF3knbYAAw) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-10-24_chinas-soybean-imports-pivot-south-us-shipments-vanish-in-september-as-south-ame_img_unnamed28229_2a3f4587ff51.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://go.signalocean.com/e/983831/dry-dynamic-drybulkflows/2rk223/541973999/h/gVaVedBc2VvRQH0UdhcEwFF8nYJVtR35VNF3knbYAAw) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-10-24_chinas-soybean-imports-pivot-south-us-shipments-vanish-in-september-as-south-ame_img_unnamed28229_2a3f4587ff51.png)
 
 ## Brazil Maintains Dominance
 
 Sustained high volumes from April to August (10–11 Mt/month) and elevated September shipments versus previous years highlight Brazil’s extended export window and robust port capacity, though the 22.8% MoM decline in September reflects Argentina’s seasonal return to the export market.
 
-![Market Chart 4](assets/2025-10-24_chinas-soybean-imports-pivot-south-us-shipments-vanish-in-september-as-south-ame_img_unnamed28329_3ab9951198b3.png)
+![Market Chart 4](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-10-24_chinas-soybean-imports-pivot-south-us-shipments-vanish-in-september-as-south-ame_img_unnamed28329_3ab9951198b3.png)
 
 > **Figure 4: Market Chart 4**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://go.signalocean.com/e/983831/dry-dynamic-drybulkflows/2rk223/541973999/h/gVaVedBc2VvRQH0UdhcEwFF8nYJVtR35VNF3knbYAAw) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-10-24_chinas-soybean-imports-pivot-south-us-shipments-vanish-in-september-as-south-ame_img_unnamed28329_3ab9951198b3.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://go.signalocean.com/e/983831/dry-dynamic-drybulkflows/2rk223/541973999/h/gVaVedBc2VvRQH0UdhcEwFF8nYJVtR35VNF3knbYAAw) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-10-24_chinas-soybean-imports-pivot-south-us-shipments-vanish-in-september-as-south-ame_img_unnamed28329_3ab9951198b3.png)
 
 ## Market Reaction and Outlook
 

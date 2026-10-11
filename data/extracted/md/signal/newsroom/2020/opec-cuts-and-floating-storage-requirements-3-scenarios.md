@@ -38,11 +38,11 @@ We did an analysis to quantify how many VLCCs could be required for use as float
 In the table below, you can see the results of this analysis basis the assumptions mentioned above at three different levels of Oversupply (Production-Demand).
 
 
-![Three Scenarios Showing the Potential Impact on Floating Storage Requirements.](../../images/66b5208c8f3784a8224ba5e3_5fc15be53f21722dd275e446_OPEC%20cuts%20-%20the%20potential%20impact%20on%20floating%20storage%20requirements..avif)
+![Three Scenarios Showing the Potential Impact on Floating Storage Requirements.](../../images/66b5208c8f3784a8224ba5e3_5fc15be53f21722dd275e446_OPEC%2520cuts%2520-%2520the%2520potential%2520impact%2520on%2520floating%2520storage%2520requirements..avif)
 
 > **Figure 1: Three Scenarios Showing the Potential Impact on Floating Storage Requirements.**  
 > *Three scenarios showing the potential impact on floating storage requirements.*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/opec-cuts-and-floating-storage-requirements-3-scenarios) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/66b5208c8f3784a8224ba5e3_5fc15be53f21722dd275e446_OPEC%20cuts%20-%20the%20potential%20impact%20on%20floating%20storage%20requirements..avif)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/opec-cuts-and-floating-storage-requirements-3-scenarios) | [Local Asset](../../../../../../corpus/07-signal/images/66b5208c8f3784a8224ba5e3_5fc15be53f21722dd275e446_OPEC%2520cuts%2520-%2520the%2520potential%2520impact%2520on%2520floating%2520storage%2520requirements..avif)
 
 Obviously, the numbers are highly dependent on a number of factors, including:
 
@@ -55,20 +55,20 @@ Obviously, the numbers are highly dependent on a number of factors, including:
 The “Low” Case scenario is almost where we stand at the moment. The “Mid” Case scenario, visualized in the graph below, would result in more than 50% of the VLCC capacity or a mix of VLCC, Suez, Afras being relegated to floating storage:
 
 
-![The "Mid" Case Scenario: Requirements for Crude Floating Storage per Day for the 3 Large Vessel Segments](../../images/66b5208c8f3784a8224ba5e7_5fc15be53f217256b675e447_OPEC%20cuts%20-%20The%20Mid%20case%20scenario.avif)
+![The "Mid" Case Scenario: Requirements for Crude Floating Storage per Day for the 3 Large Vessel Segments](../../images/66b5208c8f3784a8224ba5e7_5fc15be53f217256b675e447_OPEC%2520cuts%2520-%2520The%2520Mid%2520case%2520scenario.avif)
 
 > **Figure 2: The "Mid" Case Scenario: Requirements for Crude Floating Storage per Day for the 3 Large Vessel Segments**  
 > *The "Mid" case scenario: Requirements for crude floating storage per day for the 3 large vessel segments*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/opec-cuts-and-floating-storage-requirements-3-scenarios) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/66b5208c8f3784a8224ba5e7_5fc15be53f217256b675e447_OPEC%20cuts%20-%20The%20Mid%20case%20scenario.avif)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/opec-cuts-and-floating-storage-requirements-3-scenarios) | [Local Asset](../../../../../../corpus/07-signal/images/66b5208c8f3784a8224ba5e7_5fc15be53f217256b675e447_OPEC%2520cuts%2520-%2520The%2520Mid%2520case%2520scenario.avif)
 
 Monitoring cargoes and associated drops in Vessel supply in real-time will become even more relevant in the current global context. Let’s see how the end of April and beginning of May will evolve during the next few days. We saw an increase of 5% over March 2019 and 20% percent over February 2020.
 
 
-![Using the Signal Ocean Platform, You Can View a Real Time Cargo Count Based on Market Fixtures for VLCCs on a Yearly, Monthly, and Decade Basis.](../../images/66b5208c8f3784a8224ba5df_5fc15be53f2172b1f175e448_VLCC%20fixtures%20count%20dashboard%20-%20signal%20ocean%20platform.avif)
+![Using the Signal Ocean Platform, You Can View a Real Time Cargo Count Based on Market Fixtures for VLCCs on a Yearly, Monthly, and Decade Basis.](../../images/66b5208c8f3784a8224ba5df_5fc15be53f2172b1f175e448_VLCC%2520fixtures%2520count%2520dashboard%2520-%2520signal%2520ocean%2520platform.avif)
 
 > **Figure 3: Using the Signal Ocean Platform, You Can View a Real Time Cargo Count Based on Market Fixtures for VLCCs on a Yearly, Monthly, and Decade Basis.**  
 > *Using The Signal Ocean Platform, you can view a real time cargo count based on market fixtures for VLCCs on a yearly, monthly, and decade basis.*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/opec-cuts-and-floating-storage-requirements-3-scenarios) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/66b5208c8f3784a8224ba5df_5fc15be53f2172b1f175e448_VLCC%20fixtures%20count%20dashboard%20-%20signal%20ocean%20platform.avif)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/opec-cuts-and-floating-storage-requirements-3-scenarios) | [Local Asset](../../../../../../corpus/07-signal/images/66b5208c8f3784a8224ba5df_5fc15be53f2172b1f175e448_VLCC%2520fixtures%2520count%2520dashboard%2520-%2520signal%2520ocean%2520platform.avif)
 
 We will continue to keep an eye on cargoes count and associated vessel supply and will take a closer look at similar events in the past and how the market has reacted. The big question is at what point freight rates become uneconomical and when the market would reach the “tipping point” where freight for normal VLCC voyages due to reduced vessel supply will balance storage rates and smaller crude carriers for storage would be considered.
 

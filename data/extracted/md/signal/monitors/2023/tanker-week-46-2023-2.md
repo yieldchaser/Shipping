@@ -32,7 +32,7 @@ tags:
 ![655f4ab0a886409c49af1ae3 Saudi Arabia Oil Flows](../../images/655f4ab0a886409c49af1ae3_Saudi Arabia oil flows.png)
 
 > **Figure 1: 655f4ab0a886409c49af1ae3 Saudi Arabia Oil Flows**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/tanker-week-46-2023-2) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/655f4ab0a886409c49af1ae3_Saudi Arabia oil flows.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/tanker-week-46-2023-2) | [Local Asset](../../../../../../corpus/07-signal/images/655f4ab0a886409c49af1ae3_Saudi%20Arabia%20oil%20flows.png)
 
 In the last week of November, the crude oil freight market showed continued weakness in sentiment, although earlier expectations pointed to a recovery in the very large crude carrier (VLCC) segment. At present, the market appears to be struggling to find a balance between the availability of ships and the still erratic growth in demand.
 

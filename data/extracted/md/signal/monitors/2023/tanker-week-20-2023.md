@@ -33,7 +33,7 @@ tags:
 
 > **Figure 1: Data Source: The Signal Ocean Platform- Supply / Demand Ton Charts Https://app.signalocean.com/tanker/dynamic/market-Prices-Tankers**  
 > *Data Source: The Signal Ocean Platform- Supply / Demand Ton Charts https://app.signalocean.com/tanker/dynamic/market-prices-tankers*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/tanker-week-20-2023) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/646770689b6bc7cf9c36c874_chart of the week tankers logo.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/tanker-week-20-2023) | [Local Asset](../../../../../../corpus/07-signal/images/646770689b6bc7cf9c36c874_chart%20of%20the%20week%20tankers%20logo.png)
 
 The sustained decline in Very Large Crude Carrier (VLCC) freight rates from the Middle East Gulf (MEG) to China continues, despite expectations of increased Chinese oil demand this year, as projected by the latest estimates from the International Energy Agency (IEA). The sustained decrease in rates throughout May reflects the prevailing market conditions and suggests a notable shift in the supply and demand dynamics in this particular trade route.The left chart above illustrates this downward trend, with freight rates (WS rates) currently at their lowest level since the start of the year. Consequently, this has led to a reduction in high seagoing ballast speeds, as depicted in the right chart above, compared to the earlier recorded levels earlier this year.
 

@@ -26,10 +26,14 @@ Instead of a decline in Arabian Gulf rates, the more immediate impact on the VLC
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: Timing is Everything](../../../charts/poten/2012/poten_2012-03-09_timing-is-everything_chart1.png)
+![Exhibit 1: Price Behavior of NYMEX Crude Oil to US SPR Oil Inventory Release](../../../charts/poten/2012/poten_2012-03-09_timing-is-everything_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2012/poten_2012-03-09_timing-is-everything_chart1.png)
+> **Exhibit 1: Price Behavior of NYMEX Crude Oil to US SPR Oil Inventory Release**  
+> Unit: NYMEX Crude Oil, $/bbl · X-axis: 03-Jan-11 to 03-Feb-12  
+> Series: Crude Oil Price  
+> *Source: Poten*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2012/poten_2012-03-09_timing-is-everything_chart1.png)
 
 ![Exhibit 2: Timing is Everything](../../../charts/poten/2012/poten_2012-03-09_timing-is-everything_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2012/poten_2012-03-09_timing-is-everything_chart2.png)
+> **Interactive Asset:** [Local Asset (200 DPI PNG)](../../../charts/poten/2012/poten_2012-03-09_timing-is-everything_chart2.png)

@@ -32,10 +32,18 @@ How long will the market stay in this delicate balance? Who knows? Let's enjoy i
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: The Goldilocks Tanker Market](../../../charts/poten/2015/poten_2015-04-24_the-goldilocks-tanker-market_chart1.png)
+![Exhibit 1: Rates for main Tanker Segment ($/Day)](../../../charts/poten/2015/poten_2015-04-24_the-goldilocks-tanker-market_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2015/poten_2015-04-24_the-goldilocks-tanker-market_chart1.png)
+> **Exhibit 1: Rates for main Tanker Segment ($/Day)**  
+> Unit: k $/day · X-axis: Jan-13 to Mar-15  
+> Series: VLCC, Suezmax, Aframax, MR  
+> *Source: Poten & Partners*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2015/poten_2015-04-24_the-goldilocks-tanker-market_chart1.png)
 
-![Exhibit 2: The Goldilocks Tanker Market](../../../charts/poten/2015/poten_2015-04-24_the-goldilocks-tanker-market_chart2.png)
+![Exhibit 2: Reported Tanker Contracts by Quarter Ordered](../../../charts/poten/2015/poten_2015-04-24_the-goldilocks-tanker-market_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2015/poten_2015-04-24_the-goldilocks-tanker-market_chart2.png)
+> **Exhibit 2: Reported Tanker Contracts by Quarter Ordered**  
+> Unit: # Vsls · X-axis: 2013Q1 to 2015Q1  
+> Series: MR, Panamax/LR1, Aframax/LR2, Suezmax, VLCC  
+> *Source: Poten & Partners*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2015/poten_2015-04-24_the-goldilocks-tanker-market_chart2.png)

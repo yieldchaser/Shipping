@@ -32,10 +32,17 @@ The way gasoline demand influences the tanker market is through imports and expo
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: Are We There Yet](../../../charts/poten/2021/poten_2021-05-28_are-we-there-yet_chart1.png)
+![Exhibit 1: U.S. Gasoline Demand](../../../charts/poten/2021/poten_2021-05-28_are-we-there-yet_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2021/poten_2021-05-28_are-we-there-yet_chart1.png)
+> **Exhibit 1: U.S. Gasoline Demand**  
+> Unit: Mb/d · X-axis: Jan to Dec  
+> Series: 2019, 2020, 2021  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2021/poten_2021-05-28_are-we-there-yet_chart1.png)
 
-![Exhibit 2: Are We There Yet](../../../charts/poten/2021/poten_2021-05-28_are-we-there-yet_chart2.png)
+![Exhibit 2: U.S. Gasoline Imports & Exports](../../../charts/poten/2021/poten_2021-05-28_are-we-there-yet_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2021/poten_2021-05-28_are-we-there-yet_chart2.png)
+> **Exhibit 2: U.S. Gasoline Imports & Exports**  
+> Unit: Kb/d · X-axis: Jan 2019 to May 2021  
+> Series: U.S. Imports of Gasoline, U.S. Exports of Gasoline  
+> *Source: DOE Energy Information Administration*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2021/poten_2021-05-28_are-we-there-yet_chart2.png)

@@ -170,43 +170,48 @@ DCE iron ore futures fall by 1.38 in the today. the main contract I2405 closed 1
 | **SGX** | **Feb. 24** | USD/DMT | 138.40 | -3.00 | -2.12% | 8.10 | 39.70 | 137.65 | 141.10 |
 
 ## Dry Bulk Freight Rates Historical Line Data (USD/MT)
+> **Estimate.** The report prints no numbers for this chart. Values are computed from the chart's vector geometry at each x-axis date label (calibrated on the printed axis ticks; typically within 1% of the axis range).
+
 | Date | C5 W. Australia - Qingdao (USD/MT) | C3 Tubarao - Qingdao (USD/MT) |
 | :--- | :--- | :--- |
-| 4-Jan-21 | 18.00 | 20.00 |
-| 4-Mar-21 | 20.00 | 22.00 |
-| 4-May-21 | 12.00 | 25.00 |
-| 4-Jul-21 | 15.00 | 35.00 |
-| 4-Sep-21 | 22.00 | 49.00 |
-| 4-Nov-21 | 18.00 | 28.00 |
-| 4-Jan-22 | 15.00 | 20.00 |
-| 4-Mar-22 | 18.00 | 18.00 |
-| 4-May-22 | 20.00 | 18.00 |
-| 4-Jul-22 | 22.00 | 20.00 |
-| 4-Sep-22 | 18.00 | 18.00 |
-| 4-Nov-22 | 15.00 | 18.00 |
-| 4-Jan-23 | 12.00 | 16.00 |
-| 4-Mar-23 | 10.00 | 17.00 |
-| 4-May-23 | 8.00 | 16.00 |
-| 4-Jul-23 | 10.00 | 18.00 |
-| 4-Sep-23 | 12.00 | 20.00 |
-| 4-Jan-24 | 15.00 | 30.00 |
+| 4-Jan-21 | 8.92 | 15.64 |
+| 4-Mar-21 | 8.39 | 16.18 |
+| 4-May-21 | 13.22 | 28.81 |
+| 4-Jul-21 | 10.81 | 25.32 |
+| 4-Sep-21 | 13.76 | 33.65 |
+| 4-Nov-21 | 10.81 | 24.78 |
+| 4-Jan-22 | 8.92 | 22.09 |
+| 4-Mar-22 | 10.27 | 23.71 |
+| 4-May-22 | 11.88 | 25.59 |
+| 4-Jul-22 | 10.81 | 30.15 |
+| 4-Sep-22 | 8.92 | 19.67 |
+| 4-Nov-22 | 8.12 | 19.67 |
+| 4-Jan-23 | 7.31 | 18.60 |
+| 4-Mar-23 | 7.85 | 18.87 |
+| 4-May-23 | 8.66 | 22.36 |
+| 4-Jul-23 | 8.12 | 20.75 |
+| 4-Sep-23 | 7.85 | 18.87 |
+| 4-Nov-23 | 8.39 | 20.21 |
+| 4-Jan-24 | - | - |
 
 ## Total China Iron Ore Import Volumes (Million Tonnes)
+> **Estimate.** The report prints no numbers for this chart. Values are computed from the chart's vector geometry at each x-axis date label (calibrated on the printed axis ticks; typically within 1% of the axis range).
+
 | Month / Period | Import Volume (Million Tonnes) |
 | :--- | :--- |
-| Nov-22 | 98.00 |
-| Dec-22 | 90.00 |
-| Jan-23 | 104.00 |
-| Feb-23 | 90.00 |
-| Mar-23 | 100.00 |
-| Apr-23 | 89.00 |
-| May-23 | 96.00 |
-| Jun-23 | 94.00 |
-| Jul-23 | 93.00 |
-| Aug-23 | 106.00 |
-| Sep-23 | 101.00 |
-| Oct-23 | 98.00 |
-| Nov-23 | 103.00 |
+| Nov-22 | 98.77 |
+| Dec-22 | 90.82 |
+| Jan-23 | 103.59 |
+| Feb-23 | 90.61 |
+| Mar-23 | 100.24 |
+| Apr-23 | 90.40 |
+| May-23 | 96.26 |
+| Jun-23 | 95.63 |
+| Jul-23 | 93.54 |
+| Aug-23 | 106.52 |
+| Sep-23 | 101.28 |
+| Oct-23 | 99.40 |
+| Nov-23 | 102.75 |
 
 ---
 

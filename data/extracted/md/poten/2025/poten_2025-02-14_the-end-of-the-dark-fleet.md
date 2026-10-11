@@ -22,18 +22,24 @@ There is no official definition of the dark fleet (or shadow fleet). It is a ter
 
 The largest number of sanctioned tankers (primarily Aframaxes and Suezmaxes) are trading Russian oil. The number of vessels in the Iranian trades is smaller, but still substantial, while the exports from Venezuela are small in comparison and employ only a limited number of vessels. At the moment, it appears that lifting or relaxing the sanctions on Russia seems to be the most impactful if there is a negotiated cease fire or peace treaty. A deal with Venezuela does not really move the needle in the tanker market and a nuclear peace agreement with Iran still seems far off.
 
-However, if we assume that over the course of the next 12-18 months, all sanctions will be lifted, what will happen to the sanctioned tankers? As can be seen in [Chart 2](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2025/poten_2025-02-14_the-end-of-the-dark-fleet_chart2.png), the average age of the sanctioned fleet is high. About 60% of the sanctioned fleet is 20 years old or older and will likely be recycled when sanctions are lifted, and the mainstream tanker fleet is allowed to trade to Russia, Iran and Venezuela again. The state-owned fleets of Russia (Sovcomflot) and Iran (National Iranian Tanker Company) will re-enter the market, but most other companies that were set up specifically to take advantage of the premium earnings that were available in the sanctioned trades will likely disappear after they dispose of their assets.
+However, if we assume that over the course of the next 12-18 months, all sanctions will be lifted, what will happen to the sanctioned tankers? As can be seen in [Chart 2](../../../charts/poten/2025/poten_2025-02-14_the-end-of-the-dark-fleet_chart2.png), the average age of the sanctioned fleet is high. About 60% of the sanctioned fleet is 20 years old or older and will likely be recycled when sanctions are lifted, and the mainstream tanker fleet is allowed to trade to Russia, Iran and Venezuela again. The state-owned fleets of Russia (Sovcomflot) and Iran (National Iranian Tanker Company) will re-enter the market, but most other companies that were set up specifically to take advantage of the premium earnings that were available in the sanctioned trades will likely disappear after they dispose of their assets.
 
-> **Exhibit 2: The End of the Dark Fleet (Chart 2)**  
-> *Source: Poten & Partners*  
-> **Interactive Data & Source:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2025/poten_2025-02-14_the-end-of-the-dark-fleet_chart2.png)
+> **Exhibit 2: Age Profile Of The Sanctioned Fleet**  
+> Unit: Dwt · X-axis: Older to 0  
+> Series: VLCC+, Suezmax, Aframax, Smaller  
+> *Source: Vortexa*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2025/poten_2025-02-14_the-end-of-the-dark-fleet_chart2.png)
 
-![Exhibit 2: The End of the Dark Fleet](../../../charts/poten/2025/poten_2025-02-14_the-end-of-the-dark-fleet_chart2.png)
+![Exhibit 2: Age Profile Of The Sanctioned Fleet](../../../charts/poten/2025/poten_2025-02-14_the-end-of-the-dark-fleet_chart2.png)
 
 The impact on the tanker market will generally be positive, in particular if the older vessels are quickly recycled and the trade flows do not immediately revert back to pre-war patterns. In that case, ton-mile demand remains elevated, and tonnage supply is restricted. However, even if trade patterns return to "normal", the removal of a large portion of the dark fleet will boost the market.
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: The End of the Dark Fleet](../../../charts/poten/2025/poten_2025-02-14_the-end-of-the-dark-fleet_chart1.png)
+![Exhibit 1: Destination Of Sanctioned Vessels](../../../charts/poten/2025/poten_2025-02-14_the-end-of-the-dark-fleet_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2025/poten_2025-02-14_the-end-of-the-dark-fleet_chart1.png)
+> **Exhibit 1: Destination Of Sanctioned Vessels**  
+> Unit: Number of Vessels · X-axis: Other (Laden) to Other (Ballast)  
+> Series: Other (Laden), Iran (Laden), Russia (Laden), India (Laden), China (Laden), Other (Ballast), Iran (Ballast), Venezuela (Ballast), Russia (Ballast)  
+> *Source: Vortexa*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2025/poten_2025-02-14_the-end-of-the-dark-fleet_chart1.png)

@@ -31,10 +31,10 @@ As it transpired, the eventful 2022 didn’t manage to fulfill the great expecta
 
 Reflecting back on the four-act year, four issues stand out: geopolitical tension and conflict, persistently high inflation and aggressive monetary tightening, dry bulk shipping and commodities at a deflationary course, concerns about global growth and rising Covid-19 infections in China.
 
-![1 (6)](assets/2022-12-29_doric-dry-bulk-review-2022-part-13_img_128629_3ad3c560b82c.png)
+![1 (6)](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-12-29_doric-dry-bulk-review-2022-part-13_img_128629_3ad3c560b82c.png)
 
 > **Figure 1: 1 (6)**  
-> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-12-29_doric-dry-bulk-review-2022-part-13_img_128629_3ad3c560b82c.png)
+> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-12-29_doric-dry-bulk-review-2022-part-13_img_128629_3ad3c560b82c.png)
 
 ## Act I – "What Is Past Is Prologue”
 
@@ -44,19 +44,19 @@ After a couple of weeks with the spot market reporting $5,000 losses, the third 
 
 Against these developments, the People’s Bank of China cut the oneyear policy loans rate by 10 basis points to 2.85 percent and the rate on seven-day reverse repurchase agreements to 2.1 percent. Furthermore, Beijing lowered mortgage lending benchmark rates as monetary authorities step up efforts to prop up the slowing economy. In early January, Chinese Premier Li Keqiang stressed the importance of implementing macro policies innovatively, better unleashing market vitality, stabilizing the macroeconomy, and keeping the economy running within an appropriate range. But he reiterated that the government would not resort to "flood-like" stimulus. With Baltic Capesize Index having lost some 91.5 percent of its value in just few months, an outpouring of stimuli might sound as an alluring scenario to Capesize owners. However enticing it might sounded though, all omens were not favoring such a plot twist.
 
-![1 (2)](assets/2022-12-29_doric-dry-bulk-review-2022-part-13_img_128229_4775e33e0900.png)
+![1 (2)](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-12-29_doric-dry-bulk-review-2022-part-13_img_128229_4775e33e0900.png)
 
 > **Figure 2: 1 (2)**  
-> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-12-29_doric-dry-bulk-review-2022-part-13_img_128229_4775e33e0900.png)
+> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-12-29_doric-dry-bulk-review-2022-part-13_img_128229_4775e33e0900.png)
 
 t was early October 2021 when IMF stressed that global economic upswing was continuing, even as the pandemic resurged. However, economic recovery lost momentum since then, hobbled by the highly transmissible Delta variant and its repercussions. Adverse developments since the aforementioned World Economic Outlook (WEO) had a negative impact on many major economies, with global economy entering 2022 in a weaker position than anticipated. Meanwhile, inflation had been higher and more broad-based than initially anticipated, particularly in the United States. Adding to these pressures, China's housing sector was having a bumpy year start, as some of the country's most high-profile developers were struggling to shake off a crisis that had been ballooning for months.
 
 In this juncture, global growth was expected to moderate from 5.9 in 2021 to 4.4 percent in 2022 - half a percentage point lower for 2022 than in the October WEO, largely reflecting downward revision in the two largest economies. In China, pandemic-induced disruptions related to the zero-Covid policy and prolonged financial stress among property developers induced a 0.8 percentage-point downgrade. In reference to the world's largest economy, supply shortages, a more hawkish monetary approach and a less expansionary fiscal policy produced a downward 1.2 percentage-points revision. In the euro area, prolonged supply constraints and Covid-19 disruptions produced a less severe markdown of 0.4 percentage point.
 
-![1 (3)](assets/2022-12-29_doric-dry-bulk-review-2022-part-13_img_128329_2d905cdc4250.png)
+![1 (3)](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-12-29_doric-dry-bulk-review-2022-part-13_img_128329_2d905cdc4250.png)
 
 > **Figure 3: 1 (3)**  
-> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-12-29_doric-dry-bulk-review-2022-part-13_img_128329_2d905cdc4250.png)
+> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-12-29_doric-dry-bulk-review-2022-part-13_img_128329_2d905cdc4250.png)
 
 Bearing all these in mind, Fed chair signaled a tougher stance on inflation the last week of January. With a strong labor market and inflation well above 2 percent, the Committee expects it would be appropriate to raise the target range for the federal funds rate. Fed Chairman Powell’s hawkish stance at a press conference following the Fed’s January meeting sparked a sharp stock market sell-off. The US dollar, on the other hand, surged to its highest level in nearly 18 months. Whilst a strong dollar and a global economy losing momentum were rarely pro-shipping conditions, seasonality took the lion's share of the negative impact to the Baltic Dry Index during the first trading month of the year. However, the FFA market demonstrated a late January spasmodic positive reaction, hinting an underlying confidence going forward.
 
@@ -66,10 +66,10 @@ Better reflecting the course of the global economy, Handies touched multi-year h
 
 Whilst Handies kept losing steam, the US Consumer Price Index (CPI) moved towards the opposite direction in February, returning to early 1982 levels. In fact, the US Labor Department stressed that consumer prices jumped 7.5 percent in January compared with a year earlier, the steepest year-over-year increase since February 1982. On a month-on-month basis, CPI rose by 0.6 percent, the same as the previous month and more than economists had expected. The so-called core CPI, which excludes food and energy, rose 6.0 percent over the last year, or up from 5.5 percent over the 12 months to December. The energy index rose 27.0 percent over the last 12 months and the food index increased 7.0 percent. Ultralow interest rates, heavy doses of federal aid, increased commodity and energy prices, shortages of supplies and workers, and robust consumer spending combined to send inflation leaping.
 
-![1 (4)](assets/2022-12-29_doric-dry-bulk-review-2022-part-13_img_128429_9d4b62ed3502.png)
+![1 (4)](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-12-29_doric-dry-bulk-review-2022-part-13_img_128429_9d4b62ed3502.png)
 
 > **Figure 4: 1 (4)**  
-> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-12-29_doric-dry-bulk-review-2022-part-13_img_128429_9d4b62ed3502.png)
+> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-12-29_doric-dry-bulk-review-2022-part-13_img_128429_9d4b62ed3502.png)
 
 With commodity prices on the high end, yet still below their recent multi-year highs, 'Doctor Copper', a nickname associated with copper for its ability to predict pivotal turning points in the global economy, followed closely. After a 26 percent rise during 2021, copper prices have struggled for direction during the first two months of 2022. On the one hand, the decelerating locomotive of the global growth, namely China, posed some concerns for the course of the soft red-coloured metal prices. On the other hand, copper stocks once again continued to fall, approaching historically low levels.
 
@@ -79,10 +79,10 @@ China's planner told some iron ore traders to release excessive inventory and re
 
 Global steel output was estimated at 155 million tonnes compared with 162.9 mt in January last year and 158.7 mt in December 2021. With China registering negative growth for the seventh consecutive month, the above reading came as no surprise. In particular, the world's leading producer furnaced an estimated 81.7 Mt in January 2022, down some 11.2 percent on January 2021. Conversely, steel production in India continued to be on the positive side with the output rising by 4.7 percent year-onyear to 10.8 mt. Japan produced 7.8 mt, or down by 2.1 percent, at the same time as the United States were having a monthly output of 7.3 Mt, or up 4.2 percent year-on-year. Whilst one of the largest and most dynamic industry associations in the world posed some concerns for the derived demand for shipping services lookingforward, Baltic indices kept steaming north. Reporting further increases, BCI TCA touched one-and-a-half-month highs of $18,181 and BPI82 TCA stood shy of $25,000 daily on Wednesday's closing.
 
-![1 (5)](assets/2022-12-29_doric-dry-bulk-review-2022-part-13_img_128529_78add0b7e93b.png)
+![1 (5)](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-12-29_doric-dry-bulk-review-2022-part-13_img_128529_78add0b7e93b.png)
 
 > **Figure 5: 1 (5)**  
-> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-12-29_doric-dry-bulk-review-2022-part-13_img_128529_78add0b7e93b.png)
+> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-12-29_doric-dry-bulk-review-2022-part-13_img_128529_78add0b7e93b.png)
 
 On Thursday though, the western hemisphere woke up, with news of Russian invasion of Ukraine spreading out uncertainty in communities as well as markets. Oil prices surged, with Brent breaching $100 a barrel for the first time since 2014. European stock futures plunged 4 percent as investors dumped riskier assets. US wheat and corn futures rose by their daily trading limits on Thursday, while soybeans reached the highest level since 2012. Gold prices jumped more than 2 percent to their highest in over a year. Furthermore, raising fears that a war in Europe would fuel higher inflation and derail economic growth also had a negative bearing on market sentiment.
 
@@ -96,10 +96,10 @@ Big energy consumers were boycotting Russian crude, pushing oil prices above $11
 
 Rising trade uncertainty sent global commodity prices skyrocketing, reporting the biggest weekly rally in more than 50 years. The S&P GSCI index, a barometer of global raw material prices, increased by some 18 percent during the first week of March, leaving it on track for the sharpest rise on records. Under these circumstances, trading activity in the dry bulk sector was quite numb in early March, with uncertainty being on a rise.
 
-![1 (6)](assets/2022-12-29_doric-dry-bulk-review-2022-part-13_img_128629_85f54eab9f60.png)
+![1 (6)](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-12-29_doric-dry-bulk-review-2022-part-13_img_128629_85f54eab9f60.png)
 
 > **Figure 6: 1 (6)**  
-> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-12-29_doric-dry-bulk-review-2022-part-13_img_128629_85f54eab9f60.png)
+> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-12-29_doric-dry-bulk-review-2022-part-13_img_128629_85f54eab9f60.png)
 
 Whilst energy and food prices kept galloping, the Rome-based Food and Agriculture Organization (FAO) stressed that it was not clear whether Ukraine would be able to harvest crops if the war dragged on, while uncertainty also surrounded the prospects for Russian exports in the coming year. Additionally, Russia is one of the world’s most important exporters of the three major groups of fertilizers - nitrogen, phosphorus and potassium. Rising input costs in turn could impact next season’s harvest, leading to elevated food prices in the longer run. Hence, international food and feed prices could rise by up to 20 percent as a result of the conflict in Ukraine, triggering a jump in global malnourishment, the United Nations food agency warned in the second week of March. As another eventful week was approaching to its end, IMF Managing Director Kristalina Georgieva stressed that the war in Ukraine and massive sanctions against Russia had triggered a contraction in global trade, forcing the International Monetary Fund to lower its upcoming global growth forecast.
 
@@ -107,10 +107,10 @@ On the other hand, the spot market observed solid fixture across the board in mi
 
 On Wednesday 16 March, all eyes were on Fed’s meeting. After four years and with commodity prices galloping, the Federal Reserve lifted its benchmark interest rate by a quarter of a percentage point, bringing the target range to 0.25 to 0.50 percent. According to Federal Open Market Committee statement, indicators of economic activity and employment continued to strengthen. Job gains were strong in recent months, and the unemployment rate declined substantially. Inflation remained elevated, reflecting supply and demand imbalances related to the pandemic, higher energy prices, and broader price pressures. The invasion of Ukraine by Russia caused tremendous human and economic hardship. The implications for the US economy were highly uncertain, but in the near term the invasion and related events were likely to create additional upward pressure on inflation and weigh on economic activity. In this context, the Committee decided to raise the target range for the federal funds rate and anticipated that ongoing increases in the target range would be appropriate.
 
-![1 (7)](assets/2022-12-29_doric-dry-bulk-review-2022-part-13_img_128729_ceedfc698115.png)
+![1 (7)](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-12-29_doric-dry-bulk-review-2022-part-13_img_128729_ceedfc698115.png)
 
 > **Figure 7: 1 (7)**  
-> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-12-29_doric-dry-bulk-review-2022-part-13_img_128729_ceedfc698115.png)
+> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-12-29_doric-dry-bulk-review-2022-part-13_img_128729_ceedfc698115.png)
 
 Emphatically towards the opposite direction, Chinese Vice Premiere Liu He indicated plans to take measures to boost the world’s second largest economy. China’s Financial Stability and Development Committee promised “substantial measures” to shore up growth and flagged other supportive actions. The Finance Ministry stressed that it won’t expand a property tax trial this year. Additionally, China’s cabinet said it would resolve risks around property developers. After a brutal 12 months for Chinese equities, the Hang Seng China Enterprises Index was trending strongly upwards. Property stocks rallied the most in more than a decade. Wall Street's three major indices enjoyed strong gains as well. In tandem, European stocks reported substantial weekly advances.
 
@@ -120,10 +120,10 @@ In some respects, the 'specific gravity' of Russia and Ukraine in the global eco
 
 The World Bank said in the last week of March that a number of developing countries face near-term wheat supply shortages due to their high dependence on Ukrainian exports. However, the fertilizer crisis was in some respects more worrying because it could inhibit food production in the rest of the world that could be in position to take up the slack. Additionally, soaring metal prices could affect a wide range of industries such as aircraft, car and chip manufacturing. Against this background, the moves in commodity prices and financial markets since the outbreak of the war, if sustained, could reduce global GDP growth by over 1 percentage point in the first year and push up global consumer price inflation by approximately 2.5 percentage points, according to OECD’s estimates.
 
-![1 (8)](assets/2022-12-29_doric-dry-bulk-review-2022-part-13_img_128829_4361cda476d7.png)
+![1 (8)](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-12-29_doric-dry-bulk-review-2022-part-13_img_128829_4361cda476d7.png)
 
 > **Figure 8: 1 (8)**  
-> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-12-29_doric-dry-bulk-review-2022-part-13_img_128829_4361cda476d7.png)
+> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-12-29_doric-dry-bulk-review-2022-part-13_img_128829_4361cda476d7.png)
 
 In this unstable and fragile economic juncture, world crude steel production for the 64 countries reporting to the World Steel Association was 142.7 million tonnes in February, a 5.7 percent decrease compared to February 2021. With the aforementioned in mind, Capesizes were also negatively affected from the top steelmaking city of Tangshan’s decision to implement a temporary lockdown on the last Tuesday of March to avoid further cases of Covid-19 as infections surged. On top of that, the slowdown in Chinese coal imports had also a bearing on Capesize market sentiment. Conversely, all the other segments trended upwards, largely ignoring macroeconomic omens. Leaving behind for a moment the initial shock from hostilities in Ukraine, Panamaxes along with Supras and Handies reported significant increases of their value few days before the ECSA grain peak season started in April.
 
@@ -133,9 +133,9 @@ On the S&P front, having an average price for the first quarter of 2022 of $40.5
 
 As market was leaving behind the most fertile first quarter of the last twelve years, the dynamics of the last period, albeit turbulent, shaped a lush trading environment. Looking forward towards the seasonally strongest period, market sentiment remained rather mixed, anticipating a few spikes but being quite uncertain for the overall average.
 
-![1 (9)](assets/2022-12-29_doric-dry-bulk-review-2022-part-13_img_128929_9c4c37ab79d1.png)
+![1 (9)](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-12-29_doric-dry-bulk-review-2022-part-13_img_128929_9c4c37ab79d1.png)
 
 > **Figure 9: 1 (9)**  
-> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-12-29_doric-dry-bulk-review-2022-part-13_img_128929_9c4c37ab79d1.png)
+> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-12-29_doric-dry-bulk-review-2022-part-13_img_128929_9c4c37ab79d1.png)
 
 Data source:[Doric](https://www.doric.gr/)

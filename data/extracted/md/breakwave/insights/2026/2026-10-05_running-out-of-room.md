@@ -20,10 +20,10 @@ source_file: "corpus/03-breakwave/insights/2026/2026-10-05_running-out-of-room.h
 
 ---
 
-![Istock 1298139701 Resize](assets/2026-10-05_running-out-of-room_img_istock-1298139701-resize_850e2d5df027.jpg)
+![Istock 1298139701 Resize](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-10-05_running-out-of-room_img_istock-1298139701-resize_850e2d5df027.jpg)
 
 > **Figure 1: Istock 1298139701 Resize**  
-> **Interactive Data & Source:** [Gibsons Co](https://www.gibsons.co.uk/market-reports) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-10-05_running-out-of-room_img_istock-1298139701-resize_850e2d5df027.jpg)
+> **Interactive Data & Source:** [Gibsons Co](https://www.gibsons.co.uk/market-reports) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-10-05_running-out-of-room_img_istock-1298139701-resize_850e2d5df027.jpg)
 
 US crude exports have grown strongly in recent years, making the US a key source of global crude supply. This raises the question of how much export capacity the US actually has. According to Kpler data, exports peaked at around 5.2 mbd in Q2, when releases from the US SPR lifted volumes by close to 1.3 mbd, or more than 30%, on the previous quarter. This shows both the scale of implied US export capacity and how flexibly it responds to market conditions.
 
@@ -43,10 +43,10 @@ This matters because, with demand in advanced Western economies on a downward tr
 
 The lack of progress on most proposed USG deepwater terminals could therefore become a constraint. Existing infrastructure has shown it can handle higher export volumes for short periods, but further growth in long-haul exports will increasingly depend on direct VLCC-loading capacity in order to optimise freight economics. Texas GulfLink is a positive step, but with the wider project pipeline still uncertain, US export infrastructure may struggle to optimise with the shift in crude trade towards Asia.
 
-![Στιγμιότυπο Οθόνης 2026 10 05 113252](assets/2026-10-05_running-out-of-room_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_8d22e0173100.png)
+![Στιγμιότυπο Οθόνης 2026 10 05 113252](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-10-05_running-out-of-room_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_8d22e0173100.png)
 
 > **Figure 2: Στιγμιότυπο Οθόνης 2026 10 05 113252**  
-> **Interactive Data & Source:** [Gibsons Co](https://www.gibsons.co.uk/market-reports) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-10-05_running-out-of-room_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_8d22e0173100.png)
+> **Interactive Data & Source:** [Gibsons Co](https://www.gibsons.co.uk/market-reports) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-10-05_running-out-of-room_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_8d22e0173100.png)
 
 Data source:[Gibson Shipbrokers](https://www.gibsons.co.uk/market-reports)
 

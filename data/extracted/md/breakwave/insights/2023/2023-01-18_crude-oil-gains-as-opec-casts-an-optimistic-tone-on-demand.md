@@ -23,10 +23,10 @@ source_file: "corpus/03-breakwave/insights/2023/2023-01-18_crude-oil-gains-as-op
 
 Sentiment was broadly positive as optimism regarding China’s reopening returned. A slightly weaker USD also added support.
 
-![1673989250356](assets/2023-01-18_crude-oil-gains-as-opec-casts-an-optimistic-tone-on-demand_img_1673989250356_83d3a9383fc2.png)
+![1673989250356](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-01-18_crude-oil-gains-as-opec-casts-an-optimistic-tone-on-demand_img_1673989250356_83d3a9383fc2.png)
 
 > **Figure 1: 1673989250356**  
-> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-01-18_crude-oil-gains-as-opec-casts-an-optimistic-tone-on-demand_img_1673989250356_83d3a9383fc2.png)
+> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-01-18_crude-oil-gains-as-opec-casts-an-optimistic-tone-on-demand_img_1673989250356_83d3a9383fc2.png)
 
 **Crude oil**edged higher as OPEC set a more optimistic tone on demand. Secretary General Haitham Al Ghais said he’s optimistic about the outlook for the global economy. The oil producer group said that a potential slowdown in advanced economies is countered by accelerating growth in Asia. This comes ahead of a meeting with its partners in the production sharing agreement on 1 Feb. They will be presented with a complex picture. Potential supply losses from Russia and the reopening of China could see the market tighten quickly. Crude oil has also found some support from a weaker USD and growing expectations that central banks are nearing their end to aggressive rate hikes. Reports suggest the ECB is considering a slower pace of rake hikes than Christine Lagarde indicated in December.
 

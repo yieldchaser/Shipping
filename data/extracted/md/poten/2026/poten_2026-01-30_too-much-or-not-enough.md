@@ -32,10 +32,16 @@ However, there is an alternative scenario. Counter to previous periods with high
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: Too Much Or Not Enough](../../../charts/poten/2026/poten_2026-01-30_too-much-or-not-enough_chart1.png)
+![Exhibit 1: Total Tanker Fleet Size vs Orderbook](../../../charts/poten/2026/poten_2026-01-30_too-much-or-not-enough_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2026/poten_2026-01-30_too-much-or-not-enough_chart1.png)
+> **Exhibit 1: Total Tanker Fleet Size vs Orderbook**  
+> Unit: Mln DWT | Orderbook% · X-axis: 1976 to 2026  
+> Series: Tanker Fleet, Tanker Orderbook, Orderbook %  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2026/poten_2026-01-30_too-much-or-not-enough_chart1.png)
 
-![Exhibit 2: Too Much Or Not Enough](../../../charts/poten/2026/poten_2026-01-30_too-much-or-not-enough_chart2.png)
+![Exhibit 2: Tanker Orderbook % vs VLCC 1 Yr TC Rate](../../../charts/poten/2026/poten_2026-01-30_too-much-or-not-enough_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2026/poten_2026-01-30_too-much-or-not-enough_chart2.png)
+> **Exhibit 2: Tanker Orderbook % vs VLCC 1 Yr TC Rate**  
+> Unit: Orderbook % | 1 yr TC ($/d) · X-axis: 1976 to 2026  
+> Series: Orderbook %, Rates (1yr TC)  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2026/poten_2026-01-30_too-much-or-not-enough_chart2.png)

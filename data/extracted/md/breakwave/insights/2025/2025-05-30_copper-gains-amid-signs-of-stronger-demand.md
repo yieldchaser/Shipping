@@ -24,10 +24,10 @@ A weaker USD helped boost investor appetite in commodities. However, uncertainty
 
 *By*[*Daniel Hynes*](https://www.linkedin.com/in/dahynes/)
 
-![Στιγμιότυπο Οθόνης 2025 05 30 121612](assets/2025-05-30_copper-gains-amid-signs-of-stronger-demand_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_988c2a7d208e.png)
+![Στιγμιότυπο Οθόνης 2025 05 30 121612](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-05-30_copper-gains-amid-signs-of-stronger-demand_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_988c2a7d208e.png)
 
 > **Figure 1: Στιγμιότυπο Οθόνης 2025 05 30 121612**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-05-30_copper-gains-amid-signs-of-stronger-demand_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_988c2a7d208e.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-05-30_copper-gains-amid-signs-of-stronger-demand_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_988c2a7d208e.png)
 
 ### Market Commentary
 
@@ -35,7 +35,7 @@ A weaker USD helped boost investor appetite in commodities. However, uncertainty
 
 **Global gas**prices extended recent falls amid persistent concerns over demand. Europe is gradually adding gas to depleted storage sites. This is being aided by weak demand amid relatively warm temperatures. On the supply side, flows from Europe’s largest gas provider, Norway, are slowly picking up after seasonal maintenance. This helped lower**European gas**futures and**North Asia LNG**prices despite signs of stronger demand for the latter. Egypt is said to be adding another LNG import vessel to its fleet. It has leased import terminals over the past 12 months to meet rising domestic demand that is not being met by declining local gas output. Thailand also bought its first spot cargoes in more than two months, with two LNG shipments for delivery in July. Its 30-day moving average for LNG imports is 28% above the five-year average for the first time this year.
 
-**Copper**was up in early trading following a US trade court ruling that blocked some of President Trump’s import tariffs, sparking a risk-on tone across market. Those gains were erased after the soft US economic data raised concerns over demand. The outlook looks better in China, where another summer of extreme heat could put its electricity network under pressure and boost[**demand for copper**](../pdfs/2025-05-30_copper-gains-amid-signs-of-stronger-demand_commodity-call-heating-up-1_9ebb2dab0c6b.pdf). China’s National Energy Administration anticipates peak electricity demand will be higher this summer than last year due to warmer temperatures. At the same time, China’s ongoing electrification is pushing electricity demand up faster than economic activity. This is increasing sales of air conditioning units, an important driver of copper demand. The strong demand for electricity is also driving investment in grid infrastructure, which makes up a third of China’s total copper consumption.
+**Copper**was up in early trading following a US trade court ruling that blocked some of President Trump’s import tariffs, sparking a risk-on tone across market. Those gains were erased after the soft US economic data raised concerns over demand. The outlook looks better in China, where another summer of extreme heat could put its electricity network under pressure and boost[**demand for copper**](https://research.anz.com/file/Commodity_Call_heating_up__1.pdf?docRef=745a9750-5514-4ac6-b985-27c8addb4c29&ch=2). China’s National Energy Administration anticipates peak electricity demand will be higher this summer than last year due to warmer temperatures. At the same time, China’s ongoing electrification is pushing electricity demand up faster than economic activity. This is increasing sales of air conditioning units, an important driver of copper demand. The strong demand for electricity is also driving investment in grid infrastructure, which makes up a third of China’s total copper consumption.
 
 **Gold**rebounded as easing trade tensions and weak US economic data pushed the USD lower, sparking increased investor demand. This was aided by a rally in bonds, which saw the yield on 10y US Treasuries fall.
 
@@ -43,10 +43,10 @@ A weaker USD helped boost investor appetite in commodities. However, uncertainty
 
 According to China’s NEA total electricity consumption in 2024 reached 9,852bn KWh, a 7% increase from 2023. It recently announced that it expects peak electricity demand to be about 100GW higher this summer than last year as a result of the high temperatures. Part of this will be driven by increased cooling needs. The number of ACs per household has risen from 0.7 in 2013 to 1.4 by 2023, according to China’s National Bureau of Statistics. In regions that experience hot and humid conditions, that number is said to be as high as 2.
 
-![Στιγμιότυπο Οθόνης 2025 05 30 121720](assets/2025-05-30_copper-gains-amid-signs-of-stronger-demand_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_1a69d4d3126e.png)
+![Στιγμιότυπο Οθόνης 2025 05 30 121720](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-05-30_copper-gains-amid-signs-of-stronger-demand_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_1a69d4d3126e.png)
 
 > **Figure 2: Στιγμιότυπο Οθόνης 2025 05 30 121720**  
-> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-05-30_copper-gains-amid-signs-of-stronger-demand_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_1a69d4d3126e.png)
+> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-05-30_copper-gains-amid-signs-of-stronger-demand_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_1a69d4d3126e.png)
 
 Data source:[Commodities Wrap](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI)
 

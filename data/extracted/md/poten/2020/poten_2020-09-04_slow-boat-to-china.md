@@ -30,10 +30,18 @@ U.S. Gulf exports to China are expected to remain elevated for at least the comi
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: Slow Boat To China](../../../charts/poten/2020/poten_2020-09-04_slow-boat-to-china_chart1.png)
+![Exhibit 1: US Crude Oil Exports To China by Vessel Class](../../../charts/poten/2020/poten_2020-09-04_slow-boat-to-china_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2020/poten_2020-09-04_slow-boat-to-china_chart1.png)
+> **Exhibit 1: US Crude Oil Exports To China by Vessel Class**  
+> Unit: Kb/d · X-axis: Jan-16 to Jul-20  
+> Series: VLCC, Suezmax, Aframax  
+> *Source: Lloyd’s List Intelligence*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2020/poten_2020-09-04_slow-boat-to-china_chart1.png)
 
-![Exhibit 2: Slow Boat To China](../../../charts/poten/2020/poten_2020-09-04_slow-boat-to-china_chart2.png)
+![Exhibit 2: USG-China Freight Rates vs Reported Spot Fixtures](../../../charts/poten/2020/poten_2020-09-04_slow-boat-to-china_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2020/poten_2020-09-04_slow-boat-to-china_chart2.png)
+> **Exhibit 2: USG-China Freight Rates vs Reported Spot Fixtures**  
+> Unit: Mln USD (Lumpsum) | Fixtures · X-axis: Jan-16 to Jul-20  
+> Series: VLCC Fixtures, Suezmax Fixtures, VLCC: USG-China Rate, Suezmax: USG-China Rate  
+> *Source: Poten & Partners*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2020/poten_2020-09-04_slow-boat-to-china_chart2.png)

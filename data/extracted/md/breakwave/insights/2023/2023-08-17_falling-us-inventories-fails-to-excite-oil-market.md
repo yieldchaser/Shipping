@@ -24,11 +24,11 @@ source_file: "corpus/03-breakwave/insights/2023/2023-08-17_falling-us-inventorie
 
 A risk off tone across markets weighed on sentiment across commodities, compounded by further economic weakness in China.
 
-![Data Source:commodities Wrap](assets/2023-08-17_falling-us-inventories-fails-to-excite-oil-market_img_241_11991b7461f4.jpg)
+![Data Source:commodities Wrap](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-08-17_falling-us-inventories-fails-to-excite-oil-market_img_241_11991b7461f4.jpg)
 
 > **Figure 1: Data Source:commodities Wrap**  
 > *Data source:Commodities Wrap*  
-> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-08-17_falling-us-inventories-fails-to-excite-oil-market_img_241_11991b7461f4.jpg)
+> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-08-17_falling-us-inventories-fails-to-excite-oil-market_img_241_11991b7461f4.jpg)
 
 A lack of liquidity left**crude oil**at the mercy of broader market moves. A selloff across equity markets triggered a risk-off tone across the energy sector. Sentiment wasn’t helped by signs of further monetary tightening by central banks. FOMC minutes showed most officials noted significant upside to inflation means we may see more tightening. The market also shrugged off another large drawdown in inventories. US commercial crude oil stockpiles fell 5,960kbbl last week, according to EIA data. The only blight in the EIA weekly report was a fall in implied gasoline demand, which dropped 451kb/d to 8.85mb/d. Nevertheless, signs of tightness in the physical market continue. Strong demand continues to drive up premiums. Differentials for spot cargo from the Middle East have surged in recent days amid strong buying from China. Asian refineries are also snapping up all available cargo from the North Sea.
 

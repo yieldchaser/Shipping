@@ -20,10 +20,10 @@ source_file: "corpus/03-breakwave/insights/2025/2025-08-27_spot-the-surge.html"
 
 ---
 
-![Unsplash Image 983knf8azec](assets/2025-08-27_spot-the-surge_img_unsplash-image-983knf8azec_efb549cc7057.jpg)
+![Unsplash Image 983knf8azec](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-08-27_spot-the-surge_img_unsplash-image-983knf8azec_efb549cc7057.jpg)
 
 > **Figure 1: Unsplash Image 983knf8azec**  
-> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/in/charlie-grey-9a81b019b/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-08-27_spot-the-surge_img_unsplash-image-983knf8azec_efb549cc7057.jpg)
+> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/in/charlie-grey-9a81b019b/) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-08-27_spot-the-surge_img_unsplash-image-983knf8azec_efb549cc7057.jpg)
 
 Charlie Grey of Tankers International explains why the window to capitalise on the VLCC spot market is opening rapidly, demanding timely and strategic action.
 

@@ -20,13 +20,15 @@ In recent weeks, the tanker market observed two incidents that highlights again 
 
 The Dark Fleet (aka Shadow Fleet or Subterfuge Fleet) consists of vessels that are involved in transporting sanctioned oil. This fleet has gained prominence as a result of the U.S. sanction on Iran. After President Trump withdrew the U.S. from the Iran Nuclear Deal in 2018 and reimposed all previous sanctions on the country, Iran started to use a growing Dark Fleet of tankers to continue its oil exports (mainly to China). When President Trump sanctioned Venezuela as well in 2019, the Dark Fleet expanded to include tankers exporting Venezuelan crude oil. The U.S. based organization "United Against Nuclear Iran" (UANI), who follows the Iranian oil trades closely, estimates that the Dark Fleet has grown from 70 vessels in November 2020 to 257 currently.
 
-Reputable shipowners do not want to get involved in these trades, limiting the supply of vessels. This has made moving sanctioned barrels extremely lucrative. While this market is by nature very secretive, estimates from knowledgeable observers suggest that shipping rates for Venezuelan or Iranian barrels can be two or three times the market rate for legitimate voyages. These premium earnings have created a strong incentive for opportunistic, less scrupulous owners to get involved in these trades. Given the fact that the nature and longevity of these sanctions is very unpredictable, almost all tankers involved in these trades are older units ([Chart 1](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2022/poten_2022-11-04_a-disaster-waiting-to-happen_chart1.png)). Owners of vessels buy them for the specific purpose of utilizing them in these illicit trades and they want to be able to earn their money back in a short period of time. The downside of an older (cheaper) ship is more limited. They buy old vessels (frequently vessels that would otherwise would have been recycled) and spend the bare minimum on repairs and maintenance. The illegal nature of the business makes it impossible to use reputable crew managers and arranging proper insurance is difficult as well. To obfuscate the illicit nature of their employment, owners of these tankers frequently change the vessel's name and ownership and flag them in jurisdictions that are known to be less strict. As a result of these factors, the risk that these vessels are involved in accidents is elevated and so is the potential harm that could be inflicted on the crews and the environment (in case of an oil spill).
+Reputable shipowners do not want to get involved in these trades, limiting the supply of vessels. This has made moving sanctioned barrels extremely lucrative. While this market is by nature very secretive, estimates from knowledgeable observers suggest that shipping rates for Venezuelan or Iranian barrels can be two or three times the market rate for legitimate voyages. These premium earnings have created a strong incentive for opportunistic, less scrupulous owners to get involved in these trades. Given the fact that the nature and longevity of these sanctions is very unpredictable, almost all tankers involved in these trades are older units ([Chart 1](../../../charts/poten/2022/poten_2022-11-04_a-disaster-waiting-to-happen_chart1.png)). Owners of vessels buy them for the specific purpose of utilizing them in these illicit trades and they want to be able to earn their money back in a short period of time. The downside of an older (cheaper) ship is more limited. They buy old vessels (frequently vessels that would otherwise would have been recycled) and spend the bare minimum on repairs and maintenance. The illegal nature of the business makes it impossible to use reputable crew managers and arranging proper insurance is difficult as well. To obfuscate the illicit nature of their employment, owners of these tankers frequently change the vessel's name and ownership and flag them in jurisdictions that are known to be less strict. As a result of these factors, the risk that these vessels are involved in accidents is elevated and so is the potential harm that could be inflicted on the crews and the environment (in case of an oil spill).
 
-> **Exhibit 1: A Disaster Waiting To Happen (Chart 1)**  
-> *Source: Poten & Partners*  
-> **Interactive Data & Source:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2022/poten_2022-11-04_a-disaster-waiting-to-happen_chart1.png)
+> **Exhibit 1: Age Brackets Of Tankers Involved in Iranian Trade**  
+> Unit: % · X-axis: 0-5 Years to 25+ Years  
+> Series: 0-5 Years, 6-10 Years, 11-15 years, 16-20 Years, 20-25 Years, 25+ Years  
+> *Source: United Against Nuclear Iran*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2022/poten_2022-11-04_a-disaster-waiting-to-happen_chart1.png)
 
-![Exhibit 1: A Disaster Waiting To Happen](../../../charts/poten/2022/poten_2022-11-04_a-disaster-waiting-to-happen_chart1.png)
+![Exhibit 1: Age Brackets Of Tankers Involved in Iranian Trade](../../../charts/poten/2022/poten_2022-11-04_a-disaster-waiting-to-happen_chart1.png)
 
 The Dark Fleet may grow substantially when the free flow of Russian oil is further restricted due to the implementation of the EU import ban and the G7 oil price cap, especially since President Putin has indicated he will not sell oil under the price cap mechanism. In apparent anticipation of the need for a larger Dark Fleet, sales of secondhand tankers have been brisk this year, despite the fact that prices for older vessels have increased markedly over time. At least 60 VLCCs, 42 Suezmaxes and 93 Aframaxes have changed hands YTD, with an average age of more than 15 years.
 
@@ -34,6 +36,10 @@ So far, Russian exports have only been impacted by limited sanctions. However, t
 
 ## Market Exhibits & Charts
 
-![Exhibit 2: A Disaster Waiting To Happen](../../../charts/poten/2022/poten_2022-11-04_a-disaster-waiting-to-happen_chart2.png)
+![Exhibit 2: Age Brackets Of Aframax Tankers Loading In Russia](../../../charts/poten/2022/poten_2022-11-04_a-disaster-waiting-to-happen_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2022/poten_2022-11-04_a-disaster-waiting-to-happen_chart2.png)
+> **Exhibit 2: Age Brackets Of Aframax Tankers Loading In Russia**  
+> Unit: % · X-axis: Jan-17 to Oct-22  
+> Series: 0 - 5 Yrs, 5 - 10 Yrs, 10 - 15 Yrs, 15 - 20 Yrs, 20 - 25 Yrs  
+> *Source: Lloyd’s List Intelligence*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2022/poten_2022-11-04_a-disaster-waiting-to-happen_chart2.png)

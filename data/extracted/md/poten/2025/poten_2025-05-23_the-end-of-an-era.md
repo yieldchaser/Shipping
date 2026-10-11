@@ -20,13 +20,13 @@ Ever since President Obama lifted the 41-year-old U.S. crude oil export ban in D
 
 U.S. crude oil exports are driven by a number of factors. The first, most obvious, is domestic production, in particular shale oil production. The United States still produces significant volumes of "conventional" crude oil from places like Alaksa (412 Kb/d in 2024), California (285 Kb/d) and the Gulf of Mexico offshore (1.8 Mb/d). However, the vast majority of U.S. output comes from shale deposits in North Dakota, Oklahoma, New Mexico and Texas. In April 2025, U.S. tight oil production totaled 9.15 Mb/d, representing almost 70% of total U.S. output.
 
-U.S. tight oil production is currently under pressure. Oil prices have come down as heightened global economic uncertainty resulted in lower demand growth. Recent OPEC+ production increases have added to the downward pressure on crude oil prices. U.S. shale plays are classic examples of short-cycle oil. They can be brought online rapidly, but require constant reinvestment to maintain production levels, which makes them very sensitive to price movements. WTI prices are currently in the $61-$62/barrel range, which is enough to maintain production. While breakeven prices vary considerably by company and geography, current consensus seems to be that if prices fall to the low-mid $50/barrel range, shale producers will be challenged, while prices at $70/barrel or more will encourage more production. If prices stay at current levels, U.S. tight oil production has probably peaked. The EIA, in their latest short- term energy outlook, expects only a small pickup in output later this year 2025, before U.S. crude oil production starts to decline in 2026 ([Chart 1](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2025/poten_2025-05-23_the-end-of-an-era_chart1.png)). A lot of this will depend on the development of oil prices though.
+U.S. tight oil production is currently under pressure. Oil prices have come down as heightened global economic uncertainty resulted in lower demand growth. Recent OPEC+ production increases have added to the downward pressure on crude oil prices. U.S. shale plays are classic examples of short-cycle oil. They can be brought online rapidly, but require constant reinvestment to maintain production levels, which makes them very sensitive to price movements. WTI prices are currently in the $61-$62/barrel range, which is enough to maintain production. While breakeven prices vary considerably by company and geography, current consensus seems to be that if prices fall to the low-mid $50/barrel range, shale producers will be challenged, while prices at $70/barrel or more will encourage more production. If prices stay at current levels, U.S. tight oil production has probably peaked. The EIA, in their latest short- term energy outlook, expects only a small pickup in output later this year 2025, before U.S. crude oil production starts to decline in 2026 ([Chart 1](../../../charts/poten/2025/poten_2025-05-23_the-end-of-an-era_chart1.png)). A lot of this will depend on the development of oil prices though.
 
-> **Exhibit 1: The End Of An Era (Chart 1)**  
-> *Source: Poten & Partners*  
-> **Interactive Data & Source:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2025/poten_2025-05-23_the-end-of-an-era_chart1.png)
+> **Exhibit 1: Change in U.S Crude Oil Production (Compared To Prior Year)**  
+> Unit: Mb/d · X-axis: 1-Jan-21 to 1-Oct-26  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2025/poten_2025-05-23_the-end-of-an-era_chart1.png)
 
-![Exhibit 1: The End Of An Era](../../../charts/poten/2025/poten_2025-05-23_the-end-of-an-era_chart1.png)
+![Exhibit 1: Change in U.S Crude Oil Production (Compared To Prior Year)](../../../charts/poten/2025/poten_2025-05-23_the-end-of-an-era_chart1.png)
 
 In the past, infrastructure constraints have also had an impact on U.S. crude oil exports. Limited pipeline capacity to move shale oil to the coast as well as terminal constraints in the U.S. Gulf restricted exports. The need for reverse lightering in the U.S. Gulf increased costs and reduced efficiency. However, over the years, companies have continued to work on debottlenecking the U.S. export infrastructure. Improvements have been made with respect to pipeline capacity and terminal access. Plans to build a massive VLCC capable offshore loading terminal are still progressing. And could become a reality by 2028.
 
@@ -36,6 +36,10 @@ For the tanker market, U.S. crude oil exports will remain an important source of
 
 ## Market Exhibits & Charts
 
-![Exhibit 2: The End Of An Era](../../../charts/poten/2025/poten_2025-05-23_the-end-of-an-era_chart2.png)
+![Exhibit 2: US Gulf Crude Exports by Destination](../../../charts/poten/2025/poten_2025-05-23_the-end-of-an-era_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2025/poten_2025-05-23_the-end-of-an-era_chart2.png)
+> **Exhibit 2: US Gulf Crude Exports by Destination**  
+> Unit: Kb/d · X-axis: Jan-17 to Jan-25  
+> Series: South Korea, Netherlands, United Kingdom, Canada, China, India, Taiwan, Italy, Other  
+> *Source: EIA; Vortexa*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2025/poten_2025-05-23_the-end-of-an-era_chart2.png)

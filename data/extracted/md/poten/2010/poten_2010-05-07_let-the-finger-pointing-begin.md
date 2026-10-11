@@ -38,6 +38,10 @@ Committed Scenario ‐ Total GOM Industry Announced Discoveries Undiscovered Res
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: Let the Finger Pointing Begin!](../../../charts/poten/2010/poten_2010-05-07_let-the-finger-pointing-begin_chart1.png)
+![Exhibit 1: Gulf of Mexico Average Annual Oil Rates](../../../charts/poten/2010/poten_2010-05-07_let-the-finger-pointing-begin_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2010/poten_2010-05-07_let-the-finger-pointing-begin_chart1.png)
+> **Exhibit 1: Gulf of Mexico Average Annual Oil Rates**  
+> Unit: kbd · X-axis: 1993 to 2018  
+> Series: Committed Scenario - Total GOM, Industry Announced Discoveries, Undiscovered Resources  
+> *Source: US Minerals Management Service*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2010/poten_2010-05-07_let-the-finger-pointing-begin_chart1.png)

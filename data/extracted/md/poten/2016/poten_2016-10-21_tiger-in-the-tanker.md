@@ -40,10 +40,18 @@ The Suezmax market could also benefit from the transaction if Rosneft decides to
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: Tiger In The Tanker](../../../charts/poten/2016/poten_2016-10-21_tiger-in-the-tanker_chart1.png)
+![Exhibit 1: Indian Product Tanker Commodities: Refining Output vs Demand and Exports](../../../charts/poten/2016/poten_2016-10-21_tiger-in-the-tanker_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2016/poten_2016-10-21_tiger-in-the-tanker_chart1.png)
+> **Exhibit 1: Indian Product Tanker Commodities: Refining Output vs Demand and Exports**  
+> Unit: Kb/d · X-axis: Jan2005 to Feb2016  
+> Series: Demand, Exports, Refinery Output  
+> *Source: JODI*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2016/poten_2016-10-21_tiger-in-the-tanker_chart1.png)
 
-![Exhibit 2: Tiger In The Tanker](../../../charts/poten/2016/poten_2016-10-21_tiger-in-the-tanker_chart2.png)
+![Exhibit 2: Long Range Tanker Clean Product Exports from India by Destination](../../../charts/poten/2016/poten_2016-10-21_tiger-in-the-tanker_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2016/poten_2016-10-21_tiger-in-the-tanker_chart2.png)
+> **Exhibit 2: Long Range Tanker Clean Product Exports from India by Destination**  
+> Unit: Tonnes (x1,000) · X-axis: Jan-15 to Jul-16  
+> Series: Asia/Australia, Middle East / E Africa, Mediterranean, Americas, Atlantic, UKC/Baltic, Other  
+> *Source: Lloyds List Intelligence*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2016/poten_2016-10-21_tiger-in-the-tanker_chart2.png)

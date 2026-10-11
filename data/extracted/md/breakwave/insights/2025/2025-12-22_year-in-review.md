@@ -20,10 +20,10 @@ source_file: "corpus/03-breakwave/insights/2025/2025-12-22_year-in-review.html"
 
 ---
 
-![Tankerrr 2](assets/2025-12-22_year-in-review_img_tankerrr-228129_89290ba50318.jpg)
+![Tankerrr 2](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-12-22_year-in-review_img_tankerrr-228129_89290ba50318.jpg)
 
 > **Figure 1: Tankerrr 2**  
-> **Interactive Data & Source:** [Gibsons Co](https://www.gibsons.co.uk/market-reports) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-12-22_year-in-review_img_tankerrr-228129_89290ba50318.jpg)
+> **Interactive Data & Source:** [Gibsons Co](https://www.gibsons.co.uk/market-reports) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-12-22_year-in-review_img_tankerrr-228129_89290ba50318.jpg)
 
 It has been another year for the books in the tanker markets, with almost too many events to recap. We covered the first half of the year in our earlier report titled “All about US”. In this report we will limit our focus to recapping some of the key developments of the second half of the year. The latter half of the year certainly had its fair share of geopolitical turmoil, but for the tanker markets it will be remembered for the sky-high dirty freight rates achieved especially in Q4. Clean markets have been healthy, though nowhere near as strong, and weaker compared to a 2023 and 2024.
 
@@ -55,10 +55,10 @@ The second half of the year saw an increase in clean and crude tanker trade thro
 
 This development came despite renewed Houthi attacks on commercial shipping in both July and September. The ceasefire deal between Hamas and Israel reached in October led to an official announcement by the Houthis in November to pause attacks on commercial shipping for as long as the ceasefire lasts. Since then, major shipping companies have announced their intention to trial a return to the Red Sea, potentially paving the way for a full normalisation of Red Sea and Suez Canal trade.
 
-![Στιγμιότυπο Οθόνης 2025 12 22 090854](assets/2025-12-22_year-in-review_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_d323e2afde91.png)
+![Στιγμιότυπο Οθόνης 2025 12 22 090854](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-12-22_year-in-review_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_d323e2afde91.png)
 
 > **Figure 2: Στιγμιότυπο Οθόνης 2025 12 22 090854**  
-> **Interactive Data & Source:** [Gibsons Co](https://www.gibsons.co.uk/market-reports) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-12-22_year-in-review_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_d323e2afde91.png)
+> **Interactive Data & Source:** [Gibsons Co](https://www.gibsons.co.uk/market-reports) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-12-22_year-in-review_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_d323e2afde91.png)
 
 Data source:[Gibson Shipbrokers](https://www.gibsons.co.uk/market-reports)
 

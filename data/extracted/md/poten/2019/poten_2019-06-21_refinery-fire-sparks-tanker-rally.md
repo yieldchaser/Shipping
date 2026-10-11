@@ -34,10 +34,18 @@ The impact on the crude market is more complicated. The impact depends on which 
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: Refinery Fire Sparks Tanker Rally](../../../charts/poten/2019/poten_2019-06-21_refinery-fire-sparks-tanker-rally_chart1.png)
+![Exhibit 1: PADD 1 Petroleum Product Imports by Commodity](../../../charts/poten/2019/poten_2019-06-21_refinery-fire-sparks-tanker-rally_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2019/poten_2019-06-21_refinery-fire-sparks-tanker-rally_chart1.png)
+> **Exhibit 1: PADD 1 Petroleum Product Imports by Commodity**  
+> Unit: Kb/d · X-axis: Jan-2012 to Jan-2019  
+> Series: Gasoline, Distillates, Jet Fuel, Other Products  
+> *Source: EIA*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2019/poten_2019-06-21_refinery-fire-sparks-tanker-rally_chart1.png)
 
-![Exhibit 2: Refinery Fire Sparks Tanker Rally](../../../charts/poten/2019/poten_2019-06-21_refinery-fire-sparks-tanker-rally_chart2.png)
+![Exhibit 2: PADD 1 Petroleum Product Imports by Origin](../../../charts/poten/2019/poten_2019-06-21_refinery-fire-sparks-tanker-rally_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2019/poten_2019-06-21_refinery-fire-sparks-tanker-rally_chart2.png)
+> **Exhibit 2: PADD 1 Petroleum Product Imports by Origin**  
+> Unit: Kb/d · X-axis: Jan-2012 to Jan-2019  
+> Series: Canada, Europe, Latin America, Caribbean, Asia, Other  
+> *Source: EIA*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2019/poten_2019-06-21_refinery-fire-sparks-tanker-rally_chart2.png)

@@ -60,10 +60,10 @@ The decline in demand for seaborne transportation of steel from China has contri
 
 Compared to a year ago, the global aggregate cargo order volumes recorded in November were around a third lower. While the past week showed a rebound in demand, the positive momentum appears to have run out of steam, and the current week is on course for another soft reading. Hence, the aggregate demand for December may struggle to match November’s, as further weakness can be expected with Christmas and New Year rapidly approaching. The development could offset some of the bullish sentiments for iron ore that the announcement of additional stimulus for the Chinese economy provides.
 
-![Market Chart 1](assets/2024-12-13_the-capesizes-and-the-panamaxes-put-further-pressure-on-the-baltic-dry-index_img_unnamed_2956cd1d389b.png)
+![Market Chart 1](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-12-13_the-capesizes-and-the-panamaxes-put-further-pressure-on-the-baltic-dry-index_img_unnamed_2956cd1d389b.png)
 
 > **Figure 1: Market Chart 1**  
-> **Interactive Data & Source:** [Shipfix](https://shipfix.com/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-12-13_the-capesizes-and-the-panamaxes-put-further-pressure-on-the-baltic-dry-index_img_unnamed_2956cd1d389b.png)
+> **Interactive Data & Source:** [Shipfix](https://shipfix.com/) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-12-13_the-capesizes-and-the-panamaxes-put-further-pressure-on-the-baltic-dry-index_img_unnamed_2956cd1d389b.png)
 
 Data Source:[Shipfix](https://shipfix.com/)
 

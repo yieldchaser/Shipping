@@ -34,10 +34,17 @@ With heightened geopolitical risks, sanctions uncertainty, IMO 2020 looming larg
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: Lets GOOOO](../../../charts/poten/2019/poten_2019-10-04_lets-goooo_chart1.png)
+![Exhibit 1: VLCC: AG - FE](../../../charts/poten/2019/poten_2019-10-04_lets-goooo_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2019/poten_2019-10-04_lets-goooo_chart1.png)
+> **Exhibit 1: VLCC: AG - FE**  
+> Unit: US$/day · X-axis: 1 to 51  
+> Series: 2019, 2018, 2017, 2016, 2015  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2019/poten_2019-10-04_lets-goooo_chart1.png)
 
-![Exhibit 2: Lets GOOOO](../../../charts/poten/2019/poten_2019-10-04_lets-goooo_chart2.png)
+![Exhibit 2: AG-China VLCC Freight Rates](../../../charts/poten/2019/poten_2019-10-04_lets-goooo_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2019/poten_2019-10-04_lets-goooo_chart2.png)
+> **Exhibit 2: AG-China VLCC Freight Rates**  
+> Unit: WS · X-axis: 1-Aug-19 to 3-Oct-19  
+> Series: AG-China VLCC Freight Rates  
+> *Source: Poten & Partners*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2019/poten_2019-10-04_lets-goooo_chart2.png)

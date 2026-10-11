@@ -30,10 +30,16 @@ The current situation does pose significant challenges for OPEC. Countries will 
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: OPEC At A Crossroads](../../../charts/poten/2026/poten_2026-04-24_opec-at-a-crossroads_chart1.png)
+![Exhibit 1: OPEC vs Non-OPEC Oil Production](../../../charts/poten/2026/poten_2026-04-24_opec-at-a-crossroads_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2026/poten_2026-04-24_opec-at-a-crossroads_chart1.png)
+> **Exhibit 1: OPEC vs Non-OPEC Oil Production**  
+> Unit: Mb/d · X-axis: 1965 to 2023  
+> Series: OPEC, Non-OPEC  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2026/poten_2026-04-24_opec-at-a-crossroads_chart1.png)
 
-![Exhibit 2: OPEC At A Crossroads](../../../charts/poten/2026/poten_2026-04-24_opec-at-a-crossroads_chart2.png)
+![Exhibit 2: Crude and Condensates Exports of AG OPEC Producers](../../../charts/poten/2026/poten_2026-04-24_opec-at-a-crossroads_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2026/poten_2026-04-24_opec-at-a-crossroads_chart2.png)
+> **Exhibit 2: Crude and Condensates Exports of AG OPEC Producers**  
+> Unit: Kb/d · X-axis: 30-Dec-24 to 20-Apr-26  
+> Series: Saudi Arabia, Iraq, United Arab Emirates, Iran, Kuwait  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2026/poten_2026-04-24_opec-at-a-crossroads_chart2.png)

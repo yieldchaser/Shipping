@@ -39,11 +39,11 @@ Global seaborne fertilizer flows declined by 11.7% y/y to 48.9 Mt in Q2 2026. Al
 Among the largest importers, only India recorded growth, as buyers accelerated purchases ahead of the peak kharif planting season. Elsewhere, tighter supply and elevated prices weighed on import demand, with buyers delaying purchases or sourcing from alternative exporting regions where possible.
 
 
-![Source: Seaborn Bulk Fertilizer Flows Origins and Destinations From Signal Ocean Https://app.signalocean.com/dry/dynamic/drybulkflows](../../images/6a69b07c56a71837bac9e2b9_5f582495.png)
+![Source: Seaborn Bulk Fertilizer Flows Origins and Destinations From Signal Ocean Https://app.signalocean.com/dry/dynamic/drybulkflows](../../../../../../corpus/07-signal/images/6a69b07c56a71837bac9e2b9_5f582495.png)
 
 > **Figure 1: Source: Seaborn Bulk Fertilizer Flows Origins and Destinations From Signal Ocean Https://app.signalocean.com/dry/dynamic/drybulkflows**  
 > *Source: Seaborn bulk fertilizer flows origins and destinations from Signal Ocean https://app.signalocean.com/dry/dynamic/drybulkflows*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/commodity-radar-agriculture-look-back-2026-q2) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6a69b07c56a71837bac9e2b9_5f582495.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/commodity-radar-agriculture-look-back-2026-q2) | [Local Asset](../../../../../../corpus/07-signal/images/6a69b07c56a71837bac9e2b9_5f582495.png)
 
 
 ## Global Seaborne Bulk Soybean
@@ -53,11 +53,11 @@ Global seaborne soybean flows increased by 14.9% year-on-year to 57.7 Mt in Q2 2
 Of the 7.5 Mt increase in global soybean flows, almost half was directed to China, where imports rose by 3.5 Mt as buyers capitalised on competitive Brazilian prices following the strong harvest.
 
 
-![Source: Seaborn Bulk Soybean Flows Origins and Destinations From Signal Ocean Https://app.signalocean.com/dry/dynamic/drybulkflows](../../images/6a69b07c56a71837bac9e2bc_f71a401e.png)
+![Source: Seaborn Bulk Soybean Flows Origins and Destinations From Signal Ocean Https://app.signalocean.com/dry/dynamic/drybulkflows](../../../../../../corpus/07-signal/images/6a69b07c56a71837bac9e2bc_f71a401e.png)
 
 > **Figure 2: Source: Seaborn Bulk Soybean Flows Origins and Destinations From Signal Ocean Https://app.signalocean.com/dry/dynamic/drybulkflows**  
 > *Source: Seaborn bulk soybean flows origins and destinations from Signal Ocean https://app.signalocean.com/dry/dynamic/drybulkflows*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/commodity-radar-agriculture-look-back-2026-q2) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6a69b07c56a71837bac9e2bc_f71a401e.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/commodity-radar-agriculture-look-back-2026-q2) | [Local Asset](../../../../../../corpus/07-signal/images/6a69b07c56a71837bac9e2bc_f71a401e.png)
 
 
 ## Global Seaborne Bulk Corn
@@ -67,8 +67,8 @@ Global seaborne corn trade expanded by 14.6% year-on-year to 45.6 Mt during the 
 The bulk of this surplus was utilized by buyers outside the four largest traditional markets. China emerged with the most significant gains, as its seaborne corn intake more than doubled compared to Q2 2025. This surge was driven by a combination of stock rebuilding, sustained demand for animal feed, and attractive pricing that encouraged importers to secure competitive supplies from key global origins.
 
 
-![Source: Seaborn Bulk Corn Flows, Origins, and Destinations From Signal Ocean Https://app.signalocean.com/dry/dynamic/drybulkflows](../../images/6a69b07c56a71837bac9e2bf_2f42d58d.png)
+![Source: Seaborn Bulk Corn Flows, Origins, and Destinations From Signal Ocean Https://app.signalocean.com/dry/dynamic/drybulkflows](../../../../../../corpus/07-signal/images/6a69b07c56a71837bac9e2bf_2f42d58d.png)
 
 > **Figure 3: Source: Seaborn Bulk Corn Flows, Origins, and Destinations From Signal Ocean Https://app.signalocean.com/dry/dynamic/drybulkflows**  
 > *Source: Seaborn bulk corn flows, origins, and destinations from Signal Ocean https://app.signalocean.com/dry/dynamic/drybulkflows*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/commodity-radar-agriculture-look-back-2026-q2) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6a69b07c56a71837bac9e2bf_2f42d58d.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/commodity-radar-agriculture-look-back-2026-q2) | [Local Asset](../../../../../../corpus/07-signal/images/6a69b07c56a71837bac9e2bf_2f42d58d.png)

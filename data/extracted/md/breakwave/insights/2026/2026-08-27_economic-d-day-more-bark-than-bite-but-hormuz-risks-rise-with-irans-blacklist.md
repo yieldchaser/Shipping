@@ -32,10 +32,10 @@ The US stopped short of imposing secondary sanctions or penalties on Iran’s tr
 
 The new sanctions named a handful of entities facilitating Iranian oil exports, including brokers, bunker suppliers, STS providers and six ships transporting Iranian oil and gas. But they introduced little that was new beyond explicitly naming the shipping sector as a future target. This emphasis on shipping could mean a wider crackdown on entities providing Iran with maritime insurance or other shipping-related services.
 
-![1962 Image 0 1787761192265](assets/2026-08-27_economic-d-day-more-bark-than-bite-but-hormuz-risks-rise-with-irans-blacklist_img_1962-image-0-1787761192265_cc63cae3263e.png)
+![1962 Image 0 1787761192265](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-08-27_economic-d-day-more-bark-than-bite-but-hormuz-risks-rise-with-irans-blacklist_img_1962-image-0-1787761192265_cc63cae3263e.png)
 
 > **Figure 1: 1962 Image 0 1787761192265**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-08-27_economic-d-day-more-bark-than-bite-but-hormuz-risks-rise-with-irans-blacklist_img_1962-image-0-1787761192265_cc63cae3263e.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-08-27_economic-d-day-more-bark-than-bite-but-hormuz-risks-rise-with-irans-blacklist_img_1962-image-0-1787761192265_cc63cae3263e.png)
 
 ### Competing Enforcement Regimes in Hormuz
 
@@ -57,10 +57,10 @@ The shuttle trade out of the Mideast Gulf has been vital to keep crude oil flowi
 
 Refined products have been exported out of the Mideast Gulf in smaller volumes than crude, averaging 918k b/d since the MoU collapsed, with 333k b/d exported via STS in the Gulf of Oman. Roughly 53% (180k b/d) of this STS volume is naphtha, 19% (64k b/d) is diesel, 15% jet (50k b/d) and the balance fuel oil. An LR2 that shuttled jet fuel and diesel out of the Gulf and an LR1 that shuttled diesel were both named on Iran’s blacklist.
 
-![9b29 Image 1 1787760993723](assets/2026-08-27_economic-d-day-more-bark-than-bite-but-hormuz-risks-rise-with-irans-blacklist_img_9b29-image-1-1787760993723_95767ea8043c.png)
+![9b29 Image 1 1787760993723](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-08-27_economic-d-day-more-bark-than-bite-but-hormuz-risks-rise-with-irans-blacklist_img_9b29-image-1-1787760993723_95767ea8043c.png)
 
 > **Figure 2: 9b29 Image 1 1787760993723**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-08-27_economic-d-day-more-bark-than-bite-but-hormuz-risks-rise-with-irans-blacklist_img_9b29-image-1-1787760993723_95767ea8043c.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-08-27_economic-d-day-more-bark-than-bite-but-hormuz-risks-rise-with-irans-blacklist_img_9b29-image-1-1787760993723_95767ea8043c.png)
 
 ---
 

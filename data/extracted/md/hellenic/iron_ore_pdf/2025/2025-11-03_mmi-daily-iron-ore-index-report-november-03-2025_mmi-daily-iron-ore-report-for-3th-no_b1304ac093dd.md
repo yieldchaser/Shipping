@@ -181,6 +181,8 @@ This week, iron ore shipments increased slightly by 1.5%, and the number of arri
 | **Port Stock** | **0.01% Phosphorus** | Low Fe Grade 0.09\<P<0.1% | 5.00 | RMB/wet tonne | +0.00 |
 
 ## Historical Iron Ore Index Comparisons (USD/DMT)
+> **Approximate.** The report prints no numbers for this chart. Values were read visually from the chart image by the parser and are rough estimates.
+
 | Date | IOSI62 (USD/DMT) | IOPi62 CFR Eq (USD/DMT) | IOSI65 (USD/DMT) | IOPi65 CFR Eq (USD/DMT) |
 | :--- | :--- | :--- | :--- | :--- |
 | 4-Jan-21 | 160.00 | 155.00 | 175.00 | 170.00 |
@@ -228,55 +230,73 @@ This week, iron ore shipments increased slightly by 1.5%, and the number of arri
 | **SGX** | **Dec. 25** | USD/DMT | 104.50 | -1.55 | -1.46% | 10.63 | 68.72 | 104.10 | 106.65 |
 
 ## Dry Bulk Freight Rates Historical Line Data (USD/MT)
+> **Estimate.** The report prints no numbers for this chart. Values are computed from the chart's vector geometry at each x-axis date label (calibrated on the printed axis ticks; typically within 1% of the axis range).
+
 | Date | C5 W. Australia - Qingdao (USD/MT) | C3 Tubarao - Qingdao (USD/MT) |
 | :--- | :--- | :--- |
-| 4-Jan-21 | 15.00 | 18.00 |
-| 4-Mar-21 | 20.00 | 22.00 |
-| 4-May-21 | 25.00 | 28.00 |
-| 4-Jul-21 | 30.00 | 35.00 |
-| 4-Sep-21 | 48.00 | 50.00 |
-| 4-Nov-21 | 22.00 | 25.00 |
-| 4-Jan-22 | 18.00 | 20.00 |
-| 4-Mar-22 | 20.00 | 22.00 |
-| 4-May-22 | 15.00 | 18.00 |
-| 4-Jul-22 | 12.00 | 15.00 |
-| 4-Sep-22 | 10.00 | 12.00 |
-| 4-Nov-22 | 8.00 | 10.00 |
-| 4-Jan-23 | 7.00 | 9.00 |
-| 4-Mar-23 | 6.00 | 8.00 |
-| 4-May-23 | 5.00 | 7.00 |
-| 4-Jul-23 | 5.00 | 7.00 |
-| 4-Sep-23 | 5.00 | 7.00 |
-| 4-Nov-23 | 5.00 | 7.00 |
-| 4-Jan-24 | 6.00 | 8.00 |
-| 4-Mar-24 | 8.00 | 10.00 |
-| 4-May-24 | 10.00 | 12.00 |
-| 4-Jul-24 | 12.00 | 15.00 |
-| 4-Sep-24 | 15.00 | 18.00 |
-| 4-Nov-24 | 18.00 | 20.00 |
-| 4-Jan-25 | 20.00 | 22.00 |
-| 4-Mar-25 | 22.00 | 24.00 |
-| 4-May-25 | 24.00 | 26.00 |
-| 4-Jul-25 | 25.00 | 27.00 |
-| 4-Sep-25 | 26.00 | 28.00 |
+| 4-Jan-21 | 8.92 | 15.63 |
+| 4-Mar-21 | 8.36 | 16.19 |
+| 4-May-21 | 14.50 | 30.43 |
+| 4-Jul-21 | 11.15 | 25.69 |
+| 4-Sep-21 | 13.67 | 33.23 |
+| 4-Nov-21 | 10.60 | 24.86 |
+| 4-Jan-22 | 8.92 | 22.33 |
+| 4-Mar-22 | 10.05 | 23.75 |
+| 4-May-22 | 12.00 | 25.69 |
+| 4-Jul-22 | 10.88 | 30.16 |
+| 4-Sep-22 | 8.08 | 19.54 |
+| 4-Nov-22 | 8.64 | 20.94 |
+| 4-Jan-23 | 7.25 | 18.42 |
+| 4-Mar-23 | 7.52 | 17.86 |
+| 4-May-23 | 8.93 | 22.34 |
+| 4-Jul-23 | 8.08 | 20.38 |
+| 4-Sep-23 | 8.08 | 18.70 |
+| 4-Nov-23 | 8.09 | 20.39 |
+| 4-Jan-24 | 10.04 | 29.31 |
+| 4-Mar-24 | 14.79 | 29.60 |
+| 4-May-24 | 11.15 | 26.94 |
+| 4-Jul-24 | 10.32 | 28.48 |
+| 4-Sep-24 | 11.44 | 27.65 |
+| 4-Nov-24 | 8.64 | 20.38 |
+| 4-Jan-25 | 6.96 | 18.42 |
+| 4-Mar-25 | 10.04 | 20.10 |
+| 4-May-25 | 7.94 | 19.54 |
+| 4-Jul-25 | 6.97 | 19.83 |
+| 4-Sep-25 | 10.32 | 24.57 |
 
 ## Total China Iron Ore Import Volumes (Million Tonnes)
+> **Estimate.** The report prints no numbers for this chart. Values are computed from the chart's vector geometry at each x-axis date label (calibrated on the printed axis ticks; typically within 1% of the axis range).
+
 | Month / Period | Import Volume (Million Tonnes) |
 | :--- | :--- |
-| Jun-23 | 96.00 |
-| Aug-23 | 94.00 |
-| Oct-23 | 106.00 |
-| Dec-23 | 102.00 |
-| Feb-24 | 112.00 |
-| Apr-24 | 103.00 |
-| Jun-24 | 102.00 |
-| Aug-24 | 104.00 |
-| Oct-24 | 103.00 |
-| Dec-24 | 112.00 |
-| Feb-25 | 96.00 |
-| Apr-25 | 95.00 |
-| Jun-25 | 106.00 |
-| Aug-25 | 116.00 |
+| Jun-23 | 95.54 |
+| Jul-23 | 93.59 |
+| Aug-23 | 106.41 |
+| Sep-23 | 101.19 |
+| Oct-23 | 99.46 |
+| Nov-23 | 102.72 |
+| Dec-23 | 100.76 |
+| Jan-24 | 111.85 |
+| Feb-24 | 97.50 |
+| Mar-24 | 100.76 |
+| Apr-24 | 101.85 |
+| May-24 | 102.06 |
+| Jun-24 | 97.72 |
+| Jul-24 | 102.72 |
+| Aug-24 | 101.41 |
+| Sep-24 | 104.24 |
+| Oct-24 | 103.80 |
+| Nov-24 | 101.85 |
+| Dec-24 | 112.50 |
+| Jan-25 | 97.06 |
+| Feb-25 | 94.24 |
+| Mar-25 | 94.02 |
+| Apr-25 | 103.15 |
+| May-25 | 98.15 |
+| Jun-25 | 105.98 |
+| Jul-25 | 104.67 |
+| Aug-25 | 105.33 |
+| Sep-25 | 116.41 |
 
 ---
 

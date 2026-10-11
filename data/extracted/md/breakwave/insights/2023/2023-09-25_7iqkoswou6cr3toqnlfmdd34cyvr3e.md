@@ -27,10 +27,10 @@ source_file: "corpus/03-breakwave/insights/2023/2023-09-25_7iqkoswou6cr3toqnlfmd
 
 On the central bank front, Fed reiterated its commitment to achieve maximum employment and inflation at the rate of 2 percent over the longer run. In support of these goals, the Committee decided to maintain the target range for the federal funds rate at 5-1/4 to 5-1/2 percent. In determining the extent of additional policy firming that may be appropriate to return inflation to 2 percent over time, the Committee will take into account the cumulative tightening of monetary policy, the lags with which monetary policy affects economic activity and inflation, and economic and financial developments. Additionally, policymakers bolstered their hawkish stance with a further rate increase projected by the end of the year and monetary policy forecasts kept significantly tighter through 2024 than previously expected.
 
-![1 (2)](assets/2023-09-25_7iqkoswou6cr3toqnlfmdd34cyvr3e_img_128229_4487f036668f.png)
+![1 (2)](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-09-25_7iqkoswou6cr3toqnlfmdd34cyvr3e_img_128229_4487f036668f.png)
 
 > **Figure 1: 1 (2)**  
-> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-09-25_7iqkoswou6cr3toqnlfmdd34cyvr3e_img_128229_4487f036668f.png)
+> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-09-25_7iqkoswou6cr3toqnlfmdd34cyvr3e_img_128229_4487f036668f.png)
 
 In tandem, the Bank of England’s Monetary Policy Committee sets monetary policy to meet the 2 percent inflation target, and in a way that helps to sustain growth and employment. At its meeting ending on 20 September 2023, the MPC voted by a majority of 5-4 to maintain Bank Rate at 5.25 percent. Four members preferred to increase Bank Rate by 0.25 percentage points, to 5.5 percent. "We will need to keep interest rates high enough for long enough to ensure that we get the job done," Bank of England Governor Andrew Bailey stressed this Thursday after policymakers narrowly decided to hold its main interest rate unchanged.
 
@@ -40,10 +40,10 @@ Other central banks were also tuned in to this Hawkish tone. In particular, the 
 
 At the same time as higher interest rates seem to be a necessity in order to further slow down demand and ease upward pressures on prices, an East-West divergence in central bank actions became apparent. In a policy statement, the Bank of Japan said it would maintain short-term interest rates at -0.1 percent, and cap the 10- year Japanese government bond yield around zero. "With extremely high uncertainties surrounding economies and financial markets at home and abroad, the Bank will patiently continue with monetary easing, while nimbly responding to developments in economic activity and prices as well as financial conditions," the Bank of Japan said in its policy statement. On the same wavelength, China kept benchmark lending rates unchanged on Wednesday, in line with expectations, as fresh signs of economic stabilisation and a weakening yuan reduced the need for immediate monetary easing.
 
-![1 (3)](assets/2023-09-25_7iqkoswou6cr3toqnlfmdd34cyvr3e_img_128329_db3ba993f396.png)
+![1 (3)](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-09-25_7iqkoswou6cr3toqnlfmdd34cyvr3e_img_128329_db3ba993f396.png)
 
 > **Figure 2: 1 (3)**  
-> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-09-25_7iqkoswou6cr3toqnlfmdd34cyvr3e_img_128329_db3ba993f396.png)
+> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-09-25_7iqkoswou6cr3toqnlfmdd34cyvr3e_img_128329_db3ba993f396.png)
 
 Whilst higher rates seem to be the new reality and inflation remains stubbornly above medium-term target, Baltic indices managed to step on China’s positive momentum of late and take a much-needed breather.
 

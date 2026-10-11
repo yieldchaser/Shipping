@@ -26,10 +26,18 @@ The regime of Mr. Maduro has resisted sanctions for so long that few people will
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: Another Brick in the Wall](../../../charts/poten/2020/poten_2020-02-21_another-brick-in-the-wall_chart1.png)
+![Exhibit 1: U.S. Products Exports to Venezuela](../../../charts/poten/2020/poten_2020-02-21_another-brick-in-the-wall_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2020/poten_2020-02-21_another-brick-in-the-wall_chart1.png)
+> **Exhibit 1: U.S. Products Exports to Venezuela**  
+> Unit: Kb/d · X-axis: 2005 to 2019  
+> Series: Gasoline, Gasoline Blend. Comp., Distillates, Resid. FO  
+> *Source: EIA*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2020/poten_2020-02-21_another-brick-in-the-wall_chart1.png)
 
-![Exhibit 2: Another Brick in the Wall](../../../charts/poten/2020/poten_2020-02-21_another-brick-in-the-wall_chart2.png)
+![Exhibit 2: Venezuela* Crude Oil Exports](../../../charts/poten/2020/poten_2020-02-21_another-brick-in-the-wall_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2020/poten_2020-02-21_another-brick-in-the-wall_chart2.png)
+> **Exhibit 2: Venezuela* Crude Oil Exports**  
+> Unit: Kb/d · X-axis: Jan-14 to Jan-20  
+> Series: USA, China, India, S Europe, NW Europe, Other  
+> *Source: Lloyd’s List Intelligence*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2020/poten_2020-02-21_another-brick-in-the-wall_chart2.png)

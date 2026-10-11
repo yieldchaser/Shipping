@@ -55,9 +55,9 @@ While European coal prices have recorded gains of more than 30 per cent since th
 
 The past month has seen a substantial drop in demand for seaborne transportation of coal from the US to Europe, with cargo order volumes declining by more than 60 per cent. The decline contributed to aggregate cargo order volumes for US coal exports falling by approximately a quarter month-on-month in June. However, a recent increase in demand for US coal in China and Asia offset some of the negative effects of the declining European appetite.
 
-![Market Chart 1](assets/2023-07-04_shipfix-global-market-update_img_unnamed-2023-07-04t124316132_47cec0aaf398.png)
+![Market Chart 1](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-07-04_shipfix-global-market-update_img_unnamed-2023-07-04t124316132_47cec0aaf398.png)
 
 > **Figure 1: Market Chart 1**  
-> **Interactive Data & Source:** [Shipfix](https://shipfix.com/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-07-04_shipfix-global-market-update_img_unnamed-2023-07-04t124316132_47cec0aaf398.png)
+> **Interactive Data & Source:** [Shipfix](https://shipfix.com/) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-07-04_shipfix-global-market-update_img_unnamed-2023-07-04t124316132_47cec0aaf398.png)
 
 Data Source:[Shipfix](https://shipfix.com/)

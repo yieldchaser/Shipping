@@ -60,11 +60,11 @@ Crude oil sitting on VLCCs has reached multiyear highs according to cargo tracki
 
 The number of VLCCs trading has remained basically flat since April 2023 (+13 ships) when this first phase of today’s OPEC cuts began . Of these, the number of units under 20 years old is down by around 6% (-133 VLCCs), and 16% of the total VLCC fleet is under sanctions. As such, the fleet is older and less compliant, meaning there is less available tonnage to lift increased crude exports from Saudi Arabia and the UAE.
 
-![Source: Braemar](assets/2025-10-10_tankers-research-update_img_5cca-image-0-1760092179792_faf096ca1e91.png)
+![Source: Braemar](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-10-10_tankers-research-update_img_5cca-image-0-1760092179792_faf096ca1e91.png)
 
 > **Figure 1: Source: Braemar**  
 > *Source: Braemar, Vortexa*  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-10-10_tankers-research-update_img_5cca-image-0-1760092179792_faf096ca1e91.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-10-10_tankers-research-update_img_5cca-image-0-1760092179792_faf096ca1e91.png)
 
 ### China’s Stockbuilding Outlook
 
@@ -82,11 +82,11 @@ Although the immediate possibility of contango has lessened due to OPEC’s lowe
 
 Cargoes to China have been the cornerstone of VLCC demand throughout 2025. Since January, cargo volumes on VLCCs heading to destinations outside of China have declined, and cargoes carried by VLCCs to China have continued to increase, roughly reaching parity this summer, when nearly 50% of all VLCC cargo volumes were destined for China.
 
-![Today's Announcement Designates 33 Vessels](assets/2025-10-10_tankers-research-update_img_6be5-image-2-1760092105174_7032a24f8967.png)
+![Today's Announcement Designates 33 Vessels](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-10-10_tankers-research-update_img_6be5-image-2-1760092105174_7032a24f8967.png)
 
 > **Figure 2: Today's Announcement Designates 33 Vessels**  
 > *Today's announcement designates 33 vessels, 7 of which are crude tankers and the rest are LPG carriers, small chemical/oil tankers and a few tugs. These 7 crude tankers were heavily relied on in recent months due to being free of sanctions, accounting for 20% of all of China's Iranian crude imports in August.*  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-10-10_tankers-research-update_img_6be5-image-2-1760092105174_7032a24f8967.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-10-10_tankers-research-update_img_6be5-image-2-1760092105174_7032a24f8967.png)
 
 Source: Vortexa
 

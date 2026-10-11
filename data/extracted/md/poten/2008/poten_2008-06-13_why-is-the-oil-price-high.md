@@ -66,6 +66,3 @@ Michael D. Tusiani is Chairman/CEO of Poten & Partners and a Senior Fellow at Co
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: Why Is The Oil Price High](../../../charts/poten/2008/poten_2008-06-13_why-is-the-oil-price-high_chart1.png)
-
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2008/poten_2008-06-13_why-is-the-oil-price-high_chart1.png)

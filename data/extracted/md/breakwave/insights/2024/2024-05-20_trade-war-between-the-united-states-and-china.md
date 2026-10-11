@@ -30,19 +30,19 @@ Regarding international steel trade, the Chinese steel industry has expressed st
 
 In 2023, China produced 1.019 billion tonnes of steel, reflecting a 0.6 percent increase from 2022. During the same period, China's steel product exports rose by 36.2 percent year-on-year, reaching 90.3 million tonnes. As domestic demand remained weaker than expected, China's steel exports in March surged by 25.35 percent compared to the previous year, totaling 9.89 million tonnes – the highest monthly volume since July 2016. This increase brought the first-quarter exports to 25.8 million tonnes, marking a 30.7 percent rise year-on-year, according to customs data. In April, the upward trend continued with steel exports climbing 16.3 percent year-on-year to 9.22 million tonnes. From January to April, the world’s largest steel producer exported a total of 35.02 million tonnes, a notable 27 percent increase compared to the same period the previous year. Despite these substantial export volumes, the share of China's steel exports to the United States remains minimal, as does the proportion of US steel imports from China.
 
-![Στιγμιότυπο Οθόνης 2024 05 20 094439](assets/2024-05-20_trade-war-between-the-united-states-and-china_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_6fbe6d910613.png)
+![Στιγμιότυπο Οθόνης 2024 05 20 094439](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-05-20_trade-war-between-the-united-states-and-china_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_6fbe6d910613.png)
 
 > **Figure 1: Στιγμιότυπο Οθόνης 2024 05 20 094439**  
-> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-05-20_trade-war-between-the-united-states-and-china_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_6fbe6d910613.png)
+> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-05-20_trade-war-between-the-united-states-and-china_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_6fbe6d910613.png)
 
 While China was exporting large volumes of steel, India's coal imports were on the rise. In FY24, India's coal imports increased by 7.7 percent to 268.24 million tonnes, driven by lower seaborne prices and an expected rise in power demand during the summer. In March 2024, non-coking coal imports reached 15.33 million tonnes, up from 13.88 million tonnes in March FY23. Coking coal imports for March 2024 were 5.34 million tonnes, compared to 3.96 million tonnes a year earlier. For the entire FY24, non-coking coal imports totaled 175.96 million tonnes, exceeding the 162.46 million tonnes imported in FY23. Coking coal imports amounted to 57.22 million tonnes in 2023-24, up from 54.46 million tonnes in 2022-23. Looking forward, India's power ministry has instructed thermal plants to defer planned maintenance and revive plants that are under long-term outages to prepare for peak power demand expected in May and June, according to an official statement on May 11.
 
 Against this background and in spite this week soft tone, the Baltic Supramax index has reported a quite solid year to date average of $13,768 daily, or 26.2 percent higher year-on-year. Even if it compares to the average of 2018-2022 which include the exceptional post-covid years, the current year's performance trails only slightly in daily earnings. Moving forward, the Baltic Supramax index's sustained health hinges on increased coal activity from India effectively offsetting the anticipated softness in China’s coal market.
 
-![Στιγμιότυπο Οθόνης 2024 05 20 094704](assets/2024-05-20_trade-war-between-the-united-states-and-china_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_e1bad0a5a625.png)
+![Στιγμιότυπο Οθόνης 2024 05 20 094704](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-05-20_trade-war-between-the-united-states-and-china_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_e1bad0a5a625.png)
 
 > **Figure 2: Στιγμιότυπο Οθόνης 2024 05 20 094704**  
-> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-05-20_trade-war-between-the-united-states-and-china_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_e1bad0a5a625.png)
+> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-05-20_trade-war-between-the-united-states-and-china_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_e1bad0a5a625.png)
 
 Data source:[Doric](https://www.doric.gr/)
 

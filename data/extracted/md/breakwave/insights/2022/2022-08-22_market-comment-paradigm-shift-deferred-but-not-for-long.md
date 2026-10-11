@@ -33,10 +33,10 @@ But, at the very same time, it talks to investors in a second language, beyond h
 
 In the past few months markets have been fixated with oil prices. Higher oil prices drive asset prices down and vice versa.
 
-![241](assets/2022-08-22_market-comment-paradigm-shift-deferred-but-not-for-long_img_241_efb0d38fe62a.png)
+![241](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-08-22_market-comment-paradigm-shift-deferred-but-not-for-long_img_241_efb0d38fe62a.png)
 
 > **Figure 1: 241**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-08-22_market-comment-paradigm-shift-deferred-but-not-for-long_img_241_efb0d38fe62a.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-08-22_market-comment-paradigm-shift-deferred-but-not-for-long_img_241_efb0d38fe62a.png)
 
 On the one hand, this is a good sign. It means that markets recognize current inflation to be mostly driven by energy price and supply chain factors, not monetary easing. By implication, this means that they believe the Fed will follow inflation trends, rather than actually be able to reverse them.
 
@@ -44,10 +44,10 @@ On the other hand, it also means that the much-vaunted ‘paradigm shift’ has 
 
 So, while performing sharp rate hikes and remaining hawkish, the Fed’s dovish approach to its balance sheet is the real signal markets awaited to rebound. After May, the Fed had announced Quantitative Tightening of $45bn per month, a total of $135b. Instead, it delivered less than half that, $64b.
 
-![242](assets/2022-08-22_market-comment-paradigm-shift-deferred-but-not-for-long_img_242_1da710c6e44f.png)
+![242](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-08-22_market-comment-paradigm-shift-deferred-but-not-for-long_img_242_1da710c6e44f.png)
 
 > **Figure 2: 242**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-08-22_market-comment-paradigm-shift-deferred-but-not-for-long_img_242_1da710c6e44f.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-08-22_market-comment-paradigm-shift-deferred-but-not-for-long_img_242_1da710c6e44f.png)
 
 From the next month, max withdrawals go up to $95bn per month, from $45bn today. Given what we have seen until today, we would be surprised if the Fed punches up quantitative tightening so abruptly.
 

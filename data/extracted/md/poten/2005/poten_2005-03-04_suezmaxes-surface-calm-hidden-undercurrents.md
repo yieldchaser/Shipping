@@ -86,6 +86,32 @@ Suezmaxes are workhorses quietly doing their job while other tanker classes get 
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: Suezmaxes Surface Calm - Hidden Undercurrents](../../../charts/poten/2005/poten_2005-03-04_suezmaxes-surface-calm-hidden-undercurrents_chart1.png)
+> **Chart on PDF page 2: 2000**  
+> Unit: %  
+> Series: Carib, R.Sea, W.Afr, B.Sea/Med, Other, UKC, AG  
+> *Source: Poten & Partners*  
+> *No image crop of this chart was saved; caption read from the PDF.*
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2005/poten_2005-03-04_suezmaxes-surface-calm-hidden-undercurrents_chart1.png)
+> **Chart on PDF page 2: 2004**  
+> Unit: %  
+> Series: Carib, R.Sea, W.Afr, B.Sea/Med, Other, UKC, AG  
+> *Source: Poten & Partners*  
+> *No image crop of this chart was saved; caption read from the PDF.*
+
+> **Chart on PDF page 2: Black Sea/Mediterranean Load Area**  
+> Unit: # Fixtures · X-axis: 2000 to 2004  
+> Series: Other, USA, UKC, Med  
+> *Source: Poten & Partners*  
+> *No image crop of this chart was saved; caption read from the PDF.*
+
+> **Chart on PDF page 3: West Africa Load Area**  
+> Unit: # Fixtures · X-axis: 2000 to 2004  
+> Series: Other, Carib, ECSA, UKC, Med, USA  
+> *Source: Poten & Partners*  
+> *No image crop of this chart was saved; caption read from the PDF.*
+
+> **Chart on PDF page 4: Arabian Gulf Load Area**  
+> Unit: # Fixtures · X-axis: 2000 to 2004  
+> Series: Other, W of Suez, Australia, SE Asia, S Asia, China&FE  
+> *Source: Poten & Partners*  
+> *No image crop of this chart was saved; caption read from the PDF.*

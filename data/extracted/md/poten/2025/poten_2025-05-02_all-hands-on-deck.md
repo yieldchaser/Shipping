@@ -32,4 +32,4 @@ The depth and breadth of the SHIPS Act shows the ambitions of the U.S. to boost 
 
 ![Exhibit 1: All Hands On Deck!](../../../charts/poten/2025/poten_2025-05-02_all-hands-on-deck_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2025/poten_2025-05-02_all-hands-on-deck_chart1.png)
+> **Interactive Asset:** [Local Asset (200 DPI PNG)](../../../charts/poten/2025/poten_2025-05-02_all-hands-on-deck_chart1.png)

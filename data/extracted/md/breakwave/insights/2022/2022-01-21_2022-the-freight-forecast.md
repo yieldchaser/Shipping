@@ -36,11 +36,11 @@ Demand at record-lows at the start of the year, a slow and uneven recovery for a
 
 ## A Positive Momentum for Freight Rates
 
-![Freight Rates Vs](assets/2022-01-21_2022-the-freight-forecast_img_ch1jpg_0d9d6c4a3bab.png)
+![Freight Rates Vs](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-01-21_2022-the-freight-forecast_img_ch1jpg_0d9d6c4a3bab.png)
 
 > **Figure 1: Freight Rates Vs**  
 > *Freight rates vs. 2021 averages across major vessel classes benchmark routes*  
-> **Interactive Data & Source:** [Vortexa](https://www.vortexa.com/insight/big-oil-producers-shine-as-refineries0) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-01-21_2022-the-freight-forecast_img_ch1jpg_0d9d6c4a3bab.png)
+> **Interactive Data & Source:** [Vortexa](https://www.vortexa.com/insight/big-oil-producers-shine-as-refineries0) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-01-21_2022-the-freight-forecast_img_ch1jpg_0d9d6c4a3bab.png)
 
 Throughout 2021, freight rates remained weak. One could easily think it was only a weakness compared to exceptional earnings during the first half of 2020, as well as the second half of 2019. But the reality is that average freight rates across the five major tanker classes have reached 5-year lows in some instances, as well as having been consistently below operating expenses in some segments, especially within crude tanker markets.
 
@@ -50,11 +50,11 @@ Looking ahead, we do expect that tanker rates have bottomed out in 2021. But tha
 
 ## Demand: Is There Enough Fuel for Recovery Left in the Crude Market?
 
-![Crude/dirty Tanker Tonne-Miles Vs](assets/2022-01-21_2022-the-freight-forecast_img_ch2_5785ca8cee21.png)
+![Crude/dirty Tanker Tonne-Miles Vs](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-01-21_2022-the-freight-forecast_img_ch2_5785ca8cee21.png)
 
 > **Figure 2: Crude/dirty Tanker Tonne-Miles Vs**  
 > *Crude/dirty tanker tonne-miles vs. 2019 average by vessel class*  
-> **Interactive Data & Source:** [Vortexa](https://www.vortexa.com/insight/big-oil-producers-shine-as-refineries0) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-01-21_2022-the-freight-forecast_img_ch2_5785ca8cee21.png)
+> **Interactive Data & Source:** [Vortexa](https://www.vortexa.com/insight/big-oil-producers-shine-as-refineries0) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-01-21_2022-the-freight-forecast_img_ch2_5785ca8cee21.png)
 
 Without a doubt crude/dirty tanker segments have been hit the hardest in 2021. To see how much hope there is for 2021, we will tackle the outlook in four steps:
 
@@ -75,11 +75,11 @@ In conclusion, 2022 may prove to be a year of two divergent halves. H1 may see s
 
 ## Demand: Refined Products Demand Kept Clean Tankers Afloat
 
-![Cpp Tanker Tonne-Miles Vs](assets/2022-01-21_2022-the-freight-forecast_img_ch3_bbd69dfa202a.png)
+![Cpp Tanker Tonne-Miles Vs](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-01-21_2022-the-freight-forecast_img_ch3_bbd69dfa202a.png)
 
 > **Figure 3: Cpp Tanker Tonne-Miles Vs**  
 > *CPP tanker tonne-miles vs. 2019 average by vessel class*  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-01-21_2022-the-freight-forecast_img_ch3_bbd69dfa202a.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-01-21_2022-the-freight-forecast_img_ch3_bbd69dfa202a.png)
 
 Clean tanker segments have fared better throughout 2021 than their dirty counterparts. Through the lens of Vortexa’s freight data, we can see that CPP tanker tonne-miles were above their 2019 levels for both vessel classes by March 2021 and remained that way, seeing strong support in Q2 and Q3 specifically. A global surge in diesel requirements has benefited clean tankers, especially originating from the East of Suez, also contributing to higher tonne-miles within the LR category. Gasoline and diesel flows have already returned to pre-pandemic demand levels in Q4, helping fuel a recovery in the MR tanker market segment specifically, whilst strong demand for naphtha as a petrochemical feedstock from Asia helped LR2 rates gain momentum in the second half of 2021. It is worth mentioning that we witnessed a number of LR2 tankers cleaning up throughout 2021 to exit the crude/dirty trade and benefit from stronger freight rates in clean markets.
 
@@ -89,11 +89,11 @@ Higher refinery runs in oil producing countries should support MR needs in the A
 
 ## Supply: Overcapacity Will Keep a Lid on Rates in 2022
 
-![Net Fleet Additions by Class Vs](assets/2022-01-21_2022-the-freight-forecast_img_ch4_403527c9d12f.png)
+![Net Fleet Additions by Class Vs](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-01-21_2022-the-freight-forecast_img_ch4_403527c9d12f.png)
 
 > **Figure 4: Net Fleet Additions by Class Vs**  
 > *Net fleet additions by class vs. average fleet speed*  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-01-21_2022-the-freight-forecast_img_ch4_403527c9d12f.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-01-21_2022-the-freight-forecast_img_ch4_403527c9d12f.png)
 
 When it comes to fleet supply, 2021 saw a net addition of 109 vessels across the 5 main tanker classes in focus, equivalent to approximately 3% of total fleet growth. The data in the chart above takes into account newbuild deliveries as well as demolitions and losses. The 2021 net addition is about a quarter lower than the levels experienced in 2020. Whilst all tanker segments saw their fleet size grow, Suezmax tankers saw a net decrease in Q4 of this year as scrapping accelerated slightly at the end of the year, as prices of scrap steel remained at decade-highs and freight rates low.
 

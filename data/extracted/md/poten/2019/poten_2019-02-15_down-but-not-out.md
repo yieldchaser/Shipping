@@ -32,10 +32,18 @@ In short, Europe will continue to support tanker demand for smaller and medium s
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: Down But Not Out](../../../charts/poten/2019/poten_2019-02-15_down-but-not-out_chart1.png)
+![Exhibit 1: EU Oil Demand and Share of Global Demand](../../../charts/poten/2019/poten_2019-02-15_down-but-not-out_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2019/poten_2019-02-15_down-but-not-out_chart1.png)
+> **Exhibit 1: EU Oil Demand and Share of Global Demand**  
+> Unit: Kb/d | % World Demand · X-axis: 1965 to 2016  
+> Series: European Oil Demand, EU (% of Total World)  
+> *Source: BP Statistical Review*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2019/poten_2019-02-15_down-but-not-out_chart1.png)
 
-![Exhibit 2: Down But Not Out](../../../charts/poten/2019/poten_2019-02-15_down-but-not-out_chart2.png)
+![Exhibit 2: Seaborne NW European Crude Imports by Vessel Class](../../../charts/poten/2019/poten_2019-02-15_down-but-not-out_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2019/poten_2019-02-15_down-but-not-out_chart2.png)
+> **Exhibit 2: Seaborne NW European Crude Imports by Vessel Class**  
+> Unit: Kb/d · X-axis: Jan-15 to Oct-18  
+> Series: VLCC, Suezmax, Aframax, Small Tankers  
+> *Source: Lloyd’s List Intelligence*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2019/poten_2019-02-15_down-but-not-out_chart2.png)

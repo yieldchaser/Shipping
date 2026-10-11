@@ -31,11 +31,11 @@ tags:
 The downward trend in the 7-day moving average points to easing demand momentum
 
 
-![Figures Reflect Market-Based Estimates as of 22 January and Remain Subject to Further Revision.](../../images/697384ad38ec0feeb4681160_08a8662a.png)
+![Figures Reflect Market-Based Estimates as of 22 January and Remain Subject to Further Revision.](../../../../../../corpus/07-signal/images/697384ad38ec0feeb4681160_08a8662a.png)
 
 > **Figure 1: Figures Reflect Market-Based Estimates as of 22 January and Remain Subject to Further Revision.**  
 > *Figures reflect market-based estimates as of 22 January and remain subject to further revision.*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-tanker-market-monitor-week-04-2026) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/697384ad38ec0feeb4681160_08a8662a.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-tanker-market-monitor-week-04-2026) | [Local Asset](../../../../../../corpus/07-signal/images/697384ad38ec0feeb4681160_08a8662a.png)
 
 Cargo-flow analysis indicates that Russian crude shipments to India slowed in early January, as reflected in the 7-day moving average across the first three weeks of the month. While India remains one of the most important destinations for Russian oil, current trends indicate a more gradual pace of arrivals compared to recent years.
 
@@ -51,25 +51,25 @@ As a result, January Russian crude deliveries to India appear increasingly conce
 Spot [freight](https://app.signalocean.com/tanker/dynamic/market-prices-tankers) indices showed a mixed mid-week picture, supported by firmer Aframax rates, while VLCC WS momentum corrected below WS130. Some of last week’s gains were nevertheless retained, after TD3C closed Friday at around WS130, below its most recent peak of WS139.28 on 24 November.
 
 
-![Market Overview](../../images/697384ad38ec0feeb4681166_e3cc55c4.png)
+![Market Overview](../../../../../../corpus/07-signal/images/697384ad38ec0feeb4681166_e3cc55c4.png)
 
 > **Figure 2: Market Overview**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-tanker-market-monitor-week-04-2026) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/697384ad38ec0feeb4681166_e3cc55c4.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-tanker-market-monitor-week-04-2026) | [Local Asset](../../../../../../corpus/07-signal/images/697384ad38ec0feeb4681166_e3cc55c4.png)
 
 
 ## Vlccweaker
 
 
-![VLCC Weaker](../../images/697384ad38ec0feeb4681175_b2a06a5b.png)
+![VLCC Weaker](../../../../../../corpus/07-signal/images/697384ad38ec0feeb4681175_b2a06a5b.png)
 
 > **Figure 3: VLCC Weaker**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-tanker-market-monitor-week-04-2026) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/697384ad38ec0feeb4681175_b2a06a5b.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-tanker-market-monitor-week-04-2026) | [Local Asset](../../../../../../corpus/07-signal/images/697384ad38ec0feeb4681175_b2a06a5b.png)
 
 
-![VLCC Weaker](../../images/697384ad38ec0feeb4681169_a340a652.png)
+![VLCC Weaker](../../../../../../corpus/07-signal/images/697384ad38ec0feeb4681169_a340a652.png)
 
 > **Figure 4: VLCC Weaker**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-tanker-market-monitor-week-04-2026) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/697384ad38ec0feeb4681169_a340a652.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-tanker-market-monitor-week-04-2026) | [Local Asset](../../../../../../corpus/07-signal/images/697384ad38ec0feeb4681169_a340a652.png)
 
 
 - WS rates for MEG–China (TD3C) and WAF–China (TD15) have rebounded from recent lows, but current levels remain below last Friday’s close. Both routes are now trading below WS 130, suggesting that the recent upside correction has yet to be fully confirmed. While near-term gains point to improving sentiment, the market will need to be tested through the remainder of the month to assess whether this upward correction can be sustained.
@@ -78,49 +78,49 @@ Spot [freight](https://app.signalocean.com/tanker/dynamic/market-prices-tankers)
 ## Suezmaxweaker
 
 
-![Suezmax Weaker](../../images/697384ad38ec0feeb468116c_db78842b.png)
+![Suezmax Weaker](../../../../../../corpus/07-signal/images/697384ad38ec0feeb468116c_db78842b.png)
 
 > **Figure 5: Suezmax Weaker**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-tanker-market-monitor-week-04-2026) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/697384ad38ec0feeb468116c_db78842b.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-tanker-market-monitor-week-04-2026) | [Local Asset](../../../../../../corpus/07-signal/images/697384ad38ec0feeb468116c_db78842b.png)
 
 
-![Suezmax Weaker](../../images/697384ad38ec0feeb468116f_5b4b04b4.png)
+![Suezmax Weaker](../../../../../../corpus/07-signal/images/697384ad38ec0feeb468116f_5b4b04b4.png)
 
 > **Figure 6: Suezmax Weaker**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-tanker-market-monitor-week-04-2026) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/697384ad38ec0feeb468116f_5b4b04b4.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-tanker-market-monitor-week-04-2026) | [Local Asset](../../../../../../corpus/07-signal/images/697384ad38ec0feeb468116f_5b4b04b4.png)
 
 
 - After peaking in mid-January, WS rates for Black Sea - Mediterranean (TD6) have retreated significantly, dropping from roughly WS 252 to the low-WS 200s, as [supply](https://app.signalocean.com/tanker/dynamic/suezmax\_insights\_downloadable) conditions in the Black Sea increasingly signal oversupply.
 
 
-![Suezmax Weaker](../../images/697384ad38ec0feeb468117e_33c120ae.png)
+![Suezmax Weaker](../../../../../../corpus/07-signal/images/697384ad38ec0feeb468117e_33c120ae.png)
 
 > **Figure 7: Suezmax Weaker**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-tanker-market-monitor-week-04-2026) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/697384ad38ec0feeb468117e_33c120ae.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-tanker-market-monitor-week-04-2026) | [Local Asset](../../../../../../corpus/07-signal/images/697384ad38ec0feeb468117e_33c120ae.png)
 
 
 ## Aframaxfirmer
 
 
-![Aframax Firmer](../../images/697384ad38ec0feeb4681178_e7cb8676.png)
+![Aframax Firmer](../../../../../../corpus/07-signal/images/697384ad38ec0feeb4681178_e7cb8676.png)
 
 > **Figure 8: Aframax Firmer**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-tanker-market-monitor-week-04-2026) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/697384ad38ec0feeb4681178_e7cb8676.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-tanker-market-monitor-week-04-2026) | [Local Asset](../../../../../../corpus/07-signal/images/697384ad38ec0feeb4681178_e7cb8676.png)
 
 
-![Aframax Firmer](../../images/697384ad38ec0feeb468117b_40214c77.png)
+![Aframax Firmer](../../../../../../corpus/07-signal/images/697384ad38ec0feeb468117b_40214c77.png)
 
 > **Figure 9: Aframax Firmer**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-tanker-market-monitor-week-04-2026) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/697384ad38ec0feeb468117b_40214c77.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-tanker-market-monitor-week-04-2026) | [Local Asset](../../../../../../corpus/07-signal/images/697384ad38ec0feeb468117b_40214c77.png)
 
 
 - Since the start of the year, rates on TD9 and TD25 have steadily moved higher. TD9 has risen from around WS 230 in early January to close to WS 295, while TD25 has increased from the low WS 210s to above WS 270. The pace of gains has picked up in recent weeks, suggesting firmer underlying momentum as current [supply](https://app.signalocean.com/tanker/dynamic/afra\_insights\_downloadable) conditions continue to underpin the market.
 
 
-![Aframax Firmer](../../images/697384ad38ec0feeb4681172_b28edaec.png)
+![Aframax Firmer](../../../../../../corpus/07-signal/images/697384ad38ec0feeb4681172_b28edaec.png)
 
 > **Figure 10: Aframax Firmer**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-tanker-market-monitor-week-04-2026) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/697384ad38ec0feeb4681172_b28edaec.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-tanker-market-monitor-week-04-2026) | [Local Asset](../../../../../../corpus/07-signal/images/697384ad38ec0feeb4681172_b28edaec.png)
 
 
 ## Ballasters| Ag/indiasupply
@@ -128,19 +128,19 @@ Spot [freight](https://app.signalocean.com/tanker/dynamic/market-prices-tankers)
 *VLCC AG/India Supply Builds, Weighing on recent rate firmness*
 
 
-![Ballasters| Ag/india Supply](../../images/697384ad38ec0feeb4681163_059f1dda.png)
+![Ballasters| Ag/india Supply](../../../../../../corpus/07-signal/images/697384ad38ec0feeb4681163_059f1dda.png)
 
 > **Figure 11: Ballasters| Ag/india Supply**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-tanker-market-monitor-week-04-2026) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/697384ad38ec0feeb4681163_059f1dda.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-tanker-market-monitor-week-04-2026) | [Local Asset](../../../../../../corpus/07-signal/images/697384ad38ec0feeb4681163_059f1dda.png)
 
 
 - In line with our previous [weekly](https://www.thesignalgroup.com/weekly-market-monitor/weekly-tanker-market-monitor-week-03-2025) estimate, ballaster counts in AG/India continue to sit in the upper tier (over 110 vessels), while the 7-day moving average shows a 5% week-on-week rise.
 
 
-![Ballasters| Ag/india Supply](../../images/697384ad38ec0feeb4681181_64153fe1.png)
+![Ballasters| Ag/india Supply](../../../../../../corpus/07-signal/images/697384ad38ec0feeb4681181_64153fe1.png)
 
 > **Figure 12: Ballasters| Ag/india Supply**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-tanker-market-monitor-week-04-2026) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/697384ad38ec0feeb4681181_64153fe1.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-tanker-market-monitor-week-04-2026) | [Local Asset](../../../../../../corpus/07-signal/images/697384ad38ec0feeb4681181_64153fe1.png)
 
 
 ## Demand|tonne Days
@@ -152,10 +152,10 @@ Spot [freight](https://app.signalocean.com/tanker/dynamic/market-prices-tankers)
 - Dirty tonne-day growth has softened in recent weeks, pointing to a loss of momentum. Nevertheless, absolute tonne-day levels in 2026 remain notably higher than in prior years, running around 11% above 2025 levels and approximately 3% above 2024, suggesting that demand conditions are still relatively firm despite the recent easing.
 
 
-![Dirty | Decreasing](../../images/697384ad38ec0feeb4681184_c0ec56cc.png)
+![Dirty | Decreasing](../../../../../../corpus/07-signal/images/697384ad38ec0feeb4681184_c0ec56cc.png)
 
 > **Figure 13: Dirty | Decreasing**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-tanker-market-monitor-week-04-2026) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/697384ad38ec0feeb4681184_c0ec56cc.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-tanker-market-monitor-week-04-2026) | [Local Asset](../../../../../../corpus/07-signal/images/697384ad38ec0feeb4681184_c0ec56cc.png)
 
 
 ## Takeaway

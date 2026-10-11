@@ -32,7 +32,7 @@ tags:
 ![65731944811437e7f0c75d42 Oil Flows Signal](../../images/65731944811437e7f0c75d42_oil flows signal.png)
 
 > **Figure 1: 65731944811437e7f0c75d42 Oil Flows Signal**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/tanker-week-49-2023) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/65731944811437e7f0c75d42_oil flows signal.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/tanker-week-49-2023) | [Local Asset](../../../../../../corpus/07-signal/images/65731944811437e7f0c75d42_oil%20flows%20signal.png)
 
 At the beginning of the first week of December, the outlook for crude oil freight rates, especially in the VLCC category, isn't yet stable. In the meantime, there is a strong upturn in the MR-US Gulf in the clean segment. There are signs of an upward trend in the vessel supply with figures above the annual average, which raises concerns about a steady potential weakening of crude oil freight rates. However, the Aframax segment offers a contrasting picture with promising demand growth.
 

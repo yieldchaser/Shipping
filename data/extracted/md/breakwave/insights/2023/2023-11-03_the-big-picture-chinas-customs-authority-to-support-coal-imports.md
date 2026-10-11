@@ -43,10 +43,10 @@ However, the 31 October statement from the GACC now seems to signal that a clamp
 
 This year’s import gains have not been driven by falling domestic production: output at China’s coal mines in January-September was up 3% year-on-year. Moreover, port stockpiles in China were 64.1m tonnes on 18 October, some 10.5m tonnes higher than at the same point last year, McCloskey reports.
 
-![Market Chart 1](assets/2023-11-03_the-big-picture-chinas-customs-authority-to-support-coal-imports_img_image0281529_044f899382ac.png)
+![Market Chart 1](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-11-03_the-big-picture-chinas-customs-authority-to-support-coal-imports_img_image0281529_044f899382ac.png)
 
 > **Figure 1: Market Chart 1**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-11-03_the-big-picture-chinas-customs-authority-to-support-coal-imports_img_image0281529_044f899382ac.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-11-03_the-big-picture-chinas-customs-authority-to-support-coal-imports_img_image0281529_044f899382ac.png)
 
 In the past week domestic coal price cuts have been reported. The reasons may owe to softer demand, with some industrial activity curbed due to a build-up of air pollution. Nonetheless, Q4 power consumption is forecast by the China Electricity Council to rise by at least 7% YoY, from 6.6% in Q3, 6.4% in the Q2 and 3.6% in Q1.
 
@@ -68,10 +68,10 @@ At the start of 2023, the Mongolian government set an export target for the year
 
 Turning to demand, the International Energy Agency (IEA)’s World Energy Outlook 2023 commented last month that, despite the attention the current property crisis attracts, energy demand and heavy industry in China appear “only modestly” affected.
 
-![Market Chart 2](assets/2023-11-03_the-big-picture-chinas-customs-authority-to-support-coal-imports_img_image1281529_d925a02160bf.png)
+![Market Chart 2](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-11-03_the-big-picture-chinas-customs-authority-to-support-coal-imports_img_image1281529_d925a02160bf.png)
 
 > **Figure 2: Market Chart 2**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-11-03_the-big-picture-chinas-customs-authority-to-support-coal-imports_img_image1281529_d925a02160bf.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-11-03_the-big-picture-chinas-customs-authority-to-support-coal-imports_img_image1281529_d925a02160bf.png)
 
 Nonetheless, this is partly because the property crisis is impacting new projects, as opposed to those already under way.
 

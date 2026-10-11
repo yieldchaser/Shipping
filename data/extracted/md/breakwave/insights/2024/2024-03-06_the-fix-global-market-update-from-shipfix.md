@@ -60,10 +60,10 @@ While cargo order volumes surged last week amid strong demand in the Atlantic, t
 
 Beyond order volumes and vessel supply, disruptions to global supply chains, rising geopolitical tensions, and some shifting trade patterns have supported freight rates. Hence, the capesizes should continue to enjoy good, albeit volatile, markets.
 
-![Screenshot 2024 03 06 16.03.18](assets/2024-03-06_the-fix-global-market-update-from-shipfix_img_screenshot2024-03-06160318_9e456b24c5ba.png)
+![Screenshot 2024 03 06 16.03.18](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-03-06_the-fix-global-market-update-from-shipfix_img_screenshot2024-03-06160318_9e456b24c5ba.png)
 
 > **Figure 1: Screenshot 2024 03 06 16.03.18**  
-> **Interactive Data & Source:** [Shipfix](https://shipfix.com/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-03-06_the-fix-global-market-update-from-shipfix_img_screenshot2024-03-06160318_9e456b24c5ba.png)
+> **Interactive Data & Source:** [Shipfix](https://shipfix.com/) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-03-06_the-fix-global-market-update-from-shipfix_img_screenshot2024-03-06160318_9e456b24c5ba.png)
 
 Data Source:[Shipfix](https://shipfix.com/)
 

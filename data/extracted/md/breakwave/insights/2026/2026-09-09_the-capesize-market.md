@@ -20,11 +20,11 @@ source_file: "corpus/03-breakwave/insights/2026/2026-09-09_the-capesize-market.h
 
 ---
 
-![Byeirini Diamantara&dimitris Roumeliotis](assets/2026-09-09_the-capesize-market_img_011_9c8bc7480e15.jpg)
+![Byeirini Diamantara&dimitris Roumeliotis](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-09-09_the-capesize-market_img_011_9c8bc7480e15.jpg)
 
 > **Figure 1: Byeirini Diamantara&dimitris Roumeliotis**  
 > *ByEirini Diamantara&Dimitris Roumeliotis*  
-> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/in/eirini-diamantara-58b269105/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-09-09_the-capesize-market_img_011_9c8bc7480e15.jpg)
+> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/in/eirini-diamantara-58b269105/) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-09-09_the-capesize-market_img_011_9c8bc7480e15.jpg)
 
 The Capesize market has moved into territory not seen for almost five years, with the Baltic Exchange C5TC reaching USD 54,791/day on 4 September 2026. Based on the Baltic historical series, the last time earnings were at a higher level was 21 October 2021, when the index stood at USD 57,374/day, shortly after the extraordinary 2021 rally peaked at almost USD 87,000/day. The current move is therefore more than a short-lived seasonal improvement; it places today’s market alongside one of the strongest freight environments of the post-Covid period.
 

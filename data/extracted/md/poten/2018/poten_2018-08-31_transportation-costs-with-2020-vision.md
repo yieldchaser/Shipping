@@ -28,10 +28,18 @@ From a charterer's perspective, it appears that transporting crude oil and petro
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: Transportation Costs With 2020 Vision](../../../charts/poten/2018/poten_2018-08-31_transportation-costs-with-2020-vision_chart1.png)
+![Exhibit 1: HFO and MGO Bunkers Forward Curve](../../../charts/poten/2018/poten_2018-08-31_transportation-costs-with-2020-vision_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2018/poten_2018-08-31_transportation-costs-with-2020-vision_chart1.png)
+> **Exhibit 1: HFO and MGO Bunkers Forward Curve**  
+> Unit: USD/Ton · X-axis: Aug-18 to Apr-21  
+> Series: Fuel Oil 3.5% FOB Rott Barges, Gasoil 0.1% FOB Rott Barges  
+> *Source: Bloomberg*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2018/poten_2018-08-31_transportation-costs-with-2020-vision_chart1.png)
 
-![Exhibit 2: Transportation Costs With 2020 Vision](../../../charts/poten/2018/poten_2018-08-31_transportation-costs-with-2020-vision_chart2.png)
+![Exhibit 2: 2020 Freight Rates: HFO vs MGO](../../../charts/poten/2018/poten_2018-08-31_transportation-costs-with-2020-vision_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2018/poten_2018-08-31_transportation-costs-with-2020-vision_chart2.png)
+> **Exhibit 2: 2020 Freight Rates: HFO vs MGO**  
+> Unit: USD/Ton · X-axis: TD3 to TC2  
+> Series: HFO, MGO  
+> *Source: Poten*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2018/poten_2018-08-31_transportation-costs-with-2020-vision_chart2.png)

@@ -49,7 +49,7 @@ Rapid expansion of renewable energy infrastructure, displacing thermal power gen
 
 > **Figure 1: Source: Coal Carrying Capesize Tonne-Miles to China From Signal Ocean**  
 > *Source: Coal carrying Capesize tonne-miles to China from Signal Ocean*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/commodity-radar-spotlight-coal) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/693027df0b6d846282b62d41_Screenshot 2025-12-03 at 11.09.12.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/commodity-radar-spotlight-coal) | [Local Asset](../../../../../../corpus/07-signal/images/693027df0b6d846282b62d41_Screenshot%202025-12-03%20at%2011.09.12.png)
 
 China has imported less thermal coal each month, year-over-year, since the start of 2025. The results of which have seen Chinese thermal coal imports down by around 52mt YTD.
 
@@ -62,7 +62,7 @@ This also weighed on total cape demand, which has seen tonne-miles and tonnes-da
 
 > **Figure 2: Source: China Thermal Coal Imports From Signal Ocean**  
 > *Source: China thermal coal imports from Signal Ocean*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/commodity-radar-spotlight-coal) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/693028223ec515c8dcb3f81a_Screenshot 2025-12-03 at 11.09.24.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/commodity-radar-spotlight-coal) | [Local Asset](../../../../../../corpus/07-signal/images/693028223ec515c8dcb3f81a_Screenshot%202025-12-03%20at%2011.09.24.png)
 
 Thermal coal drives Chinese electricity generation, yet the importance of coal has waned as the country has rapidly expanded non-fossil fuel electricity generation. Reports state that China used coal for around 70% of electricity generation in the mid-2000’s but this fell to around 60% in 2023, the latest official number.
 
@@ -77,7 +77,7 @@ Typically, Chinese coal demand increases in the final quarter of the year. This 
 
 > **Figure 3: Source: China Coal Production From the National Bureau of Statistics**  
 > *Source: China coal production from the National Bureau of Statistics*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/commodity-radar-spotlight-coal) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/693027fcae5d884809ae3fec_Screenshot 2025-12-03 at 11.09.31.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/commodity-radar-spotlight-coal) | [Local Asset](../../../../../../corpus/07-signal/images/693027fcae5d884809ae3fec_Screenshot%202025-12-03%20at%2011.09.31.png)
 
 Weaker coal production through the final quarter of 2025, at a time when demand is expected to rise, will draw down domestic stocks of thermal coal. Therefore, if Chinese coal stocks are to be replenished over the next month, we would expect greater coal imports into China. This will likely come from Indonesia, given that 64% of all Chinese coal imports have originated from Indonesia since 2022.
 
@@ -88,7 +88,7 @@ Beyond the end of the year, the first couple of months of 2026 are expected to b
 
 > **Figure 4: Source: Origin Areas of China’s Coal Imports From Signal Ocean**  
 > *Source: Origin areas of China’s coal imports from Signal Ocean*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/commodity-radar-spotlight-coal) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6930284be30065fb745dce50_Screenshot 2025-12-03 at 11.09.54.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/commodity-radar-spotlight-coal) | [Local Asset](../../../../../../corpus/07-signal/images/6930284be30065fb745dce50_Screenshot%202025-12-03%20at%2011.09.54.png)
 
 
 ## Coal Imports Will Keep Falling, But by How Much…

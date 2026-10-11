@@ -26,10 +26,10 @@ source_file: "corpus/03-breakwave/insights/2024/2024-12-24_vlcc-rates-languish-d
 - This is the first time the country’s oil sector has been targeted since September. A period of relative political calm has allowed Libya’s crude exports to recover from a low of 515k b/din September to 1.25m b/d so far in December, according to Vortexa. Before Libya’s civil war in 2011, the country exported around 1.5m b/d.
 - Libya’s crude oil production hit 1.238m b/d in November, according to OPEC. On 5 December, NOC said total production of crude oil and condensates reached 1.422m b/d, its highest for 11 years and above its 2024 production target of 1.4m b/d.
 
-![Market Chart 1](assets/2024-12-24_vlcc-rates-languish-despite-chinese-import-growth-and-a-recent-swing-to-complian_img_image0_d4d3d8bedec8.png)
+![Market Chart 1](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-12-24_vlcc-rates-languish-despite-chinese-import-growth-and-a-recent-swing-to-complian_img_image0_d4d3d8bedec8.png)
 
 > **Figure 1: Market Chart 1**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-12-24_vlcc-rates-languish-despite-chinese-import-growth-and-a-recent-swing-to-complian_img_image0_d4d3d8bedec8.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-12-24_vlcc-rates-languish-despite-chinese-import-growth-and-a-recent-swing-to-complian_img_image0_d4d3d8bedec8.png)
 
 - The 120k b/d Zawia refinery, Libya’s largest functioning refinery, remained shut down after fighting near the facility on Sunday caused a fire which severely damaged storage tanks. The nearby oil export terminal is unaffected. The shutting of the refinery and the damage to its tanks could redirect some crude oil for export.
 
@@ -41,10 +41,10 @@ source_file: "corpus/03-breakwave/insights/2024/2024-12-24_vlcc-rates-languish-d
 
 - Despite gaining market share over the shadow fleet for fuel moves to China, and despite two months of growing Chinese crude imports, VLCC rates have yet to witness a recovery from the lows reached last week.
 
-![Market Chart 2](assets/2024-12-24_vlcc-rates-languish-despite-chinese-import-growth-and-a-recent-swing-to-complian_img_image0_3e8b7e90b1c4.jpg)
+![Market Chart 2](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-12-24_vlcc-rates-languish-despite-chinese-import-growth-and-a-recent-swing-to-complian_img_image0_3e8b7e90b1c4.jpg)
 
 > **Figure 2: Market Chart 2**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-12-24_vlcc-rates-languish-despite-chinese-import-growth-and-a-recent-swing-to-complian_img_image0_3e8b7e90b1c4.jpg)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-12-24_vlcc-rates-languish-despite-chinese-import-growth-and-a-recent-swing-to-complian_img_image0_3e8b7e90b1c4.jpg)
 
 - A narrower price premium of unsanctioned crude relative to Iranian barrels, recovering refining margins, and additional import quotas pushed Chinese crude imports to year-highs in November. At the same time, cost increases relative to compliant grades reduced the appeal of sanctioned grades, meaning more arrived in China on compliant tankers in November and December.
 
@@ -56,10 +56,10 @@ source_file: "corpus/03-breakwave/insights/2024/2024-12-24_vlcc-rates-languish-d
 
 - Mideast Gulf to China VLCC freight (TD3c) sank to its lowest this year last week. TD3c was $17,598/day on 13 December, compared to $36,750/day at that time last year. It recovered slightly to $18,821/day on 18 December with the start of bookings for January-loading in the Mideast Gulf before dipping again on 19 December to $18,726/day.
 
-![Market Chart 3](assets/2024-12-24_vlcc-rates-languish-despite-chinese-import-growth-and-a-recent-swing-to-complian_img_image1_9707fa8649e1.png)
+![Market Chart 3](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-12-24_vlcc-rates-languish-despite-chinese-import-growth-and-a-recent-swing-to-complian_img_image1_9707fa8649e1.png)
 
 > **Figure 3: Market Chart 3**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-12-24_vlcc-rates-languish-despite-chinese-import-growth-and-a-recent-swing-to-complian_img_image1_9707fa8649e1.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-12-24_vlcc-rates-languish-despite-chinese-import-growth-and-a-recent-swing-to-complian_img_image1_9707fa8649e1.png)
 
 - This is likely to continue next year as Chinese refiners, battered by thin margins and a faltering economy, continue to be increasingly price-sensitive. China’s economy is showing some signs of improvement. Factory activity expanded at the fastest pace in five months in November. If Beijing keeps injecting stimulus, the recovery is likely to continue. Rapid adoption of electric vehicles is cutting gasoline consumption and diesel demand is also weaker, having been hit by the switch to trucks powered by LNG. Much of November and December’s surge appears to have gone into storage with crude processing rates subdued in November. Tighter supply lifts the cost of the barrels, making them less attractive relative to other grades for price-sensitive Chinese buyers. Iranian Light was trading at a $2/bl discount to Brent, the highest discount over two years, partly due to higher risk premiums on sanctioned tankers.
 

@@ -24,10 +24,10 @@ Energy fell as geopolitical risks lessened. Industrial metals found support amid
 
 *By*[*Daniel Hynes*](https://www.linkedin.com/in/dahynes/)
 
-![Στιγμιότυπο Οθόνης 2025 12 16 113707](assets/2025-12-16_oil-falls-as-ukrainian-peace-talks-progress_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_256dd91c4909.png)
+![Στιγμιότυπο Οθόνης 2025 12 16 113707](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-12-16_oil-falls-as-ukrainian-peace-talks-progress_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_256dd91c4909.png)
 
 > **Figure 1: Στιγμιότυπο Οθόνης 2025 12 16 113707**  
-> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-12-16_oil-falls-as-ukrainian-peace-talks-progress_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_256dd91c4909.png)
+> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-12-16_oil-falls-as-ukrainian-peace-talks-progress_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_256dd91c4909.png)
 
 ### Market Commentary
 
@@ -45,10 +45,10 @@ Energy fell as geopolitical risks lessened. Industrial metals found support amid
 
 Jewellery demand is sensitive to price, making it the weakest link for gold. With prices expected to continue rising in 2026, we expect jewellery demand will remain under pressure. However, a moderate increase in prices may provide some relief, with the decline easing to 5% year-on-year, reaching 1,500t in 2026.
 
-![Στιγμιότυπο Οθόνης 2025 12 16 113805](assets/2025-12-16_oil-falls-as-ukrainian-peace-talks-progress_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_9843e17b0d5a.png)
+![Στιγμιότυπο Οθόνης 2025 12 16 113805](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-12-16_oil-falls-as-ukrainian-peace-talks-progress_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_9843e17b0d5a.png)
 
 > **Figure 2: Στιγμιότυπο Οθόνης 2025 12 16 113805**  
-> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-12-16_oil-falls-as-ukrainian-peace-talks-progress_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_9843e17b0d5a.png)
+> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-12-16_oil-falls-as-ukrainian-peace-talks-progress_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_9843e17b0d5a.png)
 
 Data source:[Commodities Wrap](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI)
 

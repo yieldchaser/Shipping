@@ -23,11 +23,11 @@ source_file: "corpus/03-breakwave/insights/2023/2023-06-21_sentiment-weak-as-chi
 
 Disappointment over Chinese stimulus measures continued to hover over markets. A stronger USD also weighed on investor appetite.
 
-![Data Source:commodities Wrap](assets/2023-06-21_sentiment-weak-as-chinese-rate-cuts-fall-below-expectations_img_1687299519524_b3e9acef991f.png)
+![Data Source:commodities Wrap](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-06-21_sentiment-weak-as-chinese-rate-cuts-fall-below-expectations_img_1687299519524_b3e9acef991f.png)
 
 > **Figure 1: Data Source:commodities Wrap**  
 > *Data source:Commodities Wrap*  
-> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-06-21_sentiment-weak-as-chinese-rate-cuts-fall-below-expectations_img_1687299519524_b3e9acef991f.png)
+> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-06-21_sentiment-weak-as-chinese-rate-cuts-fall-below-expectations_img_1687299519524_b3e9acef991f.png)
 
 Crude oil fell amid a broader risk-off tone across markets. Investors remained impatient with China’s efforts to boost economic growth. Chinese banks reduced their benchmark lending rates, with a one-year prime loan falling by 10bp and the five-year rate cut by the same magnitude. However, Beijing’s slow stimulus rollout is adding concerns about the weakening economy. This is despite signs of a tighter physical market in Asia in recent days. There has been an uptick in oil purchases by Chinese refiners as spot prices for some lighter Abu Dhabi grades rising. In addition, the premium of Oman futures to Dubai swaps hit a three-week high. Outside of Asia, the much-anticipated rebound in air travel is spluttering. Europe’s return to the skies is being hampered by a shortage of pilots and air traffic controllers. In the US, jet fuel use remains below pre-pandemic levels.
 

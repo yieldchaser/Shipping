@@ -34,10 +34,17 @@ It is impossible to predict all the changes in trade flows resulting from a pote
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: Lets Try That Again](../../../charts/poten/2026/poten_2026-05-22_lets-try-that-again_chart1.png)
+![Exhibit 1: Crude & Condensate Exports From Vancouver By Destination](../../../charts/poten/2026/poten_2026-05-22_lets-try-that-again_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2026/poten_2026-05-22_lets-try-that-again_chart1.png)
+> **Exhibit 1: Crude & Condensate Exports From Vancouver By Destination**  
+> Unit: Kb/d · X-axis: Jan-20 to Apr-26  
+> Series: United States, China, South Korea, India, Thailand, Japan, Other  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2026/poten_2026-05-22_lets-try-that-again_chart1.png)
 
-![Exhibit 2: Lets Try That Again](../../../charts/poten/2026/poten_2026-05-22_lets-try-that-again_chart2.png)
+![Exhibit 2: US Crude Imports from Canada by Import PADD](../../../charts/poten/2026/poten_2026-05-22_lets-try-that-again_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2026/poten_2026-05-22_lets-try-that-again_chart2.png)
+> **Exhibit 2: US Crude Imports from Canada by Import PADD**  
+> Unit: Kb/d · X-axis: Jan-16 to Jan-26  
+> Series: PADD1 (East Coast), PADD2 (Midwest), PADD3 (Gulf Coast), PADD4 (Rocky Mountain), PADD5 (West Coast)  
+> *Source: Vortexa; EIA*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2026/poten_2026-05-22_lets-try-that-again_chart2.png)

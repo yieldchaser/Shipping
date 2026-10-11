@@ -30,10 +30,18 @@ At first glance, the addition of the Iranian fleet would counter the removal of 
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: Deal Or No Deal 3](../../../charts/poten/2022/poten_2022-02-18_deal-or-no-deal-3_chart1.png)
+![Exhibit 1: Identifiable Crude Exports from Iran By Destination](../../../charts/poten/2022/poten_2022-02-18_deal-or-no-deal-3_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2022/poten_2022-02-18_deal-or-no-deal-3_chart1.png)
+> **Exhibit 1: Identifiable Crude Exports from Iran By Destination**  
+> Unit: Kbbl / Day · X-axis: Jan-16 to Oct-21  
+> Series: China, Japan, Korea, India, Oth. Asia, Mediterranean, UKC/Baltic, Other  
+> *Source: Lloyd’s List Intelligence*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2022/poten_2022-02-18_deal-or-no-deal-3_chart1.png)
 
-![Exhibit 2: Deal Or No Deal 3](../../../charts/poten/2022/poten_2022-02-18_deal-or-no-deal-3_chart2.png)
+![Exhibit 2: Iranian & Rogue Tanker Fleets](../../../charts/poten/2022/poten_2022-02-18_deal-or-no-deal-3_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2022/poten_2022-02-18_deal-or-no-deal-3_chart2.png)
+> **Exhibit 2: Iranian & Rogue Tanker Fleets**  
+> Unit: Vessels · X-axis: VLCC to MR&Handy  
+> Series: Rogue Fleet, Iranian Fleet  
+> *Source: Lloyd’s List Intelligence; United Against Nuclear Iran*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2022/poten_2022-02-18_deal-or-no-deal-3_chart2.png)

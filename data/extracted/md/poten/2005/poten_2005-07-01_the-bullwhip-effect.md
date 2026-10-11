@@ -64,6 +64,20 @@ From 2002 through 2004, 51% of all fixtures were Caribs upcoast. So far in 2005,
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: The Bullwhip Effect](../../../charts/poten/2005/poten_2005-07-01_the-bullwhip-effect_chart1.png)
+> **Chart on PDF page 1: Spot WS Rates UKC/Caribs to USA Handymax Tankers**  
+> Unit: WS Rate · X-axis: 4/1 to 6/22  
+> Series: UKC-USAC, CARIB -USA  
+> *Source: Poten & Partners*  
+> *No image crop of this chart was saved; caption read from the PDF.*
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2005/poten_2005-07-01_the-bullwhip-effect_chart1.png)
+> **Chart on PDF page 2: Spot Fixture Activity Clean Cargoes**  
+> Unit: # Fixtures · X-axis: 4/8 to 7/1  
+> Series: Caribs, Transatlantic  
+> *Source: Poten & Partners*  
+> *No image crop of this chart was saved; caption read from the PDF.*
+
+> **Chart on PDF page 3: Spot Fixture Activity to U.S. Clean Cargoes**  
+> Unit: # Fixtures · X-axis: Jan-02 to Jan-05  
+> Series: Transatlantic, Caribs  
+> *Source: Poten & Partners*  
+> *No image crop of this chart was saved; caption read from the PDF.*

@@ -28,10 +28,17 @@ The current infrastructure challenges facing Bakken producers will lead to price
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: Mission Impossible](../../../charts/poten/2020/poten_2020-07-10_mission-impossible_chart1.png)
+![Exhibit 1: Bakken Crude Oil Production](../../../charts/poten/2020/poten_2020-07-10_mission-impossible_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2020/poten_2020-07-10_mission-impossible_chart1.png)
+> **Exhibit 1: Bakken Crude Oil Production**  
+> Unit: Mb/d · X-axis: Jan-15 to Jan-20  
+> Series: Bakken Crude Oil Production  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2020/poten_2020-07-10_mission-impossible_chart1.png)
 
-![Exhibit 2: Mission Impossible](../../../charts/poten/2020/poten_2020-07-10_mission-impossible_chart2.png)
+![Exhibit 2: Crude Exports By Rail From PADD2 (Midwest)](../../../charts/poten/2020/poten_2020-07-10_mission-impossible_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2020/poten_2020-07-10_mission-impossible_chart2.png)
+> **Exhibit 2: Crude Exports By Rail From PADD2 (Midwest)**  
+> Unit: Kb/d · X-axis: Jan-15 to Apr-20  
+> Series: PADD1 (EC), PADD3 (USG), PADD5 (WC)  
+> *Source: EIA*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2020/poten_2020-07-10_mission-impossible_chart2.png)

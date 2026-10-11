@@ -36,4 +36,4 @@ Worldscale has not reached a definitive agreement on whether, how and when to ma
 
 ![Exhibit 1: Worldscales Not So Flat Rates](../../../charts/poten/2018/poten_2018-11-30_worldscales-not-so-flat-rates_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2018/poten_2018-11-30_worldscales-not-so-flat-rates_chart1.png)
+> **Interactive Asset:** [Local Asset (200 DPI PNG)](../../../charts/poten/2018/poten_2018-11-30_worldscales-not-so-flat-rates_chart1.png)

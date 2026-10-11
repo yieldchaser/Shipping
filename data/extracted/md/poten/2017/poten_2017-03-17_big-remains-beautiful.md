@@ -36,4 +36,4 @@ All this growth in ton-mile demand has not translated into higher rates for VLCC
 
 ![Exhibit 1: Big Remains Beautiful](../../../charts/poten/2017/poten_2017-03-17_big-remains-beautiful_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2017/poten_2017-03-17_big-remains-beautiful_chart1.png)
+> **Interactive Asset:** [Local Asset (200 DPI PNG)](../../../charts/poten/2017/poten_2017-03-17_big-remains-beautiful_chart1.png)

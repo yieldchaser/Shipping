@@ -23,10 +23,10 @@ With just over 5 weeks to go until the European Union’s ban on Russian crude o
 
 If the price cap fails to materialize, EU shipping companies might be allowed to continue transporting Russian crude to third countries, as has been the case with Russian coal exports following clarification after the EU’s August embargo. Nevertheless, price cap or not, the volumes of Russian crude which can be legitimately transported without falling fowl of EU, US, or UK sanctions (if G7 services are used) is expected to be below today’s volumes. Shipping companies will therefore have to choose their side. The balance of tonnage in both the Russian and non-Russian trading fleets will be critical for the strength of the mainstream crude markets. Ahead of December 5th, it is expected that many companies trading with Russia will pull back to ensure all Russian cargoes on board have been discharged by the deadline and migrate back into non-Russian trade.
 
-![Screenshot 20221101 150410 Samsung Notes](assets/2022-11-01_gibsons-weekly-tanker-market-report_img_screenshot-20221101-150410-samsungno_95c28436515c.jpg)
+![Screenshot 20221101 150410 Samsung Notes](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-11-01_gibsons-weekly-tanker-market-report_img_screenshot-20221101-150410-samsungno_95c28436515c.jpg)
 
 > **Figure 1: Screenshot 20221101 150410 Samsung Notes**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-11-01_gibsons-weekly-tanker-market-report_img_screenshot-20221101-150410-samsungno_95c28436515c.jpg)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-11-01_gibsons-weekly-tanker-market-report_img_screenshot-20221101-150410-samsungno_95c28436515c.jpg)
 
 Our analysis shows that in the last 6 months, 366 Afra/LR2 and Suezmax tankers have been observed loading in Russian ports (excluding CPC), with more than 55% of those vessels controlled from EU, G7 or allied countries. Of those 366 vessels, 37 have been involved in ownership changes this year, with further analysis of their current ownership suggesting they will largely remain in Russian trade. However, with over 200 vessels leaving Russian trade, it is reasonable to assume that there might be insufficient tonnage to transport Russian oil to market, particularly given that those barrels currently traded to Europe will have to be redirected longer haul.
 

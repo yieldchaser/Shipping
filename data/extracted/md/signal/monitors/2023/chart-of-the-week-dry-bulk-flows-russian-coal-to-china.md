@@ -32,7 +32,7 @@ tags:
 
 > **Figure 1: Data Source: The Signal Ocean Platform, Dry Bulk Demand & Flows Https://app.signalocean.com/dry/reports/ton-Charts-Dry - Dynamic/drybulkflows**  
 > *Data Source: The Signal Ocean Platform, Dry Bulk Demand & Flows https://app.signalocean.com/dry/reports/ton-charts-dry - dynamic/drybulkflows*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/chart-of-the-week-dry-bulk-flows-russian-coal-to-china) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/644239ed8c1b681d172a249f_chart of the week logo.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/chart-of-the-week-dry-bulk-flows-russian-coal-to-china) | [Local Asset](../../../../../../corpus/07-signal/images/644239ed8c1b681d172a249f_chart%20of%20the%20week%20logo.png)
 
 In the third week of April, there is still more momentum in the larger vessel categories, with Russian coal flows to China leading to an increase in ton-miles to higher levels than in the previous two years. As can be seen in the chart above using Signal Ocean data, the volume of Russian coal flows to China in March 2023 is up 170% compared to a similar period last year, while the coming trend appears to be fuelling optimism for stronger Chinese coal demand from the Russian Pacific. Meanwhile, the grain segment is filled with Ukrainian doubts about the future of the Black Sea grain trade with Russia, which seems to be blocking the inspection of ships.
 

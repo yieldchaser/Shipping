@@ -36,10 +36,18 @@ The situation in the Western countries remains dire with a second wave of Covid-
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: Navigating An Uneven Recovery](../../../charts/poten/2020/poten_2020-10-23_navigating-an-uneven-recovery_chart1.png)
+![Exhibit 1: Clean Tanker Freight Rates (2020)](../../../charts/poten/2020/poten_2020-10-23_navigating-an-uneven-recovery_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2020/poten_2020-10-23_navigating-an-uneven-recovery_chart1.png)
+> **Exhibit 1: Clean Tanker Freight Rates (2020)**  
+> Unit: TCE · X-axis: 3-Jan to 3-Oct  
+> Series: LR2: AG-Jpn (75Kt), LR1: AG-Jpn (55Kt), MR: UKC-USAC (37Kt), Handy: S'pore-Jpn (30Kt)  
+> *Source: Poten & Partners*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2020/poten_2020-10-23_navigating-an-uneven-recovery_chart1.png)
 
-![Exhibit 2: Navigating An Uneven Recovery](../../../charts/poten/2020/poten_2020-10-23_navigating-an-uneven-recovery_chart2.png)
+![Exhibit 2: Total Number of Commercial Flights (Tracked by FlightRadar24)](../../../charts/poten/2020/poten_2020-10-23_navigating-an-uneven-recovery_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2020/poten_2020-10-23_navigating-an-uneven-recovery_chart2.png)
+> **Exhibit 2: Total Number of Commercial Flights (Tracked by FlightRadar24)**  
+> Unit: Number of flights | % · X-axis: 01-Jan-20 to 01-Oct-20  
+> Series: Number of flights, 7-day moving average, 7 Day Avg % Compared to 2019  
+> *Source: FlightRadar24*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2020/poten_2020-10-23_navigating-an-uneven-recovery_chart2.png)

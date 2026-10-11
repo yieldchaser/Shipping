@@ -20,10 +20,10 @@ source_file: "corpus/03-breakwave/insights/2025/2025-08-03_choosing-a-side.html"
 
 ---
 
-![242](assets/2025-08-03_choosing-a-side_img_242_2b501372fef3.jpg)
+![242](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-08-03_choosing-a-side_img_242_2b501372fef3.jpg)
 
 > **Figure 1: 242**  
-> **Interactive Data & Source:** [Gibsons Co](https://www.gibsons.co.uk/market-reports) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-08-03_choosing-a-side_img_242_2b501372fef3.jpg)
+> **Interactive Data & Source:** [Gibsons Co](https://www.gibsons.co.uk/market-reports) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-08-03_choosing-a-side_img_242_2b501372fef3.jpg)
 
 Throughout the war in Ukraine, key buyers of Russian commodities such as India, China, Turkey and Brazil have managed to walk a tightrope between the US, EU and Russia. These countries have benefitted from discounted Russian energy and undisrupted trade to the US and EU over the past three years. However, now that dynamic is changing. The EU recently finalised its 18th sanctions package, which subject to final details, will bar the import of refined products made from Russian oil from 2026 onwards and now President Trump is also upping the pressure.
 
@@ -37,10 +37,10 @@ India, which also remains bogged down in trade negotiations with the US, is poss
 
 Given the scale of Russian exports, the diversity of buyers on the products side and strong footholds gained in China and India, it is difficult to envisage a collapse in Russian exports to these countries. However, if Trump is committed to ending the war and follows through on his “secondary” tariff plan, then renewed volatility in the tanker market can be expected until a new status quo is found.
 
-![241](assets/2025-08-03_choosing-a-side_img_241_6622b8d24bba.png)
+![241](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-08-03_choosing-a-side_img_241_6622b8d24bba.png)
 
 > **Figure 2: 241**  
-> **Interactive Data & Source:** [Gibsons Co](https://www.gibsons.co.uk/market-reports) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-08-03_choosing-a-side_img_241_6622b8d24bba.png)
+> **Interactive Data & Source:** [Gibsons Co](https://www.gibsons.co.uk/market-reports) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-08-03_choosing-a-side_img_241_6622b8d24bba.png)
 
 Data source:[Gibson Shipbrokers](https://www.gibsons.co.uk/market-reports)
 

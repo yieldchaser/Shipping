@@ -32,10 +32,18 @@ This sets us up for a potentially volatile product tanker market over the winter
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: A Dearth Of Diesel](../../../charts/poten/2023/poten_2023-10-13_a-dearth-of-diesel_chart1.png)
+![Exhibit 1: Europe (excl Turkey) Diesel/Gasoil Imports By Origin](../../../charts/poten/2023/poten_2023-10-13_a-dearth-of-diesel_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2023/poten_2023-10-13_a-dearth-of-diesel_chart1.png)
+> **Exhibit 1: Europe (excl Turkey) Diesel/Gasoil Imports By Origin**  
+> Unit: Kb/d · X-axis: Jan-20 to Sep-23  
+> Series: Russia, Saudi Arabia, India, United States, Turkey, United Arab Emirates, Qatar, Egypt, Other  
+> *Source: Vortexa*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2023/poten_2023-10-13_a-dearth-of-diesel_chart1.png)
 
-![Exhibit 2: A Dearth Of Diesel](../../../charts/poten/2023/poten_2023-10-13_a-dearth-of-diesel_chart2.png)
+![Exhibit 2: OECD Europe Diesel/Gasoil Inventory Levels](../../../charts/poten/2023/poten_2023-10-13_a-dearth-of-diesel_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2023/poten_2023-10-13_a-dearth-of-diesel_chart2.png)
+> **Exhibit 2: OECD Europe Diesel/Gasoil Inventory Levels**  
+> Unit: Mln Barrels · X-axis: Jan to Dec  
+> Series: Inventory 2017-2021, Avg 2017-2021, Inv. 2022, Inv. 2023  
+> *Source: IEA*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2023/poten_2023-10-13_a-dearth-of-diesel_chart2.png)

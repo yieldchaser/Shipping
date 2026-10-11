@@ -28,10 +28,10 @@ Although no explicit production targets for Chinese steel mills in 2024 have bee
 
 Thanks in part to December’s monthly dive of 11%, as reported by the National Bureau of Statistics, annual output was broadly flat in 2023.
 
-![Market Chart 1](assets/2024-04-05_the-big-picture-chinas-steel-sector-and-export-outlook_img_image1_26494b16b772.png)
+![Market Chart 1](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-04-05_the-big-picture-chinas-steel-sector-and-export-outlook_img_image1_26494b16b772.png)
 
 > **Figure 1: Market Chart 1**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-04-05_the-big-picture-chinas-steel-sector-and-export-outlook_img_image1_26494b16b772.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-04-05_the-big-picture-chinas-steel-sector-and-export-outlook_img_image1_26494b16b772.png)
 
 However, after allowing for net export growth, last year’s apparent steel demand slid by -2.1%, a figure more reflective of the domestic demand picture.
 
@@ -41,10 +41,10 @@ This has led to comments within the steel industry that**China has been “expor
 
 The result is displayed in the chart below, a jump in steel product exports to 91m tonnes, supported by substantial growth into**key export markets of South East Asia and the Middle East/North Africa**.
 
-![Market Chart 2](assets/2024-04-05_the-big-picture-chinas-steel-sector-and-export-outlook_img_image0_41320d647f21.png)
+![Market Chart 2](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-04-05_the-big-picture-chinas-steel-sector-and-export-outlook_img_image0_41320d647f21.png)
 
 > **Figure 2: Market Chart 2**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-04-05_the-big-picture-chinas-steel-sector-and-export-outlook_img_image0_41320d647f21.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-04-05_the-big-picture-chinas-steel-sector-and-export-outlook_img_image0_41320d647f21.png)
 
 This was achieved, in some respects,**at the expense of other steel producers**.
 
@@ -54,10 +54,10 @@ Indeed, last year’s increase from China was particularly eye-catching given th
 
 Using customs data as a basis, a steep drop in steel exports was apparent from Russia (owing to the impact from sanctions) and**Turkey**(where domestic demand has leapt owing to post-earthquake reconstruction), alongside milder declines from**Brazil**and.
 
-![Taiwan](assets/2024-04-05_the-big-picture-chinas-steel-sector-and-export-outlook_img_image2_a2650a2f5f8b.png)
+![Taiwan](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-04-05_the-big-picture-chinas-steel-sector-and-export-outlook_img_image2_a2650a2f5f8b.png)
 
 > **Figure 3: Taiwan**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-04-05_the-big-picture-chinas-steel-sector-and-export-outlook_img_image2_a2650a2f5f8b.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-04-05_the-big-picture-chinas-steel-sector-and-export-outlook_img_image2_a2650a2f5f8b.png)
 
 The chart above shows last year’s annual growth in steel exports by destination. South East Asia and MENA countries predominate, but gains were in evidence to a wide range of countries.
 
@@ -73,10 +73,10 @@ Three Asian countries, accounting for 3.0m tonnes, recorded annual all-time high
 
 India remains a leading destination for Chinese metcoke with 1.3m tonnes, but sources from a range of countries, including Poland.
 
-![Market Chart 4](assets/2024-04-05_the-big-picture-chinas-steel-sector-and-export-outlook_img_image3_efa9a4360e97.png)
+![Market Chart 4](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-04-05_the-big-picture-chinas-steel-sector-and-export-outlook_img_image3_efa9a4360e97.png)
 
 > **Figure 4: Market Chart 4**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-04-05_the-big-picture-chinas-steel-sector-and-export-outlook_img_image3_efa9a4360e97.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-04-05_the-big-picture-chinas-steel-sector-and-export-outlook_img_image3_efa9a4360e97.png)
 
 ---
 

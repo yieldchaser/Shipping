@@ -18,13 +18,15 @@ charts_count: 2
 
 ### Running Out Of Gas (and Diesel)
 
-The new Mexican president Andres Manuel Lopez Obrador (AMLO) was inaugurated on December 1st 2018. He vowed to make "profound and radical" changes in Mexico with a particular focus to end corruption. AMLO did just that earlier this month when he cracked down on rampant fuel theft in the country by closing off pipelines which are subject to illegal taps. While this may have reduced the fuel theft, it also created widespread fuel shortages and long lines at gas stations as well as congestion at some of the main import terminals in Mexico. Since Mexico imports significantly more fuel than it produces, any hiccups in the flow of refined products immediately has an impact on the Caribbean product tanker market. The vast majority of all the refined product imports into Mexico come from the United States and since there are no cross-border product pipelines between the U.S. and Mexico, most of these volumes are transported in product tankers (mostly MRs). While there are some discharge delays in Mexico, the situation is not (yet) significantly worse than normal as Mexican ports frequently face interruptions because of saturated storage capacity as well as weather delays. Since the crackdown started in early January, rates have softened. It is unclear whether this reflects the impact of the fuel theft crackdown or a seasonal pattern that happens every year (as reflected in [Chart 1](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2019/poten_2019-01-18_the-mexican-fuel-shortage_chart1.png)). The expectation is that the freight market will normalize when the regular product flows resume or as soon as the national oil company, PEMEX figures out alternative ways to distribute fuels around the affected pipelines.
+The new Mexican president Andres Manuel Lopez Obrador (AMLO) was inaugurated on December 1st 2018. He vowed to make "profound and radical" changes in Mexico with a particular focus to end corruption. AMLO did just that earlier this month when he cracked down on rampant fuel theft in the country by closing off pipelines which are subject to illegal taps. While this may have reduced the fuel theft, it also created widespread fuel shortages and long lines at gas stations as well as congestion at some of the main import terminals in Mexico. Since Mexico imports significantly more fuel than it produces, any hiccups in the flow of refined products immediately has an impact on the Caribbean product tanker market. The vast majority of all the refined product imports into Mexico come from the United States and since there are no cross-border product pipelines between the U.S. and Mexico, most of these volumes are transported in product tankers (mostly MRs). While there are some discharge delays in Mexico, the situation is not (yet) significantly worse than normal as Mexican ports frequently face interruptions because of saturated storage capacity as well as weather delays. Since the crackdown started in early January, rates have softened. It is unclear whether this reflects the impact of the fuel theft crackdown or a seasonal pattern that happens every year (as reflected in [Chart 1](../../../charts/poten/2019/poten_2019-01-18_the-mexican-fuel-shortage_chart1.png)). The expectation is that the freight market will normalize when the regular product flows resume or as soon as the national oil company, PEMEX figures out alternative ways to distribute fuels around the affected pipelines.
 
-> **Exhibit 1: The Mexican Fuel Shortage (Chart 1)**  
+> **Exhibit 1: MR: USG - EC Mexico Freight Rates**  
+> Unit: Lumpsum · X-axis: 1 to 51  
+> Series: 2019, 2018, 2017, 2016  
 > *Source: Poten & Partners*  
-> **Interactive Data & Source:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2019/poten_2019-01-18_the-mexican-fuel-shortage_chart1.png)
+> [Chart image (200 DPI PNG)](../../../charts/poten/2019/poten_2019-01-18_the-mexican-fuel-shortage_chart1.png)
 
-![Exhibit 1: The Mexican Fuel Shortage](../../../charts/poten/2019/poten_2019-01-18_the-mexican-fuel-shortage_chart1.png)
+![Exhibit 1: MR: USG - EC Mexico Freight Rates](../../../charts/poten/2019/poten_2019-01-18_the-mexican-fuel-shortage_chart1.png)
 
 AMLO has ambitious targets for Mexico. He wants to make significant changes to the energy industry and reverse some of the free-market energy reforms of his predecessors. His aim is to make Mexico self-sufficient in fuel production and at the same time lower prices. A new refinery is planned at the port of Dos Bocas in the southeast of the country to help reverse the decline in domestic fuel production. This proposed 340,000 b/d facility is expected to cost 6-8 billion U.S. dollars and should be finished within three years. The president also plans to invest billions in upgrading Mexico's six existing refineries. Improvements are clearly needed since only one of the six existing refineries operates at more than 50% of its nameplate capacity. Three facilities are running at significantly lower utilization rates, while the other two refineries are not running at all. Against this backdrop, most energy analysts think that AMLO's plans are very ambitious and their timeline is unrealistic.
 
@@ -36,6 +38,10 @@ Short term factors such as weather and the current crackdown on fuel theft will 
 
 ## Market Exhibits & Charts
 
-![Exhibit 2: The Mexican Fuel Shortage](../../../charts/poten/2019/poten_2019-01-18_the-mexican-fuel-shortage_chart2.png)
+![Exhibit 2: US Product Exports to Mexico](../../../charts/poten/2019/poten_2019-01-18_the-mexican-fuel-shortage_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2019/poten_2019-01-18_the-mexican-fuel-shortage_chart2.png)
+> **Exhibit 2: US Product Exports to Mexico**  
+> Unit: Kb/d · X-axis: Jan-2010 to Sep-2018  
+> Series: Gasoline, Distillates, Kerosene, Other  
+> *Source: EIA*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2019/poten_2019-01-18_the-mexican-fuel-shortage_chart2.png)

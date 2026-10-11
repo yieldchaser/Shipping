@@ -30,10 +30,18 @@ For Australasia, the conflict in Ukraine and the related geopolitical tension ha
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: Changing Tanker Trades Down Under](../../../charts/poten/2022/poten_2022-09-16_changing-tanker-trades-down-under_chart1.png)
+![Exhibit 1: Crude Oil Import Volumes Into Australia & New Zealand](../../../charts/poten/2022/poten_2022-09-16_changing-tanker-trades-down-under_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2022/poten_2022-09-16_changing-tanker-trades-down-under_chart1.png)
+> **Exhibit 1: Crude Oil Import Volumes Into Australia & New Zealand**  
+> Unit: Kbbl/Day · X-axis: Jan-17 to Jul-22  
+> Series: Malaysia, Brunai, Australia, Oth. Asia, UAE, Oth. Middle East, US Gulf, Med, Other  
+> *Source: Lloyd’s List Intelligence*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2022/poten_2022-09-16_changing-tanker-trades-down-under_chart1.png)
 
-![Exhibit 2: Changing Tanker Trades Down Under](../../../charts/poten/2022/poten_2022-09-16_changing-tanker-trades-down-under_chart2.png)
+![Exhibit 2: Petroleum Product Imports By Australia & New Zealand](../../../charts/poten/2022/poten_2022-09-16_changing-tanker-trades-down-under_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2022/poten_2022-09-16_changing-tanker-trades-down-under_chart2.png)
+> **Exhibit 2: Petroleum Product Imports By Australia & New Zealand**  
+> Unit: Kbbl/Day · X-axis: Jan-17 to Apr-22  
+> Series: Gasoline, Gasoil/Diesel, Kerosene  
+> *Source: JODI*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2022/poten_2022-09-16_changing-tanker-trades-down-under_chart2.png)

@@ -32,7 +32,7 @@ tags:
 
 > **Figure 1: Data Source: The Signal Ocean Platform Data**  
 > *Data Source: The Signal Ocean Platform Data*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/dry-week-39-2023) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6513ddb45a9fbc005348d07e_COAL INDIA.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/dry-week-39-2023) | [Local Asset](../../../../../../corpus/07-signal/images/6513ddb45a9fbc005348d07e_COAL%20INDIA.png)
 
 Throughout the last week of September, freight rates maintaining the strength observed in previous days. It appears that the third quarter will conclude with higher freight rates than those witnessed in the preceding two months. Notable increases were seen on a monthly basis in the freight market for large vessel sizes, particularly in the Capesize West Australia to China route and the Panamax Far East RV. There was also a robust sentiment in the Supramax category for the Continent-USG route, while the Handysize segment saw positive developments in the Continent-Brazil route.
 

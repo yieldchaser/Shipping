@@ -28,10 +28,18 @@ Long-term demand fundamentals, including a growing population and developing mid
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: INDIA, THE NEW ASIAN TIGER](../../../charts/poten/2014/poten_2014-09-26_india-the-new-asian-tiger_chart1.png)
+![Exhibit 1: Oil Consumption per Capita](../../../charts/poten/2014/poten_2014-09-26_india-the-new-asian-tiger_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2014/poten_2014-09-26_india-the-new-asian-tiger_chart1.png)
+> **Exhibit 1: Oil Consumption per Capita**  
+> Unit: Bbl/yr/Capita · X-axis: India to S Korea  
+> Series: India, China, Brazil, Germany, S Korea  
+> *Source: BP / Poten*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2014/poten_2014-09-26_india-the-new-asian-tiger_chart1.png)
 
-![Exhibit 2: INDIA, THE NEW ASIAN TIGER](../../../charts/poten/2014/poten_2014-09-26_india-the-new-asian-tiger_chart2.png)
+![Exhibit 2: Indian crude and products trade](../../../charts/poten/2014/poten_2014-09-26_india-the-new-asian-tiger_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2014/poten_2014-09-26_india-the-new-asian-tiger_chart2.png)
+> **Exhibit 2: Indian crude and products trade**  
+> Unit: Bbl/day (x1,000) · X-axis: 2008 to 2013  
+> Series: Crude Imports, Product Exports, Product Imports  
+> *Source: BP Statistical Review*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2014/poten_2014-09-26_india-the-new-asian-tiger_chart2.png)

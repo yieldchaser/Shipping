@@ -45,10 +45,10 @@ Meanwhile, Chinese teapots' interest in WAFR grades has resurfaced after a hiatu
 
 ➔ The lower parcelling requirements of teapots make Suezmax tankers a more practical and efficient option for these shipments
 
-![Στιγμιότυπο Οθόνης 2024 11 28 162113](assets/2024-11-28_suezmaxes-seek-alternate-routes-as-european-crude-demand-is-limited_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_3a7c4a08bb33.png)
+![Στιγμιότυπο Οθόνης 2024 11 28 162113](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-11-28_suezmaxes-seek-alternate-routes-as-european-crude-demand-is-limited_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_3a7c4a08bb33.png)
 
 > **Figure 1: Στιγμιότυπο Οθόνης 2024 11 28 162113**  
-> **Interactive Data & Source:** [Vortexa](https://www.vortexa.com//oil-gas-data-traders-analysts-data-scientists?gclid=Cj0KCQjw8_qRBhCXARIsAE2AtRZKOvMnbilZ_6_91d7huSFFy71pWLrnPwGwOHVzXsmsG-1a1mZnQw8aAt89EALw_wcB&hsa_acc=1782073842&hsa_ad=548425387665&hsa_cam=14746637662&hsa_grp=125038601902&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_src=g&hsa_tgt=dsa-1431852288425&hsa_ver=3&utm_campaign=%5BCD%5D%20-%20DSA%20-%20EMEA&utm_medium=cpc&utm_medium=ppc&utm_source=google&utm_source=adwords&utm_term=) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-11-28_suezmaxes-seek-alternate-routes-as-european-crude-demand-is-limited_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_3a7c4a08bb33.png)
+> **Interactive Data & Source:** [Vortexa](https://www.vortexa.com//oil-gas-data-traders-analysts-data-scientists?gclid=Cj0KCQjw8_qRBhCXARIsAE2AtRZKOvMnbilZ_6_91d7huSFFy71pWLrnPwGwOHVzXsmsG-1a1mZnQw8aAt89EALw_wcB&hsa_acc=1782073842&hsa_ad=548425387665&hsa_cam=14746637662&hsa_grp=125038601902&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_src=g&hsa_tgt=dsa-1431852288425&hsa_ver=3&utm_campaign=%5BCD%5D%20-%20DSA%20-%20EMEA&utm_medium=cpc&utm_medium=ppc&utm_source=google&utm_source=adwords&utm_term=) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-11-28_suezmaxes-seek-alternate-routes-as-european-crude-demand-is-limited_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_3a7c4a08bb33.png)
 
 ## Clean – East of Suez: Supply-Side Fundamentals Limit Upside for Tc17
 
@@ -64,10 +64,10 @@ The main reason for the lack of upward momentum on freight prices lies in supply
 
 Looking ahead, MR availability in the MEG for natural fixing windows remains at 12-month highs, whilst the ramp up of refining maintenance activities in the region will provide challenges to clearing out the lengthy tonnage list
 
-![Στιγμιότυπο Οθόνης 2024 11 28 162847](assets/2024-11-28_suezmaxes-seek-alternate-routes-as-european-crude-demand-is-limited_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_031ef60bb329.png)
+![Στιγμιότυπο Οθόνης 2024 11 28 162847](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-11-28_suezmaxes-seek-alternate-routes-as-european-crude-demand-is-limited_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_031ef60bb329.png)
 
 > **Figure 2: Στιγμιότυπο Οθόνης 2024 11 28 162847**  
-> **Interactive Data & Source:** [Vortexa](https://www.vortexa.com//oil-gas-data-traders-analysts-data-scientists?gclid=Cj0KCQjw8_qRBhCXARIsAE2AtRZKOvMnbilZ_6_91d7huSFFy71pWLrnPwGwOHVzXsmsG-1a1mZnQw8aAt89EALw_wcB&hsa_acc=1782073842&hsa_ad=548425387665&hsa_cam=14746637662&hsa_grp=125038601902&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_src=g&hsa_tgt=dsa-1431852288425&hsa_ver=3&utm_campaign=%5BCD%5D%20-%20DSA%20-%20EMEA&utm_medium=cpc&utm_medium=ppc&utm_source=google&utm_source=adwords&utm_term=) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-11-28_suezmaxes-seek-alternate-routes-as-european-crude-demand-is-limited_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_031ef60bb329.png)
+> **Interactive Data & Source:** [Vortexa](https://www.vortexa.com//oil-gas-data-traders-analysts-data-scientists?gclid=Cj0KCQjw8_qRBhCXARIsAE2AtRZKOvMnbilZ_6_91d7huSFFy71pWLrnPwGwOHVzXsmsG-1a1mZnQw8aAt89EALw_wcB&hsa_acc=1782073842&hsa_ad=548425387665&hsa_cam=14746637662&hsa_grp=125038601902&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_src=g&hsa_tgt=dsa-1431852288425&hsa_ver=3&utm_campaign=%5BCD%5D%20-%20DSA%20-%20EMEA&utm_medium=cpc&utm_medium=ppc&utm_source=google&utm_source=adwords&utm_term=) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-11-28_suezmaxes-seek-alternate-routes-as-european-crude-demand-is-limited_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_031ef60bb329.png)
 
 ## Dirty – West of Suez: Suezmax Employment From Guyana Soars, But Momentum Could Be Capped by Weak European Demand
 
@@ -83,10 +83,10 @@ Since the seasonal ban on VLCC loads went into effect in September, tonne-mile d
 
 However, Suezmax freight rates from Guyana to Europe are currently under pressure (Argus Media) due to a challenging landscape for European crude demand
 
-![Στιγμιότυπο Οθόνης 2024 11 28 163251](assets/2024-11-28_suezmaxes-seek-alternate-routes-as-european-crude-demand-is-limited_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_c3eaccf69cde.png)
+![Στιγμιότυπο Οθόνης 2024 11 28 163251](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-11-28_suezmaxes-seek-alternate-routes-as-european-crude-demand-is-limited_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_c3eaccf69cde.png)
 
 > **Figure 3: Στιγμιότυπο Οθόνης 2024 11 28 163251**  
-> **Interactive Data & Source:** [Vortexa](https://www.vortexa.com//oil-gas-data-traders-analysts-data-scientists?gclid=Cj0KCQjw8_qRBhCXARIsAE2AtRZKOvMnbilZ_6_91d7huSFFy71pWLrnPwGwOHVzXsmsG-1a1mZnQw8aAt89EALw_wcB&hsa_acc=1782073842&hsa_ad=548425387665&hsa_cam=14746637662&hsa_grp=125038601902&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_src=g&hsa_tgt=dsa-1431852288425&hsa_ver=3&utm_campaign=%5BCD%5D%20-%20DSA%20-%20EMEA&utm_medium=cpc&utm_medium=ppc&utm_source=google&utm_source=adwords&utm_term=) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-11-28_suezmaxes-seek-alternate-routes-as-european-crude-demand-is-limited_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_c3eaccf69cde.png)
+> **Interactive Data & Source:** [Vortexa](https://www.vortexa.com//oil-gas-data-traders-analysts-data-scientists?gclid=Cj0KCQjw8_qRBhCXARIsAE2AtRZKOvMnbilZ_6_91d7huSFFy71pWLrnPwGwOHVzXsmsG-1a1mZnQw8aAt89EALw_wcB&hsa_acc=1782073842&hsa_ad=548425387665&hsa_cam=14746637662&hsa_grp=125038601902&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_src=g&hsa_tgt=dsa-1431852288425&hsa_ver=3&utm_campaign=%5BCD%5D%20-%20DSA%20-%20EMEA&utm_medium=cpc&utm_medium=ppc&utm_source=google&utm_source=adwords&utm_term=) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-11-28_suezmaxes-seek-alternate-routes-as-european-crude-demand-is-limited_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_c3eaccf69cde.png)
 
 ## Clean – West of Suez: Nw Europe Mr2s Losing Out on Atlantic Routes Seek Intra-Europe Employment in a Challenging Market
 
@@ -106,10 +106,10 @@ Reported economic run cuts and long Q4 turnarounds NW European refineries highli
 
 ➔ This MR2 strategy of seeking intra-European employment is unlikely to provide substantial returns
 
-![Στιγμιότυπο Οθόνης 2024 11 28 163304](assets/2024-11-28_suezmaxes-seek-alternate-routes-as-european-crude-demand-is-limited_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_a5ffaa0dafd0.png)
+![Στιγμιότυπο Οθόνης 2024 11 28 163304](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-11-28_suezmaxes-seek-alternate-routes-as-european-crude-demand-is-limited_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_a5ffaa0dafd0.png)
 
 > **Figure 4: Στιγμιότυπο Οθόνης 2024 11 28 163304**  
-> **Interactive Data & Source:** [Vortexa](https://www.vortexa.com//oil-gas-data-traders-analysts-data-scientists?gclid=Cj0KCQjw8_qRBhCXARIsAE2AtRZKOvMnbilZ_6_91d7huSFFy71pWLrnPwGwOHVzXsmsG-1a1mZnQw8aAt89EALw_wcB&hsa_acc=1782073842&hsa_ad=548425387665&hsa_cam=14746637662&hsa_grp=125038601902&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_src=g&hsa_tgt=dsa-1431852288425&hsa_ver=3&utm_campaign=%5BCD%5D%20-%20DSA%20-%20EMEA&utm_medium=cpc&utm_medium=ppc&utm_source=google&utm_source=adwords&utm_term=) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-11-28_suezmaxes-seek-alternate-routes-as-european-crude-demand-is-limited_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_a5ffaa0dafd0.png)
+> **Interactive Data & Source:** [Vortexa](https://www.vortexa.com//oil-gas-data-traders-analysts-data-scientists?gclid=Cj0KCQjw8_qRBhCXARIsAE2AtRZKOvMnbilZ_6_91d7huSFFy71pWLrnPwGwOHVzXsmsG-1a1mZnQw8aAt89EALw_wcB&hsa_acc=1782073842&hsa_ad=548425387665&hsa_cam=14746637662&hsa_grp=125038601902&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_src=g&hsa_tgt=dsa-1431852288425&hsa_ver=3&utm_campaign=%5BCD%5D%20-%20DSA%20-%20EMEA&utm_medium=cpc&utm_medium=ppc&utm_source=google&utm_source=adwords&utm_term=) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-11-28_suezmaxes-seek-alternate-routes-as-european-crude-demand-is-limited_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_a5ffaa0dafd0.png)
 
 Data Source:[Vortexa](https://www.vortexa.com//oil-gas-data-traders-analysts-data-scientists?gclid=Cj0KCQjw8_qRBhCXARIsAE2AtRZKOvMnbilZ_6_91d7huSFFy71pWLrnPwGwOHVzXsmsG-1a1mZnQw8aAt89EALw_wcB&hsa_acc=1782073842&hsa_ad=548425387665&hsa_cam=14746637662&hsa_grp=125038601902&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_src=g&hsa_tgt=dsa-1431852288425&hsa_ver=3&utm_campaign=%5BCD%5D%20-%20DSA%20-%20EMEA&utm_medium=cpc&utm_medium=ppc&utm_source=google&utm_source=adwords&utm_term=)
 

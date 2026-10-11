@@ -90,6 +90,26 @@ On the surface, the shifting sands don't seem to be shifting that much; but that
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: Shifting Sands of VLCC Employment](../../../charts/poten/2005/poten_2005-05-20_shifting-sands-of-vlcc-employment_chart1.png)
+> **Chart on PDF page 1: VLCC Spot Fixture Activity by Load Area**  
+> Unit: # Fixtures | $000/Day · X-axis: 2000 to 2004  
+> Series: Other, RedSea, Med, UKC, Carib, Wafr, AG, $/Day AG/FE  
+> *Source: Poten & Partners*  
+> *No image crop of this chart was saved; caption read from the PDF.*
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2005/poten_2005-05-20_shifting-sands-of-vlcc-employment_chart1.png)
+> **Chart on PDF page 2: VLCC Spot Fixtures by Load Areas**  
+> Unit: % · X-axis: 2000 to 2004  
+> Series: WAfrica, Europe, Other, AG  
+> *Source: Poten & Partners*  
+> *No image crop of this chart was saved; caption read from the PDF.*
+
+> **Chart on PDF page 3: Arabian Gulf Load Area**  
+> Unit: # Fixtures · X-axis: 2000 to 2004  
+> Series: Other, RedSea, SAfrica, UKC, U.S., S Asia, SE Asia, Far East  
+> *Source: Poten & Partners*  
+> *No image crop of this chart was saved; caption read from the PDF.*
+
+> **Chart on PDF page 3: West Africa Load Area**  
+> Unit: # Fixtures · X-axis: 2000 to 2004  
+> Series: Other, Europe, SE Asia, S Asia, Far East, US  
+> *Source: Poten & Partners*  
+> *No image crop of this chart was saved; caption read from the PDF.*

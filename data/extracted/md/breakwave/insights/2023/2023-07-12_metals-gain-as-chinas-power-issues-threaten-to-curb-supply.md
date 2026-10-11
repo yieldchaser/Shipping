@@ -23,11 +23,11 @@ source_file: "corpus/03-breakwave/insights/2023/2023-07-12_metals-gain-as-chinas
 
 Supply side issues helped offset ongoing concerns of weaker economic growth. A weaker USD also provided some support.
 
-![Data Source:commodities Wrap](assets/2023-07-12_metals-gain-as-chinas-power-issues-threaten-to-curb-supply_img_1689113641604_28b23be71922.png)
+![Data Source:commodities Wrap](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-07-12_metals-gain-as-chinas-power-issues-threaten-to-curb-supply_img_1689113641604_28b23be71922.png)
 
 > **Figure 1: Data Source:commodities Wrap**  
 > *Data source:Commodities Wrap*  
-> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-07-12_metals-gain-as-chinas-power-issues-threaten-to-curb-supply_img_1689113641604_28b23be71922.png)
+> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-07-12_metals-gain-as-chinas-power-issues-threaten-to-curb-supply_img_1689113641604_28b23be71922.png)
 
 Aluminium gained as threats of further curbs on output rose. Power consumption in Sichuan reached a record high on Monday amid scorching temperatures. That’s exacerbating already low hydro dam levels after a drought over the last year. Aluminium smelters near the provincial capital of Chengdu have been ordered to reduce power consumption, which puts at risk about 50kt of metal. Overall Sichuan produces around 1mt of aluminium, from a total of around 40mt across the country. These disruptions may be offset by the resumption of smelters in nearby Yunnan province, which suffered similar curbs earlier this year. The rest of the complex was mixed as the sector waits for additional stimulus measures. Data showed that credit growth remains robust, with aggregate financing and new bank yuan loans both beating expectations. However, its transmission into economic growth remains weak.
 

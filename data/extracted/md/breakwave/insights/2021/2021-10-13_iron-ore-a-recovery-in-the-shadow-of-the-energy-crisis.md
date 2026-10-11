@@ -31,28 +31,28 @@ While the developing energy crisis may curtail steel production and, by extensio
 ![Ch1](assets/2021-10-13_iron-ore-a-recovery-in-the-shadow-of-the-energy-crisis_img_ch1_69c184316f1f.png)
 
 > **Figure 1: Ch1**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2021/assets/2021-10-13_iron-ore-a-recovery-in-the-shadow-of-the-energy-crisis_img_ch1_69c184316f1f.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-10-13_iron-ore-a-recovery-in-the-shadow-of-the-energy-crisis_img_ch1_69c184316f1f.png)
 
 At the same time as China could be on course for record-breaking iron ore imports during October, global exports during the same month may turn out to be a bit of a disappointment. The early parts of October have seen some 46 million tonnes of iron ore exported globally, suggesting that volumes for the whole month may struggle to match the ones of September and the same month last year. Given the lead time involved in iron ore shipping, the decreasing export volumes may suggest that Chinese imports will soften in the coming months.
 
 ![Ch2](assets/2021-10-13_iron-ore-a-recovery-in-the-shadow-of-the-energy-crisis_img_ch2_3afb665a6530.png)
 
 > **Figure 2: Ch2**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2021/assets/2021-10-13_iron-ore-a-recovery-in-the-shadow-of-the-energy-crisis_img_ch2_3afb665a6530.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-10-13_iron-ore-a-recovery-in-the-shadow-of-the-energy-crisis_img_ch2_3afb665a6530.png)
 
 The reduced Chinese imports during September, following a month-on-month decline of six per cent, has seen inventory levels in some ports continuing their downward trend. In the largest Chinese port for iron ore imports, Caofeidian, the stockpiles have shrunk sharply since their peak in July and are at some of the lowest levels observed since the beginning of 2019.
 
 ![Ch3](assets/2021-10-13_iron-ore-a-recovery-in-the-shadow-of-the-energy-crisis_img_ch3_e805f21961e8.png)
 
 > **Figure 3: Ch3**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2021/assets/2021-10-13_iron-ore-a-recovery-in-the-shadow-of-the-energy-crisis_img_ch3_e805f21961e8.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-10-13_iron-ore-a-recovery-in-the-shadow-of-the-energy-crisis_img_ch3_e805f21961e8.png)
 
 Jingtang, the second-largest iron ore port in China last year, has also seen its inventory levels trending south in recent months. However, the decline is less pronounced than in Caofeidian, and the stockpiles remain above their historical average. For some of the smaller iron ore ports, such as Qingdao and Rizhao, inventories have, on the other hand, been building, according to satellite data from Tathya. earth.
 
 ![Ch4](assets/2021-10-13_iron-ore-a-recovery-in-the-shadow-of-the-energy-crisis_img_ch4_582ef24865e7.png)
 
 > **Figure 4: Ch4**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2021/assets/2021-10-13_iron-ore-a-recovery-in-the-shadow-of-the-energy-crisis_img_ch4_582ef24865e7.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-10-13_iron-ore-a-recovery-in-the-shadow-of-the-energy-crisis_img_ch4_582ef24865e7.png)
 
 Suppose the expected increase in Chinese steel production materialises. In that case, seaborne iron ore imports are likely to continue to pick up, especially as inventories in two of the largest ports remain low. However, the ongoing energy crunch may force steel mills to reduce production. The current flooding in the Shanxi province, China’s most significant coal-producing region, could further exaggerate the energy shortage and send steel production lower. Therefore, an extended disruption in the coal hub could see Chinese iron ore demand decrease but increase the appetite for seaborne coal imports.
 

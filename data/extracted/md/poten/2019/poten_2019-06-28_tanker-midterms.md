@@ -57,8 +57,8 @@ In the Aframax segment, Shell and Vitol traded places. Unipec also made the Afra
 
 ![Exhibit 1: Tanker Midterms](../../../charts/poten/2019/poten_2019-06-28_tanker-midterms_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2019/poten_2019-06-28_tanker-midterms_chart1.png)
+> **Interactive Asset:** [Local Asset (200 DPI PNG)](../../../charts/poten/2019/poten_2019-06-28_tanker-midterms_chart1.png)
 
 ![Exhibit 2: Tanker Midterms](../../../charts/poten/2019/poten_2019-06-28_tanker-midterms_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2019/poten_2019-06-28_tanker-midterms_chart2.png)
+> **Interactive Asset:** [Local Asset (200 DPI PNG)](../../../charts/poten/2019/poten_2019-06-28_tanker-midterms_chart2.png)

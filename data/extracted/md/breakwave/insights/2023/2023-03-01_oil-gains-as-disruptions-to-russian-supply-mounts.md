@@ -23,10 +23,10 @@ source_file: "corpus/03-breakwave/insights/2023/2023-03-01_oil-gains-as-disrupti
 
 Another positive session for risk appetite saw commodity markets edge higher. This was aided by further supply side issues across energy and metal markets.
 
-![1677618071697](assets/2023-03-01_oil-gains-as-disruptions-to-russian-supply-mounts_img_1677618071697_2246531a4625.png)
+![1677618071697](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-03-01_oil-gains-as-disruptions-to-russian-supply-mounts_img_1677618071697_2246531a4625.png)
 
 > **Figure 1: 1677618071697**  
-> **Interactive Data & Source:** [Publications Anz](https://publications.anz.com/SingletrackCMS__DownloadDocument?docRef=8a54490c-e509-4473-9213-703f18e792ea&uid=bd219b92-f5cc-400e-9646-4178791864b7&jobRef=cf22bad3-e45d-430c-bf5d-2634a627ea7f) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-03-01_oil-gains-as-disruptions-to-russian-supply-mounts_img_1677618071697_2246531a4625.png)
+> **Interactive Data & Source:** [Publications Anz](https://publications.anz.com/SingletrackCMS__DownloadDocument?docRef=8a54490c-e509-4473-9213-703f18e792ea&uid=bd219b92-f5cc-400e-9646-4178791864b7&jobRef=cf22bad3-e45d-430c-bf5d-2634a627ea7f) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-03-01_oil-gains-as-disruptions-to-russian-supply-mounts_img_1677618071697_2246531a4625.png)
 
 **Crude oil**jumped amid fears of further disruptions to Russian supply. Poland announced it is winding down its purchases of Russian oil in February and March. India, which ramped up purchases of Russian crude over the past 12 months, is now facing increasing headwinds to those trade flows. Onerous demands from prospective buyers wary of breaching sanctions are slowing down transactions. As much as 1.9mbbl of Russian processed diesel is also currently in floating storage, as buyers are increasingly shunning the sanctioned fuel. This comes after Russia warned it will reduce output by 500kb/d, outside of the lower quotas that the OPEC+ allowance agreed to late last year. Growth in shale oil output in the US could also disappoint. The Federal Reserve Bank of Dallas warned that growth could be as low as 300kb/d this year amid labour shortages and supply chain bottlenecks.
 

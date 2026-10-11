@@ -30,10 +30,16 @@ Over the coming decade, India will likely become much more important for the tan
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: India Goes Shopping](../../../charts/poten/2021/poten_2021-03-12_india-goes-shopping_chart1.png)
+![Exhibit 1: Seaborne Crude Imports By India - (In M Bbl/day)](../../../charts/poten/2021/poten_2021-03-12_india-goes-shopping_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2021/poten_2021-03-12_india-goes-shopping_chart1.png)
+> **Exhibit 1: Seaborne Crude Imports By India - (In M Bbl/day)**  
+> Unit: Mb/d · X-axis: Jan-15 to Jan-21  
+> Series: Middle East, West Africa, UKC/Baltic, Mediterranean, Americas, Atlantic, Asia/Australia, Americas, Pacific  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2021/poten_2021-03-12_india-goes-shopping_chart1.png)
 
-![Exhibit 2: India Goes Shopping](../../../charts/poten/2021/poten_2021-03-12_india-goes-shopping_chart2.png)
+![Exhibit 2: Seaborne Crude Imports By India - (In M TonMiles/day)](../../../charts/poten/2021/poten_2021-03-12_india-goes-shopping_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2021/poten_2021-03-12_india-goes-shopping_chart2.png)
+> **Exhibit 2: Seaborne Crude Imports By India - (In M TonMiles/day)**  
+> Unit: TonMiles (Mln) Per Day · X-axis: Jan-15 to Jan-21  
+> Series: Middle East, West Africa, UKC/Baltic, Mediterranean, Americas, Atlantic, Asia/Australia, Americas, Pacific  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2021/poten_2021-03-12_india-goes-shopping_chart2.png)

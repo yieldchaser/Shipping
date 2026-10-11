@@ -32,10 +32,18 @@ Production growth, pipeline expansion and terminal export availability all need 
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: Permian Pipes](../../../charts/poten/2018/poten_2018-04-13_permian-pipes_chart1.png)
+![Exhibit 1: Planned Permian/Eagle Ford Pipeline Capacity and LTO Production](../../../charts/poten/2018/poten_2018-04-13_permian-pipes_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2018/poten_2018-04-13_permian-pipes_chart1.png)
+> **Exhibit 1: Planned Permian/Eagle Ford Pipeline Capacity and LTO Production**  
+> Unit: kb/d · X-axis: 2017 to 2023  
+> Series: ETP NGL conversion, South Texas Gateway, Cactus 2, Magellan, GrayOak, Sunrise, EPIC, Centurion, Basin, Permian Express 3, Permian Express 2, Permian Express 1, Amdel, West Texas Gulf, BridgeTex, Midland/Sealy, Longhorn, Cactus, Local refining, LTO output  
+> *Source: IEA*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2018/poten_2018-04-13_permian-pipes_chart1.png)
 
-![Exhibit 2: Permian Pipes](../../../charts/poten/2018/poten_2018-04-13_permian-pipes_chart2.png)
+![Exhibit 2: U.S. Seaborne Crude Oil Exports by Destination](../../../charts/poten/2018/poten_2018-04-13_permian-pipes_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2018/poten_2018-04-13_permian-pipes_chart2.png)
+> **Exhibit 2: U.S. Seaborne Crude Oil Exports by Destination**  
+> Unit: Mb/d · X-axis: Jan-14 to Jan-18  
+> Series: Americas, Atl, Asia/Aus., UKC/Baltic, Other  
+> *Source: Lloyd’s List Intelligence*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2018/poten_2018-04-13_permian-pipes_chart2.png)

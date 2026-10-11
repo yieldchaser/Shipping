@@ -31,21 +31,21 @@ During last year Indonesia exported 445 million tonnes of dry bulk commodities, 
 ![Ch1](assets/2021-10-22_indonesian-exports-of-raw-materials-under-threat_img_ch1_26163e840393.png)
 
 > **Figure 1: Ch1**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2021/assets/2021-10-22_indonesian-exports-of-raw-materials-under-threat_img_ch1_26163e840393.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-10-22_indonesian-exports-of-raw-materials-under-threat_img_ch1_26163e840393.png)
 
 The ban on nickel ore exports that the Indonesian authorities introduced two years ago saw the emergence of the country’s exports nipped in the bud. A late entrant to the global nickel trade, Indonesian exports rose rapidly during the last decade to a peak of 33 million tonnes in 2019, with most of it going to China. As the ban took effect, volumes slumped to just over two million tonnes last year. Despite the ban, the exports have recovered somewhat this year and could on course for 7.5 million tonnes this year. During the two years preceding the pandemic, Indonesian nickel seaborne exports accounted for thirty and forty per cent, respectively, but the market share has shrunk considerably following that. Beyond Indonesia, global seaborne volumes of nickel have been relatively stable, around fifty million tonnes per year, with the Philippines being the source for most of it. Indonesia’s retreat from the trade has contributed to the nickel supply remaining tight and prices currently trading at a ten-year high.
 
 ![Ch2](assets/2021-10-22_indonesian-exports-of-raw-materials-under-threat_img_ch2_1a2dc921392e.png)
 
 > **Figure 2: Ch2**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2021/assets/2021-10-22_indonesian-exports-of-raw-materials-under-threat_img_ch2_1a2dc921392e.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-10-22_indonesian-exports-of-raw-materials-under-threat_img_ch2_1a2dc921392e.png)
 
 As Indonesian nickel exports have faced mixed fortunes, the country’s bauxite shipments have been increasing their share of the global trade. In the five years from 2015, volumes increased more than a hundred times to 17.6 million tonnes in 2020. At the same time, the market share grew to eleven per cent from next to nothing. Contrary to the nickel trade, there are several large producers, with Guinea and Australia taking the top spots, and Indonesian bauxite is yet to claim the same prominence as its nickel before the pandemic. The growth in the global seaborne volumes of bauxite is also not just a function of increasing Indonesian exports. However, like for nickel, China is the dominant buyer globally, and for the Indonesian bauxite, the dominance is even more extensive, with nearly a hundred per cent heading for Chinese ports.
 
 ![Ch3](assets/2021-10-22_indonesian-exports-of-raw-materials-under-threat_img_ch3_4e8090f09a1b.png)
 
 > **Figure 3: Ch3**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2021/assets/2021-10-22_indonesian-exports-of-raw-materials-under-threat_img_ch3_4e8090f09a1b.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-10-22_indonesian-exports-of-raw-materials-under-threat_img_ch3_4e8090f09a1b.png)
 
 Any new export bans are unlikely to affect Indonesia’s coal exports. The country’s USD 1.5 billion thermal coal deal with China from November last year looks set to guarantee that the Indonesian thermal coal will continue to flow to the Chinese market. Additionally, there is precious little potential for value-added when it comes to coal and, hence, not much to be gained from keeping the commodity. An export ban on both nickel and bauxite exports could, on the other hand, shift some of the global trade flows. A greater degree of resource processing in Indonesia could see the country exporting more refined products and goods. However, the lack of dominance for Indonesia in these trades could make such a change problematic and dependent on its primary customer’s reaction. China’s dual-circulation policy initiative could see the country seeking alternative sources for its domestic aluminium and nickel industry to maintain its national and industrial independence. In such a scenario, the current Chinese commercial interests in West Africa could see more bauxite sourced from the more distant Guinea, as Australian supplies are likely to remain off-limits. Nevertheless, leaving other nations to process the raw material could also be welcome in Beijing, allowing the country the reduce pollution and improve its environmental credentials.
 

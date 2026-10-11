@@ -34,8 +34,8 @@ The supply outlook for MRs is rather challenging, but for that segment the deman
 
 ![Exhibit 1: It's The Supply Side, Stupid!](../../../charts/poten/2014/poten_2014-11-14_its-the-supply-side-stupid_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2014/poten_2014-11-14_its-the-supply-side-stupid_chart1.png)
+> **Interactive Asset:** [Local Asset (200 DPI PNG)](../../../charts/poten/2014/poten_2014-11-14_its-the-supply-side-stupid_chart1.png)
 
 ![Exhibit 2: It's The Supply Side, Stupid!](../../../charts/poten/2014/poten_2014-11-14_its-the-supply-side-stupid_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2014/poten_2014-11-14_its-the-supply-side-stupid_chart2.png)
+> **Interactive Asset:** [Local Asset (200 DPI PNG)](../../../charts/poten/2014/poten_2014-11-14_its-the-supply-side-stupid_chart2.png)

@@ -30,10 +30,10 @@ The January - February period remains crucial for the evolution of freight rates
 
 ‘The Big Picture’ - Capesize and Panamax Bulkers and Smaller Ship Sizes
 
-![Market Chart 1](assets/2022-02-09_signal-dry-bulk-weekly-report_img_unnamed28429_44e4ea11193e.png)
+![Market Chart 1](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-02-09_signal-dry-bulk-weekly-report_img_unnamed28429_44e4ea11193e.png)
 
 > **Figure 1: Market Chart 1**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-02-09_signal-dry-bulk-weekly-report_img_unnamed28429_44e4ea11193e.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-02-09_signal-dry-bulk-weekly-report_img_unnamed28429_44e4ea11193e.png)
 
 - Capesize Brazil to NChina rates remain above $20/t, since the ending of January and despite Asian festivities posted an increase earlier than expected. The demand growth, however, is not yet there to boost the sentiment back to the strong levels of Week 49, 2021 ~$30/t.
 
@@ -45,10 +45,10 @@ The January - February period remains crucial for the evolution of freight rates
 
 ## Number of Vessels -Increasing
 
-![Supply Trend Lines for Key Load Areas](assets/2022-02-09_signal-dry-bulk-weekly-report_img_unnamed28529_6960c2edb34e.png)
+![Supply Trend Lines for Key Load Areas](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-02-09_signal-dry-bulk-weekly-report_img_unnamed28529_6960c2edb34e.png)
 
 > **Figure 2: Supply Trend Lines for Key Load Areas**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-02-09_signal-dry-bulk-weekly-report_img_unnamed28529_6960c2edb34e.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-02-09_signal-dry-bulk-weekly-report_img_unnamed28529_6960c2edb34e.png)
 
 - The number of vessels sailing in ballast status is now evolving above the average trend line for the Panamax and handysize segments.
 
@@ -59,10 +59,10 @@ The January - February period remains crucial for the evolution of freight rates
 
 ## Decreasing
 
-![Decreasing](assets/2022-02-09_signal-dry-bulk-weekly-report_img_unnamed28629_e6530d43a4f3.png)
+![Decreasing](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-02-09_signal-dry-bulk-weekly-report_img_unnamed28629_e6530d43a4f3.png)
 
 > **Figure 3: Decreasing**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-02-09_signal-dry-bulk-weekly-report_img_unnamed28629_e6530d43a4f3.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-02-09_signal-dry-bulk-weekly-report_img_unnamed28629_e6530d43a4f3.png)
 
 - The dry bulk demand evolution has not yet shown any different picture of what we have seen since the beginning of the year. The downward trend is still steep for the large vessel sizes with the demand in the Panamax size floating at the lower levels among others.
 
@@ -73,10 +73,10 @@ The January - February period remains crucial for the evolution of freight rates
 
 ## Number of Vessels - Increasing
 
-![Dry Bulk Ships Congested Around Chinese Ports](assets/2022-02-09_signal-dry-bulk-weekly-report_img_unnamed28729_9adb35953600.png)
+![Dry Bulk Ships Congested Around Chinese Ports](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-02-09_signal-dry-bulk-weekly-report_img_unnamed28729_9adb35953600.png)
 
 > **Figure 4: Dry Bulk Ships Congested Around Chinese Ports**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-02-09_signal-dry-bulk-weekly-report_img_unnamed28729_9adb35953600.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-02-09_signal-dry-bulk-weekly-report_img_unnamed28729_9adb35953600.png)
 
 - The first days of February saw congestion increase, which was mainly stemming from the Panamax segment. There is still an increasing number of congested vessels in the handysize segment.
 

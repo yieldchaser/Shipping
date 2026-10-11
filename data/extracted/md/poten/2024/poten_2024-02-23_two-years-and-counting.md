@@ -30,10 +30,17 @@ Despite the sanctions, Russian exports of crude oil and refined products have re
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: Two Years And Counting](../../../charts/poten/2024/poten_2024-02-23_two-years-and-counting_chart1.png)
+![Exhibit 1: TonMiles From Russian Crude Oil Exports by Destination](../../../charts/poten/2024/poten_2024-02-23_two-years-and-counting_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2024/poten_2024-02-23_two-years-and-counting_chart1.png)
+> **Exhibit 1: TonMiles From Russian Crude Oil Exports by Destination**  
+> Unit: Mln TM · X-axis: Jan-21 to Jan-24  
+> Series: India, China, Italy, South Korea, Netherlands, Turkey, United States, France, Other  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2024/poten_2024-02-23_two-years-and-counting_chart1.png)
 
-![Exhibit 2: Two Years And Counting](../../../charts/poten/2024/poten_2024-02-23_two-years-and-counting_chart2.png)
+![Exhibit 2: Crude Oil and Product Tanker Freight Rates](../../../charts/poten/2024/poten_2024-02-23_two-years-and-counting_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2024/poten_2024-02-23_two-years-and-counting_chart2.png)
+> **Exhibit 2: Crude Oil and Product Tanker Freight Rates**  
+> Unit: TCE · X-axis: Jan-21 to Jan-24  
+> Series: VLCC (AG-FE), Suezmax (WAF-UKC), Aframax (avg 3 routes), MR (UKC-USAC)  
+> *Source: Vortexa / Poten & Partners*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2024/poten_2024-02-23_two-years-and-counting_chart2.png)

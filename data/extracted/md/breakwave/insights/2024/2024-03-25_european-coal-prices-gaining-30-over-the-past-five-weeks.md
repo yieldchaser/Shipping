@@ -58,10 +58,10 @@ Traditionally, supplies from the nearby Russian ports in the Baltic Sea would ha
 
 While weekly cargo order volumes for Russian coal loading in the Baltic Sea have been trending higher since the middle of January, they still remain relatively low in a historical context. Also, the data for the past three weeks suggest that demand may hit a soft patch. The depressed ordering activities have, to a great extent, weighed on the market for seaborne transportation onboard the smaller vessel segments. The longer voyages in the trade to destinations such as India have greatly favoured the panamaxes. The segment has accounted for around 55 per cent of the market since the beginning of the year, compared to 43 per cent during the same period last year.
 
-![241](assets/2024-03-25_european-coal-prices-gaining-30-over-the-past-five-weeks_img_241_a01d8eb9231c.png)
+![241](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-03-25_european-coal-prices-gaining-30-over-the-past-five-weeks_img_241_a01d8eb9231c.png)
 
 > **Figure 1: 241**  
-> **Interactive Data & Source:** [Shipfix](https://shipfix.com/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-03-25_european-coal-prices-gaining-30-over-the-past-five-weeks_img_241_a01d8eb9231c.png)
+> **Interactive Data & Source:** [Shipfix](https://shipfix.com/) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-03-25_european-coal-prices-gaining-30-over-the-past-five-weeks_img_241_a01d8eb9231c.png)
 
 Data Source:[Shipfix](https://shipfix.com/)
 

@@ -26,20 +26,20 @@ source_file: "corpus/03-breakwave/insights/2024/2024-03-26_crude-tanker-ffas-bac
 
 In absolute terms, FFA prices indicate a continuation of strong markets across the crude tanker sector through 2026, and possibly beyond. But while VLCC pricing points to a continued improvement in earnings through 2024 and 2025, Suezmax and Aframax markets are backwardaded.
 
-![241](assets/2024-03-26_crude-tanker-ffas-backing-the-vlccs_img_241_259cc05c13e1.png)
+![241](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-03-26_crude-tanker-ffas-backing-the-vlccs_img_241_259cc05c13e1.png)
 
 > **Figure 1: 241**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-03-26_crude-tanker-ffas-backing-the-vlccs_img_241_259cc05c13e1.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-03-26_crude-tanker-ffas-backing-the-vlccs_img_241_259cc05c13e1.png)
 
 To some extent a relative over-performance of VLCCs over coming years is to be expected. The unusual events that have allowed Aframaxes and Suezmaxes to buck the long-term trend of bigger ship, bigger earnings over the past few years are either behind us, or temporary. As they fade into the background, charterers can once again expect to pay a premium for economies of scale.
 
 In the 16 years running up to COVID (for which we have comparable company statistics) VLCCs averaged $12.9k/day above Suezmaxes and $18.5k/day over Aframaxes. For several quarters post-pandemic Aframaxes and Suezmaxes were earning a premium over VLCCs – of up to $5,000/day in some quarters. Today the benchmark VLCC, Suezmax, and Aframax routes are trading in the spot market at roughly the same level, but Cal26 TD3c (VLCC) is back to pricing in a $7k/day premium to both TD20 (Suezmax) and TD25 (Aframax).
 
-![Box: Without Recycling](assets/2024-03-26_crude-tanker-ffas-backing-the-vlccs_img_screenshot2024-03-26162955_1c977b0d779f.png)
+![Box: Without Recycling](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-03-26_crude-tanker-ffas-backing-the-vlccs_img_screenshot2024-03-26162955_1c977b0d779f.png)
 
 > **Figure 2: Box: Without Recycling**  
 > *Box: Without recycling, the 20+ yr. old segment of the VLCC fleet will grow from 97 to 154 ships by the end of next year. Over the same period, the old Suezmax fleet will grow from 76 ships to 120 ships. The old Afra/LR2 fleet will grow from 152 ships to 255 ships. 28% of the VLCC fleet is currently over 15yrs old, and 11% is over 20 years old. 32% of Suezmaxes are over 15 and 14% are over 20. 40% of the Aframax/LR2 fleet is over 15 and 14% is over 20.*  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-03-26_crude-tanker-ffas-backing-the-vlccs_img_screenshot2024-03-26162955_1c977b0d779f.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-03-26_crude-tanker-ffas-backing-the-vlccs_img_screenshot2024-03-26162955_1c977b0d779f.png)
 
 Relatively speaking, it could be argued that VLCCs have had a run of bad luck since the pandemic. Firstly, they were handicapped by the geographically staggered nature of the post-lockdown economic rebound. VLCCs were left in the starting blocks as China - accounting for nearly half of VLCC demand – delayed relaxing COVID restrictions until the start of 2023. At roughly the same time Europe boosted Aframax and Suezmax demand by banning Russian crude imports. VLCCs were too big to load at Russian terminals, so missed out on the bonanza of Russian crude moving to India and China. More recently still, Houthi militant attacks on shipping in the Red Sea have forced Aframaxes and Suezmaxes to avoid the Suez Canal, adding significantly to their tonne-miles. For VLCCs, little changed.
 

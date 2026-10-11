@@ -51,14 +51,23 @@ In the Aframax segment, ExxonMobil claimed the top spot, relegating Vitol to 2nd
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: Tanker Midterms 2022](../../../charts/poten/2022/poten_2022-06-30_tanker-midterms-2022_chart1.png)
+![Exhibit 1: Top 10 VLCC Spot Charterers](../../../charts/poten/2022/poten_2022-06-30_tanker-midterms-2022_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2022/poten_2022-06-30_tanker-midterms-2022_chart1.png)
+> **Exhibit 1: Top 10 VLCC Spot Charterers**  
+> Unit: No. Spot Fixtures · X-axis: Unipec to Hyundai  
+> Series: Unipec, ExxonMobil, IOC, Shell, Sinochem, Reliance, SK Corp, VITOL, PTT, Hyundai  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2022/poten_2022-06-30_tanker-midterms-2022_chart1.png)
 
-![Exhibit 2: Tanker Midterms 2022](../../../charts/poten/2022/poten_2022-06-30_tanker-midterms-2022_chart2.png)
+![Exhibit 2: Top 10 Aframax Spot Charterers](../../../charts/poten/2022/poten_2022-06-30_tanker-midterms-2022_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2022/poten_2022-06-30_tanker-midterms-2022_chart2.png)
+> **Exhibit 2: Top 10 Aframax Spot Charterers**  
+> Unit: No. Spot Fixtures · X-axis: ExxonMobil to Total  
+> Series: ExxonMobil, VITOL, Shell, Unipec, BP, Chevron, PTT, Aramco, Phillips 66, Total  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2022/poten_2022-06-30_tanker-midterms-2022_chart2.png)
 
-![Exhibit 3: Tanker Midterms 2022](../../../charts/poten/2022/poten_2022-06-30_tanker-midterms-2022_chart3.png)
+![Exhibit 3: Top 10 Suezmax Spot Charterers](../../../charts/poten/2022/poten_2022-06-30_tanker-midterms-2022_chart3.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2022/poten_2022-06-30_tanker-midterms-2022_chart3.png)
+> **Exhibit 3: Top 10 Suezmax Spot Charterers**  
+> Unit: No. Spot Fixtures · X-axis: ExxonMobil to Shell  
+> Series: ExxonMobil, Total, Petrobras, IOC, REPSOL, VITOL, Chevron, Unipec, BP, Shell  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2022/poten_2022-06-30_tanker-midterms-2022_chart3.png)

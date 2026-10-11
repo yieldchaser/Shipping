@@ -26,10 +26,10 @@ source_file: "corpus/03-breakwave/insights/2025/2025-02-28_tankers-research-upda
 - The proposals, published late last Friday, are due to be discussed on March 24 and could be adopted shortly after.
 - Containerships would likely be hardest hit as they often call at several ports on each visit to the US. Around 21% of the individual tankers involved in exporting from the US in 2024 were built in China. For imports, around 22% of the tankers involved were built in China. Around two-thirds, in both cases, were Japanese or Korean-built. US-built ships were 1% or less. Current US port costs for oil tankers range between roughly $20k and $83k, depending on port and vessel class.
 
-![Screenshot 2025 02 28 12.40.20](assets/2025-02-28_tankers-research-update_img_screenshot2025-02-28124020_0fc8a52b5793.png)
+![Screenshot 2025 02 28 12.40.20](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-02-28_tankers-research-update_img_screenshot2025-02-28124020_0fc8a52b5793.png)
 
 > **Figure 1: Screenshot 2025 02 28 12.40.20**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-02-28_tankers-research-update_img_screenshot2025-02-28124020_0fc8a52b5793.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-02-28_tankers-research-update_img_screenshot2025-02-28124020_0fc8a52b5793.png)
 
 - Adding an extra $500k to $1.5m per voyage would add an additional cost of between $7.14/t and $21.43/t for Aframaxes caught up by these proposed fees. For Aframax shipments from the US Gulf to Mediterranean (TD25), an extra $7.14/t would make US crude considerably less attractive to European refiners than alternatives, such as from Latin America, west Africa, the Mediterranean, North Sea, or Mideast Gulf. Therefore, oil companies would be likely to charter tankers that would not attract a penalty.
 
@@ -37,10 +37,10 @@ source_file: "corpus/03-breakwave/insights/2025/2025-02-28_tankers-research-upda
 - Such a shift could benefit other shipbuilding nations like South Korea and Japan, but their limited capacity makes a large-scale move away from Chinese yards difficult. Meanwhile, mandates for US-flagged and US-built tankers face significant hurdles as the US has not built a new crude tanker since 2017 and lacks the infrastructure for large-scale production. Expanding the domestic fleet under Jones Act-style restrictions would drive up costs. The proposals include mandating that 1% of US seaborne exports per year should be exported on US-flagged vessels by US operators with that rising to 3% after two years, 5% after three years, and 15% after seven years.
 - China controls 95% of global shipping container production and plays a growing role in ship leasing and financing. Retaliatory actions—such as tariffs or shipping restrictions—could disrupt crude and product flows.
 
-![241](assets/2025-02-28_tankers-research-update_img_241_83977916984e.png)
+![241](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-02-28_tankers-research-update_img_241_83977916984e.png)
 
 > **Figure 2: 241**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-02-28_tankers-research-update_img_241_83977916984e.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-02-28_tankers-research-update_img_241_83977916984e.png)
 
 ### Us Slaps More Sanctions on Iranian Oil
 
@@ -82,9 +82,9 @@ source_file: "corpus/03-breakwave/insights/2025/2025-02-28_tankers-research-upda
 - A revocation of the license would likely result in a reduction in Venezuelan crude exports. This would be particularly consequential for refiners processing its heavy crude blends. US Gulf Coast refiners, which historically have relied on Venezuelan crude, had already diversified their feedstock mix due to previous sanctions, increasing imports of Canadian heavy crude, Mexican Maya, and Middle Eastern sour grades. Supplies of some of these crude grades are already threatened by US tariffs on Mexico and Canada, which – notwithstanding a further postponement by the Trump administration - are due to start on 4 March. As of 27 February, approximately 209k b/d of Venezuelan crude was still being exported to the US, primarily on Aframax tankers.
 - If Chevron’s license is revoked, Venezuela’s remaining crude flows would likely shift towards Asia, with China and India as primary buyers on VLCCs. This reallocation would increase tonne-miles and freight costs, exerting downward pressure on Venezuela’s crude pricing to make it more attractive to other buyers. Additionally, a heavier reliance on intermediaries could inflate transaction costs and erode Venezuela’s earnings from its oil trade.
 
-![242](assets/2025-02-28_tankers-research-update_img_242_9a0f3109b251.png)
+![242](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-02-28_tankers-research-update_img_242_9a0f3109b251.png)
 
 > **Figure 3: 242**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-02-28_tankers-research-update_img_242_9a0f3109b251.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-02-28_tankers-research-update_img_242_9a0f3109b251.png)
 
 Please consider the environment before printing this.

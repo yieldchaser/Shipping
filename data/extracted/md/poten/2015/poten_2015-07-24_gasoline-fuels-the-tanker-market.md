@@ -34,10 +34,18 @@ The U.S. gasoline market cannot support worldwide refining margins forever. U.S.
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: Gasoline Fuels The Tanker Market](../../../charts/poten/2015/poten_2015-07-24_gasoline-fuels-the-tanker-market_chart1.png)
+![Exhibit 1: U.S. Gasoline Demand](../../../charts/poten/2015/poten_2015-07-24_gasoline-fuels-the-tanker-market_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2015/poten_2015-07-24_gasoline-fuels-the-tanker-market_chart1.png)
+> **Exhibit 1: U.S. Gasoline Demand**  
+> Unit: Kb/d · X-axis: 1 to 51  
+> Series: 5 yr range, 2015, 2014  
+> *Source: Energy Information Administration*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2015/poten_2015-07-24_gasoline-fuels-the-tanker-market_chart1.png)
 
-![Exhibit 2: Gasoline Fuels The Tanker Market](../../../charts/poten/2015/poten_2015-07-24_gasoline-fuels-the-tanker-market_chart2.png)
+![Exhibit 2: Product Tanker Rates 2008 – 2015 YTD](../../../charts/poten/2015/poten_2015-07-24_gasoline-fuels-the-tanker-market_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2015/poten_2015-07-24_gasoline-fuels-the-tanker-market_chart2.png)
+> **Exhibit 2: Product Tanker Rates 2008 – 2015 YTD**  
+> Unit: $/day · X-axis: Jan-08 to May-15  
+> Series: TC1 (LR2, AG-FE), TC5 (LR1, AG-FE), TC2 (MR, UKC-USAC)  
+> *Source: Poten & Partners*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2015/poten_2015-07-24_gasoline-fuels-the-tanker-market_chart2.png)

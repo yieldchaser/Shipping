@@ -29,14 +29,14 @@ The most recently released data shows that China's crude steel production at lar
 ![Chart 1 (6)](assets/2021-12-17_wait-china-enjoys-purchasing-imported-iron-ore-cargoes-at-cheaper-prices_img_chart128629_2ba585bfe609.jpg)
 
 > **Figure 1: Chart 1 (6)**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2021/assets/2021-12-17_wait-china-enjoys-purchasing-imported-iron-ore-cargoes-at-cheaper-prices_img_chart128629_2ba585bfe609.jpg)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-12-17_wait-china-enjoys-purchasing-imported-iron-ore-cargoes-at-cheaper-prices_img_chart128629_2ba585bfe609.jpg)
 
 China’s iron ore imports most recently totaled 105 million tons in November. This is up month-on-month by 15%, up year-on-year by 7%, and marks the largest amount imported all year.
 
 ![Chart 2 (5)](assets/2021-12-17_wait-china-enjoys-purchasing-imported-iron-ore-cargoes-at-cheaper-prices_img_chart228529_c2c371c7c871.jpg)
 
 > **Figure 2: Chart 2 (5)**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2021/assets/2021-12-17_wait-china-enjoys-purchasing-imported-iron-ore-cargoes-at-cheaper-prices_img_chart228529_c2c371c7c871.jpg)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-12-17_wait-china-enjoys-purchasing-imported-iron-ore-cargoes-at-cheaper-prices_img_chart228529_c2c371c7c871.jpg)
 
 Overall, we continue to stress that iron ore imports can easily climb when China's steel production is declining. We have reiterated this point often in recent months as we have continued to see mainstream coverage ignoring that China has been ramping up its iron ore imports. China’s crude steel production peaked at 99.5 million tons in May this year and has come under very consistent pressure. However, iron ore imports — while falling every month during April through July — finally rebounded in August and most recently in November set a 2021 record.
 

@@ -30,10 +30,17 @@ U.S. crude oil exports are expected to increase significantly in the coming year
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: US Crude Bonanza](../../../charts/poten/2019/poten_2019-08-23_us-crude-bonanza_chart1.png)
+![Exhibit 1: US Seaborne Crude Trade](../../../charts/poten/2019/poten_2019-08-23_us-crude-bonanza_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2019/poten_2019-08-23_us-crude-bonanza_chart1.png)
+> **Exhibit 1: US Seaborne Crude Trade**  
+> Unit: Kb/d · X-axis: Jan-15 to Apr-19  
+> Series: Imports, Exports  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2019/poten_2019-08-23_us-crude-bonanza_chart1.png)
 
-![Exhibit 2: US Crude Bonanza](../../../charts/poten/2019/poten_2019-08-23_us-crude-bonanza_chart2.png)
+![Exhibit 2: Crude Oil Ton-Mile Demand by Load Area](../../../charts/poten/2019/poten_2019-08-23_us-crude-bonanza_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2019/poten_2019-08-23_us-crude-bonanza_chart2.png)
+> **Exhibit 2: Crude Oil Ton-Mile Demand by Load Area**  
+> Unit: Bln Ton-Miles · X-axis: Jan-15 to Jan-19  
+> Series: Middle East, West Africa, Americas Atl (excl USG), Mediterranean, US Gulf, Other  
+> *Source: Lloyd’s List Intelligence*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2019/poten_2019-08-23_us-crude-bonanza_chart2.png)

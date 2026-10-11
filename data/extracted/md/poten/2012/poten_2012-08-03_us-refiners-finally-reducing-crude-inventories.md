@@ -62,14 +62,26 @@ As the tanker market continues to focus on significant rise in shale oil product
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: US Refiners Finally Reducing Crude Inventories](../../../charts/poten/2012/poten_2012-08-03_us-refiners-finally-reducing-crude-inventories_chart1.png)
+![Exhibit 1: US Rig Activity & Oil Production Growth](../../../charts/poten/2012/poten_2012-08-03_us-refiners-finally-reducing-crude-inventories_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2012/poten_2012-08-03_us-refiners-finally-reducing-crude-inventories_chart1.png)
+> **Exhibit 1: US Rig Activity & Oil Production Growth**  
+> Unit: Number of Active Rigs | yoy Change, kbpd · X-axis: 1q02 to 1q12  
+> Series: TX/ND/CO/WY Oil Prodn (rhs), US Oil Rig Count (lhs)  
+> *Source: EIA, Poten*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2012/poten_2012-08-03_us-refiners-finally-reducing-crude-inventories_chart1.png)
 
-![Exhibit 2: US Refiners Finally Reducing Crude Inventories](../../../charts/poten/2012/poten_2012-08-03_us-refiners-finally-reducing-crude-inventories_chart2.png)
+![Exhibit 2: U.S. Crude Oil Inventories](../../../charts/poten/2012/poten_2012-08-03_us-refiners-finally-reducing-crude-inventories_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2012/poten_2012-08-03_us-refiners-finally-reducing-crude-inventories_chart2.png)
+> **Exhibit 2: U.S. Crude Oil Inventories**  
+> Unit: MB · X-axis: Jan to Dec  
+> Series: 5-yr Range, 2012, 2011, 5-yr Avg, Forecast  
+> *Source: IEA, Poten*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2012/poten_2012-08-03_us-refiners-finally-reducing-crude-inventories_chart2.png)
 
-![Exhibit 3: US Refiners Finally Reducing Crude Inventories](../../../charts/poten/2012/poten_2012-08-03_us-refiners-finally-reducing-crude-inventories_chart3.png)
+![Exhibit 3: US Crude Imports yoy Change](../../../charts/poten/2012/poten_2012-08-03_us-refiners-finally-reducing-crude-inventories_chart3.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2012/poten_2012-08-03_us-refiners-finally-reducing-crude-inventories_chart3.png)
+> **Exhibit 3: US Crude Imports yoy Change**  
+> Unit: kbpd · X-axis: Dec-09 to Dec-12  
+> Series: yoy Change  
+> *Source: EIA, Poten*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2012/poten_2012-08-03_us-refiners-finally-reducing-crude-inventories_chart3.png)

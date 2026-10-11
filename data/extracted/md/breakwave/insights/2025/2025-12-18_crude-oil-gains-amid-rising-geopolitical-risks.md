@@ -24,10 +24,10 @@ Rising geopolitical tensions pushed the energy sector higher. The prospect of fu
 
 *By*[*Daniel Hynes*](https://www.linkedin.com/in/dahynes/)
 
-![Στιγμιότυπο Οθόνης 2025 12 18 153221](assets/2025-12-18_crude-oil-gains-amid-rising-geopolitical-risks_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_e96dd3ffab3e.png)
+![Στιγμιότυπο Οθόνης 2025 12 18 153221](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-12-18_crude-oil-gains-amid-rising-geopolitical-risks_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_e96dd3ffab3e.png)
 
 > **Figure 1: Στιγμιότυπο Οθόνης 2025 12 18 153221**  
-> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-12-18_crude-oil-gains-amid-rising-geopolitical-risks_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_e96dd3ffab3e.png)
+> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-12-18_crude-oil-gains-amid-rising-geopolitical-risks_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_e96dd3ffab3e.png)
 
 ### Market Commentary
 
@@ -43,10 +43,10 @@ Rising geopolitical tensions pushed the energy sector higher. The prospect of fu
 
 China has been stuck in an inflationary spiral amid increase competition in key industrial sectors. There was hope that rising commodity prices could help alleviate some of that pressure. ANZ China Commodity Index has a good correlation with China PPI. However, recent gains in the CCI (driven by gains in industrial metals) have failed drag PPI higher.
 
-![Στιγμιότυπο Οθόνης 2025 12 18 153320](assets/2025-12-18_crude-oil-gains-amid-rising-geopolitical-risks_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_145fe095cf46.png)
+![Στιγμιότυπο Οθόνης 2025 12 18 153320](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-12-18_crude-oil-gains-amid-rising-geopolitical-risks_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_145fe095cf46.png)
 
 > **Figure 2: Στιγμιότυπο Οθόνης 2025 12 18 153320**  
-> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-12-18_crude-oil-gains-amid-rising-geopolitical-risks_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_145fe095cf46.png)
+> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-12-18_crude-oil-gains-amid-rising-geopolitical-risks_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_145fe095cf46.png)
 
 Data source:[Commodities Wrap](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI)
 

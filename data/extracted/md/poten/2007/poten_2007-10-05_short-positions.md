@@ -94,6 +94,14 @@ Imagine this win-win situation; traders get the ships they need to better captur
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: Short Positions](../../../charts/poten/2007/poten_2007-10-05_short-positions_chart1.png)
+> **Chart on PDF page 1: Historical MR Rates**  
+> Unit: $/day · X-axis: Jan-05 to Jul-07  
+> Series: TCE CAR - USAC (38kt), TC - 1 Yr, TC - 3 Yr  
+> *Source: Poten & Partners*  
+> *No image crop of this chart was saved; caption read from the PDF.*
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2007/poten_2007-10-05_short-positions_chart1.png)
+> **Chart on PDF page 2: MR Time Charters (12 Mo.)**  
+> Unit: Number of Fixtures · X-axis: 2004 to 2007  
+> Series: Total Fixtures  
+> *Source: Poten & Partners*  
+> *No image crop of this chart was saved; caption read from the PDF.*

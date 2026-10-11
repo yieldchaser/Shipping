@@ -56,6 +56,20 @@ Perhaps we shouldn't disparage handymaxes giving up the joys of clean living for
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: Those Dirty Little Ships in the Mist](../../../charts/poten/2004/poten_2004-11-19_those-dirty-little-ships-in-the-mist_chart1.png)
+> **Chart on PDF page 2: Handymax Spot Fixture Activity Black Sea/Med Trade**  
+> Unit: # Fixtures · X-axis: Jan-03 to Sep-04  
+> Series: 2003 Average 4.9/Month, 2004 Average 8.2/Month  
+> *Source: Poten&Partners*  
+> *No image crop of this chart was saved; caption read from the PDF.*
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2004/poten_2004-11-19_those-dirty-little-ships-in-the-mist_chart1.png)
+> **Chart on PDF page 2: Comparative Spot Fixture WS Rates Black Sea vs Caribs**  
+> Unit: WS Rate · X-axis: Jan-03 to Sep-04  
+> Series: Black Sea, Caribs  
+> *Source: Poten & Partners*  
+> *No image crop of this chart was saved; caption read from the PDF.*
+
+> **Chart on PDF page 3: Differential Spot Fixture WS Points Black Sea vs Caribs**  
+> Unit: WS Points · X-axis: Jan-03 to Sep-04  
+> Series: Black Sea vs Caribs  
+> *Source: Poten & Partners*  
+> *No image crop of this chart was saved; caption read from the PDF.*

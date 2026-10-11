@@ -27,10 +27,10 @@ The basic idea behind the below graph is to show the development, during the cou
 
 In other words, this is a quantitative approach to capture sentiment (as presented exclusively through the paper market), while stepping, at the same time, beyond the typical cliché (and sometimes vague) use of this term.
 
-![311338878 623434322605327 1255593271956338010 N](assets/2022-10-11_allied-weekly-market-report_img_311338878-623434322605327-1255593271_f43861006ebf.jpg)
+![311338878 623434322605327 1255593271956338010 N](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-10-11_allied-weekly-market-report_img_311338878-623434322605327-1255593271_f43861006ebf.jpg)
 
 > **Figure 1: 311338878 623434322605327 1255593271956338010 N**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-10-11_allied-weekly-market-report_img_311338878-623434322605327-1255593271_f43861006ebf.jpg)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-10-11_allied-weekly-market-report_img_311338878-623434322605327-1255593271_f43861006ebf.jpg)
 
 It is evident that the current forward view for the upcoming year has completely collapsed during the latter half of the 3rd quarter, escaping at the same time, the typical seasonality patterns noted over the past 4 years or so. Strategies based on seasonality and historical trends are “well-intended”, but oftentimes insufficient to either diversify or hedge risks that apply within different market regimes.
 

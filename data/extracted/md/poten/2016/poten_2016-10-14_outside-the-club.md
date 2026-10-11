@@ -36,8 +36,8 @@ If OPEC manages to balance the oil market and raise prices to $60 per barrel by 
 
 ![Exhibit 1: Outside the Club](../../../charts/poten/2016/poten_2016-10-14_outside-the-club_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2016/poten_2016-10-14_outside-the-club_chart1.png)
+> **Interactive Asset:** [Local Asset (200 DPI PNG)](../../../charts/poten/2016/poten_2016-10-14_outside-the-club_chart1.png)
 
 ![Exhibit 2: Outside the Club](../../../charts/poten/2016/poten_2016-10-14_outside-the-club_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2016/poten_2016-10-14_outside-the-club_chart2.png)
+> **Interactive Asset:** [Local Asset (200 DPI PNG)](../../../charts/poten/2016/poten_2016-10-14_outside-the-club_chart2.png)

@@ -19,10 +19,10 @@ source_file: "corpus/03-breakwave/insights/2023/2023-04-24_1u1kdsl1eq8eom9c1itfn
 
 ---
 
-![Brs Logo No Background (1)](assets/2023-04-24_1u1kdsl1eq8eom9c1itfn6kn7lr4nl_img_brslogo-nobackground28129_f39a57dd6dc6.png)
+![Brs Logo No Background (1)](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-04-24_1u1kdsl1eq8eom9c1itfn6kn7lr4nl_img_brslogo-nobackground28129_f39a57dd6dc6.png)
 
 > **Figure 1: Brs Logo No Background (1)**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-04-24_1u1kdsl1eq8eom9c1itfn6kn7lr4nl_img_brslogo-nobackground28129_f39a57dd6dc6.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-04-24_1u1kdsl1eq8eom9c1itfn6kn7lr4nl_img_brslogo-nobackground28129_f39a57dd6dc6.png)
 
 ## China, China, China
 
@@ -38,19 +38,19 @@ It is a well-known fact that shipping thrives on a healthy economic climate push
 
 In the April IMF report, global inflation forecast has been revised to nearly 7% as compared to Jan-23’s 6.6% (see Chart I). As such, it is just a matter of time before trade volumes get materially affected, which would induce downward pressure to freight rates. However, the lag time effect between monetary policies and absolute decline in real output will muddle most forecasts’ horizons.
 
-![1 (2)](assets/2023-04-24_1u1kdsl1eq8eom9c1itfn6kn7lr4nl_img_128229_fdd372f4b384.png)
+![1 (2)](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-04-24_1u1kdsl1eq8eom9c1itfn6kn7lr4nl_img_128229_fdd372f4b384.png)
 
 > **Figure 2: 1 (2)**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-04-24_1u1kdsl1eq8eom9c1itfn6kn7lr4nl_img_128229_fdd372f4b384.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-04-24_1u1kdsl1eq8eom9c1itfn6kn7lr4nl_img_128229_fdd372f4b384.png)
 
 On paper, growth prospects in trade volumes look better than expected (see Chart II), but this is relative to the 6% decline in 2020. While growth rates have improved from 2021 till date, we are just making up to lost ground as far from beating pre-pandemic levels.
 
 If global trade volumes were to defy the earlier mentioned headwinds in order to satisfy IMF’s forward growth projection, what are the critical points needed?
 
-![1 (3)](assets/2023-04-24_1u1kdsl1eq8eom9c1itfn6kn7lr4nl_img_128329_af2f3e391ca6.png)
+![1 (3)](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-04-24_1u1kdsl1eq8eom9c1itfn6kn7lr4nl_img_128329_af2f3e391ca6.png)
 
 > **Figure 3: 1 (3)**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-04-24_1u1kdsl1eq8eom9c1itfn6kn7lr4nl_img_128329_af2f3e391ca6.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-04-24_1u1kdsl1eq8eom9c1itfn6kn7lr4nl_img_128329_af2f3e391ca6.png)
 
 China, Obviously. Unlike other countries, China doesn’t seem to be inflicted with high inflation. On the contrary, according to the National Bureau of Statistics (NBS), in March 2023, China’s consumer price index (CPI) rose only by 0.7% year on year. This reflects weak domestic demand, and the possibility of China heading to deflation. China’s official data released in April showed an encouraging outlook with Q1-2023 GDP growing by 4.5% year-onyear, above consensus expectations of 4%.
 
@@ -60,17 +60,17 @@ However, taking a deeper dive into these headline numbers suggests there’s mor
 
 Consumption: China’s domestic economy in Q1-2023 exhibits some strength. But is this a dead-cat bounce following the removal of the zero-covid policy or the beginning of a sustainable rally? Looking at the People’s Bank of China (PBOC) data, it seems more of the former than latter. While domestic spending has increased, bank savings had reached new highs in 2022 (See Chart III).
 
-![1 (4)](assets/2023-04-24_1u1kdsl1eq8eom9c1itfn6kn7lr4nl_img_128429_e3319dd234c1.png)
+![1 (4)](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-04-24_1u1kdsl1eq8eom9c1itfn6kn7lr4nl_img_128429_e3319dd234c1.png)
 
 > **Figure 4: 1 (4)**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-04-24_1u1kdsl1eq8eom9c1itfn6kn7lr4nl_img_128429_e3319dd234c1.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-04-24_1u1kdsl1eq8eom9c1itfn6kn7lr4nl_img_128429_e3319dd234c1.png)
 
 In a recent PBOC survey held in Q1-2023, 23.2% of the surveyed preferred more consumption, opposed to an overwhelming 58% preferring more savings deposits. the consumption pattern leans heavily towards services (education, healthcare, tourism etc.) rather than housing purchase.For example, willingness to save in the first quarters of 2019 to 2022 was 45%, 53%, 49.1% and 54.7% respectively. While we bid zero-covid goodbye, the saving rates did not retrace back to 2019 prepandemic levels. Instead, it continued to march on. Supporting this observation is the China Consumer Confidence Index which remain in the doldrums (See Chart IV), even after Feb 2023 improvement.
 
-![1 (8)](assets/2023-04-24_1u1kdsl1eq8eom9c1itfn6kn7lr4nl_img_128829_280de6130e11.png)
+![1 (8)](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-04-24_1u1kdsl1eq8eom9c1itfn6kn7lr4nl_img_128829_280de6130e11.png)
 
 > **Figure 5: 1 (8)**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-04-24_1u1kdsl1eq8eom9c1itfn6kn7lr4nl_img_128829_280de6130e11.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-04-24_1u1kdsl1eq8eom9c1itfn6kn7lr4nl_img_128829_280de6130e11.png)
 
 On a side note, youth unemployment is uncomfortably high, at 19.6% in March 2023, the forward appetite for fresh consumption lacked substance.
 
@@ -78,10 +78,10 @@ On a side note, youth unemployment is uncomfortably high, at 19.6% in March 2023
 
 In the first two months of 2023, the real estate investment (residential buildings, factory buildings, hotels, etc.) in China declined by 5.7% year-on-year (See Chart V). In addition, there has been a 9.3% and 3.6% year-on-year drop in new home construction and building sales, respectively.
 
-![1 (7)](assets/2023-04-24_1u1kdsl1eq8eom9c1itfn6kn7lr4nl_img_128729_84c36e4782f5.png)
+![1 (7)](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-04-24_1u1kdsl1eq8eom9c1itfn6kn7lr4nl_img_128729_84c36e4782f5.png)
 
 > **Figure 6: 1 (7)**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-04-24_1u1kdsl1eq8eom9c1itfn6kn7lr4nl_img_128729_84c36e4782f5.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-04-24_1u1kdsl1eq8eom9c1itfn6kn7lr4nl_img_128729_84c36e4782f5.png)
 
 Policy measures set by the government to support the property sector such as the removal of the three red lines, and lowering down payment ratios and mortgage rates for first-home buyers has thus far been inadequate to drag the property market out of its funk.
 
@@ -89,10 +89,10 @@ FDI into China had declined from Q2-2020 to Q4-2022 in tandem with the duration 
 
 The shift had already emerged in recent years, according to an IMF analysis that showed foreign direct investment from the second quarter of 2020 to the fourth quarter of last year declined by almost 20% from pre-pandemic levels.
 
-![1 (9)](assets/2023-04-24_1u1kdsl1eq8eom9c1itfn6kn7lr4nl_img_128929_2e1823ab49f0.png)
+![1 (9)](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-04-24_1u1kdsl1eq8eom9c1itfn6kn7lr4nl_img_128929_2e1823ab49f0.png)
 
 > **Figure 7: 1 (9)**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-04-24_1u1kdsl1eq8eom9c1itfn6kn7lr4nl_img_128929_2e1823ab49f0.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-04-24_1u1kdsl1eq8eom9c1itfn6kn7lr4nl_img_128929_2e1823ab49f0.png)
 
 **Exports:**This has been a mixed picture, with Jan-Feb dropping by 6.8% according to China’s customs but exports rose by 14.8% in dollar terms in March. However, March’s performance could reflect a catchup caused by monthly volatility, post Chinese new year holidays.
 

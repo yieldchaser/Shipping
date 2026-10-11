@@ -30,10 +30,18 @@ Supply fundamentals continue to be a bear Beyond the current demand fundamentals
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: Summer Dreams for Suezmaxes](../../../charts/poten/2013/poten_2013-08-16_summer-dreams-for-suezmaxes_chart1.png)
+![Exhibit 1: West African Suezmax Fixtures](../../../charts/poten/2013/poten_2013-08-16_summer-dreams-for-suezmaxes_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2013/poten_2013-08-16_summer-dreams-for-suezmaxes_chart1.png)
+> **Exhibit 1: West African Suezmax Fixtures**  
+> Unit: # of Fixtures · X-axis: Jan to Dec  
+> Series: 2012, 2013, 12 Mo. Avg.  
+> *Source: Poten & Partners*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2013/poten_2013-08-16_summer-dreams-for-suezmaxes_chart1.png)
 
-![Exhibit 2: Summer Dreams for Suezmaxes](../../../charts/poten/2013/poten_2013-08-16_summer-dreams-for-suezmaxes_chart2.png)
+![Exhibit 2: West Africa - US Atlantic Coast (130kt)](../../../charts/poten/2013/poten_2013-08-16_summer-dreams-for-suezmaxes_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2013/poten_2013-08-16_summer-dreams-for-suezmaxes_chart2.png)
+> **Exhibit 2: West Africa - US Atlantic Coast (130kt)**  
+> Unit: TCE ($/day) · X-axis: Jan-12 to Jul-13  
+> Series: West Africa - US Atlantic Coast (130kt)  
+> *Source: Poten & Partners*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2013/poten_2013-08-16_summer-dreams-for-suezmaxes_chart2.png)

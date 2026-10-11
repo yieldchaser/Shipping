@@ -20,11 +20,11 @@ source_file: "corpus/03-breakwave/insights/2026/2026-08-20_dry-bulk-deals-gather
 
 ---
 
-![Byeirini Diamantara&dimitris Roumeliotis](assets/2026-08-20_dry-bulk-deals-gather-pace_img_unsplash-image-3j1kq7kf6ka_0a106d587a4e.jpg)
+![Byeirini Diamantara&dimitris Roumeliotis](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-08-20_dry-bulk-deals-gather-pace_img_unsplash-image-3j1kq7kf6ka_0a106d587a4e.jpg)
 
 > **Figure 1: Byeirini Diamantara&dimitris Roumeliotis**  
 > *ByEirini Diamantara&Dimitris Roumeliotis*  
-> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/in/eirini-diamantara-58b269105/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-08-20_dry-bulk-deals-gather-pace_img_unsplash-image-3j1kq7kf6ka_0a106d587a4e.jpg)
+> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/in/eirini-diamantara-58b269105/) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-08-20_dry-bulk-deals-gather-pace_img_unsplash-image-3j1kq7kf6ka_0a106d587a4e.jpg)
 
 The dry bulk Sale & Purchase market remained highly active during the first seven months of 2026, with 496 bulk carriers changing hands, compared to 428 vessels during the corresponding period of 2025, representing a 16% year-on-year increase. Activity accelerated particularly during May, when a remarkable 90 transactions were concluded, making it the busiest month of the year, while monthly sales remained consistently above 2025 levels for most of the period. The sustained level of transactions reflects continued confidence in dry bulk asset values, supported by a healthier freight environment and improving underlying market fundamentals compared to last year.
 

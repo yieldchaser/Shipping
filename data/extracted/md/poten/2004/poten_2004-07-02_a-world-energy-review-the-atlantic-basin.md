@@ -112,6 +112,56 @@ However the counter-movement of primarily Nigerian crude to Asia does provide in
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: A World Energy Review The Atlantic Basin](../../../charts/poten/2004/poten_2004-07-02_a-world-energy-review-the-atlantic-basin_chart1.png)
+> **Chart on PDF page 1: North America Production**  
+> Unit: 000 Bpd · X-axis: 1985 to 2003  
+> Series: Mexico, Canada, United States  
+> *Source: BP/Poten*  
+> *No image crop of this chart was saved; caption read from the PDF.*
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2004/poten_2004-07-02_a-world-energy-review-the-atlantic-basin_chart1.png)
+> **Chart on PDF page 2: North America Consumption**  
+> Unit: 000 Bpd · X-axis: 1985 to 2003  
+> Series: Mexico, Canada, United States  
+> *Source: BP/Poten*  
+> *No image crop of this chart was saved; caption read from the PDF.*
+
+> **Chart on PDF page 2: North America Imports**  
+> Unit: 000 Bpd · X-axis: 1985 to 2003  
+> Series: North America Imports  
+> *Source: BP/Poten*  
+> *No image crop of this chart was saved; caption read from the PDF.*
+
+> **Chart on PDF page 3: Europe + CIS Production**  
+> Unit: 000 Bpd · X-axis: 1985 to 2003  
+> Series: Other, U.K., Norway, Russia  
+> *Source: BP/Poten*  
+> *No image crop of this chart was saved; caption read from the PDF.*
+
+> **Chart on PDF page 3: Europe + CIS Consumption**  
+> Unit: 000 Bpd · X-axis: 1985 to 2003  
+> Series: Other, Spain, Italy, France, U.K., Germany, Russia  
+> *Source: BP/Poten*  
+> *No image crop of this chart was saved; caption read from the PDF.*
+
+> **Chart on PDF page 4: Europe Imports**  
+> Unit: 000 Bpd · X-axis: 1985 to 2003  
+> Series: Europe Imports  
+> *Source: BP/Poten*  
+> *No image crop of this chart was saved; caption read from the PDF.*
+
+> **Chart on PDF page 4: South America Exports**  
+> Unit: 000 Bpd · X-axis: 1985 to 2003  
+> Series: Exports, Consumption  
+> *Source: BP/Poten*  
+> *No image crop of this chart was saved; caption read from the PDF.*
+
+> **Chart on PDF page 5: Africa Exports**  
+> Unit: 000 Bpd · X-axis: 1985 to 2003  
+> Series: Exports, Consumption  
+> *Source: BP/Poten*  
+> *No image crop of this chart was saved; caption read from the PDF.*
+
+> **Chart on PDF page 6: Atlantic Basin Gap**  
+> Unit: 000 Bpd · X-axis: 1985 to 2003  
+> Series: NAmerica & Europe Import Demand, SAmerica & Africa Export Supply  
+> *Source: BP/Poten*  
+> *No image crop of this chart was saved; caption read from the PDF.*

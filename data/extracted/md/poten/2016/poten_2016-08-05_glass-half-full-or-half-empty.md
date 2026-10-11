@@ -28,10 +28,18 @@ In the longer term, world GDP growth and oil demand will be important drivers, b
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: Glass Half Full Or Half Empty](../../../charts/poten/2016/poten_2016-08-05_glass-half-full-or-half-empty_chart1.png)
+![Exhibit 1: Fig. 1: VLCC TCE Rates: AG-FE (270 Kt)](../../../charts/poten/2016/poten_2016-08-05_glass-half-full-or-half-empty_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2016/poten_2016-08-05_glass-half-full-or-half-empty_chart1.png)
+> **Exhibit 1: Fig. 1: VLCC TCE Rates: AG-FE (270 Kt)**  
+> Unit: USD/day · X-axis: Week 1 to Week 49  
+> Series: 2014, 2015, 2016  
+> *Source: Poten & Partners*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2016/poten_2016-08-05_glass-half-full-or-half-empty_chart1.png)
 
-![Exhibit 2: Glass Half Full Or Half Empty](../../../charts/poten/2016/poten_2016-08-05_glass-half-full-or-half-empty_chart2.png)
+![Exhibit 2: Fig. 2: MR TCE Rates: UKC – USAC (37 Kt)](../../../charts/poten/2016/poten_2016-08-05_glass-half-full-or-half-empty_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2016/poten_2016-08-05_glass-half-full-or-half-empty_chart2.png)
+> **Exhibit 2: Fig. 2: MR TCE Rates: UKC – USAC (37 Kt)**  
+> Unit: USD/Day · X-axis: Week 1 to Week 49  
+> Series: 2014, 2015, 2016  
+> *Source: Poten & Partners*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2016/poten_2016-08-05_glass-half-full-or-half-empty_chart2.png)

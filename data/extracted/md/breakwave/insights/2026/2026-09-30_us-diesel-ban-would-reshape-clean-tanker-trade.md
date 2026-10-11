@@ -28,10 +28,10 @@ The US diesel export ban, that Mr. Trump has floated as a means of cutting domes
 
 We believe some form of a US diesel ban is now likely enough to merit us looking at the impact to imports and tanker demand for regions most dependent on diesel imports. With five weeks to go until the US midterm elections, Mr. Trump was on Sunday “thinking very seriously” about a US diesel export ban. Despite mixed signals from Washington about whether a ban will happen and what form it could take, the threat alone may already be achieving the desired effect. As of Friday, spot US Gulf coast diesel prices fell 48.75 ¢/gallon (-10%) compared to the week before, according to Argus.
 
-![445d Image 0 1790697781414](assets/2026-09-30_us-diesel-ban-would-reshape-clean-tanker-trade_img_445d-image-0-1790697781414_6652e7386293.png)
+![445d Image 0 1790697781414](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-09-30_us-diesel-ban-would-reshape-clean-tanker-trade_img_445d-image-0-1790697781414_6652e7386293.png)
 
 > **Figure 1: 445d Image 0 1790697781414**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-09-30_us-diesel-ban-would-reshape-clean-tanker-trade_img_445d-image-0-1790697781414_6652e7386293.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-09-30_us-diesel-ban-would-reshape-clean-tanker-trade_img_445d-image-0-1790697781414_6652e7386293.png)
 
 ### Europe and Brazil Would Look East
 

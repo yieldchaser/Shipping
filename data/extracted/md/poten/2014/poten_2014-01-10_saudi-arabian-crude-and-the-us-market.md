@@ -56,6 +56,22 @@ It remains to be seen if exports from Saudi Arabia continue to follow this trend
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: Saudi Arabian Crude and the US Market](../../../charts/poten/2014/poten_2014-01-10_saudi-arabian-crude-and-the-us-market_chart1.png)
+![Exhibit 1: US Imports of Saudi Crude](../../../charts/poten/2014/poten_2014-01-10_saudi-arabian-crude-and-the-us-market_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2014/poten_2014-01-10_saudi-arabian-crude-and-the-us-market_chart1.png)
+> **Exhibit 1: US Imports of Saudi Crude**  
+> Unit: (000) bpd · X-axis: Jan-2010 to Jul-2013  
+> Series: US Imports of Saudi Crude, Expon. (US Imports of Saudi Crude)  
+> *Source: EIA*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2014/poten_2014-01-10_saudi-arabian-crude-and-the-us-market_chart1.png)
+
+> **Chart on PDF page 1: Arabian Gulf to USA Cargo Volume**  
+> Unit: Tons/Month · X-axis: Jan-10 to Oct-13  
+> Series: Tons/Month  
+> *Source: Poten & Partners*  
+> *No image crop of this chart was saved; caption read from the PDF.*
+
+> **Chart on PDF page 2: Bakken/WTI Spread vs. Saudi Discount for US Buyers**  
+> Unit: $/bbl Spread · X-axis: Jan-11 to Jan-14  
+> Series: WTI/Bakken Spread, Saudi Price Discount (US vs Asia)  
+> *Source: Bloomberg*  
+> *No image crop of this chart was saved; caption read from the PDF.*

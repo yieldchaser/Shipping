@@ -61,9 +61,9 @@ After a strong rebound following the Chinese public holidays at the end of Septe
 
 A continued drop in Chinese demand for seaborne transportation of steel exports amid stronger domestic demand will put some pressure on freight rates. While the average cargo sizes have been trending higher in the past few weeks, it is primarily a case of a return to the long-term mean of around 25,000 tonnes. Hence, any pressure on demand will mainly affect the smaller segments.
 
-![Market Chart 1](assets/2023-11-06_shipfix-global-market-update_img_unnamed-2023-11-06t172527982_a5f304d77830.png)
+![Market Chart 1](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-11-06_shipfix-global-market-update_img_unnamed-2023-11-06t172527982_a5f304d77830.png)
 
 > **Figure 1: Market Chart 1**  
-> **Interactive Data & Source:** [Shipfix](https://shipfix.com/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-11-06_shipfix-global-market-update_img_unnamed-2023-11-06t172527982_a5f304d77830.png)
+> **Interactive Data & Source:** [Shipfix](https://shipfix.com/) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-11-06_shipfix-global-market-update_img_unnamed-2023-11-06t172527982_a5f304d77830.png)
 
 Data Source:[Shipfix](https://shipfix.com/)

@@ -30,8 +30,8 @@ What will happen in 2026 will depend to a large extent on geopolitical developme
 
 ![Exhibit 1: Small Changes Can Have A Big Impact](../../../charts/poten/2026/poten_2026-02-13_small-changes-can-have-a-big-impact_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2026/poten_2026-02-13_small-changes-can-have-a-big-impact_chart1.png)
+> **Interactive Asset:** [Local Asset (200 DPI PNG)](../../../charts/poten/2026/poten_2026-02-13_small-changes-can-have-a-big-impact_chart1.png)
 
 ![Exhibit 2: Small Changes Can Have A Big Impact](../../../charts/poten/2026/poten_2026-02-13_small-changes-can-have-a-big-impact_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2026/poten_2026-02-13_small-changes-can-have-a-big-impact_chart2.png)
+> **Interactive Asset:** [Local Asset (200 DPI PNG)](../../../charts/poten/2026/poten_2026-02-13_small-changes-can-have-a-big-impact_chart2.png)

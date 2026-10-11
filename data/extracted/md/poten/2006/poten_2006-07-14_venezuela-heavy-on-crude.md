@@ -38,18 +38,15 @@ According to the U.S. Department of Energy, U.S. imports from Venezuela are lowe
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: Venezuela: Heavy on Crude](../../../charts/poten/2006/poten_2006-07-14_venezuela-heavy-on-crude_chart1.png)
+![Exhibit 2: Total Reported Dirty Spot Liftings (Past 12 Months)](../../../charts/poten/2006/poten_2006-07-14_venezuela-heavy-on-crude_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2006/poten_2006-07-14_venezuela-heavy-on-crude_chart1.png)
-
-![Exhibit 2: Venezuela: Heavy on Crude](../../../charts/poten/2006/poten_2006-07-14_venezuela-heavy-on-crude_chart2.png)
-
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2006/poten_2006-07-14_venezuela-heavy-on-crude_chart2.png)
+> **Exhibit 2: Total Reported Dirty Spot Liftings (Past 12 Months)**  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2006/poten_2006-07-14_venezuela-heavy-on-crude_chart2.png)
 
 ![Exhibit 3: Venezuela: Heavy on Crude](../../../charts/poten/2006/poten_2006-07-14_venezuela-heavy-on-crude_chart3.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2006/poten_2006-07-14_venezuela-heavy-on-crude_chart3.png)
+> **Interactive Asset:** [Local Asset (200 DPI PNG)](../../../charts/poten/2006/poten_2006-07-14_venezuela-heavy-on-crude_chart3.png)
 
 ![Exhibit 4: Venezuela: Heavy on Crude](../../../charts/poten/2006/poten_2006-07-14_venezuela-heavy-on-crude_chart4.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2006/poten_2006-07-14_venezuela-heavy-on-crude_chart4.png)
+> **Interactive Asset:** [Local Asset (200 DPI PNG)](../../../charts/poten/2006/poten_2006-07-14_venezuela-heavy-on-crude_chart4.png)

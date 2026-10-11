@@ -24,10 +24,10 @@ source_file: "corpus/03-breakwave/insights/2026/2026-05-01_oils-rally-takes-a-pa
 
 Energy markets were unchanged. Industrial metals were steady despite positive economic data in China. Precious metals gained amid a softer USD.
 
-![Στιγμιότυπο Οθόνης 2026 05 01 110620](assets/2026-05-01_oils-rally-takes-a-pause-as-hormuz-stalemate-persists_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_7b21d60a5cef.png)
+![Στιγμιότυπο Οθόνης 2026 05 01 110620](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-05-01_oils-rally-takes-a-pause-as-hormuz-stalemate-persists_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_7b21d60a5cef.png)
 
 > **Figure 1: Στιγμιότυπο Οθόνης 2026 05 01 110620**  
-> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-05-01_oils-rally-takes-a-pause-as-hormuz-stalemate-persists_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_7b21d60a5cef.png)
+> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-05-01_oils-rally-takes-a-pause-as-hormuz-stalemate-persists_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_7b21d60a5cef.png)
 
 ### Market Commentary
 
@@ -45,10 +45,10 @@ The market is concerned that the ongoing closure of the Strait of Hormuz will ex
 
 China banned its refined oil product exports to secure domestic supply last month. Refinery margins have deteriorated following the export ban, leading to a buildup of domestic inventories for oil products. Unfavourable margins will see oil imports fall amid weak demand from refineries.
 
-![Στιγμιότυπο Οθόνης 2026 05 01 110809](assets/2026-05-01_oils-rally-takes-a-pause-as-hormuz-stalemate-persists_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_bcf19d85c4b8.png)
+![Στιγμιότυπο Οθόνης 2026 05 01 110809](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-05-01_oils-rally-takes-a-pause-as-hormuz-stalemate-persists_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_bcf19d85c4b8.png)
 
 > **Figure 2: Στιγμιότυπο Οθόνης 2026 05 01 110809**  
-> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-05-01_oils-rally-takes-a-pause-as-hormuz-stalemate-persists_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_bcf19d85c4b8.png)
+> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-05-01_oils-rally-takes-a-pause-as-hormuz-stalemate-persists_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_bcf19d85c4b8.png)
 
 Data source:[Commodities Wrap](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI)
 

@@ -204,6 +204,8 @@ The average daily pig iron output this week increased slightly to 2.3928 million
 | **SGX** | **** | USD/DMT | 0.35 | +0.34 | - | 0.17 | -0.53 | -0.55 | -1.15 |
 
 ## Dry Bulk Freight Rates Historical Line Data (USD/MT)
+> **Approximate.** The report prints no numbers for this chart. Values were read visually from the chart image by the parser and are rough estimates.
+
 | Date | C5 W. Australia - Qingdao (USD/MT) | C3 Tubarao - Qingdao (USD/MT) |
 | :--- | :--- | :--- |
 | 4-Jan-21 | 8.00 | 16.00 |
@@ -232,22 +234,38 @@ The average daily pig iron output this week increased slightly to 2.3928 million
 | 4-Sep-25 | 8.00 | 9.00 |
 
 ## Total China Iron Ore Import Volumes (Million Tonnes)
+> **Estimate.** The report prints no numbers for this chart. Values are computed from the chart's vector geometry at each x-axis date label (calibrated on the printed axis ticks; typically within 1% of the axis range).
+
 | Month / Period | Import Volume (Million Tonnes) |
 | :--- | :--- |
-| Jun-23 | 96.00 |
-| Aug-23 | 94.00 |
-| Oct-23 | 106.00 |
-| Dec-23 | 102.00 |
-| Feb-24 | 111.00 |
-| Apr-24 | 102.00 |
-| Jun-24 | 101.00 |
-| Aug-24 | 104.00 |
-| Oct-24 | 104.00 |
-| Dec-24 | 112.00 |
-| Feb-25 | 96.00 |
-| Apr-25 | 95.00 |
-| Jun-25 | 106.00 |
-| Aug-25 | 116.00 |
+| Jun-23 | 95.54 |
+| Jul-23 | 93.59 |
+| Aug-23 | 106.41 |
+| Sep-23 | 101.19 |
+| Oct-23 | 99.46 |
+| Nov-23 | 102.72 |
+| Dec-23 | 100.76 |
+| Jan-24 | 111.85 |
+| Feb-24 | 97.50 |
+| Mar-24 | 100.76 |
+| Apr-24 | 101.85 |
+| May-24 | 102.06 |
+| Jun-24 | 97.72 |
+| Jul-24 | 102.72 |
+| Aug-24 | 101.41 |
+| Sep-24 | 104.24 |
+| Oct-24 | 103.80 |
+| Nov-24 | 101.85 |
+| Dec-24 | 112.50 |
+| Jan-25 | 97.06 |
+| Feb-25 | 94.24 |
+| Mar-25 | 94.02 |
+| Apr-25 | 103.15 |
+| May-25 | 98.15 |
+| Jun-25 | 105.98 |
+| Jul-25 | 104.67 |
+| Aug-25 | 105.33 |
+| Sep-25 | 116.41 |
 
 ---
 

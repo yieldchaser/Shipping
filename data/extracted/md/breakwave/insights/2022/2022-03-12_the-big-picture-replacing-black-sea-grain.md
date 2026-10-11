@@ -26,10 +26,10 @@ source_file: "corpus/03-breakwave/insights/2022/2022-03-12_the-big-picture-repla
 
 Since 24 February, when the conflict began, CBOT wheat and corn prices have increased by 29.6% and 10.5% to $12/bushel and $7.7/bushel. The difference in price increases is a result of the importance Russia and Ukraine are to global supply in each of these markets. In 2021, only 16.3% of seaborne corn liftings were loaded in Ukraine whilst shipments from both countries represented 32.4% of total wheat loadings. Prices are also factoring in tight supply in the next marketing year due to concerns less crop is sown in Ukraine in the coming months. As corn planting is set to begin this month, the Ukrainian government have stated sowing will begin only in safe areas but the extent of these safe areas is unclear. Mass evacuations in the country may also contribute to reduced planting this year with Ukrainian farmers reportedly already facing labour shortages.
 
-![A1](assets/2022-03-12_the-big-picture-replacing-black-sea-grain_img_a1_c6a504c41a93.png)
+![A1](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-03-12_the-big-picture-replacing-black-sea-grain_img_a1_c6a504c41a93.png)
 
 > **Figure 1: A1**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-03-12_the-big-picture-replacing-black-sea-grain_img_a1_c6a504c41a93.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-03-12_the-big-picture-replacing-black-sea-grain_img_a1_c6a504c41a93.png)
 
 Shipments of Black Sea grains are expected to remain low for the time being as ports in the Ukraine remain shut and sanctions placed on Russia provide limited buyers for Russian farmers. Despite Ukraine Railways stating it would facilitate the transport of grains out of Ukraine by train to ports in nearby countries, the government has announced it is creating a state-funded food reserve. As a result, the majority of these volumes are unlikely to head elsewhere to other ports.
 
@@ -37,10 +37,10 @@ Shipments of Black Sea grains are expected to remain low for the time being as p
 
 In Australia, there is set to be another bumper crop year for wheat but the country is facing several bottlenecks restricting a ramp up in shipments. Although farmers in the country have sought to take advantage of higher prices, ship loaders have found it difficult to get more equipment. Meanwhile, with Australian unemployment at low levels, trucking companies are also facing constraints, finding it difficult to obtain more drivers. As a result, wheat shipments came in flat YoY over the January — February period, totalling 4.3m tonnes. Going forward, however, we expect an 8.1% increase YoY in wheat shipments out of Australia in 2022. This is based on another record crop and greater seaborne demand during the summer months when consumers would typically look to the Black Sea for supplies.
 
-![A2](assets/2022-03-12_the-big-picture-replacing-black-sea-grain_img_a2_3ab10d86d58d.png)
+![A2](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-03-12_the-big-picture-replacing-black-sea-grain_img_a2_3ab10d86d58d.png)
 
 > **Figure 2: A2**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-03-12_the-big-picture-replacing-black-sea-grain_img_a2_3ab10d86d58d.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-03-12_the-big-picture-replacing-black-sea-grain_img_a2_3ab10d86d58d.png)
 
 In the US, which exported 19.6m tonnes of wheat in 2021, farmers have been experiencing dry conditions throughout the winter wheat growing season. Subsequently, production is expected to decline by 10.0% to 44.8m tonnes in the 2021-22 marketing year according to the USDA, the lowest level of wheat production over the past 10 years despite similar planting areas. As a result, we estimate a 12.1% YoY decline in wheat shipments to 17.2m tonnes from the US in 2022.
 
@@ -48,10 +48,10 @@ With grain prices beginning to move higher towards the end of last year, India h
 
 India has kept hold of its large wheat inventories in previous years as security against droughts which it has experienced in the past. Farmers also earn high guaranteed prices from the government who then store it, meaning historically Indian prices were uncompetitive in the seaborne market.
 
-![A3](assets/2022-03-12_the-big-picture-replacing-black-sea-grain_img_a3_42e0a35b2d8f.png)
+![A3](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-03-12_the-big-picture-replacing-black-sea-grain_img_a3_42e0a35b2d8f.png)
 
 > **Figure 3: A3**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-03-12_the-big-picture-replacing-black-sea-grain_img_a3_42e0a35b2d8f.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-03-12_the-big-picture-replacing-black-sea-grain_img_a3_42e0a35b2d8f.png)
 
 Further, the short durations to nearby customers such as Bangladesh and the UAE, typical buyers from Russia, make India an ideal choice for buyers looking for alternative supply and reduce their cost of freight, particularly as bunker prices remain elevated.
 
@@ -63,10 +63,10 @@ Before halting port operations, Ukrainian corn exports totalled 3.9m tonnes in J
 
 The picture in Argentina and the US, the primary alternatives to Black Sea corn, is more positive than in previous years. Despite dealing with long periods of drought in Argentina, corn production is still expected to be a record 53m tonnes according to USDA estimates. In the US, the USDA also predict a bumper crop year for corn. In 2021, the country exported 58.1m tonnes, increasing by 28.0% YoY. As a result, we may see increased demand from these regions for grains from buyers who would typically purchase from Ukraine such as the Netherlands and Spain.
 
-![A4](assets/2022-03-12_the-big-picture-replacing-black-sea-grain_img_a4_2fb39814082c.png)
+![A4](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-03-12_the-big-picture-replacing-black-sea-grain_img_a4_2fb39814082c.png)
 
 > **Figure 4: A4**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-03-12_the-big-picture-replacing-black-sea-grain_img_a4_2fb39814082c.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-03-12_the-big-picture-replacing-black-sea-grain_img_a4_2fb39814082c.png)
 
 ### Outlook
 

@@ -46,6 +46,3 @@ The conference subjects were timely and interesting and presented in a forthrigh
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: Shipping without Borders](../../../charts/poten/2005/poten_2005-02-11_shipping-without-borders_chart1.png)
-
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2005/poten_2005-02-11_shipping-without-borders_chart1.png)

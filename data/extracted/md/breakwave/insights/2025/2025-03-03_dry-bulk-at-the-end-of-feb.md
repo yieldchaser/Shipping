@@ -24,10 +24,10 @@ source_file: "corpus/03-breakwave/insights/2025/2025-03-03_dry-bulk-at-the-end-o
 
 A year ago, Doric Weekly Insight opened on a note of euphoria, highlighting that the dry bulk sector had closed February at 2,111 points – a level last seen during this trading period in 2010. Twelve months later, the benchmark for dry bulk activity ended February at 1,229 points, having spent much of the first two trading months in three-digit territory. However, a direct comparison between the two years may not be entirely appropriate. Over the past fifteen trading years, the spot market has rarely recorded end-February levels above 1,000 points, let alone the 2,000-point threshold. In fact, excluding the COVID-19-disrupted 2022 and the front-loaded 2024, one must go back to 2010 to find a similarly strong market at this time of year.
 
-![Screenshot 2025 03 03 09.59.59](assets/2025-03-03_dry-bulk-at-the-end-of-feb_img_screenshot2025-03-03095959_a67f9d55d884.png)
+![Screenshot 2025 03 03 09.59.59](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-03-03_dry-bulk-at-the-end-of-feb_img_screenshot2025-03-03095959_a67f9d55d884.png)
 
 > **Figure 1: Screenshot 2025 03 03 09.59.59**  
-> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-03-03_dry-bulk-at-the-end-of-feb_img_screenshot2025-03-03095959_a67f9d55d884.png)
+> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-03-03_dry-bulk-at-the-end-of-feb_img_screenshot2025-03-03095959_a67f9d55d884.png)
 
 Against this backdrop, 2025 has been relatively lukewarm, yet the end-February level still stands above both the average and median values of the past fifteen years. By segment, Capesize led the market, closing at $15,074 per day – its highest level of the year and significantly above mid-February’s multi-month lows. The Panamax and Supramax markets, settling at $9,569 and $9,275 per day, respectively, remained below their recent peaks. Meanwhile, the Handysize segment erased all its 2025 losses by month-end, balancing at $9,844 per day.
 
@@ -43,10 +43,10 @@ To further support economic growth, India’s central bank announced a rate cut 
 
 Whether India alone can drive a broader market recovery remains debatable, but its sustained economic expansion, robust industrial production, and rising steel output provide crucial support to various segments of the dry bulk shipping market. With growing demand for raw materials, India continues to shape regional trade flows, reinforcing its role as a key driver of bulk carrier activity. However, the broader market landscape remains complex, with global macroeconomic uncertainties tempering sentiment. In this context, while February’s market levels may not compare to the euphoria of early 2024, they remain above historical averages, offering a degree of resilience. Ultimately, the trajectory of the market in the coming months will prove far more significant than the strength or weakness of its early-year performance, as the first quarter rarely sets the tone for the full year ahead.
 
-![Screenshot 2025 03 03 10.01.10](assets/2025-03-03_dry-bulk-at-the-end-of-feb_img_screenshot2025-03-03100110_84ae4f1a73e6.png)
+![Screenshot 2025 03 03 10.01.10](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-03-03_dry-bulk-at-the-end-of-feb_img_screenshot2025-03-03100110_84ae4f1a73e6.png)
 
 > **Figure 2: Screenshot 2025 03 03 10.01.10**  
-> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-03-03_dry-bulk-at-the-end-of-feb_img_screenshot2025-03-03100110_84ae4f1a73e6.png)
+> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-03-03_dry-bulk-at-the-end-of-feb_img_screenshot2025-03-03100110_84ae4f1a73e6.png)
 
 Data source:[Doric](https://www.doric.gr/)
 

@@ -51,14 +51,23 @@ year. Glencore dropped a few places (from #8 to #10), while Trafigura, ENI and U
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: The (Mostly) Predictable Parade](../../../charts/poten/2025/poten_2025-01-03_the-mostly-predictable-parade_chart1.png)
+![Exhibit 1: 2024: Top 10 VLCC Spot Charterers](../../../charts/poten/2025/poten_2025-01-03_the-mostly-predictable-parade_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2025/poten_2025-01-03_the-mostly-predictable-parade_chart1.png)
+> **Exhibit 1: 2024: Top 10 VLCC Spot Charterers**  
+> Unit: Fixtures · X-axis: Unipec to PTT  
+> Series: No. Spot  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2025/poten_2025-01-03_the-mostly-predictable-parade_chart1.png)
 
-![Exhibit 2: The (Mostly) Predictable Parade](../../../charts/poten/2025/poten_2025-01-03_the-mostly-predictable-parade_chart2.png)
+![Exhibit 2: 2024: Top 10 Suezmax Spot Charterers](../../../charts/poten/2025/poten_2025-01-03_the-mostly-predictable-parade_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2025/poten_2025-01-03_the-mostly-predictable-parade_chart2.png)
+> **Exhibit 2: 2024: Top 10 Suezmax Spot Charterers**  
+> Unit: Fixtures · X-axis: ExxonMobil to Glencore  
+> Series: No. Spot  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2025/poten_2025-01-03_the-mostly-predictable-parade_chart2.png)
 
-![Exhibit 3: The (Mostly) Predictable Parade](../../../charts/poten/2025/poten_2025-01-03_the-mostly-predictable-parade_chart3.png)
+![Exhibit 3: 2024: Top 10 Aframax Spot Charterers](../../../charts/poten/2025/poten_2025-01-03_the-mostly-predictable-parade_chart3.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2025/poten_2025-01-03_the-mostly-predictable-parade_chart3.png)
+> **Exhibit 3: 2024: Top 10 Aframax Spot Charterers**  
+> Unit: Fixtures · X-axis: Chevron to VITOL  
+> Series: No. Spot  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2025/poten_2025-01-03_the-mostly-predictable-parade_chart3.png)

@@ -23,10 +23,10 @@ source_file: "corpus/03-breakwave/insights/2022/2022-05-06_crude-oil-gains-as-op
 
 A gloomy economic backdrop weighed on sentiment across markets. But supply side issues in energy markets helped keep them afloat.
 
-![1651787917027](assets/2022-05-06_crude-oil-gains-as-opec-struggles-to-raise-output_img_1651787917027_ac1e95f1e3e8.png)
+![1651787917027](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-05-06_crude-oil-gains-as-opec-struggles-to-raise-output_img_1651787917027_ac1e95f1e3e8.png)
 
 > **Figure 1: 1651787917027**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-05-06_crude-oil-gains-as-opec-struggles-to-raise-output_img_1651787917027_ac1e95f1e3e8.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-05-06_crude-oil-gains-as-opec-struggles-to-raise-output_img_1651787917027_ac1e95f1e3e8.png)
 
 **Crude oil**edged higher as the market fretted about supply. A stronger USD and losses across most other asset classes weighed on sentiment early in the session. However, attention quickly reverted to fundamentals tightening in the short term. The market is concerned that Europe will struggle to replace the 3.2mb/d it imports from Russia, as it looks to impose a ban over the next six months. OPEC seems unable to cover the losses. At its monthly meeting overnight, it ratified a small monthly production increase (400kb/d). The reality is thought that it is struggling to raise output, with Bloomberg data showing production rose by only 10kb/d in April. Kuwaiti oil minister, Mohammed Alfares, said the group remained concerned about weaker demand in China and the prospects of weaker economic growth due to rising interest rates. It also sees no shortage stemming from the Russia-Ukraine war, and raised its forecast of a surplus by 600kb/d to 1.9mb/d. The market was also surprised by the announcement that the US Energy Department would start purchasing oil to refill the nation’s strategic reserve. This is likely to exacerbate the tightness in the oil market.
 

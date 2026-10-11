@@ -32,10 +32,10 @@ Every few weeks a number lands that seems to settle the argument of China’s cr
 The tidy conclusion drawn almost everywhere was that Chinese demand is weak and dragging oil prices down with it. However, an import number and a demand number are not the same thing, and the space between them is where the truth sits.
 
 
-![The Headline That Looks Like a Smoking Gun](../../images/6a58b650078c87eeeba389de_1.-China-Crude-Oil-Imports.png)
+![The Headline That Looks Like a Smoking Gun](../../../../../../corpus/07-signal/images/6a58b650078c87eeeba389de_1.-China-Crude-Oil-Imports.png)
 
 > **Figure 1: The Headline That Looks Like a Smoking Gun**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/why-chinas-crude-collapse-isnt-the-demand-story-it-looks-like) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6a58b650078c87eeeba389de_1.-China-Crude-Oil-Imports.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/why-chinas-crude-collapse-isnt-the-demand-story-it-looks-like) | [Local Asset](../../../../../../corpus/07-signal/images/6a58b650078c87eeeba389de_1.-China-Crude-Oil-Imports.png)
 
 
 ## The Backdrop Has Already Turned
@@ -51,13 +51,13 @@ Physical crude obeys one unbreakable rule. Whatever a country produces, plus wha
 ![What the Balance Actually Shows](../../images/6a58b6da5823adfd53575c02_Table 1.PNG)
 
 > **Figure 2: What the Balance Actually Shows**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/why-chinas-crude-collapse-isnt-the-demand-story-it-looks-like) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6a58b6da5823adfd53575c02_Table 1.PNG)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/why-chinas-crude-collapse-isnt-the-demand-story-it-looks-like) | [Local Asset](../../../../../../corpus/07-signal/images/6a58b6da5823adfd53575c02_Table%201.PNG)
 
 
-![What the Balance Actually Shows](../../images/6a58b6f4c412e963bb76eb83_2.-China-Implied-Crude-Stock-Change.png)
+![What the Balance Actually Shows](../../../../../../corpus/07-signal/images/6a58b6f4c412e963bb76eb83_2.-China-Implied-Crude-Stock-Change.png)
 
 > **Figure 3: What the Balance Actually Shows**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/why-chinas-crude-collapse-isnt-the-demand-story-it-looks-like) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6a58b6f4c412e963bb76eb83_2.-China-Implied-Crude-Stock-Change.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/why-chinas-crude-collapse-isnt-the-demand-story-it-looks-like) | [Local Asset](../../../../../../corpus/07-signal/images/6a58b6f4c412e963bb76eb83_2.-China-Implied-Crude-Stock-Change.png)
 
 Imports did collapse, from nearly 12 million barrels a day in March to under 8 by May. Yet right through March China was still importing far more crude than its refineries could use and putting the surplus into tanks at close to 1.7 million barrels a day. It kept building in April. Only in May did the balance tip into a draw, and a gentle one at that. China was stocking up into the disruption, which is how a buyer behaves when it sees a squeeze coming and decides to get ahead of it.
 
@@ -69,21 +69,21 @@ Imports do two jobs at once: they feed the refineries, and they fill or empty th
 ![What the Balance Actually Shows](../../images/6a58b70e5d6ed41ccc676a5e_Table 2.PNG)
 
 > **Figure 4: What the Balance Actually Shows**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/why-chinas-crude-collapse-isnt-the-demand-story-it-looks-like) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6a58b70e5d6ed41ccc676a5e_Table 2.PNG)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/why-chinas-crude-collapse-isnt-the-demand-story-it-looks-like) | [Local Asset](../../../../../../corpus/07-signal/images/6a58b70e5d6ed41ccc676a5e_Table%202.PNG)
 
 
-![What the Balance Actually Shows](../../images/6a58b7224ee26d41bf59227a_3.-China-Crude-Inventory-Swings.png)
+![What the Balance Actually Shows](../../../../../../corpus/07-signal/images/6a58b7224ee26d41bf59227a_3.-China-Crude-Inventory-Swings.png)
 
 > **Figure 5: What the Balance Actually Shows**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/why-chinas-crude-collapse-isnt-the-demand-story-it-looks-like) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6a58b7224ee26d41bf59227a_3.-China-Crude-Inventory-Swings.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/why-chinas-crude-collapse-isnt-the-demand-story-it-looks-like) | [Local Asset](../../../../../../corpus/07-signal/images/6a58b7224ee26d41bf59227a_3.-China-Crude-Inventory-Swings.png)
 
 So of the alarming 29 percent fall in imports, close to 60 percent is the tanks and only 40 percent, about 1.3 mbpd, is refineries running a little softer. That is the only part connected to consumption, and once the brief spring cut to export fuels is netted out, it points to China’s own oil demand running roughly 1.2 mbpd below a year earlier by May.
 
 
-![What the Balance Actually Shows](../../images/6a58b739f08415c83caab395_4.-China-Refined-Products-Exports.png)
+![What the Balance Actually Shows](../../../../../../corpus/07-signal/images/6a58b739f08415c83caab395_4.-China-Refined-Products-Exports.png)
 
 > **Figure 6: What the Balance Actually Shows**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/why-chinas-crude-collapse-isnt-the-demand-story-it-looks-like) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6a58b739f08415c83caab395_4.-China-Refined-Products-Exports.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/why-chinas-crude-collapse-isnt-the-demand-story-it-looks-like) | [Local Asset](../../../../../../corpus/07-signal/images/6a58b739f08415c83caab395_4.-China-Refined-Products-Exports.png)
 
 
 ## Two Proposed Buffers: Production and Inventories
@@ -96,13 +96,13 @@ Its own production does not. You would expect a country suddenly importing far l
 ![Two Proposed Buffers: Production and Inventories](../../images/6a58b797d55712f170990587_Table 3.PNG)
 
 > **Figure 7: Two Proposed Buffers: Production and Inventories**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/why-chinas-crude-collapse-isnt-the-demand-story-it-looks-like) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6a58b797d55712f170990587_Table 3.PNG)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/why-chinas-crude-collapse-isnt-the-demand-story-it-looks-like) | [Local Asset](../../../../../../corpus/07-signal/images/6a58b797d55712f170990587_Table%203.PNG)
 
 
-![Two Proposed Buffers: Production and Inventories](../../images/6a58b7a5d55712f170990ded_5.-China-Crude-Output.png)
+![Two Proposed Buffers: Production and Inventories](../../../../../../corpus/07-signal/images/6a58b7a5d55712f170990ded_5.-China-Crude-Output.png)
 
 > **Figure 8: Two Proposed Buffers: Production and Inventories**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/why-chinas-crude-collapse-isnt-the-demand-story-it-looks-like) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6a58b7a5d55712f170990ded_5.-China-Crude-Output.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/why-chinas-crude-collapse-isnt-the-demand-story-it-looks-like) | [Local Asset](../../../../../../corpus/07-signal/images/6a58b7a5d55712f170990ded_5.-China-Crude-Output.png)
 
 At a flat rate of roughly 4.4 mbpd, the incremental barrel from China’s own fields is immaterial. It provides no meaningful cushion.
 
@@ -114,18 +114,18 @@ Inventories are the mechanism that does the work. The pattern of building stocks
 Waterborne crude to China fell by around 56% between January and June, with the drop concentrated in barrels that used to pass inside the Strait of Hormuz. Those went to almost nothing, offset by a rise in barrels loading just outside it. That is the rerouting caught in the act: crude shuttled out and transferred ship to ship rather than sailed through the strait.
 
 
-![Following the Barrels](../../images/6a58b7bcc412e963bb777f2b_6.-Chinese-Seaborne-Crude-Oil-imports.png)
+![Following the Barrels](../../../../../../corpus/07-signal/images/6a58b7bcc412e963bb777f2b_6.-Chinese-Seaborne-Crude-Oil-imports.png)
 
 > **Figure 9: Following the Barrels**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/why-chinas-crude-collapse-isnt-the-demand-story-it-looks-like) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6a58b7bcc412e963bb777f2b_6.-Chinese-Seaborne-Crude-Oil-imports.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/why-chinas-crude-collapse-isnt-the-demand-story-it-looks-like) | [Local Asset](../../../../../../corpus/07-signal/images/6a58b7bcc412e963bb777f2b_6.-Chinese-Seaborne-Crude-Oil-imports.png)
 
 The waterborne total runs a little below the customs total, by around 2.5 million barrels a day through the spring, and that gap is informative rather than a shortcoming. About a million of it is pipeline crude from Russia and Kazakhstan, which moves overland and by definition never crosses a vessel feed. The rest is the shadow trade, ship-to-ship barrels, mainly Iranian, blended and re-papered at transfer points off Malaysia and Indonesia before sailing to China as local-origin crude.
 
 
-![Following the Barrels](../../images/6a58b7dd717640e5378256fd_7.-Chinese-Seaborne-vs-Pipeline-Crude-Oil-imports.png)
+![Following the Barrels](../../../../../../corpus/07-signal/images/6a58b7dd717640e5378256fd_7.-Chinese-Seaborne-vs-Pipeline-Crude-Oil-imports.png)
 
 > **Figure 10: Following the Barrels**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/why-chinas-crude-collapse-isnt-the-demand-story-it-looks-like) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6a58b7dd717640e5378256fd_7.-Chinese-Seaborne-vs-Pipeline-Crude-Oil-imports.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/why-chinas-crude-collapse-isnt-the-demand-story-it-looks-like) | [Local Asset](../../../../../../corpus/07-signal/images/6a58b7dd717640e5378256fd_7.-Chinese-Seaborne-vs-Pipeline-Crude-Oil-imports.png)
 
 The second pool is that shadow crude while it waits at sea. Iranian crude held in floating storage, staged mostly off Singapore and the Malaysian archipelago, was drawn from about 51 down to 27 million barrels over the first half of the year. The pace of that draw was front-loaded into the opening months, before the collapse in waterborne imports in April. In plain terms, China reached first for the buffer it had pre-positioned offshore, then let its imports fall. This pool sits upstream of the Chinese border.
 
@@ -135,10 +135,10 @@ The second pool is that shadow crude while it waits at sea. Iranian crude held i
 If there were a genuine demand shock, it should show up, in petrochemicals, and specifically in the two main cracker feedstocks. China’s combined LPG and naphtha arrivals fell by close to a million barrels a day between February and April. The reflexive reading is the same as for crude, that fewer feedstock barrels must mean weaker petrochemical demand. Yet China’s ethylene output did not fall. It held, and grew about two percent year-to-date through May, straight through the import cut. Imports fell but the crackers kept producing.
 
 
-![The Same Mirage, One Commodity Over](../../images/6a58b7dd717640e537825701_7.-LPG-Naptha-imports-vs-Chinese-Ethylene.png)
+![The Same Mirage, One Commodity Over](../../../../../../corpus/07-signal/images/6a58b7dd717640e537825701_7.-LPG-Naptha-imports-vs-Chinese-Ethylene.png)
 
 > **Figure 11: The Same Mirage, One Commodity Over**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/why-chinas-crude-collapse-isnt-the-demand-story-it-looks-like) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6a58b7dd717640e537825701_7.-LPG-Naptha-imports-vs-Chinese-Ethylene.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/why-chinas-crude-collapse-isnt-the-demand-story-it-looks-like) | [Local Asset](../../../../../../corpus/07-signal/images/6a58b7dd717640e537825701_7.-LPG-Naptha-imports-vs-Chinese-Ethylene.png)
 
 The cut also fell where the economics said it should. Naphtha, the crude-derived feed, collapsed almost to nothing by April, while LPG, held up far better. The tempting explanation is that China simply switched to its coal-based ethylene production. The methanol-to-olefins units, the ones that buy methanol on the market, were squeezed to negative margins and many idled. Both the oil-linked feed and the methanol feed were hit at once by the same Gulf shock.
 

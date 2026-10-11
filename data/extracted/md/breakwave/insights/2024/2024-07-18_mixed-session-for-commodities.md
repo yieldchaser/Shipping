@@ -58,10 +58,10 @@ After depressed cargo order volumes during much of last year, demand for seaborn
 
 While weekly cargo order volumes for rice loading globally have been volatile over the past months, the robust volumes have contributed to a better-supplied global market and driven prices to the current low levels. The aggregate for the first half of July suggests that the month’s total may surpass the reading for June. Hence, rice prices look set to remain under pressure in the coming months.
 
-![Στιγμιότυπο Οθόνης 2024 07 18 102126](assets/2024-07-18_mixed-session-for-commodities_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_7188f099376a.png)
+![Στιγμιότυπο Οθόνης 2024 07 18 102126](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-07-18_mixed-session-for-commodities_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_7188f099376a.png)
 
 > **Figure 1: Στιγμιότυπο Οθόνης 2024 07 18 102126**  
-> **Interactive Data & Source:** [Shipfix](https://shipfix.com/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-07-18_mixed-session-for-commodities_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_7188f099376a.png)
+> **Interactive Data & Source:** [Shipfix](https://shipfix.com/) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-07-18_mixed-session-for-commodities_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_7188f099376a.png)
 
 Data Source:[Shipfix](https://shipfix.com/)
 

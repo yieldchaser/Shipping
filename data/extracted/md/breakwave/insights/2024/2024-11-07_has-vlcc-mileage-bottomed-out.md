@@ -43,10 +43,10 @@ Looking ahead to 2025, it’s likely Northeast Asia’s crude demand will stabil
 
 Declining import needs in Europe in 2025 will likely send US and other Atlantic Basin crudes to Asia, providing a much-needed boost to tonnemile demand for VLCCs.
 
-![Στιγμιότυπο Οθόνης 2024 11 07 114919](assets/2024-11-07_has-vlcc-mileage-bottomed-out_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_8adf941f5778.png)
+![Στιγμιότυπο Οθόνης 2024 11 07 114919](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-11-07_has-vlcc-mileage-bottomed-out_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_8adf941f5778.png)
 
 > **Figure 1: Στιγμιότυπο Οθόνης 2024 11 07 114919**  
-> **Interactive Data & Source:** [Vortexa](https://www.vortexa.com//oil-gas-data-traders-analysts-data-scientists?gclid=Cj0KCQjw8_qRBhCXARIsAE2AtRZKOvMnbilZ_6_91d7huSFFy71pWLrnPwGwOHVzXsmsG-1a1mZnQw8aAt89EALw_wcB&hsa_acc=1782073842&hsa_ad=548425387665&hsa_cam=14746637662&hsa_grp=125038601902&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_src=g&hsa_tgt=dsa-1431852288425&hsa_ver=3&utm_campaign=%5BCD%5D%20-%20DSA%20-%20EMEA&utm_medium=cpc&utm_medium=ppc&utm_source=google&utm_source=adwords&utm_term=) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-11-07_has-vlcc-mileage-bottomed-out_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_8adf941f5778.png)
+> **Interactive Data & Source:** [Vortexa](https://www.vortexa.com//oil-gas-data-traders-analysts-data-scientists?gclid=Cj0KCQjw8_qRBhCXARIsAE2AtRZKOvMnbilZ_6_91d7huSFFy71pWLrnPwGwOHVzXsmsG-1a1mZnQw8aAt89EALw_wcB&hsa_acc=1782073842&hsa_ad=548425387665&hsa_cam=14746637662&hsa_grp=125038601902&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_src=g&hsa_tgt=dsa-1431852288425&hsa_ver=3&utm_campaign=%5BCD%5D%20-%20DSA%20-%20EMEA&utm_medium=cpc&utm_medium=ppc&utm_source=google&utm_source=adwords&utm_term=) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-11-07_has-vlcc-mileage-bottomed-out_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_8adf941f5778.png)
 
 ## Clean – East of Suez: Share of Lr Voyages to the Pacific Basin Increases As More Middle Distillates Stay Within the Pacific
 
@@ -62,10 +62,10 @@ This coincides with higher demand in India for the holiday season, plus the begi
 
 LR mileage for voyages to Pacific Basin destinations is generally about 40% lower than voyage mileage to Atlantic Basin destinations, so a tilt towards the Pacific Basin does not bode well for global tonne-mile demand
 
-![Στιγμιότυπο Οθόνης 2024 11 07 115636](assets/2024-11-07_has-vlcc-mileage-bottomed-out_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_daadc497ac47.png)
+![Στιγμιότυπο Οθόνης 2024 11 07 115636](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-11-07_has-vlcc-mileage-bottomed-out_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_daadc497ac47.png)
 
 > **Figure 2: Στιγμιότυπο Οθόνης 2024 11 07 115636**  
-> **Interactive Data & Source:** [Vortexa](https://www.vortexa.com//oil-gas-data-traders-analysts-data-scientists?gclid=Cj0KCQjw8_qRBhCXARIsAE2AtRZKOvMnbilZ_6_91d7huSFFy71pWLrnPwGwOHVzXsmsG-1a1mZnQw8aAt89EALw_wcB&hsa_acc=1782073842&hsa_ad=548425387665&hsa_cam=14746637662&hsa_grp=125038601902&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_src=g&hsa_tgt=dsa-1431852288425&hsa_ver=3&utm_campaign=%5BCD%5D%20-%20DSA%20-%20EMEA&utm_medium=cpc&utm_medium=ppc&utm_source=google&utm_source=adwords&utm_term=) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-11-07_has-vlcc-mileage-bottomed-out_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_daadc497ac47.png)
+> **Interactive Data & Source:** [Vortexa](https://www.vortexa.com//oil-gas-data-traders-analysts-data-scientists?gclid=Cj0KCQjw8_qRBhCXARIsAE2AtRZKOvMnbilZ_6_91d7huSFFy71pWLrnPwGwOHVzXsmsG-1a1mZnQw8aAt89EALw_wcB&hsa_acc=1782073842&hsa_ad=548425387665&hsa_cam=14746637662&hsa_grp=125038601902&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_src=g&hsa_tgt=dsa-1431852288425&hsa_ver=3&utm_campaign=%5BCD%5D%20-%20DSA%20-%20EMEA&utm_medium=cpc&utm_medium=ppc&utm_source=google&utm_source=adwords&utm_term=) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-11-07_has-vlcc-mileage-bottomed-out_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_daadc497ac47.png)
 
 ## Dirty – West of Suez: Libya’s Crude Exports Rebound, But High Vessel Supply Pressures Td19 Rates
 
@@ -83,10 +83,10 @@ Libya’s export rebound attracted vessels to the region in expectation of incre
 
 ➔ The plunge in rates could send ballasters elsewhere, alleviating the supply pressure in the Med
 
-![Στιγμιότυπο Οθόνης 2024 11 07 115914](assets/2024-11-07_has-vlcc-mileage-bottomed-out_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_a256ca7e797f.png)
+![Στιγμιότυπο Οθόνης 2024 11 07 115914](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-11-07_has-vlcc-mileage-bottomed-out_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_a256ca7e797f.png)
 
 > **Figure 3: Στιγμιότυπο Οθόνης 2024 11 07 115914**  
-> **Interactive Data & Source:** [Vortexa](https://www.vortexa.com//oil-gas-data-traders-analysts-data-scientists?gclid=Cj0KCQjw8_qRBhCXARIsAE2AtRZKOvMnbilZ_6_91d7huSFFy71pWLrnPwGwOHVzXsmsG-1a1mZnQw8aAt89EALw_wcB&hsa_acc=1782073842&hsa_ad=548425387665&hsa_cam=14746637662&hsa_grp=125038601902&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_src=g&hsa_tgt=dsa-1431852288425&hsa_ver=3&utm_campaign=%5BCD%5D%20-%20DSA%20-%20EMEA&utm_medium=cpc&utm_medium=ppc&utm_source=google&utm_source=adwords&utm_term=) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-11-07_has-vlcc-mileage-bottomed-out_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_a256ca7e797f.png)
+> **Interactive Data & Source:** [Vortexa](https://www.vortexa.com//oil-gas-data-traders-analysts-data-scientists?gclid=Cj0KCQjw8_qRBhCXARIsAE2AtRZKOvMnbilZ_6_91d7huSFFy71pWLrnPwGwOHVzXsmsG-1a1mZnQw8aAt89EALw_wcB&hsa_acc=1782073842&hsa_ad=548425387665&hsa_cam=14746637662&hsa_grp=125038601902&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_src=g&hsa_tgt=dsa-1431852288425&hsa_ver=3&utm_campaign=%5BCD%5D%20-%20DSA%20-%20EMEA&utm_medium=cpc&utm_medium=ppc&utm_source=google&utm_source=adwords&utm_term=) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-11-07_has-vlcc-mileage-bottomed-out_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_a256ca7e797f.png)
 
 ## Clean – West of Suez: Short-Haul Voyages to South America West Coast Gain Momentum, But Could This Change?
 
@@ -102,10 +102,10 @@ Looking ahead however, this could change:
 
 ➔ This will increase the average voyage mileage out of the US Gulf and in turn provide support to tonne-miles for MR tankers in the region
 
-![Στιγμιότυπο Οθόνης 2024 11 07 120124](assets/2024-11-07_has-vlcc-mileage-bottomed-out_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_f9caebc3b0b8.png)
+![Στιγμιότυπο Οθόνης 2024 11 07 120124](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-11-07_has-vlcc-mileage-bottomed-out_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_f9caebc3b0b8.png)
 
 > **Figure 4: Στιγμιότυπο Οθόνης 2024 11 07 120124**  
-> **Interactive Data & Source:** [Vortexa](https://www.vortexa.com//oil-gas-data-traders-analysts-data-scientists?gclid=Cj0KCQjw8_qRBhCXARIsAE2AtRZKOvMnbilZ_6_91d7huSFFy71pWLrnPwGwOHVzXsmsG-1a1mZnQw8aAt89EALw_wcB&hsa_acc=1782073842&hsa_ad=548425387665&hsa_cam=14746637662&hsa_grp=125038601902&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_src=g&hsa_tgt=dsa-1431852288425&hsa_ver=3&utm_campaign=%5BCD%5D%20-%20DSA%20-%20EMEA&utm_medium=cpc&utm_medium=ppc&utm_source=google&utm_source=adwords&utm_term=) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-11-07_has-vlcc-mileage-bottomed-out_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_f9caebc3b0b8.png)
+> **Interactive Data & Source:** [Vortexa](https://www.vortexa.com//oil-gas-data-traders-analysts-data-scientists?gclid=Cj0KCQjw8_qRBhCXARIsAE2AtRZKOvMnbilZ_6_91d7huSFFy71pWLrnPwGwOHVzXsmsG-1a1mZnQw8aAt89EALw_wcB&hsa_acc=1782073842&hsa_ad=548425387665&hsa_cam=14746637662&hsa_grp=125038601902&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_src=g&hsa_tgt=dsa-1431852288425&hsa_ver=3&utm_campaign=%5BCD%5D%20-%20DSA%20-%20EMEA&utm_medium=cpc&utm_medium=ppc&utm_source=google&utm_source=adwords&utm_term=) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-11-07_has-vlcc-mileage-bottomed-out_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_f9caebc3b0b8.png)
 
 Data Source:[Vortexa](https://www.vortexa.com//oil-gas-data-traders-analysts-data-scientists?gclid=Cj0KCQjw8_qRBhCXARIsAE2AtRZKOvMnbilZ_6_91d7huSFFy71pWLrnPwGwOHVzXsmsG-1a1mZnQw8aAt89EALw_wcB&hsa_acc=1782073842&hsa_ad=548425387665&hsa_cam=14746637662&hsa_grp=125038601902&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_src=g&hsa_tgt=dsa-1431852288425&hsa_ver=3&utm_campaign=%5BCD%5D%20-%20DSA%20-%20EMEA&utm_medium=cpc&utm_medium=ppc&utm_source=google&utm_source=adwords&utm_term=)
 

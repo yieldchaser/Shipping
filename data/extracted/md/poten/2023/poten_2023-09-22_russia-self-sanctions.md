@@ -32,10 +32,18 @@ While the duration and the enforcement of the ban is still unknown, it is also n
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: Russia Self Sanctions](../../../charts/poten/2023/poten_2023-09-22_russia-self-sanctions_chart1.png)
+![Exhibit 1: Russian Seaborne Diesel Exports By Destination](../../../charts/poten/2023/poten_2023-09-22_russia-self-sanctions_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2023/poten_2023-09-22_russia-self-sanctions_chart1.png)
+> **Exhibit 1: Russian Seaborne Diesel Exports By Destination**  
+> Unit: Kb/d · X-axis: Jan-20 to Jul-23  
+> Series: Turkey, France, Germany, United Kingdom, Greece, Poland, Netherlands, Belgium, Other  
+> *Source: Vortexa*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2023/poten_2023-09-22_russia-self-sanctions_chart1.png)
 
-![Exhibit 2: Russia Self Sanctions](../../../charts/poten/2023/poten_2023-09-22_russia-self-sanctions_chart2.png)
+![Exhibit 2: Russian Seaborne Gasoline Exports By Destination](../../../charts/poten/2023/poten_2023-09-22_russia-self-sanctions_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2023/poten_2023-09-22_russia-self-sanctions_chart2.png)
+> **Exhibit 2: Russian Seaborne Gasoline Exports By Destination**  
+> Unit: Kb/d · X-axis: Jan-20 to Jul-23  
+> Series: Netherlands, Latvia, United Arab Emirates, Belgium, Nigeria, Estonia, United States, Puerto Rico, Other  
+> *Source: Vortexa*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2023/poten_2023-09-22_russia-self-sanctions_chart2.png)

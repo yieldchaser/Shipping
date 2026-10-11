@@ -60,10 +60,10 @@ Still, the seasonal recovery for the grains and oilseed trade in the US Gulf som
 
 As demand for shipments to ports in eastern Asia has seen a relative decline, cargo order volumes for US agricultural commodities for discharge in the Mediterranean and other less distant destinations have more than made up for the shortfall. Hence, the trade is seeing a decline in spot tonne-mile demand, which will provide continued headwinds for the small and mid-sized vessel segments. In addition, the shorter voyages will contribute to higher tonnage supply in the coming months.
 
-![Στιγμιότυπο Οθόνης 2024 09 06 154310](assets/2024-09-06_c5xgy7fggyc3oqpem2kaswx6cl560q_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_d831122c32d5.png)
+![Στιγμιότυπο Οθόνης 2024 09 06 154310](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-09-06_c5xgy7fggyc3oqpem2kaswx6cl560q_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_d831122c32d5.png)
 
 > **Figure 1: Στιγμιότυπο Οθόνης 2024 09 06 154310**  
-> **Interactive Data & Source:** [Shipfix](https://shipfix.com/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-09-06_c5xgy7fggyc3oqpem2kaswx6cl560q_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_d831122c32d5.png)
+> **Interactive Data & Source:** [Shipfix](https://shipfix.com/) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-09-06_c5xgy7fggyc3oqpem2kaswx6cl560q_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_d831122c32d5.png)
 
 Data Source:[Shipfix](https://shipfix.com/)
 

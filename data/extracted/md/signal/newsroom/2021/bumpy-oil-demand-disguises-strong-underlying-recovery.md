@@ -32,19 +32,23 @@ The previous year, 2019, was the last time oil demand reflected normal economic 
 
 Globally oil discharged by Very Large Crude Carriers (VLCCs) rose to 478 vessels this month having dipped to 435 in April, according to [Signal Ocean](https://www.thesignalgroup.com/signal-ocean/signal-ocean-platform) data. While deliveries in the Far East - which is a barometer of global demand - jumped back to 368 vessels from 323 in April. There was no significant change in deliveries to China but higher deliveries to Japan, Korea, Malaysia and Singapore.
 
+Global deliveries are bumpy but stronger this month
 
-![Opec Navigates Uneven Oil Demand Recovery Amid Global Shifts](../../images/66b51d0d0e11607ea71d46dd_60ab924f9c9cf70d0b85d00e_VLCC%20-%20Global%20Discharges.avif)
+
+![Opec Navigates Uneven Oil Demand Recovery Amid Global Shifts](../../images/66b51d0d0e11607ea71d46dd_60ab924f9c9cf70d0b85d00e_VLCC%2520-%2520Global%2520Discharges.avif)
 
 > **Figure 1: Opec Navigates Uneven Oil Demand Recovery Amid Global Shifts**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/bumpy-oil-demand-disguises-strong-underlying-recovery) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/66b51d0d0e11607ea71d46dd_60ab924f9c9cf70d0b85d00e_VLCC%20-%20Global%20Discharges.avif)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/bumpy-oil-demand-disguises-strong-underlying-recovery) | [Local Asset](../../../../../../corpus/07-signal/images/66b51d0d0e11607ea71d46dd_60ab924f9c9cf70d0b85d00e_VLCC%2520-%2520Global%2520Discharges.avif)
 
 Despite being only slightly higher deliveries overall the geographic distribution of deliveries to China shifted in May. More cargoes discharged in the industrialized north and less to the southern and central areas compared to April deliveries.
 
+China deliveries are steady but up in the northern region
 
-![Opec Navigates Uneven Oil Demand Recovery Amid Global Shifts](../../images/66b51d0d0e11607ea71d46da_60ab92b16c028d6638358af9_VLCC%20-%20China%20discharges.avif)
+
+![Opec Navigates Uneven Oil Demand Recovery Amid Global Shifts](../../images/66b51d0d0e11607ea71d46da_60ab92b16c028d6638358af9_VLCC%2520-%2520China%2520discharges.avif)
 
 > **Figure 2: Opec Navigates Uneven Oil Demand Recovery Amid Global Shifts**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/bumpy-oil-demand-disguises-strong-underlying-recovery) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/66b51d0d0e11607ea71d46da_60ab92b16c028d6638358af9_VLCC%20-%20China%20discharges.avif)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/bumpy-oil-demand-disguises-strong-underlying-recovery) | [Local Asset](../../../../../../corpus/07-signal/images/66b51d0d0e11607ea71d46da_60ab92b16c028d6638358af9_VLCC%2520-%2520China%2520discharges.avif)
 
 OPEC did well to hold its nerve last month. It managed to see past the discouraging dip in April deliveries and the “noisy” month to month data. It agreed to keep in place an agreement to slowly increase over the coming months. That agreement effectively begins the delicate process of reversing big production cuts made last year during the pandemic.
 
@@ -60,11 +64,13 @@ A tantalising - and perhaps more nuanced - glimpse of the recovery in demand can
 
 The number of deliveries of Medium Range 2 (MR2) tankers carrying specified refined oil products and those not yet identified - or not set - has been gently trending upwards in recent months, according to [Signal Ocean](https://www.thesignalgroup.com/signal-ocean/signal-ocean-platform) data.
 
+Oil product deliveries move gently higher
 
-![Opec Navigates Uneven Oil Demand Recovery Amid Global Shifts](../../images/66b51d0d0e11607ea71d46d7_60ab96b438f72f814961e7a6_MR2%20-%20Discharges%20of%20oil%20products%20(1).avif)
+
+![Opec Navigates Uneven Oil Demand Recovery Amid Global Shifts](../../images/66b51d0d0e11607ea71d46d7_60ab96b438f72f814961e7a6_MR2%2520-%2520Discharges%2520of%2520oil%2520products%2520(1).avif)
 
 > **Figure 3: Opec Navigates Uneven Oil Demand Recovery Amid Global Shifts**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/bumpy-oil-demand-disguises-strong-underlying-recovery) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/66b51d0d0e11607ea71d46d7_60ab96b438f72f814961e7a6_MR2%20-%20Discharges%20of%20oil%20products%20(1).avif)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/bumpy-oil-demand-disguises-strong-underlying-recovery) | [Local Asset](../../../../../../corpus/07-signal/images/66b51d0d0e11607ea71d46d7_60ab96b438f72f814961e7a6_MR2%2520-%2520Discharges%2520of%2520oil%2520products%2520(1).avif)
 
 The detailed [Signal Ocean](/signal-ocean/platform) data confirm some underlying trends in different types of products. For instance, Jet Fuel deliveries have shrunk with the reduction in air travel. While diesel and gasoline deliveries in some areas have been buoyed by higher levels of ground transportation as travel restrictions begin to ease in some Western countries.
 

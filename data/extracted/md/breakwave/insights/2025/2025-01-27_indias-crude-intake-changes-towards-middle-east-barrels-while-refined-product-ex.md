@@ -28,10 +28,10 @@ India’s crude imports and subsequent refined product exports remained strong a
 
 ## Temporary Slowdown in Crude Imports From Russia
 
-![Στιγμιότυπο Οθόνης 2025 01 27 151223](assets/2025-01-27_indias-crude-intake-changes-towards-middle-east-barrels-while-refined-product-ex_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_43fb3cf79bc7.png)
+![Στιγμιότυπο Οθόνης 2025 01 27 151223](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-01-27_indias-crude-intake-changes-towards-middle-east-barrels-while-refined-product-ex_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_43fb3cf79bc7.png)
 
 > **Figure 1: Στιγμιότυπο Οθόνης 2025 01 27 151223**  
-> **Interactive Data & Source:** [Vortexa](https://www.vortexa.com/insights/freight/us-sanctions-expected-to-tighten-fleet-availability-and-force-greater-adherence-to-the-russian-price-cap/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-01-27_indias-crude-intake-changes-towards-middle-east-barrels-while-refined-product-ex_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_43fb3cf79bc7.png)
+> **Interactive Data & Source:** [Vortexa](https://www.vortexa.com/insights/freight/us-sanctions-expected-to-tighten-fleet-availability-and-force-greater-adherence-to-the-russian-price-cap/) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-01-27_indias-crude-intake-changes-towards-middle-east-barrels-while-refined-product-ex_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_43fb3cf79bc7.png)
 
 The most important development with regards to Indian crude imports was a slowdown in imports from Russia in December. Russian crude accounted for 38% of India’s crude imports in 2024, which fell to 33% in December-24 and 30% in January-25 (days 1-25). One factor contributing to this decline was increased competition from Chinese buyers especially for Sokol and ESPO Blend. As a result, no cargoes of these grades made their way to India in November and December 2024.
 
@@ -41,10 +41,10 @@ Spot imports of Russian crude are likely to recover in the medium term via the i
 
 ## Product Exports to West of Suez Destinations Fall Sharply
 
-![Στιγμιότυπο Οθόνης 2025 01 27 151322](assets/2025-01-27_indias-crude-intake-changes-towards-middle-east-barrels-while-refined-product-ex_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_17fc1dbf17c6.png)
+![Στιγμιότυπο Οθόνης 2025 01 27 151322](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-01-27_indias-crude-intake-changes-towards-middle-east-barrels-while-refined-product-ex_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_17fc1dbf17c6.png)
 
 > **Figure 2: Στιγμιότυπο Οθόνης 2025 01 27 151322**  
-> **Interactive Data & Source:** [Vortexa](https://www.vortexa.com//oil-gas-data-traders-analysts-data-scientists?gclid=Cj0KCQjw8_qRBhCXARIsAE2AtRZKOvMnbilZ_6_91d7huSFFy71pWLrnPwGwOHVzXsmsG-1a1mZnQw8aAt89EALw_wcB&hsa_acc=1782073842&hsa_ad=548425387665&hsa_cam=14746637662&hsa_grp=125038601902&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_src=g&hsa_tgt=dsa-1431852288425&hsa_ver=3&utm_campaign=%5BCD%5D%20-%20DSA%20-%20EMEA&utm_medium=cpc&utm_medium=ppc&utm_source=google&utm_source=adwords&utm_term=) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-01-27_indias-crude-intake-changes-towards-middle-east-barrels-while-refined-product-ex_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_17fc1dbf17c6.png)
+> **Interactive Data & Source:** [Vortexa](https://www.vortexa.com//oil-gas-data-traders-analysts-data-scientists?gclid=Cj0KCQjw8_qRBhCXARIsAE2AtRZKOvMnbilZ_6_91d7huSFFy71pWLrnPwGwOHVzXsmsG-1a1mZnQw8aAt89EALw_wcB&hsa_acc=1782073842&hsa_ad=548425387665&hsa_cam=14746637662&hsa_grp=125038601902&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_src=g&hsa_tgt=dsa-1431852288425&hsa_ver=3&utm_campaign=%5BCD%5D%20-%20DSA%20-%20EMEA&utm_medium=cpc&utm_medium=ppc&utm_source=google&utm_source=adwords&utm_term=) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-01-27_indias-crude-intake-changes-towards-middle-east-barrels-while-refined-product-ex_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_17fc1dbf17c6.png)
 
 On the refined products side, India’s exports of diesel/gasoil, gasoline/blending components and jet/kero have pivoted from West of Suez (WoS) destinations, especially Northwest Europe and towards East of Suez (EoS) destinations in Asia, East Africa and the Middle East. The share of exports towards WoS fell from 50% in September-24 to 21% in January-25 (days 1-22).
 

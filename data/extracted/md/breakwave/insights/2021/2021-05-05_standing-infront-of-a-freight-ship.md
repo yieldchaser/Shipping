@@ -27,7 +27,7 @@ With Fronthaul Capesize time charter rates today closing on 100,000/day, the nar
 ![Bdi1](assets/2021-05-05_standing-infront-of-a-freight-ship_img_bdi1_ee1e0b71dfa1.jpg)
 
 > **Figure 1: Bdi1**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2021/assets/2021-05-05_standing-infront-of-a-freight-ship_img_bdi1_ee1e0b71dfa1.jpg)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-05-05_standing-infront-of-a-freight-ship_img_bdi1_ee1e0b71dfa1.jpg)
 
 We have discussed the fundamental reasons for a strong dry bulk market for 2021 and beyond to a great extend in previous postings, but as we look at the world today some important facts can be applied to the current state of dry bulk shipping.
 
@@ -41,7 +41,7 @@ We have discussed the fundamental reasons for a strong dry bulk market for 2021 
 ![Unsplash Image Gzc4fnqsawq](assets/2021-05-05_standing-infront-of-a-freight-ship_img_unsplash-image-gzc4fnqsawq_ec7981ef1a06.jpg)
 
 > **Figure 2: Unsplash Image Gzc4fnqsawq**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2021/assets/2021-05-05_standing-infront-of-a-freight-ship_img_unsplash-image-gzc4fnqsawq_ec7981ef1a06.jpg)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-05-05_standing-infront-of-a-freight-ship_img_unsplash-image-gzc4fnqsawq_ec7981ef1a06.jpg)
 
 All of the above are some factors that we think are important to consider when looking at the current high prices in the world of shipping (at least most segments). We are of no illusion that the cyclicality of the industry has disappeared. A correction in rates is inevitable, and most people involved know that (thus the considerable backwardation in futures). The major question once such a correction starts is where it stops, and such bottoming level will be very important in determining the state of the industry from a demand/supply perspective on a forward basis.
 

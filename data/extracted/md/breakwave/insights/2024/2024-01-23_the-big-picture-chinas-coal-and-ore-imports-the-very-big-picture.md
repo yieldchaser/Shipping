@@ -29,10 +29,10 @@ Combining all coal types with bauxite, and chrome, copper, iron, manganese and n
 2. Last year was comfortably more than double the coal and ore import total in 2010 and was almost four times the 2007 level.
 3. All-time highs for iron ore, coal, bauxite, copper ores and concentrates drove the overall increase.
 
-![Market Chart 1](assets/2024-01-23_the-big-picture-chinas-coal-and-ore-imports-the-very-big-picture_img_image0281229_509b95a1b554.png)
+![Market Chart 1](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-01-23_the-big-picture-chinas-coal-and-ore-imports-the-very-big-picture_img_image0281229_509b95a1b554.png)
 
 > **Figure 1: Market Chart 1**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-01-23_the-big-picture-chinas-coal-and-ore-imports-the-very-big-picture_img_image0281229_509b95a1b554.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-01-23_the-big-picture-chinas-coal-and-ore-imports-the-very-big-picture_img_image0281229_509b95a1b554.png)
 
 Turning to the chart on the right, last year’s estimated total for other ores (confirmed customs data for December is not yet available) is double 2016 and four times the 2009 level.
 
@@ -44,10 +44,10 @@ With one month of data remaining, imports from Guinea into China have already re
 
 Using vessel tracking from AXS, the share of Capesize involvement in China’s bauxite trades was 77% in 2023 from around 50% in 2020. Additional bauxite from Guinea would push that share even higher in 2024.
 
-![Market Chart 2](assets/2024-01-23_the-big-picture-chinas-coal-and-ore-imports-the-very-big-picture_img_image1281229_df263c55378b.png)
+![Market Chart 2](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-01-23_the-big-picture-chinas-coal-and-ore-imports-the-very-big-picture_img_image1281229_df263c55378b.png)
 
 > **Figure 2: Market Chart 2**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-01-23_the-big-picture-chinas-coal-and-ore-imports-the-very-big-picture_img_image1281229_df263c55378b.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-01-23_the-big-picture-chinas-coal-and-ore-imports-the-very-big-picture_img_image1281229_df263c55378b.png)
 
 An exceptionally low month for Chinese crude steel production was released by the National Bureau of Statistics in December. At 67.4m tonnes, it was almost 20m tonnes below the January-November average.
 
@@ -55,10 +55,10 @@ As a result, official statistics now indicate steel production in 2023 was flat 
 
 Although never officially confirmed, flat growth has been the outcome.
 
-![Market Chart 3](assets/2024-01-23_the-big-picture-chinas-coal-and-ore-imports-the-very-big-picture_img_image2281129_ab7d74bc38b8.png)
+![Market Chart 3](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-01-23_the-big-picture-chinas-coal-and-ore-imports-the-very-big-picture_img_image2281129_ab7d74bc38b8.png)
 
 > **Figure 3: Market Chart 3**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-01-23_the-big-picture-chinas-coal-and-ore-imports-the-very-big-picture_img_image2281129_ab7d74bc38b8.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-01-23_the-big-picture-chinas-coal-and-ore-imports-the-very-big-picture_img_image2281129_ab7d74bc38b8.png)
 
 In contrast to many of the import growth stories on page 2, China’s crude steel output has fallen short of the previous peak (2020).
 

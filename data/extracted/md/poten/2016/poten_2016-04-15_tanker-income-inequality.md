@@ -30,10 +30,18 @@ In summary, it appears that the discrepancy between VLCC and Suezmax rates had t
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: Tanker Income Inequality](../../../charts/poten/2016/poten_2016-04-15_tanker-income-inequality_chart1.png)
+![Exhibit 1: Suezmax and VLCC rates 2015Q1 vs 2016 Q1](../../../charts/poten/2016/poten_2016-04-15_tanker-income-inequality_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2016/poten_2016-04-15_tanker-income-inequality_chart1.png)
+> **Exhibit 1: Suezmax and VLCC rates 2015Q1 vs 2016 Q1**  
+> Unit: $/day · X-axis: Jan to Mar  
+> Series: 2015, 2016  
+> *Source: Poten & Partners*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2016/poten_2016-04-15_tanker-income-inequality_chart1.png)
 
-![Exhibit 2: Tanker Income Inequality](../../../charts/poten/2016/poten_2016-04-15_tanker-income-inequality_chart2.png)
+![Exhibit 2: Reported Spot Fixtures VLCC vs Suezmax (Q1)](../../../charts/poten/2016/poten_2016-04-15_tanker-income-inequality_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2016/poten_2016-04-15_tanker-income-inequality_chart2.png)
+> **Exhibit 2: Reported Spot Fixtures VLCC vs Suezmax (Q1)**  
+> Unit: Spot Fixtures · X-axis: Jan to Mar  
+> Series: 2015, 2016  
+> *Source: Poten & Partners*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2016/poten_2016-04-15_tanker-income-inequality_chart2.png)

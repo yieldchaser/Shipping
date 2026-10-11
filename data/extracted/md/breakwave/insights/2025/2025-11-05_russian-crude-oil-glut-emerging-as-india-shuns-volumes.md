@@ -26,19 +26,19 @@ Russian crude in transit predicted for India is also at a 2.5 year high of aroun
 
 However, this comes at the same time both state-owned and private refiners in India are indicating future Russian crude purchases will be halted. Importers have until 21 November to wind down transactions from these sanctioned producers according to OFAC. A few vessels have U-turned or are idling outside India discharge ports, so there may already be caution exercised by buyers.
 
-![9079 Image 0 1762253199282](assets/2025-11-05_russian-crude-oil-glut-emerging-as-india-shuns-volumes_img_9079-image-0-1762253199282_5013387ef605.png)
+![9079 Image 0 1762253199282](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-11-05_russian-crude-oil-glut-emerging-as-india-shuns-volumes_img_9079-image-0-1762253199282_5013387ef605.png)
 
 > **Figure 1: 9079 Image 0 1762253199282**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-11-05_russian-crude-oil-glut-emerging-as-india-shuns-volumes_img_9079-image-0-1762253199282_5013387ef605.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-11-05_russian-crude-oil-glut-emerging-as-india-shuns-volumes_img_9079-image-0-1762253199282_5013387ef605.png)
 
 *Source: Vortexa*
 
 Additionally, the difference between Russia’s exports this month towards India and India’s imports of Russian crude oil is 444 k b/d, meaning there is close to 500 k b/d of crude oil heading towards India that is unlikely to be absorbed. This figure is likely to grow with more caution by importers, meaning cargoes will need to reroute (likely towards Shandong).
 
-![F565 Image 1 1762253199283](assets/2025-11-05_russian-crude-oil-glut-emerging-as-india-shuns-volumes_img_f565-image-1-1762253199283_f1c77757c670.png)
+![F565 Image 1 1762253199283](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-11-05_russian-crude-oil-glut-emerging-as-india-shuns-volumes_img_f565-image-1-1762253199283_f1c77757c670.png)
 
 > **Figure 2: F565 Image 1 1762253199283**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-11-05_russian-crude-oil-glut-emerging-as-india-shuns-volumes_img_f565-image-1-1762253199283_f1c77757c670.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-11-05_russian-crude-oil-glut-emerging-as-india-shuns-volumes_img_f565-image-1-1762253199283_f1c77757c670.png)
 
 *Source: Vortexa*
 

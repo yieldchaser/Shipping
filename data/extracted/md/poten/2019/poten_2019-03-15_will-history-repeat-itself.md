@@ -34,10 +34,18 @@ Since crude oil production in Asia is relatively small and declining, more crude
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: Will History Repeat Itself](../../../charts/poten/2019/poten_2019-03-15_will-history-repeat-itself_chart1.png)
+![Exhibit 1: Change in Global Oil Production: 2018 vs 2024](../../../charts/poten/2019/poten_2019-03-15_will-history-repeat-itself_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2019/poten_2019-03-15_will-history-repeat-itself_chart1.png)
+> **Exhibit 1: Change in Global Oil Production: 2018 vs 2024**  
+> Unit: mb/d · X-axis: 2018 Oil Supply to 2024 Oil Demand  
+> Series: US, Oth. OECD America, OECD Europe, OECD Asia Oceania, FSU, Non OECD Asia, Non OECD Europe, Brazil, Other Latin America, M. East (Non OPEC), Africa, Biofuels/Proc Gains, Call On OPEC  
+> *Source: IEA*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2019/poten_2019-03-15_will-history-repeat-itself_chart1.png)
 
-![Exhibit 2: Will History Repeat Itself](../../../charts/poten/2019/poten_2019-03-15_will-history-repeat-itself_chart2.png)
+![Exhibit 2: Change in Global Oil Demand: 2018 vs 2024](../../../charts/poten/2019/poten_2019-03-15_will-history-repeat-itself_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2019/poten_2019-03-15_will-history-repeat-itself_chart2.png)
+> **Exhibit 2: Change in Global Oil Demand: 2018 vs 2024**  
+> Unit: mb/d · X-axis: 2018 Demand to 2024 Oil Demand  
+> Series: US, Oth. OECD America, OECD Europe, OECD Asia Oceania, China, India, Oth. Non OECD Asia, Middle East, Non OECD America, FSU, Africa, Non OECD Europe  
+> *Source: IEA*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2019/poten_2019-03-15_will-history-repeat-itself_chart2.png)

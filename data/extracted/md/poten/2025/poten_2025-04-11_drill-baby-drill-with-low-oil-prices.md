@@ -30,10 +30,17 @@ Lower shale oil production would put U.S. oil exports at risk. However, some cou
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: Drill Baby Drill With Low Oil Prices](../../../charts/poten/2025/poten_2025-04-11_drill-baby-drill-with-low-oil-prices_chart1.png)
+![Exhibit 1: US Crude Oil Production and Outlook vs WTI Price](../../../charts/poten/2025/poten_2025-04-11_drill-baby-drill-with-low-oil-prices_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2025/poten_2025-04-11_drill-baby-drill-with-low-oil-prices_chart1.png)
+> **Exhibit 1: US Crude Oil Production and Outlook vs WTI Price**  
+> Unit: Mb/d | WTI ($/bbl) · X-axis: Jan-15 to Sep-26  
+> Series: History, Forecast, WTI Spot Price  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2025/poten_2025-04-11_drill-baby-drill-with-low-oil-prices_chart1.png)
 
-![Exhibit 2: Drill Baby Drill With Low Oil Prices](../../../charts/poten/2025/poten_2025-04-11_drill-baby-drill-with-low-oil-prices_chart2.png)
+![Exhibit 2: US Gulf Crude Exports by Destination](../../../charts/poten/2025/poten_2025-04-11_drill-baby-drill-with-low-oil-prices_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2025/poten_2025-04-11_drill-baby-drill-with-low-oil-prices_chart2.png)
+> **Exhibit 2: US Gulf Crude Exports by Destination**  
+> Unit: Kb/d · X-axis: Jan-17 to Jan-25  
+> Series: South Korea, Netherlands, United Kingdom, Canada, China, India, Taiwan, Italy, Other  
+> *Source: EIA, Vortexa*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2025/poten_2025-04-11_drill-baby-drill-with-low-oil-prices_chart2.png)

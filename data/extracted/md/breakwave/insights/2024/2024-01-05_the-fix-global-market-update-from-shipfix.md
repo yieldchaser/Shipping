@@ -65,8 +65,8 @@ Following a limited rebound during the third quarter, cargo order volumes for Ru
 
 The weaker order volumes have affected all vessel segments negatively, with the effective disappearance of the longer voyages adding to the decline in tonne-mile demand. However, should the reintroduction of the tariffs lead to Chinese buyers sourcing more of their coal in Indonesia and Australia, the impact on freight rates is likely to be limited.
 
-![Data Source:shipfix](assets/2024-01-05_the-fix-global-market-update-from-shipfix_img_241jpg_39d61f807cf9.png)
+![Data Source:shipfix](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-01-05_the-fix-global-market-update-from-shipfix_img_241jpg_39d61f807cf9.png)
 
 > **Figure 1: Data Source:shipfix**  
 > *Data Source:Shipfix*  
-> **Interactive Data & Source:** [Shipfix](https://shipfix.com/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-01-05_the-fix-global-market-update-from-shipfix_img_241jpg_39d61f807cf9.png)
+> **Interactive Data & Source:** [Shipfix](https://shipfix.com/) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-01-05_the-fix-global-market-update-from-shipfix_img_241jpg_39d61f807cf9.png)

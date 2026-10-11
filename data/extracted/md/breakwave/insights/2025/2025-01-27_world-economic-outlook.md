@@ -34,10 +34,10 @@ World trade volume forecasts have been revised slightly downward by the IMF for 
 
 Against this backdrop, global economic growth remains steady but subdued, with resilience in the United States and emerging markets such as India and China offering some optimism. However, trade uncertainties and geopolitical risks continue to cast a shadow over the broader outlook. Commodity markets delivered mixed results, reflecting the influence of shifting geopolitical dynamics and trade flows. The dry bulk market, meanwhile, remains under significant pressure, with the Baltic Dry Index retreating to levels last seen in February 2023. Weak freight rates across all segments, compounded by heightened uncertainty and seasonal factors, have further weighed on market sentiment and daily earnings.
 
-![Στιγμιότυπο Οθόνης 2025 01 26 221812](assets/2025-01-27_world-economic-outlook_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_9bb5b60f0a12.png)
+![Στιγμιότυπο Οθόνης 2025 01 26 221812](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-01-27_world-economic-outlook_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_9bb5b60f0a12.png)
 
 > **Figure 1: Στιγμιότυπο Οθόνης 2025 01 26 221812**  
-> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-01-27_world-economic-outlook_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_9bb5b60f0a12.png)
+> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-01-27_world-economic-outlook_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_9bb5b60f0a12.png)
 
 Data source:[Doric](https://www.doric.gr/)
 

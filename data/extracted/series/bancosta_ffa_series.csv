@@ -7689,42 +7689,6 @@ issue_date,report_week,vessel_class,tenor,unit,rate_current,rate_previous,change
 2026-09-14,37,Capesize,Q4 26,usd/day,"18,131","18,413",-1.5%,+6.9+/-%,banchero_costa_2026_W37_Bancosta-Weekly-2026-37.pdf
 2026-09-14,37,Capesize,Q1 27,usd/day,"13,847","13,940",-0.7%,-18.4+/-%,banchero_costa_2026_W37_Bancosta-Weekly-2026-37.pdf
 2026-09-14,37,Capesize,Q2 27,usd/day,"15,130","15,210",-0.5%,-10.8+/-%,banchero_costa_2026_W37_Bancosta-Weekly-2026-37.pdf
-2026-09-28,39,Capesize,Sep-26,usd/day,"53,053","53,382",-0.6%,+9.3%,banchero_costa_2026_W39_Bancosta-Weekly-2026-39.pdf
-2026-09-28,39,Capesize,Oct-26,usd/day,"46,471","49,235",-5.6%,-4.2%,banchero_costa_2026_W39_Bancosta-Weekly-2026-39.pdf
-2026-09-28,39,Capesize,Nov-26,usd/day,"45,564","47,539",-4.2%,-6.1%,banchero_costa_2026_W39_Bancosta-Weekly-2026-39.pdf
-2026-09-28,39,Capesize,Dec-26,usd/day,"44,589","46,039",-3.1%,-8.1%,banchero_costa_2026_W39_Bancosta-Weekly-2026-39.pdf
-2026-09-28,39,Capesize,Jan-27,usd/day,"35,246","36,289",-2.9%,-27.4%,banchero_costa_2026_W39_Bancosta-Weekly-2026-39.pdf
-2026-09-28,39,Capesize,Feb-27,usd/day,"30,510","31,632",-3.5%,-37.1%,banchero_costa_2026_W39_Bancosta-Weekly-2026-39.pdf
-2026-09-28,39,Capesize,Q4 26,usd/day,"45,541","47,604",-4.3%,-6.2%,banchero_costa_2026_W39_Bancosta-Weekly-2026-39.pdf
-2026-09-28,39,Capesize,Q1 27,usd/day,"33,436","34,431",-2.9%,-31.1%,banchero_costa_2026_W39_Bancosta-Weekly-2026-39.pdf
-2026-09-28,39,Capesize,Q2 27,usd/day,"38,153","38,792",-1.6%,-21.4%,banchero_costa_2026_W39_Bancosta-Weekly-2026-39.pdf
-2026-09-28,39,Panamax,Sep-26,usd/day,"21,318","21,364",-0.2%,-1.4%,banchero_costa_2026_W39_Bancosta-Weekly-2026-39.pdf
-2026-09-28,39,Panamax,Oct-26,usd/day,"22,461","22,750",-1.3%,+3.9%,banchero_costa_2026_W39_Bancosta-Weekly-2026-39.pdf
-2026-09-28,39,Panamax,Nov-26,usd/day,"22,396","22,632",-1.0%,+3.6%,banchero_costa_2026_W39_Bancosta-Weekly-2026-39.pdf
-2026-09-28,39,Panamax,Dec-26,usd/day,"21,829","21,993",-0.7%,+1.0%,banchero_costa_2026_W39_Bancosta-Weekly-2026-39.pdf
-2026-09-28,39,Panamax,Jan-27,usd/day,"18,111","18,389",-1.5%,-16.2%,banchero_costa_2026_W39_Bancosta-Weekly-2026-39.pdf
-2026-09-28,39,Panamax,Feb-27,usd/day,"17,396","17,618",-1.3%,-19.5%,banchero_costa_2026_W39_Bancosta-Weekly-2026-39.pdf
-2026-09-28,39,Panamax,Q4 26,usd/day,"22,229","22,458",-1.0%,+2.8%,banchero_costa_2026_W39_Bancosta-Weekly-2026-39.pdf
-2026-09-28,39,Panamax,Q1 27,usd/day,"17,995","18,199",-1.1%,-16.8%,banchero_costa_2026_W39_Bancosta-Weekly-2026-39.pdf
-2026-09-28,39,Panamax,Q2 27,usd/day,"18,943","19,139",-1.0%,-12.4%,banchero_costa_2026_W39_Bancosta-Weekly-2026-39.pdf
-2026-09-28,39,Supramax,Sep-26,usd/day,"19,889","19,904",-0.1%,-12.1%,banchero_costa_2026_W39_Bancosta-Weekly-2026-39.pdf
-2026-09-28,39,Supramax,Oct-26,usd/day,"21,400","21,354",+0.2%,-5.4%,banchero_costa_2026_W39_Bancosta-Weekly-2026-39.pdf
-2026-09-28,39,Supramax,Nov-26,usd/day,"21,286","21,275",+0.1%,-5.9%,banchero_costa_2026_W39_Bancosta-Weekly-2026-39.pdf
-2026-09-28,39,Supramax,Dec-26,usd/day,"20,657","20,625",+0.2%,-8.7%,banchero_costa_2026_W39_Bancosta-Weekly-2026-39.pdf
-2026-09-28,39,Supramax,Jan-27,usd/day,"16,714","16,807",-0.6%,-26.1%,banchero_costa_2026_W39_Bancosta-Weekly-2026-39.pdf
-2026-09-28,39,Supramax,Feb-27,usd/day,"15,646","15,743",-0.6%,-30.8%,banchero_costa_2026_W39_Bancosta-Weekly-2026-39.pdf
-2026-09-28,39,Supramax,Q4 26,usd/day,"21,114","21,084",+0.1%,-6.7%,banchero_costa_2026_W39_Bancosta-Weekly-2026-39.pdf
-2026-09-28,39,Supramax,Q1 27,usd/day,"16,317","16,438",-0.7%,-27.9%,banchero_costa_2026_W39_Bancosta-Weekly-2026-39.pdf
-2026-09-28,39,Supramax,Q2 27,usd/day,"17,321","17,407",-0.5%,-23.4%,banchero_costa_2026_W39_Bancosta-Weekly-2026-39.pdf
-2026-09-28,39,Handysize,Sep-26,usd/day,"17,192","17,210",-0.1%,-5.6%,banchero_costa_2026_W39_Bancosta-Weekly-2026-39.pdf
-2026-09-28,39,Handysize,Oct-26,usd/day,"19,350","19,350",+0.0%,+6.3%,banchero_costa_2026_W39_Bancosta-Weekly-2026-39.pdf
-2026-09-28,39,Handysize,Nov-26,usd/day,"19,220","19,210",+0.1%,+5.6%,banchero_costa_2026_W39_Bancosta-Weekly-2026-39.pdf
-2026-09-28,39,Handysize,Dec-26,usd/day,"18,665","18,640",+0.1%,+2.5%,banchero_costa_2026_W39_Bancosta-Weekly-2026-39.pdf
-2026-09-28,39,Handysize,Jan-27,usd/day,"14,780","14,760",+0.1%,-18.8%,banchero_costa_2026_W39_Bancosta-Weekly-2026-39.pdf
-2026-09-28,39,Handysize,Feb-27,usd/day,"14,410","14,420",-0.1%,-20.9%,banchero_costa_2026_W39_Bancosta-Weekly-2026-39.pdf
-2026-09-28,39,Handysize,Q4 26,usd/day,"19,078","19,067",+0.1%,+4.8%,banchero_costa_2026_W39_Bancosta-Weekly-2026-39.pdf
-2026-09-28,39,Handysize,Q1 27,usd/day,"14,523","14,527",-0.0%,-20.2%,banchero_costa_2026_W39_Bancosta-Weekly-2026-39.pdf
-2026-09-28,39,Handysize,Q2 27,usd/day,"15,360","15,350",+0.1%,-15.6%,banchero_costa_2026_W39_Bancosta-Weekly-2026-39.pdf
 2026-10-05,40,Capesize,Oct-26,usd/day,"41,982","42,467",-1.1%,-4.2%,banchero_costa_07_10_2026_banchero_costa_weekly_market_report_week_40_2026.pdf
 2026-10-05,40,Capesize,Nov-26,usd/day,"43,721","43,946",-0.5%,-0.3%,banchero_costa_07_10_2026_banchero_costa_weekly_market_report_week_40_2026.pdf
 2026-10-05,40,Capesize,Dec-26,usd/day,"43,546","43,824",-0.6%,-0.7%,banchero_costa_07_10_2026_banchero_costa_weekly_market_report_week_40_2026.pdf

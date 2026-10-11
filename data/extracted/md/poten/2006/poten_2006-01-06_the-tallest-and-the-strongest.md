@@ -191,6 +191,32 @@ Many leading charterers changed places but did not replace each other over 2005 
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: The Tallest and the Strongest](../../../charts/poten/2006/poten_2006-01-06_the-tallest-and-the-strongest_chart1.png)
+> **Chart on PDF page 1: 2004**  
+> Unit: fixtures | % · X-axis: VLCC to Handymax  
+> Series: 2004  
+> *No image crop of this chart was saved; caption read from the PDF.*
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2006/poten_2006-01-06_the-tallest-and-the-strongest_chart1.png)
+> **Chart on PDF page 1: 2005**  
+> Unit: fixtures | % · X-axis: VLCC to Handymax  
+> Series: 2005  
+> *No image crop of this chart was saved; caption read from the PDF.*
+
+> **Chart on PDF page 3: Top Ten Charterers for VLCCs**  
+> Unit: # of Spot Fixtures · X-axis: Shell to ConocoPhillips  
+> Series: # of Spot Fixtures  
+> *No image crop of this chart was saved; caption read from the PDF.*
+
+> **Chart on PDF page 3: Top Ten Charterers for Suezmaxes**  
+> Unit: # of Spot Fixtures · X-axis: Sun to Petrobras  
+> Series: # of Spot Fixtures  
+> *No image crop of this chart was saved; caption read from the PDF.*
+
+> **Chart on PDF page 4: Top Ten Charterers for Aframaxes**  
+> Unit: # of Spot Fixtures · X-axis: Shell to Ursa  
+> Series: # of Spot Fixtures  
+> *No image crop of this chart was saved; caption read from the PDF.*
+
+> **Chart on PDF page 4: Top Ten Charterers for Panamaxes**  
+> Unit: # of Spot Fixtures · X-axis: Glencore to Citgo  
+> Series: # of Spot Fixtures  
+> *No image crop of this chart was saved; caption read from the PDF.*

@@ -53,14 +53,23 @@ Vitol remained the largest Aframax charterer, while fellow traders Glencore (9th
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: Top Dirty Charterers](../../../charts/poten/2019/poten_2019-01-04_top-dirty-charterers_chart1.png)
+![Exhibit 1: Top 10 VLCC Spot Charterers](../../../charts/poten/2019/poten_2019-01-04_top-dirty-charterers_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2019/poten_2019-01-04_top-dirty-charterers_chart1.png)
+> **Exhibit 1: Top 10 VLCC Spot Charterers**  
+> Unit: No. Spot Fixtures · X-axis: Unipec to Hyundai  
+> Series: Unipec, Shell, Reliance, IOC, Sinochem, ExxonMobil, Total, GS Caltex, Petrochina, Hyundai  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2019/poten_2019-01-04_top-dirty-charterers_chart1.png)
 
-![Exhibit 2: Top Dirty Charterers](../../../charts/poten/2019/poten_2019-01-04_top-dirty-charterers_chart2.png)
+![Exhibit 2: Top 10 Suezmax Spot Charterers](../../../charts/poten/2019/poten_2019-01-04_top-dirty-charterers_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2019/poten_2019-01-04_top-dirty-charterers_chart2.png)
+> **Exhibit 2: Top 10 Suezmax Spot Charterers**  
+> Unit: No. Spot Fixtures · X-axis: Repsol to Lukoil  
+> Series: Repsol, Chevron, Shell, Vitol, Total, IOC, BP, BPCL, ExxonMobil, Lukoil  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2019/poten_2019-01-04_top-dirty-charterers_chart2.png)
 
-![Exhibit 3: Top Dirty Charterers](../../../charts/poten/2019/poten_2019-01-04_top-dirty-charterers_chart3.png)
+![Exhibit 3: Top 10 Aframax Spot Charterers](../../../charts/poten/2019/poten_2019-01-04_top-dirty-charterers_chart3.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2019/poten_2019-01-04_top-dirty-charterers_chart3.png)
+> **Exhibit 3: Top 10 Aframax Spot Charterers**  
+> Unit: No. Spot Fixtures · X-axis: Vitol to Trafigura  
+> Series: Vitol, Shell, Lukoil, BP, Total, Chevron, Unipec, ExxonMobil, Glencore, Trafigura  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2019/poten_2019-01-04_top-dirty-charterers_chart3.png)

@@ -28,11 +28,11 @@ tags:
 ## This Week’s Highlight Focuses on the Shifting Trends in Soybean Dry Bulk Flows From Brazil and the U.s. to China, Following the Latest Round of Tariffs Imposed Amid Escalating Trade Tensions. We Had Already Anticipated These Changes in Agricultural Trade Dynamics Innovember 2024, Following the Outcome of the U.s. Elections.
 
 
-![Https://app.signalocean.com/dry/dynamic/drybulkflows-Downloadable](../../images/67ff74218dd3c0d5f0d00e4c_AD_4nXe5TDIyH-IPcC_H6L8MbhNs9ptXba8swnMUC6yZGDn-WlRKxLlQb3m4Lh3p95vMA2qoWKvPh5sZOlazzQd5LNB2RvLBnTJ_S9WYgMihe5rPTA8W7PckE1XY7A5H1Yes0krnLSgd.png)
+![Https://app.signalocean.com/dry/dynamic/drybulkflows-Downloadable](../../../../../../corpus/07-signal/images/67ff74218dd3c0d5f0d00e4c_AD_4nXe5TDIyH-IPcC_H6L8MbhNs9ptXba8swnMUC6yZGDn-WlRKxLlQb3m4Lh3p95vMA2qoWKvPh5sZOlazzQd5LNB2RvLBnTJ_S9WYgMihe5rPTA8W7PckE1XY7A5H1Yes0krnLSgd.png)
 
 > **Figure 1: Https://app.signalocean.com/dry/dynamic/drybulkflows-Downloadable**  
 > *https://app.signalocean.com/dry/dynamic/drybulkflows-downloadable*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/dry-week-16-2025) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/67ff74218dd3c0d5f0d00e4c_AD_4nXe5TDIyH-IPcC_H6L8MbhNs9ptXba8swnMUC6yZGDn-WlRKxLlQb3m4Lh3p95vMA2qoWKvPh5sZOlazzQd5LNB2RvLBnTJ_S9WYgMihe5rPTA8W7PckE1XY7A5H1Yes0krnLSgd.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/dry-week-16-2025) | [Local Asset](../../../../../../corpus/07-signal/images/67ff74218dd3c0d5f0d00e4c_AD_4nXe5TDIyH-IPcC_H6L8MbhNs9ptXba8swnMUC6yZGDn-WlRKxLlQb3m4Lh3p95vMA2qoWKvPh5sZOlazzQd5LNB2RvLBnTJ_S9WYgMihe5rPTA8W7PckE1XY7A5H1Yes0krnLSgd.png)
 
 
 ## Shift in Global Soybean Trade Flows

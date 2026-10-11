@@ -30,4 +30,4 @@ The crude oil tanker market has picked up significantly in recent weeks. While t
 
 ![Exhibit 1: Here We Go Again](../../../charts/poten/2018/poten_2018-11-02_here-we-go-again_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2018/poten_2018-11-02_here-we-go-again_chart1.png)
+> **Interactive Asset:** [Local Asset (200 DPI PNG)](../../../charts/poten/2018/poten_2018-11-02_here-we-go-again_chart1.png)

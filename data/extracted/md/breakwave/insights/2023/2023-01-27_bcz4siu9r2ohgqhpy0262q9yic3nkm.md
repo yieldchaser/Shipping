@@ -59,9 +59,9 @@ Copper is generally seen as a bellwether of economic activities, given its centr
 
 While a few days remain of the current month, the cargo order volumes for copper discharging in China as dry bulk look set to fall below the ones for the same month a year ago. However, the drop comes after robust volumes during the final month of last year. The easing of the stringent Covid restrictions in December is likely to have led to many Chinese buyers of copper stepping up their purchases ahead of the early Chinese Lunar New Year. Hence, given the forward-looking nature of the cargo order data, Chinese copper imports are likely to increase in the coming months.
 
-![Market Chart 1](assets/2023-01-27_bcz4siu9r2ohgqhpy0262q9yic3nkm_img_unnamed-2023-01-27t145129171_9c0a138d2725.png)
+![Market Chart 1](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-01-27_bcz4siu9r2ohgqhpy0262q9yic3nkm_img_unnamed-2023-01-27t145129171_9c0a138d2725.png)
 
 > **Figure 1: Market Chart 1**  
-> **Interactive Data & Source:** [Shipfix](https://shipfix.com/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-01-27_bcz4siu9r2ohgqhpy0262q9yic3nkm_img_unnamed-2023-01-27t145129171_9c0a138d2725.png)
+> **Interactive Data & Source:** [Shipfix](https://shipfix.com/) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-01-27_bcz4siu9r2ohgqhpy0262q9yic3nkm_img_unnamed-2023-01-27t145129171_9c0a138d2725.png)
 
 Data Source:[Shipfix](https://shipfix.com/)

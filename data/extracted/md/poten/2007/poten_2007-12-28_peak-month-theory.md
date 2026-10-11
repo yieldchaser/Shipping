@@ -88,6 +88,14 @@ With roughly 110 spot VLCC fixtures monthly in a fleet some 500 vessels strong, 
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: Peak Month Theory](../../../charts/poten/2007/poten_2007-12-28_peak-month-theory_chart1.png)
+> **Chart on PDF page 1: VLCC: AG to Far East Monthly WS 1996 to 2007**  
+> Unit: WS · X-axis: Jan to Dec  
+> Series: Min, Max, VLCC Ave WS '96-'06, Jan to Dec (est) 2007  
+> *Source: Poten*  
+> *No image crop of this chart was saved; caption read from the PDF.*
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2007/poten_2007-12-28_peak-month-theory_chart1.png)
+> **Chart on PDF page 3: 4th Qtr "Volatility" of AG - Far East VLCC TCEs**  
+> Unit: $/day · X-axis: 1997 to 2007  
+> Series: Difference: Highest-Average  
+> *Source: Poten*  
+> *No image crop of this chart was saved; caption read from the PDF.*

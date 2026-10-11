@@ -26,10 +26,17 @@ What can we expect for the first half of 2019? There are some headwinds as well 
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: The China Conundrum](../../../charts/poten/2019/poten_2019-01-11_the-china-conundrum_chart1.png)
+![Exhibit 1: China: Seaborne Crude Oil Imports](../../../charts/poten/2019/poten_2019-01-11_the-china-conundrum_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2019/poten_2019-01-11_the-china-conundrum_chart1.png)
+> **Exhibit 1: China: Seaborne Crude Oil Imports**  
+> Unit: Kb/d · X-axis: Jan-15 to Nov-18  
+> Series: Saudi Arabia, Angola, Iraq, Oman, Iran, Russia, Other  
+> *Source: Lloyd’s List Intelligence*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2019/poten_2019-01-11_the-china-conundrum_chart1.png)
 
-![Exhibit 2: The China Conundrum](../../../charts/poten/2019/poten_2019-01-11_the-china-conundrum_chart2.png)
+![Exhibit 2: China: Seaborne Crude Oil Imports](../../../charts/poten/2019/poten_2019-01-11_the-china-conundrum_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2019/poten_2019-01-11_the-china-conundrum_chart2.png)
+> **Exhibit 2: China: Seaborne Crude Oil Imports**  
+> Unit: Kb/d · X-axis: Jan to Dec  
+> Series: 2015, 2016, 2017, 2018  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2019/poten_2019-01-11_the-china-conundrum_chart2.png)

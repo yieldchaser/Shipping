@@ -104,4 +104,4 @@ All sectors are not created equal and there may well be speculative opportunitie
 
 ![Exhibit 1: Curb Your Enthusiasm](../../../charts/poten/2013/poten_2013-03-22_curb-your-enthusiasm_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2013/poten_2013-03-22_curb-your-enthusiasm_chart1.png)
+> **Interactive Asset:** [Local Asset (200 DPI PNG)](../../../charts/poten/2013/poten_2013-03-22_curb-your-enthusiasm_chart1.png)

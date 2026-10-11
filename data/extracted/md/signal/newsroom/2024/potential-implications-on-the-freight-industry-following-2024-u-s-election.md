@@ -28,7 +28,7 @@ tags:
 ![How the 2024 U.s. Election Could Reshape Global Freight Routes and Demand](../../images/673601c5cc84d003f6fd1729_AD_4nXdq0-pSjobI7AjLSF51YqCOJFOEgT8IwH34vs_cpZurgp2AzBA8Vt2dTSJ3zejgGpzr3i8vSewTa3Z4fCTavwlAuTITHb4m5Tfqeri0aBVHIcE5FZ-G1eHXn0EvGBLhM4jJdKbv.avif)
 
 > **Figure 1: How the 2024 U.s. Election Could Reshape Global Freight Routes and Demand**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/potential-implications-on-the-freight-industry-following-2024-u-s-election) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/673601c5cc84d003f6fd1729_AD_4nXdq0-pSjobI7AjLSF51YqCOJFOEgT8IwH34vs_cpZurgp2AzBA8Vt2dTSJ3zejgGpzr3i8vSewTa3Z4fCTavwlAuTITHb4m5Tfqeri0aBVHIcE5FZ-G1eHXn0EvGBLhM4jJdKbv.avif)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/potential-implications-on-the-freight-industry-following-2024-u-s-election) | [Local Asset](../../../../../../corpus/07-signal/images/673601c5cc84d003f6fd1729_AD_4nXdq0-pSjobI7AjLSF51YqCOJFOEgT8IwH34vs_cpZurgp2AzBA8Vt2dTSJ3zejgGpzr3i8vSewTa3Z4fCTavwlAuTITHb4m5Tfqeri0aBVHIcE5FZ-G1eHXn0EvGBLhM4jJdKbv.avif)
 
 The 2024 U.S. election and the resulting presidential administration may have significant effects on the freight industry, particularly in the agricultural and energy shipping sectors. If [tariffs](https://www.agriculturedive.com/news/trump-trade-war-election-china-tariffs-farm-exports/732272/) on U.S. grain exports to China increase, American grain exports could further decline, shifting demand to alternative suppliers like Brazil and altering traditional U.S.-China grain shipping routes. In energy markets, an easing of sanctions on Russian and Iranian oil could lead to an influx of crude oil, potentially lowering global oil prices and shifting trade routes and tanker demand across the Middle East, Europe, and Asia. Conversely, a focus on boosting U.S. fossil fuel production could increase coal and oil exports to energy-short regions, driving demand for bulk carriers and tankers on U.S.-to-Europe and Asia routes.
 
@@ -44,7 +44,7 @@ The Trump administration may consider renegotiating trade terms with China, pote
 
 > **Figure 2: Image 1: The Signal Ocean Voyages Data Grain Flows (Flows Including All the Intermediate Export and Import Operations of a Voyage, Broken Down by Terminals**  
 > *Image 1: The Signal Ocean Voyages Data Grain Flows (Flows including all the intermediate export and import operations of a voyage, broken down by terminals. Total quantity is calculated based on the quantity of the cargo)*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/potential-implications-on-the-freight-industry-following-2024-u-s-election) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/673601c4bbda822b0184eec2_AD_4nXcmmkM9pdEcHE3g9V1r7od_--XTJYRSu-Cfr0ggQhttsb-Zh0uEjr4d9Kzqs3dsCph7q8cotUW2S-IqurbxLnxJqAUbC4OzCDt818NcEqTTcY9fZEaLBhj-BI7VR30lSK6Cm_8lPg.avif)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/potential-implications-on-the-freight-industry-following-2024-u-s-election) | [Local Asset](../../../../../../corpus/07-signal/images/673601c4bbda822b0184eec2_AD_4nXcmmkM9pdEcHE3g9V1r7od_--XTJYRSu-Cfr0ggQhttsb-Zh0uEjr4d9Kzqs3dsCph7q8cotUW2S-IqurbxLnxJqAUbC4OzCDt818NcEqTTcY9fZEaLBhj-BI7VR30lSK6Cm_8lPg.avif)
 
 
 ## Oil Market Dynamics and Potential Influence on the Russia-Ukraine Conflict
@@ -56,7 +56,7 @@ In the energy sector, following the 2024 U.S. election, a second Trump administr
 
 > **Figure 3: Image 2: The Signal Ocean Voyages Data (Flows Including All the Intermediate Export and Import Operations of a Voyage, Broken Down by Terminals**  
 > *Image 2: The Signal Ocean Voyages Data (Flows including all the intermediate export and import operations of a voyage, broken down by terminals. Total quantity is calculated based on the quantity of the cargo)*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/potential-implications-on-the-freight-industry-following-2024-u-s-election) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/673601c40230b91a7f7b258f_AD_4nXemjiuh716NkAHK-p6yEUKHeG5RfSWAm3XFOJIFCWRy2NtEVQnUMl56yzy59ukRmNIKhcyNhCa1qCrmD7sIYIaiQT483Y4au7ryo3KLumlz0leSMDdT45itCTBbVUj9orqPm6prRw.avif)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/potential-implications-on-the-freight-industry-following-2024-u-s-election) | [Local Asset](../../../../../../corpus/07-signal/images/673601c40230b91a7f7b258f_AD_4nXemjiuh716NkAHK-p6yEUKHeG5RfSWAm3XFOJIFCWRy2NtEVQnUMl56yzy59ukRmNIKhcyNhCa1qCrmD7sIYIaiQT483Y4au7ryo3KLumlz0leSMDdT45itCTBbVUj9orqPm6prRw.avif)
 
 
 ## Europe’s Energy Rebalancing and the Arabian Gulf’s Eastern Pivot:
@@ -78,14 +78,14 @@ Over recent years, monthly grain shipments from the U.S. Gulf to China have tren
 ![Impact on the Dry Bulk Freight Market](../../images/673601c4964cd973afff8b00_AD_4nXcxYEPY-dDmvtOMododa3-mJqxxy6bGc5Wup561kETxzcKoVU43oxWbN_iJDpisyeo_tvvWuFvHRuq9Bo9xJBb3uc3u-jOptveK0BfUJ2XWDe6h1wRBmUVcXu_SYLhyguokHUN9Lw.avif)
 
 > **Figure 4: Impact on the Dry Bulk Freight Market**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/potential-implications-on-the-freight-industry-following-2024-u-s-election) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/673601c4964cd973afff8b00_AD_4nXcxYEPY-dDmvtOMododa3-mJqxxy6bGc5Wup561kETxzcKoVU43oxWbN_iJDpisyeo_tvvWuFvHRuq9Bo9xJBb3uc3u-jOptveK0BfUJ2XWDe6h1wRBmUVcXu_SYLhyguokHUN9Lw.avif)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/potential-implications-on-the-freight-industry-following-2024-u-s-election) | [Local Asset](../../../../../../corpus/07-signal/images/673601c4964cd973afff8b00_AD_4nXcxYEPY-dDmvtOMododa3-mJqxxy6bGc5Wup561kETxzcKoVU43oxWbN_iJDpisyeo_tvvWuFvHRuq9Bo9xJBb3uc3u-jOptveK0BfUJ2XWDe6h1wRBmUVcXu_SYLhyguokHUN9Lw.avif)
 
 
 ![Image 3: The Signal Ocean Voyages Data Grain Flows & Tonne Days Growth](../../images/673601c5eeb6e1ec365c417e_AD_4nXchiwfBiSyBVmDneWHcpc2Id6B8LaU7H6hzqj289MKfSCqPeC1ZzYIUPIZmfbKP6Bxdd_DxFBbe71jKEiL2nFizECA36-lGAPQyD-gTgaZhDOoJ3p99l9KGx5yKh-PuoavS3UkI_Q.avif)
 
 > **Figure 5: Image 3: The Signal Ocean Voyages Data Grain Flows & Tonne Days Growth**  
 > *Image 3: The Signal Ocean Voyages Data Grain Flows & Tonne Days Growth*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/potential-implications-on-the-freight-industry-following-2024-u-s-election) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/673601c5eeb6e1ec365c417e_AD_4nXchiwfBiSyBVmDneWHcpc2Id6B8LaU7H6hzqj289MKfSCqPeC1ZzYIUPIZmfbKP6Bxdd_DxFBbe71jKEiL2nFizECA36-lGAPQyD-gTgaZhDOoJ3p99l9KGx5yKh-PuoavS3UkI_Q.avif)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/potential-implications-on-the-freight-industry-following-2024-u-s-election) | [Local Asset](../../../../../../corpus/07-signal/images/673601c5eeb6e1ec365c417e_AD_4nXchiwfBiSyBVmDneWHcpc2Id6B8LaU7H6hzqj289MKfSCqPeC1ZzYIUPIZmfbKP6Bxdd_DxFBbe71jKEiL2nFizECA36-lGAPQyD-gTgaZhDOoJ3p99l9KGx5yKh-PuoavS3UkI_Q.avif)
 
 
 ## Impact of the 2024 U.s. Election and Speculation on Trade Policies
@@ -107,7 +107,7 @@ Over recent years, monthly grain shipments from the U.S. Gulf to China have tren
 
 > **Figure 6: Image 4: The Signal Ocean Voyages Data Grain Flows & Tonne Days Growth**  
 > *Image 4: The Signal Ocean Voyages Data Grain Flows & Tonne Days Growth*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/potential-implications-on-the-freight-industry-following-2024-u-s-election) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/673601c77b3f645286d92b30_AD_4nXfbyVUK_KXis24xlct_-V35q1B_ZjB5CN7LnncAKDS2GOHksJU8nlZB6ZkcT89UMrM1u_vuZ2gYUdPW9iIEmPa43QHWc-lJVd6hNxXh903-E4VwAj9d59MK0scfAVBPRLB4iSv_SA.avif)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/potential-implications-on-the-freight-industry-following-2024-u-s-election) | [Local Asset](../../../../../../corpus/07-signal/images/673601c77b3f645286d92b30_AD_4nXfbyVUK_KXis24xlct_-V35q1B_ZjB5CN7LnncAKDS2GOHksJU8nlZB6ZkcT89UMrM1u_vuZ2gYUdPW9iIEmPa43QHWc-lJVd6hNxXh903-E4VwAj9d59MK0scfAVBPRLB4iSv_SA.avif)
 
 
 ## Outlook and Long-Term Impact

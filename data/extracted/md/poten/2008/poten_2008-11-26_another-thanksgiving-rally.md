@@ -56,6 +56,8 @@ On the day before Thanksgiving last year, it was difficult to see the run-up bre
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: Another Thanksgiving Rally?](../../../charts/poten/2008/poten_2008-11-26_another-thanksgiving-rally_chart1.png)
-
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2008/poten_2008-11-26_another-thanksgiving-rally_chart1.png)
+> **Chart on PDF page 2: Arabian Gulf VLCC Availability**  
+> Unit: Number of Vessels - Next 30 Days · X-axis: Jan to Dec  
+> Series: 2007, 2008  
+> *Source: Poten & Partners*  
+> *No image crop of this chart was saved; caption read from the PDF.*

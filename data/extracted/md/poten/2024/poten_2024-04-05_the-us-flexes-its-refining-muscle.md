@@ -30,10 +30,17 @@ More product movements over longer distances have underpinned freight rates for 
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: The US Flexes Its Refining Muscle](../../../charts/poten/2024/poten_2024-04-05_the-us-flexes-its-refining-muscle_chart1.png)
+![Exhibit 1: US Gulf Clean Product Exports by Destination (Excl LPG & Chem.)](../../../charts/poten/2024/poten_2024-04-05_the-us-flexes-its-refining-muscle_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2024/poten_2024-04-05_the-us-flexes-its-refining-muscle_chart1.png)
+> **Exhibit 1: US Gulf Clean Product Exports by Destination (Excl LPG & Chem.)**  
+> Unit: Kb/d · X-axis: Jan-20 to Mar-24  
+> Series: Mexico, Brazil, Chile, Peru, Colombia, Panama, Guatemala, Japan, Other  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2024/poten_2024-04-05_the-us-flexes-its-refining-muscle_chart1.png)
 
-![Exhibit 2: The US Flexes Its Refining Muscle](../../../charts/poten/2024/poten_2024-04-05_the-us-flexes-its-refining-muscle_chart2.png)
+![Exhibit 2: US West Coast Clean Product Exports by Destination](../../../charts/poten/2024/poten_2024-04-05_the-us-flexes-its-refining-muscle_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2024/poten_2024-04-05_the-us-flexes-its-refining-muscle_chart2.png)
+> **Exhibit 2: US West Coast Clean Product Exports by Destination**  
+> Unit: Kb/d · X-axis: Jan-21 to Mar-24  
+> Series: Mexico, Chile, Guatemala, El Salvador, Ecuador, Peru, Panama, Belgium, Other  
+> *Source: Vortexa*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2024/poten_2024-04-05_the-us-flexes-its-refining-muscle_chart2.png)

@@ -32,8 +32,8 @@ Overall, the IEA outlook seems to support Long Range product tanker demand and i
 
 ![Exhibit 1: Looking into IEAs Crystal Ball](../../../charts/poten/2017/poten_2017-03-10_looking-into-ieas-crystal-ball_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2017/poten_2017-03-10_looking-into-ieas-crystal-ball_chart1.png)
+> **Interactive Asset:** [Local Asset (200 DPI PNG)](../../../charts/poten/2017/poten_2017-03-10_looking-into-ieas-crystal-ball_chart1.png)
 
 ![Exhibit 2: Looking into IEAs Crystal Ball](../../../charts/poten/2017/poten_2017-03-10_looking-into-ieas-crystal-ball_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2017/poten_2017-03-10_looking-into-ieas-crystal-ball_chart2.png)
+> **Interactive Asset:** [Local Asset (200 DPI PNG)](../../../charts/poten/2017/poten_2017-03-10_looking-into-ieas-crystal-ball_chart2.png)

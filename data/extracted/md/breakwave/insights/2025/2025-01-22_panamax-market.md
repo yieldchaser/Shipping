@@ -28,10 +28,10 @@ January 22, 2025
 
 *This week's highlight explores the evolving dynamics of Panamax ballasters in the ECSA, focusing on daily loading volumes compared to those of the Supramax segment.*
 
-![Στιγμιότυπο Οθόνης 2025 01 22 154027](assets/2025-01-22_panamax-market_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_c01a832841e2.png)
+![Στιγμιότυπο Οθόνης 2025 01 22 154027](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-01-22_panamax-market_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_c01a832841e2.png)
 
 > **Figure 1: Στιγμιότυπο Οθόνης 2025 01 22 154027**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://go.signalocean.com/e/983831/commodity-iron-ore/2qv7dj/463409181/h/cOmmvUfXvGEEdyKUTQk14KJh-mcQ1FCkXoG38H0UVEU) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-01-22_panamax-market_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_c01a832841e2.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://go.signalocean.com/e/983831/commodity-iron-ore/2qv7dj/463409181/h/cOmmvUfXvGEEdyKUTQk14KJh-mcQ1FCkXoG38H0UVEU) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-01-22_panamax-market_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_c01a832841e2.png)
 
 As January draws to a close, the Capesize Brazil–North China freight market maintains a relatively stable sentiment. Although highs have yet to be achieved, the market remains steady. In contrast, the Panamax Continent–Far East route shows weaker sentiment, weighed down by an oversupply of tonnage that continues to depress freight rates. Shifting focus to the ECSA market for the Panamax vessel size category, there has been a notable surge in the number of ballasters. Meanwhile, the P6 route has plummeted to record lows, revisiting the bottom levels seen in mid-February 2023.
 
@@ -39,10 +39,10 @@ As the month progresses, the iron ore market is showing signs of recovery.[Iron 
 
 On the geopolitical front, international trade dynamics remain uncertain. While the US administration under President Donald Trump refrained from imposing new tariffs on its first day, directives have been issued to investigate and address ongoing trade deficits. Furthermore, there are looming threats of tariffs targeting Mexico, Canada, China, and the EU, stemming from various trade-related concerns. These developments could have implications for global trade flows and market sentiment in the coming months.
 
-![Στιγμιότυπο Οθόνης 2025 01 22 151900](assets/2025-01-22_panamax-market_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_c5f79bf24627.png)
+![Στιγμιότυπο Οθόνης 2025 01 22 151900](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-01-22_panamax-market_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_c5f79bf24627.png)
 
 > **Figure 2: Στιγμιότυπο Οθόνης 2025 01 22 151900**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-01-22_panamax-market_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_c5f79bf24627.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-01-22_panamax-market_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_c5f79bf24627.png)
 
 The dry bulk freight market continued a mixed momentum from the previous weeks of January, with a notable decline in Panamax rates from the Continent to the Far East.
 
@@ -51,10 +51,10 @@ The dry bulk freight market continued a mixed momentum from the previous weeks o
 - **Supramax**vessel freight rates on the Indo-ECI route dropped below $7 per ton, reflecting a monthly decrease of 18%.
 - **Handysize**freight rates for the NOPAC Far East route have fallen to $27 per ton, representing an 8% month-on-month decline. The downward trend has persisted into the final days of January.
 
-![Στιγμιότυπο Οθόνης 2025 01 22 151911](assets/2025-01-22_panamax-market_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_edd465065d2e.png)
+![Στιγμιότυπο Οθόνης 2025 01 22 151911](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-01-22_panamax-market_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_edd465065d2e.png)
 
 > **Figure 3: Στιγμιότυπο Οθόνης 2025 01 22 151911**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-01-22_panamax-market_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_edd465065d2e.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-01-22_panamax-market_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_edd465065d2e.png)
 
 In the final days of January, the market has experienced an increase in the number of ballasters, though Capesize levels remain close to the annual average.
 
@@ -63,10 +63,10 @@ In the final days of January, the market has experienced an increase in the numb
 - **Supramax SE Asia**: There has been a significant increase, with numbers consistently trending above the annual average of 100, recovering from the record lows observed at the beginning of the month.
 - **Handysize NOPAC**: An upward trend above the annual average has persisted throughout the month, with levels approaching 100.
 
-![Στιγμιότυπο Οθόνης 2025 01 22 151927](assets/2025-01-22_panamax-market_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_cb63819eb81b.png)
+![Στιγμιότυπο Οθόνης 2025 01 22 151927](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-01-22_panamax-market_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_cb63819eb81b.png)
 
 > **Figure 4: Στιγμιότυπο Οθόνης 2025 01 22 151927**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-01-22_panamax-market_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_cb63819eb81b.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-01-22_panamax-market_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_cb63819eb81b.png)
 
 At the second half of January, dry tonne-day growth showed a decreasing trend across all dry vessel size categories, amid indications of a firmer momentum at the end of the fourth quarter of the previous year.
 
@@ -75,10 +75,10 @@ At the second half of January, dry tonne-day growth showed a decreasing trend ac
 - **Supramax**: Despite the recent decline, the growth rate appears to maintain stronger momentum compared to other vessel size categories.
 - **Handysize**: The Handysize vessel segment extended the downward trend observed in previous weeks throughout January, with signs of further slowdown toward the month's end.
 
-![Στιγμιότυπο Οθόνης 2025 01 22 151940](assets/2025-01-22_panamax-market_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_e5805e01b826.png)
+![Στιγμιότυπο Οθόνης 2025 01 22 151940](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-01-22_panamax-market_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_e5805e01b826.png)
 
 > **Figure 5: Στιγμιότυπο Οθόνης 2025 01 22 151940**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-01-22_panamax-market_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_e5805e01b826.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-01-22_panamax-market_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_e5805e01b826.png)
 
 Congestion at Chinese dry bulk ports has continued to decline in January, with decreasing trends observed across the Capesize, Panamax, and Supramax vessel segments.
 

@@ -27,7 +27,7 @@ The recent, and rapid, decline has again spurred talk of “the cycle is already
 
 As it relates to the stocks, the group is down 5-17% from year-to-date highs (with product tanker equities holding in substantially better), and who are we to admonish locking in gains in an otherwise difficult year for investing. However, blips, pullbacks and volatility will always occur, and abandoning a thesis because of short-term sentiment shifts is an easy path to selling too early, especially as EPS and dividends have yet to really reflect this budding cyclical uplift. Risk-adjust as you see fit, but don’t confuse volatility with “the end.” The only thing we see ending is this calendar year...and thank God for that. Happy Holidays!
 
-![1 (2)](assets/2022-12-14_chappells-shipping-show-as-we-wrap-up-2022-its-important-to-keep-perspective_img_128229_79f6fb5c78a2.png)
+![1 (2)](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-12-14_chappells-shipping-show-as-we-wrap-up-2022-its-important-to-keep-perspective_img_128229_79f6fb5c78a2.png)
 
 > **Figure 1: 1 (2)**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-12-14_chappells-shipping-show-as-we-wrap-up-2022-its-important-to-keep-perspective_img_128229_79f6fb5c78a2.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-12-14_chappells-shipping-show-as-we-wrap-up-2022-its-important-to-keep-perspective_img_128229_79f6fb5c78a2.png)

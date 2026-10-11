@@ -24,10 +24,10 @@ Renewed supply side issues helped push energy markets higher. Industrial metals 
 
 *By*[*Daniel Hynes*](https://www.linkedin.com/in/dahynes/)
 
-![Στιγμιότυπο Οθόνης 2025 11 04 111814](assets/2025-11-04_oil-gains-after-opec-pauses-production-hikes_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_365318fa65eb.png)
+![Στιγμιότυπο Οθόνης 2025 11 04 111814](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-11-04_oil-gains-after-opec-pauses-production-hikes_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_365318fa65eb.png)
 
 > **Figure 1: Στιγμιότυπο Οθόνης 2025 11 04 111814**  
-> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-11-04_oil-gains-after-opec-pauses-production-hikes_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_365318fa65eb.png)
+> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-11-04_oil-gains-after-opec-pauses-production-hikes_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_365318fa65eb.png)
 
 ### Market Commentary
 
@@ -43,10 +43,10 @@ Renewed supply side issues helped push energy markets higher. Industrial metals 
 
 European carbon futures rose above EUR80/t, after Germany announced new support for energy intensive industries. The country is introducing a mechanism for subsidised electricity costs for heavy industrial users through 2029. Its expected to be rolled out at the start of next year. The subsequent boost to industrial activity is likely to increase demand for carbon permits that companies need to surrender for each tonne of CO2 they release. Carbon prices had already been well supported by stronger demand after a cut to available allowances in upcoming auctions. In addition, demand from the maritime sector has also been strong.
 
-![Στιγμιότυπο Οθόνης 2025 11 04 111912](assets/2025-11-04_oil-gains-after-opec-pauses-production-hikes_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_2729808ff404.png)
+![Στιγμιότυπο Οθόνης 2025 11 04 111912](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-11-04_oil-gains-after-opec-pauses-production-hikes_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_2729808ff404.png)
 
 > **Figure 2: Στιγμιότυπο Οθόνης 2025 11 04 111912**  
-> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-11-04_oil-gains-after-opec-pauses-production-hikes_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_2729808ff404.png)
+> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-11-04_oil-gains-after-opec-pauses-production-hikes_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_2729808ff404.png)
 
 Data source:[Commodities Wrap](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI)
 

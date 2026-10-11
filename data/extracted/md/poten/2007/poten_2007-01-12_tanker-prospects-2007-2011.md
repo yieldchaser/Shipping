@@ -62,6 +62,3 @@ Conclusion 171
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: Tanker Prospects 2007 - 2011](../../../charts/poten/2007/poten_2007-01-12_tanker-prospects-2007-2011_chart1.png)
-
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2007/poten_2007-01-12_tanker-prospects-2007-2011_chart1.png)

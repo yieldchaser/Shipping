@@ -26,10 +26,18 @@ It is difficult to pinpoint the impact of the conflict in Libya on the tanker ma
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: Libyas Rollercoaster Ride](../../../charts/poten/2020/poten_2020-07-17_libyas-rollercoaster-ride_chart1.png)
+![Exhibit 1: Libya Crude Oil Production](../../../charts/poten/2020/poten_2020-07-17_libyas-rollercoaster-ride_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2020/poten_2020-07-17_libyas-rollercoaster-ride_chart1.png)
+> **Exhibit 1: Libya Crude Oil Production**  
+> Unit: Mb/d · X-axis: 1993 to 2020  
+> Series: Libya Crude Oil Production  
+> *Source: EIA*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2020/poten_2020-07-17_libyas-rollercoaster-ride_chart1.png)
 
-![Exhibit 2: Libyas Rollercoaster Ride](../../../charts/poten/2020/poten_2020-07-17_libyas-rollercoaster-ride_chart2.png)
+![Exhibit 2: Libya Crude Oil Exports by Destination](../../../charts/poten/2020/poten_2020-07-17_libyas-rollercoaster-ride_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2020/poten_2020-07-17_libyas-rollercoaster-ride_chart2.png)
+> **Exhibit 2: Libya Crude Oil Exports by Destination**  
+> Unit: Kb/d · X-axis: Jan-14 to Apr-20  
+> Series: Italy, France, Spain, Greece, Other Med, UKC/Baltic, Asia, Other  
+> *Source: Lloyd’s List Intelligence*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2020/poten_2020-07-17_libyas-rollercoaster-ride_chart2.png)

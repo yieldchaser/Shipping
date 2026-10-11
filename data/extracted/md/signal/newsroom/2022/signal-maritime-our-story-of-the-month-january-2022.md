@@ -29,11 +29,11 @@ During a period of low market levels, Signal’s chartering team has leveraged t
 Analysing the port stay in "Voyages Data" in The [Signal Ocean Platform](https://app.signalocean.com/), we acquire an overview of delays across different ports taking into consideration other parameters such as the timing and seasonality.
 
 
-![Reports Dashboard, the Signal Ocean Platform](../../images/61ee89fee60ddc5c216cb900_StoryOfTheMonth_Jan_0.PNG)
+![Reports Dashboard, the Signal Ocean Platform](../../../../../../corpus/07-signal/images/61ee89fee60ddc5c216cb900_StoryOfTheMonth_Jan_0.PNG)
 
 > **Figure 1: Reports Dashboard, the Signal Ocean Platform**  
 > *Reports Dashboard, The Signal Ocean Platform*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/signal-maritime-our-story-of-the-month-january-2022) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/61ee89fee60ddc5c216cb900_StoryOfTheMonth_Jan_0.PNG)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/signal-maritime-our-story-of-the-month-january-2022) | [Local Asset](../../../../../../corpus/07-signal/images/61ee89fee60ddc5c216cb900_StoryOfTheMonth_Jan_0.PNG)
 
 Based on data analysis conducted for the year 2021, companies who systematically leverage such information based on voyages and port data experience a $500-700 per day per vessel impact on their revenues.
 
@@ -42,7 +42,7 @@ Based on data analysis conducted for the year 2021, companies who systematically
 
 > **Figure 2: Examples Demonstrating the Strategy**  
 > *Examples demonstrating the strategy*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/signal-maritime-our-story-of-the-month-january-2022) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/61ee8a276c973711129956ad_image (90).png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/signal-maritime-our-story-of-the-month-january-2022) | [Local Asset](../../../../../../corpus/07-signal/images/61ee8a276c973711129956ad_image%20(90).png)
 
 In the first example voyage we accumulated 72 days of demurrage that improved the voyage’s TCE by $10.2K/day.
 

@@ -24,10 +24,10 @@ Easing trade tensions helped push the energy sector higher. Metals gained on sig
 
 *By*[*Daniel Hynes*](https://www.linkedin.com/in/dahynes/)
 
-![Στιγμιότυπο Οθόνης 2025 06 06 144439](assets/2025-06-06_dwindling-inventories-pushes-copper-higher_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_8a94fedd5b7b.png)
+![Στιγμιότυπο Οθόνης 2025 06 06 144439](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-06-06_dwindling-inventories-pushes-copper-higher_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_8a94fedd5b7b.png)
 
 > **Figure 1: Στιγμιότυπο Οθόνης 2025 06 06 144439**  
-> **Interactive Data & Source:** [Publications Anz](https://publications.anz.com/SingletrackCMS__DownloadDocument?docRef=745a9750-5514-4ac6-b985-27c8addb4c29&uid=bd219b92-f5cc-400e-9646-4178791864b7&jobRef=18c58deb-65d3-424a-8b60-5cde2dcecd49) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-06-06_dwindling-inventories-pushes-copper-higher_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_8a94fedd5b7b.png)
+> **Interactive Data & Source:** [Publications Anz](https://publications.anz.com/SingletrackCMS__DownloadDocument?docRef=745a9750-5514-4ac6-b985-27c8addb4c29&uid=bd219b92-f5cc-400e-9646-4178791864b7&jobRef=18c58deb-65d3-424a-8b60-5cde2dcecd49) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-06-06_dwindling-inventories-pushes-copper-higher_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_8a94fedd5b7b.png)
 
 ### Market Commentary
 
@@ -43,10 +43,10 @@ Easing trade tensions also boosted sentiment across the**crude****oil**market. B
 
 The OPEC+ alliance approved a 411kb/d increase in output for July. This will bring the increase in supply to 1.38mb/d in the first four months of the phase out plan, or 64% of the 2.2mb/d in voluntary production cuts. If this rate continues, it will have completely unwound the 2.2mb/d of voluntary cuts 12 months earlier than originally planned.
 
-![Στιγμιότυπο Οθόνης 2025 06 06 144530](assets/2025-06-06_dwindling-inventories-pushes-copper-higher_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_bd0a4eacc8f5.png)
+![Στιγμιότυπο Οθόνης 2025 06 06 144530](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-06-06_dwindling-inventories-pushes-copper-higher_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_bd0a4eacc8f5.png)
 
 > **Figure 2: Στιγμιότυπο Οθόνης 2025 06 06 144530**  
-> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-06-06_dwindling-inventories-pushes-copper-higher_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_bd0a4eacc8f5.png)
+> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-06-06_dwindling-inventories-pushes-copper-higher_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_bd0a4eacc8f5.png)
 
 Data source:[Commodities Wrap](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI)
 

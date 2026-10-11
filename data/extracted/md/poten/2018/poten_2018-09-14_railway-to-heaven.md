@@ -28,10 +28,18 @@ The situation in Canada is slightly different. Rail movements in Canada (both do
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: Railway To Heaven](../../../charts/poten/2018/poten_2018-09-14_railway-to-heaven_chart1.png)
+![Exhibit 1: US Atlantic Coast (PADD1) Crude Oil Supply](../../../charts/poten/2018/poten_2018-09-14_railway-to-heaven_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2018/poten_2018-09-14_railway-to-heaven_chart1.png)
+> **Exhibit 1: US Atlantic Coast (PADD1) Crude Oil Supply**  
+> Unit: Kb/d · X-axis: Jan-12 to Apr-18  
+> Series: PADD2 by Rail, Canada by Rail, USG by JA Tanker, Imports by Tanker  
+> *Source: Poten, EIA*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2018/poten_2018-09-14_railway-to-heaven_chart1.png)
 
-![Exhibit 2: Railway To Heaven](../../../charts/poten/2018/poten_2018-09-14_railway-to-heaven_chart2.png)
+![Exhibit 2: US Imports from Canada by Rail](../../../charts/poten/2018/poten_2018-09-14_railway-to-heaven_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2018/poten_2018-09-14_railway-to-heaven_chart2.png)
+> **Exhibit 2: US Imports from Canada by Rail**  
+> Unit: Kb/d · X-axis: Jan-12 to Apr-18  
+> Series: PADD 1 (USAC), PADD 2 (Mid West), PADD 3 (USG), PADD 4 (Rocky Mtn), PADD 5 (USWC)  
+> *Source: EIA*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2018/poten_2018-09-14_railway-to-heaven_chart2.png)

@@ -49,10 +49,10 @@ source_file: "corpus/03-breakwave/insights/2025/2025-03-20_tankers-research-upda
 
 - Suezmax earnings in the Mediterranean reached their highest level in over a year yesterday, trading at $63,000/day, up from a low of $18,000 at the start of this year.
 
-![92ca Image 0 1742482982810](assets/2025-03-20_tankers-research-update_img_92ca-image-0-1742482982810_e30365e542f6.png)
+![92ca Image 0 1742482982810](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-03-20_tankers-research-update_img_92ca-image-0-1742482982810_e30365e542f6.png)
 
 > **Figure 1: 92ca Image 0 1742482982810**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-03-20_tankers-research-update_img_92ca-image-0-1742482982810_e30365e542f6.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-03-20_tankers-research-update_img_92ca-image-0-1742482982810_e30365e542f6.png)
 
 Recent capacity additions at Kazakhstan’s Tengiz oil field, which feeds the CPC system, began coming online at the end of January. Output is expected to increase by 260k b/d by the second quarter, bringing total output capacity close to 960k b/d. This increase translates to approximately one additional Suezmax per day.
 

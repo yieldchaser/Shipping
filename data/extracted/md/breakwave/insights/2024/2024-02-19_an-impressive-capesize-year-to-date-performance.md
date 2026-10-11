@@ -32,17 +32,17 @@ In late January, Refinitiv updated its China Iron Ore model to incorporate the l
 
 Structural challenges within China's real estate market, along with deflationary pressures and subdued consumer confidence, are exerting downward pressure on the iron ore market outlook. However, there are counterbalancing factors at play. The People’s Bank of China has committed to supporting the economy and is anticipated to implement a 10 basis points cut to the loan prime rate in the first quarter of this year. Furthermore, China’s manufacturing sector is outperforming expectations, buoyed by stimulus measures effectively bolstering manufacturing activities. In the automotive sector, electric vehicle (EV) sales have been on an upward trajectory for five consecutive months. While it remains uncertain whether the surge in EV manufacturing can fully offset the losses stemming from the property sector crisis, it is expected to provide significant support nonetheless. However, China's heavily subsidized manufacturing activities are facing resistance abroad. For instance, India has imposed five-year anti-dumping tariffs on Chinese steel, and the European Commission is investigating China’s unfair trading practices in the biodiesel market. These actions represent efforts to safeguard local industries, potentially resulting in a significant decrease in China's exports as countries seek to protect their domestic markets.
 
-![Screenshot 2024 02 19 13.20.34](assets/2024-02-19_an-impressive-capesize-year-to-date-performance_img_screenshot2024-02-19132034_770c73f7b871.png)
+![Screenshot 2024 02 19 13.20.34](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-02-19_an-impressive-capesize-year-to-date-performance_img_screenshot2024-02-19132034_770c73f7b871.png)
 
 > **Figure 1: Screenshot 2024 02 19 13.20.34**  
-> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-02-19_an-impressive-capesize-year-to-date-performance_img_screenshot2024-02-19132034_770c73f7b871.png)
+> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-02-19_an-impressive-capesize-year-to-date-performance_img_screenshot2024-02-19132034_770c73f7b871.png)
 
 In conclusion, despite the challenges, the sluggish recovery of China’s property sector is prompting additional stimulus support this year, which could act as a tailwind for the iron ore market. Furthermore, the accumulation of imported iron ore stocks at China's major 45 ports, as reported in Mysteel's weekly survey, has propelled the volume to reach a 10-month high of 131.5 million tonnes. However, it's worth noting that despite this increase, the stockpiles of ore still remain 6 percent lower compared to the previous year.
 
-![Screenshot 2024 02 19 13.20.43](assets/2024-02-19_an-impressive-capesize-year-to-date-performance_img_screenshot2024-02-19132043_097f9034b9bb.png)
+![Screenshot 2024 02 19 13.20.43](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-02-19_an-impressive-capesize-year-to-date-performance_img_screenshot2024-02-19132043_097f9034b9bb.png)
 
 > **Figure 2: Screenshot 2024 02 19 13.20.43**  
-> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-02-19_an-impressive-capesize-year-to-date-performance_img_screenshot2024-02-19132043_097f9034b9bb.png)
+> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-02-19_an-impressive-capesize-year-to-date-performance_img_screenshot2024-02-19132043_097f9034b9bb.png)
 
 Data source:[Doric](https://www.doric.gr/)
 

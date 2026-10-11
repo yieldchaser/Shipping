@@ -37,10 +37,10 @@ But that doesn’t mean it shouldn’t concern us.
 
 Last week, British consumers were faced with a shock from the Bank of England, which hiked rates twice. According to the[FT](https://www.ft.com/content/9940b3b2-1988-4658-95cb-fa312bd23185?shareType=nongift), if rates go up to 6% by the end of the year (which is what markets expect), the average mortgage would go up by £2900 per annum. We posted an[op-ed on FT Adviser](https://www.ftadviser.com/mortgages/2023/06/23/the-inflation-cycle-won-t-break-itself/)about inflation in the UK being too high and that policymakers could trigger a recession to break it.
 
-![Market Chart 1](assets/2023-06-27_mazars-comment-the-bank-of-england-should-be-worried-about-russia_img_image00428629_b0be3c087774.jpg)
+![Market Chart 1](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-06-27_mazars-comment-the-bank-of-england-should-be-worried-about-russia_img_image00428629_b0be3c087774.jpg)
 
 > **Figure 1: Market Chart 1**  
-> **Interactive Data & Source:** [Youtube](https://www.youtube.com/watch?v=fgm14D1jHUw) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-06-27_mazars-comment-the-bank-of-england-should-be-worried-about-russia_img_image00428629_b0be3c087774.jpg)
+> **Interactive Data & Source:** [Youtube](https://www.youtube.com/watch?v=fgm14D1jHUw) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-06-27_mazars-comment-the-bank-of-england-should-be-worried-about-russia_img_image00428629_b0be3c087774.jpg)
 
 As if the UK central bank didn’t have enough to worry about, now it needs to fret about Russia.
 
@@ -48,10 +48,10 @@ Whether we like it or not, however, Russia is very important for the global supp
 
 A running theme since the beginning of the year for us was increased uncertainty and unpredictability, in a world that shows no signs of returning to its pre-pandemic balance. While we don’t know what happened, we should not be surprised if we see upheaval in the commodities market, as investors fear further destabilisation. As a reminder, global inflation was ‘transitory’ and probably under control, until the war in Ukraine pushed commodity and energy prices beyond the threshold consumers could tolerate before they went to their bosses and asked for a raise. Russia’s war arguably catalysed the transformation of inflation from supply-driven to demand-driven, a much more difficult form to deal with.
 
-![Market Chart 2](assets/2023-06-27_mazars-comment-the-bank-of-england-should-be-worried-about-russia_img_image00528929_6d66d5fe32e4.jpg)
+![Market Chart 2](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-06-27_mazars-comment-the-bank-of-england-should-be-worried-about-russia_img_image00528929_6d66d5fe32e4.jpg)
 
 > **Figure 2: Market Chart 2**  
-> **Interactive Data & Source:** [Youtube](https://www.youtube.com/watch?v=fgm14D1jHUw) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-06-27_mazars-comment-the-bank-of-england-should-be-worried-about-russia_img_image00528929_6d66d5fe32e4.jpg)
+> **Interactive Data & Source:** [Youtube](https://www.youtube.com/watch?v=fgm14D1jHUw) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-06-27_mazars-comment-the-bank-of-england-should-be-worried-about-russia_img_image00528929_6d66d5fe32e4.jpg)
 
 Further instability could, in theory, add to inflationary pressures, at a time when we at least thought that supply chain issues were behind us.
 
@@ -59,10 +59,10 @@ This would come at a very unfortunate moment. Inflation has become entrenched in
 
 At least external pressures had subsided.
 
-![Market Chart 3](assets/2023-06-27_mazars-comment-the-bank-of-england-should-be-worried-about-russia_img_image006281229_96e9dbb2be8b.jpg)
+![Market Chart 3](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-06-27_mazars-comment-the-bank-of-england-should-be-worried-about-russia_img_image006281229_96e9dbb2be8b.jpg)
 
 > **Figure 3: Market Chart 3**  
-> **Interactive Data & Source:** [Youtube](https://www.youtube.com/watch?v=fgm14D1jHUw) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-06-27_mazars-comment-the-bank-of-england-should-be-worried-about-russia_img_image006281229_96e9dbb2be8b.jpg)
+> **Interactive Data & Source:** [Youtube](https://www.youtube.com/watch?v=fgm14D1jHUw) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-06-27_mazars-comment-the-bank-of-england-should-be-worried-about-russia_img_image006281229_96e9dbb2be8b.jpg)
 
 Fresh instability could trigger supply-side inflation again. With prices rising double the central bank’s desired rate in the US, triple in the EU and more than four times in the UK, this externality, if it persists, could lead into more monetary tightening, and a worse blow for global consumers.
 

@@ -28,10 +28,17 @@ It is unclear whether the bankruptcy filing of PES will have an impact on the de
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: RINsanity Returns](../../../charts/poten/2018/poten_2018-01-26_rinsanity-returns_chart1.png)
+![Exhibit 1: Statutary Volume Targets for Renewable Fuel](../../../charts/poten/2018/poten_2018-01-26_rinsanity-returns_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2018/poten_2018-01-26_rinsanity-returns_chart1.png)
+> **Exhibit 1: Statutary Volume Targets for Renewable Fuel**  
+> Unit: Bln Gallon · X-axis: 2009 to 2022  
+> Series: Conventional Biofuel, Cellulosic BioFuel, Bio Diesel, Oth Adv Biofuels  
+> *Source: EPA*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2018/poten_2018-01-26_rinsanity-returns_chart1.png)
 
-![Exhibit 2: RINsanity Returns](../../../charts/poten/2018/poten_2018-01-26_rinsanity-returns_chart2.png)
+![Exhibit 2: RIN Values Over Time](../../../charts/poten/2018/poten_2018-01-26_rinsanity-returns_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2018/poten_2018-01-26_rinsanity-returns_chart2.png)
+> **Exhibit 2: RIN Values Over Time**  
+> Unit: USD/Gallon · X-axis: Aug-16 to Dec-17  
+> *Source: Bloomberg*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2018/poten_2018-01-26_rinsanity-returns_chart2.png)

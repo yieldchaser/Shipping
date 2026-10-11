@@ -30,10 +30,17 @@ When the SPR was initially filled, back in the mid-1970s, crude was sourced from
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: Fill It Up](../../../charts/poten/2024/poten_2024-11-15_fill-it-up_chart1.png)
+![Exhibit 1: US Strategic Petroleum Reserve Crude Stocks](../../../charts/poten/2024/poten_2024-11-15_fill-it-up_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2024/poten_2024-11-15_fill-it-up_chart1.png)
+> **Exhibit 1: US Strategic Petroleum Reserve Crude Stocks**  
+> Unit: Mln Bbl · X-axis: Jan-10 to Aug-24  
+> Series: Crude Stocks  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2024/poten_2024-11-15_fill-it-up_chart1.png)
 
-![Exhibit 2: Fill It Up](../../../charts/poten/2024/poten_2024-11-15_fill-it-up_chart2.png)
+![Exhibit 2: US Gulf Crude Exports by Destination](../../../charts/poten/2024/poten_2024-11-15_fill-it-up_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2024/poten_2024-11-15_fill-it-up_chart2.png)
+> **Exhibit 2: US Gulf Crude Exports by Destination**  
+> Unit: Kb/d · X-axis: Jan-20 to Sep-24  
+> Series: South Korea, Netherlands, United Kingdom, China, India, Canada, Singapore, Taiwan, Other  
+> *Source: EIA, Vortexa*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2024/poten_2024-11-15_fill-it-up_chart2.png)

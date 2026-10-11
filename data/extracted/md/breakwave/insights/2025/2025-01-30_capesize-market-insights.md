@@ -28,10 +28,10 @@ January 29, 2025
 
 *This week's highlight delves into the evolving dynamics of Capesize tonne-day growth from Brazil to China, alongside the performance of the Baltic Capesize Index and Tubarão-to-Qingdao market rates. Notably, the recent decline in freight rates following the Chinese New Year has influenced laden speeds, while the number of Capesize ballasters in the South Atlantic surged towards the end of January.*
 
-![Στιγμιότυπο Οθόνης 2025 01 30 111640](assets/2025-01-30_capesize-market-insights_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_b53483b47983.png)
+![Στιγμιότυπο Οθόνης 2025 01 30 111640](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-01-30_capesize-market-insights_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_b53483b47983.png)
 
 > **Figure 1: Στιγμιότυπο Οθόνης 2025 01 30 111640**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-01-30_capesize-market-insights_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_b53483b47983.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-01-30_capesize-market-insights_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_b53483b47983.png)
 
 The momentum in the freight market has weakened as we approached the end of January and the onset of the Chinese New Year. The prevailing oversupply situation continues to significantly pressure market sentiment, compounded by a decline in demand for tonne-day growth. In the Capesize segment, we have observed a clear downward trend in tonne-day growth for shipments from Brazil to China, with the performance of the BCI (Baltic Capesize Index) dropping nearly 50% compared to the levels recorded at the same time last year.
 
@@ -39,10 +39,10 @@ As the freight market continues to soften, Capesize laden speeds have fallen to 
 
 Meanwhile, when it comes to iron ore supply, output levels from major producer Vale appear unaffected by the fragile Chinese economic environment. Vale reported this week that its annual iron ore production in 2024 reached its highest level since 2018, despite a decline in Q4 output. The company attributed its strong full-year performance to greater operational stability and the successful launch of key projects. For the full year, Vale's iron ore production rose 2% year-on-year, reaching nearly 328 million metric tons in 2024, and the company has projected 2025 production to range between 325 million and 335 million tons.
 
-![Στιγμιότυπο Οθόνης 2025 01 30 111737](assets/2025-01-30_capesize-market-insights_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_2d13a80d924e.png)
+![Στιγμιότυπο Οθόνης 2025 01 30 111737](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-01-30_capesize-market-insights_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_2d13a80d924e.png)
 
 > **Figure 2: Στιγμιότυπο Οθόνης 2025 01 30 111737**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-01-30_capesize-market-insights_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_2d13a80d924e.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-01-30_capesize-market-insights_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_2d13a80d924e.png)
 
 The dry bulk freight market experienced a weakening momentum at the end of January; however, recent sentiment in the freight market remained stronger than at the end of the previous year, despite the Chinese New Year holidays.
 
@@ -51,10 +51,10 @@ The dry bulk freight market experienced a weakening momentum at the end of Janua
 - **Supramax**vessel freight rates on the Indo-ECI route remained below $7 per ton, marking a 20% decrease from the previous month.
 - **Handysize**freight rates for the NOPAC Far East route have fallen to $25 per ton, representing a 16% month-on-month decline.
 
-![Στιγμιότυπο Οθόνης 2025 01 30 111832](assets/2025-01-30_capesize-market-insights_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_36d0d612d220.png)
+![Στιγμιότυπο Οθόνης 2025 01 30 111832](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-01-30_capesize-market-insights_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_36d0d612d220.png)
 
 > **Figure 3: Στιγμιότυπο Οθόνης 2025 01 30 111832**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-01-30_capesize-market-insights_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_36d0d612d220.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-01-30_capesize-market-insights_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_36d0d612d220.png)
 
 The market saw a significant rise in the number of ballasters, surpassing the annual average for the larger vessel size categories.
 
@@ -63,10 +63,10 @@ The market saw a significant rise in the number of ballasters, surpassing the an
 - **Supramax SE Asia**: There has been a significant increase, with numbers consistently trending above the annual average of 100.
 - **Handysize NOPAC**: An upward trend above the annual average persisted; however, a downward correction occurred, bringing the figure to 90, which is 8 higher than the previous week.
 
-![Στιγμιότυπο Οθόνης 2025 01 30 111923](assets/2025-01-30_capesize-market-insights_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_58723b5a59c5.png)
+![Στιγμιότυπο Οθόνης 2025 01 30 111923](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-01-30_capesize-market-insights_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_58723b5a59c5.png)
 
 > **Figure 4: Στιγμιότυπο Οθόνης 2025 01 30 111923**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-01-30_capesize-market-insights_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_58723b5a59c5.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-01-30_capesize-market-insights_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_58723b5a59c5.png)
 
 The end of January confirmed a downward trend in dry tonne-day growth across all dry vessel size categories. However, the pace of demand recovery remains uncertain and will depend on market dynamics following the Chinese New Year celebrations.
 
@@ -75,10 +75,10 @@ The end of January confirmed a downward trend in dry tonne-day growth across all
 - **Supramax**: The growth rate remains stronger than in other vessel size categories, despite a continued decline from the highs reached two weeks ago.
 - **Handysize**: The Handysize vessel segment has continued its downward trend from previous weeks throughout January, with its latest growth rate now aligning with that of the Panamax segment.
 
-![Στιγμιότυπο Οθόνης 2025 01 30 112012](assets/2025-01-30_capesize-market-insights_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_6880d8fd5ff4.png)
+![Στιγμιότυπο Οθόνης 2025 01 30 112012](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-01-30_capesize-market-insights_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_6880d8fd5ff4.png)
 
 > **Figure 5: Στιγμιότυπο Οθόνης 2025 01 30 112012**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-01-30_capesize-market-insights_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_6880d8fd5ff4.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-01-30_capesize-market-insights_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_6880d8fd5ff4.png)
 
 Congestion at Chinese dry bulk ports saw a significant reduction at the end of January, with declining trends observed in the Supramax and Panamax vessel size segments.
 

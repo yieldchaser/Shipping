@@ -55,9 +55,9 @@ European thermal coal prices have been declining since early September, as natur
 
 Shipfix’s weekly cargo order volumes for coal discharging in Europe show that the continent’s buyers have not lost their newfound appetite for the dirtiest of fossil fuels. While the weekly volumes are somewhat below recent peaks, they still point towards a robust flow of thermal coal to Europe’s ports in the coming months. Hence, European coal prices are likely to remain elevated.
 
-![Market Chart 1](assets/2022-10-06_shipfix-global-market-update_img_unnamed288829_761109b252b0.png)
+![Market Chart 1](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-10-06_shipfix-global-market-update_img_unnamed288829_761109b252b0.png)
 
 > **Figure 1: Market Chart 1**  
-> **Interactive Data & Source:** [Shipfix](https://shipfix.com/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-10-06_shipfix-global-market-update_img_unnamed288829_761109b252b0.png)
+> **Interactive Data & Source:** [Shipfix](https://shipfix.com/) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-10-06_shipfix-global-market-update_img_unnamed288829_761109b252b0.png)
 
 Data Source:[Shipfix](https://shipfix.com/)

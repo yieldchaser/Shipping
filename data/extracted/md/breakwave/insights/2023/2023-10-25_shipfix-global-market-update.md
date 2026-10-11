@@ -63,9 +63,9 @@ The demand in the spot market for seaborne transportation of Australian coal to 
 
 The recovery of the Australian coal trade with China has primarily benefitted the Panamaxes and Capesizes in the spot market. The average cargo order size has been trending higher throughout the year and has reached 85,000 tonnes during the current month. During the period of the Chinese ban on most Australian imports, spot demand for the Australian coal trade shifted somewhat towards the smaller segments. Hence, the renewed Chinese appetite for Australian coal will provide support for freight rates in the larger segments, but the recent deceleration could temper sentiments to some extent.
 
-![Market Chart 1](assets/2023-10-25_shipfix-global-market-update_img_unnamed-2023-10-25t154531902_a785cb4f27fd.png)
+![Market Chart 1](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-10-25_shipfix-global-market-update_img_unnamed-2023-10-25t154531902_a785cb4f27fd.png)
 
 > **Figure 1: Market Chart 1**  
-> **Interactive Data & Source:** [Shipfix](https://shipfix.com/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-10-25_shipfix-global-market-update_img_unnamed-2023-10-25t154531902_a785cb4f27fd.png)
+> **Interactive Data & Source:** [Shipfix](https://shipfix.com/) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-10-25_shipfix-global-market-update_img_unnamed-2023-10-25t154531902_a785cb4f27fd.png)
 
 Data Source:[Shipfix](https://shipfix.com/)

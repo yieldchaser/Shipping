@@ -19,10 +19,10 @@ source_file: "corpus/03-breakwave/insights/2022/2022-11-29_seaborne-coal-flows-i
 
 ---
 
-[![Buttonwdate](assets/2022-11-29_seaborne-coal-flows-in-2022_img_buttonwdate_d45d644f7990.png)
+[![Buttonwdate](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-11-29_seaborne-coal-flows-in-2022_img_buttonwdate_d45d644f7990.png)
 
 > **Figure 1: Buttonwdate**  
-> **Interactive Data & Source:** [Gov](https://www.gov.uk/government/news/eu-us-uk-joint-statement-on-global-food-security-and-russia-sanctions-14-november-2022) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-11-29_seaborne-coal-flows-in-2022_img_buttonwdate_d45d644f7990.png)](https://www.breakwaveadvisors.com/agenda22)
+> **Interactive Data & Source:** [Gov](https://www.gov.uk/government/news/eu-us-uk-joint-statement-on-global-food-security-and-russia-sanctions-14-november-2022) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-11-29_seaborne-coal-flows-in-2022_img_buttonwdate_d45d644f7990.png)](https://www.breakwaveadvisors.com/agenda22)
 
 This year is crucial for the energy mix in European countries, as the EU has imposed new sanctions on Russia. It is important to emphasize that the EU sanctions against Russia do not affect the agricultural and food sectors. On[**November 14**](https://www.gov.uk/government/news/eu-us-uk-joint-statement-on-global-food-security-and-russia-sanctions-14-november-2022), the British Foreign Secretary, the High Representative of the European Union, and the U.S. Secretary of State issued a statement on global food security and Russia sanctions.
 
@@ -44,11 +44,11 @@ Using[**Signal Ocean data**](https://app.signalocean.com/dry/reports/drybulkflow
 
 An initial look at European coal imports (Figure 1) shows that total shipments have increased in the current year compared to the previous year, with the Russian Federation remaining the top source country and, the Netherlands the top destination country. Flows are expected to slow in the last quarter of the year, as the EU oil embargo on Russian coal has already curtailed supplies and other source countries are gradually replacing the volumes needed. October already ended with a lower monthly volume compared to the record high of August and September and the end of the first quarter of the year.
 
-![Image 1- Data Source: The Signal Ocean Platform](assets/2022-11-29_seaborne-coal-flows-in-2022_img_637cf900b7f5cf8f79440627-picture1_68cc077d0bee.jpg)
+![Image 1- Data Source: The Signal Ocean Platform](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-11-29_seaborne-coal-flows-in-2022_img_637cf900b7f5cf8f79440627-picture1_68cc077d0bee.jpg)
 
 > **Figure 2: Image 1- Data Source: The Signal Ocean Platform**  
 > *Image 1- Data Source: The Signal Ocean Platform, Coal Flows to Europe, 2020-2022https://app.signalocean.com/dry/reports/drybulkflows*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://app.signalocean.com/dry/reports/drybulkflows?fbclid=IwAR0aSdXWAhm7C5Zh53rqqfCJY5qjOvx-yI_b68Z0aZN3pRbMB3SaTLsbY2Y) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-11-29_seaborne-coal-flows-in-2022_img_637cf900b7f5cf8f79440627-picture1_68cc077d0bee.jpg)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://app.signalocean.com/dry/reports/drybulkflows?fbclid=IwAR0aSdXWAhm7C5Zh53rqqfCJY5qjOvx-yI_b68Z0aZN3pRbMB3SaTLsbY2Y) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-11-29_seaborne-coal-flows-in-2022_img_637cf900b7f5cf8f79440627-picture1_68cc077d0bee.jpg)
 
 ## ‍
 
@@ -56,11 +56,11 @@ An initial look at European coal imports (Figure 1) shows that total shipments h
 
 Today we are talking about replacing Russian coal flows to Europe, as we approach the middle of winter, and many European countries are expected to burn more coal due to the energy crisis. It is incredible that South African coal exports to Europe have jumped this year, reaching spectacular annual growth. September ended with record monthly shipments (image 2), the highest this year, but the last three quarters also saw the most increased volumes compared to similar months in the previous two years.
 
-![Image 2- Data Source: The Signal Ocean Platform](assets/2022-11-29_seaborne-coal-flows-in-2022_img_637cf93e92f85451fcdda2b2-picture2_f27bde452558.jpg)
+![Image 2- Data Source: The Signal Ocean Platform](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-11-29_seaborne-coal-flows-in-2022_img_637cf93e92f85451fcdda2b2-picture2_f27bde452558.jpg)
 
 > **Figure 3: Image 2- Data Source: The Signal Ocean Platform**  
 > *Image 2- Data Source: The Signal Ocean Platform, Coal Flows from South Africa to Europehttps://app.signalocean.com/dry/reports/drybulkflows*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://app.signalocean.com/dry/reports/drybulkflows?fbclid=IwAR0aSdXWAhm7C5Zh53rqqfCJY5qjOvx-yI_b68Z0aZN3pRbMB3SaTLsbY2Y) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-11-29_seaborne-coal-flows-in-2022_img_637cf93e92f85451fcdda2b2-picture2_f27bde452558.jpg)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://app.signalocean.com/dry/reports/drybulkflows?fbclid=IwAR0aSdXWAhm7C5Zh53rqqfCJY5qjOvx-yI_b68Z0aZN3pRbMB3SaTLsbY2Y) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-11-29_seaborne-coal-flows-in-2022_img_637cf93e92f85451fcdda2b2-picture2_f27bde452558.jpg)
 
 ## ‍
 
@@ -68,11 +68,11 @@ Today we are talking about replacing Russian coal flows to Europe, as we approac
 
 We took a look at the Netherlands to examine how the main European coal importer from Russia is gradually switching to other primary sources to replace the Russian loss. As can be seen in image (3) below, the United States has been aggressively seeking to meet the energy needs of the Netherlands. After the end of the second quarter of this year, Russian coal imports to the Netherlands fell to almost zero in September and October, while the United States increased its exports to the highest level in two years
 
-![Image 3- Data Source: The Signal Ocean Platform](assets/2022-11-29_seaborne-coal-flows-in-2022_img_637cf966a916153100c845c9-picture3_8afd47b11627.jpg)
+![Image 3- Data Source: The Signal Ocean Platform](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-11-29_seaborne-coal-flows-in-2022_img_637cf966a916153100c845c9-picture3_8afd47b11627.jpg)
 
 > **Figure 4: Image 3- Data Source: The Signal Ocean Platform**  
 > *Image 3- Data Source: The Signal Ocean Platform, Coal Flows from Russia and the U.S. to NLhttps://app.signalocean.com/dry/reports/drybulkflows*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://app.signalocean.com/dry/reports/drybulkflows?fbclid=IwAR0aSdXWAhm7C5Zh53rqqfCJY5qjOvx-yI_b68Z0aZN3pRbMB3SaTLsbY2Y) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-11-29_seaborne-coal-flows-in-2022_img_637cf966a916153100c845c9-picture3_8afd47b11627.jpg)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://app.signalocean.com/dry/reports/drybulkflows?fbclid=IwAR0aSdXWAhm7C5Zh53rqqfCJY5qjOvx-yI_b68Z0aZN3pRbMB3SaTLsbY2Y) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-11-29_seaborne-coal-flows-in-2022_img_637cf966a916153100c845c9-picture3_8afd47b11627.jpg)
 
 ‍
 
@@ -84,19 +84,19 @@ Russia appears to remain an important source of Chinese coal even after Australi
 
 As shown in image 4, Russian coal shipments to China have increased significantly since April, except for a downward trend in September. October ended similarly strong to June and July before the enforcement of the EU coal import ban on Russia. Panamax vessels lead shipments with a 35% share, while Supramax vessels have caught up with a 20% share.
 
-![Image 4- Data Source: The Signal Ocean Platform](assets/2022-11-29_seaborne-coal-flows-in-2022_img_637cf9a01b835243b8b8963b-picture4_e7fbb759abe9.jpg)
+![Image 4- Data Source: The Signal Ocean Platform](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-11-29_seaborne-coal-flows-in-2022_img_637cf9a01b835243b8b8963b-picture4_e7fbb759abe9.jpg)
 
 > **Figure 5: Image 4- Data Source: The Signal Ocean Platform**  
 > *Image 4- Data Source: The Signal Ocean Platform, Coal Flows from Russia to Chinahttps://app.signalocean.com/dry/reports/drybulkflows*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://app.signalocean.com/dry/reports/drybulkflows?fbclid=IwAR0aSdXWAhm7C5Zh53rqqfCJY5qjOvx-yI_b68Z0aZN3pRbMB3SaTLsbY2Y) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-11-29_seaborne-coal-flows-in-2022_img_637cf9a01b835243b8b8963b-picture4_e7fbb759abe9.jpg)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://app.signalocean.com/dry/reports/drybulkflows?fbclid=IwAR0aSdXWAhm7C5Zh53rqqfCJY5qjOvx-yI_b68Z0aZN3pRbMB3SaTLsbY2Y) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-11-29_seaborne-coal-flows-in-2022_img_637cf9a01b835243b8b8963b-picture4_e7fbb759abe9.jpg)
 
 In the case of the Indian coal market (image 5), we have seen a historical record of Russian coal imports in the summer season. With a trend of decrease in the fall, however, the pace remains historically high and India appears to be dependent on Russian coal. The share of Panamax vessels in Russian coal imports for the Indian market is even more significant than that of the Chinese, at 45%, while the percentage of Supramax vessels is 20%, as in the case of China.
 
-![Image 5- Data Source: The Signal Ocean Platform](assets/2022-11-29_seaborne-coal-flows-in-2022_img_637cfa29d81b3879bce0095b-picture5_a0daa177f3aa.jpg)
+![Image 5- Data Source: The Signal Ocean Platform](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-11-29_seaborne-coal-flows-in-2022_img_637cfa29d81b3879bce0095b-picture5_a0daa177f3aa.jpg)
 
 > **Figure 6: Image 5- Data Source: The Signal Ocean Platform**  
 > *Image 5- Data Source: The Signal Ocean Platform, Coal Flows from Russia to Indiahttps://app.signalocean.com/dry/reports/drybulkflows*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://app.signalocean.com/dry/reports/drybulkflows?fbclid=IwAR0aSdXWAhm7C5Zh53rqqfCJY5qjOvx-yI_b68Z0aZN3pRbMB3SaTLsbY2Y) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-11-29_seaborne-coal-flows-in-2022_img_637cfa29d81b3879bce0095b-picture5_a0daa177f3aa.jpg)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://app.signalocean.com/dry/reports/drybulkflows?fbclid=IwAR0aSdXWAhm7C5Zh53rqqfCJY5qjOvx-yI_b68Z0aZN3pRbMB3SaTLsbY2Y) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-11-29_seaborne-coal-flows-in-2022_img_637cfa29d81b3879bce0095b-picture5_a0daa177f3aa.jpg)
 
 ‍**‍**
 
@@ -108,11 +108,11 @@ Interestingly, the recent trend by China and India to buy Russian coal at a disc
 
 As shown in the image (6) below, the fourth quarter began with a significant increase in ton-days and miles for Capesize vessels, and it remains to be seen how this trend will develop in the final days of the year.
 
-![Image 6- Data Source: The Signal Ocean Platform](assets/2022-11-29_seaborne-coal-flows-in-2022_img_637cfa57835d3745c63bab40-picture6281_a0965beb1046.jpg)
+![Image 6- Data Source: The Signal Ocean Platform](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-11-29_seaborne-coal-flows-in-2022_img_637cfa57835d3745c63bab40-picture6281_a0965beb1046.jpg)
 
 > **Figure 7: Image 6- Data Source: The Signal Ocean Platform**  
 > *Image 6- Data Source: The Signal Ocean Platform, Capesize Ton Chartshttps://app.signalocean.com/dry/reports/toncharts*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://app.signalocean.com/dry/reports/toncharts?fbclid=IwAR0aSdXWAhm7C5Zh53rqqfCJY5qjOvx-yI_b68Z0aZN3pRbMB3SaTLsbY2Y) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-11-29_seaborne-coal-flows-in-2022_img_637cfa57835d3745c63bab40-picture6281_a0965beb1046.jpg)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://app.signalocean.com/dry/reports/toncharts?fbclid=IwAR0aSdXWAhm7C5Zh53rqqfCJY5qjOvx-yI_b68Z0aZN3pRbMB3SaTLsbY2Y) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-11-29_seaborne-coal-flows-in-2022_img_637cfa57835d3745c63bab40-picture6281_a0965beb1046.jpg)
 
 ‍
 

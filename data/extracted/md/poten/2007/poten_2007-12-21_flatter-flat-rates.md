@@ -78,6 +78,19 @@ At a given Worldscale rate, any swing in bunker prices obviously goes right to a
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: Flatter Flat Rates](../../../charts/poten/2007/poten_2007-12-21_flatter-flat-rates_chart1.png)
+> **Chart on PDF page 1: Untitled chart**  
+> Unit: $/MT · X-axis: Amuay Bay - Houston to Ras Tanura - Yokohama  
+> Series: 2003, 2004, 2005, 2006, 2007, 2008  
+> *No image crop of this chart was saved; caption read from the PDF.*
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2007/poten_2007-12-21_flatter-flat-rates_chart1.png)
+> **Chart on PDF page 2: Price Strength of Rotterdam IFO 380 Bunkers to Dubai Fateh Crude Oil**  
+> Unit: Percent · X-axis: Jan-03 to Oct-07  
+> Series: Rotterdam IFO 380 Bunkers to Dubai Fateh Crude Oil  
+> *Source: Poten & Partners*  
+> *No image crop of this chart was saved; caption read from the PDF.*
+
+> **Chart on PDF page 2: Averages Can Be Misleading**  
+> Unit: $/MT · X-axis: Jan-03 to Oct-07  
+> Series: IFO 380, 2003 Ave., 2004 Ave., 2005 Ave., 2006 Ave., 2007 Ave.  
+> *Source: Poten & Partners*  
+> *No image crop of this chart was saved; caption read from the PDF.*

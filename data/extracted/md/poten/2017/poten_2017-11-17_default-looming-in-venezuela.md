@@ -34,10 +34,18 @@ As we said in our previous opinion on Venezuela "Caribbean Tankers in Trouble", 
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: Default Looming In Venezuela](../../../charts/poten/2017/poten_2017-11-17_default-looming-in-venezuela_chart1.png)
+![Exhibit 1: Venezuela: Crude Oil Production and Exports to U.S.](../../../charts/poten/2017/poten_2017-11-17_default-looming-in-venezuela_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2017/poten_2017-11-17_default-looming-in-venezuela_chart1.png)
+> **Exhibit 1: Venezuela: Crude Oil Production and Exports to U.S.**  
+> Unit: Kb/d · X-axis: Jan-15 to Sep-17  
+> Series: Crude Oil Production, U.S. Exports  
+> *Source: IEA, EIA*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2017/poten_2017-11-17_default-looming-in-venezuela_chart1.png)
 
-![Exhibit 2: Default Looming In Venezuela](../../../charts/poten/2017/poten_2017-11-17_default-looming-in-venezuela_chart2.png)
+![Exhibit 2: Venezuela: Crude Exports by Destination](../../../charts/poten/2017/poten_2017-11-17_default-looming-in-venezuela_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2017/poten_2017-11-17_default-looming-in-venezuela_chart2.png)
+> **Exhibit 2: Venezuela: Crude Exports by Destination**  
+> Unit: Kb/d · X-axis: Jan-14 to Jul-16  
+> Series: USA, China, India, S'pore/Malaysia, Other  
+> *Source: Lloyd’s List Intelligence*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2017/poten_2017-11-17_default-looming-in-venezuela_chart2.png)

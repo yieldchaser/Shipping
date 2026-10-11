@@ -40,6 +40,3 @@ The conference was an opportunity to learn from others with an interest in the f
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: Bienvenidos a Miami](../../../charts/poten/2006/poten_2006-11-03_bienvenidos-a-miami_chart1.png)
-
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2006/poten_2006-11-03_bienvenidos-a-miami_chart1.png)

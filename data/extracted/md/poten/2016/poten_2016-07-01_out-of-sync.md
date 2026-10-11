@@ -32,10 +32,18 @@ In conclusion, oil demand and tanker demand remain closely related, and, while d
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: Out of Sync](../../../charts/poten/2016/poten_2016-07-01_out-of-sync_chart1.png)
+![Exhibit 1: Crude Oil Prices Compared to VLCC TC Rates](../../../charts/poten/2016/poten_2016-07-01_out-of-sync_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2016/poten_2016-07-01_out-of-sync_chart1.png)
+> **Exhibit 1: Crude Oil Prices Compared to VLCC TC Rates**  
+> Unit: $/day | $/bbl · X-axis: Jan-93 to Jan-16  
+> Series: VLCC - 1 Yr TC, WTI, BRENT  
+> *Source: Poten, EIA*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2016/poten_2016-07-01_out-of-sync_chart1.png)
 
-![Exhibit 2: Out of Sync](../../../charts/poten/2016/poten_2016-07-01_out-of-sync_chart2.png)
+![Exhibit 2: Crude Oil Production Growth vs Demand Growth](../../../charts/poten/2016/poten_2016-07-01_out-of-sync_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2016/poten_2016-07-01_out-of-sync_chart2.png)
+> **Exhibit 2: Crude Oil Production Growth vs Demand Growth**  
+> Unit: Mb/d · X-axis: 1993 to 2015  
+> Series: Global Demand, Production  
+> *Source: IEA*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2016/poten_2016-07-01_out-of-sync_chart2.png)

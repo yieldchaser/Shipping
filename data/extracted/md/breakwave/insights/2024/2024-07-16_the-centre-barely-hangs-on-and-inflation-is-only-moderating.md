@@ -30,10 +30,10 @@ The three things investors should know this week:
 
 The world looks like a better place in the last few weeks. In France, Mr Macron managed to hand an electoral loss to surging Ms Le Pen. In the UK, the people decided overwhelmingly to install a moderate government with a strong mandate and possibly a more favourable eye towards Europe, after years of convulsions and five Prime Ministers, in the formerly ruling Tory party. Meanwhile, US inflation receded back to 3%, prompting markets to price in 2 to 3 rate cuts by the end of 2024, which would also allow European central banks to climb down their own rate ladders quicker than anticipated. US large caps are cheerful on the prospect, rising to fresh all-time highs, and bond yields have receded as traders are optimistic that we are finally on the verge of a new rate-cut cycle.
 
-![Market Chart 1](assets/2024-07-16_the-centre-barely-hangs-on-and-inflation-is-only-moderating_img_image001_66977ecc069f.png)
+![Market Chart 1](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-07-16_the-centre-barely-hangs-on-and-inflation-is-only-moderating_img_image001_66977ecc069f.png)
 
 > **Figure 1: Market Chart 1**  
-> **Interactive Data & Source:** [Economist](https://www.economist.com/leaders/2024/07/11/britains-skewed-election-reinforces-the-case-for-voting-reform-after-2029) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-07-16_the-centre-barely-hangs-on-and-inflation-is-only-moderating_img_image001_66977ecc069f.png)
+> **Interactive Data & Source:** [Economist](https://www.economist.com/leaders/2024/07/11/britains-skewed-election-reinforces-the-case-for-voting-reform-after-2029) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-07-16_the-centre-barely-hangs-on-and-inflation-is-only-moderating_img_image001_66977ecc069f.png)
 
 And the shy optimist in me would honestly like to see it this way. No one likes a Grinch. But the evidence is stacking against all these theses and suggests that the markets might be slightly on the exuberant side.
 
@@ -45,10 +45,10 @@ Mr Starmer is a moderate pro-business politician and not at all hostile to Europ
 
 In France, things are more overtly difficult. For one, Ms Le Pen did win the popular vote, with 10 million votes, as opposed to 7 million votes for either Mr Macron’s Party or the Left Coalition. It is because of the idiosyncrasies of the electoral system that the first party in votes ended with the third amount of seats in the National Assembly. Second, Mr Macron was in a difficult fiscal position to begin with. After the Ministry of Finance’s numbers in April, which suggested that France would not reach the 3% deficit target before the end of 2027, Europe issued warnings and threatened the French economy with sanctions. France has a big debt (110% of GDP) and a high deficit.
 
-![Market Chart 2](assets/2024-07-16_the-centre-barely-hangs-on-and-inflation-is-only-moderating_img_image002_86df4a6b392b.jpg)
+![Market Chart 2](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-07-16_the-centre-barely-hangs-on-and-inflation-is-only-moderating_img_image002_86df4a6b392b.jpg)
 
 > **Figure 2: Market Chart 2**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-07-16_the-centre-barely-hangs-on-and-inflation-is-only-moderating_img_image002_86df4a6b392b.jpg)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-07-16_the-centre-barely-hangs-on-and-inflation-is-only-moderating_img_image002_86df4a6b392b.jpg)
 
 Mr Macron’s challenge now is to reduce it faster than anticipated (lest Europe’s second-biggest economy is seen ignoring the stability pact), co-governing with a coalition of left parties whose explicit agenda has been to cancel Mr Macron’s reforms and incur higher fiscal burdens, even as the hard-right is now the most popular party in France. Much like Mr Starmer, failing to deliver on heightened expectations, threatens a backlash from markets and, eventually, voters.
 
@@ -56,10 +56,10 @@ Mr Macron’s challenge now is to reduce it faster than anticipated (lest Europe
 
 On paper, US consumer inflation is coming down to 3%. This breeds hopes for central banks in Europe, where the economy is much weaker, and who are eagerly waiting for the Fed to start cutting rates so they too can move more aggressively. The ECB in particular, headed by a French person, might be more keen to return to a lower rate regime, in case it will have to re-stabilise Europe once more. It all hinges on US continuing to deflate. Despite the headline numbers, however, there’s much concern that inflation might persist. Services inflation is at 5.1%, well above the 2.8% average in the period before the pandemic. Deflation is almost exclusively a story of cheaper durable goods in the past five months. And that is enough to give central banks pause. We have often said we are not in the Great Moderation environment anymore. De-globalisation forces are destabilising global supply chains and reducing efficiencies, leading to higher inflation outcomes and reduced productivity. US price moderation has mostly been the result of China deflating the world again. But, unlike the nearly 25-year period leading to the pandemic, this is not part of an agreed global new order. China has been moving aggressively to re-capture market share in markets where it has lost its competitive advantage, and re-building industrial capacity. Unlike the period that preceded the pandemic, however, there’s much less appetite in the West for Chinese goods sold at or below cost. Geopolitical concerns have overtaken inflation concerns, so the West is already responding with (inflationary) tariffs. Even if it weren’t for the tariffs, which will eventually breed inflation back into durable goods, Chinese producer prices are positive for the first time in seven months. While China continues to de-stock, goods deflation may last a bit longer. But that effect may not continue for very long, even as services inflation persists.
 
-![Market Chart 3](assets/2024-07-16_the-centre-barely-hangs-on-and-inflation-is-only-moderating_img_image003_4dfd946457b4.jpg)
+![Market Chart 3](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-07-16_the-centre-barely-hangs-on-and-inflation-is-only-moderating_img_image003_4dfd946457b4.jpg)
 
 > **Figure 3: Market Chart 3**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-07-16_the-centre-barely-hangs-on-and-inflation-is-only-moderating_img_image003_4dfd946457b4.jpg)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-07-16_the-centre-barely-hangs-on-and-inflation-is-only-moderating_img_image003_4dfd946457b4.jpg)
 
 So, the world might not be as disinflationary as the narrative suggests. Also, if the last two weekends showed us anything (in the UK, France but also in the US were political acrimony turned into political violence), is that**centrist democracy, the kind that breeds economic and financial stability, is more likely hanging on by its fingernails than staging a comeback.**
 

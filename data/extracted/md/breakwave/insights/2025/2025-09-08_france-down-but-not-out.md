@@ -24,10 +24,10 @@ source_file: "corpus/03-breakwave/insights/2025/2025-09-08_france-down-but-not-o
 
 The French PM Francois Bayrou, called for a confidence vote on the 8th of September, on his own minority government. This is a bid to force his opponents, who outnumber him in the National Assembly, to either accept €44bn in spending cuts and tax hikes, or down-vote the government, accepting the economic consequences of fresh political uncertainties at a time when French borrowing spreads have passed Greek and are reaching Italian ones. This is important because, while all borrowing costs are now rising, as a result of the trade war,**France (and the UK for that matter) has been singled out by markets as being problematic.**
 
-![Market Chart 1](assets/2025-09-08_france-down-but-not-out_img_image002_d4aa3facff00.jpg)
+![Market Chart 1](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-09-08_france-down-but-not-out_img_image002_d4aa3facff00.jpg)
 
 > **Figure 1: Market Chart 1**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-09-08_france-down-but-not-out_img_image002_d4aa3facff00.jpg)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-09-08_france-down-but-not-out_img_image002_d4aa3facff00.jpg)
 
 The vote is a political risk, calculated for a “win” or “blame”. Bayrou achieved his lifelong dream of becoming PM, so his legacy would matter to him.
 

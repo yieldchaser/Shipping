@@ -36,10 +36,18 @@ It is unclear if this year's winter market will develop the same way as last yea
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: Déjà vu all over again?](../../../charts/poten/2014/poten_2014-09-12_déjà-vu-all-over-again_chart1.png)
+![Exhibit 1: Reported VLCC fixtures versus rates](../../../charts/poten/2014/poten_2014-09-12_déjà-vu-all-over-again_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2014/poten_2014-09-12_déjà-vu-all-over-again_chart1.png)
+> **Exhibit 1: Reported VLCC fixtures versus rates**  
+> Unit: Number of Fixtures/Month | $/MT · X-axis: Jan-10 to Jul-14  
+> Series: Far East, South East Asia, South Asia, Other, -$/MT  
+> *Source: Poten & Partners*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2014/poten_2014-09-12_déjà-vu-all-over-again_chart1.png)
 
-![Exhibit 2: Déjà vu all over again?](../../../charts/poten/2014/poten_2014-09-12_déjà-vu-all-over-again_chart2.png)
+![Exhibit 2: Winter oil demand versus average annual demand](../../../charts/poten/2014/poten_2014-09-12_déjà-vu-all-over-again_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2014/poten_2014-09-12_déjà-vu-all-over-again_chart2.png)
+> **Exhibit 2: Winter oil demand versus average annual demand**  
+> Unit: MB/D Consumption | MB/D Difference · X-axis: 2002 to 2014E  
+> Series: Year Avg, Winter Avg, Winter Difference  
+> *Source: IEA*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2014/poten_2014-09-12_déjà-vu-all-over-again_chart2.png)

@@ -58,6 +58,14 @@ Although the price of crude oil is higher, any increases in the price of freight
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: The Freight Factor](../../../charts/poten/2008/poten_2008-01-04_the-freight-factor_chart1.png)
+> **Chart on PDF page 1: Charterers' Transportation Cost Per Barrel**  
+> Unit: $/bbl · X-axis: 1998 to 2007  
+> Series: AG - FE (260kt) $/bbl, $/bbl Average (10 Yr.), 2007 Average  
+> *Source: Poten*  
+> *No image crop of this chart was saved; caption read from the PDF.*
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2008/poten_2008-01-04_the-freight-factor_chart1.png)
+> **Chart on PDF page 2: Freight / Crude Oil Barrel Cost**  
+> Unit: % of Barrel Price · X-axis: 1998 to 2007  
+> Series: Freight / Crude Oil Barrel Cost, 10 Yr. Avg.  
+> *Source: Poten*  
+> *No image crop of this chart was saved; caption read from the PDF.*

@@ -25,11 +25,11 @@ With the EU ban on Russian crude and products just round the corner, the unwindi
 
 It is also evident that the reshuffling is in full swing from both sides.[Europe has commenced sourcing greater volumes of diesel from regions such as the US and the Middle East](https://analytics.vortexa.com/?dateRange=2021-06-05T00%3A00%3A00.000Z__2022-10-02T23%3A59%3A59.999Z&frequency=week&metric=bpd&movementEvent=unloading_start&page=Flows&products=%5B%22deda35eb9ca56b54e74f0ff370423f9a8c61cf6a3796fcb18eaeeb32a8c290bb%22%5D&tabId=510e1c60-153d-461d-bc8d-c28b1c7def6d&timeSeriesHiddenSeries=%5B%22seasonal_comparison_12%22%2C%22seasonal_comparison_24%22%5D&timeSeriesProperty=origin_region&to=%5B%22f39d455f5d38907394d6da3a91da4e391f9a34bd6a17e826d6042761067e88f4%22%5D&toExcluded=%5B%2269c53542ac9ee1fc4ba65a2af2da93739443a6b6918591ed820793a165b7fb1c%22%5D), while Russia has started raising its CPP exposure to outlets outside of the EU, the G7 as well as OECD Asia, as displayed below:
 
-![Arrivals of Russian Oil Products in “Friendly” Markets (Excl](assets/2022-10-12_eu-shipping-ban-to-be-the-deciding-factor-for-russia-volumes-and-tanker-fates_img_chart-1-4-1024x76128129_07d5edb6ab64.png)
+![Arrivals of Russian Oil Products in “Friendly” Markets (Excl](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-10-12_eu-shipping-ban-to-be-the-deciding-factor-for-russia-volumes-and-tanker-fates_img_chart-1-4-1024x76128129_07d5edb6ab64.png)
 
 > **Figure 1: Arrivals of Russian Oil Products in “Friendly” Markets (Excl**  
 > *Arrivals of Russian oil products in “friendly” markets (excl. G7, EU and OECD Asia, mbd)*  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-10-12_eu-shipping-ban-to-be-the-deciding-factor-for-russia-volumes-and-tanker-fates_img_chart-1-4-1024x76128129_07d5edb6ab64.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-10-12_eu-shipping-ban-to-be-the-deciding-factor-for-russia-volumes-and-tanker-fates_img_chart-1-4-1024x76128129_07d5edb6ab64.png)
 
 In this insight we will focus on how recent developments affect Russia from a freight lens, and attempt to answer two questions:
 
@@ -46,11 +46,11 @@ Talking about these hurdles, special attention should be given to the applicatio
 
 Hence, this begs the question: Are there alternative candidates to carry Russia’s oil in the case that the shipping insurance ban takes effect and the oil price cap is delayed to be implemented or if Russia declines to sell cargoes below or at the agreeable level? If so, alternative candidates will mainly consist of Russian-affiliated vessels, tankers involved previously in sanctioned trades such as Iran and Venezuela as well as ice-class vessels which were purchased recently by Russian or unknown interests. This number of candidates are poised to increase as tanker sale and purchase activity has lately surged, reflected partially in old (15-year old and 20-year old) secondhand prices, in preparation of the ban. Moreover, a portion of the fleet might opt-in to get insured by markets outside the EU and the UK but this is not expected to happen at scale.
 
-![Number of Candidates Viable for Carrying Russian Oil And](assets/2022-10-12_eu-shipping-ban-to-be-the-deciding-factor-for-russia-volumes-and-tanker-fates_img_chart-2-3-1024x728_2a202afc3663.png)
+![Number of Candidates Viable for Carrying Russian Oil And](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-10-12_eu-shipping-ban-to-be-the-deciding-factor-for-russia-volumes-and-tanker-fates_img_chart-2-3-1024x728_2a202afc3663.png)
 
 > **Figure 2: Number of Candidates Viable for Carrying Russian Oil And**  
 > *Number of candidates viable for carrying Russian oil and products post-EU ban (no. of vessels)*  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-10-12_eu-shipping-ban-to-be-the-deciding-factor-for-russia-volumes-and-tanker-fates_img_chart-2-3-1024x728_2a202afc3663.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-10-12_eu-shipping-ban-to-be-the-deciding-factor-for-russia-volumes-and-tanker-fates_img_chart-2-3-1024x728_2a202afc3663.png)
 
 As the chart illustrates, the dirty segment has a greater number of alternatives which have previously been involved Iranian/Venezuelan sanctioned trade or have ties with Russian ownership. Additionally, India which has evidently ramped up its Russian crude exposure has displayed intent to insure vessels with Russian barrels heading to the country. However, the same cannot be said for the clean segment. For September alone around 150 tankers were utilised carrying fuel products out of Russia, while an additional 115 were ballasting back to the country to retain the continuous flow of cargoes. Even for the scenario where Russia’s volumes are slashed by half, the number of viable candidates remains dwarfed when compared to the fleet needed to transport such volumes.
 

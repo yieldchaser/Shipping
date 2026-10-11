@@ -64,10 +64,10 @@ After trending lower since October, Chinese steel rebar prices staged a limited 
 
 Subdued Chinese rebar prices suggest that cargo ordering activities for the country’s steel exports will recover further in the coming weeks. Mounting pessimism over the outlook for construction activities amid muted spending by local governments contributes to the resurgent headwinds for rebar futures. While the latest US tariffs on Chinese imports may contribute to lower growth in the world’s second-largest economy, the marginal quantities of Chinese steel exports bound for the US should limit the impact on the trade.
 
-![Στιγμιότυπο Οθόνης 2025 02 07 143307](assets/2025-02-07_recovering-cargo-order-volumes_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_c7ee8edca4c8.png)
+![Στιγμιότυπο Οθόνης 2025 02 07 143307](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-02-07_recovering-cargo-order-volumes_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_c7ee8edca4c8.png)
 
 > **Figure 1: Στιγμιότυπο Οθόνης 2025 02 07 143307**  
-> **Interactive Data & Source:** [Shipfix](https://shipfix.com/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-02-07_recovering-cargo-order-volumes_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_c7ee8edca4c8.png)
+> **Interactive Data & Source:** [Shipfix](https://shipfix.com/) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-02-07_recovering-cargo-order-volumes_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_c7ee8edca4c8.png)
 
 Data Source:[Shipfix](https://shipfix.com/)
 

@@ -36,6 +36,10 @@ We expect a prosperous 2023 for tanker owners. However, it could be a bumpy ride
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: Our 2023 Crystal Ball](../../../charts/poten/2023/poten_2023-01-13_our-2023-crystal-ball_chart1.png)
+![Exhibit 1: Seaborne Crude Oil Imports to China by Vessel Class](../../../charts/poten/2023/poten_2023-01-13_our-2023-crystal-ball_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2023/poten_2023-01-13_our-2023-crystal-ball_chart1.png)
+> **Exhibit 1: Seaborne Crude Oil Imports to China by Vessel Class**  
+> Unit: Mb/day · X-axis: Jan-15 to Sep-22  
+> Series: VLCC, Suezmax, Aframax, Other  
+> *Source: Lloyd’s List Intelligence*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2023/poten_2023-01-13_our-2023-crystal-ball_chart1.png)

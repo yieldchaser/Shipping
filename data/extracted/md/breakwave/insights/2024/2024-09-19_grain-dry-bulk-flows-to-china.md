@@ -24,10 +24,10 @@ source_file: "corpus/03-breakwave/insights/2024/2024-09-19_grain-dry-bulk-flows-
 Snapshot of Spot Freight Rates, Supply-Demand Trends, Port Congestions
 September 18, 2024
 
-![Στιγμιότυπο Οθόνης 2024 09 19 095621](assets/2024-09-19_grain-dry-bulk-flows-to-china_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_98e49b663911.png)
+![Στιγμιότυπο Οθόνης 2024 09 19 095621](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-09-19_grain-dry-bulk-flows-to-china_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_98e49b663911.png)
 
 > **Figure 1: Στιγμιότυπο Οθόνης 2024 09 19 095621**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://go.signalocean.com/e/983831/major-impact-global-ag-markets/2qkgtp/436540568/h/KhMVwVzvzKK9kCe1lP8CgBBv49G28MSrHvAhgkwOztk) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-09-19_grain-dry-bulk-flows-to-china_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_98e49b663911.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://go.signalocean.com/e/983831/major-impact-global-ag-markets/2qkgtp/436540568/h/KhMVwVzvzKK9kCe1lP8CgBBv49G28MSrHvAhgkwOztk) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-09-19_grain-dry-bulk-flows-to-china_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_98e49b663911.png)
 
 The special focus this week is on the monthly quantity of soybeans and corn exported to China, comparing the current year’s shipments to the growth trends seen in the previous two years. Brazil continues to surpass the U.S. in terms of monthly shipments sent to China, maintaining a dominant position. However, both countries experienced a significant slowdown in the summer months, raising concerns about the overall health of China’s economy and its future demand for grains. This slowdown reflects broader economic uncertainties within China, where the country’s grain reserves are swelling, and demand for key imports is decreasing, having a notable impact on global agricultural markets.
 
@@ -37,10 +37,10 @@ One of the major concerns for Brazilian grain exports, besides China’s softeni
 
 Despite these challenges, Brazil’s 2023-24 crop season benefited from timely rainfall, allowing for strong yields. Though the upcoming rainy season, which typically starts in October, may be slightly delayed, weather forecasts suggest it will still provide sufficient rainfall to support the planting and growth of next year’s crops. Nonetheless, the combination of China’s shifting economic landscape, global market fluctuations, and environmental pressures could complicate the future of Brazilian and U.S. grain exports. The global grain trade, particularly with China, may face a period of heightened uncertainty, making it critical for major exporting countries to monitor market dynamics and adapt to these evolving conditions. Goldman Sachs and Citigroup have already revised their full-year forecasts for[China's economic growth](https://go.signalocean.com/e/983831/growth-forecast-47-2024-09-16-/2qkgtw/436540568/h/KhMVwVzvzKK9kCe1lP8CgBBv49G28MSrHvAhgkwOztk)down to 4.7%, following a slowdown in industrial output that hit a five-month low in August. The weak performance in August has intensified focus on China’s sluggish economic recovery, emphasising the need for additional stimulus to boost demand.
 
-![Στιγμιότυπο Οθόνης 2024 09 19 095800](assets/2024-09-19_grain-dry-bulk-flows-to-china_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_d49e792695c3.png)
+![Στιγμιότυπο Οθόνης 2024 09 19 095800](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-09-19_grain-dry-bulk-flows-to-china_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_d49e792695c3.png)
 
 > **Figure 2: Στιγμιότυπο Οθόνης 2024 09 19 095800**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-09-19_grain-dry-bulk-flows-to-china_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_d49e792695c3.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-09-19_grain-dry-bulk-flows-to-china_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_d49e792695c3.png)
 
 The dry bulk freight market has shown mixed performance for an additional week. Rates on the Cape Brazil to North China routes started to record a downward revision for the third week of September following the uncertainties on the strength for the Chinese economic growth, while the Panamax Continent to Far East route indicated an upward trend.
 
@@ -49,10 +49,10 @@ The dry bulk freight market has shown mixed performance for an additional week. 
 - **Supramax**vessel freight rates on the Indo-ECI route hovered slightly below $11 per ton for the current week, 7% higher than those recorded during the same period last year.
 - **Handysize**freight rates for the NOPAC Far East route held steady at around $34 per ton, up 9% from rates a year ago.
 
-![Στιγμιότυπο Οθόνης 2024 09 19 095901](assets/2024-09-19_grain-dry-bulk-flows-to-china_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_0c1776ddc2b9.png)
+![Στιγμιότυπο Οθόνης 2024 09 19 095901](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-09-19_grain-dry-bulk-flows-to-china_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_0c1776ddc2b9.png)
 
 > **Figure 3: Στιγμιότυπο Οθόνης 2024 09 19 095901**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-09-19_grain-dry-bulk-flows-to-china_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_0c1776ddc2b9.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-09-19_grain-dry-bulk-flows-to-china_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_0c1776ddc2b9.png)
 
 In the third week of September, the number of ballasters across various dry vessel size categories declined, falling below the annual average. This decrease suggests that the dry bulk freight market is grappling with the effects of China's slowing economic growth, which is impacting both the volume of dry bulk shipments and the demand for tonne days and miles.
 
@@ -61,10 +61,10 @@ In the third week of September, the number of ballasters across various dry vess
 - **Supramax SE Asia**: The number of ballast ships confirmed the trend of the previous week for levels around 90 vessels, 10 fewer than three weeks ago.
 - **Handysize NOPAC**: The number of ballasters defied the expected trend, reaching 67 vessels—11 below the annual average.
 
-![Στιγμιότυπο Οθόνης 2024 09 19 095959](assets/2024-09-19_grain-dry-bulk-flows-to-china_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_df0c6951ec87.png)
+![Στιγμιότυπο Οθόνης 2024 09 19 095959](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-09-19_grain-dry-bulk-flows-to-china_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_df0c6951ec87.png)
 
 > **Figure 4: Στιγμιότυπο Οθόνης 2024 09 19 095959**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-09-19_grain-dry-bulk-flows-to-china_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_df0c6951ec87.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-09-19_grain-dry-bulk-flows-to-china_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_df0c6951ec87.png)
 
 During the third week of September, the outlook for dry tonne-days continued to decline across most segments, similar to the previous week. However, the Supramax segment defied this trend with an unexpected increase over the past month.
 
@@ -73,10 +73,10 @@ During the third week of September, the outlook for dry tonne-days continued to 
 - **Supramax**: The growth rate has consistently increased since the end of week 27 and appears to have reached its peak for the current month. It is now trending towards maintaining this high growth rate for the remainder of the month.
 - **Handysize**: The downward trend in the Handysize vessel segment has continued, with the most recent peak occurring at the end of week 31.
 
-![Στιγμιότυπο Οθόνης 2024 09 19 100050](assets/2024-09-19_grain-dry-bulk-flows-to-china_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_da645b407a5e.png)
+![Στιγμιότυπο Οθόνης 2024 09 19 100050](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-09-19_grain-dry-bulk-flows-to-china_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_da645b407a5e.png)
 
 > **Figure 5: Στιγμιότυπο Οθόνης 2024 09 19 100050**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-09-19_grain-dry-bulk-flows-to-china_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_da645b407a5e.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-09-19_grain-dry-bulk-flows-to-china_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_da645b407a5e.png)
 
 In the third week of September, Chinese dry bulk port congestion held steady at levels comparable to the previous week, with notable increases in congestion among smaller vessel size segments.
 

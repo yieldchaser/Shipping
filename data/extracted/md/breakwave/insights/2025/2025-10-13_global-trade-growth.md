@@ -32,10 +32,10 @@ Against this backdrop, geopolitical tensions returned to the forefront at the en
 
 The timing of the measure is notable. Coming days before the United States implements its own port fees on Chinese vessels. China’s retaliatory move introduces a fresh layer of geopolitical tension but, paradoxically, one that could prove positive for the shipping markets in the short term. By imposing special port fees on vessels with significant U.S. ownership or affiliation, Beijing has effectively added friction to established trade flows, potentially disrupting normal vessel rotations and creating regional inefficiencies. In practice, this could reduce the immediate availability of tonnage for Chinesebound cargoes, leading to tighter supply and a firmer freight environment. In a market that thrives on dislocation and inefficiency, such policy-driven disruption could inject renewed momentum into sentiment as we move deeper into the final quarter. Beyond the immediate horizon though, the broader implications remain uncertain.
 
-![Στιγμιότυπο Οθόνης 2025 10 13 111208](assets/2025-10-13_global-trade-growth_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_b19def7f6d02.png)
+![Στιγμιότυπο Οθόνης 2025 10 13 111208](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-10-13_global-trade-growth_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_b19def7f6d02.png)
 
 > **Figure 1: Στιγμιότυπο Οθόνης 2025 10 13 111208**  
-> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-10-13_global-trade-growth_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_b19def7f6d02.png)
+> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-10-13_global-trade-growth_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_b19def7f6d02.png)
 
 Data source:[Doric](https://www.doric.gr/)
 

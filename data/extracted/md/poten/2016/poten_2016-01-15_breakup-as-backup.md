@@ -36,8 +36,8 @@ We forecast a continuation of the strong market for 2016, as high crude producti
 
 ![Exhibit 1: Breakup as Backup](../../../charts/poten/2016/poten_2016-01-15_breakup-as-backup_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2016/poten_2016-01-15_breakup-as-backup_chart1.png)
+> **Interactive Asset:** [Local Asset (200 DPI PNG)](../../../charts/poten/2016/poten_2016-01-15_breakup-as-backup_chart1.png)
 
 ![Exhibit 2: Breakup as Backup](../../../charts/poten/2016/poten_2016-01-15_breakup-as-backup_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2016/poten_2016-01-15_breakup-as-backup_chart2.png)
+> **Interactive Asset:** [Local Asset (200 DPI PNG)](../../../charts/poten/2016/poten_2016-01-15_breakup-as-backup_chart2.png)

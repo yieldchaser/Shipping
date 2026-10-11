@@ -134,6 +134,38 @@ One would think that MR or handymax product carrier rates would be booming. They
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: The Perfect Storm Rising Gasoline Prices](../../../charts/poten/2004/poten_2004-04-23_the-perfect-storm-rising-gasoline-prices_chart1.png)
+> **Chart on PDF page 1: U.S. Gasoline Consumption**  
+> Unit: 000 Bpd · X-axis: Jan 5, 2001 to Jan 2, 2004  
+> Series: U.S. Gasoline Consumption, America's Love for the Automobile!  
+> *Source: EIA/Poten*  
+> *No image crop of this chart was saved; caption read from the PDF.*
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2004/poten_2004-04-23_the-perfect-storm-rising-gasoline-prices_chart1.png)
+> **Chart on PDF page 2: Weekly U.S. Gasoline Inventory**  
+> Unit: Mm Bbls · X-axis: Jan 3, 2003 to Apr 2, 2004  
+> Series: Weekly U.S. Gasoline Inventory  
+> *Source: EIA/Poten*  
+> *No image crop of this chart was saved; caption read from the PDF.*
+
+> **Chart on PDF page 3: Weekly Refinery Crude Input**  
+> Unit: 000 Bpd · X-axis: Jan 5, 2001 to Jan 2, 2004  
+> Series: Weekly Refinery Crude Input  
+> *Source: EIA/Poten*  
+> *No image crop of this chart was saved; caption read from the PDF.*
+
+> **Chart on PDF page 4: U.S. Gasoline and Crude Oil Prices**  
+> Unit: $/Bbl | $/Gallon · X-axis: Jan 2, 2003 to Apr 6, 2004  
+> Series: Gasoline $/Gallon, Crude Oil $/Bbl  
+> *Source: EIA/Poten*  
+> *No image crop of this chart was saved; caption read from the PDF.*
+
+> **Chart on PDF page 4: Weekly U.S. Gasoline Imports**  
+> Unit: 000 Bpd · X-axis: Jan 3, 2003 to Apr 2, 2004  
+> Series: Weekly U.S. Gasoline Imports  
+> *Source: EIA/Poten*  
+> *No image crop of this chart was saved; caption read from the PDF.*
+
+> **Chart on PDF page 5: Handymax Weekly TCE Rates Caribs Up Coast**  
+> Unit: $/Day · X-axis: 01/03/2003 to 04/02/2004  
+> Series: Handymax Weekly TCE Rates  
+> *Source: Poten & Partners*  
+> *No image crop of this chart was saved; caption read from the PDF.*

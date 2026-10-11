@@ -59,9 +59,9 @@ Copper is often seen as a bellwether for economic and industrial activities, giv
 
 Cargo order volumes for copper discharging in Chinese ports are on course for a month-on-month increase, with the aggregate for the month so far at par with the reading for the whole of December. Also, assuming a high degree of linearity for the remainder of the month, cargo order volumes would top the volumes recorded in January last year by around 40 per cent. However, bearing in mind that the situation is nearly the reverse of the previous month, the linear projection for the month looks less impressive. The aggregate for the past two months could be on track to match what was recorded during the same period last year. Hence, the data for the red metal suggest that Chinese growth during the first months of the year will be subdued.
 
-![Market Chart 1](assets/2024-01-25_3q5400kas5mk0mczmk0hzfq65genok_img_unnamed-2024-01-25t083958688_641a194c3610.png)
+![Market Chart 1](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-01-25_3q5400kas5mk0mczmk0hzfq65genok_img_unnamed-2024-01-25t083958688_641a194c3610.png)
 
 > **Figure 1: Market Chart 1**  
-> **Interactive Data & Source:** [Shipfix](https://shipfix.com/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-01-25_3q5400kas5mk0mczmk0hzfq65genok_img_unnamed-2024-01-25t083958688_641a194c3610.png)
+> **Interactive Data & Source:** [Shipfix](https://shipfix.com/) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-01-25_3q5400kas5mk0mczmk0hzfq65genok_img_unnamed-2024-01-25t083958688_641a194c3610.png)
 
 Data Source:[Shipfix](https://shipfix.com/)

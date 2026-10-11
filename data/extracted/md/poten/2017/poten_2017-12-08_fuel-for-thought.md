@@ -28,10 +28,18 @@ The implications for the tanker market are uncertain. Refiners seem to take a br
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: Fuel For Thought](../../../charts/poten/2017/poten_2017-12-08_fuel-for-thought_chart1.png)
+![Exhibit 1: 2018 Distillation Capacity Additions by Region](../../../charts/poten/2017/poten_2017-12-08_fuel-for-thought_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2017/poten_2017-12-08_fuel-for-thought_chart1.png)
+> **Exhibit 1: 2018 Distillation Capacity Additions by Region**  
+> Unit: Mb/d  
+> Series: US & Canada, Latin America, Europe, Russia & Caspian, Middle East, China, Other Asia-Pacific  
+> *Source: OPEC*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2017/poten_2017-12-08_fuel-for-thought_chart1.png)
 
-![Exhibit 2: Fuel For Thought](../../../charts/poten/2017/poten_2017-12-08_fuel-for-thought_chart2.png)
+![Exhibit 2: Distillation Capacity Additions vs Total Projects Investments](../../../charts/poten/2017/poten_2017-12-08_fuel-for-thought_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2017/poten_2017-12-08_fuel-for-thought_chart2.png)
+> **Exhibit 2: Distillation Capacity Additions vs Total Projects Investments**  
+> Unit: Mb/d | 2016 USD (Bln) · X-axis: 2013 to 2022  
+> Series: Distillation Capacity, Cost, $(2016) billion  
+> *Source: OPEC*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2017/poten_2017-12-08_fuel-for-thought_chart2.png)

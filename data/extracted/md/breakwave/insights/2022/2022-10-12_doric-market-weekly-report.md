@@ -25,10 +25,10 @@ For the first half of 2022, dry bulk market was echoing the fertile 2021 trading
 
 In particular, the leading BCI TCA had a Q3 average of $13,695 daily, or down by 67.7 percent year-on-year. In tandem, BPI TCA, BSI TCA and BHSI TCA reported quarterly averages of $17,172, $19,728 and $18,709 per day respectively, more than forty percent below the respective averages a year ago in all segments.
 
-![Screenshot 20221012 143913 Samsung Notes (1)](assets/2022-10-12_doric-market-weekly-report_img_screenshot-20221012-143913-samsungno_c372e2d14ada.jpg)
+![Screenshot 20221012 143913 Samsung Notes (1)](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-10-12_doric-market-weekly-report_img_screenshot-20221012-143913-samsungno_c372e2d14ada.jpg)
 
 > **Figure 1: Screenshot 20221012 143913 Samsung Notes (1)**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-10-12_doric-market-weekly-report_img_screenshot-20221012-143913-samsungno_c372e2d14ada.jpg)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-10-12_doric-market-weekly-report_img_screenshot-20221012-143913-samsungno_c372e2d14ada.jpg)
 
 The last quarter of this volatile trading year started this week with Baltic indices hovering at two-month highs. In spite of this positivity of late in the spot market, international organizations and central banks kept revisiting downwards their GDP growth and world trade volume projections. In particular, on Wednesday, World Trade Organization stressed that world trade is expected to lose momentum in the second half of 2022 and remain subdued in 2023 as multiple shocks weigh on the global economy.
 
@@ -42,7 +42,7 @@ Within this framework, Baltic indices keep navigating in choppy waters. Being on
 
 ## Being on an Upward Trajectory for Four Consecutive Weeks, Albeit Timid, Baltic Indices Have Shown Their Navigation Skills Lately, Covering the Lost Ground of August and September.
 
-![Screenshot 20221012 143956 Samsung Notes (1)](assets/2022-10-12_doric-market-weekly-report_img_screenshot-20221012-143956-samsungno_737dbca6f869.jpg)
+![Screenshot 20221012 143956 Samsung Notes (1)](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-10-12_doric-market-weekly-report_img_screenshot-20221012-143956-samsungno_737dbca6f869.jpg)
 
 > **Figure 2: Screenshot 20221012 143956 Samsung Notes (1)**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-10-12_doric-market-weekly-report_img_screenshot-20221012-143956-samsungno_737dbca6f869.jpg)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-10-12_doric-market-weekly-report_img_screenshot-20221012-143956-samsungno_737dbca6f869.jpg)

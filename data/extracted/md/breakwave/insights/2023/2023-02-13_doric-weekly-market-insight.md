@@ -25,10 +25,10 @@ source_file: "corpus/03-breakwave/insights/2023/2023-02-13_doric-weekly-market-i
 
 Reporting double-digit weekly gains but still balancing at uninspiring levels, the leading Capesize Baltic index concluded on Friday at $4,033 daily. Setting aside few trading days in last August, one has to go back to the initial phase of the Covid-19 pandemic to see similar levels. Along with Capesizes, the general Baltic Index landed last week at nearly three-year lows of 602 points, last seen in early June 2020.
 
-![1 (2)](assets/2023-02-13_doric-weekly-market-insight_img_128229_2a09420b9b6c.png)
+![1 (2)](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-02-13_doric-weekly-market-insight_img_128229_2a09420b9b6c.png)
 
 > **Figure 1: 1 (2)**  
-> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-02-13_doric-weekly-market-insight_img_128229_2a09420b9b6c.png)
+> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-02-13_doric-weekly-market-insight_img_128229_2a09420b9b6c.png)
 
 Following a one-and-a-half-month downward trend, Capesize started off the sixth trading week on the wrong foot. Deepening weekly losses as traders reassessed demand prospects in China, Dalian iron ore futures were largely in the red during last Friday. Inventories of imported iron ore at China's 45 major ports climbed to a four-month high of 137.3 million tonnes, based on the January 20-27 survey by industry data provider Mysteel, up 5.2 million tonnes or 4 percent week-on-week. Against this backdrop, Singapore iron ore futures moved down on Monday to their lowest in nearly three weeks. In sharp contrast to market consensus, steel demand in China has yet to pick up after the Lunar New Year holidays. On the same wavelength, the blast furnace utilization rate among 247 steel mills across China surveyed by Mysteel consultancy was at 84.32 percent as of February 2, marginally higher week-on-week. On Tuesday, Dalian and Singapore iron ore futures took another dive, as the latest Chinese property market indicators were rather discouraging. On Wednesday, the Dalian iron ore benchmark trended mostly sideways, with traders being in a reassessment mood. Iron ore futures reported gains on Thursday, with the Dalian market hitting a one-week high, with sentiment turning positive ahead of the release of Chinese lending data.
 
@@ -38,9 +38,9 @@ On the main stage, the total volume of iron ore dispatched to global destination
 
 Going back to China, market transactions in the Dalian Commodity Exchange were muted this Friday. Not being in a rush to increase their production, steel mills hung back a bit, awaiting signals of further policy support to the Chinese economy. This wait-and-see approach of steel mills along with a tepid real estate recovery have had a negative bearing on the demand of the rich in iron oxide ores up to now. Even with the country reopening and the government easing its leverage limits to boost growth, the locomotive of global growth has yet to gather the necessary momentum to steam steadfast. That being said, price appreciation of shipping shares of late doesn’t seem to question whether there will be a decisive way forward but rather the actual timing of it.
 
-![1 (3)](assets/2023-02-13_doric-weekly-market-insight_img_128329_028abd95cedf.png)
+![1 (3)](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-02-13_doric-weekly-market-insight_img_128329_028abd95cedf.png)
 
 > **Figure 2: 1 (3)**  
-> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-02-13_doric-weekly-market-insight_img_128329_028abd95cedf.png)
+> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-02-13_doric-weekly-market-insight_img_128329_028abd95cedf.png)
 
 Data source:[Doric](https://www.doric.gr/)

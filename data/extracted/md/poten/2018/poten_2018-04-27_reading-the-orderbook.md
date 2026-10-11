@@ -28,10 +28,18 @@ The pickup in scrapping is encouraging and increased demolition will obviously r
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: Reading The Orderbook](../../../charts/poten/2018/poten_2018-04-27_reading-the-orderbook_chart1.png)
+![Exhibit 1: Tanker Spot Market Rates](../../../charts/poten/2018/poten_2018-04-27_reading-the-orderbook_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2018/poten_2018-04-27_reading-the-orderbook_chart1.png)
+> **Exhibit 1: Tanker Spot Market Rates**  
+> Unit: TCE · X-axis: Jan-2015 to Mar-2018  
+> Series: VLCC: AG-FE, Suezmax: WAF-UKC, Aframax: Car-USG, MR: UKC-USAC  
+> *Source: Poten*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2018/poten_2018-04-27_reading-the-orderbook_chart1.png)
 
-![Exhibit 2: Reading The Orderbook](../../../charts/poten/2018/poten_2018-04-27_reading-the-orderbook_chart2.png)
+![Exhibit 2: Tanker Ordering](../../../charts/poten/2018/poten_2018-04-27_reading-the-orderbook_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2018/poten_2018-04-27_reading-the-orderbook_chart2.png)
+> **Exhibit 2: Tanker Ordering**  
+> Unit: M DWT · X-axis: Jan-16 to Mar-18  
+> Series: VLCC, Suezmax, Aframax, Panamax, MR  
+> *Source: Poten*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2018/poten_2018-04-27_reading-the-orderbook_chart2.png)

@@ -20,11 +20,11 @@ source_file: "corpus/03-breakwave/insights/2020/2020-06-05_28ihxq16reb69azs8r4jz
 
 ---
 
-![Stellar Samba](assets/2020-06-05_28ihxq16reb69azs8r4jzgnov8mrz8_img_img-1959_a8bc6ba5e0db.jpeg)
+![Stellar Samba](../../../../../../corpus/03-breakwave/insights/2020/assets/2020-06-05_28ihxq16reb69azs8r4jzgnov8mrz8_img_img-1959_a8bc6ba5e0db.jpeg)
 
 > **Figure 1: Stellar Samba**  
 > *Stellar Samba, 1994, 291,000 dwt*  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2020/assets/2020-06-05_28ihxq16reb69azs8r4jzgnov8mrz8_img_img-1959_a8bc6ba5e0db.jpeg)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2020/assets/2020-06-05_28ihxq16reb69azs8r4jzgnov8mrz8_img_img-1959_a8bc6ba5e0db.jpeg)
 
 Last week, three more Very Large Ore Carriers headed for scrapping, that is a combined ~850,000 dwt that has now permanently removed from the active fleet.
 

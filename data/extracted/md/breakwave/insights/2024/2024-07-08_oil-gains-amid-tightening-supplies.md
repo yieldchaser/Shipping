@@ -24,10 +24,10 @@ Increasing expectations of a Fed rate cut kept market sentiment positive last we
 
 *By*[*Daniel Hynes*](https://www.linkedin.com/in/dahynes/)
 
-![Στιγμιότυπο Οθόνης 2024 07 08 102150](assets/2024-07-08_oil-gains-amid-tightening-supplies_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_3fee7321f434.png)
+![Στιγμιότυπο Οθόνης 2024 07 08 102150](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-07-08_oil-gains-amid-tightening-supplies_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_3fee7321f434.png)
 
 > **Figure 1: Στιγμιότυπο Οθόνης 2024 07 08 102150**  
-> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-07-08_oil-gains-amid-tightening-supplies_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_3fee7321f434.png)
+> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-07-08_oil-gains-amid-tightening-supplies_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_3fee7321f434.png)
 
 ### Market Commentary
 
@@ -41,10 +41,10 @@ Increasing expectations of a Fed rate cut kept market sentiment positive last we
 
 **Gold**gained nearly 3% last week after weaker US economic data raised prospects of a rate cut. The June non-manufacturing ISM showed services sector contracted at its fastest pace since COVID, while job data confirmed a build in disinflationary pressure. Among Asian central banks, India bought 9t in June, while China kept its buying on halt after 18 months of purchases.
 
-![Στιγμιότυπο Οθόνης 2024 07 08 102303](assets/2024-07-08_oil-gains-amid-tightening-supplies_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_5181a9bab530.png)
+![Στιγμιότυπο Οθόνης 2024 07 08 102303](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-07-08_oil-gains-amid-tightening-supplies_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_5181a9bab530.png)
 
 > **Figure 2: Στιγμιότυπο Οθόνης 2024 07 08 102303**  
-> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-07-08_oil-gains-amid-tightening-supplies_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_5181a9bab530.png)
+> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-07-08_oil-gains-amid-tightening-supplies_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_5181a9bab530.png)
 
 Data source:[Commodities Wrap](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI)
 

@@ -23,10 +23,10 @@ source_file: "corpus/03-breakwave/insights/2022/2022-10-09_weekly-insights-revie
 
 ## Read Here Everything You Need to Know
 
-![A80e6deb 343e 40ce A7c6 6a049e8ee734 Hotel California (1)](assets/2022-10-09_weekly-insights-review_img_a80e6deb-343e-40ce-a7c6-6a049e8ee734_6c837a1e10b5.jpg)
+![A80e6deb 343e 40ce A7c6 6a049e8ee734 Hotel California (1)](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-10-09_weekly-insights-review_img_a80e6deb-343e-40ce-a7c6-6a049e8ee734_6c837a1e10b5.jpg)
 
 > **Figure 1: A80e6deb 343e 40ce A7c6 6a049e8ee734 Hotel California (1)**  
-> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2022/10/3/the-big-picture-supramax-update) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-10-09_weekly-insights-review_img_a80e6deb-343e-40ce-a7c6-6a049e8ee734_6c837a1e10b5.jpg)
+> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2022/10/3/the-big-picture-supramax-update) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-10-09_weekly-insights-review_img_a80e6deb-343e-40ce-a7c6-6a049e8ee734_6c837a1e10b5.jpg)
 
 ## Mazars Market Comment: ‘Bad News’ Is on Its Way to Becoming ‘Good News’ Again
 
@@ -41,10 +41,10 @@ Every time I hear about quantitative easing, the lyrics of the Eagle’s 1976 cl
 
 Today we look into how they have fared during the current market downturn and what the main drivers will be in the short and medium term.
 
-![Unsplash Image Xrkej3byu6a](assets/2022-10-09_weekly-insights-review_img_unsplash-image-xrkej3byu6a_f5a737976c99.jpg)
+![Unsplash Image Xrkej3byu6a](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-10-09_weekly-insights-review_img_unsplash-image-xrkej3byu6a_f5a737976c99.jpg)
 
 > **Figure 2: Unsplash Image Xrkej3byu6a**  
-> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2022/10/5/signal-dry-bulk-weekly-report) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-10-09_weekly-insights-review_img_unsplash-image-xrkej3byu6a_f5a737976c99.jpg)
+> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2022/10/5/signal-dry-bulk-weekly-report) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-10-09_weekly-insights-review_img_unsplash-image-xrkej3byu6a_f5a737976c99.jpg)
 
 ## Signal Dry Bulk Weekly Report
 
@@ -53,15 +53,15 @@ Today we look into how they have fared during the current market downturn and wh
 In the first days of October, freight rates have firmed in the Panamax segment, while Capesize has seen a slight downward trend and Supramax rates have stabilised in the last four weeks.
 [Read More](https://www.breakwaveadvisors.com/insights/2022/10/5/signal-dry-bulk-weekly-report)
 
-![Unsplash Image Gpdc Lgjjpa](assets/2022-10-09_weekly-insights-review_img_unsplash-image-gpdc-lgjjpa_7fe55d306305.jpg)
+![Unsplash Image Gpdc Lgjjpa](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-10-09_weekly-insights-review_img_unsplash-image-gpdc-lgjjpa_7fe55d306305.jpg)
 
 > **Figure 3: Unsplash Image Gpdc Lgjjpa**  
-> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2022/10/4/gibsons-tanker-market-report) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-10-09_weekly-insights-review_img_unsplash-image-gpdc-lgjjpa_7fe55d306305.jpg)
+> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2022/10/4/gibsons-tanker-market-report) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-10-09_weekly-insights-review_img_unsplash-image-gpdc-lgjjpa_7fe55d306305.jpg)
 
-![Unsplash Image Lshmx8gyfi4](assets/2022-10-09_weekly-insights-review_img_unsplash-image-lshmx8gyfi4_f503a058a40b.jpg)
+![Unsplash Image Lshmx8gyfi4](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-10-09_weekly-insights-review_img_unsplash-image-lshmx8gyfi4_f503a058a40b.jpg)
 
 > **Figure 4: Unsplash Image Lshmx8gyfi4**  
-> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2022/10/4/gibsons-tanker-market-report) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-10-09_weekly-insights-review_img_unsplash-image-lshmx8gyfi4_f503a058a40b.jpg)
+> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2022/10/4/gibsons-tanker-market-report) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-10-09_weekly-insights-review_img_unsplash-image-lshmx8gyfi4_f503a058a40b.jpg)
 
 ## Gibson's Tanker Market Report
 
@@ -70,10 +70,10 @@ In the first days of October, freight rates have firmed in the Panamax segment, 
 With the global economic picture continuing to be dominated by bearish sentiment, and oil prices falling to lows not seen since the start of the year, the picture couldn’t be more different in the tanker market.
 [Read More](https://www.breakwaveadvisors.com/insights/2022/10/4/gibsons-tanker-market-report)
 
-![Unsplash Image V5dpn Vmf58](assets/2022-10-09_weekly-insights-review_img_unsplash-image-v5dpn-vmf58_9a2865a9cba8.jpg)
+![Unsplash Image V5dpn Vmf58](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-10-09_weekly-insights-review_img_unsplash-image-v5dpn-vmf58_9a2865a9cba8.jpg)
 
 > **Figure 5: Unsplash Image V5dpn Vmf58**  
-> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2022/10/5/commodities-gain-amid-risk-on-tone-across-markets) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-10-09_weekly-insights-review_img_unsplash-image-v5dpn-vmf58_9a2865a9cba8.jpg)
+> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2022/10/5/commodities-gain-amid-risk-on-tone-across-markets) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-10-09_weekly-insights-review_img_unsplash-image-v5dpn-vmf58_9a2865a9cba8.jpg)
 
 ## Commodities Gain Amid Risk-On Tone Across Markets
 
@@ -89,15 +89,15 @@ This was compounded by a rally in energy amid ongoing supply side issues.
 The US economy has seen a few weaker-than-expected economic data releases so far this week.
 [Read More](https://www.breakwaveadvisors.com/insights/2022/10/4/shipfix-global-market-update)
 
-![Unsplash Image Lfuqrw8eaha%2b%25281%2529](assets/2022-10-09_weekly-insights-review_img_unsplash-image-lfuqrw8eaha252b252528_3156ea92eeb6.jpg)
+![Unsplash Image Lfuqrw8eaha%2b%25281%2529](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-10-09_weekly-insights-review_img_unsplash-image-lfuqrw8eaha252b252528_3156ea92eeb6.jpg)
 
 > **Figure 6: Unsplash Image Lfuqrw8eaha%2b%25281%2529**  
-> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2022/10/6/decades-where-nothing-happens-and-weeks-when-decades-happen) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-10-09_weekly-insights-review_img_unsplash-image-lfuqrw8eaha252b252528_3156ea92eeb6.jpg)
+> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2022/10/6/decades-where-nothing-happens-and-weeks-when-decades-happen) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-10-09_weekly-insights-review_img_unsplash-image-lfuqrw8eaha252b252528_3156ea92eeb6.jpg)
 
-![Unsplash Image Rbpofvqrozy](assets/2022-10-09_weekly-insights-review_img_unsplash-image-rbpofvqrozy_c61fb6ad33bd.jpg)
+![Unsplash Image Rbpofvqrozy](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-10-09_weekly-insights-review_img_unsplash-image-rbpofvqrozy_c61fb6ad33bd.jpg)
 
 > **Figure 7: Unsplash Image Rbpofvqrozy**  
-> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2022/10/6/decades-where-nothing-happens-and-weeks-when-decades-happen) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-10-09_weekly-insights-review_img_unsplash-image-rbpofvqrozy_c61fb6ad33bd.jpg)
+> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2022/10/6/decades-where-nothing-happens-and-weeks-when-decades-happen) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-10-09_weekly-insights-review_img_unsplash-image-rbpofvqrozy_c61fb6ad33bd.jpg)
 
 ## Decades Where Nothing Happens, and Weeks When Decades Happen
 
@@ -106,10 +106,10 @@ The US economy has seen a few weaker-than-expected economic data releases so far
 Last week was the latter. Last week began with the pound experiencing a flash crash, and then two days later the Bank of England pivoting away from quantitative tightening.
 [Read More](https://www.breakwaveadvisors.com/insights/2022/10/6/decades-where-nothing-happens-and-weeks-when-decades-happen)
 
-![Unsplash Image Hf1wk T4lxo (2)](assets/2022-10-09_weekly-insights-review_img_unsplash-image-hf1wk-t4lxo28229_377bf14466fa.jpg)
+![Unsplash Image Hf1wk T4lxo (2)](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-10-09_weekly-insights-review_img_unsplash-image-hf1wk-t4lxo28229_377bf14466fa.jpg)
 
 > **Figure 8: Unsplash Image Hf1wk T4lxo (2)**  
-> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2022/10/6/shipfix-global-market-update) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-10-09_weekly-insights-review_img_unsplash-image-hf1wk-t4lxo28229_377bf14466fa.jpg)
+> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2022/10/6/shipfix-global-market-update) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-10-09_weekly-insights-review_img_unsplash-image-hf1wk-t4lxo28229_377bf14466fa.jpg)
 
 ## Shipfix-Global Market Update
 
@@ -118,10 +118,10 @@ Last week was the latter. Last week began with the pound experiencing a flash cr
 The US economy has seen a few weaker-than-expected economic data releases so far this week.
 [Read More](https://www.breakwaveadvisors.com/insights/2022/10/6/shipfix-global-market-update)
 
-![Unsplash Image Zparcxkfqty](assets/2022-10-09_weekly-insights-review_img_unsplash-image-zparcxkfqty_bd83af63a797.jpg)
+![Unsplash Image Zparcxkfqty](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-10-09_weekly-insights-review_img_unsplash-image-zparcxkfqty_bd83af63a797.jpg)
 
 > **Figure 9: Unsplash Image Zparcxkfqty**  
-> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2022/10/7/metals-gain-as-lme-places-restrictions-on-russian-zinc-and-aluminium) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-10-09_weekly-insights-review_img_unsplash-image-zparcxkfqty_bd83af63a797.jpg)
+> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2022/10/7/metals-gain-as-lme-places-restrictions-on-russian-zinc-and-aluminium) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-10-09_weekly-insights-review_img_unsplash-image-zparcxkfqty_bd83af63a797.jpg)
 
 ## Metals Gain As Lme Places Restrictions on Russian Zinc and Aluminium
 

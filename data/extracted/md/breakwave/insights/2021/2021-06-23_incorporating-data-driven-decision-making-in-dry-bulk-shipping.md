@@ -47,14 +47,14 @@ The main reason for the success is because ML models need to be good on average 
 ![A1](assets/2021-06-23_incorporating-data-driven-decision-making-in-dry-bulk-shipping_img_a1_e70979221632.jpg)
 
 > **Figure 1: A1**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2021/assets/2021-06-23_incorporating-data-driven-decision-making-in-dry-bulk-shipping_img_a1_e70979221632.jpg)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-06-23_incorporating-data-driven-decision-making-in-dry-bulk-shipping_img_a1_e70979221632.jpg)
 
 The ML models appear to be back testing well also in the management of the nearby exposure of freight. When one is evaluating potential spot business for a vessel’s next fixture, they get a completely different evaluation and perspective when using the FFA and when using the ML forecast:
 
 ![A2](assets/2021-06-23_incorporating-data-driven-decision-making-in-dry-bulk-shipping_img_a2_a1e33849fcd6.jpg)
 
 > **Figure 2: A2**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2021/assets/2021-06-23_incorporating-data-driven-decision-making-in-dry-bulk-shipping_img_a2_a1e33849fcd6.jpg)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-06-23_incorporating-data-driven-decision-making-in-dry-bulk-shipping_img_a2_a1e33849fcd6.jpg)
 
 Business 1 has a duration of 30 days and a Time Charter Equivalent of $22,000. When it is marked to market using the FFA curve it appears to be almost 4% below the Index, however when marked to market with the ML model forecasted curve it appears to be beating the Baltic Index by almost 13%. The business that appears to be capturing revenue above the Baltic Index when evaluated using the FFA curve for a Shipowner (or savings for a Cargo trader) is actually losing him/her money. The existence of the ML model curves changes the way potential business is evaluated. It also affects the marking to market of the nearby of the Cargo or Fleet portfolio in its entirety. The difference in the evaluation of the potential business also applies to the existing committed business, so a fleet that looks like its capturing revenue above Index may actually be failing to do so. It is this very nature of small decisions of small exposures of one’s business to the market risk that make the ML models so successful in the Shipping business.
 
@@ -63,7 +63,7 @@ If a Machine Learning model forecasts correctly the trend (irrespective of the l
 ![A3](assets/2021-06-23_incorporating-data-driven-decision-making-in-dry-bulk-shipping_img_a3_a2e8a885b8ed.jpg)
 
 > **Figure 3: A3**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2021/assets/2021-06-23_incorporating-data-driven-decision-making-in-dry-bulk-shipping_img_a3_a2e8a885b8ed.jpg)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-06-23_incorporating-data-driven-decision-making-in-dry-bulk-shipping_img_a3_a2e8a885b8ed.jpg)
 
 Why is it that its easy? Is it because this is an unsophisticated market? Is it because the Demand and Supply equations are simple? Is it because the ML model requires expensive data to get to a usable level of prediction accuracy, (cost may be a barrier to entry). One potential explanation is that applying the new ML forecasting technology in workflow/execution has not been done yet by enough players to make it non-profitable. In addition, the means of applying and incorporating into one’s business model is highly specific and the participants in the Freight market have numerous business models and objectives.
 

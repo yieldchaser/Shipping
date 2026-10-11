@@ -34,10 +34,18 @@ Once the normal winter market returns and when Nigerian production recovers, the
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: Where Have All The Good Times Gone](../../../charts/poten/2016/poten_2016-08-26_where-have-all-the-good-times-gone_chart1.png)
+![Exhibit 1: Suezmax Rates (WAF-USG) - 2013 to 2016ytd](../../../charts/poten/2016/poten_2016-08-26_where-have-all-the-good-times-gone_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2016/poten_2016-08-26_where-have-all-the-good-times-gone_chart1.png)
+> **Exhibit 1: Suezmax Rates (WAF-USG) - 2013 to 2016ytd**  
+> Unit: US$/day · X-axis: 1 to 51  
+> Series: 2016, 2015, 2014, 2013  
+> *Source: Poten*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2016/poten_2016-08-26_where-have-all-the-good-times-gone_chart1.png)
 
-![Exhibit 2: Where Have All The Good Times Gone](../../../charts/poten/2016/poten_2016-08-26_where-have-all-the-good-times-gone_chart2.png)
+![Exhibit 2: Average Monthly Suezmax Voyages by Import Area (Jan – Jul)](../../../charts/poten/2016/poten_2016-08-26_where-have-all-the-good-times-gone_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2016/poten_2016-08-26_where-have-all-the-good-times-gone_chart2.png)
+> **Exhibit 2: Average Monthly Suezmax Voyages by Import Area (Jan – Jul)**  
+> Unit: Avg. Voyages per Month · X-axis: N America to AustralAsia  
+> Series: 2016, 2015  
+> *Source: Lloyd’s List Intelligence*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2016/poten_2016-08-26_where-have-all-the-good-times-gone_chart2.png)

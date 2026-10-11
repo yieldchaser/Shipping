@@ -72,16 +72,16 @@ So, as one client said it:
 *The world is long molecules and short electrons - we're going to capitalize on this!*
 
 
-![Global electricy demand by datacentres expected to grow by 200% in a decade](../images/391aa6f8-c4c0-4e59-9323-95b9e43c4ce2/DATACENTERS_1.png)
+![Global electricy demand by datacentres expected to grow by 200% in a decade](../../../../../corpus/01-brokers/fearnleys-md/images/391aa6f8-c4c0-4e59-9323-95b9e43c4ce2/DATACENTERS_1.png)
 
 > **Figure 1: Global electricy demand by datacentres expected to grow by 200% in a decade**  
-> [Local Asset](file:////home/runner/work/Shipping/Shipping/corpus/01-brokers/fearnleys-md/images/391aa6f8-c4c0-4e59-9323-95b9e43c4ce2/DATACENTERS_1.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/391aa6f8-c4c0-4e59-9323-95b9e43c4ce2/DATACENTERS_1.png)
+> [Local Asset](../../../../../corpus/01-brokers/fearnleys-md/images/391aa6f8-c4c0-4e59-9323-95b9e43c4ce2/DATACENTERS_1.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/391aa6f8-c4c0-4e59-9323-95b9e43c4ce2/DATACENTERS_1.png)
 
 
-![Top 3 OEMs gas-turbine backlog](../images/391aa6f8-c4c0-4e59-9323-95b9e43c4ce2/DATACENTERS_2.png)
+![Top 3 OEMs gas-turbine backlog](../../../../../corpus/01-brokers/fearnleys-md/images/391aa6f8-c4c0-4e59-9323-95b9e43c4ce2/DATACENTERS_2.png)
 
 > **Figure 2: Top 3 OEMs gas-turbine backlog**  
-> [Local Asset](file:////home/runner/work/Shipping/Shipping/corpus/01-brokers/fearnleys-md/images/391aa6f8-c4c0-4e59-9323-95b9e43c4ce2/DATACENTERS_2.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/391aa6f8-c4c0-4e59-9323-95b9e43c4ce2/DATACENTERS_2.png)
+> [Local Asset](../../../../../corpus/01-brokers/fearnleys-md/images/391aa6f8-c4c0-4e59-9323-95b9e43c4ce2/DATACENTERS_2.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/391aa6f8-c4c0-4e59-9323-95b9e43c4ce2/DATACENTERS_2.png)
 
 
 ---
@@ -100,16 +100,16 @@ Most of the global FSRU fleet is now in operation and none acting as straight "i
 From a global perspective, **FSRUs delivered 17.1% of all LNG volumes imported in Q3/26**. This is marginally down from the 17.4% seen in Q2, but the trend is generally increasing still. Global LNG imports rose to 101.9mt in Q3 vs 98.4mt in Q2, but still well below the current record 117.1mt in Q1. FSRUs remain a backbone in the global LNG infrastructure and with the number of FSRUs on order compared to onshore regas developments it is **inevitable that the relative importance of FSRUs will grow in the coming years**. As such, we continue to see FSRUs receiving **beyond 20% of global LNG imports within 2030.**
 
 
-![Global volumes imported through FSRUs (2023-2026YTD)](../images/391aa6f8-c4c0-4e59-9323-95b9e43c4ce2/YOY_Q3.png)
+![Global volumes imported through FSRUs (2023-2026YTD)](../../../../../corpus/01-brokers/fearnleys-md/images/391aa6f8-c4c0-4e59-9323-95b9e43c4ce2/YOY_Q3.png)
 
 > **Figure 3: Global volumes imported through FSRUs (2023-2026YTD)**  
-> [Local Asset](file:////home/runner/work/Shipping/Shipping/corpus/01-brokers/fearnleys-md/images/391aa6f8-c4c0-4e59-9323-95b9e43c4ce2/YOY_Q3.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/391aa6f8-c4c0-4e59-9323-95b9e43c4ce2/YOY_Q3.png)
+> [Local Asset](../../../../../corpus/01-brokers/fearnleys-md/images/391aa6f8-c4c0-4e59-9323-95b9e43c4ce2/YOY_Q3.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/391aa6f8-c4c0-4e59-9323-95b9e43c4ce2/YOY_Q3.png)
 
 
-![Monthly volumes imported through FSRUs by region (2026YTD)](../images/391aa6f8-c4c0-4e59-9323-95b9e43c4ce2/BYREGION_Q3.png)
+![Monthly volumes imported through FSRUs by region (2026YTD)](../../../../../corpus/01-brokers/fearnleys-md/images/391aa6f8-c4c0-4e59-9323-95b9e43c4ce2/BYREGION_Q3.png)
 
 > **Figure 4: Monthly volumes imported through FSRUs by region (2026YTD)**  
-> [Local Asset](file:////home/runner/work/Shipping/Shipping/corpus/01-brokers/fearnleys-md/images/391aa6f8-c4c0-4e59-9323-95b9e43c4ce2/BYREGION_Q3.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/391aa6f8-c4c0-4e59-9323-95b9e43c4ce2/BYREGION_Q3.png)
+> [Local Asset](../../../../../corpus/01-brokers/fearnleys-md/images/391aa6f8-c4c0-4e59-9323-95b9e43c4ce2/BYREGION_Q3.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/391aa6f8-c4c0-4e59-9323-95b9e43c4ce2/BYREGION_Q3.png)
 
 
 ---
@@ -127,7 +127,7 @@ From a global perspective, **FSRUs delivered 17.1% of all LNG volumes imported i
 ![Fsru Map](../images/391aa6f8-c4c0-4e59-9323-95b9e43c4ce2/FSRU_MAP.png)
 
 > **Figure 5: Fsru Map**  
-> [Local Asset](file:////home/runner/work/Shipping/Shipping/corpus/01-brokers/fearnleys-md/images/391aa6f8-c4c0-4e59-9323-95b9e43c4ce2/FSRU_MAP.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/391aa6f8-c4c0-4e59-9323-95b9e43c4ce2/FSRU_MAP.png)
+> [Local Asset](../../../../../corpus/01-brokers/fearnleys-md/images/391aa6f8-c4c0-4e59-9323-95b9e43c4ce2/FSRU_MAP.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/391aa6f8-c4c0-4e59-9323-95b9e43c4ce2/FSRU_MAP.png)
 
 The vast majority of FSRUs have been on station or operating without issues in Q3 - which underpins the operational stability that all FSRU projects should be seeing. However, there were a few notable movements.
 
@@ -149,13 +149,13 @@ The vast majority of FSRUs have been on station or operating without issues in Q
 ![FSRU conversion candidates: Secondhand values](../images/391aa6f8-c4c0-4e59-9323-95b9e43c4ce2/SH.png)
 
 > **Figure 6: FSRU conversion candidates: Secondhand values**  
-> [Local Asset](file:////home/runner/work/Shipping/Shipping/corpus/01-brokers/fearnleys-md/images/391aa6f8-c4c0-4e59-9323-95b9e43c4ce2/SH.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/391aa6f8-c4c0-4e59-9323-95b9e43c4ce2/SH.png)
+> [Local Asset](../../../../../corpus/01-brokers/fearnleys-md/images/391aa6f8-c4c0-4e59-9323-95b9e43c4ce2/SH.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/391aa6f8-c4c0-4e59-9323-95b9e43c4ce2/SH.png)
 
 
 ![FSRU Newbuild prices](../images/391aa6f8-c4c0-4e59-9323-95b9e43c4ce2/NB.png)
 
 > **Figure 7: FSRU Newbuild prices**  
-> [Local Asset](file:////home/runner/work/Shipping/Shipping/corpus/01-brokers/fearnleys-md/images/391aa6f8-c4c0-4e59-9323-95b9e43c4ce2/NB.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/391aa6f8-c4c0-4e59-9323-95b9e43c4ce2/NB.png)
+> [Local Asset](../../../../../corpus/01-brokers/fearnleys-md/images/391aa6f8-c4c0-4e59-9323-95b9e43c4ce2/NB.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/391aa6f8-c4c0-4e59-9323-95b9e43c4ce2/NB.png)
 
 Since last quarter the FSRU orderbook has swelled further and we now count 4 (+1 during quarter) newbuilds and 5.5 conversions (+2.5 during the quarter). We could add another 6-7 units conversion units with high likelihood of materializing within a 6-12 month period and another 2-3 newbuilds which would potentially drive the FSRU orderbook close to 20 units within a short period of time. However, five of the units in the orderbook will deliver in the next 12 months including **HOEGH GANDRIA**, **BW's Dom. Rep. FSRU**, **MOLs Poland NB**, **MOLs Conversion** and **Exmar Ivory Coast FSRU**.
 

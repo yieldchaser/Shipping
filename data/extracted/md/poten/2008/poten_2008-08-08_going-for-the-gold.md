@@ -38,6 +38,8 @@ There is certainly reason to believe that China's growth will not only blossom i
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: Going for the Gold](../../../charts/poten/2008/poten_2008-08-08_going-for-the-gold_chart1.png)
-
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2008/poten_2008-08-08_going-for-the-gold_chart1.png)
+> **Chart on PDF page 1: China's Crude Oil Imports**  
+> Unit: kbbl/day · X-axis: 1995 to 2008  
+> Series: Imports  
+> *Source: Poten & Partners/Bloomberg*  
+> *No image crop of this chart was saved; caption read from the PDF.*

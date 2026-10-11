@@ -30,10 +30,18 @@ Replenishing the SPR is technically not needed to meet the IEA requirements, whi
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: Would You Like A Refill](../../../charts/poten/2023/poten_2023-05-12_would-you-like-a-refill_chart1.png)
+![Exhibit 1: US Crude Oil SPR vs WTI Crude Oil Price](../../../charts/poten/2023/poten_2023-05-12_would-you-like-a-refill_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2023/poten_2023-05-12_would-you-like-a-refill_chart1.png)
+> **Exhibit 1: US Crude Oil SPR vs WTI Crude Oil Price**  
+> Unit: Kbbl | US$ · X-axis: 07-Jan-22 to 05-May-23  
+> Series: SPR Crude Oil Stocks, WTI Spot Price  
+> *Source: US Energy Information Administration*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2023/poten_2023-05-12_would-you-like-a-refill_chart1.png)
 
-![Exhibit 2: Would You Like A Refill](../../../charts/poten/2023/poten_2023-05-12_would-you-like-a-refill_chart2.png)
+![Exhibit 2: US Crude Oil Imports and Exports](../../../charts/poten/2023/poten_2023-05-12_would-you-like-a-refill_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2023/poten_2023-05-12_would-you-like-a-refill_chart2.png)
+> **Exhibit 2: US Crude Oil Imports and Exports**  
+> Unit: Kb/d · X-axis: 7-Jan-22 to 28-Apr-23  
+> Series: Crude Oil Imports, Crude Oil Exports, Net  
+> *Source: US Energy Information Administration*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2023/poten_2023-05-12_would-you-like-a-refill_chart2.png)

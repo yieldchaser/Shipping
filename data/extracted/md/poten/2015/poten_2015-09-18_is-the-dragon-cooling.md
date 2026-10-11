@@ -32,10 +32,18 @@ Although the sentiment around China's economy market has turned decidedly negati
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: Is the Dragon Cooling](../../../charts/poten/2015/poten_2015-09-18_is-the-dragon-cooling_chart1.png)
+![Exhibit 1: Chinese Gasoline and Middle Distillates Demand](../../../charts/poten/2015/poten_2015-09-18_is-the-dragon-cooling_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2015/poten_2015-09-18_is-the-dragon-cooling_chart1.png)
+> **Exhibit 1: Chinese Gasoline and Middle Distillates Demand**  
+> Unit: KB/d · X-axis: Jan2010 to Jun2015  
+> Series: Gas/diesel oil, Gasoline  
+> *Source: JODI*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2015/poten_2015-09-18_is-the-dragon-cooling_chart1.png)
 
-![Exhibit 2: Is the Dragon Cooling](../../../charts/poten/2015/poten_2015-09-18_is-the-dragon-cooling_chart2.png)
+![Exhibit 2: Chinese Crude Imports](../../../charts/poten/2015/poten_2015-09-18_is-the-dragon-cooling_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2015/poten_2015-09-18_is-the-dragon-cooling_chart2.png)
+> **Exhibit 2: Chinese Crude Imports**  
+> Unit: K bbl/month · X-axis: Jan2010 to Jun2015  
+> Series: Imports, 3 per. Mov. Avg. (Imports)  
+> *Source: JODI*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2015/poten_2015-09-18_is-the-dragon-cooling_chart2.png)

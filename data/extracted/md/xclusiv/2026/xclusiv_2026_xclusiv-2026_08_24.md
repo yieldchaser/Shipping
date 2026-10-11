@@ -7,10 +7,14 @@ broker: "Xclusiv Shipbrokers"
 source: "xclusiv"
 source_file: "corpus/01-brokers/xclusiv/2026/xclusiv_2026_xclusiv-2026_08_24.pdf"
 pages: 9
+useful_pages: 7
+editorial_title: "VLCC Buying Reshapes the Tanker Market in 2026"
 sales_count: 8
 demo_sales_count: 2
 secondhand_prices_count: 32
+newbuilding_prices_count: 9
 demolition_prices_count: 8
+baltic_indices_count: 7
 ---
 
 # Xclusiv Shipbrokers Weekly Market Report - Week 34, 2026
@@ -18,11 +22,21 @@ demolition_prices_count: 8
 - **Publisher**: Xclusiv Shipbrokers Inc.
 - **Issue Date**: 2026-08-24 (Week 34)
 - **Source**: `corpus/01-brokers/xclusiv/2026/xclusiv_2026_xclusiv-2026_08_24.pdf`
-- **Pages**: 9
+- **Pages**: 9 (Cover-to-cover extraction of useful pages 1 to 7; final 2 pages discarded per notes)
 
 ---
 
 ## Market Overview
+
+### Editorial: VLCC Buying Reshapes the Tanker Market in 2026
+
+The January–July 2026 tanker Sale & Purchase market has been considerably more active than during the corre- sponding period of 2025, with 365 vessels changing hands compared to 239 last year, representing a 53% year-on- year increase. Activity was particularly strong during the opening months of the year, with January alone ac- counting for 88 sales (24% of the total), before gradually easing during the second quarter and into July. Despite this moderation, monthly transaction volumes remained broadly above 2025 levels, confirming that market liquidi- ty has strengthened significantly.
+
+From a sector perspective, VLCC/ULCCs dominated activi- ty with 83 transactions, representing almost 23% of all tanker sales, a remarkable increase from only 31 sales during the same period of 2025. This exceptional surge was largely driven by the well-publicized acquisition campaign under- taken by the Sinokor–MSC alliance, which is estimated to have acquired between 60 and 70 VLCCs within a relatively short period. The scale of this fleet expansion alone transformed the dynamics of the VLCC S&P market and explains the extraordinary increase in transactions recorded this year. The MR2 sector ranked second with 80 transactions (22% of total sales), followed by Small Tankers with 51 sales (14%), Suezmaxes with 46 (13%), and Aframax/LR2s with 41 (11%). While Aframax/LR2 activity remained unchanged compared to last year (41 sales in both periods), virtually eve- ry other major segment recorded substantial growth. The most impressive increases, after the VLCC sector, were seen in the Panamax/LR1 market, where transactions jumped from 9 to 31 vessels. These figures indicate that buyers have become increasingly willing to commit capital across both the largest crude carriers and several mid-size segments.
+
+The age profile of sold vessels also reveals an interesting shift in market behaviour. Modern tonnage attracted consid- erably stronger interest, with 0-5-year-old vessels increasing from 19 to 36 sales, while 11-15-year-old ships almost doubled from 48 to 90 transactions. Nevertheless, older tonnage continued to dominate the market. Vessels aged 16- 20 years accounted for 157 sales, representing approximately 43% of all transactions, compared to 110 during the same period of 2025. When combining vessels older than 16 years, a total of 207 tankers changed hands this year, equivalent to nearly 57% of total S&P activity. This demonstrates that demand for vintage tonnage remains exception- ally resilient despite tightening environmental regulations and an aging global fleet.
+
+On the buying side, a large proportion of acquisitions (171 vessels) involved undisclosed interests, representing almost 47% of all reported purchases, significantly higher than the 70 undisclosed buyers recorded last year. Among identified buyers, South Korean interests emerged as the most active, acquiring 58 vessels, fol- lowed by Others (52), Greek owners (47) and Chinese buyers (37). Greek investors maintained exactly the same acquisition pace as in 2025, suggesting a disciplined in- vestment strategy despite the much stronger overall market. On the selling side, Greek owners once again dominated the market, disposing of 70 tankers, compared with 49 during the same period of 2025. This means Greek-controlled interests were responsible for almost one out of eve- ry five tanker sales worldwide, comfortably maintaining their position as the largest sellers. Singaporean owners also increased their selling activity sharply, while Chinese disposals rose only modestly. Overall, the data suggest that the significant increase in transaction volumes during 2026 has been driven by a combination of stronger investor confi- dence, improved liquidity, and continued appetite for both modern and vintage tanker assets across virtually every major vessel segment.
 
 ### In a Nutshell
 
@@ -37,15 +51,17 @@ demolition_prices_count: 8
 - Crude oil eased to USD 85 per barrel as investors took
 - profits. (Page 8)
 
-### Desk Commentary
+### Baltic Exchange Freight Indices
 
-VLCC Buying Reshapes the Tanker Market in 2026
-
-The January–July 2026 tanker Sale & Purchase market has been considerably more active than during the corre- sponding period of 2025, with 365 vessels changing hands compared to 239 last year, representing a 53% year-on- year increase. Activity was particularly strong during the opening months of the year, with January alone ac- counting for 88 sales (24% of the total), before gradually easing during the second quarter and into July. Despite this moderation, monthly transaction volumes remained broadly above 2025 levels, confirming that market liquidi- ty has strengthened significantly.
-
-From a sector perspective, VLCC/ULCCs dominated activi- ty with 83 transactions, representing almost 23% of all tanker sales, a remarkable increase from only 31 sales during the same period of 2025. This exceptional surge was largely driven by the well-publicized acquisition campaign under- taken by the Sinokor–MSC alliance, which is estimated to have acquired between 60 and 70 VLCCs within a relatively short period. The scale of this fleet expansion alone transformed the dynamics of the VLCC S&P market and explains the extraordinary increase in transactions recorded this year. The MR2 sector ranked second with 80 transactions (22% of total sales), followed by Small Tankers with 51 sales (14%), Suezmaxes with 46 (13%), and Aframax/LR2s with 41 (11%). While Aframax/LR2 activity remained unchanged compared to last year (41 sales in both periods), virtually eve- ry other major segment recorded substantial growth. The most impressive increases, after the VLCC sector, were seen in the Panamax/LR1 market, where transactions jumped from 9 to 31 vessels. These figures indicate that buyers have become increasingly willing to commit capital across both the largest crude carriers and several mid-size segments.
-
-The age profile of sold vessels also reveals an interesting shift in market behaviour. Modern tonnage attracted consid- erably stronger interest, with 0-5-year-old vessels increasing from 19 to 36 sales, while 11-15-year-old ships almost doubled from 48 to 90 transactions. Nevertheless, older tonnage continued to dominate the market. Vessels aged 16- 20 years accounted for 157 sales, representing approximately 43% of all transactions, compared to 110 during the same period of 2025. When combining vessels older than 16 years, a total of 207 tankers changed hands this year, equivalent to nearly 57% of total S&P activity. This demonstrates that demand for vintage tonnage remains exception- ally resilient despite tightening environmental regulations and an aging global fleet.
+| Index | Current | Previous | Change (%) | 3Y Trend / Historical Averages |
+|---|---|---|---|---|
+| BDI | 2,841 | 2,863 | -0.8% | 2026: 2,461 / 2025: 1,676 / 2024: 1,756 |
+| BCI | 4,552 | 4,538 | 0.3% | 2026: 3,829 / 2025: 2,557 / 2024: 2,724 |
+| BPI | 2,103 | 2,228 | -5.6% | 2026: 1,981 / 2025: 1,483 / 2024: 1,570 |
+| BSI | 1,640 | 1,622 | 1.1% | 2026: 1,415 / 2025: 1,128 / 2024: 1,243 |
+| BHSI | 874 | 866 | 0.9% | 2026: 791 / 2025: 661 / 2024: 704 |
+| BDTI | 3,004 | 2,742 | 9.6% | 2026: 2,355 / 2025: 1,068 / 2024: 1,094 |
+| BCTI | 1,348 | 1,288 | 4.7% | 2026: 1,392 / 2025: 667 / 2024: 821 |
 
 ---
 
@@ -69,13 +85,68 @@ Suezmax: average T/CE closed the week firmer by 2.6k/day at USD 281,852/day. Wes
 
 Aframax: average T/CE closed the week lower by 0.3k/day at USD 80,567/day. North Sea to Conti- nent trip is down by 0.4k/day at USD 93,162/day, Kuwait to Singapore is up by 0.6k/day at USD 84,152/day, while route from Caribbean to US Gulf trip is down by 7.5k/day at USD 99,216/day. Trip from South East Asia to East Coast Australia is up by 5.7k/day at USD 35,655/day & Cross Medi- terranean trip is up by 16.1k/day at USD 77,524/ day. US Gulf to UK-Continent is reduced by 18.9k/ day at USD 80,864/day and the East Coast Mexico to US Gulf trip is down by USD 5.2k/day at USD 112,047/day.
 
-$/day MR Atlantic Basket
-
-$/day MR Pacific Basket
+Products: The LR2 route (TC1) Middle East to Ja- pan is this week higher by 10k/day at USD 146,400/day. Trip from (TC15) Med to Far East has increased by 5k/day at USD 33,013/day and (TC20) AG to UK Continent is up by 9.3k/day at USD 120,459/day. The LR1 route (TC5) from Middle East Gulf to Japan is up by 12.5k/day at USD 109,567/day, while the (TC8) Middle East Gulf to UK-Continent is up by 9.3k/day at USD 120,459/ day. The MR Atlantic Basket is increased by 5k/day at USD 25,658/day & the MR Pacific Basket earn- ings are improved by 1.5k/day at USD 28,325/day. The MR route from Rotterdam to New York (TC2) is firmer by 10k/day at USD 146,400/day, (TC6) Intermed (Algeria to Euro Med) earnings are firm- er by 12.5k/day at USD 109,567/day, (TC14) US Gulf to Continent is down by 0.8k/day at USD 14,516/day, (TC18) US Gulf to Brazil earnings are higher by 3.1k/day at USD 57,090/day, (TC23) Am- sterdam to Le Havre is higher by 5.4k/day at USD 29,042/day while Yeosu to Botany Bay (TC22) is softer by 2.2k/day at USD 5,975/day and ARA to West Africa (TC19) is up by 6.8k/day at USD 31,610/day.
 
 ---
 
-## S&P Transaction Tables
+## Newbuilding Market
+
+### Indicative Newbuilding Prices ($ mills)
+
+| Sector | Vessel Type | Price ($M) |
+|---|---|---|
+| Dry | Capesize | $76.0M |
+| Dry | Kamsarmax | $38.3M |
+| Dry | Ultramax | $36.0M |
+| Dry | Handysize | $31.0M |
+| Tanker | VLCC | $131.5M |
+| Tanker | Suezmax | $93.0M |
+| Tanker | Aframax | $78.0M |
+| Tanker | Panamax | $61.0M |
+| Tanker | MR2 | $53.0M |
+
+### Newbuilding Orders
+
+| Type | Units | Size | Yard | Buyer | Price | Delivery | Comments |
+|---|---|---|---|---|---|---|---|
+| BC | 1 | 211,000 DWT | HENGLI | SEANERGY | N/A | 2029 |  |
+| BC | 3 | 63,800 DWT | NANTONG XIANGYU | INCE | 36 EACH | H2 2029 |  |
+| BC | 2 | 64,000 DWT | COSCO ZHOUSHAN | VERITAS | N/A | H1 20230 |  |
+| CONTAINER | 4+2 | 1,900 TEU | WUCHANG | NINGBO OCEAN | 31 EACH | 2028-29 |  |
+| LNG | 1 | 6,000 CBM | NANTONG SINOPACIFIC | SOGESTRAN GROUP | N/A | 2029 |  |
+| LPG | 4 | 60,000 CBM | HD HYUNDAI | PASCO GAS | 92.5 EACH | H1 2030 |  |
+| TANKER | 4 | 73,500 DWT | YANGZIJIANG | EVALEND | 55 EACH | 2029 | LR1 |
+| TANKER | 2 | 50,000 DWT | COSCO GUANGDONG | PANTHEON TANKERS | N/A | 2029 |  |
+| VLAC | 2 | 88,000 CBM | NEW YANGZI | UNION | N/A | 2029-30 |  |
+
+---
+
+## Sale & Purchase Market
+
+### Dry Secondhand Prices ($ mills)
+
+| Vessel Type | Tenor | Aug 2026 | Aug 2025 | ±% | Avg 2026 | Avg 2025 | Avg 2024 |
+|---|---|---|---|---|---|---|---|
+| Capesize | Resale | 81.5 | 76.0 | 7% | 80.8 | 75.7 | 75.7 |
+| Capesize | 5 Year | 74.0 | 62.0 | 19% | 70.7 | 62.6 | 62.6 |
+| Capesize | 10 Year | 56.0 | 45.5 | 23% | 54.5 | 45.6 | 43.1 |
+| Capesize | 15 Year | 37.0 | 25.9 | 43% | 35.8 | 27.4 | 27.9 |
+| Kamsarmax | Resale | 45.8 | 39.0 | 18% | 43.4 | 38.7 | 41.8 |
+| Kamsarmax | 5 Year | 40.0 | 31.5 | 27% | 37.2 | 32.3 | 32.3 |
+| Kamsarmax | 10 Year | 31.0 | 24.8 | 25% | 28.3 | 24.8 | 27.3 |
+| Kamsarmax | 15 Year | 21.0 | 16.0 | 31% | 19.6 | 15.6 | 18.1 |
+| Ultramax | Resale | 43.5 | 38.1 | 14% | 42.0 | 37.8 | 40.6 |
+| Ultramax | 5 Year | 38.5 | 30.7 | 25% | 36.5 | 31.1 | 31.1 |
+| Ultramax | 10 Year | 30.0 | 22.1 | 36% | 27.8 | 22.9 | 26.0 |
+| Supramax | 15 Year | 18.5 | 15.2 | 22% | 17.2 | 15.0 | 15.9 |
+| Handysize | Resale | 37.5 | 33.0 | 14% | 35.7 | 33.0 | 34.0 |
+| Handysize | 5 Year | 31.5 | 26.2 | 20% | 29.2 | 25.9 | 25.9 |
+| Handysize | 10 Year | 24.0 | 20.1 | 20% | 22.4 | 19.0 | 19.8 |
+| Handysize | 15 Year | 15.0 | 12.0 | 25% | 13.3 | 11.7 | 12.3 |
+
+### Dry S&P Activity Commentary
+
+On the Capesize sector, the “MOUNT DAMPIER” - 181K/2011 Imabari was sold for excess USD 38 mills. Moving down the sizes, the Panamax “IVESTOS 9” - 75K/2008 Hudong Zhonghua changed hands for USD 11.75 mills. On the Ultramax sector, Chinese buyers acquired the “AMARYLLIS” - 64K/2013 Yangzhou Da- yang for USD 24.3 mills basis SS/DD passed. On the Su- pramax sector, the “AFRICAN WAGTAIL” - 58K/2013 Dalian Cosco was sold for region/low USD 20 mills, while Middle Eastern buyers acquired the “CBW LIAN YUN GANG” - 57K/2011 Xiamen for USD 10.5 mills at auction basis immediate drydock. Finally, on the Handysize sector, Greek buyers acquired the “ARKLOW SPIRIT” - 36K/2013 Daesun with eco M/E for USD 16.6 mills.
 
 ### Bulk Carrier Sales
 
@@ -87,6 +158,33 @@ $/day MR Pacific Basket
 | Bulk Carriers | AFRICAN WAGTAIL | Supramax | 58,340 | 2013 | CHINA | DALIAN COSCO | UNDISCLOSED | $20.0M | AUCTION WITH IMME- |
 | Bulk Carriers | CBW LIAN YUN GANG | Supramax | 56,869 | 2011 | CHINA | XIAMEN | ERN BUYERS | $10.5M | DIATE DRYDOCK |
 | Bulk Carriers | ARKLOW SPIRIT | Handysize | 36,006 | 2013 | S. KOREA | DAESUN | GREEK BUYERS | $16.6M | ECO M/E |
+
+### Tanker Secondhand Prices ($ mills)
+
+| Vessel Type | Tenor | Aug 2026 | Aug 2025 | ±% | Avg 2026 | Avg 2025 | Avg 2024 |
+|---|---|---|---|---|---|---|---|
+| VLCC | Resale | 182.3 | 146.5 | 24% | 172.4 | 146.6 | 144.2 |
+| VLCC | 5 Year | 157.3 | 117.0 | 34% | 142.0 | 115.4 | 115.4 |
+| VLCC | 10 Year | 132.3 | 86.0 | 54% | 114.3 | 85.3 | 84.1 |
+| VLCC | 15 Year | 100.0 | 57.5 | 74% | 82.2 | 56.2 | 57.1 |
+| Suezmax | Resale | 126.7 | 93.5 | 35% | 110.8 | 94.3 | 98.4 |
+| Suezmax | 5 Year | 105.3 | 76.0 | 39% | 94.5 | 76.5 | 76.5 |
+| Suezmax | 10 Year | 84.0 | 61.5 | 37% | 78.1 | 61.0 | 66.3 |
+| Suezmax | 15 Year | 66.0 | 40.0 | 65% | 58.0 | 40.8 | 47.4 |
+| Aframax | Resale | 95.0 | 74.6 | 27% | 88.9 | 75.6 | 84.3 |
+| Aframax | 5 Year | 85.0 | 62.0 | 37% | 76.8 | 62.8 | 62.8 |
+| Aframax | 10 Year | 72.5 | 50.0 | 45% | 65.8 | 50.9 | 58.2 |
+| Aframax | 15 Year | 50.0 | 35.0 | 43% | 46.1 | 35.1 | 41.6 |
+| MR2 | Resale | 56.0 | 52.0 | 8% | 54.2 | 51.3 | 54.3 |
+| MR2 | 5 Year | 48.0 | 42.0 | 14% | 47.7 | 41.5 | 41.5 |
+| MR2 | 10 Year | 38.0 | 32.0 | 19% | 37.8 | 31.4 | 37.5 |
+| MR2 | 15 Year | 26.0 | 19.5 | 33% | 26.6 | 20.5 | 26.5 |
+
+### Tanker S&P Activity Commentary
+
+For yet another week, activity in the tanker S&P market remained subdued, with limited transaction flow across most segments.
+
+On the VLCC sector, clients of ADNOC acquired the “OLYMPIC LEOPARD” - 319K/2011 Hyundai Heavy for USD 115 mills. Moving down the sizes, the MR2 “MUMBAI” - 47K/2003 Hyundai Mipo was sold for USD 10.5 mills.
 
 ### Tanker Sales
 
@@ -118,61 +216,6 @@ $/day MR Pacific Basket
 |---|---|---|---|---|---|---|---|---|
 | MARIA | BULKER | 1997 | 27,369 | 6,140 | S. KOREA | $520.0 | PAKISTAN | - |
 | GAN HAI 666 | BULKER | 1989 | 27,551 | 5,733 |  | N/A | INDIA | ALUMINIUM CONTENT |
-
----
-
-## Indicative Secondhand Prices ($ mills)
-
-| Sector | Vessel Type | Tenor | Price ($M) |
-|---|---|---|---|
-| Dry | Capesize | Resale | $81.5M |
-| Dry | Capesize | 5 Year | $74.0M |
-| Dry | Capesize | 10 Year | $56.0M |
-| Dry | Capesize | 15 Year | $37.0M |
-| Dry | Kamsarmax | Resale | $45.8M |
-| Dry | Kamsarmax | 5 Year | $40.0M |
-| Dry | Kamsarmax | 10 Year | $31.0M |
-| Dry | Kamsarmax | 15 Year | $21.0M |
-| Dry | Ultramax | Resale | $43.5M |
-| Dry | Ultramax | 5 Year | $38.5M |
-| Dry | Ultramax | 10 Year | $30.0M |
-| Dry | Ultramax | 15 Year | $18.5M |
-| Dry | Handysize | Resale | $37.5M |
-| Dry | Handysize | 5 Year | $31.5M |
-| Dry | Handysize | 10 Year | $24.0M |
-| Dry | Handysize | 15 Year | $15.0M |
-| Tanker | VLCC | Resale | $182.3M |
-| Tanker | VLCC | 5 Year | $157.3M |
-| Tanker | VLCC | 10 Year | $132.3M |
-| Tanker | VLCC | 15 Year | $100.0M |
-| Tanker | Suezmax | Resale | $126.7M |
-| Tanker | Suezmax | 5 Year | $105.3M |
-| Tanker | Suezmax | 10 Year | $84.0M |
-| Tanker | Suezmax | 15 Year | $66.0M |
-| Tanker | Aframax | Resale | $95.0M |
-| Tanker | Aframax | 5 Year | $85.0M |
-| Tanker | Aframax | 10 Year | $72.5M |
-| Tanker | Aframax | 15 Year | $50.0M |
-| Tanker | MR2 | Resale | $56.0M |
-| Tanker | MR2 | 5 Year | $48.0M |
-| Tanker | MR2 | 10 Year | $38.0M |
-| Tanker | MR2 | 15 Year | $26.0M |
-
----
-
-## Newbuilding Orders
-
-| Type | Units | Size | Yard | Buyer | Price | Delivery | Comments |
-|---|---|---|---|---|---|---|---|
-| BC | 1 | 211,000 DWT | HENGLI | SEANERGY | N/A | 2029 |  |
-| BC | 3 | 63,800 DWT | NANTONG XIANGYU | INCE | 36 EACH | H2 2029 |  |
-| BC | 2 | 64,000 DWT | COSCO ZHOUSHAN | VERITAS | N/A | H1 20230 |  |
-| CONTAINER | 4+2 | 1,900 TEU | WUCHANG | NINGBO OCEAN | 31 EACH | 2028-29 |  |
-| LNG | 1 | 6,000 CBM | NANTONG SINOPACIFIC | SOGESTRAN GROUP | N/A | 2029 |  |
-| LPG | 4 | 60,000 CBM | HD HYUNDAI | PASCO GAS | 92.5 EACH | H1 2030 |  |
-| TANKER | 4 | 73,500 DWT | YANGZIJIANG | EVALEND | 55 EACH | 2029 | LR1 |
-| TANKER | 2 | 50,000 DWT | COSCO GUANGDONG | PANTHEON TANKERS | N/A | 2029 |  |
-| VLAC | 2 | 88,000 CBM | NEW YANGZI | UNION | N/A | 2029-30 |  |
 
 ---
 

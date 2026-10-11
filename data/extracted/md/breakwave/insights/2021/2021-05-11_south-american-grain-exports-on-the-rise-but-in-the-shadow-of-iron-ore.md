@@ -31,7 +31,7 @@ Beyond statistical anomalies, soybeans look set to lose the crown as Brazil’s 
 ![A1](assets/2021-05-11_south-american-grain-exports-on-the-rise-but-in-the-shadow-of-iron-ore_img_a1_48f2bd5430a3.jpg)
 
 > **Figure 1: A1**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2021/assets/2021-05-11_south-american-grain-exports-on-the-rise-but-in-the-shadow-of-iron-ore_img_a1_48f2bd5430a3.jpg)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-05-11_south-american-grain-exports-on-the-rise-but-in-the-shadow-of-iron-ore_img_a1_48f2bd5430a3.jpg)
 
 There is however good news for soybean exporters as a consolation, with Chinese soybean acreage likely to decrease for the first time in six years. Data released by the China National Grain and Oils Information Center suggests the land planted with soybeans is set to shrink by 7.3 per cent, compared with the previous growing season. Hence, soybean imports are projected to rise to 102 million tonnes in the year starting in October, up from 98 million tonnes during the current year. The existence of the phase one trade agreement, which was agreed by the previous US administration, could however suggest that a majority of the increase in Chinese import demand would be sourced in the more distant US.
 

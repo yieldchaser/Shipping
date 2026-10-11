@@ -36,10 +36,14 @@ Tankers have the flexibility to immediately take advantage of the expanded canal
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: The Other Canal Expansion](../../../charts/poten/2015/poten_2015-06-19_the-other-canal-expansion_chart1.png)
+![Exhibit 1: Suez Canal Traffic](../../../charts/poten/2015/poten_2015-06-19_the-other-canal-expansion_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2015/poten_2015-06-19_the-other-canal-expansion_chart1.png)
+> **Exhibit 1: Suez Canal Traffic**  
+> Unit: No of Vessels · X-axis: 2007 to 2014  
+> Series: Tankers Laden, Tankers Ballast, Other Laden, Other Ballast  
+> *Source: Suez Canal Authorities*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2015/poten_2015-06-19_the-other-canal-expansion_chart1.png)
 
 ![Exhibit 2: The Other Canal Expansion](../../../charts/poten/2015/poten_2015-06-19_the-other-canal-expansion_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2015/poten_2015-06-19_the-other-canal-expansion_chart2.png)
+> **Interactive Asset:** [Local Asset (200 DPI PNG)](../../../charts/poten/2015/poten_2015-06-19_the-other-canal-expansion_chart2.png)

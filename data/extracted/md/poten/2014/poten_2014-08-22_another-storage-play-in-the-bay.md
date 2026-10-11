@@ -32,10 +32,18 @@ While this could certainly change in the near future, the spot prices of crude a
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: Another Storage Play in the Bay?](../../../charts/poten/2014/poten_2014-08-22_another-storage-play-in-the-bay_chart1.png)
+![Exhibit 1: Reported VLCC & Suezmax Fixtures into South Africa (Refiners versus Traders, 2009-2014)](../../../charts/poten/2014/poten_2014-08-22_another-storage-play-in-the-bay_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2014/poten_2014-08-22_another-storage-play-in-the-bay_chart1.png)
+> **Exhibit 1: Reported VLCC & Suezmax Fixtures into South Africa (Refiners versus Traders, 2009-2014)**  
+> X-axis: 2009 to 2014 YTD  
+> Series: Refiners, Traders  
+> *Source: Poten*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2014/poten_2014-08-22_another-storage-play-in-the-bay_chart1.png)
 
-![Exhibit 2: Another Storage Play in the Bay?](../../../charts/poten/2014/poten_2014-08-22_another-storage-play-in-the-bay_chart2.png)
+![Exhibit 2: Brent Future Contract Prices](../../../charts/poten/2014/poten_2014-08-22_another-storage-play-in-the-bay_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2014/poten_2014-08-22_another-storage-play-in-the-bay_chart2.png)
+> **Exhibit 2: Brent Future Contract Prices**  
+> Unit: $ · X-axis: Spot (8/21/14) to Dec-15  
+> Series: Brent Future Contract Prices  
+> *Source: Bloomberg*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2014/poten_2014-08-22_another-storage-play-in-the-bay_chart2.png)

@@ -172,36 +172,58 @@ Today, Dalian iron ore futures opened lower but closed higher, fluctuating upwar
 | **SGX** | **SGX Front Month** | USD/DMT | 0.39 | +100.85 | - | -2.31 | 2.34 | -0.26 | 1.16 |
 
 ## Dry Bulk Freight Rates Historical Line Data (USD/MT)
+> **Estimate.** The report prints no numbers for this chart. Values are computed from the chart's vector geometry at each x-axis date label (calibrated on the printed axis ticks; typically within 1% of the axis range).
+
 | Date | C5 W. Australia - Qingdao (USD/MT) | C3 Tubarao - Qingdao (USD/MT) |
 | :--- | :--- | :--- |
-| Jingtang | 13.59 | 1.12 |
-| Qingdao | 25.99 | 1.09 |
-| Caofeidian | 17.63 | -4.03 |
-| Tianjin | 12.06 | 0.84 |
-| Rizhao | 18.60 | 0.22 |
-| Total (35 Ports) | 144.99 | -0.59 |
+| 4-Jan-21 | 8.92 | 15.63 |
+| 4-Mar-21 | 8.36 | 16.47 |
+| 4-May-21 | 14.51 | 30.44 |
+| 4-Jul-21 | 11.44 | 26.53 |
+| 4-Sep-21 | 13.95 | 33.52 |
+| 4-Nov-21 | 10.61 | 24.87 |
+| 4-Jan-22 | 8.92 | 22.11 |
+| 4-Mar-22 | 10.05 | 23.75 |
+| 4-May-22 | 12.84 | 29.61 |
+| 4-Jul-22 | 10.88 | 30.16 |
+| 4-Sep-22 | 8.92 | 19.68 |
+| 4-Nov-22 | 8.65 | 20.87 |
+| 4-Jan-23 | 7.53 | 18.98 |
+| 4-Mar-23 | 7.80 | 18.70 |
+| 4-May-23 | 8.64 | 22.61 |
+| 4-Jul-23 | 8.08 | 20.10 |
+| 4-Sep-23 | 7.81 | 18.98 |
+| 4-Nov-23 | 8.37 | 20.38 |
+| 4-Jan-24 | 10.04 | 29.32 |
+| 4-Mar-24 | 14.79 | 29.60 |
+| 4-May-24 | 10.32 | 25.69 |
+| 4-Jul-24 | 10.89 | 30.18 |
+| 4-Sep-24 | 11.44 | 27.65 |
+| 4-Nov-24 | 8.64 | 20.38 |
 
 ## Total China Iron Ore Import Volumes (Million Tonnes)
+> **Estimate.** The report prints no numbers for this chart. Values are computed from the chart's vector geometry at each x-axis date label (calibrated on the printed axis ticks; typically within 1% of the axis range).
+
 | Month / Period | Import Volume (Million Tonnes) |
 | :--- | :--- |
-| Jun-23 | 96.00 |
-| Jul-23 | 94.00 |
-| Aug-23 | 106.00 |
-| Sep-23 | 101.00 |
-| Oct-23 | 99.00 |
-| Nov-23 | 103.00 |
-| Dec-23 | 101.00 |
+| Jun-23 | 95.49 |
+| Jul-23 | 93.51 |
+| Aug-23 | 106.49 |
+| Sep-23 | 101.21 |
+| Oct-23 | 99.45 |
+| Nov-23 | 102.75 |
+| Dec-23 | 100.77 |
 | Jan-24 | 112.00 |
-| Feb-24 | 97.00 |
-| Mar-24 | 101.00 |
-| Apr-24 | 102.00 |
-| May-24 | 98.00 |
-| Jun-24 | 96.00 |
-| Jul-24 | 103.00 |
-| Aug-24 | 102.00 |
-| Sep-24 | 105.00 |
-| Oct-24 | 104.00 |
-| Nov-24 | 102.00 |
+| Feb-24 | 97.47 |
+| Mar-24 | 100.77 |
+| Apr-24 | 101.87 |
+| May-24 | 102.09 |
+| Jun-24 | 97.69 |
+| Jul-24 | 102.75 |
+| Aug-24 | 101.43 |
+| Sep-24 | 104.07 |
+| Oct-24 | 103.85 |
+| Nov-24 | 101.87 |
 
 ---
 

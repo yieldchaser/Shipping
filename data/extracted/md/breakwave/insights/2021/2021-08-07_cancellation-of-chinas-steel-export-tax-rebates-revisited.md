@@ -27,7 +27,7 @@ Back in our May 3rd Weekly Dry Bulk Report, we discussed how rebates being cance
 ![A1](assets/2021-08-07_cancellation-of-chinas-steel-export-tax-rebates-revisited_img_a1_854d4f636065.jpg)
 
 > **Figure 1: A1**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2021/assets/2021-08-07_cancellation-of-chinas-steel-export-tax-rebates-revisited_img_a1_854d4f636065.jpg)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-08-07_cancellation-of-chinas-steel-export-tax-rebates-revisited_img_a1_854d4f636065.jpg)
 
 Since May, we have been stressing that China's steel export volume has been likely to remain moderate regardless of any changes to rebates or any other actions taken by the Customs Tariff Commission of the State Council. Global steel demand has stayed very strong, and the world has been poised to continue importing at least a moderate amount of steel products from China. This month has of course seen the cancellation of additional steel export tax rebates and also new higher tariffs, but we remain of our view that Chinese steel export volume will remain firm due to strong global demand. We also continue to believe that it is extremely unlikely that Chinese steel exports will end up contracting on a year-on-year basis.
 
@@ -38,7 +38,7 @@ The most recently released production data has shown that global crude steel pro
 ![A2](assets/2021-08-07_cancellation-of-chinas-steel-export-tax-rebates-revisited_img_a2_fca00614719d.jpg)
 
 > **Figure 2: A2**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2021/assets/2021-08-07_cancellation-of-chinas-steel-export-tax-rebates-revisited_img_a2_fca00614719d.jpg)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-08-07_cancellation-of-chinas-steel-export-tax-rebates-revisited_img_a2_fca00614719d.jpg)
 
 ---
 

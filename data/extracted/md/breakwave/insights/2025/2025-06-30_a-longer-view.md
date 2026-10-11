@@ -20,10 +20,10 @@ source_file: "corpus/03-breakwave/insights/2025/2025-06-30_a-longer-view.html"
 
 ---
 
-![Chemical Tanker](assets/2025-06-30_a-longer-view_img_chemical-tanker_8d59a120f236.jpg)
+![Chemical Tanker](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-06-30_a-longer-view_img_chemical-tanker_8d59a120f236.jpg)
 
 > **Figure 1: Chemical Tanker**  
-> **Interactive Data & Source:** [Gibsons Co](https://www.gibsons.co.uk/market-reports) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-06-30_a-longer-view_img_chemical-tanker_8d59a120f236.jpg)
+> **Interactive Data & Source:** [Gibsons Co](https://www.gibsons.co.uk/market-reports) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-06-30_a-longer-view_img_chemical-tanker_8d59a120f236.jpg)
 
 Earlier this month, the International Energy Agency (IEA) released their annual report detailing a medium-term outlook for oil markets. Oil 2025 has reiterated last year’s assertion that global oil demand will peak in 2029, only slightly changing the forecast for 2030 from 105.4 mbd to 105.5 mbd, with the trend gradually slowing and reaching contraction in 2030. Most of this growth is anticipated to take place in Asia Pacific, specifically in India, which is projected to grow by 1 mbd between 2024 and 2030, and Southeast Asia, with Indonesia leading the pack at 470 kbd. This growth is primarily made up of demand increases in petrochemical feedstocks and jet fuel. Elsewhere, the IEA sees demand growing in South and Central America and Africa by 600 and 800 kbd, respectively. Relative growth rates in Africa are projected to be the strongest globally, largely following population and GDP growth patterns. This year, global oil demand is seen at 103.8 mbd, an 800 kbd increase from 2024.
 
@@ -39,10 +39,10 @@ The IEA view has been challenged in recent years, with other forecasters expound
 
 ### Global Oil Demand (Kbd)
 
-![Στιγμιότυπο Οθόνης 2025 06 30 094120](assets/2025-06-30_a-longer-view_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_536ce898ada1.png)
+![Στιγμιότυπο Οθόνης 2025 06 30 094120](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-06-30_a-longer-view_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_536ce898ada1.png)
 
 > **Figure 2: Στιγμιότυπο Οθόνης 2025 06 30 094120**  
-> **Interactive Data & Source:** [Gibsons Co](https://www.gibsons.co.uk/market-reports) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-06-30_a-longer-view_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_536ce898ada1.png)
+> **Interactive Data & Source:** [Gibsons Co](https://www.gibsons.co.uk/market-reports) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-06-30_a-longer-view_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_536ce898ada1.png)
 
 Data source:[Gibson Shipbrokers](https://www.gibsons.co.uk/market-reports)
 

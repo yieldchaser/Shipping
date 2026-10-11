@@ -24,19 +24,19 @@ Global crude imports slow as Chinese demand weakens
 
 - Despite seasonally strong oil demand, global crude imports have been sliding since April. In July, global seaborne imports of crude oil and condensate dropped to just 39m b/d, down from 40.9m b/d in June. This was the lowest monthly import total since August 2022.
 
-![Market Chart 1](assets/2024-08-16_global-crude-imports-have-been-sliding_img_image028129_8c2d3234668a.png)
+![Market Chart 1](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-08-16_global-crude-imports-have-been-sliding_img_image028129_8c2d3234668a.png)
 
 > **Figure 1: Market Chart 1**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-08-16_global-crude-imports-have-been-sliding_img_image028129_8c2d3234668a.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-08-16_global-crude-imports-have-been-sliding_img_image028129_8c2d3234668a.png)
 
 - The decline was driven largely by reduced demand from China. Imports from most major producers, including Saudi Arabia, Iraq, the UAE, and the US, decreased, with Brazil being the only significant producer to see an increase. Additionally, imports became more diversified, with higher volumes from nations outside the top suppliers.
 - Exports from Saudi Arabia hit their lowest level since September 2023 due partly to increased domestic power generation.Russia saw a drop in crude exports.
 - Asia crude imports from the US fell. Canadian crude exports rose significantly due to the start-up of the TMX pipeline.
 
-![Market Chart 2](assets/2024-08-16_global-crude-imports-have-been-sliding_img_image1_b70e14c01583.png)
+![Market Chart 2](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-08-16_global-crude-imports-have-been-sliding_img_image1_b70e14c01583.png)
 
 > **Figure 2: Market Chart 2**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-08-16_global-crude-imports-have-been-sliding_img_image1_b70e14c01583.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-08-16_global-crude-imports-have-been-sliding_img_image1_b70e14c01583.png)
 
 - Weakness in Asia's demand, particularly from China and Southeast Asia, was a key factor in the global import decline. Meanwhile, crude imports in Northwest Europe and the Mediterranean region grew.
 
@@ -44,10 +44,10 @@ China’s refining sector faces fresh challenges
 
 - China's seaborne crude imports dropped by 8% year on year in July to 9.24m b/d, from 10.04m b/d in June. Chinese refiners struggling to ramp up production after the spring maintenance season.
 
-![Market Chart 3](assets/2024-08-16_global-crude-imports-have-been-sliding_img_image2_c8dfcf9fb670.png)
+![Market Chart 3](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-08-16_global-crude-imports-have-been-sliding_img_image2_c8dfcf9fb670.png)
 
 > **Figure 3: Market Chart 3**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-08-16_global-crude-imports-have-been-sliding_img_image2_c8dfcf9fb670.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-08-16_global-crude-imports-have-been-sliding_img_image2_c8dfcf9fb670.png)
 
 - Chinese crude imports from the Middle East and Russia also decreased, reflecting that state-owned refiners cut their baseloads to manage weak post-turnaround run rates.
 - Lower Chinese demand has helped VLCC TD3c rates to fall to $22k/day from $36k/day in July.

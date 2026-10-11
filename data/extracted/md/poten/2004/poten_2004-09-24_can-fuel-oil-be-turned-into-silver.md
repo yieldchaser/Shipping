@@ -56,6 +56,3 @@ REVIEW OF ASTM D 975, STANDARD SPECIFICATION FOR DIESEL FUELS, LUBRICITY SPECIFI
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: Can Fuel Oil Be Turned into Silver?](../../../charts/poten/2004/poten_2004-09-24_can-fuel-oil-be-turned-into-silver_chart1.png)
-
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2004/poten_2004-09-24_can-fuel-oil-be-turned-into-silver_chart1.png)

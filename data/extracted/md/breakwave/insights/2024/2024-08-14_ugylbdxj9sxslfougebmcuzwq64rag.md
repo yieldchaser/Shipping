@@ -24,10 +24,10 @@ Concerns over demand in China were back in focus. This was despite ongoing suppl
 
 *By*[*Daniel Hynes*](https://www.linkedin.com/in/dahynes/)
 
-![Στιγμιότυπο Οθόνης 2024 08 14 113946](assets/2024-08-14_ugylbdxj9sxslfougebmcuzwq64rag_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_950535af45dc.png)
+![Στιγμιότυπο Οθόνης 2024 08 14 113946](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-08-14_ugylbdxj9sxslfougebmcuzwq64rag_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_950535af45dc.png)
 
 > **Figure 1: Στιγμιότυπο Οθόνης 2024 08 14 113946**  
-> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-08-14_ugylbdxj9sxslfougebmcuzwq64rag_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_950535af45dc.png)
+> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-08-14_ugylbdxj9sxslfougebmcuzwq64rag_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_950535af45dc.png)
 
 ### Market Commentary
 
@@ -39,10 +39,10 @@ Concerns over demand in China were back in focus. This was despite ongoing suppl
 
 **Copper’s**recent recovery also stalled as traders weighed demand concerns in China. Typically, a significant net importer of copper, weak local consumption has seen exports rise in recent months. LME data this week showed Chinese output accounted for the bulk of inflows in exchange warehouses in July. The decline came despite renewed supply-side risks. Workers at BHP’s Escondida copper mine, the largest in the world, downed tools over a pay dispute, setting the stage for a major disruption.
 
-![Στιγμιότυπο Οθόνης 2024 08 14 113959](assets/2024-08-14_ugylbdxj9sxslfougebmcuzwq64rag_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_4fd66938933f.png)
+![Στιγμιότυπο Οθόνης 2024 08 14 113959](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-08-14_ugylbdxj9sxslfougebmcuzwq64rag_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_4fd66938933f.png)
 
 > **Figure 2: Στιγμιότυπο Οθόνης 2024 08 14 113959**  
-> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-08-14_ugylbdxj9sxslfougebmcuzwq64rag_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_4fd66938933f.png)
+> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-08-14_ugylbdxj9sxslfougebmcuzwq64rag_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_4fd66938933f.png)
 
 Data source:[Commodities Wrap](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI)
 

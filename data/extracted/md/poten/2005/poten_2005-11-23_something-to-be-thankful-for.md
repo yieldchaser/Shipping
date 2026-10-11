@@ -68,6 +68,14 @@ We Wish All of You Whether Charterer or Owner Be
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: Something to be Thankful For](../../../charts/poten/2005/poten_2005-11-23_something-to-be-thankful-for_chart1.png)
+> **Chart on PDF page 1: Oil Prices & Tanker Rates Thanksgiving to Thanksgiving**  
+> Unit: $ | $/Bbl · X-axis: Nov-04 to Nov-05  
+> Series: Oil Prices, VLCC, Suezmax  
+> *Source: Poten & Partners/EIA*  
+> *No image crop of this chart was saved; caption read from the PDF.*
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2005/poten_2005-11-23_something-to-be-thankful-for_chart1.png)
+> **Chart on PDF page 2: Tanker Rates Thanksgiving to Thanksgiving**  
+> Unit: $ · X-axis: Nov-04 to Nov-05  
+> Series: Aframax, Panamax, Handymax  
+> *Source: Poten & Partners*  
+> *No image crop of this chart was saved; caption read from the PDF.*

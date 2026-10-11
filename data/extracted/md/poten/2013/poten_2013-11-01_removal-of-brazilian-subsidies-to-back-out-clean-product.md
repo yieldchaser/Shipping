@@ -52,6 +52,22 @@ The end of gasoline subsidies for the Brazilian consumer will add negative press
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: Removal of Brazilian Subsidies to Back Out Clean Product Imports? Brazilian transportation fuels subsidies have reduced costs for consumers, who](../../../charts/poten/2013/poten_2013-11-01_removal-of-brazilian-subsidies-to-back-out-clean-product_chart1.png)
+![Exhibit 1: TC14 Rates moving in sync with US Exports to Brazil](../../../charts/poten/2013/poten_2013-11-01_removal-of-brazilian-subsidies-to-back-out-clean-product_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2013/poten_2013-11-01_removal-of-brazilian-subsidies-to-back-out-clean-product_chart1.png)
+> **Exhibit 1: TC14 Rates moving in sync with US Exports to Brazil**  
+> Unit: (000) Bbls/month | TCE $/day · X-axis: Jan-2009 to Oct-2012  
+> Series: US CPP Exports to Brazil, TC14  
+> *Source: Poten & Partners, EIA*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2013/poten_2013-11-01_removal-of-brazilian-subsidies-to-back-out-clean-product_chart1.png)
+
+> **Chart on PDF page 1: Reported Spot Fixtures Discharging Brazil**  
+> Unit: x 10000 t · X-axis: Q1 2008 to Q4 2013  
+> Series: Sum of Cargo Size  
+> *Source: Poten & Partners*  
+> *No image crop of this chart was saved; caption read from the PDF.*
+
+> **Chart on PDF page 2: Clean Product Demand vs Refinery Capacity**  
+> Unit: (000) Bbls/D · X-axis: 2012 to 2018P  
+> Series: Clean Product Demand, Refinery Capacity  
+> *Source: IEA*  
+> *No image crop of this chart was saved; caption read from the PDF.*

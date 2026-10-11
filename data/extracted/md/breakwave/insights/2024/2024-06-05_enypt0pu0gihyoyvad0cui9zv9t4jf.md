@@ -24,10 +24,10 @@ Easing supply side issues triggered falls across the commodity complex, despite 
 
 *By*[*Daniel Hynes*](https://www.linkedin.com/in/dahynes/)
 
-![Στιγμιότυπο Οθόνης 2024 06 05 102326](assets/2024-06-05_enypt0pu0gihyoyvad0cui9zv9t4jf_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_f1c7ac0201fa.png)
+![Στιγμιότυπο Οθόνης 2024 06 05 102326](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-06-05_enypt0pu0gihyoyvad0cui9zv9t4jf_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_f1c7ac0201fa.png)
 
 > **Figure 1: Στιγμιότυπο Οθόνης 2024 06 05 102326**  
-> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-06-05_enypt0pu0gihyoyvad0cui9zv9t4jf_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_f1c7ac0201fa.png)
+> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-06-05_enypt0pu0gihyoyvad0cui9zv9t4jf_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_f1c7ac0201fa.png)
 
 ### Market Commentary
 
@@ -41,10 +41,10 @@ The prospect of easing monetary policy saw**copper**lead the base metals higher 
 
 **Iron ore**futures remained under pressure over concerns on Chinese demand. The lack of a majority win by the Modi government also leaves a question mark over India’s infrastructure buildout which has supported steel demand.
 
-![Στιγμιότυπο Οθόνης 2024 06 05 102538](assets/2024-06-05_enypt0pu0gihyoyvad0cui9zv9t4jf_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_52c07a41a65b.png)
+![Στιγμιότυπο Οθόνης 2024 06 05 102538](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-06-05_enypt0pu0gihyoyvad0cui9zv9t4jf_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_52c07a41a65b.png)
 
 > **Figure 2: Στιγμιότυπο Οθόνης 2024 06 05 102538**  
-> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-06-05_enypt0pu0gihyoyvad0cui9zv9t4jf_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_52c07a41a65b.png)
+> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-06-05_enypt0pu0gihyoyvad0cui9zv9t4jf_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_52c07a41a65b.png)
 
 Data source:[Commodities Wrap](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI)
 

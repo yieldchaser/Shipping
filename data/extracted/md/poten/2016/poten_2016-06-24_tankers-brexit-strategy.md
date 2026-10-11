@@ -28,10 +28,18 @@ Given the short-haul nature of the UK - EU crude oil and product trades, any cha
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: Tankers Brexit Strategy](../../../charts/poten/2016/poten_2016-06-24_tankers-brexit-strategy_chart1.png)
+![Exhibit 1: UK Oil Exports to EU Countries](../../../charts/poten/2016/poten_2016-06-24_tankers-brexit-strategy_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2016/poten_2016-06-24_tankers-brexit-strategy_chart1.png)
+> **Exhibit 1: UK Oil Exports to EU Countries**  
+> Unit: Ktons/Qtr · X-axis: 1Q2005 to 1Q2016  
+> Series: Crude Oil, Naphtha, Gasoline, Jet Fuel, Mid Dist., Res. FO  
+> *Source: IEA*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2016/poten_2016-06-24_tankers-brexit-strategy_chart1.png)
 
-![Exhibit 2: Tankers Brexit Strategy](../../../charts/poten/2016/poten_2016-06-24_tankers-brexit-strategy_chart2.png)
+![Exhibit 2: UK Oil Imports from EU Countries](../../../charts/poten/2016/poten_2016-06-24_tankers-brexit-strategy_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2016/poten_2016-06-24_tankers-brexit-strategy_chart2.png)
+> **Exhibit 2: UK Oil Imports from EU Countries**  
+> Unit: KTons/qtr · X-axis: 1Q2005 to 1Q2016  
+> Series: Crude Oil, Naphtha, Gasoline, Jet Fuel, Mid Dist., Res. FO  
+> *Source: IEA*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2016/poten_2016-06-24_tankers-brexit-strategy_chart2.png)

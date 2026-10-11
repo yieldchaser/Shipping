@@ -120,6 +120,32 @@ The Pareto effect or 80/20 rule, where most of the activity in an industry is co
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: From Whence Doth the Business Cometh?](../../../charts/poten/2005/poten_2005-01-21_from-whence-doth-the-business-cometh_chart1.png)
+> **Chart on PDF page 1: 2004 Clean Fixture Activity by Tanker Type**  
+> Unit: Fixtures | % · X-axis: Aframax to Handymax  
+> Series: Aframax, Panamax, Handymax  
+> *Source: Poten & Partners*  
+> *No image crop of this chart was saved; caption read from the PDF.*
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2005/poten_2005-01-21_from-whence-doth-the-business-cometh_chart1.png)
+> **Chart on PDF page 2: Total Clean Fixtures for Leading Charterers 2004**  
+> Unit: % · X-axis: 0% to 9%  
+> Series: Shell, BP, Vitol, ChevronTexaco, ExxonMobil, Itochu, Citgo, Total, Glencore  
+> *Source: Poten & Partners*  
+> *No image crop of this chart was saved; caption read from the PDF.*
+
+> **Chart on PDF page 3: Leading Charterers for Aframax Clean Fixtures**  
+> Unit: % · X-axis: 0% to 9%  
+> Series: Fixtures  
+> *Source: Poten & Partners*  
+> *No image crop of this chart was saved; caption read from the PDF.*
+
+> **Chart on PDF page 3: Leading Charterers for Panamax Clean Fixtures**  
+> Unit: % · X-axis: 0% to 8%  
+> Series: Fixtures  
+> *Source: Poten & Partners*  
+> *No image crop of this chart was saved; caption read from the PDF.*
+
+> **Chart on PDF page 4: Leading Charterers for Handymax Clean Fixtures**  
+> Unit: Fixtures | % · X-axis: Shell to Petco  
+> Series: Fixtures  
+> *Source: Poten & Partners*  
+> *No image crop of this chart was saved; caption read from the PDF.*

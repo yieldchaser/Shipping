@@ -40,16 +40,16 @@ From the treaty between Iran and the US to a new Prime Minister in the UK, the g
 
 However, the most important news for global investors, businesses and consumers came from the inaugural meeting of the new Fed Chair, Kevin Warsh, who adopted a slightly more hawkish tone than previously expected. Projections for a rate hike in the US shifted materially upward. Nine of the eighteen Fed members who voted, project at least one rate hike in 2026 with markets now pricing in virtually two.
 
-![Market Chart 1](assets/2026-06-24_did-the-fed-drive-the-tech-selloff_img_image006_ddc7d193fdae.png)
+![Market Chart 1](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-06-24_did-the-fed-drive-the-tech-selloff_img_image006_ddc7d193fdae.png)
 
 > **Figure 1: Market Chart 1**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-06-24_did-the-fed-drive-the-tech-selloff_img_image006_ddc7d193fdae.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-06-24_did-the-fed-drive-the-tech-selloff_img_image006_ddc7d193fdae.png)
 
-![However](assets/2026-06-24_did-the-fed-drive-the-tech-selloff_img_image007_f68516d069e6.png)
+![However](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-06-24_did-the-fed-drive-the-tech-selloff_img_image007_f68516d069e6.png)
 
 > **Figure 2: However**  
 > *However, when it comes down to it, the hawkish shift is not yet too material. Ancient Spartans often said that “being laconic” is philosophy («τὸ λακωνίζειν πολὺ μᾶλλόν ἐστιν φιλοσοφεῖν»). They felt that using no more words than absolutely necessary to express their full intent was an art and, importantly, left little room for misinterpretation. Similarly, the Fed being more laconic is not necessarily a sign of tighter lending conditions. “Forward guidance” and extensive interviews were a product of the Global Financial Crisis, when markets needed to feel that the Fed would suppress risks, so they could more safely deploy their investments. It has since been associated with the “Fed Put”, even though the Fed’s promise to intervene in times of stress predates it by more than a decade. Removal of excess explaining does not mean removal of the Fed Put itself. It simply moves it from the realm of the “explicit” to the realm of the “slightly more implicit”, leaving the central bank more room to make decisions without markets panicking every time it doesn’t come to the rescue.*  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-06-24_did-the-fed-drive-the-tech-selloff_img_image007_f68516d069e6.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-06-24_did-the-fed-drive-the-tech-selloff_img_image007_f68516d069e6.png)
 
 PCE inflation projections were revised sharply higher to 3.6%, while GDP growth was trimmed to 2.2%. Forward guidance, a tool to soothe markets since 2008, was dropped entirely from a significantly shortened policy statement.
 
@@ -67,11 +67,11 @@ One of his most hawkish tells is his long-standing idea that the Fed should redu
 
 As for the balance sheet of the Fed, the reality is that this has been underway for some time. Since 2022, the Fed’s balance sheet has shrunk by a third. Nevertheless, equities are up 63%. Treasuries, however, have only gained 3%, but this is mostly a result of the sharp rate hikes in 2022 rather than Fed assets. And the real economy has grown at a satisfactory pace, an average of 2.6% per annum since 2022.
 
-![Simply Put](assets/2026-06-24_did-the-fed-drive-the-tech-selloff_img_image008_1fc415233af2.png)
+![Simply Put](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-06-24_did-the-fed-drive-the-tech-selloff_img_image008_1fc415233af2.png)
 
 > **Figure 3: Simply Put**  
 > *Simply put, the Fed is not the only game in town anymore.*  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-06-24_did-the-fed-drive-the-tech-selloff_img_image008_1fc415233af2.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-06-24_did-the-fed-drive-the-tech-selloff_img_image008_1fc415233af2.png)
 
 Also, importantly, the economy is not too leveraged, so it doesn’t completely depend on credit availability.
 

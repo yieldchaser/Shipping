@@ -25,7 +25,7 @@ source_file: "corpus/03-breakwave/insights/2021/2021-05-28_trade-tensions-back-o
 ![Us China1](assets/2021-05-28_trade-tensions-back-on-the-trans-pacific-agenda_img_uschina1_5900e6b585e3.jpg)
 
 > **Figure 1: Us China1**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2021/assets/2021-05-28_trade-tensions-back-on-the-trans-pacific-agenda_img_uschina1_5900e6b585e3.jpg)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-05-28_trade-tensions-back-on-the-trans-pacific-agenda_img_uschina1_5900e6b585e3.jpg)
 
 The trade tensions between the US and China of recent years have been largely absent in the news flow during the past few months. There has been no shortage of potential flashpoints between the two countries, but trade has not featured in any meaningful way in the disagreements since President Biden was inaugurated. While many analysts view this week’s over-due resumption of trade talks as a positive development, any immediate breakthroughs look unlikely to materialise. The comment by the White House’s top official for Asia, Kurt Campbell, earlier in the week that the US see the bilateral relations shifting from engagement to competition and the US calls for increased Chinese transparency on the COVID19 virus could add to an already complicated picture. Reports that China is increasing the inspections of corn imported from the US, which led to some mills cancelling their US cargoes, could potentially be seen as a Chinese response to surging commodity prices and heightened US political rhetoric. However, less than one million tonnes of corn have so far been cancelled, which, as Beijing has boosted its purchases to fulfil its commitments under the phase-one trade deal, must be seen as fairly limited damage.
 
@@ -35,7 +35,7 @@ The ambitious commitments made by China during the phase-one trade negotiations 
 
 > **Figure 2: Data Source:the Peterson Institute for International Economics**  
 > *Data source:the Peterson Institute for International Economics*  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2021/assets/2021-05-28_trade-tensions-back-on-the-trans-pacific-agenda_img_ulf528_02ee6a566f12.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-05-28_trade-tensions-back-on-the-trans-pacific-agenda_img_ulf528_02ee6a566f12.png)
 
 From a US export perspective, the numbers look even more underwhelming with agricultural exports reaching 79 per cent of target and manufactured goods and energy lagging at 64 and 32 per cent of targets respectively. The agreement allows for both data sets to be used, making any conclusions a bit ambiguous. However, the Biden administration’s earlier insistence on China living up to its commitments under the accord should maintain a strong flow of US exports heading for Chinese ports. The cancellation of corn shipments should probably be seen as part of the current efforts to control market prices, rather than a serious attempt to reduce the imports.
 
@@ -46,7 +46,7 @@ There is also a concern that the high commodity prices will drive inflation high
 ![Ulf 2 5.28](assets/2021-05-28_trade-tensions-back-on-the-trans-pacific-agenda_img_ulf2528_7f895e768317.jpg)
 
 > **Figure 3: Ulf 2 5.28**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2021/assets/2021-05-28_trade-tensions-back-on-the-trans-pacific-agenda_img_ulf2528_7f895e768317.jpg)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-05-28_trade-tensions-back-on-the-trans-pacific-agenda_img_ulf2528_7f895e768317.jpg)
 
 ---
 

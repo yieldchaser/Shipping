@@ -26,10 +26,10 @@ The Baltic Dry Index’s closing at 1410 points this week highlights persistent 
 
 Meanwhile, Supramax and Handysize segments displayed relative resilience, with the BSI 11TC and BHSI TC averages at $15,669 and $13,098 per day, respectively. This stability hints at consistent, if modest, demand for minor bulk commodities and localized trade, though overall growth remains tepid. Broadly, this week's softening in spot rates encapsulates an economic environment of stable but underwhelming growth, underlining soft demand in global trade.
 
-![Στιγμιότυπο Οθόνης 2024 10 28 101643](assets/2024-10-28_jc00owfigv51y67ymsdan8ee6lp8n9_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_845c2b1df750.png)
+![Στιγμιότυπο Οθόνης 2024 10 28 101643](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-10-28_jc00owfigv51y67ymsdan8ee6lp8n9_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_845c2b1df750.png)
 
 > **Figure 1: Στιγμιότυπο Οθόνης 2024 10 28 101643**  
-> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-10-28_jc00owfigv51y67ymsdan8ee6lp8n9_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_845c2b1df750.png)
+> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-10-28_jc00owfigv51y67ymsdan8ee6lp8n9_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_845c2b1df750.png)
 
 The outlook for global economic growth remains stable yet constrained, as the International Monetary Fund (IMF) projects a gradual deceleration from 3.3 percent in 2023 to 3.1 percent by 2029. Growth dynamics among advanced economies show stagnation; the US economy is slowing as it nears its growth potential, while the euro area is gradually recovering from an economic slump due to improved exports. Emerging economies, particularly in Asia, have experienced growth from the tech and electronics sectors, driven by investments in artificial intelligence. In China, despite persisting weakness in the real estate sector and low consumer confidence, growth is projected to have slowed only marginally to 4.8 percent in 2024, largely thanks to better-than-expected net exports. Meanwhile, oil production cuts and geopolitical disruptions have dampened growth forecasts in regions like the Middle East and Africa, reinforcing a disparity in growth rates across regions. The stability in global projections underscores an economic environment that, although balanced, lacks significant momentum to spur a notable uptick in demand for dry bulk shipping.
 
@@ -41,10 +41,10 @@ Global steel production has similarly felt the pinch, with demand forecasted to 
 
 The current state of the global economy and trade, while stabilized, remains fragile, with inflation, sluggish trade growth, and regional disparities in steel demand continuing to exert downward pressure on shipping rates. Global economic policy responses, particularly those aimed at inflation and trade resilience, will be instrumental in shaping market recovery paths. A consistent alignment of inflation with target rates, paired with an uptick in trade activity, could bolster incremental recovery in the shipping sector. However, economic pressures are likely to keep the market cautious in the near term. For the remainder of the year, the spot market does not seem poised to benefit significantly from a traditional seasonal boost that typically brings positive momentum in early Q4, as this uplift has yet to materialize and may remain elusive as the year-end approaches.
 
-![Στιγμιότυπο Οθόνης 2024 10 28 101701](assets/2024-10-28_jc00owfigv51y67ymsdan8ee6lp8n9_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_ee912cb5b982.png)
+![Στιγμιότυπο Οθόνης 2024 10 28 101701](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-10-28_jc00owfigv51y67ymsdan8ee6lp8n9_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_ee912cb5b982.png)
 
 > **Figure 2: Στιγμιότυπο Οθόνης 2024 10 28 101701**  
-> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-10-28_jc00owfigv51y67ymsdan8ee6lp8n9_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_ee912cb5b982.png)
+> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-10-28_jc00owfigv51y67ymsdan8ee6lp8n9_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_ee912cb5b982.png)
 
 Data source:[Doric](https://www.doric.gr/)
 

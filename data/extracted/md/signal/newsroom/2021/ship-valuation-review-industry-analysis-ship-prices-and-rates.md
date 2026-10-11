@@ -48,11 +48,11 @@ Using Signal Ocean benchmark values, we can see the current trend of values in t
 The image (1) displays the price assessments for dry and tanker vessels classes, as an average value for the period of January - August and the difference of upward movement between the average monthly value for January and August.
 
 
-![Image 1: Signal Ocean Data| Benchmark Values’ Methodology: Values and Their Trend Are Estimated by Aggregating a List of Widely Distributed Sales & Purchase Transactions Reports](../../images/66b51d6a474bb048e3c1943b_6151b8c3b97f4035b5d43271_Signal%20ocean%20platform%20benchmark%20ship%20valuation%20per%20class%20and%20deadweight.avif)
+![Image 1: Signal Ocean Data| Benchmark Values’ Methodology: Values and Their Trend Are Estimated by Aggregating a List of Widely Distributed Sales & Purchase Transactions Reports](../../images/66b51d6a474bb048e3c1943b_6151b8c3b97f4035b5d43271_Signal%2520ocean%2520platform%2520benchmark%2520ship%2520valuation%2520per%2520class%2520and%2520deadweight.avif)
 
 > **Figure 1: Image 1: Signal Ocean Data| Benchmark Values’ Methodology: Values and Their Trend Are Estimated by Aggregating a List of Widely Distributed Sales & Purchase Transactions Reports**  
 > *Image 1: Signal Ocean Data| Benchmark Values’ Methodology: values and their trend are estimated by aggregating a list of widely distributed Sales & Purchase transactions Reports. Valuations are based on a benchmark ship valuation per class and deadweight*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/ship-valuation-review-industry-analysis-ship-prices-and-rates) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/66b51d6a474bb048e3c1943b_6151b8c3b97f4035b5d43271_Signal%20ocean%20platform%20benchmark%20ship%20valuation%20per%20class%20and%20deadweight.avif)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/ship-valuation-review-industry-analysis-ship-prices-and-rates) | [Local Asset](../../../../../../corpus/07-signal/images/66b51d6a474bb048e3c1943b_6151b8c3b97f4035b5d43271_Signal%2520ocean%2520platform%2520benchmark%2520ship%2520valuation%2520per%2520class%2520and%2520deadweight.avif)
 
 
 ## Ii. Estimated Market Ship Valuations | Dry Bulkers in Focus
@@ -71,20 +71,20 @@ The plotted line of market rates ($/t) represents clearly the recovery that foll
 **Freight Market Snapshot**
 
 
-![Image 2: Signal Ocean Data| Market Rates $/t, Capesize (Brazil to N China), Panamax (Cont to Far East), Supramax (Ecsa to Far East), Handysize (Brazil to Cont)](../../images/66b51d6a474bb048e3c19455_6151c41963a858329fa2c4d8_Signal%20Ocean%20Data%20Dry%20Market%20Rates%20v2.avif)
+![Image 2: Signal Ocean Data| Market Rates $/t, Capesize (Brazil to N China), Panamax (Cont to Far East), Supramax (Ecsa to Far East), Handysize (Brazil to Cont)](../../images/66b51d6a474bb048e3c19455_6151c41963a858329fa2c4d8_Signal%2520Ocean%2520Data%2520Dry%2520Market%2520Rates%2520v2.avif)
 
 > **Figure 2: Image 2: Signal Ocean Data| Market Rates $/t, Capesize (Brazil to N China), Panamax (Cont to Far East), Supramax (Ecsa to Far East), Handysize (Brazil to Cont)**  
 > *Image 2: Signal Ocean Data| Market Rates $/t, Capesize (Brazil to N China), Panamax (Cont to Far East), Supramax (ECSA to Far East), Handysize (Brazil to Cont)*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/ship-valuation-review-industry-analysis-ship-prices-and-rates) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/66b51d6a474bb048e3c19455_6151c41963a858329fa2c4d8_Signal%20Ocean%20Data%20Dry%20Market%20Rates%20v2.avif)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/ship-valuation-review-industry-analysis-ship-prices-and-rates) | [Local Asset](../../../../../../corpus/07-signal/images/66b51d6a474bb048e3c19455_6151c41963a858329fa2c4d8_Signal%2520Ocean%2520Data%2520Dry%2520Market%2520Rates%2520v2.avif)
 
 The question is to see the influence of the positive spot freight market volatility on estimated market ship valuations. Image (3) presents an asset valuation report for bulkers, per main class, and how much more expensive a ship of 0 to 5 year old is today compared to a 5 to 10 and 10 to 15 year old ship. The upturn of freight rates is reflected in the steep incline of vessel valuations from 2019 to year-to-date values. It is interesting to see the upward movement in the value of a Capesize modern bulker (0-5 year old) that went up to 42M$ surpassing the barrier of 40M$ during July and August. In the Panamax segment, estimated market ship values reacted with weaker momentum with figures below the barrier of 30M$. For a 0 to 5 year old Panamax bulker, the calculations for the estimated market ship valuation was standing at the end of August only 2M$ above the value of a 0 to 5 year old Supramax.
 
 
-![Image 3: Signal Ocean Data| Estimated Market Ship Valuations Methodology Calculations Are Derived by the Benchmark Price Curve and Based on Specific Valuation Criteria Adjustments (I.e Vessel Engine: Most Vessels Are Fitted with a Man B&w Engine Which Have Widely Distributed Spare Parts and Operation Manuals](../../images/66b51d6a474bb048e3c19452_6151ba8799f2c17a0b87093b_Signal%20Ocean%20Data%20Estimated%20Market%20Ship%20Valuation.avif)
+![Image 3: Signal Ocean Data| Estimated Market Ship Valuations Methodology Calculations Are Derived by the Benchmark Price Curve and Based on Specific Valuation Criteria Adjustments (I.e Vessel Engine: Most Vessels Are Fitted with a Man B&w Engine Which Have Widely Distributed Spare Parts and Operation Manuals](../../images/66b51d6a474bb048e3c19452_6151ba8799f2c17a0b87093b_Signal%2520Ocean%2520Data%2520Estimated%2520Market%2520Ship%2520Valuation.avif)
 
 > **Figure 3: Image 3: Signal Ocean Data| Estimated Market Ship Valuations Methodology Calculations Are Derived by the Benchmark Price Curve and Based on Specific Valuation Criteria Adjustments (I.e Vessel Engine: Most Vessels Are Fitted with a Man B&w Engine Which Have Widely Distributed Spare Parts and Operation Manuals**  
 > *Image 3: Signal Ocean Data| Estimated Market Ship Valuations Methodology calculations are derived by the benchmark price curve and based on specific valuation criteria adjustments (i.e Vessel Engine: Most vessels are fitted with a Man B&W engine which have widely distributed spare parts and operation manuals. When a vessel is not fitted with such an engine it is penalized by 700K per 100K deadweight. Fitted with Scrubbers: When a vessel has scrubbers it will get a premium of 1.5ml. Ice class vessel: When a vessel has an ice-class notation it will be awarded 500K.Country built:When a vessel is dry bulk and built in Japan it will be awarded 7% on its basic valuation. Shipyard built:When a vessel is built in a non-state Chinese shipyard, it will be penalized by 5% on its basic valuation.*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/ship-valuation-review-industry-analysis-ship-prices-and-rates) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/66b51d6a474bb048e3c19452_6151ba8799f2c17a0b87093b_Signal%20Ocean%20Data%20Estimated%20Market%20Ship%20Valuation.avif)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/ship-valuation-review-industry-analysis-ship-prices-and-rates) | [Local Asset](../../../../../../corpus/07-signal/images/66b51d6a474bb048e3c19452_6151ba8799f2c17a0b87093b_Signal%2520Ocean%2520Data%2520Estimated%2520Market%2520Ship%2520Valuation.avif)
 
 **Vessel Valuation Ratio: Price comparison between a 0-5 and 5-10 year old ship**
 
@@ -93,11 +93,11 @@ The upturn in ship valuations appeared simultaneously for overall the segment as
 Although vessel valuations indicate an upward trend that comes along the same pattern for all main vessel classes, it's interesting to compare the ship valuation ratios between a modern and vintage tonnage. The first part of the image indicates that ratios for Panamax, including kamsarmax, of vintage tonnage 5-10 are now fluctuating at lower figures compared to the highs of 2019-2020, revealing that buyers’ interest is targeting Capesize bulkers and smaller ship sizes. The valuation ratio of 5-10 year old versus 0-5 year old ships is now at an increasing trend that confirms that second hand Capesize, Supramax and Handysize bulkers from 5 to 10 year old ships will be more expensive as the freight market continues to pose profitable levels.
 
 
-![Image 4: Signal Ocean Data| Estimated Market Values and Valuation Price Ratio per Vessel Class and Age](../../images/66b51d6a474bb048e3c19458_6151bacb00e9379184dcfbfa_Signal%20Ocean%20Data%20Estimated%20Market%20Values%20and%20Valuation%20Price%20Ratio%20per%20vessel%20class%20and%20age.avif)
+![Image 4: Signal Ocean Data| Estimated Market Values and Valuation Price Ratio per Vessel Class and Age](../../images/66b51d6a474bb048e3c19458_6151bacb00e9379184dcfbfa_Signal%2520Ocean%2520Data%2520Estimated%2520Market%2520Values%2520and%2520Valuation%2520Price%2520Ratio%2520per%2520vessel%2520class%2520and%2520age.avif)
 
 > **Figure 4: Image 4: Signal Ocean Data| Estimated Market Values and Valuation Price Ratio per Vessel Class and Age**  
 > *Image 4: Signal Ocean Data| Estimated Market Values and Valuation Price Ratio per vessel class and age*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/ship-valuation-review-industry-analysis-ship-prices-and-rates) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/66b51d6a474bb048e3c19458_6151bacb00e9379184dcfbfa_Signal%20Ocean%20Data%20Estimated%20Market%20Values%20and%20Valuation%20Price%20Ratio%20per%20vessel%20class%20and%20age.avif)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/ship-valuation-review-industry-analysis-ship-prices-and-rates) | [Local Asset](../../../../../../corpus/07-signal/images/66b51d6a474bb048e3c19458_6151bacb00e9379184dcfbfa_Signal%2520Ocean%2520Data%2520Estimated%2520Market%2520Values%2520and%2520Valuation%2520Price%2520Ratio%2520per%2520vessel%2520class%2520and%2520age.avif)
 
 **Estimated Market Ship Valuations - Spot Freight Market Volatility**
 
@@ -107,11 +107,11 @@ The question is how spot volatility of freight rates influenced the direction of
 #### Capesize & Panamax, 5-10 Year Old Ships
 
 
-![Image 5: Signal Ocean Data| Estimated Market Ship Valuations 5-10 Year Old Ships and Spot Freight Volatility Capesize vs Panamax](../../images/66b51d6a474bb048e3c19467_6151bb28bab16668e1b1f94c_Signal%20Ocean%20Estimated%20Market%20Ship%20Valuations%20%20and%20Spot%20Freight%20Volatility%20Capesize%20Vs%20Panamax.avif)
+![Image 5: Signal Ocean Data| Estimated Market Ship Valuations 5-10 Year Old Ships and Spot Freight Volatility Capesize vs Panamax](../../images/66b51d6a474bb048e3c19467_6151bb28bab16668e1b1f94c_Signal%2520Ocean%2520Estimated%2520Market%2520Ship%2520Valuations%2520%2520and%2520Spot%2520Freight%2520Volatility%2520Capesize%2520Vs%2520Panamax.avif)
 
 > **Figure 5: Image 5: Signal Ocean Data| Estimated Market Ship Valuations 5-10 Year Old Ships and Spot Freight Volatility Capesize vs Panamax**  
 > *Image 5: Signal Ocean Data| Estimated Market Ship Valuations 5-10 year old Ships and Spot Freight Volatility Capesize Vs Panamax*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/ship-valuation-review-industry-analysis-ship-prices-and-rates) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/66b51d6a474bb048e3c19467_6151bb28bab16668e1b1f94c_Signal%20Ocean%20Estimated%20Market%20Ship%20Valuations%20%20and%20Spot%20Freight%20Volatility%20Capesize%20Vs%20Panamax.avif)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/ship-valuation-review-industry-analysis-ship-prices-and-rates) | [Local Asset](../../../../../../corpus/07-signal/images/66b51d6a474bb048e3c19467_6151bb28bab16668e1b1f94c_Signal%2520Ocean%2520Estimated%2520Market%2520Ship%2520Valuations%2520%2520and%2520Spot%2520Freight%2520Volatility%2520Capesize%2520Vs%2520Panamax.avif)
 
 In the [Supramax](https://www.thesignalgroup.com/newsroom/dry-bulk-supramax-freight-market-surprises-for-the-first-half-2021) and Handysize segment, the differential compared to Capesize, is that buyers were already in a strong interest of purchasing smaller ship sizes driven by the buoyant grain demand fundamentals. Thus, the trend of vessel valuations was already on the high side. The shifting trend comes in the Handysize segment, where the surprising freight market recovery during the summer season, from June till August, boosted the pricing sentiment of negotiations between sellers and buyers. This flow of demand led estimated market ship valuations to fluctuate significantly above the average value of previous months. (Image 6)
 
@@ -119,11 +119,11 @@ In the [Supramax](https://www.thesignalgroup.com/newsroom/dry-bulk-supramax-frei
 #### Supramax & Handysize, 5-10 Year Old Ships
 
 
-![Image 6: Signal Ocean Data| Estimated Market Ship Valuations 5-10 Year Old Ships and Spot Freight Volatility Supramax vs Handysize](../../images/66b51d6a474bb048e3c194e6_6151bb84a5a7bd09e03ea856_Signal%20Ocean%20Estimated%20Market%20Ship%20Valuations%20and%20Spot%20Freight%20Volatility%20Supramax%20Vs%20Handysize.avif)
+![Image 6: Signal Ocean Data| Estimated Market Ship Valuations 5-10 Year Old Ships and Spot Freight Volatility Supramax vs Handysize](../../images/66b51d6a474bb048e3c194e6_6151bb84a5a7bd09e03ea856_Signal%2520Ocean%2520Estimated%2520Market%2520Ship%2520Valuations%2520and%2520Spot%2520Freight%2520Volatility%2520Supramax%2520Vs%2520Handysize.avif)
 
 > **Figure 6: Image 6: Signal Ocean Data| Estimated Market Ship Valuations 5-10 Year Old Ships and Spot Freight Volatility Supramax vs Handysize**  
 > *Image 6: Signal Ocean Data| Estimated Market Ship Valuations 5-10 year old Ships and Spot Freight Volatility Supramax Vs Handysize*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/ship-valuation-review-industry-analysis-ship-prices-and-rates) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/66b51d6a474bb048e3c194e6_6151bb84a5a7bd09e03ea856_Signal%20Ocean%20Estimated%20Market%20Ship%20Valuations%20and%20Spot%20Freight%20Volatility%20Supramax%20Vs%20Handysize.avif)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/ship-valuation-review-industry-analysis-ship-prices-and-rates) | [Local Asset](../../../../../../corpus/07-signal/images/66b51d6a474bb048e3c194e6_6151bb84a5a7bd09e03ea856_Signal%2520Ocean%2520Estimated%2520Market%2520Ship%2520Valuations%2520and%2520Spot%2520Freight%2520Volatility%2520Supramax%2520Vs%2520Handysize.avif)
 
 **Conclusion**
 

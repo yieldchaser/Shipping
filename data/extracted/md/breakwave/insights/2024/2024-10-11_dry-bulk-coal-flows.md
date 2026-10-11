@@ -28,10 +28,10 @@ October 11, 2024
 
 *This week's focus highlights the growing dependence of Southeast Asian countries, particularly Vietnam and the Philippines, on dry bulk coal imports. As these economies expand, their energy demands are rapidly increasing, and coal remains a crucial component of their energy mix, despite global efforts to transition toward cleaner energy sources. Data from 2023-2024 reveals a substantial surge in coal shipments to Vietnam and the Philippines compared to 2021-2022. Australia stands out as the top supplier of coal to Vietnam, commanding a 40% share of total shipments. Meanwhile, Indonesia dominates coal shipments to the Philippines, capturing a 90% share of the country's total coal imports. As the world's largest exporter of thermal coal, Indonesia plays a critical role in meeting the Philippines' energy needs. In*[*January*](https://go.signalocean.com/e/983831/arket-monitor-dry-week-04-2024/2qmg17/441394830/h/-bASq9Ae4r5LhCyicv8vSMBJbRpxVC5g7DE8giZCgBk)*, we highlighted the substantial decline in Russian coal shipments to China.*
 
-![Στιγμιότυπο Οθόνης 2024 10 11 154627](assets/2024-10-11_dry-bulk-coal-flows_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_a72b6bd9a3c9.png)
+![Στιγμιότυπο Οθόνης 2024 10 11 154627](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-10-11_dry-bulk-coal-flows_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_a72b6bd9a3c9.png)
 
 > **Figure 1: Στιγμιότυπο Οθόνης 2024 10 11 154627**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-10-11_dry-bulk-coal-flows_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_a72b6bd9a3c9.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-10-11_dry-bulk-coal-flows_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_a72b6bd9a3c9.png)
 
 This week's focus is on the increasing dependence of Southeast Asian countries on dry bulk coal flows, particularly as China and India are expected to reduce their share in the coming months. Southeast Asia is becoming a critical growth region for coal demand, even as global efforts to transition to renewable energy intensify. The energy industry has already identified countries such as Vietnam and the Philippines as key players set to expand their coal trade and consumption throughout this decade.
 
@@ -41,10 +41,10 @@ As shown in the graphs above, the quarterly quantity of coal tons sent from all 
 
 Southeast Asia’s growing demand for coal has broader implications for global energy markets. With China and India scaling down their coal consumption in favour of cleaner energy sources, coal suppliers will increasingly turn to Southeast Asia to maintain trade volumes. The region's reliance on coal, however, raises concerns about its carbon footprint, potentially placing these countries at odds with global climate targets. Still, in the short to medium term, coal will remain a cornerstone of Southeast Asia's energy strategy, providing an affordable and reliable source of power as these countries seek to balance economic growth with energy security.
 
-![Στιγμιότυπο Οθόνης 2024 10 11 154741](assets/2024-10-11_dry-bulk-coal-flows_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_0b0278b7953d.png)
+![Στιγμιότυπο Οθόνης 2024 10 11 154741](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-10-11_dry-bulk-coal-flows_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_0b0278b7953d.png)
 
 > **Figure 2: Στιγμιότυπο Οθόνης 2024 10 11 154741**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-10-11_dry-bulk-coal-flows_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_0b0278b7953d.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-10-11_dry-bulk-coal-flows_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_0b0278b7953d.png)
 
 The dry bulk freight market has displayed mixed sentiment in the second week of October, with a softening trend observed in the Capesize Brazil–North China route, while signs of an upward trend are emerging in the Panamax Continent–Far East route.
 
@@ -53,10 +53,10 @@ The dry bulk freight market has displayed mixed sentiment in the second week of 
 - **Supramax**vessel freight rates on the Indo-ECI route remain around $11 per ton, reflecting an 8% increase compared to the previous month.
 - **Handysize**freight rates for the NOPAC Far East route have remained steady at $35 per ton since April, marking a 15% increase compared to the same period last year.
 
-![Στιγμιότυπο Οθόνης 2024 10 11 154837](assets/2024-10-11_dry-bulk-coal-flows_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_13113c500e6b.png)
+![Στιγμιότυπο Οθόνης 2024 10 11 154837](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-10-11_dry-bulk-coal-flows_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_13113c500e6b.png)
 
 > **Figure 3: Στιγμιότυπο Οθόνης 2024 10 11 154837**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-10-11_dry-bulk-coal-flows_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_13113c500e6b.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-10-11_dry-bulk-coal-flows_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_13113c500e6b.png)
 
 The second week of October is characterised by a steady downward trend in the number of ballasters across all vessel size categories, with the exception of the Handysize NOPAC market. Meanwhile, the Capesize market in Southeast Africa has shown consistent signs of increase.
 
@@ -65,10 +65,10 @@ The second week of October is characterised by a steady downward trend in the nu
 - **Supramax SE Asia**: The number of ballast ships declined further to below 95 vessels, continuing the downward trend that began at the end of week 40.
 - **Handysize NOPAC**: The number of ballasters surged to its highest level of the year at 97, which is 17 above the annual trend.
 
-![Στιγμιότυπο Οθόνης 2024 10 11 154921](assets/2024-10-11_dry-bulk-coal-flows_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_3f645809ff6d.png)
+![Στιγμιότυπο Οθόνης 2024 10 11 154921](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-10-11_dry-bulk-coal-flows_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_3f645809ff6d.png)
 
 > **Figure 4: Στιγμιότυπο Οθόνης 2024 10 11 154921**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-10-11_dry-bulk-coal-flows_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_3f645809ff6d.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-10-11_dry-bulk-coal-flows_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_3f645809ff6d.png)
 
 In the second week of October, the outlook for dry tonne-days shows a decreasing trend for the Capesize segment, while signs of upward revisions are emerging in the Panamax and Supramax vessel segments.
 
@@ -77,10 +77,10 @@ In the second week of October, the outlook for dry tonne-days shows a decreasing
 - **Supramax**: Although the growth rate peaked before the end of September, it has maintained a similar momentum into the second week of October.
 - **Handysize**: The Handysize vessel segment has continued its downward trend for October, with the latest peak recorded at the end of week 31.
 
-![Στιγμιότυπο Οθόνης 2024 10 11 155010](assets/2024-10-11_dry-bulk-coal-flows_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_ecb071aeab90.png)
+![Στιγμιότυπο Οθόνης 2024 10 11 155010](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-10-11_dry-bulk-coal-flows_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_ecb071aeab90.png)
 
 > **Figure 5: Στιγμιότυπο Οθόνης 2024 10 11 155010**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-10-11_dry-bulk-coal-flows_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_ecb071aeab90.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-10-11_dry-bulk-coal-flows_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_ecb071aeab90.png)
 
 Congestion at Chinese dry bulk ports maintained a steady pace during the first two weeks of October, following a peak observed at the end of week 39.
 

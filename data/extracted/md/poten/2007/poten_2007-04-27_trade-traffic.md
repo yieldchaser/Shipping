@@ -58,6 +58,7 @@ With the United States economy staying healthy, it is anticipated that trade and
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: Trade & Traffic](../../../charts/poten/2007/poten_2007-04-27_trade-traffic_chart1.png)
-
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2007/poten_2007-04-27_trade-traffic_chart1.png)
+> **Chart on PDF page 1: MARAD**  
+> Unit: TEUs in Thousands · X-axis: Charleston to Virginia  
+> Series: 2004, 2020  
+> *No image crop of this chart was saved; caption read from the PDF.*

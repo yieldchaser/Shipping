@@ -40,4 +40,4 @@ This pipeline's impact on ton‐mile demand and total export volumes are likely 
 
 ![Exhibit 1: Strait Flush](../../../charts/poten/2010/poten_2010-04-16_strait-flush_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2010/poten_2010-04-16_strait-flush_chart1.png)
+> **Interactive Asset:** [Local Asset (200 DPI PNG)](../../../charts/poten/2010/poten_2010-04-16_strait-flush_chart1.png)

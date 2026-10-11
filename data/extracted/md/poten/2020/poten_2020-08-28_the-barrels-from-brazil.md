@@ -26,14 +26,26 @@ The IEA expects that production (and exports) will dip temporarily in the second
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: The Barrels From Brazil](../../../charts/poten/2020/poten_2020-08-28_the-barrels-from-brazil_chart1.png)
+![Exhibit 1: Brazil Crude Oil Balance](../../../charts/poten/2020/poten_2020-08-28_the-barrels-from-brazil_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2020/poten_2020-08-28_the-barrels-from-brazil_chart1.png)
+> **Exhibit 1: Brazil Crude Oil Balance**  
+> Unit: Mb/d · X-axis: Jan-15 to Jun-20  
+> Series: Exports, Refinery Intake, Production, Imports  
+> *Source: JODI*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2020/poten_2020-08-28_the-barrels-from-brazil_chart1.png)
 
-![Exhibit 2: The Barrels From Brazil](../../../charts/poten/2020/poten_2020-08-28_the-barrels-from-brazil_chart2.png)
+![Exhibit 2: 2020 Suezmax Export Voyages from Brazil](../../../charts/poten/2020/poten_2020-08-28_the-barrels-from-brazil_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2020/poten_2020-08-28_the-barrels-from-brazil_chart2.png)
+> **Exhibit 2: 2020 Suezmax Export Voyages from Brazil**  
+> Unit: Number of Voyages · X-axis: Jan to Dec  
+> Series: 2019, Chile, N America (Pac), US Gulf, Other Americas, China, Singapore, UKC/Baltic, Other  
+> *Source: Lloyds List Intelligence*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2020/poten_2020-08-28_the-barrels-from-brazil_chart2.png)
 
-![Exhibit 3: The Barrels From Brazil](../../../charts/poten/2020/poten_2020-08-28_the-barrels-from-brazil_chart3.png)
+![Exhibit 3: 2020 VLCC Export Voyages from Brazil](../../../charts/poten/2020/poten_2020-08-28_the-barrels-from-brazil_chart3.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2020/poten_2020-08-28_the-barrels-from-brazil_chart3.png)
+> **Exhibit 3: 2020 VLCC Export Voyages from Brazil**  
+> Unit: Number of Voyages · X-axis: Jan to Dec  
+> Series: 2019, China, Korea, Malaysia, India, Singapore, Japan, Indonesia, Other  
+> *Source: Lloyds List Intelligence*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2020/poten_2020-08-28_the-barrels-from-brazil_chart3.png)

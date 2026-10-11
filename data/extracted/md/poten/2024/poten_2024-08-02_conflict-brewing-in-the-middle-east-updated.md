@@ -40,8 +40,12 @@ What will happen in the next few days or weeks? The Houthi attacks on commercial
 
 ![Exhibit 1: Conflict Brewing In The Middle East (UPDATED)](../../../charts/poten/2024/poten_2024-08-02_conflict-brewing-in-the-middle-east-updated_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2024/poten_2024-08-02_conflict-brewing-in-the-middle-east-updated_chart1.png)
+> **Interactive Asset:** [Local Asset (200 DPI PNG)](../../../charts/poten/2024/poten_2024-08-02_conflict-brewing-in-the-middle-east-updated_chart1.png)
 
-![Exhibit 2: Conflict Brewing In The Middle East (UPDATED)](../../../charts/poten/2024/poten_2024-08-02_conflict-brewing-in-the-middle-east-updated_chart2.png)
+![Exhibit 2: Middle East Crude Oil & Product Exports (Excl LPG & Chem.)](../../../charts/poten/2024/poten_2024-08-02_conflict-brewing-in-the-middle-east-updated_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2024/poten_2024-08-02_conflict-brewing-in-the-middle-east-updated_chart2.png)
+> **Exhibit 2: Middle East Crude Oil & Product Exports (Excl LPG & Chem.)**  
+> Unit: Mb/d · X-axis: Jan-20 to May-24  
+> Series: Crude, Diesel/Gasoil, Fuel Oil, Other  
+> *Source: Vortexa*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2024/poten_2024-08-02_conflict-brewing-in-the-middle-east-updated_chart2.png)

@@ -25,10 +25,10 @@ Some ideas are meant to die in infancy, but they can still make a powerful state
 
 Cryptocurrencies were one of these novel, ground-breaking ideas bound to garner initial support. A new type of finite currency, in an age of money printing, that would bypass the banking system, on the back of a new and credible technology, the Blockchain. The idea seemed appealing. Yet, a little more than a decade later, it lies in tatters. The value of Bitcoin has dropped from $60,000 to $16,000 in two years. The collapse of FTX, a popular exchange, Three Arrows Capital, a crypto hedge fund, as well as crypto brokers Genesis Global Trading and Gemini, all tell a story of failing ‘asset’.
 
-![Market Chart 1](assets/2022-12-03_mazars-comment-the-near-demise-of-bitcoin-is-a-warning-make-capitalism-great-aga_img_image00128129_4c3a0490dbd4.png)
+![Market Chart 1](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-12-03_mazars-comment-the-near-demise-of-bitcoin-is-a-warning-make-capitalism-great-aga_img_image00128129_4c3a0490dbd4.png)
 
 > **Figure 1: Market Chart 1**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-12-03_mazars-comment-the-near-demise-of-bitcoin-is-a-warning-make-capitalism-great-aga_img_image00128129_4c3a0490dbd4.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-12-03_mazars-comment-the-near-demise-of-bitcoin-is-a-warning-make-capitalism-great-aga_img_image00128129_4c3a0490dbd4.png)
 
 For the time being, there seems to be no significant financial contagion. After all, the whole point of the enterprise was avoiding banks altogether. This means that the crypto world operated in a rather closed loop. But there are important lessons to be learned.
 
@@ -48,10 +48,10 @@ The first one is the potential dynamic of fringe narratives in the age of social
 
 Second, quite tangent is people’s evident disillusionment with the financial and economic system, especially among the younger cohorts. Young entrepreneurs weren’t going to banks to fund their ‘unicorns’. They knew they didn’t stand a chance, and if they did the terms would be onerous. Instead, they turned to private investors. Bitcoin was often seen as a way to get back at the global banking system, that so spectacularly collapsed in the Global Financial Crisis. A system that was rescued with taxpayer money and subsequently became less useful, as it stopped transferring wealth from savers to investors, focusing on healing and benefiting from asset price inflation. For Wall Street, it was the greatest Bull Market in history. For Main Street, it was fourteen years of what Larry Summers called ‘Secular Stagnation’. Bitcoin was seen as a way to make banks and other financial intermediaries irrelevant, in a world that was finding increasingly less use for them.
 
-![Market Chart 2](assets/2022-12-03_mazars-comment-the-near-demise-of-bitcoin-is-a-warning-make-capitalism-great-aga_img_image002_2f5c74671158.png)
+![Market Chart 2](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-12-03_mazars-comment-the-near-demise-of-bitcoin-is-a-warning-make-capitalism-great-aga_img_image002_2f5c74671158.png)
 
 > **Figure 2: Market Chart 2**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-12-03_mazars-comment-the-near-demise-of-bitcoin-is-a-warning-make-capitalism-great-aga_img_image002_2f5c74671158.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-12-03_mazars-comment-the-near-demise-of-bitcoin-is-a-warning-make-capitalism-great-aga_img_image002_2f5c74671158.png)
 
 Third, the global financial and political system could have easily quashed cryptocurrencies in their infancy. But it chose not to. Its goal is rather transparent. To use cryptocurrencies as a way to get people talking about digital currencies, produced by central banks. The era of the physical ‘wallet’ is fast coming to an end, and paper money, that have existed since at least the 10th century, may soon be consigned to history.
 

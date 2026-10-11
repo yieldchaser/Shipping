@@ -34,10 +34,18 @@ This means that the pipeline bottleneck that limited crude oil access to markets
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: More Oil In The Pipeline](../../../charts/poten/2019/poten_2019-04-12_more-oil-in-the-pipeline_chart1.png)
+![Exhibit 1: Midland vs Cushing Crude Oil Prices](../../../charts/poten/2019/poten_2019-04-12_more-oil-in-the-pipeline_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2019/poten_2019-04-12_more-oil-in-the-pipeline_chart1.png)
+> **Exhibit 1: Midland vs Cushing Crude Oil Prices**  
+> Unit: $/bbl · X-axis: Jan-17 to Mar-19  
+> Series: WTI Midland, WTI Cushing, Spread  
+> *Source: Bloomberg*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2019/poten_2019-04-12_more-oil-in-the-pipeline_chart1.png)
 
-![Exhibit 2: More Oil In The Pipeline](../../../charts/poten/2019/poten_2019-04-12_more-oil-in-the-pipeline_chart2.png)
+![Exhibit 2: Planned Permian/Eagle Ford Oil Pipeline Capacity vs LTO Production](../../../charts/poten/2019/poten_2019-04-12_more-oil-in-the-pipeline_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2019/poten_2019-04-12_more-oil-in-the-pipeline_chart2.png)
+> **Exhibit 2: Planned Permian/Eagle Ford Oil Pipeline Capacity vs LTO Production**  
+> Unit: mb/d · X-axis: 2018 to 2024  
+> Series: Cactus, Longhorn, Midland/Sealy, BridgeTex, West Texas Gulf, Amdel, Permian Express 1, Permian Express 2, Permian Express 3, Basin, Centurion, Sunrise, Cactus 2, ETP Seminole Conversion, EPIC, Gray Oak, Permian Gulf Coast, Jupiter, ExxonMobil/Plains, Local refining, LTO output  
+> *Source: IEA*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2019/poten_2019-04-12_more-oil-in-the-pipeline_chart2.png)

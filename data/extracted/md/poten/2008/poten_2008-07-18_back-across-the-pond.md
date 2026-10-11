@@ -48,6 +48,19 @@ In the current environment, the difference in price of the diesel is approximate
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: Back Across The Pond](../../../charts/poten/2008/poten_2008-07-18_back-across-the-pond_chart1.png)
+> **Chart on PDF page 1: Diesel Fixture Activity from USA to Europe**  
+> Unit: Fixture Count · X-axis: Jan to Dec  
+> Series: 2006, 2007, 2008  
+> *Source: Poten & Partners*  
+> *No image crop of this chart was saved; caption read from the PDF.*
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2008/poten_2008-07-18_back-across-the-pond_chart1.png)
+> **Chart on PDF page 2: Price Arbitrage for Ultra Low Sulfur Diesel**  
+> Unit: $/MT · X-axis: Mar-06 to Jul-08  
+> Series: ULSD Europe vs. ULSD United States  
+> *No image crop of this chart was saved; caption read from the PDF.*
+
+> **Chart on PDF page 3: Freight Rates USA - UK Continent**  
+> Unit: Transportation ($/MT) · X-axis: Jan-06 to Dec-06  
+> Series: 2006, 2007, 2008  
+> *Source: Poten & Partners*  
+> *No image crop of this chart was saved; caption read from the PDF.*

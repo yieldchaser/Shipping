@@ -44,6 +44,3 @@ Our hearts and deepest sympathy goes out to those who have suffered personal los
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: KATRINA!](../../../charts/poten/2005/poten_2005-09-02_katrina_chart1.png)
-
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2005/poten_2005-09-02_katrina_chart1.png)

@@ -24,19 +24,19 @@ source_file: "corpus/03-breakwave/insights/2025/2025-02-19_cyclone-disruptions-h
 Snapshot of Spot Freight Rates, Supply-Demand Trends, Port Congestions
 February 19, 2025
 
-![Στιγμιότυπο Οθόνης 2025 02 19 143306](assets/2025-02-19_cyclone-disruptions-hit-australian-iron-ore-exports_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_b11897c92029.png)
+![Στιγμιότυπο Οθόνης 2025 02 19 143306](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-02-19_cyclone-disruptions-hit-australian-iron-ore-exports_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_b11897c92029.png)
 
 > **Figure 1: Στιγμιότυπο Οθόνης 2025 02 19 143306**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-02-19_cyclone-disruptions-hit-australian-iron-ore-exports_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_b11897c92029.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-02-19_cyclone-disruptions-hit-australian-iron-ore-exports_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_b11897c92029.png)
 
 The sharp decline in Australian dry bulk flows in early 2025, as depicted in the data, can be directly linked to the severe disruptions caused by Cyclones Sean and Zelia. These extreme weather events led to temporary port closures, infrastructure damage, and halted mining operations, particularly in the ore-rich Pilbara region. The significant drop in cargo shipments in January 2025 aligns with historical patterns where natural disasters cause short-term supply chain disruptions. However, past trends suggest that export levels tend to recover once logistical operations resume, as seen in previous years' fluctuations. Given that Western Australia’s Port Hedland, the world’s largest iron ore hub, has reopened, the dip in bulk flows will likely be temporary, with shipments stabilizing in the coming months. This aligns with expectations that demand from key importers, such as China, will drive a rebound as supply normalizes.
 
 From a market perspective, the immediate impact of these disruptions has been reflected in iron ore prices on global exchanges. The most-traded May iron ore contract on China’s Dalian Commodity Exchange experienced a dip, hitting its lowest since January 16, signaling cautious sentiment among traders. Similarly, the benchmark March contract on the Singapore Exchange dropped to its lowest point since early February. The market’s reaction underscores concerns over short-term supply constraints from Australia, which is a key supplier to China. However, as port operations recover and shipments resume, prices are expected to stabilize, potentially rebounding as steel demand in China picks up. The cyclical nature of the dry bulk market suggests that while adverse weather events create temporary shocks, the broader fundamentals—such as industrial demand and infrastructure investment—will ultimately dictate the trajectory of iron ore flows and pricing in the months ahead.
 
-![Στιγμιότυπο Οθόνης 2025 02 19 165140](assets/2025-02-19_cyclone-disruptions-hit-australian-iron-ore-exports_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_fa8ba0ef7683.png)
+![Στιγμιότυπο Οθόνης 2025 02 19 165140](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-02-19_cyclone-disruptions-hit-australian-iron-ore-exports_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_fa8ba0ef7683.png)
 
 > **Figure 2: Στιγμιότυπο Οθόνης 2025 02 19 165140**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-02-19_cyclone-disruptions-hit-australian-iron-ore-exports_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_fa8ba0ef7683.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-02-19_cyclone-disruptions-hit-australian-iron-ore-exports_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_fa8ba0ef7683.png)
 
 The overall trend for Capesize Brazil to North China rates remains bearish, while signs of a gradual recovery are emerging in the smaller vessel size segments.
 
@@ -45,10 +45,10 @@ The overall trend for Capesize Brazil to North China rates remains bearish, whil
 - **Supramax**vessel freight rates on the Indo-ECI route have been revised above $8 per ton, reflecting a 9% increase compared to the previous month.
 - **Handysize**freight rates for the NOPAC Far East route have risen to $28 per ton, reflecting a 13% increase from the previous week.
 
-![Στιγμιότυπο Οθόνης 2025 02 19 165248](assets/2025-02-19_cyclone-disruptions-hit-australian-iron-ore-exports_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_2f469886d23a.png)
+![Στιγμιότυπο Οθόνης 2025 02 19 165248](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-02-19_cyclone-disruptions-hit-australian-iron-ore-exports_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_2f469886d23a.png)
 
 > **Figure 3: Στιγμιότυπο Οθόνης 2025 02 19 165248**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-02-19_cyclone-disruptions-hit-australian-iron-ore-exports_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_2f469886d23a.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-02-19_cyclone-disruptions-hit-australian-iron-ore-exports_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_2f469886d23a.png)
 
 The latest signs from the ballasters view continue to record an increased pace in the Capesize, Panamax, and Supramax vessel size segments.
 
@@ -57,10 +57,10 @@ The latest signs from the ballasters view continue to record an increased pace i
 - **Supramax SE Asia**: The third week of February held the spike, with figures still rising to 110—nearly 10 above the annual trend.
 - **Handysize NOPAC**: The Handy NOPAC segment signaled a downward revision, approaching the annual trend of 27. However, it remains uncertain whether the recent momentum will continue on a lower trajectory.
 
-![Στιγμιότυπο Οθόνης 2025 02 19 165344](assets/2025-02-19_cyclone-disruptions-hit-australian-iron-ore-exports_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_07cfd64c8f1c.png)
+![Στιγμιότυπο Οθόνης 2025 02 19 165344](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-02-19_cyclone-disruptions-hit-australian-iron-ore-exports_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_07cfd64c8f1c.png)
 
 > **Figure 4: Στιγμιότυπο Οθόνης 2025 02 19 165344**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-02-19_cyclone-disruptions-hit-australian-iron-ore-exports_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_07cfd64c8f1c.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-02-19_cyclone-disruptions-hit-australian-iron-ore-exports_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_07cfd64c8f1c.png)
 
 The decline in tonne-days continued in the Capesize segment, whereas the Panamax segment appears to have stabilized following the previous week's downward revision.
 
@@ -69,10 +69,10 @@ The decline in tonne-days continued in the Capesize segment, whereas the Panamax
 - **Supramax**: The growth rate remains the strongest among vessel size categories, sustaining a steady upward trajectory since early February.
 - **Handysize**: Its growth rate remains above that of the Panamax segment, having reached its lowest point at the end of Week 3.
 
-![Στιγμιότυπο Οθόνης 2025 02 19 165432](assets/2025-02-19_cyclone-disruptions-hit-australian-iron-ore-exports_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_1823a3ca0a98.png)
+![Στιγμιότυπο Οθόνης 2025 02 19 165432](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-02-19_cyclone-disruptions-hit-australian-iron-ore-exports_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_1823a3ca0a98.png)
 
 > **Figure 5: Στιγμιότυπο Οθόνης 2025 02 19 165432**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-02-19_cyclone-disruptions-hit-australian-iron-ore-exports_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_1823a3ca0a98.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-02-19_cyclone-disruptions-hit-australian-iron-ore-exports_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_1823a3ca0a98.png)
 
 Congestion at Chinese dry bulk ports tempered the sharp downward trend seen across the Capesize, Panamax, and Supramax vessel segments in the preceding weeks of January and February.
 

@@ -36,6 +36,14 @@ The costs incurred by the tanker industry in trying to achieve zero quantities o
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: Supremely Safe Sailing](../../../charts/poten/2008/poten_2008-02-29_supremely-safe-sailing_chart1.png)
+> **Chart on PDF page 1: Oil Spilled by Tankers**  
+> Unit: million barrels · X-axis: 1960 to 2006  
+> Series: Oil Spilled  
+> *Source: Center for Tankership Excellence*  
+> *No image crop of this chart was saved; caption read from the PDF.*
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2008/poten_2008-02-29_supremely-safe-sailing_chart1.png)
+> **Chart on PDF page 2: Reported Spot Barrels of Oil Moved vs Barrels of Oil Spilled**  
+> Unit: million | Barrel spilled/spot barrel moved · X-axis: 1997 to 2007  
+> Series: million spot bbl moved, bbl spilled/spot bbl moved  
+> *Source: Poten & Tankership Excellence*  
+> *No image crop of this chart was saved; caption read from the PDF.*

@@ -58,6 +58,13 @@ The increase in the amount of cargo moved is the largest indication of a rise in
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: Filling In The Gap](../../../charts/poten/2006/poten_2006-06-16_filling-in-the-gap_chart1.png)
+> **Chart on PDF page 1: Total VLCC Liftings Ex- AG By Discharge Region**  
+> X-axis: Jan 2005 to Jun 2006  
+> Series: East of Suez, West of Suez, Red Sea  
+> *No image crop of this chart was saved; caption read from the PDF.*
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2006/poten_2006-06-16_filling-in-the-gap_chart1.png)
+> **Chart on PDF page 2: 2006 VLCC Market**  
+> Unit: Daily WS Rate Assessment | # Vessels Next 30 Days · X-axis: Jan-06 to May-06  
+> Series: Next 30 Days, AG - USG (280kt), AG - FE (280kt)  
+> *Source: Poten & Partners*  
+> *No image crop of this chart was saved; caption read from the PDF.*

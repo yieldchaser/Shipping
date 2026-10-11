@@ -62,6 +62,8 @@ Although WS rates have demonstrated significant one-day upside growth, it should
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: The Knife Edge](../../../charts/poten/2007/poten_2007-11-30_the-knife-edge_chart1.png)
-
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2007/poten_2007-11-30_the-knife-edge_chart1.png)
+> **Chart on PDF page 2: Rates & Vessel Availability**  
+> Unit: Number of Vessels - Next 30 Days | WS Rate (AG - FE) · X-axis: Jan to Oct  
+> Series: Next 30 Days, VLCC WS (AG - FE)  
+> *Source: Poten & Partners*  
+> *No image crop of this chart was saved; caption read from the PDF.*

@@ -29,10 +29,10 @@ tags:
 ## Flexibility and Innovation: Signal’s Approach to Tanker Pooling
 
 
-![Flexibility and Innovation: Signal’s Approach to Tanker Pooling](../../images/67d021d10ca5890aed6bde8f_AD_4nXe_QFWHDYtLiMbnh1oZZRJlViu7IT9jICKuWpgljg6_drMG4DHn8hId_SARwy_709N31xPeXjXCO2yKoRek7o1FzAVyYNpknH9suECS3B5h2RTVBFmljPoUutGf7r-d7-v2-dWK.png)
+![Flexibility and Innovation: Signal’s Approach to Tanker Pooling](../../../../../../corpus/07-signal/images/67d021d10ca5890aed6bde8f_AD_4nXe_QFWHDYtLiMbnh1oZZRJlViu7IT9jICKuWpgljg6_drMG4DHn8hId_SARwy_709N31xPeXjXCO2yKoRek7o1FzAVyYNpknH9suECS3B5h2RTVBFmljPoUutGf7r-d7-v2-dWK.png)
 
 > **Figure 1: Flexibility and Innovation: Signal’s Approach to Tanker Pooling**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/flexibility-and-innovation-signals-approach-to-tanker-pooling) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/67d021d10ca5890aed6bde8f_AD_4nXe_QFWHDYtLiMbnh1oZZRJlViu7IT9jICKuWpgljg6_drMG4DHn8hId_SARwy_709N31xPeXjXCO2yKoRek7o1FzAVyYNpknH9suECS3B5h2RTVBFmljPoUutGf7r-d7-v2-dWK.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/flexibility-and-innovation-signals-approach-to-tanker-pooling) | [Local Asset](../../../../../../corpus/07-signal/images/67d021d10ca5890aed6bde8f_AD_4nXe_QFWHDYtLiMbnh1oZZRJlViu7IT9jICKuWpgljg6_drMG4DHn8hId_SARwy_709N31xPeXjXCO2yKoRek7o1FzAVyYNpknH9suECS3B5h2RTVBFmljPoUutGf7r-d7-v2-dWK.png)
 
 In the dynamic world of shipping, vessel owners face a constant challenge: how to maximise returns and operational efficiency while maintaining the flexibility to adapt to market changes. Signal has redefined vessel pooling experience by combining cutting-edge technology and data analytics with a commitment to fairness and flexibility. Signal Aframax Pool offers unparalleled ease and value for vessels, enabling owners to join and exit effortlessly at any area and time.
 

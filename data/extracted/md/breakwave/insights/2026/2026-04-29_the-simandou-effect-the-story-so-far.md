@@ -22,10 +22,10 @@ source_file: "corpus/03-breakwave/insights/2026/2026-04-29_the-simandou-effect-t
 
 This edition of Allied Quantumsea Research tracks the evolution of iron ore market dynamics since Simandou first moved from prospect to reality in late 2025. The first commercial shipment of iron ore from Guinea’s Simandou deposit departed for China in early December 2025, marking the start of a significant shift in global raw material supply for steel production. The inaugural cargo arrived at Majishan port in Zhejiang province on January 17, 2026, after a 46-day voyage from Guinea, carrying approximately 200,000 metric tons of iron ore at 65% iron content.
 
-![Στιγμιότυπο Οθόνης 2026 04 29 104406](assets/2026-04-29_the-simandou-effect-the-story-so-far_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_c7f81dfdc964.png)
+![Στιγμιότυπο Οθόνης 2026 04 29 104406](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-04-29_the-simandou-effect-the-story-so-far_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_c7f81dfdc964.png)
 
 > **Figure 1: Στιγμιότυπο Οθόνης 2026 04 29 104406**  
-> **Interactive Data & Source:** [Allied-shipbroking](https://www.allied-shipbroking.gr/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-04-29_the-simandou-effect-the-story-so-far_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_c7f81dfdc964.png)
+> **Interactive Data & Source:** [Allied-shipbroking](https://www.allied-shipbroking.gr/) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-04-29_the-simandou-effect-the-story-so-far_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_c7f81dfdc964.png)
 
 ### February Setback: The Fatal Accident & Production Halt
 
@@ -53,10 +53,10 @@ Although Simandou offers a significant pillar in the Capesize freight market, th
 
 ### All Eyes on African Iron Ore Shipments to China
 
-![Στιγμιότυπο Οθόνης 2026 04 29 104516](assets/2026-04-29_the-simandou-effect-the-story-so-far_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_018b40f3d2e7.png)
+![Στιγμιότυπο Οθόνης 2026 04 29 104516](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-04-29_the-simandou-effect-the-story-so-far_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_018b40f3d2e7.png)
 
 > **Figure 2: Στιγμιότυπο Οθόνης 2026 04 29 104516**  
-> **Interactive Data & Source:** [Allied-shipbroking](https://www.allied-shipbroking.gr/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-04-29_the-simandou-effect-the-story-so-far_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_018b40f3d2e7.png)
+> **Interactive Data & Source:** [Allied-shipbroking](https://www.allied-shipbroking.gr/) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-04-29_the-simandou-effect-the-story-so-far_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_018b40f3d2e7.png)
 
 Initial volumes will be modest, but the growth trajectory could be significant. Australia is not going anywhere as China's dominant iron ore supplier, yet the arrival of credible alternatives will fundamentally shift the commercial dynamic, giving Chinese buyers a stronger hand at the negotiating table than they have had in years.
 

@@ -30,18 +30,20 @@ This prediction was partially correct, but mostly wrong. We expected that Presid
 
 ### 4. Iranian exports will decline from their recent highs
 
-We were wrong about this. Iranian exports did not decline in 2025. As a matter of fact, they increased (see [Chart 1](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2025/poten_2025-12-19_our-2025-forecast-review_chart1.png)), despite a return of Mr. Trump to the White House and a resumption of his "maximum pressure" campaign. China imports virtually all (90%) of Iran's crude despite U.S. sanctions. Over the years, the Iranians have perfected the art of sanctions evasion through the use of dark fleet vessels and ship-to-ship transfers (often off Malysia and more recently off Indonesia as well). The U.S. has increased the pressure by sanctioning more vessels and even certain terminals in China, but the flow of oil continues. The Iranians need the revenues, and the Chinese teapots benefit from cheap oil.
+We were wrong about this. Iranian exports did not decline in 2025. As a matter of fact, they increased (see [Chart 1](../../../charts/poten/2025/poten_2025-12-19_our-2025-forecast-review_chart1.png)), despite a return of Mr. Trump to the White House and a resumption of his "maximum pressure" campaign. China imports virtually all (90%) of Iran's crude despite U.S. sanctions. Over the years, the Iranians have perfected the art of sanctions evasion through the use of dark fleet vessels and ship-to-ship transfers (often off Malysia and more recently off Indonesia as well). The U.S. has increased the pressure by sanctioning more vessels and even certain terminals in China, but the flow of oil continues. The Iranians need the revenues, and the Chinese teapots benefit from cheap oil.
 
-> **Exhibit 1: Our 2025 Forecast Review (Chart 1)**  
-> *Source: Poten & Partners*  
-> **Interactive Data & Source:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2025/poten_2025-12-19_our-2025-forecast-review_chart1.png)
+> **Exhibit 1: Iranian Crude Oil Exports by Destination**  
+> Unit: Kb/d · X-axis: Jan-17 to Sep-25  
+> Series: China, India, South Korea, United Arab Emirates, Syria, Turkey, Italy, Japan, Other/Undetermined  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2025/poten_2025-12-19_our-2025-forecast-review_chart1.png)
 
-![Exhibit 1: Our 2025 Forecast Review](../../../charts/poten/2025/poten_2025-12-19_our-2025-forecast-review_chart1.png)
+![Exhibit 1: Iranian Crude Oil Exports by Destination](../../../charts/poten/2025/poten_2025-12-19_our-2025-forecast-review_chart1.png)
 
-VLCCs will be the best performing crude tanker segment in 2025 This prediction was right on the mark. VLCCs outperformed the smaller crude tanker segments as well as the product tankers by a significant margin in 2025, reestablishing themselves as the top earners in the tanker market. All crude tanker segments had a good year in 2025 (see [Chart 2](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2025/poten_2025-12-19_our-2025-forecast-review_chart2.png)), but VLCCs did particularly well. The key reasons for the VLCC (out) performance were clear. First of all, OPEC+ started to roll back their production cuts and the increases in exports disproportionately benefited the VLCCs. A boost in the long-haul Atlantic to Pacific crude oil trades also contributed. Brazil, Guyana and the U.S. Gulf all boosted their exports. Another key driver was the lack of fleet growth. One additional VLCC in 2024 was followed by only six deliveries in 2025, setting the stage for a remarkable freight market rally.
+VLCCs will be the best performing crude tanker segment in 2025 This prediction was right on the mark. VLCCs outperformed the smaller crude tanker segments as well as the product tankers by a significant margin in 2025, reestablishing themselves as the top earners in the tanker market. All crude tanker segments had a good year in 2025 (see [Chart 2](../../../charts/poten/2025/poten_2025-12-19_our-2025-forecast-review_chart2.png)), but VLCCs did particularly well. The key reasons for the VLCC (out) performance were clear. First of all, OPEC+ started to roll back their production cuts and the increases in exports disproportionately benefited the VLCCs. A boost in the long-haul Atlantic to Pacific crude oil trades also contributed. Brazil, Guyana and the U.S. Gulf all boosted their exports. Another key driver was the lack of fleet growth. One additional VLCC in 2024 was followed by only six deliveries in 2025, setting the stage for a remarkable freight market rally.
 
-> **Exhibit 2: Our 2025 Forecast Review (Chart 2)**  
-> *Source: Poten & Partners*  
-> **Interactive Data & Source:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2025/poten_2025-12-19_our-2025-forecast-review_chart2.png)
+> **Exhibit 2: Crude Tanker Spot Rates (Selected Routes, HSFO)**  
+> Unit: TCE ($/day) · X-axis: 2016 to 2022-2024  
+> Series: VLCC (AG-FE), Suezmax (WAF-UKC), Aframax (avg 3 routes)  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2025/poten_2025-12-19_our-2025-forecast-review_chart2.png)
 
-![Exhibit 2: Our 2025 Forecast Review](../../../charts/poten/2025/poten_2025-12-19_our-2025-forecast-review_chart2.png)
+![Exhibit 2: Crude Tanker Spot Rates (Selected Routes, HSFO)](../../../charts/poten/2025/poten_2025-12-19_our-2025-forecast-review_chart2.png)

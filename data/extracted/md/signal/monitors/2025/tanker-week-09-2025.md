@@ -33,7 +33,7 @@ tags:
 
 > **Figure 1: Https://app.signalocean.com/tanker/dynamic/oilflows**  
 > *https://app.signalocean.com/tanker/dynamic/oilflows*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/tanker-week-09-2025) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/67bf48b34827af6616a84a8a_AD_4nXcS4CFKTvbMOyD4YUPch7Qtf_CrErBxX4xZJ32ggn5jauXMP8iQItQGfgUU3Tht17bkglPoDv9KJJu0Wi4oNSH_Xi4mJCubLRwfsMVXhaui_Zre-rzSwh0DG1PPXNPnnGoBJC8I.avif)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/tanker-week-09-2025) | [Local Asset](../../../../../../corpus/07-signal/images/67bf48b34827af6616a84a8a_AD_4nXcS4CFKTvbMOyD4YUPch7Qtf_CrErBxX4xZJ32ggn5jauXMP8iQItQGfgUU3Tht17bkglPoDv9KJJu0Wi4oNSH_Xi4mJCubLRwfsMVXhaui_Zre-rzSwh0DG1PPXNPnnGoBJC8I.avif)
 
 
 ## Reckoning the Past: Russian Oil’s Journey to Asia

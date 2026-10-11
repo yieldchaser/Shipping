@@ -32,10 +32,17 @@ The situation in Nigeria is uncertain and changeable. In a tight tanker market, 
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: A New Dawn Or A False Start](../../../charts/poten/2023/poten_2023-06-16_a-new-dawn-or-a-false-start_chart1.png)
+![Exhibit 1: Nigeria: Clean Petroleum Product Demand](../../../charts/poten/2023/poten_2023-06-16_a-new-dawn-or-a-false-start_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2023/poten_2023-06-16_a-new-dawn-or-a-false-start_chart1.png)
+> **Exhibit 1: Nigeria: Clean Petroleum Product Demand**  
+> Unit: Kb/d · X-axis: Jan-17 to Jan-23  
+> Series: Gasoline, Gasoil/Diesel, Kerosene  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2023/poten_2023-06-16_a-new-dawn-or-a-false-start_chart1.png)
 
-![Exhibit 2: A New Dawn Or A False Start](../../../charts/poten/2023/poten_2023-06-16_a-new-dawn-or-a-false-start_chart2.png)
+![Exhibit 2: Nigeria: Crude Oil Production and Exports](../../../charts/poten/2023/poten_2023-06-16_a-new-dawn-or-a-false-start_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2023/poten_2023-06-16_a-new-dawn-or-a-false-start_chart2.png)
+> **Exhibit 2: Nigeria: Crude Oil Production and Exports**  
+> Unit: Kb/d · X-axis: Jan-15 to Jan-23  
+> Series: Production, Exports  
+> *Source: Jodi*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2023/poten_2023-06-16_a-new-dawn-or-a-false-start_chart2.png)

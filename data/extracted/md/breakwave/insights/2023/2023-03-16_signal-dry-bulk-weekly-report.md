@@ -23,10 +23,10 @@ source_file: "corpus/03-breakwave/insights/2023/2023-03-16_signal-dry-bulk-weekl
 
 *Remarkable increase of ton days and miles from Australia to China in the 1h of March*
 
-![Market Chart 1](assets/2023-03-16_signal-dry-bulk-weekly-report_img_unnamed-2023-03-16t122131256_fe9f96328853.png)
+![Market Chart 1](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-03-16_signal-dry-bulk-weekly-report_img_unnamed-2023-03-16t122131256_fe9f96328853.png)
 
 > **Figure 1: Market Chart 1**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://go.signalocean.com/e/983831/dry-reports-ton-charts-dry/2nqvh7/307767933?h=jlHAaj_BLZ8Rg2nGXAKidQPHOmN-K45Rk-fluYEKa24) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-03-16_signal-dry-bulk-weekly-report_img_unnamed-2023-03-16t122131256_fe9f96328853.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://go.signalocean.com/e/983831/dry-reports-ton-charts-dry/2nqvh7/307767933?h=jlHAaj_BLZ8Rg2nGXAKidQPHOmN-K45Rk-fluYEKa24) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-03-16_signal-dry-bulk-weekly-report_img_unnamed-2023-03-16t122131256_fe9f96328853.png)
 
 ## Data Source: The Signal Ocean Platform, Demandhttps://go.signalocean.com/e/983831/dry-Reports-Ton-Charts-Dry/2nqvh7/307767933?h=jlhaajblz8rg2ngxakidqphomn-K45rk-Fluyeka24
 
@@ -38,10 +38,10 @@ For more information on this week's trends, see the analysis sections below: Fre
 
 ‘The Big Picture’ - Capesize and Panamax Bulkers and Smaller Ship Sizes
 
-![Market Chart 2](assets/2023-03-16_signal-dry-bulk-weekly-report_img_unnamed-2023-03-16t122225571_5824c86ad1e7.png)
+![Market Chart 2](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-03-16_signal-dry-bulk-weekly-report_img_unnamed-2023-03-16t122225571_5824c86ad1e7.png)
 
 > **Figure 2: Market Chart 2**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-03-16_signal-dry-bulk-weekly-report_img_unnamed-2023-03-16t122225571_5824c86ad1e7.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-03-16_signal-dry-bulk-weekly-report_img_unnamed-2023-03-16t122225571_5824c86ad1e7.png)
 
 Strength continued across all vessel size categories during the second week of March, and further upside is expected in the coming days based on increasing growth in ton-days demand.
 
@@ -52,10 +52,10 @@ Strength continued across all vessel size categories during the second week of M
 
 ## Section 2/ Supply -Ballasters (# Vessels) Increasing
 
-![Supply Trend Lines for Key Load Areas](assets/2023-03-16_signal-dry-bulk-weekly-report_img_unnamed-2023-03-16t122402018_cfa71ec8e16e.png)
+![Supply Trend Lines for Key Load Areas](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-03-16_signal-dry-bulk-weekly-report_img_unnamed-2023-03-16t122402018_cfa71ec8e16e.png)
 
 > **Figure 3: Supply Trend Lines for Key Load Areas**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-03-16_signal-dry-bulk-weekly-report_img_unnamed-2023-03-16t122402018_cfa71ec8e16e.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-03-16_signal-dry-bulk-weekly-report_img_unnamed-2023-03-16t122402018_cfa71ec8e16e.png)
 
 The number of ballast ships has increased in all size classes, with only supramax ships showing a slowdown.
 
@@ -66,10 +66,10 @@ The number of ballast ships has increased in all size classes, with only suprama
 
 ## Section 3/ Demand -TonDays Increasing
 
-![TonDays Increasing](assets/2023-03-16_signal-dry-bulk-weekly-report_img_unnamed-2023-03-16t122551371_63e20b846ce3.png)
+![TonDays Increasing](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-03-16_signal-dry-bulk-weekly-report_img_unnamed-2023-03-16t122551371_63e20b846ce3.png)
 
 > **Figure 4: TonDays Increasing**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-03-16_signal-dry-bulk-weekly-report_img_unnamed-2023-03-16t122551371_63e20b846ce3.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-03-16_signal-dry-bulk-weekly-report_img_unnamed-2023-03-16t122551371_63e20b846ce3.png)
 
 The second week of March surprised with the strong upward trend observed in the Capesize segment.
 
@@ -80,10 +80,10 @@ The second week of March surprised with the strong upward trend observed in the 
 
 ## Section 4/ Port Congestion -No of Vesselsincreasingdry Bulk Ships Congested at Chinese Ports
 
-![Increasing](assets/2023-03-16_signal-dry-bulk-weekly-report_img_unnamed-2023-03-16t122627458_a3c5d2da5885.png)
+![Increasing](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-03-16_signal-dry-bulk-weekly-report_img_unnamed-2023-03-16t122627458_a3c5d2da5885.png)
 
 > **Figure 5: Increasing**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-03-16_signal-dry-bulk-weekly-report_img_unnamed-2023-03-16t122627458_a3c5d2da5885.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-03-16_signal-dry-bulk-weekly-report_img_unnamed-2023-03-16t122627458_a3c5d2da5885.png)
 
 In the second week of March, the highs of the first week were maintained, with volumes in the Panamax, Supramax and Handysize segments increasing significantly.
 

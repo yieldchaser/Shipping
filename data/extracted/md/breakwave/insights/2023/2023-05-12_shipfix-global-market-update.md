@@ -57,9 +57,9 @@ As Chinese domestic demand for steel has remained subdued amid weakness in the m
 
 The recent weakness in cargo ordering activities has also brought an end, at least temporarily, to a long-term trend towards larger cargo sizes, with the average cargo size declining by approximately ten per cent since March.
 
-![Market Chart 1](assets/2023-05-12_shipfix-global-market-update_img_unnamed-2023-05-12t110853798_1079ae745b00.png)
+![Market Chart 1](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-05-12_shipfix-global-market-update_img_unnamed-2023-05-12t110853798_1079ae745b00.png)
 
 > **Figure 1: Market Chart 1**  
-> **Interactive Data & Source:** [Shipfix](https://shipfix.com/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-05-12_shipfix-global-market-update_img_unnamed-2023-05-12t110853798_1079ae745b00.png)
+> **Interactive Data & Source:** [Shipfix](https://shipfix.com/) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-05-12_shipfix-global-market-update_img_unnamed-2023-05-12t110853798_1079ae745b00.png)
 
 Data Source:[Shipfix](https://shipfix.com/)

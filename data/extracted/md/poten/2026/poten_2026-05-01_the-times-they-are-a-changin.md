@@ -32,10 +32,18 @@ For the tanker industry, the changes in Venezuela have been generally positive. 
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: The Times They Are A Changin](../../../charts/poten/2026/poten_2026-05-01_the-times-they-are-a-changin_chart1.png)
+![Exhibit 1: Venezuela Weekly Crude Exports by Destination](../../../charts/poten/2026/poten_2026-05-01_the-times-they-are-a-changin_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2026/poten_2026-05-01_the-times-they-are-a-changin_chart1.png)
+> **Exhibit 1: Venezuela Weekly Crude Exports by Destination**  
+> Unit: Kb.d · X-axis: 1-Jan-24 to 20-Apr-26  
+> Series: China, United States, India, Spain, Bahamas, Italy, Curacao, Other  
+> *Source: Vortexa*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2026/poten_2026-05-01_the-times-they-are-a-changin_chart1.png)
 
-![Exhibit 2: The Times They Are A Changin](../../../charts/poten/2026/poten_2026-05-01_the-times-they-are-a-changin_chart2.png)
+![Exhibit 2: Venezuela Weekly Crude Exports by Vessel Class](../../../charts/poten/2026/poten_2026-05-01_the-times-they-are-a-changin_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2026/poten_2026-05-01_the-times-they-are-a-changin_chart2.png)
+> **Exhibit 2: Venezuela Weekly Crude Exports by Vessel Class**  
+> Unit: Kb.d · X-axis: 1-Jan-24 to 20-Apr-26  
+> Series: VLCC, Suezmax, Aframax / LR2, Panamax / LR1  
+> *Source: Vortexa*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2026/poten_2026-05-01_the-times-they-are-a-changin_chart2.png)

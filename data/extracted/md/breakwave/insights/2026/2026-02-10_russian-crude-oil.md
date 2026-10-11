@@ -30,10 +30,10 @@ From now on - and for as long as it takes to resolve the Ukraine / Russia situat
 
 Ships that we list as under European control have lifted on average 14% (493k b/d) of Russian crude oil exports since the Rosneft/Lukoil sanctions hampered Russia’s crude exports to India. This is split roughly 70% on Suezmax and 30% on Aframax sizes. The official reported price of Urals has remained above the pre-existing EU price cap, which between September 2025 and end Jan 2026 was $47.60/bbl. Now with a maritime services ban, to maintain crude exports Russia will need to either take compliant ships into the dark fleet or hope that its existing dark fleet is quickly released from floating storage.
 
-![Ffe9 Image 0 1770648053048](assets/2026-02-10_russian-crude-oil_img_ffe9-image-0-1770648053048_55cd6f399638.png)
+![Ffe9 Image 0 1770648053048](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-02-10_russian-crude-oil_img_ffe9-image-0-1770648053048_55cd6f399638.png)
 
 > **Figure 1: Ffe9 Image 0 1770648053048**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-02-10_russian-crude-oil_img_ffe9-image-0-1770648053048_55cd6f399638.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-02-10_russian-crude-oil_img_ffe9-image-0-1770648053048_55cd6f399638.png)
 
 *Source: Vortexa*
 

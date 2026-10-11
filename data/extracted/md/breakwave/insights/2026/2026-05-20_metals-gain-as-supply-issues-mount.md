@@ -24,10 +24,10 @@ Most sectors were lower on hopes that negotiations between Iran and the US would
 
 *By*[*Daniel Hynes*](https://www.linkedin.com/in/dahynes/)
 
-![Στιγμιότυπο Οθόνης 2026 05 20 164151](assets/2026-05-20_metals-gain-as-supply-issues-mount_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_8db38b736372.png)
+![Στιγμιότυπο Οθόνης 2026 05 20 164151](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-05-20_metals-gain-as-supply-issues-mount_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_8db38b736372.png)
 
 > **Figure 1: Στιγμιότυπο Οθόνης 2026 05 20 164151**  
-> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-05-20_metals-gain-as-supply-issues-mount_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_8db38b736372.png)
+> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-05-20_metals-gain-as-supply-issues-mount_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_8db38b736372.png)
 
 ### Market Commentary
 
@@ -45,10 +45,10 @@ Most sectors were lower on hopes that negotiations between Iran and the US would
 
 Global lithium prices continue to push higher on constructive demand trends, underpinning momentum in China’s spot market. Tight inventories and rising feed-stock costs are also lifting chemical prices. Lithium carbonate prices in China have gained more than 60% this year and recently touched a three year high of CNY199,000/t (USD29,200/t). High energy prices triggered by the Middle East have boosted interest in clean-energy technology.
 
-![Στιγμιότυπο Οθόνης 2026 05 20 164248](assets/2026-05-20_metals-gain-as-supply-issues-mount_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_cb9a99734394.png)
+![Στιγμιότυπο Οθόνης 2026 05 20 164248](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-05-20_metals-gain-as-supply-issues-mount_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_cb9a99734394.png)
 
 > **Figure 2: Στιγμιότυπο Οθόνης 2026 05 20 164248**  
-> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-05-20_metals-gain-as-supply-issues-mount_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_cb9a99734394.png)
+> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-05-20_metals-gain-as-supply-issues-mount_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_cb9a99734394.png)
 
 Data source:[Commodities Wrap](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI)
 

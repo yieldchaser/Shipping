@@ -25,10 +25,10 @@ source_file: "corpus/03-breakwave/insights/2023/2023-04-17_doric-weekly-market-i
 
 Following last week’s downward revision of merchandise trade volume growth by the World Trade Organization, the International Monetary Fund lowered its forecast for global economic growth this year to 3.6 percent. Unusually high uncertainty surrounds the aforementioned forecast though, and downside risks to the global outlook dominate – including from a further escalation of the war, stricter sanctions against Russia, a sharper-than-anticipated deceleration in China as a strict zero-Covid strategy is tested by Omicron, and a renewed flare-up of the pandemic should a new, more virulent virus strain emerge." was the opening paragraph of Doric's Weekly Insight this day last year. At that time, Capesizes had yet to wake up from their typical Q1 hibernation, balancing at $11,370 daily. Kamsarmaxes and Supras, on the other hand, were trading in much healthier levels at $26,711 and $27,076 daily respectively. In sync, the star performer of the previous period, Handysize segment, was hovering at a solid $26,499 daily.
 
-![1 (8)](assets/2023-04-17_doric-weekly-market-insight_img_128829_9f1beb3dfca1.png)
+![1 (8)](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-04-17_doric-weekly-market-insight_img_128829_9f1beb3dfca1.png)
 
 > **Figure 1: 1 (8)**  
-> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-04-17_doric-weekly-market-insight_img_128829_9f1beb3dfca1.png)
+> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-04-17_doric-weekly-market-insight_img_128829_9f1beb3dfca1.png)
 
 Twelve months later, Capesizes stood $4,000 higher than the aforementioned value, but all other segments are largely lagging previous year’s vivid levels. Although, dry bulk shipping has managed to leave the unprofitable Q1 levels behind, it has yet to surpass last year’s performance. In particular, with a closing of $15,724 and $12,158 daily for the Kamsarmax and Supramax respectively, the mid-sizes are laying today circa 50 percent lower year-on-year. The drop in the Handysize sub-market is even steeper, with the respective Baltic TC index concluding today at $11,295 daily, down 57.4 percent year-on-year. At this crossroads, the global economy is yet again at a moment of high uncertainty, with the cumulative effects of the past three years of adverse shocks, manifesting in unforseen ways.
 
@@ -38,9 +38,9 @@ IMF’s baseline forecast is for global headline inflation to decline from 8.7 p
 
 In the tug-of-war between alarming macro fundamentals pulling from one side and auspicious seasonality from the other, Baltic indices need once again to perform a balancing act. Known as one of the most skilful tightrope artists, Baltic Dry Index is seeking to near the yearning seasonality end, without losing its poise.
 
-![1 (9)](assets/2023-04-17_doric-weekly-market-insight_img_128929_d4cf03af0755.png)
+![1 (9)](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-04-17_doric-weekly-market-insight_img_128929_d4cf03af0755.png)
 
 > **Figure 2: 1 (9)**  
-> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-04-17_doric-weekly-market-insight_img_128929_d4cf03af0755.png)
+> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-04-17_doric-weekly-market-insight_img_128929_d4cf03af0755.png)
 
 Data source:[Doric](https://www.doric.gr/)

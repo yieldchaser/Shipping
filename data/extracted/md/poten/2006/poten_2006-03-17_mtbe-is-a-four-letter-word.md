@@ -82,6 +82,14 @@ It appears that import demand should rise for Reformulated gasoline Blendstock f
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: MTBE is a Four Letter Word](../../../charts/poten/2006/poten_2006-03-17_mtbe-is-a-four-letter-word_chart1.png)
+> **Chart on PDF page 3: Reformulated Gasoline Imports PADD #1**  
+> Unit: 000 Bpd · X-axis: 0 to 140  
+> Series: Canada, Virgin Isl, Netherlands, Venezuela, Belgium, U.K.  
+> *Source: EIA/Poten*  
+> *No image crop of this chart was saved; caption read from the PDF.*
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2006/poten_2006-03-17_mtbe-is-a-four-letter-word_chart1.png)
+> **Chart on PDF page 3: Conventional Gasoline Imports PADD #1**  
+> Unit: 000 Bpd · X-axis: 0 to 120  
+> Series: Russia, U.K., Netherlands, Virgin Isl, France, Italy, Venezuela, Germany  
+> *Source: EIA/Poten*  
+> *No image crop of this chart was saved; caption read from the PDF.*

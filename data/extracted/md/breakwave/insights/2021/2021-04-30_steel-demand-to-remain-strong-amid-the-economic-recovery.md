@@ -31,7 +31,7 @@ The strong rebound for the global economy, especially in China and the US, has s
 ![Ulf 2b](assets/2021-04-30_steel-demand-to-remain-strong-amid-the-economic-recovery_img_ulf2b_94ff83659608.jpg)
 
 > **Figure 1: Ulf 2b**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2021/assets/2021-04-30_steel-demand-to-remain-strong-amid-the-economic-recovery_img_ulf2b_94ff83659608.jpg)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-04-30_steel-demand-to-remain-strong-amid-the-economic-recovery_img_ulf2b_94ff83659608.jpg)
 
 Some of the price appreciation can be attributed to the environmental restrictions imposed by the authorities in the main steel-producing hub of Tangshan to control pollution levels, which have curtailed output growth despite the rising demand. Despite the restrictions, Chinese crude steel output in March increased by 19 per cent compared to a year ago to a near-record, on high-profit margins, and exports also climbed to a four-year high, suggesting a robust global demand. The stimulus-driven increase in construction has been boosting demand for the metal and additional fiscal measures, primarily in the US and Europe, are likely to keep supporting the appetite for steel over the coming industrial peak season.
 
@@ -40,7 +40,7 @@ Steel production has become an early target in Bejing’s push to lower emission
 ![Unsplash Image Slifi67jv5k](assets/2021-04-30_steel-demand-to-remain-strong-amid-the-economic-recovery_img_unsplash-image-slifi67jv5k_e499fbb95073.jpg)
 
 > **Figure 2: Unsplash Image Slifi67jv5k**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2021/assets/2021-04-30_steel-demand-to-remain-strong-amid-the-economic-recovery_img_unsplash-image-slifi67jv5k_e499fbb95073.jpg)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-04-30_steel-demand-to-remain-strong-amid-the-economic-recovery_img_unsplash-image-slifi67jv5k_e499fbb95073.jpg)
 
 The diplomatic tensions between China and Australia have already altered some of the trade flows for the other ingredient in steel production, coking coal. North American miners have benefited from the unofficial ban on Australian coal imports, with the longer voyages contributing to the tonne-mile demand in the dry bulk sector. China's share of the sales from North American producers has increased compared with Europe, Japan, Brazil and India. Many North American coal miners have increased output during the first quarter of the year and expect to increase their shipments to China during the year. Canadian coal has the benefit of a shorter voyage from the loading ports in British Columbia, but the Phase One trade deal could see a preference for US Coal despite the longer distance. Recent data from The Peterson Institute for International Economics show that Chinese purchases of US goods are still below the volumes committed to in last year’s agreement, which the new US administration expects China to live up.
 

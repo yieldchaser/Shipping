@@ -23,10 +23,10 @@ source_file: "corpus/03-breakwave/insights/2023/2023-09-20_signal-dry-bulk-weekl
 
 **Brazilian iron ore export volumes increased in August, leading to a boost in Capesize tonne days**
 
-![Market Chart 1](assets/2023-09-20_signal-dry-bulk-weekly-report_img_unnamed-2023-09-20t122056953_2914ef495a43.png)
+![Market Chart 1](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-09-20_signal-dry-bulk-weekly-report_img_unnamed-2023-09-20t122056953_2914ef495a43.png)
 
 > **Figure 1: Market Chart 1**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://go.signalocean.com/e/983831/congestion-report-dry-download/2pd9h1/346894656?h=8acfMf1qc-u79gjN59v5dhODYRSXC2mM55w_pFT8OPs) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-09-20_signal-dry-bulk-weekly-report_img_unnamed-2023-09-20t122056953_2914ef495a43.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://go.signalocean.com/e/983831/congestion-report-dry-download/2pd9h1/346894656?h=8acfMf1qc-u79gjN59v5dhODYRSXC2mM55w_pFT8OPs) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-09-20_signal-dry-bulk-weekly-report_img_unnamed-2023-09-20t122056953_2914ef495a43.png)
 
 In the third week of September, freight rates in the various ship categories increased significantly, indicating a robust upward trend. At the same time, there is a noticeable optimism in Chinese economic activity, supported by a number of strategic stimulus measures by policy makers. In recent weeks, policymakers in China have introduced a comprehensive package of measures to boost economic growth and support the real estate market and the national currency.
 Most notably, the People's Bank of China took decisive action on Thursday, cutting the reserve requirement ratio for banks by 0.25 percentage points to 7.4 percent. This effectively injected liquidity into the financial system, further underscoring the determination to maintain economic momentum.
@@ -43,10 +43,10 @@ Freight Market, Supply, Demand and Port Congestion
 
 Market Rates ($/t) Firmer
 
-![Market Chart 2](assets/2023-09-20_signal-dry-bulk-weekly-report_img_unnamed-2023-09-20t122205675_aa1f1d52f40c.png)
+![Market Chart 2](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-09-20_signal-dry-bulk-weekly-report_img_unnamed-2023-09-20t122205675_aa1f1d52f40c.png)
 
 > **Figure 2: Market Chart 2**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-09-20_signal-dry-bulk-weekly-report_img_unnamed-2023-09-20t122205675_aa1f1d52f40c.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-09-20_signal-dry-bulk-weekly-report_img_unnamed-2023-09-20t122205675_aa1f1d52f40c.png)
 
 In the third week of September, rates recovered and sentiment remained positive across all ship size categories, with the recovery particularly pronounced in the Panamax and Handysize segments.
 
@@ -57,10 +57,10 @@ In the third week of September, rates recovered and sentiment remained positive 
 
 ## Section 2/ Supply ​​​
 
-![Supply Trend Lines for Key Load Areasballasters (# Vessels) Mixed](assets/2023-09-20_signal-dry-bulk-weekly-report_img_unnamed-2023-09-20t122606985_f73bfe0774af.png)
+![Supply Trend Lines for Key Load Areasballasters (# Vessels) Mixed](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-09-20_signal-dry-bulk-weekly-report_img_unnamed-2023-09-20t122606985_f73bfe0774af.png)
 
 > **Figure 3: Supply Trend Lines for Key Load Areasballasters (# Vessels) Mixed**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-09-20_signal-dry-bulk-weekly-report_img_unnamed-2023-09-20t122606985_f73bfe0774af.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-09-20_signal-dry-bulk-weekly-report_img_unnamed-2023-09-20t122606985_f73bfe0774af.png)
 
 The number of ballast ships remained at a higher level in the smaller ship categories, while a downward trend was observed in the Capesize and Panamax segments.
 
@@ -71,10 +71,10 @@ The number of ballast ships remained at a higher level in the smaller ship categ
 
 ## Section 3/ Demand
 
-![Summary of Dry Bulk Demand, per Ship Sizetonne Days Decreasing](assets/2023-09-20_signal-dry-bulk-weekly-report_img_unnamed-2023-09-20t122758378_3636da5fc678.png)
+![Summary of Dry Bulk Demand, per Ship Sizetonne Days Decreasing](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-09-20_signal-dry-bulk-weekly-report_img_unnamed-2023-09-20t122758378_3636da5fc678.png)
 
 > **Figure 4: Summary of Dry Bulk Demand, per Ship Sizetonne Days Decreasing**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-09-20_signal-dry-bulk-weekly-report_img_unnamed-2023-09-20t122758378_3636da5fc678.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-09-20_signal-dry-bulk-weekly-report_img_unnamed-2023-09-20t122758378_3636da5fc678.png)
 
 The prevailing sentiment is downward, although there were signs of a possible recovery in the Capesize segment.
 
@@ -85,10 +85,10 @@ The prevailing sentiment is downward, although there were signs of a possible re
 
 ## Section 4/ Port Congestion ​​​​​
 
-![Dry Bulk Ships Congested at Chinese Portsno of Vessels Increasing](assets/2023-09-20_signal-dry-bulk-weekly-report_img_unnamed-2023-09-20t123024179_ba22fade2abb.png)
+![Dry Bulk Ships Congested at Chinese Portsno of Vessels Increasing](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-09-20_signal-dry-bulk-weekly-report_img_unnamed-2023-09-20t123024179_ba22fade2abb.png)
 
 > **Figure 5: Dry Bulk Ships Congested at Chinese Portsno of Vessels Increasing**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-09-20_signal-dry-bulk-weekly-report_img_unnamed-2023-09-20t123024179_ba22fade2abb.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-09-20_signal-dry-bulk-weekly-report_img_unnamed-2023-09-20t123024179_ba22fade2abb.png)
 
 The increase seems to continue in the larger ship categories, while there is evidence of a decline in the Supramax segment.
 

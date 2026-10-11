@@ -182,6 +182,8 @@ pages: 6
 | **Port Stock** | **0.01% Phosphorus** | Low Fe Grade 0.09\<P<0.1% | 6.00 | RMB/wet tonne | +0.00 |
 
 ## Historical Iron Ore Index Comparisons (USD/DMT)
+> **Approximate.** The report prints no numbers for this chart. Values were read visually from the chart image by the parser and are rough estimates.
+
 | Date | IOSI62 (USD/DMT) | IOPi62 CFR Eq (USD/DMT) | IOSI65 (USD/DMT) | IOPi65 CFR Eq (USD/DMT) |
 | :--- | :--- | :--- | :--- | :--- |
 | 4-Jan-21 | 160.00 | 170.00 | 175.00 | 165.00 |
@@ -233,6 +235,8 @@ pages: 6
 | **SGX** | **Aug. 25** | USD/DMT | 105.00 | +0.55 | +0.53% | 9.14 | 44.28 | 103.75 | 105.95 |
 
 ## Dry Bulk Freight Rates Historical Line Data (USD/MT)
+> **Approximate.** The report prints no numbers for this chart. Values were read visually from the chart image by the parser and are rough estimates.
+
 | Date | C5 W. Australia - Qingdao (USD/MT) | C3 Tubarao - Qingdao (USD/MT) |
 | :--- | :--- | :--- |
 | 4-Jan-21 | 15.00 | 18.00 |
@@ -265,20 +269,34 @@ pages: 6
 | 4-Jul-25 | 4.00 | 7.00 |
 
 ## Total China Iron Ore Import Volumes (Million Tonnes)
+> **Estimate.** The report prints no numbers for this chart. Values are computed from the chart's vector geometry at each x-axis date label (calibrated on the printed axis ticks; typically within 1% of the axis range).
+
 | Month / Period | Import Volume (Million Tonnes) |
 | :--- | :--- |
-| Jun-23 | 96.00 |
-| Aug-23 | 106.00 |
-| Oct-23 | 100.00 |
-| Dec-23 | 102.00 |
-| Feb-24 | 111.00 |
-| Apr-24 | 102.00 |
-| Jun-24 | 102.00 |
-| Aug-24 | 102.00 |
-| Oct-24 | 104.00 |
-| Dec-24 | 112.00 |
-| Feb-25 | 96.00 |
-| Apr-25 | 94.00 |
+| Jun-23 | 95.61 |
+| Jul-23 | 93.45 |
+| Aug-23 | 106.43 |
+| Sep-23 | 101.24 |
+| Oct-23 | 99.29 |
+| Nov-23 | 102.75 |
+| Dec-23 | 100.80 |
+| Jan-24 | 111.84 |
+| Feb-24 | 97.56 |
+| Mar-24 | 100.80 |
+| Apr-24 | 101.89 |
+| May-24 | 102.10 |
+| Jun-24 | 97.56 |
+| Jul-24 | 102.75 |
+| Aug-24 | 101.45 |
+| Sep-24 | 104.05 |
+| Oct-24 | 103.83 |
+| Nov-24 | 101.89 |
+| Dec-24 | 112.49 |
+| Jan-25 | 97.13 |
+| Feb-25 | 94.31 |
+| Mar-25 | 93.88 |
+| Apr-25 | 103.18 |
+| May-25 | 98.21 |
 | Jun-25 | 106.00 |
 
 ---

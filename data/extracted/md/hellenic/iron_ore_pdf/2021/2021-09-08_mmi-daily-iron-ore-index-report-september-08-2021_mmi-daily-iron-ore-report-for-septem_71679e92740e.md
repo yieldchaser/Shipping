@@ -168,6 +168,8 @@ DCE iron ore futures continued to rise slightly today, the spot quotations tend 
 | **SGX** | **Oct. 21** | USD/DMT | 131.65 | -4.80 | -3.52% | 1.70 | 173.27 | 130.70 | 137.95 |
 
 ## Dry Bulk Freight Rates Historical Line Data (USD/MT)
+> **Approximate.** The report prints no numbers for this chart. Values were read visually from the chart image by the parser and are rough estimates.
+
 | Date | C5 W. Australia - Qingdao (USD/MT) | C3 Tubarao - Qingdao (USD/MT) |
 | :--- | :--- | :--- |
 | 19-Aug-20 | 4.00 | -12.00 |
@@ -185,6 +187,8 @@ DCE iron ore futures continued to rise slightly today, the spot quotations tend 
 | 19-Aug-21 | 20.00 | -32.00 |
 
 ## Total China Iron Ore Import Volumes (Million Tonnes)
+> **Approximate.** The report prints no numbers for this chart. Values were read visually from the chart image by the parser and are rough estimates.
+
 | Month / Period | Import Volume (Million Tonnes) |
 | :--- | :--- |
 | Jul-20 | 112.00 |

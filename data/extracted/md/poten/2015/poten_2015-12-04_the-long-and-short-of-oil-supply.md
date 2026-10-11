@@ -34,10 +34,18 @@ Recent geopolitical events have had surprisingly little impact on oil prices as 
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: The Long and Short of Oil Supply](../../../charts/poten/2015/poten_2015-12-04_the-long-and-short-of-oil-supply_chart1.png)
+![Exhibit 1: 2015 Crude Oil Production Growth and Forecasted Growth as of Nov 2014](../../../charts/poten/2015/poten_2015-12-04_the-long-and-short-of-oil-supply_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2015/poten_2015-12-04_the-long-and-short-of-oil-supply_chart1.png)
+> **Exhibit 1: 2015 Crude Oil Production Growth and Forecasted Growth as of Nov 2014**  
+> Unit: Mb/d · X-axis: OPEC to Non-Opec Africa  
+> Series: 2015 Growth, Growth Fcst (as of Nov '14)  
+> *Source: IEA*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2015/poten_2015-12-04_the-long-and-short-of-oil-supply_chart1.png)
 
-![Exhibit 2: The Long and Short of Oil Supply](../../../charts/poten/2015/poten_2015-12-04_the-long-and-short-of-oil-supply_chart2.png)
+![Exhibit 2: OPEC Crude Oil Production and Spare Capacity](../../../charts/poten/2015/poten_2015-12-04_the-long-and-short-of-oil-supply_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2015/poten_2015-12-04_the-long-and-short-of-oil-supply_chart2.png)
+> **Exhibit 2: OPEC Crude Oil Production and Spare Capacity**  
+> Unit: MB/d · X-axis: Jan-14 to Sep-15  
+> Series: OPEC Production, Spare Capacity  
+> *Source: IEA*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2015/poten_2015-12-04_the-long-and-short-of-oil-supply_chart2.png)

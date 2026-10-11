@@ -28,10 +28,10 @@ September 26, 2024
 
 *This week's focus is on the overall decreasing pace of ballast speeds across all dry vessel class categories for the year. Notably, the Capesize segment, which initially showed an upward trend at the beginning of the year, saw its ballast speed increase again in September, driven by the improvement in freight rates. In contrast, other vessel classes have maintained a more consistent downward trend in their ballast speeds throughout the year, reflecting a softer demand and operational adjustments to market conditions.*
 
-![Στιγμιότυπο Οθόνης 2024 09 26 153727](assets/2024-09-26_ballast-speed-dry-all-vessel-classes-vs-capesize_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_329ff03c152a.png)
+![Στιγμιότυπο Οθόνης 2024 09 26 153727](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-09-26_ballast-speed-dry-all-vessel-classes-vs-capesize_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_329ff03c152a.png)
 
 > **Figure 1: Στιγμιότυπο Οθόνης 2024 09 26 153727**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://go.signalocean.com/e/983831/-year-on-fresh-china-stimulus-/2ql7sz/438675515/h/AlkVBt9LSXvg7aDhxy77xOa_ADBcSygJdOTVJ_8iQOw) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-09-26_ballast-speed-dry-all-vessel-classes-vs-capesize_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_329ff03c152a.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://go.signalocean.com/e/983831/-year-on-fresh-china-stimulus-/2ql7sz/438675515/h/AlkVBt9LSXvg7aDhxy77xOa_ADBcSygJdOTVJ_8iQOw) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-09-26_ballast-speed-dry-all-vessel-classes-vs-capesize_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_329ff03c152a.png)
 
 In the last week of September, we observed a sustained firmer market sentiment in the Capesize Brazil-to-China route, driven by tight vessel availability that continues to support this momentum. Weekly percentage growth of tonne days has now moved above the lows seen in August, indicating a renewed strength in demand. This uptick in tonne days signals increased activity, with vessel supply constraints playing a significant role in maintaining the upward trajectory. The recent tightening of vessel availability and positive market fundamentals suggest a firmer outlook for the end of the third quarter. Simultaneously, iron ore prices have surged, fueled by fresh stimulus measures from China aimed at stimulating its slowing economy. On Tuesday,[iron ore futures](https://go.signalocean.com/e/983831/-year-on-fresh-china-stimulus-/2ql7sz/438675515/h/AlkVBt9LSXvg7aDhxy77xOa_ADBcSygJdOTVJ_8iQOw)registered their largest intraday gain in over a year. The most-traded January contract on the Dalian Commodity Exchange rose by 4.64%, closing at 699.5 yuan ($99.38) per metric ton, marking the steepest daily increase since late May 2023.
 
@@ -39,10 +39,10 @@ The surge in iron ore prices can be attributed to several factors, primarily the
 
 With the market experiencing renewed optimism, the combination of firm freight rates, restricted vessel availability, and rising iron ore prices presents a positive outlook for the Capesize segment, especially as the quarter draws to a close. However, much will depend on how sustained the Chinese stimulus efforts are and whether additional fiscal measures can further stabilise global demand, which will ultimately impact shipping and commodities markets in the months ahead.
 
-![Στιγμιότυπο Οθόνης 2024 09 26 154115](assets/2024-09-26_ballast-speed-dry-all-vessel-classes-vs-capesize_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_02add0a6aced.png)
+![Στιγμιότυπο Οθόνης 2024 09 26 154115](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-09-26_ballast-speed-dry-all-vessel-classes-vs-capesize_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_02add0a6aced.png)
 
 > **Figure 2: Στιγμιότυπο Οθόνης 2024 09 26 154115**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-09-26_ballast-speed-dry-all-vessel-classes-vs-capesize_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_02add0a6aced.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-09-26_ballast-speed-dry-all-vessel-classes-vs-capesize_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_02add0a6aced.png)
 
 The dry bulk freight market has exhibited stronger sentiment as the month draws to a close, with a notable recovery in the Capesize Brazil to North China route and the Panamax Far East route. These improvements reflect a more optimistic outlook across key shipping lanes, driven by tightening vessel availability and improving demand fundamentals.
 
@@ -51,10 +51,10 @@ The dry bulk freight market has exhibited stronger sentiment as the month draws 
 - **Supramax**vessel freight rates on the Indo-ECI route hovered slightly above $11 per ton for the current week, 8% higher than the previous month.
 - **Handysize**freight rates for the NOPAC Far East route held steady at around $35 per ton, up 12% from rates a year ago.
 
-![Στιγμιότυπο Οθόνης 2024 09 26 154212](assets/2024-09-26_ballast-speed-dry-all-vessel-classes-vs-capesize_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_61ebfef5a807.png)
+![Στιγμιότυπο Οθόνης 2024 09 26 154212](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-09-26_ballast-speed-dry-all-vessel-classes-vs-capesize_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_61ebfef5a807.png)
 
 > **Figure 3: Στιγμιότυπο Οθόνης 2024 09 26 154212**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-09-26_ballast-speed-dry-all-vessel-classes-vs-capesize_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_61ebfef5a807.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-09-26_ballast-speed-dry-all-vessel-classes-vs-capesize_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_61ebfef5a807.png)
 
 Since the end of August, the number of Capesize and Panamax ballast ships in Southeast Africa has fallen noticeably and remains below the annual average. In contrast, smaller vessel segments have seen an increase in ballasting activity, highlighting a shift in market dynamics across all vessel classes.
 
@@ -63,10 +63,10 @@ Since the end of August, the number of Capesize and Panamax ballast ships in Sou
 - **Supramax SE Asia**: The number of ballast ships rose again amid signs for a potential decrease in the previous week. Current levels indicated an increase to more than 100, almost 10 higher than the previous week.
 - **Handysize NOPAC**: The number of ballasters has risen to over 90, an increase of nearly 20 compared to the previous week.
 
-![Στιγμιότυπο Οθόνης 2024 09 26 154308](assets/2024-09-26_ballast-speed-dry-all-vessel-classes-vs-capesize_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_e70c89bec3ee.png)
+![Στιγμιότυπο Οθόνης 2024 09 26 154308](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-09-26_ballast-speed-dry-all-vessel-classes-vs-capesize_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_e70c89bec3ee.png)
 
 > **Figure 4: Στιγμιότυπο Οθόνης 2024 09 26 154308**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-09-26_ballast-speed-dry-all-vessel-classes-vs-capesize_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_e70c89bec3ee.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-09-26_ballast-speed-dry-all-vessel-classes-vs-capesize_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_e70c89bec3ee.png)
 
 In the final days of September, the outlook for dry tonne-days appears promising, with significant increases particularly in the Capesize and Supramax segments. These gains signal stronger market momentum and improving demand across these vessel classes.
 
@@ -75,10 +75,10 @@ In the final days of September, the outlook for dry tonne-days appears promising
 - **Supramax**: The growth rate has consistently risen since the end of week 27 and appears to have peaked at the end of the third week of September, maintaining its momentum into the current month.
 - **Handysize**: The Handysize vessel segment has continued its downward trend as the month comes to a close, with the latest peak recorded at the end of week 31.
 
-![Στιγμιότυπο Οθόνης 2024 09 26 154354](assets/2024-09-26_ballast-speed-dry-all-vessel-classes-vs-capesize_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_715ba5726d7f.png)
+![Στιγμιότυπο Οθόνης 2024 09 26 154354](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-09-26_ballast-speed-dry-all-vessel-classes-vs-capesize_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_715ba5726d7f.png)
 
 > **Figure 5: Στιγμιότυπο Οθόνης 2024 09 26 154354**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-09-26_ballast-speed-dry-all-vessel-classes-vs-capesize_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_715ba5726d7f.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-09-26_ballast-speed-dry-all-vessel-classes-vs-capesize_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_715ba5726d7f.png)
 
 Chinese dry bulk port congestion has remained consistent with the previous week; however, there are indications of a decrease, particularly reflecting the downward trend observed in the Supramax segment.
 

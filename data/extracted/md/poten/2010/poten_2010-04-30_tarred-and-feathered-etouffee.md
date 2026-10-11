@@ -38,4 +38,4 @@ One thing is for certain, incidents such as this do nothing for the plight of oi
 
 ![Exhibit 1: Tarred and Feathered Etouffee](../../../charts/poten/2010/poten_2010-04-30_tarred-and-feathered-etouffee_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2010/poten_2010-04-30_tarred-and-feathered-etouffee_chart1.png)
+> **Interactive Asset:** [Local Asset (200 DPI PNG)](../../../charts/poten/2010/poten_2010-04-30_tarred-and-feathered-etouffee_chart1.png)

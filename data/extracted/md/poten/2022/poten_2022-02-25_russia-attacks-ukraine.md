@@ -30,10 +30,17 @@ If the situation escalates and more severe sanctions are implemented that includ
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: Russia Attacks Ukraine](../../../charts/poten/2022/poten_2022-02-25_russia-attacks-ukraine_chart1.png)
+![Exhibit 1: Russian Seaborne Crude Oil Exports by Load Area](../../../charts/poten/2022/poten_2022-02-25_russia-attacks-ukraine_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2022/poten_2022-02-25_russia-attacks-ukraine_chart1.png)
+> **Exhibit 1: Russian Seaborne Crude Oil Exports by Load Area**  
+> Unit: Kb/d · X-axis: Jan-16 to Jan-22  
+> Series: Black Sea, Far East, Baltic  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2022/poten_2022-02-25_russia-attacks-ukraine_chart1.png)
 
-![Exhibit 2: Russia Attacks Ukraine](../../../charts/poten/2022/poten_2022-02-25_russia-attacks-ukraine_chart2.png)
+![Exhibit 2: Seaborne Russian Crude Oil Exports By Destination](../../../charts/poten/2022/poten_2022-02-25_russia-attacks-ukraine_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2022/poten_2022-02-25_russia-attacks-ukraine_chart2.png)
+> **Exhibit 2: Seaborne Russian Crude Oil Exports By Destination**  
+> Unit: Kbbl / Day · X-axis: Jan-16 to Jan-22  
+> Series: China, Korea, Other Asia, UKC/Baltic, Mediterranean, Americas. Atlantic, Other  
+> *Source: Lloyd’s List Intelligence*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2022/poten_2022-02-25_russia-attacks-ukraine_chart2.png)

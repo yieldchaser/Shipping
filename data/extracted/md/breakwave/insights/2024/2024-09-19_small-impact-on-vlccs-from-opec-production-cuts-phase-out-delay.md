@@ -42,10 +42,10 @@ Factoring in the proportion of OPEC+ exports carried on VLCCs, this only transla
 
 Even if production cuts were being phased-in from October as originally planned, the expected seasonal pickup in Q4 demand instead of extra OPEC+ production would have provided the majority of VLCC employment by a wide margin
 
-![Στιγμιότυπο Οθόνης 2024 09 19 100754](assets/2024-09-19_small-impact-on-vlccs-from-opec-production-cuts-phase-out-delay_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_44e65cea629a.png)
+![Στιγμιότυπο Οθόνης 2024 09 19 100754](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-09-19_small-impact-on-vlccs-from-opec-production-cuts-phase-out-delay_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_44e65cea629a.png)
 
 > **Figure 1: Στιγμιότυπο Οθόνης 2024 09 19 100754**  
-> **Interactive Data & Source:** [Vortexa](https://www.vortexa.com//oil-gas-data-traders-analysts-data-scientists?gclid=Cj0KCQjw8_qRBhCXARIsAE2AtRZKOvMnbilZ_6_91d7huSFFy71pWLrnPwGwOHVzXsmsG-1a1mZnQw8aAt89EALw_wcB&hsa_acc=1782073842&hsa_ad=548425387665&hsa_cam=14746637662&hsa_grp=125038601902&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_src=g&hsa_tgt=dsa-1431852288425&hsa_ver=3&utm_campaign=%5BCD%5D%20-%20DSA%20-%20EMEA&utm_medium=cpc&utm_medium=ppc&utm_source=google&utm_source=adwords&utm_term=) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-09-19_small-impact-on-vlccs-from-opec-production-cuts-phase-out-delay_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_44e65cea629a.png)
+> **Interactive Data & Source:** [Vortexa](https://www.vortexa.com//oil-gas-data-traders-analysts-data-scientists?gclid=Cj0KCQjw8_qRBhCXARIsAE2AtRZKOvMnbilZ_6_91d7huSFFy71pWLrnPwGwOHVzXsmsG-1a1mZnQw8aAt89EALw_wcB&hsa_acc=1782073842&hsa_ad=548425387665&hsa_cam=14746637662&hsa_grp=125038601902&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_src=g&hsa_tgt=dsa-1431852288425&hsa_ver=3&utm_campaign=%5BCD%5D%20-%20DSA%20-%20EMEA&utm_medium=cpc&utm_medium=ppc&utm_source=google&utm_source=adwords&utm_term=) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-09-19_small-impact-on-vlccs-from-opec-production-cuts-phase-out-delay_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_44e65cea629a.png)
 
 **Clean – East of Suez: High intra-NE Asia MR demand underscores the region’s CPP oversupply and refining margin pressures**
 
@@ -60,10 +60,10 @@ Though seaborne exports may increase in the short-term to compensate for weaker 
 
 Chinese CPP export quotas could offer a short-term boost to MRs, but this will likely pressure the region’s refinery margins further
 
-![Στιγμιότυπο Οθόνης 2024 09 19 160344](assets/2024-09-19_small-impact-on-vlccs-from-opec-production-cuts-phase-out-delay_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_90531e7cfd18.png)
+![Στιγμιότυπο Οθόνης 2024 09 19 160344](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-09-19_small-impact-on-vlccs-from-opec-production-cuts-phase-out-delay_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_90531e7cfd18.png)
 
 > **Figure 2: Στιγμιότυπο Οθόνης 2024 09 19 160344**  
-> **Interactive Data & Source:** [Vortexa](https://www.vortexa.com//oil-gas-data-traders-analysts-data-scientists?gclid=Cj0KCQjw8_qRBhCXARIsAE2AtRZKOvMnbilZ_6_91d7huSFFy71pWLrnPwGwOHVzXsmsG-1a1mZnQw8aAt89EALw_wcB&hsa_acc=1782073842&hsa_ad=548425387665&hsa_cam=14746637662&hsa_grp=125038601902&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_src=g&hsa_tgt=dsa-1431852288425&hsa_ver=3&utm_campaign=%5BCD%5D%20-%20DSA%20-%20EMEA&utm_medium=cpc&utm_medium=ppc&utm_source=google&utm_source=adwords&utm_term=) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-09-19_small-impact-on-vlccs-from-opec-production-cuts-phase-out-delay_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_90531e7cfd18.png)
+> **Interactive Data & Source:** [Vortexa](https://www.vortexa.com//oil-gas-data-traders-analysts-data-scientists?gclid=Cj0KCQjw8_qRBhCXARIsAE2AtRZKOvMnbilZ_6_91d7huSFFy71pWLrnPwGwOHVzXsmsG-1a1mZnQw8aAt89EALw_wcB&hsa_acc=1782073842&hsa_ad=548425387665&hsa_cam=14746637662&hsa_grp=125038601902&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_src=g&hsa_tgt=dsa-1431852288425&hsa_ver=3&utm_campaign=%5BCD%5D%20-%20DSA%20-%20EMEA&utm_medium=cpc&utm_medium=ppc&utm_source=google&utm_source=adwords&utm_term=) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-09-19_small-impact-on-vlccs-from-opec-production-cuts-phase-out-delay_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_90531e7cfd18.png)
 
 **Dirty – West of Suez: Aframax crude employment is losing out across both mainstream and Russian trade**
 
@@ -81,10 +81,10 @@ This is especially concerning considering the boost from the TMX expansion has a
 
 - However, a further drop in crude prices could bring Urals below the price cap, attracting more Western operators to the Russian trade and alleviating mainstream trade supply
 
-![Στιγμιότυπο Οθόνης 2024 09 19 160411](assets/2024-09-19_small-impact-on-vlccs-from-opec-production-cuts-phase-out-delay_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_72ef6403d9ee.png)
+![Στιγμιότυπο Οθόνης 2024 09 19 160411](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-09-19_small-impact-on-vlccs-from-opec-production-cuts-phase-out-delay_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_72ef6403d9ee.png)
 
 > **Figure 3: Στιγμιότυπο Οθόνης 2024 09 19 160411**  
-> **Interactive Data & Source:** [Vortexa](https://www.vortexa.com//oil-gas-data-traders-analysts-data-scientists?gclid=Cj0KCQjw8_qRBhCXARIsAE2AtRZKOvMnbilZ_6_91d7huSFFy71pWLrnPwGwOHVzXsmsG-1a1mZnQw8aAt89EALw_wcB&hsa_acc=1782073842&hsa_ad=548425387665&hsa_cam=14746637662&hsa_grp=125038601902&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_src=g&hsa_tgt=dsa-1431852288425&hsa_ver=3&utm_campaign=%5BCD%5D%20-%20DSA%20-%20EMEA&utm_medium=cpc&utm_medium=ppc&utm_source=google&utm_source=adwords&utm_term=) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-09-19_small-impact-on-vlccs-from-opec-production-cuts-phase-out-delay_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_72ef6403d9ee.png)
+> **Interactive Data & Source:** [Vortexa](https://www.vortexa.com//oil-gas-data-traders-analysts-data-scientists?gclid=Cj0KCQjw8_qRBhCXARIsAE2AtRZKOvMnbilZ_6_91d7huSFFy71pWLrnPwGwOHVzXsmsG-1a1mZnQw8aAt89EALw_wcB&hsa_acc=1782073842&hsa_ad=548425387665&hsa_cam=14746637662&hsa_grp=125038601902&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_src=g&hsa_tgt=dsa-1431852288425&hsa_ver=3&utm_campaign=%5BCD%5D%20-%20DSA%20-%20EMEA&utm_medium=cpc&utm_medium=ppc&utm_source=google&utm_source=adwords&utm_term=) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-09-19_small-impact-on-vlccs-from-opec-production-cuts-phase-out-delay_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_72ef6403d9ee.png)
 
 ### Clean – West of Suez: Lpg/ethane Tonne-Miles Via the Panama Canal Rebound
 
@@ -99,10 +99,10 @@ LPG freight rates have also fallen due to weaker demand
 - Also contributing to slowing tonne-miles were lower Chinese PDH margins and run rates (Argus), plus the narrowing LPGnaphtha spread, which makes naphtha a more attractive cracker feedstock
 - As the drought situation in the Panama Canal has improved, we are likely to see tonne-miles via the Panama Canal returning to normalcy and likely increase as winter LPG demand from NE Asia is on the horizon
 
-![Στιγμιότυπο Οθόνης 2024 09 19 160423](assets/2024-09-19_small-impact-on-vlccs-from-opec-production-cuts-phase-out-delay_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_56f9921695c0.png)
+![Στιγμιότυπο Οθόνης 2024 09 19 160423](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-09-19_small-impact-on-vlccs-from-opec-production-cuts-phase-out-delay_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_56f9921695c0.png)
 
 > **Figure 4: Στιγμιότυπο Οθόνης 2024 09 19 160423**  
-> **Interactive Data & Source:** [Vortexa](https://www.vortexa.com//oil-gas-data-traders-analysts-data-scientists?gclid=Cj0KCQjw8_qRBhCXARIsAE2AtRZKOvMnbilZ_6_91d7huSFFy71pWLrnPwGwOHVzXsmsG-1a1mZnQw8aAt89EALw_wcB&hsa_acc=1782073842&hsa_ad=548425387665&hsa_cam=14746637662&hsa_grp=125038601902&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_src=g&hsa_tgt=dsa-1431852288425&hsa_ver=3&utm_campaign=%5BCD%5D%20-%20DSA%20-%20EMEA&utm_medium=cpc&utm_medium=ppc&utm_source=google&utm_source=adwords&utm_term=) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-09-19_small-impact-on-vlccs-from-opec-production-cuts-phase-out-delay_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_56f9921695c0.png)
+> **Interactive Data & Source:** [Vortexa](https://www.vortexa.com//oil-gas-data-traders-analysts-data-scientists?gclid=Cj0KCQjw8_qRBhCXARIsAE2AtRZKOvMnbilZ_6_91d7huSFFy71pWLrnPwGwOHVzXsmsG-1a1mZnQw8aAt89EALw_wcB&hsa_acc=1782073842&hsa_ad=548425387665&hsa_cam=14746637662&hsa_grp=125038601902&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_src=g&hsa_tgt=dsa-1431852288425&hsa_ver=3&utm_campaign=%5BCD%5D%20-%20DSA%20-%20EMEA&utm_medium=cpc&utm_medium=ppc&utm_source=google&utm_source=adwords&utm_term=) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-09-19_small-impact-on-vlccs-from-opec-production-cuts-phase-out-delay_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_56f9921695c0.png)
 
 Data Source:[Vortexa](https://www.vortexa.com//oil-gas-data-traders-analysts-data-scientists?gclid=Cj0KCQjw8_qRBhCXARIsAE2AtRZKOvMnbilZ_6_91d7huSFFy71pWLrnPwGwOHVzXsmsG-1a1mZnQw8aAt89EALw_wcB&hsa_acc=1782073842&hsa_ad=548425387665&hsa_cam=14746637662&hsa_grp=125038601902&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_src=g&hsa_tgt=dsa-1431852288425&hsa_ver=3&utm_campaign=%5BCD%5D%20-%20DSA%20-%20EMEA&utm_medium=cpc&utm_medium=ppc&utm_source=google&utm_source=adwords&utm_term=)
 

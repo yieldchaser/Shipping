@@ -19,10 +19,10 @@ source_file: "corpus/03-breakwave/insights/2023/2023-02-28_breakwave-bi-weekly-d
 
 ---
 
-![Dbreporttop](assets/2023-02-28_breakwave-bi-weekly-dry-bulk-report-february-28-2023_img_dbreporttop_c2d617e8ec12.png)
+![Dbreporttop](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-02-28_breakwave-bi-weekly-dry-bulk-report-february-28-2023_img_dbreporttop_c2d617e8ec12.png)
 
 > **Figure 1: Dbreporttop**  
-> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/publications) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-02-28_breakwave-bi-weekly-dry-bulk-report-february-28-2023_img_dbreporttop_c2d617e8ec12.png)
+> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/publications) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-02-28_breakwave-bi-weekly-dry-bulk-report-february-28-2023_img_dbreporttop_c2d617e8ec12.png)
 
 **•Bottom is in, slope of recovery remains debatable**– Following a long period of dreadful market conditions, the dry bulk market seems to have finally found a bottom. The recent steep rally in rates appears impressive in percentage terms, but in actual dollars the improvement has been marginal. After all, across vessel classes, the increase in spot rates from recent lows has been less than $5,000/day. If indeed we hit bottom, what would the progression of spot rates look like from here? Futures remain optimistic that, by the end of March, Capesize spot rates will barely be in double-digit territory. Yet, history says that such a forecast might be conservative as Capesize rates tend to move in larger increments than a few hundred dollars at a time. For now, market participants remain cautious and not willing to price-in a meaningful recovery just yet, and rightfully so, as China’s appetite for iron ore has been anything but impressive. However, looking forward, if construction activity is expected to push steel prices higher, thus improving profitability for the numerous steel mills in China, then iron ore imports should drive demand for transportation. We remain optimistic about the near-term direction of spot rates and given the major progress that spot rates for smaller asset classes have achieved lately, we would not be surprised to see Capesize rates reaching the high teens by the end of March. Such optimism should be tempered by the fact that inclement weather in Brazil remains a major obstacle for higher iron ore export volumes near term, and although we assume that this is temporary, it might take longer to resolve than we anticipate.
 
@@ -32,12 +32,12 @@ source_file: "corpus/03-breakwave/insights/2023/2023-02-28_breakwave-bi-weekly-d
 
 [Subscribe: Bi-Weekly Dry Bulk Report](https://www.breakwaveadvisors.com/publications)
 
-![Dbreportchart](assets/2023-02-28_breakwave-bi-weekly-dry-bulk-report-february-28-2023_img_dbreportchart_70a540ae9dd0.png)
+![Dbreportchart](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-02-28_breakwave-bi-weekly-dry-bulk-report-february-28-2023_img_dbreportchart_70a540ae9dd0.png)
 
 > **Figure 2: Dbreportchart**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-02-28_breakwave-bi-weekly-dry-bulk-report-february-28-2023_img_dbreportchart_70a540ae9dd0.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-02-28_breakwave-bi-weekly-dry-bulk-report-february-28-2023_img_dbreportchart_70a540ae9dd0.png)
 
-![Dbreportbottom](assets/2023-02-28_breakwave-bi-weekly-dry-bulk-report-february-28-2023_img_dbreportbottom_a218b2a4d5c3.png)
+![Dbreportbottom](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-02-28_breakwave-bi-weekly-dry-bulk-report-february-28-2023_img_dbreportbottom_a218b2a4d5c3.png)
 
 > **Figure 3: Dbreportbottom**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-02-28_breakwave-bi-weekly-dry-bulk-report-february-28-2023_img_dbreportbottom_a218b2a4d5c3.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-02-28_breakwave-bi-weekly-dry-bulk-report-february-28-2023_img_dbreportbottom_a218b2a4d5c3.png)

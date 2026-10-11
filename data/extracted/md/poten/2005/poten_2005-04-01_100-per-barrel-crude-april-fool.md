@@ -108,6 +108,20 @@ Considering China's determination to enter the automobile age and the penchant o
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: $100+ Per Barrel Crude: April Fool?](../../../charts/poten/2005/poten_2005-04-01_100-per-barrel-crude-april-fool_chart1.png)
+> **Chart on PDF page 2: Last Time Oil Prices Peaked**  
+> Unit: $/Bbl · X-axis: 1970 to 1990  
+> Series: Constant 2003$, Current $  
+> *Source: BP Statistics/Poten*  
+> *No image crop of this chart was saved; caption read from the PDF.*
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2005/poten_2005-04-01_100-per-barrel-crude-april-fool_chart1.png)
+> **Chart on PDF page 2: Speaking of Lags**  
+> Unit: $/Bbl | Mm Bpd · X-axis: 1970 to 1990  
+> Series: Oil Price Constant $, Gasoline Consumption  
+> *Source: BP Statistics/Poten*  
+> *No image crop of this chart was saved; caption read from the PDF.*
+
+> **Chart on PDF page 4: Miles Per Gallon**  
+> Unit: $/Bbl | Mpg · X-axis: 1970 to 1990  
+> Series: Oil Price Constant $, Miles per Gallon  
+> *Source: Department of Transportation/Poten*  
+> *No image crop of this chart was saved; caption read from the PDF.*

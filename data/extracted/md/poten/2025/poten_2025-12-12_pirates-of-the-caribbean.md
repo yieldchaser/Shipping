@@ -26,10 +26,16 @@ Time will tell how far the U.S. will go in pressuring Venezuela, but it does see
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: Pirates of the Caribbean](../../../charts/poten/2025/poten_2025-12-12_pirates-of-the-caribbean_chart1.png)
+![Exhibit 1: Venezuela Crude Exports by Destination](../../../charts/poten/2025/poten_2025-12-12_pirates-of-the-caribbean_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2025/poten_2025-12-12_pirates-of-the-caribbean_chart1.png)
+> **Exhibit 1: Venezuela Crude Exports by Destination**  
+> Unit: Kb/d · X-axis: Jan-17 to Sep-25  
+> Series: China, United States, India, Curacao, Cuba, Spain, Malaysia, Other  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2025/poten_2025-12-12_pirates-of-the-caribbean_chart1.png)
 
-![Exhibit 2: Pirates of the Caribbean](../../../charts/poten/2025/poten_2025-12-12_pirates-of-the-caribbean_chart2.png)
+![Exhibit 2: Crude Exports from Venezuela by Vessel Class](../../../charts/poten/2025/poten_2025-12-12_pirates-of-the-caribbean_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2025/poten_2025-12-12_pirates-of-the-caribbean_chart2.png)
+> **Exhibit 2: Crude Exports from Venezuela by Vessel Class**  
+> Unit: Kb/d · X-axis: Jan-17 to Sep-25  
+> Series: VLCC, Aframax/LR2, Suezmax, Panamax/LR1, Smaller  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2025/poten_2025-12-12_pirates-of-the-caribbean_chart2.png)

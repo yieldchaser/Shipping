@@ -34,10 +34,18 @@ So what is the owner of a dirty Panamax tanker to do? Stay close to the key char
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: Panamaxes Cleaning Up Their Act](../../../charts/poten/2014/poten_2014-12-12_panamaxes-cleaning-up-their-act_chart1.png)
+![Exhibit 1: Panamax Fixtures (Clean versus Dirty Cargoes)](../../../charts/poten/2014/poten_2014-12-12_panamaxes-cleaning-up-their-act_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2014/poten_2014-12-12_panamaxes-cleaning-up-their-act_chart1.png)
+> **Exhibit 1: Panamax Fixtures (Clean versus Dirty Cargoes)**  
+> Unit: Fixtures | % · X-axis: 2000 Q1 to 2014 Q1  
+> Series: Dirty, Clean, Dirty %  
+> *Source: Poten*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2014/poten_2014-12-12_panamaxes-cleaning-up-their-act_chart1.png)
 
-![Exhibit 2: Panamaxes Cleaning Up Their Act](../../../charts/poten/2014/poten_2014-12-12_panamaxes-cleaning-up-their-act_chart2.png)
+![Exhibit 2: Panamax Age Profile (number of vessels)](../../../charts/poten/2014/poten_2014-12-12_panamaxes-cleaning-up-their-act_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2014/poten_2014-12-12_panamaxes-cleaning-up-their-act_chart2.png)
+> **Exhibit 2: Panamax Age Profile (number of vessels)**  
+> Unit: number of vessels · X-axis: 1990 to 2017  
+> Series: LR1, Dirty, LR1 On Order, Dirty On Order  
+> *Source: Poten*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2014/poten_2014-12-12_panamaxes-cleaning-up-their-act_chart2.png)

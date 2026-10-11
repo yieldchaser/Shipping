@@ -58,10 +58,10 @@ Demand for seaborne transportation of steel bound for European ports for the pas
 
 Beyond the continued importance of the intra-Euorpean trade, an increase in demand for Indian steel has contributed to the month-on-month growth of cargo order volumes. The rise will primarily benefit the smaller vessels as average cargo sizes remain around 20,000 tonnes. There is also the possibility that tonne-mile demand will increase more than under normal circumstances as shipments may need to take the longer route around the Cape of Good Hope.
 
-![241](assets/2024-02-01_shipfix-global-market-update_img_241_91b35d68303e.png)
+![241](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-02-01_shipfix-global-market-update_img_241_91b35d68303e.png)
 
 > **Figure 1: 241**  
-> **Interactive Data & Source:** [Shipfix](https://shipfix.com/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-02-01_shipfix-global-market-update_img_241_91b35d68303e.png)
+> **Interactive Data & Source:** [Shipfix](https://shipfix.com/) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-02-01_shipfix-global-market-update_img_241_91b35d68303e.png)
 
 Data Source:[Shipfix](https://shipfix.com/)
 

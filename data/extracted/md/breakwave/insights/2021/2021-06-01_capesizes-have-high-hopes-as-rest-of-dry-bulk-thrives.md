@@ -25,7 +25,7 @@ The ongoing correction in the spot Capesize rates has left freight futures trade
 ![Q1 vs Spot, Capes](assets/2021-06-01_capesizes-have-high-hopes-as-rest-of-dry-bulk-thrives_img_q1vsspot2ccapes_9702b4906386.png)
 
 > **Figure 1: Q1 vs Spot, Capes**  
-> **Interactive Data & Source:** [Mining](https://www.mining.com/cerrejon-lifts-force-majeure-caused-by-blockades/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2021/assets/2021-06-01_capesizes-have-high-hopes-as-rest-of-dry-bulk-thrives_img_q1vsspot2ccapes_9702b4906386.png)
+> **Interactive Data & Source:** [Mining](https://www.mining.com/cerrejon-lifts-force-majeure-caused-by-blockades/) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-06-01_capesizes-have-high-hopes-as-rest-of-dry-bulk-thrives_img_q1vsspot2ccapes_9702b4906386.png)
 
 The market has been there before. Hope is not only part of the market narrative when it comes to freight (after all, there is no “carry-trade” in freight, unlike other commodities) but the blurry picture of the short term demand/supply balance leads to such a “strategy” quite often.
 
@@ -38,13 +38,13 @@ In the Atlantic, the balance is fuzzier, as a combination of strikes, port delay
 ![Br Io Exp](assets/2021-06-01_capesizes-have-high-hopes-as-rest-of-dry-bulk-thrives_img_brioexp_bc73ece076ac.png)
 
 > **Figure 2: Br Io Exp**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2021/assets/2021-06-01_capesizes-have-high-hopes-as-rest-of-dry-bulk-thrives_img_brioexp_bc73ece076ac.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-06-01_capesizes-have-high-hopes-as-rest-of-dry-bulk-thrives_img_brioexp_bc73ece076ac.png)
 
 So, the market is not only “hoping” for a reversal in the declining Capesize spot market, as there are valid reasons for such expectations. Yet, we are reaching the point of a skewed risk/reward, as the premiums in futures are record high with the upside potential lower that the underlying risk, in our view.
 
 On the other hand, this year has been anything but normal. Q1 spot Capesize rates averaged 17,000, one of the best performances in several years while Q2 is tracking close to 30,000, a very high level only comparable to the 2000s bull market. As a result, the premium assigned to Q3 rates is warranted if one looks how the first half of the year has already developed.
 
-Only time will tell which way the “spread” will ultimately close. We remain of the[view](../pdfs/2021-06-01_capesizes-have-high-hopes-as-rest-of-dry-bulk-thrives_breakwavemay252021report_05e0bc1e72b1.pdf)that the Capesize market will bottom by mid-June before turning up again. In shipping, timing is crucial, but impossible to pinpoint. Yet, we would not really sweat over precision. Fundamentals remain strong, volatility is abound, and even if the absolute bottom happens sooner than later, the opportunities for investors and traders alike are still there.
+Only time will tell which way the “spread” will ultimately close. We remain of the[view](../../../../../../corpus/03-breakwave/insights/pdfs/2021-06-01_capesizes-have-high-hopes-as-rest-of-dry-bulk-thrives_breakwavemay252021report_05e0bc1e72b1.pdf)that the Capesize market will bottom by mid-June before turning up again. In shipping, timing is crucial, but impossible to pinpoint. Yet, we would not really sweat over precision. Fundamentals remain strong, volatility is abound, and even if the absolute bottom happens sooner than later, the opportunities for investors and traders alike are still there.
 
 ---
 

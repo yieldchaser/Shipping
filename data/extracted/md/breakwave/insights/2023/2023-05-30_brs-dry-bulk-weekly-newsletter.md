@@ -19,10 +19,10 @@ source_file: "corpus/03-breakwave/insights/2023/2023-05-30_brs-dry-bulk-weekly-n
 
 ---
 
-![Brs Logo No Background (1)](assets/2023-05-30_brs-dry-bulk-weekly-newsletter_img_brslogo-nobackground28129_f39a57dd6dc6.png)
+![Brs Logo No Background (1)](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-05-30_brs-dry-bulk-weekly-newsletter_img_brslogo-nobackground28129_f39a57dd6dc6.png)
 
 > **Figure 1: Brs Logo No Background (1)**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-05-30_brs-dry-bulk-weekly-newsletter_img_brslogo-nobackground28129_f39a57dd6dc6.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-05-30_brs-dry-bulk-weekly-newsletter_img_brslogo-nobackground28129_f39a57dd6dc6.png)
 
 ## China Power System Brings More Volatility to the Shipping Market
 
@@ -36,10 +36,10 @@ In addition, with favorable weather during this period, there was a substantial 
 
 Secondly, the growth of renewable energy generation which are not dispatchable such as wind and solar power. Unlike conventional coal-fired power generation, renewable energy generation is subjected to fluctuations and intermittence; and the increase of installed capacity of renewable energy sources (see below chart) result in a higher likelihood of mismatch between peak periods of renewable power generation and user demand. This translates to more frequent negative spot trading prices.
 
-![1 (2)](assets/2023-05-30_brs-dry-bulk-weekly-newsletter_img_128229_2c30326a4929.png)
+![1 (2)](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-05-30_brs-dry-bulk-weekly-newsletter_img_128229_2c30326a4929.png)
 
 > **Figure 2: 1 (2)**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-05-30_brs-dry-bulk-weekly-newsletter_img_128229_2c30326a4929.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-05-30_brs-dry-bulk-weekly-newsletter_img_128229_2c30326a4929.png)
 
 Despite the seasonal patterns, the share of coal fire power generation has been decreasing year by year, gradually being replaced by renewable energy sources.
 
@@ -65,10 +65,10 @@ According to government reports, by 2025, a unified national electricity market 
 
 For 2023, consensus would be that the total annual electricity consumption of the entire country shall increase from last year's 8.6372 trillion kilowatt-hours to over 9 trillion kilowatt-hours. Although the market has remained optimistic about the increase in electricity consumption this year, there are still significant differences among different institutions, varying from 5% to 8%. For instance, State Grid and China Electricity Council, the two most authoritative domestic power institutions, forecast an annual growth rate of 6-8% and 5-6%, respectively.
 
-![1 (3)](assets/2023-05-30_brs-dry-bulk-weekly-newsletter_img_128329_5814ffaf8f45.png)
+![1 (3)](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-05-30_brs-dry-bulk-weekly-newsletter_img_128329_5814ffaf8f45.png)
 
 > **Figure 3: 1 (3)**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-05-30_brs-dry-bulk-weekly-newsletter_img_128329_5814ffaf8f45.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-05-30_brs-dry-bulk-weekly-newsletter_img_128329_5814ffaf8f45.png)
 
 Despite renewable energy development and the gradually decreasing share of coal-fired generation in the power industry, coal still represent 69.77% of China’s total power generation. Coalfired generation is expected to maintain a low-speed growth rate (0.5%-1%) but continue to play an important role in the power generation industry.
 
@@ -84,10 +84,10 @@ In the short term, due to slower-than-expected resumption of construction and re
 
 Looking at the entire year and supported by a projected 3% increase in annual coal-fired generation, coal demand shall remain high, shielding expectations that China's annual coal import volume is likely to reach a record-breaking 350 million tons, with around 300 million tons being imported via seaborne transport.
 
-![1 (4)](assets/2023-05-30_brs-dry-bulk-weekly-newsletter_img_128429_2c418915054a.png)
+![1 (4)](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-05-30_brs-dry-bulk-weekly-newsletter_img_128429_2c418915054a.png)
 
 > **Figure 4: 1 (4)**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-05-30_brs-dry-bulk-weekly-newsletter_img_128429_2c418915054a.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-05-30_brs-dry-bulk-weekly-newsletter_img_128429_2c418915054a.png)
 
 Well supported from the power industry, China seaborne coal import is expected to reach 300 mln mt in 2023.
 

@@ -26,10 +26,18 @@ A possible ban on U.S. imports of Venezuelan crude will most likely benefit Cana
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: Caribbean Tankers in Trouble](../../../charts/poten/2017/poten_2017-07-21_caribbean-tankers-in-trouble_chart1.png)
+![Exhibit 1: Venezuela Oil Production and Exports to U.S.](../../../charts/poten/2017/poten_2017-07-21_caribbean-tankers-in-trouble_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2017/poten_2017-07-21_caribbean-tankers-in-trouble_chart1.png)
+> **Exhibit 1: Venezuela Oil Production and Exports to U.S.**  
+> Unit: Mb/d · X-axis: 1Q1989 to 1Q2017  
+> Series: Production, Exports to U.S.  
+> *Source: Bloomberg, EIA*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2017/poten_2017-07-21_caribbean-tankers-in-trouble_chart1.png)
 
-![Exhibit 2: Caribbean Tankers in Trouble](../../../charts/poten/2017/poten_2017-07-21_caribbean-tankers-in-trouble_chart2.png)
+![Exhibit 2: Main Venezuela Export Destinations](../../../charts/poten/2017/poten_2017-07-21_caribbean-tankers-in-trouble_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2017/poten_2017-07-21_caribbean-tankers-in-trouble_chart2.png)
+> **Exhibit 2: Main Venezuela Export Destinations**  
+> Unit: Kb/d · X-axis: Jan-15 to May-17  
+> Series: USA, China, India  
+> *Source: Lloyd’s List Intelligence*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2017/poten_2017-07-21_caribbean-tankers-in-trouble_chart2.png)

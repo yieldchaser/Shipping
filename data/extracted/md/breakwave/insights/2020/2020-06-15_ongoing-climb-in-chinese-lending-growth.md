@@ -20,10 +20,10 @@ source_file: "corpus/03-breakwave/insights/2020/2020-06-15_ongoing-climb-in-chin
 
 ---
 
-![Market Chart 1](assets/2020-06-15_ongoing-climb-in-chinese-lending-growth_img_image-asset_e33370802a4e.jpeg)
+![Market Chart 1](../../../../../../corpus/03-breakwave/insights/2020/assets/2020-06-15_ongoing-climb-in-chinese-lending-growth_img_image-asset_e33370802a4e.jpeg)
 
 > **Figure 1: Market Chart 1**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2020/assets/2020-06-15_ongoing-climb-in-chinese-lending-growth_img_image-asset_e33370802a4e.jpeg)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2020/assets/2020-06-15_ongoing-climb-in-chinese-lending-growth_img_image-asset_e33370802a4e.jpeg)
 
 Chinese banks issued 1.48 trillion yuan in new loans in May, which marks a month-on-month decline of 220 billion yuan (-13%) but a year-on-year increase of 300 billion yuan (25%). The first five months of this year have seen lending grow year-on-year by 28%. This marks a significant shift from last year, as lending last year grew year-on-year by only 4%.
 

@@ -32,10 +32,18 @@ The outlook for the tanker market remains favorable over the next few years. The
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: Can Owners Avoid Growing Pains?](../../../charts/poten/2015/poten_2015-02-27_can-owners-avoid-growing-pains_chart1.png)
+![Exhibit 1: Fig. 1: VLCC Newbuilding and Second Hand Prices](../../../charts/poten/2015/poten_2015-02-27_can-owners-avoid-growing-pains_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2015/poten_2015-02-27_can-owners-avoid-growing-pains_chart1.png)
+> **Exhibit 1: Fig. 1: VLCC Newbuilding and Second Hand Prices**  
+> Unit: Million USD · X-axis: Jan-12 to Jan-15  
+> Series: Newbuilding Price, Market Value - 5 Yr Old  
+> *Source: Poten & Partners*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2015/poten_2015-02-27_can-owners-avoid-growing-pains_chart1.png)
 
-![Exhibit 2: Can Owners Avoid Growing Pains?](../../../charts/poten/2015/poten_2015-02-27_can-owners-avoid-growing-pains_chart2.png)
+![Exhibit 2: Fig. 2: Orderbook Change since Jan 2014 and Current Orderbook %](../../../charts/poten/2015/poten_2015-02-27_can-owners-avoid-growing-pains_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2015/poten_2015-02-27_can-owners-avoid-growing-pains_chart2.png)
+> **Exhibit 2: Fig. 2: Orderbook Change since Jan 2014 and Current Orderbook %**  
+> Unit: Number of Vessels | OB % of Fleet · X-axis: VLCC to MR  
+> Series: Deliveries, New Orders, Net, OB % of Fleet (RH axis)  
+> *Source: Poten & Partners*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2015/poten_2015-02-27_can-owners-avoid-growing-pains_chart2.png)

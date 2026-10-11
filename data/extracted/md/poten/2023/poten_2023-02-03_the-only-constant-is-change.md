@@ -34,8 +34,8 @@ It is difficult to see clearly what changes 2023 will bring. The strength of Chi
 
 ![Exhibit 1: The Only Constant is Change](../../../charts/poten/2023/poten_2023-02-03_the-only-constant-is-change_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2023/poten_2023-02-03_the-only-constant-is-change_chart1.png)
+> **Interactive Asset:** [Local Asset (200 DPI PNG)](../../../charts/poten/2023/poten_2023-02-03_the-only-constant-is-change_chart1.png)
 
 ![Exhibit 2: The Only Constant is Change](../../../charts/poten/2023/poten_2023-02-03_the-only-constant-is-change_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2023/poten_2023-02-03_the-only-constant-is-change_chart2.png)
+> **Interactive Asset:** [Local Asset (200 DPI PNG)](../../../charts/poten/2023/poten_2023-02-03_the-only-constant-is-change_chart2.png)

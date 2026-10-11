@@ -32,10 +32,17 @@ The oil released from the SPR will likely stay in the United States. Through mul
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: Christmas de Stocking](../../../charts/poten/2016/poten_2016-12-22_christmas-de-stocking_chart1.png)
+![Exhibit 1: Crude Oil in U.S. Strategic Petroleum Reserves (SPR)](../../../charts/poten/2016/poten_2016-12-22_christmas-de-stocking_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2016/poten_2016-12-22_christmas-de-stocking_chart1.png)
+> **Exhibit 1: Crude Oil in U.S. Strategic Petroleum Reserves (SPR)**  
+> Unit: 1,000 bbl · X-axis: Oct-1977 to Apr-2015  
+> *Source: EIA*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2016/poten_2016-12-22_christmas-de-stocking_chart1.png)
 
-![Exhibit 2: Christmas de Stocking](../../../charts/poten/2016/poten_2016-12-22_christmas-de-stocking_chart2.png)
+![Exhibit 2: Planned Annual SPR Crude Oil Sales](../../../charts/poten/2016/poten_2016-12-22_christmas-de-stocking_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2016/poten_2016-12-22_christmas-de-stocking_chart2.png)
+> **Exhibit 2: Planned Annual SPR Crude Oil Sales**  
+> Unit: million barrels · X-axis: 2017 to 2025  
+> Series: BBA Section 404*, Cures Act, BBA Section 403, FAST Act  
+> *Source: Strategic Petroleum Reserve.*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2016/poten_2016-12-22_christmas-de-stocking_chart2.png)

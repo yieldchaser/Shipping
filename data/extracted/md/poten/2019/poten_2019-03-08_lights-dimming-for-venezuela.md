@@ -32,10 +32,18 @@ Until the political situation is resolved, most charterers and ship owners will 
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: Lights Dimming For Venezuela](../../../charts/poten/2019/poten_2019-03-08_lights-dimming-for-venezuela_chart1.png)
+![Exhibit 1: Venezuela* Crude Oil Exports](../../../charts/poten/2019/poten_2019-03-08_lights-dimming-for-venezuela_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2019/poten_2019-03-08_lights-dimming-for-venezuela_chart1.png)
+> **Exhibit 1: Venezuela* Crude Oil Exports**  
+> Unit: Kb/d · X-axis: Jan-14 to Jan-19  
+> Series: USA, China, India, S Europe, NW Europe, Other  
+> *Source: Lloyd's List Intelligence*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2019/poten_2019-03-08_lights-dimming-for-venezuela_chart1.png)
 
-![Exhibit 2: Lights Dimming For Venezuela](../../../charts/poten/2019/poten_2019-03-08_lights-dimming-for-venezuela_chart2.png)
+![Exhibit 2: Aframax (TD9) vs VLCC (Car-Spore)](../../../charts/poten/2019/poten_2019-03-08_lights-dimming-for-venezuela_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2019/poten_2019-03-08_lights-dimming-for-venezuela_chart2.png)
+> **Exhibit 2: Aframax (TD9) vs VLCC (Car-Spore)**  
+> Unit: WS | $ (Mln) · X-axis: 1-Oct-18 to 4-Mar-19  
+> Series: Aframax (Car-USG), VLCC (Car-SEA)  
+> *Source: Poten & Partners*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2019/poten_2019-03-08_lights-dimming-for-venezuela_chart2.png)

@@ -20,10 +20,10 @@ source_file: "corpus/03-breakwave/insights/2024/2024-05-01_shifting-supply-chain
 
 ---
 
-![Research Γçô Square 1](assets/2024-05-01_shifting-supply-chains_img_research-ce93c387c3b4-square-1_50df22bb5158.jpg)
+![Research Γçô Square 1](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-05-01_shifting-supply-chains_img_research-ce93c387c3b4-square-1_50df22bb5158.jpg)
 
 > **Figure 1: Research Γçô Square 1**  
-> **Interactive Data & Source:** [Gibsons Co](https://www.gibsons.co.uk/market-reports) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-05-01_shifting-supply-chains_img_research-ce93c387c3b4-square-1_50df22bb5158.jpg)
+> **Interactive Data & Source:** [Gibsons Co](https://www.gibsons.co.uk/market-reports) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-05-01_shifting-supply-chains_img_research-ce93c387c3b4-square-1_50df22bb5158.jpg)
 
 With the one third of the year already over and the Red Sea still off limits to the majority of the tanker market, we examine how crude and product trade flows have changed to account for the necessary rerouting. Evidently different subsectors have been impacted differently. Volatility in clean product freight rates has been far higher than in the crude market. However, both sectors have had to adjust supply chains in response to changes in freight and commodity prices.
 
@@ -35,10 +35,10 @@ For the crude market, flows have also been impacted by similar dynamics with Eur
 
 On a macro level, tonne miles are up across the board, but not to the extent that they would be have been if volumes remained the same, albeit with routing via the Cape of Good Hope. Overall this highlights how the global crude, products and associated freight markets have adapted to major logistical challenges. However, with supply chains now stretched and persistent geopolitical stability the tanker markets remain on a knife edge.
 
-![Στιγμιότυπο Οθόνης 2024 05 01 141626](assets/2024-05-01_shifting-supply-chains_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_9f2e13a2b4a7.png)
+![Στιγμιότυπο Οθόνης 2024 05 01 141626](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-05-01_shifting-supply-chains_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_9f2e13a2b4a7.png)
 
 > **Figure 2: Στιγμιότυπο Οθόνης 2024 05 01 141626**  
-> **Interactive Data & Source:** [Gibsons Co](https://www.gibsons.co.uk/market-reports) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-05-01_shifting-supply-chains_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_9f2e13a2b4a7.png)
+> **Interactive Data & Source:** [Gibsons Co](https://www.gibsons.co.uk/market-reports) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-05-01_shifting-supply-chains_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_9f2e13a2b4a7.png)
 
 Data source:[Gibson Shipbrokers](https://www.gibsons.co.uk/market-reports)
 

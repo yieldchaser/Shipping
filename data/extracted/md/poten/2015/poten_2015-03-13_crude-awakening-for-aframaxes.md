@@ -32,10 +32,18 @@ Combining the positive employment outlook above with a shrinking fleet, a modest
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: Crude Awakening for Aframaxes](../../../charts/poten/2015/poten_2015-03-13_crude-awakening-for-aframaxes_chart1.png)
+![Exhibit 1: Fig. 1: Crude Tanker Fleet Development](../../../charts/poten/2015/poten_2015-03-13_crude-awakening-for-aframaxes_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2015/poten_2015-03-13_crude-awakening-for-aframaxes_chart1.png)
+> **Exhibit 1: Fig. 1: Crude Tanker Fleet Development**  
+> Unit: # vessels · X-axis: 1990-01 to 2015-01  
+> Series: VLCC, Suezmax, Aframax  
+> *Source: Poten*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2015/poten_2015-03-13_crude-awakening-for-aframaxes_chart1.png)
 
-![Exhibit 2: Crude Awakening for Aframaxes](../../../charts/poten/2015/poten_2015-03-13_crude-awakening-for-aframaxes_chart2.png)
+![Exhibit 2: Fig. 2: Reported Dirty Spot Aframax Fixtures (Main Trade Routes)](../../../charts/poten/2015/poten_2015-03-13_crude-awakening-for-aframaxes_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2015/poten_2015-03-13_crude-awakening-for-aframaxes_chart2.png)
+> **Exhibit 2: Fig. 2: Reported Dirty Spot Aframax Fixtures (Main Trade Routes)**  
+> Unit: # Fixtures | % · X-axis: 2010 to 2014  
+> Series: Intra Med, Asia, Intra UK, Car-USA, Russia FE, Pct of WW Total  
+> *Source: Poten*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2015/poten_2015-03-13_crude-awakening-for-aframaxes_chart2.png)

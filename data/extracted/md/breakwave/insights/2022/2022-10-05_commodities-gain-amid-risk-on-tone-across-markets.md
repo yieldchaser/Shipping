@@ -23,10 +23,10 @@ source_file: "corpus/03-breakwave/insights/2022/2022-10-05_commodities-gain-amid
 
 Commodities rallied as concerns over further tightening eased. This was compounded by a rally in energy amid ongoing supply side issues.
 
-![1664922775917](assets/2022-10-05_commodities-gain-amid-risk-on-tone-across-markets_img_1664922775917_7b382b8127c3.png)
+![1664922775917](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-10-05_commodities-gain-amid-risk-on-tone-across-markets_img_1664922775917_7b382b8127c3.png)
 
 > **Figure 1: 1664922775917**  
-> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-10-05_commodities-gain-amid-risk-on-tone-across-markets_img_1664922775917_7b382b8127c3.png)
+> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-10-05_commodities-gain-amid-risk-on-tone-across-markets_img_1664922775917_7b382b8127c3.png)
 
 **Crude oil**prices surged higher amid speculation that OPEC is considering an even larger cut to production than first thought. The group is said to be considering a cut of up to 2mb/d, according to media reports. Based on current discussions, the curbs would use existing baselines to measure each country’s contribution. Several members are already pumping below their official quotas, meaning they would automatically be in compliance with the new limit without having to actually change their output. In any case, it would send a strong message that the group is determined to support the market. Saudi Arabia and other members have previously said that current prices don’t reflect the underlying fundamentals. A reduction in output on this scale would significantly tighten the market. Inventories are relatively low and European sanctions are not due to kick in until December. This tightness could be exacerbated by a rebound in Chinese demand if it can contain outbreaks of COVID-19.
 

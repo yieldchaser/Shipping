@@ -34,11 +34,11 @@ tags:
 The defining feature of the current asset market is not limited to five-year-old tonnage trading above newbuilding prices. Repricing spans the entire age curve and intensifies with vessel age. VLCC values are up 30% year-over-year at five years, 42% at ten years, 61% at fifteen years, and 90% at twenty years. The Suezmax curve shows the same progression, with gains of 37%, 43%, 64%, and 78%, respectively. A 20-year-old VLCC is now assessed at $71.1m, and an equivalent Suezmax at $52.1m, despite both being much closer to the end of their conventional trading lives.
 
 
-![Secondhand Values by Age, VLCC and Suezmax, with Year-on-Year Change.source: Signal; Benchmark Values Through End-August 2026.](../../images/6a9e7b40665954dc632aa619_37e41995.png)
+![Secondhand Values by Age, VLCC and Suezmax, with Year-on-Year Change.source: Signal; Benchmark Values Through End-August 2026.](../../../../../../corpus/07-signal/images/6a9e7b40665954dc632aa619_37e41995.png)
 
 > **Chart 1: Secondhand Values by Age, VLCC and Suezmax, with Year-on-Year Change.source: Signal; Benchmark Values Through End-August 2026.**  
 > *Chart 1. Secondhand values by age, VLCC and Suezmax, with year-on-year change.Source: Signal; benchmark values through end-August 2026.*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-tanker-market-monitor-week-35-2026) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6a9e7b40665954dc632aa619_37e41995.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-tanker-market-monitor-week-35-2026) | [Local Asset](../../../../../../corpus/07-signal/images/6a9e7b40665954dc632aa619_37e41995.png)
 
 **MARKET SIGNAL:  Five-year-old VLCC and Suezmax values exceed newbuilding benchmarks, but appreciation increases with age and peaks at 90% and 78%, respectively, for 20-year-old tonnage.**
 
@@ -49,16 +49,16 @@ The defining feature of the current asset market is not limited to five-year-old
 ![Asset Repricing Extends to the End of the Age Curve](../../images/6a9e7a87af6898adebfc2d3e_Screenshot 2026-09-07 at 09.48.55.png)
 
 > **Figure 2: Asset Repricing Extends to the End of the Age Curve**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-tanker-market-monitor-week-35-2026) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6a9e7a87af6898adebfc2d3e_Screenshot 2026-09-07 at 09.48.55.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-tanker-market-monitor-week-35-2026) | [Local Asset](../../../../../../corpus/07-signal/images/6a9e7a87af6898adebfc2d3e_Screenshot%202026-09-07%20at%2009.48.55.png)
 
 A 20-year-old VLCC is assessed at $71.1m against $20.8m for scrap, a $50.3m spread, 3.4 times recycling value; one year earlier the implied spread was near $18m. For Suezmaxes, $52.1m stands against $11.9m for scrap, a $40.2m spread and 4.4 times recycling value. This gap changes the disposal decision: special-survey cost, sanctions status, insurance and vetting can still force individual removals, but on economics alone a commercially employable vintage ship is worth substantially more in continued trading than at the yard.
 
 
-![Vintage (20-Year) Price Assessment vs Scrap, VLCC and Suezmax.source: Signal; Benchmark Values Through End-August 2026.](../../images/6a9e7b40665954dc632aa61c_18b6d3e9.png)
+![Vintage (20-Year) Price Assessment vs Scrap, VLCC and Suezmax.source: Signal; Benchmark Values Through End-August 2026.](../../../../../../corpus/07-signal/images/6a9e7b40665954dc632aa61c_18b6d3e9.png)
 
 > **Chart 2: Vintage (20-Year) Price Assessment vs Scrap, VLCC and Suezmax.source: Signal; Benchmark Values Through End-August 2026.**  
 > *Chart 2. Vintage (20-year) price assessment vs scrap, VLCC and Suezmax.Source: Signal; benchmark values through end-August 2026.*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-tanker-market-monitor-week-35-2026) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6a9e7b40665954dc632aa61c_18b6d3e9.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-tanker-market-monitor-week-35-2026) | [Local Asset](../../../../../../corpus/07-signal/images/6a9e7b40665954dc632aa61c_18b6d3e9.png)
 
 
 ## Hormuz Freight Watch - Military Escalation Replaces Diplomacy
@@ -94,23 +94,23 @@ East of Suez, VLCC time-charter-equivalents out of the Middle East Gulf are runn
 
 > **Figure 4: Freight/tce: Signal · 4 September 2026**  
 > *Freight/TCE: Signal · 4 September 2026. Day/Week/Month/Quarter/Year are percentage changes.*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-tanker-market-monitor-week-35-2026) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6a9e7ae1d5f65dba7b6ff173_Screenshot 2026-09-07 at 09.50.20.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-tanker-market-monitor-week-35-2026) | [Local Asset](../../../../../../corpus/07-signal/images/6a9e7ae1d5f65dba7b6ff173_Screenshot%202026-09-07%20at%2009.50.20.png)
 
 
-![VLCC and Suezmax Spot TCE, Past 12 Months - Middle East Gulf Routes Run Far Above Western Routes in Both Segments.freight/tce: Signal.](../../images/6a9e7b40665954dc632aa61f_99362554.png)
+![VLCC and Suezmax Spot TCE, Past 12 Months - Middle East Gulf Routes Run Far Above Western Routes in Both Segments.freight/tce: Signal.](../../../../../../corpus/07-signal/images/6a9e7b40665954dc632aa61f_99362554.png)
 
 > **Chart 3: VLCC and Suezmax Spot TCE, Past 12 Months - Middle East Gulf Routes Run Far Above Western Routes in Both Segments.freight/tce: Signal.**  
 > *Chart 3. VLCC and Suezmax spot TCE, past 12 months - Middle East Gulf routes run far above western routes in both segments.Freight/TCE: Signal.*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-tanker-market-monitor-week-35-2026) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6a9e7b40665954dc632aa61f_99362554.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-tanker-market-monitor-week-35-2026) | [Local Asset](../../../../../../corpus/07-signal/images/6a9e7b40665954dc632aa61f_99362554.png)
 
 Laden VLCC availability at sea East of Suez has fallen 36% year on year to 122 vessels on a 30-day average, while ballast availability remains substantially higher at 204. West of Suez, laden VLCC availability increased 15% to 60 vessels, with 71 vessels in ballast. The Suezmax distribution points in the opposite direction: laden availability West of Suez rose 17% to 142 vessels, the highest level in the 2023–2026 range, while the corresponding East-of-Suez count fell 16% to 58. Ballast Suezmax availability stood at 124 vessels West of Suez and 63 East of Suez.
 
 
-![Ships at Sea (30-Day Average), East vs West of Suez, Laden and Ballast.ships-at-Sea Data: Signal](../../images/6a9e7b40665954dc632aa622_cffdabbd.png)
+![Ships at Sea (30-Day Average), East vs West of Suez, Laden and Ballast.ships-at-Sea Data: Signal](../../../../../../corpus/07-signal/images/6a9e7b40665954dc632aa622_cffdabbd.png)
 
 > **Chart 4: Ships at Sea (30-Day Average), East vs West of Suez, Laden and Ballast.ships-at-Sea Data: Signal**  
 > *Chart 4. Ships at sea (30-day average), East vs West of Suez, laden and ballast.Ships-at-sea data: Signal. Laden labels show year-on-year change.*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-tanker-market-monitor-week-35-2026) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6a9e7b40665954dc632aa622_cffdabbd.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-tanker-market-monitor-week-35-2026) | [Local Asset](../../../../../../corpus/07-signal/images/6a9e7b40665954dc632aa622_cffdabbd.png)
 
 
 ## Investment & Supply - Two Clocks Are Running

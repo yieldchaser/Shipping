@@ -35,10 +35,10 @@ In the grain market, the situation is still crucial with India emerging as an ac
 
 ‘The Big Picture’ - Capesize and Panamax Bulkers and Smaller Ship Sizes
 
-![Market Chart 1](assets/2022-06-15_signal-dry-bulk-weekly-report_img_unnamed282029_5cf1f404ac0f.png)
+![Market Chart 1](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-06-15_signal-dry-bulk-weekly-report_img_unnamed282029_5cf1f404ac0f.png)
 
 > **Figure 1: Market Chart 1**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-06-15_signal-dry-bulk-weekly-report_img_unnamed282029_5cf1f404ac0f.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-06-15_signal-dry-bulk-weekly-report_img_unnamed282029_5cf1f404ac0f.png)
 
 A weaker sentiment of freight rates persisted in all vessel size categories, with the Capesize and Handysize segments recording a noticeable downward trend following the last peak of Week 20.
 
@@ -51,10 +51,10 @@ A weaker sentiment of freight rates persisted in all vessel size categories, wit
 
 ## Number of Vessels -Increasing
 
-![Supply Trend Lines for Key Load Areas](assets/2022-06-15_signal-dry-bulk-weekly-report_img_unnamed282129_a0fd10aea429.png)
+![Supply Trend Lines for Key Load Areas](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-06-15_signal-dry-bulk-weekly-report_img_unnamed282129_a0fd10aea429.png)
 
 > **Figure 2: Supply Trend Lines for Key Load Areas**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-06-15_signal-dry-bulk-weekly-report_img_unnamed282129_a0fd10aea429.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-06-15_signal-dry-bulk-weekly-report_img_unnamed282129_a0fd10aea429.png)
 
 The number of ballasters increased over the last two weeks, with the number of ships standing nearly at the one-year average for the Capesize and Panamax segments.
 
@@ -67,10 +67,10 @@ The number of ballasters increased over the last two weeks, with the number of s
 
 ## Decreasing
 
-![Decreasing](assets/2022-06-15_signal-dry-bulk-weekly-report_img_unnamed282229_9c6b6c84513b.png)
+![Decreasing](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-06-15_signal-dry-bulk-weekly-report_img_unnamed282229_9c6b6c84513b.png)
 
 > **Figure 3: Decreasing**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-06-15_signal-dry-bulk-weekly-report_img_unnamed282229_9c6b6c84513b.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-06-15_signal-dry-bulk-weekly-report_img_unnamed282229_9c6b6c84513b.png)
 
 The overall trend of demand ton-days sustained a decreasing trend except for signs of recovered demand growth in the Capesize segment.
 
@@ -83,10 +83,10 @@ The overall trend of demand ton-days sustained a decreasing trend except for sig
 
 ## Number of Vessels - Increasing
 
-![Dry Bulk Ships Congested at Chinese Ports](assets/2022-06-15_signal-dry-bulk-weekly-report_img_unnamed282329_bc5ff3497551.png)
+![Dry Bulk Ships Congested at Chinese Ports](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-06-15_signal-dry-bulk-weekly-report_img_unnamed282329_bc5ff3497551.png)
 
 > **Figure 4: Dry Bulk Ships Congested at Chinese Ports**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-06-15_signal-dry-bulk-weekly-report_img_unnamed282329_bc5ff3497551.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-06-15_signal-dry-bulk-weekly-report_img_unnamed282329_bc5ff3497551.png)
 
 Dry bulk ships in congestion seemed to have sustained an increasing pace during the first two weeks of June.
 

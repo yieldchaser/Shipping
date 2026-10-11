@@ -33,10 +33,10 @@ Amid record-high inflation, coal is by far the easiest to cut off quickly compar
 
 According to the EU’s energy expert, Russia - the 3rd largest coal exporter behind Indonesia and Australia, exports about 70% of thermal coal to generate electricity, and about 30% of coking coal to make iron and steel to the EU nations.
 
-![Screenshot 20220722 141821 Samsung Notes](assets/2022-07-23_brs-dry-bulk-weekly-newsletter_img_screenshot-20220722-141821-samsungno_14c32636a701.jpg)
+![Screenshot 20220722 141821 Samsung Notes](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-07-23_brs-dry-bulk-weekly-newsletter_img_screenshot-20220722-141821-samsungno_14c32636a701.jpg)
 
 > **Figure 1: Screenshot 20220722 141821 Samsung Notes**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-07-23_brs-dry-bulk-weekly-newsletter_img_screenshot-20220722-141821-samsungno_14c32636a701.jpg)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-07-23_brs-dry-bulk-weekly-newsletter_img_screenshot-20220722-141821-samsungno_14c32636a701.jpg)
 
 According to the data by AXS360 (ref the graph above), the Netherlands, Germany, and Italy are among the top ten buying nations in the EU that rely upon Russian coal, which accounts for more than half of total imports in each of those countries.
 
@@ -46,10 +46,10 @@ Russia is expected to feed more into an alternative market in China, India, and 
 
 The data published by The European Association for Coal and Lignite (Euracoal) suggest that EU members cumulatively imported 106 mln mt of coal in CY 2021 despite the region’s emphasis on limiting coal usage imposed by the EU commission for the climate.
 
-![Screenshot 20220722 141839 Samsung Notes](assets/2022-07-23_brs-dry-bulk-weekly-newsletter_img_screenshot-20220722-141839-samsungno_0df95fe1fa6d.jpg)
+![Screenshot 20220722 141839 Samsung Notes](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-07-23_brs-dry-bulk-weekly-newsletter_img_screenshot-20220722-141839-samsungno_0df95fe1fa6d.jpg)
 
 > **Figure 2: Screenshot 20220722 141839 Samsung Notes**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-07-23_brs-dry-bulk-weekly-newsletter_img_screenshot-20220722-141839-samsungno_0df95fe1fa6d.jpg)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-07-23_brs-dry-bulk-weekly-newsletter_img_screenshot-20220722-141839-samsungno_0df95fe1fa6d.jpg)
 
 The above graph depicts the total coal import of the EU members from different origins. Surprisingly, the**Netherlands**scores the top as it is the major source for the transshipment of coal to other European nations (mainly out of the USA). In addition, economic growth has increased the energy demand in the Netherlands. The government’s plans to phase out gas production from Groningen coupled with high prices of imported LNG have created a favorable position for coal in the power generation mix of the nation.
 
@@ -59,10 +59,10 @@ Besides, Italy, Greece, Poland, Romania, and the Czech Republic have announced t
 
 **The Implication:**The EU ban on Russian coal imports comes at a time when the international coal market is already very tight. Euracoal, after the announcement of the import ban (in April), expects a 50 mln mt supply to be secured from the USA, Australia, Indonesia, Colombia, and South Africa to replace Russian coal before the ban comes into force (10th Aug).
 
-![Screenshot 20220722 141857 Samsung Notes](assets/2022-07-23_brs-dry-bulk-weekly-newsletter_img_screenshot-20220722-141857-samsungno_a8f553aa4335.jpg)
+![Screenshot 20220722 141857 Samsung Notes](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-07-23_brs-dry-bulk-weekly-newsletter_img_screenshot-20220722-141857-samsungno_a8f553aa4335.jpg)
 
 > **Figure 3: Screenshot 20220722 141857 Samsung Notes**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-07-23_brs-dry-bulk-weekly-newsletter_img_screenshot-20220722-141857-samsungno_a8f553aa4335.jpg)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-07-23_brs-dry-bulk-weekly-newsletter_img_screenshot-20220722-141857-samsungno_a8f553aa4335.jpg)
 
 According to the data by AXS360 (ref the graph above), the top EU coal-importing nations have bought a little over 44 mln mt in the year 2021. However, these buying members have already bought 41 mln mt in the 1H/2022 from the top five exporting nations.
 
@@ -74,10 +74,10 @@ According to the data by AXS360 (ref the graph above), the top EU coal-importing
 
 **Indonesia**: Indonesian coal imports in the EU, even after surpassing last year’s level remained under the 2 mln mt mark in the 1H/2022 as the fuel is generally of low-grade material. Although we heard a lot of inquiries from the EU for Indonesian coal, producers have doubted that they could meet EU demand as uncertainty hovers around the expansion in coal production target. Bad weather and the challenges of opening new coal mines may result in a shortfall, eventually making it difficult for the country to fulfill that demand in a short term.
 
-![Screenshot 20220722 141916 Samsung Notes](assets/2022-07-23_brs-dry-bulk-weekly-newsletter_img_screenshot-20220722-141916-samsungno_f2b3d501c5c8.jpg)
+![Screenshot 20220722 141916 Samsung Notes](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-07-23_brs-dry-bulk-weekly-newsletter_img_screenshot-20220722-141916-samsungno_f2b3d501c5c8.jpg)
 
 > **Figure 4: Screenshot 20220722 141916 Samsung Notes**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-07-23_brs-dry-bulk-weekly-newsletter_img_screenshot-20220722-141916-samsungno_f2b3d501c5c8.jpg)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-07-23_brs-dry-bulk-weekly-newsletter_img_screenshot-20220722-141916-samsungno_f2b3d501c5c8.jpg)
 
 Prices of coal discharging at the Amsterdam, Rotterdam, and Antwerp (ARA) ports have surpassed the $400/mt level from the $60/mt level in the same period last year, since the news that more coal plants would be bought back from retirement in Europe in a response to LNG supply constraints. With the international seaborne thermal coal market already incredibly tight, the prospect of additional demand from the EU members will only push imported coal prices beyond their current extravagant levels. The main traded thermal coal benchmark (API2 specification 6,000 KCAL per kilogram of coal delivered into ARA) was trading at around $377 per ton on Jul 18th, thankfully a little below $400/mt levels in the first week of this month.
 

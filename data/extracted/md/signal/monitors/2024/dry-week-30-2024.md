@@ -28,10 +28,10 @@ tags:
 ## This Week's Chart Highlights the Notable Increase in the Monthly Volume of Russian Grain Shipments During the First Two Quarters of This Year. by the End of the Second Quarter, Shipments Had Risen by 15% Compared to the Previous Quarter. Notably, Egypt Emerged as the Leading Destination for Russian Grain, Accounting for 20% of the Total Shipments This Year. This Marks a Significant Shift, as Turkey Held the Top Spot Last Year with a 15% Share. the Shift in Destination Preferences Underscores Changing Market Dynamics and May Reflect Evolving Trade Relationships or Demand Patterns. in Our Previousweekly Market Monitor, We Closely Examined the Increase in Monthly Ukrainian Grain Shipments This Year, Highlighting Spain and China as the Top Destinations.
 
 
-![66ab49c5f85b58ce1a516386 66a21624b3e8e0bee29ba320 Chart%20of%20the%20week%2030](../../images/66ab49c5f85b58ce1a516386_66a21624b3e8e0bee29ba320_chart%20of%20the%20week%2030.avif)
+![66ab49c5f85b58ce1a516386 66a21624b3e8e0bee29ba320 Chart%20of%20the%20week%2030](../../images/66ab49c5f85b58ce1a516386_66a21624b3e8e0bee29ba320_chart%2520of%2520the%2520week%252030.avif)
 
 > **Figure 1: 66ab49c5f85b58ce1a516386 66a21624b3e8e0bee29ba320 Chart%20of%20the%20week%2030**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/dry-week-30-2024) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/66ab49c5f85b58ce1a516386_66a21624b3e8e0bee29ba320_chart%20of%20the%20week%2030.avif)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/dry-week-30-2024) | [Local Asset](../../../../../../corpus/07-signal/images/66ab49c5f85b58ce1a516386_66a21624b3e8e0bee29ba320_chart%2520of%2520the%2520week%252030.avif)
 
 The last week of July continued to reflect the weakening trend in Capesize rates from Brazil to North China. This decline was accompanied by a rise in the number of ballast vessels, exceeding the annual average, suggesting a potential oversupply scenario in the near future.
 

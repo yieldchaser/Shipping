@@ -28,10 +28,17 @@ The implications for the tanker market of these developments are generally posit
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: Moscow, We Have A Problem](../../../charts/poten/2026/poten_2026-02-06_moscow-we-have-a-problem_chart1.png)
+![Exhibit 1: India Crude Oil Imports by Origin](../../../charts/poten/2026/poten_2026-02-06_moscow-we-have-a-problem_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2026/poten_2026-02-06_moscow-we-have-a-problem_chart1.png)
+> **Exhibit 1: India Crude Oil Imports by Origin**  
+> Unit: Kb/d · X-axis: Jan-17 to Jan-26  
+> Series: Iraq, Saudi Arabia, Russia, United Arab Emirates, Nigeria, Kuwait, United States, Venezuela, Other  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2026/poten_2026-02-06_moscow-we-have-a-problem_chart1.png)
 
-![Exhibit 2: Moscow, We Have A Problem](../../../charts/poten/2026/poten_2026-02-06_moscow-we-have-a-problem_chart2.png)
+![Exhibit 2: Russian Crude (excl CPC, Kebco) Exports by Destination](../../../charts/poten/2026/poten_2026-02-06_moscow-we-have-a-problem_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2026/poten_2026-02-06_moscow-we-have-a-problem_chart2.png)
+> **Exhibit 2: Russian Crude (excl CPC, Kebco) Exports by Destination**  
+> Unit: Kb/d · X-axis: Jan-21 to Jan-26  
+> Series: China, India, Netherlands, Turkey, Italy, Finland, South Korea, Lithuania, Other  
+> *Source: Vortexa*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2026/poten_2026-02-06_moscow-we-have-a-problem_chart2.png)

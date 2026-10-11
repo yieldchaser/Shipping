@@ -33,10 +33,10 @@ Week 34, August 22, 2024**​​​​​​**
 
 *When analysing trends by vessel class, it is noteworthy that large vessel categories like VLCC, Suezmax, and Aframax have maintained volumes close to last year’s levels, however, with a slight downward trend. Interestingly, MR2 tankers have doubled their share of dirty oil shipments from the Arabian Gulf compared to last year.*
 
-![Screenshot 2024 08 22 17.00.34](assets/2024-08-22_arabian-gulf-dirty-oil-shipments-to-all-destinations_img_screenshot2024-08-22170034_56e7e4f840b1.png)
+![Screenshot 2024 08 22 17.00.34](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-08-22_arabian-gulf-dirty-oil-shipments-to-all-destinations_img_screenshot2024-08-22170034_56e7e4f840b1.png)
 
 > **Figure 1: Screenshot 2024 08 22 17.00.34**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://go.signalocean.com/e/983831/china-says-goldman-2024-08-20-/2qh5y1/431399865/h/abN7Ut2hdJQdQDp0q9Twogma-wj4HrPSKCEtyN8VIqU) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-08-22_arabian-gulf-dirty-oil-shipments-to-all-destinations_img_screenshot2024-08-22170034_56e7e4f840b1.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://go.signalocean.com/e/983831/china-says-goldman-2024-08-20-/2qh5y1/431399865/h/abN7Ut2hdJQdQDp0q9Twogma-wj4HrPSKCEtyN8VIqU) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-08-22_arabian-gulf-dirty-oil-shipments-to-all-destinations_img_screenshot2024-08-22170034_56e7e4f840b1.png)
 
 As August draws to a close, the earlier weakening momentum on the VLCC AG-China route appears to have stabilised to a firmer momentum. Despite this stabilisation, the weekly percentage growth in demand tonne days has not yet surpassed previous weeks, indicating that a strong recovery remains elusive.
 
@@ -46,10 +46,10 @@ The ongoing uncertainty in China's economic outlook adds to the difficulty of pr
 
 Data from last week revealed that China's economy lost significant momentum in July, marked by the sharpest decline in new home prices in nine years and a slowdown in industrial output. In response to weak domestic fuel demand, Chinese refineries have significantly reduced their crude processing rates. This downturn has raised concerns about the broader implications for the global oil market.[Goldman Sachs](https://go.signalocean.com/e/983831/china-says-goldman-2024-08-20-/2qh5y1/431399865/h/abN7Ut2hdJQdQDp0q9Twogma-wj4HrPSKCEtyN8VIqU)analysts have projected that Brent crude prices could fall to $68 per barrel by late 2025 if China's oil demand remains stagnant through the end of next year. The bank noted that "soft China oil demand and downside risks to China GDP growth strengthen our view that the risks to our $75-$90 Brent range in 2025 skew to the downside." Goldman Sachs estimates that China’s year-on-year oil demand growth sharply slowed to 200,000 barrels per day in the first half of this year, with an expected year-on-year decline during the summer.
 
-![Screenshot 2024 08 22 17.00.52](assets/2024-08-22_arabian-gulf-dirty-oil-shipments-to-all-destinations_img_screenshot2024-08-22170052_ae986a815dbc.png)
+![Screenshot 2024 08 22 17.00.52](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-08-22_arabian-gulf-dirty-oil-shipments-to-all-destinations_img_screenshot2024-08-22170052_ae986a815dbc.png)
 
 > **Figure 2: Screenshot 2024 08 22 17.00.52**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-08-22_arabian-gulf-dirty-oil-shipments-to-all-destinations_img_screenshot2024-08-22170052_ae986a815dbc.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-08-22_arabian-gulf-dirty-oil-shipments-to-all-destinations_img_screenshot2024-08-22170052_ae986a815dbc.png)
 
 The dirty freight market sentiment appears to be stabilising before the end of August, as evidenced by a recent uptick in VLCC MEG-China rates. These rates have shown an increase compared to the lower levels observed at the beginning of the month, suggesting a potential shift towards a more robust market.
 
@@ -57,10 +57,10 @@ The dirty freight market sentiment appears to be stabilising before the end of A
 - Suezmax freight rates for shipments from**West Africa**to**continental Europe**reached 75 WS, reflecting a 7% increase compared to the previous year. Likewise, rates on the Suez**Baltic Med**route have stabilised at approximately 88 WS, representing a 17% annual rise.
 - Aframax**Mediterranean**freight rates are hovering around WS120, marking a 16% increase compared to the same week last year.
 
-![Screenshot 2024 08 22 17.19.28](assets/2024-08-22_arabian-gulf-dirty-oil-shipments-to-all-destinations_img_screenshot2024-08-22171928_47afa973d05f.png)
+![Screenshot 2024 08 22 17.19.28](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-08-22_arabian-gulf-dirty-oil-shipments-to-all-destinations_img_screenshot2024-08-22171928_47afa973d05f.png)
 
 > **Figure 3: Screenshot 2024 08 22 17.19.28**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-08-22_arabian-gulf-dirty-oil-shipments-to-all-destinations_img_screenshot2024-08-22171928_47afa973d05f.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-08-22_arabian-gulf-dirty-oil-shipments-to-all-destinations_img_screenshot2024-08-22171928_47afa973d05f.png)
 
 The supply trend for crude tankers shows a decline for Suezmax vessels in the West Africa-to-Continent route and Aframax vessels in the Mediterranean and Baltic regions. However, VLCCs from Ras Tanura have experienced an uptick in August, with supply levels close to surpassing the annual average by the end of the third week of the month.
 
@@ -69,10 +69,10 @@ The supply trend for crude tankers shows a decline for Suezmax vessels in the We
 - **Aframax Med**: The number of ships has decreased to 4, nearly 10 fewer than the count at the end of week 27.
 - **Aframax Baltic**: Since the end of week 32, there has been a downward trend, with current levels around 22, 10 fewer than two weeks ago.
 
-![Screenshot 2024 08 22 17.03.47](assets/2024-08-22_arabian-gulf-dirty-oil-shipments-to-all-destinations_img_screenshot2024-08-22170347_435f1e4ea35c.png)
+![Screenshot 2024 08 22 17.03.47](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-08-22_arabian-gulf-dirty-oil-shipments-to-all-destinations_img_screenshot2024-08-22170347_435f1e4ea35c.png)
 
 > **Figure 4: Screenshot 2024 08 22 17.03.47**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-08-22_arabian-gulf-dirty-oil-shipments-to-all-destinations_img_screenshot2024-08-22170347_435f1e4ea35c.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-08-22_arabian-gulf-dirty-oil-shipments-to-all-destinations_img_screenshot2024-08-22170347_435f1e4ea35c.png)
 
 **Dirty**tonne days: The decrease in the growth of VLCC tonne days persisted throughout August, signalling a continued slowdown in demand. However, the rate of decline appears to have stabilised, suggesting that it may have reached its lowest point for the summer season. As we move into September, the focus will be on whether weekly percentage growth can rebound, potentially establishing a firmer upward trajectory. This recovery could gradually bring growth levels closer to the annual average, but the market’s response to shifting seasonal and economic factors will be crucial in determining the pace and sustainability of this recovery.
 

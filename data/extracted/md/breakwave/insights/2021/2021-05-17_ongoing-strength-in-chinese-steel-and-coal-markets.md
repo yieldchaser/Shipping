@@ -29,7 +29,7 @@ In China, the most recent data shows that daily crude steel output at large and 
 ![Comm May 17](assets/2021-05-17_ongoing-strength-in-chinese-steel-and-coal-markets_img_commmay17_0b95b32518e6.jpg)
 
 > **Figure 1: Comm May 17**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2021/assets/2021-05-17_ongoing-strength-in-chinese-steel-and-coal-markets_img_commmay17_0b95b32518e6.jpg)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-05-17_ongoing-strength-in-chinese-steel-and-coal-markets_img_commmay17_0b95b32518e6.jpg)
 
 Also of note in the Chinese steel market is that prices remain robust. The average price of hot rolled coil in China, for example, ended last week at 6,555 yuan/ton which is 430 yuan (7%) more than a week ago. Prices have now increased during thirteen of the last fourteen weeks. Overall, it remains very positive that steel prices in China continue to maintain significant strength even as a robust amount of steel continues to be produced. Chinese steel stockpiles have also continued to decline. Stockpiles of flat and construction steel products at warehouses in major cities in China ended last week at approximately 15.6 million tons. This is 500,000 tons (-3%) less than a week ago and is 2.4 million tons (-13%) less than was stockpiled at this time last year. Stockpiles have now declined for nine consecutive weeks. Previously, they had increased for ten consecutive weeks.
 

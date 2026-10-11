@@ -51,14 +51,23 @@ Vitol remained the largest spot Aframax charterer, but behind them the spots hav
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: 2017 Halftime Report](../../../charts/poten/2017/poten_2017-07-07_2017-halftime-report_chart1.png)
+![Exhibit 1: Top 10 VLCC Spot Charterers](../../../charts/poten/2017/poten_2017-07-07_2017-halftime-report_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2017/poten_2017-07-07_2017-halftime-report_chart1.png)
+> **Exhibit 1: Top 10 VLCC Spot Charterers**  
+> Unit: No. Spot Fixtures · X-axis: Unipec to Trafigura  
+> Series: Unipec, Ioc, Petrochina, Reliance, Shell, Sinochem, Total, ExxonMobil, GS Caltex, Bahri, S Oil, Hyundai, Petrobras, Trafigura  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2017/poten_2017-07-07_2017-halftime-report_chart1.png)
 
-![Exhibit 2: 2017 Halftime Report](../../../charts/poten/2017/poten_2017-07-07_2017-halftime-report_chart2.png)
+![Exhibit 2: Top 10 Suezmax Spot Charterers](../../../charts/poten/2017/poten_2017-07-07_2017-halftime-report_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2017/poten_2017-07-07_2017-halftime-report_chart2.png)
+> **Exhibit 2: Top 10 Suezmax Spot Charterers**  
+> Unit: No. Spot Fixtures · X-axis: Chevron to ENI  
+> Series: Chevron, Repsol, Shell, BP, Ioc, Total, Vitol, Tupras, Lukoil, ENI  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2017/poten_2017-07-07_2017-halftime-report_chart2.png)
 
-![Exhibit 3: 2017 Halftime Report](../../../charts/poten/2017/poten_2017-07-07_2017-halftime-report_chart3.png)
+![Exhibit 3: Top 10 Aframax Spot Charterers](../../../charts/poten/2017/poten_2017-07-07_2017-halftime-report_chart3.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2017/poten_2017-07-07_2017-halftime-report_chart3.png)
+> **Exhibit 3: Top 10 Aframax Spot Charterers**  
+> Unit: No. Spot Fixtures · X-axis: Vitol to Socar  
+> Series: Vitol, Shell, Glencore, Lukoil, Unipec, Chevron, Trafigura, Total, BP, Socar  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2017/poten_2017-07-07_2017-halftime-report_chart3.png)

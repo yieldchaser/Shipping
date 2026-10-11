@@ -31,10 +31,10 @@ With Russian coal rapidly becoming out-of-bounds, the big question is how will E
 
 Nevertheless, cargo orders for coal loading in Russia for European ports have declined in recent months amid a combination of official sanctions and self-sanctioning among European buyers. In the early stages of the war, ordering activities spiked as many European buyers expected either disruptions or sanctions and wanted to ensure adequate supplies for the short-term. However, since then, monthly volumes have been well below what has previously been recorded. Despite some last attempts to import Russian coal ahead of the embargo, volumes in July remain low. With no orders so far this week, it is unlikely that it will grow much more, as the window of opportunity for further legal imports is rapidly closing.
 
-![1](assets/2022-07-25_a-changing-reality-for-the-european-coal-trade_img_1_fbb3b0eac278.png)
+![1](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-07-25_a-changing-reality-for-the-european-coal-trade_img_1_fbb3b0eac278.png)
 
 > **Figure 1: 1**  
-> **Interactive Data & Source:** [Shipfix](https://shipfix.com/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-07-25_a-changing-reality-for-the-european-coal-trade_img_1_fbb3b0eac278.png)
+> **Interactive Data & Source:** [Shipfix](https://shipfix.com/) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-07-25_a-changing-reality-for-the-european-coal-trade_img_1_fbb3b0eac278.png)
 
 *Source: Shipfix*
 
@@ -48,10 +48,10 @@ Similarly, Colombia saw its coal shipments to Europe declining some years ago as
 
 In addition to increasing delivery times and tight global supplies, European customers will also face challenges with different quality levels of the commodity, with some not suitable for European needs. Indonesia, one of the world’s largest exporters of coal, is a notable example as its coal often is of lower quality. However, recent months have seen order volumes for Indonesian coal to be shipped to Europe increasing, a development that potentially highlights the challenges that Europe are facing in its race to replace coal from its eastern neighbour.
 
-![1](assets/2022-07-25_a-changing-reality-for-the-european-coal-trade_img_1_e7083629f684.png)
+![1](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-07-25_a-changing-reality-for-the-european-coal-trade_img_1_e7083629f684.png)
 
 > **Figure 2: 1**  
-> **Interactive Data & Source:** [Shipfix](https://shipfix.com/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-07-25_a-changing-reality-for-the-european-coal-trade_img_1_e7083629f684.png)
+> **Interactive Data & Source:** [Shipfix](https://shipfix.com/) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-07-25_a-changing-reality-for-the-european-coal-trade_img_1_e7083629f684.png)
 
 *Source: Shipfix*
 

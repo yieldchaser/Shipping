@@ -152,24 +152,28 @@ On the macro side, tensions in the Middle East continue to build. Houthi forces 
 | **Jiangyin** | -14.00 | +0.00 | **Dalian** | 0.00 | +0.00 |
 
 ## Historical Iron Ore Index Comparisons (USD/DMT)
+> **Estimate.** The report prints no numbers for this chart. Values are computed from the chart's vector geometry at each x-axis date label (calibrated on the printed axis ticks; typically within 1% of the axis range).
+
 | Date | IOSI62 (USD/DMT) | IOPi62 CFR Eq (USD/DMT) | IOSI65 (USD/DMT) | IOPi65 CFR Eq (USD/DMT) |
 | :--- | :--- | :--- | :--- | :--- |
-| 4-Jan-21 | 160.00 | 170.00 | 180.00 | 175.00 |
-| 4-May-21 | 230.00 | 235.00 | 270.00 | 265.00 |
-| 4-Sep-21 | 80.00 | 75.00 | 90.00 | 85.00 |
-| 4-Jan-22 | 140.00 | 145.00 | 150.00 | 145.00 |
-| 4-May-22 | 130.00 | 135.00 | 180.00 | 175.00 |
-| 4-Sep-22 | 100.00 | 105.00 | 110.00 | 105.00 |
-| 4-Jan-23 | 90.00 | 95.00 | 100.00 | 95.00 |
-| 4-May-23 | 140.00 | 145.00 | 160.00 | 155.00 |
-| 4-Jan-24 | 130.00 | 135.00 | 140.00 | 135.00 |
-| 4-May-24 | 100.00 | 105.00 | 110.00 | 105.00 |
-| 4-Sep-24 | 95.00 | 100.00 | 100.00 | 95.00 |
-| 4-Jan-25 | 90.00 | 95.00 | 95.00 | 90.00 |
-| 4-May-25 | 95.00 | 100.00 | 95.00 | 90.00 |
-| 4-Jan-26 | 100.00 | 105.00 | 100.00 | 95.00 |
-| 4-May-26 | 105.00 | 110.00 | 105.00 | 100.00 |
-| 4-Sep-26 | 110.00 | 115.00 | 110.00 | 105.00 |
+| 4-Jan-21 | 171.54 | 164.36 | 185.90 | 175.64 |
+| 4-May-21 | 192.10 | 200.28 | 228.99 | 237.21 |
+| 4-Sep-21 | 147.94 | 154.09 | 170.51 | 185.89 |
+| 4-Jan-22 | 133.59 | 121.29 | 141.79 | 150.00 |
+| 4-May-22 | 148.97 | 140.75 | 173.59 | 165.36 |
+| 4-Sep-22 | 105.89 | 98.72 | 113.07 | 118.20 |
+| 4-Jan-23 | 114.10 | 114.10 | 129.48 | 129.48 |
+| 4-May-23 | 112.05 | 106.93 | 116.15 | 122.31 |
+| 4-Sep-23 | 105.89 | 121.28 | 126.41 | 135.64 |
+| 4-Jan-24 | 142.82 | 139.74 | 167.43 | 155.13 |
+| 4-May-24 | 120.77 | 118.21 | 134.62 | 133.59 |
+| 4-Sep-24 | 96.66 | 94.61 | 102.82 | 110.00 |
+| 4-Jan-25 | 99.74 | 99.74 | 110.00 | 114.10 |
+| 4-May-25 | 99.74 | 98.72 | 108.97 | 114.10 |
+| 4-Sep-25 | 106.92 | 102.82 | 122.31 | 118.20 |
+| 4-Jan-26 | 105.89 | 107.95 | 121.28 | 119.23 |
+| 4-May-26 | 108.97 | 106.92 | 126.41 | 129.49 |
+| 4-Sep-26 | 97.69 | 95.64 | 117.18 | 116.15 |
 
 ---
 
@@ -192,49 +196,72 @@ On the macro side, tensions in the Middle East continue to build. Houthi forces 
 | **SGX** | **Sep 11th, 5:30pm** | USD/DMT | 96.55 | -1.65 | -1.68% | 12.01 | 37.23 | 96.35 | 98.25 |
 
 ## Dry Bulk Freight Rates Historical Line Data (USD/MT)
+> **Estimate.** The report prints no numbers for this chart. Values are computed from the chart's vector geometry at each x-axis date label (calibrated on the printed axis ticks; typically within 1% of the axis range).
+
 | Date | C5 W. Australia - Qingdao (USD/MT) | C3 Tubarao - Qingdao (USD/MT) |
 | :--- | :--- | :--- |
-| 4-Jan-21 | 15.00 | 18.00 |
-| 4-May-21 | 10.00 | 20.00 |
-| 4-Sep-21 | 22.00 | 48.00 |
-| 4-Jan-22 | 12.00 | 22.00 |
-| 4-May-22 | 8.00 | 18.00 |
-| 4-Sep-22 | 15.00 | 20.00 |
-| 4-Jan-23 | 10.00 | 17.00 |
-| 4-May-23 | 8.00 | 16.00 |
-| 4-Sep-23 | 12.00 | 18.00 |
-| 4-Jan-24 | 10.00 | 17.00 |
-| 4-May-24 | 9.00 | 16.00 |
-| 4-Sep-24 | 8.00 | 15.00 |
-| 4-Jan-25 | 9.00 | 16.00 |
-| 4-May-25 | 8.00 | 15.00 |
-| 4-Sep-25 | 9.00 | 16.00 |
-| 4-Jan-26 | 10.00 | 20.00 |
-| 4-May-26 | 12.00 | 42.00 |
-| 4-Sep-26 | 18.00 | 40.00 |
+| 4-Jan-21 | 8.92 | 15.35 |
+| 4-May-21 | 14.52 | 30.45 |
+| 4-Sep-21 | 13.68 | 34.92 |
+| 4-Jan-22 | 8.92 | 21.96 |
+| 4-May-22 | 12.84 | 29.60 |
+| 4-Sep-22 | 8.92 | 19.54 |
+| 4-Jan-23 | 7.53 | 18.99 |
+| 4-May-23 | 8.64 | 22.61 |
+| 4-Sep-23 | 7.80 | 18.98 |
+| 4-Jan-24 | 10.04 | 29.31 |
+| 4-May-24 | 10.60 | 26.52 |
+| 4-Sep-24 | 11.71 | 28.20 |
+| 4-Jan-25 | 6.69 | 18.14 |
+| 4-May-25 | 8.08 | 19.82 |
+| 4-Sep-25 | 10.04 | 23.73 |
+| 4-Jan-26 | 8.36 | 22.06 |
+| 4-May-26 | 14.23 | 34.63 |
+| 4-Sep-26 | 18.70 | 41.62 |
 
 ## Total China Iron Ore Import Volumes (Million Tonnes)
+> **Estimate.** The report prints no numbers for this chart. Values are computed from the chart's vector geometry at each x-axis date label (calibrated on the printed axis ticks; typically within 1% of the axis range).
+
 | Month / Period | Import Volume (Million Tonnes) |
 | :--- | :--- |
-| Jun-23 | 95.00 |
-| Aug-23 | 105.00 |
-| Oct-23 | 100.00 |
-| Dec-23 | 110.00 |
-| Feb-24 | 98.00 |
-| Apr-24 | 102.00 |
-| Jun-24 | 104.00 |
-| Aug-24 | 105.00 |
-| Oct-24 | 110.00 |
-| Dec-24 | 112.00 |
-| Feb-25 | 94.00 |
-| Apr-25 | 103.00 |
-| Jun-25 | 106.00 |
-| Aug-25 | 115.00 |
-| Oct-25 | 118.00 |
-| Dec-25 | 120.00 |
-| Feb-26 | 98.00 |
-| Apr-26 | 99.00 |
-| Jun-26 | 110.00 |
+| Jun-23 | 95.63 |
+| Jul-23 | 93.35 |
+| Aug-23 | 106.27 |
+| Sep-23 | 101.21 |
+| Oct-23 | 99.43 |
+| Nov-23 | 102.73 |
+| Dec-23 | 100.95 |
+| Jan-24 | 111.84 |
+| Feb-24 | 97.41 |
+| Mar-24 | 100.70 |
+| Apr-24 | 101.71 |
+| May-24 | 101.97 |
+| Jun-24 | 97.66 |
+| Jul-24 | 102.73 |
+| Aug-24 | 101.46 |
+| Sep-24 | 103.99 |
+| Oct-24 | 103.74 |
+| Nov-24 | 101.97 |
+| Dec-24 | 112.35 |
+| Jan-25 | 97.15 |
+| Feb-25 | 94.11 |
+| Mar-25 | 93.86 |
+| Apr-25 | 103.23 |
+| May-25 | 98.17 |
+| Jun-25 | 106.02 |
+| Jul-25 | 104.50 |
+| Aug-25 | 105.26 |
+| Sep-25 | 116.40 |
+| Oct-25 | 111.34 |
+| Nov-25 | 110.58 |
+| Dec-25 | 119.70 |
+| Jan-26 | 112.35 |
+| Feb-26 | 97.66 |
+| Mar-26 | 104.75 |
+| Apr-26 | 103.74 |
+| May-26 | 97.66 |
+| Jun-26 | 112.60 |
+| Jul-26 | 108.05 |
 
 ---
 

@@ -24,10 +24,10 @@ Commodity markets started the week on a positive note as a risk-on tone across m
 
 *By*[*Daniel Hynes*](https://www.linkedin.com/in/dahynes/)
 
-![Στιγμιότυπο Οθόνης 2025 10 07 104551](assets/2025-10-07_gold-hits-fresh-record-high-amid-political-unease_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_a85928657e74.png)
+![Στιγμιότυπο Οθόνης 2025 10 07 104551](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-10-07_gold-hits-fresh-record-high-amid-political-unease_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_a85928657e74.png)
 
 > **Figure 1: Στιγμιότυπο Οθόνης 2025 10 07 104551**  
-> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-10-07_gold-hits-fresh-record-high-amid-political-unease_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_a85928657e74.png)
+> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-10-07_gold-hits-fresh-record-high-amid-political-unease_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_a85928657e74.png)
 
 ### Market Commentary
 
@@ -43,10 +43,10 @@ Commodity markets started the week on a positive note as a risk-on tone across m
 
 The silver lease rate is currently elevated, hovering above 7%, significantly higher than its historical ~0% average, indicating a tight physical silver market. Aside from the inevitable pull from gold’s rally, this surge is also been supported by stronger industrial demand, particularly from China. The metal’s classification as critical to US national security has also spurred concerns about potential US tariffs. These factors have ultimately led to reduction in available silver supply in London and pushing up borrowing costs.
 
-![Στιγμιότυπο Οθόνης 2025 10 07 104656](assets/2025-10-07_gold-hits-fresh-record-high-amid-political-unease_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_78558e70c0d6.png)
+![Στιγμιότυπο Οθόνης 2025 10 07 104656](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-10-07_gold-hits-fresh-record-high-amid-political-unease_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_78558e70c0d6.png)
 
 > **Figure 2: Στιγμιότυπο Οθόνης 2025 10 07 104656**  
-> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-10-07_gold-hits-fresh-record-high-amid-political-unease_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_78558e70c0d6.png)
+> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-10-07_gold-hits-fresh-record-high-amid-political-unease_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_78558e70c0d6.png)
 
 Data source:[Commodities Wrap](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI)
 

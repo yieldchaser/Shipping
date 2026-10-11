@@ -62,16 +62,16 @@ Dirty Fleet Clean Fleet Meanwhile, the inconceivable could even occur. As market
 
 ![Exhibit 1: Slowing Fleet Growth Makes a Reappearance](../../../charts/poten/2012/poten_2012-10-05_slowing-fleet-growth-makes-a-reappearance_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2012/poten_2012-10-05_slowing-fleet-growth-makes-a-reappearance_chart1.png)
+> **Interactive Asset:** [Local Asset (200 DPI PNG)](../../../charts/poten/2012/poten_2012-10-05_slowing-fleet-growth-makes-a-reappearance_chart1.png)
 
 ![Exhibit 2: Slowing Fleet Growth Makes a Reappearance](../../../charts/poten/2012/poten_2012-10-05_slowing-fleet-growth-makes-a-reappearance_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2012/poten_2012-10-05_slowing-fleet-growth-makes-a-reappearance_chart2.png)
+> **Interactive Asset:** [Local Asset (200 DPI PNG)](../../../charts/poten/2012/poten_2012-10-05_slowing-fleet-growth-makes-a-reappearance_chart2.png)
 
 ![Exhibit 3: Slowing Fleet Growth Makes a Reappearance](../../../charts/poten/2012/poten_2012-10-05_slowing-fleet-growth-makes-a-reappearance_chart3.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2012/poten_2012-10-05_slowing-fleet-growth-makes-a-reappearance_chart3.png)
+> **Interactive Asset:** [Local Asset (200 DPI PNG)](../../../charts/poten/2012/poten_2012-10-05_slowing-fleet-growth-makes-a-reappearance_chart3.png)
 
 ![Exhibit 4: Slowing Fleet Growth Makes a Reappearance](../../../charts/poten/2012/poten_2012-10-05_slowing-fleet-growth-makes-a-reappearance_chart4.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2012/poten_2012-10-05_slowing-fleet-growth-makes-a-reappearance_chart4.png)
+> **Interactive Asset:** [Local Asset (200 DPI PNG)](../../../charts/poten/2012/poten_2012-10-05_slowing-fleet-growth-makes-a-reappearance_chart4.png)

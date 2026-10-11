@@ -31,10 +31,12 @@ This marginal rise in near-term waterborne supplies, under a current environment
 
 Total OPEC-11 loadings (i.e. excluding Iran and Venezuela) stand at just shy of 21mbd for February, an increase of about 0.5mbd from full-month January levels. But on closer inspection, we see in our February data a strong divergence in the performance of the big Middle East producers versus the rest of the OPEC group.
 
-![Chart 1 6 1024x605](assets/2023-02-22_opec-11-crude-loadings-climb-in-february-preventing-dip-in-global-seaborne-suppl_img_chart-1-6-1024x605_a9215532441a.png)
+Crude/condensates loadings by loading regions (mbd)
+
+![Chart 1 6 1024x605](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-02-22_opec-11-crude-loadings-climb-in-february-preventing-dip-in-global-seaborne-suppl_img_chart-1-6-1024x605_a9215532441a.png)
 
 > **Figure 1: Chart 1 6 1024x605**  
-> **Interactive Data & Source:** [Analytics Vortexa](https://analytics.vortexa.com/?dateRange=2021-01-01T00%3A00%3A00.000Z__2023-02-15T23%3A59%3A59.999Z&filtersEnabled=%5B%22p%22%2C%22o%22%2C%22d%22%2C%22d_r%22%2C%22v%22%2C%22intra%22%2C%22sts_o%22%2C%22c_o%22%2C%22w%22%5D&intraMovementFilter=0&metric=bpd&page=Flows&products=%5B%2254af755a090118dcf9b0724c9a4e9f14745c26165385ffa7f1445bc768f06f11%22%5D&tabId=43e9e926-c95a-4154-8f55-b49b075882f8&timeSeriesProperty=origin_country&v=2) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-02-22_opec-11-crude-loadings-climb-in-february-preventing-dip-in-global-seaborne-suppl_img_chart-1-6-1024x605_a9215532441a.png)
+> **Interactive Data & Source:** [Analytics Vortexa](https://analytics.vortexa.com/?dateRange=2021-01-01T00%3A00%3A00.000Z__2023-02-15T23%3A59%3A59.999Z&filtersEnabled=%5B%22p%22%2C%22o%22%2C%22d%22%2C%22d_r%22%2C%22v%22%2C%22intra%22%2C%22sts_o%22%2C%22c_o%22%2C%22w%22%5D&intraMovementFilter=0&metric=bpd&page=Flows&products=%5B%2254af755a090118dcf9b0724c9a4e9f14745c26165385ffa7f1445bc768f06f11%22%5D&tabId=43e9e926-c95a-4154-8f55-b49b075882f8&timeSeriesProperty=origin_country&v=2) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-02-22_opec-11-crude-loadings-climb-in-february-preventing-dip-in-global-seaborne-suppl_img_chart-1-6-1024x605_a9215532441a.png)
 
 For the core Middle East nations, the overall theme observed in February flows is rising loading activity, after recovering from a weak January, and a very strong shift by some producers to target specific markets:
 
@@ -43,10 +45,13 @@ For the core Middle East nations, the overall theme observed in February flows i
 - UAE loadings rose only marginally (<100kbd) m-o-m, but also show increased flows to Europe
 - Kuwaiti flows (to all destinations) are up 200kbd m-o-m, but those to China have picked up even more strongly and rising to a multiyear record of 1mbd so far in February – well above the 600kbd average flow in 2022.
 
-![Chart 2 5 1024x575](assets/2023-02-22_opec-11-crude-loadings-climb-in-february-preventing-dip-in-global-seaborne-suppl_img_chart-2-5-1024x575_e805894de19a.png)
+Selected OPEC Middle East countries’ crude/condensate loadings (mbd)
+
+
+![Chart 2 5 1024x575](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-02-22_opec-11-crude-loadings-climb-in-february-preventing-dip-in-global-seaborne-suppl_img_chart-2-5-1024x575_e805894de19a.png)
 
 > **Figure 2: Chart 2 5 1024x575**  
-> **Interactive Data & Source:** [Analytics Vortexa](https://analytics.vortexa.com/?dateRange=2021-01-01T00%3A00%3A00.000Z__2023-02-15T23%3A59%3A59.999Z&filtersEnabled=%5B%22p%22%2C%22o%22%2C%22d%22%2C%22d_r%22%2C%22v%22%2C%22intra%22%2C%22sts_o%22%2C%22c_o%22%2C%22w%22%5D&intraMovementFilter=0&metric=bpd&originGlobalXFilter=%5B%2243a70ba6b21894cd24165d9d7ee59b012e698cf97e22fd275ccdd05a556e7061%22%2C%229fa4354c24b3c7a2b0d40f870a1f57da4907bd816f130033f994ee9dcfdf08d1%22%2C%22f2ac0b4ca7b0e481ec41197ddbd37f6c60251f369ed74872691988bed8a07e0a%22%2C%226253047d839a51684f2ab6e3a4fa9956f582c73dfbbb276ebcd51ee01697b024%22%5D&page=Flows&products=%5B%2254af755a090118dcf9b0724c9a4e9f14745c26165385ffa7f1445bc768f06f11%22%5D&tabId=55b4a26a-94e4-4087-b32a-4dac7d3abdfc&timeSeriesHiddenSeries=%5B%22seasonal_comparison_12%22%2C%22seasonal_comparison_24%22%5D&timeSeriesProperty=origin_country&v=2) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-02-22_opec-11-crude-loadings-climb-in-february-preventing-dip-in-global-seaborne-suppl_img_chart-2-5-1024x575_e805894de19a.png)
+> **Interactive Data & Source:** [Analytics Vortexa](https://analytics.vortexa.com/?dateRange=2021-01-01T00%3A00%3A00.000Z__2023-02-15T23%3A59%3A59.999Z&filtersEnabled=%5B%22p%22%2C%22o%22%2C%22d%22%2C%22d_r%22%2C%22v%22%2C%22intra%22%2C%22sts_o%22%2C%22c_o%22%2C%22w%22%5D&intraMovementFilter=0&metric=bpd&originGlobalXFilter=%5B%2243a70ba6b21894cd24165d9d7ee59b012e698cf97e22fd275ccdd05a556e7061%22%2C%229fa4354c24b3c7a2b0d40f870a1f57da4907bd816f130033f994ee9dcfdf08d1%22%2C%22f2ac0b4ca7b0e481ec41197ddbd37f6c60251f369ed74872691988bed8a07e0a%22%2C%226253047d839a51684f2ab6e3a4fa9956f582c73dfbbb276ebcd51ee01697b024%22%5D&page=Flows&products=%5B%2254af755a090118dcf9b0724c9a4e9f14745c26165385ffa7f1445bc768f06f11%22%5D&tabId=55b4a26a-94e4-4087-b32a-4dac7d3abdfc&timeSeriesHiddenSeries=%5B%22seasonal_comparison_12%22%2C%22seasonal_comparison_24%22%5D&timeSeriesProperty=origin_country&v=2) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-02-22_opec-11-crude-loadings-climb-in-february-preventing-dip-in-global-seaborne-suppl_img_chart-2-5-1024x575_e805894de19a.png)
 
 Away from the Middle East, other OPEC producers, namely those in West Africa, are showing signs of falling behind again, after a relatively strong Q4 22.
 
@@ -61,11 +66,13 @@ February exports, at 3.3mbd, are around 270kbd below January levels. But this sh
 
 The other key component of non-OPEC supply is the Atlantic Basin. Loadings from the latter had been a crucial incremental source of supply in H2 22, especially for the European market. But the latest readings suggest while supply is still ample, it is plateauing.
 
-![Taking Into Consideration the Above](assets/2023-02-22_opec-11-crude-loadings-climb-in-february-preventing-dip-in-global-seaborne-suppl_img_chart-3-2-1024x553_806104a8ef9a.png)
+Atlantic Basin (non-OPEC and excl. Russia) crude/condensate loadings, by loading country (mbd)
+
+![Taking Into Consideration the Above](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-02-22_opec-11-crude-loadings-climb-in-february-preventing-dip-in-global-seaborne-suppl_img_chart-3-2-1024x553_806104a8ef9a.png)
 
 > **Figure 3: Taking Into Consideration the Above**  
 > *Taking into consideration the above, for now it seems global supplies are ample and are keeping a lid on prices – which have failed to break the $90bl level for more than three months now. However, looking ahead, the main concern over the medium to longer term is the one of spare capacity. Should there be a strong US gasoline driving season and/or a resurgence in Chinese products consumption, or even a wider/surprising increase in global oil demand, it is hard to see whereextrasupply could come from. Because of this, despite the recent bearish sentiment on crude prices, there is a fundamental, longer-term support factor that cannot be overlooked.*  
-> **Interactive Data & Source:** [Tinyurl](https://tinyurl.com/2m8j48xz) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-02-22_opec-11-crude-loadings-climb-in-february-preventing-dip-in-global-seaborne-suppl_img_chart-3-2-1024x553_806104a8ef9a.png)
+> **Interactive Data & Source:** [Tinyurl](https://tinyurl.com/2m8j48xz) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-02-22_opec-11-crude-loadings-climb-in-february-preventing-dip-in-global-seaborne-suppl_img_chart-3-2-1024x553_806104a8ef9a.png)
 
 Total Atlantic Basin loadings – defined as Europe, Med/NAfr, WAfr(non OPEC) and East Coast Americas are almost flat (+50kbd m-o-m) so far in February:
 

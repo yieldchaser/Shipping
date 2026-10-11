@@ -168,6 +168,8 @@ Next week, the iron ore market is expected to maintain a relatively strong oscil
 | **SGX** | **Aug. 25** | USD/DMT | 95.85 | -0.60 | -0.62% | 8.25 | 41.65 | 95.80 | 97.00 |
 
 ## Dry Bulk Freight Rates Historical Line Data (USD/MT)
+> **Approximate.** The report prints no numbers for this chart. Values were read visually from the chart image by the parser and are rough estimates.
+
 | Date | C5 W. Australia - Qingdao (USD/MT) | C3 Tubarao - Qingdao (USD/MT) |
 | :--- | :--- | :--- |
 | 4-Jan-21 | 10.00 | 18.00 |
@@ -196,32 +198,34 @@ Next week, the iron ore market is expected to maintain a relatively strong oscil
 | 4-May-25 | 7.00 | 10.00 |
 
 ## Total China Iron Ore Import Volumes (Million Tonnes)
+> **Estimate.** The report prints no numbers for this chart. Values are computed from the chart's vector geometry at each x-axis date label (calibrated on the printed axis ticks; typically within 1% of the axis range).
+
 | Month / Period | Import Volume (Million Tonnes) |
 | :--- | :--- |
-| Jun-23 | 96.00 |
-| Jul-23 | 94.00 |
-| Aug-23 | 106.00 |
-| Sep-23 | 101.00 |
-| Oct-23 | 99.00 |
-| Nov-23 | 103.00 |
-| Dec-23 | 101.00 |
-| Jan-24 | 111.00 |
-| Feb-24 | 97.00 |
-| Mar-24 | 102.00 |
-| Apr-24 | 102.00 |
-| May-24 | 102.00 |
-| Jun-24 | 98.00 |
-| Jul-24 | 102.00 |
-| Aug-24 | 104.00 |
-| Sep-24 | 104.00 |
-| Oct-24 | 102.00 |
-| Nov-24 | 102.00 |
-| Dec-24 | 112.00 |
-| Jan-25 | 96.00 |
-| Feb-25 | 95.00 |
-| Mar-25 | 95.00 |
-| Apr-25 | 104.00 |
-| May-25 | 98.00 |
+| Jun-23 | 95.60 |
+| Jul-23 | 93.48 |
+| Aug-23 | 106.37 |
+| Sep-23 | 101.09 |
+| Oct-23 | 99.40 |
+| Nov-23 | 102.78 |
+| Dec-23 | 100.88 |
+| Jan-24 | 111.86 |
+| Feb-24 | 97.50 |
+| Mar-24 | 100.66 |
+| Apr-24 | 101.72 |
+| May-24 | 101.93 |
+| Jun-24 | 97.71 |
+| Jul-24 | 102.78 |
+| Aug-24 | 101.30 |
+| Sep-24 | 104.04 |
+| Oct-24 | 103.83 |
+| Nov-24 | 101.93 |
+| Dec-24 | 112.49 |
+| Jan-25 | 97.07 |
+| Feb-25 | 94.12 |
+| Mar-25 | 93.91 |
+| Apr-25 | 103.20 |
+| May-25 | 98.13 |
 
 ---
 

@@ -34,10 +34,18 @@ If Turkey changes course and reduces its purchases from its neighbor, either for
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: Turkeys Balancing Act](../../../charts/poten/2022/poten_2022-10-28_turkeys-balancing-act_chart1.png)
+![Exhibit 1: Turkey: Seaborne Crude Oil Imports by Origin](../../../charts/poten/2022/poten_2022-10-28_turkeys-balancing-act_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2022/poten_2022-10-28_turkeys-balancing-act_chart1.png)
+> **Exhibit 1: Turkey: Seaborne Crude Oil Imports by Origin**  
+> Unit: Kbbl/Day | Russia% · X-axis: Jan-17 to Oct-22  
+> Series: Russia (B Sea), Russia (Baltic), CPC (Kaz./Russia), Iraq (Med), N Africa, Oth. Med, M. East, W Africa, Other, Russia %  
+> *Source: Lloyd’s List Intelligence*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2022/poten_2022-10-28_turkeys-balancing-act_chart1.png)
 
-![Exhibit 2: Turkeys Balancing Act](../../../charts/poten/2022/poten_2022-10-28_turkeys-balancing-act_chart2.png)
+![Exhibit 2: Petroleum Product Demand By: Turkey](../../../charts/poten/2022/poten_2022-10-28_turkeys-balancing-act_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2022/poten_2022-10-28_turkeys-balancing-act_chart2.png)
+> **Exhibit 2: Petroleum Product Demand By: Turkey**  
+> Unit: Kb/d · X-axis: Jan-17 to May-22  
+> Series: Naphtha, Gasoline, Gasoil/Diesel, Kerosene  
+> *Source: JODI*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2022/poten_2022-10-28_turkeys-balancing-act_chart2.png)

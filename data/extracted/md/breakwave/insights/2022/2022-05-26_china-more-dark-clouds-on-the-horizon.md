@@ -35,28 +35,28 @@ Chinese seaborne dry bulk imports have been on a steady decline since well befor
 
 However, the country’s strict Zero Covid policy and a domestic vaccination programme that has been less than capable of combatting the more contagious Omicron variant have weighed on the country’s fortunes in recent months. As a result, the country’s appetite for imported commodities has dwindled as manufacturing has faced increasing restrictions in the face of rising infection rates. Monthly order volumes for dry bulk cargoes discharging in Chinese ports have been trending downwards since the middle of last year, according to Shipfix’s data. Ordering activities in April fell below the volumes observed in the same month in 2019, the last year before the pandemic. However, with a week left in May, there is still a remote possibility of a reversal of the recent trend.
 
-![1](assets/2022-05-26_china-more-dark-clouds-on-the-horizon_img_1_ee7e2f9ee111.png)
+![1](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-05-26_china-more-dark-clouds-on-the-horizon_img_1_ee7e2f9ee111.png)
 
 > **Figure 1: 1**  
-> **Interactive Data & Source:** [Shipfix](https://shipfix.com/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-05-26_china-more-dark-clouds-on-the-horizon_img_1_ee7e2f9ee111.png)
+> **Interactive Data & Source:** [Shipfix](https://shipfix.com/) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-05-26_china-more-dark-clouds-on-the-horizon_img_1_ee7e2f9ee111.png)
 
 Source: Shipfix
 
 While aggregate order volumes for dry bulk cargoes have been trending lower amid weakening demand among Chinese manufacturers, there are some positive signals that could bode well for the near future. Copper, traditionally seen as a bellwether for the economy's health, has recently seen a pick up in cargo ordering activities. Volumes shipped as dry bulk cargo so far in May are already twice as high as for the whole of April and could be on track for the highest level since late last year. Weekly volumes were on a downward trajectory until early April but have shown considerable strength since, potentially providing a leading indicator for the Chinese economy.
 
-![1](assets/2022-05-26_china-more-dark-clouds-on-the-horizon_img_1_bbb8903d88f8.png)
+![1](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-05-26_china-more-dark-clouds-on-the-horizon_img_1_bbb8903d88f8.png)
 
 > **Figure 2: 1**  
-> **Interactive Data & Source:** [Shipfix](https://shipfix.com/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-05-26_china-more-dark-clouds-on-the-horizon_img_1_bbb8903d88f8.png)
+> **Interactive Data & Source:** [Shipfix](https://shipfix.com/) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-05-26_china-more-dark-clouds-on-the-horizon_img_1_bbb8903d88f8.png)
 
 Source: Shipfix
 
 Like for copper, orders for coal discharging in Chinese ports saw a decline earlier in the year. However, the dynamic was somewhat different. Part of the explanation for the falling volumes was that Chinese domestic production expanded as authorities approved more mining concessions and pressured miners to increase output. Imports of coal only account for a minor part of the country’s total requirements, but the trade still contributes to a considerable portion of the global tonne-mile demand. The recovery in Chinese seaborne imports of coal can also be explained to some extent by the country taking the opportunity to benefit from discounted prices on Russian coal, which faces sanctions in other parts of the world. Trade flow data highlight a substantial increase in the flow of coal from Russia to China, which suggests that China is opportunistically expanding its inventories of the fossil fuel. The more forward-looking cargo order data have also seen a substantial recovery in recent weeks, with cargoes destined for Chinese ports on the rise.
 
-![Copper Discharging in China 0525 1](assets/2022-05-26_china-more-dark-clouds-on-the-horizon_img_copperdischarginginchina0525-1_b6759f46df09.png)
+![Copper Discharging in China 0525 1](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-05-26_china-more-dark-clouds-on-the-horizon_img_copperdischarginginchina0525-1_b6759f46df09.png)
 
 > **Figure 3: Copper Discharging in China 0525 1**  
-> **Interactive Data & Source:** [Shipfix](https://shipfix.com/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-05-26_china-more-dark-clouds-on-the-horizon_img_copperdischarginginchina0525-1_b6759f46df09.png)
+> **Interactive Data & Source:** [Shipfix](https://shipfix.com/) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-05-26_china-more-dark-clouds-on-the-horizon_img_copperdischarginginchina0525-1_b6759f46df09.png)
 
 Source: Shipfix
 

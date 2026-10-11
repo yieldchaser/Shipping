@@ -32,10 +32,18 @@ In the (unlikely) event that Venezuela decides to go further than rhetoric and a
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: Latin Land Grab 1](../../../charts/poten/2023/poten_2023-12-08_latin-land-grab-1_chart1.png)
+![Exhibit 1: Guyana Crude Oil Exports by Destination](../../../charts/poten/2023/poten_2023-12-08_latin-land-grab-1_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2023/poten_2023-12-08_latin-land-grab-1_chart1.png)
+> **Exhibit 1: Guyana Crude Oil Exports by Destination**  
+> Unit: Kb/d · X-axis: Jan-20 to Nov-23  
+> Series: Panama, Netherlands, Italy, United States, Brazil, Spain, United Kingdom, China, Other  
+> *Source: Vortexa*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2023/poten_2023-12-08_latin-land-grab-1_chart1.png)
 
-![Exhibit 2: Latin Land Grab 1](../../../charts/poten/2023/poten_2023-12-08_latin-land-grab-1_chart2.png)
+![Exhibit 2: Venezuela Crude Exports by Destination](../../../charts/poten/2023/poten_2023-12-08_latin-land-grab-1_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2023/poten_2023-12-08_latin-land-grab-1_chart2.png)
+> **Exhibit 2: Venezuela Crude Exports by Destination**  
+> Unit: Kb/d · X-axis: Jan-20 to Nov-23  
+> Series: China, United States, Cuba, India, Spain, Malaysia, Italy, Other  
+> *Source: Vortexa*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2023/poten_2023-12-08_latin-land-grab-1_chart2.png)

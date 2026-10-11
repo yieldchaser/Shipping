@@ -74,6 +74,8 @@ The current crude oil stock data indicates that further imports are likely to be
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: The Stock Story](../../../charts/poten/2007/poten_2007-12-14_the-stock-story_chart1.png)
-
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2007/poten_2007-12-14_the-stock-story_chart1.png)
+> **Chart on PDF page 2: Daily Spot Market TCE**  
+> Unit: TCE ($/day) · X-axis: Oct-07 to Dec-07  
+> Series: AG - USG (280kt), AG - FE (260kt), WAF - USG (260kt)  
+> *Source: Poten*  
+> *No image crop of this chart was saved; caption read from the PDF.*

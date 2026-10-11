@@ -60,6 +60,7 @@ Small ships and large, new trade directions and old, this petroleum product offe
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: Naphtha Seeks Tonnage For Voyages to Exotic Places](../../../charts/poten/2004/poten_2004-08-06_naphtha-seeks-tonnage-for-voyages-to-exotic-places_chart1.png)
-
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2004/poten_2004-08-06_naphtha-seeks-tonnage-for-voyages-to-exotic-places_chart1.png)
+> **Chart on PDF page 2: Inter-regional Naphtha Trade**  
+> Unit: mmt/y · X-axis: 2003 to 2007  
+> Series: Long-haul, Short-haul  
+> *No image crop of this chart was saved; caption read from the PDF.*

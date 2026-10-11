@@ -31,10 +31,10 @@ source_file: "corpus/03-breakwave/insights/2023/2023-08-28_braemar-weekly-dry-ma
 
 The fronthaul S1C route (US Gulf to Shanghai-Tokyo range) has climbed to its highest point since early June (of $16,471/day) after a $4,400/day gain in the last two weeks, accompanied by upward movement from S4A (US Gulf to Cont/Med).
 
-![Market Chart 1](assets/2023-08-28_braemar-weekly-dry-market-report_img_image0281229_660c3bd97c69.png)
+![Market Chart 1](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-08-28_braemar-weekly-dry-market-report_img_image0281229_660c3bd97c69.png)
 
 > **Figure 1: Market Chart 1**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-08-28_braemar-weekly-dry-market-report_img_image0281229_660c3bd97c69.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-08-28_braemar-weekly-dry-market-report_img_image0281229_660c3bd97c69.png)
 
 The second chart, right, outlines the effect of US grain trades on vessel demand and is expressed in dwt days.
 
@@ -50,17 +50,17 @@ The underperformance owes largely to a retreat in corn exports, which dropped fr
 
 Whereas volumes carried in Handysize, Supramax and Ultramax tonnage in 2023 have been broadly comparable with year-ago levels, the Panamax component has dropped more noticeably and faced a particularly acute squeeze in June and July.
 
-![Market Chart 2](assets/2023-08-28_braemar-weekly-dry-market-report_img_image1281229_8457435c9780.png)
+![Market Chart 2](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-08-28_braemar-weekly-dry-market-report_img_image1281229_8457435c9780.png)
 
 > **Figure 2: Market Chart 2**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-08-28_braemar-weekly-dry-market-report_img_image1281229_8457435c9780.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-08-28_braemar-weekly-dry-market-report_img_image1281229_8457435c9780.png)
 
 Therefore, with a view to the Q4, it looks likely that the main US soybean export season is set to benefit Panamax demand in particular, given the preponderance of that fleet sector in those trades (see below), but also a positive for smaller sizes.
 
-![Market Chart 3](assets/2023-08-28_braemar-weekly-dry-market-report_img_image2281129_551be97982cf.png)
+![Market Chart 3](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-08-28_braemar-weekly-dry-market-report_img_image2281129_551be97982cf.png)
 
 > **Figure 3: Market Chart 3**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-08-28_braemar-weekly-dry-market-report_img_image2281129_551be97982cf.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-08-28_braemar-weekly-dry-market-report_img_image2281129_551be97982cf.png)
 
 US suppliers have faced intensified competition in recent years from Brazil thanks to higher soybean production and improved access to export facilities (especially in the north of the country).
 
@@ -70,9 +70,9 @@ In its 17 August report, the IGC commented that US commitments for soybean deliv
 
 In the IGC’s view, this reflects less demand from Asia due to “heavy” purchases from Brazil.
 
-![Market Chart 4](assets/2023-08-28_braemar-weekly-dry-market-report_img_image3281029_45a002027b5b.png)
+![Market Chart 4](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-08-28_braemar-weekly-dry-market-report_img_image3281029_45a002027b5b.png)
 
 > **Figure 4: Market Chart 4**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-08-28_braemar-weekly-dry-market-report_img_image3281029_45a002027b5b.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-08-28_braemar-weekly-dry-market-report_img_image3281029_45a002027b5b.png)
 
 A seasonal shift to the US is still expected, but with a yearly contraction of -6% in export volumes, the IGC projects.

@@ -20,10 +20,10 @@ source_file: "corpus/03-breakwave/insights/2025/2025-10-31_imo-net-zero-framewor
 
 ---
 
-![Στιγμιότυπο Οθόνης 2025 10 31 101657](assets/2025-10-31_imo-net-zero-framework-delay-and-the-ussaudi-alliance_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_92ebd3d09621.png)
+![Στιγμιότυπο Οθόνης 2025 10 31 101657](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-10-31_imo-net-zero-framework-delay-and-the-ussaudi-alliance_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_92ebd3d09621.png)
 
 > **Figure 1: Στιγμιότυπο Οθόνης 2025 10 31 101657**  
-> **Interactive Data & Source:** [Allied-shipbroking](https://www.allied-shipbroking.gr/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-10-31_imo-net-zero-framework-delay-and-the-ussaudi-alliance_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_92ebd3d09621.png)
+> **Interactive Data & Source:** [Allied-shipbroking](https://www.allied-shipbroking.gr/) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-10-31_imo-net-zero-framework-delay-and-the-ussaudi-alliance_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_92ebd3d09621.png)
 
 Executive Overview
 

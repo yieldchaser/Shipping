@@ -60,20 +60,20 @@ Let’s start with the equity markets. Investors want to know two things:
 
 Let’s start with the first. Markets are rallying because the war in the Middle East didn’t materialise. Oil prices are down
 
-![Market Chart 1](assets/2025-07-01_are-exuberant-markets-ignoring-risks_img_image001_ff07f224bfb7.png)
+![Market Chart 1](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-07-01_are-exuberant-markets-ignoring-risks_img_image001_ff07f224bfb7.png)
 
 > **Figure 1: Market Chart 1**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-07-01_are-exuberant-markets-ignoring-risks_img_image001_ff07f224bfb7.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-07-01_are-exuberant-markets-ignoring-risks_img_image001_ff07f224bfb7.png)
 
-![Equities Are Back Up](assets/2025-07-01_are-exuberant-markets-ignoring-risks_img_image002_0c60c8054fab.png)
+![Equities Are Back Up](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-07-01_are-exuberant-markets-ignoring-risks_img_image002_0c60c8054fab.png)
 
 > **Figure 2: Equities Are Back Up**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-07-01_are-exuberant-markets-ignoring-risks_img_image002_0c60c8054fab.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-07-01_are-exuberant-markets-ignoring-risks_img_image002_0c60c8054fab.png)
 
-![And Yields Are Pushed Down](assets/2025-07-01_are-exuberant-markets-ignoring-risks_img_image003_d47b331cc156.png)
+![And Yields Are Pushed Down](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-07-01_are-exuberant-markets-ignoring-risks_img_image003_d47b331cc156.png)
 
 > **Figure 3: And Yields Are Pushed Down**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-07-01_are-exuberant-markets-ignoring-risks_img_image003_d47b331cc156.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-07-01_are-exuberant-markets-ignoring-risks_img_image003_d47b331cc156.png)
 
 Gold corrected and volatility levels have subsided significantly. It’s the perfect risk-on market. We could put some of the blame on the low dollar, which inflates US equities, but this doesn’t account for the lower borrowing costs. So why are markets so happy?
 
@@ -81,17 +81,17 @@ After all, debt levels continue to climb, the US mega-bill may be delayed and no
 
 The answer? For one, the Fed has turned more dovish. While some more dovish members suggest a July cut, markets are now fully pricing a September rate cut.
 
-![Market Chart 4](assets/2025-07-01_are-exuberant-markets-ignoring-risks_img_image004_a29b5a0973cc.png)
+![Market Chart 4](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-07-01_are-exuberant-markets-ignoring-risks_img_image004_a29b5a0973cc.png)
 
 > **Figure 4: Market Chart 4**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-07-01_are-exuberant-markets-ignoring-risks_img_image004_a29b5a0973cc.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-07-01_are-exuberant-markets-ignoring-risks_img_image004_a29b5a0973cc.png)
 
 because of pressures from the President (and rumours of a dovish “shadow Fed President” installed months before Powell’s tenure ends) and partly because of persistently benign economic data, we are now seeing the most dovish Fed since mid-2021.
 
-![Market Chart 5](assets/2025-07-01_are-exuberant-markets-ignoring-risks_img_image005_73fb952f7b34.png)
+![Market Chart 5](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-07-01_are-exuberant-markets-ignoring-risks_img_image005_73fb952f7b34.png)
 
 > **Figure 5: Market Chart 5**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-07-01_are-exuberant-markets-ignoring-risks_img_image005_73fb952f7b34.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-07-01_are-exuberant-markets-ignoring-risks_img_image005_73fb952f7b34.png)
 
 Source: Bloomberg
 
@@ -101,33 +101,33 @@ Is this sustainable?
 
 To consider this, we need to look at inflation and growth. Last week wasn’t particularly good for either. Despite a small rebound in US consumer sentiment, personal income and spending were disappointing as some social security-related benefits ended.
 
-![Market Chart 6](assets/2025-07-01_are-exuberant-markets-ignoring-risks_img_image006_ed8f092e4f9c.png)
+![Market Chart 6](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-07-01_are-exuberant-markets-ignoring-risks_img_image006_ed8f092e4f9c.png)
 
 > **Figure 6: Market Chart 6**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-07-01_are-exuberant-markets-ignoring-risks_img_image006_ed8f092e4f9c.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-07-01_are-exuberant-markets-ignoring-risks_img_image006_ed8f092e4f9c.png)
 
 The Chicago Fed National Activity Index, a relatively reliable economic “Nowcast” (a forecast of what the economy is doing “now”) contracted for the second straight month.
 
-![Market Chart 7](assets/2025-07-01_are-exuberant-markets-ignoring-risks_img_image007_b1460c50cf34.png)
+![Market Chart 7](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-07-01_are-exuberant-markets-ignoring-risks_img_image007_b1460c50cf34.png)
 
 > **Figure 7: Market Chart 7**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-07-01_are-exuberant-markets-ignoring-risks_img_image007_b1460c50cf34.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-07-01_are-exuberant-markets-ignoring-risks_img_image007_b1460c50cf34.png)
 
 Despite economic weakness, core PCE expenditure, the Fed’s preferred gauge of inflation unexpectedly climbed higher. Tariff inflationary pressures are partly offset by a weak housing market and Chinese deflation, but these are big forces and the data could tilt either way. So we would best heed Jerome Powell’s warning that “Tariffs will impact inflation” and recall his reminder that the Fed’s projections, and comments, don’t come from a very high level of certainty.
 
-![Market Chart 8](assets/2025-07-01_are-exuberant-markets-ignoring-risks_img_image008_0112e1adc687.png)
+![Market Chart 8](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-07-01_are-exuberant-markets-ignoring-risks_img_image008_0112e1adc687.png)
 
 > **Figure 8: Market Chart 8**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-07-01_are-exuberant-markets-ignoring-risks_img_image008_0112e1adc687.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-07-01_are-exuberant-markets-ignoring-risks_img_image008_0112e1adc687.png)
 
 Right now the equity market is pricing in some very good outcomes. So, while there’s optimism that the Fed will cut rates, it is probably more prudent for investors to focus on the Fed’s real message which is “wait and see after the summer”.
 
 And then there is the Dollar. US portfolios are having a good year, but nearly every other international investor with exposure to global stocks (more than 50% dollar assets) is actually negative since the beginning of the year.
 
-![Market Chart 9](assets/2025-07-01_are-exuberant-markets-ignoring-risks_img_image009_61465a951a28.png)
+![Market Chart 9](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-07-01_are-exuberant-markets-ignoring-risks_img_image009_61465a951a28.png)
 
 > **Figure 9: Market Chart 9**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-07-01_are-exuberant-markets-ignoring-risks_img_image009_61465a951a28.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-07-01_are-exuberant-markets-ignoring-risks_img_image009_61465a951a28.png)
 
 So the second concern is currency exposure, which has erased profits for most non-US investors. This is not unlikely to continue as the US government has been positive about the benefits of a weaker Dollar.
 

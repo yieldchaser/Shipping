@@ -31,7 +31,7 @@ tags:
 ![66040eb096cfcf652ab4cfb0 Chart of the Week Dry (2)](../../images/66040eb096cfcf652ab4cfb0_chart of the week dry (2).png)
 
 > **Figure 1: 66040eb096cfcf652ab4cfb0 Chart of the Week Dry (2)**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/dry-week-13-2024) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/66040eb096cfcf652ab4cfb0_chart of the week dry (2).png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/dry-week-13-2024) | [Local Asset](../../../../../../corpus/07-signal/images/66040eb096cfcf652ab4cfb0_chart%20of%20the%20week%20dry%20(2).png)
 
 In the closing days of March, there has been a discernible softening of momentum in the Capesize Brazil to North China rates, following an upturn recorded in the previous week. Nevertheless, the recent momentum remains notably firmer than levels observed a month ago. Notably, the larger vessel size categories continue to exhibit strength, with a continued decrease in the number of ballasters for Capesize and Panamax vessels in Southeast Asia and Africa. Furthermore, the end of the month has seen a notable uptick in weekly percentage growth for Capesize tonne days.
 

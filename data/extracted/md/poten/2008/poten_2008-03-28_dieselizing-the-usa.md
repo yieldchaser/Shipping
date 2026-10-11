@@ -78,6 +78,13 @@ The present moves afoot to expand US refining capacity also seem to be configure
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: Dieselizing the USA](../../../charts/poten/2008/poten_2008-03-28_dieselizing-the-usa_chart1.png)
+> **Chart on PDF page 2: New York Harbor Gasoline and Diesel Price**  
+> Unit: $/bbl · X-axis: Oct-05 to Feb-08  
+> Series: NYH USLD, $/bbl, NYH UNL Regular gasoline, $/bbl  
+> *No image crop of this chart was saved; caption read from the PDF.*
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2008/poten_2008-03-28_dieselizing-the-usa_chart1.png)
+> **Chart on PDF page 3: USA Refinery Mogas Yield: Net and Total vs Refinery Distillate Yield**  
+> Unit: Percent · X-axis: Nov-05 to Nov-07  
+> Series: net refinery mogas yield, %, Distillate produced, yield %, total refinery mogas output, %, Linear (net refinery mogas yield, % ), Linear (Distillate produced, yield %), Linear (total refinery mogas output, % )  
+> *Source: EIA/Poten*  
+> *No image crop of this chart was saved; caption read from the PDF.*

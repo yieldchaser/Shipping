@@ -19,10 +19,10 @@ source_file: "corpus/03-breakwave/insights/2024/2024-01-30_the-long-way-round.ht
 
 ---
 
-![Gibson Report](assets/2024-01-30_the-long-way-round_img_gibsonreport_05592be74e93.jpg)
+![Gibson Report](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-01-30_the-long-way-round_img_gibsonreport_05592be74e93.jpg)
 
 > **Figure 1: Gibson Report**  
-> **Interactive Data & Source:** [Gibsons Co](https://www.gibsons.co.uk/market-reports) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-01-30_the-long-way-round_img_gibsonreport_05592be74e93.jpg)
+> **Interactive Data & Source:** [Gibsons Co](https://www.gibsons.co.uk/market-reports) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-01-30_the-long-way-round_img_gibsonreport_05592be74e93.jpg)
 
 ## The Long Way Round
 
@@ -34,9 +34,9 @@ Logically, the disruptions to the Red Sea route should increase the attractivene
 
 The biggest challenge for traders now is that rates have risen to such an extent that in some cases, it no longer makes sense to move the product. To overcome this barrier, something will have to give either in terms of commodity prices or freight costs. Ultimately, the Red Sea crisis will continue to add volatility to the market. Whilst the current strength of clean tanker rates is unlikely to be sustainable, being driven in part but the uneven supply of tonnage across the globe, the rate floor has been set higher, all the while the Red Sea remains off limits for many tanker owners.
 
-![Screenshot 2024 01 30 10.08.57](assets/2024-01-30_the-long-way-round_img_screenshot2024-01-30100857_7661d2f82f1c.png)
+![Screenshot 2024 01 30 10.08.57](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-01-30_the-long-way-round_img_screenshot2024-01-30100857_7661d2f82f1c.png)
 
 > **Figure 2: Screenshot 2024 01 30 10.08.57**  
-> **Interactive Data & Source:** [Gibsons Co](https://www.gibsons.co.uk/market-reports) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-01-30_the-long-way-round_img_screenshot2024-01-30100857_7661d2f82f1c.png)
+> **Interactive Data & Source:** [Gibsons Co](https://www.gibsons.co.uk/market-reports) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-01-30_the-long-way-round_img_screenshot2024-01-30100857_7661d2f82f1c.png)
 
 Data source:[Gibson Shipbrokers](https://www.gibsons.co.uk/market-reports)

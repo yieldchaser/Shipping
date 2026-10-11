@@ -32,10 +32,18 @@ Under these scenarios, the penetration of EV's will initially only reduce the gr
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: Will EVs Spark Decline In Oil Demand](../../../charts/poten/2017/poten_2017-09-22_will-evs-spark-decline-in-oil-demand_chart1.png)
+![Exhibit 1: OECD and non-OECD electric vehicle passenger car and truck sales](../../../charts/poten/2017/poten_2017-09-22_will-evs-spark-decline-in-oil-demand_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2017/poten_2017-09-22_will-evs-spark-decline-in-oil-demand_chart1.png)
+> **Exhibit 1: OECD and non-OECD electric vehicle passenger car and truck sales**  
+> Unit: percent · X-axis: 2015 to 2040  
+> Series: OECD BEV, OECD PHEV, OECD Total EV, Non-OECD BEV, Non-OECD PHEV, Non-OECD Total EV  
+> *Source: EIA*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2017/poten_2017-09-22_will-evs-spark-decline-in-oil-demand_chart1.png)
 
-![Exhibit 2: Will EVs Spark Decline In Oil Demand](../../../charts/poten/2017/poten_2017-09-22_will-evs-spark-decline-in-oil-demand_chart2.png)
+![Exhibit 2: Composition of New Car Sales, 2014 vs 2040](../../../charts/poten/2017/poten_2017-09-22_will-evs-spark-decline-in-oil-demand_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2017/poten_2017-09-22_will-evs-spark-decline-in-oil-demand_chart2.png)
+> **Exhibit 2: Composition of New Car Sales, 2014 vs 2040**  
+> Unit: 100% · X-axis: OECD America to Eurasia  
+> Series: Conventional, Nat. Gas V., Battery EV, Hybrid, Fuel Cell V.  
+> *Source: OPEC*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2017/poten_2017-09-22_will-evs-spark-decline-in-oil-demand_chart2.png)

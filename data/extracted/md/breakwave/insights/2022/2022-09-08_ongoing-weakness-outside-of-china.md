@@ -27,9 +27,9 @@ While Chinese steel production has long remained in a contraction (it has now co
 
 Industrial production is also a key metric we have continued to monitor in our Weekly Dry Bulk Reports, and only Europe has shown any real improvement since our last industrial production update was published in our August 1st report. As we discussed in this week's Weekly Dry Bulk Report, the European Union’s industrial production most recently managed to grow on a year-on-year basis by 2.4%. The European Union’s industrial production has grown on a year-on-year basis for two consecutive months.
 
-![Chart 1 (47)](assets/2022-09-08_ongoing-weakness-outside-of-china_img_chart1284729_1a231aa4b539.jpg)
+![Chart 1 (47)](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-09-08_ongoing-weakness-outside-of-china_img_chart1284729_1a231aa4b539.jpg)
 
 > **Figure 1: Chart 1 (47)**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-09-08_ongoing-weakness-outside-of-china_img_chart1284729_1a231aa4b539.jpg)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-09-08_ongoing-weakness-outside-of-china_img_chart1284729_1a231aa4b539.jpg)
 
 We are not at all bullish for Europe for the upcoming months however. We remain of our view that the global energy crisis is only in its infancy, and we expect that Europe will be hit particularly hard this winter. Also highlighted in this week's Weekly Dry Bulk Report have been the industrial production contractions continuing to occur in Japan, Russia, South Africa, and Brazil. Overall, the weakness in the global economy outside of China will remain an issue that the dry bulk market has to continue to contend with.

@@ -40,6 +40,20 @@ WS One Day WS Change Poten At WS rates of 105, modern vessels earn about $8,000 
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: Ever Volatile Times](../../../charts/poten/2007/poten_2007-08-10_ever-volatile-times_chart1.png)
+> **Chart on PDF page 1: Aframax: Caribbean to US Gulf WS Rates, 1997 to July 2007**  
+> Unit: WS · X-axis: Average to Standard Deviation  
+> Series: 1997 to 2002, 2003 to July 2007  
+> *Source: Poten data*  
+> *No image crop of this chart was saved; caption read from the PDF.*
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2007/poten_2007-08-10_ever-volatile-times_chart1.png)
+> **Chart on PDF page 2: Aframax: Caribbean to US Gulf Monthly WS Rates 1997 to 2006**  
+> Unit: WS · X-axis: Jan to Dec  
+> Series: Min, Max, Aframax Average WS, Std Dev, Jan to Jul 2007  
+> *Source: Poten*  
+> *No image crop of this chart was saved; caption read from the PDF.*
+
+> **Chart on PDF page 3: Aframax: 2007 Caribbean to US Gulf WS Spot Rate**  
+> Unit: WS | One Day Change in WS · X-axis: 1/1/07 to 7/30/07  
+> Series: WS, One Day WS Change  
+> *Source: Poten*  
+> *No image crop of this chart was saved; caption read from the PDF.*

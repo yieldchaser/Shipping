@@ -20,10 +20,10 @@ source_file: "corpus/03-breakwave/insights/2025/2025-04-07_1q25-review-the-dawn-
 
 ---
 
-![Rgb Color Brs Shipbrokers Monogram Logo](assets/2025-04-07_1q25-review-the-dawn-of-a-metamorphosis_img_rgb-color-brs-shipbrokers-monogram-l_ee79606c8e74.png)
+![Rgb Color Brs Shipbrokers Monogram Logo](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-04-07_1q25-review-the-dawn-of-a-metamorphosis_img_rgb-color-brs-shipbrokers-monogram-l_ee79606c8e74.png)
 
 > **Figure 1: Rgb Color Brs Shipbrokers Monogram Logo**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-04-07_1q25-review-the-dawn-of-a-metamorphosis_img_rgb-color-brs-shipbrokers-monogram-l_ee79606c8e74.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-04-07_1q25-review-the-dawn-of-a-metamorphosis_img_rgb-color-brs-shipbrokers-monogram-l_ee79606c8e74.png)
 
 ### Wider Macro Backdrop
 
@@ -31,10 +31,10 @@ Only three months have passed in 2025, yet it feels like three lifetimes have bl
 
 Here is a non-exhaustive list of notable events from the last calendar quarter!
 
-![Στιγμιότυπο Οθόνης 2025 04 07 165736](assets/2025-04-07_1q25-review-the-dawn-of-a-metamorphosis_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_23baada89f98.png)
+![Στιγμιότυπο Οθόνης 2025 04 07 165736](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-04-07_1q25-review-the-dawn-of-a-metamorphosis_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_23baada89f98.png)
 
 > **Figure 2: Στιγμιότυπο Οθόνης 2025 04 07 165736**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-04-07_1q25-review-the-dawn-of-a-metamorphosis_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_23baada89f98.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-04-07_1q25-review-the-dawn-of-a-metamorphosis_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_23baada89f98.png)
 
 Meanwhile, President Trump's issuance of 104 executive orders within the first 65 days of his second term marks an unprecedented pace in modern presidential history. By comparison, President Biden issued 42 executive orders in his first 100 days.
 
@@ -50,10 +50,10 @@ While freight rates experienced a mini rally in March, it was from a very low ba
 
 However, it is evident that the final month of the first quarter primarily serves as a ‘catch-up’ period, as 1Q25 values ($12,998) remain visibly below the averages of 1Q21 ($17,126) and 1Q22 ($14,746). C5TC reached its monthly and yearly high at $23,992/day on 13 March, falling just $1,000 short of the $25,000 psychological threshold.
 
-![Στιγμιότυπο Οθόνης 2025 04 07 165750](assets/2025-04-07_1q25-review-the-dawn-of-a-metamorphosis_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_26e4c189d6cc.png)
+![Στιγμιότυπο Οθόνης 2025 04 07 165750](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-04-07_1q25-review-the-dawn-of-a-metamorphosis_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_26e4c189d6cc.png)
 
 > **Figure 3: Στιγμιότυπο Οθόνης 2025 04 07 165750**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-04-07_1q25-review-the-dawn-of-a-metamorphosis_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_26e4c189d6cc.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-04-07_1q25-review-the-dawn-of-a-metamorphosis_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_26e4c189d6cc.png)
 
 Moreover, from a top-down perspective, global shipments of iron ore (-3.5%), coal (-6.1%), and grains (-11.5%) have noticeably declined year-over-year during the first 12 loading weeks of 2025. Hence, the lackluster earnings observed in sub-Cape segments are not entirely surprising. As we emphasized from late 2024 to early 2025, elevated inventories of these commodities at Chinese ports will contribute to a ‘slow-burn’ effect throughout 1H25.
 
@@ -61,20 +61,20 @@ Moreover, from a top-down perspective, global shipments of iron ore (-3.5%), coa
 
 That said, given the market’s tendency to swing between extremes, opportunities exist for those who are both bold and patient. For example, FFA traders who took ‘long positions’ on the C5TC March contract at around $11,500/day during peak bearish sentiment (from late January to mid-February whereby daily hire was trading below vessel operating expenses) would have secured a tidy profit by staying focused and filtering out the noise.
 
-![Στιγμιότυπο Οθόνης 2025 04 07 165807](assets/2025-04-07_1q25-review-the-dawn-of-a-metamorphosis_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_b1f6224c4aa8.png)
+![Στιγμιότυπο Οθόνης 2025 04 07 165807](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-04-07_1q25-review-the-dawn-of-a-metamorphosis_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_b1f6224c4aa8.png)
 
 > **Figure 4: Στιγμιότυπο Οθόνης 2025 04 07 165807**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-04-07_1q25-review-the-dawn-of-a-metamorphosis_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_b1f6224c4aa8.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-04-07_1q25-review-the-dawn-of-a-metamorphosis_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_b1f6224c4aa8.png)
 
 ### Capesize - Atlantic:pacific Loading Ratio
 
 We mentioned on several occasions in 2024 that the recent (structural) strength in the Capesize segment is primarily driven by Atlantic Fronthaul mineral ore trades, which mid-sized tonnage largely cannot capitalize on. As shown below, when tracking the Atlantic-to-Pacific loading tonnage ratio for VLOC and Capesize segments, we can see how these large parcel shipments have been increasingly skewed towards the Atlantic basin since 2023 (baby blue line) through to 1Q2025 (dark blue line).
 
-!["If China Fails to Regain Its Grain Purchasing Momentum in 2025](assets/2025-04-07_1q25-review-the-dawn-of-a-metamorphosis_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_695b59f7651d.png)
+!["If China Fails to Regain Its Grain Purchasing Momentum in 2025](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-04-07_1q25-review-the-dawn-of-a-metamorphosis_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_695b59f7651d.png)
 
 > **Figure 5: "If China Fails to Regain Its Grain Purchasing Momentum in 2025**  
 > *"If China fails to regain its grain purchasing momentum in 2025 - regardless of whether Chinese buyers continue favoring Brazil over the US due to trade tensions - this could further strain mid-size vessel segments, forcing them to seek alternative parcel-sized cargoes. Meanwhile, with new Kamsarmax deliveries in 2025 expected to exceed 120 vessels, a potential five-year high, the pressure on this segment could intensify."*  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-04-07_1q25-review-the-dawn-of-a-metamorphosis_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_695b59f7651d.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-04-07_1q25-review-the-dawn-of-a-metamorphosis_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_695b59f7651d.png)
 
 Interestingly, this ratio for January and February 2025 was exceptionally high (breaching 3.0 at one point), even compared to last year’s figures, as Australian cargo volumes dipped due to weather-related port disruptions. As the cyclones dissipated, loadings in Pacific gradually resumed by March. Concurrently, this ratio was turbocharged with the continual influx* of Guinean bauxite in 1Q25. For context, large-sized Guinean bauxite parcels totalled to north of 16 mln mt in March 2025, representing a 4 mln mt y-o-y increment.
 
@@ -86,17 +86,17 @@ On a side note, during the fourth quarters of 2023 and 2024, this ratio occasion
 
 In contrast, when tracking the Atlantic-to-Pacific loading tonnage ratio for Kamsarmax and Panamax segments, we see that 2025 has started at a five-year low. The grain trade bonanza that first begun in 2020 (China rebuilding its hog population post-2018 African Swine Flu) and latter peaked in 2023, is now witnessing evident signs of fatigue. As mentioned in our BRS weekly newsletter sent out a month ago:
 
-![Στιγμιότυπο Οθόνης 2025 04 07 165852](assets/2025-04-07_1q25-review-the-dawn-of-a-metamorphosis_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_886f52909226.png)
+![Στιγμιότυπο Οθόνης 2025 04 07 165852](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-04-07_1q25-review-the-dawn-of-a-metamorphosis_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_886f52909226.png)
 
 > **Figure 6: Στιγμιότυπο Οθόνης 2025 04 07 165852**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-04-07_1q25-review-the-dawn-of-a-metamorphosis_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_886f52909226.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-04-07_1q25-review-the-dawn-of-a-metamorphosis_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_886f52909226.png)
 
 In summary, as shifting tides reshape both the macro and microenvironments of dry bulk shipping, the ability to unlearn and relearn quickly will be crucial. Avoiding linear extrapolation based on past assumptions and adapting to new realities will be key to capitalizing on emerging opportunities in this evolving world order.
 
-![Στιγμιότυπο Οθόνης 2025 04 07 165924](assets/2025-04-07_1q25-review-the-dawn-of-a-metamorphosis_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_768d7496ea28.png)
+![Στιγμιότυπο Οθόνης 2025 04 07 165924](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-04-07_1q25-review-the-dawn-of-a-metamorphosis_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_768d7496ea28.png)
 
 > **Figure 7: Στιγμιότυπο Οθόνης 2025 04 07 165924**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-04-07_1q25-review-the-dawn-of-a-metamorphosis_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_768d7496ea28.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-04-07_1q25-review-the-dawn-of-a-metamorphosis_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_768d7496ea28.png)
 
 This is especially true with the newly unveiled list of reciprocal tariffs by President Trump, which imposes a minimum 10% tariff on all exports to the US, with even higher duties for approximately 60 countries to address significant trade imbalances. This affects several of the nation's largest trading partners, including the European Union, Japan, and Vietnam. In particular, China will face a 34% reciprocal tariff rate, in addition to the 20% duties Trump already implemented this year in response to the fentanyl issue. Even the Heard Island and McDonald Islands, a remote group of uninhabited volcanic islands near Antarctica, covered in glaciers and home to penguins, have been caught up in Trump's trade measures. This essentially underscores the tough stance that the US administration is attempting to project.
 

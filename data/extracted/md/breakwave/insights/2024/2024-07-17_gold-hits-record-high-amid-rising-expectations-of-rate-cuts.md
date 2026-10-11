@@ -24,10 +24,10 @@ A stronger USD created headwinds for commodity markets. Concerns over demand in 
 
 *By*[*Daniel Hynes*](https://www.linkedin.com/in/dahynes/)
 
-![Στιγμιότυπο Οθόνης 2024 07 17 114228](assets/2024-07-17_gold-hits-record-high-amid-rising-expectations-of-rate-cuts_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_a5876aee8964.png)
+![Στιγμιότυπο Οθόνης 2024 07 17 114228](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-07-17_gold-hits-record-high-amid-rising-expectations-of-rate-cuts_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_a5876aee8964.png)
 
 > **Figure 1: Στιγμιότυπο Οθόνης 2024 07 17 114228**  
-> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-07-17_gold-hits-record-high-amid-rising-expectations-of-rate-cuts_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_a5876aee8964.png)
+> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-07-17_gold-hits-record-high-amid-rising-expectations-of-rate-cuts_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_a5876aee8964.png)
 
 ### Market Commentary
 
@@ -43,10 +43,10 @@ The stronger USD has also weighed on investors across the metals complex.**Coppe
 
 **Global gas**prices pushed higher as US LNG export terminals struggle to recover from Hurricane Beryl. Freeport LNG has cancelled at least seven shipments after the storm damaged part of the plant.
 
-![Στιγμιότυπο Οθόνης 2024 07 17 114339](assets/2024-07-17_gold-hits-record-high-amid-rising-expectations-of-rate-cuts_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_c5c3f141bbdd.png)
+![Στιγμιότυπο Οθόνης 2024 07 17 114339](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-07-17_gold-hits-record-high-amid-rising-expectations-of-rate-cuts_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_c5c3f141bbdd.png)
 
 > **Figure 2: Στιγμιότυπο Οθόνης 2024 07 17 114339**  
-> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-07-17_gold-hits-record-high-amid-rising-expectations-of-rate-cuts_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_c5c3f141bbdd.png)
+> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-07-17_gold-hits-record-high-amid-rising-expectations-of-rate-cuts_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_c5c3f141bbdd.png)
 
 Data source:[Commodities Wrap](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI)
 

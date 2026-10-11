@@ -110,6 +110,26 @@ While scrap prices are high, tanker owners with older tonnage are probably wise 
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: Decisions, Decisions, Stratospheric Scrap Prices: What's An Owner to Do?](../../../charts/poten/2004/poten_2004-03-05_decisions-decisions-stratospheric-scrap-prices-whats-an_chart1.png)
+> **Chart on PDF page 2: Scrap Prices vs Steel Prices**  
+> Unit: $ · X-axis: Jan-01 to Jan-04  
+> Series: $/Ton Rebar, $/Ldt  
+> *Source: Poten & Partners/MEPS*  
+> *No image crop of this chart was saved; caption read from the PDF.*
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2004/poten_2004-03-05_decisions-decisions-stratospheric-scrap-prices-whats-an_chart1.png)
+> **Chart on PDF page 3: Scrap Prices Vs WS Rates**  
+> Unit: $/Ldt | WS Rates · X-axis: Jan-85 to Jan-03  
+> Series: $/Ldt, WS Rate  
+> *Source: Poten & Partners*  
+> *No image crop of this chart was saved; caption read from the PDF.*
+
+> **Chart on PDF page 3: Scrap Prices vs LDT Scrapped**  
+> Unit: 000 Tons | $/Ldt · X-axis: Jan-95 to Jan-04  
+> Series: $/Ldt, 000 Tons  
+> *Source: Poten & Partners*  
+> *No image crop of this chart was saved; caption read from the PDF.*
+
+> **Chart on PDF page 4: VLCC Rates vs LDT Scrapped**  
+> Unit: 000 Tons | WS Rates · X-axis: Jan-95 to Jan-04  
+> Series: WS Rates, 000 Tons  
+> *Source: Poten & Partners*  
+> *No image crop of this chart was saved; caption read from the PDF.*

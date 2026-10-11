@@ -32,10 +32,10 @@ Chicago wheat futures rose past $10.70 per bushel, a two-week high and over 25% 
 
 ‘The Big Picture’ - Capesize and Panamax Bulkers and Smaller Ship Sizes
 
-![Ch1](assets/2022-04-13_signal-dry-bulk-weekly-report_img_ch1_a3e6a85b4ee8.png)
+![Ch1](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-04-13_signal-dry-bulk-weekly-report_img_ch1_a3e6a85b4ee8.png)
 
 > **Figure 1: Ch1**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-04-13_signal-dry-bulk-weekly-report_img_ch1_a3e6a85b4ee8.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-04-13_signal-dry-bulk-weekly-report_img_ch1_a3e6a85b4ee8.png)
 
 A weaker sentiment of freight rates is sustained for the second week of April with losses on small and large vessel size categories. Handysize presents the sharpest decrease among the vessel sizes.
 
@@ -50,10 +50,10 @@ A weaker sentiment of freight rates is sustained for the second week of April wi
 
 Supply Trend Lines for Key Load Areas
 
-![Ch2](assets/2022-04-13_signal-dry-bulk-weekly-report_img_ch2_5f2a9d3dea4b.png)
+![Ch2](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-04-13_signal-dry-bulk-weekly-report_img_ch2_5f2a9d3dea4b.png)
 
 > **Figure 2: Ch2**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-04-13_signal-dry-bulk-weekly-report_img_ch2_5f2a9d3dea4b.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-04-13_signal-dry-bulk-weekly-report_img_ch2_5f2a9d3dea4b.png)
 
 The number of ballasters signals a decreasing trend for all vessel size categories for the second week of April at levels below the one-year average in all vessel size categories, despite the upward movement last week.
 
@@ -66,10 +66,10 @@ The number of ballasters signals a decreasing trend for all vessel size categori
 
 ## Decreasing
 
-![Ch3](assets/2022-04-13_signal-dry-bulk-weekly-report_img_ch3_aed367817857.png)
+![Ch3](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-04-13_signal-dry-bulk-weekly-report_img_ch3_aed367817857.png)
 
 > **Figure 3: Ch3**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-04-13_signal-dry-bulk-weekly-report_img_ch3_aed367817857.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-04-13_signal-dry-bulk-weekly-report_img_ch3_aed367817857.png)
 
 The overall trend of demand ton-days keeps decreasing, while there is a sharp downward trajectory in the Capesize and Panamax segment.
 
@@ -84,10 +84,10 @@ The overall trend of demand ton-days keeps decreasing, while there is a sharp do
 
 ## Dry Bulk Ships Congested at Chinese Ports
 
-![Ch4](assets/2022-04-13_signal-dry-bulk-weekly-report_img_ch4_632438262015.png)
+![Ch4](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-04-13_signal-dry-bulk-weekly-report_img_ch4_632438262015.png)
 
 > **Figure 4: Ch4**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-04-13_signal-dry-bulk-weekly-report_img_ch4_632438262015.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-04-13_signal-dry-bulk-weekly-report_img_ch4_632438262015.png)
 
 Dry bulk ships in congestion have shown a sharp increase for the second week of April, stemming mainly from the Handysize and Supramax segment.
 

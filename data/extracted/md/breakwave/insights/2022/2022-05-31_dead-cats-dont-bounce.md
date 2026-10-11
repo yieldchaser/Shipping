@@ -27,10 +27,10 @@ However, we should not forget that the Fed continues to be the “only game in t
 
 However, a quick look at where the S&P 500 rebounded (at 4150 points), and where the Fed’s assets are projected to be (assuming full quantitative tightening) by the next summer. In other words, markets have priced in a year’s worth of quantitative tightening.
 
-![Market Chart 1](assets/2022-05-31_dead-cats-dont-bounce_img_image001_93b274fe6943.png)
+![Market Chart 1](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-05-31_dead-cats-dont-bounce_img_image001_93b274fe6943.png)
 
 > **Figure 1: Market Chart 1**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-05-31_dead-cats-dont-bounce_img_image001_93b274fe6943.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-05-31_dead-cats-dont-bounce_img_image001_93b274fe6943.png)
 
 One can’t say for certain that we have reached a bottom. The S&P could well fall another 800 points, towards significant technical levels which coincide with Fed asset levels before the latest round of QE.
 
@@ -38,24 +38,24 @@ In other words, markets have priced in some quantitative tightening, but not a f
 
 The rebound in bonds after the US 10-year reaching 3% means that markets have also priced in this and possibly next year’s rate hikes as well. The global bond benchmark yielding 1% over long-term inflation is certainly reason for pause.
 
-![Market Chart 2](assets/2022-05-31_dead-cats-dont-bounce_img_image002_7365c9b422e6.png)
+![Market Chart 2](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-05-31_dead-cats-dont-bounce_img_image002_7365c9b422e6.png)
 
 > **Figure 2: Market Chart 2**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-05-31_dead-cats-dont-bounce_img_image002_7365c9b422e6.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-05-31_dead-cats-dont-bounce_img_image002_7365c9b422e6.png)
 
 We are now moving to the phase of the cycle where at least some of the financial recession has happened, but the economic recession has yet to come.
 
-![Market Chart 3](assets/2022-05-31_dead-cats-dont-bounce_img_image003_fb9b5a1ffa0a.png)
+![Market Chart 3](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-05-31_dead-cats-dont-bounce_img_image003_fb9b5a1ffa0a.png)
 
 > **Figure 3: Market Chart 3**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-05-31_dead-cats-dont-bounce_img_image003_fb9b5a1ffa0a.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-05-31_dead-cats-dont-bounce_img_image003_fb9b5a1ffa0a.png)
 
 And there’s more good news. By now, members of the Federal Open Markets Committee will know that even their most constrictive policies will have little effect on inflation and that the labour market is very tight. Therefore, their principal concern will be growth. The quarter’s results by Amazon and Wal-Mart were disconcerting enough to raise some flags in the Fed. Meanwhile, the US housing market continues to lose steam while prices remain sticky, the usual mark of a disconnect between buyers and sellers -just before the prices eventually cave.
 
-![Market Chart 4](assets/2022-05-31_dead-cats-dont-bounce_img_image004_78e1cb089ea2.png)
+![Market Chart 4](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-05-31_dead-cats-dont-bounce_img_image004_78e1cb089ea2.png)
 
 > **Figure 4: Market Chart 4**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-05-31_dead-cats-dont-bounce_img_image004_78e1cb089ea2.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-05-31_dead-cats-dont-bounce_img_image004_78e1cb089ea2.png)
 
 So markets have retrenched enough to price in some quantitative tightening. At the same time, economic news are taking enough of a negative turn to at the very least sow the first seeds of dovishness that should kick off the next cycle.
 

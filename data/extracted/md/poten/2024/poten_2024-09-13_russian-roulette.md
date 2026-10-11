@@ -28,10 +28,18 @@ As mainstream owners left the Russian trade to the dark fleet, it created a surp
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: Russian Roulette](../../../charts/poten/2024/poten_2024-09-13_russian-roulette_chart1.png)
+![Exhibit 1: Urals Crude Oil Price](../../../charts/poten/2024/poten_2024-09-13_russian-roulette_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2024/poten_2024-09-13_russian-roulette_chart1.png)
+> **Exhibit 1: Urals Crude Oil Price**  
+> Unit: USD/bbl · X-axis: 31-Dec-19 to 31-Aug-24  
+> Series: Urals Crude Oil Price  
+> *Source: Investing.com/Poten & Partners*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2024/poten_2024-09-13_russian-roulette_chart1.png)
 
-![Exhibit 2: Russian Roulette](../../../charts/poten/2024/poten_2024-09-13_russian-roulette_chart2.png)
+![Exhibit 2: Dirty Tanker Freight Rates](../../../charts/poten/2024/poten_2024-09-13_russian-roulette_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2024/poten_2024-09-13_russian-roulette_chart2.png)
+> **Exhibit 2: Dirty Tanker Freight Rates**  
+> Unit: TCE · X-axis: Jan-21 to Sep-24  
+> Series: Suezmax (WAF-UKC), Aframax (avg 3 routes)  
+> *Source: Investing.com/Poten & Partners*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2024/poten_2024-09-13_russian-roulette_chart2.png)

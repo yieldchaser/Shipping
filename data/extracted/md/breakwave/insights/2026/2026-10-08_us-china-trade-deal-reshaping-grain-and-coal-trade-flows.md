@@ -20,19 +20,19 @@ source_file: "corpus/03-breakwave/insights/2026/2026-10-08_us-china-trade-deal-r
 
 ---
 
-![Rgb Color Brs Shipbrokers Monogram L](assets/2026-10-08_us-china-trade-deal-reshaping-grain-and-coal-trade-flows_img_rgb-color-brs-shipbrokers-monogram-l_c365f35f1de5.png)
+![Rgb Color Brs Shipbrokers Monogram L](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-10-08_us-china-trade-deal-reshaping-grain-and-coal-trade-flows_img_rgb-color-brs-shipbrokers-monogram-l_c365f35f1de5.png)
 
 > **Figure 1: Rgb Color Brs Shipbrokers Monogram L**  
-> [Local Asset](file:///c:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-10-08_us-china-trade-deal-reshaping-grain-and-coal-trade-flows_img_rgb-color-brs-shipbrokers-monogram-l_c365f35f1de5.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-10-08_us-china-trade-deal-reshaping-grain-and-coal-trade-flows_img_rgb-color-brs-shipbrokers-monogram-l_c365f35f1de5.png)
 
 On 28 September, the US and China announced a new trade agreement following the summit between Presidents Trump and Xi. The two countries agreed to provide more favourable tariffs for approximately $30 billion of each other’s non-sensitive goods imports. Tariffs on around 90% of covered products are expected to be reduced to most-favored-nation rates, subject to each side completing its domestic procedures. The tariff truce has also been extended until January, providing a near-term window for additional agricultural and commodity purchases. The US Trade Representative stated that the measures will improve market access for goods representing around 30% of current US exports to China.
 
 The agreement should nevertheless be viewed as a targeted easing of trade barriers rather than a broader normalisation of US-China trade relations. China’s tariff concessions cover a range of agricultural commodities, including corn, wheat and sorghum, alongside coal and selected manufactured goods, while the US is expected to provide more favourable tariff treatment for certain Chinese consumer products. The measures could support a gradual recovery in bilateral trade flows, particularly across non-soybean agricultural commodities where US exporters have lost market share in recent years. In addition to supporting bilateral commodity flows, the agreement could also have broader implications for dry bulk shipping through a potential easing of USTR-related measures on Chinese-built and Chinese-operated tonnage.
 
-![Στιγμιότυπο Οθόνης 2026 10 05 124027](assets/2026-10-08_us-china-trade-deal-reshaping-grain-and-coal-trade-flows_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_6b96d781bd12.png)
+![Στιγμιότυπο Οθόνης 2026 10 05 124027](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-10-08_us-china-trade-deal-reshaping-grain-and-coal-trade-flows_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_6b96d781bd12.png)
 
 > **Figure 2: Στιγμιότυπο Οθόνης 2026 10 05 124027**  
-> [Local Asset](file:///c:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-10-08_us-china-trade-deal-reshaping-grain-and-coal-trade-flows_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_6b96d781bd12.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-10-08_us-china-trade-deal-reshaping-grain-and-coal-trade-flows_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_6b96d781bd12.png)
 
 The Coal Market
 
@@ -40,10 +40,10 @@ For the coal market, the most significant development is China’s commitment to
 
 While the immediate impact on trade flows is likely to be limited, the move improves the competitiveness of US coal in the Chinese market and could support a gradual recovery in imports towards the 10 mln mt per year levels seen before trade tensions intensified. The benefits are expected to be concentrated in metallurgical coal rather than thermal coal, as higher-value coking coal is better able to absorb long-haul freight costs, while US thermal coal generally faces challenges related to quality specifications and sulfur content.
 
-![2 Tow 2](assets/2026-10-08_us-china-trade-deal-reshaping-grain-and-coal-trade-flows_img_2tow2_2651a0bfd9f0.png)
+![2 Tow 2](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-10-08_us-china-trade-deal-reshaping-grain-and-coal-trade-flows_img_2tow2_2651a0bfd9f0.png)
 
 > **Figure 3: 2 Tow 2**  
-> [Local Asset](file:///c:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-10-08_us-china-trade-deal-reshaping-grain-and-coal-trade-flows_img_2tow2_2651a0bfd9f0.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-10-08_us-china-trade-deal-reshaping-grain-and-coal-trade-flows_img_2tow2_2651a0bfd9f0.png)
 
 According to AXSMarine data, China imported approximately 30.2 mln mt of coking coal during January-August. Russia remained the leading supplier, accounting for around 42% of total imports, followed by Australia with a 38% market share.
 
@@ -55,17 +55,17 @@ Beijing plans to reduce tariffs on a range of US agricultural products, includin
 
 The tariff reductions are expected to support China’s broader commitment to purchase $17 billion worth of US agricultural goods. In addition, both countries will establish an agricultural working group to discuss market access and regulatory issues, with the first meeting scheduled before the end of the year.
 
-![2 Tow 3](assets/2026-10-08_us-china-trade-deal-reshaping-grain-and-coal-trade-flows_img_2tow3_eb2d21f9f5e2.png)
+![2 Tow 3](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-10-08_us-china-trade-deal-reshaping-grain-and-coal-trade-flows_img_2tow3_eb2d21f9f5e2.png)
 
 > **Figure 4: 2 Tow 3**  
-> [Local Asset](file:///c:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-10-08_us-china-trade-deal-reshaping-grain-and-coal-trade-flows_img_2tow3_eb2d21f9f5e2.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-10-08_us-china-trade-deal-reshaping-grain-and-coal-trade-flows_img_2tow3_eb2d21f9f5e2.png)
 
 China’s wheat imports, which declined sharply between 2023 and 2025 as Beijing prioritised domestic supply and import diversification. From January to August 2026, China’s seaborne wheat imports were estimated at approximately 3.2 mln mt, with Canada and Australia emerging as its principal suppliers. Meanwhile, US wheat shipments to China have fallen considerably, highlighting the broader shift in China’s procurement strategy away from heavier reliance on US-origin grain.
 
-![2 Tow 4](assets/2026-10-08_us-china-trade-deal-reshaping-grain-and-coal-trade-flows_img_2tow4_3495894fbb48.png)
+![2 Tow 4](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-10-08_us-china-trade-deal-reshaping-grain-and-coal-trade-flows_img_2tow4_3495894fbb48.png)
 
 > **Figure 5: 2 Tow 4**  
-> [Local Asset](file:///c:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-10-08_us-china-trade-deal-reshaping-grain-and-coal-trade-flows_img_2tow4_3495894fbb48.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-10-08_us-china-trade-deal-reshaping-grain-and-coal-trade-flows_img_2tow4_3495894fbb48.png)
 
 A similar trend is observed in China’s corn imports which have remained subdued since 2024, when trade tensions and proposed US tariff measures began to weigh on bilateral agricultural flows. Since then, imports have softened further as Beijing has placed greater emphasis on domestic production and supply security.
 
@@ -79,10 +79,10 @@ In the “Boeing” segment, China committed in May 2026 to an initial purchase 
 
 Of the “3 Bs”, soybeans therefore have the clearest direct relevance for dry bulk shipping. However, progress across all three sectors provides evidence of improving bilateral trade engagement and could create a more supportive backdrop for additional US–China commodity flows.
 
-![Στιγμιότυπο Οθόνης 2026 10 05 124038](assets/2026-10-08_us-china-trade-deal-reshaping-grain-and-coal-trade-flows_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_b7f70afbbfc4.png)
+![Στιγμιότυπο Οθόνης 2026 10 05 124038](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-10-08_us-china-trade-deal-reshaping-grain-and-coal-trade-flows_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_b7f70afbbfc4.png)
 
 > **Figure 6: Στιγμιότυπο Οθόνης 2026 10 05 124038**  
-> [Local Asset](file:///c:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-10-08_us-china-trade-deal-reshaping-grain-and-coal-trade-flows_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_b7f70afbbfc4.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-10-08_us-china-trade-deal-reshaping-grain-and-coal-trade-flows_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_b7f70afbbfc4.png)
 
 The Impact on Dry Bulk Shipping
 

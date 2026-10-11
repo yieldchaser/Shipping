@@ -32,11 +32,11 @@ Renewed attention on Venezuela’s oil sector has re-entered market discussion a
 Venezuela holds one of the world’s largest proven crude oil reserves. However, reserves are not a freight variable. Tanker demand responds to barrels produced, exported, and moved, not to in-ground resource estimates.
 
 
-![Https://app.signalocean.com/tanker/dynamic/crudeoilflows](../../images/695b9bd620a5e4435658af4a_203f1ef2.png)
+![Https://app.signalocean.com/tanker/dynamic/crudeoilflows](../../../../../../corpus/07-signal/images/695b9bd620a5e4435658af4a_203f1ef2.png)
 
 > **Figure 1: Https://app.signalocean.com/tanker/dynamic/crudeoilflows**  
 > *https://app.signalocean.com/tanker/dynamic/crude_oil_flows*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/market-insights-venezuela-russia-and-the-oil-balance) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/695b9bd620a5e4435658af4a_203f1ef2.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/market-insights-venezuela-russia-and-the-oil-balance) | [Local Asset](../../../../../../corpus/07-signal/images/695b9bd620a5e4435658af4a_203f1ef2.png)
 
 *The differing crude quality profiles of Venezuelan heavy sour grades and Russia's Urals blend underscore structural variations in their compatibility with refineries and typical trade routes. Specifically, Venezuelan grades, such as high-sulphur, extra-heavy, Maya-like crudes, are characterized by their low API gravity and high sulphur content, placing them in the low-API/high-sulphur sector of the crude quality distribution chart.*
 
@@ -66,11 +66,11 @@ Furthermore, sanctions compliance has segmented the global tanker fleet, effecti
 The combined impact of Venezuela and Russia reveals that freight outcomes are complex and not simply driven by supply changes. The possible shortening of Atlantic routes due to Venezuelan normalisation is counterbalanced by Russia's continued long-haul exports to Asia. This creates an asymmetric system: while Atlantic routes may shorten, flows from Eurasia to Asia remain extended. Consequently, this dynamic interaction limits the power of any isolated regional event to substantially decrease overall global tanker demand.
 
 
-![Https://app.signalocean.com/tanker/dynamic/crudeoilflows](../../images/695b9bd620a5e4435658af47_1aa0f138.png)
+![Https://app.signalocean.com/tanker/dynamic/crudeoilflows](../../../../../../corpus/07-signal/images/695b9bd620a5e4435658af47_1aa0f138.png)
 
 > **Figure 2: Https://app.signalocean.com/tanker/dynamic/crudeoilflows**  
 > *https://app.signalocean.com/tanker/dynamic/crude_oil_flows*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/market-insights-venezuela-russia-and-the-oil-balance) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/695b9bd620a5e4435658af47_1aa0f138.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/market-insights-venezuela-russia-and-the-oil-balance) | [Local Asset](../../../../../../corpus/07-signal/images/695b9bd620a5e4435658af47_1aa0f138.png)
 
 *The concentration of long-haul global crude exports into Asia is pronounced. Analysis of these flows by origin and destination underscores the structural significance of Russia in meeting the import demands of China and India.*
 
@@ -82,11 +82,11 @@ The broader oil market backdrop is defined by supply growth outpacing demand gro
 Oil prices reflect this configuration. Brent crude ended December 2025 near $60.85 per barrel, reflecting persistent oversupply and demand softness, and the U.S. Energy Information Administration projects Brent will average around $55 per barrel in 2026, with prices expected to remain near that level as inventories continue to build and supply outpaces demand.
 
 
-![Https://app.signalocean.com/tanker/dynamic/crudeoilflows](../../images/695b9bd620a5e4435658af44_5e0a35ce.png)
+![Https://app.signalocean.com/tanker/dynamic/crudeoilflows](../../../../../../corpus/07-signal/images/695b9bd620a5e4435658af44_5e0a35ce.png)
 
 > **Figure 3: Https://app.signalocean.com/tanker/dynamic/crudeoilflows**  
 > *https://app.signalocean.com/tanker/dynamic/crude_oil_flows*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/market-insights-venezuela-russia-and-the-oil-balance) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/695b9bd620a5e4435658af44_5e0a35ce.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/market-insights-venezuela-russia-and-the-oil-balance) | [Local Asset](../../../../../../corpus/07-signal/images/695b9bd620a5e4435658af44_5e0a35ce.png)
 
 *Monthly global crude flows show stable volumes with seasonal variation, indicating that changes in tanker demand are driven by routing, storage, and time at sea rather than step-change volume growth.*
 

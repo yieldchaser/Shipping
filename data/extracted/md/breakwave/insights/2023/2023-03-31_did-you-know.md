@@ -19,43 +19,43 @@ source_file: "corpus/03-breakwave/insights/2023/2023-03-31_did-you-know.html"
 
 ---
 
-![1 (7)](assets/2023-03-31_did-you-know_img_128729_6a1eba4cf887.png)
+![1 (7)](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-03-31_did-you-know_img_128729_6a1eba4cf887.png)
 
 > **Figure 1: 1 (7)**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-03-31_did-you-know_img_128729_6a1eba4cf887.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-03-31_did-you-know_img_128729_6a1eba4cf887.png)
 
-![VLCC: Very Large Crude Carrier](assets/2023-03-31_did-you-know_img_1_067c05b5699c.png)
+![VLCC: Very Large Crude Carrier](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-03-31_did-you-know_img_1_067c05b5699c.png)
 
 > **Figure 2: VLCC: Very Large Crude Carrier**  
 > **VLCC: Very Large Crude Carrier*  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-03-31_did-you-know_img_1_067c05b5699c.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-03-31_did-you-know_img_1_067c05b5699c.png)
 
 ## Vlcc:~300,000 Tons
 
 Largest cargo ship; Mainly used for transporting crude oil to US and Asia from Middle East
 
-![Euronav Cap Victor E1612077929227 780x470](assets/2023-03-31_did-you-know_img_euronav-cap-victor-e1612077929227-78_7f214c909242.jpg)
+![Euronav Cap Victor E1612077929227 780x470](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-03-31_did-you-know_img_euronav-cap-victor-e1612077929227-78_7f214c909242.jpg)
 
 > **Figure 3: Euronav Cap Victor E1612077929227 780x470**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-03-31_did-you-know_img_euronav-cap-victor-e1612077929227-78_7f214c909242.jpg)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-03-31_did-you-know_img_euronav-cap-victor-e1612077929227-78_7f214c909242.jpg)
 
 ## Suezmax:~150,000 Tons
 
 Half-size of VLCCs; Mainly used in the Atlantic; Largest tanker that can use the Suez Canal
 
-![Atlas Maritime's Mitera Marigo Aframax Oil Tanker](assets/2023-03-31_did-you-know_img_atlas-maritime27s-mitera-marigo-afra_713fd09b5830.jpg)
+![Atlas Maritime's Mitera Marigo Aframax Oil Tanker](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-03-31_did-you-know_img_atlas-maritime27s-mitera-marigo-afra_713fd09b5830.jpg)
 
 > **Figure 4: Atlas Maritime's Mitera Marigo Aframax Oil Tanker**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-03-31_did-you-know_img_atlas-maritime27s-mitera-marigo-afra_713fd09b5830.jpg)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-03-31_did-you-know_img_atlas-maritime27s-mitera-marigo-afra_713fd09b5830.jpg)
 
 ## Aframax:~105,000 Tons
 
 Most versatile crude oil tanker; Can access most ports
 
-![Sunray Panamax Ten](assets/2023-03-31_did-you-know_img_sunray-panamax-ten_a701ea59b77e.jpg)
+![Sunray Panamax Ten](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-03-31_did-you-know_img_sunray-panamax-ten_a701ea59b77e.jpg)
 
 > **Figure 5: Sunray Panamax Ten**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-03-31_did-you-know_img_sunray-panamax-ten_a701ea59b77e.jpg)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-03-31_did-you-know_img_sunray-panamax-ten_a701ea59b77e.jpg)
 
 ## Panamax:~80,000 Tons
 

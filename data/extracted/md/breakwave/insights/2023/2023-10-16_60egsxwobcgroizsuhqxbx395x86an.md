@@ -35,9 +35,9 @@ In reference to the two pillars of the dry bulk market, a significant divergence
 
 Along with China’s decelerating economy and high interest rates, the International Monetary Fund stressed that escalating geopolitical disputes have had a clear negative bearing on the momentum of global growth as well as on the goal of a shared global prosperity.
 
-![1](assets/2023-10-16_60egsxwobcgroizsuhqxbx395x86an_img_1_fee90dcffba5.png)
+![1](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-10-16_60egsxwobcgroizsuhqxbx395x86an_img_1_fee90dcffba5.png)
 
 > **Figure 1: 1**  
-> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-10-16_60egsxwobcgroizsuhqxbx395x86an_img_1_fee90dcffba5.png)
+> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-10-16_60egsxwobcgroizsuhqxbx395x86an_img_1_fee90dcffba5.png)
 
 Data source:[Doric](https://www.doric.gr/)

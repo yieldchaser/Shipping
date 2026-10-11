@@ -32,6 +32,16 @@ These two examples illustrate that IMO 2020 could change trade flows for complex
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: Challenge Or Opportunity](../../../charts/poten/2019/poten_2019-11-15_challenge-or-opportunity_chart1.png)
+![Exhibit 1: Crude and Product Price Index (1-Jun-2019 = 100)](../../../charts/poten/2019/poten_2019-11-15_challenge-or-opportunity_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2019/poten_2019-11-15_challenge-or-opportunity_chart1.png)
+> **Exhibit 1: Crude and Product Price Index (1-Jun-2019 = 100)**  
+> Unit: Index · X-axis: 3-Jun-19 to 3-Nov-19  
+> Series: Brent, WTI, HSFO, LSFO  
+> *Source: Bloomberg*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2019/poten_2019-11-15_challenge-or-opportunity_chart1.png)
+
+> **Chart on PDF page 1: Italian Seaborne Crude Imports**  
+> Unit: Kb/d · X-axis: 1Q2016 to 3Q2019  
+> Series: Mediterranean, Middle East, WAF, North Sea, US Gulf, Other Americas  
+> *Source: Lloyd’s List Intelligence*  
+> *No image crop of this chart was saved; caption read from the PDF.*

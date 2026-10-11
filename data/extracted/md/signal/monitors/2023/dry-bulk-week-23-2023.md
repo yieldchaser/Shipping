@@ -32,7 +32,7 @@ tags:
 
 > **Figure 1: Data Source: The Signal Ocean Platform, Dry Bulk Flows, Bauxite Guinea to China Https://app.signalocean.com/dry/dynamic/drybulkflows-Downloadable**  
 > *Data Source: The Signal Ocean Platform, Dry Bulk Flows, Bauxite Guinea to China https://app.signalocean.com/dry/dynamic/drybulkflows-downloadable*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/dry-bulk-week-23-2023) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6482e1ffc128736e26fcb7a2_bauxite logo.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/dry-bulk-week-23-2023) | [Local Asset](../../../../../../corpus/07-signal/images/6482e1ffc128736e26fcb7a2_bauxite%20logo.png)
 
 The iron ore market experienced a notable increase in prices due to the recent news regarding the Chinese economy stimulus package. According to a report by Mining.com, the most-traded September iron ore on China's Dalian Commodity Exchange concluded daytime trading with a 2.2% rise, reaching 759 yuan ($106.68) per tonne. Earlier in the session, it even reached a peak of 770 yuan, marking its highest level since April 20. The recently announced Chinese stimulus has instilled a sense of optimism for a potential rebound in the Capesize iron ore market by the end of the first half of the year. Furthermore, the supply of ballasters has continued to stay at elevated levels, surpassing the annual average. This development suggests a potentially favourable outlook for the iron ore market in the coming months.
 

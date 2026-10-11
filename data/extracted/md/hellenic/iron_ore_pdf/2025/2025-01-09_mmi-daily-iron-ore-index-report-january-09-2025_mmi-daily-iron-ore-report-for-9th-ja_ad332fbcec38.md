@@ -199,6 +199,8 @@ Today, DCE iron ore futures opened lower but moved higher throughout the day, fl
 | **SGX** | **Feb. 25** | USD/DMT | 97.00 | +0.50 | +0.52% | 6.53 | 31.42 | 96.00 | 97.85 |
 
 ## Dry Bulk Freight Rates Historical Line Data (USD/MT)
+> **Approximate.** The report prints no numbers for this chart. Values were read visually from the chart image by the parser and are rough estimates.
+
 | Date | C5 W. Australia - Qingdao (USD/MT) | C3 Tubarao - Qingdao (USD/MT) |
 | :--- | :--- | :--- |
 | 2 Jan 4 | 15.00 | 18.00 |
@@ -253,6 +255,8 @@ Today, DCE iron ore futures opened lower but moved higher throughout the day, fl
 | 2 Jan 4 | 0.00 | 0.00 |
 
 ## Total China Iron Ore Import Volumes (Million Tonnes)
+> **Approximate.** The report prints no numbers for this chart. Values were read visually from the chart image by the parser and are rough estimates.
+
 | Month / Period | Import Volume (Million Tonnes) |
 | :--- | :--- |
 | 3 Jan | 96.00 |

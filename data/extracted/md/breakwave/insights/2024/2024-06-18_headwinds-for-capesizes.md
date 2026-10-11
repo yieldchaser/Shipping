@@ -60,10 +60,10 @@ The panamaxes were last week’s best performers, with their Baltic Exchange ind
 
 Over the past month, the panamaxes have benefitted from an improving demand situation for cargoes loading on South America’s east coast. The upward trend for cargo order volumes loading in the area has been supported by rising demand from the grain and oilseed trade, especially from importers in the Far East. The development is likely part of a seasonal rebound. However, based on the patterns of recent years, the surge in demand should be relatively short-lived. Still, the positive momentum is likely to remain in place until the end of the month, when weaker demand could start to weigh on freight rates.
 
-![Cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85](assets/2024-06-18_headwinds-for-capesizes_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_f18c908f2109.png)
+![Cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-06-18_headwinds-for-capesizes_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_f18c908f2109.png)
 
 > **Figure 1: Cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85**  
-> **Interactive Data & Source:** [Shipfix](https://shipfix.com/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-06-18_headwinds-for-capesizes_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_f18c908f2109.png)
+> **Interactive Data & Source:** [Shipfix](https://shipfix.com/) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-06-18_headwinds-for-capesizes_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_f18c908f2109.png)
 
 Data Source:[Shipfix](https://shipfix.com/)
 

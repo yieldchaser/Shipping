@@ -39,10 +39,10 @@ It is, of course, easy to dismiss the upcoming battle as the usual political pos
 
 What happened in 2011? The last big debt ceiling crisis. Twelve years ago, Republicans gained back control of the House of Representatives for the first time after Barrack Obama’s election. Reeling from the unilateral passing of the Affordable Care Act (“Obamacare”), the Republican caucus demanded spending cuts in healthcare as a way to defang the new law, in exchange for increasing the debt ceiling. The stand-off sparked a crisis in equity and bond markets, at a time when investors were still reeling from the Global Financial Crisis and were fearful of the oncoming Euro Crisis.
 
-![Market Chart 1](assets/2023-05-15_mazars-comment-a-us-debt-default-could-happen-what-then_img_image00328129_72a933d7c58f.jpg)
+![Market Chart 1](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-05-15_mazars-comment-a-us-debt-default-could-happen-what-then_img_image00328129_72a933d7c58f.jpg)
 
 > **Figure 1: Market Chart 1**  
-> **Interactive Data & Source:** [Mail Google](https://mail.google.com/mail/u/2/#m_8147196430957211678__ftn1) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-05-15_mazars-comment-a-us-debt-default-could-happen-what-then_img_image00328129_72a933d7c58f.jpg)
+> **Interactive Data & Source:** [Mail Google](https://mail.google.com/mail/u/2/#m_8147196430957211678__ftn1) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-05-15_mazars-comment-a-us-debt-default-could-happen-what-then_img_image00328129_72a933d7c58f.jpg)
 
 The two parties struck a complex and constrictive twelfth-hour deal to curtail expenditure. Ever since the debt ceiling negotiation has become a contentious point. While we never really saw a repeat of 2011, parties now routinely threaten to cause a default in US payments in order to obtain political leverage. PIMCO has calculated that whenever there are debt ceiling negotiations, stocks fall 6.5% in the prior month[[1]](https://mail.google.com/mail/u/2/#m_8147196430957211678__ftn1).
 
@@ -64,11 +64,11 @@ Humans are creatures of incentives. If good governance is rewarded by voters, th
 
 If that scenario materialises, a stoppage of payments to internal and/or external lenders, we believe that there could be a severe economic impact, as well as significant financial market stress.**In a 2013 study**[**[5]**](https://mail.google.com/mail/u/2/#m_8147196430957211678__ftn5)**, the Fed simulated the effects of a stoppage of payments. It calculated a 30% drop in equities, a 10% drop in the Dollar and much higher bond yields.**Given that the amount of algorithmic trading has grown exponentially in the past decade, the effects could be bigger. International markets would likely follow suit. GDP growth would be cut by about 1.5% in the same year and unemployment would rise also by about 1.3% a year after.
 
-![But This Analysis Assumes That Central Banks Will Not Intervene](assets/2023-05-15_mazars-comment-a-us-debt-default-could-happen-what-then_img_image00428629_1d5805efaa14.jpg)
+![But This Analysis Assumes That Central Banks Will Not Intervene](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-05-15_mazars-comment-a-us-debt-default-could-happen-what-then_img_image00428629_1d5805efaa14.jpg)
 
 > **Figure 2: But This Analysis Assumes That Central Banks Will Not Intervene**  
 > *But this analysis assumes that central banks will not intervene.*  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-05-15_mazars-comment-a-us-debt-default-could-happen-what-then_img_image00428629_1d5805efaa14.jpg)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-05-15_mazars-comment-a-us-debt-default-could-happen-what-then_img_image00428629_1d5805efaa14.jpg)
 
 Companies, that rely on Short-Term Treasury Bills (the world’s risk-free asset) for a cash equivalent, would default on their obligations to one another. Coupled with the rise of shadow banking in the last few years, the effect would be significant. Social security payments of $100bn per month would stop. Central banks would have to perform damage control, probably by re-extending their balance sheet and possibly even performing a reversal of recent rate hikes. The effect on the Dollar could also be pronounced. While the world is in no realistic danger of de-dollarisation, a wanton stoppage of payments could make international bondholders think twice before lending money to Washington if they felt that they would be held hostage every two years.
 

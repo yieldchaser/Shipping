@@ -32,10 +32,18 @@ What can we expect going forward? We think that the availability of compliant fu
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: IMO 2020 The First 10 Days](../../../charts/poten/2019/poten_2019-01-10_imo-2020-the-first-10-days_chart1.png)
+![Exhibit 1: Singapore Bunker Prices](../../../charts/poten/2019/poten_2019-01-10_imo-2020-the-first-10-days_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2019/poten_2019-01-10_imo-2020-the-first-10-days_chart1.png)
+> **Exhibit 1: Singapore Bunker Prices**  
+> Unit: USD/Ton · X-axis: 8/1/2019 to 1/1/2020  
+> Series: HSFO (3.5% S), VLSFO (0.5% S), MGO, Spread (VLSFO-HSFO)  
+> *Source: Ship & Bunker / Peninsula*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2019/poten_2019-01-10_imo-2020-the-first-10-days_chart1.png)
 
-![Exhibit 2: IMO 2020 The First 10 Days](../../../charts/poten/2019/poten_2019-01-10_imo-2020-the-first-10-days_chart2.png)
+![Exhibit 2: TCE Spread HSFO vs VLSFO (VLCC: AG -FE)](../../../charts/poten/2019/poten_2019-01-10_imo-2020-the-first-10-days_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2019/poten_2019-01-10_imo-2020-the-first-10-days_chart2.png)
+> **Exhibit 2: TCE Spread HSFO vs VLSFO (VLCC: AG -FE)**  
+> Unit: TCE (USD) | Spread (USD) · X-axis: Aug-19 to Jan-20  
+> Series: Spread, HSFO, VLSFO  
+> *Source: Poten & Partners*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2019/poten_2019-01-10_imo-2020-the-first-10-days_chart2.png)

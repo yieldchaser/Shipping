@@ -29,10 +29,10 @@ tags:
 ## Remarkable Rise of Rates and Tonne Days Growth with the Onset of Middle East Geopolitical Crisis
 
 
-![6543a60cb91b60e2cac2c967 Suez](../../images/6543a60cb91b60e2cac2c967_suez.png)
+![6543a60cb91b60e2cac2c967 Suez](../../../../../../corpus/07-signal/images/6543a60cb91b60e2cac2c967_suez.png)
 
 > **Figure 1: 6543a60cb91b60e2cac2c967 Suez**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/tanker-week-44-2023) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6543a60cb91b60e2cac2c967_suez.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/tanker-week-44-2023) | [Local Asset](../../../../../../corpus/07-signal/images/6543a60cb91b60e2cac2c967_suez.png)
 
 The crude freight market gained momentum in early November due to the ongoing crisis in the Middle East. The VLCC segment has seen significant activity, but the Suezmax and Aframax segments have experienced even more growth compared to their levels at the end of September.
 

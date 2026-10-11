@@ -94,6 +94,20 @@ Tankers compete for berth space with LNG carriers, containers, and bulk carriers
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: Shipyard Prices: Up, Up and Away?](../../../charts/poten/2006/poten_2006-02-17_shipyard-prices-up-up-and-away_chart1.png)
+> **Chart on PDF page 1: Shipyard Prices and Size of Order Book VLCCs**  
+> Unit: $Millions | Order Book · X-axis: 09/06/2002 to 02/17/2006  
+> Series: Shipyard Price, Number VLCCS  
+> *Source: Poten & Partners*  
+> *No image crop of this chart was saved; caption read from the PDF.*
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2006/poten_2006-02-17_shipyard-prices-up-up-and-away_chart1.png)
+> **Chart on PDF page 2: Shipyard Prices and Size of Order Book Suezmaxes**  
+> Unit: $Millions | Order Book · X-axis: 09/06/2002 to 02/17/2006  
+> Series: Shipyard Price, Number Suezmaxes  
+> *Source: Poten & Partners*  
+> *No image crop of this chart was saved; caption read from the PDF.*
+
+> **Chart on PDF page 3: Shipyard Prices and Size of Order Book Aframaxes**  
+> Unit: $Millions | Order Book · X-axis: 09/06/2002 to 02/17/2006  
+> Series: Shipyard Price, Number Aframaxes  
+> *Source: Poten & Partners*  
+> *No image crop of this chart was saved; caption read from the PDF.*

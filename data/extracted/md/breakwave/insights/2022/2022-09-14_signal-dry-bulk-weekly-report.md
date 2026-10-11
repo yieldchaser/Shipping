@@ -27,10 +27,10 @@ In the coal segment, futures for Newcastle coal, the benchmark for the region wi
 
 ## Section 1/ Freight -Market Rates ($/T) Weaker
 
-![Market Chart 1](assets/2022-09-14_signal-dry-bulk-weekly-report_img_unnamed287129_62749131d545.png)
+![Market Chart 1](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-09-14_signal-dry-bulk-weekly-report_img_unnamed287129_62749131d545.png)
 
 > **Figure 1: Market Chart 1**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-09-14_signal-dry-bulk-weekly-report_img_unnamed287129_62749131d545.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-09-14_signal-dry-bulk-weekly-report_img_unnamed287129_62749131d545.png)
 
 The second week of September sees weaker sentiment in freight rates across all vessel categories, with an uptick in Panamax vessels.
 
@@ -43,10 +43,10 @@ The second week of September sees weaker sentiment in freight rates across all v
 
 ## Supply Trend Lines for Key Load Areas
 
-![Market Chart 2](assets/2022-09-14_signal-dry-bulk-weekly-report_img_unnamed287229_8ee6f61632b9.png)
+![Market Chart 2](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-09-14_signal-dry-bulk-weekly-report_img_unnamed287229_8ee6f61632b9.png)
 
 > **Figure 2: Market Chart 2**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-09-14_signal-dry-bulk-weekly-report_img_unnamed287229_8ee6f61632b9.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-09-14_signal-dry-bulk-weekly-report_img_unnamed287229_8ee6f61632b9.png)
 
 The number of Capesize and Panamax vessels sailing ballast has fallen below the annual average, while the number of Handysize and Supramax vessels has increased significantly compared to previous weekly figures.
 
@@ -57,10 +57,10 @@ The number of Capesize and Panamax vessels sailing ballast has fallen below the 
 
 ## Section 3/ Demand -TonDays Increasing
 
-![TonDays Increasing](assets/2022-09-14_signal-dry-bulk-weekly-report_img_unnamed287129_62749131d545.png)
+![TonDays Increasing](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-09-14_signal-dry-bulk-weekly-report_img_unnamed287129_62749131d545.png)
 
 > **Figure 3: TonDays Increasing**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-09-14_signal-dry-bulk-weekly-report_img_unnamed287129_62749131d545.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-09-14_signal-dry-bulk-weekly-report_img_unnamed287129_62749131d545.png)
 
 The number of congested vessels has risen again after two consecutive weeks of decline, with the Supramax and Panamax segments triggering the latest increase.
 

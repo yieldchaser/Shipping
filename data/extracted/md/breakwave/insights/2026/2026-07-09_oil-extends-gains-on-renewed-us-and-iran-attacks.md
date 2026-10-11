@@ -24,10 +24,10 @@ The energy sector rose as the US renewed attacks on Iran. Precious and industria
 
 *By*[*Daniel Hynes*](https://www.linkedin.com/in/dahynes/)
 
-![Στιγμιότυπο Οθόνης 2026 07 09 111410](assets/2026-07-09_oil-extends-gains-on-renewed-us-and-iran-attacks_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_7589b75dccde.png)
+![Στιγμιότυπο Οθόνης 2026 07 09 111410](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-07-09_oil-extends-gains-on-renewed-us-and-iran-attacks_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_7589b75dccde.png)
 
 > **Figure 1: Στιγμιότυπο Οθόνης 2026 07 09 111410**  
-> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-07-09_oil-extends-gains-on-renewed-us-and-iran-attacks_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_7589b75dccde.png)
+> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-07-09_oil-extends-gains-on-renewed-us-and-iran-attacks_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_7589b75dccde.png)
 
 ### Market Commentary
 
@@ -45,10 +45,10 @@ Downstream fuel markets are also feeling the crunch, with refined fuel products 
 
 The sharp fall in US distillate inventories comes at a critical time of the oil market. Demand in the US rose 1.1mb/d last week to 4.3mb/d. The four week average is now sitting at 3.6mb/d. However, freight fundamentals continue to strengthen. Volumes are at five year highs while trucking companies are expanding equipment purchases. With Russia banning exports of diesel, the market is only going to get tighter.
 
-![Στιγμιότυπο Οθόνης 2026 07 09 111533](assets/2026-07-09_oil-extends-gains-on-renewed-us-and-iran-attacks_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_1cf9505dde9b.png)
+![Στιγμιότυπο Οθόνης 2026 07 09 111533](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-07-09_oil-extends-gains-on-renewed-us-and-iran-attacks_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_1cf9505dde9b.png)
 
 > **Figure 2: Στιγμιότυπο Οθόνης 2026 07 09 111533**  
-> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-07-09_oil-extends-gains-on-renewed-us-and-iran-attacks_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_1cf9505dde9b.png)
+> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-07-09_oil-extends-gains-on-renewed-us-and-iran-attacks_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_1cf9505dde9b.png)
 
 Data source:[Commodities Wrap](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI)
 

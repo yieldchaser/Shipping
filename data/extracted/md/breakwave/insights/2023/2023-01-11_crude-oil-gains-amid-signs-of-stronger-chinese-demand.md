@@ -23,10 +23,10 @@ source_file: "corpus/03-breakwave/insights/2023/2023-01-11_crude-oil-gains-amid-
 
 Commodity markets were mixed as optimism over China’s reopening was offset by concerns of further monetary tightening by central banks. A weaker USD ultimately helped push the sector higher.
 
-![1673385732433](assets/2023-01-11_crude-oil-gains-amid-signs-of-stronger-chinese-demand_img_1673385732433_b5fff2cf1e75.png)
+![1673385732433](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-01-11_crude-oil-gains-amid-signs-of-stronger-chinese-demand_img_1673385732433_b5fff2cf1e75.png)
 
 > **Figure 1: 1673385732433**  
-> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-01-11_crude-oil-gains-amid-signs-of-stronger-chinese-demand_img_1673385732433_b5fff2cf1e75.png)
+> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-01-11_crude-oil-gains-amid-signs-of-stronger-chinese-demand_img_1673385732433_b5fff2cf1e75.png)
 
 **Crude oil**prices were under pressure early in the session after two Fed official said the bank will likely need to raise rates above 5% to combat inflation. However, the selloff was short lived, with the market still buoyed by signs of stronger demand from China. Monday’s news that China had issued a fresh batch of import quotas suggests the world’s largest importer is ramping up to meet higher demand. It also appears to be importing a wider variety of Russian crude. Buyers snapped up three cargoes, including the lesser-known Arco grade. In its latest monthly report, EIA raised its forecast for demand growth in 2023 to 1.05mb/d. However, it also expects US output to rise to meet this demand, with US shale oil providing the bulk of the gains.
 

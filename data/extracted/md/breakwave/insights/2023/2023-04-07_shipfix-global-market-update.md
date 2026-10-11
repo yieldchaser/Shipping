@@ -19,10 +19,10 @@ source_file: "corpus/03-breakwave/insights/2023/2023-04-07_shipfix-global-market
 
 ---
 
-[![1 (13)](assets/2023-04-07_shipfix-global-market-update_img_1281329_8c50598b622a.png)
+[![1 (13)](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-04-07_shipfix-global-market-update_img_1281329_8c50598b622a.png)
 
 > **Figure 1: 1 (13)**  
-> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/in/ulf-bergman-81570425/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-04-07_shipfix-global-market-update_img_1281329_8c50598b622a.png)](https://www.breakwaveadvisors.com/insights/2023/4/7/did-you-know)
+> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/in/ulf-bergman-81570425/) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-04-07_shipfix-global-market-update_img_1281329_8c50598b622a.png)](https://www.breakwaveadvisors.com/insights/2023/4/7/did-you-know)
 
 *By*[*Ulf Bergman*](https://www.linkedin.com/in/ulf-bergman-81570425/)
 
@@ -62,9 +62,9 @@ While Chinese steel exports only account for a small portion of the country’s 
 
 The trade has also seen a development towards larger cargo sizes across all destinations in recent months. The average for shipments to Europe and the Middle East have more or less doubled in the past year to around 40,000 tonnes.
 
-![Market Chart 2](assets/2023-04-07_shipfix-global-market-update_img_unnamed-2023-04-07t113646333_601108d5336c.png)
+![Market Chart 2](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-04-07_shipfix-global-market-update_img_unnamed-2023-04-07t113646333_601108d5336c.png)
 
 > **Figure 2: Market Chart 2**  
-> **Interactive Data & Source:** [Shipfix](https://shipfix.com/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-04-07_shipfix-global-market-update_img_unnamed-2023-04-07t113646333_601108d5336c.png)
+> **Interactive Data & Source:** [Shipfix](https://shipfix.com/) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-04-07_shipfix-global-market-update_img_unnamed-2023-04-07t113646333_601108d5336c.png)
 
 Data Source:[Shipfix](https://shipfix.com/)

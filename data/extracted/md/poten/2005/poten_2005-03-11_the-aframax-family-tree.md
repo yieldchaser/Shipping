@@ -102,6 +102,20 @@ The Aframax family relationship does not necessarily hold for other tanker types
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: The Aframax Family Tree](../../../charts/poten/2005/poten_2005-03-11_the-aframax-family-tree_chart1.png)
+> **Chart on PDF page 1: Newbuilding Prices vs Second Hand Values**  
+> Unit: $MM · X-axis: Jan-00 to Jan-05  
+> Series: Newbuilding Prices, Second Hand (5 Yr) Values  
+> *Source: Poten & Partners*  
+> *No image crop of this chart was saved; caption read from the PDF.*
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2005/poten_2005-03-11_the-aframax-family-tree_chart1.png)
+> **Chart on PDF page 2: Newbuilding Prices vs Timecharter Rates**  
+> Unit: $MM | $/Day · X-axis: Jan-00 to Jan-05  
+> Series: Newbuilding Prices, 1 Yr Timecharter, 3 Yr Timecharter  
+> *Source: Poten & Partners*  
+> *No image crop of this chart was saved; caption read from the PDF.*
+
+> **Chart on PDF page 3: Spot WS Rates vs Timecharter Rates**  
+> Unit: WS Rates | $/Day · X-axis: Jan-00 to Jan-05  
+> Series: Caribs Upcoast, 1 Yr Timecharter, 3 Yr Timecharter  
+> *Source: Poten & Partners*  
+> *No image crop of this chart was saved; caption read from the PDF.*

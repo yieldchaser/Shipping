@@ -33,17 +33,17 @@ The pandemic, which came on the tales of a raging trade war and geopolitical tec
 
 On the one end of the spectrum, is the “Goldilocks” crowd. They believe the economy has underlying strength, the labour market will remain strong and that consumers will only marginally curtail their spending.[The “R” word, is not allowed](https://www.youtube.com/watch?v=_sSW4daqRSc). A shallow recession awaits if any recession at all. However, inflation will still come down enough or a financial accident will happen, either of which will force the Fed to begin cutting rates at some point in mid-2024. Presently, markets are in this camp.
 
-![Market Chart 1](assets/2023-09-11_from-stagflation-to-goldilocks-portfolio-managers-start-thinking-small_img_unnamed282429_ed5e83069337.jpg)
+![Market Chart 1](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-09-11_from-stagflation-to-goldilocks-portfolio-managers-start-thinking-small_img_unnamed282429_ed5e83069337.jpg)
 
 > **Figure 1: Market Chart 1**  
-> **Interactive Data & Source:** [Bbc](https://www.bbc.com/worklife/article/20230905-workers-now-face-a-hard-line-on-return-to-office-policies) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-09-11_from-stagflation-to-goldilocks-portfolio-managers-start-thinking-small_img_unnamed282429_ed5e83069337.jpg)
+> **Interactive Data & Source:** [Bbc](https://www.bbc.com/worklife/article/20230905-workers-now-face-a-hard-line-on-return-to-office-policies) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-09-11_from-stagflation-to-goldilocks-portfolio-managers-start-thinking-small_img_unnamed282429_ed5e83069337.jpg)
 
 On the other end of the spectrum lie the “Stagflationists”. A decade and a half of bad news, for that crowd, can only be followed with more bad news. In this scenario, the economy slows down materially, as consumers run out of pandemic pocket money, consumption falls off a cliff and delinquencies rise quickly. The labour market loosens quickly as a result of a hard drive towards “[back to the office” policies](https://www.bbc.com/worklife/article/20230905-workers-now-face-a-hard-line-on-return-to-office-policies). However, inflation remains stubbornly high due to continuing shocks to the economy, which begins to look like a replay of the 1970’s.
 
-![Market Chart 2](assets/2023-09-11_from-stagflation-to-goldilocks-portfolio-managers-start-thinking-small_img_image00428729_c2c8d0c6fa0b.jpg)
+![Market Chart 2](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-09-11_from-stagflation-to-goldilocks-portfolio-managers-start-thinking-small_img_image00428729_c2c8d0c6fa0b.jpg)
 
 > **Figure 2: Market Chart 2**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-09-11_from-stagflation-to-goldilocks-portfolio-managers-start-thinking-small_img_image00428729_c2c8d0c6fa0b.jpg)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-09-11_from-stagflation-to-goldilocks-portfolio-managers-start-thinking-small_img_image00428729_c2c8d0c6fa0b.jpg)
 
 As always, the truth is probably an amalgamation of the two scenarios. Some would say that the need points to the latter, some would have it tilted towards the former.
 

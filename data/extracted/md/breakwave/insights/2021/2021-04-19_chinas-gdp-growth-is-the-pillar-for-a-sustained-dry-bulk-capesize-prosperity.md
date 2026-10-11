@@ -29,7 +29,7 @@ The figure was a marked slowdown from 2019 growth of 6.1% – itself already the
 ![A](assets/2021-04-19_chinas-gdp-growth-is-the-pillar-for-a-sustained-dry-bulk-capesize-prosperity_img_a_c665497be100.png)
 
 > **Figure 1: A**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2021/assets/2021-04-19_chinas-gdp-growth-is-the-pillar-for-a-sustained-dry-bulk-capesize-prosperity_img_a_c665497be100.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-04-19_chinas-gdp-growth-is-the-pillar-for-a-sustained-dry-bulk-capesize-prosperity_img_a_c665497be100.png)
 
 During the first quarter of this year Chinese GDP grew at a faster-than-expected rate of 6.4 percent compared to the same period last year and ahead of the 6.3 per cent expected according to a Reuters poll. The figure matched the 6.4 per cent growth posted in the final quarter of 2018, but was significantly below last year’s first-quarter growth figure of 6.8 per cent.
 
@@ -72,7 +72,7 @@ In a sign of falling appetite in terms of volume alone, shipments of iron ore fr
 ![Aa](assets/2021-04-19_chinas-gdp-growth-is-the-pillar-for-a-sustained-dry-bulk-capesize-prosperity_img_aa_af769dc6a721.png)
 
 > **Figure 2: Aa**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2021/assets/2021-04-19_chinas-gdp-growth-is-the-pillar-for-a-sustained-dry-bulk-capesize-prosperity_img_aa_af769dc6a721.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-04-19_chinas-gdp-growth-is-the-pillar-for-a-sustained-dry-bulk-capesize-prosperity_img_aa_af769dc6a721.png)
 
 But the value of iron ore shipments from Australia in February hit $7.8bn, its highest level for any month on record, CEIC data shows, due to a surge in the price of commodities. Australia also faces competition, particularly from Brazil, where shipments are up 19 per cent in 2021 so far, according to UBS, in contrast to struggles last year.
 

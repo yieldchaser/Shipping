@@ -52,6 +52,12 @@ It was not until the end of May last year that rates dropped below WS 60 as hard
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: April Showers Bring May Flowers](../../../charts/poten/2006/poten_2006-04-07_april-showers-bring-may-flowers_chart1.png)
+> **Chart on PDF page 1: VLCC AG - Far East (260kt)**  
+> Unit: WS · X-axis: Jan to Dec  
+> Series: 2004, 2005, 2006  
+> *No image crop of this chart was saved; caption read from the PDF.*
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2006/poten_2006-04-07_april-showers-bring-may-flowers_chart1.png)
+> **Chart on PDF page 2: VLCC Reported Spot Liftings**  
+> Unit: # of Liftings · X-axis: Jan-04 to Mar-06  
+> Series: WEST, EAST  
+> *No image crop of this chart was saved; caption read from the PDF.*

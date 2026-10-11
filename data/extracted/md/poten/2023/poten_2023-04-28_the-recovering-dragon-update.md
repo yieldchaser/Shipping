@@ -42,10 +42,18 @@ China will remain a force in the oil (and tanker) markets for years to come, but
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: The Recovering Dragon (Update)](../../../charts/poten/2023/poten_2023-04-28_the-recovering-dragon-update_chart1.png)
+![Exhibit 1: IEA: China Product Demand Development](../../../charts/poten/2023/poten_2023-04-28_the-recovering-dragon-update_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2023/poten_2023-04-28_the-recovering-dragon-update_chart1.png)
+> **Exhibit 1: IEA: China Product Demand Development**  
+> Unit: Kb/d · X-axis: 2018 to 2023  
+> Series: LPG&Ethane, Naphtha, Motor Gasoline, Jet Fuel & Kerosene, Gas/Diesel Oil, Residual Fuel Oil, Other Products  
+> *Source: International Energy Agency (IEA)*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2023/poten_2023-04-28_the-recovering-dragon-update_chart1.png)
 
-![Exhibit 2: The Recovering Dragon (Update)](../../../charts/poten/2023/poten_2023-04-28_the-recovering-dragon-update_chart2.png)
+![Exhibit 2: Monthly New Electric Car Registrations in China 2020-2023](../../../charts/poten/2023/poten_2023-04-28_the-recovering-dragon-update_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2023/poten_2023-04-28_the-recovering-dragon-update_chart2.png)
+> **Exhibit 2: Monthly New Electric Car Registrations in China 2020-2023**  
+> Unit: Thousand · X-axis: Oct 2020 to Mar 2023  
+> Series: BEV, PHEV  
+> *Source: IEA Global EV Outlook 2023*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2023/poten_2023-04-28_the-recovering-dragon-update_chart2.png)

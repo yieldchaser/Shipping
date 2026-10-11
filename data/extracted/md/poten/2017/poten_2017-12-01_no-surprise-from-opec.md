@@ -28,10 +28,18 @@ Increased OPEC production, driven by robust demand and higher prices, is exactly
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: No Surprise From OPEC](../../../charts/poten/2017/poten_2017-12-01_no-surprise-from-opec_chart1.png)
+![Exhibit 1: Total OECD Stocks](../../../charts/poten/2017/poten_2017-12-01_no-surprise-from-opec_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2017/poten_2017-12-01_no-surprise-from-opec_chart1.png)
+> **Exhibit 1: Total OECD Stocks**  
+> Unit: Mln bbl | Days Fwd Demand · X-axis: 3Q2011 to 3Q2017  
+> Series: Government, Industry, Days Fwd Demand  
+> *Source: IEA*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2017/poten_2017-12-01_no-surprise-from-opec_chart1.png)
 
-![Exhibit 2: No Surprise From OPEC](../../../charts/poten/2017/poten_2017-12-01_no-surprise-from-opec_chart2.png)
+![Exhibit 2: IEA Global Oil Demand and Supply Changes (2018 vs 2017)](../../../charts/poten/2017/poten_2017-12-01_no-surprise-from-opec_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2017/poten_2017-12-01_no-surprise-from-opec_chart2.png)
+> **Exhibit 2: IEA Global Oil Demand and Supply Changes (2018 vs 2017)**  
+> Unit: Mb/d · X-axis: 2017 Global Demand to 2018 Global Demand  
+> Series: 2017 Global Demand, Non OECD Supply, OECD (ex Americas), OECD Americas, OPEC, Biofuel/Proc. Gain, Implied Stock Incr., 2018 Global Demand  
+> *Source: IEA*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2017/poten_2017-12-01_no-surprise-from-opec_chart2.png)

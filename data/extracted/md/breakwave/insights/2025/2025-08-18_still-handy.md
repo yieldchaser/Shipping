@@ -20,10 +20,10 @@ source_file: "corpus/03-breakwave/insights/2025/2025-08-18_still-handy.html"
 
 ---
 
-![Istock 1155718700](assets/2025-08-18_still-handy_img_istock-1155718700_fabb1516784c.jpg)
+![Istock 1155718700](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-08-18_still-handy_img_istock-1155718700_fabb1516784c.jpg)
 
 > **Figure 1: Istock 1155718700**  
-> **Interactive Data & Source:** [Gibsons Co](https://www.gibsons.co.uk/market-reports) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-08-18_still-handy_img_istock-1155718700_fabb1516784c.jpg)
+> **Interactive Data & Source:** [Gibsons Co](https://www.gibsons.co.uk/market-reports) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-08-18_still-handy_img_istock-1155718700_fabb1516784c.jpg)
 
 The Handy tanker market continues to shrink. This has been an ongoing trend for many years, which was rapidly accelerated by the conflict in Ukraine. With spot fixtures in the Baltic and the Black Sea going from around a third of total fixtures to less than 10% each year since 2023, Handies had to find demand elsewhere. Nevertheless, total volumes have continued their ongoing downwards trend, and this year seems to be no different. If the trend doesn’t change going into Q4, numbers for 2025 look set to drop compared with 2024. So far this year, total clean and dirty volumes carried on Handies have declined by about 5% YTD compared to 2024. The total number of spot fixtures has also declined, though possible underreporting due to dark fleet activity may affect these numbers.
 
@@ -35,10 +35,10 @@ MRs could also exert downward pressure. The MR orderbook is larger at 18%, with 
 
 As such, the balance between the size of the addressable market and the employable fleet may be the driving factor of the Handy market in the years to come. Although hard to envisage, if Russia eventually reintegrates into the mainstream oil markets, Handies could see some of their lost demand return.
 
-![Στιγμιότυπο Οθόνης 2025 08 18 114819](assets/2025-08-18_still-handy_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_8b93672aa88f.png)
+![Στιγμιότυπο Οθόνης 2025 08 18 114819](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-08-18_still-handy_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_8b93672aa88f.png)
 
 > **Figure 2: Στιγμιότυπο Οθόνης 2025 08 18 114819**  
-> **Interactive Data & Source:** [Gibsons Co](https://www.gibsons.co.uk/market-reports) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-08-18_still-handy_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_8b93672aa88f.png)
+> **Interactive Data & Source:** [Gibsons Co](https://www.gibsons.co.uk/market-reports) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-08-18_still-handy_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_8b93672aa88f.png)
 
 Data source:[Gibson Shipbrokers](https://www.gibsons.co.uk/market-reports)
 

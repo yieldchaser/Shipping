@@ -36,12 +36,12 @@ While this dynamic has helped support clean tanker demand, and in turn, rates, t
 
 ![Exhibit 1: US Crude Production Helping Drive Dynamic Clean Market](../../../charts/poten/2013/poten_2013-08-02_us-crude-production-helping-drive-dynamic-clean-market_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2013/poten_2013-08-02_us-crude-production-helping-drive-dynamic-clean-market_chart1.png)
+> **Interactive Asset:** [Local Asset (200 DPI PNG)](../../../charts/poten/2013/poten_2013-08-02_us-crude-production-helping-drive-dynamic-clean-market_chart1.png)
 
 ![Exhibit 2: US Crude Production Helping Drive Dynamic Clean Market](../../../charts/poten/2013/poten_2013-08-02_us-crude-production-helping-drive-dynamic-clean-market_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2013/poten_2013-08-02_us-crude-production-helping-drive-dynamic-clean-market_chart2.png)
+> **Interactive Asset:** [Local Asset (200 DPI PNG)](../../../charts/poten/2013/poten_2013-08-02_us-crude-production-helping-drive-dynamic-clean-market_chart2.png)
 
 ![Exhibit 3: US Crude Production Helping Drive Dynamic Clean Market](../../../charts/poten/2013/poten_2013-08-02_us-crude-production-helping-drive-dynamic-clean-market_chart3.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2013/poten_2013-08-02_us-crude-production-helping-drive-dynamic-clean-market_chart3.png)
+> **Interactive Asset:** [Local Asset (200 DPI PNG)](../../../charts/poten/2013/poten_2013-08-02_us-crude-production-helping-drive-dynamic-clean-market_chart3.png)

@@ -23,11 +23,11 @@ source_file: "corpus/03-breakwave/insights/2023/2023-05-26_signal-dry-bulk-weekl
 
 Despite signs of recovery in the 1Q, the volume of flows is still lower than last year
 
-![Data Source: The Signal Ocean Platform](assets/2023-05-26_signal-dry-bulk-weekly-report_img_unnamed-2023-05-26t110124308_bb650ab8ff02.png)
+![Data Source: The Signal Ocean Platform](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-05-26_signal-dry-bulk-weekly-report_img_unnamed-2023-05-26t110124308_bb650ab8ff02.png)
 
 > **Figure 1: Data Source: The Signal Ocean Platform**  
 > *Data Source: The Signal Ocean Platform, Dry Bulk Flowshttps://go.signalocean.com/e/983831/dry-dynamic-drybulkflows/2nzhdm/321955743?h=olvQJblfjdhCN66ma6KDF7nxt2xFcQdU0D_YySc2VAk*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://go.signalocean.com/e/983831/amic-drybulkflows-downloadable/2nzhdq/321955743?h=olvQJblfjdhCN66ma6KDF7nxt2xFcQdU0D_YySc2VAk) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-05-26_signal-dry-bulk-weekly-report_img_unnamed-2023-05-26t110124308_bb650ab8ff02.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://go.signalocean.com/e/983831/amic-drybulkflows-downloadable/2nzhdq/321955743?h=olvQJblfjdhCN66ma6KDF7nxt2xFcQdU0D_YySc2VAk) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-05-26_signal-dry-bulk-weekly-report_img_unnamed-2023-05-26t110124308_bb650ab8ff02.png)
 
 In the closing days of May, the freight market experienced a notable slowdown in momentum, primarily observed in the Capesize segment. Conversely, the smaller vessel size segments have maintained a relatively stable outlook. However, uncertainty continues to prevail as the demand picture remains relatively weak. Growing concerns surround China's economic growth and its iron ore import needs, as there are indications of moderation in the iron ore spot price.
 
@@ -42,10 +42,10 @@ Freight Market, Supply, Demand and Port Congestion
 
 ‘The Big Picture’ - Capesize and Panamax Bulkers and Smaller Ship Sizes
 
-![Market Chart 2](assets/2023-05-26_signal-dry-bulk-weekly-report_img_unnamed-2023-05-26t110304822_9e1a8dc8dc61.png)
+![Market Chart 2](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-05-26_signal-dry-bulk-weekly-report_img_unnamed-2023-05-26t110304822_9e1a8dc8dc61.png)
 
 > **Figure 2: Market Chart 2**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-05-26_signal-dry-bulk-weekly-report_img_unnamed-2023-05-26t110304822_9e1a8dc8dc61.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-05-26_signal-dry-bulk-weekly-report_img_unnamed-2023-05-26t110304822_9e1a8dc8dc61.png)
 
 In the fourth week of May, the performance of freight rates across different vessel size categories presented a mixed outlook. The Panamax segment experienced relatively weaker performance compared to other categories, while a steady sentiment prevailed in the Supramax segment.
 
@@ -58,10 +58,10 @@ In the fourth week of May, the performance of freight rates across different ves
 
 ### Capesize - Panamax - Supramax - Handysize Increasing
 
-![Supply Trend Lines for Key Load Areas](assets/2023-05-26_signal-dry-bulk-weekly-report_img_unnamed-2023-05-26t110411723_1ff20eaa51ed.png)
+![Supply Trend Lines for Key Load Areas](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-05-26_signal-dry-bulk-weekly-report_img_unnamed-2023-05-26t110411723_1ff20eaa51ed.png)
 
 > **Figure 3: Supply Trend Lines for Key Load Areas**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-05-26_signal-dry-bulk-weekly-report_img_unnamed-2023-05-26t110411723_1ff20eaa51ed.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-05-26_signal-dry-bulk-weekly-report_img_unnamed-2023-05-26t110411723_1ff20eaa51ed.png)
 
 The number of ballasters continues to show an upward trend across larger ship categories, indicating sustained growth. Furthermore, there are signs of an increase in ballasters among Supramax and Handysize ships.
 
@@ -72,10 +72,10 @@ The number of ballasters continues to show an upward trend across larger ship ca
 
 .
 
-![Section 3/ Demand - TonDays Softening](assets/2023-05-26_signal-dry-bulk-weekly-report_img_unnamed-2023-05-26t110557943_f2ff65f15a74.png)
+![Section 3/ Demand - TonDays Softening](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-05-26_signal-dry-bulk-weekly-report_img_unnamed-2023-05-26t110557943_f2ff65f15a74.png)
 
 > **Figure 4: Section 3/ Demand - TonDays Softening**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-05-26_signal-dry-bulk-weekly-report_img_unnamed-2023-05-26t110557943_f2ff65f15a74.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-05-26_signal-dry-bulk-weekly-report_img_unnamed-2023-05-26t110557943_f2ff65f15a74.png)
 
 The number of ballasters continues to show an upward trend across larger ship categories, indicating a sustained growth. Furthermore, there are signs of an increase in ballasters among Supramax and Handysize ships.
 
@@ -86,10 +86,10 @@ The number of ballasters continues to show an upward trend across larger ship ca
 
 ## Section 4/ Port Congestion - No of Vessels Increasingdry Bulk Ships Congested at Chinese Ports
 
-![Market Chart 5](assets/2023-05-26_signal-dry-bulk-weekly-report_img_unnamed-2023-05-26t110655546_cef0fea5aab2.png)
+![Market Chart 5](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-05-26_signal-dry-bulk-weekly-report_img_unnamed-2023-05-26t110655546_cef0fea5aab2.png)
 
 > **Figure 5: Market Chart 5**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-05-26_signal-dry-bulk-weekly-report_img_unnamed-2023-05-26t110655546_cef0fea5aab2.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-05-26_signal-dry-bulk-weekly-report_img_unnamed-2023-05-26t110655546_cef0fea5aab2.png)
 
 May witnessed a persistent increase in congestion for the third consecutive week, setting a new record high. Notably, the Capesize and Handysize segments experienced noticeable increments in congestion levels.
 

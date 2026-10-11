@@ -53,9 +53,9 @@ The Baltic’s wet indices also had an eventful week, with substantial moves for
 
 Thermal coal prices have staged a comeback during the second half of the month as colder weather in the Northern Hemisphere has boosted demand at the same time as supply disruptions have reduced shipments from some of the largest producers. However, easing concerns over Europe’s energy supply situation for the coming winter and well-stocked coal inventories have put pressure on the continent’s demand for additional supplies of the dirtiest of fossil fuels. Last week saw cargo orders for coal loading in South Africa destined for European ports fall sharply compared to the preceding weeks. Hence, given the forward-looking nature of the data set, imported volumes of South African coal could come under pressure in the coming months should the development continue.
 
-![Market Chart 1](assets/2022-11-29_shipfix-global-market-update_img_unnamed-2022-11-29t134420782_265c69e90a22.png)
+![Market Chart 1](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-11-29_shipfix-global-market-update_img_unnamed-2022-11-29t134420782_265c69e90a22.png)
 
 > **Figure 1: Market Chart 1**  
-> **Interactive Data & Source:** [Shipfix](https://shipfix.com/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-11-29_shipfix-global-market-update_img_unnamed-2022-11-29t134420782_265c69e90a22.png)
+> **Interactive Data & Source:** [Shipfix](https://shipfix.com/) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-11-29_shipfix-global-market-update_img_unnamed-2022-11-29t134420782_265c69e90a22.png)
 
 Data Source:[Shipfix](https://shipfix.com/)

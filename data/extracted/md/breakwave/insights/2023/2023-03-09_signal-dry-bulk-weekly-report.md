@@ -23,10 +23,10 @@ source_file: "corpus/03-breakwave/insights/2023/2023-03-09_signal-dry-bulk-weekl
 
 Signs of an increase in the number of vessels for the 1st quarter higher than in 2021 and 2022
 
-![Market Chart 1](assets/2023-03-09_signal-dry-bulk-weekly-report_img_unnamed-2023-03-09t103355746_ce36ca1dfcc0.png)
+![Market Chart 1](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-03-09_signal-dry-bulk-weekly-report_img_unnamed-2023-03-09t103355746_ce36ca1dfcc0.png)
 
 > **Figure 1: Market Chart 1**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://go.signalocean.com/e/983831/ry-dynamic-area-congestion-dry/2nq26g/306387475?h=lLbLT9oTUGTfhE8c3-OpF-vRG8yMJ4jhzKfVGqTVTTw) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-03-09_signal-dry-bulk-weekly-report_img_unnamed-2023-03-09t103355746_ce36ca1dfcc0.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://go.signalocean.com/e/983831/ry-dynamic-area-congestion-dry/2nq26g/306387475?h=lLbLT9oTUGTfhE8c3-OpF-vRG8yMJ4jhzKfVGqTVTTw) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-03-09_signal-dry-bulk-weekly-report_img_unnamed-2023-03-09t103355746_ce36ca1dfcc0.png)
 
 Data Source: The Signal Ocean Platform, Dry bulk flows
 [Signal Ocean Platform](https://go.signalocean.com/e/983831/ry-dynamic-area-congestion-dry/2nq26g/306387475?h=lLbLT9oTUGTfhE8c3-OpF-vRG8yMJ4jhzKfVGqTVTTw)​​​​
@@ -40,10 +40,10 @@ Freight Market, Supply, Demand and Port Congestion
 
 ‘The Big Picture’ - Capesize and Panamax Bulkers and Smaller Ship Sizes
 
-![Market Chart 2](assets/2023-03-09_signal-dry-bulk-weekly-report_img_unnamed2b-2b2023-03-03t123936288_915af3eb17f5.png)
+![Market Chart 2](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-03-09_signal-dry-bulk-weekly-report_img_unnamed2b-2b2023-03-03t123936288_915af3eb17f5.png)
 
 > **Figure 2: Market Chart 2**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-03-09_signal-dry-bulk-weekly-report_img_unnamed2b-2b2023-03-03t123936288_915af3eb17f5.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-03-09_signal-dry-bulk-weekly-report_img_unnamed2b-2b2023-03-03t123936288_915af3eb17f5.png)
 
 Strength continued across all vessel size categories in the second week of March, with the Panamax Cont- FE route recording one of its highest levels since the previous peak in week 43 of last year.
 
@@ -54,10 +54,10 @@ Strength continued across all vessel size categories in the second week of March
 
 ## Section 2/ Supply -Ballasters (# Vessels) Increasing
 
-![Supply Trend Lines for Key Load Areas](assets/2023-03-09_signal-dry-bulk-weekly-report_img_unnamed-2023-03-09t104033497_bb75ba2574af.png)
+![Supply Trend Lines for Key Load Areas](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-03-09_signal-dry-bulk-weekly-report_img_unnamed-2023-03-09t104033497_bb75ba2574af.png)
 
 > **Figure 3: Supply Trend Lines for Key Load Areas**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-03-09_signal-dry-bulk-weekly-report_img_unnamed-2023-03-09t104033497_bb75ba2574af.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-03-09_signal-dry-bulk-weekly-report_img_unnamed-2023-03-09t104033497_bb75ba2574af.png)
 
 The number of ballast vessels increased significantly in all size classes in the first days of March, with the Capesize and Supramax segments recording new highs
 
@@ -68,10 +68,10 @@ The number of ballast vessels increased significantly in all size classes in the
 
 ## Section 3/ Demand -TonDays Increasing
 
-![TonDays Increasing](assets/2023-03-09_signal-dry-bulk-weekly-report_img_unnamed-2023-03-09t104122644_cdd72def2459.png)
+![TonDays Increasing](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-03-09_signal-dry-bulk-weekly-report_img_unnamed-2023-03-09t104122644_cdd72def2459.png)
 
 > **Figure 4: TonDays Increasing**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-03-09_signal-dry-bulk-weekly-report_img_unnamed-2023-03-09t104122644_cdd72def2459.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-03-09_signal-dry-bulk-weekly-report_img_unnamed-2023-03-09t104122644_cdd72def2459.png)
 
 March began with an upward trend for all ship size categories, fueling optimism for firmer freight rates toward the end of the first quarter.
 
@@ -82,10 +82,10 @@ March began with an upward trend for all ship size categories, fueling optimism 
 
 ## Section 4/ Port Congestion -No of Vesselsincreasingdry Bulk Ships Congested at Chinese Ports
 
-![Increasing](assets/2023-03-09_signal-dry-bulk-weekly-report_img_unnamed-2023-03-09t104624800_72b148cdd3f1.png)
+![Increasing](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-03-09_signal-dry-bulk-weekly-report_img_unnamed-2023-03-09t104624800_72b148cdd3f1.png)
 
 > **Figure 5: Increasing**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-03-09_signal-dry-bulk-weekly-report_img_unnamed-2023-03-09t104624800_72b148cdd3f1.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-03-09_signal-dry-bulk-weekly-report_img_unnamed-2023-03-09t104624800_72b148cdd3f1.png)
 
 March began with a sharp increase in the number of ship congestion compared to the previous two weeks, with a significant increase in the Handysize and Supramax segments.
 

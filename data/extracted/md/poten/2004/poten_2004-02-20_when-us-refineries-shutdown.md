@@ -38,6 +38,19 @@ With refinery turnaround putting a kink in crude oil imports and inventories hov
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: When U.S. Refineries Shutdown...](../../../charts/poten/2004/poten_2004-02-20_when-us-refineries-shutdown_chart1.png)
+> **Chart on PDF page 2: U.S. Refinery Throughput vs. WS Rates**  
+> Unit: 000 Bpd | WS Rates · X-axis: Jan-00 to Jan-04  
+> Series: Ref Throughput, WS Rates (AG/West)  
+> *Source: EIA/Poten*  
+> *No image crop of this chart was saved; caption read from the PDF.*
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2004/poten_2004-02-20_when-us-refineries-shutdown_chart1.png)
+> **Chart on PDF page 3: Weekly Rolling Average U.S. Crude Imports**  
+> Unit: 000 Bpd · X-axis: Jan 5, 2001 to Jan 2, 2004  
+> Series: Weekly Rolling Average U.S. Crude Imports  
+> *Source: EIA/Poten*  
+> *No image crop of this chart was saved; caption read from the PDF.*
+
+> **Chart on PDF page 4: Weekly U.S. Crude Inventories**  
+> Unit: MM Blls · X-axis: Jan 5, 2001 to Jan 2, 2004  
+> Series: EIA/Poten  
+> *No image crop of this chart was saved; caption read from the PDF.*

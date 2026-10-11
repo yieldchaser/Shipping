@@ -23,11 +23,11 @@ source_file: "corpus/03-breakwave/insights/2023/2023-07-05_crude-oil-gains-after
 
 The weak economic backdrop continues to weigh on sentiment across the commodity complex. However, this was mitigated by further supply side issues. Liquidity was low with US markets closed.
 
-![Data Source:commodities Wrap](assets/2023-07-05_crude-oil-gains-after-saudi-cuts-output-further_img_1688507268453_66699458ed8f.png)
+![Data Source:commodities Wrap](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-07-05_crude-oil-gains-after-saudi-cuts-output-further_img_1688507268453_66699458ed8f.png)
 
 > **Figure 1: Data Source:commodities Wrap**  
 > *Data source:Commodities Wrap*  
-> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-07-05_crude-oil-gains-after-saudi-cuts-output-further_img_1688507268453_66699458ed8f.png)
+> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-07-05_crude-oil-gains-after-saudi-cuts-output-further_img_1688507268453_66699458ed8f.png)
 
 Oil extended gains as traders contemplated further curbs in supply. At the OPEC International Seminar, Saudi Arabia announced it will extend its unilateral 1mb/d production into August. It also left open the possibility it will be extended further if fundamentals warrant it. The de facto leader of OPEC was joined by Russia, who agreed to cut its own output by an additional 500kb/d. Traders remain circumspect on Russia’s move. Production and export data hasn’t been absent since its invasion of Ukraine. However, ship tracking data suggests volumes have remained strong despite it agreeing to cut output by 500kb/d in April as part of the OPEC+ supply agreement. The muted reaction could be due to the flurry of announcements coming as US markets closed for the 4 July holiday. Moreover, the market was likely expecting the Saudis to extend its July cut. Traders in Asia are said to be already looking elsewhere ahead of the cuts. Their oil refiners have suggested there is plentiful supply from non-OPEC producers if the regions does bear the brunt of the latest cuts.
 

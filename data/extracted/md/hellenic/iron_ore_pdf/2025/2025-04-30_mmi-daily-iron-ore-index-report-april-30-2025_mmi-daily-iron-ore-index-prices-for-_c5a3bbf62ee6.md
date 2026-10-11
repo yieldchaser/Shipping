@@ -170,15 +170,40 @@ _No desk commentary reported for this session._
 | **DCE** | **DCE Front Month** | RMB/WMT | 703.50 | - | +96.90% | 33.41 | 62.75 | 699.50 | 710.00 |
 
 ## Dry Bulk Freight Rates Historical Line Data (USD/MT)
+> **Estimate.** The report prints no numbers for this chart. Values are computed from the chart's vector geometry at each x-axis date label (calibrated on the printed axis ticks; typically within 1% of the axis range).
+
 | Date | C5 W. Australia - Qingdao (USD/MT) | C3 Tubarao - Qingdao (USD/MT) |
 | :--- | :--- | :--- |
-| Closing Price | 703.50 | - |
-| Vol traded ('000 lots) | 33.41 | - |
-| Open positions ('000 lots) | 62.75 | - |
-| Day Low | 699.50 | - |
-| Day High | 710.00 | - |
+| 4-Jan-21 | - | - |
+| 4-Mar-21 | 8.92 | 16.75 |
+| 4-May-21 | 13.81 | 30.02 |
+| 4-Jul-21 | 11.15 | 25.69 |
+| 4-Sep-21 | 13.67 | 33.23 |
+| 4-Nov-21 | 10.60 | 24.85 |
+| 4-Jan-22 | 8.92 | 22.33 |
+| 4-Mar-22 | 10.04 | 23.74 |
+| 4-May-22 | 12.00 | 25.69 |
+| 4-Jul-22 | 10.88 | 30.16 |
+| 4-Sep-22 | 8.92 | 19.54 |
+| 4-Nov-22 | 8.66 | 20.86 |
+| 4-Jan-23 | 7.53 | 18.98 |
+| 4-Mar-23 | 7.81 | 18.70 |
+| 4-May-23 | 8.65 | 22.61 |
+| 4-Jul-23 | 8.09 | 20.38 |
+| 4-Sep-23 | 8.09 | 18.70 |
+| 4-Nov-23 | 8.36 | 20.38 |
+| 4-Jan-24 | 10.04 | 29.30 |
+| 4-Mar-24 | 14.79 | 29.60 |
+| 4-May-24 | 10.60 | 26.52 |
+| 4-Jul-24 | 10.88 | 30.16 |
+| 4-Sep-24 | 12.00 | 27.65 |
+| 4-Nov-24 | 8.64 | 20.38 |
+| 4-Jan-25 | 6.97 | 18.42 |
+| 4-Mar-25 | 10.04 | 20.10 |
 
 ## Total China Iron Ore Import Volumes (Million Tonnes)
+> **Approximate.** The report prints no numbers for this chart. Values were read visually from the chart image by the parser and are rough estimates.
+
 | Month / Period | Import Volume (Million Tonnes) |
 | :--- | :--- |
 | Jun-23 | 96.00 |

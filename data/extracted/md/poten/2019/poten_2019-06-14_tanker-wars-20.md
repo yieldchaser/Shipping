@@ -34,8 +34,12 @@ The hope is that reasonable minds prevail, and a further escalation of the confl
 
 ![Exhibit 1: Tanker Wars 2.0](../../../charts/poten/2019/poten_2019-06-14_tanker-wars-20_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2019/poten_2019-06-14_tanker-wars-20_chart1.png)
+> **Interactive Asset:** [Local Asset (200 DPI PNG)](../../../charts/poten/2019/poten_2019-06-14_tanker-wars-20_chart1.png)
 
-![Exhibit 2: Tanker Wars 2.0](../../../charts/poten/2019/poten_2019-06-14_tanker-wars-20_chart2.png)
+![Exhibit 2: Oil Production by AG based Producers](../../../charts/poten/2019/poten_2019-06-14_tanker-wars-20_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2019/poten_2019-06-14_tanker-wars-20_chart2.png)
+> **Exhibit 2: Oil Production by AG based Producers**  
+> Unit: Kb/d | % · X-axis: 1978 to 2018  
+> Series: Iran, Iraq, Kuwait, Oman, Qatar, Saudi Arabia, United Arab Emirates, % Of Global Production  
+> *Source: BP*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2019/poten_2019-06-14_tanker-wars-20_chart2.png)

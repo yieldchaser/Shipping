@@ -22,10 +22,10 @@ source_file: "corpus/03-breakwave/insights/2025/2025-08-04_china-coal.html"
 
 *By*[*Michalis Voutsinas*](https://www.linkedin.com/in/michalis-voutsinas-587544163/)
 
-![Screenshot 2025 08 04 09.49.33](assets/2025-08-04_china-coal_img_screenshot2025-08-04094933_bb9776613370.png)
+![Screenshot 2025 08 04 09.49.33](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-08-04_china-coal_img_screenshot2025-08-04094933_bb9776613370.png)
 
 > **Figure 1: Screenshot 2025 08 04 09.49.33**  
-> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-08-04_china-coal_img_screenshot2025-08-04094933_bb9776613370.png)
+> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-08-04_china-coal_img_screenshot2025-08-04094933_bb9776613370.png)
 
 • China’s coal imports slumped to 33.04 million tonnes in June, the lowest monthly total since February 2023 marking a sharp 25.9% year on year decline and an 8.3% drop from May.
 
@@ -33,10 +33,10 @@ source_file: "corpus/03-breakwave/insights/2025/2025-08-04_china-coal.html"
 
 • The contraction in total imports was further compounded by a steep 30.0% year on year fall in volumes from Indonesia while Russian coal shipments dropped 19.7% over the same period.
 
-![Screenshot 2025 08 04 09.49.39](assets/2025-08-04_china-coal_img_screenshot2025-08-04094939_4e5b85320850.png)
+![Screenshot 2025 08 04 09.49.39](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-08-04_china-coal_img_screenshot2025-08-04094939_4e5b85320850.png)
 
 > **Figure 2: Screenshot 2025 08 04 09.49.39**  
-> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-08-04_china-coal_img_screenshot2025-08-04094939_4e5b85320850.png)
+> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-08-04_china-coal_img_screenshot2025-08-04094939_4e5b85320850.png)
 
 • China’s coal market continues to undergo a significant realignment, driven by record high domestic production and reduced coal fired power generation. Following a historic surge in imports that surpassed 500 million tonnes in 2024, weaker demand has set in since early 2025.
 

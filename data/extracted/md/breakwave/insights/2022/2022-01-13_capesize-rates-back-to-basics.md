@@ -20,11 +20,11 @@ source_file: "corpus/03-breakwave/insights/2022/2022-01-13_capesize-rates-back-t
 
 ---
 
-![Q2 Capesize Futures Minus Q1 Capesize Futures](assets/2022-01-13_capesize-rates-back-to-basics_img_ship4_6ce51c792834.jpg)
+![Q2 Capesize Futures Minus Q1 Capesize Futures](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-01-13_capesize-rates-back-to-basics_img_ship4_6ce51c792834.jpg)
 
 > **Figure 1: Q2 Capesize Futures Minus Q1 Capesize Futures**  
 > *Q2 Capesize futures minus Q1 Capesize futures, 7-year range vs. Current (orange)*  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-01-13_capesize-rates-back-to-basics_img_ship4_6ce51c792834.jpg)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-01-13_capesize-rates-back-to-basics_img_ship4_6ce51c792834.jpg)
 
 Unsurprisingly, Capesize owners woke up in a bad mood with the New Year, and it was not only because of a bad hangover. January and February are the most dreaded months of the year for dry bulk, and throughout history Capesize rates have experienced significant weakness during those months due to a combination of factors but mainly related to weather. This year is no different, and already 12 days into the year, the mood around the physical Capesize desks has already turned quite sour.
 
@@ -34,11 +34,11 @@ What matters for freight is the averages, and if during the rest of the year dem
 
 The futures market is clearly saying that the current weakness is temporary. Second quarter futures are trading at an unusually wide premium to the first quarter futures, signifying the optimism that market participants have for a recovery in rates (and the word “recovery” sounds quite dramatic, given that second quarter futures are “only” at ~22,000).
 
-![Source: Bloomberg](assets/2022-01-13_capesize-rates-back-to-basics_img_q2-q1spread_748097337be0.png)
+![Source: Bloomberg](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-01-13_capesize-rates-back-to-basics_img_q2-q1spread_748097337be0.png)
 
 > **Figure 2: Source: Bloomberg**  
 > *Source: Bloomberg*  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-01-13_capesize-rates-back-to-basics_img_q2-q1spread_748097337be0.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-01-13_capesize-rates-back-to-basics_img_q2-q1spread_748097337be0.png)
 
 Is such optimism warranted for 2022? Are we going to see repeat of last year’s performance when the broader dry bulk market managed to post the best year in at least a decade?
 
@@ -50,10 +50,10 @@ So, if demand was not there, what drove rates to new highs and why would one exp
 
 History clearly has shown again and again that strong bull markets in commodities are driven by supply constraints (while at the same time being enabled by steady demand). Shipping is no different. An extraordinary disruption in the global supply chain has had also an impact on dry bulk shipping, and although there are no specific choke points or easily identifiable congestion elements, it is the sub-optimal configuration of the dry bulk trade that has caused utilization to spike, causing the very strong rates experienced last year and that continue to affect the global shipping markets, from the gigantic container ships to the small bulk carriers.
 
-![2ship31](assets/2022-01-13_capesize-rates-back-to-basics_img_2ship31_05b324fec3f3.jpg)
+![2ship31](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-01-13_capesize-rates-back-to-basics_img_2ship31_05b324fec3f3.jpg)
 
 > **Figure 3: 2ship31**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-01-13_capesize-rates-back-to-basics_img_2ship31_05b324fec3f3.jpg)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-01-13_capesize-rates-back-to-basics_img_2ship31_05b324fec3f3.jpg)
 
 Unfortunately, Capesize vessels have a very specific target audience, and thus, the direct impact of the global supply chain slowdown has been minimal. It is the indirect results that affected and could potentially continue to impact the Capesize trade, which can once again unexpectedly tighten the market and lead to much stronger rates.
 
@@ -67,11 +67,11 @@ Then, it is the broader economic picture that is also helping shipping. The macr
 
 Finally, the elephant in the room is fleet growth. The decade of oversupply that haunted the industry is behind us, and for now, there is little evidence that owners are about to go on an ordering spree despite the strong returns that ships are currently generating. There is simply too much uncertainty on the regulatory front as it relates to propulsion technologies and future fuels.
 
-![Source: Clarksons](assets/2022-01-13_capesize-rates-back-to-basics_img_orderbook_32c3c39a061f.png)
+![Source: Clarksons](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-01-13_capesize-rates-back-to-basics_img_orderbook_32c3c39a061f.png)
 
 > **Figure 4: Source: Clarksons**  
 > *Source: Clarksons*  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-01-13_capesize-rates-back-to-basics_img_orderbook_32c3c39a061f.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-01-13_capesize-rates-back-to-basics_img_orderbook_32c3c39a061f.png)
 
 The shipping investor (at least on dry bulk and containers for now) will be faced with considerable trading opportunities in the next 12 months. Equities have corrected to more reasonable valuations, freight futures are not at extravagant levels and volatility will be once again the main characteristic of the shipping universe.
 

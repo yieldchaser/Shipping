@@ -43,10 +43,10 @@ Middle East VLCC rates could come under more pressure
 
 ➔ Additionally, the recent narrowing in the Brent-Dubai spread could create opportunities for some VLCCs to load their next crude cargo from the Atlantic Basin
 
-![Screenshot 2024 09 12 12.46.49](assets/2024-09-12_clean-tanker-mileage-declines-due-to-shorter-ballast-voyages_img_screenshot2024-09-12124649_ede019ec7d47.png)
+![Screenshot 2024 09 12 12.46.49](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-09-12_clean-tanker-mileage-declines-due-to-shorter-ballast-voyages_img_screenshot2024-09-12124649_ede019ec7d47.png)
 
 > **Figure 1: Screenshot 2024 09 12 12.46.49**  
-> **Interactive Data & Source:** [Vortexa](https://www.vortexa.com//oil-gas-data-traders-analysts-data-scientists?gclid=Cj0KCQjw8_qRBhCXARIsAE2AtRZKOvMnbilZ_6_91d7huSFFy71pWLrnPwGwOHVzXsmsG-1a1mZnQw8aAt89EALw_wcB&hsa_acc=1782073842&hsa_ad=548425387665&hsa_cam=14746637662&hsa_grp=125038601902&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_src=g&hsa_tgt=dsa-1431852288425&hsa_ver=3&utm_campaign=%5BCD%5D%20-%20DSA%20-%20EMEA&utm_medium=cpc&utm_medium=ppc&utm_source=google&utm_source=adwords&utm_term=) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-09-12_clean-tanker-mileage-declines-due-to-shorter-ballast-voyages_img_screenshot2024-09-12124649_ede019ec7d47.png)
+> **Interactive Data & Source:** [Vortexa](https://www.vortexa.com//oil-gas-data-traders-analysts-data-scientists?gclid=Cj0KCQjw8_qRBhCXARIsAE2AtRZKOvMnbilZ_6_91d7huSFFy71pWLrnPwGwOHVzXsmsG-1a1mZnQw8aAt89EALw_wcB&hsa_acc=1782073842&hsa_ad=548425387665&hsa_cam=14746637662&hsa_grp=125038601902&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_src=g&hsa_tgt=dsa-1431852288425&hsa_ver=3&utm_campaign=%5BCD%5D%20-%20DSA%20-%20EMEA&utm_medium=cpc&utm_medium=ppc&utm_source=google&utm_source=adwords&utm_term=) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-09-12_clean-tanker-mileage-declines-due-to-shorter-ballast-voyages_img_screenshot2024-09-12124649_ede019ec7d47.png)
 
 **Clean – East of Suez: CPP voyage mileage declines 10% m-o-m as ballast LRs stay short-haul after long-haul laden voyages**
 
@@ -62,10 +62,10 @@ The decline in ballast LRs from Europe to the Middle East stems from lower arriv
 
 ➔ However, we are also seeing early signs that some LRs are choosing to remain in Europe after discharge, likely due to vessel oversupply in the Middle East
 
-![Screenshot 2024 09 12 12.47.12](assets/2024-09-12_clean-tanker-mileage-declines-due-to-shorter-ballast-voyages_img_screenshot2024-09-12124712_1a7e50660f66.png)
+![Screenshot 2024 09 12 12.47.12](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-09-12_clean-tanker-mileage-declines-due-to-shorter-ballast-voyages_img_screenshot2024-09-12124712_1a7e50660f66.png)
 
 > **Figure 2: Screenshot 2024 09 12 12.47.12**  
-> **Interactive Data & Source:** [Vortexa](https://www.vortexa.com//oil-gas-data-traders-analysts-data-scientists?gclid=Cj0KCQjw8_qRBhCXARIsAE2AtRZKOvMnbilZ_6_91d7huSFFy71pWLrnPwGwOHVzXsmsG-1a1mZnQw8aAt89EALw_wcB&hsa_acc=1782073842&hsa_ad=548425387665&hsa_cam=14746637662&hsa_grp=125038601902&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_src=g&hsa_tgt=dsa-1431852288425&hsa_ver=3&utm_campaign=%5BCD%5D%20-%20DSA%20-%20EMEA&utm_medium=cpc&utm_medium=ppc&utm_source=google&utm_source=adwords&utm_term=) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-09-12_clean-tanker-mileage-declines-due-to-shorter-ballast-voyages_img_screenshot2024-09-12124712_1a7e50660f66.png)
+> **Interactive Data & Source:** [Vortexa](https://www.vortexa.com//oil-gas-data-traders-analysts-data-scientists?gclid=Cj0KCQjw8_qRBhCXARIsAE2AtRZKOvMnbilZ_6_91d7huSFFy71pWLrnPwGwOHVzXsmsG-1a1mZnQw8aAt89EALw_wcB&hsa_acc=1782073842&hsa_ad=548425387665&hsa_cam=14746637662&hsa_grp=125038601902&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_src=g&hsa_tgt=dsa-1431852288425&hsa_ver=3&utm_campaign=%5BCD%5D%20-%20DSA%20-%20EMEA&utm_medium=cpc&utm_medium=ppc&utm_source=google&utm_source=adwords&utm_term=) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-09-12_clean-tanker-mileage-declines-due-to-shorter-ballast-voyages_img_screenshot2024-09-12124712_1a7e50660f66.png)
 
 ### Dirty – West of Suez: VLCC Seasonal Ban in Guyana Could Generate Up to 10 Suezmax Voyages
 
@@ -79,10 +79,10 @@ Pockets of strength from the seasonal ban of VLCCs out of Guyana from September 
 
 ➔ This could potentially be replaced by Suezmax tankers, adding up to an additional 10 voyages and increasing the segment’s utilisation out of the Atlantic Basin
 
-![Screenshot 2024 09 12 12.47.30](assets/2024-09-12_clean-tanker-mileage-declines-due-to-shorter-ballast-voyages_img_screenshot2024-09-12124730_0306adbc9892.png)
+![Screenshot 2024 09 12 12.47.30](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-09-12_clean-tanker-mileage-declines-due-to-shorter-ballast-voyages_img_screenshot2024-09-12124730_0306adbc9892.png)
 
 > **Figure 3: Screenshot 2024 09 12 12.47.30**  
-> **Interactive Data & Source:** [Vortexa](https://www.vortexa.com//oil-gas-data-traders-analysts-data-scientists?gclid=Cj0KCQjw8_qRBhCXARIsAE2AtRZKOvMnbilZ_6_91d7huSFFy71pWLrnPwGwOHVzXsmsG-1a1mZnQw8aAt89EALw_wcB&hsa_acc=1782073842&hsa_ad=548425387665&hsa_cam=14746637662&hsa_grp=125038601902&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_src=g&hsa_tgt=dsa-1431852288425&hsa_ver=3&utm_campaign=%5BCD%5D%20-%20DSA%20-%20EMEA&utm_medium=cpc&utm_medium=ppc&utm_source=google&utm_source=adwords&utm_term=) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-09-12_clean-tanker-mileage-declines-due-to-shorter-ballast-voyages_img_screenshot2024-09-12124730_0306adbc9892.png)
+> **Interactive Data & Source:** [Vortexa](https://www.vortexa.com//oil-gas-data-traders-analysts-data-scientists?gclid=Cj0KCQjw8_qRBhCXARIsAE2AtRZKOvMnbilZ_6_91d7huSFFy71pWLrnPwGwOHVzXsmsG-1a1mZnQw8aAt89EALw_wcB&hsa_acc=1782073842&hsa_ad=548425387665&hsa_cam=14746637662&hsa_grp=125038601902&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_src=g&hsa_tgt=dsa-1431852288425&hsa_ver=3&utm_campaign=%5BCD%5D%20-%20DSA%20-%20EMEA&utm_medium=cpc&utm_medium=ppc&utm_source=google&utm_source=adwords&utm_term=) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-09-12_clean-tanker-mileage-declines-due-to-shorter-ballast-voyages_img_screenshot2024-09-12124730_0306adbc9892.png)
 
 **Clean – West of Suez: Robust refinery run rates increase intra-Mexico clean voyage counts, keeping MRs intra-regional**
 
@@ -100,10 +100,10 @@ Overall, Mexico’s MR demand has become more intra-regional and short-haul (wit
 
 ➔ This is in line with the overall shift in the Americas MR market this summer, which has become more short-haul and fragmented of late
 
-![Screenshot 2024 09 12 12.47.43](assets/2024-09-12_clean-tanker-mileage-declines-due-to-shorter-ballast-voyages_img_screenshot2024-09-12124743_7308b04e8880.png)
+![Screenshot 2024 09 12 12.47.43](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-09-12_clean-tanker-mileage-declines-due-to-shorter-ballast-voyages_img_screenshot2024-09-12124743_7308b04e8880.png)
 
 > **Figure 4: Screenshot 2024 09 12 12.47.43**  
-> **Interactive Data & Source:** [Vortexa](https://www.vortexa.com//oil-gas-data-traders-analysts-data-scientists?gclid=Cj0KCQjw8_qRBhCXARIsAE2AtRZKOvMnbilZ_6_91d7huSFFy71pWLrnPwGwOHVzXsmsG-1a1mZnQw8aAt89EALw_wcB&hsa_acc=1782073842&hsa_ad=548425387665&hsa_cam=14746637662&hsa_grp=125038601902&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_src=g&hsa_tgt=dsa-1431852288425&hsa_ver=3&utm_campaign=%5BCD%5D%20-%20DSA%20-%20EMEA&utm_medium=cpc&utm_medium=ppc&utm_source=google&utm_source=adwords&utm_term=) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-09-12_clean-tanker-mileage-declines-due-to-shorter-ballast-voyages_img_screenshot2024-09-12124743_7308b04e8880.png)
+> **Interactive Data & Source:** [Vortexa](https://www.vortexa.com//oil-gas-data-traders-analysts-data-scientists?gclid=Cj0KCQjw8_qRBhCXARIsAE2AtRZKOvMnbilZ_6_91d7huSFFy71pWLrnPwGwOHVzXsmsG-1a1mZnQw8aAt89EALw_wcB&hsa_acc=1782073842&hsa_ad=548425387665&hsa_cam=14746637662&hsa_grp=125038601902&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_src=g&hsa_tgt=dsa-1431852288425&hsa_ver=3&utm_campaign=%5BCD%5D%20-%20DSA%20-%20EMEA&utm_medium=cpc&utm_medium=ppc&utm_source=google&utm_source=adwords&utm_term=) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-09-12_clean-tanker-mileage-declines-due-to-shorter-ballast-voyages_img_screenshot2024-09-12124743_7308b04e8880.png)
 
 Data Source:[Vortexa](https://www.vortexa.com//oil-gas-data-traders-analysts-data-scientists?gclid=Cj0KCQjw8_qRBhCXARIsAE2AtRZKOvMnbilZ_6_91d7huSFFy71pWLrnPwGwOHVzXsmsG-1a1mZnQw8aAt89EALw_wcB&hsa_acc=1782073842&hsa_ad=548425387665&hsa_cam=14746637662&hsa_grp=125038601902&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_src=g&hsa_tgt=dsa-1431852288425&hsa_ver=3&utm_campaign=%5BCD%5D%20-%20DSA%20-%20EMEA&utm_medium=cpc&utm_medium=ppc&utm_source=google&utm_source=adwords&utm_term=)
 

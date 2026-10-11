@@ -30,14 +30,24 @@ Of course, a reversal of any or all of these supporting circumstances for Panama
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: Shifting Panamax Supply Boosts Earnings](../../../charts/poten/2012/poten_2012-06-01_shifting-panamax-supply-boosts-earnings_chart1.png)
+![Exhibit 1: Panamax and Aframax Atlantic Basin Earnings](../../../charts/poten/2012/poten_2012-06-01_shifting-panamax-supply-boosts-earnings_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2012/poten_2012-06-01_shifting-panamax-supply-boosts-earnings_chart1.png)
+> **Exhibit 1: Panamax and Aframax Atlantic Basin Earnings**  
+> Unit: TCE ($/d) · X-axis: Jul-11 to May-12  
+> Series: Aframax CAR-USG, Panamax CAR-USG, Panamax UKC-USG  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2012/poten_2012-06-01_shifting-panamax-supply-boosts-earnings_chart1.png)
 
-![Exhibit 2: Shifting Panamax Supply Boosts Earnings](../../../charts/poten/2012/poten_2012-06-01_shifting-panamax-supply-boosts-earnings_chart2.png)
+![Exhibit 2: Panamax Reported Fixture Patterns](../../../charts/poten/2012/poten_2012-06-01_shifting-panamax-supply-boosts-earnings_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2012/poten_2012-06-01_shifting-panamax-supply-boosts-earnings_chart2.png)
+> **Exhibit 2: Panamax Reported Fixture Patterns**  
+> Unit: Fixture Count · X-axis: 2007 to 2012 Annualized  
+> Series: Caribs Basin, West of Panama Canal, Europe/TA  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2012/poten_2012-06-01_shifting-panamax-supply-boosts-earnings_chart2.png)
 
-![Exhibit 3: Shifting Panamax Supply Boosts Earnings](../../../charts/poten/2012/poten_2012-06-01_shifting-panamax-supply-boosts-earnings_chart3.png)
+![Exhibit 3: USG DPP Imports from Europe, 2008-Present](../../../charts/poten/2012/poten_2012-06-01_shifting-panamax-supply-boosts-earnings_chart3.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2012/poten_2012-06-01_shifting-panamax-supply-boosts-earnings_chart3.png)
+> **Exhibit 3: USG DPP Imports from Europe, 2008-Present**  
+> Unit: Exports (,000 bbl/d) · X-axis: Jan-08 to Jan-12  
+> Series: Residual Fuel Oil, Unfinished Oils, 5 Year Average  
+> *Source: EIA, Poten*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2012/poten_2012-06-01_shifting-panamax-supply-boosts-earnings_chart3.png)

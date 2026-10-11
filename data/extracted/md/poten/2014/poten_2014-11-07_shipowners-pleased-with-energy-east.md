@@ -36,4 +36,4 @@ Recently, we have seen a few cargoes of heavy Western Canadian Select exported f
 
 ![Exhibit 1: Shipowners Pleased With Energy East](../../../charts/poten/2014/poten_2014-11-07_shipowners-pleased-with-energy-east_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2014/poten_2014-11-07_shipowners-pleased-with-energy-east_chart1.png)
+> **Interactive Asset:** [Local Asset (200 DPI PNG)](../../../charts/poten/2014/poten_2014-11-07_shipowners-pleased-with-energy-east_chart1.png)

@@ -22,13 +22,14 @@ The Kirkuk oil fields in Northern Iraq, which were discovered in 1927 and starte
 
 The dispute between Iraq and Turkey that triggered the arbitration case goes back to 2014. In that year, the Turkish government, which was not on good terms with Iraq's then Prime Minister Nouri al-Maliki, began importing oil directly from the KRG oil fields, without Iraq's consent, through the pipeline to Ceyhan on the Mediterranean coast. On May 22, 2014, Turkish authorities announced that the first shipment of Iraqi oil started from the Ceyhan port at 10:00 local time. The next day, the Iraqi Oil Ministry filed a claim at the International Chamber of Commerce (ICC) and Arbitration Court in Paris against the Turkish government and its state- run pipeline operator, BOTAS, over Kurdistan's unilateral oil shipments to Turkey.
 
-As can be seen from [Chart 1](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2023/poten_2023-08-25_pipeline-politics_chart1.png), the main destinations for the crude from Northern Iraq are countries in the Mediterranean, including Israel. These are all short-to- medium haul voyages and, not surprisingly, all these barrels are transported on Aframaxes and Suezmaxes. Occasionally, a VLCC loads Iraqi crude in Ceyhan destined for China. Some of these voyages took place in early 2020 and a few more were done earlier this year. However, since a fully laden VLCC would typically sail around the Cape, the distances involved make these voyages uneconomic in most cases.
+As can be seen from [Chart 1](../../../charts/poten/2023/poten_2023-08-25_pipeline-politics_chart1.png), the main destinations for the crude from Northern Iraq are countries in the Mediterranean, including Israel. These are all short-to- medium haul voyages and, not surprisingly, all these barrels are transported on Aframaxes and Suezmaxes. Occasionally, a VLCC loads Iraqi crude in Ceyhan destined for China. Some of these voyages took place in early 2020 and a few more were done earlier this year. However, since a fully laden VLCC would typically sail around the Cape, the distances involved make these voyages uneconomic in most cases.
 
-> **Exhibit 1: Pipeline Politics (Chart 1)**  
-> *Source: Poten & Partners*  
-> **Interactive Data & Source:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2023/poten_2023-08-25_pipeline-politics_chart1.png)
+> **Exhibit 1: Iraq Crude Exports Via Ceyhan By Destination**  
+> Unit: Kb/d · X-axis: Jan-20 to Jul-23  
+> Series: Italy, Greece, Croatia, Turkey, Israel, China, Spain, Romania, Other  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2023/poten_2023-08-25_pipeline-politics_chart1.png)
 
-![Exhibit 1: Pipeline Politics](../../../charts/poten/2023/poten_2023-08-25_pipeline-politics_chart1.png)
+![Exhibit 1: Iraq Crude Exports Via Ceyhan By Destination](../../../charts/poten/2023/poten_2023-08-25_pipeline-politics_chart1.png)
 
 In the absence of Iraqi barrels, countries have diversified their sources of supply. Some of which imply longer sailing distances. For example, Israel imports more from Gabon and Brazil, while Croatia recently imported barrels from the U.S. and Norway for the first time in several years.
 
@@ -36,6 +37,10 @@ Turkey and Iraq are still negotiating and it is not clear when the flows will re
 
 ## Market Exhibits & Charts
 
-![Exhibit 2: Pipeline Politics](../../../charts/poten/2023/poten_2023-08-25_pipeline-politics_chart2.png)
+![Exhibit 2: Iraq Crude Exports Via Ceyhan By Vessel Class](../../../charts/poten/2023/poten_2023-08-25_pipeline-politics_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2023/poten_2023-08-25_pipeline-politics_chart2.png)
+> **Exhibit 2: Iraq Crude Exports Via Ceyhan By Vessel Class**  
+> Unit: Kb/d · X-axis: Jan-20 to Jul-23  
+> Series: Suezmax, Aframax, VLCC, Other  
+> *Source: Vortexa*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2023/poten_2023-08-25_pipeline-politics_chart2.png)

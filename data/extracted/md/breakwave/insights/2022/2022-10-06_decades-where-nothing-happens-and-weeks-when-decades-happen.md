@@ -27,7 +27,7 @@ Outside of this change of policy (which unfortunately might also occur in other 
 
 For the dry bulk market, it is concerning that the United Kingdom is practicing quantitative easing again. Our concern is that other nations will follow, that global inflation will not subside, and that industrial demand destruction will continue to intensify. The Nord Stream attack, though, is at least a positive for our market as thermal coal demand is set to continue to grow. Going forward, the dry bulk market needs ongoing improvement in China to continue to offset deterioration in much of the rest of the world. Several major economies continue to experience industrial production contraction, including Europe recently falling back into contraction again. As we discussed for our clients in this week's Weekly Dry Bulk Report, European industrial production most recently contracted on a year-on-year basis by 2.2%. European industrial production has now contracted on a year-on-year basis during three of the last five months.
 
-![Chart 1 (53)](assets/2022-10-06_decades-where-nothing-happens-and-weeks-when-decades-happen_img_chart1285329_06cfa1d7c317.jpg)
+![Chart 1 (53)](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-10-06_decades-where-nothing-happens-and-weeks-when-decades-happen_img_chart1285329_06cfa1d7c317.jpg)
 
 > **Figure 1: Chart 1 (53)**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-10-06_decades-where-nothing-happens-and-weeks-when-decades-happen_img_chart1285329_06cfa1d7c317.jpg)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-10-06_decades-where-nothing-happens-and-weeks-when-decades-happen_img_chart1285329_06cfa1d7c317.jpg)

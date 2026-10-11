@@ -20,19 +20,19 @@ source_file: "corpus/03-breakwave/insights/2025/2025-09-01_shenhua-shift-coal-dy
 
 ---
 
-![Rgb Color Brs Shipbrokers Monogram L](assets/2025-09-01_shenhua-shift-coal-dynamics-whats-the-rationale_img_rgb-color-brs-shipbrokers-monogram-l_ee79606c8e74.png)
+![Rgb Color Brs Shipbrokers Monogram L](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-09-01_shenhua-shift-coal-dynamics-whats-the-rationale_img_rgb-color-brs-shipbrokers-monogram-l_ee79606c8e74.png)
 
 > **Figure 1: Rgb Color Brs Shipbrokers Monogram L**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-09-01_shenhua-shift-coal-dynamics-whats-the-rationale_img_rgb-color-brs-shipbrokers-monogram-l_ee79606c8e74.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-09-01_shenhua-shift-coal-dynamics-whats-the-rationale_img_rgb-color-brs-shipbrokers-monogram-l_ee79606c8e74.png)
 
 On 12 August, after a seven-year pause, China Shenhua Group, China’s biggest coal producer, once again launched a large-scale asset merge and acquisition program, marking the fulfillment of the agreement on “avoiding competition in the same industry”. This agreement, first signed in 2005, was initially realized after the merger of National Energy Group with Shenhua and Guodian in 2018, and after two extensions, it was stipulated to be fully fulfilled before 2028.
 
 The biggest change this acquisition brought to Shenhua Group is that it enabled the company to control five related industries, realizing a closed loop from coal mining to downstream coal product sales. These five main industries are: coal mining, coal-fired power plants, the coal chemical industry, seaborne and coastal shipping, and a coal trade e-platform.
 
-![Στιγμιότυπο Οθόνης 2025 09 01 144317](assets/2025-09-01_shenhua-shift-coal-dynamics-whats-the-rationale_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_b23935c64c88.png)
+![Στιγμιότυπο Οθόνης 2025 09 01 144317](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-09-01_shenhua-shift-coal-dynamics-whats-the-rationale_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_b23935c64c88.png)
 
 > **Figure 2: Στιγμιότυπο Οθόνης 2025 09 01 144317**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-09-01_shenhua-shift-coal-dynamics-whats-the-rationale_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_b23935c64c88.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-09-01_shenhua-shift-coal-dynamics-whats-the-rationale_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_b23935c64c88.png)
 
 Against this backdrop, Shenhua Group has secured stable coal supplies from its upstream mining arms. Meanwhile, in the downstream sector, the coal-fired power plants and coal chemical facilities ensure reliable sales of Shenhua’s different types of coal, with low-calorific-value thermal coal mainly used for power generation and high-calorific-value thermal coal serving as the raw material for coal chemical production. To better serve the coal upstream and downstream, Shenhua has also made arrangements in the seaborne and trading markets. Its fleet (mostly used for domestic transportation) and port investments help to reduce shipping costs, while its own coal trading platform reduces its external dependence.
 
@@ -50,19 +50,19 @@ However, following the need to secure domestic coal demand, Beijing turned a bli
 
 A monopoly is clearly a double-edged sword for the rest of the market players. On one hand, economies of scale should help reduce Shenhua’s production costs, while significantly enhancing its competitiveness. However, in the wake of rising market share and the monopoly of key upstream and downstream infrastructure, coal prices could see some support.
 
-![Στιγμιότυπο Οθόνης 2025 09 01 144326](assets/2025-09-01_shenhua-shift-coal-dynamics-whats-the-rationale_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_a0862254f9b7.png)
+![Στιγμιότυπο Οθόνης 2025 09 01 144326](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-09-01_shenhua-shift-coal-dynamics-whats-the-rationale_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_a0862254f9b7.png)
 
 > **Figure 3: Στιγμιότυπο Οθόνης 2025 09 01 144326**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-09-01_shenhua-shift-coal-dynamics-whats-the-rationale_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_a0862254f9b7.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-09-01_shenhua-shift-coal-dynamics-whats-the-rationale_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_a0862254f9b7.png)
 
 The abovementioned support shall include not only domestic coal producers, but for imported coal traders as well. The rebound of domestic prices will support import margins, thereby boosting the Chinese market’s demand for imported coal. Since the beginning of this year, the margin of import coal has long fallen into negative territory, thereby suppressing import appetite from major market players. This has led to a significant decline in coal import volumes.
 
 In the first seven months of this year, customs data show China’s coal imports fell 13% y-o-y. Meanwhile, AXSMarine data indicate seaborne imports fell 18% to 193.7 mln mt. Indonesian shipments, for instance, saw a decline of 24%. This can be attributed to the Indonesia HBA coal index update. Indeed, after the April increase in Indonesian coal prices the premium of Indonesian coal over domestic coal peaked at $8.2/mt in mid-June, significantly suppressing Chinese buyers’ import demand. With the potential recovery of coal prices, subject to any unexpected downturn in downstream power demand, we anticipate that seaborne coal trade will receive a ‘shot in the arm’ and continue to serve as a quality supplement to China's coal demand.
 
-![Στιγμιότυπο Οθόνης 2025 09 01 144334](assets/2025-09-01_shenhua-shift-coal-dynamics-whats-the-rationale_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_3693b68577dc.png)
+![Στιγμιότυπο Οθόνης 2025 09 01 144334](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-09-01_shenhua-shift-coal-dynamics-whats-the-rationale_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_3693b68577dc.png)
 
 > **Figure 4: Στιγμιότυπο Οθόνης 2025 09 01 144334**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-09-01_shenhua-shift-coal-dynamics-whats-the-rationale_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_3693b68577dc.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-09-01_shenhua-shift-coal-dynamics-whats-the-rationale_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_3693b68577dc.png)
 
 ---
 

@@ -42,10 +42,10 @@ Historically, Bear Markets last for a few months to a couple of years. This time
 
 The good news is that this loosening-tightening cycle is well defined. The central bank increases money supply and spurs economic and financial activity. At some point (and that could be a long while), inflation occurs. That prompts the central bank to start tightening aggressively. The markets are the first to suffer. High inflation, high rates and weaker markets prompt an economic slowdown soon after. At some point, the recession (financial or economic) becomes more important than inflation. Either because numbers are too terrible or because inflation has started to stabilise. This prompts central banks to start loosening again, and a new cycle begins.
 
-![Market Chart 1](assets/2022-05-23_market-comment-how-long-will-the-downturn-last_img_image00228129_fe50f0fe6fbb.jpg)
+![Market Chart 1](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-05-23_market-comment-how-long-will-the-downturn-last_img_image00228129_fe50f0fe6fbb.jpg)
 
 > **Figure 1: Market Chart 1**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-05-23_market-comment-how-long-will-the-downturn-last_img_image00228129_fe50f0fe6fbb.jpg)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-05-23_market-comment-how-long-will-the-downturn-last_img_image00228129_fe50f0fe6fbb.jpg)
 
 So, when will the Bear Market end?
 

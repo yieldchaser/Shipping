@@ -60,6 +60,14 @@ Demand for ships is not going away, but the wait-and-see approach will no doubt 
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: The Stock Stumble](../../../charts/poten/2008/poten_2008-09-19_the-stock-stumble_chart1.png)
+> **Chart on PDF page 1: Market Indices**  
+> Unit: S&P 500 | Worldscale Rate AG - USG · X-axis: 1985 to 2007  
+> Series: WS Rate, S&P  
+> *Source: Poten*  
+> *No image crop of this chart was saved; caption read from the PDF.*
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2008/poten_2008-09-19_the-stock-stumble_chart1.png)
+> **Chart on PDF page 2: VLCC Orders & Prices**  
+> Unit: $ Million | Number VLCCs Ordered · X-axis: Jan-05 to Jul-08  
+> Series: New Orders, Newbuilding Price  
+> *Source: Poten*  
+> *No image crop of this chart was saved; caption read from the PDF.*

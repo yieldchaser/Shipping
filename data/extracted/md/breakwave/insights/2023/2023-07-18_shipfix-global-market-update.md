@@ -60,11 +60,11 @@ Among the grievances that Russian leaders have aired over the BSGI in the past m
 
 The past two weeks have seen a recovery in cargo ordering activities, with weekly volumes just shy of 1.5 million tonnes. A majority of the cargo orders are for loading in Russia’s Black Sea ports, with only a small portion of the demand linked to ports on other coastlines. Average cargo sizes have remained relatively stable, around 30,0000 tonnes, since the beginning of the year. Hence, should volumes stay healthy or recover further, the Handysizes and Supramaxes will likely be the main beneficiaries.
 
-![Data Source:shipfix](assets/2023-07-18_shipfix-global-market-update_img_241_cd2180982f38.png)
+![Data Source:shipfix](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-07-18_shipfix-global-market-update_img_241_cd2180982f38.png)
 
 > **Figure 1: Data Source:shipfix**  
 > *Data Source:Shipfix*  
-> **Interactive Data & Source:** [Shipfix](https://shipfix.com/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-07-18_shipfix-global-market-update_img_241_cd2180982f38.png)
+> **Interactive Data & Source:** [Shipfix](https://shipfix.com/) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-07-18_shipfix-global-market-update_img_241_cd2180982f38.png)
 
 ---
 

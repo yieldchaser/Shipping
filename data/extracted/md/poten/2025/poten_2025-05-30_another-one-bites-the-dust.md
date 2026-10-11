@@ -32,10 +32,18 @@ Imports have been growing for several years already. In recent weeks, imports ha
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: Another One Bites The Dust](../../../charts/poten/2025/poten_2025-05-30_another-one-bites-the-dust_chart1.png)
+![Exhibit 1: US West Coast: Clean Product Imports By Origin](../../../charts/poten/2025/poten_2025-05-30_another-one-bites-the-dust_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2025/poten_2025-05-30_another-one-bites-the-dust_chart1.png)
+> **Exhibit 1: US West Coast: Clean Product Imports By Origin**  
+> Unit: Kb/d · X-axis: 2-Jan-23 to 19-May-25  
+> Series: South Korea, Canada, Singapore, India, China, Japan, Taiwan, Indonesia, Other  
+> *Source: Vortexa*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2025/poten_2025-05-30_another-one-bites-the-dust_chart1.png)
 
-![Exhibit 2: Another One Bites The Dust](../../../charts/poten/2025/poten_2025-05-30_another-one-bites-the-dust_chart2.png)
+![Exhibit 2: US West Coast: Clean Product Imports by Vessel Class](../../../charts/poten/2025/poten_2025-05-30_another-one-bites-the-dust_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2025/poten_2025-05-30_another-one-bites-the-dust_chart2.png)
+> **Exhibit 2: US West Coast: Clean Product Imports by Vessel Class**  
+> Unit: Kb/d · X-axis: 2-Jan-23 to 19-May-25  
+> Series: LR2, LR1, MR, Handy, Smaller  
+> *Source: Vortexa*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2025/poten_2025-05-30_another-one-bites-the-dust_chart2.png)

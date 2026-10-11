@@ -31,7 +31,7 @@ tags:
 ![6669c51e85660f53a602bb6b Untitled (1)](../../images/6669c51e85660f53a602bb6b_Untitled (1).avif)
 
 > **Figure 1: 6669c51e85660f53a602bb6b Untitled (1)**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/dry-week-24-2024) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6669c51e85660f53a602bb6b_Untitled (1).avif)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/dry-week-24-2024) | [Local Asset](../../../../../../corpus/07-signal/images/6669c51e85660f53a602bb6b_Untitled%20(1).avif)
 
 In the second week of June, there's a notable development in Capesize vessel rates on the Brazil to North China route, indicating a firmer momentum. Concurrently, the count of ballast ships has been steadily decreasing, nearing the annual average trend. However, it remains uncertain whether this firmness will persist for the rest of the month, given that the growth in demand tonne days has yet to show signs of a surprising rise. Meanwhile, concerns persist about Chinese economic prosperity, particularly regarding firm demand for[iron ore](https://www.mining.com/web/iron-ore-price-tumbles-to-2-month-low-on-concerns-over-weakening-china-demand/). Although signs point to a strong appetite for coal, clouds hover over China's economic outlook. Import data from customs and Reuters revealed that China's coal imports surged by 11% in May compared to the previous year. Lower domestic output has necessitated increased shipments of international coal.
 

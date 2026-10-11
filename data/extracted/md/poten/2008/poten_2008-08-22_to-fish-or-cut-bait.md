@@ -54,6 +54,8 @@ Higher fuel prices create a floor below which it becomes uneconomic for shipowne
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: To Fish or Cut Bait](../../../charts/poten/2008/poten_2008-08-22_to-fish-or-cut-bait_chart1.png)
-
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2008/poten_2008-08-22_to-fish-or-cut-bait_chart1.png)
+> **Chart on PDF page 1: VLCC Rates & Arabian Gulf Avaliability**  
+> Unit: WS Rates | Spot VLCC in AG Next 30 Days · X-axis: Jan-08 to Aug-08  
+> Series: Next 30 Days, VLCC AG FE, VLCC SH AG FE  
+> *Source: Poten & Partners*  
+> *No image crop of this chart was saved; caption read from the PDF.*

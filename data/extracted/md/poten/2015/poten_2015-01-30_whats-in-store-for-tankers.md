@@ -30,10 +30,18 @@ We think it is unlikely that this stock building scenario will play out through 
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: What's in Store for Tankers?](../../../charts/poten/2015/poten_2015-01-30_whats-in-store-for-tankers_chart1.png)
+![Exhibit 1: 2015 Global Oil Production and Demand Forecasts](../../../charts/poten/2015/poten_2015-01-30_whats-in-store-for-tankers_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2015/poten_2015-01-30_whats-in-store-for-tankers_chart1.png)
+> **Exhibit 1: 2015 Global Oil Production and Demand Forecasts**  
+> Unit: MB/day · X-axis: IEA to I-Bank  
+> Series: Demand, Supply  
+> *Source: IEA, OPEC, EIA, I-Bank*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2015/poten_2015-01-30_whats-in-store-for-tankers_chart1.png)
 
-![Exhibit 2: What's in Store for Tankers?](../../../charts/poten/2015/poten_2015-01-30_whats-in-store-for-tankers_chart2.png)
+![Exhibit 2: 2015 Theoretical Global Oil Storage Scenarios](../../../charts/poten/2015/poten_2015-01-30_whats-in-store-for-tankers_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2015/poten_2015-01-30_whats-in-store-for-tankers_chart2.png)
+> **Exhibit 2: 2015 Theoretical Global Oil Storage Scenarios**  
+> Unit: VLCCs · X-axis: Jan to Dec  
+> Series: US EIA, I-Bank  
+> *Source: EIA, I-Bank, Poten & Partners*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2015/poten_2015-01-30_whats-in-store-for-tankers_chart2.png)

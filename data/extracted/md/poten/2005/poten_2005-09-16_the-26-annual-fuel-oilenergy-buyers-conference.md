@@ -68,6 +68,8 @@ Load Area Discharge Areas US Gulf Europe, Italy, and Singapore Northern Europe I
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: The 26 Annual Fuel Oil/Energy Buyers' Conference](../../../charts/poten/2005/poten_2005-09-16_the-26-annual-fuel-oilenergy-buyers-conference_chart1.png)
-
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2005/poten_2005-09-16_the-26-annual-fuel-oilenergy-buyers-conference_chart1.png)
+> **Chart on PDF page 2: Spot Cost of Transporting Fuel Oil From Caribbean Load Area**  
+> Unit: $/Ton · X-axis: Aug-04 to Aug-05  
+> Series: USEC, NWE, Italy, Singapore  
+> *Source: Poten & Partners*  
+> *No image crop of this chart was saved; caption read from the PDF.*

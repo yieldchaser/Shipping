@@ -30,8 +30,8 @@ At first glance, these new fees, if they are indeed implemented and enforced as 
 
 ![Exhibit 1: When The Ships Hit The Fan](../../../charts/poten/2025/poten_2025-10-10_when-the-ships-hit-the-fan_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2025/poten_2025-10-10_when-the-ships-hit-the-fan_chart1.png)
+> **Interactive Asset:** [Local Asset (200 DPI PNG)](../../../charts/poten/2025/poten_2025-10-10_when-the-ships-hit-the-fan_chart1.png)
 
 ![Exhibit 2: When The Ships Hit The Fan](../../../charts/poten/2025/poten_2025-10-10_when-the-ships-hit-the-fan_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2025/poten_2025-10-10_when-the-ships-hit-the-fan_chart2.png)
+> **Interactive Asset:** [Local Asset (200 DPI PNG)](../../../charts/poten/2025/poten_2025-10-10_when-the-ships-hit-the-fan_chart2.png)

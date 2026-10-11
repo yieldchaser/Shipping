@@ -36,8 +36,8 @@ The secondhand market reacts more quickly and may provide better investment oppo
 
 ![Exhibit 1: That Sinking Feeling ...](../../../charts/poten/2016/poten_2016-08-19_that-sinking-feeling_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2016/poten_2016-08-19_that-sinking-feeling_chart1.png)
+> **Interactive Asset:** [Local Asset (200 DPI PNG)](../../../charts/poten/2016/poten_2016-08-19_that-sinking-feeling_chart1.png)
 
 ![Exhibit 2: That Sinking Feeling ...](../../../charts/poten/2016/poten_2016-08-19_that-sinking-feeling_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2016/poten_2016-08-19_that-sinking-feeling_chart2.png)
+> **Interactive Asset:** [Local Asset (200 DPI PNG)](../../../charts/poten/2016/poten_2016-08-19_that-sinking-feeling_chart2.png)

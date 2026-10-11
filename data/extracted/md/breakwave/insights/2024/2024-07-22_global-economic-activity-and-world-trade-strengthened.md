@@ -40,10 +40,10 @@ Global trade is set to recover, with world trade growth expected to rebound to a
 
 As we progress through late July, the dry bulk shipping market exhibits a relatively calm state. The market has integrated much of the IMF’s upward revision in projections and increased trading activity from China, significantly boosting this year’s Baltic index averages. Despite the current stability, there might be notable uncertainties on the horizon. Analysts suggest that the primary driver of China's commodity imports is price, with economic conditions playing only a secondary role. The emphasis on price as the main driver of China's commodity imports indicates a potential for fluctuating demand, which could impact shipping rates and market stability. Additionally, the potential for renewed geopolitical tensions, particularly in light of the upcoming US presidential election, introduces a significant element of risk. The accumulation of commodity stockpiles, including soybeans, iron ore, and coal, further complicates the market outlook. While they are set against the backdrop of a typically strong second half of the trading year, these factors contribute to a cautiously optimistic view.
 
-![Στιγμιότυπο Οθόνης 2024 07 22 100412](assets/2024-07-22_global-economic-activity-and-world-trade-strengthened_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_7647ba51a094.png)
+![Στιγμιότυπο Οθόνης 2024 07 22 100412](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-07-22_global-economic-activity-and-world-trade-strengthened_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_7647ba51a094.png)
 
 > **Figure 1: Στιγμιότυπο Οθόνης 2024 07 22 100412**  
-> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-07-22_global-economic-activity-and-world-trade-strengthened_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_7647ba51a094.png)
+> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-07-22_global-economic-activity-and-world-trade-strengthened_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_7647ba51a094.png)
 
 Data source:[Doric](https://www.doric.gr/)
 

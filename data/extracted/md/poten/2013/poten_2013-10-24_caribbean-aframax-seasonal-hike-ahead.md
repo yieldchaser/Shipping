@@ -54,8 +54,11 @@ The steady demand for tankers in the Caribbean and the balanced fleet have left 
 
 ![Exhibit 1: Caribbean Aframax Seasonal Hike Ahead?](../../../charts/poten/2013/poten_2013-10-24_caribbean-aframax-seasonal-hike-ahead_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2013/poten_2013-10-24_caribbean-aframax-seasonal-hike-ahead_chart1.png)
+> **Interactive Asset:** [Local Asset (200 DPI PNG)](../../../charts/poten/2013/poten_2013-10-24_caribbean-aframax-seasonal-hike-ahead_chart1.png)
 
-![Exhibit 2: Caribbean Aframax Seasonal Hike Ahead?](../../../charts/poten/2013/poten_2013-10-24_caribbean-aframax-seasonal-hike-ahead_chart2.png)
+![Exhibit 2: PADD3 Turnaround window several weeks later than in 2011-12](../../../charts/poten/2013/poten_2013-10-24_caribbean-aframax-seasonal-hike-ahead_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2013/poten_2013-10-24_caribbean-aframax-seasonal-hike-ahead_chart2.png)
+> **Exhibit 2: PADD3 Turnaround window several weeks later than in 2011-12**  
+> Unit: PADD 3 Utilization Rate % · X-axis: 14-Jan to 14-Dec  
+> Series: Y2011, Y2012, Y2013  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2013/poten_2013-10-24_caribbean-aframax-seasonal-hike-ahead_chart2.png)

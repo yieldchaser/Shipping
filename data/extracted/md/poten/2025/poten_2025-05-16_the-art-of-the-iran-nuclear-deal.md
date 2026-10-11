@@ -28,10 +28,17 @@ One thing seems certain. Once international owners are comfortable again to load
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: The Art Of The Iran Nuclear Deal](../../../charts/poten/2025/poten_2025-05-16_the-art-of-the-iran-nuclear-deal_chart1.png)
+![Exhibit 1: Iranian Crude Oil Exports by Destination](../../../charts/poten/2025/poten_2025-05-16_the-art-of-the-iran-nuclear-deal_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2025/poten_2025-05-16_the-art-of-the-iran-nuclear-deal_chart1.png)
+> **Exhibit 1: Iranian Crude Oil Exports by Destination**  
+> Unit: Kb/d · X-axis: Jan-16 to Jan-25  
+> Series: China, India, South Korea, United Arab Emirates, Turkey, Syria, Japan, Italy, Other  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2025/poten_2025-05-16_the-art-of-the-iran-nuclear-deal_chart1.png)
 
-![Exhibit 2: The Art Of The Iran Nuclear Deal](../../../charts/poten/2025/poten_2025-05-16_the-art-of-the-iran-nuclear-deal_chart2.png)
+![Exhibit 2: Iranian Rogue Fleet](../../../charts/poten/2025/poten_2025-05-16_the-art-of-the-iran-nuclear-deal_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2025/poten_2025-05-16_the-art-of-the-iran-nuclear-deal_chart2.png)
+> **Exhibit 2: Iranian Rogue Fleet**  
+> Unit: Number of vessels  
+> Series: VLCC, Suezmax, Aframax, LR2, Panamax, LR1, MR, Handy, Tiny, Other  
+> *Source: Vortexa; UANI*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2025/poten_2025-05-16_the-art-of-the-iran-nuclear-deal_chart2.png)

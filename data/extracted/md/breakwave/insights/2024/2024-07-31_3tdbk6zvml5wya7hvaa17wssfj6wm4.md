@@ -36,10 +36,10 @@ Shifting to volumes, crude oil exports from Kuwait averaged 5,587 kt in 2024 on 
 
 Assuming that these trends will continue, with CPP exports maintaining their upward trajectory and crude oil exports gradually rebounding in light of the new field discovery, it is expected that overall exports out of Kuwait will increase, be it crude or clean products. This surge in exports is likely to drive higher demand for tankers in the region, particularly for MRs to accommodate the increased volume of refined products and Suezmaxes and VLCCs to facilitate crude oil volumes.
 
-![Στιγμιότυπο Οθόνης 2024 07 31 103805](assets/2024-07-31_3tdbk6zvml5wya7hvaa17wssfj6wm4_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_62881f2cb671.png)
+![Στιγμιότυπο Οθόνης 2024 07 31 103805](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-07-31_3tdbk6zvml5wya7hvaa17wssfj6wm4_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_62881f2cb671.png)
 
 > **Figure 1: Στιγμιότυπο Οθόνης 2024 07 31 103805**  
-> **Interactive Data & Source:** [Intermodal](https://www.intermodal.gr/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-07-31_3tdbk6zvml5wya7hvaa17wssfj6wm4_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_62881f2cb671.png)
+> **Interactive Data & Source:** [Intermodal](https://www.intermodal.gr/) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-07-31_3tdbk6zvml5wya7hvaa17wssfj6wm4_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_62881f2cb671.png)
 
 Data Source:[Intermodal](https://www.intermodal.gr/)
 

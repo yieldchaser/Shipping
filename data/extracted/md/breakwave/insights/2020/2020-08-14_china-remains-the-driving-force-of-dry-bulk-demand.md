@@ -19,11 +19,11 @@ source_file: "corpus/03-breakwave/insights/2020/2020-08-14_china-remains-the-dri
 
 ---
 
-![“The Consumption of Steel in July Was Underpinned by Demand For](assets/2020-08-14_china-remains-the-driving-force-of-dry-bulk-demand_img_image-asset_f8b35fe6ac15.jpeg)
+![“The Consumption of Steel in July Was Underpinned by Demand For](../../../../../../corpus/03-breakwave/insights/2020/assets/2020-08-14_china-remains-the-driving-force-of-dry-bulk-demand_img_image-asset_f8b35fe6ac15.jpeg)
 
 > **Figure 1: “The Consumption of Steel in July Was Underpinned by Demand For**  
 > *“The consumption of steel in July was underpinned by demand for flat steel products used in products from cars and appliances, even as heavy rain hurt demand for steel products used in construction activities.*  
-> **Interactive Data & Source:** [Reuters](https://www.reuters.com/article/us-china-economy-output-steel/china-produces-record-crude-steel-in-july-on-strong-demand-idUSKCN25A0EP) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2020/assets/2020-08-14_china-remains-the-driving-force-of-dry-bulk-demand_img_image-asset_f8b35fe6ac15.jpeg)
+> **Interactive Data & Source:** [Reuters](https://www.reuters.com/article/us-china-economy-output-steel/china-produces-record-crude-steel-in-july-on-strong-demand-idUSKCN25A0EP) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2020/assets/2020-08-14_china-remains-the-driving-force-of-dry-bulk-demand_img_image-asset_f8b35fe6ac15.jpeg)
 
 Yesterday, China released some quite impressive infrastructure-related economic numbers that once again signify the importance of Chinese demand in the recent resurgence in dry bulk rates. China’s steel complex remains stronger that ever, and with that, demand for iron ore also remains the highest ever. Adding the relatively low inventory levels of iron ore and the potential for resurfacing bulk demand elsewhere, and dry bulk has a lot going on for the rest of the year.
 
@@ -35,20 +35,20 @@ As[Reuters describes](https://www.reuters.com/article/us-china-economy-output-st
 
 And it is easy to see how China is driving dry bulk demand this year. Looking at the three most shipping-intensive dry commodities, iron ore, coal and soybeans, the last few months have seen**record high import volumes into China**, far surpassing the previous highs.
 
-![China Imports](assets/2020-08-14_china-remains-the-driving-force-of-dry-bulk-demand_img_chinaimports_b0af037c9ed8.png)
+![China Imports](../../../../../../corpus/03-breakwave/insights/2020/assets/2020-08-14_china-remains-the-driving-force-of-dry-bulk-demand_img_chinaimports_b0af037c9ed8.png)
 
 > **Figure 2: China Imports**  
-> **Interactive Data & Source:** [Argusmedia](https://www.argusmedia.com/en/news/2132400-iron-ores-share-of-china-steel-costs-hits-new-high?backToResults=true) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2020/assets/2020-08-14_china-remains-the-driving-force-of-dry-bulk-demand_img_chinaimports_b0af037c9ed8.png)
+> **Interactive Data & Source:** [Argusmedia](https://www.argusmedia.com/en/news/2132400-iron-ores-share-of-china-steel-costs-hits-new-high?backToResults=true) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2020/assets/2020-08-14_china-remains-the-driving-force-of-dry-bulk-demand_img_chinaimports_b0af037c9ed8.png)
 
 Although other areas ex-China have recorded sharp declines in imports due to COVID-19, the mere size of the Chinese increases combined with the ton-mile impact of such trade, has had a considerable positive effect on freight rates that few would have predicted a few months back (as a reminder, three months ago the third quarter Capesize futures contract was trading below 10,000 and now half way into the quarter it stands at roughly 23,000).
 
 **Steel demand in China remains also at record high levels**, boosted by construction and appliance demand as well as a resurgence in automobile manufacturing (although one has to remember this comes from a low base as the car manufacturing segment has been in a technical recession in China for the last 18 months or so).
 
-![“Chinese Domestic Steel Demand Appears to Have Been Bolstered By](assets/2020-08-14_china-remains-the-driving-force-of-dry-bulk-demand_img_chinasteeldemand_c7c04a70c749.png)
+![“Chinese Domestic Steel Demand Appears to Have Been Bolstered By](../../../../../../corpus/03-breakwave/insights/2020/assets/2020-08-14_china-remains-the-driving-force-of-dry-bulk-demand_img_chinasteeldemand_c7c04a70c749.png)
 
 > **Figure 3: “Chinese Domestic Steel Demand Appears to Have Been Bolstered By**  
 > *“Chinese domestic steel demand appears to have been bolstered by the government expediting approvals for infrastructure projects, such as airports and rail links which were scheduled pre-pandemic, and more recently, we have seen an uptick in steel procurement for infrastructure projects facilitated by the special bonds issued in May. The Chinese steel market has become such an outlier in the global economy that it has become a target for other steel producing countries to sell to, withChina becoming a net importerof steel for the first time in 11 years in June.”*  
-> **Interactive Data & Source:** [Argusmedia](https://www.argusmedia.com/en/news/2132400-iron-ores-share-of-china-steel-costs-hits-new-high?backToResults=true) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2020/assets/2020-08-14_china-remains-the-driving-force-of-dry-bulk-demand_img_chinasteeldemand_c7c04a70c749.png)
+> **Interactive Data & Source:** [Argusmedia](https://www.argusmedia.com/en/news/2132400-iron-ores-share-of-china-steel-costs-hits-new-high?backToResults=true) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2020/assets/2020-08-14_china-remains-the-driving-force-of-dry-bulk-demand_img_chinasteeldemand_c7c04a70c749.png)
 
 Braemar has some more color to add on China’s steel demand:
 
@@ -56,10 +56,10 @@ The relentless demand for iron ore this year has also pushed iron ore prices to 
 
 ### Chart: Ratio of Iron Ore Price to Coking Coal Price
 
-![Source: Argus](assets/2020-08-14_china-remains-the-driving-force-of-dry-bulk-demand_img_ironoretocokingcoal_a218d0fccda7.jpg)
+![Source: Argus](../../../../../../corpus/03-breakwave/insights/2020/assets/2020-08-14_china-remains-the-driving-force-of-dry-bulk-demand_img_ironoretocokingcoal_a218d0fccda7.jpg)
 
 > **Figure 4: Source: Argus**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2020/assets/2020-08-14_china-remains-the-driving-force-of-dry-bulk-demand_img_ironoretocokingcoal_a218d0fccda7.jpg)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2020/assets/2020-08-14_china-remains-the-driving-force-of-dry-bulk-demand_img_ironoretocokingcoal_a218d0fccda7.jpg)
 
 source: Argus
 

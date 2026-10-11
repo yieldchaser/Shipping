@@ -96,6 +96,3 @@ While it is difficult to say what the exact results of the financial crisis will
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: Tankers Still Afloat](../../../charts/poten/2008/poten_2008-10-24_tankers-still-afloat_chart1.png)
-
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2008/poten_2008-10-24_tankers-still-afloat_chart1.png)

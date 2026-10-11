@@ -30,10 +30,18 @@ A 250,000 b/d reduction in availability of Indonesian crude means that regional 
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: Indonesia Talks Turkey](../../../charts/poten/2018/poten_2018-08-17_indonesia-talks-turkey_chart1.png)
+![Exhibit 1: Indonesian Crude Oil Exports by Destination](../../../charts/poten/2018/poten_2018-08-17_indonesia-talks-turkey_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2018/poten_2018-08-17_indonesia-talks-turkey_chart1.png)
+> **Exhibit 1: Indonesian Crude Oil Exports by Destination**  
+> Unit: Kb/d · X-axis: Jan-14 to Jul-18  
+> Series: Thailand, China, Singapore, Other Asia, USWC, Other  
+> *Source: Lloyd’s List Intelligence*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2018/poten_2018-08-17_indonesia-talks-turkey_chart1.png)
 
-![Exhibit 2: Indonesia Talks Turkey](../../../charts/poten/2018/poten_2018-08-17_indonesia-talks-turkey_chart2.png)
+![Exhibit 2: Indonesian Crude Oil Imports by Origin](../../../charts/poten/2018/poten_2018-08-17_indonesia-talks-turkey_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2018/poten_2018-08-17_indonesia-talks-turkey_chart2.png)
+> **Exhibit 2: Indonesian Crude Oil Imports by Origin**  
+> Unit: Kb/d · X-axis: Jan-14 to Jul-18  
+> Series: Middle East, WAF, Asia/Oceania, Med, Americas (Atl), NW Europe, WC S.Am.  
+> *Source: Lloyd’s List Intelligence*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2018/poten_2018-08-17_indonesia-talks-turkey_chart2.png)

@@ -28,19 +28,19 @@ Using our AIS tracking of iron ore trade and our extensive fleet database we can
 
 The first of these is the relatively young fleet that these companies employ. Around 48% of today’s Cape fleet is aged 10 years or older, but in contrast just under 80% of vessels employed by most of the major shippers so far this year have been under the age of 10 years. The median age of the Capesize fleet is around 10 years, but those hauling ore for these producers have a median age of around 7.5 years.
 
-![Bmr 5](assets/2020-10-02_the-iron-ore-market-changing-strategies_img_bmr5_506557af19b4.png)
+![Bmr 5](../../../../../../corpus/03-breakwave/insights/2020/assets/2020-10-02_the-iron-ore-market-changing-strategies_img_bmr5_506557af19b4.png)
 
 > **Figure 1: Bmr 5**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2020/assets/2020-10-02_the-iron-ore-market-changing-strategies_img_bmr5_506557af19b4.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2020/assets/2020-10-02_the-iron-ore-market-changing-strategies_img_bmr5_506557af19b4.png)
 
 Most of these companies are publicly listed and over the past few years they have all placed a greater emphasis on utilising ships which are more efficient and offer lower carbon dioxide emissions. For example, some utilize the RightShip Greenhouse Gas (GHG) rating system, which gives preference to vessels with a better fuel economy. This in part drives their disproportionate use of modern ships.
 
 For Brazil’s exports, we’ve seen a dramatic change in the age profile of ships used. In 2015, across shipments from all Brazilian iron ore charterers, 20% of voyages were made on vessels over 14 years old, while so far this year, only around 9% of liftings have been made on ships this old. Meanwhile 80% of shipments in 2020 to date have used vessels under the age of 10.5.
 
-![Bmr 6](assets/2020-10-02_the-iron-ore-market-changing-strategies_img_bmr6_995527e2e6ea.png)
+![Bmr 6](../../../../../../corpus/03-breakwave/insights/2020/assets/2020-10-02_the-iron-ore-market-changing-strategies_img_bmr6_995527e2e6ea.png)
 
 > **Figure 2: Bmr 6**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2020/assets/2020-10-02_the-iron-ore-market-changing-strategies_img_bmr6_995527e2e6ea.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2020/assets/2020-10-02_the-iron-ore-market-changing-strategies_img_bmr6_995527e2e6ea.png)
 
 ### Dedicated Fleets
 
@@ -62,10 +62,10 @@ We also see many of these charterers gaining a competitive edge and becoming mor
 
 But more recently Vale and others have begun selling ore from blending facilities in China, in ports such as Dalian, Yantai, becoming even closer to the market. It’s tough to gauge these volumes exactly, but we’ve seen Capesize liftings from these hubs to nearby countries such as Japan, South Korea and Vietnam gradually pick up since 2017. These Cape shipments increased by 70% YoY last year to almost 6m tonnes, and are on track to settle at around 5.7m tonnes this year. This is on top of about 6.2m tonnes of Panamax iron ore cargoes from Chinese berths to other countries.
 
-![Bmr 7](assets/2020-10-02_the-iron-ore-market-changing-strategies_img_bmr7_e34c569e98a5.png)
+![Bmr 7](../../../../../../corpus/03-breakwave/insights/2020/assets/2020-10-02_the-iron-ore-market-changing-strategies_img_bmr7_e34c569e98a5.png)
 
 > **Figure 3: Bmr 7**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2020/assets/2020-10-02_the-iron-ore-market-changing-strategies_img_bmr7_e34c569e98a5.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2020/assets/2020-10-02_the-iron-ore-market-changing-strategies_img_bmr7_e34c569e98a5.png)
 
 ### Margin Over Volume
 
@@ -73,10 +73,10 @@ With demand growth in the iron ore market slowing over the past few years, many 
 
 A recurring theme in these companies’ production reports is a reluctance to oversupply the market with material and squash iron ore prices, and this has been reflected in shipped volumes. On a quarterly average basis, shipments during 2019 and 2020 so far have remained virtually flat on 2017’s average, and are only 3.5% higher than over 2016.
 
-![Bmr 8](assets/2020-10-02_the-iron-ore-market-changing-strategies_img_bmr8_e34c569e98a5.png)
+![Bmr 8](../../../../../../corpus/03-breakwave/insights/2020/assets/2020-10-02_the-iron-ore-market-changing-strategies_img_bmr8_e34c569e98a5.png)
 
 > **Figure 4: Bmr 8**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2020/assets/2020-10-02_the-iron-ore-market-changing-strategies_img_bmr8_e34c569e98a5.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2020/assets/2020-10-02_the-iron-ore-market-changing-strategies_img_bmr8_e34c569e98a5.png)
 
 While we see some growth in capacity from these producers in the pipeline, we expect it to be limited relative to previous years and production guidance for the coming year is somewhat lacklustre. Going forward, we expect the majority of demand growth to come from smaller producers and other commodities.
 

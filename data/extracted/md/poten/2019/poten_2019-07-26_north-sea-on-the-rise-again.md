@@ -26,10 +26,18 @@ Future increases in crude oil production and exports from the North Sea, especia
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: North Sea On The Rise Again](../../../charts/poten/2019/poten_2019-07-26_north-sea-on-the-rise-again_chart1.png)
+![Exhibit 1: Crude Oil Production (Norway & UK)](../../../charts/poten/2019/poten_2019-07-26_north-sea-on-the-rise-again_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2019/poten_2019-07-26_north-sea-on-the-rise-again_chart1.png)
+> **Exhibit 1: Crude Oil Production (Norway & UK)**  
+> Unit: Mb/d · X-axis: 2010 to 2024  
+> Series: Norway, UK  
+> *Source: IEA*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2019/poten_2019-07-26_north-sea-on-the-rise-again_chart1.png)
 
-![Exhibit 2: North Sea On The Rise Again](../../../charts/poten/2019/poten_2019-07-26_north-sea-on-the-rise-again_chart2.png)
+![Exhibit 2: North Sea Volumes Loaded by Vessel Class](../../../charts/poten/2019/poten_2019-07-26_north-sea-on-the-rise-again_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2019/poten_2019-07-26_north-sea-on-the-rise-again_chart2.png)
+> **Exhibit 2: North Sea Volumes Loaded by Vessel Class**  
+> Unit: Mb/d · X-axis: Jan-14 to Jun-19  
+> Series: Aframax, Suezmax, VLCC, Other  
+> *Source: Lloyd’s List Intelligence*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2019/poten_2019-07-26_north-sea-on-the-rise-again_chart2.png)

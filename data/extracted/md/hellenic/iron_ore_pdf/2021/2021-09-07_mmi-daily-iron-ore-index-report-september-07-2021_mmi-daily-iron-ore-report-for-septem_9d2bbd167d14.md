@@ -173,6 +173,8 @@ DCE iron ore futures rose slightly today, the spot price in the morning has decr
 | **Seaborne** | **0.01% Phosphorus** | High Fe Grade 0.115%\<P<0.15% | 0.25 | USD/dry tonne | +0.00 |
 
 ## Historical Iron Ore Index Comparisons (USD/DMT)
+> **Approximate.** The report prints no numbers for this chart. Values were read visually from the chart image by the parser and are rough estimates.
+
 | Date | IOSI62 (USD/DMT) | IOPi62 CFR Eq (USD/DMT) | IOSI65 (USD/DMT) | IOPi65 CFR Eq (USD/DMT) |
 | :--- | :--- | :--- | :--- | :--- |
 | 19-Sep-20 | 120.00 | 120.00 | 125.00 | 125.00 |
@@ -205,6 +207,8 @@ DCE iron ore futures rose slightly today, the spot price in the morning has decr
 | **SGX** | **Sep. 21** | USD/DMT | 136.45 | +6.10 | +4.68% | 2.24 | 173.62 | 130.54 | 137.60 |
 
 ## Dry Bulk Freight Rates Historical Line Data (USD/MT)
+> **Approximate.** The report prints no numbers for this chart. Values were read visually from the chart image by the parser and are rough estimates.
+
 | Date | C5 W. Australia - Qingdao (USD/MT) | C3 Tubarao - Qingdao (USD/MT) |
 | :--- | :--- | :--- |
 | 31-Jul-20 | 8.00 | 17.00 |
@@ -223,6 +227,8 @@ DCE iron ore futures rose slightly today, the spot price in the morning has decr
 | 31-Aug-21 | 15.00 | 35.00 |
 
 ## Total China Iron Ore Import Volumes (Million Tonnes)
+> **Approximate.** The report prints no numbers for this chart. Values were read visually from the chart image by the parser and are rough estimates.
+
 | Month / Period | Import Volume (Million Tonnes) |
 | :--- | :--- |
 | Jul-20 | 112.00 |

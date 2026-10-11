@@ -44,17 +44,17 @@ The One Big Beautiful Bill Act is the law. It will likely add around $3.4tn to t
 
 In this environment, equities have chosen to believe that trade will resume as normal. Excluding the Dollar effect, which drags down all returns for non-US investors, global equities are up 10% since the beginning of the year.
 
-![Market Chart 1](assets/2025-07-15_tacos-are-junk-food-diversification-is-salad_img_image00528129_aceb92ddcb01.jpg)
+![Market Chart 1](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-07-15_tacos-are-junk-food-diversification-is-salad_img_image00528129_aceb92ddcb01.jpg)
 
 > **Figure 1: Market Chart 1**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-07-15_tacos-are-junk-food-diversification-is-salad_img_image00528129_aceb92ddcb01.jpg)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-07-15_tacos-are-junk-food-diversification-is-salad_img_image00528129_aceb92ddcb01.jpg)
 
 And global bond markets have somehow shrugged off previous concerns about mounting US debt, or even the threat of loss of the central bank’s independence, which they previously fretted (and which would all other things being equal be inflationary).
 
-![Market Chart 2](assets/2025-07-15_tacos-are-junk-food-diversification-is-salad_img_image00628129_37073f008cf4.jpg)
+![Market Chart 2](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-07-15_tacos-are-junk-food-diversification-is-salad_img_image00628129_37073f008cf4.jpg)
 
 > **Figure 2: Market Chart 2**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-07-15_tacos-are-junk-food-diversification-is-salad_img_image00628129_37073f008cf4.jpg)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-07-15_tacos-are-junk-food-diversification-is-salad_img_image00628129_37073f008cf4.jpg)
 
 We are still very much in the phase of negotiating, where tariff threats don’t necessarily reflect end outcomes and where deadlines are not set in stone. Financial markets have begun to assume that they can finally analyse and predict the psychosynthesis of the Oval Office, what is affectionately known as the ‘TACO trade’. They are essentially forecasting that stock market losses or economic malaise will be enough to deter the White House and that a few UK-style business deals will suffice for the trade wars to be over.
 
@@ -69,17 +69,17 @@ The first force demands action, the second force provides just that, even if it 
 
 The fact that we are entering July, the first of the “bad three months” for US large caps (the others are September and October), also adds the risk of additional seasonal forces against complacency.
 
-![Market Chart 3](assets/2025-07-15_tacos-are-junk-food-diversification-is-salad_img_image00728129_7a8cb6ebafd0.jpg)
+![Market Chart 3](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-07-15_tacos-are-junk-food-diversification-is-salad_img_image00728129_7a8cb6ebafd0.jpg)
 
 > **Figure 3: Market Chart 3**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-07-15_tacos-are-junk-food-diversification-is-salad_img_image00728129_7a8cb6ebafd0.jpg)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-07-15_tacos-are-junk-food-diversification-is-salad_img_image00728129_7a8cb6ebafd0.jpg)
 
 When things are looking very bad, experienced managers look for opportunities. And when markets are very expensive and optimistic about the future, it is their job to ask, “How much potential bad news is priced in?”.
 
-![Market Chart 4](assets/2025-07-15_tacos-are-junk-food-diversification-is-salad_img_image00828129_2c80de1e270a.jpg)
+![Market Chart 4](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-07-15_tacos-are-junk-food-diversification-is-salad_img_image00828129_2c80de1e270a.jpg)
 
 > **Figure 4: Market Chart 4**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-07-15_tacos-are-junk-food-diversification-is-salad_img_image00828129_2c80de1e270a.jpg)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-07-15_tacos-are-junk-food-diversification-is-salad_img_image00828129_2c80de1e270a.jpg)
 
 Because of the wide range of outcomes, portfolios need to remain diversified, and managers need to remember that currency is a significant contributor to portfolio returns, especially at a time when the US seeks to monetise some of its debt. Similarly, businesses should seek to take advantage of trade war deferrals, build more robust supply chains and consider where they need to invest more in inventory.
 

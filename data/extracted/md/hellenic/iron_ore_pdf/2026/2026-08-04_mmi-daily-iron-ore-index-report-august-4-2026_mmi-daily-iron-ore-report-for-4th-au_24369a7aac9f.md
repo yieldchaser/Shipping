@@ -173,25 +173,27 @@ Today, the DCE iron ore futures showed weakness today. The most-traded DCE i2609
 | **Port Stock** | **0.01% Phosphorus** | Low Fe Grade 0.09\<P<0.1% | 5.00 | RMB/wet tonne | -1.00 |
 
 ## Historical Iron Ore Index Comparisons (USD/DMT)
+> **Estimate.** The report prints no numbers for this chart. Values are computed from the chart's vector geometry at each x-axis date label (calibrated on the printed axis ticks; typically within 1% of the axis range).
+
 | Date | IOSI62 (USD/DMT) | IOPi62 CFR Eq (USD/DMT) | IOSI65 (USD/DMT) | IOPi65 CFR Eq (USD/DMT) |
 | :--- | :--- | :--- | :--- | :--- |
-| 4-Jan-21 | 160.00 | 170.00 | 175.00 | 165.00 |
-| 4-May-21 | 270.00 | 265.00 | 275.00 | 260.00 |
-| 4-Sep-21 | 70.00 | 80.00 | 75.00 | 85.00 |
-| 4-Jan-22 | 140.00 | 150.00 | 145.00 | 155.00 |
-| 4-May-22 | 130.00 | 140.00 | 135.00 | 145.00 |
-| 4-Sep-22 | 80.00 | 90.00 | 85.00 | 95.00 |
-| 4-Jan-23 | 120.00 | 130.00 | 125.00 | 135.00 |
-| 4-May-23 | 115.00 | 125.00 | 110.00 | 120.00 |
-| 4-Sep-23 | 130.00 | 140.00 | 125.00 | 135.00 |
-| 4-Jan-24 | 100.00 | 110.00 | 105.00 | 115.00 |
-| 4-May-24 | 90.00 | 100.00 | 85.00 | 95.00 |
-| 4-Sep-24 | 85.00 | 95.00 | 80.00 | 90.00 |
-| 4-Jan-25 | 80.00 | 90.00 | 75.00 | 85.00 |
-| 4-May-25 | 82.00 | 92.00 | 77.00 | 87.00 |
-| 4-Sep-25 | 84.00 | 94.00 | 79.00 | 89.00 |
-| 4-Jan-26 | 86.00 | 96.00 | 81.00 | 91.00 |
-| 4-May-26 | 88.00 | 98.00 | 83.00 | 93.00 |
+| 4-Jan-21 | 171.54 | 164.36 | 185.90 | 175.64 |
+| 4-May-21 | 192.05 | 190.03 | 228.97 | 226.96 |
+| 4-Sep-21 | 158.20 | 157.18 | 184.87 | 194.10 |
+| 4-Jan-22 | 124.35 | 117.18 | 131.54 | 146.92 |
+| 4-May-22 | 148.96 | 145.88 | 173.57 | 170.49 |
+| 4-Sep-22 | 103.82 | 99.75 | 112.04 | 118.20 |
+| 4-Jan-23 | 114.10 | 114.10 | 129.49 | 129.49 |
+| 4-May-23 | 126.31 | 111.03 | 121.77 | 126.41 |
+| 4-Sep-23 | 105.90 | 120.26 | 126.41 | 135.64 |
+| 4-Jan-24 | 141.79 | 139.74 | 167.44 | 155.13 |
+| 4-May-24 | 120.77 | 118.20 | 134.61 | 133.59 |
+| 4-Sep-24 | 97.70 | 95.66 | 104.91 | 111.04 |
+| 4-Jan-25 | 99.72 | 99.73 | 109.98 | 114.10 |
+| 4-May-25 | 99.75 | 98.72 | 108.98 | 114.10 |
+| 4-Sep-25 | 107.95 | 103.85 | 122.31 | 119.23 |
+| 4-Jan-26 | 105.90 | 107.95 | 121.28 | 119.23 |
+| 4-May-26 | 108.97 | 106.92 | 126.41 | 129.49 |
 
 ---
 
@@ -216,47 +218,69 @@ Today, the DCE iron ore futures showed weakness today. The most-traded DCE i2609
 | **SGX** | **Sep. 26** | USD/DMT | 93.85 | +0.00 | +0.00% | 9.19 | 47.12 | 92.85 | 94.20 |
 
 ## Dry Bulk Freight Rates Historical Line Data (USD/MT)
+> **Estimate.** The report prints no numbers for this chart. Values are computed from the chart's vector geometry at each x-axis date label (calibrated on the printed axis ticks; typically within 1% of the axis range).
+
 | Date | C5 W. Australia - Qingdao (USD/MT) | C3 Tubarao - Qingdao (USD/MT) |
 | :--- | :--- | :--- |
-| 4-Jan-21 | 15.00 | 18.00 |
-| 4-May-21 | 8.00 | 20.00 |
-| 4-Sep-21 | 48.00 | 48.00 |
-| 4-Jan-22 | 18.00 | 22.00 |
-| 4-May-22 | 16.00 | 18.00 |
-| 4-Sep-22 | 17.00 | 17.00 |
-| 4-Jan-23 | 16.00 | 17.00 |
-| 4-May-23 | 8.00 | 16.00 |
-| 4-Sep-23 | 10.00 | 17.00 |
-| 4-Jan-24 | 12.00 | 18.00 |
-| 4-May-24 | 10.00 | 17.00 |
-| 4-Sep-24 | 9.00 | 16.00 |
-| 4-Jan-25 | 8.00 | 15.00 |
-| 4-May-25 | 8.00 | 15.00 |
-| 4-Sep-25 | 10.00 | 16.00 |
-| 4-Jan-26 | 12.00 | 32.00 |
-| 4-May-26 | 12.00 | 33.00 |
+| 4-Jan-21 | 8.92 | 15.35 |
+| 4-May-21 | 14.51 | 30.72 |
+| 4-Sep-21 | 13.68 | 33.24 |
+| 4-Jan-22 | 8.92 | 22.34 |
+| 4-May-22 | 12.00 | 25.70 |
+| 4-Sep-22 | 8.92 | 19.54 |
+| 4-Jan-23 | 7.53 | 18.99 |
+| 4-May-23 | 8.64 | 22.62 |
+| 4-Sep-23 | 7.81 | 18.98 |
+| 4-Jan-24 | 10.05 | 29.31 |
+| 4-May-24 | 10.32 | 25.69 |
+| 4-Sep-24 | 11.44 | 27.65 |
+| 4-Jan-25 | 6.96 | 17.86 |
+| 4-May-25 | 7.81 | 19.27 |
+| 4-Sep-25 | 10.04 | 24.01 |
+| 4-Jan-26 | 8.46 | 22.52 |
+| 4-May-26 | 14.24 | 34.64 |
 
 ## Total China Iron Ore Import Volumes (Million Tonnes)
+> **Estimate.** The report prints no numbers for this chart. Values are computed from the chart's vector geometry at each x-axis date label (calibrated on the printed axis ticks; typically within 1% of the axis range).
+
 | Month / Period | Import Volume (Million Tonnes) |
 | :--- | :--- |
-| Jun-23 | 95.00 |
-| Aug-23 | 105.00 |
-| Oct-23 | 100.00 |
-| Dec-23 | 110.00 |
-| Feb-24 | 98.00 |
-| Apr-24 | 102.00 |
-| Jun-24 | 104.00 |
-| Aug-24 | 105.00 |
-| Oct-24 | 110.00 |
-| Dec-24 | 112.00 |
-| Feb-25 | 94.00 |
-| Apr-25 | 100.00 |
-| Jun-25 | 106.00 |
-| Aug-25 | 115.00 |
-| Oct-25 | 118.00 |
-| Dec-25 | 120.00 |
-| Feb-26 | 98.00 |
-| Apr-26 | 97.00 |
+| Jun-23 | 95.63 |
+| Jul-23 | 93.35 |
+| Aug-23 | 106.27 |
+| Sep-23 | 101.21 |
+| Oct-23 | 99.43 |
+| Nov-23 | 102.73 |
+| Dec-23 | 100.95 |
+| Jan-24 | 111.85 |
+| Feb-24 | 97.41 |
+| Mar-24 | 100.70 |
+| Apr-24 | 101.71 |
+| May-24 | 101.97 |
+| Jun-24 | 97.66 |
+| Jul-24 | 102.73 |
+| Aug-24 | 101.46 |
+| Sep-24 | 103.99 |
+| Oct-24 | 103.74 |
+| Nov-24 | 101.97 |
+| Dec-24 | 112.35 |
+| Jan-25 | 97.15 |
+| Feb-25 | 94.11 |
+| Mar-25 | 93.86 |
+| Apr-25 | 103.23 |
+| May-25 | 98.17 |
+| Jun-25 | 106.02 |
+| Jul-25 | 104.50 |
+| Aug-25 | 105.26 |
+| Sep-25 | 116.40 |
+| Oct-25 | 111.34 |
+| Nov-25 | 110.58 |
+| Dec-25 | 119.70 |
+| Jan-26 | 112.35 |
+| Feb-26 | 97.66 |
+| Mar-26 | 104.75 |
+| Apr-26 | 103.74 |
+| May-26 | 97.66 |
 
 ---
 

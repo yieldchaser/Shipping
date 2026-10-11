@@ -30,10 +30,10 @@ With this in mind, such a discussion could serve as a negotiation tool against C
 
 Ultimately, while the proposed measures could serve as a bargaining chip in U.S.-China negotiations, their practical implementation remains complex, with potentially far-reaching consequences for both the U.S. economy and global trade stability.
 
-![Στιγμιότυπο Οθόνης 2025 03 05 145357](assets/2025-03-05_the-impact-of-proposed-tariffs_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_6d3ea291a732.png)
+![Στιγμιότυπο Οθόνης 2025 03 05 145357](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-03-05_the-impact-of-proposed-tariffs_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_6d3ea291a732.png)
 
 > **Figure 1: Στιγμιότυπο Οθόνης 2025 03 05 145357**  
-> **Interactive Data & Source:** [Intermodal](https://www.intermodal.gr/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-03-05_the-impact-of-proposed-tariffs_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_6d3ea291a732.png)
+> **Interactive Data & Source:** [Intermodal](https://www.intermodal.gr/) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-03-05_the-impact-of-proposed-tariffs_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_6d3ea291a732.png)
 
 Data Source:[Intermodal](https://www.intermodal.gr/)
 

@@ -33,7 +33,7 @@ Policy changes in this particular economy are especially relevant to the dry mar
 ![Nick 1](assets/2021-03-19_the-big-picture-chinese-economic-policy_img_nick1_73e07cee538a.png)
 
 > **Figure 1: Nick 1**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2021/assets/2021-03-19_the-big-picture-chinese-economic-policy_img_nick1_73e07cee538a.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-03-19_the-big-picture-chinese-economic-policy_img_nick1_73e07cee538a.png)
 
 ### No Gdp Targets
 
@@ -44,7 +44,7 @@ This time, officials will only set GDP targets annually, giving them more flexib
 ![Nick 2](assets/2021-03-19_the-big-picture-chinese-economic-policy_img_nick2_3afd9fb77ad4.png)
 
 > **Figure 2: Nick 2**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2021/assets/2021-03-19_the-big-picture-chinese-economic-policy_img_nick2_3afd9fb77ad4.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-03-19_the-big-picture-chinese-economic-policy_img_nick2_3afd9fb77ad4.png)
 
 In the 2021-25 plan, authorities seem to have shifted their focus, aiming to keep the share of manufacturing in GDP stable for the next five years. Within this broad aim however, there are other ambitions that could lower the dry bulk needs of this sector.
 
@@ -71,7 +71,7 @@ Authorities have repeatedly stated their aims to limit speculation on housing an
 ![Nick 3](assets/2021-03-19_the-big-picture-chinese-economic-policy_img_nick3_5a5db6bef8f7.png)
 
 > **Figure 3: Nick 3**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2021/assets/2021-03-19_the-big-picture-chinese-economic-policy_img_nick3_5a5db6bef8f7.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-03-19_the-big-picture-chinese-economic-policy_img_nick3_5a5db6bef8f7.png)
 
 Despite last year’s stimulus policies having a positive effect on infrastructure and manufacturing, construction of new homes contracted by 1%. We don’t expect growth to remain in negative territory, but it is likely to remain constrained by these policies.
 

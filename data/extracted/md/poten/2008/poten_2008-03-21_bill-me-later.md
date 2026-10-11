@@ -64,6 +64,7 @@ The liquidity scare in the investment banks should serve as a reminder to shippi
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: Bill Me Later](../../../charts/poten/2008/poten_2008-03-21_bill-me-later_chart1.png)
-
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2008/poten_2008-03-21_bill-me-later_chart1.png)
+> **Chart on PDF page 1: S&P 500 vs. Bear Stearns**  
+> Unit: S&P 500 Index | $ (Bear Stearns Closing Price) · X-axis: 1/3/08 to 3/14/08  
+> Series: S&P 500, Bear Stearns (BSC)  
+> *No image crop of this chart was saved; caption read from the PDF.*

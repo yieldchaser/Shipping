@@ -90,6 +90,26 @@ U.S. consumption growth will keep ahead of refinery creep and clean product impo
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: Transatlantic Highs](../../../charts/poten/2005/poten_2005-02-18_transatlantic-highs_chart1.png)
+> **Chart on PDF page 1: U.S. Refinery Output**  
+> Unit: 000 Bpd · X-axis: Jan 07, 2000 to Dec 31, 2004  
+> Series: Gasoil, Gasoline  
+> *Source: DOE/Poten*  
+> *No image crop of this chart was saved; caption read from the PDF.*
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2005/poten_2005-02-18_transatlantic-highs_chart1.png)
+> **Chart on PDF page 2: U.S. Clean Product Imports and Exports**  
+> Unit: 000 Bpd · X-axis: Jan-00 to Jan-05  
+> Series: Clean Imports, Clean Exports  
+> *Source: DOE/Poten*  
+> *No image crop of this chart was saved; caption read from the PDF.*
+
+> **Chart on PDF page 3: Monthly Handymax Clean Spot Fixture Activity Trans-Atlantic Westbound**  
+> Unit: # Fixtures · X-axis: Jan-02 to Jan-05  
+> Series: UKC, Med  
+> *Source: Poten & Partners*  
+> *No image crop of this chart was saved; caption read from the PDF.*
+
+> **Chart on PDF page 4: Monthly Handymax Clean Spot Fixture Activity Trans-Atlantic Eastbound**  
+> Unit: # Fixtures · X-axis: Jan-02 to Jan-05  
+> Series: U.S. Gulf  
+> *Source: Poten & Partners*  
+> *No image crop of this chart was saved; caption read from the PDF.*

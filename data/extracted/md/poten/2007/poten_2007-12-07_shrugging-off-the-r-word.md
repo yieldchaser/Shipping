@@ -64,6 +64,8 @@ The past several decisions of the Federal Reserve Bank (the Fed) have led to red
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: Shrugging-off the R-word](../../../charts/poten/2007/poten_2007-12-07_shrugging-off-the-r-word_chart1.png)
-
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2007/poten_2007-12-07_shrugging-off-the-r-word_chart1.png)
+> **Chart on PDF page 1: Consumer Confidence Index**  
+> X-axis: Jan-02 to Jul-07  
+> Series: Consumer Confidence Index, 2006 Average, 2007 Average, 02-07 YTD Average  
+> *Source: The Conference Board*  
+> *No image crop of this chart was saved; caption read from the PDF.*

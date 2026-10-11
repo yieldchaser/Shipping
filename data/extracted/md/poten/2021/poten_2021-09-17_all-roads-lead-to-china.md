@@ -30,10 +30,18 @@ For many years, China's crude oil imports will continue to be a key source of em
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: All Roads Lead To China](../../../charts/poten/2021/poten_2021-09-17_all-roads-lead-to-china_chart1.png)
+![Exhibit 1: China & U.S. Refinery Intake](../../../charts/poten/2021/poten_2021-09-17_all-roads-lead-to-china_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2021/poten_2021-09-17_all-roads-lead-to-china_chart1.png)
+> **Exhibit 1: China & U.S. Refinery Intake**  
+> Unit: Kb/d · X-axis: Jan-15 to Jul-21  
+> Series: United States of America, China  
+> *Source: JODI*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2021/poten_2021-09-17_all-roads-lead-to-china_chart1.png)
 
-![Exhibit 2: All Roads Lead To China](../../../charts/poten/2021/poten_2021-09-17_all-roads-lead-to-china_chart2.png)
+![Exhibit 2: Crude Import Volumes Into People's Republic of China](../../../charts/poten/2021/poten_2021-09-17_all-roads-lead-to-china_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2021/poten_2021-09-17_all-roads-lead-to-china_chart2.png)
+> **Exhibit 2: Crude Import Volumes Into People's Republic of China**  
+> Unit: Kb/day · X-axis: Jan-16 to Jul-21  
+> Series: Saudi Arabia, Iraq, Oth. M.East, Russia (FE), Oth. Asia, W Africa, Brazil, Oth. Amer. (Atl), Other  
+> *Source: Lloyd’s List Intelligence*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2021/poten_2021-09-17_all-roads-lead-to-china_chart2.png)

@@ -24,10 +24,10 @@ source_file: "corpus/03-breakwave/insights/2025/2025-01-20_brazilian-iron-ore-ex
 
 As we discussed for clients in an earlier Weekly Executive Report, Brazilian iron ore exports most recently totaled 30.7 million tons in December. This marked a month-on-month drop of 3 million tons (-9%), was down year-on-year by 9 million tons (-23%), and marked the lowest monthly volume seen since April. This weakness contributed significantly to the large decline in capesize rates that began in the middle of November last year.
 
-![Chart 1 (1)](assets/2025-01-20_brazilian-iron-ore-exports-grew-again-last-year_img_chart128129_3a3bf947175f.jpg)
+![Chart 1 (1)](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-01-20_brazilian-iron-ore-exports-grew-again-last-year_img_chart128129_3a3bf947175f.jpg)
 
 > **Figure 1: Chart 1 (1)**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-01-20_brazilian-iron-ore-exports-grew-again-last-year_img_chart128129_3a3bf947175f.jpg)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-01-20_brazilian-iron-ore-exports-grew-again-last-year_img_chart128129_3a3bf947175f.jpg)
 
 2024 as a whole, though, saw Brazilian iron ore exports total 390.3 million tons. This marked a year-on-year increase of 10.3 million tons (3%).
 

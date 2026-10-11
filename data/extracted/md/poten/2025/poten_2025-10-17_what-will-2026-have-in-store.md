@@ -28,10 +28,18 @@ The large discrepancy between forecasted oil demand and expected oil supply in 2
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: What Will 2026 Have In Store](../../../charts/poten/2025/poten_2025-10-17_what-will-2026-have-in-store_chart1.png)
+![Exhibit 1: Global Oil Demand / Supply Outlook](../../../charts/poten/2025/poten_2025-10-17_what-will-2026-have-in-store_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2025/poten_2025-10-17_what-will-2026-have-in-store_chart1.png)
+> **Exhibit 1: Global Oil Demand / Supply Outlook**  
+> Unit: Mb/d · X-axis: IEA 2025 to EIA 2026  
+> Series: Demand Growth, Non OPEC Prod Growth, Change in Call on OPEC, OPEC Production Forecast  
+> *Source: IEA, OPEC, EIA*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2025/poten_2025-10-17_what-will-2026-have-in-store_chart1.png)
 
-![Exhibit 2: What Will 2026 Have In Store](../../../charts/poten/2025/poten_2025-10-17_what-will-2026-have-in-store_chart2.png)
+![Exhibit 2: EIA: Global Oil Inventory Additions](../../../charts/poten/2025/poten_2025-10-17_what-will-2026-have-in-store_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2025/poten_2025-10-17_what-will-2026-have-in-store_chart2.png)
+> **Exhibit 2: EIA: Global Oil Inventory Additions**  
+> Unit: Mb/d · X-axis: Jan-20 to Oct-26  
+> Series: OECD, Non-OECD  
+> *Source: EIA*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2025/poten_2025-10-17_what-will-2026-have-in-store_chart2.png)

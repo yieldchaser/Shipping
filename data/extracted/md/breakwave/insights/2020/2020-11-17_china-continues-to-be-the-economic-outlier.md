@@ -26,11 +26,11 @@ Industrial production in China keeps rising, with the data for October showing b
 
 ### Chinese Industrial Production (Monthly Growth Yoy%)
 
-![Source: Trading Economics](assets/2020-11-17_china-continues-to-be-the-economic-outlier_img_ulf70_eee9425226a0.png)
+![Source: Trading Economics](../../../../../../corpus/03-breakwave/insights/2020/assets/2020-11-17_china-continues-to-be-the-economic-outlier_img_ulf70_eee9425226a0.png)
 
 > **Figure 1: Source: Trading Economics**  
 > *Source: Trading Economics*  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2020/assets/2020-11-17_china-continues-to-be-the-economic-outlier_img_ulf70_eee9425226a0.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2020/assets/2020-11-17_china-continues-to-be-the-economic-outlier_img_ulf70_eee9425226a0.png)
 
 Against a backdrop of ever-increasing industrial production in China, the domestic production of coal fell in October compared to the month before and was only marginally higher than a year ago. Despite a desire to build up inventories ahead of the winter, domestic output has been hampered by extensive safety inspections following mining accidents and failed to meet expectations. Currently the coal inventories in the trans-shipment port of Qinhuangdao are around fifteen percent below the minimum levels, as indicated by the main economic planning agency. Hence, imports of coal are likely to see an increase in the near-term, as a continued industrial growth is likely to spur a continued growth in electricity consumption. The current year-on-year increase in electricity production is just below five percent.
 
@@ -38,11 +38,11 @@ With the current, yet unofficial, ban of imports of Australian coal in place, Ch
 
 ### Ice Richards Bay Coal (Usd per Tonne)
 
-![Source: Barchart](assets/2020-11-17_china-continues-to-be-the-economic-outlier_img_ulf71_9c79a9b6b003.png)
+![Source: Barchart](../../../../../../corpus/03-breakwave/insights/2020/assets/2020-11-17_china-continues-to-be-the-economic-outlier_img_ulf71_9c79a9b6b003.png)
 
 > **Figure 2: Source: Barchart**  
 > *Source: Barchart.com*  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2020/assets/2020-11-17_china-continues-to-be-the-economic-outlier_img_ulf71_9c79a9b6b003.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2020/assets/2020-11-17_china-continues-to-be-the-economic-outlier_img_ulf71_9c79a9b6b003.png)
 
 The ban on coal imports from Australia has also seen trade patterns shifting somewhat, with seaborne export volumes in October only down slightly compared to the preceding month. The more distant shores of India, South Korea and Japan have increased their imports of Australian coal, making up for some of the losses associated to the blacklisting in China, while increasing the shipping distances.
 

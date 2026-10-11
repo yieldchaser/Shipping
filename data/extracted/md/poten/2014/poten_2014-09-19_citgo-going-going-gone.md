@@ -32,10 +32,17 @@ So, while a sale of the Citgo refineries could provide a boost to the VLCC marke
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: CITGO: GOING GOING GONE?](../../../charts/poten/2014/poten_2014-09-19_citgo-going-going-gone_chart1.png)
+![Exhibit 1: U.S. Crude Oil Imports From Venezuela](../../../charts/poten/2014/poten_2014-09-19_citgo-going-going-gone_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2014/poten_2014-09-19_citgo-going-going-gone_chart1.png)
+> **Exhibit 1: U.S. Crude Oil Imports From Venezuela**  
+> Unit: B/day (1,000) · X-axis: Jan-2005 to Mar-2014  
+> *Source: EIA*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2014/poten_2014-09-19_citgo-going-going-gone_chart1.png)
 
-![Exhibit 2: CITGO: GOING GOING GONE?](../../../charts/poten/2014/poten_2014-09-19_citgo-going-going-gone_chart2.png)
+![Exhibit 2: Quarterly Reported Spot Fixtures Ex-Caribbean](../../../charts/poten/2014/poten_2014-09-19_citgo-going-going-gone_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2014/poten_2014-09-19_citgo-going-going-gone_chart2.png)
+> **Exhibit 2: Quarterly Reported Spot Fixtures Ex-Caribbean**  
+> Unit: No. VLCC Fixtures | No. Afra Fixtures · X-axis: 2005Q1 to 2014Q1  
+> Series: VLCC Car-Far East, Afra Car-US  
+> *Source: Poten & Partners*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2014/poten_2014-09-19_citgo-going-going-gone_chart2.png)

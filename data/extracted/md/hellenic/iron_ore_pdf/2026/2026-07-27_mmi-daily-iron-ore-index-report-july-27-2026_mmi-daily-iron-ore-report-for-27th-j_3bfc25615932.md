@@ -181,24 +181,27 @@ Recently, iron ore supply has shown an increase. According to SMM statistics, gl
 | **Port Stock** | **0.01% Phosphorus** | Low Fe Grade 0.09\<P<0.1% | 8.00 | RMB/wet tonne | -1.00 |
 
 ## Historical Iron Ore Index Comparisons (USD/DMT)
+> **Estimate.** The report prints no numbers for this chart. Values are computed from the chart's vector geometry at each x-axis date label (calibrated on the printed axis ticks; typically within 1% of the axis range).
+
 | Date | IOSI62 (USD/DMT) | IOPi62 CFR Eq (USD/DMT) | IOSI65 (USD/DMT) | IOPi65 CFR Eq (USD/DMT) |
 | :--- | :--- | :--- | :--- | :--- |
-| 4-Jan-21 | 160.00 | 170.00 | 180.00 | 175.00 |
-| 4-May-21 | 270.00 | 265.00 | 275.00 | 270.00 |
-| 4-Sep-21 | 80.00 | 75.00 | 85.00 | 80.00 |
-| 4-Jan-22 | 140.00 | 135.00 | 145.00 | 140.00 |
-| 4-May-22 | 180.00 | 175.00 | 185.00 | 180.00 |
-| 4-Sep-22 | 85.00 | 80.00 | 90.00 | 85.00 |
-| 4-Jan-23 | 130.00 | 125.00 | 135.00 | 130.00 |
-| 4-May-23 | 145.00 | 140.00 | 150.00 | 145.00 |
-| 4-Sep-23 | 155.00 | 150.00 | 160.00 | 155.00 |
-| 4-Jan-24 | 165.00 | 160.00 | 170.00 | 165.00 |
-| 4-May-24 | 175.00 | 170.00 | 180.00 | 175.00 |
-| 4-Sep-24 | 90.00 | 85.00 | 95.00 | 90.00 |
-| 4-Jan-25 | 100.00 | 95.00 | 105.00 | 100.00 |
-| 4-May-25 | 110.00 | 105.00 | 115.00 | 110.00 |
-| 4-Jan-26 | 115.00 | 110.00 | 120.00 | 115.00 |
-| 4-May-26 | 118.00 | 113.00 | 123.00 | 118.00 |
+| 4-Jan-21 | 171.54 | 164.36 | 185.90 | 175.64 |
+| 4-May-21 | 192.05 | 190.03 | 228.97 | 226.96 |
+| 4-Sep-21 | 147.95 | 154.09 | 170.51 | 185.89 |
+| 4-Jan-22 | 127.41 | 118.20 | 135.61 | 147.94 |
+| 4-May-22 | 147.94 | 144.35 | 172.56 | 168.96 |
+| 4-Sep-22 | 99.74 | 99.75 | 111.03 | 117.19 |
+| 4-Jan-23 | 114.10 | 114.10 | 129.49 | 129.49 |
+| 4-May-23 | 112.05 | 111.02 | 118.20 | 126.41 |
+| 4-Sep-23 | 105.90 | 120.25 | 126.41 | 135.64 |
+| 4-Jan-24 | 137.69 | 138.71 | 168.46 | 154.10 |
+| 4-May-24 | 120.76 | 118.20 | 134.60 | 133.58 |
+| 4-Sep-24 | 90.52 | 92.56 | 98.72 | 107.95 |
+| 4-Jan-25 | 97.69 | 98.72 | 107.95 | 114.10 |
+| 4-May-25 | 99.74 | 98.72 | 108.97 | 114.10 |
+| 4-Sep-25 | 105.90 | 101.80 | 121.28 | 117.18 |
+| 4-Jan-26 | 106.93 | 107.95 | 121.28 | 123.33 |
+| 4-May-26 | 108.97 | 106.91 | 126.41 | 129.48 |
 
 ---
 
@@ -221,47 +224,69 @@ Recently, iron ore supply has shown an increase. According to SMM statistics, gl
 | **SGX** | **Aug. 26** | USD/DMT | 97.95 | -0.25 | -0.25% | 6.66 | 35.97 | 97.50 | 98.15 |
 
 ## Dry Bulk Freight Rates Historical Line Data (USD/MT)
+> **Estimate.** The report prints no numbers for this chart. Values are computed from the chart's vector geometry at each x-axis date label (calibrated on the printed axis ticks; typically within 1% of the axis range).
+
 | Date | C5 W. Australia - Qingdao (USD/MT) | C3 Tubarao - Qingdao (USD/MT) |
 | :--- | :--- | :--- |
-| 4-Jan-21 | 15.00 | 18.00 |
-| 4-May-21 | 10.00 | 20.00 |
-| 4-Sep-21 | 22.00 | 48.00 |
-| 4-Jan-22 | 12.00 | 22.00 |
-| 4-May-22 | 10.00 | 35.00 |
-| 4-Sep-22 | 18.00 | 18.00 |
-| 4-Jan-23 | 12.00 | 18.00 |
-| 4-May-23 | 8.00 | 17.00 |
-| 4-Sep-23 | 15.00 | 20.00 |
-| 4-Jan-24 | 18.00 | 22.00 |
-| 4-May-24 | 10.00 | 18.00 |
-| 4-Sep-24 | 8.00 | 17.00 |
-| 4-Jan-25 | 8.00 | 17.00 |
-| 4-May-25 | 8.00 | 17.00 |
-| 4-Sep-25 | 8.00 | 17.00 |
-| 4-Jan-26 | 12.00 | 32.00 |
-| 4-May-26 | 12.00 | 33.00 |
+| 4-Jan-21 | 8.92 | 15.35 |
+| 4-May-21 | 15.34 | 31.55 |
+| 4-Sep-21 | 13.95 | 33.52 |
+| 4-Jan-22 | 8.64 | 21.78 |
+| 4-May-22 | 12.00 | 27.10 |
+| 4-Sep-22 | 8.92 | 19.53 |
+| 4-Jan-23 | 7.53 | 18.98 |
+| 4-May-23 | 8.64 | 22.34 |
+| 4-Sep-23 | 8.08 | 18.71 |
+| 4-Jan-24 | 10.60 | 28.19 |
+| 4-May-24 | 10.60 | 26.52 |
+| 4-Sep-24 | 12.00 | 27.65 |
+| 4-Jan-25 | 6.96 | 17.86 |
+| 4-May-25 | 7.95 | 19.54 |
+| 4-Sep-25 | 10.04 | 24.29 |
+| 4-Jan-26 | 8.36 | 22.06 |
+| 4-May-26 | 14.24 | 34.64 |
 
 ## Total China Iron Ore Import Volumes (Million Tonnes)
+> **Estimate.** The report prints no numbers for this chart. Values are computed from the chart's vector geometry at each x-axis date label (calibrated on the printed axis ticks; typically within 1% of the axis range).
+
 | Month / Period | Import Volume (Million Tonnes) |
 | :--- | :--- |
-| Jun-23 | 95.00 |
-| Aug-23 | 105.00 |
-| Oct-23 | 100.00 |
-| Dec-23 | 112.00 |
-| Feb-24 | 97.00 |
-| Apr-24 | 102.00 |
-| Jun-24 | 104.00 |
-| Aug-24 | 105.00 |
-| Oct-24 | 110.00 |
-| Dec-24 | 112.00 |
-| Feb-25 | 94.00 |
-| Apr-25 | 102.00 |
-| Jun-25 | 106.00 |
-| Aug-25 | 115.00 |
-| Oct-25 | 118.00 |
-| Dec-25 | 119.00 |
-| Feb-26 | 98.00 |
-| Apr-26 | 97.00 |
+| Jun-23 | 95.63 |
+| Jul-23 | 93.35 |
+| Aug-23 | 106.27 |
+| Sep-23 | 101.21 |
+| Oct-23 | 99.43 |
+| Nov-23 | 102.73 |
+| Dec-23 | 100.95 |
+| Jan-24 | 111.85 |
+| Feb-24 | 97.41 |
+| Mar-24 | 100.70 |
+| Apr-24 | 101.71 |
+| May-24 | 101.97 |
+| Jun-24 | 97.66 |
+| Jul-24 | 102.73 |
+| Aug-24 | 101.46 |
+| Sep-24 | 103.99 |
+| Oct-24 | 103.74 |
+| Nov-24 | 101.97 |
+| Dec-24 | 112.35 |
+| Jan-25 | 97.15 |
+| Feb-25 | 94.11 |
+| Mar-25 | 93.86 |
+| Apr-25 | 103.23 |
+| May-25 | 98.17 |
+| Jun-25 | 106.02 |
+| Jul-25 | 104.50 |
+| Aug-25 | 105.26 |
+| Sep-25 | 116.40 |
+| Oct-25 | 111.34 |
+| Nov-25 | 110.58 |
+| Dec-25 | 119.70 |
+| Jan-26 | 112.35 |
+| Feb-26 | 97.66 |
+| Mar-26 | 104.75 |
+| Apr-26 | 103.74 |
+| May-26 | 97.66 |
 
 ---
 

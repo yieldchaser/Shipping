@@ -20,10 +20,10 @@ source_file: "corpus/03-breakwave/insights/2024/2024-11-26_persistent-weakness.h
 
 ---
 
-![Istock 840821750](assets/2024-11-26_persistent-weakness_img_istock-840821750_a72909c7e9f5.jpg)
+![Istock 840821750](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-11-26_persistent-weakness_img_istock-840821750_a72909c7e9f5.jpg)
 
 > **Figure 1: Istock 840821750**  
-> **Interactive Data & Source:** [Gibsons Co](https://www.gibsons.co.uk/market-reports) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-11-26_persistent-weakness_img_istock-840821750_a72909c7e9f5.jpg)
+> **Interactive Data & Source:** [Gibsons Co](https://www.gibsons.co.uk/market-reports) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-11-26_persistent-weakness_img_istock-840821750_a72909c7e9f5.jpg)
 
 Crude and product tanker markets have been under heavy pressure so far in Q4, with clean West rates currently the only bright spot. Whilst markets are frequently volatile, persistently weaker returns in the middle of a traditionally strong fourth quarter are causing concern. What are the demand factors behind weaker rates and earnings?
 
@@ -37,10 +37,10 @@ The picture is more complex for the clean tanker market. Averaging data for the 
 
 Whilst some factors behind weaker rates are individual for specific segments, there are a few recurrent themes. A struggling Chinese economy has impacted both crude and clean tanker tonne miles and the changes here are fundamental. Dirty-to-clean switching has been a major blow not just to LR demand but has also led to a recalibration of regional MR freight in the East. This trend is also likely to be on a structural side; yet, any substantial increase (including seasonal) in the crude tanker market relative to clean will limit the attractiveness of switching. The decline in Russian crude and clean exports hit the crude and product tanker market in equal measure. The drop in volumes here is in part seasonal, driven by OPEC+ production strategy, seasonal demand and refinery maintenance; yet, frequent drone attacks coupled with challenging export economics have caused more permanent damage to refining margins. Going forward, fundamental changes are here to stay. Although seasonality will change, offering some support; nonetheless, total demand may struggle to return to recent peaks.
 
-![Στιγμιότυπο Οθόνης 2024 11 26 114515](assets/2024-11-26_persistent-weakness_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_57a45e87c280.png)
+![Στιγμιότυπο Οθόνης 2024 11 26 114515](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-11-26_persistent-weakness_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_57a45e87c280.png)
 
 > **Figure 2: Στιγμιότυπο Οθόνης 2024 11 26 114515**  
-> **Interactive Data & Source:** [Gibsons Co](https://www.gibsons.co.uk/market-reports) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-11-26_persistent-weakness_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_57a45e87c280.png)
+> **Interactive Data & Source:** [Gibsons Co](https://www.gibsons.co.uk/market-reports) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-11-26_persistent-weakness_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_57a45e87c280.png)
 
 Data source:[Gibson Shipbrokers](https://www.gibsons.co.uk/market-reports)
 

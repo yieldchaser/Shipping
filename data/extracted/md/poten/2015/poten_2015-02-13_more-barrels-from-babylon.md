@@ -30,10 +30,18 @@ In recent years, Iraq has been a key growth area for large crude tankers. While 
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: More Barrels From Babylon](../../../charts/poten/2015/poten_2015-02-13_more-barrels-from-babylon_chart1.png)
+![Exhibit 1: Iraqi Crude Oil Production and Exports](../../../charts/poten/2015/poten_2015-02-13_more-barrels-from-babylon_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2015/poten_2015-02-13_more-barrels-from-babylon_chart1.png)
+> **Exhibit 1: Iraqi Crude Oil Production and Exports**  
+> Unit: Kb/day · X-axis: Jan2007 to Jul2014  
+> Series: Production, Exports  
+> *Source: JODI*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2015/poten_2015-02-13_more-barrels-from-babylon_chart1.png)
 
-![Exhibit 2: More Barrels From Babylon](../../../charts/poten/2015/poten_2015-02-13_more-barrels-from-babylon_chart2.png)
+![Exhibit 2: Reported Spot Fixtures from Iraq (ex-Arabian Gulf)](../../../charts/poten/2015/poten_2015-02-13_more-barrels-from-babylon_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2015/poten_2015-02-13_more-barrels-from-babylon_chart2.png)
+> **Exhibit 2: Reported Spot Fixtures from Iraq (ex-Arabian Gulf)**  
+> Unit: Million Tonnes · X-axis: 2007 to 2014  
+> Series: VLCCs, Suezmaxes, Aframax  
+> *Source: Poten & Partners*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2015/poten_2015-02-13_more-barrels-from-babylon_chart2.png)

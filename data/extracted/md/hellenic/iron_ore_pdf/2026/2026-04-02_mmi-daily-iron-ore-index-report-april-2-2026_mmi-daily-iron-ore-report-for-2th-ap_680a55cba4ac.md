@@ -180,24 +180,26 @@ On the macroeconomic front, amid persistently high overseas inflation and fading
 | **Port Stock** | **0.01% Phosphorus** | Low Fe Grade 0.09\<P<0.1% | 5.00 | RMB/wet tonne | +0.00 |
 
 ## Historical Iron Ore Index Comparisons (USD/DMT)
+> **Estimate.** The report prints no numbers for this chart. Values are computed from the chart's vector geometry at each x-axis date label (calibrated on the printed axis ticks; typically within 1% of the axis range).
+
 | Date | IOSI62 (USD/DMT) | IOPi62 CFR Eq (USD/DMT) | IOSI65 (USD/DMT) | IOPi65 CFR Eq (USD/DMT) |
 | :--- | :--- | :--- | :--- | :--- |
-| 4-Jan-21 | 160.00 | 170.00 | 175.00 | 180.00 |
-| 4-May-21 | 270.00 | 265.00 | 275.00 | 280.00 |
-| 4-Sep-21 | 190.00 | 185.00 | 195.00 | 200.00 |
-| 4-Jan-22 | 140.00 | 135.00 | 145.00 | 150.00 |
-| 4-May-22 | 180.00 | 175.00 | 185.00 | 190.00 |
-| 4-Sep-22 | 110.00 | 105.00 | 115.00 | 120.00 |
-| 4-Jan-23 | 130.00 | 125.00 | 135.00 | 140.00 |
-| 4-May-23 | 145.00 | 140.00 | 150.00 | 155.00 |
-| 4-Sep-23 | 150.00 | 145.00 | 160.00 | 165.00 |
-| 4-Jan-24 | 140.00 | 135.00 | 150.00 | 155.00 |
-| 4-May-24 | 135.00 | 130.00 | 145.00 | 150.00 |
-| 4-Sep-24 | 100.00 | 95.00 | 105.00 | 110.00 |
-| 4-Jan-25 | 95.00 | 90.00 | 100.00 | 105.00 |
-| 4-May-25 | 105.00 | 100.00 | 110.00 | 115.00 |
-| 4-Sep-25 | 110.00 | 105.00 | 115.00 | 120.00 |
-| 4-Jan-26 | 115.00 | 110.00 | 120.00 | 125.00 |
+| 4-Jan-21 | 171.54 | 164.36 | 185.90 | 175.64 |
+| 4-May-21 | 192.05 | 195.09 | 228.97 | 232.02 |
+| 4-Sep-21 | 147.95 | 152.05 | 170.52 | 184.87 |
+| 4-Jan-22 | 133.59 | 121.30 | 141.79 | 150.03 |
+| 4-May-22 | 148.97 | 145.89 | 173.58 | 170.50 |
+| 4-Sep-22 | 103.84 | 99.75 | 112.05 | 118.20 |
+| 4-Jan-23 | 114.10 | 114.09 | 129.49 | 129.49 |
+| 4-May-23 | 112.05 | 108.97 | 115.13 | 124.36 |
+| 4-Sep-23 | 105.90 | 120.26 | 128.47 | 135.65 |
+| 4-Jan-24 | 141.77 | 139.74 | 167.44 | 155.12 |
+| 4-May-24 | 120.77 | 118.21 | 134.62 | 133.59 |
+| 4-Sep-24 | 97.70 | 95.67 | 104.92 | 111.04 |
+| 4-Jan-25 | 100.77 | 100.77 | 111.03 | 116.15 |
+| 4-May-25 | 99.74 | 98.72 | 108.97 | 114.10 |
+| 4-Sep-25 | 105.90 | 101.80 | 121.29 | 117.19 |
+| 4-Jan-26 | 105.90 | 107.95 | 121.28 | 117.18 |
 
 ---
 
@@ -222,45 +224,65 @@ On the macroeconomic front, amid persistently high overseas inflation and fading
 | **SGX** | **May. 26** | USD/DMT | 106.30 | +0.00 | +0.00% | 11.16 | 53.05 | 104.50 | 106.65 |
 
 ## Dry Bulk Freight Rates Historical Line Data (USD/MT)
+> **Estimate.** The report prints no numbers for this chart. Values are computed from the chart's vector geometry at each x-axis date label (calibrated on the printed axis ticks; typically within 1% of the axis range).
+
 | Date | C5 W. Australia - Qingdao (USD/MT) | C3 Tubarao - Qingdao (USD/MT) |
 | :--- | :--- | :--- |
-| 4-Jan-21 | 15.00 | 18.00 |
-| 4-May-21 | 10.00 | 20.00 |
-| 4-Sep-21 | 48.00 | 30.00 |
-| 4-Jan-22 | 18.00 | 22.00 |
-| 4-May-22 | 16.00 | 18.00 |
-| 4-Sep-22 | 17.00 | 17.00 |
-| 4-Jan-23 | 16.00 | 18.00 |
-| 4-May-23 | 9.00 | 17.00 |
-| 4-Sep-23 | 28.00 | 22.00 |
-| 4-Jan-24 | 20.00 | 20.00 |
-| 4-May-24 | 18.00 | 21.00 |
-| 4-Sep-24 | 17.00 | 19.00 |
-| 4-Jan-25 | 12.00 | 16.00 |
-| 4-May-25 | 10.00 | 15.00 |
-| 4-Sep-25 | 11.00 | 16.00 |
-| 4-Jan-26 | 12.00 | 28.00 |
+| 4-Jan-21 | 8.92 | 15.35 |
+| 4-May-21 | 14.50 | 30.43 |
+| 4-Sep-21 | 13.95 | 33.52 |
+| 4-Jan-22 | 8.65 | 21.78 |
+| 4-May-22 | 12.00 | 25.69 |
+| 4-Sep-22 | 8.92 | 19.54 |
+| 4-Jan-23 | 7.25 | 18.42 |
+| 4-May-23 | 8.65 | 22.62 |
+| 4-Sep-23 | 7.81 | 18.70 |
+| 4-Jan-24 | 9.76 | 29.60 |
+| 4-May-24 | 10.60 | 26.52 |
+| 4-Sep-24 | 11.72 | 28.20 |
+| 4-Jan-25 | 6.97 | 17.86 |
+| 4-May-25 | 7.95 | 19.54 |
+| 4-Sep-25 | 10.32 | 24.57 |
+| 4-Jan-26 | 8.36 | 22.06 |
 
 ## Total China Iron Ore Import Volumes (Million Tonnes)
+> **Estimate.** The report prints no numbers for this chart. Values are computed from the chart's vector geometry at each x-axis date label (calibrated on the printed axis ticks; typically within 1% of the axis range).
+
 | Month / Period | Import Volume (Million Tonnes) |
 | :--- | :--- |
-| Jun-23 | 95.00 |
-| Aug-23 | 93.00 |
-| Oct-23 | 106.00 |
-| Dec-23 | 103.00 |
-| Feb-24 | 111.00 |
-| Apr-24 | 102.00 |
-| Jun-24 | 103.00 |
-| Aug-24 | 105.00 |
-| Oct-24 | 110.00 |
-| Dec-24 | 96.00 |
-| Feb-25 | 94.00 |
-| Apr-25 | 105.00 |
+| Jun-23 | 95.60 |
+| Jul-23 | 93.57 |
+| Aug-23 | 106.51 |
+| Sep-23 | 101.18 |
+| Oct-23 | 99.41 |
+| Nov-23 | 102.71 |
+| Dec-23 | 100.93 |
+| Jan-24 | 111.84 |
+| Feb-24 | 97.38 |
+| Mar-24 | 100.68 |
+| Apr-24 | 101.69 |
+| May-24 | 101.94 |
+| Jun-24 | 97.63 |
+| Jul-24 | 102.71 |
+| Aug-24 | 101.44 |
+| Sep-24 | 104.23 |
+| Oct-24 | 103.72 |
+| Nov-24 | 101.94 |
+| Dec-24 | 112.35 |
+| Jan-25 | 97.12 |
+| Feb-25 | 94.08 |
+| Mar-25 | 94.08 |
+| Apr-25 | 103.21 |
+| May-25 | 98.14 |
 | Jun-25 | 106.00 |
-| Aug-25 | 108.00 |
-| Oct-25 | 115.00 |
-| Dec-25 | 119.00 |
-| Feb-26 | 97.00 |
+| Jul-25 | 104.48 |
+| Aug-25 | 105.24 |
+| Sep-25 | 116.41 |
+| Oct-25 | 111.33 |
+| Nov-25 | 110.57 |
+| Dec-25 | 119.70 |
+| Jan-26 | 112.35 |
+| Feb-26 | 97.63 |
 
 ---
 

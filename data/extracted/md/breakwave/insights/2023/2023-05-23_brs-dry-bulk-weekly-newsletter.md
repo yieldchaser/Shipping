@@ -19,19 +19,19 @@ source_file: "corpus/03-breakwave/insights/2023/2023-05-23_brs-dry-bulk-weekly-n
 
 ---
 
-![Brs+logo+ +No+background+(1)](assets/2023-05-23_brs-dry-bulk-weekly-newsletter_img_brs2blogo2b-2bno2bbackground2b28129_f39a57dd6dc6.png)
+![Brs+logo+ +No+background+(1)](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-05-23_brs-dry-bulk-weekly-newsletter_img_brs2blogo2b-2bno2bbackground2b28129_f39a57dd6dc6.png)
 
 > **Figure 1: Brs+logo+ +No+background+(1)**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-05-23_brs-dry-bulk-weekly-newsletter_img_brs2blogo2b-2bno2bbackground2b28129_f39a57dd6dc6.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-05-23_brs-dry-bulk-weekly-newsletter_img_brs2blogo2b-2bno2bbackground2b28129_f39a57dd6dc6.png)
 
 ## Between the Promise of Tomorrow & the Reality of Today
 
 In our earlier issue dated 13th April, we dissected several talking points that shaped India’s narrative as an alternative to China for decades to come. Now, it is worth looking at the structural factors of why India’s outlook should be steadfast at a time when the global economy is pitching in heavy seas.
 
-![1 (2)](assets/2023-05-23_brs-dry-bulk-weekly-newsletter_img_128229_cd43f1228b15.png)
+![1 (2)](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-05-23_brs-dry-bulk-weekly-newsletter_img_128229_cd43f1228b15.png)
 
 > **Figure 2: 1 (2)**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-05-23_brs-dry-bulk-weekly-newsletter_img_128229_cd43f1228b15.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-05-23_brs-dry-bulk-weekly-newsletter_img_128229_cd43f1228b15.png)
 
 The Ministry of Commerce and Industry data suggest that India’s merchandise imports value has hovered above USD 400 billion, while exports were circa USD 300 billion from 2016 to 2020 until the pandemic lockdowns came into force. India exports surpassed the USD 400 billion mark for the first time in fiscal 2022, registering an impressive growth of 44% Y-o-Y. Meantime, imports followed up with a of 55% Y-o-Y growth, crossing the USD 600 billion mark through the same period. As pandemic restrictions were lifted, pent-up demand for services and increased industrial production fueled India's economy. Heading into the 2022-23 fiscal year, exports have printed an all-time high of USD 450 billion, whereas imports rose widening the trade deficit. Strong domestic demand indicates import growth at a time when export remains subdued.
 
@@ -39,10 +39,10 @@ In the short-term perspective, merchandise exports may falter as several Indian 
 
 A similar trend is observed in the Indo-Pacific’s sea-borne cargo growth (see below chart).
 
-![1 (4)](assets/2023-05-23_brs-dry-bulk-weekly-newsletter_img_128429_46911e837abf.png)
+![1 (4)](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-05-23_brs-dry-bulk-weekly-newsletter_img_128429_46911e837abf.png)
 
 > **Figure 3: 1 (4)**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-05-23_brs-dry-bulk-weekly-newsletter_img_128429_46911e837abf.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-05-23_brs-dry-bulk-weekly-newsletter_img_128429_46911e837abf.png)
 
 UNCTAD (the United Nations Conference on Trade and Development) data reveals that the global maritime trade (including finished goods) during 2020-21 fiscal year fell into negative territory, dragged down by lockdown measures. Although it picked up to 1.4% Y-o-Y in 2022 amid inflation and uncertainties, the growth remained at a muted 2.1% in 2022-23 due to limited consumer spending. This is below the average of 2.5% recorded during the three years before the pandemic. UNCTAD expects a similar trend (2.1% – 2.5% range) to continue until 2027.
 
@@ -50,10 +50,10 @@ In contrast, Indian Ministry of Shipping data indicates that India’s maritime 
 
 Despite global supply chains continued to be disrupted by lingering geopolitical tensions, Indian economy has evidently performed better. Several key industries played an essential role in achieving this.
 
-![1 (3)](assets/2023-05-23_brs-dry-bulk-weekly-newsletter_img_128329_7f41f70f4ce0.png)
+![1 (3)](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-05-23_brs-dry-bulk-weekly-newsletter_img_128329_7f41f70f4ce0.png)
 
 > **Figure 4: 1 (3)**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-05-23_brs-dry-bulk-weekly-newsletter_img_128329_7f41f70f4ce0.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-05-23_brs-dry-bulk-weekly-newsletter_img_128329_7f41f70f4ce0.png)
 
 India's eight core industries (coal, crude oil, natural gas, petroleum refinery, fertilizer, cement, steel, and electricity), or ICI, account for over 40% of India's industrial production index. Whereas the ICI is the leading indicator of the global country industry and overall economy, Petro refinery, steel, and electricity carry the biggest weight in ICI.
 
@@ -65,17 +65,17 @@ Some of the ICI’s are responsible for driving India’s role in the dry bulk m
 
 **Coal**- As it turns out, thermal coal is crucial for India’s power sector as it accounts for 49% of the total electricity generation. Availability became a challenge as heightened economic growth coincided with rising international coal prices, meaning that the power sector (state, central, and private) had to curtail coal imports drastically in 2021-22. Consequently, the Ministry of Coal undertook actions to address the supply constraints.
 
-![1 (2)](assets/2023-05-23_brs-dry-bulk-weekly-newsletter_img_128229_6ae10f12a86a.png)
+![1 (2)](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-05-23_brs-dry-bulk-weekly-newsletter_img_128229_6ae10f12a86a.png)
 
 > **Figure 5: 1 (2)**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-05-23_brs-dry-bulk-weekly-newsletter_img_128229_6ae10f12a86a.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-05-23_brs-dry-bulk-weekly-newsletter_img_128229_6ae10f12a86a.png)
 
 Measures include self-reliance in coal production through various policies and initiatives which helped India to increase production over the past two years. Ministry of Coal data suggest that domestic production in India has surpassed its 2022-23 target of 868 mln mt by 24 mln mt (+14% Y-o-Y). If similar trend persists, the country will achieve its ambitious target of producing one billion in 2023-24, a year ahead of its projection (2024-25). Rising production could raise concerns over the long-term import upside.
 
-![1 (4)](assets/2023-05-23_brs-dry-bulk-weekly-newsletter_img_128429_c63aedd8068b.png)
+![1 (4)](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-05-23_brs-dry-bulk-weekly-newsletter_img_128429_c63aedd8068b.png)
 
 > **Figure 6: 1 (4)**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-05-23_brs-dry-bulk-weekly-newsletter_img_128429_c63aedd8068b.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-05-23_brs-dry-bulk-weekly-newsletter_img_128429_c63aedd8068b.png)
 
 Coal demand recovery coincides with India's overall electricity demand. Acknowledging the seasonality and logistics constraints limiting output, the Power Ministry has facilitated power utilities to import. Coal imports in India is a price-sensitive affair, thus discouraging private utilities from importing when coal prices were elevated. In contrast, the state and central utilities, in 2022-23,imported 52.9 mln mt for the first time under the government’s directive, up from an average of 22 mln mt in 2019 and 2020 fiscal years for blending purposes, the CEA data revealed.
 
@@ -87,10 +87,10 @@ In the short term, coal is expected to continue to dominate power generation in 
 
 **Steel**- The steel market plays a pivotal role in industrialization. This sector has witnessed magnificent growth, resulting in India ranking as the 2nd largest crude steel producer in the world.
 
-![1 (3)](assets/2023-05-23_brs-dry-bulk-weekly-newsletter_img_128329_13a2f34b96d8.png)
+![1 (3)](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-05-23_brs-dry-bulk-weekly-newsletter_img_128329_13a2f34b96d8.png)
 
 > **Figure 7: 1 (3)**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-05-23_brs-dry-bulk-weekly-newsletter_img_128329_13a2f34b96d8.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-05-23_brs-dry-bulk-weekly-newsletter_img_128329_13a2f34b96d8.png)
 
 Data from the Joint Plant Committee of the Steel Ministry in the graph above, suggests that the steel production growth is bolstered by the double-digit annual growth of 18% in consumption, and elevated by increased Capex government spending in infrastructure spending. The automobile sector is a key driver of steel consumption in the country. In December 2022, India became the 3rd largest automobile market, surpassing Japan and Germany in terms of sales. Exports in 2022-23 remained moderated due to export duty levied to enhance domestic availability.
 
@@ -100,10 +100,10 @@ An increase in steel production has already changed the iron ore dynamics in Ind
 
 **Cement -**India is the world’s second-largest cement producer, accounting for over 7% of the global installed capacity.
 
-![1 (2)](assets/2023-05-23_brs-dry-bulk-weekly-newsletter_img_128229_518720d0c9e4.png)
+![1 (2)](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-05-23_brs-dry-bulk-weekly-newsletter_img_128229_518720d0c9e4.png)
 
 > **Figure 8: 1 (2)**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-05-23_brs-dry-bulk-weekly-newsletter_img_128229_518720d0c9e4.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-05-23_brs-dry-bulk-weekly-newsletter_img_128229_518720d0c9e4.png)
 
 The industry data in the graph above suggests that demand for cement accelerated in the 2021-22 fiscal year, when construction activities gained momentum. As per the Union Budget 2022-23, there was a higher allocation for infrastructure to the tune of USD 26.74 billion in roads, USD 18.84 billion in railways, and USD 6.44 billion in housing which are likely to boost demand for cement and steel for construction. Cement has traditionally not been among India’s major traded products. However, India has been emerging as an exporter to the neighboring nations to the tune of 4 mln mt annually due to increasing production, AXS data show.
 

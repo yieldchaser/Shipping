@@ -32,14 +32,14 @@ As we covered last week, the dry market has started 2021 on good footing, as a r
 
 > **Figure 1: One Can Debate Whether These Indices Are Accurate Measures Of**  
 > *One can debate whether these indices are accurate measures of the rates that owners of these shipsactuallyreceive, but we see the same trend occurring in the period market. Based on our one-year timecharter assessments for ships of the same specifications, Supramax returns averaged only $713/day more than the Handies in 2020. This is down from $975/day in 2019 and $1,815 /day in 2018.*  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2021/assets/2021-01-22_the-big-picture-all-about-handies_img_bmr200_b6ff46f77adf.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-01-22_the-big-picture-all-about-handies_img_bmr200_b6ff46f77adf.png)
 
 However, while the Supramaxes are also performing well, the premium that they typically earn over Handies has continued to erode, a trend we have seen emerge over the past couple of years. The Supra-Handy spread swings in the short-run, due to fluctuating strength in regional markets, but in 2020, Supramaxes earned on average just $185/day over the 38k dwt Handies, down from $656/day in 2019 and $1,162/day in 2018.
 
 ![Bmr 201](assets/2021-01-22_the-big-picture-all-about-handies_img_bmr201_ccc3f56222c4.png)
 
 > **Figure 2: Bmr 201**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2021/assets/2021-01-22_the-big-picture-all-about-handies_img_bmr201_ccc3f56222c4.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-01-22_the-big-picture-all-about-handies_img_bmr201_ccc3f56222c4.png)
 
 ### Undersupplied?
 
@@ -50,7 +50,7 @@ Looking only at recent history, 2020 saw hefty fleet additions in the dry market
 ![Bmr 202](assets/2021-01-22_the-big-picture-all-about-handies_img_bmr202_f5418511b22d.png)
 
 > **Figure 3: Bmr 202**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2021/assets/2021-01-22_the-big-picture-all-about-handies_img_bmr202_f5418511b22d.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-01-22_the-big-picture-all-about-handies_img_bmr202_f5418511b22d.png)
 
 This mismatch could in part explain why average Handy rates have been closing in on those in the Supramax market, which are being weighed on by a flood of new Ultramax tonnage. The pattern looks set to continue. At just 4% of current fleet capacity, the Handysize orderbook is the lowest of any dry bulk sector, 2 percentage points lower relative to Supramaxes.
 
@@ -61,14 +61,14 @@ The demand-side of the equation also likely plays a role in this relationship. B
 ![Bmr 203](assets/2021-01-22_the-big-picture-all-about-handies_img_bmr203_e2726099fb90.png)
 
 > **Figure 4: Bmr 203**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2021/assets/2021-01-22_the-big-picture-all-about-handies_img_bmr203_e2726099fb90.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-01-22_the-big-picture-all-about-handies_img_bmr203_e2726099fb90.png)
 
 Given how these different commodities have been impacted by the pandemic, it is unsurprising that demand for Handies has been somewhat more robust than for Supramaxes over the last few months. Global coal trade slumped by almost 10% YoY in 2020, as we saw a sharp drop in both power demand and steel production outside of China. Being more dependent on this commodity, the Supramax markets took a relatively greater hit to demand. In addition, for most of 2020 China imposed strict import controls on thermal coal imports while it tried to boost domestic production. This disproportionately hit imports from Indonesia, a key demand region for Supras.
 
 ![Bmr 204](assets/2021-01-22_the-big-picture-all-about-handies_img_bmr204_77697dea0741.png)
 
 > **Figure 5: Bmr 204**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2021/assets/2021-01-22_the-big-picture-all-about-handies_img_bmr204_77697dea0741.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-01-22_the-big-picture-all-about-handies_img_bmr204_77697dea0741.png)
 
 The grain trades meanwhile continued to grow in 2020 as food demand remained resilient and many producers enjoyed favourable weather conditions. Total grain volumes increased by 5% YoY, and while this boost was enjoyed by all of the geared ships, it likely supported Handysize rates to a greater extent as grain accounts for a larger share of demand in this market.
 

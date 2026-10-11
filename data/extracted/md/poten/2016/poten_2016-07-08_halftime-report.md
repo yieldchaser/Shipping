@@ -55,14 +55,23 @@ These rankings serve as a reminder for tanker owners that, despite all the chang
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: Halftime Report](../../../charts/poten/2016/poten_2016-07-08_halftime-report_chart1.png)
+![Exhibit 1: Top 10 VLCC Spot Charterers](../../../charts/poten/2016/poten_2016-07-08_halftime-report_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2016/poten_2016-07-08_halftime-report_chart1.png)
+> **Exhibit 1: Top 10 VLCC Spot Charterers**  
+> Unit: No. Spot Fixtures · X-axis: Unipec to CSSA  
+> Series: Unipec, IOC, Reliance, Bahri, Petrochina, Shell, ExxonMobil, Day Harvest, GS Caltex, CSSA  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2016/poten_2016-07-08_halftime-report_chart1.png)
 
-![Exhibit 2: Halftime Report](../../../charts/poten/2016/poten_2016-07-08_halftime-report_chart2.png)
+![Exhibit 2: Top 10 Aframax Spot Charterers](../../../charts/poten/2016/poten_2016-07-08_halftime-report_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2016/poten_2016-07-08_halftime-report_chart2.png)
+> **Exhibit 2: Top 10 Aframax Spot Charterers**  
+> Unit: No. Spot Fixtures · X-axis: Vitol to CSSA  
+> Series: Vitol, ST Shipping, Chevron, Shell, Unipec, Trafigura, BP, LITASCO, Socar, CSSA  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2016/poten_2016-07-08_halftime-report_chart2.png)
 
-![Exhibit 3: Halftime Report](../../../charts/poten/2016/poten_2016-07-08_halftime-report_chart3.png)
+![Exhibit 3: Top 10 Suezmax Spot Charterers](../../../charts/poten/2016/poten_2016-07-08_halftime-report_chart3.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2016/poten_2016-07-08_halftime-report_chart3.png)
+> **Exhibit 3: Top 10 Suezmax Spot Charterers**  
+> Unit: No. Spot Fixtures · X-axis: Chevron to Vitol  
+> Series: Chevron, Repsol, Unipec, Shell, BP, ExxonMobil, BPCL, CSSA, IOC, Vitol  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2016/poten_2016-07-08_halftime-report_chart3.png)

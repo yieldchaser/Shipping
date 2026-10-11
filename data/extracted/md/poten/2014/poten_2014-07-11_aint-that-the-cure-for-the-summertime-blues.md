@@ -30,10 +30,18 @@ Although the nature of the spot market beast has historically been one of volati
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: Ain't That the Cure for the Summertime Blues](../../../charts/poten/2014/poten_2014-07-11_aint-that-the-cure-for-the-summertime-blues_chart1.png)
+![Exhibit 1: 2014 Crude Oil Demand – Rolling Outlook](../../../charts/poten/2014/poten_2014-07-11_aint-that-the-cure-for-the-summertime-blues_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2014/poten_2014-07-11_aint-that-the-cure-for-the-summertime-blues_chart1.png)
+> **Exhibit 1: 2014 Crude Oil Demand – Rolling Outlook**  
+> Unit: mbd · X-axis: 1Q2014 to 4Q2014  
+> Series: In Jan-2013, In Jul-2013, In Jan-2014, In Jul-2014  
+> *Source: IEA*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2014/poten_2014-07-11_aint-that-the-cure-for-the-summertime-blues_chart1.png)
 
-![Exhibit 2: Ain't That the Cure for the Summertime Blues](../../../charts/poten/2014/poten_2014-07-11_aint-that-the-cure-for-the-summertime-blues_chart2.png)
+![Exhibit 2: Spot Market Time Charter Equivalents](../../../charts/poten/2014/poten_2014-07-11_aint-that-the-cure-for-the-summertime-blues_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2014/poten_2014-07-11_aint-that-the-cure-for-the-summertime-blues_chart2.png)
+> **Exhibit 2: Spot Market Time Charter Equivalents**  
+> Unit: $/day · X-axis: Jan-14 to Jul-14  
+> Series: VLCC - AG/USG, VLCC - AG/FE, Suezmax - WAF/USA, Aframax - CAR/USA, Panamax - CAR/USA, MR - UKC/USA  
+> *Source: Poten*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2014/poten_2014-07-11_aint-that-the-cure-for-the-summertime-blues_chart2.png)

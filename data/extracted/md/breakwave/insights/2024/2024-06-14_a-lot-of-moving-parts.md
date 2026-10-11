@@ -20,10 +20,10 @@ source_file: "corpus/03-breakwave/insights/2024/2024-06-14_a-lot-of-moving-parts
 
 ---
 
-![Img 3](assets/2024-06-14_a-lot-of-moving-parts_img_img-3_0fbff3f0ce57.jpg)
+![Img 3](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-06-14_a-lot-of-moving-parts_img_img-3_0fbff3f0ce57.jpg)
 
 > **Figure 1: Img 3**  
-> **Interactive Data & Source:** [Gibsons Co](https://www.gibsons.co.uk/market-reports) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-06-14_a-lot-of-moving-parts_img_img-3_0fbff3f0ce57.jpg)
+> **Interactive Data & Source:** [Gibsons Co](https://www.gibsons.co.uk/market-reports) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-06-14_a-lot-of-moving-parts_img_img-3_0fbff3f0ce57.jpg)
 
 The long-awaited change in the product tanker market due to the 650kbd Dangote refinery start-up appears to be approaching. The refinery imported its first crude cargo in December last year and over the past three months imports averaged between 230kbd and 310kbd, mainly consisting of Nigerian grades, supplemented by US barrels. The refinery has also started exporting clean and dirty products in March, with volumes reaching 290kbd in May, according to Kpler. Dirty petroleum products are finding a home primarily in the US, whilst some barrels have also been shipped into Europe and Singapore. The vast majority of exported naphtha is destined for Asia, the straight run gasoil/diesel is almost entirely staying local, whilst the jet fuel is redistributed into West/North Africa as well as Latin America, and with limited volumes shipped into NW Europe.
 
@@ -37,10 +37,10 @@ Whilst the refinery is geared up to maximise gasoline production, it will still 
 
 The biggest question, however, is vulnerability of European refineries, which will struggle to find a new home for the gasoline they will no longer export to Nigeria. Possibly a bit more could flow into the US Atlantic Coast but the prospects for demand growth here are bleak. Some extra barrels could also be exported into Latin America, although here they will need to compete with Russian and US products. Already, over 600kbd of European refining capacity is earmarked to close between 2025 and 2027. The prospects for European demand are also uncertain but if refinery closures lead to growing European distillates intake, then there is an argument that further gains in East of Suez and USG flows into Europe will offset for the upcoming decline in CPP imports into West Africa.
 
-![Στιγμιότυπο Οθόνης 2024 06 14 100609](assets/2024-06-14_a-lot-of-moving-parts_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_20e927e85880.png)
+![Στιγμιότυπο Οθόνης 2024 06 14 100609](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-06-14_a-lot-of-moving-parts_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_20e927e85880.png)
 
 > **Figure 2: Στιγμιότυπο Οθόνης 2024 06 14 100609**  
-> **Interactive Data & Source:** [Gibsons Co](https://www.gibsons.co.uk/market-reports) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-06-14_a-lot-of-moving-parts_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_20e927e85880.png)
+> **Interactive Data & Source:** [Gibsons Co](https://www.gibsons.co.uk/market-reports) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-06-14_a-lot-of-moving-parts_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_20e927e85880.png)
 
 Data source:[Gibson Shipbrokers](https://www.gibsons.co.uk/market-reports)
 

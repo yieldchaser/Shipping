@@ -33,11 +33,11 @@ The war in Iran and subsequent constriction of energy commodity flows appear to 
 - The disruption of energy commodity flows from the Gulf, particularly LNG, has led large energy-consuming nations to seek coal to secure power requirements.
 
 
-![Source: Coal Carrying Capesize Tonne-Miles From Signal Oceanhttps://app.signalocean.com/dry/dynamic/timeseriesdry](../../images/6a0434c214957ddfbf5ec459_93709f15.png)
+![Source: Coal Carrying Capesize Tonne-Miles From Signal Oceanhttps://app.signalocean.com/dry/dynamic/timeseriesdry](../../../../../../corpus/07-signal/images/6a0434c214957ddfbf5ec459_93709f15.png)
 
 > **Figure 1: Source: Coal Carrying Capesize Tonne-Miles From Signal Oceanhttps://app.signalocean.com/dry/dynamic/timeseriesdry**  
 > *Source: Coal carrying Capesize tonne-miles from Signal Oceanhttps://app.signalocean.com/dry/dynamic/timeseries_dry*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/coal-demand-in-april-rises-in-line-with-our-expectations) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6a0434c214957ddfbf5ec459_93709f15.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/coal-demand-in-april-rises-in-line-with-our-expectations) | [Local Asset](../../../../../../corpus/07-signal/images/6a0434c214957ddfbf5ec459_93709f15.png)
 
 Signal Ocean recorded global seaborne coal flows at 115mt in April 2026, up 6% y/y, marking only the second month in 2026 so far that coal flows have seen a y/y increase. This rise came despite the two largest coal importers, China and India, both seeing declines of 16% and 11%, respectively. China and India typically account for 37% of total seaborne coal demand.
 
@@ -46,22 +46,22 @@ The drop in Indian coal imports was unexpected and was offset by increases in do
 The rise globally, therefore, has come from surging demand in many other countries. As we expected, the countries that saw greater coal flows have been those seeking to secure inputs for domestic power generation, as LNG flows in particular have been restricted due to the war in Iran. So flows to Japan, the Republic of Korea, and Continental Europe have seen large increases y/y in April.
 
 
-![Source: Coal Destination Areas in April 2026, Excluding China and India, From Signal Ocean Https://app.signalocean.com/dry/dynamic/drybulkflows](../../images/6a0434c214957ddfbf5ec45f_f09321be.png)
+![Source: Coal Destination Areas in April 2026, Excluding China and India, From Signal Ocean Https://app.signalocean.com/dry/dynamic/drybulkflows](../../../../../../corpus/07-signal/images/6a0434c214957ddfbf5ec45f_f09321be.png)
 
 > **Figure 2: Source: Coal Destination Areas in April 2026, Excluding China and India, From Signal Ocean Https://app.signalocean.com/dry/dynamic/drybulkflows**  
 > *Source: Coal destination areas in April 2026, excluding China and India, from Signal Ocean https://app.signalocean.com/dry/dynamic/drybulkflows*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/coal-demand-in-april-rises-in-line-with-our-expectations) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6a0434c214957ddfbf5ec45f_f09321be.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/coal-demand-in-april-rises-in-line-with-our-expectations) | [Local Asset](../../../../../../corpus/07-signal/images/6a0434c214957ddfbf5ec45f_f09321be.png)
 
 The outlook for coal through 2026 continues to remain closely tied to the Strait of Hormuz. While Europe may be entering the summer months, where power demand is lower, Japan and the Republic of Korea typically see power demand, from cooling, rise from June. The same is true for India, which may try to offset import demand by continuing to ramp up domestic coal production. The largest importer, China, will likely continue to see coal demand wane as the nation increases renewable energy production and cuts back steel production.
 
 In terms of supply, Indonesia remains the top exporter globally. At the start of 2026, the Indonesian government pushed for reduced coal output in order to support prices as global demand was expected to be weak. Yet, in an attempt to capitalise on the increased demand for coal following the war in Iran, the Indonesian government has relaxed export licensing for coal producers. This would allow for more material to hit the market and support Panamax demand in the South Pacific.
 
 
-![Source: Indonesian Coal Exports From Signal Oceanhttps://app.signalocean.com/dry/dynamic/drybulkflows](../../images/6a0434c214957ddfbf5ec45c_6a42f513.png)
+![Source: Indonesian Coal Exports From Signal Oceanhttps://app.signalocean.com/dry/dynamic/drybulkflows](../../../../../../corpus/07-signal/images/6a0434c214957ddfbf5ec45c_6a42f513.png)
 
 > **Figure 3: Source: Indonesian Coal Exports From Signal Oceanhttps://app.signalocean.com/dry/dynamic/drybulkflows**  
 > *Source: Indonesian coal exports from Signal Oceanhttps://app.signalocean.com/dry/dynamic/drybulkflows*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/coal-demand-in-april-rises-in-line-with-our-expectations) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6a0434c214957ddfbf5ec45c_6a42f513.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/coal-demand-in-april-rises-in-line-with-our-expectations) | [Local Asset](../../../../../../corpus/07-signal/images/6a0434c214957ddfbf5ec45c_6a42f513.png)
 
 
 ## War in Iran Remains the Most Impactful Factor on Coal Performance

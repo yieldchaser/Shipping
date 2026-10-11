@@ -42,6 +42,18 @@ When adjusted for key operational factors, the fleet of non- double hull vessels
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: Singled Out](../../../charts/poten/2008/poten_2008-02-01_singled-out_chart1.png)
+> **Chart on PDF page 1: Non-Double Hull VLCC Reported Spot Fixtures**  
+> X-axis: 2000 to 2007  
+> *Source: Poten*  
+> *No image crop of this chart was saved; caption read from the PDF.*
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2008/poten_2008-02-01_singled-out_chart1.png)
+> **Chart on PDF page 2: VLCC Fleet Hull Profile**  
+> X-axis: 1981 to 2008  
+> Series: Non-DH, DH  
+> *Source: Poten*  
+> *No image crop of this chart was saved; caption read from the PDF.*
+
+> **Chart on PDF page 2: Average Size by Build Year**  
+> Unit: DWT · X-axis: 1975 to 2010  
+> Series: DH, Non DH  
+> *No image crop of this chart was saved; caption read from the PDF.*

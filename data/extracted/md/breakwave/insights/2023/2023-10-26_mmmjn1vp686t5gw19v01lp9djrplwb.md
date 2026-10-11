@@ -23,10 +23,10 @@ source_file: "corpus/03-breakwave/insights/2023/2023-10-26_mmmjn1vp686t5gw19v01l
 
 Rising geopolitical risks triggered a rerating of the risk premium in energy markets. However, lacklustre demand in China weighed on sentiment elsewhere.
 
-![1698271976878](assets/2023-10-26_mmmjn1vp686t5gw19v01lp9djrplwb_img_1698271976878_26aeac13e2f3.png)
+![1698271976878](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-10-26_mmmjn1vp686t5gw19v01lp9djrplwb_img_1698271976878_26aeac13e2f3.png)
 
 > **Figure 1: 1698271976878**  
-> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-10-26_mmmjn1vp686t5gw19v01lp9djrplwb_img_1698271976878_26aeac13e2f3.png)
+> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-10-26_mmmjn1vp686t5gw19v01lp9djrplwb_img_1698271976878_26aeac13e2f3.png)
 
 **Crude oil**prices were under pressure early in the session after reports suggest Israel was delaying its ground invasion as the US readied air defence to protect American troops in the region. This has eased concerns that the conflict would escalate across the sector and disrupt oil supplies from major Middle East producers. Reports that the US and Saudi Arabia agreed to pursue diplomatic efforts to maintain stability across the Middle East also added to this belief. Compounding sentiment was a surprise gain in US inventories. Commercial crude oil stockpiles rose by 1,372kbbl last week. However, prices rallied sharply after a speech by Israel’s prime minister, Benjamin Netanyahu, warning that Israel is in a battle for its existence, but he wouldn’t explain the reasons for the timing of the planned ground assault. The market subsequently injected a fresh risk-war premium, with Brent quickly gaining more than USD3/bbl to break above USD90/bbl.
 

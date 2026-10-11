@@ -32,10 +32,18 @@ Overall, we remain optimistic about the Aframax/LR2 segment over the next 2- 3 y
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: From Strength To Strength](../../../charts/poten/2023/poten_2023-07-21_from-strength-to-strength_chart1.png)
+![Exhibit 1: Aframax / LR2 Ton Mile Demand](../../../charts/poten/2023/poten_2023-07-21_from-strength-to-strength_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2023/poten_2023-07-21_from-strength-to-strength_chart1.png)
+> **Exhibit 1: Aframax / LR2 Ton Mile Demand**  
+> Unit: Mln TM/Month · X-axis: Jan-20 to May-23  
+> Series: TM Dirty Cargoes, TM Clean Cargoes, Dirty Avg, Clean Avg  
+> *Source: Vortexa; Poten & Partners*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2023/poten_2023-07-21_from-strength-to-strength_chart1.png)
 
-![Exhibit 2: From Strength To Strength](../../../charts/poten/2023/poten_2023-07-21_from-strength-to-strength_chart2.png)
+![Exhibit 2: Aframax / LR2 Freight Rates (Eco/Scrubber)](../../../charts/poten/2023/poten_2023-07-21_from-strength-to-strength_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2023/poten_2023-07-21_from-strength-to-strength_chart2.png)
+> **Exhibit 2: Aframax / LR2 Freight Rates (Eco/Scrubber)**  
+> Unit: $/day · X-axis: Jan-20 to Jul-23  
+> Series: Car-USG (70Kt Dirty), Cross NSea (80Kt Dirty), AG-Japan (80Kt Clean)  
+> *Source: Vortexa; Poten & Partners*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2023/poten_2023-07-21_from-strength-to-strength_chart2.png)

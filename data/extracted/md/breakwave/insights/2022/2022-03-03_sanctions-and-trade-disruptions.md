@@ -30,10 +30,10 @@ However, it is unlikely that it is the ultimate destination and only serves as a
 
 ### Ns Champion - Past Track and Predicted Course
 
-![Screenshot 20220303 110501 Samsung Internet](assets/2022-03-03_sanctions-and-trade-disruptions_img_screenshot-20220303-110501-samsungin_1f6f07d0b143.jpg)
+![Screenshot 20220303 110501 Samsung Internet](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-03-03_sanctions-and-trade-disruptions_img_screenshot-20220303-110501-samsungin_1f6f07d0b143.jpg)
 
 > **Figure 1: Screenshot 20220303 110501 Samsung Internet**  
-> **Interactive Data & Source:** [Shipfix](https://shipfix.com) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-03-03_sanctions-and-trade-disruptions_img_screenshot-20220303-110501-samsungin_1f6f07d0b143.jpg)
+> **Interactive Data & Source:** [Shipfix](https://shipfix.com) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-03-03_sanctions-and-trade-disruptions_img_screenshot-20220303-110501-samsungin_1f6f07d0b143.jpg)
 
 *Source: Shipfix*
 
@@ -51,10 +51,10 @@ The war in Ukraine will see increasing competition for shrinking supplies of man
 
 **With the latest round of new sanctions on the Russian economy being only a few days old, the effects on global trade flows are yet to emerge. If anything, shipments from Russian ports have been robust during February, according to Shipfix’s trade flow data. Both dry and wet cargoes saw increasing volumes during last month, suggesting many exporters expected sanctions to be imposed. The fact that the new sanctions more or less coincided with the month-end also means that any meaningful month-on-month or year-on-year comparisons will have to wait until the latter parts of the current month.**
 
-![Screenshot 20220303 110521 Samsung Internet](assets/2022-03-03_sanctions-and-trade-disruptions_img_screenshot-20220303-110521-samsungin_cda56af6ad93.jpg)
+![Screenshot 20220303 110521 Samsung Internet](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-03-03_sanctions-and-trade-disruptions_img_screenshot-20220303-110521-samsungin_cda56af6ad93.jpg)
 
 > **Figure 2: Screenshot 20220303 110521 Samsung Internet**  
-> **Interactive Data & Source:** [Shipfix](https://shipfix.com) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-03-03_sanctions-and-trade-disruptions_img_screenshot-20220303-110521-samsungin_cda56af6ad93.jpg)
+> **Interactive Data & Source:** [Shipfix](https://shipfix.com) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-03-03_sanctions-and-trade-disruptions_img_screenshot-20220303-110521-samsungin_cda56af6ad93.jpg)
 
 *Source: Shipfix*
 

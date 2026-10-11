@@ -28,11 +28,11 @@ tags:
 ## Brazil Solidifies Dominance in China’s Soybean Market
 
 
-![Https://app.signalocean.com/dry/dynamic/drybulkflows-Downloadable](../../images/6824b1846b32a988e9682647_AD_4nXfDtT8DQrQ920JT28pHAnfh4nfiAFmwUkv0s2DYcKfxmPTY_Rooht8nVsFxnkAHU_3yovFVRhe34-NIDjoOrjT8oIkke06jaO8gfDUPlSDOMudeWqOfXEMOnR3VoQuW8xynv2xbYg.png)
+![Https://app.signalocean.com/dry/dynamic/drybulkflows-Downloadable](../../../../../../corpus/07-signal/images/6824b1846b32a988e9682647_AD_4nXfDtT8DQrQ920JT28pHAnfh4nfiAFmwUkv0s2DYcKfxmPTY_Rooht8nVsFxnkAHU_3yovFVRhe34-NIDjoOrjT8oIkke06jaO8gfDUPlSDOMudeWqOfXEMOnR3VoQuW8xynv2xbYg.png)
 
 > **Figure 1: Https://app.signalocean.com/dry/dynamic/drybulkflows-Downloadable**  
 > *https://app.signalocean.com/dry/dynamic/drybulkflows-downloadable*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/dry-week-20-2025) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6824b1846b32a988e9682647_AD_4nXfDtT8DQrQ920JT28pHAnfh4nfiAFmwUkv0s2DYcKfxmPTY_Rooht8nVsFxnkAHU_3yovFVRhe34-NIDjoOrjT8oIkke06jaO8gfDUPlSDOMudeWqOfXEMOnR3VoQuW8xynv2xbYg.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/dry-week-20-2025) | [Local Asset](../../../../../../corpus/07-signal/images/6824b1846b32a988e9682647_AD_4nXfDtT8DQrQ920JT28pHAnfh4nfiAFmwUkv0s2DYcKfxmPTY_Rooht8nVsFxnkAHU_3yovFVRhe34-NIDjoOrjT8oIkke06jaO8gfDUPlSDOMudeWqOfXEMOnR3VoQuW8xynv2xbYg.png)
 
 Brazil continues to strengthen its position as China's primary soybean supplier, with this dominance mainly attributed to the country's record harvests, competitive pricing, and the absence of tariffs that continue to impact U.S. soybeans. Recent news revealed that China has lifted suspensions on five Brazilian soybean exporters, enhancing trade flows ahead of Brazilian President Lula da Silva's visit to Beijing. Additionally, China is investing in South American infrastructure, such as expanding Brazil's Santos port and constructing a $3.5 billion deep-water port in Peru, to streamline agricultural imports.
 

@@ -45,10 +45,10 @@ Direct Aframax voyages to China are most likely, as this has recently been the p
 
 ➔ If the discount is low enough, we could also see South Korea buy some TMX crude, which could utilise VLCCs loaded at the Pacific Lightering Zone
 
-![Στιγμιότυπο Οθόνης 2024 12 05 103458](assets/2024-12-05_if-imposed-us-tariffs-on-canadian-crude-would-benefit-aframaxes_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_0026a81f5517.png)
+![Στιγμιότυπο Οθόνης 2024 12 05 103458](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-12-05_if-imposed-us-tariffs-on-canadian-crude-would-benefit-aframaxes_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_0026a81f5517.png)
 
 > **Figure 1: Στιγμιότυπο Οθόνης 2024 12 05 103458**  
-> **Interactive Data & Source:** [Vortexa](https://www.vortexa.com//oil-gas-data-traders-analysts-data-scientists?gclid=Cj0KCQjw8_qRBhCXARIsAE2AtRZKOvMnbilZ_6_91d7huSFFy71pWLrnPwGwOHVzXsmsG-1a1mZnQw8aAt89EALw_wcB&hsa_acc=1782073842&hsa_ad=548425387665&hsa_cam=14746637662&hsa_grp=125038601902&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_src=g&hsa_tgt=dsa-1431852288425&hsa_ver=3&utm_campaign=%5BCD%5D%20-%20DSA%20-%20EMEA&utm_medium=cpc&utm_medium=ppc&utm_source=google&utm_source=adwords&utm_term=) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-12-05_if-imposed-us-tariffs-on-canadian-crude-would-benefit-aframaxes_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_0026a81f5517.png)
+> **Interactive Data & Source:** [Vortexa](https://www.vortexa.com//oil-gas-data-traders-analysts-data-scientists?gclid=Cj0KCQjw8_qRBhCXARIsAE2AtRZKOvMnbilZ_6_91d7huSFFy71pWLrnPwGwOHVzXsmsG-1a1mZnQw8aAt89EALw_wcB&hsa_acc=1782073842&hsa_ad=548425387665&hsa_cam=14746637662&hsa_grp=125038601902&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_src=g&hsa_tgt=dsa-1431852288425&hsa_ver=3&utm_campaign=%5BCD%5D%20-%20DSA%20-%20EMEA&utm_medium=cpc&utm_medium=ppc&utm_source=google&utm_source=adwords&utm_term=) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-12-05_if-imposed-us-tariffs-on-canadian-crude-would-benefit-aframaxes_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_0026a81f5517.png)
 
 ## Clean – East of Suez: Asia’s Robust Jet/kero Imports Support Tonne-Mile Demand in November
 
@@ -68,10 +68,10 @@ On the export side, the Wider Arabian Sea ramped up jet/kero exports to Asia ami
 
 ➔ Increased longer-haul voyages from the Wider Arabian Sea have supported LR1 tonne-mile demand to East Asia
 
-![Στιγμιότυπο Οθόνης 2024 12 05 104253](assets/2024-12-05_if-imposed-us-tariffs-on-canadian-crude-would-benefit-aframaxes_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_23ce91ebc0ae.png)
+![Στιγμιότυπο Οθόνης 2024 12 05 104253](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-12-05_if-imposed-us-tariffs-on-canadian-crude-would-benefit-aframaxes_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_23ce91ebc0ae.png)
 
 > **Figure 2: Στιγμιότυπο Οθόνης 2024 12 05 104253**  
-> **Interactive Data & Source:** [Vortexa](https://www.vortexa.com//oil-gas-data-traders-analysts-data-scientists?gclid=Cj0KCQjw8_qRBhCXARIsAE2AtRZKOvMnbilZ_6_91d7huSFFy71pWLrnPwGwOHVzXsmsG-1a1mZnQw8aAt89EALw_wcB&hsa_acc=1782073842&hsa_ad=548425387665&hsa_cam=14746637662&hsa_grp=125038601902&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_src=g&hsa_tgt=dsa-1431852288425&hsa_ver=3&utm_campaign=%5BCD%5D%20-%20DSA%20-%20EMEA&utm_medium=cpc&utm_medium=ppc&utm_source=google&utm_source=adwords&utm_term=) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-12-05_if-imposed-us-tariffs-on-canadian-crude-would-benefit-aframaxes_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_23ce91ebc0ae.png)
+> **Interactive Data & Source:** [Vortexa](https://www.vortexa.com//oil-gas-data-traders-analysts-data-scientists?gclid=Cj0KCQjw8_qRBhCXARIsAE2AtRZKOvMnbilZ_6_91d7huSFFy71pWLrnPwGwOHVzXsmsG-1a1mZnQw8aAt89EALw_wcB&hsa_acc=1782073842&hsa_ad=548425387665&hsa_cam=14746637662&hsa_grp=125038601902&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_src=g&hsa_tgt=dsa-1431852288425&hsa_ver=3&utm_campaign=%5BCD%5D%20-%20DSA%20-%20EMEA&utm_medium=cpc&utm_medium=ppc&utm_source=google&utm_source=adwords&utm_term=) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-12-05_if-imposed-us-tariffs-on-canadian-crude-would-benefit-aframaxes_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_23ce91ebc0ae.png)
 
 ## Dirty – West of Suez: Shift in Europe-Destined Voyages to Favour Closer Origins Likely to Dampen Suezmax Tonne-Miles Demand
 
@@ -87,10 +87,10 @@ However, the number of crude-carrying Suezmax voyages originating from Wider Nor
 
 ➔ This will likely place downward pressure on Atlantic Basin Suezmax tonne-miles demand towards Europe
 
-![Στιγμιότυπο Οθόνης 2024 12 05 104506](assets/2024-12-05_if-imposed-us-tariffs-on-canadian-crude-would-benefit-aframaxes_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_88f568fc183b.png)
+![Στιγμιότυπο Οθόνης 2024 12 05 104506](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-12-05_if-imposed-us-tariffs-on-canadian-crude-would-benefit-aframaxes_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_88f568fc183b.png)
 
 > **Figure 3: Στιγμιότυπο Οθόνης 2024 12 05 104506**  
-> **Interactive Data & Source:** [Vortexa](https://www.vortexa.com//oil-gas-data-traders-analysts-data-scientists?gclid=Cj0KCQjw8_qRBhCXARIsAE2AtRZKOvMnbilZ_6_91d7huSFFy71pWLrnPwGwOHVzXsmsG-1a1mZnQw8aAt89EALw_wcB&hsa_acc=1782073842&hsa_ad=548425387665&hsa_cam=14746637662&hsa_grp=125038601902&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_src=g&hsa_tgt=dsa-1431852288425&hsa_ver=3&utm_campaign=%5BCD%5D%20-%20DSA%20-%20EMEA&utm_medium=cpc&utm_medium=ppc&utm_source=google&utm_source=adwords&utm_term=) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-12-05_if-imposed-us-tariffs-on-canadian-crude-would-benefit-aframaxes_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_88f568fc183b.png)
+> **Interactive Data & Source:** [Vortexa](https://www.vortexa.com//oil-gas-data-traders-analysts-data-scientists?gclid=Cj0KCQjw8_qRBhCXARIsAE2AtRZKOvMnbilZ_6_91d7huSFFy71pWLrnPwGwOHVzXsmsG-1a1mZnQw8aAt89EALw_wcB&hsa_acc=1782073842&hsa_ad=548425387665&hsa_cam=14746637662&hsa_grp=125038601902&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_src=g&hsa_tgt=dsa-1431852288425&hsa_ver=3&utm_campaign=%5BCD%5D%20-%20DSA%20-%20EMEA&utm_medium=cpc&utm_medium=ppc&utm_source=google&utm_source=adwords&utm_term=) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-12-05_if-imposed-us-tariffs-on-canadian-crude-would-benefit-aframaxes_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_88f568fc183b.png)
 
 ## LNG – West of Suez: Falling Ballast Speeds Underscore Vessel Oversupply and Limited Demand
 
@@ -102,10 +102,10 @@ The excess vessel availability is highlighted by a decline in average speeds of 
 
 This year, weekly average ballast speeds of the LNG fleet fell by 1% from mid-September to November, in contrast to a 5% increase during the same period in the last two years
 
-![Στιγμιότυπο Οθόνης 2024 12 05 104705](assets/2024-12-05_if-imposed-us-tariffs-on-canadian-crude-would-benefit-aframaxes_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_b18c7df34354.png)
+![Στιγμιότυπο Οθόνης 2024 12 05 104705](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-12-05_if-imposed-us-tariffs-on-canadian-crude-would-benefit-aframaxes_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_b18c7df34354.png)
 
 > **Figure 4: Στιγμιότυπο Οθόνης 2024 12 05 104705**  
-> **Interactive Data & Source:** [Vortexa](https://www.vortexa.com//oil-gas-data-traders-analysts-data-scientists?gclid=Cj0KCQjw8_qRBhCXARIsAE2AtRZKOvMnbilZ_6_91d7huSFFy71pWLrnPwGwOHVzXsmsG-1a1mZnQw8aAt89EALw_wcB&hsa_acc=1782073842&hsa_ad=548425387665&hsa_cam=14746637662&hsa_grp=125038601902&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_src=g&hsa_tgt=dsa-1431852288425&hsa_ver=3&utm_campaign=%5BCD%5D%20-%20DSA%20-%20EMEA&utm_medium=cpc&utm_medium=ppc&utm_source=google&utm_source=adwords&utm_term=) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-12-05_if-imposed-us-tariffs-on-canadian-crude-would-benefit-aframaxes_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_b18c7df34354.png)
+> **Interactive Data & Source:** [Vortexa](https://www.vortexa.com//oil-gas-data-traders-analysts-data-scientists?gclid=Cj0KCQjw8_qRBhCXARIsAE2AtRZKOvMnbilZ_6_91d7huSFFy71pWLrnPwGwOHVzXsmsG-1a1mZnQw8aAt89EALw_wcB&hsa_acc=1782073842&hsa_ad=548425387665&hsa_cam=14746637662&hsa_grp=125038601902&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_src=g&hsa_tgt=dsa-1431852288425&hsa_ver=3&utm_campaign=%5BCD%5D%20-%20DSA%20-%20EMEA&utm_medium=cpc&utm_medium=ppc&utm_source=google&utm_source=adwords&utm_term=) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-12-05_if-imposed-us-tariffs-on-canadian-crude-would-benefit-aframaxes_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_b18c7df34354.png)
 
 Data Source:[Vortexa](https://www.vortexa.com//oil-gas-data-traders-analysts-data-scientists?gclid=Cj0KCQjw8_qRBhCXARIsAE2AtRZKOvMnbilZ_6_91d7huSFFy71pWLrnPwGwOHVzXsmsG-1a1mZnQw8aAt89EALw_wcB&hsa_acc=1782073842&hsa_ad=548425387665&hsa_cam=14746637662&hsa_grp=125038601902&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_src=g&hsa_tgt=dsa-1431852288425&hsa_ver=3&utm_campaign=%5BCD%5D%20-%20DSA%20-%20EMEA&utm_medium=cpc&utm_medium=ppc&utm_source=google&utm_source=adwords&utm_term=)
 

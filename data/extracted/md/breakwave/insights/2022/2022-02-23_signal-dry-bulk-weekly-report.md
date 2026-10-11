@@ -34,10 +34,10 @@ It is understandable that a Russian invasion of Ukraine will have an extremely n
 
 ‘The Big Picture’ - Capesize and Panamax Bulkers and Smaller Ship Sizes
 
-![Ch1](assets/2022-02-23_signal-dry-bulk-weekly-report_img_ch1_11a0311e7e52.png)
+![Ch1](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-02-23_signal-dry-bulk-weekly-report_img_ch1_11a0311e7e52.png)
 
 > **Figure 1: Ch1**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-02-23_signal-dry-bulk-weekly-report_img_ch1_11a0311e7e52.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-02-23_signal-dry-bulk-weekly-report_img_ch1_11a0311e7e52.png)
 
 - Capesize Brazil to NChina rates are on increase but still hover below $25/t. Panamax Continent to Far East rates that surpassed the barrier of $40/t with a spike at $46.5/t last week are now at soft lower levels of $45.6/t.
 
@@ -50,10 +50,10 @@ It is understandable that a Russian invasion of Ukraine will have an extremely n
 
 Supply Trend Lines for Key Load Areas
 
-![Ch2](assets/2022-02-23_signal-dry-bulk-weekly-report_img_ch2_4b7b16598e6d.png)
+![Ch2](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-02-23_signal-dry-bulk-weekly-report_img_ch2_4b7b16598e6d.png)
 
 > **Figure 2: Ch2**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-02-23_signal-dry-bulk-weekly-report_img_ch2_4b7b16598e6d.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-02-23_signal-dry-bulk-weekly-report_img_ch2_4b7b16598e6d.png)
 
 - The ballasters’ view has now confirmed the downward correction that was signaled since last week in the Capesize and Panamax sectors.
 
@@ -64,10 +64,10 @@ Supply Trend Lines for Key Load Areas
 
 ## Increasing
 
-![Ch3](assets/2022-02-23_signal-dry-bulk-weekly-report_img_ch3_baee3b3c9369.png)
+![Ch3](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-02-23_signal-dry-bulk-weekly-report_img_ch3_baee3b3c9369.png)
 
 > **Figure 3: Ch3**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-02-23_signal-dry-bulk-weekly-report_img_ch3_baee3b3c9369.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-02-23_signal-dry-bulk-weekly-report_img_ch3_baee3b3c9369.png)
 
 - The dry bulk demand evolution eventually started to increase for the large vessel sizes, while the ongoing threat on the wheat supply market stemming from Russian-Ukraine tensions is paving the way for higher Supramax tondays growth.
 
@@ -79,10 +79,10 @@ Supply Trend Lines for Key Load Areas
 
 ## Dry Bulk Ships Congested Around Chinese Ports
 
-![Ch4](assets/2022-02-23_signal-dry-bulk-weekly-report_img_ch4_7d8d82877cf5.png)
+![Ch4](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-02-23_signal-dry-bulk-weekly-report_img_ch4_7d8d82877cf5.png)
 
 > **Figure 4: Ch4**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-02-23_signal-dry-bulk-weekly-report_img_ch4_7d8d82877cf5.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-02-23_signal-dry-bulk-weekly-report_img_ch4_7d8d82877cf5.png)
 
 - The last days of February reversed the sudden increase that was recorded in the previous week and we see now a decrease with levels , almost to below the threshold of 1,000 vessels.
 

@@ -32,10 +32,18 @@ For the tanker market, the implications are less clear-cut. A boost in productio
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: Will They Or Wont They](../../../charts/poten/2019/poten_2019-11-22_will-they-or-wont-they_chart1.png)
+![Exhibit 1: OPEC Crude Oil Production](../../../charts/poten/2019/poten_2019-11-22_will-they-or-wont-they_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2019/poten_2019-11-22_will-they-or-wont-they_chart1.png)
+> **Exhibit 1: OPEC Crude Oil Production**  
+> Unit: Mb/d · X-axis: Jan-14 to Jun-19  
+> Series: OPEC Crude Oil Production  
+> *Source: IEA*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2019/poten_2019-11-22_will-they-or-wont-they_chart1.png)
 
-![Exhibit 2: Will They Or Wont They](../../../charts/poten/2019/poten_2019-11-22_will-they-or-wont-they_chart2.png)
+![Exhibit 2: 2020 'Call On OPEC' Outlook](../../../charts/poten/2019/poten_2019-11-22_will-they-or-wont-they_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2019/poten_2019-11-22_will-they-or-wont-they_chart2.png)
+> **Exhibit 2: 2020 'Call On OPEC' Outlook**  
+> Unit: Mb/d · X-axis: Jun-19 to Nov-19  
+> Series: EIA, OPEC, IEA  
+> *Source: EIA, OPEC, IEA*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2019/poten_2019-11-22_will-they-or-wont-they_chart2.png)

@@ -34,28 +34,28 @@ Since China joined the World Trade Organization twenty years ago, the country ha
 
 While there has been a reduction in ordering activities and imports in China in recent weeks due to the flare-up in infection rates, it is not the only reason for declining rates. The downward trend started to develop last year as Beijing grew increasingly concerned about pollution levels and increasing commodity prices. Aggregate order data for dry bulk cargoes have seen a steady decline since the middle of last year, with last week’s volumes at par with the runup to the Chinese New Year in early February.
 
-![Ch1](assets/2022-04-27_chinese-dry-bulk-imports-under-pressure_img_ch1_870e097019cf.png)
+![Ch1](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-04-27_chinese-dry-bulk-imports-under-pressure_img_ch1_870e097019cf.png)
 
 > **Figure 1: Ch1**  
-> **Interactive Data & Source:** [Shipfix](https://shipfix.com/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-04-27_chinese-dry-bulk-imports-under-pressure_img_ch1_870e097019cf.png)
+> **Interactive Data & Source:** [Shipfix](https://shipfix.com/) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-04-27_chinese-dry-bulk-imports-under-pressure_img_ch1_870e097019cf.png)
 
 Source: Shipfix
 
 China’s appetite for seaborne coal imports has been in decline as the country ramps up its own mining output. Last month saw a fifteen per cent increase in Chinese production. Price controls on domestic supplies are also putting imported coal at a disadvantage. Hence, cargo orders during the last three weeks are among the lowest recorded in recent years. With Chinese production set to keep increasing during the year, cargo order volumes for coal are likely to remain low for the foreseeable future. However, the development may not be all bad news for dry bulk shipping, as it frees up export capacity for other, more distant customers. While Indonesian coal supplies often are not suitable for European customers, excess supplies from the island nation may find their way to India, re-establishing a previous trade flow. In turn, such a development could see Australian coal increasingly shipped to Europe and Japan to replace banned Russian supplies.
 
-![Ch2](assets/2022-04-27_chinese-dry-bulk-imports-under-pressure_img_ch2_27d5c01ffe44.png)
+![Ch2](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-04-27_chinese-dry-bulk-imports-under-pressure_img_ch2_27d5c01ffe44.png)
 
 > **Figure 2: Ch2**  
-> **Interactive Data & Source:** [Shipfix](https://shipfix.com/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-04-27_chinese-dry-bulk-imports-under-pressure_img_ch2_27d5c01ffe44.png)
+> **Interactive Data & Source:** [Shipfix](https://shipfix.com/) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-04-27_chinese-dry-bulk-imports-under-pressure_img_ch2_27d5c01ffe44.png)
 
 Source: Shipfix
 
 Like for coal, cargo order volumes for agricultural commodities discharging in Chinese ports have pulled back considerably from the dizzy heights observed during 2020 and 2021. In the wake of the African swine flu, the rebuilding of the Chinese pig herd contributed to the country purchasing any available grains and oilseeds, either newly harvested or from inventories. However, with stockpiles depleted and the Chinese economy facing considerable headwinds, the demand for seaborne transportation of agricultural commodities has declined. Recent weeks have seen relatively robust order volumes, but volumes may start to decrease with the Brazilian harvest mostly complete.
 
-![Ch3](assets/2022-04-27_chinese-dry-bulk-imports-under-pressure_img_ch3_062178a64ac8.png)
+![Ch3](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-04-27_chinese-dry-bulk-imports-under-pressure_img_ch3_062178a64ac8.png)
 
 > **Figure 3: Ch3**  
-> **Interactive Data & Source:** [Shipfix](https://shipfix.com/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-04-27_chinese-dry-bulk-imports-under-pressure_img_ch3_062178a64ac8.png)
+> **Interactive Data & Source:** [Shipfix](https://shipfix.com/) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-04-27_chinese-dry-bulk-imports-under-pressure_img_ch3_062178a64ac8.png)
 
 Source: Shipfix
 

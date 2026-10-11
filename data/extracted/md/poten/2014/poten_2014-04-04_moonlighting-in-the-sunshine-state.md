@@ -28,10 +28,18 @@ With US refineries cranking out refined products with all-time fervor, the US Gu
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: Moonlighting in the Sunshine State](../../../charts/poten/2014/poten_2014-04-04_moonlighting-in-the-sunshine-state_chart1.png)
+![Exhibit 1: Florida Gasoline Market](../../../charts/poten/2014/poten_2014-04-04_moonlighting-in-the-sunshine-state_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2014/poten_2014-04-04_moonlighting-in-the-sunshine-state_chart1.png)
+> **Exhibit 1: Florida Gasoline Market**  
+> Unit: kbd | % · X-axis: Jan-10 to Mar-14  
+> Series: Domestic Supplies, Foreign Imports, % Foreign Imports  
+> *Source: EIA, Poten*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2014/poten_2014-04-04_moonlighting-in-the-sunshine-state_chart1.png)
 
-![Exhibit 2: Moonlighting in the Sunshine State](../../../charts/poten/2014/poten_2014-04-04_moonlighting-in-the-sunshine-state_chart2.png)
+![Exhibit 2: Relative Transportation Costs](../../../charts/poten/2014/poten_2014-04-04_moonlighting-in-the-sunshine-state_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2014/poten_2014-04-04_moonlighting-in-the-sunshine-state_chart2.png)
+> **Exhibit 2: Relative Transportation Costs**  
+> Unit: $/bbl · X-axis: Jan-09 to Mar-14  
+> Series: Houston - Port Everglades, UK Continent - Port Everglades  
+> *Source: Poten*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2014/poten_2014-04-04_moonlighting-in-the-sunshine-state_chart2.png)

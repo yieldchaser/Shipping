@@ -29,10 +29,10 @@ In the grain market, we see that Ukrainian exports remain at a monthly level sig
 
 *Monthly November volume tonnes from Ukraine to all countries weaker than September-October*
 
-![Market Chart 1](assets/2022-12-02_signal-dry-bulk-weekly-report_img_unnamed-2022-12-02t152241053_f642d7c03d8c.png)
+![Market Chart 1](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-12-02_signal-dry-bulk-weekly-report_img_unnamed-2022-12-02t152241053_f642d7c03d8c.png)
 
 > **Figure 1: Market Chart 1**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://go.signalocean.com/e/983831/dry-dynamic-drybulkflows/2l7g3j/288942606?h=ukbIAP-7r8r8uPZOHScByqSKSsZh67oYXxiFSb3Ciyg) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-12-02_signal-dry-bulk-weekly-report_img_unnamed-2022-12-02t152241053_f642d7c03d8c.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://go.signalocean.com/e/983831/dry-dynamic-drybulkflows/2l7g3j/288942606?h=ukbIAP-7r8r8uPZOHScByqSKSsZh67oYXxiFSb3Ciyg) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-12-02_signal-dry-bulk-weekly-report_img_unnamed-2022-12-02t152241053_f642d7c03d8c.png)
 
 Data Source: The Signal Ocean Platform, Grain Flows from Ukraine to all destinations
 
@@ -40,10 +40,10 @@ Data Source: The Signal Ocean Platform, Grain Flows from Ukraine to all destinat
 
 ‘The Big Picture’ - Capesize and Panamax Bulkers and Smaller Ship Sizes
 
-![Market Chart 2](assets/2022-12-02_signal-dry-bulk-weekly-report_img_unnamed-2022-12-02t152325297_ffe94b93b947.png)
+![Market Chart 2](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-12-02_signal-dry-bulk-weekly-report_img_unnamed-2022-12-02t152325297_ffe94b93b947.png)
 
 > **Figure 2: Market Chart 2**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-12-02_signal-dry-bulk-weekly-report_img_unnamed-2022-12-02t152325297_ffe94b93b947.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-12-02_signal-dry-bulk-weekly-report_img_unnamed-2022-12-02t152325297_ffe94b93b947.png)
 
 We see an upward trend in freight rates for late November after a sustained decline throughout the month.
 
@@ -56,10 +56,10 @@ We see an upward trend in freight rates for late November after a sustained decl
 
 ## Section 2/ Supply -Ballasters (# Vessels) Increasing
 
-![Supply Trend Lines for Key Load Areas](assets/2022-12-02_signal-dry-bulk-weekly-report_img_unnamed-2022-12-02t152427448_d2d8bd1272de.png)
+![Supply Trend Lines for Key Load Areas](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-12-02_signal-dry-bulk-weekly-report_img_unnamed-2022-12-02t152427448_d2d8bd1272de.png)
 
 > **Figure 3: Supply Trend Lines for Key Load Areas**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-12-02_signal-dry-bulk-weekly-report_img_unnamed-2022-12-02t152427448_d2d8bd1272de.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-12-02_signal-dry-bulk-weekly-report_img_unnamed-2022-12-02t152427448_d2d8bd1272de.png)
 
 The Capesize, Panamax, and Supramax segments have seen an increase in the number of ballast ships, while Handysize has seen an unexpectedly significant decrease.
 
@@ -72,10 +72,10 @@ The Capesize, Panamax, and Supramax segments have seen an increase in the number
 
 ## Section 3/ Demand -TonDays Decreasing
 
-![TonDays Decreasing](assets/2022-12-02_signal-dry-bulk-weekly-report_img_unnamed-2022-12-02t152508054_4550f7bbab6f.png)
+![TonDays Decreasing](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-12-02_signal-dry-bulk-weekly-report_img_unnamed-2022-12-02t152508054_4550f7bbab6f.png)
 
 > **Figure 4: TonDays Decreasing**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-12-02_signal-dry-bulk-weekly-report_img_unnamed-2022-12-02t152508054_4550f7bbab6f.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-12-02_signal-dry-bulk-weekly-report_img_unnamed-2022-12-02t152508054_4550f7bbab6f.png)
 
 Demand growth in the Capesize segment continues to decline significantly, although there have been signs of an upturn in the Panamax segment over the past two weeks.
 
@@ -88,10 +88,10 @@ Demand growth in the Capesize segment continues to decline significantly, althou
 
 ## Section 4/ Port Congestion -No of Vesselsincreasing
 
-![Dry Bulk Ships Congested at Chinese Ports](assets/2022-12-02_signal-dry-bulk-weekly-report_img_unnamed-2022-12-02t152557032_ebc6cabfc083.png)
+![Dry Bulk Ships Congested at Chinese Ports](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-12-02_signal-dry-bulk-weekly-report_img_unnamed-2022-12-02t152557032_ebc6cabfc083.png)
 
 > **Figure 5: Dry Bulk Ships Congested at Chinese Ports**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-12-02_signal-dry-bulk-weekly-report_img_unnamed-2022-12-02t152557032_ebc6cabfc083.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-12-02_signal-dry-bulk-weekly-report_img_unnamed-2022-12-02t152557032_ebc6cabfc083.png)
 
 In recent days, vessel congestion is similar to week 27, with a significant increase in the Panamax and Supramax segments, while Capesize shows a decreasing trend.
 

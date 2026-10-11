@@ -20,10 +20,10 @@ source_file: "corpus/03-breakwave/insights/2026/2026-01-26_eu-latin-america-fres
 
 ---
 
-![Rgb Color Brs Shipbrokers Monogram L](assets/2026-01-26_eu-latin-america-fresh-trade-dynamics_img_rgb-color-brs-shipbrokers-monogram-l_c365f35f1de5.png)
+![Rgb Color Brs Shipbrokers Monogram L](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-01-26_eu-latin-america-fresh-trade-dynamics_img_rgb-color-brs-shipbrokers-monogram-l_c365f35f1de5.png)
 
 > **Figure 1: Rgb Color Brs Shipbrokers Monogram L**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-01-26_eu-latin-america-fresh-trade-dynamics_img_rgb-color-brs-shipbrokers-monogram-l_c365f35f1de5.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-01-26_eu-latin-america-fresh-trade-dynamics_img_rgb-color-brs-shipbrokers-monogram-l_c365f35f1de5.png)
 
 The European Union and Mercosur (a South American trade bloc) have delivered their long-sought trade pact, along with a political statement few could have imagined when talks began 25 years ago. The agreement, which awaits approval from the European Parliament, will eliminate more than 90% of tariffs on EU exports to South America. In return, the deal will gradually erase tariffs on a range of agricultural goods from South America, expanding markets for the four Mercosur nations.
 
@@ -37,19 +37,19 @@ That said, should the deal ultimately materialise, it is worth examining both th
 
 At first glance, for grain exporters such as Brazil and Argentina, the agreement helps to reduce overdependence on China for its grain exports. This could become important if China was to pivot back toward US corn and soybeans supplies under geopolitical pressure or scale back purchases due to economic considerations.
 
-![Στιγμιότυπο Οθόνης 2026 01 26 151505](assets/2026-01-26_eu-latin-america-fresh-trade-dynamics_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_c87449ab9766.png)
+![Στιγμιότυπο Οθόνης 2026 01 26 151505](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-01-26_eu-latin-america-fresh-trade-dynamics_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_c87449ab9766.png)
 
 > **Figure 2: Στιγμιότυπο Οθόνης 2026 01 26 151505**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-01-26_eu-latin-america-fresh-trade-dynamics_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_c87449ab9766.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-01-26_eu-latin-america-fresh-trade-dynamics_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_c87449ab9766.png)
 
 According to AXSMarine data, grain loadings at ECSA ports including soybeans and corn have expanded at a healthy compound rate of 6.6% per annum between 2021 and 2025, lifting total volumes from 170 mln mt to 219.5 mln mt. As overall volumes grew, China’s share of these shipments also increased markedly.
 
 In 2021, China alone accounted for an already disproportionate 39.4% of ECSA grain exports. By 2025, this share had risen further to 46.5%, having peaked at an extraordinary 50.1% in 2023. While this trend has been a clear win for Kamsarmax and Panamax demand from both a volume and tonmile perspective, particularly as coal trade underperformed, it presents a less optimal outcome from a diversification standpoint for Mercosur nations.
 
-![Στιγμιότυπο Οθόνης 2026 01 26 151513](assets/2026-01-26_eu-latin-america-fresh-trade-dynamics_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_90ad0119891c.png)
+![Στιγμιότυπο Οθόνης 2026 01 26 151513](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-01-26_eu-latin-america-fresh-trade-dynamics_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_90ad0119891c.png)
 
 > **Figure 3: Στιγμιότυπο Οθόνης 2026 01 26 151513**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-01-26_eu-latin-america-fresh-trade-dynamics_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_90ad0119891c.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-01-26_eu-latin-america-fresh-trade-dynamics_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_90ad0119891c.png)
 
 Since peaking at 71.3 mln mt, bulker shipments from ECSA ports to the EU have dropped, with 2025 volumes easing to 59.2 mln mt. In the opposite direction, bulk carrier flows from the EU to ECSA have contracted even more sharply, effectively halving from 11.8 mln mt in 2021 to just 5.8 mln mt in 2025.
 
@@ -69,10 +69,10 @@ The automotive sector is particularly important for Germany’s industrial base,
 
 Importantly, liberalisation under the EU Mercosur agreement will not be front-loaded. At Brazil’s insistence, reflecting the presence of a sizeable domestic automotive industry, tariff reductions will be phased in gradually rather than eliminated outright. Electric vehicles are expected to receive preferential treatment, an area where Europe has historically lagged.
 
-![Στιγμιότυπο Οθόνης 2026 01 26 151713](assets/2026-01-26_eu-latin-america-fresh-trade-dynamics_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_747af99721f1.png)
+![Στιγμιότυπο Οθόνης 2026 01 26 151713](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-01-26_eu-latin-america-fresh-trade-dynamics_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_747af99721f1.png)
 
 > **Figure 4: Στιγμιότυπο Οθόνης 2026 01 26 151713**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-01-26_eu-latin-america-fresh-trade-dynamics_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_747af99721f1.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-01-26_eu-latin-america-fresh-trade-dynamics_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_747af99721f1.png)
 
 From a dry bulk perspective, any improvement in industrial activity would be welcomed as it would support incremental steel demand. Since peaking at 14.9 mln mt in 2018, Germany’s iron ore imports (from Supramaxes to Capesizes), largely discharged at Hamburg and Bremen, have failed to register new highs and have instead fluctuated within a narrow 12.4–12.8 mln mt range over the 2022–2025 period.
 

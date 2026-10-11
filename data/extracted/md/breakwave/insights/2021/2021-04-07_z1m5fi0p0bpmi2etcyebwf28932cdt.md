@@ -24,7 +24,7 @@ source_file: "corpus/03-breakwave/insights/2021/2021-04-07_z1m5fi0p0bpmi2etcyebw
 
 > **Figure 1: Rising Demand for Everything From Soybeans to Steel Has Sent The**  
 > *Rising demand for everything from soybeans to steel has sent the cost of hauling dry goods soaring more than 50% this year. Manufacturing, which first picked up in China, is now accelerating elsewhere, and countries are stepping up commodity purchases to rebuild stockpiles after running them down during lockdowns that slowed port operations and hit economic activity globally.*  
-> **Interactive Data & Source:** [En Wikipedia](https://en.wikipedia.org/wiki/2021_Suez_Canal_obstruction) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2021/assets/2021-04-07_z1m5fi0p0bpmi2etcyebwf28932cdt_img_evergreen_a820226c791f.jpg)
+> **Interactive Data & Source:** [En Wikipedia](https://en.wikipedia.org/wiki/2021_Suez_Canal_obstruction) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-04-07_z1m5fi0p0bpmi2etcyebwf28932cdt_img_evergreen_a820226c791f.jpg)
 
 Once again, shipping is capturing the attention of the broader media, as rates for both dry bulk and containers have surged in recent months and now is showing up on the price of goods across the globe. The[Suez Canal incident](https://en.wikipedia.org/wiki/2021_Suez_Canal_obstruction)also added fuel to the fire and brought the shipping market in the frontpage of newspapers globally, although the actual impact ended up minimal given the nature of the disruption, as we have also highlighted in the past few weeks.
 
@@ -44,7 +44,7 @@ For dry bulk, the recent surge on the sub-cape segments is a great example of su
 
 > **Figure 2: All of That Is Happening Just As the Fleet of Bulk Ships Isn’t**  
 > *All of that is happening just as the fleet of bulk ships isn’t expected to grow, with very few orders on the books. President Joe Biden’s economic stimulus and infrastructure packages also bode well for commodity demand and therefore freight rates. “We are quite positive for this year and next year,” said Lars-Christian Svensen, chief commercial officer at Golden Ocean Group Ltd. “Dry commodities have been a bit dormant for the past few years, but they’re taking off at the moment.”*  
-> **Interactive Data & Source:** [Bloombergquint](https://www.bloombergquint.com/business/commodity-shipping-rates-are-surging-and-the-rally-isn-t-over) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2021/assets/2021-04-07_z1m5fi0p0bpmi2etcyebwf28932cdt_img_c26p_911ecc515cde.jpg)
+> **Interactive Data & Source:** [Bloombergquint](https://www.bloombergquint.com/business/commodity-shipping-rates-are-surging-and-the-rally-isn-t-over) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-04-07_z1m5fi0p0bpmi2etcyebwf28932cdt_img_c26p_911ecc515cde.jpg)
 
 Such a correction is currently underway, as smaller size freight rates are drifting lower while Capesize rates are now pushing higher. Such a dynamic is not really visible in the surface, as the Baltic Dry Index that reflects a weighted average of all vessels remains relatively stable during such process given the mix. But underneath, the “order of the market is being restored” and that is good news for investors. After all, levels are still quite high versus history, and given the fact that we are past the slow season (first quarter is seasonally the weakest one of the year) investors should remain optimistic.
 

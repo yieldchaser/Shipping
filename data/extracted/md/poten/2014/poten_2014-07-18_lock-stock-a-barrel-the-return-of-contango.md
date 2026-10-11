@@ -38,4 +38,4 @@ This week's developments intimate that the WTI benchmark could be moving more to
 
 ![Exhibit 1: Lock, Stock a Barrel: The Return of Contango?](../../../charts/poten/2014/poten_2014-07-18_lock-stock-a-barrel-the-return-of-contango_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2014/poten_2014-07-18_lock-stock-a-barrel-the-return-of-contango_chart1.png)
+> **Interactive Asset:** [Local Asset (200 DPI PNG)](../../../charts/poten/2014/poten_2014-07-18_lock-stock-a-barrel-the-return-of-contango_chart1.png)

@@ -20,21 +20,25 @@ When Covid-19 started to spread around the world in the early months of 2020, a 
 
 Floating storage, which tends to be more expensive that on- land storage, peaked at more than 300 million barrels in July 2020, up 173% from the 110 million barrels in January of that year. Since then, the volume of oil stored on board tankers has declined to about 150 million barrels, about the same level as it was one year ago. It is interesting to note that floating storage levels have picked up slightly in recent weeks, from a low of 136 million barrels in March to 157 million barrels this week. While floating storage in most locations around the world has stabilized or continued to decline, floating storage in the China Sea has seen an uptick in recent months. This may well be caused by the startup of new refineries in Shandong province that require startup inventories.
 
-While the buildup of floating storage was good news for the tanker market, the unwinding of these inventories, in combination with the continued lackluster oil demand during the Covid-19 pandemic depressed tanker rates, as can be seen in [Chart 1](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2021/poten_2021-04-23_draining-the-oil-stocks_chart1.png). Over the last 3-6 months, many vessels that were employed as floating storage units have come back in the tanker spot market, looking for employment. At the same time, oil demand remained compromised and although demand started to come back, these extra volumes were supplied from storage, not generating any shipping demand. In short, tanker supply increased, while tanker demand remained down.
+While the buildup of floating storage was good news for the tanker market, the unwinding of these inventories, in combination with the continued lackluster oil demand during the Covid-19 pandemic depressed tanker rates, as can be seen in [Chart 1](../../../charts/poten/2021/poten_2021-04-23_draining-the-oil-stocks_chart1.png). Over the last 3-6 months, many vessels that were employed as floating storage units have come back in the tanker spot market, looking for employment. At the same time, oil demand remained compromised and although demand started to come back, these extra volumes were supplied from storage, not generating any shipping demand. In short, tanker supply increased, while tanker demand remained down.
 
-> **Exhibit 1: Draining The Oil Stocks (Chart 1)**  
-> *Source: Poten & Partners*  
-> **Interactive Data & Source:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2021/poten_2021-04-23_draining-the-oil-stocks_chart1.png)
+> **Exhibit 1: Floating Storage Over Time**  
+> Unit: Mln Bbl | TCE · X-axis: Jan-19 to Apr-21  
+> Series: VLCC, Suezmax, Aframax, VLCC AG-FE TCE  
+> *Source: Lloyd’s List Intelligence*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2021/poten_2021-04-23_draining-the-oil-stocks_chart1.png)
 
-![Exhibit 1: Draining The Oil Stocks](../../../charts/poten/2021/poten_2021-04-23_draining-the-oil-stocks_chart1.png)
+![Exhibit 1: Floating Storage Over Time](../../../charts/poten/2021/poten_2021-04-23_draining-the-oil-stocks_chart1.png)
 
-However, it appears that the fortunes of the tanker owners could be changing. As demand is gradually coming back, global oil inventories have been reduced and are now mostly back to historical averages. As can be seen in [Chart 2](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2021/poten_2021-04-23_draining-the-oil-stocks_chart2.png), crude oil and refined product inventories, which were increasing relative to prior year periods since the beginning of 2020 have begun to stabilize. In recent months, some inventory components, like products in Asia/Oceania and the Americas are lower than they were a year ago.
+However, it appears that the fortunes of the tanker owners could be changing. As demand is gradually coming back, global oil inventories have been reduced and are now mostly back to historical averages. As can be seen in [Chart 2](../../../charts/poten/2021/poten_2021-04-23_draining-the-oil-stocks_chart2.png), crude oil and refined product inventories, which were increasing relative to prior year periods since the beginning of 2020 have begun to stabilize. In recent months, some inventory components, like products in Asia/Oceania and the Americas are lower than they were a year ago.
 
-> **Exhibit 2: Draining The Oil Stocks (Chart 2)**  
-> *Source: Poten & Partners*  
-> **Interactive Data & Source:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2021/poten_2021-04-23_draining-the-oil-stocks_chart2.png)
+> **Exhibit 2: OECD Industrial Oil Inventories vs Prior Year**  
+> Unit: Million bbl · X-axis: Jan-20 to Feb-21  
+> Series: Americas Crude, Americas Products, Europe Crude, Europe Products, Asia Oceania Crude, Asia Oceania Products, Total  
+> *Source: IEA*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2021/poten_2021-04-23_draining-the-oil-stocks_chart2.png)
 
-![Exhibit 2: Draining The Oil Stocks](../../../charts/poten/2021/poten_2021-04-23_draining-the-oil-stocks_chart2.png)
+![Exhibit 2: OECD Industrial Oil Inventories vs Prior Year](../../../charts/poten/2021/poten_2021-04-23_draining-the-oil-stocks_chart2.png)
 
 The tanker market is not out of the woods yet and the stubbornly high Covid rates in parts of Europe and the resurgence of the virus in India and Brazil could slow or reverse the recent demand increases. However, as the inventory situation has normalized, any future oil demand increases will most likely translate directly into more tanker demand. There is still ample tanker supply, but it is a subtle change that could have a material impact on rates going forward.
 

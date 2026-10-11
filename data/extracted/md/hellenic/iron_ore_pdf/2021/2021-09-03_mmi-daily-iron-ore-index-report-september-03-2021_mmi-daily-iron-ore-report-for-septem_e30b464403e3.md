@@ -148,6 +148,8 @@ As of September 3, iron ore inventories across 35 ports tracked by SMM totalled 
 | **Jiangyin** | -30.00 | +25.00 | **-** | - | - |
 
 ## Historical Iron Ore Index Comparisons (USD/DMT)
+> **Approximate.** The report prints no numbers for this chart. Values were read visually from the chart image by the parser and are rough estimates.
+
 | Date | IOSI62 (USD/DMT) | IOPi62 CFR Eq (USD/DMT) | IOSI65 (USD/DMT) | IOPi65 CFR Eq (USD/DMT) |
 | :--- | :--- | :--- | :--- | :--- |
 | 19-Sep-20 | 125.00 | 125.00 | 130.00 | 130.00 |
@@ -180,6 +182,8 @@ As of September 3, iron ore inventories across 35 ports tracked by SMM totalled 
 | **SGX** | **Sep. 21** | USD/DMT | 145.20 | +5.20 | +3.71% | 1.38 | 181.26 | 139.60 | 149.90 |
 
 ## Dry Bulk Freight Rates Historical Line Data (USD/MT)
+> **Approximate.** The report prints no numbers for this chart. Values were read visually from the chart image by the parser and are rough estimates.
+
 | Date | C5 W. Australia - Qingdao (USD/MT) | C3 Tubarao - Qingdao (USD/MT) |
 | :--- | :--- | :--- |
 | Jingtang | 16.12 | 0.25 |
@@ -190,6 +194,8 @@ As of September 3, iron ore inventories across 35 ports tracked by SMM totalled 
 | Total (35 Ports) | 122.55 | 0.90 |
 
 ## Total China Iron Ore Import Volumes (Million Tonnes)
+> **Approximate.** The report prints no numbers for this chart. Values were read visually from the chart image by the parser and are rough estimates.
+
 | Month / Period | Import Volume (Million Tonnes) |
 | :--- | :--- |
 | Jul-20 | 112.00 |

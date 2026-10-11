@@ -20,10 +20,10 @@ source_file: "corpus/03-breakwave/insights/2024/2024-10-22_id-give-you-a-cookie-
 
 ---
 
-![Rgb Color Brs Shipbrokers Monogram Logo](assets/2024-10-22_id-give-you-a-cookie-but-i-ate-it_img_rgb-color-brs-shipbrokers-monogram-l_ee79606c8e74.png)
+![Rgb Color Brs Shipbrokers Monogram Logo](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-10-22_id-give-you-a-cookie-but-i-ate-it_img_rgb-color-brs-shipbrokers-monogram-l_ee79606c8e74.png)
 
 > **Figure 1: Rgb Color Brs Shipbrokers Monogram Logo**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-10-22_id-give-you-a-cookie-but-i-ate-it_img_rgb-color-brs-shipbrokers-monogram-l_ee79606c8e74.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-10-22_id-give-you-a-cookie-but-i-ate-it_img_rgb-color-brs-shipbrokers-monogram-l_ee79606c8e74.png)
 
 Earlier this month, Beijing introduced a series of economic measures which comprised simultaneously for the first time, rate cuts, a reduction in the RRR (Reserve Requirement Ratio) and structural monetary policies. While still facing in-depth structural economic changes, the stimulus objectives are to revamp the property sector which grew to become a main driver of Chinese economic growth over the past decade. Whereas those measures are meant to boost consumer confidence, the real estate crisis combined with deflationary pressures appear to be a millstone to China’s economic rebound. Nonetheless, following the announcement, Goldman Sachs revised up its forecasts of Chinese economic growth in both 2024 and 2025. Accordingly, the bank now expects Chinese GDP growth to reach 4.9% in 2024, 0.2 percentage points higher than previously forecast and closer to the 5% initially targeted by Beijing. Thereafter it projects growth to decelerate to 4.7% in 2025, up from its earlier projection of 4.3%.
 
@@ -35,10 +35,10 @@ Nevertheless, it seems that confidence is lacking since homebuyers, investors as
 
 Opinions diverge on whether this newly introduced stimulus package will have a significant impact on dry bulker fundamentals and whether the potential additional demand will support dry bulk freight for the remainder of the year. Indeed, despite a struggling property sector in China, the country’s imports of iron ore and coal have remained robust. According to AXSMarine data, China’s iron ore and coal shipments totalled 925 mln mt and 307 mln mt, respectively, over the first nine months of the year. Those figures represent an annual increase of 5% for iron ore and 9% for coal, albeit the country’s steel production has been on the wane and posted an annual decline of 3% through the first eight months of the year. The World Steel Association is expecting Chinese steel production to contract by 3% by the end of 2024 in the wake of the travails of the real estate sector. Thereafter, this decline is seen to moderate to 1% in 2025.
 
-![Στιγμιότυπο Οθόνης 2024 10 22 111430](assets/2024-10-22_id-give-you-a-cookie-but-i-ate-it_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_582ab47ef085.png)
+![Στιγμιότυπο Οθόνης 2024 10 22 111430](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-10-22_id-give-you-a-cookie-but-i-ate-it_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_582ab47ef085.png)
 
 > **Figure 2: Στιγμιότυπο Οθόνης 2024 10 22 111430**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-10-22_id-give-you-a-cookie-but-i-ate-it_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_582ab47ef085.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-10-22_id-give-you-a-cookie-but-i-ate-it_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_582ab47ef085.png)
 
 Global seaborne iron ore and coal volumes increased by 4.2% and 1% y-o-y so far this year. When looking at Capesize trades, the segment has transported almost 4% more than it did a year ago throughout the first nine months of the year. Much of this support has stemmed from China which has accounted for about 70% of the volume transported by the segment so far this year.
 
@@ -46,17 +46,17 @@ As a result, the Capesize time charter average assessed by the Baltic Exchange h
 
 Although the end of the year is usually a strong period for Capesizes given that it coincides with the post-holiday period in China and beginning of winter, it seems there is little room for volumes to tick higher across the remainder of the year. Indeed, strong imports so far this year have resulted in ample iron ore stocks at ports. Iron ore port inventories have gained 20 mln mt since the beginning of the restocking since November 2023.
 
-![Στιγμιότυπο Οθόνης 2024 10 22 111445](assets/2024-10-22_id-give-you-a-cookie-but-i-ate-it_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_38c58c44a7f8.png)
+![Στιγμιότυπο Οθόνης 2024 10 22 111445](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-10-22_id-give-you-a-cookie-but-i-ate-it_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_38c58c44a7f8.png)
 
 > **Figure 3: Στιγμιότυπο Οθόνης 2024 10 22 111445**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-10-22_id-give-you-a-cookie-but-i-ate-it_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_38c58c44a7f8.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-10-22_id-give-you-a-cookie-but-i-ate-it_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_38c58c44a7f8.png)
 
 On the other hand, coal market participants appear slightly more optimistic regarding China’s coal winter restocking, with ports and plant inventories at end-September being 5% and 4% lower than one year earlier.
 
-![Στιγμιότυπο Οθόνης 2024 10 22 111500](assets/2024-10-22_id-give-you-a-cookie-but-i-ate-it_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_ab19ac529a54.png)
+![Στιγμιότυπο Οθόνης 2024 10 22 111500](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-10-22_id-give-you-a-cookie-but-i-ate-it_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_ab19ac529a54.png)
 
 > **Figure 4: Στιγμιότυπο Οθόνης 2024 10 22 111500**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-10-22_id-give-you-a-cookie-but-i-ate-it_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_ab19ac529a54.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-10-22_id-give-you-a-cookie-but-i-ate-it_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_ab19ac529a54.png)
 
 However, Capesize freight seems to have been enrolled in a downward trend since we entered the last quarter of the year and China’s stimulus package does not appear to be boosting the segment’s fortunes as other factors appear to be offsetting Beijing’s stimulus announcement. Not only cargo demand resulting from China’s stimulus package will be limited, but demand from the Atlantic is reported to be slow, thereby generating an oversupply in the region. Indeed, oversupply appears to be the main factor capping freight rates. Furthermore, Atlantic demand is being clipped by the recent closure of Vale’s Itagua (aka Septiba) port. This is expected to remain shut until January. To put this in perspective, the port itself represented 22.1 mln mt of cargoes for which 95.6% were shipped via Capesize through 4Q23.
 

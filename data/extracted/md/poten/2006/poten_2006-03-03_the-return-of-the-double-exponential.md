@@ -68,6 +68,20 @@ If you really want to blow your (tanker) mind, think of what oil consumption wou
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: The Return of the "Double Exponential](../../../charts/poten/2006/poten_2006-03-03_the-return-of-the-double-exponential_chart1.png)
+> **Chart on PDF page 1: Energy Consumption and Population Growth**  
+> Unit: Population in Billions | Million Tons Oil Equivalent · X-axis: 1965 to 2005  
+> Series: Energy Consumption, Population  
+> *Source: BP Statistics/Poten*  
+> *No image crop of this chart was saved; caption read from the PDF.*
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2006/poten_2006-03-03_the-return-of-the-double-exponential_chart1.png)
+> **Chart on PDF page 2: Per Capita Energy Consumption Global Basis**  
+> Unit: Bbls of Oil Equivalent · X-axis: 1965 to 2005  
+> Series: Per Capita Energy Consumption  
+> *Source: BP Statistics/Poten*  
+> *No image crop of this chart was saved; caption read from the PDF.*
+
+> **Chart on PDF page 3: Barrels per Person per Year**  
+> X-axis: 1995 to 2004  
+> Series: India, China, Japan, United States  
+> *Source: BP Statistics/Poten*  
+> *No image crop of this chart was saved; caption read from the PDF.*

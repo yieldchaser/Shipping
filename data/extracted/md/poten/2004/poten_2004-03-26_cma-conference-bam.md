@@ -60,6 +60,8 @@ The frenzy of the conference reflected the frenzy in the market. The program was
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: CMA Conference BAM!](../../../charts/poten/2004/poten_2004-03-26_cma-conference-bam_chart1.png)
-
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2004/poten_2004-03-26_cma-conference-bam_chart1.png)
+> **Chart on PDF page 3: Why Are Tanker Rates Up? Because The World Is Falling Apart!**  
+> Unit: # Events · X-axis: 1970 to 2000  
+> Series: 1973 Oil Crisis, Iran Revolution, Oil Price Collapse, Gulf War I, Exxon Valdez, Prestige, Erika, Asian Economies Collapse, Japan Nuclear Problems, Nigeria, Venezuela, Gulf War II, China Bubble, Bosphorus Congestion  
+> *Source: Poten & Partners*  
+> *No image crop of this chart was saved; caption read from the PDF.*

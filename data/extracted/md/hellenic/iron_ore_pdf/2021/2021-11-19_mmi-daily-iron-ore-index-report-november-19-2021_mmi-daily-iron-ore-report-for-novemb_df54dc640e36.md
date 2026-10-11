@@ -164,26 +164,42 @@ _No desk commentary reported for this session._
 _No futures contracts reported for this session._
 
 ## Dry Bulk Freight Rates Historical Line Data (USD/MT)
+> **Estimate.** The report prints no numbers for this chart. Values are computed from the chart's vector geometry at each x-axis date label (calibrated on the printed axis ticks; typically within 1% of the axis range).
+
 | Date | C5 W. Australia - Qingdao (USD/MT) | C3 Tubarao - Qingdao (USD/MT) |
 | :--- | :--- | :--- |
-| 60 | 60.00 | 120.00 |
-| 50 | 50.00 | 110.00 |
-| 40 | 40.00 | 100.00 |
-| 30 | 30.00 | 90.00 |
-| 20 | 20.00 | 80.00 |
-| 10 | 10.00 | 70.00 |
-| 0 | 0.00 | 60.00 |
+| 1-Nov-20 | 7.25 | 15.07 |
+| 1-Dec-20 | 6.69 | 13.67 |
+| 1-Jan-21 | 8.28 | 15.79 |
+| 1-Feb-21 | 6.13 | 17.30 |
+| 1-Mar-21 | 7.25 | 15.57 |
+| 1-Apr-21 | 8.94 | 20.94 |
+| 1-May-21 | 13.11 | 28.76 |
+| 1-Jun-21 | 11.16 | 24.01 |
+| 1-Jul-21 | 11.71 | 26.94 |
+| 1-Aug-21 | 14.93 | 28.76 |
+| 1-Sep-21 | 13.67 | 34.35 |
+| 1-Oct-21 | 21.36 | 45.25 |
+| 1-Nov-21 | 12.35 | 28.20 |
 
 ## Total China Iron Ore Import Volumes (Million Tonnes)
+> **Estimate.** The report prints no numbers for this chart. Values are computed from the chart's vector geometry at each x-axis date label (calibrated on the printed axis ticks; typically within 1% of the axis range).
+
 | Month / Period | Import Volume (Million Tonnes) |
 | :--- | :--- |
-| 60 | 60.00 |
-| 50 | 50.00 |
-| 40 | 40.00 |
-| 30 | 30.00 |
-| 20 | 20.00 |
-| 10 | 10.00 |
-| 0 | 0.00 |
+| Oct-20 | 106.74 |
+| Nov-20 | 98.19 |
+| Dec-20 | 96.66 |
+| Jan-21 | 98.85 |
+| Feb-21 | 82.62 |
+| Mar-21 | 102.14 |
+| Apr-21 | 98.63 |
+| May-21 | 89.86 |
+| Jun-21 | 89.42 |
+| Jul-21 | 88.54 |
+| Aug-21 | 97.53 |
+| Sep-21 | 95.56 |
+| Oct-21 | 91.61 |
 
 ---
 

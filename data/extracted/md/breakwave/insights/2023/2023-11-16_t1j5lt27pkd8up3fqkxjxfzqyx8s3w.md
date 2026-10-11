@@ -27,11 +27,11 @@ Iran’s crude/condensate exports were observed at 1.3mbd in October, a 100kbd d
 
 Iran’s onshore crude/condensate inventories declined to 99mb in October, reaching a multi-year low. The 3.2mb stock draw through October – equivalent to 100kbd – may have supported exports, despite the decline m-o-m.
 
-![Iranian Crude/condensate Exports (Mbd](assets/2023-11-16_t1j5lt27pkd8up3fqkxjxfzqyx8s3w_img_iran-picture-2-insight-1024x742_43bc119a7ba7.png)
+![Iranian Crude/condensate Exports (Mbd](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-11-16_t1j5lt27pkd8up3fqkxjxfzqyx8s3w_img_iran-picture-2-insight-1024x742_43bc119a7ba7.png)
 
 > **Figure 1: Iranian Crude/condensate Exports (Mbd**  
 > *Iranian crude/condensate exports (mbd, LHS)vsIranian onshore crude inventories (mb, RHS)*  
-> **Interactive Data & Source:** [Analytics Vortexa](https://analytics.vortexa.com/?dateRange=2021-01-01T00%3A00%3A00.000Z__2023-10-31T23%3A59%3A59.999Z&filtersEnabled=%5B%22p%22%2C%22o%22%2C%22d%22%2C%22d_r%22%2C%22v%22%2C%22intra_d%22%2C%22sts_o%22%5D&from=%5B%22d308ddc557e774187ad6c7da81b39db990def9a39e6c88e79cb163b6bdd6e8e5%22%5D&geoBreakdownOriginGlobal=port&gradeAnalysisClassification=api&metric=bpd&page=Flows&products=%5B%2254af755a090118dcf9b0724c9a4e9f14745c26165385ffa7f1445bc768f06f11%22%5D&tabId=14d44ae5-49d1-4a8b-ba21-9bed374439de&timeSeriesHiddenSeries=%5B%22b68cbb746f8b9098c50e2ba36bcad83001a53bd362e9031fb49085d02c36659c%22%2C%225de0b00094e0fd7542c10f9f8a71b4008d55750f21dc905cda9b0f7f5f76bc08%22%2C%229b0f7f5de0b111910f9f8a71b4008d4e0fd7542c55750f21dc905cda5f76bc08%22%5D&v=3&vesselClassChartView=count) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-11-16_t1j5lt27pkd8up3fqkxjxfzqyx8s3w_img_iran-picture-2-insight-1024x742_43bc119a7ba7.png)
+> **Interactive Data & Source:** [Analytics Vortexa](https://analytics.vortexa.com/?dateRange=2021-01-01T00%3A00%3A00.000Z__2023-10-31T23%3A59%3A59.999Z&filtersEnabled=%5B%22p%22%2C%22o%22%2C%22d%22%2C%22d_r%22%2C%22v%22%2C%22intra_d%22%2C%22sts_o%22%5D&from=%5B%22d308ddc557e774187ad6c7da81b39db990def9a39e6c88e79cb163b6bdd6e8e5%22%5D&geoBreakdownOriginGlobal=port&gradeAnalysisClassification=api&metric=bpd&page=Flows&products=%5B%2254af755a090118dcf9b0724c9a4e9f14745c26165385ffa7f1445bc768f06f11%22%5D&tabId=14d44ae5-49d1-4a8b-ba21-9bed374439de&timeSeriesHiddenSeries=%5B%22b68cbb746f8b9098c50e2ba36bcad83001a53bd362e9031fb49085d02c36659c%22%2C%225de0b00094e0fd7542c10f9f8a71b4008d55750f21dc905cda9b0f7f5f76bc08%22%2C%229b0f7f5de0b111910f9f8a71b4008d4e0fd7542c55750f21dc905cda5f76bc08%22%5D&v=3&vesselClassChartView=count) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-11-16_t1j5lt27pkd8up3fqkxjxfzqyx8s3w_img_iran-picture-2-insight-1024x742_43bc119a7ba7.png)
 
 ## Iranian Floating Storage Declines From Ytd High
 
@@ -43,11 +43,11 @@ Despite the marginal m-o-m increase observed in October, Iran’s floating stora
 
 The 41.6mb of Iranian crude/condensate floating storage was split between 30% domestic and 70% outside Iran, with the latter located offshore Malaysia and China.
 
-![Iranian Crude/condensate in Floating Storage (Mb)](assets/2023-11-16_t1j5lt27pkd8up3fqkxjxfzqyx8s3w_img_iran-picture-3-insight-1024x742_7a2236453557.png)
+![Iranian Crude/condensate in Floating Storage (Mb)](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-11-16_t1j5lt27pkd8up3fqkxjxfzqyx8s3w_img_iran-picture-3-insight-1024x742_7a2236453557.png)
 
 > **Figure 2: Iranian Crude/condensate in Floating Storage (Mb)**  
 > *Iranian crude/condensate in floating storage (mb)*  
-> **Interactive Data & Source:** [Analytics Vortexa](https://analytics.vortexa.com/?filtersEnabled=%5B%22l%22%2C%22s%22%2C%22v_cg_st%22%2C%22v%22%2C%22l_c%22%2C%22o%22%2C%22d%22%2C%22sts_o%22%2C%22c_o%22%2C%22v_o%22%5D&latestProducts=%5B%2254af755a090118dcf9b0724c9a4e9f14745c26165385ffa7f1445bc768f06f11%22%5D&page=Map&size=0&tabId=f6f54f37-4b6b-4641-b405-0a16acee3d79&v=3&vesselClasses=%5B%22oil_vlcc%22%5D&voyageStatus=%5B%22laden%22%5D) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-11-16_t1j5lt27pkd8up3fqkxjxfzqyx8s3w_img_iran-picture-3-insight-1024x742_7a2236453557.png)
+> **Interactive Data & Source:** [Analytics Vortexa](https://analytics.vortexa.com/?filtersEnabled=%5B%22l%22%2C%22s%22%2C%22v_cg_st%22%2C%22v%22%2C%22l_c%22%2C%22o%22%2C%22d%22%2C%22sts_o%22%2C%22c_o%22%2C%22v_o%22%5D&latestProducts=%5B%2254af755a090118dcf9b0724c9a4e9f14745c26165385ffa7f1445bc768f06f11%22%5D&page=Map&size=0&tabId=f6f54f37-4b6b-4641-b405-0a16acee3d79&v=3&vesselClasses=%5B%22oil_vlcc%22%5D&voyageStatus=%5B%22laden%22%5D) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-11-16_t1j5lt27pkd8up3fqkxjxfzqyx8s3w_img_iran-picture-3-insight-1024x742_7a2236453557.png)
 
 ## Ample Supply of Iranian Crude for China Despite Export Slowdown
 
@@ -55,10 +55,12 @@ As of 14 November, there are 12 crude-laden VLCCs offshore Malaysia, seven of wh
 
 These VLCCs (which are part of the opaque market fleet) share the common characteristics of tankers operating in sanctioned markets. They average 17 years old, with the oldest tanker being 27 years old. Five of them are operated by Iran (NITC) whilst two are operated by UAE and low-tax sovereign interests.
 
-![1st Iran Picture Insight](assets/2023-11-16_t1j5lt27pkd8up3fqkxjxfzqyx8s3w_img_1st-iran-picture-insight_b52935630479.png)
+VLCCs offshore Malaysia, red circles indicate VLCCs laden with Iranian crude/condensate (as of 14 November)
+
+![1st Iran Picture Insight](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-11-16_t1j5lt27pkd8up3fqkxjxfzqyx8s3w_img_1st-iran-picture-insight_b52935630479.png)
 
 > **Figure 3: 1st Iran Picture Insight**  
-> **Interactive Data & Source:** [Analytics Vortexa](https://analytics.vortexa.com/?filtersEnabled=%5B%22l%22%2C%22s%22%2C%22v_cg_st%22%2C%22v%22%2C%22l_c%22%2C%22o%22%2C%22d%22%2C%22sts_o%22%2C%22c_o%22%2C%22v_o%22%5D&latestProducts=%5B%2254af755a090118dcf9b0724c9a4e9f14745c26165385ffa7f1445bc768f06f11%22%5D&page=Map&size=0&tabId=f6f54f37-4b6b-4641-b405-0a16acee3d79&v=3&vesselClasses=%5B%22oil_vlcc%22%5D&voyageStatus=%5B%22laden%22%5D) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-11-16_t1j5lt27pkd8up3fqkxjxfzqyx8s3w_img_1st-iran-picture-insight_b52935630479.png)
+> **Interactive Data & Source:** [Analytics Vortexa](https://analytics.vortexa.com/?filtersEnabled=%5B%22l%22%2C%22s%22%2C%22v_cg_st%22%2C%22v%22%2C%22l_c%22%2C%22o%22%2C%22d%22%2C%22sts_o%22%2C%22c_o%22%2C%22v_o%22%5D&latestProducts=%5B%2254af755a090118dcf9b0724c9a4e9f14745c26165385ffa7f1445bc768f06f11%22%5D&page=Map&size=0&tabId=f6f54f37-4b6b-4641-b405-0a16acee3d79&v=3&vesselClasses=%5B%22oil_vlcc%22%5D&voyageStatus=%5B%22laden%22%5D) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-11-16_t1j5lt27pkd8up3fqkxjxfzqyx8s3w_img_1st-iran-picture-insight_b52935630479.png)
 
 ## Will Iran’s Crude/condensate Exports Return to Q3 Levels?
 

@@ -33,15 +33,15 @@ Compared to the previous administration of Mr. Bolsonaro, the current president,
 
 While Brazil has a sizeable domestic refining industry, oil production has been growing faster than domestic demand and crude oil exports have therefore been on an upward trajectory. Brazil has a strategic location and good port infrastructure and exports its crude oil to a variety of countries, both in the Atlantic Basin as well as in the Pacific (Chart 1). China is by far the most important buyer of Brazilian crude, taking almost 40% of seaborne exports over the last three years (2021-2023). The U.S. is a distant second with 11%. Chile takes 7% and the remainder mostly goes to a variety of countries in Europe and Asia. Europe became a more important customer for Brazilian crude after Russia’s invasion of Ukraine, replacing some of the Russian Urals. Exports to Europe increased from 193,000 b/d in 2021 to 347,000 b/d in 2023, an 80% rise in two years.
 
-![Screenshot 2024 02 01 16.50.32](assets/2024-02-01_poten-tanker-opinion_img_screenshot2024-02-01165032_c2fcc9725994.png)
+![Screenshot 2024 02 01 16.50.32](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-02-01_poten-tanker-opinion_img_screenshot2024-02-01165032_c2fcc9725994.png)
 
 > **Figure 1: Screenshot 2024 02 01 16.50.32**  
-> **Interactive Data & Source:** [Poten](https://www.poten.com) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-02-01_poten-tanker-opinion_img_screenshot2024-02-01165032_c2fcc9725994.png)
+> **Interactive Data & Source:** [Poten](https://www.poten.com) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-02-01_poten-tanker-opinion_img_screenshot2024-02-01165032_c2fcc9725994.png)
 
-![Screenshot 2024 02 01 16.50.41](assets/2024-02-01_poten-tanker-opinion_img_screenshot2024-02-01165041_b2680b819353.png)
+![Screenshot 2024 02 01 16.50.41](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-02-01_poten-tanker-opinion_img_screenshot2024-02-01165041_b2680b819353.png)
 
 > **Figure 2: Screenshot 2024 02 01 16.50.41**  
-> **Interactive Data & Source:** [Poten](https://www.poten.com) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-02-01_poten-tanker-opinion_img_screenshot2024-02-01165041_b2680b819353.png)
+> **Interactive Data & Source:** [Poten](https://www.poten.com) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-02-01_poten-tanker-opinion_img_screenshot2024-02-01165041_b2680b819353.png)
 
 The vessel segments involved in Brazil’s exports have also changed in the last three years, with VLCCs taking a larger share. From 2021 (pre-Russian invasion) to 2023, the market share of VLCCs increased from 55% to 64%. Over the same period, the Suezmax share was cut from 39% to 26%. VLCCs primarily increased their market share in Europe. In 2021, only 3% of Brazil’s exports to Europe moved on VLCCs, with 84% going on Suezmaxes. In 2022, this had changed to 22% VLCCs and 65% Suezmaxes. This trend continued in 2023, when the VLCC market share increased to 41%, and Suezmaxes down to 48%. As we mentioned before, exports from Brazil to Europe increased dramatically over the last two years and most of these incremental barrels moved on VLCCs. Exportsfrom Brazil to China also increased, in particular in 2023, when volumes reached 667,000 b/d (up from 463,000 b/d in 2022). Virtually all exports to China (>95%) are going on VLCCs.
 

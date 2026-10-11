@@ -32,7 +32,7 @@ tags:
 
 > **Figure 1: Data Source: The Signal Ocean Platform Data**  
 > *Data Source: The Signal Ocean Platform Data*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/dry-week-27-2023) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/64a5340894841e45e280bb1e_chart of the week dry.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/dry-week-27-2023) | [Local Asset](../../../../../../corpus/07-signal/images/64a5340894841e45e280bb1e_chart%20of%20the%20week%20dry.png)
 
 The initial days of July concluded on a positive note, with a buoyant sentiment surrounding vessel freight rates in the Capesize segment. Additionally, both the Panamax and Supramax segments experienced a firmer momentum. However, the uncertainty surrounding the potential extension of the Black Sea Grain Initiative casts a shadow over the outlook for smaller vessel sizes.
 

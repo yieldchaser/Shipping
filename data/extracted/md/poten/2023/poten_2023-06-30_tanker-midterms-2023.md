@@ -51,14 +51,23 @@ In the Aframax segment, Chevron and BP shared the top spot, both with 59 fixture
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: Tanker Midterms   2023](../../../charts/poten/2023/poten_2023-06-30_tanker-midterms-2023_chart1.png)
+![Exhibit 1: Top 10 VLCC Spot Charterers](../../../charts/poten/2023/poten_2023-06-30_tanker-midterms-2023_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2023/poten_2023-06-30_tanker-midterms-2023_chart1.png)
+> **Exhibit 1: Top 10 VLCC Spot Charterers**  
+> Unit: No. Spot Fixtures · X-axis: Unipec to GS Caltex  
+> Series: Unipec, Shell, ExxonMobil, IOC, SK Corp, Petrobras, Petrochina, Total, Sinochem, GS Caltex  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2023/poten_2023-06-30_tanker-midterms-2023_chart1.png)
 
-![Exhibit 2: Tanker Midterms   2023](../../../charts/poten/2023/poten_2023-06-30_tanker-midterms-2023_chart2.png)
+![Exhibit 2: Top 10 Aframax Spot Charterers](../../../charts/poten/2023/poten_2023-06-30_tanker-midterms-2023_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2023/poten_2023-06-30_tanker-midterms-2023_chart2.png)
+> **Exhibit 2: Top 10 Aframax Spot Charterers**  
+> Unit: No. Spot Fixtures · X-axis: Chevron to Unipec  
+> Series: Chevron, BP, Total, VITOL, ExxonMobil, PTT, Shell, Phillips 66, ENI, Unipec  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2023/poten_2023-06-30_tanker-midterms-2023_chart2.png)
 
-![Exhibit 3: Tanker Midterms   2023](../../../charts/poten/2023/poten_2023-06-30_tanker-midterms-2023_chart3.png)
+![Exhibit 3: Top 10 Suezmax Spot Charterers](../../../charts/poten/2023/poten_2023-06-30_tanker-midterms-2023_chart3.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2023/poten_2023-06-30_tanker-midterms-2023_chart3.png)
+> **Exhibit 3: Top 10 Suezmax Spot Charterers**  
+> Unit: No. Spot Fixtures · X-axis: Total to Petrochina  
+> Series: Total, ExxonMobil, Shell, Unipec, REPSOL, Chevron, VITOL, Glencore, ENI, Petrochina  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2023/poten_2023-06-30_tanker-midterms-2023_chart3.png)

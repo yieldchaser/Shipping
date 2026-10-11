@@ -19,10 +19,10 @@ source_file: "corpus/03-breakwave/insights/2024/2024-01-24_beating-expectations.
 
 ---
 
-![Oil Drilling (1)](assets/2024-01-24_beating-expectations_img_oil-drilling28129_1f62af173c53.jpg)
+![Oil Drilling (1)](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-01-24_beating-expectations_img_oil-drilling28129_1f62af173c53.jpg)
 
 > **Figure 1: Oil Drilling (1)**  
-> **Interactive Data & Source:** [Gibsons Co](https://www.gibsons.co.uk/market-reports) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-01-24_beating-expectations_img_oil-drilling28129_1f62af173c53.jpg)
+> **Interactive Data & Source:** [Gibsons Co](https://www.gibsons.co.uk/market-reports) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-01-24_beating-expectations_img_oil-drilling28129_1f62af173c53.jpg)
 
 ## Beating Expectations
 
@@ -34,9 +34,9 @@ Going forward, however, the prospects for US crude production are more challengi
 
 ## Outlook for Us Oil Supply (Mbd)
 
-![Αρχείο Λήψης (8)](assets/2024-01-24_beating-expectations_img_ceb1cf81cf87ceb5ceafcebfcebbceaecf88_0f4aa1b65bf6.png)
+![Αρχείο Λήψης (8)](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-01-24_beating-expectations_img_ceb1cf81cf87ceb5ceafcebfcebbceaecf88_0f4aa1b65bf6.png)
 
 > **Figure 2: Αρχείο Λήψης (8)**  
-> **Interactive Data & Source:** [Gibsons Co](https://www.gibsons.co.uk/market-reports) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-01-24_beating-expectations_img_ceb1cf81cf87ceb5ceafcebfcebbceaecf88_0f4aa1b65bf6.png)
+> **Interactive Data & Source:** [Gibsons Co](https://www.gibsons.co.uk/market-reports) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-01-24_beating-expectations_img_ceb1cf81cf87ceb5ceafcebfcebbceaecf88_0f4aa1b65bf6.png)
 
 Data source:[Gibson Shipbrokers](https://www.gibsons.co.uk/market-reports)

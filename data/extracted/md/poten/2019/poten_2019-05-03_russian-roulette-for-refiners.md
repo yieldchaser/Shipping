@@ -30,8 +30,12 @@ The implications for the tanker market are hard to gage at this point. Since the
 
 ![Exhibit 1: Russian Roulette for Refiners](../../../charts/poten/2019/poten_2019-05-03_russian-roulette-for-refiners_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2019/poten_2019-05-03_russian-roulette-for-refiners_chart1.png)
+> **Interactive Asset:** [Local Asset (200 DPI PNG)](../../../charts/poten/2019/poten_2019-05-03_russian-roulette-for-refiners_chart1.png)
 
-![Exhibit 2: Russian Roulette for Refiners](../../../charts/poten/2019/poten_2019-05-03_russian-roulette-for-refiners_chart2.png)
+![Exhibit 2: Seaborne Exports from Ust-Luga](../../../charts/poten/2019/poten_2019-05-03_russian-roulette-for-refiners_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2019/poten_2019-05-03_russian-roulette-for-refiners_chart2.png)
+> **Exhibit 2: Seaborne Exports from Ust-Luga**  
+> Unit: Kb/d · X-axis: Jan-14 to Apr-19  
+> Series: Netherlands, Sweden, Lithuania, Poland, Germany, France, Other  
+> *Source: Lloyd's List Intelligence*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2019/poten_2019-05-03_russian-roulette-for-refiners_chart2.png)

@@ -23,10 +23,10 @@ source_file: "corpus/03-breakwave/insights/2022/2022-08-03_natural-gas-and-coal-
 
 Rising geopolitical risks saw a risk-off tone across markets. This weighed on commodity markets, which struggled to hold gains achieved earlier this week.
 
-![1659477249508](assets/2022-08-03_natural-gas-and-coal-extend-gains-amid-supply-shortages_img_1659477249508_265a15553b90.png)
+![1659477249508](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-08-03_natural-gas-and-coal-extend-gains-amid-supply-shortages_img_1659477249508_265a15553b90.png)
 
 > **Figure 1: 1659477249508**  
-> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-08-03_natural-gas-and-coal-extend-gains-amid-supply-shortages_img_1659477249508_265a15553b90.png)
+> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-08-03_natural-gas-and-coal-extend-gains-amid-supply-shortages_img_1659477249508_265a15553b90.png)
 
 **Crude oil**ended higher in a choppy session as traders counted down to an OPEC meeting on supply. The producer group is due to gather virtually on Wednesday to review its output policy for September. The likelihood they announce an increase in output remains low amid the uncertain economic backdrop and signs of weakness in demand. This comes after US President Joe Biden urged Saudi Arabia to pump more oil during a visit to the kingdom last month. The last meeting saw members agree to return all the supplies it took offline following the pandemic. However, data suggests they continue to struggle. OPEC’s crude production rose by 270kb/d in July, with two-thirds coming from Saudi Arabia. That’s well below the increase in quotas.
 

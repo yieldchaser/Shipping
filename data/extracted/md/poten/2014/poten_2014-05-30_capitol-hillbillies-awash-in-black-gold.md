@@ -34,16 +34,16 @@ Since the conversation continues to be hotly contested by both sides, there does
 
 ![Exhibit 1: Capitol Hillbillies: Awash In Black Gold](../../../charts/poten/2014/poten_2014-05-30_capitol-hillbillies-awash-in-black-gold_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2014/poten_2014-05-30_capitol-hillbillies-awash-in-black-gold_chart1.png)
+> **Interactive Asset:** [Local Asset (200 DPI PNG)](../../../charts/poten/2014/poten_2014-05-30_capitol-hillbillies-awash-in-black-gold_chart1.png)
 
 ![Exhibit 2: Capitol Hillbillies: Awash In Black Gold](../../../charts/poten/2014/poten_2014-05-30_capitol-hillbillies-awash-in-black-gold_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2014/poten_2014-05-30_capitol-hillbillies-awash-in-black-gold_chart2.png)
+> **Interactive Asset:** [Local Asset (200 DPI PNG)](../../../charts/poten/2014/poten_2014-05-30_capitol-hillbillies-awash-in-black-gold_chart2.png)
 
 ![Exhibit 3: Capitol Hillbillies: Awash In Black Gold](../../../charts/poten/2014/poten_2014-05-30_capitol-hillbillies-awash-in-black-gold_chart3.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2014/poten_2014-05-30_capitol-hillbillies-awash-in-black-gold_chart3.png)
+> **Interactive Asset:** [Local Asset (200 DPI PNG)](../../../charts/poten/2014/poten_2014-05-30_capitol-hillbillies-awash-in-black-gold_chart3.png)
 
 ![Exhibit 4: Capitol Hillbillies: Awash In Black Gold](../../../charts/poten/2014/poten_2014-05-30_capitol-hillbillies-awash-in-black-gold_chart4.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2014/poten_2014-05-30_capitol-hillbillies-awash-in-black-gold_chart4.png)
+> **Interactive Asset:** [Local Asset (200 DPI PNG)](../../../charts/poten/2014/poten_2014-05-30_capitol-hillbillies-awash-in-black-gold_chart4.png)

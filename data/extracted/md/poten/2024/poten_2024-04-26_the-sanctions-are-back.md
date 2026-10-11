@@ -32,10 +32,18 @@ Some of the dark vessels that were employed in the Venezuelan trades transferred
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: The Sanctions Are Back](../../../charts/poten/2024/poten_2024-04-26_the-sanctions-are-back_chart1.png)
+![Exhibit 1: Venezuela Crude Exports by Destination](../../../charts/poten/2024/poten_2024-04-26_the-sanctions-are-back_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2024/poten_2024-04-26_the-sanctions-are-back_chart1.png)
+> **Exhibit 1: Venezuela Crude Exports by Destination**  
+> Unit: Kb/d · X-axis: Jan-20 to Mar-24  
+> Series: China, United States, India, Cuba, Spain, Malaysia, Italy, Other  
+> *Source: Vortexa*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2024/poten_2024-04-26_the-sanctions-are-back_chart1.png)
 
-![Exhibit 2: The Sanctions Are Back](../../../charts/poten/2024/poten_2024-04-26_the-sanctions-are-back_chart2.png)
+![Exhibit 2: Crude Exports from Venezuela by Vessel Class](../../../charts/poten/2024/poten_2024-04-26_the-sanctions-are-back_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2024/poten_2024-04-26_the-sanctions-are-back_chart2.png)
+> **Exhibit 2: Crude Exports from Venezuela by Vessel Class**  
+> Unit: Kb/d · X-axis: Jan-20 to Mar-24  
+> Series: VLCC, Suezmax, Aframax/LR2, Panamax/LR1, Smaller  
+> *Source: Vortexa*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2024/poten_2024-04-26_the-sanctions-are-back_chart2.png)

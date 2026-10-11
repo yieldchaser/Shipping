@@ -30,10 +30,18 @@ Unfortunate events like these demonstrate the flexibility and importance of seab
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: Texas In Turmoil](../../../charts/poten/2021/poten_2021-02-19_texas-in-turmoil_chart1.png)
+![Exhibit 1: PADD 3 Petroleum Product Imports / Exports](../../../charts/poten/2021/poten_2021-02-19_texas-in-turmoil_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2021/poten_2021-02-19_texas-in-turmoil_chart1.png)
+> **Exhibit 1: PADD 3 Petroleum Product Imports / Exports**  
+> Unit: Mb/d · X-axis: Jan-17 to Nov-20  
+> Series: Gasoline, Distillates, Naphtha, Other  
+> *Source: EIA*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2021/poten_2021-02-19_texas-in-turmoil_chart1.png)
 
-![Exhibit 2: Texas In Turmoil](../../../charts/poten/2021/poten_2021-02-19_texas-in-turmoil_chart2.png)
+![Exhibit 2: US Crude Oil Exports by Vessel Class](../../../charts/poten/2021/poten_2021-02-19_texas-in-turmoil_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2021/poten_2021-02-19_texas-in-turmoil_chart2.png)
+> **Exhibit 2: US Crude Oil Exports by Vessel Class**  
+> Unit: Kb/d · X-axis: Jan-14 to Jan-21  
+> Series: Aframax, Suezmax, VLCC  
+> *Source: Lloyds List Intelligence*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2021/poten_2021-02-19_texas-in-turmoil_chart2.png)

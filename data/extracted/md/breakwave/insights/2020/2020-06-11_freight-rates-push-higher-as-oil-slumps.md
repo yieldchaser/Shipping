@@ -20,10 +20,10 @@ source_file: "corpus/03-breakwave/insights/2020/2020-06-11_freight-rates-push-hi
 
 ---
 
-![Market Chart 1](assets/2020-06-11_freight-rates-push-higher-as-oil-slumps_img_image-asset_9a2025b009a9.jpeg)
+![Market Chart 1](../../../../../../corpus/03-breakwave/insights/2020/assets/2020-06-11_freight-rates-push-higher-as-oil-slumps_img_image-asset_9a2025b009a9.jpeg)
 
 > **Figure 1: Market Chart 1**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2020/assets/2020-06-11_freight-rates-push-higher-as-oil-slumps_img_image-asset_9a2025b009a9.jpeg)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2020/assets/2020-06-11_freight-rates-push-higher-as-oil-slumps_img_image-asset_9a2025b009a9.jpeg)
 
 A good day for owners of dry bulk ships, as rates continue to advance across every asset class. This is particularly true for ships able to do business in the Atlantic, as cargo flow remains healthy and ship availability relatively low.
 
@@ -35,10 +35,10 @@ However, the world is so much different today: COVID-19 is wreaking havoc in soc
 
 Shipping is not immune, but for now, things are looking up. Shipping is truly an uncorrelated “asset”, at least over short periods of time, as supply/demand imbalances take time to correct. And that usually causes rates to fluctuate, sometimes wildly. Capes are up ~9,000 from their lows last month, while on a percentage basis the gains look even more impressive.
 
-![Capes 6 11](assets/2020-06-11_freight-rates-push-higher-as-oil-slumps_img_capes6-11_5edd1ac83a75.jpg)
+![Capes 6 11](../../../../../../corpus/03-breakwave/insights/2020/assets/2020-06-11_freight-rates-push-higher-as-oil-slumps_img_capes6-11_5edd1ac83a75.jpg)
 
 > **Figure 2: Capes 6 11**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2020/assets/2020-06-11_freight-rates-push-higher-as-oil-slumps_img_capes6-11_5edd1ac83a75.jpg)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2020/assets/2020-06-11_freight-rates-push-higher-as-oil-slumps_img_capes6-11_5edd1ac83a75.jpg)
 
 Going back to last year, how did 2019 progress from June onward?
 

@@ -20,11 +20,11 @@ source_file: "corpus/03-breakwave/insights/2026/2026-05-26_global-dry-bulk-marke
 
 ---
 
-![Byeirini Diamantara&dimitris Roumeliotis](assets/2026-05-26_global-dry-bulk-market_img_016-chrisea-24-01-24_dffa85114dea.webp)
+![Byeirini Diamantara&dimitris Roumeliotis](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-05-26_global-dry-bulk-market_img_016-chrisea-24-01-24_dffa85114dea.webp)
 
 > **Figure 1: Byeirini Diamantara&dimitris Roumeliotis**  
 > *ByEirini Diamantara&Dimitris Roumeliotis*  
-> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/in/eirini-diamantara-58b269105/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-05-26_global-dry-bulk-market_img_016-chrisea-24-01-24_dffa85114dea.webp)
+> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/in/eirini-diamantara-58b269105/) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-05-26_global-dry-bulk-market_img_016-chrisea-24-01-24_dffa85114dea.webp)
 
 The global dry bulk market is preparing for a period of extreme climate-induced disruption. The National Oceanic and Atmospheric Administration (NOAA) has increased its forecast to an 82% probability of an El Niño onset between May and July 2026, with an intensifying 37% chance of a severe event by year-end. This meteorological shift is projected to reach its peak intensity between 4Q26 and 1Q27. While environmental and operational volatility present distinct structural challenges to supply chains, historical data confirms that major El Niño events consistently introduce a substantial net upside to dry bulk freight rates, shifting the market balance firmly in favor of shipowners.
 

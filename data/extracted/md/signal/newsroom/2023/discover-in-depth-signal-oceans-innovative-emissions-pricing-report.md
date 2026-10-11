@@ -60,10 +60,10 @@ At a time when environmental concerns and cost efficiency are paramount, our Emi
 The following image illustrates the dynamic changes in emissions volume (in MT) and associated cost (in USD) for the Suezmax West Africa Atlantic Coast to Continent full voyage route from 2019 to the present day. It vividly highlights the remarkable upsurge in emissions volume during the current year (depicted in the left chart) in stark contrast to the downward adjustment observed in the Aframax North Sea to Continent route (as depicted in the right chart).
 
 
-![Emission Prices Suezmax and Aframax Dirty Tankers](../../images/66b51c37a59e94dbefe21c9c_651d3c76d8d6919f050e28e7_Untitled%20dirty.avif)
+![Emission Prices Suezmax and Aframax Dirty Tankers](../../images/66b51c37a59e94dbefe21c9c_651d3c76d8d6919f050e28e7_Untitled%2520dirty.avif)
 
 > **Figure 1: Emission Prices Suezmax and Aframax Dirty Tankers**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/discover-in-depth-signal-oceans-innovative-emissions-pricing-report) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/66b51c37a59e94dbefe21c9c_651d3c76d8d6919f050e28e7_Untitled%20dirty.avif)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/discover-in-depth-signal-oceans-innovative-emissions-pricing-report) | [Local Asset](../../../../../../corpus/07-signal/images/66b51c37a59e94dbefe21c9c_651d3c76d8d6919f050e28e7_Untitled%2520dirty.avif)
 
 
 ## Emission Prices Mr2 and Mr1 Clean Tankers
@@ -71,10 +71,10 @@ The following image illustrates the dynamic changes in emissions volume (in MT) 
 The following image illustrates the dynamic changes in emissions volume (in MT) and associated cost (in USD) for the MR2 US Gulf to Continent full voyage route from 2019 to the present day (depicted in the left chart) and the downward adjustment observed in the MR1 Central Med route (as depicted in the right chart) from the end of the first quarter this year.
 
 
-![Emission Prices Mr2 and Mr1 Clean Tankers](../../images/66b51c37a59e94dbefe21c9f_651d3d1c8c4a6ee0d4c5bc76_Untitled%20clean.avif)
+![Emission Prices Mr2 and Mr1 Clean Tankers](../../images/66b51c37a59e94dbefe21c9f_651d3d1c8c4a6ee0d4c5bc76_Untitled%2520clean.avif)
 
 > **Figure 2: Emission Prices Mr2 and Mr1 Clean Tankers**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/discover-in-depth-signal-oceans-innovative-emissions-pricing-report) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/66b51c37a59e94dbefe21c9f_651d3d1c8c4a6ee0d4c5bc76_Untitled%20clean.avif)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/discover-in-depth-signal-oceans-innovative-emissions-pricing-report) | [Local Asset](../../../../../../corpus/07-signal/images/66b51c37a59e94dbefe21c9f_651d3d1c8c4a6ee0d4c5bc76_Untitled%2520clean.avif)
 
 In summary, effective management of shipping emissions prices requires a holistic approach that considers economic, environmental, and regulatory factors. By promoting sustainability, technological innovation, and collaboration, the maritime sector can transition to a greener future while balancing costs and risks. This transition not only aligns with global environmental goals, but also positions the industry for long-term success in a changing world. As the maritime sector continues to evolve, emission pricing will play a pivotal role in shaping its future and reducing its impact on the environment.
 

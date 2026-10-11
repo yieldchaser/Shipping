@@ -29,11 +29,11 @@ tags:
 ## The Announcements of Opec Oil Productions in January and February Appeared to Have Little Impact on the Volume of Dirty Shipments to Asian Destinations.
 
 
-![Data Source: The Signal Ocean Platform](../../images/65f425fe653c89d7955420e8_tanker.png)
+![Data Source: The Signal Ocean Platform](../../../../../../corpus/07-signal/images/65f425fe653c89d7955420e8_tanker.png)
 
 > **Figure 1: Data Source: The Signal Ocean Platform**  
 > *Data Source: The Signal Ocean Platform*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/tanker-week-11-2024) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/65f425fe653c89d7955420e8_tanker.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/tanker-week-11-2024) | [Local Asset](../../../../../../corpus/07-signal/images/65f425fe653c89d7955420e8_tanker.png)
 
 In the second week of March, the VLCC MEG-China market rates continued to soften, while the number of vessels in Ras Tanura showed an increase despite the significant downward trend observed earlier in the month. Within the crude tanker segment, the Aframax segment continues to demonstrate improvement in the cross Mediterranean route, with growth in tonne days outpacing other crude tanker vessel categories.
 

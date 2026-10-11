@@ -8518,42 +8518,6 @@ issue_date,report_week,category,item,unit,price_current,price_previous,source_fi
 2026-09-14,37,AGRICULTURAL,Wheat CBoT,usc/bu,707.0,716.0,banchero_costa_2026_W37_Bancosta-Weekly-2026-37.pdf
 2026-09-14,37,AGRICULTURAL,Sugar ICE N.11,usc/lb,18.15,18.07,banchero_costa_2026_W37_Bancosta-Weekly-2026-37.pdf
 2026-09-14,37,AGRICULTURAL,Palm Oil Malaysia,usd/t,1118.5,1139.0,banchero_costa_2026_W37_Bancosta-Weekly-2026-37.pdf
-2026-09-28,39,IFO 380 (3.5%),Rotterdam,usd/t,622.5,609.5,banchero_costa_2026_W39_Bancosta-Weekly-2026-39.pdf
-2026-09-28,39,IFO 380 (3.5%),Fujairah,usd/t,693.5,705.5,banchero_costa_2026_W39_Bancosta-Weekly-2026-39.pdf
-2026-09-28,39,IFO 380 (3.5%),Singapore,usd/t,721.8,721.5,banchero_costa_2026_W39_Bancosta-Weekly-2026-39.pdf
-2026-09-28,39,VLSFO (0.5%),Rotterdam,usd/t,676.5,712.8,banchero_costa_2026_W39_Bancosta-Weekly-2026-39.pdf
-2026-09-28,39,VLSFO (0.5%),Fujairah,usd/t,973.3,979.5,banchero_costa_2026_W39_Bancosta-Weekly-2026-39.pdf
-2026-09-28,39,VLSFO (0.5%),Singapore,usd/t,855.5,859.3,banchero_costa_2026_W39_Bancosta-Weekly-2026-39.pdf
-2026-09-28,39,LSMGO (0.1%),Rotterdam,usd/t,1388.3,1440.5,banchero_costa_2026_W39_Bancosta-Weekly-2026-39.pdf
-2026-09-28,39,LSMGO (0.1%),Fujairah,usd/t,1616.0,1639.8,banchero_costa_2026_W39_Bancosta-Weekly-2026-39.pdf
-2026-09-28,39,LSMGO (0.1%),Singapore,usd/t,1280.0,1340.0,banchero_costa_2026_W39_Bancosta-Weekly-2026-39.pdf
-2026-09-28,39,SPREAD (LS/HS),Rotterdam,usd/t,54.0,103.3,banchero_costa_2026_W39_Bancosta-Weekly-2026-39.pdf
-2026-09-28,39,SPREAD (LS/HS),Fujairah,usd/t,279.8,274.0,banchero_costa_2026_W39_Bancosta-Weekly-2026-39.pdf
-2026-09-28,39,SPREAD (LS/HS),Singapore,usd/t,133.8,137.8,banchero_costa_2026_W39_Bancosta-Weekly-2026-39.pdf
-2026-09-28,39,Crude Oil ICE Brent,Crude Oil ICE Brent,usd/bbl,104.3,103.9,banchero_costa_2026_W39_Bancosta-Weekly-2026-39.pdf
-2026-09-28,39,Crude Oil Nymex WTI,Crude Oil Nymex WTI,usd/bbl,92.4,100.3,banchero_costa_2026_W39_Bancosta-Weekly-2026-39.pdf
-2026-09-28,39,Crude Oil Russia Urals,Crude Oil Russia Urals,usd/bbl,103.0,106.9,banchero_costa_2026_W39_Bancosta-Weekly-2026-39.pdf
-2026-09-28,39,Crude Oil Shanghai,Crude Oil Shanghai,rmb/bbl,733.4,766.4,banchero_costa_2026_W39_Bancosta-Weekly-2026-39.pdf
-2026-09-28,39,Gasoil ICE,Gasoil ICE,usd/t,1460.8,1509.3,banchero_costa_2026_W39_Bancosta-Weekly-2026-39.pdf
-2026-09-28,39,Gasoline Nymex,Gasoline Nymex,usd/gal,3.39,3.53,banchero_costa_2026_W39_Bancosta-Weekly-2026-39.pdf
-2026-09-28,39,Naphtha C\&F Japan,Naphtha C\&F Japan,usd/t,882.6,880.4,banchero_costa_2026_W39_Bancosta-Weekly-2026-39.pdf
-2026-09-28,39,Jet Fuel Singapore,Jet Fuel Singapore,usd/bbl,168.4,175.5,banchero_costa_2026_W39_Bancosta-Weekly-2026-39.pdf
-2026-09-28,39,Nat Gas Henry Hub,Nat Gas Henry Hub,usd/mmbtu,3.20,2.91,banchero_costa_2026_W39_Bancosta-Weekly-2026-39.pdf
-2026-09-28,39,LNG TTF Netherlands,LNG TTF Netherlands,usd/mmbtu,24.09,26.62,banchero_costa_2026_W39_Bancosta-Weekly-2026-39.pdf
-2026-09-28,39,LNG North East Asia,LNG North East Asia,usd/mmbtu,25.85,27.00,banchero_costa_2026_W39_Bancosta-Weekly-2026-39.pdf
-2026-09-28,39,Steam Coal Richards Bay,Steam Coal Richards Bay,usd/t,123.5,127.4,banchero_costa_2026_W39_Bancosta-Weekly-2026-39.pdf
-2026-09-28,39,Steam Coal Newcastle,Steam Coal Newcastle,usd/t,141.2,148.6,banchero_costa_2026_W39_Bancosta-Weekly-2026-39.pdf
-2026-09-28,39,Coking Coal Australia SGX,Coking Coal Australia SGX,usd/t,278.0,275.0,banchero_costa_2026_W39_Bancosta-Weekly-2026-39.pdf
-2026-09-28,39,Iron Ore SGX 62%,Iron Ore SGX 62%,usd/t,96.8,97.4,banchero_costa_2026_W39_Bancosta-Weekly-2026-39.pdf
-2026-09-28,39,Iron Ore Dalian CE,Iron Ore Dalian CE,rmb/t,717.0,722.0,banchero_costa_2026_W39_Bancosta-Weekly-2026-39.pdf
-2026-09-28,39,Rebar Steel in China,Rebar Steel in China,rmb/t,3050.0,3050.0,banchero_costa_2026_W39_Bancosta-Weekly-2026-39.pdf
-2026-09-28,39,HRC Steel in China,HRC Steel in China,rmb/t,3286.0,3301.0,banchero_costa_2026_W39_Bancosta-Weekly-2026-39.pdf
-2026-09-28,39,HR Coil in China CISA,HR Coil in China CISA,rmb/t,3286.0,3301.0,banchero_costa_2026_W39_Bancosta-Weekly-2026-39.pdf
-2026-09-28,39,Soybeans CBoT,Soybeans CBoT,usc/bu,1319.0,1303.5,banchero_costa_2026_W39_Bancosta-Weekly-2026-39.pdf
-2026-09-28,39,Corn CBoT,Corn CBoT,usc/bu,528.2,527.5,banchero_costa_2026_W39_Bancosta-Weekly-2026-39.pdf
-2026-09-28,39,Wheat CBoT,Wheat CBoT,usc/bu,703.2,714.2,banchero_costa_2026_W39_Bancosta-Weekly-2026-39.pdf
-2026-09-28,39,Sugar ICE N.11,Sugar ICE N.11,usc/lb,17.50,17.42,banchero_costa_2026_W39_Bancosta-Weekly-2026-39.pdf
-2026-09-28,39,Palm Oil Malaysia,Palm Oil Malaysia,usd/t,1098.5,1151.0,banchero_costa_2026_W39_Bancosta-Weekly-2026-39.pdf
 2026-10-05,40,BUNKERS,Rotterdam,usd/t,601.8,622.5,banchero_costa_07_10_2026_banchero_costa_weekly_market_report_week_40_2026.pdf
 2026-10-05,40,BUNKERS,Fujairah,usd/t,689.3,693.5,banchero_costa_07_10_2026_banchero_costa_weekly_market_report_week_40_2026.pdf
 2026-10-05,40,BUNKERS,Singapore,usd/t,754.3,721.8,banchero_costa_07_10_2026_banchero_costa_weekly_market_report_week_40_2026.pdf

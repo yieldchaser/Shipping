@@ -32,8 +32,12 @@ Most of the changes discussed above are adding to ton-mile demand. This will hel
 
 ![Exhibit 1: Favorable Winds Ahead](../../../charts/poten/2018/poten_2018-03-09_favorable-winds-ahead_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2018/poten_2018-03-09_favorable-winds-ahead_chart1.png)
+> **Interactive Asset:** [Local Asset (200 DPI PNG)](../../../charts/poten/2018/poten_2018-03-09_favorable-winds-ahead_chart1.png)
 
-![Exhibit 2: Favorable Winds Ahead](../../../charts/poten/2018/poten_2018-03-09_favorable-winds-ahead_chart2.png)
+![Exhibit 2: Seaborne crude oil imports](../../../charts/poten/2018/poten_2018-03-09_favorable-winds-ahead_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2018/poten_2018-03-09_favorable-winds-ahead_chart2.png)
+> **Exhibit 2: Seaborne crude oil imports**  
+> Unit: mb/d · X-axis: 2003 to 2023  
+> Series: Chinese imports of seaborne crude, US imports of seaborne crude, Indian imports  
+> *Source: IEA*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2018/poten_2018-03-09_favorable-winds-ahead_chart2.png)

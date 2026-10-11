@@ -24,7 +24,7 @@ source_file: "corpus/03-breakwave/insights/2021/2021-02-22_dry-bulk-now-what.htm
 
 > **Figure 1: Baltic Dry Index**  
 > *Baltic Dry Index, 10-Year Seasonality and Current Implied Futures*  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2021/assets/2021-02-22_dry-bulk-now-what_img_container-ship-in-harbor-472138673-3_ed5a47ca136f.jpeg)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-02-22_dry-bulk-now-what_img_container-ship-in-harbor-472138673-3_ed5a47ca136f.jpeg)
 
 As spot rate volatility seems to be cooling off and futures have now gradually returned to a state of increased caution (see backwardation except Supramaxes), the natural question for shipping investors and traders is what’s next for dry bulk rates. The recent rally, which in fact one can trace its roots in early December of last year, has left rates elevated versus historical ranges. What comes next will either further solidify the opinion of a new longer-term upcycle for dry bulk or, once again, the last few weeks will be viewed and dismissed as an unexpected positional tightness in the context of a continuation of the “low and slow” freight rate environment of the last decade.
 
@@ -34,7 +34,7 @@ Interestingly, for believers of a new upcycle in shipping, the more of a dismiss
 
 > **Figure 2: Brazilian Capesize Demand Remains Below Trend**  
 > *Brazilian Capesize demand remains below trend*  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2021/assets/2021-02-22_dry-bulk-now-what_img_bdiseasonality_c364f4b6f42c.jpg)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-02-22_dry-bulk-now-what_img_bdiseasonality_c364f4b6f42c.jpg)
 
 We expect rates to marginally retract in the next month or so, especially for the sub-Capesize segments. The underlying demand for the commodities that such vessels transport remains robust and this comes on top of the lengthening of the average mile traveled given the significant dislocation of trading patterns, thus multiplying the demand factor. Port congestion, force majeures and inclement weather given the particularly harsh winter in the North hemisphere, further add fuel to the fire. As a result, although spot rates should ease a bit, they won’t return back to range until the above factors normalize, something we don’t anticipate in the near future.
 
@@ -48,7 +48,7 @@ Although the high iron ore prices (overnight, Chinese iron ore futures reached a
 
 > **Figure 3: Brazil to China Freight Cost As a % of Spot Iron Ore Price**  
 > *Brazil to China Freight Cost as a % of Spot Iron Ore Price*  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2021/assets/2021-02-22_dry-bulk-now-what_img_briofixtures_f69a8a69a319.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-02-22_dry-bulk-now-what_img_briofixtures_f69a8a69a319.png)
 
 Not all is bad though for Capesize rates. As it is always the case, once the supply/demand balance tightens, the strength of the market will more than compensate for the current weakness. Such a rebalancing is not as far as one might think. Indeed, the current state of the Capesize market tilts towards marginal weakness, but one has to remember that so far this year spot rates have averaged well above recent years. As we enter the spring months when Chinese steel demand tends to recover, Capesize rates will start any potential upturn from a higher base, which combined with a broader optimism coming from the smaller, sub-cape segments, should indeed push Capesize spot rates higher and at an accelerating pace.
 
@@ -57,7 +57,7 @@ We have again and again made predictions about the direction and level of rates 
 ![C3 vs Iron Ore Spot](assets/2021-02-22_dry-bulk-now-what_img_c3vsironorespot_569df8baee21.jpg)
 
 > **Figure 4: C3 vs Iron Ore Spot**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2021/assets/2021-02-22_dry-bulk-now-what_img_c3vsironorespot_569df8baee21.jpg)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-02-22_dry-bulk-now-what_img_c3vsironorespot_569df8baee21.jpg)
 
 Finally, shipping is an integral part of the commodities market. It would be odd to see freight rates thriving in a weak commodity environment, while the opposite is also true. As commodity prices move higher, production levels increase, arbitrage opportunities reappear and profitability is refocused on volume. Shipping is a direct beneficial of all the above. This time around, however, the supply side, as reflected by the current orderbook, is also constrained due to uncertainties regarding the future development of vessel engines and environmental-friendly propulsion, creating for the first time a unique and unpredictable cycle for the highly cyclical and supply-inelastic industry that is dry bulk shipping.
 

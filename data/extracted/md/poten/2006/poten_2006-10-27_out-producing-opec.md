@@ -60,10 +60,10 @@ The tanker fleet is the linchpin in affording the crude oil market highly valued
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: Out Producing OPEC](../../../charts/poten/2006/poten_2006-10-27_out-producing-opec_chart1.png)
+![Exhibit 2: Untitled chart](../../../charts/poten/2006/poten_2006-10-27_out-producing-opec_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2006/poten_2006-10-27_out-producing-opec_chart1.png)
-
-![Exhibit 2: Out Producing OPEC](../../../charts/poten/2006/poten_2006-10-27_out-producing-opec_chart2.png)
-
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2006/poten_2006-10-27_out-producing-opec_chart2.png)
+> **Exhibit 2: Untitled chart**  
+> Unit: (000 bpd) · X-axis: Algeria to Venezuela  
+> Series: Current Production, Proposed Cuts, Quota  
+> *Source: Poten/ OPEC/ EIA*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2006/poten_2006-10-27_out-producing-opec_chart2.png)

@@ -32,10 +32,18 @@ So, the expected fleet growth may not be as disastrous for the market as it appe
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: Retirement Planning](../../../charts/poten/2016/poten_2016-11-11_retirement-planning_chart1.png)
+![Exhibit 1: Deliveries vs Scrapping Potential](../../../charts/poten/2016/poten_2016-11-11_retirement-planning_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2016/poten_2016-11-11_retirement-planning_chart1.png)
+> **Exhibit 1: Deliveries vs Scrapping Potential**  
+> Unit: Perc Of Existing Fleet · X-axis: VLCC to Handy  
+> Series: 2017/18 Deliveries, Scrapping (20+ yr old)  
+> *Source: Poten & Partners*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2016/poten_2016-11-11_retirement-planning_chart1.png)
 
-![Exhibit 2: Retirement Planning](../../../charts/poten/2016/poten_2016-11-11_retirement-planning_chart2.png)
+![Exhibit 2: Change in Ton Mile Demand (2015 to 2016)](../../../charts/poten/2016/poten_2016-11-11_retirement-planning_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2016/poten_2016-11-11_retirement-planning_chart2.png)
+> **Exhibit 2: Change in Ton Mile Demand (2015 to 2016)**  
+> Unit: Bln Tonne-Miles · X-axis: VLCC to Panamax Dirty  
+> Series: 2016, 2015  
+> *Source: Lloyds List Intelligence*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2016/poten_2016-11-11_retirement-planning_chart2.png)

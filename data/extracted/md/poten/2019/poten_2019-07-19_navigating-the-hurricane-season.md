@@ -30,8 +30,12 @@ Now that the U.S. is a major crude oil exporter, these exports could also be aff
 
 ![Exhibit 1: Navigating The Hurricane Season](../../../charts/poten/2019/poten_2019-07-19_navigating-the-hurricane-season_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2019/poten_2019-07-19_navigating-the-hurricane-season_chart1.png)
+> **Interactive Asset:** [Local Asset (200 DPI PNG)](../../../charts/poten/2019/poten_2019-07-19_navigating-the-hurricane-season_chart1.png)
 
-![Exhibit 2: Navigating The Hurricane Season](../../../charts/poten/2019/poten_2019-07-19_navigating-the-hurricane-season_chart2.png)
+![Exhibit 2: Hurricane Impact on Caribbean - USG Aframax Rates](../../../charts/poten/2019/poten_2019-07-19_navigating-the-hurricane-season_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2019/poten_2019-07-19_navigating-the-hurricane-season_chart2.png)
+> **Exhibit 2: Hurricane Impact on Caribbean - USG Aframax Rates**  
+> Unit: TCE · X-axis: -5 to 30  
+> Series: Katrina (Aug-05), Rita (Sep-05), Gustav (Sep-08), Ike (Sep-08), Isaac (Aug-12), Harvey (Aug-17)  
+> *Source: Poten & Partners*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2019/poten_2019-07-19_navigating-the-hurricane-season_chart2.png)

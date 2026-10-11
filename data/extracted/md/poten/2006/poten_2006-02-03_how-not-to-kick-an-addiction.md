@@ -70,6 +70,14 @@ So for oil companies and tanker owners alike, this speech is best exemplified by
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: How Not to Kick an Addiction](../../../charts/poten/2006/poten_2006-02-03_how-not-to-kick-an-addiction_chart1.png)
+> **Chart on PDF page 2: U.S. Gasoline Consumption and Price**  
+> Unit: 000 Bpd | $/Gallon · X-axis: 6/3 to 12/30  
+> Series: Price, Consumption  
+> *Source: EIA/Poten*  
+> *No image crop of this chart was saved; caption read from the PDF.*
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2006/poten_2006-02-03_how-not-to-kick-an-addiction_chart1.png)
+> **Chart on PDF page 4: U.S. Oil Supply**  
+> Unit: 000 Bpd · X-axis: 1995 to 2005  
+> Series: Other Imports, Domestic Production, Middle East Imports  
+> *Source: EIA/Poten*  
+> *No image crop of this chart was saved; caption read from the PDF.*

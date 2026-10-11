@@ -27,10 +27,10 @@ It was early October 2021 when IMF stressed that global economic upswing was con
 
 Despite these fierce headwinds, real GDP was surprisingly strong in the third quarter of 2022 in numerous economies. The sources of these positive surprises were in many cases stronger-than-expected private consumption and greater-than-anticipated fiscal support, according to the IMF. In the fourth quarter of 2022, however, this boost is estimated to have faded in most major economies. Furthermore, economic activity in China slowed considerably amid multiple Covid-19 outbreaks in Beijing and other densely populated cities. Real estate investment continued to contract, amid the lingering property market crisis. The course of the Baltic Dry Index was a mirror image of the aforementioned dynamics, drifting lower day by day in the last eight months to this Friday's closing of 621 points.
 
-![1 (9)](assets/2023-02-06_doric-weekly-market-insight_img_128929_257eca6c3a5e.png)
+![1 (9)](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-02-06_doric-weekly-market-insight_img_128929_257eca6c3a5e.png)
 
 > **Figure 1: 1 (9)**  
-> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-02-06_doric-weekly-market-insight_img_128929_257eca6c3a5e.png)
+> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-02-06_doric-weekly-market-insight_img_128929_257eca6c3a5e.png)
 
 Looking forward, tightening monetary policies and Russia’s war in Ukraine continue to weigh on economic activity. Conversely, the rapid spread of Covid-19 in China dragged growth down in 2022, but the recent reopening has led the way for a faster-than-expected recovery. In this context, global growth is projected to fall from an estimated 3.4 percent in 2022 to 2.9 percent in 2023, then rise to 3.1 percent in 2024. The forecast for 2023 is 0.2 percentage point higher than predicted in the October 2022 World Economic Outlook (WEO) but below the historical (2000-19) average of 3.8 percent. The balance of risks remains tilted to the downside, but adverse risks have moderated since the latest IMF’s report. On the upside, a stronger boost from pent-up demand in numerous economies or a faster fall in inflation are plausible. On the downside, severe health outcomes in China could hold back the recovery and Russia’s war in Ukraine could escalate further.
 
@@ -38,9 +38,9 @@ In reference to the advanced economies, growth is projected to decline steeply f
 
 Growth in emerging and developing Asia is expected to rise in 2023 and 2024 to 5.3 percent and 5.2 percent, respectively, after a lukewarm 2022 due to China’s anaemic economic performance. For the first time in more than 40 years, China’s growth was below the global average. The slowdown of the world’s second largest economy reduced global trade growth and international commodity prices. For the current trading year though, growth in China is projected to rise to 5.2 percent. That’s good news for China and the rest of the world as well. When China’s growth rate rises by 1 percentage point, growth in other countries increases by circa 0.3 percentage points, according to recent IMF analysis. China’s dramatic reopening has clearly triggered an outbreak of bullishness across the board. However, the optimism has yet to bear any fruits in the spot market.
 
-![1 (10)](assets/2023-02-06_doric-weekly-market-insight_img_1281029_4dc79e7195c0.png)
+![1 (10)](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-02-06_doric-weekly-market-insight_img_1281029_4dc79e7195c0.png)
 
 > **Figure 2: 1 (10)**  
-> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-02-06_doric-weekly-market-insight_img_1281029_4dc79e7195c0.png)
+> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-02-06_doric-weekly-market-insight_img_1281029_4dc79e7195c0.png)
 
 Data source:[Doric](https://www.doric.gr/)

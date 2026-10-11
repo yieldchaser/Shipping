@@ -41,21 +41,21 @@ Market concerns are around whether tonnage will flow at a declining pace in the 
 ## Panamax 67-85kt DWT
 
 
-![Image 1: Signal Ocean Data| Panamax Supply Trend, Ballasters’ View, East & South Africa, East Coast India](../../images/66b51d77ff32b874ce20ca11_61572bd98d4a07343d885fb4_Panamax%20East%20Africa%2C%20South%20Africa%2C%20EC%20India.avif)
+![Image 1: Signal Ocean Data| Panamax Supply Trend, Ballasters’ View, East & South Africa, East Coast India](../../images/66b51d77ff32b874ce20ca11_61572bd98d4a07343d885fb4_Panamax%2520East%2520Africa%252C%2520South%2520Africa%252C%2520EC%2520India.avif)
 
 > **Figure 1: Image 1: Signal Ocean Data| Panamax Supply Trend, Ballasters’ View, East & South Africa, East Coast India**  
 > *Image 1: Signal Ocean Data| Panamax Supply Trend, Ballasters’ View, East & South Africa, East Coast India*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/dry-bulk-supply-trends-ballasters-view-over-time) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/66b51d77ff32b874ce20ca11_61572bd98d4a07343d885fb4_Panamax%20East%20Africa%2C%20South%20Africa%2C%20EC%20India.avif)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/dry-bulk-supply-trends-ballasters-view-over-time) | [Local Asset](../../../../../../corpus/07-signal/images/66b51d77ff32b874ce20ca11_61572bd98d4a07343d885fb4_Panamax%2520East%2520Africa%252C%2520South%2520Africa%252C%2520EC%2520India.avif)
 
 
 ## Capesize 120-220kt DWT
 
 
-![Image 2: Signal Ocean Data| Panamax Supply Trend, Ballasters’ View, East & South Africa, East Coast India](../../images/66b51d77ff32b874ce20ca15_61572c06355ced172ecbaae0_Capesize%20East%20Africa%2C%20South%20Africa%2C%20EC%20India.avif)
+![Image 2: Signal Ocean Data| Panamax Supply Trend, Ballasters’ View, East & South Africa, East Coast India](../../images/66b51d77ff32b874ce20ca15_61572c06355ced172ecbaae0_Capesize%2520East%2520Africa%252C%2520South%2520Africa%252C%2520EC%2520India.avif)
 
 > **Figure 2: Image 2: Signal Ocean Data| Panamax Supply Trend, Ballasters’ View, East & South Africa, East Coast India**  
 > *Image 2: Signal Ocean Data| Panamax Supply Trend, Ballasters’ View, East & South Africa, East Coast India*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/dry-bulk-supply-trends-ballasters-view-over-time) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/66b51d77ff32b874ce20ca15_61572c06355ced172ecbaae0_Capesize%20East%20Africa%2C%20South%20Africa%2C%20EC%20India.avif)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/dry-bulk-supply-trends-ballasters-view-over-time) | [Local Asset](../../../../../../corpus/07-signal/images/66b51d77ff32b874ce20ca15_61572c06355ced172ecbaae0_Capesize%2520East%2520Africa%252C%2520South%2520Africa%252C%2520EC%2520India.avif)
 
 So far the bulker freight market remains unperturbed and owners have enjoyed a remarkable growth of earnings in the last 12 months. It seems that spot freight market rates will continue their upward trend and Pacific Asia even more as the supply of tonnage appears to be even tighter and combined with accelerated number of port congestion at Chinese ports will strongly support the upward trend of freight rates.
 

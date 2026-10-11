@@ -35,10 +35,10 @@ tags:
 ## Looking Ahead, It Will Be Crucial to Monitor How the Transition From the Summer to the Winter Season Impacts the Growth of Dirty Tonne Days. the Shift in Seasonal Demand and Potential Increases in Freight Rates Will Be Key Factors in Determining Whether the Recent Upward Trend Can Be Sustained and How It Will Influence Market Dynamics in the Coming Months.
 
 
-![66d9c1710e053cadccd9604e 66d9c13f535e192cb4ec15cd Chart%20of%20the%20week%20tanker](../../images/66d9c1710e053cadccd9604e_66d9c13f535e192cb4ec15cd_chart%20of%20the%20week%20tanker.avif)
+![66d9c1710e053cadccd9604e 66d9c13f535e192cb4ec15cd Chart%20of%20the%20week%20tanker](../../images/66d9c1710e053cadccd9604e_66d9c13f535e192cb4ec15cd_chart%2520of%2520the%2520week%2520tanker.avif)
 
 > **Figure 1: 66d9c1710e053cadccd9604e 66d9c13f535e192cb4ec15cd Chart%20of%20the%20week%20tanker**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/tanker-week-36-2024) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/66d9c1710e053cadccd9604e_66d9c13f535e192cb4ec15cd_chart%20of%20the%20week%20tanker.avif)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/tanker-week-36-2024) | [Local Asset](../../../../../../corpus/07-signal/images/66d9c1710e053cadccd9604e_66d9c13f535e192cb4ec15cd_chart%2520of%2520the%2520week%2520tanker.avif)
 
 The first week of September has shown weaker momentum for both dirty and clean freight market rates. The supply trend, which is expected to be a challenging factor in the coming days, has recorded an increase. Notably, in the MR clean segment, there has been a surprising upswing, pushing levels above the annual average. Meanwhile, VLCC Ras Tanura levels are approaching the annual average, indicating potential shifts in market dynamics. It remains to be seen whether this trend in tonne days growth will be driven by increasing demand and translate into higher freight market rates.
 

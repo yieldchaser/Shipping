@@ -20,11 +20,11 @@ source_file: "corpus/03-breakwave/insights/2020/2020-06-15_what-happens-to-shipp
 
 ---
 
-![“Despite the Rapid Deterioration of China-Australia Relations](assets/2020-06-15_what-happens-to-shipping-if-china-stops-buying-australian-iron-ore_img_image-asset_e8be15f4d485.jpeg)
+![“Despite the Rapid Deterioration of China-Australia Relations](../../../../../../corpus/03-breakwave/insights/2020/assets/2020-06-15_what-happens-to-shipping-if-china-stops-buying-australian-iron-ore_img_image-asset_e8be15f4d485.jpeg)
 
 > **Figure 1: “Despite the Rapid Deterioration of China-Australia Relations**  
 > *“Despite the rapid deterioration of China-Australia relations over recent dispute, some observers believe that Beijing is unlikely to target Australian iron ore exports due to China's heavy dependence on this imported commodity…. There is indeed some truth in the argument that curbing Australian iron ore imports would have negative impacts on China's economy, but Australia would suffer much greater economic damage if China were to make such a move. Without Australian iron ore, China may have to pay more and spend time seek alternatives from Brazil or Africa and cultivate domestic iron ore sources. Australia, however, will never find big buyer to replace China, especially considering the coronavirus pandemic has weighed down global demand for commodities.While there is no denying that China would face economic repercussions if it bans or restricts Australian iron ore imports, the Australian economy would definitely suffer more.It would be a big mistake for anyone to think that despite its dependence on iron ore China wouldn't cut Australian imports(emphasis added). China will not tolerate further behavior that touches its bottom line, even if retaliation comes at the expense of its economic interests.”*  
-> **Interactive Data & Source:** [Globaltimes](http://www.globaltimes.cn/content/1191579.shtml) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2020/assets/2020-06-15_what-happens-to-shipping-if-china-stops-buying-australian-iron-ore_img_image-asset_e8be15f4d485.jpeg)
+> **Interactive Data & Source:** [Globaltimes](http://www.globaltimes.cn/content/1191579.shtml) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2020/assets/2020-06-15_what-happens-to-shipping-if-china-stops-buying-australian-iron-ore_img_image-asset_e8be15f4d485.jpeg)
 
 The[weekend article in Global Times](http://www.globaltimes.cn/content/1191579.shtml)that touched on China-Australia relations and the impact on iron ore trade is of particular importance for the dry bulk market. Australia ships more than 700 million tons of iron ore per year to China, and thus such trade is one the most important demand drivers for dry bulk shipping globally. The article discusses the potential for a disruption in iron ore trade between the two countries due to recent trade frictions and how Australia’s economy will be equally hurt in such a scenario.
 
@@ -38,11 +38,11 @@ Given the strong ties of the above publication to the Chinese government, one sh
 
 Last year, Australia accounted for approximately 78% of all iron ore imports to China. More importantly, 81% of all exported iron ore from Australia ended up in China. Thus, the interdependence of the two countries on iron ore trade is impossible to downplay.
 
-![2019 Iron Ore Imports to China](assets/2020-06-15_what-happens-to-shipping-if-china-stops-buying-australian-iron-ore_img_ioimports2019_db85028e8ea6.png)
+![2019 Iron Ore Imports to China](../../../../../../corpus/03-breakwave/insights/2020/assets/2020-06-15_what-happens-to-shipping-if-china-stops-buying-australian-iron-ore_img_ioimports2019_db85028e8ea6.png)
 
 > **Figure 2: 2019 Iron Ore Imports to China**  
 > *2019 Iron Ore Imports to China*  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2020/assets/2020-06-15_what-happens-to-shipping-if-china-stops-buying-australian-iron-ore_img_ioimports2019_db85028e8ea6.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2020/assets/2020-06-15_what-happens-to-shipping-if-china-stops-buying-australian-iron-ore_img_ioimports2019_db85028e8ea6.png)
 
 For dry bulk shipping, the Australia-China iron ore trade corresponded to about 10% of total ton-mile dry bulk demand and appropriately 33% of Capesize ton-mile demand, according to our estimates.
 

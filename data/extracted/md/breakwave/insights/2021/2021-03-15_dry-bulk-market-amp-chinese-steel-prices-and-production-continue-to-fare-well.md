@@ -27,7 +27,7 @@ Dry bulk rates increased across the board again last week, with Capesize rates a
 ![Bull3](assets/2021-03-15_dry-bulk-market-amp-chinese-steel-prices-and-production-continue-to-fare-well_img_bull3_d89e486941bf.jpg)
 
 > **Figure 1: Bull3**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2021/assets/2021-03-15_dry-bulk-market-amp-chinese-steel-prices-and-production-continue-to-fare-well_img_bull3_d89e486941bf.jpg)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-03-15_dry-bulk-market-amp-chinese-steel-prices-and-production-continue-to-fare-well_img_bull3_d89e486941bf.jpg)
 
 As we have been discussing in our Weekly Dry Bulk Reports, the drivers that have been supporting the strength in the panamax, handymax, and handysize markets remain intact. Grain trade expectations have also recently become even more bullish. The United States Department of Agriculture is now forecasting that global grain exports in 2020/21 will total 474 million tons. This is 4.7 million tons (1%) more than was forecast a month ago and would mark a year-on-year rise of 31.1 million tons (7%). In addition, the forecast for global soybean exports (soybeans are not technically classified as a grain) remains at a very firm 169.7 million tons. This is unchanged from a month ago and would mark a year-on-year increase of 4.5 million tons (3%).
 
@@ -38,7 +38,7 @@ Chinese steel prices continue to find support. The average price of hot rolled c
 ![Comm 1](assets/2021-03-15_dry-bulk-market-amp-chinese-steel-prices-and-production-continue-to-fare-well_img_comm1_d2c14432c8f4.jpg)
 
 > **Figure 2: Comm 1**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2021/assets/2021-03-15_dry-bulk-market-amp-chinese-steel-prices-and-production-continue-to-fare-well_img_comm1_d2c14432c8f4.jpg)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-03-15_dry-bulk-market-amp-chinese-steel-prices-and-production-continue-to-fare-well_img_comm1_d2c14432c8f4.jpg)
 
 ---
 

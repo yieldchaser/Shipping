@@ -24,10 +24,10 @@ Energy markets dipped, as supply disruption concerns in the Middle East eased. P
 
 *By*[*Daniel Hynes*](https://www.linkedin.com/in/dahynes/)
 
-![Στιγμιότυπο Οθόνης 2026 09 17 105148](assets/2026-09-17_oil-falls-as-supply-concerns-ease_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_cc7e28e952e8.png)
+![Στιγμιότυπο Οθόνης 2026 09 17 105148](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-09-17_oil-falls-as-supply-concerns-ease_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_cc7e28e952e8.png)
 
 > **Figure 1: Στιγμιότυπο Οθόνης 2026 09 17 105148**  
-> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-09-17_oil-falls-as-supply-concerns-ease_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_cc7e28e952e8.png)
+> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-09-17_oil-falls-as-supply-concerns-ease_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_cc7e28e952e8.png)
 
 ### Market Commentary
 
@@ -47,10 +47,10 @@ The**base metals**sector also found some support from investors as US stocks and
 
 Investors continue to pile into gold-backed EFTs despite the prospect of higher interest rates. August recorded the first monthly gain in gold held in ETFs since April. September is on course to increase the most since this time last year. Much of this buying is coming from Asia. Institutional investment demand in China is growing strongly, as insurance companies are taking exposure to gold for 1% of their portfolio. India’s ETF flows were positive in June–August, supported by growing investor participation, with the number of active accounts rising sharply in recent months.
 
-![Στιγμιότυπο Οθόνης 2026 09 17 105645](assets/2026-09-17_oil-falls-as-supply-concerns-ease_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_c428206cce36.png)
+![Στιγμιότυπο Οθόνης 2026 09 17 105645](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-09-17_oil-falls-as-supply-concerns-ease_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_c428206cce36.png)
 
 > **Figure 2: Στιγμιότυπο Οθόνης 2026 09 17 105645**  
-> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-09-17_oil-falls-as-supply-concerns-ease_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_c428206cce36.png)
+> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-09-17_oil-falls-as-supply-concerns-ease_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_c428206cce36.png)
 
 Data source:[Commodities Wrap](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI)
 

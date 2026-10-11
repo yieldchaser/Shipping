@@ -30,10 +30,16 @@ The impact on international shipping will be positive. More jet fuel demand will
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: Ready For Take Off](../../../charts/poten/2023/poten_2023-06-23_ready-for-take-off_chart1.png)
+![Exhibit 1: Jet Fuel & Kerosene Demand vs 2019](../../../charts/poten/2023/poten_2023-06-23_ready-for-take-off_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2023/poten_2023-06-23_ready-for-take-off_chart1.png)
+> **Exhibit 1: Jet Fuel & Kerosene Demand vs 2019**  
+> Unit: Kb/day · X-axis: 2020 to 2024  
+> Series: Global Demand, Non OECD Demand, China, India  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2023/poten_2023-06-23_ready-for-take-off_chart1.png)
 
-![Exhibit 2: Ready For Take Off](../../../charts/poten/2023/poten_2023-06-23_ready-for-take-off_chart2.png)
+![Exhibit 2: Jet Fuel and Kerosene Demand Outlook](../../../charts/poten/2023/poten_2023-06-23_ready-for-take-off_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2023/poten_2023-06-23_ready-for-take-off_chart2.png)
+> **Exhibit 2: Jet Fuel and Kerosene Demand Outlook**  
+> Unit: Mb/day · X-axis: 2019 to 2028  
+> *Source: IEA*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2023/poten_2023-06-23_ready-for-take-off_chart2.png)

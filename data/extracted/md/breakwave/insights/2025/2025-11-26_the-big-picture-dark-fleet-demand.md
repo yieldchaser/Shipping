@@ -38,10 +38,10 @@ China’s independent refineries are restricted by import quotas imposed by the 
 
 Without a change in Western sanctions, or without new ways being found to circumvent them, floating storage employment is likely to grow. This is unlikely to happen until shore storage is running low. Vortexa data suggests that Iran and Russia’s onshore storage tanks are slightly over 50% full, while Venezuela is at 46%. The alternative – that exporters will cut production – is very much a last resort.
 
-![89ec Image 0 1764076703479](assets/2025-11-26_the-big-picture-dark-fleet-demand_img_89ec-image-0-1764076703479_db6295733e64.png)
+![89ec Image 0 1764076703479](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-11-26_the-big-picture-dark-fleet-demand_img_89ec-image-0-1764076703479_db6295733e64.png)
 
 > **Figure 1: 89ec Image 0 1764076703479**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-11-26_the-big-picture-dark-fleet-demand_img_89ec-image-0-1764076703479_db6295733e64.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-11-26_the-big-picture-dark-fleet-demand_img_89ec-image-0-1764076703479_db6295733e64.png)
 
 *Source: Vortexa*
 
@@ -55,15 +55,15 @@ Dongying port in the Shandong region chose to exit the Shandong Port Group so it
 
 Since the start of this year, the participation of sanctioned VLCCs in shadow trades has jumped from 46% to 63% of all dark VLCCs. In response, the dark fleet has had to be supplemented by 28 VLCCs from the non-dark fleet, most of which were previously trading out of the Middle East. The need for compliant VLCCs to join the dark fleet will grow in order to minimise the cost of moving shadow crude into Shandong ports, and to maintain shadow exports in the absence of buyers.
 
-![2c81 Image 1 1764076736617](assets/2025-11-26_the-big-picture-dark-fleet-demand_img_2c81-image-1-1764076736617_2e73d357333d.png)
+![2c81 Image 1 1764076736617](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-11-26_the-big-picture-dark-fleet-demand_img_2c81-image-1-1764076736617_2e73d357333d.png)
 
 > **Figure 2: 2c81 Image 1 1764076736617**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-11-26_the-big-picture-dark-fleet-demand_img_2c81-image-1-1764076736617_2e73d357333d.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-11-26_the-big-picture-dark-fleet-demand_img_2c81-image-1-1764076736617_2e73d357333d.png)
 
-![98d1 Image 2 1764076747848](assets/2025-11-26_the-big-picture-dark-fleet-demand_img_98d1-image-2-1764076747848_48b75c5683e2.png)
+![98d1 Image 2 1764076747848](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-11-26_the-big-picture-dark-fleet-demand_img_98d1-image-2-1764076747848_48b75c5683e2.png)
 
 > **Figure 3: 98d1 Image 2 1764076747848**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-11-26_the-big-picture-dark-fleet-demand_img_98d1-image-2-1764076747848_48b75c5683e2.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-11-26_the-big-picture-dark-fleet-demand_img_98d1-image-2-1764076747848_48b75c5683e2.png)
 
 ### Competition Between Shadow Barrels – Iran May Face Temporary Challenges
 
@@ -87,11 +87,11 @@ Sales of crude tankers over 15 years have fallen from their heights in the after
 
 95% of the 680 non-dark fleet VLCCs are owned by internationally-recognised tanker owners with reputations to protect that are unlikely to sell into the dark fleet. This leaves about 35 VLCCs that could be candidates for the dark fleet.
 
-![Braemar Research](assets/2025-11-26_the-big-picture-dark-fleet-demand_img_7295-image-3-1764076871838_53829c320175.png)
+![Braemar Research](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-11-26_the-big-picture-dark-fleet-demand_img_7295-image-3-1764076871838_53829c320175.png)
 
 > **Figure 4: Braemar Research**  
 > *Braemar Research*  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-11-26_the-big-picture-dark-fleet-demand_img_7295-image-3-1764076871838_53829c320175.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-11-26_the-big-picture-dark-fleet-demand_img_7295-image-3-1764076871838_53829c320175.png)
 
 ---
 

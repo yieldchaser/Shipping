@@ -24,10 +24,10 @@ Precious metals recorded gains amid strong investor interest. Energy markets rem
 
 *By*[*Daniel Hynes*](https://www.linkedin.com/in/dahynes/)
 
-![Στιγμιότυπο Οθόνης 2026 01 28 101338](assets/2026-01-28_energy-markets-on-edge-amid-supply-risks_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_33f4e92a0cdf.png)
+![Στιγμιότυπο Οθόνης 2026 01 28 101338](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-01-28_energy-markets-on-edge-amid-supply-risks_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_33f4e92a0cdf.png)
 
 > **Figure 1: Στιγμιότυπο Οθόνης 2026 01 28 101338**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-01-28_energy-markets-on-edge-amid-supply-risks_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_33f4e92a0cdf.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-01-28_energy-markets-on-edge-amid-supply-risks_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_33f4e92a0cdf.png)
 
 ### Market Commentary
 
@@ -39,16 +39,16 @@ Precious metals recorded gains amid strong investor interest. Energy markets rem
 
 **Crude oil**prices gained as geopolitical risks rose. President Trump has dispatched naval assets to the Middle East. This has raised the prospect that he will follow through on his threat to attack Iran’s senior leadership in response to a violent crackdown on nationwide protests. Supply side issues in the US also provide some support. A winter storm in the US has disrupted refineries on the Gulf Coast and elsewhere. This comes ahead of a meeting by OPEC+ to discuss supply. Expectations are that it will stick with its current plan to keep production steady.
 
-Traders in global**natural gas**markets remained on edge, as disruptions to US LNG exports loom. Estimated pipeline deliveries to export terminals have declined to about 10bncf/d as a winter storm disrupts local supplies. If supplies fail to recover, Asian importers may be forced to secure more cargoes in the spot market. However, the length of any disruption will determine if**North Asia LNG**prices rise. Importers entered this heating season[**relatively well stocked**](../pdfs/2026-01-28_energy-markets-on-edge-amid-supply-risks_commodity-call-squirrelling-away-gas_a1298c062e91.pdf). European gas futures eased lower on expectations that the winter storm won’t significantly hit imports. Nevertheless, the European Union’s competition chief warned against relying too much on US LNG, as the bloc looks to diversify its energy basket.
+Traders in global**natural gas**markets remained on edge, as disruptions to US LNG exports loom. Estimated pipeline deliveries to export terminals have declined to about 10bncf/d as a winter storm disrupts local supplies. If supplies fail to recover, Asian importers may be forced to secure more cargoes in the spot market. However, the length of any disruption will determine if**North Asia LNG**prices rise. Importers entered this heating season[**relatively well stocked**](https://research.anz.com/file/Commodity_Call_squirrelling_away_gas__1.pdf?docRef=81a5d741-3f23-4447-9d15-98bdacb0a9af&ch=2). European gas futures eased lower on expectations that the winter storm won’t significantly hit imports. Nevertheless, the European Union’s competition chief warned against relying too much on US LNG, as the bloc looks to diversify its energy basket.
 
 ### Chart of the Day
 
 China’s steel industry continues to suffer from overcapacity amid weak demand. Utilisation at steel mills has been failing in recent years. In 2025 it averaged 70%; however we could see some improvement this year as the government restricts new capacity and forces the closure of old mills.
 
-![Στιγμιότυπο Οθόνης 2026 01 28 101348](assets/2026-01-28_energy-markets-on-edge-amid-supply-risks_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_08d95f8e0d30.png)
+![Στιγμιότυπο Οθόνης 2026 01 28 101348](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-01-28_energy-markets-on-edge-amid-supply-risks_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_08d95f8e0d30.png)
 
 > **Figure 2: Στιγμιότυπο Οθόνης 2026 01 28 101348**  
-> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-01-28_energy-markets-on-edge-amid-supply-risks_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_08d95f8e0d30.png)
+> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-01-28_energy-markets-on-edge-amid-supply-risks_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_08d95f8e0d30.png)
 
 Data source:[Commodities Wrap](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI)
 

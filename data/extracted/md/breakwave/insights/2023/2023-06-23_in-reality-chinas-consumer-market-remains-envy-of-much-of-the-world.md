@@ -23,10 +23,10 @@ source_file: "corpus/03-breakwave/insights/2023/2023-06-23_in-reality-chinas-con
 
 As we discussed in Commodore's most recent Weekly China Report, China’s retail sales in May grew year-on-year by 12.7%. This has come in lower than many expectations and has been disappointing to various pundits, but nevertheless this is strong growth. As a point of reference, retail sales in the United States last month grew year-on-year by 1.6% (which was far below the 4% inflation seen in the United States last month).
 
-![Chart (1)](assets/2023-06-23_in-reality-chinas-consumer-market-remains-envy-of-much-of-the-world_img_chart28129_bd853d7d0b4b.jpg)
+![Chart (1)](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-06-23_in-reality-chinas-consumer-market-remains-envy-of-much-of-the-world_img_chart28129_bd853d7d0b4b.jpg)
 
 > **Figure 1: Chart (1)**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-06-23_in-reality-chinas-consumer-market-remains-envy-of-much-of-the-world_img_chart28129_bd853d7d0b4b.jpg)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-06-23_in-reality-chinas-consumer-market-remains-envy-of-much-of-the-world_img_chart28129_bd853d7d0b4b.jpg)
 
 We continue to see the United States and other western economies receiving far too positive coverage, and China’s economy receiving far too negative coverage. 12.7% growth is very good and well above the 0.2% inflation seen last month. In the United States, though, 1.6% retail sales growth is obviously quite low and well below the 4% inflation seen last month. In fact, it has matched April’s growth, which was the lowest seen in the States since April 2020 (which is back when US coronavirus restrictions were in effect). Overall, retail sales growth in the United States has now come in less than inflation during six of the last seven months. Previously, the last time that such an utterly weak development occurred in the United States was back in 2009.
 

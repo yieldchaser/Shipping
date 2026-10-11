@@ -30,10 +30,18 @@ Where does that leave the tanker market? Since the invasion, owners have benefit
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: Not So Fast](../../../charts/poten/2022/poten_2022-08-05_not-so-fast_chart1.png)
+![Exhibit 1: All Exports By Discharge Region - Loading in Russian Federation](../../../charts/poten/2022/poten_2022-08-05_not-so-fast_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2022/poten_2022-08-05_not-so-fast_chart1.png)
+> **Exhibit 1: All Exports By Discharge Region - Loading in Russian Federation**  
+> Unit: Barrels Per Day · X-axis: Jan-19 to May-22  
+> Series: Asia/Australia, Americas. Atlantic, Americas. Pacific, Mediterranean, Middle East/E Africa, UKC/Baltic, West Africa  
+> *Source: Lloyd's List Intelligence*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2022/poten_2022-08-05_not-so-fast_chart1.png)
 
-![Exhibit 2: Not So Fast](../../../charts/poten/2022/poten_2022-08-05_not-so-fast_chart2.png)
+![Exhibit 2: Suezmax & Aframax TCE's (Scrubber Equipped)](../../../charts/poten/2022/poten_2022-08-05_not-so-fast_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2022/poten_2022-08-05_not-so-fast_chart2.png)
+> **Exhibit 2: Suezmax & Aframax TCE's (Scrubber Equipped)**  
+> Unit: USD/Day · X-axis: Jan-2019 to Jul-2022  
+> Series: Suezmax TD20, Aframax TD9  
+> *Source: Poten & Partners*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2022/poten_2022-08-05_not-so-fast_chart2.png)

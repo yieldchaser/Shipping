@@ -30,10 +30,18 @@ India has built up a modern refining industry with world class facilities that a
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: Will India Be the Next China](../../../charts/poten/2016/poten_2016-03-11_will-india-be-the-next-china_chart1.png)
+![Exhibit 1: Indian Crude Production and Imports](../../../charts/poten/2016/poten_2016-03-11_will-india-be-the-next-china_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2016/poten_2016-03-11_will-india-be-the-next-china_chart1.png)
+> **Exhibit 1: Indian Crude Production and Imports**  
+> Unit: Kb/d · X-axis: 1Q2009 to 3Q2015  
+> Series: Imports, Crude Production  
+> *Source: JODI*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2016/poten_2016-03-11_will-india-be-the-next-china_chart1.png)
 
-![Exhibit 2: Will India Be the Next China](../../../charts/poten/2016/poten_2016-03-11_will-india-be-the-next-china_chart2.png)
+![Exhibit 2: Indian Clean Product Imports and Exports](../../../charts/poten/2016/poten_2016-03-11_will-india-be-the-next-china_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2016/poten_2016-03-11_will-india-be-the-next-china_chart2.png)
+> **Exhibit 2: Indian Clean Product Imports and Exports**  
+> Unit: Kb/d · X-axis: 1Q2009 to 3Q2015  
+> Series: Imports, Exports, Net Exports  
+> *Source: JODI*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2016/poten_2016-03-11_will-india-be-the-next-china_chart2.png)

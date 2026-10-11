@@ -55,10 +55,10 @@ The strike among port workers in South Africa has curtailed the country’s expo
 
 European buyers of coal have become increasingly dependent on South African supplies as they have sought to replace imports from Russia. Hence, cargo-ordering activities have been increasing since the Russian invasion of Ukraine. However, Shipfix’s order data showed that the weekly volumes were declining in the run-up to the strike. Last week nevertheless showed a rebound in cargo orders, suggesting that European buyers were expecting a swift solution to the standoff.
 
-![Market Chart 1](assets/2022-10-18_shipfix-global-market-update_img_unnamed289729_8e319fa50c7f.png)
+![Market Chart 1](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-10-18_shipfix-global-market-update_img_unnamed289729_8e319fa50c7f.png)
 
 > **Figure 1: Market Chart 1**  
-> **Interactive Data & Source:** [Shipfix](https://shipfix.com/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-10-18_shipfix-global-market-update_img_unnamed289729_8e319fa50c7f.png)
+> **Interactive Data & Source:** [Shipfix](https://shipfix.com/) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-10-18_shipfix-global-market-update_img_unnamed289729_8e319fa50c7f.png)
 
 Capesize freight rates have staged a remarkable recovery since the beginning of September, following an abysmal three months. Still, despite the rapid rebound, daily freight rates remain well below what has been observed during the same period in recent years. Hence, if history provides any guidance, there could be an additional upside, but rising economic and geopolitical headwinds could derail such assumptions.
 

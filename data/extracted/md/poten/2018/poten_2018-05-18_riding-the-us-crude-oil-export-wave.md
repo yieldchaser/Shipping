@@ -22,18 +22,24 @@ Before the export ban was lifted, the U.S. was predominantly a crude oil importe
 
 Because of the export ban, growing U.S. crude supplies had to find a home in the domestic markets. At the same time, growing Canadian production was also competing for U.S. customers. So, the reduction in seaborne crude oil imports in the U.S. was very significant from 2005 to 2015. However, After the export ban was lifted, the economics for crude oil imports changed dramatically. For example, the East Coast of the United States (PADD 1) imported an average of 1.6 million b/d of light sweet crude in 2003. This declined to an average of 600,000 b/d in 2014 as East Coast refiners used increasing volumes of U.S. (Bakken) crude, transported to their facilities by a combination of rail and barges. When exports were allowed, the pricing advantage of domestic crudes disappeared and imports started to grow again (averaging 913,000 b/d in 2017).
 
-What have been the implications of all these changes for the tanker market? A review of crude oil tanker demand related to U.S. imports and exports (see [Chart 2](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2018/poten_2018-05-18_riding-the-us-crude-oil-export-wave_chart2.png)), shows that ton-mile demand bottomed out at 88 billion ton-miles in November 2014. Since crude oil exports were allowed, ton-mile demand from the U.S. has grown, in particular after charterers started using VLCCs for long-haul crude oil exports from the U.S. Gulf to Asia. This trade started in earnest in 2007 and has been growing quickly. Comparing Q1 2017 with the same period of 2018, VLCC imports into the U.S. Gulf reduced from 19 voyages per month in 2017 to 16 per month in 2018 (all from the Arabian Gulf). Over the same time period exports from the U.S. Gulf on VLCCs increased by an average 2.7 voyages per month (all going to Asia). Almost all these exports out of the U.S. Gulf on VLCCs are done via reverse lightering and given the distances involved, the net effect of these changes is an increase in tanker ton-mile demand.
+What have been the implications of all these changes for the tanker market? A review of crude oil tanker demand related to U.S. imports and exports (see [Chart 2](../../../charts/poten/2018/poten_2018-05-18_riding-the-us-crude-oil-export-wave_chart2.png)), shows that ton-mile demand bottomed out at 88 billion ton-miles in November 2014. Since crude oil exports were allowed, ton-mile demand from the U.S. has grown, in particular after charterers started using VLCCs for long-haul crude oil exports from the U.S. Gulf to Asia. This trade started in earnest in 2007 and has been growing quickly. Comparing Q1 2017 with the same period of 2018, VLCC imports into the U.S. Gulf reduced from 19 voyages per month in 2017 to 16 per month in 2018 (all from the Arabian Gulf). Over the same time period exports from the U.S. Gulf on VLCCs increased by an average 2.7 voyages per month (all going to Asia). Almost all these exports out of the U.S. Gulf on VLCCs are done via reverse lightering and given the distances involved, the net effect of these changes is an increase in tanker ton-mile demand.
 
-> **Exhibit 2: Riding the U.S. Crude Oil Export Wave (Chart 2)**  
-> *Source: Poten & Partners*  
-> **Interactive Data & Source:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2018/poten_2018-05-18_riding-the-us-crude-oil-export-wave_chart2.png)
+> **Exhibit 2: U.S. Related Shipping Demand: Grand Total**  
+> Unit: Bn TonMiles · X-axis: Jan-14 to Jan-18  
+> Series: Intra U.S., Exports, Imports  
+> *Source: Lloyd’s List Intelligence*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2018/poten_2018-05-18_riding-the-us-crude-oil-export-wave_chart2.png)
 
-![Exhibit 2: Riding the U.S. Crude Oil Export Wave](../../../charts/poten/2018/poten_2018-05-18_riding-the-us-crude-oil-export-wave_chart2.png)
+![Exhibit 2: U.S. Related Shipping Demand: Grand Total](../../../charts/poten/2018/poten_2018-05-18_riding-the-us-crude-oil-export-wave_chart2.png)
 
 In conclusion, the changes in the oil trades involving the U.S. since late 2014/ early 2015 have contributed to tanker ton-mile demand. The U.S. East Coast has been importing more seaborne crude, while the U.S. Gulf has more than compensated for a reduction in imports with a growing export trade. Increases in shale oil production will stimulate more crude oil exports and the infrastructure improvements in the U.S. Gulf (e.g. LOOP reversal and Corpus Christi dredging/expansion) will lead to more VLCC exports, moving U.S. crude over longer distances, further supporting ton-mile demand.
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: Riding the U.S. Crude Oil Export Wave](../../../charts/poten/2018/poten_2018-05-18_riding-the-us-crude-oil-export-wave_chart1.png)
+![Exhibit 1: U.S. Crude Production vs Crude Prices](../../../charts/poten/2018/poten_2018-05-18_riding-the-us-crude-oil-export-wave_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2018/poten_2018-05-18_riding-the-us-crude-oil-export-wave_chart1.png)
+> **Exhibit 1: U.S. Crude Production vs Crude Prices**  
+> Unit: KB/d | $/bbl · X-axis: Jan-10 to Aug-17  
+> Series: Production, WTI ($/bbl)  
+> *Source: EIA*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2018/poten_2018-05-18_riding-the-us-crude-oil-export-wave_chart1.png)

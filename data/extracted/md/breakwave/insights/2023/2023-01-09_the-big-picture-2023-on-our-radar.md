@@ -37,10 +37,10 @@ As is the case with most years, iron ore flows will be affected by seasonal weat
 
 Many welcomed the sight of China lifting Covid-19 restrictions in early December as FFA prices moved to the upside. Though China is now quickly reopening, strong economic activity will not return overnight, particularly as the country deals with the subsequent surge in cases. Opening up has come in tandem with a series of stimulus announcements to aid its economy which, as we have stated before, will take time to make their intended impact.
 
-![Market Chart 1](assets/2023-01-09_the-big-picture-2023-on-our-radar_img_image0281029_f7eb42b0e437.png)
+![Market Chart 1](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-01-09_the-big-picture-2023-on-our-radar_img_image0281029_f7eb42b0e437.png)
 
 > **Figure 1: Market Chart 1**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-01-09_the-big-picture-2023-on-our-radar_img_image0281029_f7eb42b0e437.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-01-09_the-big-picture-2023-on-our-radar_img_image0281029_f7eb42b0e437.png)
 
 Inevitably there will be a slowdown in activity across the Chinese New Year period as there traditionally is, followed by an adjustment period of exiting zero-Covid. As a result, we look to the second half of the year for an improvement in both China’s economy and overall bulk commodity demand.
 
@@ -54,7 +54,7 @@ Elsewhere, following a brief slowdown for several months, EU countries started i
 
 The continued strength in Guinean bauxite trade in 2022 was one of the few trades that hit new heights last year. Bulk carriers loaded over 100m tonnes of bauxite in Guinea for the first time in 2022, increasing by 15.2% YoY. This can be owed to robust aluminium production in China despite the many headwinds primary industry faced in the country throughout the year. Naturally, as the volumes have increased, so has the impact this trade has had on the dry market. Ballasters heading west have increasingly sought after West Africa options as volumes from Brazil appeared less consistent, which has been important in keeping the market balanced, namely on the Capesizes. Of course, we expect to see the typical slowdown in Q3 this year but the volumes during this period have continued to improve on the previous year despite the poor weather, and at 21.4m tonnes, this was better than any quarterly volume achieved pre-2020.
 
-![Market Chart 2](assets/2023-01-09_the-big-picture-2023-on-our-radar_img_image1281029_f8147ddb304c.png)
+![Market Chart 2](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-01-09_the-big-picture-2023-on-our-radar_img_image1281029_f8147ddb304c.png)
 
 > **Figure 2: Market Chart 2**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-01-09_the-big-picture-2023-on-our-radar_img_image1281029_f8147ddb304c.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-01-09_the-big-picture-2023-on-our-radar_img_image1281029_f8147ddb304c.png)

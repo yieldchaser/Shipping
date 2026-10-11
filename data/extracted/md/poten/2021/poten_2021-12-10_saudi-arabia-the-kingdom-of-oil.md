@@ -24,13 +24,15 @@ Saudi Arabia has used its market power several times in recent years. In March 2
 
 In June 2020, Saudi production fell to 7.7 Mb/d, 3.9 Mb/d or 33% below the level two months prior. Since then, production has gradually increased, with the exception of February-April 2021, when Saudi Arabia temporarily cut production by an additional 1.0 Mb/d due to concerns over the impact of new Covid-19 variants and high global inventories. These cuts have since been reversed and as of November 2021, Saudi production returned to pre-Covid levels.
 
-As can be seen in [Chart 1](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2021/poten_2021-12-10_saudi-arabia-the-kingdom-of-oil_chart1.png), production and exports fairly closely follow each other over time, and higher production typically means higher exports and tanker demand. However, there have been periods where this relationship did not hold. In September 2019, in the aftermath of the attack on Saudi Arabia's Abqaiq oil processing facilities, production declined by 1.35 Mb/d, while exports only declined 637,000 b/d. The Saudi's used inventories as a buffer. In May 2020, the massive production cut of 3 Mb/d was closely matched by an equivalent reduction in exports. However, the situation was different in the early months of 2021. While Saudi Arabia cut production by 1.0 Mb/d, exports only decreased by 500,000 b/d, drawing down inventories by 500,000 b/d to make up the difference.
+As can be seen in [Chart 1](../../../charts/poten/2021/poten_2021-12-10_saudi-arabia-the-kingdom-of-oil_chart1.png), production and exports fairly closely follow each other over time, and higher production typically means higher exports and tanker demand. However, there have been periods where this relationship did not hold. In September 2019, in the aftermath of the attack on Saudi Arabia's Abqaiq oil processing facilities, production declined by 1.35 Mb/d, while exports only declined 637,000 b/d. The Saudi's used inventories as a buffer. In May 2020, the massive production cut of 3 Mb/d was closely matched by an equivalent reduction in exports. However, the situation was different in the early months of 2021. While Saudi Arabia cut production by 1.0 Mb/d, exports only decreased by 500,000 b/d, drawing down inventories by 500,000 b/d to make up the difference.
 
-> **Exhibit 1: Saudi Arabia The Kingdom Of Oil (Chart 1)**  
-> *Source: Poten & Partners*  
-> **Interactive Data & Source:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2021/poten_2021-12-10_saudi-arabia-the-kingdom-of-oil_chart1.png)
+> **Exhibit 1: Crude Exports from Saudi Arabia By Destination**  
+> Unit: Kbbl / day · X-axis: Jan-16 to Oct-21  
+> Series: China, Japan, Korea, Korea, Oth. Asia, Americas, Atl., Middle East, Other, Saudi Production (EIA)  
+> *Source: Lloyd’s List Intelligence, EIA*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2021/poten_2021-12-10_saudi-arabia-the-kingdom-of-oil_chart1.png)
 
-![Exhibit 1: Saudi Arabia The Kingdom Of Oil](../../../charts/poten/2021/poten_2021-12-10_saudi-arabia-the-kingdom-of-oil_chart1.png)
+![Exhibit 1: Crude Exports from Saudi Arabia By Destination](../../../charts/poten/2021/poten_2021-12-10_saudi-arabia-the-kingdom-of-oil_chart1.png)
 
 Saudi Arabia is also an important refining center and refined product exports from the Kingdom support ton-mile demand for both medium-range and long- range product tankers. Product exports peaked in 2018 and have experienced a significant decline in recent years. Declining exports have coincided with a significant reduction in product imports. It may have been a policy decision to satisfy domestic demand with domestic supply rather than have high levels imports and exports at the same time. Saudi product imports have remained subdued since the beginning of 2019, but exports have started to recover after bottoming out at 500,000 b/d in February 2020. They are running at more than 1 Mb/d since April of this year. Good news for product tanker ton-mile demand.
 
@@ -38,6 +40,10 @@ Crude oil and product exports from Saudi Arabia have experienced significant cha
 
 ## Market Exhibits & Charts
 
-![Exhibit 2: Saudi Arabia The Kingdom Of Oil](../../../charts/poten/2021/poten_2021-12-10_saudi-arabia-the-kingdom-of-oil_chart2.png)
+![Exhibit 2: Petroleum Product Exports By: Saudi Arabia](../../../charts/poten/2021/poten_2021-12-10_saudi-arabia-the-kingdom-of-oil_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2021/poten_2021-12-10_saudi-arabia-the-kingdom-of-oil_chart2.png)
+> **Exhibit 2: Petroleum Product Exports By: Saudi Arabia**  
+> Unit: Kb/d · X-axis: Jan-10 to Jul-21  
+> Series: Naphtha, Gasoline, Gasoil/Diesel, Kerosene  
+> *Source: JODI*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2021/poten_2021-12-10_saudi-arabia-the-kingdom-of-oil_chart2.png)

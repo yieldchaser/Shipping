@@ -51,9 +51,9 @@ The European import ban on Russian coal has forced the continent’s buyers to s
 
 Shipfix’s more forward-looking cargo order data, on the other hand, suggest that the recent spike in imports may come under pressure in the coming months. The aggregate order volumes for Russian coal discharging in China and India have been trending lower since the beginning of the third quarter. Hence, given the time lags involved, the export volumes of Russian coal may see some reductions during the final parts of the year. However, Indian cargo order volumes bounced back somewhat during the last month, offsetting the decline in shipments to China.
 
-![Market Chart 1](assets/2022-11-02_shipfix-global-market-update_img_unnamed-2022-11-02t144551470_44e027ef994c.png)
+![Market Chart 1](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-11-02_shipfix-global-market-update_img_unnamed-2022-11-02t144551470_44e027ef994c.png)
 
 > **Figure 1: Market Chart 1**  
-> **Interactive Data & Source:** [Shipfix](https://shipfix.com/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-11-02_shipfix-global-market-update_img_unnamed-2022-11-02t144551470_44e027ef994c.png)
+> **Interactive Data & Source:** [Shipfix](https://shipfix.com/) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-11-02_shipfix-global-market-update_img_unnamed-2022-11-02t144551470_44e027ef994c.png)
 
 Data Source:[Shipfix](https://shipfix.com/)

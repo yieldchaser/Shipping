@@ -53,9 +53,9 @@ While thermal coal prices have been caught up in the general retreat among energ
 
 Freight rates for the Panamaxes have moved sharply higher in recent days, propelled higher by rising cargo order volumes. The Baltic Exchange’s index for the freight rates in the tonnage segment has gained nearly thirty per cent since the end of August. The continued robust demand for seaborne transportation of coal has been a significant contributor to the recovery in cargo order volumes. The current week is also on track to match recent strong weekly volumes. With winter approaching in the Northern Hemisphere, the development is also likely to continue as utilities rebuild their coal inventories.
 
-![Market Chart 1](assets/2022-09-09_global-market-update_img_unnamed286929_3de30de3969b.png)
+![Market Chart 1](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-09-09_global-market-update_img_unnamed286929_3de30de3969b.png)
 
 > **Figure 1: Market Chart 1**  
-> **Interactive Data & Source:** [Shipfix](https://shipfix.com/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-09-09_global-market-update_img_unnamed286929_3de30de3969b.png)
+> **Interactive Data & Source:** [Shipfix](https://shipfix.com/) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-09-09_global-market-update_img_unnamed286929_3de30de3969b.png)
 
 Data Source:[Shipfix](https://shipfix.com/)

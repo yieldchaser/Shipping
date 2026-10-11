@@ -26,10 +26,10 @@ Snapshot of Crude and Product Freight Rates, Supply-Demand
 
 Week 20, 16 May, 2025
 
-![Στιγμιότυπο Οθόνης 2025 05 16 125845](assets/2025-05-16_shift-in-cpc-crude-exports-towards-suezmax-utilisation_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_988458480f33.png)
+![Στιγμιότυπο Οθόνης 2025 05 16 125845](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-05-16_shift-in-cpc-crude-exports-towards-suezmax-utilisation_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_988458480f33.png)
 
 > **Figure 1: Στιγμιότυπο Οθόνης 2025 05 16 125845**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-05-16_shift-in-cpc-crude-exports-towards-suezmax-utilisation_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_988458480f33.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-05-16_shift-in-cpc-crude-exports-towards-suezmax-utilisation_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_988458480f33.png)
 
 ### Shift in Cpc Crude Exports Towards Suezmax Utilisation
 
@@ -45,43 +45,43 @@ Although market sources hint at a possible temporary uptick in Aframax activity 
 
 In summary, the CPC terminal’s evolving export dynamics underscore the growing alignment of shipping strategy with global demand shifts, where Suezmax tankers are positioned as the preferred vector for scalable, cost-efficient crude flows from the Black Sea to increasingly distant markets.
 
-![Στιγμιότυπο Οθόνης 2025 05 16 130447](assets/2025-05-16_shift-in-cpc-crude-exports-towards-suezmax-utilisation_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_12d44e962b92.png)
+![Στιγμιότυπο Οθόνης 2025 05 16 130447](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-05-16_shift-in-cpc-crude-exports-towards-suezmax-utilisation_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_12d44e962b92.png)
 
 > **Figure 2: Στιγμιότυπο Οθόνης 2025 05 16 130447**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-05-16_shift-in-cpc-crude-exports-towards-suezmax-utilisation_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_12d44e962b92.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-05-16_shift-in-cpc-crude-exports-towards-suezmax-utilisation_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_12d44e962b92.png)
 
 Crude oil tanker freight markets showed mixed sentiment. The Aframax Mediterranean route displayed a notable downward trend, while the VLCC MEG-China route hinted at a potential upturn
 
 - VLCC freight rates on the MEG–China rose to WS 63, reflecting a 5% weekly increase. Meanwhile, Suezmax rates from West Africa to continental Europe dropped below WS90, showing a 20% monthly decrease. Meanwhile, rates on the Baltic–Mediterranean route dropped to WS110, standing 19% lower than a month ago.
 - Aframax freight rates in the Mediterranean dropped below WS120, showing a 20% weekly decrease.
 
-![Στιγμιότυπο Οθόνης 2025 05 16 130458](assets/2025-05-16_shift-in-cpc-crude-exports-towards-suezmax-utilisation_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_92a09b1abaed.png)
+![Στιγμιότυπο Οθόνης 2025 05 16 130458](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-05-16_shift-in-cpc-crude-exports-towards-suezmax-utilisation_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_92a09b1abaed.png)
 
 > **Figure 3: Στιγμιότυπο Οθόνης 2025 05 16 130458**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-05-16_shift-in-cpc-crude-exports-towards-suezmax-utilisation_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_92a09b1abaed.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-05-16_shift-in-cpc-crude-exports-towards-suezmax-utilisation_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_92a09b1abaed.png)
 
 - **LR2**AG freight rates rose to WS150, reflecting a monthly increase of 20%.
 
-![Στιγμιότυπο Οθόνης 2025 05 16 130506](assets/2025-05-16_shift-in-cpc-crude-exports-towards-suezmax-utilisation_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_2a50086f1a7a.png)
+![Στιγμιότυπο Οθόνης 2025 05 16 130506](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-05-16_shift-in-cpc-crude-exports-towards-suezmax-utilisation_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_2a50086f1a7a.png)
 
 > **Figure 4: Στιγμιότυπο Οθόνης 2025 05 16 130506**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-05-16_shift-in-cpc-crude-exports-towards-suezmax-utilisation_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_2a50086f1a7a.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-05-16_shift-in-cpc-crude-exports-towards-suezmax-utilisation_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_2a50086f1a7a.png)
 
 - **Panamax**Carib-to-USG rates reflected a similar sentiment to the previous week, remaining around WS180. However, these rates are still 15% lower than the levels observed a month ago.
 
-![Στιγμιότυπο Οθόνης 2025 05 16 130515](assets/2025-05-16_shift-in-cpc-crude-exports-towards-suezmax-utilisation_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_acfa34fdefe6.png)
+![Στιγμιότυπο Οθόνης 2025 05 16 130515](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-05-16_shift-in-cpc-crude-exports-towards-suezmax-utilisation_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_acfa34fdefe6.png)
 
 > **Figure 5: Στιγμιότυπο Οθόνης 2025 05 16 130515**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-05-16_shift-in-cpc-crude-exports-towards-suezmax-utilisation_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_acfa34fdefe6.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-05-16_shift-in-cpc-crude-exports-towards-suezmax-utilisation_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_acfa34fdefe6.png)
 
 - **MR1**freight rates for Baltic-to-Continent shipments hovered around WS1435, representing a 20% monthly decrease.
 
 - **MR2**freight rates for shipments from the Continent to the US Atlantic Coast (USAC) reached WS115, reflecting an 8% monthly decrease. MR2 rates from the US Gulf to the Continent saw a significant decline, dropping below WS100. This marks an 18% decrease week-on-week and a 10% decrease compared to rates from a month ago.
 
-![Στιγμιότυπο Οθόνης 2025 05 16 130525](assets/2025-05-16_shift-in-cpc-crude-exports-towards-suezmax-utilisation_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_c3fe4f2905d6.png)
+![Στιγμιότυπο Οθόνης 2025 05 16 130525](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-05-16_shift-in-cpc-crude-exports-towards-suezmax-utilisation_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_c3fe4f2905d6.png)
 
 > **Figure 6: Στιγμιότυπο Οθόνης 2025 05 16 130525**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-05-16_shift-in-cpc-crude-exports-towards-suezmax-utilisation_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_c3fe4f2905d6.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-05-16_shift-in-cpc-crude-exports-towards-suezmax-utilisation_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_c3fe4f2905d6.png)
 
 ​​​​​The upward pressure observed at the close of April continues to intensify in the second week of May for the VLCC and Suezmax, with a downward trend seen in the Aframax.
 
@@ -90,31 +90,31 @@ Crude oil tanker freight markets showed mixed sentiment. The Aframax Mediterrane
 - **Aframax Med**: The current number continues with a downward trend, still well below the annual benchmark of 10.
 - **Aframax Baltic:**The current number of ships is approximately 24, a decrease of nearly 8 vessels compared to the annual trend.
 
-![Στιγμιότυπο Οθόνης 2025 05 16 130534](assets/2025-05-16_shift-in-cpc-crude-exports-towards-suezmax-utilisation_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_6b41aa7e3ea0.png)
+![Στιγμιότυπο Οθόνης 2025 05 16 130534](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-05-16_shift-in-cpc-crude-exports-towards-suezmax-utilisation_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_6b41aa7e3ea0.png)
 
 > **Figure 7: Στιγμιότυπο Οθόνης 2025 05 16 130534**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-05-16_shift-in-cpc-crude-exports-towards-suezmax-utilisation_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_6b41aa7e3ea0.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-05-16_shift-in-cpc-crude-exports-towards-suezmax-utilisation_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_6b41aa7e3ea0.png)
 
-![Στιγμιότυπο Οθόνης 2025 05 16 130542](assets/2025-05-16_shift-in-cpc-crude-exports-towards-suezmax-utilisation_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_31b20ea75950.png)
+![Στιγμιότυπο Οθόνης 2025 05 16 130542](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-05-16_shift-in-cpc-crude-exports-towards-suezmax-utilisation_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_31b20ea75950.png)
 
 > **Figure 8: Στιγμιότυπο Οθόνης 2025 05 16 130542**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-05-16_shift-in-cpc-crude-exports-towards-suezmax-utilisation_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_31b20ea75950.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-05-16_shift-in-cpc-crude-exports-towards-suezmax-utilisation_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_31b20ea75950.png)
 
 - **Clean LR2 AG Jubail**: The number of vessels has increased in recent weeks, rising slightly above the annual average of 11 for the first time since the end of week 6.
 
 - **Clean MR**: Following a peak in week 18, Skikda, Algeria, has shown a downward trend, reaching 36 in the current week (week 20). This figure is four points higher than the annual average. In Amsterdam, MR2 vessel calls have exceeded the yearly average of 32 for the fourth consecutive week, demonstrating a sustained increase in vessel traffic throughout May.
 
-![Στιγμιότυπο Οθόνης 2025 05 16 130553](assets/2025-05-16_shift-in-cpc-crude-exports-towards-suezmax-utilisation_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_3fc05a05d582.png)
+![Στιγμιότυπο Οθόνης 2025 05 16 130553](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-05-16_shift-in-cpc-crude-exports-towards-suezmax-utilisation_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_3fc05a05d582.png)
 
 > **Figure 9: Στιγμιότυπο Οθόνης 2025 05 16 130553**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-05-16_shift-in-cpc-crude-exports-towards-suezmax-utilisation_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_3fc05a05d582.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-05-16_shift-in-cpc-crude-exports-towards-suezmax-utilisation_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_3fc05a05d582.png)
 
 - **Dirty**tonne days: VLCC tonne-day growth sharply declined in the second ten days of May. Aframax tonne days are also decreasing and are currently near the average trend. Suezmax tonne-day growth showed a slight recovery but remains below its week 18 peak.
 
-![Στιγμιότυπο Οθόνης 2025 05 16 130601](assets/2025-05-16_shift-in-cpc-crude-exports-towards-suezmax-utilisation_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_ec2561e4aa5a.png)
+![Στιγμιότυπο Οθόνης 2025 05 16 130601](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-05-16_shift-in-cpc-crude-exports-towards-suezmax-utilisation_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_ec2561e4aa5a.png)
 
 > **Figure 10: Στιγμιότυπο Οθόνης 2025 05 16 130601**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-05-16_shift-in-cpc-crude-exports-towards-suezmax-utilisation_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_ec2561e4aa5a.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-05-16_shift-in-cpc-crude-exports-towards-suezmax-utilisation_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_ec2561e4aa5a.png)
 
 - **Panamax**tonne days: The growth rate has consistently remained below the April-May weekly average for this year and appears to have stabilized at a lower trend towards the end of the month.
 

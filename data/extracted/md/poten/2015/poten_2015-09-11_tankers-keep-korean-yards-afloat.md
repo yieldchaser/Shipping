@@ -34,10 +34,18 @@ As a result of the strong US$, tanker newbuilding prices in Korean won have actu
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: Tankers Keep Korean Yards Afloat](../../../charts/poten/2015/poten_2015-09-11_tankers-keep-korean-yards-afloat_chart1.png)
+![Exhibit 1: Market Share of Tanker Newbuilding Orders (by DWT)](../../../charts/poten/2015/poten_2015-09-11_tankers-keep-korean-yards-afloat_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2015/poten_2015-09-11_tankers-keep-korean-yards-afloat_chart1.png)
+> **Exhibit 1: Market Share of Tanker Newbuilding Orders (by DWT)**  
+> Unit: % · X-axis: 2000 to 2015  
+> Series: Korea, China, Japan, Other  
+> *Source: Poten*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2015/poten_2015-09-11_tankers-keep-korean-yards-afloat_chart1.png)
 
-![Exhibit 2: Tankers Keep Korean Yards Afloat](../../../charts/poten/2015/poten_2015-09-11_tankers-keep-korean-yards-afloat_chart2.png)
+![Exhibit 2: Newbuilding Prices vs Steel Prices](../../../charts/poten/2015/poten_2015-09-11_tankers-keep-korean-yards-afloat_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2015/poten_2015-09-11_tankers-keep-korean-yards-afloat_chart2.png)
+> **Exhibit 2: Newbuilding Prices vs Steel Prices**  
+> Unit: $/ton | million USD; billion KRW · X-axis: Jan-10 to Jul-15  
+> Series: China Steel Plate Price, VLCC N.B. Price (million USD), VLCC N.B. Price (billion KRW)  
+> *Source: Bloomberg, Poten*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2015/poten_2015-09-11_tankers-keep-korean-yards-afloat_chart2.png)

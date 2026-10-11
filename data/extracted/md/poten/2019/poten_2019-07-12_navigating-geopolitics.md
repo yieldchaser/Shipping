@@ -30,10 +30,18 @@ Despite the OPEC production cuts on top of the production challenges facing Iran
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: Navigating Geopolitics](../../../charts/poten/2019/poten_2019-07-12_navigating-geopolitics_chart1.png)
+![Exhibit 1: Tanker Rates vs Oil Prices](../../../charts/poten/2019/poten_2019-07-12_navigating-geopolitics_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2019/poten_2019-07-12_navigating-geopolitics_chart1.png)
+> **Exhibit 1: Tanker Rates vs Oil Prices**  
+> Unit: $/bbl | TCE · X-axis: 1976 to 2018  
+> Series: Oil Price, VLCC TCE: AG-FE  
+> *Source: Poten & Partners*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2019/poten_2019-07-12_navigating-geopolitics_chart1.png)
 
-![Exhibit 2: Navigating Geopolitics](../../../charts/poten/2019/poten_2019-07-12_navigating-geopolitics_chart2.png)
+![Exhibit 2: Crude Oil Production of Selected Countries](../../../charts/poten/2019/poten_2019-07-12_navigating-geopolitics_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2019/poten_2019-07-12_navigating-geopolitics_chart2.png)
+> **Exhibit 2: Crude Oil Production of Selected Countries**  
+> Unit: Mb/d · X-axis: Jan-14 to Apr-19  
+> Series: Iran, Libya, Venezuela, Nigeria  
+> *Source: IEA*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2019/poten_2019-07-12_navigating-geopolitics_chart2.png)

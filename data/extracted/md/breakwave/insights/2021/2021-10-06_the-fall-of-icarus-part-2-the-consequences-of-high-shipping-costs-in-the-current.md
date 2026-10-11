@@ -31,7 +31,7 @@ In this environment, dry bulk shipping once again has demonstrated the extreme l
 
 > **Figure 1: Freight As a Percentage of Iron Ore Delivered Price (62% Io And**  
 > *Freight as a percentage of iron ore delivered price (62% IO and Brazil-China freight, Capesize)*  
-> **Interactive Data & Source:** [Asia Nikkei](https://asia.nikkei.com/Spotlight/Caixin/Cost-of-shipping-between-China-and-U.S.-plunges) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2021/assets/2021-10-06_the-fall-of-icarus-part-2-the-consequences-of-high-shipping-costs-in-the-current_img_coalandbci_137fdd246981.png)
+> **Interactive Data & Source:** [Asia Nikkei](https://asia.nikkei.com/Spotlight/Caixin/Cost-of-shipping-between-China-and-U.S.-plunges) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-10-06_the-fall-of-icarus-part-2-the-consequences-of-high-shipping-costs-in-the-current_img_coalandbci_137fdd246981.png)
 
 Our view remains that we**are at or close to an inflection point**and although spot Capesize rates always might have more room to rally, the risk of focusing on such incremental gains (especially given the diminishing nature of percentage gains) outweighs any return potential.
 
@@ -43,7 +43,7 @@ Then, there are the economics of trading: Freight transportation costs should no
 
 > **Figure 2: Capesize 2-Month Futures Minus Spot at Extremes…**  
 > *Capesize 2-month futures minus spot at extremes…*  
-> **Interactive Data & Source:** [Asia Nikkei](https://asia.nikkei.com/Spotlight/Caixin/Cost-of-shipping-between-China-and-U.S.-plunges) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2021/assets/2021-10-06_the-fall-of-icarus-part-2-the-consequences-of-high-shipping-costs-in-the-current_img_ioandc3_13f3e759918e.png)
+> **Interactive Data & Source:** [Asia Nikkei](https://asia.nikkei.com/Spotlight/Caixin/Cost-of-shipping-between-China-and-U.S.-plunges) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-10-06_the-fall-of-icarus-part-2-the-consequences-of-high-shipping-costs-in-the-current_img_ioandc3_13f3e759918e.png)
 
 The main reason for our cautious stance has to do with demand. Although we are very aware of the considerable bottlenecks around the world when it comes to shipping, demand rules, and any softening could lead to a major loss of confidence on the part of owners. In containers, such[a drop might already be underway,](https://asia.nikkei.com/Spotlight/Caixin/Cost-of-shipping-between-China-and-U.S.-plunges)with a sharp decline in freight costs in a very short period of time. For dry bulk, a similar scenario is not unthinkable, although the way the spot market operates, especially for Capesizes, makes it a less likely event.
 
@@ -60,7 +60,7 @@ Furthermore, as expected, spot rates will be much weaker in the first quarter of
 ![2m to BCI](assets/2021-10-06_the-fall-of-icarus-part-2-the-consequences-of-high-shipping-costs-in-the-current_img_2mtobci_5afae270f7dc.png)
 
 > **Figure 3: 2m to BCI**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2021/assets/2021-10-06_the-fall-of-icarus-part-2-the-consequences-of-high-shipping-costs-in-the-current_img_2mtobci_5afae270f7dc.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2021/assets/2021-10-06_the-fall-of-icarus-part-2-the-consequences-of-high-shipping-costs-in-the-current_img_2mtobci_5afae270f7dc.png)
 
 The backwardation in futures (meaning futures prices are lower than spot and the further out you go, the cheaper it becomes) is an opportunity, but not necessarily just because of relative pricing. As explained above, there is a valid reason why the first quarter of the year is currently priced at a ~70% discount to the spot market.
 

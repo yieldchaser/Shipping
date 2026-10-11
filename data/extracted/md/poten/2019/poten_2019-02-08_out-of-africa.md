@@ -34,10 +34,18 @@ The majority of the crude oil from Africa is low sulphur ("sweet") and this type
 
 ## Market Exhibits & Charts
 
-![Exhibit 1: Out Of Africa](../../../charts/poten/2019/poten_2019-02-08_out-of-africa_chart1.png)
+![Exhibit 1: West African Crude Oil Exports By Destination](../../../charts/poten/2019/poten_2019-02-08_out-of-africa_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2019/poten_2019-02-08_out-of-africa_chart1.png)
+> **Exhibit 1: West African Crude Oil Exports By Destination**  
+> Unit: Mb/d | % · X-axis: Jan-14 to Jan-19  
+> Series: Asia/Australia, Americas. Atlantic, UKC/Baltic, Mediterranean, Other, Suezmax %, VLCC %  
+> *Source: Lloyd’s List Intelligence*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2019/poten_2019-02-08_out-of-africa_chart1.png)
 
-![Exhibit 2: Out Of Africa](../../../charts/poten/2019/poten_2019-02-08_out-of-africa_chart2.png)
+![Exhibit 2: North African Crude Oil Exports By Destination](../../../charts/poten/2019/poten_2019-02-08_out-of-africa_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2019/poten_2019-02-08_out-of-africa_chart2.png)
+> **Exhibit 2: North African Crude Oil Exports By Destination**  
+> Unit: Mb/d | % · X-axis: Jan-14 to Jan-19  
+> Series: Asia/Australia, Americas. Atlantic, UKC/Baltic, Mediterranean, Other, Suezmax %, Aframax %  
+> *Source: Lloyd’s List Intelligence*  
+> [Chart image (200 DPI PNG)](../../../charts/poten/2019/poten_2019-02-08_out-of-africa_chart2.png)
