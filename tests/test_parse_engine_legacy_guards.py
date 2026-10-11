@@ -54,7 +54,8 @@ def test_legacy_gms_and_best_oasis_runners_refuse_to_run():
 def test_hellenic_demolition_runner_skips_best_oasis_and_gms_branches():
     """Its Best Oasis / GMS copies use other file names than the engine MDs, so without the guard it re-creates them."""
     text = (ROOT / "scripts/extract/publishers/run_hellenic_demolition.py").read_text(encoding="utf-8")
-    for branch in ('elif "best-oasis" in name_l or "best oasis" in title_l:', 'elif "gms" in name_l or "gms" in title_l:'):
+    for branch in ('if "athenian" in name_l or "athenian" in title_l:',
+                   'elif "best-oasis" in name_l or "best oasis" in title_l:', 'elif "gms" in name_l or "gms" in title_l:'):
         body = text.split(branch, 1)[1].strip("\r\n").splitlines()
         assert body[0].strip().startswith("if not ALLOW_LEGACY_DEMOLITION") and body[1].strip() == "continue"
 
@@ -62,9 +63,27 @@ def test_hellenic_demolition_runner_skips_best_oasis_and_gms_branches():
 def test_ingest_workflow_parses_gms_and_best_oasis_with_the_engine():
     wf = (ROOT / ".github/workflows/report_ingest.yml").read_text(encoding="utf-8")
     assert "run_hellenic_gms_demolition.py" not in wf
+    assert "run_hellenic_demolition.py" not in wf
+    assert "run_athenian_demolition.py --new-only" in wf
     for src in ("best_oasis", "gms"):
         assert f"parse_engine run --source {src} --new-only" in wf
         assert f"parse_engine promote --source {src} --new-only --apply" in wf
+
+
+def test_athenian_series_upsert_never_drops_rows(tmp_path):
+    import importlib.util
+    spec = importlib.util.spec_from_file_location("ra", ROOT / "scripts/extract/publishers/run_athenian_demolition.py")
+    ra = importlib.util.module_from_spec(spec)
+    spec.loader.exec_module(ra)
+    csv_path = tmp_path / "s.csv"
+    fields = ["issue_date", "price", "source_file"]
+    ra.upsert_csv(csv_path, fields, [{"issue_date": "2026-01-04", "price": "1", "source_file": "a.pdf"},
+                                     {"issue_date": "2026-01-11", "price": "2", "source_file": "b.pdf"}])
+    ra.upsert_csv(csv_path, fields, [{"issue_date": "2026-01-11", "price": "3", "source_file": "b.pdf"},
+                                     {"issue_date": "2026-01-18", "price": "4", "source_file": "c.pdf"}])
+    ra.upsert_csv(csv_path, fields, [])
+    assert csv_path.read_text(encoding="utf-8").splitlines() == [
+        "issue_date,price,source_file", "2026-01-04,1,a.pdf", "2026-01-11,3,b.pdf", "2026-01-18,4,c.pdf"]
 
 # ------------------------------------------------------------------------------------ B2: Baltic box
 def test_drop_region_anchors_match_case_insensitively():

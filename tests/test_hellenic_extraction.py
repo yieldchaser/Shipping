@@ -23,14 +23,17 @@ CLARKSONS_MD_DIR = ROOT / "data" / "extracted" / "md" / "clarksons"
 def test_hellenic_demolition_series_integrity():
     """Verify Hellenic Athenian, Best Oasis, and GMS demolition master series."""
     # 1. Athenian
-    athenian_csv = SERIES_DIR / "hellenic_athenian_demolition_series.csv"
+    # hellenic_athenian_demolition_series.csv was removed 2026-10-11 (82% of its rows had the price under the wrong
+    # country/sector); run_athenian_demolition.py's series is the canonical one.
+    athenian_csv = SERIES_DIR / "athenian_indicative_demolition_series.csv"
     assert athenian_csv.exists(), "Athenian series CSV missing"
     with open(athenian_csv, "r", encoding="utf-8") as f:
         rows = list(csv.DictReader(f))
-    # 2,916 after the 2026-10-01 content+filededup pass (3,300 -> 2,916); the old
-    # >= 3,000 floor predated the dedup (stale threshold fixed 2026-10-04).
-    assert len(rows) >= 2900, f"Expected >= 2,900 Athenian rows, found {len(rows)}"
+    assert len(rows) >= 3000, f"Expected >= 3,000 Athenian rows, found {len(rows)}"
     assert all(r["issue_date"] and r["country"] and r["price_usd_per_ldt"] for r in rows)
+    # Week 36 2026, read off the PDF: Bulker India $445, Turkey $271; Container Ship India $480
+    w36 = {(r["vessel_type"], r["country"]): float(r["price_usd_per_ldt"]) for r in rows if r["issue_date"] == "2026-09-06"}
+    assert (w36[("Bulker", "India")], w36[("Bulker", "Turkey")], w36[("Container Ship", "India")]) == (445, 271, 480)
 
     # 2. Best Oasis
     bo_csv = SERIES_DIR / "hellenic_best_oasis_demolition_series.csv"
@@ -223,7 +226,7 @@ def test_athenian_demolition_world_class_integrity():
     assert athenian_csv.exists(), "Athenian indicative demolition series CSV missing"
     with open(athenian_csv, "r", encoding="utf-8") as f:
         rows = list(csv.DictReader(f))
-    assert len(rows) == 3052, f"Expected 3,052 Athenian rows, found {len(rows)}"
+    assert len(rows) >= 3052, f"Expected >= 3,052 Athenian rows (new weeks append), found {len(rows)}"
     years = set(r["issue_date"][:4] for r in rows)
     assert {"2021", "2022", "2023", "2024", "2025", "2026"}.issubset(years)
 
@@ -245,11 +248,10 @@ def test_athenian_demolition_world_class_integrity():
     athenian_md_dir = ROOT / "data" / "extracted" / "md" / "hellenic" / "demolition" / "athenian"
     assert athenian_md_dir.exists(), "Athenian MD directory missing"
     md_files = list(athenian_md_dir.rglob("*.md"))
-    json_files = list(athenian_md_dir.rglob("*.tables.json"))
-    # Counts are the grown population (551 md / 551 sidecars, measured 2026-10-04);
-    # the old exact 257 assert was stale (the report set has since grown).
-    assert len(md_files) >= 550, f"Expected >= 550 Athenian markdown files, found {len(md_files)}"
-    assert len(json_files) >= 550, f"Expected >= 550 Athenian JSON sidecars, found {len(json_files)}"
+    # One Markdown per issue (258 at 2026-10-11). The 295 legacy athenian_* twins (prices under the wrong
+    # country/sector) were removed; the *.tables.json sidecars are gitignored, so they are not counted here.
+    assert len(md_files) >= 258, f"Expected >= 258 Athenian markdown files, found {len(md_files)}"
+    assert not [p for p in md_files if p.name.startswith("athenian_")], "legacy athenian_* duplicates are back"
 
 
 def test_best_oasis_demolition_integrity():

@@ -23,6 +23,11 @@ from collections import defaultdict
 from pathlib import Path
 from typing import Any, Dict, List, Optional, Tuple
 
+try:                                    # sibling module, same directory
+    import chart_series_incremental as inc
+except ImportError:                     # pragma: no cover - imported as a package
+    from scripts.extract.publishers import chart_series_incremental as inc
+
 ROOT = Path(__file__).resolve().parents[3]
 ISM_DIR = ROOT / "data" / "extracted" / "md" / "ism"
 OUT_COASTER_CSV = ROOT / "data" / "extracted" / "series" / "ism_coaster_freight_series.csv"
@@ -189,7 +194,59 @@ def unit_for(title: str, labels: List[str]) -> str:
     return "$/t"
 
 
-def main() -> None:
+SERIES_FIELDS = [
+    "date", "segment", "route_title", "series_name", "value", "unit",
+    "n_reports", "value_edge", "value_report", "min_value", "max_value", "value_sd"
+]
+
+
+def row_key(r) -> Tuple[str, str, str, str]:
+    return (str(r["segment"]), str(r["route_title"]), str(r["series_name"]), str(r["date"]))
+
+
+def upsert_ism_rows(existing, produced):
+    """Merge freshly stacked rows into the existing series. Returns (rows, added, settled).
+
+    Unseen keys are appended. A key already present is KEPT, with ONE exception that is
+    the engine's own rule (see pick_observation): an existing value flagged value_edge=1
+    is the newest point of its own issue, which is provisional (2024-W21 printed 17,035
+    for a week every later issue prints as 19,546). When a new issue carries that week as
+    an INTERIOR point (value_edge=0) it supersedes the provisional value. n_reports is
+    increased and min/max widened by the new reading; value_sd is left as it was because
+    it cannot be recomputed from the summary columns alone. Settling happens once: the
+    row is no longer an edge afterwards, so re-running the same sidecars changes nothing.
+    """
+    by_key = {row_key(r): i for i, r in enumerate(existing)}
+    merged = [dict(r) for r in existing]
+    added = settled = 0
+    for p in produced:
+        p = {c: "" if p.get(c) is None else str(p.get(c)) for c in SERIES_FIELDS}
+        k = row_key(p)
+        i = by_key.get(k)
+        if i is None:
+            by_key[k] = len(merged)
+            merged.append(p)
+            added += 1
+            continue
+        e = merged[i]
+        if e.get("value_edge") == "1" and p["value_edge"] == "0" and p["value_report"] != e.get("value_report"):
+            e["value"], e["value_edge"], e["value_report"] = p["value"], "0", p["value_report"]
+            e["unit"] = p["unit"] or e.get("unit", "")
+            e["n_reports"] = str(int(float(e["n_reports"] or 0)) + int(float(p["n_reports"] or 0)))
+            e["min_value"] = str(min(float(e["min_value"]), float(p["min_value"])))
+            e["max_value"] = str(max(float(e["max_value"]), float(p["max_value"])))
+            settled += 1
+    merged.sort(key=row_key)
+    return merged, added, settled
+
+
+def main(argv=()) -> None:
+    global ISM_DIR
+    new_only = "--new-only" in argv
+    newest = int(argv[argv.index("--newest") + 1]) if "--newest" in argv else None
+    if "--src" in argv:
+        ISM_DIR = Path(argv[argv.index("--src") + 1])
+    out_dir = Path(argv[argv.index("--out-dir") + 1]) if "--out-dir" in argv else None
     # md tier is organised by YEAR subdirectory (2023/, 2024/, ...); a non-recursive
     # glob silently finds 0 charts and rewrites both CSVs empty. Found 2026-09-30.
     # The extractor writes each sidecar to BOTH the flat dir and its year
@@ -204,6 +261,15 @@ def main() -> None:
             continue
         _seen.add(_h)
         chart_files.append(_f)
+    if newest:
+        def _rep(f):
+            try:
+                _d = json.loads(f.read_text(encoding="utf-8"))
+                _y, _w = parse_doc_meta(f, _d)
+                return (week_to_iso(_y, _w) or "", f.name)
+            except Exception:
+                return ("", f.name)
+        chart_files = sorted(chart_files, key=_rep)[-newest:]
     print(f"[ism] Processing {len(chart_files)} .charts.json files from {ISM_DIR}...")
 
     # (segment, route_title, series_label, iso_date) -> list of (value, report_iso, unit)
@@ -342,8 +408,20 @@ def main() -> None:
         "n_reports", "value_edge", "value_report", "min_value", "max_value", "value_sd"
     ]
 
-    # 1. Write Coaster series
     coaster_rows = build_rows(readings_coaster)
+    handy_rows = build_rows(readings_handy)
+
+    if new_only:
+        for path, rows in ((OUT_COASTER_CSV, coaster_rows), (OUT_HANDY_CSV, handy_rows)):
+            _, existing = inc.read_rows(path)
+            merged, added, settled = upsert_ism_rows(existing, rows)
+            dest = (out_dir / path.name) if out_dir else path
+            inc.write_rows(dest, SERIES_FIELDS, merged)
+            print(f"[ism] new-only {path.name}: {len(rows):,} keys produced, +{added} appended, "
+                  f"{settled} provisional edge value(s) settled -> {dest} ({len(merged):,} rows)")
+        return
+
+    # 1. Write Coaster series
     OUT_COASTER_CSV.parent.mkdir(parents=True, exist_ok=True)
     with open(OUT_COASTER_CSV, "w", newline="", encoding="utf-8") as f:
         writer = csv.DictWriter(f, fieldnames=fieldnames)
@@ -352,7 +430,6 @@ def main() -> None:
     print(f"[ism] Successfully wrote {len(coaster_rows):,} coaster rows -> {OUT_COASTER_CSV}")
 
     # 2. Write Handy series
-    handy_rows = build_rows(readings_handy)
     with open(OUT_HANDY_CSV, "w", newline="", encoding="utf-8") as f:
         writer = csv.DictWriter(f, fieldnames=fieldnames)
         writer.writeheader()
@@ -361,4 +438,5 @@ def main() -> None:
 
 
 if __name__ == "__main__":
-    main()
+    import sys
+    main(sys.argv[1:])

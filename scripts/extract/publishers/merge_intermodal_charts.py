@@ -38,9 +38,16 @@ from collections import defaultdict
 from datetime import date as _date
 from pathlib import Path
 
+try:                                    # sibling module, same directory
+    import chart_series_incremental as inc
+except ImportError:                     # pragma: no cover - imported as a package
+    from scripts.extract.publishers import chart_series_incremental as inc
+
 REPO = Path(__file__).resolve().parents[3]
 CHARTS = REPO / "data" / "extracted" / "charts" / "intermodal"
 OUT = REPO / "data" / "extracted" / "series"
+CSV_NAME = "intermodal_baltic_tc_series.csv"
+CSV_COLS = ["series", "date", "n_reports", "value", "min", "max", "value_sd"]
 
 # How close a calendar date must be for two readings to be the same week. The chart's
 # points are daily and two reports can straddle a week boundary, so a +/- 3 day window is
@@ -55,7 +62,71 @@ def parse(s):
         return None
 
 
-def main():
+def rows_from_readings(readings):
+    rows = []
+    for (nm, iso), vals in sorted(readings.items()):
+        xs = [v for v, _ in vals]
+        rows.append({
+            "series": nm, "date": iso, "n_reports": len(vals),
+            "value": round(statistics.median(xs), 1),
+            "min": round(min(xs), 1), "max": round(max(xs), 1),
+            "value_sd": round(statistics.pstdev(xs), 2) if len(xs) > 1 else 0.0,
+        })
+    return rows
+
+
+def row_key(r):
+    return (str(r["series"]), str(r["date"]))
+
+
+def readings_from_files(files):
+    """{(series, iso_date): [(value, source_file)]} from chart extraction files."""
+    readings = defaultdict(list)
+    for f in files:
+        d = json.loads(Path(f).read_text(encoding="utf-8"))
+        for c in d.get("charts", []):
+            for s in c.get("series", []):
+                nm = s.get("name")
+                if not nm:
+                    continue
+                for p in s.get("points", []):
+                    v = p.get("value")
+                    dt = parse(p.get("date"))
+                    if v is None or dt is None:
+                        continue
+                    readings[(nm, dt.isoformat())].append((v, d["file"]))
+    return readings
+
+
+def merge_new_only(charts_dir=None, out_dir=None):
+    """Upsert the chart files in `charts_dir` into the series CSV by (series, date).
+
+    Existing keys are kept untouched (history is never rewritten, including the earlier
+    cross-report median); unseen keys are appended. Idempotent.
+    """
+    charts_dir = Path(charts_dir or CHARTS)
+    out_dir = Path(out_dir or OUT)
+    files = sorted(charts_dir.glob("*.charts.json"))
+    if not files:
+        print("new-only: no chart extractions to merge")
+        return 0
+    _, existing = inc.read_rows(OUT / CSV_NAME)
+    produced = rows_from_readings(readings_from_files(files))
+    merged, added, kept = inc.upsert_new_keys(
+        existing, produced, row_key, CSV_COLS,
+        sort_key=lambda r: (str(r["series"]), str(r["date"])))
+    inc.write_rows(out_dir / CSV_NAME, CSV_COLS, merged)
+    print(f"new-only: {len(files)} report(s), {len(produced)} keys produced: "
+          f"+{added} appended, {kept} already present kept -> {out_dir / CSV_NAME} "
+          f"({len(merged)} rows)")
+    return 0
+
+
+def main(argv=()):
+    if "--new-only" in argv:
+        charts = Path(argv[argv.index("--charts-dir") + 1]) if "--charts-dir" in argv else CHARTS
+        out = Path(argv[argv.index("--out-dir") + 1]) if "--out-dir" in argv else OUT
+        return merge_new_only(charts, out)
     files = sorted(CHARTS.glob("*.charts.json"))
     if not files:
         print("no intermodal chart extractions found", file=sys.stderr)
@@ -149,18 +220,10 @@ def main():
                   f"{lo:10,.1f}..{hi:<10,.1f}  spread={r:.3f}")
 
     OUT.mkdir(parents=True, exist_ok=True)
-    rows = []
-    for (nm, iso), vals in sorted(readings.items()):
-        xs = [v for v, _ in vals]
-        rows.append({
-            "series": nm, "date": iso, "n_reports": len(vals),
-            "value": round(statistics.median(xs), 1),
-            "min": round(min(xs), 1), "max": round(max(xs), 1),
-            "value_sd": round(statistics.pstdev(xs), 2) if len(xs) > 1 else 0.0,
-        })
-    csv = OUT / "intermodal_baltic_tc_series.csv"
+    rows = rows_from_readings(readings)
+    csv = OUT / CSV_NAME
     with csv.open("w", encoding="utf-8", newline="") as fh:
-        cols = ["series", "date", "n_reports", "value", "min", "max", "value_sd"]
+        cols = CSV_COLS
         fh.write(",".join(cols) + "\n")
         for r in rows:
             fh.write(",".join(str(r[c]) for c in cols) + "\n")
@@ -170,4 +233,4 @@ def main():
 
 
 if __name__ == "__main__":
-    raise SystemExit(main())
+    raise SystemExit(main(sys.argv[1:]))

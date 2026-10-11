@@ -426,7 +426,7 @@ REGISTRY_DATA = [
         "total_files": 4152,
         "charts_extracted": "Yes (Port position queue charts, cash buyer price matrices)",
         "chart_engine": "BeautifulSoup HTML + PyMuPDF spatial coordinate table parser",
-        "series_csvs": "hellenic_athenian_demolition_series.csv (2,916 rows), hellenic_gms_port_positions_series.csv (2,921 rows), hellenic_gms_demolition_series.csv (1,096 rows), hellenic_best_oasis_deals_series.csv (892 rows), hellenic_best_oasis_demolition_series.csv (867 rows)",
+        "series_csvs": "athenian_indicative_demolition_series.csv (3,064 rows), hellenic_gms_port_positions_series.csv (2,921 rows), hellenic_gms_demolition_series.csv (1,096 rows), hellenic_best_oasis_deals_series.csv (892 rows), hellenic_best_oasis_demolition_series.csv (867 rows)",
         "primary_script": "run_hellenic_demolition.py & run_best_oasis_demolition.py & run_gms_demolition.py",
         "notes": "Distinguishes Athenian, Best Oasis, GMS cash buyer reports and port queue tables. Week 40 stacked."
     },
@@ -952,8 +952,8 @@ SUBSECTOR_DATA = [
         "count": "1,272 reports",
         "format": "HTML / PDF",
         "metrics": "Scrap indicative prices ($/LDT) for Bangladesh, India, Pakistan, Turkey",
-        "series_csv": "hellenic_athenian_demolition_series.csv",
-        "data_points": "2,916 rows",
+        "series_csv": "athenian_indicative_demolition_series.csv",
+        "data_points": "3,064 rows",
         "script": "run_athenian_demolition.py",
         "output_path": "data/extracted/md/hellenic/demolition/"
     },

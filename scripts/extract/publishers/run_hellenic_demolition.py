@@ -44,7 +44,9 @@ SERIES_DIR.mkdir(parents=True, exist_ok=True)
 
 
 # Best Oasis and GMS Markdown now come from the parse engine; this runner's copies of those issues use other file names,
-# so the existence checks below miss them and it re-created 215 duplicate best_oasis_* files. Athenian is still owned here.
+# so the existence checks below miss them and it re-created 215 duplicate best_oasis_* files.
+# Athenian Markdown + series now come from run_athenian_demolition.py --new-only: this runner's Athenian parser put the
+# prices under the wrong country/sector (82% of hellenic_athenian_demolition_series.csv rows, removed 2026-10-11).
 ALLOW_LEGACY_DEMOLITION = os.environ.get("ALLOW_LEGACY_DEMOLITION_EXTRACT") == "1"
 
 
@@ -391,6 +393,8 @@ def main():
         
         # 1. Athenian
         if "athenian" in name_l or "athenian" in title_l:
+            if not ALLOW_LEGACY_DEMOLITION:   # parsed by run_athenian_demolition.py --new-only
+                continue
             try:
                 md_dir = MD_BASE_DIR / "athenian" / year
                 md_file = md_dir / f"athenian_{issue_date}_{pdf_path.stem}.md"

@@ -95,11 +95,14 @@ def plan_file(pdf: Path, profile: dict[str, Any], engine_override: str | None = 
     # (market-data box, contacts/disclaimer) are removed: blank pages and contacts pages go, a last
     # page that mixes commentary with contacts stays (its contacts block is cut as a region)
     bp = (rule or {}).get("last_page_boilerplate_regex") if isinstance(rule, dict) else None
+    keep = (rule or {}).get("last_page_keep_regex") if isinstance(rule, dict) else None
     if bp:
         drops = profile.get("drop_regions")
 
         def trailing(p: int) -> bool:
             page = doc[p - 1]
+            if keep and re.search(keep, page.get_text()):   # a short data page that also carries the disclaimer
+                return False
             boxes = prose.drop_region_boxes(page, drops)
             content = sum(1 for w in page.get_text("words")
                           if not any(b[1] <= (w[1] + w[3]) / 2 <= b[3] for b in boxes))

@@ -146,8 +146,8 @@ jobs:
             python scripts/acquire/sync_hellenic_live.py || true
             run_by_year "scripts/hellenic_scraper.py" "--category $HELLENIC_CATEGORY" "true" || true
             python scripts/extract/publishers/run_smm_iron_ore_daily.py || true
-            # Athenian only: the Best Oasis / GMS branches of this runner and the GMS runners are disabled
-            python scripts/extract/publishers/run_hellenic_demolition.py || true
+            # Athenian: new issues only, appends series rows (the legacy hellenic demolition runner is disabled)
+            python scripts/extract/publishers/run_athenian_demolition.py --new-only || true
             # Best Oasis + GMS: parse and promote only NEW issues with the parse engine (never overwrites)
             python -m scripts.parse_engine run --source best_oasis --new-only || true
             python -m scripts.parse_engine.best_oasis_continuity || true

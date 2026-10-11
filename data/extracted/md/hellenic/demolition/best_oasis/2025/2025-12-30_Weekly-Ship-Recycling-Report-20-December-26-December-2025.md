@@ -9,9 +9,9 @@ year: 2025
 source_file: corpus/02-hellenic/demolition/pdfs/2025-12-30_Weekly-Ship-Recycling-Report-20-December-26-December-2025.pdf
 source_sha256: 8ce10af2da9cd5ddff83f7ecfe38257bfc65677606b6537d3ad7145c759da982
 pages_total: 4
-pages_parsed: 1-3
+pages_parsed: 1-4
 parser: pymupdf_table + best_oasis_template
-parsed_at: '2026-10-08T13:41:16Z'
+parsed_at: '2026-10-11T04:38:38Z'
 ---
 
 Reporting week: 20 DECEMBER - 26 DECEMBER 2025
@@ -76,3 +76,16 @@ Import and local pricing showed no fresh movement, reflecting continued inactivi
 | BANGLADESH | 358 | 358 | (0) |
 | PAKISTAN | 358 | 360 | (0) |
 | TURKEY | 362 | 380 | (0) |
+
+# SHIP RECYCLING
+
+| LOCATION | MARKET STATUS | CONTAINER (USD/LDT) | TANKER (USD/LDT) | BULKER (USD/LDT) | W-O-W CHANGE (%) |
+|---|---|---|---|---|---|
+| INDIA | FIRM | 400 | 385 | 370 | (0) |
+| BANGLADESH | SOFT | 420 | 410 | 375 | (2.43) |
+| PAKISTAN | SOFT | 415 | 400 | 390 | (0) |
+| TURKEY | SOFT | 290 | 280 | 270 | (0) |
+
+# LIST OF VESSELS SOLD THIS WEEK
+
+No sales reported for this week.

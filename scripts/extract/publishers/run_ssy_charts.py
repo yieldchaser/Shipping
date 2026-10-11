@@ -50,6 +50,7 @@ main() reports the population. That is a per-document ground truth, not a sample
 
 from __future__ import annotations
 
+import datetime as dt
 import json
 import re
 import sys
@@ -57,9 +58,20 @@ from pathlib import Path
 
 import pymupdf
 
+try:                                    # sibling module, same directory
+    import chart_series_incremental as inc
+except ImportError:                     # pragma: no cover - imported as a package
+    from scripts.extract.publishers import chart_series_incremental as inc
+
 REPO = Path(__file__).resolve().parents[3]
-SRC = REPO / "corpus" / "01-brokers" / "ssy"
+SRC = inc.corpus_base(REPO) / "corpus" / "01-brokers" / "ssy"
 OUT = REPO / "data" / "extracted" / "charts" / "ssy"
+SERIES_CSV = REPO / "data" / "extracted" / "series" / "ssy_capesize_index_series.csv"
+
+# New-only mode re-reads reports this many days before the last point already in the
+# series: the plotted line trails the report date, and the upsert is idempotent, so a
+# generous overlap costs nothing and cannot lose a week.
+NEW_ONLY_OVERLAP_DAYS = 14
 
 MONTH_ABBR = ("JAN", "FEB", "MAR", "APR", "MAY", "JUN",
               "JUL", "AUG", "SEP", "OCT", "NOV", "DEC")
@@ -730,15 +742,74 @@ def extract(pdf_path):
         doc.close()
 
 
+def series_cutoff(series_csv=None, overlap_days=NEW_ONLY_OVERLAP_DAYS):
+    """ISO date before which a report is already represented in the series CSV.
+
+    Per route, the latest (year, month, bucket) key approximates the last plotted week
+    (bucket*4 is the day of month). The cutoff is the EARLIEST of the per-route maxima
+    less `overlap_days`, so a route that lags the other is never skipped. None when the
+    CSV is absent or empty (then everything is new).
+    """
+    _, rows = inc.read_rows(series_csv or SERIES_CSV)
+    last = {}
+    for r in rows:
+        try:
+            mi = MONTH_ABBR.index(r["month"].upper()) + 1
+            d = dt.date(int(r["year"]), mi, max(1, min(28, int(r["bucket"]) * 4)))
+        except (KeyError, ValueError):
+            continue
+        if d > last.get(r["route"], dt.date.min):
+            last[r["route"]] = d
+    if not last:
+        return None
+    return (min(last.values()) - dt.timedelta(days=overlap_days)).isoformat()
+
+
+def select_new(pdfs, cutoff, newest=None):
+    """Keep reports dated on/after `cutoff` (undated reports are kept), newest `newest`."""
+    import hashlib
+    dated, seen = [], set()
+    for p in pdfs:
+        h = hashlib.md5(Path(p).read_bytes()).hexdigest()
+        if h in seen:                       # byte-identical re-drop of the same issue
+            continue
+        seen.add(h)
+        try:
+            doc = pymupdf.open(p)
+            try:
+                d = page_date(doc[0])
+            finally:
+                doc.close()
+        except Exception:                                 # noqa: BLE001
+            d = None
+        dated.append((d, p))
+    if cutoff:
+        dated = [(d, p) for d, p in dated if d is None or d >= cutoff]
+    if newest:
+        dated = sorted(((d or "", p) for d, p in dated))[-newest:]
+    return [p for _, p in dated]
+
+
 def main(argv):
-    only = limit = None
+    global SRC, OUT
+    only = limit = newest = None
     if "--only" in argv:
         only = argv[argv.index("--only") + 1]
     if "--limit" in argv:
         limit = int(argv[argv.index("--limit") + 1])
+    if "--newest" in argv:
+        newest = int(argv[argv.index("--newest") + 1])
+    if "--src" in argv:
+        SRC = Path(argv[argv.index("--src") + 1])
+    if "--out-dir" in argv:
+        OUT = Path(argv[argv.index("--out-dir") + 1])
     pdfs = sorted(SRC.glob("*/*.pdf"))
     if only:
         pdfs = [p for p in pdfs if only in p.name]
+    if "--new-only" in argv or newest:
+        cutoff = series_cutoff() if "--new-only" in argv else None
+        pdfs = select_new(pdfs, cutoff, newest)
+        print(f"[new-only] cutoff={cutoff} selected={len(pdfs)} report(s)", flush=True)
     if limit:
         pdfs = pdfs[:limit]
     OUT.mkdir(parents=True, exist_ok=True)

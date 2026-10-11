@@ -20,6 +20,9 @@ pages:
   drop_last: 1
   drop_first: 0
   last_page_boilerplate_regex: '(?i)(contact us|disclaimer)'
+  # A "No sales reported" week leaves the 4-page template's tables page under 60 words next to its disclaimer;
+  # the price table must still be kept (2025-12-30, 2026-05-05 lost it).
+  last_page_keep_regex: '(?i)list of vessels sold'
 
 engine_plan:
   - match: {}

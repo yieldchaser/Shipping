@@ -9,9 +9,9 @@ year: 2026
 source_file: corpus/02-hellenic/demolition/pdfs/2026-05-05_best-oasis-weekly-recycling-market-report-1-may-2026_weekly-ship-recycling-report-25-apri_69af36cf75f1.pdf
 source_sha256: 0d8fd126398333d20e1c5f9ac8322f073646208d06ef809d583af57b96598517
 pages_total: 4
-pages_parsed: 1-3
+pages_parsed: 1-4
 parser: pymupdf_table + best_oasis_template
-parsed_at: '2026-10-08T13:41:35Z'
+parsed_at: '2026-10-11T04:38:42Z'
 ---
 
 Reporting week: 25 APRIL - 01 MAY 2026
@@ -76,3 +76,16 @@ Yards with available capacity may still demonstrate stronger interest and adopt 
 | BANGLADESH | 415 | 430 | (0) |
 | PAKISTAN | 415 | 430 | (0) |
 | TURKEY | 410 | 430 | (+ 1.20) |
+
+# SHIP RECYCLING
+
+| LOCATION | MARKET STATUS | CONTAINER (USD/LDT) | TANKER (USD/LDT) | BULKER (USD/LDT) | W-O-W CHANGE (%) |
+|---|---|---|---|---|---|
+| INDIA | FIRM | 430 | 415 | 400 | (0) |
+| BANGLADESH | FIRM | 470 | 460 | 435 | (0) |
+| PAKISTAN | FIRM | 465 | 460 | 445 | (0) |
+| TURKEY | SOFT | 290 | 280 | 270 | (0) |
+
+# LIST OF VESSELS SOLD THIS WEEK
+
+No vessel sale to report this week.

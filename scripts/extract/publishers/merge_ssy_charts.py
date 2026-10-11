@@ -37,9 +37,19 @@ import sys
 from collections import defaultdict
 from pathlib import Path
 
+try:                                    # sibling module, same directory
+    import chart_series_incremental as inc
+except ImportError:                     # pragma: no cover - imported as a package
+    from scripts.extract.publishers import chart_series_incremental as inc
+
 REPO = Path(__file__).resolve().parents[3]
 CHARTS = REPO / "data" / "extracted" / "charts" / "ssy"
 OUT = REPO / "data" / "extracted" / "series"
+CSV_NAME = "ssy_capesize_index_series.csv"
+TIME_SERIES_NAME = "ssy_capesize_index_time_series.csv"
+CSV_COLS = ["route", "base", "year", "month", "bucket", "n_reports",
+            "value", "min", "max", "value_sd"]
+REBASE_TOLERANCE = 0.02
 MONTHS = ("JAN", "FEB", "MAR", "APR", "MAY", "JUN",
           "JUL", "AUG", "SEP", "OCT", "NOV", "DEC")
 BUCKET_DAYS = 4
@@ -78,7 +88,171 @@ def key_for(point, series_year, route):
     return (route, y, mon, day // BUCKET_DAYS)
 
 
-def main():
+def collect_readings(docs, base_id_of_doc):
+    """(readings, series_meta, unkeyed) from chart documents and their base ids."""
+    readings = defaultdict(list)          # key -> [(value, source_file)]
+    series_meta = {}
+    unkeyed = 0
+    for f, d in docs:
+        rid = d["file"]
+        route = d.get("route")
+        bid = base_id_of_doc[rid]
+        for s in d["series"]:
+            yr = s.get("year")
+            sid = f"{bid} {yr}" if yr else f"{bid} unlabelled"
+            series_meta.setdefault(sid, {"n_docs": 0, "n_points": 0, "colour": s.get("colour")})
+            series_meta[sid]["n_docs"] += 1
+            for p in s["points"]:
+                v = p.get("index_value")
+                if v is None:
+                    continue
+                k = key_for(p, yr, route)
+                if k is None:
+                    unkeyed += 1
+                    continue
+                readings[(bid,) + k].append((v, rid))
+                series_meta[sid]["n_points"] += 1
+    return readings, series_meta, unkeyed
+
+
+def rows_from_readings(readings):
+    rows = []
+    for (_bid, route, y, mon, b), vals in sorted(readings.items()):
+        xs = [v for v, _ in vals]
+        rows.append({
+            "route": route, "base": _bid, "year": y, "month": mon, "bucket": b,
+            "n_reports": len(vals),
+            "value": round(statistics.median(xs), 1),
+            "min": round(min(xs), 1), "max": round(max(xs), 1),
+            "value_sd": round(statistics.pstdev(xs), 2) if len(xs) > 1 else 0.0,
+        })
+    return rows
+
+
+def row_key(r):
+    return (str(r["base"]), str(r["route"]), str(r["year"]), str(r["month"]), str(r["bucket"]))
+
+
+def row_sort_key(r):
+    return (str(r["base"]), str(r["route"]), int(r["year"]), str(r["month"]), int(r["bucket"]))
+
+
+def dedupe_docs(docs):
+    """Drop re-drops of one issue (same route, report date, printed index and change).
+
+    The same weekly PDF is routinely collected twice under different filenames; chained as
+    two reports it looks like a rebasing (its previous value is not its own current one).
+    """
+    seen, out = set(), []
+    for f, d in docs:
+        chk = d.get("check") or {}
+        k = (d.get("route"), d.get("report_date"), chk.get("printed_calculated_index"),
+             chk.get("change_on_previous"), chk.get("series_last"))
+        if k in seen:
+            continue
+        seen.add(k)
+        out.append((f, d))
+    return out
+
+
+def incremental_bases(docs, existing_rows, ts_rows):
+    """Base id per new document, continuing the chain already on disk.
+
+    Same rule as the full merge (previous = current - change_on_previous, a >2% mismatch
+    with the prior printed index is a rebasing), but the starting point is the LAST base
+    number in the existing series and the prior printed index comes from the existing
+    time-series CSV rather than from older chart files that are not present in CI.
+    Time-series rows that came from the new documents themselves are ignored, so a
+    report is never chained to itself.
+
+    UNITS: the extractor's `printed_calculated_index` is the PREVIOUS-week column of the
+    report's index table (measured: it equals `calculated_index_prev` of the time-series
+    CSV for all 510 documents on disk, never `calculated_index_curr`), and its
+    change_on_previous belongs to that same column. The chain is internally consistent in
+    those terms, so the baseline taken from the time-series CSV must be the PREV column.
+    """
+    last_base = {}
+    for r in existing_rows:
+        m = re.fullmatch(r"(.+)-b(\d+)", r["base"])
+        if m:
+            last_base[r["route"]] = max(last_base.get(r["route"], 0), int(m.group(2)))
+    new_files = {d["file"] for _, d in docs}
+    prior = defaultdict(list)             # ROUTE -> [(issue_date, printed index)]
+    for r in ts_rows:
+        if r.get("source_file") in new_files:
+            continue
+        try:
+            prior[r["basin"].upper()].append((r["issue_date"], float(r["calculated_index_prev"])))
+        except (KeyError, ValueError):
+            continue
+    by_route = defaultdict(list)
+    for f, d in docs:
+        by_route[d.get("route")].append((d.get("report_date") or d["file"], d))
+    base_id_of_doc = {}
+    for route, items in by_route.items():
+        items.sort(key=lambda t: t[0])
+        bid = last_base.get(route, 0)
+        first_date = items[0][0]
+        before = sorted(x for x in prior.get(route, []) if x[0] < first_date)
+        prev_reported = before[-1][1] if before else None
+        for _date, d in items:
+            chk = d.get("check") or {}
+            cur = chk.get("printed_calculated_index")
+            chg = _num(chk.get("change_on_previous"))
+            if cur is not None:
+                if prev_reported is not None and chg is not None:
+                    if abs((cur - chg) - prev_reported) / max(abs(prev_reported), 1) > REBASE_TOLERANCE:
+                        bid += 1
+                prev_reported = cur
+            base_id_of_doc[d["file"]] = f"{route}-b{bid}"
+    return base_id_of_doc
+
+
+def merge_new_only(charts_dir=None, out_dir=None):
+    """Upsert the readings of the chart files in `charts_dir` into the series CSV.
+
+    Never rewrites history: keys already in the CSV are kept as they are, unseen keys are
+    appended. `charts_dir` holds only the NEW reports' extractions (run_ssy_charts
+    --new-only --out-dir), so no cross-report median can be recomputed here - and none is
+    needed, because existing keys are not touched.
+    """
+    charts_dir = Path(charts_dir or CHARTS)
+    out_dir = Path(out_dir or OUT)
+    files = sorted(charts_dir.glob("*.charts.json"))
+    if not files:
+        print("new-only: no chart extractions to merge")
+        return 0
+    docs = dedupe_docs([(f, json.loads(f.read_text(encoding="utf-8"))) for f in files])
+    csv_path = OUT / CSV_NAME
+    _, existing = inc.read_rows(csv_path)
+    _, ts_rows = inc.read_rows(OUT / TIME_SERIES_NAME)
+    base_of = incremental_bases(docs, existing, ts_rows)
+    readings, _meta, unkeyed = collect_readings(docs, base_of)
+    produced = rows_from_readings(readings)
+    merged, added, kept = inc.upsert_new_keys(existing, produced, row_key, CSV_COLS, row_sort_key)
+    inc.write_rows(out_dir / CSV_NAME, CSV_COLS, merged)
+    print(f"new-only: {len(files)} report(s), {len(produced)} keys produced "
+          f"({unkeyed} unkeyable): +{added} appended, {kept} already present kept "
+          f"-> {out_dir / CSV_NAME} ({len(merged)} rows)")
+    return 0
+
+
+def _num(s):
+    """Signed number from the extractor's float/None/str forms."""
+    if s is None or isinstance(s, (int, float)):
+        return None if s is None else float(s)
+    m = re.fullmatch(r"([+\-]?)([\d,]+)(?:\.(\d+))?", str(s).strip())
+    if not m:
+        return None
+    v = float(m.group(2).replace(",", "") + ("." + m.group(3) if m.group(3) else ""))
+    return -v if m.group(1) == "-" else v
+
+
+def main(argv=()):
+    if "--new-only" in argv:
+        charts = Path(argv[argv.index("--charts-dir") + 1]) if "--charts-dir" in argv else CHARTS
+        out = Path(argv[argv.index("--out-dir") + 1]) if "--out-dir" in argv else OUT
+        return merge_new_only(charts, out)
     files = sorted(CHARTS.glob("*.charts.json"))
     if not files:
         print("no chart extractions found", file=sys.stderr)
@@ -150,25 +324,7 @@ def main():
         cnt = sum(1 for v in base_id_of_doc.values() if v.startswith(f"{route}-"))
         print(f"  {route:<9} {n_bases[route]} base(s) across {cnt} documents")
 
-    for f, d in docs:
-        rid = d["file"]
-        route = d.get("route")
-        bid = base_id_of_doc[rid]
-        for s in d["series"]:
-            yr = s.get("year")
-            sid = f"{bid} {yr}" if yr else f"{bid} unlabelled"
-            series_meta.setdefault(sid, {"n_docs": 0, "n_points": 0, "colour": s.get("colour")})
-            series_meta[sid]["n_docs"] += 1
-            for p in s["points"]:
-                v = p.get("index_value")
-                if v is None:
-                    continue
-                k = key_for(p, yr, route)
-                if k is None:
-                    unkeyed += 1
-                    continue
-                readings[(bid,) + k].append((v, rid))
-                series_meta[sid]["n_points"] += 1
+    readings, series_meta, unkeyed = collect_readings(docs, base_id_of_doc)
 
     print(f"source files      : {len(files)}")
     print(f"distinct series   : {len(series_meta)}")
@@ -207,27 +363,16 @@ def main():
 
     # ---- write the long-format series
     OUT.mkdir(parents=True, exist_ok=True)
-    rows = []
-    for (_bid, route, y, mon, b), vals in sorted(readings.items()):
-        xs = [v for v, _ in vals]
-        rows.append({
-            "route": route, "base": _bid, "year": y, "month": mon, "bucket": b,
-            "n_reports": len(vals),
-            "value": round(statistics.median(xs), 1),
-            "min": round(min(xs), 1), "max": round(max(xs), 1),
-            "value_sd": round(statistics.pstdev(xs), 2) if len(xs) > 1 else 0.0,
-        })
-    csv = OUT / "ssy_capesize_index_series.csv"
+    rows = rows_from_readings(readings)
+    csv = OUT / CSV_NAME
     with csv.open("w", encoding="utf-8", newline="") as fh:
-        cols = ["route", "base", "year", "month", "bucket", "n_reports",
-                "value", "min", "max", "value_sd"]
-        fh.write(",".join(cols) + "\n")
+        fh.write(",".join(CSV_COLS) + "\n")
         for r in rows:
-            fh.write(",".join(str(r[c]) for c in cols) + "\n")
+            fh.write(",".join(str(r[c]) for c in CSV_COLS) + "\n")
     print()
     print(f"wrote {len(rows)} rows -> {csv}")
     return 0
 
 
 if __name__ == "__main__":
-    raise SystemExit(main())
+    raise SystemExit(main(sys.argv[1:]))

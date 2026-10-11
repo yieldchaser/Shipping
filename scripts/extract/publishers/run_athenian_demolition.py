@@ -429,7 +429,47 @@ def generate_markdown(meta: Dict[str, Any], source_file: str) -> str:
     return "\n".join(md)
 
 
+def existing_plain_mds() -> Tuple[set, set]:
+    """Stems and issue dates of the Markdown this runner already wrote (athenian_* legacy files excluded)."""
+    stems, dates = set(), set()
+    for md in MD_BASE_DIR.rglob("*.md"):
+        if md.name.startswith("athenian_"):
+            continue
+        stems.add(md.stem)
+        m = re.search(r'^issue_date:\s*"?(\d{4}-\d{2}-\d{2})', md.read_text(encoding="utf-8", errors="replace")[:600], re.M)
+        if m:
+            dates.add(m.group(1))
+    return stems, dates
+
+
+def upsert_csv(path: Path, fieldnames: List[str], rows: List[Dict[str, Any]]) -> None:
+    """Replace the rows of the source files in `rows`, keep every other row (never truncate).
+
+    CI only holds the newly downloaded PDFs, so a full rewrite from this run's rows would wipe the history.
+    """
+    if not rows:
+        print(f"No new rows for {path.name}")
+        return
+    new_sources = {r["source_file"] for r in rows}
+    kept = []
+    if path.exists():
+        with open(path, newline="", encoding="utf-8") as f:
+            kept = [r for r in csv.DictReader(f) if r["source_file"] not in new_sources]
+    with open(path, "w", newline="", encoding="utf-8") as f:
+        writer = csv.DictWriter(f, fieldnames=fieldnames, lineterminator="\n")
+        writer.writeheader()
+        writer.writerows(kept)
+        writer.writerows(rows)
+    print(f"Upserted {len(rows)} rows into {path.name} (total {len(kept) + len(rows)})")
+
+
 def main():
+    import argparse
+    ap = argparse.ArgumentParser()
+    ap.add_argument("--new-only", action="store_true",
+                    help="skip PDFs whose file or issue date already has a Markdown (CI mode; never rewrites existing files)")
+    new_only = ap.parse_args().new_only
+
     print("=" * 70)
     print("Athenian Shipbrokers Demolition Quick Updates - 100% Dynamic Extraction")
     print("=" * 70)
@@ -449,6 +489,8 @@ def main():
 
     success_count = 0
     fail_count = 0
+    skipped_count = 0
+    done_stems, done_dates = existing_plain_mds() if new_only else (set(), set())
 
     for idx, (pdf_path, file_hash) in enumerate(unique_files, 1):
         fname = pdf_path.name
@@ -456,6 +498,9 @@ def main():
         file_year = m_yr.group(1) if m_yr else "unknown"
         m_date = re.match(r"^(\d{4}-\d{2}-\d{2})", fname)
         file_date = m_date.group(1) if m_date else f"{file_year}-01-01"
+        if pdf_path.stem in done_stems:
+            skipped_count += 1
+            continue
 
         try:
             doc = pymupdf.open(pdf_path)
@@ -477,6 +522,10 @@ def main():
             date_range = meta["date_range"]
             weekly_trend = meta["weekly_trend"]
             actual_year = issue_date[:4]
+            if issue_date in done_dates:   # same issue already parsed from a differently named copy
+                skipped_count += 1
+                continue
+            done_dates.add(issue_date)
 
             # Output paths
             year_md_dir = MD_BASE_DIR / actual_year
@@ -560,54 +609,23 @@ def main():
             fail_count += 1
 
     print("\n" + "=" * 70)
-    print(f"Dynamic Extraction Completed: {success_count} succeeded, {fail_count} failed")
+    print(f"Dynamic Extraction Completed: {success_count} succeeded, {fail_count} failed, {skipped_count} skipped (already parsed)")
     print("=" * 70)
 
-    # Write Master Series CSVs
-    # 1. Indicative Demolition Prices
-    csv_indicative = SERIES_DIR / "athenian_indicative_demolition_series.csv"
-    with open(csv_indicative, "w", newline="", encoding="utf-8") as f:
-        fieldnames = ["issue_date", "report_week", "date_range", "weekly_trend", "vessel_type", "country", "price_usd_per_ldt", "source_file"]
-        writer = csv.DictWriter(f, fieldnames=fieldnames)
-        writer.writeheader()
-        writer.writerows(all_indicative_rows)
-    print(f"Wrote {len(all_indicative_rows)} rows to {csv_indicative.name}")
+    # Write Master Series CSVs (upsert by source_file)
+    upsert_csv(SERIES_DIR / "athenian_indicative_demolition_series.csv",
+               ["issue_date", "report_week", "date_range", "weekly_trend", "vessel_type", "country", "price_usd_per_ldt", "source_file"],
+               all_indicative_rows)
 
-    # DO NOT write data/extracted/series/hellenic_athenian_demolition_series.csv here.
-    # That file is owned by run_hellenic_demolition.py, which dedups by filename AND
-    # (sha256, issue_date, publisher_branch). This runner has no such dedup: on
-    # 2026-10-03 a run of this script overwrote the canonical deduped 2,916-row file
-    # with its own 3,052-row (136 duplicate rows) "legacy mirror" variant, regressing
-    # the series and drifting it from the register. Removed; the canonical producer
-    # keeps the file current. See docs/athenian_verify_verdict.md.
+    # DO NOT write data/extracted/series/hellenic_athenian_demolition_series.csv here (removed 2026-10-11: the
+    # legacy run_hellenic_demolition.py Athenian parser put prices under the wrong country/sector in 82% of its rows).
 
-    # 2. Yearly Demolition Volume
-    csv_volume = SERIES_DIR / "athenian_yearly_demolition_volume_series.csv"
-    with open(csv_volume, "w", newline="", encoding="utf-8") as f:
-        fieldnames = ["issue_date", "report_week", "year", "demolition_mio_dwt", "source_file"]
-        writer = csv.DictWriter(f, fieldnames=fieldnames)
-        writer.writeheader()
-        writer.writerows(all_volume_rows)
-    print(f"Wrote {len(all_volume_rows)} rows to {csv_volume.name}")
-
-    # 3. Historical Demolition Prices Benchmark (only rows derived from text)
-    csv_hist = SERIES_DIR / "athenian_historical_demolition_prices_series.csv"
-    with open(csv_hist, "w", newline="", encoding="utf-8") as f:
-        fieldnames = ["issue_date", "report_week", "year", "sector", "price_usd_per_ldt", "source_file"]
-        writer = csv.DictWriter(f, fieldnames=fieldnames)
-        writer.writeheader()
-        writer.writerows(all_historical_rows)
-    print(f"Wrote {len(all_historical_rows)} rows to {csv_hist.name}")
-
-    # 4. Market Commentary
-    csv_comm = SERIES_DIR / "athenian_market_commentary_series.csv"
-    with open(csv_comm, "w", newline="", encoding="utf-8") as f:
-        fieldnames = ["issue_date", "report_week", "date_range", "section", "commentary", "source_file"]
-        writer = csv.DictWriter(f, fieldnames=fieldnames)
-        writer.writeheader()
-        writer.writerows(all_commentary_rows)
-    print(f"Wrote {len(all_commentary_rows)} rows to {csv_comm.name}")
-
+    upsert_csv(SERIES_DIR / "athenian_yearly_demolition_volume_series.csv",
+               ["issue_date", "report_week", "year", "demolition_mio_dwt", "source_file"], all_volume_rows)
+    upsert_csv(SERIES_DIR / "athenian_historical_demolition_prices_series.csv",
+               ["issue_date", "report_week", "year", "sector", "price_usd_per_ldt", "source_file"], all_historical_rows)
+    upsert_csv(SERIES_DIR / "athenian_market_commentary_series.csv",
+               ["issue_date", "report_week", "date_range", "section", "commentary", "source_file"], all_commentary_rows)
 
 if __name__ == "__main__":
     main()

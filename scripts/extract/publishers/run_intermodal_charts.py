@@ -63,9 +63,19 @@ except ImportError:                     # pragma: no cover - direct execution
     axdates = _ilu.module_from_spec(_spec)
     _spec.loader.exec_module(axdates)
 
+try:                                    # sibling module, same directory
+    import chart_series_incremental as inc
+except ImportError:                     # pragma: no cover - imported as a package
+    from scripts.extract.publishers import chart_series_incremental as inc
+
 REPO = Path(__file__).resolve().parents[3]
-SRC = REPO / "corpus" / "01-brokers" / "intermodal"
+SRC = inc.corpus_base(REPO) / "corpus" / "01-brokers" / "intermodal"
 OUT = REPO / "data" / "extracted" / "charts" / "intermodal"
+SERIES_CSV = REPO / "data" / "extracted" / "series" / "intermodal_baltic_tc_series.csv"
+
+# New-only mode re-reads reports dated this many days before the last point already in
+# the series. The chart's last point trails the report date and the upsert is idempotent.
+NEW_ONLY_OVERLAP_DAYS = 21
 
 CHART_PAGES = (2,)              # 0-based: page 3 carries both charts
 MIN_ITEMS = 500                 # real series >= 2,844 on this material
@@ -843,7 +853,14 @@ def report_date_of(pdf_path):
     table header; this is the filename-derived equivalent used for the axis window. Both
     are recorded, so a disagreement between them is visible rather than silent.
     """
-    m = re.search(r"(20\d{2})[_-]W(\d{2})", Path(pdf_path).name)
+    name = Path(pdf_path).name
+    m = re.search(r"(20\d{2})[_-]W(\d{2})", name)
+    if not m:
+        # the 2026-09+ collection route names files
+        # intermodal_<dd>_<mm>_<yyyy>_intermodal_weekly_market_report_week_38_2026_...
+        # (no 'W38'); without this fallback those reports got no date, hence no axis.
+        w = re.search(r"week[_-](\d{1,2})[_-](20\d{2})", name, re.I)
+        m = re.match(r"(\d{4})(\d{1,2})$", w.group(2) + w.group(1)) if w else None
     if not m:
         return None
     import datetime as _dt
@@ -974,16 +991,53 @@ def extract(pdf_path):
         doc.close()
 
 
+def series_cutoff(series_csv=None, overlap_days=NEW_ONLY_OVERLAP_DAYS):
+    """ISO date before which a report is already represented in the series CSV."""
+    import datetime as _dt
+    _, rows = inc.read_rows(series_csv or SERIES_CSV)
+    last = max((r["date"] for r in rows if r.get("date")), default=None)
+    if not last:
+        return None
+    return (_dt.date.fromisoformat(last) - _dt.timedelta(days=overlap_days)).isoformat()
+
+
+def select_new(pdfs, cutoff, newest=None):
+    """Reports dated on/after `cutoff` (undated kept), byte-duplicates dropped, newest N."""
+    import hashlib
+    dated, seen = [], set()
+    for p in pdfs:
+        h = hashlib.md5(Path(p).read_bytes()).hexdigest()
+        if h in seen:                       # same issue collected twice under two names
+            continue
+        seen.add(h)
+        dated.append((report_date_of(p), p))
+    if cutoff:
+        dated = [(d, p) for d, p in dated if d is None or d >= cutoff]
+    if newest:
+        dated = sorted(((d or "", p) for d, p in dated), key=lambda t: (t[0], t[1].name))[-newest:]
+    return [p for _, p in dated]
+
+
 def main(argv):
+    global SRC, OUT
     only = None
     if "--only" in argv:
         only = argv[argv.index("--only") + 1]
     limit = None
     if "--limit" in argv:
         limit = int(argv[argv.index("--limit") + 1])
+    newest = int(argv[argv.index("--newest") + 1]) if "--newest" in argv else None
+    if "--src" in argv:
+        SRC = Path(argv[argv.index("--src") + 1])
+    if "--out-dir" in argv:
+        OUT = Path(argv[argv.index("--out-dir") + 1])
     pdfs = sorted(SRC.glob("*/*.pdf"))
     if only:
         pdfs = [p for p in pdfs if only in p.name]
+    if "--new-only" in argv or newest:
+        cutoff = series_cutoff() if "--new-only" in argv else None
+        pdfs = select_new(pdfs, cutoff, newest)
+        print(f"[new-only] cutoff={cutoff} selected={len(pdfs)} report(s)", flush=True)
     if limit:
         pdfs = pdfs[:limit]
     OUT.mkdir(parents=True, exist_ok=True)

@@ -57,6 +57,9 @@ jobs:
           python scripts/build_views.py || true
           python scripts/extract_demolition_pdfs.py || true
           python scripts/extract/orchestrate_incremental_ingest.py || true
+          python scripts/extract/publishers/run_ssy_charts.py --new-only --out-dir "$RUNNER_TEMP/ssy_charts" || true
+          python scripts/extract/publishers/merge_ssy_charts.py --new-only --charts-dir "$RUNNER_TEMP/ssy_charts" || true
+          python scripts/extract/publishers/run_ism_series.py --new-only || true
           python scripts/extract/sync_digests.py || true
           # TODO: quality gate script does not exist yet
           python scripts/verify/build_corpus_inventory.py --merge-existing || true

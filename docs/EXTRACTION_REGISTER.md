@@ -29,7 +29,7 @@ This register is the authoritative single source of truth for the end-to-end ext
 
 ---
 
-## 2. Master Stacked Series Inventory (631,707 Total Rows across 177 CSVs + 1 Master Workbook)
+## 2. Master Stacked Series Inventory (628,726 Total Rows across 174 CSVs + 1 Master Workbook)
 
 | Series CSV | Target Metric / Commodity / Segment | Total Stacked Rows | Status |
 | :--- | :--- | :---: | :---: |
@@ -43,9 +43,9 @@ This register is the authoritative single source of truth for the end-to-end ext
 | [affinity_tce_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/affinity_tce_series.csv) | Baltic TCE Dirty & Clean route earnings ($/day) | 4,058 | Verified |
 | [agora_indicators_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/agora_indicators_series.csv) | Commodities, FX, Bonds, Stocks, Bunkers | 10,002 | Verified |
 | [athenian_historical_demolition_prices_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/athenian_historical_demolition_prices_series.csv) |  | 240 | Verified |
-| [athenian_indicative_demolition_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/athenian_indicative_demolition_series.csv) |  | 3,052 | Verified |
+| [athenian_indicative_demolition_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/athenian_indicative_demolition_series.csv) |  | 3,064 | Verified |
 | [athenian_market_commentary_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/athenian_market_commentary_series.csv) |  | 6 | Verified |
-| [athenian_yearly_demolition_volume_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/athenian_yearly_demolition_volume_series.csv) |  | 4,026 | Verified |
+| [athenian_yearly_demolition_volume_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/athenian_yearly_demolition_volume_series.csv) |  | 4,042 | Verified |
 | [baltic_ncfi_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/baltic_ncfi_series.csv) |  | 2,049 | Verified |
 | [baltic_reports_metadata.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/baltic_reports_metadata.csv) |  | 2,234 | Verified |
 | [bancosta_commodities_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/bancosta_commodities_series.csv) | Energy, metals, agricultural benchmarks | 8,582 | Verified |
@@ -58,9 +58,9 @@ This register is the authoritative single source of truth for the end-to-end ext
 | [bancosta_sales_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/bancosta_sales_series.csv) | Secondhand sales transactions with 7-digit IMOs | 3,264 | Verified |
 | [bancosta_secondhand_matrix_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/bancosta_secondhand_matrix_series.csv) | Baltic secondhand price assessment matrix ($/m) | 1,898 | Verified |
 | [bancosta_vhss_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/bancosta_vhss_series.csv) | VHSS Containership ConTex index & timecharter rates | 553 | Verified |
-| [best_oasis_deals_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/best_oasis_deals_series.csv) |  | 892 | Verified |
-| [best_oasis_demolition_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/best_oasis_demolition_series.csv) |  | 867 | Verified |
-| [best_oasis_exchange_rates_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/best_oasis_exchange_rates_series.csv) |  | 167 | Verified |
+| [best_oasis_deals_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/best_oasis_deals_series.csv) |  | 905 | Verified |
+| [best_oasis_demolition_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/best_oasis_demolition_series.csv) |  | 866 | Verified |
+| [best_oasis_exchange_rates_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/best_oasis_exchange_rates_series.csv) |  | 170 | Verified |
 | [best_oasis_market_commentary_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/best_oasis_market_commentary_series.csv) |  | 1,031 | Verified |
 | [breakwave_fundamentals_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/breakwave_fundamentals_series.csv) |  | 2,755 | Verified |
 | [breakwave_insights_metadata.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/breakwave_insights_metadata.csv) |  | 3,216 | Verified |
@@ -105,18 +105,17 @@ This register is the authoritative single source of truth for the end-to-end ext
 | [fearnleys_rates_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/fearnleys_rates_series.csv) | Tanker spot, dry bulk, gas, & 1Y T/C rates ($/day, WS) | 17,112 | Verified |
 | [gibson_bunker_prices_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/gibson_bunker_prices_series.csv) |  | 1,023 | Verified |
 | [gibson_tanker_spot_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/gibson_tanker_spot_series.csv) |  | 3,630 | Verified |
-| [gms_demolition_rankings_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/gms_demolition_rankings_series.csv) |  | 1,096 | Verified |
-| [gms_demolition_sales_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/gms_demolition_sales_series.csv) |  | 59 | Verified |
+| [gms_demolition_rankings_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/gms_demolition_rankings_series.csv) |  | 1,104 | Verified |
+| [gms_demolition_sales_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/gms_demolition_sales_series.csv) |  | 161 | Verified |
 | [gms_market_commentary_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/gms_market_commentary_series.csv) |  | 1,262 | Verified |
-| [gms_port_positions_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/gms_port_positions_series.csv) |  | 2,921 | Verified |
+| [gms_port_positions_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/gms_port_positions_series.csv) |  | 3,014 | Verified |
 | [hellenic_alibra_dry_tc_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/hellenic_alibra_dry_tc_series.csv) |  | 6,467 | Verified |
 | [hellenic_alibra_tanker_tc_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/hellenic_alibra_tanker_tc_series.csv) |  | 7,205 | Verified |
-| [hellenic_athenian_demolition_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/hellenic_athenian_demolition_series.csv) |  | 2,916 | Verified |
-| [hellenic_best_oasis_deals_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/hellenic_best_oasis_deals_series.csv) |  | 892 | Verified |
-| [hellenic_best_oasis_demolition_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/hellenic_best_oasis_demolition_series.csv) |  | 867 | Verified |
+| [hellenic_best_oasis_deals_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/hellenic_best_oasis_deals_series.csv) |  | 905 | Verified |
+| [hellenic_best_oasis_demolition_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/hellenic_best_oasis_demolition_series.csv) |  | 866 | Verified |
 | [hellenic_capesize_c3_c5_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/hellenic_capesize_c3_c5_series.csv) | Daily Capesize iron ore freight rates C3 & C5 ($/t) | 1,164 | Verified |
-| [hellenic_gms_demolition_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/hellenic_gms_demolition_series.csv) |  | 1,096 | Verified |
-| [hellenic_gms_port_positions_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/hellenic_gms_port_positions_series.csv) |  | 2,921 | Verified |
+| [hellenic_gms_demolition_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/hellenic_gms_demolition_series.csv) |  | 1,104 | Verified |
+| [hellenic_gms_port_positions_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/hellenic_gms_port_positions_series.csv) |  | 3,014 | Verified |
 | [hellenic_iron_ore_commentary_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/hellenic_iron_ore_commentary_series.csv) |  | 1,179 | Verified |
 | [hellenic_iron_ore_daily_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/hellenic_iron_ore_daily_series.csv) | Daily iron ore spot, futures (DCE, SGX), steel benchmarks | 1,175 | Verified |
 | [hellenic_iron_ore_pdf_averages_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/hellenic_iron_ore_pdf_averages_series.csv) | MMi Daily Iron Ore weekly/monthly brand price averages & historical benchmarks | 11,562 | Verified |
@@ -139,8 +138,8 @@ This register is the authoritative single source of truth for the end-to-end ext
 | [hellenic_iron_ore_table_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/hellenic_iron_ore_table_series.csv) |  | 5,614 | Verified |
 | [hellenic_smm_market_drivers_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/hellenic_smm_market_drivers_series.csv) |  | 18 | Verified |
 | [hellenic_vv_benchmark_sales_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/hellenic_vv_benchmark_sales_series.csv) |  | 124 | Verified |
-| [hellenic_vv_matrix_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/hellenic_vv_matrix_series.csv) |  | 12,350 | Verified |
-| [hellenic_vv_sales_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/hellenic_vv_sales_series.csv) |  | 2,030 | Verified |
+| [hellenic_vv_matrix_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/hellenic_vv_matrix_series.csv) |  | 12,373 | Verified |
+| [hellenic_vv_sales_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/hellenic_vv_sales_series.csv) |  | 2,067 | Verified |
 | [intermodal_baltic_indices_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/intermodal_baltic_indices_series.csv) | Baltic Dry indices (BDI, BCI, BPI, BSI, BHSI) | 1,255 | Verified |
 | [intermodal_baltic_tc_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/intermodal_baltic_tc_series.csv) | Baltic dry & tanker time charter vector curves | 20,348 | Verified |
 | [intermodal_bunkers_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/intermodal_bunkers_series.csv) | Bunker prices across Rotterdam, Houston, Singapore ($/t) | 2,287 | Verified |
@@ -184,7 +183,7 @@ This register is the authoritative single source of truth for the end-to-end ext
 | [signal_reports_metadata.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/signal_reports_metadata.csv) |  | 449 | Verified |
 | [signal_vessel_counts_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/signal_vessel_counts_series.csv) | Signal Ocean weekly commercial vessel counts and deployment monitors | 120 | Verified |
 | [singletons_sales_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/singletons_sales_series.csv) | Week 38 singleton secondhand sales & demolition fixtures | 46 | Verified |
-| [ssy_capesize_index_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/ssy_capesize_index_series.csv) | SSY Capesize Index, spot routes, 1Y T/C | 8,729 | Verified |
+| [ssy_capesize_index_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/ssy_capesize_index_series.csv) | SSY Capesize Index, spot routes, 1Y T/C | 8,731 | Verified |
 | [ssy_capesize_index_time_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/ssy_capesize_index_time_series.csv) | SSY Capesize Index, historical changes, and T/C day rates | 517 | Verified |
 | [ssy_capesize_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/ssy_capesize_series.csv) | SSY Capesize Index vector calibration curves | 8,881 | Verified |
 | [ssy_route_rates_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/ssy_route_rates_series.csv) | SSY assessed route freight rates ($/t) across Atlantic & Pacific | 5,170 | Verified |
@@ -199,9 +198,7 @@ This register is the authoritative single source of truth for the end-to-end ext
 | [star_asia_snp_sales_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/star_asia_snp_sales_series.csv) | Secondhand sales transactions ($M) | 3,575 | Verified |
 | [star_asia_valuation_matrix_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/star_asia_valuation_matrix_series.csv) | Dry, tanker, container secondhand matrices ($M) | 3,232 | Verified |
 | [xclusiv_baltic_indices_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/xclusiv_baltic_indices_series.csv) | Xclusiv Baltic Indices historical structured dataset | 1,015 | Verified |
-| [xclusiv_bulk_carrier_charts_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/xclusiv_bulk_carrier_charts_series.csv) | Bulker freight & vessel earnings vector chart curves | 208 | Verified |
 | [xclusiv_demo_sales_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/xclusiv_demo_sales_series.csv) | Reported demolition scrap sales fixtures ($/LDT) | 606 | Verified |
-| [xclusiv_demolition_charts_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/xclusiv_demolition_charts_series.csv) | Subcontinent demolition scrap rate vector curves ($/LDT) | 278 | Verified |
 | [xclusiv_demolition_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/xclusiv_demolition_series.csv) | Indicative demolition prices ($/LDT) | 2,090 | Verified |
 | [xclusiv_freight_benchmarks_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/xclusiv_freight_benchmarks_series.csv) | Freight spot earnings & 1Y TC benchmarks ($/day) | 238 | Verified |
 | [xclusiv_macro_bunkers_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/xclusiv_macro_bunkers_series.csv) | Macro commodity prices & bunker spreads ($/t) | 643 | Verified |
@@ -213,7 +210,7 @@ This register is the authoritative single source of truth for the end-to-end ext
 | [corpus_publication_cadence_and_audit.xlsx](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/corpus_publication_cadence_and_audit.xlsx) | Master econometric workbook (6 sheets: Overview, Recurring Catalog, Coal Spread, Macro Lead, Vessel Tightness, Shipment Volume Growth) | 305 | Verified |
 | [fearnleys_md_master_econometric_series.xlsx](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/fearnleys_md_master_econometric_series.xlsx) | Master econometric workbook (6 sheets: Overview, Recurring Catalog, Coal Spread, Macro Lead, Vessel Tightness, Shipment Volume Growth) | 305 | Verified |
 | [gibson_master_tanker_series.xlsx](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/gibson_master_tanker_series.xlsx) | Master econometric workbook (6 sheets: Overview, Recurring Catalog, Coal Spread, Macro Lead, Vessel Tightness, Shipment Volume Growth) | 305 | Verified |
-| **TOTAL** | **Master Stacked Repository Footprint (177 CSVs + 1 Master Workbook)** | **631,707** | **100.0% Pass** |
+| **TOTAL** | **Master Stacked Repository Footprint (174 CSVs + 1 Master Workbook)** | **628,726** | **100.0% Pass** |
 
 ---
 
