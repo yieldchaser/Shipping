@@ -6,14 +6,9 @@ and well-formatted for the DeepSeek GraphRAG build, plus end-to-end ingest autom
 
 ## RESUME HERE (2026-10-12 ~03:00 IST)
 
-- **PENDING at compaction (03:20)**: Dec 2023 ingest is UNCOMMITTED in this worktree. Steps: validator
-  (`.reparse_staging/validate.log`, started 03:14) must PASS -> `git add -A` the Dec 2023 MD/sidecar/mirror, series,
-  dayrates, offshore_summary, catalog, register, vector script, this doc, plus `git add -f
-  corpus/05-seabrokers/pdfs/2023-12-01_markedsrapport-desember-2023.pdf` (PDFs are gitignored, tracked with -f) ->
-  secret scan -> commit -> merge origin/main -> push main + branch -> verify. The web-page print
-  `2023-12-01_market-report-december-2023.pdf` is `git rm`-staged (owner said delete; also deleted in the main checkout).
+- **Dec 2023 ingest DONE**: validator PASS, pushed 44ae062ad4 (main + branch).
 
-- **Main = branch = `b01c55cc34`** (work commit `fa3064de6b`: Star Asia 526 pages, Seabrokers charts/figures/mirror,
+- **Main = branch = `44ae062ad4`** (Dec 2023 ingest; earlier work commit `fa3064de6b`: Star Asia 526 pages, Seabrokers charts/figures/mirror,
   Intermodal demolition headers). Validator PASS. Working tree clean (only gitignored `.reparse_staging/`).
 - **Per-source state**: Intermodal, Star Asia, Seabrokers, Clarksons, Carriers, Advanced, Xclusiv, VV, GMS/Best Oasis,
   Athenian done to date. ISM: vector engine (not a defect). Agora: ignore (keep what exists).
