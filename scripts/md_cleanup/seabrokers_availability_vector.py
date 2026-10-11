@@ -141,8 +141,12 @@ def update_sidecar(md: Path, header: list[str], rows: list[list[str]]) -> None:
             t["row_count"] = len(rows)
             t["value_source"] = "vector_chart_read"
             hit = True
-    if not hit:
-        return
+    if not hit:                             # the section was empty: add the table
+        j.setdefault("tables", []).append({"title": "DAILY NORTH SEA OSV AVAILABILITY", "columns": header,
+                                           "row_count": len(rows), "rows": [dict(zip(header, r)) for r in rows],
+                                           "value_source": "vector_chart_read"})
+        if "tables_count" in j:
+            j["tables_count"] = len(j["tables"])
     out = json.dumps(j, ensure_ascii=True, indent=2)
     if "\r\n" in raw:
         out = out.replace("\n", "\r\n")
@@ -168,6 +172,9 @@ def main() -> int:
             nxt = next((l for l in lines[i + 1:] if l.strip() and not re.match(r"^(Legend:|- (PSV|AHTS) \d{4}\s*$)", l)), "")
             return nxt.startswith("|") or nxt.startswith("> **Read from") or bool(re.match(r"^(PSV|AHTS)[^:]{0,12}:", nxt))
         idx = next((i for i, l in enumerate(lines) if HEAD.match(l) and holds_data(i)), None)
+        if idx is None:                     # an empty section (heading followed by the next heading): fill it
+            idx = next((i for i, l in enumerate(lines) if HEAD.match(l) and
+                        next((m for m in lines[i + 1:] if m.strip()), "#").startswith("#")), None)
         if idx is None:
             continue
         pdf = R.source_pdf(raw)

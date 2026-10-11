@@ -3,7 +3,7 @@
     "source": "Seabrokers Chartering (Seabreeze Market Intelligence)",
     "updated": "2026-09-01",
     "latest_month": "Market Report September 2026",
-    "total_monthly_records": 375,
+    "total_monthly_records": 379,
     "total_reports": 98,
     "currency": "GBP (\u00a3)",
     "coverage": "May 2018 \u2013 August 2026 (97 Months Continuous)"
@@ -625,6 +625,16 @@
           "prev_year_dayrate": 14665.0,
           "yoy_change_pct": 63.0,
           "utilization_pct": 54.0
+        },
+        {
+          "date": "2023-12-01",
+          "label": "Dec 2023",
+          "avg_dayrate": 27544.0,
+          "min_dayrate": 12500.0,
+          "max_dayrate": 80000.0,
+          "prev_year_dayrate": 14567.0,
+          "yoy_change_pct": 89.08,
+          "utilization_pct": 57.0
         },
         {
           "date": "2024-01-01",
@@ -1586,6 +1596,16 @@
           "utilization_pct": 38.0
         },
         {
+          "date": "2023-12-01",
+          "label": "Dec 2023",
+          "avg_dayrate": 15690.0,
+          "min_dayrate": 6725.0,
+          "max_dayrate": 26222.0,
+          "prev_year_dayrate": 14735.0,
+          "yoy_change_pct": 6.48,
+          "utilization_pct": 33.0
+        },
+        {
           "date": "2024-01-01",
           "label": "Jan 2024",
           "avg_dayrate": 21777.0,
@@ -2545,6 +2565,16 @@
           "utilization_pct": 78.0
         },
         {
+          "date": "2023-12-01",
+          "label": "Dec 2023",
+          "avg_dayrate": 11986.0,
+          "min_dayrate": 7000.0,
+          "max_dayrate": 18730.0,
+          "prev_year_dayrate": 6793.0,
+          "yoy_change_pct": 76.45,
+          "utilization_pct": 52.0
+        },
+        {
           "date": "2024-01-01",
           "label": "Jan 2024",
           "avg_dayrate": 11365.0,
@@ -3502,6 +3532,16 @@
           "prev_year_dayrate": 6181.0,
           "yoy_change_pct": 219.07,
           "utilization_pct": 72.0
+        },
+        {
+          "date": "2023-12-01",
+          "label": "Dec 2023",
+          "avg_dayrate": 13819.0,
+          "min_dayrate": 8000.0,
+          "max_dayrate": 18000.0,
+          "prev_year_dayrate": 5915.0,
+          "yoy_change_pct": 133.63,
+          "utilization_pct": 64.0
         },
         {
           "date": "2024-01-01",
@@ -4455,6 +4495,16 @@
           "utilization_pct": 54.0
         },
         {
+          "date": "2023-12-01",
+          "label": "Dec 2023",
+          "avg_dayrate": 27544.0,
+          "min_dayrate": 12500.0,
+          "max_dayrate": 80000.0,
+          "prev_year_dayrate": 14567.0,
+          "yoy_change_pct": 89.08,
+          "utilization_pct": 57.0
+        },
+        {
           "date": "2024-01-01",
           "label": "Jan 2024",
           "avg_dayrate": 27593.0,
@@ -5412,6 +5462,16 @@
           "prev_year_dayrate": 13257.0,
           "yoy_change_pct": 39.59,
           "utilization_pct": 38.0
+        },
+        {
+          "date": "2023-12-01",
+          "label": "Dec 2023",
+          "avg_dayrate": 15690.0,
+          "min_dayrate": 6725.0,
+          "max_dayrate": 26222.0,
+          "prev_year_dayrate": 14735.0,
+          "yoy_change_pct": 6.48,
+          "utilization_pct": 33.0
         },
         {
           "date": "2024-01-01",
@@ -6373,6 +6433,16 @@
           "utilization_pct": 78.0
         },
         {
+          "date": "2023-12-01",
+          "label": "Dec 2023",
+          "avg_dayrate": 11986.0,
+          "min_dayrate": 7000.0,
+          "max_dayrate": 18730.0,
+          "prev_year_dayrate": 6793.0,
+          "yoy_change_pct": 76.45,
+          "utilization_pct": 52.0
+        },
+        {
           "date": "2024-01-01",
           "label": "Jan 2024",
           "avg_dayrate": 11365.0,
@@ -7330,6 +7400,16 @@
           "prev_year_dayrate": 6181.0,
           "yoy_change_pct": 219.07,
           "utilization_pct": 72.0
+        },
+        {
+          "date": "2023-12-01",
+          "label": "Dec 2023",
+          "avg_dayrate": 13819.0,
+          "min_dayrate": 8000.0,
+          "max_dayrate": 18000.0,
+          "prev_year_dayrate": 5915.0,
+          "yoy_change_pct": 133.63,
+          "utilization_pct": 64.0
         },
         {
           "date": "2024-01-01",
@@ -11196,6 +11276,62 @@
       "utilization_pct": 65.0
     },
     {
+      "date": "2023-12-01",
+      "label": "Dec 2023",
+      "category_key": "med_psv",
+      "category_name": "Medium PSV (<900 m\u00b2)",
+      "short_name": "Med PSV",
+      "type": "PSV",
+      "avg_dayrate": 13819.0,
+      "min_dayrate": 8000.0,
+      "max_dayrate": 18000.0,
+      "prev_year_dayrate": 5915.0,
+      "yoy_change_pct": 133.63,
+      "utilization_pct": 64.0
+    },
+    {
+      "date": "2023-12-01",
+      "label": "Dec 2023",
+      "category_key": "med_ahts",
+      "category_name": "Medium AHTS (<22,000 BHP)",
+      "short_name": "Med AHTS",
+      "type": "AHTS",
+      "avg_dayrate": 15690.0,
+      "min_dayrate": 6725.0,
+      "max_dayrate": 26222.0,
+      "prev_year_dayrate": 14735.0,
+      "yoy_change_pct": 6.48,
+      "utilization_pct": 33.0
+    },
+    {
+      "date": "2023-12-01",
+      "label": "Dec 2023",
+      "category_key": "large_psv",
+      "category_name": "Large PSV (>900 m\u00b2)",
+      "short_name": "Large PSV",
+      "type": "PSV",
+      "avg_dayrate": 11986.0,
+      "min_dayrate": 7000.0,
+      "max_dayrate": 18730.0,
+      "prev_year_dayrate": 6793.0,
+      "yoy_change_pct": 76.45,
+      "utilization_pct": 52.0
+    },
+    {
+      "date": "2023-12-01",
+      "label": "Dec 2023",
+      "category_key": "large_ahts",
+      "category_name": "Large AHTS (>22,000 BHP)",
+      "short_name": "Large AHTS",
+      "type": "AHTS",
+      "avg_dayrate": 27544.0,
+      "min_dayrate": 12500.0,
+      "max_dayrate": 80000.0,
+      "prev_year_dayrate": 14567.0,
+      "yoy_change_pct": 89.08,
+      "utilization_pct": 57.0
+    },
+    {
       "date": "2023-11-01",
       "label": "Nov 2023",
       "category_key": "med_psv",
@@ -15035,9 +15171,11 @@
       "year": 2023,
       "month": 12,
       "card_url": "https://seabrokers.no/chartering/en/seabreeze/market-report-december-2023/",
-      "pdf_url": null,
-      "file_size_bytes": 0,
-      "file_size_mb": 0.0
+      "pdf_url": "https://seabrokers.no/chartering/wp-content/uploads/sites/8/2024/01/SEABREEZE_December.pdf",
+      "file_size_bytes": 346400,
+      "file_size_mb": 0.33,
+      "md_path": "data/extracted/md/seabrokers/2023/2023-12-01_markedsrapport-desember-2023.md",
+      "tables_path": "data/extracted/md/seabrokers/2023/2023-12-01_markedsrapport-desember-2023.tables.json"
     },
     {
       "title": "Market Report November/December 2023",

@@ -502,12 +502,12 @@
     "month": 12,
     "card_url": "https://seabrokers.no/chartering/en/seabreeze/market-report-december-2023/",
     "thumbnail": "https://seabrokers.no/chartering/wp-content/uploads/sites/8/2024/01/Front-page.jpeg",
-    "pdf_url": null,
-    "file_size_bytes": 0,
-    "status_code": null,
-    "pages": 0,
-    "downloaded": false,
-    "digested": false
+    "pdf_url": "https://seabrokers.no/chartering/wp-content/uploads/sites/8/2024/01/SEABREEZE_December.pdf",
+    "file_size_bytes": 346400,
+    "status_code": 200,
+    "pages": 4,
+    "downloaded": true,
+    "digested": true
   },
   {
     "title": "Market Report November/December 2023",

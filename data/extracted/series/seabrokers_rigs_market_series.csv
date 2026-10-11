@@ -4752,6 +4752,21 @@ JU; status=WARM STACK",seabrokers,14.0
 2023-11-01,2023,11,rigs_inactive,Northwest Europe,,inactive_rig,1.0,,count,2023-11,rig=VALARIS STAVANGER; type=JU; status=WARM STACK,seabrokers,14.0
 2023-11-01,2023,11,rigs_inactive,Northwest Europe,,inactive_rig,1.0,,count,2023-11,rig=VALARIS VIKING; type=JU; status=COLD STACK,seabrokers,14.0
 2023-11-01,2023,11,rigs_inactive,Northwest Europe,,inactive_rig,1.0,,count,2023-11,rig=WEST AQUARIUS; type=SS; status=COLD STACK,seabrokers,14.0
+2023-12-01,2023,12,rig_utilisation,North Sea,,rig_utilisation,60.9,,percent,2019-12,consecutive-year same-month comparison grid,seabrokers,3.0
+2023-12-01,2023,12,rig_utilisation,South America,,rig_utilisation,48.9,,percent,2019-12,consecutive-year same-month comparison grid,seabrokers,3.0
+2023-12-01,2023,12,rig_utilisation,Us Gulf,,rig_utilisation,49.6,,percent,2019-12,consecutive-year same-month comparison grid,seabrokers,3.0
+2023-12-01,2023,12,rig_utilisation,North Sea,,rig_utilisation,48.7,,percent,2020-12,consecutive-year same-month comparison grid,seabrokers,3.0
+2023-12-01,2023,12,rig_utilisation,South America,,rig_utilisation,59.5,,percent,2020-12,consecutive-year same-month comparison grid,seabrokers,3.0
+2023-12-01,2023,12,rig_utilisation,Us Gulf,,rig_utilisation,42.5,,percent,2020-12,consecutive-year same-month comparison grid,seabrokers,3.0
+2023-12-01,2023,12,rig_utilisation,North Sea,,rig_utilisation,65.0,,percent,2021-12,consecutive-year same-month comparison grid,seabrokers,3.0
+2023-12-01,2023,12,rig_utilisation,South America,,rig_utilisation,66.2,,percent,2021-12,consecutive-year same-month comparison grid,seabrokers,3.0
+2023-12-01,2023,12,rig_utilisation,Us Gulf,,rig_utilisation,52.4,,percent,2021-12,consecutive-year same-month comparison grid,seabrokers,3.0
+2023-12-01,2023,12,rig_utilisation,North Sea,,rig_utilisation,67.7,,percent,2022-12,consecutive-year same-month comparison grid,seabrokers,3.0
+2023-12-01,2023,12,rig_utilisation,South America,,rig_utilisation,77.4,,percent,2022-12,consecutive-year same-month comparison grid,seabrokers,3.0
+2023-12-01,2023,12,rig_utilisation,Us Gulf,,rig_utilisation,59.2,,percent,2022-12,consecutive-year same-month comparison grid,seabrokers,3.0
+2023-12-01,2023,12,rig_utilisation,North Sea,,rig_utilisation,73.7,,percent,2023-12,consecutive-year same-month comparison grid,seabrokers,3.0
+2023-12-01,2023,12,rig_utilisation,South America,,rig_utilisation,78.7,,percent,2023-12,consecutive-year same-month comparison grid,seabrokers,3.0
+2023-12-01,2023,12,rig_utilisation,Us Gulf,,rig_utilisation,53.3,,percent,2023-12,consecutive-year same-month comparison grid,seabrokers,3.0
 2024-01-01,2024,1,rigs_inactive,Northwest Europe,,inactive_rig,1.0,,count,2024-01,"rig=500-DAY DEAL FOR DOLPHIN; type=NOBLE INTERCEPTOR; status=JU
 WARM STACK",seabrokers,13.0
 2024-01-01,2024,1,rigs_inactive,Northwest Europe,,inactive_rig,1.0,,count,2024-01,"rig=with the Deepsea Nordkapp for two additional 

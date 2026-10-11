@@ -6,6 +6,13 @@ and well-formatted for the DeepSeek GraphRAG build, plus end-to-end ingest autom
 
 ## RESUME HERE (2026-10-12 ~03:00 IST)
 
+- **PENDING at compaction (03:20)**: Dec 2023 ingest is UNCOMMITTED in this worktree. Steps: validator
+  (`.reparse_staging/validate.log`, started 03:14) must PASS -> `git add -A` the Dec 2023 MD/sidecar/mirror, series,
+  dayrates, offshore_summary, catalog, register, vector script, this doc, plus `git add -f
+  corpus/05-seabrokers/pdfs/2023-12-01_markedsrapport-desember-2023.pdf` (PDFs are gitignored, tracked with -f) ->
+  secret scan -> commit -> merge origin/main -> push main + branch -> verify. The web-page print
+  `2023-12-01_market-report-december-2023.pdf` is `git rm`-staged (owner said delete; also deleted in the main checkout).
+
 - **Main = branch = `b01c55cc34`** (work commit `fa3064de6b`: Star Asia 526 pages, Seabrokers charts/figures/mirror,
   Intermodal demolition headers). Validator PASS. Working tree clean (only gitignored `.reparse_staging/`).
 - **Per-source state**: Intermodal, Star Asia, Seabrokers, Clarksons, Carriers, Advanced, Xclusiv, VV, GMS/Best Oasis,
@@ -25,7 +32,16 @@ and well-formatted for the DeepSeek GraphRAG build, plus end-to-end ingest autom
   Disk filled (C: 65 MB) mid-run and left a truncated cache file: caches now re-read safely. Check free disk
   (`(Get-PSDrive C).Free`) before long runs.
 - **Owner items**: rotate LlamaParse keys + all 6 Nace keys (5 pasted in chat), set `LLAMA_CLOUD_API_KEYS` secret.
-  Repo stays PUBLIC; do not change the fork-PR approval setting. December 2023 Seabreeze issue never downloaded (gap).
+  Repo stays PUBLIC; do not change the fork-PR approval setting.
+- **Seabrokers Dec 2023 gap CLOSED (10-12)**: the EN card page is only a "Happy New Year" image; the NO page
+  (`markedsrapport-desember-2023`) serves `2024/01/SEABREEZE_December.pdf` (4 pages). Read with Nace (8 credits), cached as
+  `data/extracted/llamaparse_seabrokers/2023-12-01_markedsrapport-desember-2023.json` (engine noted), built by the normal
+  `process_single_report`; availability vector-read; every other number checked against the text layer. Added: dayrates CSV
+  (4 rows), offshore_summary.json, catalog entry, 5 series CSVs (156 rows; rigs file has multi-line quoted fields: insert at
+  record boundaries, never line-based). July 2026: both EN/NO slugs serve the same `Seabreeze-July.pdf`, byte-identical to
+  ours, so the removed MD was a true duplicate. `fetch_seabrokers_reports.extract_osv_rates_from_text` returns nothing for
+  this short 4-page layout (rows written from the printed table instead). `build_offshore_cache.py` writes minified JSON
+  and drops `md_path`/`tables_path`: re-indent and carry those keys over, or the diff is 16k lines.
 
 ## Done and live on `main`
 | Commit | What |
@@ -69,7 +85,7 @@ and well-formatted for the DeepSeek GraphRAG build, plus end-to-end ingest autom
   extraction and were replaced by the data copy. Both Seabrokers scripts now write the mirror too when it was identical.
   Removed: `2026-07-01_market-report-july-2026.md` (98% duplicate of markedsrapport-juli-2026, no PDF, not in the
   catalog) and the mirror-only `2023-12-01_market-report-december-2023.md` (the "PDF" is a print of the web page;
-  catalog has pdf_url null). GAP: the December 2023 Seabreeze issue was never downloaded. 97 issues, 0 mismatches.
+  catalog has pdf_url null). December 2023 since added (see RESUME HERE). 98 issues, 0 mirror mismatches.
 - **Disk full 10-12 ~01:50** (65 MB free) crashed runs; freed 15 GB (pip cache purge + removed the merged
   token-optimization worktree, owner-approved). OCR in star_asia_page_rebuild.py now caps renders at 4000 px
   (ONNX "bad allocation" on large clips) and retries at half size.
