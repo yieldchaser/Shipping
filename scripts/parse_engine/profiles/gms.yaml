@@ -1,0 +1,86 @@
+# GMS Weekly "Ship Recycling Market Insight" (GMS Inc., weekly, published via Hellenic Shipping News and gmsinc.net).
+# One 8-page Word-generated PDF per issue (2021-11 onwards); the 2021-07 .. 2021-11 issues exist only as the HSN article
+# HTML (commentary text; the rankings table is an image and is not transcribed). Layout and rules: scripts/parse_engine/gms.py.
+# Decisions: the miscellany/trivia page ("Amazing facts", "Interesting facts", ...) is not market content and is dropped;
+# IMPORTANT DATES (bank holidays, beaching tides), port positions and the steel plate price table are kept; the four steel
+# line charts are image-only and are noted as a figure, never transcribed.
+source: gms
+publisher: "GMS Inc."
+title_template: "GMS Week {issue_date}"
+
+globs:
+  - "corpus/02-hellenic/demolition/pdfs/gms/*.pdf"
+  - "corpus/02-hellenic/demolition/pdfs/*gms-week*.pdf"
+  - "corpus/02-hellenic/demolition/pdfs/*hip-recycling-market-insight*.pdf"
+html_globs:
+  - "corpus/02-hellenic/demolition/2021/*_gms-week-*.html"
+# the 2021 "_web_" PDFs are one identical capture of the GMS website (46 files, same sha256), not an issue; Athenian
+# files can carry a GMS-looking name
+exclude_regex: '(?i)(_web_818af89830b3\.pdf$|athenian)'
+prefer_path_regex: '/pdfs/gms/'
+prefer_name_regex: '_[0-9a-f]{12}\.pdf$'
+
+engine_plan:
+  - match: {}
+    engine: pymupdf_table
+
+llamaparse:
+  tier: agentic
+  version: "2026-01-16"
+  merge_continued_tables: true
+  custom_prompt: >-
+    Weekly ship recycling market report. Keep every commentary paragraph verbatim, the rankings, sales, port position
+    and steel price tables exactly as printed. Omit contacts, disclaimers and trivia.
+
+expected_sections:
+  - required: ["Bangladesh", "India", "Pakistan", "Turkey"]
+    optional: ["Important Dates", "Port Reports", "Steel Plate Prices", "GMS Market Rankings|GMS Weekly"]
+
+# issue_date is the date printed on the cover ("August 30th, 2024", the Friday of the report week); the file-name prefix is
+# the Monday the report was crawled and is never used as the issue date
+header_text_chars: 6000
+date_patterns:
+  header_text:
+    - regex: '\b(January|February|March|April|May|June|July|August|September|October|November|December)\s+(\d{1,2})\s*[a-z]{0,4}\s*,?\s*(20\d{2})'
+      order: mdy_name
+  filename: []
+
+strip_line_patterns:
+  - '(?i)^\s*page\s+\d+\s+of\s+\d+\s*$'
+  - '(?i)^\s*gms weekly\s*$'
+boilerplate_patterns:
+  - '(?i)^\s*[^A-Za-z0-9]*(scan to download|and view the gms|view the weekly|weekly on our|on the gms app|gms recycling app|recycling app!?)'
+  - '(?i)summary podcast'
+  - '(?i)^\s*(www\.)?gmsinc\.net'
+  - '(?i)^\s*(gms weekly|gms port reports|steel plate prices|miscellaneous)\s*$'
+  - '(?i)^\s*page\s+\d+\s+of\s+\d+\s*$'
+  - '(?i)Tel:'
+  - '(?i)^\s*(prices indicated above|while extreme care|any way whatsoever)'
+
+# blocks that legitimately repeat inside one issue
+keep_repeated_patterns:
+  - '(?i)no market sales? reported'
+  - '(?i)no new vessels'
+  - '(?i)^no holidays'
+
+sidecar_vessel_rows: false
+
+geom:
+  prose_engine: gms
+  table_heading_level: 3
+
+validation_thresholds:
+  min_text_recall: 0.97
+
+promotion:
+  dest: data/extracted/md/hellenic/demolition/gms
+  name_markers: [gms]
+  all_name_dates: true            # legacy names carry the printed date and the Monday crawl date: either identifies the issue
+  legacy_dirs:
+    - data/extracted/md/hellenic/demolition/gms
+    - data/extracted/md/hellenic/demolition/2021
+    - data/extracted/md/hellenic/demolition/2022
+    - data/extracted/md/hellenic/demolition/2023
+    - data/extracted/md/hellenic/demolition/2024
+    - data/extracted/md/hellenic/demolition/2025
+    - data/extracted/md/hellenic/demolition/2026

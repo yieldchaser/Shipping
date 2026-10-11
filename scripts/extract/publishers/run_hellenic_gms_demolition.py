@@ -15,6 +15,11 @@ Extracts weekly GMS demolition reports published in corpus/02-hellenic/demolitio
 
 from __future__ import annotations
 
+import os as _os
+
+if __name__ == "__main__" and _os.environ.get("ALLOW_LEGACY_DEMOLITION_EXTRACT") != "1":   # before any heavy import
+    raise SystemExit("run_hellenic_gms_demolition: disabled - GMS / Best Oasis are parsed with `python -m scripts.parse_engine` (run --source gms --new-only -> promote --new-only --apply). Set ALLOW_LEGACY_DEMOLITION_EXTRACT=1 to override.")
+
 import asyncio
 import csv
 import json

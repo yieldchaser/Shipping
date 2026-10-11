@@ -4,6 +4,7 @@ from __future__ import annotations
 import argparse
 import csv
 import glob as globmod
+import re
 import sys
 from datetime import datetime, timezone
 from pathlib import Path
@@ -34,11 +35,28 @@ def _collect(args, profile) -> list[Path]:
         base = pat if Path(pat).is_absolute() else str(corpus_root() / pat)
         paths.extend(Path(x) for x in sorted(globmod.glob(base, recursive=True)) if x.lower().endswith(".pdf"))
     seen, uniq = set(), []
+    exclude = re.compile(profile["exclude_regex"]) if profile.get("exclude_regex") else None
     for p in paths:
+        if exclude and exclude.search(p.as_posix()):
+            continue
         if p.resolve() not in seen:
             seen.add(p.resolve())
             uniq.append(p)
     return uniq
+
+
+def _collect_html(args, profile, pdf_paths: list[Path]) -> list[Path]:
+    """HTML articles of issues that have no PDF (profile `html_globs`): an article whose file-name date prefix equals
+    that of a PDF is the same issue and is left to the PDF."""
+    if args.files or args.glob or not profile.get("html_globs"):
+        return []
+    pdf_prefixes = {p.name[:10] for p in pdf_paths}
+    out: list[Path] = []
+    for pat in profile["html_globs"]:
+        base = pat if Path(pat).is_absolute() else str(corpus_root() / pat)
+        out.extend(Path(x) for x in sorted(globmod.glob(base, recursive=True)))
+    out = [h for h in out if h.name[:10] not in pdf_prefixes]
+    return out[: args.limit] if args.limit else out
 
 
 def cmd_run(args) -> int:
@@ -66,12 +84,28 @@ def cmd_run(args) -> int:
         pcfg = profile.get("promotion") or {}
         index = promote.existing_index([REPO_ROOT / d for d in [pcfg.get("dest"), *pcfg.get("legacy_dirs", [])] if d],
                                        profile.get("date_patterns"),
-                                       tuple(pcfg.get("name_markers", promote.DEFAULT_NAME_MARKERS)))
-        keep = [pl for pl in plans if not promote.is_existing(pl.pdf.stem, pl.issue_date, index)]
+                                       tuple(pcfg.get("name_markers", promote.DEFAULT_NAME_MARKERS)),
+                                       bool(pcfg.get("all_name_dates")))
+        crawl = bool(pcfg.get("all_name_dates"))          # the file-name date prefix (crawl date) also identifies a legacy issue
+        keep = [pl for pl in plans if not promote.is_existing(pl.pdf.stem, pl.issue_date, index)
+                and not (crawl and promote.DATE_IN_NAME.match(pl.pdf.name)
+                         and promote.is_existing(pl.pdf.stem, promote.DATE_IN_NAME.match(pl.pdf.name).group(0), index))]
         print(f"new-only: {len(plans) - len(keep)} PDF(s) already have an MD and are skipped, {len(keep)} new")
         plans = keep
 
+    html_paths = _collect_html(args, profile, paths)
+    if args.new_only and html_paths:
+        from scripts.parse_engine.config import REPO_ROOT
+        pcfg = profile.get("promotion") or {}
+        index = promote.existing_index([REPO_ROOT / d for d in [pcfg.get("dest"), *pcfg.get("legacy_dirs", [])] if d],
+                                       profile.get("date_patterns"),
+                                       tuple(pcfg.get("name_markers", promote.DEFAULT_NAME_MARKERS)),
+                                       bool(pcfg.get("all_name_dates")))
+        html_paths = [h for h in html_paths if not promote.is_existing(h.stem, h.name[:10], index)]
+
     if args.dry_run:
+        if html_paths:
+            print(f"html articles (no PDF for the issue): {len(html_paths)}")
         total = worst = 0
         print(f"{'file':64} {'year':>5} {'pages':>9} {'engine/tier':24} credits")
         for pl in plans:
@@ -117,6 +151,15 @@ def cmd_run(args) -> int:
         print(f"{row['file'][:60]:60} {row['engine']:14} credits={row.get('credits_used', 0):>3} "
               f"tables={row.get('tables', '-')} recall={row.get('text_recall')} "
               f"num_recall={row.get('table_numeric_recall')} {status}")
+    for h in html_paths:
+        try:
+            row = eng.run_html_file(h, profile, args.source, staging)
+        except Exception as exc:  # noqa: BLE001 - one unreadable article must not stop the batch
+            row = {"file": h.name, "engine": "html_article", "problems": [f"exception: {type(exc).__name__}: {exc}"],
+                   "flags": ["exception"], "passed": False}
+        rows.append(row)
+        status = "OK" if row["passed"] else "CHECK " + ",".join(row.get("flags") or row["problems"])
+        print(f"{row['file'][:60]:60} {row['engine']:14} recall={row.get('text_recall')} {status}")
     stamp = datetime.now(timezone.utc).strftime("%Y%m%dT%H%M%SZ")
     summary = staging / args.source / f"run_summary_{stamp}.csv"
     write_summary_csv(summary, rows)
@@ -135,7 +178,8 @@ def cmd_promote(args) -> int:
     accept = set(cfg.get("accept_flags", [])) | {f for f in (args.accept_flags or "").split(",") if f}
     plan = promote.build_plan(args.source, staging, dest, legacy, accept, date_patterns=profile.get("date_patterns"),
                               name_markers=tuple(cfg.get("name_markers", promote.DEFAULT_NAME_MARKERS)),
-                              new_only=args.new_only, require_marker=cfg.get("require_validation_marker"))
+                              new_only=args.new_only, require_marker=cfg.get("require_validation_marker"),
+                              all_name_dates=bool(cfg.get("all_name_dates")))
     csv_path = Path(args.plan_csv) if args.plan_csv else staging / args.source / "promotion_plan.csv"
     promote.write_plan_csv(plan, csv_path)
     counts = promote.summarize(plan)

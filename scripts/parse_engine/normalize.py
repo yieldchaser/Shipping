@@ -28,7 +28,9 @@ def clean_markdown(md: str, profile: dict[str, Any]) -> str:
 
     # running headers / footers: short non-table blocks that repeat verbatim
     counts = Counter(b.strip() for b in blocks if len(b.strip()) < 90 and not _is_table_line(b))
-    repeated = {t for t, n in counts.items() if n >= 2 and not t.startswith("#")}
+    keep_res = [re.compile(p) for p in profile.get("keep_repeated_patterns", [])]
+    repeated = {t for t, n in counts.items() if n >= 2 and not t.startswith("#")
+                and not any(r.search(t) for r in keep_res)}
 
     out_blocks: list[str] = []
     for block in blocks:
@@ -80,9 +82,12 @@ def ensure_table_spacing(md: str) -> str:
 
 
 def build_frontmatter(meta: dict[str, Any]) -> str:
-    ordered = {k: meta.get(k) for k in (
-        "title", "publisher", "source", "issue_date", "document_header_date", "issue_date_conflict", "year", "source_file", "source_sha256",
-        "pages_total", "pages_parsed", "parser", "parsed_at")}
+    keys = ["title", "publisher", "source", "issue_date", "document_header_date", "issue_date_conflict", "year", "source_file", "source_sha256",
+            "pages_total", "pages_parsed", "parser", "parsed_at"]
+    # optional per-source fields (e.g. GMS volume/issue/quote) follow issue_date; absent for other sources
+    extras = [k for k in ("report_week", "volume", "issue", "quote_of_the_week", "issue_date_source") if meta.get(k) is not None]
+    keys[keys.index("issue_date") + 1:keys.index("issue_date") + 1] = extras
+    ordered = {k: meta.get(k) for k in keys}
     return "---\n" + yaml.safe_dump(ordered, sort_keys=False, allow_unicode=True, width=1000) + "---\n\n"
 
 

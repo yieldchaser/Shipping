@@ -9,7 +9,7 @@ from typing import Any
 
 import pymupdf
 
-from scripts.parse_engine import best_oasis, geom_table, liteparse, prose, xclusiv
+from scripts.parse_engine import best_oasis, geom_table, gms, liteparse, prose, xclusiv
 from scripts.parse_engine.cache import cache_get, cache_put, config_hash
 from scripts.parse_engine.config import (CREDITS_PER_PAGE, REPO_ROOT, pages_to_spec, repo_relative,
                                          select_pages, sha256_file)
@@ -25,7 +25,7 @@ DEFAULT_STAGING = REPO_ROOT / ".reparse_staging"
 # plan notes that are informational and never block promotion
 INFO_NOTE_PREFIXES = ("trailing_boilerplate_dropped", "two_page_content_kept", "last_page_not_boilerplate_kept", "pages_override", "issue_date_conflict_filename_chosen",
                       "issue_date_conflict_year_typo_filename_chosen", "issue_date_conflict_header_corroborated",
-                      "best_oasis:figure_note")
+                      "best_oasis:figure_note", "gms:info_")
 
 
 @dataclass
@@ -168,6 +168,10 @@ def run_geom(plan: FilePlan, profile: dict[str, Any], prose_engine: str | None =
         res = xclusiv.run(plan, doc, profile)
         plan.notes.extend(f"xclusiv:{p}" for p in res.pop("problems"))
         return res
+    if prose_engine == "gms":
+        res = gms.run(plan, doc, profile)
+        plan.notes.extend(f"gms:{p}" for p in res.pop("problems"))
+        return res
     if prose_engine == "best_oasis":
         res = best_oasis.run(plan, doc, profile)
         plan.notes.extend(f"best_oasis:{p}" for p in res.pop("problems"))
@@ -220,6 +224,8 @@ def dropped_boxes(plan: FilePlan, profile: dict[str, Any]) -> list[dict[str, Any
     for p in plan.pages:
         for box in prose.drop_region_boxes(doc[p - 1], profile.get("drop_regions")):
             out.append({"page": p, "bbox": box})
+        if profile.get("geom", {}).get("prose_engine") == "gms":
+            out.extend({"page": p, "bbox": box} for box in gms.trivia_boxes_for(doc[p - 1]))
     return out
 
 
@@ -293,10 +299,11 @@ def _epoch_iso(epoch: int | None) -> str | None:
 
 
 # ------------------------------------------------------------------------------------------ driver
-def stage_paths(staging: Path, source: str, plan: FilePlan, tag: str | None) -> dict[str, Path]:
+def stage_paths(staging: Path, source: str, plan: FilePlan, tag: str | None,
+                stem: str | None = None) -> dict[str, Path]:
     year = str(plan.year) if plan.year else "unknown"
     base = staging / source / year
-    stem = plan.pdf.stem + (f".{tag}" if tag else "")
+    stem = (stem or plan.pdf.stem) + (f".{tag}" if tag else "")
     return {"md": base / f"{stem}.md", "validation": base / f"{stem}.validation.json",
             "tables": base / f"{stem}.tables.json"}
 
@@ -340,8 +347,9 @@ def run_file(plan: FilePlan, profile: dict[str, Any], source: str, staging: Path
         "source_sha256": plan.sha256, "pages_total": plan.pages_total, "pages_parsed": plan.pages_spec,
         "parser": res["parser"], "parsed_at": res.get("parsed_at") or now_iso(),
     }
+    meta.update(res.get("meta") or {})          # per-source frontmatter (title, printed date, volume ...)
     md = build_frontmatter(meta) + body
-    paths = stage_paths(staging, source, plan, tag)
+    paths = stage_paths(staging, source, plan, tag, res.get("stem"))
     paths["md"].parent.mkdir(parents=True, exist_ok=True)
     paths["md"].write_text(md, encoding="utf-8")
     if res.get("tables"):
@@ -396,6 +404,37 @@ def run_file(plan: FilePlan, profile: dict[str, Any], source: str, staging: Path
         "source_file": repo_relative(plan.pdf), "source_sha256": plan.sha256,
         "output": paths["md"].as_posix(),
     }
+
+
+def run_html_file(path: Path, profile: dict[str, Any], source: str, staging: Path) -> dict[str, Any]:
+    """HTML article of a source that has no PDF for the issue (GMS 2021). Same staging layout and validation report shape."""
+    res = gms.run_html(path, profile)
+    body = nest_headings_md(clean_markdown(res["markdown"], profile))
+    meta = {"title": None, "publisher": profile.get("publisher"), "source": source, "issue_date": None,
+            "document_header_date": None, "issue_date_conflict": False, "year": None, "source_file": repo_relative(path),
+            "source_sha256": sha256_file(path), "pages_total": None, "pages_parsed": None,
+            "parser": "html_article + gms_template", "parsed_at": now_iso()}
+    meta.update(res["meta"])
+    md = build_frontmatter(meta) + body
+    year = str(meta["year"]) if meta.get("year") else "unknown"
+    stem = res["stem"] or Path(path).stem
+    out_md = staging / source / year / f"{stem}.md"
+    out_md.parent.mkdir(parents=True, exist_ok=True)
+    out_md.write_text(md, encoding="utf-8")
+    words = sorted({w.lower() for p in res["paras"] for w in re.findall(r"[A-Za-z]{4,}", p)})
+    have = {w.lower() for w in re.findall(r"[A-Za-z]{4,}", body)}
+    missing = [w for w in words if w not in have]
+    recall = round(1 - len(missing) / len(words), 4) if words else None
+    problems = list(res["problems"])
+    if recall is not None and recall < 0.99:
+        problems.append("low_text_recall")
+    report = {"engine": "html_article", "problems": problems, "flags": problems, "passed": not problems,
+              "text_recall": recall, "recall_missing_sample": missing[:15], "tables": 0, "figures": res["figures"],
+              "source_file": meta["source_file"], "issue_date_missing": meta["issue_date"] is None}
+    write_validation(out_md.with_suffix(".validation.json"), report)
+    return {"file": Path(path).name, "engine": "html_article", "year": meta.get("year"), "issue_date": meta["issue_date"],
+            "text_recall": recall, "tables": 0, "problems": problems, "flags": problems, "passed": not problems,
+            "source_file": meta["source_file"], "source_sha256": meta["source_sha256"], "output": out_md.as_posix()}
 
 
 __all__ = ["FilePlan", "plan_file", "run_file", "dedupe_pdfs", "BudgetExceeded", "CreditsExhausted",

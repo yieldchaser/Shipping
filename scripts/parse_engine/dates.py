@@ -24,6 +24,11 @@ def _build(order: str, groups: tuple[str, ...]) -> date | None:
             m = MONTHS.get(groups[1].lower().rstrip("."))
             if m is None:
                 return None
+        elif order == "mdy_name":                      # "August 30th, 2024": month name, day, year
+            d, y = int(groups[1]), int(groups[2])
+            m = MONTHS.get(groups[0].lower().rstrip("."))
+            if m is None:
+                return None
         else:
             return None
         return date(y, m, d)

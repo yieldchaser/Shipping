@@ -34,6 +34,7 @@ class Staged:
     tables: Path | None
     flags: list[str]
     source_file: str | None
+    alt_dates: set[str] = field(default_factory=set)     # e.g. the crawl-date prefix of the source file (all_name_dates mode)
 
 
 @dataclass
@@ -89,7 +90,7 @@ def read_frontmatter(path: Path) -> dict[str, Any]:
 HASH_SUFFIX = re.compile(r"_([0-9a-f]{12})(?:\.[a-z.]+)?$")
 
 
-def old_issue_dates(path: Path, date_patterns: dict[str, Any] | None = None) -> set[str]:
+def old_issue_dates(path: Path, date_patterns: dict[str, Any] | None = None, all_name_dates: bool = False) -> set[str]:
     """Issue dates an existing MD stands for: frontmatter issue_date, the date prefix of its name and,
     when the profile's filename patterns are given, any date they find in the name
     (e.g. 'Weekly-Sales-04th-Sept-2026')."""
@@ -102,13 +103,16 @@ def old_issue_dates(path: Path, date_patterns: dict[str, Any] | None = None) -> 
     fm = read_frontmatter(path)
     if fm.get("issue_date"):
         dates.add(str(fm["issue_date"]))
-    m = DATE_IN_NAME.search(path.name)
-    if m:
-        dates.add("-".join(m.groups()))
+    if all_name_dates:         # every date in the name (printed date and crawl date of a legacy GMS file)
+        dates |= {"-".join(m.groups()) for m in DATE_IN_NAME.finditer(path.name)}
+    else:
+        m = DATE_IN_NAME.search(path.name)
+        if m:
+            dates.add("-".join(m.groups()))
     return dates
 
 
-def load_staged(staging: Path, source: str, require_marker: str | None = None) -> list[Staged]:
+def load_staged(staging: Path, source: str, require_marker: str | None = None, alt_dates: bool = False) -> list[Staged]:
     out = []
     for vpath in sorted((staging / source).glob("*/*.validation.json")):
         stem = vpath.name[: -len(".validation.json")]
@@ -121,8 +125,13 @@ def load_staged(staging: Path, source: str, require_marker: str | None = None) -
         flags = list(report.get("flags", report.get("problems", [])))
         if require_marker and report.get(require_marker) is not True:
             flags.append(f"missing_{require_marker}")        # a post-parse step the profile requires has not run
-        out.append(Staged(stem, vpath.parent.name, fm.get("issue_date"), md, tables if tables.exists() else None,
-                          flags, fm.get("source_file")))
+        alts: set[str] = set()
+        if alt_dates and fm.get("source_file"):
+            m = DATE_IN_NAME.match(Path(str(fm["source_file"])).name)
+            if m:
+                alts.add("-".join(m.groups()))
+        out.append(Staged(stem, vpath.parent.name, str(fm["issue_date"]) if fm.get("issue_date") else None, md,
+                          tables if tables.exists() else None, flags, fm.get("source_file"), alts))
     return out
 
 
@@ -141,7 +150,7 @@ def belongs_to_source(md: Path, markers: tuple[str, ...]) -> bool:
 
 
 def existing_index(dirs: list[Path], date_patterns: dict[str, Any] | None,
-                   markers: tuple[str, ...]) -> tuple[set[str], set[str], set[str]]:
+                   markers: tuple[str, ...], all_name_dates: bool = False) -> tuple[set[str], set[str], set[str]]:
     """(stems, issue dates, 12-hex PDF hashes) of the source's MD files already present in `dirs`."""
     stems: set[str] = set()
     dates: set[str] = set()
@@ -151,7 +160,7 @@ def existing_index(dirs: list[Path], date_patterns: dict[str, Any] | None,
             if not belongs_to_source(md, markers):
                 continue
             stems.add(md.stem)
-            dates |= old_issue_dates(md, date_patterns)
+            dates |= old_issue_dates(md, date_patterns, all_name_dates)
             h = HASH_SUFFIX.search(md.name)
             if h:
                 hashes.add(h.group(1))
@@ -167,17 +176,17 @@ def is_existing(stem: str, issue_date: str | None, index: tuple[set[str], set[st
 def build_plan(source: str, staging: Path, dest_root: Path, legacy_dirs: list[Path], accept_flags: set[str],
                repo_root: Path = REPO_ROOT, date_patterns: dict[str, Any] | None = None,
                name_markers: tuple[str, ...] = DEFAULT_NAME_MARKERS, new_only: bool = False,
-               require_marker: str | None = None) -> Plan:
+               require_marker: str | None = None, all_name_dates: bool = False) -> Plan:
     """new_only: promote only issues that have no MD yet (by stem, issue date or PDF hash) and never remove or
     overwrite anything: the incremental weekly mode."""
     plan = Plan()
-    staged = load_staged(staging, source, require_marker)
+    staged = load_staged(staging, source, require_marker, alt_dates=all_name_dates)
     if new_only:
-        index = existing_index([dest_root, *legacy_dirs], date_patterns, name_markers)
+        index = existing_index([dest_root, *legacy_dirs], date_patterns, name_markers, all_name_dates)
         for st in staged:
             blocking = [f for f in st.flags if f not in accept_flags]
             target = dest_root / st.year / (st.stem + ".md")
-            if is_existing(st.stem, st.issue_date, index):
+            if is_existing(st.stem, st.issue_date, index) or any(is_existing(st.stem, a, index) for a in st.alt_dates):
                 plan.rows.append({"action": "skip_existing", "old_path": "", "new_path": str(target),
                                   "issue_date": st.issue_date or "", "detail": "an MD for this issue exists"})
             elif blocking or not st.issue_date:
@@ -193,7 +202,7 @@ def build_plan(source: str, staging: Path, dest_root: Path, legacy_dirs: list[Pa
     for d in legacy_dirs:
         for md in sorted(d.rglob("*.md")):
             if belongs_to_source(md, name_markers):
-                legacy.append((md, old_issue_dates(md, date_patterns)))
+                legacy.append((md, old_issue_dates(md, date_patterns, all_name_dates)))
             else:
                 foreign.append(md)
 
@@ -223,6 +232,9 @@ def build_plan(source: str, staging: Path, dest_root: Path, legacy_dirs: list[Pa
         plan.rows.append({"action": "promote", "old_path": "", "new_path": rel(new_md), "issue_date": st.issue_date,
                           "detail": "accepted:" + ";".join(f for f in st.flags if f in accept_flags) if st.flags else ""})
 
+    for st in plan.promote:       # secondary dates (crawl date) identify the legacy files; the printed issue date wins any clash
+        for alt in sorted(st.alt_dates):
+            promoted_dates.setdefault(alt, st)
     for st in plan.promote:       # a promoted issue without tables must not keep an old sidecar next to it
         side = dest_root / st.year / (st.stem + ".tables.json")
         if st.tables is None and side.exists():

@@ -8,6 +8,9 @@ title_template: "Best Oasis Weekly Ship Recycling Report {issue_date}"
 globs:
   - "corpus/02-hellenic/demolition/pdfs/*eekly-Ship-Recycling-Report*.pdf"
   - "corpus/02-hellenic/demolition/pdfs/*best-oasis*.pdf"
+  - "corpus/02-hellenic/demolition/pdfs/best_oasis/*.pdf"   # sub-folder copies; most are sha256 / same-issue dupes
+# a GMS issue ("Ship Recycling Market Insight") also filed under a Best Oasis name
+exclude_regex: '(?i)ship-recycling-market-insight'
 # the same PDF is filed twice (HSN download with a 12-hex suffix and the plain name): the hashed name is kept
 prefer_name_regex: '_[0-9a-f]{12}\.pdf$'
 

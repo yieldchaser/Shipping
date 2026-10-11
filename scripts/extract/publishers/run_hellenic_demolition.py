@@ -43,6 +43,11 @@ SERIES_DIR = REPO_ROOT / "data" / "extracted" / "series"
 SERIES_DIR.mkdir(parents=True, exist_ok=True)
 
 
+# Best Oasis and GMS Markdown now come from the parse engine; this runner's copies of those issues use other file names,
+# so the existence checks below miss them and it re-created 215 duplicate best_oasis_* files. Athenian is still owned here.
+ALLOW_LEGACY_DEMOLITION = os.environ.get("ALLOW_LEGACY_DEMOLITION_EXTRACT") == "1"
+
+
 def existing_issue_md(publisher: str, year: str, issue_date: str) -> bool:
     """True if any .md for this publisher/issue_date exists under MD_BASE_DIR.
 
@@ -450,6 +455,8 @@ tables_count: 1
 
         # 2. Best Oasis
         elif "best-oasis" in name_l or "best oasis" in title_l:
+            if not ALLOW_LEGACY_DEMOLITION:   # parsed by `python -m scripts.parse_engine` (best_oasis / gms profiles)
+                continue
             try:
                 md_dir = MD_BASE_DIR / "best_oasis" / year
                 md_file = md_dir / f"best_oasis_{issue_date}_{slug_stem(pdf_path.stem)}.md"
@@ -519,6 +526,8 @@ tables_count: 2
 
         # 3. GMS
         elif "gms" in name_l or "gms" in title_l:
+            if not ALLOW_LEGACY_DEMOLITION:   # parsed by `python -m scripts.parse_engine` (best_oasis / gms profiles)
+                continue
             try:
                 md_dir = MD_BASE_DIR / "gms" / year
                 md_file = md_dir / f"gms_{issue_date}_{slug_stem(pdf_path.stem)}.md"

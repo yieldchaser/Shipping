@@ -40,6 +40,32 @@ def test_incremental_ingest_skips_clarksons():
     assert '"skipped": True' in body[guard: guard + 600]
 
 
+
+def test_legacy_gms_and_best_oasis_runners_refuse_to_run():
+    import os
+    env = {k: v for k, v in os.environ.items() if k != "ALLOW_LEGACY_DEMOLITION_EXTRACT"}
+    for script in ("scripts/extract/publishers/run_hellenic_gms_demolition.py",
+                   "scripts/extract/publishers/run_gms_demolition.py",
+                   "scripts/extract/publishers/run_best_oasis_demolition.py"):
+        res = subprocess.run([sys.executable, str(ROOT / script)], capture_output=True, text=True, env=env, timeout=120)
+        assert res.returncode != 0 and "scripts.parse_engine" in (res.stderr + res.stdout), script
+
+
+def test_hellenic_demolition_runner_skips_best_oasis_and_gms_branches():
+    """Its Best Oasis / GMS copies use other file names than the engine MDs, so without the guard it re-creates them."""
+    text = (ROOT / "scripts/extract/publishers/run_hellenic_demolition.py").read_text(encoding="utf-8")
+    for branch in ('elif "best-oasis" in name_l or "best oasis" in title_l:', 'elif "gms" in name_l or "gms" in title_l:'):
+        body = text.split(branch, 1)[1].strip("\r\n").splitlines()
+        assert body[0].strip().startswith("if not ALLOW_LEGACY_DEMOLITION") and body[1].strip() == "continue"
+
+
+def test_ingest_workflow_parses_gms_and_best_oasis_with_the_engine():
+    wf = (ROOT / ".github/workflows/report_ingest.yml").read_text(encoding="utf-8")
+    assert "run_hellenic_gms_demolition.py" not in wf
+    for src in ("best_oasis", "gms"):
+        assert f"parse_engine run --source {src} --new-only" in wf
+        assert f"parse_engine promote --source {src} --new-only --apply" in wf
+
 # ------------------------------------------------------------------------------------ B2: Baltic box
 def test_drop_region_anchors_match_case_insensitively():
     doc = pymupdf.open()
