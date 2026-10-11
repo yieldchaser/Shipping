@@ -39,6 +39,21 @@ SEC_IDENTITY = "Antigravity Research research@shippinganalytics.com"
 REPO_ROOT = Path(__file__).resolve().parent.parent.parent
 if str(REPO_ROOT) not in sys.path:
     sys.path.insert(0, str(REPO_ROOT))
+if str(Path(__file__).resolve().parent) not in sys.path:
+    sys.path.insert(0, str(Path(__file__).resolve().parent))
+
+import sec_exhibits  # noqa: E402
+from repair_sec_markdown_tables import repair_markdown  # noqa: E402
+
+_SEC_CLIENT: Optional["sec_exhibits.SecClient"] = None
+
+
+def get_sec_client() -> "sec_exhibits.SecClient":
+    """Shared rate-limited client (max ~8 requests/s, retry/backoff, raw HTML cache) for exhibits."""
+    global _SEC_CLIENT
+    if _SEC_CLIENT is None:
+        _SEC_CLIENT = sec_exhibits.SecClient(user_agent=SEC_IDENTITY)
+    return _SEC_CLIENT
 CORPUS_DIR = REPO_ROOT / "corpus" / "10-companies"
 EXTRACTED_MD_DIR = REPO_ROOT / "data" / "extracted" / "md" / "companies"
 
@@ -234,19 +249,16 @@ def clean_markdown_content(md_text: str) -> str:
 
 
 
-def convert_filing_to_markdown(filing) -> Tuple[str, str]:
+def convert_html_to_markdown(raw_html: str) -> Tuple[str, str]:
     """
-    Convert filing to clean Markdown.
-    Primary: sec2md Parser on comment-stripped HTML, followed by artifact filtering.
-    Fallback 1: edgartools native filing.markdown().
-    Fallback 2: filing.text().
+    Convert one filing document's HTML to clean Markdown with sec2md on
+    comment-stripped HTML, followed by artifact filtering.
+    Used for the main document and for exhibits, so both go through the same converter.
 
     Returns:
-        (markdown_content, method_used)
+        (markdown_content, method_used) -- ("", "failed") if nothing usable came out.
     """
-    # 1. Try sec2md with comment stripping
     try:
-        raw_html = filing.html()
         if raw_html and len(raw_html.strip()) > 100:
             # Strip comments and XML headers before parsing
             clean_html = re.sub(r'<!--.*?-->', '', raw_html, flags=re.DOTALL)
@@ -259,6 +271,32 @@ def convert_filing_to_markdown(filing) -> Tuple[str, str]:
             clean_md = clean_markdown_content(raw_md)
             if clean_md and len(clean_md) > 100:
                 return clean_md, "sec2md"
+    except Exception:
+        pass
+    return "", "failed"
+
+
+def convert_exhibit_html(raw_html: str) -> str:
+    """Exhibit HTML -> Markdown with the same converter as the main document."""
+    md, _method = convert_html_to_markdown(raw_html)
+    return md or sec_exhibits.plain_text_fallback(raw_html)
+
+
+def convert_filing_to_markdown(filing) -> Tuple[str, str]:
+    """
+    Convert filing to clean Markdown.
+    Primary: sec2md Parser on comment-stripped HTML, followed by artifact filtering.
+    Fallback 1: edgartools native filing.markdown().
+    Fallback 2: filing.text().
+
+    Returns:
+        (markdown_content, method_used)
+    """
+    # 1. Try sec2md with comment stripping
+    try:
+        md, method = convert_html_to_markdown(filing.html())
+        if md:
+            return md, method
     except Exception:
         pass
 
@@ -308,8 +346,8 @@ def process_filing(
     filename = f"{ticker}_{form_clean}_{filing_date}_{accession}.md"
     target_path = form_dir / filename
 
-    # Resumability: check if target file exists and is non-empty (>1KB)
-    if target_path.exists() and target_path.stat().st_size > 1024:
+    # Never overwrite an existing corpus file (resumability + the corpus holds repaired content)
+    if target_path.exists():
         return True, f"SKIPPED (already exists: {filename})"
 
     # Convert to markdown
@@ -338,6 +376,25 @@ def process_filing(
 
     full_markdown = frontmatter + md_content + "\n"
 
+    # 6-K / 8-K: the content lives in the EX-99.x exhibits, so append them after the main document
+    exhibit_note = ""
+    if form_clean.split("-A")[0] in sec_exhibits.FORMS_WITH_EXHIBITS and cik:
+        try:
+            sections = sec_exhibits.build_exhibit_sections(
+                get_sec_client(), cik, accession, converter=convert_exhibit_html
+            )
+            full_markdown = sec_exhibits.append_exhibits(full_markdown, sections)
+            exhibit_note = f", {len(sections)} exhibits"
+        except Exception as e:
+            # Saved without the exhibits key: scripts/acquire/backfill_sec_exhibits.py picks it up later
+            exhibit_note = f", exhibits FAILED: {e}"
+
+    # Join broken table rows and turn bullet tables back into lists (no other change)
+    try:
+        full_markdown, _repair_stats = repair_markdown(full_markdown)
+    except Exception as e:
+        print(f"[WARN] Table repair skipped for {filename}: {e}")
+
     # Write final markdown file atomically to corpus and extracted mirrors
     temp_path = target_path.with_suffix(".tmp")
     try:
@@ -358,7 +415,7 @@ def process_filing(
     if rate_limit_delay > 0:
         time.sleep(rate_limit_delay)
 
-    return True, f"SAVED ({method}, {len(full_markdown):,} chars): {filename}"
+    return True, f"SAVED ({method}, {len(full_markdown):,} chars{exhibit_note}): {filename}"
 
 
 def download_company_filings(
