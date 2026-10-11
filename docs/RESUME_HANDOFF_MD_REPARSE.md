@@ -19,6 +19,13 @@ and well-formatted for the DeepSeek GraphRAG build, plus end-to-end ingest autom
 
 ## STATUS 2026-10-11 (evening) — ATHENIAN DUPES + WRONG SERIES FIXED
 
+- **SEC filings (90c98b8a62):** EX-99 exhibits backfilled into 563 6-K/8-K filings, which leaves 73 cover-only 6-Ks (image-only or EX-1..5).
+  Broken table rows went from 12,733 to 0, with text preserved in all 736 edited files. `sec_filings_weekly.yml` fetches new filings only.
+  Open items:
+  - 203 6-Ks have image-only exhibits, and 7 filings have PDF exhibits.
+  - About 25 6-Ks have EX-1..5 press releases (EuroDry) that were not fetched.
+  - 1,022 table rows have a cell count that differs from their header. They were left alone, because realigning could shift numbers.
+
 - The 295 `athenian_*` MDs written by the legacy `run_hellenic_demolition.py` Athenian branch put prices under the
   wrong country/sector (W36 2026: India Containers $271, but the PDF says $480). They are removed. Every issue has a plain MD from
   `run_athenian_demolition.py`, checked by year+week. 2026 W40 was legacy-only, so a plain MD was generated and checked against the PDF.
