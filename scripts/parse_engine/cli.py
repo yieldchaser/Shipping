@@ -10,7 +10,7 @@ from datetime import datetime, timezone
 from pathlib import Path
 
 from scripts.parse_engine import engine as eng
-from scripts.parse_engine import export_series, promote
+from scripts.parse_engine import export_demolition_series, export_series, promote
 from scripts.parse_engine.config import (CREDITS_PER_PAGE, corpus_root, load_profile, repo_relative,
                                          resolve_pdf, spec_to_pages)
 from scripts.parse_engine.keys import KeyPool
@@ -195,7 +195,22 @@ def cmd_promote(args) -> int:
     return 1 if report["skipped"] else 0
 
 
+def cmd_demolition_series(args) -> int:
+    staging = Path(args.staging_dir) if args.staging_dir else eng.DEFAULT_STAGING
+    root = Path(args.root or export_demolition_series.DEFAULT_ROOT.format(source=args.source))
+    out_dir = Path(args.out_dir or export_demolition_series.DEFAULT_OUT_DIR)
+    res = export_demolition_series.run_demolition_series(args.source, root, out_dir,
+                                                         staging / args.source / "series_compare.txt",
+                                                         dry_run=args.dry_run)
+    print(res["report"])
+    print(f"report: {res['report_path'].as_posix()}")
+    print("dry-run: nothing written" if args.dry_run else f"written: {', '.join(res['written'])}")
+    return 0
+
+
 def cmd_series(args) -> int:
+    if args.source in export_demolition_series.SOURCES:
+        return cmd_demolition_series(args)
     staging = Path(args.staging_dir) if args.staging_dir else eng.DEFAULT_STAGING
     root = Path(args.root) if args.root else staging / args.source
     out_dir = Path(args.out_dir) if args.out_dir else staging / args.source / "series"
@@ -245,6 +260,8 @@ def main(argv: list[str] | None = None) -> int:
     se.add_argument("--staging-dir")
     se.add_argument("--require-engine-schema", action="store_true",
                     help="refuse to export when any tables.json under --root is not schema parse_engine/v1")
+    se.add_argument("--dry-run", action="store_true",
+                    help="gms / best_oasis only: write the comparison report, change no CSV")
     se.add_argument("--eligible-only", action="store_true", help="only issues whose validation has no flags")
     se.set_defaults(func=cmd_series)
     args = ap.parse_args(argv)

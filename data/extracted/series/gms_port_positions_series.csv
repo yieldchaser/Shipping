@@ -476,7 +476,7 @@ issue_date,report_week,as_of_date,port,item_no,vessel_name,ldt,vessel_type,statu
 2022-06-03,22,"June 03, 2022",Alang,1,Camilla D,"5,130",Roro,Beached May 28,2022-06-06_gms-week-22-lull_june-3-2022_948f49b50272.pdf
 2022-06-03,22,"June 03, 2022",Alang,2,Dahlia,"33,141",LNG Tanker,Beached May 27,2022-06-06_gms-week-22-lull_june-3-2022_948f49b50272.pdf
 2022-06-03,22,"June 03, 2022",Alang,3,Emerald 1,"2,133",Supply Vessel,Beached May 29,2022-06-06_gms-week-22-lull_june-3-2022_948f49b50272.pdf
-2022-06-03,22,"June 03, 2022",Alang,4,Lomaiviti Princess  V,"3,653",Roro,Arrived May 29,2022-06-06_gms-week-22-lull_june-3-2022_948f49b50272.pdf
+2022-06-03,22,"June 03, 2022",Alang,4,Lomaiviti Princess V,"3,653",Roro,Arrived May 29,2022-06-06_gms-week-22-lull_june-3-2022_948f49b50272.pdf
 2022-06-03,22,"June 03, 2022",Alang,5,Splendour Sapphire,"9,711",Oil Tanker,Arrived May 29,2022-06-06_gms-week-22-lull_june-3-2022_948f49b50272.pdf
 2022-06-03,22,"June 03, 2022",Alang,6,Viator (Under Tow),"4,655",Bulk Carrier,Arrived June 02,2022-06-06_gms-week-22-lull_june-3-2022_948f49b50272.pdf
 2022-06-03,22,"June 03, 2022",Chattogram,1,Ang 1,"2,997",Offshore Tug,Arrived May 07,2022-06-06_gms-week-22-lull_june-3-2022_948f49b50272.pdf
@@ -492,7 +492,7 @@ issue_date,report_week,as_of_date,port,item_no,vessel_name,ldt,vessel_type,statu
 2022-06-10,23,"June 10, 2022",Alang,1,Bras VII (Under Tow),"11,946",Drill Rig,Beached June 09,2022-06-13_gms-week-22-worst-over_june-10-2022_189e68296ad8.pdf
 2022-06-10,23,"June 10, 2022",Alang,2,Izabela,"1,687",Oil Tanker,Arrived June 06,2022-06-13_gms-week-22-worst-over_june-10-2022_189e68296ad8.pdf
 2022-06-10,23,"June 10, 2022",Alang,3,Jack 1 (Under Tow),"10,224",Rig,Beached June 02,2022-06-13_gms-week-22-worst-over_june-10-2022_189e68296ad8.pdf
-2022-06-10,23,"June 10, 2022",Alang,4,Lomaiviti Princess  V,"3,653",Roro,Beached June 07,2022-06-13_gms-week-22-worst-over_june-10-2022_189e68296ad8.pdf
+2022-06-10,23,"June 10, 2022",Alang,4,Lomaiviti Princess V,"3,653",Roro,Beached June 07,2022-06-13_gms-week-22-worst-over_june-10-2022_189e68296ad8.pdf
 2022-06-10,23,"June 10, 2022",Alang,5,Splendour Sapphire,"9,711",Oil Tanker,Beached June 04,2022-06-13_gms-week-22-worst-over_june-10-2022_189e68296ad8.pdf
 2022-06-10,23,"June 10, 2022",Alang,6,Viator (Under Tow),"4,655",Bulk Carrier,Beached June 03,2022-06-13_gms-week-22-worst-over_june-10-2022_189e68296ad8.pdf
 2022-06-10,23,"June 10, 2022",Alang,7,Warrior,"4,167",Accommodation Barge,Beached June 07,2022-06-13_gms-week-22-worst-over_june-10-2022_189e68296ad8.pdf
@@ -1014,7 +1014,7 @@ issue_date,report_week,as_of_date,port,item_no,vessel_name,ldt,vessel_type,statu
 2023-03-03,9,"March 03, 2023",Alang,1,Fagri (Under Tow),"4,380",Dredger,Beached February 28,2023-03-06_gms-week-9-eager-eyes_ship-recycling-market-insight-week-0_ccc2a87715c5.pdf
 2023-03-03,9,"March 03, 2023",Alang,2,Halul 22 (Under Tow),"1,404",OSV,Arrived February 28,2023-03-06_gms-week-9-eager-eyes_ship-recycling-market-insight-week-0_ccc2a87715c5.pdf
 2023-03-03,9,"March 03, 2023",Alang,3,Halul 27 (Under Tow),"1,937",OSV,Arrived February 28,2023-03-06_gms-week-9-eager-eyes_ship-recycling-market-insight-week-0_ccc2a87715c5.pdf
-2023-03-03,9,"March 03, 2023",Alang,4,Kochi  Express,"8,362",Container,Beached February 24,2023-03-06_gms-week-9-eager-eyes_ship-recycling-market-insight-week-0_ccc2a87715c5.pdf
+2023-03-03,9,"March 03, 2023",Alang,4,Kochi Express,"8,362",Container,Beached February 24,2023-03-06_gms-week-9-eager-eyes_ship-recycling-market-insight-week-0_ccc2a87715c5.pdf
 2023-03-03,9,"March 03, 2023",Alang,5,Sas 1,"2,113",Supply Vessel,Arrived February 19,2023-03-06_gms-week-9-eager-eyes_ship-recycling-market-insight-week-0_ccc2a87715c5.pdf
 2023-03-03,9,"March 03, 2023",Alang,6,Stella Karina,"1,263",F/V,Arrived March 02,2023-03-06_gms-week-9-eager-eyes_ship-recycling-market-insight-week-0_ccc2a87715c5.pdf
 2023-03-03,9,"March 03, 2023",Chattogram,1,BNS Karnaphuli,215,Navy Vessel,Beached February27,2023-03-06_gms-week-9-eager-eyes_ship-recycling-market-insight-week-0_ccc2a87715c5.pdf
@@ -1197,6 +1197,22 @@ issue_date,report_week,as_of_date,port,item_no,vessel_name,ldt,vessel_type,statu
 2023-06-02,22,"June 02, 2023",Chattogram,8,Winwin,"2,076",Reefer,Arrived May 24,2023-06-05_gms-week-22-no-surprises_ship-recycling-market-insight-week-2_e811b08daf1c.pdf
 2023-06-02,22,"June 02, 2023",Chattogram,9,Xaing Jiang 6,"7,290",Bulk Carrier,Arrived May 24,2023-06-05_gms-week-22-no-surprises_ship-recycling-market-insight-week-2_e811b08daf1c.pdf
 2023-06-02,22,"June 02, 2023",Gadani,1,Era (Under Tow),"2,200",Supply Vessel,Sank at Anchorage,2023-06-05_gms-week-22-no-surprises_ship-recycling-market-insight-week-2_e811b08daf1c.pdf
+2023-06-09,23,"June 09, 2023",Alang,1,Enam,"6,819",Container,Beached June 03,2023-06-12_gms-week-23-restricted_ship-recycling-market-insight-week-2_a6a1df2a7c66.pdf
+2023-06-09,23,"June 09, 2023",Alang,2,Kumul Arrow,"10,998",General Cargo,Beached June 03,2023-06-12_gms-week-23-restricted_ship-recycling-market-insight-week-2_a6a1df2a7c66.pdf
+2023-06-09,23,"June 09, 2023",Alang,3,Maersk Atlantic,"5,914",Container,Beached June 08,2023-06-12_gms-week-23-restricted_ship-recycling-market-insight-week-2_a6a1df2a7c66.pdf
+2023-06-09,23,"June 09, 2023",Alang,4,MSC Lucia,"8,911",Container,Beached June 02,2023-06-12_gms-week-23-restricted_ship-recycling-market-insight-week-2_a6a1df2a7c66.pdf
+2023-06-09,23,"June 09, 2023",Alang,5,Novo 23,"1,885",Fish Factory,Beached June 02,2023-06-12_gms-week-23-restricted_ship-recycling-market-insight-week-2_a6a1df2a7c66.pdf
+2023-06-09,23,"June 09, 2023",Alang,6,Scanly (Under Tow),"1,571",Dumb Barge,Beached June 04,2023-06-12_gms-week-23-restricted_ship-recycling-market-insight-week-2_a6a1df2a7c66.pdf
+2023-06-09,23,"June 09, 2023",Chattogram,1,Blue Ocean,"4,361",Container,Beached June 08,2023-06-12_gms-week-23-restricted_ship-recycling-market-insight-week-2_a6a1df2a7c66.pdf
+2023-06-09,23,"June 09, 2023",Chattogram,2,Bodr,926,General Cargo,Beached June 07,2023-06-12_gms-week-23-restricted_ship-recycling-market-insight-week-2_a6a1df2a7c66.pdf
+2023-06-09,23,"June 09, 2023",Chattogram,3,Fortune,"9,730",Woodchip Carrier,Beached June 07,2023-06-12_gms-week-23-restricted_ship-recycling-market-insight-week-2_a6a1df2a7c66.pdf
+2023-06-09,23,"June 09, 2023",Chattogram,4,Kai Hang 3,"3,906",Container,Beached June 04,2023-06-12_gms-week-23-restricted_ship-recycling-market-insight-week-2_a6a1df2a7c66.pdf
+2023-06-09,23,"June 09, 2023",Chattogram,5,Meratus Makassar,"5,455",Container,Arrived June 08,2023-06-12_gms-week-23-restricted_ship-recycling-market-insight-week-2_a6a1df2a7c66.pdf
+2023-06-09,23,"June 09, 2023",Chattogram,6,Ocean Great,"7,290",Bulk / Log Carrier,Beached June 03,2023-06-12_gms-week-23-restricted_ship-recycling-market-insight-week-2_a6a1df2a7c66.pdf
+2023-06-09,23,"June 09, 2023",Chattogram,7,Shang Hang 68,"6,719",General Cargo,Beached June 07,2023-06-12_gms-week-23-restricted_ship-recycling-market-insight-week-2_a6a1df2a7c66.pdf
+2023-06-09,23,"June 09, 2023",Chattogram,8,Vasi Star,"7,771",Container,Beached June 05,2023-06-12_gms-week-23-restricted_ship-recycling-market-insight-week-2_a6a1df2a7c66.pdf
+2023-06-09,23,"June 09, 2023",Chattogram,9,Winwin,"2,076",Reefer,Beached June 04,2023-06-12_gms-week-23-restricted_ship-recycling-market-insight-week-2_a6a1df2a7c66.pdf
+2023-06-09,23,"June 09, 2023",Chattogram,10,Xaing Jiang 6,"7,290",Bulk Carrier,Beached June 04,2023-06-12_gms-week-23-restricted_ship-recycling-market-insight-week-2_a6a1df2a7c66.pdf
 2023-06-16,24,"June 16, 2023",Chattogram,1,Eternal Luck,"7,527",Bulk Carrier,Arrived June 14,2023-06-19_gms-week-24-bangla-ratifies-hkc_ship-recycling-market-insight-week-2_eb3655492ea8.pdf
 2023-06-16,24,"June 16, 2023",Chattogram,2,Golden Sun,"6,096",Bulk Carrier,Arrived June 09,2023-06-19_gms-week-24-bangla-ratifies-hkc_ship-recycling-market-insight-week-2_eb3655492ea8.pdf
 2023-06-16,24,"June 16, 2023",Chattogram,3,H Power,"18,239",Bulk Carrier,Arrived June 15,2023-06-19_gms-week-24-bangla-ratifies-hkc_ship-recycling-market-insight-week-2_eb3655492ea8.pdf
@@ -1287,6 +1303,8 @@ issue_date,report_week,as_of_date,port,item_no,vessel_name,ldt,vessel_type,statu
 2023-08-18,33,"August 11, 2023",Chattogram,2,Pilatus 28,"1,030",LNG,Arrived August 11,2023-08-19_gms-week-33-lethargy_ship-recycling-market-insight-week-3_2315dbecbae1.pdf
 2023-08-18,33,"August 11, 2023",Chattogram,3,Well Win,"8,940",Bulk Carrier,Arrived July 11,2023-08-19_gms-week-33-lethargy_ship-recycling-market-insight-week-3_2315dbecbae1.pdf
 2023-08-18,33,"August 11, 2023",Chattogram,4,Sol Straits,"7,770",Container,Arrived August 12,2023-08-19_gms-week-33-lethargy_ship-recycling-market-insight-week-3_2315dbecbae1.pdf
+2023-08-18,33,"August 11, 2023",Chattogram,5,PKS 1,480,General Cargo,Arrived August 12,2023-08-19_gms-week-33-lethargy_ship-recycling-market-insight-week-3_2315dbecbae1.pdf
+2023-08-18,33,"August 11, 2023",Chattogram,6,Vladimir Kolechitskiy (D/V),"6,000",Tanker,Arrived August 13,2023-08-19_gms-week-33-lethargy_ship-recycling-market-insight-week-3_2315dbecbae1.pdf
 2023-08-25,34,"August 26, 2023",Alang,1,Maersk Patras,"12,400",Container,Arrived August 20,2023-08-28_gms-week-34-better-days_ship-recycling-market-insight-week-3_9de9477b3c62.pdf
 2023-08-25,34,"August 26, 2023",Alang,2,MSC Erminia,"17,695",Container,Beached August 19,2023-08-28_gms-week-34-better-days_ship-recycling-market-insight-week-3_9de9477b3c62.pdf
 2023-08-25,34,"August 26, 2023",Alang,3,MSC Lana II,"10,811",Container,Beached August 18,2023-08-28_gms-week-34-better-days_ship-recycling-market-insight-week-3_9de9477b3c62.pdf
@@ -1324,6 +1342,24 @@ issue_date,report_week,as_of_date,port,item_no,vessel_name,ldt,vessel_type,statu
 2023-09-01,35,"September 01, 2023",Chattogram,14,Zen G,"10,750",Bulk Carrier,Beached September 01,2023-09-04_gms-week-35-fourth-quarter-positivity_ship-recycling-market-insight-week-3_99618513737e.pdf
 2023-09-01,35,"September 01, 2023",Gadani,1,Chang Min,"9,483",Bulk Carrier,Arrived August 26,2023-09-04_gms-week-35-fourth-quarter-positivity_ship-recycling-market-insight-week-3_99618513737e.pdf
 2023-09-01,35,"September 01, 2023",Gadani,2,Sun Shine,"10,317",Bulk Carrier,Arrived August 28,2023-09-04_gms-week-35-fourth-quarter-positivity_ship-recycling-market-insight-week-3_99618513737e.pdf
+2023-09-08,36,"September 08, 2023",Alang,1,Insta,"3,000",Diving Vessel,Arrived September 07,2023-09-11_gms-week-36-bullish-week_ship-recycling-market-insight-week-3_df4757d073c1.pdf
+2023-09-08,36,"September 08, 2023",Alang,2,One Happy,"7,726",Bulk Carrier,Beached September 07,2023-09-11_gms-week-36-bullish-week_ship-recycling-market-insight-week-3_df4757d073c1.pdf
+2023-09-08,36,"September 08, 2023",Alang,3,Sinokor Akita,"4,672",Container,Beached September 07,2023-09-11_gms-week-36-bullish-week_ship-recycling-market-insight-week-3_df4757d073c1.pdf
+2023-09-08,36,"September 08, 2023",Alang,4,Zefyros Reefer,"4,731",Reefer,Arrived September 03,2023-09-11_gms-week-36-bullish-week_ship-recycling-market-insight-week-3_df4757d073c1.pdf
+2023-09-08,36,"September 08, 2023",Chattogram,1,Fine Star,"9,859",Bulk Carrier,Beached September 04,2023-09-11_gms-week-36-bullish-week_ship-recycling-market-insight-week-3_df4757d073c1.pdf
+2023-09-08,36,"September 08, 2023",Chattogram,2,Harin Navee 7,698,General Cargo,Beached September 02,2023-09-11_gms-week-36-bullish-week_ship-recycling-market-insight-week-3_df4757d073c1.pdf
+2023-09-08,36,"September 08, 2023",Chattogram,3,Harmonia,"9,738",Woodchip Carrier,Beached September 03,2023-09-11_gms-week-36-bullish-week_ship-recycling-market-insight-week-3_df4757d073c1.pdf
+2023-09-08,36,"September 08, 2023",Chattogram,4,Jabal Ali 5,"5,965",RoRo / Cargo,Beached September 05,2023-09-11_gms-week-36-bullish-week_ship-recycling-market-insight-week-3_df4757d073c1.pdf
+2023-09-08,36,"September 08, 2023",Chattogram,5,Kema,"2,950",General Cargo,Arrived September 07,2023-09-11_gms-week-36-bullish-week_ship-recycling-market-insight-week-3_df4757d073c1.pdf
+2023-09-08,36,"September 08, 2023",Chattogram,6,Lauren Ocean,"8,400",Bulk Carrier,Beached September 05,2023-09-11_gms-week-36-bullish-week_ship-recycling-market-insight-week-3_df4757d073c1.pdf
+2023-09-08,36,"September 08, 2023",Chattogram,7,Ocean Success,"10,163",Bulk Carrier,Beached September 04,2023-09-11_gms-week-36-bullish-week_ship-recycling-market-insight-week-3_df4757d073c1.pdf
+2023-09-08,36,"September 08, 2023",Chattogram,8,Patcharawadee 11,"1,061",LPG,Arrived September 04,2023-09-11_gms-week-36-bullish-week_ship-recycling-market-insight-week-3_df4757d073c1.pdf
+2023-09-08,36,"September 08, 2023",Chattogram,9,Shun,"10,356",Bulk Carrier,Beached September 05,2023-09-11_gms-week-36-bullish-week_ship-recycling-market-insight-week-3_df4757d073c1.pdf
+2023-09-08,36,"September 08, 2023",Chattogram,10,Young Sheng 19,"1,118",Tanker,Arrived September 06,2023-09-11_gms-week-36-bullish-week_ship-recycling-market-insight-week-3_df4757d073c1.pdf
+2023-09-08,36,"September 08, 2023",Chattogram,11,Yuan Tu,"3,495",General Cargo,Beached September 05,2023-09-11_gms-week-36-bullish-week_ship-recycling-market-insight-week-3_df4757d073c1.pdf
+2023-09-08,36,"September 08, 2023",Gadani,1,Chang Min,"9,483",Bulk Carrier,Beached September 02,2023-09-11_gms-week-36-bullish-week_ship-recycling-market-insight-week-3_df4757d073c1.pdf
+2023-09-08,36,"September 08, 2023",Gadani,2,Gloria 1,"11,259",Bulk Carrier,Arrived September 03,2023-09-11_gms-week-36-bullish-week_ship-recycling-market-insight-week-3_df4757d073c1.pdf
+2023-09-08,36,"September 08, 2023",Gadani,3,Sun Shine,"10,317",Bulk Carrier,Beached September 02,2023-09-11_gms-week-36-bullish-week_ship-recycling-market-insight-week-3_df4757d073c1.pdf
 2023-09-11,36,"September 08, 2023",Alang,1,Insta,"3,000",Diving Vessel,Arrived September 07,2023-09-11_gms-week-36-bullish-week_ship-recycling-market-insight-week-3_df4757d073c1.pdf
 2023-09-11,36,"September 08, 2023",Alang,2,One Happy,"7,726",Bulk Carrier,Beached September 07,2023-09-11_gms-week-36-bullish-week_ship-recycling-market-insight-week-3_df4757d073c1.pdf
 2023-09-11,36,"September 08, 2023",Alang,3,Sinokor Akita,"4,672",Container,Beached September 07,2023-09-11_gms-week-36-bullish-week_ship-recycling-market-insight-week-3_df4757d073c1.pdf
@@ -1342,6 +1378,19 @@ issue_date,report_week,as_of_date,port,item_no,vessel_name,ldt,vessel_type,statu
 2023-09-11,36,"September 08, 2023",Gadani,1,Chang Min,"9,483",Bulk Carrier,Beached September 02,2023-09-11_gms-week-36-bullish-week_ship-recycling-market-insight-week-3_df4757d073c1.pdf
 2023-09-11,36,"September 08, 2023",Gadani,2,Gloria 1,"11,259",Bulk Carrier,Arrived September 03,2023-09-11_gms-week-36-bullish-week_ship-recycling-market-insight-week-3_df4757d073c1.pdf
 2023-09-11,36,"September 08, 2023",Gadani,3,Sun Shine,"10,317",Bulk Carrier,Beached September 02,2023-09-11_gms-week-36-bullish-week_ship-recycling-market-insight-week-3_df4757d073c1.pdf
+2023-09-15,37,"September 15, 2023",Alang,1,Aldo,"1,740",Supply,Beached September 14,2023-09-18_gms-week-37-food-for-thought_ship-recycling-market-insight-week-3_8ca987175540.pdf
+2023-09-15,37,"September 15, 2023",Alang,2,Insta,"3,000",Diving Vessel,Beached September 15,2023-09-18_gms-week-37-food-for-thought_ship-recycling-market-insight-week-3_8ca987175540.pdf
+2023-09-15,37,"September 15, 2023",Alang,3,Zefyros Reefer,"4,731",Reefer,Beached September 08,2023-09-18_gms-week-37-food-for-thought_ship-recycling-market-insight-week-3_8ca987175540.pdf
+2023-09-15,37,"September 15, 2023",Chattogram,1,Abdullah,"7,528",Bulk Carrier,Beached September 11,2023-09-18_gms-week-37-food-for-thought_ship-recycling-market-insight-week-3_8ca987175540.pdf
+2023-09-15,37,"September 15, 2023",Chattogram,2,Ang Fan,"10,934",Bulk Carrier,Beached September 11,2023-09-18_gms-week-37-food-for-thought_ship-recycling-market-insight-week-3_8ca987175540.pdf
+2023-09-15,37,"September 15, 2023",Chattogram,3,Dapitan Bay 1,"5,249",RoRo / Cargo,Beached September 11,2023-09-18_gms-week-37-food-for-thought_ship-recycling-market-insight-week-3_8ca987175540.pdf
+2023-09-15,37,"September 15, 2023",Chattogram,4,Hally,"9,379",Bulk Carrier,Arrived September 08,2023-09-18_gms-week-37-food-for-thought_ship-recycling-market-insight-week-3_8ca987175540.pdf
+2023-09-15,37,"September 15, 2023",Chattogram,5,Kema,"2,950",General Cargo,Arrived September 07,2023-09-18_gms-week-37-food-for-thought_ship-recycling-market-insight-week-3_8ca987175540.pdf
+2023-09-15,37,"September 15, 2023",Chattogram,6,Nautica Muar (Under Tow),"12,126",Tanker,Arrived September 09,2023-09-18_gms-week-37-food-for-thought_ship-recycling-market-insight-week-3_8ca987175540.pdf
+2023-09-15,37,"September 15, 2023",Chattogram,7,Patcharawadee 11,"1,061",LPG,Beached September 14,2023-09-18_gms-week-37-food-for-thought_ship-recycling-market-insight-week-3_8ca987175540.pdf
+2023-09-15,37,"September 15, 2023",Chattogram,8,Young Sheng 19,"1,118",Tanker,Beached September 13,2023-09-18_gms-week-37-food-for-thought_ship-recycling-market-insight-week-3_8ca987175540.pdf
+2023-09-15,37,"September 15, 2023",Gadani,1,Gloria 1,"11,259",Bulk Carrier,Beached September 13,2023-09-18_gms-week-37-food-for-thought_ship-recycling-market-insight-week-3_8ca987175540.pdf
+2023-09-15,37,"September 15, 2023",Gadani,2,Sotiria,"11,608",Bulk Carrier,Arrived September 11,2023-09-18_gms-week-37-food-for-thought_ship-recycling-market-insight-week-3_8ca987175540.pdf
 2023-09-18,37,"September 15, 2023",Alang,1,Aldo,"1,740",Supply,Beached September 14,2023-09-18_gms-week-37-food-for-thought_ship-recycling-market-insight-week-3_8ca987175540.pdf
 2023-09-18,37,"September 15, 2023",Alang,2,Insta,"3,000",Diving Vessel,Beached September 15,2023-09-18_gms-week-37-food-for-thought_ship-recycling-market-insight-week-3_8ca987175540.pdf
 2023-09-18,37,"September 15, 2023",Alang,3,Zefyros Reefer,"4,731",Reefer,Beached September 08,2023-09-18_gms-week-37-food-for-thought_ship-recycling-market-insight-week-3_8ca987175540.pdf
@@ -1473,9 +1522,11 @@ issue_date,report_week,as_of_date,port,item_no,vessel_name,ldt,vessel_type,statu
 2023-11-24,47,"November 24, 2023",Alang,1,Deva,"12,660",Bulk Carrier,Arrived November 18,2023-11-29_24-November-2023.pdf
 2023-11-24,47,"November 24, 2023",Alang,2,Quality,"3,700",Livestock,Arrived November 19,2023-11-29_24-November-2023.pdf
 2023-11-24,47,"November 24, 2023",Chattogram,1,Loggerhead,"1,088",Tanker,Arrived November 11,2023-11-29_24-November-2023.pdf
-2023-12-01,48,"November 24, 2023",Alang,1,Diamond Way,"3,016",Bulker,Arrived November 23,"2023-12-02_1%20December,%202023.pdf"
-2023-12-01,48,"November 24, 2023",Alang,2,Western V,868,Fish Carrier,Arrived November 23,"2023-12-02_1%20December,%202023.pdf"
-2023-12-01,48,"November 24, 2023",Chattogram,1,Tai 1 ex Ya Tai 1,"10,339",Bulker,Beached November 30,"2023-12-02_1%20December,%202023.pdf"
+2023-12-01,48,"November 24, 2023",Alang,1,Diamond Way,"3,016",Bulker,Arrived November 23,2023-12-02_gms-week-48-fading_120december202023_affd19e58207.pdf
+2023-12-01,48,"November 24, 2023",Alang,2,Western V,868,Fish Carrier,Arrived November 23,2023-12-02_gms-week-48-fading_120december202023_affd19e58207.pdf
+2023-12-01,48,"November 24, 2023",Chattogram,1,Tai 1 ex Ya Tai 1,"10,339",Bulker,Beached November 30,2023-12-02_gms-week-48-fading_120december202023_affd19e58207.pdf
+2023-12-01,48,"November 24, 2023",Chattogram,2,Jin Hong Da 16,"1,313",General Cargo,Beached November 26,2023-12-02_gms-week-48-fading_120december202023_affd19e58207.pdf
+2023-12-01,48,"November 24, 2023",Chattogram,3,Jin Yuan Xing 16,"11,894",Bulker,Beached November 25,2023-12-02_gms-week-48-fading_120december202023_affd19e58207.pdf
 2023-12-08,49,"November 24, 2023",Alang,1,Diamond Way,"3,016",Bulker,Beached December 2,2023-12-09_8-December-2023.pdf
 2023-12-08,49,"November 24, 2023",Alang,2,Western V,868,Fish Carrier,Beached December 2,2023-12-09_8-December-2023.pdf
 2023-12-08,49,"November 24, 2023",Chattogram,1,Shun Shin,527,General Cargo,Arrived December 1,2023-12-09_8-December-2023.pdf
@@ -1506,7 +1557,7 @@ issue_date,report_week,as_of_date,port,item_no,vessel_name,ldt,vessel_type,statu
 2023-12-29,52,"December 27, 2023",Gadani,1,Dong,"9,808",Bulk Carrier,Arrived December 24,2024-01-02_Ship-recycling-market-insight-week-52-2023-With-Mixed-Feelings-Adieu-2023.pdf
 2023-12-29,52,"December 27, 2023",Gadani,2,Iku Maru,450,Tanker,Arrived December 26,2024-01-02_Ship-recycling-market-insight-week-52-2023-With-Mixed-Feelings-Adieu-2023.pdf
 2023-12-29,52,"December 27, 2023",Gadani,3,Nadeem,200,Tug,Beached December 22,2024-01-02_Ship-recycling-market-insight-week-52-2023-With-Mixed-Feelings-Adieu-2023.pdf
-2024-01-05,1,"January 05, 2024",Alang,1,Onyx  1,"10,643",Container,Arrived January 04,2024-01-08_gms-week-01-whats-in-store-for-24_ship-recycling-market-insight-week-0_d9b045658310.pdf
+2024-01-05,1,"January 05, 2024",Alang,1,Onyx 1,"10,643",Container,Arrived January 04,2024-01-08_gms-week-01-whats-in-store-for-24_ship-recycling-market-insight-week-0_d9b045658310.pdf
 2024-01-05,1,"January 05, 2024",Alang,2,Proliv Longa,"1,270",Fishing,Arrived January 04,2024-01-08_gms-week-01-whats-in-store-for-24_ship-recycling-market-insight-week-0_d9b045658310.pdf
 2024-01-05,1,"January 05, 2024",Alang,3,Sas 4,935,Supply,Arrived December 16,2024-01-08_gms-week-01-whats-in-store-for-24_ship-recycling-market-insight-week-0_d9b045658310.pdf
 2024-01-05,1,"January 05, 2024",Alang,4,Silk,"7,036",Container,Beached December 29,2024-01-08_gms-week-01-whats-in-store-for-24_ship-recycling-market-insight-week-0_d9b045658310.pdf
@@ -1596,6 +1647,18 @@ issue_date,report_week,as_of_date,port,item_no,vessel_name,ldt,vessel_type,statu
 2024-02-09,6,"February 09, 2024",Chattogram,3,Wadi S,"10,248",Bulk Carrier,Arrived February 03,2024-02-12_gms-week-06-enter-the-dragon_ship-recycling-market-insight-week-0_de7c31a046ce.pdf
 2024-02-09,6,"February 09, 2024",Chattogram,4,Luffy,"4,636",General Cargo,Arrived February 03,2024-02-12_gms-week-06-enter-the-dragon_ship-recycling-market-insight-week-0_de7c31a046ce.pdf
 2024-02-09,6,"February 09, 2024",Gadani,1,Ze Hong,"11,618",Container,Beached February 02,2024-02-12_gms-week-06-enter-the-dragon_ship-recycling-market-insight-week-0_de7c31a046ce.pdf
+2024-02-16,7,"February 16, 2024",Alang,1,Hasan (Under Tow),"3,174",General Cargo,Beached February 14,2024-02-19_Ship-recycling-market-insight-week-07-2024-Still-Slow-And-Its-2024.pdf
+2024-02-16,7,"February 16, 2024",Alang,2,Nand Rajgadi (Under Tow),760,General Cargo,Arrived February 15,2024-02-19_Ship-recycling-market-insight-week-07-2024-Still-Slow-And-Its-2024.pdf
+2024-02-16,7,"February 16, 2024",Chattogram,1,Dong Fang,"2,405",Container,Beached February 16,2024-02-19_Ship-recycling-market-insight-week-07-2024-Still-Slow-And-Its-2024.pdf
+2024-02-16,7,"February 16, 2024",Chattogram,2,Fukuda,750,Tanker,Beached February 15,2024-02-19_Ship-recycling-market-insight-week-07-2024-Still-Slow-And-Its-2024.pdf
+2024-02-16,7,"February 16, 2024",Chattogram,3,Konstantinos,"7,979",Bulk Carrier,Beached February 13,2024-02-19_Ship-recycling-market-insight-week-07-2024-Still-Slow-And-Its-2024.pdf
+2024-02-16,7,"February 16, 2024",Chattogram,4,Legaspi,"1,506",General Cargo,Beached February 15,2024-02-19_Ship-recycling-market-insight-week-07-2024-Still-Slow-And-Its-2024.pdf
+2024-02-16,7,"February 16, 2024",Chattogram,5,Lila Nantong,"23,982",Bulk Carrier,Beached February 12,2024-02-19_Ship-recycling-market-insight-week-07-2024-Still-Slow-And-Its-2024.pdf
+2024-02-16,7,"February 16, 2024",Chattogram,6,Luffy,"4,636",General Cargo,Beached February 13,2024-02-19_Ship-recycling-market-insight-week-07-2024-Still-Slow-And-Its-2024.pdf
+2024-02-16,7,"February 16, 2024",Chattogram,7,Manis 7,"5,468",Container,Beached February 15,2024-02-19_Ship-recycling-market-insight-week-07-2024-Still-Slow-And-Its-2024.pdf
+2024-02-16,7,"February 16, 2024",Chattogram,8,Sia,"12,605",Bulk Carrier,Beached February 13,2024-02-19_Ship-recycling-market-insight-week-07-2024-Still-Slow-And-Its-2024.pdf
+2024-02-16,7,"February 16, 2024",Chattogram,9,Wadi S,"10,248",Bulk Carrier,Beached February 11,2024-02-19_Ship-recycling-market-insight-week-07-2024-Still-Slow-And-Its-2024.pdf
+2024-02-16,7,"February 16, 2024",Chattogram,10,Zeus One,"21,364",Bulk Carrier,Beached February 14,2024-02-19_Ship-recycling-market-insight-week-07-2024-Still-Slow-And-Its-2024.pdf
 2024-02-23,8,"February 23, 2024",Alang,1,Bontrup Emirates,"11,736",General Cargo,Arrived February 22,2024-02-26_gms-week-08-over-heating_ship-recycling-market-insight-week-0_eb8bd89479a4.pdf
 2024-02-23,8,"February 23, 2024",Alang,2,Nand Rajgadi (Under Tow),760,General Cargo,Beached February 20,2024-02-26_gms-week-08-over-heating_ship-recycling-market-insight-week-0_eb8bd89479a4.pdf
 2024-02-23,8,"February 23, 2024",Chattogram,1,John C,"4,759",Tanker,Arrived February 22,2024-02-26_gms-week-08-over-heating_ship-recycling-market-insight-week-0_eb8bd89479a4.pdf
@@ -1726,27 +1789,27 @@ issue_date,report_week,as_of_date,port,item_no,vessel_name,ldt,vessel_type,statu
 2024-05-17,20,"May 17, 2024",Chattogram,4,Sia 2,"1,836",General Cargo,Arrived May 11,2024-05-20_gms-week-20-silent-stability_ship-recycling-market-insight-week-1_cf4dc1c60cc0.pdf
 2024-05-17,20,"May 17, 2024",Chattogram,5,Sinokor Qingdao,"4,735",Container,Delivered May 08,2024-05-20_gms-week-20-silent-stability_ship-recycling-market-insight-week-1_cf4dc1c60cc0.pdf
 2024-05-17,20,"May 17, 2024",Chattogram,6,Xin LB Bao Shi,"7,957",Bulk Carrier,Arrived May 14,2024-05-20_gms-week-20-silent-stability_ship-recycling-market-insight-week-1_cf4dc1c60cc0.pdf
-2024-05-24,4,"May 24, 2024",Alang,1,Fesco Trader,"5,113",Container,Delivered May 23,2024-05-27_gms-week-21-strange-summer_ship-recycling-market-insight-week-2_ee0e52d7a1d5.pdf
-2024-05-24,4,"May 24, 2024",Alang,2,Frost Olympus,"2,410",Reefer Vessel,Arrived May 18,2024-05-27_gms-week-21-strange-summer_ship-recycling-market-insight-week-2_ee0e52d7a1d5.pdf
-2024-05-24,4,"May 24, 2024",Alang,3,Hana,"1,260",Chemical Tanker,Delivered May 21,2024-05-27_gms-week-21-strange-summer_ship-recycling-market-insight-week-2_ee0e52d7a1d5.pdf
-2024-05-24,4,"May 24, 2024",Alang,4,Hironin,"3,994",Fishing Vessel,Delivered May 23,2024-05-27_gms-week-21-strange-summer_ship-recycling-market-insight-week-2_ee0e52d7a1d5.pdf
-2024-05-24,4,"May 24, 2024",Alang,5,New Courage,"4,426",General Cargo,Delivered May 22,2024-05-27_gms-week-21-strange-summer_ship-recycling-market-insight-week-2_ee0e52d7a1d5.pdf
-2024-05-24,4,"May 24, 2024",Alang,6,Ocmis Gar,"2,477",General Cargo,Arrived May 17,2024-05-27_gms-week-21-strange-summer_ship-recycling-market-insight-week-2_ee0e52d7a1d5.pdf
-2024-05-24,4,"May 24, 2024",Chattogram,1,Atar,"9,576",General Cargo,Delivered May 24,2024-05-27_gms-week-21-strange-summer_ship-recycling-market-insight-week-2_ee0e52d7a1d5.pdf
-2024-05-24,4,"May 24, 2024",Chattogram,2,Bao Di Long 8,"3,133",MPP,Delivered May 22,2024-05-27_gms-week-21-strange-summer_ship-recycling-market-insight-week-2_ee0e52d7a1d5.pdf
-2024-05-24,4,"May 24, 2024",Chattogram,3,Dong Fang Yong Shi 2,"2,254",Offshore Supply Tug,Delivered May 24,2024-05-27_gms-week-21-strange-summer_ship-recycling-market-insight-week-2_ee0e52d7a1d5.pdf
-2024-05-24,4,"May 24, 2024",Chattogram,4,Gaku,"7,795",Vehicles Carrier,Delivered May 24,2024-05-27_gms-week-21-strange-summer_ship-recycling-market-insight-week-2_ee0e52d7a1d5.pdf
-2024-05-24,4,"May 24, 2024",Chattogram,5,Han Ji 2,"2,212",Offshore Supply Tug,Arrived May 18,2024-05-27_gms-week-21-strange-summer_ship-recycling-market-insight-week-2_ee0e52d7a1d5.pdf
-2024-05-24,4,"May 24, 2024",Chattogram,6,Heung-A-Tokyo,"2,447",Container,Arrived May 22,2024-05-27_gms-week-21-strange-summer_ship-recycling-market-insight-week-2_ee0e52d7a1d5.pdf
-2024-05-24,4,"May 24, 2024",Chattogram,7,Naga 2,"2,453",Container,Arrived May 20,2024-05-27_gms-week-21-strange-summer_ship-recycling-market-insight-week-2_ee0e52d7a1d5.pdf
-2024-05-24,4,"May 24, 2024",Chattogram,8,Pilatus 21,890,LPG Tanker,Delivered May 18,2024-05-27_gms-week-21-strange-summer_ship-recycling-market-insight-week-2_ee0e52d7a1d5.pdf
-2024-05-24,4,"May 24, 2024",Chattogram,9,Sia 2,"1,836",General Cargo,Delivered May 18,2024-05-27_gms-week-21-strange-summer_ship-recycling-market-insight-week-2_ee0e52d7a1d5.pdf
-2024-05-24,4,"May 24, 2024",Chattogram,10,Span 33,"1,826",General Cargo,Delivered May 24,2024-05-27_gms-week-21-strange-summer_ship-recycling-market-insight-week-2_ee0e52d7a1d5.pdf
-2024-05-24,4,"May 24, 2024",Chattogram,11,Titan,"6,979",Limestone Carrier,Delivered May 23,2024-05-27_gms-week-21-strange-summer_ship-recycling-market-insight-week-2_ee0e52d7a1d5.pdf
-2024-05-24,4,"May 24, 2024",Chattogram,12,Xin LV Bao Shi,"7,957",Bulk Carrier,Delivered May 21,2024-05-27_gms-week-21-strange-summer_ship-recycling-market-insight-week-2_ee0e52d7a1d5.pdf
-2024-05-24,4,"May 24, 2024",Gadani,1,Poseidon M,"7,000",Bulk Carrier,Arrived May 18,2024-05-27_gms-week-21-strange-summer_ship-recycling-market-insight-week-2_ee0e52d7a1d5.pdf
-2024-05-24,4,"May 24, 2024",Gadani,2,Uranus J,"5,778",Bulk Carrier,Arrived May 20,2024-05-27_gms-week-21-strange-summer_ship-recycling-market-insight-week-2_ee0e52d7a1d5.pdf
-2024-05-24,4,"May 24, 2024",Gadani,3,WSS II,300,Tug,Delivered May 18,2024-05-27_gms-week-21-strange-summer_ship-recycling-market-insight-week-2_ee0e52d7a1d5.pdf
+2024-05-24,21,"May 24, 2024",Alang,1,Fesco Trader,"5,113",Container,Delivered May 23,2024-05-27_gms-week-21-strange-summer_ship-recycling-market-insight-week-2_ee0e52d7a1d5.pdf
+2024-05-24,21,"May 24, 2024",Alang,2,Frost Olympus,"2,410",Reefer Vessel,Arrived May 18,2024-05-27_gms-week-21-strange-summer_ship-recycling-market-insight-week-2_ee0e52d7a1d5.pdf
+2024-05-24,21,"May 24, 2024",Alang,3,Hana,"1,260",Chemical Tanker,Delivered May 21,2024-05-27_gms-week-21-strange-summer_ship-recycling-market-insight-week-2_ee0e52d7a1d5.pdf
+2024-05-24,21,"May 24, 2024",Alang,4,Hironin,"3,994",Fishing Vessel,Delivered May 23,2024-05-27_gms-week-21-strange-summer_ship-recycling-market-insight-week-2_ee0e52d7a1d5.pdf
+2024-05-24,21,"May 24, 2024",Alang,5,New Courage,"4,426",General Cargo,Delivered May 22,2024-05-27_gms-week-21-strange-summer_ship-recycling-market-insight-week-2_ee0e52d7a1d5.pdf
+2024-05-24,21,"May 24, 2024",Alang,6,Ocmis Gar,"2,477",General Cargo,Arrived May 17,2024-05-27_gms-week-21-strange-summer_ship-recycling-market-insight-week-2_ee0e52d7a1d5.pdf
+2024-05-24,21,"May 24, 2024",Chattogram,1,Atar,"9,576",General Cargo,Delivered May 24,2024-05-27_gms-week-21-strange-summer_ship-recycling-market-insight-week-2_ee0e52d7a1d5.pdf
+2024-05-24,21,"May 24, 2024",Chattogram,2,Bao Di Long 8,"3,133",MPP,Delivered May 22,2024-05-27_gms-week-21-strange-summer_ship-recycling-market-insight-week-2_ee0e52d7a1d5.pdf
+2024-05-24,21,"May 24, 2024",Chattogram,3,Dong Fang Yong Shi 2,"2,254",Offshore Supply Tug,Delivered May 24,2024-05-27_gms-week-21-strange-summer_ship-recycling-market-insight-week-2_ee0e52d7a1d5.pdf
+2024-05-24,21,"May 24, 2024",Chattogram,4,Gaku,"7,795",Vehicles Carrier,Delivered May 24,2024-05-27_gms-week-21-strange-summer_ship-recycling-market-insight-week-2_ee0e52d7a1d5.pdf
+2024-05-24,21,"May 24, 2024",Chattogram,5,Han Ji 2,"2,212",Offshore Supply Tug,Arrived May 18,2024-05-27_gms-week-21-strange-summer_ship-recycling-market-insight-week-2_ee0e52d7a1d5.pdf
+2024-05-24,21,"May 24, 2024",Chattogram,6,Heung-A-Tokyo,"2,447",Container,Arrived May 22,2024-05-27_gms-week-21-strange-summer_ship-recycling-market-insight-week-2_ee0e52d7a1d5.pdf
+2024-05-24,21,"May 24, 2024",Chattogram,7,Naga 2,"2,453",Container,Arrived May 20,2024-05-27_gms-week-21-strange-summer_ship-recycling-market-insight-week-2_ee0e52d7a1d5.pdf
+2024-05-24,21,"May 24, 2024",Chattogram,8,Pilatus 21,890,LPG Tanker,Delivered May 18,2024-05-27_gms-week-21-strange-summer_ship-recycling-market-insight-week-2_ee0e52d7a1d5.pdf
+2024-05-24,21,"May 24, 2024",Chattogram,9,Sia 2,"1,836",General Cargo,Delivered May 18,2024-05-27_gms-week-21-strange-summer_ship-recycling-market-insight-week-2_ee0e52d7a1d5.pdf
+2024-05-24,21,"May 24, 2024",Chattogram,10,Span 33,"1,826",General Cargo,Delivered May 24,2024-05-27_gms-week-21-strange-summer_ship-recycling-market-insight-week-2_ee0e52d7a1d5.pdf
+2024-05-24,21,"May 24, 2024",Chattogram,11,Titan,"6,979",Limestone Carrier,Delivered May 23,2024-05-27_gms-week-21-strange-summer_ship-recycling-market-insight-week-2_ee0e52d7a1d5.pdf
+2024-05-24,21,"May 24, 2024",Chattogram,12,Xin LV Bao Shi,"7,957",Bulk Carrier,Delivered May 21,2024-05-27_gms-week-21-strange-summer_ship-recycling-market-insight-week-2_ee0e52d7a1d5.pdf
+2024-05-24,21,"May 24, 2024",Gadani,1,Poseidon M,"7,000",Bulk Carrier,Arrived May 18,2024-05-27_gms-week-21-strange-summer_ship-recycling-market-insight-week-2_ee0e52d7a1d5.pdf
+2024-05-24,21,"May 24, 2024",Gadani,2,Uranus J,"5,778",Bulk Carrier,Arrived May 20,2024-05-27_gms-week-21-strange-summer_ship-recycling-market-insight-week-2_ee0e52d7a1d5.pdf
+2024-05-24,21,"May 24, 2024",Gadani,3,WSS II,300,Tug,Delivered May 18,2024-05-27_gms-week-21-strange-summer_ship-recycling-market-insight-week-2_ee0e52d7a1d5.pdf
 2024-05-31,22,"May 31, 2024",Alang,1,Bord,"5,723",Container,Arrived June 02,2024-06-03_gms-week-22-mays-out-rains-out_ship-recycling-market-insight-week-2_27946c13be72.pdf
 2024-05-31,22,"May 31, 2024",Alang,2,Frost Olympus,"2,410",Reefer Vessel,Delivered May 30,2024-06-03_gms-week-22-mays-out-rains-out_ship-recycling-market-insight-week-2_27946c13be72.pdf
 2024-05-31,22,"May 31, 2024",Alang,3,Nezha,"1,571",Gen Cargo,Arrived June 05,2024-06-03_gms-week-22-mays-out-rains-out_ship-recycling-market-insight-week-2_27946c13be72.pdf
@@ -1937,7 +2000,7 @@ issue_date,report_week,as_of_date,port,item_no,vessel_name,ldt,vessel_type,statu
 2024-10-04,40,"October 04, 2024",Chattogram,2,Ipek,"6,751",General Cargo / Container,Delivered October 01,2024-10-07_gms-week-40-nuclear-quicksand_ship-recycling-market-insight-week-4_d31a50552336.pdf
 2024-10-04,40,"October 04, 2024",Chattogram,3,Shun Da Fa Zhan,"7,809",Bulk Carrier,Arrived September 28,2024-10-07_gms-week-40-nuclear-quicksand_ship-recycling-market-insight-week-4_d31a50552336.pdf
 2024-10-04,40,"October 04, 2024",Chattogram,4,Sola Gratia,"2,051",Cement Cargo Vessel,Delivered October 01,2024-10-07_gms-week-40-nuclear-quicksand_ship-recycling-market-insight-week-4_d31a50552336.pdf
-2024-10-11,41,"October 12, 2024",Alang,1,Andulus  1,"6,064",Bulk Carrier,Arrived October 12,2024-10-14_gms-week-41-eerie-calm_ship-recycling-market-insight-week-4_6299768101f3.pdf
+2024-10-11,41,"October 12, 2024",Alang,1,Andulus 1,"6,064",Bulk Carrier,Arrived October 12,2024-10-14_gms-week-41-eerie-calm_ship-recycling-market-insight-week-4_6299768101f3.pdf
 2024-10-11,41,"October 12, 2024",Alang,2,Bereg Mechty (Under Tow/Arrested),"7,263",Reefer,Arrived August 26,2024-10-14_gms-week-41-eerie-calm_ship-recycling-market-insight-week-4_6299768101f3.pdf
 2024-10-11,41,"October 12, 2024",Alang,3,Divo,"26,136",Fishing Vessel,Delivered October 06,2024-10-14_gms-week-41-eerie-calm_ship-recycling-market-insight-week-4_6299768101f3.pdf
 2024-10-11,41,"October 12, 2024",Alang,4,Green Maloy,"2,975",Reefer,Arrived October 10,2024-10-14_gms-week-41-eerie-calm_ship-recycling-market-insight-week-4_6299768101f3.pdf
@@ -1949,7 +2012,7 @@ issue_date,report_week,as_of_date,port,item_no,vessel_name,ldt,vessel_type,statu
 2024-10-11,41,"October 11, 2024",Chattogram,1,Chang Hua Hai,"2,988",General Cargo,Delivered October 06,2024-10-14_gms-week-41-eerie-calm_ship-recycling-market-insight-week-4_6299768101f3.pdf
 2024-10-11,41,"October 11, 2024",Chattogram,2,Ion (Under Tow),"23,236",Tanker,Arrived October 08,2024-10-14_gms-week-41-eerie-calm_ship-recycling-market-insight-week-4_6299768101f3.pdf
 2024-10-11,41,"October 11, 2024",Chattogram,3,Shun Da Fa Zhan,"7,809",Bulk Carrier,Delivered October 05,2024-10-14_gms-week-41-eerie-calm_ship-recycling-market-insight-week-4_6299768101f3.pdf
-2024-10-18,42,"October 18, 2024",Alang,1,Andulus  1,"6,064",Bulk Carrier,Delivered October 16,2024-10-21_gms-week-42-what-time-is-it_ship-recycling-market-insight-week-4_f7cba7d916c9.pdf
+2024-10-18,42,"October 18, 2024",Alang,1,Andulus 1,"6,064",Bulk Carrier,Delivered October 16,2024-10-21_gms-week-42-what-time-is-it_ship-recycling-market-insight-week-4_f7cba7d916c9.pdf
 2024-10-18,42,"October 18, 2024",Alang,2,Bereg Mechty (Under Tow/Arrested),"7,263",Reefer,Arrived August 26,2024-10-21_gms-week-42-what-time-is-it_ship-recycling-market-insight-week-4_f7cba7d916c9.pdf
 2024-10-18,42,"October 18, 2024",Alang,3,Hai Bo (under Tow),"8,678",Barge,Arrived October 13,2024-10-21_gms-week-42-what-time-is-it_ship-recycling-market-insight-week-4_f7cba7d916c9.pdf
 2024-10-18,42,"October 18, 2024",Alang,4,Green Maloy,"2,975",Reefer,Delivered October 17,2024-10-21_gms-week-42-what-time-is-it_ship-recycling-market-insight-week-4_f7cba7d916c9.pdf
@@ -1988,11 +2051,11 @@ issue_date,report_week,as_of_date,port,item_no,vessel_name,ldt,vessel_type,statu
 2024-11-08,45,"November 08, 2024",Chattogram,2,Chun Chao 9,"2,736",General Cargo,Delivered November 08,2024-11-11_gms-week-45-victoryor-doom_ship-recycling-market-insight-week-4_472f9c8ee700.pdf
 2024-11-08,45,"November 08, 2024",Chattogram,3,Rada,"18,860",Tanker,Delivered November 01,2024-11-11_gms-week-45-victoryor-doom_ship-recycling-market-insight-week-4_472f9c8ee700.pdf
 2024-11-08,45,"November 08, 2024",Chattogram,4,Yun Da Hai,"2,881",Bulk Carrier,Delivered November 07,2024-11-11_gms-week-45-victoryor-doom_ship-recycling-market-insight-week-4_472f9c8ee700.pdf
-2024-11-15,46,"November 15, 2024",Alang,1,Ali  A,"2,578",General Cargo,Arrived November 08,2024-11-18_gms-week-46-sign-of-times_ship-recycling-market-insight-week-4_657209d44766.pdf
+2024-11-15,46,"November 15, 2024",Alang,1,Ali A,"2,578",General Cargo,Arrived November 08,2024-11-18_gms-week-46-sign-of-times_ship-recycling-market-insight-week-4_657209d44766.pdf
 2024-11-15,46,"November 15, 2024",Alang,2,Bereg Mechty (Under Tow/Arrested),"7,263",Reefer,Arrived August 26,2024-11-18_gms-week-46-sign-of-times_ship-recycling-market-insight-week-4_657209d44766.pdf
-2024-11-15,46,"November 15, 2024",Alang,3,MSC Rafaela,"16,024",Container,Arrived November 14,2024-11-18_gms-week-46-sign-of-times_ship-recycling-market-insight-week-4_657209d44766.pdf
 2024-11-15,46,"November 15, 2024",Alang,4,Elion,"5,270",Chemical Tanker,Arrived November 13,2024-11-18_gms-week-46-sign-of-times_ship-recycling-market-insight-week-4_657209d44766.pdf
 2024-11-15,46,"November 15, 2024",Alang,5,Green Seje,"2,979",Reefer,Delivered November 14,2024-11-18_gms-week-46-sign-of-times_ship-recycling-market-insight-week-4_657209d44766.pdf
+2024-11-15,46,"November 15, 2024",Alang,3,MSC Rafaela,"16,024",Container,Arrived November 14,2024-11-18_gms-week-46-sign-of-times_ship-recycling-market-insight-week-4_657209d44766.pdf
 2024-11-15,46,"November 15, 2024",Alang,6,Star,"5,538",Reefer,Delivered November 14,2024-11-18_gms-week-46-sign-of-times_ship-recycling-market-insight-week-4_657209d44766.pdf
 2024-11-15,46,"November 15, 2024",Chattogram,1,Gold Bridge,"6,889",Bulk Carrier,Arrived November 10,2024-11-18_gms-week-46-sign-of-times_ship-recycling-market-insight-week-4_657209d44766.pdf
 2024-11-15,46,"November 15, 2024",Chattogram,2,Ning Hua,"9,713",Bulk Carrier,Arrived November 15,2024-11-18_gms-week-46-sign-of-times_ship-recycling-market-insight-week-4_657209d44766.pdf
@@ -2103,17 +2166,17 @@ issue_date,report_week,as_of_date,port,item_no,vessel_name,ldt,vessel_type,statu
 2025-02-07,6,"February 07, 2025",Chattogram,7,Three Star,"7,627",Bulk Carrier,Arrived January 23,2025-02-10_gms-week-06-tariffs-prices_ship-recycling-market-insight-week-0_9141bd298ac5.pdf
 2025-02-07,6,"February 07, 2025",Gadani,1,Leena,"5,204",Bulk Carrier,Arrived February 02,2025-02-10_gms-week-06-tariffs-prices_ship-recycling-market-insight-week-0_9141bd298ac5.pdf
 2025-02-14,7,"February 14, 2025",Alang,1,Jabal Ali 7,"7,128",RoRo,Arrived February 14,2025-02-17_gms-week-07-tit-for-tat-tariffs-tantrums_ship-recycling-market-insight-week-0_89fe131b1079.pdf
-2025-02-14,7,"February 14, 2025",Alang,1,East Pioneer,"10,891",Bulk Carrier,Arrived February 04,2025-02-17_gms-week-07-tit-for-tat-tariffs-tantrums_ship-recycling-market-insight-week-0_89fe131b1079.pdf
 2025-02-14,7,"February 14, 2025",Alang,2,RDS 1,"1,816",Supply Vessel,Delivered February 13,2025-02-17_gms-week-07-tit-for-tat-tariffs-tantrums_ship-recycling-market-insight-week-0_89fe131b1079.pdf
-2025-02-14,7,"February 14, 2025",Alang,2,Ever Feng,"1,745",Tanker,Arrived February 13,2025-02-17_gms-week-07-tit-for-tat-tariffs-tantrums_ship-recycling-market-insight-week-0_89fe131b1079.pdf
 2025-02-14,7,"February 14, 2025",Alang,3,Rem,"29,017",LNG,Delivered February 14,2025-02-17_gms-week-07-tit-for-tat-tariffs-tantrums_ship-recycling-market-insight-week-0_89fe131b1079.pdf
-2025-02-14,7,"February 14, 2025",Alang,3,Generalis,"3,311",General Cargo,Arrived February 12,2025-02-17_gms-week-07-tit-for-tat-tariffs-tantrums_ship-recycling-market-insight-week-0_89fe131b1079.pdf
 2025-02-14,7,"February 14, 2025",Alang,4,Tai Fu No. 3,"2,598",Reefer,Delivered February 14,2025-02-17_gms-week-07-tit-for-tat-tariffs-tantrums_ship-recycling-market-insight-week-0_89fe131b1079.pdf
-2025-02-14,7,"February 14, 2025",Alang,4,Golden O,"10,664",Bulk Carrier,Delivered February 14,2025-02-17_gms-week-07-tit-for-tat-tariffs-tantrums_ship-recycling-market-insight-week-0_89fe131b1079.pdf
 2025-02-14,7,"February 14, 2025",Alang,5,Yeong,"28,809",LNG,Delivered February 13,2025-02-17_gms-week-07-tit-for-tat-tariffs-tantrums_ship-recycling-market-insight-week-0_89fe131b1079.pdf
-2025-02-14,7,"February 14, 2025",Alang,5,Lean,"29,182",LNG Tanker,Delivered February 15,2025-02-17_gms-week-07-tit-for-tat-tariffs-tantrums_ship-recycling-market-insight-week-0_89fe131b1079.pdf
-2025-02-14,7,"February 14, 2025",Alang,6,Ocean Peace,"10,848",Bulk Carrier,Delivered February 13,2025-02-17_gms-week-07-tit-for-tat-tariffs-tantrums_ship-recycling-market-insight-week-0_89fe131b1079.pdf
-2025-02-14,7,"February 14, 2025",Alang,7,Three Star,"7,627",Bulk Carrier,Arrived January 23,2025-02-17_gms-week-07-tit-for-tat-tariffs-tantrums_ship-recycling-market-insight-week-0_89fe131b1079.pdf
+2025-02-14,7,"February, 2025",Chattogram,1,East Pioneer,"10,891",Bulk Carrier,Arrived February 04,2025-02-17_gms-week-07-tit-for-tat-tariffs-tantrums_ship-recycling-market-insight-week-0_89fe131b1079.pdf
+2025-02-14,7,"February, 2025",Chattogram,2,Ever Feng,"1,745",Tanker,Arrived February 13,2025-02-17_gms-week-07-tit-for-tat-tariffs-tantrums_ship-recycling-market-insight-week-0_89fe131b1079.pdf
+2025-02-14,7,"February, 2025",Chattogram,3,Generalis,"3,311",General Cargo,Arrived February 12,2025-02-17_gms-week-07-tit-for-tat-tariffs-tantrums_ship-recycling-market-insight-week-0_89fe131b1079.pdf
+2025-02-14,7,"February, 2025",Chattogram,4,Golden O,"10,664",Bulk Carrier,Delivered February 14,2025-02-17_gms-week-07-tit-for-tat-tariffs-tantrums_ship-recycling-market-insight-week-0_89fe131b1079.pdf
+2025-02-14,7,"February, 2025",Chattogram,5,Lean,"29,182",LNG Tanker,Delivered February 15,2025-02-17_gms-week-07-tit-for-tat-tariffs-tantrums_ship-recycling-market-insight-week-0_89fe131b1079.pdf
+2025-02-14,7,"February, 2025",Chattogram,6,Ocean Peace,"10,848",Bulk Carrier,Delivered February 13,2025-02-17_gms-week-07-tit-for-tat-tariffs-tantrums_ship-recycling-market-insight-week-0_89fe131b1079.pdf
+2025-02-14,7,"February, 2025",Chattogram,7,Three Star,"7,627",Bulk Carrier,Arrived January 23,2025-02-17_gms-week-07-tit-for-tat-tariffs-tantrums_ship-recycling-market-insight-week-0_89fe131b1079.pdf
 2025-02-14,7,"February 14, 2025",Gadani,1,Leena,"5,204",Bulk Carrier,Delivered February 12,2025-02-17_gms-week-07-tit-for-tat-tariffs-tantrums_ship-recycling-market-insight-week-0_89fe131b1079.pdf
 2025-02-21,8,"February 21, 2025",Alang,1,Jabal Ali 7,"7,128",RoRo,Delivered February 18,2025-02-24_gms-week-08-freight-frustrates_ship-recycling-market-insight-week-0_c70af78920e3.pdf
 2025-02-21,8,"February 21, 2025",Chattogram,1,East Pioneer,"10,891",Bulk Carrier,Arrived February 04,2025-02-24_gms-week-08-freight-frustrates_ship-recycling-market-insight-week-0_c70af78920e3.pdf
@@ -2374,7 +2437,7 @@ issue_date,report_week,as_of_date,port,item_no,vessel_name,ldt,vessel_type,statu
 2025-08-17,33,"August 15, 2025",Alang,5,R Pisces,"19,935",Bulk Carrier,Arrived August 09,2025-08-18_gms-week-33-time-flies_ship-recycling-market-insight-week-3_4bbd193ef223.pdf
 2025-08-17,33,"August 15, 2025",Alang,6,Otaria,"16,885",Tanker,Arrived August 08,2025-08-18_gms-week-33-time-flies_ship-recycling-market-insight-week-3_4bbd193ef223.pdf
 2025-08-17,33,"August 15, 2025",Alang,7,Sia,"2,401",General Cargo,Delivered August 12,2025-08-18_gms-week-33-time-flies_ship-recycling-market-insight-week-3_4bbd193ef223.pdf
-2025-08-17,33,"August 15, 2025",Alang,8,Ya  Hussein,"5,413",Bulk Carrier,Delivered August 15,2025-08-18_gms-week-33-time-flies_ship-recycling-market-insight-week-3_4bbd193ef223.pdf
+2025-08-17,33,"August 15, 2025",Alang,8,Ya Hussein,"5,413",Bulk Carrier,Delivered August 15,2025-08-18_gms-week-33-time-flies_ship-recycling-market-insight-week-3_4bbd193ef223.pdf
 2025-08-17,33,"August 15, 2025",Chattogram,1,DK 03,"7,809",Bulk Carrier,Arrived August 04,2025-08-18_gms-week-33-time-flies_ship-recycling-market-insight-week-3_4bbd193ef223.pdf
 2025-08-17,33,"August 15, 2025",Chattogram,2,Dalian,"21,414",Bulk Carrier,Arrived August 13,2025-08-18_gms-week-33-time-flies_ship-recycling-market-insight-week-3_4bbd193ef223.pdf
 2025-08-17,33,"August 15, 2025",Chattogram,3,Great Royal,"6,580",Bulk Carrier,Delivered August 11,2025-08-18_gms-week-33-time-flies_ship-recycling-market-insight-week-3_4bbd193ef223.pdf
@@ -2461,7 +2524,7 @@ issue_date,report_week,as_of_date,port,item_no,vessel_name,ldt,vessel_type,statu
 2025-10-10,41,"October 10, 2025",Alang,4,Conica Atlas,"20,001",Oil Tanker,Arrived June 13,2025-10-13_gms-week-41-whoananza_ship-recycling-market-insight-week-4_0a4b961e66cd.pdf
 2025-10-10,41,"October 10, 2025",Alang,5,Jamal,"31,326",LNG carrier,Arrived October 10,2025-10-13_gms-week-41-whoananza_ship-recycling-market-insight-week-4_0a4b961e66cd.pdf
 2025-10-10,41,"October 10, 2025",Alang,6,Josh (Under Tow),"15,415",Pipe Laying,Arrived October 10,2025-10-13_gms-week-41-whoananza_ship-recycling-market-insight-week-4_0a4b961e66cd.pdf
-2025-10-10,41,"October 10, 2025",Alang,7,Lady  L,"5,827",Reefer,Delivered October 08,2025-10-13_gms-week-41-whoananza_ship-recycling-market-insight-week-4_0a4b961e66cd.pdf
+2025-10-10,41,"October 10, 2025",Alang,7,Lady L,"5,827",Reefer,Delivered October 08,2025-10-13_gms-week-41-whoananza_ship-recycling-market-insight-week-4_0a4b961e66cd.pdf
 2025-10-10,41,"October 10, 2025",Alang,8,Nirvana,"9,623",Oil Tanker,Arrived May 07,2025-10-13_gms-week-41-whoananza_ship-recycling-market-insight-week-4_0a4b961e66cd.pdf
 2025-10-10,41,"October 10, 2025",Alang,9,Shaurya II,"15,810",Oil Tanker,Delivered October 09,2025-10-13_gms-week-41-whoananza_ship-recycling-market-insight-week-4_0a4b961e66cd.pdf
 2025-10-10,41,"October 10, 2025",Alang,10,Trut,"2,700",General Cargo,Delivered October 01,2025-10-13_gms-week-41-whoananza_ship-recycling-market-insight-week-4_0a4b961e66cd.pdf
@@ -2574,16 +2637,17 @@ issue_date,report_week,as_of_date,port,item_no,vessel_name,ldt,vessel_type,statu
 2025-12-19,51,"December 19, 2025",Chattogram,4,Zi Yu Lan,"7,542",MPP,Arrived December 19,2025-12-22_Ship-recycling-market-insight-Week-51-12-19-2025-WT...December.pdf
 2025-12-19,51,"December 19, 2025",Gadani,1,Ardhianto,"2,922",General Cargo,Arrived December 04,2025-12-22_Ship-recycling-market-insight-Week-51-12-19-2025-WT...December.pdf
 2025-12-26,52,"December 26, 2025",Alang,1,Asena,"3,196",General Cargo,Delivered December 18,2025-12-29_Ship-recycling-market-insight-Week-52-12-26-2025-Au_Revoir_2025.pdf
-2025-12-26,52,"December 26, 2025",Alang,1,Bold Mariner,"7,507",Bulk Carrier,Delivered December 23,2025-12-29_Ship-recycling-market-insight-Week-52-12-26-2025-Au_Revoir_2025.pdf
-2025-12-26,52,"December 26, 2025",Alang,1,Ardhianto,"2,922",General Cargo,Delivered December 20,2025-12-29_Ship-recycling-market-insight-Week-52-12-26-2025-Au_Revoir_2025.pdf
-2025-12-26,52,"December 26, 2025",Alang,2,Elite Prosperity (Under Tow),"13,733",Barge,Delivered December 23,2025-12-29_Ship-recycling-market-insight-Week-52-12-26-2025-Au_Revoir_2025.pdf
+2025-12-26,52,"December 26, 2025",Alang,2,Conica Atlas,"20,001",Oil Tanker,,2025-12-29_Ship-recycling-market-insight-Week-52-12-26-2025-Au_Revoir_2025.pdf
 2025-12-26,52,"December 26, 2025",Alang,3,Mackerel,"8,868",Oil Tanker,Delivered December 20,2025-12-29_Ship-recycling-market-insight-Week-52-12-26-2025-Au_Revoir_2025.pdf
-2025-12-26,52,"December 26, 2025",Alang,3,Fan Shun,"7,690",Bulk Carrier,Delivered December 20,2025-12-29_Ship-recycling-market-insight-Week-52-12-26-2025-Au_Revoir_2025.pdf
 2025-12-26,52,"December 26, 2025",Alang,4,Morality,"9,852",Oil Tanker,Delivered December 11,2025-12-29_Ship-recycling-market-insight-Week-52-12-26-2025-Au_Revoir_2025.pdf
-2025-12-26,52,"December 26, 2025",Alang,4,Jessica,"2,563",Tanker,Delivered December 25,2025-12-29_Ship-recycling-market-insight-Week-52-12-26-2025-Au_Revoir_2025.pdf
 2025-12-26,52,"December 26, 2025",Alang,5,Prestige,"3,307",Oil Tanker,Delivered December 19,2025-12-29_Ship-recycling-market-insight-Week-52-12-26-2025-Au_Revoir_2025.pdf
-2025-12-26,52,"December 26, 2025",Alang,5,Unnggul,"1,238",Cement Carrier,Delivered December 24,2025-12-29_Ship-recycling-market-insight-Week-52-12-26-2025-Au_Revoir_2025.pdf
-2025-12-26,52,"December 26, 2025",Alang,6,Zi Yu Lan,"7,542",MPP,Delivered December 25,2025-12-29_Ship-recycling-market-insight-Week-52-12-26-2025-Au_Revoir_2025.pdf
+2025-12-26,52,"December 2026, 2025",Chattogram,1,Bold Mariner,"7,507",Bulk Carrier,Delivered December 23,2025-12-29_Ship-recycling-market-insight-Week-52-12-26-2025-Au_Revoir_2025.pdf
+2025-12-26,52,"December 2026, 2025",Chattogram,2,Elite Prosperity (Under Tow),"13,733",Barge,Delivered December 23,2025-12-29_Ship-recycling-market-insight-Week-52-12-26-2025-Au_Revoir_2025.pdf
+2025-12-26,52,"December 2026, 2025",Chattogram,3,Fan Shun,"7,690",Bulk Carrier,Delivered December 20,2025-12-29_Ship-recycling-market-insight-Week-52-12-26-2025-Au_Revoir_2025.pdf
+2025-12-26,52,"December 2026, 2025",Chattogram,4,Jessica,"2,563",Tanker,Delivered December 25,2025-12-29_Ship-recycling-market-insight-Week-52-12-26-2025-Au_Revoir_2025.pdf
+2025-12-26,52,"December 2026, 2025",Chattogram,5,Unnggul,"1,238",Cement Carrier,Delivered December 24,2025-12-29_Ship-recycling-market-insight-Week-52-12-26-2025-Au_Revoir_2025.pdf
+2025-12-26,52,"December 2026, 2025",Chattogram,6,Zi Yu Lan,"7,542",MPP,Delivered December 25,2025-12-29_Ship-recycling-market-insight-Week-52-12-26-2025-Au_Revoir_2025.pdf
+2025-12-26,52,"December 2026, 2025",Gadani,1,Ardhianto,"2,922",General Cargo,Delivered December 20,2025-12-29_Ship-recycling-market-insight-Week-52-12-26-2025-Au_Revoir_2025.pdf
 2026-01-02,1,"January 02, 2026",Chattogram,1,Gold Origin,"2,486",General Cargo,Arrived January 02,2026-01-05_gms-week-01-new-year-w-t-fears_ship-recycling-market-insight-week-0_0f26ad194d07.pdf
 2026-01-02,1,"January 02, 2026",Chattogram,2,K Asia,"29,686",LNG / Gas Carrier,Arrived December 31,2026-01-05_gms-week-01-new-year-w-t-fears_ship-recycling-market-insight-week-0_0f26ad194d07.pdf
 2026-01-02,1,"January 02, 2026",Chattogram,3,Maple (Under Tow),"1,302",Tanker,Delivered January 01,2026-01-05_gms-week-01-new-year-w-t-fears_ship-recycling-market-insight-week-0_0f26ad194d07.pdf
@@ -2603,7 +2667,7 @@ issue_date,report_week,as_of_date,port,item_no,vessel_name,ldt,vessel_type,statu
 2026-01-23,4,"January 23, 2026",Alang,4,Tan,"6,311",Bulk Carrier,Delivered January 24,2026-01-26_gms-week-04-musical-chairs_ship-recycling-market-insight-week-0_78b2a1276f71.pdf
 2026-01-23,4,"January 23, 2026",Alang,5,Yun Da You 6,"1,139",Oil Tanker,Arrived January 20,2026-01-26_gms-week-04-musical-chairs_ship-recycling-market-insight-week-0_78b2a1276f71.pdf
 2026-01-30,5,"January 30, 2026",Alang,1,Global Star (Under Tow),"4,237",Oil Tanker,Delivered January 25,2026-02-02_gms-week-05-and-just-like-that_ship-recycling-market-insight-week-0_35a4040d7b07.pdf
-2026-01-30,5,"January 30, 2026",Alang,2,Olga  L,"3,734",Reefer,Arrived January 24,2026-02-02_gms-week-05-and-just-like-that_ship-recycling-market-insight-week-0_35a4040d7b07.pdf
+2026-01-30,5,"January 30, 2026",Alang,2,Olga L,"3,734",Reefer,Arrived January 24,2026-02-02_gms-week-05-and-just-like-that_ship-recycling-market-insight-week-0_35a4040d7b07.pdf
 2026-01-30,5,"January 30, 2026",Alang,3,Rising Harrier,"8,553",Bulk Carrier,Arrived January 25,2026-02-02_gms-week-05-and-just-like-that_ship-recycling-market-insight-week-0_35a4040d7b07.pdf
 2026-01-30,5,"January 30, 2026",Alang,4,Woodchip,"22,800",Oil Tanker,Arrived January 29,2026-02-02_gms-week-05-and-just-like-that_ship-recycling-market-insight-week-0_35a4040d7b07.pdf
 2026-01-30,5,"January 30, 2026",Alang,5,Yong Ang,"6,057",Reefer,Delivered January 30,2026-02-02_gms-week-05-and-just-like-that_ship-recycling-market-insight-week-0_35a4040d7b07.pdf
@@ -2612,7 +2676,7 @@ issue_date,report_week,as_of_date,port,item_no,vessel_name,ldt,vessel_type,statu
 2026-01-30,5,"January 30, 2026",Chattogram,2,Hakata,354,Tanker,Arrived January 29,2026-02-02_gms-week-05-and-just-like-that_ship-recycling-market-insight-week-0_35a4040d7b07.pdf
 2026-01-30,5,"January 30, 2026",Chattogram,3,Hong Li,"6,132",Bulk Carrier,Arrived January 24,2026-02-02_gms-week-05-and-just-like-that_ship-recycling-market-insight-week-0_35a4040d7b07.pdf
 2026-01-30,5,"January 30, 2026",Chattogram,4,Kohzan Maru,"9,963",Tanker,Delivered January 26,2026-02-02_gms-week-05-and-just-like-that_ship-recycling-market-insight-week-0_35a4040d7b07.pdf
-2026-02-06,6,"February 06, 2026",Alang,1,Olga  L,"3,734",Reefer,Delivered February 05,2026-02-09_gms-week-06-search-of-life_ship-recycling-market-insight-week-0_e2c494561d40.pdf
+2026-02-06,6,"February 06, 2026",Alang,1,Olga L,"3,734",Reefer,Delivered February 05,2026-02-09_gms-week-06-search-of-life_ship-recycling-market-insight-week-0_e2c494561d40.pdf
 2026-02-06,6,"February 06, 2026",Alang,2,Rising Harrier,"8,553",Bulk Carrier,Delivered February 03,2026-02-09_gms-week-06-search-of-life_ship-recycling-market-insight-week-0_e2c494561d40.pdf
 2026-02-06,6,"February 06, 2026",Alang,3,Woodchip,"22,800",Oil Tanker,Arrived January 29,2026-02-09_gms-week-06-search-of-life_ship-recycling-market-insight-week-0_e2c494561d40.pdf
 2026-02-06,6,"February 06, 2026",Alang,4,Yun Da You 6,"1,139",Oil Tanker,Delivered February 01,2026-02-09_gms-week-06-search-of-life_ship-recycling-market-insight-week-0_e2c494561d40.pdf
@@ -2677,7 +2741,7 @@ issue_date,report_week,as_of_date,port,item_no,vessel_name,ldt,vessel_type,statu
 2026-03-06,10,"March 06, 2026",Gadani,1,Atlas,"2,573",General Cargo,Arrived February 26,2026-03-09_gms-week-10-what-did-anyone-expect_ship-recycling-market-insight-week-1_e82f3c2fc295.pdf
 2026-03-06,10,"March 06, 2026",Gadani,2,Xing Fa,"2,300",Tanker,Arrived February 16,2026-03-09_gms-week-10-what-did-anyone-expect_ship-recycling-market-insight-week-1_e82f3c2fc295.pdf
 2026-03-13,11,"March 13, 2026",Alang,1,Antar,"3,676",General Cargo,Arrived February 28,2026-03-16_gms-week-10-turbulent-tides_ship-recycling-market-insight-week-1_f182a7f65cf8.pdf
-2026-03-13,11,"March 13, 2026",Alang,2,BuzanSkiy,"1,760",Reefer  Cargo,Arrived March 04,2026-03-16_gms-week-10-turbulent-tides_ship-recycling-market-insight-week-1_f182a7f65cf8.pdf
+2026-03-13,11,"March 13, 2026",Alang,2,BuzanSkiy,"1,760",Reefer Cargo,Arrived March 04,2026-03-16_gms-week-10-turbulent-tides_ship-recycling-market-insight-week-1_f182a7f65cf8.pdf
 2026-03-13,11,"March 13, 2026",Alang,3,Ghada A,"2,240",General Cargo,Delivered March 06,2026-03-16_gms-week-10-turbulent-tides_ship-recycling-market-insight-week-1_f182a7f65cf8.pdf
 2026-03-13,11,"March 13, 2026",Chattogram,1,Smooth Sea,"1,816",Tanker,Arrived March 10,2026-03-16_gms-week-10-turbulent-tides_ship-recycling-market-insight-week-1_f182a7f65cf8.pdf
 2026-03-13,11,"March 13, 2026",Chattogram,2,Lima,"26,915",LNG,Delivered March 08,2026-03-16_gms-week-10-turbulent-tides_ship-recycling-market-insight-week-1_f182a7f65cf8.pdf
@@ -2686,7 +2750,7 @@ issue_date,report_week,as_of_date,port,item_no,vessel_name,ldt,vessel_type,statu
 2026-03-13,11,"March 13, 2026",Gadani,2,Lumoso Permai,"7,628",Bulk Carrier,Arrived March 09,2026-03-16_gms-week-10-turbulent-tides_ship-recycling-market-insight-week-1_f182a7f65cf8.pdf
 2026-03-13,11,"March 13, 2026",Gadani,3,Xing Fa,"2,300",Tanker,Delivered March 06,2026-03-16_gms-week-10-turbulent-tides_ship-recycling-market-insight-week-1_f182a7f65cf8.pdf
 2026-03-20,12,"March 20, 2026",Alang,1,Antar,"3,676",General Cargo,Delivered March 12,2026-03-23_gms-week-12-eid-pause_ship-recycling-market-insight-week-1_72991ef34173.pdf
-2026-03-20,12,"March 20, 2026",Alang,2,BuzanSkiy,"1,760",Reefer  Cargo,Delivered March 12,2026-03-23_gms-week-12-eid-pause_ship-recycling-market-insight-week-1_72991ef34173.pdf
+2026-03-20,12,"March 20, 2026",Alang,2,BuzanSkiy,"1,760",Reefer Cargo,Delivered March 12,2026-03-23_gms-week-12-eid-pause_ship-recycling-market-insight-week-1_72991ef34173.pdf
 2026-03-20,12,"March 20, 2026",Alang,3,Cita,"8,715",Oil Tanker,Delivered March 14,2026-03-23_gms-week-12-eid-pause_ship-recycling-market-insight-week-1_72991ef34173.pdf
 2026-03-20,12,"March 20, 2026",Alang,4,Maya,"10,129",Oil Tanker,Delivered March 18,2026-03-23_gms-week-12-eid-pause_ship-recycling-market-insight-week-1_72991ef34173.pdf
 2026-03-20,12,"March 20, 2026",Chattogram,1,Smooth Sea,"1,816",Tanker,Delivered March 18,2026-03-23_gms-week-12-eid-pause_ship-recycling-market-insight-week-1_72991ef34173.pdf
@@ -2698,6 +2762,7 @@ issue_date,report_week,as_of_date,port,item_no,vessel_name,ldt,vessel_type,statu
 2026-04-03,14,"April 03, 2026",Alang,2,Kuljak Arrow,"10,241",Bulk Carrier,Delivered April 01,2026-04-07_gms-week-14-q2-opens-under-pressure_ship-recycling-market-insight-week-1_bc57f89581ae.pdf
 2026-04-03,14,"April 03, 2026",Alang,3,Bikra,"4,333",Oil Tanker,Arrived April 01,2026-04-07_gms-week-14-q2-opens-under-pressure_ship-recycling-market-insight-week-1_bc57f89581ae.pdf
 2026-04-03,14,"April 03, 2026",Alang,4,D/V Diu Towed by Tug Pacific Dove,"27,538",MODU,Arrived April 02,2026-04-07_gms-week-14-q2-opens-under-pressure_ship-recycling-market-insight-week-1_bc57f89581ae.pdf
+2026-04-03,14,"April 03, 2026",Chattogram,1,Tai Ji,"3,241",Refrigerate Cargo Ship,Arrived March 31,2026-04-07_gms-week-14-q2-opens-under-pressure_ship-recycling-market-insight-week-1_bc57f89581ae.pdf
 2026-04-03,14,"April 03, 2026",Chattogram,2,Shuen,"1,589",Container,Arrived March 31,2026-04-07_gms-week-14-q2-opens-under-pressure_ship-recycling-market-insight-week-1_bc57f89581ae.pdf
 2026-04-10,15,"April 10, 2026",Alang,1,Stolt Cedar,"11,436",Chemical Tanker,Arrived April 10,2026-04-14_gms-week-15-war-premium-cracks_ship-recycling-market-insight-week-1_c7d6c2cf180f.pdf
 2026-04-10,15,"April 10, 2026",Alang,2,Stolt Sea,"8,074",Chemical Tanker,Arrived April 10,2026-04-14_gms-week-15-war-premium-cracks_ship-recycling-market-insight-week-1_c7d6c2cf180f.pdf
@@ -2711,63 +2776,79 @@ issue_date,report_week,as_of_date,port,item_no,vessel_name,ldt,vessel_type,statu
 2026-04-10,15,"April 10, 2026",Chattogram,2,Yu-Ying No.2,"1,581",Cadet Training Ship,Arrived April 06,2026-04-14_gms-week-15-war-premium-cracks_ship-recycling-market-insight-week-1_c7d6c2cf180f.pdf
 2026-04-10,15,"April 10, 2026",Chattogram,3,Tai Ji,"3,241",Refrigerate Cargo Ship,Delivered April 06,2026-04-14_gms-week-15-war-premium-cracks_ship-recycling-market-insight-week-1_c7d6c2cf180f.pdf
 2026-04-10,15,"April 10, 2026",Chattogram,4,Shuen,"1,589",Container,Delivered April 04,2026-04-14_gms-week-15-war-premium-cracks_ship-recycling-market-insight-week-1_c7d6c2cf180f.pdf
-2026-04-17,15,"April 17, 2026",Alang,1,Stolt Cedar,"11,436",Chemical Tanker,Delivered April 16,2026-04-17_gms-week-16-ceasefire-extended-not-resolved_ship-recycling-market-insight-week-1_c1d5d1a9c6c2.pdf
-2026-04-17,15,"April 17, 2026",Alang,2,Stolt Sea,"8,074",Chemical Tanker,Delivered April 16,2026-04-17_gms-week-16-ceasefire-extended-not-resolved_ship-recycling-market-insight-week-1_c1d5d1a9c6c2.pdf
-2026-04-17,15,"April 17, 2026",Alang,3,Agulhas,"4,316",Research,Delivered April 16,2026-04-17_gms-week-16-ceasefire-extended-not-resolved_ship-recycling-market-insight-week-1_c1d5d1a9c6c2.pdf
-2026-04-17,15,"April 17, 2026",Alang,4,FIR 212,730,Yatch,Delivered April 09,2026-04-17_gms-week-16-ceasefire-extended-not-resolved_ship-recycling-market-insight-week-1_c1d5d1a9c6c2.pdf
-2026-04-17,15,"April 17, 2026",Chattogram,1,CAN (D/VSL),"48,125",Barge,Arrived April 16,2026-04-17_gms-week-16-ceasefire-extended-not-resolved_ship-recycling-market-insight-week-1_c1d5d1a9c6c2.pdf
-2026-04-17,15,"April 17, 2026",Chattogram,2,Yu-Ying No.2,"1,581",Cadet Training Ship,Delivered April 11,2026-04-17_gms-week-16-ceasefire-extended-not-resolved_ship-recycling-market-insight-week-1_c1d5d1a9c6c2.pdf
-2026-04-17,15,"April 17, 2026",Chattogram,2,Isa Golden,"6,257",Bulk Carrier,Arrived April 07,2026-04-17_gms-week-16-ceasefire-extended-not-resolved_ship-recycling-market-insight-week-1_c1d5d1a9c6c2.pdf
-2026-05-01,17,"May 01, 2026",Alang,1,D/V Andaman,"37,687",Drill Ship,Delivered April 25,2026-05-04_gms-week-18-blockade-becomes-structure_ship-recycling-market-insight-week-1_e1d1c86c257d.pdf
-2026-05-01,17,"May 01, 2026",Alang,2,Mali,"39,388",Oil Tanker,Delivered April 28,2026-05-04_gms-week-18-blockade-becomes-structure_ship-recycling-market-insight-week-1_e1d1c86c257d.pdf
-2026-05-01,17,"May 01, 2026",Alang,3,Tornado,"2,447",General Cargo,Delivered April 30,2026-05-04_gms-week-18-blockade-becomes-structure_ship-recycling-market-insight-week-1_e1d1c86c257d.pdf
-2026-05-08,18,"May 08, 2026",Chattogram,1,Jiang,"21,238",Bulk Carrier,Delivered May 01,2026-05-09_gms-week-19-brent-breaks-backlog-holds_ship-recycling-market-insight-week-1_90c2449fbf42.pdf
-2026-05-08,18,"May 08, 2026",Chattogram,2,Festival,"6,993",Bulk Carrier,Delivered May 04,2026-05-09_gms-week-19-brent-breaks-backlog-holds_ship-recycling-market-insight-week-1_90c2449fbf42.pdf
-2026-05-08,18,"May 08, 2026",Chattogram,3,Spruce,"2,217",Container,Delivered May 04,2026-05-09_gms-week-19-brent-breaks-backlog-holds_ship-recycling-market-insight-week-1_90c2449fbf42.pdf
-2026-05-08,18,"May 08, 2026",Chattogram,4,BGP Pioneer,"3,085",Research Survey Vessel,Delivered May 06,2026-05-09_gms-week-19-brent-breaks-backlog-holds_ship-recycling-market-insight-week-1_90c2449fbf42.pdf
-2026-05-08,18,"May 08, 2026",Chattogram,5,Jian Jie,"1,808",Tanker,Arrived May 06,2026-05-09_gms-week-19-brent-breaks-backlog-holds_ship-recycling-market-insight-week-1_90c2449fbf42.pdf
-2026-05-08,18,"May 08, 2026",Chattogram,6,Ace 1,"5,757",Other,Delivered May 07,2026-05-09_gms-week-19-brent-breaks-backlog-holds_ship-recycling-market-insight-week-1_90c2449fbf42.pdf
-2026-05-15,19,"May 15, 2026",Gadani,1,Xiong Hai,"1,659",Tanker,Delivered May 07,2026-05-15_1133818-2_ship-recycling-market-insight-week-2_3bc754a179c0.pdf
-2026-05-22,20,"May 22, 2026",Chattogram,1,Jyang,"4,192",Heavy Load Carrier,Delivered May 22,2026-05-25_gms-week-21-passage-opens-window-closes_ship-recycling-market-insight-week-2_8c4f9e84fb65.pdf
-2026-05-22,20,"May 22, 2026",Chattogram,2,Wantong Summer,"8,196",Bulk Carrier,Delivered May 21,2026-05-25_gms-week-21-passage-opens-window-closes_ship-recycling-market-insight-week-2_8c4f9e84fb65.pdf
-2026-05-22,20,"May 22, 2026",Chattogram,3,Hun,"7,822",Wood Chip Cargo,Delivered May 20,2026-05-25_gms-week-21-passage-opens-window-closes_ship-recycling-market-insight-week-2_8c4f9e84fb65.pdf
-2026-05-22,20,"May 22, 2026",Chattogram,4,Hun 1,"4,997",Wood Chip Cargo,Delivered May 20,2026-05-25_gms-week-21-passage-opens-window-closes_ship-recycling-market-insight-week-2_8c4f9e84fb65.pdf
-2026-05-22,20,"May 22, 2026",Chattogram,5,Amazing,"7,075",Bulk Carrier,Delivered May 20,2026-05-25_gms-week-21-passage-opens-window-closes_ship-recycling-market-insight-week-2_8c4f9e84fb65.pdf
-2026-05-22,20,"May 22, 2026",Chattogram,6,Jian Jie,"1,808",Tanker,Delivered May 20,2026-05-25_gms-week-21-passage-opens-window-closes_ship-recycling-market-insight-week-2_8c4f9e84fb65.pdf
-2026-05-22,20,"May 22, 2026",Chattogram,7,Energia,"19,899",Bulk Carrier,Arrived May 14,2026-05-25_gms-week-21-passage-opens-window-closes_ship-recycling-market-insight-week-2_8c4f9e84fb65.pdf
-2026-05-22,20,"May 22, 2026",Chattogram,8,Speed,"10,348",Wood Chip Cargo,Arrived May 14,2026-05-25_gms-week-21-passage-opens-window-closes_ship-recycling-market-insight-week-2_8c4f9e84fb65.pdf
-2026-05-22,20,"May 22, 2026",Chattogram,9,Gion Maru No. 8,485,Cement Carrier,Arrived May 11,2026-05-25_gms-week-21-passage-opens-window-closes_ship-recycling-market-insight-week-2_8c4f9e84fb65.pdf
-2026-05-22,20,"May 22, 2026",Chattogram,10,Frontier,"4,241",Ro-Ro Cargo,Arrived May 11,2026-05-25_gms-week-21-passage-opens-window-closes_ship-recycling-market-insight-week-2_8c4f9e84fb65.pdf
-2026-05-29,15,"May 29, 2026",Chattogram,1,Kokopo Chief,"5,889",Container,Arrived May 26,2026-05-29_gms-week-22-deal-struck-doors-shut_ship-recycling-market-insight-week-2_70ab9371c0b1.pdf
-2026-05-29,15,"May 29, 2026",Chattogram,2,Maymei,"9,728",Chemical Tanker,Arrived May 25,2026-05-29_gms-week-22-deal-struck-doors-shut_ship-recycling-market-insight-week-2_70ab9371c0b1.pdf
-2026-05-29,15,"May 29, 2026",Chattogram,3,Oriental Dragon,813,Cargo,Delivered May 22,2026-05-29_gms-week-22-deal-struck-doors-shut_ship-recycling-market-insight-week-2_70ab9371c0b1.pdf
-2026-05-29,15,"May 29, 2026",Chattogram,4,Speed,"10,348",Wood Chip Cargo,Delivered May 19,2026-05-29_gms-week-22-deal-struck-doors-shut_ship-recycling-market-insight-week-2_70ab9371c0b1.pdf
-2026-05-29,15,"May 29, 2026",Chattogram,5,Energia,"19,899",Bulk Carrier,Delivered May 18,2026-05-29_gms-week-22-deal-struck-doors-shut_ship-recycling-market-insight-week-2_70ab9371c0b1.pdf
-2026-05-29,15,"May 29, 2026",Chattogram,6,Gion Maru No. 8,485,Cement Carrier,Delivered May 18,2026-05-29_gms-week-22-deal-struck-doors-shut_ship-recycling-market-insight-week-2_70ab9371c0b1.pdf
-2026-05-29,15,"May 29, 2026",Chattogram,7,Frontier,"4,241",Ro-Ro Cargo,Delivered May 18,2026-05-29_gms-week-22-deal-struck-doors-shut_ship-recycling-market-insight-week-2_70ab9371c0b1.pdf
-2026-05-29,15,"May 29, 2026",Chattogram,8,K.P.P 01,"1,353",Tanker,Arrived May 17,2026-05-29_gms-week-22-deal-struck-doors-shut_ship-recycling-market-insight-week-2_70ab9371c0b1.pdf
-2026-06-12,15,"June 12, 2026",Alang,1,Sohar LNG,"33,003",LNG Carrier,Delivered June 10,2026-06-13_athenian-shipbrokers-s-a-demolition-quick-update-week-23-2026_ship-recycling-market-insight-week-2_416dd50ae58c.pdf
-2026-06-12,15,"June 12, 2026",Alang,2,Stolt Innovation,"12,940",Chemical Tanker,Arrived June 10,2026-06-13_athenian-shipbrokers-s-a-demolition-quick-update-week-23-2026_ship-recycling-market-insight-week-2_416dd50ae58c.pdf
-2026-06-12,15,"June 12, 2026",Alang,3,Grouse Arrow,"11,059",General Cargo,Arrived June 10,2026-06-13_athenian-shipbrokers-s-a-demolition-quick-update-week-23-2026_ship-recycling-market-insight-week-2_416dd50ae58c.pdf
-2026-06-12,15,"June 12, 2026",Alang,4,Gala,"6,378",RoRo,Arrived June 10,2026-06-13_athenian-shipbrokers-s-a-demolition-quick-update-week-23-2026_ship-recycling-market-insight-week-2_416dd50ae58c.pdf
-2026-06-12,15,"June 12, 2026",Alang,5,Timon,"27,063",Container,Arrived June 09,2026-06-13_athenian-shipbrokers-s-a-demolition-quick-update-week-23-2026_ship-recycling-market-insight-week-2_416dd50ae58c.pdf
-2026-06-12,15,"June 12, 2026",Chattogram,1,Dong,"2,372",General Cargo,Delivered June 12,2026-06-13_athenian-shipbrokers-s-a-demolition-quick-update-week-23-2026_ship-recycling-market-insight-week-2_416dd50ae58c.pdf
-2026-06-12,15,"June 12, 2026",Chattogram,2,Gas Crusader,"1,526",Tanker,Arrived June 10,2026-06-13_athenian-shipbrokers-s-a-demolition-quick-update-week-23-2026_ship-recycling-market-insight-week-2_416dd50ae58c.pdf
-2026-06-12,15,"June 12, 2026",Chattogram,3,Kanishka,"10,026",Bulk Carrier,Arrived June 09,2026-06-13_athenian-shipbrokers-s-a-demolition-quick-update-week-23-2026_ship-recycling-market-insight-week-2_416dd50ae58c.pdf
-2026-06-12,15,"June 12, 2026",Chattogram,4,Maymei,"9,728",Chemical Tanker,Revert,2026-06-13_athenian-shipbrokers-s-a-demolition-quick-update-week-23-2026_ship-recycling-market-insight-week-2_416dd50ae58c.pdf
-2026-06-12,15,"June 12, 2026",Gadani,1,Ron,"21,502",Bulk Carrier,Arrived June 01,2026-06-13_athenian-shipbrokers-s-a-demolition-quick-update-week-23-2026_ship-recycling-market-insight-week-2_416dd50ae58c.pdf
-2026-06-19,18,"June 19, 2026",Alang,1,Mary,"10,509",Passenger,Arrived June 18,2026-06-20_gms-week-25-peace-signed-rains-reign_ship-recycling-market-insight-week-2_f013c2d0c178.pdf
-2026-06-19,18,"June 19, 2026",Alang,2,Octans,"41,478",Oil Tanker,Delivered June 17,2026-06-20_gms-week-25-peace-signed-rains-reign_ship-recycling-market-insight-week-2_f013c2d0c178.pdf
-2026-06-19,18,"June 19, 2026",Alang,3,Bigli,"26,652",Container,Delivered June 17,2026-06-20_gms-week-25-peace-signed-rains-reign_ship-recycling-market-insight-week-2_f013c2d0c178.pdf
-2026-06-19,18,"June 19, 2026",Alang,4,Timon,"27,063",Container,Delivered June 14,2026-06-20_gms-week-25-peace-signed-rains-reign_ship-recycling-market-insight-week-2_f013c2d0c178.pdf
-2026-06-19,18,"June 19, 2026",Alang,5,Grouse Arrow,"11,059",General Cargo,Delivered June 14,2026-06-20_gms-week-25-peace-signed-rains-reign_ship-recycling-market-insight-week-2_f013c2d0c178.pdf
-2026-06-19,18,"June 19, 2026",Alang,6,Stolt Innovation,"12,940",Chemical Tanker,Delivered June 13,2026-06-20_gms-week-25-peace-signed-rains-reign_ship-recycling-market-insight-week-2_f013c2d0c178.pdf
-2026-06-19,18,"June 19, 2026",Alang,7,Gala,"6,378",RoRo,Arrived June 10,2026-06-20_gms-week-25-peace-signed-rains-reign_ship-recycling-market-insight-week-2_f013c2d0c178.pdf
-2026-06-19,18,"June 19, 2026",Chattogram,1,Mai 1,"1,844",Tanker,Arrived June 18,2026-06-20_gms-week-25-peace-signed-rains-reign_ship-recycling-market-insight-week-2_f013c2d0c178.pdf
-2026-06-19,18,"June 19, 2026",Chattogram,2,Xin Hai 18,"1,543",General Cargo,Arrived June 17,2026-06-20_gms-week-25-peace-signed-rains-reign_ship-recycling-market-insight-week-2_f013c2d0c178.pdf
-2026-06-19,18,"June 19, 2026",Chattogram,3,Gas Crusader,"1,526",Tanker,Delivered June 16,2026-06-20_gms-week-25-peace-signed-rains-reign_ship-recycling-market-insight-week-2_f013c2d0c178.pdf
-2026-06-19,18,"June 19, 2026",Chattogram,4,Kanishka,"10,026",Bulk Carrier,Delivered June 14,2026-06-20_gms-week-25-peace-signed-rains-reign_ship-recycling-market-insight-week-2_f013c2d0c178.pdf
-2026-06-19,18,"June 19, 2026",Gadani,1,Ron,"21,502",Bulk Carrier,Delivered June 12,2026-06-20_gms-week-25-peace-signed-rains-reign_ship-recycling-market-insight-week-2_f013c2d0c178.pdf
+2026-04-17,16,"April 17, 2026",Alang,1,Stolt Cedar,"11,436",Chemical Tanker,Delivered April 16,2026-04-17_gms-week-16-ceasefire-extended-not-resolved_ship-recycling-market-insight-week-1_c1d5d1a9c6c2.pdf
+2026-04-17,16,"April 17, 2026",Alang,2,Stolt Sea,"8,074",Chemical Tanker,Delivered April 16,2026-04-17_gms-week-16-ceasefire-extended-not-resolved_ship-recycling-market-insight-week-1_c1d5d1a9c6c2.pdf
+2026-04-17,16,"April 17, 2026",Alang,3,Agulhas,"4,316",Research,Delivered April 16,2026-04-17_gms-week-16-ceasefire-extended-not-resolved_ship-recycling-market-insight-week-1_c1d5d1a9c6c2.pdf
+2026-04-17,16,"April 17, 2026",Alang,4,FIR 212,730,Yatch,Delivered April 09,2026-04-17_gms-week-16-ceasefire-extended-not-resolved_ship-recycling-market-insight-week-1_c1d5d1a9c6c2.pdf
+2026-04-17,16,"April 17, 2026",Chattogram,1,CAN (D/VSL),"48,125",Barge,Arrived April 16,2026-04-17_gms-week-16-ceasefire-extended-not-resolved_ship-recycling-market-insight-week-1_c1d5d1a9c6c2.pdf
+2026-04-17,16,"April 17, 2026",Chattogram,2,Yu-Ying No.2,"1,581",Cadet Training Ship,Delivered April 11,2026-04-17_gms-week-16-ceasefire-extended-not-resolved_ship-recycling-market-insight-week-1_c1d5d1a9c6c2.pdf
+2026-04-17,16,"April 17, 2026",Chattogram,2,Isa Golden,"6,257",Bulk Carrier,Arrived April 07,2026-04-17_gms-week-16-ceasefire-extended-not-resolved_ship-recycling-market-insight-week-1_c1d5d1a9c6c2.pdf
+2026-04-24,17,"April 24, 2026",Chattogram,1,Shin Ho Chun No. 102,"2,113",Refrigerate Cargo Ship,Delivered April 23,2026-04-24_gms-week-17-indefinite-not-resolved_ship-recycling-market-insight-week-1_21208f79d9d6.pdf
+2026-04-24,17,"April 24, 2026",Chattogram,2,Ocean Rosemary,"8,783",Bulk Carrier,Arrived April 23,2026-04-24_gms-week-17-indefinite-not-resolved_ship-recycling-market-insight-week-1_21208f79d9d6.pdf
+2026-04-24,17,"April 24, 2026",Chattogram,3,Jiang,"21,238",Bulk Carrier,Arrived April 21,2026-04-24_gms-week-17-indefinite-not-resolved_ship-recycling-market-insight-week-1_21208f79d9d6.pdf
+2026-05-01,18,"May 01, 2026",Alang,1,D/V Andaman,"37,687",Drill Ship,Delivered April 25,2026-05-04_gms-week-18-blockade-becomes-structure_ship-recycling-market-insight-week-1_e1d1c86c257d.pdf
+2026-05-01,18,"May 01, 2026",Alang,2,Mali,"39,388",Oil Tanker,Delivered April 28,2026-05-04_gms-week-18-blockade-becomes-structure_ship-recycling-market-insight-week-1_e1d1c86c257d.pdf
+2026-05-01,18,"May 01, 2026",Alang,3,Tornado,"2,447",General Cargo,Delivered April 30,2026-05-04_gms-week-18-blockade-becomes-structure_ship-recycling-market-insight-week-1_e1d1c86c257d.pdf
+2026-05-01,18,"May 01, 2026",Chattogram,1,Jiang,"21,238",Bulk Carrier,Arrived April 21,2026-05-04_gms-week-18-blockade-becomes-structure_ship-recycling-market-insight-week-1_e1d1c86c257d.pdf
+2026-05-01,18,"May 01, 2026",Chattogram,2,Shin Ho Chun No. 102,"2,113",Refrigerate Cargo Ship,Delivered April 23,2026-05-04_gms-week-18-blockade-becomes-structure_ship-recycling-market-insight-week-1_e1d1c86c257d.pdf
+2026-05-01,18,"May 01, 2026",Chattogram,3,Festival,"6,993",Bulk Carrier,Arrived April 25,2026-05-04_gms-week-18-blockade-becomes-structure_ship-recycling-market-insight-week-1_e1d1c86c257d.pdf
+2026-05-01,18,"May 01, 2026",Chattogram,4,Spruce,"2,217",Container,Arrived April 27,2026-05-04_gms-week-18-blockade-becomes-structure_ship-recycling-market-insight-week-1_e1d1c86c257d.pdf
+2026-05-01,18,"May 01, 2026",Chattogram,5,Ocean Rosemary,"8,783",Bulk Carrier,Delivered April 30,2026-05-04_gms-week-18-blockade-becomes-structure_ship-recycling-market-insight-week-1_e1d1c86c257d.pdf
+2026-05-01,18,"May 01, 2026",Chattogram,6,BGP Pioneer,"3,085",Research Survey Vessel,Arrived May 01,2026-05-04_gms-week-18-blockade-becomes-structure_ship-recycling-market-insight-week-1_e1d1c86c257d.pdf
+2026-05-01,18,"May 01, 2026",Gadani,1,Xiong Hai,"1,659",Tanker,Arrived April 24,2026-05-04_gms-week-18-blockade-becomes-structure_ship-recycling-market-insight-week-1_e1d1c86c257d.pdf
+2026-05-08,19,"May 08, 2026",Chattogram,1,Jiang,"21,238",Bulk Carrier,Delivered May 01,2026-05-09_gms-week-19-brent-breaks-backlog-holds_ship-recycling-market-insight-week-1_90c2449fbf42.pdf
+2026-05-08,19,"May 08, 2026",Chattogram,2,Festival,"6,993",Bulk Carrier,Delivered May 04,2026-05-09_gms-week-19-brent-breaks-backlog-holds_ship-recycling-market-insight-week-1_90c2449fbf42.pdf
+2026-05-08,19,"May 08, 2026",Chattogram,3,Spruce,"2,217",Container,Delivered May 04,2026-05-09_gms-week-19-brent-breaks-backlog-holds_ship-recycling-market-insight-week-1_90c2449fbf42.pdf
+2026-05-08,19,"May 08, 2026",Chattogram,4,BGP Pioneer,"3,085",Research Survey Vessel,Delivered May 06,2026-05-09_gms-week-19-brent-breaks-backlog-holds_ship-recycling-market-insight-week-1_90c2449fbf42.pdf
+2026-05-08,19,"May 08, 2026",Chattogram,5,Jian Jie,"1,808",Tanker,Arrived May 06,2026-05-09_gms-week-19-brent-breaks-backlog-holds_ship-recycling-market-insight-week-1_90c2449fbf42.pdf
+2026-05-08,19,"May 08, 2026",Chattogram,6,Ace 1,"5,757",Other,Delivered May 07,2026-05-09_gms-week-19-brent-breaks-backlog-holds_ship-recycling-market-insight-week-1_90c2449fbf42.pdf
+2026-05-15,20,"May 15, 2026",Chattogram,1,Amazing,"7,075",Bulk Carrier,Arrived May 14,2026-05-15_1133818-2_ship-recycling-market-insight-week-2_3bc754a179c0.pdf
+2026-05-15,20,"May 15, 2026",Chattogram,2,Energia,"19,899",Bulk Carrier,Arrived May 14,2026-05-15_1133818-2_ship-recycling-market-insight-week-2_3bc754a179c0.pdf
+2026-05-15,20,"May 15, 2026",Chattogram,3,Speed,"10,348",Wood Chip Cargo,Arrived May 14,2026-05-15_1133818-2_ship-recycling-market-insight-week-2_3bc754a179c0.pdf
+2026-05-15,20,"May 15, 2026",Chattogram,4,Gion Maru No. 8,485,Cement Carrier,Arrived May 11,2026-05-15_1133818-2_ship-recycling-market-insight-week-2_3bc754a179c0.pdf
+2026-05-15,20,"May 15, 2026",Chattogram,5,Frontier,"4,241",Ro-Ro Cargo,Arrived May 11,2026-05-15_1133818-2_ship-recycling-market-insight-week-2_3bc754a179c0.pdf
+2026-05-15,20,"May 15, 2026",Chattogram,6,Jian Jie,"1,808",Tanker,Arrived May 06,2026-05-15_1133818-2_ship-recycling-market-insight-week-2_3bc754a179c0.pdf
+2026-05-15,20,"May 15, 2026",Gadani,1,Xiong Hai,"1,659",Tanker,Delivered May 07,2026-05-15_1133818-2_ship-recycling-market-insight-week-2_3bc754a179c0.pdf
+2026-05-22,21,"May 22, 2026",Chattogram,1,Jyang,"4,192",Heavy Load Carrier,Delivered May 22,2026-05-25_gms-week-21-passage-opens-window-closes_ship-recycling-market-insight-week-2_8c4f9e84fb65.pdf
+2026-05-22,21,"May 22, 2026",Chattogram,2,Wantong Summer,"8,196",Bulk Carrier,Delivered May 21,2026-05-25_gms-week-21-passage-opens-window-closes_ship-recycling-market-insight-week-2_8c4f9e84fb65.pdf
+2026-05-22,21,"May 22, 2026",Chattogram,3,Hun,"7,822",Wood Chip Cargo,Delivered May 20,2026-05-25_gms-week-21-passage-opens-window-closes_ship-recycling-market-insight-week-2_8c4f9e84fb65.pdf
+2026-05-22,21,"May 22, 2026",Chattogram,4,Hun 1,"4,997",Wood Chip Cargo,Delivered May 20,2026-05-25_gms-week-21-passage-opens-window-closes_ship-recycling-market-insight-week-2_8c4f9e84fb65.pdf
+2026-05-22,21,"May 22, 2026",Chattogram,5,Amazing,"7,075",Bulk Carrier,Delivered May 20,2026-05-25_gms-week-21-passage-opens-window-closes_ship-recycling-market-insight-week-2_8c4f9e84fb65.pdf
+2026-05-22,21,"May 22, 2026",Chattogram,6,Jian Jie,"1,808",Tanker,Delivered May 20,2026-05-25_gms-week-21-passage-opens-window-closes_ship-recycling-market-insight-week-2_8c4f9e84fb65.pdf
+2026-05-22,21,"May 22, 2026",Chattogram,7,Energia,"19,899",Bulk Carrier,Arrived May 14,2026-05-25_gms-week-21-passage-opens-window-closes_ship-recycling-market-insight-week-2_8c4f9e84fb65.pdf
+2026-05-22,21,"May 22, 2026",Chattogram,8,Speed,"10,348",Wood Chip Cargo,Arrived May 14,2026-05-25_gms-week-21-passage-opens-window-closes_ship-recycling-market-insight-week-2_8c4f9e84fb65.pdf
+2026-05-22,21,"May 22, 2026",Chattogram,9,Gion Maru No. 8,485,Cement Carrier,Arrived May 11,2026-05-25_gms-week-21-passage-opens-window-closes_ship-recycling-market-insight-week-2_8c4f9e84fb65.pdf
+2026-05-22,21,"May 22, 2026",Chattogram,10,Frontier,"4,241",Ro-Ro Cargo,Arrived May 11,2026-05-25_gms-week-21-passage-opens-window-closes_ship-recycling-market-insight-week-2_8c4f9e84fb65.pdf
+2026-05-29,22,"May 29, 2026",Chattogram,1,Kokopo Chief,"5,889",Container,Arrived May 26,2026-05-29_gms-week-22-deal-struck-doors-shut_ship-recycling-market-insight-week-2_70ab9371c0b1.pdf
+2026-05-29,22,"May 29, 2026",Chattogram,2,Maymei,"9,728",Chemical Tanker,Arrived May 25,2026-05-29_gms-week-22-deal-struck-doors-shut_ship-recycling-market-insight-week-2_70ab9371c0b1.pdf
+2026-05-29,22,"May 29, 2026",Chattogram,3,Oriental Dragon,813,Cargo,Delivered May 22,2026-05-29_gms-week-22-deal-struck-doors-shut_ship-recycling-market-insight-week-2_70ab9371c0b1.pdf
+2026-05-29,22,"May 29, 2026",Chattogram,4,Speed,"10,348",Wood Chip Cargo,Delivered May 19,2026-05-29_gms-week-22-deal-struck-doors-shut_ship-recycling-market-insight-week-2_70ab9371c0b1.pdf
+2026-05-29,22,"May 29, 2026",Chattogram,5,Energia,"19,899",Bulk Carrier,Delivered May 18,2026-05-29_gms-week-22-deal-struck-doors-shut_ship-recycling-market-insight-week-2_70ab9371c0b1.pdf
+2026-05-29,22,"May 29, 2026",Chattogram,6,Gion Maru No. 8,485,Cement Carrier,Delivered May 18,2026-05-29_gms-week-22-deal-struck-doors-shut_ship-recycling-market-insight-week-2_70ab9371c0b1.pdf
+2026-05-29,22,"May 29, 2026",Chattogram,7,Frontier,"4,241",Ro-Ro Cargo,Delivered May 18,2026-05-29_gms-week-22-deal-struck-doors-shut_ship-recycling-market-insight-week-2_70ab9371c0b1.pdf
+2026-05-29,22,"May 29, 2026",Chattogram,8,K.P.P 01,"1,353",Tanker,Arrived May 17,2026-05-29_gms-week-22-deal-struck-doors-shut_ship-recycling-market-insight-week-2_70ab9371c0b1.pdf
+2026-06-12,24,"June 12, 2026",Alang,1,Sohar LNG,"33,003",LNG Carrier,Delivered June 10,2026-06-13_gms-week-24-premium-cracks-pen-hovers_ship-recycling-market-insight-week-2_416dd50ae58c.pdf
+2026-06-12,24,"June 12, 2026",Alang,2,Stolt Innovation,"12,940",Chemical Tanker,Arrived June 10,2026-06-13_gms-week-24-premium-cracks-pen-hovers_ship-recycling-market-insight-week-2_416dd50ae58c.pdf
+2026-06-12,24,"June 12, 2026",Alang,3,Grouse Arrow,"11,059",General Cargo,Arrived June 10,2026-06-13_gms-week-24-premium-cracks-pen-hovers_ship-recycling-market-insight-week-2_416dd50ae58c.pdf
+2026-06-12,24,"June 12, 2026",Alang,4,Gala,"6,378",RoRo,Arrived June 10,2026-06-13_gms-week-24-premium-cracks-pen-hovers_ship-recycling-market-insight-week-2_416dd50ae58c.pdf
+2026-06-12,24,"June 12, 2026",Alang,5,Timon,"27,063",Container,Arrived June 09,2026-06-13_gms-week-24-premium-cracks-pen-hovers_ship-recycling-market-insight-week-2_416dd50ae58c.pdf
+2026-06-12,24,"June 12, 2026",Chattogram,1,Dong,"2,372",General Cargo,Delivered June 12,2026-06-13_gms-week-24-premium-cracks-pen-hovers_ship-recycling-market-insight-week-2_416dd50ae58c.pdf
+2026-06-12,24,"June 12, 2026",Chattogram,2,Gas Crusader,"1,526",Tanker,Arrived June 10,2026-06-13_gms-week-24-premium-cracks-pen-hovers_ship-recycling-market-insight-week-2_416dd50ae58c.pdf
+2026-06-12,24,"June 12, 2026",Chattogram,3,Kanishka,"10,026",Bulk Carrier,Arrived June 09,2026-06-13_gms-week-24-premium-cracks-pen-hovers_ship-recycling-market-insight-week-2_416dd50ae58c.pdf
+2026-06-12,24,"June 12, 2026",Chattogram,4,Maymei,"9,728",Chemical Tanker,Revert,2026-06-13_gms-week-24-premium-cracks-pen-hovers_ship-recycling-market-insight-week-2_416dd50ae58c.pdf
+2026-06-12,24,"June 12, 2026",Gadani,1,Ron,"21,502",Bulk Carrier,Arrived June 01,2026-06-13_gms-week-24-premium-cracks-pen-hovers_ship-recycling-market-insight-week-2_416dd50ae58c.pdf
+2026-06-19,25,"June 19, 2026",Alang,1,Mary,"10,509",Passenger,Arrived June 18,2026-06-20_gms-week-25-peace-signed-rains-reign_ship-recycling-market-insight-week-2_f013c2d0c178.pdf
+2026-06-19,25,"June 19, 2026",Alang,2,Octans,"41,478",Oil Tanker,Delivered June 17,2026-06-20_gms-week-25-peace-signed-rains-reign_ship-recycling-market-insight-week-2_f013c2d0c178.pdf
+2026-06-19,25,"June 19, 2026",Alang,3,Bigli,"26,652",Container,Delivered June 17,2026-06-20_gms-week-25-peace-signed-rains-reign_ship-recycling-market-insight-week-2_f013c2d0c178.pdf
+2026-06-19,25,"June 19, 2026",Alang,4,Timon,"27,063",Container,Delivered June 14,2026-06-20_gms-week-25-peace-signed-rains-reign_ship-recycling-market-insight-week-2_f013c2d0c178.pdf
+2026-06-19,25,"June 19, 2026",Alang,5,Grouse Arrow,"11,059",General Cargo,Delivered June 14,2026-06-20_gms-week-25-peace-signed-rains-reign_ship-recycling-market-insight-week-2_f013c2d0c178.pdf
+2026-06-19,25,"June 19, 2026",Alang,6,Stolt Innovation,"12,940",Chemical Tanker,Delivered June 13,2026-06-20_gms-week-25-peace-signed-rains-reign_ship-recycling-market-insight-week-2_f013c2d0c178.pdf
+2026-06-19,25,"June 19, 2026",Alang,7,Gala,"6,378",RoRo,Arrived June 10,2026-06-20_gms-week-25-peace-signed-rains-reign_ship-recycling-market-insight-week-2_f013c2d0c178.pdf
+2026-06-19,25,"June 19, 2026",Chattogram,1,Mai 1,"1,844",Tanker,Arrived June 18,2026-06-20_gms-week-25-peace-signed-rains-reign_ship-recycling-market-insight-week-2_f013c2d0c178.pdf
+2026-06-19,25,"June 19, 2026",Chattogram,2,Xin Hai 18,"1,543",General Cargo,Arrived June 17,2026-06-20_gms-week-25-peace-signed-rains-reign_ship-recycling-market-insight-week-2_f013c2d0c178.pdf
+2026-06-19,25,"June 19, 2026",Chattogram,3,Gas Crusader,"1,526",Tanker,Delivered June 16,2026-06-20_gms-week-25-peace-signed-rains-reign_ship-recycling-market-insight-week-2_f013c2d0c178.pdf
+2026-06-19,25,"June 19, 2026",Chattogram,4,Kanishka,"10,026",Bulk Carrier,Delivered June 14,2026-06-20_gms-week-25-peace-signed-rains-reign_ship-recycling-market-insight-week-2_f013c2d0c178.pdf
+2026-06-19,25,"June 19, 2026",Gadani,1,Ron,"21,502",Bulk Carrier,Delivered June 12,2026-06-20_gms-week-25-peace-signed-rains-reign_ship-recycling-market-insight-week-2_f013c2d0c178.pdf
 2026-06-26,26,"June 26, 2026",Chattogram,1,Thane,"10,160",Wood Chip Carrier,Arrived June 25,2026-06-27_gms-week-26-traffic-doubles-yards-wait_ship-recycling-market-insight-week-2_09729fff783c.pdf
 2026-06-26,26,"June 26, 2026",Chattogram,2,Zamrud,"28,858",LNG Gas Carrier,Arrived June 25,2026-06-27_gms-week-26-traffic-doubles-yards-wait_ship-recycling-market-insight-week-2_09729fff783c.pdf
 2026-06-26,26,"June 26, 2026",Chattogram,3,ERGY,"31,341",LNG Tanker,Arrived June 23,2026-06-27_gms-week-26-traffic-doubles-yards-wait_ship-recycling-market-insight-week-2_09729fff783c.pdf
@@ -2875,37 +2956,37 @@ issue_date,report_week,as_of_date,port,item_no,vessel_name,ldt,vessel_type,statu
 2026-09-11,37,"September 11, 2026",Gadani,4,Lyra,"4,990",Tanker,Delivered September 04,2026-09-12_gms-week-37-routes-tighten-bids-rise_Ship-recycling-market-insight-Week-37-09-11-2026-Routes-Tighten-Bids-Rise.pdf
 2026-09-11,37,"September 11, 2026",Gadani,5,Lina F,"5,688",Bulk Carrier,Arrived September 01,2026-09-12_gms-week-37-routes-tighten-bids-rise_Ship-recycling-market-insight-Week-37-09-11-2026-Routes-Tighten-Bids-Rise.pdf
 2026-09-11,37,"September 11, 2026",Gadani,6,Larus,"2,632",General Cargo,Arrived August 27,2026-09-12_gms-week-37-routes-tighten-bids-rise_Ship-recycling-market-insight-Week-37-09-11-2026-Routes-Tighten-Bids-Rise.pdf
-2026-09-18,38,"September 18, 2026",Alang,1,James,"22,657",Oil Tanker,Delivered September 16,2026-09-19_gms-week-38-freight-pays-beaches-wait_Ship-recycling-market-insight-Week-38-09-18-2026-Freight-Pays-Beaches-Wait.pdf
-2026-09-18,38,"September 18, 2026",Alang,2,Novaya  Zemlya,"8,110",Bulk Carrier,Arrived September 16,2026-09-19_gms-week-38-freight-pays-beaches-wait_Ship-recycling-market-insight-Week-38-09-18-2026-Freight-Pays-Beaches-Wait.pdf
-2026-09-18,38,"September 18, 2026",Alang,3,Mandarin Arrow,"14,825",General Cargo,Delivered September 12,2026-09-19_gms-week-38-freight-pays-beaches-wait_Ship-recycling-market-insight-Week-38-09-18-2026-Freight-Pays-Beaches-Wait.pdf
-2026-09-18,38,"September 18, 2026",Alang,4,Frio Hellenic,"6,520",Reefer,Arrived September 12,2026-09-19_gms-week-38-freight-pays-beaches-wait_Ship-recycling-market-insight-Week-38-09-18-2026-Freight-Pays-Beaches-Wait.pdf
-2026-09-18,38,"September 18, 2026",Chattogram,1,Xiang Rui,"1,304",Refrigerated Cargo,Arrived September 17,2026-09-19_gms-week-38-freight-pays-beaches-wait_Ship-recycling-market-insight-Week-38-09-18-2026-Freight-Pays-Beaches-Wait.pdf
-2026-09-18,38,"September 18, 2026",Chattogram,2,NEPT,"3,060",Refrigerated Cargo,Arrived September 17,2026-09-19_gms-week-38-freight-pays-beaches-wait_Ship-recycling-market-insight-Week-38-09-18-2026-Freight-Pays-Beaches-Wait.pdf
-2026-09-18,38,"September 18, 2026",Chattogram,3,Ganga Hai 666,"5,733",Bulk Carrier,Arrived September 17,2026-09-19_gms-week-38-freight-pays-beaches-wait_Ship-recycling-market-insight-Week-38-09-18-2026-Freight-Pays-Beaches-Wait.pdf
-2026-09-18,38,"September 18, 2026",Chattogram,4,Forever,"16,708",Tanker,Arrived September 15,2026-09-19_gms-week-38-freight-pays-beaches-wait_Ship-recycling-market-insight-Week-38-09-18-2026-Freight-Pays-Beaches-Wait.pdf
-2026-09-18,38,"September 18, 2026",Chattogram,5,Dina Ocean,"5,602",Bulk Carrier,Delivered September 14,2026-09-19_gms-week-38-freight-pays-beaches-wait_Ship-recycling-market-insight-Week-38-09-18-2026-Freight-Pays-Beaches-Wait.pdf
-2026-09-18,38,"September 18, 2026",Chattogram,6,Leo Star,"1,961",Tanker,Delivered September 11,2026-09-19_gms-week-38-freight-pays-beaches-wait_Ship-recycling-market-insight-Week-38-09-18-2026-Freight-Pays-Beaches-Wait.pdf
-2026-09-18,38,"September 18, 2026",Gadani,1,Yue,"11,060",Tanker,Arrived September 16,2026-09-19_gms-week-38-freight-pays-beaches-wait_Ship-recycling-market-insight-Week-38-09-18-2026-Freight-Pays-Beaches-Wait.pdf
-2026-09-18,38,"September 18, 2026",Gadani,2,Spring,"2,449",Bulk Carrier,Delivered September 16,2026-09-19_gms-week-38-freight-pays-beaches-wait_Ship-recycling-market-insight-Week-38-09-18-2026-Freight-Pays-Beaches-Wait.pdf
-2026-09-18,38,"September 18, 2026",Gadani,3,BR Glory,"5,000",Bulk Carrier,Delivered September 13,2026-09-19_gms-week-38-freight-pays-beaches-wait_Ship-recycling-market-insight-Week-38-09-18-2026-Freight-Pays-Beaches-Wait.pdf
-2026-09-18,38,"September 18, 2026",Gadani,4,Larus,"2,632",General Cargo,Delivered September 13,2026-09-19_gms-week-38-freight-pays-beaches-wait_Ship-recycling-market-insight-Week-38-09-18-2026-Freight-Pays-Beaches-Wait.pdf
-2026-09-18,38,"September 18, 2026",Gadani,5,Maria,"6,141",Bulk Carrier,Arrived September 09,2026-09-19_gms-week-38-freight-pays-beaches-wait_Ship-recycling-market-insight-Week-38-09-18-2026-Freight-Pays-Beaches-Wait.pdf
-2026-09-18,38,"September 18, 2026",Gadani,6,Lina F,"5,688",Bulk Carrier,Arrived September 01,2026-09-19_gms-week-38-freight-pays-beaches-wait_Ship-recycling-market-insight-Week-38-09-18-2026-Freight-Pays-Beaches-Wait.pdf
-2026-09-25,38,"September 25, 2026",Alang,1,Frio Hellenic,"6,520",Reefer,Delivered September 19,2026-09-26_gms-week-39-earnings-roar-supply-retreat_Ship-recycling-market-insight-Week-39-09-25-2026-Rates-Soar-Hulls-Stay.pdf
-2026-09-25,38,"September 25, 2026",Alang,2,Novaya  Zemlya,"8,110",Bulk Carrier,Arrived September 16,2026-09-26_gms-week-39-earnings-roar-supply-retreat_Ship-recycling-market-insight-Week-39-09-25-2026-Rates-Soar-Hulls-Stay.pdf
-2026-09-25,38,"September 25, 2026",Chattogram,1,Cury,"3,822",Refrigerated Cargo,Delivered September 25,2026-09-26_gms-week-39-earnings-roar-supply-retreat_Ship-recycling-market-insight-Week-39-09-25-2026-Rates-Soar-Hulls-Stay.pdf
-2026-09-25,38,"September 25, 2026",Chattogram,2,Xiang Rui,"1,304",Refrigerated Cargo,Delivered September 25,2026-09-26_gms-week-39-earnings-roar-supply-retreat_Ship-recycling-market-insight-Week-39-09-25-2026-Rates-Soar-Hulls-Stay.pdf
-2026-09-25,38,"September 25, 2026",Chattogram,3,Ganga Hai 666,"5,733",Bulk Carrier,Delivered September 25,2026-09-26_gms-week-39-earnings-roar-supply-retreat_Ship-recycling-market-insight-Week-39-09-25-2026-Rates-Soar-Hulls-Stay.pdf
-2026-09-25,38,"September 25, 2026",Chattogram,4,Mutiara,"28,773",Gas Carrier,Arrived September 21,2026-09-26_gms-week-39-earnings-roar-supply-retreat_Ship-recycling-market-insight-Week-39-09-25-2026-Rates-Soar-Hulls-Stay.pdf
-2026-09-25,38,"September 25, 2026",Chattogram,5,Fei,"11,078",Tanker,Arrived September 20,2026-09-26_gms-week-39-earnings-roar-supply-retreat_Ship-recycling-market-insight-Week-39-09-25-2026-Rates-Soar-Hulls-Stay.pdf
-2026-09-25,38,"September 25, 2026",Chattogram,6,Kushiro,"1,040",General Cargo,Arrived September 18,2026-09-26_gms-week-39-earnings-roar-supply-retreat_Ship-recycling-market-insight-Week-39-09-25-2026-Rates-Soar-Hulls-Stay.pdf
-2026-09-25,38,"September 25, 2026",Chattogram,7,NEPT,"3,060",Refrigerated Cargo,Arrived September 17,2026-09-26_gms-week-39-earnings-roar-supply-retreat_Ship-recycling-market-insight-Week-39-09-25-2026-Rates-Soar-Hulls-Stay.pdf
-2026-09-25,38,"September 25, 2026",Chattogram,8,Forever,"16,708",Tanker,Arrived September 15,2026-09-26_gms-week-39-earnings-roar-supply-retreat_Ship-recycling-market-insight-Week-39-09-25-2026-Rates-Soar-Hulls-Stay.pdf
-2026-09-25,38,"September 25, 2026",Gadani,1,Maria,"6,141",Bulk Carrier,Delivered September 19,2026-09-26_gms-week-39-earnings-roar-supply-retreat_Ship-recycling-market-insight-Week-39-09-25-2026-Rates-Soar-Hulls-Stay.pdf
-2026-09-25,38,"September 25, 2026",Gadani,2,Yue,"11,060",Tanker,Arrived September 16,2026-09-26_gms-week-39-earnings-roar-supply-retreat_Ship-recycling-market-insight-Week-39-09-25-2026-Rates-Soar-Hulls-Stay.pdf
-2026-09-25,38,"September 25, 2026",Gadani,3,Lina F,"5,688",Bulk Carrier,Arrived September 01,2026-09-26_gms-week-39-earnings-roar-supply-retreat_Ship-recycling-market-insight-Week-39-09-25-2026-Rates-Soar-Hulls-Stay.pdf
+2026-09-18,38,"September 18, 2026",Alang,1,James,"22,657",Oil Tanker,Delivered September 16,2026-09-19_gms-week-38-freight-pays-beaches-wait_ship-recycling-market-insight-week-3_41d1c9d5625a.pdf
+2026-09-18,38,"September 18, 2026",Alang,2,Novaya Zemlya,"8,110",Bulk Carrier,Arrived September 16,2026-09-19_gms-week-38-freight-pays-beaches-wait_ship-recycling-market-insight-week-3_41d1c9d5625a.pdf
+2026-09-18,38,"September 18, 2026",Alang,3,Mandarin Arrow,"14,825",General Cargo,Delivered September 12,2026-09-19_gms-week-38-freight-pays-beaches-wait_ship-recycling-market-insight-week-3_41d1c9d5625a.pdf
+2026-09-18,38,"September 18, 2026",Alang,4,Frio Hellenic,"6,520",Reefer,Arrived September 12,2026-09-19_gms-week-38-freight-pays-beaches-wait_ship-recycling-market-insight-week-3_41d1c9d5625a.pdf
+2026-09-18,38,"September 18, 2026",Chattogram,1,Xiang Rui,"1,304",Refrigerated Cargo,Arrived September 17,2026-09-19_gms-week-38-freight-pays-beaches-wait_ship-recycling-market-insight-week-3_41d1c9d5625a.pdf
+2026-09-18,38,"September 18, 2026",Chattogram,2,NEPT,"3,060",Refrigerated Cargo,Arrived September 17,2026-09-19_gms-week-38-freight-pays-beaches-wait_ship-recycling-market-insight-week-3_41d1c9d5625a.pdf
+2026-09-18,38,"September 18, 2026",Chattogram,3,Ganga Hai 666,"5,733",Bulk Carrier,Arrived September 17,2026-09-19_gms-week-38-freight-pays-beaches-wait_ship-recycling-market-insight-week-3_41d1c9d5625a.pdf
+2026-09-18,38,"September 18, 2026",Chattogram,4,Forever,"16,708",Tanker,Arrived September 15,2026-09-19_gms-week-38-freight-pays-beaches-wait_ship-recycling-market-insight-week-3_41d1c9d5625a.pdf
+2026-09-18,38,"September 18, 2026",Chattogram,5,Dina Ocean,"5,602",Bulk Carrier,Delivered September 14,2026-09-19_gms-week-38-freight-pays-beaches-wait_ship-recycling-market-insight-week-3_41d1c9d5625a.pdf
+2026-09-18,38,"September 18, 2026",Chattogram,6,Leo Star,"1,961",Tanker,Delivered September 11,2026-09-19_gms-week-38-freight-pays-beaches-wait_ship-recycling-market-insight-week-3_41d1c9d5625a.pdf
+2026-09-18,38,"September 18, 2026",Gadani,1,Yue,"11,060",Tanker,Arrived September 16,2026-09-19_gms-week-38-freight-pays-beaches-wait_ship-recycling-market-insight-week-3_41d1c9d5625a.pdf
+2026-09-18,38,"September 18, 2026",Gadani,2,Spring,"2,449",Bulk Carrier,Delivered September 16,2026-09-19_gms-week-38-freight-pays-beaches-wait_ship-recycling-market-insight-week-3_41d1c9d5625a.pdf
+2026-09-18,38,"September 18, 2026",Gadani,3,BR Glory,"5,000",Bulk Carrier,Delivered September 13,2026-09-19_gms-week-38-freight-pays-beaches-wait_ship-recycling-market-insight-week-3_41d1c9d5625a.pdf
+2026-09-18,38,"September 18, 2026",Gadani,4,Larus,"2,632",General Cargo,Delivered September 13,2026-09-19_gms-week-38-freight-pays-beaches-wait_ship-recycling-market-insight-week-3_41d1c9d5625a.pdf
+2026-09-18,38,"September 18, 2026",Gadani,5,Maria,"6,141",Bulk Carrier,Arrived September 09,2026-09-19_gms-week-38-freight-pays-beaches-wait_ship-recycling-market-insight-week-3_41d1c9d5625a.pdf
+2026-09-18,38,"September 18, 2026",Gadani,6,Lina F,"5,688",Bulk Carrier,Arrived September 01,2026-09-19_gms-week-38-freight-pays-beaches-wait_ship-recycling-market-insight-week-3_41d1c9d5625a.pdf
+2026-09-25,39,"September 25, 2026",Alang,1,Frio Hellenic,"6,520",Reefer,Delivered September 19,2026-09-26_gms-week-39-earnings-roar-supply-retreat_Ship-recycling-market-insight-Week-39-09-25-2026-Rates-Soar-Hulls-Stay.pdf
+2026-09-25,39,"September 25, 2026",Alang,2,Novaya Zemlya,"8,110",Bulk Carrier,Arrived September 16,2026-09-26_gms-week-39-earnings-roar-supply-retreat_Ship-recycling-market-insight-Week-39-09-25-2026-Rates-Soar-Hulls-Stay.pdf
+2026-09-25,39,"September 25, 2026",Chattogram,1,Cury,"3,822",Refrigerated Cargo,Delivered September 25,2026-09-26_gms-week-39-earnings-roar-supply-retreat_Ship-recycling-market-insight-Week-39-09-25-2026-Rates-Soar-Hulls-Stay.pdf
+2026-09-25,39,"September 25, 2026",Chattogram,2,Xiang Rui,"1,304",Refrigerated Cargo,Delivered September 25,2026-09-26_gms-week-39-earnings-roar-supply-retreat_Ship-recycling-market-insight-Week-39-09-25-2026-Rates-Soar-Hulls-Stay.pdf
+2026-09-25,39,"September 25, 2026",Chattogram,3,Ganga Hai 666,"5,733",Bulk Carrier,Delivered September 25,2026-09-26_gms-week-39-earnings-roar-supply-retreat_Ship-recycling-market-insight-Week-39-09-25-2026-Rates-Soar-Hulls-Stay.pdf
+2026-09-25,39,"September 25, 2026",Chattogram,4,Mutiara,"28,773",Gas Carrier,Arrived September 21,2026-09-26_gms-week-39-earnings-roar-supply-retreat_Ship-recycling-market-insight-Week-39-09-25-2026-Rates-Soar-Hulls-Stay.pdf
+2026-09-25,39,"September 25, 2026",Chattogram,5,Fei,"11,078",Tanker,Arrived September 20,2026-09-26_gms-week-39-earnings-roar-supply-retreat_Ship-recycling-market-insight-Week-39-09-25-2026-Rates-Soar-Hulls-Stay.pdf
+2026-09-25,39,"September 25, 2026",Chattogram,6,Kushiro,"1,040",General Cargo,Arrived September 18,2026-09-26_gms-week-39-earnings-roar-supply-retreat_Ship-recycling-market-insight-Week-39-09-25-2026-Rates-Soar-Hulls-Stay.pdf
+2026-09-25,39,"September 25, 2026",Chattogram,7,NEPT,"3,060",Refrigerated Cargo,Arrived September 17,2026-09-26_gms-week-39-earnings-roar-supply-retreat_Ship-recycling-market-insight-Week-39-09-25-2026-Rates-Soar-Hulls-Stay.pdf
+2026-09-25,39,"September 25, 2026",Chattogram,8,Forever,"16,708",Tanker,Arrived September 15,2026-09-26_gms-week-39-earnings-roar-supply-retreat_Ship-recycling-market-insight-Week-39-09-25-2026-Rates-Soar-Hulls-Stay.pdf
+2026-09-25,39,"September 25, 2026",Gadani,1,Maria,"6,141",Bulk Carrier,Delivered September 19,2026-09-26_gms-week-39-earnings-roar-supply-retreat_Ship-recycling-market-insight-Week-39-09-25-2026-Rates-Soar-Hulls-Stay.pdf
+2026-09-25,39,"September 25, 2026",Gadani,2,Yue,"11,060",Tanker,Arrived September 16,2026-09-26_gms-week-39-earnings-roar-supply-retreat_Ship-recycling-market-insight-Week-39-09-25-2026-Rates-Soar-Hulls-Stay.pdf
+2026-09-25,39,"September 25, 2026",Gadani,3,Lina F,"5,688",Bulk Carrier,Arrived September 01,2026-09-26_gms-week-39-earnings-roar-supply-retreat_Ship-recycling-market-insight-Week-39-09-25-2026-Rates-Soar-Hulls-Stay.pdf
 2026-10-02,40,"October 02, 2026",Alang,1,Orion,"28,214",Oil Tanker,Delivered September 27,2026-10-03_gms-week-40-scarcity-puts-chattogram-on-_Ship-recycling-market-insight-Week-40-10-02-2026-Scarcity-Puts-Chattogram-On-Top.pdf
-2026-10-02,40,"October 02, 2026",Alang,2,Novaya  Zemlya,"8,110",Bulk Carrier,Delivered September 24,2026-10-03_gms-week-40-scarcity-puts-chattogram-on-_Ship-recycling-market-insight-Week-40-10-02-2026-Scarcity-Puts-Chattogram-On-Top.pdf
+2026-10-02,40,"October 02, 2026",Alang,2,Novaya Zemlya,"8,110",Bulk Carrier,Delivered September 24,2026-10-03_gms-week-40-scarcity-puts-chattogram-on-_Ship-recycling-market-insight-Week-40-10-02-2026-Scarcity-Puts-Chattogram-On-Top.pdf
 2026-10-02,40,"October 02, 2026",Chattogram,1,SC Discovery XLVI,"2,428",LPG Tanker,Delivered September 30,2026-10-03_gms-week-40-scarcity-puts-chattogram-on-_Ship-recycling-market-insight-Week-40-10-02-2026-Scarcity-Puts-Chattogram-On-Top.pdf
 2026-10-02,40,"October 02, 2026",Chattogram,2,Mutiara,"28,773",Gas Carrier,Delivered September 29,2026-10-03_gms-week-40-scarcity-puts-chattogram-on-_Ship-recycling-market-insight-Week-40-10-02-2026-Scarcity-Puts-Chattogram-On-Top.pdf
 2026-10-02,40,"October 02, 2026",Chattogram,3,NEPT,"3,060",Refrigerated Cargo,Delivered September 29,2026-10-03_gms-week-40-scarcity-puts-chattogram-on-_Ship-recycling-market-insight-Week-40-10-02-2026-Scarcity-Puts-Chattogram-On-Top.pdf
@@ -2920,3 +3001,15 @@ issue_date,report_week,as_of_date,port,item_no,vessel_name,ldt,vessel_type,statu
 2026-10-02,40,"October 02, 2026",Gadani,2,Yue,"11,060",Tanker,Delivered September 25,2026-10-03_gms-week-40-scarcity-puts-chattogram-on-_Ship-recycling-market-insight-Week-40-10-02-2026-Scarcity-Puts-Chattogram-On-Top.pdf
 2026-10-02,40,"October 02, 2026",Gadani,3,Maestro,"5,143",Bulk Carrier,Arrived September 24,2026-10-03_gms-week-40-scarcity-puts-chattogram-on-_Ship-recycling-market-insight-Week-40-10-02-2026-Scarcity-Puts-Chattogram-On-Top.pdf
 2026-10-02,40,"October 02, 2026",Gadani,4,Lina F,"5,688",Bulk Carrier,Arrived September 01,2026-10-03_gms-week-40-scarcity-puts-chattogram-on-_Ship-recycling-market-insight-Week-40-10-02-2026-Scarcity-Puts-Chattogram-On-Top.pdf
+2026-10-09,41,"October 09, 2026",Alang,1,EVS,"1,226",Fishing,Delivered October 09,2026-10-10_gms-week-41-owners-hold-all-the-cards_ship-recycling-market-insight-week-4_4b3a42f129d0.pdf
+2026-10-09,41,"October 09, 2026",Alang,2,Right,"10,068",Oil Tanker,Delivered October 07,2026-10-10_gms-week-41-owners-hold-all-the-cards_ship-recycling-market-insight-week-4_4b3a42f129d0.pdf
+2026-10-09,41,"October 09, 2026",Alang,3,Enisey,"9,886",Bulk Carrier,Delivered October 06,2026-10-10_gms-week-41-owners-hold-all-the-cards_ship-recycling-market-insight-week-4_4b3a42f129d0.pdf
+2026-10-09,41,"October 09, 2026",Chattogram,1,Petrova,"2,398",Tanker,Delivered October 09,2026-10-10_gms-week-41-owners-hold-all-the-cards_ship-recycling-market-insight-week-4_4b3a42f129d0.pdf
+2026-10-09,41,"October 09, 2026",Chattogram,2,Pacific Leader,911,General Cargo,Delivered October 06,2026-10-10_gms-week-41-owners-hold-all-the-cards_ship-recycling-market-insight-week-4_4b3a42f129d0.pdf
+2026-10-09,41,"October 09, 2026",Chattogram,3,Haku,"11,304",Ro-Ro Ship,Delivered October 03,2026-10-10_gms-week-41-owners-hold-all-the-cards_ship-recycling-market-insight-week-4_4b3a42f129d0.pdf
+2026-10-09,41,"October 09, 2026",Chattogram,4,Merc,490,Tug,Delivered October 02,2026-10-10_gms-week-41-owners-hold-all-the-cards_ship-recycling-market-insight-week-4_4b3a42f129d0.pdf
+2026-10-09,41,"October 09, 2026",Chattogram,5,Phil,"3,544",Barge,Delivered October 02,2026-10-10_gms-week-41-owners-hold-all-the-cards_ship-recycling-market-insight-week-4_4b3a42f129d0.pdf
+2026-10-09,41,"October 09, 2026",Chattogram,6,B-LPG Sophia (D/VSL),"3,421",LPG Tanker,Arrived September 28,2026-10-10_gms-week-41-owners-hold-all-the-cards_ship-recycling-market-insight-week-4_4b3a42f129d0.pdf
+2026-10-09,41,"October 09, 2026",Gadani,1,Lina F,"5,688",Bulk Carrier,Delivered October 02,2026-10-10_gms-week-41-owners-hold-all-the-cards_ship-recycling-market-insight-week-4_4b3a42f129d0.pdf
+2026-10-09,41,"October 09, 2026",Gadani,2,Portland 11,"7,381",Bulk Carrier,Arrived September 28,2026-10-10_gms-week-41-owners-hold-all-the-cards_ship-recycling-market-insight-week-4_4b3a42f129d0.pdf
+2026-10-09,41,"October 09, 2026",Gadani,3,Maestro,"5,143",Bulk Carrier,Arrived September 24,2026-10-10_gms-week-41-owners-hold-all-the-cards_ship-recycling-market-insight-week-4_4b3a42f129d0.pdf

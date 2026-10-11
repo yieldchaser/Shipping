@@ -154,6 +154,8 @@ jobs:
             python -m scripts.parse_engine promote --source best_oasis --new-only --apply || true
             python -m scripts.parse_engine run --source gms --new-only || true
             python -m scripts.parse_engine promote --source gms --new-only --apply || true
+            python -m scripts.parse_engine series --source best_oasis --root data/extracted/md/hellenic/demolition/best_oasis --out-dir data/extracted/series || true
+            python -m scripts.parse_engine series --source gms --root data/extracted/md/hellenic/demolition/gms --out-dir data/extracted/series || true
             python scripts/extract/publishers/run_hellenic_alibra_tc.py || true
             # VesselsValue: new issues only, never rewrites existing MD / series rows (legacy runners are disabled)
             python -m scripts.parse_engine_html vv --incremental || true

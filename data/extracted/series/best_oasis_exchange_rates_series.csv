@@ -118,10 +118,10 @@ issue_date,usd_inr,usd_bdt,usd_pkr,usd_try,brent_crude_usd,wti_crude_usd,source_
 2025-09-06,88.11,121.7,283.23,41.16,66.93,63.34,corpus/02-hellenic/demolition/pdfs/best_oasis/2025-09-06_Weekly-Ship-Recycling-Report-30-August-04-September-2025.pdf
 2025-09-16,88.27,121.44,283.23,41.36,65.74,61.72,corpus/02-hellenic/demolition/pdfs/best_oasis/2025-09-16_Weekly-Ship-Recycling-Report-05-September-12-September-2025.pdf
 2025-09-20,88.1,121.72,283.12,41.35,66.97,63.01,corpus/02-hellenic/demolition/pdfs/best_oasis/2025-09-20_Weekly-Ship-Recycling-Report-13-September-19-September-2025.pdf
-2025-09-27,88.71,121.94,282.78,41.5,65.74,61.72,corpus/02-hellenic/demolition/pdfs/best_oasis/2025-09-27_Weekly-Ship-Recycling-Report-20-September-26-September-2025.pdf
+2025-09-27,88.71,121.94,282.78,41.5,,,corpus/02-hellenic/demolition/pdfs/best_oasis/2025-09-27_Weekly-Ship-Recycling-Report-20-September-26-September-2025.pdf
 2025-10-04,88.78,121.7,282.53,41.68,64.44,60.83,corpus/02-hellenic/demolition/pdfs/best_oasis/2025-10-04_Weekly-Ship-Recycling-Report-27-September-03-October-2025.pdf
 2025-10-11,88.71,122.03,283.45,41.81,65.04,61.39,corpus/02-hellenic/demolition/pdfs/best_oasis/2025-10-11_Weekly-Ship-Recycling-Report-04-October-10-October-2025-1.pdf
-2025-10-25,87.73,122.23,282.63,42.02,,,corpus/02-hellenic/demolition/pdfs/best_oasis/2025-10-25_Weekly-Ship-Recycling-Report-18-October-24-October-2025.pdf
+2025-10-25,87.73,122.23,282.63,42.02,,61.73,corpus/02-hellenic/demolition/pdfs/best_oasis/2025-10-25_Weekly-Ship-Recycling-Report-18-October-24-October-2025.pdf
 2025-11-01,88.74,122.36,283.06,42.0,64.52,60.06,corpus/02-hellenic/demolition/pdfs/best_oasis/2025-11-01_Weekly-Ship-Recycling-Report-25-October-31-October-2025_compressed.pdf
 2025-11-08,88.69,121.92,282.41,42.16,64.06,60.04,corpus/02-hellenic/demolition/pdfs/best_oasis/2025-11-08_Weekly-Ship-Recycling-Report-01-November-07-November-2025.pdf
 2025-11-15,88.74,122.13,282.09,42.31,63.85,59.56,corpus/02-hellenic/demolition/pdfs/best_oasis/2025-11-15_Weekly-Ship-Recycling-Report-08-November-14-November-2025.pdf
@@ -146,11 +146,13 @@ issue_date,usd_inr,usd_bdt,usd_pkr,usd_try,brent_crude_usd,wti_crude_usd,source_
 2026-04-11,92.83,122.78,278.95,44.67,95.59,97.54,corpus/02-hellenic/demolition/pdfs/best_oasis/2026-04-11_best-oasis-weekly-recycling-market-report-10-april-2026_weekly-ship-recycling-report-04-apri_0a01bb7aa43b.pdf
 2026-04-18,92.84,122.92,278.91,44.84,96.12,91.04,corpus/02-hellenic/demolition/pdfs/best_oasis/2026-04-18_best-oasis-weekly-recycling-market-report-17-april-2026_weekly-ship-recycling-report-11-apri_f397bac9cd03.pdf
 2026-04-25,94.21,122.7,278.74,45.02,105.48,95.44,corpus/02-hellenic/demolition/pdfs/best_oasis/2026-04-25_best-oasis-weekly-recycling-market-report-24-april-2026_weekly-ship-recycling-report-18-apri_6351225c5f56.pdf
-2026-05-09,94.48,122.69,278.71,45.34,101.2,95.35,corpus/02-hellenic/demolition/pdfs/best_oasis/2026-05-09_best-oasis-weekly-recycling-market-report-8-may-2026_weekly-ship-recycling-report-02-may-_a7efec80b04a.pdf
+2026-05-05,94.88,122.79,278.77,45.18,110.17,103.2,corpus/02-hellenic/demolition/pdfs/best_oasis/2026-05-05_best-oasis-weekly-recycling-market-report-1-may-2026_weekly-ship-recycling-report-25-apri_69af36cf75f1.pdf
+2026-05-09,94.48,122.69,278.71,45.34,,,corpus/02-hellenic/demolition/pdfs/best_oasis/2026-05-09_best-oasis-weekly-recycling-market-report-8-may-2026_weekly-ship-recycling-report-02-may-_a7efec80b04a.pdf
+2026-05-16,95.91,122.74,278.56,45.52,107.84,,corpus/02-hellenic/demolition/pdfs/best_oasis/2026-05-16_best-oasis-weekly-recycling-market-report-15-may-2026_weekly-ship-recycling-report-09-may-_09cbd4b6a3cd.pdf
 2026-05-23,95.91,122.87,278.62,45.72,105.59,98.6,corpus/02-hellenic/demolition/pdfs/best_oasis/2026-05-23_best-oasis-weekly-recycling-market-report-22-may-2026_weekly-ship-recycling-report-16-may-_26c16bde451f.pdf
 2026-06-03,94.92,122.73,278.0,45.89,93.56,90.11,corpus/02-hellenic/demolition/pdfs/best_oasis/2026-06-03_best-oasis-weekly-recycling-market-report-01-june-2026_weekly-ship-recycling-report-23-may-_30a509605ce6.pdf
 2026-06-06,95.09,122.78,278.39,46.06,94.9,92.9,corpus/02-hellenic/demolition/pdfs/best_oasis/2026-06-06_best-oasis-weekly-recycling-market-report-05-june-2026_weekly-ship-recycling-report-02-june_1ad3fd50e851.pdf
-2026-06-20,94.45,122.86,278.32,46.44,80.37,76.46,corpus/02-hellenic/demolition/pdfs/best_oasis/2026-06-20_best-oasis-weekly-recycling-market-report-19-june-2026_weekly-ship-recycling-report-13-june_64ac05ece72f.pdf
+2026-06-20,94.45,122.86,278.32,46.44,,76.46,corpus/02-hellenic/demolition/pdfs/best_oasis/2026-06-20_best-oasis-weekly-recycling-market-report-19-june-2026_weekly-ship-recycling-report-13-june_64ac05ece72f.pdf
 2026-06-27,94.36,122.72,277.29,46.6,72.54,69.34,corpus/02-hellenic/demolition/pdfs/best_oasis/2026-06-27_best-oasis-weekly-recycling-market-report-26-june-2026_weekly-ship-recycling-report-20-june_e1a3773eaa9a.pdf
 2026-07-04,95.27,122.96,277.37,46.8,71.95,68.71,corpus/02-hellenic/demolition/pdfs/best_oasis/2026-07-04_best-oasis-weekly-recycling-market-report-03-july-2026_weekly-ship-recycling-report-27-june_84d9d314c093.pdf
 2026-07-11,95.4,123.11,277.72,46.98,72.1,76.29,corpus/02-hellenic/demolition/pdfs/best_oasis/2026-07-11_best-oasis-weekly-recycling-market-repor_Weekly-Ship-Recycling-Report-04-July-10-July-2026.pdf
@@ -166,3 +168,4 @@ issue_date,usd_inr,usd_bdt,usd_pkr,usd_try,brent_crude_usd,wti_crude_usd,source_
 2026-09-19,95.9,122.83,278.98,48.76,103.16,101.05,corpus/02-hellenic/demolition/pdfs/best_oasis/2026-09-19_best-oasis-weekly-recycling-market-repor_Weekly-Ship-Recycling-Report-12-September-18-September-2026-1.pdf
 2026-09-26,95.83,123.16,277.06,48.94,105.36,92.8,corpus/02-hellenic/demolition/pdfs/best_oasis/2026-09-26_best-oasis-weekly-recycling-market-repor_Weekly-Ship-Recycling-Report-19-September-25-September-2026.pdf
 2026-10-03,96.14,122.94,276.91,49.12,99.73,89.5,corpus/02-hellenic/demolition/pdfs/best_oasis/2026-10-03_best-oasis-weekly-recycling-market-repor_Weekly-Ship-Recycling-Report-26-September-02-October-2026.pdf
+2026-10-10,96.72,123.01,277.0,49.24,102.72,90.33,corpus/02-hellenic/demolition/pdfs/best_oasis/2026-10-10_best-oasis-weekly-recycling-market-report-9-october-2026_weekly-ship-recycling-report-03-octo_c07569f4e589.pdf
