@@ -136,19 +136,33 @@ Tankers Values
 
 ## Page 7
 
-*\*(amount in USD million)*
+# (amount in USD million)
 
 # Tanker 12 months T/C rates average (in USD/day)
 
-| TYPE | DWT | CURRENT | LAST WEEK | LAST YEAR W-O-W | CHANGE Y-O-Y | CHANGE |
-|---|---|---|---|---|---|---|
+| TYPE | DWT | CURRENT | LAST WEEK | LAST YEAR | W-O-W CHANGE | Y-O-Y CHANGE |
+| --- | --- | --- | --- | --- | --- | --- |
 | VLCC | 310,000 | 48,250 | 48,500 | 43,750 | -0.52% | +10.29% |
 | SUEZMAX | 150,000 | 38,000 | 42,250 | 42,500 | -10.06% | -10.59% |
 | AFRAMAX | 110,000 | 42,500 | 42,500 | 47,500 | 0 | -10.53% |
 | LR1 | 74,000 | 35,750 | 36,250 | 35,500 | -1.38% | +0.70% |
 | MR | 47,000 | 29,750 | 29,750 | 30,500 | 0 | -2.46% |
 
+Tanker 1 year T/C rates
+
+[SIGNATURE]
+
 # Tankers S&P Report
+
+| VESSEL NAME | TYPE | DWT | YEAR | BUILT | PRICE (MILLION) USD | COMMENTS / BUYERS |
+| --- | --- | --- | --- | --- | --- | --- |
+| C. VISION | VLCC | 314,000 | 2004 | S. KOREA | 31.5 | CHINESE BUYERS |
+| ACHELOUS | VLCC | 299,868 | 2004 | JAPAN | 30.5 | UNDISCLOSED |
+| KARVOUNIS | SUEZ | 156,229 | 2013 | JAPAN | 67.8 | UNDISCLOSED |
+| SELIGER | AFRA | 115,126 | 2009 | JAPAN | 46.0 | CHINESE BUYERS |
+| MTM MISSISSIPPI | MR | 51,182 | 2006 | S. KOREA | 17.0 | UNDISCLOSED |
+| GLENDA MELANIE | MR | 47,162 | 2010 | S. KOREA | 27.5 | CHINESE BUYERS |
+| ACADIA TRADER | MR | 38,177 | 2004 | S. KOREA | 15.5 | UNDISCLOSED |
 
 ## Page 8
 
@@ -270,29 +284,32 @@ Turkish steel mills have reduced their domestic scrap purchase prices despite th
 
 ## Page 15
 
-sentiment in the market is attributed to weak steel sales and concerns about China. Weak steel sales, pressured steel prices, and a second crash in the Chinese market have contributed to Turkey's negative sentiment. Meanwhile, European suppliers are hesitant to lower their prices due to current dock prices, weak flow, and the strong euro. The price trend in Turkey will be determined by domestic demand, with concerns about potential price drops if purchasing halts. Additionally, the Turkish domestic rebar market saw subdued demand due to tightened credit accessibility, with reports of bankruptcies adding caution to the market. Turkish shipbreaking scrap fell to USD375-385 per tonne delivered. The Turkish lira depreciated further against the dollar, reaching 32.10 per dollar by Wednesday's close.
+sentiment in the market is attributed to weak steel sales and concerns about China. Weak steel sales, pressured steel prices, and a second crash in the Chinese market have contributed to Turkey's negative sentiment.
 
----
+Meanwhile, European suppliers are hesitant to lower their prices due to current dock prices, weak flow, and the strong euro. The price trend in Turkey will be determined by domestic demand, with concerns about potential price drops if purchasing halts. Additionally, the Turkish domestic rebar market saw subdued demand due to tightened credit accessibility, with reports of bankruptcies adding caution to the market. Turkish shipbreaking scrap fell to USD375-385 per tonne delivered. The Turkish lira depreciated further against the dollar, reaching 32.10 per dollar by Wednesday's close.
 
-Chattogram, Bangladesh : 25 ~ 28 March | 08 ~ 11 April Alang, India : 26 ~ 30 March | 06 ~ 13 April
+# BEACHING TIDE DATES 2024
 
----
+Chattogram, Bangladesh : 25 ~ 28 March | 08 ~ 11 April
 
-BUNKER PRICES (USD/TON)
+Alang, India
 
-PORTS VLSFO (0.5%) HSFO (3.5%) MGO (0.1%)
+: 26 ~ 30 March | 06 ~ 13 April
 
+#### BUNKER PRICES (USD/TON)
+
+| PORTS | VLSFO (0.5%) | HSFO (3.5%) | MGO (0.1%) |
+| --- | --- | --- | --- |
 | SINGAPORE | 637 | 477 | 787 |
-|---|---|---|---|
 | HONG KONG | 641 | 490 | 793 |
 | FUJAIRAH | 644 | 440 | 908 |
 | ROTTERDAM | 572 | 461 | 782 |
 | HOUSTON | 646 | 462 | 829 |
 
-EXCHANGE RATES
+#### EXCHANGE RATES
 
 | CURRENCY | MARCH 15 | MARCH 8 | W-O-W % CHANGE |
-|---|---|---|---|
+| --- | --- | --- | --- |
 | USD / CNY (CHINA) | 7.19 | 7.18 | -0.14% |
 | USD / BDT (BANGLADESH) | 109.72 | 109.76 | +0.04% |
 | USD / INR (INDIA) | 82.87 | 82.77 | -0.12% |

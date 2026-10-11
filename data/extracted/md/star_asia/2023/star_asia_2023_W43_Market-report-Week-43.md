@@ -316,27 +316,26 @@ Another dull week in Turkey, with almost no reported news of new sales. The vola
 
 Overall, a negative outlook due to the Israel war, and lackluster domestic rebar demand ahead of Turkey's Central Bank's decision on loan rates, Turkish shipbreaking scrap prices fell to US$350-357/t delivered this week from US$376/t last week. The lira fell by 0.57% at 28.17 per dollar at closing.
 
----
+# BEACHING TIDE DATES 2023
 
-Chattogram, Bangladesh : 27 ~ 30 October | 12 ~ 15 November Alang, India : 26 October ~ 03 November | 12 ~ 19 November
+Chattogram, Bangladesh: 27 ~ 30 October | 12 ~ 15 November
 
----
+Alang, India: 26 October ~ 03 November | 12 ~ 19 November
 
-BUNKER PRICES (USD/TON)
+#### BUNKER PRICES (USD/TON)
 
-PORTS VLSFO (0.5%) IFO380 CST MGO (0.1%)
-
+| PORTS | VLSFO (0.5%) | IFO380 CST | MGO (0.1%) |
+| --- | --- | --- | --- |
 | SINGAPORE | 667 | 481 | 868 |
-|---|---|---|---|
 | HONG KONG | 666 | 495 | 851 |
 | FUJAIRAH | 658 | 474 | 958 |
 | ROTTERDAM | 609 | 521 | 868 |
 | HOUSTON | 615 | 501 | 910 |
 
-EXCHANGE RATES
+#### EXCHANGE RATES
 
 | CURRENCY | 27th OCTOBER | 20th OCTOBER | W-O-W % CHANGE |
-|---|---|---|---|
+| --- | --- | --- | --- |
 | USD / CNY (CHINA) | 7.31 | 7.31 | 0 |
 | USD / BDT (BANGLADESH) | 110.14 | 110.12 | -0.02% |
 | USD / INR (INDIA) | 83.22 | 83.06 | -0.19% |

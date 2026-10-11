@@ -126,38 +126,40 @@ EnQuest upon the completion of a sublet with Azinor Catalyst. The 2011-built KL 
 
 ## SEPTEMBER 2018 - DAILY NORTH SEA OSV AVAILABILITY
 
+> **Read from the chart.** The report prints no numbers for this chart; each value is the chart line's node for that day, converted with the printed axis labels (vector geometry, not an eyeball estimate).
+
 | Date | PSV 2018 | PSV 2017 | AHTS 2018 | AHTS 2017 |
-| ---- | -------- | -------- | --------- | --------- |
-| 1    | 16       | 4        | 14        | 18        |
-| 2    | 17       | 5        | 14        | 19        |
-| 3    | 19       | 8        | 14        | 20        |
-| 4    | 21       | 11       | 15        | 21        |
-| 5    | 23       | 11       | 15        | 21        |
-| 6    | 20       | 4        | 16        | 11        |
-| 7    | 12       | 6        | 16        | 12        |
-| 8    | 12       | 1        | 16        | 11        |
-| 9    | 12       | 9        | 15        | 14        |
-| 10   | 12       | 8        | 15        | 14        |
-| 11   | 12       | 9        | 15        | 16        |
-| 12   | 10       | 9        | 14        | 17        |
-| 13   | 8        | 5        | 14        | 16        |
-| 14   | 2        | 5        | 11        | 14        |
-| 15   | 4        | 5        | 11        | 12        |
-| 16   | 5        | 5        | 11        | 12        |
-| 17   | 6        | 5        | 11        | 12        |
-| 18   | 9        | 5        | 11        | 12        |
-| 19   | 9        | 6        | 11        | 10        |
-| 20   | 8        | 7        | 8         | 8         |
-| 21   | 8        | 8        | 8         | 8         |
-| 22   | 7        | 6        | 8         | 10        |
-| 23   | 6        | 6        | 8         | 14        |
-| 24   | 5        | 6        | 8         | 16        |
-| 25   | 4        | 6        | 8         | 16        |
-| 26   | 1        | 6        | 8         | 16        |
-| 27   | 1        | 6        | 3         | 15        |
-| 28   | 0        | 0        | 0         | 14        |
-| 29   | 10       | 10       | 9         | 19        |
-| 30   | 11       | 10       | 9         | 20        |
+| --- | --- | --- | --- | --- |
+| 1 | 16 | 4 | 14 | 18 |
+| 2 | 17 | 6 | 14 | 19 |
+| 3 | 20 | 9 | 15 | 20 |
+| 4 | 21 | 11 | 13 | 21 |
+| 5 | 23 | 7 | 15 | 20 |
+| 6 | 17 | 5 | 15 | 11 |
+| 7 | 12 | 3 | 16 | 12 |
+| 8 | 12 | 1 | 16 | 15 |
+| 9 | 12 | 2 | 15 | 14 |
+| 10 | 12 | 4 | 15 | 13 |
+| 11 | 11 | 6 | 14 | 13 |
+| 12 | 7 | 9 | 12 | 17 |
+| 13 | 4 | 9 | 10 | 14 |
+| 14 | 2 | 5 | 11 | 16 |
+| 15 | 3 | 5 | 11 | 11 |
+| 16 | 4 | 5 | 11 | 11 |
+| 17 | 5 | 5 | 11 | 12 |
+| 18 | 7 | 5 | 11 | 12 |
+| 19 | 9 | 5 | 10 | 10 |
+| 20 | 9 | 7 | 9 | 9 |
+| 21 | 9 | 8 | 8 | 8 |
+| 22 | 7 | 7 | 8 | 9 |
+| 23 | 6 | 7 | 8 | 12 |
+| 24 | 5 | 6 | 8 | 14 |
+| 25 | 3 | 6 | 8 | 15 |
+| 26 | 1 | 8 | 5 | 16 |
+| 27 | 1 | 6 | 3 | 16 |
+| 28 | 0 | 8 | 4 | 16 |
+| 29 | 5 | 7 | 6 | 17 |
+| 30 | 11 | 10 | 9 | 20 |
 
 ## RATES & UTILISATION
 
@@ -298,9 +300,9 @@ Atlantic Offshore, with its main shareholder Ogreid, has purchased two former se
 
 ## ALLSEAS CONFIRMED AS BUYER OF FORTRESS
 
-| ![Havila Fortress](https://i.imgur.com/3Z0Z0Z0.jpg) | Allseas has been confirmed as the buyer of the 1996-built PSV Havila Fortress, which was sold by Havila Shipping in August. The vessel (pictured c/o S Boulter) is currently berthed in Denmark where she is being prepared for work by her new owners.          |
-| --------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|                                                     | This transaction follows the earlier sales of the Fortress' sister vessels, the Havila Faith and Havila Favour, to Allseas in March. Those vessels have since been renamed as Alegria and Felicity, and they are currently working for Allseas in the Black Sea. |
+Allseas has been confirmed as the buyer of the 1996-built PSV Havila Fortress, which was sold by Havila Shipping in August. The vessel (pictured c/o S Boulter) is currently berthed in Denmark where she is being prepared for work by her new owners.
+
+This transaction follows the earlier sales of the Fortress' sister vessels, the Havila Faith and Havila Favour, to Allseas in March. Those vessels have since been renamed as Alegria and Felicity, and they are currently working for Allseas in the Black Sea.
 
 ## MALAVIYA 20 SOLD AT AUCTION
 
@@ -310,8 +312,7 @@ Atlantic Offshore, with its main shareholder Ogreid, has purchased two former se
 
 ## BAHIA GRANDE BUYS ANCHOR HANDLER
 
-| ![BG Warrior](https://i.imgur.com/7Z7Z7Z7.jpg) | Bahia Grande has acquired the former Pacific Warrior, and renamed the AHTS vessel as BG Warrior. The 2002-built vessel has been mobilised to Argentina by her new owners. The vessel was originally owned by Swire Pacific Offshore and was built by Brevik Construction in Norway. The BG Warrior, built to the UT 710 design, has a length of 68.9m and a breadth of 15.5m. She has an engine power of 10,657 bhp, providing a bollard pull of circa 140 tonnes, with a clear deck area of 471m². |
-| ---------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+Bahia Grande has acquired the former Pacific Warrior, and renamed the AHTS vessel as BG Warrior. The 2002-built vessel has been mobilised to Argentina by her new owners. The vessel was originally owned by Swire Pacific Offshore and was built by Brevik Construction in Norway. The BG Warrior, built to the UT 710 design, has a length of 68.9m and a breadth of 15.5m. She has an engine power of 10,657 bhp, providing a bollard pull of circa 140 tonnes, with a clear deck area of 471m².
 
 # SUBSEA
 

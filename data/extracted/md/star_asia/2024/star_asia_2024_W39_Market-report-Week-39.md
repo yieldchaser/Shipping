@@ -101,15 +101,35 @@ The accumulated supply has saw the balance between demand tilt, resulting in rat
 
 ## Page 6
 
-Aframax:
+# Aframax:
 
 The Middle East market saw increased activity start of the week, with couple fixtures concluded. The increased fixtures however served primarily to reduce the number of available ships rather than drive rates higher, resulting in a steady close to the week. In the Med, 80,000mt Ceyhan/Lavera fell some 7 points to WS108.
 
-Clean:
+# Clean:
 
-LR: The Middle East market saw a modest improvement in freight rates this week. This upturn was primarily driven by a tightening of vessel supply, as regional refineries increased production in anticipation of the upcoming winter season. TC1 climbed 6 points to WS147 while TC5 improved to WS170. MR: In the Far East market, despite a series of MR, the reduction in supply was not sufficient to trigger a rebound in freight rates. In the USG, TC14 fell under pressure with rates falling to WS120. Similar was also noted in the MEG market with TC17 route MEG/E. Africa falling 24 points to WS185.
+LR: The Middle East market saw a modest improvement in freight rates this week. This upturn was primarily driven by a tightening of vessel supply, as regional refineries increased production in anticipation of the upcoming winter season. TC1 climbed 6 points to WS147 while TC5 improved to WS170.
+
+MR: In the Far East market, despite a series of MR, the reduction in supply was not sufficient to trigger a rebound in freight rates. In the USG, TC14 fell under pressure with rates falling to WS120. Similar was also noted in the MEG market with TC17 route MEG/E. Africa falling 24 points to WS185.
 
 ## Baltic Exchange Tanker Indices
+
+| INDICES | CURRENT | LAST WEEK | LAST YEAR | W-O-W CHANGE | Y-O-Y CHANGE |
+| --- | --- | --- | --- | --- | --- |
+| BDTI | 860 | 897 | 827 | -4.12% | +3.99% |
+| BCTI | 572 | 638 | 813 | -10.34% | -29.64% |
+
+Tankers Values
+
+(Weekly)
+
+| TYPE | DWT | NB CONTRACT | NB PROMPT DELIVERY | 5 YEARS | 10 YEARS | 15 YEARS |
+| --- | --- | --- | --- | --- | --- | --- |
+| VLCC | 310,000 | 129 | 146 | 116 | 86 | 58 |
+| SUEZMAX | 160,000 | 90 | 99 | 83 | 68 | 50 |
+| AFRAMAX | 115,000 | 75 | 86 | 72 | 62 | 44 |
+| LR1 | 73,000 | 62 | 68 | 58 | 48 | 32 |
+| MR | 51,000 | 52 | 53 | 50 | 41 | 28 |
+| *(amount in USD million) | *(amount in USD million) | *(amount in USD million) | *(amount in USD million) | *(amount in USD million) | *(amount in USD million) | *(amount in USD million) |
 
 ## Page 7
 
@@ -137,9 +157,28 @@ Tankers S&P Report
 
 ## Containers
 
-Despite the approaching China's Golden Week, there is no sign of short-term volume increases due to early shipments. Rates continue to decline while liner compete for cargo. The Southeast Asian market is seeing the launch of new shipping services, but overall, the industry is grappling with oversupply issues, leading to continued rate declines and intensified competition among carriers for pre-holiday volumes. The market experienced a significant downturn this week, with the SCFI recording its steepest drop since September 2022. The index plummeted by 10%, settling at 2,135 points - a stark 43% decline from its early July peak. Major trade lanes bore the brunt of this decline, with the crucial Shanghai-North Europe route witnessing a dramatic 13% w-o-w decrease, bringing rates down to US$2,250 per TEU.
+Despite the approaching China’s Golden Week, there is no sign of short-term volume increases due to early shipments. Rates continue to decline while liner compete for cargo. The Southeast Asian market is seeing the launch of new shipping services, but overall, the industry is grappling with oversupply issues, leading to continued rate declines and intensified competition among carriers for pre-holiday volumes.
+
+The market experienced a significant downturn this week, with the SCFI recording its steepest drop since September 2022. The index plummeted by 10%, settling at 2,135 points – a stark 43% decline from its early July peak. Major trade lanes bore the brunt of this decline, with the crucial Shanghai-North Europe route witnessing a dramatic 13% w-o-w decrease, bringing rates down to US$2,250 per TEU.
 
 ## Containers S&P Report
+
+| VESSEL NAME | TYPE | TEU | YEAR | BUILT | PRICE (MILLION) USD | COMMENTS / BUYERS |
+| --- | --- | --- | --- | --- | --- | --- |
+| SPIRIT OF HONG KONG | PMAX | 4,255 | 2010 | S. KOREA | 30.0 | SM LINE CORP |
+| MANILA VOYAGER | SUB PMAX | 2,113 | 1997 | S. KOREA | 8.0 | CHINESE BUYERS |
+| TURKON ISTANBUL | FEEDER | 1,849 | 2008 | TURKEY | 16.5 | CASTOR MARITIME |
+| NITHI BHUM | FEEDER | 928 | 2002 | JAPAN | 5.0 | UNDISCLOSED |
+
+Containers Values
+
+| CONTAINERS (BY TEU) | GEARED / GEARLESS | NB CONTRACT | NB PROMPT DELIVERY | 5 YEARS | 10 YEARS | 15 YEARS |
+| --- | --- | --- | --- | --- | --- | --- |
+| 900 – 1,200 | Geared | 24 | 24 | 17 | 14 | 8 |
+| 1,600 – 1,850 | Geared | 30 | 33 | 25 | 19 | 15 |
+| 2,700 – 2,900 | Gearless | 41 | 43 | 34 | 27 | 23 |
+| 5,100 | Gearless | 81 | 77 | 66 | 35 | 32 |
+| *(amount in USD million) | *(amount in USD million) | *(amount in USD million) | *(amount in USD million) | *(amount in USD million) | *(amount in USD million) | *(amount in USD million) |
 
 ## Page 9
 
@@ -237,15 +276,25 @@ The ship recycling industry has entered a prolonged slowdown due to declining do
 
 Karachi, citing economic hardships. The facility, which accounts for 30% of the company's production capacity, will remain closed for six months, with operations potentially resuming depending on market conditions. The company's Board of Directors highlighted several challenges facing the documented steel sector, including declining demand for steel rebars, rising utility costs, high interest rates, an imbalanced tariff structure, and increased competition from smuggling and undocumented activities. These factors have severely disrupted market stability, leading to the decision to halt operations at its oldest plant. Despite the suspension, ASTL will continue operations at its Dhabeji facility, which accounts for 70% of its production, to meet current and future steel demand.
 
-Aliaga, Turkey
+Anchorage & Beaching Position (September 2024)
 
----
+| VESSEL NAME | TYPE | LDT | ARRIVAL | BEACHING |
+| --- | --- | --- | --- | --- |
+| - | - | - | - | - |
 
-Chattogram, Bangladesh : 1 - 4 October | 16 - 19 October
+# Aliaga, Turkey
 
-Alang, India : 3 - 8 October | 15 - 23 October
+The Turkish steel market is showing signs of recovery, with scrap prices edging upwards amid positive global influences. Recent European scrap deals have been concluded at higher prices, reflecting a broader trend of improvement that aligns with developments in the Chinese market and strategic moves by Turkish mills. This uptick extends to Asia-origin billet offers and is supported by China's recent economic stimulus measures, which have driven steel futures to September highs. Market participants are cautiously optimistic, with some expecting scrap prices to stabilise at new levels.
 
----
+Despite these positive indicators, challenges persist in the domestic Turkish market. Mill closures and supply constraints for certain grades continue to impact the rebar sector, although official mill offers have increased. Mills' official offers stood at US$600-620/t ex-works, up from US$590-610/t last week, while Turkish shipbreaking scrap prices stood at US$365/t delivered on Wednesday.
+
+# BEACHING TIDE DATES 2024
+
+Chattogram, Bangladesh : 1 – 4 October | 16 – 19 October
+
+Alang, India
+
+: 3 – 8 October | 15 – 23 October
 
 ## Page 17
 

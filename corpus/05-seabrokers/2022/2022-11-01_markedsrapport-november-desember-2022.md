@@ -174,38 +174,40 @@ Windcat has highlighted that the new design has increased capabilities and flexi
 
 ## NOVEMBER 2022 - DAILY NORTH SEA OSV AVAILABILITY
 
+> **Read from the chart.** The report prints no numbers for this chart; each value is the chart line's node for that day, converted with the printed axis labels (vector geometry, not an eyeball estimate).
+
 | Date | PSV 2022 | PSV 2021 | AHTS 2022 | AHTS 2021 |
-| ---- | -------- | -------- | --------- | --------- |
-| 1    | 14       | 1        | 16        | 9         |
-| 2    | 13       | 1        | 17        | 10        |
-| 3    | 12       | 0        | 11        | 10        |
-| 4    | 14       | 1        | 12        | 10        |
-| 5    | 14       | 2        | 12        | 10        |
-| 6    | 13       | 2        | 12        | 10        |
-| 7    | 13       | 2        | 12        | 11        |
-| 8    | 10       | 3        | 15        | 11        |
-| 9    | 13       | 4        | 14        | 11        |
-| 10   | 13       | 5        | 11        | 10        |
-| 11   | 7        | 7        | 11        | 10        |
-| 12   | 7        | 6        | 12        | 7         |
-| 13   | 6        | 5        | 13        | 7         |
-| 14   | 6        | 5        | 13        | 6         |
-| 15   | 7        | 5        | 13        | 6         |
-| 16   | 13       | 6        | 13        | 6         |
-| 17   | 13       | 7        | 17        | 6         |
-| 18   | 7        | 7        | 16        | 12        |
-| 19   | 7        | 7        | 16        | 12        |
-| 20   | 7        | 8        | 16        | 12        |
-| 21   | 7        | 9        | 16        | 12        |
-| 22   | 8        | 10       | 14        | 12        |
-| 23   | 8        | 11       | 14        | 10        |
-| 24   | 6        | 16       | 18        | 14        |
-| 25   | 6        | 16       | 10        | 14        |
-| 26   | 6        | 12       | 10        | 11        |
-| 27   | 6        | 11       | 10        | 10        |
-| 28   | 6        | 10       | 9         | 10        |
-| 29   | 8        | 12       | 10        | 10        |
-| 30   | 8        | 12       | 10        | 14        |
+| --- | --- | --- | --- | --- |
+| 1 | 14 | 1 | 16 | 9 |
+| 2 | 13 | 1 | 17 | 10 |
+| 3 | 12 | 0 | 14 | 11 |
+| 4 | 14 | 1 | 11 | 10 |
+| 5 | 14 | 1 | 11 | 10 |
+| 6 | 13 | 2 | 12 | 10 |
+| 7 | 13 | 2 | 12 | 10 |
+| 8 | 10 | 3 | 15 | 11 |
+| 9 | 13 | 4 | 13 | 11 |
+| 10 | 12 | 5 | 11 | 10 |
+| 11 | 8 | 7 | 13 | 10 |
+| 12 | 7 | 6 | 13 | 7 |
+| 13 | 7 | 6 | 14 | 7 |
+| 14 | 6 | 5 | 14 | 6 |
+| 15 | 8 | 5 | 13 | 6 |
+| 16 | 10 | 6 | 13 | 9 |
+| 17 | 13 | 7 | 14 | 13 |
+| 18 | 8 | 6 | 15 | 12 |
+| 19 | 7 | 7 | 16 | 12 |
+| 20 | 7 | 8 | 16 | 12 |
+| 21 | 6 | 9 | 17 | 12 |
+| 22 | 8 | 10 | 16 | 12 |
+| 23 | 7 | 13 | 14 | 13 |
+| 24 | 8 | 14 | 18 | 13 |
+| 25 | 6 | 16 | 14 | 14 |
+| 26 | 6 | 11 | 12 | 11 |
+| 27 | 6 | 11 | 10 | 11 |
+| 28 | 6 | 10 | 9 | 10 |
+| 29 | 7 | 10 | 10 | 10 |
+| 30 | 8 | 12 | 10 | 14 |
 
 ## RATES & UTILISATION
 
@@ -375,7 +377,6 @@ This follows Solstad securing new contracts for the Normand Australis, Fortress,
 
 ## ...WHILE OFFLOADING A VESSEL
 
-<img src="https://i.imgur.com/placeholder1.jpg" alt="Image of a red vessel at sea">
 
 Solstad Offshore has sold the MT6022-designed CSV Normand Jarl to an undisclosed buyer outside the offshore sector. The 2013-built vessel has a length of 108m, and she is equipped with a 250t crane and accommodation for 116 persons. She will be handed over to the new owners in the first quarter of 2023. Solstad has confirmed that it will recognise a gain on the sale of around USD 42 million in the same quarter.
 

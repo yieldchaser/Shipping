@@ -100,15 +100,22 @@ In the West African market, freight rates declined throughout the week from WS10
 
 ## Page 6
 
-Aframax:
+# Aframax: Despite declining rates in VLCC and Suezmax, the Middle East Aframax market saw rates climb slightly as demand within the Mediterranean and Atlantic regions improved from the resumption of Libyan exports. In the Med, Ceyhan/Lavera closed the week higher by a point at WS176. # Clean: LR: LR2 concluded the week with rates holding steady, albeit at their lowest levels for the year. This stability persists against a backdrop of lingering concerns over potential disruptions to product oil exports. TCI climbed to WS125 after stagnant rates. LRI market also saw slight improvements with AG/Japan closing higher at WS136. MR: The Far East MR segment saw a slight downturn as the week ended. A general slump in demand across the region has dampened activity, while a notable shift in cargo allocation has seen some MR cargo migrating to larger LR vessels. This transition has further contributed to the bearish sentiment. In the MEG, rates fell after peaking with levels closing at WS236. Baltic Exchange Tanker Indices
 
-Despite declining rates in VLCC and Suezmax, the Middle East Aframax market saw rates climb slightly as demand within the Mediterranean and Atlantic regions improved from the resumption of Libyan exports. In the Med, Ceyhan/Lavera closed the week higher by a point at WS176.
+| INDICES | CURRENT | LAST WEEK | LAST YEAR | W-O-W CHANGE | Y-O-Y CHANGE |
+| --- | --- | --- | --- | --- | --- |
+| BDTI | 1,043 | 1,036 | 1,274 | +0.68% | -18.13% |
+| BCTI | 580 | 535 | 763 | +8.41% | -23.98% |
 
-Clean:
+# Tankers Values (Weekly)
 
-LR: LR2 concluded the week with rates holding steady, albeit at their lowest levels for the year. This stability persists against a backdrop of lingering concerns over potential disruptions to product oil exports. TC1 climbed to WS125 after stagnant rates. LR1 market also saw slight improvements with AG/Japan closing higher at WS136. MR: The Far East MR segment saw a slight downturn as the week ended. A general slump in demand across the region has dampened activity, while a notable shift in cargo allocation has seen some MR cargo migrating to larger LR vessels. This transition has further contributed to the bearish sentiment. In the MEG, rates fell after peaking with levels closing at WS236.
-
-## Baltic Exchange Tanker Indices
+| TYPE | DWT | NB CONTRACT | NB PROMPT DELIVERY | 5 YEARS | 10 YEARS | 15 YEARS |
+| --- | --- | --- | --- | --- | --- | --- |
+| VLCC | 310,000 | 129 | 146 | 116 | 86 | 58 |
+| SUEZMAX | 160,000 | 90 | 99 | 83 | 68 | 50 |
+| AFRAMAX | 115,000 | 75 | 86 | 72 | 62 | 44 |
+| LR1 | 73,000 | 62 | 68 | 58 | 48 | 32 |
+| MR | 51,000 | 52 | 53 | 50 | 41 | 28 |
 
 ## Page 7
 
@@ -238,37 +245,60 @@ The market remained stagnant this week, continuing its trend of softness and slu
 
 ## Page 15
 
-to facilitate this trade. This increased scrutiny and restriction of forex by banks is further complicating the buying process, which is already undergoing stringent environmental rules being implemented. Meanwhile, in domestic steel production, the industry saw a sharp decline in September, driven by weakened demand and falling prices. The country's steel industry has been hit hard over the past three months, as political instability, protests, and curfews have severely disrupted operations and hindered growth.
+to facilitate this trade. This increased scrutiny and restriction of forex by banks is further complicating the buying process, which is already undergoing stringent environmental rules being implemented.
 
-Aliaga, Turkey
+Meanwhile, in domestic steel production, the industry saw a sharp decline in September, driven by weakened demand and falling prices. The country’s steel industry has been hit hard over the past three months, as political instability, protests, and curfews have severely disrupted operations and hindered growth.
+
+Anchorage & Beaching Position (September 2024)
+
+| VESSEL NAME | TYPE | LDT | ARRIVAL | BEACHING |
+| --- | --- | --- | --- | --- |
+| HARMONY 1 | BULKER | 10.317 | 17.10.2024 | AWAITING |
+| PK 10 | TANKER | 724 | 13.10.2024 | AWAITING |
+| ION | TANKER | 23,236 | 08.10.2024 | 15.10.2024 |
+
+# Gadani, Pakistan
+
+The Pakistan ship recycling market remained stable this week, with recyclers keen to purchase at prevailing rates as competition from neighboring markets has narrowed. Prices across the three main recycling destinations have now leveled off, offering little differentiation. However, shipowners focused on green initiatives may lean towards Alang, which holds a distinct advantage in environmentally sustainable practices.
+
+No new sales were reported to Gaddani this week, reflecting the continued lull in the market.
+
+Anchorage & Beaching Position (September 2024)
+
+| VESSEL NAME | TYPE | LDT | ARRIVAL | BEACHING |
+| --- | --- | --- | --- | --- |
+| - | - | - | - | - |
+
+# Aliaga, Turkey
 
 Turkey's scrap market began the week on a subdued note, with a Marmara mill securing a cargo from Sweden at US$375/tonne cfr for HMS 1&2 80:20 and US$395/t cfr for shredded and bonus grade, marking a significant drop from previous deals.
 
 ## Page 16
 
-Market activity remains weak as Turkish mills have stepped back from trading due to sufficient offers and slowed steel sales, while the downturn in China's market has led to an increase in scrap offers. The combination of disappointed expectations from China's finance ministry briefing, the weakening euro, lower dock prices, and slowing domestic steel sales has fueled Turkish mills' anticipation of even lower scrap values. Overall market remains unchanged from last with a couple of small General Cargo ships reported for sale at undisclosed prices.
+Market activity remains weak as Turkish mills have stepped back from trading due to sufficient offers and slowed steel sales, while the downturn in China's market has led to an increase in scrap offers. The combination of disappointed expectations from China's finance ministry briefing, the weakening euro, lower dock prices, and slowing domestic steel sales has fueled Turkish mills' anticipation of even lower scrap values.
 
----
+Overall market remains unchanged from last with a couple of small General Cargo ships reported for sale at undisclosed prices.
 
-Chattogram, Bangladesh : 30 October - 2 November | 14 - 17 November Alang, India : 15 - 23 October | 31 October - 7 November
+# BEACHING TIDE DATES 2024
 
----
+Chattogram, Bangladesh : 30 October – 2 November | 14 – 17 November
 
-BUNKER PRICES (USD/TON)
+Alang, India : 15 – 23 October | 31 October – 7 November
 
-PORTS VLSFO (0.5%) HSFO (3.5%) MGO (0.1%)
+#### BUNKER PRICES (USD/TON)
 
+| PORTS | VLSFO (0.5%) | HSFO (3.5%) | MGO (0.1%) |
+| --- | --- | --- | --- |
 | SINGAPORE | 596 | 487 | 657 |
-|---|---|---|---|
 | HONG KONG | 586 | 477 | 655 |
 | FUJAIRAH | 585 | 460 | 770 |
 | ROTTERDAM | 552 | 490 | 650 |
 | HOUSTON | 540 | 485 | 663 |
 
-EXCHANGE RATES
+#### EXCHANGE RATES
 
 | CURRENCY | October 18 | October 11 | W-O-W % CHANGE |
-|---|---|---|---|
+| --- | --- | --- | --- |
 | USD / CNY (CHINA) | 7.10 | 7.06 | -0.57% |
 | USD / BDT (BANGLADESH) | 119.60 | 119.59 | -0.01% |
 | USD / INR (INDIA) | 84.06 | 84.11 | +0.06% |

@@ -417,7 +417,7 @@ The LNG and Container newbuilding deals continued firmly last week, with seven n
 # Demolition Market
 ## Indicative Demolition Prices ($/ldt)
 
-| Markets | Markets | 29/04/2022 | 22/04/2022 | ±% | 2021 | 2020 |
+| Markets | 29/04/2022 | 22/04/2022 | ±% | 2021 | 2020 | 2019 |
 | --- | --- | --- | --- | --- | --- | --- |
 | Tanker |  |  |  |  |  |  |
 | Bangladesh | 660 | 660 | 0.0% | 542 | 348 | 410 |

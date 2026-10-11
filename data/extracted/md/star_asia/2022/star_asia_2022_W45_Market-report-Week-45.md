@@ -311,15 +311,38 @@ Despite the decrease in import prices, the buying prices of scrap in Turkey have
 
 ## Page 14
 
-### Bunker Prices (USD / ton)
+Regardless of the various causes that have affected the Turkish scrap market, the overall outlook remains unfavourable. The majority of participants do not anticipate a price rebound in the near future.
 
-| PORT | VLSFO (0.5%) | HSFO (3.5%) | MGO (0.1%) |
-| :--- | :---: | :---: | :---: |
+Shipbreaking scrap levels were in the region of US$290-300/t delivered, down from US$320-330/t M-O-M. Meanwhile, the lira remains unchanged from last week.m-
+
+# BEACHING TIDE DATES 2022
+
+* Chattogram, Bangladesh : 6th Dec. ~ 9th Dec. | 23rd Dec. ~ 26th Dec.
+* Alang, India : 22nd Nov. ~ 29th Nov. | 05th Dec. ~ 13th Dec.
+
+# Bunker Prices
+
+#### BUNKER PRICES (USD/TON)
+
+| PORTS | VLSFO (0.5%) | IFO380 CST | MGO (0.1%) |
+| --- | --- | --- | --- |
 | SINGAPORE | 718 | 389 | 1045 |
 | HONG KONG | 715 | 417 | 1001 |
 | FUJAIRAH | 694 | 386 | 1255 |
 | ROTTERDAM | 644 | 375 | 1012 |
 | HOUSTON | 651 | 450 | 1052 |
+
+# Exchange Rates
+
+#### EXCHANGE RATES
+
+|  | 11th NOVEMBER | 4th NOVEMBER | W-O-W % CHANGE |
+| --- | --- | --- | --- |
+| USD / CNY (CHINA) | 7.11 | 7.18 | +0.97 |
+| USD / BDT (BANGLADESH) | 105.23 | 101.57 | -3.60 |
+| USD / INR (INDIA) | 80.51 | 81.98 | +1.79 |
+| USD / PKR (PAKISTAN) | 221.55 | 221.78 | +0.10 |
+| USD / TRY (TURKEY) | 18.56 | 18.56 | 0 |
 
 ## Page 15
 

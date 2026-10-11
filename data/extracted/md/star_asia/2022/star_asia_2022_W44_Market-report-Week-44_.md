@@ -101,6 +101,17 @@ persisted throughout the Pacific. Inter-Pacific did not fare as well, with level
 
 ## Page 4
 
+#### BULKER 12 MONTHS T/C RATES AVERAGE (IN USD/DAY)
+
+|  | DWT | CURRENT | LAST WEEK | LAST YEAR | W-O-W CHANGE % | Y-O-Y CHANGE % |
+| --- | --- | --- | --- | --- | --- | --- |
+| CAPE | 180,000 | 12,750 | 13,500 | 22,500 | -5.56 | -43.33 |
+| PANAMAX | 75,000 | 14,500 | 15,000 | 22,000 | -3.33 | -34.09 |
+| SUPRAMAX | 52,000 | 12,500 | 14,000 | 19,000 | -10.71 | -34.21 |
+| HANDYSIZE | 32,000 | 12,000 | 13,000 | 26,000 | -7.69 | -53.85 |
+
+# Dry Bulk 1 year T/C rates
+
 ## Page 5
 
 # Tankers
@@ -123,11 +134,35 @@ Due to the strength of the Atlantic basin and an increase in Russian crude oil e
 
 #### Clean:
 
-L.R.: Trade in the Asia/Europe section fell as European refinery utilisation rose and a chunk of the French strike was lifted. Rates for the Middle East/Japan segment fell as the number of vessels in the Middle East increases.
-
-MR: The weekly freight rate between Korea and Singapore fell by 8.2% as intra-regional trade volume fell.
+L.R.: Trade in the Asia/Europe section fell as European refinery utilisation rose and a chunk of the French strike was lifted. Rates for the Middle East/Japan segment fell as the number of vessels in the Middle East increases. MR: The weekly freight rate between Korea and Singapore fell by 8.2% as intra-regional trade volume fell.
 
 # Tankers S&P Report
+
+| VESSEL NAME | TYPE | DWT | YEAR | BUILT | PRICE (MILLION) USD | COMMENTS / BUYERS |
+| --- | --- | --- | --- | --- | --- | --- |
+| BRILLIANT JEWEL | VLCC | 305,178 | 2002 | S. KOREA | 40.0 | UNDISCLOSED |
+| RS AURORA | SUEZ | 159,812 | 2018 | CHINA | 64.0 | DELTA TANKERS |
+| LILA SHENZHEN | SUEZ | 159,549 | 2004 | CHINA | 25.0 | CHINESE BUYERS |
+| VALTAMED | SUEZ | 158,609 | 2004 | S. KOREA | 26.0 | EUROPEAN BUYERS |
+| KIMOLOS WARRIOR | SUEZ | 157,258 | 2013 | S. KOREA | 46.0 | TURKISH BUYERS |
+| RAFFLES HARMONY | LR2 | 105,405 | 2013 | S. KOREA | 41.8 | UNDISCLOSED |
+| HOUSTON STAR | LR1 | 74,999 | 2004 | S. KOREA | 13.0 | TURKISH BUYERS |
+| CELSIUS RIMINI | MR | 53,603 | 2009 | JAPAN | 24.3 | UNDISCLOSED |
+| BRO ANNA / BRO AGNES | PROD / CHEM | 16,868 | 2008 | TURKEY | 27.0 EN BLOC | UNDISCLOSED |
+| BERNORA | PROD / CHEM | 13,000 | 2008 | S. KOREA | 7.8 | NORWEGIAN BUYERS |
+| MIS 3 | SMALL | 3,842 | 2005 | JAPAN | 3.0 | S. KOREAN BUYERS |
+
+# Tankers Values
+
+| TANKERS | DWT | NB CONTRACT | NB PROMPT DELIVERY | 5 YEARS | 10 YEARS | 20 YEARS |
+| --- | --- | --- | --- | --- | --- | --- |
+| VLCC | 310,000 | 120 | 118 | 89 | 66 | 44 |
+| SUEZMAX | 160,000 | 80 | 79 | 62 | 45 | 23 |
+| AFRAMAX | 115,000 | 61 | 72 | 57 | 42 | 23 |
+| PANAMAX-LR1 | 73,000 | 54 | 56 | 44 | 30 | 15 |
+| MR TANKER | 51,000 | 43 | 46 | 39 | 28 | 14 |
+
+*(amount in USD million)*
 
 ## Page 7
 
@@ -291,15 +326,40 @@ In October, the country's inflation rate reached 85.5%, marking the 17th month i
 
 ## Page 15
 
-### Bunker Prices (USD / ton)
+Turkish central bank is anticipated to decrease interest rates by another 150 basis points (bp) at its meeting on December 20.
 
-| PORT | VLSFO (0.5%) | HSFO (3.5%) | MGO (0.1%) |
-| :--- | :---: | :---: | :---: |
+Meanwhile, Turkish mills are reportedly reducing their scrap buying prices due to unfavorable market conditions. Due to the high energy costs and weak steel sales, some producers are shifting their focus to imported steel products. These products are priced at around US$515-530 per metric ton in Turkey. On the other hand, others are halting production and are unable to afford current scrap prices. This has resulted in a decrease in domestic scrap buying prices.
+
+Ship recycling prices remained under pressure due to volatility in the ferrous scrap and semi-finished steel prices.
+
+#### BEACHING TIDE DATES 2022
+
+Chattogram, Bangladesh : 22nd Nov. ~ 25th Nov. | 6th Dec. ~ 9th Dec.
+Alang, India : 6th Nov. ~ 13th Nov. | 22nd Nov. ~ 29th Nov.
+
+# Bunker Prices
+
+#### BUNKER PRICES (USD/TON)
+
+| PORTS | VLSFO (0.5%) | IFO380 CST | MGO (0.1%) |
+| --- | --- | --- | --- |
 | SINGAPORE | 718 | 389 | 1045 |
 | HONG KONG | 715 | 417 | 1001 |
 | FUJAIRAH | 694 | 386 | 1255 |
 | ROTTERDAM | 644 | 375 | 1012 |
 | HOUSTON | 651 | 450 | 1052 |
+
+# Exchange Rates
+
+#### EXCHANGE RATES
+
+|  | 4th NOVEMBER | 28th OCTOBER | W-O-W % CHANGE |
+| --- | --- | --- | --- |
+| USD / CNY (CHINA) | 7.18 | 7.23 | +0.69% |
+| USD / BDT (BANGLADESH) | 101.57 | 100.65 | -0.91% |
+| USD / INR (INDIA) | 81.98 | 82.29 | +0.38% |
+| USD / PKR (PAKISTAN) | 221.78 | 221.83 | +0.02% |
+| USD / TRY (TURKEY) | 18.56 | 18.58 | +0.11% |
 
 ## Page 16
 

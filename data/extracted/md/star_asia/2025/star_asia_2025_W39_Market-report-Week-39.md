@@ -102,17 +102,33 @@ In the Middle East, the Aframax market remained supported by the continued stren
 
 ## Page 6
 
-Clean:
+# Clean:
 
-**LR: LR2 in MEG market weakened considerably, with rates dropping sharply to WS111. This**
+LR: LR2 in MEG market weakened considerably, with rates dropping sharply to WS111. This decline was attributed to a persistent oversupply of available vessels. Similar was also noted in the LRIs with TC5 falling some 15 points to WS126.
 
-decline was attributed to a persistent oversupply of available vessels. Similar was also noted in the LR1s with TC5 falling some 15 points to WS126.
-
-**MR: In the Far East, the MR market closed the week on a firm note, supported by a steady**
-
-flow of new inquiries. TC17 trip MEG/East Africa climbed to WS175 with USG TC14 also seeing an uptick settling higher at WS174.
+MR: In the Far East, the MR market closed the week on a firm note, supported by a steady flow of new inquiries. TC17 trip MEG/East Africa climbed to WS175 with USG TC14 also seeing an uptick settling higher at WS174.
 
 ## Baltic Exchange Tanker Indices
+
+| INDICES | CURRENT | LAST WEEK | LAST YEAR | W-O-W CHANGE | Y-O-Y CHANGE |
+| --- | --- | --- | --- | --- | --- |
+| BDTI | 1,148 | 1,143 | 860 | +0.44% | +33.49% |
+| BCTI | 628 | 618 | 572 | +1.62% | +9.79% |
+
+# Tankers Values
+
+(Weekly)
+
+| TYPE | DWT | NB CONTRACT | NB PROMPT DELIVERY | 5 YEARS | 10 YEARS | 15 YEARS |
+| --- | --- | --- | --- | --- | --- | --- |
+| VLCC | 310,000 | 126 | 147 | 116 (E) | 85(E) | 51 |
+| SUEZMAX | 160,000 | 86 | 93 | 77 (E) | 61 (E) | 40 |
+| AFRAMAX | 115,000 | 75 | 75 | 64 (E) | 50 (E) | 35 |
+| LR1 | 73,000 | 60 | 62 | 51 (E) | 42 (E) | 25 |
+| MR | 51,000 | 49 | 52 | 41 (E) | 31 (E) | 21 |
+| *(amount in USD million) / (E) – eco units | *(amount in USD million) / (E) – eco units | *(amount in USD million) / (E) – eco units | *(amount in USD million) / (E) – eco units | *(amount in USD million) / (E) – eco units | *(amount in USD million) / (E) – eco units | *(amount in USD million) / (E) – eco units |
+
+*(amount in USD million) | (E) – eco units
 
 ## Page 7
 
@@ -237,39 +253,61 @@ The ship recycling market in Bangladesh saw a mix of cautious optimism and signi
 
 ## Page 15
 
-Gadani
+Anchorage & Beaching Position (SEPTEMBER 2025)
 
-Pakistan's market activity remains sparse this week. The sector is contending with significant headwinds, including price pressure on the domestic steel market from an influx of materials from neighboring regions and persistent operational hurdles related to HKC compliance. This has resulted in a very limited pool of active buyers, prompting a noticeable softening in offer levels. While local steel and scrap prices have held steady, a glimmer of cautious optimism is emerging as the monsoon season concludes, bringing hopes for improved conditions.
+| VESSEL NAME | TYPE | LDT | ARRIVAL | BEACHING |
+| --- | --- | --- | --- | --- |
+| DK 03 | BULKER | 7,809 | 04.08.2025 | ARRESTED |
+| CRYSTAL | TANKER | 7,052 | 17.09.2025 | 22.09.2025 |
+| RADE | LNG | 29,940 | 12.09.2025 | 21.09.2025 |
 
-Aliaga, Turkey
+# Gadani
 
-Another quiet week in the Turkish market with a distinct lack of movement in either pricing or transactional activity. This standstill mirrors the current state of the domestic steel industry, where prices have remained stable but are met with significant buyer reluctance. Recyclers have maintained their offer levels without change, and the market appears to be in a holding pattern, awaiting clearer economic signals before any new momentum is established.
+Pakistan's market activity remains sparse this week. The sector is contending with significant headwinds, including price pressure on the domestic steel market from an influx of materials from neighboring regions and persistent operational hurdles related to HKC compliance. This has resulted in a very limited pool of active buyers, prompting a noticeable softening in offer levels.
+
+While local steel and scrap prices have held steady, a glimmer of cautious optimism is emerging as the monsoon season concludes, bringing hopes for improved conditions.
+
+Anchorage & Beaching Position (SEPTEMBER 2025)
+
+| VESSEL NAME | TYPE | LDT | ARRIVAL | BEACHING |
+| --- | --- | --- | --- | --- |
+| FORTUNE OCEAN | GENERAL CARGO | 2,261 | 12.08.2025 | AWAITING |
+
+# Aliaga, Turkey
+
+Another quiet week in the Turkish market with a distinct lack of movement in either pricing or transactional activity. This standstill mirrors the current state of the domestic steel industry, where prices have remained stable but are met with significant buyer reluctance.
+
+Recyclers have maintained their offer levels without change, and the market appears to be in a holding pattern, awaiting clearer economic signals before any new momentum is established.
 
 ## Page 16
 
-Chattogram, Bangladesh : 20 ~ 23 September | 7 ~ 10 October Alang, India : 19 ~ 27 September | 5 ~ 14 October
+# BEACHING TIDE DATES 2025
 
----
+Chattogram, Bangladesh : 20 ~ 23 September | 7 ~ 10 October
 
-BUNKER PRICES (USD/ton)
+Alang, India : 19 ~ 27 September | 5 ~ 14 October
+
+#### BUNKER PRICES (USD/ton)
 
 | PORTS | VLSFO (0.5%) | HSFO (3.5%) | MGO (0.1%) |
-|---|---|---|---|
+| --- | --- | --- | --- |
 | SINGAPORE | 493 | 411 | 678 |
 | HONG KONG | 501 | 426 | 671 |
 | FUJAIRAH | 492 | 387 | 734 |
 | ROTTERDAM | 466 | 397 | 677 |
 | HOUSTON | 498 | 408 | 695 |
 
-EXCHANGE RATES
+#### EXCHANGE RATES
 
 | CURRENCY | September 26 | September 19 | W-O-W % CHANGE |
-|---|---|---|---|
+| --- | --- | --- | --- |
 | USD / CNY (CHINA) | 7.13 | 7.11 | -0.28% |
 | USD / BDT (BANGLADESH) | 121.57 | 121.87 | +0.25% |
 | USD / INR (INDIA) | 88.66 | 88.13 | -0.60% |
 | USD / PKR (PAKISTAN) | 282.41 | 283.09 | +0.24% |
-| USD / TRY (TURKEY) | 41.57 Sub-Continent and Turkey ferrous scrap markets insights | 41.36 | -0.51% |
+| USD / TRY (TURKEY) | 41.57 | 41.36 | -0.51% |
+
+Sub-Continent and Turkey ferrous scrap markets insights
 
 ### India
 

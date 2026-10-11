@@ -88,14 +88,13 @@ anticipated to tighten in the Atlantic. At the week's closing, levels slipped sl
 
 ## Page 4
 
-# Baltic Exchange Dry Bulk Indices
+#### BALTIC EXCHANGE DRY BULK INDICES
 
 #### BALTIC EXCHANGE DRY BULK INDICES
 
-CURRENT LAST WEEK LAST YEAR W-O-W CHANGE % Y-O-Y CHANGE %
-
+|  | CURRENT | LAST WEEK | LAST YEAR | W-O-W CHANGE % | Y-O-Y CHANGE % |
+| --- | --- | --- | --- | --- | --- |
 | BDI | 1,242 | 1,189 | 2,767 | +4.46 | -55.11 |
-|---|---|---|---|---|---|
 | BCI | 1,384 | 1,122 | 3,906 | +23.35 | -64.57 |
 | BPI | 1,466 | 1,594 | 2,621 | -8.03 | -44.07 |
 | BSI | 1,174 | 1,170 | 2,316 | +0.34 | -49.31 |
@@ -103,12 +102,14 @@ CURRENT LAST WEEK LAST YEAR W-O-W CHANGE % Y-O-Y CHANGE %
 
 #### BULKER 12 MONTHS T/C RATES AVERAGE (IN USD/DAY)
 
-DWT CURRENT LAST WEEK LAST YEAR W-O-W CHANGE % Y-O-Y CHANGE % CAPE 180,000 13,750 12,500 24,500 +10 -43.88
-
+|  | DWT | CURRENT | LAST WEEK | LAST YEAR | W-O-W CHANGE % | Y-O-Y CHANGE % |
+| --- | --- | --- | --- | --- | --- | --- |
+| CAPE | 180,000 | 13,750 | 12,500 | 24,500 | +10 | -43.88 |
 | PANAMAX | 75,000 | 13,850 | 13,850 | 19,000 | 0 | -27.11 |
-|---|---|---|---|---|---|---|
 | SUPRAMAX | 52,000 | 13,000 | 12,500 | 21,125 | +4 | -38.46 |
 | HANDYSIZE | 32,000 | 10,500 | 10,500 | 21,875 | 0 | -52.00 |
+
+# Dry Bulk 1 year T/C rates
 
 ## Page 5
 
@@ -163,6 +164,33 @@ Correlation shift to the Atlantic continues to rise as more tonnage becomes avai
 This week saw better rates in the segment. The MR market was buoyed by robust activity in the UKC and USG. TC2 improved to WS378. The LR1 was also busy this week, the TC16 index saw gains of 98.57 points to WS332.
 
 # Tankers S&P Report
+
+| VESSEL NAME | TYPE | DWT | YEAR | BUILT | PRICE (MILLION) USD | COMMENTS / BUYERS |
+| --- | --- | --- | --- | --- | --- | --- |
+| MARIA GRACE | SUEZ | 160,289 | 2002 | S. KOREA | 22.5 | TURKISH BUYERS |
+| SIFIS | AFRA | 105,827 | 2007 | JAPAN | 32.2 | UNDISCLOSED |
+| PGC IKAROS | LR1 | 72,829 | 2004 | CHINA | 12.7 | TURKISH BUYERS |
+| ATHLOS | MR | 50,034 | 2016 | CHINA | 41.0 | UNDISCLOSED |
+| VALLERMOSA | MR | 40,218 | 2003 | S. KOREA | 12.0 | CHINESE BUYERS |
+| CAPE GUINEA | MR | 37,554 | 2008 | S. KOREA | 16.4 | GREEK BUYERS |
+| PERSEUS N | MR | 36,264 | 2009 | S. KOREA | N/A | TURKISH BUYERS |
+| MTM TOKYO / MTM FAIRFIELD | PROD / CHEM | 20,857 | 2003 / 2002 | JAPAN | 22.0 EN BLOC | UNDISCLOSED |
+| YU RU | PROD / CHEM | 16,718 | 2011 | CHINA | 12.5 | INDIAN BUYERS |
+| STO CAMELLIA | PROD / CHEM | 11,679 | 2000 | JAPAN | 5.6 | INDONESIAN BUYERS |
+
+# Tankers Values
+
+(Weekly)
+
+| TANKERS | DWT | NB CONTRACT | NB PROMPT DELIVERY | 5 YEARS | 10 YEARS | 20 YEARS |
+| --- | --- | --- | --- | --- | --- | --- |
+| VLCC | 310,000 | 120 | 120 | 90 | 66 | 44 |
+| SUEZMAX | 160,000 | 80 | 80 | 62 | 46 | 23 |
+| AFRAMAX | 115,000 | 61 | 73 | 58 | 43 | 23 |
+| PANAMAX-LR1 | 73,000 | 54 | 56 | 44 | 33 | 15 |
+| MR TANKER | 51,000 | 43 | 46 | 39 | 28 | 15 |
+
+* (amount in USD million)
 
 ## Page 7
 
@@ -318,15 +346,44 @@ It was a quiet week for Pakistani recyclers looking for encouragement in the abs
 
 ## Page 14
 
-### Bunker Prices (USD / ton)
+# ALIAGA, TURKEY
 
-| PORT | VLSFO (0.5%) | HSFO (3.5%) | MGO (0.1%) |
-| :--- | :---: | :---: | :---: |
+Due to the recent increase in scrap prices, Turkish mills have raised their long steel bids. On Thursday, mills' export proposals were from US$640 / ton FOB Turkey's actual weight, up from US$615-630/t the previous week.
+
+Despite the increase in activity, Turkish mills are concerned about the long-term viability of present sales, as Turkey's already high prices have risen much more in comparison to rivals.
+
+Scrap prices, on the other hand, are rising, making Turkish mills less inclined to lower their pricing. Midweek, a UK-origin HMS 1&2 80:20 cargo was settled at US$344/t CFR Turkey.
+
+However, the overall mood in the Turkey sector remains slightly cautious as there is still a lack of end-user demand.
+
+#### BEACHING TIDE DATES 2022
+
+Chattogram, Bangladesh : 6th Dec. ~ 9th Dec. | 23rd Dec. ~ 26th Dec.
+Alang, India : 22nd Nov. ~ 29th Nov. | 05th Dec. ~ 13th Dec.
+
+# Bunker Prices
+
+#### BUNKER PRICES (USD/TON)
+
+| PORTS | VLSFO (0.5%) | IFO380 CST | MGO (0.1%) |
+| --- | --- | --- | --- |
 | SINGAPORE | 671 | 417 | 1000 |
 | HONG KONG | 675 | 467 | 948 |
 | FUJAIRAH | 642 | 376 | 1103 |
 | ROTTERDAM | 578 | 379 | 887 |
 | HOUSTON | 580 | 410 | 947 |
+
+# Exchange Rates
+
+#### EXCHANGE RATES
+
+|  | 25th NOVEMBER | 18th NOVEMBER | W-O-W % CHANGE |
+| --- | --- | --- | --- |
+| USD / CNY (CHINA) | 7.16 | 7.11 | -0.70% |
+| USD / BDT (BANGLADESH) | 102.00 | 103.03 | +1.00% |
+| USD / INR (INDIA) | 81.62 | 81.54 | -0.10% |
+| USD / PKR (PAKISTAN) | 224.36 | 223.12 | -0.56% |
+| USD / TRY (TURKEY) | 18.63 | 18.60 | -0.16% |
 
 ## Page 15
 

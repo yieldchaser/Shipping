@@ -371,7 +371,7 @@ Shipbuilding activity was kept firm in September overall, edging higher from the
 # Demolition Market
 ## Indicative Demolition Prices ($/ldt)
 
-| Markets | Markets | 30/09/2022 | 23/09/2022 | ±% | 2020 | 2019 |
+| Markets | 30/09/2022 | 23/09/2022 | ±% | 2020 | 2019 | 2018 |
 | --- | --- | --- | --- | --- | --- | --- |
 | Tanker |  |  |  |  |  |  |
 | Bangladesh | 600 | 600 | 0.0% | 348 | 410 | 442 |

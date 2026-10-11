@@ -238,42 +238,63 @@ Chattogram maintained its position as the regional leader, even as local pricing
 
 ## Page 15
 
-Gadani
+Anchorage & Beaching Position (APRIL 2026)
 
-Gadani experienced quiet anticipation this week, as a lack of recent sales made it difficult to define a specific direction for prices. While Pakistani buyers remain eager to acquire new vessels, they are currently finding it difficult to match the aggressive pricing coming out of Bangladesh, which has limited the amount of new work arriving at local yards. Scarcity of available ships is being offset slightly by a steady demand for local scrap metal, especially since the ongoing regional conflict has interrupted the usual flow of steel imports from the Middle East. Although this domestic need provides a baseline of support for the industry, the overall mood remains cautious. Without a steady supply of new tonnage to process, the market is currently leaning on its internal requirements, waiting for a more favourable shift in global vessel availability.
+| VESSEL NAME | TYPE | LDT | ARRIVAL | BEACHING |
+| --- | --- | --- | --- | --- |
+| CAN | BARGE | 48,125 | 16.04.2026 | AWAITING |
+| ISA GOLDEN | BULKER | 6,257 | 07.04.2206 | 18.04.2026 |
+| YU YING NO.02 | TRAINING SHIP | 1,581 | 07.04.2206 | 10.04.2206 |
+| TAI JI | REEFER | 3,241 | 31.03.2026 | 04.04.2026 |
+| SHUEN | CONTAINER | 1,589 | 31.03.2026 | 06.04.2026 |
 
-Aliaga, Turkiye
+# Gadani
+
+Gadani experienced quiet anticipation this week, as a lack of recent sales made it difficult to define a specific direction for prices. While Pakistani buyers remain eager to acquire new vessels, they are currently finding it difficult to match the aggressive pricing coming out of Bangladesh, which has limited the amount of new work arriving at local yards.
+
+Scarcity of available ships is being offset slightly by a steady demand for local scrap metal, especially since the ongoing regional conflict has interrupted the usual flow of steel imports from the Middle East. Although this domestic need provides a baseline of support for the industry, the overall mood remains cautious. Without a steady supply of new tonnage to process, the market is currently leaning on its internal requirements, waiting for a more favourable shift in global vessel availability.
+
+Anchorage & Beaching Position (APRIL 2026)
+
+| VESSEL NAME | TYPE | LDT | ARRIVAL | BEACHING |
+| --- | --- | --- | --- | --- |
+| - | - | - | - | - |
+
+# Aliaga, Turkiye
 
 Turkiye maintained a steady and consistent pace, with little movement in overall pricing or market sentiment. In Aliağa, shipbreaking scrap prices have remained stable at approximately US$378/ton, while typical vessel valuations for different categories have held firm, with tankers being quoted around US$270 per LDT. Most recycling yards are operating at their maximum capacity, which has resulted in a very limited interest in making new purchases for the time being. Although the underlying market conditions have not weakened, there is a noticeable absence of buying urgency as yard owners focus on processing their existing inventories.
 
 ## Page 16
 
-Chattogram, Bangladesh : 17 ~ 20 April | 29 April ~ 3 May Alang, India : 16 ~ 23 April | 30 April ~ 3 May
+# BEACHING TIDE DATES 2026
 
----
+Chattogram, Bangladesh : 17 ~ 20 April | 29 April ~ 3 May
 
-BUNKER PRICES (USD/ton)
+Alang, India
 
-PORTS VLSFO (0.5%) HSFO (3.5%) MGO (0.1%)
+: 16 ~ 23 April | 30 April ~ 3 May
 
+#### BUNKER PRICES (USD/ton)
+
+| PORTS | VLSFO (0.5%) | HSFO (3.5%) | MGO (0.1%) |
+| --- | --- | --- | --- |
 | SINGAPORE | 871 | 706 | 1837 |
-|---|---|---|---|
 | HONG KONG | 901 | 764 | 1620 |
 | FUJAIRAH | 816 | 714 | 1685 |
 | ROTTERDAM | 718 | 670 | 1341 |
 | HOUSTON | 849 | 700 | 1334 |
 
-EXCHANGE RATES
+#### EXCHANGE RATES
 
 | CURRENCY | April 17 | April 10 | W-O-W % CHANGE |
-|---|---|---|---|
+| --- | --- | --- | --- |
 | USD / CNY (CHINA) | 6.81 | 6.82 | +0.15% |
 | USD / BDT (BANGLADESH) | 122.88 | 122.81 | -0.06% |
 | USD / INR (INDIA) | 92.49 | 93.05 | +0.60% |
 | USD / PKR (PAKISTAN) | 278.88 | 279.02 | +0.05% |
 | USD / TRY (TURKEY) | 44.85 | 44.65 | -0.45% |
 
-Sub-Continent and Turkey ferrous scrap markets insights
+# Sub-Continent and Turkey ferrous scrap markets insights
 
 ### India
 

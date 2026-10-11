@@ -116,27 +116,28 @@ The Pacific had a strong start, but the end of the week was more subdued with th
 
 ## Page 4
 
-# Baltic Exchange Dry Bulk Indices
-
 ### BALTIC EXCHANGE DRY BULK INDICES
 
-CURRENT LAST WEEK LAST YEAR W-O-W CHANGE % Y-O-Y CHANGE %
+#### BALTIC EXCHANGE DRY BULK INDICES
 
+|  | CURRENT | LAST WEEK | LAST YEAR | W-O-W CHANGE % | Y-O-Y CHANGE % |
+| --- | --- | --- | --- | --- | --- |
 | BDI | 1,534 | 1,819 | 3,519 | -15.67 | -56.41 |
-|---|---|---|---|---|---|
 | BCI | 1,670 | 2,071 | 4,349 | -19.36 | -61.60 |
 | BPI | 1,817 | 2,144 | 3,896 | -15.25 | -53.36 |
 | BSI | 1,483 | 1,678 | 3,104 | -11.62 | -52.22 |
 | BHSI | 897 | 961 | 1,972 | -6.66 | -54.51 |
 
-### BULKER 12 MONTHS T/C RATES AVERAGE (IN USD/DAY)
+#### BULKER 12 MONTHS T/C RATES AVERAGE (IN USD/DAY)
 
-DWT CURRENT LAST WEEK LAST YEAR W-O-W CHANGE % Y-O-Y CHANGE % CAPE 180,000 13,500 14,500 27,500 -6.90 -50.91
-
+|  | DWT | CURRENT | LAST WEEK | LAST YEAR | W-O-W CHANGE % | Y-O-Y CHANGE % |
+| --- | --- | --- | --- | --- | --- | --- |
+| CAPE | 180,000 | 13,500 | 14,500 | 27,500 | -6.90 | -50.91 |
 | PANAMAX | 75,000 | 15,000 | 15,450 | 27,500 | -2.91 | -46.36 |
-|---|---|---|---|---|---|---|
 | SUPRAMAX | 52,000 | 14,000 | 15,500 | 25,000 | -9.68 | -44.00 |
 | HANDYSIZE | 32,000 | 13,000 | 13,750 | 26,750 | -5.45 | -53.27 |
+
+# Dry Bulk 1 year T/C rates
 
 ## Page 5
 
@@ -163,6 +164,35 @@ The Middle East/Southeast Asia section's W.S. saw an uptick of 8.4% this week. I
 This week in the Middle East Gulf, LR2s freight levels were quiet. TC1 lost five points to WS192. Meanwhile, AG MRs were strong, with the TC17 Index gaining 42 points to reach WS402. UK-Continent MRs remains muted, with the TC2 shedding 18 points to reach WS282.5, and the TC19 falling from WS309.
 
 # Tankers S&P Report
+
+| VESSEL NAME | TYPE | DWT | YEAR | BUILT | PRICE (MILLION) USD | COMMENTS / BUYERS |
+| --- | --- | --- | --- | --- | --- | --- |
+| SHIBLAH | VLCC | 316,476 | 2003 | S. KOREA | 44.0 | CHINESE BUYERS |
+| PACIFIC M / NEPTUNE M | VLCC | 299,546 | 2019 | S. KOREA | 180.0 EN BLOC | UNDISCLOSED |
+| CAP PHILIPPE | SUEZ | 158,920 | 2006 | S. KOREA | 32.7 | MARSHAL SHIPPING |
+| AQUAVIRTUE | SUEZ | 156,800 | 2022 | S. KOREA | 76.0 | THENAMARIS |
+| P. FOS | AFRA | 155,577 | 2007 | JAPAN | 34.0 | UNDISCLOSED |
+| SEA PUMA / SEA TIGER | AFRA | 115,000 | 2023 | CHINA | 143.0 EN BLOC | NAVIG8 |
+| HAO YU | AFRA | 105,522 | 2005 | JAPAN | 27.0 | MIDDLE EASTERN BUYERS |
+| GOTLAND SOFIA / GOTLAND ALIYA / GOTLAND MARIEANN | MR | 53,187 ~ 53,116 | 2007 / 2008 | CHINA | 55.0 EN BLOC | CHINESE BUYERS |
+| FALCON BAY | MR | 47,147 | 2009 | S. KOREA | 23.0 | UNDISCLOSED |
+| RF ALICE | PROD / CHEM | 13,273 | 2008 | S. KOREA | 7.1 | VIETNAMESE BUYERS |
+| DS COUGAR | PROD / CHEM | 12,585 | 2009 | JAPAN | 13.5 | UNDISCLOSED |
+| DUMANKAYA | SMALL | 4,622 | 2007 | TURKEY | 5.7 | MURMANSK |
+
+# Tankers Values
+
+(Weekly)
+
+| TANKERS | DWT | NB CONTRACT | NB PROMPT DELIVERY | 5 YEARS | 10 YEARS | 20 YEARS |
+| --- | --- | --- | --- | --- | --- | --- |
+| VLCC | 310,000 | 120 | 117 | 88 | 65 | 43 |
+| SUEZMAX | 160,000 | 80 | 78 | 60 | 44 | 23 |
+| AFRAMAX | 115,000 | 61 | 72 | 57 | 42 | 23 |
+| PANAMAX-LR1 | 73,000 | 54 | 56 | 44 | 30 | 15 |
+| MR TANKER | 51,000 | 43 | 46 | 39 | 28 | 14 |
+
+* (amount in USD million)
 
 ## Page 7
 
@@ -317,10 +347,36 @@ The ship recycling markets remained on the sidelines with no signs of any improv
 
 ## Page 14
 
-### Bunker Prices (USD / ton)
+# Anchorage & Beaching Position (October 2022)
 
-| PORT | VLSFO (0.5%) | HSFO (3.5%) | MGO (0.1%) |
-| :--- | :---: | :---: | :---: |
+| VESSEL NAME | TYPE | LDT | ARRIVAL | BEACHING |
+| --- | --- | --- | --- | --- |
+| LINDA STAR | BULKER | 6,475 | 19.10.2022 | 23.10.2022 |
+| MEDROCK II | BARGE | 1,550 | 18.10.2022 | 25.10.2022 |
+| OCEAN YOUNKER | TUG | 625 | 18.10.2022 | 25.10.2022 |
+| CHEVAL BLEU | TANKER | 21,822 | 04.10.2022 | 08.10.2022 |
+
+# ALIAGA, TURKEY
+
+Markets remained subdued, with scrap prices on a fall. Ship recycling prices also corrected with weak demand.
+
+Cheap scrap bookings were made for Turkey. A U.S. scrap supplier sold HMS an 85:15 grade to Turkey at US$363.5/t CFR Iskenderun last Friday for November shipment. Shredded/bonus total was 15kt.
+
+Overall, sentiments were weakening day by day as the Turkish mills were struggling to get better prices for the region for their exports.
+
+Rising energy prices and weak domestic and export demand has kept ship recycling activities subdued.
+
+#### BEACHING TIDE DATES 2022
+
+Chattogram, Bangladesh : 6th Nov. ~ 9th Nov. | 22nd Nov. ~ 25th Nov.
+Alang, India : 6th Nov. ~ 13th Nov. | 22nd Nov. ~ 29th Nov.
+
+# Bunker Prices
+
+#### BUNKER PRICES (USD/TON)
+
+| PORTS | VLSFO (0.5%) | IFO380 CST | MGO (0.1%) |
+| --- | --- | --- | --- |
 | SINGAPORE | 718 | 389 | 1045 |
 | HONG KONG | 715 | 417 | 1001 |
 | FUJAIRAH | 694 | 386 | 1255 |

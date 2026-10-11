@@ -199,30 +199,65 @@ The global container shipping market maintained a steady posture this week as th
 
 ## Page 10
 
-### Ship Recycling - Current Market Snapshot (USD / LDT)
+# SHIP RECYCLING
+
+Current Market Snapshot (USD / LDT)
 
 | DESTINATION | TANKERS | BULKERS | GENERAL CARGO | CONTAINERS | OUTLOOK / SENTIMENTS |
-| :--- | :---: | :---: | :---: | :---: | :---: |
-| ALANG, INDIA | $490-500 | $480-490 | $440-450 | $540-550 | STABLE / |
-| CHATTOGRAM, BANGLADESH | $510 - 520 | $490-500 | $480-490 | $560-570 | STABLE / |
-| GADDANI, PAKISTAN | $520-530 | $510-520 | $490-500 | $540-550 | STABLE / |
-| ALIAGA, TURKEY | $320-330 | $310-320 | $290-300 | $340-350 | STABLE / |
+| --- | --- | --- | --- | --- | --- |
+| ALANG, INDIA | $490–500 | $480–490 | $440–450 | $540–550 | STABLE / [IMAGE] |
+| CHATTOGRAM, BANGLADESH | $510 - 520 | $490–500 | $480–490 | $560–570 | STABLE / [IMAGE] |
+| GADDANI, PAKISTAN | $520–530 | $510–520 | $490–500 | $540–550 | STABLE / [IMAGE] |
+| ALIAGA, TURKEY* | $320–330 | $310–320 | $290–300 | $340–350 | STABLE / [IMAGE] |
 
-### Demolition - Reported Sales
+* Turkey prices for non-EU ships. EU vessels approx. US$20–30/ton less.
 
-| DELIVERY / TERMS |
-| --- |
-| No reported sales this week |
+All prices are USD per light displacement tonnage (long ton), net prices offered by recycling yards. Premiums apply based on spares quality, non-ferrous content, bunkers, cargo history, and maintenance. Basis simple Japanese/Korean-built tonnages.
+
+• All prices are USD per light displacement tonnage in the long ton.
+
+• The prices reported are net prices offered by the recycling yards.
+
+• Prices quoted are basis simple Japanese / Korean-built tonnages trading units. Premiums are paid on top of the above-quoted prices based on quality & quality of Spares, Non-Fe., bunkers, cargo history, and maintenance.
+
+5-Year Historical Average Prices (Week 39)
+
+| DESTINATION | 2021 | 2022 | 2023 | 2024 | 2025 |
+| --- | --- | --- | --- | --- | --- |
+| ALANG, INDIA | 545 | 570 | 550 | 570 | 420 |
+| CHATTOGRAM, BANGLADESH | 580 | 620 | 460 | 490 | 420 |
+| GADDANI, PAKISTAN | 585 | 550 | 510 | 480 | 430 |
+| ALIAGA, TURKEY | 280 | 320 | 300 | 320 | 270 |
+
+Reported Sales
+
+| VESSEL NAME | TYPE | LDT | YEAR / BUILT | PRICE (US/LDT) | COMMENTS |
+| --- | --- | --- | --- | --- | --- |
+| MAESTRO 1 | BULKER | 5,142 | 1998 / JAPAN | 507 | DELIVERED GADANI |
+| NEPT | REEFER | 3,040 | 1988 / JAPAN | 475 | DELIVERED CHATTOGRAM |
 
 ## Page 11
 
 ## Page 12
 
-JAMES TANKER 22,657 12.09.2026 16.09.2026
+# Market Insights
 
-**Chattogram, Bangladesh: Chattogram maintained a largely stable week, even as domestic steel prices**
+Alang, India: Alang saw local pricing levels pull back noticeably this week. While standard dry bulk and container tonnage continues to prove difficult for Indian cash buyers to secure against higher regional bidding, the waterfront maintains a steady foundation of activity thanks to healthy domestic appetite for specialised assets. Niche units such as reefers, LNGs, and ships rich in non-ferrous machinery continue to generate strong interest and distinct pricing from local recyclers.
 
-softened and placed downward pressure on recyclers' offers. While underlying appetite has been gradually resurfacing in recent weeks, translating that interest into concluded deals remains an uphill battle due to an acute shortage of fresh candidates. Local steel demand continues to crawl at a sluggish pace, leaving buyers cautious and transaction boards virtually inert as the market approaches the fourth quarter.
+In its newly released September survey, the World Economic Forum recognised India as maintaining the strongest economic outlook globally, with nearly three quarters of surveyed chief economists projecting strong growth over the next twelve months backed by firm consumer spending and infrastructure activity. While the Reserve Bank of India keeps a watchful eye on energy import costs and creeping food prices ahead of its upcoming policy meeting, national foreign exchange reserves remain near record highs at approximately US$766 billion. This expansive financial cushion stabilises the domestic banking network and ensures smooth trade liquidity, giving Alang's yard operators a reliable domestic steel floor and dependable banking support to navigate ongoing price volatility.
+
+Alang Anchorage & Beaching Position — September 2026
+
+| VESSEL | TYPE | LDT | ARRIVAL | BEACHING |
+| --- | --- | --- | --- | --- |
+| ORION | TANKER | 28,214 | 25.09.2026 | AWAITING |
+| FLORA | TANKER | 9,742 | 23.09.2026 | 25.03.2026 |
+| NOVAYA ZEMLYA | GENERAL CARGO | 8,110 | 16.09.2026 | 24.09.2026 |
+| FRIO HELLENIC | REEFER | 6,520 | 12.09.2026 | 19.09.2026 |
+| MANDARIN ARROW | GENERAL CARGO | 14,824 | 10.09.2026 | 12.09.2026 |
+| JAMES | TANKER | 22,657 | 12.09.2026 | 16.09.2026 |
+
+Chattogram, Bangladesh: Chattogram maintained a largely stable week, even as domestic steel prices softened and placed downward pressure on recyclers’ offers. While underlying appetite has been gradually resurfacing in recent weeks, translating that interest into concluded deals remains an uphill battle due to an acute shortage of fresh candidates. Local steel demand continues to crawl at a sluggish pace, leaving buyers cautious and transaction boards virtually inert as the market approaches the fourth quarter.
 
 This subdued activity mirrors a broader sense of caution across Bangladesh's macroeconomic landscape, as financial authorities navigate sticky inflation and tight monetary conditions. In its updated Asian Development Outlook released on September 23, the Asian Development Bank lowered its growth forecast for Bangladesh to 4.0% for the current fiscal period while raising its inflation projection to 9.0%, citing persistent energy shortages, high production costs, and ongoing global shipping headwinds. Reinforcing this vigilant economic stance, Bangladesh Bank opted at its latest monetary policy meeting to hold the benchmark policy rate steady at 9.5%, aiming to stabilise commodity prices and assess the impact of recent fuel adjustments amid regional geopolitical volatility.
 
@@ -343,9 +378,16 @@ strong American economic indicators lifted the U.S. dollar and fueled projection
 ### Bunker Prices (USD / ton)
 
 | PORT | VLSFO (0.5%) | HSFO (3.5%) | MGO (0.1%) |
-| :--- | :---: | :---: | :---: |
+| --- | --- | --- | --- |
 | SINGAPORE | $906 | $741 | $1445 |
 | HONG KONG | $921 | $788 | $1445 |
 | FUJAIRAH | $1014 | $749 | $1707 |
 | ROTTERDAM | $717 | $622 | $1500 |
 | HOUSTON | $787 | $530 | $1481 |
+
+Singapore | London | Dubai
+
+For Privacy Policy
+
+This report is performed to the best of our knowledge based on the market conditions prevailing at the time mentioned. The report relates solely to the date/place referred to, and we emphasise that it is a statement of information collected from various market sources. All details above are from information given to us and such information as we have obtained from relevant references in our possession. Still, we can accept no responsibility, and we bear no liability for any loss or damage incurred to any person acting upon this report. STAR ASIA believes the information to be accurate and given in good faith but without guarantee. STAR ASIA will not be held responsible in any way for any action or failure to act based on the information given in this report. The use of the report cannot be reproduced or used without authorisation from STAR ASIA.
+

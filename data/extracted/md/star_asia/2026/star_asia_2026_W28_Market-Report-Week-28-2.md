@@ -92,10 +92,50 @@ Atlantic forced owners to lower their near-term rate expectations. While the Atl
 
 ## Page 4
 
-### Dry Bulk Annual Averages (USD / Day)
+Dry Bulk 1-year Time Charter Rates (Weekly, USD/day)
+July 2021 - July 2026 | 5 year view
+
+45,000
+40,000
+35,000
+30,000
+25,000
+20,000
+15,000
+10,000
+5,000
+Jul 2021
+Oct 2021
+Jan 2022
+Apr 2022
+Jul 2022
+Oct 2022
+Jan 2023
+Apr 2023
+Jul 2023
+Oct 2023
+Jan 2024
+Apr 2024
+Jul 2024
+Oct 2024
+Jan 2025
+Apr 2025
+Jul 2025
+Oct 2025
+Jan 2026
+Apr 2026
+Jul 2026
+Capesize
+Panamax
+Supramax
+Handysize
+
+| VESSEL | TYPE | DWT | YEAR / BUILT | PRICE (USD M) | BUYER |
+| --- | --- | --- | --- | --- | --- |
+| LILA TOCHIGI | HANDY | 28,354 | 2014 / JAPAN | 12.5 | ASIAN BUYERS |
 
 | SEGMENT (AVG) | 2022 | 2023 | 2024 | 2025 | 2026 YTD |
-| :--- | :---: | :---: | :---: | :---: | :---: |
+| --- | --- | --- | --- | --- | --- |
 | CAPESIZE | $22,188 | $16,304 | $22,715 | $21,646 | $34,250 |
 | PANAMAX | $20,488 | $14,734 | $16,357 | $14,383 | $17,500 |
 | SUPRAMAX | $20,380 | $14,578 | $16,294 | $14,255 | $18,250 |
@@ -204,14 +244,35 @@ The SCFI index rose 3.8% to 3,239.64 points, driven by intense transpacific spac
 
 ## Page 10
 
-### Ship Recycling - Current Market Snapshot (USD / LDT)
+# SHIP RECYCLING
+
+Current Market Snapshot (USD / LDT)
 
 | DESTINATION | TANKERS | BULKERS | GENERAL CARGO | CONTAINERS | OUTLOOK / SENTIMENTS |
-| :--- | :---: | :---: | :---: | :---: | :---: |
-| ALANG, INDIA | $440-450 | $430-440 | $420-430 | $470-480 | STABLE / |
-| CHATTOGRAM, BANGLADESH | $470-480 | $460-470 | $430-440 | $500-510 | STABLE / |
-| GADDANI, PAKISTAN | $480-490 | $450-460 | $430-440 | $470-480 | BULLISH / |
-| ALIAGA, TURKEY | $300-310 | $290-300 | $270-280 | $310-320 | STABLE / |
+| --- | --- | --- | --- | --- | --- |
+| ALANG, INDIA | $440–450 | $430–440 | $420–430 | $470–480 | STABLE / [IMAGE] |
+| CHATTOGRAM, BANGLADESH | $470–480 | $460–470 | $430–440 | $500–510 | STABLE / [IMAGE] |
+| GADDANI, PAKISTAN | $480–490 | $450–460 | $430–440 | $470–480 | BULLISH / [IMAGE] |
+| ALIAGA, TURKEY* | $300–310 | $290–300 | $270–280 | $310–320 | STABLE / [IMAGE] |
+
+* Turkey prices for non-EU ships. EU vessels approx. US$20–30/ton less.
+
+All prices are USD per light displacement tonnage (long ton), net prices offered by recycling yards. Premiums apply based on spares quality, non-ferrous content, bunkers, cargo history, and maintenance. Basis simple Japanese/Korean-built tonnages.
+
+• All prices are USD per light displacement tonnage in the long ton.
+
+• The prices reported are net prices offered by the recycling yards.
+
+• Prices quoted are basis simple Japanese / Korean-built tonnages trading units. Premiums are paid on top of the above-quoted prices based on quality & quality of Spares, Non-Fe., bunkers, cargo history, and maintenance.
+
+5-Year Historical Average Prices (Week 28)
+
+| DESTINATION | 2021 | 2022 | 2023 | 2024 | 2025 |
+| --- | --- | --- | --- | --- | --- |
+| ALANG, INDIA | 530 | 550 | 510 | 510 | 410 |
+| CHATTOGRAM, BANGLADESH | 580 | 550 | 550 | 520 | 420 |
+| GADDANI, PAKISTAN | 580 | 545 | 0 | 520 | 430 |
+| ALIAGA, TURKEY | 300 | 280 | 310 | 350 | 270 |
 
 ## Page 11
 
@@ -230,21 +291,45 @@ The SCFI index rose 3.8% to 3,239.64 points, driven by intense transpacific spac
 
 ## Page 12
 
+Sub Continent Light Displacement Tonnage in Metric Ton
+
+Total number of Vessel sold per month
+
 ## Market Insights
 
-**Alang, India: Sentiment weakened further through the week, and local prices continued to drift lower on**
+Alang, India: Sentiment weakened further through the week, and local prices continued to drift lower on thin buying interest. Alang is now clearly the sub-continent's price floor; the gap to Gadani at the steel plate level has widened to roughly USD 310/t, the largest of the year, with Alang plate slipping to INR 36,700 (~USD 385/t) by 3 July.
 
-thin buying interest. Alang is now clearly the sub-continent's price floor; the gap to Gadani at the steel plate level has widened to roughly USD 310/t, the largest of the year, with Alang plate slipping to INR 36,700 (~USD 385/t) by 3 July. Alang's counterweight to weak pricing is regulatory: over 110 yards hold valid Statements of Compliance, and discussions continue with the European Union over adding three Indian yards to the EU-approved list. If secured, EU-listing would be a structural re-rating for Indian demand, opening tonnage currently routed to Aliağa. A steady flow of dark-fleet units also continues to arrive, keeping activity visible despite the subdued spot tone. When the Gulf exit queue routes post-monsoon, it will split on price and compliance - and on compliance, Alang leads the basin. On the currency front, USD/INR retreated from a six-week best near INR94.26 on 25 June to trade around 95.1-95.2, surrendering most of the post-ceasefire recovery even with Brent back at pre-war levels. The pressure is external, Fed repricing, not domestic fundamentals. June CPI (due mid-month) is expected to stay benign, and the trade bill should narrow materially on USD 71 oil, so the fundamental backdrop improves even as the currency waits on Washington.
+Alang's counterweight to weak pricing is regulatory: over 110 yards hold valid Statements of Compliance, and discussions continue with the European Union over adding three Indian yards to the EU-approved list. If secured, EU-listing would be a structural re-rating for Indian demand, opening tonnage currently routed to Aliağa. A steady flow of dark-fleet units also continues to arrive, keeping activity visible despite the subdued spot tone. When the Gulf exit queue routes post-monsoon, it will split on price and compliance — and on compliance, Alang leads the basin.
+
+On the currency front, USD/INR retreated from a six-week best near INR94.26 on 25 June to trade around 95.1–95.2, surrendering most of the post-ceasefire recovery even with Brent back at pre-war levels. The pressure is external, Fed repricing, not domestic fundamentals. June CPI (due mid-month) is expected to stay benign, and the trade bill should narrow materially on USD 71 oil, so the fundamental backdrop improves even as the currency waits on Washington.
+
+Alang Anchorage & Beaching Position — July 2026
+
+| VESSEL | TYPE | LDT | ARRIVAL | BEACHING |
+| --- | --- | --- | --- | --- |
+| FRIO ANTARTIC | REEFER | 5,685 | 10.07.2026 | AWAITING |
+| VALLANT ROAR | TANKER | 4,155 | 10.07.2026 | AWAITING |
+| SEABAS | TANKER | 9,079 | 10.07.2026 | AWAITING |
+| GAUTAM | TUG | 780 | 04.07.2026 | AWAITING |
 
 ## Page 13
 
-**Chattogram, Bangladesh: Chattogram keeps its position at the head of sub-continent, though the tone**
-
-beneath the headline numbers is uneven. The broader market stayed soft throughout the week, a brief mid-week firming faded by the close, yet recyclers are bidding aggressively and almost exclusively for small and mid-sized tankers, where several deals were concluded at punchy levels. Appetite for other segments remains thin, and buyers are watching price direction before committing more broadly. On the supply side, Chattogram has seen renewed arrivals of smaller Chinese domestic vessels after a relatively quiet spell. While these Chinese built domestic general cargo ships are typically concluded at softer levels compared with conventional Japanese and South Korean built tonnage, owing to higher weight loss and lower recoverable steel content, recyclers have remained receptive. With suitable market tonnage still in short supply, yards appear prepared to accommodate such units in order to maintain cutting activity and keep operations moving.
-
-| Chattogram Anchorage | & Beaching Position | - July | 2026 |  |
-|---|---|---|---|---|
 | VESSEL | TYPE | LDT | ARRIVAL | BEACHING |
+| --- | --- | --- | --- | --- |
+| BATO | FISHING | 3,922 | 08.07.2026 | 11.07.2026 |
+| `SEATURBO | TANKER | 9,080 | 06.07.2026 | 11.06.2026 |
+| WHITE STAR | TANKER | 8,700 | 03.07.2026 | 07.07.2026 |
+| STOLT SYPRESS | CHEM. TANKER | 11,452 | 02.07.2026 | 11.07.2026 |
+| VEGA | RORO | 8,146 | 02.07.2026 | 03.07.2026 |
+
+Chattogram, Bangladesh: Chattogram keeps its position at the head of sub-continent, though the tone beneath the headline numbers is uneven. The broader market stayed soft throughout the week, a brief mid-week firming faded by the close, yet recyclers are bidding aggressively and almost exclusively for small and mid-sized tankers, where several deals were concluded at punchy levels. Appetite for other segments remains thin, and buyers are watching price direction before committing more broadly.
+
+On the supply side, Chattogram has seen renewed arrivals of smaller Chinese domestic vessels after a relatively quiet spell. While these Chinese built domestic general cargo ships are typically concluded at softer levels compared with conventional Japanese and South Korean built tonnage, owing to higher weight loss and lower recoverable steel content, recyclers have remained receptive. With suitable market tonnage still in short supply, yards appear prepared to accommodate such units in order to maintain cutting activity and keep operations moving.
+
+Chattogram Anchorage & Beaching Position — July 2026
+
+| VESSEL | TYPE | LDT | ARRIVAL | BEACHING |
+| --- | --- | --- | --- | --- |
 | MAYMEI | TANKER | 9,877 | 25.06.2026 | AWAITING |
 | MEILI | MPP | 902 | 08.07.2026 | AWAITING |
 | FU HAI 8 | GENERAL CARGO | 1,460 | 02.07.2026 | 07.07.2026 |
@@ -255,7 +340,7 @@ beneath the headline numbers is uneven. The broader market stayed soft throughou
 | SANWA FOUNTAIN | REEFER | 2,083 | 29.06.2026 | 03.07.2026 |
 | HAI XU | GENERAL CARGO | 1,870 | 28.06.2026 | 03.07.2026 |
 | GUANG HUA 6 | GENERAL CARGO | 1,223 | 26.06.2026 | 03.07.2026 |
-| THANE | WOODCHIP | 10.160 | 25.06.2026 | 02.07.2026 |
+| THANE | WOODCHIP CARRIER | 10.160 | 25.06.2026 | 02.07.2026 |
 
 ## Page 14
 
@@ -346,12 +431,24 @@ In the steel and raw materials market, iron ore fines (Fe 61%) spot prices climb
 
 ## Page 17
 
+| CURRENCY PAIR | JULY 10 | JULY 3 | WoW % |
+| --- | --- | --- | --- |
+| USD / PKR (Pakistan) | 278.14 | 278.28 | +0.05% |
+| USD / TRY (Turkey) | 46.91 | 46.62 | -0.62% |
+
 ### Bunker Prices (USD / ton)
 
 | PORT | VLSFO (0.5%) | HSFO (3.5%) | MGO (0.1%) |
-| :--- | :---: | :---: | :---: |
+| --- | --- | --- | --- |
 | SINGAPORE | $671 | $476 | $937 |
 | HONG KONG | $696 | $529 | $1001 |
 | FUJAIRAH | $701 | $500 | $1,226 |
 | ROTTERDAM | $615 | $476 | $944 |
 | HOUSTON | $612 | $470 | $988 |
+
+Singapore | London | Dubai
+
+For Privacy Policy
+
+This report is performed to the best of our knowledge based on the market conditions prevailing at the time mentioned. The report relates solely to the date/place referred to, and we emphasise that it is a statement of information collected from various market sources. All details above are from information given to us and such information as we have obtained from relevant references in our possession. Still, we can accept no responsibility, and we bear no liability for any loss or damage incurred to any person acting upon this report. STAR ASIA believes the information to be accurate and given in good faith but without guarantee. STAR ASIA will not be held responsible in any way for any action or failure to act based on the information given in this report. The use of the report cannot be reproduced or used without authorisation from STAR ASIA.
+

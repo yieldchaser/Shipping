@@ -32,25 +32,29 @@ The economic consequences of this prolonged deadlock are now being felt across t
 
 ## Page 2
 
-### Baltic Dry Index (BDI)
+# DRY BULK | BDI: 2,978 +9.08% (w-o-w)
 
-**BDI: 2,978** (WoW: +9.08% | YoY: +129.25%)
+The dry bulk sector demonstrated significant strength this Friday, as the Baltic Exchange's main freight index climbed to reach 2,978 points, its highest level since early December 2025. This upward momentum was primarily fuelled by the larger vessel categories, with the Capesize index jumping to a five-month peak of 4,955 points, while the Panamax index rose to 2,233 points.
 
-| BCI | BPI | BSI | BHSI |
-| :---: | :---: | :---: | :---: |
-| 4,955 | 2,233 | 1,522 | 833 |
-| WoW: +11.42% | WoW: +11.54% | WoW: +0.13% | WoW: +2.21% |
-| YoY: +189.94% | YoY: +65.04% | YoY: +57.07% | YoY: +50.36% |
+Despite these healthy levels, the market is currently witnessing a notable collapse in volatility to levels not seen in years, largely mirroring the steady, range-bound behaviour of iron ore prices. However, this period of relative tranquillity may be deceptive; while supply constraints are keeping rates elevated for now, intensifying global economic risks and potential shocks in emerging Asian markets suggest the sector may face challenges in remaining insulated from broader macroeconomic headwinds.
 
-### Vessel Values (USD Million)
+# Segment Highlights
 
-| TYPE | DWT | NB CONTRACT | NB PROMPT | 5 YRS | 10 YRS | 15 YRS |
-| :--- | :---: | :---: | :---: | :---: | :---: | :---: |
+Capesize: Robust surge across all segments, with Pacific R/V jumping to US$47,075 as West Australia/China routes lead the sector's gains. In the Atlantic, limited prompt tonnage and healthy mineral flows have pushed T/A rates to US$47,400's. Sentiment remains positive as the market outperforms paper expectations.
 
-### Sale & Purchase - Reported Fixtures
+Panamax / Kamsarmax: A pickup in grain activity from South America has effectively cleared the Atlantic tonnage list, with F/H routes hitting US$26,300. Despite Golden Week, Pacific remains resilient with tight availability and steady mineral demand from Australia and Indonesia, pushing R/V averages to US$21,099.
 
-| VESSEL | TYPE | DWT | YEAR / BUILT | PRICE (USD M) | BUYER |
-| :--- | :---: | :---: | :---: | :---: | :--- |
+Supramax / Ultramax: The Supramax market remains largely steady, with T/A earnings rising to US$23,400's as localised demand in the USG offsets a softer Mediterranean market. In the Pacific, tighter vessel availability and stable cargo flows have supported a modest rise in R/V rates to US$17,350.
+
+Handysize: The Inter-Pacific route closed at US$14,800 as tight tonnage in Asia helps offset a slower start to the month. While the broader market remains cautious, improved demand in the USG and S. Atlantic has supported a modest rise in T/A earnings to US$13,950's. Activity has lost some momentum following recent holidays, but steady demand suggests the sector is maintaining a firm floor despite limited cargo flows.
+
+Baltic Dry Indices
+
+| BDI | BCI | BPI | BSI | BHSI |
+| --- | --- | --- | --- | --- |
+| 2,978 | 4,955 | 2,233 | 1,522 | 833 |
+| WoW: +9.08% | WoW: +11.42% | WoW: +11.54% | WoW: +0.13% | WoW: +2.21% |
+| YoY: +129.25% | YoY: +189.94% | YoY: +65.04% | YoY: +57.07% | YoY: +50.36% |
 
 ## Page 3
 
@@ -93,34 +97,46 @@ JAPAN
 
 ## Page 4
 
-### Dry Bulk Annual Averages (USD / Day)
+Dry Bulk 1-year Time Charter Rates (Weekly, USD/day)
+May 2021 - May 2026 | 5 year view
 
-| SEGMENT (AVG) | 2022 | 2023 | 2024 |
-| --- | --- | --- | --- |
-| CAPESIZE | $22,188 | $16,304 | $22,715 |
-| PANAMAX | $20,488 | $14,734 | $16,357 |
-| SUPRAMAX | $20,380 | $14,578 | $16,294 |
-| HANDY | $20,611 | $12,324 | $13,887 |
+[SIGNATURE]
+
+| SEGMENT (AVG) | 2022 | 2023 | 2024 | 2025 | 2026 YTD |
+| --- | --- | --- | --- | --- | --- |
+| CAPESIZE | $22,188 | $16,304 | $22,715 | US$21,646 | US$27,700 |
+| PANAMAX | $20,488 | $14,734 | $16,357 | US$14,383 | US$16,500 |
+| SUPRAMAX | $20,380 | $14,578 | $16,294 | US$14,255 | US$17,250 |
+| HANDY | $20,611 | $12,324 | $13,887 | US$12,667 | US$17,500 |
 
 ## Page 5
 
+# TANKERS | BDTI: 2,629
+
+-4.47%
+
+# (w-o-w)
+
+Total open interest in Brent futures has plunged to its lowest level since August, reflecting a "risk-taking desert" where traders are retreating from unpredictable, binary outcomes. With the Strait of Hormuz blockade now the longest on record, algorithmic traders and hedgers have become the primary market participants, as the high cost of volatility makes traditional flat-price betting nearly untradeable for many fundamental investors.
+
+In the tanker segment, a meaningful divide has emerged between the Middle East Gulf and the Atlantic basin. Western shipowners remain especially cautious about committing tonnage through the Strait, leading to a westward shift as vessels move out of the East in high volumes. This has led to a surge in tonnage availability across the Atlantic, putting pressure on freight rates for routes from West Africa and the USG to China.
+
+# Segment Highlights
+
+VLCC: The persistent blockade and a lack of meaningful volume are placing significant downward pressure on VLCC rates, with earnings across the Pacific and Atlantic basins softening this week. Despite this decline, daily returns continue to hover near US$100,000, though the short-term outlook remains bearish as uncertainty continues to distort market activity.
+
+Suezmax: Suezmax rates have softened significantly, with West Africa to UKC earnings falling 20% as the market awaits the next release of CPC stems. Despite this, the demand outlook remains optimistic in the USG, where favourable economics allow Suezmaxes to outperform Aframaxes.
+
+Aframax: Aframax rates in the Mediterranean have softened to US\$94,200's as owners contends with a more balanced tonnage list and cooling regional demand. In the North Sea, stagnant activity and a build-up of available vessels over the long weekend are expected to test rates further, particularly as the USG market remains under pressure.
+
+LR1 / LR2: LR2 rates in the Middle East have remained steady, with TC1 holding at WS550. Conversely, the Med/East route and the LR1 sector are facing downward pressure, with the TC15 index daily earnings retreating to $93,600.
+
+MR: USG saw rates plummet this week, with the TC14 to the UKC losing over 180 points and wiping 60% off daily earnings. MEG remains an exception, with TC17 index holding steady at exceptionally high levels near WS737.
+
 ### Baltic Tanker Indices
 
-| BDTI | BCTI |
-| :---: | :---: |
-| 2,629 | 1,858 |
-| WoW: -4.47% | WoW: -8.83% |
-| YoY: +164.22% | YoY: +224.26% |
-
-### Vessel Values (USD Million)
-
-| TYPE | DWT | NB CONTRACT | NB PROMPT | 5 YRS | 10 YRS | 15 YRS |
-| :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-
-### Sale & Purchase - Reported Fixtures
-
-| VESSEL | TYPE | DWT | YEAR / BUILT | PRICE (USD M) | BUYER |
-| :--- | :---: | :---: | :---: | :---: | :--- |
+| BDTI2,629WoW: -4.47%YoY: +164.22% | BCTI1,858WoW: -8.83%YoY: +224.26% |
+| --- | --- |
 
 ## Page 6
 
@@ -205,14 +221,35 @@ The container market rebounded this week as the Drewry World Container Index ros
 
 ## Page 10
 
-### Ship Recycling - Current Market Snapshot (USD / LDT)
+# SHIP RECYCLING
 
-| DESTINATION | TANKERS | BULKERS | GENERAL CARGO | CONTAINERS | OUTLOOK / SENTIMENTS |
-| :--- | :---: | :---: | :---: | :---: | :---: |
-| Alang, India | $420-430 | $410-420 | $400-410 | $450-460 | STABLE / |
-| Chattogram, Bangladesh | $470-480 | $460-470 | $430-440 | $500-510 | STABLE / |
-| Gaddani, Pakistan | $430-440 | $420-430 | $410-420 | $440-450 | STABLE / |
-| Aliaga, Turkey\* | $300-310 | $290-300 | $270-280 | $310-320 | STABLE / |
+Current Market Snapshot (USD / LDT)
+
+| DESTINATION | TANKERS | BULKERS | GENERAL CARGO | CONTAINERS | OUTLOOK / FUTURE SENTIMENTS |
+| --- | --- | --- | --- | --- | --- |
+| Alang, India | $420-430 | $410-420 | $400-410 | $450-460 | STABLE / ↓ |
+| Chattogram, Bangladesh | $470-480 | $460-470 | $430-440 | $500-510 | STABLE / ↓ |
+| Gaddani, Pakistan | $430-440 | $420-430 | $410-420 | $440-450 | STABLE / ←→ |
+| Aliaga, Turkey* | $300-310 | $290-300 | $270-280 | $310-320 | STABLE / ←→ |
+
+* Turkey prices for non-EU ships. EU vessels approx. US$20–30/ton less.
+
+All prices are USD per light displacement tonnage (long ton), net prices offered by recycling yards. Premiums apply based on spares quality, non-ferrous content, bunkers, cargo history, and maintenance. Basis simple Japanese/Korean-built tonnages.
+
+• All prices are USD per light displacement tonnage in the long ton.
+
+• The prices reported are net prices offered by the recycling yards.
+
+• Prices quoted are basis simple Japanese / Korean-built tonnages trading units. Premiums are paid on top of the above-quoted prices based on quality & quality of Spares, Non-Fe., bunkers, cargo history, and maintenance.
+
+5-Year Historical Average Prices (Week 19)
+
+| DESTINATION | 2021 | 2022 | 2023 | 2024 | 2025 |
+| --- | --- | --- | --- | --- | --- |
+| Alang, India | 480 | 640 | 520 | 520 | 460 |
+| Chattogram, Bangladesh | 530 | 660 | 550 | 540 | 460 |
+| Gaddani, Pakistan | 530 | 670 | 0 | 530 | 460 |
+| Aliaga, Turkey | 250 | 420 | 310 | 320 | 280 |
 
 ## Page 11
 
@@ -230,6 +267,31 @@ CHATTOGRAM
 ## Page 12
 
 ## Page 13
+
+# Market Insights
+
+Alang, India: Local recyclers continue to face significant challenges due to an unfavourable exchange rate that limits their ability to compete for high-volume tonnage. Local steel plate prices held around INR 40,100~41,000. While a temporary strengthening of the rupee on May 7 provided some relief, the market remains largely restricted to specialised assets as bulkers and tankers continue to favour more aggressive pricing in Bangladesh and Pakistan.
+
+This cautious environment persists as India’s economy manages the high costs of crude and LPG imports, making future market momentum highly dependent on sustained currency recovery and developments in the Hormuz.
+
+Alang Anchorage & Beaching — May2026
+
+| VESSEL | TYPE | LDT | ARRIVAL | BEACHING |
+| --- | --- | --- | --- | --- |
+| - | - | - | - | - |
+
+Chattogram, Bangladesh: Chattogram maintains its position as the premier recycling destination, supported by a healthy foreign exchange reserve that has prevented forced currency devaluation or fresh financial restrictions. While buyer interest for Far East vessels remains steady, the approaching monsoon season has slowed operations. Despite these weather-driven disruptions, the Letter of Credit framework ensures Bangladesh continues to offer the most reliable and competitive environment for shipowners in the region.
+
+Chattogram Anchorage & Beaching — May 2026
+
+| VESSEL | TYPE | LDT | ARRIVAL | BEACHING |
+| --- | --- | --- | --- | --- |
+| JIAN JIE | TANKER | 1,807 | 06.05.2026 | AWAITING |
+| JIANG | Bulker | 21,238 | 21.04.2026 | 01.05.2026 |
+| FESTIVAL | Bulker | 6,993 | 26.04.2026 | 04.05.2026 |
+| SPRUCE | Container | 2,216 | 27.04.2026 | 04.05.2026 |
+| BGP PIONEER | Survey Vessel | 3,085 | 01.05.2026 | 06.05.2026 |
+| ACE 1 | Bulker | 5,757 | 02.05.2026 | 07.05.2026 |
 
 Gaddani, Pakistan: Renewed activity and stronger momentum drove the local market forward despite persistent competition from Bangladesh. The industry finds structural support in a shortage of imported scrap from the Gulf, while the Pakistani Rupee maintains its position as the most stable currency in the recycling basin.
 
@@ -296,9 +358,16 @@ Aluminium prices have surged 3.8% to US$3,315 per ton due to Middle Eastern supp
 ### Bunker Prices (USD / ton)
 
 | PORT | VLSFO (0.5%) | HSFO (3.5%) | MGO (0.1%) |
-| :--- | :---: | :---: | :---: |
+| --- | --- | --- | --- |
 | SINGAPORE | $798 | $712 | $1,314 |
 | HONG KONG | $826 | $747 | $1,366 |
 | FUJAIRAH | $878 | $706 | $1,571 |
 | ROTTERDAM | $771 | $680 | $1,328 |
 | HOUSTON | $915 | $697 | $1,261 |
+
+Singapore | London | Dubai
+
+For Privacy Policy
+
+This report is performed to the best of our knowledge based on the market conditions prevailing at the time mentioned. The report relates solely to the date/place referred to, and we emphasise that it is a statement of information collected from various market sources. All details above are from information given to us and such information as we have obtained from relevant references in our possession. Still, we can accept no responsibility, and we bear no liability for any loss or damage incurred to any person acting upon this report. STAR ASIA believes the information to be accurate and given in good faith but without guarantee. STAR ASIA will not be held responsible in any way for any action or failure to act based on the information given in this report. The use of the report cannot be reproduced or used without authorisation from STAR ASIA.
+

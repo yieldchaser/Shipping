@@ -4,7 +4,7 @@
   "year": 2021,
   "month": 8,
   "source_file": "corpus/05-seabrokers/pdfs/2021-08-01_markedsrapport-august-2021.pdf",
-  "tables_count": 14,
+  "tables_count": 13,
   "tables": [
     {
       "title": "AUGUST 2021 - DAILY NORTH SEA OSV AVAILABILITY",
@@ -34,8 +34,8 @@
         {
           "Date": "3",
           "PSV 2021": "10",
-          "PSV 2020": "18",
-          "AHTS 2021": "3",
+          "PSV 2020": "17",
+          "AHTS 2021": "2",
           "AHTS 2020": "7"
         },
         {
@@ -43,28 +43,28 @@
           "PSV 2021": "10",
           "PSV 2020": "19",
           "AHTS 2021": "3",
-          "AHTS 2020": "8"
+          "AHTS 2020": "9"
         },
         {
           "Date": "5",
-          "PSV 2021": "12",
-          "PSV 2020": "18",
+          "PSV 2021": "11",
+          "PSV 2020": "17",
           "AHTS 2021": "2",
           "AHTS 2020": "11"
         },
         {
           "Date": "6",
-          "PSV 2021": "14",
+          "PSV 2021": "13",
           "PSV 2020": "18",
           "AHTS 2021": "2",
-          "AHTS 2020": "3"
+          "AHTS 2020": "4"
         },
         {
           "Date": "7",
           "PSV 2021": "15",
           "PSV 2020": "18",
           "AHTS 2021": "4",
-          "AHTS 2020": "4"
+          "AHTS 2020": "3"
         },
         {
           "Date": "8",
@@ -75,21 +75,21 @@
         },
         {
           "Date": "9",
-          "PSV 2021": "17",
+          "PSV 2021": "18",
           "PSV 2020": "18",
-          "AHTS 2021": "5",
+          "AHTS 2021": "7",
           "AHTS 2020": "6"
         },
         {
           "Date": "10",
           "PSV 2021": "18",
           "PSV 2020": "18",
-          "AHTS 2021": "12",
+          "AHTS 2021": "10",
           "AHTS 2020": "8"
         },
         {
           "Date": "11",
-          "PSV 2021": "18",
+          "PSV 2021": "17",
           "PSV 2020": "17",
           "AHTS 2021": "13",
           "AHTS 2020": "8"
@@ -97,134 +97,134 @@
         {
           "Date": "12",
           "PSV 2021": "17",
-          "PSV 2020": "16",
-          "AHTS 2021": "9",
-          "AHTS 2020": "8"
+          "PSV 2020": "17",
+          "AHTS 2021": "11",
+          "AHTS 2020": "7"
         },
         {
           "Date": "13",
           "PSV 2021": "18",
           "PSV 2020": "16",
-          "AHTS 2021": "8",
+          "AHTS 2021": "10",
           "AHTS 2020": "7"
         },
         {
           "Date": "14",
-          "PSV 2021": "17",
-          "PSV 2020": "15",
-          "AHTS 2021": "8",
+          "PSV 2021": "18",
+          "PSV 2020": "14",
+          "AHTS 2021": "9",
           "AHTS 2020": "7"
         },
         {
           "Date": "15",
-          "PSV 2021": "16",
-          "PSV 2020": "14",
-          "AHTS 2021": "8",
+          "PSV 2021": "17",
+          "PSV 2020": "13",
+          "AHTS 2021": "9",
           "AHTS 2020": "8"
         },
         {
           "Date": "16",
-          "PSV 2021": "15",
-          "PSV 2020": "13",
+          "PSV 2021": "17",
+          "PSV 2020": "10",
           "AHTS 2021": "8",
-          "AHTS 2020": "9"
+          "AHTS 2020": "8"
         },
         {
           "Date": "17",
-          "PSV 2021": "14",
+          "PSV 2021": "15",
           "PSV 2020": "7",
-          "AHTS 2021": "2",
+          "AHTS 2021": "5",
           "AHTS 2020": "9"
         },
         {
           "Date": "18",
-          "PSV 2021": "12",
+          "PSV 2021": "13",
           "PSV 2020": "11",
           "AHTS 2021": "2",
           "AHTS 2020": "6"
         },
         {
           "Date": "19",
-          "PSV 2021": "10",
-          "PSV 2020": "6",
+          "PSV 2021": "12",
+          "PSV 2020": "10",
           "AHTS 2021": "3",
-          "AHTS 2020": "6"
+          "AHTS 2020": "7"
         },
         {
           "Date": "20",
-          "PSV 2021": "8",
-          "PSV 2020": "6",
+          "PSV 2021": "9",
+          "PSV 2020": "8",
           "AHTS 2021": "3",
-          "AHTS 2020": "8"
+          "AHTS 2020": "7"
         },
         {
           "Date": "21",
           "PSV 2021": "8",
-          "PSV 2020": "6",
-          "AHTS 2021": "3",
+          "PSV 2020": "7",
+          "AHTS 2021": "2",
           "AHTS 2020": "8"
         },
         {
           "Date": "22",
-          "PSV 2021": "7",
-          "PSV 2020": "5",
-          "AHTS 2021": "1",
+          "PSV 2021": "8",
+          "PSV 2020": "6",
+          "AHTS 2021": "2",
           "AHTS 2020": "8"
         },
         {
           "Date": "23",
-          "PSV 2021": "6",
-          "PSV 2020": "4",
+          "PSV 2021": "7",
+          "PSV 2020": "6",
           "AHTS 2021": "1",
-          "AHTS 2020": "7"
+          "AHTS 2020": "8"
         },
         {
           "Date": "24",
-          "PSV 2021": "4",
-          "PSV 2020": "3",
-          "AHTS 2021": "4",
-          "AHTS 2020": "7"
+          "PSV 2021": "5",
+          "PSV 2020": "5",
+          "AHTS 2021": "2",
+          "AHTS 2020": "8"
         },
         {
           "Date": "25",
           "PSV 2021": "3",
           "PSV 2020": "3",
-          "AHTS 2021": "4",
+          "AHTS 2021": "3",
           "AHTS 2020": "8"
         },
         {
           "Date": "26",
-          "PSV 2021": "3",
-          "PSV 2020": "6",
+          "PSV 2021": "2",
+          "PSV 2020": "3",
           "AHTS 2021": "4",
-          "AHTS 2020": "8"
+          "AHTS 2020": "5"
         },
         {
           "Date": "27",
           "PSV 2021": "2",
           "PSV 2020": "6",
           "AHTS 2021": "5",
-          "AHTS 2020": "4"
+          "AHTS 2020": "3"
         },
         {
           "Date": "28",
-          "PSV 2021": "2",
-          "PSV 2020": "4",
-          "AHTS 2021": "1",
+          "PSV 2021": "3",
+          "PSV 2020": "6",
+          "AHTS 2021": "6",
           "AHTS 2020": "1"
         },
         {
           "Date": "29",
-          "PSV 2021": "3",
-          "PSV 2020": "5",
-          "AHTS 2021": "1",
+          "PSV 2021": "4",
+          "PSV 2020": "7",
+          "AHTS 2021": "7",
           "AHTS 2020": "1"
         },
         {
           "Date": "30",
-          "PSV 2021": "6",
-          "PSV 2020": "10",
-          "AHTS 2021": "9",
+          "PSV 2021": "5",
+          "PSV 2020": "9",
+          "AHTS 2021": "8",
           "AHTS 2020": "1"
         },
         {
@@ -234,7 +234,8 @@
           "AHTS 2021": "9",
           "AHTS 2020": "1"
         }
-      ]
+      ],
+      "value_source": "vector_chart_read"
     },
     {
       "title": "NORTH SEA SPOT AVERAGE UTILISATION AUGUST 2021",
@@ -772,138 +773,6 @@
           "TYPE/DESIGN": "42M GRANDSUPERIOR CREWBOAT",
           "OWNER/ MANAGER": "ALLIANZ MIDDLE EAST SHIP MANAGEMENT",
           "COMMITMENT": "MIDDLE EAST"
-        }
-      ]
-    },
-    {
-      "title": "European major component replacement market by value chain segment",
-      "columns": [
-        "Year",
-        "Major component costs",
-        "JUV costs\\*",
-        "Labour costs",
-        "CTV costs"
-      ],
-      "row_count": 17,
-      "rows": [
-        {
-          "Year": "2014",
-          "Major component costs": "100",
-          "JUV costs\\*": "50",
-          "Labour costs": "10",
-          "CTV costs": "10"
-        },
-        {
-          "Year": "2015",
-          "Major component costs": "120",
-          "JUV costs\\*": "60",
-          "Labour costs": "12",
-          "CTV costs": "12"
-        },
-        {
-          "Year": "2016",
-          "Major component costs": "150",
-          "JUV costs\\*": "75",
-          "Labour costs": "15",
-          "CTV costs": "15"
-        },
-        {
-          "Year": "2017",
-          "Major component costs": "180",
-          "JUV costs\\*": "90",
-          "Labour costs": "18",
-          "CTV costs": "18"
-        },
-        {
-          "Year": "2018",
-          "Major component costs": "220",
-          "JUV costs\\*": "110",
-          "Labour costs": "22",
-          "CTV costs": "22"
-        },
-        {
-          "Year": "2019",
-          "Major component costs": "260",
-          "JUV costs\\*": "130",
-          "Labour costs": "26",
-          "CTV costs": "26"
-        },
-        {
-          "Year": "2020",
-          "Major component costs": "300",
-          "JUV costs\\*": "150",
-          "Labour costs": "30",
-          "CTV costs": "30"
-        },
-        {
-          "Year": "2021",
-          "Major component costs": "350",
-          "JUV costs\\*": "175",
-          "Labour costs": "35",
-          "CTV costs": "35"
-        },
-        {
-          "Year": "2022",
-          "Major component costs": "400",
-          "JUV costs\\*": "200",
-          "Labour costs": "40",
-          "CTV costs": "40"
-        },
-        {
-          "Year": "2023",
-          "Major component costs": "450",
-          "JUV costs\\*": "225",
-          "Labour costs": "45",
-          "CTV costs": "45"
-        },
-        {
-          "Year": "2024",
-          "Major component costs": "500",
-          "JUV costs\\*": "250",
-          "Labour costs": "50",
-          "CTV costs": "50"
-        },
-        {
-          "Year": "2025",
-          "Major component costs": "550",
-          "JUV costs\\*": "275",
-          "Labour costs": "55",
-          "CTV costs": "55"
-        },
-        {
-          "Year": "2026",
-          "Major component costs": "600",
-          "JUV costs\\*": "300",
-          "Labour costs": "60",
-          "CTV costs": "60"
-        },
-        {
-          "Year": "2027",
-          "Major component costs": "650",
-          "JUV costs\\*": "325",
-          "Labour costs": "65",
-          "CTV costs": "65"
-        },
-        {
-          "Year": "2028",
-          "Major component costs": "700",
-          "JUV costs\\*": "350",
-          "Labour costs": "70",
-          "CTV costs": "70"
-        },
-        {
-          "Year": "2029",
-          "Major component costs": "750",
-          "JUV costs\\*": "375",
-          "Labour costs": "75",
-          "CTV costs": "75"
-        },
-        {
-          "Year": "2030",
-          "Major component costs": "800",
-          "JUV costs\\*": "400",
-          "Labour costs": "80",
-          "CTV costs": "80"
         }
       ]
     },

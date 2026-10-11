@@ -169,39 +169,41 @@ Pacific Duchess
 
 ## AUGUST 2019 - DAILY NORTH SEA OSV AVAILABILITY
 
+> **Read from the chart.** The report prints no numbers for this chart; each value is the chart line's node for that day, converted with the printed axis labels (vector geometry, not an eyeball estimate).
+
 | Date | PSV 2019 | PSV 2018 | AHTS 2019 | AHTS 2018 |
-| ---- | -------- | -------- | --------- | --------- |
-| 1    | 5        | 9        | 15        | 15        |
-| 2    | 3        | 11       | 10        | 16        |
-| 3    | 4        | 12       | 10        | 14        |
-| 4    | 5        | 13       | 11        | 13        |
-| 5    | 9        | 14       | 12        | 12        |
-| 6    | 9        | 14       | 6         | 10        |
-| 7    | 7        | 14       | 6         | 9         |
-| 8    | 7        | 14       | 6         | 8         |
-| 9    | 7        | 11       | 6         | 7         |
-| 10   | 8        | 16       | 4         | 7         |
-| 11   | 10       | 16       | 3         | 7         |
-| 12   | 11       | 16       | 1         | 7         |
-| 13   | 11       | 16       | 1         | 7         |
-| 14   | 11       | 11       | 1         | 9         |
-| 15   | 10       | 13       | 1         | 14        |
-| 16   | 10       | 7        | 1         | 5         |
-| 17   | 10       | 7        | 1         | 5         |
-| 18   | 11       | 7        | 1         | 5         |
-| 19   | 11       | 16       | 1         | 5         |
-| 20   | 12       | 16       | 1         | 5         |
-| 21   | 12       | 12       | 3         | 4         |
-| 22   | 9        | 12       | 3         | 4         |
-| 23   | 9        | 12       | 4         | 4         |
-| 24   | 9        | 12       | 9         | 9         |
-| 25   | 3        | 13       | 2         | 10        |
-| 26   | 3        | 13       | 2         | 12        |
-| 27   | 4        | 20       | 2         | 14        |
-| 28   | 4        | 20       | 5         | 14        |
-| 29   | 4        | 13       | 6         | 14        |
-| 30   | 3        | 13       | 11        | 14        |
-| 31   | 3        | 13       | 11        | 13        |
+| --- | --- | --- | --- | --- |
+| 1 | 5 | 9 | 15 | 15 |
+| 2 | 3 | 11 | 10 | 16 |
+| 3 | 4 | 12 | 11 | 14 |
+| 4 | 5 | 13 | 11 | 14 |
+| 5 | 6 | 13 | 12 | 13 |
+| 6 | 9 | 14 | 10 | 13 |
+| 7 | 8 | 14 | 8 | 10 |
+| 8 | 7 | 14 | 6 | 9 |
+| 9 | 8 | 15 | 6 | 6 |
+| 10 | 9 | 16 | 4 | 8 |
+| 11 | 10 | 16 | 3 | 9 |
+| 12 | 11 | 16 | 1 | 9 |
+| 13 | 10 | 16 | 2 | 10 |
+| 14 | 11 | 11 | 2 | 9 |
+| 15 | 10 | 13 | 1 | 14 |
+| 16 | 10 | 13 | 2 | 8 |
+| 17 | 10 | 7 | 2 | 5 |
+| 18 | 11 | 10 | 1 | 5 |
+| 19 | 11 | 13 | 1 | 5 |
+| 20 | 10 | 16 | 1 | 5 |
+| 21 | 12 | 13 | 2 | 4 |
+| 22 | 11 | 14 | 4 | 4 |
+| 23 | 10 | 13 | 3 | 9 |
+| 24 | 8 | 12 | 3 | 9 |
+| 25 | 5 | 15 | 2 | 10 |
+| 26 | 3 | 17 | 2 | 10 |
+| 27 | 4 | 20 | 4 | 11 |
+| 28 | 3 | 20 | 6 | 12 |
+| 29 | 4 | 18 | 6 | 11 |
+| 30 | 2 | 13 | 9 | 14 |
+| 31 | 3 | 13 | 11 | 13 |
 
 ## RATES & UTILISATION
 
@@ -377,7 +379,6 @@ Finally, James Fisher and Sons has acquired a 60% stake in Brazilian company Con
 
 ## TECHNIPFMC TO SPLIT BUSINESS IN TWO
 
-<img src="https://i.imgur.com/placeholder1.jpg" alt="TechnipFMC building">
 
 TechnipFMC's board of directors have unanimously approved the company's plan to separate into two independent, publicly-traded companies. The split will focus on onshore and offshore activities. The separation will see RemainCo, an integrated technology and services provider, focus on upstream related activities; and SpinCo, an engineering and construction (E&C) player, to capture midstream and down-stream opportunities. RemainCo will have a revenue of USD 7 billion and a backlog of USD 10 billion, while SpinCo will have USD 6 billion revenue and a backlog of USD 19 billion. The separation is due to be completed in the first half of 2020.
 
@@ -387,7 +388,6 @@ TechnipFMC's board of directors have unanimously approved the company's plan to 
 
 Siem Offshore has signed an agreement for the sale of the 2009-built IMR vessel Siem Marlin to Marine Platforms Ltd of Nigeria. Built to the MT 6014 MkII design, the Siem Marlin has a length of 93.6m and a breadth of 19.7m. She is equipped with a 100t offshore crane and accommodation for 68 persons. The Siem Marlin has already been delivered to her new owners and she will be renamed African Pioneer.
 
-<img src="https://i.imgur.com/placeholder2.jpg" alt="Siem Marlin vessel">
 
 Siem Marlin (pictured c/o R. Maat)
 

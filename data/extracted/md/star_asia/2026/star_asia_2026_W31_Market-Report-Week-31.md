@@ -198,20 +198,43 @@ The global container shipping market continued its gradual downward correction t
 
 ## Page 10
 
-### Ship Recycling - Current Market Snapshot (USD / LDT)
+# SHIP RECYCLING
+
+Current Market Snapshot (USD / LDT)
 
 | DESTINATION | TANKERS | BULKERS | GENERAL CARGO | CONTAINERS | OUTLOOK / SENTIMENTS |
-| :--- | :---: | :---: | :---: | :---: | :---: |
-| ALANG, INDIA | $440-450 | $430-440 | $420-430 | $470-480 | STABLE / |
-| CHATTOGRAM, BANGLADESH | $490-500 | $460-470 | $450-460 | $500-510 | BULLISH / |
-| GADDANI, PAKISTAN | $500-510 | $460-470 | $440-450 | $510-520 | BULLISH / |
-| ALIAGA, TURKEY | $300-310 | $290-300 | $270-280 | $310-320 | STABLE / |
+| --- | --- | --- | --- | --- | --- |
+| ALANG, INDIA | $440-450 | $430-440 | $420-430 | $470-480 | STABLE / ←→ |
+| CHATTOGRAM, BANGLADESH | $490-500 | $460-470 | $450-460 | $500-510 | BULLISH / ↑ |
+| GADDANI, PAKISTAN | $500-510 | $460-470 | $440-450 | $510-520 | BULLISH / ↑ |
+| ALIAGA, TURKEY* | $300-310 | $290-300 | $270-280 | $310-320 | STABLE / ←→ |
 
-### Demolition - Reported Sales
+* Turkey prices for non-EU ships. EU vessels approx. US$20–30/ton less.
 
-| DELIVERY / TERMS |
-| --- |
-| No reported sales this week |
+All prices are USD per light displacement tonnage (long ton), net prices offered by recycling yards. Premiums apply based on spares quality, non-ferrous content, bunkers, cargo history, and maintenance. Basis simple Japanese/Korean-built tonnages.
+
+• All prices are USD per light displacement tonnage in the long ton.
+
+• The prices reported are net prices offered by the recycling yards.
+
+• Prices quoted are basis simple Japanese / Korean-built tonnages trading units. Premiums are paid on top of the above-quoted prices based on quality & quality of Spares, Non-Fe., bunkers, cargo history, and maintenance.
+
+5-Year Historical Average Prices (Week 31)
+
+| DESTINATION | 2021 | 2022 | 2023 | 2024 | 2025 |
+| --- | --- | --- | --- | --- | --- |
+| ALANG, INDIA | 550 | 540 | 500 | 500 | 430 |
+| CHATTOGRAM, BANGLADESH | 590 | 580 | 540 | 510 | 410 |
+| GADDANI, PAKISTAN | 595 | 580 | 0 | 510 | 440 |
+| ALIAGA, TURKEY | 300 | 300 | 300 | 340 | 280 |
+
+Reported Sales
+
+| VESSEL NAME | TYPE | LDT | YEAR / BUILT | PRICE (US/LDT) | COMMENTS |
+| --- | --- | --- | --- | --- | --- |
+| FOREVER | TANKER | 16,708 | 1997 / JAPAN | 522 | DELIVERED CHATTOGRAM |
+| LYRA | TANKER | 4,991 |  | 475 | AS IS SOHAR |
+| FRIO NARUTO | REEFER | 5,215 | 1996 / POLAND | 590 | DELIVERED ALANG (WITH 140T ALUMINIUM) |
 
 ## Page 11
 
@@ -219,35 +242,48 @@ The global container shipping market continued its gradual downward correction t
 
 ## Market Insights
 
-**Alang, India: Alang observed a slight lift in buyer sentiment this week, driven by buyers actively seeking**
+Alang, India: Alang observed a slight lift in buyer sentiment this week, driven by buyers actively seeking fresh tonnage after losing several recent deals to competing yards in Chattogram and Gadani. Domestic steel plate pricing saw a mid-week rally from 38,500 Indian rupees to 39,000 rupees per MT before retracing back to 38,500 rupees, though favourable currency shifts helped push it to about US$404/ton. This price firming was largely powered by tight physical plate inventories due to monsoon schedule rather than a surge in steel mill demand, which remains relatively subdued. Nevertheless, with seasonal rainfall deficits now fully covered, local recyclers increasingly believe the market has hit its floor and is primed for a September rebound.
 
-fresh tonnage after losing several recent deals to competing yards in Chattogram and Gadani. Domestic steel plate pricing saw a mid-week rally from 38,500 Indian rupees to 39,000 rupees per MT before retracing back to 38,500 rupees, though favourable currency shifts helped push it to about US$404/ton. This price firming was largely powered by tight physical plate inventories due to monsoon schedule rather than a surge in steel mill demand, which remains relatively subdued. Nevertheless, with seasonal rainfall deficits now fully covered, local recyclers increasingly believe the market has hit its floor and is primed for a September rebound. Following a prolonged lull, the Alang market witnessed a notable revival over the past two months, with more than one million tons arriving each month. Tankers dominated the recycling deals and were concluded at relatively discounted prices due to their specialised nature, providing much needed activity and keeping the recycling industry busy. This optimism coincides with broader indicators showing fundamental resilience across the Indian economy, where industrial output quickened sharply to a near two-year high of 7.3% in June, powered by a 7.8% expansion in manufacturing. The Reserve Bank of India has maintained its positive GDP growth projection of 6.6% for the fiscal year, reassuring markets that recent supply side inflationary pressures stemming from global energy volatility remain manageable. Supported by robust domestic capital expenditure and steady monsoon coverage, these economic fundamentals provide buyers with a somewhat stable long-term backdrop as temporary seasonal disruptions clear.
+Following a prolonged lull, the Alang market witnessed a notable revival over the past two months, with more than one million tons arriving each month. Tankers dominated the recycling deals and were concluded at relatively discounted prices due to their specialised nature, providing much needed activity and keeping the recycling industry busy.
 
-**Chattogram, Bangladesh: Chattogram maintained a firm footing, supported by a strengthening buying**
+This optimism coincides with broader indicators showing fundamental resilience across the Indian economy, where industrial output quickened sharply to a near two-year high of 7.3% in June, powered by a 7.8% expansion in manufacturing. The Reserve Bank of India has maintained its positive GDP growth projection of 6.6% for the fiscal year, reassuring markets that recent supply side inflationary pressures stemming from global energy volatility remain manageable. Supported by robust domestic capital expenditure and steady monsoon coverage, these economic fundamentals provide buyers with a somewhat stable long-term backdrop as temporary seasonal disruptions clear.
 
-appetite as monsoon began to clear. As yards reopened and resumed restocking, local steel trading activity recovered, with domestic plate prices stabilising near 64,700 taka/MT. Although earlier declines in local melting scrap and finished steel values have not yet translated into higher vessel offers-leaving price indications steady w-o-w-local recyclers remain eager to secure larger tonnages and offer top-tier prices for prompt deliveries. This buying enthusiasm is further supported by a steady flow of smaller Chinese vessels arriving on each tide cycle and an expanding number of yards achieving HKC compliance. However, buyers are exercising patience on new commitments, as high asking prices continue to test profit margins against local scrap values, while strict banking oversight remains a critical hurdle-evidenced by observers watching closely to see if domestic banks will issue an LC for the reported sale of the 16,708 LDT sanctioned tanker Forever. The recovery is taking place against a stabilising macroeconomic backdrop, highlighted by official reports showing Bangladesh's gross foreign exchange reserves climbing to US$36.46 billion by late July. Providing roughly six months of national import coverage, these healthier reserve levels offer much-needed liquidity to the domestic banking system, easing currency constraints for recyclers by opening foreign exchange
+Alang Anchorage & Beaching Position — August 2026
+
+| VESSEL | TYPE | LDT | ARRIVAL | BEACHING |
+| --- | --- | --- | --- | --- |
+| FT ISLAND | VLCC | 43,402 | 31.07.2027 | AWAITING |
+
+Chattogram, Bangladesh: Chattogram maintained a firm footing, supported by a strengthening buying appetite as monsoon began to clear. As yards reopened and resumed restocking, local steel trading activity recovered, with domestic plate prices stabilising near 64,700 taka/MT. Although earlier declines in local melting scrap and finished steel values have not yet translated into higher vessel offers—leaving price indications steady w-o-w—local recyclers remain eager to secure larger tonnages and offer top-tier prices for prompt deliveries. This buying enthusiasm is further supported by a steady flow of smaller Chinese vessels arriving on each tide cycle and an expanding number of yards achieving HKC compliance. However, buyers are exercising patience on new commitments, as high asking prices continue to test profit margins against local scrap values, while strict banking oversight remains a critical hurdle—evidenced by observers watching closely to see if domestic banks will issue an LC for the reported sale of the 16,708 LDT sanctioned tanker Forever.
+
+The recovery is taking place against a stabilising macroeconomic backdrop, highlighted by official reports showing Bangladesh's gross foreign exchange reserves climbing to US$36.46 billion by late July. Providing roughly six months of national import coverage, these healthier reserve levels offer much-needed liquidity to the domestic banking system, easing currency constraints for recyclers by opening foreign exchange
 
 ## Page 13
 
 accounts for high-value vessel purchases. While headline inflation showed signs of cooling to 9.16% in June, central bank authorities and the IMF continue to advocate for disciplined monetary policy amidst broader global energy volatility and ongoing banking sector restructurings.
 
-## Chattogram Anchorage & Beaching Position - August 2026
+Chattogram Anchorage & Beaching Position — August 2026
 
 | VESSEL | TYPE | LDT | ARRIVAL | BEACHING |
-|---|---|---|---|---|
+| --- | --- | --- | --- | --- |
 | GAS II | LPG | 2,213 | 29.07.2026 | AWAITING |
 
-**Gaddani, Pakistan: Gadani experienced another quiet stretch, with no new vessel arrivals recorded for a**
+Gaddani, Pakistan: Gadani experienced another quiet stretch, with no new vessel arrivals recorded for a second consecutive week, leaving local shipbreakers holding competitive regional offers with virtually no available tonnage to purchase. While the reopening of the Strait of Hormuz has freed up Gulf-positioned ships, vessel owners continue to favour higher-bidding markets in Bangladesh, leaving Pakistani buyers empty-handed despite offering a consistent premium over India.
 
-second consecutive week, leaving local shipbreakers holding competitive regional offers with virtually no available tonnage to purchase. While the reopening of the Strait of Hormuz has freed up Gulf-positioned ships, vessel owners continue to favour higher-bidding markets in Bangladesh, leaving Pakistani buyers empty-handed despite offering a consistent premium over India. This has created a severe shortage of meltable and re-rollable scrap metal, pushing domestic steel prices substantially higher over the past fortnight. Although only 9 yards are currently operating along the beach, buyers remain eager to pay top dollar for fresh material, though heavy monsoon rains across Punjab and Khyber Pakhtunkhwa have temporarily slowed construction activity and capped further spikes. Meanwhile, the broader Pakistani economy continues to navigate elevated global energy costs, with headline inflation holding near 9.5% and the State Bank of Pakistan maintaining a firm policy interest rate of 11.5% alongside steady central bank reserves of US$17 billion.
+This has created a severe shortage of meltable and re-rollable scrap metal, pushing domestic steel prices substantially higher over the past fortnight. Although only 9 yards are currently operating along the beach, buyers remain eager to pay top dollar for fresh material, though heavy monsoon rains across Punjab and Khyber Pakhtunkhwa have temporarily slowed construction activity and capped further spikes. Meanwhile, the broader Pakistani economy continues to navigate elevated global energy costs, with headline inflation holding near 9.5% and the State Bank of Pakistan maintaining a firm policy interest rate of 11.5% alongside steady central bank reserves of US$17 billion.
 
-## Gaddani Anchorage & Beaching Position - August 2026
+Gaddani Anchorage & Beaching Position — August 2026
 
-**Aliaga, Turkey: Aliaga maintained a steady but quiet week, as stagnant candidate supply and cautious**
+| VESSEL | TYPE |  | LDT | ARRIVAL | BEACHING |
+| --- | --- | --- | --- | --- | --- |
+| - | - |  | - | - | - |
 
-buyer demand kept overall waterfront activity largely unchanged. Local steel plate indications held firm within a narrow range of US$262~284 /LDT across all vessel types, and while domestic steel values experienced a minor upward tick, it proved insufficient to lift pricing. Türkiye continues to attract owners prioritising compliance with EU Regulations, though this green recycling segment remains a relatively niche portion of the broader market. On the macroeconomic front, local industrial sentiment is navigating tight financial conditions following the Central Bank of the Republic of Türkiye's decision to hold its benchmark interest rate at 37% to manage renewed inflationary pressures driven by high global energy costs. This restrictive stance, paired with a soft lira, erodes local purchasing power for dollar-denominated hulls, keeps operational financing expensive and forces Aliaga's recyclers to maintain strict fiscal discipline as they await stronger global supply.
+Aliaga, Turkey: Aliaga maintained a steady but quiet week, as stagnant candidate supply and cautious buyer demand kept overall waterfront activity largely unchanged. Local steel plate indications held firm within a narrow range of US\$262~284 /LDT across all vessel types, and while domestic steel values experienced a minor upward tick, it proved insufficient to lift pricing.
 
-**TIDE DATES 2026 | Chattogram:** 12 ~15 August | 28~31 August
+Türkiye continues to attract owners prioritising compliance with EU Regulations, though this green recycling segment remains a relatively niche portion of the broader market. On the macroeconomic front, local industrial sentiment is navigating tight financial conditions following the Central Bank of the Republic of Türkiye's decision to hold its benchmark interest rate at 37% to manage renewed inflationary pressures driven by high global energy costs. This restrictive stance, paired with a soft lira, erodes local purchasing power for dollar-denominated hulls, keeps operational financing expensive and forces Aliaga's recyclers to maintain strict fiscal discipline as they await stronger global supply.
+
+TIDE DATES 2026 | Chattogram: 12 ~15 August | 28~31 August
+Alang: 27 July ~ 03 August | 09 ~18 August
 
 ## Page 14
 
@@ -305,12 +341,29 @@ As July comes to a close, global industrial commodities face contrasting traject
 
 ## Page 16
 
+Exchange Rates
+
+| CURRENCY PAIR | JULY 31 | JULY 24 | WoW % |
+| --- | --- | --- | --- |
+| USD / CNY (China) | 6.75 | 6.77 | +0.30% |
+| USD / BDT (Bangladesh) | 123.52 | 123.53 | +0.01% |
+| USD / INR (India) | 95.53 | 96.80 | +1.31% |
+| USD / PKR (Pakistan) | 277.77 | 277.8 | +0.01% |
+| USD / TRY (Turkey) | 47.41 | 47.29 | -0.25% |
+
 ### Bunker Prices (USD / ton)
 
 | PORT | VLSFO (0.5%) | HSFO (3.5%) | MGO (0.1%) |
-| :--- | :---: | :---: | :---: |
+| --- | --- | --- | --- |
 | SINGAPORE | $797 | $588 | $1225 |
 | HONG KONG | $780 | $607 | $1195 |
 | FUJAIRAH | $789 | $607 | $1349 |
 | ROTTERDAM | $680 | $550 | $1280 |
 | HOUSTON | $725 | $527 | $1242 |
+
+Singapore | London | Dubai
+
+For Privacy Policy
+
+This report is performed to the best of our knowledge based on the market conditions prevailing at the time mentioned. The report relates solely to the date/place referred to, and we emphasise that it is a statement of information collected from various market sources. All details above are from information given to us and such information as we have obtained from relevant references in our possession. Still, we can accept no responsibility, and we bear no liability for any loss or damage incurred to any person acting upon this report. STAR ASIA believes the information to be accurate and given in good faith but without guarantee. STAR ASIA will not be held responsible in any way for any action or failure to act based on the information given in this report. The use of the report cannot be reproduced or used without authorisation from STAR ASIA.
+

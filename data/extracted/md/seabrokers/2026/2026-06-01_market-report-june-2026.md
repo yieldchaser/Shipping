@@ -51,13 +51,7 @@ Over the five-year period from 2021-2025, a total of 373 high impact wells have 
 
 ### High Impact Discovered Resource & Success Rates 2021-2025
 
-| Year | Gas (bnboe) | Oil (bnboe) | CSR (%) | TSR (%) |
-| ---- | ----------- | ----------- | ------- | ------- |
-| 2021 | 4.7         | 2.5         | 42%     | 56%     |
-| 2022 | 3.3         | 4.6         | 60%     | 93%     |
-| 2023 | 1.4         | 1.6         | 46%     | 85%     |
-| 2024 | 2.4         | 3.4         | 48%     | 88%     |
-| 2025 | 1.5         | 3.2         | 52%     | 78%     |
+> **Chart not transcribed.** The figure prints no values; the table the parser estimated from the image was removed. See the source PDF.
 
 Over the course of 2025, significant discoveries were made in various nations, including BP's Bumerangue pre-salt discovery in the Santos Basin offshore Brazil, Galp and Rhino Resources' Mopane-3X and Capricornus finds in the Orange Basin offshore Namibia, and Murphy Oil's Hai Su Vang discovery offshore Vietnam.
 
@@ -67,28 +61,14 @@ Concerningly, the Westwood report highlighted that "in an era of higher commodit
 
 ### High Impact Exploration Performance 2021-2025
 
-| Category | TSR | CSR |
-| :--- | :--- | :--- |
-| Onshore | 58% | 39% |
-| <500m | 45% | 34% |
-| 500-1500m | 47% | 35% |
-| 1500-2500m | 60% | 36% |
-| >2500m | 0% | 4% |
+> **Chart not transcribed.** The figure prints no values; the table the parser estimated from the image was removed. See the source PDF.
 
   
 ### Average Discovery Size by Reservoir Age
 
   
 
-| Reservoir Age | Mean | Median |
-| :--- | :--- | :--- |
-| Neogene | 500 mmboe | 300 mmboe |
-| Paleogene | 350 mmboe | 250 mmboe |
-| U.Cretaceous | 300 mmboe | 200 mmboe |
-| L.Cretaceous | 550 mmboe | 450 mmboe |
-| Jurassic | 250 mmboe | 150 mmboe |
-| Triassic | 0 mmboe | 0 mmboe |
-| Paleozoic & older | 100 mmboe | 80 mmboe |
+> **Chart not transcribed.** The figure prints no values; the table the parser estimated from the image was removed. See the source PDF.
 
 Ringvei Vest (c/o Equinor)
 
@@ -180,37 +160,39 @@ Seabreeze —— June 2026
 
 ## JUNE 2026 - DAILY NORTH SEA OSV AVAILABILITY
 
+> **Read from the chart.** The report prints no numbers for this chart; each value is the chart line's node for that day, converted with the printed axis labels (vector geometry, not an eyeball estimate).
+
 | Date | PSV 2026 | PSV 2025 | AHTS 2026 | AHTS 2025 |
-| :--- | :--- | :--- | :--- | :--- |
+| --- | --- | --- | --- | --- |
 | 1 | 5 | 4 | 2 | 15 |
-| 2 | 6 | 5 | 2 | 17 |
-| 3 | 5 | 6 | 3 | 12 |
-| 4 | 6 | 5 | 3 | 7 |
-| 5 | 6 | 5 | 3 | 1 |
-| 6 | 6 | 5 | 2 | 5 |
-| 7 | 5 | 2 | 1 | 6 |
-| 8 | 1 | 2 | 1 | 5 |
-| 9 | 8 | 3 | 6 | 5 |
-| 10 | 5 | 2 | 6 | 5 |
-| 11 | 5 | 2 | 6 | 6 |
-| 12 | 5 | 2 | 6 | 16 |
-| 13 | 8 | 2 | 6 | 16 |
-| 14 | 8 | 2 | 8 | 10 |
-| 15 | 8 | 3 | 7 | 10 |
-| 16 | 8 | 3 | 7 | 13 |
-| 17 | 6 | 2 | 9 | 10 |
-| 18 | 6 | 7 | 7 | 10 |
-| 19 | 6 | 7 | 10 | 16 |
-| 20 | 6 | 7 | 10 | 16 |
-| 21 | 6 | 7 | 10 | 13 |
-| 22 | 6 | 7 | 10 | 12 |
-| 23 | 7 | 7 | 7 | 9 |
-| 24 | 6 | 7 | 7 | 13 |
-| 25 | 6 | 8 | 8 | 13 |
-| 26 | 6 | 11 | 8 | 13 |
-| 27 | 7 | 12 | 11 | 13 |
-| 28 | 6 | 13 | 12 | 13 |
-| 29 | 7 | 17 | 13 | 18 |
+| 2 | 5 | 5 | 2 | 17 |
+| 3 | 6 | 4 | 2 | 13 |
+| 4 | 5 | 6 | 3 | 12 |
+| 5 | 6 | 5 | 3 | 6 |
+| 6 | 6 | 3 | 2 | 6 |
+| 7 | 7 | 2 | 2 | 6 |
+| 8 | 7 | 2 | 1 | 5 |
+| 9 | 8 | 1 | 4 | 5 |
+| 10 | 5 | 3 | 6 | 6 |
+| 11 | 5 | 1 | 6 | 9 |
+| 12 | 5 | 2 | 6 | 11 |
+| 13 | 6 | 1 | 6 | 16 |
+| 14 | 7 | 2 | 7 | 15 |
+| 15 | 8 | 2 | 7 | 14 |
+| 16 | 7 | 3 | 9 | 13 |
+| 17 | 8 | 2 | 8 | 10 |
+| 18 | 8 | 5 | 7 | 12 |
+| 19 | 8 | 7 | 8 | 14 |
+| 20 | 7 | 7 | 8 | 16 |
+| 21 | 6 | 7 | 9 | 15 |
+| 22 | 6 | 7 | 10 | 13 |
+| 23 | 6 | 7 | 7 | 12 |
+| 24 | 6 | 9 | 8 | 9 |
+| 25 | 6 | 10 | 9 | 11 |
+| 26 | 5 | 11 | 11 | 13 |
+| 27 | 6 | 15 | 11 | 13 |
+| 28 | 6 | 16 | 12 | 15 |
+| 29 | 7 | 17 | 12 | 16 |
 | 30 | 4 | 18 | 13 | 18 |
 
 ## NORTH SEA SPOT AVERAGE UTILISATION JUN 2026

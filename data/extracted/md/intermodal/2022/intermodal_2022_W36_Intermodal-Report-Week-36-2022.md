@@ -378,7 +378,7 @@ Last week newbuilding market was muted regarding the dry and the wet sectors, wh
 # Intermodal Demolition Market
 ## Indicative Demolition Prices ($/ldt)
 
-| Markets | Markets | 09/09/2022 | 02/09/2022 | ±% | 2020 | 2019 |
+| Markets | 09/09/2022 | 02/09/2022 | ±% | 2020 | 2019 | 2018 |
 | --- | --- | --- | --- | --- | --- | --- |
 | Tanker |  |  |  |  |  |  |
 | Bangladesh | 585 | 585 | 0.0% | 348 | 410 | 442 |

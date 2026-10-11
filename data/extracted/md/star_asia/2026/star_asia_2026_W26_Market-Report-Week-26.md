@@ -95,23 +95,24 @@ resilient sentiment sweeping across the South Atlantic and USG. While trading co
 
 ## Page 5
 
+# TANKERS | BDTI: 1,914 -5.39% (w-o-w)
+
+The tanker market has gone through a realignment, establishing Russia as a key alternative energy partner for Southeast Asian nations. Following the initial U.S. sanctions waiver issued on March 12, regional buyers increasingly view Russian volumes as a vital instrument of energy security rather than a regulatory compliance risk. This trend is highly visible in Indonesia under President Prabowo Subianto, where a domestic crude deficit—evidenced by May production falling to 577,000 barrels per day against a 1.2 million nameplate refining capacity—has accelerated trade discussions with Moscow. To shield its state oil company from direct sanctions risk, Jakarta has authorized a state agency, Lemigas, to manage an intergovernmental framework aimed at importing up to 100 million barrels of discounted Russian crude and refined fuels.
+
+Meanwhile, wartime premiums across primary energy benchmarks have evaporated rapidly as explicit progress in U.S.-Iran peace talks reassures the global freight market. West Texas Intermediate tumbled to settle near US$70 a barrel, while Brent fell below US$74. This decline reflects growing maritime confidence, as commercial vessels are openly transiting the Strait of Hormuz with satellite tracking signals activated. The IMO confirmed receiving robust safety guarantees, allowing hundreds of marooned ships to safely map their exits from the Persian Gulf without the burden of Iranian tolls or localized transit fees. The physical supply side is responding swiftly; the UAE has successfully boosted its seaborne exports back to nearly 85% of pre-war volumes, releasing around 60 million barrels into international channels in recent weeks.
+
+# Segment Highlights
+
+VLCC: VLCC rates have fell as the market anticipates a flood of crude oil from Persian Gulf storage facilities following a U.S.-Iran peace agreement aimed at reopening the Strait of Hormuz. MEG/China trips dropped to WS318. While widespread "under-the-radar" fixing has obscured precise levels, owners hold a distinct advantage. In the Atlantic, 260,000mt WAFR/China lost traction slightly closing at WS188.
+
+Suezmax: Suezmax rates have surged as charterers aggressively seek alternatives, pushing the CPC/Augusta to WS266 and setting TD20 to WS238. With vessel availability thinning across the Atlantic, shipowners hold the upper hand against remaining cargo coverage.
+
+Aframax: Aframax rebounded slightly, fuelled by the reopening of the Strait of Hormuz and a wave of spillover demand. However, the Mediterranean market remains soft, as a lengthy tonnage list has outpaced healthy activity and allowed charterers to push rates lower into early July stems. 80,000mt Ceyhan/Lavera fell to WS153.
+
+LR1 / LR2: Middle East LR market closed higher this week as an uptick in demand, and the reopening of the Strait of Hormuz pushed TC1 up to WS509. Similar was also seen in LR1, with TC5 gaining to WS528.
+MR: Far East MR market saw an upward trend as the easing in Middle East boosted regional cargo volumes. In the UKC, rates fell slightly with TC2 settling at WS125, with TC14 USG/UKC similarly falling to WS137.
+
 ### Baltic Tanker Indices
-
-| BDTI | BCTI |
-| :---: | :---: |
-| - | - |
-| WoW: - | WoW: - |
-| YoY: - | YoY: - |
-
-### Vessel Values (USD Million)
-
-| TYPE | DWT | NB CONTRACT | NB PROMPT | 5 YRS | 10 YRS | 15 YRS |
-| :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-
-### Sale & Purchase - Reported Fixtures
-
-| VESSEL | TYPE | DWT | YEAR / BUILT | PRICE (USD M) | BUYER |
-| :--- | :---: | :---: | :---: | :---: | :--- |
 
 ## Page 6
 
@@ -188,20 +189,42 @@ The container shipping market maintained its strong upward momentum this week as
 
 ## Page 10
 
-### Ship Recycling - Current Market Snapshot (USD / LDT)
+# SHIP RECYCLING
+
+Current Market Snapshot (USD / LDT)
 
 | DESTINATION | TANKERS | BULKERS | GENERAL CARGO | CONTAINERS | OUTLOOK / SENTIMENTS |
-| :--- | :---: | :---: | :---: | :---: | :---: |
-| ALANG, INDIA | $420-430 | $410-420 | $400-410 | $450-460 | WEAK / |
-| CHATTOGRAM, BANGLADESH | $470-480 | $460-470 | $430-440 | $500-510 | STABLE / |
-| GADDANI, PAKISTAN | $480-490 | $450-460 | $430-440 | $470-480 | BULLISH / |
-| ALIAGA, TURKEY | $300-310 | $290-300 | $270-280 | $310-320 | STABLE / |
+| --- | --- | --- | --- | --- | --- |
+| ALANG, INDIA | $420–430 | $410–420 | $400–410 | $450–460 | WEAK / [IMAGE] |
+| CHATTOGRAM, BANGLADESH | $470–480 | $460–470 | $430–440 | $500–510 | STABLE / [IMAGE] |
+| GADDANI, PAKISTAN | $480–490 | $450–460 | $430–440 | $470–480 | BULLISH / [IMAGE] |
+| ALIAGA, TURKEY* | $300–310 | $290–300 | $270–280 | $310–320 | STABLE / [IMAGE] |
 
-### Demolition - Reported Sales
+* Turkey prices for non-EU ships. EU vessels approx. US$20–30/ton less.
 
-| DELIVERY / TERMS |
-| --- |
-| No reported sales this week |
+All prices are USD per light displacement tonnage (long ton), net prices offered by recycling yards. Premiums apply based on spares quality, non-ferrous content, bunkers, cargo history, and maintenance. Basis simple Japanese/Korean-built tonnages.
+
+• All prices are USD per light displacement tonnage in the long ton.
+
+• The prices reported are net prices offered by the recycling yards.
+
+• Prices quoted are basis simple Japanese / Korean-built tonnages trading units. Premiums are paid on top of the above-quoted prices based on quality & quality of Spares, Non-Fe., bunkers, cargo history, and maintenance.
+
+5-Year Historical Average Prices (Week 26)
+
+| DESTINATION | 2021 | 2022 | 2023 | 2024 | 2025 |
+| --- | --- | --- | --- | --- | --- |
+| ALANG, INDIA | 530 | 580 | 530 | 530 | 450 |
+| CHATTOGRAM, BANGLADESH | 550 | 615 | 560 | 520 | 465 |
+| GADDANI, PAKISTAN | 560 | 590 | 0 | 520 | 440 |
+| ALIAGA, TURKEY | 300 | 290 | 320 | 350 | 270 |
+
+Reported Sales
+
+| VESSEL NAME | TYPE | LDT | YEAR / BUILT | PRICE (US/LDT) | COMMENTS |
+| --- | --- | --- | --- | --- | --- |
+| ANDHIKA PARAMESTI | BULKER | 9,520 | 1997 / JAPAN | 459 | AS IS INDONESIA |
+| NEPTUNE STARLIGHT | MPP | 5,130 | 1995 / JAPAN | UNDISCLOSED | DELIVERED CHATTOGRAM |
 
 ## Page 11
 
@@ -209,13 +232,29 @@ The container shipping market maintained its strong upward momentum this week as
 
 ## Market Insights
 
-**Alang, India: Alang saw a weaker week, with purchasing prices correcting downward in response to softer**
+Alang, India: Alang saw a weaker week, with purchasing prices correcting downward in response to softer domestic economic fundamentals. Despite currently operating at largely unprofitable levels, most recyclers are continuing to actively acquire incoming tonnage primarily to maintain essential business continuity and keep their facilities running.
 
-domestic economic fundamentals. Despite currently operating at largely unprofitable levels, most recyclers are continuing to actively acquire incoming tonnage primarily to maintain essential business continuity and keep their facilities running. While the persistent labour shortages that severely disrupted operations over recent months have finally been resolved, extreme seasonal heat conditions continue to heavily restrict and slow down daily production volumes. With India currently positioned as the lowest-priced destination on the subcontinent, local yard owners are maintaining a steady but cautious posture as heavy July monsoon rains begin to dictate the physical pace of vessel beaching.
+While the persistent labour shortages that severely disrupted operations over recent months have finally been resolved, extreme seasonal heat conditions continue to heavily restrict and slow down daily production volumes. With India currently positioned as the lowest-priced destination on the sub-continent, local yard owners are maintaining a steady but cautious posture as heavy July monsoon rains begin to dictate the physical pace of vessel beaching.
 
-**Chattogram, Bangladesh: Chattogram saw a visible decline, with weak domestic steel and falling scrap**
+Alang Anchorage & Beaching Position — June 2026
 
-prices subduing buyer demand. Despite these quiet conditions and ongoing seasonal monsoon constraints, the market marked some sales were reported on speculation in a falling market. Going forward, time will tell whether this speculative deal turns out to be a logical deal or not. As bunkers and shipping premiums continue to deflate, owners of older tonnage have far less incentive to keep them at sea, leaving well-funded Bangladeshi yards perfectly positioned to absorb this emerging wave of vessels once the heavy seasonal rains begin to clear. Overall sentiment showed signs of weakness as supply pressure eased and a large number of ships lined up to head for the beaches of Chattogram. Experts believe prices are bound for a major correction to align with the underlying domestic fundamentals.
+| VESSEL | TYPE | LDT | ARRIVAL | BEACHING |
+| --- | --- | --- | --- | --- |
+| BUTOV | FISHING | 3,957 | 26.06.2026 | AWAITING |
+| GALA | RORO | 6,378 | 10.06.2026 | AWAITING |
+| MARY | PASSENGER | 10,509 | 18.06.2026 | 19.06.2026 |
+| BIGLI | CONTAINER | 26,652 | 16.06.2026 | 17.06.2026 |
+| OCTANS | VLCC TANKER | 41,478 | 13.06.2026 | 17.06.2026 |
+| GROUSE ARROW | GENERAL CARGO | 11,059 | 10.06.2026 | 14.06.2026 |
+| STOLT INNOVATION | CHEM. TANKER | 12,940 | 10.06.2026 | 13.06.2026 |
+| TIMON | CONTAINER | 27,062 | 09.06.2206 | 14.06.2026 |
+| SOHAR LNG | LNG CARRIER | 33,003 | 03.06.2026 | 10.06.2026 |
+
+Chattogram, Bangladesh: Chattogram saw a visible decline, with weak domestic steel and falling scrap prices subduing buyer demand. Despite these quiet conditions and ongoing seasonal monsoon constraints, the market marked some sales were reported on speculation in a falling market. Going forward, time will tell whether this speculative deal turns out to be a logical deal or not.
+
+As bunkers and shipping premiums continue to deflate, owners of older tonnage have far less incentive to keep them at sea, leaving well-funded Bangladeshi yards perfectly positioned to absorb this emerging wave of vessels once the heavy seasonal rains begin to clear.
+
+Overall sentiment showed signs of weakness as supply pressure eased and a large number of ships lined up to head for the beaches of Chattogram. Experts believe prices are bound for a major correction to align with the underlying domestic fundamentals.
 
 ## Page 13
 
@@ -288,12 +327,29 @@ As the final week of June unfolds, global industrial commodity markets are showi
 
 ## Page 16
 
+Exchange Rates
+
+| CURRENCY PAIR | JUNE 26 | JUNE 19 | WoW % |
+| --- | --- | --- | --- |
+| USD / CNY (China) | 6.80 | 6.76 | -0.59% |
+| USD / BDT (Bangladesh) | 122.98 | 122.73 | -0.20% |
+| USD / INR (India) | 94.35 | 94.41 | +0.06% |
+| USD / PKR (Pakistan) | 278.28 | 278.12 | -0.06% |
+| USD / TRY (Turkey) | 46.62 | 46.44 | -0.39% |
+
 ### Bunker Prices (USD / ton)
 
 | PORT | VLSFO (0.5%) | HSFO (3.5%) | MGO (0.1%) |
-| :--- | :---: | :---: | :---: |
+| --- | --- | --- | --- |
 | SINGAPORE | $681 | $473 | $901 |
 | HONG KONG | $674 | $490 | $875 |
 | FUJAIRAH | $1,203 | $603 | $1,424 |
 | ROTTERDAM | $584 | $490 | $884 |
 | HOUSTON | $640 | $503 | $932 |
+
+Singapore | London | Dubai
+
+For Privacy Policy
+
+This report is performed to the best of our knowledge based on the market conditions prevailing at the time mentioned. The report relates solely to the date/place referred to, and we emphasise that it is a statement of information collected from various market sources. All details above are from information given to us and such information as we have obtained from relevant references in our possession. Still, we can accept no responsibility, and we bear no liability for any loss or damage incurred to any person acting upon this report. STAR ASIA believes the information to be accurate and given in good faith but without guarantee. STAR ASIA will not be held responsible in any way for any action or failure to act based on the information given in this report. The use of the report cannot be reproduced or used without authorisation from STAR ASIA.
+

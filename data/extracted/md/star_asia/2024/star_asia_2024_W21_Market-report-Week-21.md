@@ -167,6 +167,28 @@ The global container industry is experiencing a remarkable comeback, with rates 
 
 # Containers S&P Report
 
+| VESSEL NAME | TYPE | TEU | YEAR | BUILT | PRICE (MILLION) USD | COMMENTS / BUYERS |
+| --- | --- | --- | --- | --- | --- | --- |
+| NORTHERN GUILD | PMAX | 4,294 | 2009 | S. KOREA | 26.0 | CMA CGM |
+| NORDOCELOT | FEEDER | 1,756 | 2014 | CHINA | 15.8 | GERMAN BUYERS |
+| JOSITA B | FEEDER | 1,730 | 2014 | CHINA | 16.2 | REEDEREI NORD |
+| DA BAO | FEEDER | 1,708 | 2008 | JAPAN | 10.2 | EUROPEAN BUYERS |
+| REN JIAN 5 | FEEDER | 1,510 | 1997 | JAPAN | 4.8 | CHINESE BUYERS |
+
+Containers Values
+
+| CONTAINERS (BY TEU) | GEARED / GEARLESS | NB CONTRACT | NB PROMPT DELIVERY | 5 YEARS | 10 YEARS | 15 YEARS |
+| --- | --- | --- | --- | --- | --- | --- |
+| 900 – 1,200 | Geared | 24 | 24 | 17 | 14 | 8 |
+| 1,600 – 1,850 | Geared | 29 | 30 | 22 | 16 | 11 |
+| 2,700 – 2,900 | Gearless | 41 | 40 | 31 | 23 | 17 |
+| 5,100 | Gearless | 78 | 73 | 56 | 29 | 26 |
+| *(amount in USD million) | *(amount in USD million) | *(amount in USD million) | *(amount in USD million) | *(amount in USD million) | *(amount in USD million) | *(amount in USD million) |
+
+Container 6-12 months T/C rates
+
+[CHART]
+
 ## Page 10
 
 # Ship Recycling Market Snapshot
@@ -288,17 +310,31 @@ PORTS VLSFO (0.5%) HSFO (3.5%) MGO (0.1%)
 
 ## Page 16
 
-Sub-Continent and Turkey ferrous scrap markets insight
+#### EXCHANGE RATES
 
-The Sub-Continent and Turkey ferrous scrap market remained mostly stable compared to the previous week. Indian buyers are adopting a cautious approach, expecting prices to drop due to mismatched bids and offers. Pakistani buyers are staying out of the market, dealing with a weak domestic steel market and payment delays. In Bangladesh, scrap imports have slowed because of cash flow issues and a sluggish local steel market. Prices for shredded scrap stayed the same in India, Pakistan, and Bangladesh. Bulk HMS (80:20) offers from the US to Turkey also remained stable.
+| CURRENCY | MAY 24 | MAY 17 | W-O-W % CHANGE |
+| --- | --- | --- | --- |
+| USD / CNY (CHINA) | 7.24 | 7.22 | -0.28% |
+| USD / BDT (BANGLADESH) | 117.28 | 117.18 | -0.09% |
+| USD / INR (INDIA) | 83.07 | 83.27 | +0.24% |
+| USD / PKR (PAKISTAN) | 278.55 | 278.40 | -0.05% |
+| USD / TRY (TURKEY) | 32.22 | 32.20 | -0.06% |
 
-**Indian buyers are waiting for offers to drop due to bid-offer disparities. Shredded scrap**
+# Sub-Continent and Turkey ferrous scrap markets insight
 
-offers from the US and Europe are assessed at US$415-420 per ton CFR Nhava Sheva, with some traders offering around $425 per ton CFR. Buyers, however, are looking for US$410- 415 per ton CFR. Offers for HMS (80:20) from West Africa and Europe are at US$405-410 per ton CFR, but buyers want US$395-400 per ton CFR. A trader commented, "There are more inquiries but at lower prices. Buyers from mid-June to August are waiting due to the monsoon season. Selling below $420 per ton isn't viable for us. We're waiting for suppliers to lower their quotes by at least $6-8 per ton to cover costs." Additionally, a bulk scrap vessel from Singapore arrived at Chennai port, carrying shredded and busheling mix scrap, with an average price of US$418-422 per ton CFR.
+The Sub-Continent and Turkey ferrous scrap market remained mostly stable compared to the previous week. Indian buyers are adopting a cautious approach, expecting prices to drop due to mismatched bids and offers. Pakistani buyers are staying out of the market, dealing with a weak domestic steel market and payment delays. In Bangladesh, scrap imports have slowed because of cash flow issues and a sluggish local steel market.
 
-**Pakistani buyers are staying out of the market due to a weak domestic steel market and**
+Prices for shredded scrap stayed the same in India, Pakistan, and Bangladesh. Bulk HMS (80:20) offers from the US to Turkey also remained stable.
 
-payment delays. Shredded scrap offers from the UK/Europe are assessed at US$415-418 per ton CFR Qasim. A trader said, "Suppliers are quiet, with the latest prices ranging from US$415-418 per ton. The booking environment is fragile, and quotes from the UAE are scarce due to limited response from mills. We're expecting a slow week, with the bid-offer gap likely widening until prices stabilise."
+Indian buyers are waiting for offers to drop due to bid-offer disparities. Shredded scrap offers from the US and Europe are assessed at US$415-420 per ton CFR Nhava Sheva, with some traders offering around $425 per ton CFR. Buyers, however, are looking for US$410-415 per ton CFR. Offers for HMS (80:20) from West Africa and Europe are at US$405-410 per ton CFR, but buyers want US$395-400 per ton CFR.
+
+A trader commented, "There are more inquiries but at lower prices. Buyers from mid-June to August are waiting due to the monsoon season. Selling below $420 per ton isn't viable for us. We're waiting for suppliers to lower their quotes by at least $6-8 per ton to cover costs."
+
+Additionally, a bulk scrap vessel from Singapore arrived at Chennai port, carrying shredded and busheling mix scrap, with an average price of US\$418-422 per ton CFR.
+
+Pakistani buyers are staying out of the market due to a weak domestic steel market and payment delays. Shredded scrap offers from the UK/Europe are assessed at US$415-418 per ton CFR Qasim.
+
+A trader said, "Suppliers are quiet, with the latest prices ranging from US\$415-418 per ton. The booking environment is fragile, and quotes from the UAE are scarce due to limited response from mills. We're expecting a slow week, with the bid-offer gap likely widening until prices stabilise."
 
 ## Page 17
 

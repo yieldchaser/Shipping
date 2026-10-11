@@ -250,35 +250,61 @@ A sense of gloom has descended upon the Bangladesh markets this week as issues s
 
 ## Page 14
 
-Aliaga, Turkey
+# Anchorage & Beaching Position (November 2023)
 
-Turkish domestic scrap prices have mirrored the recent increases in imported values, with all Turkish mills raising their domestic scrap buying quotes in the past week. Market sentiment suggests a continuation of the upward trend in imported scrap prices, with expectations that Turkey will face challenges securing December shipment cargoes at lower prices. Some anticipate prices reaching US$380-390/t CFR soon, especially considering the tightening supply situation as winter approaches. While demand in Turkey's domestic market exhibits diverging trends, with improvements in southern Turkey contrasting slower regions, domestic rebar offers stood at US$565-
+| VESSEL NAME | TYPE | LDT | ARRIVAL | BEACHING |
+| --- | --- | --- | --- | --- |
+| YANGO | CONTAINER | 5,866 | 08.11.2023 | AWAITING |
+| SIGHTER | PCTC | 11,238 | 06.11.2023 | AWAITING |
+| KOKURYU MARU | RORO | 2,473 | 05.11.2023 | AWAITING |
+| VENTURA | TANKER | 16,810 | 27.10.2023 | 03.11.2023 |
+
+# Gadani, Pakistan
+
+The situation in Pakistan continues to lack traction, as recyclers refrain from going overboard and offering for tonnage. This reluctance is due to the extreme volatility in the domestic currency coupled with ongoing complexities surrounding the issuance of Letters of Credit.
+
+The positive news was that the recyclers have started to offer ships for forward deliveries, which is the first step to regaining momentum after a long pause.
+
+In Pakistan, the demand for imported scrap stayed moderate. Shredded scrap offers from Europe were evaluated at US$410-415/t CFR Qasim. Middle East offers stood at US$385/t CFR for HMS. A trader noted that while prices have increased, the actual demand for end products is moderate, with buyers procuring based on immediate needs.
+
+### Anchorage & Beaching Position (November 2023)
+
+| VESSEL NAME | TYPE | LDT | ARRIVAL | BEACHING |
+| --- | --- | --- | --- | --- |
+| - | - | - | - | - |
+
+# Aliaga, Turkey
+
+Turkish domestic scrap prices have mirrored the recent increases in imported values, with all Turkish mills raising their domestic scrap buying quotes in the past week.
+
+Market sentiment suggests a continuation of the upward trend in imported scrap prices, with expectations that Turkey will face challenges securing December shipment cargoes at lower prices. Some anticipate prices reaching US$380-390/t CFR soon, especially considering the tightening supply situation as winter approaches.
+
+While demand in Turkey's domestic market exhibits diverging trends, with improvements in southern Turkey contrasting slower regions, domestic rebar offers stood at US$565-
 
 ## Page 15
 
 585/t ex-works. Turkish shipbreaking scrap prices were mostly at US$360/t delivered, and the lira stood at 28.56 per dollar at the close of business.
 
----
+# BEACHING TIDE DATES 2023
 
-Chattogram, Bangladesh : 12 ~ 15 November | 25 ~ 28 November Alang, India : 12 ~ 19 November | 25 November ~ 2 December
+Chattogram, Bangladesh: 12 ~ 15 November | 25 ~ 28 November
 
----
+Alang, India: 12 ~ 19 November | 25 November ~ 2 December
 
-BUNKER PRICES (USD/TON)
+#### BUNKER PRICES (USD/TON)
 
-PORTS VLSFO (0.5%) IFO380 CST MGO (0.1%)
-
+| PORTS | VLSFO (0.5%) | IFO380 CST | MGO (0.1%) |
+| --- | --- | --- | --- |
 | SINGAPORE | 676 | 459 | 780 |
-|---|---|---|---|
 | HONG KONG | 670 | 472 | 790 |
 | FUJAIRAH | 664 | 429 | 925 |
 | ROTTERDAM | 571 | 468 | 780 |
 | HOUSTON | 575 | 465 | 835 |
 
-EXCHANGE RATES
+#### EXCHANGE RATES
 
-| CURRENCY | 10th NOVEMBER | 3rd NOVEMBER | W-O-W % CHANGE |
-|---|---|---|---|
+| CURRENCY | 10 th NOVEMBER | 3 rd NOVEMBER | W-O-W % CHANGE |
+| --- | --- | --- | --- |
 | USD / CNY (CHINA) | 7.27 | 7.30 | +0.41% |
 | USD / BDT (BANGLADESH) | 110.23 | 110.71 | +0.43% |
 | USD / INR (INDIA) | 83.32 | 83.21 | -0.13% |
@@ -289,16 +315,26 @@ EXCHANGE RATES
 
 ## Page 16
 
+# Commodities
+Insight
+
+Base metals experienced a mixed performance against a backdrop of economic uncertainty. China's exports dropped 6.4% this week, underscoring global economic concerns. However, refined copper imports into China grew by over 20% year-on-year to 500,000 tons, marking the first monthly growth in 2023, and the dovish comments from the Fed helped push copper prices higher this week.
+
+Iron ore prices surged to a seven-month high on indications of support for the real estate sector. Beijing's proposal for Ping An Insurance Group to acquire a controlling stake in troubled developer Country Garden aims to alleviate concerns of contagion in the property sector.
+
+This week, Iron ore futures surged to their highest levels since March, buoyed by indications of robust demand. Key Chinese steel mills reported a significant 16.6% drop in inventory levels, totaling 13.8 million tons by late October compared to mid-October, as per data from the China Iron and Steel Association.
+
 ### Iron Ore
 
-| COMMODITY (USD/MT) | GRADE |
-| --- | --- |
-| Iron Ore Fines, CNF Rizhao, China | Fines, Fe 62% (Aust. Origin) 128 +0.78% +45.45% 127 88 Iron Ore Fines, C.N.F. Qingdao, China Fines, Fe 62.5% (Brazil Origin) 130 +0.77% +42.85% 129 91 INDEX UNITS PRICE CHANGE %CHANGE CONTRACT Copper (Comex) USD / lb. 358.70 -5.35 -1.47% Dec 2023 3Mo Copper (L.M.E.) USD / MT 8,147.00 +5.00 +0.06% N/A 3Mo Aluminum (L.M.E.) USD / MT 2,242.50 -21.00 -0.93% N/A 3Mo Zinc (L.M.E.) USD / MT 2,602.50 -7.50 -0.29% N/A 3Mo Tin (L.M.E.) USD / MT 24,839.00 -53.00 -0.21% N/A |
+| COMMODITY | SIZE / GRADE | THIS WEEK USD / MT | W-O-W | Y-O-Y | LAST WEEK USD / MT | LAST YEAR USD / MT |
+| --- | --- | --- | --- | --- | --- | --- |
+| Iron Ore Fines, CNF Rizhao, China | Fines, Fe 62% (Aust. Origin) | 128 | +0.78% | +45.45% | 127 | 88 |
+| Iron Ore Fines, C.N.F. Qingdao, China | Fines, Fe 62.5% (Brazil Origin) | 130 | +0.77% | +42.85% | 129 | 91 |
 
 ### Industrial Metal Rates
 
-| INDEX | UNITS | PRICE | CHANGE | % CHANGE | CONTRACT |
-| :--- | :--- | :---: | :---: | :---: | :---: |
+| INDEX | UNITS | PRICE | CHANGE | %CHANGE | CONTRACT |
+| --- | --- | --- | --- | --- | --- |
 | Copper (Comex) | USD / lb. | 358.70 | -5.35 | -1.47% | Dec 2023 |
 | 3Mo Copper (L.M.E.) | USD / MT | 8,147.00 | +5.00 | +0.06% | N/A |
 | 3Mo Aluminum (L.M.E.) | USD / MT | 2,242.50 | -21.00 | -0.93% | N/A |

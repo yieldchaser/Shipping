@@ -26,25 +26,29 @@ U.S.-Iran talks showed tentative signs of progress this week, although negotiati
 
 ## Page 2
 
-### Baltic Dry Index (BDI)
+# DRY BULK | BDI: 2,991 -5.08% (w-o-w)
 
-**BDI: 2,991** (WoW: -5.08% | YoY: +123.21%)
+The dry bulk market faced a challenging session on Friday, as the Baltic Exchange’s main freight index declined for the fifth consecutive day, falling to reach 2,991 points. This downturn was largely dictated by the larger vessel segments, with the Panamax index sliding to 2,223 points and the Capesize index dipping to 4,954 points. Despite these lower figures, the smaller vessel category offered some stability as the Supramax index edged up to 1,567 points.
 
-| BCI | BPI | BSI | BHSI |
-| :---: | :---: | :---: | :---: |
-| 4,954 | 2,223 | 1,567 | 843 |
-| WoW: -4.23% | WoW: -11.82% | WoW: +0.13% | WoW: -0.83% |
-| YoY: +160.74% | YoY: +78.41% | YoY: +59.41% | YoY: +45.09% |
+Beyond the daily rate movements, the industry is increasingly focused on the Panama Canal, where traffic has reached near-maximum capacity due to a 16% y-o-y surge in daily transits over the past five weeks. This congestion, fuelled by shifting trade patterns away from the Strait of Hormuz and toward U.S. energy exports, has caused average waiting times to jump by 50% to roughly 47 hours. While the canal authority maintains that long-term bookings remain stable, auction prices for last-minute slots have spiked significantly, reaching averages near US$385,000 in recent months.
 
-### Vessel Values (USD Million)
+### Segment Highlights
 
-| TYPE | DWT | NB CONTRACT | NB PROMPT | 5 YRS | 10 YRS | 15 YRS |
-| :--- | :---: | :---: | :---: | :---: | :---: | :---: |
+Capesize: Capesize market remains fundamentally supported by a shortage of available Atlantic tonnage and prolonged vessel delays in Guinea, keeping F/H earnings robust at US$72,450’s. Despite a slight cooling in T/A earnings to US$45,475, sentiment stays firm as declining iron ore inventories at Chinese ports and the ongoing "supply lock-up" from long-distance bauxite routes limit the return of spot vessels.
 
-### Sale & Purchase - Reported Fixtures
+Panamax / Kamsarmax: The Panamax market is showing signs of fatigue as the recent grain-led rally softens, with Indonesian round voyage rates sliding to US$20,150 amid a building tonnage list. Despite the wary tone in the Pacific and weaker paper curves, the concentration of grain shipments through late May provides a fundamental floor even as the market approaches a near-term peak.
 
-| VESSEL | TYPE | DWT | YEAR / BUILT | PRICE (USD M) | BUYER |
-| :--- | :---: | :---: | :---: | :---: | :--- |
+Supramax / Ultramax: While Indonesian coal demand continues to act as a defensive floor for the Pacific at US$16,600’s, the South Atlantic has begun to soften due to growing vessel availability and easing demand. T/A rates edged up to US$24,050’s behind steady USG inquiry, though the overall market lacks a clear unified direction as regional imbalances and wide bid-offer spreads keep trading cautious.
+
+Handysize: Handysize market showed signs of softening this week as the Atlantic basin weakened, with T/A rates dipping to US$14,300’s amid limited fresh inquiry in the Continent and Mediterranean. While the South Atlantic saw deteriorating fundamentals, the Pacific remained a steady pocket of growth, pushing Inter-Pacific earnings to $15,550’s and R/V rates to $15,275’s.
+
+### Baltic Dry Indices
+
+| BDI | BCI | BPI | BSI | BHSI |
+| --- | --- | --- | --- | --- |
+| 2,991 | 4,954 | 2,223 | 1,567 | 843 |
+| WoW: -5.08% | WoW: -4.23% | WoW: -11.82% | WoW: +0.13% | WoW: -0.83% |
+| YoY: +123.21% | YoY: +160.74% | YoY: +78.41% | YoY: +59.41% | YoY: +45.09% |
 
 ## Page 3
 
@@ -82,10 +86,19 @@ U.S.-Iran talks showed tentative signs of progress this week, although negotiati
 
 ## Page 4
 
-### Dry Bulk Annual Averages (USD / Day)
+| VESSEL | TYPE | DWT | YEAR / BUILT | PRICE (USD M) | BUYER |
+| --- | --- | --- | --- | --- | --- |
+| EASTBOURNE / CLACTON / MARGATE / PORTSMOUTH | HANDY | 40,547 | 2024 / CHINA | 120.0 EN BLOC | NORDEN A/S |
+| TASAN / CAPTAIN RAVI | HANDY | 38,817 37,852 | 2010 / CHINA | 10.0 EACH | UNDISCLOSED |
+| AC SPLENDOR | HANDY | 32,740 | 2005 / JAPAN | 8.6 | LEBANESE BUYERS |
+| KEN ORCHID | HANDY | 28,225 | 2011 / JAPAN | 10.0 | UNDISCLOSED |
+
+### Dry Bulk 1-year Time Charter Rates (Weekly, USD/day)
+
+May 2021 - May 2026 | 5 year view
 
 | SEGMENT (AVG) | 2022 | 2023 | 2024 | 2025 | 2026 YTD |
-| :--- | :---: | :---: | :---: | :---: | :---: |
+| --- | --- | --- | --- | --- | --- |
 | CAPESIZE | $22,188 | $16,304 | $22,715 | $21,646 | $34,000 |
 | PANAMAX | $20,488 | $14,734 | $16,357 | $14,383 | $18,000 |
 | SUPRAMAX | $20,380 | $14,578 | $16,294 | $14,255 | $20,000 |
@@ -123,33 +136,38 @@ utilisation rates and a slowdown in cargo volumes. Meanwhile, rates elsewhere ap
 
 ### Baltic Tanker Indices
 
-| BDTI | BCTI |
-| :---: | :---: |
-| 2,215 | 1,674 |
-| WoW: -6.74% | WoW: -3.01% |
-| YoY: +130.25% | YoY: +131.22% |
+#### BDTI
+2,215
+WoW: -6.74%
+YoY: +130.25%
+
+#### BCTI
+1,674
+WoW: -3.01%
+YoY: +131.22%
 
 ### Vessel Values (USD Million)
 
 | TYPE | DWT | NB CONTRACT | NB PROMPT | 5 YRS | 10 YRS | 15 YRS |
-| :--- | :---: | :---: | :---: | :---: | :---: | :---: |
+| --- | --- | --- | --- | --- | --- | --- |
 | VLCC | 310,000 | $130M | $175M | $135M (E) | $109M (E) | $60M |
 | SUEZMAX | 160,000 | $88M | $108M | $88M (E) | $76M (E) | $52M |
 | AFRAMAX | 115,000 | $77M | $88M | $73M (E) | $63M (E) | $47M |
 | LR1 | 73,000 | $65M | $70M | $60M (E) | $52M (E) | $30M |
 | MR | 51,000 | $50M | $57M | $46M (E) | $37M (E) | $28M |
 
-### Sale & Purchase - Reported Fixtures
+# Sale & Purchase — Reported Fixtures
 
 | VESSEL | TYPE | DWT | YEAR / BUILT | PRICE (USD M) | BUYER |
-| :--- | :---: | :---: | :---: | :---: | :--- |
-| OLYMPIC STAR / DAEHAN 5118 | SUEZ | 158,000 | 2027 / S. KOREA | 95.0 EACH |  |
-| TEEKAY TANKERS VOULA | LR1 | 73,774 | 2009 / CHINA | 26.0 | UNDISCLOSED |
-| CS HOUSTON / CS SINGAPORE | MR | 50,000 | 2027 / CHINA | 49.5 EACH |  |
-| SEA PIONEER SA CS ROTTERDAM / CS FUJAIRAH | MR | 50,629 | 2026 / CHINA | 49.5 EACH | GREEK BUYERS |
+| --- | --- | --- | --- | --- | --- |
+| OLYMPIC STAR / DAEHAN 5118 | SUEZ | 158,000 | 2027 / S. KOREA | 95.0 EACH | TEEKAY TANKERS |
+| VOULA | LR1 | 73,774 | 2009 / CHINA | 26.0 | UNDISCLOSED |
+| CS HOUSTON / CS SINGAPORE | MR | 50,000 | 2027 / CHINA | 49.5 EACH | SEA PIONEER SA |
+| CS ROTTERDAM / CS FUJAIRAH | MR | 50,629 | 2026 / CHINA | 49.5 EACH | GREEK BUYERS |
 | VS LEIA | MR | 38,461 | 2006 / CHINA | 11.0 | UNDISCLOSED |
 | EASTERLY JUPITER | MR | 36,677 | 2009 / S. KOREA | 20.0 | GREEK BUYERS |
 | VS SPIRIT | MR | 34,671 | 2007 / CHINA | 14.0 | UNDISCLOSED |
+| CHEM MIA | PROD / CHEM | 19,702 | 2008 / JAPAN | 17.9 (STST) | UNDISCLOSED |
 
 ## Page 7
 
@@ -202,24 +220,75 @@ The SCFI index jumped to 2,140 points, driven by capacity management, blank sail
 
 ## Page 10
 
-### Ship Recycling - Current Market Snapshot (USD / LDT)
+# SHIP RECYCLING
 
-| DESTINATION | TANKERS | BULKERS | GENERAL CARGO | CONTAINERS | OUTLOOK / SENTIMENTS |
-| :--- | :---: | :---: | :---: | :---: | :---: |
-| ALANG, INDIA | $420-430 | $410-420 | $400-410 | $450-460 | STABLE / |
-| CHATTOGRAM, BANGLADESH | $470-480 | $460-470 | $430-440 | $500-510 | STABLE / |
-| GADDANI, PAKISTAN | $430-440 | $420-430 | $410-420 | $440-450 | STABLE / |
-| ALIAGA, TURKEY | $300-310 | $290-300 | $270-280 | $310-320 | STABLE / |
+# Current Market Snapshot (USD / LDT)
 
-### Demolition - Reported Sales
+| DESTINATION | TANKERS | BULKERS | GEN. CARGO | CONTAINERS | OUTLOOK |
+| --- | --- | --- | --- | --- | --- |
+| ALANG, INDIA | $420–430 | $410–420 | $400–410 | $450–460 | STABLE / |
+| CHATTOGRAM, BANGLADESH | $470–480 | $460–470 | $430–440 | $500–510 | STABLE / |
+| GADDANI, PAKISTAN | $430–440 | $420–430 | $410–420 | $440–450 | STABLE / |
+| ALIAGA, TURKEY* | $300–310 | $290–300 | $270–280 | $310–320 | STABLE / |
 
-| DELIVERY / TERMS |
-| --- |
-| No reported sales this week |
+* Turkey prices for non-EU ships. EU vessels approx. US$20–30/ton less.
+
+All prices are USD per light displacement tonnage (long ton), net prices offered by recycling yards. Premiums apply based on spares quality, non-ferrous content, bunkers, cargo history, and maintenance. Basis simple Japanese/Korean-built tonnages.
+
+* All prices are USD per light displacement tonnage in the long ton.
+
+* The prices reported are net prices offered by the recycling yards.
+
+* Prices quoted are basis simple Japanese / Korean-built tonnages trading units. Premiums are paid on top of the above-quoted prices based on quality & quality of Spares, Non-Fe., bunkers, cargo history, and maintenance.
+
+# 5-Year Historical Average Prices (Week 21)
+
+| DESTINATION | 2021 | 2022 | 2023 | 2024 | 2025 |
+| --- | --- | --- | --- | --- | --- |
+| ALANG, INDIA | 480 | 630 | 520 | 540 | 460 |
+| CHATTOGRAM, BANGLADESH | 530 | 640 | 550 | 530 | 460 |
+| GADDANI, PAKISTAN | 530 | 650 | 0 | 520 | 460 |
+| ALIAGA, TURKEY | 250 | 330 | 320 | 350 | 280 |
+
+# Reported Sales
+
+| VESSEL NAME | TYPE | LDT | YEAR / BUILT | PRICE (US/LDT) | COMMENTS |
+| --- | --- | --- | --- | --- | --- |
+| MAYMEI | TANKER | 9,728 | 1997 / S. KOREA | 510 | DELIVERED CHATTOGRAM |
+| GROUSE ARROW | GEN. CARGO | 11,059 | 1991 / JAPAN | 460 | DELIVERED ALANG |
+| GLAS DOWR | FPSO | 27,824 | 1996 / JAPAN | UNDISCLOSED | AS IS BATAM, INDONESIA, FOR REDELIVERY TO CHITTAGONG |
 
 ## Page 11
 
 ## Page 12
+
+# Market Insights
+
+Alang, India: Alang softened further this week, with local steel plate prices trading in a narrowing range of INR 39,800 to INR 40,500 per ton. This downward trend, combined with a strengthening USD at a persistent 95.71 exchange rate, has kept overall buyer sentiment under pressure due to high currency costs. Despite these financial headwinds, buyer interest remains healthy because the global availability of vessel candidates is heavily restricted, offering opportunities for non-sanctioned ships to capture firm interest.
+
+India's broader market stability continues to be supported by a strong foundation of more than 110 yards holding valid compliance statements. In a major regulatory shift, the U.S. administration has granted a specific license to major cash buyer GMS to purchase four Iran-sanctioned containerships—the *Yogi*, *Timon*, *Rantanplan*, and *Bigli*—for recycling. This case-by-case authorisation by OFAC is intended to responsibly remove high-risk, poorly maintained shadow fleet vessels from international waters to protect maritime safety. While the agency declined to issue a blanket license, the decision establishes a legitimate legal mechanism for owners to decommission sanctioned hulls rather than utilising non-compliant yards. Many view this development as a potential breakthrough that could offer a compliant route out of the global shadow fleet, which currently totals 1,836 sanctioned vessels.
+
+# Alang Anchorage & Beaching — May2026
+
+| VESSEL | TYPE | LDT | ARRIVAL | BEACHING |
+| --- | --- | --- | --- | --- |
+| - | - | - | - | - |
+
+Chattogram, Bangladesh: Chattogram transitioned into a quieter phase d as the upcoming Eid al-Adha holidays led to a gradual slowdown in overall waterfront activity. Although local buyers maintain a healthy appetite for available tonnage, price offers have softened slightly from their previous peaks.
+
+Local ship scrap plate and melting prices came under early week pressure before stabilising, supported by underlying market strength and steady end-user demand.
+
+Buyers led with a cautious approach to pricing as they closely monitor expectations surrounding a potential increase in import duties on scrap vessels, which is anticipated during the first week of June. Despite this, the underlying sentiment remains steady across the domestic industry.
+
+# Chattogram Anchorage & Beaching — May 2026
+
+| VESSEL | TYPE | LDT | ARRIVAL | BEACHING |
+| --- | --- | --- | --- | --- |
+| K.P.P 01 | TANKER | 1,352 | 17.05.2026 | AWAITING |
+| ORIENTAL DRAGON | GENERAL CARGO | 813 | 18.05.2026 | AWAITING |
+| J YANG | GENERAL CARGO | 4,192 | 18.05.2026 | AWAITING |
+| LE RUBY | BULKER | 8,196 | 16.05.2026 | 21.05.2026 |
+| HAO HUNG 01 | WOODCHIP | 4,997 | 16.05.2026 | 20.05.2026 |
 
 ## Page 13
 
@@ -295,12 +364,27 @@ in nearly three weeks amid sluggish domestic construction and weakening export a
 
 ## Page 16
 
+# Exchange Rates
+
+| CURRENCY PAIR | MAY 22 | MAY 15 | WoW % |
+| --- | --- | --- | --- |
+| USD / CNY (China) | 6.79 | 6.80 | +0.15% |
+| USD / BDT (Bangladesh) | 122.95 | 122.77 | -0.15% |
+| USD / INR (India) | 95.66 | 95.98 | +0.33% |
+| USD / PKR (Pakistan) | 278.59 | 278.59 | 0.00% |
+| USD / TRY (Turkey) | 45.72 | 45.52 | -0.44% |
+
 ### Bunker Prices (USD / ton)
 
 | PORT | VLSFO (0.5%) | HSFO (3.5%) | MGO (0.1%) |
-| :--- | :---: | :---: | :---: |
+| --- | --- | --- | --- |
 | SINGAPORE | $798 | $712 | $1,314 |
 | HONG KONG | $826 | $747 | $1,366 |
 | FUJAIRAH | $878 | $706 | $1,571 |
 | ROTTERDAM | $771 | $680 | $1,328 |
 | HOUSTON | $915 | $697 | $1,261 |
+
+#### Singapore | London | Dubai
+
+This report is performed to the best of our knowledge based on the market conditions prevailing at the time mentioned. The report relates solely to the date/place referred to, and we emphasise that it is a statement of information collected from various market sources. All details above are from information given to us and such information as we have obtained from relevant references in our possession. Still, we can accept no responsibility, and we bear no liability for any loss or damage incurred to any person acting upon this report. STAR ASIA believes the information to be accurate and given in good faith but without guarantee. STAR ASIA will not be held responsible in any way for any action or failure to act based on the information given in this report. The use of the report cannot be reproduced or used without authorisation from STAR ASIA.
+

@@ -147,6 +147,26 @@ Trans-Pacific routes present a mixed picture. The West Coast is seeing rate incr
 
 ## Containers S&P Report
 
+| VESSEL NAME | TYPE | TEU | YEAR | BUILT | PRICE (MILLION) USD | COMMENTS / BUYERS |
+| --- | --- | --- | --- | --- | --- | --- |
+| SOFIA I | PMAX | 5,100 | 2010 | CHINA | 41.0 | CHINESE BUYERS |
+| AS FENJA | FEEDER | 1,223 | 2005 | GERMANY | 8.5 | CHINESE BUYERS |
+| KOTA TENAGA | FEEDER | 802 | 2002 | S. KOREA | 4.2 | UNDISCLOSED |
+
+Containers Values
+
+| CONTAINERS (BY TEU) | GEARED / GEARLESS | NB CONTRACT | NB PROMPT DELIVERY | 5 YEARS | 10 YEARS | 15 YEARS |
+| --- | --- | --- | --- | --- | --- | --- |
+| 900 – 1,200 | Geared | 24 | 24 | 17 | 14 | 8 |
+| 1,600 – 1,850 | Geared | 30 | 33 | 25 | 19 | 15 |
+| 2,700 – 2,900 | Gearless | 41 | 43 | 34 | 27 | 23 |
+| 5,100 | Gearless | 81 | 77 | 66 | 35 | 32 |
+| *(amount in USD million) | *(amount in USD million) | *(amount in USD million) | *(amount in USD million) | *(amount in USD million) | *(amount in USD million) | *(amount in USD million) |
+
+Container 6-12 months T/C rates
+
+[SIGNATURE]
+
 ## Page 9
 
 ## Ship Recycling Market Snapshot
@@ -177,16 +197,24 @@ Trans-Pacific routes present a mixed picture. The West Coast is seeing rate incr
 
 ## Ships Sold for Recycling
 
-| TYPE | PRICE (USD/LDT LT) | COMMENTS |
-|---|---|---|
-| LNG TANKER | 480 | AS IS SOUTH KOREA FOR THE REDELIVERY FULL SUB-CONTINENT |
-| CONTAINER | 492 | DELIVERED ALANG FOR MSC- APPROVED YARDS |
-| VLCC | 447 | DELIVERED ALANG |
-| TANKER | UNDISCLOSED | DELIVERED ALANG |
-| BULKER | 480 | DELIVERED CHATTOGRAM |
-| TANKER | 475 | DELIVERED ALANG |
+| VESSEL NAME | LDT | YEAR / BUILT | TYPE | PRICE (USD/LDT LT) | COMMENTS |
+| --- | --- | --- | --- | --- | --- |
+| HL PYEONGTAEK | 28,809 | 1995 / S.KOREA | LNG TANKER | 480 | AS IS SOUTH KOREA FOR THE REDELIVERY FULL SUB-CONTINENT |
+| MSC ESHA F | 4,950 | 1993 / GERMANY | CONTAINER | 492 | DELIVERED ALANG FOR MSC-APPROVED YARDS |
+| ITAGUA | 48,100 | 1997 / JAPAN | VLCC | 447 | DELIVERED ALANG |
+| ENZO | 17,398 | 1999 / S.KOREA | TANKER | UNDISCLOSED | DELIVERED ALANG |
+| THREE STAR | 7,627 | 1996 / JAPAN | BULKER | 480 | DELIVERED CHATTOGRAM |
+| RIALTO | 9,711 | 1998 / CROATIA | TANKER | 475 | DELIVERED ALANG |
 
 ## Recycling Ships Price Trend
+
+INDIA SHIP RECYCLING PRICES
+
+BANGLADESH SHIP RECYCLING PRICES
+
+PAKISTAN SHIP RECYCLING PRICES
+
+TURKEY SHIP RECYCLING PRICES
 
 ## Page 11
 
@@ -247,46 +275,41 @@ The Turkish hot-rolled coil market continues to experience weak demand. Export a
 
 ## Page 15
 
-Chattogram, Bangladesh : NO TIDES IN DECEMBER Alang, India : NO TIDES December
+# BEACHING TIDE DATES 2024
 
----
+Chattogram, Bangladesh : NO TIDES IN DECEMBER
 
-BUNKER PRICES (USD/TON)
+Alang, India : NO TIDES December
 
-PORTS VLSFO (0.5%) HSFO (3.5%) MGO (0.1%)
+#### BUNKER PRICES (USD/TON)
 
+| PORTS | VLSFO (0.5%) | HSFO (3.5%) | MGO (0.1%) |
+| --- | --- | --- | --- |
 | SINGAPORE | 555 | 467 | 674 |
-|---|---|---|---|
 | HONG KONG | 566 | 498 | 677 |
 | FUJAIRAH | 538 | 448 | 747 |
 | ROTTERDAM | 514 | 453 | 655 |
 | HOUSTON | 559 | 482 | 690 |
 
-CURRENCY USD / CNY (CHINA) USD / BDT (BANGLADESH) USD / INR (INDIA) USD / PKR (PAKISTAN) USD / TRY (TURKEY)
+#### EXCHANGE RATES
+
+| CURRENCY | December 27 | December 20 | W-O-W % CHANGE |
+| --- | --- | --- | --- |
+| USD / CNY (CHINA) | 7.29 | 7.29 | 0 |
+| USD / BDT (BANGLADESH) | 119.49 | 119.46 | -0.03% |
+| USD / INR (INDIA) | 85.40 | 85.12 | -0.33% |
+| USD / PKR (PAKISTAN) | 278.25 | 278.0 | -0.09% |
+| USD / TRY (TURKEY) | 35.21 | 35.10 | -0.31% |
 
 Sub-Continent and Turkey ferrous scrap markets insight
 
-**Weekly Market Report: Sub-Continent Scrap Markets Face Regional Challenges Amid Persistent Cautious Sentiment**
+# Weekly Market Report: Sub-Continent Scrap Markets Face Regional Challenges Amid Persistent Cautious Sentiment
 
-The Sub-Continent scrap markets Pakistan, and Bangladesh grappled with unique regional challenges. The combination of a domestic steel market slowdown, suppressed activity across the board, leaving trading volumes thin amid persistent buyer resistance and broader economic uncertainties.
+The Sub-Continent scrap markets exhibited cautious sentiment this week, as India, Pakistan, and Bangladesh grappled with unique regional challenges. The combination of a domestic steel market slowdown, liquidity constraints, and economic hurdles suppressed activity across the board, leaving trading volumes thin amid persistent buyer resistance and broader economic uncertainties.
 
 ### India: Buyers Await Post-Holiday Market Movement
 
 Indian buyers adopted a wait-and-see approach this week, influenced by a slowdown in the domestic steel market and reduced supplier activity ahead of upcoming holidays.
-
-EXCHANGE RATES
-
-December 27 December 20 W-O-W % CHANGE 7.29 7.29 0
-
-| 119.49 | 119.46 | -0.03% |
-|---|---|---|
-| 85.40 | 85.12 | -0.33% |
-| 278.25 | 278.0 | -0.09% |
-| 35.21 | 35.10 | -0.31% |
-
-exhibited cautious sentiment this week, as India,
-
-liquidity constraints, and economic hurdles
 
 ## Page 16
 

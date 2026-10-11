@@ -364,7 +364,7 @@ The previous week was another firm one for the shipbuilding industry, with 15 ve
 # Demolition Market
 ## Indicative Demolition Prices ($/ldt)
 
-| Markets | Markets | 12/05/2023 | 05/05/2023 | ±% | 2022 | 2021 |
+| Markets | 12/05/2023 | 05/05/2023 | ±% | 2022 | 2021 | 2020 |
 | --- | --- | --- | --- | --- | --- | --- |
 | Tanker |  |  |  |  |  |  |
 | Bangladesh | 585 | 585 | 0.0% | 601 | 542 | 348 |

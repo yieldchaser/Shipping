@@ -218,7 +218,7 @@ In the Indian ship recycling market, the prevailing mood among buyers has shifte
 Anchorage & Beaching Position (AUGUST 2025)
 
 | VESSEL NAME | TYPE | LDT | ARRIVAL | BEACHING |
-|---|---|---|---|---|
+| --- | --- | --- | --- | --- |
 | ABDULLAH F | GENERAL CARGO | 2,766 | 19.08.2025 | AWAITING |
 | CONICO ATLAS | TANKER | 20,001 | 13.06.2025 | ARRESTED |
 | NIRVANA | TANKER | 9,623 | 07.05.2025 | ARRESTED |
@@ -232,36 +232,91 @@ Anchorage & Beaching Position (AUGUST 2025)
 | SIA 20 | GEN.CARGO | 2,410 | 09.08.2025 | 12.0-8.2025 |
 | R PISCES | BULKER | 19,935 | 05.08.2025 | 09.08.2025 |
 | ANGE | TANKER | 1,974 | 29.07.2025 | 09.08.2025 |
-| AEWO | CHEM. TANKER | 5,245 Chattogram | 30.07.2025 | 06.08.2025 |
-| Another week of inactivity challenges. A sluggish while delays in the hindering purchases. This, coupled with a lack compliance with the to regional counterparts. fundamental improvements | in the Bangladesh domestic steel market issuance of L/Cs are of meaningful HKC, led to low buying Market is expected in both financial | market, weighed continues to actively discouraging progress in bringing interest and to remain quiet and regulatory | down by persistent offer little upward potential buyers more recycling uncompetitive levels in the near future, readiness. | internal momentum, and yards into compared awaiting |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
+| AEWO | CHEM. TANKER | 5,245 | 30.07.2025 | 06.08.2025 |
+
+# Chattogram
+
+Another week of inactivity in the Bangladesh market, weighed down by persistent internal challenges. A sluggish domestic steel market continues to offer little upward momentum, while delays in the issuance of L/Cs are actively discouraging potential buyers and hindering purchases.
+
+This, coupled with a lack of meaningful progress in bringing more recycling yards into compliance with the HKC, led to low buying interest and uncompetitive levels compared to regional counterparts. Market is expected to remain quiet in the near future, awaiting fundamental improvements in both financial and regulatory readiness.
+
+Anchorage & Beaching Position (AUGUST 2025)
+
+| VESSEL NAME | TYPE | LDT | ARRIVAL | BEACHING |
+| --- | --- | --- | --- | --- |
+| DK 03 | BULKER | 7,809 | 04.08.2025 | AWAITING |
+| DALLIAN | BULKER | 21,413 | 13.08.2025 | 23.08.2025 |
+| GREAT ROYAL | BULKER | 6,580 | 28.07.2025 | 12.08.2025 |
+| WOND | TANKER | 2,229 | 03.08.2025 | 13.08.2025 |
+| LEONID | TANKER | 13,605 | 28.07.2025 | 09.08.2025 |
 
 ## Page 15
 
-Gadani
+# Gadani
 
-There is a notable lack of momentum in the Pakistan market, with market activity remaining quiet. This is also mirrored in the domestic steel market, where demand is moderate and fails to provide the necessary stimulus for new vessel purchases. The subdued pricing is seen all across, from imported scrap to finished steel products. As a result, prices offered from local recyclers for new tonnage have remained unchanged, with a general absence of buyer interest and a market that is effectively paused.
+There is a notable lack of momentum in the Pakistan market, with market activity remaining quiet. This is also mirrored in the domestic steel market, where demand is moderate and fails to provide the necessary stimulus for new vessel purchases.
 
-Aliaga, Turkey
+The subdued pricing is seen all across, from imported scrap to finished steel products. As a result, prices offered from local recyclers for new tonnage have remained unchanged, with a general absence of buyer interest and a market that is effectively paused.
 
-Turkey recycling markets remains muted. With a weak performance on the domestic steel sector, Turkish steel mills are contending with sluggish sales of finished products, which in turn compels them to aggressively push for lower prices on imported ferrous scrap. With scrap import prices stagnant and unlikely to rise in the near term, there is little to no margin for Turkish recyclers to offer competitive prices.
+Anchorage & Beaching Position (AUGUST 2025)
 
----
+| VESSEL NAME | TYPE | LDT | ARRIVAL | BEACHING |
+| --- | --- | --- | --- | --- |
+| FORTUNE OCEAN | GENERAL CARGO | 2,261 | 12.08.2025 | 18.08.2025 |
+| XING JIE | GENERAL CARGO | 2,571 | 07.08.2025 | 09.08.2025 |
+| HUN | WOODCHIP | 8,915 | 09.08.2025 | 12.08.2025 |
+| BEST 8 | GENERAL CARGO | 2,571 | 30.07.2025 | 09.08.2025 |
+| ELIAN | BULKER | 8,118 | 31.07.2025 | 07.08.2025 |
 
-Chattogram, Bangladesh : 7 ~ 10 September | 20 ~ 23 September Alang, India : 5 ~ 14 September | 19 ~ 27 September
+# Aliaga, Turkey
 
----
+Turkey recycling markets remains muted.
+
+With a weak performance on the domestic steel sector, Turkish steel mills are contending with sluggish sales of finished products, which in turn compels them to aggressively push for lower prices on imported ferrous scrap. With scrap import prices stagnant and unlikely to rise in the near term, there is little to no margin for Turkish recyclers to offer competitive prices.
+
+# BEACHING TIDE DATES 2025
+
+Chattogram, Bangladesh : 7 ~ 10 September | 20 ~ 23 September
+
+Alang, India
+
+: 5 ~ 14 September | 19 ~ 27 September
 
 ## Page 16
 
-Sub-Continent and Turkey ferrous scrap markets insights
+#### BUNKER PRICES (USD/ton)
 
-India The Indian imported scrap market continues to be weighed down by declining domestic finished steel prices, which has dampened sentiment and pushed most buyers to the sidelines. Steel mills are actively resisting higher scrap offers, with their bids consistently trailing sellers' asking prices. This standoff is evident across various grades, with bids for high-grade HMS scrap hovering around US$340/t against offers of up to US$346/t, and similar price disagreements observed for shredded and bulk cargoes. Bangladesh In Bangladesh, the imported scrap trade was slow as significant disparities between buyer and seller price expectations prevented deals from being finalized. For Australian shredded scrap, for example, offers at US$380/t CFR were met with buying interest closer to US$370/t. A similar gap was noted for PNS grade material, effectively limiting trade and maintaining a slow market pace. Pakistan Pakistan's market remained exceptionally quiet, with trading activity at a minimum. While offers for material such as shredded scrap from the UK were heard in a range of US$378- 384/t, the lack of consistent bids or concluded deals indicates a market that is largely stagnant and awaiting a clear directional shift.
+| PORTS | VLSFO (0.5%) | HSFO (3.5%) | MGO (0.1%) |
+| --- | --- | --- | --- |
+| SINGAPORE | 499 | 404 | 645 |
+| HONG KONG | 511 | 427 | 650 |
+| FUJAIRAH | 488 | 383 | 724 |
+| ROTTERDAM | 472 | 408 | 627 |
+| HOUSTON | 487 | 418 | 659 |
+
+#### EXCHANGE RATES
+
+| CURRENCY | August 29 | August 22 | W-O-W % CHANGE |
+| --- | --- | --- | --- |
+| USD / CNY (CHINA) | 7.13 | 7.17 | +0.56% |
+| USD / BDT (BANGLADESH) | 121.61 | 121.68 | +0.06% |
+| USD / INR (INDIA) | 88.16 | 87.51 | -0.74% |
+| USD / PKR (PAKISTAN) | 283.88 | 283.04 | -0.30% |
+| USD / TRY (TURKEY) | 41.11 | 40.95 | -0.39% |
+
+# Sub-Continent and Turkey ferrous scrap markets insights
+
+# India
+
+The Indian imported scrap market continues to be weighed down by declining domestic finished steel prices, which has dampened sentiment and pushed most buyers to the sidelines. Steel mills are actively resisting higher scrap offers, with their bids consistently trailing sellers' asking prices. This standoff is evident across various grades, with bids for high-grade HMS scrap hovering around US\$340/t against offers of up to US\$346/t, and similar price disagreements observed for shredded and bulk cargoes.
+
+# Bangladesh
+
+In Bangladesh, the imported scrap trade was slow as significant disparities between buyer and seller price expectations prevented deals from being finalized. For Australian shredded scrap, for example, offers at US\$380/t CFR were met with buying interest closer to US\$370/t. A similar gap was noted for PNS grade material, effectively limiting trade and maintaining a slow market pace.
+
+# Pakistan
+
+Pakistan's market remained exceptionally quiet, with trading activity at a minimum. While offers for material such as shredded scrap from the UK were heard in a range of US\$378-384/t, the lack of consistent bids or concluded deals indicates a market that is largely stagnant and awaiting a clear directional shift.
 
 ## Page 17
 

@@ -96,6 +96,17 @@ a tight list. Inter-Pacific saw levels in the region of US$8,000 per day, while 
 
 ## Page 4
 
+#### BULKER 12 MONTHS T/C RATES AVERAGE (IN USD/DAY)
+
+|  | DWT | CURRENT | LAST WEEK | LAST YEAR | W-O-W CHANGE % | Y-O-Y CHANGE % |
+| --- | --- | --- | --- | --- | --- | --- |
+| CAPE | 180,000 | 14,500 | 13,250 | 27,250 | +9.43 | -46.79 |
+| PANAMAX | 75,000 | 14,750 | 14,300 | 22,000 | +3.15 | -32.95 |
+| SUPRAMAX | 52,000 | 13,000 | 13,250 | 24,250 | -1.89 | -46.39 |
+| HANDYSIZE | 32,000 | 10,500 | 10,500 | 23,500 | 0 | -55.32 |
+
+# Dry Bulk 1 year T/C rates
+
 ## Page 5
 
 # Tankers
@@ -314,21 +325,71 @@ This week the domestic ship scrap prices made a decent comeback in the backdrop 
 
 ## Page 13
 
+# Anchorage & Beaching Position (December 2022)
+
+| VESSEL NAME | TYPE | LDT | ARRIVAL | BEACHING |
+| --- | --- | --- | --- | --- |
+| BOSFOR | TANKER | 779 | 07.12.2022 | AWAITING |
+| SHUN FU | BULKER | 10,672 | 03.12.2022 | 09.12.2022 |
+| VIVIA | BITUMEN | 3,065 | 28.11.2022 | 06.12.2022 |
+
 ### GADDANI, PAKISTAN
 
-This week, Mr.Wajid Bukhari, secretary general of the Pakistan Association of Large Steel Producers, stated that members are having difficulty establishing Letters of Credit due to the country's financial crisis. Several steel plants are already on the edge of collapsing due to a lack of raw materials. Due to the unpredictability of the currency market and the delays in the State Bank of Pakistan's acceptance of the Letters of Credit, these businesses have also begun to curtail their production. Pakistan's steel sector relies significantly on imported raw materials. Delays in L.C. approval and expensive demurrage fees contribute to the manufacturing delays. Further, the steel industries in the nation are suffering severe supply restrictions. Businesses are also concerned that they may not be able to satisfy the demand for their products once a building in the flooded regions resumes. If the issue is not resolved, the price per metric tonne of steel bars might climb to between Rs230,000 and Rs240,000 (US$1,022 ~ 1,066). In the first four months of this year, imports of steel scrap and iron stayed at about 900,000 tonnes, which is 29% lesser than the same period in the previous year. Concerns over depleting foreign exchange were taking center stage as the banks started to take a back foot on opening Letters of Credit. All major infrastructure projects have been put on hold due to the liquidity crisis, and demand for steel is non-existent. Pakistani recyclers remained inactive, on the sidelines for the time being, until domestic demand picked up and the liquidity crisis eased.
+This week, Mr.Wajid Bukhari, secretary general of the Pakistan Association of Large Steel Producers, stated that members are having difficulty establishing Letters of Credit due to the country's financial crisis.
+
+Several steel plants are already on the edge of collapsing due to a lack of raw materials. Due to the unpredictability of the currency market and the delays in the State Bank of Pakistan's acceptance of the Letters of Credit, these businesses have also begun to curtail their production. Pakistan's steel sector relies significantly on imported raw materials. Delays in L.C. approval and expensive demurrage fees contribute to the manufacturing delays.
+
+Further, the steel industries in the nation are suffering severe supply restrictions. Businesses are also concerned that they may not be able to satisfy the demand for their products once a building in the flooded regions resumes.
+
+If the issue is not resolved, the price per metric tonne of steel bars might climb to between Rs230,000 and Rs240,000 (US$1,022 ~ 1,066). In the first four months of this year, imports of steel scrap and iron stayed at about 900,000 tonnes, which is 29% lesser than the same period in the previous year.
+
+Concerns over depleting foreign exchange were taking center stage as the banks started to take a back foot on opening Letters of Credit. All major infrastructure projects have been put on hold due to the liquidity crisis, and demand for steel is non-existent.
+
+Pakistani recyclers remained inactive, on the sidelines for the time being, until domestic demand picked up and the liquidity crisis eased.
+
+# Anchorage & Beaching Position (December 2022)
+
+| VESSEL NAME | TYPE | LDT | ARRIVAL | BEACHING |
+| --- | --- | --- | --- | --- |
+| CHANGI | BULKER | 9,824 | 01.12.2022 | 11.12.2022 |
 
 ## Page 14
 
-### Bunker Prices (USD / ton)
+# ALIAGA, TURKEY
 
-| PORT | VLSFO (0.5%) | HSFO (3.5%) | MGO (0.1%) |
-| :--- | :---: | :---: | :---: |
+Since last week, all Turkish mills have increased their local scrap purchase costs in response to the continuous rise in import prices. The need for domestic scrap by mills remains robust, and they are also observed buying consumable supplies such as ferroalloys. Sentiments remain depressed, with many having no faith in the market. Now that local rebar demand has slowed and prices are under pressure, we have to wonder how long Turkey can afford higher scrap costs.
+
+However, some industry participants believe domestic end-user demand will revive in the new year as a result of government backing due to an imminent election commitment. Turkish shipbreaking scrap prices have dropped significantly since last week, reaching US$250 ~ 260/t delivered on Wednesday. At the close of business, the lira was largely unchanged from the previous week, at 18.64/US$1.
+
+#### BEACHING TIDE DATES 2022
+
+Chattogram, Bangladesh : 23rd Dec. ~ 26th Dec.
+
+Alang, India : 21st Dec. ~ 29th Dec.
+
+# Bunker Prices
+
+#### BUNKER PRICES (USD/TON)
+
+| PORTS | VLSFO (0.5%) | IFO380 CST | MGO (0.1%) |
+| --- | --- | --- | --- |
 | SINGAPORE | 607 | 374 | 882 |
 | HONG KONG | 618 | 430 | 879 |
 | FUJAIRAH | 613 | 340 | 1143 |
 | ROTTERDAM | 520 | 361 | 800 |
 | HOUSTON | 534 | 394 | 880 |
+
+# Exchange Rates
+
+#### EXCHANGE RATES
+
+|  | 9th DECEMBER | 2nd DECEMBER | W-O-W % CHANGE |
+| --- | --- | --- | --- |
+| USD / CNY (CHINA) | 6.95 | 7.03 | +1.14% |
+| USD / BDT (BANGLADESH) | 103.18 | 102.09 | -1.07% |
+| USD / INR (INDIA) | 82.44 | 81.35 | -1.34% |
+| USD / PKR (PAKISTAN) | 224.64 | 223.86 | -0.35% |
+| USD / TRY (TURKEY) | 18.65 | 18.63 | -0.11% |
 
 ## Page 15
 

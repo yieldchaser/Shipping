@@ -384,7 +384,7 @@ Subdued newbuilding market activity materialized last week with only a handful o
 # Demolition Market
 ## Indicative Demolition Prices ($/ldt)
 
-| Markets | Markets | 24/02/23 | 17/02/23 | ±% | 2022 | 2021 |
+| Markets | 24/02/23 | 17/02/23 | ±% | 2022 | 2021 | 2020 |
 | --- | --- | --- | --- | --- | --- | --- |
 | Tanker |  |  |  |  |  |  |
 | Bangladesh | 585 | 580 | 0.9% | 601 | 542 | 348 |

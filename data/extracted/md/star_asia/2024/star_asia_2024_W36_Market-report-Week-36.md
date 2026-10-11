@@ -258,17 +258,27 @@ PORTS VLSFO (0.5%) HSFO (3.5%) MGO (0.1%)
 
 ## Page 17
 
-Sub-Continent and Turkey ferrous scrap markets insight
+#### EXCHANGE RATES
 
-The Sub-Continent and Turkish ferrous scrap market experienced mixed results this week, as weather disruptions and economic headwinds weighed on demand across the region. In contrast, Turkey's imported scrap market maintained strength, buoyed by tight supply and firm offers. Rebar prices in Turkey saw a slight uptick, supported by steady order volumes and satisfactory profit margins for mills. In India, demand for imported scrap remained sluggish as buyers hesitated due to mismatched bids and offers and weaker-than-expected steel demand during the monsoon season. Despite the current market slowdown, traders are hopeful for an improvement as the rainy season winds down and buyers begin restocking for the winter production cycle. Indicative offers for shredded scrap from the US and UK/Europe ranged between US$385-390/ton CFR Nhava Sheva, with HMS (80:20) at US$365-370/ton CFR. Traders reported limited offers, with some sellers pricing higher due to supply constraints, but expect a rise in trade activity soon, especially in India and Pakistan.
+| CURRENCY | September 6 | August 30 | W-O-W % CHANGE |
+| --- | --- | --- | --- |
+| USD / CNY (CHINA) | 7.08 | 7.08 | 0 |
+| USD / BDT (BANGLADESH) | 119.51 | 119.50 | -0.01% |
+| USD / INR (INDIA) | 83.97 | 83.84 | -0.16% |
+| USD / PKR (PAKISTAN) | 278.39 | 278.49 | +0.04% |
+| USD / TRY (TURKEY) | 33.98 | 34.06 | +0.23% |
 
-### Pakistani buyers remained cautious as the ongoing monsoon season dampened
+# Sub-Continent and Turkey ferrous scrap markets insight
 
-construction activity and rebar demand. Offers for shredded scrap from UK/Europe were assessed at US$395-400/ton CFR Qasim. Domestically, rebar prices stood at PKR 240,000-245,000/ton, while billet prices hovered around PKR 210,000-212,000/t. A steel mill official noted a significant drop in UAE-origin shredded scrap prices, now around US$400/ton, with similar levels being offered from UK sources. In Bangladesh, scrap buying interest was muted due to ongoing challenges, including stringent banking regulations that are making it difficult for buyers to open letters of credit. Flooding and monsoon disruptions have further slowed the steel market. Shredded scrap offers from UK/Europe were evaluated at US$400-405/ton CFR Chattogram, while HMS (80:20) was quoted at US$390-395/ton CFR.
+The Sub-Continent and Turkish ferrous scrap market experienced mixed results this week, as weather disruptions and economic headwinds weighed on demand across the region. In contrast, Turkey’s imported scrap market maintained strength, buoyed by tight supply and firm offers. Rebar prices in Turkey saw a slight uptick, supported by steady order volumes and satisfactory profit margins for mills.
 
-**Turkey's imported ferrous scrap market continued to show strength, driven by tight**
+In India, demand for imported scrap remained sluggish as buyers hesitated due to mismatched bids and offers and weaker-than-expected steel demand during the monsoon season. Despite the current market slowdown, traders are hopeful for an improvement as the rainy season winds down and buyers begin restocking for the winter production cycle. Indicative offers for shredded scrap from the US and UK/Europe ranged between US$385-390/ton CFR Nhava Sheva, with HMS (80:20) at US$365-370/ton CFR. Traders reported limited offers, with some sellers pricing higher due to supply constraints, but expect a rise in trade activity soon, especially in India and Pakistan.
 
-supply and firm offers. US-origin HMS (80:20) was offered at US$370-375/ton CFR, with deals closing around US$370-371/ton CFR. EU-origin HMS (80:20) was similarly quoted at US$365-370/ton CFR. Scrap supply remains constrained by slow collection rates and rising costs in Europe, further tightening the market. Turkish rebar export prices inched
+Pakistani buyers remained cautious as the ongoing monsoon season dampened construction activity and rebar demand. Offers for shredded scrap from UK/Europe were assessed at US$395-400/ton CFR Qasim. Domestically, rebar prices stood at PKR 240,000-245,000/ton, while billet prices hovered around PKR 210,000-212,000/t. A steel mill official noted a significant drop in UAE-origin shredded scrap prices, now around US$400/ton, with similar levels being offered from UK sources.
+
+In Bangladesh, scrap buying interest was muted due to ongoing challenges, including stringent banking regulations that are making it difficult for buyers to open letters of credit. Flooding and monsoon disruptions have further slowed the steel market. Shredded scrap offers from UK/Europe were evaluated at US$400-405/ton CFR Chattogram, while HMS (80:20) was quoted at US$390-395/ton CFR.
+
+Turkey's imported ferrous scrap market continued to show strength, driven by tight supply and firm offers. US-origin HMS (80:20) was offered at US$370-375/ton CFR, with deals closing around US$370-371/ton CFR. EU-origin HMS (80:20) was similarly quoted at US$365-370/ton CFR. Scrap supply remains constrained by slow collection rates and rising costs in Europe, further tightening the market. Turkish rebar export prices inched
 
 ## Page 18
 

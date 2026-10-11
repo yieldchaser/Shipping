@@ -96,25 +96,40 @@ The Middle East market showed an upturn in movement for the remaining late-March
 
 MEG/China routes saw rates closed at WS58. In the Atlantic, WAFR/China route climbed slightly closing at WS66.
 
-Suezmax:
+# Suezmax:
 
 The West Africa market saw rates surge to WS100 points, driven by increased CPC cargoes due to production increases at Kazakhstan's Tengiz oilfield. However, at closing levels corrected as Nigeria/UKC trip closing 5 points lower at WS95. In the Black Sea and Med region, vessel shortages were observed with rates for CPC/Med closing at WS129.
 
-Aframax:
+# Aframax:
 
 MEG finished strong as supply tightened due to vessels relocating to the West following weakness in East of Suez. T/A routes also saw an uptick with USG/UKC up some 12 points, closing at WS145 as improved activities in the region aided.
 
-Clean:
+# Clean:
 
-**LR: LR2s in the MEG closed with a sharp increase in freight rates, with supply shortages**
+LR: LR2s in the MEG closed with a sharp increase in freight rates, with supply shortages expected to continue until the end of March due to prolonged demand growth. TC1 trips to Japan was WS164. In the LR1 segment, similar was also seen with TC5 closing higher at WS180.
 
-expected to continue until the end of March due to prolonged demand growth. TC1 trips to Japan was WS164. In the LR1 segment, similar was also seen with TC5 closing higher at WS180.
-
-**MR: The Far East market finished with slightly softer rates as demand improved following**
-
-the reduced inflows. In the MEG, rates saw improvement with TC17 jumping some 40 points to close at WS262.
+MR: The Far East market finished with slightly softer rates as demand improved following the reduced inflows. In the MEG, rates saw improvement with TC17 jumping some 40 points to close at WS262.
 
 # Baltic Exchange Tanker Indices
+
+| INDICES | CURRENT | LAST WEEK | LAST YEAR | W-O-W CHANGE | Y-O-Y CHANGE |
+| --- | --- | --- | --- | --- | --- |
+| BDTI | 990 | 941 | 1,161 | +5.21% | -14.73% |
+| BCTI | 848 | 750 | 1,233 | +13.07% | -31.22% |
+
+# Tankers Values
+
+*(Weekly)*
+
+| TYPE | DWT | NB CONTRACT | NB PROMPT DELIVERY | 5 YEARS | 10 YEARS | 15 YEARS |
+| --- | --- | --- | --- | --- | --- | --- |
+| VLCC | 310,000 | 127 | 140 | 95 | 75 | 40 |
+| SUEZMAX | 160,000 | 88 | 92 | 70 | 58 | 30 |
+| AFRAMAX | 115,000 | 76 | 77 | 65 | 53 | 25 |
+| LRI | 73,000 | 55 | 58 | 45 | 36 | 26 |
+| MR | 51,000 | 50 | 52 | 40 | 31 | 20 |
+
+*(amount in USD million)*
 
 ## Page 7
 
@@ -230,7 +245,7 @@ Bangladesh markets remain bleak despite a pronounced demand for medium-sized ves
 Anchorage & Beaching Position (MARCH 2025)
 
 | VESSEL NAME | TYPE | LDT | ARRIVAL | BEACHING |
-|---|---|---|---|---|
+| --- | --- | --- | --- | --- |
 | EQUATOR | VLCC | 43,649 | 19.03.2025 | AWAITING |
 | VIK | TANKER | 1,330 | 19.03.2025 | AWAITING |
 | THREE STAR | BULKER | 7,627 | 23.01.2025 | AWAITING |
@@ -242,25 +257,32 @@ Anchorage & Beaching Position (MARCH 2025)
 | GENERALIS | GENERAL CARGO | 3,311 | 14.02.2025 | 12.03.2024 |
 | BANGLAR JYOTI | TANKER | 3,787 | - | 11.03.2024 |
 | BANGLAR SHOURAV | TANKER | 3,740 | - | 10.03.2024 |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
 
-Gadani
+# Gadani
 
-Gadani mirrors a similar lack of activity as the other 2 sub-continent regions and with the end of Ramadan next week, the stagnancy will continue to prolong. Although markets have started to turn around recently over the last few weeks' inactivity, there are still considerable challenges of financial barriers that will hinder further activity. Next month will be telling on how the directions of the markets will lead.
+Gadani mirrors a similar lack of activity as the other 2 sub-continent regions and with the end of Ramadan next week, the stagnancy will continue to prolong. Although markets have started to turn around recently over the last few weeks' inactivity, there are still considerable challenges of financial barriers that will hinder further activity.
 
-Aliaga, Turkey
+Next month will be telling on how the directions of the markets will lead.
 
-The Turkish recycling sector remains unchanged from last week. Some sales were recorded this week but overall buyers remain cautious.
+Anchorage & Beaching Position (MARCH 2025)
 
----
+| VESSEL NAME | TYPE | LDT | ARRIVAL | BEACHING |
+| --- | --- | --- | --- | --- |
+| - | - | - | - | - |
 
-Chattogram, Bangladesh : 29 March ~ 01 April | 12 ~ 15 April Alang, India : 27 ~ 31 March | 01 ~ 05 April
+# Aliaga, Turkey
 
----
+The Turkish recycling sector remains unchanged from last week.
+
+Some sales were recorded this week but overall buyers remain cautious.
+
+# BEACHING TIDE DATES 2025
+
+Chattogram, Bangladesh : 29 March ~ 01 April | 12 ~ 15 April
+
+Alang, India
+
+: 27 ~ 31 March | 01 ~ 05 April
 
 ## Page 16
 

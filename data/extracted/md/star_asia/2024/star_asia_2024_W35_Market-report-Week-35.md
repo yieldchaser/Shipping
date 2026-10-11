@@ -105,11 +105,41 @@ Overall, a poor week in the segment. In the Med, 80,000mt Ceyhan/Lavera fell to 
 
 While Aframax in the Middle East ended the week with declining rates as expanded vessel availability from stagnant summer demand, coupled with concurrent weakness in the Asian market. In the USG, rates also saw discounts as 70,000mt EC Mexico/USG fell 10 points to WS101.
 
-Clean:
+# Clean:
 
-LR: In the Middle East, the LR2 market closed on a weak note as demand shifted towards more competitively priced LR1 vessels. TC1 fell 14 points to WS115. For LR1, ARA/WAFR on TC16 levels remained flat around WS127. MR: The Far East MR market ended with a slightly bearish trend, marked by a lack of significant fixtures due to persistently sluggish chartering demand. In the MEG, TC17 saw muted activity, with trips to E. Africa remaining at WS205.
+LR: In the Middle East, the LR2 market closed on a weak note as demand shifted towards more competitively priced LR1 vessels. TC1 fell 14 points to WS115. For LR1, ARA/WAFR on TC16 levels remained flat around WS127.
+
+MR: The Far East MR market ended with a slightly bearish trend, marked by a lack of significant fixtures due to persistently sluggish chartering demand. In the MEG, TC17 saw muted activity, with trips to E. Africa remaining at WS205.
 
 ## Baltic Exchange Tanker Indices
+
+| INDICES | CURRENT | LAST WEEK | LAST YEAR | W-O-W CHANGE | Y-O-Y CHANGE |
+| --- | --- | --- | --- | --- | --- |
+| BDTI | 884 | 920 | 776 | -3.91% | +13.92% |
+| BCTI | 625 | 652 | 843 | -4.14% | -25.86% |
+
+# Tankers Values
+
+(Weekly)
+
+| TYPE | DWT | NB CONTRACT | NB PROMPT DELIVERY | 5 YEARS | 10 YEARS | 15 YEARS |
+| --- | --- | --- | --- | --- | --- | --- |
+| VLCC | 310,000 | 129 | 146 | 116 | 86 | 58 |
+| SUEZMAX | 160,000 | 90 | 99 | 83 | 68 | 50 |
+| AFRAMAX | 115,000 | 75 | 86 | 72 | 62 | 44 |
+| LR1 | 73,000 | 62 | 68 | 58 | 48 | 32 |
+| MR | 51,000 | 52 | 53 | 50 | 41 | 28 |
+| *(amount in USD million) | *(amount in USD million) | *(amount in USD million) | *(amount in USD million) | *(amount in USD million) | *(amount in USD million) | *(amount in USD million) |
+
+Tanker 12 months T/C rates average (in USD/day)
+
+| TYPE | DWT | CURRENT | LAST WEEK | LAST YEAR | W-O-W CHANGE | Y-O-Y CHANGE |
+| --- | --- | --- | --- | --- | --- | --- |
+| VLCC | 310,000 | 45,000 | 45,750 | 44,000 | -1.64% | +2.27% |
+| SUEZMAX | 150,000 | 40,500 | 40,500 | 38,750 | 0 | +4.52% |
+| AFRAMAX | 110,000 | 37,500 | 40,500 | 38,500 | -7.41% | -2.60% |
+| LR1 | 74,000 | 36,000 | 37,000 | 28,250 | -2.70% | +27.43% |
+| MR | 47,000 | 26,500 | 27,500 | 25,500 | -3.64% | +3.92% |
 
 ## Page 7
 
@@ -263,13 +293,27 @@ PORTS VLSFO (0.5%) HSFO (3.5%) MGO (0.1%)
 
 ## Page 16
 
-Sub-Continent and Turkey ferrous scrap markets insight
+#### EXCHANGE RATES
+
+| CURRENCY | August 30 | August 23 | W-O-W % CHANGE |
+| --- | --- | --- | --- |
+| USD / CNY (CHINA) | 7.08 | 7.12 | +0.56% |
+| USD / BDT (BANGLADESH) | 119.50 | 119.53 | +0.03% |
+| USD / INR (INDIA) | 83.84 | 83.81 | -0.04% |
+| USD / PKR (PAKISTAN) | 278.49 | 278.61 | +0.04% |
+| USD / TRY (TURKEY) | 34.06 | 33.95 | -0.32% |
+
+# Sub-Continent and Turkey ferrous scrap markets insight
 
 This week, the ferrous scrap markets in the Sub-Continent and Turkey showcased diverging trends. In Turkey, import prices experienced a notable rise driven by improved market sentiments and a tightening supply, while in the Sub-Continent, markets faced pressures from weak demand and various regional challenges.
 
-### India's imported scrap market had a challenging week, marked by sluggish demand
+India's imported scrap market had a challenging week, marked by sluggish demand and hesitant buyers. Shredded scrap offers fluctuated between US$385/t and 395/t CFR Nhava Sheva, but buyers were reluctant, often seeking prices below US$385/t. Offers for HMS (80:20) from the UK/Europe and West Africa ranged from US$365/t to 375/t CFR, but buyers targeted even lower levels, reflecting a lack of urgency and market confidence.
 
-and hesitant buyers. Shredded scrap offers fluctuated between US$385/t and 395/t CFR Nhava Sheva, but buyers were reluctant, often seeking prices below US$385/t. Offers for HMS (80:20) from the UK/Europe and West Africa ranged from US$365/t to 375/t CFR, but buyers targeted even lower levels, reflecting a lack of urgency and market confidence. The downturn in India was attributed to several factors, including weak steel demand, more competitive domestic scrap options, and widespread expectations of further price declines. The impending nationwide port workers' strike, which began on 28 August, further added to the uncertainty, disrupting trade and port activities. While some suppliers remain hopeful that prices are nearing a bottom, a significant recovery is not expected until mid-September, with the end of the monsoon season potentially bringing a demand uptick. In Pakistan, the ferrous scrap market saw a slight increase in shredded scrap offers, which edged up by US$2/t to US$399/t CFR-Qasim. This rise was driven by higher supplier offers amid exchange rate fluctuations despite moderate activity levels. Mills remained cautious, with limited interest in new bookings, influenced by weak liquidity, ongoing monsoon rains, and concerns over potential declines in rebar and billet prices. The market slowdown was further compounded by end-of-month financial constraints, which restricted cash flow and purchasing activity. A noteworthy development was the Fauji Foundation's interest in acquiring Agha Steel Industries, leading to a 10.03% rise in Agha Steel's stock, signaling potential sector consolidation. However, overall market
+The downturn in India was attributed to several factors, including weak steel demand, more competitive domestic scrap options, and widespread expectations of further price declines. The impending nationwide port workers' strike, which began on 28 August, further added to the uncertainty, disrupting trade and port activities. While some suppliers remain hopeful that prices are nearing a bottom, a significant recovery is not expected until mid-September, with the end of the monsoon season potentially bringing a demand uptick.
+
+In Pakistan, the ferrous scrap market saw a slight increase in shredded scrap offers, which edged up by US$2/t to US$399/t CFR-Qasim. This rise was driven by higher supplier offers amid exchange rate fluctuations despite moderate activity levels. Mills remained cautious, with limited interest in new bookings, influenced by weak liquidity, ongoing monsoon rains, and concerns over potential declines in rebar and billet prices.
+
+The market slowdown was further compounded by end-of-month financial constraints, which restricted cash flow and purchasing activity. A noteworthy development was the Fauji Foundation's interest in acquiring Agha Steel Industries, leading to a 10.03% rise in Agha Steel's stock, signaling potential sector consolidation. However, overall market
 
 ## Page 17
 

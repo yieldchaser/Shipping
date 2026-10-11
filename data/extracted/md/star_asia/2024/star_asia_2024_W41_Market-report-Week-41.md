@@ -101,11 +101,11 @@ The West African market was also impacted by the geopolitical crisis in the Midd
 
 ## Page 6
 
-Aframax:
+# Aframax:
 
 The Med region experienced increased activity as Libyan ports resumed full operations. This combined with a limited number of available vessels in the area, led to a w-o-w increase in rates for Ceyhan/Lavera route with 80,000mt climbing 36 points to WS185. Meanwhile in the North Sea, cross-UKC fell 7 points to WS123.
 
-Clean:
+# Clean:
 
 LR: The situation in the MEG has led to a shift in demand towards MR tankers in other exporting regions, such as the United States. As a result, LR2 rates experienced a sharp decline, dropping 30 points compared to the previous week. At closing, TC1 remains at WS115.
 
@@ -113,30 +113,25 @@ MR: In the Far East, despite a steady influx of demand, the market closed with o
 
 ## Baltic Exchange Tanker Indices
 
-| INDICES | CURRENT | LAST WEEK |
-|---|---|---|
-| BDTI | 1,036 | 1,060 |
-| BCTI | 535 | 497 |
+| INDICES | CURRENT | LAST WEEK | LAST YEAR | W-O-W CHANGE | Y-O-Y CHANGE |
+| --- | --- | --- | --- | --- | --- |
+| BDTI | 1,036 | 1,060 | 1,149 | -2.26% | -9.83% |
+| BCTI | 535 | 497 | 748 | +7.65% | -28.48% |
 
-LAST YEAR W-O-W CHANGE 1,149 -2.26% 748 +7.65%
+# Tankers Values
 
-Y-O-Y
+(Weekly)
 
-CHANGE
-
--9.83%
-
--28.48%
-
-| TYPE | DWT | Tankers Values (Weekly) NB CONTRACT | Tankers Values (Weekly) NB PROMPT | 5 YEARS | 10 YEARS | 15 YEARS |
+| TYPE | DWT | NB CONTRACT | NB PROMPT DELIVERY | 5 YEARS | 10 YEARS | 15 YEARS |
 | --- | --- | --- | --- | --- | --- | --- |
-|  |  |  | DELIVERY |  |  |  |
 | VLCC | 310,000 | 129 | 146 | 116 | 86 | 58 |
 | SUEZMAX | 160,000 | 90 | 99 | 83 | 68 | 50 |
 | AFRAMAX | 115,000 | 75 | 86 | 72 | 62 | 44 |
-| LR1 | 73,000 | 62 | 68 | 58 | 48 | 32 |
+| LRI | 73,000 | 62 | 68 | 58 | 48 | 32 |
 | MR | 51,000 | 52 | 53 | 50 | 41 | 28 |
-| *(amount in USD million) |  |  |  |  |  |  |
+| *(amount in USD million) | *(amount in USD million) | *(amount in USD million) | *(amount in USD million) | *(amount in USD million) | *(amount in USD million) | *(amount in USD million) |
+
+*(amount in USD million)
 
 ## Page 7
 
@@ -242,33 +237,63 @@ The Alang ship recycling market has entered a new phase of purchasing at the pre
 
 again after the Diwali festival in India, when new projects are typically launched and the true demand for steel becomes clearer.
 
-| Chattogram, Bangladesh The market has seen minimal movement compared to previous weeks, with ongoing weakness in local conditions contributing to the broader slowdown. There is no significant demand for ships at the present moment as the local demand has caused the markets to enter a lull period. No fresh sales reported for Chattogram Anchorage & Beaching Position (September 2024) | Chattogram, Bangladesh The market has seen minimal movement compared to previous weeks, with ongoing weakness in local conditions contributing to the broader slowdown. There is no significant demand for ships at the present moment as the local demand has caused the markets to enter a lull period. No fresh sales reported for Chattogram Anchorage & Beaching Position (September 2024) | The market has seen minimal movement compared to previous weeks, with ongoing weakness in local conditions contributing to the broader slowdown. There is no significant demand for ships at the present moment as the local demand has caused Anchorage & Beaching Position (September 2024) | The market has seen minimal movement compared to previous weeks, with ongoing weakness in local conditions contributing to the broader slowdown. There is no significant demand for ships at the present moment as the local demand has caused Anchorage & Beaching Position (September 2024) | The market has seen minimal movement compared to previous weeks, with ongoing weakness in local conditions contributing to the broader slowdown. There is no significant demand for ships at the present moment as the local demand has caused Anchorage & Beaching Position (September 2024) | The market has seen minimal movement compared to previous weeks, with ongoing weakness in local conditions contributing to the broader slowdown. There is no significant demand for ships at the present moment as the local demand has caused |
-|---|---|---|---|---|---|
-| VESSEL NAME | TYPE |  | LDT | ARRIVAL | BEACHING |
-| ION | TANKER |  | 23,236 | 08.10.2024 | AWAITING |
-| Gadani, Pakistan |  |  |  |  |  |
-| Markets are witnessing ships has kept overall holding steady despite Anchorage | notable improvements trends flat. Recyclers the lack of clear & Beaching | remain direction | in demand; eager to in the market. Position (September | however, the limited purchase, with 2024) | supply of prices |
-| VESSEL NAME | TYPE |  | LDT | ARRIVAL | BEACHING |
-| - | - |  | - | - | - |
+Anchorage & Beaching Position (September 2024)
+
+| VESSEL NAME | TYPE | LDT | ARRIVAL | BEACHING |
+| --- | --- | --- | --- | --- |
+| BEREG MATCHY | REEFER | 7,263 | 26.08.2024 | AWAITING* |
+| MY MERAY | BULKER | 6,925 | 07.10.2024 | AWAITING |
+| GREEN MALOY | REEFER | 2,975 | 10.10.2024 | AWAITING |
+| ANDULUS 1 | BULKER | 6,064 | 12.10.2024 | AWATIING |
+| MSC ADELE | MPP | 8,800 | 05.10.2024 | 09.10.2024 |
+| DIVO | FISH FACTORY | 26,136 | 03.10.2024 | 06.10.2024 |
+| UNI III | CONTAINER | 7,098 | 03.10.2024 | 05.10.2024 |
+
+# Chattogram, Bangladesh
+
+The market has seen minimal movement compared to previous weeks, with ongoing weakness in local conditions contributing to the broader slowdown. There is no significant demand for ships at the present moment as the local demand has caused the markets to enter a lull period.
+
+No fresh sales reported for Chattogram
+
+Anchorage & Beaching Position (September 2024)
+
+| VESSEL NAME | TYPE | LDT | ARRIVAL | BEACHING |
+| --- | --- | --- | --- | --- |
+| ION | TANKER | 23,236 | 08.10.2024 | AWAITING |
+
+# Gadani, Pakistan
+
+Markets are witnessing notable improvements in demand; however, the limited supply of ships has kept overall trends flat. Recyclers remain eager to purchase, with prices holding steady despite the lack of clear direction in the market.
+
+Anchorage & Beaching Position (September 2024)
+
+| VESSEL NAME | TYPE | LDT | ARRIVAL | BEACHING |
+| --- | --- | --- | --- | --- |
+| - | - | - | - | - |
 
 ## Page 15
 
-Aliaga, Turkey
+# Aliaga, Turkey
 
-Despite the increase in imported scrap values, most Turkish mills have maintained their domestic scrap buying prices, reflecting a strategic approach to cost management. This decision is driven by the strong demand for domestic scrap, which remains a more economical option compared to costlier imports. Recent deals for imported scrap have been reported at higher prices, around US$388 per ton CFR Turkey for HMS 1&2 80:20 from various sources. However, the market is experiencing some resistance to further price increases, partly due to the recent slump in the Chinese market following their holiday period. The broader market context includes several factors influencing scrap prices, such as the weakening euro, slowing domestic rebar demand in Turkey, and uncertainties in the Chinese market. Despite these challenges, scrap prices have shown resilience, which some industry insiders describe as "miraculous." Turkish shipbreaking scrap prices stood at US$365-387/t delivered.
+Despite the increase in imported scrap values, most Turkish mills have maintained their domestic scrap buying prices, reflecting a strategic approach to cost management. This decision is driven by the strong demand for domestic scrap, which remains a more economical option compared to costlier imports.
 
----
+Recent deals for imported scrap have been reported at higher prices, around US$388 per ton CFR Turkey for HMS 1&2 80:20 from various sources. However, the market is experiencing some resistance to further price increases, partly due to the recent slump in the Chinese market following their holiday period.
 
-Chattogram, Bangladesh : 16 - 19 October | 30 October - 2 November Alang, India : 15 - 23 October | 31 October - 7 November
+The broader market context includes several factors influencing scrap prices, such as the weakening euro, slowing domestic rebar demand in Turkey, and uncertainties in the Chinese market. Despite these challenges, scrap prices have shown resilience, which some industry insiders describe as "miraculous." Turkish shipbreaking scrap prices stood at US$365-387/t delivered.
 
----
+# BEACHING TIDE DATES 2024
 
-BUNKER PRICES (USD/TON)
+Chattogram, Bangladesh : 16 – 19 October | 30 October – 2 November
 
-PORTS VLSFO (0.5%) HSFO (3.5%) MGO (0.1%)
+Alang, India
 
+: 15 - 23 October | 31 October - 7 November
+
+#### BUNKER PRICES (USD/TON)
+
+| PORTS | VLSFO (0.5%) | HSFO (3.5%) | MGO (0.1%) |
+| --- | --- | --- | --- |
 | SINGAPORE | 622 | 494 | 688 |
-|---|---|---|---|
 | HONG KONG | 616 | 520 | 689 |
 | FUJAIRAH | 598 | 480 | 770 |
 | ROTTERDAM | 558 | 524 | 685 |
@@ -276,17 +301,27 @@ PORTS VLSFO (0.5%) HSFO (3.5%) MGO (0.1%)
 
 ## Page 16
 
-Sub-Continent and Turkey ferrous scrap markets insight
+#### EXCHANGE RATES
 
-The Sub-Continent and Turkey imported ferrous scrap market experienced a varied week, influenced by regional challenges and economic conditions. While demand in India, Pakistan, and Bangladesh slowed, Turkey's mills remained active in securing scrap supplies to meet robust rebar production targets for November. In India, demand for imported scrap softened toward the end of the week as the festivals slowed market activity. The holiday period saw no firm bids or offers reported, reflecting a festive lull. Indicative prices for US and UK/European shredded scrap eased slightly, hovering between US$395-400/ton CFR Nhava Sheva, while HMS (80:20) offers ranged from US$375-380/ton CFR.
+| CURRENCY | October 11 | October 4 | W-O-W % CHANGE |
+| --- | --- | --- | --- |
+| USD / CNY (CHINA) | 7.06 | 7.01 | -0.71% |
+| USD / BDT (BANGLADESH) | 119.59 | 119.46 | -0.11% |
+| USD / INR (INDIA) | 84.11 | 84.03 | -0.10% |
+| USD / PKR (PAKISTAN) | 277.62 | 277.43 | -0.07% |
+| USD / TRY (TURKEY) | 34.29 | 34.20 | -0.26% |
 
-**Pakistan's scrap market continued to face headwinds, with buying activity slowing down**
+# Sub-Continent and Turkey ferrous scrap markets insight
 
-due to weak finished steel sales and low production levels, exacerbated by liquidity constraints. The reduction in government infrastructure projects and construction activities has further dampened demand. Indicative offers for shredded scrap from the UK and Europe remained at US$405-410/ton CFR Qasim.
+The Sub-Continent and Turkey imported ferrous scrap market experienced a varied week, influenced by regional challenges and economic conditions. While demand in India, Pakistan, and Bangladesh slowed, Turkey's mills remained active in securing scrap supplies to meet robust rebar production targets for November.
 
-**Bangladeshi buyers adopted a cautious stance this week, postponing scrap purchases**
+In India, demand for imported scrap softened toward the end of the week as the festivals slowed market activity. The holiday period saw no firm bids or offers reported, reflecting a festive lull. Indicative prices for US and UK/European shredded scrap eased slightly, hovering between US$395-400/ton CFR Nhava Sheva, while HMS (80:20) offers ranged from US$375-380/ton CFR.
 
-in response to ongoing economic sluggishness, monsoon flooding, and high inventory levels. Steel production in the country is operating at just 50-60% capacity, a reflection of weak demand. Offers for shredded scrap from Australia and New Zealand stood at US$415-420/ton CFR Chattogram, while HMS (80:20) was offered at US$390-395/ton CFR. Most buyers are expected to reassess their purchasing strategies next month. In contrast to the Sub-Continents markets, Turkish mills were actively securing scrap to support strong domestic rebar production anticipated in November. With limited availability, Turkish buyers moved quickly to lock in supplies. Notable transactions included Venezuela-origin HMS (80:20) purchased at US$382/ton CFR by an Aegean-
+Pakistan's scrap market continued to face headwinds, with buying activity slowing down due to weak finished steel sales and low production levels, exacerbated by liquidity constraints. The reduction in government infrastructure projects and construction activities has further dampened demand. Indicative offers for shredded scrap from the UK and Europe remained at US$405-410/ton CFR Qasim.
+
+Bangladeshi buyers adopted a cautious stance this week, postponing scrap purchases in response to ongoing economic sluggishness, monsoon flooding, and high inventory levels. Steel production in the country is operating at just 50–60% capacity, a reflection of weak demand. Offers for shredded scrap from Australia and New Zealand stood at US$415-420/ton CFR Chattogram, while HMS (80:20) was offered at US$390-395/ton CFR. Most buyers are expected to reassess their purchasing strategies next month.
+
+In contrast to the Sub-Continents markets, Turkish mills were actively securing scrap to support strong domestic rebar production anticipated in November. With limited availability, Turkish buyers moved quickly to lock in supplies. Notable transactions included Venezuela-origin HMS (80:20) purchased at US\$382/ton CFR by an Aegean-
 
 ## Page 17
 

@@ -197,28 +197,70 @@ The SCFI index climbed to 2,985.22 points, driven by early peak season restockin
 
 ## Page 10
 
-### Ship Recycling - Current Market Snapshot (USD / LDT)
+# SHIP RECYCLING
+
+Current Market Snapshot (USD / LDT)
 
 | DESTINATION | TANKERS | BULKERS | GENERAL CARGO | CONTAINERS | OUTLOOK / SENTIMENTS |
-| :--- | :---: | :---: | :---: | :---: | :---: |
-| ALANG, INDIA | $420-430 | $410-420 | $400-410 | $450-460 | WEAK / |
-| CHATTOGRAM, BANGLADESH | $470-480 | $460-470 | $430-440 | $500-510 | STABLE / |
-| GADDANI, PAKISTAN | $480-490 | $450-460 | $430-440 | $470-480 | BULLISH / |
-| ALIAGA, TURKEY | $300-310 | $290-300 | $270-280 | $310-320 | STABLE / |
+| --- | --- | --- | --- | --- | --- |
+| ALANG, INDIA | $420-430 | $410-420 | $400-410 | $450-460 | WEAK / ↓ |
+| CHATTOGRAM, BANGLADESH | $470-480 | $460-470 | $430-440 | $500-510 | STABLE / ←→ |
+| GADDANI, PAKISTAN | $480-490 | $450-460 | $430-440 | $470-480 | BULLISH / ↑ |
+| ALIAGA, TURKEY* | $300-310 | $290-300 | $270-280 | $310-320 | STABLE / ←→ |
 
-### Demolition - Reported Sales
+* Turkey prices for non-EU ships. EU vessels approx. US$20–30/ton less.
 
-| DELIVERY / TERMS |
-| --- |
-| No reported sales this week |
+All prices are USD per light displacement tonnage (long ton), net prices offered by recycling yards. Premiums apply based on spares quality, non-ferrous content, bunkers, cargo history, and maintenance. Basis simple Japanese/Korean-built tonnages.
+
+• All prices are USD per light displacement tonnage in the long ton.
+
+• The prices reported are net prices offered by the recycling yards.
+
+• Prices quoted are basis simple Japanese / Korean-built tonnages trading units. Premiums are paid on top of the above-quoted prices based on quality & quality of Spares, Non-Fe., bunkers, cargo history, and maintenance.
+
+5-Year Historical Average Prices (Week 25)
+
+| DESTINATION | 2021 | 2022 | 2023 | 2024 | 2025 |
+| --- | --- | --- | --- | --- | --- |
+| ALANG, INDIA | 530 | 580 | 530 | 530 | 450 |
+| CHATTOGRAM, BANGLADESH | 550 | 615 | 560 | 520 | 465 |
+| GADDANI, PAKISTAN | 560 | 590 | 0 | 520 | 440 |
+| ALIAGA, TURKEY | 300 | 290 | 320 | 350 | 270 |
+
+Reported Sales
+
+| VESSEL NAME | TYPE | LDT | YEAR / BUILT | PRICE (US/LDT) | COMMENTS |
+| --- | --- | --- | --- | --- | --- |
+| XIN HAI 18 | GENERAL CARGO | 1,542 | 2004 / CHINA | 410 | DELIVERED CHATTOGRAM |
 
 ## Page 11
 
 ## Page 12
 
-**Chattogram, Bangladesh: This week saw Chattogram buyers stepping back, triggering a downward price**
+# Market Insights
 
-correction of approximately US$25/ton across all vessel classes. The adjustment reflects a shift to more realistic buying levels now that previous anxieties surrounding the national budget have eased, following the government's implementation of a VAT increase from BDT 1,200 to BDT 1,500 rather than heavier feared taxes. The resolution of global conflict, marked by the reopening of the Strait of Hormuz and the lifting of U.S. sanctions on Iranian oil, is heavily priming the global market to release a massive wave of ageing vessels that had been starved from the region for 11 weeks.
+Alang, India: Alang remained tightly constrained, with local buying sentiment deeply subdued as yard operators grew increasingly concerned that current global price offers lack support from local steel fundamentals. Despite this quiet domestic demand and generally soft local market conditions, a pronounced, ongoing shortage of available demolition tonnage across all vessel segments has prevented a collapse, effectively holding scrap prices stable.
+
+On the macroeconomic front, the Indian Rupee extended its historic, war-end rally to a five-week high around 94.41 against the U.S. Dollar, though global growth anxieties left foreign institutional investors as net sellers, and shipping normalcy remains weeks away.
+
+On the supply side, Alang witnessed a notable increase in vessels arriving for recycling this month, helping to revive momentum after the sharp lull seen in May. The improved inflow of tonnage provided some support to overall activity, with ships previously sold now gradually making their way to the beach. While sentiment remained cautious.
+
+Alang Anchorage & Beaching Position — June 2026
+
+| VESSEL | TYPE | LDT | ARRIVAL | BEACHING |
+| --- | --- | --- | --- | --- |
+| GALA | RORO | 6,378 | 10.06.2026 | AWAITING |
+| MARY | PASSENGER | 10,509 | 18.06.2026 | 19.06.2026 |
+| BIGLI | CONTAINER | 26,652 | 16.06.2026 | 17.06.2026 |
+| OCTANS | VLCC TANKER | 41,478 | 13.06.2026 | 17.06.2026 |
+| GROUSE ARROW | GENERAL CARGO | 11,059 | 10.06.2026 | 14.06.2026 |
+| STOLT INNOVATION | CHEM. TANKER | 12,940 | 10.06.2026 | 13.06.2026 |
+| TIMON | CONTAINER | 27,062 | 09.06.2206 | 14.06.2026 |
+| SOHAR LNG | LNG CARRIER | 33,003 | 03.06.2026 | 10.06.2026 |
+
+Chattogram, Bangladesh: This week saw Chattogram buyers stepping back, triggering a downward price correction of approximately US$25/ton across all vessel classes. The adjustment reflects a shift to more realistic buying levels now that previous anxieties surrounding the national budget have eased, following the government's implementation of a VAT increase from BDT 1,200 to BDT 1,500 rather than heavier feared taxes.
+
+The resolution of global conflict, marked by the reopening of the Strait of Hormuz and the lifting of U.S. sanctions on Iranian oil, is heavily priming the global market to release a massive wave of ageing vessels that had been starved from the region for 11 weeks.
 
 ## Page 13
 
@@ -316,9 +358,16 @@ the Persian Gulf-which accounts for approximately 9% of global primary aluminium
 ### Bunker Prices (USD / ton)
 
 | PORT | VLSFO (0.5%) | HSFO (3.5%) | MGO (0.1%) |
-| :--- | :---: | :---: | :---: |
+| --- | --- | --- | --- |
 | SINGAPORE | $681 | $473 | $901 |
 | HONG KONG | $674 | $490 | $875 |
 | FUJAIRAH | $1,203 | $603 | $1,424 |
 | ROTTERDAM | $584 | $490 | $884 |
 | HOUSTON | $640 | $503 | $932 |
+
+Singapore | London | Dubai
+
+For Privacy Policy
+
+This report is performed to the best of our knowledge based on the market conditions prevailing at the time mentioned. The report relates solely to the date/place referred to, and we emphasise that it is a statement of information collected from various market sources. All details above are from information given to us and such information as we have obtained from relevant references in our possession. Still, we can accept no responsibility, and we bear no liability for any loss or damage incurred to any person acting upon this report. STAR ASIA believes the information to be accurate and given in good faith but without guarantee. STAR ASIA will not be held responsible in any way for any action or failure to act based on the information given in this report. The use of the report cannot be reproduced or used without authorisation from STAR ASIA.
+

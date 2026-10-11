@@ -135,37 +135,39 @@ ALP Keeper (pictured c/o O. Halland)
 
 ## FEBRUARY 2020 - DAILY NORTH SEA OSV AVAILABILITY
 
+> **Read from the chart.** The report prints no numbers for this chart; each value is the chart line's node for that day, converted with the printed axis labels (vector geometry, not an eyeball estimate).
+
 | Date | PSV 2020 | PSV 2019 | AHTS 2020 | AHTS 2019 |
-| ---- | -------- | -------- | --------- | --------- |
-| 1    | 16       | 4        | 10        | 12        |
-| 2    | 16       | 5        | 9         | 11        |
-| 3    | 17       | 5        | 9         | 10        |
-| 4    | 15       | 5        | 8         | 3         |
-| 5    | 15       | 1        | 8         | 3         |
-| 6    | 18       | 5        | 12        | 4         |
-| 7    | 18       | 7        | 12        | 5         |
-| 8    | 20       | 6        | 12        | 6         |
-| 9    | 23       | 8        | 15        | 7         |
-| 10   | 27       | 9        | 15        | 8         |
-| 11   | 20       | 9        | 10        | 10        |
-| 12   | 12       | 8        | 9         | 13        |
-| 13   | 7        | 8        | 8         | 11        |
-| 14   | 7        | 6        | 8         | 10        |
-| 15   | 7        | 6        | 11        | 9         |
-| 16   | 7        | 7        | 12        | 10        |
-| 17   | 7        | 7        | 15        | 10        |
-| 18   | 4        | 7        | 12        | 8         |
-| 19   | 4        | 6        | 12        | 8         |
-| 20   | 10       | 2        | 8         | 10        |
-| 21   | 13       | 2        | 16        | 10        |
-| 22   | 13       | 2        | 16        | 10        |
-| 23   | 14       | 2        | 10        | 10        |
-| 24   | 14       | 2        | 10        | 10        |
-| 25   | 3        | 2        | 3         | 10        |
-| 26   | 3        | 2        | 3         | 10        |
-| 27   | 5        | 2        | 8         | 14        |
-| 28   | 4        | 2        | 6         | 14        |
-| 29   | 5        | 2        | 6         | 6         |
+| --- | --- | --- | --- | --- |
+| 1 | 16 | 4 | 10 | 12 |
+| 2 | 16 | 4 | 9 | 11 |
+| 3 | 17 | 5 | 8 | 10 |
+| 4 | 17 | 5 | 8 | 9 |
+| 5 | 15 | 1 | 12 | 3 |
+| 6 | 18 | 4 | 12 | 4 |
+| 7 | 18 | 7 | 12 | 5 |
+| 8 | 21 | 6 | 13 | 5 |
+| 9 | 24 | 7 | 14 | 7 |
+| 10 | 27 | 8 | 15 | 10 |
+| 11 | 20 | 9 | 9 | 12 |
+| 12 | 14 | 8 | 11 | 13 |
+| 13 | 7 | 8 | 8 | 9 |
+| 14 | 9 | 6 | 9 | 9 |
+| 15 | 11 | 6 | 11 | 12 |
+| 16 | 13 | 6 | 13 | 10 |
+| 17 | 15 | 7 | 15 | 9 |
+| 18 | 11 | 7 | 12 | 7 |
+| 19 | 4 | 6 | 12 | 9 |
+| 20 | 5 | 6 | 13 | 8 |
+| 21 | 10 | 3 | 16 | 9 |
+| 22 | 12 | 2 | 15 | 10 |
+| 23 | 13 | 2 | 13 | 10 |
+| 24 | 14 | 2 | 11 | 10 |
+| 25 | 3 | 2 | 4 | 10 |
+| 26 | 5 | 1 | 5 | 10 |
+| 27 | 6 | 2 | 8 | 11 |
+| 28 | 3 | 2 | 4 | 14 |
+| 29 | 5 |  | 6 |  |
 
 ## RATES & UTILISATION
 
@@ -286,40 +288,11 @@ Procurement data is stored within the system indefinitely, allowing users to con
 
 SeaPortal has been developed using the latest developments in web technologies, ensuring that the end user experience is that of a system that is both lightning fast but also one that is pleasant on the eye and easy to get up to speed with. SeaPortal has been developed using a 'mobile first' approach, which has ensured that the software is fully functional on mobile, tablet and desktop devices, meaning that end users are no longer shackled to their desk.
 
-| Category                |     |      |
-| ----------------------- | --- | ---- |
-| **Vessel Availability** |     |      |
-| Location                | PSV | AHTS |
-| Aberdeen                | 4   | 3    |
-| Norway                  | 3   | 7    |
-| Southern Sector         | 1   | 4    |
+> **Chart not transcribed.** The figure prints no values; the table the parser estimated from the image was removed. See the source PDF.
 
-| Month  | PSV   | AHTS  |
-| ------ | ----- | ----- |
-| Feb 19 | 10000 | 15000 |
-| Mar 19 | 12000 | 20000 |
-| Apr 19 | 10000 | 18000 |
-| May 19 | 8000  | 25000 |
-| Jun 19 | 7000  | 22000 |
-| Jul 19 | 6000  | 20000 |
-| Aug 19 | 5000  | 28000 |
-| Sep 19 | 4000  | 27000 |
-| Oct 19 | 3000  | 26000 |
-| Nov 19 | 2000  | 24000 |
-| Dec 19 | 1000  | 20000 |
-| Jan 20 | 500   | 15000 |
+> **Chart not transcribed.** The figure prints no values; the table the parser estimated from the image was removed. See the source PDF.
 
-| Date | PSV | AHTS |
-| :--- | :--- | :--- |
-| 26/01 | 65 | 35 |
-| 30/01 | 70 | 40 |
-| 03/02 | 60 | 30 |
-| 07/02 | 55 | 25 |
-| 11/02 | 45 | 20 |
-| 15/02 | 50 | 35 |
-| 19/02 | 70 | 45 |
-| 23/02 | 80 | 50 |
-| 27/02 | 85 | 55 |
+> **Chart not transcribed.** The figure prints no values; the table the parser estimated from the image was removed. See the source PDF.
 
 # FEATURE VESSEL
 

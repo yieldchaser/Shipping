@@ -387,7 +387,7 @@ The newbuilding market is entering 2023 strongly with container orders leading t
 # Intermodal Demolition Market
 ## Indicative Demolition Prices ($/ldt)
 
-| Markets | Markets | 06/01/23 | 30/12/22 | ±% | 2020 | 2019 |
+| Markets | 06/01/23 | 30/12/22 | ±% | 2020 | 2019 | 2018 |
 | --- | --- | --- | --- | --- | --- | --- |
 | Tanker |  |  |  |  |  |  |
 | Bangladesh | 515 | 515 | 0.0% | 348 | 410 | 442 |

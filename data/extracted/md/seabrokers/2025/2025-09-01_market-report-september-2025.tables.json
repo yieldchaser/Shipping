@@ -4,138 +4,8 @@
   "year": 2025,
   "month": 9,
   "source_file": "corpus/05-seabrokers/pdfs/2025-09-01_market-report-september-2025.pdf",
-  "tables_count": 15,
+  "tables_count": 13,
   "tables": [
-    {
-      "title": "Figure 1 Oil production by type and average annual change, 2000-2024",
-      "columns": [
-        "Year",
-        "Onshore conventional crude",
-        "Natural gas liquids",
-        "Shallow water conventional crude",
-        "Deepwater conventional crude",
-        "Tight oil",
-        "Extra-heavy oil and bitumen",
-        "Other"
-      ],
-      "row_count": 6,
-      "rows": [
-        {
-          "Year": "2000",
-          "Onshore conventional crude": "38",
-          "Natural gas liquids": "10",
-          "Shallow water conventional crude": "7",
-          "Deepwater conventional crude": "3",
-          "Tight oil": "1",
-          "Extra-heavy oil and bitumen": "1",
-          "Other": "6"
-        },
-        {
-          "Year": "2005",
-          "Onshore conventional crude": "40",
-          "Natural gas liquids": "12",
-          "Shallow water conventional crude": "8",
-          "Deepwater conventional crude": "4",
-          "Tight oil": "2",
-          "Extra-heavy oil and bitumen": "1",
-          "Other": "7"
-        },
-        {
-          "Year": "2010",
-          "Onshore conventional crude": "42",
-          "Natural gas liquids": "14",
-          "Shallow water conventional crude": "9",
-          "Deepwater conventional crude": "5",
-          "Tight oil": "3",
-          "Extra-heavy oil and bitumen": "2",
-          "Other": "8"
-        },
-        {
-          "Year": "2015",
-          "Onshore conventional crude": "43",
-          "Natural gas liquids": "16",
-          "Shallow water conventional crude": "10",
-          "Deepwater conventional crude": "6",
-          "Tight oil": "4",
-          "Extra-heavy oil and bitumen": "2",
-          "Other": "9"
-        },
-        {
-          "Year": "2020",
-          "Onshore conventional crude": "41",
-          "Natural gas liquids": "15",
-          "Shallow water conventional crude": "11",
-          "Deepwater conventional crude": "7",
-          "Tight oil": "5",
-          "Extra-heavy oil and bitumen": "3",
-          "Other": "10"
-        },
-        {
-          "Year": "2024",
-          "Onshore conventional crude": "40",
-          "Natural gas liquids": "16",
-          "Shallow water conventional crude": "12",
-          "Deepwater conventional crude": "8",
-          "Tight oil": "6",
-          "Extra-heavy oil and bitumen": "3",
-          "Other": "11"
-        }
-      ]
-    },
-    {
-      "title": "Figure 6 Natural gas production by type and average annual change, 2000-2024",
-      "columns": [
-        "Year",
-        "Conventional: Onshore",
-        "Conventional: Offshore",
-        "Unconventional: Tight gas",
-        "Unconventional: Shale gas",
-        "Other"
-      ],
-      "row_count": 5,
-      "rows": [
-        {
-          "Year": "2000-05",
-          "Conventional: Onshore": "30",
-          "Conventional: Offshore": "15",
-          "Unconventional: Tight gas": "5",
-          "Unconventional: Shale gas": "10",
-          "Other": "5"
-        },
-        {
-          "Year": "2005-10",
-          "Conventional: Onshore": "32",
-          "Conventional: Offshore": "18",
-          "Unconventional: Tight gas": "6",
-          "Unconventional: Shale gas": "12",
-          "Other": "6"
-        },
-        {
-          "Year": "2010-15",
-          "Conventional: Onshore": "25",
-          "Conventional: Offshore": "10",
-          "Unconventional: Tight gas": "2",
-          "Unconventional: Shale gas": "15",
-          "Other": "8"
-        },
-        {
-          "Year": "2015-19",
-          "Conventional: Onshore": "50",
-          "Conventional: Offshore": "20",
-          "Unconventional: Tight gas": "5",
-          "Unconventional: Shale gas": "40",
-          "Other": "5"
-        },
-        {
-          "Year": "2019-24",
-          "Conventional: Onshore": "10",
-          "Conventional: Offshore": "5",
-          "Unconventional: Tight gas": "-5",
-          "Unconventional: Shale gas": "35",
-          "Other": "5"
-        }
-      ]
-    },
     {
       "title": "TIDEWATER PSV ALSO RETAINED BY EQUINOR",
       "columns": [
@@ -186,188 +56,188 @@
           "PSV 2025": "10",
           "PSV 2024": "5",
           "AHTS 2025": "17",
-          "AHTS 2024": "13.5"
+          "AHTS 2024": "13"
         },
         {
           "Date": "2",
           "PSV 2025": "14",
-          "PSV 2024": "9",
-          "AHTS 2025": "14",
+          "PSV 2024": "5",
+          "AHTS 2025": "15",
           "AHTS 2024": "14"
         },
         {
           "Date": "3",
-          "PSV 2025": "10.5",
-          "PSV 2024": "8",
-          "AHTS 2025": "11",
+          "PSV 2025": "10",
+          "PSV 2024": "9",
+          "AHTS 2025": "12",
           "AHTS 2024": "13"
         },
         {
           "Date": "4",
-          "PSV 2025": "9",
-          "PSV 2024": "8.5",
-          "AHTS 2025": "10",
+          "PSV 2025": "11",
+          "PSV 2024": "9",
+          "AHTS 2025": "11",
           "AHTS 2024": "11"
         },
         {
           "Date": "5",
-          "PSV 2025": "8.5",
-          "PSV 2024": "7",
+          "PSV 2025": "9",
+          "PSV 2024": "9",
           "AHTS 2025": "8",
-          "AHTS 2024": "10.5"
+          "AHTS 2024": "10"
         },
         {
           "Date": "6",
           "PSV 2025": "9",
-          "PSV 2024": "7",
-          "AHTS 2025": "8.5",
-          "AHTS 2024": "10"
+          "PSV 2024": "8",
+          "AHTS 2025": "8",
+          "AHTS 2024": "11"
         },
         {
           "Date": "7",
-          "PSV 2025": "9.5",
-          "PSV 2024": "7.5",
+          "PSV 2025": "10",
+          "PSV 2024": "6",
           "AHTS 2025": "8",
-          "AHTS 2024": "9.5"
+          "AHTS 2024": "11"
         },
         {
           "Date": "8",
-          "PSV 2025": "4",
-          "PSV 2024": "6",
+          "PSV 2025": "10",
+          "PSV 2024": "4",
           "AHTS 2025": "8",
-          "AHTS 2024": "9"
+          "AHTS 2024": "10"
         },
         {
           "Date": "9",
-          "PSV 2025": "2",
+          "PSV 2025": "6",
           "PSV 2024": "2",
           "AHTS 2025": "8",
-          "AHTS 2024": "9.5"
+          "AHTS 2024": "10"
         },
         {
           "Date": "10",
-          "PSV 2025": "5",
-          "PSV 2024": "2.5",
-          "AHTS 2025": "9",
-          "AHTS 2024": "10"
+          "PSV 2025": "3",
+          "PSV 2024": "5",
+          "AHTS 2025": "10",
+          "AHTS 2024": "9"
         },
         {
           "Date": "11",
           "PSV 2025": "5",
-          "PSV 2024": "2",
-          "AHTS 2025": "11.5",
-          "AHTS 2024": "10"
+          "PSV 2024": "4",
+          "AHTS 2025": "11",
+          "AHTS 2024": "12"
         },
         {
           "Date": "12",
-          "PSV 2025": "4",
-          "PSV 2024": "2.5",
-          "AHTS 2025": "9",
-          "AHTS 2024": "10.5"
+          "PSV 2025": "5",
+          "PSV 2024": "2",
+          "AHTS 2025": "10",
+          "AHTS 2024": "9"
         },
         {
           "Date": "13",
           "PSV 2025": "4",
-          "PSV 2024": "2.5",
-          "AHTS 2025": "8.5",
-          "AHTS 2024": "10"
+          "PSV 2024": "2",
+          "AHTS 2025": "9",
+          "AHTS 2024": "8"
         },
         {
           "Date": "14",
           "PSV 2025": "4",
-          "PSV 2024": "3",
-          "AHTS 2025": "8.5",
-          "AHTS 2024": "10"
+          "PSV 2024": "2",
+          "AHTS 2025": "9",
+          "AHTS 2024": "9"
         },
         {
           "Date": "15",
-          "PSV 2025": "4.5",
+          "PSV 2025": "4",
           "PSV 2024": "3",
           "AHTS 2025": "8",
-          "AHTS 2024": "10.5"
+          "AHTS 2024": "9"
         },
         {
           "Date": "16",
-          "PSV 2025": "5.5",
+          "PSV 2025": "6",
           "PSV 2024": "3",
-          "AHTS 2025": "8",
-          "AHTS 2024": "10.5"
+          "AHTS 2025": "9",
+          "AHTS 2024": "10"
         },
         {
           "Date": "17",
           "PSV 2025": "6",
-          "PSV 2024": "3.5",
-          "AHTS 2025": "8.5",
-          "AHTS 2024": "10"
+          "PSV 2024": "2",
+          "AHTS 2025": "8",
+          "AHTS 2024": "11"
         },
         {
           "Date": "18",
           "PSV 2025": "5",
-          "PSV 2024": "3.5",
-          "AHTS 2025": "8.5",
-          "AHTS 2024": "10"
+          "PSV 2024": "3",
+          "AHTS 2025": "8",
+          "AHTS 2024": "9"
         },
         {
           "Date": "19",
           "PSV 2025": "5",
           "PSV 2024": "4",
-          "AHTS 2025": "8.5",
+          "AHTS 2025": "8",
           "AHTS 2024": "10"
         },
         {
           "Date": "20",
-          "PSV 2025": "5",
+          "PSV 2025": "7",
           "PSV 2024": "4",
-          "AHTS 2025": "8.5",
-          "AHTS 2024": "10"
+          "AHTS 2025": "9",
+          "AHTS 2024": "11"
         },
         {
           "Date": "21",
-          "PSV 2025": "5.5",
-          "PSV 2024": "4.5",
+          "PSV 2025": "8",
+          "PSV 2024": "5",
           "AHTS 2025": "9",
-          "AHTS 2024": "10.5"
+          "AHTS 2024": "11"
         },
         {
           "Date": "22",
-          "PSV 2025": "7",
+          "PSV 2025": "10",
           "PSV 2024": "7",
           "AHTS 2025": "10",
           "AHTS 2024": "11"
         },
         {
           "Date": "23",
-          "PSV 2025": "7.5",
-          "PSV 2024": "7.5",
+          "PSV 2025": "9",
+          "PSV 2024": "8",
           "AHTS 2025": "10",
-          "AHTS 2024": "11.5"
+          "AHTS 2024": "11"
         },
         {
           "Date": "24",
           "PSV 2025": "7",
-          "PSV 2024": "8",
+          "PSV 2024": "7",
           "AHTS 2025": "11",
           "AHTS 2024": "16"
         },
         {
           "Date": "25",
-          "PSV 2025": "7",
-          "PSV 2024": "7.5",
+          "PSV 2025": "9",
+          "PSV 2024": "7",
           "AHTS 2025": "5",
-          "AHTS 2024": "12"
+          "AHTS 2024": "13"
         },
         {
           "Date": "26",
-          "PSV 2025": "8",
-          "PSV 2024": "7.5",
+          "PSV 2025": "9",
+          "PSV 2024": "8",
           "AHTS 2025": "8",
           "AHTS 2024": "12"
         },
         {
           "Date": "27",
-          "PSV 2025": "8.5",
-          "PSV 2024": "8",
-          "AHTS 2025": "7.5",
+          "PSV 2025": "10",
+          "PSV 2024": "9",
+          "AHTS 2025": "7",
           "AHTS 2024": "12"
         },
         {
@@ -379,9 +249,9 @@
         },
         {
           "Date": "29",
-          "PSV 2025": "10.5",
+          "PSV 2025": "11",
           "PSV 2024": "10",
-          "AHTS 2025": "6.5",
+          "AHTS 2025": "6",
           "AHTS 2024": "12"
         },
         {
@@ -391,7 +261,8 @@
           "AHTS 2025": "6",
           "AHTS 2024": "12"
         }
-      ]
+      ],
+      "value_source": "vector_chart_read"
     },
     {
       "title": "NORTH SEA AVERAGE RATES SEPTEMBER 2025",

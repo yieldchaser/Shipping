@@ -102,41 +102,44 @@ Overall, stagnation in demand has led to an increase in available vessels, and d
 
 130,000mt WAFR/UKC is similar to last at around WS104 levels.
 
-Aframax:
+# Aframax:
 
 While the Western regions, including the Mediterranean, saw a decline in freight rates due to sluggish demand, with 80,000mt Cross-Med falling some 36 points to WS104, the Eastern region saw firmer rates due to active chartering activities in Indonesia and Australia. MEG/SGP saw TCE rates close around USD42,900's a day.
 
-Clean:
+# Clean:
 
-LR: LR1 rates declined at the start of the week on the UKC/WAFR route, falling to WS260 due to a continued lack of demand. A similar trend was also seen in the LR2 MEG with TC1 falling by 28 points to WS144. MR: Active chartering activities were observed in Singapore/Australia, and with the strength of China-bound exports in the Far East, available vessels are being chartered relatively quickly, maintaining strength. On the side, UKC/USAC route saw rates fell to WS245 showing a persistent lack of demand in the region.
+LR: LR1 rates declined at the start of the week on the UKC/WAFR route, falling to WS260 due to a continued lack of demand. A similar trend was also seen in the LR2 MEG with TC1 falling by 28 points to WS144.
+
+MR: Active chartering activities were observed in Singapore/Australia, and with the strength of China-bound exports in the Far East, available vessels are being chartered relatively quickly, maintaining strength. On the side, UKC/USAC route saw rates fell to WS245 showing a persistent lack of demand in the region.
 
 ## Baltic Exchange Tanker Indices
 
-| INDICES | CURRENT | LAST WEEK |
-|---|---|---|
-| BDTI | 1,145 | 1,237 |
-| BCTI | 1,014 | 1,044 |
+| INDICES | CURRENT | LAST WEEK | LAST YEAR | W-O-W CHANGE | Y-O-Y CHANGE |
+| --- | --- | --- | --- | --- | --- |
+| BDTI | 1,145 | 1,237 | 1,483 | -7.44% | -22.79% |
+| BCTI | 1,014 | 1,044 | 789 | -2.87% | +28.52% |
 
-LAST YEAR W-O-W CHANGE 1,483 -7.44% 789 -2.87%
+# Tankers Values
 
-Y-O-Y CHANGE -22.79% +28.52%
+(Weekly Average)
 
-| TYPE | DWT | Tankers Values (Weekly Average) NB CONTRACT | Tankers Values (Weekly Average) NB PROMPT | 5 YEARS | 10 YEARS | 15 YEARS |
+| TYPE | DWT | NB CONTRACT | NB PROMPT DELIVERY | 5 YEARS | 10 YEARS | 15 YEARS |
 | --- | --- | --- | --- | --- | --- | --- |
-|  |  |  | DELIVERY |  |  |  |
 | VLCC | 310,000 | 128 | 141 | 111 | 84 | 58 |
 | SUEZMAX | 160,000 | 85 | 99 | 83 | 68 | 50 |
 | AFRAMAX | 115,000 | 73 | 83 | 72 | 60 | 41 |
 | LR1 | 73,000 | 58 | 63 | 53 | 43 | 30 |
 | MR | 51,000 | 48 | 53 | 45 | 38 | 26 |
-| *(amount in USD million) |  |  |  |  |  |  |
+| *(amount in USD million) | *(amount in USD million) | *(amount in USD million) | *(amount in USD million) | *(amount in USD million) | *(amount in USD million) | *(amount in USD million) |
+
+*(amount in USD million)
 
 ## Page 7
 
 ## Tanker 12 months T/C rates average (in USD/day)
 
-| TYPE | DWT | CURRENT | LAST WEEK | LAST YEAR W-O-W | CHANGE Y-O-Y | CHANGE |
-|---|---|---|---|---|---|---|
+| TYPE | DWT | CURRENT | LAST WEEK | LAST YEAR | W-O-W CHANGE | Y-O-Y CHANGE |
+| --- | --- | --- | --- | --- | --- | --- |
 | VLCC | 310,000 | 48,500 | 48,000 | 43,750 | +1.04% | +10.86% |
 | SUEZMAX | 150,000 | 42,000 | 42,000 | 36,250 | 0 | +15.86% |
 | AFRAMAX | 110,000 | 42,500 | 42,000 | 43,500 | +1.19% | -2.30% |
@@ -144,6 +147,17 @@ Y-O-Y CHANGE -22.79% +28.52%
 | MR | 47,000 | 30,000 | 30,000 | 29,500 | 0 | +1.69% |
 
 Tankers S&P Report
+
+| VESSEL NAME | TYPE | DWT | YEAR | BUILT | PRICE (MILLION) USD | COMMENTS / BUYERS |
+| --- | --- | --- | --- | --- | --- | --- |
+| ECO SEAS | VLCC | 299,998 | 2016 | S. KOREA | 98.0 | UNDISCLOSED |
+| RAPTOR | SUEZ | 159,395 | 2007 | JAPAN | 46.5 | CHINESE BUYERS |
+| GH PARKS | MR | 50,096 | 2009 | S. KOREA | 25.0 | UNDISCLOSED |
+| K SHIPBUILDING 1952 / KSHIPBUILDING 1953 | MR | 49,650 | 2025 | S. KOREA | 49.0 | EASTMED |
+
+Tanker 1 year T/C rates
+
+[SIGNATURE]
 
 ## Page 8
 
@@ -255,11 +269,33 @@ Activity in Turkey's scrap market remains stagnant, with subdued steel sales pre
 
 Overall, the market is facing downward pressure on scrap prices due to increased availability and weak demand, both domestically and internationally. Turkish shipbreaking scrap was at USD375-413/t delivered at closing.
 
----
+# BEACHING TIDE DATES 2024
 
----
+Chattogram, Bangladesh : 11 ~ 14 March | 25 ~ 28 March
 
-Sub-Continent and Turkey ferrous scrap markets insight
+Alang, India : 8 ~ 15 March | 26 ~ 30 March
+
+#### BUNKER PRICES (USD/TON)
+
+| PORTS | VLSFO (0.5%) | IFO380 CST | MGO (0.1%) |
+| --- | --- | --- | --- |
+| SINGAPORE | 641 | 450 | 796 |
+| HONG KONG | 639 | 464 | 805 |
+| FUJAIRAH | 635 | 435 | 888 |
+| ROTTERDAM | 583 | 459 | 779 |
+| HOUSTON | 633 | 464 | 845 |
+
+#### EXCHANGE RATES
+
+| CURRENCY | MARCH 1 | FEBRUARY 23 | W-O-W % CHANGE |
+| --- | --- | --- | --- |
+| USD / CNY (CHINA) | 7.19 | 7.19 | 0 |
+| USD / BDT (BANGLADESH) | 109.72 | 109.91 | +0.17% |
+| USD / INR (INDIA) | 82.84 | 82,93 | +0.11% |
+| USD / PKR (PAKISTAN) | 279.48 | 279.37 | -0.04% |
+| USD / TRY (TURKEY) | 31.35 | 31.09 | -0.84% |
+
+# Sub-Continent and Turkey ferrous scrap markets insight
 
 This week, the ferrous scrap market in South Asia experienced a decline in prices, with Indian buyers exercising caution and markets in Pakistan and Bangladesh showing more activity due to the demand surrounding Ramadan. Prices for shredded scrap fell by USD3-6/ton across the region, while US bulk HMS (80:20) offers to Turkey stayed the same.
 

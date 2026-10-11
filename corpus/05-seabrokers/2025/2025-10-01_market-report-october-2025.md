@@ -49,19 +49,7 @@ Renewable energy investments in the USA have declined by some 36% year-on-year t
 
 ## Offshore wind capacity installed by 2030
 *[Photo: Gigawatt (GW)]*
-| Region         | Percentage |
-| -------------- | ---------- |
-| China          | 48%        |
-| Europe         | 17%        |
-| UK             | 8%         |
-| Netherlands    | 5%         |
-| Taiwan (China) | 4%         |
-| Mainland China | 3%         |
-| Poland         | 3%         |
-| France         | 3%         |
-| USA            | 3%         |
-| Others         | 10%        |
-| Total          | \~197 GW   |
+> **Chart not transcribed.** The figure prints no values it can be matched to (the donut prints 49/17/8/6/4/3/3/10% and ~197 GW; the regions are flags only); the table the parser estimated from the image was removed. See the source PDF.
 
 Source: Rystad Energy OffshoreWindCube
 
@@ -71,29 +59,7 @@ While legal and political wranglings now appear commonplace for offshore wind de
 
 ## Global, annual offshore wind capacity additions
 *[Photo: Gigawatts (GW)]*
-| Year | RoW | Americas | Asia (ex. Mainland China) | Mainland China | Europe |
-| ---- | --- | -------- | ------------------------- | -------------- | ------ |
-| 2015 | 3   | 0        | 0                         | 1              | 0      |
-| 2016 | 2   | 0        | 0                         | 0              | 0      |
-| 2017 | 2   | 0        | 0                         | 1              | 0      |
-| 2018 | 3   | 0        | 0                         | 1              | 0      |
-| 2019 | 4   | 0        | 0                         | 2              | 0      |
-| 2020 | 4   | 0        | 0                         | 3              | 0      |
-| 2021 | 4   | 0        | 8                         | 7              | 0      |
-| 2022 | 5   | 0        | 4                         | 4              | 0      |
-| 2023 | 5   | 0        | 3                         | 4              | 0      |
-| 2024 | 6   | 0        | 2                         | 4              | 0      |
-| 2025 | 7   | 0        | 3                         | 5              | 1      |
-| 2026 | 8   | 1        | 4                         | 6              | 2      |
-| 2027 | 9   | 2        | 5                         | 7              | 2      |
-| 2028 | 10  | 2        | 6                         | 8              | 3      |
-| 2029 | 11  | 2        | 7                         | 9              | 4      |
-| 2030 | 12  | 3        | 8                         | 10             | 5      |
-| 2031 | 14  | 3        | 9                         | 12             | 6      |
-| 2032 | 16  | 4        | 10                        | 14             | 7      |
-| 2033 | 19  | 5        | 11                        | 17             | 8      |
-| 2034 | 23  | 7        | 12                        | 21             | 9      |
-| 2035 | 26  | 8        | 13                        | 25             | 10     |
+> **Chart not transcribed.** The figure prints no values; the table the parser estimated from the image was removed. See the source PDF.
 
 The Rystad report has further highlighted that there are limited opportunities for the market to create an alternative, renewables-driven supply chain to compete with China, with Western original equipment manufacturers (OEMs) "flocking back to the country's favourable business environment after fleeing in 2020."
 
@@ -185,39 +151,41 @@ Elsewhere, Solstad has secured a contract for the Normand Sapphire in the Medite
 
 ## OCTOBER 2025 - DAILY NORTH SEA OSV AVAILABILITY
 
+> **Read from the chart.** The report prints no numbers for this chart; each value is the chart line's node for that day, converted with the printed axis labels (vector geometry, not an eyeball estimate).
+
 | Date | PSV 2025 | PSV 2024 | AHTS 2025 | AHTS 2024 |
-| ---- | -------- | -------- | --------- | --------- |
-| 1    | 11       | 13       | 6         | 10        |
-| 2    | 11       | 12       | 17        | 9         |
-| 3    | 10       | 7        | 17        | 8         |
-| 4    | 9        | 8        | 16        | 9         |
-| 5    | 8        | 9        | 14        | 10        |
-| 6    | 6        | 10       | 13        | 11        |
-| 7    | 6        | 16       | 12        | 20        |
-| 8    | 7        | 12       | 11        | 20        |
-| 9    | 8        | 12       | 10        | 19        |
-| 10   | 9        | 12       | 9         | 18        |
-| 11   | 10       | 13       | 8         | 17        |
-| 12   | 11       | 14       | 8         | 16        |
-| 13   | 12       | 14       | 7         | 15        |
-| 14   | 11       | 14       | 6         | 14        |
-| 15   | 13       | 15       | 9         | 14        |
-| 16   | 13       | 14       | 12        | 14        |
-| 17   | 14       | 14       | 12        | 15        |
-| 18   | 15       | 13       | 11        | 16        |
-| 19   | 16       | 14       | 10        | 16        |
-| 20   | 17       | 14       | 9         | 16        |
-| 21   | 18       | 14       | 9         | 16        |
-| 22   | 18       | 15       | 10        | 16        |
-| 23   | 20       | 15       | 10        | 16        |
-| 24   | 21       | 14       | 9         | 16        |
-| 25   | 19       | 15       | 9         | 16        |
-| 26   | 17       | 15       | 10        | 17        |
-| 27   | 16       | 15       | 14        | 17        |
-| 28   | 16       | 14       | 9         | 16        |
-| 29   | 16       | 14       | 9         | 11        |
-| 30   | 17       | 14       | 10        | 10        |
-| 31   | 18       | 14       | 10        | 9         |
+| --- | --- | --- | --- | --- |
+| 1 | 11 | 13 | 6 | 10 |
+| 2 | 11 | 10 | 12 | 9 |
+| 3 | 10 | 7 | 17 | 9 |
+| 4 | 9 | 9 | 15 | 11 |
+| 5 | 7 | 11 | 14 | 13 |
+| 6 | 6 | 14 | 12 | 14 |
+| 7 | 6 | 16 | 11 | 16 |
+| 8 | 8 | 14 | 11 | 20 |
+| 9 | 9 | 12 | 10 | 20 |
+| 10 | 12 | 13 | 9 | 18 |
+| 11 | 12 | 13 | 8 | 18 |
+| 12 | 13 | 13 | 8 | 17 |
+| 13 | 13 | 14 | 7 | 15 |
+| 14 | 11 | 14 | 6 | 14 |
+| 15 | 14 | 15 | 9 | 14 |
+| 16 | 13 | 15 | 12 | 15 |
+| 17 | 14 | 15 | 12 | 15 |
+| 18 | 16 | 13 | 11 | 14 |
+| 19 | 17 | 13 | 10 | 15 |
+| 20 | 18 | 14 | 9 | 15 |
+| 21 | 19 | 15 | 9 | 16 |
+| 22 | 19 | 15 | 9 | 17 |
+| 23 | 19 | 17 | 10 | 15 |
+| 24 | 21 | 14 | 9 | 15 |
+| 25 | 19 | 15 | 11 | 17 |
+| 26 | 18 | 15 | 12 | 17 |
+| 27 | 16 | 15 | 14 | 17 |
+| 28 | 16 | 15 | 13 | 17 |
+| 29 | 16 | 13 | 9 | 10 |
+| 30 | 16 | 15 | 10 | 11 |
+| 31 | 18 | 14 | 10 | 9 |
 
 ## NORTH SEA AVERAGE RATES OCTOBER 2025
 

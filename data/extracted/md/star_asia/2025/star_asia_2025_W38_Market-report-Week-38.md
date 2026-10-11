@@ -86,25 +86,40 @@ Freight rates in the Middle East have surged to a new annual high, jumping over 
 
 ## Page 6
 
-Suezmax:
+# Suezmax:
 
 In West Africa, rates ended the week on a firm footing. Increased seasonal demand from European refineries and more cargo activity in the Atlantic have provided support. The market is further tightening as charterers look to Suezmaxes as an alternative to VLCCs. Nigeria/UKC ended the week at WS115.
 
-Aframax:
+# Aframax:
 
 Following the trend set by the bigger units, MEG rates have continued to rise. Strong market sentiment and a limited supply of ships pushed rates higher, as demand outpaced the availability of vessels. In the Mediterranean, 80,000mt Ceyhan/Lavera rose to close WS140.
 
-Clean:
+# Clean:
 
-**LR: In the LR2 MEG market, despite a slight shortage in vessel supply, weak demand**
+LR: In the LR2 MEG market, despite a slight shortage in vessel supply, weak demand continued as market participants held back. TC1 fell to WS140. Similar was also seen in the LR1s as rates continue to soften. At closing, TC5 fell to WS146.
 
-continued as market participants held back. TC1 fell to WS140. Similar was also seen in the LR1s as rates continue to soften. At closing, TC5 fell to WS146.
-
-**MR: In the Far East market, downward correction was seen due to reduced demand**
-
-similar was seen in the Middle East. MEG fell at closing, losing some 20 points to close at WS167.
+MR: In the Far East market, downward correction was seen due to reduced demand similar was seen in the Middle East. MEG fell at closing, losing some 20 points to close at WS167.
 
 ## Baltic Exchange Tanker Indices
+
+| INDICES | CURRENT | LAST WEEK | LAST YEAR | W-O-W CHANGE | Y-O-Y CHANGE |
+| --- | --- | --- | --- | --- | --- |
+| BDTI | 1,143 | 1,114 | 897 | +2.60% | +27.42% |
+| BCTI | 618 | 614 | 638 | +0.65% | -3.13% |
+
+# Tankers Values
+
+(Weekly)
+
+| TYPE | DWT | NB CONTRACT | NB PROMPT DELIVERY | 5 YEARS | 10 YEARS | 15 YEARS |
+| --- | --- | --- | --- | --- | --- | --- |
+| VLCC | 310,000 | 126 | 147 | 116 (E) | 85(E) | 51 |
+| SUEZMAX | 160,000 | 86 | 93 | 77 (E) | 61 (E) | 40 |
+| AFRAMAX | 115,000 | 75 | 75 | 64 (E) | 50 (E) | 35 |
+| LR1 | 73,000 | 60 | 62 | 51 (E) | 42 (E) | 25 |
+| MR | 51,000 | 49 | 52 | 41 (E) | 31 (E) | 21 |
+
+*(amount in USD million) | (E) – eco units
 
 ## Page 7
 
@@ -211,19 +226,39 @@ Bangladesh markets this week are seeing an environment where a severe shortage o
 
 ## Page 15
 
-Gadani
+Anchorage & Beaching Position (SEPTEMBER 2025)
 
-This week was another slow one, with only a handful of recyclers left out of the market attempting to tempt tonnage by offering a small premium to begin their HKC process. However, with Bangladesh re-entering the fray, competition has intensified and securing a vessel has become increasingly challenging. On the domestic side, markets remained subdued, with demand staying weak and local activity limited.
+| VESSEL NAME | TYPE | LDT | ARRIVAL | BEACHING |
+| --- | --- | --- | --- | --- |
+| DK 03 | BULKER | 7,809 | 04.08.2025 | ARRESTED |
+| CRYSTAL | TANKER | 7,052 | 17.09.2025 | AWAITING |
+| RADE | LNG | 29,940 | 12.09.2025 | AWAITING |
 
-Aliaga, Turkey
+# Gadani
 
-Another week of muted activity in the Turkish recycling market. Conditions remain unchanged from last with import prices declining slightly. The Lira closed this week 41.36 to the USD.
+This week was another slow one, with only a handful of recyclers left out of the market attempting to tempt tonnage by offering a small premium to begin their HKC process. However, with Bangladesh re-entering the fray, competition has intensified and securing a vessel has become increasingly challenging.
 
----
+On the domestic side, markets remained subdued, with demand staying weak and local activity limited.
 
-Chattogram, Bangladesh : 20 ~ 23 September | 7 ~ 10 October Alang, India : 19 ~ 27 September | 5 ~ 14 October
+Anchorage & Beaching Position (SEPTEMBER 2025)
 
----
+| VESSEL NAME | TYPE | LDT | ARRIVAL | BEACHING |
+| --- | --- | --- | --- | --- |
+| FORTUNE OCEAN | GENERAL CARGO | 2,261 | 12.08.2025 | AWAITING |
+
+# Aliaga, Turkey
+
+Another week of muted activity in the Turkish recycling market.
+
+Conditions remain unchanged from last with import prices declining slightly. The Lira closed this week 41.36 to the USD.
+
+# BEACHING TIDE DATES 2025
+
+Chattogram, Bangladesh : 20 ~ 23 September | 7 ~ 10 October
+
+Alang, India
+
+: 19 ~ 27 September | 5 ~ 14 October
 
 ## Page 16
 

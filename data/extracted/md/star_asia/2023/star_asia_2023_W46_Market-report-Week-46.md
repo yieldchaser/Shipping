@@ -254,9 +254,37 @@ As the festive week unfolds in Alang, markets are currently in a temporary break
 
 ## Page 13
 
-Chattogram, Bangladesh
+Anchorage & Beaching Position (November 2023)
 
-Bangladesh experiences yet another subdued week in its recycling sector, struggling with persistent challenges stemming from weakened demand and foreign exchange issues. Bangladesh is dealing with significant pressure on key macroeconomic indicators as its foreign exchange reserves continue to deplete. Simultaneously, the impending national election has heightened tensions in the political environment. Ships sold in the past are making their way to the Chattogram anchorage, but the waiting period has become a significant hurdle lately due to delays in obtaining the needed LCs followed by payments.
+| VESSEL NAME | TYPE | LDT | ARRIVAL | BEACHING |
+| --- | --- | --- | --- | --- |
+| QUALITY | LIVESTOCK CARRIER | 3,700 | 18.11.2023 | AWAITING |
+| SAGNA | TANKER | 2,065 | 11.11.2023 | AWAITING |
+| MSC CHIARA | CONTAINER | 14,305 | 17.11.2023 | 18.11.2023 |
+| YUAN | GENERAL CARGO | 3,331 | 10.11.2023 | 17.11.2023 |
+| ONE DESTINY | BULKER | 7,698 | 07.11.2023 | 13.11.2023 |
+| GREAT | BULKER | 9,759 | 08.11.2023 | 12.11.2023 |
+| MAS MULIA | PIPE LAY BARGE | 5,601 | 08.11.2023 | 12.11.2023 |
+| ANGEL A | GENERAL CARGO | 1,391 | 08.11.2023 | 11.11.2023 |
+
+# Chattogram, Bangladesh
+
+Bangladesh experiences yet another subdued week in its recycling sector, struggling with persistent challenges stemming from weakened demand and foreign exchange issues.
+
+Bangladesh is dealing with significant pressure on key macroeconomic indicators as its foreign exchange reserves continue to deplete. Simultaneously, the impending national election has heightened tensions in the political environment.
+
+Ships sold in the past are making their way to the Chattogram anchorage, but the waiting period has become a significant hurdle lately due to delays in obtaining the needed LCs followed by payments.
+
+Anchorage & Beaching Position (November 2023)
+
+| VESSEL NAME | TYPE | LDT | ARRIVAL | BEACHING |
+| --- | --- | --- | --- | --- |
+| JIN YUAN XING | BULKER | 11,900 | 17.11.2023 | AWAITING |
+| LOGGERHEAD | TANKER | 1,088 | 11.11.2023 | AWAITING |
+| SIGHTER | PCTC | 11,238 | 06.11.2023 | 15.11.2023 |
+| YANGO | CONTAINER | 5,866 | 08.11.2023 | 14.11.2023 |
+| KOKURYU MARU | RORO | 2,473 | 05.11.2023 | 14.11.2023 |
+| VENTURA | TANKER | 16,810 | 27.10.2023 | 03.11.2023 |
 
 ## Page 14
 
@@ -276,29 +304,30 @@ Turkish domestic scrap prices are on an upward trajectory this week, driven by r
 
 ## Page 15
 
-the dollar. Diverging domestic market trends are observed, with slower demand in some regions contrasted by moderate activity in southern Turkey, where reconstruction efforts post-earthquake progress. Turkish shipbreaking scrap prices have risen to US$370-372/t delivered, reflecting a weekly increase from US$360/ton.
+the dollar. Diverging domestic market trends are observed, with slower demand in some regions contrasted by moderate activity in southern Turkey, where reconstruction efforts post-earthquake progress.
 
----
+Turkish shipbreaking scrap prices have risen to US$370–372/t delivered, reflecting a weekly increase from US$360/ton.
 
-Chattogram, Bangladesh : 25 ~ 28 November | 12 ~ 15 December Alang, India : 25 November ~ 2 December | 11 ~ 19 December
+# BEACHING TIDE DATES 2023
 
----
+Chattogram, Bangladesh : 25 ~ 28 November | 12 ~ 15 December
 
-BUNKER PRICES (USD/TON)
+Alang, India : 25 November ~ 2 December | 11 ~ 19 December
 
-PORTS VLSFO (0.5%) IFO380 CST MGO (0.1%)
+#### BUNKER PRICES (USD/TON)
 
+| PORTS | VLSFO (0.5%) | IFO380 CST | MGO (0.1%) |
+| --- | --- | --- | --- |
 | SINGAPORE | 683 | 464 | 806 |
-|---|---|---|---|
 | HONG KONG | 678 | 491 | 790 |
 | FUJAIRAH | 667 | 444 | 924 |
 | ROTTERDAM | 586 | 484 | 811 |
 | HOUSTON | 574 | 484 | 837 |
 
-EXCHANGE RATES
+#### EXCHANGE RATES
 
 | CURRENCY | 17th NOVEMBER | 10th NOVEMBER | W-O-W % CHANGE |
-|---|---|---|---|
+| --- | --- | --- | --- |
 | USD / CNY (CHINA) | 7.23 | 7.27 | +0.55% |
 | USD / BDT (BANGLADESH) | 110.75 | 110.23 | -0.47% |
 | USD / INR (INDIA) | 83.26 | 83.32 | +0.07% |

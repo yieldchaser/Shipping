@@ -93,46 +93,39 @@ VLCC market across both basins saw a dip in the latter half of the week. 270,000
 
 ## Page 6
 
-Suezmax:
+# Suezmax:
 
 The Suezmax sector fell this week, after owners came under pressure with vessel oversupply. New cargoes have absorbed much of the available tonnage leading to a discount on the rates. 130,000mt Nigeria/UKC fell to WS89.
 
-Aframax:
+# Aframax:
 
 Similar to the bigger counterparts, Aframax market saw weak demand across the routes with the 80,000mt x-med Ceyhan/Lavera slipping some 20 points to WS155.
 
-Clean:
+# Clean:
 
-**LR: LR2 in the MEG closed the week lower, as chartering activity remains muted. TC1 fell to**
+LR: LR2 in the MEG closed the week lower, as chartering activity remains muted. TC1 fell to WS110 at closing as the rate floor end week. Meanwhile, LR1 on the UKC remained stable as TC5 kept close to WS130..
 
-WS110 at closing as the rate floor end week. Meanwhile, LR1 on the UKC remained stable as TC5 kept close to WS130..
-
-**MR: The Far East MR market ended with falling rates as available vessel supply increased**
-
-amid persistently weak demand. In the MEG, rates saw a slight improvement as trips to East Africa improved to WS213.
+MR: The Far East MR market ended with falling rates as available vessel supply increased amid persistently weak demand. In the MEG, rates saw a slight improvement as trips to East Africa improved to WS213.
 
 # Baltic Exchange Tanker Indices
 
-| INDICES | CURRENT | LAST WEEK |
-|---|---|---|
-| BDTI | 995 | 1,085 |
-| BCTI | 573 | 606 |
+| INDICES | CURRENT | LAST WEEK | LAST YEAR | W-O-W CHANGE | Y-O-Y CHANGE |
+| --- | --- | --- | --- | --- | --- |
+| BDTI | 995 | 1,085 | 1,155 | -8.29% | -13.85% |
+| BCTI | 573 | 606 | 996 | -5.45% | -42.47% |
 
-LAST YEAR W-O-W CHANGE 1,155 -8.29% 996 -5.45%
+# Tankers Values
 
-Y-O-Y
+*(Weekly)*
 
-CHANGE -13.85% -42.47%
-
-| TYPE |  | DWT | NB CONTRACT | Tankers Values (Weekly) NB CONTRACT | Tankers Values (Weekly) NB PROMPT | 5 YEARS | 10 YEARS | 10 YEARS | 15 YEARS |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-|  |  |  |  |  | DELIVERY |  |  |  |  |
-| VLCC |  | 310,000 |  | 125 | 144 | 112 (E) | 80 | (E) | 51 |
-| SUEZMAX |  | 160,000 |  | 87 | 93 | 77 (E) | 62 | (E) | 40 |
-| AFRAMAX |  | 115,000 |  | 72 | 75 | 63 (E) | 50 | (E) | 35 |
-| LR1 |  | 73,000 |  | 59 | 60 | 50 (E) | 40 | (E) | 25 |
-| MR |  | 51,000 |  | 49 | 50 | 41 (E) | 31 | (E) | 21 |
-| *(amount in USD million) | \ |  | (E) - eco units |  |  |  |  |  |  |
+| TYPE | DWT | NB CONTRACT | NB PROMPT DELIVERY | 5 YEARS | 10 YEARS | 15 YEARS |
+| --- | --- | --- | --- | --- | --- | --- |
+| VLCC | 310,000 | 125 | 144 | 112 (E) | 80 (E) | 51 |
+| SUEZMAX | 160,000 | 87 | 93 | 77 (E) | 62 (E) | 40 |
+| AFRAMAX | 115,000 | 72 | 75 | 63 (E) | 50 (E) | 35 |
+| LR1 | 73,000 | 59 | 60 | 50 (E) | 40 (E) | 25 |
+| MR | 51,000 | 49 | 50 | 41 (E) | 31 (E) | 21 |
+| *(amount in USD million) / (E) – eco units | *(amount in USD million) / (E) – eco units | *(amount in USD million) / (E) – eco units | *(amount in USD million) / (E) – eco units | *(amount in USD million) / (E) – eco units | *(amount in USD million) / (E) – eco units | *(amount in USD million) / (E) – eco units |
 
 ## Page 7
 
@@ -251,7 +244,27 @@ Anchorage & Beaching Position (May 2025)
 
 ## Page 16
 
-Sub-Continent and Turkey ferrous scrap markets insights
+#### BUNKER PRICES (USD/ton)
+
+| PORTS | VLSFO (0.5%) | HSFO (3.5%) | MGO (0.1%) |
+| --- | --- | --- | --- |
+| SINGAPORE | 490 | 413 | 586 |
+| HONG KONG | 511 | 450 | 612 |
+| FUJAIRAH | 482 | 425 | 720 |
+| ROTTERDAM | 430 | 414 | 596 |
+| HOUSTON | 450 | 398 | 613 |
+
+#### EXCHANGE RATES
+
+| CURRENCY | May 9 | May 2 | W-O-W % CHANGE |
+| --- | --- | --- | --- |
+| USD / CNY (CHINA) | 7.24 | 7.27 | +0.41% |
+| USD / BDT (BANGLADESH) | 121.52 | 121.51 | -0.01% |
+| USD / INR (INDIA) | 85.37 | 84.64 | -0.86% |
+| USD / PKR (PAKISTAN) | 281.54 | 281.12 | -0.15% |
+| USD / TRY (TURKEY) | 38.75 | 38.52 | -0.60% |
+
+# Sub-Continent and Turkey ferrous scrap markets insights
 
 ## India
 

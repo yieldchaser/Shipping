@@ -108,11 +108,42 @@ The Aframax market maintained a slightly bearish trend throughout the week due t
 
 ## Page 6
 
-Clean:
+# Clean:
 
-LR: The Middle East market had been on a downward trend since early August. However, this week saw an increase in activity in the region. LR2 saw a slight climb this week with TC1 closing at WS126. In the LR1 segment, similar sentiment was also noted with TC5 improving this week to WS149. MR: The Far East market closed with a slightly bearish tone, lacking significant fixtures. Few MR cargoes shifted to LR2 vessels for backhaul voyages leading to the decline. On the UKC, TC2 saw improvements this week compared to last with MRs in the region climbing 15 points to WS135. Overall, a mixed week for this size.
+LR: The Middle East market had been on a downward trend since early August. However, this week saw an increase in activity in the region. LR2 saw a slight climb this week with TC1 closing at WS126. In the LR1 segment, similar sentiment was also noted with TC5 improving this week to WS149.
+
+MR: The Far East market closed with a slightly bearish tone, lacking significant fixtures. Few MR cargoes shifted to LR2 vessels for backhaul voyages leading to the decline. On the UKC, TC2 saw improvements this week compared to last with MRs in the region climbing 15 points to WS135. Overall, a mixed week for this size.
 
 ## Baltic Exchange Tanker Indices
+
+| INDICES | CURRENT | LAST WEEK | LAST YEAR | W-O-W CHANGE | Y-O-Y CHANGE |
+| --- | --- | --- | --- | --- | --- |
+| BDTI | 883 | 870 | 733 | +1.49% | +20.46% |
+| BCTI | 618 | 585 | 852 | +5.64% | -27.46% |
+
+Tankers Values
+
+(Weekly)
+
+| TYPE | DWT | NB CONTRACT | NB PROMPT DELIVERY | 5 YEARS | 10 YEARS | 15 YEARS |
+| --- | --- | --- | --- | --- | --- | --- |
+| VLCC | 310,000 | 129 | 146 | 116 | 86 | 58 |
+| SUEZMAX | 160,000 | 90 | 99 | 83 | 68 | 50 |
+| AFRAMAX | 115,000 | 75 | 86 | 72 | 62 | 44 |
+| LRI | 73,000 | 62 | 68 | 58 | 48 | 32 |
+| MR | 51,000 | 52 | 53 | 50 | 41 | 28 |
+
+*(amount in USD million)
+
+Tanker 12 months T/C rates average (in USD/day)
+
+| TYPE | DWT | CURRENT | LAST WEEK | LAST YEAR | W-O-W CHANGE | Y-O-Y CHANGE |
+| --- | --- | --- | --- | --- | --- | --- |
+| VLCC | 310,000 | 44,000 | 44,000 | 43,500 | 0 | +1.15% |
+| SUEZMAX | 150,000 | 40,250 | 40,250 | 38,750 | 0 | +3.87% |
+| AFRAMAX | 110,000 | 37,500 | 37,500 | 38,500 | 0 | -2.60% |
+| LRI | 74,000 | 35,000 | 35,000 | 28,750 | 0 | +21.74% |
+| MR | 47,000 | 26,500 | 26,500 | 25,500 | 0 | +3.92% |
 
 ## Page 7
 
@@ -132,9 +163,26 @@ LR: The Middle East market had been on a downward trend since early August. Howe
 
 ## Containers
 
-The container shipping market experienced another turbulent week as freight rates continued their downward spiral. The SCFI fell sharply, dropping 8% from the previous week to reach 2,511 points. This decline marks a significant 33% decrease from the recent peak in July and pushes the index to its lowest level since early May. Leading the downturn was the crucial Shanghai-North Europe route, which saw an even steeper decline. Rates on this key trade lane plummeted by 18% w-o-w, settling at US$2,841 per TEU.
+The container shipping market experienced another turbulent week as freight rates continued their downward spiral. The SCFI fell sharply, dropping 8% from the previous week to reach 2,511 points. This decline marks a significant 33% decrease from the recent peak in July and pushes the index to its lowest level since early May.
+
+Leading the downturn was the crucial Shanghai-North Europe route, which saw an even steeper decline. Rates on this key trade lane plummeted by 18% w-o-w, settling at US$2,841 per TEU.
 
 ## Containers S&P Report
+
+| VESSEL NAME | TYPE | TEU | YEAR | BUILT | PRICE (MILLION) USD | COMMENTS / BUYERS |
+| --- | --- | --- | --- | --- | --- | --- |
+| BUXFAVOURITE | SUB PMAX | 2,456 | 1997 | S. KOREA | 10.0 | CHINESE BUYERS |
+| SFT CHINA / SFT SAUDI / SFT TURKEY / SFT EGYPT | PMAX | 4,389 ~ 3,963 | 2001 ~ 2003 | S. KOREA | N/A | MSC |
+
+Containers Values
+
+| CONTAINERS (BY TEU) | GEARED / GEARLESS | NB CONTRACT | NB PROMPT DELIVERY | 5 YEARS | 10 YEARS | 15 YEARS |
+| --- | --- | --- | --- | --- | --- | --- |
+| 900 – 1,200 | Geared | 24 | 24 | 17 | 14 | 8 |
+| 1,600 – 1,850 | Geared | 30 | 33 | 25 | 19 | 15 |
+| 2,700 – 2,900 | Gearless | 41 | 43 | 34 | 27 | 23 |
+| 5,100 | Gearless | 81 | 77 | 66 | 35 | 32 |
+| *(amount in USD million) | *(amount in USD million) | *(amount in USD million) | *(amount in USD million) | *(amount in USD million) | *(amount in USD million) | *(amount in USD million) |
 
 ## Page 9
 

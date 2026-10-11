@@ -90,15 +90,34 @@ The Suez market saw a poor start to the year with many routes across recording l
 
 ## Page 6
 
-Aframax:
+# Aframax:
 
 The Aframax market experienced a challenging start to the year. Some weak conditions were observed in the Caribbean regions, accompanied by softness in European markets. However, rates managed to push the end week in the USG as 70,000mt USG/UKC, climbing to WS129.
 
-Clean:
+# Clean:
 
 MR market saw mixed performance this week, with rates declining from USG and Mediterranean routes. TC14 USG/UKC fell some 34-point closing at WS98. The LR1 and LR2 sectors also saw softening amidst limited activity. However, LR segment strengthened with improved post-holiday activity on the MEG-Japan route. TC1 climbed 14 points to WS132.
 
 ## Baltic Exchange Tanker Indices
+
+| INDICES | CURRENT | LAST WEEK | LAST YEAR | W-O-W CHANGE | Y-O-Y CHANGE |
+| --- | --- | --- | --- | --- | --- |
+| BDTI | 799 | 927 | 1,328 | -13.81% | -39.83% |
+| BCTI | 606 | 625 | 829 | -3.04% | -26.90% |
+
+# Tankers Values
+
+(Weekly)
+
+| TYPE | DWT | NB CONTRACT | NB PROMPT DELIVERY | 5 YEARS | 10 YEARS | 15 YEARS |
+| --- | --- | --- | --- | --- | --- | --- |
+| VLCC | 310,000 | 128 | 143 | 114 | 84 | 56 |
+| SUEZMAX | 160,000 | 89 | 97 | 82 | 66 | 49 |
+| AFRAMAX | 115,000 | 74 | 85 | 71 | 60 | 43 |
+| LR1 | 73,000 | 61 | 67 | 57 | 47 | 31 |
+| MR | 51,000 | 51 | 52 | 49 | 40 | 27 |
+
+*(amount in USD million)
 
 ## Page 7
 
@@ -221,19 +240,31 @@ Anchorage & Beaching Position (JANUARY 2025)
 
 ## Page 17
 
-Gadani, Pakistan
+# Gadani, Pakistan
 
 Extremely quiet week in the Pakistani markets with no new record of activity. Levels remain stagnant from the end of the year, and the new year has yet to spark any new sales.
 
 On the economy front, the State Bank of Pakistan reported on Thursday that its foreign exchange reserves decreased by US$15 million to US$11.69 billion, marking the third consecutive week of decline. The country's total foreign exchange reserves stood at US$16.3 billion, with commercial banks holding US$4.6 billion of this amount.
 
-The Turkish scrap market has resumed activity after the year-end break, but with a notably cautious approach from Turkish mills. The overall market sentiment has weakened considerably at the start of the new year, influenced by unfavorable news from China and declining ASEAN and Chinese billet prices. Turkish mills are facing challenges in both domestic and export steel markets, leading to reduced rebar offers and billet prices. This situation, combined with the euro's recent volatility and concerns about material quality from certain regions, has created a complex trading environment where mills are increasingly resistant to higher scrap prices, with some suggesting levels should fall below US$330/tonne cfr.
+Anchorage & Beaching Position (JANUARY 2025)
 
----
+| VESSEL NAME | TYPE | LDT | ARRIVAL | BEACHING |
+| --- | --- | --- | --- | --- |
+| - | - | - | - | - |
 
-Chattogram, Bangladesh : 15 ~ 18 January | 30 January ~ 02 February Alang, India : 11 ~ 18 January | 28 ~ 31 January
+# Aliaga, Turkey
 
----
+The Turkish scrap market has resumed activity after the year-end break, but with a notably cautious approach from Turkish mills. The overall market sentiment has weakened considerably at the start of the new year, influenced by unfavorable news from China and declining ASEAN and Chinese billet prices.
+
+Turkish mills are facing challenges in both domestic and export steel markets, leading to reduced rebar offers and billet prices. This situation, combined with the euro's recent volatility and concerns about material quality from certain regions, has created a complex trading environment where mills are increasingly resistant to higher scrap prices, with some suggesting levels should fall below US\$330/tonne cfr.
+
+# BEACHING TIDE DATES 2025
+
+Chattogram, Bangladesh : 15 ~ 18 January | 30 January ~ 02 February
+
+Alang, India
+
+: 11 ~ 18 January | 28 ~ 31 January
 
 ## Page 18
 

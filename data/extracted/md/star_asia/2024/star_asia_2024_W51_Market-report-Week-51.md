@@ -38,53 +38,42 @@ In the Atlantic, T/A routes maintain their momentum, buoyed by consistent cargo 
 
 ## Page 3
 
-Handysize:
+# Handysize:
 
 While cargo inflow from the USG has shown slight improvement, overall market sentiment remains weak with continued sluggish cargo movement. Pacific, on the other hand, maintained its downward trajectory with limited cargo activity. Heavy rainfall in Indonesia saw Inter Pacific record rates at US$7,600's a day.
 
-INDICES CURRENT
+Baltic Exchange Dry Bulk Indices
 
-BDI BCI BPI BSI BHSI
-
-TYPE CAPE
-
-KAMSARMAX SUPRAMAX HANDY
-
-*\*(amount in USD million)*
-
-DWT 180,000 82,000 56,000 38,000
-
-VESSEL NAME FEG SUCCESS ZAMPA BLUE JPS BARCELONA GLOBAL SAIKAI AKDENIZ-M
-
-| Baltic | Exchange Dry Bulk | Indices |  |
-|---|---|---|---|
-| LAST WEEK | LAST YEAR | W-O-W CHANGE | Y-O-Y CHANGE |
-| 1,051 | 2,087 | -5.80% | -52.56% |
-| 1,263 | 3,361 | -11.72% | -66.83% |
-| 995 | 1,915 | -1.91% | -49.03% |
-| 959 | 1,378 | -1.98% | -31.79% |
-| 618 | 888 | -6.31% | -34.80% |
+| INDICES | CURRENT | LAST WEEK | LAST YEAR | W-O-W CHANGE | Y-O-Y CHANGE |
+| --- | --- | --- | --- | --- | --- |
+| BDI | 990 | 1,051 | 2,087 | -5.80% | -52.56% |
+| BCI | 1,115 | 1,263 | 3,361 | -11.72% | -66.83% |
+| BPI | 976 | 995 | 1,915 | -1.91% | -49.03% |
+| BSI | 940 | 959 | 1,378 | -1.98% | -31.79% |
+| BHSI | 579 | 618 | 888 | -6.31% | -34.80% |
 
 Dry Bulk Values
 
 (Weekly)
 
-| NB CONTRACT | NB PROMPT DELIVERY | 5 YEARS | 10 YEARS | 15 YEARS |
-|---|---|---|---|---|
-| 74 | 75 | 62 | 44 | 27 |
-| 36 | 42 | 36 | 27 | 17 |
-| 33 | 39 | 34 | 25 | 15 |
-| 29 | 33 | 27 | 20 | 12 |
+| TYPE | DWT | NB CONTRACT | NB PROMPT DELIVERY | 5 YEARS | 10 YEARS | 15 YEARS |
+| --- | --- | --- | --- | --- | --- | --- |
+| CAPE | 180,000 | 74 | 75 | 62 | 44 | 27 |
+| KAMSARMAX | 82,000 | 36 | 42 | 36 | 27 | 17 |
+| SUPRAMAX | 56,000 | 33 | 39 | 34 | 25 | 15 |
+| HANDY | 38,000 | 29 | 33 | 27 | 20 | 12 |
 
-Dry Bulk - S&P Report
+Dry Bulk – S&P Report
 
-| TYPE | DWT | YEAR | BUILT | PRICE (MILLION) USD | COMMENTS / BUYERS |
-|---|---|---|---|---|---|
-| CAPE | 182,619 | 2010 | JAPAN | 28.2 | KOREA LINE CORP |
-| CAPE | 178,459 | 2011 | JAPAN | 30.0 | UNDISCLOSED |
-| SMAX | 55,548 | 2010 | VIETNAM | 12.0 | UNDISCLOSED |
-| SMAX | 51,828 | 2007 | JAPAN | 12.0 | UNDISCLOSED |
-| HANDY | 32,178 | 2002 | JAPAN | 6.5 | VIETNAMESE BUYERS |
+*(amount in USD million)
+
+| VESSEL NAME | TYPE | DWT | YEAR | BUILT | PRICE (MILLION) USD | COMMENTS / BUYERS |
+| --- | --- | --- | --- | --- | --- | --- |
+| FEG SUCCESS | CAPE | 182,619 | 2010 | JAPAN | 28.2 | KOREA LINE CORP |
+| ZAMPA BLUE | CAPE | 178,459 | 2011 | JAPAN | 30.0 | UNDISCLOSED |
+| JPS BARCELONA | SMAX | 55,548 | 2010 | VIETNAM | 12.0 | UNDISCLOSED |
+| GLOBAL SAIKAI | SMAX | 51,828 | 2007 | JAPAN | 12.0 | UNDISCLOSED |
+| AKDENIZ-M | HANDY | 32,178 | 2002 | JAPAN | 6.5 | VIETNAMESE BUYERS |
 
 ## Page 4
 
@@ -106,15 +95,36 @@ The West African market closed with a 6-point decline as charterers delayed thei
 
 140,000mt to the Mediterranean close at WS90.
 
-Aframax:
+# Aframax:
 
 Despite some new cargo entries, the Middle East market finished weaker due to accumulated vessel availability and negative pressure from larger vessels. In the Mediterranean, 80,000mt Ceyhan/Lavera improved 8 points to WS152. The market is expected to remain soft in the near term.
 
-Clean:
+# Clean:
 
-LR: LR2 in the Middle East showed an uptick early in the week, supported by fixtures for the remaining December cargoes. However, momentum slowed by mid-week as chartering activity eased. In LR1, TC16 ARA/West Africa remains at WS129. MR: MR in the Far East showed resilience, with private fixtures lessening vessel availability and supporting freight rates. MEG also remained positive this week. TC17 MEG/East Africa climbed some 9 points to WS210.
+LR: LR2 in the Middle East showed an uptick early in the week, supported by fixtures for the remaining December cargoes. However, momentum slowed by mid-week as chartering activity eased. In LR1, TC16 ARA/West Africa remains at WS129.
+
+MR: MR in the Far East showed resilience, with private fixtures lessening vessel availability and supporting freight rates. MEG also remained positive this week. TC17 MEG/East Africa climbed some 9 points to WS210.
 
 ## Baltic Exchange Tanker Indices
+
+| INDICES | CURRENT | LAST WEEK | LAST YEAR | W-O-W CHANGE | Y-O-Y CHANGE |
+| --- | --- | --- | --- | --- | --- |
+| BDTI | 914 | 929 | 1,197 | -1.61% | -23.64% |
+| BCTI | 627 | 661 | 963 | -5.14% | -34.89% |
+
+# Tankers Values
+
+(Weekly)
+
+| TYPE | DWT | NB CONTRACT | NB PROMPT DELIVERY | 5 YEARS | 10 YEARS | 15 YEARS |
+| --- | --- | --- | --- | --- | --- | --- |
+| VLCC | 310,000 | 128 | 143 | 114 | 84 | 56 |
+| SUEZMAX | 160,000 | 89 | 97 | 82 | 66 | 49 |
+| AFRAMAX | 115,000 | 74 | 85 | 71 | 60 | 43 |
+| LRI | 73,000 | 61 | 67 | 57 | 47 | 31 |
+| MR | 51,000 | 51 | 52 | 49 | 40 | 27 |
+
+*(amount in USD million)
 
 ## Page 7
 
@@ -131,9 +141,28 @@ LR: LR2 in the Middle East showed an uptick early in the week, supported by fixt
 
 ## Containers
 
-Global shipping rates, particularly on the SCFI, have seen significant increases driven primarily by the upcoming GRI implementation in mid-December and a surge in pre- Lunar New Year cargo volumes from Asia to North America. The global freight market demonstrated varying trends this week, with the SCFI index showing a modest uptick to 2,390 points despite softening rates on the Far East-Europe route, where Shanghai-North Europe westbound rates declined 1% to US$2,946/TEU. Transpacific eastbound trade showed more strength, with Shanghai-US West Coast rates increasing 4% to US$4,198/FEU. U.S. retailers are proactively securing inventory for the year-end consumer season, with fourth-quarter volumes projected to increase by approximately 11% compared to the previous year. This increase is largely attributed to concerns over potential ILA strikes and possible tariff increases in January 2025. Looking ahead, market observers anticipate shifts in supply chain stability as Trump's potential presidency approaches, particularly regarding labour relations and tariff policies.
+Global shipping rates, particularly on the SCFI, have seen significant increases driven primarily by the upcoming GRI implementation in mid-December and a surge in pre-Lunar New Year cargo volumes from Asia to North America. The global freight market demonstrated varying trends this week, with the SCFI index showing a modest uptick to 2,390 points despite softening rates on the Far East–Europe route, where Shanghai-North Europe westbound rates declined 1% to US$2,946/TEU.
+
+Transpacific eastbound trade showed more strength, with Shanghai-US West Coast rates increasing 4% to US$4,198/FEU.
+
+U.S. retailers are proactively securing inventory for the year-end consumer season, with fourth-quarter volumes projected to increase by approximately 11% compared to the previous year. This increase is largely attributed to concerns over potential ILA strikes and possible tariff increases in January 2025. Looking ahead, market observers anticipate shifts in supply chain stability as Trump's potential presidency approaches, particularly regarding labour relations and tariff policies.
 
 ## Containers S&P Report
+
+| VESSEL NAME | TYPE | TEU | YEAR | BUILT | PRICE (MILLION) USD | COMMENTS / BUYERS |
+| --- | --- | --- | --- | --- | --- | --- |
+| GABRIELA A | SUB PMAX | 2,702 | 2005 | GERMANY | 19.3 | CHINESE BUYERS |
+| HELENA SCHEPERS / KATHRINA SCHEPERS | FEEDER | 1,036 | 2012 | CHINA | N/A | UNDISCLOSED |
+
+Containers Values
+
+| CONTAINERS (BY TEU) | GEARED / GEARLESS | NB CONTRACT | NB PROMPT DELIVERY | 5 YEARS | 10 YEARS | 15 YEARS |
+| --- | --- | --- | --- | --- | --- | --- |
+| 900 – 1,200 | Geared | 24 | 24 | 17 | 14 | 8 |
+| 1,600 – 1,850 | Geared | 30 | 33 | 25 | 19 | 15 |
+| 2,700 – 2,900 | Gearless | 41 | 43 | 34 | 27 | 23 |
+| 5,100 | Gearless | 81 | 77 | 66 | 35 | 32 |
+| *(amount in USD million) | *(amount in USD million) | *(amount in USD million) | *(amount in USD million) | *(amount in USD million) | *(amount in USD million) | *(amount in USD million) |
 
 ## Page 9
 
@@ -293,11 +322,23 @@ In Turkey, imported scrap prices weakened amid bid-offer disparities. EU/Benelux
 
 ## Page 20
 
+Iron ore markets experienced a notable downturn at closing, reflecting growing concerns about Chinese demand and shifting expectations around U.S. monetary policy. The decline was evident across major trading venues, with China's Dalian Commodity Exchange (DCE) seeing its most actively traded May iron ore contract fall 1.08% to 778.5 yuan (US$106.66) per metric ton, touching its lowest level since November 22. Similarly, the benchmark January contract on the Singapore Exchange declined 0.43% to US$102.25 per ton.
+
+Navigate Commodities provides insight into this correction, noting it was largely anticipated following what he describes as a "sentiment-driven bubble" around China's Central Economic Work Conference. The lack of concrete stimulus measures until March 2025 has contributed to market uncertainty. Adding to these pressures, the industry is experiencing what analysts call "a perfect storm" of shifting fundamentals, with BHP resuming operations at its South Flank mine in Western Australia while Chinese mills appear to be reducing production.
+
+This situation, combined with the Federal Reserve's more conservative outlook for rate cuts in 2024, has created broader pressure across the commodities sector. The impact is visible in related markets, with steelmaking materials showing widespread declines in DCE - coking coal fell 3.65% and coke dropped 0.9%. The Shanghai Futures Exchange similarly reflected this downward trend across most steel benchmarks, with notable decreases in rebar, hot-rolled coil, and stainless-steel futures.
+
 ### Iron Ore
 
-| COMMODITY (USD/MT) | GRADE |
-| --- | --- |
-| Iron Ore Fines, CNF Rizhao, China | Fines, Fe 62% (Aust. Origin) 102 -4.67% -23.88% 107 134 Iron Ore Fines, CNF Qingdao, China Fines, Fe 62.5% (Brazil Origin) 105 -3.66% -22.79% 109 136 INDEX UNITS PRICE CHANGE %CHANGE CONTRACT |
+| COMMODITY | SIZE / GRADE | THIS WEEK USD / MT | W-O-W | Y-O-Y | LAST WEEK USD / MT | LAST YEAR USD / MT |
+| --- | --- | --- | --- | --- | --- | --- |
+| Iron Ore Fines, CNF Rizhao, China | Fines, Fe 62% (Aust. Origin) | 102 | -4.67% | -23.88% | 107 | 134 |
+| Iron Ore Fines, CNF Qingdao, China | Fines, Fe 62.5% (Brazil Origin) | 105 | -3.66% | -22.79% | 109 | 136 |
+
+Industrial Metal Rates
+
+| INDEX | UNITS | PRICE | CHANGE | %CHANGE | CONTRACT |
+| --- | --- | --- | --- | --- | --- |
 
 ## Page 21
 

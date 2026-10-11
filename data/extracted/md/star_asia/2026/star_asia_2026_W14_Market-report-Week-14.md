@@ -256,38 +256,37 @@ Turkey's ship recycling market remained largely stable this week, with limited m
 
 European vessels. Overall, sentiment remains cautious, and any near-term upside is expected to be limited despite firmer steel fundamentals.
 
----
+BEACHING TIDE DATES 2026
 
-Chattogram, Bangladesh : 1 ~ 4 April | 17 ~ 20 April Alang, India : 1 ~ 7 April | 16 ~ 23 April
+Chattogram, Bangladesh : 1 ~ 4 April | 17 ~ 20 April
 
----
+Alang, India : 1 ~ 7 April | 16 ~ 23 April
 
-BUNKER PRICES (USD/ton)
+#### BUNKER PRICES (USD/ton)
 
-PORTS VLSFO (0.5%) HSFO (3.5%) MGO (0.1%)
-
+| PORTS | VLSFO (0.5%) | HSFO (3.5%) | MGO (0.1%) |
+| --- | --- | --- | --- |
 | SINGAPORE | 871 | 706 | 1837 |
-|---|---|---|---|
 | HONG KONG | 901 | 764 | 1620 |
 | FUJAIRAH | 816 | 714 | 1685 |
 | ROTTERDAM | 718 | 670 | 1341 |
 | HOUSTON | 849 | 700 | 1334 |
 
-CURRENCY USD / CNY (CHINA) USD / BDT (BANGLADESH) USD / INR (INDIA) USD / PKR (PAKISTAN) USD / TRY (TURKEY)
+#### EXCHANGE RATES
+
+| CURRENCY | April 2 | March 27 | W-O-W % CHANGE |
+| --- | --- | --- | --- |
+| USD / CNY (CHINA) | 6.88 | 6.90 | +0.29% |
+| USD / BDT (BANGLADESH) | 122.71 | 122.76 | +0.04% |
+| USD / INR (INDIA) | 92.97 | 94.71 | +1.84% |
+| USD / PKR (PAKISTAN) | 279.12 | 279.3 | +0.06% |
+| USD / TRY (TURKEY) | 44.47 | 44.43 | -0.09% |
 
 Sub-Continent and Turkey ferrous scrap markets insights
 
-India The Indian market for imported scrap remains in a state of high tension, with offers continuing to climb even as buyers maintain a defensive posture. Australia-origin HMS is currently being quoted between US$365/ton and US$370/ton CFR Chennai, while shredded scrap from the same region has moved into the US$380-US$385/ton range. For those targeting the Western ports of Mundra and Nhava Sheva, UK-origin HMS is indicated at US$385-US$390/ton. Market participants have observed that sellers are increasingly unwilling to entertain bids at the previous US$370/t mark, pushing firm offers toward US$388/ton. This has resulted in a substantial bid-offer gap of US$22-US$25/ton for shredded material and US$15-US$16/ton for HMS.
+# India
 
-EXCHANGE RATES
-
-| April 2 | March 27 | W-O-W % CHANGE |
-|---|---|---|
-| 6.88 | 6.90 | +0.29% |
-| 122.71 | 122.76 | +0.04% |
-| 92.97 | 94.71 | +1.84% |
-| 279.12 | 279.3 | +0.06% |
-| 44.47 | 44.43 | -0.09% |
+The Indian market for imported scrap remains in a state of high tension, with offers continuing to climb even as buyers maintain a defensive posture. Australia-origin HMS is currently being quoted between US$365/ton and US$370/ton CFR Chennai, while shredded scrap from the same region has moved into the US$380–US$385/ton range. For those targeting the Western ports of Mundra and Nhava Sheva, UK-origin HMS is indicated at US$385–US$390/ton. Market participants have observed that sellers are increasingly unwilling to entertain bids at the previous US$370/t mark, pushing firm offers toward US$388/ton. This has resulted in a substantial bid-offer gap of US$22–US$25/ton for shredded material and US$15–US$16/ton for HMS.
 
 ## Page 19
 

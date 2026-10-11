@@ -97,15 +97,36 @@ The West Africa Suezmax market fell end of week, closing with a drop of 8 points
 
 volume from European refiners. In the Middle East, markets eased back slightly with 140,000mt to the Meds slipped to WS102.
 
-Aframax:
+# Aframax:
 
 The Aframax market in the Middle East saw a slight increase in freight rates, underpinned by expanding demand for fuel oil and the steady flow of cargo for shorter-haul routes. In the Mediterranean, positive headways were seen too to as 80,000mt Ceyhan/Lavera jumped to WS203.
 
-Clean:
+# Clean:
 
-LR: The Middle East LR2 market improved this week with TC1 climbing 17points to WS121. The issue involving Chinese port fees levied on US-related vessels provided a sort of defense against sharper declines. In the LR1, the positive sentiments were shared with TC5 MEG/Japan closing higher at WS129. MR: Given the current stagnation in demand, MEG market continues to be a slow, lackluster performance this week with TC17 MEG/E.Africa falling some 20 points to WS204. In the USG, rates saw a mixed week with rates coming off after climbing high. TC14 USG/UKC settled on Friday at WS201.
+LR: The Middle East LR2 market improved this week with TC1 climbing 17 points to WS121. The issue involving Chinese port fees levied on US-related vessels provided a sort of defense against sharper declines. In the LR1, the positive sentiments were shared with TC5 MEG/Japan closing higher at WS129.
+
+MR: Given the current stagnation in demand, MEG market continues to be a slow, lackluster performance this week with TC17 MEG/E.Africa falling some 20 points to WS204. In the USG, rates saw a mixed week with rates coming off after climbing high. TC14 USG/UKC settled on Friday at WS201.
 
 ## Baltic Exchange Tanker Indices
+
+| INDICES | CURRENT | LAST WEEK | LAST YEAR | W-O-W CHANGE | Y-O-Y CHANGE |
+| --- | --- | --- | --- | --- | --- |
+| BDTI | 1,234 | 1,207 | 1,041 | +2.24% | +18.54% |
+| BCTI | 642 | 551 | 558 | +16.52% | +15.05% |
+
+# Tankers Values
+
+(Weekly)
+
+| TYPE | DWT | NB CONTRACT | NB PROMPT DELIVERY | 5 YEARS | 10 YEARS | 15 YEARS |
+| --- | --- | --- | --- | --- | --- | --- |
+| VLCC | 310,000 | 126 | 147 | 116 (E) | 85(E) | 51 |
+| SUEZMAX | 160,000 | 86 | 93 | 77 (E) | 61 (E) | 40 |
+| AFRAMAX | 115,000 | 75 | 75 | 64 (E) | 50 (E) | 35 |
+| LRI | 73,000 | 60 | 62 | 51 (E) | 42 (E) | 25 |
+| MR | 51,000 | 49 | 52 | 41 (E) | 31 (E) | 21 |
+
+*(amount in USD million) | (E) – eco units
 
 ## Page 7
 
@@ -223,43 +244,70 @@ Bangladesh buyers are cautious as interest remains high despite economic challen
 
 shrinking yard space. The market now looks to political clarity and a new government to stabilize economic direction amid rising inflation.
 
-Gadani
+Anchorage & Beaching Position (October 2025)
 
-The Pakistan market faces stagnation this week, as vessel prices continue to decline, a trend whose full impact is expected to become more noticeable in the coming weeks. Demand for new tonnages is low, with only a small number of active buyers having the financial capability to make purchases at present. Coupled with continuously sluggish local steel demand, this development is keeping the pressure on the prices offered by recyclers. Despite the outlook, a few sales have been successfully concluded, but the lack of sustained momentum keeps market sentiments on the wary side.
+| VESSEL NAME | TYPE | LDT | ARRIVAL | BEACHING |
+| --- | --- | --- | --- | --- |
+| S OAK | CONTAINER | 2,261 | 20.10.2025 | AWATING |
+| SIO | BULKER | 6,722 | 19.10.2025 | 19.10.2025 |
+| NIGATA TRADER | CONTAINER | 4,809 | 09.10.2025 | 09.10.2025 |
+| ASIAN ENTERPRISE | GENERAL CARGO | 9,016 | 05.10.2025 | 05.10.2025 |
 
-Aliaga, Turkey
+# Gadani
 
-The Turkish ship recycling market saw a modest but notable strengthening this week, marking a positive shift after a relatively quiet period. This improvement is evidenced by a slight increase in local scrap prices, which have risen by about US$3 per ton.
+The Pakistan market faces stagnation this week, as vessel prices continue to decline, a trend whose full impact is expected to become more noticeable in the coming weeks. Demand for new tonnages is low, with only a small number of active buyers having the financial capability to make purchases at present.
+
+Coupled with continuously sluggish local steel demand, this development is keeping the pressure on the prices offered by recyclers. Despite the outlook, a few sales have been successfully concluded, but the lack of sustained momentum keeps market sentiments on the wary side.
+
+Anchorage & Beaching Position (October 2025)
+
+| VESSEL NAME | TYPE | LDT | ARRIVAL | BEACHING |
+| --- | --- | --- | --- | --- |
+| ADALYNN | TANKER | 22,000 | 12.10.2025 | AWAITING |
+| AL SAMA | BULKER | 9,484 | 12.10.2025 | AWAITING |
+| EENA 1 | GENERAL CARGO | 1,444 | 27.09.2025 | AWAITING |
+
+# Aliaga, Turkey
+
+The Turkish ship recycling market saw a modest but notable strengthening this week, marking a positive shift after a relatively quiet period.
+
+This improvement is evidenced by a slight increase in local scrap prices, which have risen by about US\$3 per ton.
 
 ## Page 15
 
-Chattogram, Bangladesh : 20 ~ 23 October | 4 ~ 7 November Alang, India : 20 ~ 26 October | 4 ~ 11 November
+# BEACHING TIDE DATES 2025
 
----
+Chattogram, Bangladesh : 20 ~ 23 October | 4 ~ 7 November
 
-BUNKER PRICES (USD/ton)
+Alang, India : 20 ~ 26 October | 4 ~ 11 November
+
+#### BUNKER PRICES (USD/ton)
 
 | PORTS | VLSFO (0.5%) | HSFO (3.5%) | MGO (0.1%) |
-|---|---|---|---|
+| --- | --- | --- | --- |
 | SINGAPORE | 443 | 378 | 654 |
 | HONG KONG | 469 | 405 | 648 |
 | FUJAIRAH | 432 | 375 | 725 |
 | ROTTERDAM | 412 | 395 | 620 |
 | HOUSTON | 410 | 385 | 620 |
 
-EXCHANGE RATES
+#### EXCHANGE RATES
 
 | CURRENCY | October 24 | October 17 | W-O-W % CHANGE |
-|---|---|---|---|
+| --- | --- | --- | --- |
 | USD / CNY (CHINA) | 7.12 | 7.12 | 0 |
 | USD / BDT (BANGLADESH) | 122.29 | 121.80 | -0.40% |
 | USD / INR (INDIA) | 87.79 | 88.01 | +0.25% |
 | USD / PKR (PAKISTAN) | 283.0 | 282.60 | -0.14% |
 | USD / TRY (TURKEY) | 41.9 | 41.89 | -0.02% |
 
-Sub-Continent and Turkey ferrous scrap markets insights
+# Sub-Continent and Turkey ferrous scrap markets insights
 
-India Despite the long Diwali holidays and consequently weak trading activity, imported scrap prices in India saw a marginal increase compared to the previous week's closing figures. Offers for shredded scrap were recorded between US$354-$356/ton CFR Mundra and Nhava Sheva, while HMS 80:20 stood at US$323-$326/ton. Market engagement remained minimal, as most key buyers and mills were still away, leading to a noticeable scarcity of inquiries. Traders are operating with the expectation that demand will begin to recover and market movement will resume once operations return to normal later in the current week.
+# India
+
+Despite the long Diwali holidays and consequently weak trading activity, imported scrap prices in India saw a marginal increase compared to the previous week's closing figures. Offers for shredded scrap were recorded between US$354-$356/ton CFR Mundra and Nhava Sheva, while HMS 80:20 stood at US$323-$326/ton. Market engagement remained minimal, as most key buyers and mills were still away, leading to a noticeable scarcity of inquiries.
+
+Traders are operating with the expectation that demand will begin to recover and market movement will resume once operations return to normal later in the current week.
 
 ## Page 16
 

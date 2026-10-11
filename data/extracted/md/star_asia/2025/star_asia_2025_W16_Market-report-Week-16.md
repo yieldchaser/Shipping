@@ -260,24 +260,28 @@ The Turkish scrap market remains at a standstill as steel mills adopt a cautious
 
 ## Page 16
 
-Chattogram, Bangladesh : 26 ~ 30 April | 11 ~17 May Alang, India : 26 April ~ 3 May | 10 ~14 May
+# BEACHING TIDE DATES 2025
 
----
+Chattogram, Bangladesh : 26 ~ 30 April | 11 ~ 17 May
 
-BUNKER PRICES (USD/ton)
+Alang, India
+
+: 26 April ~ 3 May | 10 ~14 May
+
+#### BUNKER PRICES (USD/ton)
 
 | PORTS | VLSFO (0.5%) | HSFO (3.5%) | MGO (0.1%) |
-|---|---|---|---|
+| --- | --- | --- | --- |
 | SINGAPORE | 480 | 414 | 582 |
 | HONG KONG | 509 | 450 | 623 |
 | FUJAIRAH | 472 | 420 | 720 |
 | ROTTERDAM | 434 | 399 | 599 |
 | HOUSTON | 462 | 407 | 625 |
 
-EXCHANGE RATES
+#### EXCHANGE RATES
 
 | CURRENCY | April 18 | April 11 | W-O-W % CHANGE |
-|---|---|---|---|
+| --- | --- | --- | --- |
 | USD / CNY (CHINA) | 7.29 | 7.30 | +0.14% |
 | USD / BDT (BANGLADESH) | 121.80 | 121.49 | -0.26% |
 | USD / INR (INDIA) | 85.43 | 86.03 | +0.70% |

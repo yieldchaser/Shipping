@@ -390,7 +390,7 @@ The shipbuilding activity bounced back last week. A plethora of newbuilding orde
 # Intermodal Demolition Market
 ## Indicative Demolition Prices ($/ldt)
 
-| Markets | Markets | 10/06/2022 | 03/06/2022 | ±% | 2021 | 2020 |
+| Markets | 10/06/2022 | 03/06/2022 | ±% | 2021 | 2020 | 2019 |
 | --- | --- | --- | --- | --- | --- | --- |
 | Tanker |  |  |  |  |  |  |
 | Bangladesh | 620 | 610 | 1.6% | 542 | 348 | 410 |

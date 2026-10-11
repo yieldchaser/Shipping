@@ -62,13 +62,20 @@ The global dry bulk sector experienced a notable downturn as the Baltic Exchange
 
 ## Tankers
 
-The crude oil market is on track to record its most significant weekly growth since October, driven by geopolitical tensions and heightened military activity. During the final full week of 2025, both major global benchmarks saw a substantial rise, with Brent crude and WTI each climbing by more than US$2 per barrel. Brent crude was valued at US$62.41 per barrel, while WTI has reached US$58.54 per barrel. A significant portion of this price increase follows reports of a U.S. military operation in Nigeria. While officials have clarified that this strike occurred outside of Nigeria's primary oil-producing areas, the news nonetheless added upward pressure to energy prices. In South America, the situation in Venezuela continues to tighten the global oil landscape as the U.S. intensifies its efforts to restrict the country's exports. A partial blockade on tanker traffic is currently in effect, and the U.S. Coast Guard is actively pursuing a massive crude carrier known as the Bella 1. This vessel, which was heading to Venezuela to collect a shipment of oil, was identified as traveling without a valid national flag. Furthermore, the ship's owner has been sanctioned due to alleged connections with the Iranian government. Authorities are awaiting additional support to intercept and take control of the tanker. Despite these enforcement efforts, recent data suggests that Venezuelan oil is still finding its way into the market. Reports indicate that at least six sanctioned tankers have successfully loaded crude from the country since the middle of December. Industry analysts have noted that these various disruptions on the supply side are currently the main force pushing prices higher.
+The crude oil market is on track to record its most significant weekly growth since October, driven by geopolitical tensions and heightened military activity. During the final full week of 2025, both major global benchmarks saw a substantial rise, with Brent crude and WTI each climbing by more than US$2 per barrel. Brent crude was valued at US$62.41 per barrel, while WTI has reached US$58.54 per barrel.
+
+A significant portion of this price increase follows reports of a U.S. military operation in Nigeria. While officials have clarified that this strike occurred outside of Nigeria’s primary oil-producing areas, the news nonetheless added upward pressure to energy prices.
+
+In South America, the situation in Venezuela continues to tighten the global oil landscape as the U.S. intensifies its efforts to restrict the country's exports. A partial blockade on tanker traffic is currently in effect, and the U.S. Coast Guard is actively pursuing a massive crude carrier known as the Bella 1. This vessel, which was heading to Venezuela to collect a shipment of oil, was identified as traveling without a valid national flag. Furthermore, the ship's owner has been sanctioned due to alleged connections with the Iranian government. Authorities are awaiting additional support to intercept and take control of the tanker.
+
+Despite these enforcement efforts, recent data suggests that Venezuelan oil is still finding its way into the market. Reports indicate that at least six sanctioned tankers have successfully loaded crude from the country since the middle of December. Industry analysts have noted that these various disruptions on the supply side are currently the main force pushing prices higher.
 
 ## Baltic Exchange Tanker Indices
 
-LAST YEAR W-O-W CHANGE 927 -5.85% 625 +0.80%
-
-Y-O-Y CHANGE +42.29% +21.12%
+| INDICES | CURRENT | LAST WEEK | LAST YEAR | W-O-W CHANGE | Y-O-Y CHANGE |
+| --- | --- | --- | --- | --- | --- |
+| BDTI | 1,319 | 1,401 | 927 | -5.85% | +42.29% |
+| BCTI | 757 | 751 | 625 | +0.80% | +21.12% |
 
 ## Page 5
 
@@ -247,16 +254,21 @@ On the Dalian Commodity Exchange, the most-traded iron ore contract for May deli
 
 ## Page 17
 
+Despite regional policy support, the broader industry faces significant headwinds due to a visible contraction in global steel output. Recent data indicates that global crude steel production fell by 4.6% y-o-y in November, with China specifically experiencing a sharp 10.9% decline to 69.9 million tons. This reduction in output is further combined by a wary approach from domestic steelmakers, who have reportedly slowed their purchases of raw materials to meet only their immediate production needs, avoiding potential inventory losses.
+
+The industrial outlook in other major producing nations also remains subdued. Japan, for instance, anticipates a 1.7% dip in crude steel output during the first quarter of 2026, driven by softening demand in its construction and manufacturing sectors. Projections suggest that the country's annual output could reach its lowest point since the late 1960s. While finished steel products like stainless steel and wire rod managed to edge higher on the Shanghai Futures Exchange, the overall market remains sensitive to the balance between government-led stimulus and the reality of slowing industrial consumption.
+
 ### Iron Ore
 
-| COMMODITY (USD/MT) | GRADE |
-| --- | --- |
-| Iron Ore Fines, CNF Rizhao, China | Fines, Fe 62% (Aust. Origin) 108 0% +6.93% 108 101 Iron Ore Fines, CNF Qingdao, China Fines, Fe 62.5% (Brazil Origin) 105 0% +1.94% 105 103 INDEX UNITS PRICE CHANGE %CHANGE CONTRACT Copper (Comex) USD / lb. 557.60 -26.35 -4.51% Mar 2026 3Mo Copper (L.M.E.) USD / MT 12,162.50 +102.00 +0.85% N/A 3Mo Aluminum (L.M.E.) USD / MT 2,960.50 +21.50 +0.73% N/A 3Mo Zinc (L.M.E.) USD / MT 3,090.50 -3.00 -0.10% N/A 3Mo Tin (L.M.E.) USD / MT 42,815.00 +23.00 +0.05% N/A |
+| COMMODITY | SIZE / GRADE | THIS WEEK USD / MT | W-O-W | Y-O-Y | LAST WEEK USD / MT | LAST YEAR USD / MT |
+| --- | --- | --- | --- | --- | --- | --- |
+| Iron Ore Fines, CNF Rizhao, China | Fines, Fe 62% (Aust. Origin) | 108 | 0% | +6.93% | 108 | 101 |
+| Iron Ore Fines, CNF Qingdao, China | Fines, Fe 62.5% (Brazil Origin) | 105 | 0% | +1.94% | 105 | 103 |
 
 ### Industrial Metal Rates
 
-| INDEX | UNITS | PRICE | CHANGE | % CHANGE | CONTRACT |
-| :--- | :--- | :---: | :---: | :---: | :---: |
+| INDEX | UNITS | PRICE | CHANGE | %CHANGE | CONTRACT |
+| --- | --- | --- | --- | --- | --- |
 | Copper (Comex) | USD / lb. | 557.60 | -26.35 | -4.51% | Mar 2026 |
 | 3Mo Copper (L.M.E.) | USD / MT | 12,162.50 | +102.00 | +0.85% | N/A |
 | 3Mo Aluminum (L.M.E.) | USD / MT | 2,960.50 | +21.50 | +0.73% | N/A |

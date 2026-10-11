@@ -263,38 +263,39 @@ Turkiye has maintained a steady week, with the anticipated downward pressure fro
 
 ## Page 16
 
-Turkish-owned vessel was recently granted passage after visiting an Iranian port, fourteen others-including six cruise ships carrying passengers-remain stranded. For the recyclers in Aliaga, this regional volatility has yet to trigger a shift in local scrap values, but the combination suggests that a re-evaluation of market activity may be inevitable as the situation develops in the coming week.
+Turkish-owned vessel was recently granted passage after visiting an Iranian port, fourteen others—including six cruise ships carrying passengers—remain stranded. For the recyclers in Aliaga, this regional volatility has yet to trigger a shift in local scrap values, but the combination suggests that a re-evaluation of market activity may be inevitable as the situation develops in the coming week.
 
----
+# BEACHING TIDE DATES 2026
 
-Chattogram, Bangladesh : 19 ~ 22 March | 1 ~ 4 April Alang, India : 18 ~ 24 March | 1 ~ 7 April
+Chattogram, Bangladesh : 19 ~ 22 March | 1 ~ 4 April
 
----
+Alang, India : 18 ~ 24 March | 1 ~ 7 April
 
-BUNKER PRICES (USD/ton)
+#### BUNKER PRICES (USD/ton)
 
-PORTS VLSFO (0.5%) HSFO (3.5%) MGO (0.1%)
-
+| PORTS | VLSFO (0.5%) | HSFO (3.5%) | MGO (0.1%) |
+| --- | --- | --- | --- |
 | SINGAPORE | 1067 | 845 | 1726 |
-|---|---|---|---|
 | HONG KONG | 1101 | 951 | 1499 |
 | FUJAIRAH | 1036 | 844 | 1558 |
 | ROTTERDAM | 745 | 700 | 1145 |
 | HOUSTON | 721 | 581 | 1158 |
 
-EXCHANGE RATES
+#### EXCHANGE RATES
 
 | CURRENCY | March 13 | March 6 | W-O-W % CHANGE |
-|---|---|---|---|
+| --- | --- | --- | --- |
 | USD / CNY (CHINA) | 6.89 | 6.89 | 0 |
 | USD / BDT (BANGLADESH) | 122.72 | 122.3 | -0.34% |
 | USD / INR (INDIA) | 92.54 | 91.82 | -0.78% |
 | USD / PKR (PAKISTAN) | 279.22 | 279.36 | +0.05% |
 | USD / TRY (TURKEY) | 44.19 | 44.00 | -0.43% |
 
-Sub-Continent and Turkey ferrous scrap markets insights
+# Sub-Continent and Turkey ferrous scrap markets insights
 
-India The Indian imported scrap market remained largely stable on a day-to-day basis, though an underlying expectation of price appreciation persists as geopolitical risks intensify. Current indications for HMS 80:20 sit between US$360/t and US$365/t CFR Chennai, with HMS 1 quoted slightly higher at US$375/t. Premium grades like shredded scrap are holding near US$385/t, while PNS (Plate and Structural) remains the highestvalued category at US$395/t. Despite these firm offers, Indian buyers are proceeding with
+# India
+
+The Indian imported scrap market remained largely stable on a day-to-day basis, though an underlying expectation of price appreciation persists as geopolitical risks intensify. Current indications for HMS 80:20 sit between US$360/t and US$365/t CFR Chennai, with HMS 1 quoted slightly higher at US$375/t. Premium grades like shredded scrap are holding near US$385/t, while PNS (Plate and Structural) remains the highest-valued category at US$395/t. Despite these firm offers, Indian buyers are proceeding with
 
 ## Page 17
 
@@ -312,16 +313,21 @@ Aluminium has seen prices surge by as much as 3.8% to US$3,315 per ton following
 
 ## Page 19
 
+regulations and a move toward renewable energy. This regulatory oversight led to significant production scale-backs, such as the 7% output cut in Shanxi province where operations at 54 mines were halted. In the United States, federal efforts are being made to stabilise the sector, including US$175 million in funding to modernize existing power plants. As global markets balance these immediate supply threats against long-term environmental goals, the duration of current logistical bottlenecks will likely be the deciding factor for commodity pricing through the middle of the decade.
+
+On the other hand, disruptions to shipping in the Strait of Hormuz are threatening sulphur supplies critical to global metal refining. Indonesia, which produces over half of the world's nickel, imports roughly 75% of its sulphur from the Middle East. The material is used to produce sulphuric acid for high-pressure acid leaching (HPAL) in nickel processing. With stockpiles at Indonesian plants covering only one to two months of consumption, prolonged disruption could force production cuts. Sulphur prices, already near $500 per ton, have risen another 10–15%. The shortage may also affect copper producers in Africa, particularly in Democratic Republic of the Congo.
+
 ### Iron Ore
 
-| COMMODITY (USD/MT) | GRADE |
-| --- | --- |
-| Iron Ore Fines, CNF Rizhao, China | Fines, Fe 62% (Aust. Origin) 105 +5% +2.94% 100 102 Iron Ore Fines, CNF Qingdao, China Fines, Fe 62.5% (Brazil Origin) 105 +5% +1.94% 100 103 INDEX UNITS PRICE CHANGE %CHANGE CONTRACT Copper (Comex) USD / lb. 568.85 -17.95 -3.06% MAY 2026 3Mo Copper (L.M.E.) USD / MT 12,999.50 -42.50 -0.33% N/A 3Mo Aluminum (L.M.E.) USD / MT 3,516.50 +59.50 +1.72% N/A 3Mo Zinc (L.M.E.) USD / MT 3,301.50 -7.50 -0.23% N/A 3Mo Tin (L.M.E.) USD / MT 49,388.00 -259.00 -0.52% N/A |
+| COMMODITY | SIZE / GRADE | THIS WEEK USD / MT | W-O-W | Y-O-Y | LAST WEEK USD / MT | LAST YEAR USD / MT |
+| --- | --- | --- | --- | --- | --- | --- |
+| Iron Ore Fines, CNF Rizhao, China | Fines, Fe 62% (Aust. Origin) | 105 | +5% | +2.94% | 100 | 102 |
+| Iron Ore Fines, CNF Qingdao, China | Fines, Fe 62.5% (Brazil Origin) | 105 | +5% | +1.94% | 100 | 103 |
 
 ### Industrial Metal Rates
 
-| INDEX | UNITS | PRICE | CHANGE | % CHANGE | CONTRACT |
-| :--- | :--- | :---: | :---: | :---: | :---: |
+| INDEX | UNITS | PRICE | CHANGE | %CHANGE | CONTRACT |
+| --- | --- | --- | --- | --- | --- |
 | Copper (Comex) | USD / lb. | 568.85 | -17.95 | -3.06% | MAY 2026 |
 | 3Mo Copper (L.M.E.) | USD / MT | 12,999.50 | -42.50 | -0.33% | N/A |
 | 3Mo Aluminum (L.M.E.) | USD / MT | 3,516.50 | +59.50 | +1.72% | N/A |

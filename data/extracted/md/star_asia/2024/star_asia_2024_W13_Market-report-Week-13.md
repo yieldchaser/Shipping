@@ -129,6 +129,33 @@ Tankers Values
 
 ## Page 7
 
+# (amount in USD million)
+
+Tanker 12 months T/C rates average (in USD/day)
+
+| TYPE | DWT | CURRENT | LAST WEEK | LAST YEAR | W-O-W CHANGE | Y-O-Y CHANGE |
+| --- | --- | --- | --- | --- | --- | --- |
+| VLCC | 310,000 | 48,500 | 48,500 | 47,500 | 0 | +2.11% |
+| SUEZMAX | 150,000 | 42,250 | 42,500 | 44,250 | -0.59% | -4.52% |
+| AFRAMAX | 110,000 | 42,500 | 42,500 | 50,000 | 0 | -15.00% |
+| LR1 | 74,000 | 36,150 | 36,500 | 35,500 | -0.96% | +1.83% |
+| MR | 47,000 | 29,750 | 29,750 | 31,250 | 0 | -4.80% |
+
+Tankers S&P Report
+
+| VESSEL NAME | TYPE | DWT | YEAR | BUILT | PRICE (MILLION) USD | COMMENTS / BUYERS |
+| --- | --- | --- | --- | --- | --- | --- |
+| NOBLE / NEWTON / NECTAR | VLCC | 307,284 | 2008 | CHINA | 165.0 EN BLOC | SINOKOR |
+| NEW TIMES 0311541 / NEW TIMES 0311542 / NEW TIMES 0311543 | LR2 | 115,000 | 2024 | CHINA | 230.0 EN BLOC | SFL CORPORATION |
+| ALPINE AQUALINA | AFRA | 105,304 | 2011 | S. KOREA | 45.5 | UNDISCLOSED |
+| HANSA BERGEN | MR | 51,218 | 2007 | S. KOREA | 22.0 | UNDISCLOSED |
+| STI ROCHER / STI LARVOTTO | MR | 49,990 | 2013 | S. KOREA | 72.4 EN BLOC | GULF ENERGY MARITIME |
+| GLENDA MELODY | MR | 47,238 | 2011 | S. KOREA | 27.5 | UNDISCLOSED |
+
+Tanker 1 year T/C rates
+
+VLCC Suezmax Aframax MR
+
 ## Page 8
 
 # Containers
@@ -224,27 +251,75 @@ The Bangladeshi recycling industry has received a notable boost from the domesti
 
 ## Page 14
 
-Gadani, Pakistan
+Anchorage & Beaching Position (March 2024)
 
-Pakistan's domestic ship scrap market witnessed a halt in its recent price surge, with recyclers exercising increased caution in their buying activities amid declining imported ferrous scrap rates. Highlighting the week's activities is the sale of a Panamax vessel, the Toro Bianco, built in Japan in 1995; this bulker, weighing 9,269 tons, fetched a robust gross price of USD 541/ton levels. This transaction is poised to establish a benchmark for similar bulk carriers in the weeks ahead, or it is a one-off speculative deal to be seen post-Ramadan when the markets traditionally pick up. In general, the sentiments were stable and demand intact.
+| VESSEL NAME | TYPE | LDT | ARRIVAL | BEACHING |
+| --- | --- | --- | --- | --- |
+| FAR EAST CHEER | CONTAINER | 3,651 | 25.03.2024 | AWAITING |
+| ISL STAR | BULKER | 10,177 | 24.03.2024 | 27.03.2024 |
+| XIN XIANG RUI | BULKER | 5,119 | 10.03.2024 | 24.03.2024 |
+| EZ FORTUNA | BULKER | 7,371 | 07.03.2024 | 18.03.2024 |
+| LMS LAXAPANA | TANKER | 1,203 | 10.03.2024 | 15.03.2024 |
+| YILDIZLAR 2 | WOOD CHIP | 10,347 | 07.03.2024 | 13.03.2024 |
 
-Aliaga, Turkey
+# Gadani, Pakistan
+
+Pakistan's domestic ship scrap market witnessed a halt in its recent price surge, with recyclers exercising increased caution in their buying activities amid declining imported ferrous scrap rates.
+
+Highlighting the week's activities is the sale of a Panamax vessel, the Toro Bianco, built in Japan in 1995; this bulker, weighing 9,269 tons, fetched a robust gross price of USD 541/ton levels. This transaction is poised to establish a benchmark for similar bulk carriers in the weeks ahead, or it is a one-off speculative deal to be seen post-Ramadan when the markets traditionally pick up.
+
+In general, the sentiments were stable and demand intact.
+
+Anchorage & Beaching Position (March 2024)
+
+| VESSEL NAME | TYPE | LDT | ARRIVAL | BEACHING |
+| --- | --- | --- | --- | --- |
+| BRAD | TANKER | 16,368 | 15.03.2024 | AWATIING |
+| RONG DA CHANG SHA | GENERAL CARGO | 9,654 | 15.03.2024 | 18.03.2024 |
+| DHAFI | PASSENGER | 6,040 | 19.02.2024 | 04.03.2024 |
+| BUKHTA NAGAEVA | REEFER | 2,353 | 17.02.2024 | 01.03.2024 |
+| GAP | CONTAINER | 3,837 | 18.02.2024 | 01.03.2024 |
+| WANG HAI | BULKER | 23,039 | 23.02.2024 | 01.03.2024 |
+
+# Aliaga, Turkey
 
 Turkish mills have maintained their domestic scrap buying prices at the same level as last week. Despite an increase in imported scrap values over the past week, the strengthening of the lira against the dollar following Turkey's Central Bank decision to raise loan rates by 500 basis points on March 21 has caused domestic scrap prices to rise when measured in dollars. While there are expectations among some market
 
 ## Page 15
 
-participants for premium scrap prices to reach US$395 per tonne CFR Turkey after Eid holiday, many doubt the likelihood of this occurrence especially after the dampening of Chinese sentiments mid-week. Turkish shipbreaking scrap prices have risen to US$375-392 per tonne delivered since last week.
+participants for premium scrap prices to reach US\$395 per tonne CFR Turkey after Eid holiday, many doubt the likelihood of this occurrence especially after the dampening of Chinese sentiments mid-week.
 
----
+Turkish shipbreaking scrap prices have risen to US\$375-392 per tonne delivered since last week.
 
----
+# BEACHING TIDE DATES 2024
 
-Sub-Continent and Turkey ferrous scrap markets insight
+Chattogram, Bangladesh : 08 ~ 11 April | 23 ~ 26 April
 
-In the Sub-Continent ferrous scrap market, caution prevails as Indian buyers take a waitand-see stance, finding imported scrap prices less appealing compared to domestic offerings. This cautious approach exacerbated by the week-long disengaged from market activities.
+Alang, India : 26 ~ 30 March | 06 ~ 13 April
 
-is underscored by a general market slowdown, Holi festival holidays, leaving some participants still
+#### BUNKER PRICES (USD/TON)
+
+| PORTS | VLSFO (0.5%) | HSFO (3.5%) | MGO (0.1%) |
+| --- | --- | --- | --- |
+| SINGAPORE | 495 | 495 | 792 |
+| HONG KONG | 499 | 499 | 791 |
+| FUJAIRAH | 458 | 458 | 900 |
+| ROTTERDAM | 484 | 484 | 791 |
+| HOUSTON | 493 | 493 | 834 |
+
+#### EXCHANGE RATES
+
+| CURRENCY | MARCH 28 | MARCH 22 | W-O-W % CHANGE |
+| --- | --- | --- | --- |
+| USD / CNY (CHINA) | 7.22 | 7.22 | 0 |
+| USD / BDT (BANGLADESH) | 109.76 | 109.72 | -0.04% |
+| USD / INR (INDIA) | 83.38 | 83.57 | +0.23% |
+| USD / PKR (PAKISTAN) | 278.13 | 278.24 | +0.04% |
+| USD / TRY (TURKEY) | 32.33 | 32.01 | -1.00% |
+
+# Sub-Continent and Turkey ferrous scrap markets insight
+
+In the Sub-Continent ferrous scrap market, caution prevails as Indian buyers take a wait-and-see stance, finding imported scrap prices less appealing compared to domestic offerings. This cautious approach is underscored by a general market slowdown, exacerbated by the week-long Holi festival holidays, leaving some participants still disengaged from market activities.
 
 ## Page 16
 

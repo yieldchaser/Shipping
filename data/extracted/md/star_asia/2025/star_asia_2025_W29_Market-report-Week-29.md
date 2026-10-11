@@ -89,19 +89,39 @@ In the Middle East market, rates saw a modest recovery, driven by an uptick in c
 
 ## Page 6
 
-Suezmax:
+# Suezmax:
 
 The West Africa market saw a slight recovery from the middle of the week, boosted by an inflow of cargoes from the Black Sea's CPC. 130,000mt Nigeria/UKC ended the week at WS89. In the Middle East, 140,000mt MEG/Med (via the Suez Canal) remains at WS96.
 
-Aframax:
+# Aframax:
 
 In the Middle East, the Aframax market remains unchanged. The decline in rates has been more pronounced for this segment compared to the larger units. In the Med, 80,000mt Ceyhan/Lavera improved this week to WS136.
 
-Clean:
+# Clean:
 
-LR: In the MEG, the LR2s recovered this week with TC1 improving 13 points to WS125. Similar was also noted in the LR1s segment, TC5 remains unchanged around WS145. Overall sentiments remain positive. MR: In the Far East market, rates remain depressed. This is attributed to stagnant demand from summer season, compounded by an increase in the number of available ballasters. In the MEG, MRs fared better with TC17 to E. Africa climbing to WS221.
+LR: In the MEG, the LR2s recovered this week with TC1 improving 13 points to WS125. Similar was also noted in the LR1s segment, TC5 remains unchanged around WS145. Overall sentiments remain positive.
+
+MR: In the Far East market, rates remain depressed. This is attributed to stagnant demand from summer season, compounded by an increase in the number of available ballasters. In the MEG, MRs fared better with TC17 to E. Africa climbing to WS221.
 
 # Baltic Exchange Tanker Indices
+
+| INDICES | CURRENT | LAST WEEK | LAST YEAR | W-O-W CHANGE | Y-O-Y CHANGE |
+| --- | --- | --- | --- | --- | --- |
+| BDTI | 929 | 931 | 1,056 | -0.21% | -12.03% |
+| BCTI | 617 | 542 | 822 | +13.84% | -24.94% |
+
+# Tankers Values
+
+(Weekly)
+
+| TYPE | DWT | NB CONTRACT | NB PROMPT DELIVERY | 5 YEARS | 10 YEARS | 15 YEARS |
+| --- | --- | --- | --- | --- | --- | --- |
+| VLCC | 310,000 | 126 | 147 | 112 (E) | 83(E) | 51 |
+| SUEZMAX | 160,000 | 87 | 94 | 77 (E) | 62 (E) | 40 |
+| AFRAMAX | 115,000 | 75 | 77 | 64 (E) | 50 (E) | 35 |
+| LR1 | 73,000 | 60 | 62 | 51 (E) | 42 (E) | 25 |
+| MR | 51,000 | 49 | 50 | 41 (E) | 30 (E) | 21 |
+| *(amount in USD million) / (E) – eco units | *(amount in USD million) / (E) – eco units | *(amount in USD million) / (E) – eco units | *(amount in USD million) / (E) – eco units | *(amount in USD million) / (E) – eco units | *(amount in USD million) / (E) – eco units | *(amount in USD million) / (E) – eco units |
 
 ## Page 7
 
@@ -214,26 +234,39 @@ Anchorage & Beaching Position (JULY 2025)
 
 ## Page 15
 
-Gadani
+# Gadani
 
 The ship recycling market in Gadani continues to offer the most competitive prices, with recyclers paying a premium to secure tonnage. This surge is driven by a temporary extension granted by local authorities, allowing yards to bring in ships while showcasing progress to classification societies in pursuit of the Hong Kong Convention (HKC) certification.
 
-To date, around seven yards have made substantial strides and are reportedly close to obtaining full HKC compliance. Market sentiment remains stable overall, with demand holding firm
+To date, around seven yards have made substantial strides and are reportedly close to obtaining full HKC compliance.
 
-Turkey's recycling market remained in a hold similar as seen in the last few weeks. Although there was some activities reported of interest, the summer lull in the mills do not offer attractive levels while national holiday in the region saw activities come to a halt.
+Market sentiment remains stable overall, with demand holding firm
 
----
+Anchorage & Beaching Position (JULY 2025)
 
-Chattogram, Bangladesh : 24 ~ 27 July | 9 ~ 12 August Alang, India : 21 ~ 29 July | 8 ~ 16 August
+| VESSEL NAME | TYPE | LDT | ARRIVAL | BEACHING |
+| --- | --- | --- | --- | --- |
+| WINCA | BULKER | 5,964 | 10.07.2025 | AWAITING |
 
----
+# Aliaga, Turkey
 
-BUNKER PRICES (USD/ton)
+Turkey’s recycling market remained in a hold similar as seen in the last few weeks.
 
-PORTS VLSFO (0.5%) HSFO (3.5%) MGO (0.1%)
+Although there was some activities reported of interest, the summer lull in the mills do not offer attractive levels while national holiday in the region saw activities come to a halt.
 
+# BEACHING TIDE DATES 2025
+
+Chattogram, Bangladesh : 24 ~ 27 July | 9 ~ 12 August
+
+Alang, India
+
+: 21 ~ 29 July | 8 ~ 16 August
+
+#### BUNKER PRICES (USD/ton)
+
+| PORTS | VLSFO (0.5%) | HSFO (3.5%) | MGO (0.1%) |
+| --- | --- | --- | --- |
 | SINGAPORE | 518 | 413 | 679 |
-|---|---|---|---|
 | HONG KONG | 533 | 466 | 679 |
 | FUJAIRAH | 514 | 397 | 739 |
 | ROTTERDAM | 510 | 437 | 710 |
@@ -241,9 +274,25 @@ PORTS VLSFO (0.5%) HSFO (3.5%) MGO (0.1%)
 
 ## Page 16
 
-Sub-Continent and Turkey ferrous scrap markets insights
+#### EXCHANGE RATES
 
-Ferrous scrap markets were largely subdued this week, with a common theme of cautious buying and firm seller offers creating a quiet trading environment across key regions. Here is a breakdown of the market activity by country. India: Activity in the Indian import market remained muted as buyers continued to hold low positions. A clear standoff was evident in the heavy melting scrap (HMS) segment, where bids remained capped around US$330/t CFR for most origins-a level that suppliers found largely unworkable. A similar dynamic was observed for shredded scrap, with offers at approximately US$370/ton CFR failing to attract major deals, as buyers targeted lower prices around the US$360/ton mark. Looking ahead, aggressive restocking from neighbouring Pakistan could force Indian importers to raise their bids to remain competitive, particularly for material sourced from the EU or UK. Bangladesh: The imported scrap market in Bangladesh was also quiet, with only moderate interest shown for bulk cargoes. Buyer sentiment remained cautious due to subdued domestic steel demand, making them highly price sensitive. US-origin HMS was offered at US$360/ton CFR, but buyers are now targeting a lower range of US$345- 350/ton, which is difficult for most suppliers to meet. Offers for Australian bulk cargoes were heard in a similar range, aligning with Indian market levels, while Japanese H2 bulk was considered workable at a slightly lower US$336-340/ton depending on the urgency. Pakistan: Pakistan's import market showed little momentum this week, with mills adopting a highly cautious approach despite rising offer levels from suppliers. Shredded scrap from Europe was quoted at around US$385/ton CFR Qasim, but domestic buyers were largely inactive. This hesitancy is being driven by a combination of soft local demand for finished rebar and persistent currency instability. With little appetite for restocking at present, suppliers may struggle to conclude new deals unless stronger positive cues emerge from the domestic steel market.
+| CURRENCY | July 18 | July 11 | W-O-W % CHANGE |
+| --- | --- | --- | --- |
+| USD / CNY (CHINA) | 7.17 | 7.16 | -0.14% |
+| USD / BDT (BANGLADESH) | 121.37 | 121.70 | +0.27% |
+| USD / INR (INDIA) | 86.10 | 85.82 | -0.33% |
+| USD / PKR (PAKISTAN) | 284.80 | 284.42 | -0.13% |
+| USD / TRY (TURKEY) | 40.37 | 40.18 | -0.47% |
+
+# Sub-Continent and Turkey ferrous scrap markets insights
+
+Ferrous scrap markets were largely subdued this week, with a common theme of cautious buying and firm seller offers creating a quiet trading environment across key regions. Here is a breakdown of the market activity by country.
+
+India: Activity in the Indian import market remained muted as buyers continued to hold low positions. A clear standoff was evident in the heavy melting scrap (HMS) segment, where bids remained capped around US\$330/t CFR for most origins—a level that suppliers found largely unworkable. A similar dynamic was observed for shredded scrap, with offers at approximately US\$370/ton CFR failing to attract major deals, as buyers targeted lower prices around the US\$360/ton mark. Looking ahead, aggressive restocking from neighbouring Pakistan could force Indian importers to raise their bids to remain competitive, particularly for material sourced from the EU or UK.
+
+Bangladesh: The imported scrap market in Bangladesh was also quiet, with only moderate interest shown for bulk cargoes. Buyer sentiment remained cautious due to subdued domestic steel demand, making them highly price sensitive. US-origin HMS was offered at US$360/ton CFR, but buyers are now targeting a lower range of US$345-350/ton, which is difficult for most suppliers to meet. Offers for Australian bulk cargoes were heard in a similar range, aligning with Indian market levels, while Japanese H2 bulk was considered workable at a slightly lower US$336-340/ton depending on the urgency.
+
+Pakistan: Pakistan's import market showed little momentum this week, with mills adopting a highly cautious approach despite rising offer levels from suppliers. Shredded scrap from Europe was quoted at around US\$385/ton CFR Qasim, but domestic buyers were largely inactive. This hesitancy is being driven by a combination of soft local demand for finished rebar and persistent currency instability. With little appetite for restocking at present, suppliers may struggle to conclude new deals unless stronger positive cues emerge from the domestic steel market.
 
 ## Page 17
 

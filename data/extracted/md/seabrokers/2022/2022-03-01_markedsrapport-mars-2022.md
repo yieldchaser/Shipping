@@ -132,6 +132,42 @@ In South America, Petrobras has awarded long-term contracts to three owners from
 
 ## MARCH 2022 - DAILY NORTH SEA OSV AVAILABILITY
 
+> **Read from the chart.** The report prints no numbers for this chart; each value is the chart line's node for that day, converted with the printed axis labels (vector geometry, not an eyeball estimate).
+
+| Date | PSV 2022 | PSV 2021 | AHTS 2022 | AHTS 2021 |
+| --- | --- | --- | --- | --- |
+| 1 | 5 | 12 | 0 | 12 |
+| 2 | 3 | 10 | 0 | 13 |
+| 3 | 3 | 10 | 1 | 14 |
+| 4 | 5 | 10 | 5 | 15 |
+| 5 | 5 | 13 | 7 | 13 |
+| 6 | 5 | 14 | 8 | 12 |
+| 7 | 5 | 14 | 10 | 11 |
+| 8 | 8 | 15 | 15 | 10 |
+| 9 | 9 | 17 | 13 | 11 |
+| 10 | 8 | 15 | 13 | 12 |
+| 11 | 12 | 11 | 11 | 13 |
+| 12 | 11 | 7 | 10 | 14 |
+| 13 | 11 | 7 | 9 | 13 |
+| 14 | 10 | 7 | 8 | 11 |
+| 15 | 5 | 8 | 9 | 10 |
+| 16 | 4 | 8 | 7 | 9 |
+| 17 | 5 | 6 | 5 | 11 |
+| 18 | 6 | 7 | 4 | 9 |
+| 19 | 9 | 9 | 4 | 9 |
+| 20 | 12 | 11 | 4 | 10 |
+| 21 | 15 | 13 | 4 | 12 |
+| 22 | 13 | 15 | 2 | 14 |
+| 23 | 10 | 14 | 2 | 12 |
+| 24 | 5 | 13 | 10 | 10 |
+| 25 | 5 | 15 | 10 | 9 |
+| 26 | 6 | 15 | 9 | 7 |
+| 27 | 7 | 13 | 8 | 7 |
+| 28 | 7 | 10 | 8 | 6 |
+| 29 | 6 | 8 | 7 | 6 |
+| 30 | 5 | 3 | 5 | 7 |
+| 31 | 4 | 4 | 5 | 7 |
+
 PSV 2022: Blue line  
 PSV 2021: Light blue line  
 AHTS 2022: Orange line  

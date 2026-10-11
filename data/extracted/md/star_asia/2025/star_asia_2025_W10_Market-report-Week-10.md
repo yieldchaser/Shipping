@@ -237,24 +237,29 @@ currently conducting a forensic audit of Pakistan's economic progress. The count
 
 Anchorage & Beaching Position (MARCH 2025)
 
-| LDT |
-| --- |
-| - Aliaga, Turkey |
+| VESSEL NAME | TYPE | LDT | ARRIVAL | BEACHING |
+| --- | --- | --- | --- | --- |
+| - | - | - | - | - |
 
-Turkish mills have raised domestic scrap prices again this week amid higher imported scrap values. Mills have struggled to source scrap at their target prices due to supply shortages and competition in major sourcing regions. Market sentiment rather than fundamentals appears to be driving markets, creating risk and uncertainty that is further complicated by rapidly evolving US tariff implementations and potential Chinese production cuts. Turkish shipbreaking scrap prices stood at US$340-357/ton delivered, with the Turkish currency at TRY 36.46/dollar by week's close.
+# Aliaga, Turkey
 
----
+Turkish mills have raised domestic scrap prices again this week amid higher imported scrap values. Mills have struggled to source scrap at their target prices due to supply shortages and competition in major sourcing regions. Market sentiment rather than fundamentals appears to be driving markets, creating risk and uncertainty that is further complicated by rapidly evolving US tariff implementations and potential Chinese production cuts.
 
-Chattogram, Bangladesh : 14 ~ 17 March | 29 March ~ 01 April Alang, India : 13 ~ 18 March | 27 ~ 31 March
+Turkish shipbreaking scrap prices stood at US\$340-357/ton delivered, with the Turkish currency at TRY 36.46/dollar by week's close.
 
----
+# BEACHING TIDE DATES 2025
 
-BUNKER PRICES (USD/ton)
+Chattogram, Bangladesh : 14 ~ 17 March | 29 March ~ 01 April
 
-PORTS VLSFO (0.5%) HSFO (3.5%) MGO (0.1%)
+Alang, India
 
+: 13 ~ 18 March | 27 ~ 31 March
+
+#### BUNKER PRICES (USD/ton)
+
+| PORTS | VLSFO (0.5%) | HSFO (3.5%) | MGO (0.1%) |
+| --- | --- | --- | --- |
 | SINGAPORE | 504 | 458 | 640 |
-|---|---|---|---|
 | HONG KONG | 516 | 475 | 653 |
 | FUJAIRAH | 507 | 457 | 743 |
 | ROTTERDAM | 500 | 433 | 637 |
@@ -262,17 +267,25 @@ PORTS VLSFO (0.5%) HSFO (3.5%) MGO (0.1%)
 
 ## Page 15
 
-Sub-Continent and Turkey ferrous scrap markets insight
+#### EXCHANGE RATES
 
-The imported scrap market across Indian Sub-continent remained largely muted this week as weak demand, tight liquidity, and the ongoing Ramadan period constrained trade activities in key regions. In contrast, Turkey's scrap market gained momentum, with mills actively restocking amid a bullish outlook and a strengthening euro.
+| CURRENCY | March 7 | February 28 | W-O-W % CHANGE |
+| --- | --- | --- | --- |
+| USD / CNY (CHINA) | 7.23 | 7.28 | +0.69% |
+| USD / BDT (BANGLADESH) | 121.42 | 121.46 | +0.03% |
+| USD / INR (INDIA) | 87.13 | 87.43 | +0.34% |
+| USD / PKR (PAKISTAN) | 279.96 | 279.97 | 0 |
+| USD / TRY (TURKEY) | 36.46 | 36.52 | +0.16% |
 
-### India's imported scrap market saw limited activity this week as buyers adopted a
+# Sub-Continent and Turkey ferrous scrap markets insight
 
-cautious stance, deterred by a widening bid-offer gap and adequate domestic scrap availability. UK and European-origin shredded scrap was offered at US$375-380/ton CFR Nhava Sheva, while buyers maintained bids lower at US$365-370/ton. Offers for HMS (80:20) hovered at US$350-355/ton CFR, but the absence of firm offers from the USdriven by high freight rates and uncompetitive pricing-further contributed to the subdued sentiment. In Pakistan, the imported scrap market remained sluggish, exacerbated by weak liquidity and lackluster steel demand amid Ramadan. Mills resisted higher offers, with UK and European-origin shredded scrap priced at US$380-385/ton CFR Qasim, while buyers targeted US$375-378/ton. UAE-origin shredded was offered at US$385-390/ton CFR, with limited room for negotiation. Meanwhile, HMS prices lingered around US$358/ton CFR as domestic scrap prices continued to weaken. With rebar sales slow and production levels reduced, market activity is expected to remain subdued until after Ramadan.
+The imported scrap market across Indian Sub-continent remained largely muted this week as weak demand, tight liquidity, and the ongoing Ramadan period constrained trade activities in key regions. In contrast, Turkey’s scrap market gained momentum, with mills actively restocking amid a bullish outlook and a strengthening euro.
 
-**Bangladesh's imported scrap market faced a downturn this week, hindered by slow LC**
+India's imported scrap market saw limited activity this week as buyers adopted a cautious stance, deterred by a widening bid-offer gap and adequate domestic scrap availability. UK and European-origin shredded scrap was offered at US$375–380/ton CFR Nhava Sheva, while buyers maintained bids lower at US$365–370/ton. Offers for HMS (80:20) hovered at US$350–355/ton CFR, but the absence of firm offers from the US—driven by high freight rates and uncompetitive pricing—further contributed to the subdued sentiment.
 
-openings and weak construction activity. Australian-origin shredded scrap was offered at US$380-385/ton CFR, while HMS (80:20) was priced at US$360-365/ton CFR. Hong Kong-origin PNS material was heard at $375-380 per tonne CFR. Limited deep-sea bulk inquiries underscored the cautious sentiment. Malaysian busheling was offered at US$385-390/ton CFR, but a wide price gap between bids and offers impeded deals. Despite minor improvements in LC conditions, traders anticipate a market recovery only after Ramadan.
+In Pakistan, the imported scrap market remained sluggish, exacerbated by weak liquidity and lackluster steel demand amid Ramadan. Mills resisted higher offers, with UK and European-origin shredded scrap priced at US$380–385/ton CFR Qasim, while buyers targeted US$375–378/ton. UAE-origin shredded was offered at US$385–390/ton CFR, with limited room for negotiation. Meanwhile, HMS prices lingered around US$358/ton CFR as domestic scrap prices continued to weaken. With rebar sales slow and production levels reduced, market activity is expected to remain subdued until after Ramadan.
+
+Bangladesh's imported scrap market faced a downturn this week, hindered by slow LC openings and weak construction activity. Australian-origin shredded scrap was offered at US$380–385/ton CFR, while HMS (80:20) was priced at US$360–365/ton CFR. Hong Kong-origin PNS material was heard at $375–380 per tonne CFR. Limited deep-sea bulk inquiries underscored the cautious sentiment. Malaysian busheling was offered at US$385–390/ton CFR, but a wide price gap between bids and offers impeded deals. Despite minor improvements in LC conditions, traders anticipate a market recovery only after Ramadan.
 
 ## Page 16
 

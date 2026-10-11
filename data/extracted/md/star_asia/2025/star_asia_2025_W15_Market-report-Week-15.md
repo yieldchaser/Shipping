@@ -58,10 +58,29 @@ Handy market saw a mixed market with levels in the Pacific seeing slight improve
 ## Page 4
 
 | CAPE | 180,000 | 68 | 70 | 50 | 38 | 29 |
-|---|---|---|---|---|---|---|
+| --- | --- | --- | --- | --- | --- | --- |
 | KAMSARMAX | 82,000 | 37 | 35 | 30 | 24 | 19 |
 | SUPRAMAX | 56,000 | - | - | 27 | 20 | 13 |
-| HANDY *(amount in USD million) | 38,000 | 31 | 33 | 25 | 17 | 14 |
+| HANDY | 38,000 | 31 | 33 | 25 | 17 | 14 |
+| *(amount in USD million) | *(amount in USD million) | *(amount in USD million) | *(amount in USD million) | *(amount in USD million) | *(amount in USD million) | *(amount in USD million) |
+
+Dry Bulk – S&P Report
+
+| VESSEL NAME | TYPE | DWT | YEAR | BUILT | PRICE (MILLION) USD | COMMENTS / BUYERS |
+| --- | --- | --- | --- | --- | --- | --- |
+| JUBILANT DEVOTION | POST PMAX | 117,549 | 2016 | JAPAN | 26.5 | ALBERTA SHIPMANAGEMENT |
+| SEA MARATHON | KMAX | 81,945 | 2015 | CHINA | 18.25 | GREEK BUYERS |
+| GOLDEN IOANARI | KMAX | 81,827 | 2011 | S. KOREA | 16.3 | GREEK BUYERS |
+| GOLDEN KEEN | KMAX | 81,586 | 2012 | S. KOREA | 17.4 | CHINESE BUYERS |
+| TRISTAR DUGON | PMAX | 79,200 | 2011 | CHINA | 13.3 | UNDISCLOSED |
+| SEA CHARM | PMAX | 75,932 | 2003 | JAPAN | 7.7 | CHINESE BUYERS |
+| MIYAMA | PMAX | 75,777 | 2005 | JAPAN | 9.45 | GREEK BUYERS |
+| SERVETTE | UMAX | 63,668 | 2020 | CHINA | 32.0 | UNDISCLOSED |
+| NANTONG XIANGYU XY134 | UMAX | 63,550 | 2025 | CHINA | 35.8 | GREEK BUYERS |
+| EMMANUEL C | SMAX | 58,837 | 2008 | CHINA | 11.8 | CHINESE BUYERS |
+| VOLISSOS | SMAX | 57,022 | 2010 | CHINA | 10.7 | CHINESE BUYERS |
+
+Dry Bulk 1 year T/C rates
 
 ## Page 5
 
@@ -79,40 +98,37 @@ WAFR saw a drop in rates as many vessel fixtures were cancelled due to transport
 
 ## Page 6
 
-Aframax:
+# Aframax:
 
 MEG finished steady, influenced by weakness in the SE Asian regional market and poor performance in the bigger segments. In the Atlantic, USG/UKC saw rates corrected after climbing at the start of the week. 70,000mt ended the week at WS190.
 
-Clean:
+# Clean:
 
-**LR: LR2 in the MEG closed with falling rates despite limited vessel supply, as demand**
+LR: LR2 in the MEG closed with falling rates despite limited vessel supply, as demand remained weak. With vessel availability booked till mid-April, the market remains relatively soft. TC1 lost over 100 points to WS130.
 
-remained weak. With vessel availability booked till mid-April, the market remains relatively soft. TC1 lost over 100 points to WS130.
-
-**MR: The Far East region saw its fourth consecutive week of declines from weak demand.**
-
-In the MEG, rates also saw another week of discounts as trade tensions led to a softer outlook. TC17 MEG/East Africa fell some 7 points to WS190.
+MR: The Far East region saw its fourth consecutive week of declines from weak demand. In the MEG, rates also saw another week of discounts as trade tensions led to a softer outlook. TC17 MEG/East Africa fell some 7 points to WS190.
 
 # Baltic Exchange Tanker Indices
 
-| INDICES | CURRENT | LAST WEEK |
-|---|---|---|
-| BDTI | 1,132 | 1,111 |
-| BCTI | 679 | 682 |
+| INDICES | CURRENT | LAST WEEK | LAST YEAR | W-O-W CHANGE | Y-O-Y CHANGE |
+| --- | --- | --- | --- | --- | --- |
+| BDTI | 1,132 | 1,111 | 1,202 | +1.89% | -5.82% |
+| BCTI | 679 | 682 | 879 | -0.44% | -22.75% |
 
-LAST YEAR W-O-W CHANGE 1,202 +1.89% 879 -0.44%
+# Tankers Values
 
-Y-O-Y CHANGE -5.82% -22.75%
+(Weekly)
 
-| TYPE | DWT | Tankers Values (Weekly) NB CONTRACT | Tankers Values (Weekly) NB PROMPT | 5 YEARS | 10 YEARS | 15 YEARS |
+| TYPE | DWT | NB CONTRACT | NB PROMPT DELIVERY | 5 YEARS | 10 YEARS | 15 YEARS |
 | --- | --- | --- | --- | --- | --- | --- |
-|  |  |  | DELIVERY |  |  |  |
 | VLCC | 310,000 | 127 | 140 | 95 | 75 | 40 |
 | SUEZMAX | 160,000 | 88 | 92 | 70 | 58 | 30 |
 | AFRAMAX | 115,000 | 76 | 77 | 65 | 53 | 25 |
 | LR1 | 73,000 | 55 | 58 | 45 | 36 | 26 |
 | MR | 51,000 | 50 | 52 | 40 | 31 | 20 |
-| *(amount in USD million) |  |  |  |  |  |  |
+| *(amount in USD million) | *(amount in USD million) | *(amount in USD million) | *(amount in USD million) | *(amount in USD million) | *(amount in USD million) | *(amount in USD million) |
+
+*(amount in USD million)
 
 ## Page 7
 
@@ -239,28 +255,32 @@ Turkey's market remains stagnant as domestic scrap prices remain largely unchang
 
 ## Page 16
 
-mills stems from several factors, including the escalating US-China tariff war and weak steel demand. Market participants are closely watching for the first transaction that will break the current deadlock and establish a new reference price. Turkish shipbreaking scrap is currently priced between US$340-372 per ton delivered, though mills are increasingly using surcharges or discounts rather than changing list prices.
+mills stems from several factors, including the escalating US–China tariff war and weak steel demand.
 
----
+Market participants are closely watching for the first transaction that will break the current deadlock and establish a new reference price. Turkish shipbreaking scrap is currently priced between US$340-372 per ton delivered, though mills are increasingly using surcharges or discounts rather than changing list prices.
 
-Chattogram, Bangladesh : 12 ~ 15 April | 26 ~ 30 April Alang, India : 12 ~ 17 April | 26 April ~ 3 May
+# BEACHING TIDE DATES 2025
 
----
+Chattogram, Bangladesh : 12 ~ 15 April | 26 ~ 30 April
 
-BUNKER PRICES (USD/ton)
+Alang, India
+
+: 12 ~ 17 April | 26 April ~ 3 May
+
+#### BUNKER PRICES (USD/ton)
 
 | PORTS | VLSFO (0.5%) | HSFO (3.5%) | MGO (0.1%) |
-|---|---|---|---|
+| --- | --- | --- | --- |
 | SINGAPORE | 480 | 414 | 582 |
 | HONG KONG | 509 | 450 | 623 |
 | FUJAIRAH | 472 | 420 | 720 |
 | ROTTERDAM | 434 | 399 | 599 |
 | HOUSTON | 462 | 407 | 625 |
 
-EXCHANGE RATES
+#### EXCHANGE RATES
 
 | CURRENCY | April 11 | April 4 | W-O-W % CHANGE |
-|---|---|---|---|
+| --- | --- | --- | --- |
 | USD / CNY (CHINA) | 7.30 | 7.27 | -0.41% |
 | USD / BDT (BANGLADESH) | 121.49 | 121.37 | -0.10% |
 | USD / INR (INDIA) | 86.03 | 85.04 | -1.16% |
@@ -297,27 +317,35 @@ escalating trade tensions between the United States and China-the world's two la
 
 ## Page 19
 
+Steel product futures showed mixed performance on the Shanghai Futures Exchange. Rebar contracts increased 0.26%, stainless steel advanced 0.4%, and wire rod rose 0.21%, while hot-rolled coil dipped slightly by 0.12%.
+
 ### Iron Ore
 
-| COMMODITY (USD/MT) | GRADE |
-| --- | --- |
-| Iron Ore Fines, CNF Rizhao, China | Fines, Fe 62% (Aust. Origin) 98 -5.76% -10.09% 104 109 Iron Ore Fines, CNF Qingdao, China Fines, Fe 62.5% (Brazil Origin) 97 -5.82% -12.61% 103 111 INDEX UNITS PRICE CHANGE %CHANGE CONTRACT Copper (Comex) USD / lb. 452.30 +18.65 +4.30% May 2025 3Mo Copper (L.M.E.) USD / MT 9,154.50 +166.50 +1.85% N/A 3Mo Aluminum (L.M.E.) USD / MT 2,396.50 +26.50 +1.12% N/A 3Mo Zinc (L.M.E.) USD / MT 2,651.50 +10.50 +0.40% N/A 3Mo Tin (L.M.E.) USD / MT 31,219.00 +561.00 +1.83% N/A INDEX UNITS PRICE CHANGE %CHANGE CONTRACT WTI Crude Oil (Nymex) USD / bbl. 61.50 +1.43 +2.38% May 2025 Brent Crude (ICE.) USD / bbl. 64.76 +1.43 +2.26% Jun 2025 Crude Oil (Tokyo) J.P.Y. / kl 61,300.00 -1,150.00 -1.84% Apr 2025 Natural Gas (Nymex) USD / MMBtu 3.53 -0.03 -0.84% May 2025 |
+| COMMODITY | SIZE / GRADE | THIS WEEK USD / MT | W-O-W | Y-O-Y | LAST WEEK USD / MT | LAST YEAR USD / MT |
+| --- | --- | --- | --- | --- | --- | --- |
+| Iron Ore Fines, CNF Rizhao, China | Fines, Fe 62% (Aust. Origin) | 98 | -5.76% | -10.09% | 104 | 109 |
+| Iron Ore Fines, CNF Qingdao, China | Fines, Fe 62.5% (Brazil Origin) | 97 | -5.82% | -12.61% | 103 | 111 |
 
 ### Industrial Metal Rates
 
-| INDEX | UNITS | PRICE | CHANGE | % CHANGE | CONTRACT |
-| :--- | :--- | :---: | :---: | :---: | :---: |
+| INDEX | UNITS | PRICE | CHANGE | %CHANGE | CONTRACT |
+| --- | --- | --- | --- | --- | --- |
 | Copper (Comex) | USD / lb. | 452.30 | +18.65 | +4.30% | May 2025 |
 | 3Mo Copper (L.M.E.) | USD / MT | 9,154.50 | +166.50 | +1.85% | N/A |
 | 3Mo Aluminum (L.M.E.) | USD / MT | 2,396.50 | +26.50 | +1.12% | N/A |
 | 3Mo Zinc (L.M.E.) | USD / MT | 2,651.50 | +10.50 | +0.40% | N/A |
 | 3Mo Tin (L.M.E.) | USD / MT | 31,219.00 | +561.00 | +1.83% | N/A |
 
-### Crude Oil & Natural Gas
+Crude Oil & Natural Gas Rates
 
-| INDEX | UNITS | PRICE | CHANGE | % CHANGE | CONTRACT |
-| :--- | :--- | :---: | :---: | :---: | :---: |
+| INDEX | UNITS | PRICE | CHANGE | %CHANGE | CONTRACT |
+| --- | --- | --- | --- | --- | --- |
 | WTI Crude Oil (Nymex) | USD / bbl. | 61.50 | +1.43 | +2.38% | May 2025 |
 | Brent Crude (ICE.) | USD / bbl. | 64.76 | +1.43 | +2.26% | Jun 2025 |
 | Crude Oil (Tokyo) | J.P.Y. / kl | 61,300.00 | -1,150.00 | -1.84% | Apr 2025 |
 | Natural Gas (Nymex) | USD / MMBtu | 3.53 | -0.03 | -0.84% | May 2025 |
+
+Note: All rates at C.O.B. London time April 11, 2025
+
+# Singapore | London | Dubai
+

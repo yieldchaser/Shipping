@@ -244,37 +244,41 @@ Anchorage & Beaching Position (October 2025)
 
 ## Page 16
 
-Aliaga, Turkey
+# Aliaga, Turkey
 
-No notable changes happening in the Turkish recycling markets this week with levels offered remaining similar as last. Despite the rise in import prices, Turkish local market sentiment remained weak, and domestic sales continued to present challenges. Some participants noted that Ukraine's exemption from EU steel import tariffs could potentially generate new export opportunities for Turkish finished steel products.
+No notable changes happening in the Turkish recycling markets this week with levels offered remaining similar as last.
 
----
+Despite the rise in import prices, Turkish local market sentiment remained weak, and domestic sales continued to present challenges. Some participants noted that Ukraine’s exemption from EU steel import tariffs could potentially generate new export opportunities for Turkish finished steel products.
 
-Chattogram, Bangladesh : 6 ~ 9 October | 20 ~ 23 October Alang, India : 5 ~ 13 October | 20 ~ 26 October
+# BEACHING TIDE DATES 2025
 
----
+Chattogram, Bangladesh : 6 ~ 9 October | 20 ~ 23 October
 
-BUNKER PRICES (USD/ton)
+Alang, India
+
+: 5 ~ 13 October | 20 ~ 26 October
+
+#### BUNKER PRICES (USD/ton)
 
 | PORTS | VLSFO (0.5%) | HSFO (3.5%) | MGO (0.1%) |
-|---|---|---|---|
+| --- | --- | --- | --- |
 | SINGAPORE | 487 | 420 | 670 |
 | HONG KONG | 487 | 437 | 668 |
 | FUJAIRAH | 481 | 409 | 741 |
 | ROTTERDAM | 441 | 399 | 671 |
 | HOUSTON | 462 | 418 | 680 |
 
-EXCHANGE RATES
+#### EXCHANGE RATES
 
 | CURRENCY | October 10 | October 3 | W-O-W % CHANGE |
-|---|---|---|---|
+| --- | --- | --- | --- |
 | USD / CNY (CHINA) | 7.11 | 7.11 | 0 |
 | USD / BDT (BANGLADESH) | 121.57 | 121.71 | +0.12% |
 | USD / INR (INDIA) | 88.75 | 88.73 | -0.02% |
 | USD / PKR (PAKISTAN) | 282.98 | 282.33 | -0.23% |
 | USD / TRY (TURKEY) | 41.81 | 41.69 | -0.29% |
 
-Sub-Continent and Turkey ferrous scrap markets insights
+# Sub-Continent and Turkey ferrous scrap markets insights
 
 Sub-Continent imported scrap markets remained subdued this week, weighed down by limited demand and cautious sentiment across key destinations. Trading activity was
 

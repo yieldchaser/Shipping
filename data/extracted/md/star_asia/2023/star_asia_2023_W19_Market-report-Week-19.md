@@ -50,10 +50,10 @@ Ship supply accumulation in the Atlantic has experienced a slight slowdown, whil
 
 Pacific levels, however, remain stable, recording around US$ 7,400's a day. There were some enquiries for coal and grain, which may hopefully lead to a positive outlook next week.
 
-# Dry Bulk - S&P Report
+# Dry Bulk – S&P Report
 
 | VESSEL NAME | TYPE | DWT | YEAR | BUILT | PRICE (MILLION) USD | COMMENTS / BUYERS |
-|---|---|---|---|---|---|---|
+| --- | --- | --- | --- | --- | --- | --- |
 | DENSA COBRA | CAPE | 180,491 | 2011 | S. KOREA | 27.25 | UNDISCLOSED |
 | ZHENG YUAN | CAPE | 177,643 | 2002 | JAPAN | 13.0 | CHINESE BUYERS |
 | THALASSIC | PANAMAX | 81,426 | 2009 | JAPAN | 21.0 | OMICRON |
@@ -65,9 +65,43 @@ Pacific levels, however, remain stable, recording around US$ 7,400's a day. Ther
 | MARDINIK | HANDY | 33,918 | 2011 | S. KOREA | 14.4 | SYRIAN BUYERS |
 | STONEWALL UNITY | GC | 33,217 | 2012 | CHINA | 18.0 | RUSSIAN BUYERS |
 
+# Dry Bulk Values
+
+(Weekly)
+
+| TYPE | DWT | NB CONTRACT | NB PROMPT DELIVERY | 5 YEARS | 10 YEARS | 20 YEARS |
+| --- | --- | --- | --- | --- | --- | --- |
+| CAPE | 180,000 | 61 | 66 | 54 | 33 | 15 |
+| KAMSARMAX | 82,000 | 34 | 40 | 34 | 25 | 10 |
+| SUPRAMAX | 56,000 | 32 | 38 | 32 | 21 | 10 |
+| HANDY | 38,000 | 29 | 32 | 26 | 19 | 8 |
+
+* (Amount in USD million)
+
 ## Page 4
 
 # Baltic Exchange Dry Bulk Indices
+
+#### BALTIC EXCHANGE DRY BULK INDICES
+
+|  | CURRENT | LAST WEEK | LAST YEAR | W-O-W CHANGE % | Y-O-Y CHANGE % |
+| --- | --- | --- | --- | --- | --- |
+| BDI | 1,608 | 1,558 | 3,104 | +3.21% | -48.20% |
+| BCI | 2,456 | 2,384 | 3,947 | +3.02% | -37.78% |
+| BPI | 1,445 | 1,501 | 3,283 | -3.73% | -55.99% |
+| BSI | 1,112 | 1,096 | 2,752 | +1.46% | -59.59% |
+| BHSI | 635 | 645 | 1,673 | -1.55% | -62.04% |
+
+#### BULKER 12 MONTHS T/C RATES AVERAGE (IN USD/DAY)
+
+|  | DWT | CURRENT | LAST WEEK | LAST YEAR | W-O-W CHANGE % | Y-O-Y CHANGE % |
+| --- | --- | --- | --- | --- | --- | --- |
+| CAPE | 180,000 | 18,250 | 18,500 | 30,500 | -1.35% | -40.16% |
+| PANAMAX | 75,000 | 14,350 | 15,150 | 27,125 | -5.28% | -47.10% |
+| SUPRAMAX | 52,000 | 13,750 | 14,500 | 26,000 | -5.17% | -47.12% |
+| HANDYSIZE | 32,000 | 10,500 | 11,000 | 23,250 | -4.55% | -54.84% |
+
+Dry Bulk 1 year T/C rates
 
 ## Page 5
 
@@ -117,33 +151,35 @@ L.R.: The weekly decline from last week due to an increase in the supply of ship
 (Weekly)
 
 | TANKERS | DWT | NB CONTRACT | NB PROMPT DELIVERY | 5 YEARS | 10 YEARS | 20 YEARS |
-|---|---|---|---|---|---|---|
+| --- | --- | --- | --- | --- | --- | --- |
 | VLCC | 310,000 | 123 | 125 | 100 | 76 | 52 |
 | SUEZMAX | 160,000 | 83 | 85 | 68 | 53 | 30 |
 | AFRAMAX | 115,000 | 66 | 77 | 62 | 52 | 29 |
 | PANAMAX-LR1 | 73,000 | 56 | 60 | 50 | 40 | 19 |
 | MR TANKER | 51,000 | 46 | 50 | 42 | 34 | 19 |
 
-*\*(amount in USD million)*
+* (amount in USD million)
 
-## TANKER 12 MONTHS T/C RATES AVERAGE (IN USD/DAY)
+#### TANKER 12 MONTHS T/C RATES AVERAGE (IN USD/DAY)
 
 | TYPE | DWT | CURRENT | LAST WEEK | LAST YEAR | W-O-W CHANGE | Y-O-Y CHANGE |
-|---|---|---|---|---|---|---|
+| --- | --- | --- | --- | --- | --- | --- |
 | VLCC | 300,000 | 37,000 | 40,000 | 16,000 | -7.50% | +131.25% |
 | SUEZMAX | 150,000 | 39,500 | 39,500 | 19,500 | 0 | +102.56% |
 | AFRAMAX | 110,000 | 41,000 | 41,500 | 20,500 | -1.20% | +100.00% |
 | LR1 | 74,000 | 35,500 | 35,500 | 17,500 | 0 | +102.86% |
 | MR | 47,000 | 28,000 | 28,000 | 16,750 | 0 | +67.16% |
 
-## Baltic Exchange Tanker Indices
-
 ## BALTIC EXCHANGE TANKER INDICES
 
-| CURRENT | LAST WEEK | LAST YEAR | W-O-W CHANGE % | Y-O-Y CHANGE % |
-|---|---|---|---|---|
-| 1,218 | 1,077 | 1,133 | +13.09% | +7.50% |
-| 637 | 719 | 1,448 | -11.40% | -56.01% |
+#### BALTIC EXCHANGE TANKER INDICES
+
+|  | CURRENT | LAST WEEK | LAST YEAR | W-O-W CHANGE % | Y-O-Y CHANGE % |
+| --- | --- | --- | --- | --- | --- |
+| BDTI | 1,218 | 1,077 | 1,133 | +13.09% | +7.50% |
+| BCTI | 637 | 719 | 1,448 | -11.40% | -56.01% |
+
+Tanker 1 year T/C rates
 
 ## Page 8
 
@@ -177,29 +213,31 @@ Maersk has announced changes to its Asia-Europe shipping network, aiming to incr
 
 # Ship Recycling Market Snapshot
 
-| DESTINATION | TANKERS | BULKERS | MPP/ GENERAL | CONTAINERS | SENTIMENTS / WEEKLY FUTURE |
-|---|---|---|---|---|---|
-| *For green ship recycling, the prices are about | 520 ~ 530 | 500 ~ 510 | 510 ~ 520 | 530 ~ 540 | STABLE / |
-| CHATTOGRAM, BANGLADESH | \*560 ~ 570 | \*550 ~ 560 | \*530 ~ 540 | \*570 ~ 580 | WEAK / |
+| DESTINATION | TANKERS | BULKERS | MPP/ GENERAL CARGO | CONTAINERS | SENTIMENTS / WEEKLY FUTURE TREND |
+| --- | --- | --- | --- | --- | --- |
+| ALANG (WC INDIA) *For green ship recycling, the prices are about US$25-30/ton lower. | 520 ~ 530 | 500 ~ 510 | 510 ~ 520 | 530 ~ 540 | STABLE / icon: blue double arrow |
+| CHATTOGRAM, BANGLADESH | *560 ~ 570 | *550 ~ 560 | *530 ~ 540 | *570 ~ 580 | WEAK / icon: red down arrow |
 | GADDANI, PAKISTAN | NA | NA | NA | NA | NA |
-| TURKEY \*For Non-EU ships. For E.U. Ship, the prices are about US$30-40/ton less | 320 ~ 330 | 310 ~ 320 | 300 ~ 310 | 330 ~ 340 | WEAK / |
+| TURKEY *For Non-EU ships. For E.U. Ship, the prices are about US$30-40/ton less | 320 ~ 330 | 310 ~ 320 | 300 ~ 310 | 330 ~ 340 | WEAK / icon: blue double arrow |
 
-- All prices are USD per light displacement tonnage in the long ton.
-- The prices reported are net prices offered by the recycling yards.
-- Prices quoted are basis simple Japanese / Korean-built tonnages trading units. Premiums are paid on top of the above- quoted prices based on quality & quality of Spares, Non-Fe., bunkers, cargo history, and maintenance.
-- \* Prices are based on the subject Letters of Credit opening and case-to-case buying.
+* All prices are USD per light displacement tonnage in the long ton.
+
+* The prices reported are net prices offered by the recycling yards.
+
+* Prices quoted are basis simple Japanese / Korean-built tonnages trading units. Premiums are paid on top of the above-quoted prices based on quality & quality of Spares, Non-Fe., bunkers, cargo history, and maintenance.
+
+* * Prices are based on the subject Letters of Credit opening and case-to-case buying.
 
 ## 5-Year Ship Recycling Average Historical Prices
 
 (Week 19)
 
-```text
-DESTINATION 2018 2019 2020 2021 2022
-ALANG, INDIA 450 440 330 500 690
-CHATTOGRAM, BANGLADESH 420 440 310 510 660
-GADDANI, PAKISTAN 440 420 300 500 680
-ALIAGA, TURKEY 290 270 170 255 410
-```
+| DESTINATION | 2018 | 2019 | 2020 | 2021 | 2022 |
+| --- | --- | --- | --- | --- | --- |
+| ALANG, INDIA | 450 | 440 | 330 | 500 | 690 |
+| CHATTOGRAM, BANGLADESH | 420 | 440 | 310 | 510 | 660 |
+| GADDANI, PAKISTAN | 440 | 420 | 300 | 500 | 680 |
+| ALIAGA, TURKEY | 290 | 270 | 170 | 255 | 410 |
 
 ## Page 11
 
@@ -286,15 +324,90 @@ Tukey prepares for the crucial elections, which will be a critical factor for th
 
 ## Page 16
 
+# Bunker Prices
+
+#### BUNKER PRICES (USD/TON)
+
+| PORTS | VLSFO (0.5%) | IFO380 CST | MGO (0.1%) |
+| --- | --- | --- | --- |
+| SINGAPORE | 571 | 456 | 685 |
+| HONG KONG | 589 | 473 | 688 |
+| FUJAIRAH | 561 | 455 | 911 |
+| ROTTERDAM | 536 | 440 | 685 |
+| HOUSTON | 535 | 409 | 708 |
+
 ### Exchange Rates
 
-| CURRENCY PAIR | 12th MAY | 5th MAY | W-O-W % CHANGE |
-| :--- | :---: | :---: | :---: |
+#### EXCHANGE RATES
+
+|  | 12 th MAY | 5 th MAY | W-O-W % CHANGE |
+| --- | --- | --- | --- |
 | USD / CNY (CHINA) | 6.94 | 6.91 | -0.43% |
 | USD / BDT (BANGLADESH) | 107.38 | 106.48 | -0.85% |
 | USD / INR (INDIA) | 82.17 | 81.72 | -0.55% |
 | USD / PKR (PAKISTAN) | 285.25 | 283.79 | -0.51% |
 | USD / TRY (TURKEY) | 19.58 | 19.51 | -0.36% |
+
+# Commodity Prices
+
+### HMS 1/2 & Tangshan Billet
+
+TANGSHAN BILLET EX-WORKS (CNY/T)
+6000.0
+5500.0
+5000.0
+4500.0
+4000.0
+3500.0
+3000.0
+2500.0
+2000.0
+1-Feb-19
+1-May-19
+1-Aug-19
+1-Nov-19
+1-Feb-20
+1-May-20
+1-Aug-20
+1-Nov-20
+1-Feb-21
+1-May-21
+1-Aug-21
+1-Nov-21
+1-Feb-22
+1-May-22
+1-Aug-22
+1-Nov-22
+1-Feb-23
+1-May-23
+
+HMS 1/2 TURKEY CFR (USD/T)
+700.0
+600.0
+500.0
+400.0
+300.0
+200.0
+100.0
+0.0
+1-Feb-19
+1-May-19
+1-Aug-19
+1-Nov-19
+1-Feb-20
+1-May-20
+1-Aug-20
+1-Nov-20
+1-Feb-21
+1-May-21
+1-Aug-21
+1-Nov-21
+1-Feb-22
+1-May-22
+1-Aug-22
+1-Nov-22
+1-Feb-23
+1-May-23
 
 ## Page 17
 

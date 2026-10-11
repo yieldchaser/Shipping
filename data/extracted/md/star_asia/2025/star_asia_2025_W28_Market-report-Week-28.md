@@ -98,52 +98,41 @@ In the Middle East, despite consistent fixtures for short-haul routes, the Afram
 
 ## Page 6
 
-Clean:
+# Clean:
 
-**LR: Even with relatively active fixture activity in the Middle East, LR2 rates have slipped, TC1**
+LR: Even with relatively active fixture activity in the Middle East, LR2 rates have slipped, TC1 MEG/Japan ended the week at WS110. In the LR1, similar was noted for same route closing at around WS137 mark.
 
-MEG/Japan ended the week at WS110. In the LR1, similar was noted for same route closing at around WS137 mark.
-
-**MR: Despite consistent activity, the weakness in the LR segment has led to increased**
-
-competition for cargo, pushing rates down. In the USG, MRs saw rates for Tc14 (USG/UKC) fell some 50 points to WS130s.
+MR: Despite consistent activity, the weakness in the LR segment has led to increased competition for cargo, pushing rates down. In the USG, MRs saw rates for Tc14 (USG/UKC) fell some 50 points to WS130s.
 
 # Baltic Exchange Tanker Indices
 
-| INDICES | CURRENT | LAST WEEK |
-|---|---|---|
-| BDTI | 931 | 950 |
-| BCTI | 542 | 534 |
+| INDICES | CURRENT | LAST WEEK | LAST YEAR | W-O-W CHANGE | Y-O-Y CHANGE |
+| --- | --- | --- | --- | --- | --- |
+| BDTI | 931 | 950 | 1,064 | -2.00% | -12.50% |
+| BCTI | 542 | 534 | 849 | +1.50% | -36.16% |
 
-LAST YEAR W-O-W CHANGE 1,064 -2.00% 849 +1.50%
+# Tankers Values
 
-Y-O-Y CHANGE
-
--12.50% -36.16%
-
-Tankers Values
-
-*(Weekly)*
+(Weekly)
 
 | TYPE | DWT | NB CONTRACT | NB PROMPT DELIVERY | 5 YEARS | 10 YEARS | 15 YEARS |
-|---|---|---|---|---|---|---|
+| --- | --- | --- | --- | --- | --- | --- |
 | VLCC | 310,000 | 126 | 147 | 112 (E) | 83(E) | 51 |
 | SUEZMAX | 160,000 | 87 | 94 | 77 (E) | 62 (E) | 40 |
 | AFRAMAX | 115,000 | 75 | 77 | 64 (E) | 50 (E) | 35 |
-| LR1 | 73,000 | 60 | 62 | 51 (E) | 42 (E) | 25 |
+| LRI | 73,000 | 60 | 62 | 51 (E) | 42 (E) | 25 |
 | MR | 51,000 | 49 | 50 | 41 (E) | 30 (E) | 21 |
-
-*\*(amount in USD million) | (E) - eco units*
+| *(amount in USD million) / (E) – eco units | *(amount in USD million) / (E) – eco units | *(amount in USD million) / (E) – eco units | *(amount in USD million) / (E) – eco units | *(amount in USD million) / (E) – eco units | *(amount in USD million) / (E) – eco units | *(amount in USD million) / (E) – eco units |
 
 Tankers S&P Report
 
 | VESSEL NAME | TYPE | DWT | YEAR | BUILT | PRICE (MILLION) USD | COMMENTS / BUYERS |
-|---|---|---|---|---|---|---|
+| --- | --- | --- | --- | --- | --- | --- |
 | KOI | LR1 | 74,635 | 2010 | S. KOREA | 23.3 | GREEK BUYERS |
 | PGC COMPANION | LR1 | 72,825 | 2005 | CHINA | 10.0 | UNDISCLOSED |
 | PGC MARINA | LR1 | 72,807 | 2005 | CHINA | 10.0 | UNDISCLOSED |
 | SAN FERNANDO | MR | 48,315 | 2005 | JAPAN | 12.1 | UNDISCLOSED |
-| GWEN | PROD/ CHEM | 19,702 | 2008 | JAPAN | 16.2 (STST) | GMS |
+| GWEN | PROD/CHEM | 19,702 | 2008 | JAPAN | 16.2(STST) | GMS |
 
 ## Page 7
 
@@ -259,40 +248,39 @@ The Turkish ship recycling market has remained unchanged this week, continuing t
 
 ## Page 16
 
-Chattogram, Bangladesh : 11 ~ 14 July | 24 ~ 27 July Alang, India : 08 ~ 16 July | 21 ~ 29 July
+# BEACHING TIDE DATES 2025
 
----
+Chattogram, Bangladesh : 11 ~ 14 July | 24 ~ 27 July
 
-BUNKER PRICES (USD/ton)
+Alang, India
 
-PORTS VLSFO (0.5%) HSFO (3.5%) MGO (0.1%)
+: 08 ~ 16 July | 21 ~ 29 July
 
+#### BUNKER PRICES (USD/ton)
+
+| PORTS | VLSFO (0.5%) | HSFO (3.5%) | MGO (0.1%) |
+| --- | --- | --- | --- |
 | SINGAPORE | 522 | 420 | 656 |
-|---|---|---|---|
 | HONG KONG | 508 | 446 | 637 |
 | FUJAIRAH | 512 | 400 | 723 |
 | ROTTERDAM | 507 | 432 | 684 |
 | HOUSTON | 499 | 352 | 700 |
 
-EXCHANGE RATES
+#### EXCHANGE RATES
 
 | CURRENCY | July 11 | July 4 | W-O-W % CHANGE |
-|---|---|---|---|
+| --- | --- | --- | --- |
 | USD / CNY (CHINA) | 7.16 | 7.16 | 0 |
 | USD / BDT (BANGLADESH) | 121.70 | 122.61 | +0.74% |
 | USD / INR (INDIA) | 85.82 | 85.45 | -0.43% |
 | USD / PKR (PAKISTAN) | 284.42 | 283.85 | -0.20% |
 | USD / TRY (TURKEY) | 40.18 | 39.84 | -0.85% |
 
-Sub-Continent and Turkey ferrous scrap markets insights
+# Sub-Continent and Turkey ferrous scrap markets insights
 
-**India: India's imported ferrous scrap market continued to be quiet, characterized by**
+India: India's imported ferrous scrap market continued to be quiet, characterized by cautious buyers and a notable absence of major bookings. Mills are currently less inclined towards imports, preferring to rely on alternative raw materials. Indicative offers for UK shredded material were observed in the range of US$358-362/t CFR Nhava Sheva, while Australian shredded was quoted at US$354-355/t CFR. West African HMS 80:20 hovered around US$334-335/t CFR, with UK busheling commanding a higher premium at US$370-372/t CFR, reflecting its prime quality.
 
-cautious buyers and a notable absence of major bookings. Mills are currently less inclined towards imports, preferring to rely on alternative raw materials. Indicative offers for UK shredded material were observed in the range of US$358-362/t CFR Nhava Sheva, while Australian shredded was quoted at US$354-355/t CFR. West African HMS 80:20 hovered around US$334-335/t CFR, with UK busheling commanding a higher premium at US$370-372/t CFR, reflecting its prime quality.
-
-**Bangladesh: Bangladesh's ferrous scrap market largely stayed muted, with trading**
-
-almost at a standstill. Mills refrained from actively engaging suppliers, even as some freight costs eased, leading to a persistent gap between bids and offers. Buyers were
+Bangladesh: Bangladesh's ferrous scrap market largely stayed muted, with trading almost at a standstill. Mills refrained from actively engaging suppliers, even as some freight costs eased, leading to a persistent gap between bids and offers. Buyers were
 
 ## Page 17
 

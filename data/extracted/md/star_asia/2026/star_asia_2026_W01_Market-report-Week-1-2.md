@@ -86,15 +86,37 @@ The Suezmax market began the year on a downward trend. Significant corrections w
 
 ## Page 6
 
-Aframax:
+# Aframax:
 
 The Aframax market faced downward pressure across major routes, with USG/UKC rates falling to US$55,000's range a day and closing at WS221 while Caribbean/USG trips slid to US$59,200's a day. While the immediate outlook suggests a minor correction due to quiet mid-January activity, the US market is expected to draw away excess tonnage and help stabilise sentiment.
 
-Clean:
+# Clean:
 
-LR: In the MEG, rates saw improvement this week with LR2 trips to MEG/Japan (TC1) climbing 12 points to WS180. Similarly, LR1 also ended the week on a positive tune with TC5 gaining ground to close at WS190. MR: The positive sentiments were not shared in the MR with the segment seeing a dip in rates on the MEG route. TC17 to E. Africa fell to WS240, losing over 12 points. In the Atlantic however, rates soared with the recent geopolitical news in the region as ball was firmly in the owners' courts with USG/UKC climbing to WS201 mark.
+LR: In the MEG, rates saw improvement this week with LR2 trips to MEG/Japan (TC1) climbing 12 points to WS180. Similarly, LR1 also ended the week on a positive tune with TC5 gaining ground to close at WS190.
+
+MR: The positive sentiments were not shared in the MR with the segment seeing a dip in rates on the MEG route. TC17 to E. Africa fell to WS240, losing over 12 points. In the Atlantic however, rates soared with the recent geopolitical news in the region as ball was firmly in the owners' courts with USG/UKC climbing to WS201 mark.
 
 ## Baltic Exchange Tanker Indices
+
+| INDICES | CURRENT | LAST WEEK | LAST YEAR | W-O-W CHANGE | Y-O-Y CHANGE |
+| --- | --- | --- | --- | --- | --- |
+| BDTI | 1,211 | 1,319 | 799 | -8.19% | +51.56% |
+| BCTI | 709 | 757 | 606 | -6.34% | +17.00% |
+
+# Tankers Values
+
+(Weekly)
+
+| TYPE | DWT | NB CONTRACT | NB PROMPT DELIVERY | 5 YEARS | 10 YEARS | 15 YEARS |
+| --- | --- | --- | --- | --- | --- | --- |
+| VLCC | 310,000 | 126 | 147 | 116 (E) | 85(E) | 51 |
+| SUEZMAX | 160,000 | 86 | 93 | 77 (E) | 61 (E) | 40 |
+| AFRAMAX | 115,000 | 75 | 75 | 64 (E) | 50 (E) | 35 |
+| LR1 | 73,000 | 60 | 62 | 51 (E) | 42 (E) | 25 |
+| MR | 51,000 | 49 | 52 | 41 (E) | 31 (E) | 21 |
+| *(amount in USD million) ÷ (€) = eco units | *(amount in USD million) ÷ (€) = eco units | *(amount in USD million) ÷ (€) = eco units | *(amount in USD million) ÷ (€) = eco units | *(amount in USD million) ÷ (€) = eco units | *(amount in USD million) ÷ (€) = eco units | *(amount in USD million) ÷ (€) = eco units |
+
+*(amount in USD million) | (E) – eco units
 
 ## Page 7
 
@@ -169,43 +191,69 @@ The Indian ship recycling sector started the year in a notable resurgence, as a 
 
 ## Page 14
 
-Chattogram
+Anchorage & Beaching Position (JANUARY 2026)
 
-Bangladesh has contended with a challenging start to 2026, as the market struggles to regain its footing following a significant price correction from the peaks seen late last year. Local buyers in Chattogram find themselves in a period of relative stagnation, with bidding levels currently trailing behind regional competitors and internal demand remaining subdued amid broader economic and political uncertainties. Despite the temporary lull in vessel arrivals, the long-term outlook remains tied to the upgradation of facilities and a potential stabilisation of the geopolitical landscape, which could eventually re-ignite the demand for tonnage. Current indicative offers for recycling tonnages sit at US$380/LDT for bulkers and US$410/LDT for containers, as the industry adopts a "wait-and-see" approach ahead of upcoming national elections.
+| VESSEL NAME | TYPE | LDT | ARRIVAL | BEACHING |
+| --- | --- | --- | --- | --- |
+| EMANO 11 | GENERAL CARGO | 2,556 | 02.01.2026 | AWAITING |
+| BODHI | TANKER | 16,294 | 09.01.2026 | AWAITING |
 
-Gadani
+# Chattogram
 
-The Pakistani ship recycling market entered 2026 with a renewed sense of purpose, highlighted by the historic inauguration of the country's first HKC-certified recycling facility at Gadani this January. While domestic recyclers are closely monitoring a slight uptick in global scrap values, the local steel sector has been active in urging the government to address the competitive pressure from duty-free imports entering through the northern borders. Despite these
+Bangladesh has contended with a challenging start to 2026, as the market struggles to regain its footing following a significant price correction from the peaks seen late last year. Local buyers in Chattogram find themselves in a period of relative stagnation, with bidding levels currently trailing behind regional competitors and internal demand remaining subdued amid broader economic and political uncertainties.
+
+Despite the temporary lull in vessel arrivals, the long-term outlook remains tied to the upgradation of facilities and a potential stabilisation of the geopolitical landscape, which could eventually re-ignite the demand for tonnage. Current indicative offers for recycling tonnages sit at US$380/LDT for bulkers and US$410/LDT for containers, as the industry adopts a "wait-and-see" approach ahead of upcoming national elections.
+
+Anchorage & Beaching Position (JANUARY 2026)
+
+| VESSEL NAME | TYPE | LDT | ARRIVAL | BEACHING |
+| --- | --- | --- | --- | --- |
+| VIGO | TANKER | 17,740 | 07.07.2026 | AWAITING |
+| GOLD ORIGIN | GENERAL CARGO | 2,485 | 02.01.2025 | 07.01.2025 |
+| VICTOR | BULKER | 6,086 | 02.01.2025 | 07.01.2026 |
+
+# Gadani
+
+The Pakistani ship recycling market entered 2026 with a renewed sense of purpose, highlighted by the historic inauguration of the country's first HKC-certified recycling facility at Gadani this January.
+
+While domestic recyclers are closely monitoring a slight uptick in global scrap values, the local steel sector has been active in urging the government to address the competitive pressure from duty-free imports entering through the northern borders. Despite these
 
 ## Page 15
 
-trade-related concerns, the government's focus on modernising Gadani's infrastructure suggests that Pakistan is positioning itself to be a far more competitive and sustainable destination for global tonnage in the coming months.
+trade-related concerns, the government’s focus on modernising Gadani’s infrastructure suggests that Pakistan is positioning itself to be a far more competitive and sustainable destination for global tonnage in the coming months.
 
-Aliaga, Turkiye
+Anchorage & Beaching Position (JANUARY 2026)
+
+| VESSEL NAME | TYPE | LDT | ARRIVAL | BEACHING |
+| --- | --- | --- | --- | --- |
+| - | - | - | - | - |
+
+# Aliaga, Turkiye
 
 Aliaga remains a secondary destination in terms of pricing compared to the subcontinent, with current levels holding at US$270/LDT for bulkers and US$290/LDT for containers, primarily serving regional owners and compliance-focused tonnage.
 
----
+# BEACHING TIDE DATES 2026
 
-Chattogram, Bangladesh : 3 ~ 6 January | 20 ~ 23 January Alang, India : 1 ~ 8 January | 17 ~ 24 January
+Chattogram, Bangladesh : 3 ~ 6 January | 20 ~ 23 January
 
----
+Alang, India
 
-BUNKER PRICES (USD/ton)
+: 1 ~ 8 January | 17 ~ 24 January
 
-PORTS VLSFO (0.5%) HSFO (3.5%) MGO (0.1%)
+#### BUNKER PRICES (USD/ton)
 
+| PORTS | VLSFO (0.5%) | HSFO (3.5%) | MGO (0.1%) |
+| --- | --- | --- | --- |
 | SINGAPORE | 422 | 357 | 601 |
-|---|---|---|---|
 | HONG KONG | 436 | 392 | 622 |
 | FUJAIRAH | 420 | 333 | 714 |
 | ROTTERDAM | 407 | 354 | 621 |
 | HOUSTON | 417 | 344 | 602 |
 
-EXCHANGE RATES
+#### EXCHANGE RATES
 
 | CURRENCY | January 9 | December 30 | W-O-W % CHANGE |
-|---|---|---|---|
+| --- | --- | --- | --- |
 | USD / CNY (CHINA) | 6.98 | 7.00 | +0.29% |
 | USD / BDT (BANGLADESH) | 122.35 | 122.32 | -0.02% |
 | USD / INR (INDIA) | 90.16 | 89.88 | -0.31% |

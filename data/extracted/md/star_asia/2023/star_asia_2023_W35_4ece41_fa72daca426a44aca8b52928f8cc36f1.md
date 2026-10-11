@@ -42,48 +42,39 @@ In the Atlantic, there is ample cargo influx compared to ships across major ship
 
 ## Page 3
 
-VESSEL NAME SANTA LUCIA XIN WANG HAI ALAM KEKAL ANNA IVS HAYAKITA / IVS BOSCH HOEK TASMAN SPIRIT
+# Dry Bulk – S&P Report
 
-TYPE CAPE
+| VESSEL NAME | TYPE | DWT | YEAR | BUILT | PRICE (MILLION) USD | COMMENTS / BUYERS |
+| --- | --- | --- | --- | --- | --- | --- |
+| SANTA LUCIA | CAPE | 176,760 | 2006 | JAPAN | 16.05 | BEKS |
+| XIN WANG HAI | CAPE | 174,732 | 2003 | CHINA | 12.8 | CHINESE BUYERS |
+| ALAM KEKAL | KMAX | 82,079 | 2018 | JAPAN | 31.8 | UNDISCLOSED |
+| ANNA | PMAX | 75,162 | 2002 | JAPAN | 10.0 | VIETNAMESE BUYERS |
+| IVS HAYAKITA / IVS BOSCH HOEK | UMAX | 60,402 / 60,269 | 2016 / 2015 | JAPAN | 46.5 EN BLOC | EASTMED |
+| TASMAN SPIRIT | HANDY | 35,256 | 2010 | CHINA | 9.5 | CHINESE BUYERS |
 
-KAMSARMAX SUPRAMAX HANDY
+# Dry Bulk Values
 
-*\*(amount in USD million)*
+### (Weekly)
 
-INDICES
+| TYPE | DWT | NB CONTRACT | NB PROMPT DELIVERY | 5 YEARS | 10 YEARS | 15 YEARS |
+| --- | --- | --- | --- | --- | --- | --- |
+| CAPE | 180,000 | 64 | 60 | 47 | 28 | 13 |
+| KAMSARMAX | 82,000 | 35 | 37 | 31 | 21 | 9 |
+| SUPRAMAX | 56,000 | 33 | 34 | 27 | 17 | 7 |
+| HANDY | 38,000 | 30 | 31 | 24 | 16 | 6 |
 
-BDI BCI BPI BSI BHSI
+*(amount in USD million)
 
-## Dry Bulk - S&P Report
+# Baltic Exchange Dry Bulk Indices
 
-TYPE DWT YEAR BUILT PRICE (MILLION) USD
-
-| CAPE | 176,760 | 2006 | JAPAN | 16.05 |
-|---|---|---|---|---|
-| CAPE | 174,732 | 2003 | CHINA | 12.8 |
-| KMAX | 82,079 | 2018 | JAPAN | 31.8 |
-| PMAX | 75,162 | 2002 | JAPAN | 10.0 |
-| UMAX | 60,402 / | 2016 / | JAPAN | 46.5 EN BLOC |
-|  | 60,269 | 2015 |  |  |
-| HANDY | 35,256 | 2010 | CHINA | 9.5 |
-
-Dry Bulk Values
-
-(Weekly)
-
-DWT NB CONTRACT NB PROMPT 5 YEARS 10 YEARS DELIVERY
-
-| 180,000 | 64 | 60 | 47 |
-|---|---|---|---|
-| 82,000 | 35 | 37 | 31 |
-| 56,000 | 33 | 34 | 27 |
-| 38,000 | 30 | 31 | 24 |
-
-COMMENTS / BUYERS BEKS CHINESE BUYERS UNDISCLOSED VIETNAMESE BUYERS EASTMED CHINESE BUYERS
-
-15 YEARS 28 13 21 9 17 7 16 6
-
-Y-O-Y CHANGE +0.74% +53.21% +19.67% -37.78% -39.70%
+| INDICES | CURRENT | LAST WEEK | LAST YEAR | W-O-W CHANGE | Y-O-Y CHANGE |
+| --- | --- | --- | --- | --- | --- |
+| BDI | 1,094 | 1,080 | 1,086 | +1.30% | +0.74% |
+| BCI | 1,123 | 1,174 | 733 | -4.34% | +53.21% |
+| BPI | 1,521 | 1,449 | 1,271 | +4.97% | +19.67% |
+| BSI | 942 | 908 | 1,514 | +3.74% | -37.78% |
+| BHSI | 524 | 507 | 869 | +3.35% | -39.70% |
 
 ## Page 4
 
@@ -237,16 +228,33 @@ Amid a slow global economic outlook and more favourable conditions in the Indian
 
 In the recycling market, there is an air of optimism, as markets saw a consistent climb in levels this week. A lot more offers this week were for delivery in Alang.
 
-Anchorage & Beaching Position (August 2023)
+# Anchorage & Beaching Position (August 2023)
 
 | VESSEL NAME | TYPE | LDT | ARRIVAL | BEACHING |
-|---|---|---|---|---|
+| --- | --- | --- | --- | --- |
 | SINOKOR AKITA | CONTAINER | 4,672 | 29.08.2023 | AWAITING |
 | ONE HAPPY | BULKER | 7,726 | 01.09.2023 | AWAITING |
 
-Chattogram, Bangladesh
+# Chattogram, Bangladesh
 
-It was another quiet week in Chattogram, with India taking the driver's seat. The market saw week-on-week demand decline, with many end buyers holding on to a 'wait and see' approach around buying. There was only one recorded sale for delivery to the region at closing. Bangladeshi banks are taking steps to establish a consistent exchange rate for the U.S. dollar starting next week, aiming to eliminate the multiple rates that have contributed to foreign currency instability. This move aligns with the conditions set by the International Monetary Fund for a US$4.5 billion loan and the central bank's desire to adopt a marketbased exchange rate. As part of this decision, banks will purchase the U.S. dollar at Tk 109.50 and sell it at Tk 110 from the beginning of the upcoming workweek. The Bangladesh Foreign Exchange Dealers Association (BAFEDA) and the Association of Bankers, Bangladesh (ABB) jointly determined this single exchange rate during a virtual meeting attended by their leaders and Bangladesh Bank Chief Economist.
+It was another quiet week in Chattogram, with India taking the driver's seat.
+
+The market saw week-on-week demand decline, with many end buyers holding on to a 'wait and see' approach around buying. There was only one recorded sale for delivery to the region at closing.
+
+Bangladeshi banks are taking steps to establish a consistent exchange rate for the U.S. dollar starting next week, aiming to eliminate the multiple rates that have contributed to foreign currency instability. This move aligns with the conditions set by the International Monetary Fund for a US$4.5 billion loan and the central bank's desire to adopt a market-based exchange rate. As part of this decision, banks will purchase the U.S. dollar at Tk 109.50 and sell it at Tk 110 from the beginning of the upcoming workweek.
+
+The Bangladesh Foreign Exchange Dealers Association (BAFEDA) and the Association of Bankers, Bangladesh (ABB) jointly determined this single exchange rate during a virtual meeting attended by their leaders and Bangladesh Bank Chief Economist.
+
+# Anchorage & Beaching Position (August 2023)
+
+| VESSEL NAME | TYPE | LDT | ARRIVAL | BEACHING |
+| --- | --- | --- | --- | --- |
+| LAUREN OCEAN | BULKER | 8,400 | 31.08.2023 | AWAITING |
+| FINE STAR | BULKER | 9,859 | 31.08.2023 | AWAITING |
+| YUAN TU | BULKER | 3,494.60 | 31.08.2023 | AWAITING |
+| OCEAN SUCCESS | BULKER | 10,163 | 31.08.2023 | AWAITING |
+| JABAL ALI 5 | RORO | 5,965 | 30.08.2023 | AWAITING |
+| HARMONIA | WOOD CC | 9,737 | 30.08.2023 | AWAITING |
 
 ## Page 13
 
@@ -266,29 +274,32 @@ Turkey's President Recep Tayyip Erdogan announced plans for a meeting with Russi
 
 ## Page 14
 
-Despite ongoing tensions surrounding Russia's actions in Ukraine, President Erdogan aims to prevent a global food crisis through diplomacy. The meeting is expected to take place in Sochi next week before Erdogan attends the G20 summit in India. The expired Black Sea Grain Deal Initiative, which led to rising global food prices after Moscow's non-renewal, will likely be a key topic of discussion. Meanwhile, activity in the Turkish scrap market is slow as both suppliers and buyers are not in a rush to make deals. Short-term expectations differ between the two sides. Suppliers and buyers feel no immediate pressure, and the market is expected to remain firm until demand picks up again. Some suppliers anticipate a possible correction in the medium term, possibly by the end of October or November, given the importance of Turkey's steel sales for the scrap market.
+Despite ongoing tensions surrounding Russia's actions in Ukraine, President Erdogan aims to prevent a global food crisis through diplomacy.
 
----
+The meeting is expected to take place in Sochi next week before Erdogan attends the G20 summit in India. The expired Black Sea Grain Deal Initiative, which led to rising global food prices after Moscow's non-renewal, will likely be a key topic of discussion.
 
-Chattogram, Bangladesh : 14 ~ 17 September | 28 ~ 30 September Alang, India : 28 August ~ 06 September | 14 ~ 21 September
+Meanwhile, activity in the Turkish scrap market is slow as both suppliers and buyers are not in a rush to make deals. Short-term expectations differ between the two sides. Suppliers and buyers feel no immediate pressure, and the market is expected to remain firm until demand picks up again. Some suppliers anticipate a possible correction in the medium term, possibly by the end of October or November, given the importance of Turkey's steel sales for the scrap market.
 
----
+BEACHING TIDE DATES 2023
 
-BUNKER PRICES (USD/TON)
+Chattogram, Bangladesh : 14 ~ 17 September | 28 ~ 30 September
 
-PORTS VLSFO (0.5%) IFO380 CST MGO (0.1%)
+Alang, India : 28 August ~ 06 September | 14 ~ 21 September
 
+#### BUNKER PRICES (USD/TON)
+
+| PORTS | VLSFO (0.5%) | IFO380 CST | MGO (0.1%) |
+| --- | --- | --- | --- |
 | SINGAPORE | 637 | 533 | 907 |
-|---|---|---|---|
 | HONG KONG | 687 | 561 | 951 |
 | FUJAIRAH | 631 | 524 | 948 |
 | ROTTERDAM | 599 | 550 | 902 |
 | HOUSTON | 644 | 546 | 948 |
 
-EXCHANGE RATES
+#### EXCHANGE RATES
 
-| CURRENCY | 1st SEPTEMBER | 25th AUGUST | W-O-W % CHANGE |
-|---|---|---|---|
+| CURRENCY | 1 st SEPTEMBER | 25 th AUGUST | W-O-W % CHANGE |
+| --- | --- | --- | --- |
 | USD / CNY (CHINA) | 7.26 | 7.28 | +0.27% |
 | USD / BDT (BANGLADESH) | 109.41 | 109.22 | -0.17% |
 | USD / INR (INDIA) | 82.76 | 82.64 | -0.15% |

@@ -107,11 +107,41 @@ It was a quiet week in the Aframax market, with many regions seeing muted activi
 
 ## Page 6
 
-Clean:
+#### Clean:
 
-LR: LR2 in the MEG saw a sharp reversal in its recent fortunes. After a period of robust chartering demand, activity has abruptly declined, leading to a downturn in rates. MEG/ Far East seen a significant drop to WS135. In the LR1 segment, UKC also witnessed some softening with TC16 falling to WS1355 also. MR: In the Middle East, rates have generally softened, while Asian markets have remained steady or even firmed up. TC17 hovers around WS205 for the third consecutive week. This stability contrasts sharply with the more volatile UKC market.
+LR: LR2 in the MEG saw a sharp reversal in its recent fortunes. After a period of robust chartering demand, activity has abruptly declined, leading to a downturn in rates. MEG/ Far East seen a significant drop to WS135. In the LR1 segment, UKC also witnessed some softening with TC16 falling to WS1355 also.
+
+MR: In the Middle East, rates have generally softened, while Asian markets have remained steady or even firmed up. TC17 hovers around WS205 for the third consecutive week. This stability contrasts sharply with the more volatile UKC market.
 
 ## Baltic Exchange Tanker Indices
+
+| INDICES | CURRENT | LAST WEEK | LAST YEAR | W-O-W CHANGE | Y-O-Y CHANGE |
+| --- | --- | --- | --- | --- | --- |
+| BDTI | 936 | 922 | 809 | -1.52% | +15.70% |
+| BCTI | 625 | 622 | 750 | +0.48% | -16.67% |
+
+# Tankers Values
+(Weekly)
+
+| TYPE | DWT | NB CONTRACT | NB PROMPT DELIVERY | 5 YEARS | 10 YEARS | 15 YEARS |
+| --- | --- | --- | --- | --- | --- | --- |
+| VLCC | 310,000 | 129 | 145 | 115 | 85 | 58 |
+| SUEZMAX | 160,000 | 90 | 99 | 83 | 68 | 50 |
+| AFRAMAX | 115,000 | 75 | 86 | 72 | 62 | 44 |
+| LR1 | 73,000 | 62 | 65 | 55 | 45 | 32 |
+| MR | 51,000 | 52 | 55 | 47 | 40 | 28 |
+
+* (amount in USD million)
+
+### Tanker 12 months T/C rates average (in USD/day)
+
+| TYPE | DWT | CURRENT | LAST WEEK | LAST YEAR | W-O-W CHANGE | Y-O-Y CHANGE |
+| --- | --- | --- | --- | --- | --- | --- |
+| VLCC | 310,000 | 45,750 | 45,750 | 41,000 | 0 | +11.59% |
+| SUEZMAX | 150,000 | 40,500 | 40,000 | 39,500 | 0 | +2.53% |
+| AFRAMAX | 110,000 | 43,250 | 43,750 | 38,500 | 0 | +12.34% |
+| LR1 | 74,000 | 37,000 | 37,000 | 28,250 | 0 | +30.97% |
+| MR | 47,000 | 28,500 | 29,250 | 25,500 | -2.56% | +11.76% |
 
 ## Tankers S&P Report
 
@@ -206,9 +236,38 @@ Once this policy is passed in the cabinet, it may be a positive sign for the Ala
 
 ## Page 15
 
-Chattogram, Bangladesh
+# Anchorage & Beaching Position (August 2024)
 
-The market remains gripped by fear, uncertainty, and chaos, fueled by weak demand and political turmoil. Until the interim government stabilises and restores business confidence, the industry is expected to remain cautious. In Bangladesh, recent political developments have further complicated the situation, leaving local authorities, particularly environmental agencies, banks in disarray. This confusion has led to delays in issuing permits for shipbreaking, delaying the clearance of newly arrived vessels. Despite these challenges, a few ships sold prior to the current turmoil have managed to navigate through the bureaucratic hurdles. Industry participants believe it's only a matter of time before the situation stabilises, at which point recyclers are expected to resume buying activity. For now, the market remains in a holding pattern, awaiting clarity and a return to normalcy.
+| VESSEL NAME | TYPE | LDT | ARRIVAL | BEACHING |
+| --- | --- | --- | --- | --- |
+| OSSORA | FISHING | 951 | 16.08.2024 | AWAITING |
+| RUDA | GENERAL CARGO | 5,728 | 14.08.2024 | AWAITING |
+| TWEEDIA | REEFER | 3,064 | 14.08.2024 | AWAITING |
+| TROPICAL SKY | REEFER | 5,358 | 05.08.2024 | 10.08.2024 |
+| MERSIN 15 | RORO | 5,280 | 23.07.2024 | 09.08.2024 |
+| MSC ANNAMARIA | CONTAINER | 8,807 | 06.08.2024 | 08.08.2024 |
+| SOVEREIGIN | LNG | 30,120 | 01.08.2024 | 04.08.2024 |
+| MSC IRIS | CONTAINER | 10,655 | 03.08.2024 | 03.04.2024 |
+
+# Chattogram, Bangladesh
+
+The market remains gripped by fear, uncertainty, and chaos, fueled by weak demand and political turmoil. Until the interim government stabilises and restores business confidence, the industry is expected to remain cautious.
+
+In Bangladesh, recent political developments have further complicated the situation, leaving local authorities, particularly environmental agencies, banks in disarray. This confusion has led to delays in issuing permits for shipbreaking, delaying the clearance of newly arrived vessels. Despite these challenges, a few ships sold prior to the current turmoil have managed to navigate through the bureaucratic hurdles.
+
+Industry participants believe it's only a matter of time before the situation stabilises, at which point recyclers are expected to resume buying activity. For now, the market remains in a holding pattern, awaiting clarity and a return to normalcy.
+
+# Anchorage & Beaching Position (August 2024)
+
+| VESSEL NAME | TYPE | LDT | ARRIVAL | BEACHING |
+| --- | --- | --- | --- | --- |
+| INDU | TANKER | 16,696 | 11.08.2024 | AWAITING |
+| HAI 351 | BULKER | 4,351 | 11.08.2024 | AWAITING |
+| MING JIN 1 | BULKER | 3,277 | 07.08.2024 | 14.08.2024 |
+| AN 11 | GEN.CARGO | 1,632 | 30.07.2024 | 07.08.2024 |
+| AN TON | REEFER | 4,842 | 30.07.2024 | 06.08.2024 |
+| APJ MAHAKALI | BULKER | 9,126 | 25.07.2024 | 04.08.2024 |
+| SIA 20 | CONTAINER | 1,747 | 20.07.2024 | 03.08.2024 |
 
 ## Page 16
 
@@ -222,25 +281,27 @@ Aliaga, Turkey
 
 ## Page 17
 
-Chattogram, Bangladesh : 19 ~ 22 August | 2 ~ 5 September Alang, India : 17 ~ 26 August | 31 August ~ 6 September
+In a surprising move, Turkey's Central Bank reduced its interest rate from 18% to 16%, a decision that caught analysts off guard and sparked concerns about the bank's independence. The rate cut led to a further weakening of the Turkish lira, which fell to 9.45 against the US dollar, deepening its ongoing depreciation. With inflation nearing 20%, this decision is likely to be seen by many as an indication of growing government influence over the Central Bank, raising alarm bells among market observers.
 
----
+# BEACHING TIDE DATES 2024
 
-BUNKER PRICES (USD/TON)
+Chattogram, Bangladesh: 19 ~ 22 August | 2 ~ 5 September
+Alang, India: 17 ~ 26 August | 31 August ~ 6 September
 
-PORTS VLSFO (0.5%) HSFO (3.5%) MGO (0.1%)
+#### BUNKER PRICES (USD/TON)
 
+| PORTS | VLSFO (0.5%) | HSFO (3.5%) | MGO (0.1%) |
+| --- | --- | --- | --- |
 | SINGAPORE | 589 | 476 | 688 |
-|---|---|---|---|
 | HONG KONG | 593 | 491 | 702 |
 | FUJAIRAH | 591 | 480 | 802 |
 | ROTTERDAM | 537 | 446 | 683 |
 | HOUSTON | 561 | 472 | 708 |
 
-EXCHANGE RATES
+#### EXCHANGE RATES
 
 | CURRENCY | August 16 | August 9 | W-O-W % CHANGE |
-|---|---|---|---|
+| --- | --- | --- | --- |
 | USD / CNY (CHINA) | 7.16 | 7.16 | 0 |
 | USD / BDT (BANGLADESH) | 117.98 | 117.61 | -0.31% |
 | USD / INR (INDIA) | 83.87 | 83.95 | +0.10% |
@@ -275,27 +336,37 @@ industrial output grew by 5.1% in July, a slight dip from June's 5.3%. Retail sa
 
 ## Page 20
 
+indicated that current conditions could be more severe and prolonged than the downturns of 2008 and 2015. While data suggested a slight easing in the decline of home prices in July, with new home prices in 70 cities falling by 0.65%, down from a 0.67% drop the previous month, the news provided little relief to the market.
+
 ### Iron Ore
 
-| COMMODITY (USD/MT) | GRADE |
-| --- | --- |
-| Iron Ore Fines, CNF Rizhao, China | Fines, Fe 62% (Aust. Origin) 94 -6% -19.65% 100 117 Iron Ore Fines, CNF Qingdao, China Fines, Fe 62.5% (Brazil Origin) 95 -6.82% -7.76% 102 103 INDEX UNITS PRICE CHANGE %CHANGE CONTRACT Copper (Comex) USD / lb. 418.10 +0.50 +0.12% Dec 2024 3Mo Copper (L.M.E.) USD / MT 9,115.50 -33.00 -0.36% N/A 3Mo Aluminum (L.M.E.) USD / MT 2,365.50 +2.00 +0.08% N/A 3Mo Zinc (L.M.E.) USD / MT 2,762.50 -19.50 -0.70% N/A 3Mo Tin (L.M.E.) USD / MT 31,903.00 -65.00 -0.20% N/A INDEX UNITS PRICE CHANGE %CHANGE CONTRACT WTI Crude Oil (Nymex) USD / bbl. 76.65 -1.51 -1.93% Sep 2024 Brent Crude (ICE.) USD / bbl. 79.68 -1.36 -1.68% Oct 2024 Crude Oil (Tokyo) J.P.Y. / kl 73,150.00 +600.00 +0.83% Aug 2024 Natural Gas (Nymex) USD / MMBtu 2.12 -0.07 -3.37% Sep 2024 |
+| COMMODITY | SIZE / GRADE | THIS WEEK USD / MT | W-O-W | Y-O-Y | LAST WEEK USD / MT | LAST YEAR USD / MT |
+| --- | --- | --- | --- | --- | --- | --- |
+| Iron Ore Fines, CNF Rizhao, China | Fines, Fe 62% (Aust. Origin) | 94 | -6% | -19.65% | 100 | 117 |
+| Iron Ore Fines, CNF Qingdao, China | Fines, Fe 62.5% (Brazil Origin) | 95 | -6.82% | -7.76% | 102 | 103 |
 
 ### Industrial Metal Rates
 
-| INDEX | UNITS | PRICE | CHANGE | % CHANGE | CONTRACT |
-| :--- | :--- | :---: | :---: | :---: | :---: |
+| INDEX | UNITS | PRICE | CHANGE | %CHANGE | CONTRACT |
+| --- | --- | --- | --- | --- | --- |
 | Copper (Comex) | USD / lb. | 418.10 | +0.50 | +0.12% | Dec 2024 |
 | 3Mo Copper (L.M.E.) | USD / MT | 9,115.50 | -33.00 | -0.36% | N/A |
 | 3Mo Aluminum (L.M.E.) | USD / MT | 2,365.50 | +2.00 | +0.08% | N/A |
 | 3Mo Zinc (L.M.E.) | USD / MT | 2,762.50 | -19.50 | -0.70% | N/A |
 | 3Mo Tin (L.M.E.) | USD / MT | 31,903.00 | -65.00 | -0.20% | N/A |
 
-### Crude Oil & Natural Gas
+# Crude Oil & Natural Gas Rates
 
-| INDEX | UNITS | PRICE | CHANGE | % CHANGE | CONTRACT |
-| :--- | :--- | :---: | :---: | :---: | :---: |
+| INDEX | UNITS | PRICE | CHANGE | %CHANGE | CONTRACT |
+| --- | --- | --- | --- | --- | --- |
 | WTI Crude Oil (Nymex) | USD / bbl. | 76.65 | -1.51 | -1.93% | Sep 2024 |
 | Brent Crude (ICE.) | USD / bbl. | 79.68 | -1.36 | -1.68% | Oct 2024 |
 | Crude Oil (Tokyo) | J.P.Y. / kl | 73,150.00 | +600.00 | +0.83% | Aug 2024 |
 | Natural Gas (Nymex) | USD / MMBtu | 2.12 | -0.07 | -3.37% | Sep 2024 |
+
+Note: all rates as at C.O.B. London time August 16, 2024
+
+#### Singapore | London | Dubai
+
+*This report is performed to the best of our knowledge based on the market conditions prevailing at the time mentioned. The report relates solely to the date/place referred to, and we emphasise that it is a statement of information collected from various market sources. All details above are from information given to us and such information as we have obtained from relevant references in our possession. Still, we can accept no responsibility, and we bear no liability for any loss or damage incurred to any person acting upon this report. STAR ASIA believes the information to be accurate and given in good faith but without guarantee. STAR ASIA will not be held responsible in any way for any action or failure to act based on the information given in this report. The use of the report cannot be reproduced or used without authorisation from STAR ASIA.*
+

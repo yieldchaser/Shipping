@@ -92,9 +92,24 @@ BALTIC EXCHANGE DRY BULK INDICES
 
 ## Page 4
 
+#### BULKER 12 MONTHS T/C RATES AVERAGE (IN USD/DAY)
+
+|  | DWT | CURRENT | LAST WEEK | LAST YEAR | W-O-W CHANGE % | Y-O-Y CHANGE % |
+| --- | --- | --- | --- | --- | --- | --- |
+| CAPE | 180,000 | 15,500 | 14,350 | 26,500 | +8.01% | -41.51% |
+| PANAMAX | 75,000 | 14,500 | 13,200 | 25,000 | +9.85% | -42.00% |
+| SUPRAMAX | 52,000 | 14,750 | 12,750 | 25,500 | +15.69% | -42.16% |
+| HANDYSIZE | 32,000 | 11,000 | 10,150 | 23,375 | +8.37% | -52.94% |
+
+# Dry Bulk 1 year T/C rates
+
 ## Tankers
 
-China's foreign ministry has expressed deep concern about the escalating war in Ukraine during a recent official visit of Beijing's top diplomat, Wang Yi, to Moscow. China's foreign minister, Qin Gang, has urged relevant parties to stop adding fuel to the fire and urged for the provision of Chinese wisdom for the political settlement of the Ukrainian crisis. President Xi Jinping is planning to visit Moscow in the coming months to meet with his counterpart President Putin, as Beijing seeks to play a more active role in ending the conflict. China has vowed to stay firm on the side of peace and dialogue, with Xi's visit considered a huge symbol of China's partnership with Russia. Meanwhile, oil prices rose slightly in thin Asian trade on Thursday, with WTI pausing from a sixday losing streak fed by mounting concerns that more aggressive interest rate increases by central banks could pressure economic growth and fuel demand. China's unexpected shift from its strict zero covid policy at the end of 2022 has led to projected strong growth in fuel demand in 2023, particularly for crude imports and refined product
+China's foreign ministry has expressed deep concern about the escalating war in Ukraine during a recent official visit of Beijing's top diplomat, Wang Yi, to Moscow. China's foreign minister, Qin Gang, has urged relevant parties to stop adding fuel to the fire and urged for the provision of Chinese wisdom for the political settlement of the Ukrainian crisis. President Xi Jinping is planning to visit Moscow in the coming months to meet with his counterpart President Putin, as Beijing seeks to play a more active role in ending the conflict. China has vowed to stay firm on the side of peace and dialogue, with Xi's visit considered a huge symbol of China's partnership with Russia.
+
+Meanwhile, oil prices rose slightly in thin Asian trade on Thursday, with WTI pausing from a six-day losing streak fed by mounting concerns that more aggressive interest rate increases by central banks could pressure economic growth and fuel demand.
+
+China's unexpected shift from its strict zero covid policy at the end of 2022 has led to projected strong growth in fuel demand in 2023, particularly for crude imports and refined product
 
 ## Page 5
 
@@ -202,34 +217,36 @@ Management at LimakPort Iskenderun, the Turkish container terminal, has stated t
 
 ## Ship Recycling Market Snapshot
 
-| DESTINATION | TANKERS | BULKERS | MPP/ GENERAL | CONTAINERS | SENTIMENTS / WEEKLY FUTURE |
-|---|---|---|---|---|---|
-| *For green ship recycling, the prices are about | 530 ~ 540 | 520 ~ 530 | 510 ~ 520 | 540 ~ 550 | STABLE / |
-| CHATTOGRAM, BANGLADESH | \*580 ~ 590 | \*560 ~ 570 | \*540 ~ 550 | \*590 ~ 600 | IMPROVING / |
+| DESTINATION | TANKERS | BULKERS | MPP/ GENERAL CARGO | CONTAINERS | SENTIMENTS / WEEKLY FUTURE TREND |
+| --- | --- | --- | --- | --- | --- |
+| ALANG (WC INDIA) *For green ship recycling, the prices are about US$25-30/ton lower. | 530 ~ 540 | 520 ~ 530 | 510 ~ 520 | 540 ~ 550 | STABLE / |
+| CHATTOGRAM, BANGLADESH | *580 ~ 590 | *560 ~ 570 | *540 ~ 550 | *590 ~ 600 | IMPROVING / |
 | GADDANI, PAKISTAN | NA | NA | NA | NA | NA |
-| TURKEY \*For Non-EU ships. For E.U. Ship, the prices are about US$30-40/ton less | 320 ~ 330 | 310 ~ 320 | 300 ~ 310 | 330 ~ 340 | STABLE / |
+| TURKEY *For Non-EU ships. For E.U. Ship, the prices are about US$30-40/ton less | 320 ~ 330 | 310 ~ 320 | 300 ~ 310 | 330 ~ 340 | STABLE / |
 
-- All prices are USD per light displacement tonnage in the long ton.
-- The prices reported are net prices offered by the recycling yards.
-- Prices quoted are basis simple Japanese / Korean-built tonnages trading units. Premiums are paid on top of the above- quoted prices based on quality & quality of Spares, Non-Fe., bunkers, cargo history, and maintenance.
-- \* Prices are based on the subject Letters of Credit opening and case-to-case buying.
+All prices are USD per light displacement tonnage in the long ton.
+
+The prices reported are net prices offered by the recycling yards.
+
+Prices quoted are basis simple Japanese / Korean-built tonnages trading units. Premiums are paid on top of the above-quoted prices based on quality & quality of Spares, Non-Fe., bunkers, cargo history, and maintenance.
+
+* Prices are based on the subject Letters of Credit opening and case-to-case buying.
 
 ## 5-Year Ship Recycling Average Historical Prices
 
 (Week 7)
 
-```text
-DESTINATION 2018 2019 2020 2021 2022
-ALANG, INDIA 460 440 400 435 615
-CHATTOGRAM, BANGLADESH 440 440 380 435 635
-GADDANI, PAKISTAN 420 420 370 410 610
-ALIAGA, TURKEY 290 270 240 245 340
-```
+| DESTINATION | 2018 | 2019 | 2020 | 2021 | 2022 |
+| --- | --- | --- | --- | --- | --- |
+| ALANG, INDIA | 460 | 440 | 400 | 435 | 615 |
+| CHATTOGRAM, BANGLADESH | 440 | 440 | 380 | 435 | 635 |
+| GADDANI, PAKISTAN | 420 | 420 | 370 | 410 | 610 |
+| ALIAGA, TURKEY | 290 | 270 | 240 | 245 | 340 |
 
 ## Ships Sold for Recycling
 
 | VESSEL NAME | LDT / MT | YEAR / BUILT | TYPE | PRICE (US$/LDT) | COMMENTS |
-|---|---|---|---|---|---|
+| --- | --- | --- | --- | --- | --- |
 | TAI FU NO.1 | 3,670 | 1979 / JAPAN | REEFER | UNDISCLOSED | AS IS BANGKOK |
 
 ## Page 10
@@ -313,15 +330,35 @@ As the Turkish government plans to reconstruct earthquake-hit cities within the 
 
 ## Page 14
 
-### Bunker Prices (USD / ton)
+# BEACHING TIDE DATES 2022
 
-| PORT | VLSFO (0.5%) | HSFO (3.5%) | MGO (0.1%) |
-| :--- | :---: | :---: | :---: |
+Chattogram, Bangladesh : 9th ~ 12th March | 21st ~ 24th March
+
+Alang, India : 7th ~ 13th March | 19th ~ 26th March
+
+# Bunker Prices
+
+#### BUNKER PRICES (USD/TON)
+
+| PORTS | VLSFO (0.5%) | IFO380 CST | MGO (0.1%) |
+| --- | --- | --- | --- |
 | SINGAPORE | 598 | 430 | 780 |
 | HONG KONG | 605 | 459 | 804 |
 | FUJAIRAH | 604 | 443 | 1109 |
 | ROTTERDAM | 564 | 408 | 770 |
 | HOUSTON | 612 | 410 | 782 |
+
+# Exchange Rates
+
+#### EXCHANGE RATES
+
+|  | 24th FEBRUARY | 17th FEBRUARY | W-O-W % CHANGE |
+| --- | --- | --- | --- |
+| USD / CNY (CHINA) | 6.94 | 6.86 | -1.17% |
+| USD / BDT (BANGLADESH) | 106.71 | 105.81 | -0.85% |
+| USD / INR (INDIA) | 82.91 | 82.81 | -0.12% |
+| USD / PKR (PAKISTAN) | 260.09 | 262.85 | +1.05% |
+| USD / TRY (TURKEY) | 18.88 | 18.82 | -0.32% |
 
 ## Page 15
 

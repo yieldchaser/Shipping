@@ -93,6 +93,17 @@ BALTIC EXCHANGE DRY BULK INDICES
 
 ## Page 4
 
+#### BULKER 12 MONTHS T/C RATES AVERAGE (IN USD/DAY)
+
+|  | DWT | CURRENT | LAST WEEK | LAST YEAR | W-O-W CHANGE % | Y-O-Y CHANGE % |
+| --- | --- | --- | --- | --- | --- | --- |
+| CAPE | 180,000 | 21,000 | 21,000 | 27,625 | 0 | -23.98% |
+| PANAMAX | 75,000 | 16,000 | 16,000 | 25,500 | 0 | -37.25% |
+| SUPRAMAX | 52,000 | 16,000 | 16,000 | 24,000 | 0 | -33.33% |
+| HANDYSIZE | 32,000 | 13,150 | 13,150 | 21,250 | 0 | -38.12% |
+
+# Dry Bulk 1 year T/C rates
+
 ## Page 5
 
 ## Tankers
@@ -154,6 +165,23 @@ Updates relating to the product tanker were notably more favorable when compared
 
 ## Baltic Exchange Tanker Indices
 
+#### BALTIC EXCHANGE TANKER INDICES
+
+|  | CURRENT | LAST WEEK | LAST YEAR | W-O-W CHANGE % | Y-O-Y CHANGE % |
+| --- | --- | --- | --- | --- | --- |
+| BDTI | 1,319 | 1,481 | 1,677 | -10.94% | -21.35% |
+| BCTI | 1,014 | 1,250 | 898 | -18.88% | +12.92% |
+
+#### TANKER 12 MONTHS T/C RATES AVERAGE (IN USD/DAY)
+
+| TYPE | DWT | CURRENT | LAST WEEK | LAST YEAR | W-O-W CHANGE | Y-O-Y CHANGE |
+| --- | --- | --- | --- | --- | --- | --- |
+| VLCC | 300,000 | 47,500 | 47,500 | 16,000 | 0 | +196.88% |
+| SUEZMAX | 150,000 | 44,250 | 44,250 | 18,500 | 0 | +139.19% |
+| AFRAMAX | 110,000 | 50,000 | 50,000 | 16,500 | 0 | +203.03% |
+| LR1 | 74,000 | 35,500 | 35,500 | 15,750 | 0 | +125.40% |
+| MR | 47,000 | 31,250 | 31,250 | 14,250 | 0 | +119.30% |
+
 ## Containers
 
 Optimistic demand forecasts and the anticipation of a better peak season are fueling a containership charter market rally. According to a recent survey by Container xChange, 48% of supply chain participants believe this year's peak season will be better than last year's, leading to a subdued rebound in demand. Container lines have returned to the charter market to increase their capacity, and activity in the market has remained high, with strong demand across the board. MSC and CMA CGM dominate the market, snapping up any available tonnage and buying second-hand container ships. As a result, daily hire rates are on the rise for all sizes, with owners demanding a minimum 12-month charter period as well as positioning compensation.
@@ -179,29 +207,31 @@ Optimistic demand forecasts and the anticipation of a better peak season are fue
 
 ## Ship Recycling Market Snapshot
 
-| DESTINATION | TANKERS | BULKERS | MPP/ GENERAL | CONTAINERS | SENTIMENTS / WEEKLY FUTURE |
-|---|---|---|---|---|---|
-| *For green ship recycling, the prices are about | 540 ~ 550 | 520 ~ 530 | 530 ~ 540 | 570 ~ 580 | WEAK / |
-| CHATTOGRAM, BANGLADESH | \*580 ~ 590 | \*560 ~ 570 | \*530 ~ 540 | \*600 ~ 610 | WEAK / |
+| DESTINATION | TANKERS | BULKERS | MPP/ GENERAL CARGO | CONTAINERS | SENTIMENTS / WEEKLY FUTURE TREND |
+| --- | --- | --- | --- | --- | --- |
+| ALANG (WC INDIA) *For green ship recycling, the prices are about US$25-30/ton lower. | 540 ~ 550 | 520 ~ 530 | 530 ~ 540 | 570 ~ 580 | WEAK / |
+| CHATTOGRAM, BANGLADESH | *580 ~ 590 | *560 ~ 570 | *530 ~ 540 | *600 ~ 610 | WEAK / |
 | GADDANI, PAKISTAN | NA | NA | NA | NA | NA |
-| TURKEY \*For Non-EU ships. For EU Ship, the prices are about US$30-40/ton less | 320 ~ 330 | 310 ~ 320 | 300 ~ 310 | 330 ~ 340 | STABLE / |
+| TURKEY *For Non-EU ships. For EU Ship, the prices are about US$30-40/ton less | 320 ~ 330 | 310 ~ 320 | 300 ~ 310 | 330 ~ 340 | STABLE / |
 
-- All prices are USD per light displacement tonnage in the long ton.
-- The prices reported are net prices offered by the recycling yards.
-- Prices quoted are basis simple Japanese / Korean-built tonnages trading units. Premiums are paid on top of the above- quoted prices based on quality & quality of Spares, Non-Fe., bunkers, cargo history, and maintenance.
-- \* Prices are based on the subject Letters of Credit opening and case-to-case buying.
+* All prices are USD per light displacement tonnage in the long ton.
+
+* The prices reported are net prices offered by the recycling yards.
+
+* Prices quoted are basis simple Japanese / Korean-built tonnages trading units. Premiums are paid on top of the above-quoted prices based on quality & quality of Spares, Non-Fe., bunkers, cargo history, and maintenance.
+
+* Prices are based on the subject Letters of Credit opening and case-to-case buying.
 
 #### 5-Year Ship Recycling Average Historical Prices
 
 (Week 14)
 
-```text
-DESTINATION 2018 2019 2020 2021 2022
-ALANG, INDIA 440 440 380 470 660
-CHATTOGRAM, BANGLADESH 460 445 350 480 670
-GADDANI, PAKISTAN 420 420 340 470 640
-ALIAGA, TURKEY 290 280 210 255 460
-```
+| DESTINATION | 2018 | 2019 | 2020 | 2021 | 2022 |
+| --- | --- | --- | --- | --- | --- |
+| ALANG, INDIA | 440 | 440 | 380 | 470 | 660 |
+| CHATTOGRAM, BANGLADESH | 460 | 445 | 350 | 480 | 670 |
+| GADDANI, PAKISTAN | 420 | 420 | 340 | 470 | 640 |
+| ALIAGA, TURKEY | 290 | 280 | 210 | 255 | 460 |
 
 ## Page 10
 
@@ -270,15 +300,39 @@ Turkish mills are refraining from buying scrap due to weak steel sales and beari
 
 ## Page 14
 
-### Bunker Prices (USD / ton)
+Weak sales are also pushing rebar prices down further, with stockists unable to replenish their inventories due to struggling to secure loans, while end-user demand remains absent. Traders revealed last week that there was a demand for rebar in Turkey, but this demand was not evident at the beginning of this week. It is clear that end-user demand is weak, but it is uncertain whether the cut in energy prices and the expectation of much lower offers are also contributing factors. Today, the offers for rebar in Iskenderun are around US$698. Mills will probably have to compromise their profit margins.
 
-| PORT | VLSFO (0.5%) | HSFO (3.5%) | MGO (0.1%) |
-| :--- | :---: | :---: | :---: |
+Market participants have mixed opinions on when Turkish mills will return to the market.
+
+# BEACHING TIDE DATES 2023
+
+Chattogram, Bangladesh : 6th ~ 9th April | 20th ~ 23rd April
+
+Alang, India : 6th ~ 12th April | 18th ~ 25th April
+
+# Bunker Prices
+
+#### BUNKER PRICES (USD/TON)
+
+| PORTS | VLSFO (0.5%) | IFO380 CST | MGO (0.1%) |
+| --- | --- | --- | --- |
 | SINGAPORE | 606 | 486 | 777 |
 | HONG KONG | 625 | 495 | 771 |
 | FUJAIRAH | 601 | 467 | 1067 |
 | ROTTERDAM | 588 | 468 | 779 |
 | HOUSTON | 607 | 459 | 809 |
+
+# Exchange Rates
+
+#### EXCHANGE RATES
+
+|  | 7th APRIL | 31st MARCH | W-O-W % CHANGE |
+| --- | --- | --- | --- |
+| USD / CNY (CHINA) | 6.87 | 6.87 | 0 |
+| USD / BDT (BANGLADESH) | 105.86 | 107.24 | +1.29% |
+| USD / INR (INDIA) | 81.87 | 82.22 | +0.43% |
+| USD / PKR (PAKISTAN) | 281.05 | 283.74 | +0.95% |
+| USD / TRY (TURKEY) | 19.25 | 19.18 | -0.36% |
 
 ## Page 15
 

@@ -194,28 +194,67 @@ The SCFI index rose to 2,985 points as June's FAK hikes, peak season surcharges,
 
 ## Page 10
 
-### Ship Recycling - Current Market Snapshot (USD / LDT)
+# SHIP RECYCLING
+
+Current Market Snapshot (USD / LDT)
 
 | DESTINATION | TANKERS | BULKERS | GENERAL CARGO | CONTAINERS | OUTLOOK / SENTIMENTS |
-| :--- | :---: | :---: | :---: | :---: | :---: |
-| ALANG, INDIA | $420-430 | $410-420 | $400-410 | $450-460 | WEAK / |
-| CHATTOGRAM, BANGLADESH | $470-480 | $460-470 | $430-440 | $500-510 | STABLE / |
-| GADDANI, PAKISTAN | $480-490 | $450-460 | $430-440 | $470-480 | BULLISH / |
-| ALIAGA, TURKEY | $300-310 | $290-300 | $270-280 | $310-320 | STABLE / |
+| --- | --- | --- | --- | --- | --- |
+| ALANG, INDIA | $420-430 | $410-420 | $400-410 | $450-460 | WEAK / ↓ |
+| CHATTOGRAM, BANGLADESH | $470-480 | $460-470 | $430-440 | $500-510 | STABLE / ←→ |
+| GADDANI, PAKISTAN | $480-490 | $450-460 | $430-440 | $470-480 | BULLISH / ↑ |
+| ALIAGA, TURKEY* | $300-310 | $290-300 | $270-280 | $310-320 | STABLE / ←→ |
 
-### Demolition - Reported Sales
+* Turkey prices for non-EU ships. EU vessels approx. US$20–30/ton less.
 
-| DELIVERY / TERMS |
-| --- |
-| No reported sales this week |
+All prices are USD per light displacement tonnage (long ton), net prices offered by recycling yards. Premiums apply based on spares quality, non-ferrous content, bunkers, cargo history, and maintenance. Basis simple Japanese/Korean-built tonnages.
+
+• All prices are USD per light displacement tonnage in the long ton.
+
+• The prices reported are net prices offered by the recycling yards.
+
+• Prices quoted are basis simple Japanese / Korean-built tonnages trading units. Premiums are paid on top of the above-quoted prices based on quality & quality of Spares, Non-Fe., bunkers, cargo history, and maintenance.
+
+5-Year Historical Average Prices (Week 24)
+
+| DESTINATION | 2021 | 2022 | 2023 | 2024 | 2025 |
+| --- | --- | --- | --- | --- | --- |
+| ALANG, INDIA | 510 | 570 | 530 | 540 | 450 |
+| CHATTOGRAM, BANGLADESH | 510 | 620 | 570 | 520 | 465 |
+| GADDANI, PAKISTAN | 540 | 560 | 0 | 520 | 440 |
+| ALIAGA, TURKEY | 300 | 310 | 320 | 360 | 270 |
+
+Reported Sales
+
+| VESSEL NAME | TYPE | LDT | YEAR / BUILT | PRICE (US/LDT) | COMMENTS |
+| --- | --- | --- | --- | --- | --- |
+| - | - | - | - | - | - |
 
 ## Page 11
 
 ## Page 12
 
-**Chattogram, Bangladesh: Chattogram transitioned into a steady monsoon routine, focusing on**
+# Market Insights
 
-processing existing tonnage from late-May deliveries, while awaiting the full details of the National Budget Speech for FY2026-27. Preliminary assessments indicate a customs duty increase of BDT 300 (roughly US$2.40) per ton, which has industry stakeholders analysing future cost implications amidst an upcoming consumer price index release following an April inflation reference of 9.04%. Despite these uncertainties, local breaker sentiment remains positive and competitive price levels continue to be offered to secure scarce incoming vessels. Next week should provide greater clarity on the outcome of the budget and its impact on the market. However, at first glance, there appears to be no major change that would directly affect ship pricing.
+Alang, India: Alang remained heavily subdued, constrained by a persistent absence of sales activity and general price declines across all vessel segments. Despite this weak market sentiment and the operational slowdown brought on by the onset of the seasonal monsoon, the local industry received a significant structural boost as the Rupee consolidated its recovery at approximately 95.40 against the USD. This currency stabilisation, driven by the Reserve Bank of India holding interest rates at 5.25%, tax breaks on foreign bond investments, and a collapse in Brent crude toward US$89, has significantly reduced India's energy import bill for crude and LPG routing through the recovering Strait of Hormuz.
+
+June has witnessed a notable influx of tonnage following the historically low activity recorded in May. Several vessels that concluded in previous weeks are now finally arriving at the beaches of Alang, helping to restore momentum and improve overall market sentiment. This renewed flow of tonnage has provided some relief to recyclers, although the market remains cautious amid pressure on local steel and scrap prices, while the onset of the monsoon season is expected to keep market activity subdued with limited activities in the near term.
+
+Alang Anchorage & Beaching Position — June 2026
+
+| VESSEL | TYPE | LDT | ARRIVAL | BEACHING |
+| --- | --- | --- | --- | --- |
+| GALA | RORO | 6,378 | 10.06.2026 | AWAITING |
+| GROUSE ARROW | GENERAL CARGO | 11,059 | 10.06.2026 | AWAITING |
+| STOLT INNOVATION | CHEM. TANKER | 12,940 | 10.06.2026 | AWAITING |
+| TIMON | CONTAINER | 27,062 | 09.06.2206 | AWAITING |
+| SOHAR LNG | LNG CARRIER | 33,003 | 03.06.2026 | 10.06.2026 |
+
+Chattogram, Bangladesh: Chattogram transitioned into a steady monsoon routine, focusing on processing existing tonnage from late-May deliveries, while awaiting the full details of the National Budget Speech for FY2026-27. Preliminary assessments indicate a customs duty increase of BDT 300 (roughly US$2.40) per ton, which has industry stakeholders analysing future cost implications amidst an upcoming consumer price index release following an April inflation reference of 9.04%.
+
+Despite these uncertainties, local breaker sentiment remains positive and competitive price levels continue to be offered to secure scarce incoming vessels.
+
+Next week should provide greater clarity on the outcome of the budget and its impact on the market. However, at first glance, there appears to be no major change that would directly affect ship pricing.
 
 ## Page 13
 
@@ -296,9 +335,16 @@ dropped roughly 6% m-o-m to 97.71 million tons, missing broader market expectati
 ### Bunker Prices (USD / ton)
 
 | PORT | VLSFO (0.5%) | HSFO (3.5%) | MGO (0.1%) |
-| :--- | :---: | :---: | :---: |
+| --- | --- | --- | --- |
 | SINGAPORE | $745 | $606 | $1,120 |
 | HONG KONG | $779 | $630 | $1,056 |
 | FUJAIRAH | $1,232 | $668 | $1,537 |
 | ROTTERDAM | $677 | $588 | $1,050 |
 | HOUSTON | $739 | $646 | $1,072 |
+
+Singapore | London | Dubai
+
+For Privacy Policy
+
+This report is performed to the best of our knowledge based on the market conditions prevailing at the time mentioned. The report relates solely to the date/place referred to, and we emphasise that it is a statement of information collected from various market sources. All details above are from information given to us and such information as we have obtained from relevant references in our possession. Still, we can accept no responsibility, and we bear no liability for any loss or damage incurred to any person acting upon this report. STAR ASIA believes the information to be accurate and given in good faith but without guarantee. STAR ASIA will not be held responsible in any way for any action or failure to act based on the information given in this report. The use of the report cannot be reproduced or used without authorisation from STAR ASIA.
+

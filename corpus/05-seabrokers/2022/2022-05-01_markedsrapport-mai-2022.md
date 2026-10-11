@@ -116,6 +116,42 @@ Magne Viking (c/o P. Gowen)
 
 ## MAY 2022 - DAILY NORTH SEA OSV AVAILABILITY
 
+> **Read from the chart.** The report prints no numbers for this chart; each value is the chart line's node for that day, converted with the printed axis labels (vector geometry, not an eyeball estimate).
+
+| Date | PSV 2022 | PSV 2021 | AHTS 2022 | AHTS 2021 |
+| --- | --- | --- | --- | --- |
+| 1 | 3 | 6 | 10 | 14 |
+| 2 | 3 | 7 | 10 | 14 |
+| 3 | 3 | 8 | 10 | 13 |
+| 4 | 3 | 8 | 10 | 13 |
+| 5 | 3 | 7 | 12 | 11 |
+| 6 | 3 | 7 | 15 | 10 |
+| 7 | 4 | 7 | 15 | 8 |
+| 8 | 4 | 7 | 15 | 7 |
+| 9 | 5 | 7 | 15 | 6 |
+| 10 | 4 | 7 | 16 | 4 |
+| 11 | 4 | 8 | 17 | 4 |
+| 12 | 4 | 8 | 14 | 3 |
+| 13 | 1 | 8 | 13 | 2 |
+| 14 | 1 | 7 | 11 | 3 |
+| 15 | 2 | 8 | 9 | 4 |
+| 16 | 2 | 10 | 7 | 5 |
+| 17 | 2 | 12 | 9 | 6 |
+| 18 | 4 | 8 | 12 | 5 |
+| 19 | 3 | 4 | 10 | 6 |
+| 20 | 2 | 3 | 8 | 7 |
+| 21 | 3 | 1 | 8 | 7 |
+| 22 | 3 | 1 | 7 | 7 |
+| 23 | 4 | 2 | 7 | 7 |
+| 24 | 3 | 2 | 8 | 6 |
+| 25 | 2 | 2 | 10 | 4 |
+| 26 | 3 | 2 | 7 | 3 |
+| 27 | 4 | 2 | 5 | 4 |
+| 28 | 4 | 2 | 3 | 5 |
+| 29 | 4 | 2 | 2 | 6 |
+| 30 | 4 | 3 | 0 | 8 |
+| 31 | 3 | 4 | 1 | 10 |
+
 PSV 2022: **PSV 2022**  
 PSV 2021: **PSV 2021**  
 AHTS 2022: **AHTS 2022**  

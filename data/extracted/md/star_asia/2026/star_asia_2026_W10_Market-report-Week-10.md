@@ -234,28 +234,35 @@ Anchorage & Beaching Position (MARCH 2026)
 
 ## Page 16
 
-Gadani
+# Gadani
 
-Gadani has experienced a notable deceleration this week as the dual impact of Ramadan and heightened regional instability across the border in Iran has dampened trading momentum. This geopolitical tension has created a cautious environment, effectively bringing much of the local industry to a standstill for the majority of the period as participants wait for a clearer outlook.
+Gadani has experienced a notable deceleration this week as the dual impact of Ramadan and heightened regional instability across the border in Iran has dampened trading momentum.
 
-Aliaga, Turkiye
+This geopolitical tension has created a cautious environment, effectively bringing much of the local industry to a standstill for the majority of the period as participants wait for a clearer outlook.
 
-Turkiye maintained a stable week, as domestic scrap prices remained consistent despite a highly volatile geopolitical climate. The operational landscape in Aliaga is particularly strained by the closure of the Strait of Hormuz, which has severely disrupted maritime supply chains and limited the flow of ships to the region. This is further intensified by rising diplomatic friction between the United States and Iran occurring in close proximity to Turkish borders.
+Anchorage & Beaching Position (MARCH 2026)
 
----
+| VESSEL NAME | TYPE | LDT | ARRIVAL | BEACHING |
+| --- | --- | --- | --- | --- |
+| - | - | - | - | - |
+
+# Aliaga, Turkiye
+
+Turkiye maintained a stable week, as domestic scrap prices remained consistent despite a highly volatile geopolitical climate.
+
+The operational landscape in Aliaga is particularly strained by the closure of the Strait of Hormuz, which has severely disrupted maritime supply chains and limited the flow of ships to the region. This is further intensified by rising diplomatic friction between the United States and Iran occurring in close proximity to Turkish borders.
+
+# BEACHING TIDE DATES 2026
 
 Chattogram, Bangladesh : 4 ~ 7 March | 19 ~ 22 March
 
 Alang, India : 1 ~ 7 March | 18 ~ 24 March
 
----
+#### BUNKER PRICES (USD/ton)
 
-BUNKER PRICES (USD/ton)
-
-PORTS VLSFO (0.5%) HSFO (3.5%) MGO (0.1%)
-
+| PORTS | VLSFO (0.5%) | HSFO (3.5%) | MGO (0.1%) |
+| --- | --- | --- | --- |
 | SINGAPORE | 656 | 586 | 1030 |
-|---|---|---|---|
 | HONG KONG | 649 | 620 | 1038 |
 | FUJAIRAH | 666 | 579 | 1086 |
 | ROTTERDAM | 609 | 543 | 965 |
@@ -263,9 +270,27 @@ PORTS VLSFO (0.5%) HSFO (3.5%) MGO (0.1%)
 
 ## Page 17
 
+#### EXCHANGE RATES
+
+| CURRENCY | March 6 | February 27 | W-O-W % CHANGE |
+| --- | --- | --- | --- |
+| USD / CNY (CHINA) | 6.89 | 6.85 | -0.58% |
+| USD / BDT (BANGLADESH) | 122.3 | 122.15 | -0.12% |
+| USD / INR (INDIA) | 91.82 | 91.06 | -0.83% |
+| USD / PKR (PAKISTAN) | 279.36 | 279.36 | 0 |
+| USD / TRY (TURKEY) | 44.00 | 43.93 | -0.16% |
+
 Sub-Continent and Turkey ferrous scrap markets insights
 
-India The sentiment in the Indian imported scrap market is currently of extreme caution as buyers and sellers navigate a "perfect storm" of freight volatility and currency pressure. The Rupee has come under significant strain, with market participants bracing for a potential slide toward the INR 95/$ mark, which would drastically inflate import costs. Under normal conditions, UK-origin HMS was recently workable at US$352/t CFR, but new freight circulars from major carriers like Hapag-Lloyd and CMA CGM suggest potential increases of US$1,500 to US$2,000 per container. If realized, these adjustments could add roughly a staggering US$80/t to landed costs, pushing supplier targets for HMS above US$360/t and shredded scrap toward US$380/t, especially as vessels are forced to reroute via the Cape of Good Hope. Current procurement activity remains sluggish due to the festive period and the inability of traders to finalise firm quotations amidst these shifting variables. Buyers at key ports such as Mundra and Nhava Sheva have maintained a conservative stance, keeping bids for HMS below US$350/t and shredded below US$370/t. In contrast, hand-loaded HMS buyers in Northern India (Punjab) have shown a higher threshold, with workable bids reported at US$365/t. However, many suppliers are currently holding back their inventories, awaiting more definitive freight and currency data before committing to fresh trade. Bangladesh In contrast to the broader regional hesitation, the Bangladeshi market has seen a strengthening of offer levels as suppliers move to factor in the anticipated April container freight hikes. Buyers have begun signaling acceptance of workable levels near US$380/t for shredded scrap to secure material before logistics costs rise further. Malaysian PNS is currently being offered at US$388/t CFR Chattogram, while Australian shredded material is quoted near US$386/t. The containerized scrap segment is showing particularly firm sentiment, with rerollable PNS from Singapore reaching US$450/t and Hong Kong origin material heard at US$430/t. However, liquidity remains a concern for mid-sized
+# India
+
+The sentiment in the Indian imported scrap market is currently of extreme caution as buyers and sellers navigate a "perfect storm" of freight volatility and currency pressure. The Rupee has come under significant strain, with market participants bracing for a potential slide toward the INR 95/$ mark, which would drastically inflate import costs. Under normal conditions, UK-origin HMS was recently workable at US$352/t CFR, but new freight circulars from major carriers like Hapag-Lloyd and CMA CGM suggest potential increases of US$1,500 to US$2,000 per container. If realized, these adjustments could add roughly a staggering US$80/t to landed costs, pushing supplier targets for HMS above US$360/t and shredded scrap toward US$380/t, especially as vessels are forced to reroute via the Cape of Good Hope.
+
+Current procurement activity remains sluggish due to the festive period and the inability of traders to finalise firm quotations amidst these shifting variables. Buyers at key ports such as Mundra and Nhava Sheva have maintained a conservative stance, keeping bids for HMS below US$350/t and shredded below US$370/t. In contrast, hand-loaded HMS buyers in Northern India (Punjab) have shown a higher threshold, with workable bids reported at US$365/t. However, many suppliers are currently holding back their inventories, awaiting more definitive freight and currency data before committing to fresh trade.
+
+# Bangladesh
+
+In contrast to the broader regional hesitation, the Bangladeshi market has seen a strengthening of offer levels as suppliers move to factor in the anticipated April container freight hikes. Buyers have begun signaling acceptance of workable levels near US$380/t for shredded scrap to secure material before logistics costs rise further. Malaysian PNS is currently being offered at US$388/t CFR Chattogram, while Australian shredded material is quoted near US$386/t. The containerized scrap segment is showing particularly firm sentiment, with rerollable PNS from Singapore reaching US$450/t and Hong Kong origin material heard at US$430/t. However, liquidity remains a concern for mid-sized
 
 ## Page 18
 

@@ -240,35 +240,37 @@ Anchorage & Beaching Position (SEPTEMBER 2025)
 
 ## Page 15
 
-Aliaga, Turkey
+# Aliaga, Turkey
 
 Turkey's recycling markets remain similar as last, with no new activity to report. Exchange rates against USD fell another 0.3% this week.
 
----
+# BEACHING TIDE DATES 2025
 
-Chattogram, Bangladesh : 7 ~ 10 September | 20 ~ 23 September Alang, India : 5 ~ 14 September | 19 ~ 27 September
+Chattogram, Bangladesh : 7 ~ 10 September | 20 ~ 23 September
 
----
+Alang, India : 5 ~ 14 September | 19 ~ 27 September
 
-BUNKER PRICES (USD/ton)
+#### BUNKER PRICES (USD/ton)
 
 | PORTS | VLSFO (0.5%) | HSFO (3.5%) | MGO (0.1%) |
-|---|---|---|---|
+| --- | --- | --- | --- |
 | SINGAPORE | 499 | 404 | 645 |
 | HONG KONG | 511 | 427 | 650 |
 | FUJAIRAH | 488 | 383 | 724 |
 | ROTTERDAM | 472 | 408 | 627 |
 | HOUSTON | 487 | 418 | 659 |
 
-EXCHANGE RATES
+#### EXCHANGE RATES
 
 | CURRENCY | September 5 | August 29 | W-O-W % CHANGE |
-|---|---|---|---|
+| --- | --- | --- | --- |
 | USD / CNY (CHINA) | 7.13 | 7.13 | 0 |
 | USD / BDT (BANGLADESH) | 121.79 | 121.61 | -0.15% |
 | USD / INR (INDIA) | 88.20 | 88.16 | -0.05% |
 | USD / PKR (PAKISTAN) | 283.76 | 283.88 | +0.04% |
-| USD / TRY (TURKEY) | 41.24 Sub-Continent and Turkey ferrous scrap markets insights | 41.11 | -0.32% |
+| USD / TRY (TURKEY) | 41.24 | 41.11 | -0.32% |
+
+# Sub-Continent and Turkey ferrous scrap markets insights
 
 In India, the market for imported scrap remained largely stable but at low levels. Offers for UK-origin HMS 80:20 material was noted in the US$330-335 per ton CFR range, though buyer interest was closer to US$325. The market continues to be affected by weak domestic steel demand and localized disruptions, such as recent flooding in Ludhiana, which has curtailed restocking efforts. A more meaningful increase in buying is not anticipated until the region moves closer to the winter season.
 

@@ -164,25 +164,60 @@ The market remains robust in the L.R. sector, with the supply of LR1 anticipated
 
 # Tankers S&P Report
 
+| VESSEL NAME | TYPE | DWT | YEAR | BUILT | PRICE (MILLION) USD | COMMENTS / BUYERS |
+| --- | --- | --- | --- | --- | --- | --- |
+| C PASSION | VLCC | 313,998 | 2013 | S. KOREA | 66.0 | SINOKOR SHIPPING |
+| ALHANI | AFRA | 114,795 | 2007 | S. KOREA | 40.0 | UNDISCLOSED |
+| FOS HAMILTON | AFRA | 105,408 | 2013 | S. KOREA | 43.8 | PERFORMANCE SHIPPING |
+| SEABREEZE | MR | 53,714 | 2007 | JAPAN | 19.6 | UNDISCLOSED |
+| GWN 2 | MR | 50,192 | 2020 | S. KOREA | 38.5 | JAPANESE BUYERS |
+| CELSIUS RIGA / CELSIUS ROSKILDE | MR | 46,151 / 46,105 | 2010/ 2009 | S. KOREA | 55.0 EN BLOC | USA BASED BUYERS |
+| VALLERMOSA | MR | 40,218 | 2003 | S. KOREA | 12.0 | UNDISCLOSED |
+| NORDIC TATIANA | MR | 38,396 | 2007 | CHINA | 15.7 | UNDISCLOSED |
+| PETROLIMEX 10 | MR | 37,256 | 2003 | S. KOREA | 10.0 | VIETNAMESE BUYERS |
+| DH DILIGENCY | SMALL | 8,716 | 2019 | CHINA | 20.0 | CHINESE BUYERS |
+| JIN FU XING 9 | SMALL | 4,999 | 2008 | CHINA | 4.0 | UNDISCLOSED |
+
+# Tankers Values
+
+(Weekly)
+
+| TANKERS | DWT | NB CONTRACT | NB PROMPT DELIVERY | 5 YEARS | 10 YEARS | 20 YEARS |
+| --- | --- | --- | --- | --- | --- | --- |
+| VLCC | 310,000 | 120 | 120 | 90 | 66 | 46 |
+| SUEZMAX | 160,000 | 80 | 80 | 62 | 46 | 25 |
+| AFRAMAX | 115,000 | 61 | 73 | 58 | 43 | 23 |
+| PANAMAX-LR1 | 73,000 | 54 | 27 | 45 | 34 | 16 |
+| MR TANKER | 51,000 | 43 | 47 | 40 | 30 | 16 |
+
+* (amount in USD million)
+
 ## Page 7
 
 # Baltic Exchange Tanker Indices
 
+#### BALTIC EXCHANGE TANKER INDICES
+
+|  | CURRENT | LAST WEEK | LAST YEAR | W-O-W CHANGE % | Y-O-Y CHANGE % |
+| --- | --- | --- | --- | --- | --- |
+| BDTI | 2,220 | 2,487 | 738 | -10.74% | +200.81 |
+| BCTI | 1,806 | 1,738 | 651 | +3.91% | +177.42 |
+
+#### TANKER 12 MONTHS T/C RATES AVERAGE (IN USD/DAY)
+
+| TYPE | DWT | CURRENT | LAST WEEK | LAST YEAR | W-O-W CHANGE | Y-O-Y CHANGE |
+| --- | --- | --- | --- | --- | --- | --- |
+| VLCC | 300,000 | 46,250 | 47,500 | 18,500 | -2.63 | +150.00 |
+| SUEZMAX | 150,000 | 42,500 | 42,500 | 18,500 | 0 | +129.73 |
+| AFRAMAX | 110,000 | 37,500 | 37,500 | 16,500 | 0 | +127.27 |
+| LR1 | 74,000 | 42,500 | 38,750 | 13,500 | +9.68 | +214.81 |
+| MR | 47,000 | 27,500 | 27,500 | 12,750 | 0 | +115.69 |
+
+Tanker 1 year T/C rates
+
 # Containers
 
-With the container shipping industry mostly acknowledging that the peak of an epic cycle has
-
-passed after the summer of this year, the focus has shifted to the potential severity of the
-
-upcoming earnings decline. This week, the number of vessels available in the Atlantic was
-
-limited, causing fixtures in this region to cost more than those in the Far East. Meanwhile,
-
-Alphaliner also is warning that its fourth-quarter carrier profits could plummet by much to
-
-70%, with Israel's ZIM likely to experience the largest decline. Many indicators point to a
-
-weaker overall towards the end of year.
+With the container shipping industry mostly acknowledging that the peak of an epic cycle has passed after the summer of this year, the focus has shifted to the potential severity of the upcoming earnings decline. This week, the number of vessels available in the Atlantic was limited, causing fixtures in this region to cost more than those in the Far East. Meanwhile, Alphaliner also is warning that its fourth-quarter carrier profits could plummet by much to 70%, with Israel's ZIM likely to experience the largest decline. Many indicators point to a weaker overall towards the end of year.
 
 ## Page 8
 
@@ -286,15 +321,37 @@ Due to the dramatic increase in import costs, all of Turkey's steel mills have u
 
 ## Page 14
 
-### Bunker Prices (USD / ton)
+In the meantime, Turkish mills are raising their domestic and shipbreaking scrap purchasing costs. Following price increases of $5 to $7/t by certain mills, the majority of shipbreaking scrap was purchased for US$280 to US$300/t.
 
-| PORT | VLSFO (0.5%) | HSFO (3.5%) | MGO (0.1%) |
-| :--- | :---: | :---: | :---: |
+### BEACHING TIDE DATES 2022
+
+Chattogram, Bangladesh : 6th Dec. ~ 9th Dec. | 23rd Dec. ~ 26th Dec.
+
+Alang, India : 05th Dec. ~ 13th Dec. | 21st Dec. ~ 29th Dec.
+
+# Bunker Prices
+
+#### BUNKER PRICES (USD/TON)
+
+| PORTS | VLSFO (0.5%) | IFO380 CST | MGO (0.1%) |
+| --- | --- | --- | --- |
 | SINGAPORE | 667 | 392 | 974 |
 | HONG KONG | 675 | 447 | 954 |
 | FUJAIRAH | 647 | 349 | 1128 |
 | ROTTERDAM | 569 | 381 | 913 |
 | HOUSTON | 621 | 419 | 911 |
+
+# Exchange Rates
+
+#### EXCHANGE RATES
+
+|  | 2nd DECEMBER | 25th NOVEMBER | W-O-W % CHANGE |
+| --- | --- | --- | --- |
+| USD / CNY (CHINA) | 7.03 | 7.16 | +1.82% |
+| USD / BDT (BANGLADESH) | 102.09 | 102.00 | -0.09% |
+| USD / INR (INDIA) | 81.35 | 81.62 | +0.33% |
+| USD / PKR (PAKISTAN) | 223.86 | 224.36 | +0.22% |
+| USD / TRY (TURKEY) | 18.63 | 18.63 | 0 |
 
 ## Page 15
 

@@ -102,19 +102,38 @@ This week, activity slowed down towards the end due to Eid holidays in various p
 
 ## Page 7
 
-Suezmax:
+# Suezmax:
 
 There was a notable increase in activity in the USG routes at the start of the week, with rates rising by 7 points to WS82. West Africa also saw a bump in activities with a tightening list, leading to a climb in rates. 130,000mt Nigeria/UKC rose 22 points over the week to WS129.
 
-Aframax:
+# Aframax:
 
 The Aframax sector saw a surge in activity and rising freight rates in the South Asian region at the week's start. In the North Sea, 80,000mt X-UKC rose 9 points to WS140. The Atlantic has seen a continued upward trend, with Stateside rates climbing once again. 70,000mt EC Mexico/USG climb by 81 points w-o-w to WS240.
 
-Clean:
+# Clean:
 
 Sentiment in the CPP market was mixed this week, with rates generally softening across most routes. LR1 rates on the UKC/WAFR fell to WS200 due to limited activity. LR2 sentiment improved following a busier period, although rates on the MEG/Japan route remained at WS190. Meanwhile, MR rates on the UKC/USG eased w-o-w to WS185, despite the list remaining in owners' favour.
 
 # Baltic Exchange Tanker Indices
+
+| INDICES | CURRENT | LAST WEEK | LAST YEAR | W-O-W CHANGE | Y-O-Y CHANGE |
+| --- | --- | --- | --- | --- | --- |
+| BDTI | 1,202 | 1,127 | 1,242 | +6.65% | -3.22% |
+| BCTI | 879 | 982 | 958 | -10.49% | -8.25% |
+
+# Tankers Values
+
+(Weekly Average)
+
+| TYPE | DWT | NB CONTRACT | NB PROMPT DELIVERY | 5 YEARS | 10 YEARS | 15 YEARS |
+| --- | --- | --- | --- | --- | --- | --- |
+| VLCC | 310,000 | 130 | 143 | 113 | 85 | 58 |
+| SUEZMAX | 160,000 | 87 | 99 | 83 | 68 | 50 |
+| AFRAMAX | 115,000 | 75 | 85 | 72 | 58 | 41 |
+| LR1 | 73,000 | 60 | 63 | 53 | 43 | 30 |
+| MR | 51,000 | 49 | 53 | 45 | 38 | 26 |
+
+*(amount in USD million)
 
 ## Page 8
 
@@ -217,34 +236,39 @@ Turkish imported ferrous scrap prices have experienced a slight increase as sell
 
 ## Page 16
 
-Chattogram, Bangladesh : 23 ~26 April | 7 ~10 May Alang, India : 23 ~ 29 April | 5~13 May
+# BEACHING TIDE DATES 2024
 
----
+Chattogram, Bangladesh : 23 ~26 April | 7 ~10 May
 
-BUNKER PRICES (USD/TON)
+Alang, India
 
-PORTS VLSFO (0.5%) HSFO (3.5%) MGO (0.1%)
+: 23 ~ 29 April | 5~13 May
 
+#### BUNKER PRICES (USD/TON)
+
+| PORTS | VLSFO (0.5%) | HSFO (3.5%) | MGO (0.1%) |
+| --- | --- | --- | --- |
 | SINGAPORE | 648 | 507 | 811 |
-|---|---|---|---|
 | HONG KONG | 648 | 512 | 807 |
 | FUJAIRAH | 645 | 477 | 902 |
 | ROTTERDAM | 611 | 496 | 807 |
 | HOUSTON | 664 | 498 | 850 |
 
-EXCHANGE RATES
+#### EXCHANGE RATES
 
 | CURRENCY | APRIL 12 | APRIL 5 | W-O-W % CHANGE |
-|---|---|---|---|
+| --- | --- | --- | --- |
 | USD / CNY (CHINA) | 7.23 | 7.23 | 0 |
 | USD / BDT (BANGLADESH) | 109.72 | 109.85 | +0.12% |
 | USD / INR (INDIA) | 83.56 | 83.33 | -0.28% |
 | USD / PKR (PAKISTAN) | 277.97 | 277.89 | -0.03% |
 | USD / TRY (TURKEY) | 32.36 | 31.94 | -1.31% |
 
-Sub-Continent and Turkey ferrous scrap markets insight
+# Sub-Continent and Turkey ferrous scrap markets insight
 
-Last week, the global ferrous scrap market demonstrated overall stability, with minimal fluctuations observed. In Sub-Continent, Indian buyers approached the market cautiously due to volatility in the domestic market and a slowdown attributed to regional festivities. Meanwhile, market activity in Pakistan and Bangladesh remained subdued as both countries observed Eid and related holidays. In **Turkey, imported ferrous scrap market activities remained sluggish, although a few** deals emerged early in the week. Notably, a Mediterranean mill secured HMS (90:10) from a US supplier at US$387 per ton CFR and HMS (80:20) from a UK exporter at US$380 per ton CFR. European recyclers reported a slight decrease in collection costs to Euro 315 per ton delivered to docks.
+Last week, the global ferrous scrap market demonstrated overall stability, with minimal fluctuations observed. In Sub-Continent, Indian buyers approached the market cautiously due to volatility in the domestic market and a slowdown attributed to regional festivities. Meanwhile, market activity in Pakistan and Bangladesh remained subdued as both countries observed Eid and related holidays.
+
+In Turkey, imported ferrous scrap market activities remained sluggish, although a few deals emerged early in the week. Notably, a Mediterranean mill secured HMS (90:10) from a US supplier at US$387 per ton CFR and HMS (80:20) from a UK exporter at US$380 per ton CFR. European recyclers reported a slight decrease in collection costs to Euro 315 per ton delivered to docks.
 
 ## Page 17
 

@@ -49,12 +49,7 @@ The Directorate calculated "the overall net cash flow for exploration activity d
 
 ### Value creation from exploration in the last 20 years (2004-2023). Source: Norwegian Offshore Directorate
 
-| Category              | Undiscounted | 7% discount rate |
-| --------------------- | ------------ | ---------------- |
-| Revenue               | 6400         | 4800             |
-| Exploration costs     | -800         | -900             |
-| Investments and costs | -2200        | -1800            |
-| NPV                   | 3800         | 2200             |
+> **Chart not transcribed.** The figure prints no values; the table the parser estimated from the image was removed. See the source PDF.
 
 Furthermore, it has been identified that all exploration investments from that 20-year period have already been repaid by the discoveries that have come on stream. Around 50 out of 190 discoveries have been developed, with production currently ongoing. Approximately three-quarters of the resources discovered during that time frame have yet to be produced.
 
@@ -64,12 +59,7 @@ Significantly, exploration activity has been found to be profitable in all ocean
 
 ### Profitability per NOK spent on exploration in the various regions over the last 20 years (2004-2023). Source: Norwegian Offshore Directorate
 
-| Region        | NPV per krone spent on exploration (7% discount rate) |
-| ------------- | ----------------------------------------------------- |
-| NCS           | 3.2                                                   |
-| North Sea     | 4.4                                                   |
-| Norwegian Sea | 1.7                                                   |
-| Barents Sea   | 1.5                                                   |
+> **Chart not transcribed.** The figure prints no values; the table the parser estimated from the image was removed. See the source PDF.
 
 Relative to the findings of this evaluation, the Norwegian Offshore Directorate has also confirmed that applications were received from a total of 21 companies for the country's latest offshore licensing round, the Awards in Predefined Areas (APA) 2024 process.
 
@@ -167,38 +157,40 @@ While there have only been three vessels enabled for contracts thus far, we may 
 
 ## SEPTEMBER 2024 - DAILY NORTH SEA OSV AVAILABILITY
 
+> **Read from the chart.** The report prints no numbers for this chart; each value is the chart line's node for that day, converted with the printed axis labels (vector geometry, not an eyeball estimate).
+
 | Date | PSV 2024 | PSV 2023 | AHTS 2024 | AHTS 2023 |
-| ---- | -------- | -------- | --------- | --------- |
-| 1    | 5        | 4.5      | 13        | 11        |
-| 2    | 4        | 4        | 14        | 14        |
-| 3    | 9        | 3.5      | 13        | 17        |
-| 4    | 9        | 3        | 11        | 18        |
-| 5    | 7        | 3        | 10        | 18        |
-| 6    | 6        | 5        | 10        | 18        |
-| 7    | 5        | 4        | 10        | 14        |
-| 8    | 2        | 3        | 10        | 14        |
-| 9    | 2        | 3        | 10        | 14        |
-| 10   | 5        | 4        | 12        | 14        |
-| 11   | 2        | 5        | 12        | 20        |
-| 12   | 2        | 6        | 8         | 23        |
-| 13   | 2        | 7        | 8         | 23        |
-| 14   | 2        | 8        | 8         | 22        |
-| 15   | 3        | 8        | 9         | 17        |
-| 16   | 3        | 7        | 9         | 16        |
-| 17   | 4        | 9        | 10        | 15        |
-| 18   | 4        | 8        | 10        | 22        |
-| 19   | 4        | 5        | 10        | 22        |
-| 20   | 4        | 4        | 10        | 22        |
-| 21   | 5        | 2        | 11        | 4         |
-| 22   | 7        | 3        | 11        | 2         |
-| 23   | 7        | 3        | 11        | 1         |
-| 24   | 8        | 2        | 16        | 1         |
-| 25   | 7        | 4        | 12        | 1         |
-| 26   | 8        | 3        | 12        | 1         |
-| 27   | 9        | 3        | 12        | 1         |
-| 28   | 9        | 3        | 12        | 1         |
-| 29   | 10       | 3.5      | 12        | 1         |
-| 30   | 10       | 3        | 12        | 1         |
+| --- | --- | --- | --- | --- |
+| 1 | 5 | 5 | 13 | 11 |
+| 2 | 5 | 5 | 14 | 13 |
+| 3 | 9 | 4 | 13 | 14 |
+| 4 | 9 | 4 | 11 | 16 |
+| 5 | 9 | 5 | 10 | 17 |
+| 6 | 8 | 6 | 11 | 18 |
+| 7 | 6 | 4 | 11 | 14 |
+| 8 | 4 | 4 | 10 | 16 |
+| 9 | 2 | 4 | 10 | 17 |
+| 10 | 5 | 3 | 9 | 19 |
+| 11 | 4 | 3 | 12 | 20 |
+| 12 | 2 | 3 | 9 | 20 |
+| 13 | 2 | 6 | 8 | 23 |
+| 14 | 2 | 7 | 9 | 19 |
+| 15 | 3 | 9 | 9 | 17 |
+| 16 | 3 | 9 | 10 | 18 |
+| 17 | 2 | 8 | 11 | 20 |
+| 18 | 3 | 8 | 9 | 21 |
+| 19 | 4 | 5 | 10 | 22 |
+| 20 | 4 | 5 | 11 | 22 |
+| 21 | 5 | 5 | 11 | 20 |
+| 22 | 7 | 2 | 11 | 15 |
+| 23 | 8 | 2 | 11 | 12 |
+| 24 | 7 | 3 | 16 | 9 |
+| 25 | 7 | 4 | 13 | 6 |
+| 26 | 8 | 4 | 12 | 3 |
+| 27 | 9 | 3 | 12 | 2 |
+| 28 | 9 | 3 | 12 | 3 |
+| 29 | 10 | 4 | 12 | 1 |
+| 30 | 10 | 3 | 12 | 2 |
 
 ## NORTH SEA SPOT AVERAGE UTILISATION SEPTEMBER 2024
 

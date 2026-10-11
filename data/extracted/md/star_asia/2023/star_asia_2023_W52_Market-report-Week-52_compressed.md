@@ -91,29 +91,22 @@ on this week with biggest decline mostly in the Atlantic basins. The Pacific rem
 
 ## Page 4
 
+BULKER 12 MONTHS T/C RATES AVERAGE (IN USD/DAY)
+
+|  | DWT | CURRENT | LAST WEEK | LAST YEAR | W-O-W CHANGE % | Y-O-Y CHANGE % |
+| --- | --- | --- | --- | --- | --- | --- |
+| CAPE | 180,000 | 17,000 | 17,000 | 25,000 | 0 | -32.00 |
+| PANAMAX | 75,000 | 14,250 | 14,150 | 21,850 | +0.71 | -34.78 |
+| SUPRAMAX | 52,000 | 13,350 | 13,350 | 24,000 | 0 | -44.38 |
+| HANDYSIZE | 32,000 | 11,000 | 10,250 | 23,500 | +7.32 | -53.19 |
+
+Dry Bulk 1 year T/C rates
+
 # Tankers
 
-Indonesia, the world's largest producer of palm oil, is planning to reduce its exports of the
+Indonesia, the world's largest producer of palm oil, is planning to reduce its exports of the commodity as it enforces a policy requiring companies to retain more of their supply within the country. Prices for palm oil rose more than 2% as a result of this news. The government will reduce the amount that producers can export to six times the domestic sales requirement, down from the current eight times, according to the director general of foreign trade at the trade ministry. This change will take effect on January 1.
 
-commodity as it enforces a policy requiring companies to retain more of their supply within
-
-the country. Prices for palm oil rose more than 2% as a result of this news. The government
-
-will reduce the amount that producers can export to six times the domestic sales
-
-requirement, down from the current eight times, according to the director general of foreign
-
-trade at the trade ministry. This change will take effect on January 1.
-
-The decision to reduce exports of palm oil led to an increase in prices in Kuala Lumpur,
-
-where the world's benchmark futures contract is based. This is expected to encourage
-
-Malaysia, the second-largest exporter of palm oil, to increase its shipments. Palm oil futures
-
-rose as much as 2.5% to RM 4,193 ringgit (US$950) per ton, on track to close at the highest
-
-level in a month.
+The decision to reduce exports of palm oil led to an increase in prices in Kuala Lumpur, where the world's benchmark futures contract is based. This is expected to encourage Malaysia, the second-largest exporter of palm oil, to increase its shipments. Palm oil futures rose as much as 2.5% to RM 4,193 ringgit (US$950) per ton, on track to close at the highest level in a month.
 
 ## Page 5
 
@@ -157,12 +150,10 @@ Not much to report in either the East or West. Many are waiting till the New Yea
 
 # Tankers S&P Report
 
-### PRICE VESSEL NAME TYPE DWT YEAR BUILT COMMENTS / BUYERS (MILLION) USD
-
-DELTA PIONEER / 111,013 DELTA CAPTAIN / 2004 / AFRA ~ S. KOREA 35.0 EACH UAE BASED BUYERS DELTA VICTORY / 2005 111,004 DELTA SAILOR
-
+| VESSEL NAME | TYPE | DWT | YEAR | BUILT | PRICE (MILLION) USD | COMMENTS / BUYERS |
+| --- | --- | --- | --- | --- | --- | --- |
+| DELTA PIONEER / DELTA CAPTAIN / DELTA VICTORY / DELTA SAILOR | AFRA | 111,013 ~ 111,004 | 2004 / 2005 | S. KOREA | 35.0 EACH | UAE BASED BUYERS |
 | LUNA ERAWAN | AFRA | 106,488 | 2005 | JAPAN | 23.5 | GREEK BUYERS |
-|---|---|---|---|---|---|---|
 | GWN 3 | MR | 50,192 | 2021 | S. KOREA | 50.0 | JAPANESE BUYERS |
 
 # Tankers Values
@@ -170,26 +161,27 @@ DELTA PIONEER / 111,013 DELTA CAPTAIN / 2004 / AFRA ~ S. KOREA 35.0 EACH UAE BAS
 (Weekly)
 
 | TANKERS | DWT | NB CONTRACT | NB PROMPT DELIVERY | 5 YEARS | 10 YEARS | 20 YEARS |
-|---|---|---|---|---|---|---|
+| --- | --- | --- | --- | --- | --- | --- |
 | VLCC | 310,000 | 120 | 125 | 95 | 70 | 50 |
 | SUEZMAX | 160,000 | 80 | 84 | 65 | 48 | 28 |
 | AFRAMAX | 115,000 | 62 | 75 | 60 | 45 | 25 |
 | PANAMAX-LR1 | 73,000 | 54 | 27 | 45 | 34 | 16 |
 | MR TANKER | 51,000 | 43 | 47 | 40 | 30 | 16 |
-
-# Baltic Exchange Tanker Indices
+| *(amount in USD million) | *(amount in USD million) | *(amount in USD million) | *(amount in USD million) | *(amount in USD million) | *(amount in USD million) | *(amount in USD million) |
 
 ### BALTIC EXCHANGE TANKER INDICES
 
-| CURRENT | LAST WEEK | W-O-W CHANGE % |
-| --- | --- | --- |
-| 1,873 | 1,887 | -0.74 |
-| 2,135 | 2,143 | -0.37 |
+#### BALTIC EXCHANGE TANKER INDICES
+
+|  | CURRENT | LAST WEEK | LAST YEAR | W-O-W CHANGE % | Y-O-Y CHANGE % |
+| --- | --- | --- | --- | --- | --- |
+| BDTI | 1,873 | 1,887 | - | -0.74 | - |
+| BCTI | 2,135 | 2,143 | - | -0.37 | - |
 
 ### TANKER 12 MONTHS T/C RATES AVERAGE (IN USD/DAY)
 
 | TYPE | DWT | CURRENT | LAST WEEK | LAST YEAR | W-O-W CHANGE | Y-O-Y CHANGE |
-|---|---|---|---|---|---|---|
+| --- | --- | --- | --- | --- | --- | --- |
 | VLCC | 300,000 | 41,500 | 41,500 | 18,500 | 0 | +124.32 |
 | SUEZMAX | 150,000 | 44,500 | 44,500 | 18,500 | 0 | +140.54 |
 | AFRAMAX | 110,000 | 43,500 | 43,500 | 16,500 | 0 | +163.64 |
@@ -309,25 +301,41 @@ Markets continued their stability for the past month giving hopes of revival and
 
 ### Anchorage & Beaching Position (December 2022)
 
-### VESSEL NAME
-
-BERGE APO ETHAN T-20 T-19 FLOATING DOCK V UNTER LOBSTER MARSHAL NOVIKOV DORA
-
-| TYPE | LDT | ARRIVAL | BEACHING |
-|---|---|---|---|
-| BULKER | 20,668 | 20.12.2022 | 24.12.2022 |
-| CONTAINER | 5,104 | 19.12.2022 | 23.12.2022 |
-| TENDER RIG | 9,408 | 19.12.2022 | 21.12.2022 |
-| TENDER RIG | 7,636 | 11.12.2022 | 13.12.2022 |
-| FLOATING DOCK | 9,176 | 11.12.2022 | 13.12.2022 |
-| FISHING TRAWLER | 3,918 | 10.12.2022 | 15.12.2022 |
-| FISHING TRAWLER | 3,136 | 09.12.2022 | 14.12.2022 |
-| FISHING TRAWLER | 3,971 | 06.12.2022 | 14.12.2022 |
-| TANKER | 12,615 | 05.12.2022 | 08.12.2022 |
+| VESSEL NAME | TYPE | LDT | ARRIVAL | BEACHING |
+| --- | --- | --- | --- | --- |
+| BERGE APO | BULKER | 20,668 | 20.12.2022 | 24.12.2022 |
+| ETHAN | CONTAINER | 5,104 | 19.12.2022 | 23.12.2022 |
+| T-20 | TENDER RIG | 9,408 | 19.12.2022 | 21.12.2022 |
+| T-19 | TENDER RIG | 7,636 | 11.12.2022 | 13.12.2022 |
+| FLOATING DOCK V | FLOATING DOCK | 9,176 | 11.12.2022 | 13.12.2022 |
+| UNTER | FISHING TRAWLER | 3,918 | 10.12.2022 | 15.12.2022 |
+| LOBSTER | FISHING TRAWLER | 3,136 | 09.12.2022 | 14.12.2022 |
+| MARSHAL NOVIKOV | FISHING TRAWLER | 3,971 | 06.12.2022 | 14.12.2022 |
+| DORA | TANKER | 12,615 | 05.12.2022 | 08.12.2022 |
 
 ### CHATTOGRAM, BANGLADESH
 
-Chittagong markets remained stable, with ships resuming their gradual sales while the year ended with no indications that the government would ease the ongoing Letters of Credit restrictions. On the domestic front, ship scrap prices kept increasing against the backdrop of the scarcity of imported ferrous scrap. The second half of 2022 saw a sudden pause due to a severe liquidity crunch, but analysts believe that second quarter onwards, the government shall resume the development program where they left off once the foreign reserves are back to their target levels.
+Chittagong markets remained stable, with ships resuming their gradual sales while the year ended with no indications that the government would ease the ongoing Letters of Credit restrictions.
+
+On the domestic front, ship scrap prices kept increasing against the backdrop of the scarcity of imported ferrous scrap.
+
+The second half of 2022 saw a sudden pause due to a severe liquidity crunch, but analysts believe that second quarter onwards, the government shall resume the development program where they left off once the foreign reserves are back to their target levels.
+
+### Anchorage & Beaching Position (December 2022)
+
+| VESSEL NAME | TYPE | LDT | ARRIVAL | BEACHING |
+| --- | --- | --- | --- | --- |
+| JOINT LUCK | TANKER | 2,063 | 24.12.2022 | AWAITING |
+| SYLT | TANKER | 2,001 | 23.12.2022 | AWAITING |
+| SHUN RONG | TANKER | 879 | 22.12.2022 | AWAITING |
+| BELL | BULKER | 7,995 | 18.12.2022 | 23.12.2022 |
+| AN PING 8 | BULKER | 9,804 | 19.12.2022 | 23.12.2022 |
+| MEIZHOU 1 | BULKER | 9,453 | 17.12.2022 | 22.12.2022 |
+| FUNING 2 | BULKER | 5,002 | 10.12.2022 | 24.12.2022 |
+| PK 27 | LPG | 1,103 | 14.12.2022 | 21.12.2022 |
+| BOSFOR | TANKER | 779 | 07.12.2022 | 20.12.2022 |
+| SHUN FU | BULKER | 10,672 | 03.12.2022 | 09.12.2022 |
+| HAI FENG 698 | REEFER | 7,240 | 26.11.2022 | AWAITING |
 
 ## Page 13
 
@@ -347,15 +355,39 @@ This week saw Turkish domestic demand for rebar recovered as Turkish mills purch
 
 ## Page 14
 
-### Bunker Prices (USD / ton)
+Despite declining rebar prices throughout the week, mills were forced to pay more than they wanted for scrap as scrap suppliers held firm with their offers. Overall, sentiment is seen to have improved on Friday, with most participants expecting stronger market conditions after the holidays.
 
-| PORT | VLSFO (0.5%) | HSFO (3.5%) | MGO (0.1%) |
-| :--- | :---: | :---: | :---: |
+# BEACHING TIDE DATES 2022
+
+Chattogram, Bangladesh : 23rd Dec. ~ 26th Dec. | 7th Jan ~ 10th Jan
+
+Alang, India
+
+: 21st Dec. ~ 29th Dec. | 4th Jan ~ 11th Jan
+
+Bunker Prices
+
+BUNKER PRICES (USD/TON)
+
+| PORTS | VLSFO (0.5%) | IFO380 CST | MGO (0.1%) |
+| --- | --- | --- | --- |
 | SINGAPORE | 643 | 403 | 929 |
 | HONG KONG | 624 | 434 | 928 |
 | FUJAIRAH | 614 | 389 | 1158 |
 | ROTTERDAM | 534 | 385 | 886 |
 | HOUSTON | 568 | 406 | 928 |
+
+Exchange Rates
+
+EXCHANGE RATES
+
+|  | 30th DECEMBER | 23rd DECEMBER | W-O-W % CHANGE |
+| --- | --- | --- | --- |
+| USD / CNY (CHINA) | 6.94 | 6.98 | +0.57% |
+| USD / BDT (BANGLADESH) | 106.12 | 106.36 | +0.23% |
+| USD / INR (INDIA) | 82.74 | 82.82 | +0.10% |
+| USD / PKR (PAKISTAN) | 226.70 | 226.38 | -0.14% |
+| USD / TRY (TURKEY) | 18.72 | 18.68 | -0.21% |
 
 ## Page 15
 

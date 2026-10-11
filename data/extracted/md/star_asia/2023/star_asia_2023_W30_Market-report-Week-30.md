@@ -71,24 +71,23 @@ Handysize also witness a similar deterioration similar to the Panamax segment. T
 # Baltic Exchange Dry Bulk Indices
 
 | INDICES | CURRENT | LAST WEEK | LAST YEAR | W-O-W CHANGE | Y-O-Y CHANGE |
-|---|---|---|---|---|---|
+| --- | --- | --- | --- | --- | --- |
 | BDI | 1,097 | 977 | 1,895 | +12.28% | -42.11% |
 | BCI | 1,830 | 1,442 | 2,081 | +26.91% | -12.06% |
 | BPI | 955 | 945 | 2,051 | +1.06% | -53.44% |
 | BSI | 733 | 757 | 1,971 | -3.17% | -62.81% |
 | BHSI | 397 | 403 | 1,173 | -1.49% | -66.16% |
 
-Bulker 12 months T/C rates average
+# Bulker 12 months T/C rates average (in USD/day)
 
-TYPE DWT CURRENT LAST WEEK LAST YEAR
+| TYPE | DWT | CURRENT | LAST WEEK | LAST YEAR | W-O-W CHANGE | Y-O-Y CHANGE |
+| --- | --- | --- | --- | --- | --- | --- |
+| CAPESIZE | 180,000 | 15,000 | 15,000 | 18,625 | 0 | -19.46% |
+| PANAMAX | 75,000 | 10,500 | 10,750 | 17,500 | -2.33% | -40.00% |
+| SUPRAMAX | 58,000 | 10,750 | 11,000 | 16,250 | -2.27% | -33.85% |
+| HANDYSIZE | 38,000 | 10,250 | 10,000 | 16,000 | +2.50% | -35.94% |
 
-| CAPESIZE | 180,000 | 15,000 | 15,000 | 18,625 |
-|---|---|---|---|---|
-| PANAMAX | 75,000 | 10,500 | 10,750 | 17,500 |
-| SUPRAMAX | 58,000 | 10,750 | 11,000 | 16,250 |
-| HANDYSIZE | 38,000 | 10,250 | 10,000 | 16,000 |
-
-(in USD/day) W-O-W CHANGE Y-O-Y CHANGE 0 -19.46% -2.33% -40.00% -2.27% -33.85% +2.50% -35.94%
+# Dry Bulk 1 year T/C rates
 
 ## Page 5
 
@@ -286,27 +285,26 @@ New central bank chief of Turkey, Hafize Gaye Erkan, pledges gradual and decisiv
 
 ## Page 15
 
+#### BEACHING TIDE DATES 2023
+
 Chattogram, Bangladesh : 01 ~ 04 August | 16 ~ 19 August
 
 Alang, India : 01 ~ 07 August | 14 ~ 20 August
 
----
+#### BUNKER PRICES (USD/TON)
 
-BUNKER PRICES (USD/TON)
-
-PORTS VLSFO (0.5%) IFO380 CST MGO (0.1%)
-
+| PORTS | VLSFO (0.5%) | IFO380 CST | MGO (0.1%) |
+| --- | --- | --- | --- |
 | SINGAPORE | 598 | 526 | 823 |
-|---|---|---|---|
 | HONG KONG | 604 | 532 | 781 |
 | FUJAIRAH | 594 | 477 | 873 |
 | ROTTERDAM | 573 | 506 | 807 |
 | HOUSTON | 577 | 493 | 826 |
 
-EXCHANGE RATES
+#### EXCHANGE RATES
 
-| CURRENCY | 28th JULY | 21st JULY | W-O-W % CHANGE |
-|---|---|---|---|
+| CURRENCY | 28 th JULY | 21 st JULY | W-O-W % CHANGE |
+| --- | --- | --- | --- |
 | USD / CNY (CHINA) | 7.15 | 7.18 | +0.42% |
 | USD / BDT (BANGLADESH) | 108.45 | 108.56 | +0.10% |
 | USD / INR (INDIA) | 82.25 | 81.96 | -0.35% |
@@ -315,9 +313,11 @@ EXCHANGE RATES
 
 # Commodities
 
-Insight
+### Insight
 
-Commodity markets experienced a downturn due to a stronger U.S. dollar, propelled by positive economic indicators and increased supply across various sectors. Notably, copper and other industrial metals faced a decline as the robust U.S. economic data bolstered the dollar, dampening investor interest. Moreover, easing supply-side challenges contributed to the market dip. For instance, the global copper market transitioned from a deficit of 74kt in the same period last year to a surplus of 287kt for the first five months of this year, as reported by the International Copper Study Group.
+Commodity markets experienced a downturn due to a stronger U.S. dollar, propelled by positive economic indicators and increased supply across various sectors. Notably, copper and other industrial metals faced a decline as the robust U.S. economic data bolstered the dollar, dampening investor interest.
+
+Moreover, easing supply-side challenges contributed to the market dip. For instance, the global copper market transitioned from a deficit of 74kt in the same period last year to a surplus of 287kt for the first five months of this year, as reported by the International Copper Study Group.
 
 ## Page 16
 

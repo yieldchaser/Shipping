@@ -126,7 +126,7 @@ product exports and expanding flows of middle distillates into Australia. In the
 ### Baltic Tanker Indices
 
 | BDTI | BCTI |
-| :---: | :---: |
+| --- | --- |
 | 3,385 | 1,790 |
 | WoW: +20.68% | WoW: +25.44% |
 | YoY: +203.86% | YoY: +191.53% |
@@ -134,21 +134,23 @@ product exports and expanding flows of middle distillates into Australia. In the
 ### Vessel Values (USD Million)
 
 | TYPE | DWT | NB CONTRACT | NB PROMPT | 5 YRS | 10 YRS | 15 YRS |
-| :--- | :---: | :---: | :---: | :---: | :---: | :---: |
+| --- | --- | --- | --- | --- | --- | --- |
 | VLCC | 310,000 | $130M | $175M | $141M (E) | $112M (E) | $64M |
 | SUEZMAX | 160,000 | $90M | $115M | $95M (E) | $85M (E) | $56M |
 | AFRAMAX | 115,000 | $78M | $95M | $80M (E) | $70M (E) | $51M |
 | LR1 | 73,000 | $67M | $74M | $64M (E) | $55M (E) | $33M |
 | MR | 51,000 | $51M | $60M | $49M (E) | $40M (E) | $30M |
 
-### Sale & Purchase - Reported Fixtures
+Sale & Purchase — Reported Fixtures
 
-| VESSEL | TYPE | DWT | YEAR / BUILT | PRICE (USD M) | BUYER |
-| :--- | :---: | :---: | :---: | :---: | :--- |
-| DAEHAN 5122 | SUEZ | 156,881 | 2028 / S. KOREA | 107.0 |  |
-| VELOS TANKERS LTD LVM AARON | MR | 50,927 | 2014 / S. KOREA | 35.5 |  |
-| BESIKTAS DENIZCILIK PM REGENT | MR | 49,874 | 2018 / JAPAN | 45.5 |  |
-| CASTOR MARITIME LTD LADY OF DORIA | MR | 46,846 | 2006 / JAPAN | 14.8 | FAR EASTERN |
+| VESSEL | TYPE | DWT | YEAR / BUILT | PRICE (USD) | BUYER |
+| --- | --- | --- | --- | --- | --- |
+| DAEHAN 5122 | SUEZ | 156,881 | 2028 / S. KOREA | 107.0 | VELOS TANKERS LTD |
+| LVM AARON | MR | 50,927 | 2014 / S. KOREA | 35.5 | BESIKTAS DENIZCILIK |
+| PM REGENT | MR | 49,874 | 2018 / JAPAN | 45.5 | CASTOR MARITIME LTD |
+| LADY OF DORIA | MR | 46,846 | 2006 / JAPAN | 14.8 | FAR EASTERN BUYERS |
+| GOLDEN BANYAN GOLDEN OLIVE GOLDEN MAPLE GOLDEN CEDAR GOLDEN MAPLE | PROD / CHEM | 18,444 | 2025 / CHINA | 25.5 EACH | UNDISCLOSED |
+| VULCANELLO M | PROD / CHEM | 11,288 | 2006 / S. KOREA | 7.5 | UNDISCLOSED |
 
 ## Page 7
 
@@ -198,20 +200,46 @@ SCFI rose to 3,662.18 points on Friday fuelled by resilient U.S. demand, alongsi
 
 ## Page 10
 
-### Ship Recycling - Current Market Snapshot (USD / LDT)
+# SHIP RECYCLING
+
+Current Market Snapshot (USD / LDT)
 
 | DESTINATION | TANKERS | BULKERS | GENERAL CARGO | CONTAINERS | OUTLOOK / SENTIMENTS |
-| :--- | :---: | :---: | :---: | :---: | :---: |
-| ALANG, INDIA | $440-450 | $430-440 | $420-430 | $470-480 | STABLE / |
-| CHATTOGRAM, BANGLADESH | $490-500 | $460-470 | $450-460 | $500-510 | STABLE / |
-| GADDANI, PAKISTAN | $520-530 | $510-520 | $490-500 | $540-550 | STABLE / |
-| ALIAGA, TURKEY | $290-300 | $280-290 | $270-280 | $300-310 | STABLE / |
+| --- | --- | --- | --- | --- | --- |
+| ALANG, INDIA | $440–450 | $430–440 | $420–430 | $470–480 | STABLE / [IMAGE] |
+| CHATTOGRAM, BANGLADESH | $490–500 | $460–470 | $450–460 | $500–510 | STABLE / [IMAGE] |
+| GADDANI, PAKISTAN | $520–530 | $510–520 | $490–500 | $540–550 | STABLE / [IMAGE] |
+| ALIAGA, TURKEY* | $290–300 | $280–290 | $270–280 | $300–310 | STABLE / [IMAGE] |
 
-### Demolition - Reported Sales
+* Turkey prices for non-EU ships. EU vessels approx. US$20–30/ton less.
 
-| DELIVERY / TERMS |
-| --- |
-| No reported sales this week |
+All prices are USD per light displacement tonnage (long ton), net prices offered by recycling yards. Premiums apply based on spares quality, non-ferrous content, bunkers, cargo history, and maintenance. Basis simple Japanese/Korean-built tonnages.
+
+• All prices are USD per light displacement tonnage in the long ton.
+
+• The prices reported are net prices offered by the recycling yards.
+
+• Prices quoted are basis simple Japanese / Korean-built tonnages trading units. Premiums are paid on top of the above-quoted prices based on quality & quality of Spares, Non-Fe., bunkers, cargo history, and maintenance.
+
+5-Year Historical Average Prices (Week 37)
+
+| DESTINATION | 2021 | 2022 | 2023 | 2024 | 2025 |
+| --- | --- | --- | --- | --- | --- |
+| ALANG, INDIA | 550 | 550 | 500 | 500 | 440 |
+| CHATTOGRAM, BANGLADESH | 580 | 620 | 510 | 510 | 410 |
+| GADDANI, PAKISTAN | 595 | 590 | 520 | 500 | 440 |
+| ALIAGA, TURKEY | 300 | 300 | 310 | 340 | 290 |
+
+Reported Sales
+
+| VESSEL NAME | TYPE | LDT | YEAR / BUILT | PRICE (US/LDT) | COMMENTS |
+| --- | --- | --- | --- | --- | --- |
+| SUN GOLD | BULKER | 7,596 | 1996 / JAPAN | 488 | DELIVERED CHATTOGRAM |
+| LINA F | BULKER | 5,688 | 1997 / JAPAN | 514 | DELIVERED GADANI |
+| HERO SD | BULKER | 5,006 | 1995 / JAPAN | 512 | DELIVERED GADANI |
+| LARUS | MPP | 2,632 | 1997 / CHINA | 515 | DELIVERED GADANI |
+| UNIORDER | BULKER | 7,078 | 1997 / JAPAN | 450 | AS IS BELAWAN, INDONESIA, REDELIVERY CHATTOGRAM |
+| V.L. 15 | TANKER | 1,395.42 | 1994 / JAPAN | UNDISCLOSED | DELIVERED CHATTOGRAM |
 
 ## Page 11
 
@@ -331,12 +359,27 @@ Benchmark three-month copper on the London Metal Exchange climbed as much as 0.8
 
 ## Page 17
 
+| CURRENCY PAIR | SEPTEMBER 11 | SEPTEMBER 4 | WoW % |
+| --- | --- | --- | --- |
+| USD / CNY (China) | 6.70 | 6.71 | +0.15% |
+| USD / BDT (Bangladesh) | 123.39 | 122.81 | -0.47% |
+| USD / INR (India) | 95.53 | 94.57 | -1.02% |
+| USD / PKR (Pakistan) | 277.33 | 277.20 | -0.05% |
+| USD / TRY (Turkey) | 48.60 | 48.31 | -0.60% |
+
 ### Bunker Prices (USD / ton)
 
 | PORT | VLSFO (0.5%) | HSFO (3.5%) | MGO (0.1%) |
-| :--- | :---: | :---: | :---: |
+| --- | --- | --- | --- |
 | SINGAPORE | $777 | $634 | $1134 |
 | HONG KONG | $799 | $669 | $1156 |
 | FUJAIRAH | $780 | $621 | $1388 |
 | ROTTERDAM | $662 | $530 | $1299 |
 | HOUSTON | $690 | $472 | $1253 |
+
+Singapore | London | Dubai
+
+For Privacy Policy
+
+This report is performed to the best of our knowledge based on the market conditions prevailing at the time mentioned. The report relates solely to the date/place referred to, and we emphasise that it is a statement of information collected from various market sources. All details above are from information given to us and such information as we have obtained from relevant references in our possession. Still, we can accept no responsibility, and we bear no liability for any loss or damage incurred to any person acting upon this report. STAR ASIA believes the information to be accurate and given in good faith but without guarantee. STAR ASIA will not be held responsible in any way for any action or failure to act based on the information given in this report. The use of the report cannot be reproduced or used without authorisation from STAR ASIA.
+

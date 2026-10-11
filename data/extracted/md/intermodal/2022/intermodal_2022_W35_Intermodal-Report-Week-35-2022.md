@@ -365,7 +365,7 @@ Newbuilding ordering activity has gathered momentum during last week, with order
 # Demolition Market
 ## Indicative Demolition Prices ($/ldt)
 
-| Markets | Markets | 02/09/2022 | 26/08/2022 | ±% | 2020 | 2019 |
+| Markets | 02/09/2022 | 26/08/2022 | ±% | 2020 | 2019 | 2018 |
 | --- | --- | --- | --- | --- | --- | --- |
 | Tanker |  |  |  |  |  |  |
 | Bangladesh | 585 | 585 | 0.0% | 348 | 410 | 442 |

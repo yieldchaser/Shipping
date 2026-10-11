@@ -227,19 +227,35 @@ Pakistan saw a positive week, with prices remaining stable. This week, the minis
 
 ## Page 15
 
-dismantling is completed, there will be no grace or cessation period to allow for the certification to be finalised. This sharper restriction is already prompting a strategic rethink across the recycling sector. Ship recyclers are now weighing whether to hold off on fresh purchases or proceed more selectively, and the financial implications of tying up capacity for a single vessel.
+dismantling is completed, there will be no grace or cessation period to allow for the certification to be finalised.
 
-While immediate transactional volumes have not yet shifted, market sources suggest the policy's effects could become more pronounced in the coming weeks, particularly after the monsoon season, when activity traditionally picks up. The move may also influence pricing dynamics, as yards balance the desire for HKC status with the need to maintain throughput and profitability.
+This sharper restriction is already prompting a strategic rethink across the recycling sector. Ship recyclers are now weighing whether to hold off on fresh purchases or proceed more selectively, and the financial implications of tying up capacity for a single vessel.
 
-Aliaga, Turkey
+While immediate transactional volumes have not yet shifted, market sources suggest the policy’s effects could become more pronounced in the coming weeks, particularly after the monsoon season, when activity traditionally picks up.
 
-The Turkish ship recycling market saw another week of static conditions. Key market indicators, including local pricing and overall sentiment, have remained unchanged from the previous period, resulting in minimal activity.
+The move may also influence pricing dynamics, as yards balance the desire for HKC status with the need to maintain throughput and profitability.
 
----
+Anchorage & Beaching Position (AUGUST 2025)
 
-Chattogram, Bangladesh : 9 ~ 12 August | 22 ~ 25 August Alang, India : 8 ~ 16 August | 20 ~ 27 August
+| VESSEL NAME | TYPE | LDT | ARRIVAL | BEACHING |
+| --- | --- | --- | --- | --- |
+| HUN | WOODCHIP | 8,915 | 09.08.2025 | AWAITING |
+| BEST 8 | GENERAL CARGO | 2,571 | 30.07.2025 | 09.08.2025 |
+| ELIAN | BULKER | 8,118 | 31.07.2025 | 07.08.2025 |
 
----
+# Aliaga, Turkey
+
+The Turkish ship recycling market saw another week of static conditions.
+
+Key market indicators, including local pricing and overall sentiment, have remained unchanged from the previous period, resulting in minimal activity.
+
+# BEACHING TIDE DATES 2025
+
+Chattogram, Bangladesh : 9 ~ 12 August | 22 ~ 25 August
+
+Alang, India
+
+: 8 ~ 16 August | 20 ~ 27 August
 
 ## Page 16
 

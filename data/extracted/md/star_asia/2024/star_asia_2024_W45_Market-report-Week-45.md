@@ -231,38 +231,74 @@ The ship recycling markets have bounced back with positive sentiment following t
 
 recyclers anticipating domestic prices will stabilise as they continue on a gradual upward trend. Overall, the markets have shown stability, supported by steady demand.
 
-Chattogram, Bangladesh
+Anchorage & Beaching Position (November 2024)
 
-After a period of volatility, local markets have gradually started to show signs of improvement, with domestic ship scrap prices climbing back to levels seen a month ago, reviving market sentiment. However, this recovery has not yet been fully reflected in ship pricing, which remains below the US$500/ton mark. Looking ahead, Bangladeshi recyclers are expected to lead the sector in the near term.
+| VESSEL NAME | TYPE | LDT | ARRIVAL | BEACHING |
+| --- | --- | --- | --- | --- |
+| BEREG MATCHY | REEFER | 7,263 | 26.08.2024 | AWAITING* |
+| STAR | REEFER | 5,538 | 07.11.2024 | AWAITING |
+| ALI A | GENERAL CARGO | 2,578 | 08.11.2024 | AWAITING |
+| WIND | GENERAL CARGO | 2,489 | 01.11.2024 | 07.11.2024 |
+| GREEN BODO | REEFER | 2,957 | 01.11.2024 | 08.11.2024 |
+| CAPT.OSAMA | GENERAL CARGO | 5,207 | 21.10.2024 | 01.11.2024 |
+| TANA | GENERAL CARGO | 7,214 | 25.10.2024 | 01.11.2024 |
+| MSC ALEXA | CONTAINER | 16,228 | 27.10.2024 | 02.11.2024 |
 
-Gadani, Pakistan
+# Chattogram, Bangladesh
 
-The markets have remained steady, with demand holding firm but a noticeable absence of available ships. Frustration among recyclers has been growing, yet a crucial factor keeping the industry afloat is the influx of low-cost Chinese imported finished and semifinished steel products.
+After a period of volatility, local markets have gradually started to show signs of improvement, with domestic ship scrap prices climbing back to levels seen a month ago, reviving market sentiment.
+
+However, this recovery has not yet been fully reflected in ship pricing, which remains below the US$500/ton mark. Looking ahead, Bangladeshi recyclers are expected to lead the sector in the near term.
+
+Anchorage & Beaching Position (November 2024)
+
+| VESSEL NAME | TYPE | LDT | ARRIVAL | BEACHING |
+| --- | --- | --- | --- | --- |
+| CHUN CHAO 9 | GENERAL CARGO | 2,736 | 05.11.2024 | AWAITING |
+| RADA | TANKER | 18,860 | 26.10.2024 | 01.11.2024 |
+| CHANG FEI HAI | BULKER | 2,942 | 02.11.2024 | 03.11.2024 |
+| YUN DA HAI | BULKER | 2,880 | 03.11.2024 | 07.11.2024 |
+
+# Gadani, Pakistan
+
+The markets have remained steady, with demand holding firm but a noticeable absence of available ships. Frustration among recyclers has been growing, yet a crucial factor keeping the industry afloat is the influx of low-cost Chinese imported finished and semi-finished steel products.
 
 ## Page 15
 
-The Turkish scrap market is experiencing mixed dynamics following recent geopolitical developments, particularly Donald Trump's re-election. Import values have strengthened, however, domestic prices have seen downward adjustments. Market attention has shifted toward potential Chinese economic stimulus measures, though Trump's victory raises longer-term concerns about China's economic outlook. Notably, while most emerging market currencies weakened, the Turkish lira showed resilience, appreciating against the dollar to TRY 34.25 midweek. Against this backdrop, shipbreaking scrap prices have adjusted downward to US$365-380/ton delivered.
+Anchorage & Beaching Position (November 2024)
 
----
+| VESSEL NAME | TYPE | LDT | ARRIVAL | BEACHING |
+| --- | --- | --- | --- | --- |
+| - | - | - | - | - |
 
-Chattogram, Bangladesh : 14 - 17 November | 30 November - 3 December Alang, India : 14 - 21 November | 29 November - 7 December
+# Aliaga, Turkey
 
----
+The Turkish scrap market is experiencing mixed dynamics following recent geopolitical developments, particularly Donald Trump's re-election. Import values have strengthened, however, domestic prices have seen downward adjustments. Market attention has shifted toward potential Chinese economic stimulus measures, though Trump's victory raises longer–term concerns about China's economic outlook.
 
-BUNKER PRICES (USD/TON)
+Notably, while most emerging market currencies weakened, the Turkish lira showed resilience, appreciating against the dollar to TRY 34.25 midweek. Against this backdrop, shipbreaking scrap prices have adjusted downward to US$365–380/ton delivered.
+
+# BEACHING TIDE DATES 2024
+
+Chattogram, Bangladesh : 14 – 17 November | 30 November – 3 December
+
+Alang, India
+
+: 14 – 21 November | 29 November – 7 December
+
+#### BUNKER PRICES (USD/TON)
 
 | PORTS | VLSFO (0.5%) | HSFO (3.5%) | MGO (0.1%) |
-|---|---|---|---|
+| --- | --- | --- | --- |
 | SINGAPORE | 575 | 485 | 641 |
 | HONG KONG | 591 | 500 | 658 |
 | FUJAIRAH | 574 | 452 | 736 |
 | ROTTERDAM | 515 | 503 | 649 |
 | HOUSTON | 546 | 474 | 653 |
 
-EXCHANGE RATES
+#### EXCHANGE RATES
 
 | CURRENCY | November 9 | November 1 | W-O-W % CHANGE |
-|---|---|---|---|
+| --- | --- | --- | --- |
 | USD / CNY (CHINA) | 7.17 | 7.12 | -0.70% |
 | USD / BDT (BANGLADESH) | 119.62 | 119.49 | -0.11% |
 | USD / INR (INDIA) | 84.39 | 84.08 | -0.37% |

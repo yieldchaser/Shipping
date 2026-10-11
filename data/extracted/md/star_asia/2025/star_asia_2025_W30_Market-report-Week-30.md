@@ -98,21 +98,35 @@ Rates fell from the previous week fueled by a poor flow of early August cargo fr
 
 ## Page 6
 
-Aframax:
+# Aframax:
 
 Freight rates in the Black Sea region declined against a surplus of vessels and weak summer demand. In the Med, TD19 Ceyhan/Lavera slipped to WS130 mark. Overall demand in the segment remains sluggish.
 
-Clean:
+# Clean:
 
-**LR: After weeks of decline, the market this week saw rates remain unchanged with TC1**
+LR: After weeks of decline, the market this week saw rates remain unchanged with TC1 closing around WS128 on Friday, driven by an influx of demand for westbound voyages. Similar was noted in LR1, with MEG/Japan on TC5 holding slightly firmer at WS150's.
 
-closing around WS128 on Friday, driven by an influx of demand for westbound voyages. Similar was noted in LR1, with MEG/Japan on TC5 holding slightly firmer at WS150's.
-
-**MR: MR market in the MEG remain in a hold at closing with trips to E. Africa settling around**
-
-WS226 mark. Competition for cargo deepened as some shipments shifted to LR vessels especially on B/H routes.
+MR: MR market in the MEG remain in a hold at closing with trips to E. Africa settling around WS226 mark. Competition for cargo deepened as some shipments shifted to LR vessels especially on B/H routes.
 
 # Baltic Exchange Tanker Indices
+
+| INDICES | CURRENT | LAST WEEK | LAST YEAR | W-O-W CHANGE | Y-O-Y CHANGE |
+| --- | --- | --- | --- | --- | --- |
+| BDTI | 882 | 929 | 1,036 | -5.06% | -14.86% |
+| BCTI | 644 | 617 | 814 | +4.38% | -20.88% |
+
+# Tankers Values
+
+(Weekly)
+
+| TYPE | DWT | NB CONTRACT | NB PROMPT DELIVERY | 5 YEARS | 10 YEARS | 15 YEARS |
+| --- | --- | --- | --- | --- | --- | --- |
+| VLCC | 310,000 | 126 | 147 | 112 (E) | 83(E) | 51 |
+| SUEZMAX | 160,000 | 87 | 94 | 77 (E) | 62 (E) | 40 |
+| AFRAMAX | 115,000 | 75 | 77 | 64 (E) | 50 (E) | 35 |
+| LRI | 73,000 | 60 | 62 | 51 (E) | 42 (E) | 25 |
+| MR | 51,000 | 49 | 50 | 41 (E) | 30 (E) | 21 |
+| *(amount in USD million) / (E) – eco units | *(amount in USD million) / (E) – eco units | *(amount in USD million) / (E) – eco units | *(amount in USD million) / (E) – eco units | *(amount in USD million) / (E) – eco units | *(amount in USD million) / (E) – eco units | *(amount in USD million) / (E) – eco units |
 
 ## Page 7
 
@@ -229,47 +243,71 @@ After a prolonged period of quiet, a cautious sense of activity is returning to 
 
 ## Page 15
 
-Gadani
+Anchorage & Beaching Position (JULY 2025)
 
-Pakistan's ship recycling market remains quiet this week, with not much activity to report. The market saw no new sales as recyclers maintained distance from active buying. While the broader national economy is showing signs of stabilisation, this has not yet been enough to entice buyers back into making firm commitments for new tonnage. Looking ahead, there are encouraging developments on the horizon that point towards a more active future. The most significant progress is being made on the regulatory front, where a number of additional recycling facilities are advancing their efforts to achieve HKC compliance.
+| VESSEL NAME | TYPE | LDT | ARRIVAL | BEACHING |
+| --- | --- | --- | --- | --- |
+| TRAWIND GLORY | GENERAL CARGO | 1,026 | 16.07.2025 | 23.07.2025 |
+| GOLD | GENERAL CARGO | 2,445 | 14.07.2025 | 21.07.2025 |
+| MEIZAN MARU | CEMENT CARRIER | 835 | 11.07.2025 | 12.07.2025 |
+| SUR | LNG | 30,770 | 15.07.2025 | 17.07.2025 |
+| RASI | LNG | 30,770 | 06.07.2025 | 07.07.2025 |
+| ANG MIN | BULKER | 11,243 | 23.06.2025 | 02.07.2025 |
+| NASO | BULKER | 23,292 | 27.06.2025 | 01.07.2025 |
+| ABRAHIM M | BULKER | 8,997 | 26.06.2025 | 01.07.2025 |
 
-Another quiet week in the Turkey's ship recycling market this week, with both yard capacity and buying appetite remaining notably subdued. This quiet spell prompted recyclers to adopt a more needs-based approach to purchasing rather than pursuing long-term inventory. Despite the general lack of enthusiasm for securing new tonnage, pricing has shown considerable stability, holding at same levels.
+# Gadani
+
+Pakistan's ship recycling market remains quiet this week, with not much activity to report. The market saw no new sales as recyclers maintained distance from active buying. While the broader national economy is showing signs of stabilisation, this has not yet been enough to entice buyers back into making firm commitments for new tonnage.
+
+Looking ahead, there are encouraging developments on the horizon that point towards a more active future. The most significant progress is being made on the regulatory front, where a number of additional recycling facilities are advancing their efforts to achieve HKC compliance.
+
+Anchorage & Beaching Position (JULY 2025)
+
+| VESSEL NAME | TYPE | LDT | ARRIVAL | BEACHING |
+| --- | --- | --- | --- | --- |
+| WINCA | BULKER | 5,964 | 10.07.2025 | AWAITING |
+| TWIN | BULKER | 9,797 | 13.07.2025 | AWAITING |
+
+# Aliaga, Turkey
+
+Another quiet week in the Turkey's ship recycling market this week, with both yard capacity and buying appetite remaining notably subdued.
+
+This quiet spell prompted recyclers to adopt a more needs-based approach to purchasing rather than pursuing long-term inventory. Despite the general lack of enthusiasm for securing new tonnage, pricing has shown considerable stability, holding at same levels.
 
 ## Page 16
 
-Chattogram, Bangladesh : 9 ~ 12 August | 22 ~ 25 August Alang, India : 21 ~ 29 July | 8 ~ 16 August
+# BEACHING TIDE DATES 2025
 
----
+Chattogram, Bangladesh : 9 ~ 12 August | 22 ~ 25 August
 
-BUNKER PRICES (USD/ton)
+Alang, India : 21 ~ 29 July | 8 ~ 16 August
+
+#### BUNKER PRICES (USD/ton)
 
 | PORTS | VLSFO (0.5%) | HSFO (3.5%) | MGO (0.1%) |
-|---|---|---|---|
+| --- | --- | --- | --- |
 | SINGAPORE | 518 | 413 | 679 |
 | HONG KONG | 533 | 466 | 679 |
 | FUJAIRAH | 514 | 397 | 739 |
 | ROTTERDAM | 510 | 437 | 710 |
 | HOUSTON | 500 | 458 | 712 |
 
-EXCHANGE RATES
+#### EXCHANGE RATES
 
 | CURRENCY | July 25 | July 18 | W-O-W % CHANGE |
-|---|---|---|---|
+| --- | --- | --- | --- |
 | USD / CNY (CHINA) | 7.16 | 7.17 | +0.14% |
 | USD / BDT (BANGLADESH) | 122.19 | 121.37 | -0.68% |
 | USD / INR (INDIA) | 86.50 | 86.10 | -0.46% |
 | USD / PKR (PAKISTAN) | 283.80 | 284.80 | +0.35% |
 | USD / TRY (TURKEY) | 40.55 | 40.37 | -0.45% |
 
-Sub-Continent and Turkey ferrous scrap markets insights
+# Sub-Continent and Turkey ferrous scrap markets insights
 
-**India: India's imported scrap market presented a tale of two stories this week. On the**
+India: India's imported scrap market presented a tale of two stories this week. On the international front, activity remained notably sluggish, with offers for UK-origin shredded scrap heard at around US$360-365/ton CFR. Sellers found little incentive to engage, as they could reportedly achieve significantly higher prices, US$20-22/ton, in neighbouring Pakistan. However, the domestic market is showing clear signs of a revival. After a quiet couple of months, local demand is on the rise, and there is a growing expectation that Indian mills will soon need to re-enter the global market, which could lend support to prices in the near future.
 
-international front, activity remained notably sluggish, with offers for UK-origin shredded scrap heard at around US$360-365/ton CFR. Sellers found little incentive to engage, as they could reportedly achieve significantly higher prices, US$20-22/ton, in neighbouring Pakistan. However, the domestic market is showing clear signs of a revival. After a quiet couple of months, local demand is on the rise, and there is a growing expectation that Indian mills will soon need to re-enter the global market, which could lend support to prices in the near future.
-
-**Pakistan: Pakistan was the center of activity in the South Asian market this week. Buyers**
-
-continued to lead the region on pricing, successfully securing a steady stream of shredded cargoes at levels around US$385/ton CFR. This aggressive procurement has made Pakistan the preferred destination for many international suppliers. The only factor
+Pakistan: Pakistan was the center of activity in the South Asian market this week. Buyers continued to lead the region on pricing, successfully securing a steady stream of shredded cargoes at levels around US\$385/ton CFR. This aggressive procurement has made Pakistan the preferred destination for many international suppliers. The only factor
 
 ## Page 17
 

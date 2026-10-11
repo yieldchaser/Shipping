@@ -394,7 +394,7 @@ Newbuilding market continued to demonstrate healthy contracting activity for yet
 # Intermodal Demolition Market
 ## Indicative Demolition Prices ($/ldt)
 
-| Markets | Markets | 14/10/2022 | 07/10/2022 | ±% | 2020 | 2019 |
+| Markets | 14/10/2022 | 07/10/2022 | ±% | 2020 | 2019 | 2018 |
 | --- | --- | --- | --- | --- | --- | --- |
 | Tanker |  |  |  |  |  |  |
 | Bangladesh | 600 | 600 | 0.0% | 348 | 410 | 442 |

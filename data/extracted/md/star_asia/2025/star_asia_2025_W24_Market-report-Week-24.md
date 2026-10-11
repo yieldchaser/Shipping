@@ -249,37 +249,37 @@ The Turkish markets continue to face significant pressure as both domestic and e
 
 ## Page 16
 
-Chattogram, Bangladesh : 24 ~ 27 June | 11 ~ 14 July Alang, India : 09 ~17 June | 23 ~ 30 June
+# BEACHING TIDE DATES 2025
 
----
+Chattogram, Bangladesh : 24 ~ 27 June | 11 ~ 14 July
 
-BUNKER PRICES (USD/ton)
+Alang, India : 09 ~17 June | 23 ~ 30 June
+
+#### BUNKER PRICES (USD/ton)
 
 | PORTS | VLSFO (0.5%) | HSFO (3.5%) | MGO (0.1%) |
-|---|---|---|---|
+| --- | --- | --- | --- |
 | SINGAPORE | 507 | 437 | 600 |
 | HONG KONG | 520 | 452 | 611 |
 | FUJAIRAH | 500 | 418 | 707 |
 | ROTTERDAM | 469 | 426 | 610 |
 | HOUSTON | 482 | 403 | 624 |
 
-EXCHANGE RATES
+#### EXCHANGE RATES
 
 | CURRENCY | June 13 | June 6 | W-O-W % CHANGE |
-|---|---|---|---|
+| --- | --- | --- | --- |
 | USD / CNY (CHINA) | 7.18 | 7.19 | +0.14% |
 | USD / BDT (BANGLADESH) | 122.35 | 122.19 | -0.13% |
 | USD / INR (INDIA) | 86.12 | 85.76 | -0.42% |
 | USD / PKR (PAKISTAN) | 282.91 | 282.28 | -0.22% |
 | USD / TRY (TURKEY) | 39.40 | 39.22 | -0.46% |
 
-Sub-Continent and Turkey ferrous scrap markets insights
+# Sub-Continent and Turkey ferrous scrap markets insights
 
-Sub-Continent's imported scrap markets experienced a subdued week as seasonal disruptions and economic pressures combined to dampen trading activity across the region. Monsoon conditions in India, Eid holidays in Pakistan and Bangladesh, and liquidity constraints created a cautious environment where mills adopted wait-andwatch strategies while prioritizing cost-effective domestic alternatives.
+Sub-Continent’s imported scrap markets experienced a subdued week as seasonal disruptions and economic pressures combined to dampen trading activity across the region. Monsoon conditions in India, Eid holidays in Pakistan and Bangladesh, and liquidity constraints created a cautious environment where mills adopted wait-and-watch strategies while prioritizing cost-effective domestic alternatives.
 
-## India's imported scrap market remained notably quiet as weak construction demand
-
-intersected with monsoon disruptions to suppress buying interest. Containerised shredded scrap offers at US$360-365 per ton CFR Nhava Sheva found limited traction due to significant bid-offer mismatches, with mills increasingly favouring cheaper domestic DRI and competitively priced Iranian HBI as cost-effective alternatives.
+India's imported scrap market remained notably quiet as weak construction demand intersected with monsoon disruptions to suppress buying interest. Containerised shredded scrap offers at US$360-365 per ton CFR Nhava Sheva found limited traction due to significant bid-offer mismatches, with mills increasingly favouring cheaper domestic DRI and competitively priced Iranian HBI as cost-effective alternatives.
 
 ## Page 17
 

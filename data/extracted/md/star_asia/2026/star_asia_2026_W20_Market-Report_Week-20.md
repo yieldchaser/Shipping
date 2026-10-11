@@ -54,36 +54,35 @@ steady cargo demand in Asia keeps tonnage well-balanced. Overall sentiment is ca
 
 ## Page 3
 
-### Baltic Dry Index (BDI)
+Baltic Dry Indices
 
-**BDI: 3,151** (WoW: +5.81% | YoY: +127.02%)
-
-| BCI | BPI | BSI | BHSI |
-| :---: | :---: | :---: | :---: |
-| 5,173 | 2,521 | 1,565 | 850 |
-| WoW: +4.40% | WoW: +12.90% | WoW: +2.83% | WoW: +2.04% |
-| YoY: +156.34% | YoY: +95.43% | YoY: +60.02% | YoY: +53.43% |
+| BDI | BCI | BPI | BSI | BHSI |
+| --- | --- | --- | --- | --- |
+| 3,151 | 5,173 | 2,521 | 1,565 | 850 |
+| WoW: +5.81% | WoW: +4.40% | WoW: +12.90% | WoW: +2.83% | WoW: +2.04% |
+| YoY: +127.02% | YoY: +156.34% | YoY: +95.43% | YoY: +60.02% | YoY: +53.43% |
 
 ### Vessel Values (USD Million)
 
 | TYPE | DWT | NB CONTRACT | NB PROMPT | 5 YRS | 10 YRS | 15 YRS |
-| :--- | :---: | :---: | :---: | :---: | :---: | :---: |
+| --- | --- | --- | --- | --- | --- | --- |
 | CAPESIZE | 180,000 | $75M | $81M | $68M | $53M (E) | $33M |
 | KAMSARMAX | 82,000 | $37M | $43M | $36M | $30M (E) | $23M |
 | ULTRAMAX | 64,000 | $35M | $42M | $35M (E) | $28M | $18M |
 | HANDY | 38,000 | $30M | $36M | $28M | $21M | $17M |
 
-### Sale & Purchase - Reported Fixtures
+Sale & Purchase — Reported Fixtures
 
 | VESSEL | TYPE | DWT | YEAR / BUILT | PRICE (USD M) | BUYER |
-| :--- | :---: | :---: | :---: | :---: | :--- |
+| --- | --- | --- | --- | --- | --- |
 | PIGASSOS | CAPE | 176,364 | 2011 / CHINA | 31.5 | CHINESE BUYERS |
 | YANGTZE 902 | KMAX | 93,225 | 2012 / CHINA | 13.0 | UNDISCLOSED |
 | MANDY MORN | KMAX | 82,612 | 2008 / CHINA | 14.0 | UNDISCLOSED |
 | AVALON | KMAX | 81,565 | 2011 / S. KOREA | 18.0 | UNDISCLOSED |
-| DOMINATOR | SMAX | 63,652 | 2021 / JAPAN | 38.0 |  |
-| ASTROBULK LTD MAJESTY | SMAX | 52,421 | 2002 / JAPAN | 7.0 | UNDISCLOSED |
+| DOMINATOR | SMAX | 63,652 | 2021 / JAPAN | 38.0 | ASTROBULK LTD |
+| MAJESTY | SMAX | 52,421 | 2002 / JAPAN | 7.0 | UNDISCLOSED |
 | SUMAQ QUEEN | SMAX | 51,052 | 2017 / JAPAN | 25.0 | GREEK BUYERS |
+| GANT FLAIR | HMAX | 28,339 | 2010 / JAPAN | 9.9 | UNDISCLOSED |
 
 ## Page 4
 
@@ -192,24 +191,75 @@ SCFI index rose to 2,141, ending a month-long correction through aggressive surc
 
 ## Page 10
 
-### Ship Recycling - Current Market Snapshot (USD / LDT)
+# SHIP RECYCLING
 
-| DESTINATION | TANKERS | BULKERS | GENERAL CARGO | CONTAINERS | OUTLOOK / SENTIMENTS |
-| :--- | :---: | :---: | :---: | :---: | :---: |
+Current Market Snapshot (USD / LDT)
+
+| DESTINATION | TANKERS | BULKERS | GEN. CARGO | CONTAINERS | OUTLOOK |
+| --- | --- | --- | --- | --- | --- |
 | ALANG, INDIA | $420-430 | $410-420 | $400-410 | $450-460 | STABLE / |
 | CHATTOGRAM, BANGLADESH | $470-480 | $460-470 | $430-440 | $500-510 | STABLE / |
 | GADDANI, PAKISTAN | $430-440 | $420-430 | $410-420 | $440-450 | STABLE / |
-| ALIAGA, TURKEY | $300-310 | $290-300 | $270-280 | $310-320 | STABLE / |
+| ALIAGA, TURKEY* | $300-310 | $290-300 | $270-280 | $310-320 | STABLE / |
 
-### Demolition - Reported Sales
+* Turkey prices for non-EU ships. EU vessels approx. US$20–30/ton less.
 
-| DELIVERY / TERMS |
-| --- |
-| No reported sales this week |
+All prices are USD per light displacement tonnage (long ton), net prices offered by recycling yards. Premiums apply based on spares quality, non-ferrous content, bunkers, cargo history, and maintenance. Basis simple Japanese/Korean-built tonnages.
+
+• All prices are USD per light displacement tonnage in the long ton.
+
+• The prices reported are net prices offered by the recycling yards.
+
+• Prices quoted are basis simple Japanese / Korean-built tonnages trading units. Premiums are paid on top of the above-quoted prices based on quality & quality of Spares, Non-Fe., bunkers, cargo history, and maintenance.
+
+5-Year Historical Average Prices (Week 20)
+
+| DESTINATION | 2021 | 2022 | 2023 | 2024 | 2025 |
+| --- | --- | --- | --- | --- | --- |
+| ALANG, INDIA | 480 | 630 | 520 | 540 | 460 |
+| CHATTOGRAM, BANGLADESH | 530 | 640 | 550 | 530 | 460 |
+| GADDANI, PAKISTAN | 530 | 650 | 0 | 520 | 460 |
+| ALIAGA, TURKEY | 250 | 330 | 320 | 350 | 280 |
+
+Reported Sales
+
+| VESSEL NAME | TYPE | LDT | YEAR / BUILT | PRICE (US/LDT) | COMMENTS |
+| --- | --- | --- | --- | --- | --- |
+| HANJIN 3007 | RORO | 3,665 | 1998 / S. KOREA | 415 | AS IS KOREA |
+| VALARIS MS-1 | SEMI-SUB | 28,761 | 2011 / SINGAPORE | UNDISCLOSED | AS IS LABUAN,MALAYSIA |
 
 ## Page 11
 
 ## Page 12
+
+# Market Insights
+
+Alang, India: Alang softened significantly this week as the Indian Rupee fell to a new historic low of 95.71 against the U.S. Dollar following diplomatic stalls in the Middle East. This 0.74% currency depreciation has intensified pressure on local buyers, driving up transactional costs and forcing a much more cautious approach to buying.
+
+While stable domestic steel demand provides a layer of optimism, the broader buying appetite remains constrained by slower construction activity and an overall weaker demand for scrap metal. Recyclers are expected to remain highly selective in the near term, focusing their limited buying interest primarily on specialised assets rather than standard merchant tonnage.
+
+Alang Anchorage & Beaching — May2026
+
+| VESSEL | TYPE | LDT | ARRIVAL | BEACHING |
+| --- | --- | --- | --- | --- |
+| - | - | - | - | - |
+
+Chattogram, Bangladesh: Chattogram maintained a steady footing, supported by a highly permissive financial environment where the Letter of Credit pipeline remained clear for a fifth consecutive week. While underlying buyer appetite and pricing remain firm amid a limited global supply of vessels, actual sales activity slowed significantly due to disruptions from ongoing heavy rainfall. Several local yards are currently well-supplied with inventory, prompting breakers to adopt a more cautious approach toward acquiring fresh tonnage at present levels until weather conditions improve.
+
+Chattogram Anchorage & Beaching — May 2026
+
+| VESSEL | TYPE | LDT | ARRIVAL | BEACHING |
+| --- | --- | --- | --- | --- |
+| ENERGIA C | BULKER | 19,899 | 14.05.2026 | AWAITING |
+| GODSPEED 6666 | WOODCHIP | 10,348 | 14.05.2026 | AWAITING |
+| GION MARU NO.8 | CEMENT | 484 | 11.05.2026 | AWAITING |
+| FRONTIER | RORO | 4,240 | 11.05.2026 | AWAITING |
+| JIAN JIE | TANKER | 1,807 | 06.05.2026 | AWAITING |
+| JIANG | BULKER | 21,238 | 21.04.2026 | 01.05.2026 |
+| FESTIVAL | BULKER | 6,993 | 26.04.2026 | 04.05.2026 |
+| SPRUCE | CONTAINER | 2,216 | 27.04.2026 | 04.05.2026 |
+| BGP PIONEER | SURVEY VESSEL | 3,085 | 01.05.2026 | 06.05.2026 |
+| ACE 1 | BULKER | 5,757 | 02.05.2026 | 07.05.2026 |
 
 ## Page 13
 
@@ -251,17 +301,25 @@ offers in the face of squeezed margins and sluggish rebar demand. Buyers are inc
 
 ## Page 14
 
+# COMMODITIES, BUNKERS & RATES
+
+# Commodities Focus
+
+Geopolitical disruptions in the Middle East have driven aluminium prices up 3.8% to US$3,315 per ton. Coal prices reached a peak above US$119 per ton as energy security needs outweigh green transitions, while China anticipates its first production contraction since 2016. Iron ore futures climbed above CNY 815 per ton following a seven-week decline in steel inventories, though steel rebar has recently retreated toward CNY 3,200.
+
+Copper's eight-day rally came to a halt as elevated prices began to weigh on Chinese buying appetite. Fabricators reported softer orders for copper rod, widely used in electrical wiring, as SHFE prices moved above CNY106,000/t, prompting buyers to delay purchases. On warrant SHFE inventories also rose 10% over three days to 91.1kt, reversing part of the sharp drawdown seen over the past two months. Still, Chinese demand has remained relatively resilient this year, supported by clean energy consumption despite weakness in property and construction. Supply risks also remain supportive, with March output falling sharply at Chile's Codelco and Escondida mines.
+
 ### Iron Ore
 
 | COMMODITY (USD/MT) | GRADE | THIS WEEK | LAST WEEK | LAST YEAR | WoW | YoY |
-| :--- | :--- | :---: | :---: | :---: | :---: | :---: |
+| --- | --- | --- | --- | --- | --- | --- |
 | Iron Ore Lumps, CNF Rizhao | Fe 64/63% (S. Africa) | $122 | $101 | $122 | +20.7% | 0% |
 | Iron Ore Fines, CNF Qingdao | Fe 62.5% (Brazil) | $112 | $101 | $112 | +10.8% | 0% |
 
 ### Industrial Metal Rates
 
 | INDEX | UNITS | PRICE | CHANGE | % CHANGE | CONTRACT |
-| :--- | :--- | :---: | :---: | :---: | :---: |
+| --- | --- | --- | --- | --- | --- |
 | Copper (Comex) | USD / lb. | 629.50 | -31.65 | -4.79% | JUL 2026 |
 | 3Mo Copper (LME) | USD / MT | 13,555.00 | -383.50 | -2.75% | N/A |
 | 3Mo Aluminium (LME) | USD / MT | 3,563.00 | -94.50 | -2.58% | N/A |
@@ -271,20 +329,41 @@ offers in the face of squeezed margins and sluggish rebar demand. Buyers are inc
 ### Crude Oil & Natural Gas
 
 | INDEX | UNITS | PRICE | CHANGE | % CHANGE | CONTRACT |
-| :--- | :--- | :---: | :---: | :---: | :---: |
+| --- | --- | --- | --- | --- | --- |
 | WTI Crude Oil (Nymex) | USD / bbl. | 105.42 | +4.25 | +4.20% | JUN 2026 |
 | Brent Crude (ICE) | USD / bbl. | 109.26 | +3.54 | +3.35% | JUL 2026 |
 | Crude Oil (Tokyo) | JPY / kl | 101,240.00 | +300.00 | +0.30% | MAY 2026 |
 | Natural Gas (Nymex) | USD / MMBtu | 2.96 | +0.07 | +2.28% | JUN 2026 |
 
+* All rates at C.O.B. London time, May 2nd, 2026
+
 ## Page 15
+
+Exchange Rates
+
+| CURRENCY PAIR | MAY 15 | MAY 8 | WoW % |
+| --- | --- | --- | --- |
+| USD / CNY (China) | 6.80 | 6.80 | 0.00% |
+| USD / BDT (Bangladesh) | 122.77 | 122.69 | -0.07% |
+| USD / INR (India) | 95.98 | 94.43 | -1.64% |
+| USD / PKR (Pakistan) | 278.59 | 278.67 | +0.03% |
+| USD / TRY (Turkey) | 45.52 | 45.35 | -0.37% |
 
 ### Bunker Prices (USD / ton)
 
 | PORT | VLSFO (0.5%) | HSFO (3.5%) | MGO (0.1%) |
-| :--- | :---: | :---: | :---: |
+| --- | --- | --- | --- |
 | SINGAPORE | $798 | $712 | $1,314 |
 | HONG KONG | $826 | $747 | $1,366 |
 | FUJAIRAH | $878 | $706 | $1,571 |
 | ROTTERDAM | $771 | $680 | $1,328 |
 | HOUSTON | $915 | $697 | $1,261 |
+
+[SIGNATURE]
+
+# Singapore | London | Dubai
+
+For Privacy Policy
+
+This report is performed to the best of our knowledge based on the market conditions prevailing at the time mentioned. The report relates solely to the date/place referred to, and we emphasise that it is a statement of information collected from various market sources. All details above are from information given to us and such information as we have obtained from relevant references in our possession. Still, we can accept no responsibility, and we bear no liability for any loss or damage incurred to any person acting upon this report. STAR ASIA believes the information to be accurate and given in good faith but without guarantee. STAR ASIA will not be held responsible in any way for any action or failure to act based on the information given in this report. The use of the report cannot be reproduced or used without authorisation from STAR ASIA.
+

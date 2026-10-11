@@ -102,30 +102,31 @@ The Aframax market has entered a "wait-and-see" phase, closing flat as the flurr
 
 ## Page 6
 
-Clean:
+# Clean:
 
-LR: MEG LR2 market experienced a significant downward correction as demand subside. With the requirements fulfilled, the influx of new cargo has slowed to a trickle. Furthermore, pre-Lunar New Year cargo has been cleared, reducing the pressure for Far East shippers to secure tonnage at high premiums. TC1 fell some 20 points to WS168. Similar noted in the LR1, with MEG/Japan trips ending the week at WS179. MR: The Far East MR sector has entered a temporary hiatus as the region observes the Lunar New Year holiday, leading to a dip in activity with Prices closing slightly softer. In TC17, MEG/E.Africa trips also fell some 50 points, closing at WS191.
+LR: MEG LR2 market experienced a significant downward correction as demand subside. With the requirements fulfilled, the influx of new cargo has slowed to a trickle. Furthermore, pre-Lunar New Year cargo has been cleared, reducing the pressure for Far East shippers to secure tonnage at high premiums. TC1 fell some 20 points to WS168. Similar noted in the LR1, with MEG/Japan trips ending the week at WS179.
+
+MR: The Far East MR sector has entered a temporary hiatus as the region observes the Lunar New Year holiday, leading to a dip in activity with Prices closing slightly softer. In TC17, MEG/E.Africa trips also fell some 50 points, closing at WS191.
 
 ## Baltic Exchange Tanker Indices
 
-| INDICES | CURRENT | LAST WEEK |
-|---|---|---|
-| BDTI | 1,713 | 1,679 |
-| BCTI | 856 | 916 |
+| INDICES | CURRENT | LAST WEEK | LAST YEAR | W-O-W CHANGE | Y-O-Y CHANGE |
+| --- | --- | --- | --- | --- | --- |
+| BDTI | 1,713 | 1,679 | 910 | +2.03% | +88.24% |
+| BCTI | 856 | 916 | 666 | -6.55% | +28.53% |
 
-LAST YEAR W-O-W CHANGE 910 +2.03% 666 -6.55%
+# Tankers Values
 
-Y-O-Y CHANGE +88.24% +28.53%
+(Weekly)
 
-| TYPE | DWT | NB CONTRACT | Tankers Values (Weekly) NB CONTRACT | Tankers Values (Weekly) NB PROMPT | 5 YEARS | 10 YEARS | 10 YEARS | 15 YEARS |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-|  |  |  |  | DELIVERY |  |  |  |  |
-| VLCC | 310,000 |  | 128 | 148 | 119 (E) | 87(E) |  | 53 |
-| SUEZMAX | 160,000 |  | 86 | 95 | 79 (E) | 63 | (E) | 42 |
-| AFRAMAX | 115,000 |  | 75 | 80 | 66 (E) | 53 | (E) | 37 |
-| LR1 | 73,000 |  | 60 | 64 | 53 (E) | 44 | (E) | 26 |
-| MR | 51,000 |  | 49 | 53 | 42 (E) | 33 | (E) | 24 |
-| *(amount inUSD | million) | \ | (E)-ecounits |  |  |  |  |  |
+| TYPE | DWT | NB CONTRACT | NB PROMPT DELIVERY | 5 YEARS | 10 YEARS | 15 YEARS |
+| --- | --- | --- | --- | --- | --- | --- |
+| VLCC | 310,000 | 128 | 148 | 119 (E) | 87(E) | 53 |
+| SUEZMAX | 160,000 | 86 | 95 | 79 (E) | 63 (E) | 42 |
+| AFRAMAX | 115,000 | 75 | 80 | 66 (E) | 53 (E) | 37 |
+| LR1 | 73,000 | 60 | 64 | 53 (E) | 44 (E) | 26 |
+| MR | 51,000 | 49 | 53 | 42 (E) | 33 (E) | 24 |
+| *(amount in USD million) / (E) – eco units | *(amount in USD million) / (E) – eco units | *(amount in USD million) / (E) – eco units | *(amount in USD million) / (E) – eco units | *(amount in USD million) / (E) – eco units | *(amount in USD million) / (E) – eco units | *(amount in USD million) / (E) – eco units |
 
 ## Page 7
 
@@ -251,40 +252,41 @@ Anchorage & Beaching Position (FEBRUARY 2026)
 
 ## Page 16
 
-Aliaga, Turkiye
+# Aliaga, Turkiye
 
 Turkiye market remains steady and unchanged this week, with no new activity to report. The market is expected to quieten next week as the country enters the Ramadan period.
 
----
+# BEACHING TIDE DATES 2026
 
-Chattogram, Bangladesh : 19 ~ 22 February | 4 ~ 7 March Alang, India : 16 ~ 23 February | 1 ~ 7 March
+Chattogram, Bangladesh : 19 ~ 22 February | 4 ~ 7 March
 
----
+Alang, India : 16 ~ 23 February | 1 ~ 7 March
 
-BUNKER PRICES (USD/ton)
+#### BUNKER PRICES (USD/ton)
 
-PORTS VLSFO (0.5%) HSFO (3.5%) MGO (0.1%)
-
+| PORTS | VLSFO (0.5%) | HSFO (3.5%) | MGO (0.1%) |
+| --- | --- | --- | --- |
 | SINGAPORE | 465 | 425 | 656 |
-|---|---|---|---|
 | HONG KONG | 483 | 449 | 685 |
 | FUJAIRAH | 461 | 397 | 752 |
 | ROTTERDAM | 433 | 390 | 683 |
 | HOUSTON | 462 | 362 | 702 |
 
-EXCHANGE RATES
+#### EXCHANGE RATES
 
 | CURRENCY | February 13 | February 6 | W-O-W % CHANGE |
-|---|---|---|---|
+| --- | --- | --- | --- |
 | USD / CNY (CHINA) | 6.90 | 6.93 | +0.43% |
 | USD / BDT (BANGLADESH) | 122.3 | 122.32 | +0.02% |
 | USD / INR (INDIA) | 90.61 | 90.31 | -0.33% |
 | USD / PKR (PAKISTAN) | 279.7 | 279.7 | 0 |
 | USD / TRY (TURKEY) | 43.73 | 43.61 | -0.28% |
 
-Sub-Continent and Turkey ferrous scrap markets insights
+# Sub-Continent and Turkey ferrous scrap markets insights
 
-India Indian imported scrap market remained largely stable, though transactional data revealed pockets of selective strength. South American HMS 1 was offered at US$356/t CFR West Coast India, while standard HMS from the same region was positioned at US$345/t. Middle Eastern offers for high-grade PNS, specifically Blue Steel and Super, were quoted between US$380/t and US$385/t CFR Mundra, with LMS grades trailing at US$340/t.
+# India
+
+Indian imported scrap market remained largely stable, though transactional data revealed pockets of selective strength. South American HMS 1 was offered at US$356/t CFR West Coast India, while standard HMS from the same region was positioned at US$345/t. Middle Eastern offers for high-grade PNS, specifically Blue Steel and Super, were quoted between US$380/t and US$385/t CFR Mundra, with LMS grades trailing at US$340/t.
 
 ## Page 17
 

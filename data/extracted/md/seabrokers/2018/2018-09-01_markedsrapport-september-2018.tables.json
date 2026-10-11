@@ -4,7 +4,7 @@
   "year": 2018,
   "month": 9,
   "source_file": "corpus/05-seabrokers/pdfs/2018-09-01_markedsrapport-september-2018.pdf",
-  "tables_count": 14,
+  "tables_count": 12,
   "tables": [
     {
       "title": "SEPTEMBER 2018 - DAILY NORTH SEA OSV AVAILABILITY",
@@ -27,42 +27,42 @@
         {
           "Date": "2",
           "PSV 2018": "17",
-          "PSV 2017": "5",
+          "PSV 2017": "6",
           "AHTS 2018": "14",
           "AHTS 2017": "19"
         },
         {
           "Date": "3",
-          "PSV 2018": "19",
-          "PSV 2017": "8",
-          "AHTS 2018": "14",
+          "PSV 2018": "20",
+          "PSV 2017": "9",
+          "AHTS 2018": "15",
           "AHTS 2017": "20"
         },
         {
           "Date": "4",
           "PSV 2018": "21",
           "PSV 2017": "11",
-          "AHTS 2018": "15",
+          "AHTS 2018": "13",
           "AHTS 2017": "21"
         },
         {
           "Date": "5",
           "PSV 2018": "23",
-          "PSV 2017": "11",
+          "PSV 2017": "7",
           "AHTS 2018": "15",
-          "AHTS 2017": "21"
+          "AHTS 2017": "20"
         },
         {
           "Date": "6",
-          "PSV 2018": "20",
-          "PSV 2017": "4",
-          "AHTS 2018": "16",
+          "PSV 2018": "17",
+          "PSV 2017": "5",
+          "AHTS 2018": "15",
           "AHTS 2017": "11"
         },
         {
           "Date": "7",
           "PSV 2018": "12",
-          "PSV 2017": "6",
+          "PSV 2017": "3",
           "AHTS 2018": "16",
           "AHTS 2017": "12"
         },
@@ -71,74 +71,74 @@
           "PSV 2018": "12",
           "PSV 2017": "1",
           "AHTS 2018": "16",
-          "AHTS 2017": "11"
+          "AHTS 2017": "15"
         },
         {
           "Date": "9",
           "PSV 2018": "12",
-          "PSV 2017": "9",
+          "PSV 2017": "2",
           "AHTS 2018": "15",
           "AHTS 2017": "14"
         },
         {
           "Date": "10",
           "PSV 2018": "12",
-          "PSV 2017": "8",
+          "PSV 2017": "4",
           "AHTS 2018": "15",
-          "AHTS 2017": "14"
+          "AHTS 2017": "13"
         },
         {
           "Date": "11",
-          "PSV 2018": "12",
-          "PSV 2017": "9",
-          "AHTS 2018": "15",
-          "AHTS 2017": "16"
+          "PSV 2018": "11",
+          "PSV 2017": "6",
+          "AHTS 2018": "14",
+          "AHTS 2017": "13"
         },
         {
           "Date": "12",
-          "PSV 2018": "10",
+          "PSV 2018": "7",
           "PSV 2017": "9",
-          "AHTS 2018": "14",
+          "AHTS 2018": "12",
           "AHTS 2017": "17"
         },
         {
           "Date": "13",
-          "PSV 2018": "8",
-          "PSV 2017": "5",
-          "AHTS 2018": "14",
-          "AHTS 2017": "16"
+          "PSV 2018": "4",
+          "PSV 2017": "9",
+          "AHTS 2018": "10",
+          "AHTS 2017": "14"
         },
         {
           "Date": "14",
           "PSV 2018": "2",
           "PSV 2017": "5",
           "AHTS 2018": "11",
-          "AHTS 2017": "14"
+          "AHTS 2017": "16"
         },
         {
           "Date": "15",
-          "PSV 2018": "4",
+          "PSV 2018": "3",
           "PSV 2017": "5",
           "AHTS 2018": "11",
-          "AHTS 2017": "12"
+          "AHTS 2017": "11"
         },
         {
           "Date": "16",
+          "PSV 2018": "4",
+          "PSV 2017": "5",
+          "AHTS 2018": "11",
+          "AHTS 2017": "11"
+        },
+        {
+          "Date": "17",
           "PSV 2018": "5",
           "PSV 2017": "5",
           "AHTS 2018": "11",
           "AHTS 2017": "12"
         },
         {
-          "Date": "17",
-          "PSV 2018": "6",
-          "PSV 2017": "5",
-          "AHTS 2018": "11",
-          "AHTS 2017": "12"
-        },
-        {
           "Date": "18",
-          "PSV 2018": "9",
+          "PSV 2018": "7",
           "PSV 2017": "5",
           "AHTS 2018": "11",
           "AHTS 2017": "12"
@@ -146,20 +146,20 @@
         {
           "Date": "19",
           "PSV 2018": "9",
-          "PSV 2017": "6",
-          "AHTS 2018": "11",
+          "PSV 2017": "5",
+          "AHTS 2018": "10",
           "AHTS 2017": "10"
         },
         {
           "Date": "20",
-          "PSV 2018": "8",
+          "PSV 2018": "9",
           "PSV 2017": "7",
-          "AHTS 2018": "8",
-          "AHTS 2017": "8"
+          "AHTS 2018": "9",
+          "AHTS 2017": "9"
         },
         {
           "Date": "21",
-          "PSV 2018": "8",
+          "PSV 2018": "9",
           "PSV 2017": "8",
           "AHTS 2018": "8",
           "AHTS 2017": "8"
@@ -167,36 +167,36 @@
         {
           "Date": "22",
           "PSV 2018": "7",
-          "PSV 2017": "6",
+          "PSV 2017": "7",
           "AHTS 2018": "8",
-          "AHTS 2017": "10"
+          "AHTS 2017": "9"
         },
         {
           "Date": "23",
           "PSV 2018": "6",
-          "PSV 2017": "6",
+          "PSV 2017": "7",
           "AHTS 2018": "8",
-          "AHTS 2017": "14"
+          "AHTS 2017": "12"
         },
         {
           "Date": "24",
           "PSV 2018": "5",
           "PSV 2017": "6",
           "AHTS 2018": "8",
-          "AHTS 2017": "16"
+          "AHTS 2017": "14"
         },
         {
           "Date": "25",
-          "PSV 2018": "4",
+          "PSV 2018": "3",
           "PSV 2017": "6",
           "AHTS 2018": "8",
-          "AHTS 2017": "16"
+          "AHTS 2017": "15"
         },
         {
           "Date": "26",
           "PSV 2018": "1",
-          "PSV 2017": "6",
-          "AHTS 2018": "8",
+          "PSV 2017": "8",
+          "AHTS 2018": "5",
           "AHTS 2017": "16"
         },
         {
@@ -204,21 +204,21 @@
           "PSV 2018": "1",
           "PSV 2017": "6",
           "AHTS 2018": "3",
-          "AHTS 2017": "15"
+          "AHTS 2017": "16"
         },
         {
           "Date": "28",
           "PSV 2018": "0",
-          "PSV 2017": "0",
-          "AHTS 2018": "0",
-          "AHTS 2017": "14"
+          "PSV 2017": "8",
+          "AHTS 2018": "4",
+          "AHTS 2017": "16"
         },
         {
           "Date": "29",
-          "PSV 2018": "10",
-          "PSV 2017": "10",
-          "AHTS 2018": "9",
-          "AHTS 2017": "19"
+          "PSV 2018": "5",
+          "PSV 2017": "7",
+          "AHTS 2018": "6",
+          "AHTS 2017": "17"
         },
         {
           "Date": "30",
@@ -227,7 +227,8 @@
           "AHTS 2018": "9",
           "AHTS 2017": "20"
         }
-      ]
+      ],
+      "value_source": "vector_chart_read"
     },
     {
       "title": "NORTH SEA SPOT AVERAGE UTILISATION SEPTEMBER 2018",
@@ -762,20 +763,6 @@
       ]
     },
     {
-      "title": "ALLSEAS CONFIRMED AS BUYER OF FORTRESS",
-      "columns": [
-        "![Havila Fortress](https://i.imgur.com/3Z0Z0Z0.jpg)",
-        "Allseas has been confirmed as the buyer of the 1996-built PSV Havila Fortress, which was sold by Havila Shipping in August. The vessel (pictured c/o S Boulter) is currently berthed in Denmark where she is being prepared for work by her new owners."
-      ],
-      "row_count": 1,
-      "rows": [
-        {
-          "![Havila Fortress](https://i.imgur.com/3Z0Z0Z0.jpg)": "",
-          "Allseas has been confirmed as the buyer of the 1996-built PSV Havila Fortress, which was sold by Havila Shipping in August. The vessel (pictured c/o S Boulter) is currently berthed in Denmark where she is being prepared for work by her new owners.": "This transaction follows the earlier sales of the Fortress' sister vessels, the Havila Faith and Havila Favour, to Allseas in March. Those vessels have since been renamed as Alegria and Felicity, and they are currently working for Allseas in the Black Sea."
-        }
-      ]
-    },
-    {
       "title": "MALAVIYA 20 SOLD AT AUCTION",
       "columns": [
         "MALAVIYA 20 SOLD AT AUCTION",
@@ -788,15 +775,6 @@
           "": "The Malaviya 20 was built to the UT 755 design by Aker Brattvaag in Norway. She has a length of 72m, breadth of 16m, deck area of 690m\u00b2 and deadweight of more than 3,000t. The vessel has been laid up in Great Yarmouth since she finished her most recent contract in 2016."
         }
       ]
-    },
-    {
-      "title": "BAHIA GRANDE BUYS ANCHOR HANDLER",
-      "columns": [
-        "![BG Warrior](https://i.imgur.com/7Z7Z7Z7.jpg)",
-        "Bahia Grande has acquired the former Pacific Warrior, and renamed the AHTS vessel as BG Warrior. The 2002-built vessel has been mobilised to Argentina by her new owners. The vessel was originally owned by Swire Pacific Offshore and was built by Brevik Construction in Norway. The BG Warrior, built to the UT 710 design, has a length of 68.9m and a breadth of 15.5m. She has an engine power of 10,657 bhp, providing a bollard pull of circa 140 tonnes, with a clear deck area of 471m\u00b2."
-      ],
-      "row_count": 0,
-      "rows": []
     },
     {
       "title": "OIL PRICE VS RIG UTILISATION",

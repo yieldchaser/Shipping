@@ -100,39 +100,62 @@ The two-week surge in rates from the USG has led to a dispersal of available ves
 
 ## Page 6
 
-Aframax:
+# Aframax:
 
 MEG experienced a 4% decline in rates as weakness in larger sizes influenced current levels. Additionally, the influx of ballast Aframax from SE Asian markets contributed to the softening trend. Across the pond, 70,000mt EC Mexico/USG also fell to WS235. Looking ahead, outlook remains bearish, but market is expected to fall, primarily due to continuing weak demand.
 
-Clean:
+# Clean:
 
-LR: LR2 tankers experienced a turnaround in fortunes last week. The market began with a downward trend but rebounded at the start of the week, reaching WS180. This recovery was driven by an influx of late June cargoes heading west. At closing, the TC1 rate for MEG/Japan climbed to WS200. MR: MR segments witness a decline this week. The previously strong rates on Far East to Singapore led to some cargoes conversion for LR. In the UKC, TC2 fell this week to WS154. The slowdown in demand towards the end of the month added to the sombre outlook.
+LR: LR2 tankers experienced a turnaround in fortunes last week. The market began with a downward trend but rebounded at the start of the week, reaching WS180. This recovery was driven by an influx of late June cargoes heading west. At closing, the TC1 rate for MEG/Japan climbed to WS200.
+
+MR: MR segments witness a decline this week. The previously strong rates on Far East to Singapore led to some cargoes conversion for LR. In the UKC, TC2 fell this week to WS154. The slowdown in demand towards the end of the month added to the sombre outlook.
 
 # Baltic Exchange Tanker Indices
+
+| INDICES | CURRENT | LAST WEEK | LAST YEAR | W-O-W CHANGE | Y-O-Y CHANGE |
+| --- | --- | --- | --- | --- | --- |
+| BDTI | 1,205 | 1,240 | 1,103 | -2.82% | +9.25% |
+| BCTI | 795 | 828 | 602 | -3.99% | +32.06% |
+
+# Tankers Values
+
+(Weekly)
+
+| TYPE | DWT | NB CONTRACT | NB PROMPT DELIVERY | 5 YEARS | 10 YEARS | 15 YEARS |
+| --- | --- | --- | --- | --- | --- | --- |
+| VLCC | 310,000 | 130 | 145 | 110 | 84 | 56 |
+| SUEZMAX | 160,000 | 89 | 99 | 83 | 68 | 49 |
+| AFRAMAX | 115,000 | 76 | 85 | 72 | 58 | 43 |
+| LR1 | 73,000 | 59 | 62 | 51 | 42 | 30 |
+| MR | 51,000 | 51 | 54 | 46 | 34 | 26 |
+| *(amount in USD million) | *(amount in USD million) | *(amount in USD million) | *(amount in USD million) | *(amount in USD million) | *(amount in USD million) | *(amount in USD million) |
+
+*(amount in USD million)
 
 ## Page 7
 
 # Tanker 12 months T/C rates average (in USD/day)
 
-| TYPE | DWT |  | CURRENT LAST | WEEK | LAST | YEAR |
+| TYPE | DWT | CURRENT | LAST WEEK | LAST YEAR | W-O-W CHANGE | Y-O-Y CHANGE |
 | --- | --- | --- | --- | --- | --- | --- |
-| VLCC | 310,000 |  | 47,500 | 47,500 | 38,500 |  |
-| SUEZMAX | 150,000 |  | 43,500 | 43,500 | 42,000 |  |
-| AFRAMAX | 110,000 |  | 47,750 | 47,750 | 43,500 |  |
-| LR1 | 74,000 |  | 37,000 | 37,000 | 29,250 |  |
-| MR | 47,000 |  | 30,250 | 30,250 Tankers S&P | 26,000 Report |  |
-| VESSEL | NAME | TYPE | DWT | YEAR | BUILT |  |
-|  |  |  |  |  | (MILLION) | USD |
-| ALPINE | CONFIDENCE | LR2 | 107,600 | 2010 | JAPAN |  |
-| AVRA | PATROS | LR1 | 74,998 | 2008 | S. KOREA |  |
-| CALANDRIA |  | MR | 45,950 | 2012 | JAPAN |  |
-| SONGA | CHALLENGE | PROD/ CHEM | 19,993 | 2009 | JAPAN |  |
+| VLCC | 310,000 | 47,500 | 47,500 | 38,500 | 0 | +23.38% |
+| SUEZMAX | 150,000 | 43,500 | 43,500 | 42,000 | 0 | +3.57% |
+| AFRAMAX | 110,000 | 47,750 | 47,750 | 43,500 | 0 | +9.77% |
+| LR1 | 74,000 | 37,000 | 37,000 | 29,250 | 0 | +26.50% |
+| MR | 47,000 | 30,250 | 30,250 | 26,000 | 0 | +16.35% |
 
-W-O-W CHANGE Y-O-Y CHANGE 0 +23.38% 0 +3.57% 0 +9.77% 0 +26.50% 0 +16.35%
+Tankers S&P Report
 
-PRICE 43.8 29.75 32.5 23.0 (SS)
+| VESSEL NAME | TYPE | DWT | YEAR | BUILT | PRICE (MILLION) USD | COMMENTS / BUYERS |
+| --- | --- | --- | --- | --- | --- | --- |
+| ALPINE CONFIDENCE | LR2 | 107,600 | 2010 | JAPAN | 43.8 | CHINESE BUYERS |
+| AVRA PATROS | LR1 | 74,998 | 2008 | S. KOREA | 29.75 | GREEK BUYERS |
+| CALANDRIA | MR | 45,950 | 2012 | JAPAN | 32.5 | UNDISCLOSED |
+| SONGA CHALLENGE | PROD/CHEM | 19,993 | 2009 | JAPAN | 23.0 (SS) | HEUNG-A SHIPPING |
 
-COMMENTS / BUYERS CHINESE BUYERS GREEK BUYERS UNDISCLOSED HEUNG-A SHIPPING
+Tanker 1 year T/C rates
+
+[SIGNATURE]
 
 ## Page 8
 

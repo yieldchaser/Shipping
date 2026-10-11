@@ -90,27 +90,28 @@ to affect the market. Inter pacific fare lower at US$ 7,750's region and r/v tri
 
 ## Page 4
 
-# Baltic Exchange Dry Bulk Indices
-
 ### BALTIC EXCHANGE DRY BULK INDICES
 
-CURRENT LAST WEEK LAST YEAR W-O-W CHANGE % Y-O-Y CHANGE %
+#### BALTIC EXCHANGE DRY BULK INDICES
 
+|  | CURRENT | LAST WEEK | LAST YEAR | W-O-W CHANGE % | Y-O-Y CHANGE % |
+| --- | --- | --- | --- | --- | --- |
 | BDI | 1,560 | 1,386 | 2,379 | +12.55 | -34.43 |
-|---|---|---|---|---|---|
 | BCI | 2,208 | 1,683 | 2,727 | +31.19 | -19.03 |
 | BPI | 1,652 | 1,659 | 2,444 | -0.42 | -32.41 |
 | BSI | 1,157 | 1,152 | 2,469 | +0.43 | -53.14 |
 | BHSI | 705 | 732 | 1,547 | -3.69 | -54.43 |
 
-### BULKER 12 MONTHS T/C RATES AVERAGE (IN USD/DAY)
+#### BULKER 12 MONTHS T/C RATES AVERAGE (IN USD/DAY)
 
-DWT CURRENT LAST WEEK LAST YEAR W-O-W CHANGE % Y-O-Y CHANGE % CAPE 180,000 15,250 14,500 23,750 +5.17 -35.79
-
+|  | DWT | CURRENT | LAST WEEK | LAST YEAR | W-O-W CHANGE % | Y-O-Y CHANGE % |
+| --- | --- | --- | --- | --- | --- | --- |
+| CAPE | 180,000 | 15,250 | 14,500 | 23,750 | +5.17 | -35.79 |
 | PANAMAX | 75,000 | 14,500 | 14,750 | 21,250 | -1.69 | -31.76 |
-|---|---|---|---|---|---|---|
 | SUPRAMAX | 52,000 | 13,500 | 13,000 | 24,250 | +3.85 | -44.33 |
 | HANDYSIZE | 32,000 | 10,250 | 10,500 | 24,500 | -2.38 | -58.16 |
+
+Dry Bulk 1 year T/C rates
 
 ## Page 5
 
@@ -166,33 +167,60 @@ The softening M.R. market has resulted in the reduction in L.R. rates in the USG
 
 # Tankers S&P Report
 
+| VESSEL NAME | TYPE | DWT | YEAR | BUILT | PRICE (MILLION) USD | COMMENTS / BUYERS |
+| --- | --- | --- | --- | --- | --- | --- |
+| RIDGEBURY MARY JANE | SUEZ | 149,993 | 2008 | JAPAN | 38.5 | UNDISCLOSED |
+| GULLIT | AFRA | 108,953 | 2008 | CHINA | 34.0 | UNDISCLOSED |
+| SEALOYALTY | AFRA | 106,468 | 2005 | JAPAN | 30.0 | UNDISCLOSED |
+| FOS ATHENS | AFRA | 105,171 | 2015 | S. KOREA | 50.0 | TURKISH BUYERS |
+| ANGGERIK | AFRA | 104,707 | 2003 | S. KOREA | N/A | UNDISCLLOSED |
+| SUMMIT AFRICA | LR1 | 73,427 | 2009 | CHINA | 24.0 | UNDISCLOSED |
+| T REX | MR | 50,548 | 2006 | S. KOREA | 19.2 | UNDISCLOSED |
+| NAVE DORADO | MR | 47,999 | 2005 | JAPAN | 15.6 | UNDISCLOSED |
+| HIGH VOYAGER | MR | 45,999 | 2014 | S. KOREA | 20.8 | D’AMICO INTERNATIONAL |
+| NAVE POLARIS / NAVE COSMOS | PROD / CHEM | 25,145 | 2011 | S. KOREA | 14.7 / 13.6 | UNDISCLOSED |
+| STRAUM | PROD / CHEM | 19,934 | 2010 | CHINA | 19.0 | UNDISCLOSED |
+
+# Tankers Values
+
+(Weekly)
+
+| TANKERS | DWT | NB CONTRACT | NB PROMPT DELIVERY | 5 YEARS | 10 YEARS | 20 YEARS |
+| --- | --- | --- | --- | --- | --- | --- |
+| VLCC | 310,000 | 120 | 122 | 92 | 70 | 50 |
+| SUEZMAX | 160,000 | 80 | 83 | 63 | 47 | 24 |
+| AFRAMAX | 115,000 | 62 | 73 | 58 | 43 | 24 |
+| PANAMAX-LR1 | 73,000 | 54 | 27 | 45 | 34 | 16 |
+| MR TANKER | 51,000 | 43 | 47 | 40 | 30 | 16 |
+
+* (amount in USD million)
+
 ## Page 7
 
 # Baltic Exchange Tanker Indices
 
-| TYPE | TANKER 12 MONTHS T/C RATES AVERAGE (IN USD/DAY) DWT | TANKER 12 MONTHS T/C RATES AVERAGE (IN USD/DAY) CURRENT | TANKER 12 MONTHS T/C RATES AVERAGE (IN USD/DAY) LAST WEEK | TANKER 12 MONTHS T/C RATES AVERAGE (IN USD/DAY) LAST YEAR | TANKER 12 MONTHS T/C RATES AVERAGE (IN USD/DAY) W-O-W CHANGE | Y-O-Y CHANGE |
-|---|---|---|---|---|---|---|
+#### BALTIC EXCHANGE TANKER INDICES
+
+|  | CURRENT | LAST WEEK | LAST YEAR | W-O-W CHANGE % | Y-O-Y CHANGE % |
+| --- | --- | --- | --- | --- | --- |
+| BDTI | 2,078 | 2,110 | 803 | -1.52 | +158.78 |
+| BCTI | 2,051 | 1,835 | 812 | +11.77 | +152.59 |
+
+#### TANKER 12 MONTHS T/C RATES AVERAGE (IN USD/DAY)
+
+| TYPE | DWT | CURRENT | LAST WEEK | LAST YEAR | W-O-W CHANGE | Y-O-Y CHANGE |
+| --- | --- | --- | --- | --- | --- | --- |
 | VLCC | 300,000 | 42,000 | 42,000 | 18,500 | 0 | +127.03 |
 | SUEZMAX | 150,000 | 45,000 | 45,000 | 18,500 | 0 | +143.24 |
 | AFRAMAX | 110,000 | 43,500 | 43,500 | 16,500 | 0 | +163.64 |
 | LR1 | 74,000 | 42,500 | 42,500 | 13,500 | 0 | +214.81 |
 | MR | 47,000 | 30,250 | 30,250 | 13,000 | 0 | +132.69 |
 
+Tanker 1 year T/C rates
+
 # Containers
 
-According to Alphaliner, the recent sales of containerships for recycling may indicate the start
-
-of a wave of demolitions that may occur in 2023 owing to overcapacity and the introduction
-
-of carbon rules. In 2022, the demolition of cellular container vessels hit an all-time low.
-
-Despite the anticipated record orderbook for the next two years, carriers have begun to feel
-
-the effects of the slowing global trade expansion. According to a recent assessment by
-
-UNCTAD, the outlook for international commerce remains bleak. Despite the ambiguity
-
-surrounding the global trade picture, negative factors are outweighing positive tendencies.
+According to Alphaliner, the recent sales of containerships for recycling may indicate the start of a wave of demolitions that may occur in 2023 owing to overcapacity and the introduction of carbon rules. In 2022, the demolition of cellular container vessels hit an all-time low. Despite the anticipated record orderbook for the next two years, carriers have begun to feel the effects of the slowing global trade expansion. According to a recent assessment by UNCTAD, the outlook for international commerce remains bleak. Despite the ambiguity surrounding the global trade picture, negative factors are outweighing positive tendencies.
 
 ## Page 8
 
@@ -294,15 +322,47 @@ Despite the sluggish market for steel in the country, offers for scrap are on th
 
 ## Page 13
 
-### Bunker Prices (USD / ton)
+As we advance, political instability and the economy, which is experiencing a shortage of U.S. dollars, and banks cannot handle letters of credit, shall play a vital role as it may drastically affect the buying ability of the Gaddani recyclers.
 
-| PORT | VLSFO (0.5%) | HSFO (3.5%) | MGO (0.1%) |
-| :--- | :---: | :---: | :---: |
+# Anchorage & Beaching Position (December 2022)
+
+| VESSEL NAME | TYPE | LDT | ARRIVAL | BEACHING |
+| --- | --- | --- | --- | --- |
+| CHANGI | BULKER | 9,824 | 01.12.2022 | 11.12.2022 |
+
+# ALIAGA, TURKEY
+
+Due to slow steel sales, Turkish steel makers, who restricted scrap purchases last week, are keeping away from the market this week.
+
+This week, there have been no requests for deep-sea scrap, and even demand for short-sea scrap has dropped considerably. No new activity was reported this week, with markets slowing towards the year's end.
+
+BEACHING TIDE DATES 2022
+Chattogram, Bangladesh : 23rd Dec. ~ 26th Dec. | 7th Jan ~ 10th Jan
+Alang, India : 21st Dec. ~ 29th Dec. |
+
+# Bunker Prices
+
+#### BUNKER PRICES (USD/TON)
+
+| PORTS | VLSFO (0.5%) | IFO380 CST | MGO (0.1%) |
+| --- | --- | --- | --- |
 | SINGAPORE | 603 | 382 | 958 |
 | HONG KONG | 628 | 426 | 970 |
 | FUJAIRAH | 651 | 355 | 1165 |
 | ROTTERDAM | 539 | 370 | 894 |
 | HOUSTON | 554 | 405 | 905 |
+
+# Exchange Rates
+
+#### EXCHANGE RATES
+
+|  | 16th DECEMBER | 9th DECEMBER | W-O-W % CHANGE |
+| --- | --- | --- | --- |
+| USD / CNY (CHINA) | 6.97 | 6.95 | -0.29% |
+| USD / BDT (BANGLADESH) | 103.18 | 103.18 | +0.00% |
+| USD / INR (INDIA) | 82.68 | 82.44 | -0.29% |
+| USD / PKR (PAKISTAN) | 224.95 | 224.64 | -0.14% |
+| USD / TRY (TURKEY) | 18.64 | 18.65 | +0.05% |
 
 ## Page 14
 

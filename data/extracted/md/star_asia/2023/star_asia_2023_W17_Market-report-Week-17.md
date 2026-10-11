@@ -90,9 +90,24 @@ BALTIC EXCHANGE DRY BULK INDICES
 
 ## Page 4
 
+#### BULKER 12 MONTHS T/C RATES AVERAGE (IN USD/DAY)
+
+|  | DWT | CURRENT | LAST WEEK | LAST YEAR | W-O-W CHANGE % | Y-O-Y CHANGE % |
+| --- | --- | --- | --- | --- | --- | --- |
+| CAPE | 180,000 | 19,500 | 19,750 | 28,625 | -1.27% | -31.88% |
+| PANAMAX | 75,000 | 15,750 | 16,500 | 26,000 | -4.55% | -39.42% |
+| SUPRAMAX | 52,000 | 15,250 | 15,500 | 26,000 | -1.61% | -41.35% |
+| HANDYSIZE | 32,000 | 11,750 | 12,000 | 23,250 | -2.08% | -49.46% |
+
+# Dry Bulk 1 year T/C rates
+
 # Tankers
 
-Oil prices rebounded midweek, rising 0.5% for Brent crude and 0.6% for West Texas Intermediate crude after falling more than 2% in the previous session. The increase was due to reports of declining U.S. crude oil and fuel inventories, which pointed to strong demand in the world's top oil consumer. According to API figures, U.S. crude oil stocks fell by about 6.1 million barrels in the week to April 21, compared with analysts' expectations of a 1 .5 million barrel decline. Gasoline inventories fell by 1.9 million barrels, while distillate inventories rose by 1.7 million barrels. The U.S. government will release official stockpile data later this week. However, the market remains concerned about potential new interest rate hikes and economic uncertainty that could limit fuel demand growth. China's economy grew by 2.2% in Q1, a significant improvement from the previous quarter's 0.6% growth. This was the third consecutive quarterly expansion following the easing of COVID-
+Oil prices rebounded midweek, rising 0.5% for Brent crude and 0.6% for West Texas Intermediate crude after falling more than 2% in the previous session. The increase was due to reports of declining U.S. crude oil and fuel inventories, which pointed to strong demand in the world's top oil consumer.
+
+According to API figures, U.S. crude oil stocks fell by about 6.1 million barrels in the week to April 21, compared with analysts' expectations of a 1.5 million barrel decline. Gasoline inventories fell by 1.9 million barrels, while distillate inventories rose by 1.7 million barrels. The U.S. government will release official stockpile data later this week. However, the market remains concerned about potential new interest rate hikes and economic uncertainty that could limit fuel demand growth.
+
+China's economy grew by 2.2% in Q1, a significant improvement from the previous quarter's 0.6% growth. This was the third consecutive quarterly expansion following the easing of COVID-
 
 ## Page 5
 
@@ -120,26 +135,20 @@ MR: There is an adjustment in response to the rapid market growth that has conti
 
 # Tankers S&P Report
 
-## PRICE VESSEL NAME TYPE DWT YEAR BUILT COMMENTS / BUYERS (MILLION) USD
-
-UNITED NATIONS
-
-| NAUTICA | VLCC | 307,284 | 2008 | CHINA | 55.0 |
-|---|---|---|---|---|---|
-| ACE PORTER | VLCC | 301,021 | 2008 | S. KOREA | N/A |
-| EAGLE BRENDA | SUEZ | 164,626 | 2001 | S. KOREA | 26.0 |
-| ARISTOKLIS | AFRA | 113,838 | 2017 | S. KOREA | 68.5 |
-| HAFNIA RHINE | LR1 | 76,578 | 2008 | CHINA | 26.5 |
-| SAUGER | LR1 | 76,652 | 2004 | S. KOREA | 18.5 |
-| BAHRI JASMINE | MR | 49,000 | 2005 | S. KOREA | 18.3 |
-| BAHRI IRIS STI MAGIC / | MR | 49,000 | 2005 | S. KOREA | 17.0 |
-
-STI MYSTERY / STI MARVEL / MT 47,499 2019 VIETNAM N/A SCORPIO TANKERS STI MYTHIC / STI MAGISTER
-
+| VESSEL NAME | TYPE | DWT | YEAR | BUILT | PRICE (MILLION) USD | COMMENTS / BUYERS |
+| --- | --- | --- | --- | --- | --- | --- |
+| NAUTICA | VLCC | 307,284 | 2008 | CHINA | 55.0 | UNITED NATIONS DEVELOPMENT PROGRAM |
+| ACE PORTER | VLCC | 301,021 | 2008 | S. KOREA | N/A | UNDISCLOSED |
+| EAGLE BRENDA | SUEZ | 164,626 | 2001 | S. KOREA | 26.0 | UNDISCLOSED |
+| ARISTOKLIS | AFRA | 113,838 | 2017 | S. KOREA | 68.5 | UNDISCLOSED |
+| HAFNIA RHINE | LR1 | 76,578 | 2008 | CHINA | 26.5 | EUROPEAN BUYERS |
+| SAUGER | LR1 | 76,652 | 2004 | S. KOREA | 18.5 | TURKISH BUYERS |
+| BAHRI JASMINE | MR | 49,000 | 2005 | S. KOREA | 18.3 | UNDISCLOSED |
+| BAHRI IRIS | MR | 49,000 | 2005 | S. KOREA | 17.0 | UAE BASED BUYERS |
+| STI MAGIC / STI MYSTERY / STI MARVEL / STI MYTHIC / STI MAGISTER | MT | 47,499 | 2019 | VIETNAM | N/A | SCORPIO TANKERS |
 | ODORI | MR | 45,897 | 2005 | JAPAN | 20.0 | UNDISCLOSED |
-|---|---|---|---|---|---|---|
-| SW JULIA I | MR PROD / | 40,246 | 2003 | S. KOREA | 15.2 | UNDISCLOSED |
-| BUNGA LILAC | CHEM | 19,992 | 2011 | JAPAN | 21.9 (S.S.) | CHINESE BUYERS |
+| SW JULIA I | MR | 40,246 | 2003 | S. KOREA | 15.2 | UNDISCLOSED |
+| BUNGA LILAC | PROD / CHEM | 19,992 | 2011 | JAPAN | 21.9 (S.S.) | CHINESE BUYERS |
 | PATANI | PROD / CHEM | 16,611 | 2009 | CHINA | 12.6 | SONGA |
 | TIGER PERSEVERANCE / TIGER RELIANCE | PROD / CHEM | 12,267 | 2019 | JAPAN | 28.5 / 26.5 (S.S.) | CHINESE BUYERS |
 
@@ -148,18 +157,37 @@ STI MYSTERY / STI MARVEL / MT 47,499 2019 VIETNAM N/A SCORPIO TANKERS STI MYTHIC
 (Weekly)
 
 | TANKERS | DWT | NB CONTRACT | NB PROMPT DELIVERY | 5 YEARS | 10 YEARS | 20 YEARS |
-|---|---|---|---|---|---|---|
+| --- | --- | --- | --- | --- | --- | --- |
 | VLCC | 310,000 | 121 | 125 | 100 | 76 | 52 |
 | SUEZMAX | 160,000 | 81 | 85 | 68 | 53 | 30 |
 | AFRAMAX | 115,000 | 65 | 77 | 62 | 52 | 29 |
 | PANAMAX-LR1 | 73,000 | 55 | 60 | 50 | 40 | 19 |
 | MR TANKER | 51,000 | 45 | 50 | 42 | 34 | 19 |
 
-*\*(amount in USD million)*
+* (amount in USD million)
 
 ## Page 7
 
 # Baltic Exchange Tanker Indices
+
+#### BALTIC EXCHANGE TANKER INDICES
+
+|  | CURRENT | LAST WEEK | LAST YEAR | W-O-W CHANGE % | Y-O-Y CHANGE % |
+| --- | --- | --- | --- | --- | --- |
+| BDTI | 1,053 | 1,146 | 1,253 | -8.12% | -15.96% |
+| BCTI | 783 | 1,014 | 1,255 | -22.78% | -37.61% |
+
+#### TANKER 12 MONTHS T/C RATES AVERAGE (IN USD/DAY)
+
+| TYPE | DWT | CURRENT | LAST WEEK | LAST YEAR | W-O-W CHANGE | Y-O-Y CHANGE |
+| --- | --- | --- | --- | --- | --- | --- |
+| VLCC | 300,000 | 40,000 | 40,000 | 16,000 | 0 | +150.00% |
+| SUEZMAX | 150,000 | 40,500 | 42,500 | 19,500 | -4.71% | +107.69% |
+| AFRAMAX | 110,000 | 42,500 | 47,500 | 18,500 | -10.53% | +129.73% |
+| LR1 | 74,000 | 35,500 | 35,500 | 16,750 | 0 | +111.94% |
+| MR | 47,000 | 29,000 | 30,000 | 16,250 | -3.33% | +78.46% |
+
+Tanker 1 year T/C rates
 
 # Containers
 
@@ -186,29 +214,33 @@ The SCFI increased last week as a result of freight rate increases on North Amer
 
 # Ship Recycling Market Snapshot
 
-| DESTINATION | TANKERS | BULKERS | MPP/ GENERAL | CONTAINERS | SENTIMENTS / WEEKLY FUTURE |
-|---|---|---|---|---|---|
-| *For green ship recycling, the prices are about | 520 ~ 530 | 500 ~ 510 | 510 ~ 520 | 540 ~ 550 | WEAK / |
-| CHATTOGRAM, BANGLADESH | \*560 ~ 570 | \*550 ~ 560 | \*530 ~ 540 | \*570 ~ 580 | WEAK / |
+| DESTINATION | TANKERS | BULKERS | MPP/ GENERAL CARGO | CONTAINERS | SENTIMENTS / WEEKLY FUTURE TREND |
+| --- | --- | --- | --- | --- | --- |
+| ALANG (WC INDIA) *For green ship recycling, the prices are about US$25-30/ton lower. | 520 ~ 530 | 500 ~ 510 | 510 ~ 520 | 540 ~ 550 | WEAK / |
+| CHATTOGRAM, BANGLADESH | *560 ~ 570 | *550 ~ 560 | *530 ~ 540 | *570 ~ 580 | WEAK / |
 | GADDANI, PAKISTAN | NA | NA | NA | NA | NA |
-| TURKEY \*For Non-EU ships. For E.U. Ship, the prices are about US$30-40/ton less | 320 ~ 330 | 310 ~ 320 | 300 ~ 310 | 330 ~ 340 | STABLE / |
+| TURKEY *For Non-EU ships. For E.U. Ship, the prices are about US$30-40/ton less | 320 ~ 330 | 310 ~ 320 | 300 ~ 310 | 330 ~ 340 | STABLE / |
 
-- All prices are USD per light displacement tonnage in the long ton.
-- The prices reported are net prices offered by the recycling yards.
-- Prices quoted are basis simple Japanese / Korean-built tonnages trading units. Premiums are paid on top of the above- quoted prices based on quality & quality of Spares, Non-Fe., bunkers, cargo history, and maintenance.
-- \* Prices are based on the subject Letters of Credit opening and case-to-case buying.
+All prices are USD per light displacement tonnage in the long ton.
+
+The prices reported are net prices offered by the recycling yards.
+
+Prices quoted are basis simple Japanese / Korean-built tonnages trading units. Premiums are paid on top of the above-quoted prices based on quality & quality of Spares, Non-Fe., bunkers, cargo history, and maintenance.
+
+* Prices are based on the subject Letters of Credit opening and case-to-case buying.
 
 ## 5-Year Ship Recycling Average Historical Prices
 
 (Week 17)
 
-```text
-DESTINATION 2018 2019 2020 2021 2022
-ALANG, INDIA 450 450 350 470 690
-CHATTOGRAM, BANGLADESH 430 455 330 480 660
-GADDANI, PAKISTAN 450 430 320 470 680
-ALIAGA, TURKEY 290 280 200 255 460
-```
+TABLE_PLACE_PLACEHOLDER_TOP_LEFT_0
+
+| DESTINATION | 2018 | 2019 | 2020 | 2021 | 2022 |
+| --- | --- | --- | --- | --- | --- |
+| ALANG, INDIA | 450 | 450 | 350 | 470 | 690 |
+| CHATTOGRAM, BANGLADESH | 430 | 455 | 330 | 480 | 660 |
+| GADDANI, PAKISTAN | 450 | 430 | 320 | 470 | 680 |
+| ALIAGA, TURKEY | 290 | 280 | 200 | 255 | 460 |
 
 ## Page 10
 
@@ -314,15 +346,39 @@ The Turkish flat steel products market is quiet due to the holiday season and ag
 
 ## Page 15
 
+# BEACHING TIDE DATES 2023
+
+Chattogram, Bangladesh : 5th ~ 8th May | 18th ~ 21st May
+
+Alang, India : 4th ~ 11th May | 16th ~ 24th May
+
+# Bunker Prices
+
+#### BUNKER PRICES (USD/TON)
+
+| PORTS | VLSFO (0.5%) | IFO380 CST | MGO (0.1%) |
+| --- | --- | --- | --- |
+| SINGAPORE | 580 | 463 | 698 |
+| HONG KONG | 605 | 481 | 704 |
+| FUJAIRAH | 574 | 452 | 971 |
+| ROTTERDAM | 539 | 454 | 693 |
+| HOUSTON | 557 | 444 | 729 |
+
 ### Exchange Rates
 
-| CURRENCY PAIR | 28th APRIL | 21st APRIL | W-O-W % CHANGE |
-| :--- | :---: | :---: | :---: |
+#### EXCHANGE RATES
+
+|  | 28 th APRIL | 21 st APRIL | W-O-W % CHANGE |
+| --- | --- | --- | --- |
 | USD / CNY (CHINA) | 6.92 | 6.88 | -0.58% |
 | USD / BDT (BANGLADESH) | 106.14 | 106.17 | 0.03% |
 | USD / INR (INDIA) | 81.80 | 82.09 | 0.35% |
 | USD / PKR (PAKISTAN) | 283.70 | 283.43 | -0.10% |
 | USD / TRY (TURKEY) | 19.45 | 19.40 | -0.26% |
+
+# Commodity Prices
+
+### HMS 1/2 & Tangshan Billet
 
 ## Page 16
 

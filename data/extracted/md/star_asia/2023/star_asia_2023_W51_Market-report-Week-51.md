@@ -112,11 +112,42 @@ Despite a continued slowdown in cargo intake from the Middle East, reduced avail
 
 ## Page 6
 
-Clean:
+# Clean:
 
-L.R.: The Middle East's recovery in CPP exports witnessed an increase in the MEG/Japan route this week. LR1 market had a quieter week in the Red Sea, with owners fixing slightly lower just before the holidays. In the east of Suez, the L.R. market saw some tightness as rates increased just a tick. MR: Steady cargo influx in the Northeast Asia region has resulted in a 4.9% increase in freight rates for the Korea/Southeast Asia route. However, a decrease in inbound cargo in the Southeast Asia market limits further increases. Overall, MR market experienced a busy week across the routes.
+L.R.: The Middle East's recovery in CPP exports witnessed an increase in the MEG/Japan route this week. LR1 market had a quieter week in the Red Sea, with owners fixing slightly lower just before the holidays. In the east of Suez, the L.R. market saw some tightness as rates increased just a tick.
+
+MR: Steady cargo influx in the Northeast Asia region has resulted in a 4.9% increase in freight rates for the Korea/Southeast Asia route. However, a decrease in inbound cargo in the Southeast Asia market limits further increases. Overall, MR market experienced a busy week across the routes.
 
 ## Baltic Exchange Tanker Indices
+
+| INDICES | CURRENT | LAST WEEK | LAST YEAR | W-O-W CHANGE | Y-O-Y CHANGE |
+| --- | --- | --- | --- | --- | --- |
+| BDTI | 1,197 | 1,103 | 1,887 | +8.52% | -36.57% |
+| BCTI | 963 | 933 | 2,143 | +3.22% | -55.06% |
+
+Tankers Values
+
+(Weekly)
+
+| TYPE | DWT | NB CONTRACT | NB PROMPT DELIVERY | 5 YEARS | 10 YEARS | 15 YEARS |
+| --- | --- | --- | --- | --- | --- | --- |
+| VLCC | 310,000 | 128 | 130 | 105 | 75 | 48 |
+| SUEZMAX | 160,000 | 85 | 95 | 78 | 61 | 34 |
+| AFRAMAX | 115,000 | 70 | 83 | 70 | 57 | 28 |
+| PANAMAX-LR1 | 73,000 | 57 | 63 | 51 | 41 | 23 |
+| MR TANKER | 51,000 | 47 | 53 | 43 | 34 | 20 |
+
+*(amount in USD million)
+
+Tanker 12 months T/C rates average (in USD/day)
+
+| TYPE | DWT | CURRENT | LAST WEEK | LAST YEAR | W-O-W CHANGE | Y-O-Y CHANGE |
+| --- | --- | --- | --- | --- | --- | --- |
+| VLCC | 310,000 | 45,250 | 45,250 | 41,500 | 0 | +9.04% |
+| SUEZMAX | 150,000 | 43,250 | 43,250 | 44,500 | 0 | -2.81% |
+| AFRAMAX | 110,000 | 42,000 | 42,000 | 43,500 | 0 | -3.45% |
+| LR1 | 74,000 | 32,750 | 31,750 | 42,500 | +3.15% | -22.94% |
+| MR | 47,000 | 26,750 | 26,000 | 30,250 | +2.88% | -11.57% |
 
 ## Page 7
 
@@ -138,38 +169,33 @@ As we look back on this segment, container rates for 6-12 months T.C. have seen 
 
 ## Page 8
 
-However, with the recent disruption in the Suez Canal due to the Houthi attacks, arrivals into the Gulf of Aden have seen a massive reduction in overall tonnage volumes this week, with container ships alone experiencing the bulk of the decline. This has led rates from Asia to Europe to rise, especially with the extra fuel costs. Overall, levels are still lower compared to pandemic rates.
+However, with the recent disruption in the Suez Canal due to the Houthi attacks, arrivals into the Gulf of Aden have seen a massive reduction in overall tonnage volumes this week, with container ships alone experiencing the bulk of the decline.
 
-VESSEL NAME
-
-ZHONG GU FU JIAN SUNNY IRIS
-
-CONTAINERS (BY TEU)
-
-900 - 1,200 1,600 - 1,800
-
-2,700 - 2,900 5,500 - 7,000
-
-*\*(amount in USD million)*
+This has led rates from Asia to Europe to rise, especially with the extra fuel costs. Overall, levels are still lower compared to pandemic rates.
 
 ## Containers S&P Report
 
-| TYPE | TEU | YEAR | BUILT | PRICE (MILLION) USD | COMMENTS / BUYERS |
-|---|---|---|---|---|---|
-| PMAX | 4,963 | 2010 | ROMANIA | 18.0 | TANGSHAN HEDE SHIPPING |
-| FEEDER | 1,048 | 2013 | S. KOREA | 10.2 | EHIRE OCEAN LINE |
+| VESSEL NAME | TYPE | TEU | YEAR | BUILT | PRICE (MILLION) USD | COMMENTS / BUYERS |
+| --- | --- | --- | --- | --- | --- | --- |
+| ZHONG GU FU JIAN | PMAX | 4,963 | 2010 | ROMANIA | 18.0 | TANGSHAN HEDE SHIPPING |
+| SUNNY IRIS | FEEDER | 1,048 | 2013 | S. KOREA | 10.2 | EHIRE OCEAN LINE |
 
 Containers Values
 
-*(Weekly)*
+(Weekly)
 
-| GEARED / | NB | NB PROMPT | 5 YEARS | 10 YEARS | 20 YEARS |
-|---|---|---|---|---|---|
-| GEARLESS | CONTRACT | DELIVERY |  |  |  |
-| Geared | 24 | 23 | 16 | 9 | 7 |
-| Geared | 29 | 25 | 20 | 14 | 10 |
-| Gearless | 41 | 36 | 28 | 15 | 12 |
-| Gearless | 93 | 76 | 64 | 36 | N/A |
+| CONTAINERS (BY TEU) | GEARED / GEARLESS | NB CONTRACT | NB PROMPT DELIVERY | 5 YEARS | 10 YEARS | 20 YEARS |
+| --- | --- | --- | --- | --- | --- | --- |
+| 900 – 1,200 | Geared | 24 | 23 | 16 | 9 | 7 |
+| 1,600 – 1,800 | Geared | 29 | 25 | 20 | 14 | 10 |
+| 2,700 – 2,900 | Gearless | 41 | 36 | 28 | 15 | 12 |
+| 5,500 – 7,000 | Gearless | 93 | 76 | 64 | 36 | N/A |
+
+Container 6-12 months T/C rates
+
+*(amount in USD million)
+
+1,000 TEU grd 1,700 TEU grd 2,750 TEU gls 9,000 TEU Eco
 
 ## Page 9
 
@@ -281,25 +307,28 @@ Turkish mills are maintaining their domestic scrap buying prices unchanged this 
 
 ## Page 16
 
-Chattogram, Bangladesh : 26 ~ 29 December | 13 ~ 16 January 2024 Alang, India : 24 ~ 30 December | 09 ~ 17 January 2024
+# BEACHING TIDE DATES 2023
 
----
+Chattogram, Bangladesh : 26 ~ 29 December | 13 ~ 16 January 2024
 
-BUNKER PRICES (USD/TON)
+Alang, India
 
-PORTS VLSFO (0.5%) IFO380 CST MGO (0.1%)
+: 24 ~ 30 December | 09 ~ 17 January 2024
 
+#### BUNKER PRICES (USD/TON)
+
+| PORTS | VLSFO (0.5%) | IFO380 CST | MGO (0.1%) |
+| --- | --- | --- | --- |
 | SINGAPORE | 581 | 447 | 734 |
-|---|---|---|---|
 | HONG KONG | 599 | 464 | 723 |
 | FUJAIRAH | 590 | 409 | 900 |
 | ROTTERDAM | 536 | 442 | 737 |
 | HOUSTON | 542 | 490 | 732 |
 
-EXCHANGE RATES
+#### EXCHANGE RATES
 
 | CURRENCY | 22nd DECEMBER | 15th DECEMBER | W-O-W % CHANGE |
-|---|---|---|---|
+| --- | --- | --- | --- |
 | USD / CNY (CHINA) | 7.12 | 7.11 | -0.14% |
 | USD / BDT (BANGLADESH) | 109.65 | 110.04 | +0.35% |
 | USD / INR (INDIA) | 83.15 | 83.02 | -0.16% |
@@ -308,18 +337,33 @@ EXCHANGE RATES
 
 ## HMS 1/2 & Tangshan Billet
 
+TANGSHAN BILLET EX-WORKS (CNY/T)
+
+HMS 1/2 TURKEY CFR (USD/T)
+
 ## Page 17
+
+# Commodities
+
+Copper prices surged on Wednesday, reaching their highest point in over four-and-a-half months due to restocking in China and increased physical demand. On the London Metal Exchange, three-month copper remained relatively stable at US$8,591 per metric ton but had touched US$8,665 earlier, marking the highest since August 4.
+
+Physical copper premiums, serving as an indicator of spot buying interest, also saw a rebound during the week. Despite the positive momentum, the ascent of copper prices was tempered by a stronger dollar index, making metals priced in greenbacks more expensive for buyers using other currencies.
+
+Chinese measures to stabilise the property market have boosted iron ore prices, but analysts predict a potential retreat in the next two years. Thermal and metallurgical coal prices are expected to decline, while oil and gas prices have returned to pre-conflict levels due to the absence of supply disruptions from the Israel-Hamas war.
+
+Despite a significant drop in lithium prices over the past year, committed projects for battery metals have surged by 75%, reaching AUS$5 billion (US$3.6 billion) in Australia. These projects now represent 9.3% of the total, equivalent to the shares held by iron ore.
 
 ### Iron Ore
 
-| COMMODITY (USD/MT) | GRADE |
-| --- | --- |
-| Iron Ore Fines, CNF Rizhao, China | Fines, Fe 62% (Aust. Origin) 135 -0.74% +16.29% 136 113 Iron Ore Fines, CNF Qingdao, China Fines, Fe 62.5% (Brazil Origin) 138 0% +18.84% 138 112 INDEX UNITS PRICE CHANGE %CHANGE CONTRACT Copper (Comex) USD / lb. 391.80 +0.05 +0.01% Mar 2024 3Mo Copper (L.M.E.) USD / MT 8,595.50 +13.00 +0.15% N/A 3Mo Aluminum (L.M.E.) USD / MT 2,244.00 +3.00 +0.13% N/A 3Mo Zinc (L.M.E.) USD / MT 2,547.00 -26.00 -1.01% N/A 3Mo Tin (L.M.E.) USD / MT 25,153.00 -50.00 -0.20% N/A |
+| COMMODITY | SIZE / GRADE | THIS WEEK USD / MT | W-O-W | Y-O-Y | LAST WEEK USD / MT | LAST YEAR USD / MT |
+| --- | --- | --- | --- | --- | --- | --- |
+| Iron Ore Fines, CNF Rizhao, China | Fines, Fe 62% (Aust. Origin) | 135 | -0.74% | +16.29% | 136 | 113 |
+| Iron Ore Fines, CNF Qingdao, China | Fines, Fe 62.5% (Brazil Origin) | 138 | 0% | +18.84% | 138 | 112 |
 
 ### Industrial Metal Rates
 
-| INDEX | UNITS | PRICE | CHANGE | % CHANGE | CONTRACT |
-| :--- | :--- | :---: | :---: | :---: | :---: |
+| INDEX | UNITS | PRICE | CHANGE | %CHANGE | CONTRACT |
+| --- | --- | --- | --- | --- | --- |
 | Copper (Comex) | USD / lb. | 391.80 | +0.05 | +0.01% | Mar 2024 |
 | 3Mo Copper (L.M.E.) | USD / MT | 8,595.50 | +13.00 | +0.15% | N/A |
 | 3Mo Aluminum (L.M.E.) | USD / MT | 2,244.00 | +3.00 | +0.13% | N/A |

@@ -224,11 +224,34 @@ The domestic scrap markets are posing early indications of a modest uptick follo
 
 ## Page 14
 
-Moreover, the policy introduces a halving of the minimum LDT requirement for the second block and offers incentives to circumvent penalties. These calculated financial relaxations are poised to bolster the Alang Ship Recycling Yard's competitive edge and sustainability, affirming its stature as a formidable entity within the international ship recycling domain. The Alang market is expected to remain quiet the coming week due to the financial year's end on March 31, alongside a subdued buying interest, possibly due to the upcoming religious festival and elections in April.
+Moreover, the policy introduces a halving of the minimum LDT requirement for the second block and offers incentives to circumvent penalties. These calculated financial relaxations are poised to bolster the Alang Ship Recycling Yard's competitive edge and sustainability, affirming its stature as a formidable entity within the international ship recycling domain.
 
-Chattogram, Bangladesh
+The Alang market is expected to remain quiet the coming week due to the financial year's end on March 31, alongside a subdued buying interest, possibly due to the upcoming religious festival and elections in April.
 
-Market sentiments have remained largely unchanged as activities in the markets slow down during Ramadan. Traditionally, the month of Ramadan marks a period of reduced activity, and the intensity for acquisitions is already showing signs of waning this week. Overall demand and pricing for ships remained stable, as the scarcity of vessels available for recycling has led recyclers to settle for smaller Chinese domestic ships, ensuring the continuation of operations.
+Anchorage & Beaching Position (March 2024)
+
+| VESSEL NAME | TYPE | LDT | ARRIVAL | BEACHING |
+| --- | --- | --- | --- | --- |
+| ERICA (UNDER TOW) | CONTAINER | 30,713 | 22.03.2024 | AWAITING |
+| AL JAMIL | GENERAL CARGO | 2,128 | 16.03.2024 | AWAITING |
+| SARCO | FISHING | 16,627 | 09.03.2024 | 12.03.2024 |
+| ANCIER | PASSENGER | 6,283 | 28.02.2024 | 10.03.2024 |
+
+# Chattogram, Bangladesh
+
+Market sentiments have remained largely unchanged as activities in the markets slow down during Ramadan. Traditionally, the month of Ramadan marks a period of reduced activity, and the intensity for acquisitions is already showing signs of waning this week.
+
+Overall demand and pricing for ships remained stable, as the scarcity of vessels available for recycling has led recyclers to settle for smaller Chinese domestic ships, ensuring the continuation of operations.
+
+Anchorage & Beaching Position (March 2024)
+
+| VESSEL NAME | TYPE | LDT | ARRIVAL | BEACHING |
+| --- | --- | --- | --- | --- |
+| ISL STAR | BULKER | 10,177 | 24.03.2024 | AWAITING |
+| XIN XIANG RUI | BULKER | 5,119 | 10.03.2024 | 24.03.2024 |
+| EZ FORTUNA | BULKER | 7,371 | 07.03.2024 | 18.03.2024 |
+| LMS LAXAPANA | TANKER | 1,203 | 10.03.2024 | 15.03.2024 |
+| YILDIZLAR 2 | WOOD CHIP | 10,347 | 07.03.2024 | 13.03.2024 |
 
 ## Page 15
 
@@ -253,34 +276,35 @@ Despite the accelerating depreciation of the Turkish lira against the US dollar 
 
 ## Page 16
 
-Chattogram, Bangladesh : 25 ~ 28 March | 08 ~ 11 April Alang, India : 26 ~ 30 March | 06 ~ 13 April
+# BEACHING TIDE DATES 2024
 
----
+Chattogram, Bangladesh : 25 ~ 28 March | 08 ~ 11 April
 
-BUNKER PRICES (USD/TON)
+Alang, India : 26 ~ 30 March | 06 ~ 13 April
 
-PORTS VLSFO (0.5%) HSFO (3.5%) MGO (0.1%)
+#### BUNKER PRICES (USD/TON)
 
+| PORTS | VLSFO (0.5%) | HSFO (3.5%) | MGO (0.1%) |
+| --- | --- | --- | --- |
 | SINGAPORE | 642 | 495 | 793 |
-|---|---|---|---|
 | HONG KONG | 641 | 500 | 801 |
 | FUJAIRAH | 643 | 461 | 900 |
 | ROTTERDAM | 598 | 484 | 798 |
 | HOUSTON | 654 | 496 |  |
 
-EXCHANGE RATES
+#### EXCHANGE RATES
 
 | CURRENCY | MARCH 22 | MARCH 15 | W-O-W % CHANGE |
-|---|---|---|---|
+| --- | --- | --- | --- |
 | USD / CNY (CHINA) | 7.22 | 7.19 | -0.42% |
 | USD / BDT (BANGLADESH) | 109.72 | 109.72 | 0 |
 | USD / INR (INDIA) | 83.57 | 82.87 | -0.84% |
 | USD / PKR (PAKISTAN) | 278.24 | 279.28 | +0.37% |
 | USD / TRY (TURKEY) | 32.01 | 32.21 | +0.62% |
 
-Sub-Continent and Turkey ferrous scrap markets insight
+# Sub-Continent and Turkey ferrous scrap markets insight
 
-In this week's ferrous scrap market in the Sub-continent and Turkey, trends showed mixed signals. Indian importers showed caution towards European shredded scrap due to pricing concerns, turning instead to offers from Africa for HMS, which saw a notable interest. In Pakistan, the commencement of Ramadan led to a slowdown in purchasing, impacting market activity. Conversely, Bangladeshi buyers are leaning towards bulk purchases, attracted by competitive prices, marking a shift from previous buying patterns. Meanwhile, in Turkey, scrap prices have held steady with expectations of increased buying activity as sellers anticipate a rise in steel rebar prices.
+In this week’s ferrous scrap market in the Sub-continent and Turkey, trends showed mixed signals. Indian importers showed caution towards European shredded scrap due to pricing concerns, turning instead to offers from Africa for HMS, which saw a notable interest. In Pakistan, the commencement of Ramadan led to a slowdown in purchasing, impacting market activity. Conversely, Bangladeshi buyers are leaning towards bulk purchases, attracted by competitive prices, marking a shift from previous buying patterns. Meanwhile, in Turkey, scrap prices have held steady with expectations of increased buying activity as sellers anticipate a rise in steel rebar prices.
 
 ## Page 17
 

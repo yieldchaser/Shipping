@@ -228,9 +228,38 @@ After a turbulent start in early July, marked by uncertainty and plunging domest
 
 ## Page 12
 
-Chattogram, Bangladesh
+# Anchorage & Beaching Position (July 2023)
 
-The shipbreaking industry in Bangladesh is facing a dire situation for the larger ships, weighing over 4,000 tons or valued over US$3 million. Cash buyers are struggling to obtain Letters of Credit within the required timeframe. Consequently, numerous previously sold ships have to line up at the outer anchorage for a substantial period before they receive the necessary LC.'s to enter the port. This predicament has become a new normal for the ships going to Chattogram until financing situations change. Under such circumstances, a large number of cash buyers have now resorted to pricing based on the Alang market, which remains stable at current levels. This shift in approach reflects the difficulties faced by larger vessels in Bangladesh, and cash buyers would not like to speculate in such conditions.
+| VESSEL NAME | TYPE | LDT | ARRIVAL | BEACHING |
+| --- | --- | --- | --- | --- |
+| YOUNG | FISHING | 556 | 16.07.2023 | 20.07.2023 |
+| ASIAN BULK | BULKER | 9,257 | 15.07.2023 | 19.07.2023 |
+| NERU | REEFER | 1,885 | 14.07.2023 | 18.07.2023 |
+| ORA | FISHING | 872 | 10.07.2023 | 14.07.2023 |
+| LARA | LNG | 23,707 | 07.07.2023 | 08.07.2023 |
+| MSC FEDERICA | CONTAINER | 23,740 | 01.07.2023 | 06.07.2023 |
+| MSC NICOLE | CONTAINER | 14,305 | 23.06.2023 | 02.07.2023 |
+
+# Chattogram, Bangladesh
+
+The shipbreaking industry in Bangladesh is facing a dire situation for the larger ships, weighing over 4,000 tons or valued over US$3 million. Cash buyers are struggling to obtain Letters of Credit within the required timeframe. Consequently, numerous previously sold ships have to line up at the outer anchorage for a substantial period before they receive the necessary LC.'s to enter the port. This predicament has become a new normal for the ships going to Chattogram until financing situations change.
+
+Under such circumstances, a large number of cash buyers have now resorted to pricing based on the Alang market, which remains stable at current levels. This shift in approach reflects the difficulties faced by larger vessels in Bangladesh, and cash buyers would not like to speculate in such conditions.
+
+# Anchorage & Beaching Position (July 2023)
+
+| VESSEL NAME | TYPE | LDT | ARRIVAL | BEACHING |
+| --- | --- | --- | --- | --- |
+| VICTORY | REEFER | 3,045 | 20.07.2023 | AWAITING |
+| JIA LIANG 18 | BULKER | 3,621 | 18.07.2023 | AWAITING |
+| SHUN DA YUN | GEN.CARGO | 4,587 | 15.07.2023 | AWAITING |
+| WELL WIN | BULKER | 8,939 | 11.07.2023 | AWAITING |
+| RUI | BULK | 7,607 | 13.07.2023 | 20.07.2023 |
+| SHANDONG EXPRESS | WOODCHIP | 8,658 | 14.07.2023 | 20.07.2023 |
+| PU HUI 2 | GEN. CARGO | 3,286 | 13.07.2023 | 19.07.2023 |
+| HONG HAO | GEN.CARGO | 11,856 | 20.06.2023 | 18.07.2023 |
+| MARCHIE 8 | GEN.CARGO | 1,593 | 10.07.2023 | 17.07.2023 |
+| HUA DONG 27 | GEN. CARGO | 3,520 | 06.07.2023 | 12.07.2023 |
 
 ## Page 13
 
@@ -251,31 +280,29 @@ Lately, there has been a subdued interest in buying activities, with recycling y
 
 ## Page 14
 
-Amidst the challenging economic situation, the Central Bank of Turkey took action by implementing a 250 basis point increase in interest rates, raising them from 15% to 17.5%. However, this move fell short of market expectations, leading to a considerable depreciation of the Turkish lira. It marks the second instance of a rate hike following the comprehensive restructuring of the nation's economic management team. The team had previously pledged to adopt rational and stringent monetary policies to address the economic difficulties. As Turkey deals with diminished market activity and currency depreciation, ship recyclers closely monitor the effectiveness of the recent policy adjustments in stabilising the economy and restoring the lost confidence. Turkish shipbreaking scrap prices stand at US$365-371/ton delivered.
+Amidst the challenging economic situation, the Central Bank of Turkey took action by implementing a 250 basis point increase in interest rates, raising them from 15% to 17.5%.
 
----
+However, this move fell short of market expectations, leading to a considerable depreciation of the Turkish lira. It marks the second instance of a rate hike following the comprehensive restructuring of the nation's economic management team. The team had previously pledged to adopt rational and stringent monetary policies to address the economic difficulties. As Turkey deals with diminished market activity and currency depreciation, ship recyclers closely monitor the effectiveness of the recent policy adjustments in stabilising the economy and restoring the lost confidence. Turkish shipbreaking scrap prices stand at US$365-371/ton delivered.
 
-Chattogram, Bangladesh : 01 ~ 04 August | 16 ~ 19 August
+# BEACHING TIDE DATES 2023
 
-Alang, India : 01 ~ 07 August | 14 ~ 20 August
+* Chattogram, Bangladesh: 01 ~ 04 August | 16 ~ 19 August
+* Alang, India: 01 ~ 07 August | 14 ~ 20 August
 
----
+#### BUNKER PRICES (USD/TON)
 
-BUNKER PRICES (USD/TON)
-
-PORTS VLSFO (0.5%) IFO380 CST MGO (0.1%)
-
+| PORTS | VLSFO (0.5%) | IFO380 CST | MGO (0.1%) |
+| --- | --- | --- | --- |
 | SINGAPORE | 569 | 500 | 779 |
-|---|---|---|---|
 | HONG KONG | 579 | 504 | 718 |
 | FUJAIRAH | 562 | 458 | 845 |
 | ROTTERDAM | 549 | 484 | 767 |
 | HOUSTON | 568 | 479 | 778 |
 
-EXCHANGE RATES
+#### EXCHANGE RATES
 
 | CURRENCY | 21st JULY | 14th JULY | W-O-W % CHANGE |
-|---|---|---|---|
+| --- | --- | --- | --- |
 | USD / CNY (CHINA) | 7.18 | 7.13 | -0.70% |
 | USD / BDT (BANGLADESH) | 108.56 | 108.73 | +0.16% |
 | USD / INR (INDIA) | 81.96 | 82.16 | +0.24% |

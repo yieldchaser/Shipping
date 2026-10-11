@@ -101,21 +101,35 @@ The West African Suezmax market saw a reversal from the active chartering seen i
 
 ## Page 6
 
-Aframax:
+# Aframax:
 
 In the Middle East, the Aframax market concluded the week with lower freight rates as the summer slowdown in demand contributed to an accumulation of available tonnage. On the other hand, demand improved in the West of Suez regions, Black Sea and the Mediterranean, seeing gains. The Ceyhan/Lavera route improved to WS140.
 
-Clean:
+# Clean:
 
-**LR: In the MEG, LR2 concluded the week on a firm note. A consistent cargo flow for Africa**
+LR: In the MEG, LR2 concluded the week on a firm note. A consistent cargo flow for Africa has steadily absorbed available tonnage, lending strong support to rates. TC1 ended the week 18 points higher at WS147. Similar was also noted in LR1with TC5 closing at WS156.
 
-has steadily absorbed available tonnage, lending strong support to rates. TC1 ended the week 18 points higher at WS147. Similar was also noted in LR1with TC5 closing at WS156.
-
-**MR: The typical summer slowdown returns, as the number of available vessels uptick.**
-
-TC17 from MEG/E.Africa fell at the start of week 20 points only to regain back at closing at WS245. Similar was also noted in the UKC region as TC2 ended the week at WS120.
+MR: The typical summer slowdown returns, as the number of available vessels uptick. TC17 from MEG/E.Africa fell at the start of week 20 points only to regain back at closing at WS245. Similar was also noted in the UKC region as TC2 ended the week at WS120.
 
 ## Baltic Exchange Tanker Indices
+
+| INDICES | CURRENT | LAST WEEK | LAST YEAR | W-O-W CHANGE | Y-O-Y CHANGE |
+| --- | --- | --- | --- | --- | --- |
+| BDTI | 921 | 882 | 952 | +4.42% | -3.26% |
+| BCTI | 663 | 644 | 755 | +2.95% | -12.19% |
+
+# Tankers Values
+
+(Weekly)
+
+| TYPE | DWT | NB CONTRACT | NB PROMPT DELIVERY | 5 YEARS | 10 YEARS | 15 YEARS |
+| --- | --- | --- | --- | --- | --- | --- |
+| VLCC | 310,000 | 126 | 147 | 112 (E) | 83(E) | 51 |
+| SUEZMAX | 160,000 | 87 | 94 | 77 (E) | 62 (E) | 40 |
+| AFRAMAX | 115,000 | 75 | 77 | 64 (E) | 50 (E) | 35 |
+| LRI | 73,000 | 60 | 62 | 51 (E) | 42 (E) | 25 |
+| MR | 51,000 | 49 | 50 | 41 (E) | 30 (E) | 21 |
+| *(amount in USD million) I (E) – eco units | *(amount in USD million) I (E) – eco units | *(amount in USD million) I (E) – eco units | *(amount in USD million) I (E) – eco units | *(amount in USD million) I (E) – eco units | *(amount in USD million) I (E) – eco units | *(amount in USD million) I (E) – eco units |
 
 ## Page 7
 
@@ -219,22 +233,33 @@ Pakistan saw a positive week, with the recent purchase of several bulk carriers.
 
 ## Page 15
 
-progressing at least 70% of the required works-an essential step for demonstrating commitment toward obtaining HKC certification.
+progressing at least 70% of the required works—an essential step for demonstrating commitment toward obtaining HKC certification.
 
-Another quiet week over Turkey's ship recycling, with commercial activity remaining dormant as buyers have stepped back from the negotiating table. Meanwhile, the IMF recently upgraded its growth projections for the Turkish economy to 3% for 2025 and 3.3% for 2026, this long-term optimism is tempered by more immediate sentiment indicators. The nation's overall economic confidence index experienced a marginal decline in July to 96.3, remaining in pessimistic territory. This was further echoed by a dip in consumer confidence.
+Anchorage & Beaching Position (AUGUST 2025)
 
----
+| VESSEL NAME | TYPE | LDT | ARRIVAL | BEACHING |
+| --- | --- | --- | --- | --- |
+| - | - | - | - | - |
 
-Chattogram, Bangladesh : 9 ~ 12 August | 22 ~ 25 August Alang, India : 21 ~ 29 July | 8 ~ 16 August
+# Aliaga, Turkey
 
----
+Another quiet week over Turkey's ship recycling, with commercial activity remaining dormant as buyers have stepped back from the negotiating table.
 
-BUNKER PRICES (USD/ton)
+Meanwhile, the IMF recently upgraded its growth projections for the Turkish economy to 3% for 2025 and 3.3% for 2026, this long-term optimism is tempered by more immediate sentiment indicators. The nation's overall economic confidence index experienced a marginal decline in July to 96.3, remaining in pessimistic territory. This was further echoed by a dip in consumer confidence.
 
-PORTS VLSFO (0.5%) HSFO (3.5%) MGO (0.1%)
+# BEACHING TIDE DATES 2025
 
+Chattogram, Bangladesh : 9 ~ 12 August | 22 ~ 25 August
+
+Alang, India
+
+: 21 ~ 29 July | 8 ~ 16 August
+
+#### BUNKER PRICES (USD/ton)
+
+| PORTS | VLSFO (0.5%) | HSFO (3.5%) | MGO (0.1%) |
+| --- | --- | --- | --- |
 | SINGAPORE | 525 | 425 | 700 |
-|---|---|---|---|
 | HONG KONG | 546 | 455 | 700 |
 | FUJAIRAH | 514 | 408 | 750 |
 | ROTTERDAM | 499 | 445 | 694 |
@@ -242,23 +267,25 @@ PORTS VLSFO (0.5%) HSFO (3.5%) MGO (0.1%)
 
 ## Page 16
 
-Sub-Continent and Turkey ferrous scrap markets insights
+#### EXCHANGE RATES
 
-**India: The imported scrap market in India has grown quiet following a brief upturn earlier**
+| CURRENCY | August 1 | July 25 | W-O-W % CHANGE |
+| --- | --- | --- | --- |
+| USD / CNY (CHINA) | 7.20 | 7.16 | -0.56% |
+| USD / BDT (BANGLADESH) | 122.25 | 122.19 | -0.05% |
+| USD / INR (INDIA) | 87.18 | 86.50 | -0.79% |
+| USD / PKR (PAKISTAN) | 283.69 | 283.80 | +0.04% |
+| USD / TRY (TURKEY) | 40.64 | 40.55 | -0.22% |
 
-in the week. A sharp appreciation in the U.S. dollar, combined with lacklustre domestic steel demand, has significantly dampened buying interest. This has created a noticeable gap between sellers and buyers, with offers for European-origin shredded scrap heard at US$368-372 per ton CFR. Bids from Indian mills, however, are lagging by nearly US$10 per ton, reflecting the cautious domestic mood.
+# Sub-Continent and Turkey ferrous scrap markets insights
 
-**Pakistan: In Pakistan, the market sentiment remains weak, influenced by both the**
+India: The imported scrap market in India has grown quiet following a brief upturn earlier in the week. A sharp appreciation in the U.S. dollar, combined with lacklustre domestic steel demand, has significantly dampened buying interest. This has created a noticeable gap between sellers and buyers, with offers for European-origin shredded scrap heard at US$368-372 per ton CFR. Bids from Indian mills, however, are lagging by nearly US$10 per ton, reflecting the cautious domestic mood.
 
-ongoing monsoon slowdown and the downtrend in China's steel sector. Despite the cautious atmosphere, importers remain engaged in the market, with some recent bookings of UAE-origin shredded scrap reported in the range of US$390-394 per ton. However, the broader price trend is softening, with most deal levels having eased by US$4-5 per ton recently, and further weakening is expected until seasonal and regional market conditions improve.
+Pakistan: In Pakistan, the market sentiment remains weak, influenced by both the ongoing monsoon slowdown and the downtrend in China's steel sector. Despite the cautious atmosphere, importers remain engaged in the market, with some recent bookings of UAE-origin shredded scrap reported in the range of US$390-394 per ton. However, the broader price trend is softening, with most deal levels having eased by US$4-5 per ton recently, and further weakening is expected until seasonal and regional market conditions improve.
 
-**Bangladesh: Activity in Bangladesh is particularly subdued, with no major inquiries**
+Bangladesh: Activity in Bangladesh is particularly subdued, with no major inquiries reported as persistent monsoon rains continue to hamper logistics and limit new bookings. The market is quiet, with recent offers for containerised HMS 80:20 material holding around US$355 per ton, while Australian shredded was quoted near US$375 per ton.
 
-reported as persistent monsoon rains continue to hamper logistics and limit new bookings. The market is quiet, with recent offers for containerised HMS 80:20 material holding around US$355 per ton, while Australian shredded was quoted near US$375 per ton.
-
-**Turkey: The bellwether Turkish deep-sea market is currently in a holding pattern. Most**
-
-steel mills have covered their immediate needs and are now waiting for clearer demand signals from the finished steel market before committing to fresh bookings.
+Turkey: The bellwether Turkish deep-sea market is currently in a holding pattern. Most steel mills have covered their immediate needs and are now waiting for clearer demand signals from the finished steel market before committing to fresh bookings.
 
 ## Page 17
 

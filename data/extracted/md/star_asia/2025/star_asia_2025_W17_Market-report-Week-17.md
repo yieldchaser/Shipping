@@ -192,11 +192,20 @@ S&P Containers Report
 
 # Ships Sold for Recycling
 
+| VESSEL NAME | LDT/TON | YEAR / BUILT | TYPE | PRICE (USD/LDT LT) | COMMENTS |
+| --- | --- | --- | --- | --- | --- |
+| PILATUS 22 | 974 | 1989 / JAPAN | LPG | 440 | DELIVERED CHATTOGRAM |
+| STARLET | 3,609 | 2003 / TURKEY | TANKER | UNDISCLOSED | DELIVERED ALANG (WITH SS ONBOARD) |
+
 # Recycling Ships Price Trend
 
-TYPE PRICE (USD/LDT LT) LPG 440 TANKER UNDISCLOSED
+BANGLADESH SHIP RECYCLING PRICES
 
-COMMENTS DELIVERED CHATTOGRAM DELIVERED ALANG (WITH SS ONBOARD)
+TURKEY SHIP RECYCLING PRICES
+
+INDIA SHIP RECYCLING PRICES
+
+PAKISTAN SHIP RECYCLING PRICES
 
 ## Page 11
 
@@ -252,24 +261,26 @@ Turkish mills face multiple challenges, including delayed sales for the July EU 
 
 ## Page 15
 
-Chattogram, Bangladesh : 26 ~ 30 April | 11 ~17 May Alang, India : 26 April ~ 3 May | 10 ~14 May
+# BEACHING TIDE DATES 2025
 
----
+Chattogram, Bangladesh : 26 ~ 30 April | 11 ~17 May
 
-BUNKER PRICES (USD/ton)
+Alang, India : 26 April ~ 3 May | 10 ~14 May
+
+#### BUNKER PRICES (USD/ton)
 
 | PORTS | VLSFO (0.5%) | HSFO (3.5%) | MGO (0.1%) |
-|---|---|---|---|
+| --- | --- | --- | --- |
 | SINGAPORE | 499 | 442 | 616 |
 | HONG KONG | 509 | 468 | 620 |
 | FUJAIRAH | 492 | 428 | 709 |
 | ROTTERDAM | 455 | 421 | 621 |
 | HOUSTON | 475 | 403 | 629 |
 
-EXCHANGE RATES
+#### EXCHANGE RATES
 
 | CURRENCY | April 25 | April 18 | W-O-W % CHANGE |
-|---|---|---|---|
+| --- | --- | --- | --- |
 | USD / CNY (CHINA) | 7.28 | 7.29 | +0.14% |
 | USD / BDT (BANGLADESH) | 121.62 | 121.80 | +0.15% |
 | USD / INR (INDIA) | 85.44 | 85.43 | -0.01% |
@@ -282,7 +293,7 @@ Ferrous scrap prices remained under pressure this week, with key markets includi
 
 ## India
 
-India's imported scrap market remained subdued, with average prices slipping 2% w-ow to US$371/ton CFR. Weak global sentiment, falling domestic steel prices, and concerns over a potential 12% safeguard duty added to buyer caution. Shredded scrap offers from the UK/Europe hovered at US$370-375/ton CFR Nhava Sheva, but bids lagged at US$365- 370/ton. High port inventories, coupled with soft Turkish scrap values and rising freight costs, limited fresh bookings.
+India's imported scrap market remained subdued, with average prices slipping 2% w-o-w to US$371/ton CFR. Weak global sentiment, falling domestic steel prices, and concerns over a potential 12% safeguard duty added to buyer caution. Shredded scrap offers from the UK/Europe hovered at US$370-375/ton CFR Nhava Sheva, but bids lagged at US$365-370/ton. High port inventories, coupled with soft Turkish scrap values and rising freight costs, limited fresh bookings.
 
 ## Page 16
 
@@ -302,16 +313,23 @@ Turkey's imported scrap market saw prices tumble to a three-year low, weighed do
 
 ## Page 17
 
+# Commodities (Week in focus)
+
+Iron ore futures declined on Thursday, breaking a three-day upward streak as the market absorbed indications of strengthening supply from increased shipments. The most-traded September iron ore contract on China's Dalian Commodity Exchange closed 0.28% lower at 726.5 yuan (US$98.76) per metric ton, while the benchmark May iron ore on the Singapore Exchange fell 0.99% to US$99.25 a ton. This pullback came as shipments to China rebounded by 178,000 tons this week. Further supporting the supply outlook, consultancy Mysteel reported that iron ore shipments from Port Hedland—Western Australia's premier iron ore terminal—jumped significantly by 30.3% m-o-m in March following February's decline.
+
+Despite the downward pressure, prices found some support from improved steel demand as production gained momentum across China's steel sector. This recovery trend continued into April, with consultancy Lange Steel reporting that daily average steel production among key enterprises reached 2.113 million tons in mid-April, representing a 3.3% m-o-m increase according to statistics from the China Iron and Steel Industry Association. Other steelmaking ingredients on the Dalian Commodity Exchange showed more positive movement, with coking coal and coke gaining 0.84% and 1.56% respectively.
+
 ### Iron Ore
 
-| COMMODITY (USD/MT) | GRADE |
-| --- | --- |
-| Iron Ore Fines, CNF Rizhao, China | Fines, Fe 62% (Aust. Origin) 100 0% -15.96% 100 119 Iron Ore Fines, CNF Qingdao, China Fines, Fe 62.5% (Brazil Origin) 98 +1.03% -19.0% 97 121 INDEX UNITS PRICE CHANGE %CHANGE CONTRACT Copper (Comex) USD / lb. 489.50 -1.55 -0.32% Jul 2025 3Mo Copper (L.M.E.) USD / MT 9,374.00 -18.50 -0.20% N/A 3Mo Aluminum (L.M.E.) USD / MT 2,428.00 -21.00 -0.86% N/A 3Mo Zinc (L.M.E.) USD / MT 2,646.50 -41.00 -1.53% N/A 3Mo Tin (L.M.E.) USD / MT 31,980.00 +217.00 +0.68% N/A |
+| COMMODITY | SIZE / GRADE | THIS WEEK USD / MT | W-O-W | Y-O-Y | LAST WEEK USD / MT | LAST YEAR USD / MT |
+| --- | --- | --- | --- | --- | --- | --- |
+| Iron Ore Fines, CNF Rizhao, China | Fines, Fe 62% (Aust. Origin) | 100 | 0% | -15.96% | 100 | 119 |
+| Iron Ore Fines, CNF Qingdao, China | Fines, Fe 62.5% (Brazil Origin) | 98 | +1.03% | -19.0% | 97 | 121 |
 
 ### Industrial Metal Rates
 
-| INDEX | UNITS | PRICE | CHANGE | % CHANGE | CONTRACT |
-| :--- | :--- | :---: | :---: | :---: | :---: |
+| INDEX | UNITS | PRICE | CHANGE | %CHANGE | CONTRACT |
+| --- | --- | --- | --- | --- | --- |
 | Copper (Comex) | USD / lb. | 489.50 | -1.55 | -0.32% | Jul 2025 |
 | 3Mo Copper (L.M.E.) | USD / MT | 9,374.00 | -18.50 | -0.20% | N/A |
 | 3Mo Aluminum (L.M.E.) | USD / MT | 2,428.00 | -21.00 | -0.86% | N/A |

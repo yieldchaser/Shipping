@@ -155,9 +155,32 @@ Y-O-Y CHANGE +6.34% +4.15%
 
 ## Containers
 
-This week, spot container freight rates remained elevated as a result of ongoing disruptions in the Red Sea. Far East to Europe fares remained more than three times the level observed at the start of December. In the 2,750 TEU, 6-12 months TC saw rates jump by almost US$2,500 within the last 2 weeks, while 9,000 TEU saw rates improve by almost US$3,000. This week also saw SNP sales continue to pick up, with interest in older units seeing much interest. The segment is expected to continue the upward trajectory in the coming weeks.
+This week, spot container freight rates remained elevated as a result of ongoing disruptions in the Red Sea. Far East to Europe fares remained more than three times the level observed at the start of December.
+
+In the 2,750 TEU, 6-12 months TC saw rates jump by almost US$2,500 within the last 2 weeks, while 9,000 TEU saw rates improve by almost US$3,000. This week also saw SNP sales continue to pick up, with interest in older units seeing much interest. The segment is expected to continue the upward trajectory in the coming weeks.
 
 ## Containers S&P Report
+
+| VESSEL NAME | TYPE | TEU | YEAR | BUILT | PRICE (MILLION) USD | COMMENTS / BUYERS |
+| --- | --- | --- | --- | --- | --- | --- |
+| JACK LONDON / JONATHAN SWIFT | PMAX | 4,249 | 2010 | CHINA | 17.6 EACH | MPCC |
+| HERMANN SCHEPERS | FEEDER | 1,025 | 2003 | ROMANIA | 3.0 | TURKISH BUYERS |
+
+Containers Values
+
+(Weekly)
+
+| CONTAINERS (BY TEU) | GEARED / GEARLESS | NB CONTRACT | NB PROMPT DELIVERY | 5 YEARS | 10 YEARS | 15 YEARS |
+| --- | --- | --- | --- | --- | --- | --- |
+| 900 – 1,200 | Geared | 24 | 24 | 17 | 12 | 7 |
+| 1,600 – 1,800 | Geared | 29 | 26 | 20 | 16 | 11 |
+| 2,700 – 2,900 | Gearless | 41 | 38 | 29 | 19 | 13 |
+| 5,500 – 7,000 | Gearless | 94 | 80 | 67 | 37 | 24 |
+| *(amount in USD million) | *(amount in USD million) | *(amount in USD million) | *(amount in USD million) | *(amount in USD million) | *(amount in USD million) | *(amount in USD million) |
+
+Container 6-12 months T/C rates
+
+[SIGNATURE]
 
 ## Page 10
 
@@ -249,31 +272,32 @@ Anchorage & Beaching Position (February 2024)
 
 ## Page 16
 
-Aliaga, Turkey
+# Aliaga, Turkey
 
-Turkish steel mills maintained their domestic scrap buying prices unchanged from the previous week, despite a continued decline in imported scrap prices. Demand for scrap in Turkey remained weak, with no bookings for imported scrap reported on Wednesday. European suppliers sought US$415 per ton CFR for HMS 1&2 80:20, but Turkish mills found prices above US$410 per ton unfeasible. The consensus among market players was that the timing of Turkish buyers' decisions would be crucial in determining scrap prices, with sufficient availability of scrap reported. This week, shipbreaking scrap prices ranged from US$375 to US$416 per ton delivered.
+Turkish steel mills maintained their domestic scrap buying prices unchanged from the previous week, despite a continued decline in imported scrap prices. Demand for scrap in Turkey remained weak, with no bookings for imported scrap reported on Wednesday. European suppliers sought US$415 per ton CFR for HMS 1&2 80:20, but Turkish mills found prices above US$410 per ton unfeasible.
 
----
+The consensus among market players was that the timing of Turkish buyers' decisions would be crucial in determining scrap prices, with sufficient availability of scrap reported. This week, shipbreaking scrap prices ranged from US\$375 to US\$416 per ton delivered.
 
-Chattogram, Bangladesh : 26 ~ 29 February | 11 ~ 14 March Alang, India : 23 ~ 27 February | 8 ~ 15 March
+# BEACHING TIDE DATES 2024
 
----
+Chattogram, Bangladesh : 26 ~ 29 February | 11 ~ 14 March
 
-BUNKER PRICES (USD/TON)
+Alang, India : 23 ~ 27 February | 8 ~ 15 March
 
-PORTS VLSFO (0.5%) IFO380 CST MGO (0.1%)
+#### BUNKER PRICES (USD/TON)
 
+| PORTS | VLSFO (0.5%) | IFO380 CST | MGO (0.1%) |
+| --- | --- | --- | --- |
 | SINGAPORE | 642 | 442 | 822 |
-|---|---|---|---|
 | HONG KONG | 647 | 468 | 850 |
 | FUJAIRAH | 619 | 437 | 888 |
 | ROTTERDAM | 573 | 450 | 822 |
 | HOUSTON | 635 | 460 | 876 |
 
-EXCHANGE RATES
+#### EXCHANGE RATES
 
 | CURRENCY | FEBRUARY 16 | FEBRUARY 9 | W-O-W % CHANGE |
-|---|---|---|---|
+| --- | --- | --- | --- |
 | USD / CNY (CHINA) | 7.19 | 7.19 | 0 |
 | USD / BDT (BANGLADESH) | 109.76 | 109.73 | -0.03% |
 | USD / INR (INDIA) | 83.01 | 83.01 | 0 |

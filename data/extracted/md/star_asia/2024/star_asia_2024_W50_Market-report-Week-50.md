@@ -96,15 +96,35 @@ The West African market fell from WS88 to UKC despite being supported by Europeb
 
 ## Page 6
 
-Aframax:
+# Aframax:
 
 The Middle East market closed with a modest 2-point increase following the emergence of new cargoes. In the Mediterranean market, Ceyhan/Lavera trips lost 2 points with 80,000mt settling at WS140 at week's closing.
 
-Clean:
+# Clean:
 
-LR: After reaching a peak of WS120 points mid-week, the LR2 Middle East market has begun to cool off, closing with a 10-point decline to WS110 for TC1. In the LR1, levels for TC5 MEG/Japan remain stagnant as levels close at WS110. MR: The Far East market closed with slightly weakened rates as Chinese loading demand continues to remain subdued. In the UKC, TC2 saw renewed sentiments as levels jumped to WS146 at closing. Similarly, MEG market also saw rates improved on the TC17 route to E.Africa at WS201 mark.
+LR: After reaching a peak of WS120 points mid-week, the LR2 Middle East market has begun to cool off, closing with a 10-point decline to WS110 for TC1. In the LR1, levels for TC5 MEG/Japan remain stagnant as levels close at WS110.
+
+MR: The Far East market closed with slightly weakened rates as Chinese loading demand continues to remain subdued. In the UKC, TC2 saw renewed sentiments as levels jumped to WS146 at closing. Similarly, MEG market also saw rates improved on the TC17 route to E.Africa at WS201 mark.
 
 ## Baltic Exchange Tanker Indices
+
+| INDICES | CURRENT | LAST WEEK | LAST YEAR | W-O-W CHANGE | Y-O-Y CHANGE |
+| --- | --- | --- | --- | --- | --- |
+| BDTI | 929 | 943 | 1,103 | -1.48% | -15.78% |
+| BCTI | 661 | 625 | 933 | +5.76% | -29.15% |
+
+# Tankers Values
+
+(Weekly)
+
+| TYPE | DWT | NB CONTRACT | NB PROMPT DELIVERY | 5 YEARS | 10 YEARS | 15 YEARS |
+| --- | --- | --- | --- | --- | --- | --- |
+| VLCC | 310,000 | 128 | 143 | 114 | 84 | 56 |
+| SUEZMAX | 160,000 | 89 | 97 | 82 | 66 | 49 |
+| AFRAMAX | 115,000 | 74 | 85 | 71 | 60 | 43 |
+| LR1 | 73,000 | 61 | 67 | 57 | 47 | 31 |
+| MR | 51,000 | 51 | 52 | 49 | 40 | 27 |
+| *(amount in USD million) | *(amount in USD million) | *(amount in USD million) | *(amount in USD million) | *(amount in USD million) | *(amount in USD million) | *(amount in USD million) |
 
 ## Page 7
 
@@ -133,9 +153,27 @@ LR: After reaching a peak of WS120 points mid-week, the LR2 Middle East market h
 
 ## Containers
 
-Market conditions vary significantly across different routes, with Mediterranean, South American, and Southeast Asian routes showing strength due to early Lunar New Year cargo preparations and capacity adjustments. However, the US West Coast rates continue to decline amid oversupply and completed holiday shipments, while East Coast rates show modest decreases despite stable demand, with potential volume increases anticipated ahead of the ILA-USMX negotiation deadline. This week the freight market displayed divergent trends this week, with Transpacific routes showing significant strength while Far East-Europe rates experienced a mild softening. Most notably, SCFI for the Far East to U.S. West Coast routes recorded its most substantial weekly gain since May, surging 22% to reach US$4,023 per FEU.
+Market conditions vary significantly across different routes, with Mediterranean, South American, and Southeast Asian routes showing strength due to early Lunar New Year cargo preparations and capacity adjustments. However, the US West Coast rates continue to decline amid oversupply and completed holiday shipments, while East Coast rates show modest decreases despite stable demand, with potential volume increases anticipated ahead of the ILA-USMX negotiation deadline.
+
+This week the freight market displayed divergent trends this week, with Transpacific routes showing significant strength while Far East–Europe rates experienced a mild softening. Most notably, SCFI for the Far East to U.S. West Coast routes recorded its most substantial weekly gain since May, surging 22% to reach US$4,023 per FEU.
 
 ## Containers S&P Report
+
+| VESSEL NAME | TYPE | TEU | YEAR | BUILT | PRICE (MILLION) USD | COMMENTS / BUYERS |
+| --- | --- | --- | --- | --- | --- | --- |
+| ARIANA A | SUB PMAX | 2,702 | 2005 | GERMANY | 16.5 | UNDISCLOSED |
+| SPARKLE | SUB PMAX | 2,553 | 2009 | JAPAN | 23.0 | UNDISCLOSED |
+
+Containers Values
+
+| CONTAINERS (BY TEU) | GEARED / GEARLESS | NB CONTRACT | NB PROMPT DELIVERY | 5 YEARS | 10 YEARS | 15 YEARS |
+| --- | --- | --- | --- | --- | --- | --- |
+| 900 – 1,200 | Geared | 24 | 24 | 17 | 14 | 8 |
+| 1,600 – 1,850 | Geared | 30 | 33 | 25 | 19 | 15 |
+| 2,700 – 2,900 | Gearless | 41 | 43 | 34 | 27 | 23 |
+| 5,100 | Gearless | 81 | 77 | 66 | 35 | 32 |
+
+*(amount in USD million)
 
 ## Page 10
 
@@ -211,41 +249,62 @@ This week witnessed a sharp downturn in market sentiment across the ship recycli
 
 ## Page 17
 
-Looking forward, the market's recovery will likely depend on improvements in local steel demand and the stabilisation of the political landscape in key markets like Bangladesh. Until then, recyclers are expected to maintain a conservative approach, with limited activity and downward pressure on pricing persisting in the short term.
+Looking forward, the market’s recovery will likely depend on improvements in local steel demand and the stabilisation of the political landscape in key markets like Bangladesh. Until then, recyclers are expected to maintain a conservative approach, with limited activity and downward pressure on pricing persisting in the short term.
 
-Gadani, Pakistan
+Anchorage & Beaching Position (DECEMBER 2024)
 
-The ship recycling market has entered a phase of near-hibernation as the availability of end-of-life vessels dwindles to historically low levels. Compounding the inactivity, demand for ship scrap remains lacklustre, creating a double blow for an already subdued sector. The liquidity crunch has further shifted the focus toward need-based purchasing of imported ferrous scrap rather than speculative or opportunistic buying. This constrained approach reflects broader economic uncertainties and muted construction and manufacturing activity, traditionally strong drivers of scrap demand. Despite the current stagnation, industry players remain cautiously optimistic that the market may revive as macroeconomic conditions stabilise and as more ships are lined up for recycling due to a drastic fall in the freight rates, especially in the dry bulk segment.
+| VESSEL NAME | TYPE | LDT | ARRIVAL | BEACHING |
+| --- | --- | --- | --- | --- |
+| CORAL | LNG | 30,193 | 10.11.2024 | AWAITING |
+| FATIMA SARI | BULKER | 8,008 | 25.11.2024 | AWAITING |
+| ARMADA SEIATI | CONTAINER | 3,321 | 05.12.2024 | 11.12.2024 |
 
-Aliaga, Turkey
+# Gadani, Pakistan
+
+The ship recycling market has entered a phase of near-hibernation as the availability of end-of-life vessels dwindles to historically low levels. Compounding the inactivity, demand for ship scrap remains lacklustre, creating a double blow for an already subdued sector.
+
+The liquidity crunch has further shifted the focus toward need-based purchasing of imported ferrous scrap rather than speculative or opportunistic buying. This constrained approach reflects broader economic uncertainties and muted construction and manufacturing activity, traditionally strong drivers of scrap demand.
+
+Despite the current stagnation, industry players remain cautiously optimistic that the market may revive as macroeconomic conditions stabilise and as more ships are lined up for recycling due to a drastic fall in the freight rates, especially in the dry bulk segment.
+
+Anchorage & Beaching Position (DECEMBER 2024)
+
+| VESSEL NAME | TYPE | LDT | ARRIVAL | BEACHING |
+| --- | --- | --- | --- | --- |
+| - | - | - | - | - |
+
+# Aliaga, Turkey
 
 Turkish steel market dynamics showed mixed signals this week, with some domestic mills reducing their buying prices while imported scrap prices recovered following fresh US deals. Market participants express cautious optimism, noting that while there has been a
 
 ## Page 18
 
-rebound, sustained price increases will depend more on Turkey's domestic and export market fundamentals than on Chinese stimulus measures. Industry observers point out that Turkey is not facing immediate supply constraints for January-shipment scrap purchases, with shipbreaking scrap prices remaining stable at US$340-355/ton delivered, and the Turkish currency closing at TRY 34.94 to the dollar.
+rebound, sustained price increases will depend more on Turkey's domestic and export market fundamentals than on Chinese stimulus measures.
 
----
+Industry observers point out that Turkey is not facing immediate supply constraints for January–shipment scrap purchases, with shipbreaking scrap prices remaining stable at US$340-355/ton delivered, and the Turkish currency closing at TRY 34.94 to the dollar.
 
-Chattogram, Bangladesh : 14 - 17 December Alang, India : 12 - 20 December
+# BEACHING TIDE DATES 2024
 
----
+Chattogram, Bangladesh : 14 – 17 December
 
-BUNKER PRICES (USD/TON)
+Alang, India
 
-PORTS VLSFO (0.5%) HSFO (3.5%) MGO (0.1%)
+: 12 – 20 December
 
+#### BUNKER PRICES (USD/TON)
+
+| PORTS | VLSFO (0.5%) | HSFO (3.5%) | MGO (0.1%) |
+| --- | --- | --- | --- |
 | SINGAPORE | 541 | 456 | 674 |
-|---|---|---|---|
 | HONG KONG | 573 | 476 | 675 |
 | FUJAIRAH | 535 | 435 | 730 |
 | ROTTERDAM | 502 | 442 | 640 |
 | HOUSTON | 554 | 452 | 672 |
 
-EXCHANGE RATES
+#### EXCHANGE RATES
 
 | CURRENCY | December 13 | December 6 | W-O-W % CHANGE |
-|---|---|---|---|
+| --- | --- | --- | --- |
 | USD / CNY (CHINA) | 7.27 | 7.26 | -0.14% |
 | USD / BDT (BANGLADESH) | 119.53 | 119.79 | +0.22% |
 | USD / INR (INDIA) | 84.82 | 84.69 | -0.15% |
@@ -278,16 +337,25 @@ Robust rebar sales spurred mills to restock ahead of anticipated market shifts. 
 
 ## Page 21
 
+# Commodities
+
+Iron ore futures showed mixed performance on Friday, with Dalian's most-traded January contract closing at 797.0 yuan (US$109.50) per metric ton, down 1.12% for the day but managing a 0.31% weekly gain – its fourth consecutive weekly rise. Similarly, Singapore's benchmark January contract, despite falling 2.13% to US$103.8 per ton on Friday, recorded a 2.65% weekly increase. The market's cautious response reflects investor disappointment with China's Central Economic Work Conference, which, while promising increased budget deficits and monetary easing, lacked specific details that markets had anticipated following earlier Politburo signals.
+
+The broader market outlook remains constrained by several factors, including China's uncertain economic recovery path and record-high portside stocks exceeding 150 million tons for this time of year. This cautious sentiment has extended to other steelmaking ingredients, with DCE's coking coal and coke futures declining 2.15% and 3.12%, respectively, while Shanghai's steel benchmarks also weakened across the board, with rebar dropping 1.73% and hot-rolled coil falling nearly 1.9%.
+
+Market analysts suggest that sustained price increases will likely remain challenging until there are clearer signs of sustainable economic recovery in China, with more detailed policy measures expected around March 2025.
+
 ### Iron Ore
 
-| COMMODITY (USD/MT) | GRADE |
-| --- | --- |
-| Iron Ore Fines, CNF Rizhao, China | Fines, Fe 62% (Aust. Origin) 107 +1.90% -21.32% 105 136 Iron Ore Fines, CNF Qingdao, China Fines, Fe 62.5% (Brazil Origin) 109 +1.86% -21.01% 107 138 INDEX UNITS PRICE CHANGE %CHANGE CONTRACT Copper (Comex) USD / lb. 419.60 -4.85 -1.14% Mar 2025 3Mo Copper (L.M.E.) USD / MT 9,091.50 -100.50 -1.09% N/A 3Mo Aluminum (L.M.E.) USD / MT 2,599.50 -1.50 -0.06% N/A 3Mo Zinc (L.M.E.) USD / MT 3,075.00 -50.50 -1.62% N/A 3Mo Tin (L.M.E.) USD / MT 29,534.00 -423.00 -1.41% N/A |
+| COMMODITY | SIZE / GRADE | THIS WEEK USD / MT | W-O-W | Y-O-Y | LAST WEEK USD / MT | LAST YEAR USD / MT |
+| --- | --- | --- | --- | --- | --- | --- |
+| Iron Ore Fines, CNF Rizhao, China | Fines, Fe 62% (Aust. Origin) | 107 | +1.90% | -21.32% | 105 | 136 |
+| Iron Ore Fines, CNF Qingdao, China | Fines, Fe 62.5% (Brazil Origin) | 109 | +1.86% | -21.01% | 107 | 138 |
 
 ### Industrial Metal Rates
 
-| INDEX | UNITS | PRICE | CHANGE | % CHANGE | CONTRACT |
-| :--- | :--- | :---: | :---: | :---: | :---: |
+| INDEX | UNITS | PRICE | CHANGE | %CHANGE | CONTRACT |
+| --- | --- | --- | --- | --- | --- |
 | Copper (Comex) | USD / lb. | 419.60 | -4.85 | -1.14% | Mar 2025 |
 | 3Mo Copper (L.M.E.) | USD / MT | 9,091.50 | -100.50 | -1.09% | N/A |
 | 3Mo Aluminum (L.M.E.) | USD / MT | 2,599.50 | -1.50 | -0.06% | N/A |

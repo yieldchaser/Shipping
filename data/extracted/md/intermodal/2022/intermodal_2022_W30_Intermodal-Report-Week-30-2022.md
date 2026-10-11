@@ -363,7 +363,7 @@ July ended with a total number of 59 units added to the current orderbook. LNG c
 # Intermodal Demolition Market
 ## Indicative Demolition Prices ($/ldt)
 
-| Markets | Markets | 29/07/2022 | 22/07/2022 | ±% | 2020 | 2019 |
+| Markets | 29/07/2022 | 22/07/2022 | ±% | 2020 | 2019 | 2018 |
 | --- | --- | --- | --- | --- | --- | --- |
 | Tanker |  |  |  |  |  |  |
 | Bangladesh | 580 | 580 | 0.0% | 348 | 410 | 442 |

@@ -102,15 +102,36 @@ The West African market continues to face challenges. Rates have been declining 
 
 compounded by sluggish local demand in West Africa. At closing however, rates rebounded slightly with 130,000mt Nigeria/UKC improving to WS79.
 
-Aframax:
+# Aframax:
 
 The market in the Middle East has been struggling with declining rates, due to soft demand across regions. However, prospects for recovery look promising this week, bolstered by the strengthening VLCC market in the MEG. In the Med, similar optimism was also spotted with Ceyhan/Lavera route jumping some 18 points as 80,000mt close the week higher at WS137.
 
-Clean:
+# Clean:
 
-LR: LR2 in the Middle East saw a turn of luck this week as TC1 improved to WS100. Despite seeing several new fixtures this week, freight rates have remained stable. LR1 also received some positive news this week with MEG/Japan seeing improvements to WS108 at closing. MR: MR in the Far East showed encouraging momentum. Rates have been trending upward, driven by weather challenges, as charterers seek replacement vessels to maintain their shipping schedules. In the MEG, rates have been relatively stagnant with TC17 closing the week at WS170.
+LR: LR2 in the Middle East saw a turn of luck this week as TC1 improved to WS100. Despite seeing several new fixtures this week, freight rates have remained stable. LR1 also received some positive news this week with MEG/Japan seeing improvements to WS108 at closing.
+
+MR: MR in the Far East showed encouraging momentum. Rates have been trending upward, driven by weather challenges, as charterers seek replacement vessels to maintain their shipping schedules. In the MEG, rates have been relatively stagnant with TC17 closing the week at WS170.
 
 ## Baltic Exchange Tanker Indices
+
+| INDICES | CURRENT | LAST WEEK | LAST YEAR | W-O-W CHANGE | Y-O-Y CHANGE |
+| --- | --- | --- | --- | --- | --- |
+| BDTI | 908 | 890 | 1,233 | +2.02% | -26.36% |
+| BCTI | 627 | 477 | 845 | +31.45% | -25.80% |
+
+# Tankers Values
+
+(Weekly)
+
+| TYPE | DWT | NB CONTRACT | NB PROMPT DELIVERY | 5 YEARS | 10 YEARS | 15 YEARS |
+| --- | --- | --- | --- | --- | --- | --- |
+| VLCC | 310,000 | 129 | 146 | 116 | 86 | 58 |
+| SUEZMAX | 160,000 | 90 | 99 | 83 | 68 | 50 |
+| AFRAMAX | 115,000 | 75 | 86 | 72 | 62 | 44 |
+| LRI | 73,000 | 62 | 68 | 58 | 48 | 32 |
+| MR | 51,000 | 52 | 53 | 50 | 41 | 28 |
+
+*(amount in USD million)
 
 ## Page 7
 
@@ -138,36 +159,26 @@ LR: LR2 in the Middle East saw a turn of luck this week as TC1 improved to WS100
 
 ## Containers
 
-Freight rates continued their downward trajectory this week, with Transpacific routes
-
-leading the decline as the SCFI for Shanghai to US West Coast routes registered a significant 9% decline to US$3,821 per FEU. Despite the carriers' recent attempts to implement General Rate Increases, the Far East to Europe corridor demonstrated
-
-remarkable stability. Meanwhile, Intra-Asian routes experienced a modest pullback, marking a shift from their robust upward momentum in previous weeks.
-
-VESSEL NAME BF TIGER STRAIT MAS ELIZABETH / CINDY BENEDIKT
-
-CONTAINERS (BY TEU) 900 - 1,200 1,600 - 1,850 2,700 - 2,900 5,100
-
-*\*(amount in USD million)*
+Freight rates continued their downward trajectory this week, with Transpacific routes leading the decline as the SCFI for Shanghai to US West Coast routes registered a significant 9% decline to US$3,821 per FEU. Despite the carriers' recent attempts to implement General Rate Increases, the Far East to Europe corridor demonstrated remarkable stability. Meanwhile, Intra-Asian routes experienced a modest pullback, marking a shift from their robust upward momentum in previous weeks.
 
 ## Containers S&P Report
 
-| TYPE | TEU | YEAR | BUILT | PRICE (MILLION) USD | COMMENTS / BUYERS |
-|---|---|---|---|---|---|
-| SUB PMAX | 2,824 | 2006 | S. KOREA | 20.0 | MSC |
-| SUB PMAX | 2,607 | 2002 | JAPAN | 19.0 | UNDISCLOSED |
-| SUB PMAX | 2,490 | 2003 | GERMANY | N/A | MSC |
-| FEEDER | 1,118 | 2006 | CHINA | 5.7 | UNDISCLOSED |
+| VESSEL NAME | TYPE | TEU | YEAR | BUILT | PRICE (MILLION) USD | COMMENTS / BUYERS |
+| --- | --- | --- | --- | --- | --- | --- |
+| BF TIGER | SUB PMAX | 2,824 | 2006 | S. KOREA | 20.0 | MSC |
+| STRAIT MAS | SUB PMAX | 2,607 | 2002 | JAPAN | 19.0 | UNDISCLOSED |
+| ELIZABETH / CINDY | SUB PMAX | 2,490 | 2003 | GERMANY | N/A | MSC |
+| BENEDIKT | FEEDER | 1,118 | 2006 | CHINA | 5.7 | UNDISCLOSED |
 
 Containers Values
 
-| GEARED / | NB | NB PROMPT | 5 YEARS | 10 YEARS | 15 YEARS |
-|---|---|---|---|---|---|
-| GEARLESS | CONTRACT | DELIVERY |  |  |  |
-| Geared | 24 | 24 | 17 | 14 | 8 |
-| Geared | 30 | 33 | 25 | 19 | 15 |
-| Gearless | 41 | 43 | 34 | 27 | 23 |
-| Gearless | 81 | 77 | 66 | 35 | 32 |
+| CONTAINERS (BY TEU) | GEARED / GEARLESS | NB CONTRACT | NB PROMPT DELIVERY | 5 YEARS | 10 YEARS | 15 YEARS |
+| --- | --- | --- | --- | --- | --- | --- |
+| 900 – 1,200 | Geared | 24 | 24 | 17 | 14 | 8 |
+| 1,600 – 1,850 | Geared | 30 | 33 | 25 | 19 | 15 |
+| 2,700 – 2,900 | Gearless | 41 | 43 | 34 | 27 | 23 |
+| 5,100 | Gearless | 81 | 77 | 66 | 35 | 32 |
+| *(amount in USD million) | *(amount in USD million) | *(amount in USD million) | *(amount in USD million) | *(amount in USD million) | *(amount in USD million) | *(amount in USD million) |
 
 ## Page 9
 
@@ -263,15 +274,31 @@ Local steel demand remains under pressure, with prices continuing to stagnate. S
 
 ## Page 16
 
-The influx of cheaper steel imports from Iran is further intensifying pricing pressures. Additionally, poor air quality and smog in several regions have disrupted construction activities, limiting any potential rebound in steel demand. While no new ship recycling deals were concluded this week, recyclers actively pursued fresh tonnages, with several vessels under negotiation. However, market dynamics suggest that recycling prices are likely to remain steady in the near term, with the potential for marginal downward adjustments given the weak demand and challenging economic conditions.
+The influx of cheaper steel imports from Iran is further intensifying pricing pressures. Additionally, poor air quality and smog in several regions have disrupted construction activities, limiting any potential rebound in steel demand.
 
-Turkish scrap import prices have plummeted to their lowest levels since November 2022, with a notable UK-origin HMS 1&2 80:20 cargo transaction closing at US$340/ton CFR. The downward pressure is evident across various supply sources, including a German cargo and reported Baltic shipments. The bearish sentiment has impacted domestic steel markets, forcing Turkish mills to reduce their rebar offers to US$585-600/ton exworks, as they grapple with weak domestic and export demand. Domestic shipbreaking scrap prices have similarly adjusted downward, settling at US$365/ton delivered, compared to last week's range. Against this backdrop of market weakness, the Turkish lira closed at 34.59 against the US dollar, further complicating the trading environment for local mills.
+While no new ship recycling deals were concluded this week, recyclers actively pursued fresh tonnages, with several vessels under negotiation. However, market dynamics suggest that recycling prices are likely to remain steady in the near term, with the potential for marginal downward adjustments given the weak demand and challenging economic conditions.
 
----
+Anchorage & Beaching Position (November 2024)
 
-Chattogram, Bangladesh : 30 November - 3 December | 14 - 17 December Alang, India : 29 November - 7 December | 12 - 20 December
+| VESSEL NAME | TYPE | LDT | ARRIVAL | BEACHING |
+| --- | --- | --- | --- | --- |
+| - | - | - | - | - |
 
----
+# Aliaga, Turkey
+
+Turkish scrap import prices have plummeted to their lowest levels since November 2022, with a notable UK-origin HMS 1&2 80:20 cargo transaction closing at US$340/ton CFR.
+
+The downward pressure is evident across various supply sources, including a German cargo and reported Baltic shipments. The bearish sentiment has impacted domestic steel markets, forcing Turkish mills to reduce their rebar offers to US$585-600/ton ex-works, as they grapple with weak domestic and export demand.
+
+Domestic shipbreaking scrap prices have similarly adjusted downward, settling at US$365/ton delivered, compared to last week's range. Against this backdrop of market weakness, the Turkish lira closed at 34.59 against the US dollar, further complicating the trading environment for local mills.
+
+# BEACHING TIDE DATES 2024
+
+Chattogram, Bangladesh : 30 November – 3 December | 14 – 17 December
+
+Alang, India
+
+: 29 November – 7 December | 12 – 20 December
 
 ## Page 17
 

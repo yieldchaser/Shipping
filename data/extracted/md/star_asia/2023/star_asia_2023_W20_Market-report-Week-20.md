@@ -125,33 +125,39 @@ L.R.: MEG/NE Asia W.S. experienced a 4.3% increase in the weekly rate. This rise
 
 # Tankers S&P Report
 
-(MILLION) USD
-
-| VESSEL NAME | TYPE | DWT | YEAR | BUILT |  | COMMENTS / BUYERS |
-|---|---|---|---|---|---|---|
-| BALTIC SUNRISE WONDER POLARIS / | VLCC | 309,373 | 2005 2005 / | S. KOREA | 51.5 | CHINESE BUYERS |
-| WONDER BELLATRIX | AFRA | 115,341 | 2006 | S. KOREA | 72.0 EN BLOC | UNDISCLOSED |
+| VESSEL NAME | TYPE | DWT | YEAR | BUILT | PRICE (MILLION) USD | COMMENTS / BUYERS |
+| --- | --- | --- | --- | --- | --- | --- |
+| BALTIC SUNRISE | VLCC | 309,373 | 2005 | S. KOREA | 51.5 | CHINESE BUYERS |
+| WONDER POLARIS / WONDER BELLATRIX | AFRA | 115,341 | 2005 / 2006 | S. KOREA | 72.0 EN BLOC | UNDISCLOSED |
 | AFRAMAX RIVIERA | AFRA | 107,113 | 2005 | JAPAN | 35.0 | UAE BASED BUYERS |
 | LUMEN N | LR1 | 63,599 | 2008 | S. KOREA | 22.25 | UNDISCLOSED |
 | GREEN POINT | MR | 49,511 | 2003 | S. KOREA | 13.0 | UAE BASED BUYERS |
 | SPLENDOUR CHILTERN | MR | 44,999 | 1999 | S. KOREA | 14.2 | UAE BASED BUYERS |
-| JENNY I SUPER INFINITY / | MR | 40,128 | 2003 | S. KOREA | 17.0 | EUROPEAN BUYERS |
-
-15,004 SUPER HERO / PROD / ~ 2009 S. KOREA 9.0 EACH UNDISCLOSED SUPER EASTERN / CHEM 12,814 SUPER FORTER
+| JENNY I | MR | 40,128 | 2003 | S. KOREA | 17.0 | EUROPEAN BUYERS |
+| SUPER INFINITY / SUPER HERO / SUPER EASTERN / SUPER FORTER | PROD / CHEM | 15,004 ~ 12,814 | 2009 | S. KOREA | 9.0 EACH | UNDISCLOSED |
 
 ## Tankers Values
 
 (Weekly)
 
 | TANKERS | DWT | NB CONTRACT | NB PROMPT DELIVERY | 5 YEARS | 10 YEARS | 20 YEARS |
-|---|---|---|---|---|---|---|
+| --- | --- | --- | --- | --- | --- | --- |
 | VLCC | 310,000 | 125 | 125 | 100 | 75 | 52 |
 | SUEZMAX | 160,000 | 83 | 85 | 70 | 55 | 30 |
 | AFRAMAX | 115,000 | 75 | 77 | 62 | 50 | 29 |
 | PANAMAX-LR1 | 73,000 | 58 | 60 | 48 | 38 | 19 |
 | MR TANKER | 51,000 | 46 | 50 | 42 | 32 | 19 |
 
+* (amount in USD million)
+
 # Baltic Exchange Tanker Indices
+
+#### BALTIC EXCHANGE TANKER INDICES
+
+|  | CURRENT | LAST WEEK | LAST YEAR | W-O-W CHANGE % | Y-O-Y CHANGE % |
+| --- | --- | --- | --- | --- | --- |
+| BDTI | 1,312 | 1,218 | 1,111 | +7.72% | +18.09% |
+| BCTI | 587 | 637 | 1,465 | -7.85% | -59.93% |
 
 ## Page 8
 
@@ -172,36 +178,53 @@ The Valencia Containerised Freight Index (VCFI), ended 2022 at 3,603 points, dow
 # Containers S&P Report
 
 | VESSEL NAME | TYPE | TEU | YEAR | BUILT | PRICE (MILLION) USD | COMMENTS / BUYERS |
-|---|---|---|---|---|---|---|
+| --- | --- | --- | --- | --- | --- | --- |
 | INGRID | FEEDER | 698 | 2008 | CHINA | 5.8 | TURKISH BUYERS |
+
+# Containers Values
+
+(Weekly)
+
+| CONTAINERS (by TEU) | GEARED / GEARLESS | NB CONTRACT | NB PROMPT DELIVERY | 5 YEARS | 10 YEARS | 20 YEARS |
+| --- | --- | --- | --- | --- | --- | --- |
+| 900 – 1,200 | Geared | 23 | 22 | 15 | 10 | 8 |
+| 1,600 – 1,800 | Geared | 29 | 28 | 22 | 16 | 12 |
+| 2,700 – 2,900 | Gearless | 43 | 38 | 30 | 20 | 15 |
+| 5,500 – 7,000 | Gearless | 88 | 80 | 70 | 45 | N/A |
+
+** (amount in USD million)*
+
+Container 6-12 months T/C rates
 
 ## Page 10
 
 # Ship Recycling Market Snapshot
 
-| DESTINATION | TANKERS | BULKERS | MPP/ GENERAL | CONTAINERS | SENTIMENTS / WEEKLY FUTURE |
-|---|---|---|---|---|---|
-| *For green ship recycling, the prices are about | 540 ~ 550 | 520 ~ 530 | 530 ~ 540 | 550 ~ 560 | STABLE / |
-| CHATTOGRAM, BANGLADESH | \*560 ~ 570 | \*550 ~ 560 | \*530 ~ 540 | \*570 ~ 580 | STABLE / |
+| DESTINATION | TANKERS | BULKERS | MPP/ GENERAL CARGO | CONTAINERS | SENTIMENTS / WEEKLY FUTURE TREND |
+| --- | --- | --- | --- | --- | --- |
+| ALANG (WC INDIA) *For green ship recycling, the prices are about US$15-20/ton lower. | 540 ~ 550 | 520 ~ 530 | 530 ~ 540 | 550 ~ 560 | STABLE / |
+| CHATTOGRAM, BANGLADESH | *560 ~ 570 | *550 ~ 560 | *530 ~ 540 | *570 ~ 580 | STABLE / |
 | GADDANI, PAKISTAN | NA | NA | NA | NA | NA |
-| TURKEY \*For Non-EU ships. For E.U. Ship, the prices are about US$30-40/ton less | 320 ~ 330 | 310 ~ 320 | 300 ~ 310 | 330 ~ 340 | WEAK / |
+| TURKEY *For Non-EU ships. For E.U. Ship, the prices are about US$30-40/ton less | 320 ~ 330 | 310 ~ 320 | 300 ~ 310 | 330 ~ 340 | WEAK / |
 
-- All prices are USD per light displacement tonnage in the long ton.
-- The prices reported are net prices offered by the recycling yards.
-- Prices quoted are basis simple Japanese / Korean-built tonnages trading units. Premiums are paid on top of the above- quoted prices based on quality & quality of Spares, Non-Fe., bunkers, cargo history, and maintenance.
-- \* Prices are based on the subject Letters of Credit opening and case-to-case buying.
+All prices are USD per light displacement tonnage in the long ton.
+
+The prices reported are net prices offered by the recycling yards.
+
+Prices quoted are basis simple Japanese / Korean-built tonnages trading units. Premiums are paid on top of the above-quoted prices based on quality & quality of Spares, Non-Fe., bunkers, cargo history, and maintenance.
+
+* Prices are based on the subject Letters of Credit opening and case-to-case buying.
 
 ## 5-Year Ship Recycling Average Historical Prices
 
 (Week 20)
 
-```text
-DESTINATION 2018 2019 2020 2021 2022
-ALANG, INDIA 450 435 330 510 675
-CHATTOGRAM, BANGLADESH 420 430 310 520 645
-GADDANI, PAKISTAN 440 420 300 510 660
-ALIAGA, TURKEY 290 270 170 280 400
-```
+| DESTINATION | 2018 | 2019 | 2020 | 2021 | 2022 |
+| --- | --- | --- | --- | --- | --- |
+| ALANG, INDIA | 450 | 435 | 330 | 510 | 675 |
+| CHATTOGRAM, BANGLADESH | 420 | 430 | 310 | 520 | 645 |
+| GADDANI, PAKISTAN | 440 | 420 | 300 | 510 | 660 |
+| ALIAGA, TURKEY | 290 | 270 | 170 | 280 | 400 |
 
 ## Page 11
 
@@ -298,15 +321,34 @@ Despite the uncertain political climate surrounding the Turkish General Election
 
 ## Page 16
 
-### Bunker Prices (USD / ton)
+#### BEACHING TIDE DATES 2023
 
-| PORT | VLSFO (0.5%) | HSFO (3.5%) | MGO (0.1%) |
-| :--- | :---: | :---: | :---: |
+Chattogram, Bangladesh : 18th ~ 21st May | 4th ~ 7th June
+Alang, India : 16th ~ 24th May | 2nd ~ 10th June
+
+# Bunker Prices
+
+#### BUNKER PRICES (USD/TON)
+
+| PORTS | VLSFO (0.5%) | IFO380 CST | MGO (0.1%) |
+| --- | --- | --- | --- |
 | SINGAPORE | 584 | 453 | 695 |
 | HONG KONG | 597 | 471 | 694 |
 | FUJAIRAH | 566 | 465 | 875 |
 | ROTTERDAM | 537 | 439 | 687 |
 | HOUSTON | 528 | 413 | 719 |
+
+# Exchange Rates
+
+#### EXCHANGE RATES
+
+|  | 19 th MAY | 12 th MAY | W-O-W % CHANGE |
+| --- | --- | --- | --- |
+| USD / CNY (CHINA) | 7.01 | 6.94 | -1.01% |
+| USD / BDT (BANGLADESH) | 107.32 | 107.38 | +0.06% |
+| USD / INR (INDIA) | 82.73 | 82.17 | -0.68% |
+| USD / PKR (PAKISTAN) | 285.70 | 285.25 | -0.16% |
+| USD / TRY (TURKEY) | 19.81 | 19.58 | -1.17% |
 
 ## Page 17
 

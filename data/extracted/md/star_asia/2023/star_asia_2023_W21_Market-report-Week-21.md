@@ -154,24 +154,26 @@ L.R.: The LR1 market saw a bustling week, with strong activity observed. TC5 set
 
 ## Page 7
 
-# Baltic Exchange Tanker Indices
-
 ### BALTIC EXCHANGE TANKER INDICES
 
-| CURRENT | LAST WEEK | LAST YEAR | W-O-W CHANGE % | Y-O-Y CHANGE % |
-|---|---|---|---|---|
-| 1,156 | 1,312 | 1,126 | -11.89% | +2.66% |
-| 670 | 587 | 1,472 | +14.14% | -54.48% |
+#### BALTIC EXCHANGE TANKER INDICES
 
-### TANKER 12 MONTHS T/C RATES AVERAGE (IN USD/DAY)
+|  | CURRENT | LAST WEEK | LAST YEAR | W-O-W CHANGE % | Y-O-Y CHANGE % |
+| --- | --- | --- | --- | --- | --- |
+| BDTI | 1,156 | 1,312 | 1,126 | -11.89% | +2.66% |
+| BCTI | 670 | 587 | 1,472 | +14.14% | -54.48% |
+
+#### TANKER 12 MONTHS T/C RATES AVERAGE (IN USD/DAY)
 
 | TYPE | DWT | CURRENT | LAST WEEK | LAST YEAR | W-O-W CHANGE | Y-O-Y CHANGE |
-|---|---|---|---|---|---|---|
+| --- | --- | --- | --- | --- | --- | --- |
 | VLCC | 300,000 | 36,500 | 37,500 | 16,000 | -2.67% | +128.13% |
 | SUEZMAX | 150,000 | 39,500 | 39,500 | 21,000 | 0 | +88.10% |
 | AFRAMAX | 110,000 | 41,000 | 41,000 | 20,750 | 0 | +97.59% |
 | LR1 | 74,000 | 35,500 | 35,500 | 22,000 | 0 | +61.36% |
 | MR | 47,000 | 26,000 | 26,500 | 19,000 | -1.89% | +36.84% |
+
+Tanker 1 year T/C rates
 
 ## Page 8
 
@@ -198,29 +200,31 @@ Despite a significant decline in freight rates and an imbalance in supply and de
 
 # Ship Recycling Market Snapshot
 
-| DESTINATION | TANKERS | BULKERS | MPP/ GENERAL | CONTAINERS | SENTIMENTS / WEEKLY FUTURE |
-|---|---|---|---|---|---|
-| *For green ship recycling, the prices are about | 540 ~ 550 | 520 ~ 530 | 530 ~ 540 | 550 ~ 560 | STABLE / |
-| CHATTOGRAM, BANGLADESH | \*550 ~ 560 | \*540 ~ 550 | \*530 ~ 540 | \*570 ~ 580 | WEAK / |
+| DESTINATION | TANKERS | BULKERS | MPP/ GENERAL CARGO | CONTAINERS | SENTIMENTS / WEEKLY FUTURE TREND |
+| --- | --- | --- | --- | --- | --- |
+| ALANG (WC INDIA) *For green ship recycling, the prices are about US$15-20/ton lower. | 540 ~ 550 | 520 ~ 530 | 530 ~ 540 | 550 ~ 560 | STABLE / |
+| CHATTOGRAM, BANGLADESH | *550 ~ 560 | *540 ~ 550 | *530 ~ 540 | *570 ~ 580 | WEAK / |
 | GADDANI, PAKISTAN | NA | NA | NA | NA | NA |
-| TURKEY \*For Non-EU ships. For E.U. Ship, the prices are about US$30-40/ton less | 320 ~ 330 | 310 ~ 320 | 300 ~ 310 | 330 ~ 340 | WEAK / |
+| TURKEY *For Non-EU ships. For E.U. Ship, the prices are about US$30-40/ton less | 320 ~ 330 | 310 ~ 320 | 300 ~ 310 | 330 ~ 340 | WEAK / |
 
-- All prices are USD per light displacement tonnage in the long ton.
-- The prices reported are net prices offered by the recycling yards.
-- Prices quoted are basis simple Japanese / Korean-built tonnages trading units. Premiums are paid on top of the above- quoted prices based on quality & quality of Spares, Non-Fe., bunkers, cargo history, and maintenance.
-- \* Prices are based on the subject Letters of Credit opening and case-to-case buying.
+All prices are USD per light displacement tonnage in the long ton.
+
+The prices reported are net prices offered by the recycling yards.
+
+Prices quoted are basis simple Japanese / Korean-built tonnages trading units. Premiums are paid on top of the above-quoted prices based on quality & quality of Spares, Non-Fe., bunkers, cargo history, and maintenance.
+
+* Prices are based on the subject Letters of Credit opening and case-to-case buying.
 
 ### 5-Year Ship Recycling Average Historical Prices
 
 (Week 21)
 
-```text
-DESTINATION 2018 2019 2020 2021 2022
-ALANG, INDIA 450 435 330 510 675
-CHATTOGRAM, BANGLADESH 420 430 310 520 645
-GADDANI, PAKISTAN 440 420 300 510 660
-ALIAGA, TURKEY 290 270 170 280 400
-```
+| DESTINATION | 2018 | 2019 | 2020 | 2021 | 2022 |
+| --- | --- | --- | --- | --- | --- |
+| ALANG, INDIA | 450 | 435 | 330 | 510 | 675 |
+| CHATTOGRAM, BANGLADESH | 420 | 430 | 310 | 520 | 645 |
+| GADDANI, PAKISTAN | 440 | 420 | 300 | 510 | 660 |
+| ALIAGA, TURKEY | 290 | 270 | 170 | 280 | 400 |
 
 ## Page 10
 
@@ -340,15 +344,38 @@ In a noteworthy development this week, Hapag-Lloyd AG, successfully sold three i
 
 ## Page 16
 
-### Bunker Prices (USD / ton)
+Turkish mills' domestic scrap buying prices are showing diverging trends depending on their procurement requirements from the domestic market. While some mills decreased their buying prices from last week despite the further depreciation of the lira, those that need to source material have increased them. Activity in the imported scrap market is meanwhile quite weak.
 
-| PORT | VLSFO (0.5%) | HSFO (3.5%) | MGO (0.1%) |
-| :--- | :---: | :---: | :---: |
+While some market participants seem optimistic about improved steel demand after the second round of elections this coming weekend, others doubt it. Rebar demand in both export and domestic markets remains weak, pressuring prices. Moreover, the spread between buying and selling foreign currencies is negatively impacting Turkish mills' margins. Although mills' official domestic market rebar announcements were at US$630-650/t ex-works, some accepted to sell even at below US$630/t. Turkish shipbreaking scrap prices, meanwhile, stood mostly at US$380/t delivered.
+
+# BEACHING TIDE DATES 2023
+
+Chattogram, Bangladesh : 4th ~ 7th June | 17th ~ 20th June
+Alang, India : 2nd ~ 10th June | 14th ~ 22nd June
+
+# Bunker Prices
+
+#### BUNKER PRICES (USD/TON)
+
+| PORTS | VLSFO (0.5%) | IFO380 CST | MGO (0.1%) |
+| --- | --- | --- | --- |
 | SINGAPORE | 582 | 449 | 709 |
 | HONG KONG | 605 | 471 | 692 |
 | FUJAIRAH | 565 | 440 | 872 |
 | ROTTERDAM | 532 | 437 | 680 |
 | HOUSTON | 532 | 415 | 720 |
+
+# Exchange Rates
+
+#### EXCHANGE RATES
+
+|  | 26 th MAY | 19 th MAY | W-O-W % CHANGE |
+| --- | --- | --- | --- |
+| USD / CNY (CHINA) | 7.05 | 7.01 | -0.57% |
+| USD / BDT (BANGLADESH) | 107.21 | 107.32 | +0.10% |
+| USD / INR (INDIA) | 82.61 | 82.73 | +0.15% |
+| USD / PKR (PAKISTAN) | 285.10 | 285.70 | +0.21% |
+| USD / TRY (TURKEY) | 20.00 | 19.81 | -0.96% |
 
 ## Page 17
 

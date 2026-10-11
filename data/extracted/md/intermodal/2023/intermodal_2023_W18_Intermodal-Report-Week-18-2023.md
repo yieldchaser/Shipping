@@ -399,7 +399,7 @@ The shipbuilding market continues to see healthy volumes of activity across all 
 # Intermodal Demolition Market
 ## Indicative Demolition Prices ($/ldt)
 
-| Markets | Markets | 05/05/23 | 28/04/23 | ±% | 2022 | 2021 |
+| Markets | 05/05/23 | 28/04/23 | ±% | 2022 | 2021 | 2020 |
 | --- | --- | --- | --- | --- | --- | --- |
 | Tanker |  |  |  |  |  |  |
 | Bangladesh | 585 | 595 | -1.7% | 601 | 542 | 348 |

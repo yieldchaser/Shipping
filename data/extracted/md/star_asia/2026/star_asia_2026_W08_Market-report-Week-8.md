@@ -264,32 +264,41 @@ Turkiye market remains unchanged this week, with no new activity to report. Mark
 
 ## Page 16
 
-Chattogram, Bangladesh : 19 ~ 22 February | 4 ~ 7 March Alang, India : 16 ~ 23 February | 1 ~ 7 March
+# BEACHING TIDE DATES 2026
 
----
+Chattogram, Bangladesh : 19 ~ 22 February | 4 ~ 7 March
 
-BUNKER PRICES (USD/ton)
+Alang, India : 16 ~ 23 February | 1 ~ 7 March
 
-PORTS VLSFO (0.5%) HSFO (3.5%) MGO (0.1%)
+#### BUNKER PRICES (USD/ton)
 
+| PORTS | VLSFO (0.5%) | HSFO (3.5%) | MGO (0.1%) |
+| --- | --- | --- | --- |
 | SINGAPORE | 495 | 448 | 680 |
-|---|---|---|---|
 | HONG KONG | 509 | 493 | 709 |
 | FUJAIRAH | 489 | 432 | 753 |
 | ROTTERDAM | 461 | 404 | 679 |
 | HOUSTON | 466 | 371 | 660 |
 
-EXCHANGE RATES
+#### EXCHANGE RATES
 
 | CURRENCY | February 20 | February 13 | W-O-W % CHANGE |
-|---|---|---|---|
+| --- | --- | --- | --- |
 | USD / CNY (CHINA) | 6.90 | 6.90 | 0 |
 | USD / BDT (BANGLADESH) | 122.22 | 122.3 | +0.07% |
 | USD / INR (INDIA) | 90.97 | 90.61 | -0.40% |
 | USD / PKR (PAKISTAN) | 279.53 | 279.7 | +0.06% |
-| USD / TRY (TURKEY) | 43.84 Sub-Continent and Turkey ferrous scrap markets insights | 43.73 | -0.25% |
+| USD / TRY (TURKEY) | 43.84 | 43.73 | -0.25% |
 
-India The Indian imported scrap market reflects mixed sentiment, as a visible disconnect between supplier expectations and buyer willingness. Suppliers have been quoting HMS 80:20 at levels between US$352/t and US$355/t CFR; however, domestic buyers have largely resisted concluding deals at these points. Although buying interest at major ports like Nhava Sheva and Mundra has shown signs of firming, bids generally remain below the US$350/t threshold. Meanwhile, LMS bundles and turnings are finding a floor between US$325/t and US$330/t. Despite this wide availability of material, the Indian market remains highly selective and acutely sensitive to even minor price fluctuations. Bangladesh In Bangladesh, the imported ferrous scrap sentiment has witnessed a notable improvement as the market moves past the uncertainties of the election week. This
+Sub-Continent and Turkey ferrous scrap markets insights
+
+# India
+
+The Indian imported scrap market reflects mixed sentiment, as a visible disconnect between supplier expectations and buyer willingness. Suppliers have been quoting HMS 80:20 at levels between US$352/t and US$355/t CFR; however, domestic buyers have largely resisted concluding deals at these points. Although buying interest at major ports like Nhava Sheva and Mundra has shown signs of firming, bids generally remain below the US$350/t threshold. Meanwhile, LMS bundles and turnings are finding a floor between US$325/t and US$330/t. Despite this wide availability of material, the Indian market remains highly selective and acutely sensitive to even minor price fluctuations.
+
+# Bangladesh
+
+In Bangladesh, the imported ferrous scrap sentiment has witnessed a notable improvement as the market moves past the uncertainties of the election week. This
 
 ## Page 17
 

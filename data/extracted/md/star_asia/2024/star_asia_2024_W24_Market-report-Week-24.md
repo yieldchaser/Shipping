@@ -93,15 +93,36 @@ The West Africa/Europe route experienced a flat week due to slowing demand. 130,
 
 ## Page 6
 
-Aframax:
+# Aframax:
 
 The lack of fresh demand, coupled with the ripple effects from the larger vessel segments, led to a halt in the gains that had been driving the MEG Aframax market in recent months. Similarly in the Med, 80,000mt X-Med route lost 19 points slipping to WS162.
 
-Clean:
+# Clean:
 
-LR: LR2 rates generally softened despite a good week and steady sentiment. TC1 closed at WS200. In the LR1, MEG markets fell slightly with TC5 falling 11 points to WS230 MR: The market experienced a mixed week, with USG seeing softening levels while the UKC/USAC improved w-o-w to WS160, supported by a flurry of cargoes. In the MEG, rates fell from the previous week with TC17 slipping some 30 points to WS337.
+LR: LR2 rates generally softened despite a good week and steady sentiment. TC1 closed at WS200. In the LR1, MEG markets fell slightly with TC5 falling 11 points to WS230
+
+MR: The market experienced a mixed week, with USG seeing softening levels while the UKC/USAC improved w-o-w to WS160, supported by a flurry of cargoes. In the MEG, rates fell from the previous week with TC17 slipping some 30 points to WS337.
 
 # Baltic Exchange Tanker Indices
+
+| INDICES | CURRENT | LAST WEEK | LAST YEAR | W-O-W CHANGE | Y-O-Y CHANGE |
+| --- | --- | --- | --- | --- | --- |
+| BDTI | 1,240 | 1,267 | 1,148 | -2.13% | +8.01% |
+| BCTI | 828 | 858 | 584 | -3.50% | +41.78% |
+
+# Tankers Values
+
+(Weekly)
+
+| TYPE | DWT | NB CONTRACT | NB PROMPT DELIVERY | 5 YEARS | 10 YEARS | 15 YEARS |
+| --- | --- | --- | --- | --- | --- | --- |
+| VLCC | 310,000 | 130 | 145 | 115 | 85 | 58 |
+| SUEZMAX | 160,000 | 89 | 99 | 83 | 68 | 50 |
+| AFRAMAX | 115,000 | 74 | 85 | 72 | 60 | 44 |
+| LRI | 73,000 | 61 | 63 | 53 | 43 | 31 |
+| MR | 51,000 | 51 | 53 | 45 | 38 | 27 |
+
+*(amount in USD million)
 
 ## Page 7
 

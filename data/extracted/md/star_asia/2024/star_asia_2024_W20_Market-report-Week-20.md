@@ -112,17 +112,39 @@ Despite numerous charters in the Middle East, supply balance was maintained due 
 
 ## Page 6
 
-140,000mt MEG/Med remains around the WS95. Following a midweek surge in VLCC rates, Suezmax vessels experienced a rise in cargo influx, leading to an increase in West Africa- Europe routes. However, at closing 130,000mt Nigeria/UKC lost recent gains to WS102.
+140,000mt MEG/Med remains around the WS95. Following a midweek surge in VLCC rates, Suezmax vessels experienced a rise in cargo influx, leading to an increase in West Africa-Europe routes. However, at closing 130,000mt Nigeria/UKC lost recent gains to WS102.
 
-Aframax:
+# Aframax:
 
-Following an uptick of activities within Asia last week, there was a decrease in ballast supply from Asia to the Middle East. However, due to weak vessel demand in the Middle East region, freight rates ended the week unchanged. In the North Sea, 80,000mt Cross- UKC remains similar from last settling at WS144. In the Med/Black Sea area, rates firmed with a flurry of activity as cross-Med improved to WS195.
+Following an uptick of activities within Asia last week, there was a decrease in ballast supply from Asia to the Middle East. However, due to weak vessel demand in the Middle East region, freight rates ended the week unchanged. In the North Sea, 80,000mt Cross-UKC remains similar from last settling at WS144. In the Med/Black Sea area, rates firmed with a flurry of activity as cross-Med improved to WS195.
 
-Clean:
+# Clean:
 
-LR: Midweek saw a surge in freight rates, especially on the MEG/Far East route, which closed slightly higher. This was driven by an uptick in eastbound demand. In LR1, TC5 also saw a climb with rates jumping to WS268. While in the UKC, TC16 fell slightly to WS157. MR: In the Far East market, rates experienced a downward adjustment, leading to a relatively flat closing. MEG continued its uptick with TC17 climbing to WS394. On the other side, USG fell as TC14 lost about 40 points to WS132.
+LR: Midweek saw a surge in freight rates, especially on the MEG/Far East route, which closed slightly higher. This was driven by an uptick in eastbound demand. In LR1, TC5 also saw a climb with rates jumping to WS268. While in the UKC, TC16 fell slightly to WS157.
+
+MR: In the Far East market, rates experienced a downward adjustment, leading to a relatively flat closing. MEG continued its uptick with TC17 climbing to WS394. On the other side, USG fell as TC14 lost about 40 points to WS132.
 
 # Baltic Exchange Tanker Indices
+
+| INDICES | CURRENT | LAST WEEK | LAST YEAR | W-O-W CHANGE | Y-O-Y CHANGE |
+| --- | --- | --- | --- | --- | --- |
+| BDTI | 1,195 | 1,155 | 1,312 | +3.46% | -8.92% |
+| BCTI | 1,036 | 996 | 587 | +4.02% | +76.49% |
+
+# Tankers Values
+
+(Weekly)
+
+| TYPE | DWT | NB CONTRACT | NB PROMPT DELIVERY | 5 YEARS | 10 YEARS | 15 YEARS |
+| --- | --- | --- | --- | --- | --- | --- |
+| VLCC | 310,000 | 130 | 145 | 115 | 85 | 58 |
+| SUEZMAX | 160,000 | 88 | 99 | 83 | 68 | 50 |
+| AFRAMAX | 115,000 | 72 | 85 | 72 | 60 | 44 |
+| LR1 | 73,000 | 60 | 63 | 53 | 43 | 31 |
+| MR | 51,000 | 50 | 53 | 45 | 38 | 27 |
+| *(amount in USD million) | *(amount in USD million) | *(amount in USD million) | *(amount in USD million) | *(amount in USD million) | *(amount in USD million) | *(amount in USD million) |
+
+*(amount in USD million)
 
 ## Page 7
 
@@ -147,9 +169,30 @@ LR: Midweek saw a surge in freight rates, especially on the MEG/Far East route, 
 
 # Containers
 
-The SCFI, after a two-week break for the Labor Day holiday, surged at an unprecedented rate since the Suez Canal incident, surpassing previous highs. Freight rates on all routes to and from China exhibited an upward trend. This spike was fueled by a combination of factors. Shippers rushed to secure at least two weeks' worth of inventory due to longer transportation times from rerouting around the Cape of Good Hope, causing a surge in transportation demand. The Suez situation also contributed to port congestion. Ships rerouting around the Cape of Good Hope are now calling at smaller ports instead of regular terminals, leading to equipment usage limitations and bottlenecks at these smaller ports previously used by feeder vessels.
+The SCFI, after a two-week break for the Labor Day holiday, surged at an unprecedented rate since the Suez Canal incident, surpassing previous highs. Freight rates on all routes to and from China exhibited an upward trend.
+
+This spike was fueled by a combination of factors. Shippers rushed to secure at least two weeks' worth of inventory due to longer transportation times from rerouting around the Cape of Good Hope, causing a surge in transportation demand. The Suez situation also contributed to port congestion.
+
+Ships rerouting around the Cape of Good Hope are now calling at smaller ports instead of regular terminals, leading to equipment usage limitations and bottlenecks at these smaller ports previously used by feeder vessels.
 
 # Containers S&P Report
+
+| VESSEL NAME | TYPE | TEU | YEAR | BUILT | PRICE (MILLION) USD | COMMENTS / BUYERS |
+| --- | --- | --- | --- | --- | --- | --- |
+| NAVIOS LAPIS | PMAX | 4,253 | 2009 | CHINA | 24.0 | CHINESE BUYERS |
+| MENDELSSOHN | PMAX | 3,635 | 2012 | CHINA | 22.5 | UNDISCLOSED |
+| BAO ZHOU CI TONG | FEEDER | 1,900 | 2024 | CHINA | 21.7 | MALAYSIAN BUYERS |
+| ACACIA LIBRA | FEEDER | 1,022 | 2007 | CHINA | 5.5 | MERATUS |
+
+Containers Values
+
+| CONTAINERS (BY TEU) | GEARED / GEARLESS | NB CONTRACT | NB PROMPT DELIVERY | 5 YEARS | 10 YEARS | 15 YEARS |
+| --- | --- | --- | --- | --- | --- | --- |
+| 900 – 1,200 | Geared | 24 | 24 | 17 | 14 | 8 |
+| 1,600 – 1,850 | Geared | 29 | 30 | 22 | 16 | 11 |
+| 2,700 – 2,900 | Gearless | 41 | 40 | 31 | 23 | 17 |
+| 5,100 | Gearless | 78 | 72 | 55 | 28 | 25 |
+| *(amount in USD million) | *(amount in USD million) | *(amount in USD million) | *(amount in USD million) | *(amount in USD million) | *(amount in USD million) | *(amount in USD million) |
 
 ## Page 9
 
@@ -258,32 +301,37 @@ Aliaga, Turkey
 
 ## Page 16
 
-Chattogram, Bangladesh : 22 ~ 25 MAY | 5 ~ 8 June Alang, India : 21 ~ 29 MAY | 3 ~ 11 June
+are also rumors of a significant energy price hike to be implemented in June or July that could potentially impact affordability.
 
----
+Turkish shipbreaking scrap prices stood at US$375-390/t delivered midweek, down US$5/t from the high end of last week's range. The Turkish currency stood at 32.24 per dollar at business close.
 
-BUNKER PRICES (USD/TON)
+# BEACHING TIDE DATES 2024
 
-PORTS VLSFO (0.5%) HSFO (3.5%) MGO (0.1%)
+Chattogram, Bangladesh : 22 ~ 25 MAY | 5 ~ 8 June
 
+Alang, India : 21 ~ 29 MAY | 3 ~ 11 June
+
+#### BUNKER PRICES (USD/TON)
+
+| PORTS | VLSFO (0.5%) | HSFO (3.5%) | MGO (0.1%) |
+| --- | --- | --- | --- |
 | SINGAPORE | 618 | 515 | 718 |
-|---|---|---|---|
 | HONG KONG | 633 | 522 | 735 |
 | FUJAIRAH | 622 | 511 | 872 |
 | ROTTERDAM | 566 | 479 | 740 |
 | HOUSTON | 595 | 485 | 759 |
 
-EXCHANGE RATES
+#### EXCHANGE RATES
 
 | CURRENCY | MAY 17 | MAY 10 | W-O-W % CHANGE |
-|---|---|---|---|
+| --- | --- | --- | --- |
 | USD / CNY (CHINA) | 7.22 | 7.22 | 0 |
 | USD / BDT (BANGLADESH) | 117.18 | 117.01 | -0.15% |
 | USD / INR (INDIA) | 83.27 | 83.54 | +0.32% |
 | USD / PKR (PAKISTAN) | 278.40 | 277.84 | -0.20% |
 | USD / TRY (TURKEY) | 32.20 | 32.27 | +0.22% |
 
-Sub-Continent and Turkey ferrous scrap markets insight
+# Sub-Continent and Turkey ferrous scrap markets insight
 
 The ferrous scrap market exhibited mixed trends, with minor decreases of up to 2% observed in some regions. In South Asia, Indian buyers were more active compared to their counterparts in Pakistan and Bangladesh. Despite this, the overall market pace remained slow due to domestic market volatility and sluggish sales of finished steel products. In Pakistan, the gap between domestic and imported scrap prices kept buyers muted, while
 

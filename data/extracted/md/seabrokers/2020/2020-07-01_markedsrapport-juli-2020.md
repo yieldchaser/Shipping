@@ -114,7 +114,6 @@ The end is nigh for these rigs, with ALP Maritime entrusted with the job of towi
 
 ## **WELL EXPERTISE PICKS PSVs FOR WELLESLEY**
 
-<img src="https://i.imgur.com/placeholder1.jpg" alt="Stril Luna">
 Stril Luna (pictured c/o O. Halland)
 
 In Norway, Well Expertise has fixed up a pair of PSVs from Simon Møkster Shipping and Tidewater on behalf of Wellesley Petroleum. Wellesley will be drilling an exploration well at the Schweinsteiger prospect in the Norwegian Sea with the Borgland Dolphin. Support for the campaign will be provided by the Stril Luna and North Cruys PSVs. Operations are scheduled to commence before the end of August. Wellesley has committed to drilling at least one well with the rig in 2021 as well, with options available for two more wells next year.
@@ -123,46 +122,47 @@ In Norway, Well Expertise has fixed up a pair of PSVs from Simon Møkster Shippi
 
 Eidesvik Offshore has been awarded a contract with Aker BP to provide management services for two PSVs that are working offshore Norway. The NS Frayja and NS Orla were both delivered in 2014 but later upgraded in 2019 with battery hybrid solutions installed. The management contract, commencing in October, is for a firm period of three years with further options available. Ocean Yield acquired the PSVs from their original owner BP Shipping in 2017.
 
-<img src="https://i.imgur.com/placeholder2.jpg" alt="NS Orla">
 NS Orla (pictured c/o O. Halland)
 
 # OSV RATES & UTILISATION
 
 ## JULY 2020 - DAILY NORTH SEA OSV AVAILABILITY
 
+> **Read from the chart.** The report prints no numbers for this chart; each value is the chart line's node for that day, converted with the printed axis labels (vector geometry, not an eyeball estimate).
+
 | Date | PSV 2020 | PSV 2019 | AHTS 2020 | AHTS 2019 |
-| ---- | -------- | -------- | --------- | --------- |
-| 1    | 11       | 7        | 6         | 7         |
-| 2    | 9        | 7        | 6         | 9         |
-| 3    | 10       | 2        | 5         | 9         |
-| 4    | 8        | 2        | 4         | 3         |
-| 5    | 8        | 6        | 4         | 4         |
-| 6    | 13       | 7        | 4         | 3         |
-| 7    | 14       | 9        | 4         | 3         |
-| 8    | 13       | 10       | 4         | 3         |
-| 9    | 13       | 7        | 4         | 3         |
-| 10   | 15       | 7        | 6         | 3         |
-| 11   | 15       | 8        | 6         | 4         |
-| 12   | 15       | 10       | 6         | 4         |
-| 13   | 16       | 9        | 9         | 17        |
-| 14   | 17       | 8        | 9         | 17        |
-| 15   | 13       | 8        | 9         | 17        |
-| 16   | 13       | 13       | 9         | 17        |
-| 17   | 13       | 13       | 10        | 17        |
-| 18   | 14       | 9        | 8         | 16        |
-| 19   | 15       | 9        | 9         | 16        |
-| 20   | 15       | 8        | 6         | 16        |
-| 21   | 14       | 11       | 4         | 16        |
-| 22   | 15       | 5        | 6         | 12        |
-| 23   | 15       | 6        | 6         | 16        |
-| 24   | 15       | 6        | 6         | 16        |
-| 25   | 15       | 8        | 6         | 12        |
-| 26   | 14       | 9        | 7         | 11        |
-| 27   | 14       | 9        | 7         | 11        |
-| 28   | 14       | 8        | 7         | 11        |
-| 29   | 14       | 12       | 7         | 12        |
-| 30   | 16       | 11       | 6         | 12        |
-| 31   | 16       | 11       | 6         | 14        |
+| --- | --- | --- | --- | --- |
+| 1 | 11 | 6 | 6 | 7 |
+| 2 | 9 | 7 | 6 | 8 |
+| 3 | 10 | 3 | 6 | 9 |
+| 4 | 9 | 2 | 6 | 6 |
+| 5 | 9 | 4 | 5 | 4 |
+| 6 | 8 | 6 | 5 | 4 |
+| 7 | 14 | 7 | 4 | 3 |
+| 8 | 13 | 9 | 4 | 3 |
+| 9 | 13 | 7 | 4 | 3 |
+| 10 | 14 | 8 | 5 | 3 |
+| 11 | 15 | 9 | 6 | 4 |
+| 12 | 15 | 10 | 6 | 7 |
+| 13 | 16 | 9 | 7 | 10 |
+| 14 | 17 | 9 | 8 | 13 |
+| 15 | 16 | 8 | 9 | 16 |
+| 16 | 14 | 10 | 9 | 17 |
+| 17 | 13 | 13 | 10 | 17 |
+| 18 | 13 | 12 | 9 | 17 |
+| 19 | 13 | 9 | 8 | 17 |
+| 20 | 14 | 10 | 7 | 16 |
+| 21 | 14 | 10 | 6 | 16 |
+| 22 | 15 | 11 | 4 | 15 |
+| 23 | 15 | 9 | 5 | 16 |
+| 24 | 15 | 6 | 6 | 16 |
+| 25 | 15 | 7 | 6 | 15 |
+| 26 | 15 | 9 | 6 | 14 |
+| 27 | 15 | 9 | 6 | 13 |
+| 28 | 14 | 8 | 6 | 13 |
+| 29 | 14 | 8 | 7 | 12 |
+| 30 | 15 | 12 | 6 | 12 |
+| 31 | 16 | 11 | 6 | 14 |
 
 ## RATES & UTILISATION
 

@@ -198,28 +198,68 @@ Container shipping market continued its climb this week as the SCFI rose to 3,50
 
 ## Page 10
 
-### Ship Recycling - Current Market Snapshot (USD / LDT)
+# SHIP RECYCLING
+
+Current Market Snapshot (USD / LDT)
 
 | DESTINATION | TANKERS | BULKERS | GENERAL CARGO | CONTAINERS | OUTLOOK / SENTIMENTS |
-| :--- | :---: | :---: | :---: | :---: | :---: |
-| ALANG, INDIA | $440-450 | $430-440 | $420-430 | $470-480 | STABLE / |
-| CHATTOGRAM, BANGLADESH | $490-500 | $460-470 | $450-460 | $500-510 | BULLISH / |
-| GADDANI, PAKISTAN | $520-530 | $510-520 | $490-500 | $540-550 | BULLISH / |
-| ALIAGA, TURKEY | $300-310 | $290-300 | $270-280 | $310-320 | STABLE / |
+| --- | --- | --- | --- | --- | --- |
+| ALANG, INDIA | $440–450 | $430–440 | $420–430 | $470–480 | STABLE / [IMAGE] |
+| CHATTOGRAM, BANGLADESH | $490–500 | $460–470 | $450–460 | $500–510 | BULLISH / [IMAGE] |
+| GADDANI, PAKISTAN | $520–530 | $510–520 | $490–500 | $540–550 | BULLISH / [IMAGE] |
+| ALIAGA, TURKEY* | $300–310 | $290–300 | $270–280 | $310–320 | STABLE / [IMAGE] |
 
-### Demolition - Reported Sales
+* Turkey prices for non-EU ships. EU vessels approx. US$20–30/ton less.
 
-| DELIVERY / TERMS |
-| --- |
-| No reported sales this week |
+All prices are USD per light displacement tonnage (long ton), net prices offered by recycling yards. Premiums apply based on spares quality, non-ferrous content, bunkers, cargo history, and maintenance. Basis simple Japanese/Korean-built tonnages.
+
+• All prices are USD per light displacement tonnage in the long ton.
+
+• The prices reported are net prices offered by the recycling yards.
+
+• Prices quoted are basis simple Japanese / Korean-built tonnages trading units. Premiums are paid on top of the above-quoted prices based on quality & quality of Spares, Non-Fe., bunkers, cargo history, and maintenance.
+
+5-Year Historical Average Prices (Week 35)
+
+| DESTINATION | 2021 | 2022 | 2023 | 2024 | 2025 |
+| --- | --- | --- | --- | --- | --- |
+| ALANG, INDIA | 550 | 550 | 500 | 500 | 440 |
+| CHATTOGRAM, BANGLADESH | 580 | 620 | 510 | 510 | 410 |
+| GADDANI, PAKISTAN | 595 | 590 | 520 | 500 | 440 |
+| ALIAGA, TURKEY | 300 | 300 | 310 | 340 | 290 |
+
+Reported Sales
+
+| VESSEL NAME | TYPE | LDT | YEAR / BUILT | PRICE (US/LDT) | COMMENTS |
+| --- | --- | --- | --- | --- | --- |
+| CRIMSOM SATURN | WOOD CHIP CARRIER | 9,759 | 2001 / JAPAN | 496 | DELIVERED CHATTOGRAM, ABOUT 200 TONS ROBS INCLUDED. |
+| BURSA | TANKER | 15,945 | 1999 / JAPAN | 479 | DELIVERED CHATTOGRAM |
+| ATHENA | TANKER | 2,557 | 1992 / JAPAN | 540 | DELIVERED CHATTOGRAM |
 
 ## Page 11
 
 ## Page 12
 
-**Chattogram, Bangladesh: Chattogram maintained a measured course through the week, with price**
+# Market Insights
 
-indications holding broadly unchanged despite a slight softening in local steel trading. Domestic steel plate valuations offered no fresh momentum, remaining flat throughout the week at 64,000 taka (~US$522). Meanwhile, the Bangladeshi taka gained modest ground against the US dollar, with Bangladesh Bank's spot reference rate strengthening to around 123.07 taka per dollar. While local recycling plots possess ample cutting capacity and continue to dismantle existing inventories, the anticipated postmonsoon surge has yet to fully take off, largely because the pool of fresh candidates remains thin. Underlying buyer appetite is intact, and buyers stand ready to step forward once candidate supply improves.
+Alang, India: Alang maintained a steady week, with keen buying interest driving a noticeable improvement in sentiment. Supported by an active recovery in local scrap demand, domestic plate prices settled at 41,000 rupees/MT by Friday. This provides yard operators with a welcome margin cushion compared to the US$423 mark seen at the start of the period. While Indian buyers still have some ground to cover before matching the higher pricing levels offered for conventional bulkers and containers in Bangladesh and Pakistan, the sustained uptick in local steel values and healthy plot fundamentals offer genuine encouragement as the market heads toward the fourth quarter.
+
+This is reinforced by solid macroeconomic fundamentals across the broader Indian economy. The Reserve Bank of India continues to maintain an accommodative policy stance with the benchmark repo rate steady at 5.25%, backed by a robust full-year economic growth projection of 6.7% and an expanding foreign exchange reserve cushion near US$707 billion.
+
+Domestic steel consumption is projected to expand by over 9% this year, powered by heavy government capital outlays in transportation infrastructure, railway modernisation, and urban housing schemes. As seasonal monsoon rains taper off and construction activity accelerates across the country, this expanding industrial appetite for rerollable scrap provides Alang's recyclers with a reliable domestic floor to pursue fresh tonnage with increasing confidence.
+
+Alang Anchorage & Beaching Position — August 2026
+
+| VESSEL | TYPE | LDT | ARRIVAL | BEACHING |
+| --- | --- | --- | --- | --- |
+| BLE IN | LPG CARRIER | 18,848 | 23.08.2026 | 26.08.2026 |
+| FRIO NARUTO | REEFER | 5,685 | 15.08.2026 | 19.08.2026 |
+| CUTTA | TANKER | 11,552 | 09.08.2026 | 12.08.2206 |
+| FT ISLAND | VLCC | 43,402 | 31.07.2027 | 04.08.2026 |
+
+Chattogram, Bangladesh: Chattogram maintained a measured course through the week, with price indications holding broadly unchanged despite a slight softening in local steel trading. Domestic steel plate valuations offered no fresh momentum, remaining flat throughout the week at 64,000 taka (~US$522). Meanwhile, the Bangladeshi taka gained modest ground against the US dollar, with Bangladesh Bank's spot reference rate strengthening to around 123.07 taka per dollar. While local recycling plots possess ample cutting capacity and continue to dismantle existing inventories, the anticipated post-monsoon surge has yet to fully take off, largely because the pool of fresh candidates remains thin. Underlying buyer appetite is intact, and buyers stand ready to step forward once candidate supply improves.
+
+Fresh financial indicators show that Bangladesh's gross foreign exchange reserves have sustained their upward momentum, holding comfortably above US$37 billion and providing the banking system with ample foreign currency liquidity to issue LCs. At the same time, national inflation continues to trend
 
 ## Page 13
 
@@ -272,17 +312,27 @@ that discouraged overseas suppliers from lowering price expectations. Active dea
 
 ## Page 15
 
+# COMMODITIES, BUNKERS & RATES
+
+# Commodities Focus
+
+Copper futures advanced above US$6.7 per pound to establish a fresh historical peak, driven by persistent global supply constraints and sustained cargo diversions toward the United States ahead of potential tariff decisions. This upward momentum is further reinforced by London Metal Exchange inventories shrinking by nearly half since mid-May, acute concentrate shortages among Chinese smelters, and flooding at the Kamoa-Kakula operation in the Democratic Republic of Congo, which threatens to trim Zijin Mining's production share by as much as 57,000 tons this year.
+
+In the ferrous complex, raw material prices are beginning to decouple from finished steel; iron ore futures moved higher toward CNY 720 per ton, recovering from 14-month lows as mills increased blast furnace utilisation in anticipation of seasonal pre-winter restocking and supportive policy guidance from Beijing.
+
+Steel rebar futures dropped to a four-week low of approximately CNY 3,070 per ton under the weight of high inventory levels, lower year-on-year home prices in July, and compressed margins that left only about one-third of domestic steelmakers profitable at month-end, though directives from the National Development and Reform Commission to accelerate major construction projects continue to provide an underlying floor for long-term consumption.
+
 ### Iron Ore
 
 | COMMODITY (USD/MT) | GRADE | THIS WEEK | LAST WEEK | LAST YEAR | WoW | YoY |
-| :--- | :--- | :---: | :---: | :---: | :---: | :---: |
+| --- | --- | --- | --- | --- | --- | --- |
 | Iron Ore Lumps, CNF Rizhao | Fe 64/63% (S. Africa) | $108 | $105 | $103 | +2.85% | +4.85% |
 | Iron Ore Fines, CNF Qingdao | Fe 62.5% (Brazil) | $98 | $95 | $98 | +3.15% | 0% |
 
 ### Industrial Metal Rates
 
 | INDEX | UNITS | PRICE | CHANGE | % CHANGE | CONTRACT |
-| :--- | :--- | :---: | :---: | :---: | :---: |
+| --- | --- | --- | --- | --- | --- |
 | Copper (Comex) | USD / lb. | 673.70 | +4.80 | +0.72% | DEC 2026 |
 | 3Mo Copper (LME) | USD / MT | 14,282.50 | +29.50 | +0.21% | N/A |
 | 3Mo Aluminium (LME) | USD / MT | 3,234.50 | +9.50 | +0.29% | N/A |
@@ -294,18 +344,37 @@ that discouraged overseas suppliers from lowering price expectations. Active dea
 ### Crude Oil & Natural Gas
 
 | INDEX | UNITS | PRICE | CHANGE | % CHANGE | CONTRACT |
-| :--- | :--- | :---: | :---: | :---: | :---: |
+| --- | --- | --- | --- | --- | --- |
 | WTI Crude Oil (Nymex) | USD / bbl. | 82.98 | -0.55 | -0.66% | OCT 2026 |
 | Brent Crude (ICE) | USD / bbl. | 89.44 | -0.26 | -0.29% | OCT 2026 |
 | Crude Oil (Tokyo) | JPY / kl | 88,660.00 | -10.00 | -0.01% | AUG 2026 |
 | Natural Gas (Nymex) | USD / MMBtu | 2.85 | -0.07 | -2.37% | OCT 2026 |
 
+* All rates at C.O.B. London time, August 28th, 2026
+
 ### Exchange Rates
 
 | CURRENCY PAIR | AUGUST 21 | AUGUST 28 | WoW % |
-| :--- | :---: | :---: | :---: |
+| --- | --- | --- | --- |
 | USD / CNY (China) | 6.72 | 6.72 | 0.00% |
 | USD / BDT (Bangladesh) | 122.24 | 123.28 | -0.85% |
 | USD / INR (India) | 95.74 | 95.51 | +0.24% |
 | USD / PKR (Pakistan) | 277.57 | 277.50 | +0.03% |
 | USD / TRY (Turkey) | 48.01 | 48.14 | -0.27% |
+
+Bunker Prices (USD / ton)
+
+| PORT | VLSFO (0.5%) | HSFO (3.5%) | MGO (0.1%) |
+| --- | --- | --- | --- |
+| SINGAPORE | $777 | $634 | $1134 |
+| HONG KONG | $799 | $669 | $1156 |
+| FUJAIRAH | $780 | $621 | $1388 |
+| ROTTERDAM | $662 | $530 | $1299 |
+| HOUSTON | $690 | $472 | $1253 |
+
+Singapore | London | Dubai
+
+For Privacy Policy
+
+This report is performed to the best of our knowledge based on the market conditions prevailing at the time mentioned. The report relates solely to the date/place referred to, and we emphasise that it is a statement of information collected from various market sources. All details above are from information given to us and such information as we have obtained from relevant references in our possession. Still, we can accept no responsibility, and we bear no liability for any loss or damage incurred to any person acting upon this report. STAR ASIA believes the information to be accurate and given in good faith but without guarantee. STAR ASIA will not be held responsible in any way for any action or failure to act based on the information given in this report. The use of the report cannot be reproduced or used without authorisation from STAR ASIA.
+

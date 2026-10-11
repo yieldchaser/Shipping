@@ -93,15 +93,35 @@ In West Africa, despite early-week declines due to vessel oversupply, the market
 
 ## Page 6
 
-Aframax:
+# Aframax:
 
 MEG Aframax diverged from larger sizes, with rates falling below WS130 due to persistent weak demand since last December. In the Mediterranean market, 80,000mt Ceyhan/Lavera improved 22 points to WS122. While outlook suggests continued soft conditions with no significant demand increase expected, it is worth noting that Aframax vessels comprise over 50% of the sanctioned Russian oil tankers and future spots may be affected.
 
-Clean:
+# Clean:
 
-LR: MEG showed impressive momentum, with rates rapidly climbing to WS130 points, primarily driven by improved winter cargo demand from Europe. However, this sharp increase is expected to moderate as some cargoes shift to LR1 in response to the recent surge. LR1 on the UKC, however, comes down slightly to WS115. MR: Far East market concluded strongly, supported by sustained Southeast Asian demand, particularly from weather-related vessel replacements. In the MEG, TC17 also saw a decline after a previous uptick with routes to E. Africa slipping to WS229.
+LR: MEG showed impressive momentum, with rates rapidly climbing to WS130 points, primarily driven by improved winter cargo demand from Europe. However, this sharp increase is expected to moderate as some cargoes shift to LR1 in response to the recent surge. LR1 on the UKC, however, comes down slightly to WS115.
+
+MR: Far East market concluded strongly, supported by sustained Southeast Asian demand, particularly from weather-related vessel replacements. In the MEG, TC17 also saw a decline after a previous uptick with routes to E. Africa slipping to WS229.
 
 ## Baltic Exchange Tanker Indices
+
+| INDICES | CURRENT | LAST WEEK | LAST YEAR | W-O-W CHANGE | Y-O-Y CHANGE |
+| --- | --- | --- | --- | --- | --- |
+| BDTI | 912 | 799 | 1,500 | +14.14% | -39.20% |
+| BCTI | 756 | 606 | 945 | +24.75% | -20.00% |
+
+# Tankers Values
+
+(Weekly)
+
+| TYPE | DWT | NB CONTRACT | NB PROMPT DELIVERY | 5 YEARS | 10 YEARS | 15 YEARS |
+| --- | --- | --- | --- | --- | --- | --- |
+| VLCC | 310,000 | 128 | 143 | 114 | 84 | 56 |
+| SUEZMAX | 160,000 | 89 | 97 | 82 | 66 | 49 |
+| AFRAMAX | 115,000 | 74 | 85 | 71 | 60 | 43 |
+| LRI | 73,000 | 61 | 67 | 57 | 47 | 31 |
+| MR | 51,000 | 51 | 52 | 49 | 40 | 27 |
+| *(amount in USD million) | *(amount in USD million) | *(amount in USD million) | *(amount in USD million) | *(amount in USD million) | *(amount in USD million) | *(amount in USD million) |
 
 ## Page 7
 
@@ -189,25 +209,64 @@ India's ship recycling market continues to experience sluggish conditions. Despi
 
 ## Page 14
 
-Chattogram, Bangladesh
+Anchorage & Beaching Position (JANUARY 2025)
 
-Bangladesh's ship recycling market is experiencing a period of subdued activity, marked by declining melting steel prices after a brief uptick last week. Steel plate prices dropped by 2,000 Taka to 72,000 Taka. The market's weakness is compounded by ongoing challenges in securing LC facilities, as strict regulations and a dollar shortage continue to hamper approval processes, effectively limiting recyclers' buying capacity. This challenging environment for ship recycling operates against a backdrop of broader economic headwinds, with the World Bank projecting Bangladesh's growth to slow to 4.1% in FY25, its weakest performance since the pandemic. While the government is taking steps to strengthen financial oversight through the introduction of the Bank Regulation Act, which will give Bangladesh Bank enhanced powers over banking operations, the immediate outlook for the recycling sector remains uncertain. Ship recyclers note that while temporary price increases may occur due to supply shortages, sustainable recovery will require more robust demand and improved financial conditions.
+| VESSEL NAME | TYPE | LDT | ARRIVAL | BEACHING |
+| --- | --- | --- | --- | --- |
+| RIALTO | TANKER | 9,696 | 16.01.2025 | AWAITING |
+| KARMAN 14 | BULKER | 3,169 | 08.01.2025 | 17.01.2025 |
+| LADY CEDROS | BULKER | 17,823 | 08.01.2025 | 15.01.2025 |
+| ENZO | TANKER | 17,398 | 04.01.2025 | 12.01.2025 |
+| NEVELSK | CONTAINER | 2,993 | 04.01.2025 | 08.01.2025 |
+| BOW CLIPPER | CHEM TANKER | 11,319 | 03.01.2025 | 06.01.2025 |
+| MSC ESHA F | CONTAINER | 4,950 | 29.12.2025 | 04.01.2025 |
+| LIYA | REEFER | 2,287 | 31.12.2025 | 03.01.2025 |
+
+# Chattogram, Bangladesh
+
+Bangladesh's ship recycling market is experiencing a period of subdued activity, marked by declining melting steel prices after a brief uptick last week. Steel plate prices dropped by 2,000 Taka to 72,000 Taka. The market's weakness is compounded by ongoing challenges in securing LC facilities, as strict regulations and a dollar shortage continue to hamper approval processes, effectively limiting recyclers' buying capacity.
+
+This challenging environment for ship recycling operates against a backdrop of broader economic headwinds, with the World Bank projecting Bangladesh's growth to slow to 4.1% in FY25, its weakest performance since the pandemic. While the government is taking steps to strengthen financial oversight through the introduction of the Bank Regulation Act, which will give Bangladesh Bank enhanced powers over banking operations, the immediate outlook for the recycling sector remains uncertain.
+
+Ship recyclers note that while temporary price increases may occur due to supply shortages, sustainable recovery will require more robust demand and improved financial conditions.
+
+Anchorage & Beaching Position (JANUARY 2025)
+
+| VESSEL NAME | TYPE | LDT | ARRIVAL | BEACHING |
+| --- | --- | --- | --- | --- |
+| ARK PROGRESS | CHEM TANKER | 2,635 | 08.01.2025 | AWAITING |
+| LAR | LNG | 28,742 | 11.01.2025 | 15.01.2025 |
+| NEW SMILE | TANKER | 1,969 | 26.12.2024 | 04.01.2025 |
+| JIM | BULKER | 14,894 | 10.01.2025 | 16.01.2025 |
+| ULSAN GAS | LPG | 1,814 | 08.01.2025 | 12.01.2025 |
 
 ## Page 15
 
-Gadani, Pakistan
+# Gadani, Pakistan
 
-Pakistan's ship recycling sector continues to face severe challenges, with operations at Gadani virtually at a standstill for the past four months due to a critical shortage of LC availability and broader economic difficulties. Despite steel plate prices holding at a relatively stable 182,000 Rs., the market remains effectively muted. However, there are some glimmers of hope on the horizon, with recent developments including a significant World Bank funding agreement worth 20 billion USD over ten years. These financial arrangements could potentially help stabilise Pakistan's foreign currency reserves and eventually ease the LC restrictions that have been crippling the recycling sector.
+Pakistan's ship recycling sector continues to face severe challenges, with operations at Gadani virtually at a standstill for the past four months due to a critical shortage of LC availability and broader economic difficulties. Despite steel plate prices holding at a relatively stable 182,000 Rs., the market remains effectively muted.
 
-Aliaga, Turkey
+However, there are some glimmers of hope on the horizon, with recent developments including a significant World Bank funding agreement worth 20 billion USD over ten years. These financial arrangements could potentially help stabilise Pakistan's foreign currency reserves and eventually ease the LC restrictions that have been crippling the recycling sector.
 
-The Turkish scrap market continues to face downward pressure as global steel market fundamentals remain weak, with recent transactions reflecting this trend. Despite ongoing scrap requirements, Turkish mills are actively resisting higher offers from suppliers, citing weak steel sales, falling billet prices, and reduced freight rates as justification for their lower price targets. Recycling market remains stagnant with not much activity to report.
+Anchorage & Beaching Position (JANUARY 2025)
 
----
+| VESSEL NAME | TYPE | LDT | ARRIVAL | BEACHING |
+| --- | --- | --- | --- | --- |
+| - | - | - | - | - |
 
-Chattogram, Bangladesh : 30 January ~ 02 February | 14 ~ 17 February Alang, India : 28 ~ 31 January | 01 ~ 04 February
+# Aliaga, Turkey
 
----
+The Turkish scrap market continues to face downward pressure as global steel market fundamentals remain weak, with recent transactions reflecting this trend. Despite ongoing scrap requirements, Turkish mills are actively resisting higher offers from suppliers, citing weak steel sales, falling billet prices, and reduced freight rates as justification for their lower price targets.
+
+Recycling market remains stagnant with not much activity to report.
+
+# BEACHING TIDE DATES 2025
+
+Chattogram, Bangladesh : 30 January ~ 02 February | 14 ~ 17 February
+
+Alang, India
+
+: 28 ~ 31 January | 01 ~ 04 February
 
 ## Page 16
 

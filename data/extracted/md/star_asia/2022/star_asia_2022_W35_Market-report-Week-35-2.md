@@ -119,6 +119,17 @@ The USG was under pressure this week due to the lack of cargo and an abundance o
 
 ## Page 4
 
+#### BULKER 12 MONTHS T/C RATES AVERAGE (IN USD/DAY)
+
+|  | DWT | CURRENT | LAST WEEK | LAST YEAR | W-O-W CHANGE % | Y-O-Y CHANGE % |
+| --- | --- | --- | --- | --- | --- | --- |
+| CAPE | 180,000 | 14,000 | 13,000 | 31,125 | +7.69 | -55.02 |
+| PANAMAX | 75,000 | 13,750 | 14,500 | 28,250 | -5.17 | -51.33 |
+| SUPRAMAX | 52,000 | 14,000 | 17,250 | 27,750 | -18.84 | -49.55 |
+| HANDYSIZE | 32,000 | 13,250 | 14,500 | 27,625 | -8.62 | -52.04 |
+
+# Dry Bulk 1 year T/C rates
+
 ## Page 5
 
 # Tankers
@@ -145,60 +156,35 @@ rates. The Baltic saw some increase in the supply of cargo. Some activities may 
 
 Despite the efforts by charterers to exert downward pressure on rates, the markets in the MEG were generally firm this week. The LR1 rate on the Japan-MEG route increased w-o-w to WS300. Meanwhile, the MR market was affected by the lack of supply. 30,000mt Primorsk to Le Havre fell a few points to WS384.
 
-#### VESSEL NAME
+# Tankers S&P Report
 
-DHT EDELWEISS G.DREAM RIDGEBURY CAPTAIN DROGIN AKSTA IMPERIA LIONHEART / MAERSK PENGUIN ARGO GOTLAND CAROLINA ALKAIOS / ARCHON GLENDA MERYL / GLENDA MELODY / GLENDA MELISSA / GLENDA MELANIE AGNES VICTORY
+| VESSEL NAME | TYPE | DWT | YEAR | BUILT | PRICE (MILLION) USD | COMMENTS / BUYERS |
+| --- | --- | --- | --- | --- | --- | --- |
+| DHT EDELWEISS | VLCC | 301,021 | 2008 | S. KOREA | 37.0 | UNDISCLOSED |
+| G.DREAM | VLCC | 299,288 | 2022 | S. KOREA | 108.0 | HYUNDAI MERCHANT MARINE |
+| RIDGEBURY CAPTAIN DROGIN | SUEZ | 166,468 | 2007 | S. KOREA | 28.8 | GREEK BUYERS |
+| AKSTA | SUEZ | 159,460 | 2003 | S. KOREA | 18.0 | UNDISCLOSED |
+| IMPERIA | AFRA | 114,849 | 2006 | S. KOREA | 31.5 | MIDDLE EASTERN BUYERS |
+| LIONHEART / MAERSK PENGUIN | AFRA | 109,672 | 2008 / 2007 | CHINA | N/A | UNDISCLOSED |
+| ARGO | AFRA | 105,188 | 2009 | S. KOREA | 33.8 | DUBAI BUYERS |
+| GOTLAND CAROLINA | MR | 53,160 | 2006 | CHINA | 18.5 | NORWEGIAN BUYERS |
+| ALKAIOS / ARCHON | MR | 50,100 | 2016 | CHINA | 73.0 EN BLOC | TUFTON OCEANIC |
+| GLENDA MERYL / GLENDA MELODY / GLENDA MELISSA / GLENDA MELANIE | MR | 47,251 ~ 47,162 | 2011 | S. KOREA | 109.6 EN BLOC | D'AMICO TANKERS |
+| AGNES VICTORY | MR | 47,122 | 2004 | CROATIA | 17.0 | CHINESE BUYERS |
 
-#### TANKERS
-
-VLCC SUEZMAX AFRAMAX PANAMAX-LR1 MR TANKER
-
-*\*(amount in USD million)*
-
-# Tankers S&P
-
-**TYPE DWT YEAR**
-
-2007
+# Tankers Values
 
 (Weekly)
 
-#### DWT NB CONTRACT
+| TANKERS | DWT | NB CONTRACT | NB PROMPT DELIVERY | 5 YEARS | 10 YEARS | 20 YEARS |
+| --- | --- | --- | --- | --- | --- | --- |
+| VLCC | 310,000 | 120 | 109 | 84 | 58 | 33 |
+| SUEZMAX | 160,000 | 80 | 79 | 59 | 42 | 22 |
+| AFRAMAX | 115,000 | 61 | 71 | 56 | 41 | 22 |
+| PANAMAX-LR1 | 73,000 | 53 | 55 | 42 | 28 | 14 |
+| MR TANKER | 51,000 | 43 | 46 | 40 | 29 | 13 |
 
-310,000 120 160,000 80 115,000 61
-
-73,000 53 51,000 43
-
-# Report
-
-#### PRICE BUILT (MILLION) USD
-
-S. KOREA 37.0 S. KOREA 108.0 S. KOREA 28.8 S. KOREA 18.0 S. KOREA 31.5 CHINA N/A S. KOREA 33.8 CHINA 18.5 CHINA 73.0 EN BLOC
-
-S. KOREA 109.6 EN BLOC
-
-CROATIA 17.0
-
-#### NB PROMPT DELIVERY
-
-109 79 71 55 46
-
-#### COMMENTS / BUYERS
-
-UNDISCLOSED HYUNDAI MERCHANT MARINE GREEK BUYERS UNDISCLOSED MIDDLE EASTERN BUYERS UNDISCLOSED DUBAI BUYERS NORWEGIAN BUYERS TUFTON OCEANIC
-
-D'AMICO TANKERS
-
-CHINESE BUYERS
-
-| 5 | 10 | 20 |
-|---|---|---|
-| YEARS | YEARS | YEARS |
-| 84 | 58 | 33 |
-| 59 | 42 | 22 |
-| 56 | 41 | 22 |
-| 42 | 28 | 14 |
-| 40 | 29 | 13 |
+* (amount in USD million)
 
 ## Page 7
 
@@ -238,23 +224,25 @@ compared to the previous year.
 # Containers S&P Report
 
 | VESSEL NAME | TYPE | TEU | YEAR | BUILT | PRICE (MILLION) USD | COMMENTS / BUYERS |
-|---|---|---|---|---|---|---|
+| --- | --- | --- | --- | --- | --- | --- |
 | RIO CADIZ / RIO CHARLESTON | PMAX | 4,300 | 2008 | S. KOREA | N/A | MSC |
+| CSBC KAOHSIUNG 1185 / CSBC KAOHSIUNG 1186 / CSBC KAOHSIUNG 1187 / CSBC KAOHSIUNG 1188 | SUB PMAX | 2,940 | 2023 | TAIWAN | 222.0 EN BLOC | WAN HAI LINES |
+| PINARA | FEEDER | 1,740 | 2004 | CHINA | 20.2 | AKAR DENIZ TASIMAC |
 
-CSBC KAOHSIUNG 1185 / CSBC KAOHSIUNG 1186 / SUB PMAX 2,940 2023 TAIWAN 222.0 EN BLOC WAN HAI LINES CSBC KAOHSIUNG 1187 / CSBC KAOHSIUNG 1188 PINARA FEEDER 1,740 2004 CHINA 20.2 AKAR DENIZ TASIMAC
-
-Containers Values
+# Containers Values
 
 (Weekly)
 
 | CONTAINERS (by TEU) | GEARED / GEARLESS | NB CONTRACT | NB PROMPT DELIVERY | 5 YEARS | 10 YEARS | 20 YEARS |
-|---|---|---|---|---|---|---|
-| 900 - 1,200 | Geared | 24 | 32 | 27 | 23 | 18 |
-| 1,600 - 1,800 | Geared | 29 | 45 | 42 | 35 | 28 |
-| 2,700 - 2,900 | Gearless | 43 | 55 | 53 | 51 | 47 |
-| 5,500 - 7,000 | Gearless | 85 | 175 | 163 | 135 | N/A |
+| --- | --- | --- | --- | --- | --- | --- |
+| 900 – 1,200 | Geared | 24 | 32 | 27 | 23 | 18 |
+| 1,600 – 1,800 | Geared | 29 | 45 | 42 | 35 | 28 |
+| 2,700 – 2,900 | Gearless | 43 | 55 | 53 | 51 | 47 |
+| 5,500 – 7,000 | Gearless | 85 | 175 | 163 | 135 | N/A |
 
-*\*(amount in USD million)*
+* (amount in USD million)
+
+# Container 6-12 months T/C rates
 
 ## Page 9
 
@@ -337,15 +325,34 @@ The weak steel sales in Turkey are also contributing to the decline in the count
 
 ## Page 14
 
-### Bunker Prices (USD / ton)
+# BEACHING TIDE DATES 2022
 
-| PORT | VLSFO (0.5%) | HSFO (3.5%) | MGO (0.1%) |
-| :--- | :---: | :---: | :---: |
+Chattogram, Bangladesh : 7th Sept. ~ 15th Sept. | 25th Sept ~ 28th September
+Alang, India : 9th Sept. ~ 12th Sept. | 24th Sept. ~ 02nd Oct.
+
+# Bunker Prices
+
+#### BUNKER PRICES (USD/TON)
+
+| PORTS | VLSFO (0.5%) | IFO380 CST | MGO (0.1%) |
+| --- | --- | --- | --- |
 | SINGAPORE | 699 | 451 | 1049 |
 | HONG KONG | 743 | 514 | 1051 |
 | FUJAIRAH | 723 | 469 | 1307 |
 | ROTTERDAM | 679 | 455 | 1098 |
 | HOUSTON | 713 | 515 | 1119 |
+
+# Exchange Rates
+
+#### EXCHANGE RATES
+
+|  | 2nd SEPTEMBER | 26th AUGUST | W-O-W % CHANGE |
+| --- | --- | --- | --- |
+| USD / CNY (CHINA) | 6.89 | 6.86 | -0.44 |
+| USD / BDT (BANGLADESH) | 95.03 | 95.07 | +0.04 |
+| USD / INR (INDIA) | 79.76 | 79.83 | +0.09 |
+| USD / PKR (PAKISTAN) | 218.85 | 220.31 | +0.66 |
+| USD / TRY (TURKEY) | 18.18 | 18.18 | 0 |
 
 ## Page 15
 

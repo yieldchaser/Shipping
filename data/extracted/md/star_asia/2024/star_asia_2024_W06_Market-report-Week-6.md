@@ -114,66 +114,96 @@ With limited cargo inflow, the number of available ships in the Atlantic area ha
 
 ## Page 6
 
-Aframax:
+# Aframax:
 
 With the decline in ballasters to the Middle East, pressure on ship supply in the eastern Suez has eased. As activity picked up ahead of the holidays, the MEG/SG route saw rates improve before the week's closing, with the TCE closing around US$ 41,800 a day. In the Atlantic, declines were seen on some routes, but USG/UKC managed to push through, closing slightly higher at WS191.
 
-Clean:
+# Clean:
 
-LR: There was not much activity for LR1, as a lack of European cargoes saw rates slip slightly. ARA/UKC also witnessed a decline, with levels closing lower even with a positive start to the week to WS237 on Friday. On the other hand, it was a steady week in the LR2 market despite TC1 MEG/Japan falling to WS261. MR: With continued cargo inflows, freight rates for the S. Korea/SG segment rose by 10% as Spot TCE exceeded US$50,000. Ongoing demand for long-haul voyages to Australia and the Americas has also contributed to improved market conditions. On the other side, UKC/USAC also saw rates firmed with several fixings closing at WS215 at the end of the week.
+LR: There was not much activity for LR1, as a lack of European cargoes saw rates slip slightly. ARA/UKC also witnessed a decline, with levels closing lower even with a positive start to the week to WS237 on Friday. On the other hand, it was a steady week in the LR2 market despite TC1 MEG/Japan falling to WS261.
+
+MR: With continued cargo inflows, freight rates for the S. Korea/SG segment rose by 10% as Spot TCE exceeded US$50,000. Ongoing demand for long-haul voyages to Australia and the Americas has also contributed to improved market conditions. On the other side, UKC/USAC also saw rates firmed with several fixings closing at WS215 at the end of the week.
 
 ## Baltic Exchange Tanker Indices
+
+| INDICES | CURRENT | LAST WEEK | LAST YEAR | W-O-W CHANGE | Y-O-Y CHANGE |
+| --- | --- | --- | --- | --- | --- |
+| BDTI | 1,268 | 1,295 | 1,206 | -2.08% | +5.14% |
+| BCTI | 1,126 | 1,181 | 875 | +4.66% | +28.69% |
+
+# Tankers Values
+
+(Weekly Average)
+
+| TYPE | DWT | NB CONTRACT | NB PROMPT DELIVERY | 5 YEARS | 10 YEARS | 15 YEARS |
+| --- | --- | --- | --- | --- | --- | --- |
+| VLCC | 310,000 | 125 | 130 | 100 | 75 | 55 |
+| SUEZMAX | 160,000 | 90 | 95 | 80 | 63 | 40 |
+| AFRAMAX | 115,000 | 80 | 85 | 72 | 55 | 35 |
+| LR1 | 73,000 | 60 | 64 | 50 | 41 | 28 |
+| MR | 51,000 | 48 | 52 | 44 | 34 | 25 |
+
+*(amount in USD million)
 
 ## Page 7
 
 ## Tanker 12 months T/C rates average (in USD/day)
 
-TYPE VLCC SUEZMAX AFRAMAX LR1 MR
+| TYPE | DWT | CURRENT | LAST WEEK | LAST YEAR | W-O-W CHANGE | Y-O-Y CHANGE |
+| --- | --- | --- | --- | --- | --- | --- |
+| VLCC | 310,000 | 45,000 | 45,250 | 39,000 | -0.55% | +15.38% |
+| SUEZMAX | 150,000 | 44,000 | 44,250 | 36,250 | -0.56% | +21.38% |
+| AFRAMAX | 110,000 | 42,750 | 43,000 | 41,750 | -0.58% | +2.40% |
+| LR1 | 74,000 | 42,000 | 41,500 | 35,500 | +1.20% | +18.31% |
+| MR | 47,000 | 32,000 | 29,000 | 26,000 | +10.34% | +23.08% |
 
-VESSEL NAME FRONT ODIN SKS DARENT / SKS DRIVA AFRA ROSSI ALITA I KORO SEA ST. PAULI BAHRI TULIP CSC BRAVE
+Tankers S&P Report
 
-DWT CURRENT LAST WEEK LAST YEAR W-O-W CHANGE Y-O-Y CHANGE
+| VESSEL NAME | TYPE | DWT | YEAR | BUILT | PRICE (MILLION) USD | COMMENTS / BUYERS |
+| --- | --- | --- | --- | --- | --- | --- |
+| FRONT ODIN | SUEZ | 156,840 | 2010 | CHINA | 46.0 | GREEK BUYERS |
+| SKS DARENT / SKS DRIVA | AFRA | 119,456 | 2010 | S. KOREA | 52.0 EACH | UNION MARITIME |
+| AFRA ROSSI | AFRA | 115,829 | 2010 | PHILIPPINES | 45.5 | CHINESE BUYERS |
+| ALITA I | AFRA | 112,118 | 2001 | S. KOREA | 19.0 | UNDISCLOSED |
+| KORO SEA | AFRA | 105,905 | 2008 | JAPAN | 39.0 | VIETNAMESE OWNERS |
+| ST. PAULI | MR | 49,999 | 2017 | S. KOREA | 42.0 | ARDMORE SHIPPING |
+| BAHRI TULIP | MR | 49,000 | 2006 | S. KOREA | 18.0 | UNDISCLOSED |
+| CSC BRAVE | MR | 45,853 | 2007 | CHINA | 19.3 | UNDISCLOSED |
 
-```text
-310,000 45,000 45,250 39,000 -0.55% +15.38%
-150,000 44,000 44,250 36,250 -0.56% +21.38%
-110,000 42,750 43,000 41,750 -0.58% +2.40%
-74,000 42,000 41,500 35,500 +1.20% +18.31%
-47,000 32,000 29,000 26,000 +10.34% +23.08%
-PRICE COMMENTS /
-TYPE DWT YEAR BUILT (MILLION) BUYERS
-SUEZ 156,840 2010 CHINA 46.0 GREEK BUYERS
-AFRA 119,456 2010 S. KOREA 52.0 EACH UNION MARITIME
-```
+Tanker 1 year T/C rates
 
-| AFRA | 115,829 | 2010 | PHILIPPINES | 45.5 | CHINESE BUYERS |
-|---|---|---|---|---|---|
-| AFRA | 112,118 | 2001 | S. KOREA | 19.0 | UNDISCLOSED |
-| AFRA | 105,905 | 2008 | JAPAN | 39.0 | VIETNAMESE OWNERS |
-| MR | 49,999 | 2017 | S. KOREA | 42.0 | ARDMORE SHIPPING |
-| MR | 49,000 | 2006 | S. KOREA | 18.0 | UNDISCLOSED |
-| MR | 45,853 | 2007 | CHINA | 19.3 | UNDISCLOSED |
+[CHART]
 
 ## Page 8
 
 ## Containers
 
-The container market has definitely seen a turnaround, unlike any other segment. Being one that is especially sensitive to current affairs (due to the routes), there is definitely no lack of world events to shake up the segment. As a result of ongoing disruptions in the Red Sea, container spot freight rates remained elevated this week, as measured by the SCFI index at 2,166 points, despite being 2.4% lower than the previous week; these levels are more than double the level at the start of December. Six month/1 Year TC Rates for 2,750 TEU have also been firmed, with now currently in the region of US$ 17,000 a day. Purchasing activity for this segment continues to be active with the recent weeks seeing at least 1 to 2 sales in the market. MSC have also been making the news as they look to acquire more older and larger tonnages.
+The container market has definitely seen a turnaround, unlike any other segment. Being one that is especially sensitive to current affairs (due to the routes), there is definitely no lack of world events to shake up the segment.
+
+As a result of ongoing disruptions in the Red Sea, container spot freight rates remained elevated this week, as measured by the SCFI index at 2,166 points, despite being 2.4% lower than the previous week; these levels are more than double the level at the start of December.
+
+Six month/1 Year TC Rates for 2,750 TEU have also been firmed, with now currently in the region of US$ 17,000 a day.
+
+Purchasing activity for this segment continues to be active with the recent weeks seeing at least 1 to 2 sales in the market. MSC have also been making the news as they look to acquire more older and larger tonnages.
 
 ## Containers S&P Report
 
-VESSEL NAME TYPE TEU YEAR BUILT PRICE COMMENTS / (MILLION) USD BUYERS CMA CGM IVANHOE POST PMAX 9,661 2008 S. KOREA N/A UNDISCLOSED WAN HAI 305 FEEDER 2,496 2002 JAPAN 7.7 CHINESE BUYERS
+| VESSEL NAME | TYPE | TEU | YEAR | BUILT | PRICE (MILLION) USD | COMMENTS / BUYERS |
+| --- | --- | --- | --- | --- | --- | --- |
+| CMA CGM IVANHOE | POST PMAX | 9,661 | 2008 | S. KOREA | N/A | UNDISCLOSED |
+| WAN HAI 305 | FEEDER | 2,496 | 2002 | JAPAN | 7.7 | CHINESE BUYERS |
 
-Containers Values
+# Containers Values
 
 *(Weekly)*
 
-| CONTAINERS (BY TEU) | GEARED / GEARLESS CONTRACT | NB | NB PROMPT DELIVERY | 5 YEARS | 10 YEARS | 15 YEARS |
-|---|---|---|---|---|---|---|
-| 900 - 1,200 | Geared | 23 | 24 | 17 | 12 | 7 |
-| 1,600 - 1,800 | Geared | 29 | 26 | 20 | 15 | 10 |
-| 2,700 - 2,900 | Gearless | 41 | 37 | 28 | 17 | 13 |
-| 5,500 - 7,000 *(amount in USD million) | Gearless | 94 | 78 | 66 | 36 | 23 |
+| CONTAINERS (BY TEU) | GEARED / GEARLESS | NB CONTRACT | NB PROMPT DELIVERY | 5 YEARS | 10 YEARS | 15 YEARS |
+| --- | --- | --- | --- | --- | --- | --- |
+| 900 – 1,200 | Geared | 23 | 24 | 17 | 12 | 7 |
+| 1,600 – 1,800 | Geared | 29 | 26 | 20 | 15 | 10 |
+| 2,700 – 2,900 | Gearless | 41 | 37 | 28 | 17 | 13 |
+| 5,500 – 7,000 | Gearless | 94 | 78 | 66 | 36 | 23 |
+| *(amount in USD million) | *(amount in USD million) | *(amount in USD million) | *(amount in USD million) | *(amount in USD million) | *(amount in USD million) | *(amount in USD million) |
 
 ## Page 9
 
@@ -207,11 +237,21 @@ Containers Values
 
 ## Ships Sold for Recycling
 
+| VESSEL NAME | LDT / MT | YEAR / BUILT | TYPE | PRICE (US$/LDT) | COMMENTS |
+| --- | --- | --- | --- | --- | --- |
+| KONSTANTINOS | 7,979 | 1995 / S. KOREA | BULKER | 520 | DELIVERED CHATTOGRAM |
+| EX FORTUNA | 7,371 | 1995 / JAPAN | BULKER | 525 | DELIVERED CHATTOGRAM |
+| BUKHTA NAGAEVA | 2,394 | 1984 / POLAND | REEFER | 495 | DELIVERED CHATTOGRAM |
+
 ## Recycling Ships Price Trend
 
-TYPE BULKER BULKER REEFER
+INDIA SHIP RECYCLING PRICES
 
-PRICE COMMENTS (US$/LDT) 520 DELIVERED CHATTOGRAM 525 DELIVERED CHATTOGRAM 495 DELIVERED CHATTOGRAM
+BANGLADESH SHIP RECYCLING PRICES
+
+PAKISTAN SHIP RECYCLING PRICES
+
+TURKEY SHIP RECYCLING PRICES
 
 ## Page 12
 
@@ -259,22 +299,35 @@ Pakistan reached a significant juncture this week as the much-anticipated electi
 
 ## Page 15
 
-Aliaga, Turkey
+Anchorage & Beaching Position (February 2024)
 
-Most Turkish mills have raised their prices for domestic scrap despite a decrease in imported scrap prices to offset the ongoing depreciation of the lira. Turkish mills anticipate price decreases, particularly from European suppliers, who are seeking prices above US$420/t cfr for HMS 1&2 80:20. With recent price corrections, market participants are uncertain about the possibility of further declines. Turkish shipbreaking scrap prices ranged from US$375-413/t delivered while the lira closed at 30.60 per US dollar, down from 30.34 the previous week. Ship recycling activites remained quiet due to lack of ships but the demand was roubust. The recent sale of Hapag Lloyds contianer at way above US$400/ton levels for EUSSR recycling has sent shock waves across the industry.
+| VESSEL NAME | TYPE | LDT | ARRIVAL | BEACHING |
+| --- | --- | --- | --- | --- |
+| ZE HONG | CONTAINER | 11,618 | 27.01.2024 | AWAITING |
 
----
+# Aliaga, Turkey
 
-Chattogram, Bangladesh : 11 ~ 14 February | 26 ~ 29 February Alang, India : 8 ~ 15 February | 23 ~ 27 February
+Most Turkish mills have raised their prices for domestic scrap despite a decrease in imported scrap prices to offset the ongoing depreciation of the lira.
 
----
+Turkish mills anticipate price decreases, particularly from European suppliers, who are seeking prices above US$420/t cfr for HMS 1&2 80:20. With recent price corrections, market participants are uncertain about the possibility of further declines.
 
-BUNKER PRICES (USD/TON)
+Turkish shipbreaking scrap prices ranged from US$375-413/t delivered while the lira closed at 30.60 per US dollar, down from 30.34 the previous week.
 
-PORTS VLSFO (0.5%) IFO380 CST MGO (0.1%)
+Ship recycling activites remained quiet due to lack of ships but the demand was roubust. The recent sale of Hapag Lloyds contianer at way above US$400/ton levels for EUSSR recycling has sent shock waves across the industry.
 
+# BEACHING TIDE DATES 2024
+
+Chattogram, Bangladesh : 11 ~ 14 February | 26 ~ 29 February
+
+Alang, India
+
+: 8 ~ 15 February | 23 ~ 27 February
+
+#### BUNKER PRICES (USD/TON)
+
+| PORTS | VLSFO (0.5%) | IFO380 CST | MGO (0.1%) |
+| --- | --- | --- | --- |
 | SINGAPORE | 655 | 461 | 805 |
-|---|---|---|---|
 | HONG KONG | 682 | 483 | 806 |
 | FUJAIRAH | 633 | 433 | 902 |
 | ROTTERDAM | 581 | 453 | 796 |
@@ -282,9 +335,31 @@ PORTS VLSFO (0.5%) IFO380 CST MGO (0.1%)
 
 ## Page 16
 
-Sub-Continent and Turkey ferrous scrap markets insight
+#### EXCHANGE RATES
 
-Imported ferrous scrap prices showed a varied pattern in South Asia this week. In India, price discrepancies persisted due to limited buying interest and weakened steel demand, while Pakistani buyers remained inactive amid the ongoing general election. Conversely, Bangladeshi buyers remained engaged in the imported market, with multiple containerised scrap deals reported. In Turkey, imported prices experienced a week-on-week decline with minor fluctuations as mills from the US and Europe engaged in moderate trading activities. In India, the demand for imported scrap remained subdued due to a sluggish finished steel market. While shredded scrap prices from Europe saw a slight increase to US$415/ton CFR Nhava Sheva, HMS (80:20) prices remained stable at US$397/ton CFR Nhava Sheva and dropped to US$393/ton from West Africa to Chennai port. Despite subdued market conditions, some transactions took place, including Malaysianorigin CR bushelings at US$440/ton CFR and West Africa-origin HMS (80:20) at US$385/t CFR. Domestic scrap prices were US$15-20/ton lower than imported scrap, with minimal interest in recent offers for UK-origin HMS at US$375/ton CFR Mundra. The recent increase in domestic steel scrap availability enabled mills to strategically reduce their scrap procurement costs. In Pakistan, market activity remained subdued due to the ongoing general elections. Shredded scrap from Europe was offered within the range of US$440-444/ton CFR Qasim, with LMS bundles and shredded scrap priced between US$375-442/ton CFR Qasim. HMS (80:20) from UAE was offered at US$418-420/ton. Domestically, local scrap prices were reported at PKR 164,000-168,000/t ($587-601/t) exworks, with rebars at PKR 264,000-268,000/t ($945-959/t) and billets at PKR 220,000- 225,000/t ($787-805/t), both ex-works.
+| CURRENCY | FEBRUARY 9 | FEBRUARY 2 | W-O-W % CHANGE |
+| --- | --- | --- | --- |
+| USD / CNY (CHINA) | 7.19 | 7.15 | -0.56% |
+| USD / BDT (BANGLADESH) | 109.73 | 109.11 | -0.57% |
+| USD / INR (INDIA) | 83.01 | 82.89 | -0.14% |
+| USD / PKR (PAKISTAN) | 279.42 | 279.35 | -0.03% |
+| USD / TRY (TURKEY) | 30.67 | 30.45 | -0.72% |
+
+# Sub-Continent and Turkey ferrous scrap markets insight
+
+Imported ferrous scrap prices showed a varied pattern in South Asia this week. In India, price discrepancies persisted due to limited buying interest and weakened steel demand, while Pakistani buyers remained inactive amid the ongoing general election. Conversely, Bangladeshi buyers remained engaged in the imported market, with multiple containerised scrap deals reported.
+
+In Turkey, imported prices experienced a week-on-week decline with minor fluctuations as mills from the US and Europe engaged in moderate trading activities.
+
+In India, the demand for imported scrap remained subdued due to a sluggish finished steel market. While shredded scrap prices from Europe saw a slight increase to US$415/ton CFR Nhava Sheva, HMS (80:20) prices remained stable at US$397/ton CFR Nhava Sheva and dropped to US$393/ton from West Africa to Chennai port.
+
+Despite subdued market conditions, some transactions took place, including Malaysian-origin CR bushelings at US\$440/ton CFR and West Africa-origin HMS (80:20) at US\$385/t CFR.
+
+Domestic scrap prices were US$15-20/ton lower than imported scrap, with minimal interest in recent offers for UK-origin HMS at US$375/ton CFR Mundra. The recent increase in domestic steel scrap availability enabled mills to strategically reduce their scrap procurement costs.
+
+In Pakistan, market activity remained subdued due to the ongoing general elections. Shredded scrap from Europe was offered within the range of US$440-444/ton CFR Qasim, with LMS bundles and shredded scrap priced between US$375-442/ton CFR Qasim. HMS (80:20) from UAE was offered at US$418-420/ton.
+
+Domestically, local scrap prices were reported at PKR 164,000-168,000/t (\$587-601/t) ex-works, with rebars at PKR 264,000-268,000/t (\$945-959/t) and billets at PKR 220,000-225,000/t (\$787-805/t), both ex-works.
 
 ## Page 17
 

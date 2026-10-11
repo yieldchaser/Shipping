@@ -149,13 +149,27 @@ Tanker 12 months T/C rates average (in USD/day)
 
 ## Containers
 
-Despite strong cargo volumes and carriers' efforts to raise freight rates for the US West Coast in mid-August, spot rates continue to face downward pressure, resulting in the SCFI falling for the fourth consecutive week. The early peak season for North America and Europe has led carriers to continuously add capacity on major routes, easing supply constraints. Shippers have adapted to increased sailing distances and secured inventory ahead of potential tariff hikes, causing an early moderation in peak season demand. SCFI fell 2% to 3,254 points this week. This marks a 13% decline from mid-July's peak. Major routes reflected this softening trend, with Shanghai to US East Coast rates dropping 3% to US$6,068 per FEU, and Shanghai to Northern Europe rates also decreasing 3% to US$4,786 per TEU.
+Despite strong cargo volumes and carriers' efforts to raise freight rates for the US West Coast in mid-August, spot rates continue to face downward pressure, resulting in the SCFI falling for the fourth consecutive week.
+
+The early peak season for North America and Europe has led carriers to continuously add capacity on major routes, easing supply constraints. Shippers have adapted to increased sailing distances and secured inventory ahead of potential tariff hikes, causing an early moderation in peak season demand.
+
+SCFI fell 2% to 3,254 points this week. This marks a 13% decline from mid-July's peak. Major routes reflected this softening trend, with Shanghai to US East Coast rates dropping 3% to US$6,068 per FEU, and Shanghai to Northern Europe rates also decreasing 3% to US$4,786 per TEU.
 
 ## Containers S&P Report
 
 | VESSEL NAME | TYPE | TEU | YEAR | BUILT | PRICE (MILLION) USD | COMMENTS / BUYERS |
-|---|---|---|---|---|---|---|
+| --- | --- | --- | --- | --- | --- | --- |
 | KMARIN AZUR / KMARIN ATLANTICA | PMAX | 4,532 | 2013 | S. KOREA | 53.0 EN BLOC | UNDISCLOSED |
+
+Containers Values
+
+| CONTAINERS (BY TEU) | GEARED / GEARLESS | NB CONTRACT | NB PROMPT DELIVERY | 5 YEARS | 10 YEARS | 15 YEARS |
+| --- | --- | --- | --- | --- | --- | --- |
+| 900 – 1,200 | Geared | 24 | 24 | 17 | 14 | 8 |
+| 1,600 – 1,850 | Geared | 30 | 33 | 25 | 18 | 15 |
+| 2,700 – 2,900 | Gearless | 41 | 43 | 34 | 27 | 22 |
+| 5,100 | Gearless | 81 | 77 | 66 | 35 | 32 |
+| *(amount in USD million) | *(amount in USD million) | *(amount in USD million) | *(amount in USD million) | *(amount in USD million) | *(amount in USD million) | *(amount in USD million) |
 
 ## Page 9
 

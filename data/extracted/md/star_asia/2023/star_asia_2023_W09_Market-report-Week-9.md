@@ -137,33 +137,32 @@ The L.R. market in the eastern Suez waters has slowed, but reduced vessel availa
 (Weekly)
 
 | TANKERS | DWT | NB CONTRACT | NB PROMPT DELIVERY | 5 YEARS | 10 YEARS | 20 YEARS |
-|---|---|---|---|---|---|---|
+| --- | --- | --- | --- | --- | --- | --- |
 | VLCC | 310,000 | 120 | 125 | 100 | 76 | 52 |
 | SUEZMAX | 160,000 | 80 | 85 | 68 | 53 | 30 |
 | AFRAMAX | 115,000 | 63 | 75 | 62 | 52 | 28 |
 | PANAMAX-LR1 | 73,000 | 54 | 57 | 47 | 36 | 18 |
 | MR TANKER | 51,000 | 44 | 47 | 41 | 32 | 17 |
+| *(amount in USD million) | *(amount in USD million) | *(amount in USD million) | *(amount in USD million) | *(amount in USD million) | *(amount in USD million) | *(amount in USD million) |
 
-*\*(amount in USD million)*
-
-### TANKER 12 MONTHS T/C RATES AVERAGE (IN USD/DAY)
+#### TANKER 12 MONTHS T/C RATES AVERAGE (IN USD/DAY)
 
 | TYPE | DWT | CURRENT | LAST WEEK | LAST YEAR | W-O-W CHANGE | Y-O-Y CHANGE |
-|---|---|---|---|---|---|---|
+| --- | --- | --- | --- | --- | --- | --- |
 | VLCC | 300,000 | 43,750 | 43,750 | 19,250 | 0 | +127.27% |
 | SUEZMAX | 150,000 | 36,250 | 36,250 | 18,500 | 0 | +95.95% |
 | AFRAMAX | 110,000 | 43,500 | 42,500 | 17,500 | +2.35% | +148.57% |
 | LR1 | 74,000 | 35,500 | 35,500 | 14,000 | 0 | +153.57% |
 | MR | 47,000 | 29,500 | 30,500 | 12,500 | -3.28% | +136.00% |
 
-### Baltic Exchange Tanker Indices
-
 ### BALTIC EXCHANGE TANKER INDICES
 
-| CURRENT | LAST WEEK | LAST YEAR | W-O-W CHANGE % | Y-O-Y CHANGE % |
-|---|---|---|---|---|
-| 1,483 | 1,338 | 1,474 | +10.84% | +0.61% |
-| 789 | 955 | 989 | -17.38% | -20.22% |
+#### BALTIC EXCHANGE TANKER INDICES
+
+|  | CURRENT | LAST WEEK | LAST YEAR | W-O-W CHANGE % | Y-O-Y CHANGE % |
+| --- | --- | --- | --- | --- | --- |
+| BDTI | 1,483 | 1,338 | 1,474 | +10.84% | +0.61% |
+| BCTI | 789 | 955 | 989 | -17.38% | -20.22% |
 
 ## Page 7
 
@@ -201,29 +200,31 @@ This week saw an increase in demand for containerships, particularly in the feed
 
 ## Ship Recycling Market Snapshot
 
-| DESTINATION | TANKERS | BULKERS | MPP/ GENERAL | CONTAINERS | SENTIMENTS / WEEKLY FUTURE |
-|---|---|---|---|---|---|
-| *For green ship recycling, the prices are about | 550 ~ 560 | 530 ~ 540 | 540 ~ 550 | 580 ~ 590 | STABLE / |
-| CHATTOGRAM, BANGLADESH | \*590 ~ 600 | \*580 ~ 590 | \*560 ~ 570 | \*620 ~ 630 | IMPROVING / |
+| DESTINATION | TANKERS | BULKERS | MPP/ GENERAL CARGO | CONTAINERS | SENTIMENTS / WEEKLY FUTURE TREND |
+| --- | --- | --- | --- | --- | --- |
+| ALANG (WC INDIA) *For green ship recycling, the prices are about US$25-30/ton lower. | 550 ~ 560 | 530 ~ 540 | 540 ~ 550 | 580 ~ 590 | STABLE / |
+| CHATTOGRAM, BANGLADESH | *590 ~ 600 | *580 ~ 590 | *560 ~ 570 | *620 ~ 630 | IMPROVING / |
 | GADDANI, PAKISTAN | NA | NA | NA | NA | NA |
-| TURKEY \*For Non-EU ships. For E.U. Ship, the prices are about US$30-40/ton less | 320 ~ 330 | 310 ~ 320 | 300 ~ 310 | 330 ~ 340 | STABLE / |
+| TURKEY *For Non-EU ships. For E.U. Ship, the prices are about US$30-40/ton less | 320 ~ 330 | 310 ~ 320 | 300 ~ 310 | 330 ~ 340 | STABLE / |
 
-- All prices are USD per light displacement tonnage in the long ton.
-- The prices reported are net prices offered by the recycling yards.
-- Prices quoted are basis simple Japanese / Korean-built tonnages trading units. Premiums are paid on top of the above- quoted prices based on quality & quality of Spares, Non-Fe., bunkers, cargo history, and maintenance.
-- \* Prices are based on the subject Letters of Credit opening and case-to-case buying.
+All prices are USD per light displacement tonnage in the long ton.
+
+The prices reported are net prices offered by the recycling yards.
+
+Prices quoted are basis simple Japanese / Korean-built tonnages trading units. Premiums are paid on top of the above-quoted prices based on quality & quality of Spares, Non-Fe., bunkers, cargo history, and maintenance.
+
+* Prices are based on the subject Letters of Credit opening and case-to-case buying.
 
 ### 5-Year Ship Recycling Average Historical Prices
 
 (Week 9)
 
-```text
-DESTINATION 2018 2019 2020 2021 2022
-ALANG, INDIA 460 450 400 440 615
-CHATTOGRAM, BANGLADESH 460 450 370 440 635
-GADDANI, PAKISTAN 420 420 360 435 620
-ALIAGA, TURKEY 290 270 240 245 380
-```
+| DESTINATION | 2018 | 2019 | 2020 | 2021 | 2022 |
+| --- | --- | --- | --- | --- | --- |
+| ALANG, INDIA | 460 | 450 | 400 | 440 | 615 |
+| CHATTOGRAM, BANGLADESH | 460 | 450 | 370 | 440 | 635 |
+| GADDANI, PAKISTAN | 420 | 420 | 360 | 435 | 620 |
+| ALIAGA, TURKEY | 290 | 270 | 240 | 245 | 380 |
 
 ## Page 10
 
@@ -272,21 +273,73 @@ Bangladesh markets shine this week with bustling activity. Demand was seen with 
 
 ## Page 13
 
+# Anchorage & Beaching Position (March 2023)
+
+| VESSEL NAME | TYPE | LDT | ARRIVAL | BEACHING |
+| --- | --- | --- | --- | --- |
+| SEA WIN | BULKER | 7,488 | 14.02.2023 | AWAITING |
+| NING FENG 316 | BULKER | 11,350 | 24.02.2023 | AWAITING |
+| XIUMEI SHANGHAI | CONTAINER | 7,334 | 25.02.2023 | AWAITING |
+
 ### GADDANI, PAKISTAN
 
-Pakistan watches solemnly again this week through its periphery. Pakistan is unable to import vessels due to their uncompetitive pricing and a lack of appropriate L.C. financing. Midweek, the state bank raised the interest rate by 3%, causing chaos and panic in the markets. Currently, there are very few domestic sales in the ship plate market, although there is some activity in the scrap market. On Thursday, the Pakistani rupee experienced a sharp drop of Rs18.74 against the U.S. dollar in the interbank market, trading at a historic high of Rs.284.85 in morning trade but later with some intervention by the central bank recovered back to Rs.279 levels. Analysts attribute the decline to the government's impasse with the IMF. IMF has requested that Pakistan trade the dollar at the current Afghan trade rate to reduce restrictions on foreign exchange, which has caused the trade to shift to the grey market. The currency has been sliding recently due to delays in a deal between Pakistan and the IMF, which has been under negotiation since early last month. A move to a market-based currency exchange rate regime is one of the prerequisites for the IMF to clear its 9th review, which could release a funding tranche of over US$1 billion. IMF has also asked Pakistan to fulfill bilateral and multilateral external financing commitments and raise policy rates. Islamabad's long-time ally China is the only country that has refinanced US$700 million. Once again, starting from Monday, the government will resume virtual talks with the IMF as the pressure builds up and the risk of defaulting is growing.
+Pakistan watches solemnly again this week through its periphery.
+
+Pakistan is unable to import vessels due to their uncompetitive pricing and a lack of appropriate L.C. financing.
+
+Midweek, the state bank raised the interest rate by 3%, causing chaos and panic in the markets. Currently, there are very few domestic sales in the ship plate market, although there is some activity in the scrap market. On Thursday, the Pakistani rupee experienced a sharp drop of Rs18.74 against the U.S. dollar in the interbank market, trading at a historic high of Rs.284.85 in morning trade but later with some intervention by the central bank recovered back to Rs.279 levels. Analysts attribute the decline to the government's impasse with the IMF.
+
+IMF has requested that Pakistan trade the dollar at the current Afghan trade rate to reduce restrictions on foreign exchange, which has caused the trade to shift to the grey market. The currency has been sliding recently due to delays in a deal between Pakistan and the IMF, which has been under negotiation since early last month.
+
+A move to a market-based currency exchange rate regime is one of the prerequisites for the IMF to clear its 9th review, which could release a funding tranche of over US$1 billion. IMF has also asked Pakistan to fulfill bilateral and multilateral external financing commitments and raise policy rates. Islamabad's long-time ally China is the only country that has refinanced US$700 million.
+
+Once again, starting from Monday, the government will resume virtual talks with the IMF as the pressure builds up and the risk of defaulting is growing.
+
+# Anchorage & Beaching Position (March 2023)
+
+| VESSEL NAME | TYPE | LDT | ARRIVAL | BEACHING |
+| --- | --- | --- | --- | --- |
+| - | - | - | - | - |
 
 ## Page 14
 
-### Bunker Prices (USD / ton)
+# ALIAGA, TURKEY
 
-| PORT | VLSFO (0.5%) | HSFO (3.5%) | MGO (0.1%) |
-| :--- | :---: | :---: | :---: |
+This week, Turkish mills have slowed their scrap demand and are waiting before concluding imported scrap bookings for April shipment. Although scrap suppliers have raised their price targets this week, there is no buying interest from Turkish mills.
+
+The latest deal was concluded at US$450/t from the Baltic, US$445/t from the E.U. and US$445/t CFR Turkey from the U.K. for HMS 1&2 80:20 at the end of last week.
+
+Not much activity was reported in this region, with a lack of tonnage available for the markets.
+
+### BEACHING TIDE DATES 2022
+
+Chattogram, Bangladesh : 9th ~ 12th March | 21st ~ 24th March
+
+Alang, India : 7th ~ 13th March | 19th ~ 26th March
+
+# Bunker Prices
+
+#### BUNKER PRICES (USD/TON)
+
+| PORTS | VLSFO (0.5%) | IFO380 CST | MGO (0.1%) |
+| --- | --- | --- | --- |
 | SINGAPORE | 606 | 464 | 804 |
 | HONG KONG | 611 | 485 | 816 |
 | FUJAIRAH | 606 | 456 | 1111 |
 | ROTTERDAM | 581 | 413 | 814 |
 | HOUSTON | 624 | 426 | 865 |
+
+# Exchange Rates
+
+#### EXCHANGE RATES
+
+|  | 3rd MARCH | 24th FEBRUARY | W-O-W % CHANGE |
+| --- | --- | --- | --- |
+| USD / CNY (CHINA) | 6.90 | 6.94 | +0.58% |
+| USD / BDT (BANGLADESH) | 106.17 | 106.71 | +0.51% |
+| USD / INR (INDIA) | 81.69 | 82.91 | +1.47% |
+| USD / PKR (PAKISTAN) | 275.95 | 260.09 | -6.10% |
+| USD / TRY (TURKEY) | 18.83 | 18.88 | +0.26% |
 
 ## Page 15
 

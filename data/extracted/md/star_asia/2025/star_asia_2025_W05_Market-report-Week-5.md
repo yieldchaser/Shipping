@@ -93,15 +93,36 @@ The Suezmax market showed signs of recovery this week, particularly in the Weste
 
 ## Page 6
 
-Aframax:
+# Aframax:
 
 Med and UKC saw a quiet week with rates holding relatively steady, as cross-Med rates softened to WS119 while Black Sea-Med rates showed slight improvement to WS140. In the Atlantic, the market demonstrated more dynamism, with USG/UKC rates climbing to WS128.
 
-Clean:
+# Clean:
 
-LR: The LR2 market showed mixed performance this week, with MEG/Japan rates declining to WS126. The LR1 sector faced downward pressure in the East as MEG/Japan rates fell to WS123. MR: The MR market experienced broad weakness this week, with significant rate corrections across most routes, particularly in the Atlantic basin where ARA/USAC rates dropped by 20 points to WS142. USG showed similar bearish trends, with USG/UKC declining to WS118.
+LR: The LR2 market showed mixed performance this week, with MEG/Japan rates declining to WS126. The LR1 sector faced downward pressure in the East as MEG/Japan rates fell to WS123.
+
+MR: The MR market experienced broad weakness this week, with significant rate corrections across most routes, particularly in the Atlantic basin where ARA/USAC rates dropped by 20 points to WS142. USG showed similar bearish trends, with USG/UKC declining to WS118.
 
 ## Baltic Exchange Tanker Indices
+
+| INDICES | CURRENT | LAST WEEK | LAST YEAR | W-O-W CHANGE | Y-O-Y CHANGE |
+| --- | --- | --- | --- | --- | --- |
+| BDTI | 876 | 845 | 1,295 | +3.67% | -32.36% |
+| BCTI | 662 | 725 | 1,181 | -8.69% | -43.95% |
+
+# Tankers Values
+
+(Weekly)
+
+| TYPE | DWT | NB CONTRACT | NB PROMPT DELIVERY | 5 YEARS | 10 YEARS | 15 YEARS |
+| --- | --- | --- | --- | --- | --- | --- |
+| VLCC | 310,000 | 128 | 143 | 114 | 84 | 56 |
+| SUEZMAX | 160,000 | 89 | 97 | 82 | 66 | 49 |
+| AFRAMAX | 115,000 | 74 | 85 | 71 | 60 | 43 |
+| LRI | 73,000 | 61 | 67 | 57 | 47 | 31 |
+| MR | 51,000 | 51 | 52 | 49 | 40 | 27 |
+
+*(amount in USD million)
 
 ## Page 7
 
@@ -120,9 +141,25 @@ LR: The LR2 market showed mixed performance this week, with MEG/Japan rates decl
 
 ## Containers
 
-MSC led an aggressive second-hand vessel acquisition strategy in 2024, purchasing 70 ships totaling 330,000 TEUs, marking a milestone of over 400 vessel acquisitions since August 2020 in its bid to overtake Maersk Line. Other carriers also expanded their fleets, with CMA CGM adding 15 vessels including specialized reefer ships, while HMM and tonnage providers like MPC Container Ships participated in the active second-hand market. Container freight rates softened this week as Chinese New Year celebrations dampened activity, following a period of pre-holiday cargo frontloading. The mainline routes, particularly Far East-Europe, are expected to face continued rate pressure as the recent surge in demand subsides.
+MSC led an aggressive second-hand vessel acquisition strategy in 2024, purchasing 70 ships totaling 330,000 TEUs, marking a milestone of over 400 vessel acquisitions since August 2020 in its bid to overtake Maersk Line. Other carriers also expanded their fleets, with CMA CGM adding 15 vessels including specialized reefer ships, while HMM and tonnage providers like MPC Container Ships participated in the active second-hand market. Container freight rates softened this week as Chinese New Year celebrations dampened activity, following a period of pre-holiday cargo frontloading. The mainline routes, particularly Far East–Europe, are expected to face continued rate pressure as the recent surge in demand subsides.
 
 ## Containers Values
+
+| CONTAINERS (BY TEU) | GEARED / GEARLESS | NB CONTRACT | NB PROMPT DELIVERY | 5 YEARS | 10 YEARS | 15 YEARS |
+| --- | --- | --- | --- | --- | --- | --- |
+| 900 – 1,200 | Geared | 24 | 24 | 17 | 14 | 8 |
+| 1,600 – 1,850 | Geared | 30 | 33 | 25 | 19 | 15 |
+| 2,700 – 2,900 | Gearless | 41 | 43 | 34 | 27 | 23 |
+| 5,100 | Gearless | 81 | 77 | 66 | 35 | 32 |
+| *(amount in USD million) | *(amount in USD million) | *(amount in USD million) | *(amount in USD million) | *(amount in USD million) | *(amount in USD million) | *(amount in USD million) |
+
+S&P Containers Report
+
+| VESSEL NAME | TYPE | TEU | YEAR | BUILT | PRICE (MILLION) USD | COMMENTS / BUYERS |
+| --- | --- | --- | --- | --- | --- | --- |
+| ASIAN ACE | FEEDER | 1,740 | 2005 | CHINA | 9.5 | ERASMUS CORP |
+| ATOUT | FEEDER | 1,702 | 2010 | GERMANY | 19.5 | ASIAN BUYERS |
+| HS HONG KONG | FEEDER | 1,096 | 2019 | JAPAN | 21.0 | JIN JIANG SHIPPING CORP |
 
 ## Page 9
 
@@ -249,37 +286,41 @@ Pakistan's imported scrap market continues to reflect the global slowdown, with 
 
 ## Page 17
 
-Aliaga, Turkey
+# Aliaga, Turkey
 
-In the Turkish market, ship recycling prices remain at US$340/t delivered, against an uptick of more ships being offered for recycling. However, Turkey's underlying steel market fundamentals remain weak with prices dropping by US$6.
+In the Turkish market, ship recycling prices remain at US$340/t delivered, against an uptick of more ships being offered for recycling.
 
----
+However, Turkey's underlying steel market fundamentals remain weak with prices dropping by US$6.
 
-Chattogram, Bangladesh : 14 ~ 17 February | 28 February ~ 03 March Alang, India : 01 ~ 04 February | 10 ~ 16 February
+# BEACHING TIDE DATES 2025
 
----
+Chattogram, Bangladesh : 14 ~ 17 February | 28 February ~ 03 March
 
-BUNKER PRICES (USD/ton)
+Alang, India
+
+: 01 ~ 04 February | 10 ~ 16 February
+
+#### BUNKER PRICES (USD/ton)
 
 | PORTS | VLSFO (0.5%) | HSFO (3.5%) | MGO (0.1%) |
-|---|---|---|---|
+| --- | --- | --- | --- |
 | SINGAPORE | 598 | 513 | 725 |
 | HONG KONG | 603 | 520 | 728 |
 | FUJAIRAH | 585 | 483 | 775 |
 | ROTTERDAM | 550 | 480 | 700 |
 | HOUSTON | 589 | 526 | 728 |
 
-EXCHANGE RATES
+#### EXCHANGE RATES
 
 | CURRENCY | January 31 | January 24 | W-O-W % CHANGE |
-|---|---|---|---|
+| --- | --- | --- | --- |
 | USD / CNY (CHINA) | 7.25 | 7.24 | -0.14% |
 | USD / BDT (BANGLADESH) | 121.92 | 121.88 | -0.03% |
 | USD / INR (INDIA) | 86.66 | 86.20 | -0.53% |
 | USD / PKR (PAKISTAN) | 278.81 | 278.72 | -0.03% |
 | USD / TRY (TURKEY) | 35.69 | 35.68 | -0.03% |
 
-Sub-Continent and Turkey ferrous scrap markets insight
+# Sub-Continent and Turkey ferrous scrap markets insight
 
 ### Mixed Trends in Sub-Continent Ferrous Scrap Markets Amid Global Price Movements
 
@@ -317,16 +358,27 @@ The base metals market continues to grapple with an uncertain economic outlook, 
 
 ## Page 20
 
+Meanwhile, the aluminum market faces fresh disruptions, with reports indicating that the European Union is preparing a proposal to phase in a ban on Russian aluminum imports. The move, if implemented, could tighten global supply chains and add further volatility to the market.
+
+As geopolitical tensions and trade policies continue to shape market dynamics, traders remain cautious, closely monitoring developments that could influence base metal demand and pricing in the coming weeks.
+
+The iron ore market maintained its upward trajectory this week, with futures recording gains for the second consecutive session, pushing prices higher.
+
+On the Singapore Exchange, February 62% Fe futures advanced US$0.60/ton to US$105.72/ton, while 65% Fe futures gained US$0.58/ton to US$119.47/ton. 58% Fe futures saw the sharpest increase, rising US$1.07/ton to US$92.69/ton. Meanwhile, Tangshan billet prices remained steady at CNY 3,090/t (US$426/ton).
+
+With much of the Chinese market on holiday for Lunar New Year, investor sentiment has shown signs of recovery. Despite concerns over potential U.S. tariffs on Chinese imports, traders remain optimistic, keeping the iron ore market resilient against external risks.
+
 ### Iron Ore
 
-| COMMODITY (USD/MT) | GRADE |
-| --- | --- |
-| Iron Ore Fines, CNF Rizhao, China | Fines, Fe 62% (Aust. Origin) 105 +0.96% -22.22% 104 135 Iron Ore Fines, CNF Qingdao, China Fines, Fe 62.5% (Brazil Origin) 107 +1.90% -21.89 105 137 INDEX UNITS PRICE CHANGE %CHANGE CONTRACT Copper (Comex) USD / lb. 427.90 -2.85 -0.66% Mar 2025 3Mo Copper (L.M.E.) USD / MT 9,128.50 +60.50 +0.67% N/A 3Mo Aluminum (L.M.E.) USD / MT 2,626.50 +7.00 +0.27% N/A 3Mo Zinc (L.M.E.) USD / MT 2,793.50 +10.50 +0.38% N/A 3Mo Tin (L.M.E.) USD / MT 30,269.00 +163.00 +0.54% N/A |
+| COMMODITY | SIZE / GRADE | THIS WEEK USD / MT | W-O-W | Y-O-Y | LAST WEEK USD / MT | LAST YEAR USD / MT |
+| --- | --- | --- | --- | --- | --- | --- |
+| Iron Ore Fines, CNF Rizhao, China | Fines, Fe 62% (Aust. Origin) | 105 | +0.96% | -22.22% | 104 | 135 |
+| Iron Ore Fines, CNF Qingdao, China | Fines, Fe 62.5% (Brazil Origin) | 107 | +1.90% | -21.89 | 105 | 137 |
 
 ### Industrial Metal Rates
 
-| INDEX | UNITS | PRICE | CHANGE | % CHANGE | CONTRACT |
-| :--- | :--- | :---: | :---: | :---: | :---: |
+| INDEX | UNITS | PRICE | CHANGE | %CHANGE | CONTRACT |
+| --- | --- | --- | --- | --- | --- |
 | Copper (Comex) | USD / lb. | 427.90 | -2.85 | -0.66% | Mar 2025 |
 | 3Mo Copper (L.M.E.) | USD / MT | 9,128.50 | +60.50 | +0.67% | N/A |
 | 3Mo Aluminum (L.M.E.) | USD / MT | 2,626.50 | +7.00 | +0.27% | N/A |

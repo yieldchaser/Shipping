@@ -380,7 +380,7 @@ Last week, newbuilding contracts for non-conventional type of units have almost 
 # Intermodal Demolition Market
 ## Indicative Demolition Prices ($/ldt)
 
-| Markets | Markets | 27/08/2021 | 20/08/2021 | ±% | 2020 | 2019 |
+| Markets | 27/08/2021 | 20/08/2021 | ±% | 2020 | 2019 | 2018 |
 | --- | --- | --- | --- | --- | --- | --- |
 | Tanker |  |  |  |  |  |  |
 | Bangladesh | 590 | 590 | 0.0% | 348 | 410 | 442 |

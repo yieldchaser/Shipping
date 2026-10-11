@@ -119,6 +119,17 @@ In the Pacific, offers fell in response to restricted demand caused by the incre
 
 ## Page 4
 
+#### BULKER 12 MONTHS T/C RATES AVERAGE (IN USD/DAY)
+
+|  | DWT | CURRENT | LAST WEEK | LAST YEAR | W-O-W CHANGE % | Y-O-Y CHANGE % |
+| --- | --- | --- | --- | --- | --- | --- |
+| CAPE | 180,000 | 15,250 | 15,000 | 37,500 | +1.67 | -59.33 |
+| PANAMAX | 75,000 | 15,800 | 15,825 | 30,000 | -0.16 | -47.33 |
+| SUPRAMAX | 52,000 | 15,350 | 15,250 | 31,250 | +0.66 | -50.88 |
+| HANDYSIZE | 32,000 | 13,500 | 13,500 | 30,350 | 0 | -55.52 |
+
+# Dry Bulk 1 year T/C rates
+
 ## Page 5
 
 # Tankers
@@ -144,6 +155,32 @@ In the Med market, owners kept the momentum going and remained busy for another 
 M.R. freight rates between Korea and Southeast Asia declined as a result of a fall in the volume entering the region. The U.K.C. and U.S.G. improved as the week went on. However, the availability of vessels could increase if more ships are brought back from the U.S.G. AG MRs have increased significantly this week, with TC17 jumping to WS367.
 
 # Tankers S&P Report
+
+| VESSEL NAME | TYPE | DWT | YEAR | BUILT | PRICE (MILLION) USD | COMMENTS / BUYERS |
+| --- | --- | --- | --- | --- | --- | --- |
+| NORDIC COSMOS | SUEZ | 159,999 | 2003 | S. KOREA | 21.0 | UNDISCLOSED |
+| CAP GUILLAUME | SUEZ | 158,889 | 2006 | S. KOREA | 35.0 | UAE BASED |
+| ALBURAQ / SEA LEGEND | LR2 | 112,521 | 2008 | S. KOREA | 70.0 EN BLOC | SOLD TO CHARTERERS |
+| SEAGRACE | AFRA | 105,941 | 2004 | S. KOREA | 23.5 | CHINESE BUYERS |
+| ARIEL | LR1 | 71,498 | 2004 | S. KOREA | 19.0 | UNDISCLOSED |
+| ENERGY PROGRESS / ENERGY PUMA | MR | 46,606 | 2008 | S. KOREA | 40.0 EN BLOC | UAE BASED |
+| DEE4 FIG | MR | 44,995 | 2011 | JAPAN | 26.0 | UNITED OVERSEAS |
+| BALTIC ADVANCE | MR | 37,332 | 2006 | S. KOREA | 16.5 | UNDISCLOSED |
+| HANYU FREESIA | PROD / CHEM | 13,102 | 2006 | S. KOREA | 7.1 | UNDISCLOSED |
+
+# Tankers Values
+
+(Weekly)
+
+| TANKERS | DWT | NB CONTRACT | NB PROMPT DELIVERY | 5 YEARS | 10 YEARS | 20 YEARS |
+| --- | --- | --- | --- | --- | --- | --- |
+| VLCC | 310,000 | 120 | 116 | 88 | 65 | 43 |
+| SUEZMAX | 160,000 | 80 | 82 | 62 | 45 | 24 |
+| AFRAMAX | 115,000 | 61 | 72 | 57 | 42 | 23 |
+| PANAMAX-LR1 | 73,000 | 53 | 56 | 44 | 30 | 15 |
+| MR TANKER | 51,000 | 43 | 46 | 40 | 29 | 14 |
+
+* (amount in USD million)
 
 ## Page 7
 
@@ -208,46 +245,34 @@ lead to record container demolitions in 2023.
 # Ship Recycling Market Snapshot
 
 | DESTINATION | TANKERS | BULKERS | MPP/ GENERAL CARGO | CONTAINERS | SENTIMENTS / WEEKLY FUTURE TREND |
-|---|---|---|---|---|---|
-| ALANG (WC INDIA) | 600 ~ 610 | 590 ~ 600 | 600 ~ 610 | 630 ~ 640 | STABLE / |
-| CHATTOGRAM, BANGLADESH | 610 ~ 620 | 600 ~ 610 | 590 ~ 600 | 620 ~ 630 | STABLE / |
-| GADDANI, PAKISTAN | 590 ~ 600 | 580 ~ 590 | 560 ~ 570 | 600 ~ 610 | STABLE / |
-| TURKEY \*For Non-EU ships. For E.U. Ship, the prices are about USUS$30-40/ton less | 320 ~ 330 | 310 ~ 320 | 300 ~ 310 | 350 ~ 360 | STABLE / |
+| --- | --- | --- | --- | --- | --- |
+| ALANG (WC INDIA) | 600 ~ 610 | 590 ~ 600 | 600 ~ 610 | 630 ~ 640 | STABLE / icon: blue double arrow |
+| CHATTOGRAM, BANGLADESH | 610 ~ 620 | 600 ~ 610 | 590 ~ 600 | 620 ~ 630 | STABLE / icon: blue double arrow |
+| GADDANI, PAKISTAN | 590 ~ 600 | 580 ~ 590 | 560 ~ 570 | 600 ~ 610 | STABLE / icon: blue double arrow |
+| TURKEY *For Non-EU ships. For E.U. Ship, the prices are about US$30-40/ton less | 320 ~ 330 | 310 ~ 320 | 300 ~ 310 | 350 ~ 360 | STABLE / icon: blue double arrow |
 
 - All prices are USD per light displacement tonnage in the long ton.
+
 - The prices reported are net prices offered by the recycling yards.
+
 - Prices quoted are basis simple Japanese / Korean-built tonnages trading units. Premiums are paid on top of the above-quoted prices based on quality & quality of Spares, Non-Fe., bunkers, cargo history, and maintenance.
 
-# 5-Year Ship
-
-### DESTINATION
-
-ALANG, INDIA
-
-CHATTOGRAM, BANGLADESH GADDANI, PAKISTAN ALIAGA, TURKEY
-
-### VESSEL NAME LDT / MT
-
-YU HAI XING 5017.10
-
-580 ~ 590 560 ~ 570 600 ~ 610 STABLE /
-
-310 ~ 320 300 ~ 310 350 ~ 360 STABLE /
-
-# Recycling Average Historical Prices
+# 5-Year Ship Recycling Average Historical Prices
 
 (Week 41)
 
-| 2017 | 2018 | 2019 | 2020 | 2021 |
-|---|---|---|---|---|
-| 380 | 445 | 360 | 350 | 580 |
-| 390 | 450 | 370 | 350 | 600 |
-| 410 | 440 | 360 | 360 | 590 |
-| 210 | 270 Ships Sold for Recycling | 220 | 205 | 290 |
+| DESTINATION | 2017 | 2018 | 2019 | 2020 | 2021 |
+| --- | --- | --- | --- | --- | --- |
+| ALANG, INDIA | 380 | 445 | 360 | 350 | 580 |
+| CHATTOGRAM, BANGLADESH | 390 | 450 | 370 | 350 | 600 |
+| GADDANI, PAKISTAN | 410 | 440 | 360 | 360 | 590 |
+| ALIAGA, TURKEY | 210 | 270 | 220 | 205 | 290 |
 
-**YEAR / BUILT TYPE PRICE COMMENTS (USUS$/LDT LT)**
+# Ships Sold for Recycling
 
-1995 / CHINA BC 615 DELIVERED CHATTOGRAM
+| VESSEL NAME | LDT / MT | YEAR / BUILT | TYPE | PRICE (US$/LDT LT) | COMMENTS |
+| --- | --- | --- | --- | --- | --- |
+| YU HAI XING | 5017.10 | 1995 / CHINA | BC | 615 | DELIVERED CHATTOGRAM |
 
 ## Page 10
 
@@ -303,10 +328,32 @@ A very quiet week for the Pakistani ship recycling markets as the price levels a
 
 ## Page 13
 
-### Bunker Prices (USD / ton)
+# Anchorage & Beaching Position (October 2022)
 
-| PORT | VLSFO (0.5%) | HSFO (3.5%) | MGO (0.1%) |
-| :--- | :---: | :---: | :---: |
+| VESSEL NAME | TYPE | LDT | ARRIVAL | BEACHING |
+| --- | --- | --- | --- | --- |
+| CHEVAL BLEU | TANKER | 21,822 | 04.10.2022 | 08.10.2022 |
+
+# ALIAGA, TURKEY
+
+Despite a minor uptick in domestic scrap prices, the import market in Turkey continues to be sluggish.
+
+In addition to a shortage of export sales, domestic demand for Turkish rebar has also ceased this week. Although mills attempted to maintain prices over US$700/t ex-works, there were bids as low as US$680/t ex-works from re-rollers and stockists in need of cash due to ongoing credit troubles in Turkey.
+
+On Wednesday, shipbreaking scrap rates were seen at US$360/t delivered, unchanged from the previous week. The lira remains stable w-o-w at 18.58 per dollar.
+
+# BEACHING TIDE DATES 2022
+
+Chattoogram, Bangladesh : 24th Oct. ~ 27th Oct. | 6th Nov. ~ 9th Nov.
+
+Alang, India : 25th Oct. ~ 31st Oct. | 6th Nov. ~ 13th Nov.
+
+# Bunker Prices
+
+#### BUNKER PRICES (USD/TON)
+
+| PORTS | VLSFO (0.5%) | IFO380 CST | MGO (0.1%) |
+| --- | --- | --- | --- |
 | SINGAPORE | 735 | 395 | 1072 |
 | HONG KONG | 725 | 423 | 1028 |
 | FUJAIRAH | 715 | 390 | 1286 |

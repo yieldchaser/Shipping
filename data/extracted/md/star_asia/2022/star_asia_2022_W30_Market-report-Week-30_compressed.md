@@ -102,10 +102,10 @@ regions declined. In the Western Med, similar tones were noted from a lack of en
 
 ## Page 3
 
-# Dry Bulk - S&P Report
+# Dry Bulk – S&P Report
 
 | VESSEL NAME | TYPE | DWT | YEAR | BUILT | PRICE (MILLION) USD | COMMENTS / BUYERS |
-|---|---|---|---|---|---|---|
+| --- | --- | --- | --- | --- | --- | --- |
 | EKATERINI | CAPE | 173,555 | 2012 | CHINA | N/A | UNDISCLOSED |
 | BONANZAYR | PANAMAX | 76,465 | 2006 | JAPAN | 16.5 | UNDISCLOSED |
 | DAYANG CONFIDENCE | SUPRAMAX | 63,127 | 2017 | CHINA | 30.0 | CHINESE BUYERS |
@@ -117,30 +117,31 @@ regions declined. In the Western Med, similar tones were noted from a lack of en
 (Weekly)
 
 | TYPE | DWT | NB CONTRACT | NB PROMPT DELIVERY | 5 YEARS | 10 YEARS | 20 YEARS |
-|---|---|---|---|---|---|---|
+| --- | --- | --- | --- | --- | --- | --- |
 | CAPE | 180,000 | 64 | 62 | 45 | 35 | 15 |
 | KAMSARMAX | 82,000 | 37 | 42 | 36 | 26 | 14 |
 | SUPRAMAX | 56,000 | 34 | 32 | 26 | 23 | 12 |
 | HANDY | 38,000 | 30 | 32 | 28 | 20 | 9 |
-
-# Baltic Exchange Dry Bulk Indices
+| *(Amount in USD million) | *(Amount in USD million) | *(Amount in USD million) | *(Amount in USD million) | *(Amount in USD million) | *(Amount in USD million) | *(Amount in USD million) |
 
 #### BALTIC EXCHANGE DRY BULK INDICES
 
-| CURRENT | LAST WEEK | LAST YEAR | W-O-W CHANGE % | Y-O-Y CHANGE % |
-|---|---|---|---|---|
-| 1,895 | 2,146 | 3,292 | 11.70% | -42.44% |
-| 2,081 | 2,696 | 4,306 | 22.81% | -51.67% |
-| 2,051 | 2,093 | 3,304 | 2.01% | -37.92% |
-| 1,971 | 2,080 | 2,945 | 5.24% | -33.07% |
-| 1,173 | 1,211 | 1,760 | 3.14% | -33.35% |
+#### BALTIC EXCHANGE DRY BULK INDICES
+
+|  | CURRENT | LAST WEEK | LAST YEAR | W-O-W CHANGE % | Y-O-Y CHANGE % |
+| --- | --- | --- | --- | --- | --- |
+| BDI | 1,895 | 2,146 | 3,292 | 11.70% | -42.44% |
+| BCI | 2,081 | 2,696 | 4,306 | 22.81% | -51.67% |
+| BPI | 2,051 | 2,093 | 3,304 | 2.01% | -37.92% |
+| BSI | 1,971 | 2,080 | 2,945 | 5.24% | -33.07% |
+| BHSI | 1,173 | 1,211 | 1,760 | 3.14% | -33.35% |
 
 #### BULKER 12 MONTHS T/C RATES AVERAGE (IN USD/DAY)
 
-DWT CURRENT LAST WEEK LAST YEAR W-O-W Y-O-Y CHANGE % CHANGE % CAPE 180,000 18,625 21,500 29,750 13.37% -37.39%
-
+|  | DWT | CURRENT | LAST WEEK | LAST YEAR | W-O-W CHANGE % | Y-O-Y CHANGE % |
+| --- | --- | --- | --- | --- | --- | --- |
+| CAPE | 180,000 | 18,625 | 21,500 | 29,750 | 13.37% | -37.39% |
 | PANAMAX | 75,000 | 17,500 | 18,500 | 25,350 | 5.41% | -30.97% |
-|---|---|---|---|---|---|---|
 | SUPRAMAX | 52,000 | 16,250 | 18,250 | 25,150 | 10.96% | -35.39% |
 | HANDYSIZE | 32,000 | 16,000 | 17,750 | 23,750 | 9.86% | -32.63% |
 
@@ -371,15 +372,37 @@ This week, Turkey's hot-rolled coil market is moving in lockstep with softening 
 
 ## Page 15
 
+# Bunker Prices
+
+#### BUNKER PRICES (USD/TON)
+
+| PORTS | VLSFO (0.5%) | IFO380 CST | MGO (0.1%) |
+| --- | --- | --- | --- |
+| SINGAPORE | 904 | 506 | 1079 |
+| HONG KONG | 879 | 527 | 1050 |
+| FUJAIRAH | 910 | 499 | 1355 |
+| ROTTERDAM | 787 | 495 | 1147 |
+| HOUSTON | 836 | 623 | 1148 |
+
 ### Exchange Rates
 
-| CURRENCY PAIR | 29th JULY | 22nd JULY | W-O-W % CHANGE |
-| :--- | :---: | :---: | :---: |
+#### EXCHANGE RATES
+
+|  | 29th JULY | 22nd JULY | W-O-W % CHANGE |
+| --- | --- | --- | --- |
 | USD / CNY (CHINA) | 6.74 | 6.75 | +0.15 |
 | USD / BDT (BANGLADESH) | 94.65 | 94.30 | -0.37 |
 | USD / INR (INDIA) | 79.24 | 79.90 | +0.83 |
 | USD / PKR (PAKISTAN) | 240.09 | 228.25 | -5.19 |
 | USD / TRY (TURKEY) | 17.91 | 17.75 | -0.90 |
+
+# Commodity Prices
+
+### HMS 1/2 & Tangshan Billet
+
+HMS 1/2 TURKEY CFR (USD/T)
+
+TANGSHAN BILLET EX-WORKS (CNY/T)
 
 ## Page 16
 

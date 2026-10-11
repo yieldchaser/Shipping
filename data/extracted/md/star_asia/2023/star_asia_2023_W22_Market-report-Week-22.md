@@ -282,34 +282,31 @@ Anchorage & Beaching Position (June 2023)
 
 ## Page 14
 
-Aliaga, Turkey
+# Aliaga, Turkey
 
 Turkey's President Recep Tayyip Erdoğan has won a run-off election, securing his rule for a third decade. With approximately 52.1% of the vote, Erdoğan comfortably defeated his rival Kemal Kılıçdaroğlu, who received 47.9%. The election was seen as a referendum on Turkey's future, coinciding with the 100-year anniversary of the republic's founding. Erdoğan celebrated his win with a speech in Istanbul, emphasizing unity and vowing to remain in power. However, concerns persist over Turkey's strained economy, including the plunging lira and dwindling foreign exchange reserves. The opposition had warned that a continued presidency under Erdoğan could lead to the erosion of democracy and human rights.
 
 Expectations in the Turkish scrap market are divided due to various factors. Some market participants believe that maintaining current scrap prices is the best-case scenario, while suppliers anticipate a rebound in prices in the coming days.
 
----
+### BEACHING TIDE DATES 2023
 
-Chattogram, Bangladesh : 4th ~ 7th June | 17th ~ 20th June
+Chattogram, Bangladesh: 4th ~ 7th June | 17th ~ 20th June
+Alang, India: 2nd ~ 10th June | 14th ~ 22nd June
 
-Alang, India : 2nd ~ 10th June | 14th ~ 22nd June
-
----
-
-BUNKER PRICES (USD/TON)
+#### BUNKER PRICES (USD/TON)
 
 | PORTS | VLSFO (0.5%) | IFO380 CST | MGO (0.1%) |
-|---|---|---|---|
+| --- | --- | --- | --- |
 | SINGAPORE | 561 | 434 | 688 |
 | HONG KONG | 607 | 444 | 661 |
 | FUJAIRAH | 547 | 413 | 835 |
 | ROTTERDAM | 534 | 448 | 674 |
 | HOUSTON | 520 | 421 | 709 |
 
-EXCHANGE RATES
+#### EXCHANGE RATES
 
-| CURRENCY | 2nd JUNE | 26th MAY | W-O-W % CHANGE |
-|---|---|---|---|
+| CURRENCY | 2 nd JUNE | 26 th MAY | W-O-W % CHANGE |
+| --- | --- | --- | --- |
 | USD / CNY (CHINA) | 7.08 | 7.05 | -0.43% |
 | USD / BDT (BANGLADESH) | 107.32 | 107.21 | -0.10% |
 | USD / INR (INDIA) | 82.39 | 82.61 | +0.27% |

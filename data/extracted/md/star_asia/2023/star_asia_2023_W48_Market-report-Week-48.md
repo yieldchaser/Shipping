@@ -99,17 +99,33 @@ Although activity has slowed due to restricted cargo inflow, resistance among sh
 
 However, growing pressure on ship supply in the Atlantic act as a limiting factor for further increases. In the M.E.G., 140,000mt M.E.G./Med fell by four points to WS69.
 
-Aframax:
+# Aframax:
 
-The market conditions in the MEG/SE Asia segment closed lower due to increased congestion in the Suez East Convoy and weakness in the Mediterranean. 80,000mt Ceyhan/Lavera remains around WS150. U.K.C. region was also a quiet one, with cross- UKC rates falling to WS150.
+The market conditions in the MEG/SE Asia segment closed lower due to increased congestion in the Suez East Convoy and weakness in the Mediterranean. 80,000mt Ceyhan/Lavera remains around WS150. U.K.C. region was also a quiet one, with cross-UKC rates falling to WS150.
 
-Clean:
+# Clean:
 
 MR: In the U.S.G., MR rates reached their peak before falling to WS267. West of Suez saw rates strengthen notably in U.K.C. due to a limited tonnage list while MEG-E.Africa route climbs w-o-w to WS205. M.R. saw a stable week with expectations to continue into next week.
 
 L.R.: LR2 owners faced a disappointing week as rates ended lower than initially proposed by charterers. However, downward pressure is expected due to the freight gap with lower-tier vessels and the increasing local ship supply. M.E.G./Japan TC1 fell to WS107. LR1 rates in the M.E.G. remained stable despite declines in vessels. TC5 fell slightly to WS119.
 
 ## Tankers S&P Report
+
+| VESSEL NAME | TYPE | DWT | YEAR | BUILT | PRICE (MILLION) USD | COMMENTS / BUYERS |
+| --- | --- | --- | --- | --- | --- | --- |
+| AEGEAN MYTH | AFRA | 115,838 | 2006 | S. KOREA | 37.5 | CHINESE BUYERS |
+| CHEMTRANS CAROLINA | MR | 53,160 | 2006 | CHINA | 20.0 | CHINESE BUYERS |
+| OCIOS IOANNIS / VASSO | MR | 47,147 | 2009 | S. KOREA | 25.0 | UNDISCLOSED |
+| OCIOS IOANNIS / VASSO | MR | 46,177 | 2006 | S. KOREA | 19.25 | UNDISCLOSED |
+| SHANDONG WEIHE | MR | 45,898 | 2004 | JAPAN | 14.0 | UNDISCLOSED |
+| LOI HOPE | SMALL | 8,941 | 2008 | S. KOREA | 8.6 | UNDISCLOSED |
+
+Baltic Exchange Tanker Indices
+
+| INDICES | CURRENT | LAST WEEK | LAST YEAR | W-O-W CHANGE | Y-O-Y CHANGE |
+| --- | --- | --- | --- | --- | --- |
+| BDTI | 1,172 | 1,233 | 2,220 | -4.95% | -47.21% |
+| BCTI | 833 | 845 | 1,806 | -1.42% | -53.88% |
 
 ## Page 7
 
@@ -239,34 +255,39 @@ Scrap prices in Turkey are on the rise due to increased costs from U.S. and Euro
 
 ## Page 15
 
-Chattogram, Bangladesh : 12 ~ 15 December | 26 ~ 29 December Alang, India : 11 ~ 19 December | 24 ~ 30 December
+# BEACHING TIDE DATES 2023
 
----
+Chattogram, Bangladesh : 12 ~ 15 December | 26 ~ 29 December
 
-BUNKER PRICES (USD/TON)
+Alang, India
 
-PORTS VLSFO (0.5%) IFO380 CST MGO (0.1%)
+: 11 ~ 19 December | 24 ~ 30 December
 
+#### BUNKER PRICES (USD/TON)
+
+| PORTS | VLSFO (0.5%) | IFO380 CST | MGO (0.1%) |
+| --- | --- | --- | --- |
 | SINGAPORE | 666 | 488 | 804 |
-|---|---|---|---|
 | HONG KONG | 667 | 500 | 780 |
 | FUJAIRAH | 646 | 454 | 921 |
 | ROTTERDAM | 586 | 494 | 816 |
 | HOUSTON | 589 | 491 | 820 |
 
-CURRENCY USD / CNY (CHINA) USD / BDT (BANGLADESH) USD / INR (INDIA) USD / PKR (PAKISTAN) USD / TRY (TURKEY)
+#### EXCHANGE RATES
 
-EXCHANGE RATES
-
-| 1st DECEMBER | 24th November | W-O-W % CHANGE |
-|---|---|---|
-| 7.11 | 7.11 | 0 |
-| 110.28 | 110.20 | -0.07% |
-| 83.33 | 83.32 | -0.01% |
-| 282.16 | 285.50 | +1.17% |
-| 28.91 | 28.86 | -0.17% |
+| CURRENCY | 1st DECEMBER | 24th November | W-O-W % CHANGE |
+| --- | --- | --- | --- |
+| USD / CNY (CHINA) | 7.11 | 7.11 | 0 |
+| USD / BDT (BANGLADESH) | 110.28 | 110.20 | -0.07% |
+| USD / INR (INDIA) | 83.33 | 83.32 | -0.01% |
+| USD / PKR (PAKISTAN) | 282.16 | 285.50 | +1.17% |
+| USD / TRY (TURKEY) | 28.91 | 28.86 | -0.17% |
 
 ## HMS 1/2 & Tangshan Billet
+
+TANGSHAN BILLET EX-WORKS (CNY/T)
+
+HMS 1/2 TURKEY CFR (USD/T)
 
 ## Page 16
 

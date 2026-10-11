@@ -339,7 +339,7 @@ The newbuilding ordering activity continues to witness a steady number of materi
 # Demolition Market
 ## Indicative Demolition Prices ($/ldt)
 
-| Markets | Markets | 25/11/22 | 18/11/22 | ±% | 2020 | 2019 |
+| Markets | 25/11/22 | 18/11/22 | ±% | 2020 | 2019 | 2018 |
 | --- | --- | --- | --- | --- | --- | --- |
 | Tanker |  |  |  |  |  |  |
 | Bangladesh | 525 | 525 | 0.0% | 348 | 410 | 442 |

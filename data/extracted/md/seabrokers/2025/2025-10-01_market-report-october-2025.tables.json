@@ -4,244 +4,8 @@
   "year": 2025,
   "month": 10,
   "source_file": "corpus/05-seabrokers/pdfs/2025-10-01_market-report-october-2025.pdf",
-  "tables_count": 17,
+  "tables_count": 15,
   "tables": [
-    {
-      "title": "Offshore wind capacity installed by 2030",
-      "columns": [
-        "Region",
-        "Percentage"
-      ],
-      "row_count": 11,
-      "rows": [
-        {
-          "Region": "China",
-          "Percentage": "48%"
-        },
-        {
-          "Region": "Europe",
-          "Percentage": "17%"
-        },
-        {
-          "Region": "UK",
-          "Percentage": "8%"
-        },
-        {
-          "Region": "Netherlands",
-          "Percentage": "5%"
-        },
-        {
-          "Region": "Taiwan (China)",
-          "Percentage": "4%"
-        },
-        {
-          "Region": "Mainland China",
-          "Percentage": "3%"
-        },
-        {
-          "Region": "Poland",
-          "Percentage": "3%"
-        },
-        {
-          "Region": "France",
-          "Percentage": "3%"
-        },
-        {
-          "Region": "USA",
-          "Percentage": "3%"
-        },
-        {
-          "Region": "Others",
-          "Percentage": "10%"
-        },
-        {
-          "Region": "Total",
-          "Percentage": "\\~197 GW"
-        }
-      ]
-    },
-    {
-      "title": "Global, annual offshore wind capacity additions",
-      "columns": [
-        "Year",
-        "RoW",
-        "Americas",
-        "Asia (ex. Mainland China)",
-        "Mainland China",
-        "Europe"
-      ],
-      "row_count": 21,
-      "rows": [
-        {
-          "Year": "2015",
-          "RoW": "3",
-          "Americas": "0",
-          "Asia (ex. Mainland China)": "0",
-          "Mainland China": "1",
-          "Europe": "0"
-        },
-        {
-          "Year": "2016",
-          "RoW": "2",
-          "Americas": "0",
-          "Asia (ex. Mainland China)": "0",
-          "Mainland China": "0",
-          "Europe": "0"
-        },
-        {
-          "Year": "2017",
-          "RoW": "2",
-          "Americas": "0",
-          "Asia (ex. Mainland China)": "0",
-          "Mainland China": "1",
-          "Europe": "0"
-        },
-        {
-          "Year": "2018",
-          "RoW": "3",
-          "Americas": "0",
-          "Asia (ex. Mainland China)": "0",
-          "Mainland China": "1",
-          "Europe": "0"
-        },
-        {
-          "Year": "2019",
-          "RoW": "4",
-          "Americas": "0",
-          "Asia (ex. Mainland China)": "0",
-          "Mainland China": "2",
-          "Europe": "0"
-        },
-        {
-          "Year": "2020",
-          "RoW": "4",
-          "Americas": "0",
-          "Asia (ex. Mainland China)": "0",
-          "Mainland China": "3",
-          "Europe": "0"
-        },
-        {
-          "Year": "2021",
-          "RoW": "4",
-          "Americas": "0",
-          "Asia (ex. Mainland China)": "8",
-          "Mainland China": "7",
-          "Europe": "0"
-        },
-        {
-          "Year": "2022",
-          "RoW": "5",
-          "Americas": "0",
-          "Asia (ex. Mainland China)": "4",
-          "Mainland China": "4",
-          "Europe": "0"
-        },
-        {
-          "Year": "2023",
-          "RoW": "5",
-          "Americas": "0",
-          "Asia (ex. Mainland China)": "3",
-          "Mainland China": "4",
-          "Europe": "0"
-        },
-        {
-          "Year": "2024",
-          "RoW": "6",
-          "Americas": "0",
-          "Asia (ex. Mainland China)": "2",
-          "Mainland China": "4",
-          "Europe": "0"
-        },
-        {
-          "Year": "2025",
-          "RoW": "7",
-          "Americas": "0",
-          "Asia (ex. Mainland China)": "3",
-          "Mainland China": "5",
-          "Europe": "1"
-        },
-        {
-          "Year": "2026",
-          "RoW": "8",
-          "Americas": "1",
-          "Asia (ex. Mainland China)": "4",
-          "Mainland China": "6",
-          "Europe": "2"
-        },
-        {
-          "Year": "2027",
-          "RoW": "9",
-          "Americas": "2",
-          "Asia (ex. Mainland China)": "5",
-          "Mainland China": "7",
-          "Europe": "2"
-        },
-        {
-          "Year": "2028",
-          "RoW": "10",
-          "Americas": "2",
-          "Asia (ex. Mainland China)": "6",
-          "Mainland China": "8",
-          "Europe": "3"
-        },
-        {
-          "Year": "2029",
-          "RoW": "11",
-          "Americas": "2",
-          "Asia (ex. Mainland China)": "7",
-          "Mainland China": "9",
-          "Europe": "4"
-        },
-        {
-          "Year": "2030",
-          "RoW": "12",
-          "Americas": "3",
-          "Asia (ex. Mainland China)": "8",
-          "Mainland China": "10",
-          "Europe": "5"
-        },
-        {
-          "Year": "2031",
-          "RoW": "14",
-          "Americas": "3",
-          "Asia (ex. Mainland China)": "9",
-          "Mainland China": "12",
-          "Europe": "6"
-        },
-        {
-          "Year": "2032",
-          "RoW": "16",
-          "Americas": "4",
-          "Asia (ex. Mainland China)": "10",
-          "Mainland China": "14",
-          "Europe": "7"
-        },
-        {
-          "Year": "2033",
-          "RoW": "19",
-          "Americas": "5",
-          "Asia (ex. Mainland China)": "11",
-          "Mainland China": "17",
-          "Europe": "8"
-        },
-        {
-          "Year": "2034",
-          "RoW": "23",
-          "Americas": "7",
-          "Asia (ex. Mainland China)": "12",
-          "Mainland China": "21",
-          "Europe": "9"
-        },
-        {
-          "Year": "2035",
-          "RoW": "26",
-          "Americas": "8",
-          "Asia (ex. Mainland China)": "13",
-          "Mainland China": "25",
-          "Europe": "10"
-        }
-      ]
-    },
     {
       "title": "OCTOBER 2025 - DAILY NORTH SEA OSV AVAILABILITY",
       "columns": [
@@ -263,8 +27,8 @@
         {
           "Date": "2",
           "PSV 2025": "11",
-          "PSV 2024": "12",
-          "AHTS 2025": "17",
+          "PSV 2024": "10",
+          "AHTS 2025": "12",
           "AHTS 2024": "9"
         },
         {
@@ -272,74 +36,74 @@
           "PSV 2025": "10",
           "PSV 2024": "7",
           "AHTS 2025": "17",
-          "AHTS 2024": "8"
+          "AHTS 2024": "9"
         },
         {
           "Date": "4",
           "PSV 2025": "9",
-          "PSV 2024": "8",
-          "AHTS 2025": "16",
-          "AHTS 2024": "9"
+          "PSV 2024": "9",
+          "AHTS 2025": "15",
+          "AHTS 2024": "11"
         },
         {
           "Date": "5",
-          "PSV 2025": "8",
-          "PSV 2024": "9",
+          "PSV 2025": "7",
+          "PSV 2024": "11",
           "AHTS 2025": "14",
-          "AHTS 2024": "10"
+          "AHTS 2024": "13"
         },
         {
           "Date": "6",
           "PSV 2025": "6",
-          "PSV 2024": "10",
-          "AHTS 2025": "13",
-          "AHTS 2024": "11"
+          "PSV 2024": "14",
+          "AHTS 2025": "12",
+          "AHTS 2024": "14"
         },
         {
           "Date": "7",
           "PSV 2025": "6",
           "PSV 2024": "16",
-          "AHTS 2025": "12",
-          "AHTS 2024": "20"
+          "AHTS 2025": "11",
+          "AHTS 2024": "16"
         },
         {
           "Date": "8",
-          "PSV 2025": "7",
-          "PSV 2024": "12",
+          "PSV 2025": "8",
+          "PSV 2024": "14",
           "AHTS 2025": "11",
           "AHTS 2024": "20"
         },
         {
           "Date": "9",
-          "PSV 2025": "8",
+          "PSV 2025": "9",
           "PSV 2024": "12",
           "AHTS 2025": "10",
-          "AHTS 2024": "19"
+          "AHTS 2024": "20"
         },
         {
           "Date": "10",
-          "PSV 2025": "9",
-          "PSV 2024": "12",
+          "PSV 2025": "12",
+          "PSV 2024": "13",
           "AHTS 2025": "9",
           "AHTS 2024": "18"
         },
         {
           "Date": "11",
-          "PSV 2025": "10",
+          "PSV 2025": "12",
+          "PSV 2024": "13",
+          "AHTS 2025": "8",
+          "AHTS 2024": "18"
+        },
+        {
+          "Date": "12",
+          "PSV 2025": "13",
           "PSV 2024": "13",
           "AHTS 2025": "8",
           "AHTS 2024": "17"
         },
         {
-          "Date": "12",
-          "PSV 2025": "11",
-          "PSV 2024": "14",
-          "AHTS 2025": "8",
-          "AHTS 2024": "16"
-        },
-        {
           "Date": "13",
-          "PSV 2025": "12",
+          "PSV 2025": "13",
           "PSV 2024": "14",
           "AHTS 2025": "7",
           "AHTS 2024": "15"
@@ -353,7 +117,7 @@
         },
         {
           "Date": "15",
-          "PSV 2025": "13",
+          "PSV 2025": "14",
           "PSV 2024": "15",
           "AHTS 2025": "9",
           "AHTS 2024": "14"
@@ -361,78 +125,78 @@
         {
           "Date": "16",
           "PSV 2025": "13",
-          "PSV 2024": "14",
+          "PSV 2024": "15",
           "AHTS 2025": "12",
-          "AHTS 2024": "14"
+          "AHTS 2024": "15"
         },
         {
           "Date": "17",
           "PSV 2025": "14",
-          "PSV 2024": "14",
+          "PSV 2024": "15",
           "AHTS 2025": "12",
           "AHTS 2024": "15"
         },
         {
           "Date": "18",
-          "PSV 2025": "15",
+          "PSV 2025": "16",
           "PSV 2024": "13",
           "AHTS 2025": "11",
-          "AHTS 2024": "16"
+          "AHTS 2024": "14"
         },
         {
           "Date": "19",
-          "PSV 2025": "16",
-          "PSV 2024": "14",
+          "PSV 2025": "17",
+          "PSV 2024": "13",
           "AHTS 2025": "10",
-          "AHTS 2024": "16"
+          "AHTS 2024": "15"
         },
         {
           "Date": "20",
-          "PSV 2025": "17",
+          "PSV 2025": "18",
           "PSV 2024": "14",
           "AHTS 2025": "9",
-          "AHTS 2024": "16"
+          "AHTS 2024": "15"
         },
         {
           "Date": "21",
-          "PSV 2025": "18",
-          "PSV 2024": "14",
-          "AHTS 2025": "9",
-          "AHTS 2024": "16"
-        },
-        {
-          "Date": "22",
-          "PSV 2025": "18",
-          "PSV 2024": "15",
-          "AHTS 2025": "10",
-          "AHTS 2024": "16"
-        },
-        {
-          "Date": "23",
-          "PSV 2025": "20",
-          "PSV 2024": "15",
-          "AHTS 2025": "10",
-          "AHTS 2024": "16"
-        },
-        {
-          "Date": "24",
-          "PSV 2025": "21",
-          "PSV 2024": "14",
-          "AHTS 2025": "9",
-          "AHTS 2024": "16"
-        },
-        {
-          "Date": "25",
           "PSV 2025": "19",
           "PSV 2024": "15",
           "AHTS 2025": "9",
           "AHTS 2024": "16"
         },
         {
-          "Date": "26",
-          "PSV 2025": "17",
+          "Date": "22",
+          "PSV 2025": "19",
           "PSV 2024": "15",
+          "AHTS 2025": "9",
+          "AHTS 2024": "17"
+        },
+        {
+          "Date": "23",
+          "PSV 2025": "19",
+          "PSV 2024": "17",
           "AHTS 2025": "10",
+          "AHTS 2024": "15"
+        },
+        {
+          "Date": "24",
+          "PSV 2025": "21",
+          "PSV 2024": "14",
+          "AHTS 2025": "9",
+          "AHTS 2024": "15"
+        },
+        {
+          "Date": "25",
+          "PSV 2025": "19",
+          "PSV 2024": "15",
+          "AHTS 2025": "11",
+          "AHTS 2024": "17"
+        },
+        {
+          "Date": "26",
+          "PSV 2025": "18",
+          "PSV 2024": "15",
+          "AHTS 2025": "12",
           "AHTS 2024": "17"
         },
         {
@@ -445,23 +209,23 @@
         {
           "Date": "28",
           "PSV 2025": "16",
-          "PSV 2024": "14",
-          "AHTS 2025": "9",
-          "AHTS 2024": "16"
+          "PSV 2024": "15",
+          "AHTS 2025": "13",
+          "AHTS 2024": "17"
         },
         {
           "Date": "29",
           "PSV 2025": "16",
-          "PSV 2024": "14",
+          "PSV 2024": "13",
           "AHTS 2025": "9",
-          "AHTS 2024": "11"
+          "AHTS 2024": "10"
         },
         {
           "Date": "30",
-          "PSV 2025": "17",
-          "PSV 2024": "14",
+          "PSV 2025": "16",
+          "PSV 2024": "15",
           "AHTS 2025": "10",
-          "AHTS 2024": "10"
+          "AHTS 2024": "11"
         },
         {
           "Date": "31",
@@ -470,7 +234,8 @@
           "AHTS 2025": "10",
           "AHTS 2024": "9"
         }
-      ]
+      ],
+      "value_source": "vector_chart_read"
     },
     {
       "title": "NORTH SEA AVERAGE RATES OCTOBER 2025",

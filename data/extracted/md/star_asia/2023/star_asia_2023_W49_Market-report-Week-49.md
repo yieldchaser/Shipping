@@ -57,31 +57,28 @@ The subdued atmosphere continues due to weak demand in South America, but improv
 
 ## Page 3
 
-VESSEL NAME HERUN CHINA KAI OLDENDORFF AQUAVITA SOL / AQUAVITA SEA CYMONA GALAXY ZHE HAI 169 ATLANTIC ALTAMIRA VULLY HANDY
+Dry Bulk – S&P Report
 
-Bulker 12 months T/C rates average
+| VESSEL NAME | TYPE | DWT | YEAR | BUILT | PRICE (MILLION) USD | COMMENTS / BUYERS |
+| --- | --- | --- | --- | --- | --- | --- |
+| HERUN CHINA | CAPE | 181,056 | 2017 | CHINA | 42.0 | EUROPEAN BUYERS |
+| KAI OLDENDORFF | KMAX | 81,600 | 2019 | CHINA | 30.5 | FAR EASTERN BUYERS |
+| AQUAVITA SOL / AQUAVITA SEA | KMAX | 81,541 | 2020 | CHINA | 30.5 EACH | CHINESE BUYERS |
+| CYMONA GALAXY | KMAX | 81,383 | 2009 | JAPAN | 15.0 | GREEK BUYERS |
+| ZHE HAI 169 | SMAX | 57,000 | 2011 | CHINA | 11.7 | UNDISCLOSED |
+| ATLANTIC ALTAMIRA | HMAX | 43,368 | 2017 | CHINA | 23.0 | S. KOREAN BUYERS |
+| VULLY | HANDY | 35,697 | 2011 | S. KOREA | 13.0 | FAR EASTERN BUYERS |
 
-TYPE DWT CAPESIZE 180,000 PANAMAX 75,000 SUPRAMAX 58,000 HANDYSIZE 38,000
+Bulker 12 months T/C rates average (in USD/day)
 
-## Dry Bulk - S&P Report
+| TYPE | DWT | CURRENT | LAST WEEK | LAST YEAR | W-O-W CHANGE | Y-O-Y CHANGE |
+| --- | --- | --- | --- | --- | --- | --- |
+| CAPESIZE | 180,000 | 18,500 | 19,250 | 14,500 | -3.90% | +27.59% |
+| PANAMAX | 75,000 | 14,000 | 14,750 | 14,750 | -5.08% | -5.08% |
+| SUPRAMAX | 58,000 | 13,500 | 13,750 | 13,000 | -1.82% | +3.85% |
+| HANDYSIZE | 38,000 | 13,250 | 12,000 | 10,500 | +10.42% | +26.19% |
 
-| TYPE | DWT | YEAR | BUILT | PRICE (MILLION) USD | COMMENTS / BUYERS |
-|---|---|---|---|---|---|
-| CAPE | 181,056 | 2017 | CHINA | 42.0 | EUROPEAN BUYERS |
-| KMAX | 81,600 | 2019 | CHINA | 30.5 | FAR EASTERN BUYERS |
-| KMAX | 81,541 | 2020 | CHINA | 30.5 EACH | CHINESE BUYERS |
-| KMAX | 81,383 | 2009 | JAPAN | 15.0 | GREEK BUYERS |
-| SMAX | 57,000 | 2011 | CHINA | 11.7 | UNDISCLOSED |
-| HMAX | 43,368 35,697 | 2017 2011 | CHINA S. KOREA | 23.0 13.0 | S. KOREAN BUYERS FAR EASTERN BUYERS |
-
-(in USD/day)
-
-| CURRENT | LAST WEEK | LAST YEAR | W-O-W CHANGE | Y-O-Y CHANGE |
-|---|---|---|---|---|
-| 18,500 | 19,250 | 14,500 | -3.90% | +27.59% |
-| 14,000 | 14,750 | 14,750 | -5.08% | -5.08% |
-| 13,500 | 13,750 | 13,000 | -1.82% | +3.85% |
-| 13,250 | 12,000 | 10,500 | +10.42% | +26.19% |
+Dry Bulk 1 year T/C rates
 
 ## Page 4
 
@@ -137,23 +134,28 @@ Y-O-Y CHANGE
 
 ## Tankers Values
 
-*(Weekly)*
+(Weekly)
 
-NB PROMPT 5 YEARS 10 YEARS 15 YEARS DELIVERY
+| TYPE | DWT | NB CONTRACT | NB PROMPT DELIVERY | 5 YEARS | 10 YEARS | 15 YEARS |
+| --- | --- | --- | --- | --- | --- | --- |
+| VLCC | 310,000 | 128 | 130 | 105 | 75 | 48 |
+| SUEZMAX | 160,000 | 85 | 95 | 78 | 61 | 34 |
+| AFRAMAX | 115,000 | 70 | 83 | 70 | 57 | 28 |
+| PANAMAX-LR1 | 73,000 | 57 | 63 | 51 | 41 | 23 |
+| MR TANKER | 51,000 | 47 | 53 | 43 | 34 | 20 |
+| *(amount in USD million) | *(amount in USD million) | *(amount in USD million) | *(amount in USD million) | *(amount in USD million) | *(amount in USD million) | *(amount in USD million) |
 
-| 128 | 130 | 105 | 75 | 48 |
-|---|---|---|---|---|
-| 85 | 95 | 78 | 61 | 34 |
-| 70 | 83 | 70 | 57 | 28 |
-| 57 | 63 | 51 | 41 | 23 |
-| 47 | 53 | 43 | 34 | 20 |
-| LAST WEEK | LAST YEAR | W-O-W CHANGE | Y-O-Y CHANGE |
-|---|---|---|---|
-| 45,250 | 42,000 | 0 | +7.74% |
-| 43,250 | 45,000 | 0 | -3.89% |
-| 42,000 | 43,500 | 0 | -3.45% |
-| 31,750 | 42,500 | 0 | -25.29% |
-| 26,000 | 30,250 | 0 | -14.05% |
+Tanker 12 months T/C rates average (in USD/day)
+
+| TYPE | DWT | CURRENT | LAST WEEK | LAST YEAR | W-O-W CHANGE | Y-O-Y CHANGE |
+| --- | --- | --- | --- | --- | --- | --- |
+| VLCC | 310,000 | 45,250 | 45,250 | 42,000 | 0 | +7.74% |
+| SUEZMAX | 150,000 | 43,250 | 43,250 | 45,000 | 0 | -3.89% |
+| AFRAMAX | 110,000 | 42,000 | 42,000 | 43,500 | 0 | -3.45% |
+| LR1 | 74,000 | 31,750 | 31,750 | 42,500 | 0 | -25.29% |
+| MR | 47,000 | 26,000 | 26,000 | 30,250 | 0 | -14.05% |
+
+Tanker 1 year T/C rates
 
 ## Page 7
 
@@ -210,13 +212,20 @@ Containers Values
 
 ## Ships Sold for Recycling
 
+| VESSEL NAME | LDT / MT | YEAR / BUILT | TYPE | PRICE (US$/LDT) | COMMENTS |
+| --- | --- | --- | --- | --- | --- |
+| SSL DELHI | 10,669 | 2000 / GERMANY | CONTAINER | 530 | AS IS UAE PORTS FOR RE-DELIVERY ALANG/SOLD WITH BUNKERS ENOUGH TO REACH ALANG |
+| ZE HONG | 11,618 | 1995 / GERMANY | CONTAINER | 520 | AS IS ZHOUSHAN, CHINA |
+
 ## Recycling Ships Price Trend
 
-| TYPE | PRICE (US$/LDT) | COMMENTS |
-|---|---|---|
-| CONTAINER | 530 | AS IS UAE PORTS FOR RE-DELIVERY ALANG/SOLD WITH BUNKERS |
+INDIA SHIP RECYCLING PRICES
 
-ENOUGH TO REACH ALANG CONTAINER 520 AS IS ZHOUSHAN, CHINA
+BANGLADESH SHIP RECYCLING PRICES
+
+PAKISTAN SHIP RECYCLING PRICES
+
+TURKEY SHIP RECYCLING PRICES
 
 ## Page 10
 
@@ -257,19 +266,29 @@ outcome, the current scenario depicts a measured level of activity. The election
 
 ## Page 14
 
-Aliaga, Turkey
+# Aliaga, Turkey
 
-Turkish imported ferrous scrap prices continue to rise this week, driven by bullish sentiment and strong demand for January shipments. A key factor influencing the market is the unexpected surge in US domestic scrap prices, indicating a fundamental shift. Freight costs and persistent supply concerns are also pivotal in shaping market trends. The rebar market demonstrates robust strength, with prices rising rapidly. Ship recycling rates saw a slight increase by US$10/ton across all segments. However, there was no new sale reported this week, but New Year anticipates seeing a shift, especially with the first rounds of the EEXI ratings coming into place at the start of 2024.
+Turkish imported ferrous scrap prices continue to rise this week, driven by bullish sentiment and strong demand for January shipments. A key factor influencing the market is the unexpected surge in US domestic scrap prices, indicating a fundamental shift. Freight costs and persistent supply concerns are also pivotal in shaping market trends. The rebar market demonstrates robust strength, with prices rising rapidly.
 
----
+Ship recycling rates saw a slight increase by US$10/ton across all segments. However, there was no new sale reported this week, but New Year anticipates seeing a shift, especially with the first rounds of the EEXI ratings coming into place at the start of 2024.
 
-Chattogram, Bangladesh : 12 ~ 15 December | 26 ~ 29 December Alang, India : 11 ~ 19 December | 24 ~ 30 December
+# BEACHING TIDE DATES 2023
 
----
+Chattogram, Bangladesh : 12 ~ 15 December | 26 ~ 29 December
+
+Alang, India
+
+: 11 ~ 19 December | 24 ~ 30 December
 
 ## Global ferrous scrap insight
 
-Global ferrous scrap prices witnessed a noteworthy surge, ranging from 1-8% over the week, primarily propelled by assertive procurement by Turkish mills ahead of the winter holidays. Turkish mills strategically secured 15-18 bulk cargoes, contributing significantly to the upward trajectory. Simultaneously, Pakistani buyers exhibited proactive engagement in booking imported scrap, anticipating further price escalations from suppliers. Contrastingly, in India, buyers exercised caution, abstaining from importing scrap. Their decision was influenced by the availability of cost-effective domestic materials, coupled with a substantial price gap. A similar trend unfolded in Bangladesh, where a limited number of buyers participated, due to the fact in delays in opening LCs and prevailing uncertainty linked to impending elections.
+Global ferrous scrap prices witnessed a noteworthy surge, ranging from 1-8% over the week, primarily propelled by assertive procurement by Turkish mills ahead of the winter holidays. Turkish mills strategically secured 15-18 bulk cargoes, contributing significantly to the upward trajectory.
+
+Simultaneously, Pakistani buyers exhibited proactive engagement in booking imported scrap, anticipating further price escalations from suppliers.
+
+Contrastingly, in India, buyers exercised caution, abstaining from importing scrap. Their decision was influenced by the availability of cost-effective domestic materials, coupled with a substantial price gap.
+
+A similar trend unfolded in Bangladesh, where a limited number of buyers participated, due to the fact in delays in opening LCs and prevailing uncertainty linked to impending elections.
 
 ## Page 15
 

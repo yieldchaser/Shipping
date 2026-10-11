@@ -249,36 +249,39 @@ This week Turkiye displayed a modestly firmer tone of the second quarter, as the
 
 ## Page 16
 
-continuing to face limited policy flexibility after significant reserve depletion in March and a pause in its rate-cutting cycle amid persistent inflation concerns. In the ship recycling sector, Aliaga prices edged marginally higher to around US$268- 288/LDT but remain structurally uncompetitive against the subcontinent, particularly Pakistan. As a result, Turkey's activity continues to be largely limited to EU-compliant recycling demand, with no meaningful shift in broader market positioning observed during the week.
+continuing to face limited policy flexibility after significant reserve depletion in March and a pause in its rate-cutting cycle amid persistent inflation concerns.
 
----
+In the ship recycling sector, Aliaga prices edged marginally higher to around US\$268-288/LDT but remain structurally uncompetitive against the subcontinent, particularly Pakistan. As a result, Turkey's activity continues to be largely limited to EU-compliant recycling demand, with no meaningful shift in broader market positioning observed during the week.
 
-Chattogram, Bangladesh : 17 ~ 20 April | Alang, India : 16 ~ 23 April |
+# BEACHING TIDE DATES 2026
 
----
+Chattogram, Bangladesh : 17 ~ 20 April |
 
-BUNKER PRICES (USD/ton)
+Alang, India
 
-PORTS VLSFO (0.5%) HSFO (3.5%) MGO (0.1%)
+: 16 ~ 23 April |
 
+#### BUNKER PRICES (USD/ton)
+
+| PORTS | VLSFO (0.5%) | HSFO (3.5%) | MGO (0.1%) |
+| --- | --- | --- | --- |
 | SINGAPORE | 871 | 706 | 1837 |
-|---|---|---|---|
 | HONG KONG | 901 | 764 | 1620 |
 | FUJAIRAH | 816 | 714 | 1685 |
 | ROTTERDAM | 718 | 670 | 1341 |
 | HOUSTON | 849 | 700 | 1334 |
 
-EXCHANGE RATES
+#### EXCHANGE RATES
 
 | CURRENCY | April 10 | April 2 | W-O-W % CHANGE |
-|---|---|---|---|
+| --- | --- | --- | --- |
 | USD / CNY (CHINA) | 6.82 | 6.88 | +0.87% |
 | USD / BDT (BANGLADESH) | 122.81 | 122.71 | -0.08% |
 | USD / INR (INDIA) | 93.05 | 92.97 | -0.09% |
 | USD / PKR (PAKISTAN) | 279.02 | 279.12 | +0.04% |
 | USD / TRY (TURKEY) | 44.65 | 44.47 | -0.40% |
 
-Sub-Continent and Turkey ferrous scrap markets insights
+# Sub-Continent and Turkey ferrous scrap markets insights
 
 Indian Sub-Continent and Turkish ferrous scrap markets signalled mixed reactions in the week ended 11 April. Strength persisted in Turkiye, Pakistan, and Bangladesh, while India remained under pressure. Ceasefire developments tempered bullish momentum, limiting further price gains, and the UAE market stayed subdued amid weak demand and ongoing logistics constraints.
 

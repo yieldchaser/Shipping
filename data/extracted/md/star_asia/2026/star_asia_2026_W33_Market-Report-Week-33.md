@@ -194,28 +194,65 @@ Container market returned to an upward trajectory this week as the SCFI index ro
 
 ## Page 10
 
-### Ship Recycling - Current Market Snapshot (USD / LDT)
+# SHIP RECYCLING
+
+Current Market Snapshot (USD / LDT)
 
 | DESTINATION | TANKERS | BULKERS | GENERAL CARGO | CONTAINERS | OUTLOOK / SENTIMENTS |
-| :--- | :---: | :---: | :---: | :---: | :---: |
-| ALANG, INDIA | $440-450 | $430-440 | $420-430 | $470-480 | STABLE / |
-| CHATTOGRAM, BANGLADESH | $490-500 | $460-470 | $450-460 | $500-510 | BULLISH / |
-| GADDANI, PAKISTAN | $520-530 | $510-520 | $490-500 | $540-550 | BULLISH / |
-| ALIAGA, TURKEY | $300-310 | $290-300 | $270-280 | $310-320 | STABLE / |
+| --- | --- | --- | --- | --- | --- |
+| ALANG, INDIA | $440–450 | $430–440 | $420–430 | $470–480 | STABLE / ←→ |
+| CHATTOGRAM, BANGLADESH | $490–500 | $460–470 | $450–460 | $500–510 | BULLISH / ↑ |
+| GADDANI, PAKISTAN | $520–530 | $510–520 | $490–500 | $540–550 | BULLISH / ↑ |
+| ALIAGA, TURKEY* | $300–310 | $290–300 | $270–280 | $310–320 | STABLE / ←→ |
 
-### Demolition - Reported Sales
+* Turkey prices for non-EU ships. EU vessels approx. US$20–30/ton less.
 
-| DELIVERY / TERMS |
-| --- |
-| No reported sales this week |
+All prices are USD per light displacement tonnage (long ton), net prices offered by recycling yards. Premiums apply based on spares quality, non-ferrous content, bunkers, cargo history, and maintenance. Basis simple Japanese/Korean-built tonnages.
+
+• All prices are USD per light displacement tonnage in the long ton.
+
+• The prices reported are net prices offered by the recycling yards.
+
+• Prices quoted are basis simple Japanese / Korean-built tonnages trading units. Premiums are paid on top of the above-quoted prices based on quality & quality of Spares, Non-Fe., bunkers, cargo history, and maintenance.
+
+5-Year Historical Average Prices (Week 33)
+
+| DESTINATION | 2021 | 2022 | 2023 | 2024 | 2025 |
+| --- | --- | --- | --- | --- | --- |
+| ALANG, INDIA | 550 | 550 | 500 | 500 | 440 |
+| CHATTOGRAM, BANGLADESH | 580 | 620 | 510 | 510 | 410 |
+| GADDANI, PAKISTAN | 595 | 590 | 520 | 500 | 440 |
+| ALIAGA, TURKEY | 300 | 300 | 310 | 340 | 290 |
+
+Reported Sales
+
+| VESSEL NAME | TYPE | LDT | YEAR / BUILT | PRICE (US/LDT) | COMMENTS |
+| --- | --- | --- | --- | --- | --- |
+| GREEN STARS | TANKER | 8,274 | 2001 / S. KOREA | 500 | AS IS BELAWAN, INDONESIA FOR REDELIVERY GADDANI, PAKISTAN |
+| MARIA | BULKER | 6,182 | 1997 / S.KOREA | 532 | DELIVERED GADDANI |
 
 ## Page 11
 
 ## Page 12
 
-**Chattogram, Bangladesh: Chattogram saw overall sentiment moderate slightly, cooling from the heated**
+# Market Insights
 
-buying climate witnessed a fortnight earlier. Domestic steel scrap prices softened modestly over the course of the week, yet buyers have managed to hold their price indications steady for the time being. While actual transactional activity remains somewhat limited across the waterfront, underlying appetite remains fundamentally strong, with buyers demonstrating renewed inquiries and an eagerness to secure workable tonnage. Ship recyclers are watching the domestic trade closely, as the mild easing in local steel margins may begin to exert downward pressure on forward offers if downstream demand does not pick up over the coming week. Official data released this week showed that Bangladesh's gross foreign exchange reserves climbed past US$37.1 billion-reaching US$32.3 billion under the IMF's BPM6 standard-marking an important multi-year recovery that provides comfortable import coverage. Alongside this strengthening foreign currency cushion, national annual inflation cooled significantly to an eight-month low of 8.32% in July, down from 9.16% in June, driven by easing food and transport costs.
+Alang, India: Alang maintained a steady course, though local yards continue to find themselves at a visible competitive disadvantage against regional rivals. A downward slide in domestic steel prices over the past week has restricted what local operators can offer. Both Pakistan and Bangladesh are offering higher prices for normal commercial tonnage. As a result, standard dry bulk and container remain difficult for Indian cash buyers to secure. Nevertheless, Alang continues to carve out a resilient niche by capturing specialised and sanctioned assets; recent market sales of a passenger vessel and a refrigerated cargo ship concluded at strong levels, showing healthy domestic appetite for high value non-ferrous material, continues to keep local cutting activity ticking over.
+
+Meanwhile, newly released government data confirmed that national consumer price inflation landed at a manageable 4.45% in July, sitting comfortably within the central bank's target band and cooling fears of immediate interest rate hikes. With the Reserve Bank of India keeping the benchmark repo rate steady at 5.25% and projecting robust annual economic growth of 6.7%, domestic borrowing costs and industrial expansion remain on predictable footing.
+
+Alang Anchorage & Beaching Position — August 2026
+
+| VESSEL | TYPE | LDT | ARRIVAL | BEACHING |
+| --- | --- | --- | --- | --- |
+| CUTTA | TANKER | 11,552 | 09.08.2026 | 12.08.2206 |
+| FT ISLAND | VLCC | 43,402 | 31.07.2027 | 04.08.2026 |
+
+Chattogram, Bangladesh: Chattogram saw overall sentiment moderate slightly, cooling from the heated buying climate witnessed a fortnight earlier. Domestic steel scrap prices softened modestly over the course of the week, yet buyers have managed to hold their price indications steady for the time being. While actual transactional activity remains somewhat limited across the waterfront, underlying appetite remains fundamentally strong, with buyers demonstrating renewed inquiries and an eagerness to secure workable tonnage.
+
+Ship recyclers are watching the domestic trade closely, as the mild easing in local steel margins may begin to exert downward pressure on forward offers if downstream demand does not pick up over the coming week.
+
+Official data released this week showed that Bangladesh's gross foreign exchange reserves climbed past US$37.1 billion—reaching US$32.3 billion under the IMF's BPM6 standard—marking an important multi-year recovery that provides comfortable import coverage. Alongside this strengthening foreign currency cushion, national annual inflation cooled significantly to an eight-month low of 8.32% in July, down from 9.16% in June, driven by easing food and transport costs.
 
 ## Page 13
 
@@ -301,12 +338,29 @@ labour union negotiations at BHP's Western Australia operations stalled, leading
 
 ## Page 16
 
+Exchange Rates
+
+| CURRENCY PAIR | AUGUST 14 | AUGUST 7 | WoW % |
+| --- | --- | --- | --- |
+| USD / CNY (China) | 6.74 | 6.75 | +0.15% |
+| USD / BDT (Bangladesh) | 122.74 | 123.77 | +0.83% |
+| USD / INR (India) | 95.46 | 95.23 | -0.24% |
+| USD / PKR (Pakistan) | 277.62 | 277.56 | -0.02% |
+| USD / TRY (Turkey) | 47.87 | 47.6 | -0.57% |
+
 ### Bunker Prices (USD / ton)
 
 | PORT | VLSFO (0.5%) | HSFO (3.5%) | MGO (0.1%) |
-| :--- | :---: | :---: | :---: |
+| --- | --- | --- | --- |
 | SINGAPORE | $807 | $573 | $1118 |
 | HONG KONG | $827 | $636 | $1113 |
 | FUJAIRAH | $774 | $584 | $1280 |
 | ROTTERDAM | $639 | $495 | $1155 |
 | HOUSTON | $682 | $450 | $1153 |
+
+Singapore | London | Dubai
+
+For Privacy Policy
+
+This report is performed to the best of our knowledge based on the market conditions prevailing at the time mentioned. The report relates solely to the date/place referred to, and we emphasise that it is a statement of information collected from various market sources. All details above are from information given to us and such information as we have obtained from relevant references in our possession. Still, we can accept no responsibility, and we bear no liability for any loss or damage incurred to any person acting upon this report. STAR ASIA believes the information to be accurate and given in good faith but without guarantee. STAR ASIA will not be held responsible in any way for any action or failure to act based on the information given in this report. The use of the report cannot be reproduced or used without authorisation from STAR ASIA.
+

@@ -91,21 +91,36 @@ The West African market slipped slightly as demand in the USG improved. 130,000m
 
 ## Page 6
 
-Aframax:
+# Aframax:
 
 MEG closed with a slight downward trend due to an increasing number of ballasting vessels returning to the region. In the North Sea, rates remain subdued with 80,000mt Cross-UKC remained at WS107.
 
-Clean:
+# Clean:
 
-**LR: MEG showed signs of recovery, with rates closing at WS103 for LR2. This recovery was**
+LR: MEG showed signs of recovery, with rates closing at WS103 for LR2. This recovery was driven by an influx of new cargoes. LR1 also saw improvements with TC5 gaining 8 points to WS129
 
-driven by an influx of new cargoes. LR1 also saw improvements with TC5 gaining 8 points to WS129
-
-**MR: The Far Eastern market concluded on a strong note, supported by the supply**
-
-disruptions and sustained demand growth. In the MEG, TC17 to East Africa held at WS190 all week.
+MR: The Far Eastern market concluded on a strong note, supported by the supply disruptions and sustained demand growth. In the MEG, TC17 to East Africa held at WS190 all week.
 
 ## Baltic Exchange Tanker Indices
+
+| INDICES | CURRENT | LAST WEEK | LAST YEAR | W-O-W CHANGE | Y-O-Y CHANGE |
+| --- | --- | --- | --- | --- | --- |
+| BDTI | 910 | 903 | 1,341 | +0.78% | -32.14% |
+| BCTI | 666 | 700 | 1,129 | -4.86% | -41.01% |
+
+# Tankers Values
+
+(Weekly)
+
+| TYPE | DWT | NB CONTRACT | NB PROMPT DELIVERY | 5 YEARS | 10 YEARS | 15 YEARS |
+| --- | --- | --- | --- | --- | --- | --- |
+| VLCC | 310,000 | 98 | 109 | 82 | 62 | 35 |
+| SUEZMAX | 160,000 | 64 | 72 | 55 | 40 | 26 |
+| AFRAMAX | 115,000 | 51 | 58 | 43 | 33 | 19 |
+| LRI | 73,000 | 45 | 47 | 37 | 26 | 17 |
+| MR | 51,000 | 37 | 39 | 31 | 23 | 15 |
+
+*(amount in USD million)
 
 ## Page 7
 
@@ -241,32 +256,33 @@ Turkey's market remains stagnant, with shipbreaking scrap prices holding steady 
 
 ## Page 16
 
-Chattogram, Bangladesh : 14 ~ 17 February | 28 February ~ 03 March Alang, India : 26 February ~ 05 March | 13 March ~ 18 March
+# BEACHING TIDE DATES 2025
 
----
+Chattogram, Bangladesh : 14 ~ 17 February | 28 February ~ 03 March
 
-BUNKER PRICES (USD/ton)
+Alang, India : 26 February ~ 05 March | 13 March ~ 18 March
 
-PORTS VLSFO (0.5%) HSFO (3.5%) MGO (0.1%)
+#### BUNKER PRICES (USD/ton)
 
+| PORTS | VLSFO (0.5%) | HSFO (3.5%) | MGO (0.1%) |
+| --- | --- | --- | --- |
 | SINGAPORE | 574 | 503 | 687 |
-|---|---|---|---|
 | HONG KONG | 588 | 517 | 708 |
 | FUJAIRAH | 564 | 484 | 767 |
 | ROTTERDAM | 550 | 460 | 670 |
 | HOUSTON | 567 | 462 | 732 |
 
-EXCHANGE RATES
+#### EXCHANGE RATES
 
 | CURRENCY | February 14 | February 7 | W-O-W % CHANGE |
-|---|---|---|---|
+| --- | --- | --- | --- |
 | USD / CNY (CHINA) | 7.25 | 7.28 | +0.41% |
 | USD / BDT (BANGLADESH) | 121.54 | 121.88 | +0.28% |
 | USD / INR (INDIA) | 86.69 | 87.77 | +1.23% |
 | USD / PKR (PAKISTAN) | 279.34 | 279.03 | -0.11% |
 | USD / TRY (TURKEY) | 36.22 | 35.96 | -0.72% |
 
-Sub-Continent and Turkey ferrous scrap markets insight
+# Sub-Continent and Turkey ferrous scrap markets insight
 
 Sub-continent and Turkish ferrous scrap markets saw moderate gains over the past week, with Turkey, Pakistan, and Bangladesh witnessing slight price increases, while India's import demand remained weak. U.S. scrap offers firmed due to rising domestic costs and deep-sea demand, while Japan's H2 scrap prices softened.
 

@@ -104,15 +104,35 @@ The West African market has shown weak freight rates throughout the week due to 
 
 ## Page 6
 
-Aframax:
+# Aframax:
 
 In the Middle East, buildup of available vessels and the impact of falling Suezmax rates have expanded charterers' options, leading to a weekly decline in rates. In the Med, markets remain steady with 80,000mt Ceyhan/Lavera remaining unchanged at WS151.
 
-Clean:
+# Clean:
 
-LR: On the MEG/Far East route, LR2 started the week with an uptick with increased fixture activities. However, the influx of crude oil tankers limits the extent of the rate increase with TC1 closing at WS173. For the LR1, UKC region remain mostly similar to last as TC16 close in the region of WS130's. MR: The market in the Far East region ended the week on a slightly bearish note. This softening was led by weak export volumes from China and stagnant summer demand. In the MEG, MR rates held steady with TC17 remaining similar to last at WS245 mark.
+LR: On the MEG/Far East route, LR2 started the week with an uptick with increased fixture activities. However, the influx of crude oil tankers limits the extent of the rate increase with TC1 closing at WS173. For the LR1, UKC region remain mostly similar to last as TC16 close in the region of WS130's.
+
+MR: The market in the Far East region ended the week on a slightly bearish note. This softening was led by weak export volumes from China and stagnant summer demand. In the MEG, MR rates held steady with TC17 remaining similar to last at WS245 mark.
 
 # Baltic Exchange Tanker Indices
+
+| INDICES | CURRENT | LAST WEEK | LAST YEAR | W-O-W CHANGE | Y-O-Y CHANGE |
+| --- | --- | --- | --- | --- | --- |
+| BDTI | 1,064 | 1,108 | 929 | -3.97% | +14.53% |
+| BCTI | 849 | 819 | 578 | +3.66% | +46.89% |
+
+# Tankers Values
+
+(Weekly)
+
+| TYPE | DWT | NB CONTRACT | NB PROMPT DELIVERY | 5 YEARS | 10 YEARS | 15 YEARS |
+| --- | --- | --- | --- | --- | --- | --- |
+| VLCC | 310,000 | 130 | 145 | 115 | 85 | 58 |
+| SUEZMAX | 160,000 | 89 | 99 | 83 | 68 | 50 |
+| AFRAMAX | 115,000 | 75 | 86 | 72 | 62 | 44 |
+| LR1 | 73,000 | 62 | 64 | 54 | 44 | 32 |
+| MR | 51,000 | 52 | 54 | 47 | 39 | 28 |
+| *(amount in USD million) | *(amount in USD million) | *(amount in USD million) | *(amount in USD million) | *(amount in USD million) | *(amount in USD million) | *(amount in USD million) |
 
 ## Page 7
 

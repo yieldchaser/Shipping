@@ -93,21 +93,37 @@ Suezmax rates have seen a decline as a surge in Atlantic vessel supply and cooli
 
 ## Page 6
 
-Aframax:
+# Aframax:
 
 The Aframax market is trending flat as high inventory levels in Asia and uncertainty over the Strait of Hormuz lead shippers to be cautious. In the Mediterranean, rates have corrected to the WS290 mark, falling 15 points for Ceyhan/Lavera routes as owners currently struggle to secure early dates amidst an ample supply of tonnage opening in late April. As the market shifts toward early May dates, the primary challenge for owners will be holding their ground against a high pressure index and an influx of vessels returning from Asian regional trades.
 
-Clean:
+# Clean:
 
-LR: LR2 rates in the Middle East closed slightly higher as consistent demand from Oman and the West Indies sustained momentum despite the ongoing closure of the Strait of Hormuz. TC1 MEG/Japan was at highs of WS120. Shippers are aggressively competing to
-
-secure tonnage early to hedge against prolonged geopolitical risks, exerting upward
-
-pressure on freight levels. Similarly, TC5 on the LR1 climbed another 10 points closing at WS656.
+LR: LR2 rates in the Middle East closed slightly higher as consistent demand from Oman and the West Indies sustained momentum despite the ongoing closure of the Strait of Hormuz. TC1 MEG/Japan was at highs of WS120. Shippers are aggressively competing to secure tonnage early to hedge against prolonged geopolitical risks, exerting upward pressure on freight levels. Similarly, TC5 on the LR1 climbed another 10 points closing at WS656.
 
 MR: The Far East MR market closed higher this week as easing Middle East tensions spurred a significant expansion in product transport demand from refineries and traders. On the other side, MEG/E. Africa TC17 climbed few points to WS728. Similarly on the USG, TC14 USG/UKC climbed to WS394.
 
 ## Baltic Exchange Tanker Indices
+
+| INDICES | CURRENT | LAST WEEK | LAST YEAR | W-O-W CHANGE | Y-O-Y CHANGE |
+| --- | --- | --- | --- | --- | --- |
+| BDTI | 2,812 | 2,975 | 1,142 | -5.48% | +146.23% |
+| BCTI | 2,198 | 2,121 | 678 | -3.63% | +224.19% |
+
+# Tankers Values
+
+(Weekly)
+
+| TYPE | DWT | NB CONTRACT | NB PROMPT DELIVERY | 5 YEARS | 10 YEARS | 15 YEARS |
+| --- | --- | --- | --- | --- | --- | --- |
+| VLCC | 310,000 | 130 | 175 | 135 (E) | 109(E) | 60 |
+| SUEZMAX | 160,000 | 88 | 108 | 88 (E) | 76 (E) | 52 |
+| AFRAMAX | 115,000 | 77 | 88 | 73 (E) | 63 (E) | 47 |
+| LR1 | 73,000 | 65 | 70 | 60 (E) | 52 (E) | 30 |
+| MR | 51,000 | 50 | 57 | 46 (E) | 37 (E) | 28 |
+| *(amount in USD million) / (E) – eco units | *(amount in USD million) / (E) – eco units | *(amount in USD million) / (E) – eco units | *(amount in USD million) / (E) – eco units | *(amount in USD million) / (E) – eco units | *(amount in USD million) / (E) – eco units | *(amount in USD million) / (E) – eco units |
+
+*(amount in USD million) | (E) – eco units
 
 ## Page 7
 
@@ -238,25 +254,26 @@ Turkiye maintained a steady and consistent pace, with little movement in overall
 
 ## Page 16
 
-Chattogram, Bangladesh : 29 April ~ 3 May | 16 ~ 19 May Alang, India : 30 April ~ 3 May | 14 ~ 22 May
+# BEACHING TIDE DATES 2026
 
----
+Chattogram, Bangladesh : 29 April ~ 3 May | 16 ~ 19 May
 
-BUNKER PRICES (USD/ton)
+Alang, India : 30 April ~ 3 May | 14 ~ 22 May
 
-PORTS VLSFO (0.5%) HSFO (3.5%) MGO (0.1%)
+#### BUNKER PRICES (USD/ton)
 
+| PORTS | VLSFO (0.5%) | HSFO (3.5%) | MGO (0.1%) |
+| --- | --- | --- | --- |
 | SINGAPORE | 734 | 649 | 1299 |
-|---|---|---|---|
 | HONG KONG | 760 | 694 | 1289 |
 | FUJAIRAH | 756 | 623 | 1437 |
 | ROTTERDAM | 690 | 626 | 1205 |
 | HOUSTON | 851 | 643 | 1196 |
 
-EXCHANGE RATES
+#### EXCHANGE RATES
 
 | CURRENCY | April 25 | April 17 | W-O-W % CHANGE |
-|---|---|---|---|
+| --- | --- | --- | --- |
 | USD / CNY (CHINA) | 6.83 | 6.81 | -0.29% |
 | USD / BDT (BANGLADESH) | 122.87 | 122.88 | +0.01% |
 | USD / INR (INDIA) | 94.08 | 92.49 | -1.72% |
@@ -265,7 +282,13 @@ EXCHANGE RATES
 
 Sub-Continent and Turkey ferrous scrap markets insights
 
-India The Indian market for imported containerised shredded scrap remained steady, though the underlying sentiment was markedly weak. This stagnation is largely attributed to a combination of limited buying interest and an unfavorable exchange rate, with the Rupee reaching nearly 95 against the USD. Indian buyers have pivoted toward domestic sourcing, specifically utilising high quality DRI from new capacities in western India to mitigate the rising costs of imported material. Pakistan The imported scrap market in Pakistan remained stable but quiet, mirroring the broader regional trend of cautious procurement. Offers for shredded scrap were heard around US$425/t CFR Qasim, with some lower indications surfacing near US$420/t. While a few deals were reportedly discussed at the US$410/t level, seller clarity remains limited as shippers navigate the ongoing logistical complexities in the Middle East. With thousands
+# India
+
+The Indian market for imported containerised shredded scrap remained steady, though the underlying sentiment was markedly weak. This stagnation is largely attributed to a combination of limited buying interest and an unfavorable exchange rate, with the Rupee reaching nearly 95 against the USD. Indian buyers have pivoted toward domestic sourcing, specifically utilising high quality DRI from new capacities in western India to mitigate the rising costs of imported material.
+
+# Pakistan
+
+The imported scrap market in Pakistan remained stable but quiet, mirroring the broader regional trend of cautious procurement. Offers for shredded scrap were heard around US$425/t CFR Qasim, with some lower indications surfacing near US$420/t. While a few deals were reportedly discussed at the US$410/t level, seller clarity remains limited as shippers navigate the ongoing logistical complexities in the Middle East. With thousands
 
 ## Page 17
 

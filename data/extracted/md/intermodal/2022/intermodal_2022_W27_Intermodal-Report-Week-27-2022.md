@@ -396,7 +396,7 @@ _No period fixtures reported._
 # Demolition Market
 ## Indicative Demolition Prices ($/ldt)
 
-| Markets | Markets | 08/07/2022 | 01/07/2022 | ±% | 2021 | 2020 |
+| Markets | 08/07/2022 | 01/07/2022 | ±% | 2021 | 2020 | 2019 |
 | --- | --- | --- | --- | --- | --- | --- |
 | Tanker |  |  |  |  |  |  |
 | Bangladesh | 580 | 560 | 3.6% | 542 | 348 | 410 |

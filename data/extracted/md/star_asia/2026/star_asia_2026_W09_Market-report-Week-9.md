@@ -93,11 +93,31 @@ The Aframax market also saw a mixed week with rates in the North Sea remaining f
 
 ## Page 6
 
-Clean:
+# Clean:
 
-LR: MEG LR2 saw the week ended on a positive. TC1 ended the week higher than last, gaining some 30 points w-o-w, closing around WS197. Similar was also seen in the LR1 segment, with MEG/Japan trips ending the week higher at WS215. MR: MR in the MEG gain this week, adding 45 points on the TC17, as MEG/E.Africa trips climbed to WS262. In the USG, rates improved this week after last with USG/UKC ending at WS270.
+LR: MEG LR2 saw the week ended on a positive. TC1 ended the week higher than last, gaining some 30 points w-o-w, closing around WS197. Similar was also seen in the LR1 segment, with MEG/Japan trips ending the week higher at WS215.
+
+MR: MR in the MEG gain this week, adding 45 points on the TC17, as MEG/E.Africa trips climbed to WS262. In the USG, rates improved this week after last with USG/UKC ending at WS270.
 
 ## Baltic Exchange Tanker Indices
+
+| INDICES | CURRENT | LAST WEEK | LAST YEAR | W-O-W CHANGE | Y-O-Y CHANGE |
+| --- | --- | --- | --- | --- | --- |
+| BDTI | 1,991 | 1,787 | 885 | +11.42% | +124.97% |
+| BCTI | 906 | 805 | 670 | +12.55% | +35.22% |
+
+# Tankers Values
+
+(Weekly)
+
+| TYPE | DWT | NB CONTRACT | NB PROMPT DELIVERY | 5 YEARS | 10 YEARS | 15 YEARS |
+| --- | --- | --- | --- | --- | --- | --- |
+| VLCC | 310,000 | 128 | 148 | 119 (E) | 87(E) | 53 |
+| SUEZMAX | 160,000 | 86 | 95 | 79 (E) | 63 (E) | 42 |
+| AFRAMAX | 115,000 | 75 | 80 | 66 (E) | 53 (E) | 37 |
+| LRI | 73,000 | 60 | 64 | 53 (E) | 44 (E) | 26 |
+| MR | 51,000 | 49 | 53 | 42 (E) | 33 (E) | 24 |
+| *(amount in USD million) / (E) – eco units | *(amount in USD million) / (E) – eco units | *(amount in USD million) / (E) – eco units | *(amount in USD million) / (E) – eco units | *(amount in USD million) / (E) – eco units | *(amount in USD million) / (E) – eco units | *(amount in USD million) / (E) – eco units |
 
 ## Page 7
 
@@ -257,38 +277,37 @@ Turkiye market remains unchanged this week, with no new activity to report.
 
 Markets remains cautious and buying has been minimal as supply outweighs current demands.
 
----
+# BEACHING TIDE DATES 2026
 
 Chattogram, Bangladesh : 4 ~ 7 March | 19 ~ 22 March
 
 Alang, India : 1 ~ 7 March | 18 ~ 24 March
 
----
+#### BUNKER PRICES (USD/ton)
 
-BUNKER PRICES (USD/ton)
-
-PORTS VLSFO (0.5%) HSFO (3.5%) MGO (0.1%)
-
+| PORTS | VLSFO (0.5%) | HSFO (3.5%) | MGO (0.1%) |
+| --- | --- | --- | --- |
 | SINGAPORE | 495 | 448 | 680 |
-|---|---|---|---|
 | HONG KONG | 509 | 493 | 709 |
 | FUJAIRAH | 489 | 432 | 753 |
 | ROTTERDAM | 461 | 404 | 679 |
 | HOUSTON | 466 | 371 | 660 |
 
-EXCHANGE RATES
+#### EXCHANGE RATES
 
 | CURRENCY | February 27 | February 20 | W-O-W % CHANGE |
-|---|---|---|---|
+| --- | --- | --- | --- |
 | USD / CNY (CHINA) | 6.85 | 6.90 | +0.72% |
 | USD / BDT (BANGLADESH) | 122.15 | 122.22 | +0.06% |
 | USD / INR (INDIA) | 91.06 | 90.97 | -0.10% |
 | USD / PKR (PAKISTAN) | 279.36 | 279.53 | +0.06% |
 | USD / TRY (TURKEY) | 43.93 | 43.84 | -0.21% |
 
-Sub-Continent and Turkey ferrous scrap markets insights
+# Sub-Continent and Turkey ferrous scrap markets insights
 
-India Imported scrap activity in India remained focused on essential, need-based purchasing as the month ended. Transactional highlights included UK-origin incinerator scrap concluded at US$255-US$260/t CFR and shredded scrap sold at US$370/t CFR Chennai, despite sellers maintaining higher quotes in the US$375-US$380/t bracket. While international cues remained firm and the US Dollar showed strength, weak domestic TMT demand forced mills to remain highly price sensitive. This was evident in Chennai, where buyers bypassed firm Australian offers in favor of more competitively priced, readily loaded cargoes from Malaysia, Singapore, Hong Kong, and Thailand. The week saw total
+# India
+
+Imported scrap activity in India remained focused on essential, need-based purchasing as the month ended. Transactional highlights included UK-origin incinerator scrap concluded at US$255–US$260/t CFR and shredded scrap sold at US$370/t CFR Chennai, despite sellers maintaining higher quotes in the US$375–US$380/t bracket. While international cues remained firm and the US Dollar showed strength, weak domestic TMT demand forced mills to remain highly price sensitive. This was evident in Chennai, where buyers bypassed firm Australian offers in favor of more competitively priced, readily loaded cargoes from Malaysia, Singapore, Hong Kong, and Thailand. The week saw total
 
 ## Page 18
 

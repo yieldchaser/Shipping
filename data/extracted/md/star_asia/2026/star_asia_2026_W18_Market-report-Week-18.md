@@ -220,29 +220,40 @@ Local steel plate prices have held firm at PKR 188,000 per ton, and due to the m
 
 ## Page 15
 
-Turkiye remained unchanged from last, with activity in the region limited. In Aliağa, shipbreaking scrap prices have remained stable at US$378/ton, while typical vessel valuations for different categories have held firm, with tankers being quoted around US$270 per LDT.
+Anchorage & Beaching Position (APRIL 2026)
 
----
+| VESSEL NAME | TYPE | LDT | ARRIVAL | BEACHING |
+| --- | --- | --- | --- | --- |
+| - | - | - | - | - |
 
-Chattogram, Bangladesh : 29 April ~ 3 May | 16 ~ 19 May Alang, India : 30 April ~ 3 May | 14 ~ 22 May
+# Aliaga, Turkiye
 
----
+Turkiye remained unchanged from last, with activity in the region limited.
 
-BUNKER PRICES (USD/ton)
+In Aliağa, shipbreaking scrap prices have remained stable at US\$378/ton, while typical vessel valuations for different categories have held firm, with tankers being quoted around US\$270 per LDT.
 
-PORTS VLSFO (0.5%) HSFO (3.5%) MGO (0.1%)
+# BEACHING TIDE DATES 2026
 
+Chattogram, Bangladesh : 29 April ~ 3 May | 16 ~ 19 May
+
+Alang, India
+
+: 30 April ~ 3 May | 14 ~ 22 May
+
+#### BUNKER PRICES (USD/ton)
+
+| PORTS | VLSFO (0.5%) | HSFO (3.5%) | MGO (0.1%) |
+| --- | --- | --- | --- |
 | SINGAPORE | 798 | 712 | 1314 |
-|---|---|---|---|
 | HONG KONG | 826 | 747 | 1366 |
 | FUJAIRAH | 878 | 706 | 1571 |
 | ROTTERDAM | 771 | 680 | 1328 |
 | HOUSTON | 915 | 697 | 1261 |
 
-EXCHANGE RATES
+#### EXCHANGE RATES
 
 | CURRENCY | May 1 | April 25 | W-O-W % CHANGE |
-|---|---|---|---|
+| --- | --- | --- | --- |
 | USD / CNY (CHINA) | 6.83 | 6.83 | 0 |
 | USD / BDT (BANGLADESH) | 122.71 | 122.87 | +0.13% |
 | USD / INR (INDIA) | 94.83 | 94.08 | -0.80% |

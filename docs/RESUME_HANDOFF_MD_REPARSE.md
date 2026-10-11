@@ -17,6 +17,52 @@ and well-formatted for the DeepSeek GraphRAG build, plus end-to-end ingest autom
 3. **`scripts/parse_engine_html/`** — VesselsValue HTML deals + VV Mini Matrix image OCR (in progress). Output to `.reparse_staging/vessel_valuations/`.
 4. **SHELVED — see HARD RULE.** `scripts/md_cleanup/chart_tables.py` — removes LLM-guessed chart tables (values not printed in source text layer), replaces with `> Figure: … not transcribed` note. Guarded mode default; ISM (vector-engine charts) and any "Vector" section excluded. Dry-run results in `.reparse_staging/chart_cleanup/guard_published/` (8,890 tables). Was about to APPLY in place — check `git diff --stat data/extracted/md` before committing.
 
+## STATUS 2026-10-11 (after midnight) — STAR ASIA PAGES, SEABROKERS CHARTS, INTERMODAL DEMOLITION HEADERS
+
+- **Intermodal demolition** (`intermodal_demolition_header_fix.py`): 29 "Indicative Demolition Prices" tables
+  (2021-2023) had the header "Markets | Markets | date | date | ±% | y1 | y2" over rows with three yearly averages,
+  so every value sat one column left of its label. The header is now "Markets | date | date | ±% | y1 | y2 | y2-1"
+  (the PDF prints the three years). Header lines only.
+- **Seabrokers availability** (`seabrokers_availability_vector.py`): the "DAILY NORTH SEA OSV AVAILABILITY" chart
+  prints no numbers, and all 96 MD tables were eyeball reads (half steps, e.g. day 8 PSV 2019 = 20 where the chart
+  line is at 13; 2023-09 was a run of decimal arrays). The chart lines are vector paths with one node per day and the
+  axis labels are in the text layer, so each value is computed from geometry (every value lands on an integer,
+  as vessel counts should). Labelled "Read from the chart"; the sidecar `.tables.json` gets the same rows plus
+  `value_source: vector_chart_read`. CI: `offshore_seabrokers_monthly.yml` runs it for new issues.
+- **Seabrokers fabricated images**: 16 `<img>` / `![...]` links to `i.imgur.com/placeholder*.jpg` invented by the
+  original LLM pass were removed (photo captions printed in the PDF are kept); 2018-09 had two of them wrapped in a
+  pseudo-table, unwrapped to plain paragraphs (text unchanged).
+- **Seabrokers figure tables** (`seabrokers_figure_note.py`): the owner's Antigravity pass (run_seabrokers_llamaparse.py,
+  commits 6b62a1787c / ffe86a23d5, 10-01) normalized layout but kept LlamaParse's chart "reads". `--scan` lists tables
+  whose numbers are not in the text layer (a lead only: OCR misses small labels, small integers match by chance); all
+  26 leads were checked against page renders. 20 tables became a "Chart not transcribed" note (figure prints no
+  values: Offshore Directorate, Westwood, IEA, Wood Mackenzie, Rystad bars, Brent line, SeaPortal mini-charts, an
+  advert dashboard, and the 2025-10 donut whose printed % the parser assigned to the wrong regions). 2 cells fixed to
+  the printed label (2024-08 SURF US 16% -> 15%; 2026-08 SeaLog Orion transit 22.89 -> 22.86, bar height agrees).
+  8 kept (values printed and matching). Sidecars drop the noted tables. Not in CI: each verdict needs eyes on the page.
+- **Seabrokers mirror**: run_seabrokers_llamaparse.py writes every MD twice (data/extracted/md/seabrokers and
+  corpus/05-seabrokers). 94/99 were identical at HEAD; the 3 differing 2026 mirrors held an older "Anydoc OCR"
+  extraction and were replaced by the data copy. Both Seabrokers scripts now write the mirror too when it was identical.
+  Removed: `2026-07-01_market-report-july-2026.md` (98% duplicate of markedsrapport-juli-2026, no PDF, not in the
+  catalog) and the mirror-only `2023-12-01_market-report-december-2023.md` (the "PDF" is a print of the web page;
+  catalog has pdf_url null). GAP: the December 2023 Seabreeze issue was never downloaded. 97 issues, 0 mismatches.
+- **Disk full 10-12 ~01:50** (65 MB free) crashed runs; freed 15 GB (pip cache purge + removed the merged
+  token-optimization worktree, owner-approved). OCR in star_asia_page_rebuild.py now caps renders at 4000 px
+  (ONNX "bad allocation" on large clips) and retries at half size.
+- **Star Asia** (`star_asia_page_rebuild.py`): see the tool's docstring. LlamaCloud keys all ran out on 10-11
+  (215 pages read); the remaining ~420 pages are read with Nace NDI Parse (`--nace`, mode high, 2 credits/page;
+  keys in ~/.nace/keys.env). Nace read the image tables exactly and, unlike LlamaParse, does not turn charts into tables.
+  APPLIED 10-12: 641 candidate pages in 197 MDs -> 526 rebuilt (189 MDs), 115 left as is by the guards (60 no gain,
+  25 unprinted numbers, 13 unprinted paragraphs, 8 old printed numbers lost, 9 old words lost). 45 parser tables
+  dropped for unprinted numbers. Spot-checked against renders: e.g. 2022 W35 p5 S&P word soup -> 11-row deal table,
+  2025 W23 p6 indices + tanker values tables restored, 2026 W26 p14 Pakistan/Bangladesh/Turkiye scrap paragraphs
+  restored. Running page header "Week NN | date" and bare "STAR ASIA" are dropped as footers. Nace HTML can carry
+  escaped colspan quotes (colspan=\"4\"): handled. NOT in CI yet: needs nace_sdk + rapidocr in the runner and a
+  NACE_API_KEY secret (owner decision).
+- Not defects (checked): ISM "missing" = Nace chart reads vs the vector engine; Advanced = number formatting only
+  ("3.300" printed, "3300.0" in MD); Clarksons Baltic/FX/bunker box = excluded by design; Signal "dark fleet"
+  example.com links are on Signal's own page; SMM 2026-10-07 empty futures table = DCE holiday.
+
 ## STATUS 2026-10-11 (late night) — PARSING NOTES, INTERMODAL TABLE REBUILD
 
 - **Read `corpus/01-brokers/Shipbroking_Source_Parsing_Notes.docx` before judging any "missing" numbers.** It lists the useful

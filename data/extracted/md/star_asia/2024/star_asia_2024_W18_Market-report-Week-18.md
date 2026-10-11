@@ -101,15 +101,42 @@ Despite continuous chartering activity from the early part of the week in the Mi
 
 ## Page 6
 
-Clean:
+# Clean:
 
 LR: The LR1 market also saw a softer week, with a short cargo list as TC15 lost 15 points, closing at WS223 on Friday. LR2, on the other hand, remain unchanged, with MEG/Japan TC1 rates settling at WS205.
 
-MR: MR rates strengthened across the board, driven by an extremely tight supply of tonnage in the near term. MEG saw levels improve to WS360 at closing. While in the
-
-Atlantic, TC2 climbed to WS170.
+MR: MR rates strengthened across the board, driven by an extremely tight supply of tonnage in the near term. MEG saw levels improve to WS360 at closing. While in the Atlantic, TC2 climbed to WS170.
 
 # Baltic Exchange Tanker Indices
+
+| INDICES | CURRENT | LAST WEEK | LAST YEAR | W-O-W CHANGE | Y-O-Y CHANGE |
+| --- | --- | --- | --- | --- | --- |
+| BDTI | 1,122 | 1,100 | 1,077 | +2.00% | +4.18% |
+| BCTI | 931 | 954 | 719 | -2.41% | +29.49% |
+
+Tankers Values
+
+(Weekly Average)
+
+| TYPE | DWT | NB CONTRACT | NB PROMPT DELIVERY | 5 YEARS | 10 YEARS | 15 YEARS |
+| --- | --- | --- | --- | --- | --- | --- |
+| VLCC | 310,000 | 130 | 145 | 115 | 85 | 58 |
+| SUEZMAX | 160,000 | 88 | 99 | 83 | 68 | 50 |
+| AFRAMAX | 115,000 | 75 | 85 | 75 | 60 | 44 |
+| LR1 | 73,000 | 60 | 63 | 53 | 43 | 31 |
+| MR | 51,000 | 50 | 53 | 45 | 38 | 27 |
+
+*(amount in USD million)
+
+Tanker 12 months T/C rates average (in USD/day)
+
+| TYPE | DWT | CURRENT | LAST WEEK | LAST YEAR | W-O-W CHANGE | Y-O-Y CHANGE |
+| --- | --- | --- | --- | --- | --- | --- |
+| VLCC | 310,000 | 46,750 | 46,750 | 40,000 | 0 | +16.88% |
+| SUEZMAX | 150,000 | 42,500 | 42,500 | 39,500 | 0 | +7.59% |
+| AFRAMAX | 110,000 | 42,500 | 42,500 | 41,500 | 0 | +2.41% |
+| LR1 | 74,000 | 37,500 | 37,500 | 35,500 | 0 | +5.63% |
+| MR | 47,000 | 30,250 | 30,250 | 28,000 | 0 | +8.04% |
 
 ## Page 7
 
@@ -181,11 +208,17 @@ Containers Values
 
 # Ships Sold for Recycling
 
-TYPE (USD/LDT LT) BULKER UNDISCLOSED CONTAINER AHTS UNDISCLOSED
-
-PRICE COMMENTS DELIVERED CHATTOGRAM 545 DELIVERED ALANG ~ GADANI DELIVERED ALANG
+| VESSEL NAME | LDT | YEAR / BUILT | TYPE | PRICE(USD/LDT LT) | COMMENTS |
+| --- | --- | --- | --- | --- | --- |
+| XIN LV BAO SHI | 7,782 | 1996 / JAPAN | BULKER | UNDISCLOSED | DELIVERED CHATTOGRAM |
+| PROFESSOR B | 5,121 | 1984 / GERMANY | CONTAINER | 545 | DELIVERED ALANG ~ GADANI |
+| DARK KNIGHT | 2,606 | 1998 / NORWAY | AHTS | UNDISCLOSED | DELIVERED ALANG |
 
 # Recycling Ships Price Trend
+
+[SIGNATURE]
+
+[SIGNATURE]
 
 ## Page 12
 

@@ -105,15 +105,36 @@ Although freight rates for West Africa to Europe routes remain flat this week wi
 
 ## Page 6
 
-Aframax:
+# Aframax:
 
 The Middle East market continues to face headwinds, experiencing a consecutive week of declining rates. The stagnant demand and ongoing weakness in the larger segment are a contribution to this trend. The market dynamics currently strongly favor charterers, who are maintaining their advantageous position. In the Med, Ceyhan/Lavera routes saw a slight uptick with 80,000mt closing at WS153. On the other side, 70,000mt EC Mexico/USG fell hard by 45 points to WS176.
 
-Clean:
+# Clean:
 
-LR: LR2 on the MEG/Far East route continued its upward momentum from last at WS205. However, this was short-lived. With the start of July next week, the expected influx of cargoes did not live up, leading to a decline in rates. In the LR1, TC5 routes remain the same as last at WS230, while ARA/WAFR routes fell to WS142. MR: The Far East/Singapore route experienced a subdued week. Demand softened noticeably, resulting in limited activity in the charter market. In the ARA/WAFR route, TC19 saw a jump by some 25 points to WS202.
+LR: LR2 on the MEG/Far East route continued its upward momentum from last at WS205. However, this was short-lived. With the start of July next week, the expected influx of cargoes did not live up, leading to a decline in rates. In the LRI, TC5 routes remain the same as last at WS230, while ARA/WAFR routes fell to WS142.
+
+MR: The Far East/Singapore route experienced a subdued week. Demand softened noticeably, resulting in limited activity in the charter market. In the ARA/WAFR route, TC19 saw a jump by some 25 points to WS202.
 
 # Baltic Exchange Tanker Indices
+
+| INDICES | CURRENT | LAST WEEK | LAST YEAR | W-O-W CHANGE | Y-O-Y CHANGE |
+| --- | --- | --- | --- | --- | --- |
+| BDTI | 1,150 | 1,205 | 1,008 | -4.56% | +14.09% |
+| BCTI | 834 | 795 | 603 | +4.91% | +38.31% |
+
+# Tankers Values
+
+(Weekly)
+
+| TYPE | DWT | NB CONTRACT | NB PROMPT DELIVERY | 5 YEARS | 10 YEARS | 15 YEARS |
+| --- | --- | --- | --- | --- | --- | --- |
+| VLCC | 310,000 | 130 | 145 | 115 | 85 | 58 |
+| SUEZMAX | 160,000 | 89 | 99 | 83 | 68 | 50 |
+| AFRAMAX | 115,000 | 75 | 85 | 72 | 62 | 44 |
+| LR1 | 73,000 | 62 | 62 | 54 | 44 | 32 |
+| MR | 51,000 | 52 | 54 | 47 | 39 | 27 |
+
+*(amount in USD million)
 
 ## Page 7
 
@@ -318,16 +339,21 @@ Wednesday, driven by a surge in buying activity in China's spot market and growi
 
 ## Page 20
 
+decreased by 2.8% in mid-June. This decline is partly attributed to reduced production by electric-arc-furnace-based steelmakers facing widening losses.
+
+Copper found some support in Asian trading after weak Chinese economic data raised hopes for further stimulus measures. China's fiscal revenue shrank at the fastest pace in over a year, with total revenues falling 4.1% year-on-year from January to May, and spending down 2.2% year-on-year, resulting in a CNY2.25 trillion shortfall. The property market significantly contributed to this weakness, as local governments earned CNY227.4 billion from land sales in May, down from CNY238.9 billion in April, marking the lowest level since May 2016. However, copper gave back those gains amid a broader risk-off sentiment in the markets. The red metal has been pressured by weak economic data and a poor global manufacturing outlook, highlighted by dismal flash PMIs in Europe and the US. Rising inventories of metals like aluminum, copper, and nickel further exacerbated the situation, with Eramet and BASF abandoning a USD2.6 billion nickel-cobalt plant project in Indonesia.
+
 ### Iron Ore
 
-| COMMODITY (USD/MT) | GRADE |
-| --- | --- |
-| Iron Ore Fines, CNF Rizhao, China | Fines, Fe 62% (Aust. Origin) 106 -0.93% -5.35% 107 112 Iron Ore Fines, CNF Qingdao, China Fines, Fe 62.5% (Brazil Origin) 108 -0.91% -4.42% 109 113 INDEX UNITS PRICE CHANGE %CHANGE CONTRACT Copper (Comex) USD / lb. 440.35 +5.50 +1.26% Sep 2024 3Mo Copper (L.M.E.) USD / MT 9,515.50 -24.50 -0.26% N/A 3Mo Aluminum (L.M.E.) USD / MT 2,492.50 -19.50 -0.78% N/A 3Mo Zinc (L.M.E.) USD / MT 2,929.50 -11.50 -0.39% N/A 3Mo Tin (L.M.E.) USD / MT 32,208.00 +196.00 +0.61% N/A |
+| COMMODITY | SIZE / GRADE | THIS WEEK USD / MT | W-O-W | Y-O-Y | LAST WEEK USD / MT | LAST YEAR USD / MT |
+| --- | --- | --- | --- | --- | --- | --- |
+| Iron Ore Fines, CNF Rizhao, China | Fines, Fe 62% (Aust. Origin) | 106 | -0.93% | -5.35% | 107 | 112 |
+| Iron Ore Fines, CNF Qingdao, China | Fines, Fe 62.5% (Brazil Origin) | 108 | -0.91% | -4.42% | 109 | 113 |
 
 ### Industrial Metal Rates
 
-| INDEX | UNITS | PRICE | CHANGE | % CHANGE | CONTRACT |
-| :--- | :--- | :---: | :---: | :---: | :---: |
+| INDEX | UNITS | PRICE | CHANGE | %CHANGE | CONTRACT |
+| --- | --- | --- | --- | --- | --- |
 | Copper (Comex) | USD / lb. | 440.35 | +5.50 | +1.26% | Sep 2024 |
 | 3Mo Copper (L.M.E.) | USD / MT | 9,515.50 | -24.50 | -0.26% | N/A |
 | 3Mo Aluminum (L.M.E.) | USD / MT | 2,492.50 | -19.50 | -0.78% | N/A |

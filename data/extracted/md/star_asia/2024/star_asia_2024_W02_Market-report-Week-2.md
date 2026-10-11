@@ -240,16 +240,32 @@ Anchorage & Beaching Position (January 2024)
 ## Page 13
 
 | ZE LENG | REEFER | 7,007 | 09.01.2024 | 12.01.2024 |
-|---|---|---|---|---|
+| --- | --- | --- | --- | --- |
 | MSC UMA | CONTAINER | 10,455 | 11.01.2024 | 13.01.2024 |
 | MSC SOPHIE | CONTAINER | 13,616 | 10.01.2024 | 13.01.2024 |
 | SOL | CONTAINER | 3,870 | 05.01.2024 | 11.01.2023 |
 | ONYX 1 | CONTAINER | 10,643 | 04.01.2024 | 10.01.2024 |
 | WHITE PALM | TUG | 762 | 16.12.2023 | 08.01.2024 |
 
-Chattogram, Bangladesh
+# Chattogram, Bangladesh
 
-In the aftermath of the election, a week of adjustments is underway. Market activity has noticeably slowed down, creating challenges for recyclers who are encountering significant delays in opening LCs. Looking ahead, a notable shift has emerged, with the prevailing practice for most sellers now involving selling their ships at least six weeks in advance. This strategic move allows recyclers the necessary time to secure the required LCs, as it has become the new standard when it comes to selling ships to Chattogram. On the other hand, the economy is showing signs of deceleration, and inflation continues to be a persistent issue in Bangladesh. The country is grappling with a decline in its external reserves, with official reserves as of January 10 standing at US$20.18 billion, which is less than half of their highest point in 2021. This has led to a lingering currency shock. The incoming finance minister, Abul Hassan Mahmood Ali, will be faced with the challenging task of managing these economic pressures as he takes over from AHM Mustafa Kamal, who has led the critical ministry for the past five years.
+In the aftermath of the election, a week of adjustments is underway. Market activity has noticeably slowed down, creating challenges for recyclers who are encountering significant delays in opening LCs.
+
+Looking ahead, a notable shift has emerged, with the prevailing practice for most sellers now involving selling their ships at least six weeks in advance. This strategic move allows recyclers the necessary time to secure the required LCs, as it has become the new standard when it comes to selling ships to Chattogram.
+
+On the other hand, the economy is showing signs of deceleration, and inflation continues to be a persistent issue in Bangladesh. The country is grappling with a decline in its external reserves, with official reserves as of January 10 standing at US$20.18 billion, which is less than half of their highest point in 2021. This has led to a lingering currency shock.
+
+The incoming finance minister, Abul Hassan Mahmood Ali, will be faced with the challenging task of managing these economic pressures as he takes over from AHM Mustafa Kamal, who has led the critical ministry for the past five years.
+
+Anchorage & Beaching Position (January 2024)
+
+| VESSEL NAME | TYPE | LDT | ARRIVAL | BEACHING |
+| --- | --- | --- | --- | --- |
+| YONG FENG | TANKER | 2,055 | 12.01.2024 | AWAITING |
+| DUTA 1 | RORO | 5,913 | 09.01.2024 | AWAITING |
+| GENERAL RUMOLO | CONTAINER | 2,533 | 03.01.2024 | AWAITING |
+| JIN HAI XI | CONTAINER | 5,931 | 02.01.2024 | AWAITING |
+| WEST OCEAN 12 | GEN.CARGO | 1,733 | 23.12.2023 | 11.01.2024 |
 
 ## Page 14
 
@@ -271,29 +287,32 @@ Despite the recent increases in imported scrap values, Turkish mills are maintai
 
 ## Page 15
 
-Suppliers and market players agree that the market has stabilised, with an increase in the number of offers. Ongoing negotiations between mills and suppliers are expected to result in new deal prices, although suppliers are seeking higher values. This week, the price of Turkish shipbreaking scrap was US$375-405/t delivered, dependent on Western mills' requirements. The lira closed at 30.10 per dollar, falling 0.87% from last week.
+Suppliers and market players agree that the market has stabilised, with an increase in the number of offers. Ongoing negotiations between mills and suppliers are expected to result in new deal prices, although suppliers are seeking higher values.
 
----
+This week, the price of Turkish shipbreaking scrap was US\$375-405/t delivered, dependent on Western mills' requirements. The lira closed at 30.10 per dollar, falling 0.87% from last week.
 
-Chattogram, Bangladesh : 13 ~ 16 January | 27 ~ 30 January Alang, India : 09 ~ 17 January | 23 ~ 30 January
+# BEACHING TIDE DATES 2024
 
----
+Chattogram, Bangladesh : 13 ~ 16 January | 27 ~ 30 January
 
-BUNKER PRICES (USD/TON)
+Alang, India
 
-PORTS VLSFO (0.5%) IFO380 CST MGO (0.1%)
+: 09 ~ 17 January | 23 ~ 30 January
 
+#### BUNKER PRICES (USD/TON)
+
+| PORTS | VLSFO (0.5%) | IFO380 CST | MGO (0.1%) |
+| --- | --- | --- | --- |
 | SINGAPORE | 606 | 476 | 759 |
-|---|---|---|---|
 | HONG KONG | 625 | 491 | 733 |
 | FUJAIRAH | 616 | 428 | 892 |
 | ROTTERDAM | 563 | 455 | 750 |
 | HOUSTON | 576 | 499 | 779 |
 
-EXCHANGE RATES
+#### EXCHANGE RATES
 
 | CURRENCY | JANUARY 12 | JANUARY 5 | W-O-W % CHANGE |
-|---|---|---|---|
+| --- | --- | --- | --- |
 | USD / CNY (CHINA) | 7.12 | 7.13 | +0.14% |
 | USD / BDT (BANGLADESH) | 109.68 | 109.70 | +0.02% |
 | USD / INR (INDIA) | 82.85 | 83.13 | +0.34% |
@@ -302,16 +321,25 @@ EXCHANGE RATES
 
 ## Page 16
 
+# Commodities
+
+Competition for copper supplies is set to intensify, impacting Chinese firms responsible for half of the world's refined copper production. These Chinese producers, predominantly state-owned, face pressure to maintain or raise production targets amidst sluggish economic growth. Tighter concentrate supplies, stemming from disruptions like the closure of First Quantum's Cobre mine and Anglo American's production cuts, have forced Chinese smelters to accept a nearly one-third reduction in treatment charges (TCs) recently. This margin squeeze may lead smaller, higher-cost smelters to reduce or halt production, potentially pushing TCs down to the $40s. Despite challenges, China's refined copper output surged by 13% in 2023.
+
+Chinese rebar and hot rolled coil futures extended their decline on Wednesday, marking the fifth consecutive day of losses. The descent accelerated amid a deteriorating market sentiment. On the Shanghai Futures Exchange, the main May 2024 rebar contract closed at CNY 3,887/tonne ($544/t), down CNY 56/t from the previous day, while the HRC contract lost CNY 45/t, settling at CNY 4,004/t.
+
+Construction steel transactions across China have consistently fallen, with Wednesday's volume at 106,400t, lower than the previous Friday. Weakening coke prices further impacted steel values, prompting a CNY 100/t price reduction agreed upon by steelmakers in Hebei and Shandong on Wednesday.
+
 ### Iron Ore
 
-| COMMODITY (USD/MT) | GRADE |
-| --- | --- |
-| Iron Ore Fines, CNF Rizhao, China | Fines, Fe 62% (Aust. Origin) 136 -4.89% +9.67% 143 124 Iron Ore Fines, CNF Qingdao, China Fines, Fe 62.5% (Brazil Origin) 137 -4.86% +14.16% 144 120 INDEX UNITS PRICE CHANGE %CHANGE CONTRACT Copper (Comex) USD / lb. 374.05 -3.60 -0.95% Mar 2024 3Mo Copper (L.M.E.) USD / MT 8,355.00 -15.50 -0.19% N/A 3Mo Aluminum (L.M.E.) USD / MT 2,235.00 +2.50 +0.11% N/A 3Mo Zinc (L.M.E.) USD / MT 2,502.50 +7.00 +0.28% N/A 3Mo Tin (L.M.E.) USD / MT 24,554.00 +119.00 +0.49% N/A |
+| COMMODITY | SIZE / GRADE | THIS WEEK USD / MT | W-O-W | Y-O-Y | LAST WEEK USD / MT | LAST YEAR USD / MT |
+| --- | --- | --- | --- | --- | --- | --- |
+| Iron Ore Fines, CNF Rizhao, China | Fines, Fe 62% (Aust. Origin) | 136 | -4.89% | +9.67% | 143 | 124 |
+| Iron Ore Fines, CNF Qingdao, China | Fines, Fe 62.5% (Brazil Origin) | 137 | -4.86% | +14.16% | 144 | 120 |
 
 ### Industrial Metal Rates
 
-| INDEX | UNITS | PRICE | CHANGE | % CHANGE | CONTRACT |
-| :--- | :--- | :---: | :---: | :---: | :---: |
+| INDEX | UNITS | PRICE | CHANGE | %CHANGE | CONTRACT |
+| --- | --- | --- | --- | --- | --- |
 | Copper (Comex) | USD / lb. | 374.05 | -3.60 | -0.95% | Mar 2024 |
 | 3Mo Copper (L.M.E.) | USD / MT | 8,355.00 | -15.50 | -0.19% | N/A |
 | 3Mo Aluminum (L.M.E.) | USD / MT | 2,235.00 | +2.50 | +0.11% | N/A |

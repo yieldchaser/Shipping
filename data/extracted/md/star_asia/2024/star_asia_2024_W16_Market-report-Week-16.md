@@ -104,15 +104,36 @@ With the risk of further conflict, chartering demand surged start of week but qu
 
 points to WS108. Same was also seen in the Black Sea with 135,000mt CPC/Med falling to WS115.
 
-Aframax:
+# Aframax:
 
 Unlike the West market, which showed improvements due to demand within the Americas and Europe, the East market closed with a slight firmness without any notable chartering activity. 80,000mt X-UKC climb slightly to WS143 while 80,000mt X-Med route, fell to WS187.
 
-Clean:
+# Clean:
 
-LR: It was a positive week in the MEG for the LRs with both sizes recording increases. LR2 was active, with TC1 climbing 40 points to WS207. TC5 also saw improvements with levels climbing to WS231. MR: Similar uptick was also seen in the MRs in the MEG with TC17 climbing some 22 points to WS306 at closing. On the other side, it was a different story as MRs saw a softer week. USG/ECSA route fell by 40 points to WS230.
+LR: It was a positive week in the MEG for the LRs with both sizes recording increases. LR2 was active, with TC1 climbing 40 points to WS207. TC5 also saw improvements with levels climbing to WS231.
+
+MR: Similar uptick was also seen in the MRs in the MEG with TC17 climbing some 22 points to WS306 at closing. On the other side, it was a different story as MRs saw a softer week. USG/ECSA route fell by 40 points to WS230.
 
 # Baltic Exchange Tanker Indices
+
+| INDICES | CURRENT | LAST WEEK | LAST YEAR | W-O-W CHANGE | Y-O-Y CHANGE |
+| --- | --- | --- | --- | --- | --- |
+| BDTI | 1,114 | 1,202 | 1,146 | -7.32% | -2.79% |
+| BCTI | 1,022 | 879 | 1,014 | +16.27% | +0.79% |
+
+# Tankers Values
+
+(Weekly Average)
+
+| TYPE | DWT | NB CONTRACT | NB PROMPT DELIVERY | 5 YEARS | 10 YEARS | 15 YEARS |
+| --- | --- | --- | --- | --- | --- | --- |
+| VLCC | 310,000 | 130 | 143 | 109 | 83 | 56 |
+| SUEZMAX | 160,000 | 88 | 99 | 83 | 66 | 48 |
+| AFRAMAX | 115,000 | 75 | 84 | 71 | 58 | 39 |
+| LRI | 73,000 | 58 | 61 | 52 | 42 | 29 |
+| MR | 51,000 | 50 | 54 | 45 | 38 | 26 |
+
+*(amount in USD million)
 
 ## Page 7
 
@@ -255,32 +276,33 @@ Aliaga, Turkey
 
 ## Page 15
 
-Chattogram, Bangladesh : 23 ~ 26 April | 7 ~ 10 May Alang, India : 23 ~ 29 April | 5 ~ 13 May
+# BEACHING TIDE DATES 2024
 
----
+Chattogram, Bangladesh : 23 ~ 26 April | 7 ~ 10 May
 
-BUNKER PRICES (USD/TON)
+Alang, India : 23 ~ 29 April | 5 ~ 13 May
 
-PORTS VLSFO (0.5%) HSFO (3.5%) MGO (0.1%)
+#### BUNKER PRICES (USD/TON)
 
+| PORTS | VLSFO (0.5%) | HSFO (3.5%) | MGO (0.1%) |
+| --- | --- | --- | --- |
 | SINGAPORE | 648 | 507 | 811 |
-|---|---|---|---|
 | HONG KONG | 648 | 512 | 807 |
 | FUJAIRAH | 645 | 477 | 902 |
 | ROTTERDAM | 611 | 496 | 807 |
 | HOUSTON | 664 | 498 | 850 |
 
-EXCHANGE RATES
+#### EXCHANGE RATES
 
 | CURRENCY | APRIL 19 | APRIL 12 | W-O-W % CHANGE |
-|---|---|---|---|
+| --- | --- | --- | --- |
 | USD / CNY (CHINA) | 7.23 | 7.23 | 0 |
 | USD / BDT (BANGLADESH) | 109.76 | 109.72 | -0.04% |
 | USD / INR (INDIA) | 83.39 | 83.56 | +0.20% |
 | USD / PKR (PAKISTAN) | 278.53 | 277.97 | -0.20% |
 | USD / TRY (TURKEY) | 32.52 | 32.36 | -0.49% |
 
-Sub-Continent and Turkey ferrous scrap markets insight
+# Sub-Continent and Turkey ferrous scrap markets insight
 
 Sub-Continent ferrous scrap market trends varied significantly by region. In India, a moderate rise in demand for imported scrap was noted due to increasing domestic scrap prices. However, most buyers leaned towards more cost-effective local alternatives, such as sponge, with purchases being predominantly need-based, especially in Gujarat. Conversely, Pakistan experienced a slowdown in the finished steel sector, which resulted in diminished scrap consumption. In Bangladesh, there was a moderate demand for imported scrap, supported by attractive pricing for shredded scrap from Europe and the UK.
 

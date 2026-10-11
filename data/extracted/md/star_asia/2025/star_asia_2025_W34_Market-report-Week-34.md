@@ -99,39 +99,37 @@ MEG ended the week on a firmer note as an increase in fixtures destined for Sout
 
 ## Page 6
 
-Clean:
+# Clean:
 
-LR: LR2 in the MEG concluded the week with declining rates as the booking window for August cargoes ended with TC1 to Japan falling to WS137. Similarly, LR1 also fell this week with TC5 slipping to WS156. MR: In the Far East, MR market finished the week on a firm note. Despite a limited flow of new cargo inquiries, freight rates held strong. In the MEG, sluggish outlooks were observed like the bigger counterparts as routes to East Africa slipped some 10 points to WS225.
+LR: LR2 in the MEG concluded the week with declining rates as the booking window for August cargoes ended with TC1 to Japan falling to WS137. Similarly, LR1 also fell this week with TC5 slipping to WS156.
+
+MR: In the Far East, MR market finished the week on a firm note. Despite a limited flow of new cargo inquiries, freight rates held strong. In the MEG, sluggish outlooks were observed like the bigger counterparts as routes to East Africa slipped some 10 points to WS225.
 
 ## Baltic Exchange Tanker Indices
 
-| INDICES | CURRENT | LAST WEEK |
-|---|---|---|
-| BDTI | 1,042 | 1,016 |
-| BCTI | 618 | 605 |
+| INDICES | CURRENT | LAST WEEK | LAST YEAR | W-O-W CHANGE | Y-O-Y CHANGE |
+| --- | --- | --- | --- | --- | --- |
+| BDTI | 1,042 | 1,016 | 920 | +2.56% | +13.26% |
+| BCTI | 618 | 605 | 652 | +2.15% | -5.21% |
 
-LAST YEAR W-O-W CHANGE 920 +2.56% 652 +2.15%
+# Tankers Values
 
-Y-O-Y
-
-CHANGE +13.26%
-
--5.21%
-
-Tankers Values
+(Weekly)
 
 | TYPE | DWT | NB CONTRACT | NB PROMPT DELIVERY | 5 YEARS | 10 YEARS | 15 YEARS |
-|---|---|---|---|---|---|---|
+| --- | --- | --- | --- | --- | --- | --- |
 | VLCC | 310,000 | 126 | 147 | 112 (E) | 83(E) | 51 |
 | SUEZMAX | 160,000 | 87 | 94 | 77 (E) | 62 (E) | 40 |
 | AFRAMAX | 115,000 | 75 | 77 | 64 (E) | 50 (E) | 35 |
-| LR1 | 73,000 | 60 | 62 | 51 (E) | 42 (E) | 25 |
+| LRI | 73,000 | 60 | 62 | 51 (E) | 42 (E) | 25 |
 | MR | 51,000 | 49 | 50 | 41 (E) | 30 (E) | 21 |
 
 Tankers S&P Report
 
+*(amount in USD million) | (E) – eco units
+
 | VESSEL NAME | TYPE | DWT | YEAR | BUILT | PRICE (MILLION) USD | COMMENTS / BUYERS |
-|---|---|---|---|---|---|---|
+| --- | --- | --- | --- | --- | --- | --- |
 | CLARICE | PROD / CHEM | 25,926 | 2014 | JAPAN | 29.5 | UNDISCLOSED (STST) |
 
 ## Page 7
@@ -251,34 +249,37 @@ The Turkish Lira slipped further this week, easing by 32 basis points to close a
 
 ## Page 16
 
-Chattogram, Bangladesh : 22 ~ 25 August | 7 ~ 10 September Alang, India : 20 ~ 27 August | 5 ~ 14 September
+# BEACHING TIDE DATES 2025
 
----
+Chattogram, Bangladesh : 22 ~ 25 August | 7 ~ 10 September
 
-BUNKER PRICES (USD/ton)
+Alang, India : 20 ~ 27 August | 5 ~ 14 September
 
-PORTS VLSFO (0.5%) HSFO (3.5%) MGO (0.1%)
+#### BUNKER PRICES (USD/ton)
 
+| PORTS | VLSFO (0.5%) | HSFO (3.5%) | MGO (0.1%) |
+| --- | --- | --- | --- |
 | SINGAPORE | 499 | 404 | 645 |
-|---|---|---|---|
 | HONG KONG | 511 | 427 | 650 |
 | FUJAIRAH | 488 | 383 | 724 |
 | ROTTERDAM | 472 | 408 | 627 |
 | HOUSTON | 487 | 418 | 659 |
 
-EXCHANGE RATES
+#### EXCHANGE RATES
 
 | CURRENCY | August 22 | August 15 | W-O-W % CHANGE |
-|---|---|---|---|
+| --- | --- | --- | --- |
 | USD / CNY (CHINA) | 7.17 | 7.18 | +0.14% |
 | USD / BDT (BANGLADESH) | 121.68 | 121.48 | -0.16% |
 | USD / INR (INDIA) | 87.51 | 87.51 | 0 |
 | USD / PKR (PAKISTAN) | 283.04 | 283.41 | +0.13% |
 | USD / TRY (TURKEY) | 40.95 | 40.83 | -0.29% |
 
-Sub-Continent and Turkey ferrous scrap markets insights
+# Sub-Continent and Turkey ferrous scrap markets insights
 
-The Sub-Continent imported scrap markets held broadly stable this week, though trading activity remained muted as weak finished steel demand and seasonal rains continued to dampen construction. Mills across India, Pakistan, and Bangladesh adopted a cautious approach to fresh bookings, while Turkey's market held steady with limited appetite. India's imported scrap market was subdued, with containerised shredded scrap trading at US$360-365/ton CFR Nhava Sheva. Demand remained under pressure as recent holidays slowed construction and weighed on steel consumption, keeping mills on the sidelines.
+The Sub-Continent imported scrap markets held broadly stable this week, though trading activity remained muted as weak finished steel demand and seasonal rains continued to dampen construction. Mills across India, Pakistan, and Bangladesh adopted a cautious approach to fresh bookings, while Turkey’s market held steady with limited appetite.
+
+India's imported scrap market was subdued, with containerised shredded scrap trading at US$360–365/ton CFR Nhava Sheva. Demand remained under pressure as recent holidays slowed construction and weighed on steel consumption, keeping mills on the sidelines.
 
 ## Page 17
 

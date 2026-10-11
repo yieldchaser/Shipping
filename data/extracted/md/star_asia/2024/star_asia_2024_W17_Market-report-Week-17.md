@@ -109,15 +109,36 @@ The surge in demand from West Africa and USG, driven by Middle Eastern risks, su
 
 Consequently, the Nigeria/UKC route saw a dip, falling to WS102. Meanwhile, in the MEG, 140,000mt to the Med falling to WS95.
 
-Aframax:
+# Aframax:
 
 Similar to the larger segments, it was a subdued week in the Afra market characterized by a lack of activity. Rates in the X-UKC fell slightly to WS141 for 80,000mt basis Hound Point. The Med market remains similar as last only falling slightly at closing, with rates for 80,000mt basis Ceyhan at WS185.
 
-Clean:
+# Clean:
 
-LR: After peaking at WS320 in March for the LR2s, TC1 MEG route fell to WS208 on Friday's closing. With the rising tensions in the region, charterers followed the owners' resistance, resulting in a rebound. LR1 rates also saw an uptick with TC5 climbing slightly to WS240s. On the UKC, activity picks up slightly, but levels remain same as last at WS182. MR: USG market saw another tough week, as levels continued slipping. TC14 (38,000mt USG/UKC) fell by another 12 points, dropping to WS136. In the UKC, MR market eased amid a lack of inquiries, with rates expected to drop further next week as tonnage builds up. TC2 lost another 10 points falling to WS169.
+LR: After peaking at WS320 in March for the LR2s, TC1 MEG route fell to WS208 on Friday's closing. With the rising tensions in the region, charterers followed the owners' resistance, resulting in a rebound. LR1 rates also saw an uptick with TC5 climbing slightly to WS240s. On the UKC, activity picks up slightly, but levels remain same as last at WS182.
+
+MR: USG market saw another tough week, as levels continued slipping. TC14 (38,000mt USG/UKC) fell by another 12 points, dropping to WS136. In the UKC, MR market eased amid a lack of inquiries, with rates expected to drop further next week as tonnage builds up. TC2 lost another 10 points falling to WS169.
 
 # Baltic Exchange Tanker Indices
+
+| INDICES | CURRENT | LAST WEEK | LAST YEAR | W-O-W CHANGE | Y-O-Y CHANGE |
+| --- | --- | --- | --- | --- | --- |
+| BDTI | 1,100 | 1,114 | 1,053 | -1.26% | +4.46% |
+| BCTI | 954 | 1,022 | 783 | -6.65% | +21.84% |
+
+# Tankers Values
+
+(Weekly Average)
+
+| TYPE | DWT | NB CONTRACT | NB PROMPT DELIVERY | 5 YEARS | 10 YEARS | 15 YEARS |
+| --- | --- | --- | --- | --- | --- | --- |
+| VLCC | 310,000 | 130 | 144 | 114 | 85 | 58 |
+| SUEZMAX | 160,000 | 87 | 99 | 83 | 68 | 50 |
+| AFRAMAX | 115,000 | 75 | 85 | 75 | 60 | 44 |
+| LR1 | 73,000 | 60 | 63 | 53 | 43 | 30 |
+| MR | 51,000 | 49 | 53 | 45 | 38 | 26 |
+
+* (amount in USD million)
 
 ## Page 7
 
@@ -202,31 +223,38 @@ Following the Red Sea incident, the SCFI saw a decline from its previous peak of
 
 # Insight
 
-In the Sub-Continent, market conditions have remained relatively optimistic, with stable domestic ship prices and consistent demand. The ongoing shortage of ship supplies continues to be a pivotal factor in the Sub- Continent markets, showing no immediate signs of relief. Faced with a scarcity of vessels, recyclers are maintaining a cautious approach and steering clear of speculative purchases.
+In the Sub-Continent, market conditions have remained relatively optimistic, with stable domestic ship prices and consistent demand.
 
-Alang, India
+The ongoing shortage of ship supplies continues to be a pivotal factor in the Sub- Continent markets, showing no immediate signs of relief. Faced with a scarcity of vessels, recyclers are maintaining a cautious approach and steering clear of speculative purchases.
 
-Market stability persists as ship scrap prices continue their upward trajectory. The ongoing general elections in the largest democracy have sparked optimism within industries, fostering expectations of a promising future ahead. This week, Alang, after a short pause, MSC was back with their sale of MSC NILGUN, built in 1994 in Spain, weighing 12,553 tons, having a spare propeller, and about 350 tons of bunkers included in the sale fetched US$565/ton from the Alang markets. Overall, the markets are stable, and the buying interest is intact.
+# Alang, India
 
-VESSEL NAME ASPHALT PRINCESS AMANAH
+Market stability persists as ship scrap prices continue their upward trajectory. The ongoing general elections in the largest democracy have sparked optimism within industries, fostering expectations of a promising future ahead.
 
-Chattogram, Bangladesh
+This week, Alang, after a short pause, MSC was back with their sale of MSC NILGUN, built in 1994 in Spain, weighing 12,553 tons, having a spare propeller, and about 350 tons of bunkers included in the sale fetched US$565/ton from the Alang markets.
 
-This week, domestic ship scrap prices in Chattogram experienced a slight decline, attributed to a gradual buildup of inventories. Despite this minor correction, market sentiment remained positive, with sustained buying interest.
-
-VESSEL NAME THARERATANA 1 SAWASDEE SINGAPORE SINOKOR QINGDAO LIAN FENG 6 SINOKOR HONGKONG
+Overall, the markets are stable, and the buying interest is intact.
 
 Anchorage & Beaching Position (April 2024)
 
-TYPE LDT ARRIVAL BEACHING
+| VESSEL NAME | TYPE | LDT | ARRIVAL | BEACHING |
+| --- | --- | --- | --- | --- |
+| ASPHALT PRINCESS | BITUMEN TANKER | 3,271 | 25.04.2024 | AWAITING |
+| AMANAH | RORO | 8,997 | 27.04.2024 | AWAITING |
 
-TANKER 739 23.04.2024 AWAITING
+# Chattogram, Bangladesh
 
-| CONTAINER | 7,138 | 23.04.2024 | AWAITING |
-|---|---|---|---|
-| CONTAINER | 4,734 | 23.04.2024 | AWAITING |
-| GEN.CARGO | 6,537 | 19.04.2024 | AWAITING |
-| CONTAINER | 5,474 | 18.04.2024 | AWAITING |
+This week, domestic ship scrap prices in Chattogram experienced a slight decline, attributed to a gradual buildup of inventories. Despite this minor correction, market sentiment remained positive, with sustained buying interest.
+
+Anchorage & Beaching Position (April 2024)
+
+| VESSEL NAME | TYPE | LDT | ARRIVAL | BEACHING |
+| --- | --- | --- | --- | --- |
+| THARERATANA 1 | TANKER | 739 | 23.04.2024 | AWAITING |
+| SAWASDEE SINGAPORE | CONTAINER | 7,138 | 23.04.2024 | AWAITING |
+| SINOKOR QINGDAO | CONTAINER | 4,734 | 23.04.2024 | AWAITING |
+| LIAN FENG 6 | GEN.CARGO | 6,537 | 19.04.2024 | AWAITING |
+| SINOKOR HONGKONG | CONTAINER | 5,474 | 18.04.2024 | AWAITING |
 
 ## Page 14
 
@@ -249,34 +277,39 @@ Aliaga, Turkey
 
 ## Page 15
 
-Chattogram, Bangladesh : 7 ~ 10 May | 22 ~ 25 MAY Alang, India : 23 ~ 29 April | 5 ~ 13 May
+Scrap prices have stabilized at US$385/t CFR Turkey from the Baltic and US$380/t CFR from the EU for HMS 1&2 80:20. In the domestic market, demand showed no recovery even after Turkey's Central Bank's decision to keep loan rates unchanged from last month.
 
----
+# BEACHING TIDE DATES 2024
 
-BUNKER PRICES (USD/TON)
+Chattogram, Bangladesh : 7 ~ 10 May | 22 ~ 25 MAY
 
-PORTS VLSFO (0.5%) HSFO (3.5%) MGO (0.1%)
+Alang, India : 23 ~ 29 April | 5 ~ 13 May
 
+#### BUNKER PRICES (USD/TON)
+
+| PORTS | VLSFO (0.5%) | HSFO (3.5%) | MGO (0.1%) |
+| --- | --- | --- | --- |
 | SINGAPORE | 644 | 517 | 770 |
-|---|---|---|---|
 | HONG KONG | 651 | 520 | 784 |
 | FUJAIRAH | 643 | 502 | 891 |
 | ROTTERDAM | 601 | 487 | 746 |
 | HOUSTON | 625 | 495 | 798 |
 
-EXCHANGE RATES
+#### EXCHANGE RATES
 
 | CURRENCY | APRIL 26 | APRIL 19 | W-O-W % CHANGE |
-|---|---|---|---|
+| --- | --- | --- | --- |
 | USD / CNY (CHINA) | 7.24 | 7.23 | -0.14% |
 | USD / BDT (BANGLADESH) | 109.71 | 109.76 | +0.05% |
 | USD / INR (INDIA) | 83.40 | 83.39 | -0.01% |
 | USD / PKR (PAKISTAN) | 278.37 | 278.53 | +0.06% |
 | USD / TRY (TURKEY) | 32.47 | 32.52 | +0.15% |
 
-Sub-Continent and Turkey ferrous scrap markets insight
+# Sub-Continent and Turkey ferrous scrap markets insight
 
-This week in the Sub-Continent and Turkish ferrous scrap market, stability prevailed overall. India experienced a surge in demand driven by limited domestic supply and increased steel demand, while Pakistani buyers showed reduced activity due to a slow, finished steel market. Import activity in Bangladesh remained moderate. Shredded scrap offers held steady in India and Bangladesh, with a slight increase of US$1/ton in Pakistan. US bulk HMS (80:20) offers to Turkey rose by US$1/ton day-on-day.
+This week in the Sub-Continent and Turkish ferrous scrap market, stability prevailed overall. India experienced a surge in demand driven by limited domestic supply and increased steel demand, while Pakistani buyers showed reduced activity due to a slow, finished steel market. Import activity in Bangladesh remained moderate.
+
+Shredded scrap offers held steady in India and Bangladesh, with a slight increase of US$1/ton in Pakistan. US bulk HMS (80:20) offers to Turkey rose by US$1/ton day-on-day.
 
 ## Page 16
 

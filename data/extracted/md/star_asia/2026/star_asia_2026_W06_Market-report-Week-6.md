@@ -103,19 +103,36 @@ In West Africa, shippers have resisted with Nigeria/UKC trips settling at WS153,
 
 ## Page 6
 
-Aframax:
+# Aframax:
 
 As Lunar New Year approaches, demand has shifted, particularly for regional hauls. This has triggered bookings for the few remaining prompt vessels in the Middle East and Mediterranean. In the Mediterranean, 80,000mt Ceyhan/Lavera slipped slightly at closing to close at WS245. In the T/A, 70,000mt USG/UKC saw rates fell some 30 points to WS276.
 
-Clean:
+# Clean:
 
-**LR: LR2 in the MEG have seen rates fall,** losing 20 points to close at WS190. On the supply side, the market faced an acute shortage as vessels were delayed returning from the Far East due to backhauling assignments and winter weather disruptions. Similar decline was seen in the LR1 segment where TC5 MEG/Japan closed at WS204.
+LR: LR2 in the MEG have seen rates fall, losing 20 points to close at WS190. On the supply side, the market faced an acute shortage as vessels were delayed returning from the Far East due to backhauling assignments and winter weather disruptions. Similar decline was seen in the LR1 segment where TC5 MEG/Japan closed at WS204.
 
-**MR: Far East MR market saw a steady week as most requirements for the Lunar New Year**
-
-were concluded early, leading to a natural slowdown in activity. In the MEG, TC17 trips to E. Africa fell 18 points to WS251. However, in the UKC, vessel tightness saw TC2 to Atlantic Coast closing higher at WS153.
+MR: Far East MR market saw a steady week as most requirements for the Lunar New Year were concluded early, leading to a natural slowdown in activity. In the MEG, TC17 trips to E. Africa fell 18 points to WS251. However, in the UKC, vessel tightness saw TC2 to Atlantic Coast closing higher at WS153.
 
 ## Baltic Exchange Tanker Indices
+
+| INDICES | CURRENT | LAST WEEK | LAST YEAR | W-O-W CHANGE | Y-O-Y CHANGE |
+| --- | --- | --- | --- | --- | --- |
+| BDTI | 1,679 | 1,653 | 910 | +1.57% | +84.51% |
+| BCTI | 916 | 893 | 666 | +2.58% | +37.54% |
+
+# Tankers Values
+
+(Weekly)
+
+| TYPE | DWT | NB CONTRACT | NB PROMPT DELIVERY | 5 YEARS | 10 YEARS | 15 YEARS |
+| --- | --- | --- | --- | --- | --- | --- |
+| VLCC | 310,000 | 128 | 148 | 119 (E) | 87(E) | 53 |
+| SUEZMAX | 160,000 | 86 | 95 | 79 (E) | 63 (E) | 42 |
+| AFRAMAX | 115,000 | 75 | 80 | 66 (E) | 53 (E) | 37 |
+| LR1 | 73,000 | 60 | 64 | 53 (E) | 44 (E) | 26 |
+| MR | 51,000 | 49 | 53 | 42 (E) | 33 (E) | 24 |
+
+*(amount in USD million) | (E) – eco units
 
 ## Page 7
 
@@ -233,38 +250,45 @@ Recyclers have observed a small selection of dry segment vessels circulating for
 
 certification from Class NK. As global supply dynamics begin to shift and local buyers remain eager for fresh inventory, the current timing suggests that the Pakistani waterfront may soon experience a long-awaited uptick in vessel arrivals.
 
-Aliaga, Turkiye
+Anchorage & Beaching Position (FEBRUARY 2026)
 
-Turkiye market remains similar to last week, with no new activity. Outlook remains steady for the region as holding demand awaits the new month.
+| VESSEL NAME | TYPE | LDT | ARRIVAL | BEACHING |
+| --- | --- | --- | --- | --- |
+| - | - | - | - | - |
 
----
+# Aliaga, Turkiye
 
-Chattogram, Bangladesh : 19 ~ 22 February Alang, India : 16 ~ 23 February
+Turkiye market remains similar to last week, with no new activity.
 
----
+Outlook remains steady for the region as holding demand awaits the new month.
 
-BUNKER PRICES (USD/ton)
+# BEACHING TIDE DATES 2026
 
-PORTS VLSFO (0.5%) HSFO (3.5%) MGO (0.1%)
+Chattogram, Bangladesh : 19 ~ 22 February
 
+Alang, India
+
+: 16 ~ 23 February
+
+#### BUNKER PRICES (USD/ton)
+
+| PORTS | VLSFO (0.5%) | HSFO (3.5%) | MGO (0.1%) |
+| --- | --- | --- | --- |
 | SINGAPORE | 465 | 425 | 656 |
-|---|---|---|---|
 | HONG KONG | 483 | 449 | 685 |
 | FUJAIRAH | 461 | 397 | 752 |
 | ROTTERDAM | 433 | 390 | 683 |
 | HOUSTON | 462 | 362 | 702 |
 
-CURRENCY USD / CNY (CHINA) USD / BDT (BANGLADESH) USD / INR (INDIA) USD / PKR (PAKISTAN) USD / TRY (TURKEY)
+#### EXCHANGE RATES
 
-EXCHANGE RATES
-
-| February 6 | January 30 | W-O-W % CHANGE |
-|---|---|---|
-| 6.93 | 6.94 | +0.14% |
-| 122.32 | 122.2 | -0.10% |
-| 90.31 | 91.87 | +1.70% |
-| 279.7 | 279.69 | 0 |
-| 43.61 | 43.42 | -0.44% |
+| CURRENCY | February 6 | January 30 | W-O-W % CHANGE |
+| --- | --- | --- | --- |
+| USD / CNY (CHINA) | 6.93 | 6.94 | +0.14% |
+| USD / BDT (BANGLADESH) | 122.32 | 122.2 | -0.10% |
+| USD / INR (INDIA) | 90.31 | 91.87 | +1.70% |
+| USD / PKR (PAKISTAN) | 279.7 | 279.69 | 0 |
+| USD / TRY (TURKEY) | 43.61 | 43.42 | -0.44% |
 
 ## Page 17
 

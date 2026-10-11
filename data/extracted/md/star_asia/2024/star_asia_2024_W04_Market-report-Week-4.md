@@ -101,22 +101,43 @@ Following an early January rebound, the market enters a phase of correction. A d
 
 ## Page 6
 
-Aframax:
+# Aframax:
 
 The decline in the segment this week was credited to weak demand along the MEG/SE Asia route. The week was, on the whole, less fruitful for Aframaxes. Despite initial difficulties for charterers regarding month-end positions, the UKC tonnage list remained accessible throughout the week. 80,000mt Cross-UKC remains unchanged at WS181.
 
-Clean:
+# Clean:
 
-L.R.: LR2 saw a notable increase this week on the MEG/Japan route due to a decline in local ship supply and an increase in profit-taking trades. Profitable deals ensure business viability despite rising European gasoline prices. TC1 climbed some 100 points, reaching WS353. Expectations that vessels would bypass the Suez Canal resulted in a premium in bunker fuel freight costs. LR1 also saw similar big gains, with TC5 closing at WS379. MR: With an increase in cargo intake in early February and relief from operational difficulties caused by bad weather, freight rates on the S. Korea/SGP route saw improvements this week, closing at WS23. In the Atlantic, there was some activity at the start of the week, but levels corrected midway. USG/UKC route remains at WS163.
+L.R.: LR2 saw a notable increase this week on the MEG/Japan route due to a decline in local ship supply and an increase in profit-taking trades. Profitable deals ensure business viability despite rising European gasoline prices. TC1 climbed some 100 points, reaching WS353. Expectations that vessels would bypass the Suez Canal resulted in a premium in bunker fuel freight costs. LR1 also saw similar big gains, with TC5 closing at WS379.
+
+MR: With an increase in cargo intake in early February and relief from operational difficulties caused by bad weather, freight rates on the S. Korea/SGP route saw improvements this week, closing at WS23. In the Atlantic, there was some activity at the start of the week, but levels corrected midway. USG/UKC route remains at WS163.
 
 ## Baltic Exchange Tanker Indices
+
+| INDICES | CURRENT | LAST WEEK | LAST YEAR | W-O-W CHANGE | Y-O-Y CHANGE |
+| --- | --- | --- | --- | --- | --- |
+| BDTI | 1,347 | 1,500 | 1,323 | -10.20% | +1.81% |
+| BCTI | 1,358 | 945 | 659 | +43.70% | +106.07% |
+
+# Tankers Values
+
+(Weekly Average)
+
+| TYPE | DWT | NB CONTRACT | NB PROMPT DELIVERY | 5 YEARS | 10 YEARS | 15 YEARS |
+| --- | --- | --- | --- | --- | --- | --- |
+| VLCC | 310,000 | 125 | 132 | 100 | 75 | 50 |
+| SUEZMAX | 160,000 | 92 | 97 | 80 | 62 | 40 |
+| AFRAMAX | 115,000 | 82 | 85 | 75 | 60 | 35 |
+| LR1 | 73,000 | 58 | 60 | 52 | 40 | 25 |
+| MR | 51,000 | 50 | 54 | 44 | 35 | 24 |
+
+*(amount in USD million)
 
 ## Page 7
 
 ## Tanker 12 months T/C rates average (in USD/day)
 
-| TYPE | DWT | CURRENT LAST | WEEK LAST | YEAR W-O-W | CHANGE Y-O-Y | CHANGE |
-|---|---|---|---|---|---|---|
+| TYPE | DWT | CURRENT | LAST WEEK | LAST YEAR | W-O-W CHANGE | Y-O-Y CHANGE |
+| --- | --- | --- | --- | --- | --- | --- |
 | VLCC | 310,000 | 45,250 | 45,250 | 38,750 | 0 | +16.77% |
 | SUEZMAX | 150,000 | 44,250 | 44,250 | 42,500 | 0 | +4.12% |
 | AFRAMAX | 110,000 | 42,000 | 43,000 | 41,750 | +2.33% | +0.60% |
@@ -125,27 +146,46 @@ L.R.: LR2 saw a notable increase this week on the MEG/Japan route due to a decli
 
 Tankers S&P Report
 
-| VESSEL NAME | TYPE | DWT | YEAR |
-|---|---|---|---|
-| ESTHER SPIRIT / EVEREST SPIRIT | AFRA | 115,444 | 2004 |
-| WONDER SIRIUS | AFRA | 115,340 | 2005 |
-| MARE ORIENS | LR2 | 110,295 | 2008 |
-| STI TRIBECA | MR | 49,990 | 2015 |
-| PATEA | PROD / CHEM | 16,651 | 2008 |
+| VESSEL NAME | TYPE | DWT | YEAR | BUILT | PRICE (MILLION) USD | COMMENTS / BUYERS |
+| --- | --- | --- | --- | --- | --- | --- |
+| ESTHER SPIRIT / EVEREST SPIRIT | AFRA | 115,444 | 2004 | S. KOREA | 24.0 EACH | IMS, GREECE |
+| WONDER SIRIUS | AFRA | 115,340 | 2005 | S. KOREA | 33.8 | CHINESE BUYERS |
+| MARE ORIENS | LR2 | 110,295 | 2008 | JAPAN | 42.0 | CHINESE BUYERS |
+| STI TRIBECA | MR | 49,990 | 2015 | S. KOREA | 39.0 | KKS LINE |
+| PATEA | PROD / CHEM | 16,651 | 2008 | CHINA | 13.0 | BRYSTAD GROUP |
 
-BUILT S. KOREA S. KOREA JAPAN S. KOREA CHINA
-
-PRICE (MILLION) USD 24.0 EACH 33.8 42.0 39.0 13.0
-
-COMMENTS / BUYERS IMS, GREECE CHINESE BUYERS CHINESE BUYERS KKS LINE BRYSTAD GROUP
+Tanker 1 year T/C rates
 
 ## Page 8
 
 ## Containers
 
-Over 500 container ships, which typically use the Red Sea for transit to and from the Suez Canal, are now adding two weeks to their routes by circumnavigating the Cape of Good Hope at the southern tip of Africa. This rerouting accounts for approximately a quarter of the world's container shipping capacity. The rapid increase in costs, not seen since the pandemic, is affecting various industries. Container prices from China to the Med have more than quadrupled since late November, while Container spot rates from Asia to U.S. and Europe continue to soar, reaching unprecedented levels. This week, despite a modest downward trend on certain routes, container spot freight rates remained elevated due to the ongoing situation. SCFI index remains similar to the last w-o-w at 2,179 points. On Transpacific routes, rates continued to rise; on the SCFI Shanghai USWC route, rates increased by 2% w-o-w to US$4,412/FEU, while the SCFI Shanghai-N. Europe route fell by 6% w-o-w to US$2,861/TEU.
+Over 500 container ships, which typically use the Red Sea for transit to and from the Suez Canal, are now adding two weeks to their routes by circumnavigating the Cape of Good Hope at the southern tip of Africa. This rerouting accounts for approximately a quarter of the world's container shipping capacity.
+
+The rapid increase in costs, not seen since the pandemic, is affecting various industries. Container prices from China to the Med have more than quadrupled since late November, while Container spot rates from Asia to U.S. and Europe continue to soar, reaching unprecedented levels.
+
+This week, despite a modest downward trend on certain routes, container spot freight rates remained elevated due to the ongoing situation. SCFI index remains similar to the last w-o-w at 2,179 points.
+
+On Transpacific routes, rates continued to rise; on the SCFI Shanghai USWC route, rates increased by 2% w-o-w to US$4,412/FEU, while the SCFI Shanghai-N. Europe route fell by 6% w-o-w to US$2,861/TEU.
 
 ## Containers S&P Report
+
+| VESSEL NAME | TYPE | TEU | YEAR | BUILT | PRICE (MILLION) USD | COMMENTS / BUYERS |
+| --- | --- | --- | --- | --- | --- | --- |
+| CTP DELTA | FEEDER | 1,012 | 1993 | POLAND | N/A | UNDISCLOSED |
+| NCL HAUGESUND | FEEDER | 657 | 2004 | CHINA | N/A | FAR EASTERN BUYERS |
+
+# Containers Values
+
+(Weekly)
+
+| CONTAINERS (BY TEU) | GEARED / GEARLESS | NB CONTRACT | NB PROMPT DELIVERY | 5 YEARS | 10 YEARS | 20 YEARS |
+| --- | --- | --- | --- | --- | --- | --- |
+| 900 – 1,200 | Geared | 23 | 23 | 16 | 9 | 7 |
+| 1,600 – 1,800 | Geared | 29 | 25 | 20 | 14 | 10 |
+| 2,700 – 2,900 | Gearless | 41 | 36 | 28 | 15 | 12 |
+| 5,500 – 7,000 | Gearless | 93 | 76 | 64 | 36 | N/A |
+| *(amount in USD million) | *(amount in USD million) | *(amount in USD million) | *(amount in USD million) | *(amount in USD million) | *(amount in USD million) | *(amount in USD million) |
 
 ## Page 9
 
@@ -256,17 +296,31 @@ them. Bangladesh has been dominating the competition for ships coming from the F
 
 than fostering growth. The upcoming general elections in February add to economic uncertainty.
 
-Aliaga, Turkey
+Anchorage & Beaching Position (January 2024)
 
-Most Turkish mills have maintained their domestic scrap buying prices without any changes since the previous week. Imported scrap prices, however, have not seen a recovery despite fresh bookings. While discussions were ongoing, suppliers raised their target values. Most U.S. suppliers consider levels below US$425-430/t CFR or HMS 1&2 80:20 unworkable. Demand in major destinations like Yemen and Israel is subdued, with no significant recovery expected. Turkish shipbreaking scrap levels were seen at US$375-413/t delivered.
+| VESSEL NAME | TYPE | LDT | ARRIVAL | BEACHING |
+| --- | --- | --- | --- | --- |
+| SSL DELHI | CONTAINER | 10,669 | 16.01.2024 | 23.01.2024 |
+| TUNE | BULKER | 9,986 | 16.01.2024 | 25.01.2024 |
+| G HARMONY | GENERAL CARGO | 11,312 | 06.01.2024 | 13.01.2024 |
 
----
+# Aliaga, Turkey
 
-Chattogram, Bangladesh : 27 ~ 30 January | 11 ~ 14 February Alang, India : 23 ~ 30 January | 8 ~ 15 February
+Most Turkish mills have maintained their domestic scrap buying prices without any changes since the previous week. Imported scrap prices, however, have not seen a recovery despite fresh bookings.
 
----
+While discussions were ongoing, suppliers raised their target values. Most U.S. suppliers consider levels below US$425-430/t CFR or HMS 1&2 80:20 unworkable. Demand in major destinations like Yemen and Israel is subdued, with no significant recovery expected.
 
-Sub-Continent and Turkey ferrous scrap markets insight
+Turkish shipbreaking scrap levels were seen at US$375-413/t delivered.
+
+# BEACHING TIDE DATES 2024
+
+Chattogram, Bangladesh : 27 ~ 30 January | 11 ~ 14 February
+
+Alang, India
+
+: 23 ~ 30 January | 8 ~ 15 February
+
+# Sub-Continent and Turkey ferrous scrap markets insight
 
 Global ferrous scrap prices have seen a decline this week, with several factors affecting markets in South Asia. In India, the gap between domestic and imported scrap prices has deterred buyers, making domestic scrap more economically appealing. Buyers are holding off until the price differential becomes more favourable. Turkish imported scrap prices have also dipped due to uncertain price trends and sufficient inventories, reducing the urgency for re-stocking. However, the potential exists for a price premium if buyers commit to procuring 40 cargoes.
 

@@ -102,34 +102,35 @@ In the West African market, last week's inventory buildup saw a slew of tonnage 
 
 ## Page 6
 
-Aframax:
+# Aframax:
 
 In the Mediterranean, 80,000mt Ceyhan/Lavera had a positive end, gaining 51 points to WS259. On the supply side, the gradual reduction of available vessels encouraged owners to raise their offers. In Atlantic, tensions and uncertainty over Venezuela have seen 70,000mt EC Mexico/USG up to WS327. The general strength of the crude sector is expected to keep owners' expectations high.
 
-Clean:
+# Clean:
 
-LR: MEG saw rates settled this week after last week's active spot activities bound for East Asia for late-January loading. TC1 fell slightly to WS202. LR1 also saw a slight dip, too, with the MEG/Japan trip closing at WS211. In the UKC, TC16 ARA/WAFR remains unchanged at WS153 mark. MR: The Far East market saw a moderate recovery in demand as refiners returned to normal loading schedules, leading to increased inquiries for short-haul clean shipments. In the MEG route to East Africa, rates fell slightly after climbing to WS288.
+LR: MEG saw rates settled this week after last week's active spot activities bound for East Asia for late-January loading. TC1 fell slightly to WS202. LR1 also saw a slight dip, too, with the MEG/Japan trip closing at WS211. In the UKC, TC16 ARA/WAFR remains unchanged at WS153 mark.
+
+MR: The Far East market saw a moderate recovery in demand as refiners returned to normal loading schedules, leading to increased inquiries for short-haul clean shipments. In the MEG route to East Africa, rates fell slightly after climbing to WS288.
 
 ## Baltic Exchange Tanker Indices
 
-| INDICES | CURRENT | LAST WEEK |
-|---|---|---|
-| BDTI | 1,626 | 1,562 |
-| BCTI | 857 | 830 |
+| INDICES | CURRENT | LAST WEEK | LAST YEAR | W-O-W CHANGE | Y-O-Y CHANGE |
+| --- | --- | --- | --- | --- | --- |
+| BDTI | 1,626 | 1,562 | 845 | +4.10% | +92.43% |
+| BCTI | 857 | 830 | 725 | +3.25% | +18.21% |
 
-LAST YEAR W-O-W CHANGE 845 +4.10% 725 +3.25%
+# Tankers Values
 
-Y-O-Y CHANGE +92.43% +18.21%
+(Weekly)
 
-| TYPE | DWT | NB CONTRACT | Tankers Values (Weekly) NB CONTRACT | Tankers Values (Weekly) NB PROMPT | 5 YEARS | 10 YEARS | 10 YEARS | 15 YEARS |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-|  |  |  |  | DELIVERY |  |  |  |  |
-| VLCC | 310,000 |  | 128 | 148 | 119 (E) | 87(E) |  | 53 |
-| SUEZMAX | 160,000 |  | 86 | 95 | 79 (E) | 63 | (E) | 42 |
-| AFRAMAX | 115,000 |  | 75 | 80 | 66 (E) | 53 | (E) | 37 |
-| LR1 | 73,000 |  | 60 | 64 | 53 (E) | 44 | (E) | 26 |
-| MR | 51,000 |  | 49 | 53 | 42 (E) | 33 | (E) | 24 |
-| *(amount inUSD | million) | \ | (E)-ecounits |  |  |  |  |  |
+| TYPE | DWT | NB CONTRACT | NB PROMPT DELIVERY | 5 YEARS | 10 YEARS | 15 YEARS |
+| --- | --- | --- | --- | --- | --- | --- |
+| VLCC | 310,000 | 128 | 148 | 119 (E) | 87(E) | 53 |
+| SUEZMAX | 160,000 | 86 | 95 | 79 (E) | 63 (E) | 42 |
+| AFRAMAX | 115,000 | 75 | 80 | 66 (E) | 53 (E) | 37 |
+| LRI | 73,000 | 60 | 64 | 53 (E) | 44 (E) | 26 |
+| MR | 51,000 | 49 | 53 | 42 (E) | 33 (E) | 24 |
+| *(amount in USD million) / (E) – eco units | *(amount in USD million) / (E) – eco units | *(amount in USD million) / (E) – eco units | *(amount in USD million) / (E) – eco units | *(amount in USD million) / (E) – eco units | *(amount in USD million) / (E) – eco units | *(amount in USD million) / (E) – eco units |
 
 ## Page 7
 
@@ -225,11 +226,34 @@ The Indian market saw volatility this week, with a rapid "roller-coaster" in pri
 
 ## Page 14
 
-Chattogram
+Anchorage & Beaching Position (JANUARY 2026)
 
-Bangladeshi market prepares for the upcoming February elections as overall demand remained subdued this week, particularly for smaller units. A notable shift has emerged toward larger assets, including LNG carriers and tankers. Although local price levels have softened from their late 2025 highs, indicative bidding remains relatively firm. Despite the current thin buyer participation and the seasonal impact of the upcoming Ramadan, sentiments are beginning to firm. With domestic rebar prices holding steady at around US$638/MT (BDT 78,000) and the recent central bank injection of US$750 million to ease liquidity, the industry remains optimistic that post-election stability will trigger a significant recovery in activity.
+| VESSEL NAME | TYPE | LDT | ARRIVAL | BEACHING |
+| --- | --- | --- | --- | --- |
+| GLOBAL STAR | TANKER | 4,237 | 24.01.2026 | AWAITING |
+| OLGA L | REEFER | 3,834 | 24.01.2026 | AWAITING |
+| YUN DA YOU 6 | TANKER | 1,019 | 20.01.2026 | AWAITING |
+| TAN | FISHING TRAWLER | 5,581 | 21.01.2026 | 24.01.2026 |
+| EMANO 11 | GENERAL CARGO | 2,556 | 02.01.2026 | 10.01.2026 |
+| BODHI | TANKER | 16,294 | 09.01.2026 | 15.01.2026 |
+| SHENG LU | BULKER | 6,300 | 12.01.2026 | 17.01.2026 |
 
-Gadani
+# Chattogram
+
+Bangladeshi market prepares for the upcoming February elections as overall demand remained subdued this week, particularly for smaller units. A notable shift has emerged toward larger assets, including LNG carriers and tankers.
+
+Although local price levels have softened from their late 2025 highs, indicative bidding remains relatively firm. Despite the current thin buyer participation and the seasonal impact of the upcoming Ramadan, sentiments are beginning to firm. With domestic rebar prices holding steady at around US\$638/MT (BDT 78,000) and the recent central bank injection of US\$750 million to ease liquidity, the industry remains optimistic that post-election stability will trigger a significant recovery in activity.
+
+Anchorage & Beaching Position (JANUARY 2026)
+
+| VESSEL NAME | TYPE | LDT | ARRIVAL | BEACHING |
+| --- | --- | --- | --- | --- |
+| KHOZAN MARU | TANKER | 9.962 | 15.01.2026 | 10.01.2026 |
+| VIGO | TANKER | 17,740 | 07.07.2026 | 09.01.2026 |
+| GOLD ORIGIN | GENERAL CARGO | 2,485 | 02.01.2025 | 07.01.2025 |
+| VICTOR | BULKER | 6,086 | 02.01.2025 | 07.01.2026 |
+
+# Gadani
 
 Pakistan experienced a revitalised start to the year, with notable improvement in sentiment and a strategic shift toward modernising its infrastructure. Local recyclers at Gadani have found themselves in a unique position, climbing to the second spot in regional rankings due to their steady pricing.
 
@@ -237,18 +261,31 @@ Pakistan experienced a revitalised start to the year, with notable improvement i
 
 This has boosted the confidence of domestic steel mills, particularly as a lull in imported materials has encouraged a greater reliance on locally recycled ship steel. While the waterfront is currently awaiting its first major vessel arrivals of 2026, the mood remains optimistic as buyers show an increased willingness to engage in discussions for upcoming tonnage.
 
----
+Anchorage & Beaching Position (JANUARY 2026)
 
-Chattogram, Bangladesh : 21 ~ 24 January | 3 ~ 6 February Alang, India : 17 ~ 24 January | 30 January ~ 6 February
+| VESSEL NAME | TYPE | LDT | ARRIVAL | BEACHING |
+| --- | --- | --- | --- | --- |
+| - | - | - | - | - |
 
----
+# Aliaga, Turkiye
 
-BUNKER PRICES (USD/ton)
+Turkiye market remains quiet this week with not much activity to report.
 
-PORTS VLSFO (0.5%) HSFO (3.5%) MGO (0.1%)
+Outlook remains steady but secondary to the Subcontinent, with pricing at US$270/LDT for bulkers and US$290/LDT for containers.
 
+# BEACHING TIDE DATES 2026
+
+Chattogram, Bangladesh : 21 ~ 24 January | 3 ~ 6 February
+
+Alang, India
+
+: 17 ~ 24 January | 30 January ~ 6 February
+
+#### BUNKER PRICES (USD/ton)
+
+| PORTS | VLSFO (0.5%) | HSFO (3.5%) | MGO (0.1%) |
+| --- | --- | --- | --- |
 | SINGAPORE | 422 | 357 | 601 |
-|---|---|---|---|
 | HONG KONG | 436 | 392 | 622 |
 | FUJAIRAH | 420 | 333 | 714 |
 | ROTTERDAM | 407 | 354 | 621 |
@@ -256,9 +293,29 @@ PORTS VLSFO (0.5%) HSFO (3.5%) MGO (0.1%)
 
 ## Page 16
 
-Sub-Continent and Turkey ferrous scrap markets insights
+#### EXCHANGE RATES
 
-INDIA The Indian imported scrap market remains subdued as steelmakers show little urgency for new bookings. Buying interest is heavily tempered by currency pressures, with the exchange rate reaching nearly INR 91.50/$. Indicative levels for shredded scrap are hovering between US$345-US$348/t CFR, while HMS 80:20 and 90:10 is attracting bids in the US$320-US$322/t CFR range. There is a notable $5/t premium for West Coast deliveries. Recent transactions include Canada-origin shredded scrap sold at US$362/t CFR Nhava Sheva, while Australian-origin HMS 80:20 is currently indicated at US$330- US$335/t CFR. PAKISTAN Pakistan's market reflects a wide price gap between different supply origins. UAE-origin shredded scrap is commanding a premium, with buying levels around US$378-$380/t and offers reaching as high as US$390/t CFR Qasim. In contrast, EU-origin shredded material is seeing tradable levels near US$372-$373/t CFR. Despite the current selectivity, market analysts expect upward price pressure in the coming weeks due to rising freight costs-driven by longer alternative shipping routes-and firming export demand. Domestically, Punjab and KPK rebar prices remain steady between PKR 220,000- 225,000/t (US$786-US$804/t). BANGLADESH In Bangladesh, procurement remains highly selective as the industry navigates liquidity constraints and final election preparations. Buying interest for Australian-origin scrap is currently indicated at US$350-US$355/t CFR for HMS 80:20 and US$365-US$370/t for shredded. Regional supply remains a key factor, with Hong Kong-origin PNS quoted at US$365-US$370/t CFR and Malaysian busheling at US$370/t. Overall activity is characterised by "hand-to-mouth" purchasing as mills wait for post-election stability before committing to larger bulk cargoes.
+| CURRENCY | January 23 | January 16 | W-O-W % CHANGE |
+| --- | --- | --- | --- |
+| USD / CNY (CHINA) | 6.96 | 6.96 | 0 |
+| USD / BDT (BANGLADESH) | 122.32 | 122.28 | -0.03% |
+| USD / INR (INDIA) | 91.63 | 90.34 | -1.43% |
+| USD / PKR (PAKISTAN) | 279.88 | 279.9 | +0.01% |
+| USD / TRY (TURKEY) | 43.39 | 43.18 | -0.49% |
+
+# Sub-Continent and Turkey ferrous scrap markets insights
+
+# INDIA
+
+The Indian imported scrap market remains subdued as steelmakers show little urgency for new bookings. Buying interest is heavily tempered by currency pressures, with the exchange rate reaching nearly INR 91.50/$ . Indicative levels for shredded scrap are hovering between US$345–US$348/t CFR, while HMS 80:20 and 90:10 is attracting bids in the US$320–US$322/t CFR range. There is a notable $5/t premium for West Coast deliveries. Recent transactions include Canada-origin shredded scrap sold at US$362/t CFR Nhava Sheva, while Australian-origin HMS 80:20 is currently indicated at US$330–US$335/t CFR.
+
+# PAKISTAN
+
+Pakistan's market reflects a wide price gap between different supply origins. UAE-origin shredded scrap is commanding a premium, with buying levels around US$378–$380/t and offers reaching as high as US$390/t CFR Qasim. In contrast, EU-origin shredded material is seeing tradable levels near US$372–$373/t CFR. Despite the current selectivity, market analysts expect upward price pressure in the coming weeks due to rising freight costs—driven by longer alternative shipping routes—and firming export demand. Domestically, Punjab and KPK rebar prices remain steady between PKR 220,000–225,000/t (US$786–US$804/t).
+
+# BANGLADESH
+
+In Bangladesh, procurement remains highly selective as the industry navigates liquidity constraints and final election preparations. Buying interest for Australian-origin scrap is currently indicated at US$350–US$355/t CFR for HMS 80:20 and US$365–US$370/t for shredded. Regional supply remains a key factor, with Hong Kong-origin PNS quoted at US$365–US$370/t CFR and Malaysian busheling at US$370/t. Overall activity is characterised by "hand-to-mouth" purchasing as mills wait for post-election stability before committing to larger bulk cargoes.
 
 ## Page 17
 

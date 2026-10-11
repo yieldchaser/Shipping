@@ -256,36 +256,62 @@ Bangladesh outlook remains hesitant, with buyers strategically shifting their fo
 
 with a 1.25 million tons per year capacity for rebar in coil and wire rod production. With over half the site already developed and plans for a dedicated jetty on the Sandwip Channel, this advancement may eventually provide new opportunities for the region.
 
-Gadani
+Anchorage & Beaching Position (MARCH 2025)
 
-Gadani is showing signs of life despite broader challenges in the local steel market. Despite these indicators, the sector continues to face considerable financial constraints that limit its growth potential. Ongoing restrictions on L/Cs mean only a few buyers have the capacity to secure financing for larger vessels, potentially hindering deals for more substantial tonnage. This financial challenge is further reflected in the recent US$152 million decrease in foreign exchange reserves held by the State Bank of Pakistan, which fell to US$11 billion due to external debt repayments, even as the central bank engaged in large-scale dollar purchases from the banking market to mitigate these pressures.
+| VESSEL NAME | TYPE | LDT | ARRIVAL | BEACHING |
+| --- | --- | --- | --- | --- |
+| SUNGHO | GENERAL CARO | 2,345 | 13.03.2024 | AWAITING |
+| BEST UNITY | BULKER | 9,826 | 13.03.2024 | AWAITING |
+| TASOS | BULKER | 10,738 | 11.03.2024 | AWAITING |
+| RUN FU 7 | BULKER | 6,977 | 10.03.2024 | AWAITING |
+| TRADER III | LNG | 29,101 | 10.03.2024 | AWAITING |
+| THREE STAR | BULKER | 7,627 | 23.01.2025 | AWAITING |
+| GENERALIS | GENERAL CARGO | 3,311 | 14.02.2025 | 12.03.2024 |
+| BANGLAR JYOTI | TANKER | 3,787 | - | 11.03.2024 |
+| BANGLAR SHOURAV | TANKER | 3,740 | - | 10.03.2024 |
+
+# Gadani
+
+Gadani is showing signs of life despite broader challenges in the local steel market. Despite these indicators, the sector continues to face considerable financial constraints that limit its growth potential. Ongoing restrictions on L/Cs mean only a few buyers have the capacity to secure financing for larger vessels, potentially hindering deals for more substantial tonnage.
+
+This financial challenge is further reflected in the recent US$152 million decrease in foreign exchange reserves held by the State Bank of Pakistan, which fell to US$11 billion due to external debt repayments, even as the central bank engaged in large-scale dollar purchases from the banking market to mitigate these pressures.
+
+Anchorage & Beaching Position (MARCH 2025)
+
+| VESSEL NAME | TYPE | LDT | ARRIVAL | BEACHING |
+| --- | --- | --- | --- | --- |
+| - | - | - | - | - |
 
 ## Page 16
 
-Aliaga, Turkey
+# Aliaga, Turkey
 
-Turkish recycling sector saw positive momentum as domestic scrap prices continue to rise in alignment with higher imported scrap values. Despite this gain, mills are facing resistance in the international market, finding suppliers' offers for imported scrap largely unaffordable given current poor steel sales performance. Outlook at the moment remains uncertain with no clear direction.
+Turkish recycling sector saw positive momentum as domestic scrap prices continue to rise in alignment with higher imported scrap values. Despite this gain, mills are facing resistance in the international market, finding suppliers' offers for imported scrap largely unaffordable given current poor steel sales performance.
 
----
+Outlook at the moment remains uncertain with no clear direction.
 
-Chattogram, Bangladesh : 14 ~ 17 March | 29 March ~ 01 April Alang, India : 13 ~ 18 March | 27 ~ 31 March
+# BEACHING TIDE DATES 2025
 
----
+Chattogram, Bangladesh : 14 ~ 17 March | 29 March ~ 01 April
 
-BUNKER PRICES (USD/ton)
+Alang, India
+
+: 13 ~ 18 March | 27 ~ 31 March
+
+#### BUNKER PRICES (USD/ton)
 
 | PORTS | VLSFO (0.5%) | HSFO (3.5%) | MGO (0.1%) |
-|---|---|---|---|
+| --- | --- | --- | --- |
 | SINGAPORE | 504 | 458 | 640 |
 | HONG KONG | 516 | 475 | 653 |
 | FUJAIRAH | 507 | 457 | 743 |
 | ROTTERDAM | 500 | 433 | 637 |
 | HOUSTON | 523 | 437 | 686 |
 
-EXCHANGE RATES
+#### EXCHANGE RATES
 
 | CURRENCY | March 14 | March 7 | W-O-W % CHANGE |
-|---|---|---|---|
+| --- | --- | --- | --- |
 | USD / CNY (CHINA) | 7.23 | 7.23 | 0 |
 | USD / BDT (BANGLADESH) | 121.49 | 121.42 | -0.06% |
 | USD / INR (INDIA) | 86.90 | 87.13 | +0.26% |

@@ -44,77 +44,48 @@ The Atlantic has an overall positive market sentiment as ship demand surpasses s
 
 ## Page 3
 
-VESSEL NAME AM GIJON EAST TRADER CAPE STAR KUNO OLDENDORFF HONWIN JAG ROHAN
+# Dry Bulk – S&P Report
 
-TYPE CAPE KAMSARMAX SUPRAMAX HANDY
-
-*\*(amount in USD million)*
-
-INDICES
-
-BDI BCI BPI BSI BHSI
-
-TYPE CAPESIZE PANAMAX SUPRAMAX HANDYSIZE
-
-## Dry Bulk - S&P Report
-
-| TYPE | DWT |
-|---|---|
-| CAPE | 178,462 |
-| CAPE | 175,886 |
-| CAPE | 175,366 |
-| KMAX | 82,206 |
-| SMAX | 57,334 |
-| SMAX | 52,450 |
+| VESSEL NAME | TYPE | DWT | YEAR | BUILT | PRICE (MILLION) USD | COMMENTS / BUYERS |
+| --- | --- | --- | --- | --- | --- | --- |
+| AM GIJON | CAPE | 178,462 | 2011 | JAPAN | 25.75 | ALBERTA SHIP MANAGEMENT |
+| EAST TRADER | CAPE | 175,886 | 2009 | CHINA | 18.2 | DANAOS |
+| CAPE STAR | CAPE | 175,366 | 2010 | CHINA | 21.5 | CHINESE BUYERS |
+| KUNO OLDENDORFF | KMAX | 82,206 | 2022 | CHINA | 32.5 | GREEK BUYERS |
+| HONWIN | SMAX | 57,334 | 2009 | S. KOREA | 15.0 | PETRO VIETNAM |
+| JAG ROHAN | SMAX | 52,450 | 2006 | CEBU | 9.25 | CHINESE BUYERS |
 
 ## Dry Bulk Values
 
-DWT NB CONTRACT 180,000 64 82,000 35 56,000 33 38,000 30
+(Weekly)
+
+| TYPE | DWT | NB CONTRACT | NB PROMPT DELIVERY | 5 YEARS | 10 YEARS | 15 YEARS |
+| --- | --- | --- | --- | --- | --- | --- |
+| CAPE | 180,000 | 64 | 62 | 47 | 29 | 13 |
+| KAMSARMAX | 82,000 | 35 | 37 | 32 | 22 | 8 |
+| SUPRAMAX | 56,000 | 33 | 35 | 28 | 20 | 7 |
+| HANDY | 38,000 | 30 | 32 | 25 | 16 | 6 |
+
+* (amount in USD million)
 
 ## Baltic Exchange Dry Bulk Indices
 
-CURRENT LAST WEEK 1,935 1,827 3,278 2,982 1,593 1,592 1,266 1,236 684 674
+| INDICES | CURRENT | LAST WEEK | LAST YEAR | W-O-W CHANGE | Y-O-Y CHANGE |
+| --- | --- | --- | --- | --- | --- |
+| BDI | 1,935 | 1,827 | 1,838 | +5.91% | +5.28% |
+| BCI | 3,278 | 2,982 | 2,166 | +9.93% | +51.34% |
+| BPI | 1,593 | 1,592 | 2,081 | +0.06% | -23.45% |
+| BSI | 1,266 | 1,236 | 1,690 | +2.43% | -25.09% |
+| BHSI | 684 | 674 | 1,012 | +1.48% | -32.41% |
 
-YEAR 2011 2009 2010 2022 2009 2006
+# Bulker 12 months T/C rates average (in USD/day)
 
-BUILT JAPAN
-
-CHINA CHINA CHINA S. KOREA
-
-CEBU
-
-PRICE (MILLION) USD 25.75 18.2 21.5 32.5 15.0 9.25
-
-COMMENTS / BUYERS ALBERTA SHIP MANAGEMENT DANAOS CHINESE BUYERS GREEK BUYERS PETRO VIETNAM CHINESE BUYERS
-
-(Weekly)
-
-| NB PROMPT DELIVERY | 5 YEARS | 10 YEARS | 15 YEARS |
-|---|---|---|---|
-| 62 | 47 | 29 | 13 |
-| 37 | 32 | 22 | 8 |
-| 35 | 28 | 20 | 7 |
-| 32 | 25 | 16 | 6 |
-
-LAST YEAR
-
-1,838 2,166 2,081 1,690 1,012
-
-15,000 12,600 11,750 11,750
-
-LAST YEAR
-
-15,250 15,800 15,350 13,500
-
-W-O-W CHANGE Y-O-Y CHANGE +5.91% +5.28% +9.93% +51.34% +0.06% -23.45% +2.43% -25.09% +1.48% -32.41%
-
-(in USD/day)
-
-W-O-W CHANGE Y-O-Y CHANGE
-
-0 -1.64% -0.40% -20.57% -2.13% -25.08%
-
-+2.13% -11.11%
+| TYPE | DWT | CURRENT | LAST WEEK | LAST YEAR | W-O-W CHANGE | Y-O-Y CHANGE |
+| --- | --- | --- | --- | --- | --- | --- |
+| CAPESIZE | 180,000 | 15,000 | 15,000 | 15,250 | 0 | -1.64% |
+| PANAMAX | 75,000 | 12,550 | 12,600 | 15,800 | -0.40% | -20.57% |
+| SUPRAMAX | 58,000 | 11,500 | 11,750 | 15,350 | -2.13% | -25.08% |
+| HANDYSIZE | 38,000 | 12,000 | 11,750 | 13,500 | +2.13% | -11.11% |
 
 ## Page 4
 
@@ -303,22 +274,28 @@ A sharp decline in domestic ship scrap prices has significantly dampened enthusi
 
 Going forward, Pakistani recyclers have taken a back seat at the prevailing price levels as they cannot compete with their neighbours.
 
-Aliaga, Turkey
+### Anchorage & Beaching Position (October 2023)
 
-Turkish mills have maintained their domestic scrap buying prices despite the lira weakening against the dollar, with imported scrap prices facing pressure due to excess supply over demand. Few mills showed interest in scrap mid-week, but the growing availability of offers from various regions pushes scrap prices down. Following recent EUorigin bookings, European suppliers offer HMS 1&2 80:20 at US$360/t CFR Turkey, while Turkish mills aim below US$355/ton CFR. Suppliers expect Turkish mills to raise purchasing prices in the domestic scrap market due to the accelerated depreciation of the lira post-war outbreak. Shipbreaking scrap prices range from US$365-376/t delivered, depending on Western Turkish mills' needs. The lira closes at 27.80 per dollar.
+| VESSEL NAME | TYPE | LDT | ARRIVAL | BEACHING |
+| --- | --- | --- | --- | --- |
+| NIKOS | BULKER | 9,743 | 02.10.2023 | 03.10.2023 |
 
----
+### Aliaga, Turkey
 
-Chattogram, Bangladesh : 13 ~ 16 October | 27 ~ 30 October Alang, India : 14 ~ 20 October | 26 October ~ 03 November
+Turkish mills have maintained their domestic scrap buying prices despite the lira weakening against the dollar, with imported scrap prices facing pressure due to excess supply over demand. Few mills showed interest in scrap mid-week, but the growing availability of offers from various regions pushes scrap prices down. Following recent EU-origin bookings, European suppliers offer HMS 1&2 80:20 at US$360/t CFR Turkey, while Turkish mills aim below US$355/ton CFR.
 
----
+Suppliers expect Turkish mills to raise purchasing prices in the domestic scrap market due to the accelerated depreciation of the lira post-war outbreak. Shipbreaking scrap prices range from US$365-376/t delivered, depending on Western Turkish mills' needs. The lira closes at 27.80 per dollar.
 
-BUNKER PRICES (USD/TON)
+BEACHING TIDE DATES 2023
 
-PORTS VLSFO (0.5%) IFO380 CST MGO (0.1%)
+* Chattogram, Bangladesh : 13 ~ 16 October | 27 ~ 30 October
+* Alang, India : 14 ~ 20 October | 26 October ~ 03 November
 
+#### BUNKER PRICES (USD/TON)
+
+| PORTS | VLSFO (0.5%) | IFO380 CST | MGO (0.1%) |
+| --- | --- | --- | --- |
 | SINGAPORE | 660 | 477 | 883 |
-|---|---|---|---|
 | HONG KONG | 654 | 494 | 875 |
 | FUJAIRAH | 643 | 479 | 935 |
 | ROTTERDAM | 602 | 514 | 871 |
@@ -326,15 +303,24 @@ PORTS VLSFO (0.5%) IFO380 CST MGO (0.1%)
 
 ## Page 16
 
+#### EXCHANGE RATES
+
+| CURRENCY | 13th OCTOBER | 6th OCTOBER | W-O-W % CHANGE |
+| --- | --- | --- | --- |
+| USD / CNY (CHINA) | 7.28 | 7.19 | -1.25% |
+| USD / BDT (BANGLADESH) | 110.66 | 110.09 | -0.52% |
+| USD / INR (INDIA) | 83.23 | 83.22 | -0.01% |
+| USD / PKR (PAKISTAN) | 277.44 | 283.83 | +2.25% |
+| USD / TRY (TURKEY) | 27.80 | 27.56 | -0.87% |
+
 ## HMS 1/2 & Tangshan Billet
 
 ## Commodities
+### Insight
 
-Insight
+Copper saw an initial rise in early trading, benefiting from a boost in risk assets following less hawkish comments from the Fed. Positive reports of additional fiscal stimulus in China were well-received by the market. However, sentiment took a hit later in the session due to increased copper inventories. Stockpiles on the LME reached 181.2kt, their highest level in nearly two years. This increase coincided with a deteriorating demand outlook in traditional sectors like construction, further exacerbated by a stronger USD, which posed challenges for the base metals sector.
 
-**Copper saw an initial rise in early trading, benefiting from a boost in risk assets following**
-
-less hawkish comments from the Fed. Positive reports of additional fiscal stimulus in China were well-received by the market. However, sentiment took a hit later in the session due to increased copper inventories. Stockpiles on the LME reached 181.2kt, their highest level in nearly two years. This increase coincided with a deteriorating demand outlook in traditional sectors like construction, further exacerbated by a stronger USD, which posed challenges for the base metals sector. On the other hand, Iron ore futures saw an uptick in price despite production cuts by Chinese steel mills. These cuts were implemented to support steel prices, which had experienced significant declines in recent months. However, iron ore prices rose following Australia's decision to reintroduce a list of critical minerals, hinting that domestically abundant commodities like iron ore might be added.
+On the other hand, Iron ore futures saw an uptick in price despite production cuts by Chinese steel mills. These cuts were implemented to support steel prices, which had experienced significant declines in recent months. However, iron ore prices rose following Australia's decision to reintroduce a list of critical minerals, hinting that domestically abundant commodities like iron ore might be added.
 
 ## Page 17
 

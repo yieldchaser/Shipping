@@ -51,21 +51,11 @@ Supermajors and national oil companies continue to account for the majority of h
 
 ### High Impact Exploration Performance
 
-| Year | Gas | Oil | CSR | TSR |
-| ---- | --- | --- | --- | --- |
-| 2019 | 450 | 150 | 30% | 40% |
-| 2020 | 200 | 350 | 25% | 38% |
-| 2021 | 300 | 150 | 20% | 42% |
-| 2022 | 250 | 300 | 30% | 35% |
-| 2023 | 100 | 120 | 15% | 25% |
+> **Chart not transcribed.** The figure prints no values; the table the parser estimated from the image was removed. See the source PDF.
 
 ### Most Active High Impact Explorers 2019-2023
 
-| Category   | Finding Cost $/boe | Commercial Success Rate |
-| ---------- | ------------------ | ----------------------- |
-| Mid-Large  | 8.5                | 65%                     |
-| NOC        | 10.2               | 72%                     |
-| Supermajor | 12.0               | 78%                     |
+> **Chart not transcribed.** The figure prints no values; the table the parser estimated from the image was removed. See the source PDF.
 
 *Source: Westwood Global Energy Group - State of Exploration Report 2024*
 *Left - High impact exploration discovered resource & success rates, 2019-2023*
@@ -111,11 +101,9 @@ Tidewater's Sun Tide and Sygna Tide have both had their contracts with Equinor e
 
 Rem Crusader (c/o G. Saunders)
 
-<img src="https://i.imgur.com/placeholder1.jpg" alt="Rem Crusader">
 
 Viking Energy (c/o O. Halland)
 
-<img src="https://i.imgur.com/placeholder2.jpg" alt="Viking Energy">
 
 Asso Trentuno (c/o Capt. J. Plug)
 
@@ -161,38 +149,40 @@ Since that point, DOF and Solstad have both confirmed the award of one more cont
 
 ## JUNE 2024 - DAILY NORTH SEA OSV AVAILABILITY
 
+> **Read from the chart.** The report prints no numbers for this chart; each value is the chart line's node for that day, converted with the printed axis labels (vector geometry, not an eyeball estimate).
+
 | Date | PSV 2024 | PSV 2023 | AHTS 2024 | AHTS 2023 |
-| ---- | -------- | -------- | --------- | --------- |
-| 1    | 7        | 3        | 5         | 5         |
-| 2    | 7.5      | 4        | 8         | 8         |
-| 3    | 8.5      | 3        | 5         | 4         |
-| 4    | 8        | 3        | 4         | 4         |
-| 5    | 8        | 4        | 5         | 5         |
-| 6    | 8        | 3        | 4         | 4         |
-| 7    | 9        | 3        | 8         | 5         |
-| 8    | 9        | 4        | 4         | 5         |
-| 9    | 9        | 5        | 4         | 13        |
-| 10   | 9        | 6        | 4         | 14        |
-| 11   | 8        | 6        | 4         | 14        |
-| 12   | 6        | 6        | 4         | 14        |
-| 13   | 1        | 5        | 4         | 14        |
-| 14   | 1        | 5        | 4         | 14        |
-| 15   | 5        | 6        | 5         | 12        |
-| 16   | 5        | 6        | 5         | 13        |
-| 17   | 3        | 6        | 5         | 13        |
-| 18   | 1        | 5        | 5         | 12        |
-| 19   | 1        | 3        | 5         | 10        |
-| 20   | 3        | 3        | 12        | 14        |
-| 21   | 3        | 3        | 12        | 14        |
-| 22   | 3        | 4        | 3         | 10        |
-| 23   | 4        | 5        | 3         | 8         |
-| 24   | 4        | 5        | 6         | 7         |
-| 25   | 6        | 6        | 10        | 7         |
-| 26   | 5        | 6        | 7         | 7         |
-| 27   | 5        | 6        | 6         | 7         |
-| 28   | 5        | 7        | 6         | 7         |
-| 29   | 5        | 6        | 6         | 7         |
-| 30   | 5        | 6        | 5         | 7         |
+| --- | --- | --- | --- | --- |
+| 1 | 7 | 3 | 5 | 5 |
+| 2 | 8 | 5 | 5 | 8 |
+| 3 | 8 | 5 | 5 | 7 |
+| 4 | 9 | 4 | 6 | 5 |
+| 5 | 8 | 4 | 5 | 4 |
+| 6 | 8 | 3 | 5 | 6 |
+| 7 | 9 | 3 | 8 | 6 |
+| 8 | 9 | 4 | 7 | 6 |
+| 9 | 9 | 4 | 5 | 12 |
+| 10 | 9 | 5 | 4 | 13 |
+| 11 | 7 | 5 | 4 | 13 |
+| 12 | 6 | 6 | 4 | 14 |
+| 13 | 1 | 6 | 4 | 14 |
+| 14 | 2 | 6 | 5 | 14 |
+| 15 | 2 | 6 | 5 | 12 |
+| 16 | 3 | 6 | 5 | 13 |
+| 17 | 3 | 5 | 5 | 13 |
+| 18 | 1 | 4 | 6 | 13 |
+| 19 | 1 | 3 | 9 | 13 |
+| 20 | 2 | 3 | 10 | 14 |
+| 21 | 3 | 5 | 12 | 14 |
+| 22 | 3 | 5 | 10 | 13 |
+| 23 | 4 | 5 | 9 | 12 |
+| 24 | 4 | 5 | 7 | 11 |
+| 25 | 6 | 6 | 10 | 10 |
+| 26 | 5 | 6 | 8 | 9 |
+| 27 | 5 | 6 | 8 | 8 |
+| 28 | 5 | 6 | 6 | 7 |
+| 29 | 5 | 8 | 6 | 8 |
+| 30 | 5 | 6 | 5 | 7 |
 
 ## NORTH SEA SPOT AVERAGE UTILISATION JUNE 2024
 

@@ -170,20 +170,41 @@ The SCFI surged 155 points to 2,726.48-it’s highest in two years-as an early p
 
 ## Page 10
 
-### Ship Recycling - Current Market Snapshot (USD / LDT)
+# SHIP RECYCLING
 
-| DESTINATION | TANKERS | BULKERS | GENERAL CARGO | CONTAINERS | OUTLOOK / SENTIMENTS |
-| :--- | :---: | :---: | :---: | :---: | :---: |
+Current Market Snapshot (USD / LDT)
+
+| DESTINATION | TANKERS | BULKERS | GEN. CARGO | CONTAINERS | OUTLOOK |
+| --- | --- | --- | --- | --- | --- |
 | ALANG, INDIA | $420-430 | $410-420 | $400-410 | $450-460 | STABLE / |
 | CHATTOGRAM, BANGLADESH | $470-480 | $460-470 | $430-440 | $500-510 | STABLE / |
 | GADDANI, PAKISTAN | $430-440 | $420-430 | $410-420 | $440-450 | STABLE / |
-| ALIAGA, TURKEY | $300-310 | $290-300 | $270-280 | $310-320 | STABLE / |
+| ALIAGA, TURKEY* | $300-310 | $290-300 | $270-280 | $310-320 | STABLE / |
 
-### Demolition - Reported Sales
+* Turkey prices for non-EU ships. EU vessels approx. US$20–30/ton less.
 
-| DELIVERY / TERMS |
-| --- |
-| No reported sales this week |
+All prices are USD per light displacement tonnage (long ton), net prices offered by recycling yards. Premiums apply based on spares quality, non-ferrous content, bunkers, cargo history, and maintenance. Basis simple Japanese/Korean-built tonnages.
+
+• All prices are USD per light displacement tonnage in the long ton.
+
+• The prices reported are net prices offered by the recycling yards.
+
+• Prices quoted are basis simple Japanese / Korean-built tonnages trading units. Premiums are paid on top of the above-quoted prices based on quality & quality of Spares, Non-Fe., bunkers, cargo history, and maintenance.
+
+5-Year Historical Average Prices (Week 23)
+
+| DESTINATION | 2021 | 2022 | 2023 | 2024 | 2025 |
+| --- | --- | --- | --- | --- | --- |
+| ALANG, INDIA | 510 | 570 | 530 | 540 | 450 |
+| CHATTOGRAM, BANGLADESH | 510 | 620 | 570 | 520 | 465 |
+| GADDANI, PAKISTAN | 540 | 560 | 0 | 520 | 440 |
+| ALIAGA, TURKEY | 300 | 310 | 320 | 360 | 270 |
+
+Reported Sales
+
+| VESSEL NAME | TYPE | LDT | YEAR / BUILT | PRICE (US/LDT) | COMMENTS |
+| --- | --- | --- | --- | --- | --- |
+| - | - | - | - | - | - |
 
 ## Page 11
 
@@ -226,17 +247,21 @@ Copper futures staged a modest recovery, rising 0.8% to settle at US$13,932/ton,
 
 ## Page 15
 
+near-term demand projections.
+
+On the energy and raw materials front, coal prices previously climbed above US$119/ton as energy security needs took precedence, yet the industry anticipates a structural transition as China's domestic coal production faces its first contraction since 2016 due to stricter capacity discipline and a 7% output scale-back in regions like Shanxi. This shift coincides with pronounced weakness in the steel sector, where iron ore futures in Singapore fell 3.4% for the week to a low of US$100.85/ton, marking their lowest point since early March. This pressure is intensified by a seasonal consumption lull in Chinese construction, deteriorating mill margins, and an expected influx of end-of-quarter shipments from major miners in Australia and Brazil, which has already pushed portside stockpiles across 47 Chinese ports up by 4.2 million tons to keep global supply highly abundant.
+
 ### Iron Ore
 
 | COMMODITY (USD/MT) | GRADE | THIS WEEK | LAST WEEK | LAST YEAR | WoW | YoY |
-| :--- | :--- | :---: | :---: | :---: | :---: | :---: |
+| --- | --- | --- | --- | --- | --- | --- |
 | Iron Ore Lumps, CNF Rizhao | Fe 64/63% (S. Africa) | $111 | $115 | $98 | -3.47% | 13.26% |
 | Iron Ore Fines, CNF Qingdao | Fe 62.5% (Brazil) | $101 | $105 | $96 | -3.80% | 5.20% |
 
 ### Industrial Metal Rates
 
 | INDEX | UNITS | PRICE | CHANGE | % CHANGE | CONTRACT |
-| :--- | :--- | :---: | :---: | :---: | :---: |
+| --- | --- | --- | --- | --- | --- |
 | Copper (Comex) | USD / lb. | 628.45 | -25.05 | -3.83% | JUL 2026 |
 | 3Mo Copper (LME) | USD / MT | 13,519.50 | -412.50 | -2.96% | N/A |
 | 3Mo Aluminium (LME) | USD / MT | 3,592.00 | -74.00 | -2.02% | N/A |
@@ -246,20 +271,39 @@ Copper futures staged a modest recovery, rising 0.8% to settle at US$13,932/ton,
 ### Crude Oil & Natural Gas
 
 | INDEX | UNITS | PRICE | CHANGE | % CHANGE | CONTRACT |
-| :--- | :--- | :---: | :---: | :---: | :---: |
+| --- | --- | --- | --- | --- | --- |
 | WTI Crude Oil (Nymex) | USD / bbl. | 90.54 | -2.50 | -2.69% | JUL 2026 |
 | Brent Crude (ICE) | USD / bbl. | 93.09 | -1.94 | -2.04% | AUG 2026 |
 | Crude Oil (Tokyo) | JPY / kl | 93,600.00 | -2,540.00 | -2.64% | JUN 2026 |
 | Natural Gas (Nymex) | USD / MMBtu | 3.23 | -0.11 | -3.21% | JUL 2026 |
 
+* All rates at C.O.B. London time, June 6th, 2026
+
 ## Page 16
+
+Exchange Rates
+
+| CURRENCY PAIR | JUNE 5 | MAY 29 | WoW % |
+| --- | --- | --- | --- |
+| USD / CNY (China) | 6.77 | 6.76 | -0.15% |
+| USD / BDT (Bangladesh) | 122.91 | 122.73 | -0.15% |
+| USD / INR (India) | 95.17 | 94.85 | -0.34% |
+| USD / PKR (Pakistan) | 278.48 | 278.46 | -0.01% |
+| USD / TRY (Turkey) | 46.08 | 45.89 | -0.41% |
 
 ### Bunker Prices (USD / ton)
 
 | PORT | VLSFO (0.5%) | HSFO (3.5%) | MGO (0.1%) |
-| :--- | :---: | :---: | :---: |
+| --- | --- | --- | --- |
 | SINGAPORE | $784 | $634 | $1,083 |
 | HONG KONG | $852 | $669 | $1,105 |
 | FUJAIRAH | $960 | $665 | $1,496 |
 | ROTTERDAM | $719 | $622 | $1,090 |
 | HOUSTON | $793 | $674 | $1,134 |
+
+# Singapore | London | Dubai
+
+For Privacy Policy
+
+This report is performed to the best of our knowledge based on the market conditions prevailing at the time mentioned. The report relates solely to the date/place referred to, and we emphasise that it is a statement of information collected from various market sources. All details above are from information given to us and such information as we have obtained from relevant references in our possession. Still, we can accept no responsibility, and we bear no liability for any loss or damage incurred to any person acting upon this report. STAR ASIA believes the information to be accurate and given in good faith but without guarantee. STAR ASIA will not be held responsible in any way for any action or failure to act based on the information given in this report. The use of the report cannot be reproduced or used without authorisation from STAR ASIA.
+

@@ -101,15 +101,35 @@ The West African Suezmax market started the week on a weak note due to sluggish 
 
 ## Page 6
 
-Aframax:
+# Aframax:
 
 Despite the positive influence from larger crude tankers, the Middle East saw declines throughout the week. In the Med market, activities were noted with the tonnage list balancing out. 80,000mt Ceyhan/Lavera close at WS125.
 
-Clean:
+# Clean:
 
-LR: The LR2 Middle East market remained steady, holding firm against the seasonal summer freight rate decline with consistent fixtures. TC1 however fell slightly closing at WS130. The LR1 on the other hand, saw rates in the MEG remain stable. TC5 closes at WS126. MR: The MR market experienced mixed conditions this week. Rates in the Med and UKC softened with TC2 falling 10 points to WS119. Meanwhile the MEG market improved from last with TC17 climbing 3 points to WS204.
+LR: The LR2 Middle East market remained steady, holding firm against the seasonal summer freight rate decline with consistent fixtures. TC1 however fell slightly closing at WS130. The LR1 on the other hand, saw rates in the MEG remain stable. TC5 closes at WS126.
+
+MR: The MR market experienced mixed conditions this week. Rates in the Med and UKC softened with TC2 falling 10 points to WS119. Meanwhile the MEG market improved from last with TC17 climbing 3 points to WS204.
 
 ## Baltic Exchange Tanker Indices
+
+| INDICES | CURRENT | LAST WEEK | LAST YEAR | W-O-W CHANGE | Y-O-Y CHANGE |
+| --- | --- | --- | --- | --- | --- |
+| BDTI | 920 | 936 | 809 | -1.71% | +13.72% |
+| BCTI | 652 | 625 | 750 | +4.32% | -13.07% |
+
+# Tankers Values
+
+(Weekly)
+
+| TYPE | DWT | NB CONTRACT | NB PROMPT DELIVERY | 5 YEARS | 10 YEARS | 15 YEARS |
+| --- | --- | --- | --- | --- | --- | --- |
+| VLCC | 310,000 | 129 | 145 | 115 | 85 | 58 |
+| SUEZMAX | 160,000 | 90 | 99 | 83 | 68 | 50 |
+| AFRAMAX | 115,000 | 75 | 86 | 72 | 62 | 44 |
+| LR1 | 73,000 | 62 | 68 | 58 | 48 | 32 |
+| MR | 51,000 | 52 | 55 | 50 | 41 | 28 |
+| *(amount in USD million) | *(amount in USD million) | *(amount in USD million) | *(amount in USD million) | *(amount in USD million) | *(amount in USD million) | *(amount in USD million) |
 
 ## Page 7
 

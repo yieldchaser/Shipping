@@ -101,21 +101,35 @@ The West Africa market firmed this week and closed higher around WS145 range aft
 
 ## Page 6
 
-Aframax:
+# Aframax:
 
 The Middle East market was active in spot trading, driven by an expansion in fuel oil volume and consecutive voyages secured by traders. In the Mediterranean, 80,000mt Ceyhan/Lavera saw a slight climb on Friday, closing at WS202.
 
-Clean:
+# Clean:
 
-**LR: The Middle East LR2 market improved this week with TC1 climbing 38 points from last**
+LR: The Middle East LR2 market improved this week with TC1 climbing 38 points from last week to WS141. As demand for early November cargo aided in the tightening of the rates. In the LR1, the positive sentiments were shared with TC5 MEG/Japan closing higher at WS150.
 
-week to WS141. As demand for early November cargo aided in the tightening of the rates. In the LR1, the positive sentiments were shared with TC5 MEG/Japan closing higher at WS150.
-
-**MR: Given the current stagnation in demand, MEG market remains flat with TC17**
-
-MEG/E.Africa remaining around WS210 range. In the USG, rates saw a downturn with TC14 USG/UKC falling some 16 points to WS184.
+MR: Given the current stagnation in demand, MEG market remains flat with TC17 MEG/E.Africa remaining around WS210 range. In the USG, rates saw a downturn with TC14 USG/UKC falling some 16 points to WS184.
 
 ## Baltic Exchange Tanker Indices
+
+| INDICES | CURRENT | LAST WEEK | LAST YEAR | W-O-W CHANGE | Y-O-Y CHANGE |
+| --- | --- | --- | --- | --- | --- |
+| BDTI | 1,436 | 1,234 | 957 | +16.37% | +50.05% |
+| BCTI | 627 | 642 | 524 | -2.34% | +19.66% |
+
+# Tankers Values
+
+(Weekly)
+
+| TYPE | DWT | NB CONTRACT | NB PROMPT DELIVERY | 5 YEARS | 10 YEARS | 15 YEARS |
+| --- | --- | --- | --- | --- | --- | --- |
+| VLCC | 310,000 | 126 | 147 | 116 (E) | 85(E) | 51 |
+| SUEZMAX | 160,000 | 86 | 93 | 77 (E) | 61 (E) | 40 |
+| AFRAMAX | 115,000 | 75 | 75 | 64 (E) | 50 (E) | 35 |
+| LR1 | 73,000 | 60 | 62 | 51 (E) | 42 (E) | 25 |
+| MR | 51,000 | 49 | 52 | 41 (E) | 31 (E) | 21 |
+| *(amount in USD million) I (E) – eco units | *(amount in USD million) I (E) – eco units | *(amount in USD million) I (E) – eco units | *(amount in USD million) I (E) – eco units | *(amount in USD million) I (E) – eco units | *(amount in USD million) I (E) – eco units | *(amount in USD million) I (E) – eco units |
 
 ## Page 7
 
@@ -225,35 +239,78 @@ The market in Bangladesh remains quiet, with only some activity happening this w
 
 ## Page 15
 
-Gadani
+Anchorage & Beaching Position (October 2025)
 
-This week, Pakistan markets remain under strain, mirroring the weakness found across the wider region, with activity levels and overall market demand notably low. This is primarily a result of the domestic steel market being flooded with low-priced imported steel, which has severely undercut demand for recycled scrap. As a result, prices offered for incoming scrap vessels have dropped further, intensifying the pressure on recyclers.
+| VESSEL NAME | TYPE | LDT | ARRIVAL | BEACHING |
+| --- | --- | --- | --- | --- |
+| ANG | BARGE | 2,630 | 27.10.2025 | AWAITING |
+| ANG HO | PUSHER TUG | 493 | 27.10.2025 | AWAITING |
+| S OAK | CONTAINER | 2,261 | 20.10.2025 | 24.10.2025 |
+| SIO | BULKER | 6,722 | 19.10.2025 | 19.10.2025 |
+| NIGATA TRADER | CONTAINER | 4,809 | 09.10.2025 | 09.10.2025 |
+| ASIAN ENTERPRISE | GENERAL CARGO | 9,016 | 05.10.2025 | 05.10.2025 |
 
-| Anchorage & Beaching Position (October 2025) VESSEL NAME | Anchorage & Beaching Position (October 2025) TYPE | Anchorage & Beaching Position (October 2025) LDT | Anchorage & Beaching Position (October 2025) ARRIVAL | BEACHING |
-|---|---|---|---|---|
+# Gadani
+
+This week, Pakistan markets remain under strain, mirroring the weakness found across the wider region, with activity levels and overall market demand notably low. This is primarily a result of the domestic steel market being flooded with low-priced imported steel, which has severely undercut demand for recycled scrap.
+
+As a result, prices offered for incoming scrap vessels have dropped further, intensifying the pressure on recyclers.
+
+Anchorage & Beaching Position (October 2025)
+
+| VESSEL NAME | TYPE | LDT | ARRIVAL | BEACHING |
+| --- | --- | --- | --- | --- |
 | ADALYNN | TANKER | 22,000 | 12.10.2025 | 20.10.2025 |
 | AL SAMA | BULKER | 9,484 | 12.10.2025 | AWAITING |
 | EENA 1 | GENERAL CARGO | 1,444 | 27.09.2025 | AWAITING |
-| The Turkish ship recycling No new activity to report. | Aliaga, market remain | Turkey unchanged from | last, in a stable | outlook. |
-|  |  |  |  |  |
-| Chattogram, | Bangladesh : 4 ~ 7 | November \| 18 ~ 21 | November |  |
-| Alang, India | : 4 ~ 11 | November \| 18 ~ | 25 November |  |
 
----
+Aliaga, Turkey
+
+The Turkish ship recycling market remain unchanged from last, in a stable outlook.
+
+No new activity to report.
+
+# BEACHING TIDE DATES 2025
+
+Chattogram, Bangladesh : 4 ~ 7 November | 18 ~ 21 November
+
+Alang, India
+
+: 4 ~ 11 November | 18 ~ 25 November
 
 ## Page 16
 
-Sub-Continent and Turkey ferrous scrap markets insights
+#### BUNKER PRICES (USD/ton)
+
+| PORTS | VLSFO (0.5%) | HSFO (3.5%) | MGO (0.1%) |
+| --- | --- | --- | --- |
+| SINGAPORE | 443 | 378 | 654 |
+| HONG KONG | 469 | 405 | 648 |
+| FUJAIRAH | 432 | 375 | 725 |
+| ROTTERDAM | 412 | 395 | 620 |
+| HOUSTON | 410 | 385 | 620 |
+
+#### EXCHANGE RATES
+
+| CURRENCY | October 31 | October 24 | W-O-W % CHANGE |
+| --- | --- | --- | --- |
+| USD / CNY (CHINA) | 7.11 | 7.12 | +0.14% |
+| USD / BDT (BANGLADESH) | 122.38 | 122.29 | -0.07% |
+| USD / INR (INDIA) | 88.81 | 87.79 | -1.16% |
+| USD / PKR (PAKISTAN) | 280.98 | 283.0 | +0.71% |
+| USD / TRY (TURKEY) | 42.04 | 41.9 | -0.33% |
+
+# Sub-Continent and Turkey ferrous scrap markets insights
 
 The imported ferrous scrap market across South Asia and Turkey remained notably subdued this week. Trading volumes were limited, and prices held largely stable due to persistent weak finished steel demand, ongoing liquidity concerns, and regional holidays. Overall market movement suggests that buyers are largely inactive, having covered their near-term needs or relying on sufficient domestic supply.
 
 ### India
 
-The imported ferrous scrap market in India remained quiet, with limited spot activity and a general lack of buying interest. Indicative offers for shredded scrap were heard in the range of US$340-345/ton, with HMS 80:20 cited at US$325-330/ton. Conversely, the prevailing bids for containerised shredded scrap were reported slightly higher, between US$340-350/ton. The primary factors restraining trade were weak finished steel demand and slow construction activity. Further dampening import appetite was the abundant domestic scrap availability, with one trader noting that the existing "lot of scrap is available in domestic storage; no one is desperate to buy."
+The imported ferrous scrap market in India remained quiet, with limited spot activity and a general lack of buying interest. Indicative offers for shredded scrap were heard in the range of US$340–345/ton, with HMS 80:20 cited at US$325–330/ton. Conversely, the prevailing bids for containerised shredded scrap were reported slightly higher, between US$340–350/ton. The primary factors restraining trade were weak finished steel demand and slow construction activity. Further dampening import appetite was the abundant domestic scrap availability, with one trader noting that the existing "lot of scrap is available in domestic storage; no one is desperate to buy."
 
 ### Pakistan
 
-Pakistan's imported scrap market was similarly muted. Offers for UK/EU-origin shredded scrap were heard between US$356-360/ton CFR, while HMS traded around US$340- 345/ton. Bids for UK-origin shredded were reported slightly lower, at US$350-355/ton
+Pakistan's imported scrap market was similarly muted. Offers for UK/EU-origin shredded scrap were heard between US$356–360/ton CFR, while HMS traded around US$340–345/ton. Bids for UK-origin shredded were reported slightly lower, at US$350–355/ton
 
 ## Page 17
 

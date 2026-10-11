@@ -120,10 +120,12 @@ fierce competition among charterers and caused available tonnage to tighten rapi
 
 ## Page 6
 
+MR: Far East MR market has stabilised from its recent weakness, moving into a flat trend as ample local tonnage is offset by improved market sentiment. This firming floor is largely driven by ongoing geopolitical instability in the Middle East, which continues to provide underlying support to regional freight rates.
+
 ### Baltic Tanker Indices
 
 | BDTI | BCTI |
-| :---: | :---: |
+| --- | --- |
 | 2,502 | 1,342 |
 | WoW: +10.32% | WoW: +11.83% |
 | YoY: +183.67% | YoY: +108.39% |
@@ -131,17 +133,20 @@ fierce competition among charterers and caused available tonnage to tighten rapi
 ### Vessel Values (USD Million)
 
 | TYPE | DWT | NB CONTRACT | NB PROMPT | 5 YRS | 10 YRS | 15 YRS |
-| :--- | :---: | :---: | :---: | :---: | :---: | :---: |
+| --- | --- | --- | --- | --- | --- | --- |
 | VLCC | 310,000 | $130M | $175M | $140M (E) | $112M (E) | $62M |
 | SUEZMAX | 160,000 | $90M | $112M | $92M (E) | $80M (E) | $54M |
 | AFRAMAX | 115,000 | $78M | $92M | $78M (E) | $68M (E) | $49M |
 | LR1 | 73,000 | $67M | $72M | $62M (E) | $54M (E) | $32M |
 | MR | 51,000 | $51M | $60M | $49M (E) | $40M (E) | $30M |
 
-### Sale & Purchase - Reported Fixtures
+Sale & Purchase — Reported Fixtures
 
 | VESSEL | TYPE | DWT | YEAR / BUILT | PRICE (USD M) | BUYER |
-| :--- | :---: | :---: | :---: | :---: | :--- |
+| --- | --- | --- | --- | --- | --- |
+| FG ROTTERDAM | PROD / CHEM | 19,995 | 2012 / JAPAN | 22.7 (STST) | UNDISCLOSED |
+| DING HENG 39 | PROD / CHEM | 19,994 | 2008 / JAPAN | 18.3 (STST) | UNDISCLOSED |
+| CNC DREAM | PROD / CHEM | 19,773 | 2004 / JAPAN | 11.5 (STST) | UNDISCLOSED |
 
 ## Page 7
 
@@ -188,24 +193,75 @@ The global container shipping market continued its post-peak correction this wee
 
 ## Page 10
 
-### Ship Recycling - Current Market Snapshot (USD / LDT)
+# SHIP RECYCLING
+
+Current Market Snapshot (USD / LDT)
 
 | DESTINATION | TANKERS | BULKERS | GENERAL CARGO | CONTAINERS | OUTLOOK / SENTIMENTS |
-| :--- | :---: | :---: | :---: | :---: | :---: |
-| ALANG, INDIA | $440-450 | $430-440 | $420-430 | $470-480 | STABLE / |
-| CHATTOGRAM, BANGLADESH | $490-500 | $460-470 | $450-460 | $500-510 | BULLISH / |
-| GADDANI, PAKISTAN | $500-510 | $460-470 | $440-450 | $510-520 | BULLISH / |
-| ALIAGA, TURKEY | $300-310 | $290-300 | $270-280 | $310-320 | STABLE / |
+| --- | --- | --- | --- | --- | --- |
+| ALANG, INDIA | $440-450 | $430-440 | $420-430 | $470-480 | STABLE / ←→ |
+| CHATTOGRAM, BANGLADESH | $490-500 | $460-470 | $450-460 | $500-510 | BULLISH / ↑ |
+| GADDANI, PAKISTAN | $500-510 | $460-470 | $440-450 | $510-520 | BULLISH / ↑ |
+| ALIAGA, TURKEY* | $300-310 | $290-300 | $270-280 | $310-320 | STABLE / ←→ |
 
-### Demolition - Reported Sales
+* Turkey prices for non-EU ships. EU vessels approx. US$20–30/ton less.
 
-| DELIVERY / TERMS |
-| --- |
-| No reported sales this week |
+All prices are USD per light displacement tonnage (long ton), net prices offered by recycling yards. Premiums apply based on spares quality, non-ferrous content, bunkers, cargo history, and maintenance. Basis simple Japanese/Korean-built tonnages.
+
+• All prices are USD per light displacement tonnage in the long ton.
+
+• The prices reported are net prices offered by the recycling yards.
+
+• Prices quoted are basis simple Japanese / Korean-built tonnages trading units. Premiums are paid on top of the above-quoted prices based on quality & quality of Spares, Non-Fe., bunkers, cargo history, and maintenance.
+
+5-Year Historical Average Prices (Week 30)
+
+| DESTINATION | 2021 | 2022 | 2023 | 2024 | 2025 |
+| --- | --- | --- | --- | --- | --- |
+| ALANG, INDIA | 550 | 540 | 500 | 500 | 430 |
+| CHATTOGRAM, BANGLADESH | 590 | 580 | 540 | 510 | 410 |
+| GADDANI, PAKISTAN | 595 | 580 | 0 | 510 | 440 |
+| ALIAGA, TURKEY | 300 | 300 | 300 | 340 | 280 |
+
+Reported Sales
+
+| VESSEL NAME | TYPE | LDT | YEAR / BUILT | PRICE (US/LDT) | COMMENTS |
+| --- | --- | --- | --- | --- | --- |
+| HAI HENG | TANKER | 4,055 | 1999 / GERMANY | 495 | DELIVERED CHATTOGRAM / LAID UP FOR 3 YEARS |
+| STOLT KIKYO | CHEM TANKER | 3,305 | 1998 / JAPAN | UNDISCLOSED | DELIVERED ALANG |
+| THANH THANH DAT 9999 | WOODCHIP | 6,401 | 1998 / JAPAN | 460 | AS IS SINGAPORE WITH BUNKERS ENOUGH TO REACH CHATTOGRAM |
 
 ## Page 11
 
 ## Page 12
+
+# Market Insights
+
+Alang, India: The ship recycling market in Alang saw local steel plate prices firm slightly, driven by a temporary tightness in supply as heavy monsoon rains hampered cutting operations faster than a weakening rupee could offset. However, this price recovery remains fragile, with overall sentiment subdued due to weak domestic demand for finished steel and a quiet conclusion to the mid July tide window as several vessels remain anchored off the coast waiting for the next tide cycle.
+
+The local market dynamics unfold against broader economic headwinds, as escalating Middle East tensions have pushed global crude oil prices over US$100 per barrel and driven the Rupee toward record lows against the USD.
+
+Despite these pressures, the Indian shipbreaking sector received a landmark boost this week through a major regulatory breakthrough from the European Union. In a draft proposal opened for public consultation, the European Commission recommended two Alang recycling facilities, YSI Recyclers and Shree Ram, for inclusion on the official EU list of approved ship recycling yards.
+
+Historically, European regulations have restricted flagged tonnage to facilities within Europe, Turkey, and select non-Asian regions due to environmental and safety concerns; however, years of extensive capital investments and compliance with the Hong Kong International Convention have paved the way for these Indian yards to gain recognition.
+
+Alang Anchorage & Beaching Position — July 2026
+
+| VESSEL | TYPE | LDT | ARRIVAL | BEACHING |
+| --- | --- | --- | --- | --- |
+| ELAN | TANKER | 24,603 | 24.07.2026 | AWAITING |
+| EVA | CHEM. TANKER | 3,152 | 23.07.2026 | AWAITING |
+| PINE ARROW | GENERAL CARGO | 12,574 | 22.07.2026 | AWAITING |
+| STOLT KIKYO | CHEM TANKER | 3,305 | 19.07.2026 | AWAITING |
+| GAUTAM | TUG | 780 | 04.07.2026 | 18.06.2026 |
+| FRIO ANTARTIC | REEFER | 5,685 | 10.07.2026 | 17.07.2026 |
+| VALLANT ROAR | TANKER | 4,155 | 10.07.2026 | 15.07.2026 |
+| SEABAS | TANKER | 9,079 | 10.07.2026 | 13.07.2026 |
+| BATO | FISHING | 3,922 | 08.07.2026 | 11.07.2026 |
+| `SEATURBO | TANKER | 9,080 | 06.07.2026 | 11.06.2026 |
+| WHITE STAR | TANKER | 8,700 | 03.07.2026 | 07.07.2026 |
+| STOLT SYPRESS | CHEM. TANKER | 11,452 | 02.07.2026 | 11.07.2026 |
+| VEGA | RORO | 8,146 | 02.07.2026 | 03.07.2026 |
 
 ## Page 13
 
@@ -333,9 +389,16 @@ shrinking exchange inventories in London and Shanghai as well as a multi-year hi
 ### Bunker Prices (USD / ton)
 
 | PORT | VLSFO (0.5%) | HSFO (3.5%) | MGO (0.1%) |
-| :--- | :---: | :---: | :---: |
+| --- | --- | --- | --- |
 | SINGAPORE | $833 | $626 | $1258 |
 | HONG KONG | $838 | $625 | $1225 |
 | FUJAIRAH | $852 | $626 | $1,372 |
 | ROTTERDAM | $691 | $589 | $1264 |
 | HOUSTON | $748 | $579 | $1265 |
+
+Singapore | London | Dubai
+
+For Privacy Policy
+
+This report is performed to the best of our knowledge based on the market conditions prevailing at the time mentioned. The report relates solely to the date/place referred to, and we emphasise that it is a statement of information collected from various market sources. All details above are from information given to us and such information as we have obtained from relevant references in our possession. Still, we can accept no responsibility, and we bear no liability for any loss or damage incurred to any person acting upon this report. STAR ASIA believes the information to be accurate and given in good faith but without guarantee. STAR ASIA will not be held responsible in any way for any action or failure to act based on the information given in this report. The use of the report cannot be reproduced or used without authorisation from STAR ASIA.
+

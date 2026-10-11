@@ -123,14 +123,13 @@ struggling, T/A levels fell to US$16,225 a day.
 
 ## Page 4
 
-# Baltic Exchange Dry Bulk Indices
+#### BALTIC EXCHANGE DRY BULK INDICES
 
 #### BALTIC EXCHANGE DRY BULK INDICES
 
-CURRENT LAST WEEK LAST YEAR W-O-W CHANGE % Y-O-Y CHANGE %
-
+|  | CURRENT | LAST WEEK | LAST YEAR | W-O-W CHANGE % | Y-O-Y CHANGE % |
+| --- | --- | --- | --- | --- | --- |
 | BDI | 1,560 | 1,895 | 3,371 | -17.68 | -53.72 |
-|---|---|---|---|---|---|
 | BCI | 1,411 | 2,081 | 4,359 | -32.20 | -67.63 |
 | BPI | 1,967 | 2,051 | 3,449 | -4.10 | -42.97 |
 | BSI | 1,700 | 1,971 | 3,010 | -13.75 | -43.52 |
@@ -138,12 +137,14 @@ CURRENT LAST WEEK LAST YEAR W-O-W CHANGE % Y-O-Y CHANGE %
 
 #### BULKER 12 MONTHS T/C RATES AVERAGE (IN USD/DAY)
 
-DWT CURRENT LAST WEEK LAST YEAR W-O-W CHANGE % Y-O-Y CHANGE % CAPE 180,000 15,750 18,625 29,750 -15.44 -47.06
-
+|  | DWT | CURRENT | LAST WEEK | LAST YEAR | W-O-W CHANGE % | Y-O-Y CHANGE % |
+| --- | --- | --- | --- | --- | --- | --- |
+| CAPE | 180,000 | 15,750 | 18,625 | 29,750 | -15.44 | -47.06 |
 | PANAMAX | 75,000 | 16,750 | 17,500 | 24,000 | -4.29 | -30.21 |
-|---|---|---|---|---|---|---|
 | SUPRAMAX | 52,000 | 15,875 | 16,250 | 25,150 | -2.31 | -36.88 |
 | HANDYSIZE | 32,000 | 14,750 | 16,000 | 26,150 | -7.81 | -43.59 |
+
+# Dry Bulk 1 year T/C rates
 
 ## Page 5
 
@@ -173,23 +174,58 @@ U.K.C. MR markets were busy this week, with rates rising due to steady enquiries
 
 # Tankers S&P Report
 
+| VESSEL NAME | TYPE | DWT | YEAR | BUILT | PRICE (MILLION) USD | COMMENTS / BUYERS |
+| --- | --- | --- | --- | --- | --- | --- |
+| TINAT | VLCC | 316,502 | 2002 | S. KOREA | 29.5 | FAR EASTERN BUYERS |
+| KIONI | VLCC | 310,389 | 2004 | JAPAN | 29.5 | UNDISCLOSED |
+| RIDGEBURY LINDY B | SUEZ | 146,356 | 2007 | JAPAN | 33.0 | STEALTH MARITIME |
+| ORACLE | AFRA | 105,380 | 2008 | JAPAN | 28.8 | UNDISCLOSED |
+| PROSPEROUS | AFRA | 105,355 | 2009 | JAPAN | 28.7 | UNDISCLOSED |
+| KARADENIZ POWERSHIP ANATOLIA | LR1 | 72,515 | 2004 | S. KOREA | 13.2 | UNDISCLOSED |
+| GRAND | MR | 50,129 | 2008 | S. KOREA | 19.5 | VIETNAMESE BUYERS |
+| PRIORITY | MR | 46,847 | 2005 | JAPAN | 13.0 | GREEK BUYERS |
+| STEFANIE | MR | 37,248 | 2003 | S. KOREA | 10.8 | UNDISCLOSED |
+| TIGER PERSEVERANCE / TIGER RELIANCE | PROD / CHEM | 12,267 | 2019 | JAPAN | N/A | UNDISCLOSED |
+| LEFTERIS | SMALL | 4,972 | 1997 | CHINA | 3.1 | UNDISCLOSED |
+
+#### Tankers Values
+
+| TANKERS | DWT | NB CONTRACT | NB PROMPT DELIVERY | 5 YEARS | 10 YEARS | 20 YEARS |
+| --- | --- | --- | --- | --- | --- | --- |
+| VLCC | 310,000 | 119 | 109 | 84 | 58 | 33 |
+| SUEZMAX | 160,000 | 79 | 78 | 58 | 42 | 22 |
+| AFRAMAX | 115,000 | 61 | 70 | 55 | 39 | 20 |
+| PANAMAX-LR1 | 73,000 | 53 | 53 | 41 | 27 | 13 |
+| MR TANKER | 51,000 | 43 | 45 | 37 | 26 | 13 |
+
+* (amount in USD million)
+
 ## Page 7
 
 # Baltic Exchange Tanker Indices
 
+#### BALTIC EXCHANGE TANKER INDICES
+
+|  | CURRENT | LAST WEEK | LAST YEAR | W-O-W CHANGE % | Y-O-Y CHANGE % |
+| --- | --- | --- | --- | --- | --- |
+| BDTI | 1,448 | 1,466 | 609 | -1.23 | +137.77 |
+| BCTI | 1,404 | 1,363 | 513 | +3.01 | +173.68 |
+
+#### TANKER 12 MONTHS T/C RATES AVERAGE (IN USD/DAY)
+
+| TYPE | DWT | CURRENT | LAST WEEK | LAST YEAR | W-O-W CHANGE | Y-O-Y CHANGE |
+| --- | --- | --- | --- | --- | --- | --- |
+| VLCC | 300,000 | 19,500 | 19,500 | 19,000 | 0 | +2.63 |
+| SUEZMAX | 150,000 | 25,750 | 25,500 | 16,250 | +0.98 | +58.46 |
+| AFRAMAX | 110,000 | 24,500 | 24,000 | 15,500 | +2.08 | +58.06 |
+| LR1 | 74,000 | 26,750 | 26,500 | 14,750 | +0.94 | +81.36 |
+| MR | 47,000 | 24,000 | 24,000 | 11,750 | 0 | +104.26 |
+
+# Tanker 1 year T/C rates
+
 # Containers
 
-Maersk said on Wednesday that it expects demand for container ships to decline this year
-
-owing to weakening consumer confidence and supply chain bottlenecks. This is related to a
-
-slowdown of demand in several European areas. Furthermore, increased energy and
-
-commodity costs have resulted in a buildup of stockpiles at ports and warehouses. These,
-
-along with different geopolitical challenges, have also contributed to increased supply chain
-
-congestion.
+Maersk said on Wednesday that it expects demand for container ships to decline this year owing to weakening consumer confidence and supply chain bottlenecks. This is related to a slowdown of demand in several European areas. Furthermore, increased energy and commodity costs have resulted in a buildup of stockpiles at ports and warehouses. These, along with different geopolitical challenges, have also contributed to increased supply chain congestion.
 
 ## Page 8
 
@@ -317,15 +353,56 @@ However, market participants noted that the second half of the month would see a
 
 ## Page 15
 
-### Bunker Prices (USD / ton)
+# Bunker Prices
 
-| PORT | VLSFO (0.5%) | HSFO (3.5%) | MGO (0.1%) |
-| :--- | :---: | :---: | :---: |
+#### BUNKER PRICES (USD/TON)
+
+| PORTS | VLSFO (0.5%) | IFO380 CST | MGO (0.1%) |
+| --- | --- | --- | --- |
 | SINGAPORE | 786 | 499 | 1027 |
 | HONG KONG | 799 | 517 | 992 |
 | FUJAIRAH | 882 | 480 | 1222 |
 | ROTTERDAM | 725 | 494 | 1058 |
 | HOUSTON | 772 | 616 | 1035 |
+
+# Exchange Rates
+
+#### EXCHANGE RATES
+
+|  | 6th AUGUST | 29th JULY | W-O-W % CHANGE |
+| --- | --- | --- | --- |
+| USD / CNY (CHINA) | 6.76 | 6.74 | -0.30 |
+| USD / BDT (BANGLADESH) | 94.71 | 94.65 | -0.06 |
+| USD / INR (INDIA) | 79.41 | 79.24 | -0.21 |
+| USD / PKR (PAKISTAN) | 224.31 | 240.09 | +6.57 |
+| USD / TRY (TURKEY) | 17.90 | 17.91 | +0.06 |
+
+# Commodity Price
+
+### HMS 1/2 & Tangshan Billet
+
+HMS 1/2 TURKEY CFR (USD/T)
+700.0
+600.0
+500.0
+400.0
+300.0
+200.0
+100.0
+0.0
+1-Feb-19 1-May-19 1-Aug-19 1-Nov-19 1-Feb-20 1-May-20 1-Aug-20 1-Nov-20 1-Feb-21 1-May-21 1-Aug-21 1-Nov-21 1-Feb-22 1-May-22 1-Aug-22
+
+TANGSHAN BILLET EX-WORKS (CNY/T)
+6000.0
+5500.0
+5000.0
+4500.0
+4000.0
+3500.0
+3000.0
+2500.0
+2000.0
+1-Feb-19 1-May-19 1-Aug-19 1-Nov-19 1-Feb-20 1-May-20 1-Aug-20 1-Nov-20 1-Feb-21 1-May-21 1-Aug-21 1-Nov-21 1-Feb-22 1-May-22 1-Aug-22
 
 ## Page 16
 

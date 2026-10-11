@@ -409,7 +409,7 @@ Healthy newbuilding ordering activity was materialized last week with the bulker
 # Intermodal Demolition Market
 ## Indicative Demolition Prices ($/ldt)
 
-| Markets | Markets | 05/11/2021 | 29/10/2021 | ±% | 2020 | 2019 |
+| Markets | 05/11/2021 | 29/10/2021 | ±% | 2020 | 2019 | 2018 |
 | --- | --- | --- | --- | --- | --- | --- |
 | Tanker |  |  |  |  |  |  |
 | Bangladesh | 620 | 620 | 0.0% | 348 | 410 | 442 |

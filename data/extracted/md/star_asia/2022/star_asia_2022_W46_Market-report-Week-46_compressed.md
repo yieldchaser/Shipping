@@ -95,25 +95,28 @@ as orders and tonnage decreased. However, sentiments overall still remain bleak,
 
 ## Page 4
 
-# Baltic Exchange Dry Bulk Indices
-
 ### BALTIC EXCHANGE DRY BULK INDICES
 
-CURRENT LAST WEEK LAST YEAR W-O-W CHANGE % Y-O-Y CHANGE %
+#### BALTIC EXCHANGE DRY BULK INDICES
 
+|  | CURRENT | LAST WEEK | LAST YEAR | W-O-W CHANGE % | Y-O-Y CHANGE % |
+| --- | --- | --- | --- | --- | --- |
 | BDI | 1,189 | 1,355 | 2,552 | -12.25 | -53.41 |
-|---|---|---|---|---|---|
 | BCI | 1,122 | 1,544 | 3,610 | -27.33 | -68.92 |
 | BPI | 1,594 | 1,637 | 2,282 | -2.63 | -30.15 |
 | BSI | 1,170 | 1,213 | 2,237 | -3.54 | -47.70 |
 | BHSI | 763 | 787 | 1,561 | -3.05 | -51.12 |
-|  | BULKER | 12 MONTHS T/C RATES | AVERAGE (IN | USD/DAY) |  |
-|---|---|---|---|---|---|
-| DWT | CURRENT | LAST WEEK | LAST YEAR | W-O-W CHANGE % | Y-O-Y CHANGE % |
-| 180,000 | 12,500 | 13,250 | 25,000 | -5.66 | -50.00 |
-| 75,000 | 13,850 | 14,000 | 18,500 | -1.07 | -25.14 |
-| 52,000 | 12,500 | 12,500 | 20,750 | 0 | -39.76 |
-| 32,000 | 10,500 | 10,750 | 21,350 | -2.33 | -50.82 |
+
+#### BULKER 12 MONTHS T/C RATES AVERAGE (IN USD/DAY)
+
+|  | DWT | CURRENT | LAST WEEK | LAST YEAR | W-O-W CHANGE % | Y-O-Y CHANGE % |
+| --- | --- | --- | --- | --- | --- | --- |
+| CAPE | 180,000 | 12,500 | 13,250 | 25,000 | -5.66 | -50.00 |
+| PANAMAX | 75,000 | 13,850 | 14,000 | 18,500 | -1.07 | -25.14 |
+| SUPRAMAX | 52,000 | 12,500 | 12,500 | 20,750 | 0 | -39.76 |
+| HANDYSIZE | 32,000 | 10,500 | 10,750 | 21,350 | -2.33 | -50.82 |
+
+# Dry Bulk 1 year T/C rates
 
 ## Page 5
 
@@ -319,15 +322,35 @@ Turkey will likely see a rough conclusion to the year. It will be difficult for 
 
 ## Page 15
 
-### Bunker Prices (USD / ton)
+#### BEACHING TIDE DATES 2022
 
-| PORT | VLSFO (0.5%) | HSFO (3.5%) | MGO (0.1%) |
-| :--- | :---: | :---: | :---: |
+Chattogram, Bangladesh : 6th Dec. ~ 9th Dec. | 23rd Dec. ~ 26th Dec.
+
+Alang, India : 22nd Nov. ~ 29th Nov. | 05th Dec. ~ 13th Dec.
+
+# Bunker Prices
+
+#### BUNKER PRICES (USD/TON)
+
+| PORTS | VLSFO (0.5%) | IFO380 CST | MGO (0.1%) |
+| --- | --- | --- | --- |
 | SINGAPORE | 649 | 429 | 1044 |
 | HONG KONG | 680 | 478 | 1024 |
 | FUJAIRAH | 628 | 393 | 1224 |
 | ROTTERDAM | 568 | 409 | 932 |
 | HOUSTON | 621 | 402 | 968 |
+
+# Exchange Rates
+
+#### EXCHANGE RATES
+
+|  | 18th NOVEMBER | 11th NOVEMBER | W-O-W % CHANGE |
+| --- | --- | --- | --- |
+| USD / CNY (CHINA) | 7.11 | 7.11 | 0 |
+| USD / BDT (BANGLADESH) | 103.03 | 105.23 | +2.09% |
+| USD / INR (INDIA) | 81.54 | 80.51 | -1.28% |
+| USD / PKR (PAKISTAN) | 223.12 | 221.55 | -0.71% |
+| USD / TRY (TURKEY) | 18.60 | 18.56 | -0.22% |
 
 ## Page 16
 

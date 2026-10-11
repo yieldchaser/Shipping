@@ -241,29 +241,61 @@ Anchorage
 
 ## Page 15
 
-Gadani
+# Gadani
 
 Recycling activity in Gadani saw minimal movement due to Eid, though slight optimism persists for the post-holiday period. However, this optimism is tempered by ongoing concerns about liquidity issues that continue to put pressure on mill profit margins, creating a measured outlook.
 
-Turkish scrap market activity has nearly halted since the beginning of the week despite some mills still requiring April-shipment cargoes, as frozen steel demand amid political and economic unrest keeps buyers cautious about committing to large volumes. Turkish manufacturers are actively exploring alternatives like Chinese billet imports to replace scrap requirements. Production costs are becoming unsustainable for Turkish mills, who face a 25% energy price increase from April while struggling to sell steel in both domestic and export markets despite maintaining rebar offers at US$570-595/t ex-works with discounts of up to US$5/t.
+Anchorage & Beaching Position (MARCH 2025)
 
----
+| VESSEL NAME | TYPE | LDT | ARRIVAL | BEACHING |
+| --- | --- | --- | --- | --- |
+| - | - | - | - | - |
 
-Chattogram, Bangladesh : 29 March ~ 01 April | 12 ~ 15 April Alang, India : 27 ~ 31 March | 01 ~ 05 April
+# Aliaga, Turkey
 
----
+Turkish scrap market activity has nearly halted since the beginning of the week despite some mills still requiring April-shipment cargoes, as frozen steel demand amid political and economic unrest keeps buyers cautious about committing to large volumes.
+
+Turkish manufacturers are actively exploring alternatives like Chinese billet imports to replace scrap requirements. Production costs are becoming unsustainable for Turkish mills, who face a 25% energy price increase from April while struggling to sell steel in both domestic and export markets despite maintaining rebar offers at US$570-595/t ex-works with discounts of up to US$5/t.
+
+# BEACHING TIDE DATES 2025
+
+Chattogram, Bangladesh : 29 March ~ 01 April | 12 ~ 15 April
+
+Alang, India
+
+: 27 ~ 31 March | 01 ~ 05 April
 
 ## Page 16
 
-Sub-Continent and Turkey ferrous scrap markets insights
+#### BUNKER PRICES (USD/ton)
+
+| PORTS | VLSFO (0.5%) | HSFO (3.5%) | MGO (0.1%) |
+| --- | --- | --- | --- |
+| SINGAPORE | 504 | 458 | 640 |
+| HONG KONG | 516 | 475 | 653 |
+| FUJAIRAH | 507 | 457 | 743 |
+| ROTTERDAM | 500 | 433 | 637 |
+| HOUSTON | 523 | 437 | 686 |
+
+#### EXCHANGE RATES
+
+| CURRENCY | March 28 | March 21 | W-O-W % CHANGE |
+| --- | --- | --- | --- |
+| USD / CNY (CHINA) | 7.26 | 7.24 | -0.28% |
+| USD / BDT (BANGLADESH) | 121.57 | 121.89 | +0.26% |
+| USD / INR (INDIA) | 85.51 | 86.00 | +0.57% |
+| USD / PKR (PAKISTAN) | 280.20 | 280.18 | -0.01% |
+| USD / TRY (TURKEY) | 37.97 | 37.80 | -0.45% |
+
+# Sub-Continent and Turkey ferrous scrap markets insights
 
 ## Sub-Continent Imported Scrap Markets Remain Sluggish Amid Weak Demand and Economic Constraints
 
-The imported scrap markets across the Indian sub-continent continued to struggle this week, weighed down by weak demand, financial constraints, and the seasonal slowdown ahead of Eid. Buyers in India, Pakistan, and Bangladesh remained cautious, with liquidity challenges and limited letter of credit (LC) approvals further restricting trade volumes. Meanwhile, Turkey's scrap market maintained its downward trajectory as domestic steel demand remained lackluster. Market participants anticipate a gradual recovery post- Eid, though high global scrap prices and ongoing economic instability may cap any significant rebound.
+The imported scrap markets across the Indian sub-continent continued to struggle this week, weighed down by weak demand, financial constraints, and the seasonal slowdown ahead of Eid. Buyers in India, Pakistan, and Bangladesh remained cautious, with liquidity challenges and limited letter of credit (LC) approvals further restricting trade volumes. Meanwhile, Turkey’s scrap market maintained its downward trajectory as domestic steel demand remained lackluster. Market participants anticipate a gradual recovery post- Eid, though high global scrap prices and ongoing economic instability may cap any significant rebound.
 
 ## India
 
-India's imported scrap market remained sluggish, largely due to financial year-end closures that kept buyers cautious despite some early-week optimism. Northern markets saw a brief surge in bookings at the start of the week, while buyers in Nhava Sheva witnessed a price increase of US$5-7 per ton. However, the overall market remained slow, with bid-offer mismatches limiting transactions.
+India's imported scrap market remained sluggish, largely due to financial year-end closures that kept buyers cautious despite some early-week optimism. Northern markets saw a brief surge in bookings at the start of the week, while buyers in Nhava Sheva witnessed a price increase of US$5–7 per ton. However, the overall market remained slow, with bid-offer mismatches limiting transactions.
 
 ## Page 17
 

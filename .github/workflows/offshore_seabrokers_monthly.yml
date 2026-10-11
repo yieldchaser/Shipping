@@ -59,6 +59,8 @@ jobs:
           fi
           python scripts/offshore/build_offshore_cache.py
           python scripts/extract/publishers/run_seabrokers_llamaparse.py || true
+          # availability chart: values from the chart's vector geometry, not the parser's eyeball read (new issues)
+          python scripts/md_cleanup/seabrokers_availability_vector.py --untracked --apply || true
           python scripts/verify/build_corpus_inventory.py --merge-existing || true
           python scripts/sync_extraction_register.py || true
           python scripts/audit/generate_cadence_audit.py || true

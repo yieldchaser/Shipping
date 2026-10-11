@@ -92,6 +92,17 @@ BALTIC EXCHANGE DRY BULK INDICES
 
 ## Page 4
 
+#### BULKER 12 MONTHS T/C RATES AVERAGE (IN USD/DAY)
+
+|  | DWT | CURRENT | LAST WEEK | LAST YEAR | W-O-W CHANGE % | Y-O-Y CHANGE % |
+| --- | --- | --- | --- | --- | --- | --- |
+| CAPE | 180,000 | 21,000 | 17,000 | 28,750 | +23.53% | -26.96% |
+| PANAMAX | 75,000 | 16,000 | 15,250 | 27,125 | +4.92% | -41.01% |
+| SUPRAMAX | 52,000 | 16,000 | 15,850 | 26,750 | +0.95% | -40.19% |
+| HANDYSIZE | 32,000 | 13,150 | 12,850 | 22,750 | +2.33% | -42.20% |
+
+# Dry Bulk 1 year T/C rates
+
 ## Page 5
 
 ## Tankers
@@ -190,29 +201,31 @@ The chartering market for container ships remained strong this week, with most c
 
 ## Ship Recycling Market Snapshot
 
-| DESTINATION | TANKERS | BULKERS | MPP/ GENERAL | CONTAINERS | SENTIMENTS / WEEKLY FUTURE |
-|---|---|---|---|---|---|
-| *For green ship recycling, the prices are about | 550 ~ 560 | 530 ~ 540 | 540 ~ 550 | 580 ~ 590 | STABLE / |
-| CHATTOGRAM, BANGLADESH | \*600 ~ 610 | \*580 ~ 590 | \*570 ~ 580 | \*610 ~ 620 | WEAK / |
+| DESTINATION | TANKERS | BULKERS | MPP/ GENERAL CARGO | CONTAINERS | SENTIMENTS / WEEKLY FUTURE TREND |
+| --- | --- | --- | --- | --- | --- |
+| ALANG (WC INDIA) *For green ship recycling, the prices are about US$25-30/ton lower. | 550 ~ 560 | 530 ~ 540 | 540 ~ 550 | 580 ~ 590 | STABLE / |
+| CHATTOGRAM, BANGLADESH | *600 ~ 610 | *580 ~ 590 | *570 ~ 580 | *610 ~ 620 | WEAK / |
 | GADDANI, PAKISTAN | NA | NA | NA | NA | NA |
-| TURKEY \*For Non-EU ships. For EU Ship, the prices are about US$30-40/ton less | 320 ~ 330 | 310 ~ 320 | 300 ~ 310 | 330 ~ 340 | STABLE / |
+| TURKEY *For Non-EU ships. For EU Ship, the prices are about US$30-40/ton less | 320 ~ 330 | 310 ~ 320 | 300 ~ 310 | 330 ~ 340 | STABLE / |
 
-- All prices are USD per light displacement tonnage in the long ton.
-- The prices reported are net prices offered by the recycling yards.
-- Prices quoted are basis simple Japanese / Korean-built tonnages trading units. Premiums are paid on top of the above- quoted prices based on quality & quality of Spares, Non-Fe., bunkers, cargo history, and maintenance.
-- \* Prices are based on the subject Letters of Credit opening and case-to-case buying.
+All prices are USD per light displacement tonnage in the long ton.
+
+The prices reported are net prices offered by the recycling yards.
+
+Prices quoted are basis simple Japanese / Korean-built tonnages trading units. Premiums are paid on top of the above-quoted prices based on quality & quality of Spares, Non-Fe., bunkers, cargo history, and maintenance.
+
+* Prices are based on the subject Letters of Credit opening and case-to-case buying.
 
 #### 5-Year Ship Recycling Average Historical Prices
 
 (Week 13)
 
-```text
-DESTINATION 2018 2019 2020 2021 2022
-ALANG, INDIA 440 440 380 470 660
-CHATTOGRAM, BANGLADESH 460 445 350 480 670
-GADDANI, PAKISTAN 420 420 340 470 640
-ALIAGA, TURKEY 290 280 210 255 460
-```
+| DESTINATION | 2018 | 2019 | 2020 | 2021 | 2022 |
+| --- | --- | --- | --- | --- | --- |
+| ALANG, INDIA | 440 | 440 | 380 | 470 | 660 |
+| CHATTOGRAM, BANGLADESH | 460 | 445 | 350 | 480 | 670 |
+| GADDANI, PAKISTAN | 420 | 420 | 340 | 470 | 640 |
+| ALIAGA, TURKEY | 290 | 280 | 210 | 255 | 460 |
 
 ## Page 10
 
@@ -253,27 +266,72 @@ A poor start to the week as the local prices of ship scrap made a significant dr
 
 ## Page 13
 
-However, most of the ship recyclers are optimistic that this may only be a temporary pause due to the approaching end of the fiscal year and the ongoing Ramadan period, leading to a slowdown in traditional activities. As a result, Bangladesh's ship recycling market has become more cautious, with a sense of uncertainty gripping the industry. A significant catalyst will be required to restore the lost optimism in the coming weeks.
+However, most of the ship recyclers are optimistic that this may only be a temporary pause due to the approaching end of the fiscal year and the ongoing Ramadan period, leading to a slowdown in traditional activities.
+
+As a result, Bangladesh's ship recycling market has become more cautious, with a sense of uncertainty gripping the industry. A significant catalyst will be required to restore the lost optimism in the coming weeks.
+
+#### Anchorage & Beaching Position (April 2023)
+
+| VESSEL NAME | TYPE | LDT | ARRIVAL | BEACHING |
+| --- | --- | --- | --- | --- |
+| ADRIATIC ENERGY | LNG | 32,303 | 27.03.2023 | AWAITING |
+| SHRAVAN | CONTAINER | 7,398 | 20.03.2023 | AWAITING |
 
 #### GADDANI, PAKISTAN
 
-It was another quiet week in Pakistan with no signs of activities. There are talks of resumption of business on the vine, but currently, just chatter in the winds as Pakistan awaits the outcome of their IMF negotiations which also commences with the start of Ramadan, a typically quiet season for this region. China is currently working on a request from Pakistan to renew a US$2 billion loan that matured last week, which is important for Pakistan due to its low foreign exchange reserves. The IMF funding is crucial to unlocking other external financing avenues, and negotiations have been ongoing since February. Saudi Arabia and the UAE have also made progress on external financing, which will aid Pakistan in securing the IMF tranche and further external financing.
+It was another quiet week in Pakistan with no signs of activities.
+
+There are talks of resumption of business on the vine, but currently, just chatter in the winds as Pakistan awaits the outcome of their IMF negotiations which also commences with the start of Ramadan, a typically quiet season for this region.
+
+China is currently working on a request from Pakistan to renew a US$2 billion loan that matured last week, which is important for Pakistan due to its low foreign exchange reserves.
+
+The IMF funding is crucial to unlocking other external financing avenues, and negotiations have been ongoing since February. Saudi Arabia and the UAE have also made progress on external financing, which will aid Pakistan in securing the IMF tranche and further external financing.
+
+#### Anchorage & Beaching Position (April 2023)
+
+| VESSEL NAME | TYPE | LDT | ARRIVAL | BEACHING |
+| --- | --- | --- | --- | --- |
+| - | - | - | - | - |
 
 #### ALIAGA, TURKEY
 
-Turkish steel mills are currently not showing much interest in purchasing scrap due to sluggish steel sales and falling prices. Most mills are still not buying and are waiting for steel sales to recover before buying scrap, which has led to a decline in prices. Some suppliers expect Turkish mills to return to the market soon, but the longer they wait, the steeper the price jumps they will face. While rebar export sales are almost non-existent,
+Turkish steel mills are currently not showing much interest in purchasing scrap due to sluggish steel sales and falling prices. Most mills are still not buying and are waiting for steel sales to recover before buying scrap, which has led to a decline in prices.
+
+Some suppliers expect Turkish mills to return to the market soon, but the longer they wait, the steeper the price jumps they will face. While rebar export sales are almost non-existent,
 
 ## Page 14
 
-### Bunker Prices (USD / ton)
+domestic rebar demand is also low due to Ramadan, upcoming elections, and uncertainty about the reconstruction of earthquake-hit cities.
 
-| PORT | VLSFO (0.5%) | HSFO (3.5%) | MGO (0.1%) |
-| :--- | :---: | :---: | :---: |
+# BEACHING TIDE DATES 2023
+
+Chattogram, Bangladesh: 6th ~ 9th April | 20th ~ 23rd April
+
+Alang, India: 6th ~ 12th April | 18th ~ 25th April
+
+# Bunker Prices
+
+#### BUNKER PRICES (USD/TON)
+
+| PORTS | VLSFO (0.5%) | IFO380 CST | MGO (0.1%) |
+| --- | --- | --- | --- |
 | SINGAPORE | 577 | 438 | 744 |
 | HONG KONG | 606 | 458 | 751 |
 | FUJAIRAH | 570 | 427 | 1031 |
 | ROTTERDAM | 564 | 418 | 750 |
 | HOUSTON | 576 | 418 | 791 |
+
+# Exchange Rates
+
+#### EXCHANGE RATES
+
+|  | 31st MARCH | 24th MARCH | W-O-W % CHANGE |
+| --- | --- | --- | --- |
+| USD / CNY (CHINA) | 6.87 | 6.86 | -0.15% |
+| USD / BDT (BANGLADESH) | 107.24 | 105.19 | -1.95% |
+| USD / INR (INDIA) | 82.22 | 82.34 | +0.15% |
+| USD / PKR (PAKISTAN) | 283.74 | 278.81 | -1.77% |
+| USD / TRY (TURKEY) | 19.18 | 19.03 | -0.79% |
 
 ## Page 15
 

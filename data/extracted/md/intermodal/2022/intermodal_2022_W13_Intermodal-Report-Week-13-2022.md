@@ -443,7 +443,7 @@ Activity in the newbuilding market resumed last week, with a plethora of deals c
 
 # Demolition Market
 
-| Markets | Markets | 01/04/2022 | 25/03/2022 | ±% | 2021 | 2020 |
+| Markets | 01/04/2022 | 25/03/2022 | ±% | 2021 | 2020 | 2019 |
 | --- | --- | --- | --- | --- | --- | --- |
 | Tanker |  |  |  |  |  |  |
 | Bangladesh | 655 | 670 | -2.2% | 542 | 348 | 410 |

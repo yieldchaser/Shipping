@@ -112,15 +112,35 @@ The West African market saw a brief surge of optimism early in the week due to n
 
 ## Page 7
 
-Aframax:
+# Aframax:
 
 Another poor outlook in the MEG market, a trend that has follow since early June due to weak demand. The situation is further complicated by competition with larger vessel classes for cargo, exacerbated by the sluggish Suezmax market conditions. In the Med, similar sentiments were noted with 80,000mt Ceyhan/Lavera slipping to WS128.
 
-Clean:
+# Clean:
 
-LR: MEG/ Far East route continues to face dual challenges: an increase in available vessels and a shortage of cargo. This situation led to a significant rate drop last week, with LR1 rates in the region closing at the WS160 mark. LR2 also mirrors the same downturn with TC1 recording losses down to WS148. MR: The Far East region experienced a downward trend in rates, primarily due to reduced export volumes from China and South Korea. In the MEG, TC17 also saw big discounts with rates falling to WS200 at closing.
+LR: MEG/ Far East route continues to face dual challenges: an increase in available vessels and a shortage of cargo. This situation led to a significant rate drop last week, with LR1 rates in the region closing at the WS160 mark. LR2 also mirrors the same downturn with TC1 recording losses down to WS148.
+
+MR: The Far East region experienced a downward trend in rates, primarily due to reduced export volumes from China and South Korea. In the MEG, TC17 also saw big discounts with rates falling to WS200 at closing.
 
 # Baltic Exchange Tanker Indices
+
+| INDICES | CURRENT | LAST WEEK | LAST YEAR | W-O-W CHANGE | Y-O-Y CHANGE |
+| --- | --- | --- | --- | --- | --- |
+| BDTI | 1,036 | 1,056 | 881 | -1.89% | +17.59% |
+| BCTI | 814 | 822 | 671 | -0.97% | +21.31% |
+
+# Tankers Values
+
+(Weekly)
+
+| TYPE | DWT | NB CONTRACT | NB PROMPT DELIVERY | 5 YEARS | 10 YEARS | 15 YEARS |
+| --- | --- | --- | --- | --- | --- | --- |
+| VLCC | 310,000 | 130 | 145 | 115 | 85 | 58 |
+| SUEZMAX | 160,000 | 90 | 99 | 83 | 68 | 50 |
+| AFRAMAX | 115,000 | 75 | 86 | 72 | 62 | 44 |
+| LR1 | 73,000 | 62 | 64 | 54 | 44 | 32 |
+| MR | 51,000 | 52 | 54 | 47 | 39 | 28 |
+| *(amount in USD million) | *(amount in USD million) | *(amount in USD million) | *(amount in USD million) | *(amount in USD million) | *(amount in USD million) | *(amount in USD million) |
 
 ## Page 8
 
@@ -217,9 +237,39 @@ The market in Alang has taken a backseat, with domestic prices experiencing a sh
 
 ## Page 14
 
-The ongoing curfew over the past ten days has left the nation crippled, with internet communications completely cut off. The ship recycling industry was unreachable during this period, but internet services were restored this Friday and business is getting back to normal. Moving forward, it will be interesting to observe the market directions, especially as neighbouring countries face similar issues with cheap imports, which could shape new pricing levels.
+Anchorage & Beaching Position (July 2024)
 
-Gadani, Pakistan
+| VESSEL NAME | TYPE | LDT | ARRIVAL | BEACHING |
+| --- | --- | --- | --- | --- |
+| MERSIN 15 | RORO | 5,280 | 23.07.2024 | AWAITING |
+| GORDON | FISHING | 2,801 | 16.07.2024 | 20.07.2024 |
+| TOKKACHI FROST | REEFER | 2,529 | 11.07.2024 | 17.07.2024 |
+| VIVA | REEFER | 2,188 | 06.07.2024 | 10.07.2024 |
+| URANUS | CONTAINER | 24,328 | 05.07.2024 | 10.07.2024 |
+
+# Chattogram, Bangladesh
+
+The ongoing curfew over the past ten days has left the nation crippled, with internet communications completely cut off. The ship recycling industry was unreachable during this period, but internet services were restored this Friday and business is getting back to normal.
+
+Moving forward, it will be interesting to observe the market directions, especially as neighbouring countries face similar issues with cheap imports, which could shape new pricing levels.
+
+Anchorage & Beaching Position (June 2024)
+
+| VESSEL NAME | TYPE | LDT | ARRIVAL | BEACHING |
+| --- | --- | --- | --- | --- |
+| TAI | BULKER | 3,231 | 24.07.2024 | AWAITING |
+| SIA 20 | CONTAINER | 1,747 | 20.07.2024 | AWAITING |
+| SIA 30 | CONTAINER | 2,586 | 17.07.2024 | 21.07.2024 |
+| PIONEER | TUG | 1,348 | 14.07.2024 | 19.07.2024 |
+| PAN | GEN. CARGO | 1,662 | 11.07.2024 | 16.07.2024 |
+| NARESHWAR | BULKER | 10,308 | 05.07.2024 | 19.07.2024 |
+| XING TONG 313 | LPG | 1,909 | 26.06.2024 | 12.07.2024 |
+| EVER EXPRESS | GEN. CARGO | 137 | 07.07.2024 | 11.07.2024 |
+| XIANG | BULK | 3,947 | 01.07.2024 | 11.07.2024 |
+| YUN SHOU 7 | BULKER | 3,399 | 07.07.2024 | 11.07.2024 |
+| YUN TAI LONG 66 | CONTAINER | 2,090 | 26.06.2024 | 03.07.2024 |
+
+# Gadani, Pakistan
 
 The ship recycling markets have now entered a period of hibernation due to the surge in steel imports impacting the local industry. Demand for ship scrap has vanished as
 
@@ -238,40 +288,37 @@ Aliaga, Turkey
 
 ## Page 16
 
-Chattogram, Bangladesh : 4 ~ 7 August | 19 ~ 22 August Alang, India : 31 July ~ 8 August | 17 ~ 26 August
+# BEACHING TIDE DATES 2024
 
----
+Chattogram, Bangladesh : 4 ~ 7 August | 19 ~ 22 August
 
-BUNKER PRICES (USD/TON)
+Alang, India : 31 July ~ 8 August | 17 ~ 26 August
 
-PORTS VLSFO (0.5%) HSFO (3.5%) MGO (0.1%)
+#### BUNKER PRICES (USD/TON)
 
+| PORTS | VLSFO (0.5%) | HSFO (3.5%) | MGO (0.1%) |
+| --- | --- | --- | --- |
 | SINGAPORE | 612 | 506 | 720 |
-|---|---|---|---|
 | HONG KONG | 608 | 512 | 721 |
 | FUJAIRAH | 609 | 494 | 824 |
 | ROTTERDAM | 564 | 497 | 720 |
 | HOUSTON | 589 | 479 | 751 |
 
-CURRENCY USD / CNY (CHINA) USD / BDT (BANGLADESH) USD / INR (INDIA) USD / PKR (PAKISTAN) USD / TRY (TURKEY)
+#### EXCHANGE RATES
 
-Sub-Continent and Turkey ferrous scrap markets insight
+| CURRENCY | July 26 | JULY 19 | W-O-W % CHANGE |
+| --- | --- | --- | --- |
+| USD / CNY (CHINA) | 7.24 | 7.26 | +0.28% |
+| USD / BDT (BANGLADESH) | 117.48 | 117.48 | 0 |
+| USD / INR (INDIA) | 83.72 | 83.73 | +0.01% |
+| USD / PKR (PAKISTAN) | 278.34 | 278.28 | -0.02% |
+| USD / TRY (TURKEY) | 33.09 | 33.02 | -0.21% |
+
+# Sub-Continent and Turkey ferrous scrap markets insight
 
 The Sub-Continent imported ferrous scrap market saw range-bound activity this week. Indian buyers largely remained inactive due to unviable price levels, turning to domestic scrap instead. In Pakistan, demand for imported scrap was moderate with limited inquiries, influenced by a slowdown in the domestic steel market. Bangladesh's scrap demand was affected by partial network connectivity issues, hampering supplier connections.
 
-**Indian buyers showed inactivity in the imported scrap market due to current price levels**
-
-being unfeasible. They preferred domestic scrap for its cost-effectiveness. Indicative offers for shredded scrap from the US and UK/Europe were reported at US$410-415 per
-
-EXCHANGE RATES
-
-| July 26 | JULY 19 | W-O-W % CHANGE |
-|---|---|---|
-| 7.24 | 7.26 | +0.28% |
-| 117.48 | 117.48 | 0 |
-| 83.72 | 83.73 | +0.01% |
-| 278.34 | 278.28 | -0.02% |
-| 33.09 | 33.02 | -0.21% |
+Indian buyers showed inactivity in the imported scrap market due to current price levels being unfeasible. They preferred domestic scrap for its cost-effectiveness. Indicative offers for shredded scrap from the US and UK/Europe were reported at US$410-415 per
 
 ## Page 17
 

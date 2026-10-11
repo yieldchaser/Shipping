@@ -264,31 +264,34 @@ Anchorage & Beaching Position (FEBRUARY 2025)
 
 ## Page 17
 
-Aliaga, Turkey
+# Aliaga, Turkey
 
-The market remains quiet with no new activity to report. Meanwhile, Turkey's economic confidence index declined by 0.5% m-o-m to 99.2 in February, failing to sustain January's uptick. Economists surveyed forecast Turkey's 2024 GDP growth at 3% compared to 2023, with estimates for Q4 2024 growth ranging between 0.7% and 3.9%. Turkish shipbreaking scrap prices was at US$340-357/ton delivered on Friday while the Turkish currency was pegged at TRY 36.52/dollar at business close.
+The market remains quiet with no new activity to report.
 
----
+Meanwhile, Turkey's economic confidence index declined by 0.5% m-o-m to 99.2 in February, failing to sustain January's uptick. Economists surveyed forecast Turkey's 2024 GDP growth at 3% compared to 2023, with estimates for Q4 2024 growth ranging between 0.7% and 3.9%.
 
-Chattogram, Bangladesh : 28 February ~ 03 March | 14 ~ 17 March Alang, India : 26 February ~ 05 March | 13 March ~ 18 March
+Turkish shipbreaking scrap prices was at US$340-357/ton delivered on Friday while the Turkish currency was pegged at TRY 36.52/dollar at business close.
 
----
+# BEACHING TIDE DATES 2025
 
-BUNKER PRICES (USD/ton)
+Chattogram, Bangladesh : 28 February ~ 03 March | 14 ~ 17 March
 
-PORTS VLSFO (0.5%) HSFO (3.5%) MGO (0.1%)
+Alang, India : 26 February ~ 05 March | 13 March ~ 18 March
 
+#### BUNKER PRICES (USD/ton)
+
+| PORTS | VLSFO (0.5%) | HSFO (3.5%) | MGO (0.1%) |
+| --- | --- | --- | --- |
 | SINGAPORE | 570 | 505 | 896 |
-|---|---|---|---|
 | HONG KONG | 583 | 522 | 706 |
 | FUJAIRAH | 567 | 488 | 768 |
 | ROTTERDAM | 540 | 467 | 681 |
 | HOUSTON | 570 | 464 | 740 |
 
-EXCHANGE RATES
+#### EXCHANGE RATES
 
 | CURRENCY | February 28 | February 21 | W-O-W % CHANGE |
-|---|---|---|---|
+| --- | --- | --- | --- |
 | USD / CNY (CHINA) | 7.28 | 7.25 | -0.41% |
 | USD / BDT (BANGLADESH) | 121.46 | 121.53 | 0.06% |
 | USD / INR (INDIA) | 87.43 | 86.70 | -0.84% |
@@ -329,16 +332,27 @@ The coal market continues its downward spiral, with prices plummeting to their l
 
 ## Page 20
 
+Steel exports surged 25.9% year-on-year to 9.73 million tons, signaling robust global demand.
+
+Copper prices spiked this week after former U.S. President Donald Trump ordered the Commerce Department to investigate potential import tariffs on the metal, citing harm to domestic producers. Copper futures on Comex surged 4.9% before trimming gains.
+
+The move follows a 25% tariff on steel and aluminum imports, with the Commerce Department given 270 days to report back. Anticipation of tariffs has driven increased copper deliveries into the U.S., widening the New York–London price spread, which peaked at $1,000 per tonne in February before settling at $500. Further widening is expected.
+
+Supply concerns also bolstered prices, as a nationwide power outage in Chile briefly halted operations at major copper mines. While power has been restored, production remains slow to resume.
+
+Traders will closely watch U.S. trade policy and Chilean supply stability for further price direction.
+
 ### Iron Ore
 
-| COMMODITY (USD/MT) | GRADE |
-| --- | --- |
-| Iron Ore Fines, CNF Rizhao, China | Fines, Fe 62% (Aust. Origin) 107 -2.72% -9.32% 110 118 Iron Ore Fines, CNF Qingdao, China Fines, Fe 62.5% (Brazil Origin) 108 -1.81% -11.47% 110 122 INDEX UNITS PRICE CHANGE %CHANGE CONTRACT Copper (Comex) USD / lb. 454.80 -7.05 -1.53% May 2025 3Mo Copper (L.M.E.) USD / MT 9,358.00 -31.50 -0.34% N/A 3Mo Aluminum (L.M.E.) USD / MT 2,605.50 -27.00 -1.03% N/A 3Mo Zinc (L.M.E.) USD / MT 2,793.00 -16.00 -0.57% N/A 3Mo Tin (L.M.E.) USD / MT 31,312.00 -392.00 -1.24% N/A |
+| COMMODITY | SIZE / GRADE | THIS WEEK USD / MT | W-O-W | Y-O-Y | LAST WEEK USD / MT | LAST YEAR USD / MT |
+| --- | --- | --- | --- | --- | --- | --- |
+| Iron Ore Fines, CNF Rizhao, China | Fines, Fe 62% (Aust. Origin) | 107 | -2.72% | -9.32% | 110 | 118 |
+| Iron Ore Fines, CNF Qingdao, China | Fines, Fe 62.5% (Brazil Origin) | 108 | -1.81% | -11.47% | 110 | 122 |
 
 ### Industrial Metal Rates
 
-| INDEX | UNITS | PRICE | CHANGE | % CHANGE | CONTRACT |
-| :--- | :--- | :---: | :---: | :---: | :---: |
+| INDEX | UNITS | PRICE | CHANGE | %CHANGE | CONTRACT |
+| --- | --- | --- | --- | --- | --- |
 | Copper (Comex) | USD / lb. | 454.80 | -7.05 | -1.53% | May 2025 |
 | 3Mo Copper (L.M.E.) | USD / MT | 9,358.00 | -31.50 | -0.34% | N/A |
 | 3Mo Aluminum (L.M.E.) | USD / MT | 2,605.50 | -27.00 | -1.03% | N/A |

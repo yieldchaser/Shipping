@@ -403,7 +403,7 @@ Newbuilding contracting activity was steady during the past days. In the tanker 
 # Demolition Market
 ## Indicative Demolition Prices ($/ldt)
 
-| Markets | Markets | 21/10/2022 | 14/10/2022 | ±% | 2020 | 2019 |
+| Markets | 21/10/2022 | 14/10/2022 | ±% | 2020 | 2019 | 2018 |
 | --- | --- | --- | --- | --- | --- | --- |
 | Tanker |  |  |  |  |  |  |
 | Bangladesh | 600 | 600 | 0.0% | 348 | 410 | 442 |

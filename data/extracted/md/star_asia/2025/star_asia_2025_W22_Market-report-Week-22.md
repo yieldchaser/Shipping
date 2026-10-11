@@ -268,9 +268,35 @@ Chattogram, Bangladesh : 11 ~14 June | 24 ~ 27 June Alang, India : 09 ~17 June |
 
 ## Page 16
 
-Sub-Continent and Turkey ferrous scrap markets insights
+#### BUNKER PRICES (USD/ton)
 
-INDIA Imported scrap market remained under pressure this week as sluggish steel demand, compressed margins, and mills' growing preference for sponge iron and pellets continued to weigh on trading activity. Mills demonstrated pronounced caution, favouring short-transit cargoes amid mounting monsoon uncertainties that typically disrupt logistics and construction activity. Shredded scrap offers from UK and European origins held steady around US$370-375 per ton CFR, though buyer bids remained consistently lower at US$360-365 per ton, while HMS 80:20 material was offered at US$345-350 per ton CFR with bids near US$340-345 per ton. BANGLADESH Bangladesh's imported scrap market faced mounting pressure as mills maintained cautious positions amid an Eid-related slowdown, ongoing letter of credit difficulties, and escalating freight costs that further complicated procurement decisions. Australian HMS 80:20 was offered at US$355-360 per ton CFR Chattogram, with HMS 1 commanding US$365-367 per ton CFR, shredded scrap at US$375-380 per ton CFR, and busheling reaching US$385-390 per ton CFR. Domestic scrap prices ranged between BDT 53,000- 55,000 per ton, while finished rebar prices declined to BDT 82,000-83,000 per ton in Dhaka and BDT 84,000-86,000 per ton in Chattogram, reflecting subdued construction activity and weakening demand fundamentals that are expected to persist through mid-
+| PORTS | VLSFO (0.5%) | HSFO (3.5%) | MGO (0.1%) |
+| --- | --- | --- | --- |
+| SINGAPORE | 507 | 437 | 600 |
+| HONG KONG | 520 | 452 | 611 |
+| FUJAIRAH | 500 | 418 | 707 |
+| ROTTERDAM | 469 | 426 | 610 |
+| HOUSTON | 482 | 403 | 624 |
+
+#### EXCHANGE RATES
+
+| CURRENCY | May 30 | May 23 | W-O-W % CHANGE |
+| --- | --- | --- | --- |
+| USD / CNY (CHINA) | 7.19 | 7.18 | -0.14% |
+| USD / BDT (BANGLADESH) | 122.13 | 121.81 | -0.26% |
+| USD / INR (INDIA) | 85.56 | 85.20 | -0.42% |
+| USD / PKR (PAKISTAN) | 281.97 | 282.96 | +0.35% |
+| USD / TRY (TURKEY) | 39.24 | 38.90 | -0.87% |
+
+# Sub-Continent and Turkey ferrous scrap markets insights
+
+# INDIA
+
+Imported scrap market remained under pressure this week as sluggish steel demand, compressed margins, and mills' growing preference for sponge iron and pellets continued to weigh on trading activity. Mills demonstrated pronounced caution, favouring short-transit cargoes amid mounting monsoon uncertainties that typically disrupt logistics and construction activity. Shredded scrap offers from UK and European origins held steady around US$370-375 per ton CFR, though buyer bids remained consistently lower at US$360-365 per ton, while HMS 80:20 material was offered at US$345-350 per ton CFR with bids near US$340-345 per ton.
+
+# BANGLADESH
+
+Bangladesh's imported scrap market faced mounting pressure as mills maintained cautious positions amid an Eid-related slowdown, ongoing letter of credit difficulties, and escalating freight costs that further complicated procurement decisions. Australian HMS 80:20 was offered at US$355-360 per ton CFR Chattogram, with HMS 1 commanding US$365-367 per ton CFR, shredded scrap at US$375-380 per ton CFR, and busheling reaching US$385-390 per ton CFR. Domestic scrap prices ranged between BDT 53,000-55,000 per ton, while finished rebar prices declined to BDT 82,000-83,000 per ton in Dhaka and BDT 84,000-86,000 per ton in Chattogram, reflecting subdued construction activity and weakening demand fundamentals that are expected to persist through mid-
 
 ## Page 17
 

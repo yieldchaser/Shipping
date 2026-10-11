@@ -170,9 +170,29 @@ TYPE DWT CURRENT LAST WEEK LAST YEAR W-O-W CHANGE Y-O-Y CHANGE
 
 ## Containers
 
-This week witnessed a significant decline in container spot freight rates, as indicated by the 5.1% w-o-w drop in the SCFI spot box freight rate index, which reached 949 points. On the SCFI Shanghai to Northern Europe route, rates plummeted by 8% w-o-w to US$658/TEU, marking the lowest level since October 2019 and a 37% decrease year-todate. On the SCFI Shanghai to U.S. West Coast route, rates also saw a 7% w-o-w decline, reaching US$1,888/FEU, though they remained 34% higher year-to-date. Overall, this reflects a notable decline in container shipping rates for the week, with some routes hitting multi-year lows.
+This week witnessed a significant decline in container spot freight rates, as indicated by the 5.1% w-o-w drop in the SCFI spot box freight rate index, which reached 949 points. On the SCFI Shanghai to Northern Europe route, rates plummeted by 8% w-o-w to US$658/TEU, marking the lowest level since October 2019 and a 37% decrease year-to-date. On the SCFI Shanghai to U.S. West Coast route, rates also saw a 7% w-o-w decline, reaching US$1,888/FEU, though they remained 34% higher year-to-date. Overall, this reflects a notable decline in container shipping rates for the week, with some routes hitting multi-year lows.
 
 ## Containers S&P Report
+
+| VESSEL NAME | TYPE | TEU | YEAR | BUILT | PRICE (MILLION) USD | COMMENTS / BUYERS |
+| --- | --- | --- | --- | --- | --- | --- |
+| MIRADOR EXPRESS / VELIKA EXPRESS | PMAX | 3,237 | 2002 | TAIWAN | N/A | UNDISCLOSED |
+| X-PRESS IRAZU | FEEDER | 1,732 | 2007 | CHINA | 11.0 | UNDISCLOSED |
+
+# Containers Values
+
+(*Weekly*)
+
+| CONTAINERS (BY TEU) | GEARED / GEARLESS | NB CONTRACT | NB PROMPT DELIVERY | 5 YEARS | 10 YEARS | 20 YEARS |
+| --- | --- | --- | --- | --- | --- | --- |
+| 900 – 1,200 | Geared | 24 | 24 | 17 | 10 | 8 |
+| 1,600 – 1,800 | Geared | 29 | 28 | 23 | 16 | 12 |
+| 2,700 – 2,900 | Gearless | 41 | 37 | 29 | 19 | 16 |
+| 5,500 – 7,000 | Gearless | 93 | 78 | 66 | 41 | N/A |
+
+*(amount in USD million)
+
+### Container 6-12 months T/C rates
 
 ## Page 9
 
@@ -295,25 +315,26 @@ Turkish mills have maintained their domestic scrap buying prices despite the rec
 
 ## Page 16
 
-Chattogram, Bangladesh : 14 ~ 17 September | 28 ~ 30 September Alang, India : 14 ~ 21 September | 26 ~ 30 September
+# BEACHING TIDE DATES 2023
 
----
+Chattogram, Bangladesh: 14 ~ 17 September | 28 ~ 30 September
 
-BUNKER PRICES (USD/TON)
+Alang, India: 14 ~ 21 September | 26 ~ 30 September
 
-PORTS VLSFO (0.5%) IFO380 CST MGO (0.1%)
+#### BUNKER PRICES (USD/TON)
 
+| PORTS | VLSFO (0.5%) | IFO380 CST | MGO (0.1%) |
+| --- | --- | --- | --- |
 | SINGAPORE | 662 | 559 | 955 |
-|---|---|---|---|
 | HONG KONG | 683 | 579 | 960 |
 | FUJAIRAH | 655 | 540 | 971 |
 | ROTTERDAM | 627 | 596 | 973 |
 | HOUSTON | 661 | 565 | 1008 |
 
-EXCHANGE RATES
+#### EXCHANGE RATES
 
-| CURRENCY | 15th SEPTEMBER | 8th SEPTEMBER | W-O-W % CHANGE |
-|---|---|---|---|
+| CURRENCY | 15 th SEPTEMBER | 8 th SEPTEMBER | W-O-W % CHANGE |
+| --- | --- | --- | --- |
 | USD / CNY (CHINA) | 7.23 | 7.33 | +1.36% |
 | USD / BDT (BANGLADESH) | 110.21 | 109.70 | -0.46% |
 | USD / INR (INDIA) | 83.00 | 82.98 | -0.02% |
@@ -322,18 +343,33 @@ EXCHANGE RATES
 
 ## HMS 1/2 & Tangshan Billet
 
+TANGSHAN BILLET EX-WORKS (CNY/T)
+
+HMS 1/2 TURKEY CFR (USD/T)
+
 ## Page 17
+
+# Commodities
+
+# Insight
+
+This week, copper held steady in the market, while the majority of other base metals saw gains following stimulus measures introduced by China's central bank. The People's Bank of China (PBoC) made a move to reduce the reserve requirement ratio for most banks by 25 basis points, marking the second such cut this year. This decision coincided with a string of better-than-expected economic data from the United States, sparking optimism about a smooth economic transition despite the Federal Reserve's tightening monetary policies.
+
+Meanwhile, Iron ore futures reached a five-month peak at US$121 per ton in Singapore, indicating signs of heightened demand. Chinese steel mills have reportedly increased their operational capacities, and molten iron production showed an uptick in August. However, it's worth noting that steel consumption hasn't seen a corresponding surge, as data reveals an increase in steel stockpiles in early September compared to August levels.
+
+Coal prices continued their upward trajectory during Tuesday's trading, building on gains from Monday. This increase in prices was driven by heightened demand resulting from a strike by Australian gas workers. Specifically, Newcastle futures for delivery in October saw a 1.6 percent rise, closing at US$162.50 per tonne. Contracts for delivery in Rotterdam next month also posted a daily gain of 1.9 percent, concluding the session at US$118.50 per tonne.
 
 ### Iron Ore
 
-| COMMODITY (USD/MT) | GRADE |
-| --- | --- |
-| Iron Ore Fines, CNF Rizhao, China | Fines, Fe 62% (Aust. Origin) 124 +5.08% +22.7% 118 101 Iron Ore Fines, CNF Qingdao, China Fines, Fe 62.5% (Brazil Origin) 129 +12.17% +25.2% 115 103 INDEX UNITS PRICE CHANGE %CHANGE CONTRACT Copper (Comex) USD / lb. 380.70 -1.45 -0.38% Dec 2023 3Mo Copper (L.M.E.) USD / MT 8,417.50 +0.50 +0.01% N/A 3Mo Aluminum (L.M.E.) USD / MT 2,224.50 +7.00 +0.32% N/A 3Mo Zinc (L.M.E.) USD / MT 2,570.00 +44.00 +1.74% N/A 3Mo Tin (L.M.E.) USD / MT 25,895.00 +207.00 +0.81% N/A |
+| COMMODITY | SIZE / GRADE | THIS WEEK USD / MT | W-O-W | Y-O-Y | LAST WEEK USD / MT | LAST YEAR USD / MT |
+| --- | --- | --- | --- | --- | --- | --- |
+| Iron Ore Fines, CNF Rizhao, China | Fines, Fe 62% (Aust. Origin) | 124 | +5.08% | +22.7% | 118 | 101 |
+| Iron Ore Fines, CNF Qingdao, China | Fines, Fe 62.5% (Brazil Origin) | 129 | +12.17% | +25.2% | 115 | 103 |
 
 ### Industrial Metal Rates
 
-| INDEX | UNITS | PRICE | CHANGE | % CHANGE | CONTRACT |
-| :--- | :--- | :---: | :---: | :---: | :---: |
+| INDEX | UNITS | PRICE | CHANGE | %CHANGE | CONTRACT |
+| --- | --- | --- | --- | --- | --- |
 | Copper (Comex) | USD / lb. | 380.70 | -1.45 | -0.38% | Dec 2023 |
 | 3Mo Copper (L.M.E.) | USD / MT | 8,417.50 | +0.50 | +0.01% | N/A |
 | 3Mo Aluminum (L.M.E.) | USD / MT | 2,224.50 | +7.00 | +0.32% | N/A |

@@ -94,32 +94,31 @@ In contrast to the larger vessels, Aframax in the MEG has demonstrated notable r
 
 ## Page 6
 
-Clean:
+# Clean:
 
-LR: The Middle East LR2 market has seen a slight recovery this week as the flurry of holidayrelated shipments begins to settle. TC1 to Japan ended at WS214 as shippers pushed back by switching to LR1s. In the LR1, demand at the start of the week saw improvements with TC5 climbing slightly to WS219 while UKC trips held firm as ARA/WAFR closed at WS150's. MR: The Far East MR market continues to perform well, driven by a steady flow of products to the Southeast Asian regions. In the MEG, however, rates decline a bit with TC17 to E.Africa settling at WS270.
+LR: The Middle East LR2 market has seen a slight recovery this week as the flurry of holiday-related shipments begins to settle. TC1 to Japan ended at WS214 as shippers pushed back by switching to LR1s. In the LR1, demand at the start of the week saw improvements with TC5 climbing slightly to WS219 while UKC trips held firm as ARA/WAFR closed at WS150's.
+
+MR: The Far East MR market continues to perform well, driven by a steady flow of products to the Southeast Asian regions. In the MEG, however, rates decline a bit with TC17 to E.Africa settling at WS270.
 
 ## Baltic Exchange Tanker Indices
 
-| INDICES | CURRENT | LAST WEEK |
-|---|---|---|
-| BDTI | 1,653 | 1,626 |
-| BCTI | 893 | 857 |
+| INDICES | CURRENT | LAST WEEK | LAST YEAR | W-O-W CHANGE | Y-O-Y CHANGE |
+| --- | --- | --- | --- | --- | --- |
+| BDTI | 1,653 | 1,626 | 876 | +1.66% | +88.70% |
+| BCTI | 893 | 857 | 662 | +4.20% | +34.89% |
 
-LAST YEAR W-O-W CHANGE 876 +1.66% 662 +4.20%
+# Tankers Values
 
-Y-O-Y
+(Weekly)
 
-CHANGE +88.70% +34.89%
-
-| TYPE | DWT | NB CONTRACT | Tankers Values (Weekly) NB CONTRACT | Tankers Values (Weekly) NB PROMPT | 5 YEARS | 10 YEARS | 10 YEARS | 15 YEARS |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-|  |  |  |  | DELIVERY |  |  |  |  |
-| VLCC | 310,000 |  | 128 | 148 | 119 (E) | 87(E) |  | 53 |
-| SUEZMAX | 160,000 |  | 86 | 95 | 79 (E) | 63 | (E) | 42 |
-| AFRAMAX | 115,000 |  | 75 | 80 | 66 (E) | 53 | (E) | 37 |
-| LR1 | 73,000 |  | 60 | 64 | 53 (E) | 44 | (E) | 26 |
-| MR | 51,000 |  | 49 | 53 | 42 (E) | 33 | (E) | 24 |
-| *(amount inUSD | million) | \ | (E)-ecounits |  |  |  |  |  |
+| TYPE | DWT | NB CONTRACT | NB PROMPT DELIVERY | 5 YEARS | 10 YEARS | 15 YEARS |
+| --- | --- | --- | --- | --- | --- | --- |
+| VLCC | 310,000 | 128 | 148 | 119 (E) | 87(E) | 53 |
+| SUEZMAX | 160,000 | 86 | 95 | 79 (E) | 63 (E) | 42 |
+| AFRAMAX | 115,000 | 75 | 80 | 66 (E) | 53 (E) | 37 |
+| LR1 | 73,000 | 60 | 64 | 53 (E) | 44 (E) | 26 |
+| MR | 51,000 | 49 | 53 | 42 (E) | 33 (E) | 24 |
+| *(amount in USD million) / (E) – eco units | *(amount in USD million) / (E) – eco units | *(amount in USD million) / (E) – eco units | *(amount in USD million) / (E) – eco units | *(amount in USD million) / (E) – eco units | *(amount in USD million) / (E) – eco units | *(amount in USD million) / (E) – eco units |
 
 ## Page 7
 
@@ -205,28 +204,72 @@ The Indian ship recycling industry is gaining traction, as it recaptured the sec
 
 ## Page 14
 
-Chattogram
+Anchorage & Beaching Position (JANUARY 2026)
 
-After a tumultuous start that saw the market fall to the bottom of the regional rankings, conditions in Chattogram have begun to improve as buyers cautiously re-enter the market ahead of the key February elections. While active bidding for smaller, marginal units remains limited, there is a strong interest in high-value assets, as evidenced by recent recycling levels. This recovery is aided by local steel plate prices remaining stable at around US$500/MT and the Taka's relative stability near 122.26 against the USD. As political clarity emerges, the industry hopes that a stable government will free up liquidity, allowing Bangladesh to restore the lead in the subcontinent's recycling sector.
+| VESSEL NAME | TYPE | LDT | ARRIVAL | BEACHING |
+| --- | --- | --- | --- | --- |
+| WOODCHIP | TANKER | 22,800 | 29.01.2026 | AWAITING |
+| RISING HARRIER | BULKER | 8,552 | 25.01.2026 | AWAITING |
+| OLGA L | REEFER | 3,834 | 24.01.2026 | AWAITING |
+| YON ANG | REEFER | 6,057 | 26.01.2026 | 30.01.2026 |
+| GLOBAL STAR | TANKER | 4,237 | 24.01.2026 | 25.01.2026 |
+| YUN DA YOU 6 | TANKER | 1,019 | 20.01.2026 | AWAITING |
+| TAN | FISHING TRAWLER | 5,581 | 21.01.2026 | 24.01.2026 |
+| EMANO II | GENERAL CARGO | 2,556 | 02.01.2026 | 10.01.2026 |
+| BODHI | TANKER | 16,294 | 09.01.2026 | 15.01.2026 |
+| SHENG LU | BULKER | 6,300 | 12.01.2026 | 17.01.2026 |
+
+# Chattogram
+
+After a tumultuous start that saw the market fall to the bottom of the regional rankings, conditions in Chattogram have begun to improve as buyers cautiously re-enter the market ahead of the key February elections. While active bidding for smaller, marginal units remains limited, there is a strong interest in high-value assets, as evidenced by recent recycling levels.
+
+This recovery is aided by local steel plate prices remaining stable at around US\$500/MT and the Taka's relative stability near 122.26 against the USD. As political clarity emerges, the industry hopes that a stable government will free up liquidity, allowing Bangladesh to restore the lead in the subcontinent's recycling sector.
+
+Anchorage & Beaching Position (JANUARY 2026)
+
+| VESSEL NAME | TYPE | LDT | ARRIVAL | BEACHING |
+| --- | --- | --- | --- | --- |
+| FUJI | TANKER | 949 | 29.01.2026 | AWAITING |
+| HAKATA | TANKER | 353 | 29.01.2026 | AWAITING |
+| HONG LI | BULKER | 6,132 | 26.01.2026 | AWAITNG |
+| KHOZAN MARU | TANKER | 9.962 | 15.01.2026 | 10.01.2026 |
+| VIGO | TANKER | 17,740 | 07.07.2026 | 09.01.2026 |
+| GOLD ORIGIN | GENERAL CARGO | 2,485 | 02.01.2025 | 07.01.2025 |
+| VICTOR | BULKER | 6,086 | 02.01.2025 | 07.01.2026 |
 
 ## Page 15
 
-Gadani
+# Gadani
 
-Pakistan's domestic outlook improved, owing primarily to a decline in the inflow of lowcost Iranian steel goods. This shift has generated a strategic opportunity for local mills, which are now looking to Gadani's shipbreakers to meet their raw material needs. Despite sitting at the top of the regional price board, the heightened confidence has yet to translate into physical activity on the waterfront, which remains unusually quiet for this time of year. While keen end purchasers have raised their bids, they are still up against stiff competition from neighbouring buyers who are effectively securing the few available units.
+Pakistan's domestic outlook improved, owing primarily to a decline in the inflow of low-cost Iranian steel goods. This shift has generated a strategic opportunity for local mills, which are now looking to Gadani's shipbreakers to meet their raw material needs.
 
----
+Despite sitting at the top of the regional price board, the heightened confidence has yet to translate into physical activity on the waterfront, which remains unusually quiet for this time of year. While keen end purchasers have raised their bids, they are still up against stiff competition from neighbouring buyers who are effectively securing the few available units.
 
-Chattogram, Bangladesh : 3 ~ 6 February | 19 ~ 22 February Alang, India : 30 January ~ 6 February | 16 ~ 23 February
+Anchorage & Beaching Position (JANUARY 2026)
 
----
+| VESSEL NAME | TYPE | LDT | ARRIVAL | BEACHING |
+| --- | --- | --- | --- | --- |
+| - | - | - | - | - |
 
-BUNKER PRICES (USD/ton)
+# Aliaga, Turkiye
 
-PORTS VLSFO (0.5%) HSFO (3.5%) MGO (0.1%)
+Turkiye market remains similar to last week, with no new activity.
 
+Outlook remains steady for the region as holding demand awaits the new month.
+
+# BEACHING TIDE DATES 2026
+
+Chattogram, Bangladesh : 3 ~ 6 February | 19 ~ 22 February
+
+Alang, India
+
+: 30 January ~ 6 February | 16 ~ 23 February
+
+#### BUNKER PRICES (USD/ton)
+
+| PORTS | VLSFO (0.5%) | HSFO (3.5%) | MGO (0.1%) |
+| --- | --- | --- | --- |
 | SINGAPORE | 465 | 425 | 656 |
-|---|---|---|---|
 | HONG KONG | 483 | 449 | 685 |
 | FUJAIRAH | 461 | 397 | 752 |
 | ROTTERDAM | 433 | 390 | 683 |
@@ -234,9 +277,29 @@ PORTS VLSFO (0.5%) HSFO (3.5%) MGO (0.1%)
 
 ## Page 16
 
-Sub-Continent and Turkey ferrous scrap markets insights
+#### EXCHANGE RATES
 
-India Imported scrap market in India remains subdued as depreciating rupee and stagnant finished steel sales forces buyers to maintain a defensive posture. A stark regional price disparity has emerged between the north and south, with North India maintaining a firmer stance of approximately US$10-$15/t over its southern counterpart. Specifically, HMS 80:20 is currently valued near US$350 CFR Mundra in the north, while the same grade is heard at US$335 CFR Chennai in the south. Additionally, Australian origin offers into Chennai are being indicated at US$330 for HMS 80:20 and US$350 for shredded scrap, but these too are meeting pushback in a softened southern market. Pakistan Pakistan observed a more active landscape for suppliers compared to its neighbors, with relatively consistent demand for HMS despite broader market challenges. Imported shredded scrap from the UK and EU is being offered around US$380 CFR, while UAE suppliers are signaling higher expectations at US$395-plus. Market participants are also monitoring a Bahrain-origin cargo which is expected to conclude at a level exceeding US$390. Within the HMS segment, workable trade levels are currently shown between US$365 and US$375 CFR, providing a slight premium that keeps the country attractive for international sellers. On the domestic front, local scrap prices are hovering between PKR 135,000 and 136,000/t, which translates to roughly US$483-$486/t. Bangladesh In Bangladesh, imported ferrous scrap market has maintained a steady but cautious tone, with prices holding within familiar bands. Japanese H2 scrap is quoted at around US$355-US$357 CFR Chattogram, while the higher-grade HS (Heavy Scrap) is heard at US$362-$367. The containerized market for Oceania-origin material remains similarly consistent, with HMS 80:20 trading at US$345-US$350 and shredded scrap at US$365- US$370. Premium PNS (Plate and Structural) scrap is currently indicated at US$370- US$375 CFR, as market show signs of stability but operating under a highly disciplined buying environment.
+| CURRENCY | January 30 | January 23 | W-O-W % CHANGE |
+| --- | --- | --- | --- |
+| USD / CNY (CHINA) | 6.94 | 6.96 | +0.29% |
+| USD / BDT (BANGLADESH) | 122.2 | 122.32 | +0.10% |
+| USD / INR (INDIA) | 91.87 | 91.63 | -0.26% |
+| USD / PKR (PAKISTAN) | 279.69 | 279.88 | +0.07% |
+| USD / TRY (TURKEY) | 43.42 | 43.39 | -0.07% |
+
+# Sub-Continent and Turkey ferrous scrap markets insights
+
+# India
+
+Imported scrap market in India remains subdued as depreciating rupee and stagnant finished steel sales forces buyers to maintain a defensive posture. A stark regional price disparity has emerged between the north and south, with North India maintaining a firmer stance of approximately US$10–$15/t over its southern counterpart. Specifically, HMS 80:20 is currently valued near US$350 CFR Mundra in the north, while the same grade is heard at US$335 CFR Chennai in the south. Additionally, Australian origin offers into Chennai are being indicated at US$330 for HMS 80:20 and US$350 for shredded scrap, but these too are meeting pushback in a softened southern market.
+
+# Pakistan
+
+Pakistan observed a more active landscape for suppliers compared to its neighbors, with relatively consistent demand for HMS despite broader market challenges. Imported shredded scrap from the UK and EU is being offered around US$380 CFR, while UAE suppliers are signaling higher expectations at US$395-plus. Market participants are also monitoring a Bahrain-origin cargo which is expected to conclude at a level exceeding US$390. Within the HMS segment, workable trade levels are currently shown between US$365 and US$375 CFR, providing a slight premium that keeps the country attractive for international sellers. On the domestic front, local scrap prices are hovering between PKR 135,000 and 136,000/t, which translates to roughly US$483-$486/t.
+
+# Bangladesh
+
+In Bangladesh, imported ferrous scrap market has maintained a steady but cautious tone, with prices holding within familiar bands. Japanese H2 scrap is quoted at around US$355–US$357 CFR Chattogram, while the higher-grade HS (Heavy Scrap) is heard at US$362–$367. The containerized market for Oceania-origin material remains similarly consistent, with HMS 80:20 trading at US$345–US$350 and shredded scrap at US$365–US$370. Premium PNS (Plate and Structural) scrap is currently indicated at US$370–US$375 CFR, as market show signs of stability but operating under a highly disciplined buying environment.
 
 ## Page 17
 

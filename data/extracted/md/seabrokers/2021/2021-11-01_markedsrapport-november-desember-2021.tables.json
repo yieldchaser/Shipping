@@ -4,7 +4,7 @@
   "year": 2021,
   "month": 11,
   "source_file": "corpus/05-seabrokers/pdfs/2021-11-01_markedsrapport-november-desember-2021.pdf",
-  "tables_count": 12,
+  "tables_count": 11,
   "tables": [
     {
       "title": "NOVEMBER 2021 - DAILY NORTH SEA OSV AVAILABILITY",
@@ -20,7 +20,7 @@
         {
           "Date": "1",
           "PSV 2021": "1",
-          "PSV 2020": "10",
+          "PSV 2020": "12",
           "AHTS 2021": "9",
           "AHTS 2020": "12"
         },
@@ -28,75 +28,75 @@
           "Date": "2",
           "PSV 2021": "1",
           "PSV 2020": "11",
-          "AHTS 2021": "9",
+          "AHTS 2021": "10",
           "AHTS 2020": "11"
         },
         {
           "Date": "3",
           "PSV 2021": "0",
           "PSV 2020": "11",
-          "AHTS 2021": "10",
+          "AHTS 2021": "11",
           "AHTS 2020": "10"
         },
         {
           "Date": "4",
           "PSV 2021": "1",
-          "PSV 2020": "12",
+          "PSV 2020": "10",
           "AHTS 2021": "10",
-          "AHTS 2020": "10"
+          "AHTS 2020": "9"
         },
         {
           "Date": "5",
+          "PSV 2021": "1",
+          "PSV 2020": "12",
+          "AHTS 2021": "10",
+          "AHTS 2020": "8"
+        },
+        {
+          "Date": "6",
           "PSV 2021": "2",
           "PSV 2020": "13",
           "AHTS 2021": "10",
           "AHTS 2020": "7"
         },
         {
-          "Date": "6",
+          "Date": "7",
           "PSV 2021": "2",
           "PSV 2020": "14",
           "AHTS 2021": "10",
-          "AHTS 2020": "7"
-        },
-        {
-          "Date": "7",
-          "PSV 2021": "2",
-          "PSV 2020": "15",
-          "AHTS 2021": "11",
-          "AHTS 2020": "8"
+          "AHTS 2020": "9"
         },
         {
           "Date": "8",
           "PSV 2021": "3",
-          "PSV 2020": "16",
+          "PSV 2020": "15",
           "AHTS 2021": "11",
-          "AHTS 2020": "9"
+          "AHTS 2020": "11"
         },
         {
           "Date": "9",
           "PSV 2021": "4",
           "PSV 2020": "16",
           "AHTS 2021": "11",
-          "AHTS 2020": "10"
+          "AHTS 2020": "13"
         },
         {
           "Date": "10",
           "PSV 2021": "5",
-          "PSV 2020": "16",
-          "AHTS 2021": "11",
+          "PSV 2020": "13",
+          "AHTS 2021": "10",
           "AHTS 2020": "18"
         },
         {
           "Date": "11",
           "PSV 2021": "7",
-          "PSV 2020": "17",
-          "AHTS 2021": "7",
+          "PSV 2020": "15",
+          "AHTS 2021": "10",
           "AHTS 2020": "15"
         },
         {
           "Date": "12",
-          "PSV 2021": "7",
+          "PSV 2021": "6",
           "PSV 2020": "17",
           "AHTS 2021": "7",
           "AHTS 2020": "16"
@@ -106,61 +106,61 @@
           "PSV 2021": "6",
           "PSV 2020": "16",
           "AHTS 2021": "7",
-          "AHTS 2020": "15"
+          "AHTS 2020": "14"
         },
         {
           "Date": "14",
           "PSV 2021": "5",
           "PSV 2020": "15",
           "AHTS 2021": "6",
-          "AHTS 2020": "14"
+          "AHTS 2020": "13"
         },
         {
           "Date": "15",
           "PSV 2021": "5",
-          "PSV 2020": "14",
+          "PSV 2020": "15",
           "AHTS 2021": "6",
-          "AHTS 2020": "8"
+          "AHTS 2020": "13"
         },
         {
           "Date": "16",
           "PSV 2021": "6",
-          "PSV 2020": "13",
-          "AHTS 2021": "12",
-          "AHTS 2020": "8"
+          "PSV 2020": "14",
+          "AHTS 2021": "9",
+          "AHTS 2020": "12"
         },
         {
           "Date": "17",
           "PSV 2021": "7",
           "PSV 2020": "13",
           "AHTS 2021": "13",
-          "AHTS 2020": "8"
+          "AHTS 2020": "9"
         },
         {
           "Date": "18",
           "PSV 2021": "6",
-          "PSV 2020": "11",
+          "PSV 2020": "13",
           "AHTS 2021": "12",
           "AHTS 2020": "8"
         },
         {
           "Date": "19",
-          "PSV 2021": "8",
+          "PSV 2021": "7",
           "PSV 2020": "11",
           "AHTS 2021": "12",
           "AHTS 2020": "9"
         },
         {
           "Date": "20",
-          "PSV 2021": "9",
-          "PSV 2020": "10",
+          "PSV 2021": "8",
+          "PSV 2020": "11",
           "AHTS 2021": "12",
           "AHTS 2020": "9"
         },
         {
           "Date": "21",
-          "PSV 2021": "10",
-          "PSV 2020": "10",
+          "PSV 2021": "9",
+          "PSV 2020": "11",
           "AHTS 2021": "12",
           "AHTS 2020": "9"
         },
@@ -173,61 +173,62 @@
         },
         {
           "Date": "23",
-          "PSV 2021": "11",
-          "PSV 2020": "9",
+          "PSV 2021": "13",
+          "PSV 2020": "10",
           "AHTS 2021": "13",
           "AHTS 2020": "10"
         },
         {
           "Date": "24",
-          "PSV 2021": "13",
+          "PSV 2021": "14",
           "PSV 2020": "9",
-          "AHTS 2021": "14",
-          "AHTS 2020": "10"
+          "AHTS 2021": "13",
+          "AHTS 2020": "9"
         },
         {
           "Date": "25",
           "PSV 2021": "16",
           "PSV 2020": "9",
           "AHTS 2021": "14",
-          "AHTS 2020": "10"
+          "AHTS 2020": "9"
         },
         {
           "Date": "26",
-          "PSV 2021": "14",
-          "PSV 2020": "11",
+          "PSV 2021": "11",
+          "PSV 2020": "12",
           "AHTS 2021": "11",
           "AHTS 2020": "8"
         },
         {
           "Date": "27",
-          "PSV 2021": "18",
+          "PSV 2021": "11",
           "PSV 2020": "18",
           "AHTS 2021": "11",
-          "AHTS 2020": "8"
+          "AHTS 2020": "10"
         },
         {
           "Date": "28",
-          "PSV 2021": "15",
-          "PSV 2020": "14",
+          "PSV 2021": "10",
+          "PSV 2020": "16",
           "AHTS 2021": "10",
           "AHTS 2020": "9"
         },
         {
           "Date": "29",
-          "PSV 2021": "12",
-          "PSV 2020": "13",
+          "PSV 2021": "10",
+          "PSV 2020": "15",
           "AHTS 2021": "10",
-          "AHTS 2020": "8"
+          "AHTS 2020": "9"
         },
         {
           "Date": "30",
           "PSV 2021": "12",
-          "PSV 2020": "14",
-          "AHTS 2021": "10",
+          "PSV 2020": "13",
+          "AHTS 2021": "14",
           "AHTS 2020": "8"
         }
-      ]
+      ],
+      "value_source": "vector_chart_read"
     },
     {
       "title": "NORTH SEA SPOT AVERAGE UTILISATION NOVEMBER 2021",
@@ -690,40 +691,6 @@
       ],
       "row_count": 0,
       "rows": []
-    },
-    {
-      "title": "END TO END SOFTWARE SOLUTIONS",
-      "columns": [
-        "Category",
-        "Last 30 Days"
-      ],
-      "row_count": 6,
-      "rows": [
-        {
-          "Category": "Loading History",
-          "Last 30 Days": "Loaded: 2,500 Discharged: 7,500"
-        },
-        {
-          "Category": "Productive Time",
-          "Last 30 Days": "Productive Time: 450 Non Productive Time: 300 WOC: 200"
-        },
-        {
-          "Category": "Emissions",
-          "Last 30 Days": "Split By Vessel: 500"
-        },
-        {
-          "Category": "Lifts By Location",
-          "Last 30 Days": "1,200"
-        },
-        {
-          "Category": "Average CO2 Consumption By Fixture",
-          "Last 30 Days": "17.15 CO2 kg / day"
-        },
-        {
-          "Category": "Average Fuel Consumption By Fixture",
-          "Last 30 Days": "6.22 m\u00b3 / day"
-        }
-      ]
     },
     {
       "title": "ROYAL NIESTERN SANDER YARD NUMBER 862",

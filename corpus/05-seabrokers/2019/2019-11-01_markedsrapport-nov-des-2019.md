@@ -124,38 +124,40 @@ Siem Giant
 
 ## NOVEMBER 2019 - DAILY NORTH SEA OSV AVAILABILITY
 
+> **Read from the chart.** The report prints no numbers for this chart; each value is the chart line's node for that day, converted with the printed axis labels (vector geometry, not an eyeball estimate).
+
 | Date | PSV 2019 | PSV 2018 | AHTS 2019 | AHTS 2018 |
-| ---- | -------- | -------- | --------- | --------- |
-| 1    | 11       | 9        | 4         | 15        |
-| 2    | 11       | 15       | 5         | 13        |
-| 3    | 11       | 16       | 7         | 14        |
-| 4    | 12       | 18       | 8         | 20        |
-| 5    | 13       | 18       | 7         | 20        |
-| 6    | 12       | 14       | 8         | 19        |
-| 7    | 8        | 13       | 9         | 21        |
-| 8    | 9        | 13       | 10        | 21        |
-| 9    | 10       | 15       | 11        | 19        |
-| 10   | 14       | 15       | 16        | 15        |
-| 11   | 16       | 15       | 18        | 12        |
-| 12   | 17       | 16       | 15        | 13        |
-| 13   | 16       | 16       | 14        | 14        |
-| 14   | 16       | 17       | 12        | 7         |
-| 15   | 15       | 17       | 12        | 4         |
-| 16   | 5        | 17       | 12        | 3         |
-| 17   | 6        | 16       | 12        | 5         |
-| 18   | 7        | 16       | 12        | 6         |
-| 19   | 5        | 28       | 9         | 5         |
-| 20   | 5        | 28       | 6         | 14        |
-| 21   | 6        | 11       | 6         | 14        |
-| 22   | 6        | 11       | 9         | 12        |
-| 23   | 6        | 11       | 9         | 12        |
-| 24   | 5        | 12       | 8         | 15        |
-| 25   | 5        | 13       | 8         | 16        |
-| 26   | 5        | 13       | 8         | 17        |
-| 27   | 4        | 14       | 8         | 18        |
-| 28   | 8        | 14       | 9         | 21        |
-| 29   | 4        | 14       | 6         | 21        |
-| 30   | 5        | 11       | 6         | 18        |
+| --- | --- | --- | --- | --- |
+| 1 | 11 | 9 | 4 | 15 |
+| 2 | 11 | 15 | 5 | 13 |
+| 3 | 12 | 16 | 7 | 15 |
+| 4 | 12 | 17 | 9 | 18 |
+| 5 | 13 | 18 | 7 | 20 |
+| 6 | 10 | 14 | 9 | 19 |
+| 7 | 8 | 13 | 10 | 20 |
+| 8 | 10 | 13 | 12 | 21 |
+| 9 | 11 | 15 | 14 | 19 |
+| 10 | 13 | 15 | 16 | 17 |
+| 11 | 15 | 15 | 18 | 14 |
+| 12 | 17 | 16 | 13 | 11 |
+| 13 | 16 | 16 | 14 | 8 |
+| 14 | 16 | 16 | 12 | 6 |
+| 15 | 14 | 18 | 12 | 5 |
+| 16 | 12 | 17 | 12 | 3 |
+| 17 | 9 | 20 | 12 | 4 |
+| 18 | 7 | 23 | 12 | 5 |
+| 19 | 5 | 26 | 12 | 6 |
+| 20 | 9 | 28 | 9 | 9 |
+| 21 | 5 | 28 | 6 | 14 |
+| 22 | 6 | 19 | 9 | 14 |
+| 23 | 6 | 11 | 9 | 12 |
+| 24 | 5 | 12 | 9 | 13 |
+| 25 | 5 | 12 | 8 | 15 |
+| 26 | 4 | 13 | 8 | 16 |
+| 27 | 4 | 12 | 8 | 19 |
+| 28 | 8 | 14 | 9 | 19 |
+| 29 | 4 | 14 | 6 | 21 |
+| 30 | 5 | 11 | 6 | 18 |
 
 ## RATES & UTILISATION
 
@@ -410,15 +412,12 @@ Helix has previously announced that it has received interest from a number of cl
 DOF Subsea has secured a two-month firm contract utilising the OSCV 03-designed OCV Skandi Seven offshore Africa. The 2008-built vessel is equipped with a 250t crane and accommodation for 120 persons. DOF Subsea will be providing integrated FSV services, project management and engineering on multiple project packages, mainly within deep water construction and maintenance activities. In October, the Skandi Seven started operations for an international energy company in Angola, understood to be ENI, delivering integrated FSV services, project management & engineering.
 
 ## **TECHNIPFMC TO SELL GLOBAL 1201**
-<img src="https://i.imgur.com/placeholder1.jpg" alt="Global 1201 vessel">
 TechnipFMC has entered into a Memorandum of Agreement (MOA) to sell its derrick pipelay vessel Global 1201 in order to optimise its fleet profile. The MOA is subject to certain conditions and includes a Collaboration Agreement with the buyer that would provide five years of exclusivity for a list of named subsea projects and the right of first refusal for other projects not specifically named. The sale is expected to be completed in December, with the vessel scheduled to be delivered to her new owners this month. This is reportedly Timas Offshore, but that has yet to be confirmed. The 2012-built Global 1201 is equipped with a 1,200t max lift, a stinger and accommodation for 264 persons.
 
 ## **SAIPEM TO WORK ON ALEN**
-<img src="https://i.imgur.com/placeholder2.jpg" alt="SAIPEM logo">
 Noble Energy has awarded Saipem a USD 90–100 million contract to install an export pipeline at its Alen gas monetisation project off Equatorial Guinea. The 24-in, 70km pipeline will connect the Alen platform to the existing Alba plant and EG LNG facility located at Punta Europa, Bioko Island. First production is targeted for the first quarter of 2021. Gas has been re-injected into the field, extending the life of the LNG train 1.
 
 ## **DEEPOCEAN AWARDED EQUINOR IRM DEAL**
-<img src="https://i.imgur.com/placeholder3.jpg" alt="Normand Ocean vessel">
 *Normand Ocean (pictured c/o O. Halland)*
 DeepOcean has secured a contract with Equinor to carry out inspection, maintenance and repair (IRM) operations in 2020. The contract has a duration of up to nine months, and DeepOcean will utilise the MT 6022-designed Normand Ocean for the campaign. The work scope includes subsea ROV operations covering inspection, maintenance and repair activities on Equinor's assets on the Norwegian Continental Shelf, including associated project management and engineering services. The contract is scheduled to commence during the first quarter of 2020.
 

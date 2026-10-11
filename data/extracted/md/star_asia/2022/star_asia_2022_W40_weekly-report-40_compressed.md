@@ -198,21 +198,30 @@ Tankers Values
 
 # Baltic Exchange Tanker Indices
 
+|  | CURRENT | LAST WEEK | LAST YEAR | W-O-W CHANGE % | Y-O-Y CHANGE % |
+| --- | --- | --- | --- | --- | --- |
+| BDTI | 1,461 | 1,477 | 680 | -1.08 | +114.85 |
+| BCTI | 1,150 | 1,162 | 473 | -1.03 | +143.13 |
+
+#### TANKER 12 MONTHS T/C RATES AVERAGE (IN USD/DAY)
+
+| TYPE | DWT | CURRENT | LAST WEEK | LAST YEAR | W-O-W CHANGE | Y-O-Y CHANGE |
+| --- | --- | --- | --- | --- | --- | --- |
+| VLCC | 300,000 | 41,500 | 41,500 | 18,500 | 0 | +124.32 |
+| SUEZMAX | 150,000 | 32,000 | 32,000 | 16,250 | 0 | +96.92 |
+| AFRAMAX | 110,000 | 32,500 | 32,500 | 14,500 | 0 | +124.14 |
+| LR1 | 74,000 | 37,500 | 37,500 | 14,750 | 0 | +154.24 |
+| MR | 47,000 | 27,500 | 25,500 | 11,750 | +7.84 | +134.04 |
+
+| Date |
+| --- |
+|  |
+
+### Tanker 1 year T/C rates
+
 # Containers
 
-As the global economy weakens, the cost of exporting goods from China has fallen to its
-
-lowest level in more than two years. This is a significant setback for container carriers, who
-
-have enjoyed record earnings during the pandemic. Last week, a 40-foot shipping container
-
-from Shanghai to Los Angeles cost approximately $3,779, the lowest price since September
-
-2020, according to Drewry. It predicted that the cost of delivering goods from China would
-
-continue to plummet. Despite the global economic slowdown, the value of Chinese exports
-
-increased in August.
+As the global economy weakens, the cost of exporting goods from China has fallen to its lowest level in more than two years. This is a significant setback for container carriers, who have enjoyed record earnings during the pandemic. Last week, a 40-foot shipping container from Shanghai to Los Angeles cost approximately $3,779, the lowest price since September 2020, according to Drewry. It predicted that the cost of delivering goods from China would continue to plummet. Despite the global economic slowdown, the value of Chinese exports increased in August.
 
 ## Page 8
 
@@ -300,23 +309,73 @@ This week the data collected by the authorties reflected astonishing figures for
 
 ## Page 12
 
-ferrous scrap import shipments in Bangladesh, a major buyer in South Asia, reported 4.13 million tons in the first 9 months of 2022 vis-a-vis 3 .15 million tons in the same period of 2021, the total ferrous scrap rose by 31% on a yearly basis. Demand for steel was primarily supported b the government's initiative to develop infrastructure. The local steel industry expects this to continue to rise. Ships sold in the past are making their way to the shores of Chattogram with no negative reports linked to ongoing Letter of Credit issues. Overall a stable market with demand intact.
+ferrous scrap import shipments in Bangladesh, a major buyer in South Asia, reported 4.13 million tons in the first 9 months of 2022 vis-a-vis 3.15 million tons in the same period of 2021, the total ferrous scrap rose by 31% on a yearly basis. Demand for steel was primarily supported b the government's initiative to develop infrastructure. The local steel industry expects this to continue to rise.
+
+Ships sold in the past are making their way to the shores of Chattogram with no negative reports linked to ongoing Letter of Credit issues.
+
+Overall a stable market with demand intact.
+
+# Anchorage & Beaching Position (October 2022)
+
+| VESSEL NAME | TYPE | LDT | ARRIVAL | BEACHING |
+| --- | --- | --- | --- | --- |
+| ORAS | GENERAL CARGO | 1,878 | 27.09.2022 | AWAITING |
+| ARIANA | TANKER | 15,672 | 22.06.2022 | AWAITING |
+| GALA | TANKER | 16,884 | 01.03.2022 | AWAITING |
 
 #### GADDANI, PAKISTAN
 
-A promising week for the Pakistani recyclers as the domestic currency strengthens after intervention from the Central Bank. The P.K.R. closed at 221~222 levels after reaching its peak just a couple of weeks back at PKR241~242 to a U.S. dollar. A significant 9% drop brings the lost sentiments back. On the other hand, the demand for ship scrap was seen improving against the backdrop of limited stock at the yards and emerging demand. The classic example was seen in the fresh prices being offered and recent end sale at US$590/ton levels to the recyclers of the Cheval Bleu, 21,822 tonner tanker. Exciting times lie ahead for the Pakistani recycling industry as it's been a very long period since they have been in action, and now with the domestic currency appreciating together with emerging demand, markets should catch up with India and Bangladesh in competition.
+A promising week for the Pakistani recyclers as the domestic currency strengthens after intervention from the Central Bank. The P.K.R. closed at 221~222 levels after reaching its peak just a couple of weeks back at PKR241~242 to a U.S. dollar. A significant 9% drop brings the lost sentiments back.
+
+On the other hand, the demand for ship scrap was seen improving against the backdrop of limited stock at the yards and emerging demand. The classic example was seen in the fresh prices being offered and recent end sale at US$590/ton levels to the recyclers of the Cheval Bleu, 21,822 tonner tanker.
+
+Exciting times lie ahead for the Pakistani recycling industry as it's been a very long period since they have been in action, and now with the domestic currency appreciating together with emerging demand, markets should catch up with India and Bangladesh in competition.
+
+# Anchorage & Beaching Position (October 2022)
+
+| VESSEL NAME | TYPE | LDT | ARRIVAL | BEACHING |
+| --- | --- | --- | --- | --- |
+| CHEVAL BLEU | TANKER | 21,822 | 04.10.2022 | 08.10.2022 |
 
 ## Page 13
 
-### Bunker Prices (USD / ton)
+# ALIAGA, TURKEY
 
-| PORT | VLSFO (0.5%) | HSFO (3.5%) | MGO (0.1%) |
-| :--- | :---: | :---: | :---: |
+Despite the sharp rise in imported scrap prices last week, most domestic steelmakers have not changed their scrap buying prices.
+
+Both domestic and foreign importers are reluctant to increase their prices due to the expected rise in energy costs from October. Although some mills kept their offers at around US$675-700 per metric ton ex-works, seeing some buyers returned to the market.
+
+The prices of shipbreaking scrap in Turkey remain stable this week at around US$345 per metric ton. Meanwhile, the Lira continues to depreciate against the dollar on Wednesday.
+
+#### BEACHING TIDE DATES 2022
+
+Chattogram, Bangladesh : 8th Oct. ~ 11th Oct. | 24th Oct. ~ 27th Oct.
+
+Alang, India : 7th Oct. ~ 15th Oct. | 25th Oct. ~ 31st Oct.
+
+# Bunker Prices
+
+#### BUNKER PRICES (USD/TON)
+
+| PORTS | VLSFO (0.5%) | IFO380 CST | MGO (0.1%) |
+| --- | --- | --- | --- |
 | SINGAPORE | 738 | 410 | 1045 |
 | HONG KONG | 737 | 434 | 1011 |
 | FUJAIRAH | 734 | 413 | 1308 |
 | ROTTERDAM | 659 | 424 | 1051 |
 | HOUSTON | 662 | 439 | 1094 |
+
+# Exchange Rates
+
+#### EXCHANGE RATES
+
+|  | 7th OCTOBER | 30th SEPTEMBER | W-O-W % CHANGE |
+| --- | --- | --- | --- |
+| USD / CNY (CHINA) | 7.11 | 7.11 | 0 |
+| USD / BDT (BANGLADESH) | 102.54 | 101.23 | -1.29% |
+| USD / INR (INDIA) | 82.31 | 81.63 | -0.83% |
+| USD / PKR (PAKISTAN) | 219.84 | 228.09 | 3.62% |
+| USD / TRY (TURKEY) | 18.58 | 18.52 | -0.32% |
 
 ## Page 14
 

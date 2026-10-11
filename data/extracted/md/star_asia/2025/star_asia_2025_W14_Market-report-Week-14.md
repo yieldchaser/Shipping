@@ -208,11 +208,33 @@ The domestic ship recycling markets posted a notable recovery this week, support
 
 ## Page 14
 
-layer of caution among the ship recyclers and the cash buyers. They expect a clearer direction to emerge in the coming weeks, which will likely set the tone for the next phase of the industry's trajectory.
+layer of caution among the ship recyclers and the cash buyers. They expect a clearer direction to emerge in the coming weeks, which will likely set the tone for the next phase of the industry’s trajectory.
 
-Chattogram
+Anchorage & Beaching Position (APRIL 2025)
 
-The ship recycling markets remained largely inactive this week due to the Eid celebrations, with limited transactional activity reported. Despite the holiday lull, overall demand remained steady and ship prices held firm. Several vessels were sold in recent weeks, leaving most yards adequately stocked for the coming months. However, some recyclers who were unable to secure tonnage earlier are now offering higher prices in a bid to secure units ahead of the monsoon season and before the banks impose stricter restrictions on opening the Letters of Credit. However, with the recent developments with the global retaliatory tariffs imposed by the U.S. the ship recyclers in Bangladesh are facing rising uncertainty after the U.S. imposed a 37% tariff on imports from the country. The decision has triggered concerns over a potential drop in export volumes, which could weigh heavily on the broader economy. A key worry is the impact on foreign exchange reserves, as diminished export earnings may restrict access to U.S. dollars crucial for acquiring ships on the international market. With financial conditions already tight, the tariff move is expected to further strain liquidity across the sector, adding to the challenges facing Bangladeshi recyclers in the months ahead.
+| VESSEL NAME | TYPE | LDT | ARRIVAL | BEACHING |
+| --- | --- | --- | --- | --- |
+| ATHENA | AHTS | 1,177 | 03.04.2025 | AWAITING |
+| ADVENTURE | GENERAL CARGO | 2,073 | 05.04.2025 | AWAITING |
+
+# Chattogram
+
+The ship recycling markets remained largely inactive this week due to the Eid celebrations, with limited transactional activity reported. Despite the holiday lull, overall demand remained steady and ship prices held firm.
+
+Several vessels were sold in recent weeks, leaving most yards adequately stocked for the coming months. However, some recyclers who were unable to secure tonnage earlier are now offering higher prices in a bid to secure units ahead of the monsoon season and before the banks impose stricter restrictions on opening the Letters of Credit.
+
+However, with the recent developments with the global retaliatory tariffs imposed by the U.S. the ship recyclers in Bangladesh are facing rising uncertainty after the U.S. imposed a 37% tariff on imports from the country. The decision has triggered concerns over a potential drop in export volumes, which could weigh heavily on the broader economy.
+
+A key worry is the impact on foreign exchange reserves, as diminished export earnings may restrict access to U.S. dollars crucial for acquiring ships on the international market.
+
+With financial conditions already tight, the tariff move is expected to further strain liquidity across the sector, adding to the challenges facing Bangladeshi recyclers in the months ahead.
+
+Anchorage & Beaching Position (APRIL 2025)
+
+| VESSEL NAME | TYPE | LDT | ARRIVAL | BEACHING |
+| --- | --- | --- | --- | --- |
+| KING HUNG NO.2 | TANKER | 947 | 27.03.2025 | AWAITING |
+| RICH ANNA | GC | 1,010 | 27.03.2025 | AWAITING |
 
 ## Page 15
 
@@ -232,39 +254,39 @@ The Turkish recycling sector experienced a quiet week due to Eid celebrations, w
 
 ## Page 16
 
-Chattogram, Bangladesh : 12 ~ 15 April | 26 ~ 30 April Alang, India : 12 ~ 17 April | 26 April ~ 3 May
+# BEACHING TIDE DATES 2025
 
----
+Chattogram, Bangladesh : 12 ~ 15 April | 26 ~ 30 April
 
-BUNKER PRICES (USD/ton)
+Alang, India : 12 ~ 17 April | 26 April ~ 3 May
+
+#### BUNKER PRICES (USD/ton)
 
 | PORTS | VLSFO (0.5%) | HSFO (3.5%) | MGO (0.1%) |
-|---|---|---|---|
+| --- | --- | --- | --- |
 | SINGAPORE | 537 | 466 | 661 |
 | HONG KONG | 534 | 495 | 662 |
 | FUJAIRAH | 530 | 460 | 733 |
 | ROTTERDAM | 498 | 449 | 671 |
 | HOUSTON | 531 | 445 | 683 |
 
-EXCHANGE RATES
+#### EXCHANGE RATES
 
 | CURRENCY | April 4 | March 28 | W-O-W % CHANGE |
-|---|---|---|---|
+| --- | --- | --- | --- |
 | USD / CNY (CHINA) | 7.27 | 7.26 | -0.14% |
 | USD / BDT (BANGLADESH) | 121.37 | 121.57 | +0.16% |
 | USD / INR (INDIA) | 85.04 | 85.51 | +0.55% |
 | USD / PKR (PAKISTAN) | 280.16 | 280.20 | +0.01% |
 | USD / TRY (TURKEY) | 37.96 | 37.97 | +0.03% |
 
-Sub-Continent and Turkey ferrous scrap markets insights
+# Sub-Continent and Turkey ferrous scrap markets insights
 
-**The Sub-Continent Imported Scrap Market Sluggish Amid Post-Holiday Lull and Pricing Pressure**
+# The Sub-Continent Imported Scrap Market Sluggish Amid Post-Holiday Lull and Pricing Pressure
 
 Imported scrap markets across the Sub-Continent remained subdued this week, with buying activity constrained by pricing resistance, liquidity issues, and the post-Eid slowdown.
 
-**India's scrap market stayed quiet as buyers resisted elevated offer levels, anticipating**
-
-further price corrections. Shredded scrap was offered at US$390-400/ton CFR, while bids were capped at US$385-386/ton, limiting trade. UK-origin HMS 80:20 was available at US$365-370/ton CFR, and Turning scrap was offered at US$345/ton CFR. A bulk cargo from Japan to Chennai was heard at US$385-390/ton, but overall demand remained muted.
+India's scrap market stayed quiet as buyers resisted elevated offer levels, anticipating further price corrections. Shredded scrap was offered at US$390–400/ton CFR, while bids were capped at US$385–386/ton, limiting trade. UK-origin HMS 80:20 was available at US$365–370/ton CFR, and Turning scrap was offered at US$345/ton CFR. A bulk cargo from Japan to Chennai was heard at US$385–390/ton, but overall demand remained muted.
 
 ## Page 17
 

@@ -42,16 +42,16 @@ pages: 21
 
 ## Supramax/Ultramax:
 
-**Markets face persistent headwinds across major basins. The Atlantic region remains subdued, with European scrap cargo providing only notable activity amid otherwise weak inflows. T/A closed the week at US$17,900s. A similar situation was seen in the Pacific, as sluggish cargo volume coupled with mounting vessel oversupply continued to cause pressure rates to go downward. Inni r/v saw rates close around US$ 8,800 a day.**
+Markets face persistent headwinds across major basins. The Atlantic region remains subdued, with European scrap cargo providing only notable activity amid otherwise weak inflows. T/A closed the week at US$17,900s. A similar situation was seen in the Pacific, as sluggish cargo volume coupled with mounting vessel oversupply continued to cause pressure rates to go downward. Inni r/v saw rates close around US$ 8,800 a day.
 
 ## Handysize:
 
-**It was a poor week in the Handy segment. Rates across all routes saw discounts with sentiments showing poor outlook. Atlantic recorded sluggish output with T/A seeing levels in the range of US$9,900's. In the Pacific, demand saw an uptick this week but with oversupply of vessel, levels fell short. Inter Pacific closed the week at US$9,000's region.**
+It was a poor week in the Handy segment. Rates across all routes saw discounts with sentiments showing poor outlook. Atlantic recorded sluggish output with T/A seeing levels in the range of US$9,900's. In the Pacific, demand saw an uptick this week but with oversupply of vessel, levels fell short. Inter Pacific closed the week at US$9,000's region.
 
 ## Baltic Exchange Dry Bulk Indices
 
 | INDICES | CURRENT | LAST WEEK | LAST YEAR | W-O-W CHANGE | Y-O-Y CHANGE |
-|---|---|---|---|---|---|
+| --- | --- | --- | --- | --- | --- |
 | BDI | 1,785 | 1,495 | 1,820 | +19.40% | -1.92% |
 | BCI | 3,229 | 2,316 | 2,763 | +39.42% | 16.87% |
 | BPI | 1,212 | 1,176 | 1,874 | +3.06% | -35.33% |
@@ -62,27 +62,38 @@ pages: 21
 
 ## (Weekly)
 
-| TYPE | DWT | NB CONTRACT | NB PROMPT | 5 YEARS | 10 YEARS | 15 YEARS |
-|---|---|---|---|---|---|---|
-|  |  |  | DELIVERY |  |  |  |
+| TYPE | DWT | NB CONTRACT | NB PROMPT DELIVERY | 5 YEARS | 10 YEARS | 15 YEARS |
+| --- | --- | --- | --- | --- | --- | --- |
 | CAPE | 180,000 | 76 | 77 | 64 | 45 | 29 |
 | KAMSARMAX | 82,000 | 37 | 44 | 38 | 28 | 18 |
 | SUPRAMAX | 56,000 | 35 | 41 | 36 | 27 | 16 |
 | HANDY | 38,000 | 30 | 35 | 28 | 21 | 12 |
-| *(amount in USD | million) |  |  |  |  |  |
+| *(amount in USD million) | *(amount in USD million) | *(amount in USD million) | *(amount in USD million) | *(amount in USD million) | *(amount in USD million) | *(amount in USD million) |
 
 ## Page 4
 
 ## Bulker 12 months T/C rates average (in USD/day)
 
 | TYPE | DWT | CURRENT | LAST WEEK | LAST YEAR | W-O-W CHANGE | Y-O-Y CHANGE |
-|---|---|---|---|---|---|---|
+| --- | --- | --- | --- | --- | --- | --- |
 | CAPESIZE | 180,000 | 21,000 | 20,000 | 15,000 | +5.00% | +40.00% |
 | PANAMAX | 75,000 | 13,700 | 13,750 | 13,650 | -0.36% | +0.37% |
 | SUPRAMAX | 58,000 | 12,750 | 13,750 | 11,875 | -7.27% | +7.37% |
 | HANDYSIZE | 38,000 | 13,000 | 13,750 | 11,000 | -5.45% | +18.18% |
 
-## Dry Bulk - S&P Report
+Dry Bulk – S&P Report
+
+| VESSEL NAME | TYPE | DWT | YEAR | BUILT | PRICE (MILLION) USD | COMMENTS / BUYERS |
+| --- | --- | --- | --- | --- | --- | --- |
+| CAPE LAUREL | CAPE | 180,309 | 2010 | JAPAN | 28.0 | CHINESE BUYERS |
+| CAPTAIN MIKE / IOANNIS M | POST PMAX | 87,052 | 2005 | JAPAN | 25.0 EN BLOC | CHINESE BUYERS |
+| CMB PERMEKE | KMAX | 81,795 | 2019 | CEBU | 34.0 | GREEK BUYERS |
+| ENERGY SUNRISE | KMAX | 81,793 | 2014 | JAPAN | 23.0 | GREEK BUYERS |
+| CL SINGAPORE / CL TIANJING / CL RIZHAO | KMAX | 81,323 | 2016 | CHINA | 68.0 EN BLOC | UNDISCLOSED |
+| NAVIOS SAGITTARIUS | PMAX | 75,756 | 2006 | JAPAN | 20.0 | VIETNAMESE BUYERS |
+| ASIA GRAECA | PMAX | 73,902 | 2004 | JAPAN | 11.1 | ITC |
+| ARTIC OCEAN | HANDY | 36,009 | 2010 | CHINA | 11.6 | MIDDLE EASTERN BUYERS |
+| YANGTZE GRACE | HANDY | 32,503 | 2012 | CHINA | 11.5 | ASIAN BUYERS |
 
 ## Page 5
 
@@ -185,20 +196,28 @@ pages: 21
 
 ## Ship Recycling Market Snapshot
 
-| DESTINATION | TANKERS | BULKERS | MPP/ GENERAL CARGO | CONTAINERS | SENTIMENTS / WEEKLY FUTURE TREND |
-|---|---|---|---|---|---|
-| ALANG (WC INDIA) . | 470 ~ 480 | 450 ~ 460 | 440 ~ 450 | 480 ~ 490 | STABLE / |
-| CHATTOGRAM, BANGLADESH | 480 ~ 490 | 470 ~ 480 | 450 ~ 460 | 490 ~ 500 | STABLE / |
-| GADDANI, PAKISTAN | 460 ~ 470 | 440 ~ 450 | 430 ~ 440 | 460 ~ 470 | STABLE / |
-| TURKEY *For Non-EU ships. For E.U. Ship, the prices are about USD 20-30/ton less | 360 ~ 370 | 340 ~ 350 | 350 ~ 360 | 370 ~ 380 | STABLE / |
+| DESTINATION | TANKERS | BULKERS | MPP/GENERAL CARGO | CONTAINERS | SENTIMENTS / WEEKLY FUTURE TREND |
+| --- | --- | --- | --- | --- | --- |
+| ALANG (WC INDIA) . | 470 ~ 480 | 450 ~ 460 | 440 ~ 450 | 480 ~ 490 | STABLE / ←→ |
+| CHATTOGRAM, BANGLADESH | 480 ~ 490 | 470 ~ 480 | 450 ~ 460 | 490 ~ 500 | STABLE / ←→ |
+| GADDANI, PAKISTAN | 460 ~ 470 | 440 ~ 450 | 430 ~ 440 | 460 ~ 470 | STABLE / ←→ |
+| TURKEY *For Non-EU ships. For E.U. Ship, the prices are about USD 20-30/ton less | 360 ~ 370 | 340 ~ 350 | 350 ~ 360 | 370 ~ 380 | STABLE / ←→ |
 
-## GENERAL CARGO WEEKLY FUTURE
+All prices are USD per light displacement tonnage in the long ton.
 
-#  All prices are USD per light displacement tonnage in the long ton.  The prices reported are net prices offered by the recycling yards.
+The prices reported are net prices offered by the recycling yards.
 
-- **Prices quoted are basis simple Japanese / Korean-built tonnages trading units. Premiums are paid on** **top of the above-quoted prices based on quality & quality of Spares, Non-Fe., bunkers, cargo history,** **and maintenance.**
+Prices quoted are basis simple Japanese / Korean-built tonnages trading units. Premiums are paid on top of the above-quoted prices based on quality & quality of Spares, Non-Fe., bunkers, cargo history, and maintenance.
 
 ## 5-Year Ship Recycling Average Historical Prices
+(Week 46)
+
+| DESTINATION | 2019 | 2020 | 2021 | 2022 | 2023 |
+| --- | --- | --- | --- | --- | --- |
+| ALANG, INDIA | 425 | 270 | 730 | 570 | 530 |
+| CHATTOGRAM, BANGLADESH | 420 | 300 | 750 | 590 | 560 |
+| GADDANI, PAKISTAN | 410 | 305 | 700 | 580 | 520 |
+| ALIAGA, TURKEY | 270 | 210 | 210 | 300 | 320 |
 
 ## Page 12
 
@@ -273,13 +292,37 @@ pages: 21
 
 ## Page 18
 
-## Chattogram, Bangladesh : 30 November - 3 December | 14 - 17 December Alang, India : 14 - 21 November | 29 November - 7 December
+# BEACHING TIDE DATES 2024
 
----
+Chattogram, Bangladesh : 30 November – 3 December | 14 – 17 December
+
+Alang, India : 14 – 21 November | 29 November – 7 December
+
+#### BUNKER PRICES (USD/TON)
+
+| PORTS | VLSFO (0.5%) | HSFO (3.5%) | MGO (0.1%) |
+| --- | --- | --- | --- |
+| SINGAPORE | 560 | 467 | 647 |
+| HONG KONG | 580 | 490 | 668 |
+| FUJAIRAH | 557 | 438 | 734 |
+| ROTTERDAM | 513 | 474 | 649 |
+| HOUSTON | 549 | 476 | 708 |
+
+#### EXCHANGE RATES
+
+| CURRENCY | November 15 | November 8 | W-O-W % CHANGE |
+| --- | --- | --- | --- |
+| USD / CNY (CHINA) | 7.23 | 7.17 | -0.84% |
+| USD / BDT (BANGLADESH) | 119.99 | 119.62 | -0.31% |
+| USD / INR (INDIA) | 84.46 | 84.39 | -0.08% |
+| USD / PKR (PAKISTAN) | 277.55 | 277.86 | +0.11% |
+| USD / TRY (TURKEY) | 34.44 | 34.36 | -0.23% |
 
 ## Sub-Continent and Turkey ferrous scrap markets insight
 
-**The Sub-Continent ferrous scrap market experienced a price decline of US$2-4/ton dayon-day this week, driven by tepid demand and persistent market challenges. In India, Domestic scrap consumption remains subdued, with shredded offers from the US and UK/Europe assessed at US$390-392/ton CFR Nhava Sheva, down US$4/ton d-o-d. HMS (80:20) from UK/Europe stood at $365/t CFR, while West African material was priced at US$370-375/ton CFR. Market insiders noted muted buying, influenced by stock surpluses, poor steel sales, and monsoon disruptions.**
+The Sub-Continent ferrous scrap market experienced a price decline of US\$2-4/ton day-on-day this week, driven by tepid demand and persistent market challenges.
+
+In India, Domestic scrap consumption remains subdued, with shredded offers from the US and UK/Europe assessed at US$390-392/ton CFR Nhava Sheva, down US$4/ton d-o-d. HMS (80:20) from UK/Europe stood at $365/t CFR, while West African material was priced at US$370-375/ton CFR. Market insiders noted muted buying, influenced by stock surpluses, poor steel sales, and monsoon disruptions.
 
 ## Page 19
 

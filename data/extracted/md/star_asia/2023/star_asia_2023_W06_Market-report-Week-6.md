@@ -48,10 +48,10 @@ In the Atlantic and Pacific basin, the markets remain weak due to limited cargo 
 
 ## Page 3
 
-## Dry Bulk - S&P Report
+# Dry Bulk – S&P Report
 
 | VESSEL NAME | TYPE | DWT | YEAR | BUILT | PRICE (MILLION) USD | COMMENTS / BUYERS |
-|---|---|---|---|---|---|---|
+| --- | --- | --- | --- | --- | --- | --- |
 | ALIKI | CAPE | 180,235 | 2005 | JAPAN | 15.0 | CHINESE BUYERS |
 | LIBERTY K | KMAX | 82,217 | 2010 | CHINA | 19.5 | SEANERGY |
 | HAMPTON BAY | KMAX | 81,508 | 2009 | JAPAN | 19.0 | GREEK BUYERS |
@@ -65,24 +65,32 @@ In the Atlantic and Pacific basin, the markets remain weak due to limited cargo 
 (Weekly)
 
 | TYPE | DWT | NB CONTRACT | NB PROMPT DELIVERY | 5 YEARS | 10 YEARS | 20 YEARS |
-|---|---|---|---|---|---|---|
+| --- | --- | --- | --- | --- | --- | --- |
 | CAPE | 180,000 | 60 | 53 | 35 | 29 | 14 |
 | KAMSARMAX | 82,000 | 33 | 37 | 30 | 22 | 10 |
 | SUPRAMAX | 56,000 | 30 | 35 | 28 | 18 | 7 |
 | HANDY | 38,000 | 28 | 28 | 24 | 16 | 5 |
 
-*\*(Amount in USD million)*
+* (Amount in USD million)
 
 ## Baltic Exchange Dry Bulk Indices
 
+## Baltic Exchange Dry Bulk Indices
+
+|  | CURRENT | LAST WEEK | LAST YEAR | W-O-W CHANGE % | Y-O-Y CHANGE % |
+| --- | --- | --- | --- | --- | --- |
+| BDI | 602 | 621 | 1,977 | -3.06% | -69.55% |
+| BCI | 486 | 429 | 1,857 | +13.29% | -73.83% |
+| BPI | 864 | 940 | 2,403 | -8.09% | -64.04% |
+| BSI | 628 | 682 | 2,158 | -7.92% | -70.90% |
+| BHSI | 436 | 436 | 1,168 | 0 | -62.67% |
+
 #### BULKER 12 MONTHS T/C RATES AVERAGE (IN USD/DAY)
 
-**DWT CURRENT LAST WEEK LAST YEAR W-O-W CHANGE % Y-O-Y CHANGE %**
-
-CAPE 180,000 15,000 14,750 27,250 +1.69% -44.95%
-
+|  | DWT | CURRENT | LAST WEEK | LAST YEAR | W-O-W CHANGE % | Y-O-Y CHANGE % |
+| --- | --- | --- | --- | --- | --- | --- |
+| CAPE | 180,000 | 15,000 | 14,750 | 27,250 | +1.69% | -44.95% |
 | PANAMAX | 75,000 | 13,700 | 13,450 | 23,750 | +1.86% | -42.32% |
-|---|---|---|---|---|---|---|
 | SUPRAMAX | 52,000 | 12,500 | 13,500 | 26,250 | -7.41% | -52.38% |
 | HANDYSIZE | 32,000 | 9,750 | 10,000 | 22,500 | -2.50% | -56.67% |
 
@@ -98,7 +106,7 @@ This week saw a rise of 7% on the MEG to China route due to the increased inflow
 
 ## Page 5
 
-reduced availability of vessels. 270,000mt rate rose to WS53. The Laden/Ballast Spread in the Middle East has been steadily increasing since mid-January in line with the increased movement in the Atlantic basin. Meanwhile, rate for 260,000mt West Africa/China climbed to WS59.
+The availability in the VLCC segment remains supported by sustained demand for West Africa and Middle East crude. In the Middle East, the market remains somewhat firm amid increased activity and availability of vessels. 270,000mt rate rose to WS53. The Laden/Ballast Spread in the Middle East has been steadily increasing since mid-January in line with the increased movement in the Atlantic basin. Meanwhile, rate for 260,000mt West Africa/China climbed to WS59.
 
 #### Suezmax:
 
@@ -114,7 +122,18 @@ Before the embargo started, there was more demand for Russian oil products in Eu
 
 ## Tankers S&P Report
 
-(MILLION) USD
+| VESSEL NAME | TYPE | DWT | YEAR | BUILT | PRICE (MILLION) USD | COMMENTS / BUYERS |
+| --- | --- | --- | --- | --- | --- | --- |
+| SEAHERO | VLCC | 306,507 | 2006 | S. KOREA | 56.0 | UNDISCLOSED |
+| NEW GLOBAL | VLCC | 305,704 | 2001 | S. KOREA | N/A | CHINESE BUYERS |
+| ARZOYI | VLCC | 299,152 | 2002 | JAPAN | 26.7 | CHINESE BUYERS |
+| ATLANTIS | AFRA | 105,400 | 2008 | JAPAN | 33.5 | GREEK BUYERS |
+| HAFNIA COLUMBIA / HAFNIA KRONBORG | LR1 | 76,604 | 2007 | CHINA | 22.0 EACH | UNDISCLOSED |
+| JUNIOR G | LR1 | 70,426 | 2005 | JAPAN | 21.0 | MIDDLE EASTERN BUYERS |
+| PINK CORAL | MR | 49,474 | 2003 | S. KOREA | 13.0 | UAE BASED BUYERS |
+| MARKOS 1 | MR | 45,592 | 2005 | CROATIA | 16.9 | CHINESE BUYERS |
+| LOUKAS 1 | MR | 45,568 | 2005 | CROATIA | 17.0 | UNDISCLOSED |
+| NORMANNA | PROD / CHEM | 10,022 | 1996 | ITALY | 5.8 (S.S.) | TURKISH BUYERS |
 
 ## Page 6
 
@@ -301,15 +320,40 @@ Millions were affected by Monday's tremendous earthquakes in Syria and Turkey. T
 
 ## Page 14
 
-### Bunker Prices (USD / ton)
+economic problems. This year will serve as a critical inflection point for Turkey, as it approaches a presidential election on May 14.
 
-| PORT | VLSFO (0.5%) | HSFO (3.5%) | MGO (0.1%) |
-| :--- | :---: | :---: | :---: |
+Business activity in Turkey's rebar and scrap markets remained slow as attention was on the earthquake victims. Steelmakers in the affected region have halted production and are offering aid, while exporters have price ideas but no inquiries or offers are heard.
+
+The domestic rebar market remains muted, with exports yet to improve, while the scrap market is inactive.
+
+### BEACHING TIDE DATES 2022
+
+Chattogram, Bangladesh : 21st ~ 24th Feb. | 9th March ~ 12th March
+Alang, India : 18th Feb. ~ 25th Feb. | 7th March ~ 13th March
+
+# Bunker Prices
+
+#### BUNKER PRICES (USD/TON)
+
+| PORTS | VLSFO (0.5%) | IFO380 CST | MGO (0.1%) |
+| --- | --- | --- | --- |
 | SINGAPORE | 666 | 421 | 822 |
 | HONG KONG | 677 | 481 | 855 |
 | FUJAIRAH | 657 | 390 | 1127 |
 | ROTTERDAM | 599 | 410 | 804 |
 | HOUSTON | 637 | 409 | 908 |
+
+# Exchange Rates
+
+#### EXCHANGE RATES
+
+|  | 10th FEBRUARY | 3rd FEBRUARY | W-O-W % CHANGE |
+| --- | --- | --- | --- |
+| USD / CNY (CHINA) | 6.80 | 6.77 | -0.44% |
+| USD / BDT (BANGLADESH) | 104.65 | 107.28 | +2.45% |
+| USD / INR (INDIA) | 82.51 | 82.33 | -0.22% |
+| USD / PKR (PAKISTAN) | 271.49 | 275.18 | +1.34% |
+| USD / TRY (TURKEY) | 18.82 | 18.81 | -0.05% |
 
 ## Page 15
 

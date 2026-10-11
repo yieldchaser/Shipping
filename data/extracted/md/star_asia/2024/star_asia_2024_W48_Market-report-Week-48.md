@@ -107,17 +107,36 @@ West African market started strong, boosted by Mediterranean strength and USG ac
 
 ## Page 6
 
-Aframax:
+# Aframax:
 
 The Mediterranean market showed more robust activity despite late-week softening, with Ceyhan/Lavera rates climbing to WS145 w-o-w. In the North Sea, 80,000mt Cross-UKC slipped at start of week and saw rates settled at WS125.
 
-Clean:
+# Clean:
 
 LR: LR2 in the MEG showed signs of recovery, with rates climbing this week. TC1 route MEG/Japan climb 18 points to WS119, driven by steady cargo influx and fixtures, which has effectively absorbed available tonnage. In the LR1 segment, TC16 to West Africa climb to WS118.
 
 MR: In the MR segment, the Far East market finished notably stronger, with rates posting significant gains on the back of increased export volumes from China. In the MEG region, TC17 remains unchanged around the WS170-175 mark.
 
 ## Baltic Exchange Tanker Indices
+
+| INDICES | CURRENT | LAST WEEK | LAST YEAR | W-O-W CHANGE | Y-O-Y CHANGE |
+| --- | --- | --- | --- | --- | --- |
+| BDTI | 892 | 908 | 1,172 | -1.76% | -23.89% |
+| BCTI | 663 | 627 | 833 | +5.74% | -20.41% |
+
+# Tankers Values
+
+(Weekly)
+
+| TYPE | DWT | NB CONTRACT | NB PROMPT DELIVERY | 5 YEARS | 10 YEARS | 15 YEARS |
+| --- | --- | --- | --- | --- | --- | --- |
+| VLCC | 310,000 | 129 | 146 | 116 | 86 | 58 |
+| SUEZMAX | 160,000 | 90 | 99 | 83 | 68 | 50 |
+| AFRAMAX | 115,000 | 75 | 86 | 72 | 62 | 44 |
+| LRI | 73,000 | 62 | 68 | 58 | 48 | 32 |
+| MR | 51,000 | 52 | 53 | 50 | 41 | 28 |
+
+*(amount in USD million)
 
 ## Page 7
 
@@ -268,22 +287,35 @@ The ship recycling market showed little movement this week, with conditions larg
 
 ## Page 16
 
-remain hopeful that a recovery in vessel supply will coincide with the industry's progress toward sustainable and compliant practices.
+remain hopeful that a recovery in vessel supply will coincide with the industry’s progress toward sustainable and compliant practices.
 
-Turkish steel mills have adjusted their domestic buying prices downward this week, reflecting the ongoing decline in imported scrap prices. Market dynamics remain complex, with supply currently outpacing demand and steel sales stalling due to continuing price uncertainty. Supplier notes that steel producers are waiting for scrap prices to stabilize before expecting any improvement in steel sales. The outlook is further complicated by approaching winter conditions and holiday seasons, which could impact scrap supply. Some market participants suggest that Turkey may face challenges securing January shipment cargoes at current or lower price levels. In response to these market conditions, Turkish mills have reduced their long steel prices due to difficulties in both domestic and export markets. Domestic rebar offers have decreased to US$575/t ex-works from last week, while shipbreaking scrap prices have fallen to US$350/t delivered, down from US$365/ton.
+Anchorage & Beaching Position (November 2024)
 
----
+| VESSEL NAME | TYPE | LDT | ARRIVAL | BEACHING |
+| --- | --- | --- | --- | --- |
+| - | - | - | - | - |
 
-Chattogram, Bangladesh : 30 November - 3 December | 14 - 17 December Alang, India : 29 November - 7 December | 12 - 20 December
+# Aliaga, Turkey
 
----
+Turkish steel mills have adjusted their domestic buying prices downward this week, reflecting the ongoing decline in imported scrap prices.
 
-BUNKER PRICES (USD/TON)
+Market dynamics remain complex, with supply currently outpacing demand and steel sales stalling due to continuing price uncertainty. Supplier notes that steel producers are waiting for scrap prices to stabilize before expecting any improvement in steel sales. The outlook is further complicated by approaching winter conditions and holiday seasons, which could impact scrap supply. Some market participants suggest that Turkey may face challenges securing January shipment cargoes at current or lower price levels.
 
-PORTS VLSFO (0.5%) HSFO (3.5%) MGO (0.1%)
+In response to these market conditions, Turkish mills have reduced their long steel prices due to difficulties in both domestic and export markets. Domestic rebar offers have decreased to US\$575/t ex-works from last week, while shipbreaking scrap prices have fallen to US\$350/t delivered, down from US\$365/ton.
 
+# BEACHING TIDE DATES 2024
+
+Chattogram, Bangladesh : 30 November – 3 December | 14 – 17 December
+
+Alang, India
+
+: 29 November – 7 December | 12 – 20 December
+
+#### BUNKER PRICES (USD/TON)
+
+| PORTS | VLSFO (0.5%) | HSFO (3.5%) | MGO (0.1%) |
+| --- | --- | --- | --- |
 | SINGAPORE | 555 | 463 | 663 |
-|---|---|---|---|
 | HONG KONG | 589 | 489 | 683 |
 | FUJAIRAH | 555 | 453 | 728 |
 | ROTTERDAM | 512 | 463 | 655 |
@@ -291,21 +323,29 @@ PORTS VLSFO (0.5%) HSFO (3.5%) MGO (0.1%)
 
 ## Page 17
 
-Sub-Continent and Turkey ferrous scrap markets insight
+#### EXCHANGE RATES
+
+| CURRENCY | November 29 | November 22 | W-O-W % CHANGE |
+| --- | --- | --- | --- |
+| USD / CNY (CHINA) | 7.24 | 7.24 | 0 |
+| USD / BDT (BANGLADESH) | 119.61 | 120.0 | +0.33% |
+| USD / INR (INDIA) | 84.56 | 84.43 | -0.15% |
+| USD / PKR (PAKISTAN) | 278.03 | 277.69 | -0.12% |
+| USD / TRY (TURKEY) | 34.69 | 34.59 | -0.29% |
+
+# Sub-Continent and Turkey ferrous scrap markets insight
 
 The Sub-Continent ferrous scrap market saw subdued activity this week, with weak automotive and construction sectors in India following Diwali contributing to muted demand. Pakistan witnessed moderate buying ahead of the winter season, while Bangladesh faced limited buyer interest amid financial constraints and a struggling infrastructure sector. Meanwhile, Turkish mills continued to exert pressure on prices, aiming to offload inventories before the New Year.
 
-### India's imported scrap market remained stable, with demand stagnant due to weak
+India's imported scrap market remained stable, with demand stagnant due to weak performance in the automotive and construction industries. Ongoing rains in several states further impeded recovery. Market insiders indicated that regional rebar price fluctuations offered no signs of long-term improvement.
 
-performance in the automotive and construction industries. Ongoing rains in several states further impeded recovery. Market insiders indicated that regional rebar price fluctuations offered no signs of long-term improvement. Buyers bid US$360/ton for HMS from Africa, while sellers held firm at US$365-368/ton, creating a bid-offer disparity. Offers for shredded scrap from the UK and EU were quoted at US$384-385/ton, and HMS at US$362-364/ton CFR West Coast India. A UK-based supplier remarked that "UK scrap export prices are unlikely to rise before Christmas," citing lackluster demand from Asian buyers.
+Buyers bid US$360/ton for HMS from Africa, while sellers held firm at US$365-368/ton, creating a bid-offer disparity. Offers for shredded scrap from the UK and EU were quoted at US$384-385/ton, and HMS at US$362-364/ton CFR West Coast India. A UK-based supplier remarked that "UK scrap export prices are unlikely to rise before Christmas," citing lackluster demand from Asian buyers.
 
-**Pakistan's imported scrap market remained quiet, though buying activity picked up**
+Pakistan's imported scrap market remained quiet, though buying activity picked up slightly in preparation for the December holidays. Suppliers quoted $390/t for UK/EU-origin scrap, with deals concluded at US$388-389/ton for 10,000-12,000 t this week.
 
-slightly in preparation for the December holidays. Suppliers quoted $390/t for UK/EUorigin scrap, with deals concluded at US$388-389/ton for 10,000-12,000 t this week. Locally sourced scrap prices remain higher by PKR 1,000-2,000/t (US$4-7/ton), driving mills to prefer imports during the restocking season.
+Locally sourced scrap prices remain higher by PKR 1,000-2,000/t (US$4-7/ton), driving mills to prefer imports during the restocking season.
 
-### Bangladesh's imported scrap market remained sluggish, impacted by limited buyer
-
-interest and weak steel demand. Offers for EU/UK-origin shredded were at US$385- 388/ton CFR Chattogram, though bids were lower as buyers awaited further price corrections.
+Bangladesh's imported scrap market remained sluggish, impacted by limited buyer interest and weak steel demand. Offers for EU/UK-origin shredded were at US$385-388/ton CFR Chattogram, though bids were lower as buyers awaited further price corrections.
 
 ## Page 18
 

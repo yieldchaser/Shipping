@@ -384,7 +384,7 @@ The Dry bulk sector has the lion's share of the previous week's newbuilding cont
 # Demolition Market
 ## Indicative Demolition Prices ($/ldt)
 
-| Markets | Markets | 03/06/2022 | 27/05/2022 | ±% | 2021 | 2020 |
+| Markets | 03/06/2022 | 27/05/2022 | ±% | 2021 | 2020 | 2019 |
 | --- | --- | --- | --- | --- | --- | --- |
 | Tanker |  |  |  |  |  |  |
 | Bangladesh | 610 | 610 | 0.0% | 542 | 348 | 410 |

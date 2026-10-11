@@ -99,21 +99,35 @@ The West African market ended with stable rates, supported by ongoing supply cru
 
 ## Page 6
 
-Aframax:
+# Aframax:
 
 MEG recorded a significant milestone, reaching the WS200 level for the first time since June 2024. This notable increase was due to strong demand for FO directed toward Singapore, and a reduction in the number of ballasters to the Middle East. In the Mediterranean, 80,000mt Ceyhan/Lavera increased 3 modest points to WS217.
 
-Clean:
+# Clean:
 
-**LR: The Middle East LR2 market concluded higher with TC1 to Japan climbing to WS144.**
+LR: The Middle East LR2 market concluded higher with TC1 to Japan climbing to WS144. Despite Bahri week, tight supply of available vessels and an uptick of new cargo inquiries kept sentiments positive this week. In LR1, MEG remains flat this week with levels to TC5 close at WS141.
 
-Despite Bahri week, tight supply of available vessels and an uptick of new cargo inquiries kept sentiments positive this week. In LR1, MEG remains flat this week with levels to TC5 close at WS141.
-
-**MR: The MR market in the Far East ended the week with slightly strong freight rates, driven**
-
-by a recovery in regional demand. In the MEG, rates remained stable with TC17 MEG/East Africa gain 5 points to the WS218.
+MR: The MR market in the Far East ended the week with slightly strong freight rates, driven by a recovery in regional demand. In the MEG, rates remained stable with TC17 MEG/East Africa gain 5 points to the WS218.
 
 ## Baltic Exchange Tanker Indices
+
+| INDICES | CURRENT | LAST WEEK | LAST YEAR | W-O-W CHANGE | Y-O-Y CHANGE |
+| --- | --- | --- | --- | --- | --- |
+| BDTI | 1,453 | 1,403 | 890 | +3.56% | +63.26% |
+| BCTI | 702 | 642 | 477 | +9.35% | +47.17% |
+
+# Tankers Values
+
+(Weekly)
+
+| TYPE | DWT | NB CONTRACT | NB PROMPT DELIVERY | 5 YEARS | 10 YEARS | 15 YEARS |
+| --- | --- | --- | --- | --- | --- | --- |
+| VLCC | 310,000 | 126 | 147 | 116 (E) | 85(E) | 51 |
+| SUEZMAX | 160,000 | 86 | 93 | 77 (E) | 61 (E) | 40 |
+| AFRAMAX | 115,000 | 75 | 75 | 64 (E) | 50 (E) | 35 |
+| LRI | 73,000 | 60 | 62 | 51 (E) | 42 (E) | 25 |
+| MR | 51,000 | 49 | 52 | 41 (E) | 31 (E) | 21 |
+| *(amount in USD million) I (E) – eco units | *(amount in USD million) I (E) – eco units | *(amount in USD million) I (E) – eco units | *(amount in USD million) I (E) – eco units | *(amount in USD million) I (E) – eco units | *(amount in USD million) I (E) – eco units | *(amount in USD million) I (E) – eco units |
 
 ## Page 7
 
@@ -222,22 +236,37 @@ Anchorage & Beaching Position (November 2025)
 
 ## Page 15
 
-Gadani
+# Gadani
 
-The Pakistan market shows no change, continuing to lean toward the weaker side with flat sentiment and no immediate signs of improvement. Economic challenges, like inflation, have dampened local demand and led to a noticeable absence of deals, keeping buying activity minimal. Ship recyclers are holding their price offers stable despite the generally slow pace of the local steel market.
+The Pakistan market shows no change, continuing to lean toward the weaker side with flat sentiment and no immediate signs of improvement. Economic challenges, like inflation, have dampened local demand and led to a noticeable absence of deals, keeping buying activity minimal.
 
----
+Ship recyclers are holding their price offers stable despite the generally slow pace of the local steel market.
 
-Chattogram, Bangladesh : 18 ~ 21 November | 3 ~ 6 December Alang, India : 18 ~ 25 November | 2 ~ 10 December
+Anchorage & Beaching Position (November 2025)
 
----
+| VESSEL NAME | TYPE | LDT | ARRIVAL | BEACHING |
+| --- | --- | --- | --- | --- |
+| - | - | - | - | - |
 
-BUNKER PRICES (USD/ton)
+# Aliaga, Turkey
 
-PORTS VLSFO (0.5%) HSFO (3.5%) MGO (0.1%)
+The Turkish ship recycling market remain static from the last few weeks with no indication of movement in either direction.
 
+Market remains subdued with no new sale to report this week.
+
+# BEACHING TIDE DATES 2025
+
+Chattogram, Bangladesh : 18 ~ 21 November | 3 ~ 6 December
+
+Alang, India
+
+: 18 ~ 25 November | 2 ~ 10 December
+
+#### BUNKER PRICES (USD/ton)
+
+| PORTS | VLSFO (0.5%) | HSFO (3.5%) | MGO (0.1%) |
+| --- | --- | --- | --- |
 | SINGAPORE | 466 | 385 | 733 |
-|---|---|---|---|
 | HONG KONG | 475 | 408 | 703 |
 | FUJAIRAH | 459 | 357 | 741 |
 | ROTTERDAM | 432 | 402 | 707 |
@@ -245,19 +274,29 @@ PORTS VLSFO (0.5%) HSFO (3.5%) MGO (0.1%)
 
 ## Page 16
 
-Sub-Continent and Turkey ferrous scrap markets insights
+#### EXCHANGE RATES
+
+| CURRENCY | November 14 | November 7 | W-O-W % CHANGE |
+| --- | --- | --- | --- |
+| USD / CNY (CHINA) | 7.09 | 7.10 | +0.14% |
+| USD / BDT (BANGLADESH) | 122.17 | 122.0 | -0.14% |
+| USD / INR (INDIA) | 88.68 | 88.67 | -0.01% |
+| USD / PKR (PAKISTAN) | 280.75 | 282.74 | +0.70% |
+| USD / TRY (TURKEY) | 42.18 | 42.19 | +0.02% |
+
+# Sub-Continent and Turkey ferrous scrap markets insights
 
 ### India
 
-The imported ferrous scrap market in India showed only a mild improvement, with Ludhiana prices moving up slightly despite persistent bid-offer disparities that limited trading. Offers for hand-loaded HMS from Mozambique (1% contamination) stood at US$330 per ton, against firm bids of US$325 per ton. Shredded scrap continued to be considered unviable above the US$350 per ton mark, while Polish HMS was priced at US$325 per ton, and Irish turning (3% contamination) saw offers at US$310 per ton against lower bids of US$295 per ton. Overall sentiment remained weak due to sluggish demand for finished steel and limited purchasing from mills. General offers for HMS ranged from US$312-315 per ton, PNS at US$330 per ton, and Japanese bulk mix bundles were offered at US$350-355 per ton CFR. In the domestic market, rebar prices hovered between INR 41,000-43,000 per ton.
+The imported ferrous scrap market in India showed only a mild improvement, with Ludhiana prices moving up slightly despite persistent bid-offer disparities that limited trading. Offers for hand-loaded HMS from Mozambique (1% contamination) stood at US$330 per ton, against firm bids of US$325 per ton. Shredded scrap continued to be considered unviable above the US$350 per ton mark, while Polish HMS was priced at US$325 per ton, and Irish turning (3% contamination) saw offers at US$310 per ton against lower bids of US$295 per ton. Overall sentiment remained weak due to sluggish demand for finished steel and limited purchasing from mills. General offers for HMS ranged from US$312–315 per ton, PNS at US$330 per ton, and Japanese bulk mix bundles were offered at US$350–355 per ton CFR. In the domestic market, rebar prices hovered between INR 41,000–43,000 per ton.
 
 ### Pakistan
 
-Imported shredded scrap prices in Pakistan maintained stability w-o-w, holding steady at US$355-356 per ton CFR Qasim, with European and U.K.-origin material assessed at approximately US$355 per ton. While buyers were active at the US$355 per ton level for shredded material, offers originating from the U.A.E. remained significantly higher, hovering near US$370 per ton. Domestically, local scrap was trading around PKR 135,000 per ton delivered.
+Imported shredded scrap prices in Pakistan maintained stability w-o-w, holding steady at US$355–356 per ton CFR Qasim, with European and U.K.-origin material assessed at approximately US$355 per ton. While buyers were active at the US$355 per ton level for shredded material, offers originating from the U.A.E. remained significantly higher, hovering near US$370 per ton. Domestically, local scrap was trading around PKR 135,000 per ton delivered.
 
 ### Bangladesh
 
-The imported scrap market in Bangladesh remained quiet, characterized by declining prices due to weak buying interest. Offers for GI bundles were heard around US$310 per ton, with buyers bidding at US$305 per ton. HMS 80:20 from Australia was reportedly at US$330 per ton, while mixed HMS-PNS cargoes from Hong Kong were offered at US$330- 335 per ton. Australian shredded scrap offers stood notably higher at US$360-365 per ton CFR, with general HMS offers ranging from US$345-350 per ton CFR.
+The imported scrap market in Bangladesh remained quiet, characterized by declining prices due to weak buying interest. Offers for GI bundles were heard around US$310 per ton, with buyers bidding at US$305 per ton. HMS 80:20 from Australia was reportedly at US$330 per ton, while mixed HMS-PNS cargoes from Hong Kong were offered at US$330–335 per ton. Australian shredded scrap offers stood notably higher at US$360–365 per ton CFR, with general HMS offers ranging from US$345–350 per ton CFR.
 
 ## Page 17
 
@@ -275,16 +314,21 @@ impact of softening near-term demand in top consumer China and the prospects of 
 
 ## Page 18
 
+pressured prices earlier in the month, leading some steelmakers to increase equipment maintenance amid shrinking margins. However, analysts also noted that the market has absorbed some of these initial bearish expectations, allowing for a limited restoration of valuation. Additional support came from hopes that Chinese steel mills might soon begin restocking seaborne cargoes in preparation for the upcoming Chinese New Year holiday in February.
+
+Furthermore, momentum was observed in the narrowing of the basis—the difference between spot and futures prices—a divergence that had seen futures prices slide more rapidly than the spot market earlier in the month. Turning to other steelmaking components, coking coal and coke (DCJcv1) experienced small decreases of 0.29% and 0.3%, respectively. Meanwhile, steel benchmarks on the Shanghai Futures Exchange traded within a tight range, with rebar adding 0.23%, hot-rolled coil edging down 0.12%, and wire rod (SVRcv1) sliding 0.63%, while stainless steel HRC1 showed little change.
+
 ### Iron Ore
 
-| COMMODITY (USD/MT) | GRADE |
-| --- | --- |
-| Iron Ore Fines, CNF Rizhao, China | Fines, Fe 62% (Aust. Origin) 108 +1.88% +5.88% 106 102 Iron Ore Fines, CNF Qingdao, China Fines, Fe 62.5% (Brazil Origin) 105 +1.94% 0% 103 105 INDEX UNITS PRICE CHANGE %CHANGE CONTRACT Copper (Comex) USD / lb. 495.70 -1.05 -0.21% Dec 2025 3Mo Copper (L.M.E.) USD / MT 10,716.50 +34.00 +0.32% N/A 3Mo Aluminum (L.M.E.) USD / MT 2,848.00 +3.50 +0.12% N/A 3Mo Zinc (L.M.E.) USD / MT 3,056.00 +9.50 +0.31% N/A 3Mo Tin (L.M.E.) USD / MT 35,822.00 -23.00 -0.06% N/A |
+| COMMODITY | SIZE / GRADE | THIS WEEK USD / MT | W-O-W | Y-O-Y | LAST WEEK USD / MT | LAST YEAR USD / MT |
+| --- | --- | --- | --- | --- | --- | --- |
+| Iron Ore Fines, CNF Rizhao, China | Fines, Fe 62% (Aust. Origin) | 108 | +1.88% | +5.88% | 106 | 102 |
+| Iron Ore Fines, CNF Qingdao, China | Fines, Fe 62.5% (Brazil Origin) | 105 | +1.94% | 0% | 103 | 105 |
 
 ### Industrial Metal Rates
 
-| INDEX | UNITS | PRICE | CHANGE | % CHANGE | CONTRACT |
-| :--- | :--- | :---: | :---: | :---: | :---: |
+| INDEX | UNITS | PRICE | CHANGE | %CHANGE | CONTRACT |
+| --- | --- | --- | --- | --- | --- |
 | Copper (Comex) | USD / lb. | 495.70 | -1.05 | -0.21% | Dec 2025 |
 | 3Mo Copper (L.M.E.) | USD / MT | 10,716.50 | +34.00 | +0.32% | N/A |
 | 3Mo Aluminum (L.M.E.) | USD / MT | 2,848.00 | +3.50 | +0.12% | N/A |

@@ -101,15 +101,37 @@ The WAFR section of the market witnessed an increase in activity this week due t
 
 ## Page 7
 
-Aframax:
+#### Aframax:
 
 Since the end of May, freight rates for MEG/SE Asia routes have been experiencing a downtrend, primarily due to the slowdown in crude oil demand in SE Asia. While the Atlantic shows signs of recovery, the slump in the upper linear market continues to be a burden. However, at the week's closing, rates improved, with 70,000mt EC Mexico/USG climbing a few points to WS216.
 
-Clean:
+#### Clean:
 
-LR: The eastern Suez region has witnessed a slowdown in new cargo inflow, leading to an increase in the number of available ships. As a result, the MEG/NE Asia segment experienced a significant plunge of 20.5%. Overall the LR market had a quiet week with steady rates. Sentiments remained steady despite limited cargoes and a moderate list. Rates in the MEG strengthened, and owners are hopeful for continued momentum into the next week. Both LR1 and LR2 vessels improved, with TC5 reaching nearly WS140. TC16 on the UKC route remained stable around WS125. MR: The MR market experienced a week of mixed outcomes, with UKC rates weakening, but rates outside the USG strengthening due to increased demand and reduced available tonnage. MEG MR vessels have eagerly anticipated the trickle-down effects of LR improvements throughout the week. The TC17 index has maintained stability at WS235 throughout the entire week.
+LR: The eastern Suez region has witnessed a slowdown in new cargo inflow, leading to an increase in the number of available ships. As a result, the MEG/NE Asia segment experienced a significant plunge of 20.5%. Overall the LR market had a quiet week with steady rates. Sentiments remained steady despite limited cargoes and a moderate list. Rates in the MEG strengthened, and owners are hopeful for continued momentum into the next week. Both LR1 and LR2 vessels improved, with TC5 reaching nearly WS140. TC16 on the UKC route remained stable around WS125.
+
+MR: The MR market experienced a week of mixed outcomes, with UKC rates weakening, but rates outside the USG strengthening due to increased demand and reduced available tonnage. MEG MR vessels have eagerly anticipated the trickle-down effects of LR improvements throughout the week. The TC17 index has maintained stability at WS235 throughout the entire week.
 
 # Tankers S&P Report
+
+| VESSEL NAME | TYPE | DWT | YEAR | BUILT | PRICE (MILLION) USD | COMMENTS / BUYERS |
+| --- | --- | --- | --- | --- | --- | --- |
+| GULF CORAL | LR1 | 74,999 | 2009 | S. KOREA | 28.5 | UNDISCLOSED |
+| LAKE STURGEON | LR1 | 74,993 | 2007 | JAPAN | 27.0 | UNDISCLOSED |
+| MTM POTOMAC | MR | 51.291 | 2004 | S. KOREA | 18.0 | UNDISCLOSED |
+
+# Tankers Values
+
+(Weekly)
+
+| TYPE | DWT | NB CONTRACT | NB PROMPT DELIVERY | 5 YEARS | 10 YEARS | 15 YEARS |
+| --- | --- | --- | --- | --- | --- | --- |
+| VLCC | 310,000 | 126 | 125 | 100 | 76 | 52 |
+| SUEZMAX | 160,000 | 85 | 89 | 74 | 57 | 31 |
+| AFRAMAX | 115,000 | 67 | 78 | 63 | 52 | 30 |
+| PANAMAX-LR1 | 73,000 | 57 | 60 | 50 | 40 | 20 |
+| MR TANKER | 51,000 | 46 | 50 | 42 | 34 | 20 |
+
+* (amount in USD million)
 
 ## Page 8
 
@@ -262,27 +284,26 @@ The Turkish lira's sharp decline to new record lows against the US dollar has ca
 
 ## Page 16
 
+# BEACHING TIDE DATES 2023
+
 Chattogram, Bangladesh : 17th ~ 20th June | 03rd ~ 06th July | 18th ~ 21st July
 
 Alang, India : 14th ~ 22nd June | 01st ~ 09th July | 13th ~ 22nd July
 
----
+#### BUNKER PRICES (USD/TON)
 
-BUNKER PRICES (USD/TON)
-
-PORTS VLSFO (0.5%) IFO380 CST MGO (0.1%)
-
+| PORTS | VLSFO (0.5%) | IFO380 CST | MGO (0.1%) |
+| --- | --- | --- | --- |
 | SINGAPORE | 585 | 442 | 716 |
-|---|---|---|---|
 | HONG KONG | 604 | 462 | 689 |
 | FUJAIRAH | 566 | 429 | 837 |
 | ROTTERDAM | 540 | 450 | 690 |
 | HOUSTON | 532 | 421 | 714 |
 
-EXCHANGE RATES
+#### EXCHANGE RATES
 
-| CURRENCY | 16th JUNE | 9th JUNE | W-O-W % CHANGE |
-|---|---|---|---|
+| CURRENCY | 16 th JUNE | 9 th JUNE | W-O-W % CHANGE |
+| --- | --- | --- | --- |
 | USD / CNY (CHINA) | 7.11 | 7.12 | +0.14% |
 | USD / BDT (BANGLADESH) | 107.76 | 107.73 | -0.03% |
 | USD / INR (INDIA) | 81.93 | 82.46 | 0.64% |
@@ -291,9 +312,11 @@ EXCHANGE RATES
 
 # Commodities
 
-Insight
+### Insight
 
-The metals market witnessed a significant rally as expectations grew regarding potential stimulus measures from China. This surge was further bolstered by a positive sentiment prevailing across various markets, triggered by lower-than-anticipated inflation figures in the United States. Among the base metals, copper led the way, propelled by China's decision to reduce its short-term policy interest rate. The People's Bank of China (PBoC) announced a 10 basis point cut in its seven-day reverse repo rate, bringing it down to 1.9%. This move was prompted by weakening credit demand in May, with aggregate financing amounting to CNY1.6 trillion. Additionally, reports indicated that Beijing is contemplating a comprehensive package of stimulus measures aimed at supporting the real estate market. These
+The metals market witnessed a significant rally as expectations grew regarding potential stimulus measures from China. This surge was further bolstered by a positive sentiment prevailing across various markets, triggered by lower-than-anticipated inflation figures in the United States.
+
+Among the base metals, copper led the way, propelled by China's decision to reduce its short-term policy interest rate. The People's Bank of China (PBoC) announced a 10 basis point cut in its seven-day reverse repo rate, bringing it down to 1.9%. This move was prompted by weakening credit demand in May, with aggregate financing amounting to CNY1.6 trillion. Additionally, reports indicated that Beijing is contemplating a comprehensive package of stimulus measures aimed at supporting the real estate market. These
 
 ## Page 17
 

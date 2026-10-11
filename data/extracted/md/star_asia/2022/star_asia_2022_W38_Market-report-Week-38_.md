@@ -126,6 +126,17 @@ levels soared to US$ 15,250's region at closing.
 
 ## Page 4
 
+#### BULKER 12 MONTHS T/C RATES AVERAGE (IN USD/DAY)
+
+|  | DWT | CURRENT | LAST WEEK | LAST YEAR | W-O-W CHANGE % | Y-O-Y CHANGE % |
+| --- | --- | --- | --- | --- | --- | --- |
+| CAPE | 180,000 | 16,000 | 13,750 | 33,125 | +16.36 | -51.70 |
+| PANAMAX | 75,000 | 15,250 | 14,650 | 29,000 | +4.10 | -47.41 |
+| SUPRAMAX | 52,000 | 14,750 | 14,500 | 29,500 | +1.72 | -50.00 |
+| HANDYSIZE | 32,000 | 13,500 | 13,500 | 28,500 | 0 | -52.63 |
+
+# Dry Bulk 1 year T/C rates
+
 ## Page 5
 
 # Tankers
@@ -322,15 +333,40 @@ toward the steel industry in Bangladesh. However these are hypothetical assumpti
 
 ## Page 14
 
-### Bunker Prices (USD / ton)
+Due to the extremely low level of sales in both the export and local markets, Turkish rebar manufacturers were compelled to reduce their rebar prices. Although scrap costs have declined at a faster rate, this has not been reflected in rebar pricing. This is owing to sluggish demand for rebar, production curtailment, and the anticipation of more energy price increases.
 
-| PORT | VLSFO (0.5%) | HSFO (3.5%) | MGO (0.1%) |
-| :--- | :---: | :---: | :---: |
+However, current scrap prices do not permit mills to reduce their [rebar] pricing to these levels due to significant manufacturing expenses. Under the present market conditions, scrap prices should drop below US$300/t C.F.R. Turkey. No new orders for scrap have been reported, and both Turkish mills and scrap suppliers are resisting existing pricing.
+
+Ship recycling was at a slower pace, with ship prices stable at the prevailing rates.
+
+#### BEACHING TIDE DATES 2022
+
+Chattogram, Bangladesh : 25th Sept ~ 28th Sept. | 8th Oct. to 11th Oct.
+Alang, India : 24th Sept. ~ 02nd Oct. | 7th Oct. ~ 15th Oct.
+
+# Bunker Prices
+
+#### BUNKER PRICES (USD/TON)
+
+| PORTS | VLSFO (0.5%) | IFO380 CST | MGO (0.1%) |
+| --- | --- | --- | --- |
 | SINGAPORE | 696 | 411 | 936 |
 | HONG KONG | 712 | 459 | 977 |
 | FUJAIRAH | 715 | 439 | 1246 |
 | ROTTERDAM | 679 | 443 | 976 |
 | HOUSTON | 689 | 473 | 1000 |
+
+# Exchange Rates
+
+#### EXCHANGE RATES
+
+|  | 23rd SEPTEMBER | 16th SEPTEMBER | W-O-W % CHANGE |
+| --- | --- | --- | --- |
+| USD / CNY (CHINA) | 7.11 | 6.98 | -1.86 |
+| USD / BDT (BANGLADESH) | 102.09 | 104.25 | +2.07 |
+| USD / INR (INDIA) | 81.25 | 79.68 | -1.97 |
+| USD / PKR (PAKISTAN) | 239.58 | 238.39 | -0.50 |
+| USD / TRY (TURKEY) | 18.42 | 18.26 | -0.88 |
 
 ## Page 15
 

@@ -87,9 +87,24 @@ BALTIC EXCHANGE DRY BULK INDICES
 
 ## Page 4
 
+#### BULKER 12 MONTHS T/C RATES AVERAGE (IN USD/DAY)
+
+|  | DWT | CURRENT | LAST WEEK | LAST YEAR | W-O-W CHANGE % | Y-O-Y CHANGE % |
+| --- | --- | --- | --- | --- | --- | --- |
+| CAPE | 180,000 | 16,000 | 14,750 | 23,250 | +8.47% | -31.18% |
+| PANAMAX | 75,000 | 13,750 | 13,500 | 21,950 | +1.85% | -37.36% |
+| SUPRAMAX | 52,000 | 13,750 | 11,000 | 22,250 | +25.00% | -38.20% |
+| HANDYSIZE | 32,000 | 9,750 | 9,000 | 18,500 | +8.33% | -47.30% |
+
+### Dry Bulk 1 year T/C rates
+
 ## Tankers
 
-The IEA states that the current global energy crisis is characterized by unprecedented complexity and depth. This year's outlook highlights that the events of Russia's invasion of Ukraine and the Covid-19 pandemic have disrupted the energy trade and that there is no going back to the way things were before. Geopolitical and economic shockwaves are also starting to impact the global economy. Despite the various geopolitical events of the past few years, the future of world trade is still uncertain. Some experts argue that the global south is gaining ground in the geopolitical arena due to climate change, while others believe that protectionist policies in developed countries threaten the interests of less developed nations. The crisis was caused by the West's reliance on a despotic regime, and countries are now trying to address the situation by implementing protectionist policies, which are expected to limit the
+The IEA states that the current global energy crisis is characterized by unprecedented complexity and depth. This year's outlook highlights that the events of Russia's invasion of Ukraine and the Covid-19 pandemic have disrupted the energy trade and that there is no going back to the way things were before.
+
+Geopolitical and economic shockwaves are also starting to impact the global economy. Despite the various geopolitical events of the past few years, the future of world trade is still uncertain. Some experts argue that the global south is gaining ground in the geopolitical arena due to climate change, while others believe that protectionist policies in developed countries threaten the interests of less developed nations.
+
+The crisis was caused by the West's reliance on a despotic regime, and countries are now trying to address the situation by implementing protectionist policies, which are expected to limit the
 
 ## Page 5
 
@@ -335,15 +350,29 @@ ALIAGA, TURKEY Turkish mills have decreased their buying prices for domestic scr
 
 ## Page 15
 
-### Bunker Prices (USD / ton)
+# Bunker Prices
 
-| PORT | VLSFO (0.5%) | HSFO (3.5%) | MGO (0.1%) |
-| :--- | :---: | :---: | :---: |
+#### BUNKER PRICES (USD/TON)
+
+| PORTS | VLSFO (0.5%) | IFO380 CST | MGO (0.1%) |
+| --- | --- | --- | --- |
 | SINGAPORE | 591 | 395 | 902 |
 | HONG KONG | 636 | 436 | 954 |
 | FUJAIRAH | 627 | 379 | 1145 |
 | ROTTERDAM | 571 | 386 | 896 |
 | HOUSTON | 625 | 402 | 1027 |
+
+# Exchange Rates
+
+#### EXCHANGE RATES
+
+|  | 20th JANUARY | 13th JANUARY | W-O-W % CHANGE |
+| --- | --- | --- | --- |
+| USD / CNY (CHINA) | 6.78 | 6.70 | -1.19% |
+| USD / BDT (BANGLADESH) | 104.02 | 104.20 | +0.17% |
+| USD / INR (I.N.D.I.A.) | 80.95 | 81.29 | +0.42% |
+| USD / PKR (PAKISTAN) | 229.79 | 229.00 | -0.34% |
+| USD / TRY (TURKEY) | 18.77 | 18.80 | +0.16% |
 
 ## Page 16
 

@@ -265,22 +265,27 @@ Anchorage & Beaching Position (January 2024)
 
 ## Page 15
 
-Aliaga, Turkey
+# Aliaga, Turkey
 
-Last week, most Turkish mills initiated a rise in their domestic scrap buying prices, aiming to counter the lira's depreciation against the dollar and the recent increases in imported scrap values. The demand for imported scrap has slowed down as Turkish mills focus on steel sales after securing numerous deep-sea cargoes. A mill, considering weakened fundamentals, foresees scrap prices retreating towards US$400/t cfr in the near term. Price pressure stems from various factors, including the weaker Chinese market, declines in U.S. domestic scrap prices, geopolitical tension, subdued demand in alternative markets, and a slowdown in Turkey's domestic rebar demand. Lower freight rates, a weakening euro against the dollar, and scrap supply surpassing demand further contribute to the overall market dynamics. In the domestic market, rebar demand remained subdued midweek. Turkish shipbreaking scrap prices ranged from US$375-410/t delivered, while the lira closed at 30.20 per dollar.
+Last week, most Turkish mills initiated a rise in their domestic scrap buying prices, aiming to counter the lira's depreciation against the dollar and the recent increases in imported scrap values. The demand for imported scrap has slowed down as Turkish mills focus on steel sales after securing numerous deep-sea cargoes.
 
----
+A mill, considering weakened fundamentals, foresees scrap prices retreating towards US$400/t cfr in the near term. Price pressure stems from various factors, including the weaker Chinese market, declines in U.S. domestic scrap prices, geopolitical tension, subdued demand in alternative markets, and a slowdown in Turkey's domestic rebar demand.
 
-Chattogram, Bangladesh : 27 ~ 30 January | 11 ~ 14 February Alang, India : 23 ~ 30 January | 8 ~ 15 February
+Lower freight rates, a weakening euro against the dollar, and scrap supply surpassing demand further contribute to the overall market dynamics.
 
----
+In the domestic market, rebar demand remained subdued midweek. Turkish shipbreaking scrap prices ranged from US$375-410/t delivered, while the lira closed at 30.20 per dollar.
 
-BUNKER PRICES (USD/TON)
+# BEACHING TIDE DATES 2024
 
-PORTS VLSFO (0.5%) IFO380 CST MGO (0.1%)
+Chattogram, Bangladesh : 27 ~ 30 January | 11 ~ 14 February
 
+Alang, India : 23 ~ 30 January | 8 ~ 15 February
+
+#### BUNKER PRICES (USD/TON)
+
+| PORTS | VLSFO (0.5%) | IFO380 CST | MGO (0.1%) |
+| --- | --- | --- | --- |
 | SINGAPORE | 616 | 454 | 780 |
-|---|---|---|---|
 | HONG KONG | 627 | 467 | 773 |
 | FUJAIRAH | 608 | 416 | 901 |
 | ROTTERDAM | 549 | 429 | 766 |
@@ -288,7 +293,21 @@ PORTS VLSFO (0.5%) IFO380 CST MGO (0.1%)
 
 ## Page 16
 
+#### EXCHANGE RATES
+
+| CURRENCY | JANUARY 19 | JANUARY 12 | W-O-W % CHANGE |
+| --- | --- | --- | --- |
+| USD / CNY (CHINA) | 7.13 | 7.12 | -0.14% |
+| USD / BDT (BANGLADESH) | 109.78 | 109.68 | -0.09% |
+| USD / INR (INDIA) | 83.10 | 82.85 | -0.30% |
+| USD / PKR (PAKISTAN) | 280.09 | 280.44 | +0.12% |
+| USD / TRY (TURKEY) | 30.20 | 30.10 | -0.33% |
+
 ## HMS 1/2 & Tangshan Billet
+
+TANGSHAN BILLET EX-WORKS (CNY/T)
+
+HMS 1/2 TURKEY CFR (USD/T)
 
 ## Page 17
 

@@ -414,7 +414,7 @@ The momentum in the newbuilding market remains strong with more gas carrier and 
 # Intermodal Demolition Market
 ## Indicative Demolition Prices ($/ldt)
 
-| Markets | Markets | 10/12/2021 | 03/12/2021 | ±% | 2020 | 2019 |
+| Markets | 10/12/2021 | 03/12/2021 | ±% | 2020 | 2019 | 2018 |
 | --- | --- | --- | --- | --- | --- | --- |
 | Tanker |  |  |  |  |  |  |
 | Bangladesh | 600 | 605 | -0.8% | 348 | 410 | 442 |

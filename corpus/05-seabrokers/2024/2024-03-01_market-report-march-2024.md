@@ -49,31 +49,9 @@ According to Ross McGavin, principal analyst at Wood Mackenzie, "National Oil Co
 
 The report has also indicated that project breakevens are projected to fall this year with the class of 2024 requiring an average of just USD 47 per barrel to generate a 15% Internal Rate of Return (IRR).
 
-| Year | Total FIDs | Class of 2023 potential | Total pre-FIDs |
-| ---- | ---------- | ----------------------- | -------------- |
-| 2015 | 10         |                         |                |
-| 2016 | 15         |                         |                |
-| 2017 | 35         |                         |                |
-| 2018 | 51         |                         |                |
-| 2019 | 45         |                         |                |
-| 2020 | 14         |                         |                |
-| 2021 | 40         |                         |                |
-| 2022 | 35         |                         |                |
-| 2023 | 20         | 20                      |                |
-| 2024 |            |                         | 30             |
+> **Chart not transcribed.** The figure prints no values; the table the parser estimated from the image was removed. See the source PDF.
 
-| Year | Project capex | pre-FID capex |
-| ---- | ------------- | ------------- |
-| 2015 | 58            |               |
-| 2016 | 98            |               |
-| 2017 | 85            |               |
-| 2018 | 190           |               |
-| 2019 | 108           |               |
-| 2020 | 32            |               |
-| 2021 | 156           |               |
-| 2022 | 138           |               |
-| 2023 | 122           |               |
-| 2024 |               | 115           |
+> **Chart not transcribed.** The figure prints no values; the table the parser estimated from the image was removed. See the source PDF.
 
 Source: Wood Mackenzie Lens and Q1 2024 FID tracker; *dataset only includes projects with reserves over 50 mmboe.
 *Project capex is the total committed project spend in the year of FID (in year of FID terms – e.g. 2016 projects are shown in 2016 terms).
@@ -164,39 +142,41 @@ Skandi Amazonas (c/o Capt J. Plug)
 
 ## MARCH 2024 - DAILY NORTH SEA OSV AVAILABILITY
 
+> **Read from the chart.** The report prints no numbers for this chart; each value is the chart line's node for that day, converted with the printed axis labels (vector geometry, not an eyeball estimate).
+
 | Date | PSV 2024 | PSV 2023 | AHTS 2024 | AHTS 2023 |
-| ---- | -------- | -------- | --------- | --------- |
-| 1    | 12       | 13       | 9         | 6         |
-| 2    | 12       | 14       | 8         | 6         |
-| 3    | 12       | 14       | 7         | 5         |
-| 4    | 12       | 15       | 0         | 5         |
-| 5    | 12       | 16       | 0         | 0         |
-| 6    | 16       | 21       | 0         | 8         |
-| 7    | 12       | 15       | 1         | 8         |
-| 8    | 13       | 15       | 3         | 7         |
-| 9    | 14       | 15       | 5         | 5         |
-| 10   | 14       | 15       | 6         | 5         |
-| 11   | 14       | 15       | 8         | 5         |
-| 12   | 14       | 15       | 5         | 4         |
-| 13   | 14       | 15       | 5         | 4         |
-| 14   | 11       | 15       | 5         | 1         |
-| 15   | 11       | 5        | 5         | 1         |
-| 16   | 10       | 5        | 6         | 2         |
-| 17   | 12       | 6        | 7         | 4         |
-| 18   | 13       | 7        | 9         | 5         |
-| 19   | 14       | 8        | 10        | 6         |
-| 20   | 14       | 10       | 15        | 10        |
-| 21   | 15       | 10       | 16        | 10        |
-| 22   | 16       | 10       | 16        | 10        |
-| 23   | 14       | 4        | 15        | 9         |
-| 24   | 13       | 4        | 14        | 8         |
-| 25   | 7        | 5        | 10        | 7         |
-| 26   | 7        | 5        | 11        | 7         |
-| 27   | 12       | 5        | 13        | 8         |
-| 28   | 13       | 6        | 14        | 9         |
-| 29   | 14       | 8        | 14        | 9         |
-| 30   | 11       | 10       | 15        | 7         |
-| 31   | 11       | 10       | 15        | 7         |
+| --- | --- | --- | --- | --- |
+| 1 | 12 | 12 | 9 | 6 |
+| 2 | 12 | 14 | 7 | 7 |
+| 3 | 12 | 13 | 6 | 6 |
+| 4 | 12 | 16 | 5 | 7 |
+| 5 | 15 | 18 | 0 | 7 |
+| 6 | 16 | 21 | 0 | 8 |
+| 7 | 12 | 19 | 1 | 7 |
+| 8 | 13 | 17 | 3 | 3 |
+| 9 | 13 | 15 | 5 | 4 |
+| 10 | 12 | 15 | 6 | 4 |
+| 11 | 12 | 15 | 8 | 4 |
+| 12 | 13 | 15 | 7 | 5 |
+| 13 | 14 | 15 | 5 | 5 |
+| 14 | 11 | 14 | 5 | 5 |
+| 15 | 11 | 10 | 8 | 1 |
+| 16 | 12 | 8 | 10 | 1 |
+| 17 | 12 | 5 | 11 | 2 |
+| 18 | 13 | 7 | 13 | 5 |
+| 19 | 14 | 8 | 12 | 7 |
+| 20 | 13 | 10 | 14 | 10 |
+| 21 | 14 | 6 | 16 | 12 |
+| 22 | 16 | 6 | 15 | 16 |
+| 23 | 15 | 6 | 15 | 15 |
+| 24 | 14 | 4 | 14 | 9 |
+| 25 | 13 | 4 | 14 | 10 |
+| 26 | 7 | 5 | 13 | 10 |
+| 27 | 7 | 5 | 12 | 11 |
+| 28 | 9 | 6 | 14 | 10 |
+| 29 | 10 | 7 | 14 | 9 |
+| 30 | 11 | 8 | 15 | 8 |
+| 31 | 11 | 10 | 15 | 7 |
 
 ## NORTH SEA SPOT AVERAGE UTILISATION MARCH 2024
 

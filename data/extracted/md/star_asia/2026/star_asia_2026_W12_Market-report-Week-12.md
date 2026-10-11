@@ -103,11 +103,32 @@ Activity in the MEG has been heavily influenced by a spillover effect. Shippers 
 
 ## Page 6
 
-Clean:
+# Clean:
 
-LR: LR2 in the MEG saw rates closed higher with TC1 MEG/Japan settling at WS376. Similarly, in the LR1, levels have improved from previous, with TC5 closing at WS388. On the UKC, LR1 on TC16 ARA/WAFR gained few points to WS296. MR: Geopolitical risks have now extended their influence on Northeast Asia, impacting the MR tanker market. In the UKC, MR climbed back up, closing at WS230 for TC2 routes. Meanwhile in the USG, TC14 trips to UKC end the week at WS395.
+LR: LR2 in the MEG saw rates closed higher with TC1 MEG/Japan settling at WS376. Similarly, in the LR1, levels have improved from previous, with TC5 closing at WS388. On the UKC, LR1 on TC16 ARA/WAFR gained few points to WS296.
+
+MR: Geopolitical risks have now extended their influence on Northeast Asia, impacting the MR tanker market. In the UKC, MR climbed back up, closing at WS230 for TC2 routes. Meanwhile in the USG, TC14 trips to UKC end the week at WS395.
 
 ## Baltic Exchange Tanker Indices
+
+| INDICES | CURRENT | LAST WEEK | LAST YEAR | W-O-W CHANGE | Y-O-Y CHANGE |
+| --- | --- | --- | --- | --- | --- |
+| BDTI | 2,962 | 2,684 | 990 | +10.36% | +199.19% |
+| BCTI | 1,616 | 1,471 | 848 | +9.86% | +90.57% |
+
+# Tankers Values
+
+(Weekly)
+
+| TYPE | DWT | NB CONTRACT | NB PROMPT DELIVERY | 5 YEARS | 10 YEARS | 15 YEARS |
+| --- | --- | --- | --- | --- | --- | --- |
+| VLCC | 310,000 | 128 | 148 | 119 (E) | 87(E) | 53 |
+| SUEZMAX | 160,000 | 86 | 95 | 79 (E) | 63 (E) | 42 |
+| AFRAMAX | 115,000 | 75 | 80 | 66 (E) | 53 (E) | 37 |
+| LR1 | 73,000 | 60 | 64 | 53 (E) | 44 (E) | 26 |
+| MR | 51,000 | 49 | 53 | 42 (E) | 33 (E) | 24 |
+
+*(amount in USD million) | (E) – eco units
 
 ## Page 7
 

@@ -138,18 +138,26 @@ Tankers S&P Report
 
 ## Containers
 
-The global container freight market remains largely flat, with the SCFI showing minimal movement this week, edging down just 0.4% to 1,398 points overall. This masks contrasting trends across major trade lanes; while Transpacific rates saw declines due to persistent oversupply and softening cargo demand, the Asia-Europe rates held comparatively firm, supported by ongoing efforts by carriers to actively manage capacity and mitigate the effects of current port congestion in Europe. Analysts generally agree that the market lacks the necessary elements for a short-term turnaround, as the fundamental trend of weakening demand is compelling shipping lines to strategically employ various operational tactics to defend their rates. Looking ahead, major firms like Moody's and J.P. Morgan consistently forecast increased downward pressure on freight rates throughout 2025 and 2026, with some projections anticipating volume contraction on the key Asia-North America route, despite carriers having achieved a higher average operating margin in the third quarter than initially expected.
+The global container freight market remains largely flat, with the SCFI showing minimal movement this week, edging down just 0.4% to 1,398 points overall. This masks contrasting trends across major trade lanes; while Transpacific rates saw declines due to persistent oversupply and softening cargo demand, the Asia-Europe rates held comparatively firm, supported by ongoing efforts by carriers to actively manage capacity and mitigate the effects of current port congestion in Europe.
+
+Analysts generally agree that the market lacks the necessary elements for a short-term turnaround, as the fundamental trend of weakening demand is compelling shipping lines to strategically employ various operational tactics to defend their rates. Looking ahead, major firms like Moody's and J.P. Morgan consistently forecast increased downward pressure on freight rates throughout 2025 and 2026, with some projections anticipating volume contraction on the key Asia-North America route, despite carriers having achieved a higher average operating margin in the third quarter than initially expected.
 
 ## Containers Values
 
-| 5 YEARS | 10 YEARS | 15 YEARS |
-|---|---|---|
-| 20 | 16 | 10 |
-| 29 (E) | 23 (E) | 18 |
-| 39 | 35 | 26 |
-| 66 | - | 41 |
+| CONTAINERS (BY TEU) | GEARED / GEARLESS | NB CONTRACT | NB PROMPT DELIVERY | 5 YEARS | 10 YEARS | 15 YEARS |
+| --- | --- | --- | --- | --- | --- | --- |
+| 900 ~ 1,200 | Geared | 24 | 26 | 20 | 16 | 10 |
+| 1,600 ~ 1,850 | Gearless | 31 | 35 | 29 (E) | 23 (E) | 18 |
+| 2,700 ~ 2,900 | Gearless | 44 | 46 | 39 | 35 | 26 |
+| 5,100 ~ 5,300 | Gearless | 59 | 82 | 66 | - | 41 |
+| *(amount in USD million) I = Eco units | *(amount in USD million) I = Eco units | *(amount in USD million) I = Eco units | *(amount in USD million) I = Eco units | *(amount in USD million) I = Eco units | *(amount in USD million) I = Eco units | *(amount in USD million) I = Eco units |
 
-PRICE COMMENTS / (MILLION) USD BUYERS 46.5 TSAKOS COLUMBIA SHIPMANAGEMENT 27.4 CHINESE BUYERS
+S&P Containers Report
+
+| VESSEL NAME | TYPE | TEU | YEAR | BUILT | PRICE (MILLION) USD | COMMENTS / BUYERS |
+| --- | --- | --- | --- | --- | --- | --- |
+| ATLANTICA POWER | PMAX | 4,616 | 2010 | S. KOREA | 46.5 | TSAKOS COLUMBIA SHIPMANAGEMENT |
+| HAPPY LUCKY | SUB PMAX | 2,553 | 2008 | JAPAN | 27.4 | CHINESE BUYERS |
 
 ## Page 9
 
@@ -201,32 +209,68 @@ Markets in India remain cautious with activity muted, as domestic economic press
 
 ## Page 14
 
-availability of ships remains limited, with the few available vessels mostly being diverted to neighboring Bangladesh, sadly leaving Indian recycling yards futile. Overall, markets remained weak, with sentiment continuing to deteriorate as recyclers struggle to establish any firm pricing direction.
+availability of ships remains limited, with the few available vessels mostly being diverted to neighboring Bangladesh, sadly leaving Indian recycling yards futile.
 
-Chattogram
+Overall, markets remained weak, with sentiment continuing to deteriorate as recyclers struggle to establish any firm pricing direction.
 
-Bangladesh saw further deterioration in local conditions over the past week, with vessel price levels continuing to ease. This soft pricing environment, however, has not spurred aggressive buying; instead, market sentiment remains uncertain, with buyers hesitant to commit to firm positions. Recyclers in Chattogram, taking cues from their counterparts in Alang and Gadani, have also moved to adjust their pricing. With the current environment offering little competitive pressure, local buyers see no rationale for pushing levels higher and are instead opting for a more conservative stance. Despite wider regional sentiment showing weakness, with the lack of clear price direction remains a primary concern for the Bangladeshi region.
+Anchorage & Beaching Position (December 2025)
 
-Gadani
+| VESSEL NAME | TYPE | LDT | ARRIVAL | BEACHING |
+| --- | --- | --- | --- | --- |
+| CONICO ATLAS | TANKER | 20,001 | 13.06.2025 | ARRESTED |
+| MORALITY | TANKER | 9,852 | 05.12.2025 | AWAITING |
+
+# Chattogram
+
+Bangladesh saw further deterioration in local conditions over the past week, with vessel price levels continuing to ease. This soft pricing environment, however, has not spurred aggressive buying; instead, market sentiment remains uncertain, with buyers hesitant to commit to firm positions.
+
+Recyclers in Chattogram, taking cues from their counterparts in Alang and Gadani, have also moved to adjust their pricing. With the current environment offering little competitive pressure, local buyers see no rationale for pushing levels higher and are instead opting for a more conservative stance.
+
+Despite wider regional sentiment showing weakness, with the lack of clear price direction remains a primary concern for the Bangladeshi region.
+
+Anchorage & Beaching Position (December 2025)
+
+| VESSEL NAME | TYPE | LDT | ARRIVAL | BEACHING |
+| --- | --- | --- | --- | --- |
+| - | - | - | - | - |
+
+# Gadani
 
 The Pakistan market saw minimal activity this week, although there has been a slight uplift in sentiment following some recent transactions involving smaller vessels at modest price points.
 
 ## Page 15
 
-Despite the yards' commendable efforts to pursue HKC, the overall volume remains low as local pricing continues to soften. This week brought some welcome positive news for the Pakistani recycling market, marked by a significant industry milestone. Prime Green Recyclers has become the first yard in Pakistan to achieve full compliance with the Hong Kong International Convention, with certification officially verified by Bureau Veritas. This achievement represents a major step forward for the country's recycling sector, signalling the beginning of a new era of safer, more environmentally responsible ship recycling practices in Pakistan.
+Despite the yards' commendable efforts to pursue HKC, the overall volume remains low as local pricing continues to soften.
 
----
+This week brought some welcome positive news for the Pakistani recycling market, marked by a significant industry milestone. Prime Green Recyclers has become the first yard in Pakistan to achieve full compliance with the Hong Kong International Convention, with certification officially verified by Bureau Veritas.
 
-Chattogram, Bangladesh : 3 ~ 6 December | 21 ~ 24 December Alang, India : 2 ~ 10 December | 18 ~ 26 December
+This achievement represents a major step forward for the country’s recycling sector, signalling the beginning of a new era of safer, more environmentally responsible ship recycling practices in Pakistan.
 
----
+Anchorage & Beaching Position (December 2025)
 
-BUNKER PRICES (USD/ton)
+| VESSEL NAME | TYPE | LDT | ARRIVAL | BEACHING |
+| --- | --- | --- | --- | --- |
+| - | - | - | - | - |
 
-PORTS VLSFO (0.5%) HSFO (3.5%) MGO (0.1%)
+# Aliaga, Turkey
 
+The Lira fell again this week to TRY 42.51 to the dollar. Overall market remain bleak with the ship recycling market remaining unchanged from last.
+
+No new changes to note as of this week.
+
+# BEACHING TIDE DATES 2025
+
+Chattogram, Bangladesh : 3 ~ 6 December | 21 ~ 24 December
+
+Alang, India
+
+: 2 ~ 10 December | 18 ~ 26 December
+
+#### BUNKER PRICES (USD/ton)
+
+| PORTS | VLSFO (0.5%) | HSFO (3.5%) | MGO (0.1%) |
+| --- | --- | --- | --- |
 | SINGAPORE | 435 | 355 | 681 |
-|---|---|---|---|
 | HONG KONG | 456 | 383 | 676 |
 | FUJAIRAH | 431 | 327 | 712 |
 | ROTTERDAM | 403 | 356 | 677 |
@@ -234,9 +278,29 @@ PORTS VLSFO (0.5%) HSFO (3.5%) MGO (0.1%)
 
 ## Page 16
 
-Sub-Continent and Turkey ferrous scrap markets insights
+#### EXCHANGE RATES
 
-India Imported scrap activity in India remains notably muted. Although there has been a slight improvement in buying inquiries, it is happening within a tight window for winter restocking before Western suppliers close for the holidays. The primary cause for this is the significant depreciation of the Indian Rupee, which has crossed the 90 marks against the USD-its weakest level in two decades-sharply increasing the cost of dollar-denominated imports. EU HMS (80:20) was assessed at US$315-320/t, HMS 1 at US$322-325/t, shredded at US$336-342/t, and PNS at US$340-345/t, while offers for EU shredded stand at US$350- 352/t CFR. Pakistan The market in Pakistan is currently sluggish and cash-constrained yet imported scrap prices are holding steady d-o-d due to firm international offers. Furnaces continue to operate at reduced capacity, limiting raw material intake as weak downstream demand persists. This continues to discourage aggressive winter restocking efforts by local mills. Reflecting the current stability of offers, EU shredded is assessed at US$356-358/t CFR, with UAE HMS 80:20 priced around US$338-340/t. Bangladesh Imported scrap demand remains subdued, as containerized offers are largely deemed unworkable for domestic buyers. Slow rebar sales have further contributed to the muted activity, despite a good range of available grades. The market saw various specific offers, including Brazil HMS at US$330/t CFR, Malaysia Holo bundles at US$325/t CFR, and Australia HMS at US$345/t CFR. While Philippines GI bundles were offered at US$305-310/t CFR, sellers have paused fresh sales at those levels, with Singapore PNS and Hong Kong PNS offered higher at US$370/t CFR and US$365/t CFR, respectively.
+| CURRENCY | December 5 | November 28 | W-O-W % CHANGE |
+| --- | --- | --- | --- |
+| USD / CNY (CHINA) | 7.07 | 7.07 | 0 |
+| USD / BDT (BANGLADESH) | 122.29 | 122.41 | +0.10% |
+| USD / INR (INDIA) | 89.98 | 89.43 | -0.62% |
+| USD / PKR (PAKISTAN) | 280.33 | 280.61 | +0.10% |
+| USD / TRY (TURKEY) | 42.51 | 42.49 | -0.05% |
+
+# Sub-Continent and Turkey ferrous scrap markets insights
+
+# India
+
+Imported scrap activity in India remains notably muted. Although there has been a slight improvement in buying inquiries, it is happening within a tight window for winter restocking before Western suppliers close for the holidays. The primary cause for this is the significant depreciation of the Indian Rupee, which has crossed the 90 marks against the USD—its weakest level in two decades—sharply increasing the cost of dollar-denominated imports. EU HMS (80:20) was assessed at US$315–320/t, HMS 1 at US$322–325/t, shredded at US$336–342/t, and PNS at US$340–345/t, while offers for EU shredded stand at US$350–352/t CFR.
+
+# Pakistan
+
+The market in Pakistan is currently sluggish and cash-constrained yet imported scrap prices are holding steady d-o-d due to firm international offers. Furnaces continue to operate at reduced capacity, limiting raw material intake as weak downstream demand persists. This continues to discourage aggressive winter restocking efforts by local mills. Reflecting the current stability of offers, EU shredded is assessed at US$356–358/t CFR, with UAE HMS 80:20 priced around US$338–340/t.
+
+# Bangladesh
+
+Imported scrap demand remains subdued, as containerized offers are largely deemed unworkable for domestic buyers. Slow rebar sales have further contributed to the muted activity, despite a good range of available grades. The market saw various specific offers, including Brazil HMS at US$330/t CFR, Malaysia Holo bundles at US$325/t CFR, and Australia HMS at US$345/t CFR. While Philippines GI bundles were offered at US$305–310/t CFR, sellers have paused fresh sales at those levels, with Singapore PNS and Hong Kong PNS offered higher at US$370/t CFR and US$365/t CFR, respectively.
 
 ## Page 17
 

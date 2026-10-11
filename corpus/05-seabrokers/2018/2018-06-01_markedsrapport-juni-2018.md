@@ -147,38 +147,40 @@ In an attempt to stimulate more investment and activity offshore the Netherlands
 
 ## JUNE 2018 - DAILY NORTH SEA OSV AVAILABILITY
 
+> **Read from the chart.** The report prints no numbers for this chart; each value is the chart line's node for that day, converted with the printed axis labels (vector geometry, not an eyeball estimate).
+
 | Date | PSV 2018 | PSV 2017 | AHTS 2018 | AHTS 2017 |
-| ---- | -------- | -------- | --------- | --------- |
-| 1    | 6        | 15       | 15        | 15        |
-| 2    | 6        | 9        | 15        | 22        |
-| 3    | 7        | 10       | 14        | 22        |
-| 4    | 6        | 11       | 14        | 19        |
-| 5    | 7        | 13       | 14        | 19        |
-| 6    | 8        | 14       | 19        | 15        |
-| 7    | 8        | 17       | 18        | 15        |
-| 8    | 11       | 18       | 18        | 14        |
-| 9    | 12       | 16       | 16        | 15        |
-| 10   | 14       | 15       | 16        | 15        |
-| 11   | 15       | 14       | 16        | 14        |
-| 12   | 16       | 13       | 16        | 15        |
-| 13   | 12       | 8        | 23        | 4         |
-| 14   | 12       | 8        | 22        | 14        |
-| 15   | 12       | 16       | 23        | 14        |
-| 16   | 12       | 16       | 22        | 14        |
-| 17   | 12       | 15       | 21        | 14        |
-| 18   | 11       | 17       | 21        | 12        |
-| 19   | 11       | 17       | 21        | 12        |
-| 20   | 6        | 9        | 21        | 13        |
-| 21   | 6        | 8        | 17        | 12        |
-| 22   | 7        | 12       | 10        | 12        |
-| 23   | 9        | 12       | 9         | 14        |
-| 24   | 10       | 10       | 10        | 16        |
-| 25   | 9        | 7        | 10        | 17        |
-| 26   | 8        | 6        | 7         | 17        |
-| 27   | 7        | 5        | 6         | 17        |
-| 28   | 6        | 4        | 7         | 16        |
-| 29   | 4        | 4        | 7         | 14        |
-| 30   | 4        | 4        | 7         | 14        |
+| --- | --- | --- | --- | --- |
+| 1 | 6 | 15 | 15 | 15 |
+| 2 | 6 | 9 | 15 | 22 |
+| 3 | 7 | 11 | 14 | 21 |
+| 4 | 7 | 12 | 14 | 20 |
+| 5 | 10 | 14 | 14 | 19 |
+| 6 | 8 | 14 | 19 | 14 |
+| 7 | 8 | 14 | 18 | 15 |
+| 8 | 11 | 18 | 18 | 14 |
+| 9 | 12 | 16 | 17 | 12 |
+| 10 | 14 | 15 | 16 | 10 |
+| 11 | 15 | 14 | 16 | 7 |
+| 12 | 16 | 12 | 17 | 5 |
+| 13 | 14 | 11 | 18 | 4 |
+| 14 | 12 | 8 | 19 | 6 |
+| 15 | 12 | 12 | 23 | 9 |
+| 16 | 12 | 15 | 22 | 14 |
+| 17 | 12 | 16 | 22 | 13 |
+| 18 | 12 | 16 | 21 | 12 |
+| 19 | 11 | 17 | 21 | 11 |
+| 20 | 11 | 13 | 21 | 13 |
+| 21 | 7 | 9 | 17 | 12 |
+| 22 | 6 | 11 | 17 | 12 |
+| 23 | 7 | 12 | 14 | 13 |
+| 24 | 9 | 11 | 11 | 14 |
+| 25 | 10 | 10 | 8 | 15 |
+| 26 | 9 | 9 | 7 | 16 |
+| 27 | 8 | 6 | 6 | 17 |
+| 28 | 5 | 7 | 7 | 17 |
+| 29 | 4 | 4 | 7 | 17 |
+| 30 | 4 | 4 | 7 | 14 |
 
 ## RATES & UTILISATION
 
@@ -383,7 +385,6 @@ TechnipFMC has been awarded a subsea contract with CNOOC to cover the engineerin
 TechnipFMC
 
 ## **SAIPEM LANDS USD 1.3 BILLION CONTRACT**
-<img src="https://i.imgur.com/SAIPEM_logo.png" alt="SAIPEM Logo">
 
 Saipem has been awarded a USD 1.3 billion EPCI pipeline contract for a project in the Middle East. The work scope covers two 32-inch export pipelines, two 24-inch Corrosion-Resistant Alloy (CRA) intra-field pipelines, risers, spool pieces and subsea structures, also entailing a short onshore section and offshore brownfield topsides modifications. Additionally, the award also includes the novation of substantial CRA line-pipe and long lead item contracts. Industry sources have indicated that the award is related to the Barzan pipeline programme offshore Qatar.
 
@@ -393,7 +394,6 @@ DOF Subsea has experienced a successful spell on the chartering front, most nota
 CSV Skandi Salvador
 
 ## **POSH DAEWOO AWARDS MYANMAR CONTRACTS**
-<img src="https://i.imgur.com/DAEWOO_ship.jpg" alt="DLV 2000 Ship">
 
 POSH Daewoo has awarded contracts for the Shwe gas field development offshore Myanmar to McDermott and Baker Hughes, a GE company (BGHE). The EPCI contract covers SURF and SPS for an eight-well subsea development in water depths of 85-142m (279-466ft). It also covers brownfield modifications to tie-back the new subsea facilities to the existing Shwe platform. McDermott will undertake the EPCIC of SURF and brownfield modification scopes. The installation of the SURF and SPS components will be carried out using McDermott's state of the art pipelay assets, including the Derrick Lay Vessel 2000 (pictured). BHGE will supply the SPS scope, including eight Medium-water Horizontal Xmas Trees, eight subsea production control systems and distribution equipment, and topside controls.
 

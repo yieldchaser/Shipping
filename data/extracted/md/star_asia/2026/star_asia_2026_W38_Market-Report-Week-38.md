@@ -201,30 +201,67 @@ The global container shipping market maintained its upward trend this week as th
 
 ## Page 10
 
-### Ship Recycling - Current Market Snapshot (USD / LDT)
+# SHIP RECYCLING
+
+Current Market Snapshot (USD / LDT)
 
 | DESTINATION | TANKERS | BULKERS | GENERAL CARGO | CONTAINERS | OUTLOOK / SENTIMENTS |
-| :--- | :---: | :---: | :---: | :---: | :---: |
-| ALANG, INDIA | $500-510 | $490-500 | $440-450 | $550-560 | STABLE / |
-| CHATTOGRAM, BANGLADESH | $520 - 530 | $490-500 | $480-490 | $560-570 | STABLE / |
-| GADDANI, PAKISTAN | $530-540 | $510-520 | $490-500 | $540-550 | STABLE / |
-| ALIAGA, TURKEY | $320-330 | $310-320 | $290-300 | $340-350 | STABLE / |
+| --- | --- | --- | --- | --- | --- |
+| ALANG, INDIA | $500–510 | $490–500 | $440–450 | $550–560 | STABLE / [IMAGE] |
+| CHATTOGRAM, BANGLADESH | $520 - 530 | $490–500 | $480–490 | $560–570 | STABLE / [IMAGE] |
+| GADDANI, PAKISTAN | $530–540 | $510–520 | $490–500 | $540–550 | STABLE / [IMAGE] |
+| ALIAGA, TURKEY* | $320–330 | $310–320 | $290–300 | $340–350 | STABLE / [IMAGE] |
 
-### Demolition - Reported Sales
+* Turkey prices for non-EU ships. EU vessels approx. US$20–30/ton less.
 
-| DELIVERY / TERMS |
-| --- |
-| No reported sales this week |
+All prices are USD per light displacement tonnage (long ton), net prices offered by recycling yards. Premiums apply based on spares quality, non-ferrous content, bunkers, cargo history, and maintenance. Basis simple Japanese/Korean-built tonnages.
+
+• All prices are USD per light displacement tonnage in the long ton.
+
+• The prices reported are net prices offered by the recycling yards.
+
+• Prices quoted are basis simple Japanese / Korean-built tonnages trading units. Premiums are paid on top of the above-quoted prices based on quality & quality of Spares, Non-Fe., bunkers, cargo history, and maintenance.
+
+5-Year Historical Average Prices (Week 38)
+
+| DESTINATION | 2021 | 2022 | 2023 | 2024 | 2025 |
+| --- | --- | --- | --- | --- | --- |
+| ALANG, INDIA | 550 | 550 | 500 | 500 | 440 |
+| CHATTOGRAM, BANGLADESH | 580 | 620 | 510 | 510 | 410 |
+| GADDANI, PAKISTAN | 595 | 590 | 520 | 500 | 440 |
+| ALIAGA, TURKEY | 300 | 300 | 310 | 340 | 290 |
+
+Reported Sales
+
+| VESSEL NAME | TYPE | LDT | YEAR / BUILT | PRICE (US/LDT) | COMMENTS |
+| --- | --- | --- | --- | --- | --- |
+| LEO STAR | TANKER | 1,961 | 1992 / JAPAN | 485 | DELIVERED CHATTOGRAM |
+| NOVAYA ZEMLYA | BULKER | 8,109 | 2009 / CHINA | UNDISCLOSED | DELIVERED ALANG |
 
 ## Page 11
 
 ## Page 12
 
-JAMES TANKER 22,657 12.09.2026 16.09.2026
+# Market Insights
 
-**Chattogram, Bangladesh: Chattogram experienced a visible downshift in pace, as domestic trading**
+Alang, India: Buyers continue to display confident buying interest, supported by firm downstream manufacturing demand that has helped absorb scrap inventory across rolling mills. Sentiment along the coast received an additional psychological lift from high-level regulatory developments in Europe, where prominent international shipowner organisations united to advocate for the official approval of two Indian yards onto the European List of approved recycling facilities. While the initiative remains at the proposal stage, this marks a significant vote of confidence in Alang’s ongoing green transition, reassuring shipbreakers that their long-term infrastructure upgrades and investments are steadily gaining traction among global stakeholders.
 
-softened and buyers adopted a guarded stance. While genuine buying appetite remains intact, the deal board turned quiet once again, largely because softer secondary scrap values-most notably across
+This week on Wednesday, the Indian government reviewed measures to expand the use of steel recovered from recycled vessels in domestic manufacturing. A joint meeting chaired by the Ministers of Steel and Heavy Industries and Ports, Shipping and Waterways brought together representatives from the Department of Science and Technology, Bureau of Indian Standards, Gujarat Maritime Board and the Ship Recycling Industries Association.
+
+Discussions focused on the existing regulatory framework and the possibility of permitting ship-recycled secondary steel in additional sectors. Wider acceptance could improve value realisation from dismantled vessels, strengthen downstream demand and support India’s position as a leading global ship-recycling destination. The initiative also aligns with the government’s objectives of promoting a circular economy, reducing dependence on primary raw materials and improving the sustainability and efficiency of domestic steel production. However, its commercial impact will depend on the introduction of appropriate quality standards, certification requirements and broader acceptance by steel-consuming industries.
+
+In its latest country review released on September 18, Moody's Ratings sharply upgraded India's real economic growth projection for the current fiscal period to 7.0%, citing robust domestic consumption, sustained public capital expenditure, and remarkable resilience against external energy volatility. Furthermore, national foreign currency reserves remain near historic highs, around US$780 billion following successful central bank capital initiatives, providing an extensive liquidity buffer that helps stabilise the rupee against foreign exchange fluctuations.
+
+Alang Anchorage & Beaching Position — September 2026
+
+| VESSEL | TYPE | LDT | ARRIVAL | BEACHING |
+| --- | --- | --- | --- | --- |
+| NOVAYA ZEMLYA | GENERAL CARGO | 8,110 | 16.09.2026 | AWAITING |
+| FRIO HELLENIC | REEFER | 6,520 | 12.09.2026 | 19.09.2026 |
+| MANDARIN ARROW | GENERAL CARGO | 14,824 | 10.09.2026 | 12.09.2026 |
+| JAMES | TANKER | 22,657 | 12.09.2026 | 16.09.2026 |
+
+Chattogram, Bangladesh: Chattogram experienced a visible downshift in pace, as domestic trading softened and buyers adopted a guarded stance. While genuine buying appetite remains intact, the deal board turned quiet once again, largely because softer secondary scrap values—most notably across
 
 ## Page 13
 
@@ -286,17 +323,29 @@ Australian/New Zealand shredded scrap at US$400~410/t CFR Chattogram and HMS 90:
 
 ## Page 15
 
+HMS 80:20 assessed around US$395~400+/t CFR against firm seller offers of US$400~405/t CFR. Tight European supply alongside steep freight rates driven by higher oil prices kept supplier indications elevated despite emerging buyer resistance. To preserve margins and absorb these imported raw material costs, Turkish mills raised rebar export offers upward to US$630~650/t FOB.
+
+# COMMODITIES, BUNKERS & RATES
+
+# Commodities Focus
+
+Benchmark copper on the London Metal Exchange secured its eleventh weekly advance across the past twelve weeks, rising 0.2% to close at US$14,521.50/MT and extending an almost 17% gain for the year. This persistent strength was buoyed by a pickup in Chinese consumer interest—evidenced by the Yangshan port import premium climbing to US$124 per ton, its strongest mark since late 2022—alongside a slight monthly contraction in domestic refined metal production, which effectively shielded the market from the Federal Reserve's first interest rate hike since 2023.
+
+Singapore iron ore futures rebounded by 1.1% to reach US$97.45 per ton, locking in a weekly improvement of around 1% as mills built raw material reserves ahead of October's Golden Week break. Nevertheless, underlying fundamentals for the ferrous sector remain delicate, as industry assessments show domestic steelmaker profitability languishing under 10%, prompting the China Iron and Steel Association along with 44 prominent producers to appeal for stringent production discipline to curb surplus inventories.
+
+Meanwhile, the power and fuels market is facing notable tightness as thermal coal valuations at the port of Qinhuangdao gained 1.9% this week to hit 980 yuan (US$146) per ton, reaching their highest level since October 2023. This price jump, spurred by utility pre-holiday procurement alongside protracted production shortfalls following May's safety audits in Shanxi, has motivated Chinese state energy and safety planners to officially call on major mining regions to speed up operations and reopen idled capacity to protect nationwide power generation.
+
 ### Iron Ore
 
 | COMMODITY (USD/MT) | GRADE | THIS WEEK | LAST WEEK | LAST YEAR | WoW | YoY |
-| :--- | :--- | :---: | :---: | :---: | :---: | :---: |
+| --- | --- | --- | --- | --- | --- | --- |
 | Iron Ore Lumps, CNF Rizhao | Fe 64/63% (S. Africa) | $109 | $108 | $112 | +0.92% | -2.67% |
 | Iron Ore Fines, CNF Qingdao | Fe 62.5% (Brazil) | $99 | $98 | $105 | +1.02% | -5.71% |
 
 ### Industrial Metal Rates
 
 | INDEX | UNITS | PRICE | CHANGE | % CHANGE | CONTRACT |
-| :--- | :--- | :---: | :---: | :---: | :---: |
+| --- | --- | --- | --- | --- | --- |
 | Copper (Comex) | USD / lb. | 671.30 | +5.15 | +0.77% | DEC 2026 |
 | 3Mo Copper (LME) | USD / MT | 14,491.50 | +259.00 | +1.82% | N/A |
 | 3Mo Aluminium (LME) | USD / MT | 3,301.50 | +32.50 | +0.99% | N/A |
@@ -304,21 +353,44 @@ Australian/New Zealand shredded scrap at US$400~410/t CFR Chattogram and HMS 90:
 
 ## Page 16
 
+| INDEX | UNITS | PRICE | CHANGE | % CHANGE | CONTRACT |
+| --- | --- | --- | --- | --- | --- |
+| 3Mo Tin (LME) | USD / MT | 53,186.00 | +762.00 | +1.45% | N/A |
+
 ### Crude Oil & Natural Gas
 
 | INDEX | UNITS | PRICE | CHANGE | % CHANGE | CONTRACT |
-| :--- | :--- | :---: | :---: | :---: | :---: |
+| --- | --- | --- | --- | --- | --- |
 | WTI Crude Oil (Nymex) | USD / bbl. | 99.80 | -2.11 | -2.07% | OCT 2026 |
 | Brent Crude (ICE) | USD / bbl. | 103.19 | -1.63 | -1.56% | NOV 2026 |
 | Crude Oil (Tokyo) | JPY / kl | 111,170.00 | -1,840.00 | -1.63% | SEP 2026 |
 | Natural Gas (Nymex) | USD / MMBtu | 2.90 | 0.00 | 0.00% | OCT 2026 |
 
+* All rates at C.O.B. London time, September 11th, 2026
+
 ### Exchange Rates
 
 | CURRENCY PAIR | SEPTEMBER 18 | SEPTEMBER 11 | WoW % |
-| :--- | :---: | :---: | :---: |
+| --- | --- | --- | --- |
 | USD / CNY (China) | 6.69 | 6.70 | +0.15% |
 | USD / BDT (Bangladesh) | 122.83 | 123.39 | +0.45% |
 | USD / INR (India) | 95.92 | 95.53 | -0.41% |
 | USD / PKR (Pakistan) | 277.27 | 277.33 | +0.02% |
 | USD / TRY (Turkey) | 48.78 | 48.60 | -0.37% |
+
+Bunker Prices (USD / ton)
+
+| PORT | VLSFO (0.5%) | HSFO (3.5%) | MGO (0.1%) |
+| --- | --- | --- | --- |
+| SINGAPORE | $906 | $741 | $1445 |
+| HONG KONG | $921 | $788 | $1445 |
+| FUJAIRAH | $1014 | $749 | $1707 |
+| ROTTERDAM | $717 | $622 | $1500 |
+| HOUSTON | $787 | $530 | $1481 |
+
+Singapore | London | Dubai
+
+For Privacy Policy
+
+This report is performed to the best of our knowledge based on the market conditions prevailing at the time mentioned. The report relates solely to the date/place referred to, and we emphasise that it is a statement of information collected from various market sources. All details above are from information given to us and such information as we have obtained from relevant references in our possession. Still, we can accept no responsibility, and we bear no liability for any loss or damage incurred to any person acting upon this report. STAR ASIA believes the information to be accurate and given in good faith but without guarantee. STAR ASIA will not be held responsible in any way for any action or failure to act based on the information given in this report. The use of the report cannot be reproduced or used without authorisation from STAR ASIA.
+

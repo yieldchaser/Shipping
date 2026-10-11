@@ -141,19 +141,45 @@ LR: Since the end of January, LR2 has continued to see a downward adjustment. Wi
 
 ## Tankers S&P Report
 
-*(\*SS is Stainless Steel)*
+| VESSEL NAME | TYPE | DWT | YEAR | BUILT | PRICE (MILLION) USD | COMMENTS / BUYERS |
+| --- | --- | --- | --- | --- | --- | --- |
+| NAVE SPHERICAL | VLCC | 297,572 | 2009 | CHINA | 53.9 | UNDISCLOSED |
+| FRONT THOR | SUEZ | 156,719 | 2010 | CHINA | 45.5 | UNDISCLOSED |
+| EXCELSIOR BAY / CRYSTAL BAY / HARRISON BAY / SAINT ALBANS BAY / JENNINGS BAY / LAFAYETTE BAY | MR | 49,990 | 2014 / 2015 | S. KOREA | 238.0 EN BLOC | INTERNATIONAL SEAWAYS |
+| SEA HELIOS | MR | 45,948 | 2004 | JAPAN | 15.0 | TURKISH BUYERS |
+| BEATRICE | MR | 25,932 | 2013 | JAPAN | 29.0 (SS) | DM SHIPPING |
+
+(*SS is Stainless Steel)
+
+Tanker 1 year T/C rates
 
 ## Page 8
 
 ## Containers
 
-Drewry's Container report indicates a 1% growth in the global container fleet last year, reaching 51.4 million TEU, with expectations of a further 2.3% expansion in 2024. This growth is driven by rising trade prospects and reduced box productivity due to disruptions in the Panama and Suez Canal. These disruptions have led to longer transit times, slower secondary market sales of containers, and depleted stocks of empty containers in China. As a response, factories in China have cut prices for new containers, leading to increased orders from ocean carriers. The report further anticipates stronger global container handling throughput in 2024, with a forecasted growth of 2.3%, and expects ocean carriers to adjust their box-to-slot ratios to manage supply chain challenges effectively. Despite a minor decline in recent weeks, spot container freight rates remain notably strong. The overall SCFI index closed at 2,110 points, marking a 3% decrease from mid- February. Rates for the SCFI Shanghai to Northern Europe route also experienced a 5% softening, settling at US$2,508 per TEU.
+Drewry's Container report indicates a 1% growth in the global container fleet last year, reaching 51.4 million TEU, with expectations of a further 2.3% expansion in 2024. This growth is driven by rising trade prospects and reduced box productivity due to disruptions in the Panama and Suez Canal. These disruptions have led to longer transit times, slower secondary market sales of containers, and depleted stocks of empty containers in China.
+
+As a response, factories in China have cut prices for new containers, leading to increased orders from ocean carriers. The report further anticipates stronger global container handling throughput in 2024, with a forecasted growth of 2.3%, and expects ocean carriers to adjust their box-to-slot ratios to manage supply chain challenges effectively.
+
+Despite a minor decline in recent weeks, spot container freight rates remain notably strong. The overall SCFI index closed at 2,110 points, marking a 3% decrease from mid-February. Rates for the SCFI Shanghai to Northern Europe route also experienced a 5% softening, settling at US$2,508 per TEU.
 
 ## Containers S&P Report
 
 | VESSEL NAME | TYPE | TEU | YEAR | BUILT | PRICE (MILLION) USD | COMMENTS / BUYERS |
-|---|---|---|---|---|---|---|
+| --- | --- | --- | --- | --- | --- | --- |
 | MISTRAL | FEEDER | 868 | 2008 | GERMANY | 9.0 | UAE BASED BUYERS |
+
+# Containers Values
+
+(Weekly)
+
+| CONTAINERS (BY TEU) | GEARED / GEARLESS | NB CONTRACT | NB PROMPT DELIVERY | 5 YEARS | 10 YEARS | 15 YEARS |
+| --- | --- | --- | --- | --- | --- | --- |
+| 900 – 1,200 | Geared | 24 | 24 | 17 | 13 | 7 |
+| 1,600 – 1,800 | Geared | 29 | 26 | 20 | 16 | 11 |
+| 2,700 – 2,900 | Gearless | 41 | 38 | 29 | 19 | 14 |
+| 5,500 – 7,000 | Gearless | 94 | 80 | 67 | 37 | 24 |
+| *(amount in USD million) | *(amount in USD million) | *(amount in USD million) | *(amount in USD million) | *(amount in USD million) | *(amount in USD million) | *(amount in USD million) |
 
 ## Page 9
 
@@ -260,15 +286,30 @@ The ship recycling industry has remained active, witnessing a significant surge 
 
 ## Page 16
 
-Aliaga, Turkey
+Anchorage & Beaching Position (February 2024)
 
-Turkish mills are still not showing signs of recovering scrap demand this week despite the country's need for March shipment scrap. The continuous decline in Chinese rebar and hot rolled coil futures, coupled with weak steel sales, is keeping Turkish mills cautious about the market and hesitant to resume scrap purchases. The start of the week saw scrap demand in Turkey remained subdued, with mills refraining from making bids despite numerous offers from various regions. The sentiment is weak, putting pressure on scrap prices, although there seems to be little room for further price declines. Participants in the market are now questioning whether scrap prices might drop below the US$400/tonne CFR Turkey threshold, which was deemed unlikely just a week ago, expressing concern over the unexpected slump in Chinese iron ore prices and the lack of support for scrap prices. Trading is facing obstacles due to various factors, including a gloomy global outlook, uncertainties in China, pending decisions from Turkey's Central Bank, and financial losses among domestic stockists due to VAT issues.
+| VESSEL NAME | TYPE | LDT | ARRIVAL | BEACHING |
+| --- | --- | --- | --- | --- |
+| WANG HAI | BULKER | 23,038 | 24.02.2024 | AWAITING |
+| ZE HONG | CONTAINER | 11,618 | 27.01.2024 | 01.02.2024 |
 
----
+# Aliaga, Turkey
 
-Chattogram, Bangladesh : 26 ~ 29 February | 11 ~ 14 March Alang, India : 23 ~ 27 February | 8 ~ 15 March
+Turkish mills are still not showing signs of recovering scrap demand this week despite the country's need for March shipment scrap. The continuous decline in Chinese rebar and hot rolled coil futures, coupled with weak steel sales, is keeping Turkish mills cautious about the market and hesitant to resume scrap purchases.
 
----
+The start of the week saw scrap demand in Turkey remained subdued, with mills refraining from making bids despite numerous offers from various regions. The sentiment is weak, putting pressure on scrap prices, although there seems to be little room for further price declines.
+
+Participants in the market are now questioning whether scrap prices might drop below the US$400/tonne CFR Turkey threshold, which was deemed unlikely just a week ago, expressing concern over the unexpected slump in Chinese iron ore prices and the lack of support for scrap prices.
+
+Trading is facing obstacles due to various factors, including a gloomy global outlook, uncertainties in China, pending decisions from Turkey’s Central Bank, and financial losses among domestic stockists due to VAT issues.
+
+# BEACHING TIDE DATES 2024
+
+Chattogram, Bangladesh : 26 ~ 29 February | 11 ~ 14 March
+
+Alang, India
+
+: 23 ~ 27 February | 8 ~ 15 March
 
 ## Page 17
 

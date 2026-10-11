@@ -4,82 +4,8 @@
   "year": 2024,
   "month": 6,
   "source_file": "corpus/05-seabrokers/pdfs/2024-06-01_market-report-june-2024.pdf",
-  "tables_count": 14,
+  "tables_count": 12,
   "tables": [
-    {
-      "title": "High Impact Exploration Performance",
-      "columns": [
-        "Year",
-        "Gas",
-        "Oil",
-        "CSR",
-        "TSR"
-      ],
-      "row_count": 5,
-      "rows": [
-        {
-          "Year": "2019",
-          "Gas": "450",
-          "Oil": "150",
-          "CSR": "30%",
-          "TSR": "40%"
-        },
-        {
-          "Year": "2020",
-          "Gas": "200",
-          "Oil": "350",
-          "CSR": "25%",
-          "TSR": "38%"
-        },
-        {
-          "Year": "2021",
-          "Gas": "300",
-          "Oil": "150",
-          "CSR": "20%",
-          "TSR": "42%"
-        },
-        {
-          "Year": "2022",
-          "Gas": "250",
-          "Oil": "300",
-          "CSR": "30%",
-          "TSR": "35%"
-        },
-        {
-          "Year": "2023",
-          "Gas": "100",
-          "Oil": "120",
-          "CSR": "15%",
-          "TSR": "25%"
-        }
-      ]
-    },
-    {
-      "title": "Most Active High Impact Explorers 2019-2023",
-      "columns": [
-        "Category",
-        "Finding Cost $/boe",
-        "Commercial Success Rate"
-      ],
-      "row_count": 3,
-      "rows": [
-        {
-          "Category": "Mid-Large",
-          "Finding Cost $/boe": "8.5",
-          "Commercial Success Rate": "65%"
-        },
-        {
-          "Category": "NOC",
-          "Finding Cost $/boe": "10.2",
-          "Commercial Success Rate": "72%"
-        },
-        {
-          "Category": "Supermajor",
-          "Finding Cost $/boe": "12.0",
-          "Commercial Success Rate": "78%"
-        }
-      ]
-    },
     {
       "title": "JUNE 2024 - DAILY NORTH SEA OSV AVAILABILITY",
       "columns": [
@@ -100,73 +26,73 @@
         },
         {
           "Date": "2",
-          "PSV 2024": "7.5",
-          "PSV 2023": "4",
-          "AHTS 2024": "8",
+          "PSV 2024": "8",
+          "PSV 2023": "5",
+          "AHTS 2024": "5",
           "AHTS 2023": "8"
         },
         {
           "Date": "3",
-          "PSV 2024": "8.5",
-          "PSV 2023": "3",
+          "PSV 2024": "8",
+          "PSV 2023": "5",
           "AHTS 2024": "5",
-          "AHTS 2023": "4"
+          "AHTS 2023": "7"
         },
         {
           "Date": "4",
-          "PSV 2024": "8",
-          "PSV 2023": "3",
-          "AHTS 2024": "4",
-          "AHTS 2023": "4"
+          "PSV 2024": "9",
+          "PSV 2023": "4",
+          "AHTS 2024": "6",
+          "AHTS 2023": "5"
         },
         {
           "Date": "5",
           "PSV 2024": "8",
           "PSV 2023": "4",
           "AHTS 2024": "5",
-          "AHTS 2023": "5"
+          "AHTS 2023": "4"
         },
         {
           "Date": "6",
           "PSV 2024": "8",
           "PSV 2023": "3",
-          "AHTS 2024": "4",
-          "AHTS 2023": "4"
+          "AHTS 2024": "5",
+          "AHTS 2023": "6"
         },
         {
           "Date": "7",
           "PSV 2024": "9",
           "PSV 2023": "3",
           "AHTS 2024": "8",
-          "AHTS 2023": "5"
+          "AHTS 2023": "6"
         },
         {
           "Date": "8",
           "PSV 2024": "9",
           "PSV 2023": "4",
-          "AHTS 2024": "4",
-          "AHTS 2023": "5"
+          "AHTS 2024": "7",
+          "AHTS 2023": "6"
         },
         {
           "Date": "9",
+          "PSV 2024": "9",
+          "PSV 2023": "4",
+          "AHTS 2024": "5",
+          "AHTS 2023": "12"
+        },
+        {
+          "Date": "10",
           "PSV 2024": "9",
           "PSV 2023": "5",
           "AHTS 2024": "4",
           "AHTS 2023": "13"
         },
         {
-          "Date": "10",
-          "PSV 2024": "9",
-          "PSV 2023": "6",
-          "AHTS 2024": "4",
-          "AHTS 2023": "14"
-        },
-        {
           "Date": "11",
-          "PSV 2024": "8",
-          "PSV 2023": "6",
+          "PSV 2024": "7",
+          "PSV 2023": "5",
           "AHTS 2024": "4",
-          "AHTS 2023": "14"
+          "AHTS 2023": "13"
         },
         {
           "Date": "12",
@@ -178,27 +104,27 @@
         {
           "Date": "13",
           "PSV 2024": "1",
-          "PSV 2023": "5",
+          "PSV 2023": "6",
           "AHTS 2024": "4",
           "AHTS 2023": "14"
         },
         {
           "Date": "14",
-          "PSV 2024": "1",
-          "PSV 2023": "5",
-          "AHTS 2024": "4",
+          "PSV 2024": "2",
+          "PSV 2023": "6",
+          "AHTS 2024": "5",
           "AHTS 2023": "14"
         },
         {
           "Date": "15",
-          "PSV 2024": "5",
+          "PSV 2024": "2",
           "PSV 2023": "6",
           "AHTS 2024": "5",
           "AHTS 2023": "12"
         },
         {
           "Date": "16",
-          "PSV 2024": "5",
+          "PSV 2024": "3",
           "PSV 2023": "6",
           "AHTS 2024": "5",
           "AHTS 2023": "13"
@@ -206,93 +132,93 @@
         {
           "Date": "17",
           "PSV 2024": "3",
-          "PSV 2023": "6",
+          "PSV 2023": "5",
           "AHTS 2024": "5",
           "AHTS 2023": "13"
         },
         {
           "Date": "18",
           "PSV 2024": "1",
-          "PSV 2023": "5",
-          "AHTS 2024": "5",
-          "AHTS 2023": "12"
+          "PSV 2023": "4",
+          "AHTS 2024": "6",
+          "AHTS 2023": "13"
         },
         {
           "Date": "19",
           "PSV 2024": "1",
           "PSV 2023": "3",
-          "AHTS 2024": "5",
-          "AHTS 2023": "10"
+          "AHTS 2024": "9",
+          "AHTS 2023": "13"
         },
         {
           "Date": "20",
-          "PSV 2024": "3",
+          "PSV 2024": "2",
           "PSV 2023": "3",
-          "AHTS 2024": "12",
+          "AHTS 2024": "10",
           "AHTS 2023": "14"
         },
         {
           "Date": "21",
           "PSV 2024": "3",
-          "PSV 2023": "3",
+          "PSV 2023": "5",
           "AHTS 2024": "12",
           "AHTS 2023": "14"
         },
         {
           "Date": "22",
           "PSV 2024": "3",
-          "PSV 2023": "4",
-          "AHTS 2024": "3",
-          "AHTS 2023": "10"
+          "PSV 2023": "5",
+          "AHTS 2024": "10",
+          "AHTS 2023": "13"
         },
         {
           "Date": "23",
           "PSV 2024": "4",
           "PSV 2023": "5",
-          "AHTS 2024": "3",
-          "AHTS 2023": "8"
+          "AHTS 2024": "9",
+          "AHTS 2023": "12"
         },
         {
           "Date": "24",
           "PSV 2024": "4",
           "PSV 2023": "5",
-          "AHTS 2024": "6",
-          "AHTS 2023": "7"
+          "AHTS 2024": "7",
+          "AHTS 2023": "11"
         },
         {
           "Date": "25",
           "PSV 2024": "6",
           "PSV 2023": "6",
           "AHTS 2024": "10",
-          "AHTS 2023": "7"
+          "AHTS 2023": "10"
         },
         {
           "Date": "26",
           "PSV 2024": "5",
           "PSV 2023": "6",
-          "AHTS 2024": "7",
-          "AHTS 2023": "7"
+          "AHTS 2024": "8",
+          "AHTS 2023": "9"
         },
         {
           "Date": "27",
           "PSV 2024": "5",
           "PSV 2023": "6",
-          "AHTS 2024": "6",
-          "AHTS 2023": "7"
+          "AHTS 2024": "8",
+          "AHTS 2023": "8"
         },
         {
           "Date": "28",
           "PSV 2024": "5",
-          "PSV 2023": "7",
+          "PSV 2023": "6",
           "AHTS 2024": "6",
           "AHTS 2023": "7"
         },
         {
           "Date": "29",
           "PSV 2024": "5",
-          "PSV 2023": "6",
+          "PSV 2023": "8",
           "AHTS 2024": "6",
-          "AHTS 2023": "7"
+          "AHTS 2023": "8"
         },
         {
           "Date": "30",
@@ -301,7 +227,8 @@
           "AHTS 2024": "5",
           "AHTS 2023": "7"
         }
-      ]
+      ],
+      "value_source": "vector_chart_read"
     },
     {
       "title": "NORTH SEA SPOT AVERAGE UTILISATION JUNE 2024",

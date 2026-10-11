@@ -90,21 +90,35 @@ The West African market improved at closing despite a stagnant demand at the sta
 
 ## Page 6
 
-Aframax:
+# Aframax:
 
 MEG market saw a slight decline in rates as the Lunar holidays dampened chartering activities across both Middle Eastern and Asian markets. In the Mediterranean market, 80,000mt Ceyhan/Lavera improved 10 points to WS128.
 
-Clean:
+# Clean:
 
-**LR: LR2 in the MEG saw freight rates decline to levels not seen since before US sanctions**
+LR: LR2 in the MEG saw freight rates decline to levels not seen since before US sanctions on Russian crude oil, as demand stagnated across both Eastern and European routes. TC1 MEG/Japan fell 22.5 points to WS102. LR1 on the other hand, did not lose as much as the bigger counterpart with TC5 slipping slightly to WS120.
 
-on Russian crude oil, as demand stagnated across both Eastern and European routes. TC1 MEG/Japan fell 22.5 points to WS102. LR1 on the other hand, did not lose as much as the bigger counterpart with TC5 slipping slightly to WS120.
-
-**MR: In the Far East market, rates closed with a slightly softer tone as demand still picking**
-
-up after the holiday period, reflecting the typical seasonal market dynamics of this major Asian holiday. In the MEG, rates picked up slightly with TC17 closing at WS190.
+MR: In the Far East market, rates closed with a slightly softer tone as demand still picking up after the holiday period, reflecting the typical seasonal market dynamics of this major Asian holiday. In the MEG, rates picked up slightly with TC17 closing at WS190.
 
 ## Baltic Exchange Tanker Indices
+
+| INDICES | CURRENT | LAST WEEK | LAST YEAR | W-O-W CHANGE | Y-O-Y CHANGE |
+| --- | --- | --- | --- | --- | --- |
+| BDTI | 903 | 876 | 1,268 | +3.08% | -28.79% |
+| BCTI | 700 | 662 | 1,126 | +5.74% | -37.83% |
+
+# Tankers Values
+
+(Weekly)
+
+| TYPE | DWT | NB CONTRACT | NB PROMPT DELIVERY | 5 YEARS | 10 YEARS | 15 YEARS |
+| --- | --- | --- | --- | --- | --- | --- |
+| VLCC | 310,000 | 128 | 143 | 114 | 84 | 56 |
+| SUEZMAX | 160,000 | 89 | 97 | 82 | 66 | 49 |
+| AFRAMAX | 115,000 | 74 | 85 | 71 | 60 | 43 |
+| LRI | 73,000 | 61 | 67 | 57 | 47 | 31 |
+| MR | 51,000 | 51 | 52 | 49 | 40 | 27 |
+| *(amount in USD million) | *(amount in USD million) | *(amount in USD million) | *(amount in USD million) | *(amount in USD million) | *(amount in USD million) | *(amount in USD million) |
 
 ## Page 7
 
@@ -206,37 +220,64 @@ In a recent tapestry of maritime developments, Bangladesh's ship recycling yards
 
 ## Page 14
 
-Gadani
+Anchorage & Beaching Position (FEBRUARY 2025)
 
-Pakistani market faces a critical juncture as market stagnation persists, with recyclers anticipating vessel availability to surge between March and April, potentially driving prices below the US$400 threshold. The ramifications for Pakistan's ship recycling industry are particularly severe, as Gadani's shores now present a stark contrast. While recyclers' offers remain relatively uncompetitive with their Indian counterparts, the sector faces existential challenges beyond mere pricing dynamics. The impending HKC implementation in July 2025 poses a significant threat, as recyclers have yet to initiate crucial infrastructure upgrades or regulatory compliance measures, unlike their Bangladeshi competitors who are actively seeking extensions. No sales reported for the past few months.
+| VESSEL NAME | TYPE | LDT | ARRIVAL | BEACHING |
+| --- | --- | --- | --- | --- |
+| EAST PIONEER | BULKER | 10,890 | 04.02.2025 | AWAITING |
+| GOLDEN O | BULKER | 10,664 | 04.02.2025 | AWAITING |
+| OCEAN PEACE | BULKER | 10,847 | 29.01.2025 | AWAITING |
+| THREE STAR | BULKER | 7,627 | 23.01.2025 | AWAITING |
+| ALEK | GEN CARGO | 3,120 | 28.01.2025 | 05.02.2025 |
+| LEAN | LNG | 29,180 | 27.01.2025 | 05.02.2025 |
+| GOU YUAN 9 | BULKER | 9,205 | 22.01.2025 | 02.02.2025 |
+
+# Gadani
+
+Pakistani market faces a critical juncture as market stagnation persists, with recyclers anticipating vessel availability to surge between March and April, potentially driving prices below the US$400 threshold.
+
+The ramifications for Pakistan's ship recycling industry are particularly severe, as Gadani's shores now present a stark contrast. While recyclers' offers remain relatively uncompetitive with their Indian counterparts, the sector faces existential challenges beyond mere pricing dynamics.
+
+The impending HKC implementation in July 2025 poses a significant threat, as recyclers have yet to initiate crucial infrastructure upgrades or regulatory compliance measures, unlike their Bangladeshi competitors who are actively seeking extensions.
+
+No sales reported for the past few months.
+
+Anchorage & Beaching Position (FEBRUARY 2025)
+
+| VESSEL NAME | TYPE | LDT | ARRIVAL | BEACHING |
+| --- | --- | --- | --- | --- |
+| - | - | - | - | - |
 
 ## Page 15
 
-Aliaga, Turkey
+# Aliaga, Turkey
 
-Turkey's domestic mills are cautiously adjusting prices amid fluctuating imported scrap values. Despite a 6.7% increase in ferrous scrap imports to 20.09 million tons in 2024, with significant volumes from the U.S., Netherlands, and UK, the recycling market remains subdued, with shipbreaking scrap prices hovering between US$340-355 per ton delivered. The sector faces additional headwinds from the looming implementation of EU scrap export restrictions under CBAM, which the Turkish Steel Producers Association (TCUD) warns could significantly disrupt supply chains and impact the circular economy. The situation is further complicated by sluggish steel sales and tepid market sentiment, even as some mills attempt to increase prices following higher imported scrap values.
+Turkey's domestic mills are cautiously adjusting prices amid fluctuating imported scrap values. Despite a 6.7% increase in ferrous scrap imports to 20.09 million tons in 2024, with significant volumes from the U.S., Netherlands, and UK, the recycling market remains subdued, with shipbreaking scrap prices hovering between US$340-355 per ton delivered.
 
----
+The sector faces additional headwinds from the looming implementation of EU scrap export restrictions under CBAM, which the Turkish Steel Producers Association (TCUD) warns could significantly disrupt supply chains and impact the circular economy. The situation is further complicated by sluggish steel sales and tepid market sentiment, even as some mills attempt to increase prices following higher imported scrap values.
 
-Chattogram, Bangladesh : 14 ~ 17 February | 28 February ~ 03 March Alang, India : 10 ~ 16 February | 26 February ~ 05 March
+# BEACHING TIDE DATES 2025
 
----
+Chattogram, Bangladesh : 14 ~ 17 February | 28 February ~ 03 March
 
-BUNKER PRICES (USD/ton)
+Alang, India
 
-PORTS VLSFO (0.5%) HSFO (3.5%) MGO (0.1%)
+: 10 ~ 16 February | 26 February ~ 05 March
 
+#### BUNKER PRICES (USD/ton)
+
+| PORTS | VLSFO (0.5%) | HSFO (3.5%) | MGO (0.1%) |
+| --- | --- | --- | --- |
 | SINGAPORE | 574 | 503 | 687 |
-|---|---|---|---|
 | HONG KONG | 588 | 517 | 708 |
 | FUJAIRAH | 564 | 484 | 767 |
 | ROTTERDAM | 550 | 460 | 670 |
 | HOUSTON | 567 | 462 | 732 |
 
-EXCHANGE RATES
+#### EXCHANGE RATES
 
 | CURRENCY | February 7 | January 31 | W-O-W % CHANGE |
-|---|---|---|---|
+| --- | --- | --- | --- |
 | USD / CNY (CHINA) | 7.28 | 7.25 | -0.41% |
 | USD / BDT (BANGLADESH) | 121.88 | 121.92 | +0.03% |
 | USD / INR (INDIA) | 87.77 | 86.66 | -1.28% |

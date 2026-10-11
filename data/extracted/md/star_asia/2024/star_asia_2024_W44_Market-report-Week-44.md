@@ -108,15 +108,36 @@ Suezmax mirrored VLCC's subdued activity, particularly in West Africa, where rat
 
 135,000mt CPC/Med closing at WS106.
 
-Aframax:
+# Aframax:
 
 In the Aframax, a similar dampened outlook was also witnessed. Big losses were recorded in the Med region, with 80,000mt Ceyhan/Lavera losing 42 points to WS121. On the other side, the Atlantic losses were a bit more tamed, with EC Mexico/USG falling slightly to the WS144 region.
 
-Clean:
+# Clean:
 
-LR: LR2s in the MEG saw significant correction following the sharp increase in the previous week. After a period of urgent fixtures that drove the surge, rates corrected this week to WS105 on TC1 route. Similar was also noted in LR1, with TC5 falling 5 points to WS121 due to lack of activity. MR: The Far East market continued to face challenges, with rates falling as persistent demand weakness added pressure on rates. Elsewhere, in the USG, TC14 saw a big jump with 42 points, closing at WS176.
+LR: LR2s in the MEG saw significant correction following the sharp increase in the previous week. After a period of urgent fixtures that drove the surge, rates corrected this week to WS105 on TC1 route. Similar was also noted in LR1, with TC5 falling 5 points to WS121 due to lack of activity.
+
+MR: The Far East market continued to face challenges, with rates falling as persistent demand weakness added pressure on rates. Elsewhere, in the USG, TC14 saw a big jump with 42 points, closing at WS176.
 
 ## Baltic Exchange Tanker Indices
+
+| INDICES | CURRENT | LAST WEEK | LAST YEAR | W-O-W CHANGE | Y-O-Y CHANGE |
+| --- | --- | --- | --- | --- | --- |
+| BDTI | 957 | 1,041 | 1,462 | -8.07% | -34.54% |
+| BCTI | 524 | 558 | 768 | -6.09% | -31.77% |
+
+# Tankers Values
+
+(Weekly)
+
+| TYPE | DWT | NB CONTRACT | NB PROMPT DELIVERY | 5 YEARS | 10 YEARS | 15 YEARS |
+| --- | --- | --- | --- | --- | --- | --- |
+| VLCC | 310,000 | 129 | 146 | 116 | 86 | 58 |
+| SUEZMAX | 160,000 | 90 | 99 | 83 | 68 | 50 |
+| AFRAMAX | 115,000 | 75 | 86 | 72 | 62 | 44 |
+| LRI | 73,000 | 62 | 68 | 58 | 48 | 32 |
+| MR | 51,000 | 52 | 53 | 50 | 41 | 28 |
+
+*(amount in USD million)
 
 ## Page 7
 
@@ -215,25 +236,60 @@ The ship recycling markets remained closed this week in observance of the Diwali
 
 due to a shortage of available vessels, making it challenging to establish accurate market levels and future trends.
 
-Chattogram, Bangladesh
+Anchorage & Beaching Position (November 2024)
 
-Another inactive week as Bangladesh's ship recycling industry is facing major challenges, with operations mainly at a near standstill since the formation of the new interim government. The country's worsening economic situation, combined with an influx of low-cost imported scrap, has intensified pressures on local recyclers. Bangladesh's shipbreaking industry, once a global leader in dismantling vessels, is now battling severe economic, regulatory, and geopolitical challenges that threaten its survival in the long run. A report by the NGO Ship Breaking Platform highlights the growing crisis, driven by a strong U.S. dollar, reduced availability of end-of-life ships, and restrictive regulations. As the Bangladeshi Taka weakens, costs soar for shipbreakers who must pay in dollars, squeezing profit margins. The shortage of ships, combined with safety concerns-five accidents and six deaths this year-has forced over 50 Bangladeshi yards to close recently, impacting jobs and steel supplies. Industry advocates call for government intervention to stabilise the sector, fearing further contraction in a vital industry that supports Bangladesh's construction and manufacturing sectors. The ship recycling market has come to a near standstill,
+| VESSEL NAME | TYPE | LDT | ARRIVAL | BEACHING |
+| --- | --- | --- | --- | --- |
+| BEREG MATCHY | REEFER | 7,263 | 26.08.2024 | AWAITING* |
+| WIND | GENERAL CARGO | 2,489 | 01.11.2024 | AWAITING |
+| GREEN BODO | REEFER | 2,957 | 01.11.2024 | AWAITING |
+| CAPT.OSAMA | GENERAL CARGO | 5,207 | 21.10.2024 | AWAITING |
+| TANA | GENERAL CARGO | 7,214 | 25.10.2024 | AWAITING |
+| MSC ALEXA | CONTAINER | 16,228 | 27.10.2024 | AWAITING |
+
+# Chattogram, Bangladesh
+
+Another inactive week as Bangladesh's ship recycling industry is facing major challenges, with operations mainly at a near standstill since the formation of the new interim government. The country's worsening economic situation, combined with an influx of low-cost imported scrap, has intensified pressures on local recyclers.
+
+Bangladesh's shipbreaking industry, once a global leader in dismantling vessels, is now battling severe economic, regulatory, and geopolitical challenges that threaten its survival in the long run. A report by the NGO Ship Breaking Platform highlights the growing crisis, driven by a strong U.S. dollar, reduced availability of end-of-life ships, and restrictive regulations. As the Bangladeshi Taka weakens, costs soar for shipbreakers who must pay in dollars, squeezing profit margins.
+
+The shortage of ships, combined with safety concerns—five accidents and six deaths this year—has forced over 50 Bangladeshi yards to close recently, impacting jobs and steel supplies. Industry advocates call for government intervention to stabilise the sector, fearing further contraction in a vital industry that supports Bangladesh's construction and manufacturing sectors. The ship recycling market has come to a near standstill,
+
+Anchorage & Beaching Position (November 2024)
+
+| VESSEL NAME | TYPE | LDT | ARRIVAL | BEACHING |
+| --- | --- | --- | --- | --- |
+| RADA | TANKER | 18,860 | 26.10.2024 | AWAITING |
+
+Gadani, Pakistan
 
 ## Page 15
 
 The ship recycling markets remained subdued this week, with a noticeable shortage of vessels as many recyclers awaited an easing in supply. Meanwhile, most recycling yards are pressing forward with preparations to secure Hong Kong Convention (HKC) certification, with work progressing at full steam ahead.
 
-Aliaga, Turkey
+Anchorage & Beaching Position (November 2024)
 
-Turkish scrap markets have shown mixed signals this week, with domestic prices largely maintaining stability while import values continue their downward trajectory. The market's subdued activity can be partially attributed to the Republic Day holiday. Market participants hold divergent views on the near-term outlook. While Turkish mills maintain a patient stance, citing adequate scrap availability particularly from European suppliers, some vendors anticipate a potential price recovery driven by seasonal factors including holiday schedules and winter conditions. Adding complexity to the market dynamics are rising freight rates, euro-dollar exchange fluctuations, and anticipation surrounding China's upcoming National People's Congress Standing Committee session scheduled for November 4-8. This event has generated cautious optimism regarding potential economic stimulus measures that could influence global market sentiment. Meanwhile, Turkish mills continue to face challenges in export markets, though domestic demand shows regional variations, with southern areas displaying more robust activity. Rebar prices are currently positioned at US$620-640/ton ex-works, while shipbreaking scrap commands US$365-385/ton delivered, with the Turkish lira trading at TRY 34.34 to the dollar.
+| VESSEL NAME | TYPE | LDT | ARRIVAL | BEACHING |
+| --- | --- | --- | --- | --- |
+| - | - | - | - | - |
 
----
+# Aliaga, Turkey
 
-Chattogram, Bangladesh : 14 - 17 November | 30 November - 3 December Alang, India : 31 October - 7 November | 14 - 21 November
+Turkish scrap markets have shown mixed signals this week, with domestic prices largely maintaining stability while import values continue their downward trajectory. The market's subdued activity can be partially attributed to the Republic Day holiday.
 
----
+Market participants hold divergent views on the near-term outlook. While Turkish mills maintain a patient stance, citing adequate scrap availability particularly from European suppliers, some vendors anticipate a potential price recovery driven by seasonal factors including holiday schedules and winter conditions. Adding complexity to the market dynamics are rising freight rates, euro-dollar exchange fluctuations, and anticipation surrounding China's upcoming National People's Congress Standing Committee session scheduled for November 4–8. This event has generated cautious optimism regarding potential economic stimulus measures that could influence global market sentiment.
 
-BUNKER PRICES (USD/TON)
+Meanwhile, Turkish mills continue to face challenges in export markets, though domestic demand shows regional variations, with southern areas displaying more robust activity. Rebar prices are currently positioned at US$620-640/ton ex-works, while shipbreaking scrap commands US$365-385/ton delivered, with the Turkish lira trading at TRY 34.34 to the dollar.
+
+# BEACHING TIDE DATES 2024
+
+Chattogram, Bangladesh : 14 – 17 November | 30 November – 3 December
+
+Alang, India
+
+: 31 October – 7 November | 14 – 21 November
+
+# BUNKER PRICES (USD/TON)
 
 ## Page 16
 
@@ -271,21 +327,33 @@ reductions by suppliers. Sellers from Singapore and Malaysia offered PNS scrap a
 
 ## Page 18
 
+Copper saw early gains in Asia following an unexpected boost in China's factory activity in October. The official manufacturing PMI climbed to 50.1, surpassing market expectations and signalling a positive start to China's economic growth in the fourth quarter, aided by recent government support measures. However, copper later lost ground as robust U.S. economic data tempered expectations of aggressive Fed rate cuts.
+
+Meanwhile, aluminium bucked the trend, ending the session higher amid tightening supply concerns. Alumina, essential for aluminium production, reached a record high of CNY5,055/t on the Shanghai Futures Exchange due to supply disruptions, particularly from Guinea, leading to a scramble for available stock. Elevated costs are expected to keep aluminium prices firm in the near term.
+
+Iron ore slipped slightly despite signs of recovery in China's real estate market, with residential property sales rising year-on-year for the first time in 2024. New home sales from China's top 100 real estate firms increased by 7.1% y/y to CNY436 billion, following government initiatives aimed at boosting the sector. The steel industry PMI also hit its highest level since July 2018, pointing to improved conditions in the sector. Market sentiment took a hit after strong U.S. economic data dampened expectations for
+
 ### Iron Ore
 
-| COMMODITY (USD/MT) | GRADE |
-| --- | --- |
-| Iron Ore Fines, CNF Rizhao, China | Fines, Fe 62% (Aust. Origin) 103 +3.00% -17.60% 100 125 Iron Ore Fines, CNF Qingdao, China Fines, Fe 62.5% (Brazil Origin) 106 +2.91% -17.18% 103 128 INDEX UNITS PRICE CHANGE %CHANGE CONTRACT Copper (Comex) USD / lb. 437.15 +3.15 +0.73% Dec 2024 3Mo Copper (L.M.E.) USD / MT 9,506.00 -32.00 -0.34% N/A 3Mo Aluminum (L.M.E.) USD / MT 2,617.50 +1.50 +0.06% N/A 3Mo Zinc (L.M.E.) USD / MT 3,029.00 -57.50 -1.86% N/A 3Mo Tin (L.M.E.) USD / MT 31,213.00 +263.00 +0.85% N/A INDEX UNITS PRICE CHANGE %CHANGE CONTRACT |
+| COMMODITY | SIZE / GRADE | THIS WEEK USD / MT | W-O-W | Y-O-Y | LAST WEEK USD / MT | LAST YEAR USD / MT |
+| --- | --- | --- | --- | --- | --- | --- |
+| Iron Ore Fines, CNF Rizhao, China | Fines, Fe 62% (Aust. Origin) | 103 | +3.00% | -17.60% | 100 | 125 |
+| Iron Ore Fines, CNF Qingdao, China | Fines, Fe 62.5% (Brazil Origin) | 106 | +2.91% | -17.18% | 103 | 128 |
 
 ### Industrial Metal Rates
 
-| INDEX | UNITS | PRICE | CHANGE | % CHANGE | CONTRACT |
-| :--- | :--- | :---: | :---: | :---: | :---: |
+| INDEX | UNITS | PRICE | CHANGE | %CHANGE | CONTRACT |
+| --- | --- | --- | --- | --- | --- |
 | Copper (Comex) | USD / lb. | 437.15 | +3.15 | +0.73% | Dec 2024 |
 | 3Mo Copper (L.M.E.) | USD / MT | 9,506.00 | -32.00 | -0.34% | N/A |
 | 3Mo Aluminum (L.M.E.) | USD / MT | 2,617.50 | +1.50 | +0.06% | N/A |
 | 3Mo Zinc (L.M.E.) | USD / MT | 3,029.00 | -57.50 | -1.86% | N/A |
 | 3Mo Tin (L.M.E.) | USD / MT | 31,213.00 | +263.00 | +0.85% | N/A |
+
+Crude Oil & Natural Gas Rates
+
+| INDEX | UNITS | PRICE | CHANGE | %CHANGE | CONTRACT |
+| --- | --- | --- | --- | --- | --- |
 
 ## Page 19
 

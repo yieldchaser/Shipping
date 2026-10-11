@@ -105,15 +105,35 @@ The West African Suezmax market initially showed promise of a rate rebound, buoy
 
 more sharply in the latter half of the week, ending on a weak note. 130,000mt Nigeria/UKC fell to WS80. The coming week offers little prospect for demand recovery sufficient to reverse this trend, suggesting a continued decline in rates.
 
-Aframax:
+# Aframax:
 
 The Middle East Aframax sector saw a slight improvement in supply-demand balance early in the week, thanks to owners' efforts in managing vessel supply. This sparked hopes for rate increases. However, the underperformance of the Suezmax market limit further gains. In the Med, some improvements were seen with Ceyhan/Lavera route gaining 18 points to WS146.
 
-Clean:
+# Clean:
 
-LR: The LR2 market, particularly on Middle East/Japan routes, continues to grapple with dual pressures for another week. The summer season has brought an increase in available vessels, coupled with a persistent cargo shortage. These factors have driven rates down significantly, closing at WS148. In LR1, TC5 remains relatively unchanged with levels hovering at WS155. MR: MR market in the Far East region is also experiencing downward pressure on rates. This decline is primarily attributed to weakened export activities from key players in the region, notably China and South Korea. In the UKC, some recovery was noted. TC2 closes at WS200.
+LR: The LR2 market, particularly on Middle East/Japan routes, continues to grapple with dual pressures for another week. The summer season has brought an increase in available vessels, coupled with a persistent cargo shortage. These factors have driven rates down significantly, closing at WS148. In LR1, TC5 remains relatively unchanged with levels hovering at WS155.
+
+MR: MR market in the Far East region is also experiencing downward pressure on rates. This decline is primarily attributed to weakened export activities from key players in the region, notably China and South Korea. In the UKC, some recovery was noted. TC2 closes at WS200.
 
 ## Baltic Exchange Tanker Indices
+
+| INDICES | CURRENT | LAST WEEK | LAST YEAR | W-O-W CHANGE | Y-O-Y CHANGE |
+| --- | --- | --- | --- | --- | --- |
+| BDTI | 952 | 1,036 | 810 | -8.11% | +17.53% |
+| BCTI | 755 | 814 | 716 | -7.25% | +5.45% |
+
+Tankers Values
+
+(Weekly)
+
+| TYPE | DWT | NB CONTRACT | NB PROMPT DELIVERY | 5 YEARS | 10 YEARS | 15 YEARS |
+| --- | --- | --- | --- | --- | --- | --- |
+| VLCC | 310,000 | 130 | 145 | 115 | 85 | 58 |
+| SUEZMAX | 160,000 | 90 | 99 | 83 | 68 | 50 |
+| AFRAMAX | 115,000 | 75 | 86 | 72 | 62 | 44 |
+| LR1 | 73,000 | 62 | 64 | 54 | 44 | 32 |
+| MR | 51,000 | 52 | 54 | 47 | 39 | 28 |
+| *(amount in USD million) | *(amount in USD million) | *(amount in USD million) | *(amount in USD million) | *(amount in USD million) | *(amount in USD million) | *(amount in USD million) |
 
 ## Page 7
 
@@ -246,34 +266,39 @@ Aliaga, Turkey
 
 ## Page 17
 
-Chattogram, Bangladesh : 4 ~ 7 August | 19 ~ 22 August Alang, India : 31 July ~ 8 August | 17 ~ 26 August
+The euro's slight strengthening to EU$1.084 midweek further challenges European suppliers. Domestic rebar demand in Turkey remains weak, with mills' official offers at US$585-610/t ex-works. Turkish shipbreaking scrap prices stood at US$375-390/t delivered, and the Turkish lira closed at 33.19 to the dollar at closing.
 
----
+# BEACHING TIDE DATES 2024
 
-BUNKER PRICES (USD/TON)
+Chattogram, Bangladesh : 4 ~ 7 August | 19 ~ 22 August
 
-PORTS VLSFO (0.5%) HSFO (3.5%) MGO (0.1%)
+Alang, India : 31 July ~ 8 August | 17 ~ 26 August
 
+#### BUNKER PRICES (USD/TON)
+
+| PORTS | VLSFO (0.5%) | HSFO (3.5%) | MGO (0.1%) |
+| --- | --- | --- | --- |
 | SINGAPORE | 612 | 506 | 720 |
-|---|---|---|---|
 | HONG KONG | 608 | 512 | 721 |
 | FUJAIRAH | 609 | 494 | 824 |
 | ROTTERDAM | 564 | 497 | 720 |
 | HOUSTON | 589 | 479 | 751 |
 
-EXCHANGE RATES
+#### EXCHANGE RATES
 
 | CURRENCY | August 2 | July 26 | W-O-W % CHANGE |
-|---|---|---|---|
+| --- | --- | --- | --- |
 | USD / CNY (CHINA) | 7.16 | 7.24 | +1.10% |
 | USD / BDT (BANGLADESH) | 117.46 | 117.48 | +0.02% |
 | USD / INR (INDIA) | 83.78 | 83.72 | -0.07% |
 | USD / PKR (PAKISTAN) | 278.87 | 278.34 | -0.19% |
 | USD / TRY (TURKEY) | 33.19 | 33.09 | -0.30% |
 
-Sub-Continent and Turkey ferrous scrap markets insight
+# Sub-Continent and Turkey ferrous scrap markets insight
 
-The Sub-Continent and Turkey scrap steel market remains beset by multiple challenges, with notable trends observed in India, Pakistan, Bangladesh, and Turkey. In India, the demand for imported scrap remains sluggish, primarily due to the availability of cheaper alternatives such as sponge iron and domestic scrap. Additionally, the lack of support from the downstream steel sector has impacted scrap consumption.
+The Sub-Continent and Turkey scrap steel market remains beset by multiple challenges, with notable trends observed in India, Pakistan, Bangladesh, and Turkey.
+
+In India, the demand for imported scrap remains sluggish, primarily due to the availability of cheaper alternatives such as sponge iron and domestic scrap. Additionally, the lack of support from the downstream steel sector has impacted scrap consumption.
 
 ## Page 18
 
@@ -287,16 +312,25 @@ as Australia, Hong Kong, New Zealand, and the UAE, avoiding UK/Europe scrap due 
 
 ## Page 19
 
+# Commodities
+
+Iron ore futures climbed to a one-week high on Thursday, driven by Rio Tinto's positive outlook on Chinese demand and expectations of further stimulus in China. The most-traded September iron ore contract on China's Dalian Commodity Exchange rose 2.35% to 783.5 yuan (US$108.28) /ton, while the Singapore Exchange benchmark increased 1.91% to US$102.85/ton.
+
+Rio Tinto, the world's largest iron ore producer, reported higher first-half earnings and projected Chinese economic growth of "plus or minus 5%". The company's CEO, Jakob Stausholm, highlighted the significant impact of China's green transition on steel demand and high-grade iron ore consumption. Recent weak Chinese economic data, including a contraction in factory activity, has fueled hopes for additional government stimulus.
+
+Despite these challenges, Chinese officials expressed confidence in achieving the full-year growth target of around 5%. Other steelmaking ingredients on the Dalian exchange saw declines, with coking coal and coke dropping 1.68% and 1.18%, respectively. However, steel benchmarks on the Shanghai Futures Exchange showed gains across various products, including rebar, hot-rolled coil, stainless steel, and wire rods.
+
 ### Iron Ore
 
-| COMMODITY (USD/MT) | GRADE |
-| --- | --- |
-| Iron Ore Fines, CNF Rizhao, China | Fines, Fe 62% (Aust. Origin) 101 -6.48% -13.67% 108 117 Iron Ore Fines, CNF Qingdao, China Fines, Fe 62.5% (Brazil Origin) 104 -6.30% -9.56% 111 115 INDEX UNITS PRICE CHANGE %CHANGE CONTRACT Copper (Comex) USD / lb. 410.30 +2.05 +0.50% Sep 2024 3Mo Copper (L.M.E.) USD / MT 9,055.50 +3.00 +0.03% N/A 3Mo Aluminum (L.M.E.) USD / MT 2,263.50 -32.50 -1.42% N/A 3Mo Zinc (L.M.E.) USD / MT 2,653.00 -54.00 -1.99% N/A 3Mo Tin (L.M.E.) USD / MT 30,188.00 +294.00 +0.98% N/A |
+| COMMODITY | SIZE / GRADE | THIS WEEK USD / MT | W-O-W | Y-O-Y | LAST WEEK USD / MT | LAST YEAR USD / MT |
+| --- | --- | --- | --- | --- | --- | --- |
+| Iron Ore Fines, CNF Rizhao, China | Fines, Fe 62% (Aust. Origin) | 101 | -6.48% | -13.67% | 108 | 117 |
+| Iron Ore Fines, CNF Qingdao, China | Fines, Fe 62.5% (Brazil Origin) | 104 | -6.30% | -9.56% | 111 | 115 |
 
 ### Industrial Metal Rates
 
-| INDEX | UNITS | PRICE | CHANGE | % CHANGE | CONTRACT |
-| :--- | :--- | :---: | :---: | :---: | :---: |
+| INDEX | UNITS | PRICE | CHANGE | %CHANGE | CONTRACT |
+| --- | --- | --- | --- | --- | --- |
 | Copper (Comex) | USD / lb. | 410.30 | +2.05 | +0.50% | Sep 2024 |
 | 3Mo Copper (L.M.E.) | USD / MT | 9,055.50 | +3.00 | +0.03% | N/A |
 | 3Mo Aluminum (L.M.E.) | USD / MT | 2,263.50 | -32.50 | -1.42% | N/A |

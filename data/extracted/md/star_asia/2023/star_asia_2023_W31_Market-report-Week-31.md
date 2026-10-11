@@ -42,20 +42,52 @@ The handy market did not fare so well this week, with rates across both basins s
 
 ## Page 3
 
-## Dry Bulk - S&P Report
+# Dry Bulk – S&P Report
+
+| VESSEL NAME | TYPE | DWT | YEAR | BUILT | PRICE (MILLION) USD | COMMENTS / BUYERS |
+| --- | --- | --- | --- | --- | --- | --- |
+| SHIOSAI | CAPE | 176,827 | 2009 | JAPAN | 21.0 | CHINESE BUYERS |
+| SUNNY ETERNITY | PMAX | 77,211 | 2014 | JAPAN | 19.5 | GREEK BUYERS |
+| SHENG WU | PMAX | 76,286 | 2005 | JAPAN | 14.9 | UNDISCLOSED |
+| DEVBULK GULTEN | SMAX | 55,865 | 2015 | JAPAN | 22.6 | UNDISCLOSED |
+| RHL MARTA | SMAX | 53,808 | 2007 | CHINA | 10.0 | UNDISCLOSED |
+| CIELO DI PALERMO | HANDY | 37,059 | 2013 | JAPAN | 17.0 | UNDISCLOSED |
+
+# Dry Bulk Values
+
+*(Weekly)*
+
+| TYPE | DWT | NB CONTRACT | NB PROMPT DELIVERY | 5 YEARS | 10 YEARS | 15 YEARS |
+| --- | --- | --- | --- | --- | --- | --- |
+| CAPE | 180,000 | 63 | 61 | 47 | 29 | 14 |
+| KAMSARMAX | 82,000 | 35 | 37 | 31 | 21 | 9 |
+| SUPRAMAX | 56,000 | 33 | 36 | 29 | 19 | 8 |
+| HANDY | 38,000 | 30 | 31 | 24 | 17 | 6 |
+
+*(*amount in USD million*)
+
+# Baltic Exchange Dry Bulk Indices
+
+| INDICES | CURRENT | LAST WEEK | LAST YEAR | W-O-W CHANGE | Y-O-Y CHANGE |
+| --- | --- | --- | --- | --- | --- |
+| BDI | 1,128 | 1,097 | 1,560 | +2.83% | -27.69% |
+| BCI | 1,818 | 1,830 | 1,411 | +0.66% | 28.84% |
+| BPI | 1,112 | 955 | 1,967 | +16.44% | -43.47% |
+| BSI | 695 | 733 | 1,700 | -5.18% | -59.12% |
+| BHSI | 391 | 397 | 1,058 | -1.51% | -63.04% |
 
 ## Page 4
 
-## Bulker 12 months T/C rates average
+# Bulker 12 months T/C rates average (in USD/day)
 
-| TYPE | DWT | CURRENT | LAST WEEK | LAST YEAR |
-| --- | --- | --- | --- | --- |
-| CAPESIZE | 180,000 | 15,000 | 15,000 | 15,750 |
-| PANAMAX | 75,000 | 10,750 | 10,500 | 16,750 |
-| SUPRAMAX | 58,000 | 10,500 | 10,750 | 15,875 |
-| HANDYSIZE | 38,000 | 9,750 | 10,250 | 14,750 |
+| TYPE | DWT | CURRENT | LAST WEEK | LAST YEAR | W-O-W CHANGE | Y-O-Y CHANGE |
+| --- | --- | --- | --- | --- | --- | --- |
+| CAPESIZE | 180,000 | 15,000 | 15,000 | 15,750 | 0 | -4.76% |
+| PANAMAX | 75,000 | 10,750 | 10,500 | 16,750 | +2.38% | -35.82% |
+| SUPRAMAX | 58,000 | 10,500 | 10,750 | 15,875 | -2.33% | -33.86% |
+| HANDYSIZE | 38,000 | 9,750 | 10,250 | 14,750 | -4.88% | -33.90% |
 
-(in USD/day) W-O-W CHANGE Y-O-Y CHANGE 0 -4.76% +2.38% -35.82% -2.33% -33.86% -4.88% -33.90%
+# Dry Bulk 1 year T/C rates
 
 ## Page 5
 
@@ -123,6 +155,26 @@ The SCFI index remains stable this week at 1,039 points, mainly driven by Transp
 
 ## Containers S&P Report
 
+| VESSEL NAME | TYPE | TEU | YEAR | BUILT | PRICE (MILLION) USD | COMMENTS / BUYERS |
+| --- | --- | --- | --- | --- | --- | --- |
+| MH HAMBURG | POST PMAX | 6,494 | 2009 | JAPAN | 32.0 | FOROOHARI SCHIFF |
+| ZHONG GU JIANG SU | PMAX | 4,963 | 2010 | ROMANIA | N/A | MSC |
+
+# Containers Values
+
+*(Weekly)*
+
+| CONTAINERS (BY TEU) | GEARED / GEARLESS | NB CONTRACT | NB PROMPT DELIVERY | 5 YEARS | 10 YEARS | 20 YEARS |
+| --- | --- | --- | --- | --- | --- | --- |
+| 900 – 1,200 | Geared | 24 | 24 | 17 | 10 | 8 |
+| 1,600 – 1,800 | Geared | 31 | 28 | 23 | 16 | 12 |
+| 2,700 – 2,900 | Gearless | 42 | 38 | 30 | 20 | 17 |
+| 5,500 – 7,000 | Gearless | 93 | 82 | 70 | 45 | N/A |
+
+*(*amount in USD million*)
+
+Container 6-12 months T/C rates
+
 ## Page 9
 
 ## Ship Recycling Market Snapshot
@@ -153,17 +205,16 @@ The SCFI index remains stable this week at 1,039 points, mainly driven by Transp
 
 ## Ships Sold for Recycling
 
+| VESSEL NAME | LDT / MT | YEAR / BUILT | TYPE | PRICE (US$/LDT) | COMMENTS |
+| --- | --- | --- | --- | --- | --- |
+| MAERSK PATRAS | 12,400 | 1998 / GERMANY | CONTAINER | 405 | AS IS UAE PORT FOR REDELIVERY TO ALANG – MAERSK APPROVED FACILITY |
+| MSC LANA II | 10,351 | 1999 / POLAND | CONTAINER | 520 | DELIVERED ALANG TO MSC APPROVED FACILITY |
+| MSC ERMINIA | 17,694 | 1993 / JAPAN | CONTAINER | 505 | DELIVERED ALANG TO MSC APPROVED FACILITY |
+| TAI HWA | 4,043 | 1989 / JAPAN | RORO | 465 | AS IS KAOHSIUNG, TAIWAN |
+| TESSA | 2,461 | 1992 / TURKEY | GEN.CARGO | 560 | DELIVERED CHATTOGRAM |
+| SOL STRAITS | 7,808 | 1997 / POLAND | CONTAINER | 592 | DELIVERED CHATTOGRAM |
+
 ## Recycling Ships Price Trend
-
-TYPE CONTAINER
-
-CONTAINER CONTAINER RORO GEN.CARGO CONTAINER
-
-PRICE (US$/LDT) 405
-
-520 505 465 560 592
-
-COMMENTS AS IS UAE PORT FOR REDELIVERY TO ALANG - MAERSK APPROVED FACILITY DELIVERED ALANG TO MSC APPROVED FACILITY DELIVERED ALANG TO MSC APPROVED FACILITY AS IS KAOHSIUNG, TAIWAN DELIVERED CHATTOGRAM DELIVERED CHATTOGRAM
 
 ## Page 11
 
@@ -223,27 +274,26 @@ Turkish scrap prices are seen mostly following a stable trend in both the import
 
 ## Page 15
 
+# BEACHING TIDE DATES 2023
+
 Chattogram, Bangladesh : 16 ~ 19 August | 30 August ~ 02 September
 
 Alang, India : 14 ~ 20 August | 28 August ~ 06 September
 
----
+#### BUNKER PRICES (USD/TON)
 
-BUNKER PRICES (USD/TON)
-
-PORTS VLSFO (0.5%) IFO380 CST MGO (0.1%)
-
+| PORTS | VLSFO (0.5%) | IFO380 CST | MGO (0.1%) |
+| --- | --- | --- | --- |
 | SINGAPORE | 631 | 567 | 897 |
-|---|---|---|---|
 | HONG KONG | 635 | 561 | 900 |
 | FUJAIRAH | 623 | 517 | 937 |
 | ROTTERDAM | 607 | 555 | 876 |
 | HOUSTON | 597 | 531 | 912 |
 
-EXCHANGE RATES
+#### EXCHANGE RATES
 
-| CURRENCY | 4th AUGUST | 28th JULY | W-O-W % CHANGE |
-|---|---|---|---|
+| CURRENCY | 4 th AUGUST | 28 th JULY | W-O-W % CHANGE |
+| --- | --- | --- | --- |
 | USD / CNY (CHINA) | 7.17 | 7.15 | -0.28% |
 | USD / BDT (BANGLADESH) | 109.0 | 108.45 | -0.51% |
 | USD / INR (INDIA) | 82.75 | 82.25 | -0.61% |

@@ -102,7 +102,7 @@ Aframax: Aframax rates have plunged as long-term slump in chartering activity an
 ### Baltic Tanker Indices
 
 | BDTI | BCTI |
-| :---: | :---: |
+| --- | --- |
 | 2,068 | 1,504 |
 | WoW: -6.64% | WoW: -10.16% |
 | YoY: +124.30% | YoY: +115.47% |
@@ -110,20 +110,22 @@ Aframax: Aframax rates have plunged as long-term slump in chartering activity an
 ### Vessel Values (USD Million)
 
 | TYPE | DWT | NB CONTRACT | NB PROMPT | 5 YRS | 10 YRS | 15 YRS |
-| :--- | :---: | :---: | :---: | :---: | :---: | :---: |
+| --- | --- | --- | --- | --- | --- | --- |
 | VLCC | 310,000 | $130M | $175M | $135M (E) | $109M (E) | $60M |
 | SUEZMAX | 160,000 | $88M | $108M | $88M (E) | $76M (E) | $52M |
 | AFRAMAX | 115,000 | $77M | $88M | $73M (E) | $63M (E) | $47M |
 | LR1 | 73,000 | $65M | $70M | $60M (E) | $52M (E) | $30M |
 | MR | 51,000 | $50M | $57M | $46M (E) | $37M (E) | $28M |
 
-### Sale & Purchase - Reported Fixtures
+Sale & Purchase — Reported Fixtures
 
 | VESSEL | TYPE | DWT | YEAR / BUILT | PRICE (USD M) | BUYER |
-| :--- | :---: | :---: | :---: | :---: | :--- |
+| --- | --- | --- | --- | --- | --- |
 | ABIE | VLCC | 302,986 | 2002 / S. KOREA | 41.0 | UNDISCLOSED |
 | STI CONDOTTI | AFRA | 109,999 | 2014 / S. KOREA | 70.0 | UNDISCLOSED |
 | SUNNY VICTORY | MR | 46,803 | 2005 / S. KOREA | 16.0 | UNDISCLOSED |
+| EASTERLY BEECH GALAXY | J19 | 19,998 | 2007 / JAPAN | 16.0 | UNDISCLOSED |
+| NOBLER | PROD / CHEM | 19,949 | 2002 / JAPAN | 10.0 | UNDISCLOSED |
 
 ## Page 7
 
@@ -176,29 +178,80 @@ The SCFI index rose to 2,572 points, continuing its upward trend as carriers suc
 
 ## Page 10
 
-### Ship Recycling - Current Market Snapshot (USD / LDT)
+# SHIP RECYCLING
 
-| DESTINATION | TANKERS | BULKERS | GENERAL CARGO | CONTAINERS | OUTLOOK / SENTIMENTS |
-| :--- | :---: | :---: | :---: | :---: | :---: |
-| ALANG, INDIA | $420-430 | $410-420 | $400-410 | $450-460 | STABLE / |
-| CHATTOGRAM, BANGLADESH | $470-480 | $460-470 | $430-440 | $500-510 | STABLE / |
-| GADDANI, PAKISTAN | $430-440 | $420-430 | $410-420 | $440-450 | STABLE / |
-| ALIAGA, TURKEY | $300-310 | $290-300 | $270-280 | $310-320 | STABLE / |
+Current Market Snapshot (USD / LDT)
 
-### Demolition - Reported Sales
+| DESTINATION | TANKERS | BULKERS | GEN. CARGO | CONTAINERS | OUTLOOK |
+| --- | --- | --- | --- | --- | --- |
+| ALANG, INDIA | $420–430 | $410–420 | $400–410 | $450–460 | STABLE / |
+| CHATTOGRAM, BANGLADESH | $470–480 | $460–470 | $430–440 | $500–510 | STABLE / |
+| GADDANI, PAKISTAN | $430–440 | $420–430 | $410–420 | $440–450 | STABLE / |
+| ALIAGA, TURKEY* | $300–310 | $290–300 | $270–280 | $310–320 | STABLE / |
 
-| DELIVERY / TERMS |
-| --- |
-| No reported sales this week |
+* Turkey prices for non-EU ships. EU vessels approx. US$20–30/ton less.
+
+All prices are USD per light displacement tonnage (long ton), net prices offered by recycling yards. Premiums apply based on spares quality, non-ferrous content, bunkers, cargo history, and maintenance. Basis simple Japanese/Korean-built tonnages.
+
+• All prices are USD per light displacement tonnage in the long ton.
+
+• The prices reported are net prices offered by the recycling yards.
+
+• Prices quoted are basis simple Japanese / Korean-built tonnages trading units. Premiums are paid on top of the above-quoted prices based on quality & quality of Spares, Non-Fe., bunkers, cargo history, and maintenance.
+
+5-Year Historical Average Prices (Week 22)
+
+| DESTINATION | 2021 | 2022 | 2023 | 2024 | 2025 |
+| --- | --- | --- | --- | --- | --- |
+| ALANG, INDIA | 480 | 630 | 520 | 540 | 460 |
+| CHATTOGRAM, BANGLADESH | 530 | 640 | 550 | 530 | 460 |
+| GADDANI, PAKISTAN | 530 | 650 | 0 | 520 | 460 |
+| ALIAGA, TURKEY | 250 | 330 | 320 | 350 | 280 |
+
+Reported Sales
+
+| VESSEL NAME | TYPE | LDT | YEAR / BUILT | PRICE (US/LDT) | COMMENTS |
+| --- | --- | --- | --- | --- | --- |
+| ON VICTOR | TANKER | 8,320 | 1997 / ITALY | 375 | DELIVERED ALANG |
 
 ## Page 11
 
 ## Page 12
 
+# Market Insights
+
+Alang, India: Alang experienced a quiet yet positive week as a welcome recovery and stabilisation of the Indian Rupee helped firm local steel plate prices to a range of INR 38,500 to INR 39,200 per ton. This currency correction pushed the international valuation upward, bringing some financial relief to domestic breakers even as the impending monsoon season signals a broader, seasonal slowdown in operations. Despite the supportive combination of firmer steel, a tentative peace deal, and a stronger rupee, actual transactional momentum remains limited because these improvements have arrived just as the beaching window prepares to close within the next fortnight.
+
+Recyclers are entering the summer months with steady sentiment but subdued activity, balancing improved buying economics against unavoidable seasonal and logistical constraints.
+
+Alang Anchorage & Beaching — May2026
+
+| VESSEL | TYPE | LDT | ARRIVAL | BEACHING |
+| --- | --- | --- | --- | --- |
+| ON VICTOR | TANKER | 8,320 | 28.05.2026 | 29.05.2026 |
+
+Chattogram, Bangladesh: Chattogram experienced a notably quiet week as the arrival of the Eid al-Adha holidays brought daily commercial operations and fresh transactional activity to a complete standstill. In a striking turn of events, the LC's pipeline entered the festive break in its most permissive and clear posture since the conflict began, eliminating the severe financing constraints that hindered the industry during the first quarter. However, this robust banking liquidity remains temporarily unutilised due to the combined impact of the holiday closures and a severe global shortage of available vessels to finance.
+
+Local breakers are entering the post-holiday period with strong financial capability, but a subdued operational rhythm, waiting for the market to reopen and for new tonnage flows to emerge.
+
+Chattogram Anchorage & Beaching — May 2026
+
+| VESSEL | TYPE | LDT | ARRIVAL | BEACHING |
+| --- | --- | --- | --- | --- |
+| KOKOPO CHIEF | CONTAINER | 5,889 | 26.05.2026 | AWAITING |
+| MAYMEI | CHEMICAL TANKER | 9,728 | 25.05.2026 | AWAITING |
+| K.P.P 01 | TANKER | 1,352 | 17.05.2026 | 25.05.2026 |
+| ORIENTAL DRAGON | GENERAL CARGO | 813 | 18.05.2026 | 23.05.2026 |
+| J YANG | GENERAL CARGO | 4,192 | 18.05.2026 | 22.05.2026 |
+| LE RUBY | BULKER | 8,196 | 16.05.2026 | 21.05.2026 |
+| HAO HUNG 01 | WOODCHIP | 4,997 | 16.05.2026 | 20.05.2026 |
+| HAO HUNG 66 | WOOCHIP | 7,822 | 17.05.2026 | 20.05.2026 |
+| ENERGIA C | BULKER | 19,899 | 14.05.2026 | 18.05.2026 |
+
 ## Page 13
 
 | VESSEL | TYPE | LDT | ARRIVAL | BEACHING |
-|---|---|---|---|---|
+| --- | --- | --- | --- | --- |
 | GODSPEED 6666 | WOODCHIP | 10,348 | 14.05.2026 | 19.05.2026 |
 | GION MARU NO.8 | CEMENT | 484 | 11.05.2026 | 18.05.2026 |
 | FRONTIER | RORO | 4,240 | 11.05.2026 | 18.05.2026 |
@@ -208,16 +261,21 @@ The SCFI index rose to 2,572 points, continuing its upward trend as carriers suc
 | SPRUCE | CONTAINER | 2,216 | 27.04.2026 | 04.05.2026 |
 | BGP PIONEER | SURVEY VESSEL | 3,085 | 01.05.2026 | 06.05.2026 |
 | ACE 1 | BULKER | 5,757 | 02.05.2026 | 07.05.2026 |
-|  |  |  |  |  |
+
+Gaddani, Pakistan: Gadani experienced a mild festive slowdown as Eid al-Adha celebrations temporarily muted trading activities across local facilities. Despite this holiday-induced lull, Pakistani breakers have maintained a resilient pricing edge, offering rates that remain considerably more competitive than neighbouring yards.
+
+Structural capacity in the region continues to expand securely, with three HKC-certified recycling yards remaining fully operational and additional facility certifications actively moving through the regulatory pipeline. Because the available pool of vessel candidates matched to Gadani's processing capacity has not shrunk, the market is well-positioned to see a swift revival in transactional momentum once normal industrial schedules fully resume.
+
+Gaddani Anchorage & Beaching — May 2026
+
 | VESSEL | TYPE | LDT | ARRIVAL | BEACHING |
+| --- | --- | --- | --- | --- |
 | XIONG HAI | 1,659 | TANKER | 05.05.2026 | 07.05.2026 |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
 
 Aliaga, Turkey: Local activity for Turkiye yards remains similar to last. Similar to Bangladesh and Pakistan, it was a quiet one for the country as festivities were observed. Pricewise, the gap remains quite a big one.
 
-TIDE DATES 2026 | Chattogram: 31 May-3 June | 14-17 June
+TIDE DATES 2026 | Chattogram: 31 May–3 June | 14–17 June
+Alang: 28 May–5 June | 12–20 June
 
 ## Page 14
 
@@ -274,9 +332,16 @@ Similarly, iron ore prices have softened toward CNY 780 per ton as rising shipme
 ### Bunker Prices (USD / ton)
 
 | PORT | VLSFO (0.5%) | HSFO (3.5%) | MGO (0.1%) |
-| :--- | :---: | :---: | :---: |
+| --- | --- | --- | --- |
 | SINGAPORE | $784 | $634 | $1,083 |
 | HONG KONG | $852 | $669 | $1,105 |
 | FUJAIRAH | $960 | $665 | $1,496 |
 | ROTTERDAM | $719 | $622 | $1,090 |
 | HOUSTON | $793 | $674 | $1,134 |
+
+# Singapore | London | Dubai
+
+For Privacy Policy
+
+This report is performed to the best of our knowledge based on the market conditions prevailing at the time mentioned. The report relates solely to the date/place referred to, and we emphasise that it is a statement of information collected from various market sources. All details above are from information given to us and such information as we have obtained from relevant references in our possession. Still, we can accept no responsibility, and we bear no liability for any loss or damage incurred to any person acting upon this report. STAR ASIA believes the information to be accurate and given in good faith but without guarantee. STAR ASIA will not be held responsible in any way for any action or failure to act based on the information given in this report. The use of the report cannot be reproduced or used without authorisation from STAR ASIA.
+

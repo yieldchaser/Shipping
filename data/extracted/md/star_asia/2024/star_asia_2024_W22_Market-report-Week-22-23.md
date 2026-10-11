@@ -94,15 +94,35 @@ With the weakness in the VLCC market, the demand for West Africa/Europe routes w
 
 ## Page 6
 
-Aframax:
+# Aframax:
 
 Despite a steady influx of ballasters from Asia to the Middle East due to consistent demand, the Middle East/Singapore route saw an 11-point increase as shortage of available vessels in the Middle East region push rates up. On the other side, rates saw a big jump as North Sea 80,000mt Cross-UKC climb 22 points to WS172.
 
-Clean:
+# Clean:
 
-LR: In the Middle East, LR2 rates for the MEG/Far East route fell by 40 points w-o-w as the influx of Red Sea cargoes that had driven the rates, stagnated. For the LR1s, TC5 slipped slightly to WS244. MR: In the Far East, the region was supported by increased demand in early June as available vessel depleted, leading to a firmer close. In the UKC, MRs saw a dip in rates this week due to lack of activity with TC2 losing 20 points to WS154.
+LR: In the Middle East, LR2 rates for the MEG/Far East route fell by 40 points w-o-w as the influx of Red Sea cargoes that had driven the rates, stagnated. For the LRIs, TC5 slipped slightly to WS244.
+
+MR: In the Far East, the region was supported by increased demand in early June as available vessel depleted, leading to a firmer close. In the UKC, MRs saw a dip in rates this week due to lack of activity with TC2 losing 20 points to WS154.
 
 # Baltic Exchange Tanker Indices
+
+| INDICES | CURRENT | LAST WEEK | LAST YEAR | W-O-W CHANGE | Y-O-Y CHANGE |
+| --- | --- | --- | --- | --- | --- |
+| BDTI | 1,267 | 1,234 | 1,049 | +2.67% | +20.78% |
+| BCTI | 858 | 1,020 | 608 | -15.88% | +41.12% |
+
+# Tankers Values
+
+(Weekly)
+
+| TYPE | DWT | NB CONTRACT | NB PROMPT DELIVERY | 5 YEARS | 10 YEARS | 15 YEARS |
+| --- | --- | --- | --- | --- | --- | --- |
+| VLCC | 310,000 | 130 | 145 | 115 | 85 | 58 |
+| SUEZMAX | 160,000 | 88 | 99 | 83 | 68 | 50 |
+| AFRAMAX | 115,000 | 72 | 85 | 72 | 60 | 44 |
+| LR1 | 73,000 | 60 | 63 | 53 | 43 | 31 |
+| MR | 51,000 | 51 | 53 | 45 | 38 | 27 |
+| *(amount in USD million) | *(amount in USD million) | *(amount in USD million) | *(amount in USD million) | *(amount in USD million) | *(amount in USD million) | *(amount in USD million) |
 
 ## Page 7
 
@@ -129,9 +149,30 @@ LR: In the Middle East, LR2 rates for the MEG/Far East route fell by 40 points w
 
 # Containers
 
-Container shipping rates continue to surge as shippers grow increasingly anxious about cargo rollover risks. The SCFI reached its highest level since August 2022, while Drewry's World Container Index jumped 12% this week, standing 181% higher than the same period last year. The early arrival of the peak season, coupled with Red Sea diversions straining capacity and schedules, has resulted in worsening port congestion, equipment shortages, and elevated freight rates. With capacity scarce and spot rates thousands of dollars above long-term contract levels, annual shipping contracts are becoming unreliable. Freight rates continued their upward climb this week as early peak season surged in volume. Overall, SCFI increased by 5% w-o-w to 3,185 points, marking its highest level since August 2022 and more than triple the rate at the start of December. Similarly, the spot rate on the key Shanghai-North Europe route rose to US$3,949 per TEU, a staggering 4 times higher compared to early December.
+Container shipping rates continue to surge as shippers grow increasingly anxious about cargo rollover risks. The SCFI reached its highest level since August 2022, while Drewry's World Container Index jumped 12% this week, standing 181% higher than the same period last year.
+
+The early arrival of the peak season, coupled with Red Sea diversions straining capacity and schedules, has resulted in worsening port congestion, equipment shortages, and elevated freight rates. With capacity scarce and spot rates thousands of dollars above long-term contract levels, annual shipping contracts are becoming unreliable.
+
+Freight rates continued their upward climb this week as early peak season surged in volume. Overall, SCFI increased by 5% w-o-w to 3,185 points, marking its highest level since August 2022 and more than triple the rate at the start of December. Similarly, the spot rate on the key Shanghai–North Europe route rose to US$3,949 per TEU, a staggering 4 times higher compared to early December.
 
 # Containers S&P Report
+
+| VESSEL NAME | TYPE | TEU | YEAR | BUILT | PRICE (MILLION) USD | COMMENTS / BUYERS |
+| --- | --- | --- | --- | --- | --- | --- |
+| AP MOLLER | POST PMAX | 9,578 | 2000 | DENMARK | UNDISCLOSED | MSC |
+| CORNELIUS MAERSK | POST PMAX | 9,578 | 2000 | DENMARK | UNDISCLOSED | MSC |
+| CAROLINE MAERSK | POST PMAX | 9,578 | 2000 | DENMARK | UNDISCLOSED | MSC |
+| CARSTEN MAERSK | POST PMAX | 9,578 | 2000 | DENMARK | UNDISCLOSED | MSC |
+
+Containers Values
+
+| CONTAINERS (BY TEU) | GEARED / GEARLESS | NB CONTRACT | NB PROMPT DELIVERY | 5 YEARS | 10 YEARS | 15 YEARS |
+| --- | --- | --- | --- | --- | --- | --- |
+| 900 – 1,200 | Geared | 24 | 24 | 17 | 14 | 8 |
+| 1,600 – 1,850 | Geared | 29 | 30 | 22 | 16 | 12 |
+| 2,700 – 2,900 | Gearless | 41 | 40 | 31 | 23 | 17 |
+| 5,100 | Gearless | 78 | 73 | 56 | 29 | 26 |
+| *(amount in USD million) | *(amount in USD million) | *(amount in USD million) | *(amount in USD million) | *(amount in USD million) | *(amount in USD million) | *(amount in USD million) |
 
 ## Page 9
 
@@ -233,34 +274,37 @@ Aliaga, Turkey
 
 ## Page 16
 
-Chattogram, Bangladesh : 5 ~ 8 June | 22 ~25 June Alang, India : 3 ~ 11 June | 19 ~28 June
+# BEACHING TIDE DATES 2024
 
----
+Chattogram, Bangladesh : 5 ~ 8 June | 22 ~25 June
 
-BUNKER PRICES (USD/TON)
+Alang, India : 3 ~ 11 June | 19 ~28 June
 
-PORTS VLSFO (0.5%) HSFO (3.5%) MGO (0.1%)
+#### BUNKER PRICES (USD/TON)
 
+| PORTS | VLSFO (0.5%) | HSFO (3.5%) | MGO (0.1%) |
+| --- | --- | --- | --- |
 | SINGAPORE | 570 | 476 | 712 |
-|---|---|---|---|
 | HONG KONG | 604 | 464 | 732 |
 | FUJAIRAH | 583 | 471 | 837 |
 | ROTTERDAM | 558 | 444 | 715 |
 | HOUSTON | 578 | 434 | 771 |
 
-EXCHANGE RATES
+#### EXCHANGE RATES
 
 | CURRENCY | JUNE 7 | MAY 24 | W-O-W % CHANGE |
-|---|---|---|---|
+| --- | --- | --- | --- |
 | USD / CNY (CHINA) | 7.24 | 7.24 | 0 |
 | USD / BDT (BANGLADESH) | 117.45 | 117.28 | -0.14% |
 | USD / INR (INDIA) | 83.48 | 83.07 | -0.49% |
 | USD / PKR (PAKISTAN) | 278.40 | 278.55 | +0.05% |
 | USD / TRY (TURKEY) | 32.37 | 32.22 | -0.47% |
 
-Sub-Continent and Turkey ferrous scrap markets insight
+# Sub-Continent and Turkey ferrous scrap markets insight
 
-This week, the ferrous scrap market in the Sub-Continent and Turkey displayed mixed trends. In India, market uncertainty prevailed due to political unrest and bid-offer disparities caused by rising freight costs and container shortages, resulting in minimal trading. Conversely, Pakistan and Bangladesh saw slight upticks in offers despite weak market sentiments. Turkish scrap prices remained high as mills continued inquiries ahead of a mid-June Holiday. In India, buyers showed resistance in making firm commitments amidst rising freight costs and container shortages, resulting in market uncertainty. Throughout the week, the Indian imported ferrous market experienced sluggish activity as buyers adopted a wait-and-see approach due to uncertainty from parliamentary elections. This cautious stance led to minimal trading and noticeable bid-offer disparities. Shredded scrap offers from the US and UK/Europe were consistently assessed at US$415-420/ton CFR Nhava Sheva,
+This week, the ferrous scrap market in the Sub-Continent and Turkey displayed mixed trends. In India, market uncertainty prevailed due to political unrest and bid-offer disparities caused by rising freight costs and container shortages, resulting in minimal trading. Conversely, Pakistan and Bangladesh saw slight upticks in offers despite weak market sentiments. Turkish scrap prices remained high as mills continued inquiries ahead of a mid-June Holiday.
+
+In India, buyers showed resistance in making firm commitments amidst rising freight costs and container shortages, resulting in market uncertainty. Throughout the week, the Indian imported ferrous market experienced sluggish activity as buyers adopted a wait-and-see approach due to uncertainty from parliamentary elections. This cautious stance led to minimal trading and noticeable bid-offer disparities. Shredded scrap offers from the US and UK/Europe were consistently assessed at US$415-420/ton CFR Nhava Sheva,
 
 ## Page 17
 

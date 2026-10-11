@@ -107,17 +107,34 @@ This week saw the cross-Med region, Ceyhan/Lavera stuck in typical summer doldru
 
 ## Page 6
 
-Clean:
+# Clean:
 
-**LR: After a dramatic move in a year in the MEG LR2 market, TC1 fell this week to WS168**
+LR: After a dramatic move in a year in the MEG LR2 market, TC1 fell this week to WS168 losing some 40 points as situation eased. In the LR1, UKC routes remain unchanged holding at WS115 for the sixth session in a row.
 
-losing some 40 points as situation eased. In the LR1, UKC routes remain unchanged holding at WS115 for the sixth session in a row.
-
-**MR: Similar situation were seen in the MR MEG markets with levels losing some 100 points**
-
-closing at WS226 on TC17 routes to East Africa.
+MR: Similar situation were seen in the MR MEG markets with levels losing some 100 points closing at WS226 on TC17 routes to East Africa.
 
 # Baltic Exchange Tanker Indices
+
+| INDICES | CURRENT | LAST WEEK | LAST YEAR | W-O-W CHANGE | Y-O-Y CHANGE |
+| --- | --- | --- | --- | --- | --- |
+| BDTI | 1,002 | 1,040 | 1,150 | -3.65% | -12.87% |
+| BCTI | 613 | 711 | 834 | -13.78% | -26.50% |
+
+# Tankers Values
+
+(Weekly)
+
+| TYPE | DWT | NB CONTRACT | NB PROMPT DELIVERY | 5 YEARS | 10 YEARS | 15 YEARS |
+| --- | --- | --- | --- | --- | --- | --- |
+| VLCC | 310,000 | 125 | 144 | 112 (E) | 80 (E) | 51 |
+| SUEZMAX | 160,000 | 87 | 93 | 77 (E) | 62 (E) | 40 |
+| AFRAMAX | 115,000 | 72 | 75 | 63 (E) | 50 (E) | 35 |
+| LR1 | 73,000 | 59 | 60 | 50 (E) | 40 (E) | 25 |
+| MR | 51,000 | 49 | 50 | 41 (E) | 31 (E) | 21 |
+
+Tanker 1 year T/C rates
+
+*(amount in USD million) | (E) – eco units
 
 ## Page 7
 
@@ -298,34 +315,39 @@ The Turkish ship recycling market remained unchanged from the previous week, wit
 
 ## Page 18
 
-Chattogram, Bangladesh : 11 ~ 14 July | 24 ~ 27 July Alang, India : 08 ~ 16 July | 21 ~ 29 July
+# BEACHING TIDE DATES 2025
 
----
+Chattogram, Bangladesh : 11 ~ 14 July | 24 ~ 27 July
 
-BUNKER PRICES (USD/ton)
+Alang, India
 
-PORTS VLSFO (0.5%) HSFO (3.5%) MGO (0.1%)
+: 08 ~ 16 July | 21 ~ 29 July
 
+#### BUNKER PRICES (USD/ton)
+
+| PORTS | VLSFO (0.5%) | HSFO (3.5%) | MGO (0.1%) |
+| --- | --- | --- | --- |
 | SINGAPORE | 517 | 445 | 661 |
-|---|---|---|---|
 | HONG KONG | 530 | 464 | 655 |
 | FUJAIRAH | 509 | 428 | 732 |
 | ROTTERDAM | 480 | 442 | 686 |
 | HOUSTON | 529 | 445 | 712 |
 
-EXCHANGE RATES
+#### EXCHANGE RATES
 
 | CURRENCY | June 27 | June 20 | W-O-W % CHANGE |
-|---|---|---|---|
+| --- | --- | --- | --- |
 | USD / CNY (CHINA) | 7.16 | 7.17 | +0.14% |
 | USD / BDT (BANGLADESH) | 122.40 | 122.35 | -0.04% |
 | USD / INR (INDIA) | 85.48 | 86.60 | +1.29% |
 | USD / PKR (PAKISTAN) | 283.81 | 283.62 | -0.07% |
 | USD / TRY (TURKEY) | 39.87 | 39.66 | -0.53% |
 
-Sub-Continent and Turkey ferrous scrap markets insights
+# Sub-Continent and Turkey ferrous scrap markets insights
 
-Imported scrap markets across the Sub-Continent and Turkey remained largely subdued this week, with prices staying rangebound on a day-to-day basis. Seasonal factors, soft steel demand, and ongoing geopolitical uncertainties continued to dampen buying sentiment across key regions. In India, buyers refrained from making large bookings amid declining rebar prices and the availability of more competitive domestic scrap alternatives. Pakistani mills maintained a cautious approach, influenced by regional tensions in the Middle East and anticipation of upcoming tax revisions. In Bangladesh, post-Eid market activity remained muted, with limited trade despite relatively stable pricing in the bulk segment.
+Imported scrap markets across the Sub-Continent and Turkey remained largely subdued this week, with prices staying rangebound on a day-to-day basis. Seasonal factors, soft steel demand, and ongoing geopolitical uncertainties continued to dampen buying sentiment across key regions.
+
+In India, buyers refrained from making large bookings amid declining rebar prices and the availability of more competitive domestic scrap alternatives. Pakistani mills maintained a cautious approach, influenced by regional tensions in the Middle East and anticipation of upcoming tax revisions. In Bangladesh, post-Eid market activity remained muted, with limited trade despite relatively stable pricing in the bulk segment.
 
 ## Page 19
 

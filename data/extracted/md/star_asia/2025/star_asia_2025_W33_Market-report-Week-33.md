@@ -113,35 +113,28 @@ to a growing oversupply of available vessels, placing downward pressure on rates
 
 ## Baltic Exchange Tanker Indices
 
-| INDICES | CURRENT | LAST WEEK |
-|---|---|---|
-| BDTI | 1,016 | 1,007 |
-| BCTI | 605 | 682 |
+| INDICES | CURRENT | LAST WEEK | LAST YEAR | W-O-W CHANGE | Y-O-Y CHANGE |
+| --- | --- | --- | --- | --- | --- |
+| BDTI | 1,016 | 1,007 | 936 | +0.89% | +8.55% |
+| BCTI | 605 | 682 | 625 | -11.29% | -3.20% |
 
-LAST YEAR W-O-W
+# Tankers Values
 
-CHANGE 936 +0.89% 625 -11.29%
-
-Y-O-Y CHANGE +8.55% -3.20%
-
-Tankers Values
-
-*(Weekly)*
+(Weekly)
 
 | TYPE | DWT | NB CONTRACT | NB PROMPT DELIVERY | 5 YEARS | 10 YEARS | 15 YEARS |
-|---|---|---|---|---|---|---|
+| --- | --- | --- | --- | --- | --- | --- |
 | VLCC | 310,000 | 126 | 147 | 112 (E) | 83(E) | 51 |
 | SUEZMAX | 160,000 | 87 | 94 | 77 (E) | 62 (E) | 40 |
 | AFRAMAX | 115,000 | 75 | 77 | 64 (E) | 50 (E) | 35 |
 | LR1 | 73,000 | 60 | 62 | 51 (E) | 42 (E) | 25 |
 | MR | 51,000 | 49 | 50 | 41 (E) | 30 (E) | 21 |
-
-*\*(amount in USD million) | (E) - eco units*
+| *(amount in USD million) I (E) – eco units | *(amount in USD million) I (E) – eco units | *(amount in USD million) I (E) – eco units | *(amount in USD million) I (E) – eco units | *(amount in USD million) I (E) – eco units | *(amount in USD million) I (E) – eco units | *(amount in USD million) I (E) – eco units |
 
 Tankers S&P Report
 
 | VESSEL NAME | TYPE | DWT | YEAR | BUILT | PRICE (MILLION) USD | COMMENTS / BUYERS |
-|---|---|---|---|---|---|---|
+| --- | --- | --- | --- | --- | --- | --- |
 | HALCYON | VLCC | 299,942 | 2020 | S. KOREA | 119.0 | INTERNATIONAL SEAWAYS INC |
 | NAVE EQUINOX | MR | 50,922 | 2007 | S. KOREA | 14.0 | UNDISCLOSED |
 
@@ -221,11 +214,36 @@ Despite a subdued domestic steel market where local scrap prices have remained s
 
 ## Page 13
 
-Chattogram
+Anchorage & Beaching Position (AUGUST 2025)
 
-Bangladesh saw a weak domestic steel market, compounded by political uncertainty, has stifled demand for scrap and new tonnage. Accordingly, buyers are also showing minimal buying interest, with no sales concluded this week and inquiries limited to larger vessels at opportunistic price levels. While conditions at the yards are gradually improving, this has not been sufficient to overcome the broader market lethargy. The industry now anticipates an extended quiet period, with most expecting a potential recovery in activity only after the elections scheduled for February, subject to a smooth political transition.
+| VESSEL NAME | TYPE | LDT | ARRIVAL | BEACHING |
+| --- | --- | --- | --- | --- |
+| YA HUSSEIN | BULKER | 5,413 | 14.08.2025 | AWAITING |
+| OTARIA | TANKER | 16,885 | 08.08.2025 | AWAITING |
+| CONICO ATLAS | TANKER | 20,001 | 13.06.2025 | AWAITING |
+| NIRVANA | TANKER | 9,623 | 07.05.2025 | AWAITING |
+| SIA 20 | GEN.CARGO | 2,410 | 09.08.2025 | 12.0-8.2025 |
+| R PISCES | BULKER | 19,935 | 05.08.2025 | 09.08.2025 |
+| ANGE | TANKER | 1,974 | 29.07.2025 | 09.08.2025 |
+| AEWO | CHEM. TANKER | 5,245 | 30.07.2025 | 06.08.2025 |
 
-Gadani
+# Chattogram
+
+Bangladesh saw a weak domestic steel market, compounded by political uncertainty, has stifled demand for scrap and new tonnage. Accordingly, buyers are also showing minimal buying interest, with no sales concluded this week and inquiries limited to larger vessels at opportunistic price levels.
+
+While conditions at the yards are gradually improving, this has not been sufficient to overcome the broader market lethargy. The industry now anticipates an extended quiet period, with most expecting a potential recovery in activity only after the elections scheduled for February, subject to a smooth political transition.
+
+Anchorage & Beaching Position (AUGUST 2025)
+
+| VESSEL NAME | TYPE | LDT | ARRIVAL | BEACHING |
+| --- | --- | --- | --- | --- |
+| DALLIAN | BULKER | 21,413 | 13.08.2025 | AWAITING |
+| DK 03 | BULKER | 7,809 | 04.08.2025 | AWAITING |
+| GREAT ROYAL | BULKER | 6,580 | 28.07.2025 | AWAITING |
+| WOND | TANKER | 2,229 | 03.08.2025 | 13.08.2025 |
+| LEONID | TANKER | 13,605 | 28.07.2025 | 09.08.2025 |
+
+# Gadani
 
 Pakistan market remains eager in appetite for new tonnage, with buyers showing interest at the bidding tables. This enthusiasm is paired with a stable pricing environment, although a slight dip in imported scrap prices suggests the market may be poised for a minor adjustment.
 
@@ -233,22 +251,31 @@ Pakistan market remains eager in appetite for new tonnage, with buyers showing i
 
 While their demand for ships is robust, there is a clear acknowledgement among Gadani recyclers that significant investment in yard and infrastructure upgrades is necessary to meet international standards and improve their competitiveness.
 
-| Aliaga, | Turkey |
-|---|---|
-| The Turkish ship recycling market saw another Key market indicators, including local pricing unchanged from the previous. | week of similar muted activity. and overall sentiment, have remained |
+Anchorage & Beaching Position (AUGUST 2025)
 
----
+| VESSEL NAME | TYPE | LDT | ARRIVAL | BEACHING |
+| --- | --- | --- | --- | --- |
+| HUN | WOODCHIP | 8,915 | 09.08.2025 | 12.08.2025 |
+| BEST 8 | GENERAL CARGO | 2,571 | 30.07.2025 | 09.08.2025 |
+| ELIAN | BULKER | 8,118 | 31.07.2025 | 07.08.2025 |
 
-Chattogram, Bangladesh : 22 ~ 25 August | 7 ~ 10 September Alang, India : 20 ~ 27 August | 5 ~ 14 September
+# Aliaga, Turkey
 
----
+The Turkish ship recycling market saw another week of similar muted activity.
 
-BUNKER PRICES (USD/ton)
+Key market indicators, including local pricing and overall sentiment, have remained unchanged from the previous.
 
-PORTS VLSFO (0.5%) HSFO (3.5%) MGO (0.1%)
+# BEACHING TIDE DATES 2025
 
+Chattogram, Bangladesh : 22 ~ 25 August | 7 ~ 10 September
+
+Alang, India : 20 ~ 27 August | 5 ~ 14 September
+
+#### BUNKER PRICES (USD/ton)
+
+| PORTS | VLSFO (0.5%) | HSFO (3.5%) | MGO (0.1%) |
+| --- | --- | --- | --- |
 | SINGAPORE | 512 | 417 | 668 |
-|---|---|---|---|
 | HONG KONG | 522 | 439 | 646 |
 | FUJAIRAH | 497 | 401 | 725 |
 | ROTTERDAM | 482 | 422 | 671 |
@@ -256,13 +283,27 @@ PORTS VLSFO (0.5%) HSFO (3.5%) MGO (0.1%)
 
 ## Page 15
 
-Sub-Continent and Turkey ferrous scrap markets insights
+#### EXCHANGE RATES
 
-Scrap trading across Sub-Continent markets remained muted this week, with limited buying in India, Pakistan, and Bangladesh as weak steel demand, seasonal monsoon disruptions, and selective mill activity kept sentiment subdued. Turkish deep-sea scrap markets also held steady, with participants awaiting clearer price direction and cues from the Central Bank. In India, the Imported scrap activity slowed, with selective buying across major origins. Africa-origin HMS 80:20 changed hands at US$345/ton CFR Mundra, with ICD loading expected to add US$8-10/ton. Domestic scrap and sponge prices continued to weigh on imports, with Malaysian HMS bales assessed at US$330/ton CFR Chennai. Australian offers held steady, with shredded at US$360-365/ton CFR and HMS 80:20 at US$335- 340/ton CFR. In Pakistan, the market remained quiet, with roughly half of importers inactive. Offers held near US$380/ton CFR Qasim, reflecting cautious sentiment and minimal bulk booking appetite. In Bangladesh, monsoon rains and lackluster steel demand kept buyers sidelined. Offers ranged from US$350/ton CFR for HMS 90:10 to US$365/ton CFR for shredded, while HMS 80:20 from Australia/New Zealand was seen at US$342/ton CFR.
+| CURRENCY | August 15 | August 8 | W-O-W % CHANGE |
+| --- | --- | --- | --- |
+| USD / CNY (CHINA) | 7.18 | 7.18 | 0 |
+| USD / BDT (BANGLADESH) | 121.48 | 121.41 | -0.06% |
+| USD / INR (INDIA) | 87.51 | 87.60 | +0.10% |
+| USD / PKR (PAKISTAN) | 283.41 | 283.43 | +0.01% |
+| USD / TRY (TURKEY) | 40.83 | 40.68 | -0.37% |
 
-**Turkey's deep-sea scrap prices were unchanged, with US/Baltic-origin HMS 80:20 at**
+# Sub-Continent and Turkey ferrous scrap markets insights
 
-US$345-350/ton CFR and EU-origin at US$340/ton CFR. Weaker rebar fundamentals and stagnant finished product prices have kept the market steady for weeks, with traders awaiting September's Central Bank MPC meeting for direction.
+Scrap trading across Sub-Continent markets remained muted this week, with limited buying in India, Pakistan, and Bangladesh as weak steel demand, seasonal monsoon disruptions, and selective mill activity kept sentiment subdued. Turkish deep-sea scrap markets also held steady, with participants awaiting clearer price direction and cues from the Central Bank.
+
+In India, the Imported scrap activity slowed, with selective buying across major origins. Africa-origin HMS 80:20 changed hands at US$345/ton CFR Mundra, with ICD loading expected to add US$8–10/ton. Domestic scrap and sponge prices continued to weigh on imports, with Malaysian HMS bales assessed at US$330/ton CFR Chennai. Australian offers held steady, with shredded at US$360–365/ton CFR and HMS 80:20 at US$335–340/ton CFR.
+
+In Pakistan, the market remained quiet, with roughly half of importers inactive. Offers held near US\$380/ton CFR Qasim, reflecting cautious sentiment and minimal bulk booking appetite.
+
+In Bangladesh, monsoon rains and lackluster steel demand kept buyers sidelined. Offers ranged from US$350/ton CFR for HMS 90:10 to US$365/ton CFR for shredded, while HMS 80:20 from Australia/New Zealand was seen at US$342/ton CFR.
+
+Turkey's deep-sea scrap prices were unchanged, with US/Baltic-origin HMS 80:20 at US$345–350/ton CFR and EU-origin at US$340/ton CFR. Weaker rebar fundamentals and stagnant finished product prices have kept the market steady for weeks, with traders awaiting September's Central Bank MPC meeting for direction.
 
 ## Page 16
 

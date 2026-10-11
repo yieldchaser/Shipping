@@ -416,7 +416,7 @@ The shipbuilding activity has bounced back last week, with LNG sector leading th
 # Demolition Market
 ## Indicative Demolition Prices ($/ldt)
 
-| Markets | Markets | 20/05/2022 | 13/05/2022 | ±% | 2021 | 2020 |
+| Markets | 20/05/2022 | 13/05/2022 | ±% | 2021 | 2020 | 2019 |
 | --- | --- | --- | --- | --- | --- | --- |
 | Tanker |  |  |  |  |  |  |
 | Bangladesh | 635 | 640 | -0.8% | 542 | 348 | 410 |

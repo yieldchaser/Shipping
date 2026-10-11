@@ -38,13 +38,37 @@ Although initially supported by the Pacific region at the beginning of the week,
 
 ## Page 3
 
-contributed to a decrease in demand for export vessels. Levels across all routes witnessed a decline at closing. Pacific - India fell to US$ 8,700 a day and Inni r/v went down to lows of US$ 7,900's region.
+contributed to a decrease in demand for export vessels. Levels across all routes witnessed a decline at closing. Pacific – India fell to US$ 8,700 a day and Inni r/v went down to lows of US$ 7,900's region.
 
-Handysize:
+# Handysize:
 
 In the Atlantic, the influx of USG cargo continues to rise, leading to a positive trend. T/A levels were still lower than the previous but remain around US$ 10,000's a day region. However, on the other side, ship demand remains weak, resulting in a relatively stable but weak market. The Pacific region also faces challenges, with subdued demand in Northeast Asia and oversupply in Southeast Asia, leading to a persistent decline as sufficient cargo influx is not accompanied. Inter Pacific clock in around US$ 6,800 a day.
 
-## Dry Bulk - S&P Report
+# Dry Bulk – S&P Report
+
+| VESSEL NAME | TYPE | DWT | YEAR | BUILT | PRICE (MILLION) USD | COMMENTS / BUYERS |
+| --- | --- | --- | --- | --- | --- | --- |
+| SATORI | CAPE | 177,456 | 2007 | JAPAN | 18.5 | DENSAY |
+| BRENDA | KMAX | 81,005 | 2014 | JAPAN | 27.5 | GREAT EASTERN |
+| GOLDEN BULL | PMAX | 75,000 | 2012 | INDIA | 16.0 | UNDISCLOSED |
+| MARLIN V | UMAX | 61,444 | 2013 | JAPAN | 21.0 | ALPHA OMEGA SHIPPING |
+| OCEAN GRACE | SMAX | 56,029 | 2005 | JAPAN | 11.0 | INDONESIAN BUYERS |
+| DARYA JAMUNA | HANDY | 36,845 | 2012 | S. KOREA | 16.0 | GREEK BUYERS |
+| ST. GREGORY | HANDY | 32,688 | 2010 | CHINA | 10.4 | GREEK BUYERS |
+| MIGHTY MAUD | HANDY | 32,576 | 2007 | JAPAN | 9.0 | UNDISCLOSED |
+
+# Dry Bulk Values
+
+(Weekly)
+
+| TYPE | DWT | NB CONTRACT | NB PROMPT DELIVERY | 5 YEARS | 10 YEARS | 15 YEARS |
+| --- | --- | --- | --- | --- | --- | --- |
+| CAPE | 180,000 | 64 | 64 | 48 | 30 | 14 |
+| KAMSARMAX | 82,000 | 35 | 37 | 32 | 23 | 8 |
+| SUPRAMAX | 56,000 | 33 | 36 | 29 | 20 | 7 |
+| HANDY | 38,000 | 30 | 32 | 25 | 17 | 6 |
+
+* (amount in USD million)
 
 ## Page 4
 
@@ -88,11 +112,43 @@ In the MEG/Singapore route, rates rose by 3.5% due to the ongoing shortage of sh
 
 ## Page 6
 
-Clean:
+# Clean:
 
-MR: The MR market strengthened this week in the UKC-USAC route, reaching WS200, and the expectation is for rates to continue rising due to a tight position list. In the USG, MRs have had a relatively uneventful week, maintaining a stable position in the open market, which has prevented a significant drop. TC14 remain at WS112 level. L.R.: In the LR1 market, limited tonnage availability resulted in a slow week, causing rates on the UKC-WAF route to decline to WS175, with the potential for further decreases next week. In the MEG, LR1 saw rates fall although the decline was not as pronounced as LR2 segment. TC5 slipped to WS167. Meanwhile, for LR2 in the TC1, levels fell to WS146
+MR: The MR market strengthened this week in the UKC-USAC route, reaching WS200, and the expectation is for rates to continue rising due to a tight position list. In the USG, MRs have had a relatively uneventful week, maintaining a stable position in the open market, which has prevented a significant drop. TC14 remain at WS112 level.
+
+L.R.: In the LR1 market, limited tonnage availability resulted in a slow week, causing rates on the UKC-WAF route to decline to WS175, with the potential for further decreases next week. In the MEG, LR1 saw rates fall although the decline was not as pronounced as LR2 segment. TC5 slipped to WS167. Meanwhile, for LR2 in the TC1, levels fell to WS146
 
 ## Tankers S&P Report
+
+| VESSEL NAME | TYPE | DWT | YEAR | BUILT | PRICE (MILLION) USD | COMMENTS / BUYERS |
+| --- | --- | --- | --- | --- | --- | --- |
+| JIU YUE | VLCC | 305,749 | 2007 | S. KOREA | 48.5 | UNDISCLOSED |
+| HIBERNIAN TIDE | LR2 | 109,896 | 2019 | CHINA | 65.5 | MINERVA MARITIME |
+| MR EUPHRATES | MR | 50,304 | 2008 | CHINA | 20.8 | IMS |
+| VANDA | MR | 48,056 | 2009 | JAPAN | 23.5 | INDIAN BUYERS |
+| CHEM LYRA | PROD / CHEM | 17,055 | 2009 | CHINA | 14.6 | SEACON |
+| DOLPHIN 03 / DOLPHIN 02 | PROD / CHEM | 13,080 | 2007 | S. KOREA | 18.0 EN BLOC | UNDISCLOSED |
+
+# Baltic Exchange Tanker Indices
+
+| INDICES | CURRENT | LAST WEEK | LAST YEAR | W-O-W CHANGE | Y-O-Y CHANGE |
+| --- | --- | --- | --- | --- | --- |
+| BDTI | 1,462 | 1,372 | 1,836 | +6.56% | -20.37% |
+| BCTI | 768 | 794 | 1,199 | -3.27% | -35.95% |
+
+# Tankers Values
+
+*(Weekly)*
+
+| TYPE | DWT | NB CONTRACT | NB PROMPT DELIVERY | 5 YEARS | 10 YEARS | 15 YEARS |
+| --- | --- | --- | --- | --- | --- | --- |
+| VLCC | 310,000 | 128 | 125 | 98 | 74 | 48 |
+| 0SUEZMAX | 160,000 | 85 | 95 | 78 | 61 | 34 |
+| AFRAMAX | 115,000 | 68 | 83 | 70 | 57 | 28 |
+| PANAMAX-LR1 | 73,000 | 57 | 60 | 51 | 38 | 21 |
+| MR TANKER | 51,000 | 47 | 51 | 43 | 33 | 19 |
+
+* (amount in USD million)
 
 ## Page 7
 
@@ -202,31 +258,52 @@ Market sentiments have remained stagnant over the past few weeks, primarily due 
 
 In the context of these challenges, the move to devalue the Taka and incentivise formal remittance channels aims to address the country's foreign exchange difficulties.
 
-Aliaga, Turkey
+# Anchorage & Beaching Position (November 2023)
 
-This week, Turkish mills maintained their domestic scrap buying prices despite the devaluation of the lira against the US dollar and the increased prices of imported scrap. Imported scrap prices remain robust, with suppliers aiming for higher levels Mills, facing challenges in selling steel amid rising prices, find US$360/t cfr for scrap unaffordable, particularly when unable to sell rebar at US$560/t. Market participants believe that scrap prices are unlikely to reach US$370/t cfr due to resistance from buyers in sluggish steel markets. Turkish shipbreaking scrap prices stand at US$350-357/t delivered. The lira was at 28.41 per dollar at business close.
+| VESSEL NAME | TYPE | LDT | ARRIVAL | BEACHING |
+| --- | --- | --- | --- | --- |
+| VENTURA | TANKER | 16,810 | 27.10.2023 | 03.11.2023 |
+
+# Gadani, Pakistan
+
+This week marked a notable upturn in domestic ship scrap prices, coupled with a stabilisation in currency values — two pivotal factors that previously exerted adverse effects on price determination.
+
+Consequently, recyclers have gained confidence in the market's stability and have resumed their efforts to assess ships at prevailing prices, which closely align with the rates offered by neighbouring competitors. In essence, the prices determined by recyclers are now aligning with the levels currently observed in Alang and Bangladesh.
+
+# Anchorage & Beaching Position (November 2023)
+
+| VESSEL NAME | TYPE | LDT | ARRIVAL | BEACHING |
+| --- | --- | --- | --- | --- |
+| - | - | - | - | - |
+
+# Aliaga, Turkey
+
+This week, Turkish mills maintained their domestic scrap buying prices despite the devaluation of the lira against the US dollar and the increased prices of imported scrap. Imported scrap prices remain robust, with suppliers aiming for higher levels
+
+Mills, facing challenges in selling steel amid rising prices, find US$360/t cfr for scrap unaffordable, particularly when unable to sell rebar at US$560/t. Market participants believe that scrap prices are unlikely to reach US$370/t cfr due to resistance from buyers in sluggish steel markets. Turkish shipbreaking scrap prices stand at US$350-357/t delivered. The lira was at 28.41 per dollar at business close.
 
 ## Page 15
 
-Chattogram, Bangladesh : 12 ~ 15 November | 25 ~ 28 November Alang, India : 12 ~ 19 November | 25 November ~ 2 December
+# BEACHING TIDE DATES 2023
 
----
+Chattogram, Bangladesh : 12 ~ 15 November | 25 ~ 28 November
 
-BUNKER PRICES (USD/TON)
+Alang, India : 12 ~ 19 November | 25 November ~ 2 December
 
-PORTS VLSFO (0.5%) IFO380 CST MGO (0.1%)
+#### BUNKER PRICES (USD/TON)
 
+| PORTS | VLSFO (0.5%) | IFO380 CST | MGO (0.1%) |
+| --- | --- | --- | --- |
 | SINGAPORE | 667 | 481 | 868 |
-|---|---|---|---|
 | HONG KONG | 666 | 495 | 851 |
 | FUJAIRAH | 658 | 474 | 958 |
 | ROTTERDAM | 609 | 521 | 868 |
 | HOUSTON | 615 | 501 | 910 |
 
-EXCHANGE RATES
+#### EXCHANGE RATES
 
 | CURRENCY | 3rd NOVEMBER | 27th OCTOBER | W-O-W % CHANGE |
-|---|---|---|---|
+| --- | --- | --- | --- |
 | USD / CNY (CHINA) | 7.30 | 7.31 | +0.14% |
 | USD / BDT (BANGLADESH) | 110.71 | 110.14 | -0.52% |
 | USD / INR (INDIA) | 83.21 | 83.22 | +0.01% |

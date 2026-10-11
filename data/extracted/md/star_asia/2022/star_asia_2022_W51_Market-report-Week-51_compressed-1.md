@@ -93,6 +93,17 @@ of vessels, but overall, there was a lack of activity in the region. Inter-Pacif
 
 ## Page 4
 
+#### BULKER 12 MONTHS T/C RATES AVERAGE (IN USD/DAY)
+
+|  | DWT | CURRENT | LAST WEEK | LAST YEAR | W-O-W CHANGE % | Y-O-Y CHANGE % |
+| --- | --- | --- | --- | --- | --- | --- |
+| CAPE | 180,000 | 17,000 | 15,250 | 25,000 | +11.48 | -32.00 |
+| PANAMAX | 75,000 | 14,150 | 14,500 | 21,850 | -2.41 | -35.24 |
+| SUPRAMAX | 52,000 | 13,350 | 13,500 | 24,000 | -1.11 | -44.38 |
+| HANDYSIZE | 32,000 | 10,250 | 10,250 | 23,500 | 0 | -56.38 |
+
+# Dry Bulk 1 year T/C rates
+
 ## Page 5
 
 # Tankers
@@ -141,39 +152,64 @@ The Nsea Aframax market has slowed with the increased activity from bigger sizes
 
 ## Page 6
 
-### Clean:
+<strong>Clean:</strong>
 
 Despite the significant increase in activity in the UKC's M.R. market, rates remained under pressure. This week, the market activity was dominated mostly by the LR1s, which had some bustling due to pending cargo. On the other hand, the LR2s market remained relatively stable.
 
-# Tankers S&P Report
+# Tankers S&amp;P Report
+
+| VESSEL NAME | TYPE | DWT | YEAR | BUILT | PRICE (MILLION) USD | COMMENTS / BUYERS |
+| --- | --- | --- | --- | --- | --- | --- |
+| HOUSTON STAR | AFRA | 116,093 | 2007 | JAPAN | 39.5 | GARDSEA |
+| SAINT GEORGE | AFRA | 109,390 | 2002 | CHINA | 23.5 | UNDISCLOSED |
+| MINOANSEA | AFRA | 108,817 | 2008 | CHINA | 39.0 | GARDSEA |
+| SEALOYALTY | AFRA | 106,468 | 2005 | JAPAN | 32.0 | UNDISCLOSED |
+| CAPE BRADLEY / CAPE BACTON | MR | 40,345 | 2004 | S. KOREA | 16.0 EACH | UNDISCLOSED |
+| SILENT / SINGLE | MR | 37,847 | 2007 | S. KOREA | N/A | UNDISCLOSED |
+| CAPE GAVI | MR | 37,606 | 2008 | S. KOREA | 17.3 | GREEK BUYERS |
+| BOCHEM CHENNAI | PROD / CHEM | 19,801 | 2012 | JAPAN | 23.8 | UNDISCLOSED |
+| YC DAHLIA | PROD / CHEM | 10,977 | 2010 | S. KOREA | 11.2 | THAI BUYERS |
+
+# Tankers Values
+
+(Weekly)
+
+| TANKERS | DWT | NB CONTRACT | NB PROMPT DELIVERY | 5 YEARS | 10 YEARS | 20 YEARS |
+| --- | --- | --- | --- | --- | --- | --- |
+| VLCC | 310,000 | 120 | 122 | 92 | 70 | 50 |
+| SUEZMAX | 160,000 | 80 | 83 | 63 | 47 | 24 |
+| AFRAMAX | 115,000 | 62 | 73 | 58 | 43 | 24 |
+| PANAMAX-LR1 | 73,000 | 54 | 27 | 45 | 34 | 16 |
+| MR TANKER | 51,000 | 43 | 47 | 40 | 30 | 16 |
+
+*(amount in USD million)
 
 ## Page 7
 
 # Baltic Exchange Tanker Indices
 
-| TYPE | TANKER 12 MONTHS T/C RATES AVERAGE (IN USD/DAY) DWT | TANKER 12 MONTHS T/C RATES AVERAGE (IN USD/DAY) CURRENT | TANKER 12 MONTHS T/C RATES AVERAGE (IN USD/DAY) LAST WEEK | TANKER 12 MONTHS T/C RATES AVERAGE (IN USD/DAY) LAST YEAR | TANKER 12 MONTHS T/C RATES AVERAGE (IN USD/DAY) W-O-W CHANGE | Y-O-Y CHANGE |
-|---|---|---|---|---|---|---|
+#### BALTIC EXCHANGE TANKER INDICES
+
+|  | CURRENT | LAST WEEK | LAST YEAR | W-O-W CHANGE % | Y-O-Y CHANGE % |
+| --- | --- | --- | --- | --- | --- |
+| BDTI | 1,887 | 2,078 | 786 | -9.19 | +140.08 |
+| BCTI | 2,143 | 2,051 | 788 | +4.49 | +171.95 |
+
+#### TANKER 12 MONTHS T/C RATES AVERAGE (IN USD/DAY)
+
+| TYPE | DWT | CURRENT | LAST WEEK | LAST YEAR | W-O-W CHANGE | Y-O-Y CHANGE |
+| --- | --- | --- | --- | --- | --- | --- |
 | VLCC | 300,000 | 41,500 | 42,000 | 18,500 | -1.19 | +124.32 |
 | SUEZMAX | 150,000 | 44,500 | 45,000 | 18,500 | -1.11 | +140.54 |
 | AFRAMAX | 110,000 | 43,500 | 43,500 | 16,500 | 0 | +163.64 |
 | LR1 | 74,000 | 42,500 | 42,500 | 14,000 | 0 | +203.57 |
 | MR | 47,000 | 30,250 | 30,250 | 13,000 | 0 | +132.69 |
 
+Tanker 1 year T/C rates
+
 # Containers
 
-During the past week, there were only a few fixtures made in the feeder segment due to a
-
-lack of available tonnage. Overall, the New Year does not look chirpy for the sector, with
-
-signs pointing to a further decline. It is projected that container freight rates will decrease by
-
-20-30% for the first half of 2023. The decline is likely to be driven by a slowdown in trade
-
-growth due to high inflation rates, changes in consumer patterns, and pressure on the supply
-
-side, including increased investment in new vessels. Additionally, the easing of COVID-19
-
-restrictions may lead to reduced congestion, which could also contribute to the fall in rates.
+During the past week, there were only a few fixtures made in the feeder segment due to a lack of available tonnage. Overall, the New Year does not look chirpy for the sector, with signs pointing to a further decline. It is projected that container freight rates will decrease by 20-30% for the first half of 2023. The decline is likely to be driven by a slowdown in trade growth due to high inflation rates, changes in consumer patterns, and pressure on the supply side, including increased investment in new vessels. Additionally, the easing of COVID-19 restrictions may lead to reduced congestion, which could also contribute to the fall in rates.
 
 ## Page 8
 
@@ -237,27 +273,17 @@ restrictions may lead to reduced congestion, which could also contribute to the 
 
 ## Page 10
 
-# Ships Sold
+# Ships Sold for Recycling
 
-# Recycling Ships
+| VESSEL NAME | LDT / MT | YEAR / BUILT | TYPE | PRICE (US$/LDT) | COMMENTS |
+| --- | --- | --- | --- | --- | --- |
+| CHANG FA HAI | 10,166 | 1989 / CROATIA | BULKER | 500 | DELIVERED CHITTAGONG |
+| JAMILA | 7,765 | 1995 / JAPAN | BULKER | 511 | DELIVERED GADDANI |
+| AKINADA BRIDGE | 24,294 | 2001 / S.KOREA | CONTAINER | 596 | DELIVERED GADDANI / HIGH SPECS |
+| CAPE OSPREY | 20,612 | 1999 / JAPAN | BULKER | 530 | DELIVERED ALANG / HKC RECYCLING |
+| JIN HANG ZHENG LIAN | 9,534 | 1989 / JAPAN | BULKER | 535 | DELIVERED GADDANI |
 
-# for Recycling
-
-BULKER BULKER
-
-BULKER BULKER
-
-# Price
-
-### PRICE (US$/LDT)
-
-500 511 596 530 535
-
-### COMMENTS
-
-DELIVERED CHITTAGONG DELIVERED GADDANI DELIVERED GADDANI / HIGH SPECS DELIVERED ALANG / HKC RECYCLING DELIVERED GADDANI
-
-# Trend
+# Recycling Ships Price Trend
 
 ## Page 11
 
@@ -273,25 +299,38 @@ In recent weeks, the prices have stabilised, restoring the recycling community's
 
 ### Anchorage & Beaching Position (December 2022)
 
-### VESSEL NAME
-
-BERGE APO ETHAN T-20 T-19 FLOATING DOCK V UNTER LOBSTER MARSHAL NOVIKOV DORA
-
-| TYPE | LDT | ARRIVAL | BEACHING |
-|---|---|---|---|
-| BULKER | 20,668 | 20.12.2022 | 24.12.2022 |
-| CONTAINER | 5,104 | 19.12.2022 | 23.12.2022 |
-| TENDER RIG | 9,408 | 19.12.2022 | 21.12.2022 |
-| TENDER RIG | 7,636 | 11.12.2022 | 13.12.2022 |
-| FLOATING DOCK | 9,176 | 11.12.2022 | 13.12.2022 |
-| FISHING TRAWLER | 3,918 | 10.12.2022 | 15.12.2022 |
-| FISHING TRAWLER | 3,136 | 09.12.2022 | 14.12.2022 |
-| FISHING TRAWLER | 3,971 | 06.12.2022 | 14.12.2022 |
-| TANKER | 12,615 | 05.12.2022 | 08.12.2022 |
+| VESSEL NAME | TYPE | LDT | ARRIVAL | BEACHING |
+| --- | --- | --- | --- | --- |
+| BERGE APO | BULKER | 20,668 | 20.12.2022 | 24.12.2022 |
+| ETHAN | CONTAINER | 5,104 | 19.12.2022 | 23.12.2022 |
+| T-20 | TENDER RIG | 9,408 | 19.12.2022 | 21.12.2022 |
+| T-19 | TENDER RIG | 7,636 | 11.12.2022 | 13.12.2022 |
+| FLOATING DOCK V | FLOATING DOCK | 9,176 | 11.12.2022 | 13.12.2022 |
+| UNTER | FISHING TRAWLER | 3,918 | 10.12.2022 | 15.12.2022 |
+| LOBSTER | FISHING TRAWLER | 3,136 | 09.12.2022 | 14.12.2022 |
+| MARSHAL NOVIKOV | FISHING TRAWLER | 3,971 | 06.12.2022 | 14.12.2022 |
+| DORA | TANKER | 12,615 | 05.12.2022 | 08.12.2022 |
 
 ### CHATTOGRAM, BANGLADESH
 
-Finally, after a turbulent last quarter of 2022 with ongoing Letters of credit issues, lately, several ships have started to make their way to the Chittagong yards, with some influential ship recyclers able to get the Letters of Credit, a positive sign. Still, a vast majority of the cash buyers are unwilling to take any risk by selling to Chittagong recyclers. Domestic prices have made a quick turnaround due to the scarcity of feedstock for the mills. If we look back at the prices at the beginning of 2022 and the price now they are at similar levels at approximately US$675/ton with the only difference in the BDT during that time was BDT 85~86 to a U.S.dollar and now is BDT 104 ~ 105 to a U.S. dollar. Domestic demand for steel remains sluggish in light of the ongoing liquidity crisis as no fresh infrastructure development projects are undertaken, and the Government is still battling to revive the struggling economy.
+Finally, after a turbulent last quarter of 2022 with ongoing Letters of credit issues, lately, several ships have started to make their way to the Chittagong yards, with some influential ship recyclers able to get the Letters of Credit, a positive sign. Still, a vast majority of the cash buyers are unwilling to take any risk by selling to Chittagong recyclers.
+
+Domestic prices have made a quick turnaround due to the scarcity of feedstock for the mills. If we look back at the prices at the beginning of 2022 and the price now they are at similar levels at approximately US$675/ton with the only difference in the BDT during that time was BDT 85~86 to a U.S.dollar and now is BDT 104 ~ 105 to a U.S. dollar.
+
+Domestic demand for steel remains sluggish in light of the ongoing liquidity crisis as no fresh infrastructure development projects are undertaken, and the Government is still battling to revive the struggling economy.
+
+### Anchorage & Beaching Position (December 2022)
+
+| VESSEL NAME | TYPE | LDT | ARRIVAL | BEACHING |
+| --- | --- | --- | --- | --- |
+| BELL | BULKER | 7,995 | 18.12.2022 | AWAITING |
+| AN PING 8 | BULKER | 9,804 | 19.12.2022 | 23.12.2022 |
+| MEIZHOU 1 | BULKER | 9,453 | 17.12.2022 | 22.12.2022 |
+| FUNING 2 | BULKER | 5,002 | 10.12.2022 | AWAITING |
+| PK 27 | LPG | 1,103 | 14.12.2022 | 21.12.2022 |
+| BOSFOR | TANKER | 779 | 07.12.2022 | 20.12.2022 |
+| SHUN FU | BULKER | 10,672 | 03.12.2022 | 09.12.2022 |
+| HAI FENG 698 | REEFER | 7,240 | 26.11.2022 | AWAITING |
 
 ## Page 13
 
@@ -311,15 +350,35 @@ The tight supply of scrap, which is expected to become even tighter during the h
 
 ## Page 14
 
-### Bunker Prices (USD / ton)
+#### BEACHING TIDE DATES 2022
 
-| PORT | VLSFO (0.5%) | HSFO (3.5%) | MGO (0.1%) |
-| :--- | :---: | :---: | :---: |
+Chattogram, Bangladesh : 23rd Dec. ~ 26th Dec. | 7th Jan ~ 10th Jan
+
+Alang, India : 21st Dec. ~ 29th Dec. | 4th Jan ~ 11th Jan
+
+# Bunker Prices
+
+#### BUNKER PRICES (USD/TON)
+
+| PORTS | VLSFO (0.5%) | IFO380 CST | MGO (0.1%) |
+| --- | --- | --- | --- |
 | SINGAPORE | 614 | 399 | 916 |
 | HONG KONG | 611 | 432 | 909 |
 | FUJAIRAH | 619 | 390 | 1153 |
 | ROTTERDAM | 534 | 456 | 869 |
 | HOUSTON | 542 | 405 | 910 |
+
+# Exchange Rates
+
+#### EXCHANGE RATES
+
+|  | 23rd DECEMBER | 16th DECEMBER | W-O-W % CHANGE |
+| --- | --- | --- | --- |
+| USD / CNY (CHINA) | 6.98 | 6.97 | -0.14% |
+| USD / BDT (BANGLADESH) | 106.36 | 103.18 | -3.08% |
+| USD / INR (INDIA) | 82.82 | 82.68 | -0.17% |
+| USD / PKR (PAKISTAN) | 226.38 | 224.95 | -0.64% |
+| USD / TRY (TURKEY) | 18.68 | 18.64 | -0.21% |
 
 ## Page 15
 

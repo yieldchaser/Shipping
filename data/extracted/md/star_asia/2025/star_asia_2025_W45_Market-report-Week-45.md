@@ -228,30 +228,40 @@ A vast majority of recyclers have recently acquired several ships, and the proce
 
 have demonstrated compliance with HKC standards are expected to receive their certifications soon.
 
-Aliaga, Turkey
+Anchorage & Beaching Position (November 2025)
 
-The Turkish ship recycling market remain static from the last few weeks with no indication of movement in either direction. Market remains subdued with no new sale to report this week.
+| VESSEL NAME | TYPE | LDT | ARRIVAL | BEACHING |
+| --- | --- | --- | --- | --- |
+| - | - | - | - | - |
 
----
+# Aliaga, Turkey
 
-Chattogram, Bangladesh : 4 ~ 7 November | 18 ~ 21 November Alang, India : 4 ~ 11 November | 18 ~ 25 November
+The Turkish ship recycling market remain static from the last few weeks with no indication of movement in either direction.
 
----
+Market remains subdued with no new sale to report this week.
 
-BUNKER PRICES (USD/ton)
+# BEACHING TIDE DATES 2025
+
+Chattogram, Bangladesh : 4 ~ 7 November | 18 ~ 21 November
+
+Alang, India
+
+: 4 ~ 11 November | 18 ~ 25 November
+
+#### BUNKER PRICES (USD/ton)
 
 | PORTS | VLSFO (0.5%) | HSFO (3.5%) | MGO (0.1%) |
-|---|---|---|---|
+| --- | --- | --- | --- |
 | SINGAPORE | 466 | 385 | 733 |
 | HONG KONG | 475 | 408 | 703 |
 | FUJAIRAH | 459 | 357 | 741 |
 | ROTTERDAM | 432 | 402 | 707 |
 | HOUSTON | 452 | 418 | 693 |
 
-EXCHANGE RATES
+#### EXCHANGE RATES
 
 | CURRENCY | November 7 | October 31 | W-O-W % CHANGE |
-|---|---|---|---|
+| --- | --- | --- | --- |
 | USD / CNY (CHINA) | 7.10 | 7.11 | +0.14% |
 | USD / BDT (BANGLADESH) | 122.0 | 122.38 | +0.31% |
 | USD / INR (INDIA) | 88.67 | 88.81 | +0.16% |

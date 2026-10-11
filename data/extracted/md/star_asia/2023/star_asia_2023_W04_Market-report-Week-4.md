@@ -132,31 +132,35 @@ LR2 saw a lack of activity this week. TC15 route saw discounts, with TC16 hoveri
 (Weekly)
 
 | TANKERS | DWT | NB CONTRACT | NB PROMPT DELIVERY | 5 YEARS | 10 YEARS | 20 YEARS |
-|---|---|---|---|---|---|---|
+| --- | --- | --- | --- | --- | --- | --- |
 | VLCC | 310,000 | 120 | 125 | 100 | 76 | 52 |
 | SUEZMAX | 160,000 | 80 | 85 | 68 | 53 | 30 |
 | AFRAMAX | 115,000 | 62 | 75 | 62 | 52 | 28 |
 | PANAMAX-LR1 | 73,000 | 54 | 27 | 47 | 36 | 18 |
 | MR TANKER | 51,000 | 43 | 47 | 41 | 33 | 17 |
 
-### Baltic Exchange Tanker Indices
+* (amount in USD million)
 
 ### BALTIC EXCHANGE TANKER INDICES
 
-| CURRENT | LAST WEEK | LAST YEAR | W-O-W CHANGE % | Y-O-Y CHANGE % |
-|---|---|---|---|---|
-| 1,323 | 1,415 | 687 | -6.50% | +92.58% |
-| 659 | 715 | 554 | -7.83% | +18.95% |
+#### BALTIC EXCHANGE TANKER INDICES
 
-### TANKER 12 MONTHS T/C RATES AVERAGE (IN USD/DAY)
+|  | CURRENT | LAST WEEK | LAST YEAR | W-O-W CHANGE % | Y-O-Y CHANGE % |
+| --- | --- | --- | --- | --- | --- |
+| BDTI | 1,323 | 1,415 | 687 | -6.50% | +92.58% |
+| BCTI | 659 | 715 | 554 | -7.83% | +18.95% |
+
+#### TANKER 12 MONTHS T/C RATES AVERAGE (IN USD/DAY)
 
 | TYPE | DWT | CURRENT | LAST WEEK | LAST YEAR | W-O-W CHANGE | Y-O-Y CHANGE |
-|---|---|---|---|---|---|---|
+| --- | --- | --- | --- | --- | --- | --- |
 | VLCC | 300,000 | 38,750 | 38,750 | 18,500 | 0 | +109.46% |
 | SUEZMAX | 150,000 | 42,500 | 42,500 | 17,500 | 0 | +142.86% |
 | AFRAMAX | 110,000 | 41,750 | 41,750 | 16,000 | 0 | +160.94% |
 | LR1 | 74,000 | 35,500 | 35,500 | 14,000 | 0 | +153.57% |
 | MR | 47,000 | 27,000 | 27,000 | 12,500 | 0 | +116.00% |
+
+Tanker 1 year T/C rates
 
 ## Page 7
 
@@ -316,15 +320,35 @@ Turkey has decided to raise import duties on certain flat products. Import duty 
 
 ## Page 14
 
-### Bunker Prices (USD / ton)
+# BEACHING TIDE DATES 2022
 
-| PORT | VLSFO (0.5%) | HSFO (3.5%) | MGO (0.1%) |
-| :--- | :---: | :---: | :---: |
+Chattogram, Bangladesh : 08th Feb. ~ 11th Feb. | 21st ~ 24th Feb.
+
+Alang, India : 04th Feb. ~ 10th Feb. | 18th Feb. ~ 25th Feb.
+
+# Bunker Prices
+
+#### BUNKER PRICES (USD/TON)
+
+| PORTS | VLSFO (0.5%) | IFO380 CST | MGO (0.1%) |
+| --- | --- | --- | --- |
 | SINGAPORE | 701 | 424 | 928 |
 | HONG KONG | 686 | 483 | 991 |
 | FUJAIRAH | 677 | 404 | 1193 |
 | ROTTERDAM | 613 | 412 | 933 |
 | HOUSTON | 635 | 415 | 1037 |
+
+# Exchange Rates
+
+#### EXCHANGE RATES
+
+|  | 27th JANUARY | 20th JANUARY | W-O-W % CHANGE |
+| --- | --- | --- | --- |
+| USD / CNY (CHINA) | 6.78 | 6.78 | 0 |
+| USD / BDT (BANGLADESH) | 105.67 | 104.02 | -1.59% |
+| USD / INR (INDIA) | 81.58 | 80.95 | -0.78% |
+| USD / PKR (PAKISTAN) | 253.24 | 229.79 | -10.20% |
+| USD / TRY (TURKEY) | 18.81 | 18.77 | -0.21% |
 
 ## Page 15
 

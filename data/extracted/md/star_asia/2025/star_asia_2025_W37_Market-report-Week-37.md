@@ -98,21 +98,30 @@ In West Africa, market began the week with relatively ample vessel availability.
 
 ## Page 6
 
-Aframax:
+# Aframax: The Aframax market in the Middle East experienced a significant rate increase by the week's end. The bullish sentiment was driven by the strong performance in the larger vessels. In the Mediterranean, 80,000mt Ceyhan/Lavera climbs slightly to WS131 from last.
 
-The Aframax market in the Middle East experienced a significant rate increase by the week's end. The bullish sentiment was driven by the strong performance in the larger vessels. In the Mediterranean, 80,000mt Ceyhan/Lavera climbs slightly to WS131 from last.
+# Clean: LR: LR2 in the MEG concluded the week downward after the highs of start of the week. A few vessels were concluded in a private off-market fixture. However, as tonnage recovered, TC1 ended the week lower, falling some 15 points to WS142. Similar was also noted in the LR1, with a softer landing at WS154 for TC5 route.
 
-Clean:
-
-**LR: LR2 in the MEG concluded the week downward after the highs of start of the week. A**
-
-few vessels were concluded in a private off-market fixture. However, as tonnage recovered, TC1 ended the week lower, falling some 15 points to WS142. Similar was also noted in the LR1, with a softer landing at WS154 for TC5 route.
-
-**MR: In the MR segment, vessel supply for early-to-mid September loadings is already**
-
-showing signs of being tight. MEG ended the week lower, with TC17 to E. Africa closing at WS182. On the UKC, MRs also saw a lackluster market, with TC2 to US-Atlantic fell to WS114.
+MR: In the MR segment, vessel supply for early-to-mid September loadings is already showing signs of being tight. MEG ended the week lower, with TC17 to E. Africa closing at WS182. On the UKC, MRs also saw a lackluster market, with TC2 to US-Atlantic fell to WS114.
 
 ## Baltic Exchange Tanker Indices
+
+| INDICES | CURRENT | LAST WEEK | LAST YEAR | W-O-W CHANGE | Y-O-Y CHANGE |
+| --- | --- | --- | --- | --- | --- |
+| BDTI | 1,114 | 1,066 | 883 | +4.50% | +26.16% |
+| BCTI | 614 | 638 | 618 | -3.76% | -0.65% |
+
+# Tankers Values (Weekly)
+
+| TYPE | DWT | NB CONTRACT | NB PROMPT DELIVERY | 5 YEARS | 10 YEARS | 15 YEARS |
+| --- | --- | --- | --- | --- | --- | --- |
+| VLCC | 310,000 | 126 | 147 | 112 (E) | 83(E) | 51 |
+| SUEZMAX | 160,000 | 87 | 94 | 77 (E) | 62 (E) | 40 |
+| AFRAMAX | 115,000 | 75 | 77 | 64 (E) | 50 (E) | 35 |
+| LR1 | 73,000 | 60 | 62 | 51 (E) | 42 (E) | 25 |
+| MR | 51,000 | 49 | 50 | 41 (E) | 30 (E) | 21 |
+
+*(amount in USD million) | (E) – eco units
 
 ## Page 7
 
@@ -222,30 +231,39 @@ Despite a challenging domestic environment where the local steel market remains 
 
 Nevertheless, buyers have held their price indications firm, maintaining the same levels as the previous week for potential candidates.
 
-Aliaga, Turkey
+Anchorage & Beaching Position (SEPTEMBER 2025)
 
-Another week of muted activity in the Turkish recycling market. The Lira fell to 41.37 against the dollar, falling another 0.3% from last. So far not an alarming situation for the importers, but closely monitored
+| VESSEL NAME | TYPE | LDT | ARRIVAL | BEACHING |
+| --- | --- | --- | --- | --- |
+| FORTUNE OCEAN | GENERAL CARGO | 2,261 | 12.08.2025 | AWAITING |
 
----
+# Aliaga, Turkey
 
-Chattogram, Bangladesh : 7 ~ 10 September | 20 ~ 23 September Alang, India : 5 ~ 14 September | 19 ~ 27 September
+Another week of muted activity in the Turkish recycling market.
+The Lira fell to 41.37 against the dollar, falling another 0.3% from last. So far not an alarming situation for the importers, but closely monitored
 
----
+# BEACHING TIDE DATES 2025
 
-BUNKER PRICES (USD/ton)
+Chattogram, Bangladesh : 7 ~ 10 September | 20 ~ 23 September
+
+Alang, India
+
+: 5 ~ 14 September | 19 ~ 27 September
+
+#### BUNKER PRICES (USD/ton)
 
 | PORTS | VLSFO (0.5%) | HSFO (3.5%) | MGO (0.1%) |
-|---|---|---|---|
+| --- | --- | --- | --- |
 | SINGAPORE | 499 | 404 | 645 |
 | HONG KONG | 511 | 427 | 650 |
 | FUJAIRAH | 488 | 383 | 724 |
 | ROTTERDAM | 472 | 408 | 627 |
 | HOUSTON | 487 | 418 | 659 |
 
-EXCHANGE RATES
+#### EXCHANGE RATES
 
 | CURRENCY | September 12 | September 5 | W-O-W % CHANGE |
-|---|---|---|---|
+| --- | --- | --- | --- |
 | USD / CNY (CHINA) | 7.12 | 7.13 | +0.14% |
 | USD / BDT (BANGLADESH) | 121.72 | 121.79 | +0.06% |
 | USD / INR (INDIA) | 88.27 | 88.20 | -0.08% |

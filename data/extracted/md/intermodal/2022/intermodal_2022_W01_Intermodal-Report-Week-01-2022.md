@@ -388,7 +388,7 @@ The first newbuilding contracts of 2022 signals an exciting January for the newb
 # Intermodal Demolition Market
 ## Indicative Demolition Prices ($/ldt)
 
-| Markets | Markets | 07/01/2022 | 31/12/2021 | ±% | 2020 | 2019 |
+| Markets | 07/01/2022 | 31/12/2021 | ±% | 2020 | 2019 | 2018 |
 | --- | --- | --- | --- | --- | --- | --- |
 | Tanker |  |  |  |  |  |  |
 | Bangladesh | 600 | 600 | 0.0% | 348 | 410 | 442 |

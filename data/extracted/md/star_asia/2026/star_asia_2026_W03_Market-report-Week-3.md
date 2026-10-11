@@ -101,13 +101,31 @@ The Aframax segment remains stagnant as Asian refiners prioritize VLCCs for thei
 
 ## Page 6
 
-Clean:
+# Clean:
 
 LR: The market has shifted decisively in favor of shipowners as a backlog of naphtha requirements for the Far East hit the market simultaneously. In the MEG, LR2s gained 30 points at TC1 to Japan climbed to WS216. In the LR1, rates also firmed with TC5 climbing to WS226.
 
 MR: The Far East regional market ended on a high note as a wave of accumulated demand from the holiday period was released at once. This concentrated burst of fixing activity has cleared out prompt tonnage and successfully driven freight rates upward across regional routes.
 
 ## Baltic Exchange Tanker Indices
+
+| INDICES | CURRENT | LAST WEEK | LAST YEAR | W-O-W CHANGE | Y-O-Y CHANGE |
+| --- | --- | --- | --- | --- | --- |
+| BDTI | 1,562 | 1,211 | 912 | +28.98% | +71.27% |
+| BCTI | 830 | 709 | 756 | +17.07% | +9.79% |
+
+# Tankers Values
+
+(Weekly)
+
+| TYPE | DWT | NB CONTRACT | NB PROMPT DELIVERY | 5 YEARS | 10 YEARS | 15 YEARS |
+| --- | --- | --- | --- | --- | --- | --- |
+| VLCC | 310,000 | 126 | 147 | 116 (E) | 85(E) | 51 |
+| SUEZMAX | 160,000 | 86 | 93 | 77 (E) | 61 (E) | 40 |
+| AFRAMAX | 115,000 | 75 | 75 | 64 (E) | 50 (E) | 35 |
+| LR1 | 73,000 | 60 | 62 | 51 (E) | 42 (E) | 25 |
+| MR | 51,000 | 49 | 52 | 41 (E) | 31 (E) | 21 |
+| *(amount in USD million) / (€) – eco units | *(amount in USD million) / (€) – eco units | *(amount in USD million) / (€) – eco units | *(amount in USD million) / (€) – eco units | *(amount in USD million) / (€) – eco units | *(amount in USD million) / (€) – eco units | *(amount in USD million) / (€) – eco units |
 
 ## Page 7
 
@@ -248,38 +266,39 @@ Turkiye remains steady but secondary to the Subcontinent, with pricing at US$270
 
 ## Page 17
 
-The upcoming implementation of the EU's Carbon Border Adjustment Mechanism (CBAM) is expected to further boost the demand for low-carbon ship-sourced steel in Turkish mills.
+The upcoming implementation of the EU’s Carbon Border Adjustment Mechanism (CBAM) is expected to further boost the demand for low-carbon ship-sourced steel in Turkish mills.
 
----
+# BEACHING TIDE DATES 2026
 
-Chattogram, Bangladesh : 21 ~ 24 January | 3 ~ 6 February Alang, India : 17 ~ 24 January | 30 January ~ 6 February
+Chattogram, Bangladesh : 21 ~ 24 January | 3 ~ 6 February
 
----
+Alang, India : 17 ~ 24 January | 30 January ~ 6 February
 
-BUNKER PRICES (USD/ton)
+#### BUNKER PRICES (USD/ton)
 
-PORTS VLSFO (0.5%) HSFO (3.5%) MGO (0.1%)
-
+| PORTS | VLSFO (0.5%) | HSFO (3.5%) | MGO (0.1%) |
+| --- | --- | --- | --- |
 | SINGAPORE | 422 | 357 | 601 |
-|---|---|---|---|
 | HONG KONG | 436 | 392 | 622 |
 | FUJAIRAH | 420 | 333 | 714 |
 | ROTTERDAM | 407 | 354 | 621 |
 | HOUSTON | 417 | 344 | 602 |
 
-EXCHANGE RATES
+#### EXCHANGE RATES
 
 | CURRENCY | January 16 | January 9 | W-O-W % CHANGE |
-|---|---|---|---|
+| --- | --- | --- | --- |
 | USD / CNY (CHINA) | 6.96 | 6.98 | +0.29% |
 | USD / BDT (BANGLADESH) | 122.28 | 122.35 | +0.06% |
 | USD / INR (INDIA) | 90.34 | 90.16 | -0.20% |
 | USD / PKR (PAKISTAN) | 279.9 | 281.33 | +0.51% |
 | USD / TRY (TURKEY) | 43.18 | 43.05 | -0.30% |
 
-Sub-Continent and Turkey ferrous scrap markets insights
+# Sub-Continent and Turkey ferrous scrap markets insights
 
-INDIA India's imported scrap segment, has seen activity remains more subdued as buyers resist higher offer levels. UK-origin shredded scrap is currently offered at US$355-$358/t CFR, while small parcels of Costa Rica-origin HMS 60:40 were recently booked at US$312-$316/t. Despite a mid-month softening in sentiment due to currency risks, the long-term outlook remains positive with a proposed ₹4,000 crore incentive scheme expected to launch later this year.
+# INDIA
+
+India's imported scrap segment, has seen activity remains more subdued as buyers resist higher offer levels. UK-origin shredded scrap is currently offered at US$355–$358/t CFR, while small parcels of Costa Rica-origin HMS 60:40 were recently booked at US$312–$316/t. Despite a mid-month softening in sentiment due to currency risks, the long-term outlook remains positive with a proposed ₹4,000 crore incentive scheme expected to launch later this year.
 
 ## Page 18
 

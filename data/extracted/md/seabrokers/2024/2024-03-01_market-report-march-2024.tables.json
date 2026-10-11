@@ -4,141 +4,8 @@
   "year": 2024,
   "month": 3,
   "source_file": "corpus/05-seabrokers/pdfs/2024-03-01_market-report-march-2024.pdf",
-  "tables_count": 16,
+  "tables_count": 14,
   "tables": [
-    {
-      "title": "UPSTREAM FIDs PROJECTED TO INCREASE IN 2024",
-      "columns": [
-        "Year",
-        "Total FIDs",
-        "Class of 2023 potential",
-        "Total pre-FIDs"
-      ],
-      "row_count": 10,
-      "rows": [
-        {
-          "Year": "2015",
-          "Total FIDs": "10",
-          "Class of 2023 potential": "",
-          "Total pre-FIDs": ""
-        },
-        {
-          "Year": "2016",
-          "Total FIDs": "15",
-          "Class of 2023 potential": "",
-          "Total pre-FIDs": ""
-        },
-        {
-          "Year": "2017",
-          "Total FIDs": "35",
-          "Class of 2023 potential": "",
-          "Total pre-FIDs": ""
-        },
-        {
-          "Year": "2018",
-          "Total FIDs": "51",
-          "Class of 2023 potential": "",
-          "Total pre-FIDs": ""
-        },
-        {
-          "Year": "2019",
-          "Total FIDs": "45",
-          "Class of 2023 potential": "",
-          "Total pre-FIDs": ""
-        },
-        {
-          "Year": "2020",
-          "Total FIDs": "14",
-          "Class of 2023 potential": "",
-          "Total pre-FIDs": ""
-        },
-        {
-          "Year": "2021",
-          "Total FIDs": "40",
-          "Class of 2023 potential": "",
-          "Total pre-FIDs": ""
-        },
-        {
-          "Year": "2022",
-          "Total FIDs": "35",
-          "Class of 2023 potential": "",
-          "Total pre-FIDs": ""
-        },
-        {
-          "Year": "2023",
-          "Total FIDs": "20",
-          "Class of 2023 potential": "20",
-          "Total pre-FIDs": ""
-        },
-        {
-          "Year": "2024",
-          "Total FIDs": "",
-          "Class of 2023 potential": "",
-          "Total pre-FIDs": "30"
-        }
-      ]
-    },
-    {
-      "title": "UPSTREAM FIDs PROJECTED TO INCREASE IN 2024",
-      "columns": [
-        "Year",
-        "Project capex",
-        "pre-FID capex"
-      ],
-      "row_count": 10,
-      "rows": [
-        {
-          "Year": "2015",
-          "Project capex": "58",
-          "pre-FID capex": ""
-        },
-        {
-          "Year": "2016",
-          "Project capex": "98",
-          "pre-FID capex": ""
-        },
-        {
-          "Year": "2017",
-          "Project capex": "85",
-          "pre-FID capex": ""
-        },
-        {
-          "Year": "2018",
-          "Project capex": "190",
-          "pre-FID capex": ""
-        },
-        {
-          "Year": "2019",
-          "Project capex": "108",
-          "pre-FID capex": ""
-        },
-        {
-          "Year": "2020",
-          "Project capex": "32",
-          "pre-FID capex": ""
-        },
-        {
-          "Year": "2021",
-          "Project capex": "156",
-          "pre-FID capex": ""
-        },
-        {
-          "Year": "2022",
-          "Project capex": "138",
-          "pre-FID capex": ""
-        },
-        {
-          "Year": "2023",
-          "Project capex": "122",
-          "pre-FID capex": ""
-        },
-        {
-          "Year": "2024",
-          "Project capex": "",
-          "pre-FID capex": "115"
-        }
-      ]
-    },
     {
       "title": "MARCH 2024 - DAILY NORTH SEA OSV AVAILABILITY",
       "columns": [
@@ -153,7 +20,7 @@
         {
           "Date": "1",
           "PSV 2024": "12",
-          "PSV 2023": "13",
+          "PSV 2023": "12",
           "AHTS 2024": "9",
           "AHTS 2023": "6"
         },
@@ -161,29 +28,29 @@
           "Date": "2",
           "PSV 2024": "12",
           "PSV 2023": "14",
-          "AHTS 2024": "8",
-          "AHTS 2023": "6"
+          "AHTS 2024": "7",
+          "AHTS 2023": "7"
         },
         {
           "Date": "3",
           "PSV 2024": "12",
-          "PSV 2023": "14",
-          "AHTS 2024": "7",
-          "AHTS 2023": "5"
+          "PSV 2023": "13",
+          "AHTS 2024": "6",
+          "AHTS 2023": "6"
         },
         {
           "Date": "4",
           "PSV 2024": "12",
-          "PSV 2023": "15",
-          "AHTS 2024": "0",
-          "AHTS 2023": "5"
+          "PSV 2023": "16",
+          "AHTS 2024": "5",
+          "AHTS 2023": "7"
         },
         {
           "Date": "5",
-          "PSV 2024": "12",
-          "PSV 2023": "16",
+          "PSV 2024": "15",
+          "PSV 2023": "18",
           "AHTS 2024": "0",
-          "AHTS 2023": "0"
+          "AHTS 2023": "7"
         },
         {
           "Date": "6",
@@ -195,170 +62,170 @@
         {
           "Date": "7",
           "PSV 2024": "12",
-          "PSV 2023": "15",
+          "PSV 2023": "19",
           "AHTS 2024": "1",
-          "AHTS 2023": "8"
+          "AHTS 2023": "7"
         },
         {
           "Date": "8",
           "PSV 2024": "13",
-          "PSV 2023": "15",
+          "PSV 2023": "17",
           "AHTS 2024": "3",
-          "AHTS 2023": "7"
+          "AHTS 2023": "3"
         },
         {
           "Date": "9",
-          "PSV 2024": "14",
-          "PSV 2023": "15",
-          "AHTS 2024": "5",
-          "AHTS 2023": "5"
-        },
-        {
-          "Date": "10",
-          "PSV 2024": "14",
-          "PSV 2023": "15",
-          "AHTS 2024": "6",
-          "AHTS 2023": "5"
-        },
-        {
-          "Date": "11",
-          "PSV 2024": "14",
-          "PSV 2023": "15",
-          "AHTS 2024": "8",
-          "AHTS 2023": "5"
-        },
-        {
-          "Date": "12",
-          "PSV 2024": "14",
+          "PSV 2024": "13",
           "PSV 2023": "15",
           "AHTS 2024": "5",
           "AHTS 2023": "4"
+        },
+        {
+          "Date": "10",
+          "PSV 2024": "12",
+          "PSV 2023": "15",
+          "AHTS 2024": "6",
+          "AHTS 2023": "4"
+        },
+        {
+          "Date": "11",
+          "PSV 2024": "12",
+          "PSV 2023": "15",
+          "AHTS 2024": "8",
+          "AHTS 2023": "4"
+        },
+        {
+          "Date": "12",
+          "PSV 2024": "13",
+          "PSV 2023": "15",
+          "AHTS 2024": "7",
+          "AHTS 2023": "5"
         },
         {
           "Date": "13",
           "PSV 2024": "14",
           "PSV 2023": "15",
           "AHTS 2024": "5",
-          "AHTS 2023": "4"
+          "AHTS 2023": "5"
         },
         {
           "Date": "14",
           "PSV 2024": "11",
-          "PSV 2023": "15",
+          "PSV 2023": "14",
           "AHTS 2024": "5",
-          "AHTS 2023": "1"
+          "AHTS 2023": "5"
         },
         {
           "Date": "15",
           "PSV 2024": "11",
-          "PSV 2023": "5",
-          "AHTS 2024": "5",
+          "PSV 2023": "10",
+          "AHTS 2024": "8",
           "AHTS 2023": "1"
         },
         {
           "Date": "16",
-          "PSV 2024": "10",
-          "PSV 2023": "5",
-          "AHTS 2024": "6",
-          "AHTS 2023": "2"
+          "PSV 2024": "12",
+          "PSV 2023": "8",
+          "AHTS 2024": "10",
+          "AHTS 2023": "1"
         },
         {
           "Date": "17",
           "PSV 2024": "12",
-          "PSV 2023": "6",
-          "AHTS 2024": "7",
-          "AHTS 2023": "4"
+          "PSV 2023": "5",
+          "AHTS 2024": "11",
+          "AHTS 2023": "2"
         },
         {
           "Date": "18",
           "PSV 2024": "13",
           "PSV 2023": "7",
-          "AHTS 2024": "9",
+          "AHTS 2024": "13",
           "AHTS 2023": "5"
         },
         {
           "Date": "19",
           "PSV 2024": "14",
           "PSV 2023": "8",
-          "AHTS 2024": "10",
-          "AHTS 2023": "6"
+          "AHTS 2024": "12",
+          "AHTS 2023": "7"
         },
         {
           "Date": "20",
-          "PSV 2024": "14",
+          "PSV 2024": "13",
           "PSV 2023": "10",
-          "AHTS 2024": "15",
+          "AHTS 2024": "14",
           "AHTS 2023": "10"
         },
         {
           "Date": "21",
-          "PSV 2024": "15",
-          "PSV 2023": "10",
+          "PSV 2024": "14",
+          "PSV 2023": "6",
           "AHTS 2024": "16",
-          "AHTS 2023": "10"
+          "AHTS 2023": "12"
         },
         {
           "Date": "22",
           "PSV 2024": "16",
-          "PSV 2023": "10",
-          "AHTS 2024": "16",
-          "AHTS 2023": "10"
+          "PSV 2023": "6",
+          "AHTS 2024": "15",
+          "AHTS 2023": "16"
         },
         {
           "Date": "23",
-          "PSV 2024": "14",
-          "PSV 2023": "4",
+          "PSV 2024": "15",
+          "PSV 2023": "6",
           "AHTS 2024": "15",
-          "AHTS 2023": "9"
+          "AHTS 2023": "15"
         },
         {
           "Date": "24",
-          "PSV 2024": "13",
+          "PSV 2024": "14",
           "PSV 2023": "4",
           "AHTS 2024": "14",
-          "AHTS 2023": "8"
+          "AHTS 2023": "9"
         },
         {
           "Date": "25",
-          "PSV 2024": "7",
-          "PSV 2023": "5",
-          "AHTS 2024": "10",
-          "AHTS 2023": "7"
+          "PSV 2024": "13",
+          "PSV 2023": "4",
+          "AHTS 2024": "14",
+          "AHTS 2023": "10"
         },
         {
           "Date": "26",
           "PSV 2024": "7",
           "PSV 2023": "5",
-          "AHTS 2024": "11",
-          "AHTS 2023": "7"
+          "AHTS 2024": "13",
+          "AHTS 2023": "10"
         },
         {
           "Date": "27",
-          "PSV 2024": "12",
+          "PSV 2024": "7",
           "PSV 2023": "5",
-          "AHTS 2024": "13",
-          "AHTS 2023": "8"
+          "AHTS 2024": "12",
+          "AHTS 2023": "11"
         },
         {
           "Date": "28",
-          "PSV 2024": "13",
+          "PSV 2024": "9",
           "PSV 2023": "6",
           "AHTS 2024": "14",
-          "AHTS 2023": "9"
+          "AHTS 2023": "10"
         },
         {
           "Date": "29",
-          "PSV 2024": "14",
-          "PSV 2023": "8",
+          "PSV 2024": "10",
+          "PSV 2023": "7",
           "AHTS 2024": "14",
           "AHTS 2023": "9"
         },
         {
           "Date": "30",
           "PSV 2024": "11",
-          "PSV 2023": "10",
+          "PSV 2023": "8",
           "AHTS 2024": "15",
-          "AHTS 2023": "7"
+          "AHTS 2023": "8"
         },
         {
           "Date": "31",
@@ -367,7 +234,8 @@
           "AHTS 2024": "15",
           "AHTS 2023": "7"
         }
-      ]
+      ],
+      "value_source": "vector_chart_read"
     },
     {
       "title": "NORTH SEA SPOT AVERAGE UTILISATION MARCH 2024",

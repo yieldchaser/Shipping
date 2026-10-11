@@ -80,6 +80,27 @@ In the Atlantic, there is a tight supply against demand, with a steady cargo flo
 
 # Baltic Exchange Dry Bulk Indices
 
+#### BALTIC EXCHANGE DRY BULK INDICES
+
+|  | CURRENT | LAST WEEK | LAST YEAR | W-O-W CHANGE % | Y-O-Y CHANGE % |
+| --- | --- | --- | --- | --- | --- |
+| BDI | 1,432 | 1,435 | 2,307 | -0.21% | -37.93% |
+| BCI | 1,778 | 1,850 | 1,845 | -3.89% | -3.63% |
+| BPI | 1,677 | 1,702 | 3,004 | -1.47% | -44.17% |
+| BSI | 1,179 | 1,096 | 2,678 | +7.57% | -55.97% |
+| BHSI | 650 | 628 | 1,504 | +3.50% | -56.78% |
+
+#### BULKER 12 MONTHS T/C RATES AVERAGE (IN USD/DAY)
+
+|  | DWT | CURRENT | LAST WEEK | LAST YEAR | W-O-W CHANGE % | Y-O-Y CHANGE % |
+| --- | --- | --- | --- | --- | --- | --- |
+| CAPE | 180,000 | 19,750 | 20,000 | 28,500 | -1.25% | -30.70% |
+| PANAMAX | 75,000 | 16,500 | 16,300 | 26,500 | +1.23% | -37.74% |
+| SUPRAMAX | 52,000 | 15,500 | 15,500 | 27,000 | 0 | -42.59% |
+| HANDYSIZE | 32,000 | 12,000 | 12,150 | 23,250 | -1.23% | -48.39% |
+
+Dry Bulk 1 year T/C rates
+
 ## Page 5
 
 # Tankers
@@ -179,29 +200,31 @@ The container segment appears to have hit its bottom and is beginning to recover
 
 # Ship Recycling Market Snapshot
 
-| DESTINATION | TANKERS | BULKERS | MPP/ GENERAL | CONTAINERS | SENTIMENTS / WEEKLY FUTURE |
-|---|---|---|---|---|---|
-| *For green ship recycling, the prices are about | 540 ~ 550 | 520 ~ 530 | 530 ~ 540 | 570 ~ 580 | WEAK / |
-| CHATTOGRAM, BANGLADESH | \*580 ~ 590 | \*560 ~ 570 | \*540 ~ 550 | \*600 ~ 610 | WEAK / |
+| DESTINATION | TANKERS | BULKERS | MPP/ GENERAL CARGO | CONTAINERS | SENTIMENTS / WEEKLY FUTURE TREND |
+| --- | --- | --- | --- | --- | --- |
+| ALANG (WC INDIA) *For green ship recycling, the prices are about US$25-30/ton lower. | 540 ~ 550 | 520 ~ 530 | 530 ~ 540 | 570 ~ 580 | WEAK / |
+| CHATTOGRAM, BANGLADESH | *580 ~ 590 | *560 ~ 570 | *540 ~ 550 | *600 ~ 610 | WEAK / |
 | GADDANI, PAKISTAN | NA | NA | NA | NA | NA |
-| TURKEY \*For Non-EU ships. For EU Ship, the prices are about US$30-40/ton less | 320 ~ 330 | 310 ~ 320 | 300 ~ 310 | 330 ~ 340 | STABLE / |
+| TURKEY *For Non-EU ships. For EU Ship, the prices are about US$30-40/ton less | 320 ~ 330 | 310 ~ 320 | 300 ~ 310 | 330 ~ 340 | STABLE / |
 
-- All prices are USD per light displacement tonnage in the long ton.
-- The prices reported are net prices offered by the recycling yards.
-- Prices quoted are basis simple Japanese / Korean-built tonnages trading units. Premiums are paid on top of the above- quoted prices based on quality & quality of Spares, Non-Fe., bunkers, cargo history, and maintenance.
-- \* Prices are based on the subject Letters of Credit opening and case-to-case buying.
+* All prices are USD per light displacement tonnage in the long ton.
+
+* The prices reported are net prices offered by the recycling yards.
+
+* Prices quoted are basis simple Japanese / Korean-built tonnages trading units. Premiums are paid on top of the above-quoted prices based on quality & quality of Spares, Non-Fe., bunkers, cargo history, and maintenance.
+
+* * Prices are based on the subject Letters of Credit opening and case-to-case buying.
 
 ## 5-Year Ship Recycling Average Historical Prices
 
 (Week 16)
 
-```text
-DESTINATION 2018 2019 2020 2021 2022
-ALANG, INDIA 450 450 350 470 685
-CHATTOGRAM, BANGLADESH 430 455 330 480 660
-GADDANI, PAKISTAN 420 430 320 470 680
-ALIAGA, TURKEY 290 280 210 255 460
-```
+| DESTINATION | 2018 | 2019 | 2020 | 2021 | 2022 |
+| --- | --- | --- | --- | --- | --- |
+| ALANG, INDIA | 450 | 450 | 350 | 470 | 685 |
+| CHATTOGRAM, BANGLADESH | 430 | 455 | 330 | 480 | 660 |
+| GADDANI, PAKISTAN | 420 | 430 | 320 | 470 | 680 |
+| ALIAGA, TURKEY | 290 | 280 | 210 | 255 | 460 |
 
 ## Page 10
 
@@ -251,6 +274,20 @@ Despite a weak ship supply this year, yet, Alang has managed to beach a total of
 
 ## Page 13
 
+# Anchorage & Beaching Position (April 2023)
+
+| VESSEL NAME | TYPE | LDT | ARRIVAL | BEACHING |
+| --- | --- | --- | --- | --- |
+| MSC NORA II | CONTAINER | 10,611 | 20.04.2023 | AWAITING |
+| AUGUSTA II | TANKER | 9,920 | 13.04.2023 | 22.04.2023 |
+| AUGUSTA II | TANKER | 9,920 | 13.04.2023 | 22.03.2023 |
+| MSC VERONIQUE | CONTIANER | 23,450 | 18.04.2023 | 21.04.2023 |
+| AL | FISHING | 1,622 | 15.04.2023 | 20.04.2023 |
+| LEONARD | CONTAINER | 7,852 | 07.04.2023 | 12.04.2023 |
+| ICE | DRILLSHIP | 9,646 | 31-03-2023 | 08.04.2023 |
+| HALUL 21 | OSV | 1,406 | 24.03.2023 | 07.04.2023 |
+| HALUL 20 | OSV | 1,395 | 24.03.2023 | 07.04.2023 |
+
 ## CHATTOGRAM, BANGLADESH
 
 The ship scrapping industry experienced a quiet week amid the long Eid festival holidays. Domestic ship scrap prices have stabilised, and industry experts believe that the market has reached its bottom for the time being. However, the looming issue of Letters of Credit remains as banks continue to tighten the flow of foreign exchange.
@@ -258,6 +295,18 @@ The ship scrapping industry experienced a quiet week amid the long Eid festival 
 In a historic move for Bangladesh, Mitsui O.S.K. Lines Ltd. (MOL) has sold its aging woodchip carrier to PHP Shipbreaking in Chattogram. This sale marks another significant milestone for PHP Shipbreaking, as it becomes the only yard in the region to receive a vessel, in contrast to the 10 Alang yards. It is worth noting that MOL has a strict policy of selling its ships only to yards identified by them, limiting the total number of recycling yards to 11.
 
 As the market prepares for post-Eid purchasing, attention is shifting towards the supply of ships, which is expected to ease in the near future. This may result in a drop in prices as the market adjusts to the changing conditions. Ship recyclers are closely monitoring the market to determine the direction of prices in the coming weeks.
+
+# Anchorage & Beaching Position (April 2023)
+
+| VESSEL NAME | TYPE | LDT | ARRIVAL | BEACHING |
+| --- | --- | --- | --- | --- |
+| HAN | REEFER | 2,181 | 18.04.2023 | AWAITING |
+| SUNNY 1 | BULKER | 21,215 | 15.04.2023 | AWAITING |
+| AGIA TRIAS | BULKER | 22,142 | 12.04.2023 | AWAITING |
+| ROWAN | GEN. CARGO | 2,755 | 07.04.2023 | AWAITING |
+| PI, EX-BORTO JOYO | FSO | 12,038 | 16.03.2023 | 20.04.2023 |
+| GRACE ENERGY | LNG | 30,426 | 14.04.2023 | 20.04.2023 |
+| SUNNINE | BULKER | 3,013 | 15.04.2023 | 19.04.2023 |
 
 ## Page 14
 
@@ -287,10 +336,26 @@ PALSP Secretary General claims that around 500,000 tonnes of steel bars are bein
 
 ## Page 15
 
-### Bunker Prices (USD / ton)
+# ALIAGA, TURKEY
 
-| PORT | VLSFO (0.5%) | HSFO (3.5%) | MGO (0.1%) |
-| :--- | :---: | :---: | :---: |
+The demand for ferrous scrap in Turkish mills is currently low due to various unfavourable market conditions. These include uncertain market sentiment, the upcoming Turkish elections, the upcoming Eid holidays, and poor steel sales. The lack of demand from mills is largely due to the poor sales of steel products, which has resulted in reduced capacity utilization and a lower requirement for scrap.
+
+Market participants do not expect any improvement in Turkey's scrap demand or steel sales until after the elections on May 14. This situation has prompted short-sea suppliers to become more flexible with their prices, with some accepting lower prices in the current market. While some people have speculated that prices could potentially reach $420/t levels, Turkish mills are currently not giving bids at these levels.
+
+Overall, the market sentiment remains subdued, and mills are hesitant to purchase ferrous scrap until the market conditions improve. The lack of foreign currencies and the inability to obtain loans further exacerbate the challenging market conditions for the mills.
+
+### BEACHING TIDE DATES 2023
+
+Chattogram, Bangladesh: 20th ~ 23rd April | 5th ~ 8th May
+
+Alang, India: 18th ~ 25th April | 4th ~ 11th May
+
+# Bunker Prices
+
+#### BUNKER PRICES (USD/TON)
+
+| PORTS | VLSFO (0.5%) | IFO380 CST | MGO (0.1%) |
+| --- | --- | --- | --- |
 | SINGAPORE | 598 | 479 | 726 |
 | HONG KONG | 613 | 498 | 723 |
 | FUJAIRAH | 595 | 458 | 1000 |

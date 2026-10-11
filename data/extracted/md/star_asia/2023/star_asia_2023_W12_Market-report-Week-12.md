@@ -91,6 +91,19 @@ BALTIC EXCHANGE DRY BULK INDICES
 
 ## Page 4
 
+TABLE_PLACE_PLACEHOLDER_TOP_LEFT_0
+
+# Dry Bulk 1 year T/C rates
+
+#### BULKER 12 MONTHS T/C RATES AVERAGE (IN USD/DAY)
+
+|  | DWT | CURRENT | LAST WEEK | LAST YEAR | W-O-W CHANGE % | Y-O-Y CHANGE % |
+| --- | --- | --- | --- | --- | --- | --- |
+| CAPE | 180,000 | 17,000 | 19,750 | 27,500 | -13.92% | -38.18% |
+| PANAMAX | 75,000 | 15,250 | 15,500 | 28,250 | -1.61% | -46.02% |
+| SUPRAMAX | 52,000 | 15,850 | 15,750 | 29,500 | +0.63% | -46.27% |
+| HANDYSIZE | 32,000 | 12,850 | 12,750 | 25,750 | +0.78% | -50.10% |
+
 ## Page 5
 
 # Tankers
@@ -193,29 +206,31 @@ Rumors suggest that Credit Suisse and First Republic Bank are facing a crisis fo
 
 # Ship Recycling Market Snapshot
 
-| DESTINATION | TANKERS | BULKERS | MPP/ GENERAL | CONTAINERS | SENTIMENTS / WEEKLY FUTURE |
-|---|---|---|---|---|---|
-| *For green ship recycling, the prices are about | 550 ~ 560 | 530 ~ 540 | 540 ~ 550 | 580 ~ 590 | STABLE / |
-| CHATTOGRAM, BANGLADESH | \*600 ~ 610 | \*580 ~ 590 | \*570 ~ 580 | \*610 ~ 620 | STABLE / |
+| DESTINATION | TANKERS | BULKERS | MPP/ GENERAL CARGO | CONTAINERS | SENTIMENTS / WEEKLY FUTURE TREND |
+| --- | --- | --- | --- | --- | --- |
+| ALANG (WC INDIA) *For green ship recycling, the prices are about US$25-30/ton lower. | 550 ~ 560 | 530 ~ 540 | 540 ~ 550 | 580 ~ 590 | STABLE / |
+| CHATTOGRAM, BANGLADESH | *600 ~ 610 | *580 ~ 590 | *570 ~ 580 | *610 ~ 620 | STABLE / |
 | GADDANI, PAKISTAN | NA | NA | NA | NA | NA |
-| TURKEY \*For Non-EU ships. For EU Ship, the prices are about US$30-40/ton less | 320 ~ 330 | 310 ~ 320 | 300 ~ 310 | 330 ~ 340 | STABLE / |
+| TURKEY *For Non-EU ships. For EU Ship, the prices are about US$30-40/ton less | 320 ~ 330 | 310 ~ 320 | 300 ~ 310 | 330 ~ 340 | STABLE / |
 
-- All prices are USD per light displacement tonnage in the long ton.
-- The prices reported are net prices offered by the recycling yards.
-- Prices quoted are basis simple Japanese / Korean-built tonnages trading units. Premiums are paid on top of the above- quoted prices based on quality & quality of Spares, Non-Fe., bunkers, cargo history, and maintenance.
-- \* Prices are based on the subject Letters of Credit opening and case-to-case buying.
+All prices are USD per light displacement tonnage in the long ton.
+
+The prices reported are net prices offered by the recycling yards.
+
+Prices quoted are basis simple Japanese / Korean-built tonnages trading units. Premiums are paid on top of the above-quoted prices based on quality & quality of Spares, Non-Fe., bunkers, cargo history, and maintenance.
+
+* Prices are based on the subject Letters of Credit opening and case-to-case buying.
 
 ## 5-Year Ship Recycling Average Historical Prices
 
 (Week 12)
 
-```text
-DESTINATION 2018 2019 2020 2021 2022
-ALANG, INDIA 450 445 380 460 655
-CHATTOGRAM, BANGLADESH 465 450 350 470 665
-GADDANI, PAKISTAN 420 420 340 460 640
-ALIAGA, TURKEY 290 280 210 255 450
-```
+| DESTINATION | 2018 | 2019 | 2020 | 2021 | 2022 |
+| --- | --- | --- | --- | --- | --- |
+| ALANG, INDIA | 450 | 445 | 380 | 460 | 655 |
+| CHATTOGRAM, BANGLADESH | 465 | 450 | 350 | 470 | 665 |
+| GADDANI, PAKISTAN | 420 | 420 | 340 | 460 | 640 |
+| ALIAGA, TURKEY | 290 | 280 | 210 | 255 | 450 |
 
 ## Page 10
 
@@ -243,23 +258,69 @@ This week saw some weakness in the domestic ship scrap prices, initially droppin
 
 government's desire to double the scale of operations, there is a possibility that activities in Alang may decrease over the next 5 to 7 years.
 
+# Anchorage & Beaching Position (March 2023)
+
+| VESSEL NAME | TYPE | LDT | ARRIVAL | BEACHING |
+| --- | --- | --- | --- | --- |
+| HALUL 21 | OSV | 1,406 | 24.03.2023 | AWAITING |
+| HALUL 20 | OSV | 1,395 | 24.03.2023 | AWAITING |
+| MSC GIOVANNA | CONTAINER | 11,197 | 20.03.2023 | 23.03.2023 |
+| ARTICA | LPG | 23,667 | 19.03.2023 | 23.03.2023 |
+| LEVANT HORIZON | MPP | 3,391 | 11.03.2023 | 18.03.2023 |
+| MONET | LPG | 2,018 | 08.03.2023 | 14.03.2023 |
+| WAN CHAI 7 | CONTAINER | 7,008 | 08.03.2023 | 13.03.2023 |
+| WAN CHAI 6 | CONTAINER | 6,995 | 04.03.2023 | 09.03.2023 |
+| STELLA KARINA | FISHING | 1,264 | 02.03.2023 | 09.03.2023 |
+| HALUL 27 | OSV | 1,937 | 28.02.2023 | 09.03.2023 |
+| HALUL 22 | OSV | 1,404 | 28.02.2023 | 08.03.2023 |
+| SAS 1 | OSV | 2,113 | 20.02.2023 | 08.03.2023 |
+
+# CHATTOGRAM, BANGLADESH
+
+The markets in Chattogram witnessed softening sentiments as the recyclers prepared for the long Ramadan period. Most of the shopping was done and now the recyclers wish to take a back seat as inventories top up.
+
 After enjoying the bull run, the domestic ship scrap prices witnessed minor corrections. The prices dropped by about 2% W-O-W.
 
 A vast majority of the recyclers believe that the prices have peaked, and going forward, they believe the price levels should correct. A similar reflection was in the imported ferrous scrap, with prices correcting.
 
 As we enter the Ramadan period, the markets shall slow down as domestic activities hold back.
 
+# Anchorage & Beaching Position (March 2023)
+
+| VESSEL NAME | TYPE | LDT | ARRIVAL | BEACHING |
+| --- | --- | --- | --- | --- |
+| KASH | REEFER | 872 | 15.03.2023 | AWAITING |
+| EXPRESS | RORO | 1,819 | 07.03.2023 | 12.03.2023 |
+| SAM | BULKER | 21,181 | 06.03.2023 | 11.03.2023 |
+| XIUMEI SHANGHAI | CONTAINER | 7,334 | 25.02.2023 | 10.03.2023 |
+
 ## Page 13
 
 | VADI | BULKER | 10,247 | 05.03.2023 | 10.03.2023 |
-|---|---|---|---|---|
+| --- | --- | --- | --- | --- |
 | KAMO | MPP | 4,426 | 06.03.2023 | 09.03.2023 |
 | SEA WIN | BULKER | 7,488 | 14.02.2023 | 09.03.2023 |
 | NING FENG 316 | BULKER | 11,350 | 24.02.2023 | 09.03.2023 |
 
 ## GADDANI, PAKISTAN
 
-After months of waiting, the ship recyclers could expect to resume buying as the State Bank of Pakistan has removed the condition of depositing upto 100% payment in advance for the import of hundreds of items. Pakistan has reopened imports of the full range of goods by removing the restriction imposed on the imports of 826 items from time to time between 2107 to 2022 The central bank said in a circular on Friday, "it has been decided to withdraw existing cash margin requirement/ CMR (advance payment) on import of items with effect from March 31, 2023." The good news was the raw material for cement, and steel was one of the items on the list, which will help the recyclers to resume buying ships. This action by Pakistan was after China provided US$1.7 billion over the previous months and rolled over another US$2 billion. On the other hand, officials from the International Monetary Fund (IMF) confirmed that a loan agreement between Pakistan and the IMF would be signed once a few remaining issues, including a proposed fuel pricing scheme, are resolved. The agreement would release US$1.1 billion to the country, which has been struggling due to a lack of foreign reserves to cover necessary imports. The latest issue is the plan announced by PM Shehbaz Sharif to charge more for fuel for affluent consumers and use the money raised to subsidize prices for the poor. The fuel pricing scheme was not discussed with the IMF, and they will ask the government for more details about the proposal.
+After months of waiting, the ship recyclers could expect to resume buying as the State Bank of Pakistan has removed the condition of depositing upto 100% payment in advance for the import of hundreds of items. Pakistan has reopened imports of the full range of goods by removing the restriction imposed on the imports of 826 items from time to time between 2107 to 2022
+
+The central bank said in a circular on Friday, "it has been decided to withdraw existing cash margin requirement/ CMR (advance payment) on import of items with effect from March 31, 2023."
+
+The good news was the raw material for cement, and steel was one of the items on the list, which will help the recyclers to resume buying ships.
+
+This action by Pakistan was after China provided US$1.7 billion over the previous months and rolled over another US$2 billion.
+
+On the other hand, officials from the International Monetary Fund (IMF) confirmed that a loan agreement between Pakistan and the IMF would be signed once a few remaining issues, including a proposed fuel pricing scheme, are resolved. The agreement would release US$1.1 billion to the country, which has been struggling due to a lack of foreign reserves to cover necessary imports.
+
+The latest issue is the plan announced by PM Shehbaz Sharif to charge more for fuel for affluent consumers and use the money raised to subsidize prices for the poor. The fuel pricing scheme was not discussed with the IMF, and they will ask the government for more details about the proposal.
+
+### Anchorage & Beaching Position (March 2023)
+
+| VESSEL NAME | TYPE | LDT | ARRIVAL | BEACHING |
+| --- | --- | --- | --- | --- |
+| MADINA 1 | TANKER | 1,657 | 03.03.2023 | 20.03.2023 |
 
 ## ALIAGA, TURKEY
 
@@ -267,15 +328,39 @@ Imported scrap prices in Turkey are declining due to an oversupply of scrap as d
 
 ## Page 14
 
-### Bunker Prices (USD / ton)
+markets, which has resulted in a bearish sentiment. As a result, mills are holding back on scrap purchases, exerting pressure on prices.
 
-| PORT | VLSFO (0.5%) | HSFO (3.5%) | MGO (0.1%) |
-| :--- | :---: | :---: | :---: |
+However, there is an increase in the number of offers in the market, with European merchants reducing their prices, although suppliers of premium HMS 1&2 80:20 are trying to maintain their offers above US$460/tonne CFR Turkey, which is not feasible in the current conditions. Market participants expect a downward trend in prices rather than an upward one, with scrap prices likely to soften by US$10-15/ton.
+
+# BEACHING TIDE DATES 2023
+
+Chattogram, Bangladesh : 6th ~ 9th April | 20th ~ 23rd April
+
+Alang, India : 19th ~ 26th March | 6th ~ 12th April
+
+# Bunker Prices
+
+#### BUNKER PRICES (USD/TON)
+
+| PORTS | VLSFO (0.5%) | IFO380 CST | MGO (0.1%) |
+| --- | --- | --- | --- |
 | SINGAPORE | 564 | 416 | 743 |
 | HONG KONG | 584 | 435 | 759 |
 | FUJAIRAH | 566 | 414 | 1047 |
 | ROTTERDAM | 530 | 380 | 759 |
 | HOUSTON | 571 | 387 | 828 |
+
+# Exchange Rates
+
+#### EXCHANGE RATES
+
+|  | 24th MARCH | 17th MARCH | W-O-W % CHANGE |
+| --- | --- | --- | --- |
+| USD / CNY (CHINA) | 6.86 | 6.88 | +0.29% |
+| USD / BDT (BANGLADESH) | 105.19 | 107.16 | +1.84% |
+| USD / INR (INDIA) | 82.34 | 82.56 | +0.27% |
+| USD / PKR (PAKISTAN) | 278.81 | 283.25 | +1.57% |
+| USD / TRY (TURKEY) | 19.03 | 19.01 | -0.11% |
 
 ## Page 15
 

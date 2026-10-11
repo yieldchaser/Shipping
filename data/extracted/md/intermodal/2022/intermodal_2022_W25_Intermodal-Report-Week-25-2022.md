@@ -396,7 +396,7 @@ Last week, the newbuilding sector recorded a strong level of activity across mos
 # Demolition Market
 ## Indicative Demolition Prices ($/ldt)
 
-| Markets | Markets | 24/06/2022 | 17/06/2022 | ±% | 2021 | 2020 |
+| Markets | 24/06/2022 | 17/06/2022 | ±% | 2021 | 2020 | 2019 |
 | --- | --- | --- | --- | --- | --- | --- |
 | Tanker |  |  |  |  |  |  |
 | Bangladesh | 610 | 610 | 0.0% | 542 | 348 | 410 |

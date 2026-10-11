@@ -91,40 +91,35 @@ West Africa's market fell 2 points to WS91 for Nigeria/UKC trips mid-week, influ
 
 ## Page 6
 
-Aframax:
+# Aframax:
 
 The Aframax market in the Middle East started the week on a softer note due to sluggish demand. In the North Sea, 80,000mt x-UKC climbs 2.5 points to WS110 at week's closing. In the Med however, oversupply saw discounts in rates with Ceyhan/Lavera falling to WS130, losing some 15 points.
 
-Clean:
+# Clean:
 
-**LR: The LR2 MEG market has seen a shift at the start of the week. The return to business**
+LR: The LR2 MEG market has seen a shift at the start of the week. The return to business has triggered a surge in demand across East of Suez routes. However, some rate corrections were observed as charterers respond to these steep increases by potentially shifting their cargoes to smaller vessels. TC1 remains at WS125. LR1 also fared well end week as TC5 snagged to close slightly higher at WS137.
 
-has triggered a surge in demand across East of Suez routes. However, some rate corrections were observed as charterers respond to these steep increases by potentially shifting their cargoes to smaller vessels. TC1 remains at WS125. LR1 also fared well end week as TC5 snagged to close slightly higher at WS137.
-
-**MR: MR market in the Far East is riding the coattails of the LR segment's surge, finishing**
-
-the week on a firmly positive note. MEG also did well with TC17 to East Africa gaining some 16 points to close at WS207.
+MR: MR market in the Far East is riding the coattails of the LR segment's surge, finishing the week on a firmly positive note. MEG also did well with TC17 to East Africa gaining some 16 points to close at WS207.
 
 ## Baltic Exchange Tanker Indices
 
-| INDICES | CURRENT | LAST WEEK |
-|---|---|---|
-| BDTI | 911 | 910 |
-| BCTI | 717 | 666 |
+| INDICES | CURRENT | LAST WEEK | LAST YEAR | W-O-W CHANGE | Y-O-Y CHANGE |
+| --- | --- | --- | --- | --- | --- |
+| BDTI | 911 | 910 | 1,237 | +0.11% | -26.35% |
+| BCTI | 717 | 666 | 1,044 | +7.66% | -31.32% |
 
-LAST YEAR W-O-W CHANGE 1,237 +0.11% 1,044 +7.66%
+# Tankers Values
 
-Y-O-Y CHANGE -26.35% -31.32%
+(Weekly)
 
-| TYPE | DWT | Tankers Values (Weekly) NB CONTRACT | Tankers Values (Weekly) NB PROMPT | 5 YEARS | 10 YEARS | 15 YEARS |
+| TYPE | DWT | NB CONTRACT | NB PROMPT DELIVERY | 5 YEARS | 10 YEARS | 15 YEARS |
 | --- | --- | --- | --- | --- | --- | --- |
-|  |  |  | DELIVERY |  |  |  |
 | VLCC | 310,000 | 98 | 109 | 82 | 62 | 35 |
 | SUEZMAX | 160,000 | 64 | 72 | 55 | 40 | 26 |
 | AFRAMAX | 115,000 | 51 | 58 | 43 | 33 | 19 |
 | LR1 | 73,000 | 45 | 47 | 37 | 26 | 17 |
 | MR | 51,000 | 37 | 39 | 31 | 23 | 15 |
-| *(amount in USD million) |  |  |  |  |  |  |
+| *(amount in USD million) | *(amount in USD million) | *(amount in USD million) | *(amount in USD million) | *(amount in USD million) | *(amount in USD million) | *(amount in USD million) |
 
 ## Page 7
 
@@ -271,15 +266,39 @@ Another tepid week in Turkey recycling market with not much activity to boot. Th
 
 ## Page 16
 
----
+# BEACHING TIDE DATES 2025
 
-Sub-Continent and Turkey ferrous scrap markets insight
+Chattogram, Bangladesh : 28 February ~ 03 March | 14 ~ 17 March
+
+Alang, India : 26 February ~ 05 March | 13 March ~ 18 March
+
+#### BUNKER PRICES (USD/ton)
+
+| PORTS | VLSFO (0.5%) | HSFO (3.5%) | MGO (0.1%) |
+| --- | --- | --- | --- |
+| SINGAPORE | 570 | 505 | 896 |
+| HONG KONG | 583 | 522 | 706 |
+| FUJAIRAH | 567 | 488 | 768 |
+| ROTTERDAM | 540 | 467 | 681 |
+| HOUSTON | 570 | 464 | 740 |
+
+#### EXCHANGE RATES
+
+| CURRENCY | February 21 | February 14 | W-O-W % CHANGE |
+| --- | --- | --- | --- |
+| USD / CNY (CHINA) | 7.25 | 7.25 | 0 |
+| USD / BDT (BANGLADESH) | 121.53 | 121.54 | +0.01% |
+| USD / INR (INDIA) | 86.70 | 86.69 | -0.01% |
+| USD / PKR (PAKISTAN) | 279.39 | 279.34 | -0.02% |
+| USD / TRY (TURKEY) | 36.44 | 36.22 | -0.61% |
+
+# Sub-Continent and Turkey ferrous scrap markets insight
 
 The sub-continent imported scrap market continued its subdued pace this week, weighed down by weak domestic steel demand, currency fluctuations, and a slowdown ahead of Ramadan.
 
 ### India:
 
-India's market remains muted as ample domestic scrap supplies and sluggish steel sales have kept buyers on the sidelines. Offers for shredded scrap from the UK and Europe were quoted at US$375-380 /ton CFR Nhava Sheva, while bids lagged slightly at US$370-375 /ton. Similarly, HMS (80:20) sourced from West Africa and Europe traded at lower levels, around US$345-355 /ton CFR. Despite sellers holding firm, buyers' calls for
+India's market remains muted as ample domestic scrap supplies and sluggish steel sales have kept buyers on the sidelines. Offers for shredded scrap from the UK and Europe were quoted at US$375–380 /ton CFR Nhava Sheva, while bids lagged slightly at US$370–375 /ton. Similarly, HMS (80:20) sourced from West Africa and Europe traded at lower levels, around US$345–355 /ton CFR. Despite sellers holding firm, buyers' calls for
 
 ## Page 17
 

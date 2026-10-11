@@ -93,9 +93,24 @@ BALTIC EXCHANGE DRY BULK INDICES
 
 ## Page 4
 
+#### BULKER 12 MONTHS T/C RATES AVERAGE (IN USD/DAY)
+
+|  | DWT | CURRENT | LAST WEEK | LAST YEAR | W-O-W CHANGE % | Y-O-Y CHANGE % |
+| --- | --- | --- | --- | --- | --- | --- |
+| CAPE | 180,000 | 20,000 | 21,000 | 27,750 | -4.76% | -27.93% |
+| PANAMAX | 75,000 | 16,300 | 16,000 | 25,750 | +1.88% | -36.70% |
+| SUPRAMAX | 52,000 | 15,500 | 16,000 | 24,000 | -3.13% | -35.42% |
+| HANDYSIZE | 32,000 | 12,150 | 13,150 | 21,000 | -7.60% | -42.14% |
+
+Dry Bulk 1 year T/C rates
+
 # Tankers
 
-The E.U.'s ban on seaborne imports of Russian refined oil products, which came into effect on February 5, has caused significant disruption to traditional oil shipping routes and a surge in fuel shipping prices. Tankers carrying petroleum products are now in higher demand, and the average rates for shipping fuels have more than doubled since the ban was implemented. Russia has redirected its diesel and other petroleum products to North Africa and Asia, with these regions becoming key export outlets. Meanwhile, Northwest Europe has resorted to purchasing more diesel and other fuels from the Middle East, Asia, and North America to replace the lost Russian barrels. Countries in North Africa have started importing Russian oil products, but there is uncertainty about whether they will consume them or re-export them to Europe after blending them with
+The E.U.'s ban on seaborne imports of Russian refined oil products, which came into effect on February 5, has caused significant disruption to traditional oil shipping routes and a surge in fuel shipping prices. Tankers carrying petroleum products are now in higher demand, and the average rates for shipping fuels have more than doubled since the ban was implemented.
+
+Russia has redirected its diesel and other petroleum products to North Africa and Asia, with these regions becoming key export outlets. Meanwhile, Northwest Europe has resorted to purchasing more diesel and other fuels from the Middle East, Asia, and North America to replace the lost Russian barrels.
+
+Countries in North Africa have started importing Russian oil products, but there is uncertainty about whether they will consume them or re-export them to Europe after blending them with
 
 ## Page 5
 
@@ -169,17 +184,24 @@ CHEM
 
 # Baltic Exchange Tanker Indices
 
+#### BALTIC EXCHANGE TANKER INDICES
+
+|  | CURRENT | LAST WEEK | LAST YEAR | W-O-W CHANGE % | Y-O-Y CHANGE % |
+| --- | --- | --- | --- | --- | --- |
+| BDTI | 1,242 | 1,319 | 1,714 | -5.84% | -27.54% |
+| BCTI | 958 | 1,014 | 1,076 | -5.52% | -10.97% |
+
+Tanker 1 year T/C rates
+
 # Containers
 
 T.C. for the container is steadily increasing this week due to China being a source of new requirements, with a focus on units less than 3000 TEU capacity. Larger vessels are particularly in demand, and fixtures for periods longer than 12 months are becoming commonplace due to tight supply. In March, the average fixture duration increased by 51% m-o-m to around 11 months, which is in line with the 10-year average. The SCFI has also increased by 8% w-o-w to 1034 points due to rising rates on some mainline routes, with the Shanghai-US West Coast route rate surging by 29% to US$1,668/FEU, and the Shanghai-Northern Europe route rate remaining steady at US$871/TEU.
 
 # Containers S&P Report
 
-**VESSEL NAME TYPE TEU YEAR BUILT PRICE COMMENTS /**
-
-## (MILLION) USD BUYERS
-
-NO NEW SALE REPORTED
+| VESSEL NAME | TYPE | TEU | YEAR BUILT | PRICE (MILLION) USD | COMMENTS / BUYERS |
+| --- | --- | --- | --- | --- | --- |
+| NO NEW SALE REPORTED | NO NEW SALE REPORTED | NO NEW SALE REPORTED | NO NEW SALE REPORTED | NO NEW SALE REPORTED | NO NEW SALE REPORTED |
 
 ## Page 8
 
@@ -200,29 +222,31 @@ NO NEW SALE REPORTED
 
 # Ship Recycling Market Snapshot
 
-| DESTINATION | TANKERS | BULKERS | MPP/ GENERAL | CONTAINERS | SENTIMENTS / WEEKLY FUTURE |
-|---|---|---|---|---|---|
-| *For green ship recycling, the prices are about | 540 ~ 550 | 520 ~ 530 | 530 ~ 540 | 570 ~ 580 | WEAK / |
-| CHATTOGRAM, BANGLADESH | \*580 ~ 590 | \*560 ~ 570 | \*540 ~ 550 | \*600 ~ 610 | STABLE / |
+| DESTINATION | TANKERS | BULKERS | MPP/ GENERAL CARGO | CONTAINERS | SENTIMENTS / WEEKLY FUTURE TREND |
+| --- | --- | --- | --- | --- | --- |
+| ALANG (WC INDIA) *For green ship recycling, the prices are about US$25-30/ton lower. | 540 ~ 550 | 520 ~ 530 | 530 ~ 540 | 570 ~ 580 | WEAK / |
+| CHATTOGRAM, BANGLADESH | *580 ~ 590 | *560 ~ 570 | *540 ~ 550 | *600 ~ 610 | STABLE / |
 | GADDANI, PAKISTAN | NA | NA | NA | NA | NA |
-| TURKEY \*For Non-EU ships. For E.U. Ship, the prices are about US$30-40/ton less | 320 ~ 330 | 310 ~ 320 | 300 ~ 310 | 330 ~ 340 | STABLE / |
+| TURKEY *For Non-EU ships. For E.U. Ship, the prices are about US$30-40/ton less | 320 ~ 330 | 310 ~ 320 | 300 ~ 310 | 330 ~ 340 | STABLE / |
 
-- All prices are USD per light displacement tonnage in the long ton.
-- The prices reported are net prices offered by the recycling yards.
-- Prices quoted are basis simple Japanese / Korean-built tonnages trading units. Premiums are paid on top of the above- quoted prices based on quality & quality of Spares, Non-Fe., bunkers, cargo history, and maintenance.
-- \* Prices are based on the subject Letters of Credit opening and case-to-case buying.
+All prices are USD per light displacement tonnage in the long ton.
+
+The prices reported are net prices offered by the recycling yards.
+
+Prices quoted are basis simple Japanese / Korean-built tonnages trading units. Premiums are paid on top of the above-quoted prices based on quality & quality of Spares, Non-Fe., bunkers, cargo history, and maintenance.
+
+* Prices are based on the subject Letters of Credit opening and case-to-case buying.
 
 ## 5-Year Ship Recycling Average Historical Prices
 
 (Week 15)
 
-```text
-DESTINATION 2018 2019 2020 2021 2022
-ALANG, INDIA 450 450 380 470 680
-CHATTOGRAM, BANGLADESH 430 455 350 480 665
-GADDANI, PAKISTAN 420 430 340 470 675
-ALIAGA, TURKEY 290 280 210 255 460
-```
+| DESTINATION | 2018 | 2019 | 2020 | 2021 | 2022 |
+| --- | --- | --- | --- | --- | --- |
+| ALANG, INDIA | 450 | 450 | 380 | 470 | 680 |
+| CHATTOGRAM, BANGLADESH | 430 | 455 | 350 | 480 | 665 |
+| GADDANI, PAKISTAN | 420 | 430 | 340 | 470 | 675 |
+| ALIAGA, TURKEY | 290 | 280 | 210 | 255 | 460 |
 
 ## Page 10
 
@@ -305,10 +329,32 @@ This week, the International Monetary Fund (I.M.F.) has expressed its approval o
 
 ## Page 14
 
-### Bunker Prices (USD / ton)
+Meanwhile, the ship recycling industry in Pakistan has been in a state of paralysis for the past 6 months, with no apparent signs of improvement.
 
-| PORT | VLSFO (0.5%) | HSFO (3.5%) | MGO (0.1%) |
-| :--- | :---: | :---: | :---: |
+# Anchorage & Beaching Position (April 2023)
+
+| VESSEL NAME | TYPE | LDT | ARRIVAL | BEACHING |
+| --- | --- | --- | --- | --- |
+| - | - | - | - | - |
+
+# ALIAGA, TURKEY
+
+Global prices for ferrous scrap have experienced another drop this week. The decline was prompted by Turkey, a major player in the market, which resumed purchasing at lower prices after a brief pause. This development led to a reduction in overall market prices towards the end of the week.
+
+Despite the ongoing depreciation of the Turkish lira, some steel mills in Turkey have reduced their domestic scrap buying prices and are turning to imported scrap instead. A western Turkish long steel mill recently purchased EU-origin H.M.S. 1&2 80:20 for US$427.5 per tonne C.F.R. Turkey on Tuesday, following two US-origin deals since the previous Friday. On Wednesday, Turkish shipbreaking scrap prices were mainly around US$435-436 per tonne delivered, although one western mill paid US$425 per tonne. At the close of business midweek, the lira was valued at 19.34 per dollar.
+
+# BEACHING TIDE DATES 2023
+
+Chattogram, Bangladesh: 20th ~ 23rd April | 5th ~ 8th May
+
+Alang, India: 18th ~ 25th April | 4th ~ 11th May
+
+# Bunker Prices
+
+#### BUNKER PRICES (USD/TON)
+
+| PORTS | VLSFO (0.5%) | IFO380 CST | MGO (0.1%) |
+| --- | --- | --- | --- |
 | SINGAPORE | 621 | 502 | 760 |
 | HONG KONG | 634 | 507 | 753 |
 | FUJAIRAH | 621 | 479 | 1053 |

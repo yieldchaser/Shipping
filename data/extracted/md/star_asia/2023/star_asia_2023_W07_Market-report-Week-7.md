@@ -88,9 +88,24 @@ BALTIC EXCHANGE DRY BULK INDICES
 
 ## Page 4
 
+#### BULKER 12 MONTHS T/C RATES AVERAGE (IN USD/DAY)
+
+|  | DWT | CURRENT | LAST WEEK | LAST YEAR | W-O-W CHANGE % | Y-O-Y CHANGE % |
+| --- | --- | --- | --- | --- | --- | --- |
+| CAPE | 180,000 | 14,350 | 15,000 | 26,000 | -4.33% | -44.81% |
+| PANAMAX | 75,000 | 13,200 | 13,700 | 24,500 | -3.65% | -46.12% |
+| SUPRAMAX | 52,000 | 12,750 | 12,500 | 26,250 | +2.00% | -51.43% |
+| HANDYSIZE | 32,000 | 10,150 | 9,750 | 23,350 | +4.10% | -56.53% |
+
+# Dry Bulk 1 year T/C rates
+
 ## Tankers
 
-China appears to be making direct moves in Iraq to advance its interests in the country's oil reserves. Iraq's latest Oil Minister, Hayan Abdul Ghani, announced that the country had awarded six oil concessions to three companies from China and the United Arab Emirates. Additionally, PetroChina is expected to become the sole lead operator of Iraq's supergiant West Qurna 1 oil field, taking over from ExxonMobil, which is set to sell its 32.7% stake in the site. Although PetroChina bought a similar stake in the field at around the same time as ExxonMobil, it has gradually become the dominant partner in West Qurna 1 through several under-the-radar deals. The supergiant oil field holds a significant portion of Iraq's 43 billion barrels of recoverable reserves, and Iraq's Oil Ministry plans to boost its crude oil production capacity to more than 700,000 barrels per day by the end of 2025. These deals and projects demonstrate China's careful operational methods to accrete power across Iraq and Iran. Meanwhile, China's state-held refiners, PetroChina and Sinopec, have resumed purchasing Russia's Urals crude after a brief hiatus during the E.U. embargo and the G7 price cap on Russian crude. The refiners are buying Urals crude at deep discounts via trading companies without breaching the sanctions. The resumption of trading is beneficial for Chinese refiners, as
+China appears to be making direct moves in Iraq to advance its interests in the country's oil reserves. Iraq's latest Oil Minister, Hayan Abdul Ghani, announced that the country had awarded six oil concessions to three companies from China and the United Arab Emirates. Additionally, PetroChina is expected to become the sole lead operator of Iraq's supergiant West Qurna 1 oil field, taking over from ExxonMobil, which is set to sell its 32.7% stake in the site.
+
+Although PetroChina bought a similar stake in the field at around the same time as ExxonMobil, it has gradually become the dominant partner in West Qurna 1 through several under-the-radar deals. The supergiant oil field holds a significant portion of Iraq's 43 billion barrels of recoverable reserves, and Iraq's Oil Ministry plans to boost its crude oil production capacity to more than 700,000 barrels per day by the end of 2025. These deals and projects demonstrate China's careful operational methods to accrete power across Iraq and Iran.
+
+Meanwhile, China's state-held refiners, PetroChina and Sinopec, have resumed purchasing Russia's Urals crude after a brief hiatus during the E.U. embargo and the G7 price cap on Russian crude. The refiners are buying Urals crude at deep discounts via trading companies without breaching the sanctions. The resumption of trading is beneficial for Chinese refiners, as
 
 ## Page 5
 
@@ -192,29 +207,31 @@ The number of scrapped container ships has doubled in 2023 compared to the whole
 
 ## Ship Recycling Market Snapshot
 
-| DESTINATION | TANKERS | BULKERS | MPP/ GENERAL | CONTAINERS | SENTIMENTS / WEEKLY FUTURE |
-|---|---|---|---|---|---|
-| *For green ship recycling, the prices are about | 530 ~ 540 | 520 ~ 530 | 510 ~ 520 | 540 ~ 550 | WEAK / |
-| CHATTOGRAM, BANGLADESH | \*550 ~ 560 | \*540 ~ 550 | \*530 ~ 540 | \*590 ~ 600 | STABLE / |
+| DESTINATION | TANKERS | BULKERS | MPP/ GENERAL CARGO | CONTAINERS | SENTIMENTS / WEEKLY FUTURE TREND |
+| --- | --- | --- | --- | --- | --- |
+| ALANG (WC INDIA) *For green ship recycling, the prices are about US$25-30/ton lower. | 530 ~ 540 | 520 ~ 530 | 510 ~ 520 | 540 ~ 550 | WEAK / |
+| CHATTOGRAM, BANGLADESH | *550 ~ 560 | *540 ~ 550 | *530 ~ 540 | *590 ~ 600 | STABLE / |
 | GADDANI, PAKISTAN | NA | NA | NA | NA | NA |
-| TURKEY \*For Non-EU ships. For E.U. Ship, the prices are about US$30-40/ton less | 320 ~ 330 | 310 ~ 320 | 300 ~ 310 | 330 ~ 340 | STABLE / |
+| TURKEY *For Non-EU ships. For E.U. Ship, the prices are about US$30-40/ton less | 320 ~ 330 | 310 ~ 320 | 300 ~ 310 | 330 ~ 340 | STABLE / |
 
-- All prices are USD per light displacement tonnage in the long ton.
-- The prices reported are net prices offered by the recycling yards.
-- Prices quoted are basis simple Japanese / Korean-built tonnages trading units. Premiums are paid on top of the above- quoted prices based on quality & quality of Spares, Non-Fe., bunkers, cargo history, and maintenance.
-- \* Prices are based on the subject Letters of Credit opening and case-to-case buying.
+All prices are USD per light displacement tonnage in the long ton.
+
+The prices reported are net prices offered by the recycling yards.
+
+Prices quoted are basis simple Japanese / Korean-built tonnages trading units. Premiums are paid on top of the above-quoted prices based on quality & quality of Spares, Non-Fe., bunkers, cargo history, and maintenance.
+
+* Prices are based on the subject Letters of Credit opening and case-to-case buying.
 
 ### 5-Year Ship Recycling Average Historical Prices
 
 (Week 7)
 
-```text
-DESTINATION 2018 2019 2020 2021 2022
-ALANG, INDIA 460 440 400 435 615
-CHATTOGRAM, BANGLADESH 440 440 380 435 635
-GADDANI, PAKISTAN 420 420 370 410 610
-ALIAGA, TURKEY 290 270 240 245 340
-```
+| DESTINATION | 2018 | 2019 | 2020 | 2021 | 2022 |
+| --- | --- | --- | --- | --- | --- |
+| ALANG, INDIA | 460 | 440 | 400 | 435 | 615 |
+| CHATTOGRAM, BANGLADESH | 440 | 440 | 380 | 435 | 635 |
+| GADDANI, PAKISTAN | 420 | 420 | 370 | 410 | 610 |
+| ALIAGA, TURKEY | 290 | 270 | 240 | 245 | 340 |
 
 ## Page 10
 
@@ -310,15 +327,41 @@ Senior analysts at Moody's believe that inflation in Pakistan could average 33% 
 
 ## Page 14
 
-### Bunker Prices (USD / ton)
+# ALIAGA, TURKEY
 
-| PORT | VLSFO (0.5%) | HSFO (3.5%) | MGO (0.1%) |
-| :--- | :---: | :---: | :---: |
+Most Turkish mills are keeping their domestic scrap buying prices steady this week while imported scrap prices continue to fall. Although mills' demand for scrap has not fully recovered after the earthquake on February 6 and imported scrap prices continue to fall, scrap suppliers are more optimistic due to the Turkish government's plans to reconstruct earthquake-hit areas.
+
+Southern Turkish mills are expected to resume production soon, while the domestic rebar market is subdued. Turkish shipbreaking scrap prices are at US$330-350/t delivered, and the lira was at 18.82 to a U.S dollar on Friday's closing.
+
+# BEACHING TIDE DATES 2022
+
+Chattogram, Bangladesh : 21st ~ 24th Feb. | 9th March ~ 12th March
+
+Alang, India : 18th Feb. ~ 25th Feb. | 7th March ~ 13th March
+
+# Bunker Prices
+
+#### BUNKER PRICES (USD/TON)
+
+| PORTS | VLSFO (0.5%) | IFO380 CST | MGO (0.1%) |
+| --- | --- | --- | --- |
 | SINGAPORE | 653 | 433 | 823 |
 | HONG KONG | 661 | 485 | 852 |
 | FUJAIRAH | 644 | 414 | 1112 |
 | ROTTERDAM | 594 | 416 | 799 |
 | HOUSTON | 628 | 418 | 852 |
+
+# Exchange Rates
+
+#### EXCHANGE RATES
+
+|  | 17th FEBRUARY | 10th FEBRUARY | W-O-W % CHANGE |
+| --- | --- | --- | --- |
+| USD / CNY (CHINA) | 6.86 | 6.80 | -0.88% |
+| USD / BDT (BANGLADESH) | 105.81 | 104.65 | -1.11% |
+| USD / INR (INDIA) | 82.81 | 82.51 | -0.36% |
+| USD / PKR (PAKISTAN) | 262.85 | 271.49 | +3.18% |
+| USD / TRY (TURKEY) | 18.82 | 18.82 | 0.00% |
 
 ## Page 15
 

@@ -55,24 +55,11 @@ This discussion is also becoming increasingly important because forecasts for pe
 
 ## Figure 1 Oil production by type and average annual change, 2000-2024
 
-| Year | Onshore conventional crude | Natural gas liquids | Shallow water conventional crude | Deepwater conventional crude | Tight oil | Extra-heavy oil and bitumen | Other |
-| ---- | -------------------------- | ------------------- | -------------------------------- | ---------------------------- | --------- | --------------------------- | ----- |
-| 2000 | 38                         | 10                  | 7                                | 3                            | 1         | 1                           | 6     |
-| 2005 | 40                         | 12                  | 8                                | 4                            | 2         | 1                           | 7     |
-| 2010 | 42                         | 14                  | 9                                | 5                            | 3         | 2                           | 8     |
-| 2015 | 43                         | 16                  | 10                               | 6                            | 4         | 2                           | 9     |
-| 2020 | 41                         | 15                  | 11                               | 7                            | 5         | 3                           | 10    |
-| 2024 | 40                         | 16                  | 12                               | 8                            | 6         | 3                           | 11    |
+> **Chart not transcribed.** The figure prints no values; the table the parser estimated from the image was removed. See the source PDF.
 
 ## Figure 6 Natural gas production by type and average annual change, 2000-2024
 
-| Year | Conventional: Onshore | Conventional: Offshore | Unconventional: Tight gas | Unconventional: Shale gas | Other |
-| :--- | :--- | :--- | :--- | :--- | :--- |
-| 2000-05 | 30 | 15 | 5 | 10 | 5 |
-| 2005-10 | 32 | 18 | 6 | 12 | 6 |
-| 2010-15 | 25 | 10 | 2 | 15 | 8 |
-| 2015-19 | 50 | 20 | 5 | 40 | 5 |
-| 2019-24 | 10 | 5 | -5 | 35 | 5 |
+> **Chart not transcribed.** The figure prints no values; the table the parser estimated from the image was removed. See the source PDF.
 
 Note: Other includes coal-to-liquids, gas-to-liquids, kerogen oil and additives.
 
@@ -182,38 +169,40 @@ An additional tug shall be deployed in Congo for station-keeping during the hook
 
 ## SEPTEMBER 2025 - DAILY NORTH SEA OSV AVAILABILITY
 
+> **Read from the chart.** The report prints no numbers for this chart; each value is the chart line's node for that day, converted with the printed axis labels (vector geometry, not an eyeball estimate).
+
 | Date | PSV 2025 | PSV 2024 | AHTS 2025 | AHTS 2024 |
-| ---- | -------- | -------- | --------- | --------- |
-| 1    | 10       | 5        | 17        | 13.5      |
-| 2    | 14       | 9        | 14        | 14        |
-| 3    | 10.5     | 8        | 11        | 13        |
-| 4    | 9        | 8.5      | 10        | 11        |
-| 5    | 8.5      | 7        | 8         | 10.5      |
-| 6    | 9        | 7        | 8.5       | 10        |
-| 7    | 9.5      | 7.5      | 8         | 9.5       |
-| 8    | 4        | 6        | 8         | 9         |
-| 9    | 2        | 2        | 8         | 9.5       |
-| 10   | 5        | 2.5      | 9         | 10        |
-| 11   | 5        | 2        | 11.5      | 10        |
-| 12   | 4        | 2.5      | 9         | 10.5      |
-| 13   | 4        | 2.5      | 8.5       | 10        |
-| 14   | 4        | 3        | 8.5       | 10        |
-| 15   | 4.5      | 3        | 8         | 10.5      |
-| 16   | 5.5      | 3        | 8         | 10.5      |
-| 17   | 6        | 3.5      | 8.5       | 10        |
-| 18   | 5        | 3.5      | 8.5       | 10        |
-| 19   | 5        | 4        | 8.5       | 10        |
-| 20   | 5        | 4        | 8.5       | 10        |
-| 21   | 5.5      | 4.5      | 9         | 10.5      |
-| 22   | 7        | 7        | 10        | 11        |
-| 23   | 7.5      | 7.5      | 10        | 11.5      |
-| 24   | 7        | 8        | 11        | 16        |
-| 25   | 7        | 7.5      | 5         | 12        |
-| 26   | 8        | 7.5      | 8         | 12        |
-| 27   | 8.5      | 8        | 7.5       | 12        |
-| 28   | 10       | 9        | 7         | 12        |
-| 29   | 10.5     | 10       | 6.5       | 12        |
-| 30   | 10       | 10       | 6         | 12        |
+| --- | --- | --- | --- | --- |
+| 1 | 10 | 5 | 17 | 13 |
+| 2 | 14 | 5 | 15 | 14 |
+| 3 | 10 | 9 | 12 | 13 |
+| 4 | 11 | 9 | 11 | 11 |
+| 5 | 9 | 9 | 8 | 10 |
+| 6 | 9 | 8 | 8 | 11 |
+| 7 | 10 | 6 | 8 | 11 |
+| 8 | 10 | 4 | 8 | 10 |
+| 9 | 6 | 2 | 8 | 10 |
+| 10 | 3 | 5 | 10 | 9 |
+| 11 | 5 | 4 | 11 | 12 |
+| 12 | 5 | 2 | 10 | 9 |
+| 13 | 4 | 2 | 9 | 8 |
+| 14 | 4 | 2 | 9 | 9 |
+| 15 | 4 | 3 | 8 | 9 |
+| 16 | 6 | 3 | 9 | 10 |
+| 17 | 6 | 2 | 8 | 11 |
+| 18 | 5 | 3 | 8 | 9 |
+| 19 | 5 | 4 | 8 | 10 |
+| 20 | 7 | 4 | 9 | 11 |
+| 21 | 8 | 5 | 9 | 11 |
+| 22 | 10 | 7 | 10 | 11 |
+| 23 | 9 | 8 | 10 | 11 |
+| 24 | 7 | 7 | 11 | 16 |
+| 25 | 9 | 7 | 5 | 13 |
+| 26 | 9 | 8 | 8 | 12 |
+| 27 | 10 | 9 | 7 | 12 |
+| 28 | 10 | 9 | 7 | 12 |
+| 29 | 11 | 10 | 6 | 12 |
+| 30 | 10 | 10 | 6 | 12 |
 
 ## NORTH SEA AVERAGE RATES SEPTEMBER 2025
 

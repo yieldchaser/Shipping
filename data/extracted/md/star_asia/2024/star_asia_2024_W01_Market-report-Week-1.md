@@ -100,15 +100,35 @@ The new week has been a positive one for the Suezmax region as activities saw an
 
 ## Page 6
 
-Aframax:
+# Aframax:
 
 This week, 80,000mt cross-UKC has risen to WS180. This is being supported by the USG and Northwest Europe's current unfavourable weather. With such, vessels have gathered in the Atlantic as 70,000mt E.C. Mexico to USG have risen by 75 points to WS252.
 
-Clean:
+# Clean:
 
-L.R.: L.R. market experienced a substantial shortfall in cargoes in the MEG as TC5 fell slightly to WS190. On the UKC, LR1 also faced limited enquiry, with TC16 remaining unchanged at WS208. MR: The MR segment in the MEG also saw a generally softer week, with TC17 coming off some 27 points to close at WS233. There was a general lack of activity, and this was also reflected in the one-year T.C. slipping some 11.6% to US$26,500 a day.
+L.R.: L.R. market experienced a substantial shortfall in cargoes in the MEG as TC5 fell slightly to WS190. On the UKC, LR1 also faced limited enquiry, with TC16 remaining unchanged at WS208.
+
+MR: The MR segment in the MEG also saw a generally softer week, with TC17 coming off some 27 points to close at WS233. There was a general lack of activity, and this was also reflected in the one-year T.C. slipping some 11.6% to US$26,500 a day.
 
 ## Baltic Exchange Tanker Indices
+
+| INDICES | CURRENT | LAST WEEK | LAST YEAR | W-O-W CHANGE | Y-O-Y CHANGE |
+| --- | --- | --- | --- | --- | --- |
+| BDTI | 1,328 | 1,200 | 1,873 | +10.67% | -29.10% |
+| BCTI | 829 | 960 | 2,135 | -13.65% | -61.17% |
+
+# Tankers Values
+
+(Weekly)
+
+| TYPE | DWT | NB CONTRACT | NB PROMPT DELIVERY | 5 YEARS | 10 YEARS | 15 YEARS |
+| --- | --- | --- | --- | --- | --- | --- |
+| VLCC | 310,000 | 128 | 130 | 105 | 75 | 48 |
+| SUEZMAX | 160,000 | 85 | 95 | 78 | 61 | 34 |
+| AFRAMAX | 115,000 | 70 | 83 | 70 | 57 | 28 |
+| PANAMAX-LR1 | 73,000 | 57 | 63 | 51 | 41 | 23 |
+| MR TANKER | 51,000 | 47 | 53 | 43 | 34 | 20 |
+| *(amount in USD million) | *(amount in USD million) | *(amount in USD million) | *(amount in USD million) | *(amount in USD million) | *(amount in USD million) | *(amount in USD million) |
 
 ## Page 7
 
@@ -186,7 +206,23 @@ VESSEL NAME TYPE TEU YEAR BUILT PRICE COMMENTS /
 
 ## Page 11
 
+Ships Sold for Recycling
+
+| VESSEL NAME | LDT / MT | YEAR / BUILT | TYPE | PRICE (US$/LDT) | COMMENTS |
+| --- | --- | --- | --- | --- | --- |
+| MSC SOPHIE | 13,616 | 1993/ S. KOREA | CONTAINER | 565 | DELIVERED ALANG, INDIA WITH 1200MT BUNKERS INCLUDED |
+| AL DHAFIRA | 6,040 | 1987 / GERMANY | ROPAX | 387 | AS IS OMAN, UAE |
+| AT MIDDLE BRIDGE | 3,434 | 1989 / JAPAN | GENERAL CARGO | 504 | DELIVERED ALANG, INDIA |
+
 ## Recycling Ships Price Trend
+
+INDIA SHIP RECYCLING PRICES
+
+BANGLADESH SHIP RECYCLING PRICES
+
+PAKISTAN SHIP RECYCLING PRICES
+
+TURKEY SHIP RECYCLING PRICES
 
 ## Page 12
 
@@ -269,10 +305,10 @@ PORTS VLSFO (0.5%) IFO380 CST MGO (0.1%)
 
 ## Page 18
 
-EXCHANGE RATES
+#### EXCHANGE RATES
 
 | CURRENCY | JANUARY 5 | 29th DECEMBER | W-O-W % CHANGE |
-|---|---|---|---|
+| --- | --- | --- | --- |
 | USD / CNY (CHINA) | 7.13 | 7.09 | -0.56% |
 | USD / BDT (BANGLADESH) | 109.70 | 109.94 | +0.22% |
 | USD / INR (INDIA) | 83.13 | 83.19 | +0.07% |
@@ -281,17 +317,20 @@ EXCHANGE RATES
 
 ## Commodities
 
-**Iron ore futures saw a second consecutive rise on Wednesday, driven by expectations of**
+Iron ore futures saw a second consecutive rise on Wednesday, driven by expectations of additional fiscal stimulus in China. On the Dalian Commodity Exchange, the most–traded May iron ore increased by 2.8% to 1,017.5 yuan (US$142.50) per metric ton at closing. The benchmark February iron ore on the Singapore Exchange was up 0.6% at US$141.76 per metric ton.
 
-additional fiscal stimulus in China. On the Dalian Commodity Exchange, the most-traded May iron ore increased by 2.8% to 1,017.5 yuan (US$142.50) per metric ton at closing. The benchmark February iron ore on the Singapore Exchange was up 0.6% at US$141.76 per metric ton. A report from the OECD revealed three-year forward gross capacity additions of 150 million tons. India and ASEAN are expected to dominate these additions, reflecting a concentration in emerging markets, according to Citi analysts. President Xi Jinping's statement on consolidating and enhancing the positive trend of economic recovery in 2024 has fuelled expectations of more stimulus. However, analysts warn that breaking the psychological level of 1,000 yuan a ton could trigger downside risks from possible government intervention.
+A report from the OECD revealed three-year forward gross capacity additions of 150 million tons. India and ASEAN are expected to dominate these additions, reflecting a concentration in emerging markets, according to Citi analysts.
 
-**Steel benchmarks on the Shanghai Futures Exchange mostly increased, with the most-**
+President Xi Jinping's statement on consolidating and enhancing the positive trend of economic recovery in 2024 has fuelled expectations of more stimulus. However, analysts warn that breaking the psychological level of 1,000 yuan a ton could trigger downside risks from possible government intervention.
 
-active rebar contract strengthening by 0.5%, hot-rolled coil growing by 0.6%, and stainless steel gaining 1.4%. The wire rod remained unchanged. Other steelmaking ingredients, Dalian coking coal and coke, increased by 3.1% and 2.3%, respectively.
+Steel benchmarks on the Shanghai Futures Exchange mostly increased, with the most-active rebar contract strengthening by 0.5%, hot-rolled coil growing by 0.6%, and stainless steel gaining 1.4%. The wire rod remained unchanged. Other steelmaking ingredients, Dalian coking coal and coke, increased by 3.1% and 2.3%, respectively.
 
 Iron Ore
 
-COMMODITY SIZE / GRADE THIS WEEK W-O-W Y-O-Y LAST WEEK LAST YEAR
+| COMMODITY | SIZE / GRADE | THIS WEEK USD / MT | W-O-W | Y-O-Y | LAST WEEK USD / MT | LAST YEAR USD / MT |
+| --- | --- | --- | --- | --- | --- | --- |
+| Iron Ore Fines, CNF Rizhao, China | Fines, Fe 62% (Aust. Origin) | 143 | +2.87% | +22.2% | 139 | 117 |
+| Iron Ore Fines, CNF Qingdao, China | Fines, Fe 62.5% (Brazil Origin) | 144 | +2.12% | +25.2% | 141 | 115 |
 
 ## Page 19
 

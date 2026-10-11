@@ -95,15 +95,36 @@ The West Africa market saw a downward adjustment this week as a decline in intra
 
 ## Page 6
 
-Aframax:
+# Aframax:
 
 The Middle East market continued to see rate increases, sustained by the ongoing shortage of available vessels. Mediterranean market also fared well at closing, with 80,000mt Ceyhan/Lavera climbing to WS187 mark.
 
-Clean:
+# Clean:
 
-LR: The Middle East market concluded the week with rising freight rates. This increase was driven by an improvement in cargo demand, compounded by the ongoing strength in the crude tanker sector. TC1 to Japan gain some 30 points to close at WS185 mark. In the LR1, similar strength was also seen with TC5 also gaining some 30 points to WS188. MR: The Far East market finished the week with slight softening, settling into a steady trend due to limited fixture activity. MRs in the MEG also fared well, similar to the larger sizes with TC17 MEG/E.Africa peaking at WS260 mid-week.
+LR: The Middle East market concluded the week with rising freight rates. This increase was driven by an improvement in cargo demand, compounded by the ongoing strength in the crude tanker sector. TC1 to Japan gain some 30 points to close at WS185 mark. In the LR1, similar strength was also seen with TC5 also gaining some 30 points to WS188.
+
+MR: The Far East market finished the week with slight softening, settling into a steady trend due to limited fixture activity. MRs in the MEG also fared well, similar to the larger sizes with TC17 MEG/E.Africa peaking at WS260 mid-week.
 
 ## Baltic Exchange Tanker Indices
+
+| INDICES | CURRENT | LAST WEEK | LAST YEAR | W-O-W CHANGE | Y-O-Y CHANGE |
+| --- | --- | --- | --- | --- | --- |
+| BDTI | 1,452 | 1,457 | 892 | -0.34% | +62.78% |
+| BCTI | 871 | 811 | 663 | +7.40% | +31.37% |
+
+# Tankers Values
+
+(Weekly)
+
+| TYPE | DWT | NB CONTRACT | NB PROMPT DELIVERY | 5 YEARS | 10 YEARS | 15 YEARS |
+| --- | --- | --- | --- | --- | --- | --- |
+| VLCC | 310,000 | 126 | 147 | 116 (E) | 85(E) | 51 |
+| SUEZMAX | 160,000 | 86 | 93 | 77 (E) | 61 (E) | 40 |
+| AFRAMAX | 115,000 | 75 | 75 | 64 (E) | 50 (E) | 35 |
+| LR1 | 73,000 | 60 | 62 | 51 (E) | 42 (E) | 25 |
+| MR | 51,000 | 49 | 52 | 41 (E) | 31 (E) | 21 |
+
+*(amount in USD million) | (E) – eco units
 
 ## Page 7
 
@@ -125,20 +146,26 @@ LR: The Middle East market concluded the week with rising freight rates. This in
 
 ## Containers
 
-SCFI has retreated to its October level, effectively giving back the gains seen in November, with rates declining across all routes except for Asia and the Mediterranean. This slump reflects the financial fallout of poor third-quarter market conditions, leading to sharply reduced profits for major carriers: CMA CGM reported a 73% y-o-y drop in net profit, HMM saw an 83% decline, and Hapag-Lloyd recorded an 84% drop. The dominant forecast is that market conditions will struggle to improve in 2026, with the container market outlook for next year hinging on the resumption of the Red Sea route and whether stabilised U.S. economic conditions spur inventory replenishment. Meanwhile, demand remains sluggish, particularly on U.S.-bound routes, which are expected to stay weak through March. Economic indicators are below previous years, with the projected growth rate for the year-end shopping season sales at 3.2%, down from 4.8% last year, and major retailer Home Depot has recently downgraded its 2025 forecast, making a near-term demand rebound unlikely.
+SCFI has retreated to its October level, effectively giving back the gains seen in November, with rates declining across all routes except for Asia and the Mediterranean. This slump reflects the financial fallout of poor third-quarter market conditions, leading to sharply reduced profits for major carriers: CMA CGM reported a 73% y-o-y drop in net profit, HMM saw an 83% decline, and Hapag-Lloyd recorded an 84% drop. The dominant forecast is that market conditions will struggle to improve in 2026, with the container market outlook for next year hinging on the resumption of the Red Sea route and whether stabilised U.S. economic conditions spur inventory replenishment.
+
+Meanwhile, demand remains sluggish, particularly on U.S.-bound routes, which are expected to stay weak through March. Economic indicators are below previous years, with the projected growth rate for the year-end shopping season sales at 3.2%, down from 4.8% last year, and major retailer Home Depot has recently downgraded its 2025 forecast, making a near-term demand rebound unlikely.
 
 ## Containers Values
 
-| 5 YEARS | 10 YEARS | 15 YEARS |
-|---|---|---|
-| 20 | 16 | 10 |
-| 29 (E) | 23 (E) | 18 |
-| 39 | 35 | 26 |
-| 66 | - | 41 |
+| CONTAINERS (BY TEU) | GEARED / GEARLESS | NB CONTRACT | NB PROMPT DELIVERY | 5 YEARS | 10 YEARS | 15 YEARS |
+| --- | --- | --- | --- | --- | --- | --- |
+| 900 ~ 1,200 | Geared | 24 | 26 | 20 | 16 | 10 |
+| 1,600 ~ 1,850 | Gearless | 31 | 35 | 29 (E) | 23 (E) | 18 |
+| 2,700 ~ 2,900 | Gearless | 44 | 46 | 39 | 35 | 26 |
+| 5,100 ~ 5,300 | Gearless | 59 | 82 | 66 | - | 41 |
+| * (amount in USD million) / = Eco units | * (amount in USD million) / = Eco units | * (amount in USD million) / = Eco units | * (amount in USD million) / = Eco units | * (amount in USD million) / = Eco units | * (amount in USD million) / = Eco units | * (amount in USD million) / = Eco units |
 
-PRICE COMMENTS /
+S&P Containers Report
 
-(MILLION) USD BUYERS 46.5 TSAKOS COLUMBIA SHIPMANAGEMENT 27.4 CHINESE BUYERS
+| VESSEL NAME | TYPE | TEU | YEAR | BUILT | PRICE (MILLION) USD | COMMENTS / BUYERS |
+| --- | --- | --- | --- | --- | --- | --- |
+| ATLANTICA POWER | PMAX | 4,616 | 2010 | S. KOREA | 46.5 | TSAKOS COLUMBIA SHIPMANAGEMENT |
+| HAPPY LUCKY | SUB PMAX | 2,553 | 2008 | JAPAN | 27.4 | CHINESE BUYERS |
 
 ## Page 9
 
@@ -246,32 +273,43 @@ The Turkish ship recycling market remains unchanged from last. No new changes to
 
 ## Page 16
 
-Chattogram, Bangladesh : 3 ~ 6 December | 21 ~ 24 December Alang, India : 2 ~ 10 December | 18 ~ 26 December
+# BEACHING TIDE DATES 2025
 
----
+Chattogram, Bangladesh : 3 ~ 6 December | 21 ~ 24 December
 
-BUNKER PRICES (USD/ton)
+Alang, India
 
-PORTS VLSFO (0.5%) HSFO (3.5%) MGO (0.1%)
+: 2 ~ 10 December | 18 ~ 26 December
 
+#### BUNKER PRICES (USD/ton)
+
+| PORTS | VLSFO (0.5%) | HSFO (3.5%) | MGO (0.1%) |
+| --- | --- | --- | --- |
 | SINGAPORE | 435 | 355 | 681 |
-|---|---|---|---|
 | HONG KONG | 456 | 383 | 676 |
 | FUJAIRAH | 431 | 327 | 712 |
 | ROTTERDAM | 403 | 356 | 677 |
 | HOUSTON | 434 | 360 | 666 |
 
-EXCHANGE RATES
+#### EXCHANGE RATES
 
 | CURRENCY | November 28 | November 21 | W-O-W % CHANGE |
-|---|---|---|---|
+| --- | --- | --- | --- |
 | USD / CNY (CHINA) | 7.07 | 7.10 | +0.42% |
 | USD / BDT (BANGLADESH) | 122.41 | 122.33 | -0.07% |
 | USD / INR (INDIA) | 89.43 | 89.61 | +0.20% |
 | USD / PKR (PAKISTAN) | 280.61 | 280.6 | 0 |
-| USD / TRY (TURKEY) | 42.49 Sub-Continent and Turkey ferrous scrap markets insights | 42.43 | -0.14% |
+| USD / TRY (TURKEY) | 42.49 | 42.43 | -0.14% |
 
-India The imported ferrous scrap market in India remained steady, reporting active sales into key ports including Nhava Sheva, Mundra, and Chennai. Despite some suppliers still targeting the US$330-$340/ton range for HMS, buyers consistently maintained that trade was not being executed at those higher levels. Conversely, PNS was deemed workable at US$340-$345/ton CFR, sitting notably US$10-$15/ton below its typical range. Actual transaction feedback indicated slightly firmer pricing than the general market discussions suggested. Specifically, offers for UK HMS hovered around US$330/ton CFR, with shredded material priced near US$355/ton, and busheling close to US$361/ton CFR at western ports. Pakistan The imported scrap market in Pakistan held stable, though trading activity remained subdued. Mills are anticipating reduced utilization rates as the winter season approaches. Shredded scrap from Europe and the UK was assessed consistently at
+Sub-Continent and Turkey ferrous scrap markets insights
+
+# India
+
+The imported ferrous scrap market in India remained steady, reporting active sales into key ports including Nhava Sheva, Mundra, and Chennai. Despite some suppliers still targeting the US$330–$340/ton range for HMS, buyers consistently maintained that trade was not being executed at those higher levels. Conversely, PNS was deemed workable at US$340–$345/ton CFR, sitting notably US$10–$15/ton below its typical range. Actual transaction feedback indicated slightly firmer pricing than the general market discussions suggested. Specifically, offers for UK HMS hovered around US$330/ton CFR, with shredded material priced near US$355/ton, and busheling close to US$361/ton CFR at western ports.
+
+# Pakistan
+
+The imported scrap market in Pakistan held stable, though trading activity remained subdued. Mills are anticipating reduced utilization rates as the winter season approaches. Shredded scrap from Europe and the UK was assessed consistently at
 
 ## Page 17
 

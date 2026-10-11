@@ -95,25 +95,39 @@ VLCC saw a surge in the MEG, with weekly rates rising by 24.7% and reaching a ne
 
 ## Page 6
 
-Suezmax:
+# Suezmax:
 
 West African market maintained steady rates despite a temporary slowdown in activity, which followed a surge in Europe-bound rates that had climbed by about 60% since early October. 130,000mt Nigeria/UKC close at WS156.
 
-Aframax:
+# Aframax:
 
 A similarly strong market has taken in the MEG, driven by a tight supply of vessels. This is a result of expanded short-haul crude procurement demand from refineries in India and East Asia following the US sanctions. In the Mediterranean, 80,000mt Ceyhan/Lavera lost 26 points closing at WS187.
 
-Clean:
+# Clean:
 
-**LR: LR2 in the MEG ended the week with rising rates, driven by the sustained, steady flow of**
+LR: LR2 in the MEG ended the week with rising rates, driven by the sustained, steady flow of Far East-bound cargoes typical of the winter season. TC1 closed at WS150. Similarly, in The LR1, MEG also fared well with levels for TC5 to Japan route improving to WS153.
 
-Far East-bound cargoes typical of the winter season. TC1 closed at WS150. Similarly, in The LR1, MEG also fared well with levels for TC5 to Japan route improving to WS153.
-
-**MR: MR segment also closed on the high with MEG routes TC17 climbing to WS246 some 27**
-
-points. This gain was due to a seasonal shift, which resulted in an uptick in demand for smaller, short-haul cargoes. In the UKC, rates have also recovered with TC2 to US-Atlantic closing at WS165.
+MR: MR segment also closed on the high with MEG routes TC17 climbing to WS246 some 27 points. This gain was due to a seasonal shift, which resulted in an uptick in demand for smaller, short-haul cargoes. In the UKC, rates have also recovered with TC2 to US-Atlantic closing at WS165.
 
 ## Baltic Exchange Tanker Indices
+
+| INDICES | CURRENT | LAST WEEK | LAST YEAR | W-O-W CHANGE | Y-O-Y CHANGE |
+| --- | --- | --- | --- | --- | --- |
+| BDTI | 1,457 | 1,453 | 908 | +0.28% | +60.46% |
+| BCTI | 811 | 702 | 627 | +15.53% | +29.35% |
+
+# Tankers Values
+
+(Weekly)
+
+| TYPE | DWT | NB CONTRACT | NB PROMPT DELIVERY | 5 YEARS | 10 YEARS | 15 YEARS |
+| --- | --- | --- | --- | --- | --- | --- |
+| VLCC | 310,000 | 126 | 147 | 116 (E) | 85(E) | 51 |
+| SUEZMAX | 160,000 | 86 | 93 | 77 (E) | 61 (E) | 40 |
+| AFRAMAX | 115,000 | 75 | 75 | 64 (E) | 50 (E) | 35 |
+| LRI | 73,000 | 60 | 62 | 51 (E) | 42 (E) | 25 |
+| MR | 51,000 | 49 | 52 | 41 (E) | 31 (E) | 21 |
+| *(amount in USD million) / (E) – eco units | *(amount in USD million) / (E) – eco units | *(amount in USD million) / (E) – eco units | *(amount in USD million) / (E) – eco units | *(amount in USD million) / (E) – eco units | *(amount in USD million) / (E) – eco units | *(amount in USD million) / (E) – eco units |
 
 ## Page 7
 
@@ -237,40 +251,66 @@ Bangladesh market remains subdued, with its restricted purchasing activity despi
 
 Although numerous for sale vessels are currently circulating in, the low purchasing commitment from recyclers indicates that domestic market capacity remains severely constrained by the economic environment.
 
-Gadani
+Anchorage & Beaching Position (November 2025)
 
-A subdued week in Pakistan, with minimal change from preceding weeks as buyers hesitate to engage due to the ongoing lack of clear direction. Despite this stagnant outlook, which has now persisted for several weeks without any robust indicators of an imminent shift, a notable stability in local plate prices remains. Although the soft scrap market and slow sales volume continue to affect operations, the firmer levels seen in finished plate products suggest the resilience in domestic pricing. Overall, buyers remain cautious in their future engagements.
+| VESSEL NAME | TYPE | LDT | ARRIVAL | BEACHING |
+| --- | --- | --- | --- | --- |
+| LEO | TANKER | 1,788 | 13.11.2025 | AWAITING |
+| RAISSA | TANKER | 9,711 | 11.11.2025 | 17.11.2025 |
+| GULY | TANKER | 13,782 | 11.11.2025 | 19.11.2025 |
+| RANA | BULKER | 8,082 | 10.11.2025 | 19.11.2025 |
+| FU OCEAN | BULKER | 21,338 | 10.11.2025 | 20.11.2025 |
+| NEW PROGRESS | TANKER | 2,147 | 09.11.2025 | 14.11.2025 |
+| SANTA ANA | TANKER | 8,777 | 14.11.2025 | 20.11.2025 |
+| ANG | BARGE | 2,630 | 27.10.2025 | 04.11.2025 |
 
-Aliaga, Turkey
+# Gadani
 
-The Turkish ship recycling market remain similar been noted in the last few weeks. No drastic changes to note as of this week.
+A subdued week in Pakistan, with minimal change from preceding weeks as buyers hesitate to engage due to the ongoing lack of clear direction. Despite this stagnant outlook, which has now persisted for several weeks without any robust indicators of an imminent shift, a notable stability in local plate prices remains.
+
+Although the soft scrap market and slow sales volume continue to affect operations, the firmer levels seen in finished plate products suggest the resilience in domestic pricing. Overall, buyers remain cautious in their future engagements.
+
+Anchorage & Beaching Position (November 2025)
+
+| VESSEL NAME | TYPE | LDT | ARRIVAL | BEACHING |
+| --- | --- | --- | --- | --- |
+| - | - | - | - | - |
+
+# Aliaga, Turkey
+
+The Turkish ship recycling market remain similar been noted in the last few weeks.
+
+No drastic changes to note as of this week.
 
 ## Page 16
 
-Chattogram, Bangladesh : 18 ~ 21 November | 3 ~ 6 December Alang, India : 18 ~ 25 November | 2 ~ 10 December
+# BEACHING TIDE DATES 2025
 
----
+Chattogram, Bangladesh : 18 ~ 21 November | 3 ~ 6 December
 
-BUNKER PRICES (USD/ton)
+Alang, India : 18 ~ 25 November | 2 ~ 10 December
 
-PORTS VLSFO (0.5%) HSFO (3.5%) MGO (0.1%)
+#### BUNKER PRICES (USD/ton)
 
+| PORTS | VLSFO (0.5%) | HSFO (3.5%) | MGO (0.1%) |
+| --- | --- | --- | --- |
 | SINGAPORE | 466 | 385 | 733 |
-|---|---|---|---|
 | HONG KONG | 475 | 408 | 703 |
 | FUJAIRAH | 459 | 357 | 741 |
 | ROTTERDAM | 432 | 402 | 707 |
 | HOUSTON | 452 | 418 | 693 |
 
-EXCHANGE RATES
+#### EXCHANGE RATES
 
 | CURRENCY | November 21 | November 14 | W-O-W % CHANGE |
-|---|---|---|---|
+| --- | --- | --- | --- |
 | USD / CNY (CHINA) | 7.10 | 7.09 | -0.14% |
 | USD / BDT (BANGLADESH) | 122.33 | 122.17 | -0.13% |
 | USD / INR (INDIA) | 89.61 | 88.68 | -1.05% |
 | USD / PKR (PAKISTAN) | 280.6 | 280.75 | +0.05% |
-| USD / TRY (TURKEY) | 42.43 Sub-Continent and Turkey ferrous scrap markets insights | 42.18 | -0.59% |
+| USD / TRY (TURKEY) | 42.43 | 42.18 | -0.59% |
+
+Sub-Continent and Turkey ferrous scrap markets insights
 
 ### India
 

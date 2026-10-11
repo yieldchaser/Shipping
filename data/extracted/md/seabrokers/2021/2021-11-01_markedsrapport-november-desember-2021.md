@@ -128,38 +128,40 @@ Viking Lady (c/o H. Otneim)
 
 ## NOVEMBER 2021 - DAILY NORTH SEA OSV AVAILABILITY
 
+> **Read from the chart.** The report prints no numbers for this chart; each value is the chart line's node for that day, converted with the printed axis labels (vector geometry, not an eyeball estimate).
+
 | Date | PSV 2021 | PSV 2020 | AHTS 2021 | AHTS 2020 |
-| ---- | -------- | -------- | --------- | --------- |
-| 1    | 1        | 10       | 9         | 12        |
-| 2    | 1        | 11       | 9         | 11        |
-| 3    | 0        | 11       | 10        | 10        |
-| 4    | 1        | 12       | 10        | 10        |
-| 5    | 2        | 13       | 10        | 7         |
-| 6    | 2        | 14       | 10        | 7         |
-| 7    | 2        | 15       | 11        | 8         |
-| 8    | 3        | 16       | 11        | 9         |
-| 9    | 4        | 16       | 11        | 10        |
-| 10   | 5        | 16       | 11        | 18        |
-| 11   | 7        | 17       | 7         | 15        |
-| 12   | 7        | 17       | 7         | 16        |
-| 13   | 6        | 16       | 7         | 15        |
-| 14   | 5        | 15       | 6         | 14        |
-| 15   | 5        | 14       | 6         | 8         |
-| 16   | 6        | 13       | 12        | 8         |
-| 17   | 7        | 13       | 13        | 8         |
-| 18   | 6        | 11       | 12        | 8         |
-| 19   | 8        | 11       | 12        | 9         |
-| 20   | 9        | 10       | 12        | 9         |
-| 21   | 10       | 10       | 12        | 9         |
-| 22   | 10       | 10       | 12        | 10        |
-| 23   | 11       | 9        | 13        | 10        |
-| 24   | 13       | 9        | 14        | 10        |
-| 25   | 16       | 9        | 14        | 10        |
-| 26   | 14       | 11       | 11        | 8         |
-| 27   | 18       | 18       | 11        | 8         |
-| 28   | 15       | 14       | 10        | 9         |
-| 29   | 12       | 13       | 10        | 8         |
-| 30   | 12       | 14       | 10        | 8         |
+| --- | --- | --- | --- | --- |
+| 1 | 1 | 12 | 9 | 12 |
+| 2 | 1 | 11 | 10 | 11 |
+| 3 | 0 | 11 | 11 | 10 |
+| 4 | 1 | 10 | 10 | 9 |
+| 5 | 1 | 12 | 10 | 8 |
+| 6 | 2 | 13 | 10 | 7 |
+| 7 | 2 | 14 | 10 | 9 |
+| 8 | 3 | 15 | 11 | 11 |
+| 9 | 4 | 16 | 11 | 13 |
+| 10 | 5 | 13 | 10 | 18 |
+| 11 | 7 | 15 | 10 | 15 |
+| 12 | 6 | 17 | 7 | 16 |
+| 13 | 6 | 16 | 7 | 14 |
+| 14 | 5 | 15 | 6 | 13 |
+| 15 | 5 | 15 | 6 | 13 |
+| 16 | 6 | 14 | 9 | 12 |
+| 17 | 7 | 13 | 13 | 9 |
+| 18 | 6 | 13 | 12 | 8 |
+| 19 | 7 | 11 | 12 | 9 |
+| 20 | 8 | 11 | 12 | 9 |
+| 21 | 9 | 11 | 12 | 9 |
+| 22 | 10 | 10 | 12 | 10 |
+| 23 | 13 | 10 | 13 | 10 |
+| 24 | 14 | 9 | 13 | 9 |
+| 25 | 16 | 9 | 14 | 9 |
+| 26 | 11 | 12 | 11 | 8 |
+| 27 | 11 | 18 | 11 | 10 |
+| 28 | 10 | 16 | 10 | 9 |
+| 29 | 10 | 15 | 10 | 9 |
+| 30 | 12 | 13 | 14 | 8 |
 
 ## RATES & UTILISATION
 
@@ -265,14 +267,7 @@ Viking Lady (c/o H. Otneim)
 
 # END TO END SOFTWARE SOLUTIONS
 
-| Category | Last 30 Days |
-| :--- | :--- |
-| Loading History | Loaded: 2,500 Discharged: 7,500 |
-| Productive Time | Productive Time: 450 Non Productive Time: 300 WOC: 200 |
-| Emissions | Split By Vessel: 500 |
-| Lifts By Location | 1,200 |
-| Average CO2 Consumption By Fixture | 17.15 CO2 kg / day |
-| Average Fuel Consumption By Fixture | 6.22 m³ / day |
+> **Chart not transcribed.** The figure prints no values; the table the parser estimated from the image was removed. See the source PDF.
 
 SOFTWARE SOLUTIONS TO HELP TRANSFORM DATA INTO GREATER EFFICIENCY AND EMISSION REDUCTIONS
 

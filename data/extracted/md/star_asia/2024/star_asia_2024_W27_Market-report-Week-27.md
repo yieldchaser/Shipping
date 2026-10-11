@@ -40,16 +40,36 @@ The Atlantic market is experiencing a quiet start of the week, yet there are sig
 
 cargo inflow from the USG, the potential for significant rate improvements is being constrained by supply pressure from South America. Meanwhile, the Pacific continues to face challenges. The region is grappling with a persistent downward rate, primarily due to sluggish cargo inflow across various routes. Pacific r/v closed at US$14,450's a day.
 
-Handysize:
+# Handysize:
 
 The Pacific market is showing a slightly weak outlook. While there has been a marginal decrease in vessel supply, the inflow of coal cargo remains sluggish. Meanwhile, the Atlantic saw rates improve, driven by steady influx of demand in the USG and Hurricane Beryl, disrupting the supply of ballast vessels heading towards North America. T/A levels closed around US$11,200's a day.
 
 # Baltic Exchange Dry Bulk Indices
 
+| INDICES | CURRENT | LAST WEEK | LAST YEAR | W-O-W CHANGE | Y-O-Y CHANGE |
+| --- | --- | --- | --- | --- | --- |
+| BDI | 1,966 | 2,050 | 993 | -4.10% | +97.99% |
+| BCI | 3,339 | 3,443 | 1,522 | -3.02% | +119.38% |
+| BPI | 1,546 | 1,667 | 971 | -7.26% | +59.22% |
+| BSI | 1,335 | 1,385 | 728 | -3.61% | +83.38% |
+| BHSI | 742 | 763 | 427 | -2.75% | +73.77% |
+
+Dry Bulk Values
+
+(Weekly)
+
+| TYPE | DWT | NB CONTRACT | NB PROMPT DELIVERY | 5 YEARS | 10 YEARS | 15 YEARS |
+| --- | --- | --- | --- | --- | --- | --- |
+| CAPE | 180,000 | 76 | 77 | 64 | 45 | 29 |
+| KAMSARMAX | 82,000 | 37 | 43 | 38 | 29 | 19 |
+| SUPRAMAX | 56,000 | 34 | 42 | 36 | 28 | 16 |
+| HANDY | 38,000 | 30 | 35 | 28 | 21 | 12 |
+| *(amount in USD million) | *(amount in USD million) | *(amount in USD million) | *(amount in USD million) | *(amount in USD million) | *(amount in USD million) | *(amount in USD million) |
+
 Bulker 12 months T/C rates average (in USD/day)
 
-| TYPE | DWT | CURRENT LAST | WEEK LAST | YEAR W-O-W | CHANGE Y-O-Y | CHANGE |
-|---|---|---|---|---|---|---|
+| TYPE | DWT | CURRENT | LAST WEEK | LAST YEAR | W-O-W CHANGE | Y-O-Y CHANGE |
+| --- | --- | --- | --- | --- | --- | --- |
 | CAPESIZE | 180,000 | 21,500 | 22,000 | 14,750 | -2.27% | +45.76% |
 | PANAMAX | 75,000 | 15,000 | 15,400 | 11,500 | -2.60% | +30.43% |
 | SUPRAMAX | 58,000 | 15,000 | 15,000 | 10,750 | 0 | +39.53% |
@@ -98,15 +118,35 @@ Suezmax faced challenges this week with USG seeing weakness, prompting some Atla
 
 note due to lackluster demand. 130,000mt Nigeria/UKC fell some 10 points to WS100.
 
-Aframax:
+# Aframax:
 
 In the MEG, markets closed lower, pressured by stagnant demand and continued weakness in the larger segments. There is a noticeable lack of demand in the region. On the Med route, demand seems to be picking up, but owners faced some resistance pushing rates higher. 80,000mt Ceyhan/Lavera closed the week at WS152 levels.
 
-Clean:
+# Clean:
 
-LR: Despite an increase in fixtures at the start of the week for MEG/Far East routes, LR2 saw a significant downturn. Levels closed at WS180, marking discounts of 18 points. Similar was also noted in the LR1 in the UKC region with little activities recorded. TC16 closed the week lower at WS138. MR: MEG markets fared badly this week with TC17 to E.Africa falling some 55 points to WS248. This is expected to continue next week due to mounting pressure in the region. In the Far East, the market initially saw rates improve, driven by a surge in cargo influx. However, this was tempered as charterers felt the pinch of rising rates, with cargo conversion to LR tankers for B/H voyages.
+LR: Despite an increase in fixtures at the start of the week for MEG/Far East routes, LR2 saw a significant downturn. Levels closed at WS180, marking discounts of 18 points. Similar was also noted in the LRI in the UKC region with little activities recorded. TC16 closed the week lower at WS138.
+
+MR: MEG markets fared badly this week with TC17 to E.Africa falling some 55 points to WS248. This is expected to continue next week due to mounting pressure in the region. In the Far East, the market initially saw rates improve, driven by a surge in cargo influx. However, this was tempered as charterers felt the pinch of rising rates, with cargo conversion to LR tankers for B/H voyages.
 
 # Baltic Exchange Tanker Indices
+
+| INDICES | CURRENT | LAST WEEK | LAST YEAR | W-O-W CHANGE | Y-O-Y CHANGE |
+| --- | --- | --- | --- | --- | --- |
+| BDTI | 1,108 | 1,150 | 934 | -3.65% | +18.63% |
+| BCTI | 819 | 834 | 605 | -1.80% | +35.37% |
+
+# Tankers Values
+
+(Weekly)
+
+| TYPE | DWT | NB CONTRACT | NB PROMPT DELIVERY | 5 YEARS | 10 YEARS | 15 YEARS |
+| --- | --- | --- | --- | --- | --- | --- |
+| VLCC | 310,000 | 130 | 145 | 115 | 85 | 58 |
+| SUEZMAX | 160,000 | 89 | 99 | 83 | 68 | 50 |
+| AFRAMAX | 115,000 | 75 | 86 | 72 | 62 | 44 |
+| LR1 | 73,000 | 62 | 64 | 54 | 44 | 32 |
+| MR | 51,000 | 52 | 54 | 47 | 39 | 28 |
+| *(amount in USD million) | *(amount in USD million) | *(amount in USD million) | *(amount in USD million) | *(amount in USD million) | *(amount in USD million) | *(amount in USD million) |
 
 ## Page 7
 
@@ -135,9 +175,30 @@ COMMENTS / BUYERS EASTERN PACIFIC UNDISCLOSED NORWEGIAN BUYERS
 
 # Containers
 
-The prolonged high freight rates are prompting shippers to opt for early shipments, exacerbating port congestion and vessel capacity shortages. China's average container prices have reached a two-year high, with FEU now priced at US$3,600, more than double the US$1,700 average seen in March-April 2024. While Asian port congestion for North American routes is easing due to carriers repositioning empty containers and terminals resuming operations, shippers are still opting for early bookings to account for potential delays. This week, SCFI saw a modest 1% increase, reaching 3,734 points. Similarly, the Shanghai to USWC route witnessed rates climbing 4% weekly to US$8,103 per FEU.
+The prolonged high freight rates are prompting shippers to opt for early shipments, exacerbating port congestion and vessel capacity shortages. China's average container prices have reached a two-year high, with FEU now priced at US$3,600, more than double the US$1,700 average seen in March–April 2024.
+
+While Asian port congestion for North American routes is easing due to carriers repositioning empty containers and terminals resuming operations, shippers are still opting for early bookings to account for potential delays. This week, SCFI saw a modest 1% increase, reaching 3,734 points. Similarly, the Shanghai to USWC route witnessed rates climbing 4% weekly to US$8,103 per FEU.
 
 # Containers S&P Report
+
+| VESSEL NAME | TYPE | TEU | YEAR | BUILT | PRICE (MILLION) USD | COMMENTS / BUYERS |
+| --- | --- | --- | --- | --- | --- | --- |
+| VEGA DAYTONA | FEEDER | 1,868 | 2023 | CHINA | 32.7 | GREEK BUYERS |
+| HANSA WOLFSBURG | FEEDER | 1,732 | 2007 | CHINA | 14.0 | UNDISCLOSED |
+
+Containers Values
+
+| CONTAINERS (BY TEU) | GEARED / GEARLESS | NB CONTRACT | NB PROMPT DELIVERY | 5 YEARS | 10 YEARS | 15 YEARS |
+| --- | --- | --- | --- | --- | --- | --- |
+| 900 – 1,200 | Geared | 24 | 24 | 17 | 14 | 8 |
+| 1,600 – 1,850 | Geared | 29 | 32 | 25 | 18 | 15 |
+| 2,700 – 2,900 | Gearless | 41 | 43 | 34 | 27 | 22 |
+| 5,100 | Gearless | 79 | 77 | 61 | 35 | 32 |
+| *(amount in USD million) | *(amount in USD million) | *(amount in USD million) | *(amount in USD million) | *(amount in USD million) | *(amount in USD million) | *(amount in USD million) |
+
+Container 6-12 months T/C rates
+
+[SIGNATURE]
 
 ## Page 9
 
@@ -199,46 +260,72 @@ This week witnessed a notable decline in domestic ship scrap prices, ending a pr
 
 ## Page 14
 
-Gadani, Pakistan
+Anchorage & Beaching Position (June 2024)
 
-The markets are witnessing a large influx of cheap semi-finished and finished steel products from China, dampening sentiment and mood. The underlying demand for scrap in a limited mill capacity has turned around the dynamic lately. Very few recyclers are keen to acquire ships for recycling, while a vast majority turn into traders of finished steel products. The markets sentiments in Pakistan have soften dramatically as lack of ships initially also played a frustrating role amongst the recycling community, leading diversifications. To bring the lost sentiments back to normal may require a lot of parameters in check, including the ailing demand for steel due to the domestic economy slowing down.
+| VESSEL NAME | TYPE | LDT | ARRIVAL | BEACHING |
+| --- | --- | --- | --- | --- |
+| XIANG | BULK | 3,947 | 01.07.2024 | AWAITING |
+| XING TONG 313 | LPG | 1,909 | 26.06.2024 | AWAITING |
+| YUN TAI LONG 66 | CONTAINER | 2,090 | 26.06.2024 | 03.07.2024 |
 
-Aliaga, Turkey
+# Gadani, Pakistan
+
+The markets are witnessing a large influx of cheap semi-finished and finished steel products from China, dampening sentiment and mood. The underlying demand for scrap in a limited mill capacity has turned around the dynamic lately. Very few recyclers are keen to acquire ships for recycling, while a vast majority turn into traders of finished steel products.
+
+The markets sentiments in Pakistan have soften dramatically as lack of ships initially also played a frustrating role amongst the recycling community, leading diversifications.
+
+To bring the lost sentiments back to normal may require a lot of parameters in check, including the ailing demand for steel due to the domestic economy slowing down.
+
+Anchorage & Beaching Position (July 2024)
+
+| VESSEL NAME | TYPE | LDT | ARRIVAL | BEACHING |
+| --- | --- | --- | --- | --- |
+| ALPS | BULKER | 10,191 | 21.06.2024 | 03.07.2024 |
+| DIYAA B | BULKER | 6,956 | 20.06.2024 | 05.07.2024 |
+
+# Aliaga, Turkey
+
+The Turkish scrap market is experiencing a period of stagnation, with prices remaining largely stable and Turkish mills showing limited interest in new purchases. The mills, having largely secured their July shipment requirements, are showing weak interest in scrap purchases for August shipments, primarily due to sluggish steel sales.
+
+While a significant electricity price hike by the Turkish energy regulator EPDK has not directly impacted steel producers due to industrial exemptions, mills still consider current energy costs high and are seeking reductions.
+
+Levels for ship recycling remain at an average of US$340/LT regions with the Lira closing 0.18% higher this week at 32.67 to USD.
 
 ## Page 15
 
-Chattogram, Bangladesh : 05 ~08 July | 21 ~ 24 July Alang, India : 02 ~ 11 July | 19 ~ 27 July
+# BEACHING TIDE DATES 2024
 
----
+Chattogram, Bangladesh : 05 ~ 08 July | 21 ~ 24 July
 
-BUNKER PRICES (USD/TON)
+Alang, India : 02 ~ 11 July | 19 ~ 27 July
 
-PORTS VLSFO (0.5%) HSFO (3.5%) MGO (0.1%)
+#### BUNKER PRICES (USD/TON)
 
+| PORTS | VLSFO (0.5%) | HSFO (3.5%) | MGO (0.1%) |
+| --- | --- | --- | --- |
 | SINGAPORE | 640 | 561 | 767 |
-|---|---|---|---|
 | HONG KONG | 639 | 547 | 754 |
 | FUJAIRAH | 637 | 520 | 856 |
 | ROTTERDAM | 580 | 515 | 776 |
 | HOUSTON | 619 | 496 | 795 |
 
-EXCHANGE RATES
+#### EXCHANGE RATES
 
 | CURRENCY | JULY 5 | JUNE 28 | W-O-W % CHANGE |
-|---|---|---|---|
+| --- | --- | --- | --- |
 | USD / CNY (CHINA) | 7.26 | 7.26 | 0 |
 | USD / BDT (BANGLADESH) | 117.54 | 117.51 | -0.03% |
 | USD / INR (INDIA) | 83.48 | 83.34 | -0.17% |
 | USD / PKR (PAKISTAN) | 278.38 | 278.42 | +0.01% |
 | USD / TRY (TURKEY) | 32.67 | 32.73 | +0.18% |
 
-Sub-Continent and Turkey ferrous scrap markets insight
+# Sub-Continent and Turkey ferrous scrap markets insight
 
 Overall, the Sub-Continent scrap markets exhibited diverse trends, with India's disinterest in imports, Pakistan's logistical challenges, Bangladesh's seasonal factors, and Turkey's stable outlook shaping the week's activities.
 
-**Indian buyers continued to show little interest in imported scrap due to substantial bid-**
+Indian buyers continued to show little interest in imported scrap due to substantial bid-offer gaps and the availability of more economical domestic alternatives. Shredded scrap from the US and UK/Europe was priced at US$410-415 per ton CFR Nhava Sheva, but there were no takers at these levels. Offers for West African and UK/European HMS (80:20) were assessed at US$385-390 per ton CFR.
 
-offer gaps and the availability of more economical domestic alternatives. Shredded scrap from the US and UK/Europe was priced at US$410-415 per ton CFR Nhava Sheva, but there were no takers at these levels. Offers for West African and UK/European HMS (80:20) were assessed at US$385-390 per ton CFR. In Pakistan, demand for imported scrap slowed as buyers adjusted purchases amid domestic market volatility and rising imported scrap prices. Offers for shredded scrap from the UK/Europe were evaluated at US$425-430 per ton CFR Qasim.
+In Pakistan, demand for imported scrap slowed as buyers adjusted purchases amid domestic market volatility and rising imported scrap prices. Offers for shredded scrap from the UK/Europe were evaluated at US$425-430 per ton CFR Qasim.
 
 ## Page 16
 

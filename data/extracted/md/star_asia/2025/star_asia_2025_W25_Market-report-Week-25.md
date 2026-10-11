@@ -244,22 +244,34 @@ Markets remained at a standstill this week as recyclers adopted a wait-and-watch
 
 ## Page 16
 
-Without an extension, the industry faces potential paralysis, with many fearing a significant disruption in ship recycling activity if uncertified yards are barred from transacting. The coming weeks will be pivotal for the ship recycling industry, as recyclers await regulatory clarity. Until a resolution is reached, fresh vessel sales are expected to remain on hold, with industry adopting a cautious stance.
+Without an extension, the industry faces potential paralysis, with many fearing a significant disruption in ship recycling activity if uncertified yards are barred from transacting.
+
+The coming weeks will be pivotal for the ship recycling industry, as recyclers await regulatory clarity. Until a resolution is reached, fresh vessel sales are expected to remain on hold, with industry adopting a cautious stance.
+
+Anchorage & Beaching Position (MAY 2025)
+
+| VESSEL NAME | TYPE | LDT | ARRIVAL | BEACHING |
+| --- | --- | --- | --- | --- |
+| PETE | BULKER | 10,176 | 27.05.2025 | 05.06.2025 |
+| PACIFIC K | BULKER | 10,386 | 10.06.2025 | AWAITING |
+
+# Aliaga, Turkey
 
 Another lacklustre week in the Turkey shipbreaking sector. Rates remain around US$260/ton as it has been for the last 7 weeks. No new activity to report.
 
----
+# BEACHING TIDE DATES 2025
 
-Chattogram, Bangladesh : 24 ~ 27 June | 11 ~ 14 July Alang, India : 23 ~ 30 June | 08 ~ 16 July
+Chattogram, Bangladesh : 24 ~ 27 June | 11 ~ 14 July
 
----
+Alang, India
 
-BUNKER PRICES (USD/ton)
+: 23 ~ 30 June | 08 ~ 16 July
 
-PORTS VLSFO (0.5%) HSFO (3.5%) MGO (0.1%)
+#### BUNKER PRICES (USD/ton)
 
+| PORTS | VLSFO (0.5%) | HSFO (3.5%) | MGO (0.1%) |
+| --- | --- | --- | --- |
 | SINGAPORE | 507 | 437 | 600 |
-|---|---|---|---|
 | HONG KONG | 520 | 452 | 611 |
 | FUJAIRAH | 500 | 418 | 707 |
 | ROTTERDAM | 469 | 426 | 610 |
@@ -267,9 +279,25 @@ PORTS VLSFO (0.5%) HSFO (3.5%) MGO (0.1%)
 
 ## Page 17
 
-Sub-Continent and Turkey ferrous scrap markets insights
+#### EXCHANGE RATES
 
-India's imported ferrous scrap market continues to struggle with weak buying interest and persistent bid-offer gaps. HMS 80:20 offers remained stuck in the US$338-342 per ton CFR range, while shredded scrap hovered at US$360-362 per ton CFR. UK-origin HMS commanded US$345 per ton CFR Mundra, with shredded at US$365-370, and premium grades like PNS and busheling reached US$375 per ton CFR. Australian HMS offers stood at US$345-350 per ton CFR, but Indian buyers maintained resistance with bids closer to US$340 per tonne, reflecting their reluctance to accept current price levels. Bangladesh showed moderately positive sentiment as most domestic steel mills resumed operations, indicating improved production stability. Scrap procurement activity picked up slightly with several mills cautiously re-entering the import market, gesturing early confidence in steel demand recovery. Australian shredded scrap was quoted at US$365-366 per ton CFR with recent tradable levels at US$355-360. However, larger bulk bookings remained limited as mills continued monitoring both global and domestic market trends closely. Pakistan's scrap market remained subdued with limited activity as mills maintained caution amid weak finished steel sales. EU-origin shredded scrap offers climbed above US$370 per ton CFR Qasim, with many suppliers quoting US$375 or higher. UK-origin shredded at US$370 per ton disappeared from the market as sellers pushed prices upward. UAE shredded offers reached US$385 per ton CFR while HMS-PNS mix traded in the US$376-378 range. Mills showed little urgency to procure, preferring to wait for either market corrections or clearer demand signals before making fresh commitments. Turkey's imported scrap prices gained upward momentum with US/Baltic-origin HMS 80:20 offers at US$348-350 per ton CFR and EU cargoes at US$340-345. Mills resisted offers above US$340 per ton, citing weak finished steel demand and tight margins. UK recyclers reported limited summer availability, keeping sellers' firm on pricing despite Turkish mills needing around 20 cargoes for July shipments. Domestic rebar prices stood
+| CURRENCY | June 20 | June 13 | W-O-W % CHANGE |
+| --- | --- | --- | --- |
+| USD / CNY (CHINA) | 7.17 | 7.18 | +0.14% |
+| USD / BDT (BANGLADESH) | 122.35 | 122.35 | 0 |
+| USD / INR (INDIA) | 86.60 | 86.12 | -0.56% |
+| USD / PKR (PAKISTAN) | 283.62 | 282.91 | -0.25% |
+| USD / TRY (TURKEY) | 39.66 | 39.40 | -0.66% |
+
+# Sub-Continent and Turkey ferrous scrap markets insights
+
+India's imported ferrous scrap market continues to struggle with weak buying interest and persistent bid-offer gaps. HMS 80:20 offers remained stuck in the US$338-342 per ton CFR range, while shredded scrap hovered at US$360-362 per ton CFR. UK-origin HMS commanded US$345 per ton CFR Mundra, with shredded at US$365-370, and premium grades like PNS and busheling reached US$375 per ton CFR. Australian HMS offers stood at US$345-350 per ton CFR, but Indian buyers maintained resistance with bids closer to US$340 per tonne, reflecting their reluctance to accept current price levels.
+
+Bangladesh showed moderately positive sentiment as most domestic steel mills resumed operations, indicating improved production stability. Scrap procurement activity picked up slightly with several mills cautiously re-entering the import market, gesturing early confidence in steel demand recovery. Australian shredded scrap was quoted at US$365–366 per ton CFR with recent tradable levels at US$355–360. However, larger bulk bookings remained limited as mills continued monitoring both global and domestic market trends closely.
+
+Pakistan's scrap market remained subdued with limited activity as mills maintained caution amid weak finished steel sales. EU-origin shredded scrap offers climbed above US$370 per ton CFR Qasim, with many suppliers quoting US$375 or higher. UK-origin shredded at US$370 per ton disappeared from the market as sellers pushed prices upward. UAE shredded offers reached US$385 per ton CFR while HMS-PNS mix traded in the US$376-378 range. Mills showed little urgency to procure, preferring to wait for either market corrections or clearer demand signals before making fresh commitments.
+
+Turkey's imported scrap prices gained upward momentum with US/Baltic-origin HMS 80:20 offers at US$348-350 per ton CFR and EU cargoes at US$340-345. Mills resisted offers above US$340 per ton, citing weak finished steel demand and tight margins. UK recyclers reported limited summer availability, keeping sellers' firm on pricing despite Turkish mills needing around 20 cargoes for July shipments. Domestic rebar prices stood
 
 ## Page 18
 

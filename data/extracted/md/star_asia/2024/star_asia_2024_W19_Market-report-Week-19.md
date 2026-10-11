@@ -109,11 +109,43 @@ Activity in the Mediterranean remains steady, with the last levels remaining sim
 
 Although tonnage continues to be gradually absorbed, the overall direction of the market appears unchanged. 80,000mt Ceyhan/Lavera closed at WS165.
 
-Clean:
+# Clean:
 
-LR: The LR1 market had a quiet week with limited activity, but the LR2 remains stable with TC1 seeing a big jump of 27 points to WS230. In the LR1, MEG market was also positive as TC5 improved to WS230. In the UKC, TC16 fell to WS156. MR: MR rates strengthened due to consistent activity and uncertainties in the UKC, leading to upward pressure on rates. MR rates for the UKC/USAC route increased w-o-w to WS200. In the MEG, activity picked up towards the end of the week with TC17 climbing to WS384.
+LR: The LR1 market had a quiet week with limited activity, but the LR2 remains stable with TC1 seeing a big jump of 27 points to WS230. In the LR1, MEG market was also positive as TC5 improved to WS230. In the UKC, TC16 fell to WS156.
+
+MR: MR rates strengthened due to consistent activity and uncertainties in the UKC, leading to upward pressure on rates. MR rates for the UKC/USAC route increased w-o-w to WS200. In the MEG, activity picked up towards the end of the week with TC17 climbing to WS384.
 
 # Baltic Exchange Tanker Indices
+
+| INDICES | CURRENT | LAST WEEK | LAST YEAR | W-O-W CHANGE | Y-O-Y CHANGE |
+| --- | --- | --- | --- | --- | --- |
+| BDTI | 1,155 | 1,122 | 1,218 | +2.94% | -5.17% |
+| BCTI | 996 | 931 | 637 | +6.98% | +56.36% |
+
+# Tankers Values
+
+(Weekly)
+
+| TYPE | DWT | NB CONTRACT | NB PROMPT DELIVERY | 5 YEARS | 10 YEARS | 15 YEARS |
+| --- | --- | --- | --- | --- | --- | --- |
+| VLCC | 310,000 | 130 | 145 | 115 | 85 | 58 |
+| SUEZMAX | 160,000 | 88 | 99 | 83 | 68 | 50 |
+| AFRAMAX | 115,000 | 75 | 85 | 75 | 60 | 44 |
+| LR1 | 73,000 | 60 | 63 | 53 | 43 | 31 |
+| MR | 51,000 | 50 | 53 | 45 | 38 | 27 |
+| *(amount in USD million) | *(amount in USD million) | *(amount in USD million) | *(amount in USD million) | *(amount in USD million) | *(amount in USD million) | *(amount in USD million) |
+
+*(amount in USD million)
+
+Tanker 12 months T/C rates average (in USD/day)
+
+| TYPE | DWT | CURRENT | LAST WEEK | LAST YEAR | W-O-W CHANGE | Y-O-Y CHANGE |
+| --- | --- | --- | --- | --- | --- | --- |
+| VLCC | 310,000 | 46,750 | 46,750 | 37,000 | 0 | +26.35% |
+| SUEZMAX | 150,000 | 42,500 | 42,500 | 39,500 | 0 | +7.59% |
+| AFRAMAX | 110,000 | 42,500 | 42,500 | 41,000 | 0 | +3.66% |
+| LR1 | 74,000 | 37,500 | 37,500 | 35,500 | 0 | +5.63% |
+| MR | 47,000 | 30,250 | 30,250 | 28,000 | 0 | +8.04% |
 
 ## Page 7
 
@@ -229,38 +261,37 @@ Aliaga, Turkey
 
 ## Page 15
 
-Chattogram, Bangladesh : 22 ~ 25 MAY | 5 ~ 8 June Alang, India : 5 ~ 13 May | 21 ~ 29 MAY
+# BEACHING TIDE DATES 2024
 
----
+Chattogram, Bangladesh : 22 ~ 25 MAY | 5 ~ 8 June
 
-BUNKER PRICES (USD/TON)
+Alang, India : 5 ~ 13 May | 21 ~ 29 MAY
 
-PORTS VLSFO (0.5%) HSFO (3.5%) MGO (0.1%)
+#### BUNKER PRICES (USD/TON)
 
+| PORTS | VLSFO (0.5%) | HSFO (3.5%) | MGO (0.1%) |
+| --- | --- | --- | --- |
 | SINGAPORE | 624 | 536 | 729 |
-|---|---|---|---|
 | HONG KONG | 631 | 523 | 731 |
 | FUJAIRAH | 619 | 512 | 872 |
 | ROTTERDAM | 565 | 477 | 732 |
 | HOUSTON | 590 | 491 | 763 |
 
-EXCHANGE RATES
+#### EXCHANGE RATES
 
 | CURRENCY | MAY 10 | MAY 3 | W-O-W % CHANGE |
-|---|---|---|---|
+| --- | --- | --- | --- |
 | USD / CNY (CHINA) | 7.22 | 7.24 | +0.28% |
 | USD / BDT (BANGLADESH) | 117.01 | 109.73 | -6.63% |
 | USD / INR (INDIA) | 83.54 | 83.38 | -0.19% |
 | USD / PKR (PAKISTAN) | 277.84 | 278.51 | +0.24% |
 | USD / TRY (TURKEY) | 32.27 | 32.34 | +0.22% |
 
-Sub-Continent and Turkey ferrous scrap markets insight
+# Sub-Continent and Turkey ferrous scrap markets insight
 
-The Sub-Continent ferrous scrap markets, trends varied notably. There was robust demand from Indian purchasers for imported scrap, in contrast to the more tepid interest from Pakistan and Bangladesh. Furthermore, an agreement was reached for around 7,000 tons of HMS scrap from Australia, priced between US$405-410/ton CFR Chennai, **India.** It was also reported that due to sluggish demand for steel, Pakistani mills are operating below capacity, with some even pausing production temporarily.
+The Sub-Continent ferrous scrap markets, trends varied notably. There was robust demand from Indian purchasers for imported scrap, in contrast to the more tepid interest from Pakistan and Bangladesh. Furthermore, an agreement was reached for around 7,000 tons of HMS scrap from Australia, priced between US\$405-410/ton CFR Chennai, India. It was also reported that due to sluggish demand for steel, Pakistani mills are operating below capacity, with some even pausing production temporarily.
 
-**Turkish imported scrap prices have continued to decline as buyers pushed for lower**
-
-acceptable price points, while European recyclers held firm against lowering prices due to sluggish scrap inflows and stable collection costs. A few suppliers have proposed prices
+Turkish imported scrap prices have continued to decline as buyers pushed for lower acceptable price points, while European recyclers held firm against lowering prices due to sluggish scrap inflows and stable collection costs. A few suppliers have proposed prices
 
 ## Page 16
 

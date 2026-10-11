@@ -235,11 +235,37 @@ Anchorage & Beaching Position (May 2025)
 
 ## Page 15
 
-Aliaga, Turkey
+# Aliaga, Turkey
 
-Market remains sluggish this week with no new activity to report. Prices over the last few weeks have largely remained unchanged.
+Market remains sluggish this week with no new activity to report.
 
----
+Prices over the last few weeks have largely remained unchanged.
+
+# BEACHING TIDE DATES 2025
+
+Chattogram, Bangladesh : 26 ~29 May | 11 ~14 June
+
+Alang, India : 24 May ~ 1 June | 09 ~17 June
+
+#### BUNKER PRICES (USD/ton)
+
+| PORTS | VLSFO (0.5%) | HSFO (3.5%) | MGO (0.1%) |
+| --- | --- | --- | --- |
+| SINGAPORE | 523 | 444 | 617 |
+| HONG KONG | 536 | 462 | 630 |
+| FUJAIRAH | 512 | 420 | 712 |
+| ROTTERDAM | 463 | 419 | 617 |
+| HOUSTON | 468 | 394 | 625 |
+
+#### EXCHANGE RATES
+
+| CURRENCY | May 16 | May 9 | W-O-W % CHANGE |
+| --- | --- | --- | --- |
+| USD / CNY (CHINA) | 7.21 | 7.24 | +0.41% |
+| USD / BDT (BANGLADESH) | 121.45 | 121.52 | +0.06% |
+| USD / INR (INDIA) | 85.57 | 85.37 | -0.23% |
+| USD / PKR (PAKISTAN) | 281.58 | 281.54 | -0.01% |
+| USD / TRY (TURKEY) | 38.85 | 38.75 | -0.26% |
 
 ## Page 16
 

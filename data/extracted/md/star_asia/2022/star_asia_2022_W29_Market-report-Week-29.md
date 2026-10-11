@@ -137,26 +137,28 @@ also saw levels firmed with rates at US$ 18,300's a day.
 
 ## Page 4
 
-# Baltic Exchange Dry Bulk Indices
+#### BALTIC EXCHANGE DRY BULK INDICES
 
 #### BALTIC EXCHANGE DRY BULK INDICES
 
-| CURRENT | LAST WEEK | LAST YEAR | W-O-W CHANGE % | Y-O-Y CHANGE % |
-|---|---|---|---|---|
-| 2,146 | 2,150 | 3,199 | -0.19 | -32.92 |
-| 2,696 | 2,919 | 3,915 | -7.64 | -31.14 |
-| 2,093 | 1,885 | 3,528 | +11.03 | -40.67 |
-| 2,080 | 2,039 | 2,871 | +2.01 | -27.55 |
-| 1,211 | 1,181 | 1,736 | +2.54 | -30.24 |
+|  | CURRENT | LAST WEEK | LAST YEAR | W-O-W CHANGE % | Y-O-Y CHANGE % |
+| --- | --- | --- | --- | --- | --- |
+| BDI | 2,146 | 2,150 | 3,199 | -0.19 | -32.92 |
+| BCI | 2,696 | 2,919 | 3,915 | -7.64 | -31.14 |
+| BPI | 2,093 | 1,885 | 3,528 | +11.03 | -40.67 |
+| BSI | 2,080 | 2,039 | 2,871 | +2.01 | -27.55 |
+| BHSI | 1,211 | 1,181 | 1,736 | +2.54 | -30.24 |
 
 #### BULKER 12 MONTHS T/C RATES AVERAGE (IN USD/DAY)
 
-DWT CURRENT LAST WEEK LAST YEAR W-O-W CHANGE % Y-O-Y CHANGE % CAPE 180,000 21,500 23,250 29,750 -7.53 -27.73
-
+|  | DWT | CURRENT | LAST WEEK | LAST YEAR | W-O-W CHANGE % | Y-O-Y CHANGE % |
+| --- | --- | --- | --- | --- | --- | --- |
+| CAPE | 180,000 | 21,500 | 23,250 | 29,750 | -7.53 | -27.73 |
 | PANAMAX | 75,000 | 18,500 | 17,000 | 25,350 | +8.82 | -27.02 |
-|---|---|---|---|---|---|---|
 | SUPRAMAX | 52,000 | 18,250 | 17,625 | 25,000 | +3.55 | -27.00 |
 | HANDYSIZE | 32,000 | 17,750 | 17,500 | 23,750 | +1.43 | -25.26 |
+
+# Dry Bulk 1 year T/C rates
 
 ## Page 5
 
@@ -184,43 +186,60 @@ M.R. tonnage listings have shrunk this week due to increased activity. TC17 inde
 
 # Tankers S&P Report
 
-#### PRICE VESSEL NAME TYPE DWT YEAR BUILT COMMENTS / BUYERS (MILLION) USD
+| VESSEL NAME | TYPE | DWT | YEAR | BUILT | PRICE (MILLION) USD | COMMENTS / BUYERS |
+| --- | --- | --- | --- | --- | --- | --- |
+| ECO LEADER | VLCC | 299,999 | 2016 | S. KOREA | 82.0 | UNDISCLOSED |
+| MANDALA / | AFRA | 113,553 | 2006 (en bloc) | S. KOREA | 80.0 ENBLOC | UNITED MARITIME |
+| GODAM / | AFRA | 113,553 | 2006 (en bloc) | S. KOREA | 80.0 ENBLOC | UNITED MARITIME |
+| TIMBERWOLF / | AFRA | 109,647 | 2008 (en bloc) | CHINA | 80.0 ENBLOC | UNITED MARITIME |
+| THUNDERBOLT | AFRA | 108,817 | 2008 (en bloc) | CHINA | 80.0 ENBLOC | UNITED MARITIME |
+| SONGA CORAL | AFRA | 107,081 | 2005 | JAPAN | 25.0 | UNDISCLOSED |
+| BW LARA | LR1 | 73,495 | 2004 | CHINA | 13.0 | CHEMNAV |
+| SUNNY BAY | MR | 50,661 | 2008 | S. KOREA | 17.8 | CHINESE BUYERS |
+| SEAEXPLORER | MR | 39,975 | 2003 | S. KOREA | 9.1 | TURKISH BUYERS |
+| ATLANTIC SYMPHONY / ATLANTIC CANYON / ATLANTIC JUPITER / ATLANTIC SIRIU | MR | 36,684 | 2009 | S. KOREA | 68.0 ENBLOC | UNDISCLOSED |
 
-ECO LEADER VLCC 299,999 2016 S. KOREA 82.0 UNDISCLOSED MANDALA / 113,553 S. KOREA
-
-2006
-
-GODAM / 113,553 S. KOREA AFRA ~ 80.0 ENBLOC UNITED MARITIME TIMBERWOLF / 109,647 CHINA
-
-2008
-
-ATLANTIC CANYON / MR 36,684 2009 S. KOREA 68.0 ENBLOC UNDISCLOSED ATLANTIC JUPITER / ATLANTIC SIRIU
-
-Tankers Values
+# Tankers Values
 
 (Weekly)
 
 | TANKERS | DWT | NB CONTRACT | NB PROMPT DELIVERY | 5 YEARS | 10 YEARS | 20 YEARS |
-|---|---|---|---|---|---|---|
+| --- | --- | --- | --- | --- | --- | --- |
 | VLCC | 310,000 | 118 | 107 | 82 | 57 | 31 |
 | SUEZMAX | 160,000 | 79 | 76 | 56 | 42 | 20 |
 | AFRAMAX | 115,000 | 61 | 68 | 53 | 39 | 20 |
 | PANAMAX-LR1 | 73,000 | 53 | 52 | 40 | 27 | 12 |
 | MR TANKER | 51,000 | 42 | 43 | 33 | 25 | 11 |
+| *(amount in USD million) | *(amount in USD million) | *(amount in USD million) | *(amount in USD million) | *(amount in USD million) | *(amount in USD million) | *(amount in USD million) |
 
 ## Page 7
 
-# Baltic Exchange Tanker Indices
+#### BALTIC EXCHANGE TANKER INDICES
+
+|  | CURRENT | LAST WEEK | LAST YEAR | W-O-W CHANGE % | Y-O-Y CHANGE % |
+| --- | --- | --- | --- | --- | --- |
+| BDTI | 1,485 | 1,369 | 593 | +8.47 | +150.42 |
+| BCTI | 1,316 | 1,382 | 457 | -4.78 | +187.96 |
+
+#### TANKER 12 MONTHS T/C RATES AVERAGE (IN USD/DAY)
+
+| TYPE | DWT | CURRENT | LAST WEEK | LAST YEAR | W-O-W CHANGE | Y-O-Y CHANGE |
+| --- | --- | --- | --- | --- | --- | --- |
+| VLCC | 300,000 | 16,000 | 16,000 | 19,000 | 0 | -15.79 |
+| SUEZMAX | 150,000 | 25,500 | 23,500 | 16,250 | +8.51 | +56.92 |
+| AFRAMAX | 110,000 | 22,500 | 22,500 | 15,500 | 0 | +45.16 |
+| LR1 | 74,000 | 23,500 | 23,500 | 14,750 | 0 | +59.32 |
+| MR | 47,000 | 20,000 | 21,500 | 11,750 | -6.98 | +70.21 |
+
+| Date | VLCC | Suezmax | Aframax | MR |
+| --- | --- | --- | --- | --- |
+| Mar-17 | Mar-17 | Mar-17 | Mar-17 | Mar-17 |
+
+Tanker 1 year T/C rates
 
 # Containers
 
-Long-term rates are "over the roof" for New Zealand and Australia routes, with some
-
-contracts up over 400% since 2019. The global market for container shipping is in overdrive,
-
-much to shippers' sorrow and major carriers' big profits. The most recent data show a
-
-significant increase in the T.C. rates in Australasia. This week little change was noted W-O-W.
+Long-term rates are "over the roof" for New Zealand and Australia routes, with some contracts up over 400% since 2019. The global market for container shipping is in overdrive, much to shippers' sorrow and major carriers' big profits. The most recent data show a significant increase in the T.C. rates in Australasia. This week little change was noted W-O-W.
 
 ## Page 8
 
@@ -334,15 +353,47 @@ The new Government has taken bold steps to cut spending and conserve reserves as
 
 ## Page 14
 
-### Bunker Prices (USD / ton)
+# Anchorage & Beaching Position (July 2022)
 
-| PORT | VLSFO (0.5%) | HSFO (3.5%) | MGO (0.1%) |
-| :--- | :---: | :---: | :---: |
+|  | VESSEL NAME | TYPE | LDT | ARRIVAL |
+| --- | --- | --- | --- | --- |
+| - | - | - | - | - |
+
+# ALIAGA, TURKEY
+
+Turkey continues to attempt to keep rebar prices over US$700/t fob. Nevertheless, considering the decline in China last week and the present state of the global market, these prices are not competitive. Current market circumstances necessitate a decline in the pricing of both rebar and scrap.
+
+Prior to the Eid vacation, Turkey was decoupling from other markets due to its acute need for scrap. There was no other market with comparable price increases. One could not anticipate its durability. In spite of the fact that Turkey had the opportunity to export to Asia once again, it has lost it swiftly owing to steep price hikes. At current pricing, there is no prospect of selling there.
+
+### BEACHING TIDE DATES 2022
+
+Chattogram, Bangladesh : 29th July ~ 1st August | 11th August ~ 14th August
+
+Alang, India : 26 July ~ 3rd August | 8th August ~ 17th August 2022
+
+# Bunker Prices
+
+#### BUNKER PRICES (USD/TON)
+
+| PORTS | VLSFO (0.5%) | IFO380 CST | MGO (0.1%) |
+| --- | --- | --- | --- |
 | SINGAPORE | 950 | 485 | 1080 |
 | HONG KONG | 972 | 513 | 1066 |
 | FUJAIRAH | 946 | 508 | 1386 |
 | ROTTERDAM | 793 | 475 | 1095 |
 | HOUSTON | 826 | 593 | 1155 |
+
+# Exchange Rates
+
+#### EXCHANGE RATES
+
+|  | 22nd JULY | 15th JULY | W-O-W % CHANGE |
+| --- | --- | --- | --- |
+| USD / CNY (CHINA) | 6.75 | 6.75 | 0 |
+| USD / BDT (BANGLADESH) | 94.30 | 93.74 | -0.60 |
+| USD / INR (INDIA) | 79.90 | 79.78 | -0.15 |
+| USD / PKR (PAKISTAN) | 228.25 | 209.39 | -9.01 |
+| USD / TRY (TURKEY) | 17.75 | 17.38 | -2.13 |
 
 ## Page 15
 

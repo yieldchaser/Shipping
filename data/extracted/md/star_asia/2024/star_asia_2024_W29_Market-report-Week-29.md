@@ -111,36 +111,31 @@ The MEG market ended the week with declining rates. This was a result of ample v
 
 options. In the Atlantic, rates were stagnant for 70,000mt USG/UKC routes closing at WS185. Similarly, the South Asian market closed lower due to off-season demand slump.
 
-Clean:
+# Clean:
 
-LR: It was mixed week in the larger clean segment this week. Both LR1 and LR2 saw discounts in the MEG with TC1 falling to WS160 while TC5 was down to WS188. On the other side, both sizes fared better with LR1 TC16 pushing levels up to WS145. MR: MRs in the UKC region showed signs of optimism this week, with rates pushing upward. TC2, ARA/USAC increased by 20 points to WS199. Meanwhile, the USG saw volatility. After climbing to WS225s, the TC14 route (USG/UKC) witnessed a downward trajectory to WS170 at closing.
+LR: It was mixed week in the larger clean segment this week. Both LR1 and LR2 saw discounts in the MEG with TC1 falling to WS160 while TC5 was down to WS188. On the other side, both sizes fared better with LR1 TC16 pushing levels up to WS145.
+
+MR: MRs in the UKC region showed signs of optimism this week, with rates pushing upward. TC2, ARA/USAC increased by 20 points to WS199. Meanwhile, the USG saw volatility. After climbing to WS225s, the TC14 route (USG/UKC) witnessed a downward trajectory to WS170 at closing.
 
 # Baltic Exchange Tanker Indices
 
-| INDICES | CURRENT | LAST WEEK |
-|---|---|---|
-| BDTI | 1,056 | 1,064 |
-| BCTI | 822 | 849 |
+| INDICES | CURRENT | LAST WEEK | LAST YEAR | W-O-W CHANGE | Y-O-Y CHANGE |
+| --- | --- | --- | --- | --- | --- |
+| BDTI | 1,056 | 1,064 | 947 | -0.75% | +11.51% |
+| BCTI | 822 | 849 | 602 | -3.18% | +36.54% |
 
-LAST YEAR W-O-W CHANGE 947 -0.75% 602 -3.18%
+# Tankers Values
 
-Y-O-Y
+(Weekly)
 
-CHANGE
-
-+11.51%
-
-+36.54%
-
-| TYPE | DWT | Tankers Values (Weekly) NB CONTRACT | Tankers Values (Weekly) NB PROMPT | 5 YEARS | 10 YEARS | 15 YEARS |
+| TYPE | DWT | NB CONTRACT | NB PROMPT DELIVERY | 5 YEARS | 10 YEARS | 15 YEARS |
 | --- | --- | --- | --- | --- | --- | --- |
-|  |  |  | DELIVERY |  |  |  |
 | VLCC | 310,000 | 130 | 145 | 115 | 85 | 58 |
 | SUEZMAX | 160,000 | 90 | 99 | 83 | 68 | 50 |
 | AFRAMAX | 115,000 | 75 | 86 | 72 | 62 | 44 |
 | LR1 | 73,000 | 62 | 64 | 54 | 44 | 32 |
 | MR | 51,000 | 52 | 54 | 47 | 39 | 28 |
-| *(amount in USD million) |  |  |  |  |  |  |
+| *(amount in USD million) | *(amount in USD million) | *(amount in USD million) | *(amount in USD million) | *(amount in USD million) | *(amount in USD million) | *(amount in USD million) |
 
 ## Page 8
 

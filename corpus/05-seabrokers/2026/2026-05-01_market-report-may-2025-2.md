@@ -47,16 +47,7 @@ While that has eased some of the pressure on the supply side, observed global in
 
 ## BRENT CRUDE: 31/12/25 - 01/06/26
 
-| Date        | Price (USD) |
-| ----------- | ----------- |
-| 31 Dec 2025 | 60          |
-| 19 Jan 2026 | 65          |
-| 09 Feb 2026 | 68          |
-| 02 Mar 2026 | 70          |
-| 23 Mar 2026 | 110         |
-| 13 Apr 2026 | 90          |
-| 04 May 2026 | 115         |
-| 25 May      | 90          |
+> **Chart not transcribed.** The figure prints no values; the table the parser estimated from the image was removed. See the source PDF.
 
 *Brent Crude Price chart (c/o Hargreaves Lansdown)*
 
@@ -166,39 +157,41 @@ Seabreeze — May 2026 9
 
 ## MAY 2026 - DAILY NORTH SEA OSV AVAILABILITY
 
+> **Read from the chart.** The report prints no numbers for this chart; each value is the chart line's node for that day, converted with the printed axis labels (vector geometry, not an eyeball estimate).
+
 | Date | PSV 2026 | PSV 2025 | AHTS 2026 | AHTS 2025 |
-| ---- | -------- | -------- | --------- | --------- |
-| 1    | 3        | 2        | 6         | 11        |
-| 2    | 3        | 2        | 5         | 10        |
-| 3    | 3        | 3        | 4         | 9         |
-| 4    | 3        | 4        | 5         | 8         |
-| 5    | 5        | 5        | 5         | 7         |
-| 6    | 5        | 6        | 4         | 4         |
-| 7    | 5        | 6        | 12        | 4         |
-| 8    | 5        | 6        | 12        | 4         |
-| 9    | 6        | 6        | 13        | 4         |
-| 10   | 6        | 6        | 15        | 4         |
-| 11   | 6        | 6        | 16        | 4         |
-| 12   | 6        | 5        | 16        | 4         |
-| 13   | 6        | 5        | 16        | 4         |
-| 14   | 7        | 1        | 14        | 2         |
-| 15   | 7        | 1        | 14        | 2         |
-| 16   | 8        | 2        | 3         | 3         |
-| 17   | 8        | 2        | 3         | 3         |
-| 18   | 8        | 2        | 3         | 3         |
-| 19   | 8        | 2        | 3         | 3         |
-| 20   | 5        | 2        | 3         | 2         |
-| 21   | 5        | 0        | 3         | 2         |
-| 22   | 5        | 1        | 3         | 2         |
-| 23   | 5        | 2        | 3         | 2         |
-| 24   | 4        | 3        | 9         | 10        |
-| 25   | 4        | 4        | 11        | 13        |
-| 26   | 4        | 5        | 9         | 13        |
-| 27   | 4        | 5        | 9         | 11        |
-| 28   | 4        | 4        | 3         | 10        |
-| 29   | 4        | 4        | 3         | 9         |
-| 30   | 4        | 4        | 3         | 8         |
-| 31   | 5        | 4        | 3         | 13        |
+| --- | --- | --- | --- | --- |
+| 1 | 3 | 2 | 6 | 11 |
+| 2 | 3 | 3 | 6 | 9 |
+| 3 | 3 | 3 | 5 | 8 |
+| 4 | 3 | 4 | 5 | 7 |
+| 5 | 4 | 5 | 7 | 6 |
+| 6 | 5 | 6 | 10 | 5 |
+| 7 | 5 | 6 | 12 | 4 |
+| 8 | 5 | 5 | 12 | 4 |
+| 9 | 5 | 6 | 13 | 4 |
+| 10 | 6 | 6 | 14 | 4 |
+| 11 | 6 | 6 | 15 | 4 |
+| 12 | 6 | 6 | 15 | 4 |
+| 13 | 6 | 4 | 16 | 5 |
+| 14 | 7 | 1 | 15 | 3 |
+| 15 | 7 | 1 | 14 | 2 |
+| 16 | 7 | 1 | 14 | 3 |
+| 17 | 8 | 1 | 13 | 3 |
+| 18 | 8 | 2 | 13 | 3 |
+| 19 | 8 | 2 | 12 | 3 |
+| 20 | 7 | 1 | 11 | 2 |
+| 21 | 5 | 0 | 11 | 2 |
+| 22 | 5 | 1 | 12 | 3 |
+| 23 | 5 | 2 | 12 | 6 |
+| 24 | 5 | 2 | 11 | 8 |
+| 25 | 5 | 3 | 11 | 11 |
+| 26 | 4 | 3 | 10 | 13 |
+| 27 | 4 | 5 | 9 | 9 |
+| 28 | 4 | 5 | 6 | 11 |
+| 29 | 4 | 4 | 4 | 10 |
+| 30 | 4 | 3 | 3 | 11 |
+| 31 | 5 | 4 | 3 | 13 |
 
 ## NORTH SEA SPOT AVERAGE UTILISATION MAY 2026
 

@@ -44,9 +44,46 @@ In Northeast Asia, the market is supported by backhaul cargoes despite weak dema
 
 ## Page 3
 
-close around US$ 8,400's a day region, and BHSI closed at 669 points, climbing by 7.2% wo-w.
+close around US$ 8,400's a day region, and BHSI closed at 669 points, climbing by 7.2% w-o-w.
 
-## Dry Bulk - S&P Report
+# Dry Bulk – S&P Report
+
+| VESSEL NAME | TYPE | DWT | YEAR | BUILT | PRICE (MILLION) USD | COMMENTS / BUYERS |
+| --- | --- | --- | --- | --- | --- | --- |
+| GRACIOUS ETERNITY | CAPE | 180,199 | 2009 | JAPAN | 21.9 | CHINESE BUYERS |
+| DOUBLE PRIDE | POST PMAX | 95,707 | 2012 | JAPAN | 22.0 | INDIAN BUYERS |
+| GENEVA STAR | KMAX | 81,846 | 2015 | CEBU | 26.9 | CHINESE BUYERS |
+| DA YING | PMAX | 75,318 | 2003 | JAPAN | 7.5 | CHINESE BUYERS |
+| AP LIBERTAS | PMAX | 75,213 | 2008 | CHINA | 12.4 | GREEK BUYERS |
+| BULK PATAGONIA | SMAX | 58,723 | 2012 | JAPAN | 19.5 | INDONESIAN BUYERS |
+| JIN FENG | SMAX | 52,686 | 2004 | JAPAN | 7.0 | TURKISH BUYERS |
+| OCEAN REEF | SMAX | 52,458 | 2005 | CEBU | 8.6 | UNDISCLOSED |
+| TAKESHIO | HANDY | 38,494 | 2012 | JAPAN | 14.5 | GREEK BUYERS |
+| GLOBAL EFFORT | HANDY | 37,072 | 2014 | JAPAN | 16.7 | GREEK BUYERS |
+| UNION GROOVE | HANDY | 35,064 | 2012 | S. KOREA | 14.5 | UNDISCLOSED |
+
+# Dry Bulk Values
+
+(Weekly)
+
+| TYPE | DWT | NB CONTRACT | NB PROMPT DELIVERY | 5 YEARS | 10 YEARS | 15 YEARS |
+| --- | --- | --- | --- | --- | --- | --- |
+| CAPE | 180,000 | 64 | 61 | 47 | 29 | 13 |
+| KAMSARMAX | 82,000 | 35 | 37 | 32 | 22 | 9 |
+| SUPRAMAX | 56,000 | 33 | 35 | 28 | 19 | 7 |
+| HANDY | 38,000 | 30 | 31 | 24 | 16 | 6 |
+
+* (amount in USD million)
+
+# Baltic Exchange Dry Bulk Indices
+
+| INDICES | CURRENT | LAST WEEK | LAST YEAR | W-O-W CHANGE | Y-O-Y CHANGE |
+| --- | --- | --- | --- | --- | --- |
+| BDI | 1,569 | 1,340 | 1,816 | +17.09% | -13.60% |
+| BCI | 2,083 | 1,512 | 2,206 | +37.76% | -5.58% |
+| BPI | 1,696 | 1,642 | 1,995 | +3.29% | -14.99% |
+| BSI | 1,350 | 1,196 | 1,652 | +12.88% | -18.28% |
+| BHSI | 669 | 624 | 966 | +7.21% | -30.75% |
 
 ## Page 4
 

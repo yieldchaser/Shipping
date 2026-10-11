@@ -390,7 +390,7 @@ In the newbuilding sector, we have noticed another week of healthy contracting a
 # Demolition Market
 ## Indicative Demolition Prices ($/ldt)
 
-| Markets | Markets | 04/11/2022 | 28/10/2022 | ±% | 2020 | 2019 |
+| Markets | 04/11/2022 | 28/10/2022 | ±% | 2020 | 2019 | 2018 |
 | --- | --- | --- | --- | --- | --- | --- |
 | Tanker |  |  |  |  |  |  |
 | Bangladesh | 560 | 580 | -3.4% | 348 | 410 | 442 |

@@ -416,7 +416,7 @@ Ordering activity, albeit firm during last week, has begun to reshape in order t
 # Demolition Market
 ## Indicative Demolition Prices ($/ldt)
 
-| Markets | Markets | 07/10/2022 | 30/09/2022 | ±% | 2020 | 2019 |
+| Markets | 07/10/2022 | 30/09/2022 | ±% | 2020 | 2019 | 2018 |
 | --- | --- | --- | --- | --- | --- | --- |
 | Tanker |  |  |  |  |  |  |
 | Bangladesh | 600 | 600 | 0.0% | 348 | 410 | 442 |

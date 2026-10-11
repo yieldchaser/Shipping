@@ -291,29 +291,30 @@ Turkish markets have remained largely unchanged from last week.
 
 ## Page 16
 
-There has been some stability in scrap prices, although producers are facing challenges in selling their products, both in domestic and export markets, as buyers anticipate lower prices. Producers have had to lower their offer prices to US$565-580/ton fob Turkey (actual weight) this week, down some US$20/ton. Despite this, scrap prices have remained stable. Offers for mesh-quality wire rod saw range from US$575-590/ton fob. Overall, the recycling market in Turkey is picking up pace this week, with reports of vessels being proposed for sale. Lira, however, continued to fall this week against the USD, ending at TRY26.84. Nevertheless, there is an air of optimism as we head into September, with expectations that sales will pick up in Aliaga this month.
+There has been some stability in scrap prices, although producers are facing challenges in selling their products, both in domestic and export markets, as buyers anticipate lower prices. Producers have had to lower their offer prices to US$565-580/ton fob Turkey (actual weight) this week, down some US$20/ton. Despite this, scrap prices have remained stable. Offers for mesh-quality wire rod saw range from US$575-590/ton fob.
 
----
+Overall, the recycling market in Turkey is picking up pace this week, with reports of vessels being proposed for sale. Lira, however, continued to fall this week against the USD, ending at TRY26.84. Nevertheless, there is an air of optimism as we head into September, with expectations that sales will pick up in Aliaga this month.
 
-Chattogram, Bangladesh : 14 ~ 17 September | 28 ~ 30 September Alang, India : 14 ~ 21 September | 26 ~ 30 September
+BEACHING TIDE DATES 2023
 
----
+Chattogram, Bangladesh : 14 ~ 17 September | 28 ~ 30 September
 
-BUNKER PRICES (USD/TON)
+Alang, India : 14 ~ 21 September | 26 ~ 30 September
 
-PORTS VLSFO (0.5%) IFO380 CST MGO (0.1%)
+#### BUNKER PRICES (USD/TON)
 
+| PORTS | VLSFO (0.5%) | IFO380 CST | MGO (0.1%) |
+| --- | --- | --- | --- |
 | SINGAPORE | 637 | 533 | 907 |
-|---|---|---|---|
 | HONG KONG | 687 | 561 | 951 |
 | FUJAIRAH | 631 | 524 | 948 |
 | ROTTERDAM | 599 | 550 | 902 |
 | HOUSTON | 644 | 546 | 948 |
 
-EXCHANGE RATES
+#### EXCHANGE RATES
 
-| CURRENCY | 8th SEPTEMBER | 1st SEPTEMBER | W-O-W % CHANGE |
-|---|---|---|---|
+| CURRENCY | 8 th SEPTEMBER | 1 st SEPTEMBER | W-O-W % CHANGE |
+| --- | --- | --- | --- |
 | USD / CNY (CHINA) | 7.33 | 7.26 | -0.96% |
 | USD / BDT (BANGLADESH) | 109.70 | 109.41 | -0.27% |
 | USD / INR (INDIA) | 82.98 | 82.76 | -0.27% |

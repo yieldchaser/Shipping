@@ -72,14 +72,13 @@ few ships fixed for cargo, but overall demand was weak. Inter-Pacific saw levels
 
 ## Page 4
 
-## Baltic Exchange Dry Bulk Indices
+#### BALTIC EXCHANGE DRY BULK INDICES
 
 #### BALTIC EXCHANGE DRY BULK INDICES
 
-CURRENT LAST WEEK LAST YEAR W-O-W CHANGE % Y-O-Y CHANGE %
-
+|  | CURRENT | LAST WEEK | LAST YEAR | W-O-W CHANGE % | Y-O-Y CHANGE % |
+| --- | --- | --- | --- | --- | --- |
 | BDI | 1,130 | 1,515 | 2,289 | -25.41 | -50.63 |
-|---|---|---|---|---|---|
 | BCI | 1,512 | 2,261 | 2,432 | -33.13 | -37.83 |
 | BPI | 1,299 | 1,535 | 2,957 | -15.37 | -56.07 |
 | BSI | 839 | 1,062 | 2,074 | -21.00 | -59.55 |
@@ -87,12 +86,14 @@ CURRENT LAST WEEK LAST YEAR W-O-W CHANGE % Y-O-Y CHANGE %
 
 #### BULKER 12 MONTHS T/C RATES AVERAGE (IN USD/DAY)
 
-DWT CURRENT LAST WEEK LAST YEAR W-O-W CHANGE % Y-O-Y CHANGE % CAPE 180,000 17,250 17,000 27,850 +1.47 -38.06
-
+|  | DWT | CURRENT | LAST WEEK | LAST YEAR | W-O-W CHANGE % | Y-O-Y CHANGE % |
+| --- | --- | --- | --- | --- | --- | --- |
+| CAPE | 180,000 | 17,250 | 17,000 | 27,850 | +1.47 | -38.06 |
 | PANAMAX | 75,000 | 13,750 | 14,250 | 23,350 | -3.51 | -41.11 |
-|---|---|---|---|---|---|---|
 | SUPRAMAX | 52,000 | 13,250 | 13,350 | 23,350 | -0.75 | -43.25 |
 | HANDYSIZE | 32,000 | 10,250 | 11,000 | 20,000 | -6.82 | -48.75 |
+
+# Dry Bulk 1 year T/C rates
 
 ## Page 5
 
@@ -224,31 +225,36 @@ NO NEW SALES REPORTED
 
 ## Ship Recycling Market Snapshot
 
-| DESTINATION | TANKERS | BULKERS | MPP/ GENERAL CARGO | CONTAINERS | SENTIMENTS / WEEKLY FUTURE TREND |
-|---|---|---|---|---|---|
-| ALANG (WC INDIA) | 550 ~ 560 | 530 ~ 540 | 550 ~ 560 | 580 ~ 590 | IMPROVING / |
-| CHATTOGRAM, BANGLADESH | \*520 ~ 530 | \*510 ~ 520 | \*500 ~ 510 | \*550 ~ 560 | STABLE / |
-| GADDANI, PAKISTAN | \*550 ~ 560 | \*540 ~ 550 | \*520 ~ 530 | \*580 ~ 590 | STABLE / |
-| TURKEY \*For Non-EU ships. For EU Ship, the prices are about USUS$30-40/ton less | 270 ~ 280 | 260 ~ 270 | 250 ~ 260 | 300 ~ 310 | STABLE / |
+| DESTINATION | TANKERS | BULKERS | MPP/GENERAL CARGO | CONTAINERS | SENTIMENTS / WEEKLY FUTURE TREND |
+| --- | --- | --- | --- | --- | --- |
+| ALANG (WC INDIA) | 550 ~ 560 | 530 ~ 540 | 550 ~ 560 | 580 ~ 590 | IMPROVING / icon: green up arrow |
+| CHATTOGRAM, BANGLADESH | *520 ~ 530 | *510 ~ 520 | *500 ~ 510 | *550 ~ 560 | STABLE / icon: blue horizontal double arrow |
+| GADDANI, PAKISTAN | *550 ~ 560 | *540 ~ 550 | *520 ~ 530 | *580 ~ 590 | STABLE / icon: blue horizontal double arrow |
+| TURKEY *For Non-EU ships. For EU Ship, the prices are about US$30-40/ton less | 270 ~ 280 | 260 ~ 270 | 250 ~ 260 | 300 ~ 310 | STABLE / icon: blue horizontal double arrow |
 
-- All prices are USD per light displacement tonnage in the long ton.
-- The prices reported are net prices offered by the recycling yards.
-- Prices quoted are basis simple Japanese / Korean-built tonnages trading units. Premiums are paid on top of the above-quoted prices based on quality & quality of Spares, Non-Fe., bunkers, cargo history, and maintenance.
-- \* Prices are based on the subject Letters of Credit opening.
+All prices are USD per light displacement tonnage in the long ton.
+
+The prices reported are net prices offered by the recycling yards.
+
+Prices quoted are basis simple Japanese / Korean-built tonnages trading units. Premiums are paid on top of the above-quoted prices based on quality & quality of Spares, Non-Fe., bunkers, cargo history, and maintenance.
+
+* Prices are based on the subject Letters of Credit opening.
 
 ## 5-Year Ship Recycling Average Historical Prices
 
 (Week 1)
 
-**DESTINATION 2018 2019 2020 2021 2022**
-
+| DESTINATION | 2018 | 2019 | 2020 | 2021 | 2022 |
+| --- | --- | --- | --- | --- | --- |
 | ALANG, INDIA | 440 | 430 | 395 | 420 | 565 |
-|---|---|---|---|---|---|
 | CHATTOGRAM, BANGLADESH | 430 | 430 | 375 | 430 | 595 |
 | GADDANI, PAKISTAN | 410 | 415 | 365 | 425 | 585 |
-| ALIAGA, TURKEY | 290 | 250 Ships Sold for Recycling | 250 | 275 | 335 |
+| ALIAGA, TURKEY | 290 | 250 | 250 | 275 | 335 |
+
+# Ships Sold for Recycling
+
 | VESSEL NAME | LDT / MT | YEAR / BUILT | TYPE | PRICE (US$/LDT) | COMMENTS |
-|---|---|---|---|---|---|
+| --- | --- | --- | --- | --- | --- |
 | SOL DELTA | 7,852 | 1995 / POLAND | CONTAINER | 587 | DELIVERED ALANG |
 | SUN SHUN | 1,206 | 1994 / JAPAN | TANKER | 525 | DELVIERED CHATTOGRAM |
 | XIANG SHUN | 1,314 | 1996 / JAPAN | TANKER | 525 | DELIVERED CHATTOGRAM |
@@ -272,9 +278,38 @@ All cylinders are firing! The robust local demand and the shortage of ship suppl
 
 ## Page 12
 
+# Anchorage & Beaching Position (January 2023)
+
+| VESSEL NAME | TYPE | LDT | ARRIVAL | BEACHING |
+| --- | --- | --- | --- | --- |
+| CHUN YING NO. 777 | FISHING | 581 | 03.01.2023 | 06.01.2023 |
+| CAPE OSPERY | BULK CARRIER | 21,277 | 03.01.2023 | AWAITING |
+| AKINADA BRIDGE | CONTAINER | 24,294 | 05.01.2023 | AWAITING |
+| NIX 7 | LPG | 2,705 | 05.01.2023 | AWAITING |
+
 #### CHATTOGRAM, BANGLADESH
 
-The new year started with gradual activities resuming. The ongoing saga of the letters of credit continues with a limited number of recyclers being able to facilitate payments on a case-to-case basis. But in general, the markets remain status quo. On the ground level, the recycling yard sales of the ship scrap have reduced in light of rising prices due to shortage as finished products demand lags. Local mills are operating at their 20% to 30% capacity. Most cash buyers still wanted to refrain from risking sales into Bangladesh markets as the banking system is not yet opened up like before, and only a handful of recyclers are able to facilitate payment mechanisms. Overall, ship prices have settled down at the prevailing rates.
+The new year started with gradual activities resuming. The ongoing saga of the letters of credit continues with a limited number of recyclers being able to facilitate payments on a case-to-case basis. But in general, the markets remain status quo.
+
+On the ground level, the recycling yard sales of the ship scrap have reduced in light of rising prices due to shortage as finished products demand lags. Local mills are operating at their 20% to 30% capacity.
+
+Most cash buyers still wanted to refrain from risking sales into Bangladesh markets as the banking system is not yet opened up like before, and only a handful of recyclers are able to facilitate payment mechanisms.
+
+Overall, ship prices have settled down at the prevailing rates.
+
+# Anchorage & Beaching Position (January 2023)
+
+| VESSEL NAME | TYPE | LDT | ARRIVAL | BEACHING |
+| --- | --- | --- | --- | --- |
+| LUMO | BULKER | 7,987 | 04.01.2023 | AWAITING |
+| HONG FA | TANKER | 2,173 | 31.012.2022 | AWAITING |
+| BHUM | CONTAINER | 5,103 | 29.12.2022 | AWAITING |
+| JOINT LUCK | TANKER | 2,063 | 24.12.2022 | AWAITING |
+| HAI FENG 698 | REEFER | 7,240 | 26.11.2022 | AWAITING |
+| JOINT LUCK | TANKER | 2,063 | 24.12.2022 | AWAITING |
+| CHANG FA HAI | BULKER | 10,072 | 30.12.2023 | 07.01.2023 |
+| SYLT | TANKER | 2,001 | 23.12.2022 | 03.01.2023 |
+| SHUN RONG | TANKER | 879 | 22.12.2022 | 03.01.2023 |
 
 ## Page 13
 
@@ -295,15 +330,34 @@ Scrap prices in Turkey are seeing sharp increases due to tight supply and the co
 
 ## Page 14
 
-### Bunker Prices (USD / ton)
+# BEACHING TIDE DATES 2022
 
-| PORT | VLSFO (0.5%) | HSFO (3.5%) | MGO (0.1%) |
-| :--- | :---: | :---: | :---: |
+Chattogram, Bangladesh : 7th Jan ~ 10th Jan | 22nd Jan ~ 25th Jan
+Alang, India : 4th Jan ~ 11th Jan | 19th Jan ~ 27th Jan
+
+# Bunker Prices
+
+#### BUNKER PRICES (USD/TON)
+
+| PORTS | VLSFO (0.5%) | IFO380 CST | MGO (0.1%) |
+| --- | --- | --- | --- |
 | SINGAPORE | 591 | 377 | 878 |
 | HONG KONG | 606 | 408 | 934 |
 | FUJAIRAH | 592 | 368 | 1128 |
 | ROTTERDAM | 540 | 373 | 849 |
 | HOUSTON | 554 | 387 | 923 |
+
+# Exchange Rates
+
+#### EXCHANGE RATES
+
+|  | 6th JANUARY | 30th DECEMBER | W-O-W % CHANGE |
+| --- | --- | --- | --- |
+| USD / CNY (CHINA) | 6.83 | 6.94 | +1.59% |
+| USD / BDT (BANGLADESH) | 102.88 | 106.12 | +3.05% |
+| USD / INR (INDIA) | 82.31 | 82.74 | +0.52% |
+| USD / PKR (PAKISTAN) | 228.22 | 226.70 | -0.67% |
+| USD / TRY (TURKEY) | 18.77 | 18.72 | -0.27% |
 
 ## Page 15
 

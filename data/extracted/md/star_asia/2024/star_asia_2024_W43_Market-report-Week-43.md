@@ -104,13 +104,44 @@ Rates closed softer in the MEG, reflecting similar conditions in larger vessel s
 
 ## Page 6
 
-Clean:
+# Clean:
 
 LR: LR2 experienced a softer week with both LR1 and LR2 vessels seeing weaker demand at the start of week. TC1 fell 13 points, closing to WS120. Similarly, for LR1 in the MEG, levels remain under pressure with TC5 falling to WS128.
 
-MR: The MR market in the Far East closed slightly weaker, pressured by overall sluggish demand and continued cargo migration to larger units. In the UKC, rates remain stagnant with levels for TC2 closing at WS92 range. In the MEG region, it was a week of big losses and poor performance as TC17 lost some 30 points to WS204.
+MR: The MR market in the Far East closed slightly weaker, pressured by overall sluggish demand and continued cargo migration to larger units. In the UKC, rates remain
+
+stagnant with levels for TC2 closing at WS92 range. In the MEG region, it was a week of big losses and poor performance as TC17 lost some 30 points to WS204.
 
 ## Baltic Exchange Tanker Indices
+
+| INDICES | CURRENT | LAST WEEK | LAST YEAR | W-O-W CHANGE | Y-O-Y CHANGE |
+| --- | --- | --- | --- | --- | --- |
+| BDTI | 1,041 | 1,043 | 1,372 | -0.19% | -24.13% |
+| BCTI | 558 | 580 | 794 | -3.79% | -29.72% |
+
+Tankers Values
+
+(Weekly)
+
+| TYPE | DWT | NB CONTRACT | NB PROMPT DELIVERY | 5 YEARS | 10 YEARS | 15 YEARS |
+| --- | --- | --- | --- | --- | --- | --- |
+| VLCC | 310,000 | 129 | 146 | 116 | 86 | 58 |
+| SUEZMAX | 160,000 | 90 | 99 | 83 | 68 | 50 |
+| AFRAMAX | 115,000 | 75 | 86 | 72 | 62 | 44 |
+| LRI | 73,000 | 62 | 68 | 58 | 48 | 32 |
+| MR | 51,000 | 52 | 53 | 50 | 41 | 28 |
+
+*(amount in USD million)
+
+Tanker 12 months T/C rates average (in USD/day)
+
+| TYPE | DWT | CURRENT | LAST WEEK | LAST YEAR | W-O-W CHANGE | Y-O-Y CHANGE |
+| --- | --- | --- | --- | --- | --- | --- |
+| VLCC | 310,000 | 47,000 | 47,000 | 43,250 | 0 | +8.67% |
+| SUEZMAX | 150,000 | 41,750 | 41,750 | 39,250 | 0 | +6.37% |
+| AFRAMAX | 110,000 | 39,000 | 39,000 | 38,500 | 0 | +1.30% |
+| LRI | 74,000 | 27,500 | 29,000 | 31,250 | -5.17% | -12.00% |
+| MR | 47,000 | 26,750 | 26,500 | 26,000 | +0.94% | +2.88% |
 
 ## Page 7
 
@@ -256,33 +287,37 @@ The Turkish scrap market is witnessing a period of price stagnant in domestic pr
 
 Additionally, domestic Turkish shipbreaking scrap prices have adjusted downward to US$365/t delivered, reflecting broader market conditions as the Turkish currency settled at TRY 34.29/dollar at closing.
 
----
+# BEACHING TIDE DATES 2024
 
-Chattogram, Bangladesh : 30 October - 2 November | 14 - 17 November Alang, India : 31 October - 7 November | 14 - 21 November
+Chattogram, Bangladesh : 30 October – 2 November | 14 – 17 November
 
----
+Alang, India : 31 October – 7 November | 14 – 21 November
 
-BUNKER PRICES (USD/TON)
+#### BUNKER PRICES (USD/TON)
 
 | PORTS | VLSFO (0.5%) | HSFO (3.5%) | MGO (0.1%) |
-|---|---|---|---|
+| --- | --- | --- | --- |
 | SINGAPORE | 595 | 488 | 645 |
 | HONG KONG | 587 | 492 | 650 |
 | FUJAIRAH | 575 | 480 | 750 |
 | ROTTERDAM | 538 | 495 | 690 |
 | HOUSTON | 535 | 480 | 670 |
 
-EXCHANGE RATES
+#### EXCHANGE RATES
 
 | CURRENCY | October 25 | October 18 | W-O-W % CHANGE |
-|---|---|---|---|
+| --- | --- | --- | --- |
 | USD / CNY (CHINA) | 7.12 | 7.10 | -0.28% |
 | USD / BDT (BANGLADESH) | 119.56 | 119.60 | +0.03% |
 | USD / INR (INDIA) | 84.08 | 84.06 | -0.02% |
 | USD / PKR (PAKISTAN) | 277.63 | 277.87 | +0.09% |
-| USD / TRY (TURKEY) | 34.29 Sub-Continent and Turkey ferrous scrap markets insight | 34.23 | -0.18% |
+| USD / TRY (TURKEY) | 34.29 | 34.23 | -0.18% |
 
-The Sub-Continent and Turkey scrap markets experienced sluggish activity, with limited interest from buyers in India, Pakistan, and Bangladesh. Price discrepancies, high inventories, and weak steel market sentiment kept new bookings at bay. Trade activity in India remained minimal as buyers exercised caution amid a slowdown in the domestic steel market. The market was further impacted by regional disruptions, including a cyclone in some areas and the upcoming Diwali festival. A US$5-8/ ton gap between buyer bids and seller offers contributed to the lack of interest in imported scrap. Indicative offers for shredded scrap from the U.S. and Europe stood at US$395-398/ton CFR Nhava Sheva, while buyers targeted US$390-392/ton CFR. Offers for HMS (80:20)
+# Sub-Continent and Turkey ferrous scrap markets insight
+
+The Sub-Continent and Turkey scrap markets experienced sluggish activity, with limited interest from buyers in India, Pakistan, and Bangladesh. Price discrepancies, high inventories, and weak steel market sentiment kept new bookings at bay.
+
+Trade activity in India remained minimal as buyers exercised caution amid a slowdown in the domestic steel market. The market was further impacted by regional disruptions, including a cyclone in some areas and the upcoming Diwali festival. A US$5-8/ ton gap between buyer bids and seller offers contributed to the lack of interest in imported scrap. Indicative offers for shredded scrap from the U.S. and Europe stood at US$395-398/ton CFR Nhava Sheva, while buyers targeted US$390-392/ton CFR. Offers for HMS (80:20)
 
 ## Page 18
 

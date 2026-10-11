@@ -334,15 +334,29 @@ The prices of imported scrap in Turkey continue to rise due to demand outpacing 
 
 ## Page 16
 
-### Bunker Prices (USD / ton)
+# Bunker Prices
 
-| PORT | VLSFO (0.5%) | HSFO (3.5%) | MGO (0.1%) |
-| :--- | :---: | :---: | :---: |
+#### BUNKER PRICES (USD/TON)
+
+| PORTS | VLSFO (0.5%) | IFO380 CST | MGO (0.1%) |
+| --- | --- | --- | --- |
 | SINGAPORE | 690 | 397 | 870 |
 | HONG KONG | 687 | 458 | 918 |
 | FUJAIRAH | 657 | 381 | 1139 |
 | ROTTERDAM | 589 | 394 | 829 |
 | HOUSTON | 634 | 400 | 997 |
+
+# Exchange Rates
+
+#### EXCHANGE RATES
+
+|  | 3rd FEBRUARY | 27th JANUARY | W-O-W % CHANGE |
+| --- | --- | --- | --- |
+| USD / CNY (CHINA) | 6.77 | 6.78 | +0.15% |
+| USD / BDT (BANGLADESH) | 107.28 | 105.67 | -1.52% |
+| USD / INR (INDIA) | 82.33 | 81.58 | -0.92% |
+| USD / PKR (PAKISTAN) | 275.18 | 253.24 | -8.66% |
+| USD / TRY (TURKEY) | 18.81 | 18.81 | 0 |
 
 ## Page 17
 

@@ -93,9 +93,22 @@ BALTIC EXCHANGE DRY BULK INDICES
 
 ## Page 4
 
+#### BULKER 12 MONTHS T/C RATES AVERAGE (IN USD/DAY)
+
+|  | DWT | CURRENT | LAST WEEK | LAST YEAR | W-O-W CHANGE % | Y-O-Y CHANGE % |
+| --- | --- | --- | --- | --- | --- | --- |
+| CAPE | 180,000 | 19,750 | 19,250 | 30,750 | +2.60% | -35.77% |
+| PANAMAX | 75,000 | 15,500 | 16,000 | 26,850 | -3.13% | -42.27% |
+| SUPRAMAX | 52,000 | 15,750 | 16,000 | 28,000 | -1.56% | -43.75% |
+| HANDYSIZE | 32,000 | 12,750 | 12,650 | 24,750 | +0.79% | -48.48% |
+
+# Dry Bulk 1 year T/C rates
+
 # Tankers
 
-Crude oil prices experienced an increase on Thursday after significant losses earlier in the week due to two U.S. bank collapses, which sparked industry meltdown concerns. The early Thursday recovery was influenced by an update on China's growth outlook from Goldman Sachs, reinforcing expectations of higher oil demand this year. This followed optimistic forecasts from OPEC and the International Energy Agency, predicting a record-high global oil demand of 102 million barrels daily. OPEC stated that oil demand would rise by 2.32 million barrels daily, with China contributing significantly. However, the organization expressed concerns about rising interest rates and global debt levels impacting economic growth. Support for prices came from the Swiss central bank's decision to lend up to US$54 billion to Credit Suisse, preventing a devastating collapse. Despite this, price recovery remains unstable
+Crude oil prices experienced an increase on Thursday after significant losses earlier in the week due to two U.S. bank collapses, which sparked industry meltdown concerns. The early Thursday recovery was influenced by an update on China's growth outlook from Goldman Sachs, reinforcing expectations of higher oil demand this year. This followed optimistic forecasts from OPEC and the International Energy Agency, predicting a record-high global oil demand of 102 million barrels daily. OPEC stated that oil demand would rise by 2.32 million barrels daily, with China contributing significantly. However, the organization expressed concerns about rising interest rates and global debt levels impacting economic growth.
+
+Support for prices came from the Swiss central bank's decision to lend up to US$54 billion to Credit Suisse, preventing a devastating collapse. Despite this, price recovery remains unstable
 
 ## Page 5
 
@@ -206,29 +219,31 @@ Freight rates across all sizes experience downward adjustments due to supply-dem
 
 # Ship Recycling Market Snapshot
 
-| DESTINATION | TANKERS | BULKERS | MPP/ GENERAL | CONTAINERS | SENTIMENTS / WEEKLY FUTURE |
-|---|---|---|---|---|---|
-| *For green ship recycling, the prices are about | 550 ~ 560 | 530 ~ 540 | 540 ~ 550 | 580 ~ 590 | STABLE / |
-| CHATTOGRAM, BANGLADESH | \*610 ~ 620 | \*590 ~ 600 | \*570 ~ 580 | \*620 ~ 630 | STABLE / |
+| DESTINATION | TANKERS | BULKERS | MPP/ GENERAL CARGO | CONTAINERS | SENTIMENTS / WEEKLY FUTURE TREND |
+| --- | --- | --- | --- | --- | --- |
+| ALANG (WC INDIA) *For green ship recycling, the prices are about US$25-30/ton lower. | 550 ~ 560 | 530 ~ 540 | 540 ~ 550 | 580 ~ 590 | STABLE / |
+| CHATTOGRAM, BANGLADESH | *610 ~ 620 | *590 ~ 600 | *570 ~ 580 | *620 ~ 630 | STABLE / |
 | GADDANI, PAKISTAN | NA | NA | NA | NA | NA |
-| TURKEY \*For Non-EU ships. For E.U. Ship, the prices are about US$30-40/ton less | 320 ~ 330 | 310 ~ 320 | 300 ~ 310 | 330 ~ 340 | STABLE / |
+| TURKEY *For Non-EU ships. For E.U. Ship, the prices are about US$30-40/ton less | 320 ~ 330 | 310 ~ 320 | 300 ~ 310 | 330 ~ 340 | STABLE / |
 
-- All prices are USD per light displacement tonnage in the long ton.
-- The prices reported are net prices offered by the recycling yards.
-- Prices quoted are basis simple Japanese / Korean-built tonnages trading units. Premiums are paid on top of the above- quoted prices based on quality & quality of Spares, Non-Fe., bunkers, cargo history, and maintenance.
-- \* Prices are based on the subject Letters of Credit opening and case-to-case buying.
+All prices are USD per light displacement tonnage in the long ton.
+
+The prices reported are net prices offered by the recycling yards.
+
+Prices quoted are basis simple Japanese / Korean-built tonnages trading units. Premiums are paid on top of the above-quoted prices based on quality & quality of Spares, Non-Fe., bunkers, cargo history, and maintenance.
+
+* Prices are based on the subject Letters of Credit opening and case-to-case buying.
 
 ## 5-Year Ship Recycling Average Historical Prices
 
 (Week 11)
 
-```text
-DESTINATION 2018 2019 2020 2021 2022
-ALANG, INDIA 460 445 390 450 655
-CHATTOGRAM, BANGLADESH 470 450 350 450 660
-GADDANI, PAKISTAN 420 420 360 460 645
-ALIAGA, TURKEY 290 280 240 245 410
-```
+| DESTINATION | 2018 | 2019 | 2020 | 2021 | 2022 |
+| --- | --- | --- | --- | --- | --- |
+| ALANG, INDIA | 460 | 445 | 390 | 450 | 655 |
+| CHATTOGRAM, BANGLADESH | 470 | 450 | 350 | 450 | 660 |
+| GADDANI, PAKISTAN | 420 | 420 | 360 | 460 | 645 |
+| ALIAGA, TURKEY | 290 | 280 | 240 | 245 | 410 |
 
 ## Page 10
 
@@ -255,6 +270,23 @@ Overall a quiet week with no ships reported sold. The price differential between
 
 ## Page 12
 
+# Anchorage & Beaching Position (March 2023)
+
+| VESSEL NAME | TYPE | LDT | ARRIVAL | BEACHING |
+| --- | --- | --- | --- | --- |
+| LEVANT HORIZON | MPP | 3,391 | 11.03.2023 | 18.03.2023 |
+| MONET | LPG | 2,018 | 08.03.2023 | 14.03.2023 |
+| WAN CHAI 7 | CONTAINER | 7,008 | 08.03.2023 | 13.03.2023 |
+| WAN CHAI 6 | CONTAINER | 6,995 | 04.03.2023 | 09.03.2023 |
+| STELLA KARINA | FISHING | 1,264 | 02.03.2023 | 09.03.2023 |
+| HALUL 27 | OSV | 1,937 | 28.02.2023 | 09.03.2023 |
+| HALUL 22 | OSV | 1,404 | 28.02.2023 | 08.03.2023 |
+| SAS 1 | OSV | 2,113 | 20.02.2023 | 08.03.2023 |
+
+# CHATTOGRAM, BANGLADESH
+
+Speculation for Chattogram has taken the ship recycling prices to a different level as cash buyers compete to secure tonnages in anticipation of rising demand.
+
 A vast majority of the ship recyclers don't believe these prices paid by the cash buyers support the actual market conditions, despite a sharp increase in the domestic ship scrap prices amid delays in issuing letters of credit for imported scrap.
 
 Meanwhile, the Bangladeshi foreign reserves are in critical condition, and banks are again trying to prioritise the essential commodities ahead of Ramadan instead of steel feedstock.
@@ -262,6 +294,19 @@ Meanwhile, the Bangladeshi foreign reserves are in critical condition, and banks
 Market participants anticipate the banking situation to improve in the coming months on the back of receiving the second tranche of the IFM loan to Bangladesh.
 
 The Taka remains stable, hovering just below BDT 106 ~ 107 against the U.S. Dollar, while local steel plate prices appear to have plateaued throughout most of the week.
+
+# Anchorage & Beaching Position (March 2023)
+
+| VESSEL NAME | TYPE | LDT | ARRIVAL | BEACHING |
+| --- | --- | --- | --- | --- |
+| KASH | REEFER | 872 | 15.03.2023 | AWAITING |
+| EXPRESS | RORO | 1,819 | 07.03.2023 | 12.03.2023 |
+| SAM | BULKER | 21,181 | 06.03.2023 | 11.03.2023 |
+| XIUMEI SHANGHAI | CONTAINER | 7,334 | 25.02.2023 | 10.03.2023 |
+| VADI | BULKER | 10,247 | 05.03.2023 | 10.03.2023 |
+| KAMO | MPP | 4,426 | 06.03.2023 | 09.03.2023 |
+| SEA WIN | BULKER | 7,488 | 14.02.2023 | 09.03.2023 |
+| NING FENG 316 | BULKER | 11,350 | 24.02.2023 | 09.03.2023 |
 
 ## Page 13
 
@@ -277,15 +322,41 @@ Scrap prices in Turkey are observed to be stable, as an adequate number of offer
 
 ## Page 14
 
+# BEACHING TIDE DATES 2023
+
+| Chattogram, Bangladesh Alang, India | : 21ˢᵗ ~ 24ᵗʰ March : 19ᵗʰ ~ 26ᵗʰ March | / | 6ᵗʰ ~ 9ᵗʰ April 6ᵗʰ ~ 12ᵗʰ April |
+| --- | --- | --- | --- |
+
+# Bunker Prices
+
+#### BUNKER PRICES (USD/TON)
+
+| PORTS | VLSFO (0.5%) | IFO380 CST | MGO (0.1%) |
+| --- | --- | --- | --- |
+| SINGAPORE | 560 | 416 | 728 |
+| HONG KONG | 571 | 444 | 750 |
+| FUJAIRAH | 553 | 437 | 1057 |
+| ROTTERDAM | 535 | 382 | 726 |
+| HOUSTON | 579 | 387 | 813 |
+
 ### Exchange Rates
 
-| CURRENCY PAIR | 17th MARCH | 10th MARCH | W-O-W % CHANGE |
-| :--- | :---: | :---: | :---: |
+#### EXCHANGE RATES
+
+|  | 17th MARCH | 10th MARCH | W-O-W % CHANGE |
+| --- | --- | --- | --- |
 | USD / CNY (CHINA) | 6.88 | 6.90 | +0.29% |
 | USD / BDT (BANGLADESH) | 107.16 | 105.15 | -1.91% |
 | USD / INR (INDIA) | 82.56 | 82.01 | -0.67% |
 | USD / PKR (PAKISTAN) | 283.25 | 279.26 | -1.43% |
 | USD / TRY (TURKEY) | 19.01 | 18.97 | -0.21% |
+
+# Commodity Prices
+### HMS 1/2 & Tangshan Billet
+
+TANGSHAN BILLET EX-WORKS (CNY/T)
+
+HMS 1/2 TURKEY CFR (USD/T)
 
 ## Page 15
 
