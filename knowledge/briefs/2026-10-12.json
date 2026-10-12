@@ -1,0 +1,217 @@
+{
+  "generated_at": "2026-10-12T18:24:36.979749+00:00",
+  "brief_date": "2026-10-12",
+  "constituent_holdings": {
+    "bdry": {
+      "prompt_contract": {
+        "name": "Capesize 5TC FFA 180kt Timecharter Average M Nov 26",
+        "ticker": "C5TCM X26 INDEX",
+        "lots": 140.0,
+        "price": 41150.0,
+        "market_value": 5761000.0,
+        "weight": 18.65
+      },
+      "next_contract": {
+        "name": "Capesize 5TC FFA 180kt Timecharter Average M Dec 26",
+        "ticker": "C5TCM Z26 INDEX",
+        "lots": 140.0,
+        "price": 40975.0,
+        "market_value": 5736500.0,
+        "weight": 18.57
+      },
+      "implied_roll_yield_pct": 0.43,
+      "curve_regime": "BACKWARDATION_CARRY",
+      "holding_bet_summary_30d": "30-Day Hold: Direct bet on Capesize 5TC FFA 180kt Timecharter Average M Nov 26 settling above $41,150/day with 0.4% monthly backwardation carry.",
+      "holding_bet_summary_90d": "90-Day Hold: Traverses prompt through Q-strip. Requires spot to beat 1.3% cumulative 3-month backwardation carry.",
+      "holding_bet_summary_180d": "180-Day Hold: Seasonal cycle traversal. Requires seasonal demand peak to overcome cumulative roll friction and 1.45% OER.",
+      "total_active_contracts": 9
+    },
+    "bwet": {
+      "prompt_contract": {
+        "name": "TD3C FFA 270kt Middle East Gulf to China USD/MT M Nov 26",
+        "ticker": "DD3CM X26 INDEX",
+        "lots": 297.0,
+        "price": 253.135,
+        "market_value": 75181095.0,
+        "weight": 25.49
+      },
+      "next_contract": {
+        "name": "TD3C FFA 270kt Middle East Gulf to China USD/MT M Dec 26",
+        "ticker": "DD3CM Z26 INDEX",
+        "lots": 307.0,
+        "price": 231.915,
+        "market_value": 71197905.0,
+        "weight": 24.14
+      },
+      "implied_roll_yield_pct": 8.38,
+      "curve_regime": "BACKWARDATION_CARRY",
+      "holding_bet_summary_30d": "30-Day Hold: Direct bet on TD3C FFA 270kt Middle East Gulf to China USD/MT M Nov 26 settling above WS 253.1 (~$253,135/d) with 8.4% monthly backwardation carry.",
+      "holding_bet_summary_90d": "90-Day Hold: Traverses prompt through Q-strip. Requires spot to beat 25.1% cumulative 3-month backwardation carry.",
+      "holding_bet_summary_180d": "180-Day Hold: Seasonal cycle traversal. Requires seasonal demand peak to overcome cumulative roll friction and 1.45% OER.",
+      "total_active_contracts": 12
+    }
+  },
+  "generation": {
+    "mode": "template",
+    "provider_used": "template",
+    "model": "",
+    "provider_order": [
+      "groq",
+      "nim",
+      "openrouter",
+      "ollama"
+    ],
+    "attempted_providers": [
+      "groq",
+      "nim",
+      "openrouter",
+      "ollama"
+    ]
+  },
+  "executive_tldr": [
+    "Regime Split: Dry Bulk is in Neutral while Tankers exhibit Bull Confluence. Tankers outperform Dry Bulk on quantitative velocity (Z-differential -3.65σ), favoring energy freight over industrial dry bulk.",
+    "Tactical Desk Strategy: Overweight Dirty Tankers (BDTI/VLCC) relative to Dry Bulk on resilient crude flows.",
+    "Catalyst & Risk Boundary: Next weekly Baltic Exchange index revisions and Breakwave fundamental assessment. Invalidation Trigger: A rapid expansion beyond ±1.0σ Z-score would break the current range-bound regime."
+  ],
+  "market_snapshot": {
+    "bdi": {
+      "value": 2917.0,
+      "z_score_252d": 0.797,
+      "pctl_5y": 0.907,
+      "regime": "EXPANSION",
+      "regime_emoji": "UP",
+      "ma200": 2588.6,
+      "roc60": 2.71
+    },
+    "capesize": {
+      "value": 4340.0,
+      "z_score_252d": 0.356,
+      "pctl_5y": 0.92,
+      "regime": "EXPANSION",
+      "regime_emoji": "UP",
+      "ma200": 4097.8,
+      "roc60": 0.02
+    },
+    "panamax": {
+      "value": 2424.0,
+      "z_score_252d": 1.482,
+      "pctl_5y": 0.993,
+      "regime": "EXPANSION",
+      "regime_emoji": "UP",
+      "ma200": 2031.5,
+      "roc60": 7.4
+    },
+    "supramax": {
+      "value": 1814.0,
+      "z_score_252d": 1.587,
+      "pctl_5y": 1.0,
+      "regime": "EXPANSION",
+      "regime_emoji": "UP",
+      "ma200": 1465.3,
+      "roc60": 4.86
+    },
+    "handysize": {
+      "value": 996.0,
+      "z_score_252d": 1.637,
+      "pctl_5y": 0.809,
+      "regime": "EXPANSION",
+      "regime_emoji": "UP",
+      "ma200": 818.1,
+      "roc60": 10.18
+    },
+    "clean_tanker": {
+      "value": 2403.0,
+      "z_score_252d": 2.117,
+      "pctl_5y": 0.998,
+      "regime": "EXPANSION",
+      "regime_emoji": "UP",
+      "ma200": 1454.8,
+      "roc60": 100.25
+    },
+    "dirty_tanker": {
+      "value": 7964.0,
+      "z_score_252d": 4.448,
+      "pctl_5y": 1.0,
+      "regime": "EXPANSION",
+      "regime_emoji": "UP",
+      "ma200": 2709.7,
+      "roc60": 251.15
+    }
+  },
+  "vessel_classes": {
+    "dry_bulk": {
+      "confluence_type": "NEUTRAL",
+      "momentum_grade": "UP",
+      "positioning_bias": "NEUTRAL",
+      "confidence_score": 0.45,
+      "confluence_note": "Signal alignment is mixed for dry bulk (Z=+0.80sigma); conviction remains limited. Of 6 Breakwave reports: Sentiment 0 pos/0 neg/6 neu; Momentum 2 pos/1 neg/3 neu; Fundamentals 0 pos/0 neg/6 neu.",
+      "summary": "Dry Bulk is in expansion regime at 2917.0, with z-score +0.80sigma and ROC60 +2.7%. Recent analyst sentiment skews neutral (neutral:6). Signal alignment is mixed for dry bulk (Z=+0.80sigma); conviction remains limited. Of 6 Breakwave reports: Sentiment 0 pos/0 neg/6 neu; Momentum 2 pos/1 neg/3 neu; Fundamentals 0 pos/0 neg/6 neu.",
+      "key_signals": [
+        "Quant: BDI value=2917.0, z=+0.80sigma, 5Y percentile=90.7%.",
+        "Qual: last 6 reports sentiment mix -> neutral:6.",
+        "Cross-check: CAPESIZE value=4340.0, z=+0.36sigma.",
+        "Latest report 2026-09-29: momentum=negative, fundamentals=neutral."
+      ],
+      "trade_idea": "No high-conviction setup: Maintain neutral book positioning and await decisive alignment between momentum and freight fundamentals.",
+      "outlook": "dry bulk outlook is range-bound until either quant momentum or analyst tone breaks decisively.",
+      "catalyst_watch": "Next weekly Baltic Exchange index revisions and Breakwave fundamental assessment.",
+      "watch": "Next weekly Baltic Exchange index revisions and Breakwave fundamental assessment.",
+      "risk_note": "A rapid expansion beyond ±1.0σ Z-score would break the current range-bound regime.",
+      "report_dates": [
+        "2026-09-29",
+        "2026-09-15",
+        "2026-09-01",
+        "2026-08-18",
+        "2026-08-04",
+        "2026-07-21"
+      ]
+    },
+    "tanker": {
+      "confluence_type": "BULL_CONFLUENCE",
+      "momentum_grade": "STRONG_UP",
+      "positioning_bias": "LONG",
+      "confidence_score": 0.8,
+      "confluence_note": "Quant momentum and analyst signals align bullishly for tanker (Z=+3.28sigma). Of 6 Breakwave reports: Sentiment 4 pos/0 neg/2 neu; Momentum 4 pos/1 neg/1 neu; Fundamentals 6 pos/0 neg/0 neu.",
+      "summary": "Tanker is in expansion regime at 2403.0, with z-score +3.28sigma and ROC60 +100.2%. Recent analyst sentiment skews positive (positive:4, neutral:2). Quant momentum and analyst signals align bullishly for tanker (Z=+3.28sigma). Of 6 Breakwave reports: Sentiment 4 pos/0 neg/2 neu; Momentum 4 pos/1 neg/1 neu; Fundamentals 6 pos/0 neg/0 neu.",
+      "key_signals": [
+        "Quant: CLEAN_TANKER value=2403.0, z=+3.28sigma, 5Y percentile=99.8%.",
+        "Qual: last 6 reports sentiment mix -> positive:4, neutral:2.",
+        "Cross-check: DIRTY_TANKER value=7964.0, z=+4.45sigma.",
+        "Latest report 2026-10-06: momentum=negative, fundamentals=positive."
+      ],
+      "trade_idea": "Long DIRTY_TANKER vs CLEAN_TANKER spread to capture dirty tanker momentum outperformance.",
+      "outlook": "Bias stays constructive for tanker while momentum and sentiment remain aligned.",
+      "catalyst_watch": "Upcoming OPEC+ production quota decisions and Middle East route fixture volume are the near-term catalysts.",
+      "watch": "Upcoming OPEC+ production quota decisions and Middle East route fixture volume are the near-term catalysts.",
+      "risk_note": "A sudden compression in crude arbitrage margins or rapid fleet repositioning would invalidate the upside thesis.",
+      "report_dates": [
+        "2026-10-06",
+        "2026-09-22",
+        "2026-09-08",
+        "2026-08-25",
+        "2026-08-11",
+        "2026-07-28"
+      ]
+    }
+  },
+  "macro_note": "Cross-sector signals are mixed with no broad confluence across dry bulk and tanker segments.",
+  "cross_sector_analysis": {
+    "relative_value": "Tankers outperform Dry Bulk on quantitative velocity (Z-differential -3.65σ), favoring energy freight over industrial dry bulk.",
+    "dominant_driver": "Global industrial commodity restocking cycles and regional geopolitical rerouting across key maritime choke points.",
+    "positioning_recommendation": "Overweight Dirty Tankers (BDTI/VLCC) relative to Dry Bulk on resilient crude flows."
+  },
+  "sources": [
+    "breakwave_drybulk_2026-09-29",
+    "breakwave_drybulk_2026-09-15",
+    "breakwave_drybulk_2026-09-01",
+    "breakwave_drybulk_2026-08-18",
+    "breakwave_drybulk_2026-08-04",
+    "breakwave_drybulk_2026-07-21",
+    "breakwave_tankers_2026-10-06",
+    "breakwave_tankers_2026-09-22",
+    "breakwave_tankers_2026-09-08",
+    "breakwave_tankers_2026-08-25",
+    "breakwave_tankers_2026-08-11",
+    "breakwave_tankers_2026-07-28"
+  ]
+}
