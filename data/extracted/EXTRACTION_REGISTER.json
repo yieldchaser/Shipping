@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-12 15:54:45Z",
+  "updated_at": "2026-10-12 16:30:01Z",
   "llamaparse_status": {
     "total_accounts": 11,
     "current_account": 10,
@@ -3551,7 +3551,7 @@
     {
       "file": "ssy_capesize_index_series.csv",
       "target_metric": "SSY Capesize Index, spot routes, 1Y T/C",
-      "rows": 8731,
+      "rows": 8874,
       "columns": [
         "route",
         "base",
@@ -3569,7 +3569,7 @@
     {
       "file": "ssy_capesize_index_time_series.csv",
       "target_metric": "SSY Capesize Index, historical changes, and T/C day rates",
-      "rows": 517,
+      "rows": 519,
       "columns": [
         "issue_date",
         "report_week",
@@ -3612,7 +3612,7 @@
     {
       "file": "ssy_route_rates_series.csv",
       "target_metric": "SSY assessed route freight rates ($/t) across Atlantic & Pacific",
-      "rows": 5170,
+      "rows": 5190,
       "columns": [
         "issue_date",
         "report_week",
@@ -3650,7 +3650,7 @@
     {
       "file": "star_asia_deals_series.csv",
       "target_metric": "Demolition beaching & arrival deals ($/LDT)",
-      "rows": 3354,
+      "rows": 3362,
       "columns": [
         "issue_date",
         "report_week",
@@ -3682,7 +3682,7 @@
     {
       "file": "star_asia_demolition_series.csv",
       "target_metric": "Indicative scrap prices by subcontinent yard ($/LDT)",
-      "rows": 3136,
+      "rows": 3152,
       "columns": [
         "issue_date",
         "report_week",
@@ -3993,13 +3993,13 @@
       "status": "Verified"
     }
   ],
-  "total_master_stacked_rows": 648209,
+  "total_master_stacked_rows": 648398,
   "total_master_series_csvs": 170,
-  "total_stacked_rows": 648209,
+  "total_stacked_rows": 648398,
   "total_series_csvs": 170,
   "total_master_workbooks": 1,
   "total_series_count": 170,
-  "total_rows_extracted": 648514,
+  "total_rows_extracted": 648703,
   "series_inventory": {
     "advanced_shipping_demo_sales_series.csv": 599,
     "advanced_shipping_demolition_series.csv": 2000,
@@ -4147,13 +4147,13 @@
     "signal_reports_metadata.csv": 449,
     "signal_vessel_counts_series.csv": 120,
     "singletons_sales_series.csv": 46,
-    "ssy_capesize_index_series.csv": 8731,
-    "ssy_capesize_index_time_series.csv": 517,
+    "ssy_capesize_index_series.csv": 8874,
+    "ssy_capesize_index_time_series.csv": 519,
     "ssy_capesize_series.csv": 8881,
-    "ssy_route_rates_series.csv": 5170,
+    "ssy_route_rates_series.csv": 5190,
     "star_asia_5y_history_series.csv": 760,
-    "star_asia_deals_series.csv": 3354,
-    "star_asia_demolition_series.csv": 3136,
+    "star_asia_deals_series.csv": 3362,
+    "star_asia_demolition_series.csv": 3152,
     "star_asia_ferrous_scrap_series.csv": 771,
     "star_asia_iron_ore_series.csv": 303,
     "star_asia_ldt_comparison_series.csv": 210,
