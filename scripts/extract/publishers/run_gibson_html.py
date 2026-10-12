@@ -64,9 +64,15 @@ def clean_text(text: str) -> str:
     text = re.sub(r'[\x80-\x9f]', '', text)
     return re.sub(r'\s+', ' ', text).strip()
 
+def is_error_page(html: str) -> bool:
+    """Some report URLs serve a WordPress fatal-error page (HTTP 500) instead of the report."""
+    return "There has been a critical error on this website" in html
+
+
 def http_fetch_html(url: str, target_file: Path) -> str:
     if target_file.exists() and target_file.stat().st_size > 2000:
-        return target_file.read_text(encoding="utf-8", errors="ignore")
+        html = target_file.read_text(encoding="utf-8", errors="ignore")
+        return "" if is_error_page(html) else html
     try:
         curl_bin = "curl.exe" if os.name == "nt" else "curl"
         res = subprocess.run(
@@ -80,6 +86,9 @@ def http_fetch_html(url: str, target_file: Path) -> str:
         else:
             html = raw.decode("utf-8", errors="ignore")
             
+        if is_error_page(html):
+            print(f"Skipping WordPress error page: {url}")
+            return ""
         if len(html) > 2000:
             target_file.parent.mkdir(parents=True, exist_ok=True)
             target_file.write_text(html, encoding="utf-8")
