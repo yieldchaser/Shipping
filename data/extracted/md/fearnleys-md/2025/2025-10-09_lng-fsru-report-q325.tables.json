@@ -4,11 +4,45 @@
   "year": 2025,
   "department": "LNG",
   "report_title": "FSRU Quarterly - Q3/25",
-  "shipment_volume_metrics": [],
-  "coal_futures_spread_metrics": [],
-  "time_charter_vs_asset_metrics": [],
-  "vessel_tightness_metrics": [],
-  "macro_correlation_metrics": [],
+  "source_markdown": "2025-10-09_lng-fsru-report-q325.md",
+  "tables": [],
+  "printed_image_tables": [],
   "charts_count": 7,
-  "source_markdown": "2025-10-09_lng-fsru-report-q325.md"
+  "charts": [
+    {
+      "section": "Quarterly focus: Walking on sunshine – the impact of growth in solar PV generation on FSRU demand",
+      "title": "Installed PV capacity: Europe and Brazil still feels \"exponential\"",
+      "image": "70828f3a-f901-4d80-be14-16919023cbaf/PV_BRAZIL_EUROPE_Q325.png"
+    },
+    {
+      "section": "Quarterly focus: Walking on sunshine – the impact of growth in solar PV generation on FSRU demand",
+      "title": "Installed PV capacity: Latent demand from rapidly growing markets",
+      "image": "70828f3a-f901-4d80-be14-16919023cbaf/PV_EMERGING_Q325.png"
+    },
+    {
+      "section": "FSRU activity and volumes",
+      "title": "Global volumes imported through FSRUs (2022-2025YTD)",
+      "image": "70828f3a-f901-4d80-be14-16919023cbaf/Global_by_year_Q325.png"
+    },
+    {
+      "section": "FSRU activity and volumes",
+      "title": "Monthly volumes imported through FSRUs by region (2025)",
+      "image": "70828f3a-f901-4d80-be14-16919023cbaf/Monthly_by_region_Q325.png"
+    },
+    {
+      "section": "Notable FSRU movements",
+      "title": "FSRU_GLOBAL_MAP_2",
+      "image": "70828f3a-f901-4d80-be14-16919023cbaf/FSRU_GLOBAL_MAP_2.jpg"
+    },
+    {
+      "section": "Asset values: Newbuildings and conversion candidates",
+      "title": "FSRU conversion candidates: Secondhand values",
+      "image": "70828f3a-f901-4d80-be14-16919023cbaf/SH_Values.png"
+    },
+    {
+      "section": "Asset values: Newbuildings and conversion candidates",
+      "title": "FSRU Newbuild prices",
+      "image": "70828f3a-f901-4d80-be14-16919023cbaf/NB_Values.png"
+    }
+  ]
 }

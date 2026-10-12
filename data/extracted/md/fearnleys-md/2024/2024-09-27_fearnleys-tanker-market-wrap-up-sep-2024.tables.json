@@ -4,11 +4,235 @@
   "year": 2024,
   "department": "TANK",
   "report_title": "Fearnleys Tanker Market Wrap-up Sep 2024",
-  "shipment_volume_metrics": [],
-  "coal_futures_spread_metrics": [],
-  "time_charter_vs_asset_metrics": [],
-  "vessel_tightness_metrics": [],
-  "macro_correlation_metrics": [],
-  "charts_count": 24,
-  "source_markdown": "2024-09-27_fearnleys-tanker-market-wrap-up-sep-2024.md"
+  "source_markdown": "2024-09-27_fearnleys-tanker-market-wrap-up-sep-2024.md",
+  "tables": [],
+  "printed_image_tables": [],
+  "charts_count": 45,
+  "charts": [
+    {
+      "section": "Summary and outlook",
+      "title": "Rates and forecast",
+      "image": "98ffeaef-4949-4ee6-9d27-19b50b212be7/rates.png"
+    },
+    {
+      "section": "Summary and outlook",
+      "title": "VLCC rates vs. forecast",
+      "image": "98ffeaef-4949-4ee6-9d27-19b50b212be7/fatfor.png"
+    },
+    {
+      "section": "Summary and outlook",
+      "title": "Proposed OPEC+ voluntary 2.2pd cut unwind",
+      "image": "98ffeaef-4949-4ee6-9d27-19b50b212be7/opec.png"
+    },
+    {
+      "section": "Summary and outlook",
+      "title": "Saudi Arabia and OPEC lost significant market share",
+      "image": "98ffeaef-4949-4ee6-9d27-19b50b212be7/mkt.png"
+    },
+    {
+      "section": "Summary and outlook",
+      "title": "Seaborne crude oil volumes",
+      "image": "98ffeaef-4949-4ee6-9d27-19b50b212be7/volc.png"
+    },
+    {
+      "section": "Summary and outlook",
+      "title": "Seaborne oil product volumes",
+      "image": "98ffeaef-4949-4ee6-9d27-19b50b212be7/volp.png"
+    },
+    {
+      "section": "Summary and outlook",
+      "title": "Total tanker tonne-miles",
+      "image": "98ffeaef-4949-4ee6-9d27-19b50b212be7/tm.png"
+    },
+    {
+      "section": "Summary and outlook",
+      "title": "Total tanker tonne-miles, seasonally",
+      "image": "98ffeaef-4949-4ee6-9d27-19b50b212be7/tms.png"
+    },
+    {
+      "section": "Weaker overall oil market sentiment",
+      "title": "Slightly backwardated but flattening forward curve",
+      "image": "98ffeaef-4949-4ee6-9d27-19b50b212be7/fwd.png"
+    },
+    {
+      "section": "Weaker overall oil market sentiment",
+      "title": "Reflecting ongoing stock draws which will turn to builds",
+      "image": "98ffeaef-4949-4ee6-9d27-19b50b212be7/balance.png"
+    },
+    {
+      "section": "Weaker overall oil market sentiment",
+      "title": "Big divergence in energy agency market balance forecasts",
+      "image": "98ffeaef-4949-4ee6-9d27-19b50b212be7/comp.png"
+    },
+    {
+      "section": "Weaker overall oil market sentiment",
+      "title": "North America seaborne crude oil exports",
+      "image": "98ffeaef-4949-4ee6-9d27-19b50b212be7/NAm.png"
+    },
+    {
+      "section": "Weaker overall oil market sentiment",
+      "title": "Latin America seaborne crude oil exports",
+      "image": "98ffeaef-4949-4ee6-9d27-19b50b212be7/lam.png"
+    },
+    {
+      "section": "Weaker overall oil market sentiment",
+      "title": "Oil demand and supply growth by area",
+      "image": "98ffeaef-4949-4ee6-9d27-19b50b212be7/bal.png"
+    },
+    {
+      "section": "Weaker overall oil market sentiment",
+      "title": "China apparent oil products demand",
+      "image": "98ffeaef-4949-4ee6-9d27-19b50b212be7/chidem.png"
+    },
+    {
+      "section": "Weaker overall oil market sentiment",
+      "title": "China available crude oil vs. refinery runs",
+      "image": "98ffeaef-4949-4ee6-9d27-19b50b212be7/chibal.png"
+    },
+    {
+      "section": "Weaker overall oil market sentiment",
+      "title": "Brent/WTI-Dubai spread, adjusted for 2-1 month forward spread",
+      "image": "98ffeaef-4949-4ee6-9d27-19b50b212be7/arb.png"
+    },
+    {
+      "section": "Weaker overall oil market sentiment",
+      "title": "Brent priced in CNY",
+      "image": "98ffeaef-4949-4ee6-9d27-19b50b212be7/brentc.png"
+    },
+    {
+      "section": "Weaker overall oil market sentiment",
+      "title": "U.S. Gulf crack spreads",
+      "image": "98ffeaef-4949-4ee6-9d27-19b50b212be7/crackus.png"
+    },
+    {
+      "section": "Weaker overall oil market sentiment",
+      "title": "NorthWest Europe crack spreads",
+      "image": "98ffeaef-4949-4ee6-9d27-19b50b212be7/crackeu.png"
+    },
+    {
+      "section": "Weaker overall oil market sentiment",
+      "title": "China crack spreads",
+      "image": "98ffeaef-4949-4ee6-9d27-19b50b212be7/crackch.png"
+    },
+    {
+      "section": "Weaker overall oil market sentiment",
+      "title": "Global refinery runs",
+      "image": "98ffeaef-4949-4ee6-9d27-19b50b212be7/ref.png"
+    },
+    {
+      "section": "Low to balanced fleet growth outlook",
+      "title": "Historical tanker deliveries",
+      "image": "98ffeaef-4949-4ee6-9d27-19b50b212be7/fleet.png"
+    },
+    {
+      "section": "Low to balanced fleet growth outlook",
+      "title": "Historical tanker orderbook",
+      "image": "98ffeaef-4949-4ee6-9d27-19b50b212be7/ob.png"
+    },
+    {
+      "section": "Low to balanced fleet growth outlook",
+      "title": "Tanker orderbook vs. phase-out candidates",
+      "image": "98ffeaef-4949-4ee6-9d27-19b50b212be7/flob.png"
+    },
+    {
+      "section": "Low to balanced fleet growth outlook",
+      "title": "20+ years old vessels share of the total fleet",
+      "image": "98ffeaef-4949-4ee6-9d27-19b50b212be7/20.png"
+    },
+    {
+      "section": "Geopolitics and scenarios",
+      "title": "Russia seaborne exports",
+      "image": "98ffeaef-4949-4ee6-9d27-19b50b212be7/rus.png"
+    },
+    {
+      "section": "Geopolitics and scenarios",
+      "title": "Russian origin share of tanker tonne-miles",
+      "image": "98ffeaef-4949-4ee6-9d27-19b50b212be7/rusi.png"
+    },
+    {
+      "section": "Geopolitics and scenarios",
+      "title": "Red Sea tanker volumes",
+      "image": "98ffeaef-4949-4ee6-9d27-19b50b212be7/red.png"
+    },
+    {
+      "section": "Geopolitics and scenarios",
+      "title": "Cape of Good Hope tanker volumes",
+      "image": "98ffeaef-4949-4ee6-9d27-19b50b212be7/cogh.png"
+    },
+    {
+      "section": "Geopolitics and scenarios",
+      "title": "CPP volumes on VLCC and Suezmax",
+      "image": "98ffeaef-4949-4ee6-9d27-19b50b212be7/cpp.png"
+    },
+    {
+      "section": "Geopolitics and scenarios",
+      "title": "Iran seaborne crude oil exports",
+      "image": "98ffeaef-4949-4ee6-9d27-19b50b212be7/iran.png"
+    },
+    {
+      "section": "Geopolitics and scenarios",
+      "title": "Shadow fleet",
+      "image": "98ffeaef-4949-4ee6-9d27-19b50b212be7/shadow.png"
+    },
+    {
+      "section": "YTD status - demand vs. supply vs. rate development by segment",
+      "title": "VLCC tonne-mile demand",
+      "image": "98ffeaef-4949-4ee6-9d27-19b50b212be7/tmv.png"
+    },
+    {
+      "section": "YTD status - demand vs. supply vs. rate development by segment",
+      "title": "VLCC fleet growth",
+      "image": "98ffeaef-4949-4ee6-9d27-19b50b212be7/fleetv.png"
+    },
+    {
+      "section": "YTD status - demand vs. supply vs. rate development by segment",
+      "title": "VLCC rate development",
+      "image": "98ffeaef-4949-4ee6-9d27-19b50b212be7/rav.png"
+    },
+    {
+      "section": "YTD status - demand vs. supply vs. rate development by segment",
+      "title": "Suezmax tonne-mile demand",
+      "image": "98ffeaef-4949-4ee6-9d27-19b50b212be7/tmsuez.png"
+    },
+    {
+      "section": "YTD status - demand vs. supply vs. rate development by segment",
+      "title": "Suezmax fleet growth",
+      "image": "98ffeaef-4949-4ee6-9d27-19b50b212be7/fleets.png"
+    },
+    {
+      "section": "YTD status - demand vs. supply vs. rate development by segment",
+      "title": "Suezmax rate development",
+      "image": "98ffeaef-4949-4ee6-9d27-19b50b212be7/ras.png"
+    },
+    {
+      "section": "YTD status - demand vs. supply vs. rate development by segment",
+      "title": "Afra/LR2 tonne-mile demand",
+      "image": "98ffeaef-4949-4ee6-9d27-19b50b212be7/tma.png"
+    },
+    {
+      "section": "YTD status - demand vs. supply vs. rate development by segment",
+      "title": "Afra/LR2 fleet growth",
+      "image": "98ffeaef-4949-4ee6-9d27-19b50b212be7/fleeta.png"
+    },
+    {
+      "section": "YTD status - demand vs. supply vs. rate development by segment",
+      "title": "Aframax rate development",
+      "image": "98ffeaef-4949-4ee6-9d27-19b50b212be7/raa.png"
+    },
+    {
+      "section": "YTD status - demand vs. supply vs. rate development by segment",
+      "title": "MR tonne-mile demand",
+      "image": "98ffeaef-4949-4ee6-9d27-19b50b212be7/tmm.png"
+    },
+    {
+      "section": "YTD status - demand vs. supply vs. rate development by segment",
+      "title": "MR fleet growth",
+      "image": "98ffeaef-4949-4ee6-9d27-19b50b212be7/fleetm.png"
+    },
+    {
+      "section": "YTD status - demand vs. supply vs. rate development by segment",
+      "title": "MR rate development",
+      "image": "98ffeaef-4949-4ee6-9d27-19b50b212be7/ram.png"
+    }
+  ]
 }

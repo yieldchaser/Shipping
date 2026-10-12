@@ -4,11 +4,160 @@
   "year": 2025,
   "department": "TANK",
   "report_title": "Fearnleys Tanker Market Wrap-up May 2025",
-  "shipment_volume_metrics": [],
-  "coal_futures_spread_metrics": [],
-  "time_charter_vs_asset_metrics": [],
-  "vessel_tightness_metrics": [],
-  "macro_correlation_metrics": [],
-  "charts_count": 15,
-  "source_markdown": "2025-05-30_fearnleys-tanker-market-wrap-up-may-2025.md"
+  "source_markdown": "2025-05-30_fearnleys-tanker-market-wrap-up-may-2025.md",
+  "tables": [],
+  "printed_image_tables": [],
+  "charts_count": 30,
+  "charts": [
+    {
+      "section": "Summary and outlook",
+      "title": "Rates and forecast",
+      "image": "ae155be6-f3c5-421c-8b77-4c0a0ae2b45b/rates.png"
+    },
+    {
+      "section": "Summary and outlook",
+      "title": "Seaborne crude oil volumes, ex. Iran",
+      "image": "ae155be6-f3c5-421c-8b77-4c0a0ae2b45b/volc.png"
+    },
+    {
+      "section": "Summary and outlook",
+      "title": "Seaborne oil product volumes, ex. Iran",
+      "image": "ae155be6-f3c5-421c-8b77-4c0a0ae2b45b/volp.png"
+    },
+    {
+      "section": "Summary and outlook",
+      "title": "Monthly Atlantic VLCC fixtures",
+      "image": "ae155be6-f3c5-421c-8b77-4c0a0ae2b45b/vatl.png"
+    },
+    {
+      "section": "Summary and outlook",
+      "title": "Monthly MEG VLCC fixtures",
+      "image": "ae155be6-f3c5-421c-8b77-4c0a0ae2b45b/vmeg.png"
+    },
+    {
+      "section": "Summary and outlook",
+      "title": "WTI & Brent - Dubai, less 2-1 WTI forward spread",
+      "image": "ae155be6-f3c5-421c-8b77-4c0a0ae2b45b/arba.png"
+    },
+    {
+      "section": "Summary and outlook",
+      "title": "Brent 7-1 month forward spread",
+      "image": "ae155be6-f3c5-421c-8b77-4c0a0ae2b45b/fwd.png"
+    },
+    {
+      "section": "Summary and outlook",
+      "title": "IEA oil supply/demand and implied balance",
+      "image": "ae155be6-f3c5-421c-8b77-4c0a0ae2b45b/iea.png"
+    },
+    {
+      "section": "Summary and outlook",
+      "title": "IEA oil demand revision",
+      "image": "ae155be6-f3c5-421c-8b77-4c0a0ae2b45b/demand.png"
+    },
+    {
+      "section": "Summary and outlook",
+      "title": "IEA quarterly supply change by source",
+      "image": "ae155be6-f3c5-421c-8b77-4c0a0ae2b45b/supply.png"
+    },
+    {
+      "section": "Summary and outlook",
+      "title": "USG exports",
+      "image": "ae155be6-f3c5-421c-8b77-4c0a0ae2b45b/usg.png"
+    },
+    {
+      "section": "Summary and outlook",
+      "title": "Vancouver exports",
+      "image": "ae155be6-f3c5-421c-8b77-4c0a0ae2b45b/tmx.png"
+    },
+    {
+      "section": "Summary and outlook",
+      "title": "U.S. Gulf Coast crack spreads",
+      "image": "ae155be6-f3c5-421c-8b77-4c0a0ae2b45b/refmus.png"
+    },
+    {
+      "section": "Summary and outlook",
+      "title": "NortWest Europe crack spreads",
+      "image": "ae155be6-f3c5-421c-8b77-4c0a0ae2b45b/refmeu.png"
+    },
+    {
+      "section": "Summary and outlook",
+      "title": "Bohai crack spreads",
+      "image": "ae155be6-f3c5-421c-8b77-4c0a0ae2b45b/refmch.png"
+    },
+    {
+      "section": "Summary and outlook",
+      "title": "Global refinery runs",
+      "image": "ae155be6-f3c5-421c-8b77-4c0a0ae2b45b/rungl.png"
+    },
+    {
+      "section": "Summary and outlook",
+      "title": "U.S. refinery runs",
+      "image": "ae155be6-f3c5-421c-8b77-4c0a0ae2b45b/runus.png"
+    },
+    {
+      "section": "Summary and outlook",
+      "title": "China refinery runs",
+      "image": "ae155be6-f3c5-421c-8b77-4c0a0ae2b45b/runch.png"
+    },
+    {
+      "section": "Summary and outlook",
+      "title": "Quarterly deliveries, crude tankers",
+      "image": "ae155be6-f3c5-421c-8b77-4c0a0ae2b45b/delyc.png"
+    },
+    {
+      "section": "Summary and outlook",
+      "title": "Quarterly deliveries, product tankers",
+      "image": "ae155be6-f3c5-421c-8b77-4c0a0ae2b45b/delyp.png"
+    },
+    {
+      "section": "Summary and outlook",
+      "title": "Ordering, tankers +42k dwt",
+      "image": "ae155be6-f3c5-421c-8b77-4c0a0ae2b45b/order.png"
+    },
+    {
+      "section": "Summary and outlook",
+      "title": "Scrapping, tankers +42k dwt",
+      "image": "ae155be6-f3c5-421c-8b77-4c0a0ae2b45b/scrap.png"
+    },
+    {
+      "section": "Summary and outlook",
+      "title": "Sanctioned fleet overview",
+      "image": "ae155be6-f3c5-421c-8b77-4c0a0ae2b45b/sctn.png"
+    },
+    {
+      "section": "Summary and outlook",
+      "title": "Sanctioned fleet profile",
+      "image": "ae155be6-f3c5-421c-8b77-4c0a0ae2b45b/sanctpro.png"
+    },
+    {
+      "section": "Summary and outlook",
+      "title": "Loadings on OFAC listed tankers, by origin",
+      "image": "ae155be6-f3c5-421c-8b77-4c0a0ae2b45b/flow ofac.png"
+    },
+    {
+      "section": "Summary and outlook",
+      "title": "Loadings on EU listed tankers, by origin",
+      "image": "ae155be6-f3c5-421c-8b77-4c0a0ae2b45b/floweu.png"
+    },
+    {
+      "section": "Summary and outlook",
+      "title": "Loadings on UK listed tankers, by origin",
+      "image": "ae155be6-f3c5-421c-8b77-4c0a0ae2b45b/flowuk.png"
+    },
+    {
+      "section": "Summary and outlook",
+      "title": "Iran, Venezuela & Russia crude oil loading",
+      "image": "ae155be6-f3c5-421c-8b77-4c0a0ae2b45b/shadow.png"
+    },
+    {
+      "section": "Summary and outlook",
+      "title": "Iran, Venezuela & Russia crude oil arrivals",
+      "image": "ae155be6-f3c5-421c-8b77-4c0a0ae2b45b/shadow arr.png"
+    },
+    {
+      "section": "Summary and outlook",
+      "title": "Iran, Venezuela & Russia floating storage",
+      "image": "ae155be6-f3c5-421c-8b77-4c0a0ae2b45b/floating.png"
+    }
+  ]
 }

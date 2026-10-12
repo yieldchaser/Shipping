@@ -324,11 +324,6 @@
 | `drewry_ais_utilisation_curves_series.csv` | Structured time-series | 1,007 | Verified |
 | `drewry_opinions_metadata.csv` | Structured time-series | 551 | Verified |
 | `drewry_wci_series.csv` | Structured time-series | 6 | Verified |
-| `fearnleys_md_coal_futures_spread_series.csv` | Structured time-series | 47 | Verified |
-| `fearnleys_md_macro_correlations_series.csv` | Structured time-series | 78 | Verified |
-| `fearnleys_md_shipment_volumes_series.csv` | Structured time-series | 40 | Verified |
-| `fearnleys_md_tc_vs_asset_series.csv` | Structured time-series | 14 | Verified |
-| `fearnleys_md_vessel_tightness_series.csv` | Structured time-series | 112 | Verified |
 | `fearnleys_rates_series.csv` | Structured time-series | 17,076 | Verified |
 | `gms_demolition_rankings_series.csv` | Structured time-series | 1,092 | Verified |
 | `gms_demolition_sales_series.csv` | Structured time-series | 59 | Verified |

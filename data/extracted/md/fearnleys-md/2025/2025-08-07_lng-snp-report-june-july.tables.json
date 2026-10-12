@@ -4,11 +4,208 @@
   "year": 2025,
   "department": "LNG",
   "report_title": "LNG SnP report - June & July",
-  "shipment_volume_metrics": [],
-  "coal_futures_spread_metrics": [],
-  "time_charter_vs_asset_metrics": [],
-  "vessel_tightness_metrics": [],
-  "macro_correlation_metrics": [],
+  "source_markdown": "2025-08-07_lng-snp-report-june-july.md",
+  "tables": [
+    {
+      "section": "Recent sales",
+      "header": [
+        "Vessel Name",
+        "Year of build",
+        "Sale Price ($Mn)",
+        "Capacity (CBM)",
+        "Seller",
+        "Buyer"
+      ],
+      "rows": [
+        [
+          "Methane Alison Victoria",
+          "2007",
+          "27.00",
+          "145,000",
+          "GasLog",
+          "Excelerate Energy"
+        ],
+        [
+          "Ghasha",
+          "1995",
+          "20.60",
+          "137,500",
+          "ADNOC",
+          "Scrap"
+        ],
+        [
+          "Al Khaznah",
+          "1994",
+          "20.70",
+          "137,500",
+          "ADNOC",
+          "Scrap"
+        ],
+        [
+          "Hyundai Cosmopia",
+          "2000",
+          "19.06",
+          "138,000",
+          "Hyundai LNG Shipping",
+          "Scrap"
+        ],
+        [
+          "Flex Courageous",
+          "2019",
+          "192.50",
+          "174,000",
+          "Flex LNG",
+          "JOLCO"
+        ],
+        [
+          "Hyundai Aquapia",
+          "2000",
+          "19.20",
+          "137,500",
+          "Hyundai LNG Shipping",
+          "Scrap"
+        ]
+      ]
+    },
+    {
+      "section": "Newbuilding update",
+      "header": [
+        "Name",
+        "Owners",
+        "Yard",
+        "Ordered",
+        "Capacity",
+        "Propulsion",
+        "Delivery"
+      ],
+      "rows": [
+        [
+          "Hyundai Samho",
+          "Capital",
+          "Hyundai Samho",
+          "01/07/2025",
+          "180,000",
+          "XDF",
+          "01/03/2028"
+        ],
+        [
+          "Hyundai Samho",
+          "Capital",
+          "Hyundai Samho",
+          "01/07/2025",
+          "180,000",
+          "XDF",
+          "01/03/2028"
+        ],
+        [
+          "Hyundai Samho",
+          "Capital",
+          "Hyundai Samho",
+          "01/07/2025",
+          "180,000",
+          "XDF",
+          "01/03/2028"
+        ],
+        [
+          "Hyundai Samho",
+          "Capital",
+          "Hyundai Samho",
+          "01/07/2025",
+          "180,000",
+          "XDF",
+          "01/03/2028"
+        ],
+        [
+          "Hyundai Samho",
+          "Purus",
+          "Hyundai Samho",
+          "01/04/2025",
+          "180,000",
+          "XDF",
+          "01/03/2028"
+        ],
+        [
+          "Hanwha Ocean 2606",
+          "Hanwha Ocean",
+          "Hanwha Ocean",
+          "01/03/2025",
+          "175,000",
+          "MEGI",
+          "01/06/2027"
+        ],
+        [
+          "Hanwha Ocean 2607",
+          "Hanwha Ocean",
+          "Hanwha Ocean",
+          "01/03/2025",
+          "175,000",
+          "MEGI",
+          "01/08/2027"
+        ],
+        [
+          "Samsung 2729",
+          "Celsius Shipping",
+          "Samsung",
+          "17/01/2025",
+          "180,000",
+          "XDF",
+          "01/06/2027"
+        ]
+      ]
+    }
+  ],
+  "printed_image_tables": [],
   "charts_count": 10,
-  "source_markdown": "2025-08-07_lng-snp-report-june-july.md"
+  "charts": [
+    {
+      "section": "Recent sales",
+      "title": "Yearly sales",
+      "image": "e726f5d2-513f-4f95-945f-97ffbedb63e1/Yearly sales.png"
+    },
+    {
+      "section": "Recent sales",
+      "title": "Asset values",
+      "image": "e726f5d2-513f-4f95-945f-97ffbedb63e1/Asset prices.png"
+    },
+    {
+      "section": "Newbuilding update",
+      "title": "Deliveries incl. orderbook",
+      "image": "e726f5d2-513f-4f95-945f-97ffbedb63e1/Deliveries inc order.png"
+    },
+    {
+      "section": "Newbuilding update",
+      "title": "LNGC orders",
+      "image": "e726f5d2-513f-4f95-945f-97ffbedb63e1/LNG oders.png"
+    },
+    {
+      "section": "Interest rates",
+      "title": "Interest rate (90 day avg. SOFR)",
+      "image": "e726f5d2-513f-4f95-945f-97ffbedb63e1/SOFR.png"
+    },
+    {
+      "section": "Interest rates",
+      "title": "10-Year Treasury Constant Maturity Minus 2-Year Treasury Constant Maturity",
+      "image": "e726f5d2-513f-4f95-945f-97ffbedb63e1/10y2y.png"
+    },
+    {
+      "section": "Recycling",
+      "title": "Demolition price (large tanker)",
+      "image": "e726f5d2-513f-4f95-945f-97ffbedb63e1/Demolition prices.png"
+    },
+    {
+      "section": "World fleet at a glance",
+      "title": "Live fleet by propulsion",
+      "image": "e726f5d2-513f-4f95-945f-97ffbedb63e1/fleet by propulsion.png"
+    },
+    {
+      "section": "World fleet at a glance",
+      "title": "Total fleet",
+      "image": "e726f5d2-513f-4f95-945f-97ffbedb63e1/total fleet.png"
+    },
+    {
+      "section": "World fleet at a glance",
+      "title": "LNGC fleet by propulsion and delivery year",
+      "image": "e726f5d2-513f-4f95-945f-97ffbedb63e1/fleet by prooulsion and delivery year.png"
+    }
+  ]
 }

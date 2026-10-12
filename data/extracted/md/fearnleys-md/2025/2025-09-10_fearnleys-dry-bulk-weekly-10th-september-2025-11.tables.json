@@ -4,39 +4,70 @@
   "year": 2025,
   "department": "BULK",
   "report_title": "Fearnleys Dry Bulk Weekly",
-  "shipment_volume_metrics": [],
-  "coal_futures_spread_metrics": [
-    {
-      "issue_date": "2025-09-10",
-      "year": "2025",
-      "department": "BULK",
-      "report_title": "Fearnleys Dry Bulk Weekly",
-      "p5_kamsarmax_indonesia_rv_usd_day": 13379.2,
-      "p5_4w_prev_usd_day": 13990.83,
-      "newcastle_coal_futures_spread_lead_2m": -3.52,
-      "coal_spread_4w_prev": -3.24,
-      "lead_tenor": "2 Months",
-      "chart_title": "P5 vs Newcastle Coal Futures Spread Lead",
-      "source_image": "P5 vs Newcastle Coal Futures Spread Lead.png",
-      "report_id": "a801a57f-cc13-49fd-9adb-090e7f39da40"
-    }
-  ],
-  "time_charter_vs_asset_metrics": [],
-  "vessel_tightness_metrics": [],
-  "macro_correlation_metrics": [
-    {
-      "issue_date": "2025-09-10",
-      "year": "2025",
-      "department": "BULK",
-      "report_title": "Fearnleys Dry Bulk Weekly",
-      "macro_metric": "Steel Mill Profitability vs Hot Metal Output",
-      "freight_benchmark_val": 29.2,
-      "macro_indicator_val": 2.41,
-      "lead_tenor": "7 Weeks Lead",
-      "chart_title": "STEEL MILL PROFITABILITY VS HOT METAL OUTPUT.png",
-      "report_id": "a801a57f-cc13-49fd-9adb-090e7f39da40"
-    }
-  ],
+  "source_markdown": "2025-09-10_fearnleys-dry-bulk-weekly-10th-september-2025-11.md",
+  "tables": [],
+  "printed_image_tables": [],
   "charts_count": 12,
-  "source_markdown": "2025-09-10_fearnleys-dry-bulk-weekly-10th-september-2025-11.md"
+  "charts": [
+    {
+      "section": "Capesize/Newcastlemax",
+      "title": "China Daily Imported Iron Ore Consumption",
+      "image": "a801a57f-cc13-49fd-9adb-090e7f39da40/china imported iron ore consumption.png"
+    },
+    {
+      "section": "Capesize/Newcastlemax",
+      "title": "Iron Ore Futures Spread, 1st Month Minus 3rd Month (3 Months Lead) vs BCI5TC 60 Days Rolling Average",
+      "image": "a801a57f-cc13-49fd-9adb-090e7f39da40/IRON ORE FUTURES LEAD VS CAPE.png"
+    },
+    {
+      "section": "Capesize/Newcastlemax",
+      "title": "China - Share of Steel Mills that are Profitable, 7 weeks lead, vs Daily Hot Metal Output",
+      "image": "a801a57f-cc13-49fd-9adb-090e7f39da40/STEEL MILL PROFITABILITY VS HOT METAL OUTPUT.png"
+    },
+    {
+      "section": "Capesize/Newcastlemax",
+      "title": "Cape/Newc Weekly Shipment Volumes 24 vs 25",
+      "image": "a801a57f-cc13-49fd-9adb-090e7f39da40/Capenewc Weekly Shipment Volumes.png"
+    },
+    {
+      "section": "Panamax/Kamsarmax",
+      "title": "Panamax / Kamsarmax Heading to Indonesia",
+      "image": "a801a57f-cc13-49fd-9adb-090e7f39da40/PANAMAX KAMSARMAX HEADING TO INDONESIA.png"
+    },
+    {
+      "section": "Panamax/Kamsarmax",
+      "title": "P5 vs Newcastle Coal Futures Curve Spread (Lead 2 Months)",
+      "image": "a801a57f-cc13-49fd-9adb-090e7f39da40/P5 vs Newcastle Coal Futures Spread Lead.png"
+    },
+    {
+      "section": "Panamax/Kamsarmax",
+      "title": "Panamax/Kamsarmax Brazil Soybean Loadings 24 vs 25",
+      "image": "a801a57f-cc13-49fd-9adb-090e7f39da40/USA Soybean Loadings.png"
+    },
+    {
+      "section": "Panamax/Kamsarmax",
+      "title": "Panamax / Kamsarmax USA Soybeans Loadings  24 vs 25",
+      "image": "a801a57f-cc13-49fd-9adb-090e7f39da40/usa soybean loadings 2.png"
+    },
+    {
+      "section": "Supramax/Ultramax",
+      "title": "Copper Price 3 Months Change, 3 Months Lead vs 3 Months Change of Supra 10TC",
+      "image": "a801a57f-cc13-49fd-9adb-090e7f39da40/3 MONTHS CHANGE OF COPPER VS 3 MONTHS CHANGE OF SUPRA 10 TC.png"
+    },
+    {
+      "section": "Supramax/Ultramax",
+      "title": "Copper Price 6 months Change, 4 Month Lead vs Supramax 1 Year TC 6 Months Change",
+      "image": "affeeef6-6d7d-4e59-b482-06fd79a2d1ab/COPPER PRICE VS SUPRAMAX 1 YEAR TC.png"
+    },
+    {
+      "section": "Supramax/Ultramax",
+      "title": "China - Indonesia - China RV",
+      "image": "a801a57f-cc13-49fd-9adb-090e7f39da40/S10.png"
+    },
+    {
+      "section": "Supramax/Ultramax",
+      "title": "Supramax 10TC vs Supramax/Handy Spread",
+      "image": "a801a57f-cc13-49fd-9adb-090e7f39da40/SUPRA HANDY SPREAD.png"
+    }
+  ]
 }

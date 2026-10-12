@@ -23,19 +23,15 @@ Last week, we wrote "*Slight rebound in China's iron ore consumption last week, 
 
 To last week's comment, we can add that inventory building in China has counteracted the negative trend in iron ore consumption since early October. Spot markets are now at year-to-date highs, and the rally might not end until the market gets too high relative to the Kamsarmax market (a ratio of about 2.5 has been the peak in the last 7 years).
 
-> **Chart 1: Share of Profitable Steel Mills (7 Weeks Lead) vs Hot Metal Output**  
-> *Figure Asset:* [`STEEL MILL PROFITABILITY VS HOT METAL OUTPUT.png`](../images/18ca30d0-4bc6-4055-873f-9efac61aa5c8/STEEL%20MILL%20PROFITABILITY%20VS%20HOT%20METAL%20OUTPUT.png)
+![Share of Profitable Steel Mills (7 Weeks Lead) vs Hot Metal Output](../../../../../corpus/01-brokers/fearnleys-md/images/18ca30d0-4bc6-4055-873f-9efac61aa5c8/STEEL%20MILL%20PROFITABILITY%20VS%20HOT%20METAL%20OUTPUT.png)
+*Chart: Share of Profitable Steel Mills (7 Weeks Lead) vs Hot Metal Output*
 
-> **Chart 2: Iron Ore Futures Spread, 1st Month Minus 3rd Month (3 Months Lead) vs BCI5TC 60 Days Rolling Average**  
-> *Online Reference:* [View Chart]()
+*Chart: Iron Ore Futures Spread, 1st Month Minus 3rd Month (3 Months Lead) vs BCI5TC 60 Days Rolling Average*
 
-> **Chart 3: Cape/Newc Weekly Shipments 24 vs 25**  
-> *Online Reference:* [View Chart]()
+*Chart: Cape/Newc Weekly Shipments 24 vs 25*
 
-> **Chart 4: China Iron Ore Inventories at Ports and Steel Mills**  
-> *Figure Asset:* [`China iron ore inventories at ports and steel mills.png`](../images/18ca30d0-4bc6-4055-873f-9efac61aa5c8/China%20iron%20ore%20inventories%20at%20ports%20and%20steel%20mills.png)
-
----
+![China Iron Ore Inventories at Ports and Steel Mills](../../../../../corpus/01-brokers/fearnleys-md/images/18ca30d0-4bc6-4055-873f-9efac61aa5c8/China%20iron%20ore%20inventories%20at%20ports%20and%20steel%20mills.png)
+*Chart: China Iron Ore Inventories at Ports and Steel Mills*
 
 ## Panamax/Kamsarmax
 
@@ -43,35 +39,34 @@ Last week , we wrote *"Indicators look more bullish than one week ago. The coal 
 
 The coal futures curve keeps getting less backwardated, indicating there is room for more upside in the Pacific. However, spot prices have softened slightly, as China's import demand is reportedly slowing down a bit after several strong weeks. Otherwise, the North Atlantic keeps strengthening, supported by US Soybean shipments to China, but the South Atlantic tightness indicator shown below has turned down again. So overall, we are perhaps looking at minor gains in the P5TC index until year-end, but there is a chance the rally will also stall here.
 
-> **Chart 5: Pmx/Kmx Weekly Shipment Volumes**  
-> *Figure Asset:* [`panamax kamsarmax weekly shipment volumes.png`](../images/18ca30d0-4bc6-4055-873f-9efac61aa5c8/panamax%20kamsarmax%20weekly%20shipment%20volumes.png)
+![Pmx/Kmx Weekly Shipment Volumes](../../../../../corpus/01-brokers/fearnleys-md/images/18ca30d0-4bc6-4055-873f-9efac61aa5c8/panamax%20kamsarmax%20weekly%20shipment%20volumes.png)
+*Chart: Pmx/Kmx Weekly Shipment Volumes*
 
-> **Chart 6: P5 vs Newcastle Coal Futures Curve Spread (Lead 2 Months)**  
-> *Figure Asset:* [`P5 vs Newcastle Coal Futures Spread Lead.png`](../images/18ca30d0-4bc6-4055-873f-9efac61aa5c8/P5%20vs%20Newcastle%20Coal%20Futures%20Spread%20Lead.png)
+![P5 vs Newcastle Coal Futures Curve Spread (Lead 2 Months)](../../../../../corpus/01-brokers/fearnleys-md/images/18ca30d0-4bc6-4055-873f-9efac61aa5c8/P5%20vs%20Newcastle%20Coal%20Futures%20Spread%20Lead.png)
+*Chart: P5 vs Newcastle Coal Futures Curve Spread (Lead 2 Months)*
 
-> **Chart 7: North Atlantic net Vessel Change vs P1A minus P5**  
-> *Figure Asset:* [`p1a minus p5.png`](../images/18ca30d0-4bc6-4055-873f-9efac61aa5c8/p1a%20minus%20p5.png)
+![North Atlantic net Vessel Change vs P1A minus P5](../../../../../corpus/01-brokers/fearnleys-md/images/18ca30d0-4bc6-4055-873f-9efac61aa5c8/p1a%20minus%20p5.png)
+*Chart: North Atlantic net Vessel Change vs P1A minus P5*
 
-> **Chart 8: South Atlantic Vessel Tightness Indicator (Lead 1 Month), vs P6**  
-> *Figure Asset:* [`P6 vs SATL Tightness.png`](../images/18ca30d0-4bc6-4055-873f-9efac61aa5c8/P6%20vs%20SATL%20Tightness.png)
-
----
+![South Atlantic Vessel Tightness Indicator (Lead 1 Month), vs P6](../../../../../corpus/01-brokers/fearnleys-md/images/18ca30d0-4bc6-4055-873f-9efac61aa5c8/P6%20vs%20SATL%20Tightness.png)
+*Chart: South Atlantic Vessel Tightness Indicator (Lead 1 Month), vs P6*
 
 ## Supramax/Ultramax
 
-Two weeks ago, we wrote: *"Rates found support last week, reflecting that the underlying fundamentals are strong. The surge in USG rates has been particularly impressive. We still think the highs of the year are behind us, however. 
+Two weeks ago, we wrote: *"Rates found support last week, reflecting that the underlying fundamentals are strong. The surge in USG rates has been particularly impressive. We still think the highs of the year are behind us, however.
+
 In comparable years when demand growth surged during the second half of the year, like this year, the following Q1 turned out to be quite firm. 2023 into 2024, when the S11TC index bottomed at 13.500 usd pd in January, and 2020 into 2021, when markets kept rising in Q1."*
 
 Industrial metals prices have softened over the last month, and the ballaster/laden vessel ratio has turned up noticeably in the last weeks. The Jan/Feb downseason is quickly approaching, so we think at best spot levels will trend sideways until year-end.
 
-> **Chart 9: Copper Price 3 Months Change, 3 Months Lead vs 3 Months Change of Supra 10TC**  
-> *Figure Asset:* [`3 MONTHS CHANGE OF COPPER VS 3 MONTHS CHANGE OF SUPRA 10 TC.png`](../images/1af71b34-ea9e-488a-be44-cbf070e85f6c/3%20MONTHS%20CHANGE%20OF%20COPPER%20VS%203%20MONTHS%20CHANGE%20OF%20SUPRA%2010%20TC.png)
+![Copper Price 3 Months Change, 3 Months Lead vs 3 Months Change of Supra 10TC](../../../../../corpus/01-brokers/fearnleys-md/images/1af71b34-ea9e-488a-be44-cbf070e85f6c/3%20MONTHS%20CHANGE%20OF%20COPPER%20VS%203%20MONTHS%20CHANGE%20OF%20SUPRA%2010%20TC.png)
+*Chart: Copper Price 3 Months Change, 3 Months Lead vs 3 Months Change of Supra 10TC*
 
-> **Chart 10: Copper Price 6 months Change, 4 Month Lead vs Supramax 1 Year TC 6 Months Change**  
-> *Figure Asset:* [`COPPER PRICE VS SUPRAMAX 1 YEAR TC.png`](../images/1af71b34-ea9e-488a-be44-cbf070e85f6c/COPPER%20PRICE%20VS%20SUPRAMAX%201%20YEAR%20TC.png)
+![Copper Price 6 months Change, 4 Month Lead vs Supramax 1 Year TC 6 Months Change](../../../../../corpus/01-brokers/fearnleys-md/images/1af71b34-ea9e-488a-be44-cbf070e85f6c/COPPER%20PRICE%20VS%20SUPRAMAX%201%20YEAR%20TC.png)
+*Chart: Copper Price 6 months Change, 4 Month Lead vs Supramax 1 Year TC 6 Months Change*
 
-> **Chart 11: Industrial Metals Index vs Ultramax 1 Year TC**  
-> *Figure Asset:* [`Industrial Metals Index vs Ultramax 1 Year TC.png`](../images/e37f686b-2fbe-45c2-9dfa-0566b4fb3b1e/Industrial%20Metals%20Index%20vs%20Ultramax%201%20Year%20TC.png)
+![Industrial Metals Index vs Ultramax 1 Year TC](../../../../../corpus/01-brokers/fearnleys-md/images/e37f686b-2fbe-45c2-9dfa-0566b4fb3b1e/Industrial%20Metals%20Index%20vs%20Ultramax%201%20Year%20TC.png)
+*Chart: Industrial Metals Index vs Ultramax 1 Year TC*
 
-> **Chart 12: Supra/Ultra Ballaster/Laden Vessel Ratio**  
-> *Figure Asset:* [`supraultra ballaster laden vessel ratio.png`](../images/18ca30d0-4bc6-4055-873f-9efac61aa5c8/supraultra%20ballaster%20laden%20vessel%20ratio.png)
+![Supra/Ultra Ballaster/Laden Vessel Ratio](../../../../../corpus/01-brokers/fearnleys-md/images/18ca30d0-4bc6-4055-873f-9efac61aa5c8/supraultra%20ballaster%20laden%20vessel%20ratio.png)
+*Chart: Supra/Ultra Ballaster/Laden Vessel Ratio*

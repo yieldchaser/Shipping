@@ -381,23 +381,17 @@
       "tooling": "PyMuPDF targeted coordinate parsing"
     },
     "fearnleys_md": {
-      "total_docs": 179,
+      "total_docs": 184,
       "eras": "2024-2026",
-      "status": "CLOSED",
+      "status": "OPEN",
       "deliverables": [
-        "data/extracted/series/fearnleys_md_master_econometric_series.xlsx",
-        "data/extracted/series/fearnleys_md_vessel_tightness_series.csv",
-        "data/extracted/series/fearnleys_md_macro_correlations_series.csv",
-        "data/extracted/series/fearnleys_md_coal_futures_spread_series.csv",
-        "data/extracted/series/fearnleys_md_shipment_volumes_series.csv",
-        "data/extracted/series/fearnleys_md_tc_vs_asset_series.csv",
-        "corpus/01-brokers/fearnleys-md/CHART_RECURRENCE_AND_EXTRACTION_ANALYSIS.md",
-        "data/extracted/md/fearnleys-md/"
+        "data/extracted/md/fearnleys-md/",
+        "corpus/01-brokers/fearnleys-md/"
       ],
-      "rows_extracted": 284,
-      "skipped": "First page (cover) and last page (disclaimer) excluded per parsing rule #8; gridless charts (Capesize TC vs asset) and dark-mode corruptions discarded under zero-fabrication mandate",
-      "verification": "179/179 bespoke research reports parsed cover-to-cover (100.0%); 2,891 embedded charts analyzed (1,012 distinct); top 52 recurring proprietary families tracked; dynamic row-wise gridline detection and affine regression with R^2 >= 0.999 linearity verified; daily automation wired into scripts/fearnleys/daily_fearnleys_sync.py",
-      "tooling": "Dynamic Mathematical Extraction Engine (run_fearnleys_md_full_power.py) + export_fearnleys_md_excel.py"
+      "rows_extracted": 70,
+      "skipped": "Chart values: all charts are raster PNGs with no embedded data, so no series are read off them; the earlier calibrated series were wrong and are quarantined in data/_quarantine/fearnleys_md/",
+      "verification": "Bodies rebuilt from the Hasura custom_report blocks (every block type); 56 exact API data tables and 14 printed Cape composite-model tables (OCR-verified) in the .tables.json sidecars",
+      "tooling": "scripts/md_cleanup/fearnleys_md_rebuild.py via run_fearnleys_md_normalized.py + run_fearnleys_md_full_power.py (sidecars)"
     },
     "breakwave": {
       "total_docs": 289,
@@ -1970,99 +1964,6 @@
         "shanghai_ny",
         "rotterdam_shanghai",
         "source_file"
-      ],
-      "status": "Verified"
-    },
-    {
-      "file": "fearnleys_md_coal_futures_spread_series.csv",
-      "target_metric": "P5 vs Newcastle Coal Futures Spread Lead ($/t)",
-      "rows": 48,
-      "columns": [
-        "issue_date",
-        "year",
-        "department",
-        "report_title",
-        "p5_kamsarmax_indonesia_rv_usd_day",
-        "p5_4w_prev_usd_day",
-        "newcastle_coal_futures_spread_lead_2m",
-        "coal_spread_4w_prev",
-        "lead_tenor",
-        "chart_title",
-        "source_image",
-        "report_id"
-      ],
-      "status": "Verified"
-    },
-    {
-      "file": "fearnleys_md_macro_correlations_series.csv",
-      "target_metric": "Copper, Iron Ore, Coal Lead Macro Correlations ($/day, $/t)",
-      "rows": 78,
-      "columns": [
-        "issue_date",
-        "year",
-        "department",
-        "report_title",
-        "macro_metric",
-        "freight_benchmark_val",
-        "macro_indicator_val",
-        "lead_tenor",
-        "chart_title",
-        "report_id"
-      ],
-      "status": "Verified"
-    },
-    {
-      "file": "fearnleys_md_shipment_volumes_series.csv",
-      "target_metric": "Global Dry Bulk Shipment Volume YoY Growth (%)",
-      "rows": 43,
-      "columns": [
-        "issue_date",
-        "year",
-        "report_week",
-        "department",
-        "report_title",
-        "vessel_segment",
-        "shipment_volume_growth_ytd",
-        "shipment_volume_growth_last_10w",
-        "dwt_supply_growth",
-        "atlantic_volume_change",
-        "report_id"
-      ],
-      "status": "Verified"
-    },
-    {
-      "file": "fearnleys_md_tc_vs_asset_series.csv",
-      "target_metric": "1-Year T/C Rate vs 10Y Asset Value Calibrated Trajectory",
-      "rows": 14,
-      "columns": [
-        "issue_date",
-        "year",
-        "department",
-        "report_title",
-        "vessel_segment",
-        "one_year_tc_usd_day",
-        "ten_year_old_asset_value_usdm",
-        "chart_title",
-        "report_id"
-      ],
-      "status": "Verified"
-    },
-    {
-      "file": "fearnleys_md_vessel_tightness_series.csv",
-      "target_metric": "Global Vessel Tightness, Utilization & Port Congestion",
-      "rows": 115,
-      "columns": [
-        "issue_date",
-        "year",
-        "department",
-        "report_title",
-        "chart_family",
-        "indicator_metric",
-        "indicator_val",
-        "freight_benchmark",
-        "freight_benchmark_val",
-        "lead_tenor",
-        "report_id"
       ],
       "status": "Verified"
     },
@@ -4134,11 +4035,6 @@
     "drewry_ais_utilisation_curves_series.csv": 809,
     "drewry_opinions_metadata.csv": 552,
     "drewry_wci_series.csv": 7,
-    "fearnleys_md_coal_futures_spread_series.csv": 48,
-    "fearnleys_md_macro_correlations_series.csv": 78,
-    "fearnleys_md_shipment_volumes_series.csv": 43,
-    "fearnleys_md_tc_vs_asset_series.csv": 14,
-    "fearnleys_md_vessel_tightness_series.csv": 115,
     "fearnleys_rates_series.csv": 17112,
     "gibson_bunker_prices_series.csv": 1023,
     "gibson_tanker_spot_series.csv": 3630,

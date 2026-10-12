@@ -230,11 +230,11 @@ REGISTRY_DATA = [
         "image_count": 2827,
         "md_count": 182,
         "total_files": 3189,
-        "charts_extracted": "Yes (Top 52 econometric recurring lead-indicator models)",
-        "chart_engine": "Proprietary Dynamic Affine Calibration Engine (R^2 >= 0.999)",
-        "series_csvs": "fearnleys_md_master_econometric_series.xlsx (6 sheets, 26 lead models), fearnleys_md_vessel_tightness_series.csv (112 rows), fearnleys_md_macro_correlations_series.csv (78 rows), fearnleys_md_coal_futures_spread_series.csv (47 rows), fearnleys_md_shipment_volumes_series.csv (40 rows)",
+        "charts_extracted": "No (raster PNG charts carry no data; chart titles and printed tables only)",
+        "chart_engine": "API content-block renderer (fearnleys_md_rebuild.py); chart values are not read",
+        "series_csvs": "fearnleys-md .tables.json sidecars (56 exact API tables, 14 printed Cape composite-model tables, chart titles); earlier chart series quarantined in data/_quarantine/fearnleys_md/",
         "primary_script": "run_fearnleys_md_full_power.py",
-        "notes": "2,827 high-res vector charts extracted and calibrated. First/last pages discarded per rule."
+        "notes": "Charts are raster PNGs kept as images with their titles; the earlier calibrated chart series were wrong and are quarantined."
     },
     {
         "category_id": "broker_gibson",
@@ -1092,15 +1092,15 @@ SUBSECTOR_DATA = [
         "output_path": "data/extracted/md/fearnleys/"
     },
     {
-        "category": "Fearnleys Econometric",
-        "subsector": "26 Lead-Indicator Econometric Models",
-        "count": "26 models",
-        "format": "Vector charts / Excel",
-        "metrics": "Copper vs Supramax, Coal curve vs P5, Iron Ore vs 5TC, S&P vs 1Y TC",
-        "series_csv": "fearnleys_md_master_econometric_series.xlsx",
-        "data_points": "26 workbook sheets",
-        "script": "export_fearnleys_md_excel.py",
-        "output_path": "data/extracted/series/"
+        "category": "Fearnleys Research Tables",
+        "subsector": "API data tables + printed Cape composite-model tables",
+        "count": "70 tables",
+        "format": "Markdown / JSON sidecars",
+        "metrics": "Fleet deliveries/scrapping, Cape composite model buckets",
+        "series_csv": "data/extracted/md/fearnleys-md/*.tables.json",
+        "data_points": "56 API tables + 14 printed tables",
+        "script": "run_fearnleys_md_full_power.py",
+        "output_path": "data/extracted/md/fearnleys-md/"
     },
     {
         "category": "Poten & Partners",
@@ -1732,7 +1732,7 @@ def generate_markdown_audit():
         "",
         "| Source Category | Image Count in Corpus | Image Types | Analytical Pipeline Applied | Extracted Data Output |",
         "| :--- | :---: | :--- | :--- | :--- |",
-        "| **01-brokers/fearnleys-md** | 2,786 | 200 DPI vector PNG clips, JPG | Dynamic row-wise affine scale regression ($R^2 \\ge 0.999$) | 26 econometric lead-indicator sheets in `fearnleys_md_master_econometric_series.xlsx` |",
+        "| **01-brokers/fearnleys-md** | 2,786 | Raster PNG charts (no embedded data), JPG | Not read; titles kept, printed tables transcribed and verified | Chart titles in MDs and `.tables.json` sidecars; calibrated series quarantined |",
         "| **01-brokers/ism** | Vector stream | PDF internal vector polylines | Least-squares dual-axis scale calibration & tick filtering | 4 weekly freight rate series (`ism_handy_freight_series.csv`, `ism_coaster_freight_series.csv`) |",
         "| **01-brokers/intermodal** | Vector stream | Page 3 vector drawing paths | Polyline vertex extraction matching Baltic dry & TC curves | `intermodal_baltic_tc_series.csv` (20,348 rows) |",
         "| **01-brokers/star_asia** | Vector stream | Drawing paths & bar charts | Subcontinent scrap price trend calibration ($/LDT) | `star_asia_scrap_price_trends_series.csv` (347 rows) |",
@@ -1918,7 +1918,7 @@ def generate_markdown_audit():
         "| **Vector Drawings** | Treated as raw text noise (dumping 100+ lines of tick labels like `0.0 0.2 0.4...`), or ignored entirely. | 5-stage vector extraction engine: plot frame detection, affine scale calibration, polyline filtering, RGB legend matching, consensus validation. |",
         "| **Coordinate Calibration** | Axis bounds unmapped; values could not be derived from graphics. | Dynamic linear affine calibration (`y_val = slope * y_pixel + intercept`) yielding R² >= 0.999 precision. |",
         "| **Visual Output** | Untracked or missing. | 2,827 high-resolution 200 DPI PNG chart crops stored under `data/extracted/charts/<publisher>/` with JSON calibration sidecars. |",
-        "| **Series Integration** | Charts isolated from numerical time series. | 26 recurring econometric lead-indicator models compiled into `data/extracted/series/fearnleys_md_master_econometric_series.xlsx`. |",
+        "| **Series Integration** | Charts isolated from numerical time series. | No series are read off the raster charts; the earlier fearnleys_md calibrated series were wrong and are quarantined in `data/_quarantine/fearnleys_md/`. |",
         "",
         "### 8.3 Reference Literature & Academic Textbooks (12 Books)",
         "",
@@ -1972,7 +1972,7 @@ def generate_markdown_audit():
         "",
         "### 10.2 Specialized Runner Execution (Deep Extraction & Quality Audits)",
         "- **High-Fidelity Publisher Table Extraction:** Running specialized publisher scripts (`run_clarksons.py`, `run_lion_tables.py`, `format_agora_properly.py`, `run_advanced_shipping_tables.py`, `run_affinity_tables.py`, `run_gms_demolition.py`, `run_best_oasis_demolition.py`).",
-        "- **Vector Chart Affine Calibration:** `run_fearnleys_md_full_power.py` and `export_fearnleys_md_excel.py` (2,827 chart crops, 26 econometric models).",
+        "- **Fearnleys-md:** `fearnleys_md_rebuild.py` renders every API content block; chart values are not read (raster images, no embedded data).",
         "- **LlamaParse API Routing:** Targeted and cover-to-cover parsing for ciphered or complex multi-column documents (`run_banchero_llamaparse.py`, `run_intermodal_full.py`, `run_star_asia_tables.py`, `run_xclusiv_full_cover_to_cover.py`).",
         "- **Reference Book Normalization:** Auditing and normalizing the 12 foundational books against rendered PDF pages.",
         "",
@@ -2096,7 +2096,7 @@ def generate_excel_audit():
         cell.alignment = Alignment(horizontal="center", vertical="center")
 
     img_rows = [
-        ("01-brokers/fearnleys-md", 2786, "PNG (200 DPI vector clips), JPG", "Dynamic affine scale regression (R^2 >= 0.999)", "fearnleys_md_master_econometric_series.xlsx (26 lead models)"),
+        ("01-brokers/fearnleys-md", 2786, "Raster PNG charts (no embedded data), JPG", "Not read; titles kept, printed tables transcribed and verified", "Chart titles in MDs and .tables.json sidecars; calibrated series quarantined"),
         ("01-brokers/ism", 0, "PDF vector drawing strokes", "Least-squares dual-axis scale calibration & tick filtering", "ism_handy_freight_series.csv, ism_coaster_freight_series.csv"),
         ("01-brokers/intermodal", 0, "PDF vector drawing strokes (Page 3)", "Polyline vertex extraction matching Baltic dry & TC curves", "intermodal_baltic_tc_series.csv (20,348 rows)"),
         ("01-brokers/star_asia", 0, "PDF vector drawing strokes & bar charts", "Subcontinent scrap price trend calibration ($/LDT)", "star_asia_scrap_price_trends_series.csv (347 rows)"),

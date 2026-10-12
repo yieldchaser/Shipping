@@ -4,11 +4,175 @@
   "year": 2024,
   "department": "TANK",
   "report_title": "Fearnleys Tanker Market Wrap-up Nov/Dec 2024",
-  "shipment_volume_metrics": [],
-  "coal_futures_spread_metrics": [],
-  "time_charter_vs_asset_metrics": [],
-  "vessel_tightness_metrics": [],
-  "macro_correlation_metrics": [],
-  "charts_count": 15,
-  "source_markdown": "2024-12-16_fearnleys-tanker-market-wrap-up-novdec-2024.md"
+  "source_markdown": "2024-12-16_fearnleys-tanker-market-wrap-up-novdec-2024.md",
+  "tables": [],
+  "printed_image_tables": [],
+  "charts_count": 33,
+  "charts": [
+    {
+      "section": "Not over just yet",
+      "title": "Rates and forecast",
+      "image": "1a62f2a9-8c21-4876-ad63-afcc5ed0ff9b/ratfor.png"
+    },
+    {
+      "section": "Not over just yet",
+      "title": "VLCC forecast curve 2025",
+      "image": "1a62f2a9-8c21-4876-ad63-afcc5ed0ff9b/curve.png"
+    },
+    {
+      "section": "Market outlook scenarios",
+      "title": "Crude tanker tonne-miles vs. crude oil production growth",
+      "image": "1a62f2a9-8c21-4876-ad63-afcc5ed0ff9b/tm.png"
+    },
+    {
+      "section": "Market outlook scenarios",
+      "title": "Oil supply and demand by basin",
+      "image": "1a62f2a9-8c21-4876-ad63-afcc5ed0ff9b/demsup.png"
+    },
+    {
+      "section": "Softer market development than expected recently",
+      "title": "Crude tanker volumes ex. Iran",
+      "image": "1a62f2a9-8c21-4876-ad63-afcc5ed0ff9b/seac.png"
+    },
+    {
+      "section": "Softer market development than expected recently",
+      "title": "Product tanker volumes ex. Iran",
+      "image": "1a62f2a9-8c21-4876-ad63-afcc5ed0ff9b/seap.png"
+    },
+    {
+      "section": "Softer market development than expected recently",
+      "title": "Total tanker tonne-miles",
+      "image": "1a62f2a9-8c21-4876-ad63-afcc5ed0ff9b/tm.png"
+    },
+    {
+      "section": "Softer market development than expected recently",
+      "title": "Relative pricing, WTI vs. Dubai",
+      "image": "1a62f2a9-8c21-4876-ad63-afcc5ed0ff9b/arb.png"
+    },
+    {
+      "section": "Softer market development than expected recently",
+      "title": "Brent 7-1 month forward spread",
+      "image": "1a62f2a9-8c21-4876-ad63-afcc5ed0ff9b/fwd.png"
+    },
+    {
+      "section": "Softer market development than expected recently",
+      "title": "U.S. refinery runs",
+      "image": "1a62f2a9-8c21-4876-ad63-afcc5ed0ff9b/usref.png"
+    },
+    {
+      "section": "Softer market development than expected recently",
+      "title": "Americas oil production growth (q/q)",
+      "image": "1a62f2a9-8c21-4876-ad63-afcc5ed0ff9b/ameri.png"
+    },
+    {
+      "section": "Softer market development than expected recently",
+      "title": "Monthly VLCC cargo count by load area",
+      "image": "1a62f2a9-8c21-4876-ad63-afcc5ed0ff9b/vol.png"
+    },
+    {
+      "section": "Oil market balances pointing toward more (crude) tanker demand",
+      "title": "Oil supply / demand balance",
+      "image": "1a62f2a9-8c21-4876-ad63-afcc5ed0ff9b/bal.png"
+    },
+    {
+      "section": "Oil market balances pointing toward more (crude) tanker demand",
+      "title": "OECD industry stocks",
+      "image": "1a62f2a9-8c21-4876-ad63-afcc5ed0ff9b/oecd.png"
+    },
+    {
+      "section": "Oil market balances pointing toward more (crude) tanker demand",
+      "title": "2023-30 oil supply by region",
+      "image": "1a62f2a9-8c21-4876-ad63-afcc5ed0ff9b/longsup.png"
+    },
+    {
+      "section": "Oil market balances pointing toward more (crude) tanker demand",
+      "title": "Atlantic MR rates vs. NWE diesel crack spread",
+      "image": "1a62f2a9-8c21-4876-ad63-afcc5ed0ff9b/refrat.png"
+    },
+    {
+      "section": "Oil market balances pointing toward more (crude) tanker demand",
+      "title": "Global refinery runs",
+      "image": "1a62f2a9-8c21-4876-ad63-afcc5ed0ff9b/refi.png"
+    },
+    {
+      "section": "Oil market balances pointing toward more (crude) tanker demand",
+      "title": "Refinery capacity additions",
+      "image": "1a62f2a9-8c21-4876-ad63-afcc5ed0ff9b/refil.png"
+    },
+    {
+      "section": "Oil market balances pointing toward more (crude) tanker demand",
+      "title": "China apparent main oil products demand",
+      "image": "1a62f2a9-8c21-4876-ad63-afcc5ed0ff9b/demchi.png"
+    },
+    {
+      "section": "Oil market balances pointing toward more (crude) tanker demand",
+      "title": "China crack spreads",
+      "image": "1a62f2a9-8c21-4876-ad63-afcc5ed0ff9b/refmchi.png"
+    },
+    {
+      "section": "Oil market balances pointing toward more (crude) tanker demand",
+      "title": "China crude oil storage capacity",
+      "image": "1a62f2a9-8c21-4876-ad63-afcc5ed0ff9b/chistor.png"
+    },
+    {
+      "section": "Oil market balances pointing toward more (crude) tanker demand",
+      "title": "China crude oil imports",
+      "image": "1a62f2a9-8c21-4876-ad63-afcc5ed0ff9b/chinim.png"
+    },
+    {
+      "section": "Increasing, but still relatively low fleet growth outlook",
+      "title": "Quarterly deliveries by segment",
+      "image": "1a62f2a9-8c21-4876-ad63-afcc5ed0ff9b/dely.png"
+    },
+    {
+      "section": "Increasing, but still relatively low fleet growth outlook",
+      "title": "Orderbook to fleet",
+      "image": "1a62f2a9-8c21-4876-ad63-afcc5ed0ff9b/ob.png"
+    },
+    {
+      "section": "Increasing, but still relatively low fleet growth outlook",
+      "title": "20+ years old share of the fleet",
+      "image": "1a62f2a9-8c21-4876-ad63-afcc5ed0ff9b/20.png"
+    },
+    {
+      "section": "Where can we be wrong? The known unknowns",
+      "title": "Iran crude oil exports",
+      "image": "1a62f2a9-8c21-4876-ad63-afcc5ed0ff9b/irex.png"
+    },
+    {
+      "section": "Where can we be wrong? The known unknowns",
+      "title": "Floating storage Iranian oil",
+      "image": "1a62f2a9-8c21-4876-ad63-afcc5ed0ff9b/irfloat.png"
+    },
+    {
+      "section": "Where can we be wrong? The known unknowns",
+      "title": "Shadow fleet share of overall fleet",
+      "image": "1a62f2a9-8c21-4876-ad63-afcc5ed0ff9b/shadow.png"
+    },
+    {
+      "section": "Where can we be wrong? The known unknowns",
+      "title": "Russia crude oil exports",
+      "image": "1a62f2a9-8c21-4876-ad63-afcc5ed0ff9b/rusc.png"
+    },
+    {
+      "section": "Where can we be wrong? The known unknowns",
+      "title": "Russia products exports",
+      "image": "1a62f2a9-8c21-4876-ad63-afcc5ed0ff9b/rusp.png"
+    },
+    {
+      "section": "Where can we be wrong? The known unknowns",
+      "title": "Shadow fleet share of Russia's crude oil exports",
+      "image": "1a62f2a9-8c21-4876-ad63-afcc5ed0ff9b/shadowrus.png"
+    },
+    {
+      "section": "Where can we be wrong? The known unknowns",
+      "title": "Red Sea transits",
+      "image": "1a62f2a9-8c21-4876-ad63-afcc5ed0ff9b/bab.png"
+    },
+    {
+      "section": "Where can we be wrong? The known unknowns",
+      "title": "COGH diversions",
+      "image": "1a62f2a9-8c21-4876-ad63-afcc5ed0ff9b/cogh.png"
+    }
+  ]
 }

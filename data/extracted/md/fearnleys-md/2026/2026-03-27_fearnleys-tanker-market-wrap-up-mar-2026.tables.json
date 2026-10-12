@@ -4,11 +4,105 @@
   "year": 2026,
   "department": "TANK",
   "report_title": "Fearnleys Tanker Market Wrap-up Mar 2026",
-  "shipment_volume_metrics": [],
-  "coal_futures_spread_metrics": [],
-  "time_charter_vs_asset_metrics": [],
-  "vessel_tightness_metrics": [],
-  "macro_correlation_metrics": [],
-  "charts_count": 16,
-  "source_markdown": "2026-03-27_fearnleys-tanker-market-wrap-up-mar-2026.md"
+  "source_markdown": "2026-03-27_fearnleys-tanker-market-wrap-up-mar-2026.md",
+  "tables": [],
+  "printed_image_tables": [],
+  "charts_count": 19,
+  "charts": [
+    {
+      "section": "Summary",
+      "title": "Tanker rates",
+      "image": "c87f9705-5967-4b8b-87fc-3d1279ac9bf0/rates.png"
+    },
+    {
+      "section": "A VLCC sized demand gap",
+      "title": "Main estimated production shut-ins",
+      "image": "c87f9705-5967-4b8b-87fc-3d1279ac9bf0/shut.png"
+    },
+    {
+      "section": "A VLCC sized demand gap",
+      "title": "Monthly seaborne crude oil volume",
+      "image": "c87f9705-5967-4b8b-87fc-3d1279ac9bf0/volc.png"
+    },
+    {
+      "section": "A VLCC sized demand gap",
+      "title": "Monthly seaborne oil product volume",
+      "image": "c87f9705-5967-4b8b-87fc-3d1279ac9bf0/volp.png"
+    },
+    {
+      "section": "A VLCC sized demand gap",
+      "title": "Compliant tanker tonne-mile demand (-19%)",
+      "image": "c87f9705-5967-4b8b-87fc-3d1279ac9bf0/tmtot.png"
+    },
+    {
+      "section": "A VLCC sized demand gap",
+      "title": "Crude tanker tonne-mile demand (-22%)",
+      "image": "c87f9705-5967-4b8b-87fc-3d1279ac9bf0/tmc.png"
+    },
+    {
+      "section": "A VLCC sized demand gap",
+      "title": "Product tanker tonne-mile demand (-9%)",
+      "image": "c87f9705-5967-4b8b-87fc-3d1279ac9bf0/tmp.png"
+    },
+    {
+      "section": "A VLCC sized demand gap",
+      "title": "VLCC tonne-mile demand (-32%)",
+      "image": "c87f9705-5967-4b8b-87fc-3d1279ac9bf0/tmv.png"
+    },
+    {
+      "section": "A VLCC sized demand gap",
+      "title": "Suezmax tonne-mile demand (-8%)",
+      "image": "c87f9705-5967-4b8b-87fc-3d1279ac9bf0/tms.png"
+    },
+    {
+      "section": "A VLCC sized demand gap",
+      "title": "Afra/LR2 tonne-mile demand (-8%)",
+      "image": "c87f9705-5967-4b8b-87fc-3d1279ac9bf0/tma.png"
+    },
+    {
+      "section": "A VLCC sized demand gap",
+      "title": "MR tonne-mile demand (-3%)",
+      "image": "c87f9705-5967-4b8b-87fc-3d1279ac9bf0/tmm.png"
+    },
+    {
+      "section": "Price as a rate driver",
+      "title": "Relative crude oil pricing",
+      "image": "c87f9705-5967-4b8b-87fc-3d1279ac9bf0/oilp.png"
+    },
+    {
+      "section": "Price as a rate driver",
+      "title": "Northwest Europe gasoil crack spread vs. MR rates",
+      "image": "c87f9705-5967-4b8b-87fc-3d1279ac9bf0/mrcrack.png"
+    },
+    {
+      "section": "Mitigating factors",
+      "title": "Share of the fleet within the Strait of Hormuz",
+      "image": "c87f9705-5967-4b8b-87fc-3d1279ac9bf0/stuckmeg.png"
+    },
+    {
+      "section": "Mitigating factors",
+      "title": "Atlantic-East crude oil flow",
+      "image": "c87f9705-5967-4b8b-87fc-3d1279ac9bf0/west-east.png"
+    },
+    {
+      "section": "Meanwhile, there is 1.5% added to the fleet per quarter",
+      "title": "Quarterly tanker deliveries",
+      "image": "c87f9705-5967-4b8b-87fc-3d1279ac9bf0/quarterly.png"
+    },
+    {
+      "section": "Meanwhile, there is 1.5% added to the fleet per quarter",
+      "title": "Annual tanker deliveries",
+      "image": "c87f9705-5967-4b8b-87fc-3d1279ac9bf0/yearly.png"
+    },
+    {
+      "section": "Potentially positive longer term implications",
+      "title": "OPEC spare capacity",
+      "image": "c87f9705-5967-4b8b-87fc-3d1279ac9bf0/opec.png"
+    },
+    {
+      "section": "Potentially positive longer term implications",
+      "title": "Orderbook vs. phase-out potential",
+      "image": "c87f9705-5967-4b8b-87fc-3d1279ac9bf0/abbout.png"
+    }
+  ]
 }

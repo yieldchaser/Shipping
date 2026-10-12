@@ -4,11 +4,75 @@
   "year": 2025,
   "department": "LPG",
   "report_title": "VLGC Quarterly Market Report - Q4 2024",
-  "shipment_volume_metrics": [],
-  "coal_futures_spread_metrics": [],
-  "time_charter_vs_asset_metrics": [],
-  "vessel_tightness_metrics": [],
-  "macro_correlation_metrics": [],
+  "source_markdown": "2025-01-14_vlgc-quarterly-market-report-q4-2024.md",
+  "tables": [],
+  "printed_image_tables": [],
   "charts_count": 13,
-  "source_markdown": "2025-01-14_vlgc-quarterly-market-report-q4-2024.md"
+  "charts": [
+    {
+      "section": "2024 Summary",
+      "title": "TCE 2024",
+      "image": "89a6b8a5-9e85-4512-b009-32e752ffb4c8/TCE 2024.JPG"
+    },
+    {
+      "section": "2024 Summary",
+      "title": "Global seaborne LPG",
+      "image": "89a6b8a5-9e85-4512-b009-32e752ffb4c8/Global seaborne LPG.JPG"
+    },
+    {
+      "section": "Earnings",
+      "title": "TCE Q4 2024",
+      "image": "89a6b8a5-9e85-4512-b009-32e752ffb4c8/TCE Q4 2024.JPG"
+    },
+    {
+      "section": "Liftings statistics: U.S. & Middle East",
+      "title": "MonthlyLiftings",
+      "image": "89a6b8a5-9e85-4512-b009-32e752ffb4c8/MonthlyLiftings.JPG"
+    },
+    {
+      "section": "Liftings statistics: U.S. & Middle East",
+      "title": "Spot Liftings2",
+      "image": "89a6b8a5-9e85-4512-b009-32e752ffb4c8/Spot Liftings2.JPG"
+    },
+    {
+      "section": "Liftings statistics: U.S. & Middle East",
+      "title": "Arb vs BLPG3",
+      "image": "89a6b8a5-9e85-4512-b009-32e752ffb4c8/Arb vs BLPG3.JPG"
+    },
+    {
+      "section": "Liftings statistics: U.S. & Middle East",
+      "title": "Laden VLGC Transits2",
+      "image": "89a6b8a5-9e85-4512-b009-32e752ffb4c8/Laden VLGC Transits2.JPG"
+    },
+    {
+      "section": "Trade Flows",
+      "title": "Top Exporters",
+      "image": "89a6b8a5-9e85-4512-b009-32e752ffb4c8/Top Exporters.JPG"
+    },
+    {
+      "section": "Trade Flows",
+      "title": "Top Importers",
+      "image": "89a6b8a5-9e85-4512-b009-32e752ffb4c8/Top Importers.JPG"
+    },
+    {
+      "section": "U.S. Production & Export",
+      "title": "US Expansions",
+      "image": "89a6b8a5-9e85-4512-b009-32e752ffb4c8/US Expansions.JPG"
+    },
+    {
+      "section": "U.S. Production & Export",
+      "title": "Spot Terminal fees",
+      "image": "89a6b8a5-9e85-4512-b009-32e752ffb4c8/Spot Terminal fees.JPG"
+    },
+    {
+      "section": "Fleet & Orderbook",
+      "title": "Fleet development Q4",
+      "image": "89a6b8a5-9e85-4512-b009-32e752ffb4c8/Fleet development Q4.JPG"
+    },
+    {
+      "section": "Fleet & Orderbook",
+      "title": "Orderbook",
+      "image": "89a6b8a5-9e85-4512-b009-32e752ffb4c8/Orderbook.JPG"
+    }
+  ]
 }

@@ -4,11 +4,80 @@
   "year": 2024,
   "department": "LPG",
   "report_title": "VLGC Quarterly Market Report - Q3 2024",
-  "shipment_volume_metrics": [],
-  "coal_futures_spread_metrics": [],
-  "time_charter_vs_asset_metrics": [],
-  "vessel_tightness_metrics": [],
-  "macro_correlation_metrics": [],
+  "source_markdown": "2024-10-17_vlgc-quarterly-market-report-q3-2024.md",
+  "tables": [],
+  "printed_image_tables": [],
   "charts_count": 14,
-  "source_markdown": "2024-10-17_vlgc-quarterly-market-report-q3-2024.md"
+  "charts": [
+    {
+      "section": "Earnings",
+      "title": "RatesQ3",
+      "image": "c4b10204-5de1-4b9b-bd96-015cf85a0d07/RatesQ3.JPG"
+    },
+    {
+      "section": "Earnings",
+      "title": "Q3 Baltic",
+      "image": "c4b10204-5de1-4b9b-bd96-015cf85a0d07/Q3 Baltic.JPG"
+    },
+    {
+      "section": "Liftings statistics: U.S. & Middle East",
+      "title": "Arb vs BLPG3",
+      "image": "c4b10204-5de1-4b9b-bd96-015cf85a0d07/Arb vs BLPG3.JPG"
+    },
+    {
+      "section": "Liftings statistics: U.S. & Middle East",
+      "title": "Laden",
+      "image": "c4b10204-5de1-4b9b-bd96-015cf85a0d07/Laden.JPG"
+    },
+    {
+      "section": "Liftings statistics: U.S. & Middle East",
+      "title": "Ballast",
+      "image": "c4b10204-5de1-4b9b-bd96-015cf85a0d07/Ballast.JPG"
+    },
+    {
+      "section": "Exports & Imports",
+      "title": "Exports",
+      "image": "c4b10204-5de1-4b9b-bd96-015cf85a0d07/Exports.JPG"
+    },
+    {
+      "section": "Exports & Imports",
+      "title": "Imports",
+      "image": "c4b10204-5de1-4b9b-bd96-015cf85a0d07/Imports.JPG"
+    },
+    {
+      "section": "U.S. Propane Inventories",
+      "title": "Inventories",
+      "image": "c4b10204-5de1-4b9b-bd96-015cf85a0d07/Inventories.JPG"
+    },
+    {
+      "section": "Fleet & Orderbook",
+      "title": "Fleet developmentQ3",
+      "image": "c4b10204-5de1-4b9b-bd96-015cf85a0d07/Fleet developmentQ3.JPG"
+    },
+    {
+      "section": "Fleet & Orderbook",
+      "title": "VLGC VLAC OB",
+      "image": "c4b10204-5de1-4b9b-bd96-015cf85a0d07/VLGC VLAC OB.JPG"
+    },
+    {
+      "section": "Yard Status",
+      "title": "NB Yards",
+      "image": "c4b10204-5de1-4b9b-bd96-015cf85a0d07/NB Yards.JPG"
+    },
+    {
+      "section": "Yard Status",
+      "title": "VLGC NB dollars",
+      "image": "1ccdee03-2a41-4879-9967-e806d6bb39bd/VLGC NB dollars.JPG"
+    },
+    {
+      "section": "Yard Status",
+      "title": "SK OB",
+      "image": "1ccdee03-2a41-4879-9967-e806d6bb39bd/SK OB.JPG"
+    },
+    {
+      "section": "Yard Status",
+      "title": "CHINA OB",
+      "image": "1ccdee03-2a41-4879-9967-e806d6bb39bd/CHINA OB.JPG"
+    }
+  ]
 }

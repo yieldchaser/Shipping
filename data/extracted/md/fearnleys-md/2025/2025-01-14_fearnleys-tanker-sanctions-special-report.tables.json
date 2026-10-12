@@ -4,11 +4,50 @@
   "year": 2025,
   "department": "TANK",
   "report_title": "Fearnleys Tanker Sanctions Special Report",
-  "shipment_volume_metrics": [],
-  "coal_futures_spread_metrics": [],
-  "time_charter_vs_asset_metrics": [],
-  "vessel_tightness_metrics": [],
-  "macro_correlation_metrics": [],
-  "charts_count": 5,
-  "source_markdown": "2025-01-14_fearnleys-tanker-sanctions-special-report.md"
+  "source_markdown": "2025-01-14_fearnleys-tanker-sanctions-special-report.md",
+  "tables": [],
+  "printed_image_tables": [],
+  "charts_count": 8,
+  "charts": [
+    {
+      "section": "Biden's departing surprise",
+      "title": "Percentage share of 2024 global total",
+      "image": "f13e2f1b-acc2-4517-83e4-79035eaf7553/Share.png"
+    },
+    {
+      "section": "Tanker market impact",
+      "title": "Shadow market tonne-miles",
+      "image": "f13e2f1b-acc2-4517-83e4-79035eaf7553/shadowtm.png"
+    },
+    {
+      "section": "Tanker market impact",
+      "title": "Newly added OFAC tanker flow by destination",
+      "image": "f13e2f1b-acc2-4517-83e4-79035eaf7553/now ofac.png"
+    },
+    {
+      "section": "Tanker market impact",
+      "title": "Total OFAC tanker flow by origin",
+      "image": "f13e2f1b-acc2-4517-83e4-79035eaf7553/Oorig.png"
+    },
+    {
+      "section": "Tanker market impact",
+      "title": "Total OFAC tanker flow by destination",
+      "image": "f13e2f1b-acc2-4517-83e4-79035eaf7553/odest.png"
+    },
+    {
+      "section": "Tanker market impact",
+      "title": "OFAC listed tankers trade map",
+      "image": "f13e2f1b-acc2-4517-83e4-79035eaf7553/Capture.PNG"
+    },
+    {
+      "section": "Oil market impact",
+      "title": "Brent 7-1 month forward spread",
+      "image": "f13e2f1b-acc2-4517-83e4-79035eaf7553/fwd.png"
+    },
+    {
+      "section": "Oil market impact",
+      "title": "IEA oil market balance",
+      "image": "f13e2f1b-acc2-4517-83e4-79035eaf7553/balance.png"
+    }
+  ]
 }

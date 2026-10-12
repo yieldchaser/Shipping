@@ -4,36 +4,70 @@
   "year": 2024,
   "department": "BULK",
   "report_title": "Fearnleys Dry Bulk Weekly",
-  "shipment_volume_metrics": [],
-  "coal_futures_spread_metrics": [],
-  "time_charter_vs_asset_metrics": [],
-  "vessel_tightness_metrics": [],
-  "macro_correlation_metrics": [
+  "source_markdown": "2024-11-19_fearnleys-dry-bulk-weekly-19th-november-2024-840-999-214-985-346-269-756-824-982-207-354.md",
+  "tables": [],
+  "printed_image_tables": [],
+  "charts_count": 12,
+  "charts": [
     {
-      "issue_date": "2024-11-19",
-      "year": "2024",
-      "department": "BULK",
-      "report_title": "Fearnleys Dry Bulk Weekly",
-      "macro_metric": "Iron Ore Price 3M Lead vs BCI5TC",
-      "freight_benchmark_val": 11228.1,
-      "macro_indicator_val": 127.4,
-      "lead_tenor": "3 Months",
-      "chart_title": "IRON ORE PRICE 3 MONTH LEAD VS BCI5TC.png",
-      "report_id": "44f752d9-af17-4823-87a4-654d27e7f7da"
+      "section": "Capesize/Newcastlemax",
+      "title": "Capesize / Kamsarmax Ratio vs BCI5TC",
+      "image": "44f752d9-af17-4823-87a4-654d27e7f7da/CAPE PANAMAX RATIO.png"
     },
     {
-      "issue_date": "2024-11-19",
-      "year": "2024",
-      "department": "BULK",
-      "report_title": "Fearnleys Dry Bulk Weekly",
-      "macro_metric": "Copper 6M Change Lead vs Supramax 1Y TC 6M Change",
-      "freight_benchmark_val": 2.2,
-      "macro_indicator_val": -5.2,
-      "lead_tenor": "6 Months",
-      "chart_title": "COPPER PRICE VS SUPRAMAX 1 YEAR TC.png",
-      "report_id": "44f752d9-af17-4823-87a4-654d27e7f7da"
+      "section": "Capesize/Newcastlemax",
+      "title": "China Congestion",
+      "image": "44f752d9-af17-4823-87a4-654d27e7f7da/CHINA CAPE CONGESTION.png"
+    },
+    {
+      "section": "Capesize/Newcastlemax",
+      "title": "Iron Ore Price Lead vs BCI5TC",
+      "image": "44f752d9-af17-4823-87a4-654d27e7f7da/IRON ORE PRICE 3 MONTH LEAD VS BCI5TC.png"
+    },
+    {
+      "section": "Capesize/Newcastlemax",
+      "title": "China Imported Iron Ore Consumption Lead vs BCI5TC",
+      "image": "44f752d9-af17-4823-87a4-654d27e7f7da/CHINA IMPORTED IRON ORE CONSUMPTION LEAD VS CAPESIZE 1 MONTH CHANGE.png"
+    },
+    {
+      "section": "Panamax/Kamsarmax",
+      "title": "Panamax / Kamsarmax Laden With Coal",
+      "image": "44f752d9-af17-4823-87a4-654d27e7f7da/PANAMAX KAMSARMAX LADEN WITH COAL.png"
+    },
+    {
+      "section": "Panamax/Kamsarmax",
+      "title": "Panamax / Kamsarmax Global Congestion",
+      "image": "44f752d9-af17-4823-87a4-654d27e7f7da/PANAMAX KAMSARMAX GLOBAL CONGESTION.png"
+    },
+    {
+      "section": "Panamax/Kamsarmax",
+      "title": "Panamax / Kamsarmax Heading to Brazil or the US, and  % YoY Change",
+      "image": "44f752d9-af17-4823-87a4-654d27e7f7da/PANAMAX KAMSARMAX HEADING TO BRAZIL OR THE US.png"
+    },
+    {
+      "section": "Panamax/Kamsarmax",
+      "title": "Panamax / Kamsarmax Seasonal Average",
+      "image": "44f752d9-af17-4823-87a4-654d27e7f7da/PANAMAX KAMSARMAX SEASONAL AVERAGE.png"
+    },
+    {
+      "section": "Supramax/Ultramax",
+      "title": "Supramax Seasonal Market Movement",
+      "image": "44f752d9-af17-4823-87a4-654d27e7f7da/SUPRAMAX ULTRAMAX SEASONAL AVERAGE.png"
+    },
+    {
+      "section": "Supramax/Ultramax",
+      "title": "Supramax / Ultramax Heading to Brazil or the US",
+      "image": "44f752d9-af17-4823-87a4-654d27e7f7da/SUPRAMAX ULTRAMAX HEADING TO BRAZIL OR THE US.png"
+    },
+    {
+      "section": "Supramax/Ultramax",
+      "title": "Copper Price Lead vs Supramax 1 Year TC 6 Months Change",
+      "image": "44f752d9-af17-4823-87a4-654d27e7f7da/COPPER PRICE VS SUPRAMAX 1 YEAR TC.png"
+    },
+    {
+      "section": "Supramax/Ultramax",
+      "title": "Supramax / Ultramax Ton-Time Growth vs Supply Growth",
+      "image": "078f936a-e89d-4388-a38a-c1c2ebe63f1b/supramax market balance.png"
     }
-  ],
-  "charts_count": 12,
-  "source_markdown": "2024-11-19_fearnleys-dry-bulk-weekly-19th-november-2024-840-999-214-985-346-269-756-824-982-207-354.md"
+  ]
 }

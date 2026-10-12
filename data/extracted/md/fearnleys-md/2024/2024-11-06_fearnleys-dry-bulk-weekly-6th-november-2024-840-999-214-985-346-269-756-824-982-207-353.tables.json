@@ -4,24 +4,70 @@
   "year": 2024,
   "department": "BULK",
   "report_title": "Fearnleys Dry Bulk Weekly",
-  "shipment_volume_metrics": [],
-  "coal_futures_spread_metrics": [],
-  "time_charter_vs_asset_metrics": [],
-  "vessel_tightness_metrics": [],
-  "macro_correlation_metrics": [
-    {
-      "issue_date": "2024-11-06",
-      "year": "2024",
-      "department": "BULK",
-      "report_title": "Fearnleys Dry Bulk Weekly",
-      "macro_metric": "Iron Ore Price 3M Lead vs BCI5TC",
-      "freight_benchmark_val": 14175.4,
-      "macro_indicator_val": 106.6,
-      "lead_tenor": "3 Months",
-      "chart_title": "IRON ORE PRICE 3 MONTH LEAD VS BCI5TC.png",
-      "report_id": "078f936a-e89d-4388-a38a-c1c2ebe63f1b"
-    }
-  ],
+  "source_markdown": "2024-11-06_fearnleys-dry-bulk-weekly-6th-november-2024-840-999-214-985-346-269-756-824-982-207-353.md",
+  "tables": [],
+  "printed_image_tables": [],
   "charts_count": 12,
-  "source_markdown": "2024-11-06_fearnleys-dry-bulk-weekly-6th-november-2024-840-999-214-985-346-269-756-824-982-207-353.md"
+  "charts": [
+    {
+      "section": "Capesize/Newcastlemax",
+      "title": "Capesize/Newcastlemax Total Loadings by Year",
+      "image": "078f936a-e89d-4388-a38a-c1c2ebe63f1b/capenewc total loadings by year.png"
+    },
+    {
+      "section": "Capesize/Newcastlemax",
+      "title": "Capesize/Newcastlemax Ton-Time Growth vs Supply Growth",
+      "image": "078f936a-e89d-4388-a38a-c1c2ebe63f1b/cape market balance.png"
+    },
+    {
+      "section": "Capesize/Newcastlemax",
+      "title": "Iron Ore Price Lead vs BCI5TC",
+      "image": "078f936a-e89d-4388-a38a-c1c2ebe63f1b/IRON ORE PRICE 3 MONTH LEAD VS BCI5TC.png"
+    },
+    {
+      "section": "Capesize/Newcastlemax",
+      "title": "China Imported Iron Ore Consumption Lead vs BCI5TC",
+      "image": "078f936a-e89d-4388-a38a-c1c2ebe63f1b/CHINA IMPORTED IRON ORE CONSUMPTION LEAD VS CAPESIZE 1 MONTH CHANGE.png"
+    },
+    {
+      "section": "Panamax/Kamsarmax",
+      "title": "Panamax / Kamsarmax Heading to Russia",
+      "image": "078f936a-e89d-4388-a38a-c1c2ebe63f1b/PANAMAX KAMSARMAX HEADING TO RUSSIA.png"
+    },
+    {
+      "section": "Panamax/Kamsarmax",
+      "title": "Panamax / Kamsarmax Argentina and Brazil Congestion",
+      "image": "078f936a-e89d-4388-a38a-c1c2ebe63f1b/PANAMAX KAMSARMAX BRAZIL ARGENTINA CONGESTION.png"
+    },
+    {
+      "section": "Panamax/Kamsarmax",
+      "title": "Panamax / Kamsarmax Heading to Brazil or the US, and  % YoY Change",
+      "image": "078f936a-e89d-4388-a38a-c1c2ebe63f1b/PANAMAX KAMSARMAX HEADING TO BRAZIL OR THE US.png"
+    },
+    {
+      "section": "Panamax/Kamsarmax",
+      "title": "Panamax / Kamsarmax Seasonal Average",
+      "image": "078f936a-e89d-4388-a38a-c1c2ebe63f1b/PANAMAX KAMSARMAX SEASONAL AVERAGE.png"
+    },
+    {
+      "section": "Supramax/Ultramax",
+      "title": "Supramax Seasonal Market Movement",
+      "image": "078f936a-e89d-4388-a38a-c1c2ebe63f1b/SUPRAMAX ULTRAMAX SEASONAL AVERAGE.png"
+    },
+    {
+      "section": "Supramax/Ultramax",
+      "title": "Supramax / Ultramax Heading to Brazil or the US",
+      "image": "078f936a-e89d-4388-a38a-c1c2ebe63f1b/SUPRAMAX ULTRAMAX HEADING TO BRAZIL OR THE US.png"
+    },
+    {
+      "section": "Supramax/Ultramax",
+      "title": "Supramax / Ultramax Positions by Basin",
+      "image": "078f936a-e89d-4388-a38a-c1c2ebe63f1b/SUPRAMAX ULTRAMAX BY BASIN.png"
+    },
+    {
+      "section": "Supramax/Ultramax",
+      "title": "Supramax / Ultramax Ton-Time Growth vs Supply Growth",
+      "image": "078f936a-e89d-4388-a38a-c1c2ebe63f1b/supramax market balance.png"
+    }
+  ]
 }

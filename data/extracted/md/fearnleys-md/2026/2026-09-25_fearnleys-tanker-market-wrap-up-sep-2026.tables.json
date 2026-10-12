@@ -4,11 +4,135 @@
   "year": 2026,
   "department": "TANK",
   "report_title": "Fearnleys Tanker Market Wrap-up Sep 2026",
-  "shipment_volume_metrics": [],
-  "coal_futures_spread_metrics": [],
-  "time_charter_vs_asset_metrics": [],
-  "vessel_tightness_metrics": [],
-  "macro_correlation_metrics": [],
-  "charts_count": 22,
-  "source_markdown": "2026-09-25_fearnleys-tanker-market-wrap-up-sep-2026.md"
+  "source_markdown": "2026-09-25_fearnleys-tanker-market-wrap-up-sep-2026.md",
+  "tables": [],
+  "printed_image_tables": [],
+  "charts_count": 25,
+  "charts": [
+    {
+      "section": "Summary and outlook",
+      "title": "Monthly average rates - constantly adjusting the Y-axis",
+      "image": "0be848a1-a006-4a49-b2d4-c406e1fe4d29/rates.png"
+    },
+    {
+      "section": "Volumes nearly recovered - demand at all-time-high",
+      "title": "Seaborne crude oil loadings vs. Dec'25",
+      "image": "0be848a1-a006-4a49-b2d4-c406e1fe4d29/flowc.png"
+    },
+    {
+      "section": "Volumes nearly recovered - demand at all-time-high",
+      "title": "Seaborne oil product loadings vs. Dec'25",
+      "image": "0be848a1-a006-4a49-b2d4-c406e1fe4d29/flowp.png"
+    },
+    {
+      "section": "Volumes nearly recovered - demand at all-time-high",
+      "title": "Brent fwd. spread vs. VLCC rates",
+      "image": "0be848a1-a006-4a49-b2d4-c406e1fe4d29/fwd.png"
+    },
+    {
+      "section": "Volumes nearly recovered - demand at all-time-high",
+      "title": "Northwest Europe gasoil crack vs. Atlantic MR rates",
+      "image": "0be848a1-a006-4a49-b2d4-c406e1fe4d29/crackmr.png"
+    },
+    {
+      "section": "Volumes nearly recovered - demand at all-time-high",
+      "title": "Total tanker tonne-day demand (+3% YTD)",
+      "image": "0be848a1-a006-4a49-b2d4-c406e1fe4d29/tmtot.png"
+    },
+    {
+      "section": "Volumes nearly recovered - demand at all-time-high",
+      "title": "Total crude tanker tonne-day demand (+7% YTD)",
+      "image": "0be848a1-a006-4a49-b2d4-c406e1fe4d29/tmc.png"
+    },
+    {
+      "section": "Volumes nearly recovered - demand at all-time-high",
+      "title": "Total product tanker tonne-day demand (-2% YTD)",
+      "image": "0be848a1-a006-4a49-b2d4-c406e1fe4d29/tmp.png"
+    },
+    {
+      "section": "Volumes nearly recovered - demand at all-time-high",
+      "title": "Total VLCC tonne-day demand (-1% YTD)",
+      "image": "0be848a1-a006-4a49-b2d4-c406e1fe4d29/tmv.png"
+    },
+    {
+      "section": "Volumes nearly recovered - demand at all-time-high",
+      "title": "Total Suez tonne-day demand (+6% YTD)",
+      "image": "0be848a1-a006-4a49-b2d4-c406e1fe4d29/tms.png"
+    },
+    {
+      "section": "Volumes nearly recovered - demand at all-time-high",
+      "title": "Total Afra/LR2 tonne-day demand (+4% YTD)",
+      "image": "0be848a1-a006-4a49-b2d4-c406e1fe4d29/tma.png"
+    },
+    {
+      "section": "Volumes nearly recovered - demand at all-time-high",
+      "title": "Total MR tonne-day demand (+5% YTD)",
+      "image": "0be848a1-a006-4a49-b2d4-c406e1fe4d29/tmm.png"
+    },
+    {
+      "section": "Oil market still short and supportive",
+      "title": "Global onshore crude oil storage",
+      "image": "0be848a1-a006-4a49-b2d4-c406e1fe4d29/onshore.png"
+    },
+    {
+      "section": "Oil market still short and supportive",
+      "title": "Crude oil on the water by source",
+      "image": "0be848a1-a006-4a49-b2d4-c406e1fe4d29/oow.png"
+    },
+    {
+      "section": "Oil market still short and supportive",
+      "title": "Chinese refinery runs rebounding",
+      "image": "0be848a1-a006-4a49-b2d4-c406e1fe4d29/runchina.png"
+    },
+    {
+      "section": "Oil market still short and supportive",
+      "title": "Apparent demand still low, but recovering slightly",
+      "image": "0be848a1-a006-4a49-b2d4-c406e1fe4d29/chidem.png"
+    },
+    {
+      "section": "Oil market still short and supportive",
+      "title": "Global refinery runs",
+      "image": "0be848a1-a006-4a49-b2d4-c406e1fe4d29/refrun.png"
+    },
+    {
+      "section": "Oil market still short and supportive",
+      "title": "Northwest Europe crack spreads",
+      "image": "0be848a1-a006-4a49-b2d4-c406e1fe4d29/refeu.png"
+    },
+    {
+      "section": "Oil market still short and supportive",
+      "title": "U.S. Gulf Coast crack spreads",
+      "image": "0be848a1-a006-4a49-b2d4-c406e1fe4d29/Refus.png"
+    },
+    {
+      "section": "Oil market still short and supportive",
+      "title": "Bohai Bay crack spreads",
+      "image": "0be848a1-a006-4a49-b2d4-c406e1fe4d29/refchi.png"
+    },
+    {
+      "section": "Another layer - potential 90 day U.S. gasoil export ban",
+      "title": "U.S. Gasoil/diesel exports by destination",
+      "image": "0be848a1-a006-4a49-b2d4-c406e1fe4d29/usgas.png"
+    },
+    {
+      "section": "Another layer - potential 90 day U.S. gasoil export ban",
+      "title": "Global gasoil/diesel loadings vs. Dec'25 baseline",
+      "image": "0be848a1-a006-4a49-b2d4-c406e1fe4d29/gasoil.png"
+    },
+    {
+      "section": "Some thoughts on next year - more oil almost balances more ships",
+      "title": "Americas q/q crude oil production change",
+      "image": "0be848a1-a006-4a49-b2d4-c406e1fe4d29/americas.png"
+    },
+    {
+      "section": "Some thoughts on next year - more oil almost balances more ships",
+      "title": "Quarterly tanker deliveries",
+      "image": "0be848a1-a006-4a49-b2d4-c406e1fe4d29/quarterly.png"
+    },
+    {
+      "section": "Some thoughts on next year - more oil almost balances more ships",
+      "title": "Annual tanker deliveries",
+      "image": "0be848a1-a006-4a49-b2d4-c406e1fe4d29/annual.png"
+    }
+  ]
 }

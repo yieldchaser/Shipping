@@ -4,11 +4,115 @@
   "year": 2026,
   "department": "TANK",
   "report_title": "Fearnleys Tanker Market Wrap-up Jul 2026",
-  "shipment_volume_metrics": [],
-  "coal_futures_spread_metrics": [],
-  "time_charter_vs_asset_metrics": [],
-  "vessel_tightness_metrics": [],
-  "macro_correlation_metrics": [],
-  "charts_count": 18,
-  "source_markdown": "2026-07-31_fearnleys-tanker-market-wrap-up-jul-2026.md"
+  "source_markdown": "2026-07-31_fearnleys-tanker-market-wrap-up-jul-2026.md",
+  "tables": [],
+  "printed_image_tables": [],
+  "charts_count": 21,
+  "charts": [
+    {
+      "section": "Summary and outlook",
+      "title": "Monthly rates",
+      "image": "8a90c801-03b4-4e66-a957-d5c7d1c99daa/rates.png"
+    },
+    {
+      "section": "Volumes not quite going anywhere - demand supported by inefficiencies",
+      "title": "Seaborne crude loadings, vs. Dec'25",
+      "image": "8a90c801-03b4-4e66-a957-d5c7d1c99daa/crude1.png"
+    },
+    {
+      "section": "Volumes not quite going anywhere - demand supported by inefficiencies",
+      "title": "Seaborne CPP loadings, vs. Dec'25",
+      "image": "8a90c801-03b4-4e66-a957-d5c7d1c99daa/cpp1.png"
+    },
+    {
+      "section": "Volumes not quite going anywhere - demand supported by inefficiencies",
+      "title": "Total tanker tonne-day demand (+2% YTD)",
+      "image": "8a90c801-03b4-4e66-a957-d5c7d1c99daa/tonnedays.png"
+    },
+    {
+      "section": "Volumes not quite going anywhere - demand supported by inefficiencies",
+      "title": "Crude tanker tonne-mile demand (-6% YTD)",
+      "image": "8a90c801-03b4-4e66-a957-d5c7d1c99daa/tmc.png"
+    },
+    {
+      "section": "Volumes not quite going anywhere - demand supported by inefficiencies",
+      "title": "Product tanker tonne-mile demand (-12% YTD)",
+      "image": "8a90c801-03b4-4e66-a957-d5c7d1c99daa/tmp.png"
+    },
+    {
+      "section": "Volumes not quite going anywhere - demand supported by inefficiencies",
+      "title": "VLCC tonne-mile demand (-15% YTD)",
+      "image": "8a90c801-03b4-4e66-a957-d5c7d1c99daa/tmv.png"
+    },
+    {
+      "section": "Volumes not quite going anywhere - demand supported by inefficiencies",
+      "title": "Suezmax tonne-mile demand (+3% YTD)",
+      "image": "8a90c801-03b4-4e66-a957-d5c7d1c99daa/tms.png"
+    },
+    {
+      "section": "Volumes not quite going anywhere - demand supported by inefficiencies",
+      "title": "Afra/LR2 tonne-mile demand (-2% YTD)",
+      "image": "8a90c801-03b4-4e66-a957-d5c7d1c99daa/tma.png"
+    },
+    {
+      "section": "Volumes not quite going anywhere - demand supported by inefficiencies",
+      "title": "MR tonne-mile demand (-1% YTD)",
+      "image": "8a90c801-03b4-4e66-a957-d5c7d1c99daa/tmm.png"
+    },
+    {
+      "section": "Houthis entered the chat",
+      "title": "Saudi Red Sea crude flow by destination",
+      "image": "8a90c801-03b4-4e66-a957-d5c7d1c99daa/yanbuc.png"
+    },
+    {
+      "section": "Houthis entered the chat",
+      "title": "Saudi Red Sea product flow by destination",
+      "image": "8a90c801-03b4-4e66-a957-d5c7d1c99daa/yanbup.png"
+    },
+    {
+      "section": "Houthis entered the chat",
+      "title": "Sailing distance comparisons",
+      "image": "8a90c801-03b4-4e66-a957-d5c7d1c99daa/sailing.png"
+    },
+    {
+      "section": "Oil market still undersupplied - crack spreads flying",
+      "title": "Americas crude oil production change Q/Q",
+      "image": "8a90c801-03b4-4e66-a957-d5c7d1c99daa/americas.png"
+    },
+    {
+      "section": "Oil market still undersupplied - crack spreads flying",
+      "title": "Global oil demand vs. supply",
+      "image": "8a90c801-03b4-4e66-a957-d5c7d1c99daa/iea.png"
+    },
+    {
+      "section": "Oil market still undersupplied - crack spreads flying",
+      "title": "Global refinery runs",
+      "image": "8a90c801-03b4-4e66-a957-d5c7d1c99daa/ref.png"
+    },
+    {
+      "section": "Oil market still undersupplied - crack spreads flying",
+      "title": "U.S. Gulf Coast crack spreads",
+      "image": "8a90c801-03b4-4e66-a957-d5c7d1c99daa/crackus.png"
+    },
+    {
+      "section": "Oil market still undersupplied - crack spreads flying",
+      "title": "Northwest Europe crack spreads",
+      "image": "8a90c801-03b4-4e66-a957-d5c7d1c99daa/crackeu.png"
+    },
+    {
+      "section": "Oil market still undersupplied - crack spreads flying",
+      "title": "Bohai Bay crack spreads",
+      "image": "8a90c801-03b4-4e66-a957-d5c7d1c99daa/crackch.png"
+    },
+    {
+      "section": "The 'only' known is that fleet growth picks up",
+      "title": "Annual tanker deliveries, +42k dwt",
+      "image": "8a90c801-03b4-4e66-a957-d5c7d1c99daa/fleet.png"
+    },
+    {
+      "section": "The 'only' known is that fleet growth picks up",
+      "title": "Sanctioned fleet",
+      "image": "8a90c801-03b4-4e66-a957-d5c7d1c99daa/sanctioned.png"
+    }
+  ]
 }

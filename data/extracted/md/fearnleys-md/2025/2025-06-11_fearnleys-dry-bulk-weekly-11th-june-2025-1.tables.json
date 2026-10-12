@@ -4,11 +4,70 @@
   "year": 2025,
   "department": "BULK",
   "report_title": "Fearnleys Dry Bulk Weekly",
-  "shipment_volume_metrics": [],
-  "coal_futures_spread_metrics": [],
-  "time_charter_vs_asset_metrics": [],
-  "vessel_tightness_metrics": [],
-  "macro_correlation_metrics": [],
+  "source_markdown": "2025-06-11_fearnleys-dry-bulk-weekly-11th-june-2025-1.md",
+  "tables": [],
+  "printed_image_tables": [],
   "charts_count": 12,
-  "source_markdown": "2025-06-11_fearnleys-dry-bulk-weekly-11th-june-2025-1.md"
+  "charts": [
+    {
+      "section": "Capesize/Newcastlemax",
+      "title": "China Imported Iron Ore Consumption Lead vs BCI5TC 1 Month Change",
+      "image": "d5c5076a-bbed-483b-b5db-d9ee0c2b0f49/CHINA IMPORTED IRON ORE CONSUMPTION LEAD VS CAPESIZE 1 MONTH CHANGE.png"
+    },
+    {
+      "section": "Capesize/Newcastlemax",
+      "title": "Iron Ore Price, 3 Months Lead vs BCI5TC",
+      "image": "d5c5076a-bbed-483b-b5db-d9ee0c2b0f49/IRON ORE PRICE 3 MONTH LEAD VS BCI5TC.png"
+    },
+    {
+      "section": "Capesize/Newcastlemax",
+      "title": "Capesize Panamax Ratio vs BCI5TC",
+      "image": "d5c5076a-bbed-483b-b5db-d9ee0c2b0f49/Capesize Panamax Ratio.png"
+    },
+    {
+      "section": "Capesize/Newcastlemax",
+      "title": "Capesize/Newcastlemax Weekly Shipment Volumes 2024 vs 2025",
+      "image": "d5c5076a-bbed-483b-b5db-d9ee0c2b0f49/Capenewc Weekly Shipment Volumes.png"
+    },
+    {
+      "section": "Panamax/Kamsarmax",
+      "title": "Panamax / Kamsarmax Coal Loadings by Month",
+      "image": "d5c5076a-bbed-483b-b5db-d9ee0c2b0f49/Panamax Coal Loadings.png"
+    },
+    {
+      "section": "Panamax/Kamsarmax",
+      "title": "Kamsarmax Market Seasonality",
+      "image": "d5c5076a-bbed-483b-b5db-d9ee0c2b0f49/PANAMAX KAMSARMAX SEASONAL AVERAGE.png"
+    },
+    {
+      "section": "Panamax/Kamsarmax",
+      "title": "Panamax / Kamsarmax Grain Loadings by Month",
+      "image": "d5c5076a-bbed-483b-b5db-d9ee0c2b0f49/panamax kamsarmax grain loadings.png"
+    },
+    {
+      "section": "Panamax/Kamsarmax",
+      "title": "Panamax / Kamsarmax Fleet Growth",
+      "image": "d5c5076a-bbed-483b-b5db-d9ee0c2b0f49/panamax fleet growth.png"
+    },
+    {
+      "section": "Supramax/Ultramax",
+      "title": "Copper Price Lead vs Supramax 1 Year TC 6 Months Change",
+      "image": "f9d775c3-4215-40bd-b9e6-1a3a22daecc4/COPPER PRICE VS SUPRAMAX 1 YEAR TC.png"
+    },
+    {
+      "section": "Supramax/Ultramax",
+      "title": "Supramax / Ultramax Market Seasonality",
+      "image": "d5c5076a-bbed-483b-b5db-d9ee0c2b0f49/SUPRAMAX ULTRAMAX SEASONAL AVERAGE.png"
+    },
+    {
+      "section": "Supramax/Ultramax",
+      "title": "Supramax/Ultramax Monthly Shipment Volumes, by Year",
+      "image": "f9d775c3-4215-40bd-b9e6-1a3a22daecc4/supramax monthly volumes.png"
+    },
+    {
+      "section": "Supramax/Ultramax",
+      "title": "Supramax/Ultramax Year on Year Fleet Growth",
+      "image": "17d897ea-775e-448a-9896-08ecbebb25d6/supraultra fleet growth.png"
+    }
+  ]
 }

@@ -4,24 +4,70 @@
   "year": 2025,
   "department": "BULK",
   "report_title": "Fearnleys Dry Bulk Weekly",
-  "shipment_volume_metrics": [],
-  "coal_futures_spread_metrics": [],
-  "time_charter_vs_asset_metrics": [],
-  "vessel_tightness_metrics": [],
-  "macro_correlation_metrics": [
-    {
-      "issue_date": "2025-05-12",
-      "year": "2025",
-      "department": "BULK",
-      "report_title": "Fearnleys Dry Bulk Weekly",
-      "macro_metric": "Iron Ore Price 3M Lead vs BCI5TC",
-      "freight_benchmark_val": 11589.4,
-      "macro_indicator_val": 103.5,
-      "lead_tenor": "3 Months",
-      "chart_title": "IRON ORE PRICE 3 MONTH LEAD VS BCI5TC.png",
-      "report_id": "0fcf4e50-41b5-4c40-ad75-f01a52d4beba"
-    }
-  ],
+  "source_markdown": "2025-05-12_fearnleys-dry-bulk-weekly-12th-may-2025-5.md",
+  "tables": [],
+  "printed_image_tables": [],
   "charts_count": 12,
-  "source_markdown": "2025-05-12_fearnleys-dry-bulk-weekly-12th-may-2025-5.md"
+  "charts": [
+    {
+      "section": "Capesize/Newcastlemax",
+      "title": "China Imported Iron Ore Consumption Lead vs BCI5TC 1 Month Change",
+      "image": "0fcf4e50-41b5-4c40-ad75-f01a52d4beba/CHINA IMPORTED IRON ORE CONSUMPTION LEAD VS CAPESIZE 1 MONTH CHANGE.png"
+    },
+    {
+      "section": "Capesize/Newcastlemax",
+      "title": "Iron Ore Price, 3 Months Lead vs BCI5TC",
+      "image": "0fcf4e50-41b5-4c40-ad75-f01a52d4beba/IRON ORE PRICE 3 MONTH LEAD VS BCI5TC.png"
+    },
+    {
+      "section": "Capesize/Newcastlemax",
+      "title": "Capesize/Newcastlemax Year on Year Fleet Growth",
+      "image": "17d897ea-775e-448a-9896-08ecbebb25d6/capenewc fleet growth year on year.png"
+    },
+    {
+      "section": "Capesize/Newcastlemax",
+      "title": "Capesize/Newcastlemax Weekly Shipment Volumes 2024 vs 2025",
+      "image": "0fcf4e50-41b5-4c40-ad75-f01a52d4beba/Capenewc Weekly Shipment Volumes.png"
+    },
+    {
+      "section": "Panamax/Kamsarmax",
+      "title": "Panamax / Kamsarmax Canada and US Grain Exports",
+      "image": "0fcf4e50-41b5-4c40-ad75-f01a52d4beba/panamax kamsarmax canada usa grain exports.png"
+    },
+    {
+      "section": "Panamax/Kamsarmax",
+      "title": "Kamsarmax Market Seasonality",
+      "image": "0fcf4e50-41b5-4c40-ad75-f01a52d4beba/PANAMAX KAMSARMAX SEASONAL AVERAGE.png"
+    },
+    {
+      "section": "Panamax/Kamsarmax",
+      "title": "Panamax / Kamsarmax Heading to Indonesia",
+      "image": "0fcf4e50-41b5-4c40-ad75-f01a52d4beba/PANAMAX KAMSARMAX HEADING TO INDONESIA.png"
+    },
+    {
+      "section": "Panamax/Kamsarmax",
+      "title": "Panamax / Kamsarmax Argentina and Brazil Grain Exports",
+      "image": "0fcf4e50-41b5-4c40-ad75-f01a52d4beba/panamax kamsarmax argentina and brazil grain exports.png"
+    },
+    {
+      "section": "Supramax/Ultramax",
+      "title": "Copper Price Lead vs Supramax 1 Year TC 6 Months Change",
+      "image": "17d897ea-775e-448a-9896-08ecbebb25d6/COPPER PRICE VS SUPRAMAX 1 YEAR TC.png"
+    },
+    {
+      "section": "Supramax/Ultramax",
+      "title": "Supramax / Ultramax Market Seasonality",
+      "image": "17d897ea-775e-448a-9896-08ecbebb25d6/SUPRAMAX ULTRAMAX SEASONAL AVERAGE.png"
+    },
+    {
+      "section": "Supramax/Ultramax",
+      "title": "Supramax/Ultramax Monthly Shipment Volumes, by Year",
+      "image": "17d897ea-775e-448a-9896-08ecbebb25d6/SUPRAMAX ULTRAMAX MONTHLY LOADINGS.png"
+    },
+    {
+      "section": "Supramax/Ultramax",
+      "title": "Supramax/Ultramax Year on Year Fleet Growth",
+      "image": "17d897ea-775e-448a-9896-08ecbebb25d6/supraultra fleet growth.png"
+    }
+  ]
 }

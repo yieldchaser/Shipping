@@ -4,24 +4,70 @@
   "year": 2024,
   "department": "BULK",
   "report_title": "Fearnleys Dry Bulk Weekly",
-  "shipment_volume_metrics": [],
-  "coal_futures_spread_metrics": [],
-  "time_charter_vs_asset_metrics": [],
-  "vessel_tightness_metrics": [],
-  "macro_correlation_metrics": [
-    {
-      "issue_date": "2024-10-02",
-      "year": "2024",
-      "department": "BULK",
-      "report_title": "Fearnleys Dry Bulk Weekly",
-      "macro_metric": "Iron Ore Price 3M Lead vs BCI5TC",
-      "freight_benchmark_val": 14736.8,
-      "macro_indicator_val": 132.8,
-      "lead_tenor": "3 Months",
-      "chart_title": "IRON ORE PRICE 3 MONTH LEAD VS BCI5TC.png",
-      "report_id": "b3a016e9-1153-4f09-a3e0-33cc30fcc2b6"
-    }
-  ],
+  "source_markdown": "2024-10-02_fearnleys-dry-bulk-weekly-2nd-octobe-2024-840-999-214-985-346-269-756-824-982.md",
+  "tables": [],
+  "printed_image_tables": [],
   "charts_count": 12,
-  "source_markdown": "2024-10-02_fearnleys-dry-bulk-weekly-2nd-octobe-2024-840-999-214-985-346-269-756-824-982.md"
+  "charts": [
+    {
+      "section": "Capesize/Newcastlemax",
+      "title": "C5TC / P5TC vs Capesize 5TC",
+      "image": "b3a016e9-1153-4f09-a3e0-33cc30fcc2b6/CAPE PANAMAX RATIO.png"
+    },
+    {
+      "section": "Capesize/Newcastlemax",
+      "title": "OECD Economic Indicator - China vs Capesize 1 Year TC YoY Change",
+      "image": "b3a016e9-1153-4f09-a3e0-33cc30fcc2b6/OECD CHINA vs CAPE.png"
+    },
+    {
+      "section": "Capesize/Newcastlemax",
+      "title": "Iron Ore Price Lead vs BCI5TC",
+      "image": "b3a016e9-1153-4f09-a3e0-33cc30fcc2b6/IRON ORE PRICE 3 MONTH LEAD VS BCI5TC.png"
+    },
+    {
+      "section": "Capesize/Newcastlemax",
+      "title": "China Imported Iron Ore Consumption Lead vs BCI5TC",
+      "image": "b3a016e9-1153-4f09-a3e0-33cc30fcc2b6/CHINA IMPORTED IRON ORE CONSUMPTION LEAD VS CAPESIZE 1 MONTH CHANGE.png"
+    },
+    {
+      "section": "Panamax/Kamsarmax",
+      "title": "Panamax / Kamsarmax Shipment Volume Growth minus Supply Growth vs 1 Year TC YoY",
+      "image": "b3a016e9-1153-4f09-a3e0-33cc30fcc2b6/PANAMAX KAMSARMAX 1 YEAR TC VS MARKET BALANCE.png"
+    },
+    {
+      "section": "Panamax/Kamsarmax",
+      "title": "Panamax / Kamsarmax Shipment Volume Growth minus Supply Growth vs Spot Index YoY",
+      "image": "b3a016e9-1153-4f09-a3e0-33cc30fcc2b6/PANAMAX KAMSARMAX SPOT MARKET YOY VS MARKET BALANCE.png"
+    },
+    {
+      "section": "Panamax/Kamsarmax",
+      "title": "Panamax/Kamsarmax Seasonal Average Market Movement",
+      "image": "b3a016e9-1153-4f09-a3e0-33cc30fcc2b6/PANAMAX KAMSARMAX SEASONAL AVERAGE.png"
+    },
+    {
+      "section": "Panamax/Kamsarmax",
+      "title": "BPI5TC 2023 vs 2024",
+      "image": "b3a016e9-1153-4f09-a3e0-33cc30fcc2b6/PANAMAX KAMSARMAX 2023 VS 2024.png"
+    },
+    {
+      "section": "Supramax/Ultramax",
+      "title": "Supramax Seasonal Market Movement",
+      "image": "b3a016e9-1153-4f09-a3e0-33cc30fcc2b6/SUPRAMAX SEASONALITY.png"
+    },
+    {
+      "section": "Supramax/Ultramax",
+      "title": "Supramax 1 Year TC YoY",
+      "image": "b3a016e9-1153-4f09-a3e0-33cc30fcc2b6/SUPRAMAX 1 YEAR TC YOY.png"
+    },
+    {
+      "section": "Supramax/Ultramax",
+      "title": "Supramax Spot YoY",
+      "image": "b3a016e9-1153-4f09-a3e0-33cc30fcc2b6/SUPRAMAX SPOT YOY.png"
+    },
+    {
+      "section": "Supramax/Ultramax",
+      "title": "Supramax / Ultramax Market Balance",
+      "image": "b3a016e9-1153-4f09-a3e0-33cc30fcc2b6/supramax market balance.png"
+    }
+  ]
 }

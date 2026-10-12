@@ -4,24 +4,65 @@
   "year": 2025,
   "department": "BULK",
   "report_title": "Fearnleys Dry Bulk Weekly",
-  "shipment_volume_metrics": [],
-  "coal_futures_spread_metrics": [],
-  "time_charter_vs_asset_metrics": [],
-  "vessel_tightness_metrics": [],
-  "macro_correlation_metrics": [
-    {
-      "issue_date": "2025-02-12",
-      "year": "2025",
-      "department": "BULK",
-      "report_title": "Fearnleys Dry Bulk Weekly",
-      "macro_metric": "Copper 6M Change Lead vs Supramax 1Y TC 6M Change",
-      "freight_benchmark_val": -12.2,
-      "macro_indicator_val": -0.4,
-      "lead_tenor": "6 Months",
-      "chart_title": "COPPER PRICE VS SUPRAMAX 1 YEAR TC.png",
-      "report_id": "b458a00f-30c7-4acd-8b8b-3dfb029114ac"
-    }
-  ],
+  "source_markdown": "2025-02-12_fearnleys-dry-bulk-weekly-12th-february-2025.md",
+  "tables": [],
+  "printed_image_tables": [],
   "charts_count": 11,
-  "source_markdown": "2025-02-12_fearnleys-dry-bulk-weekly-12th-february-2025.md"
+  "charts": [
+    {
+      "section": "Capesize/Newcastlemax",
+      "title": "VLOCs Waiting to Load in Brazil",
+      "image": "b458a00f-30c7-4acd-8b8b-3dfb029114ac/VLOC BRAZIL CONGESTION.png"
+    },
+    {
+      "section": "Capesize/Newcastlemax",
+      "title": "Cape/Newc Ballaster/Laden Vessel Ratio",
+      "image": "b458a00f-30c7-4acd-8b8b-3dfb029114ac/CAPENEWC BALLASTER LADEN VESSEL RATIO.png"
+    },
+    {
+      "section": "Capesize/Newcastlemax",
+      "title": "Iron Ore Price Change (3 Months Lead) vs BCI5TC",
+      "image": "b458a00f-30c7-4acd-8b8b-3dfb029114ac/IRON ORE PRICE 3 MONTH CHANGE LEAD VS BCI5TC.png"
+    },
+    {
+      "section": "Capesize/Newcastlemax",
+      "title": "China Imported Iron Ore Consumption Lead vs BCI5TC 1 Month Change",
+      "image": "b458a00f-30c7-4acd-8b8b-3dfb029114ac/CHINA IMPORTED IRON ORE CONSUMPTION LEAD VS CAPESIZE 1 MONTH CHANGE.png"
+    },
+    {
+      "section": "Panamax/Kamsarmax",
+      "title": "Panamax / Kamsarmax Laden With Coal to China or India, by Year",
+      "image": "b458a00f-30c7-4acd-8b8b-3dfb029114ac/PANAMAX KAMSARMAX LADEN WITH COAL TO CHINA OR INDIA.png"
+    },
+    {
+      "section": "Panamax/Kamsarmax",
+      "title": "Panamax / Kamsarmax Ballasting To Brazil, by Year",
+      "image": "b458a00f-30c7-4acd-8b8b-3dfb029114ac/PANAMAX KAMSARMAX HEADING TO BRAZIL.png"
+    },
+    {
+      "section": "Panamax/Kamsarmax",
+      "title": "China Total Coal Inventories",
+      "image": "b458a00f-30c7-4acd-8b8b-3dfb029114ac/CHINA COAL INVENTORIES.png"
+    },
+    {
+      "section": "Panamax/Kamsarmax",
+      "title": "Kamsarmax Market Seasonality",
+      "image": "b458a00f-30c7-4acd-8b8b-3dfb029114ac/PANAMAX KAMSARMAX SEASONAL AVERAGE.png"
+    },
+    {
+      "section": "Supramax/Ultramax",
+      "title": "Copper Price Lead vs Supramax 1 Year TC 6 Months Change",
+      "image": "b458a00f-30c7-4acd-8b8b-3dfb029114ac/COPPER PRICE VS SUPRAMAX 1 YEAR TC.png"
+    },
+    {
+      "section": "Supramax/Ultramax",
+      "title": "Supramax / Ultramax Seasonal Average",
+      "image": "b458a00f-30c7-4acd-8b8b-3dfb029114ac/SUPRAMAX ULTRAMAX SEASONAL AVERAGE.png"
+    },
+    {
+      "section": "Supramax/Ultramax",
+      "title": "Laden Supramax/Ultramax Vessels, and Year on Year Change",
+      "image": "b458a00f-30c7-4acd-8b8b-3dfb029114ac/LADEN SUPRAMAX ULTRAMAX.png"
+    }
+  ]
 }

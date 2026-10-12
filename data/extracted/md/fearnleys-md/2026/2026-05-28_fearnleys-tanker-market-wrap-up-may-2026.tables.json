@@ -4,11 +4,145 @@
   "year": 2026,
   "department": "TANK",
   "report_title": "Fearnleys Tanker Market Wrap-up May 2026",
-  "shipment_volume_metrics": [],
-  "coal_futures_spread_metrics": [],
-  "time_charter_vs_asset_metrics": [],
-  "vessel_tightness_metrics": [],
-  "macro_correlation_metrics": [],
-  "charts_count": 15,
-  "source_markdown": "2026-05-28_fearnleys-tanker-market-wrap-up-may-2026.md"
+  "source_markdown": "2026-05-28_fearnleys-tanker-market-wrap-up-may-2026.md",
+  "tables": [],
+  "printed_image_tables": [],
+  "charts_count": 27,
+  "charts": [
+    {
+      "section": "Summary and outlook",
+      "title": "Monthly average rates",
+      "image": "6603b7b6-6c8c-4d08-89bc-1437fd94836c/rates.png"
+    },
+    {
+      "section": "Increased oil supply outlook",
+      "title": "Global oil supply change vs. tanker demand growth",
+      "image": "6603b7b6-6c8c-4d08-89bc-1437fd94836c/demand.png"
+    },
+    {
+      "section": "Increased oil supply outlook",
+      "title": "OPEC+ production cut unwind continues",
+      "image": "6603b7b6-6c8c-4d08-89bc-1437fd94836c/opec.png"
+    },
+    {
+      "section": "Increased oil supply outlook",
+      "title": "Americas supply estimates revised higher",
+      "image": "6603b7b6-6c8c-4d08-89bc-1437fd94836c/americas.png"
+    },
+    {
+      "section": "Increased oil supply outlook",
+      "title": "UAE with up to 1 mbpd upside",
+      "image": "6603b7b6-6c8c-4d08-89bc-1437fd94836c/UAE.png"
+    },
+    {
+      "section": "Demand still low, although recovered somewhat. Overweight of Atlantic ballasters",
+      "title": "Weekly tanker tonne-mile demand",
+      "image": "6603b7b6-6c8c-4d08-89bc-1437fd94836c/tmtot.png"
+    },
+    {
+      "section": "Demand still low, although recovered somewhat. Overweight of Atlantic ballasters",
+      "title": "Weekly crude tanker tonne-mile demand",
+      "image": "6603b7b6-6c8c-4d08-89bc-1437fd94836c/tmcrud.png"
+    },
+    {
+      "section": "Demand still low, although recovered somewhat. Overweight of Atlantic ballasters",
+      "title": "Weekly product tanker tonne-mile demand",
+      "image": "6603b7b6-6c8c-4d08-89bc-1437fd94836c/tmprod.png"
+    },
+    {
+      "section": "Demand still low, although recovered somewhat. Overweight of Atlantic ballasters",
+      "title": "Weekly VLCC tonne-mile demand",
+      "image": "6603b7b6-6c8c-4d08-89bc-1437fd94836c/tmV.png"
+    },
+    {
+      "section": "Demand still low, although recovered somewhat. Overweight of Atlantic ballasters",
+      "title": "Weekly Suezmax tonne-mile demand",
+      "image": "6603b7b6-6c8c-4d08-89bc-1437fd94836c/tmS.png"
+    },
+    {
+      "section": "Demand still low, although recovered somewhat. Overweight of Atlantic ballasters",
+      "title": "Weekly Afra/LR2 tonne-mile demand",
+      "image": "6603b7b6-6c8c-4d08-89bc-1437fd94836c/tm A.png"
+    },
+    {
+      "section": "Demand still low, although recovered somewhat. Overweight of Atlantic ballasters",
+      "title": "Weekly MR tonne-mile demand",
+      "image": "6603b7b6-6c8c-4d08-89bc-1437fd94836c/tmm.png"
+    },
+    {
+      "section": "Demand still low, although recovered somewhat. Overweight of Atlantic ballasters",
+      "title": "Share of LR2s trading dirty",
+      "image": "6603b7b6-6c8c-4d08-89bc-1437fd94836c/LR2.png"
+    },
+    {
+      "section": "Demand still low, although recovered somewhat. Overweight of Atlantic ballasters",
+      "title": "Change in number of ballasters vs. Jan/Feb average",
+      "image": "6603b7b6-6c8c-4d08-89bc-1437fd94836c/ballast.png"
+    },
+    {
+      "section": "Oil market balances",
+      "title": "U.S. Gulf crude oil exports by destination",
+      "image": "6603b7b6-6c8c-4d08-89bc-1437fd94836c/usgex.png"
+    },
+    {
+      "section": "Oil market balances",
+      "title": "U.S. commercial crude & main product stocks",
+      "image": "6603b7b6-6c8c-4d08-89bc-1437fd94836c/usinv.png"
+    },
+    {
+      "section": "Oil market balances",
+      "title": "U.S. CPP exports by destination",
+      "image": "6603b7b6-6c8c-4d08-89bc-1437fd94836c/usprodex.png"
+    },
+    {
+      "section": "Oil market balances",
+      "title": "Chinese crude oil imports",
+      "image": "6603b7b6-6c8c-4d08-89bc-1437fd94836c/chiim.png"
+    },
+    {
+      "section": "Oil market balances",
+      "title": "Chinese refinery runs",
+      "image": "6603b7b6-6c8c-4d08-89bc-1437fd94836c/chiref.png"
+    },
+    {
+      "section": "Oil market balances",
+      "title": "Chinese CPP exports",
+      "image": "6603b7b6-6c8c-4d08-89bc-1437fd94836c/chiex.png"
+    },
+    {
+      "section": "Oil market balances",
+      "title": "EIA oil market balance",
+      "image": "6603b7b6-6c8c-4d08-89bc-1437fd94836c/eiabal.png"
+    },
+    {
+      "section": "Oil market balances",
+      "title": "Global observed inventories",
+      "image": "6603b7b6-6c8c-4d08-89bc-1437fd94836c/globinv.png"
+    },
+    {
+      "section": "Oil market balances",
+      "title": "OECD inventory split",
+      "image": "6603b7b6-6c8c-4d08-89bc-1437fd94836c/oecd split.png"
+    },
+    {
+      "section": "Fleet growth and orders picking up",
+      "title": "Annual tanker deliveries",
+      "image": "6603b7b6-6c8c-4d08-89bc-1437fd94836c/annual.png"
+    },
+    {
+      "section": "Fleet growth and orders picking up",
+      "title": "Tanker orderbook vs. phase-out potential",
+      "image": "6603b7b6-6c8c-4d08-89bc-1437fd94836c/obphase.png"
+    },
+    {
+      "section": "Fleet growth and orders picking up",
+      "title": "Quarterly tanker deliveries",
+      "image": "6603b7b6-6c8c-4d08-89bc-1437fd94836c/quarter.png"
+    },
+    {
+      "section": "Fleet growth and orders picking up",
+      "title": "Orderbook to fleet",
+      "image": "6603b7b6-6c8c-4d08-89bc-1437fd94836c/obfleet.png"
+    }
+  ]
 }

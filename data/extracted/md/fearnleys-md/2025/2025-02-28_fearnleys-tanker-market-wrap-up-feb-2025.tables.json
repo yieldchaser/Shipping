@@ -4,11 +4,125 @@
   "year": 2025,
   "department": "TANK",
   "report_title": "Fearnleys Tanker Market Wrap-up Feb 2025",
-  "shipment_volume_metrics": [],
-  "coal_futures_spread_metrics": [],
-  "time_charter_vs_asset_metrics": [],
-  "vessel_tightness_metrics": [],
-  "macro_correlation_metrics": [],
-  "charts_count": 14,
-  "source_markdown": "2025-02-28_fearnleys-tanker-market-wrap-up-feb-2025.md"
+  "source_markdown": "2025-02-28_fearnleys-tanker-market-wrap-up-feb-2025.md",
+  "tables": [],
+  "printed_image_tables": [],
+  "charts_count": 23,
+  "charts": [
+    {
+      "section": "Summary and outlook",
+      "title": "Rates and forecast",
+      "image": "b8be760d-ef36-4161-b897-edefac72910d/fcast.png"
+    },
+    {
+      "section": "Summary and outlook",
+      "title": "Seaborne crude oil volumes",
+      "image": "b8be760d-ef36-4161-b897-edefac72910d/flowc.png"
+    },
+    {
+      "section": "Summary and outlook",
+      "title": "Seaborne oil products volumes",
+      "image": "b8be760d-ef36-4161-b897-edefac72910d/flowp.png"
+    },
+    {
+      "section": "More oil to come - which seems to be needed",
+      "title": "Americas crude oil production q/q",
+      "image": "b8be760d-ef36-4161-b897-edefac72910d/crudeprod.png"
+    },
+    {
+      "section": "More oil to come - which seems to be needed",
+      "title": "Relative oil pricing",
+      "image": "b8be760d-ef36-4161-b897-edefac72910d/arb.png"
+    },
+    {
+      "section": "More oil to come - which seems to be needed",
+      "title": "IEA oil market balance",
+      "image": "b8be760d-ef36-4161-b897-edefac72910d/ieabal.png"
+    },
+    {
+      "section": "More oil to come - which seems to be needed",
+      "title": "IEA oil market balance revisions",
+      "image": "b8be760d-ef36-4161-b897-edefac72910d/revise.png"
+    },
+    {
+      "section": "More oil to come - which seems to be needed",
+      "title": "Brent 7-1 month forward spread",
+      "image": "b8be760d-ef36-4161-b897-edefac72910d/fwd.png"
+    },
+    {
+      "section": "Stricter sanctions by the week",
+      "title": "Loadings on OFAC listed tankers",
+      "image": "b8be760d-ef36-4161-b897-edefac72910d/ofacload.png"
+    },
+    {
+      "section": "Stricter sanctions by the week",
+      "title": "Discharges from OFAC listed tankers",
+      "image": "b8be760d-ef36-4161-b897-edefac72910d/ofacdisch.png"
+    },
+    {
+      "section": "Stricter sanctions by the week",
+      "title": "Russia, Iran and Venezuela exports",
+      "image": "b8be760d-ef36-4161-b897-edefac72910d/fuckyou.png"
+    },
+    {
+      "section": "Stricter sanctions by the week",
+      "title": "Sanctioned fleet",
+      "image": "b8be760d-ef36-4161-b897-edefac72910d/sanctioned.png"
+    },
+    {
+      "section": "Stricter sanctions by the week",
+      "title": "U.S. Gulf crack spreads",
+      "image": "b8be760d-ef36-4161-b897-edefac72910d/crackus.png"
+    },
+    {
+      "section": "Stricter sanctions by the week",
+      "title": "NorthWest Europe crack spreads",
+      "image": "b8be760d-ef36-4161-b897-edefac72910d/crackeu.png"
+    },
+    {
+      "section": "Stricter sanctions by the week",
+      "title": "China crack spreads",
+      "image": "b8be760d-ef36-4161-b897-edefac72910d/refmch.png"
+    },
+    {
+      "section": "Stricter sanctions by the week",
+      "title": "Global refinery runs",
+      "image": "b8be760d-ef36-4161-b897-edefac72910d/ref.png"
+    },
+    {
+      "section": "Stricter sanctions by the week",
+      "title": "Atlantic MR rates vs. NWE gasoil margins",
+      "image": "b8be760d-ef36-4161-b897-edefac72910d/ratcr.png"
+    },
+    {
+      "section": "Little near-term fleet growth",
+      "title": "Tanker deliveries by year",
+      "image": "b8be760d-ef36-4161-b897-edefac72910d/fleet.png"
+    },
+    {
+      "section": "Little near-term fleet growth",
+      "title": "20+ years old vessels share of the total fleet",
+      "image": "b8be760d-ef36-4161-b897-edefac72910d/20+.png"
+    },
+    {
+      "section": "Little near-term fleet growth",
+      "title": "OFAC list age distribution, Iran linked",
+      "image": "b8be760d-ef36-4161-b897-edefac72910d/ofir.png"
+    },
+    {
+      "section": "Little near-term fleet growth",
+      "title": "OFAC list age distribution, Russia linked",
+      "image": "b8be760d-ef36-4161-b897-edefac72910d/ofru.png"
+    },
+    {
+      "section": "Little near-term fleet growth",
+      "title": "Tanker orders, 42k+ dwt",
+      "image": "b8be760d-ef36-4161-b897-edefac72910d/25ord.png"
+    },
+    {
+      "section": "Little near-term fleet growth",
+      "title": "Tanker demolition, 42k+ dwt",
+      "image": "b8be760d-ef36-4161-b897-edefac72910d/25scrap.png"
+    }
+  ]
 }

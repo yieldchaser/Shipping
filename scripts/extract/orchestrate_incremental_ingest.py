@@ -212,34 +212,8 @@ class ChartSignature:
 
 
 SIGNATURE_CATALOG = [
-    ChartSignature(
-        broker="fearnleys",
-        slug="coal_spread",
-        title="P5 vs Newcastle Coal Futures Spread Lead",
-        keywords=["p5 vs newcastle", "coal futures spread", "kamsarmax indonesia rv"],
-        target_csv=SERIES_DIR / "fearnleys_md_coal_futures_spread_series.csv",
-        key_fields=["issue_date", "chart_title"],
-        fieldnames=[
-            "issue_date", "year", "department", "report_title",
-            "p5_kamsarmax_indonesia_rv_usd_day", "p5_4w_prev_usd_day",
-            "newcastle_coal_futures_spread_lead_2m", "coal_spread_4w_prev",
-            "lead_tenor", "chart_title", "source_image", "report_id"
-        ],
-        min_drawings=5
-    ),
-    ChartSignature(
-        broker="fearnleys",
-        slug="vessel_tightness",
-        title="Vessel Tightness Indicators",
-        keywords=["p6 vs satl tightness", "north atlantic tightness", "ballaster laden"],
-        target_csv=SERIES_DIR / "fearnleys_md_vessel_tightness_series.csv",
-        key_fields=["issue_date", "indicator_type"],
-        fieldnames=[
-            "issue_date", "year", "department", "report_title", "indicator_type",
-            "bpi_5tc_usd_day", "tightness_ratio", "source_image", "report_id"
-        ],
-        min_drawings=5
-    ),
+    # The two Fearnleys signatures (coal spread, vessel tightness) pointed at chart series read off
+    # raster images with hardcoded axes; those series are quarantined in data/_quarantine/fearnleys_md/.
     ChartSignature(
         broker="intermodal",
         slug="baltic_tc_curves",
@@ -1300,15 +1274,15 @@ def process_single_pdf(
         except Exception as e:
             print(f"  [!] Note: specialized ssy failed ({e}), falling back to universal pipeline.")
     elif pub == "fearnleys-md":
+        # fearnleys-md MDs are rendered from the Fearnleys API blocks (corpus/01-brokers/fearnleys-md/*.md),
+        # never from the PDF: the universal PDF pipeline produced page dumps without tables or charts.
         try:
             import run_fearnleys_md_full_power
-            import export_fearnleys_md_excel
             if not dry_run:
-                run_fearnleys_md_full_power.main()
-                export_fearnleys_md_excel.main()
-            specialized_result = {"stem": stem, "pub": pub, "specialized": True}
+                run_fearnleys_md_full_power.run_fearnleys_md_pipeline()   # exact API tables + chart list sidecars
         except Exception as e:
-            print(f"  [!] Note: specialized fearnleys-md failed ({e}), falling back to universal pipeline.")
+            print(f"  [!] fearnleys-md extraction failed ({e}); not falling back to a PDF dump.")
+        specialized_result = {"stem": stem, "pub": pub, "specialized": True}
     elif pub in ("drewry", "ais") or "drewry" in str(pdf_path).lower():
         try:
             if "ais" in str(pdf_path).lower():

@@ -25,27 +25,27 @@ One trend among market participants is an increased focus on strategic timing fo
 
 The market outlook remains cautiously optimistic, though. Activity in recent months suggests a healthy demand for vessels despite the challenges. The expected sale of more vessels in the near future supports this optimism. Stakeholders must stay vigilant and adaptable to navigate the complexities of market timings and price expectations in order to capitalize on emerging opportunities.
 
-> **Chart 1: Recent sales**  
-> *Figure Asset:* [`latest sales.png`](../images/f17a6927-c7e2-4e86-8c98-c5fcba7f3140/latest%20sales.png)
+![Recent sales](../../../../../corpus/01-brokers/fearnleys-md/images/f17a6927-c7e2-4e86-8c98-c5fcba7f3140/latest%20sales.png)
+*Chart: Recent sales*
 
-> **Chart 2: Yearly sales**  
-> *Figure Asset:* [`yearly sales.png`](../images/f17a6927-c7e2-4e86-8c98-c5fcba7f3140/yearly%20sales.png)
+![Yearly sales](../../../../../corpus/01-brokers/fearnleys-md/images/f17a6927-c7e2-4e86-8c98-c5fcba7f3140/yearly%20sales.png)
+*Chart: Yearly sales*
 
-> **Chart 3: Asset values**  
-> *Figure Asset:* [`asset values.png`](../images/f17a6927-c7e2-4e86-8c98-c5fcba7f3140/asset%20values.png)
+![Asset values](../../../../../corpus/01-brokers/fearnleys-md/images/f17a6927-c7e2-4e86-8c98-c5fcba7f3140/asset%20values.png)
+*Chart: Asset values*
 
 ## Newbuilding update
 
 The newbuilding market in general has started the year with a lack of inertia, in stark contrast to the container sector's continued activity. Across most segments, a "wait-and-see" stance prevails, with shipyards, owners, and charterers all showing caution. This uncertainty has widened the gap in pricing between yards, reflecting their varying levels of slot availability and risk appetite. Aside from notable orders from Celsius at SHI and Hanwha Shipping at their own facility, both order books and inquiry pipelines remain notably subdued.
 
-> **Chart 4: Recent orders**  
-> *Figure Asset:* [`latest orders.png`](../images/f17a6927-c7e2-4e86-8c98-c5fcba7f3140/latest%20orders.png)
+![Recent orders](../../../../../corpus/01-brokers/fearnleys-md/images/f17a6927-c7e2-4e86-8c98-c5fcba7f3140/latest%20orders.png)
+*Chart: Recent orders*
 
-> **Chart 5: Deliveries incl. orderbook**  
-> *Figure Asset:* [`yearly deliveries.png`](../images/f17a6927-c7e2-4e86-8c98-c5fcba7f3140/yearly%20deliveries.png)
+![Deliveries incl. orderbook](../../../../../corpus/01-brokers/fearnleys-md/images/f17a6927-c7e2-4e86-8c98-c5fcba7f3140/yearly%20deliveries.png)
+*Chart: Deliveries incl. orderbook*
 
-> **Chart 6: LNGC orders**  
-> *Figure Asset:* [`yearly orders.png`](../images/f17a6927-c7e2-4e86-8c98-c5fcba7f3140/yearly%20orders.png)
+![LNGC orders](../../../../../corpus/01-brokers/fearnleys-md/images/f17a6927-c7e2-4e86-8c98-c5fcba7f3140/yearly%20orders.png)
+*Chart: LNGC orders*
 
 ## Interest rates
 
@@ -53,24 +53,38 @@ The flurry of activity seen since inauguration of the 47th president of the Unit
 
 A number of central banks have already commenced interest rate cuts (US, Eurozone), and while still citing inflation as the "guiding star" it feels as if growth prospects may become a central theme in the near-term. Of course, in the case of slower growth we can only hope that inflation tails off too, as market pundits have begun to whisper about stagflation scenarios. While our last comment included Mr. Powell's wait-and-see attitude, the sentiment seems to be more action than inaction these days and as such it would not be a surprise if we see a further slide interest rates.
 
-> **Chart 7: Interest rate (90 day avg. SOFR)**  
-> *Figure Asset:* [`sofr.png`](../images/f17a6927-c7e2-4e86-8c98-c5fcba7f3140/sofr.png)
+![Interest rate (90 day avg. SOFR)](../../../../../corpus/01-brokers/fearnleys-md/images/f17a6927-c7e2-4e86-8c98-c5fcba7f3140/sofr.png)
+*Chart: Interest rate (90 day avg. SOFR)*
 
-> **Chart 8: 10-Year Treasury Constant Maturity Minus 2-Year Treasury Constant Maturity**  
-> *Figure Asset:* [`10y2y.png`](../images/f17a6927-c7e2-4e86-8c98-c5fcba7f3140/10y2y.png)
+![10-Year Treasury Constant Maturity Minus 2-Year Treasury Constant Maturity](../../../../../corpus/01-brokers/fearnleys-md/images/f17a6927-c7e2-4e86-8c98-c5fcba7f3140/10y2y.png)
+*Chart: 10-Year Treasury Constant Maturity Minus 2-Year Treasury Constant Maturity*
+
+*Source: FRED*
 
 ## Recycling
 
-> **Chart 9: Demolition price (large tanker)**  
-> *Figure Asset:* [`demo price.png`](../images/ef867da7-1e29-485a-a5cd-146b1d9a8e4b/demo%20price.png)
+2025 is expected to see a larger pool of candidates vessels being considered for recycling, and we seem to have started the year where we ended 2024. One vessel has already been sold for recycling and we expect to see one or two go in the coming weeks. It is interesting to note that the recycling yards are also becoming very focused on the disposal of hazardous materials, which we are led to believe has created significant challenges to the seller of the tonnage. Levels seem to be holding slightly higher than what we are seeing reported from the cash buyers for the reference market of Wet, which have all fallen over the first two months of the year. The largest drop so far in 2025 seem to be in Turkey where the reported prices are down by almost 15%. At present, buyers are indicating delivery Indian sub-continent at around US$ 500/ldt, which is US$ 40-60/ldt higher due to their premium as LNG vessels. The big question will be when will the cash buyers start to create an LNG pricing index?
+
+**Bangladesh**  US$ 460/470
+
+**Pakistan**       US$ 455/465
+
+**India**            US$ 455/465
+
+**Turkey**         US$ 285/295
+
+![Demolition price (large tanker)](../../../../../corpus/01-brokers/fearnleys-md/images/ef867da7-1e29-485a-a5cd-146b1d9a8e4b/demo%20price.png)
+*Chart: Demolition price (large tanker)*
+
+*Source: Baltic Exchange*
 
 ## World fleet at a glance
 
-> **Chart 10: Live fleet by propulsion**  
-> *Figure Asset:* [`live by prop.png`](../images/ef867da7-1e29-485a-a5cd-146b1d9a8e4b/live%20by%20prop.png)
+![Live fleet by propulsion](../../../../../corpus/01-brokers/fearnleys-md/images/ef867da7-1e29-485a-a5cd-146b1d9a8e4b/live%20by%20prop.png)
+*Chart: Live fleet by propulsion*
 
-> **Chart 11: Total fleet**  
-> *Figure Asset:* [`fleet by status.png`](../images/ef867da7-1e29-485a-a5cd-146b1d9a8e4b/fleet%20by%20status.png)
+![Total fleet](../../../../../corpus/01-brokers/fearnleys-md/images/ef867da7-1e29-485a-a5cd-146b1d9a8e4b/fleet%20by%20status.png)
+*Chart: Total fleet*
 
-> **Chart 12: LNGC fleet by propulsion and delivery year**  
-> *Figure Asset:* [`by prop and delivery.png`](../images/ef867da7-1e29-485a-a5cd-146b1d9a8e4b/by%20prop%20and%20delivery.png)
+![LNGC fleet by propulsion and delivery year](../../../../../corpus/01-brokers/fearnleys-md/images/ef867da7-1e29-485a-a5cd-146b1d9a8e4b/by%20prop%20and%20delivery.png)
+*Chart: LNGC fleet by propulsion and delivery year*

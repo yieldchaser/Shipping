@@ -47,7 +47,6 @@ jobs:
           python scripts/fearnleys/daily_fearnleys_sync.py || true
           python scripts/acquire/cache_fearnleys_report_images.py --download-pdfs || true
           python scripts/extract/publishers/run_fearnleys_md_full_power.py || true
-          python scripts/extract/publishers/export_fearnleys_md_excel.py || true
           python scripts/fearnleys/build_fearnleys_cache.py
           python scripts/fearnleys/build_desk_caches.py
           python scripts/fearnleys/build_fixtures_tape.py

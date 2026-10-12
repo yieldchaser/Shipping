@@ -4,38 +4,70 @@
   "year": 2025,
   "department": "BULK",
   "report_title": "Fearnleys Dry Bulk Weekly",
-  "shipment_volume_metrics": [],
-  "coal_futures_spread_metrics": [],
-  "time_charter_vs_asset_metrics": [],
-  "vessel_tightness_metrics": [
-    {
-      "issue_date": "2025-01-22",
-      "year": "2025",
-      "department": "BULK",
-      "report_title": "Fearnleys Dry Bulk Weekly",
-      "chart_family": "PANAMAX KAMSARMAX BALLASTER LADEN VESSEL RATIO.png",
-      "indicator_metric": "Indicator Metric",
-      "indicator_val": 818.0,
-      "freight_benchmark": "Freight Benchmark",
-      "freight_benchmark_val": "",
-      "lead_tenor": "Concurrent",
-      "report_id": "f9a3c6cc-cb7e-44d5-9699-fac7b19961ef"
-    }
-  ],
-  "macro_correlation_metrics": [
-    {
-      "issue_date": "2025-01-22",
-      "year": "2025",
-      "department": "BULK",
-      "report_title": "Fearnleys Dry Bulk Weekly",
-      "macro_metric": "Copper 6M Change Lead vs Supramax 1Y TC 6M Change",
-      "freight_benchmark_val": -12.2,
-      "macro_indicator_val": 1.4,
-      "lead_tenor": "6 Months",
-      "chart_title": "COPPER PRICE VS SUPRAMAX 1 YEAR TC.png",
-      "report_id": "f9a3c6cc-cb7e-44d5-9699-fac7b19961ef"
-    }
-  ],
+  "source_markdown": "2025-01-22_fearnleys-dry-bulk-weekly-22nd-january-2025.md",
+  "tables": [],
+  "printed_image_tables": [],
   "charts_count": 12,
-  "source_markdown": "2025-01-22_fearnleys-dry-bulk-weekly-22nd-january-2025.md"
+  "charts": [
+    {
+      "section": "Capesize/Newcastlemax",
+      "title": "VLOCs Sailing to Brazil",
+      "image": "f9a3c6cc-cb7e-44d5-9699-fac7b19961ef/VLOC BRAZIL SAILING.png"
+    },
+    {
+      "section": "Capesize/Newcastlemax",
+      "title": "Cape/Newc Ballaster/Laden Vessel Ratio",
+      "image": "f9a3c6cc-cb7e-44d5-9699-fac7b19961ef/CAPENEWC BALLASTER LADEN VESSEL RATIO.png"
+    },
+    {
+      "section": "Capesize/Newcastlemax",
+      "title": "Iron Ore Price Lead vs BCI5TC",
+      "image": "d95499e3-a127-4d82-a1ca-f7afb680e61b/IRON ORE PRICE 3 MONTH LEAD VS BCI5TC.png"
+    },
+    {
+      "section": "Capesize/Newcastlemax",
+      "title": "China Imported Iron Ore Consumption Lead vs BCI5TC 1 Month Change",
+      "image": "d9672da5-5570-49f9-9f1a-a046193c34eb/CHINA IMPORTED IRON ORE CONSUMPTION LEAD VS CAPESIZE 1 MONTH CHANGE.png"
+    },
+    {
+      "section": "Panamax/Kamsarmax",
+      "title": "Panamax / Kamsarmax Market Seasonality",
+      "image": "f9a3c6cc-cb7e-44d5-9699-fac7b19961ef/PANAMAX KAMSARMAX SEASONAL AVERAGE.png"
+    },
+    {
+      "section": "Panamax/Kamsarmax",
+      "title": "Panamax/Kamsarmax Ballaster/Laden Vessel Ratio",
+      "image": "f9a3c6cc-cb7e-44d5-9699-fac7b19961ef/PANAMAX KAMSARMAX BALLASTER LADEN VESSEL RATIO.png"
+    },
+    {
+      "section": "Panamax/Kamsarmax",
+      "title": "Panamax / Kamsarmax Ballasting to Brazil or Argentina",
+      "image": "f9a3c6cc-cb7e-44d5-9699-fac7b19961ef/panamax kamsarmax heading to brazil or argentina.png"
+    },
+    {
+      "section": "Panamax/Kamsarmax",
+      "title": "Panamax / Kamsarmax Heading to China or India with Coal",
+      "image": "f9a3c6cc-cb7e-44d5-9699-fac7b19961ef/PANAMAX KAMSARMAX HEADING TO CHINA OR INDIA WITH COAL.png"
+    },
+    {
+      "section": "Supramax/Ultramax",
+      "title": "Supramax / Ultramax Heading to Brazil or Argentina",
+      "image": "f9a3c6cc-cb7e-44d5-9699-fac7b19961ef/SUPRAMAX ULTRAMAX HEADING TO BRAZIL OR ARGENTINA.png"
+    },
+    {
+      "section": "Supramax/Ultramax",
+      "title": "Supramax / Ultramax Laden to China or India With Coal",
+      "image": "f9a3c6cc-cb7e-44d5-9699-fac7b19961ef/SUPRAMAX ULTRAMAX LADEN WITH COAL HEADING TO CHINA OR INDIA.png"
+    },
+    {
+      "section": "Supramax/Ultramax",
+      "title": "Copper Price Lead vs Supramax 1 Year TC 6 Months Change",
+      "image": "f9a3c6cc-cb7e-44d5-9699-fac7b19961ef/COPPER PRICE VS SUPRAMAX 1 YEAR TC.png"
+    },
+    {
+      "section": "Supramax/Ultramax",
+      "title": "Supramax / Ultramax Seasonal Average",
+      "image": "f9a3c6cc-cb7e-44d5-9699-fac7b19961ef/SUPRAMAX ULTRAMAX SEASONAL AVERAGE.png"
+    }
+  ]
 }

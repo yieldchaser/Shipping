@@ -31,7 +31,7 @@
 | **Clarksons / Clarksons Hellas** | Weekly (Friday) | `2026-10-28` | 0d | **CURRENT (0d ago)** | 181 PDF | [`data/extracted/md/clarksons`](file:///c:/Users/Dell/Github/Shipping/data/extracted/md/clarksons) | No (Bulker & Tanker reported sales transaction tables) | `clarksons_sales_series.csv (1,375 rows)` |
 | **Fearnleys Weekly** | Weekly (Wednesday/Thursday) | `2026-10-08` | 3d | **CURRENT (3d ago)** | 265 PDF, 4,750 MD | [`data/extracted/md/fearnleys`](file:///c:/Users/Dell/Github/Shipping/data/extracted/md/fearnleys) | Yes (Tanker spot WS, Dry bulk BDI & TC, LPG/LNG) | `fearnleys_rates_series.csv (17,112 rows)` |
 | **Fearnleys Broker Voice (Hasura Desk Feeds)** | Weekly (Wednesday-Friday) | `2026-10-07` | 4d | **CURRENT (4d ago)** | 4,750 MD | [`data/extracted/md/fearnleys/voice`](file:///c:/Users/Dell/Github/Shipping/data/extracted/md/fearnleys/voice) | No (Dense narrative intelligence across 35 desks & routes) | `fearnleys_broker_comments.csv (11,750 comments), corpus/01-brokers/fearnleys/voice/ (11,750 files), data/extracted/md/fearnleys/voice/ (11,750 files)` |
-| **Fearnleys-MD (Econometric Research)** | Monthly / Bespoke (Bi-weekly) | `2026-10-07` | 4d | **CURRENT (4d ago)** | 182 PDF, 2,847 IMG, 186 MD | [`data/extracted/md/fearnleys-md`](file:///c:/Users/Dell/Github/Shipping/data/extracted/md/fearnleys-md) | Yes (Top 52 econometric recurring lead-indicator models) | `fearnleys_md_master_econometric_series.xlsx (6 sheets, 26 lead models)` |
+| **Fearnleys-MD (Econometric Research)** | Monthly / Bespoke (Bi-weekly) | `2026-10-07` | 4d | **CURRENT (4d ago)** | 182 PDF, 2,847 IMG, 186 MD | [`data/extracted/md/fearnleys-md`](file:///c:/Users/Dell/Github/Shipping/data/extracted/md/fearnleys-md) | No (raster PNG charts carry no data; chart titles and printed tables only) | `fearnleys-md .tables.json sidecars (56 exact API tables, 14 printed Cape composite-model tables, chart titles); earlier chart series quarantined in data/_quarantine/fearnleys_md/` |
 | **Gibson Shipbrokers** | Weekly (Friday) | `2026-10-09` | 2d | **CURRENT (2d ago)** | 109 PDF, 170 HTML | [`data/extracted/md/gibson`](file:///c:/Users/Dell/Github/Shipping/data/extracted/md/gibson) | Yes (wpDataCharts daily vector curves for all 155 HTML reports in .charts.json) | `gibson_tanker_spot_series.csv (3,630 rows)` |
 | **Intermodal Shipbrokers** | Weekly (Tuesday) | `2026-10-07` | 4d | **CURRENT (4d ago)** | 259 PDF | [`data/extracted/md/intermodal`](file:///c:/Users/Dell/Github/Shipping/data/extracted/md/intermodal) | Yes (Baltic & Time Charter vector curves, Page 3) | `intermodal_baltic_tc_series.csv (20,348 rows)` |
 | **ISM Coasters & Mini-Bulkers** | Weekly (Monday) | `2026-09-28` | 13d | **CURRENT (13d ago)** | 115 PDF | [`data/extracted/md/ism`](file:///c:/Users/Dell/Github/Shipping/data/extracted/md/ism) | Yes (4 weekly freight indicator vector charts) | `ism_handy_freight_series.csv (17,968 rows)` |
@@ -104,7 +104,7 @@ Drewry AIS reports are published across 10 specialized maritime vessel classes. 
 | :--- | :--- | :---: | :---: | :--- | :--- | :---: | :--- |
 | **SSY Simpson Spence Young** | Atlantic Capesize Index (ACI) & Pacific (PCI) | `530 reports` | PDF tabular | Atlantic & Pacific Capesize voyage rate indices & iron ore haul routes | `data/indices/ (display-linked)` | **Continuous weekly indices** | [`run_ssy_complete.py`](file:///c:/Users/Dell/Github/Shipping/scripts/extract/publishers/run_ssy_complete.py) |
 | **Fearnleys Weekly** | 6-Pillar Weekly Market Intelligence | `526 reports` | PDF structured | Crude/Product tankers, Dry Bulk, Gas, Newbuilding, S&P, Macro | `data/extracted/series/ (normalized rate cards)` | **526 issues cover-to-cover** | [`run_fearnleys_normalized.py`](file:///c:/Users/Dell/Github/Shipping/scripts/extract/publishers/run_fearnleys_normalized.py) |
-| **Fearnleys Econometric** | 26 Lead-Indicator Econometric Models | `26 models` | Vector charts / Excel | Copper vs Supramax, Coal curve vs P5, Iron Ore vs 5TC, S&P vs 1Y TC | `fearnleys_md_master_econometric_series.xlsx` | **233 rows** | [`export_fearnleys_md_excel.py`](file:///c:/Users/Dell/Github/Shipping/scripts/extract/publishers/export_fearnleys_md_excel.py) |
+| **Fearnleys Research Tables** | API data tables + printed Cape composite-model tables | `70 tables` | Markdown / JSON sidecars | Fleet deliveries/scrapping, Cape composite model buckets | `data/extracted/md/fearnleys-md/*.tables.json` | **56 API tables + 14 printed tables** | [`run_fearnleys_md_full_power.py`](file:///c:/Users/Dell/Github/Shipping/scripts/extract/publishers/run_fearnleys_md_full_power.py) |
 | **Poten & Partners** | Tanker Opinions & Top Charterers Series | `1,087 reports` | PDF full text | Narrative essays + 2005-2026 Top Dirty Spot Charterer annual volume rankings | `poten_top_charterers_series.csv` | **756 rows** | [`run_poten.py`](file:///c:/Users/Dell/Github/Shipping/scripts/extract/publishers/run_poten.py) |
 | **Seabrokers Seascope** | Offshore Support Vessels, Rigs & Subsea | `97 reports` | PDF monthly | North Sea OSV dayrates, rig utilization %, subsea & offshore wind | `seabrokers_osv_monthly_history_series.csv` | **6,280 rows** | [`run_seabrokers_llamaparse.py`](file:///c:/Users/Dell/Github/Shipping/scripts/extract/publishers/run_seabrokers_llamaparse.py) |
 | **Signal Ocean** | Weekly Monitors, Research & Live Fleet | `515 reports` | HTML / Telemetry | Dry & tanker weekly monitors, trade flows, live fleet positions & queues | `signal_reports_metadata.csv` | **449 rows** | [`run_signal.py`](file:///c:/Users/Dell/Github/Shipping/scripts/extract/publishers/run_signal.py) |
@@ -152,7 +152,7 @@ This table tracks sectors where the pipeline inspects and extracts numerical dat
 
 | Source Category | Image Count in Corpus | Image Types | Analytical Pipeline Applied | Extracted Data Output |
 | :--- | :---: | :--- | :--- | :--- |
-| **01-brokers/fearnleys-md** | 2,786 | 200 DPI vector PNG clips, JPG | Dynamic row-wise affine scale regression ($R^2 \ge 0.999$) | 26 econometric lead-indicator sheets in `fearnleys_md_master_econometric_series.xlsx` |
+| **01-brokers/fearnleys-md** | 2,786 | Raster PNG charts (no embedded data), JPG | Not read; titles kept, printed tables transcribed and verified | Chart titles in MDs and `.tables.json` sidecars; calibrated series quarantined |
 | **01-brokers/ism** | Vector stream | PDF internal vector polylines | Least-squares dual-axis scale calibration & tick filtering | 4 weekly freight rate series (`ism_handy_freight_series.csv`, `ism_coaster_freight_series.csv`) |
 | **01-brokers/intermodal** | Vector stream | Page 3 vector drawing paths | Polyline vertex extraction matching Baltic dry & TC curves | `intermodal_baltic_tc_series.csv` (20,348 rows) |
 | **01-brokers/star_asia** | Vector stream | Drawing paths & bar charts | Subcontinent scrap price trend calibration ($/LDT) | `star_asia_scrap_price_trends_series.csv` (347 rows) |
@@ -303,14 +303,14 @@ This table tracks sectors where the pipeline inspects and extracts numerical dat
 - **Coverage Span:** `2024-03-25` to `2026-10-07`
 - **Latest Ingested Document:** `2026-10-07_fearnleys-dry-bulk-weekly-7th-october-2026-28.pdf` (Status: **CURRENT (4d ago)**)
 - **Sample Ingested Report (Corpus):** [`2026-10-07_fearnleys-dry-bulk-weekly-7th-october-2026-28.md`](file:///c:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/2026/2026-10-07_fearnleys-dry-bulk-weekly-7th-october-2026-28.md)
-- **Sample Extracted Markdown (Digest):** [`INDEX.md`](file:///c:/Users/Dell/Github/Shipping/data/extracted/md/fearnleys-md/2026/INDEX.md)
+- **Sample Extracted Markdown (Digest):** [`2026-10-07_fearnleys-dry-bulk-weekly-7th-october-2026-28.md`](file:///c:/Users/Dell/Github/Shipping/data/extracted/md/fearnleys-md/2026/2026-10-07_fearnleys-dry-bulk-weekly-7th-october-2026-28.md)
 - **Raw Corpus Inventory:** 182 PDFs, 2,847 Images, 186 Native Markdown files
 - **Extracted Markdown Dossiers:** 185 Markdown files + 184 .tables.json sidecars
-- **Chart Extraction:** Yes (Top 52 econometric recurring lead-indicator models)
-- **Chart Engine / Technique:** Proprietary Dynamic Affine Calibration Engine (R^2 >= 0.999)
-- **Stacked Series CSVs:** [`fearnleys_md_master_econometric_series.xlsx`](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/fearnleys_md_master_econometric_series.xlsx) (6 sheets, 26 lead models), [`fearnleys_md_vessel_tightness_series.csv`](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/fearnleys_md_vessel_tightness_series.csv) (115 rows), [`fearnleys_md_macro_correlations_series.csv`](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/fearnleys_md_macro_correlations_series.csv) (78 rows), [`fearnleys_md_coal_futures_spread_series.csv`](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/fearnleys_md_coal_futures_spread_series.csv) (48 rows), [`fearnleys_md_shipment_volumes_series.csv`](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/fearnleys_md_shipment_volumes_series.csv) (43 rows)
+- **Chart Extraction:** No (raster PNG charts carry no data; chart titles and printed tables only)
+- **Chart Engine / Technique:** API content-block renderer (fearnleys_md_rebuild.py); chart values are not read
+- **Stacked Series CSVs:** fearnleys-md .tables.json sidecars (56 exact API tables, 14 printed Cape composite-model tables, chart titles); earlier chart series quarantined in data/_quarantine/fearnleys_md/
 - **Extraction Script:** [`run_fearnleys_md_full_power.py`](file:///c:/Users/Dell/Github/Shipping/scripts/extract/publishers/run_fearnleys_md_full_power.py)
-- **Notes & Rules Applied:** 2,827 high-res vector charts extracted and calibrated. First/last pages discarded per rule.
+- **Notes & Rules Applied:** Charts are raster PNGs kept as images with their titles; the earlier calibrated chart series were wrong and are quarantined.
 
 ### Gibson Shipbrokers
 - **Corpus Directory (Raw Source):** [`corpus/01-brokers/gibson`](file:///c:/Users/Dell/Github/Shipping/corpus/01-brokers/gibson)
@@ -801,7 +801,7 @@ This section documents the methodological transition from legacy ingestion routi
 | **Vector Drawings** | Treated as raw text noise (dumping 100+ lines of tick labels like `0.0 0.2 0.4...`), or ignored entirely. | 5-stage vector extraction engine: plot frame detection, affine scale calibration, polyline filtering, RGB legend matching, consensus validation. |
 | **Coordinate Calibration** | Axis bounds unmapped; values could not be derived from graphics. | Dynamic linear affine calibration (`y_val = slope * y_pixel + intercept`) yielding R² >= 0.999 precision. |
 | **Visual Output** | Untracked or missing. | 2,827 high-resolution 200 DPI PNG chart crops stored under `data/extracted/charts/<publisher>/` with JSON calibration sidecars. |
-| **Series Integration** | Charts isolated from numerical time series. | 26 recurring econometric lead-indicator models compiled into `data/extracted/series/fearnleys_md_master_econometric_series.xlsx`. |
+| **Series Integration** | Charts isolated from numerical time series. | No series are read off the raster charts; the earlier fearnleys_md calibrated series were wrong and are quarantined in `data/_quarantine/fearnleys_md/`. |
 
 ### 8.3 Reference Literature & Academic Textbooks (12 Books)
 
@@ -855,7 +855,7 @@ The repository is transitioning from a traditional relational/tabular archive to
 
 ### 10.2 Specialized Runner Execution (Deep Extraction & Quality Audits)
 - **High-Fidelity Publisher Table Extraction:** Running specialized publisher scripts (`run_clarksons.py`, `run_lion_tables.py`, `format_agora_properly.py`, `run_advanced_shipping_tables.py`, `run_affinity_tables.py`, `run_gms_demolition.py`, `run_best_oasis_demolition.py`).
-- **Vector Chart Affine Calibration:** `run_fearnleys_md_full_power.py` and `export_fearnleys_md_excel.py` (2,827 chart crops, 26 econometric models).
+- **Fearnleys-md:** `fearnleys_md_rebuild.py` renders every API content block; chart values are not read (raster images, no embedded data).
 - **LlamaParse API Routing:** Targeted and cover-to-cover parsing for ciphered or complex multi-column documents (`run_banchero_llamaparse.py`, `run_intermodal_full.py`, `run_star_asia_tables.py`, `run_xclusiv_full_cover_to_cover.py`).
 - **Reference Book Normalization:** Auditing and normalizing the 12 foundational books against rendered PDF pages.
 

@@ -4,24 +4,55 @@
   "year": 2025,
   "department": "BULK",
   "report_title": "Fearnleys Dry Bulk Weekly",
-  "shipment_volume_metrics": [],
-  "coal_futures_spread_metrics": [],
-  "time_charter_vs_asset_metrics": [],
-  "vessel_tightness_metrics": [],
-  "macro_correlation_metrics": [
-    {
-      "issue_date": "2025-03-05",
-      "year": "2025",
-      "department": "BULK",
-      "report_title": "Fearnleys Dry Bulk Weekly",
-      "macro_metric": "Iron Ore Price 3M Lead vs BCI5TC",
-      "freight_benchmark_val": 15563.4,
-      "macro_indicator_val": 97.4,
-      "lead_tenor": "3 Months",
-      "chart_title": "IRON ORE PRICE 3 MONTH LEAD VS BCI5TC.png",
-      "report_id": "879763e2-3118-4a64-9f23-7362da6e1abd"
-    }
-  ],
+  "source_markdown": "2025-03-05_fearnleys-dry-bulk-weekly-5th-march-2025-1.md",
+  "tables": [],
+  "printed_image_tables": [],
   "charts_count": 9,
-  "source_markdown": "2025-03-05_fearnleys-dry-bulk-weekly-5th-march-2025-1.md"
+  "charts": [
+    {
+      "section": "Capesize/Newcastlemax",
+      "title": "Laden Capesize/Newcastlemax, by Year",
+      "image": "879763e2-3118-4a64-9f23-7362da6e1abd/LADEN CAPES NEWCS.png"
+    },
+    {
+      "section": "Capesize/Newcastlemax",
+      "title": "VLOCs Waiting to Load in Brazil",
+      "image": "879763e2-3118-4a64-9f23-7362da6e1abd/VLOC BRAZIL CONGESTION.png"
+    },
+    {
+      "section": "Capesize/Newcastlemax",
+      "title": "Iron Ore Price, 3 Months Lead vs BCI5TC",
+      "image": "879763e2-3118-4a64-9f23-7362da6e1abd/IRON ORE PRICE 3 MONTH LEAD VS BCI5TC.png"
+    },
+    {
+      "section": "Panamax/Kamsarmax",
+      "title": "Panamax / Kamsarmax Ballasting to Brazil or Argentina",
+      "image": "879763e2-3118-4a64-9f23-7362da6e1abd/panamax kamsarmax heading to brazil or argentina.png"
+    },
+    {
+      "section": "Panamax/Kamsarmax",
+      "title": "Panamax / Kamsarmax Laden With Coal to China or India",
+      "image": "879763e2-3118-4a64-9f23-7362da6e1abd/PANAMAX KAMSARMAX HEADING TO CHINA OR INDIA WITH COAL.png"
+    },
+    {
+      "section": "Panamax/Kamsarmax",
+      "title": "Kamsarmax Market Seasonality",
+      "image": "879763e2-3118-4a64-9f23-7362da6e1abd/PANAMAX KAMSARMAX SEASONAL AVERAGE.png"
+    },
+    {
+      "section": "Supramax/Ultramax",
+      "title": "Copper Price Lead vs Supramax 1 Year TC 6 Months Change",
+      "image": "65e5827f-dd43-4826-b14b-8aa5dcc77d7c/COPPER PRICE VS SUPRAMAX 1 YEAR TC.png"
+    },
+    {
+      "section": "Supramax/Ultramax",
+      "title": "Supramax / Ultramax Market Seasonality",
+      "image": "879763e2-3118-4a64-9f23-7362da6e1abd/SUPRAMAX SEASONALITY.png"
+    },
+    {
+      "section": "Supramax/Ultramax",
+      "title": "Laden Supramax/Ultramax Vessels, and Year on Year Change",
+      "image": "879763e2-3118-4a64-9f23-7362da6e1abd/LADEN SUPRAMAX ULTRAMAX.png"
+    }
+  ]
 }

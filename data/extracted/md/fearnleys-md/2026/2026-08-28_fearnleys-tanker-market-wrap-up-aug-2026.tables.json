@@ -4,11 +4,160 @@
   "year": 2026,
   "department": "TANK",
   "report_title": "Fearnleys Tanker Market Wrap-up Aug 2026",
-  "shipment_volume_metrics": [],
-  "coal_futures_spread_metrics": [],
-  "time_charter_vs_asset_metrics": [],
-  "vessel_tightness_metrics": [],
-  "macro_correlation_metrics": [],
-  "charts_count": 24,
-  "source_markdown": "2026-08-28_fearnleys-tanker-market-wrap-up-aug-2026.md"
+  "source_markdown": "2026-08-28_fearnleys-tanker-market-wrap-up-aug-2026.md",
+  "tables": [],
+  "printed_image_tables": [],
+  "charts_count": 30,
+  "charts": [
+    {
+      "section": "Summary and outlook",
+      "title": "Monthly rates by segment",
+      "image": "1ca6a25b-38c8-4506-9dd2-c63eb612c016/RATES.png"
+    },
+    {
+      "section": "Three main scenarios",
+      "title": "Resolution",
+      "image": "1ca6a25b-38c8-4506-9dd2-c63eb612c016/Resolution.jpg"
+    },
+    {
+      "section": "Three main scenarios",
+      "title": "Paradoxical equilibrium",
+      "image": "1ca6a25b-38c8-4506-9dd2-c63eb612c016/Paradox.jpg"
+    },
+    {
+      "section": "Three main scenarios",
+      "title": "Economic meltdown",
+      "image": "1ca6a25b-38c8-4506-9dd2-c63eb612c016/Meltdown.jpg"
+    },
+    {
+      "section": "It all came together again",
+      "title": "Seaborne crude departures by region - vs. Dec'25 baseline",
+      "image": "1ca6a25b-38c8-4506-9dd2-c63eb612c016/loadcrude.png"
+    },
+    {
+      "section": "It all came together again",
+      "title": "Seaborne CPP departures by region - vs. Dec'25 baseline",
+      "image": "1ca6a25b-38c8-4506-9dd2-c63eb612c016/loadcpp.png"
+    },
+    {
+      "section": "It all came together again",
+      "title": "Total tanker tonne-day demand (+2% YTD)",
+      "image": "1ca6a25b-38c8-4506-9dd2-c63eb612c016/TTT.png"
+    },
+    {
+      "section": "It all came together again",
+      "title": "Crude tanker tonne-day demand (+6% YTD)",
+      "image": "1ca6a25b-38c8-4506-9dd2-c63eb612c016/TTC.png"
+    },
+    {
+      "section": "It all came together again",
+      "title": "Product tanker tonne-day demand (-2% YTD)",
+      "image": "1ca6a25b-38c8-4506-9dd2-c63eb612c016/TTP.png"
+    },
+    {
+      "section": "It all came together again",
+      "title": "VLCC tonne-day demand (-2% YTD)",
+      "image": "1ca6a25b-38c8-4506-9dd2-c63eb612c016/TTV.png"
+    },
+    {
+      "section": "It all came together again",
+      "title": "Suezmax tonne-day demand (+7% YTD)",
+      "image": "1ca6a25b-38c8-4506-9dd2-c63eb612c016/TTS.png"
+    },
+    {
+      "section": "It all came together again",
+      "title": "Afra/LR2 tonne-day demand (+4% YTD)",
+      "image": "1ca6a25b-38c8-4506-9dd2-c63eb612c016/TTA.png"
+    },
+    {
+      "section": "It all came together again",
+      "title": "MR tonne-day demand (+5% YTD)",
+      "image": "1ca6a25b-38c8-4506-9dd2-c63eb612c016/TTM.png"
+    },
+    {
+      "section": "It all came together again",
+      "title": "Relative oil pricing - USG-East arb. back open",
+      "image": "1ca6a25b-38c8-4506-9dd2-c63eb612c016/arb.png"
+    },
+    {
+      "section": "It all came together again",
+      "title": "Dubai (inside) vs. Murban (outside)",
+      "image": "1ca6a25b-38c8-4506-9dd2-c63eb612c016/rel.png"
+    },
+    {
+      "section": "It all came together again",
+      "title": "Share of LR2s trading dirty",
+      "image": "1ca6a25b-38c8-4506-9dd2-c63eb612c016/LR dirty.png"
+    },
+    {
+      "section": "It all came together again",
+      "title": "Atlantic MR rates vs. NWE gasoil cracks",
+      "image": "1ca6a25b-38c8-4506-9dd2-c63eb612c016/mrcrack.png"
+    },
+    {
+      "section": "Oil market in some sort of balance",
+      "title": "Global onshore crude oil inventories",
+      "image": "1ca6a25b-38c8-4506-9dd2-c63eb612c016/invglob.png"
+    },
+    {
+      "section": "Oil market in some sort of balance",
+      "title": "China onshore crude oil inventories",
+      "image": "1ca6a25b-38c8-4506-9dd2-c63eb612c016/invch.png"
+    },
+    {
+      "section": "Oil market in some sort of balance",
+      "title": "Crude oil on the water",
+      "image": "1ca6a25b-38c8-4506-9dd2-c63eb612c016/oow.png"
+    },
+    {
+      "section": "Oil market in some sort of balance",
+      "title": "Global refinery runs",
+      "image": "1ca6a25b-38c8-4506-9dd2-c63eb612c016/runs.png"
+    },
+    {
+      "section": "Oil market in some sort of balance",
+      "title": "Northwest Europe crack spreads",
+      "image": "1ca6a25b-38c8-4506-9dd2-c63eb612c016/crackeu.png"
+    },
+    {
+      "section": "Oil market in some sort of balance",
+      "title": "U.S. Gulf Coast crack spreads",
+      "image": "1ca6a25b-38c8-4506-9dd2-c63eb612c016/crackus.png"
+    },
+    {
+      "section": "Oil market in some sort of balance",
+      "title": "Bohai Bay crack spreads",
+      "image": "1ca6a25b-38c8-4506-9dd2-c63eb612c016/crackch.png"
+    },
+    {
+      "section": "Some extra fleet growth - but also some potential for further tightness",
+      "title": "Annual tanker deliveries",
+      "image": "1ca6a25b-38c8-4506-9dd2-c63eb612c016/fleet.png"
+    },
+    {
+      "section": "Some extra fleet growth - but also some potential for further tightness",
+      "title": "VLCC fleet composition, by controlling entity",
+      "image": "1ca6a25b-38c8-4506-9dd2-c63eb612c016/vl.png"
+    },
+    {
+      "section": "Some extra fleet growth - but also some potential for further tightness",
+      "title": "VLCC ballasters Atlantic +23 and  Pacific +12 vs. Jan/Feb",
+      "image": "1ca6a25b-38c8-4506-9dd2-c63eb612c016/Balv.png"
+    },
+    {
+      "section": "Some extra fleet growth - but also some potential for further tightness",
+      "title": "Suez ballasters Atlantic +26 and Pacific +7 vs. Jan/Feb",
+      "image": "1ca6a25b-38c8-4506-9dd2-c63eb612c016/bals.png"
+    },
+    {
+      "section": "Some extra fleet growth - but also some potential for further tightness",
+      "title": "Afra/LR2 ballasters Atlantic +51 and Pacific -5 vs. Jan/Feb",
+      "image": "1ca6a25b-38c8-4506-9dd2-c63eb612c016/bala.png"
+    },
+    {
+      "section": "Some extra fleet growth - but also some potential for further tightness",
+      "title": "MR ballasters Atlantic +80 and Pacific -5 vs. Jan/Feb",
+      "image": "1ca6a25b-38c8-4506-9dd2-c63eb612c016/balm.png"
+    }
+  ]
 }

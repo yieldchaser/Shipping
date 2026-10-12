@@ -19,75 +19,77 @@ pdf_url: "https://pbrkapp.blob.core.windows.net/report/8325cf1a-b24a-4243-bf8a-0
 
 ## Summary
 
-To say that the shipping market is on a recovering path may be premature, but rates have seen a steady upwards - albeit bumpy - trend through the quarter. It is the first time since 2016 (excluding the market disruption in 2022 caused by the Russia/Ukraine conflict) that rates in Q2 have been higher than in Q1. However, that is more a testament as to how depressed Q1 really was. Moving into Q2, steady spot activityarose from a growth in LNG demand in the Atlantic/Mediterranean (Argentina, Egypt), tonnage being pulled from the spot market in advance of project startups (Canada LNG), the long-awaited commercial production from following Calcasieu Pass and Plaquemines towards end of Q1, and buyers reacting to a higher level of geopolitical uncertainty all combine to a slightly more optimistic near-term sentiment. That said, the fundamentals remain challenging and a reminder that freight should remain attractive for the coming year(s). Newbuild deliveries continues and based on the mismatching of pending start-ups and delivery schedules, we should not be surprised to see an erratic freight market through the next 12 months.
+To say that the shipping market is on a recovering path may be premature, but rates have seen a steady upwards – albeit bumpy - trend through the quarter. It is the first time since 2016 (excluding the market disruption in 2022 caused by the Russia/Ukraine conflict) that rates in Q2 have been higher than in Q1. However, that is more a testament as to how depressed Q1 really was. Moving into Q2, steady spot activityarose from a growth in LNG demand in the Atlantic/Mediterranean (Argentina, Egypt), tonnage being pulled from the spot market in advance of project startups (Canada LNG), the long-awaited commercial production from following Calcasieu Pass and Plaquemines towards end of Q1, and buyers reacting to a higher level of geopolitical uncertainty all combine to a slightly more optimistic near-term sentiment. That said, the fundamentals remain challenging and a reminder that freight should remain attractive for the coming year(s). Newbuild deliveries continues and based on the mismatching of pending start-ups and delivery schedules, we should not be surprised to see an erratic freight market through the next 12 months.
 
 LNG prices in Europe and Asia largely traded in tandem throughout the quarter together with uncle crude, fluctuating between US$ 10-15/MMBtu. Initially dropping as crude fell on news of excess OPEC supply, there was a sharp turnaround on the geopolitical uncertainty erupting as the Israel-Iran conflict escalated. With no major regional events impacting product pricing, the arbitrage has been largely shut during the quarter. It is peculiar though that refilling of European gas storage is only at 58.9% as of 30th June; some 10% below the 5-year average and 18% below the 2024-level at the same time. Add to the mix a desire by the EU to phase out Russian LNG (which continues to flow into European countries), we should be in for an interesting second half of 2025.
 
 The spot market has continued to see high activity, with the second consecutive quarter seeing 100+ spot fixtures (<90 days) concluded. While it keeps Owners, Charterers and brokers alike busy, it also highlights how the growth in volumes and ships on the water will drive the market to more short-term business activity. Another relevant observation during Q2 was the steep increase in short-term (<3 years) fixtures concluded by Owners as opposed to sublets, at 39% compared to Q1 at 26%. This suggests that Charterers are redelivering vessels as opposed to declaring what are likely out-of-the-money options.
 
-We count 17 vessels delivered during the quarter, on par with the 16 delivered in Q1…leaving another 66 to go for the year according to our orderbook (of which nine are for Arctic LNG-2). To put that in context, it would imply an LNG carrier delivering every three days for the remainder of the year. Realistically, we do expect slippage of 2025-tonnage into 2026, with the driver being Owners delaying delivery to match better against delivery to charterers/projects. Although shipyards have been busy delivering ships, the new orders have been sparse with five vessels reported ordered during the quarter - taking the YTD tally to only eight. On the recycling side, four vessels were sold for their final voyage and the average age of vessels scrapped in 2025 is just shy of 25 years. There is no shortage of older vessels being circulated for sale, but with real/qualified buyers scarce on the ground we maintain the view that scrapping will become increasingly relevant for Owners with steam turbine tonnage coming off long-term charters, as prompt business for these ladies to continue trading is minimal. The fleet now stands at 718 vessels with 25 in layup and 298 still in the orderbooks. We note that our layup count has increased by seven over the course of the second quarter and expect this trend to continue - coinciding with our view on scrapping activity.
+We count 17 vessels delivered during the quarter, on par with the 16 delivered in Q1…leaving another 66 to go for the year according to our orderbook (of which nine are for Arctic LNG-2). To put that in context, it would imply an LNG carrier delivering every three days for the remainder of the year. Realistically, we do expect slippage of 2025-tonnage into 2026, with the driver being Owners delaying delivery to match better against delivery to charterers/projects. Although shipyards have been busy delivering ships, the new orders have been sparse with five vessels reported ordered during the quarter – taking the YTD tally to only eight. On the recycling side, four vessels were sold for their final voyage and the average age of vessels scrapped in 2025 is just shy of 25 years. There is no shortage of older vessels being circulated for sale, but with real/qualified buyers scarce on the ground we maintain the view that scrapping will become increasingly relevant for Owners with steam turbine tonnage coming off long-term charters, as prompt business for these ladies to continue trading is minimal. The fleet now stands at 718 vessels with 25 in layup and 298 still in the orderbooks. We note that our layup count has increased by seven over the course of the second quarter and expect this trend to continue – coinciding with our view on scrapping activity.
 
-Despite the uncertainty created around US LNG export projects from an overzealous USTR, there were three FIDs during the quarter - two in the US breaking the drought: Woodside with Louisiana LNG (16.5mtpa with first LNG in 2029) and Cheniere announcing T8-9 at Corpus Christi (3mtpa with first LNG in 2028), which also includes debottlenecking on back of three firm offtake agreements. Golar also announced FID on their 2.4mtpa Hilli FLNG unit to Argentina starting 2027.
+Despite the uncertainty created around US LNG export projects from an overzealous USTR, there were three FIDs during the quarter – two in the US breaking the drought: Woodside with Louisiana LNG (16.5mtpa with first LNG in 2029) and Cheniere announcing T8-9 at Corpus Christi (3mtpa with first LNG in 2028), which also includes debottlenecking on back of three firm offtake agreements. Golar also announced FID on their 2.4mtpa Hilli FLNG unit to Argentina starting 2027.
 
-> **Chart 1: Spot charter rates and JKM**  
-> *Figure Asset:* [`Spot+JKM.jpg`](../images/8325cf1a-b24a-4243-bf8a-0baf96ef331e/Spot%2BJKM.jpg)
+![Spot charter rates and JKM](../../../../../corpus/01-brokers/fearnleys-md/images/8325cf1a-b24a-4243-bf8a-0baf96ef331e/Spot%2BJKM.jpg)
+*Chart: Spot charter rates and JKM*
+
+*Source: S&P Global Platts (JKM)*
 
 ## Charter Rates
 
 The average spot rate for a two-stroke in Q2 came in at US$ 30k/day; down 47% compared to Q2 2024. Rates hit a low of around US$ 20k/day in late-April before staging a comeback heading into July at US$ 46k/day. A clear premium on West developed over the quarter, reversing the marginal premium seen in the East during Q1and for much of 2024. Two-stroke tonnage in the West averaged US$ 34k/day vs US$ 25k/day in East. We are back to a level where Owners are not just covering OPEX (Q1 2025 average was US$17k), but there remains little left for contributions to equity. Although the fundamentals suggest a tough market ahead for Owners, we highlight the price sensitivity to end-users and the uncertainty of trade flows into H2 2025 potentially pointing to some risk to the upside on rates.
 
-While it is rough sailing to be an owner of a two-stroke, its even rougher for those with TFDES as Q2 2025 average came in at US$ 16k/day - essentially covering OPEX. For steam turbines the reported average was US$ 3k/day, if managing to secure employment.
+While it is rough sailing to be an owner of a two-stroke, its even rougher for those with TFDES as Q2 2025 average came in at US$ 16k/day – essentially covering OPEX. For steam turbines the reported average was US$ 3k/day, if managing to secure employment.
 
 We see an increasing divergence between two-strokes and TFDE/DFDE/STs where Charterers have ample modern, fuel-efficient tonnage to chose from, and older propulsion types regularly get cut out of the equation in tenders. The frustration amongst Owners of TFDE/DFDE/ST is fully understandable and acknowledged, but sometimes a stop-loss can be a way to avoid the risk of long-term pain.
 
 In the term market, 1-year deals for two-strokes are currently fixed in the US$ high-40s/day, up from US$ mid-30s/day at end of Q1. Liquidity in Q2 was predominantly centered around short-term (<90 days), as the bid-offer spread is a little wide for 3-yrs and 5-yrs. An interesting perspective here though is the implied curve, suggesting years 2 and 3 at around US$ high-60ss/day and years 4 and 5 at around US$ mid-80s/day. Hence, doing a 5-yr deal today taking us into mid-2030 should be an attractive position for Charterers. The flipside of that is Owners potentially looking to take some short-term pain over giving away upside and optionality in the medium-term.
 
-> **Chart 2: Two-stroke spot charter rates (East/West)**  
-> *Figure Asset:* [`2ST_East&West.jpg`](../images/8325cf1a-b24a-4243-bf8a-0baf96ef331e/2ST_East%26West.jpg)
+![Two-stroke spot charter rates (East/West)](../../../../../corpus/01-brokers/fearnleys-md/images/8325cf1a-b24a-4243-bf8a-0baf96ef331e/2ST_East%26West.jpg)
+*Chart: Two-stroke spot charter rates (East/West)*
 
-> **Chart 3: Average spot charter rates**  
-> *Figure Asset:* [`All_sizes_Spot_Avg.jpg`](../images/8325cf1a-b24a-4243-bf8a-0baf96ef331e/All_sizes_Spot_Avg.jpg)
+![Average spot charter rates](../../../../../corpus/01-brokers/fearnleys-md/images/8325cf1a-b24a-4243-bf8a-0baf96ef331e/All_sizes_Spot_Avg.jpg)
+*Chart: Average spot charter rates*
 
-> **Chart 4: 1-year charter rates**  
-> *Figure Asset:* [`1_YR_All_Sizes.jpg`](../images/8325cf1a-b24a-4243-bf8a-0baf96ef331e/1_YR_All_Sizes.jpg)
+![1-year charter rates](../../../../../corpus/01-brokers/fearnleys-md/images/8325cf1a-b24a-4243-bf8a-0baf96ef331e/1_YR_All_Sizes.jpg)
+*Chart: 1-year charter rates*
 
-> **Chart 5: Term charter rates (two-stroke)**  
-> *Figure Asset:* [`2ST_LT.jpg`](../images/8325cf1a-b24a-4243-bf8a-0baf96ef331e/2ST_LT.jpg)
+![Term charter rates (two-stroke)](../../../../../corpus/01-brokers/fearnleys-md/images/8325cf1a-b24a-4243-bf8a-0baf96ef331e/2ST_LT.jpg)
+*Chart: Term charter rates (two-stroke)*
 
-> **Chart 6: Prompt LNGC availability**  
-> *Figure Asset:* [`AVAILABILITY.jpg`](../images/8325cf1a-b24a-4243-bf8a-0baf96ef331e/AVAILABILITY.jpg)
+![Prompt LNGC availability](../../../../../corpus/01-brokers/fearnleys-md/images/8325cf1a-b24a-4243-bf8a-0baf96ef331e/AVAILABILITY.jpg)
+*Chart: Prompt LNGC availability*
 
-> **Chart 7: Quarterly spot charter rates (two-stroke)**  
-> *Figure Asset:* [`2ST_QTR.jpg`](../images/8325cf1a-b24a-4243-bf8a-0baf96ef331e/2ST_QTR.jpg)
+![Quarterly spot charter rates (two-stroke)](../../../../../corpus/01-brokers/fearnleys-md/images/8325cf1a-b24a-4243-bf8a-0baf96ef331e/2ST_QTR.jpg)
+*Chart: Quarterly spot charter rates (two-stroke)*
 
-> **Chart 8: Monthly spot charter rates (two-stroke)**  
-> *Figure Asset:* [`2ST_MTHLY.jpg`](../images/8325cf1a-b24a-4243-bf8a-0baf96ef331e/2ST_MTHLY.jpg)
+![Monthly spot charter rates (two-stroke)](../../../../../corpus/01-brokers/fearnleys-md/images/8325cf1a-b24a-4243-bf8a-0baf96ef331e/2ST_MTHLY.jpg)
+*Chart: Monthly spot charter rates (two-stroke)*
 
-> **Chart 9: Quarterly spot charter rates (TFDE)**  
-> *Figure Asset:* [`TFDE_QTR.jpg`](../images/8325cf1a-b24a-4243-bf8a-0baf96ef331e/TFDE_QTR.jpg)
+![Quarterly spot charter rates (TFDE)](../../../../../corpus/01-brokers/fearnleys-md/images/8325cf1a-b24a-4243-bf8a-0baf96ef331e/TFDE_QTR.jpg)
+*Chart: Quarterly spot charter rates (TFDE)*
 
-> **Chart 10: Monthly spot charter rates (TFDE)**  
-> *Figure Asset:* [`TFDE_MTHLY.jpg`](../images/8325cf1a-b24a-4243-bf8a-0baf96ef331e/TFDE_MTHLY.jpg)
+![Monthly spot charter rates (TFDE)](../../../../../corpus/01-brokers/fearnleys-md/images/8325cf1a-b24a-4243-bf8a-0baf96ef331e/TFDE_MTHLY.jpg)
+*Chart: Monthly spot charter rates (TFDE)*
 
 ## Chartering Activity
 
 The quarterly number of spot fixtures was close to the all-time high (on record) with 106 short-term fixtures concluded. This is marginally below the 118 recorded in Q1. Looking at days fixed on spot, the average duration is flat Q-o-Q at around 21 days, which is still up on the average duration of <90-day charters for the past two years.
 
-On multi-month, we recorded 15 fixtures in Q2 with the average duration being just short of 6 months - suggesting Owners may be more interested in having the vessel back ahead of the winter period. For up-to-3yr deals the quarter was weak at only 5 fixtures identified, albeit for longer periods (around 1.5 yrs on average) compared to what was done in Q1 and throughout 2024.
+On multi-month, we recorded 15 fixtures in Q2 with the average duration being just short of 6 months – suggesting Owners may be more interested in having the vessel back ahead of the winter period. For up-to-3yr deals the quarter was weak at only 5 fixtures identified, albeit for longer periods (around 1.5 yrs on average) compared to what was done in Q1 and throughout 2024.
 
 We are seeing more Charterers looking for longer term deals, potentially as their high-priced charters done a few years back are coming to an end, and they are incentivized to redeliver rather than declaring out-of-the-money options. There is also an increase in tender activity which we expect to materialize in H2 2025 and result in medium-/long-term charters.
 
-> **Chart 11: Short-term fixture activity (< 3 years)**  
-> *Figure Asset:* [`ST_FIX_WIDE.jpg`](../images/8325cf1a-b24a-4243-bf8a-0baf96ef331e/ST_FIX_WIDE.jpg)
+![Short-term fixture activity (< 3 years)](../../../../../corpus/01-brokers/fearnleys-md/images/8325cf1a-b24a-4243-bf8a-0baf96ef331e/ST_FIX_WIDE.jpg)
+*Chart: Short-term fixture activity (< 3 years)*
 
-> **Chart 12: Short term fixtures by sublet vs independent owners**  
-> *Figure Asset:* [`INDEP_SUBLET_2.jpg`](../images/8325cf1a-b24a-4243-bf8a-0baf96ef331e/INDEP_SUBLET_2.jpg)
+![Short term fixtures by sublet vs independent owners](../../../../../corpus/01-brokers/fearnleys-md/images/8325cf1a-b24a-4243-bf8a-0baf96ef331e/INDEP_SUBLET_2.jpg)
+*Chart: Short term fixtures by sublet vs independent owners*
 
-> **Chart 13: Short-term fixtures Q2 (count)**  
-> *Figure Asset:* [`ST_FIX_QTR_COUNT.jpg`](../images/8325cf1a-b24a-4243-bf8a-0baf96ef331e/ST_FIX_QTR_COUNT.jpg)
+![Short-term fixtures Q2 (count)](../../../../../corpus/01-brokers/fearnleys-md/images/8325cf1a-b24a-4243-bf8a-0baf96ef331e/ST_FIX_QTR_COUNT.jpg)
+*Chart: Short-term fixtures Q2 (count)*
 
-> **Chart 14: Short-term fixtures Q2 (fixed days)**  
-> *Figure Asset:* [`ST_FIX_QTR_DAYS.jpg`](../images/8325cf1a-b24a-4243-bf8a-0baf96ef331e/ST_FIX_QTR_DAYS.jpg)
+![Short-term fixtures Q2 (fixed days)](../../../../../corpus/01-brokers/fearnleys-md/images/8325cf1a-b24a-4243-bf8a-0baf96ef331e/ST_FIX_QTR_DAYS.jpg)
+*Chart: Short-term fixtures Q2 (fixed days)*
 
 ## Trade Flows
 
@@ -99,69 +101,81 @@ In terms of trade flows, more US LNG is heading towards Asia, with 18% of US vol
 
 It is becoming increasingly clear that two-strokes are favored for the long-hauls as 65% (51% in Q2 2024) of all Atlantic loadings go onboard the MEGI/MEGA/XDF-fleet. TFDEs account for 20% (27% in Q2 2024) while STs take the remaining 15% (22% in Q2 2024). The Y-o-Y development highlights both how the influx of new vessels and unit freight cost displaces less efficient tonnage.
 
-> **Chart 15: EU storage levels**  
-> *Figure Asset:* [`EU_STORAGE3.jpg`](../images/8325cf1a-b24a-4243-bf8a-0baf96ef331e/EU_STORAGE3.jpg)
+![EU storage levels](../../../../../corpus/01-brokers/fearnleys-md/images/8325cf1a-b24a-4243-bf8a-0baf96ef331e/EU_STORAGE3.jpg)
+*Chart: EU storage levels*
 
-> **Chart 16: Loaded LNG**  
-> *Figure Asset:* [`LOADED.jpg`](../images/8325cf1a-b24a-4243-bf8a-0baf96ef331e/LOADED.jpg)
+*Source: AGSI*
 
-> **Chart 17: Q2 imports by region**  
-> *Figure Asset:* [`LOADED_BY_DEMAND_REGION.jpg`](../images/8325cf1a-b24a-4243-bf8a-0baf96ef331e/LOADED_BY_DEMAND_REGION.jpg)
+![Loaded LNG](../../../../../corpus/01-brokers/fearnleys-md/images/8325cf1a-b24a-4243-bf8a-0baf96ef331e/LOADED.jpg)
+*Chart: Loaded LNG*
 
-> **Chart 18: Destination of US LNG**  
-> *Figure Asset:* [`US_LNG_DESTINATION.jpg`](../images/8325cf1a-b24a-4243-bf8a-0baf96ef331e/US_LNG_DESTINATION.jpg)
+![Q2 imports by region](../../../../../corpus/01-brokers/fearnleys-md/images/8325cf1a-b24a-4243-bf8a-0baf96ef331e/LOADED_BY_DEMAND_REGION.jpg)
+*Chart: Q2 imports by region*
 
-> **Chart 19: Destination of Qatar LNG**  
-> *Figure Asset:* [`QAT_LNG_DESTINATION_2.jpg`](../images/8325cf1a-b24a-4243-bf8a-0baf96ef331e/QAT_LNG_DESTINATION_2.jpg)
+*Source: Vortexa*
 
-> **Chart 20: Average fleet speed (speeds > 6 knots)**  
-> *Figure Asset:* [`SPEED_AVG.jpg`](../images/8325cf1a-b24a-4243-bf8a-0baf96ef331e/SPEED_AVG.jpg)
+![Destination of US LNG](../../../../../corpus/01-brokers/fearnleys-md/images/8325cf1a-b24a-4243-bf8a-0baf96ef331e/US_LNG_DESTINATION.jpg)
+*Chart: Destination of US LNG*
 
-> **Chart 21: Average fleet speed by propulsion (speeds > 6 knots)**  
-> *Figure Asset:* [`SPEED_AVG_PROP.jpg`](../images/8325cf1a-b24a-4243-bf8a-0baf96ef331e/SPEED_AVG_PROP.jpg)
+*Source: Vortexa*
+
+![Destination of Qatar LNG](../../../../../corpus/01-brokers/fearnleys-md/images/8325cf1a-b24a-4243-bf8a-0baf96ef331e/QAT_LNG_DESTINATION_2.jpg)
+*Chart: Destination of Qatar LNG*
+
+*Source: Vortexa*
+
+![Average fleet speed (speeds > 6 knots)](../../../../../corpus/01-brokers/fearnleys-md/images/8325cf1a-b24a-4243-bf8a-0baf96ef331e/SPEED_AVG.jpg)
+*Chart: Average fleet speed (speeds > 6 knots)*
+
+![Average fleet speed by propulsion (speeds > 6 knots)](../../../../../corpus/01-brokers/fearnleys-md/images/8325cf1a-b24a-4243-bf8a-0baf96ef331e/SPEED_AVG_PROP.jpg)
+*Chart: Average fleet speed by propulsion (speeds > 6 knots)*
 
 ## LNGC Fleet
 
-> **Chart 22: LNGC fleet by status**  
-> *Figure Asset:* [`LNGC_FLEET_STATUS.jpg`](../images/8325cf1a-b24a-4243-bf8a-0baf96ef331e/LNGC_FLEET_STATUS.jpg)
+The 17 LNGCs delivered in Q2 brings the total fleet on the water to 718 vessels. However, with 25 vessels in layup, the “live” fleet stands at 693 – less if the idling vessels are considered. The slow-down in new orders and reasonably rapid deliveries has brought the orderbook-to-fleet ratio further down, to 43%. Orders for a total of five vessels were placed during the quarter with one back-to-back with charter and four seemingly speculative but likely positioning for upcoming tenders.
+
+66 vessels are still scheduled for delivery in 2025, of which nine are Arc-7s originally intended for the Arctic LNG-2, and whose delivery is continuously pushed. With 32 delivered thus far, we could reach mid-80s vessels added to the fleet over the course of the year. In some way we hope (and expect) there will be deferral of deliveries towards year-end, but 2025 will inevitably be the busiest year in terms of vessel delivery in history.
+
+![LNGC fleet by status](../../../../../corpus/01-brokers/fearnleys-md/images/8325cf1a-b24a-4243-bf8a-0baf96ef331e/LNGC_FLEET_STATUS.jpg)
+*Chart: LNGC fleet by status*
 
 89 ships are currently on order in China, or 30% of the orderbook, with 55 at Hudong-Zhonghua. From our latest data, 26 ships in the orderbook are without charters, of which two deliver this year, 11 in 2026 and 13 in 2027. Although yards are happy with the backlog still, available slots will be for Q2 2028 delivery, and from there on - there is plenty of capacity. While we do not anticipate a full-on rush to yards from Owners, the number of potential tenders for both project and replacement programs suggests we will see more activity in H2 2025.
 
-On the recycling front, another four vessels were sold for scrap during the quarter and with seven vessels now done for the year, 2025 will likely not only be a record for deliveries - but also for scrapping. It's a pity we're prone to see around 80 vessels delivered and far less scrapped. That said, we expect to see a shift in mentality with Owners in possession of steam turbines as they are marginalized in the freight market and the pace and magnitude of FSRU/FSU projects is not able to soak up all open tonnage. Scrapping age will most certainly remain well below the 35-40yr average seen in the past decade.
+On the recycling front, another four vessels were sold for scrap during the quarter and with seven vessels now done for the year, 2025 will likely not only be a record for deliveries – but also for scrapping. It’s a pity we’re prone to see around 80 vessels delivered and far less scrapped. That said, we expect to see a shift in mentality with Owners in possession of steam turbines as they are marginalized in the freight market and the pace and magnitude of FSRU/FSU projects is not able to soak up all open tonnage. Scrapping age will most certainly remain well below the 35-40yr average seen in the past decade.
 
-> **Chart 23: LNGC orders**  
-> *Figure Asset:* [`LNGC_ORDERS_PLACED.jpg`](../images/8325cf1a-b24a-4243-bf8a-0baf96ef331e/LNGC_ORDERS_PLACED.jpg)
+![LNGC orders](../../../../../corpus/01-brokers/fearnleys-md/images/8325cf1a-b24a-4243-bf8a-0baf96ef331e/LNGC_ORDERS_PLACED.jpg)
+*Chart: LNGC orders*
 
-> **Chart 24: LNGC deliveries**  
-> *Figure Asset:* [`OB_DELIVERIED_FORDELIVERY.jpg`](../images/8325cf1a-b24a-4243-bf8a-0baf96ef331e/OB_DELIVERIED_FORDELIVERY.jpg)
+![LNGC deliveries](../../../../../corpus/01-brokers/fearnleys-md/images/8325cf1a-b24a-4243-bf8a-0baf96ef331e/OB_DELIVERIED_FORDELIVERY.jpg)
+*Chart: LNGC deliveries*
 
-> **Chart 25: Orderbook by propulsion**  
-> *Figure Asset:* [`OB_BY_PROP.jpg`](../images/8325cf1a-b24a-4243-bf8a-0baf96ef331e/OB_BY_PROP.jpg)
+![Orderbook by propulsion](../../../../../corpus/01-brokers/fearnleys-md/images/8325cf1a-b24a-4243-bf8a-0baf96ef331e/OB_BY_PROP.jpg)
+*Chart: Orderbook by propulsion*
 
-> **Chart 26: Orderbook by yard**  
-> *Figure Asset:* [`OB_BY_YRD_CTRY.jpg`](../images/8325cf1a-b24a-4243-bf8a-0baf96ef331e/OB_BY_YRD_CTRY.jpg)
+![Orderbook by yard](../../../../../corpus/01-brokers/fearnleys-md/images/8325cf1a-b24a-4243-bf8a-0baf96ef331e/OB_BY_YRD_CTRY.jpg)
+*Chart: Orderbook by yard*
 
 The S&P market has been relatively subdued thus far in 2025 with the majority of transactions involving older tonnage with variable quality of buyers as KYC remains a focus. Asset values have come off further during the quarter across steam turbine, TDFE and two-strokes, but the gap between willing buyers and willing sellers needs to narrow.
 
-Acquiring entities (that do pass KYC) tends to be focused on tonnage for project work on both steam turbines and TFDEs - which makes sense given the activity seen in the FSRU/FSU market. For two-strokes the discussions are fewer and further between.
+Acquiring entities (that do pass KYC) tends to be focused on tonnage for project work on both steam turbines and TFDEs – which makes sense given the activity seen in the FSRU/FSU market. For two-strokes the discussions are fewer and further between.
 
-> **Chart 27: Asset values: Secondhand prices**  
-> *Figure Asset:* [`SH_PRICES.jpg`](../images/8325cf1a-b24a-4243-bf8a-0baf96ef331e/SH_PRICES.jpg)
+![Asset values: Secondhand prices](../../../../../corpus/01-brokers/fearnleys-md/images/8325cf1a-b24a-4243-bf8a-0baf96ef331e/SH_PRICES.jpg)
+*Chart: Asset values: Secondhand prices*
 
-> **Chart 28: Asset values: Newbuild price (174kcbm 2-stroke)**  
-> *Figure Asset:* [`NB_PRICE.jpg`](../images/8325cf1a-b24a-4243-bf8a-0baf96ef331e/NB_PRICE.jpg)
+![Asset values: Newbuild price (174kcbm 2-stroke)](../../../../../corpus/01-brokers/fearnleys-md/images/8325cf1a-b24a-4243-bf8a-0baf96ef331e/NB_PRICE.jpg)
+*Chart: Asset values: Newbuild price (174kcbm 2-stroke)*
 
 ## Outlook
 
-The multi-billion dollar question we get asked (several times) daily is: when could the market tighten? Based on our supply/demand balance (with all the caveats that come with forecasting), the fundamentals show a broadly soft market through into 2027, and finally a real tightening materializing in 2028. This is the base case from Fearnleys, and as always trade volumes and flows can have material impacts on the market tightness. A widening of arbitrages absorbing more tonnage on US-Asia could be enough for rates to nudge higher - at least for a period of time. Another factor is whether the ships ordered to serve Qatar North Field Expansion, and Qatar Energy's share in Golden Pass, will be made available in the market when vessel deliveries occur earlier than volume start-ups. There are talks of some of these vessels being deferred for delivery which would help the market balance.
+The multi-billion dollar question we get asked (several times) daily is: when could the market tighten? Based on our supply/demand balance (with all the caveats that come with forecasting), the fundamentals show a broadly soft market through into 2027, and finally a real tightening materializing in 2028. This is the base case from Fearnleys, and as always trade volumes and flows can have material impacts on the market tightness. A widening of arbitrages absorbing more tonnage on US-Asia could be enough for rates to nudge higher – at least for a period of time. Another factor is whether the ships ordered to serve Qatar North Field Expansion, and Qatar Energy's share in Golden Pass, will be made available in the market when vessel deliveries occur earlier than volume start-ups. There are talks of some of these vessels being deferred for delivery which would help the market balance.
 
-Another major question mark is how the vintage vessel fleet phase out will play out? While we take the view that "25 is the new 35" in terms of scrapping age, the inertia of LNGCs being sold to the breakers has historically been high. Owners of LNGCs seem at times to misprice the option cost of keeping technologically obsolete tonnage on the books. If the scrapping age drops to 20 years (which is a major step for owners, scrap yards and accounting teams alike) that would contribute to materially reduce fleet capacity. However, it should be clear that the transportation work done by the steam turbine fleet is diminishing - our forecasting is based on an "all vessels are created equal" in terms of utilization - which may itself offer some relief through layups which never return to market.
+Another major question mark is how the vintage vessel fleet phase out will play out? While we take the view that “25 is the new 35” in terms of scrapping age, the inertia of LNGCs being sold to the breakers has historically been high. Owners of LNGCs seem at times to misprice the option cost of keeping technologically obsolete tonnage on the books. If the scrapping age drops to 20 years (which is a major step for owners, scrap yards and accounting teams alike) that would contribute to materially reduce fleet capacity. However, it should be clear that the transportation work done by the steam turbine fleet is diminishing – our forecasting is based on an “all vessels are created equal” in terms of utilization – which may itself offer some relief through layups which never return to market.
 
 New FIDs will inevitably play a vital role for future shipping demand, and US FIDs are especially important. Seeing Japanese players ink up on major long-term SPAs underpins our view of continued growth in sailing distances and shipping requirements. Although Chinese demand growth is expected to continue, we see an increasing share of future LNG demand to be absorbed by emerging Asian markets. This adds, if nothing else, to the distance part of the tonne-mile equation.
 
-However, our intelligence suggests a good flow of tender activity from a broad range of market participants, which will keep yards busy. For the time being, yards are pricing newbuilds at relatively high levels which underpin long-term charter deals in the US$ mid-/high-80s/day - deterring some Owners as returns are not sufficiently attractive. Fast-forward 12 months with limited order intake and yards may have a slightly softer stance which may entice Owners to fill the late-2028 and 2029 slots - potentially extending the time of a fundamental market recovery.
+However, our intelligence suggests a good flow of tender activity from a broad range of market participants, which will keep yards busy. For the time being, yards are pricing newbuilds at relatively high levels which underpin long-term charter deals in the US$ mid-/high-80s/day – deterring some Owners as returns are not sufficiently attractive. Fast-forward 12 months with limited order intake and yards may have a slightly softer stance which may entice Owners to fill the late-2028 and 2029 slots – potentially extending the time of a fundamental market recovery.
 
-While our outlook may be a sobering one, it is important to keep in mind that LNG is the fastest growing fossil fuel and that the growth in supply is set to grow by a whopping 50% by 2030 (vs 2024) according to S&P Platts. That is the equivalent of some 200+MT of LNG which must be moved. The near-term pain will drive older tonnage out of the market as scrapping is a function of a bad market (and not a catalyst for boom times), which means that Owners need to hold on tight, focus on keeping OPEX in check and maintain a strong relationship with the banks. Charterers on their side should be positioned to pick up attractive deals - after having paid the price a few years back.
+While our outlook may be a sobering one, it is important to keep in mind that LNG is the fastest growing fossil fuel and that the growth in supply is set to grow by a whopping 50% by 2030 (vs 2024) according to S&P Platts. That is the equivalent of some 200+MT of LNG which must be moved. The near-term pain will drive older tonnage out of the market as scrapping is a function of a bad market (and not a catalyst for boom times), which means that Owners need to hold on tight, focus on keeping OPEX in check and maintain a strong relationship with the banks. Charterers on their side should be positioned to pick up attractive deals – after having paid the price a few years back.
 
-> **Chart 29: Fleet balance (at phase-out ages of 20 and 25 years)**  
-> *Figure Asset:* [`S_D_BALANCE.jpg`](../images/8325cf1a-b24a-4243-bf8a-0baf96ef331e/S_D_BALANCE.jpg)
+![Fleet balance (at phase-out ages of 20 and 25 years)](../../../../../corpus/01-brokers/fearnleys-md/images/8325cf1a-b24a-4243-bf8a-0baf96ef331e/S_D_BALANCE.jpg)
+*Chart: Fleet balance (at phase-out ages of 20 and 25 years)*

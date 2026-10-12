@@ -7,12 +7,13 @@ publisher: "Fearnleys"
 category: "bespoke_research"
 report_id: "d673e9de-e5bb-46ef-8aeb-b758087b1563"
 images_count: 28
+local_pdf: "../pdfs/2026/2026-07-03_lng-shipping-quarterly-report-q2-2026.pdf"
 pdf_url: "https://pbrkapp.blob.core.windows.net/report/d673e9de-e5bb-46ef-8aeb-b758087b1563/report.pdf"
 ---
 # LNG Shipping - Quarterly Report Q2 2026
 
 **Date:** 2026-07-03 | **Department:** LNG | **Publisher:** Fearnleys AS  
-**Original PDF:** [Download PDF](https://pbrkapp.blob.core.windows.net/report/d673e9de-e5bb-46ef-8aeb-b758087b1563/report.pdf)  
+**Original PDF:** [Local PDF](../pdfs/2026/2026-07-03_lng-shipping-quarterly-report-q2-2026.pdf) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/d673e9de-e5bb-46ef-8aeb-b758087b1563/report.pdf)  
 
 ---
 
@@ -26,18 +27,16 @@ JKM prices ranged from close to USD 20/MMBtu in mid-May to below USD 16/MMBtu du
 
 Fleet utilisation has been significantly impacted by the sharp decline in traded volumes, with increased sailing distances only partially offsetting this effect. US exports to Asia did increase by 80% compared to Q1 (from 15% of US exports to 28% of US exports), while total Asian imports (across all supply regions) were 5 MTPA lower than in Q2 last year. Underutilisation has primarily affected older tonnage, while the two-stroke fleet continues to expand tonne-mile demand broadly in line with fleet growth through newbuild deliveries.
 
-Two vessels were sold for demolition, while we estimate 20 idle vessels off Labuan and eight in the Malacca Strait. A number of vessels linked to Ras Laffan remain positioned in the Pacific, awaiting a restart in production. 
+Two vessels were sold for demolition, while we estimate 20 idle vessels off Labuan and eight in the Malacca Strait. A number of vessels linked to Ras Laffan remain positioned in the Pacific, awaiting a restart in production.
 
 21 vessels were delivered in Q2, which is one more than in Q1. Newbuilding activity halved from nearly 40 orders in Q1, with orders spanning speculative, project-linked, and replacement tonnage.
 
 Two projects reached FID during the quarter: Delfin LNG (4.4 MTPA floating LNG) and Commonwealth LNG (9.5 MTPA). Both are US-based developments targeting first LNG by 2030.
 
-
 ![Spot charter rates and JKM](../images/d673e9de-e5bb-46ef-8aeb-b758087b1563/gas%20price%20and%20rates.png)
+*Chart: Spot charter rates and JKM*
 
-> **Figure 1: Spot charter rates and JKM**  
-> [Local Asset](file:////home/runner/work/Shipping/Shipping/corpus/01-brokers/fearnleys-md/images/d673e9de-e5bb-46ef-8aeb-b758087b1563/gas%20price%20and%20rates.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/d673e9de-e5bb-46ef-8aeb-b758087b1563/gas price and rates.png)
-
+*Source: JKM from S&P Global Platts*
 
 ## Charter Rates
 
@@ -47,183 +46,115 @@ Basin spreads remained elevated, with Atlantic rates consistently above Middle E
 
 The term market has corrected from a durable contango structure in Q1, when the 1-year rate briefly traded above the 7-year TC. This structure has since normalised, with the 1-year now priced below the 7-year rate, although still above the 3- and 5-year tenors, unlike the pre-war market. Movements in term rates remained broadly flat during the quarter, with overall liquidity continuing to be relatively limited.
 
-
 ![Two-stroke spot charter rates by region](../images/d673e9de-e5bb-46ef-8aeb-b758087b1563/by%20region.png)
-
-> **Figure 2: Two-stroke spot charter rates by region**  
-> [Local Asset](file:////home/runner/work/Shipping/Shipping/corpus/01-brokers/fearnleys-md/images/d673e9de-e5bb-46ef-8aeb-b758087b1563/by%20region.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/d673e9de-e5bb-46ef-8aeb-b758087b1563/by region.png)
-
+*Chart: Two-stroke spot charter rates by region*
 
 ![Average spot charter rates](../images/d673e9de-e5bb-46ef-8aeb-b758087b1563/spot%20avg.png)
-
-> **Figure 3: Average spot charter rates**  
-> [Local Asset](file:////home/runner/work/Shipping/Shipping/corpus/01-brokers/fearnleys-md/images/d673e9de-e5bb-46ef-8aeb-b758087b1563/spot%20avg.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/d673e9de-e5bb-46ef-8aeb-b758087b1563/spot avg.png)
-
+*Chart: Average spot charter rates*
 
 ![1-year charter rates](../images/d673e9de-e5bb-46ef-8aeb-b758087b1563/1%20year.png)
-
-> **Figure 4: 1-year charter rates**  
-> [Local Asset](file:////home/runner/work/Shipping/Shipping/corpus/01-brokers/fearnleys-md/images/d673e9de-e5bb-46ef-8aeb-b758087b1563/1%20year.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/d673e9de-e5bb-46ef-8aeb-b758087b1563/1 year.png)
-
+*Chart: 1-year charter rates*
 
 ![Term charter rates (two-stroke)](../images/d673e9de-e5bb-46ef-8aeb-b758087b1563/longterm.png)
-
-> **Figure 5: Term charter rates (two-stroke)**  
-> [Local Asset](file:////home/runner/work/Shipping/Shipping/corpus/01-brokers/fearnleys-md/images/d673e9de-e5bb-46ef-8aeb-b758087b1563/longterm.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/d673e9de-e5bb-46ef-8aeb-b758087b1563/longterm.png)
-
+*Chart: Term charter rates (two-stroke)*
 
 ![Monthly spot charter rates (two-stroke)](../images/d673e9de-e5bb-46ef-8aeb-b758087b1563/2str%20mntly.png)
-
-> **Figure 6: Monthly spot charter rates (two-stroke)**  
-> [Local Asset](file:////home/runner/work/Shipping/Shipping/corpus/01-brokers/fearnleys-md/images/d673e9de-e5bb-46ef-8aeb-b758087b1563/2str%20mntly.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/d673e9de-e5bb-46ef-8aeb-b758087b1563/2str mntly.png)
-
+*Chart: Monthly spot charter rates (two-stroke)*
 
 ![Quarterly spot charter rates (two-stroke)](../images/d673e9de-e5bb-46ef-8aeb-b758087b1563/2str%20qrt.png)
-
-> **Figure 7: Quarterly spot charter rates (two-stroke)**  
-> [Local Asset](file:////home/runner/work/Shipping/Shipping/corpus/01-brokers/fearnleys-md/images/d673e9de-e5bb-46ef-8aeb-b758087b1563/2str%20qrt.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/d673e9de-e5bb-46ef-8aeb-b758087b1563/2str qrt.png)
-
+*Chart: Quarterly spot charter rates (two-stroke)*
 
 ## Chartering Activity
 
 Fixing activity remained elevated, with the total number of short-term fixtures being only 10 fixtures less than in Q1, which itself was an all-time high. Compared to Q2 last year, the spot fixture count increased by 15%. Despite operating in a high gas price environment, which typically reduces fixture volumes due to limited sublet availability, activity has been supported by increased participation from independent owners. As a result, the usual decline in fixing activity at high gas prices has not materialised. In addition, several sublets have originated from Qatari entities, reflecting their reduced shipping demand.
 
-The share of multi-month fixtures (90-365 days) increased this quarter, accounting for 20% of all short-term fixtures, compared to 9% in the previous quarter. In the 1-2 year segment, six deals were concluded, all but one involving two-stroke vessels. 
+The share of multi-month fixtures (90–365 days) increased this quarter, accounting for 20% of all short-term fixtures, compared to 9% in the previous quarter. In the 1–2 year segment, six deals were concluded, all but one involving two-stroke vessels.
 
 Liquidity in the TFDE segment has increased markedly year-to-date. In H1, 100 TFDE spot fixtures were concluded, representing the highest level since 2017. Two-stroke vessels have recorded the same number of spot fixtures as last year, and total activity remains elevated relative to pre-2025 levels. The increase in TFDE fixtures reflect vessel ownership structures: independent owners control a larger share of TFDE tonnage, allowing these vessels to remain available in the spot market, whereas two-stroke availability is more constrained by charterer-controlled portfolios and their strategies in a high gas price environment.
 
-
 ![Short-term fixture activity (< 3 years)](../images/d673e9de-e5bb-46ef-8aeb-b758087b1563/fixt%20activithy.png)
-
-> **Figure 8: Short-term fixture activity (< 3 years)**  
-> [Local Asset](file:////home/runner/work/Shipping/Shipping/corpus/01-brokers/fearnleys-md/images/d673e9de-e5bb-46ef-8aeb-b758087b1563/fixt%20activithy.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/d673e9de-e5bb-46ef-8aeb-b758087b1563/fixt activithy.png)
-
+*Chart: Short-term fixture activity (< 3 years)*
 
 ![Short term fixtures by sublet vs independent owners](../images/d673e9de-e5bb-46ef-8aeb-b758087b1563/indep.png)
-
-> **Figure 9: Short term fixtures by sublet vs independent owners**  
-> [Local Asset](file:////home/runner/work/Shipping/Shipping/corpus/01-brokers/fearnleys-md/images/d673e9de-e5bb-46ef-8aeb-b758087b1563/indep.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/d673e9de-e5bb-46ef-8aeb-b758087b1563/indep.png)
-
+*Chart: Short term fixtures by sublet vs independent owners*
 
 ![Spot fixtures by propulsion](../images/d673e9de-e5bb-46ef-8aeb-b758087b1563/Spot%20by%20prop.png)
-
-> **Figure 10: Spot fixtures by propulsion**  
-> [Local Asset](file:////home/runner/work/Shipping/Shipping/corpus/01-brokers/fearnleys-md/images/d673e9de-e5bb-46ef-8aeb-b758087b1563/Spot%20by%20prop.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/d673e9de-e5bb-46ef-8aeb-b758087b1563/Spot by prop.png)
-
+*Chart: Spot fixtures by propulsion*
 
 ![2026 spot fixtures by propulsion and owner type (1H)](../images/d673e9de-e5bb-46ef-8aeb-b758087b1563/indep%20by%20prop.png)
-
-> **Figure 11: 2026 spot fixtures by propulsion and owner type (1H)**  
-> [Local Asset](file:////home/runner/work/Shipping/Shipping/corpus/01-brokers/fearnleys-md/images/d673e9de-e5bb-46ef-8aeb-b758087b1563/indep%20by%20prop.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/d673e9de-e5bb-46ef-8aeb-b758087b1563/indep by prop.png)
-
+*Chart: 2026 spot fixtures by propulsion and owner type (1H)*
 
 ![Short-term fixtures in Q2 (count)](../images/d673e9de-e5bb-46ef-8aeb-b758087b1563/q2%20count.png)
-
-> **Figure 12: Short-term fixtures in Q2 (count)**  
-> [Local Asset](file:////home/runner/work/Shipping/Shipping/corpus/01-brokers/fearnleys-md/images/d673e9de-e5bb-46ef-8aeb-b758087b1563/q2%20count.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/d673e9de-e5bb-46ef-8aeb-b758087b1563/q2 count.png)
-
+*Chart: Short-term fixtures in Q2 (count)*
 
 ![Short-term fixtures in Q2 (fixed days)](../images/d673e9de-e5bb-46ef-8aeb-b758087b1563/q2%20days.png)
-
-> **Figure 13: Short-term fixtures in Q2 (fixed days)**  
-> [Local Asset](file:////home/runner/work/Shipping/Shipping/corpus/01-brokers/fearnleys-md/images/d673e9de-e5bb-46ef-8aeb-b758087b1563/q2%20days.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/d673e9de-e5bb-46ef-8aeb-b758087b1563/q2 days.png)
-
+*Chart: Short-term fixtures in Q2 (fixed days)*
 
 ## Trade Flows
 
-101 MT of LNG was loaded in Q2, which is 3 MT less than in Q2 last year, and 15 MT less than in Q1. May loadings ended at 33.5 MT, which is the lowest monthly level seen since May 2024. 
+101 MT of LNG was loaded in Q2, which is 3 MT less than in Q2 last year, and 15 MT less than in Q1. May loadings ended at 33.5 MT, which is the lowest monthly level seen since May 2024.
 
-The biggest change in trade flows has been that originating out of the US. In Q2, 28% of US LNG went to Asia, vs. only 15% in Q1. As a percentage share, this is much lower than the previous peak, Q3 2024, where 42% of US LNG went to Asia. However, looking at the absolute values, this year's Q2 levels actually matched those levels from Q3 2024. 
+The biggest change in trade flows has been that originating out of the US. In Q2, 28% of US LNG went to Asia, vs. only 15% in Q1. As a percentage share, this is much lower than the previous peak, Q3 2024, where 42% of US LNG went to Asia. However, looking at the absolute values, this year's Q2 levels actually matched those levels from Q3 2024.
 
-As maintenance periods start, as well as some unplanned outages, total quarterly loadings, excluding Qatar and UAE, decreased from the record 100.6 MT in Q1 to 99.2 MT in Q2. Projects like LNG Canada and the Corpus Christi expansion have ramped up, reaching record production levels in Q2. The first cargo was loaded from Golden Pass in April, but only one cargo per month was lifted from the plant throughout the quarter, suggesting operating levels much lower than a full train capacity. 
+As maintenance periods start, as well as some unplanned outages, total quarterly loadings, excluding Qatar and UAE, decreased from the record 100.6 MT in Q1 to 99.2 MT in Q2. Projects like LNG Canada and the Corpus Christi expansion have ramped up, reaching record production levels in Q2. The first cargo was loaded from Golden Pass in April, but only one cargo per month was lifted from the plant throughout the quarter, suggesting operating levels much lower than a full train capacity.
 
-Total European imports are down 13 MT from Q1, and 4 MT compared to Q2 last year. This has left storage levels at 49% full at the end of the quarter, which is 14% lower than the 5-year average for this time of the year. 
+Total European imports are down 13 MT from Q1, and 4 MT compared to Q2 last year. This has left storage levels at 49% full at the end of the quarter, which is 14% lower than the 5-year average for this time of the year.
 
-The Indian sub-continent is very dependent on Qatar volumes through the Strait of Hormuz, and Pakistan, Bangladesh and India has 99%, 60% and 46% of their total LNG imports from Qatar last year, respectively. Despite this, Indian imports reached 6.7 MT in Q2, which is the highest seen since the 7 MT in Q2 2024. The lost Qatari volumes were compensated for through cargoes from the United States.  Bangladesh was also able to largely compensate for lost Middle Eastern volumes through increased flow from United States and Africa. Pakistan on the other hand only imported eight cargoes in Q2 (0.5 MT), of which all but two were from Qatar. Total imports ended around one third of Q1, with a year-on-year reduction of 75%. 
+The Indian sub-continent is very dependent on Qatar volumes through the Strait of Hormuz, and Pakistan, Bangladesh and India has 99%, 60% and 46% of their total LNG imports from Qatar last year, respectively. Despite this, Indian imports reached 6.7 MT in Q2, which is the highest seen since the 7 MT in Q2 2024. The lost Qatari volumes were compensated for through cargoes from the United States.  Bangladesh was also able to largely compensate for lost Middle Eastern volumes through increased flow from United States and Africa. Pakistan on the other hand only imported eight cargoes in Q2 (0.5 MT), of which all but two were from Qatar. Total imports ended around one third of Q1, with a year-on-year reduction of 75%.
 
 China was the largest importer in Q2, taking 29 cargoes more than Japan. Reloads from China increased substantially at the end of last quarter, with 17 reloads, but their strategy has since changed, and volumes are being kept domestically. For 1H 2026, Japan is marginally ahead of China as the top LNG importer.
 
-
 ![Quarterly loaded LNG](../images/d673e9de-e5bb-46ef-8aeb-b758087b1563/loaded%20q.png)
-
-> **Figure 14: Quarterly loaded LNG**  
-> [Local Asset](file:////home/runner/work/Shipping/Shipping/corpus/01-brokers/fearnleys-md/images/d673e9de-e5bb-46ef-8aeb-b758087b1563/loaded%20q.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/d673e9de-e5bb-46ef-8aeb-b758087b1563/loaded q.png)
-
+*Chart: Quarterly loaded LNG*
 
 ![Monthly loaded LNG](../images/d673e9de-e5bb-46ef-8aeb-b758087b1563/loaded%20m.png)
-
-> **Figure 15: Monthly loaded LNG**  
-> [Local Asset](file:////home/runner/work/Shipping/Shipping/corpus/01-brokers/fearnleys-md/images/d673e9de-e5bb-46ef-8aeb-b758087b1563/loaded%20m.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/d673e9de-e5bb-46ef-8aeb-b758087b1563/loaded m.png)
-
+*Chart: Monthly loaded LNG*
 
 ![LNG imports to the Indian sub-continent](../images/d673e9de-e5bb-46ef-8aeb-b758087b1563/indian%20subcont.png)
-
-> **Figure 16: LNG imports to the Indian sub-continent**  
-> [Local Asset](file:////home/runner/work/Shipping/Shipping/corpus/01-brokers/fearnleys-md/images/d673e9de-e5bb-46ef-8aeb-b758087b1563/indian%20subcont.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/d673e9de-e5bb-46ef-8aeb-b758087b1563/indian subcont.png)
-
+*Chart: LNG imports to the Indian sub-continent*
 
 ![Q2 imports by region](../images/d673e9de-e5bb-46ef-8aeb-b758087b1563/q2%20imports.png)
-
-> **Figure 17: Q2 imports by region**  
-> [Local Asset](file:////home/runner/work/Shipping/Shipping/corpus/01-brokers/fearnleys-md/images/d673e9de-e5bb-46ef-8aeb-b758087b1563/q2%20imports.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/d673e9de-e5bb-46ef-8aeb-b758087b1563/q2 imports.png)
-
+*Chart: Q2 imports by region*
 
 ![Destination of US LNG](../images/d673e9de-e5bb-46ef-8aeb-b758087b1563/us%20abs.png)
-
-> **Figure 18: Destination of US LNG**  
-> [Local Asset](file:////home/runner/work/Shipping/Shipping/corpus/01-brokers/fearnleys-md/images/d673e9de-e5bb-46ef-8aeb-b758087b1563/us%20abs.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/d673e9de-e5bb-46ef-8aeb-b758087b1563/us abs.png)
-
+*Chart: Destination of US LNG*
 
 ![Destination of US LNG, share](../images/d673e9de-e5bb-46ef-8aeb-b758087b1563/us%20share.png)
-
-> **Figure 19: Destination of US LNG, share**  
-> [Local Asset](file:////home/runner/work/Shipping/Shipping/corpus/01-brokers/fearnleys-md/images/d673e9de-e5bb-46ef-8aeb-b758087b1563/us%20share.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/d673e9de-e5bb-46ef-8aeb-b758087b1563/us share.png)
-
+*Chart: Destination of US LNG, share*
 
 ![Routes of US to Asia voyages](../images/d673e9de-e5bb-46ef-8aeb-b758087b1563/routes.png)
+*Chart: Routes of US to Asia voyages*
 
-> **Figure 20: Routes of US to Asia voyages**  
-> [Local Asset](file:////home/runner/work/Shipping/Shipping/corpus/01-brokers/fearnleys-md/images/d673e9de-e5bb-46ef-8aeb-b758087b1563/routes.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/d673e9de-e5bb-46ef-8aeb-b758087b1563/routes.png)
-
+*Source: S&P Global Energy*
 
 ## LNGC Fleet
 
+A total of 21 newbuilds were delivered in Q2, while two vessels were sold for demolition, bringing the global LNGC fleet to 758 vessels. The vessels scrapped were 22 and 24 years old, owned by SinoKor and Asyad, respectively. In addition, three vessels have reportedly been sold into the shadow fleet.
+
+Two-stroke vessels now account for approximately half of the fleet (49.6%), with 386 units on the water. Steam turbine vessels remain the second largest segment, with 183 ships still in operation. However, effective utilisation within this segment is materially lower, with at least 30 vessels currently in layup or idling. Tonne-mile demand for steam vessels continues to decline at a significantly faster pace than the rate at which they are removed from the fleet through demolition or repurposing.
+
+Despite the recent rate strength, which has likely delayed scrapping decisions, there is limited evidence of older vessels being reactivated for spot trading. The cost and complexity associated with reactivation require more sustained earnings visibility than a single spot employment.
 
 ![LNGC fleet by status](../images/d673e9de-e5bb-46ef-8aeb-b758087b1563/by%20status.png)
+*Chart: LNGC fleet by status*
 
-> **Figure 21: LNGC fleet by status**  
-> [Local Asset](file:////home/runner/work/Shipping/Shipping/corpus/01-brokers/fearnleys-md/images/d673e9de-e5bb-46ef-8aeb-b758087b1563/by%20status.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/d673e9de-e5bb-46ef-8aeb-b758087b1563/by status.png)
-
-There are 84 LNGCs above 20 years of age, and 15 LNGCs above 30 years (of which six are currently in layup). In addition, 55 vessels fall within the 120-140k cbm size segment, which is becoming increasingly commercially unattractive for both trading and conversion purposes.
+There are 84 LNGCs above 20 years of age, and 15 LNGCs above 30 years (of which six are currently in layup). In addition, 55 vessels fall within the 120–140k cbm size segment, which is becoming increasingly commercially unattractive for both trading and conversion purposes.
 
 A total of 20 vessels were ordered in Q2, roughly half the level seen in Q1, although still exceeding any quarterly total recorded in 2025. Deliveries remained elevated, with 21 vessels delivered during the quarter, just below the quarterly record of 22 achieved in 2025. This leaves 52 newbuilds scheduled for delivery over the remainder of the year, equivalent to approximately two vessels per week.
 
 Newbuilding prices have remained broadly stable at around USD 250 million depending on specification, while yard capacity is largely filled until H2 2029. The orderbook-to-fleet ratio now stands at 38%.
 
-
 ![LNGC orders](../images/d673e9de-e5bb-46ef-8aeb-b758087b1563/orders.png)
-
-> **Figure 22: LNGC orders**  
-> [Local Asset](file:////home/runner/work/Shipping/Shipping/corpus/01-brokers/fearnleys-md/images/d673e9de-e5bb-46ef-8aeb-b758087b1563/orders.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/d673e9de-e5bb-46ef-8aeb-b758087b1563/orders.png)
-
+*Chart: LNGC orders*
 
 ![LNGC newbuild prices](../images/d673e9de-e5bb-46ef-8aeb-b758087b1563/nb%20price.png)
-
-> **Figure 23: LNGC newbuild prices**  
-> [Local Asset](file:////home/runner/work/Shipping/Shipping/corpus/01-brokers/fearnleys-md/images/d673e9de-e5bb-46ef-8aeb-b758087b1563/nb%20price.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/d673e9de-e5bb-46ef-8aeb-b758087b1563/nb price.png)
-
+*Chart: LNGC newbuild prices*
 
 ![LNGC orderbook by category](../images/d673e9de-e5bb-46ef-8aeb-b758087b1563/ob%20deliveries.png)
-
-> **Figure 24: LNGC orderbook by category**  
-> [Local Asset](file:////home/runner/work/Shipping/Shipping/corpus/01-brokers/fearnleys-md/images/d673e9de-e5bb-46ef-8aeb-b758087b1563/ob%20deliveries.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/d673e9de-e5bb-46ef-8aeb-b758087b1563/ob deliveries.png)
-
+*Chart: LNGC orderbook by category*
 
 ![LNGC fleet composition (current orderbook and forecast on vessels leaving trading fleet)](../images/d673e9de-e5bb-46ef-8aeb-b758087b1563/fleet%20com%20new.png)
-
-> **Figure 25: LNGC fleet composition (current orderbook and forecast on vessels leaving trading fleet)**  
-> [Local Asset](file:////home/runner/work/Shipping/Shipping/corpus/01-brokers/fearnleys-md/images/d673e9de-e5bb-46ef-8aeb-b758087b1563/fleet%20com%20new.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/d673e9de-e5bb-46ef-8aeb-b758087b1563/fleet com new.png)
-
+*Chart: LNGC fleet composition (current orderbook and forecast on vessels leaving trading fleet)*
 
 ## Outlook
 
@@ -237,24 +168,17 @@ Our view remains that late 2028 will mark the transition from an oversupplied ma
 
 Supporting this view, S&P Global forecasts European LNG demand to increase from 127 mt in 2025 to 147 mt in 2029. However, this 20 mt increase is modest compared with the nearly 70 mt increase in US LNG supply expected over the same period. As a result, a significant share of incremental US volumes will likely need to be absorbed by markets further afield than Europe, increasing tonne-mile demand and strengthening the underlying requirement for LNG shipping capacity.
 
-The graph below illustrates our fleet balance forecast. Fleet growth is based on the current orderbook, while vessels are assumed to leave the trading fleet at 20 years of age for steam turbine vessels and 25 years for TFDE tonnage. Under these assumptions, the market appears undersupplied during the winter of 2028/29. We believe this initial tightness can largely be absorbed through increased sailing speeds. By the following winter, however, our analysis suggests that operational adjustments alone will be insufficient. Additional newbuilding orders delivered during the second half of 2029 are likely to be required to accommodate demand growth heading into 2030. 
+The graph below illustrates our fleet balance forecast. Fleet growth is based on the current orderbook, while vessels are assumed to leave the trading fleet at 20 years of age for steam turbine vessels and 25 years for TFDE tonnage. Under these assumptions, the market appears undersupplied during the winter of 2028/29. We believe this initial tightness can largely be absorbed through increased sailing speeds. By the following winter, however, our analysis suggests that operational adjustments alone will be insufficient. Additional newbuilding orders delivered during the second half of 2029 are likely to be required to accommodate demand growth heading into 2030.
 
 The timing of this tightening remains highly dependent on LNG project start-up schedules. While our analysis assumes projects commence broadly in line with current guidance, commissioning timelines can change and delays are common across the industry. Historically, vessel deliveries have tended to arrive more reliably than new LNG supply volumes, resulting in periods where fleet growth temporarily outpaces cargo growth. The ongoing delay to Qatar's expansion project is a current example of this dynamic. Consequently, further project delays would likely push the expected market rebalancing beyond our current forecast.
 
-
 ![LNG demand forecast by region](../images/d673e9de-e5bb-46ef-8aeb-b758087b1563/demand%20fcast.png)
-
-> **Figure 26: LNG demand forecast by region**  
-> [Local Asset](file:////home/runner/work/Shipping/Shipping/corpus/01-brokers/fearnleys-md/images/d673e9de-e5bb-46ef-8aeb-b758087b1563/demand%20fcast.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/d673e9de-e5bb-46ef-8aeb-b758087b1563/demand fcast.png)
-
+*Chart: LNG demand forecast by region*
 
 ![LNG supply forecast by region](../images/d673e9de-e5bb-46ef-8aeb-b758087b1563/supply%20fcast.png)
+*Chart: LNG supply forecast by region*
 
-> **Figure 27: LNG supply forecast by region**  
-> [Local Asset](file:////home/runner/work/Shipping/Shipping/corpus/01-brokers/fearnleys-md/images/d673e9de-e5bb-46ef-8aeb-b758087b1563/supply%20fcast.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/d673e9de-e5bb-46ef-8aeb-b758087b1563/supply fcast.png)
-
+*Source: S&P Global Energy*
 
 ![Ships needed vs fleet count (with current orderbook and estimated number of ships leaving the trading fleet)](../images/d673e9de-e5bb-46ef-8aeb-b758087b1563/balance.png)
-
-> **Figure 28: Ships needed vs fleet count (with current orderbook and estimated number of ships leaving the trading fleet)**  
-> [Local Asset](file:////home/runner/work/Shipping/Shipping/corpus/01-brokers/fearnleys-md/images/d673e9de-e5bb-46ef-8aeb-b758087b1563/balance.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/d673e9de-e5bb-46ef-8aeb-b758087b1563/balance.png)
+*Chart: Ships needed vs fleet count (with current orderbook and estimated number of ships leaving the trading fleet)*

@@ -4,11 +4,155 @@
   "year": 2024,
   "department": "TANK",
   "report_title": "Fearnleys Tanker Market Wrap-up June 2024",
-  "shipment_volume_metrics": [],
-  "coal_futures_spread_metrics": [],
-  "time_charter_vs_asset_metrics": [],
-  "vessel_tightness_metrics": [],
-  "macro_correlation_metrics": [],
-  "charts_count": 20,
-  "source_markdown": "2024-06-24_fearnleys-tanker-market-wrap-up-june-2024.md"
+  "source_markdown": "2024-06-24_fearnleys-tanker-market-wrap-up-june-2024.md",
+  "tables": [],
+  "printed_image_tables": [],
+  "charts_count": 29,
+  "charts": [
+    {
+      "section": "Summary and recent tanker market development",
+      "title": "Spot rates, TCE $/day",
+      "image": "7f607e4f-7c57-4a95-a373-b3f52e70785c/rates.png"
+    },
+    {
+      "section": "Summary and recent tanker market development",
+      "title": "Seaborne crude oil volumes",
+      "image": "7f607e4f-7c57-4a95-a373-b3f52e70785c/volc.png"
+    },
+    {
+      "section": "Summary and recent tanker market development",
+      "title": "Seaborne oil product volumes",
+      "image": "7f607e4f-7c57-4a95-a373-b3f52e70785c/volp.png"
+    },
+    {
+      "section": "Summary and recent tanker market development",
+      "title": "Aframax vs. LR2 rates",
+      "image": "7f607e4f-7c57-4a95-a373-b3f52e70785c/lrafr.png"
+    },
+    {
+      "section": "Summary and recent tanker market development",
+      "title": "% of LR2s trading dirty",
+      "image": "7f607e4f-7c57-4a95-a373-b3f52e70785c/lr.png"
+    },
+    {
+      "section": "Summary and recent tanker market development",
+      "title": "Bab-el-Mandeb transits",
+      "image": "7f607e4f-7c57-4a95-a373-b3f52e70785c/bab.png"
+    },
+    {
+      "section": "Summary and recent tanker market development",
+      "title": "COGH volumes",
+      "image": "7f607e4f-7c57-4a95-a373-b3f52e70785c/cogh.png"
+    },
+    {
+      "section": "Oil market",
+      "title": "Oil supply and demand, implied balance",
+      "image": "7f607e4f-7c57-4a95-a373-b3f52e70785c/bala.png"
+    },
+    {
+      "section": "Oil market",
+      "title": "Brent 7-1 months forward price spread",
+      "image": "7f607e4f-7c57-4a95-a373-b3f52e70785c/bal.png"
+    },
+    {
+      "section": "Oil market",
+      "title": "China apparent main oil products demand",
+      "image": "7f607e4f-7c57-4a95-a373-b3f52e70785c/chapp.png"
+    },
+    {
+      "section": "Oil market",
+      "title": "China available crude oil vs. refinery runs",
+      "image": "7f607e4f-7c57-4a95-a373-b3f52e70785c/chibb.png"
+    },
+    {
+      "section": "Oil market",
+      "title": "Implied U.S. main products demand",
+      "image": "7f607e4f-7c57-4a95-a373-b3f52e70785c/demus.png"
+    },
+    {
+      "section": "Oil market",
+      "title": "U.S. shale oil production",
+      "image": "7f607e4f-7c57-4a95-a373-b3f52e70785c/produs.png"
+    },
+    {
+      "section": "Oil market",
+      "title": "2023-30 oil demand growth by region",
+      "image": "7f607e4f-7c57-4a95-a373-b3f52e70785c/longdem.png"
+    },
+    {
+      "section": "Oil market",
+      "title": "2023-30 oil supply growth by region",
+      "image": "7f607e4f-7c57-4a95-a373-b3f52e70785c/longsup.png"
+    },
+    {
+      "section": "Oil market",
+      "title": "2023-30 oil demand growth by product",
+      "image": "7f607e4f-7c57-4a95-a373-b3f52e70785c/longprod.png"
+    },
+    {
+      "section": "Oil market",
+      "title": "U.S. crack spreads",
+      "image": "7f607e4f-7c57-4a95-a373-b3f52e70785c/refmus.png"
+    },
+    {
+      "section": "Oil market",
+      "title": "Northwest Europe crack spreads",
+      "image": "7f607e4f-7c57-4a95-a373-b3f52e70785c/refmeu.png"
+    },
+    {
+      "section": "Oil market",
+      "title": "China crack spreads",
+      "image": "7f607e4f-7c57-4a95-a373-b3f52e70785c/refmch.png"
+    },
+    {
+      "section": "Oil market",
+      "title": "Refinery capacity change 2023-30",
+      "image": "7f607e4f-7c57-4a95-a373-b3f52e70785c/chref.png"
+    },
+    {
+      "section": "Oil market",
+      "title": "Oil demand change 2023-30",
+      "image": "7f607e4f-7c57-4a95-a373-b3f52e70785c/chdem.png"
+    },
+    {
+      "section": "Oil market",
+      "title": "Capacity less demand change 2023-30",
+      "image": "7f607e4f-7c57-4a95-a373-b3f52e70785c/chtot.png"
+    },
+    {
+      "section": "Fleet development",
+      "title": "Tanker deliveries and orderbook",
+      "image": "7f607e4f-7c57-4a95-a373-b3f52e70785c/fleet.png"
+    },
+    {
+      "section": "Fleet development",
+      "title": "Tanker orderbook vs. phase-out potential",
+      "image": "7f607e4f-7c57-4a95-a373-b3f52e70785c/ob phase.png"
+    },
+    {
+      "section": "Fleet development",
+      "title": "Orderbook vs. fleet",
+      "image": "7f607e4f-7c57-4a95-a373-b3f52e70785c/ob.png"
+    },
+    {
+      "section": "Fleet development",
+      "title": "Share of fleet at age 15+ years",
+      "image": "7f607e4f-7c57-4a95-a373-b3f52e70785c/15+.png"
+    },
+    {
+      "section": "Fleet development",
+      "title": "Share of fleet at age 20+ years",
+      "image": "7f607e4f-7c57-4a95-a373-b3f52e70785c/20+.png"
+    },
+    {
+      "section": "Fleet development",
+      "title": "Historical scrapping",
+      "image": "7f607e4f-7c57-4a95-a373-b3f52e70785c/bscrap.png"
+    },
+    {
+      "section": "Fleet development",
+      "title": "Historical ordering",
+      "image": "7f607e4f-7c57-4a95-a373-b3f52e70785c/border.png"
+    }
+  ]
 }

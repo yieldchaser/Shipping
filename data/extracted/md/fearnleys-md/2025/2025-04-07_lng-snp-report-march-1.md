@@ -20,16 +20,17 @@ pdf_url: "https://pbrkapp.blob.core.windows.net/report/ff74f42b-ce90-4210-91c0-8
 ## Market reflections
 
 As the first quarter of 2025 concludes, activity in the market has been reasonable but has not yet reached anticipated levels. Of the reported transactions, approximately one-quarter were for recycling, fifty percent were allocated to storage projects or regional distribution, and the remaining quarter is still under negotiation. Additionally, there are emerging reports suggesting that some previously expected deals may now be uncertain, making future developments worth monitoring.
+
 Our assessment remains that older ST vessels within the fleet are more inclined towards recycling than second-hand trading. Nevertheless, it this level of activity continues, that would bring 2025 to a new record in terms of scrap sales. There is a large pool of vessels idling, and it is anticipated that a significant number of these vessels may undergo extended layups, driven by the hope of more favorable market conditions and a subsequent return to operation. Previous instances have highlighted the risk of placing vessels in layup with the expectation of a market upturn, only to realize six months later that recycling is the more viable option, often resulting in a lower realized price compared to a direct sale to a recycling facility.
 
-> **Chart 1: Recent sales**  
-> *Figure Asset:* [`latest sales.png`](../images/ff74f42b-ce90-4210-91c0-8637d3b34daa/latest%20sales.png)
+![Recent sales](../../../../../corpus/01-brokers/fearnleys-md/images/ff74f42b-ce90-4210-91c0-8637d3b34daa/latest%20sales.png)
+*Chart: Recent sales*
 
-> **Chart 2: Yearly sales**  
-> *Figure Asset:* [`yearly sales.png`](../images/ff74f42b-ce90-4210-91c0-8637d3b34daa/yearly%20sales.png)
+![Yearly sales](../../../../../corpus/01-brokers/fearnleys-md/images/ff74f42b-ce90-4210-91c0-8637d3b34daa/yearly%20sales.png)
+*Chart: Yearly sales*
 
-> **Chart 3: Asset values**  
-> *Figure Asset:* [`asset values.png`](../images/ff74f42b-ce90-4210-91c0-8637d3b34daa/asset%20values.png)
+![Asset values](../../../../../corpus/01-brokers/fearnleys-md/images/ff74f42b-ce90-4210-91c0-8637d3b34daa/asset%20values.png)
+*Chart: Asset values*
 
 ## Newbuilding update
 
@@ -37,41 +38,57 @@ While the order book for conventional LNG carriers remains quiet, the small-scal
 
 If there is interest in the SSLNG and LNGBV business, please reach out and we will ensure that you start receiving our reports on this segment as well.
 
-> **Chart 4: Recent orders**  
-> *Figure Asset:* [`latest orders.png`](../images/ff74f42b-ce90-4210-91c0-8637d3b34daa/latest%20orders.png)
+![Recent orders](../../../../../corpus/01-brokers/fearnleys-md/images/ff74f42b-ce90-4210-91c0-8637d3b34daa/latest%20orders.png)
+*Chart: Recent orders*
 
-> **Chart 5: Deliveries incl. orderbook**  
-> *Figure Asset:* [`yearly deliveries.png`](../images/ff74f42b-ce90-4210-91c0-8637d3b34daa/yearly%20deliveries.png)
+![Deliveries incl. orderbook](../../../../../corpus/01-brokers/fearnleys-md/images/ff74f42b-ce90-4210-91c0-8637d3b34daa/yearly%20deliveries.png)
+*Chart: Deliveries incl. orderbook*
 
-> **Chart 6: LNGC orders**  
-> *Figure Asset:* [`yearly orders.png`](../images/ff74f42b-ce90-4210-91c0-8637d3b34daa/yearly%20orders.png)
+![LNGC orders](../../../../../corpus/01-brokers/fearnleys-md/images/ff74f42b-ce90-4210-91c0-8637d3b34daa/yearly%20orders.png)
+*Chart: LNGC orders*
 
 ## Interest rates
 
-The continued disruption to the markets on the back of the 47th president of the United States very different view on the world is continuing to disrupt world order and creating increased unpredictability. 
-One interesting development is that we are now seeing the implications of increase in trade barriers and uncertain geopolitical environment challenging the fundamental outlook on global growth, which we have previously indicated would have an impact on interest rates, which we are now seeing. 
+The continued disruption to the markets on the back of the 47th president of the United States very different view on the world is continuing to disrupt world order and creating increased unpredictability.
+
+One interesting development is that we are now seeing the implications of increase in trade barriers and uncertain geopolitical environment challenging the fundamental outlook on global growth, which we have previously indicated would have an impact on interest rates, which we are now seeing.
+
 While global financial markets are being rattled on back of tariffs and what can only be seen as a potential trade war, reference interest rates have slid lower. The US 10yr is down around 50bps to just shy of 4%. It would have been great if the drop in interest rates were driven by lower inflation and a form of normalization as per the playbook laid out by the FED, but the reality is that dimmer growth prospects is what has been draging down rates.
 
 The level of uncertainty on a macro level is at its highest since COVID - and albeit for a completely different reason - resulting in the risk premium widening despite underlying rates contracting. As such, it is tricky to see a scenario where capital gets cheaper in the near-term, rather the opposite.
 
-> **Chart 7: Interest rate (90 day avg. SOFR)**  
-> *Figure Asset:* [`sofr.png`](../images/ff74f42b-ce90-4210-91c0-8637d3b34daa/sofr.png)
+![Interest rate (90 day avg. SOFR)](../../../../../corpus/01-brokers/fearnleys-md/images/ff74f42b-ce90-4210-91c0-8637d3b34daa/sofr.png)
+*Chart: Interest rate (90 day avg. SOFR)*
 
-> **Chart 8: 10-Year Treasury Constant Maturity Minus 2-Year Treasury Constant Maturity**  
-> *Figure Asset:* [`10y2y.png`](../images/ff74f42b-ce90-4210-91c0-8637d3b34daa/10y2y.png)
+![10-Year Treasury Constant Maturity Minus 2-Year Treasury Constant Maturity](../../../../../corpus/01-brokers/fearnleys-md/images/ff74f42b-ce90-4210-91c0-8637d3b34daa/10y2y.png)
+*Chart: 10-Year Treasury Constant Maturity Minus 2-Year Treasury Constant Maturity*
+
+*Source: FRED*
 
 ## Recycling
 
-> **Chart 9: Demolition price (large tanker)**  
-> *Figure Asset:* [`Demo price.png`](../images/ff74f42b-ce90-4210-91c0-8637d3b34daa/Demo%20price.png)
+We are now up to a grand total of three vessels sold for recycling in the first quarter. Levels seem to be holding slightly higher than what we are seeing reported from the cash buyers for the reference market of Wet, which is showing signs of having stabilized somewhat. It is, however, interesting to note that for LNGCs we are seeing a spread from US$ 505-620 being reported, which is mainly due to containment systems.
+
+**Bangladesh**  US$ 455/465
+
+**Pakistan**       US$ 450/460
+
+**India**            US$ 445/455
+
+**Turkey**         US$ 285/295
+
+![Demolition price (large tanker)](../../../../../corpus/01-brokers/fearnleys-md/images/ff74f42b-ce90-4210-91c0-8637d3b34daa/Demo%20price.png)
+*Chart: Demolition price (large tanker)*
+
+*Source: Baltic Exchange*
 
 ## World fleet at a glance
 
-> **Chart 10: Live fleet by propulsion**  
-> *Figure Asset:* [`by propulsion.png`](../images/ff74f42b-ce90-4210-91c0-8637d3b34daa/by%20propulsion.png)
+![Live fleet by propulsion](../../../../../corpus/01-brokers/fearnleys-md/images/ff74f42b-ce90-4210-91c0-8637d3b34daa/by%20propulsion.png)
+*Chart: Live fleet by propulsion*
 
-> **Chart 11: Total fleet**  
-> *Figure Asset:* [`by status.png`](../images/ff74f42b-ce90-4210-91c0-8637d3b34daa/by%20status.png)
+![Total fleet](../../../../../corpus/01-brokers/fearnleys-md/images/ff74f42b-ce90-4210-91c0-8637d3b34daa/by%20status.png)
+*Chart: Total fleet*
 
-> **Chart 12: LNGC fleet by propulsion and delivery year**  
-> *Figure Asset:* [`fleet by delivery and propulsion.png`](../images/ff74f42b-ce90-4210-91c0-8637d3b34daa/fleet%20by%20delivery%20and%20propulsion.png)
+![LNGC fleet by propulsion and delivery year](../../../../../corpus/01-brokers/fearnleys-md/images/ff74f42b-ce90-4210-91c0-8637d3b34daa/fleet%20by%20delivery%20and%20propulsion.png)
+*Chart: LNGC fleet by propulsion and delivery year*

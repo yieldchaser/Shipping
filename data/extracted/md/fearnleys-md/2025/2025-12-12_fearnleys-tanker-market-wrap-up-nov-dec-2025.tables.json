@@ -4,11 +4,185 @@
   "year": 2025,
   "department": "TANK",
   "report_title": "Fearnleys Tanker Market Wrap-up Nov-Dec 2025",
-  "shipment_volume_metrics": [],
-  "coal_futures_spread_metrics": [],
-  "time_charter_vs_asset_metrics": [],
-  "vessel_tightness_metrics": [],
-  "macro_correlation_metrics": [],
-  "charts_count": 32,
-  "source_markdown": "2025-12-12_fearnleys-tanker-market-wrap-up-nov-dec-2025.md"
+  "source_markdown": "2025-12-12_fearnleys-tanker-market-wrap-up-nov-dec-2025.md",
+  "tables": [],
+  "printed_image_tables": [],
+  "charts_count": 35,
+  "charts": [
+    {
+      "section": "Summary and outlook",
+      "title": "Tanker rates 2022-25",
+      "image": "bcd98cdc-f591-4a31-a6f6-4cb2e626f231/rates.png"
+    },
+    {
+      "section": "2026 scenarios",
+      "title": "Historical rates and forecast",
+      "image": "bcd98cdc-f591-4a31-a6f6-4cb2e626f231/forecast.png"
+    },
+    {
+      "section": "2026 scenarios",
+      "title": "Global oil supply growth vs. tanker tonne-mile growth",
+      "image": "bcd98cdc-f591-4a31-a6f6-4cb2e626f231/dem.png"
+    },
+    {
+      "section": "2026 scenarios",
+      "title": "Tanker deliveries",
+      "image": "bcd98cdc-f591-4a31-a6f6-4cb2e626f231/dely.png"
+    },
+    {
+      "section": "2026 scenarios",
+      "title": "Russia crude oil exports by destination",
+      "image": "bcd98cdc-f591-4a31-a6f6-4cb2e626f231/rusdest.png"
+    },
+    {
+      "section": "2026 scenarios",
+      "title": "Russia related OFAC sanctioned ships",
+      "image": "bcd98cdc-f591-4a31-a6f6-4cb2e626f231/rusofac.png"
+    },
+    {
+      "section": "2026 scenarios",
+      "title": "China inventory capacity additions",
+      "image": "bcd98cdc-f591-4a31-a6f6-4cb2e626f231/chiinv.png"
+    },
+    {
+      "section": "Strong tanker demand and congestion is a potent mix for rates",
+      "title": "Total tanker tonne-miles (excl. OFAC) +2.6% YTD",
+      "image": "bcd98cdc-f591-4a31-a6f6-4cb2e626f231/tmtot.png"
+    },
+    {
+      "section": "Strong tanker demand and congestion is a potent mix for rates",
+      "title": "VLCC tonne-miles (excl. OFAC) +5.7% YTD",
+      "image": "bcd98cdc-f591-4a31-a6f6-4cb2e626f231/tmv.png"
+    },
+    {
+      "section": "Strong tanker demand and congestion is a potent mix for rates",
+      "title": "Crude tanker tonne-miles (excl. OFAC) +4.6% YTD",
+      "image": "bcd98cdc-f591-4a31-a6f6-4cb2e626f231/tmc.png"
+    },
+    {
+      "section": "Strong tanker demand and congestion is a potent mix for rates",
+      "title": "Product tanker tonne-miles (excl. OFAC) -1.9% YTD",
+      "image": "bcd98cdc-f591-4a31-a6f6-4cb2e626f231/tmp.png"
+    },
+    {
+      "section": "Strong tanker demand and congestion is a potent mix for rates",
+      "title": "Seaborne crude volumes (excl. Iran & Venezuela)",
+      "image": "bcd98cdc-f591-4a31-a6f6-4cb2e626f231/volc.png"
+    },
+    {
+      "section": "Strong tanker demand and congestion is a potent mix for rates",
+      "title": "Seaborne products volumes (excl. Iran & Venezuela)",
+      "image": "bcd98cdc-f591-4a31-a6f6-4cb2e626f231/volp.png"
+    },
+    {
+      "section": "Strong tanker demand and congestion is a potent mix for rates",
+      "title": "VLCC waiting time, Far East",
+      "image": "bcd98cdc-f591-4a31-a6f6-4cb2e626f231/waitV.png"
+    },
+    {
+      "section": "Strong tanker demand and congestion is a potent mix for rates",
+      "title": "Suezmax waiting time, global",
+      "image": "bcd98cdc-f591-4a31-a6f6-4cb2e626f231/waitS.png"
+    },
+    {
+      "section": "Supportive oil market, but is it enough?",
+      "title": "Non-OPEC+ quarterly production growth",
+      "image": "bcd98cdc-f591-4a31-a6f6-4cb2e626f231/eia.png"
+    },
+    {
+      "section": "Supportive oil market, but is it enough?",
+      "title": "OPEC+ production vs. quotas",
+      "image": "bcd98cdc-f591-4a31-a6f6-4cb2e626f231/OPEC.png"
+    },
+    {
+      "section": "Supportive oil market, but is it enough?",
+      "title": "IEA oil market balance",
+      "image": "bcd98cdc-f591-4a31-a6f6-4cb2e626f231/IEAbal.png"
+    },
+    {
+      "section": "Supportive oil market, but is it enough?",
+      "title": "IEA oil production growth 2024-30",
+      "image": "bcd98cdc-f591-4a31-a6f6-4cb2e626f231/supply.png"
+    },
+    {
+      "section": "Supportive oil market, but is it enough?",
+      "title": "Brent 7-1 month forward spread",
+      "image": "bcd98cdc-f591-4a31-a6f6-4cb2e626f231/fwd.png"
+    },
+    {
+      "section": "Supportive oil market, but is it enough?",
+      "title": "Relative oil pricing",
+      "image": "bcd98cdc-f591-4a31-a6f6-4cb2e626f231/arb.png"
+    },
+    {
+      "section": "Supportive oil market, but is it enough?",
+      "title": "Global observed inventories",
+      "image": "bcd98cdc-f591-4a31-a6f6-4cb2e626f231/invg.png"
+    },
+    {
+      "section": "Supportive oil market, but is it enough?",
+      "title": "OECD industry stocks",
+      "image": "bcd98cdc-f591-4a31-a6f6-4cb2e626f231/invo.png"
+    },
+    {
+      "section": "Supportive oil market, but is it enough?",
+      "title": "U.S. Gulf Coast crack spreads",
+      "image": "bcd98cdc-f591-4a31-a6f6-4cb2e626f231/refmus.png"
+    },
+    {
+      "section": "Supportive oil market, but is it enough?",
+      "title": "NorthWest Europe crack spreads",
+      "image": "bcd98cdc-f591-4a31-a6f6-4cb2e626f231/refmeu.png"
+    },
+    {
+      "section": "Supportive oil market, but is it enough?",
+      "title": "Bohai Bay crack spreads",
+      "image": "bcd98cdc-f591-4a31-a6f6-4cb2e626f231/refmchi.png"
+    },
+    {
+      "section": "Supportive oil market, but is it enough?",
+      "title": "Global refinery runs",
+      "image": "bcd98cdc-f591-4a31-a6f6-4cb2e626f231/ref.png"
+    },
+    {
+      "section": "(Too) High fleet growth to come",
+      "title": "Annual tanker deliveries",
+      "image": "bcd98cdc-f591-4a31-a6f6-4cb2e626f231/fleet.png"
+    },
+    {
+      "section": "(Too) High fleet growth to come",
+      "title": "Orderbook to fleet",
+      "image": "bcd98cdc-f591-4a31-a6f6-4cb2e626f231/ob.png"
+    },
+    {
+      "section": "(Too) High fleet growth to come",
+      "title": "Orderbook vs. phase-out",
+      "image": "bcd98cdc-f591-4a31-a6f6-4cb2e626f231/obout.png"
+    },
+    {
+      "section": "(Too) High fleet growth to come",
+      "title": "<2010 built VLCC, Suezmax & Afra/LR2 - mostly shadow",
+      "image": "bcd98cdc-f591-4a31-a6f6-4cb2e626f231/shadow.png"
+    },
+    {
+      "section": "Asset values well supported currently, downside risk ahead",
+      "title": "VLCC asset values",
+      "image": "bcd98cdc-f591-4a31-a6f6-4cb2e626f231/valv.png"
+    },
+    {
+      "section": "Asset values well supported currently, downside risk ahead",
+      "title": "Suezmax asset values",
+      "image": "bcd98cdc-f591-4a31-a6f6-4cb2e626f231/vals.png"
+    },
+    {
+      "section": "Asset values well supported currently, downside risk ahead",
+      "title": "Aframax asset values",
+      "image": "bcd98cdc-f591-4a31-a6f6-4cb2e626f231/vala.png"
+    },
+    {
+      "section": "Asset values well supported currently, downside risk ahead",
+      "title": "MR asset values",
+      "image": "bcd98cdc-f591-4a31-a6f6-4cb2e626f231/valm.png"
+    }
+  ]
 }

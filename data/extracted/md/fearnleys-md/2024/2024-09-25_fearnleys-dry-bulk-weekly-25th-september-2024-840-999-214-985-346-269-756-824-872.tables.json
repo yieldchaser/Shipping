@@ -4,24 +4,70 @@
   "year": 2024,
   "department": "BULK",
   "report_title": "Fearnleys Dry Bulk Weekly",
-  "shipment_volume_metrics": [],
-  "coal_futures_spread_metrics": [],
-  "time_charter_vs_asset_metrics": [],
-  "vessel_tightness_metrics": [],
-  "macro_correlation_metrics": [
-    {
-      "issue_date": "2024-09-25",
-      "year": "2024",
-      "department": "BULK",
-      "report_title": "Fearnleys Dry Bulk Weekly",
-      "macro_metric": "Iron Ore Price 3M Lead vs BCI5TC",
-      "freight_benchmark_val": 7816.9,
-      "macro_indicator_val": 129.2,
-      "lead_tenor": "3 Months",
-      "chart_title": "IRON ORE PRICE 3 MONTH LEAD VS BCI5TC.png",
-      "report_id": "0bde3a14-2d10-4ff1-868e-7f46296adb7e"
-    }
-  ],
+  "source_markdown": "2024-09-25_fearnleys-dry-bulk-weekly-25th-september-2024-840-999-214-985-346-269-756-824-872.md",
+  "tables": [],
+  "printed_image_tables": [],
   "charts_count": 12,
-  "source_markdown": "2024-09-25_fearnleys-dry-bulk-weekly-25th-september-2024-840-999-214-985-346-269-756-824-872.md"
+  "charts": [
+    {
+      "section": "Capesize/Newcastlemax",
+      "title": "VLOC Brazil Congestion",
+      "image": "0bde3a14-2d10-4ff1-868e-7f46296adb7e/VLOC BRAZIL CONGESTION.png"
+    },
+    {
+      "section": "Capesize/Newcastlemax",
+      "title": "Baltic Capesize Index 2022, 2023 and 2024 YTD",
+      "image": "0bde3a14-2d10-4ff1-868e-7f46296adb7e/BALTIC CAPE INDEX BY YEAR.png"
+    },
+    {
+      "section": "Capesize/Newcastlemax",
+      "title": "Iron Ore Price Lead vs BCI5TC",
+      "image": "0bde3a14-2d10-4ff1-868e-7f46296adb7e/IRON ORE PRICE 3 MONTH LEAD VS BCI5TC.png"
+    },
+    {
+      "section": "Capesize/Newcastlemax",
+      "title": "China Imported Iron Ore Consumption Lead vs BCI5TC",
+      "image": "0bde3a14-2d10-4ff1-868e-7f46296adb7e/CHINA IMPORTED IRON ORE CONSUMPTION LEAD VS CAPESIZE 1 MONTH CHANGE.png"
+    },
+    {
+      "section": "Panamax/Kamsarmax",
+      "title": "Panamax / Kamsarmax Heading to the US",
+      "image": "0bde3a14-2d10-4ff1-868e-7f46296adb7e/PANAMAX KAMSARMAX HEADING TO THE US.png"
+    },
+    {
+      "section": "Panamax/Kamsarmax",
+      "title": "Panamax / Kamsarmax Heading to Indonesia",
+      "image": "0bde3a14-2d10-4ff1-868e-7f46296adb7e/PANAMAX KAMSARMAX HEADING TO INDONESIA.png"
+    },
+    {
+      "section": "Panamax/Kamsarmax",
+      "title": "Panamax/Kamsarmax Seasonal Average Market Movement",
+      "image": "0bde3a14-2d10-4ff1-868e-7f46296adb7e/PANAMAX KAMSARMAX SEASONAL AVERAGE.png"
+    },
+    {
+      "section": "Panamax/Kamsarmax",
+      "title": "Panamax 1 Year TC 6 Months Change vs Copper Price Lead",
+      "image": "0bde3a14-2d10-4ff1-868e-7f46296adb7e/PANAMAX VS COPPER LEAD.png"
+    },
+    {
+      "section": "Supramax/Ultramax",
+      "title": "Supramax Seasonal Market Movement",
+      "image": "0bde3a14-2d10-4ff1-868e-7f46296adb7e/SUPRAMAX SEASONALITY.png"
+    },
+    {
+      "section": "Supramax/Ultramax",
+      "title": "Ultramax S4A and S8",
+      "image": "0bde3a14-2d10-4ff1-868e-7f46296adb7e/ULTRAMAX RATES.png"
+    },
+    {
+      "section": "Supramax/Ultramax",
+      "title": "Industrial Metals Prices, 6 Months Change vs BSI",
+      "image": "3a566ac9-bf60-4909-a46f-b43023083f12/INDUSTRIAL METALS 6 MONTHS CHANGE VS BSI.png"
+    },
+    {
+      "section": "Supramax/Ultramax",
+      "title": "Industrial Metals Prices, 3 Months Change vs BSI",
+      "image": "3a566ac9-bf60-4909-a46f-b43023083f12/INDUSTRIAL METALS 3 MONTHS CHANGE VS BSI.png"
+    }
+  ]
 }

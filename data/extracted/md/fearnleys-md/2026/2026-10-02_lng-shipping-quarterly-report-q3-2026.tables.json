@@ -4,11 +4,140 @@
   "year": 2026,
   "department": "LNG",
   "report_title": "LNG Shipping - Quarterly Report Q3 2026",
-  "shipment_volume_metrics": [],
-  "coal_futures_spread_metrics": [],
-  "time_charter_vs_asset_metrics": [],
-  "vessel_tightness_metrics": [],
-  "macro_correlation_metrics": [],
+  "source_markdown": "2026-10-02_lng-shipping-quarterly-report-q3-2026.md",
+  "tables": [],
+  "printed_image_tables": [],
   "charts_count": 26,
-  "source_markdown": "2026-10-02_lng-shipping-quarterly-report-q3-2026.md"
+  "charts": [
+    {
+      "section": "Summary",
+      "title": "Spot charter rates and JKM",
+      "image": "afbebada-a565-491d-a70d-11ac1790e6a0/lng and spot.png"
+    },
+    {
+      "section": "Charter Rates",
+      "title": "Two-stroke spot charter rates by region",
+      "image": "afbebada-a565-491d-a70d-11ac1790e6a0/spot by basin.png"
+    },
+    {
+      "section": "Charter Rates",
+      "title": "Average spot charter rates",
+      "image": "afbebada-a565-491d-a70d-11ac1790e6a0/spot svg.png"
+    },
+    {
+      "section": "Charter Rates",
+      "title": "1-year charter rates",
+      "image": "afbebada-a565-491d-a70d-11ac1790e6a0/1year.png"
+    },
+    {
+      "section": "Charter Rates",
+      "title": "Term charter rates (two-stroke)",
+      "image": "afbebada-a565-491d-a70d-11ac1790e6a0/longterm.png"
+    },
+    {
+      "section": "Charter Rates",
+      "title": "Monthly spot charter rates (two-stroke)",
+      "image": "afbebada-a565-491d-a70d-11ac1790e6a0/mnt 2str.png"
+    },
+    {
+      "section": "Charter Rates",
+      "title": "Quarterly spot charter rates (two-stroke)",
+      "image": "afbebada-a565-491d-a70d-11ac1790e6a0/qtr 2str.png"
+    },
+    {
+      "section": "Chartering Activity",
+      "title": "Short-term fixture activity (< 3 years)",
+      "image": "afbebada-a565-491d-a70d-11ac1790e6a0/shorttemr fixt.png"
+    },
+    {
+      "section": "Chartering Activity",
+      "title": "Short term fixtures by sublet vs independent owners",
+      "image": "afbebada-a565-491d-a70d-11ac1790e6a0/sub vs ind.png"
+    },
+    {
+      "section": "Chartering Activity",
+      "title": "Q3 short-term fixtures by propulsion and owner type",
+      "image": "afbebada-a565-491d-a70d-11ac1790e6a0/prop fixt.png"
+    },
+    {
+      "section": "Chartering Activity",
+      "title": "Short-term fixtures in Q3 (count)",
+      "image": "afbebada-a565-491d-a70d-11ac1790e6a0/q3 count.png"
+    },
+    {
+      "section": "Chartering Activity",
+      "title": "Short-term fixtures in Q3 (fixed days)",
+      "image": "afbebada-a565-491d-a70d-11ac1790e6a0/q3 fixed days.png"
+    },
+    {
+      "section": "Trade Flows",
+      "title": "Quarterly loaded LNG",
+      "image": "afbebada-a565-491d-a70d-11ac1790e6a0/loaded q.png"
+    },
+    {
+      "section": "Trade Flows",
+      "title": "Monthly loaded LNG",
+      "image": "afbebada-a565-491d-a70d-11ac1790e6a0/loaded m.png"
+    },
+    {
+      "section": "Trade Flows",
+      "title": "Global tonne-miles",
+      "image": "afbebada-a565-491d-a70d-11ac1790e6a0/tmi.png"
+    },
+    {
+      "section": "Trade Flows",
+      "title": "Tonne-miles by propulsion (Q1-Q3)",
+      "image": "afbebada-a565-491d-a70d-11ac1790e6a0/q1 to q3 tmi by prop.png"
+    },
+    {
+      "section": "Trade Flows",
+      "title": "Destination of US LNG",
+      "image": "afbebada-a565-491d-a70d-11ac1790e6a0/us lng abs.png"
+    },
+    {
+      "section": "Trade Flows",
+      "title": "Destination of US LNG, share",
+      "image": "afbebada-a565-491d-a70d-11ac1790e6a0/dest us lng.png"
+    },
+    {
+      "section": "Trade Flows",
+      "title": "Q3 2025 vs 2026 by exporting country",
+      "image": "afbebada-a565-491d-a70d-11ac1790e6a0/waterfall.png"
+    },
+    {
+      "section": "Trade Flows",
+      "title": "Q3 2025 vs 2026 by importing country",
+      "image": "afbebada-a565-491d-a70d-11ac1790e6a0/waterfall imp new.png"
+    },
+    {
+      "section": "LNGC Fleet",
+      "title": "LNGC fleet by status",
+      "image": "afbebada-a565-491d-a70d-11ac1790e6a0/status.png"
+    },
+    {
+      "section": "LNGC Fleet",
+      "title": "LNGC orders",
+      "image": "afbebada-a565-491d-a70d-11ac1790e6a0/orders.png"
+    },
+    {
+      "section": "LNGC Fleet",
+      "title": "LNGC deliveries",
+      "image": "afbebada-a565-491d-a70d-11ac1790e6a0/deliveries.png"
+    },
+    {
+      "section": "LNGC Fleet",
+      "title": "LNGC newbuild prices",
+      "image": "afbebada-a565-491d-a70d-11ac1790e6a0/nbprice.png"
+    },
+    {
+      "section": "LNGC Fleet",
+      "title": "Orderbook by yard",
+      "image": "afbebada-a565-491d-a70d-11ac1790e6a0/ob yard.png"
+    },
+    {
+      "section": "Outlook",
+      "title": "Ships needed vs fleet count (with current orderbook and estimated number of ships leaving the trading fleet)",
+      "image": "afbebada-a565-491d-a70d-11ac1790e6a0/balance new.png"
+    }
+  ]
 }

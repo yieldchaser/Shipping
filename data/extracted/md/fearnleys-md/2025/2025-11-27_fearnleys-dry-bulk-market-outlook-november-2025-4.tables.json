@@ -4,11 +4,554 @@
   "year": 2025,
   "department": "BULK",
   "report_title": "Fearnleys Dry Bulk Market Outlook",
-  "shipment_volume_metrics": [],
-  "coal_futures_spread_metrics": [],
-  "time_charter_vs_asset_metrics": [],
-  "vessel_tightness_metrics": [],
-  "macro_correlation_metrics": [],
+  "source_markdown": "2025-11-27_fearnleys-dry-bulk-market-outlook-november-2025-4.md",
+  "tables": [
+    {
+      "section": "Fleet Statistics (In Million DWT)",
+      "header": [
+        "",
+        "Total Fleet",
+        "CapeNewc",
+        "Pmx/Kmx",
+        "Smx/Hmx",
+        "Handy"
+      ],
+      "rows": [
+        [
+          "2024",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "Deliveries",
+          "32",
+          "7.7",
+          "8.8",
+          "10.2",
+          "5.3"
+        ],
+        [
+          "Scrapping",
+          "3.3",
+          "0.7",
+          "1.4",
+          "0",
+          "1.1"
+        ],
+        [
+          "Fleet Growth",
+          "3.0%",
+          "1.9%",
+          "3.0%",
+          "5.0%",
+          "3.0%"
+        ],
+        [
+          "2025 YTD",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "Deliveries",
+          "33.1",
+          "6.7",
+          "8.9",
+          "12.3",
+          "5.2"
+        ],
+        [
+          "Remaining on Schedule",
+          "8.1",
+          "1.4",
+          "2.8",
+          "2.5",
+          "1.4"
+        ],
+        [
+          "Scrapping",
+          "3.6",
+          "1.2",
+          "1.3",
+          "0.1",
+          "1"
+        ],
+        [
+          "YoY Fleet Growth (November)",
+          "3.1%",
+          "1.5%",
+          "3.1%",
+          "5.2%",
+          "3.0%"
+        ]
+      ]
+    },
+    {
+      "section": "TRADE FLOWS YEAR ON YEAR GROWTH",
+      "header": [
+        "",
+        "Iron Ore",
+        "Coal",
+        "Grains",
+        "Others",
+        "Total"
+      ],
+      "rows": [
+        [
+          "Jul-24",
+          "-1%",
+          "-3%",
+          "6%",
+          "4%",
+          "0.7%"
+        ],
+        [
+          "Aug-24",
+          "3%",
+          "7%",
+          "-2%",
+          "9%",
+          "5.6%"
+        ],
+        [
+          "Sep-24",
+          "5%",
+          "1%",
+          "-9%",
+          "10%",
+          "4.3%"
+        ],
+        [
+          "Oct-24",
+          "-5%",
+          "5%",
+          "-6%",
+          "6%",
+          "1.7%"
+        ],
+        [
+          "Nov-24",
+          "-1%",
+          "7%",
+          "-1%",
+          "12%",
+          "5.5%"
+        ],
+        [
+          "Dec-24",
+          "-4%",
+          "-1%",
+          "-16%",
+          "6%",
+          "-1.1%"
+        ],
+        [
+          "Jan-25",
+          "-4%",
+          "-2%",
+          "-6%",
+          "11%",
+          "0.2%"
+        ],
+        [
+          "Feb-25",
+          "-6%",
+          "-12%",
+          "-11%",
+          "10%",
+          "-4.2%"
+        ],
+        [
+          "Mar-25",
+          "1%",
+          "-5%",
+          "-3%",
+          "14%",
+          "2.5%"
+        ],
+        [
+          "Apr-25",
+          "1%",
+          "-6%",
+          "-6%",
+          "9%",
+          "1.0%"
+        ],
+        [
+          "May-25",
+          "3%",
+          "-12%",
+          "1%",
+          "9%",
+          "0.4%"
+        ],
+        [
+          "Jun-25",
+          "1%",
+          "-10%",
+          "-3%",
+          "8%",
+          "-0.8%"
+        ],
+        [
+          "Jul-25",
+          "4%",
+          "2%",
+          "7%",
+          "11%",
+          "6.2%"
+        ],
+        [
+          "Aug-25",
+          "4%",
+          "-1%",
+          "11%",
+          "5%",
+          "4.5%"
+        ],
+        [
+          "Sep-25",
+          "4%",
+          "1%",
+          "19%",
+          "8%",
+          "5.4%"
+        ],
+        [
+          "Oct-25",
+          "12%",
+          "-2%",
+          "-2%",
+          "5%",
+          "5.9%"
+        ]
+      ]
+    },
+    {
+      "section": "TRADE FLOWS YEAR ON YEAR GROWTH",
+      "header": [
+        "",
+        "100 - 220 KDWT",
+        "25 - 100 KDWT"
+      ],
+      "rows": [
+        [
+          "Jul-24",
+          "-1%",
+          "2%"
+        ],
+        [
+          "Aug-24",
+          "6%",
+          "5%"
+        ],
+        [
+          "Sep-24",
+          "3%",
+          "5%"
+        ],
+        [
+          "Oct-24",
+          "-6%",
+          "7%"
+        ],
+        [
+          "Nov-24",
+          "6%",
+          "7%"
+        ],
+        [
+          "Dec-24",
+          "-5%",
+          "1%"
+        ],
+        [
+          "Jan-25",
+          "-2%",
+          "2%"
+        ],
+        [
+          "Feb-25",
+          "-7%",
+          "-3%"
+        ],
+        [
+          "Mar-25",
+          "-2%",
+          "5%"
+        ],
+        [
+          "Apr-25",
+          "-1%",
+          "0%"
+        ],
+        [
+          "May-25",
+          "1%",
+          "0%"
+        ],
+        [
+          "Jun-25",
+          "-2%",
+          "0%"
+        ],
+        [
+          "Jul-25",
+          "3%",
+          "7%"
+        ],
+        [
+          "Aug-25",
+          "-1%",
+          "6%"
+        ],
+        [
+          "Sep-25",
+          "4%",
+          "7%"
+        ],
+        [
+          "Oct-25",
+          "14%",
+          "2%"
+        ]
+      ]
+    },
+    {
+      "section": "TRADE FLOWS YEAR ON YEAR GROWTH",
+      "header": [
+        "",
+        "Far East",
+        "India + MEG",
+        "Southeast Asia"
+      ],
+      "rows": [
+        [
+          "Jul-24",
+          "5%",
+          "8%",
+          "17%"
+        ],
+        [
+          "Aug-24",
+          "1%",
+          "2%",
+          "14%"
+        ],
+        [
+          "Sep-24",
+          "0%",
+          "-3%",
+          "19%"
+        ],
+        [
+          "Oct-24",
+          "5%",
+          "-4%",
+          "20%"
+        ],
+        [
+          "Nov-24",
+          "2%",
+          "-9%",
+          "14%"
+        ],
+        [
+          "Dec-24",
+          "6%",
+          "-1%",
+          "11%"
+        ],
+        [
+          "Jan-25",
+          "-8%",
+          "12%",
+          "12%"
+        ],
+        [
+          "Feb-25",
+          "-10%",
+          "0%",
+          "10%"
+        ],
+        [
+          "Mar-25",
+          "-7%",
+          "-1%",
+          "10%"
+        ],
+        [
+          "Apr-25",
+          "-1%",
+          "5%",
+          "5%"
+        ],
+        [
+          "May-25",
+          "-2%",
+          "4%",
+          "3%"
+        ],
+        [
+          "Jun-25",
+          "-1%",
+          "6%",
+          "7%"
+        ],
+        [
+          "Jul-25",
+          "-1%",
+          "9%",
+          "-4%"
+        ],
+        [
+          "Aug-25",
+          "4%",
+          "10%",
+          "1%"
+        ],
+        [
+          "Sep-25",
+          "8%",
+          "20%",
+          "-1%"
+        ],
+        [
+          "Oct-25",
+          "0%",
+          "5%",
+          "6%"
+        ]
+      ]
+    }
+  ],
+  "printed_image_tables": [],
   "charts_count": 24,
-  "source_markdown": "2025-11-27_fearnleys-dry-bulk-market-outlook-november-2025-4.md"
+  "charts": [
+    {
+      "section": "SUMMARY AND OUTLOOK",
+      "title": "Earnings Forecasts 26 and 27",
+      "image": "ea8ea5fb-7d78-4245-a743-7b0af4cf111d/Rate forecasts.png"
+    },
+    {
+      "section": "SUMMARY AND OUTLOOK",
+      "title": "Dry Bulk Shipment Volume Growth vs Supply Growth (All Segments)",
+      "image": "ea8ea5fb-7d78-4245-a743-7b0af4cf111d/supply vs demand.png"
+    },
+    {
+      "section": "Fleet Statistics (In Million DWT)",
+      "title": "SHIP SAILING",
+      "image": "436c0724-14ee-4032-bd46-544971cf69bf/SHIP SAILING.jfif"
+    },
+    {
+      "section": "Fleet Growth and Forward Estimates (ex Scrapping and Delivery Delays or Cancellations)",
+      "title": "Total Fleet Growth Including Estimate",
+      "image": "ea8ea5fb-7d78-4245-a743-7b0af4cf111d/total fleet growth.png"
+    },
+    {
+      "section": "Fleet Growth and Forward Estimates (ex Scrapping and Delivery Delays or Cancellations)",
+      "title": "Cape/Newc Fleet Growth Including Estimate",
+      "image": "ea8ea5fb-7d78-4245-a743-7b0af4cf111d/capesize fleet growth.png"
+    },
+    {
+      "section": "Fleet Growth and Forward Estimates (ex Scrapping and Delivery Delays or Cancellations)",
+      "title": "VLOC Fleet Growth Including Estimate",
+      "image": "e985080c-2474-44f1-84d7-c8f9f3461c49/vloc fleet growth.png"
+    },
+    {
+      "section": "Fleet Growth and Forward Estimates (ex Scrapping and Delivery Delays or Cancellations)",
+      "title": "Panamax/Kamsarmax Fleet Growth Including Estimate",
+      "image": "ea8ea5fb-7d78-4245-a743-7b0af4cf111d/panamax fleet growth.png"
+    },
+    {
+      "section": "Fleet Growth and Forward Estimates (ex Scrapping and Delivery Delays or Cancellations)",
+      "title": "Supramax/Ultramax Fleet Growth Including Estimate",
+      "image": "ea8ea5fb-7d78-4245-a743-7b0af4cf111d/supramax fleet growth.png"
+    },
+    {
+      "section": "Fleet Growth and Forward Estimates (ex Scrapping and Delivery Delays or Cancellations)",
+      "title": "Handysize Fleet Growth Including Estimate",
+      "image": "ea8ea5fb-7d78-4245-a743-7b0af4cf111d/handysize fleet growth.png"
+    },
+    {
+      "section": "PERIOD RATES AND ASSET VALUES",
+      "title": "Capesize 1 Year TC vs Capesize 10 Year Old (Japanese)",
+      "image": "ea8ea5fb-7d78-4245-a743-7b0af4cf111d/cape1yr tc vs asset.png"
+    },
+    {
+      "section": "PERIOD RATES AND ASSET VALUES",
+      "title": "Panamax/Kamsarmax 1 Year TC vs Panamax/Kamsarmax 10 Year Old (Japanese)",
+      "image": "ea8ea5fb-7d78-4245-a743-7b0af4cf111d/panamax 1 yr tc vs asset.png"
+    },
+    {
+      "section": "PERIOD RATES AND ASSET VALUES",
+      "title": "Supramax 1 Year TC vs Supramax 10 Year Old (Japanese)",
+      "image": "ea8ea5fb-7d78-4245-a743-7b0af4cf111d/supramax 1 yr tc vs asset.png"
+    },
+    {
+      "section": "PERIOD RATES AND ASSET VALUES",
+      "title": "Handysize 1 Year TC vs Handysize 10 Year Old (Japanese)",
+      "image": "ea8ea5fb-7d78-4245-a743-7b0af4cf111d/handysize 1yr tc vs asset.png"
+    },
+    {
+      "section": "Asset Values vs Commodity Prices",
+      "title": "Copper Price vs Capesize 10 Year Old",
+      "image": "ea8ea5fb-7d78-4245-a743-7b0af4cf111d/copper vs capesize.png"
+    },
+    {
+      "section": "Asset Values vs Commodity Prices",
+      "title": "Copper Price vs Kamsarmax 10 Year Old",
+      "image": "ea8ea5fb-7d78-4245-a743-7b0af4cf111d/copper vs kamsarmax.png"
+    },
+    {
+      "section": "Asset Values vs Commodity Prices",
+      "title": "Copper Price vs Supramax 10 Year Old",
+      "image": "ea8ea5fb-7d78-4245-a743-7b0af4cf111d/copper vs supramax.png"
+    },
+    {
+      "section": "Asset Values vs Commodity Prices",
+      "title": "Dry Bulk Newbuilding Prices",
+      "image": "ea8ea5fb-7d78-4245-a743-7b0af4cf111d/NB prices.png"
+    },
+    {
+      "section": "Asset Values vs Commodity Prices",
+      "title": "LME Copper Price vs Panamax/Kamsarmax NB Price",
+      "image": "ea8ea5fb-7d78-4245-a743-7b0af4cf111d/copper vs NB.png"
+    },
+    {
+      "section": "MACRO ECONOMIC OUTLOOK",
+      "title": "Baltic Dry Index Year on Year Change vs China Credit Growth (12 Months Lead)",
+      "image": "ea8ea5fb-7d78-4245-a743-7b0af4cf111d/CHINA CREDIT vs BDI.png"
+    },
+    {
+      "section": "MACRO ECONOMIC OUTLOOK",
+      "title": "China Economic Growth Index vs Global Dry Bulk Shipments Growth",
+      "image": "ea8ea5fb-7d78-4245-a743-7b0af4cf111d/CHINA ECONOMIC GROWTH INDEX VS DRY BULK DEMAND GROWTH.png"
+    },
+    {
+      "section": "MACRO ECONOMIC OUTLOOK",
+      "title": "WTI Crude Oil Price YoY, 1 Year Lead vs BDI YoY",
+      "image": "ea8ea5fb-7d78-4245-a743-7b0af4cf111d/CRUDE OIL PRICE LEAD VS BDI.png"
+    },
+    {
+      "section": "MACRO ECONOMIC OUTLOOK",
+      "title": "# of Central Bank Rates Lower than 18 Months Ago, vs Pmx/Kmx 1 Year TC 18 Months Change",
+      "image": "ea8ea5fb-7d78-4245-a743-7b0af4cf111d/CENTRAL BANK RATES VS KAMSARMAX 1 YEAR TC.png"
+    },
+    {
+      "section": "MACRO ECONOMIC OUTLOOK",
+      "title": "OECD G-20 Diffusion Index vs BDI YoY",
+      "image": "ea8ea5fb-7d78-4245-a743-7b0af4cf111d/OECD Diffusion Index vs BDI YoY.png"
+    },
+    {
+      "section": "MACRO ECONOMIC OUTLOOK",
+      "title": "Broad US Dollar Index Year on Year vs Dry Bulk Shipment Volume Growth",
+      "image": "ea8ea5fb-7d78-4245-a743-7b0af4cf111d/dollar vs dry bulk demand.png"
+    }
+  ]
 }

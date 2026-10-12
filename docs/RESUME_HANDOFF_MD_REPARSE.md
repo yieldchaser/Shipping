@@ -4,7 +4,26 @@ Last updated: 2026-10-12 ~03:00 IST. Worktree: `.claude/worktrees/maritime-audit
 branch `claude/restore-damaged-md` (WIP pushed to origin). Goal: every `data/extracted/md` file correct
 and well-formatted for the DeepSeek GraphRAG build, plus end-to-end ingest automation.
 
-## RESUME HERE (2026-10-12 ~03:00 IST)
+## RESUME HERE (2026-10-12 night) — GIBSON + FEARNLEYS DONE, NEXT BANCHERO
+
+- **Gibson** done (pushed b2a9bd3a5e). 5 WordPress error-page MDs removed (4 duplicated good PDF-era MDs;
+  2023-11-24 production-predicament is lost upstream). `run_gibson_html.py` never caches or parses error pages.
+- **Fearnleys weekly** (259 MDs): commentary only (`fearnleys_commentary_rebuild.py`); voice feed repaired.
+- **fearnleys-md** (184 reports): bodies rebuilt from the Hasura `custom_report` blocks with
+  `scripts/md_cleanup/fearnleys_md_rebuild.py` (also used by `run_fearnleys_md_normalized.py`, so CI reproduces them
+  byte-for-byte). Every block type renders (column paragraphs, source lines, tables, third-width charts, titles).
+  PDF check: of 8,927 sentences of 10+ words, only chart-title runs and page footers are unmatched.
+  The 14 Cape composite-model images are printed tables, transcribed in `fearnleys_md_image_tables.md`
+  (numbers match RapidOCR for all 14).
+- **Quarantined** the five `fearnleys_md_*` series and the master xlsx to `data/_quarantine/fearnleys_md/` (README has
+  the proof). `export_fearnleys_md_excel.py` was moved to `scripts/_quarantine/`. `run_fearnleys_md_full_power.py`
+  now writes exact sidecars only. The old CHART_RECURRENCE doc moved out of the corpus to
+  `docs/FEARNLEYS_MD_CHART_RECURRENCE_SUPERSEDED.md`.
+- **Owner decisions open**: the recurring raster charts have no exact data (no estimates under the rules); the 643
+  duplicate voice records; the 7,014 one-word route-trend MDs.
+- **Next**: Banchero (5,212 chart-title leads), then Lion, SSY, Affinity.
+
+## Earlier: RESUME HERE (2026-10-12 ~03:00 IST)
 
 - **Dec 2023 ingest DONE**: validator PASS, pushed 44ae062ad4 (main + branch).
 

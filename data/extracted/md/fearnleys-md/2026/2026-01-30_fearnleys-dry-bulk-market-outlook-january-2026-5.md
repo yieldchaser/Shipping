@@ -20,148 +20,215 @@ pdf_url: "https://pbrkapp.blob.core.windows.net/report/851eb7d3-639e-419d-99c8-1
 ### SUMMARY AND OUTLOOK
 
 In our previous update sent in late November, we wrote:
+
 *We updated our earnings estimates for next year, reflecting that we think 2026 is likely to average a bit higher than in 2024. Commodity price levels (industrial metals, iron ore, coal, oil), manufacturing data, interest rate levels, cycle comparisons, and the supply situation all look comparably stronger than the months before we entered 2024. So, we think it is reasonable to expect the highs in second-hand values and 1-year tc rates seen that year for Kamsarmaxes, Ultras/Supras and Handies to be reached and/or exceeded next year, probably during Q2. For Capes, the story is a bit different in terms of second-hand values, as values have kept climbing despite the market weakness seen between Q4 last year and the first half of this year. Further upside is harder to expect, even with a bullish outlook on fundamentals. 2027 is still premature to call, but tentatively, we expect the markets to average lower than in 2026.*
 
-We still see the same fundamental strength that led us to give the view that this year should be even stronger than in 2024. We think a higher average than 2022 (BDI 1933) is also likely, with the difference this year being higher average earnings for Capes/Newcs but lower for Kamsarmaxes down to Handysizes. 
+We still see the same fundamental strength that led us to give the view that this year should be even stronger than in 2024. We think a higher average than 2022 (BDI 1933) is also likely, with the difference this year being higher average earnings for Capes/Newcs but lower for Kamsarmaxes down to Handysizes.
 
 **Factors on why we are bullish on 2026 market prospects:**
--	Global manufacturing is in expansion. This supports all commodity groups. 
--	Industrial Metals prices have surged to the highest level since early 2022. These prices has correlated tightly with 1-year TC rates and second-hand values in the last 10 years. 
--	Coal prices bottomed in April last year and have risen slowly since then. The coal futures curve structure is the most backwardated since the beginning of 2024. 
+-	Global manufacturing is in expansion. This supports all commodity groups.
+-	Industrial Metals prices have surged to the highest level since early 2022. These prices has correlated tightly with 1-year TC rates and second-hand values in the last 10 years.
+-	Coal prices bottomed in April last year and have risen slowly since then. The coal futures curve structure is the most backwardated since the beginning of 2024.
 -	Coal shipment volume growth turned positive at the end of last year after being deeply negative at the start of 2025. 5-year energy cycle repeating?
--	Iron ore shipment volume growth increased significantly during the second half of last year. The three-year cycle suggests strong growth until mid 2026, after which growth might start falling. Iron ore prices, spreads and curve structures look good, but its not "booming". 
--	Bauxite growth should continue due to continued Alumina smelter capacity additions in China. Growth likely to slow from last year's pace, however. 
--	Projections for the ECSAM grain season is to see higher volumes than last year. 
--	All the above is likely to be strongly supported through most or all of this year by factors like relatively cheap oil prices, global interest rate cuts, high global credit growth and a weak US Dollar. 
+-	Iron ore shipment volume growth increased significantly during the second half of last year. The three-year cycle suggests strong growth until mid 2026, after which growth might start falling. Iron ore prices, spreads and curve structures look good, but its not “booming”.
+-	Bauxite growth should continue due to continued Alumina smelter capacity additions in China. Growth likely to slow from last year’s pace, however.
+-	Projections for the ECSAM grain season is to see higher volumes than last year.
+-	All the above is likely to be strongly supported through most or all of this year by factors like relatively cheap oil prices, global interest rate cuts, high global credit growth and a weak US Dollar.
 -	Regarding supply, total dwt additions are likely to end slightly lower than 3%. Ships having to go in for special survey this year will reduce the effective supply by between 0.5% and 1.0%.
 
-> **Chart 1: Earnings Forecasts 26 and 27**  
-> *Figure Asset:* [`Rate forecasts.png`](../images/851eb7d3-639e-419d-99c8-127807db7bda/Rate%20forecasts.png)
+![Earnings Forecasts 26 and 27](../../../../../corpus/01-brokers/fearnleys-md/images/851eb7d3-639e-419d-99c8-127807db7bda/Rate%20forecasts.png)
+*Chart: Earnings Forecasts 26 and 27*
 
-> **Chart 2: Dry Bulk Shipment Volume Growth vs Supply Growth (All Segments)**  
-> *Figure Asset:* [`supply vs demand.png`](../images/851eb7d3-639e-419d-99c8-127807db7bda/supply%20vs%20demand.png)
-
----
+![Dry Bulk Shipment Volume Growth vs Supply Growth (All Segments)](../../../../../corpus/01-brokers/fearnleys-md/images/851eb7d3-639e-419d-99c8-127807db7bda/supply%20vs%20demand.png)
+*Chart: Dry Bulk Shipment Volume Growth vs Supply Growth (All Segments)*
 
 ### Fleet Statistics (In Million DWT)
 
-> **Chart 3: Indicator Chart**  
-> *Figure Asset:* [`SHIP SAILING.jfif`](../images/436c0724-14ee-4032-bd46-544971cf69bf/SHIP%20SAILING.jfif)
+|  | Total Fleet | CapeNewc | Pmx/Kmx | Smx/Hmx | Handy |
+|---|---|---|---|---|---|
+| 2025 |  |  |  |  |  |
+| Deliveries | 36 | 7.2 | 9.9 | 13.1 | 5.8 |
+| Scrapping | 3.7 | 1 | 1.3 | 0.1 | 1.1 |
+| Fleet Growth | 3.0% | 1.9% | 3.3% | 5.2% | 4.1% |
+| 2026 YTD |  |  |  |  |  |
+| Deliveries | 5.1 | 0.8 | 1.7 | 2 | 0.6 |
+| Remaining on Schedule | 42.1 | 9.4 | 15.2 | 12.0 | 5.5 |
+| Scrapping | 0.5 | 0.0 | 0 | 0 | 0.5 |
+| YoY Fleet Growth (January) | 3.1% | 1.6% | 2.7% | 5.2% | 3.0% |
 
----
+![SHIP SAILING](../../../../../corpus/01-brokers/fearnleys-md/images/436c0724-14ee-4032-bd46-544971cf69bf/SHIP%20SAILING.jfif)
+*Chart: SHIP SAILING*
 
 ## Fleet Growth and Forward Estimates (ex Scrapping and Delivery Delays or Cancellations)
 
-> **Chart 4: Total Fleet Growth Including Estimate**  
-> *Figure Asset:* [`total fleet growth.png`](../images/851eb7d3-639e-419d-99c8-127807db7bda/total%20fleet%20growth.png)
+![Total Fleet Growth Including Estimate](../../../../../corpus/01-brokers/fearnleys-md/images/851eb7d3-639e-419d-99c8-127807db7bda/total%20fleet%20growth.png)
+*Chart: Total Fleet Growth Including Estimate*
 
-> **Chart 5: Cape/Newc Fleet Growth Including Estimate**  
-> *Figure Asset:* [`capenewc fleet growth.png`](../images/851eb7d3-639e-419d-99c8-127807db7bda/capenewc%20fleet%20growth.png)
+![Cape/Newc Fleet Growth Including Estimate](../../../../../corpus/01-brokers/fearnleys-md/images/851eb7d3-639e-419d-99c8-127807db7bda/capenewc%20fleet%20growth.png)
+*Chart: Cape/Newc Fleet Growth Including Estimate*
 
-> **Chart 6: VLOC Fleet Growth Including Estimate**  
-> *Figure Asset:* [`vloc fleet growth.png`](../images/851eb7d3-639e-419d-99c8-127807db7bda/vloc%20fleet%20growth.png)
+![VLOC Fleet Growth Including Estimate](../../../../../corpus/01-brokers/fearnleys-md/images/851eb7d3-639e-419d-99c8-127807db7bda/vloc%20fleet%20growth.png)
+*Chart: VLOC Fleet Growth Including Estimate*
 
-> **Chart 7: Panamax/Kamsarmax Fleet Growth Including Estimate**  
-> *Figure Asset:* [`panamax fleet growth.png`](../images/851eb7d3-639e-419d-99c8-127807db7bda/panamax%20fleet%20growth.png)
+![Panamax/Kamsarmax Fleet Growth Including Estimate](../../../../../corpus/01-brokers/fearnleys-md/images/851eb7d3-639e-419d-99c8-127807db7bda/panamax%20fleet%20growth.png)
+*Chart: Panamax/Kamsarmax Fleet Growth Including Estimate*
 
-> **Chart 8: Supramax/Ultramax Fleet Growth Including Estimate**  
-> *Figure Asset:* [`supraultra fleet growth.png`](../images/851eb7d3-639e-419d-99c8-127807db7bda/supraultra%20fleet%20growth.png)
+![Supramax/Ultramax Fleet Growth Including Estimate](../../../../../corpus/01-brokers/fearnleys-md/images/851eb7d3-639e-419d-99c8-127807db7bda/supraultra%20fleet%20growth.png)
+*Chart: Supramax/Ultramax Fleet Growth Including Estimate*
 
-> **Chart 9: Handysize Fleet Growth Including Estimate**  
-> *Figure Asset:* [`handysize fleet growth.png`](../images/851eb7d3-639e-419d-99c8-127807db7bda/handysize%20fleet%20growth.png)
+![Handysize Fleet Growth Including Estimate](../../../../../corpus/01-brokers/fearnleys-md/images/851eb7d3-639e-419d-99c8-127807db7bda/handysize%20fleet%20growth.png)
+*Chart: Handysize Fleet Growth Including Estimate*
 
----
+*IHS, Fearnleys*
 
 ## PERIOD RATES AND ASSET VALUES
 
-Since 2023, the correlation between 1-year time charter rates and secondhand values has dropped considerably compared with the 2010-2022 period. 
+Since 2023, the correlation between 1-year time charter rates and secondhand values has dropped considerably compared with the 2010-2022 period.
 
-All values remain high based on the 2010-2022 regime, but based on the 2023 onwards regime, values are now fair compared with 1-year TC rates. As outlined already in this report, we think 1-year TC rates are likely to surpass the 2024 highs this year. This suggests values could rise to the peak levels seen in 2024 or higher (for sub-Cape/Newcs). 
+All values remain high based on the 2010-2022 regime, but based on the 2023 onwards regime, values are now fair compared with 1-year TC rates. As outlined already in this report, we think 1-year TC rates are likely to surpass the 2024 highs this year. This suggests values could rise to the peak levels seen in 2024 or higher (for sub-Cape/Newcs).
+
 For Capes/Newcs, we expect values to be stable or rise slightly in the months.
 
-> **Chart 10: Capesize 1 Year TC vs Capesize 10 Year Old (Japanese)**  
-> *Figure Asset:* [`cape1yr tc vs asset.png`](../images/851eb7d3-639e-419d-99c8-127807db7bda/cape1yr%20tc%20vs%20asset.png)
+![Capesize 1 Year TC vs Capesize 10 Year Old (Japanese)](../../../../../corpus/01-brokers/fearnleys-md/images/851eb7d3-639e-419d-99c8-127807db7bda/cape1yr%20tc%20vs%20asset.png)
+*Chart: Capesize 1 Year TC vs Capesize 10 Year Old (Japanese)*
 
-> **Chart 11: Panamax/Kamsarmax 1 Year TC vs Panamax/Kamsarmax 10 Year Old (Japanese)**  
-> *Figure Asset:* [`panamax 1 yr tc vs asset.png`](../images/851eb7d3-639e-419d-99c8-127807db7bda/panamax%201%20yr%20tc%20vs%20asset.png)
+![Panamax/Kamsarmax 1 Year TC vs Panamax/Kamsarmax 10 Year Old (Japanese)](../../../../../corpus/01-brokers/fearnleys-md/images/851eb7d3-639e-419d-99c8-127807db7bda/panamax%201%20yr%20tc%20vs%20asset.png)
+*Chart: Panamax/Kamsarmax 1 Year TC vs Panamax/Kamsarmax 10 Year Old (Japanese)*
 
-> **Chart 12: Supramax 1 Year TC vs Supramax 10 Year Old (Japanese)**  
-> *Figure Asset:* [`supramax 1 yr tc vs asset.png`](../images/851eb7d3-639e-419d-99c8-127807db7bda/supramax%201%20yr%20tc%20vs%20asset.png)
+![Supramax 1 Year TC vs Supramax 10 Year Old (Japanese)](../../../../../corpus/01-brokers/fearnleys-md/images/851eb7d3-639e-419d-99c8-127807db7bda/supramax%201%20yr%20tc%20vs%20asset.png)
+*Chart: Supramax 1 Year TC vs Supramax 10 Year Old (Japanese)*
 
-> **Chart 13: Handysize 1 Year TC vs Handysize 10 Year Old (Japanese)**  
-> *Figure Asset:* [`handysize 1yr tc vs asset.png`](../images/851eb7d3-639e-419d-99c8-127807db7bda/handysize%201yr%20tc%20vs%20asset.png)
-
----
+![Handysize 1 Year TC vs Handysize 10 Year Old (Japanese)](../../../../../corpus/01-brokers/fearnleys-md/images/851eb7d3-639e-419d-99c8-127807db7bda/handysize%201yr%20tc%20vs%20asset.png)
+*Chart: Handysize 1 Year TC vs Handysize 10 Year Old (Japanese)*
 
 ### Asset Values vs Commodity Prices
 
 Industrial metal prices often precede the change in second-hand values by around six months. The charts below display the price of copper against second-hand values since 2014. The correlation is high because the price of copper is a barometer of industrial activity and also reflects inflationary or deflationary periods. The price of copper keeps surging and suggest second-hand values could climb significantly. Earnings are not there to support second-hand values rising like the price of copper is suggesting, however...
 
-> **Chart 14: Copper Price vs Capesize 10 Year Old**  
-> *Figure Asset:* [`copper vs capesize.png`](../images/851eb7d3-639e-419d-99c8-127807db7bda/copper%20vs%20capesize.png)
+![Copper Price vs Capesize 10 Year Old](../../../../../corpus/01-brokers/fearnleys-md/images/851eb7d3-639e-419d-99c8-127807db7bda/copper%20vs%20capesize.png)
+*Chart: Copper Price vs Capesize 10 Year Old*
 
-> **Chart 15: Copper Price vs Kamsarmax 10 Year Old**  
-> *Figure Asset:* [`copper vs kamsarmax.png`](../images/851eb7d3-639e-419d-99c8-127807db7bda/copper%20vs%20kamsarmax.png)
+![Copper Price vs Kamsarmax 10 Year Old](../../../../../corpus/01-brokers/fearnleys-md/images/851eb7d3-639e-419d-99c8-127807db7bda/copper%20vs%20kamsarmax.png)
+*Chart: Copper Price vs Kamsarmax 10 Year Old*
 
-> **Chart 16: Copper Price vs Supramax 10 Year Old**  
-> *Figure Asset:* [`copper vs supramax.png`](../images/851eb7d3-639e-419d-99c8-127807db7bda/copper%20vs%20supramax.png)
+![Copper Price vs Supramax 10 Year Old](../../../../../corpus/01-brokers/fearnleys-md/images/851eb7d3-639e-419d-99c8-127807db7bda/copper%20vs%20supramax.png)
+*Chart: Copper Price vs Supramax 10 Year Old*
 
-> **Chart 17: Dry Bulk Newbuilding Prices**  
-> *Figure Asset:* [`NB prices.png`](../images/ea8ea5fb-7d78-4245-a743-7b0af4cf111d/NB%20prices.png)
+![Dry Bulk Newbuilding Prices](../../../../../corpus/01-brokers/fearnleys-md/images/ea8ea5fb-7d78-4245-a743-7b0af4cf111d/NB%20prices.png)
+*Chart: Dry Bulk Newbuilding Prices*
 
-> **Chart 18: LME Copper Price vs Panamax/Kamsarmax NB Price**  
-> *Figure Asset:* [`copper vs NB.png`](../images/851eb7d3-639e-419d-99c8-127807db7bda/copper%20vs%20NB.png)
+![LME Copper Price vs Panamax/Kamsarmax NB Price](../../../../../corpus/01-brokers/fearnleys-md/images/851eb7d3-639e-419d-99c8-127807db7bda/copper%20vs%20NB.png)
+*Chart: LME Copper Price vs Panamax/Kamsarmax NB Price*
 
----
+*S&P Global, FRED, Fearnleys*
 
 ## TRADE FLOWS YEAR ON YEAR GROWTH
 
----
+|  | Iron Ore | Coal | Grains | Others | Total |
+|---|---|---|---|---|---|
+| Sep-24 | 5% | 0% | -9% | 11% | 4.1% |
+| Oct-24 | -5% | 6% | -5% | 8% | 1.7% |
+| Nov-24 | -1% | 7% | 1% | 14% | 5.5% |
+| Dec-24 | -4% | -1% | -15% | 7% | -1.1% |
+| Jan-25 | -4% | -3% | -5% | 10% | 0.2% |
+| Feb-25 | -6% | -12% | -10% | 8% | -4.0% |
+| Mar-25 | 1% | -6% | -4% | 14% | 2.5% |
+| Apr-25 | 1% | -6% | -6% | 10% | 1.1% |
+| May-25 | 3% | -12% | 1% | 8% | 0.3% |
+| Jun-25 | 1% | -10% | -2% | 6% | -0.8% |
+| Jul-25 | 4% | 2% | 7% | 12% | 6.2% |
+| Aug-25 | 5% | -2% | 10% | 8% | 4.4% |
+| Sep-25 | 4% | 0% | 19% | 6% | 5.1% |
+| Oct-25 | 13% | -3% | -1% | 5% | 4.8% |
+| Nov-25 | 6% | -2% | 10% | 9% | 4.9% |
+| Dec-25 | 12% | 3% | 20% | 13% | 10.6% |
+
+|  | 100 - 220 KDWT | 25 - 100 KDWT |
+|---|---|---|
+| Sep-24 | 3% | 5% |
+| Oct-24 | -6% | 7% |
+| Nov-24 | 6% | 7% |
+| Dec-24 | -5% | 1% |
+| Jan-25 | -2% | 2% |
+| Feb-25 | -7% | -2% |
+| Mar-25 | -2% | 5% |
+| Apr-25 | -1% | 0% |
+| May-25 | 1% | 0% |
+| Jun-25 | -2% | 0% |
+| Jul-25 | 3% | 7% |
+| Aug-25 | -1% | 6% |
+| Sep-25 | 4% | 6% |
+| Oct-25 | 14% | 0% |
+| Nov-25 | -1% | 7% |
+| Dec-25 | 12% | 9% |
+
+|  | Far East | India + MEG | Southeast Asia |
+|---|---|---|---|
+| Sep-24 | 0% | -3% | 20% |
+| Oct-24 | 5% | -5% | 19% |
+| Nov-24 | 3% | -11% | 16% |
+| Dec-24 | 5% | -1% | 10% |
+| Jan-25 | -8% | 12% | 13% |
+| Feb-25 | -8% | -1% | 9% |
+| Mar-25 | -9% | 0% | 10% |
+| Apr-25 | -1% | 6% | 5% |
+| May-25 | -2% | 3% | 4% |
+| Jun-25 | -4% | 8% | 9% |
+| Jul-25 | -1% | 9% | -5% |
+| Aug-25 | 5% | 10% | -1% |
+| Sep-25 | 8% | 19% | 1% |
+| Oct-25 | -2% | 7% | 8% |
+| Nov-25 | 2% | 18% | -2% |
+| Dec-25 | 7% | 5% | 5% |
 
 ## MACRO ECONOMIC OUTLOOK
 
-This page gives brief comments on what the charts on the next page tells us. 
+This page gives brief comments on what the charts on the next page tells us.
 
 Top left chart:
 
-The BDI year-on-year change has moved into positive territory in the last months. As usual, lagging behind credit growth in China. 
-The credit growth rate dipped in December, which could be an early sign that 2027 will be weaker than 2026. 
+The BDI year-on-year change has moved into positive territory in the last months. As usual, lagging behind credit growth in China.
+
+The credit growth rate dipped in December, which could be an early sign that 2027 will be weaker than 2026.
 
 Top right chart:
 
-Except for a decoupling in 2024, the change in bond yields in China and the US has been a good leading indicator for dry bulk demand growth. Strong support for demand growth in 2026 is suggested, but also a potential peak. 
+Except for a decoupling in 2024, the change in bond yields in China and the US has been a good leading indicator for dry bulk demand growth. Strong support for demand growth in 2026 is suggested, but also a potential peak.
 
 Middle left chart:
 
-Lower crude oil prices are bullish for economic growth, and vice versa. The chart displays that since 2017, there has been a tight correlation between lower year-on-year oil prices and a higher year-on-year BDI, with the oil price change leading by 1 year. 
-Cheaper oil prices suggest the BDI could remain positive year-on-year throughout all of 2026. Crude oil prices have started to rise now, which, if it continues, could mean 2027 will be weaker. 
+Lower crude oil prices are bullish for economic growth, and vice versa. The chart displays that since 2017, there has been a tight correlation between lower year-on-year oil prices and a higher year-on-year BDI, with the oil price change leading by 1 year.
+
+Cheaper oil prices suggest the BDI could remain positive year-on-year throughout all of 2026. Crude oil prices have started to rise now, which, if it continues, could mean 2027 will be weaker.
 
 Middle right chart:
 
-Lower global interest rates strongly suggest 1-year TC rates will continue rising from here, and be above this year's levels throughout next year. Tentative signs of a peak in early 2027, however, 
+Lower global interest rates strongly suggest 1-year TC rates will continue rising from here, and be above this year's levels throughout next year. Tentative signs of a peak in early 2027, however,
 
 Bottom left chart:
 
-Direction-wise, the correlation between the OECD G20 Diffusion index and the BDI year-on-year change has held up as usual, but the OECD index has outperformed over the last year, as services growth (primarily driven by the AI boom) stayed high despite the downturn in manufacturing. The OECD diffusion index level looks set for a push higher to peak cycle levels (the index is still below the peaks seen in 2021, 2017, etc..) this year. 
+Direction-wise, the correlation between the OECD G20 Diffusion index and the BDI year-on-year change has held up as usual, but the OECD index has outperformed over the last year, as services growth (primarily driven by the AI boom) stayed high despite the downturn in manufacturing. The OECD diffusion index level looks set for a push higher to peak cycle levels (the index is still below the peaks seen in 2021, 2017, etc..) this year.
 
 Bottom right chart:
 
 The dollar index has weakened in the last months, and as usual, the result is increased dry bulk shipment volume growth with a few months' lag. The dollar index suggests total dry bulk shipment volume growth will remain around current levels.
 
-> **Chart 19: Baltic Dry Index Year on Year Change vs China Credit Growth (12 Months Lead)**  
-> *Figure Asset:* [`CHINA CREDIT vs BDI.png`](../images/851eb7d3-639e-419d-99c8-127807db7bda/CHINA%20CREDIT%20vs%20BDI.png)
+![Baltic Dry Index Year on Year Change vs China Credit Growth (12 Months Lead)](../../../../../corpus/01-brokers/fearnleys-md/images/851eb7d3-639e-419d-99c8-127807db7bda/CHINA%20CREDIT%20vs%20BDI.png)
+*Chart: Baltic Dry Index Year on Year Change vs China Credit Growth (12 Months Lead)*
 
-> **Chart 20: China + US Gov Bond Yield Change, 18 Months Lead. vs Dry Bulk Demand Growth**  
-> *Figure Asset:* [`INTEREST RATES VS DRY BULK DEMAND.png`](../images/851eb7d3-639e-419d-99c8-127807db7bda/INTEREST%20RATES%20VS%20DRY%20BULK%20DEMAND.png)
+![China + US Gov Bond Yield Change, 18 Months Lead. vs Dry Bulk Demand Growth](../../../../../corpus/01-brokers/fearnleys-md/images/851eb7d3-639e-419d-99c8-127807db7bda/INTEREST%20RATES%20VS%20DRY%20BULK%20DEMAND.png)
+*Chart: China + US Gov Bond Yield Change, 18 Months Lead. vs Dry Bulk Demand Growth*
 
-> **Chart 21: WTI Crude Oil Price YoY, 1 Year Lead vs BDI YoY**  
-> *Figure Asset:* [`CRUDE OIL PRICE LEAD VS BDI.png`](../images/851eb7d3-639e-419d-99c8-127807db7bda/CRUDE%20OIL%20PRICE%20LEAD%20VS%20BDI.png)
+![WTI Crude Oil Price YoY, 1 Year Lead vs BDI YoY](../../../../../corpus/01-brokers/fearnleys-md/images/851eb7d3-639e-419d-99c8-127807db7bda/CRUDE%20OIL%20PRICE%20LEAD%20VS%20BDI.png)
+*Chart: WTI Crude Oil Price YoY, 1 Year Lead vs BDI YoY*
 
-> **Chart 22: # of Central Bank Rates Lower than 18 Months Ago, vs Pmx/Kmx 1 Year TC 18 Months Change**  
-> *Figure Asset:* [`CENTRAL BANK RATES VS KAMSARMAX 1 YEAR TC.png`](../images/851eb7d3-639e-419d-99c8-127807db7bda/CENTRAL%20BANK%20RATES%20VS%20KAMSARMAX%201%20YEAR%20TC.png)
+![# of Central Bank Rates Lower than 18 Months Ago, vs Pmx/Kmx 1 Year TC 18 Months Change](../../../../../corpus/01-brokers/fearnleys-md/images/851eb7d3-639e-419d-99c8-127807db7bda/CENTRAL%20BANK%20RATES%20VS%20KAMSARMAX%201%20YEAR%20TC.png)
+*Chart: # of Central Bank Rates Lower than 18 Months Ago, vs Pmx/Kmx 1 Year TC 18 Months Change*
 
-> **Chart 23: OECD G-20 Diffusion Index vs BDI YoY**  
-> *Figure Asset:* [`OECD Diffusion Index vs BDI YoY.png`](../images/851eb7d3-639e-419d-99c8-127807db7bda/OECD%20Diffusion%20Index%20vs%20BDI%20YoY.png)
+![OECD G-20 Diffusion Index vs BDI YoY](../../../../../corpus/01-brokers/fearnleys-md/images/851eb7d3-639e-419d-99c8-127807db7bda/OECD%20Diffusion%20Index%20vs%20BDI%20YoY.png)
+*Chart: OECD G-20 Diffusion Index vs BDI YoY*
 
-> **Chart 24: Broad US Dollar Index Year on Year vs Dry Bulk Shipment Volume Growth**  
-> *Figure Asset:* [`us dollar vs dry bulk demand growth.png`](../images/851eb7d3-639e-419d-99c8-127807db7bda/us%20dollar%20vs%20dry%20bulk%20demand%20growth.png)
+![Broad US Dollar Index Year on Year vs Dry Bulk Shipment Volume Growth](../../../../../corpus/01-brokers/fearnleys-md/images/851eb7d3-639e-419d-99c8-127807db7bda/us%20dollar%20vs%20dry%20bulk%20demand%20growth.png)
+*Chart: Broad US Dollar Index Year on Year vs Dry Bulk Shipment Volume Growth*
+
+*FRED, OECD, S&P Global, MySteel, AxsMarine, Baltic Exchange*

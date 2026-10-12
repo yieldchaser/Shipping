@@ -4,11 +4,145 @@
   "year": 2026,
   "department": "TANK",
   "report_title": "Fearnleys Tanker Market Wrap-up Feb 2026",
-  "shipment_volume_metrics": [],
-  "coal_futures_spread_metrics": [],
-  "time_charter_vs_asset_metrics": [],
-  "vessel_tightness_metrics": [],
-  "macro_correlation_metrics": [],
-  "charts_count": 15,
-  "source_markdown": "2026-02-27_fearnleys-tanker-market-wrap-up-feb-2026.md"
+  "source_markdown": "2026-02-27_fearnleys-tanker-market-wrap-up-feb-2026.md",
+  "tables": [],
+  "printed_image_tables": [],
+  "charts_count": 27,
+  "charts": [
+    {
+      "section": "Summary",
+      "title": "Monthly spot rates",
+      "image": "283fe971-4a1a-4bb4-8e2d-fec416f1f035/rates.png"
+    },
+    {
+      "section": "Summary",
+      "title": "Crude tanker 1-year TC rates",
+      "image": "283fe971-4a1a-4bb4-8e2d-fec416f1f035/tcc.png"
+    },
+    {
+      "section": "Summary",
+      "title": "Product tanker 1-year TC rates",
+      "image": "283fe971-4a1a-4bb4-8e2d-fec416f1f035/tcp.png"
+    },
+    {
+      "section": "Recent and near-term demand development",
+      "title": "Seaborne crude oil volumes",
+      "image": "283fe971-4a1a-4bb4-8e2d-fec416f1f035/crude.png"
+    },
+    {
+      "section": "Recent and near-term demand development",
+      "title": "Seaborne oil product volumes",
+      "image": "283fe971-4a1a-4bb4-8e2d-fec416f1f035/prod.png"
+    },
+    {
+      "section": "Recent and near-term demand development",
+      "title": "Total tanker tonne-miles (+4.7% YTD)",
+      "image": "283fe971-4a1a-4bb4-8e2d-fec416f1f035/tma.png"
+    },
+    {
+      "section": "Recent and near-term demand development",
+      "title": "VLCC tonne-miles (+0.8% YTD)",
+      "image": "283fe971-4a1a-4bb4-8e2d-fec416f1f035/tmv.png"
+    },
+    {
+      "section": "Recent and near-term demand development",
+      "title": "Crude tanker tonne-miles (+7.2% YTD)",
+      "image": "283fe971-4a1a-4bb4-8e2d-fec416f1f035/tmc.png"
+    },
+    {
+      "section": "Recent and near-term demand development",
+      "title": "Product tanker tonne-miles (-1.0% YTD)",
+      "image": "283fe971-4a1a-4bb4-8e2d-fec416f1f035/tmprod.png"
+    },
+    {
+      "section": "Recent and near-term demand development",
+      "title": "Americas production growth",
+      "image": "283fe971-4a1a-4bb4-8e2d-fec416f1f035/americas.png"
+    },
+    {
+      "section": "Recent and near-term demand development",
+      "title": "Global refinery runs",
+      "image": "283fe971-4a1a-4bb4-8e2d-fec416f1f035/runs.png"
+    },
+    {
+      "section": "Recent and near-term demand development",
+      "title": "Crude tanker tonne-mile vs. oil production growth",
+      "image": "283fe971-4a1a-4bb4-8e2d-fec416f1f035/tm.png"
+    },
+    {
+      "section": "It is all about supply...",
+      "title": "VLCC fleet composition by controlling entity",
+      "image": "283fe971-4a1a-4bb4-8e2d-fec416f1f035/vl.png"
+    },
+    {
+      "section": "It is all about supply...",
+      "title": "Suez fleet composition by controlling entity",
+      "image": "283fe971-4a1a-4bb4-8e2d-fec416f1f035/suez.png"
+    },
+    {
+      "section": "It is all about supply...",
+      "title": "VLCC Far East congestion",
+      "image": "283fe971-4a1a-4bb4-8e2d-fec416f1f035/congestion.png"
+    },
+    {
+      "section": "It is all about supply...",
+      "title": "Quarterly tanker deliveriess",
+      "image": "283fe971-4a1a-4bb4-8e2d-fec416f1f035/quarter.png"
+    },
+    {
+      "section": "It is all about supply...",
+      "title": "Orderbook to fleet ratio",
+      "image": "283fe971-4a1a-4bb4-8e2d-fec416f1f035/ob.png"
+    },
+    {
+      "section": "It is all about supply...",
+      "title": "VLCC deliveries vs. phase-out (potential)",
+      "image": "283fe971-4a1a-4bb4-8e2d-fec416f1f035/fvl.png"
+    },
+    {
+      "section": "It is all about supply...",
+      "title": "Suezmax deliveries vs. phase-out (potential)",
+      "image": "283fe971-4a1a-4bb4-8e2d-fec416f1f035/fsuez.png"
+    },
+    {
+      "section": "It is all about supply...",
+      "title": "Afra/LR2 deliveries vs. phase-out (potential)",
+      "image": "283fe971-4a1a-4bb4-8e2d-fec416f1f035/fafra.png"
+    },
+    {
+      "section": "It is all about supply...",
+      "title": "MR deliveries vs. phase-out (potential)",
+      "image": "283fe971-4a1a-4bb4-8e2d-fec416f1f035/fmr.png"
+    },
+    {
+      "section": "Oil may point to some downside risks",
+      "title": "OECD industry stocks",
+      "image": "283fe971-4a1a-4bb4-8e2d-fec416f1f035/invo.png"
+    },
+    {
+      "section": "Oil may point to some downside risks",
+      "title": "Global observed inventories",
+      "image": "283fe971-4a1a-4bb4-8e2d-fec416f1f035/invg.png"
+    },
+    {
+      "section": "Oil may point to some downside risks",
+      "title": "Brent 7-1 month forward spread",
+      "image": "283fe971-4a1a-4bb4-8e2d-fec416f1f035/fwd.png"
+    },
+    {
+      "section": "Oil may point to some downside risks",
+      "title": "Northwest Europe crack spreads",
+      "image": "283fe971-4a1a-4bb4-8e2d-fec416f1f035/crackeu.png"
+    },
+    {
+      "section": "Oil may point to some downside risks",
+      "title": "U.S. Gulf Coast crack spreads",
+      "image": "283fe971-4a1a-4bb4-8e2d-fec416f1f035/cus.png"
+    },
+    {
+      "section": "Oil may point to some downside risks",
+      "title": "Bohai Bay crack spreads",
+      "image": "283fe971-4a1a-4bb4-8e2d-fec416f1f035/cch.png"
+    }
+  ]
 }

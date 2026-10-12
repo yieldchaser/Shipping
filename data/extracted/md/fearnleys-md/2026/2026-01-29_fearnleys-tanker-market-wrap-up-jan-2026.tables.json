@@ -4,11 +4,155 @@
   "year": 2026,
   "department": "TANK",
   "report_title": "Fearnleys Tanker Market Wrap-up Jan 2026",
-  "shipment_volume_metrics": [],
-  "coal_futures_spread_metrics": [],
-  "time_charter_vs_asset_metrics": [],
-  "vessel_tightness_metrics": [],
-  "macro_correlation_metrics": [],
-  "charts_count": 20,
-  "source_markdown": "2026-01-29_fearnleys-tanker-market-wrap-up-jan-2026.md"
+  "source_markdown": "2026-01-29_fearnleys-tanker-market-wrap-up-jan-2026.md",
+  "tables": [],
+  "printed_image_tables": [],
+  "charts_count": 29,
+  "charts": [
+    {
+      "section": "Summary and outlook",
+      "title": "Rates coming off a bit, but remain very volatile",
+      "image": "ce100923-6f8b-4644-bdcc-afa64d8c042f/rates.png"
+    },
+    {
+      "section": "The basics - the map does not fit the terrain",
+      "title": "Total tanker tonne-mile demand (excl. OFAC)",
+      "image": "ce100923-6f8b-4644-bdcc-afa64d8c042f/tmt.png"
+    },
+    {
+      "section": "The basics - the map does not fit the terrain",
+      "title": "VLCC tonne-mile demand (excl. OFAC)",
+      "image": "ce100923-6f8b-4644-bdcc-afa64d8c042f/tmVL.png"
+    },
+    {
+      "section": "The basics - the map does not fit the terrain",
+      "title": "Crude tanker tonne-mile demand (excl. OFAC)",
+      "image": "ce100923-6f8b-4644-bdcc-afa64d8c042f/tmc.png"
+    },
+    {
+      "section": "The basics - the map does not fit the terrain",
+      "title": "Product tanker tonne-mile demand (excl. OFAC)",
+      "image": "ce100923-6f8b-4644-bdcc-afa64d8c042f/tmp.png"
+    },
+    {
+      "section": "The basics - the map does not fit the terrain",
+      "title": "Americas production growth q/q",
+      "image": "ce100923-6f8b-4644-bdcc-afa64d8c042f/amprod.png"
+    },
+    {
+      "section": "The basics - the map does not fit the terrain",
+      "title": "IEA implied oil market balance",
+      "image": "ce100923-6f8b-4644-bdcc-afa64d8c042f/ieabal.png"
+    },
+    {
+      "section": "The basics - the map does not fit the terrain",
+      "title": "Oil production vs. tanker demand growth",
+      "image": "ce100923-6f8b-4644-bdcc-afa64d8c042f/demand.png"
+    },
+    {
+      "section": "The basics - the map does not fit the terrain",
+      "title": "Tanker deliveries by quarter",
+      "image": "ce100923-6f8b-4644-bdcc-afa64d8c042f/delyq.png"
+    },
+    {
+      "section": "The basics - the map does not fit the terrain",
+      "title": "Far East VLCC congestion",
+      "image": "ce100923-6f8b-4644-bdcc-afa64d8c042f/congestion.png"
+    },
+    {
+      "section": "The known unknowns - what could drive market upside",
+      "title": "VLCC fleet by controlling entity",
+      "image": "ce100923-6f8b-4644-bdcc-afa64d8c042f/composition.png"
+    },
+    {
+      "section": "The known unknowns - what could drive market upside",
+      "title": "Venezuela crude oil exports by destination",
+      "image": "ce100923-6f8b-4644-bdcc-afa64d8c042f/vz.png"
+    },
+    {
+      "section": "The known unknowns - what could drive market upside",
+      "title": "Venezuelan crude oil on the water",
+      "image": "ce100923-6f8b-4644-bdcc-afa64d8c042f/vzow.png"
+    },
+    {
+      "section": "The known unknowns - what could drive market upside",
+      "title": "Crude quality",
+      "image": "ce100923-6f8b-4644-bdcc-afa64d8c042f/quality.png"
+    },
+    {
+      "section": "The known unknowns - what could drive market upside",
+      "title": "Iran crude oil exports by destination",
+      "image": "ce100923-6f8b-4644-bdcc-afa64d8c042f/ir.png"
+    },
+    {
+      "section": "The known unknowns - what could drive market upside",
+      "title": "Iran linked OFAC tankers (11.2% of the fleet) – age distribution",
+      "image": "ce100923-6f8b-4644-bdcc-afa64d8c042f/ofacir.png"
+    },
+    {
+      "section": "A look at the oil market",
+      "title": "Global observed oil stocks",
+      "image": "ce100923-6f8b-4644-bdcc-afa64d8c042f/stocks.png"
+    },
+    {
+      "section": "A look at the oil market",
+      "title": "Brent 7-1 month forward spread",
+      "image": "ce100923-6f8b-4644-bdcc-afa64d8c042f/fwd.png"
+    },
+    {
+      "section": "A look at the oil market",
+      "title": "WTI vs. Brent and Dubai",
+      "image": "ce100923-6f8b-4644-bdcc-afa64d8c042f/arbs.png"
+    },
+    {
+      "section": "A look at the oil market",
+      "title": "Crude oil on the water",
+      "image": "ce100923-6f8b-4644-bdcc-afa64d8c042f/oow.png"
+    },
+    {
+      "section": "A look at the oil market",
+      "title": "Sanctioned barrels floating storage",
+      "image": "ce100923-6f8b-4644-bdcc-afa64d8c042f/float.png"
+    },
+    {
+      "section": "A look at the oil market",
+      "title": "Global refinery runs",
+      "image": "ce100923-6f8b-4644-bdcc-afa64d8c042f/ref.png"
+    },
+    {
+      "section": "A look at the oil market",
+      "title": "U.S. Gulf Coast crack spreads",
+      "image": "ce100923-6f8b-4644-bdcc-afa64d8c042f/refmus.png"
+    },
+    {
+      "section": "A look at the oil market",
+      "title": "Northwest Europe crack spreads",
+      "image": "ce100923-6f8b-4644-bdcc-afa64d8c042f/refmeu.png"
+    },
+    {
+      "section": "A look at the oil market",
+      "title": "Bohai Bay crack spreads",
+      "image": "ce100923-6f8b-4644-bdcc-afa64d8c042f/refmch.png"
+    },
+    {
+      "section": "Newbuild orders are back in fashion",
+      "title": "Tanker ordering, +42k dwt",
+      "image": "ce100923-6f8b-4644-bdcc-afa64d8c042f/order.png"
+    },
+    {
+      "section": "Newbuild orders are back in fashion",
+      "title": "Tanker demolition, +42k dwt",
+      "image": "ce100923-6f8b-4644-bdcc-afa64d8c042f/scrap.png"
+    },
+    {
+      "section": "Newbuild orders are back in fashion",
+      "title": "Annual deliveries - rarely higher",
+      "image": "ce100923-6f8b-4644-bdcc-afa64d8c042f/dely.png"
+    },
+    {
+      "section": "Newbuild orders are back in fashion",
+      "title": "Share of LR2s trading dirty",
+      "image": "ce100923-6f8b-4644-bdcc-afa64d8c042f/lr2s.png"
+    }
+  ]
 }

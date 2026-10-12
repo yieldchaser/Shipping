@@ -4,11 +4,175 @@
   "year": 2024,
   "department": "LNG",
   "report_title": "LNG Shipping - Quarterly Report Q3 2024",
-  "shipment_volume_metrics": [],
-  "coal_futures_spread_metrics": [],
-  "time_charter_vs_asset_metrics": [],
-  "vessel_tightness_metrics": [],
-  "macro_correlation_metrics": [],
+  "source_markdown": "2024-10-07_lng-shipping-quarterly-report-q3-2024.md",
+  "tables": [],
+  "printed_image_tables": [],
   "charts_count": 33,
-  "source_markdown": "2024-10-07_lng-shipping-quarterly-report-q3-2024.md"
+  "charts": [
+    {
+      "section": "Summary",
+      "title": "Spot charter rates and JKM",
+      "image": "432e5c07-c5c2-44a9-a6d2-3988cb0c4a13/gas price and rates.png"
+    },
+    {
+      "section": "Charter Rates",
+      "title": "Two-stroke spot charter rates (East/West)",
+      "image": "432e5c07-c5c2-44a9-a6d2-3988cb0c4a13/east west.png"
+    },
+    {
+      "section": "Charter Rates",
+      "title": "Average spot charter rates",
+      "image": "432e5c07-c5c2-44a9-a6d2-3988cb0c4a13/spot.png"
+    },
+    {
+      "section": "Charter Rates",
+      "title": "1-year charter rates",
+      "image": "432e5c07-c5c2-44a9-a6d2-3988cb0c4a13/1year.png"
+    },
+    {
+      "section": "Charter Rates",
+      "title": "Term charter rates (two-stroke)",
+      "image": "432e5c07-c5c2-44a9-a6d2-3988cb0c4a13/longterm.png"
+    },
+    {
+      "section": "Charter Rates",
+      "title": "Prompt LNGC availability",
+      "image": "432e5c07-c5c2-44a9-a6d2-3988cb0c4a13/avail.png"
+    },
+    {
+      "section": "Charter Rates",
+      "title": "Quarterly spot charter rates (two-stroke)",
+      "image": "432e5c07-c5c2-44a9-a6d2-3988cb0c4a13/qrt 2str.png"
+    },
+    {
+      "section": "Charter Rates",
+      "title": "Monthly spot charter rates (two-stroke)",
+      "image": "432e5c07-c5c2-44a9-a6d2-3988cb0c4a13/mntly 2str.png"
+    },
+    {
+      "section": "Charter Rates",
+      "title": "Quarterly spot charter rates (TFDE)",
+      "image": "432e5c07-c5c2-44a9-a6d2-3988cb0c4a13/qrt tfde.png"
+    },
+    {
+      "section": "Charter Rates",
+      "title": "Monthly spot charter rates (TFDE)",
+      "image": "432e5c07-c5c2-44a9-a6d2-3988cb0c4a13/mntly tfde.png"
+    },
+    {
+      "section": "Chartering Activity",
+      "title": "Short-term fixture activity (< 3 years)",
+      "image": "432e5c07-c5c2-44a9-a6d2-3988cb0c4a13/count short term new.png"
+    },
+    {
+      "section": "Chartering Activity",
+      "title": "Short term fixtures by sublet vs independent owners",
+      "image": "432e5c07-c5c2-44a9-a6d2-3988cb0c4a13/indep.png"
+    },
+    {
+      "section": "Chartering Activity",
+      "title": "Short-term fixtures Q3 (count)",
+      "image": "432e5c07-c5c2-44a9-a6d2-3988cb0c4a13/q3 count new.png"
+    },
+    {
+      "section": "Chartering Activity",
+      "title": "Short-term fixtures Q3 (fixed days)",
+      "image": "432e5c07-c5c2-44a9-a6d2-3988cb0c4a13/fixed days new.png"
+    },
+    {
+      "section": "Chartering Activity",
+      "title": "1-year term deals",
+      "image": "432e5c07-c5c2-44a9-a6d2-3988cb0c4a13/1yr deals.png"
+    },
+    {
+      "section": "Chartering Activity",
+      "title": "Top companies Q1-Q3 2024 (< 3 years)",
+      "image": "432e5c07-c5c2-44a9-a6d2-3988cb0c4a13/top comp new.png"
+    },
+    {
+      "section": "Trade Flows",
+      "title": "EU storage levels",
+      "image": "432e5c07-c5c2-44a9-a6d2-3988cb0c4a13/strg.png"
+    },
+    {
+      "section": "Trade Flows",
+      "title": "LNGC waypoint transits",
+      "image": "432e5c07-c5c2-44a9-a6d2-3988cb0c4a13/waypoint new.png"
+    },
+    {
+      "section": "Trade Flows",
+      "title": "Loaded LNG",
+      "image": "432e5c07-c5c2-44a9-a6d2-3988cb0c4a13/loadings.png"
+    },
+    {
+      "section": "Trade Flows",
+      "title": "Q3 imports by region",
+      "image": "432e5c07-c5c2-44a9-a6d2-3988cb0c4a13/Q3 imports by region.png"
+    },
+    {
+      "section": "Trade Flows",
+      "title": "Destination of US LNG",
+      "image": "432e5c07-c5c2-44a9-a6d2-3988cb0c4a13/us lng new.png"
+    },
+    {
+      "section": "Trade Flows",
+      "title": "Destination of Qatar LNG",
+      "image": "432e5c07-c5c2-44a9-a6d2-3988cb0c4a13/qatar new.png"
+    },
+    {
+      "section": "Trade Flows",
+      "title": "Average fleet distance (laden)",
+      "image": "432e5c07-c5c2-44a9-a6d2-3988cb0c4a13/distance.png"
+    },
+    {
+      "section": "Trade Flows",
+      "title": "Tonne-miles",
+      "image": "432e5c07-c5c2-44a9-a6d2-3988cb0c4a13/tmi.png"
+    },
+    {
+      "section": "Trade Flows",
+      "title": "Average fleet speed",
+      "image": "432e5c07-c5c2-44a9-a6d2-3988cb0c4a13/speed.png"
+    },
+    {
+      "section": "Trade Flows",
+      "title": "Tonne-time",
+      "image": "432e5c07-c5c2-44a9-a6d2-3988cb0c4a13/tti.png"
+    },
+    {
+      "section": "LNGC Fleet",
+      "title": "LNGC fleet by status",
+      "image": "432e5c07-c5c2-44a9-a6d2-3988cb0c4a13/status new.png"
+    },
+    {
+      "section": "LNGC Fleet",
+      "title": "LNGC orders",
+      "image": "432e5c07-c5c2-44a9-a6d2-3988cb0c4a13/orders new 2.png"
+    },
+    {
+      "section": "LNGC Fleet",
+      "title": "LNGC deliveries",
+      "image": "432e5c07-c5c2-44a9-a6d2-3988cb0c4a13/deliveries new.png"
+    },
+    {
+      "section": "LNGC Fleet",
+      "title": "Orderbook by propulsion",
+      "image": "432e5c07-c5c2-44a9-a6d2-3988cb0c4a13/prop new.png"
+    },
+    {
+      "section": "LNGC Fleet",
+      "title": "Orderbook by yard",
+      "image": "432e5c07-c5c2-44a9-a6d2-3988cb0c4a13/yard new.png"
+    },
+    {
+      "section": "LNGC Fleet",
+      "title": "Fleet evolution (considering current orderbook and phase-out at 25 years)",
+      "image": "432e5c07-c5c2-44a9-a6d2-3988cb0c4a13/fleet evol.png"
+    },
+    {
+      "section": "Outlook",
+      "title": "Fleet balance (at different phase-out ages)",
+      "image": "432e5c07-c5c2-44a9-a6d2-3988cb0c4a13/balance new.png"
+    }
+  ]
 }

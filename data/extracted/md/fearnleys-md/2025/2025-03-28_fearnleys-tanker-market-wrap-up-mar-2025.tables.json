@@ -4,11 +4,135 @@
   "year": 2025,
   "department": "TANK",
   "report_title": "Fearnleys Tanker Market Wrap-up Mar 2025",
-  "shipment_volume_metrics": [],
-  "coal_futures_spread_metrics": [],
-  "time_charter_vs_asset_metrics": [],
-  "vessel_tightness_metrics": [],
-  "macro_correlation_metrics": [],
-  "charts_count": 19,
-  "source_markdown": "2025-03-28_fearnleys-tanker-market-wrap-up-mar-2025.md"
+  "source_markdown": "2025-03-28_fearnleys-tanker-market-wrap-up-mar-2025.md",
+  "tables": [],
+  "printed_image_tables": [],
+  "charts_count": 25,
+  "charts": [
+    {
+      "section": "Summary and outlook",
+      "title": "Rates and forecast",
+      "image": "c521b3cb-ba18-414a-9d5e-ca777e6c697f/rates.png"
+    },
+    {
+      "section": "Summary and outlook",
+      "title": "Seaborne crude flow (ex. Iran)",
+      "image": "c521b3cb-ba18-414a-9d5e-ca777e6c697f/totc.png"
+    },
+    {
+      "section": "Summary and outlook",
+      "title": "Seaborne products flow (ex. Iran)",
+      "image": "c521b3cb-ba18-414a-9d5e-ca777e6c697f/totp.png"
+    },
+    {
+      "section": "Summary and outlook",
+      "title": "Crude oil in transit vs. crude tanker rates",
+      "image": "c521b3cb-ba18-414a-9d5e-ca777e6c697f/oow.png"
+    },
+    {
+      "section": "Summary and outlook",
+      "title": "VLCCs available in MEG next 30 days vs. MEG-FEast rates",
+      "image": "c521b3cb-ba18-414a-9d5e-ca777e6c697f/posrat.png"
+    },
+    {
+      "section": "Summary and outlook",
+      "title": "Total tanker tonne-miles, excl. OFAC listed vessels",
+      "image": "c521b3cb-ba18-414a-9d5e-ca777e6c697f/TMT.png"
+    },
+    {
+      "section": "Summary and outlook",
+      "title": "VLCC tonne-miles, excl. OFAC listed vessels",
+      "image": "c521b3cb-ba18-414a-9d5e-ca777e6c697f/TMV.png"
+    },
+    {
+      "section": "Summary and outlook",
+      "title": "Crude tanker tonne-miles, excl. OFAC listed vessels",
+      "image": "c521b3cb-ba18-414a-9d5e-ca777e6c697f/TMC.png"
+    },
+    {
+      "section": "Summary and outlook",
+      "title": "Product tanker tonne-miles, excl. OFAC listed vessels",
+      "image": "c521b3cb-ba18-414a-9d5e-ca777e6c697f/TMP.png"
+    },
+    {
+      "section": "Summary and outlook",
+      "title": "Atlantic-East crude oil flow",
+      "image": "c521b3cb-ba18-414a-9d5e-ca777e6c697f/WE.png"
+    },
+    {
+      "section": "Summary and outlook",
+      "title": "Crude oil production change by quarter",
+      "image": "c521b3cb-ba18-414a-9d5e-ca777e6c697f/amer.png"
+    },
+    {
+      "section": "Summary and outlook",
+      "title": "Loadings on OFAC listed tankers",
+      "image": "c521b3cb-ba18-414a-9d5e-ca777e6c697f/ofacload.png"
+    },
+    {
+      "section": "Summary and outlook",
+      "title": "Discharges from OFAC listed tankers",
+      "image": "c521b3cb-ba18-414a-9d5e-ca777e6c697f/ofacdisch.png"
+    },
+    {
+      "section": "Summary and outlook",
+      "title": "Shadow flows",
+      "image": "c521b3cb-ba18-414a-9d5e-ca777e6c697f/shadow.png"
+    },
+    {
+      "section": "Summary and outlook",
+      "title": "China available crude oil vs. refinery runs",
+      "image": "c521b3cb-ba18-414a-9d5e-ca777e6c697f/imprun.png"
+    },
+    {
+      "section": "Summary and outlook",
+      "title": "Chinese crude oil storage capacity",
+      "image": "c521b3cb-ba18-414a-9d5e-ca777e6c697f/storage.png"
+    },
+    {
+      "section": "Summary and outlook",
+      "title": "Refinery throughput season",
+      "image": "c521b3cb-ba18-414a-9d5e-ca777e6c697f/runs.png"
+    },
+    {
+      "section": "Summary and outlook",
+      "title": "Northwest Europe crack spreads",
+      "image": "c521b3cb-ba18-414a-9d5e-ca777e6c697f/refmeu.png"
+    },
+    {
+      "section": "Summary and outlook",
+      "title": "U.S. crack spreads",
+      "image": "c521b3cb-ba18-414a-9d5e-ca777e6c697f/refmus.png"
+    },
+    {
+      "section": "Summary and outlook",
+      "title": "China crack spreads",
+      "image": "c521b3cb-ba18-414a-9d5e-ca777e6c697f/refmch.png"
+    },
+    {
+      "section": "Summary and outlook",
+      "title": "Deliveries by segment by year",
+      "image": "c521b3cb-ba18-414a-9d5e-ca777e6c697f/fleet.png"
+    },
+    {
+      "section": "Summary and outlook",
+      "title": "Deliveries by quarter, crude tankers",
+      "image": "c521b3cb-ba18-414a-9d5e-ca777e6c697f/delc.png"
+    },
+    {
+      "section": "Summary and outlook",
+      "title": "Deliveries by quarter, product tankers",
+      "image": "c521b3cb-ba18-414a-9d5e-ca777e6c697f/delp.png"
+    },
+    {
+      "section": "Summary and outlook",
+      "title": "Ordering by year, +42k dwt",
+      "image": "c521b3cb-ba18-414a-9d5e-ca777e6c697f/order.png"
+    },
+    {
+      "section": "Summary and outlook",
+      "title": "Scrapping by year, +42k dwt",
+      "image": "c521b3cb-ba18-414a-9d5e-ca777e6c697f/scrap.png"
+    }
+  ]
 }

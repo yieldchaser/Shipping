@@ -7,28 +7,27 @@ publisher: "Fearnleys"
 category: "bespoke_research"
 report_id: "7e27f798-72b1-46e3-9a53-3b2a3079e30d"
 images_count: 4
+local_pdf: "../pdfs/2026/2026-07-03_snp-first-half-2026-report.pdf"
 pdf_url: "https://pbrkapp.blob.core.windows.net/report/7e27f798-72b1-46e3-9a53-3b2a3079e30d/report.pdf"
 ---
 # SnP First Half 2026 report
 
 **Date:** 2026-07-03 | **Department:** LNG | **Publisher:** Fearnleys AS  
-**Original PDF:** [Download PDF](https://pbrkapp.blob.core.windows.net/report/7e27f798-72b1-46e3-9a53-3b2a3079e30d/report.pdf)  
+**Original PDF:** [Local PDF](../pdfs/2026/2026-07-03_snp-first-half-2026-report.pdf) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/7e27f798-72b1-46e3-9a53-3b2a3079e30d/report.pdf)  
 
 ---
 
 ## Freight Follows Geopolitics, Values Follow Opportunity
 
-
-### LNG Sale & Purchase Review - First Half 2026
-
+### LNG Sale & Purchase Review – First Half 2026
 
 ### Executive Summary
 
 The first half of 2026 has been one of the more unusual periods seen in the LNG market almost on par with Fukushima and the Russia-Ukraine energy shock. Freight markets, asset values and shipping fundamentals all appear to be telling different stories.
 
-On the freight side, charter rates remained considerably stronger than most expected entering the year. Atlantic Basin two-stroke vessels spent much of Q2 earning in excess of USD 90,000/day while Pacific employment generally hovered around USD 80,000/day, supported by Middle Eastern disruption, elevated gas prices and a reshuffling of global LNG trade flows. At face value, the market looked remarkably resilient. 
+On the freight side, charter rates remained considerably stronger than most expected entering the year. Atlantic Basin two-stroke vessels spent much of Q2 earning in excess of USD 90,000/day while Pacific employment generally hovered around USD 80,000/day, supported by Middle Eastern disruption, elevated gas prices and a reshuffling of global LNG trade flows. At face value, the market looked remarkably resilient.
 
-Under the surface, however, we see the fundamentals have become progressively softer. Global LNG loadings declined during Q2, fleet growth remained close to record levels, and visible idle tonnage began to build, particularly among older steam turbine vessels. Twenty-one LNG carriers were delivered during the quarter, bringing the global fleet to approximately 760 vessels, while the orderbook remains around 38% of the existing fleet. Approximately twenty vessels were observed idle off Labuan and a further group around the Malacca Strait, illustrating that utilisation pressure is becoming increasingly visible. 
+Under the surface, however, we see the fundamentals have become progressively softer. Global LNG loadings declined during Q2, fleet growth remained close to record levels, and visible idle tonnage began to build, particularly among older steam turbine vessels. Twenty-one LNG carriers were delivered during the quarter, bringing the global fleet to approximately 760 vessels, while the orderbook remains around 38% of the existing fleet. Approximately twenty vessels were observed idle off Labuan and a further group around the Malacca Strait, illustrating that utilisation pressure is becoming increasingly visible.
 
 Ordinarily, a market characterised by declining cargo volumes, rising fleet supply and increasing idle tonnage would be expected to experience significant downward pressure on vessel values.
 
@@ -37,8 +36,8 @@ Yet that has not happened.
 Instead, LNG asset values have remained surprisingly resilient, with transaction activity spread across modern DFDE and TFDE tonnage, older steam turbine ships, demolition candidates and infrastructure-linked opportunities. The central conclusion from H1 2026 is therefore that the LNG asset market is no longer being driven primarily by current earnings. Instead, it is increasingly being driven by future opportunity.
 
 Or put differently:
-**Freight follows geopolitics. Values follow opportunity.**
 
+**Freight follows geopolitics. Values follow opportunity.**
 
 ### Shipping Fundamentals Are Softer Than the Headline Freight Market Suggests
 
@@ -46,14 +45,13 @@ The LNG shipping market began the year expecting oversupply. That view has not f
 
 Global LNG loadings during Q2 totalled approximately 101 million tonnes, down from Q1 and modestly below the same period last year. Freight rates remained elevated mainly because trade patterns became less efficient rather than because cargo volumes increased. Middle Eastern disruptions altered vessel positioning, increased uncertainty and redirected a greater proportion of Atlantic cargoes towards Asia, supporting tonne-mile demand despite falling volumes.
 
-One of the more important observations from the market during the period was the growing divergence between modern and legacy tonnage. Two-stroke vessels continued capturing the majority of attractive employment opportunities. Modern DFDE vessels also remained highly competitive, benefiting from fuel efficiency and broad commercial acceptance. Older steam turbine ships, meanwhile, increasingly appeared on the wrong side of the moon, where utilisation has evaporated together with the corresponding freight rates. 
+One of the more important observations from the market during the period was the growing divergence between modern and legacy tonnage. Two-stroke vessels continued capturing the majority of attractive employment opportunities. Modern DFDE vessels also remained highly competitive, benefiting from fuel efficiency and broad commercial acceptance. Older steam turbine ships, meanwhile, increasingly appeared on the wrong side of the moon, where utilisation has evaporated together with the corresponding freight rates.
 
 This has resulted in an increased focus on what owners need to consider doing with their aging vessels.
 
-
 ### The Asset Market Is Looking Beyond Today's Freight Environment
 
-Historically, LNG carrier values tended to move broadly in line with earnings expectations. Strong freight markets supported asset values and weak freight markets results in increased supply of tonnage to the market. 
+Historically, LNG carrier values tended to move broadly in line with earnings expectations. Strong freight markets supported asset values and weak freight markets results in increased supply of tonnage to the market.
 
 That relationship appears significantly weaker today.
 
@@ -68,9 +66,9 @@ And yet transaction activity remains healthy.
 
 The explanation lies in optionality.
 
-Buyers are increasingly evaluating LNG carriers not simply as transportation assets but as assets capable of fulfilling multiple future roles. A vessel purchased today may continue trading conventionally (155cbm+), become a floating storage unit or conversion candidate (project-dependent 145-174k cbm), or support regional LNG logistics. These potential outcomes provide a value floor that is less dependent on today's or tomorrow's freight market.
-As a result, the market is increasingly assigning value to possibilities rather than current earnings.
+Buyers are increasingly evaluating LNG carriers not simply as transportation assets but as assets capable of fulfilling multiple future roles. A vessel purchased today may continue trading conventionally (155cbm+), become a floating storage unit or conversion candidate (project-dependent 145-174k cbm), or support regional LNG logistics. These potential outcomes provide a value floor that is less dependent on today's or tomorrow’s freight market.
 
+As a result, the market is increasingly assigning value to possibilities rather than current earnings.
 
 ### First half of 2026 tells an interesting story about transactions
 
@@ -78,34 +76,24 @@ The transaction list from the first half of 2026 provides a surprisingly clear p
 
 The first half of 2026 has been relatively hectic when looking at the number of transactions reported. Compared to 2025, there are 6 more vessels reported in the 2nd hand market, whilst the recycling space has till now, fallen behind with only 5 concluded sales. The drop in recycling activity just shows how a little hope in the form of higher freight rates gives Owners a (false) outlook for their older ladies.
 
-
 ![S&P transaction volume and YoY trend](../images/7e27f798-72b1-46e3-9a53-3b2a3079e30d/S%26P_Report_Transaction_Volume_Q226.png)
-
-> **Figure 1: S&P transaction volume and YoY trend**  
-> [Local Asset](file:////home/runner/work/Shipping/Shipping/corpus/01-brokers/fearnleys-md/images/7e27f798-72b1-46e3-9a53-3b2a3079e30d/S%26P_Report_Transaction_Volume_Q226.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/7e27f798-72b1-46e3-9a53-3b2a3079e30d/S&P_Report_Transaction_Volume_Q226.png)
+*Chart: S&P transaction volume and YoY trend*
 
 When digging into the details it is most notable that relatively few genuinely modern vessels have changed hands till date. The standout transactions that have been reported in the 2013-2015-built TFDE market seem to have been sold above the USD 110 million mark. These sales highlight the continued appetite for younger, larger and operationally flexible assets. There is also a continued demand for older DFDE and TFDE tonnage destined for specific trade or projects. What is notable is that older tonnage is transacting below the USD 100 million mark, ranging from USD 65-95 million. The range in rate is also a function of vessel age, but the origin of the buyer is also playing a significant role.
 
-
-![Dfde Vessel 2Nd Hand](../images/7e27f798-72b1-46e3-9a53-3b2a3079e30d/DFDE%20Vessel%202nd%20hand.png)
-
-> **Figure 2: Dfde Vessel 2Nd Hand**  
-> [Local Asset](file:////home/runner/work/Shipping/Shipping/corpus/01-brokers/fearnleys-md/images/7e27f798-72b1-46e3-9a53-3b2a3079e30d/DFDE%20Vessel%202nd%20hand.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/7e27f798-72b1-46e3-9a53-3b2a3079e30d/DFDE Vessel 2nd hand.png)
+![DFDE Vessel 2nd hand](../images/7e27f798-72b1-46e3-9a53-3b2a3079e30d/DFDE%20Vessel%202nd%20hand.png)
+*Chart: DFDE Vessel 2nd hand*
 
 At the other end of the spectrum, the market remained remarkably active for ageing steam turbine vessels. It is noticeable that a large number of these units have been sold to unknown buyers, but we will get more into that further on in the report.
 
-
-![St Vessel 2Nd Hand](../images/7e27f798-72b1-46e3-9a53-3b2a3079e30d/ST%20Vessel%202nd%20hand.png)
-
-> **Figure 3: St Vessel 2Nd Hand**  
-> [Local Asset](file:////home/runner/work/Shipping/Shipping/corpus/01-brokers/fearnleys-md/images/7e27f798-72b1-46e3-9a53-3b2a3079e30d/ST%20Vessel%202nd%20hand.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/7e27f798-72b1-46e3-9a53-3b2a3079e30d/ST Vessel 2nd hand.png)
+![ST Vessel 2nd hand](../images/7e27f798-72b1-46e3-9a53-3b2a3079e30d/ST%20Vessel%202nd%20hand.png)
+*Chart: ST Vessel 2nd hand*
 
 Remarkably, many of these transactions involved vessels between 19 and 22 years of age. In most shipping sectors, such vessels would sit firmly within the demolition age profile. Yet LNG continues to be different.
 
-What is particularly interesting is that buyers appear to be focusing on a relatively narrow capacity range. Most of the sales occurred in the 145,000-155,000 cbm segment. This aligns with growing evidence that buyers increasingly value storage capacity and conversion suitability significantly higher than any potential freight earnings.
+What is particularly interesting is that buyers appear to be focusing on a relatively narrow capacity range. Most of the sales occurred in the 145,000–155,000 cbm segment. This aligns with growing evidence that buyers increasingly value storage capacity and conversion suitability significantly higher than any potential freight earnings.
 
-By contrast, vessels below approximately 140,000 cbm appear to be becoming increasingly difficult to place. Current fleet demographics show around 55 vessels remain in the 120,000-140,000 cbm segment, a size category that appears increasingly unattractive both as trading assets and conversion candidates. This is reflected in the graph below, showing the 5 vessels sold for recycling thus far in 2026.
-
+By contrast, vessels below approximately 140,000 cbm appear to be becoming increasingly difficult to place. Current fleet demographics show around 55 vessels remain in the 120,000–140,000 cbm segment, a size category that appears increasingly unattractive both as trading assets and conversion candidates. This is reflected in the graph below, showing the 5 vessels sold for recycling thus far in 2026.
 
 ### The Great Steam Turbine Reckoning
 
@@ -113,11 +101,8 @@ The steam turbine fleet is approaching a pivotal moment.
 
 The global LNG fleet today contains approximately 183 steam turbine vessels, of which more than 80 are already older than twenty years. Fifteen vessels have surpassed thirty years of age. Under normal market conditions, these demographics would imply a substantial demolition cycle.
 
-
-![Scraped Vessels](../images/7e27f798-72b1-46e3-9a53-3b2a3079e30d/Scraped%20vessels.png)
-
-> **Figure 4: Scraped Vessels**  
-> [Local Asset](file:////home/runner/work/Shipping/Shipping/corpus/01-brokers/fearnleys-md/images/7e27f798-72b1-46e3-9a53-3b2a3079e30d/Scraped%20vessels.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/7e27f798-72b1-46e3-9a53-3b2a3079e30d/Scraped vessels.png)
+![Scraped vessels](../images/7e27f798-72b1-46e3-9a53-3b2a3079e30d/Scraped%20vessels.png)
+*Chart: Scraped vessels*
 
 Some vessels continue finding buyers. Others remain employed in niche trades. A number appear increasingly likely to move towards infrastructure-linked opportunities. The result is that the fleet is ageing faster than it is disappearing.
 
@@ -126,7 +111,6 @@ The LNG sector therefore faces a situation where vessel competitiveness is deter
 From an S&P perspective, this creates opportunities.
 
 Many ageing steam turbine vessels are no longer being evaluated as conventional shipping assets. They are increasingly being evaluated based on their residual optionality. For some vessels that optionality lies in conversion potential. For others it lies in regional LNG logistics or long-term storage applications. For a growing number, however, the market appears to be concluding that demolition remains the most likely outcome.
-
 
 ### The Buyer Universe Is Expanding
 
@@ -150,13 +134,15 @@ And of course, we cannot ignore the strong presence of buyers linked to **"He-Wh
 Market observers increasingly associate several ageing LNG carrier acquisitions with opaque ownership structures and alternative employment strategies. The pattern is becoming known for this type of transaction, where an unknown entity typically buys the vessel, skips-hops a few intermediaries and flags, and ultimately ends up under sanctioned entities and flags. Whether these vessels ultimately participate in conventional trading, specialised logistics or other activities is less important than the fact that they represent a genuine source of demand.
 
 From an S&P perspective, additional buyer categories almost always support values.
-That appears to be prevalent today.
 
+That appears to be prevalent today.
 
 ### The Optionality Premium Is Becoming Real
 
 One of the most important conclusions so far in 2026 is the emergence of what can legitimately be described as an **optionality premium**.
+
 Vessels are no longer valued solely on projected freight earnings.
+
 Instead, buyers increasingly assess:
 •	Trading optionality.
 •	Conversion optionality.
@@ -171,16 +157,15 @@ This framework explains many of the apparent contradictions currently visible in
 
 Most importantly, it explains why the LNG asset market appears considerably more optimistic than the freight market.
 
-But what it doesn't take into consideration is, **"Should I try to sell now to get out?"**
+But what it doesn’t take into consideration is, **“Should I try to sell now to get out?”**
 
 We believe that when pairing the S&P paradigm to the general market observations, serious consideration for exiting older tonnage, even below current market levels, may be a strategically strong position to take.
 
-
 ### Outlook
 
-Our base case remains that the shipping market itself remains fundamentally oversupplied through much of 2028. Add the fact that by end 2028 we'll have another 150+ 2-strokes in the market, STs and DFs alike become even less attractive.
+Our base case remains that the shipping market itself remains fundamentally oversupplied through much of 2028. Add the fact that by end 2028 we’ll have another 150+ 2-strokes in the market, STs and DFs alike become even less attractive.
 
-When today's geopolitical disruptions ease, freight markets could soften relatively quickly. Fleet growth remains substantial, Qatar's expansion delays pushing incremental demand further into the future, and visible utilisation pressure already exists among older tonnage. 
+When today’s geopolitical disruptions ease, freight markets could soften relatively quickly. Fleet growth remains substantial, Qatar's expansion delays pushing incremental demand further into the future, and visible utilisation pressure already exists among older tonnage.
 
 The asset market, however, is clearly focused on a different horizon.
 

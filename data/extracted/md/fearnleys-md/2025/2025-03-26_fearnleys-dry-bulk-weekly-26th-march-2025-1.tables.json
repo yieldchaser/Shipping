@@ -4,36 +4,50 @@
   "year": 2025,
   "department": "BULK",
   "report_title": "Fearnleys Dry Bulk Weekly",
-  "shipment_volume_metrics": [],
-  "coal_futures_spread_metrics": [],
-  "time_charter_vs_asset_metrics": [],
-  "vessel_tightness_metrics": [],
-  "macro_correlation_metrics": [
+  "source_markdown": "2025-03-26_fearnleys-dry-bulk-weekly-26th-march-2025-1.md",
+  "tables": [],
+  "printed_image_tables": [],
+  "charts_count": 8,
+  "charts": [
     {
-      "issue_date": "2025-03-26",
-      "year": "2025",
-      "department": "BULK",
-      "report_title": "Fearnleys Dry Bulk Weekly",
-      "macro_metric": "Iron Ore Price 3M Lead vs BCI5TC",
-      "freight_benchmark_val": 12323.9,
-      "macro_indicator_val": 118.9,
-      "lead_tenor": "3 Months",
-      "chart_title": "IRON ORE PRICE 3 MONTH LEAD VS BCI5TC.png",
-      "report_id": "905396be-8bc5-4ea0-9a38-4abe28b7063a"
+      "section": "Capesize/Newcastlemax",
+      "title": "China Imported Iron Ore Consumption, 1 Month Change (1.5 Months Lead) vs Capesize 5TC 1 Month Change",
+      "image": "905396be-8bc5-4ea0-9a38-4abe28b7063a/CHINA IMPORTED IRON ORE CONSUMPTION LEAD VS CAPESIZE 1 MONTH CHANGE.png"
     },
     {
-      "issue_date": "2025-03-26",
-      "year": "2025",
-      "department": "BULK",
-      "report_title": "Fearnleys Dry Bulk Weekly",
-      "macro_metric": "Copper 6M Change Lead vs Supramax 1Y TC 6M Change",
-      "freight_benchmark_val": -17.2,
-      "macro_indicator_val": 2.7,
-      "lead_tenor": "6 Months",
-      "chart_title": "COPPER PRICE VS SUPRAMAX 1 YEAR TC.png",
-      "report_id": "905396be-8bc5-4ea0-9a38-4abe28b7063a"
+      "section": "Capesize/Newcastlemax",
+      "title": "Iron Ore Price, 3 Months Lead vs BCI5TC",
+      "image": "905396be-8bc5-4ea0-9a38-4abe28b7063a/IRON ORE PRICE 3 MONTH LEAD VS BCI5TC.png"
+    },
+    {
+      "section": "Panamax/Kamsarmax",
+      "title": "Panamax / Kamsarmax Ballasting to Brazil or Argentina, by Year",
+      "image": "905396be-8bc5-4ea0-9a38-4abe28b7063a/panamax kamsarmax heading to brazil or argentina.png"
+    },
+    {
+      "section": "Panamax/Kamsarmax",
+      "title": "Panamax / Kamsarmax Laden With Coal to China or India",
+      "image": "905396be-8bc5-4ea0-9a38-4abe28b7063a/PANAMAX KAMSARMAX HEADING TO CHINA OR INDIA WITH COAL.png"
+    },
+    {
+      "section": "Panamax/Kamsarmax",
+      "title": "Kamsarmax Market Seasonality",
+      "image": "905396be-8bc5-4ea0-9a38-4abe28b7063a/PANAMAX KAMSARMAX SEASONAL AVERAGE.png"
+    },
+    {
+      "section": "Supramax/Ultramax",
+      "title": "Copper Price Lead vs Supramax 1 Year TC 6 Months Change",
+      "image": "905396be-8bc5-4ea0-9a38-4abe28b7063a/COPPER PRICE VS SUPRAMAX 1 YEAR TC.png"
+    },
+    {
+      "section": "Supramax/Ultramax",
+      "title": "Supramax / Ultramax Market Seasonality",
+      "image": "905396be-8bc5-4ea0-9a38-4abe28b7063a/SUPRAMAX ULTRAMAX SEASONAL AVERAGE.png"
+    },
+    {
+      "section": "Supramax/Ultramax",
+      "title": "Laden Supramax/Ultramax Vessels, and Year on Year Change",
+      "image": "905396be-8bc5-4ea0-9a38-4abe28b7063a/LADEN SUPRAMAX ULTRAMAX.png"
     }
-  ],
-  "charts_count": 8,
-  "source_markdown": "2025-03-26_fearnleys-dry-bulk-weekly-26th-march-2025-1.md"
+  ]
 }

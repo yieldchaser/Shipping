@@ -4,79 +4,90 @@
   "year": 2026,
   "department": "BULK",
   "report_title": "Fearnleys Dry Bulk Weekly",
-  "shipment_volume_metrics": [],
-  "coal_futures_spread_metrics": [
-    {
-      "issue_date": "2026-04-08",
-      "year": "2026",
-      "department": "BULK",
-      "report_title": "Fearnleys Dry Bulk Weekly",
-      "p5_kamsarmax_indonesia_rv_usd_day": 14926.47,
-      "p5_4w_prev_usd_day": 17279.41,
-      "newcastle_coal_futures_spread_lead_2m": 7.98,
-      "coal_spread_4w_prev": "",
-      "lead_tenor": "2 Months",
-      "chart_title": "P5 vs Newcastle Coal Futures Spread Lead",
-      "source_image": "P5 vs Newcastle Coal Futures Spread Lead.png",
-      "report_id": "49baa47e-2659-4f0b-9e28-9fb40f7387d4"
-    }
-  ],
-  "time_charter_vs_asset_metrics": [],
-  "vessel_tightness_metrics": [
-    {
-      "issue_date": "2026-04-08",
-      "year": "2026",
-      "department": "BULK",
-      "report_title": "Fearnleys Dry Bulk Weekly",
-      "chart_family": "BCI5TC SATL Tightness Indicator.png",
-      "indicator_metric": "South Atlantic Vessel Count",
-      "indicator_val": 360.6,
-      "freight_benchmark": "P6 / BCI5TC Index USD/day",
-      "freight_benchmark_val": 21267.6,
-      "lead_tenor": "1 Month Lead",
-      "report_id": "49baa47e-2659-4f0b-9e28-9fb40f7387d4"
-    },
-    {
-      "issue_date": "2026-04-08",
-      "year": "2026",
-      "department": "BULK",
-      "report_title": "Fearnleys Dry Bulk Weekly",
-      "chart_family": "P6 vs SATL Tightness.png",
-      "indicator_metric": "South Atlantic Vessel Count",
-      "indicator_val": 270.9,
-      "freight_benchmark": "P6 / BCI5TC Index USD/day",
-      "freight_benchmark_val": 22461.5,
-      "lead_tenor": "1 Month Lead",
-      "report_id": "49baa47e-2659-4f0b-9e28-9fb40f7387d4"
-    },
-    {
-      "issue_date": "2026-04-08",
-      "year": "2026",
-      "department": "BULK",
-      "report_title": "Fearnleys Dry Bulk Weekly",
-      "chart_family": "supraultra ballaster laden vessel ratio.png",
-      "indicator_metric": "Indicator Metric",
-      "indicator_val": 174.0,
-      "freight_benchmark": "Freight Benchmark",
-      "freight_benchmark_val": 265.0,
-      "lead_tenor": "Concurrent",
-      "report_id": "49baa47e-2659-4f0b-9e28-9fb40f7387d4"
-    }
-  ],
-  "macro_correlation_metrics": [
-    {
-      "issue_date": "2026-04-08",
-      "year": "2026",
-      "department": "BULK",
-      "report_title": "Fearnleys Dry Bulk Weekly",
-      "macro_metric": "Steel Mill Profitability vs Hot Metal Output",
-      "freight_benchmark_val": -48.9,
-      "macro_indicator_val": 2.27,
-      "lead_tenor": "7 Weeks Lead",
-      "chart_title": "STEEL MILL PROFITABILITY VS HOT METAL OUTPUT.png",
-      "report_id": "49baa47e-2659-4f0b-9e28-9fb40f7387d4"
-    }
-  ],
+  "source_markdown": "2026-04-08_fearnleys-dry-bulk-weekly-8th-april-2026-4.md",
+  "tables": [],
+  "printed_image_tables": [],
   "charts_count": 16,
-  "source_markdown": "2026-04-08_fearnleys-dry-bulk-weekly-8th-april-2026-4.md"
+  "charts": [
+    {
+      "section": "Capesize/Newcastlemax",
+      "title": "China - Hot Metal Output vs Share of Profitable Steel Mills (7 Weeks Lead)",
+      "image": "49baa47e-2659-4f0b-9e28-9fb40f7387d4/STEEL MILL PROFITABILITY VS HOT METAL OUTPUT.png"
+    },
+    {
+      "section": "Capesize/Newcastlemax",
+      "title": "Weekly Shipment Volumes",
+      "image": "49baa47e-2659-4f0b-9e28-9fb40f7387d4/Capenewc Weekly Shipment Volumes.png"
+    },
+    {
+      "section": "Capesize/Newcastlemax",
+      "title": "C5TC 180 vs South Atlantic Tightness Indicator",
+      "image": "49baa47e-2659-4f0b-9e28-9fb40f7387d4/BCI5TC SATL Tightness Indicator.png"
+    },
+    {
+      "section": "Capesize/Newcastlemax",
+      "title": "VLOC Brazil Congestion vs BCI5TC (180)",
+      "image": "49baa47e-2659-4f0b-9e28-9fb40f7387d4/VLOC BRAZIL CONGESTION.png"
+    },
+    {
+      "section": "Panamax/Kamsarmax",
+      "title": "Weekly Shipment Volumes",
+      "image": "49baa47e-2659-4f0b-9e28-9fb40f7387d4/panamax kamsarmax weekly shipment volumes.png"
+    },
+    {
+      "section": "Panamax/Kamsarmax",
+      "title": "P5 vs Newcastle Coal Futures Curve Spread (Lead 2 Months)",
+      "image": "49baa47e-2659-4f0b-9e28-9fb40f7387d4/P5 vs Newcastle Coal Futures Spread Lead.png"
+    },
+    {
+      "section": "Panamax/Kamsarmax",
+      "title": "P5TC vs Pacific Vessel Tightness Indicator (Lead 1 Month)",
+      "image": "49baa47e-2659-4f0b-9e28-9fb40f7387d4/P5TC vs Pacific Tightness Indicator.png"
+    },
+    {
+      "section": "Panamax/Kamsarmax",
+      "title": "P6 vs South Atlantic Vessel Tightness Indicator (Lead 1 Month)",
+      "image": "49baa47e-2659-4f0b-9e28-9fb40f7387d4/P6 vs SATL Tightness.png"
+    },
+    {
+      "section": "Supramax/Ultramax",
+      "title": "Copper Price 3 Months Change, 3 Months Lead vs 3 Months Change of Supra 10TC",
+      "image": "49baa47e-2659-4f0b-9e28-9fb40f7387d4/3 MONTHS CHANGE OF COPPER VS 3 MONTHS CHANGE OF SUPRA 10 TC.png"
+    },
+    {
+      "section": "Supramax/Ultramax",
+      "title": "S11TC  vs Ballaster/Laden Vessel Ratio",
+      "image": "49baa47e-2659-4f0b-9e28-9fb40f7387d4/supraultra ballaster laden vessel ratio.png"
+    },
+    {
+      "section": "Supramax/Ultramax",
+      "title": "Industrial Metals Index vs Ultramax 1 Year TC",
+      "image": "49baa47e-2659-4f0b-9e28-9fb40f7387d4/Industrial Metals Index vs Ultramax 1 Year TC.png"
+    },
+    {
+      "section": "Supramax/Ultramax",
+      "title": "Weekly Shipment Volumes",
+      "image": "49baa47e-2659-4f0b-9e28-9fb40f7387d4/SUPRAMAX ULTRAMAX WEEKLY SHIPMENT VOLUMES.png"
+    },
+    {
+      "section": "Handysize",
+      "title": "HS3 vs Ratio of HS3 and HS5",
+      "image": "49baa47e-2659-4f0b-9e28-9fb40f7387d4/HS3 RATIO.png"
+    },
+    {
+      "section": "Handysize",
+      "title": "Weekly Shipment Volumes",
+      "image": "49baa47e-2659-4f0b-9e28-9fb40f7387d4/HANDYSIZE WEEKLY SHIPMENT VOLUMES.png"
+    },
+    {
+      "section": "Handysize",
+      "title": "S11TC Shifted 1 Week Forward, vs HS7TC",
+      "image": "49baa47e-2659-4f0b-9e28-9fb40f7387d4/ULTRA LEAD HANDY.png"
+    },
+    {
+      "section": "Handysize",
+      "title": "Copper Price Changes (Lead 6 Months) vs Handysize 10 Year Old Changes",
+      "image": "65b85412-be52-4cc3-aa62-8d228c374c55/COPPER PRICE LEAD VS HANDYSIZE 10 YEAR OLD.png"
+    }
+  ]
 }

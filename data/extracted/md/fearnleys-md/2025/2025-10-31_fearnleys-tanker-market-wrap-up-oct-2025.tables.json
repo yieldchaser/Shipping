@@ -4,11 +4,155 @@
   "year": 2025,
   "department": "TANK",
   "report_title": "Fearnleys Tanker Market Wrap-up Oct 2025",
-  "shipment_volume_metrics": [],
-  "coal_futures_spread_metrics": [],
-  "time_charter_vs_asset_metrics": [],
-  "vessel_tightness_metrics": [],
-  "macro_correlation_metrics": [],
-  "charts_count": 17,
-  "source_markdown": "2025-10-31_fearnleys-tanker-market-wrap-up-oct-2025.md"
+  "source_markdown": "2025-10-31_fearnleys-tanker-market-wrap-up-oct-2025.md",
+  "tables": [],
+  "printed_image_tables": [],
+  "charts_count": 29,
+  "charts": [
+    {
+      "section": "Summary and outlook",
+      "title": "Rates and forecast",
+      "image": "43f8df75-9f57-40f1-9bb5-5fb2b2ffa8ee/rates.png"
+    },
+    {
+      "section": "Summary and outlook",
+      "title": "Compliant tonne miles, total (1.6% YTD)",
+      "image": "43f8df75-9f57-40f1-9bb5-5fb2b2ffa8ee/tmtot.png"
+    },
+    {
+      "section": "Summary and outlook",
+      "title": "Compliant tonne miles, VLCC (4% YTD)",
+      "image": "43f8df75-9f57-40f1-9bb5-5fb2b2ffa8ee/tmv.png"
+    },
+    {
+      "section": "Summary and outlook",
+      "title": "Compliant tonne miles, crude/condensates (3.2% YTD)",
+      "image": "43f8df75-9f57-40f1-9bb5-5fb2b2ffa8ee/tmc.png"
+    },
+    {
+      "section": "Summary and outlook",
+      "title": "Compliant tonne miles, CPP/DPP (-2.2% YTD)",
+      "image": "43f8df75-9f57-40f1-9bb5-5fb2b2ffa8ee/tmp.png"
+    },
+    {
+      "section": "Summary and outlook",
+      "title": "Seaborne crude oil volumes, ex. Iran and Venezuela",
+      "image": "43f8df75-9f57-40f1-9bb5-5fb2b2ffa8ee/seacrude.png"
+    },
+    {
+      "section": "Summary and outlook",
+      "title": "Seaborne products volumes, ex. Iran and Venezuela",
+      "image": "43f8df75-9f57-40f1-9bb5-5fb2b2ffa8ee/seaprod.png"
+    },
+    {
+      "section": "Summary and outlook",
+      "title": "Americas quarterly oil production change",
+      "image": "43f8df75-9f57-40f1-9bb5-5fb2b2ffa8ee/americas.png"
+    },
+    {
+      "section": "Summary and outlook",
+      "title": "OPEC+ targets vs. production",
+      "image": "43f8df75-9f57-40f1-9bb5-5fb2b2ffa8ee/opec.png"
+    },
+    {
+      "section": "Summary and outlook",
+      "title": "Global oil supply vs. VLCC demand growth",
+      "image": "43f8df75-9f57-40f1-9bb5-5fb2b2ffa8ee/dem.png"
+    },
+    {
+      "section": "Plenty of oil",
+      "title": "IEA Oil market balance",
+      "image": "43f8df75-9f57-40f1-9bb5-5fb2b2ffa8ee/iea.png"
+    },
+    {
+      "section": "Plenty of oil",
+      "title": "Global oil stocks",
+      "image": "43f8df75-9f57-40f1-9bb5-5fb2b2ffa8ee/globinv.png"
+    },
+    {
+      "section": "Plenty of oil",
+      "title": "OECD oil stocks",
+      "image": "43f8df75-9f57-40f1-9bb5-5fb2b2ffa8ee/oecdinv.png"
+    },
+    {
+      "section": "Plenty of oil",
+      "title": "Iran, Venezuela and Russia crude oil exports",
+      "image": "43f8df75-9f57-40f1-9bb5-5fb2b2ffa8ee/shadow.png"
+    },
+    {
+      "section": "Plenty of oil",
+      "title": "Iran, Venezuela and Russia floating storage",
+      "image": "43f8df75-9f57-40f1-9bb5-5fb2b2ffa8ee/float.png"
+    },
+    {
+      "section": "Plenty of oil",
+      "title": "Crude oil on the water",
+      "image": "43f8df75-9f57-40f1-9bb5-5fb2b2ffa8ee/oit.png"
+    },
+    {
+      "section": "Refinery constraints",
+      "title": "Global refinery run season",
+      "image": "43f8df75-9f57-40f1-9bb5-5fb2b2ffa8ee/ref.png"
+    },
+    {
+      "section": "Refinery constraints",
+      "title": "NorthWest Europe crack spreads",
+      "image": "43f8df75-9f57-40f1-9bb5-5fb2b2ffa8ee/crackeu.png"
+    },
+    {
+      "section": "Refinery constraints",
+      "title": "U.S. Gulf Coast crack spreads",
+      "image": "43f8df75-9f57-40f1-9bb5-5fb2b2ffa8ee/crackus.png"
+    },
+    {
+      "section": "Refinery constraints",
+      "title": "China Bohai Bay crack spreads",
+      "image": "43f8df75-9f57-40f1-9bb5-5fb2b2ffa8ee/crackch.png"
+    },
+    {
+      "section": "Plenty of ships, for a while",
+      "title": "Annual deliveries, +25k dwt",
+      "image": "43f8df75-9f57-40f1-9bb5-5fb2b2ffa8ee/fleet.png"
+    },
+    {
+      "section": "Plenty of ships, for a while",
+      "title": "Quarterly deliveries, +25k dwt",
+      "image": "43f8df75-9f57-40f1-9bb5-5fb2b2ffa8ee/quarter.png"
+    },
+    {
+      "section": "Plenty of ships, for a while",
+      "title": "Orderbook to fleet ratio",
+      "image": "43f8df75-9f57-40f1-9bb5-5fb2b2ffa8ee/ob.png"
+    },
+    {
+      "section": "Plenty of ships, for a while",
+      "title": "Pre-2010 built VLCC fleet composition",
+      "image": "43f8df75-9f57-40f1-9bb5-5fb2b2ffa8ee/shadowv.png"
+    },
+    {
+      "section": "Plenty of ships, for a while",
+      "title": "Pre-2010 built Suezmax fleet composition",
+      "image": "43f8df75-9f57-40f1-9bb5-5fb2b2ffa8ee/shadows.png"
+    },
+    {
+      "section": "Plenty of ships, for a while",
+      "title": "Pre-2010 built Afra/LR2 fleet composition",
+      "image": "43f8df75-9f57-40f1-9bb5-5fb2b2ffa8ee/shadowa.png"
+    },
+    {
+      "section": "Plenty of ships, for a while",
+      "title": "Pre-2010 built MR fleet composition",
+      "image": "43f8df75-9f57-40f1-9bb5-5fb2b2ffa8ee/shadowm.png"
+    },
+    {
+      "section": "Plenty of ships, for a while",
+      "title": "Annual tanker orders, +42k dwt",
+      "image": "43f8df75-9f57-40f1-9bb5-5fb2b2ffa8ee/orders.png"
+    },
+    {
+      "section": "Plenty of ships, for a while",
+      "title": "Annual tanker demolition, +42k dwt",
+      "image": "43f8df75-9f57-40f1-9bb5-5fb2b2ffa8ee/scrap.png"
+    }
+  ]
 }

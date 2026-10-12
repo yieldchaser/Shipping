@@ -19,46 +19,49 @@ pdf_url: "https://pbrkapp.blob.core.windows.net/report/65e5827f-dd43-4826-b14b-8
 
 ## Capesize/Newcastlemax
 
-Last week we wrote the following: 
+Last week we wrote the following:
+
 *We could be at the start of a rally here, with both C3 and C5 noticeably up. AIS data still looks supportive of a rally, which we have covered in previous reports (report archive found at the bottom of the online version of this report).*
 
 Probably there will be a couple of strong months ahead for the market. However, fundamentals are weaker than last year, not only for Capes/Newcs but also for Panamax/Kamsarmaxes. It is therefore unlikely that market levels will average as high as last year (BCI 2014 avg 25.500 USD pd in March and April 2024).
 
-> **Chart 1: Laden Capesize/Newcastlemax, by Year**  
-> *Figure Asset:* [`CAPENEWC BALLASTER LADEN VESSEL RATIO.png`](../images/65e5827f-dd43-4826-b14b-8aa5dcc77d7c/CAPENEWC%20BALLASTER%20LADEN%20VESSEL%20RATIO.png)
+![Laden Capesize/Newcastlemax, by Year](../../../../../corpus/01-brokers/fearnleys-md/images/65e5827f-dd43-4826-b14b-8aa5dcc77d7c/CAPENEWC%20BALLASTER%20LADEN%20VESSEL%20RATIO.png)
+*Chart: Laden Capesize/Newcastlemax, by Year*
 
-> **Chart 2: VLOCs Waiting to Load in Brazil**  
-> *Figure Asset:* [`VLOC BRAZIL CONGESTION.png`](../images/65e5827f-dd43-4826-b14b-8aa5dcc77d7c/VLOC%20BRAZIL%20CONGESTION.png)
+![VLOCs Waiting to Load in Brazil](../../../../../corpus/01-brokers/fearnleys-md/images/65e5827f-dd43-4826-b14b-8aa5dcc77d7c/VLOC%20BRAZIL%20CONGESTION.png)
+*Chart: VLOCs Waiting to Load in Brazil*
 
-> **Chart 3: China Imported Iron Ore Consumption Lead vs BCI5TC 1 Month Change**  
-> *Figure Asset:* [`CHINA IMPORTED IRON ORE CONSUMPTION LEAD VS CAPESIZE 1 MONTH CHANGE.png`](../images/65e5827f-dd43-4826-b14b-8aa5dcc77d7c/CHINA%20IMPORTED%20IRON%20ORE%20CONSUMPTION%20LEAD%20VS%20CAPESIZE%201%20MONTH%20CHANGE.png)
+![China Imported Iron Ore Consumption Lead vs BCI5TC 1 Month Change](../../../../../corpus/01-brokers/fearnleys-md/images/65e5827f-dd43-4826-b14b-8aa5dcc77d7c/CHINA%20IMPORTED%20IRON%20ORE%20CONSUMPTION%20LEAD%20VS%20CAPESIZE%201%20MONTH%20CHANGE.png)
+*Chart: China Imported Iron Ore Consumption Lead vs BCI5TC 1 Month Change*
 
 ## Panamax/Kamsarmax
 
 Average seasonality suggests the 5TC index could be on the way to around 13kpd by mid-March. As pointed to in this report the last weeks, fundamentals have been weighed down by weaker Pac coal markets (China and India imports negative yoy), a weak North Atlantic, and delays to the Brazilian Soybean harvest. So, it could be a bumpy road toward a seasonal spring peak in March. Also, reaching the same levels as last year is unlikely.
 
-> **Chart 4: Panamax / Kamsarmax Ballasting to Brazil or Argentina, by Year**  
-> *Figure Asset:* [`panamax kamsarmax ballasting to brazil or argentina.png`](../images/65e5827f-dd43-4826-b14b-8aa5dcc77d7c/panamax%20kamsarmax%20ballasting%20to%20brazil%20or%20argentina.png)
+![Panamax / Kamsarmax Ballasting to Brazil or Argentina, by Year](../../../../../corpus/01-brokers/fearnleys-md/images/65e5827f-dd43-4826-b14b-8aa5dcc77d7c/panamax%20kamsarmax%20ballasting%20to%20brazil%20or%20argentina.png)
+*Chart: Panamax / Kamsarmax Ballasting to Brazil or Argentina, by Year*
 
-> **Chart 5: Panamax / Kamsarmax Laden With Coal to China or India**  
-> *Figure Asset:* [`PANAMAX KAMSARMAX LADEN WITH COAL TO CHINA OR INDIA.png`](../images/65e5827f-dd43-4826-b14b-8aa5dcc77d7c/PANAMAX%20KAMSARMAX%20LADEN%20WITH%20COAL%20TO%20CHINA%20OR%20INDIA.png)
+![Panamax / Kamsarmax Laden With Coal to China or India](../../../../../corpus/01-brokers/fearnleys-md/images/65e5827f-dd43-4826-b14b-8aa5dcc77d7c/PANAMAX%20KAMSARMAX%20LADEN%20WITH%20COAL%20TO%20CHINA%20OR%20INDIA.png)
+*Chart: Panamax / Kamsarmax Laden With Coal to China or India*
 
-> **Chart 6: Kamsarmax Market Seasonality**  
-> *Figure Asset:* [`PANAMAX KAMSARMAX SEASONAL AVERAGE.png`](../images/65e5827f-dd43-4826-b14b-8aa5dcc77d7c/PANAMAX%20KAMSARMAX%20SEASONAL%20AVERAGE.png)
+![Kamsarmax Market Seasonality](../../../../../corpus/01-brokers/fearnleys-md/images/65e5827f-dd43-4826-b14b-8aa5dcc77d7c/PANAMAX%20KAMSARMAX%20SEASONAL%20AVERAGE.png)
+*Chart: Kamsarmax Market Seasonality*
 
 ## Supramax/Ultramax
 
-Last week we wrote the following: 
-*Like in the Panamax/Kamsarmax segment, the market keeps tracking average seasonality closely despite the downside risks (primarily related to Pacific coal markets). The Ultramax spot index will peak at between 13.000 - 14.000 USD pd in mid-March should seasonality continue to be tracked closely. 
+Last week we wrote the following:
+
+*Like in the Panamax/Kamsarmax segment, the market keeps tracking average seasonality closely despite the downside risks (primarily related to Pacific coal markets). The Ultramax spot index will peak at between 13.000 - 14.000 USD pd in mid-March should seasonality continue to be tracked closely.
+
 FFAs are already pricing in this move, which could mean the curve will stop the upward move here.*
 
 The curve did indeed take a breather. Until the middle of March when the seasonal spring peak usually occurs, there is likely to be a choppy sideways movement of the FFA curve.
 
-> **Chart 7: Copper Price Lead vs Supramax 1 Year TC 6 Months Change**  
-> *Figure Asset:* [`COPPER PRICE VS SUPRAMAX 1 YEAR TC.png`](../images/65e5827f-dd43-4826-b14b-8aa5dcc77d7c/COPPER%20PRICE%20VS%20SUPRAMAX%201%20YEAR%20TC.png)
+![Copper Price Lead vs Supramax 1 Year TC 6 Months Change](../../../../../corpus/01-brokers/fearnleys-md/images/65e5827f-dd43-4826-b14b-8aa5dcc77d7c/COPPER%20PRICE%20VS%20SUPRAMAX%201%20YEAR%20TC.png)
+*Chart: Copper Price Lead vs Supramax 1 Year TC 6 Months Change*
 
-> **Chart 8: Supramax / Ultramax Market Seasonality**  
-> *Figure Asset:* [`SUPRAMAX ULTRAMAX SEASONAL AVERAGE.png`](../images/65e5827f-dd43-4826-b14b-8aa5dcc77d7c/SUPRAMAX%20ULTRAMAX%20SEASONAL%20AVERAGE.png)
+![Supramax / Ultramax Market Seasonality](../../../../../corpus/01-brokers/fearnleys-md/images/65e5827f-dd43-4826-b14b-8aa5dcc77d7c/SUPRAMAX%20ULTRAMAX%20SEASONAL%20AVERAGE.png)
+*Chart: Supramax / Ultramax Market Seasonality*
 
-> **Chart 9: Laden Supramax/Ultramax Vessels, and Year on Year Change**  
-> *Figure Asset:* [`LADEN SUPRAMAX ULTRAMAX.png`](../images/707f347d-1e37-4c8c-9d9e-ffe3e5da966c/LADEN%20SUPRAMAX%20ULTRAMAX.png)
+![Laden Supramax/Ultramax Vessels, and Year on Year Change](../../../../../corpus/01-brokers/fearnleys-md/images/707f347d-1e37-4c8c-9d9e-ffe3e5da966c/LADEN%20SUPRAMAX%20ULTRAMAX.png)
+*Chart: Laden Supramax/Ultramax Vessels, and Year on Year Change*

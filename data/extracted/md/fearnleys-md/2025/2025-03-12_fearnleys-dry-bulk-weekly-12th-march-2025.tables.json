@@ -4,24 +4,55 @@
   "year": 2025,
   "department": "BULK",
   "report_title": "Fearnleys Dry Bulk Weekly",
-  "shipment_volume_metrics": [],
-  "coal_futures_spread_metrics": [],
-  "time_charter_vs_asset_metrics": [],
-  "vessel_tightness_metrics": [],
-  "macro_correlation_metrics": [
-    {
-      "issue_date": "2025-03-12",
-      "year": "2025",
-      "department": "BULK",
-      "report_title": "Fearnleys Dry Bulk Weekly",
-      "macro_metric": "Iron Ore Price 3M Lead vs BCI5TC",
-      "freight_benchmark_val": 12631.6,
-      "macro_indicator_val": 115.8,
-      "lead_tenor": "3 Months",
-      "chart_title": "IRON ORE PRICE 3 MONTH LEAD VS BCI5TC.png",
-      "report_id": "c90d7d30-f25f-4181-8e49-0e77e70b7996"
-    }
-  ],
+  "source_markdown": "2025-03-12_fearnleys-dry-bulk-weekly-12th-march-2025.md",
+  "tables": [],
+  "printed_image_tables": [],
   "charts_count": 9,
-  "source_markdown": "2025-03-12_fearnleys-dry-bulk-weekly-12th-march-2025.md"
+  "charts": [
+    {
+      "section": "Capesize/Newcastlemax",
+      "title": "Capesize 5TC vs Capesize 5TC / Panamax 5TC",
+      "image": "c90d7d30-f25f-4181-8e49-0e77e70b7996/KAMSARMAX CAPE RATIO.png"
+    },
+    {
+      "section": "Capesize/Newcastlemax",
+      "title": "China Imported Iron Ore Consumption, 1 Month Change (1.5 Months Lead) vs Capesize 5TC 1 Month Change",
+      "image": "c90d7d30-f25f-4181-8e49-0e77e70b7996/CHINA IMPORTED IRON ORE CONSUMPTION LEAD VS CAPESIZE 1 MONTH CHANGE.png"
+    },
+    {
+      "section": "Capesize/Newcastlemax",
+      "title": "Iron Ore Price, 3 Months Lead vs BCI5TC",
+      "image": "c90d7d30-f25f-4181-8e49-0e77e70b7996/IRON ORE PRICE 3 MONTH LEAD VS BCI5TC.png"
+    },
+    {
+      "section": "Panamax/Kamsarmax",
+      "title": "Panamax / Kamsarmax Ballasting to Brazil or Argentina, by Year",
+      "image": "c90d7d30-f25f-4181-8e49-0e77e70b7996/panamax kamsarmax heading to brazil or argentina.png"
+    },
+    {
+      "section": "Panamax/Kamsarmax",
+      "title": "Panamax / Kamsarmax Laden With Coal to China, India, Korea, Japan, Taiwan, or Vietnam.",
+      "image": "c90d7d30-f25f-4181-8e49-0e77e70b7996/panamax kamsarmax heading to china india korea japan taiwan vietnam with coal.png"
+    },
+    {
+      "section": "Panamax/Kamsarmax",
+      "title": "Kamsarmax Market Seasonality",
+      "image": "c90d7d30-f25f-4181-8e49-0e77e70b7996/PANAMAX KAMSARMAX SEASONAL AVERAGE.png"
+    },
+    {
+      "section": "Supramax/Ultramax",
+      "title": "Copper Price Lead vs Supramax 1 Year TC 6 Months Change",
+      "image": "65e5827f-dd43-4826-b14b-8aa5dcc77d7c/COPPER PRICE VS SUPRAMAX 1 YEAR TC.png"
+    },
+    {
+      "section": "Supramax/Ultramax",
+      "title": "Supramax / Ultramax Market Seasonality",
+      "image": "c90d7d30-f25f-4181-8e49-0e77e70b7996/SUPRAMAX ULTRAMAX SEASONAL AVERAGE.png"
+    },
+    {
+      "section": "Supramax/Ultramax",
+      "title": "Laden Supramax/Ultramax Vessels, and Year on Year Change",
+      "image": "879763e2-3118-4a64-9f23-7362da6e1abd/LADEN SUPRAMAX ULTRAMAX.png"
+    }
+  ]
 }

@@ -4,11 +4,195 @@
   "year": 2026,
   "department": "TANK",
   "report_title": "Fearnleys Tanker Market Wrap-up Jun 2026",
-  "shipment_volume_metrics": [],
-  "coal_futures_spread_metrics": [],
-  "time_charter_vs_asset_metrics": [],
-  "vessel_tightness_metrics": [],
-  "macro_correlation_metrics": [],
-  "charts_count": 31,
-  "source_markdown": "2026-06-26_fearnleys-tanker-market-wrap-up-jun-2026.md"
+  "source_markdown": "2026-06-26_fearnleys-tanker-market-wrap-up-jun-2026.md",
+  "tables": [],
+  "printed_image_tables": [],
+  "charts_count": 37,
+  "charts": [
+    {
+      "section": "Summary and outlook",
+      "title": "Monthly rates",
+      "image": "28d394ae-eedb-4258-97c3-90bb4cee2189/rates.png"
+    },
+    {
+      "section": "Summary and outlook",
+      "title": "Actual crude oil loadings in MEG and surrounding load areas",
+      "image": "28d394ae-eedb-4258-97c3-90bb4cee2189/meg.png"
+    },
+    {
+      "section": "Summary and outlook",
+      "title": "Global oil production vs. tanker tonne-mile demand growth",
+      "image": "28d394ae-eedb-4258-97c3-90bb4cee2189/demand.png"
+    },
+    {
+      "section": "Volumes nearly recovered, but now what?",
+      "title": "Total tanker tonne-mile demand (-2% vs. Jan, -8% YTD)",
+      "image": "28d394ae-eedb-4258-97c3-90bb4cee2189/tmtot.png"
+    },
+    {
+      "section": "Volumes nearly recovered, but now what?",
+      "title": "Crude tanker tonne-mile demand (2% vs. Jan, -7% YTD)",
+      "image": "28d394ae-eedb-4258-97c3-90bb4cee2189/tmtot.png"
+    },
+    {
+      "section": "Volumes nearly recovered, but now what?",
+      "title": "Product tanker tonne-mile demand (-14% vs. Jan, -10% YTD)",
+      "image": "28d394ae-eedb-4258-97c3-90bb4cee2189/tmp.png"
+    },
+    {
+      "section": "Volumes nearly recovered, but now what?",
+      "title": "VLCC tonne-mile demand (2% vs. Jan, -17% YTD)",
+      "image": "28d394ae-eedb-4258-97c3-90bb4cee2189/tmv.png"
+    },
+    {
+      "section": "Volumes nearly recovered, but now what?",
+      "title": "Suezmax tonne-mile demand (-9% vs. Jan, 3% YTD)",
+      "image": "28d394ae-eedb-4258-97c3-90bb4cee2189/tms.png"
+    },
+    {
+      "section": "Volumes nearly recovered, but now what?",
+      "title": "Afra/LR2 tanker tonne-mile demand (-2% vs. Jan, -1% YTD)",
+      "image": "28d394ae-eedb-4258-97c3-90bb4cee2189/tma.png"
+    },
+    {
+      "section": "Volumes nearly recovered, but now what?",
+      "title": "MR tonne-mile demand (-8% vs. Jan, 0% YTD)",
+      "image": "28d394ae-eedb-4258-97c3-90bb4cee2189/tmm.png"
+    },
+    {
+      "section": "Volumes nearly recovered, but now what?",
+      "title": "LR2s starting to clean up again, but remain overweight dirty",
+      "image": "28d394ae-eedb-4258-97c3-90bb4cee2189/dirtylr2.png"
+    },
+    {
+      "section": "Volumes nearly recovered, but now what?",
+      "title": "VLCC ballasters (Atlantic +11, Pacific +13, total +35 vs. Jan/Feb)",
+      "image": "28d394ae-eedb-4258-97c3-90bb4cee2189/posv.png"
+    },
+    {
+      "section": "Volumes nearly recovered, but now what?",
+      "title": "Suez ballasters (Atlantic +36, Pacific +4, total +42 vs. Jan/Feb)",
+      "image": "28d394ae-eedb-4258-97c3-90bb4cee2189/poss.png"
+    },
+    {
+      "section": "Volumes nearly recovered, but now what?",
+      "title": "Afra/LR2 ballasters (Atlantic +25, Pacific -22, total +20 vs. Jan/Feb)",
+      "image": "28d394ae-eedb-4258-97c3-90bb4cee2189/possa.png"
+    },
+    {
+      "section": "Volumes nearly recovered, but now what?",
+      "title": "MR ballasters (Atlantic +56, Pacific +4, total +112 vs. Jan/Feb)",
+      "image": "28d394ae-eedb-4258-97c3-90bb4cee2189/possm.png"
+    },
+    {
+      "section": "Volumes nearly recovered, but now what?",
+      "title": "Atlantic crude in transit on VLCCs",
+      "image": "28d394ae-eedb-4258-97c3-90bb4cee2189/Atlantic Vs.png"
+    },
+    {
+      "section": "Volumes nearly recovered, but now what?",
+      "title": "Crude oil on the water",
+      "image": "28d394ae-eedb-4258-97c3-90bb4cee2189/oow.png"
+    },
+    {
+      "section": "Volumes nearly recovered, but now what?",
+      "title": "Relative crude oil pricing",
+      "image": "28d394ae-eedb-4258-97c3-90bb4cee2189/arb.png"
+    },
+    {
+      "section": "Volumes nearly recovered, but now what?",
+      "title": "Atlantic MR rates vs. NWE gasoil crack spread",
+      "image": "28d394ae-eedb-4258-97c3-90bb4cee2189/MRcrack.png"
+    },
+    {
+      "section": "Oil market - from glut, to shortage, to glut again. Or is there really one?",
+      "title": "IEA oil market balance",
+      "image": "28d394ae-eedb-4258-97c3-90bb4cee2189/ieabal.png"
+    },
+    {
+      "section": "Oil market - from glut, to shortage, to glut again. Or is there really one?",
+      "title": "Global oil stocks",
+      "image": "28d394ae-eedb-4258-97c3-90bb4cee2189/globinv.png"
+    },
+    {
+      "section": "Oil market - from glut, to shortage, to glut again. Or is there really one?",
+      "title": "Iran crude oil production",
+      "image": "28d394ae-eedb-4258-97c3-90bb4cee2189/Iran.png"
+    },
+    {
+      "section": "Oil market - from glut, to shortage, to glut again. Or is there really one?",
+      "title": "Venezuela crude oil production",
+      "image": "28d394ae-eedb-4258-97c3-90bb4cee2189/venz.png"
+    },
+    {
+      "section": "Oil market - from glut, to shortage, to glut again. Or is there really one?",
+      "title": "UAE crude oil production",
+      "image": "28d394ae-eedb-4258-97c3-90bb4cee2189/uae.png"
+    },
+    {
+      "section": "Oil market - from glut, to shortage, to glut again. Or is there really one?",
+      "title": "USG crude oil exports by destination",
+      "image": "28d394ae-eedb-4258-97c3-90bb4cee2189/usex.png"
+    },
+    {
+      "section": "Oil market - from glut, to shortage, to glut again. Or is there really one?",
+      "title": "U.S. commercial crude oil inventories",
+      "image": "28d394ae-eedb-4258-97c3-90bb4cee2189/uscom.png"
+    },
+    {
+      "section": "Oil market - from glut, to shortage, to glut again. Or is there really one?",
+      "title": "U.S. strategic crude oil inventories",
+      "image": "28d394ae-eedb-4258-97c3-90bb4cee2189/usstrat.png"
+    },
+    {
+      "section": "Iran comeback net neutral impact for the tanker market near-term",
+      "title": "Iran crude oil exports by destination",
+      "image": "28d394ae-eedb-4258-97c3-90bb4cee2189/iranex.png"
+    },
+    {
+      "section": "Iran comeback net neutral impact for the tanker market near-term",
+      "title": "Shadow/sanctioned VL fleet age distribution",
+      "image": "28d394ae-eedb-4258-97c3-90bb4cee2189/irn.png"
+    },
+    {
+      "section": "Iran comeback net neutral impact for the tanker market near-term",
+      "title": "Global refinery runs",
+      "image": "28d394ae-eedb-4258-97c3-90bb4cee2189/ref.png"
+    },
+    {
+      "section": "Iran comeback net neutral impact for the tanker market near-term",
+      "title": "U.S. Gulf Coast crack spreads",
+      "image": "28d394ae-eedb-4258-97c3-90bb4cee2189/crackus.png"
+    },
+    {
+      "section": "Iran comeback net neutral impact for the tanker market near-term",
+      "title": "Northwest Europe crack spreads",
+      "image": "28d394ae-eedb-4258-97c3-90bb4cee2189/crackeu.png"
+    },
+    {
+      "section": "Iran comeback net neutral impact for the tanker market near-term",
+      "title": "Bohai Bay crack spreads",
+      "image": "28d394ae-eedb-4258-97c3-90bb4cee2189/crackch.png"
+    },
+    {
+      "section": "Fleet growth will ultimately spoil the party",
+      "title": "Annual tanker deliveries",
+      "image": "28d394ae-eedb-4258-97c3-90bb4cee2189/fleet.png"
+    },
+    {
+      "section": "Fleet growth will ultimately spoil the party",
+      "title": "Quarterly tanker orders",
+      "image": "28d394ae-eedb-4258-97c3-90bb4cee2189/orders.png"
+    },
+    {
+      "section": "Fleet growth will ultimately spoil the party",
+      "title": "Orderbook to fleet",
+      "image": "28d394ae-eedb-4258-97c3-90bb4cee2189/obfleet.png"
+    },
+    {
+      "section": "Fleet growth will ultimately spoil the party",
+      "title": "Orderbook vs. phase-out potential (25+ years)",
+      "image": "28d394ae-eedb-4258-97c3-90bb4cee2189/obout.png"
+    }
+  ]
 }

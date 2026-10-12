@@ -4,24 +4,70 @@
   "year": 2025,
   "department": "BULK",
   "report_title": "Fearnleys Dry Bulk Weekly",
-  "shipment_volume_metrics": [],
-  "coal_futures_spread_metrics": [],
-  "time_charter_vs_asset_metrics": [],
-  "vessel_tightness_metrics": [],
-  "macro_correlation_metrics": [
-    {
-      "issue_date": "2025-08-13",
-      "year": "2025",
-      "department": "BULK",
-      "report_title": "Fearnleys Dry Bulk Weekly",
-      "macro_metric": "Steel Mill Profitability vs Hot Metal Output",
-      "freight_benchmark_val": 57.1,
-      "macro_indicator_val": 2.48,
-      "lead_tenor": "7 Weeks Lead",
-      "chart_title": "STEEL MILL PROFITABILITY VS HOT METAL OUTPUT.png",
-      "report_id": "fe2aa00a-76e2-4bdc-a666-b39c293bbf59"
-    }
-  ],
+  "source_markdown": "2025-08-13_fearnleys-dry-bulk-weekly-13th-august-2025-8.md",
+  "tables": [],
+  "printed_image_tables": [],
   "charts_count": 12,
-  "source_markdown": "2025-08-13_fearnleys-dry-bulk-weekly-13th-august-2025-8.md"
+  "charts": [
+    {
+      "section": "Capesize/Newcastlemax",
+      "title": "China Daily Imported Iron Ore Consumption",
+      "image": "fe2aa00a-76e2-4bdc-a666-b39c293bbf59/Daily imported iron ore consumption.png"
+    },
+    {
+      "section": "Capesize/Newcastlemax",
+      "title": "Iron Ore Futures Spread, 1st Month Minus 3rd Month (4 Months Lead) vs BCI5TC 60 Days Rolling Average",
+      "image": "fe2aa00a-76e2-4bdc-a666-b39c293bbf59/IRON ORE FUTURES LEAD VS CAPE.png"
+    },
+    {
+      "section": "Capesize/Newcastlemax",
+      "title": "China - Share of Steel Mills that are Profitable, 7 weeks lead, vs Daily Hot Metal Output",
+      "image": "fe2aa00a-76e2-4bdc-a666-b39c293bbf59/STEEL MILL PROFITABILITY VS HOT METAL OUTPUT.png"
+    },
+    {
+      "section": "Capesize/Newcastlemax",
+      "title": "Capesize/Newcastlemax Total Loadings, 2024 vs 2025",
+      "image": "fe2aa00a-76e2-4bdc-a666-b39c293bbf59/Capenewc Weekly Shipment Volumes.png"
+    },
+    {
+      "section": "Panamax/Kamsarmax",
+      "title": "Panamax Atlantic vs Pacific Index",
+      "image": "fe2aa00a-76e2-4bdc-a666-b39c293bbf59/PANAMAX ATL VS PAC.png"
+    },
+    {
+      "section": "Panamax/Kamsarmax",
+      "title": "Panamax/Kamsarmax Coal Loadings, 2024 vs 2025",
+      "image": "fe2aa00a-76e2-4bdc-a666-b39c293bbf59/panamax kamsarmax weekly coal shipments.png"
+    },
+    {
+      "section": "Panamax/Kamsarmax",
+      "title": "Panamax / Kamsarmax Heading to Indonesia",
+      "image": "fe2aa00a-76e2-4bdc-a666-b39c293bbf59/PANAMAX KAMSARMAX HEADING TO INDONESIA.png"
+    },
+    {
+      "section": "Panamax/Kamsarmax",
+      "title": "Panamax / Kamsarmax Brazil Soybeans Loadings  24 vs 25",
+      "image": "fe2aa00a-76e2-4bdc-a666-b39c293bbf59/BRAZIL SOYBEAN LOADINGS.png"
+    },
+    {
+      "section": "Supramax/Ultramax",
+      "title": "Supramax Ultramax Weekly Total Loadings 2024 vs 2025",
+      "image": "fe2aa00a-76e2-4bdc-a666-b39c293bbf59/supra ultra total weekly shipment volumes.png"
+    },
+    {
+      "section": "Supramax/Ultramax",
+      "title": "Ultramax Index 2024 vs 2025",
+      "image": "fe2aa00a-76e2-4bdc-a666-b39c293bbf59/Ultra Index 2024 vs 2025.png"
+    },
+    {
+      "section": "Supramax/Ultramax",
+      "title": "Supramax58 Index vs Handysize38 Index Spread",
+      "image": "fe2aa00a-76e2-4bdc-a666-b39c293bbf59/SUPRA HANDY SPREAD.png"
+    },
+    {
+      "section": "Supramax/Ultramax",
+      "title": "Ultramax Atlantic vs Pacific Earnings",
+      "image": "fe2aa00a-76e2-4bdc-a666-b39c293bbf59/Ultramax Atl vs Pac.png"
+    }
+  ]
 }

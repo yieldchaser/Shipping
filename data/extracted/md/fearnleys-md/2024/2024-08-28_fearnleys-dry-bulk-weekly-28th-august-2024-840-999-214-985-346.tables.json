@@ -4,11 +4,55 @@
   "year": 2024,
   "department": "BULK",
   "report_title": "Fearnleys Dry Bulk Weekly",
-  "shipment_volume_metrics": [],
-  "coal_futures_spread_metrics": [],
-  "time_charter_vs_asset_metrics": [],
-  "vessel_tightness_metrics": [],
-  "macro_correlation_metrics": [],
+  "source_markdown": "2024-08-28_fearnleys-dry-bulk-weekly-28th-august-2024-840-999-214-985-346.md",
+  "tables": [],
+  "printed_image_tables": [],
   "charts_count": 9,
-  "source_markdown": "2024-08-28_fearnleys-dry-bulk-weekly-28th-august-2024-840-999-214-985-346.md"
+  "charts": [
+    {
+      "section": "Capesize/Newcastlemax",
+      "title": "China Imported Iron Ore Consumption, 1 Month Change, Moved Forward 1.5 Months vs BCI5TC 1 Month Change",
+      "image": "079e56fd-c975-46a9-ac5b-7114d9d70e0b/CHINA IMPORTED IRON ORE CONSUMPTION LEAD VS CAPESIZE 1 MONTH CHANGE BIG VERSION 11111111111111111111111111.png"
+    },
+    {
+      "section": "Panamax/Kamsarmax",
+      "title": "Panamax / Kamsarmax Heading to the US",
+      "image": "079e56fd-c975-46a9-ac5b-7114d9d70e0b/PANAMAX KAMSARMAX HEADING TO THE US.png"
+    },
+    {
+      "section": "Panamax/Kamsarmax",
+      "title": "Panamax / Kamsarmax Heading to Canada",
+      "image": "079e56fd-c975-46a9-ac5b-7114d9d70e0b/PANAMAX KAMSARMAX HEADING TO CANADA.png"
+    },
+    {
+      "section": "Panamax/Kamsarmax",
+      "title": "Panamax/Kamsarmax Seasonal Average Market Movement",
+      "image": "079e56fd-c975-46a9-ac5b-7114d9d70e0b/PANAMAX KAMSARMAX SEASONAL AVERAGE.png"
+    },
+    {
+      "section": "Panamax/Kamsarmax",
+      "title": "Panamax / Kamsarmax India Coal Discharges Seasonality",
+      "image": "c1b36696-d734-449f-adb7-0b212ae75d77/PANAMAX INDIA COAL DISCHARGES.png"
+    },
+    {
+      "section": "Supramax/Ultramax",
+      "title": "Supramax Seasonal Market Movement",
+      "image": "079e56fd-c975-46a9-ac5b-7114d9d70e0b/SUPRAMAX SEASONALITY.png"
+    },
+    {
+      "section": "Supramax/Ultramax",
+      "title": "Copper Price Lead vs Supramax 1 Year TC",
+      "image": "079e56fd-c975-46a9-ac5b-7114d9d70e0b/COPPER PRICE VS SUPRAMAX 1 YEAR TC.png"
+    },
+    {
+      "section": "Supramax/Ultramax",
+      "title": "Supramax / Ultramax Weekly Grain Shipments - Canada & US",
+      "image": "8a9ed350-31b1-4f93-847e-f0f1855ede59/SUPRAMAX ULTRAMAX WEEKLY CANADA US GRAIN SHIPMENTS.png"
+    },
+    {
+      "section": "Supramax/Ultramax",
+      "title": "Supramax / Ultramax Monthly Total Loadings - 2022, 2023 and 2024",
+      "image": "65a7dd70-5259-4eb8-a06e-bb39b73c1948/SUPRAMAX ULTRAMAX MONTHLY LOADINGS.png"
+    }
+  ]
 }

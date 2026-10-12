@@ -32,6 +32,9 @@ FMD_DIR = ROOT / "corpus" / "01-brokers" / "fearnleys-md"
 IMG_BASE_DIR = FMD_DIR / "images"
 PDF_BASE_DIR = FMD_DIR / "pdfs"
 
+sys.path.insert(0, str(ROOT / "scripts" / "md_cleanup"))
+import fearnleys_md_rebuild  # noqa: E402
+
 
 def slugify(text: str) -> str:
     s = re.sub(r"[^a-zA-Z0-9]+", "_", text or "").strip("_")
@@ -68,62 +71,11 @@ def parse_blocks_to_markdown(report: dict, rep_slug: Optional[str] = None) -> Tu
         except Exception:
             content_blocks = [{"type": "paragraph", "content": content_blocks}]
 
-    body_lines = []
-    images_count = 0
-
-    for block in content_blocks:
-        if not isinstance(block, dict):
-            continue
-        btype = block.get("type", "")
-        bcontent = clean_encoding(block.get("content", ""))
-        btitle = clean_encoding(block.get("title", ""))
-
-        if btype == "heading1":
-            body_lines.append(f"\n## {bcontent}\n")
-        elif btype == "heading2":
-            body_lines.append(f"\n### {bcontent}\n")
-        elif btype in ("fullWidthParagraph", "paragraph"):
-            if bcontent:
-                body_lines.append(f"{bcontent}\n")
-        elif btype in ("halfWidthChartFromFile", "fullWidthChartFromFile", "chart"):
-            images_count += 1
-            chart_url = bcontent.strip()
-
-            # Check if image is cached locally
-            m_blob = re.search(r"pbrkapp\.blob\.core\.windows\.net/report/([^/]+)/(.+)", chart_url)
-            local_rel_path = None
-            local_file_uri = None
-            chart_title = btitle
-            if m_blob:
-                guid, filename = m_blob.groups()
-                filename_clean = filename.rstrip(')"\'> \r\n\t')
-                filename_unquoted = urllib.parse.unquote(filename_clean.split('?')[0].strip())
-                expected_local = IMG_BASE_DIR / guid / filename_unquoted
-                if not chart_title:
-                    chart_title = re.sub(r'[-_]+', ' ', filename_unquoted.rsplit('.', 1)[0]).title()
-                if expected_local.exists():
-                    quoted_filename = urllib.parse.quote(filename_unquoted)
-                    local_rel_path = f"../images/{guid}/{quoted_filename}"
-                    local_abs_path = expected_local.resolve().as_posix()
-                    local_file_uri = f"file:///{urllib.parse.quote(local_abs_path, safe='/:')}"
-
-            chart_title = chart_title or f"Indicator Chart {images_count}"
-
-            if local_rel_path:
-                body_lines.append(
-                    f"\n![{chart_title}]({local_rel_path})\n\n"
-                    f"> **Figure {images_count}: {chart_title}**  \n"
-                    f"> [Local Asset]({local_file_uri}) | [Cloud Backup]({chart_url})\n"
-                )
-            else:
-                encoded_cloud_url = urllib.parse.quote(chart_url, safe=":/")
-                body_lines.append(
-                    f"\n![{chart_title}]({encoded_cloud_url})\n\n"
-                    f"> **Figure {images_count}: {chart_title}**  \n"
-                    f"> [Cloud Backup]({chart_url})\n"
-                )
-        elif btype == "pageBreak":
-            body_lines.append("\n---\n")
+    # The body is rendered by the shared block renderer, which handles every API block type
+    # (columns, source lines, data tables, third-width charts) and writes repo-relative image links.
+    images_count = sum(1 for b in content_blocks if isinstance(b, dict)
+                       and (b.get("type", "").endswith("ChartFromFile") or b.get("type") == "chart"))
+    body = fearnleys_md_rebuild.render({"content": content_blocks, "date": date_str, "title": title}, "../images")
 
     # Local PDF verification
     local_pdf_rel = None
@@ -163,7 +115,7 @@ def parse_blocks_to_markdown(report: dict, rep_slug: Optional[str] = None) -> Tu
         header.append(f"**Original PDF:** [Download PDF]({pdf_url})  ")
     header.append("\n---\n")
 
-    full_md = "\n".join(fm) + "\n".join(header) + "\n".join(body_lines)
+    full_md = "\n".join(fm) + "\n".join(header) + "\n" + body
     return full_md, images_count, local_pdf_rel
 
 

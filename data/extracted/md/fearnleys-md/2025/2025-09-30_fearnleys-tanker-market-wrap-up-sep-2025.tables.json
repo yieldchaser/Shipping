@@ -4,11 +4,160 @@
   "year": 2025,
   "department": "TANK",
   "report_title": "Fearnleys Tanker Market Wrap-up Sep 2025",
-  "shipment_volume_metrics": [],
-  "coal_futures_spread_metrics": [],
-  "time_charter_vs_asset_metrics": [],
-  "vessel_tightness_metrics": [],
-  "macro_correlation_metrics": [],
-  "charts_count": 27,
-  "source_markdown": "2025-09-30_fearnleys-tanker-market-wrap-up-sep-2025.md"
+  "source_markdown": "2025-09-30_fearnleys-tanker-market-wrap-up-sep-2025.md",
+  "tables": [],
+  "printed_image_tables": [],
+  "charts_count": 30,
+  "charts": [
+    {
+      "section": "Summary and conclusion",
+      "title": "Rates catching up closer to our forecast",
+      "image": "75b89dfd-3ed7-4cfa-8eef-a32c1f41c351/rates.png"
+    },
+    {
+      "section": "Most of the bull case has played out, but rates not fully so until now",
+      "title": "Global oil supply growth vs. tanker demand",
+      "image": "75b89dfd-3ed7-4cfa-8eef-a32c1f41c351/tm.png"
+    },
+    {
+      "section": "Most of the bull case has played out, but rates not fully so until now",
+      "title": "China oil storage capacity",
+      "image": "75b89dfd-3ed7-4cfa-8eef-a32c1f41c351/chistor.png"
+    },
+    {
+      "section": "Much of the upside may already have been taken out",
+      "title": "OECD oil inventories",
+      "image": "75b89dfd-3ed7-4cfa-8eef-a32c1f41c351/oecd.png"
+    },
+    {
+      "section": "Much of the upside may already have been taken out",
+      "title": "Non-OECD oil inventories",
+      "image": "75b89dfd-3ed7-4cfa-8eef-a32c1f41c351/non-oecd.png"
+    },
+    {
+      "section": "Much of the upside may already have been taken out",
+      "title": "USG-West arbitrage narrowing - WTI better priced into Europe",
+      "image": "75b89dfd-3ed7-4cfa-8eef-a32c1f41c351/arb.png"
+    },
+    {
+      "section": "Much of the upside may already have been taken out",
+      "title": "Watch the Brent forward curve",
+      "image": "75b89dfd-3ed7-4cfa-8eef-a32c1f41c351/fwd.png"
+    },
+    {
+      "section": "Much of the upside may already have been taken out",
+      "title": "Key Atlantic producers q/q supply growth",
+      "image": "75b89dfd-3ed7-4cfa-8eef-a32c1f41c351/atalntic.png"
+    },
+    {
+      "section": "Much of the upside may already have been taken out",
+      "title": "U.S. refinery runs",
+      "image": "75b89dfd-3ed7-4cfa-8eef-a32c1f41c351/usref.png"
+    },
+    {
+      "section": "Much of the upside may already have been taken out",
+      "title": "Russia seaborne crude oil exports",
+      "image": "75b89dfd-3ed7-4cfa-8eef-a32c1f41c351/ruscru.png"
+    },
+    {
+      "section": "Much of the upside may already have been taken out",
+      "title": "Russia seaborne products exports",
+      "image": "75b89dfd-3ed7-4cfa-8eef-a32c1f41c351/rusprod.png"
+    },
+    {
+      "section": "Much of the upside may already have been taken out",
+      "title": "Russia West crude oil exports by ship type",
+      "image": "75b89dfd-3ed7-4cfa-8eef-a32c1f41c351/ruswest.png"
+    },
+    {
+      "section": "Much of the upside may already have been taken out",
+      "title": "Total compliant tanker tonne-miles",
+      "image": "75b89dfd-3ed7-4cfa-8eef-a32c1f41c351/tmtot.png"
+    },
+    {
+      "section": "Much of the upside may already have been taken out",
+      "title": "Compliant VLCC tonne-miles",
+      "image": "75b89dfd-3ed7-4cfa-8eef-a32c1f41c351/tmv.png"
+    },
+    {
+      "section": "Much of the upside may already have been taken out",
+      "title": "Compliant crude tanker tonne-miles",
+      "image": "75b89dfd-3ed7-4cfa-8eef-a32c1f41c351/tmc.png"
+    },
+    {
+      "section": "Much of the upside may already have been taken out",
+      "title": "Compliant product tanker tonne-miles",
+      "image": "75b89dfd-3ed7-4cfa-8eef-a32c1f41c351/tmp.png"
+    },
+    {
+      "section": "Slower demand growth next year",
+      "title": "IEA oil supply/demand balance",
+      "image": "75b89dfd-3ed7-4cfa-8eef-a32c1f41c351/ieabal.png"
+    },
+    {
+      "section": "Slower demand growth next year",
+      "title": "OPEC cut tranches",
+      "image": "75b89dfd-3ed7-4cfa-8eef-a32c1f41c351/opec.png"
+    },
+    {
+      "section": "Slower demand growth next year",
+      "title": "Refinery capacity additions",
+      "image": "75b89dfd-3ed7-4cfa-8eef-a32c1f41c351/ref.png"
+    },
+    {
+      "section": "Slower demand growth next year",
+      "title": "U.S. Gulf Coast crack spreads",
+      "image": "75b89dfd-3ed7-4cfa-8eef-a32c1f41c351/crackus.png"
+    },
+    {
+      "section": "Slower demand growth next year",
+      "title": "NorthWest Europe crack spreads",
+      "image": "75b89dfd-3ed7-4cfa-8eef-a32c1f41c351/crackeu.png"
+    },
+    {
+      "section": "Slower demand growth next year",
+      "title": "China Bohai Bay crack spreads",
+      "image": "75b89dfd-3ed7-4cfa-8eef-a32c1f41c351/crackchi.png"
+    },
+    {
+      "section": "Fleet growth on the rise",
+      "title": "Annual deliveries",
+      "image": "75b89dfd-3ed7-4cfa-8eef-a32c1f41c351/delya.png"
+    },
+    {
+      "section": "Fleet growth on the rise",
+      "title": "Quarterly deliveries",
+      "image": "75b89dfd-3ed7-4cfa-8eef-a32c1f41c351/delyq.png"
+    },
+    {
+      "section": "Fleet growth on the rise",
+      "title": "Older VLCC fleet composition",
+      "image": "75b89dfd-3ed7-4cfa-8eef-a32c1f41c351/oldprofV.png"
+    },
+    {
+      "section": "Fleet growth on the rise",
+      "title": "Older Suezmax fleet composition",
+      "image": "75b89dfd-3ed7-4cfa-8eef-a32c1f41c351/oldprofS.png"
+    },
+    {
+      "section": "Fleet growth on the rise",
+      "title": "Older Afra/LR2 fleet composition",
+      "image": "75b89dfd-3ed7-4cfa-8eef-a32c1f41c351/oldprofA.png"
+    },
+    {
+      "section": "Fleet growth on the rise",
+      "title": "Older MR fleet composition",
+      "image": "75b89dfd-3ed7-4cfa-8eef-a32c1f41c351/oldprofM.png"
+    },
+    {
+      "section": "Fleet growth on the rise",
+      "title": "Phase-out YTD picked up slightly",
+      "image": "75b89dfd-3ed7-4cfa-8eef-a32c1f41c351/scrap.png"
+    },
+    {
+      "section": "Fleet growth on the rise",
+      "title": "Ordering YTD slower, but still elevated",
+      "image": "75b89dfd-3ed7-4cfa-8eef-a32c1f41c351/order.png"
+    }
+  ]
 }

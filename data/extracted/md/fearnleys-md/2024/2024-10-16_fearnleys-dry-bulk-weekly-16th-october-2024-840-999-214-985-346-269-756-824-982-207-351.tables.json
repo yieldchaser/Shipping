@@ -4,24 +4,70 @@
   "year": 2024,
   "department": "BULK",
   "report_title": "Fearnleys Dry Bulk Weekly",
-  "shipment_volume_metrics": [],
-  "coal_futures_spread_metrics": [],
-  "time_charter_vs_asset_metrics": [],
-  "vessel_tightness_metrics": [],
-  "macro_correlation_metrics": [
-    {
-      "issue_date": "2024-10-16",
-      "year": "2024",
-      "department": "BULK",
-      "report_title": "Fearnleys Dry Bulk Weekly",
-      "macro_metric": "Iron Ore Price 3M Lead vs BCI5TC",
-      "freight_benchmark_val": 14788.7,
-      "macro_indicator_val": 121.3,
-      "lead_tenor": "3 Months",
-      "chart_title": "IRON ORE PRICE 3 MONTH LEAD VS BCI5TC.png",
-      "report_id": "ec98016f-8633-4cbc-9135-e75628c9436d"
-    }
-  ],
+  "source_markdown": "2024-10-16_fearnleys-dry-bulk-weekly-16th-october-2024-840-999-214-985-346-269-756-824-982-207-351.md",
+  "tables": [],
+  "printed_image_tables": [],
   "charts_count": 12,
-  "source_markdown": "2024-10-16_fearnleys-dry-bulk-weekly-16th-october-2024-840-999-214-985-346-269-756-824-982-207-351.md"
+  "charts": [
+    {
+      "section": "Capesize/Newcastlemax",
+      "title": "Capesize / Newcastlemax Heading to Brazil",
+      "image": "c9075ab4-d2a9-4b73-8ddc-d2291b111517/CAPESNEWCS HEADING TO BRAZIL.png"
+    },
+    {
+      "section": "Capesize/Newcastlemax",
+      "title": "OECD Economic Indicator - China vs Capesize 1 Year TC YoY Change",
+      "image": "b3a016e9-1153-4f09-a3e0-33cc30fcc2b6/OECD CHINA vs CAPE.png"
+    },
+    {
+      "section": "Capesize/Newcastlemax",
+      "title": "Iron Ore Price Lead vs BCI5TC",
+      "image": "ec98016f-8633-4cbc-9135-e75628c9436d/IRON ORE PRICE 3 MONTH LEAD VS BCI5TC.png"
+    },
+    {
+      "section": "Capesize/Newcastlemax",
+      "title": "China Imported Iron Ore Consumption Lead vs BCI5TC",
+      "image": "ec98016f-8633-4cbc-9135-e75628c9436d/CHINA IMPORTED IRON ORE CONSUMPTION LEAD VS CAPESIZE 1 MONTH CHANGE.png"
+    },
+    {
+      "section": "Panamax/Kamsarmax",
+      "title": "Panamax / Kamsarmax Shipment Volume Growth minus Supply Growth vs 1 Year TC YoY",
+      "image": "b3a016e9-1153-4f09-a3e0-33cc30fcc2b6/PANAMAX KAMSARMAX 1 YEAR TC VS MARKET BALANCE.png"
+    },
+    {
+      "section": "Panamax/Kamsarmax",
+      "title": "Panamax / Kamsarmax Brazil Grain Exports - 2024 vs 2023",
+      "image": "c9075ab4-d2a9-4b73-8ddc-d2291b111517/PANAMAX KAMSARMAX BRAZIL GRAIN EXPORTS.png"
+    },
+    {
+      "section": "Panamax/Kamsarmax",
+      "title": "USA Grains Exports, 2023 vs 2024 YTD",
+      "image": "ec98016f-8633-4cbc-9135-e75628c9436d/usa grains exports.png"
+    },
+    {
+      "section": "Panamax/Kamsarmax",
+      "title": "India Coal Imports, 2023 vs 2024 YTD",
+      "image": "ec98016f-8633-4cbc-9135-e75628c9436d/INDIA COAL IMPORTS 2024 VS 2023.png"
+    },
+    {
+      "section": "Supramax/Ultramax",
+      "title": "Supramax Seasonal Market Movement",
+      "image": "ec98016f-8633-4cbc-9135-e75628c9436d/SUPRAMAX SEASONALITY.png"
+    },
+    {
+      "section": "Supramax/Ultramax",
+      "title": "Supramax 1 Year TC YoY",
+      "image": "b3a016e9-1153-4f09-a3e0-33cc30fcc2b6/SUPRAMAX 1 YEAR TC YOY.png"
+    },
+    {
+      "section": "Supramax/Ultramax",
+      "title": "Supramax Spot YoY",
+      "image": "b3a016e9-1153-4f09-a3e0-33cc30fcc2b6/SUPRAMAX SPOT YOY.png"
+    },
+    {
+      "section": "Supramax/Ultramax",
+      "title": "Supramax / Ultramax Market Balance",
+      "image": "b3a016e9-1153-4f09-a3e0-33cc30fcc2b6/supramax market balance.png"
+    }
+  ]
 }

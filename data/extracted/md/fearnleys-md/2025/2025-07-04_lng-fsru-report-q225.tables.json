@@ -4,11 +4,45 @@
   "year": 2025,
   "department": "LNG",
   "report_title": "FSRU Quarterly - Q2/25",
-  "shipment_volume_metrics": [],
-  "coal_futures_spread_metrics": [],
-  "time_charter_vs_asset_metrics": [],
-  "vessel_tightness_metrics": [],
-  "macro_correlation_metrics": [],
+  "source_markdown": "2025-07-04_lng-fsru-report-q225.md",
+  "tables": [],
+  "printed_image_tables": [],
   "charts_count": 7,
-  "source_markdown": "2025-07-04_lng-fsru-report-q225.md"
+  "charts": [
+    {
+      "section": "Quarterly focus: The gas turbine crunch?",
+      "title": "US CCGT cost index (by year of contract order)",
+      "image": "93f12843-c398-404a-8b66-b2e4eb4201c5/CCGT_COST.png"
+    },
+    {
+      "section": "Quarterly focus: The gas turbine crunch?",
+      "title": "GE reported CCGT sales vs orders (by year of contract order)",
+      "image": "93f12843-c398-404a-8b66-b2e4eb4201c5/CCGT_ORDERS_SALES.png"
+    },
+    {
+      "section": "FSRU activity and volumes",
+      "title": "Global volumes imported through FSRUs (2022-2025YTD)",
+      "image": "93f12843-c398-404a-8b66-b2e4eb4201c5/Global_Volumes_Y-o-Y.png"
+    },
+    {
+      "section": "FSRU activity and volumes",
+      "title": "Monthly volumes imported through FSRUs by region (2025)",
+      "image": "93f12843-c398-404a-8b66-b2e4eb4201c5/Monthly_Volumes_by_Region.png"
+    },
+    {
+      "section": "Notable FSRU movements",
+      "title": "Fleet_Map",
+      "image": "93f12843-c398-404a-8b66-b2e4eb4201c5/Fleet_Map.jpg"
+    },
+    {
+      "section": "Asset values: Conversions increasingly competitive, NBs trending lower",
+      "title": "FSRU conversion candidates: Secondhand values",
+      "image": "93f12843-c398-404a-8b66-b2e4eb4201c5/SH_values.jpg"
+    },
+    {
+      "section": "Asset values: Conversions increasingly competitive, NBs trending lower",
+      "title": "FSRU Newbuild prices",
+      "image": "93f12843-c398-404a-8b66-b2e4eb4201c5/NB_Values.jpg"
+    }
+  ]
 }

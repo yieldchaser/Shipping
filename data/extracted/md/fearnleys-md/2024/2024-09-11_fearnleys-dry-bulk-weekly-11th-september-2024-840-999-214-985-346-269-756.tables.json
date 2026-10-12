@@ -4,11 +4,70 @@
   "year": 2024,
   "department": "BULK",
   "report_title": "Fearnleys Dry Bulk Weekly",
-  "shipment_volume_metrics": [],
-  "coal_futures_spread_metrics": [],
-  "time_charter_vs_asset_metrics": [],
-  "vessel_tightness_metrics": [],
-  "macro_correlation_metrics": [],
+  "source_markdown": "2024-09-11_fearnleys-dry-bulk-weekly-11th-september-2024-840-999-214-985-346-269-756.md",
+  "tables": [],
+  "printed_image_tables": [],
   "charts_count": 12,
-  "source_markdown": "2024-09-11_fearnleys-dry-bulk-weekly-11th-september-2024-840-999-214-985-346-269-756.md"
+  "charts": [
+    {
+      "section": "Capesize/Newcastlemax",
+      "title": "VLOCs Heading to Brazil",
+      "image": "5733bbe1-0da6-4e5e-ae6b-b924982dd193/VLOC BRAZIL SAILING.png"
+    },
+    {
+      "section": "Capesize/Newcastlemax",
+      "title": "Capes / Newcs Heading to Brazil",
+      "image": "5733bbe1-0da6-4e5e-ae6b-b924982dd193/CAPENEWC HEADING TO BRAZIL.png"
+    },
+    {
+      "section": "Capesize/Newcastlemax",
+      "title": "Iron Ore Price Lead vs BCI5TC",
+      "image": "7433cc21-2dc5-42ed-bbe0-52803dae8a52/IRON ORE PRICE 3 MONTH LEAD VS BCI5TC.png"
+    },
+    {
+      "section": "Capesize/Newcastlemax",
+      "title": "China Imported Iron Ore Consumption Lead vs BCI5TC",
+      "image": "7433cc21-2dc5-42ed-bbe0-52803dae8a52/CHINA IMPORTED IRON ORE CONSUMPTION LEAD VS CAPESIZE 1 MONTH CHANGE.png"
+    },
+    {
+      "section": "Panamax/Kamsarmax",
+      "title": "Panamax / Kamsarmax Heading to the US",
+      "image": "5733bbe1-0da6-4e5e-ae6b-b924982dd193/PANAMAX KAMSARMAX HEADING TO THE US.png"
+    },
+    {
+      "section": "Panamax/Kamsarmax",
+      "title": "Panamax / Kamsarmax Heading to Med/Black Sea",
+      "image": "5733bbe1-0da6-4e5e-ae6b-b924982dd193/PANAMAX KAMSARMAX HEADING TO MED BLACK SEA.png"
+    },
+    {
+      "section": "Panamax/Kamsarmax",
+      "title": "Panamax/Kamsarmax Seasonal Average Market Movement",
+      "image": "7433cc21-2dc5-42ed-bbe0-52803dae8a52/PANAMAX KAMSARMAX SEASONAL AVERAGE.png"
+    },
+    {
+      "section": "Panamax/Kamsarmax",
+      "title": "Panamax / Kamsarmax India Coal Discharges",
+      "image": "5733bbe1-0da6-4e5e-ae6b-b924982dd193/PANAMAX KAMSARMAX INDIA COAL DISCHARGES.png"
+    },
+    {
+      "section": "Supramax/Ultramax",
+      "title": "Supramax Seasonal Market Movement",
+      "image": "5733bbe1-0da6-4e5e-ae6b-b924982dd193/SUPRAMAX SEASONALITY.png"
+    },
+    {
+      "section": "Supramax/Ultramax",
+      "title": "Supra / Ultra Year on Year Shipment Volume Growth",
+      "image": "5733bbe1-0da6-4e5e-ae6b-b924982dd193/SUPRAMAX ULTRAMAX YEAR ON YEAR SHIPMENT VOLUME GROWTH.png"
+    },
+    {
+      "section": "Supramax/Ultramax",
+      "title": "Supramax / Ultramax Weekly Shipment Volumes",
+      "image": "5733bbe1-0da6-4e5e-ae6b-b924982dd193/SUPRAMAX ULTRAMAX WEEKLY SHIPMENT VOLUMES.png"
+    },
+    {
+      "section": "Supramax/Ultramax",
+      "title": "Supramax / Ultramax Fleet Age Profile",
+      "image": "5733bbe1-0da6-4e5e-ae6b-b924982dd193/SUPRAMAX ULTRAMAX FLEET AGE PROFILE.png"
+    }
+  ]
 }

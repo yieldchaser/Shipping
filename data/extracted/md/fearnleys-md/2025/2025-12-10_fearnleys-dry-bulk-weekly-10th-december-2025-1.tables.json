@@ -4,65 +4,70 @@
   "year": 2025,
   "department": "BULK",
   "report_title": "Fearnleys Dry Bulk Weekly",
-  "shipment_volume_metrics": [],
-  "coal_futures_spread_metrics": [
+  "source_markdown": "2025-12-10_fearnleys-dry-bulk-weekly-10th-december-2025-1.md",
+  "tables": [],
+  "printed_image_tables": [],
+  "charts_count": 12,
+  "charts": [
     {
-      "issue_date": "2025-12-10",
-      "year": "2025",
-      "department": "BULK",
-      "report_title": "Fearnleys Dry Bulk Weekly",
-      "p5_kamsarmax_indonesia_rv_usd_day": 15735.29,
-      "p5_4w_prev_usd_day": 18198.53,
-      "newcastle_coal_futures_spread_lead_2m": -10.55,
-      "coal_spread_4w_prev": "",
-      "lead_tenor": "2 Months",
-      "chart_title": "P5 vs Newcastle Coal Futures Spread Lead",
-      "source_image": "P5 vs Newcastle Coal Futures Spread Lead.png",
-      "report_id": "176a0091-59e2-4532-8b23-04180b889723"
-    }
-  ],
-  "time_charter_vs_asset_metrics": [],
-  "vessel_tightness_metrics": [
-    {
-      "issue_date": "2025-12-10",
-      "year": "2025",
-      "department": "BULK",
-      "report_title": "Fearnleys Dry Bulk Weekly",
-      "chart_family": "P6 vs SATL Tightness.png",
-      "indicator_metric": "South Atlantic Vessel Count",
-      "indicator_val": 350.7,
-      "freight_benchmark": "P6 / BCI5TC Index USD/day",
-      "freight_benchmark_val": 14879.4,
-      "lead_tenor": "1 Month Lead",
-      "report_id": "176a0091-59e2-4532-8b23-04180b889723"
-    }
-  ],
-  "macro_correlation_metrics": [
-    {
-      "issue_date": "2025-12-10",
-      "year": "2025",
-      "department": "BULK",
-      "report_title": "Fearnleys Dry Bulk Weekly",
-      "macro_metric": "Steel Mill Profitability vs Hot Metal Output",
-      "freight_benchmark_val": -46.6,
-      "macro_indicator_val": 2.16,
-      "lead_tenor": "7 Weeks Lead",
-      "chart_title": "STEEL MILL PROFITABILITY VS HOT METAL OUTPUT.png",
-      "report_id": "176a0091-59e2-4532-8b23-04180b889723"
+      "section": "Capesize/Newcastlemax",
+      "title": "Share of Profitable Steel Mills (7 Weeks Lead) vs Hot Metal Output",
+      "image": "176a0091-59e2-4532-8b23-04180b889723/STEEL MILL PROFITABILITY VS HOT METAL OUTPUT.png"
     },
     {
-      "issue_date": "2025-12-10",
-      "year": "2025",
-      "department": "BULK",
-      "report_title": "Fearnleys Dry Bulk Weekly",
-      "macro_metric": "Iron Ore Price 3M Lead vs BCI5TC",
-      "freight_benchmark_val": 14745.8,
-      "macro_indicator_val": 154.3,
-      "lead_tenor": "3 Months",
-      "chart_title": "IRON ORE PRICE 3 MONTH LEAD VS BCI5TC.png",
-      "report_id": "176a0091-59e2-4532-8b23-04180b889723"
+      "section": "Capesize/Newcastlemax",
+      "title": "Iron Ore Futures Spread, 1st Month Minus 3rd Month (3 Months Lead) vs BCI5TC 60 Days Rolling Average",
+      "image": "176a0091-59e2-4532-8b23-04180b889723/IRON ORE FUTURES LEAD VS CAPE.png"
+    },
+    {
+      "section": "Capesize/Newcastlemax",
+      "title": "Copper Price Lead vs Capesize 10-Year Old",
+      "image": "9318cc69-55a4-4e54-8555-c8957db7e395/COPPER PRICE LEAD VS CAPESIZE 10 YEAR OLD.png"
+    },
+    {
+      "section": "Capesize/Newcastlemax",
+      "title": "Iron Ore Price - 3 Months Lead vs C5TC",
+      "image": "176a0091-59e2-4532-8b23-04180b889723/IRON ORE PRICE 3 MONTH LEAD VS BCI5TC.png"
+    },
+    {
+      "section": "Panamax/Kamsarmax",
+      "title": "Copper Price Lead vs Kamsarmax 10 Year Old",
+      "image": "9318cc69-55a4-4e54-8555-c8957db7e395/COPPER PRICE LEAD VS KAMSARMAX 10 YEAR OLD.png"
+    },
+    {
+      "section": "Panamax/Kamsarmax",
+      "title": "P5 vs Newcastle Coal Futures Curve Spread (Lead 2 Months)",
+      "image": "176a0091-59e2-4532-8b23-04180b889723/P5 vs Newcastle Coal Futures Spread Lead.png"
+    },
+    {
+      "section": "Panamax/Kamsarmax",
+      "title": "North Atlantic net Vessel Change vs P1A minus P5",
+      "image": "9318cc69-55a4-4e54-8555-c8957db7e395/p1a minus p5.png"
+    },
+    {
+      "section": "Panamax/Kamsarmax",
+      "title": "South Atlantic Vessel Tightness Indicator (Lead 1 Month), vs P6",
+      "image": "176a0091-59e2-4532-8b23-04180b889723/P6 vs SATL Tightness.png"
+    },
+    {
+      "section": "Supramax/Ultramax",
+      "title": "Copper Price 3 Months Change, 3 Months Lead vs 3 Months Change of Supra 10TC",
+      "image": "1af71b34-ea9e-488a-be44-cbf070e85f6c/3 MONTHS CHANGE OF COPPER VS 3 MONTHS CHANGE OF SUPRA 10 TC.png"
+    },
+    {
+      "section": "Supramax/Ultramax",
+      "title": "Copper Price 6 months Change, 4 Month Lead vs Supramax 1 Year TC 6 Months Change",
+      "image": "9318cc69-55a4-4e54-8555-c8957db7e395/COPPER PRICE VS SUPRAMAX 1 YEAR TC.png"
+    },
+    {
+      "section": "Supramax/Ultramax",
+      "title": "Industrial Metals Index vs Ultramax 1 Year TC",
+      "image": "9318cc69-55a4-4e54-8555-c8957db7e395/Industrial Metals Index vs Ultramax 1 Year TC.png"
+    },
+    {
+      "section": "Supramax/Ultramax",
+      "title": "Copper Price Lead vs Supramax 10-Year Old",
+      "image": "9318cc69-55a4-4e54-8555-c8957db7e395/COPPER PRICE LEAD VS SUPRAMAX 10 YEAR OLD.png"
     }
-  ],
-  "charts_count": 12,
-  "source_markdown": "2025-12-10_fearnleys-dry-bulk-weekly-10th-december-2025-1.md"
+  ]
 }

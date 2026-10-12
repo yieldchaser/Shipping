@@ -4,11 +4,170 @@
   "year": 2024,
   "department": "BULK",
   "report_title": "Fearnleys Dry Bulk Market Outlook",
-  "shipment_volume_metrics": [],
-  "coal_futures_spread_metrics": [],
-  "time_charter_vs_asset_metrics": [],
-  "vessel_tightness_metrics": [],
-  "macro_correlation_metrics": [],
+  "source_markdown": "2024-08-29_fearnleys-dry-bulk-market-outlook-august-2024-878.md",
+  "tables": [],
+  "printed_image_tables": [],
   "charts_count": 32,
-  "source_markdown": "2024-08-29_fearnleys-dry-bulk-market-outlook-august-2024-878.md"
+  "charts": [
+    {
+      "section": "SUMMARY AND OUTLOOK",
+      "title": "Earnings Forecasts",
+      "image": "2d41b1a9-f38f-4f7e-a016-aaff22f1068e/Rate forecasts.png"
+    },
+    {
+      "section": "SUMMARY AND OUTLOOK",
+      "title": "BDI by Year",
+      "image": "2d41b1a9-f38f-4f7e-a016-aaff22f1068e/BDI BY YEAR.png"
+    },
+    {
+      "section": "Fleet Growth and Forward Gross Estimates",
+      "title": "Total Fleet Growth Including Estimate",
+      "image": "2d41b1a9-f38f-4f7e-a016-aaff22f1068e/total fleet growth.png"
+    },
+    {
+      "section": "Fleet Growth and Forward Gross Estimates",
+      "title": "Cape/Newc Fleet Growth Including Estimate",
+      "image": "2d41b1a9-f38f-4f7e-a016-aaff22f1068e/capesize fleet growth.png"
+    },
+    {
+      "section": "Fleet Growth and Forward Gross Estimates",
+      "title": "VLOC Fleet Growth Including Estimate",
+      "image": "2d41b1a9-f38f-4f7e-a016-aaff22f1068e/vloc fleet growth.png"
+    },
+    {
+      "section": "Fleet Growth and Forward Gross Estimates",
+      "title": "Panamax/Kamsarmax Fleet Growth Including Estimate",
+      "image": "2d41b1a9-f38f-4f7e-a016-aaff22f1068e/panamax fleet growth.png"
+    },
+    {
+      "section": "Fleet Growth and Forward Gross Estimates",
+      "title": "Supramax/Ultramax Fleet Growth Including Estimate",
+      "image": "2d41b1a9-f38f-4f7e-a016-aaff22f1068e/supramax fleet growth.png"
+    },
+    {
+      "section": "Fleet Growth and Forward Gross Estimates",
+      "title": "Handysize Fleet Growth Including Estimate",
+      "image": "2d41b1a9-f38f-4f7e-a016-aaff22f1068e/handysize fleet growth.png"
+    },
+    {
+      "section": "Asset Values vs Period Rates",
+      "title": "Capesize 1 Year TC vs Capesize 10 Year Old",
+      "image": "2d41b1a9-f38f-4f7e-a016-aaff22f1068e/cape1yr tc vs asset.png"
+    },
+    {
+      "section": "Asset Values vs Period Rates",
+      "title": "Panamax/Kamsarmax 1 Year TC vs Panamax/Kamsarmax 10 Year Old",
+      "image": "2d41b1a9-f38f-4f7e-a016-aaff22f1068e/panamax 1 yr tc vs asset.png"
+    },
+    {
+      "section": "Asset Values vs Period Rates",
+      "title": "Supramax 1 Year TC vs Supramax 10 Year Old",
+      "image": "2d41b1a9-f38f-4f7e-a016-aaff22f1068e/supramax 1 yr tc vs asset.png"
+    },
+    {
+      "section": "Asset Values vs Period Rates",
+      "title": "Handysize 1 Year TC vs Handysize 10 Year Old",
+      "image": "2d41b1a9-f38f-4f7e-a016-aaff22f1068e/handysize 1yr tc vs asset.png"
+    },
+    {
+      "section": "Asset Values vs Spot Earnings Averages",
+      "title": "Capesize 6 Months Spot Market Average (Moved 3 Months Forward) vs Capesize 10 Year Old",
+      "image": "2d41b1a9-f38f-4f7e-a016-aaff22f1068e/cape spot lead.png"
+    },
+    {
+      "section": "Asset Values vs Spot Earnings Averages",
+      "title": "Kamsarmax 6 Months Spot Market Average (Moved 3 Months Forward) vs Kamsarmax 10 Year Old",
+      "image": "2d41b1a9-f38f-4f7e-a016-aaff22f1068e/panamax spot lead.png"
+    },
+    {
+      "section": "Asset Values vs Spot Earnings Averages",
+      "title": "Supramax 6 Months Spot Market Average (Moved 3 Months Forward) vs Supramax 10 Year Old",
+      "image": "2d41b1a9-f38f-4f7e-a016-aaff22f1068e/supramax spot lead.png"
+    },
+    {
+      "section": "Asset Values vs Spot Earnings Averages",
+      "title": "Handysize 6 Months Spot Market Average (Moved 3 Months Forward) vs Handysize  10 Year Old",
+      "image": "2d41b1a9-f38f-4f7e-a016-aaff22f1068e/handysize spot lead.png"
+    },
+    {
+      "section": "Asset Values vs Commodity Prices",
+      "title": "Gold Price (Moved Forward 1 Year) vs Industrial Metals Price Index",
+      "image": "2d41b1a9-f38f-4f7e-a016-aaff22f1068e/Gold vs Industrial Metals.png"
+    },
+    {
+      "section": "Asset Values vs Commodity Prices",
+      "title": "Gold Price (Moved Forward 1 Year) vs Supramax/Ultramax 10 Year Old",
+      "image": "2d41b1a9-f38f-4f7e-a016-aaff22f1068e/Gold vs Ultramax.png"
+    },
+    {
+      "section": "Asset Values vs Commodity Prices",
+      "title": "Industrial Metals Price Index (Moved Forward 6 Months) vs Supramax/Ultramax 10 Year Old",
+      "image": "2d41b1a9-f38f-4f7e-a016-aaff22f1068e/Industrial Metals vs Supramax 10 Year Old.png"
+    },
+    {
+      "section": "Asset Values vs Commodity Prices",
+      "title": "Gold Price (Moved Forward 1 Year) vs Brent Oil Price",
+      "image": "2d41b1a9-f38f-4f7e-a016-aaff22f1068e/Gold vs Oil.png"
+    },
+    {
+      "section": "TRADE FLOWS",
+      "title": "Capesize/Newcastlemax Ton-Time Growth vs Supply Growth",
+      "image": "2d41b1a9-f38f-4f7e-a016-aaff22f1068e/cape market balance.png"
+    },
+    {
+      "section": "TRADE FLOWS",
+      "title": "Panamax/Kamsarmax Ton-Time Growth vs Supply Growth",
+      "image": "2d41b1a9-f38f-4f7e-a016-aaff22f1068e/panamax market balance.png"
+    },
+    {
+      "section": "TRADE FLOWS",
+      "title": "Supramax/Ultramax Ton-Time Growth vs Supply Growth",
+      "image": "2d41b1a9-f38f-4f7e-a016-aaff22f1068e/supramax market balance.png"
+    },
+    {
+      "section": "TRADE FLOWS",
+      "title": "Handysize Ton-Time Growth vs Supply Growth",
+      "image": "2d41b1a9-f38f-4f7e-a016-aaff22f1068e/handysize market balance.png"
+    },
+    {
+      "section": "TRADE FLOWS",
+      "title": "China Iron Ore Imports, 2023 vs 2024",
+      "image": "2d41b1a9-f38f-4f7e-a016-aaff22f1068e/China iron ore imports.png"
+    },
+    {
+      "section": "TRADE FLOWS",
+      "title": "China Coal Imports, 2023 vs 2024",
+      "image": "2d41b1a9-f38f-4f7e-a016-aaff22f1068e/china coal imports.png"
+    },
+    {
+      "section": "MACRO ECONOMIC OUTLOOK",
+      "title": "OECD Diffusion Index vs Baltic Dry Index Year on Year Change",
+      "image": "2d41b1a9-f38f-4f7e-a016-aaff22f1068e/oecd vs bdi.png"
+    },
+    {
+      "section": "MACRO ECONOMIC OUTLOOK",
+      "title": "US Interest Rate Curve Change Lead vs Baltic Dry Index Year on Year Change",
+      "image": "fa6cb19e-736b-482c-8a11-b196e5350f85/yield curve change lead vs BDI.png"
+    },
+    {
+      "section": "MACRO ECONOMIC OUTLOOK",
+      "title": "China Bulk Commodity Imports Growth (Moved 1 Year Forward) vs OECD Economic Indicator for G-20 Countries",
+      "image": "2d41b1a9-f38f-4f7e-a016-aaff22f1068e/China bulk imports vs OECD.png"
+    },
+    {
+      "section": "MACRO ECONOMIC OUTLOOK",
+      "title": "Gas, Oil and Coal Price Change Lead vs BDI Year on Year Change",
+      "image": "2d41b1a9-f38f-4f7e-a016-aaff22f1068e/Energy vs BDI.png"
+    },
+    {
+      "section": "MACRO ECONOMIC OUTLOOK",
+      "title": "China Imported Iron Ore Consumption (Million Tons per Day)",
+      "image": "2d41b1a9-f38f-4f7e-a016-aaff22f1068e/china imported iron ore consumption.png"
+    },
+    {
+      "section": "MACRO ECONOMIC OUTLOOK",
+      "title": "USD (3 Months Lead) vs Dry Bulk Shipment Volume Growth",
+      "image": "2d41b1a9-f38f-4f7e-a016-aaff22f1068e/dollar vs dry bulk demand.png"
+    }
+  ]
 }

@@ -4,11 +4,135 @@
   "year": 2026,
   "department": "TANK",
   "report_title": "Fearnleys Tanker Market Wrap-up Apr 2026",
-  "shipment_volume_metrics": [],
-  "coal_futures_spread_metrics": [],
-  "time_charter_vs_asset_metrics": [],
-  "vessel_tightness_metrics": [],
-  "macro_correlation_metrics": [],
+  "source_markdown": "2026-04-30_fearnleys-tanker-market-wrap-up-apr-2026.md",
+  "tables": [],
+  "printed_image_tables": [],
   "charts_count": 25,
-  "source_markdown": "2026-04-30_fearnleys-tanker-market-wrap-up-apr-2026.md"
+  "charts": [
+    {
+      "section": "Summary",
+      "title": "Monthly rates",
+      "image": "37119827-e2c9-4925-a7fc-d826d6401fe2/rates.png"
+    },
+    {
+      "section": "Revisiting the reopening scenarios",
+      "title": "Share of fleet stuck inside of the Hormuz Strait",
+      "image": "37119827-e2c9-4925-a7fc-d826d6401fe2/meg.png"
+    },
+    {
+      "section": "Revisiting the reopening scenarios",
+      "title": "U.S. exports pushing all-time-highs on SPR releases",
+      "image": "37119827-e2c9-4925-a7fc-d826d6401fe2/usg.png"
+    },
+    {
+      "section": "Low demand with corresponding tonnage build-up",
+      "title": "Total tanker tonne-miles (-18% vs. early Jan)",
+      "image": "37119827-e2c9-4925-a7fc-d826d6401fe2/1.png"
+    },
+    {
+      "section": "Low demand with corresponding tonnage build-up",
+      "title": "Crude tanker tonne-miles (-19% vs. early Jan)",
+      "image": "37119827-e2c9-4925-a7fc-d826d6401fe2/tmc.png"
+    },
+    {
+      "section": "Low demand with corresponding tonnage build-up",
+      "title": "Product tanker tonne-miles (-14% vs. early Jan)",
+      "image": "37119827-e2c9-4925-a7fc-d826d6401fe2/tmp.png"
+    },
+    {
+      "section": "Low demand with corresponding tonnage build-up",
+      "title": "VLCC tonne-miles (-31% vs. early Jan)",
+      "image": "37119827-e2c9-4925-a7fc-d826d6401fe2/tmv.png"
+    },
+    {
+      "section": "Low demand with corresponding tonnage build-up",
+      "title": "Suez tonne-miles (-7% vs. early Jan)",
+      "image": "37119827-e2c9-4925-a7fc-d826d6401fe2/tms.png"
+    },
+    {
+      "section": "Low demand with corresponding tonnage build-up",
+      "title": "Afra/LR2 tonne-miles (-11% vs. early Jan)",
+      "image": "37119827-e2c9-4925-a7fc-d826d6401fe2/tma.png"
+    },
+    {
+      "section": "Low demand with corresponding tonnage build-up",
+      "title": "MR tonne-miles (2% vs. early Jan)",
+      "image": "37119827-e2c9-4925-a7fc-d826d6401fe2/tmm.png"
+    },
+    {
+      "section": "Low demand with corresponding tonnage build-up",
+      "title": "Share of LR2s trading dirty",
+      "image": "37119827-e2c9-4925-a7fc-d826d6401fe2/123.png"
+    },
+    {
+      "section": "Low demand with corresponding tonnage build-up",
+      "title": "Overweight of VLCC ballasters heading to Atlantic",
+      "image": "37119827-e2c9-4925-a7fc-d826d6401fe2/ballv.png"
+    },
+    {
+      "section": "Low demand with corresponding tonnage build-up",
+      "title": "High Suez ballaster count in both basins",
+      "image": "37119827-e2c9-4925-a7fc-d826d6401fe2/balls.png"
+    },
+    {
+      "section": "Low demand with corresponding tonnage build-up",
+      "title": "Afra/LR2 ballasters increasingly headed to Atlantic",
+      "image": "37119827-e2c9-4925-a7fc-d826d6401fe2/balla.png"
+    },
+    {
+      "section": "Low demand with corresponding tonnage build-up",
+      "title": "MR Western shortage starting to be replenished",
+      "image": "37119827-e2c9-4925-a7fc-d826d6401fe2/ballm.png"
+    },
+    {
+      "section": "Oil... Less oil...",
+      "title": "Seaborne crude oil volumes",
+      "image": "37119827-e2c9-4925-a7fc-d826d6401fe2/seabornec.png"
+    },
+    {
+      "section": "Oil... Less oil...",
+      "title": "Seaborne oil product volumes",
+      "image": "37119827-e2c9-4925-a7fc-d826d6401fe2/seabornep.png"
+    },
+    {
+      "section": "Oil... Less oil...",
+      "title": "Global observed inventories (incl. potential loss)",
+      "image": "37119827-e2c9-4925-a7fc-d826d6401fe2/global.png"
+    },
+    {
+      "section": "Oil... Less oil...",
+      "title": "Crude oil on water",
+      "image": "37119827-e2c9-4925-a7fc-d826d6401fe2/oow.png"
+    },
+    {
+      "section": "Oil... Less oil...",
+      "title": "West-East crude oil flow",
+      "image": "37119827-e2c9-4925-a7fc-d826d6401fe2/we.png"
+    },
+    {
+      "section": "Oil... Less oil...",
+      "title": "West-East oil product flow",
+      "image": "37119827-e2c9-4925-a7fc-d826d6401fe2/wec.png"
+    },
+    {
+      "section": "Better longer term demand outlook, but a correspondingly growing orderbook",
+      "title": "Americas crude oil production growth",
+      "image": "37119827-e2c9-4925-a7fc-d826d6401fe2/am.png"
+    },
+    {
+      "section": "Better longer term demand outlook, but a correspondingly growing orderbook",
+      "title": "Sanctioned flows - some upside potential if sanctions are lifted",
+      "image": "37119827-e2c9-4925-a7fc-d826d6401fe2/shadow.png"
+    },
+    {
+      "section": "Better longer term demand outlook, but a correspondingly growing orderbook",
+      "title": "Orderbook to fleet ratio",
+      "image": "37119827-e2c9-4925-a7fc-d826d6401fe2/ob.png"
+    },
+    {
+      "section": "Better longer term demand outlook, but a correspondingly growing orderbook",
+      "title": "Annual tanker deliveries",
+      "image": "37119827-e2c9-4925-a7fc-d826d6401fe2/dely.png"
+    }
+  ]
 }

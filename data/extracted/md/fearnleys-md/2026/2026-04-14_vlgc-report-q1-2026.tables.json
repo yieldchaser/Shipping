@@ -4,11 +4,55 @@
   "year": 2026,
   "department": "LPG",
   "report_title": "Fearnleys VLGC Report: Q1 2026",
-  "shipment_volume_metrics": [],
-  "coal_futures_spread_metrics": [],
-  "time_charter_vs_asset_metrics": [],
-  "vessel_tightness_metrics": [],
-  "macro_correlation_metrics": [],
+  "source_markdown": "2026-04-14_vlgc-report-q1-2026.md",
+  "tables": [],
+  "printed_image_tables": [],
   "charts_count": 9,
-  "source_markdown": "2026-04-14_vlgc-report-q1-2026.md"
+  "charts": [
+    {
+      "section": "All eyes on Hormuz",
+      "title": "Global LPG VLGCs",
+      "image": "6d65730e-9db0-4091-bb67-a731b1d68f9b/Global LPG VLGCs.jpg"
+    },
+    {
+      "section": "All eyes on Hormuz",
+      "title": "China India imports",
+      "image": "6d65730e-9db0-4091-bb67-a731b1d68f9b/China India imports.jpg"
+    },
+    {
+      "section": "All eyes on Hormuz",
+      "title": "Historical Arbitrage",
+      "image": "6d65730e-9db0-4091-bb67-a731b1d68f9b/Historical Arbitrage.jpg"
+    },
+    {
+      "section": "All eyes on Hormuz",
+      "title": "US Exports",
+      "image": "6d65730e-9db0-4091-bb67-a731b1d68f9b/US Exports.png"
+    },
+    {
+      "section": "All eyes on Hormuz",
+      "title": "Chinese imports",
+      "image": "6d65730e-9db0-4091-bb67-a731b1d68f9b/Chinese imports.png"
+    },
+    {
+      "section": "All eyes on Hormuz",
+      "title": "US Propane",
+      "image": "6d65730e-9db0-4091-bb67-a731b1d68f9b/US Propane.png"
+    },
+    {
+      "section": "All eyes on Hormuz",
+      "title": "Fleet development",
+      "image": "6d65730e-9db0-4091-bb67-a731b1d68f9b/Fleet development.jpg"
+    },
+    {
+      "section": "All eyes on Hormuz",
+      "title": "OB del",
+      "image": "6d65730e-9db0-4091-bb67-a731b1d68f9b/OB del.png"
+    },
+    {
+      "section": "All eyes on Hormuz",
+      "title": "VLGC NB prices",
+      "image": "6d65730e-9db0-4091-bb67-a731b1d68f9b/VLGC NB prices.png"
+    }
+  ]
 }

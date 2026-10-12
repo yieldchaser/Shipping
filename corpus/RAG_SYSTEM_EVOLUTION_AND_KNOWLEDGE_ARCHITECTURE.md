@@ -244,8 +244,8 @@ The structured series layer contains over 60 stacked CSV datasets with over 140,
    * Master series: `drewry_ais_fleet_performance_series.csv`, `drewry_ais_regional_congestion_series.csv`, `drewry_ais_deployment_speed_series.csv`.
 6. **Offshore & Energy**:
    * Master series: `seabrokers_osv_spot_rates_series.csv`, `seabrokers_rigs_market_series.csv`, `seabrokers_osv_utilisation_series.csv`.
-7. **Econometric Lead-Indicator Models**:
-   * Master workbook: [`fearnleys_md_master_econometric_series.xlsx`](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/fearnleys_md_master_econometric_series.xlsx), tracking 26 lead-indicator predictive models (copper vs Supramax TC, coal futures curve vs Kamsarmax RV, steel mill margins vs iron ore consumption).
+7. **Fearnleys research tables**:
+   * `data/extracted/md/fearnleys-md/*.tables.json`: the reports' own data tables and the printed Cape composite-model tables. Fearnleys research charts are raster images with no embedded data, so no chart series are kept (the earlier calibrated ones were wrong and are quarantined in `data/_quarantine/fearnleys_md/`).
 
 ---
 

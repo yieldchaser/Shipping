@@ -4,24 +4,65 @@
   "year": 2024,
   "department": "BULK",
   "report_title": "Fearnleys Dry Bulk Weekly",
-  "shipment_volume_metrics": [],
-  "coal_futures_spread_metrics": [],
-  "time_charter_vs_asset_metrics": [],
-  "vessel_tightness_metrics": [],
-  "macro_correlation_metrics": [
-    {
-      "issue_date": "2024-05-29",
-      "year": "2024",
-      "department": "BULK",
-      "report_title": "Fearnleys Dry Bulk Weekly",
-      "macro_metric": "Iron Ore Price 3M Lead vs BCI5TC",
-      "freight_benchmark_val": 21514.1,
-      "macro_indicator_val": 118.5,
-      "lead_tenor": "3 Months",
-      "chart_title": "IRON ORE PRICE 3 MONTH LEAD VS BCI5TC.png",
-      "report_id": "a5b49354-511b-4c6a-a757-325e371dd289"
-    }
-  ],
+  "source_markdown": "2024-05-29_fearnleys-dry-bulk-weekly-29th-may-2024.md",
+  "tables": [],
+  "printed_image_tables": [],
   "charts_count": 11,
-  "source_markdown": "2024-05-29_fearnleys-dry-bulk-weekly-29th-may-2024.md"
+  "charts": [
+    {
+      "section": "Capesize/Newcastlemax",
+      "title": "Iron Ore Price, Moved 3 Months Forward vs Capesize 5TC",
+      "image": "a5b49354-511b-4c6a-a757-325e371dd289/IRON ORE PRICE 3 MONTH LEAD VS BCI5TC.png"
+    },
+    {
+      "section": "Capesize/Newcastlemax",
+      "title": "China Imported Iron Ore Consumption, 1 Month Change, Moved 1.5 Months Forward vs Capesize 5TC 1 Month Change",
+      "image": "a5b49354-511b-4c6a-a757-325e371dd289/CHINA IMPORTED IRON ORE CONSUMPTION LEAD VS CAPESIZE 1 MONTH CHANGE.png"
+    },
+    {
+      "section": "Capesize/Newcastlemax",
+      "title": "Capes/Newcs Heading to or in Australia",
+      "image": "a5b49354-511b-4c6a-a757-325e371dd289/CAPENEWC HEADING TO AUSTRALIA.png"
+    },
+    {
+      "section": "Capesize/Newcastlemax",
+      "title": "Capes/Newcs Heading to or in Brazil",
+      "image": "a5b49354-511b-4c6a-a757-325e371dd289/CAPENEWC HEADING TO BRAZIL.png"
+    },
+    {
+      "section": "Panamax/Kamsarmax",
+      "title": "Panamax/Kamsarmax Heading to or in the South Atlantic Exceeding 375 Vessels vs BPI82 5TC",
+      "image": "a5b49354-511b-4c6a-a757-325e371dd289/PANAMAX KAMSARMAX ECSAM MORE THAN 375.png"
+    },
+    {
+      "section": "Panamax/Kamsarmax",
+      "title": "Panamax/Kamsarmax Seasonal Average Market Movement",
+      "image": "a5b49354-511b-4c6a-a757-325e371dd289/PANAMAX KAMSARMAX SEASONAL AVERAGE.png"
+    },
+    {
+      "section": "Panamax/Kamsarmax",
+      "title": "Panamax/Kamsarmax Heading to or in AUS, IDN or RUS (Pac)",
+      "image": "a5b49354-511b-4c6a-a757-325e371dd289/PANAMAX KAMSARMAX HEADING TO AUS IDN OR RUS (PAC).png"
+    },
+    {
+      "section": "Supramax/Ultramax",
+      "title": "Supramax Seasonal Market Movement",
+      "image": "a5b49354-511b-4c6a-a757-325e371dd289/SUPRAMAX ULTRAMAX SEASONAL AVERAGE.png"
+    },
+    {
+      "section": "Supramax/Ultramax",
+      "title": "Supramax / Ultramax Ballaster /Laden Vessel Ratio",
+      "image": "a5b49354-511b-4c6a-a757-325e371dd289/SUPRAMAX ULTRAMAX BALLASTER LADEN VESSEL RATIO.png"
+    },
+    {
+      "section": "Supramax/Ultramax",
+      "title": "Supramax / Ultramax Heading to or in the South Atlantic",
+      "image": "a5b49354-511b-4c6a-a757-325e371dd289/SUPRAMAX ULTRAMAX HEADING TO OR IN THE SOUTH ATLANTIC.png"
+    },
+    {
+      "section": "Supramax/Ultramax",
+      "title": "Supramax / Ultramax Heading to the North Atlantic / Europe Continent",
+      "image": "a5b49354-511b-4c6a-a757-325e371dd289/SUPRAMAX ULTRAMAX HEADING TO EUROPE NATL.png"
+    }
+  ]
 }

@@ -4,24 +4,70 @@
   "year": 2024,
   "department": "BULK",
   "report_title": "Fearnleys Dry Bulk Weekly",
-  "shipment_volume_metrics": [],
-  "coal_futures_spread_metrics": [],
-  "time_charter_vs_asset_metrics": [],
-  "vessel_tightness_metrics": [],
-  "macro_correlation_metrics": [
-    {
-      "issue_date": "2024-07-17",
-      "year": "2024",
-      "department": "BULK",
-      "report_title": "Fearnleys Dry Bulk Weekly",
-      "macro_metric": "Iron Ore Price 3M Lead vs BCI5TC",
-      "freight_benchmark_val": 15719.3,
-      "macro_indicator_val": 127.4,
-      "lead_tenor": "3 Months",
-      "chart_title": "IRON ORE PRICE 3 MONTH LEAD VS BCI5TC.png",
-      "report_id": "7577b017-daa3-475c-b100-3846b5bbe1d2"
-    }
-  ],
+  "source_markdown": "2024-07-17_fearnleys-dry-bulk-weekly-17-july-2024-840.md",
+  "tables": [],
+  "printed_image_tables": [],
   "charts_count": 12,
-  "source_markdown": "2024-07-17_fearnleys-dry-bulk-weekly-17-july-2024-840.md"
+  "charts": [
+    {
+      "section": "Capesize/Newcastlemax",
+      "title": "Iron Ore Price, Moved 3 Months Forward vs Capesize 5TC",
+      "image": "7577b017-daa3-475c-b100-3846b5bbe1d2/IRON ORE PRICE 3 MONTH LEAD VS BCI5TC.png"
+    },
+    {
+      "section": "Capesize/Newcastlemax",
+      "title": "China Imported Iron Ore Consumption, 1 Month Change, Moved 1.5 Months Forward vs Capesize 5TC 1 Month Change",
+      "image": "7577b017-daa3-475c-b100-3846b5bbe1d2/CHINA IMPORTED IRON ORE CONSUMPTION LEAD VS CAPESIZE 1 MONTH CHANGE.png"
+    },
+    {
+      "section": "Capesize/Newcastlemax",
+      "title": "Capesize/Newcastlemax Australia Export Seasonality",
+      "image": "7577b017-daa3-475c-b100-3846b5bbe1d2/AUSTRALIA CAPE SEASONALITY.png"
+    },
+    {
+      "section": "Capesize/Newcastlemax",
+      "title": "Capesize/Newcastlemax Brazil Export Seasonality",
+      "image": "7577b017-daa3-475c-b100-3846b5bbe1d2/BRAZIL CAPE EXPORT SEASONALITY.png"
+    },
+    {
+      "section": "Panamax/Kamsarmax",
+      "title": "Panamax / Kamsarmax Ton-Time Growth vs Supply Growth",
+      "image": "5201d3bf-67aa-4647-9763-c7b90308d74e/panamax market balance.png"
+    },
+    {
+      "section": "Panamax/Kamsarmax",
+      "title": "Copper Price Lead vs Panamax 1 Year TC",
+      "image": "5201d3bf-67aa-4647-9763-c7b90308d74e/Copper price vs Panamax 1 year tc.png"
+    },
+    {
+      "section": "Panamax/Kamsarmax",
+      "title": "Panamax/Kamsarmax Seasonal Average Market Movement",
+      "image": "7577b017-daa3-475c-b100-3846b5bbe1d2/PANAMAX KAMSARMAX SEASONAL AVERAGE.png"
+    },
+    {
+      "section": "Panamax/Kamsarmax",
+      "title": "Handysize - Kamsarmax Black Sea Grains Shipment Seasonality",
+      "image": "7577b017-daa3-475c-b100-3846b5bbe1d2/BLACK SEA GRAIN SEASON.png"
+    },
+    {
+      "section": "Supramax/Ultramax",
+      "title": "Supramax Seasonal Market Movement",
+      "image": "7577b017-daa3-475c-b100-3846b5bbe1d2/SUPRAMAX ULTRAMAX SEASONAL AVERAGE.png"
+    },
+    {
+      "section": "Supramax/Ultramax",
+      "title": "Copper Price Lead vs Supramax 1 Year TC",
+      "image": "5201d3bf-67aa-4647-9763-c7b90308d74e/COPPER PRICE VS SUPRAMAX 1 YEAR TC.png"
+    },
+    {
+      "section": "Supramax/Ultramax",
+      "title": "Supramax / Ultramax Ton-Time Growth vs Supply Growth",
+      "image": "5201d3bf-67aa-4647-9763-c7b90308d74e/Supramax tontime.png"
+    },
+    {
+      "section": "Supramax/Ultramax",
+      "title": "Supramax / Ultramax Atlantic Basin Loadings",
+      "image": "7577b017-daa3-475c-b100-3846b5bbe1d2/SUPRAMAX ULTRAMAX ATLANTIC BASIN LOADINGS.png"
+    }
+  ]
 }

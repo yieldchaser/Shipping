@@ -4,11 +4,75 @@
   "year": 2024,
   "department": "LNG",
   "report_title": "LNG SnP report - December",
-  "shipment_volume_metrics": [],
-  "coal_futures_spread_metrics": [],
-  "time_charter_vs_asset_metrics": [],
-  "vessel_tightness_metrics": [],
-  "macro_correlation_metrics": [],
+  "source_markdown": "2024-12-30_lng-snp-report-december-2024.md",
+  "tables": [],
+  "printed_image_tables": [],
   "charts_count": 13,
-  "source_markdown": "2024-12-30_lng-snp-report-december-2024.md"
+  "charts": [
+    {
+      "section": "",
+      "title": "Christmasgreeting",
+      "image": "ef867da7-1e29-485a-a5cd-146b1d9a8e4b/Christmasgreeting.png"
+    },
+    {
+      "section": "Market reflections",
+      "title": "Recent sales",
+      "image": "ef867da7-1e29-485a-a5cd-146b1d9a8e4b/sales new.png"
+    },
+    {
+      "section": "Market reflections",
+      "title": "Yearly sales",
+      "image": "ef867da7-1e29-485a-a5cd-146b1d9a8e4b/yrly sales new.png"
+    },
+    {
+      "section": "Market reflections",
+      "title": "Asset values",
+      "image": "ef867da7-1e29-485a-a5cd-146b1d9a8e4b/assetvalues.png"
+    },
+    {
+      "section": "Newbuilding update",
+      "title": "Recent orders",
+      "image": "6bc6633c-97f0-4bc8-b609-5dd19e0144e6/orders2.png"
+    },
+    {
+      "section": "Newbuilding update",
+      "title": "Deliveries incl. orderbook",
+      "image": "ef867da7-1e29-485a-a5cd-146b1d9a8e4b/deliveies.png"
+    },
+    {
+      "section": "Newbuilding update",
+      "title": "LNGC orders",
+      "image": "ef867da7-1e29-485a-a5cd-146b1d9a8e4b/orders graph.png"
+    },
+    {
+      "section": "Interest rates",
+      "title": "Interest rate (90 day avg. SOFR)",
+      "image": "ef867da7-1e29-485a-a5cd-146b1d9a8e4b/sofr.png"
+    },
+    {
+      "section": "Interest rates",
+      "title": "10-Year Treasury Constant Maturity Minus 2-Year Treasury Constant Maturity",
+      "image": "ef867da7-1e29-485a-a5cd-146b1d9a8e4b/10y2y.png"
+    },
+    {
+      "section": "Recycling",
+      "title": "Demolition price (large tanker)",
+      "image": "ef867da7-1e29-485a-a5cd-146b1d9a8e4b/demo price.png"
+    },
+    {
+      "section": "World fleet at a glance",
+      "title": "Live fleet by propulsion",
+      "image": "ef867da7-1e29-485a-a5cd-146b1d9a8e4b/live by prop.png"
+    },
+    {
+      "section": "World fleet at a glance",
+      "title": "Total fleet",
+      "image": "ef867da7-1e29-485a-a5cd-146b1d9a8e4b/fleet by status.png"
+    },
+    {
+      "section": "World fleet at a glance",
+      "title": "LNGC fleet by propulsion and delivery year",
+      "image": "ef867da7-1e29-485a-a5cd-146b1d9a8e4b/by prop and delivery.png"
+    }
+  ]
 }

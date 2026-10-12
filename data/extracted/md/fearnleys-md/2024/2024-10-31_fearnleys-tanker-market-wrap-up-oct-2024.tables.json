@@ -4,11 +4,155 @@
   "year": 2024,
   "department": "TANK",
   "report_title": "Fearnleys Tanker Market Wrap-up Oct 2024",
-  "shipment_volume_metrics": [],
-  "coal_futures_spread_metrics": [],
-  "time_charter_vs_asset_metrics": [],
-  "vessel_tightness_metrics": [],
-  "macro_correlation_metrics": [],
-  "charts_count": 20,
-  "source_markdown": "2024-10-31_fearnleys-tanker-market-wrap-up-oct-2024.md"
+  "source_markdown": "2024-10-31_fearnleys-tanker-market-wrap-up-oct-2024.md",
+  "tables": [],
+  "printed_image_tables": [],
+  "charts_count": 29,
+  "charts": [
+    {
+      "section": "Summary and outlook",
+      "title": "Rates and forecast",
+      "image": "15854788-d439-4565-a451-8f598bbb95b9/retfor.png"
+    },
+    {
+      "section": "Recent development - 'Lies, damn lies, and statistics'",
+      "title": "Seaborne crude oil volumes",
+      "image": "15854788-d439-4565-a451-8f598bbb95b9/volc.png"
+    },
+    {
+      "section": "Recent development - 'Lies, damn lies, and statistics'",
+      "title": "Seaborne oil product volumes",
+      "image": "15854788-d439-4565-a451-8f598bbb95b9/volp.png"
+    },
+    {
+      "section": "Recent development - 'Lies, damn lies, and statistics'",
+      "title": "Total tanker tonne-mile demand",
+      "image": "15854788-d439-4565-a451-8f598bbb95b9/tmt.png"
+    },
+    {
+      "section": "Recent development - 'Lies, damn lies, and statistics'",
+      "title": "Monthly MEG VLCC loadings",
+      "image": "15854788-d439-4565-a451-8f598bbb95b9/fixm.png"
+    },
+    {
+      "section": "Recent development - 'Lies, damn lies, and statistics'",
+      "title": "Monthly Atlantic VLCC loadings",
+      "image": "15854788-d439-4565-a451-8f598bbb95b9/fixa.png"
+    },
+    {
+      "section": "Recent development - 'Lies, damn lies, and statistics'",
+      "title": "MEG-China cargoes non-Chinese ships vs. TCE",
+      "image": "15854788-d439-4565-a451-8f598bbb95b9/fixc.png"
+    },
+    {
+      "section": "Recent development - 'Lies, damn lies, and statistics'",
+      "title": "WTI-Dubai  spread, less WTI 2-1 month forward spread",
+      "image": "15854788-d439-4565-a451-8f598bbb95b9/arb.png"
+    },
+    {
+      "section": "Recent development - 'Lies, damn lies, and statistics'",
+      "title": "Brent 7-1 month forward spread",
+      "image": "15854788-d439-4565-a451-8f598bbb95b9/fwd.png"
+    },
+    {
+      "section": "Oil market development suggest more tanker demand to come",
+      "title": "Oil supply vs. demand growth by basin",
+      "image": "15854788-d439-4565-a451-8f598bbb95b9/bal.png"
+    },
+    {
+      "section": "Oil market development suggest more tanker demand to come",
+      "title": "Americas crude oil supply growth q/q",
+      "image": "15854788-d439-4565-a451-8f598bbb95b9/amer.png"
+    },
+    {
+      "section": "Oil market development suggest more tanker demand to come",
+      "title": "Implied oil market balance",
+      "image": "15854788-d439-4565-a451-8f598bbb95b9/balance.png"
+    },
+    {
+      "section": "Oil market development suggest more tanker demand to come",
+      "title": "Crude oil supply change vs. VLCC tonne-miles",
+      "image": "15854788-d439-4565-a451-8f598bbb95b9/dem.png"
+    },
+    {
+      "section": "Oil market development suggest more tanker demand to come",
+      "title": "Apparent main oil products demand",
+      "image": "15854788-d439-4565-a451-8f598bbb95b9/chidem.png"
+    },
+    {
+      "section": "Oil market development suggest more tanker demand to come",
+      "title": "Still implied crude oil stock builds",
+      "image": "15854788-d439-4565-a451-8f598bbb95b9/chi.png"
+    },
+    {
+      "section": "Oil market development suggest more tanker demand to come",
+      "title": "Refinery capacity additions",
+      "image": "15854788-d439-4565-a451-8f598bbb95b9/ref.png"
+    },
+    {
+      "section": "Oil market development suggest more tanker demand to come",
+      "title": "NWE refinery margins vs. Atlantic MR rates",
+      "image": "15854788-d439-4565-a451-8f598bbb95b9/mr.png"
+    },
+    {
+      "section": "Oil market development suggest more tanker demand to come",
+      "title": "Northwest Europe crack spreads",
+      "image": "15854788-d439-4565-a451-8f598bbb95b9/crackeu.png"
+    },
+    {
+      "section": "Oil market development suggest more tanker demand to come",
+      "title": "U.S. Gulf crack spreads",
+      "image": "15854788-d439-4565-a451-8f598bbb95b9/crackus.png"
+    },
+    {
+      "section": "Oil market development suggest more tanker demand to come",
+      "title": "China crack spreads",
+      "image": "15854788-d439-4565-a451-8f598bbb95b9/crackchi.png"
+    },
+    {
+      "section": "Oil market development suggest more tanker demand to come",
+      "title": "OECD inventory split",
+      "image": "15854788-d439-4565-a451-8f598bbb95b9/stockp.png"
+    },
+    {
+      "section": "Oil market development suggest more tanker demand to come",
+      "title": "OECD inventories vs. 5-year avg. and Brent",
+      "image": "15854788-d439-4565-a451-8f598bbb95b9/oil.png"
+    },
+    {
+      "section": "Oil market development suggest more tanker demand to come",
+      "title": "Oil demand growth by year and region",
+      "image": "15854788-d439-4565-a451-8f598bbb95b9/longdem.png"
+    },
+    {
+      "section": "Oil market development suggest more tanker demand to come",
+      "title": "Oil supply growth by year and region",
+      "image": "15854788-d439-4565-a451-8f598bbb95b9/longsup.png"
+    },
+    {
+      "section": "Fleet development",
+      "title": "Fleet growth by segment",
+      "image": "15854788-d439-4565-a451-8f598bbb95b9/growth.png"
+    },
+    {
+      "section": "Fleet development",
+      "title": "Ordering by quarter",
+      "image": "15854788-d439-4565-a451-8f598bbb95b9/orders.png"
+    },
+    {
+      "section": "Fleet development",
+      "title": "Tanker deliveries",
+      "image": "15854788-d439-4565-a451-8f598bbb95b9/fleet.png"
+    },
+    {
+      "section": "Fleet development",
+      "title": "Orderbook vs. phase-out potential",
+      "image": "15854788-d439-4565-a451-8f598bbb95b9/obph.png"
+    },
+    {
+      "section": "Fleet development",
+      "title": "Share of the fleet which is 20+ years old",
+      "image": "15854788-d439-4565-a451-8f598bbb95b9/20.png"
+    }
+  ]
 }

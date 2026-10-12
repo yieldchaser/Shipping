@@ -4,11 +4,115 @@
   "year": 2025,
   "department": "LPG",
   "report_title": "VLGC Quarterly Report - Q3 2025",
-  "shipment_volume_metrics": [],
-  "coal_futures_spread_metrics": [],
-  "time_charter_vs_asset_metrics": [],
-  "vessel_tightness_metrics": [],
-  "macro_correlation_metrics": [],
+  "source_markdown": "2025-10-09_vlgc-quarterly-market-report-q3-2025.md",
+  "tables": [],
+  "printed_image_tables": [],
   "charts_count": 21,
-  "source_markdown": "2025-10-09_vlgc-quarterly-market-report-q3-2025.md"
+  "charts": [
+    {
+      "section": "Freight rates & Earnings",
+      "title": "BLPG dollar per ton",
+      "image": "d254833f-b752-48b8-bd36-58b75bc53202/BLPG dollar per ton.png"
+    },
+    {
+      "section": "Freight rates & Earnings",
+      "title": "Premium-Discount",
+      "image": "d254833f-b752-48b8-bd36-58b75bc53202/Premium-Discount.png"
+    },
+    {
+      "section": "Freight rates & Earnings",
+      "title": "BLPG1 TCE",
+      "image": "d254833f-b752-48b8-bd36-58b75bc53202/BLPG1 TCE.png"
+    },
+    {
+      "section": "Freight rates & Earnings",
+      "title": "BLPG3 TCE",
+      "image": "d254833f-b752-48b8-bd36-58b75bc53202/BLPG3 TCE.png"
+    },
+    {
+      "section": "Exports and Imports",
+      "title": "Global LPG",
+      "image": "d254833f-b752-48b8-bd36-58b75bc53202/Global LPG.png"
+    },
+    {
+      "section": "Exports and Imports",
+      "title": "Top Exporters",
+      "image": "d254833f-b752-48b8-bd36-58b75bc53202/Top Exporters.png"
+    },
+    {
+      "section": "Exports and Imports",
+      "title": "Top importers",
+      "image": "d254833f-b752-48b8-bd36-58b75bc53202/Top importers.png"
+    },
+    {
+      "section": "U.S. Production and Terminal Capacity Expansion",
+      "title": "US Production",
+      "image": "d254833f-b752-48b8-bd36-58b75bc53202/US Production.png"
+    },
+    {
+      "section": "U.S. Production and Terminal Capacity Expansion",
+      "title": "US Propane",
+      "image": "d254833f-b752-48b8-bd36-58b75bc53202/US Propane.png"
+    },
+    {
+      "section": "U.S. Production and Terminal Capacity Expansion",
+      "title": "Laden Transits",
+      "image": "d254833f-b752-48b8-bd36-58b75bc53202/Laden Transits.png"
+    },
+    {
+      "section": "U.S. Production and Terminal Capacity Expansion",
+      "title": "Ballast Transits",
+      "image": "d254833f-b752-48b8-bd36-58b75bc53202/Ballast Transits.png"
+    },
+    {
+      "section": "U.S. Production and Terminal Capacity Expansion",
+      "title": "Expansions",
+      "image": "d254833f-b752-48b8-bd36-58b75bc53202/Expansions.png"
+    },
+    {
+      "section": "The Middle East",
+      "title": "MEG Exports",
+      "image": "d254833f-b752-48b8-bd36-58b75bc53202/MEG Exports.png"
+    },
+    {
+      "section": "The Middle East",
+      "title": "Saudi CP LPG",
+      "image": "d254833f-b752-48b8-bd36-58b75bc53202/Saudi CP LPG.png"
+    },
+    {
+      "section": "Chinese Demand",
+      "title": "Chinese imports",
+      "image": "d254833f-b752-48b8-bd36-58b75bc53202/Chinese imports.png"
+    },
+    {
+      "section": "Chinese Demand",
+      "title": "Chinese imports by Origin",
+      "image": "d254833f-b752-48b8-bd36-58b75bc53202/Chinese imports by Origin.png"
+    },
+    {
+      "section": "Chinese Demand",
+      "title": "PDH Capacity",
+      "image": "d254833f-b752-48b8-bd36-58b75bc53202/PDH Capacity.png"
+    },
+    {
+      "section": "Fleet and Orderbook",
+      "title": "Fleet development",
+      "image": "d254833f-b752-48b8-bd36-58b75bc53202/Fleet development.png"
+    },
+    {
+      "section": "Fleet and Orderbook",
+      "title": "OB Deliveries",
+      "image": "d254833f-b752-48b8-bd36-58b75bc53202/OB Deliveries.png"
+    },
+    {
+      "section": "Fleet and Orderbook",
+      "title": "OB Yards",
+      "image": "d254833f-b752-48b8-bd36-58b75bc53202/OB Yards.png"
+    },
+    {
+      "section": "Fleet and Orderbook",
+      "title": "Asset values",
+      "image": "d254833f-b752-48b8-bd36-58b75bc53202/Asset values.png"
+    }
+  ]
 }

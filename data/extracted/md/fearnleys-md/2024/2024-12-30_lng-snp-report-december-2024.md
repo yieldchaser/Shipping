@@ -17,14 +17,14 @@ pdf_url: "https://pbrkapp.blob.core.windows.net/report/ef867da7-1e29-485a-a5cd-1
 
 ---
 
-> **Chart 1: Indicator Chart**  
-> *Figure Asset:* [`Christmasgreeting.png`](../images/ef867da7-1e29-485a-a5cd-146b1d9a8e4b/Christmasgreeting.png)
+![Christmasgreeting](../../../../../corpus/01-brokers/fearnleys-md/images/ef867da7-1e29-485a-a5cd-146b1d9a8e4b/Christmasgreeting.png)
+*Chart: Christmasgreeting*
 
 ## Market reflections
 
 When reflecting on the year 2024 from an LNG Sale and Purchase (SNP) perspective, key aspects such as transaction volumes, fluctuations in asset values, challenges with KYC compliance, and the implementation of trading restrictions have shaped the landscape. Despite these complexities, we remain among the fortunate, navigating an industry that continues to adapt and thrive amidst shifting global dynamics.
 
-2024 was a year of stark contrasts-a whirlwind of geopolitical tensions, devastating humanitarian crises, and glimmers of hope for a brighter future.
+2024 was a year of stark contrasts—a whirlwind of geopolitical tensions, devastating humanitarian crises, and glimmers of hope for a brighter future.
 
 The ongoing conflict in Ukraine continued to cast a long shadow, with profound humanitarian consequences and destabilizing effects on the global stage. As we look to 2025, there is hope that world leaders will find pathways to de-escalation and peace.
 
@@ -36,7 +36,7 @@ Deepening political and social divides within and between nations fueled unrest 
 
 Yet, amid these challenges, there were sparks of hope and progress:
 
-Progress on climate action was achieved despite the difficulties. The COP28 summit in Azerbaijan saw renewed commitments to reduce emissions and invest in renewable energy and technology. The pressing question remains whether world leaders and industries will honor these commitments-and how these actions will shape the global landscape, including sectors like shipping, in the years to come.
+Progress on climate action was achieved despite the difficulties. The COP28 summit in Azerbaijan saw renewed commitments to reduce emissions and invest in renewable energy and technology. The pressing question remains whether world leaders and industries will honor these commitments—and how these actions will shape the global landscape, including sectors like shipping, in the years to come.
 
 Technological breakthroughs in artificial intelligence, medicine, and space exploration offered a glimpse of a brighter future, laying the groundwork for even greater advances in 2025.
 
@@ -53,53 +53,70 @@ While 2024 was marked by turbulence and uncertainty, it also highlighted the end
 
 From all of us in Fearnley LNG we thank you for the support in 2024 and look forward to continuing our good working relationship in 2025. We wish you all a Happy New Year in the coming days, and let's make 2025 a year to remember.
 
-> **Chart 2: Recent sales**  
-> *Figure Asset:* [`sales new.png`](../images/ef867da7-1e29-485a-a5cd-146b1d9a8e4b/sales%20new.png)
+![Recent sales](../../../../../corpus/01-brokers/fearnleys-md/images/ef867da7-1e29-485a-a5cd-146b1d9a8e4b/sales%20new.png)
+*Chart: Recent sales*
 
-> **Chart 3: Yearly sales**  
-> *Figure Asset:* [`yrly sales new.png`](../images/ef867da7-1e29-485a-a5cd-146b1d9a8e4b/yrly%20sales%20new.png)
+![Yearly sales](../../../../../corpus/01-brokers/fearnleys-md/images/ef867da7-1e29-485a-a5cd-146b1d9a8e4b/yrly%20sales%20new.png)
+*Chart: Yearly sales*
 
-> **Chart 4: Asset values**  
-> *Figure Asset:* [`assetvalues.png`](../images/ef867da7-1e29-485a-a5cd-146b1d9a8e4b/assetvalues.png)
+![Asset values](../../../../../corpus/01-brokers/fearnleys-md/images/ef867da7-1e29-485a-a5cd-146b1d9a8e4b/assetvalues.png)
+*Chart: Asset values*
 
 ## Newbuilding update
 
 No significant changes in the New building sector since our last report. The only real question at this point in time is if someone will take a punt and secure some of the final 2027 slots or not.
 
-> **Chart 5: Recent orders**  
-> *Figure Asset:* [`orders2.png`](../images/6bc6633c-97f0-4bc8-b609-5dd19e0144e6/orders2.png)
+![Recent orders](../../../../../corpus/01-brokers/fearnleys-md/images/6bc6633c-97f0-4bc8-b609-5dd19e0144e6/orders2.png)
+*Chart: Recent orders*
 
-> **Chart 6: Deliveries incl. orderbook**  
-> *Figure Asset:* [`deliveies.png`](../images/ef867da7-1e29-485a-a5cd-146b1d9a8e4b/deliveies.png)
+![Deliveries incl. orderbook](../../../../../corpus/01-brokers/fearnleys-md/images/ef867da7-1e29-485a-a5cd-146b1d9a8e4b/deliveies.png)
+*Chart: Deliveries incl. orderbook*
 
-> **Chart 7: LNGC orders**  
-> *Figure Asset:* [`orders graph.png`](../images/ef867da7-1e29-485a-a5cd-146b1d9a8e4b/orders%20graph.png)
+![LNGC orders](../../../../../corpus/01-brokers/fearnleys-md/images/ef867da7-1e29-485a-a5cd-146b1d9a8e4b/orders%20graph.png)
+*Chart: LNGC orders*
 
 ## Interest rates
 
 Since our last update, the U.S. presidential election has concluded, ushering in a new leader expected to implement a series of policies and initiatives in the White House. These forthcoming changes are anticipated to significantly impact financial markets after the January inauguration.
 
-Meanwhile, Federal Reserve Chair Jerome Powell has highlighted the difficulty of predicting future developments at this early stage. He noted, "There's nothing to model right now - it's such an early stage," further stating, "We don't guess, we don't speculate, and we don't assume." This cautious stance reflects the prevailing uncertainty regarding the economic and market outlook.
+Meanwhile, Federal Reserve Chair Jerome Powell has highlighted the difficulty of predicting future developments at this early stage. He noted, "There’s nothing to model right now — it’s such an early stage," further stating, "We don’t guess, we don’t speculate, and we don’t assume." This cautious stance reflects the prevailing uncertainty regarding the economic and market outlook.
+
 So on that note, all we can do is have a wait-and-see attitude for a little longer.
 
-> **Chart 8: Interest rate (90 day avg. SOFR)**  
-> *Figure Asset:* [`sofr.png`](../images/ef867da7-1e29-485a-a5cd-146b1d9a8e4b/sofr.png)
+![Interest rate (90 day avg. SOFR)](../../../../../corpus/01-brokers/fearnleys-md/images/ef867da7-1e29-485a-a5cd-146b1d9a8e4b/sofr.png)
+*Chart: Interest rate (90 day avg. SOFR)*
 
-> **Chart 9: 10-Year Treasury Constant Maturity Minus 2-Year Treasury Constant Maturity**  
-> *Figure Asset:* [`10y2y.png`](../images/ef867da7-1e29-485a-a5cd-146b1d9a8e4b/10y2y.png)
+![10-Year Treasury Constant Maturity Minus 2-Year Treasury Constant Maturity](../../../../../corpus/01-brokers/fearnleys-md/images/ef867da7-1e29-485a-a5cd-146b1d9a8e4b/10y2y.png)
+*Chart: 10-Year Treasury Constant Maturity Minus 2-Year Treasury Constant Maturity*
+
+*Source: FRED*
 
 ## Recycling
 
-> **Chart 10: Demolition price (large tanker)**  
-> *Figure Asset:* [`demo price.png`](../images/ef867da7-1e29-485a-a5cd-146b1d9a8e4b/demo%20price.png)
+As we are about to say a final goodbye to 2024, we look back on a year with less recycling than expected. However, with the current market conditions for aging vessels, it is likely that 2025 will be a busy year in this sector, with all the vessels coming off long-term charters and finding it increasingly challenging to find employment.
+
+Since our last report, there have been rumors that the EU is in the process of updating the list of approved recycling facilities under the EU Ship Recycling Regulation (SRR). Removing one Turkish and Lithuanian yard, but at the same time adding a new yard in Turkey and one in the Netherlands.
+
+**Bangladesh**  US$ 485/495
+
+**Pakistan**       US$ 465/475
+
+**India**            US$ 475/485
+
+**Turkey**         US$ 335/345
+
+![Demolition price (large tanker)](../../../../../corpus/01-brokers/fearnleys-md/images/ef867da7-1e29-485a-a5cd-146b1d9a8e4b/demo%20price.png)
+*Chart: Demolition price (large tanker)*
+
+*Source: Baltic Exchange*
 
 ## World fleet at a glance
 
-> **Chart 11: Live fleet by propulsion**  
-> *Figure Asset:* [`live by prop.png`](../images/ef867da7-1e29-485a-a5cd-146b1d9a8e4b/live%20by%20prop.png)
+![Live fleet by propulsion](../../../../../corpus/01-brokers/fearnleys-md/images/ef867da7-1e29-485a-a5cd-146b1d9a8e4b/live%20by%20prop.png)
+*Chart: Live fleet by propulsion*
 
-> **Chart 12: Total fleet**  
-> *Figure Asset:* [`fleet by status.png`](../images/ef867da7-1e29-485a-a5cd-146b1d9a8e4b/fleet%20by%20status.png)
+![Total fleet](../../../../../corpus/01-brokers/fearnleys-md/images/ef867da7-1e29-485a-a5cd-146b1d9a8e4b/fleet%20by%20status.png)
+*Chart: Total fleet*
 
-> **Chart 13: LNGC fleet by propulsion and delivery year**  
-> *Figure Asset:* [`by prop and delivery.png`](../images/ef867da7-1e29-485a-a5cd-146b1d9a8e4b/by%20prop%20and%20delivery.png)
+![LNGC fleet by propulsion and delivery year](../../../../../corpus/01-brokers/fearnleys-md/images/ef867da7-1e29-485a-a5cd-146b1d9a8e4b/by%20prop%20and%20delivery.png)
+*Chart: LNGC fleet by propulsion and delivery year*

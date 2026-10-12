@@ -143,8 +143,7 @@ def main():
     print("\n--- STAGE 4: Proprietary Vector Chart Extraction & Series Stacking ---")
     run_cmd([sys.executable, "scripts/extract/publishers/run_drewry_ais_charts.py"], "Stack Drewry AIS Vector Curves")
     run_cmd([sys.executable, "scripts/extract/publishers/run_drewry_ais.py"], "Extract Drewry AIS Metrics & Markdown")
-    run_cmd([sys.executable, "scripts/extract/publishers/run_fearnleys_md_full_power.py"], "Extract Fearnleys-MD Structured Time Series & Econometric Indicators")
-    run_cmd([sys.executable, "scripts/extract/publishers/export_fearnleys_md_excel.py"], "Refresh Fearnleys 26 Econometric Models")
+    run_cmd([sys.executable, "scripts/extract/publishers/run_fearnleys_md_full_power.py"], "Write Fearnleys-MD table sidecars")
 
     # Sync clean markdown to _digests
     run_cmd([sys.executable, "scripts/extract/sync_digests.py"], "Synchronize Clean Markdown to _digests")

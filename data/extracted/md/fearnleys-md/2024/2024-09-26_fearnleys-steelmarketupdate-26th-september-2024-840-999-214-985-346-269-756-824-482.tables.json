@@ -4,11 +4,30 @@
   "year": 2024,
   "department": "BULK",
   "report_title": "Fearnleys Steel Market Update",
-  "shipment_volume_metrics": [],
-  "coal_futures_spread_metrics": [],
-  "time_charter_vs_asset_metrics": [],
-  "vessel_tightness_metrics": [],
-  "macro_correlation_metrics": [],
+  "source_markdown": "2024-09-26_fearnleys-steelmarketupdate-26th-september-2024-840-999-214-985-346-269-756-824-482.md",
+  "tables": [],
+  "printed_image_tables": [],
   "charts_count": 4,
-  "source_markdown": "2024-09-26_fearnleys-steelmarketupdate-26th-september-2024-840-999-214-985-346-269-756-824-482.md"
+  "charts": [
+    {
+      "section": "Comment",
+      "title": "China Steel Rebar Price",
+      "image": "fc9f783c-1787-4deb-8c9c-6220a7a78ebe/CHINA STEEL REBAR PRICE USD CONVERTED.png"
+    },
+    {
+      "section": "Comment",
+      "title": "China Credit Growth 1 Year Lead vs China Steel Rebar Year on Year",
+      "image": "fc9f783c-1787-4deb-8c9c-6220a7a78ebe/CHINA CREDIT GROWTH VS STEEL.png"
+    },
+    {
+      "section": "Comment",
+      "title": "China Steel Production",
+      "image": "fc9f783c-1787-4deb-8c9c-6220a7a78ebe/CHINA STEEL PRODUCTION.png"
+    },
+    {
+      "section": "Comment",
+      "title": "G-20 Diffusion Index vs China Steel Rebar Year on Year",
+      "image": "fc9f783c-1787-4deb-8c9c-6220a7a78ebe/oecd vs steel.png"
+    }
+  ]
 }

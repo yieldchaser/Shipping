@@ -23,43 +23,61 @@ The year 2024 began with high anticipation, following the most profitable year o
 
 In response to the high earnings of the past two years, newbuilding activity for VLGCs continued throughout the year, with 47 orders placed, 12 more than the previous record year in 2023. This surge in demand from both established owners and newcomers led to a further increase in VLGC newbuilding prices, with the current price of an LPG dual-fuel, ammonia-capable vessel reaching approximately $120 million. Yard capacity remains tight in both Korea and China, with strong ordering activity from other segments, particularly LNG and tankers, driving prices up. Consequently, we expect newbuilding prices to remain elevated throughout the coming year.
 
-Global seaborne LPG grew by 5.4 million tonnes in 2024, to 143.9 million tonnes, resulting in a 3.87% growth. Of these volumes, 101 million tonnes was lifted on VLGCs, giving a total market share of 71.2%. This growth is attributed to increasing exports from the United States, which rose by 5%. Of the U.S. exports, 32.8% went to China, which imported 33.7 million tonnes, up 5% from 2023. Chinese demand remains a key driver for the LPG trade, boosted by the continuous expansion of PDH plants in the country. 
+Global seaborne LPG grew by 5.4 million tonnes in 2024, to 143.9 million tonnes, resulting in a 3.87% growth. Of these volumes, 101 million tonnes was lifted on VLGCs, giving a total market share of 71.2%. This growth is attributed to increasing exports from the United States, which rose by 5%. Of the U.S. exports, 32.8% went to China, which imported 33.7 million tonnes, up 5% from 2023. Chinese demand remains a key driver for the LPG trade, boosted by the continuous expansion of PDH plants in the country.
 
 The Middle East exported 39.7 million tonnes, just 1 million tonnes up, resulting in a 3.3% growth. The leading providers of volumes in the region were Qatar, the UAE, and Iran. Increased exports are expected from the region in 2025 and 2026 due to new natural gas plants in Qatar and Saudi Arabia. This increase in volumes will be beneficial in terms of the coming fleet growth.
 
-> **Chart 1: Indicator Chart**  
-> *Figure Asset:* [`TCE 2024.JPG`](../images/89a6b8a5-9e85-4512-b009-32e752ffb4c8/TCE%202024.JPG)
+![TCE 2024](../../../../../corpus/01-brokers/fearnleys-md/images/89a6b8a5-9e85-4512-b009-32e752ffb4c8/TCE%202024.JPG)
+*Chart: TCE 2024*
 
-> **Chart 2: Indicator Chart**  
-> *Figure Asset:* [`Global seaborne LPG.JPG`](../images/89a6b8a5-9e85-4512-b009-32e752ffb4c8/Global%20seaborne%20LPG.JPG)
+![Global seaborne LPG](../../../../../corpus/01-brokers/fearnleys-md/images/89a6b8a5-9e85-4512-b009-32e752ffb4c8/Global%20seaborne%20LPG.JPG)
+*Chart: Global seaborne LPG*
 
 ### Earnings
 
-> **Chart 3: Indicator Chart**  
-> *Figure Asset:* [`TCE Q4 2024.JPG`](../images/89a6b8a5-9e85-4512-b009-32e752ffb4c8/TCE%20Q4%202024.JPG)
+![TCE Q4 2024](../../../../../corpus/01-brokers/fearnleys-md/images/89a6b8a5-9e85-4512-b009-32e752ffb4c8/TCE%20Q4%202024.JPG)
+*Chart: TCE Q4 2024*
+
+**The quarterly TCE average concluded at $45,888 per day**, the second lowest quarterly result year-to-date. It is a 64% decrease from Q4 2023, and a 57% decline from Q4 2022. It is no secret that this years winter-season did not bring with it the usual periodical spikes in earnings.
+
+**BLPG1 - $35,675
+
+BLPG2 - $58,264
+
+BLPG3 - $43,723**
+
+All throughout 2024 the market has been affected by an oversupply of ships. We believe this oversupply to be the lagged effect from the 39 newbuildings delivered in 2023 (in addition to the 21 delivered this year).
 
 ### Liftings statistics: U.S. & Middle East
 
 **U.S. Gulf/U.S. East Coast**
+
 October: 95 in total/27 being spot fixtures
+
 November: 101 in total/31 being spot fixtures
+
 December: 103 in total, 29 being spot fixtures
 
 **Middle East Gulf**
+
 October: 74 in total/15 being spot fixtures
+
 November: 73 in total/16 being spot fixtures
+
 December: 70 in total/19 being spot fixtures
 
 The monthly average number of liftings continue to grow, while the monthly average of spot liftings is decreasing.
 
-> **Chart 4: Indicator Chart**  
-> *Figure Asset:* [`MonthlyLiftings.JPG`](../images/89a6b8a5-9e85-4512-b009-32e752ffb4c8/MonthlyLiftings.JPG)
+![MonthlyLiftings](../../../../../corpus/01-brokers/fearnleys-md/images/89a6b8a5-9e85-4512-b009-32e752ffb4c8/MonthlyLiftings.JPG)
+*Chart: MonthlyLiftings*
 
-> **Chart 5: Indicator Chart**  
-> *Figure Asset:* [`Spot Liftings2.JPG`](../images/89a6b8a5-9e85-4512-b009-32e752ffb4c8/Spot%20Liftings2.JPG)
+![Spot Liftings2](../../../../../corpus/01-brokers/fearnleys-md/images/89a6b8a5-9e85-4512-b009-32e752ffb4c8/Spot%20Liftings2.JPG)
+*Chart: Spot Liftings2*
 
-> **Chart 6: Indicator Chart**  
-> *Figure Asset:* [`Arb vs BLPG3.JPG`](../images/89a6b8a5-9e85-4512-b009-32e752ffb4c8/Arb%20vs%20BLPG3.JPG)
+*Fearngas*
+
+![Arb vs BLPG3](../../../../../corpus/01-brokers/fearnleys-md/images/89a6b8a5-9e85-4512-b009-32e752ffb4c8/Arb%20vs%20BLPG3.JPG)
+*Chart: Arb vs BLPG3*
 
 Throughout the year, there was a deviating correlation between the arbitrage window from West to East and the BLPG-3 (Houston-Chiba) freight rate. In general, there was an increased buying interest for product, causing fewer spot fixtures out of the U.S. Gulf. This is further explained as a larger share of the fleet was controlled by traders rather than owners. This caused the market to see less spot shipping activity, further adding to fleet availability and contributing to lower freight rates. Additionally, maintenance and disruptions at export terminals in the U.S. had ripple effects on export availability.
 
@@ -67,36 +85,46 @@ The opening of transits in the Panama Canal also contributed to increasing fleet
 
 **Laden VLGC Transits**
 
-> **Chart 7: Indicator Chart**  
-> *Figure Asset:* [`Laden VLGC Transits2.JPG`](../images/89a6b8a5-9e85-4512-b009-32e752ffb4c8/Laden%20VLGC%20Transits2.JPG)
+![Laden VLGC Transits2](../../../../../corpus/01-brokers/fearnleys-md/images/89a6b8a5-9e85-4512-b009-32e752ffb4c8/Laden%20VLGC%20Transits2.JPG)
+*Chart: Laden VLGC Transits2*
+
+*Vortexa*
 
 The sailing pattern of the VLGC fleet is a major variable in terms of fleet capacity and availability. In 2023, when the Panama Canal was highly congested with record-high auction costs and harsh transit restrictions, a majority of the fleet chose the longer route around the Cape of Good Hope instead of the canal. We also saw an increase in the utilization of the Suez Canal before it was deemed unsafe territory. As water levels in the Panama Canal resurged, restrictions were retracted, and we saw a continuous increase in VLGC transits again. A significant portion of ships sailing in ballast back to the West still choose the longer route instead of the canal. This is both due to the instability of transiting the canal, as well as the option for Middle Eastern and African cargoes. This unpredictable variation in waypoint transits creates uncertainty in terms of future fleet capacity.
 
 ### Trade Flows
 
-> **Chart 8: Indicator Chart**  
-> *Figure Asset:* [`Top Exporters.JPG`](../images/89a6b8a5-9e85-4512-b009-32e752ffb4c8/Top%20Exporters.JPG)
+![Top Exporters](../../../../../corpus/01-brokers/fearnleys-md/images/89a6b8a5-9e85-4512-b009-32e752ffb4c8/Top%20Exporters.JPG)
+*Chart: Top Exporters*
 
-> **Chart 9: Indicator Chart**  
-> *Figure Asset:* [`Top Importers.JPG`](../images/89a6b8a5-9e85-4512-b009-32e752ffb4c8/Top%20Importers.JPG)
+![Top Importers](../../../../../corpus/01-brokers/fearnleys-md/images/89a6b8a5-9e85-4512-b009-32e752ffb4c8/Top%20Importers.JPG)
+*Chart: Top Importers*
+
+*Vortexa*
 
 ### U.S. Production & Export
 
 The U.S. continues to increase its production and exports, with expectations of further growth. Terminal capacity has been a bottleneck, which we expect to resolve towards the end of 2025, with several terminals increasing their capacities through expansions. Some projects will be finalized in 2025, and others in 2026. The strong demand for U.S. LPG was further evident in the increased terminal fees, which spiked to their highest in September at 34 cents per gallon. On a yearly average, terminal fees were 81.5% higher in 2024 than in 2023.
 
-> **Chart 10: Indicator Chart**  
-> *Figure Asset:* [`US Expansions.JPG`](../images/89a6b8a5-9e85-4512-b009-32e752ffb4c8/US%20Expansions.JPG)
+![US Expansions](../../../../../corpus/01-brokers/fearnleys-md/images/89a6b8a5-9e85-4512-b009-32e752ffb4c8/US%20Expansions.JPG)
+*Chart: US Expansions*
 
-> **Chart 11: Indicator Chart**  
-> *Figure Asset:* [`Spot Terminal fees.JPG`](../images/89a6b8a5-9e85-4512-b009-32e752ffb4c8/Spot%20Terminal%20fees.JPG)
+![Spot Terminal fees](../../../../../corpus/01-brokers/fearnleys-md/images/89a6b8a5-9e85-4512-b009-32e752ffb4c8/Spot%20Terminal%20fees.JPG)
+*Chart: Spot Terminal fees*
+
+*Snapper Creek Energy*
 
 ### Fleet & Orderbook
 
-> **Chart 12: Indicator Chart**  
-> *Figure Asset:* [`Fleet development Q4.JPG`](../images/89a6b8a5-9e85-4512-b009-32e752ffb4c8/Fleet%20development%20Q4.JPG)
+![Fleet development Q4](../../../../../corpus/01-brokers/fearnleys-md/images/89a6b8a5-9e85-4512-b009-32e752ffb4c8/Fleet%20development%20Q4.JPG)
+*Chart: Fleet development Q4*
 
-> **Chart 13: Indicator Chart**  
-> *Figure Asset:* [`Orderbook.JPG`](../images/89a6b8a5-9e85-4512-b009-32e752ffb4c8/Orderbook.JPG)
+In Q4 only 3 newbuildings were delivered, one each month. This brings the total newbuildings delivered in 2024 to 21, precisely as expected. The fleet now comprises of 400 vessels with an average age of just below 10 years. Approximately 50% of the existing fleet is now fitted with a dual-fuel engine, or a scrubber, which we see is something that becomes more and more important in terms of operation. 15% of the fleet is now older than 20 years, accumulating 59 vessels. In the last 10 years we have only seen 12 VLGCs being scrapped so the scrapping potential is big. With operational requirements as well as age restrictions becoming more transparent, if not scrapped, these vessels will likely enter into dedicated trades in the near future. This could ease the impact of the 70+ vessels coming in 26 & 27.
+
+The orderbook-fleet ratio is now at 25% with 98 vessels on order. Out of the newbuilds, 59 are of type Panamaxes, so that they will be able to sail through the old Panama Locks, to mitigate with the congestion issues. 55 are of the type “VLACs”, Very Large Ammonia Carriers. We do believe in the development of large scale transportation of ammonia, likely on VLACs, however, this will not be until after 2030. In addition to more production being required, further investment in infrastructure for loading and discharging is needed. As per now, there are no ammonia terminals that can accommodate VLACs, due to their large size and intake. For these vessels to trade in ammonia, we also need to see more long-term demand. As these vessels will start delivering in 2026, they will likely enter the market as regular VLGCs, lifting LPG. We therefore do not differentiate them in the overview of the orderbook delivery.
+
+![Orderbook](../../../../../corpus/01-brokers/fearnleys-md/images/89a6b8a5-9e85-4512-b009-32e752ffb4c8/Orderbook.JPG)
+*Chart: Orderbook*
 
 The incremental ammonia volumes that will come online, will likely be captured by the MGCs, where the orderbook-fleet ratio is at 44%, and all vessels of this segment can lift ammonia. They are also the segment with the widest infrastructure network, as well as experience, in the commodity. 30% of all seaborne ammonia is also currently lifted by Handysize Gas Carriers, which will likely cover an additional part of future supplied volumes.
 
@@ -104,7 +132,7 @@ The incremental ammonia volumes that will come online, will likely be captured b
 
 75 vessels are due for their five-year special survey in 2025, equivalent to deducting six vessels from the market. Additionally, only 12 newbuildings will be delivered. However, during 2026 and 2027, another 76 vessels will be delivered, which might disrupt the fleet balance further, causing an oversupply of tonnage.
 
-"Water levels in the Panama Canal have returned to normal after expected rainfall, and all restrictions imposed in 2023 have been retracted. Daily transit capacity is back to full, at 36 transits per day. To mitigate continued congestion troubles, the canal imposed a Long Term Slot Allocation system (LoTSA), which entered into force on January 1, 2025. This system entails slot packages, pre-paid in an auction conducted in September and October 2024, where just below 200 slots were up for auction, spread across 2025. This will create smoother sailing for the purchasers of these slots; however, it will reduce availability for normal traffic in the canal, with almost half of the daily transits in the Neo-panamax locks being reserved.
+“Water levels in the Panama Canal have returned to normal after expected rainfall, and all restrictions imposed in 2023 have been retracted. Daily transit capacity is back to full, at 36 transits per day. To mitigate continued congestion troubles, the canal imposed a Long Term Slot Allocation system (LoTSA), which entered into force on January 1, 2025. This system entails slot packages, pre-paid in an auction conducted in September and October 2024, where just below 200 slots were up for auction, spread across 2025. This will create smoother sailing for the purchasers of these slots; however, it will reduce availability for normal traffic in the canal, with almost half of the daily transits in the Neo-panamax locks being reserved.
 
 Expected growth in production and export from both the U.S. and the Middle East will be crucial when looking beyond 2025, as the fleet will continue to expand.
 

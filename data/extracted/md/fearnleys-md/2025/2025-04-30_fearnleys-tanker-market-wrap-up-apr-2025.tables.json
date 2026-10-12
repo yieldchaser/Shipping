@@ -4,11 +4,95 @@
   "year": 2025,
   "department": "TANK",
   "report_title": "Fearnleys Tanker Market Wrap-up Apr 2025",
-  "shipment_volume_metrics": [],
-  "coal_futures_spread_metrics": [],
-  "time_charter_vs_asset_metrics": [],
-  "vessel_tightness_metrics": [],
-  "macro_correlation_metrics": [],
+  "source_markdown": "2025-04-30_fearnleys-tanker-market-wrap-up-apr-2025.md",
+  "tables": [],
+  "printed_image_tables": [],
   "charts_count": 17,
-  "source_markdown": "2025-04-30_fearnleys-tanker-market-wrap-up-apr-2025.md"
+  "charts": [
+    {
+      "section": "Summary and outlook",
+      "title": "Rates and forecast",
+      "image": "ec3bcea6-a5e1-4786-86b5-d505e77312cd/rates.png"
+    },
+    {
+      "section": "Summary and outlook",
+      "title": "Crude oil in transit vs. crude tanker rates",
+      "image": "ec3bcea6-a5e1-4786-86b5-d505e77312cd/oow.png"
+    },
+    {
+      "section": "Summary and outlook",
+      "title": "Northwest Europe crack spreads vs. MR rates",
+      "image": "ec3bcea6-a5e1-4786-86b5-d505e77312cd/mrcrack.png"
+    },
+    {
+      "section": "Oil and tanker demand development",
+      "title": "Crude tanker volumes, ex. Iran",
+      "image": "ec3bcea6-a5e1-4786-86b5-d505e77312cd/volc.png"
+    },
+    {
+      "section": "Oil and tanker demand development",
+      "title": "Product tanker volumes, ex. Iran",
+      "image": "ec3bcea6-a5e1-4786-86b5-d505e77312cd/volp.png"
+    },
+    {
+      "section": "Oil and tanker demand development",
+      "title": "IEA oil market balance",
+      "image": "ec3bcea6-a5e1-4786-86b5-d505e77312cd/iea.png"
+    },
+    {
+      "section": "Oil and tanker demand development",
+      "title": "Brent 7-1 month forward spread",
+      "image": "ec3bcea6-a5e1-4786-86b5-d505e77312cd/backw.png"
+    },
+    {
+      "section": "Oil and tanker demand development",
+      "title": "2024-26 annual oil demand/supply growth by region",
+      "image": "ec3bcea6-a5e1-4786-86b5-d505e77312cd/change.png"
+    },
+    {
+      "section": "Oil and tanker demand development",
+      "title": "Quarterly Americas crude oil production growth",
+      "image": "ec3bcea6-a5e1-4786-86b5-d505e77312cd/supply.png"
+    },
+    {
+      "section": "Oil and tanker demand development",
+      "title": "Loadings on OFAC listed vessels",
+      "image": "ec3bcea6-a5e1-4786-86b5-d505e77312cd/ofac.png"
+    },
+    {
+      "section": "Oil and tanker demand development",
+      "title": "CPC exports by destination",
+      "image": "ec3bcea6-a5e1-4786-86b5-d505e77312cd/cpc.png"
+    },
+    {
+      "section": "Fleet development",
+      "title": "VLCC annual deliveries and phase-out",
+      "image": "ec3bcea6-a5e1-4786-86b5-d505e77312cd/delvl.png"
+    },
+    {
+      "section": "Fleet development",
+      "title": "Suezmax annual deliveries and phase-out",
+      "image": "ec3bcea6-a5e1-4786-86b5-d505e77312cd/dels.png"
+    },
+    {
+      "section": "Fleet development",
+      "title": "Afra/LR2 annual deliveries and phase-out",
+      "image": "ec3bcea6-a5e1-4786-86b5-d505e77312cd/dela.png"
+    },
+    {
+      "section": "Fleet development",
+      "title": "MR/Handy annual deliveries and phase-out",
+      "image": "ec3bcea6-a5e1-4786-86b5-d505e77312cd/delm.png"
+    },
+    {
+      "section": "Fleet development",
+      "title": "Annual tanker orders, +42k dwt",
+      "image": "ec3bcea6-a5e1-4786-86b5-d505e77312cd/order.png"
+    },
+    {
+      "section": "Fleet development",
+      "title": "Annual tanker demolition, +42k dwt",
+      "image": "ec3bcea6-a5e1-4786-86b5-d505e77312cd/scrap.png"
+    }
+  ]
 }

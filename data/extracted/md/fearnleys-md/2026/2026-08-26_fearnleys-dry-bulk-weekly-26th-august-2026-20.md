@@ -19,87 +19,134 @@ pdf_url: "https://pbrkapp.blob.core.windows.net/report/ce95f15b-a49d-4003-aa29-0
 
 ## Capesize/Newcastlemax
 
-We made a model consisting of factors like the global ballast/laden vessel ratio, West of Singapore ballasters, and a couple of other AIS indicators. Below the charts are tables showing where the model sits currently, as an attempt at an advanced "traffic light" type of outlook. It is only at extremes that these models give very clear suggestions about the near-term outlook. Currently, both are mildly positive. 
+We made a model consisting of factors like the global ballast/laden vessel ratio, West of Singapore ballasters, and a couple of other AIS indicators. Below the charts are tables showing where the model sits currently, as an attempt at an advanced "traffic light" type of outlook. It is only at extremes that these models give very clear suggestions about the near-term outlook. Currently, both are mildly positive.
 
 Regarding fundamentals, shipment volume growth was 4% higher than last year through week 34, compared with DWT supply growth of 1.8%. In the last 6 weeks, Atlantic shipment volumes were up by an exceptional 20% compared to the same period last year, which was all down to the 80% year-on-year increase in Bauxite shipments.
 
-> **Chart 1: Cape/Newc Short Term Model**  
-> *Figure Asset:* [`Cape Composite Model.png`](../images/ce95f15b-a49d-4003-aa29-0ffee935033e/Cape%20Composite%20Model.png)
+![Cape/Newc Short Term Model](../../../../../corpus/01-brokers/fearnleys-md/images/ce95f15b-a49d-4003-aa29-0ffee935033e/Cape%20Composite%20Model.png)
+*Chart: Cape/Newc Short Term Model*
 
-> **Chart 2: Cape/Newc Short Term Model - 4 Weeks Change**  
-> *Figure Asset:* [`Cape Composite Model 4 Weeks Change.png`](../images/ce95f15b-a49d-4003-aa29-0ffee935033e/Cape%20Composite%20Model%204%20Weeks%20Change.png)
+![Cape/Newc Short Term Model - 4 Weeks Change](../../../../../corpus/01-brokers/fearnleys-md/images/ce95f15b-a49d-4003-aa29-0ffee935033e/Cape%20Composite%20Model%204%20Weeks%20Change.png)
+*Chart: Cape/Newc Short Term Model - 4 Weeks Change*
 
-> **Chart 3: Indicator Chart**  
-> *Figure Asset:* [`cape model.png`](../images/ce95f15b-a49d-4003-aa29-0ffee935033e/cape%20model.png)
+![cape model](../../../../../corpus/01-brokers/fearnleys-md/images/ce95f15b-a49d-4003-aa29-0ffee935033e/cape%20model.png)
+*Chart: cape model*
 
-> **Chart 4: Indicator Chart**  
-> *Figure Asset:* [`cape momentum model.png`](../images/ce95f15b-a49d-4003-aa29-0ffee935033e/cape%20momentum%20model.png)
+Table as printed in the image:
 
----
+**Capesize composite vs forward BCI**
+
+Mean change in BCI 5TC 182 ($/day) by level of the Capes composite z-score
+
+| Composite (z) | n | +2 weeks $/day | +2 weeks % up | +3 weeks $/day | +3 weeks % up | +4 weeks $/day | +4 weeks % up |
+|---|---|---|---|---|---|---|---|
+| -1.5 to -1.0 | 28 | -6,420 | 14% | -6,814 | 14% | -5,339 | 29% |
+| -1.0 to -0.5 | 100 | -2,888 | 26% | -3,356 | 22% | -3,626 | 28% |
+| **-0.5 to +0.0** | **169** | **+1,936** | **61%** | **+2,132** | **65%** | **+2,089** | **65%** |
+| +0.0 to +0.5 | 204 | +1,761 | 66% | +2,286 | 71% | +2,885 | 64% |
+| +0.5 to +1.0 | 61 | +262 | 56% | +1,145 | 48% | +925 | 41% |
+| +1.0 to +1.5 | 15 | +1,256 | 27% | +1,042 | 47% | +2,804 | 73% |
+| +1.5 to +2.0 | 15 | +7,899 | 73% | +10,831 | 93% | +12,511 | 100% |
+| *All observations* | *588* | *+645* | *54%* | *+1,030* | *56%* | *+1,376* | *56%* |
+
+Current reading -0.25 — highlighted row. Green = index rose on average, red = fell.
+Daily observations Jan 2025 – 25 Aug 2026; overlapping windows. Indicative only, not a validated forecast.
+
+![cape momentum model](../../../../../corpus/01-brokers/fearnleys-md/images/ce95f15b-a49d-4003-aa29-0ffee935033e/cape%20momentum%20model.png)
+*Chart: cape momentum model*
+
+Table as printed in the image:
+
+**Capesize composite momentum vs forward BCI**
+
+Mean change in BCI 5TC 182 ($/day) by the 4-week change in the Capes composite z-score
+
+| Composite (z) | n | +2 weeks $/day | +2 weeks % up | +3 weeks $/day | +3 weeks % up | +4 weeks $/day | +4 weeks % up |
+|---|---|---|---|---|---|---|---|
+| -1.50 to -1.25 | 13 | -2,272 | 46% | -2,189 | 23% | -1,442 | 38% |
+| -1.25 to -1.00 | 17 | -1,650 | 29% | -3,104 | 24% | -5,874 | 24% |
+| -1.00 to -0.75 | 42 | -2,858 | 31% | -5,056 | 21% | -5,603 | 21% |
+| -0.75 to -0.50 | 56 | -318 | 45% | -522 | 50% | -1,879 | 48% |
+| -0.50 to -0.25 | 63 | +1,649 | 65% | +1,730 | 71% | +2,607 | 66% |
+| **-0.25 to +0.00** | **80** | **+2,044** | **67%** | **+2,440** | **68%** | **+3,054** | **60%** |
+| +0.00 to +0.25 | 87 | +642 | 55% | +1,725 | 58% | +2,686 | 59% |
+| +0.25 to +0.50 | 65 | -407 | 41% | +1,455 | 49% | +2,677 | 58% |
+| +0.50 to +0.75 | 50 | +2,100 | 65% | +4,088 | 76% | +3,908 | 71% |
+| +0.75 to +1.00 | 35 | +4,171 | 79% | +5,349 | 84% | +4,297 | 74% |
+| +1.00 to +1.25 | 22 | +5,058 | 86% | +4,460 | 95% | +3,976 | 86% |
+| *All observations* | *588* | *+645* | *54%* | *+1,030* | *56%* | *+1,376* | *56%* |
+
+Current 4-week change -0.04 — highlighted row. Correlation with the 4-week forward index: r = +0.48.
+Daily observations Jan 2025 – 25 Aug 2026; overlapping windows. Indicative only, not a validated forecast.
 
 ## Panamax/Kamsarmax
 
-Shipment volume growth continues to be lower than DWT supply growth. Through week 34, growth was 3.3%, compared to DWT supply growth of 4.2%. Comparing the last 8 weeks to the same period last year, shipment volume growth declined by 1.8%. Comparing the last 10 weeks, volumes were flat. At this point, it seems the market is held up mostly due to strength in other segments, where demand/supply comparisons are more bullish. 
+Shipment volume growth continues to be lower than DWT supply growth. Through week 34, growth was 3.3%, compared to DWT supply growth of 4.2%. Comparing the last 8 weeks to the same period last year, shipment volume growth declined by 1.8%. Comparing the last 10 weeks, volumes were flat. At this point, it seems the market is held up mostly due to strength in other segments, where demand/supply comparisons are more bullish.
 
-**Top left chart:** Shipment volumes were up 3.3% year on year through week 34. In the last eight weeks, volumes were down 1.8% compared to the same period last year. Supply growth was 4.2% at the latest reading. 
-**Top right chart:** The 2-month lead of the coal futures curve suggests the market could be past the peak. 
-**Bottom left chart:** The Pacific tightness indicator suggests market softness going forward. 
+**Top left chart:** Shipment volumes were up 3.3% year on year through week 34. In the last eight weeks, volumes were down 1.8% compared to the same period last year. Supply growth was 4.2% at the latest reading.
+
+**Top right chart:** The 2-month lead of the coal futures curve suggests the market could be past the peak.
+
+**Bottom left chart:** The Pacific tightness indicator suggests market softness going forward.
+
 **Bottom right chart:** The SATL tightness indicator suggests P6 is close to a peak, then soften next month.
 
-> **Chart 5: Weekly Shipment Volumes**  
-> *Figure Asset:* [`panamax kamsarmax weekly shipment volumes.png`](../images/ce95f15b-a49d-4003-aa29-0ffee935033e/panamax%20kamsarmax%20weekly%20shipment%20volumes.png)
+![Weekly Shipment Volumes](../../../../../corpus/01-brokers/fearnleys-md/images/ce95f15b-a49d-4003-aa29-0ffee935033e/panamax%20kamsarmax%20weekly%20shipment%20volumes.png)
+*Chart: Weekly Shipment Volumes*
 
-> **Chart 6: P5 vs Newcastle Coal Futures Curve Spread (Lead 2 Months)**  
-> *Figure Asset:* [`P5 vs Newcastle Coal Futures Spread Lead.png`](../images/ce95f15b-a49d-4003-aa29-0ffee935033e/P5%20vs%20Newcastle%20Coal%20Futures%20Spread%20Lead.png)
+![P5 vs Newcastle Coal Futures Curve Spread (Lead 2 Months)](../../../../../corpus/01-brokers/fearnleys-md/images/ce95f15b-a49d-4003-aa29-0ffee935033e/P5%20vs%20Newcastle%20Coal%20Futures%20Spread%20Lead.png)
+*Chart: P5 vs Newcastle Coal Futures Curve Spread (Lead 2 Months)*
 
-> **Chart 7: P5TC vs Pacific Vessel Tightness Indicator (Lead 3 Weeks)**  
-> *Figure Asset:* [`P5TC vs Pacific Tightness Indicator Zoom In.png`](../images/ce95f15b-a49d-4003-aa29-0ffee935033e/P5TC%20vs%20Pacific%20Tightness%20Indicator%20Zoom%20In.png)
+![P5TC vs Pacific Vessel Tightness Indicator (Lead 3 Weeks)](../../../../../corpus/01-brokers/fearnleys-md/images/ce95f15b-a49d-4003-aa29-0ffee935033e/P5TC%20vs%20Pacific%20Tightness%20Indicator%20Zoom%20In.png)
+*Chart: P5TC vs Pacific Vessel Tightness Indicator (Lead 3 Weeks)*
 
-> **Chart 8: P6 vs South Atlantic Vessel Tightness Indicator (Lead 1 Month)**  
-> *Figure Asset:* [`P6 vs SATL Tightness Zoom In.png`](../images/ce95f15b-a49d-4003-aa29-0ffee935033e/P6%20vs%20SATL%20Tightness%20Zoom%20In.png)
-
----
+![P6 vs South Atlantic Vessel Tightness Indicator (Lead 1 Month)](../../../../../corpus/01-brokers/fearnleys-md/images/ce95f15b-a49d-4003-aa29-0ffee935033e/P6%20vs%20SATL%20Tightness%20Zoom%20In.png)
+*Chart: P6 vs South Atlantic Vessel Tightness Indicator (Lead 1 Month)*
 
 ## Supramax/Ultramax
 
-Through last week, shipment volume growth fell further, to 3.7% compared with the same period last year. In the last 8 weeks, volume growth was also 3.7%. DWT Supply growth remains at 5.2%. The near-term indicators suggest a sideways-trending market. 
+Through last week, shipment volume growth fell further, to 3.7% compared with the same period last year. In the last 8 weeks, volume growth was also 3.7%. DWT Supply growth remains at 5.2%. The near-term indicators suggest a sideways-trending market.
 
-**Top left chart:** Weekly shipment volumes, 2026 ytd vs 2025. 
-**Top right chart:** The chart indicates the tightness in the South Atlantic basin. A lower reading reflects tighter market conditions, but can also suggest a near-term market peak. Conversely, a higher reading suggests looser market conditions but can also suggest a near-term market bottom. The longer-term average is 247, and the latest reading is 248. 
-**Bottom left chart:** The price change of copper usually leads the change of the Supra/Ultra market. Towards the end of the year, the suggestion is for a sideways trending market. Some are attributing the rise in copper prices much more to supply than to demand, which, if that is the case, makes this indicator a bit less certain. 
+**Top left chart:** Weekly shipment volumes, 2026 ytd vs 2025.
+
+**Top right chart:** The chart indicates the tightness in the South Atlantic basin. A lower reading reflects tighter market conditions, but can also suggest a near-term market peak. Conversely, a higher reading suggests looser market conditions but can also suggest a near-term market bottom. The longer-term average is 247, and the latest reading is 248.
+
+**Bottom left chart:** The price change of copper usually leads the change of the Supra/Ultra market. Towards the end of the year, the suggestion is for a sideways trending market. Some are attributing the rise in copper prices much more to supply than to demand, which, if that is the case, makes this indicator a bit less certain.
+
 **Bottom right chart:** The chart indicates the tightness in the North Atlantic basin. A lower reading reflects tighter market conditions, but can also suggest a near-term market peak. Conversely, a higher reading suggests looser market conditions but can also suggest a near-term market bottom. The longer-term average is 287, and the latest reading is 276.
 
-> **Chart 9: Weekly Shipment Volumes**  
-> *Figure Asset:* [`SUPRAMAX ULTRAMAX WEEKLY SHIPMENT VOLUMES.png`](../images/ce95f15b-a49d-4003-aa29-0ffee935033e/SUPRAMAX%20ULTRAMAX%20WEEKLY%20SHIPMENT%20VOLUMES.png)
+![Weekly Shipment Volumes](../../../../../corpus/01-brokers/fearnleys-md/images/ce95f15b-a49d-4003-aa29-0ffee935033e/SUPRAMAX%20ULTRAMAX%20WEEKLY%20SHIPMENT%20VOLUMES.png)
+*Chart: Weekly Shipment Volumes*
 
-> **Chart 10: S5 vs South Atlantic Tightness Indicator**  
-> *Figure Asset:* [`SupraUltra SATI.png`](../images/ce95f15b-a49d-4003-aa29-0ffee935033e/SupraUltra%20SATI.png)
+![S5 vs South Atlantic Tightness Indicator](../../../../../corpus/01-brokers/fearnleys-md/images/ce95f15b-a49d-4003-aa29-0ffee935033e/SupraUltra%20SATI.png)
+*Chart: S5 vs South Atlantic Tightness Indicator*
 
-> **Chart 11: Copper Price Change vs Supramax 1 Year TC Change**  
-> *Figure Asset:* [`COPPER PRICE VS SUPRAMAX 1 YEAR TC.png`](../images/ce95f15b-a49d-4003-aa29-0ffee935033e/COPPER%20PRICE%20VS%20SUPRAMAX%201%20YEAR%20TC.png)
+![Copper Price Change vs Supramax 1 Year TC Change](../../../../../corpus/01-brokers/fearnleys-md/images/ce95f15b-a49d-4003-aa29-0ffee935033e/COPPER%20PRICE%20VS%20SUPRAMAX%201%20YEAR%20TC.png)
+*Chart: Copper Price Change vs Supramax 1 Year TC Change*
 
-> **Chart 12: S4B vs North Atlantic Tightness Indicator**  
-> *Figure Asset:* [`SupraUltra NATI.png`](../images/ce95f15b-a49d-4003-aa29-0ffee935033e/SupraUltra%20NATI.png)
-
----
+![S4B vs North Atlantic Tightness Indicator](../../../../../corpus/01-brokers/fearnleys-md/images/ce95f15b-a49d-4003-aa29-0ffee935033e/SupraUltra%20NATI.png)
+*Chart: S4B vs North Atlantic Tightness Indicator*
 
 ## Handysize
 
-Revisions to week 33 shipment volume growth showed that growth was lower than initially estimated, at 2.1%. DWT supply growth remains at 3.2%. The market will most likely move sideways in the near-term. 
+Revisions to week 33 shipment volume growth showed that growth was lower than initially estimated, at 2.1%. DWT supply growth remains at 3.2%. The market will most likely move sideways in the near-term.
 
-**Top left chart:** The ratio between Rio-Recalada / Skaw-Passero (HS3) and SEA / Singapore-Japan (HS5) is usually a good predictor of tops and bottoms of the HS3 route. A higher ratio suggests a market top, and a lower ratio suggests a market bottom. 
-**Top right chart:** Through week 33, Handysize shipment volumes were 2.1% higher year on year, declining from the 3%+ figures seen in the last months. DWT supply growth was 3.2% at the latest reading. 
-**Bottom left chart:** The correlation between the S11TC and HS7TC is over 90%. The correlation is even higher when the S11TC index is shifted forward a few days, which means that movements in the S11TC index often lead the movements of the HS7TC. 
+**Top left chart:** The ratio between Rio-Recalada / Skaw-Passero (HS3) and SEA / Singapore-Japan (HS5) is usually a good predictor of tops and bottoms of the HS3 route. A higher ratio suggests a market top, and a lower ratio suggests a market bottom.
+
+**Top right chart:** Through week 33, Handysize shipment volumes were 2.1% higher year on year, declining from the 3%+ figures seen in the last months. DWT supply growth was 3.2% at the latest reading.
+
+**Bottom left chart:** The correlation between the S11TC and HS7TC is over 90%. The correlation is even higher when the S11TC index is shifted forward a few days, which means that movements in the S11TC index often lead the movements of the HS7TC.
+
 **Bottom right chart:** The change in the price of copper is usually an accurate leading indicator for asset values.
 
-> **Chart 13: HS3 vs Ratio of HS3 and HS5**  
-> *Figure Asset:* [`HS3 RATIO.png`](../images/534eba51-4b17-4814-86ee-549e8d279265/HS3%20RATIO.png)
+![HS3 vs Ratio of HS3 and HS5](../../../../../corpus/01-brokers/fearnleys-md/images/534eba51-4b17-4814-86ee-549e8d279265/HS3%20RATIO.png)
+*Chart: HS3 vs Ratio of HS3 and HS5*
 
-> **Chart 14: Weekly Shipment Volumes**  
-> *Figure Asset:* [`HANDYSIZE WEEKLY SHIPMENT VOLUMES.png`](../images/534eba51-4b17-4814-86ee-549e8d279265/HANDYSIZE%20WEEKLY%20SHIPMENT%20VOLUMES.png)
+![Weekly Shipment Volumes](../../../../../corpus/01-brokers/fearnleys-md/images/534eba51-4b17-4814-86ee-549e8d279265/HANDYSIZE%20WEEKLY%20SHIPMENT%20VOLUMES.png)
+*Chart: Weekly Shipment Volumes*
 
-> **Chart 15: S11TC Shifted 1 Week Forward, vs HS7TC**  
-> *Figure Asset:* [`ULTRA LEAD HANDY.png`](../images/ce95f15b-a49d-4003-aa29-0ffee935033e/ULTRA%20LEAD%20HANDY.png)
+![S11TC Shifted 1 Week Forward, vs HS7TC](../../../../../corpus/01-brokers/fearnleys-md/images/ce95f15b-a49d-4003-aa29-0ffee935033e/ULTRA%20LEAD%20HANDY.png)
+*Chart: S11TC Shifted 1 Week Forward, vs HS7TC*
 
-> **Chart 16: Copper Price 6 Months Change, 6 Months Lead, vs Handysize 10 Year Old 6 Months Change**  
-> *Figure Asset:* [`copper vs handysize.png`](../images/0c93677f-6535-4dce-9faf-4bd6057e8a69/copper%20vs%20handysize.png)
+![Copper Price 6 Months Change, 6 Months Lead, vs Handysize 10 Year Old 6 Months Change](../../../../../corpus/01-brokers/fearnleys-md/images/0c93677f-6535-4dce-9faf-4bd6057e8a69/copper%20vs%20handysize.png)
+*Chart: Copper Price 6 Months Change, 6 Months Lead, vs Handysize 10 Year Old 6 Months Change*

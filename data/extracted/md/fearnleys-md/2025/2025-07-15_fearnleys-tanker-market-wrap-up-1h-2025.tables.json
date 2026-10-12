@@ -4,11 +4,170 @@
   "year": 2025,
   "department": "TANK",
   "report_title": "Fearnleys Tanker Market Wrap-Up 1H 2025",
-  "shipment_volume_metrics": [],
-  "coal_futures_spread_metrics": [],
-  "time_charter_vs_asset_metrics": [],
-  "vessel_tightness_metrics": [],
-  "macro_correlation_metrics": [],
-  "charts_count": 29,
-  "source_markdown": "2025-07-15_fearnleys-tanker-market-wrap-up-1h-2025.md"
+  "source_markdown": "2025-07-15_fearnleys-tanker-market-wrap-up-1h-2025.md",
+  "tables": [],
+  "printed_image_tables": [],
+  "charts_count": 32,
+  "charts": [
+    {
+      "section": "Summary and outlook",
+      "title": "Tanker rates and forecast",
+      "image": "e666b58e-a8b2-4abf-856e-d1ad98c9beed/rate.png"
+    },
+    {
+      "section": "Summary and outlook",
+      "title": "Crude tanker tonne mile demand (excl. OFAC listed ships)",
+      "image": "e666b58e-a8b2-4abf-856e-d1ad98c9beed/tmcrude.png"
+    },
+    {
+      "section": "Summary and outlook",
+      "title": "Product tanker tonne mile demand (excl. OFAC listed ships)",
+      "image": "e666b58e-a8b2-4abf-856e-d1ad98c9beed/tmprod.png"
+    },
+    {
+      "section": "Summary and outlook",
+      "title": "West-East arbitrage is closed",
+      "image": "e666b58e-a8b2-4abf-856e-d1ad98c9beed/arbc.png"
+    },
+    {
+      "section": "Summary and outlook",
+      "title": "West-East crude oil flow coming back down",
+      "image": "e666b58e-a8b2-4abf-856e-d1ad98c9beed/W-E.png"
+    },
+    {
+      "section": "Summary and outlook",
+      "title": "Iranian crude oil exports rising again",
+      "image": "e666b58e-a8b2-4abf-856e-d1ad98c9beed/irn.png"
+    },
+    {
+      "section": "Summary and outlook",
+      "title": "Chinese apparent main oil products demand - 6% YTD",
+      "image": "e666b58e-a8b2-4abf-856e-d1ad98c9beed/chidem.png"
+    },
+    {
+      "section": "Less supportive oil market balances",
+      "title": "IEA 2024-30 oil demand growth by region",
+      "image": "e666b58e-a8b2-4abf-856e-d1ad98c9beed/longdem.png"
+    },
+    {
+      "section": "Less supportive oil market balances",
+      "title": "IEA 2024-30 oil supply growth by region",
+      "image": "e666b58e-a8b2-4abf-856e-d1ad98c9beed/longsup.png"
+    },
+    {
+      "section": "Less supportive oil market balances",
+      "title": "Q/Q production increase, key Atlantic producers",
+      "image": "e666b58e-a8b2-4abf-856e-d1ad98c9beed/atlantic.png"
+    },
+    {
+      "section": "Less supportive oil market balances",
+      "title": "MEG Seasonal demand",
+      "image": "e666b58e-a8b2-4abf-856e-d1ad98c9beed/meg.png"
+    },
+    {
+      "section": "Less supportive oil market balances",
+      "title": "IEA oil supply vs. demand and implied balance",
+      "image": "e666b58e-a8b2-4abf-856e-d1ad98c9beed/bala.png"
+    },
+    {
+      "section": "Less supportive oil market balances",
+      "title": "Brent 7-1 month forward spread",
+      "image": "e666b58e-a8b2-4abf-856e-d1ad98c9beed/forward.png"
+    },
+    {
+      "section": "Less supportive oil market balances",
+      "title": "OECD commercial inventories",
+      "image": "e666b58e-a8b2-4abf-856e-d1ad98c9beed/oecd.png"
+    },
+    {
+      "section": "Less supportive oil market balances",
+      "title": "Global oil inventories",
+      "image": "e666b58e-a8b2-4abf-856e-d1ad98c9beed/globstock.png"
+    },
+    {
+      "section": "Less supportive oil market balances",
+      "title": "Global refinery run season",
+      "image": "e666b58e-a8b2-4abf-856e-d1ad98c9beed/ref.png"
+    },
+    {
+      "section": "Less supportive oil market balances",
+      "title": "NorthWest Europe crack spreads",
+      "image": "e666b58e-a8b2-4abf-856e-d1ad98c9beed/crackeu.png"
+    },
+    {
+      "section": "Less supportive oil market balances",
+      "title": "U.S. Gulf Coast crack spreads",
+      "image": "e666b58e-a8b2-4abf-856e-d1ad98c9beed/crackus.png"
+    },
+    {
+      "section": "Less supportive oil market balances",
+      "title": "China Bohai crack spreads",
+      "image": "e666b58e-a8b2-4abf-856e-d1ad98c9beed/crackchi.png"
+    },
+    {
+      "section": "Less supportive oil market balances",
+      "title": "East of Suez - Europe CPP flow",
+      "image": "e666b58e-a8b2-4abf-856e-d1ad98c9beed/cppe-w.png"
+    },
+    {
+      "section": "Less supportive oil market balances",
+      "title": "LR2s dirtied up YTD, but now switch back",
+      "image": "e666b58e-a8b2-4abf-856e-d1ad98c9beed/lrswitch.png"
+    },
+    {
+      "section": "Less supportive oil market balances",
+      "title": "CPP flow on VLCCs and Suezmaxes",
+      "image": "e666b58e-a8b2-4abf-856e-d1ad98c9beed/cppvs.png"
+    },
+    {
+      "section": "Little fleet growth YTD, set to incrementally pick up",
+      "title": "Fleet growth by year",
+      "image": "e666b58e-a8b2-4abf-856e-d1ad98c9beed/fleet.png"
+    },
+    {
+      "section": "Little fleet growth YTD, set to incrementally pick up",
+      "title": "Deliveries by year",
+      "image": "e666b58e-a8b2-4abf-856e-d1ad98c9beed/fg.png"
+    },
+    {
+      "section": "Little fleet growth YTD, set to incrementally pick up",
+      "title": "Share of the fleet at 20+ years old",
+      "image": "e666b58e-a8b2-4abf-856e-d1ad98c9beed/20+.png"
+    },
+    {
+      "section": "Little fleet growth YTD, set to incrementally pick up",
+      "title": "Sanctioned fleet",
+      "image": "e666b58e-a8b2-4abf-856e-d1ad98c9beed/sanction.png"
+    },
+    {
+      "section": "Little fleet growth YTD, set to incrementally pick up",
+      "title": "Tanker ordering, +42k dwt",
+      "image": "e666b58e-a8b2-4abf-856e-d1ad98c9beed/order.png"
+    },
+    {
+      "section": "Little fleet growth YTD, set to incrementally pick up",
+      "title": "Tanker demolition, +42k dwt",
+      "image": "e666b58e-a8b2-4abf-856e-d1ad98c9beed/scrap.png"
+    },
+    {
+      "section": "Tanker values at risk",
+      "title": "VLCC values",
+      "image": "e666b58e-a8b2-4abf-856e-d1ad98c9beed/valv.png"
+    },
+    {
+      "section": "Tanker values at risk",
+      "title": "Suezmax values",
+      "image": "e666b58e-a8b2-4abf-856e-d1ad98c9beed/vals.png"
+    },
+    {
+      "section": "Tanker values at risk",
+      "title": "Aframax values",
+      "image": "e666b58e-a8b2-4abf-856e-d1ad98c9beed/vala.png"
+    },
+    {
+      "section": "Tanker values at risk",
+      "title": "MR values",
+      "image": "e666b58e-a8b2-4abf-856e-d1ad98c9beed/valm.png"
+    }
+  ]
 }

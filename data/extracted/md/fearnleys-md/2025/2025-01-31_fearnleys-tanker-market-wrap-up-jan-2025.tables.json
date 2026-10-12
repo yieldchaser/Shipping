@@ -4,11 +4,145 @@
   "year": 2025,
   "department": "TANK",
   "report_title": "Fearnleys Tanker Market Wrap-up Jan 2025",
-  "shipment_volume_metrics": [],
-  "coal_futures_spread_metrics": [],
-  "time_charter_vs_asset_metrics": [],
-  "vessel_tightness_metrics": [],
-  "macro_correlation_metrics": [],
-  "charts_count": 18,
-  "source_markdown": "2025-01-31_fearnleys-tanker-market-wrap-up-jan-2025.md"
+  "source_markdown": "2025-01-31_fearnleys-tanker-market-wrap-up-jan-2025.md",
+  "tables": [],
+  "printed_image_tables": [],
+  "charts_count": 27,
+  "charts": [
+    {
+      "section": "Summary and conclusion",
+      "title": "Rates and forecast",
+      "image": "fb340245-ad39-43ce-a380-c6e999ba9899/rates.png"
+    },
+    {
+      "section": "Summary and conclusion",
+      "title": "WTI-Dubai, adj. for 2-1 month fwd. spread",
+      "image": "fb340245-ad39-43ce-a380-c6e999ba9899/arb.png"
+    },
+    {
+      "section": "Summary and conclusion",
+      "title": "2025 oil supply and demand change",
+      "image": "fb340245-ad39-43ce-a380-c6e999ba9899/supdem.png"
+    },
+    {
+      "section": "Summary and conclusion",
+      "title": "Monthly Atlantic VLCC fixtures",
+      "image": "fb340245-ad39-43ce-a380-c6e999ba9899/atlantic.png"
+    },
+    {
+      "section": "Summary and conclusion",
+      "title": "VLCC monthly forecast curve (base case)",
+      "image": "fb340245-ad39-43ce-a380-c6e999ba9899/curve.png"
+    },
+    {
+      "section": "Overall supportive oil market developments",
+      "title": "Oil supply vs. demand",
+      "image": "fb340245-ad39-43ce-a380-c6e999ba9899/balance.png"
+    },
+    {
+      "section": "Overall supportive oil market developments",
+      "title": "Oil market balance, IEA estimate changes",
+      "image": "fb340245-ad39-43ce-a380-c6e999ba9899/bal.png"
+    },
+    {
+      "section": "Overall supportive oil market developments",
+      "title": "Brent 7-1 month forward spread",
+      "image": "fb340245-ad39-43ce-a380-c6e999ba9899/fwd.png"
+    },
+    {
+      "section": "Overall supportive oil market developments",
+      "title": "Americas crude production increase (q/q)",
+      "image": "fb340245-ad39-43ce-a380-c6e999ba9899/americas.png"
+    },
+    {
+      "section": "Overall supportive oil market developments",
+      "title": "TransMountain exports by destination",
+      "image": "fb340245-ad39-43ce-a380-c6e999ba9899/tmx.png"
+    },
+    {
+      "section": "Overall supportive oil market developments",
+      "title": "Russia total seaborne exports",
+      "image": "fb340245-ad39-43ce-a380-c6e999ba9899/rus.png"
+    },
+    {
+      "section": "Overall supportive oil market developments",
+      "title": "Russia crude exports by area & OFAC share",
+      "image": "fb340245-ad39-43ce-a380-c6e999ba9899/russhare.png"
+    },
+    {
+      "section": "Overall supportive oil market developments",
+      "title": "OFAC listed vessels flow by destination",
+      "image": "fb340245-ad39-43ce-a380-c6e999ba9899/ofac.png"
+    },
+    {
+      "section": "Overall supportive oil market developments",
+      "title": "OFAC ships' share of 2024 totals",
+      "image": "fb340245-ad39-43ce-a380-c6e999ba9899/ofacs.png"
+    },
+    {
+      "section": "Overall supportive oil market developments",
+      "title": "Quarterly oil demand change by region",
+      "image": "fb340245-ad39-43ce-a380-c6e999ba9899/demchg.png"
+    },
+    {
+      "section": "Overall supportive oil market developments",
+      "title": "Brent oil price in Chinese Renminbi",
+      "image": "fb340245-ad39-43ce-a380-c6e999ba9899/oilcny.png"
+    },
+    {
+      "section": "Refinery margins keeping some arbs alive, for now...",
+      "title": "China crack spreads",
+      "image": "fb340245-ad39-43ce-a380-c6e999ba9899/crackch.png"
+    },
+    {
+      "section": "Refinery margins keeping some arbs alive, for now...",
+      "title": "NorthWest Europe crack spreads",
+      "image": "fb340245-ad39-43ce-a380-c6e999ba9899/crackeu.png"
+    },
+    {
+      "section": "Refinery margins keeping some arbs alive, for now...",
+      "title": "U.S. Gulf Crack Spreads",
+      "image": "fb340245-ad39-43ce-a380-c6e999ba9899/crackus.png"
+    },
+    {
+      "section": "Low-ish fleet growth for the foreseeable future",
+      "title": "Orderbook to fleet",
+      "image": "fb340245-ad39-43ce-a380-c6e999ba9899/ob.png"
+    },
+    {
+      "section": "Low-ish fleet growth for the foreseeable future",
+      "title": "Ordering by quarter",
+      "image": "fb340245-ad39-43ce-a380-c6e999ba9899/orders.png"
+    },
+    {
+      "section": "Low-ish fleet growth for the foreseeable future",
+      "title": "Crude tanker deliveries by quarter",
+      "image": "fb340245-ad39-43ce-a380-c6e999ba9899/crude.png"
+    },
+    {
+      "section": "Low-ish fleet growth for the foreseeable future",
+      "title": "Product tanker deliveries by quarter",
+      "image": "fb340245-ad39-43ce-a380-c6e999ba9899/prod.png"
+    },
+    {
+      "section": "Values may be about to find support again",
+      "title": "VLCC values",
+      "image": "fb340245-ad39-43ce-a380-c6e999ba9899/valv.png"
+    },
+    {
+      "section": "Values may be about to find support again",
+      "title": "Suezmax values",
+      "image": "fb340245-ad39-43ce-a380-c6e999ba9899/vals.png"
+    },
+    {
+      "section": "Values may be about to find support again",
+      "title": "Aframax values",
+      "image": "fb340245-ad39-43ce-a380-c6e999ba9899/vala.png"
+    },
+    {
+      "section": "Values may be about to find support again",
+      "title": "MR values",
+      "image": "fb340245-ad39-43ce-a380-c6e999ba9899/valm.png"
+    }
+  ]
 }

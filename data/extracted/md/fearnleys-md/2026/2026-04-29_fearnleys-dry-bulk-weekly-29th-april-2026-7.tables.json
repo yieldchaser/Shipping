@@ -4,51 +4,90 @@
   "year": 2026,
   "department": "BULK",
   "report_title": "Fearnleys Dry Bulk Weekly",
-  "shipment_volume_metrics": [],
-  "coal_futures_spread_metrics": [],
-  "time_charter_vs_asset_metrics": [],
-  "vessel_tightness_metrics": [
-    {
-      "issue_date": "2026-04-29",
-      "year": "2026",
-      "department": "BULK",
-      "report_title": "Fearnleys Dry Bulk Weekly",
-      "chart_family": "BCI5TC SATL Tightness Indicator.png",
-      "indicator_metric": "South Atlantic Vessel Count",
-      "indicator_val": 116.5,
-      "freight_benchmark": "P6 / BCI5TC Index USD/day",
-      "freight_benchmark_val": 19239.4,
-      "lead_tenor": "1 Month Lead",
-      "report_id": "85aaf66c-0faf-4c41-8755-70b96428d682"
-    },
-    {
-      "issue_date": "2026-04-29",
-      "year": "2026",
-      "department": "BULK",
-      "report_title": "Fearnleys Dry Bulk Weekly",
-      "chart_family": "P6 vs SATL Tightness.png",
-      "indicator_metric": "South Atlantic Vessel Count",
-      "indicator_val": 259.6,
-      "freight_benchmark": "P6 / BCI5TC Index USD/day",
-      "freight_benchmark_val": 22656.2,
-      "lead_tenor": "1 Month Lead",
-      "report_id": "85aaf66c-0faf-4c41-8755-70b96428d682"
-    },
-    {
-      "issue_date": "2026-04-29",
-      "year": "2026",
-      "department": "BULK",
-      "report_title": "Fearnleys Dry Bulk Weekly",
-      "chart_family": "supraultra ballaster laden vessel ratio.png",
-      "indicator_metric": "Indicator Metric",
-      "indicator_val": 199.0,
-      "freight_benchmark": "Freight Benchmark",
-      "freight_benchmark_val": 160.5,
-      "lead_tenor": "Concurrent",
-      "report_id": "85aaf66c-0faf-4c41-8755-70b96428d682"
-    }
-  ],
-  "macro_correlation_metrics": [],
+  "source_markdown": "2026-04-29_fearnleys-dry-bulk-weekly-29th-april-2026-7.md",
+  "tables": [],
+  "printed_image_tables": [],
   "charts_count": 16,
-  "source_markdown": "2026-04-29_fearnleys-dry-bulk-weekly-29th-april-2026-7.md"
+  "charts": [
+    {
+      "section": "Capesize/Newcastlemax",
+      "title": "China - Hot Metal Output vs Share of Profitable Steel Mills (7 Weeks Lead)",
+      "image": "85aaf66c-0faf-4c41-8755-70b96428d682/BF OUTPUT CHINA.png"
+    },
+    {
+      "section": "Capesize/Newcastlemax",
+      "title": "Weekly Shipment Volumes",
+      "image": "85aaf66c-0faf-4c41-8755-70b96428d682/Capenewc Weekly Shipment Volumes.png"
+    },
+    {
+      "section": "Capesize/Newcastlemax",
+      "title": "C5TC 180 vs South Atlantic Tightness Indicator",
+      "image": "85aaf66c-0faf-4c41-8755-70b96428d682/BCI5TC SATL Tightness Indicator.png"
+    },
+    {
+      "section": "Capesize/Newcastlemax",
+      "title": "Laden/Ballast Ratio",
+      "image": "85aaf66c-0faf-4c41-8755-70b96428d682/CapeNewc Laden Ballast Ratio.png"
+    },
+    {
+      "section": "Panamax/Kamsarmax",
+      "title": "Weekly Shipment Volumes",
+      "image": "85aaf66c-0faf-4c41-8755-70b96428d682/panamax kamsarmax weekly shipment volumes.png"
+    },
+    {
+      "section": "Panamax/Kamsarmax",
+      "title": "P5 vs Newcastle Coal Futures Curve Spread (Lead 2 Months)",
+      "image": "85aaf66c-0faf-4c41-8755-70b96428d682/P5 vs Newcastle Coal Futures Spread Lead.png"
+    },
+    {
+      "section": "Panamax/Kamsarmax",
+      "title": "P5TC vs Pacific Vessel Tightness Indicator (Lead 1 Month)",
+      "image": "85aaf66c-0faf-4c41-8755-70b96428d682/P5TC vs Pacific Tightness Indicator.png"
+    },
+    {
+      "section": "Panamax/Kamsarmax",
+      "title": "P6 vs South Atlantic Vessel Tightness Indicator (Lead 1 Month)",
+      "image": "85aaf66c-0faf-4c41-8755-70b96428d682/P6 vs SATL Tightness.png"
+    },
+    {
+      "section": "Supramax/Ultramax",
+      "title": "Copper Price 3 Months Change, 3 Months Lead vs 3 Months Change of Supra 10TC",
+      "image": "85aaf66c-0faf-4c41-8755-70b96428d682/3 MONTHS CHANGE OF COPPER VS 3 MONTHS CHANGE OF SUPRA 10 TC.png"
+    },
+    {
+      "section": "Supramax/Ultramax",
+      "title": "S11TC  vs Ballaster/Laden Vessel Ratio",
+      "image": "85aaf66c-0faf-4c41-8755-70b96428d682/supraultra ballaster laden vessel ratio.png"
+    },
+    {
+      "section": "Supramax/Ultramax",
+      "title": "S11TC / HS7TC spread",
+      "image": "85aaf66c-0faf-4c41-8755-70b96428d682/ULTRA SPREAD OVER HANDY.png"
+    },
+    {
+      "section": "Supramax/Ultramax",
+      "title": "Weekly Shipment Volumes",
+      "image": "85aaf66c-0faf-4c41-8755-70b96428d682/SUPRAMAX ULTRAMAX WEEKLY SHIPMENT VOLUMES.png"
+    },
+    {
+      "section": "Handysize",
+      "title": "HS3 vs Ratio of HS3 and HS5",
+      "image": "41ac4f56-e8c7-47ea-bc14-982c6c7b543e/HS3 RATIO.png"
+    },
+    {
+      "section": "Handysize",
+      "title": "Weekly Shipment Volumes",
+      "image": "41ac4f56-e8c7-47ea-bc14-982c6c7b543e/HANDYSIZE WEEKLY SHIPMENT VOLUMES.png"
+    },
+    {
+      "section": "Handysize",
+      "title": "S11TC Shifted 1 Week Forward, vs HS7TC",
+      "image": "85aaf66c-0faf-4c41-8755-70b96428d682/ULTRA LEAD HANDY.png"
+    },
+    {
+      "section": "Handysize",
+      "title": "Handysize 7TC vs Laden/Ballast Ratio",
+      "image": "41ac4f56-e8c7-47ea-bc14-982c6c7b543e/Handysize Laden Ballast Ratio.png"
+    }
+  ]
 }

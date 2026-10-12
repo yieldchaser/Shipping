@@ -4,106 +4,131 @@
   "year": 2026,
   "department": "BULK",
   "report_title": "Fearnleys Dry Bulk Weekly",
-  "shipment_volume_metrics": [
+  "source_markdown": "2026-09-30_fearnleys-dry-bulk-weekly-30th-september-2026-27.md",
+  "tables": [],
+  "printed_image_tables": [
     {
-      "issue_date": "2026-09-30",
-      "year": 2026,
-      "report_week": 39,
-      "department": "BULK",
-      "report_title": "Fearnleys Dry Bulk Weekly",
-      "vessel_segment": "Panamax/Kamsarmax",
-      "shipment_volume_growth_ytd": "2.9%",
-      "shipment_volume_growth_last_10w": "",
-      "dwt_supply_growth": "4.2%",
-      "atlantic_volume_change": "",
-      "report_id": "190c6f48-0d96-416d-8157-70474979f10c"
+      "section": "Capesize/Newcastlemax",
+      "image": "190c6f48-0d96-416d-8157-70474979f10c/cape model.png",
+      "markdown": "**Capesize composite vs forward BCI 5TC (182k), USD/day**\n\nAverage change in the BCI 5TC 182 over the next 2, 3 and 4 weeks, by composite bucket. Latest reading 29-Sep-2026: +0.02 (highlighted).\n\n| Model reading | Obs | +2w $/d | up % | +3w $/d | up % | +4w $/d | up % |\n|---|---|---|---|---|---|---|---|\n| < -1.00 | 32 | -6,202 | 12% | -6,805 | 13% | -5,339 | 29% |\n| -1.00 to -0.50 | 111 | -2,903 | 21% | -3,280 | 25% | -3,326 | 33% |\n| -0.50 to 0.00 | 173 | 2,585 | 65% | 2,764 | 71% | 2,825 | 70% |\n| **0.00 to +0.50** | **201** | **2,269** | **69%** | **3,013** | **74%** | **3,802** | **69%** |\n| +0.50 to +1.00 | 59 | 366 | 58% | 1,284 | 49% | 1,078 | 42% |\n| > +1.00 | 17 | 9,320 | 94% | 11,420 | 88% | 10,706 | 88% |\n| *All observations* | *593* | *840* | *54%* | *1,309* | *58%* | *1,839* | *58%* |\n\nSource: Fearnleys Research; AIS trade indicators & Baltic Exchange. Jan-2025 to 29-Sep-2026, daily overlapping windows."
     },
     {
-      "issue_date": "2026-09-30",
-      "year": 2026,
-      "report_week": 39,
-      "department": "BULK",
-      "report_title": "Fearnleys Dry Bulk Weekly",
-      "vessel_segment": "Supramax/Ultramax",
-      "shipment_volume_growth_ytd": "3.8%",
-      "shipment_volume_growth_last_10w": "",
-      "dwt_supply_growth": "5.2%",
-      "atlantic_volume_change": "",
-      "report_id": "190c6f48-0d96-416d-8157-70474979f10c"
-    },
-    {
-      "issue_date": "2026-09-30",
-      "year": 2026,
-      "report_week": 39,
-      "department": "BULK",
-      "report_title": "Fearnleys Dry Bulk Weekly",
-      "vessel_segment": "Handysize",
-      "shipment_volume_growth_ytd": "3.2%",
-      "shipment_volume_growth_last_10w": "",
-      "dwt_supply_growth": "3.2%",
-      "atlantic_volume_change": "",
-      "report_id": "190c6f48-0d96-416d-8157-70474979f10c"
+      "section": "Capesize/Newcastlemax",
+      "image": "190c6f48-0d96-416d-8157-70474979f10c/cape momentum model.png",
+      "markdown": "**Capesize composite 4-week change vs forward BCI 5TC (182k), USD/day**\n\nAverage change in the BCI 5TC 182 over the next 2, 3 and 4 weeks, by 28-day change in the composite. Latest reading 29-Sep-2026: +0.51 (highlighted).\n\n| Model reading | Obs | +2w $/d | up % | +3w $/d | up % | +4w $/d | up % |\n|---|---|---|---|---|---|---|---|\n| < -1.00 | 52 | -4,829 | 12% | -5,995 | 13% | -5,757 | 26% |\n| -1.00 to -0.50 | 104 | -1,436 | 38% | -2,388 | 38% | -3,262 | 37% |\n| -0.50 to 0.00 | 145 | 1,899 | 66% | 2,076 | 70% | 2,963 | 63% |\n| 0.00 to +0.50 | 155 | 654 | 51% | 2,004 | 56% | 3,030 | 61% |\n| **+0.50 to +1.00** | **83** | **2,827** | **72%** | **4,442** | **80%** | **4,674** | **75%** |\n| > +1.00 | 26 | 5,651 | 85% | 4,937 | 96% | 4,515 | 88% |\n| *All observations* | *565* | *840* | *54%* | *1,309* | *58%* | *1,839* | *58%* |\n\nSource: Fearnleys Research; AIS trade indicators & Baltic Exchange. Jan-2025 to 29-Sep-2026, daily overlapping windows."
     }
   ],
-  "coal_futures_spread_metrics": [
-    {
-      "issue_date": "2026-09-30",
-      "year": "2026",
-      "department": "BULK",
-      "report_title": "Fearnleys Dry Bulk Weekly",
-      "p5_kamsarmax_indonesia_rv_usd_day": 10684.93,
-      "p5_4w_prev_usd_day": 10068.49,
-      "newcastle_coal_futures_spread_lead_2m": -0.41,
-      "coal_spread_4w_prev": "",
-      "lead_tenor": "2 Months",
-      "chart_title": "P5 vs Newcastle Coal Futures Spread Lead",
-      "source_image": "P5 vs Newcastle Coal Futures Spread Lead.png",
-      "report_id": "190c6f48-0d96-416d-8157-70474979f10c"
-    }
-  ],
-  "time_charter_vs_asset_metrics": [],
-  "vessel_tightness_metrics": [
-    {
-      "issue_date": "2026-09-30",
-      "year": "2026",
-      "department": "BULK",
-      "report_title": "Fearnleys Dry Bulk Weekly",
-      "chart_family": "P5TC vs Pacific Tightness Indicator Zoom In.png",
-      "indicator_metric": "Indicator Metric",
-      "indicator_val": 72.0,
-      "freight_benchmark": "Freight Benchmark",
-      "freight_benchmark_val": 273.5,
-      "lead_tenor": "Concurrent",
-      "report_id": "190c6f48-0d96-416d-8157-70474979f10c"
-    },
-    {
-      "issue_date": "2026-09-30",
-      "year": "2026",
-      "department": "BULK",
-      "report_title": "Fearnleys Dry Bulk Weekly",
-      "chart_family": "P6 vs SATL Tightness Zoom In.png",
-      "indicator_metric": "South Atlantic Vessel Count",
-      "indicator_val": 452.5,
-      "freight_benchmark": "P6 / BCI5TC Index USD/day",
-      "freight_benchmark_val": 20818.6,
-      "lead_tenor": "1 Month Lead",
-      "report_id": "190c6f48-0d96-416d-8157-70474979f10c"
-    },
-    {
-      "issue_date": "2026-09-30",
-      "year": "2026",
-      "department": "BULK",
-      "report_title": "Fearnleys Dry Bulk Weekly",
-      "chart_family": "supraultra ballaster laden vessel ratio.png",
-      "indicator_metric": "Indicator Metric",
-      "indicator_val": 512.0,
-      "freight_benchmark": "Freight Benchmark",
-      "freight_benchmark_val": 100.0,
-      "lead_tenor": "Concurrent",
-      "report_id": "190c6f48-0d96-416d-8157-70474979f10c"
-    }
-  ],
-  "macro_correlation_metrics": [],
   "charts_count": 22,
-  "source_markdown": "2026-09-30_fearnleys-dry-bulk-weekly-30th-september-2026-27.md"
+  "charts": [
+    {
+      "section": "Capesize/Newcastlemax",
+      "title": "Cape/Newc Composite Model",
+      "image": "190c6f48-0d96-416d-8157-70474979f10c/Cape Composite Model.png"
+    },
+    {
+      "section": "Capesize/Newcastlemax",
+      "title": "Cape/Newc Composite Model - 4 Weeks Change",
+      "image": "190c6f48-0d96-416d-8157-70474979f10c/Cape Composite Model 4 Weeks Change.png"
+    },
+    {
+      "section": "Capesize/Newcastlemax",
+      "title": "cape model",
+      "image": "190c6f48-0d96-416d-8157-70474979f10c/cape model.png"
+    },
+    {
+      "section": "Capesize/Newcastlemax",
+      "title": "cape momentum model",
+      "image": "190c6f48-0d96-416d-8157-70474979f10c/cape momentum model.png"
+    },
+    {
+      "section": "Panamax/Kamsarmax",
+      "title": "Weekly Shipment Volumes",
+      "image": "190c6f48-0d96-416d-8157-70474979f10c/panamax kamsarmax weekly shipment volumes.png"
+    },
+    {
+      "section": "Panamax/Kamsarmax",
+      "title": "P5 vs Newcastle Coal Futures Curve Spread (Lead 2 Months)",
+      "image": "190c6f48-0d96-416d-8157-70474979f10c/P5 vs Newcastle Coal Futures Spread Lead.png"
+    },
+    {
+      "section": "Panamax/Kamsarmax",
+      "title": "P5TC vs Pacific Vessel Tightness Indicator (Lead 3 Weeks)",
+      "image": "190c6f48-0d96-416d-8157-70474979f10c/P5TC vs Pacific Tightness Indicator Zoom In.png"
+    },
+    {
+      "section": "Panamax/Kamsarmax",
+      "title": "P6 vs South Atlantic Vessel Tightness Indicator (Lead 1 Month)",
+      "image": "190c6f48-0d96-416d-8157-70474979f10c/P6 vs SATL Tightness Zoom In.png"
+    },
+    {
+      "section": "Supramax/Ultramax",
+      "title": "Weekly Shipment Volumes",
+      "image": "190c6f48-0d96-416d-8157-70474979f10c/SUPRAMAX ULTRAMAX WEEKLY SHIPMENT VOLUMES.png"
+    },
+    {
+      "section": "Supramax/Ultramax",
+      "title": "Ballaster/Laden Vessel Ratio vs S11TC",
+      "image": "190c6f48-0d96-416d-8157-70474979f10c/supraultra ballaster laden vessel ratio.png"
+    },
+    {
+      "section": "Supramax/Ultramax",
+      "title": "Industrial Metals Price Index vs Ultra/Supra 1 Year TC",
+      "image": "649096d0-0a82-418b-beaf-334bbc77bc3d/INDUSTRIAL METALS VS SUPRAMAX AND ULTRAMAX 1 YEAR TC.png"
+    },
+    {
+      "section": "Supramax/Ultramax",
+      "title": "Copper Price vs Ultramax 1 Year TC",
+      "image": "649096d0-0a82-418b-beaf-334bbc77bc3d/COPPER 9 MONTHS CHANGE VS ULTRAMAX 9 MONTHS CHANGE.png"
+    },
+    {
+      "section": "Handysize",
+      "title": "HS3 vs Ratio of HS3 and HS5",
+      "image": "649096d0-0a82-418b-beaf-334bbc77bc3d/HS3 RATIO.png"
+    },
+    {
+      "section": "Handysize",
+      "title": "Weekly Shipment Volumes",
+      "image": "649096d0-0a82-418b-beaf-334bbc77bc3d/HANDYSIZE WEEKLY SHIPMENT VOLUMES.png"
+    },
+    {
+      "section": "Handysize",
+      "title": "S11TC Shifted 1 Week Forward, vs HS7TC",
+      "image": "190c6f48-0d96-416d-8157-70474979f10c/ULTRA LEAD HANDY.png"
+    },
+    {
+      "section": "Handysize",
+      "title": "Copper Price 6 Months Change, 6 Months Lead, vs Handysize 10 Year Old 6 Months Change",
+      "image": "0c93677f-6535-4dce-9faf-4bd6057e8a69/copper vs handysize.png"
+    },
+    {
+      "section": "Fundamentals and Macro",
+      "title": "Economic Cycle Index vs Dry Bulk Ton-Time Growth",
+      "image": "190c6f48-0d96-416d-8157-70474979f10c/Commodity and Currency vs TonTime.png"
+    },
+    {
+      "section": "Fundamentals and Macro",
+      "title": "Economic Cycle Index vs Kamsarmax 10-Year Old",
+      "image": "190c6f48-0d96-416d-8157-70474979f10c/Commodity and Currency vs Kamsarmax.png"
+    },
+    {
+      "section": "Fundamentals and Macro",
+      "title": "Economic Cycle Index vs Dry Bulk Volume Growth",
+      "image": "190c6f48-0d96-416d-8157-70474979f10c/Commodity and Currency vs Volumes.png"
+    },
+    {
+      "section": "Fundamentals and Macro",
+      "title": "Economic Cycle Index vs BDI",
+      "image": "190c6f48-0d96-416d-8157-70474979f10c/Commodity and Currency vs BDI.png"
+    },
+    {
+      "section": "Fundamentals and Macro",
+      "title": "Fleet Age Profile",
+      "image": "523b991f-2926-48bf-bb3b-082065a1c9a7/FLEET AGE PROFILE.png"
+    },
+    {
+      "section": "Fundamentals and Macro",
+      "title": "Ton-Time Growth vs DWT Supply Growth",
+      "image": "523b991f-2926-48bf-bb3b-082065a1c9a7/TON-TIME VS SUPPLY.png"
+    }
+  ]
 }

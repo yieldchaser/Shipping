@@ -4,24 +4,100 @@
   "year": 2024,
   "department": "BULK",
   "report_title": "Fearnleys Dry Bulk Weekly",
-  "shipment_volume_metrics": [],
-  "coal_futures_spread_metrics": [],
-  "time_charter_vs_asset_metrics": [],
-  "vessel_tightness_metrics": [],
-  "macro_correlation_metrics": [
-    {
-      "issue_date": "2024-05-08",
-      "year": "2024",
-      "department": "BULK",
-      "report_title": "Fearnleys Dry Bulk Weekly",
-      "macro_metric": "Iron Ore Price 3M Lead vs BCI5TC",
-      "freight_benchmark_val": 20758.6,
-      "macro_indicator_val": 115.8,
-      "lead_tenor": "3 Months",
-      "chart_title": "IRON ORE PRICE 3 MONTH LEAD VS BCI5TC.png",
-      "report_id": "529fde11-b8ff-4e33-9cd2-73272d72f615"
-    }
-  ],
+  "source_markdown": "2024-05-08_fearnleys-dry-bulk-weekly-8th-may-2024.md",
+  "tables": [],
+  "printed_image_tables": [],
   "charts_count": 18,
-  "source_markdown": "2024-05-08_fearnleys-dry-bulk-weekly-8th-may-2024.md"
+  "charts": [
+    {
+      "section": "Capesize/Newcastlemax",
+      "title": "VLOCs Heading to or in Brazil",
+      "image": "529fde11-b8ff-4e33-9cd2-73272d72f615/VLOC HEADING TO BRAZIL.png"
+    },
+    {
+      "section": "Capesize/Newcastlemax",
+      "title": "Capes/Newcs East of Suez and West of Suez",
+      "image": "529fde11-b8ff-4e33-9cd2-73272d72f615/CAPENEWC WEST OF SUEZ AND EAST OF SUEZ.png"
+    },
+    {
+      "section": "Capesize/Newcastlemax",
+      "title": "Capes/Newcs Heading to or in Brazil",
+      "image": "529fde11-b8ff-4e33-9cd2-73272d72f615/CAPENEWC HEADING TO BRAZIL.png"
+    },
+    {
+      "section": "Capesize/Newcastlemax",
+      "title": "China Imported Iron Ore Consumption Lead vs BCI5TC 1-Month Change",
+      "image": "529fde11-b8ff-4e33-9cd2-73272d72f615/CHINA IMPORTED IRON ORE CONSUMPTION LEAD VS CAPESIZE 1 MONTH CHANGE.png"
+    },
+    {
+      "section": "Capesize/Newcastlemax",
+      "title": "Iron Ore Price (Moved 3 Months Forward) vs BCI5TC",
+      "image": "529fde11-b8ff-4e33-9cd2-73272d72f615/IRON ORE PRICE 3 MONTH LEAD VS BCI5TC.png"
+    },
+    {
+      "section": "Capesize/Newcastlemax",
+      "title": "China Steel Rebar Price 3 Months Change (Moved 2 Months Forward) vs BCI5TC 3 Months Change",
+      "image": "529fde11-b8ff-4e33-9cd2-73272d72f615/CHINA STEEL REBAR PRICE 3 MONTHS CHANGE MOVED 2 MONTHS FORWRARD VS NCI5TC 3 MONTHS CHANGE.png"
+    },
+    {
+      "section": "Panamax/Kamsarmax",
+      "title": "Panamax/Kamsarmax Seasonal Average Market Movement",
+      "image": "529fde11-b8ff-4e33-9cd2-73272d72f615/PANAMAX KAMSARMAX SEASONAL AVERAGE.png"
+    },
+    {
+      "section": "Panamax/Kamsarmax",
+      "title": "Panamax/Kamsarmax Heading to AUS, IDN or RUS (Pac)",
+      "image": "529fde11-b8ff-4e33-9cd2-73272d72f615/PANAMAX KAMSARMAX HEADING TO AUS IDN OR RUS (PAC).png"
+    },
+    {
+      "section": "Panamax/Kamsarmax",
+      "title": "Panamax/Kamsarmax Heading to or in the South Atlantic",
+      "image": "529fde11-b8ff-4e33-9cd2-73272d72f615/PANAMAX KAMSARMAX HEADING TO THE SOUTH ATLANTIC.png"
+    },
+    {
+      "section": "Panamax/Kamsarmax",
+      "title": "Panamax/Kamsarmax Heading to or in the US",
+      "image": "529fde11-b8ff-4e33-9cd2-73272d72f615/PANAMAX KAMSARMAX HEADING TO THE US.png"
+    },
+    {
+      "section": "Panamax/Kamsarmax",
+      "title": "Panamax/Kamsarmax Vessels West of Suez / East of Suez",
+      "image": "529fde11-b8ff-4e33-9cd2-73272d72f615/PANAMAX KAMSARMAX SHARE OF FLEET WEST OF SUEZ COMPARED TO EAST OF SUEZ.png"
+    },
+    {
+      "section": "Panamax/Kamsarmax",
+      "title": "Panamax/Kamsarmax Heading to or in Black Sea/Med",
+      "image": "529fde11-b8ff-4e33-9cd2-73272d72f615/PANAMAX KAMSARMAX HEADING TO MED BLACK SEA.png"
+    },
+    {
+      "section": "Supramax/Ultramax",
+      "title": "Supramax Seasonal Average Market Movement",
+      "image": "529fde11-b8ff-4e33-9cd2-73272d72f615/SUPRAMAX ULTRAMAX SEASONAL AVERAGE.png"
+    },
+    {
+      "section": "Supramax/Ultramax",
+      "title": "Supramax/Ultramax Ballaster/Laden Vessel Ratio",
+      "image": "529fde11-b8ff-4e33-9cd2-73272d72f615/SUPRAMAX ULTRAMAX BALLASTER LADEN VESSEL RATIO.png"
+    },
+    {
+      "section": "Supramax/Ultramax",
+      "title": "Supramax/Ultramax Heading to or in AUD, IDN or ZAF",
+      "image": "529fde11-b8ff-4e33-9cd2-73272d72f615/SUPRAMAX ULTRAMAX HEADING TO IDN AUS OR ZAF.png"
+    },
+    {
+      "section": "Supramax/Ultramax",
+      "title": "Supramax/Ultramax Heading to or in the South Atlantic",
+      "image": "529fde11-b8ff-4e33-9cd2-73272d72f615/SUPRAMAX ULTRAMAX HEADING TO OR IN THE SOUTH ATLANTIC.png"
+    },
+    {
+      "section": "Supramax/Ultramax",
+      "title": "Supramax/Ultramax Heading to or in the North Atlantic/Europe Continent",
+      "image": "529fde11-b8ff-4e33-9cd2-73272d72f615/SUPRAMAX ULTRAMAX HEADING TO EUROPE NATL.png"
+    },
+    {
+      "section": "Supramax/Ultramax",
+      "title": "Supramax/Ultramax East of Suez and West of Suez",
+      "image": "529fde11-b8ff-4e33-9cd2-73272d72f615/SUPRAMAX ULTRAMAX WEST OF SUEZ AND EAST OF SUEZ.png"
+    }
+  ]
 }

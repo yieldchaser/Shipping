@@ -4,24 +4,70 @@
   "year": 2025,
   "department": "BULK",
   "report_title": "Fearnleys Dry Bulk Weekly",
-  "shipment_volume_metrics": [],
-  "coal_futures_spread_metrics": [],
-  "time_charter_vs_asset_metrics": [],
-  "vessel_tightness_metrics": [],
-  "macro_correlation_metrics": [
-    {
-      "issue_date": "2025-06-25",
-      "year": "2025",
-      "department": "BULK",
-      "report_title": "Fearnleys Dry Bulk Weekly",
-      "macro_metric": "Copper 6M Change Lead vs Supramax 1Y TC 6M Change",
-      "freight_benchmark_val": 1.3,
-      "macro_indicator_val": 6.0,
-      "lead_tenor": "6 Months",
-      "chart_title": "COPPER PRICE VS SUPRAMAX 1 YEAR TC.png",
-      "report_id": "a9773d5e-303e-48f6-acd6-c9272353dcfb"
-    }
-  ],
+  "source_markdown": "2025-06-25_fearnleys-dry-bulk-weekly-25th-june-2025-3.md",
+  "tables": [],
+  "printed_image_tables": [],
   "charts_count": 12,
-  "source_markdown": "2025-06-25_fearnleys-dry-bulk-weekly-25th-june-2025-3.md"
+  "charts": [
+    {
+      "section": "Capesize/Newcastlemax",
+      "title": "1 Month Change of China's Daily Imported Iron Ore Consumption, 1.5 Months Lead, vs C5TC 1 Month Change",
+      "image": "a9773d5e-303e-48f6-acd6-c9272353dcfb/CHINA IMPORTED IRON ORE CONSUMPTION LEAD VS CAPESIZE 1 MONTH CHANGE.png"
+    },
+    {
+      "section": "Capesize/Newcastlemax",
+      "title": "Iron Ore Price, 3 Months Lead, vs C5TC",
+      "image": "a9773d5e-303e-48f6-acd6-c9272353dcfb/IRON ORE PRICE 3 MONTH LEAD VS BCI5TC.png"
+    },
+    {
+      "section": "Capesize/Newcastlemax",
+      "title": "3 Months Change of the Iron Ore Price, 3 Months Lead, vs 3 Months Change of C5TC",
+      "image": "a9773d5e-303e-48f6-acd6-c9272353dcfb/Iron Ore 3 Months Change vs Cape 3 Months Change.png"
+    },
+    {
+      "section": "Capesize/Newcastlemax",
+      "title": "Capesize/Newcastlemax Weekly Shipment Volumes 2024 vs 2025",
+      "image": "a9773d5e-303e-48f6-acd6-c9272353dcfb/Capenewc Weekly Shipment Volumes.png"
+    },
+    {
+      "section": "Panamax/Kamsarmax",
+      "title": "Panamax / Kamsarmax Coal Loadings by Month",
+      "image": "d5c5076a-bbed-483b-b5db-d9ee0c2b0f49/Panamax Coal Loadings.png"
+    },
+    {
+      "section": "Panamax/Kamsarmax",
+      "title": "Kamsarmax Market Seasonality",
+      "image": "a9773d5e-303e-48f6-acd6-c9272353dcfb/PANAMAX KAMSARMAX SEASONAL AVERAGE.png"
+    },
+    {
+      "section": "Panamax/Kamsarmax",
+      "title": "Panamax / Kamsarmax Grain Loadings by Month",
+      "image": "d5c5076a-bbed-483b-b5db-d9ee0c2b0f49/panamax kamsarmax grain loadings.png"
+    },
+    {
+      "section": "Panamax/Kamsarmax",
+      "title": "Panamax / Kamsarmax Atlantic / Pacific Ratio",
+      "image": "a9773d5e-303e-48f6-acd6-c9272353dcfb/PANAMAX KAMSARMAX ATLANTIC PACIFIC RATIO.png"
+    },
+    {
+      "section": "Supramax/Ultramax",
+      "title": "Copper Price Lead vs Supramax 1 Year TC 6 Months Change",
+      "image": "a9773d5e-303e-48f6-acd6-c9272353dcfb/COPPER PRICE VS SUPRAMAX 1 YEAR TC.png"
+    },
+    {
+      "section": "Supramax/Ultramax",
+      "title": "Supramax / Ultramax Market Seasonality",
+      "image": "a9773d5e-303e-48f6-acd6-c9272353dcfb/SUPRAMAX SEASONALITY.png"
+    },
+    {
+      "section": "Supramax/Ultramax",
+      "title": "Supramax/Ultramax Monthly Shipment Volumes, by Year",
+      "image": "f9d775c3-4215-40bd-b9e6-1a3a22daecc4/supramax monthly volumes.png"
+    },
+    {
+      "section": "Supramax/Ultramax",
+      "title": "WTI Crude Oil Price YoY Change, 1 Year Lead, vs  BDI YoY",
+      "image": "85b6aa8d-3c4d-4d68-b052-c9ed48e5d362/WTI CRUDE vs BDI.png"
+    }
+  ]
 }

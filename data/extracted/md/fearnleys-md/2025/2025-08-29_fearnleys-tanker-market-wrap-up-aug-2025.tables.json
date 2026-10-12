@@ -4,11 +4,180 @@
   "year": 2025,
   "department": "TANK",
   "report_title": "Fearnleys Tanker Market Wrap-up Aug 2025",
-  "shipment_volume_metrics": [],
-  "coal_futures_spread_metrics": [],
-  "time_charter_vs_asset_metrics": [],
-  "vessel_tightness_metrics": [],
-  "macro_correlation_metrics": [],
-  "charts_count": 31,
-  "source_markdown": "2025-08-29_fearnleys-tanker-market-wrap-up-aug-2025.md"
+  "source_markdown": "2025-08-29_fearnleys-tanker-market-wrap-up-aug-2025.md",
+  "tables": [],
+  "printed_image_tables": [],
+  "charts_count": 34,
+  "charts": [
+    {
+      "section": "Summary and outlook",
+      "title": "Tanker rates and forecast",
+      "image": "35a451e6-e8b4-4b16-b1c6-9198f980f4eb/rate.png"
+    },
+    {
+      "section": "Summary and outlook",
+      "title": "Seaborne crude oil volumes (ex. Iran)",
+      "image": "35a451e6-e8b4-4b16-b1c6-9198f980f4eb/volc1.png"
+    },
+    {
+      "section": "Summary and outlook",
+      "title": "Seaborne oil product volumes (ex. Iran)",
+      "image": "35a451e6-e8b4-4b16-b1c6-9198f980f4eb/volp1.png"
+    },
+    {
+      "section": "Recent demand does not match current rate strength",
+      "title": "Total tanker tonne-miles (Ex. OFAC) -0.4% YTD",
+      "image": "35a451e6-e8b4-4b16-b1c6-9198f980f4eb/tmall.png"
+    },
+    {
+      "section": "Recent demand does not match current rate strength",
+      "title": "Crude tanker tonne-miles (Ex. OFAC) 0.8% YTD",
+      "image": "35a451e6-e8b4-4b16-b1c6-9198f980f4eb/tmtot.png"
+    },
+    {
+      "section": "Recent demand does not match current rate strength",
+      "title": "VLCC tonne-miles (Ex. OFAC) 1.3% YTD",
+      "image": "35a451e6-e8b4-4b16-b1c6-9198f980f4eb/tmv.png"
+    },
+    {
+      "section": "Recent demand does not match current rate strength",
+      "title": "Product tanker tonne-miles (Ex. OFAC) -4.1% YTD",
+      "image": "35a451e6-e8b4-4b16-b1c6-9198f980f4eb/tmprod.png"
+    },
+    {
+      "section": "Recent demand does not match current rate strength",
+      "title": "Atlantic-East flow by destination",
+      "image": "35a451e6-e8b4-4b16-b1c6-9198f980f4eb/we.png"
+    },
+    {
+      "section": "Recent demand does not match current rate strength",
+      "title": "WTI/Brent-Dubai spread, adj. for 2-1 month fwd. spread",
+      "image": "35a451e6-e8b4-4b16-b1c6-9198f980f4eb/arb.png"
+    },
+    {
+      "section": "Oil market oversupply building",
+      "title": "IEA implied oil market balance suggest huge builds",
+      "image": "35a451e6-e8b4-4b16-b1c6-9198f980f4eb/iea.png"
+    },
+    {
+      "section": "Oil market oversupply building",
+      "title": "Global oil inventories have built by 190 mb YTD",
+      "image": "35a451e6-e8b4-4b16-b1c6-9198f980f4eb/inv.png"
+    },
+    {
+      "section": "Can Asian demand pull in more crude?",
+      "title": "Global oil demand season",
+      "image": "35a451e6-e8b4-4b16-b1c6-9198f980f4eb/demglo.png"
+    },
+    {
+      "section": "Can Asian demand pull in more crude?",
+      "title": "Asian oil demand season",
+      "image": "35a451e6-e8b4-4b16-b1c6-9198f980f4eb/demas.png"
+    },
+    {
+      "section": "Can Asian demand pull in more crude?",
+      "title": "China apparent main oil products demand",
+      "image": "35a451e6-e8b4-4b16-b1c6-9198f980f4eb/chidem.png"
+    },
+    {
+      "section": "Can Asian demand pull in more crude?",
+      "title": "China crude oil imports",
+      "image": "35a451e6-e8b4-4b16-b1c6-9198f980f4eb/chiim.png"
+    },
+    {
+      "section": "Can Asian demand pull in more crude?",
+      "title": "India oil products demand",
+      "image": "35a451e6-e8b4-4b16-b1c6-9198f980f4eb/indiadem.png"
+    },
+    {
+      "section": "Can Asian demand pull in more crude?",
+      "title": "India crude oil sourcing",
+      "image": "35a451e6-e8b4-4b16-b1c6-9198f980f4eb/indiaim.png"
+    },
+    {
+      "section": "Will Atlantic barrels go East or remain in the region?",
+      "title": "U.S. implied total oil products demand",
+      "image": "35a451e6-e8b4-4b16-b1c6-9198f980f4eb/usdem.png"
+    },
+    {
+      "section": "Will Atlantic barrels go East or remain in the region?",
+      "title": "U.S. main oil products inventories",
+      "image": "35a451e6-e8b4-4b16-b1c6-9198f980f4eb/usinv.png"
+    },
+    {
+      "section": "What happens with (semi) shadow flows?",
+      "title": "Russian exports down 300 kbpd y/y",
+      "image": "35a451e6-e8b4-4b16-b1c6-9198f980f4eb/rusex.png"
+    },
+    {
+      "section": "What happens with (semi) shadow flows?",
+      "title": "Crude flow shift to India driven tonne-miles",
+      "image": "35a451e6-e8b4-4b16-b1c6-9198f980f4eb/rusdest.png"
+    },
+    {
+      "section": "What happens with (semi) shadow flows?",
+      "title": "Russia's share of global tonne-miles",
+      "image": "35a451e6-e8b4-4b16-b1c6-9198f980f4eb/rustm.png"
+    },
+    {
+      "section": "What happens with (semi) shadow flows?",
+      "title": "Sanctioned tankers",
+      "image": "35a451e6-e8b4-4b16-b1c6-9198f980f4eb/sanct.png"
+    },
+    {
+      "section": "What happens with (semi) shadow flows?",
+      "title": "Sanctioned volumes still rising",
+      "image": "35a451e6-e8b4-4b16-b1c6-9198f980f4eb/sanctioned.png"
+    },
+    {
+      "section": "What happens with (semi) shadow flows?",
+      "title": "Volumes on OFAC listed tankers",
+      "image": "35a451e6-e8b4-4b16-b1c6-9198f980f4eb/volofac.png"
+    },
+    {
+      "section": "What happens with (semi) shadow flows?",
+      "title": "Volumes on EU&UK (only) listed tankers",
+      "image": "35a451e6-e8b4-4b16-b1c6-9198f980f4eb/voleuuk.png"
+    },
+    {
+      "section": "Refinery margin strength boosts product tankers, again",
+      "title": "Global refinery run season",
+      "image": "35a451e6-e8b4-4b16-b1c6-9198f980f4eb/refrun.png"
+    },
+    {
+      "section": "Refinery margin strength boosts product tankers, again",
+      "title": "U.S. Gulf Coast crack spreads",
+      "image": "35a451e6-e8b4-4b16-b1c6-9198f980f4eb/remus.png"
+    },
+    {
+      "section": "Refinery margin strength boosts product tankers, again",
+      "title": "Northwest Europe crack spreads",
+      "image": "35a451e6-e8b4-4b16-b1c6-9198f980f4eb/refmeu.png"
+    },
+    {
+      "section": "Refinery margin strength boosts product tankers, again",
+      "title": "China Bohai crack spreads",
+      "image": "35a451e6-e8b4-4b16-b1c6-9198f980f4eb/refmchi.png"
+    },
+    {
+      "section": "Deliveries about to accelerate, can all this be absorbed?",
+      "title": "Historical and scheduled tanker deliveries",
+      "image": "35a451e6-e8b4-4b16-b1c6-9198f980f4eb/delya.png"
+    },
+    {
+      "section": "Deliveries about to accelerate, can all this be absorbed?",
+      "title": "Tanker deliveries by quarter",
+      "image": "35a451e6-e8b4-4b16-b1c6-9198f980f4eb/delyq.png"
+    },
+    {
+      "section": "Deliveries about to accelerate, can all this be absorbed?",
+      "title": "Tanker (+42k dwt) orders",
+      "image": "35a451e6-e8b4-4b16-b1c6-9198f980f4eb/torder.png"
+    },
+    {
+      "section": "Deliveries about to accelerate, can all this be absorbed?",
+      "title": "Tanker (+42k dwt) demolition",
+      "image": "35a451e6-e8b4-4b16-b1c6-9198f980f4eb/tscrap.png"
+    }
+  ]
 }

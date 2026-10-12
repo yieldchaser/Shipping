@@ -4,11 +4,70 @@
   "year": 2025,
   "department": "BULK",
   "report_title": "Fearnleys Dry Bulk Weekly",
-  "shipment_volume_metrics": [],
-  "coal_futures_spread_metrics": [],
-  "time_charter_vs_asset_metrics": [],
-  "vessel_tightness_metrics": [],
-  "macro_correlation_metrics": [],
+  "source_markdown": "2025-07-23_fearnleys-dry-bulk-weekly-23rd-july-2025-5.md",
+  "tables": [],
+  "printed_image_tables": [],
   "charts_count": 12,
-  "source_markdown": "2025-07-23_fearnleys-dry-bulk-weekly-23rd-july-2025-5.md"
+  "charts": [
+    {
+      "section": "Capesize/Newcastlemax",
+      "title": "1 Month Change of China's Daily Imported Iron Ore Consumption, 1.5 Months Lead, vs C5TC 1 Month Change",
+      "image": "853ea1d5-7c53-4a89-b848-52b394d87a43/china imported iron ore consumption.png"
+    },
+    {
+      "section": "Capesize/Newcastlemax",
+      "title": "Iron Ore Price, 3 Months Lead, vs C5TC",
+      "image": "853ea1d5-7c53-4a89-b848-52b394d87a43/IRON ORE PRICE 3 MONTH LEAD VS BCI5TC.png"
+    },
+    {
+      "section": "Capesize/Newcastlemax",
+      "title": "Capesize/Newcastlemax Atlantic Basin Shipments, 2024 vs 2025",
+      "image": "853ea1d5-7c53-4a89-b848-52b394d87a43/CAPENEWC ATLANTIC SHIPMENTS.png"
+    },
+    {
+      "section": "Capesize/Newcastlemax",
+      "title": "Capesize/Newcastlemax Waiting to Load in China",
+      "image": "853ea1d5-7c53-4a89-b848-52b394d87a43/CAPENEWC CHINA CONGESTION.png"
+    },
+    {
+      "section": "Panamax/Kamsarmax",
+      "title": "Panamax Atlantic vs Pacific Index",
+      "image": "853ea1d5-7c53-4a89-b848-52b394d87a43/PANAMAX ATL VS PAC.png"
+    },
+    {
+      "section": "Panamax/Kamsarmax",
+      "title": "P5TC vs Kamsarmax/Handysize Ratio",
+      "image": "853ea1d5-7c53-4a89-b848-52b394d87a43/PANAMAX VS HANDY.png"
+    },
+    {
+      "section": "Panamax/Kamsarmax",
+      "title": "Panamax / Kamsarmax Brazil Grains Exports 24 vs 25",
+      "image": "853ea1d5-7c53-4a89-b848-52b394d87a43/PANAMAX KAMSARMAX BRAZIL GRAIN EXPORTS.png"
+    },
+    {
+      "section": "Panamax/Kamsarmax",
+      "title": "Panamax / Kamsarmax Thermal Coal Loadings 24 vs 25",
+      "image": "853ea1d5-7c53-4a89-b848-52b394d87a43/PANAMAX KAMSARMAX STEAM COAL SHIPMENTS.png"
+    },
+    {
+      "section": "Supramax/Ultramax",
+      "title": "Supramax / Ultramax Coal Loadings 24 vs 25",
+      "image": "853ea1d5-7c53-4a89-b848-52b394d87a43/supramax ultramax coal loadings.png"
+    },
+    {
+      "section": "Supramax/Ultramax",
+      "title": "Ultramax Indices - USG to Skaw/Passero and China-Indo-India",
+      "image": "853ea1d5-7c53-4a89-b848-52b394d87a43/ultra indices.png"
+    },
+    {
+      "section": "Supramax/Ultramax",
+      "title": "Supramax/Ultramax Weekly Shipment Volumes, by Year",
+      "image": "853ea1d5-7c53-4a89-b848-52b394d87a43/supra ultra total weekly shipment volumes.png"
+    },
+    {
+      "section": "Supramax/Ultramax",
+      "title": "WTI Crude Oil Price YoY Change, 1 Year Lead, vs  BDI YoY",
+      "image": "85b6aa8d-3c4d-4d68-b052-c9ed48e5d362/WTI CRUDE vs BDI.png"
+    }
+  ]
 }

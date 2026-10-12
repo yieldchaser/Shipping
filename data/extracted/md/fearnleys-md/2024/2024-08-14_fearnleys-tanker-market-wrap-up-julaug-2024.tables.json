@@ -4,11 +4,140 @@
   "year": 2024,
   "department": "TANK",
   "report_title": "Fearnleys Tanker Market Wrap-up Jul/Aug 2024",
-  "shipment_volume_metrics": [],
-  "coal_futures_spread_metrics": [],
-  "time_charter_vs_asset_metrics": [],
-  "vessel_tightness_metrics": [],
-  "macro_correlation_metrics": [],
-  "charts_count": 17,
-  "source_markdown": "2024-08-14_fearnleys-tanker-market-wrap-up-julaug-2024.md"
+  "source_markdown": "2024-08-14_fearnleys-tanker-market-wrap-up-julaug-2024.md",
+  "tables": [],
+  "printed_image_tables": [],
+  "charts_count": 26,
+  "charts": [
+    {
+      "section": "Summary and outlook",
+      "title": "Rates and forecast",
+      "image": "ed53424f-627d-47b5-a010-a6862f0d4e60/rate.png"
+    },
+    {
+      "section": "Recent market development",
+      "title": "Crude tanker volumes",
+      "image": "ed53424f-627d-47b5-a010-a6862f0d4e60/volc.png"
+    },
+    {
+      "section": "Recent market development",
+      "title": "Product tanker volumes",
+      "image": "ed53424f-627d-47b5-a010-a6862f0d4e60/volp.png"
+    },
+    {
+      "section": "Recent market development",
+      "title": "Total tanker tonne-miles",
+      "image": "ed53424f-627d-47b5-a010-a6862f0d4e60/tonnemile.png"
+    },
+    {
+      "section": "Recent market development",
+      "title": "VLCC tonne-mile demand",
+      "image": "ed53424f-627d-47b5-a010-a6862f0d4e60/tmv.png"
+    },
+    {
+      "section": "Recent market development",
+      "title": "Suezmax tonne-mile demand",
+      "image": "ed53424f-627d-47b5-a010-a6862f0d4e60/tms.png"
+    },
+    {
+      "section": "Recent market development",
+      "title": "Afra/LR2 tonne-mile demand",
+      "image": "ed53424f-627d-47b5-a010-a6862f0d4e60/tma.png"
+    },
+    {
+      "section": "Recent market development",
+      "title": "MR/Handy tonne-mile demand",
+      "image": "ed53424f-627d-47b5-a010-a6862f0d4e60/tmm.png"
+    },
+    {
+      "section": "Oil market",
+      "title": "Oil market balance",
+      "image": "ed53424f-627d-47b5-a010-a6862f0d4e60/bal.png"
+    },
+    {
+      "section": "Oil market",
+      "title": "Brent 7-1 month forward spread",
+      "image": "ed53424f-627d-47b5-a010-a6862f0d4e60/fwd.png"
+    },
+    {
+      "section": "Oil market",
+      "title": "Oil supply vs. demand growth by region",
+      "image": "ed53424f-627d-47b5-a010-a6862f0d4e60/demsup.png"
+    },
+    {
+      "section": "Oil market",
+      "title": "Brent/WTI vs. Dubai pricing",
+      "image": "ed53424f-627d-47b5-a010-a6862f0d4e60/arb.png"
+    },
+    {
+      "section": "Oil market",
+      "title": "China crude oil availability vs. crude runs",
+      "image": "ed53424f-627d-47b5-a010-a6862f0d4e60/avail.png"
+    },
+    {
+      "section": "Oil market",
+      "title": "China apparent oil products demand",
+      "image": "ed53424f-627d-47b5-a010-a6862f0d4e60/demchi.png"
+    },
+    {
+      "section": "Oil market",
+      "title": "Brent priced in CNY",
+      "image": "ed53424f-627d-47b5-a010-a6862f0d4e60/cny.png"
+    },
+    {
+      "section": "Oil market",
+      "title": "U.S. Gulf crack spreads",
+      "image": "ed53424f-627d-47b5-a010-a6862f0d4e60/refmus.png"
+    },
+    {
+      "section": "Oil market",
+      "title": "Northwest Europe crack spreads",
+      "image": "ed53424f-627d-47b5-a010-a6862f0d4e60/refmeu.png"
+    },
+    {
+      "section": "Oil market",
+      "title": "China crack spreads",
+      "image": "ed53424f-627d-47b5-a010-a6862f0d4e60/refmch.png"
+    },
+    {
+      "section": "Oil market",
+      "title": "Refinery throughput",
+      "image": "ed53424f-627d-47b5-a010-a6862f0d4e60/ref.png"
+    },
+    {
+      "section": "Fleet growth outlook",
+      "title": "Orderbook to fleet, current vs. historical",
+      "image": "ed53424f-627d-47b5-a010-a6862f0d4e60/obfleet.png"
+    },
+    {
+      "section": "Fleet growth outlook",
+      "title": "Annual deliveries",
+      "image": "ed53424f-627d-47b5-a010-a6862f0d4e60/dely.png"
+    },
+    {
+      "section": "Fleet growth outlook",
+      "title": "Orderbook vs. phase-out potential",
+      "image": "ed53424f-627d-47b5-a010-a6862f0d4e60/obphas.png"
+    },
+    {
+      "section": "Fleet growth outlook",
+      "title": "Historical tanker ordering",
+      "image": "ed53424f-627d-47b5-a010-a6862f0d4e60/yorder.png"
+    },
+    {
+      "section": "Fleet growth outlook",
+      "title": "Historical tanker phase-out",
+      "image": "ed53424f-627d-47b5-a010-a6862f0d4e60/yscrap.png"
+    },
+    {
+      "section": "Fleet growth outlook",
+      "title": "15+ years old vessels as % of total fleet",
+      "image": "ed53424f-627d-47b5-a010-a6862f0d4e60/15.png"
+    },
+    {
+      "section": "Fleet growth outlook",
+      "title": "20+ years old vessels as % of total fleet",
+      "image": "ed53424f-627d-47b5-a010-a6862f0d4e60/20.png"
+    }
+  ]
 }

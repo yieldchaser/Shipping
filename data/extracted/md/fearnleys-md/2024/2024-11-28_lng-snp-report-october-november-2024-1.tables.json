@@ -4,11 +4,70 @@
   "year": 2024,
   "department": "LNG",
   "report_title": "LNG SnP report - October/November",
-  "shipment_volume_metrics": [],
-  "coal_futures_spread_metrics": [],
-  "time_charter_vs_asset_metrics": [],
-  "vessel_tightness_metrics": [],
-  "macro_correlation_metrics": [],
+  "source_markdown": "2024-11-28_lng-snp-report-october-november-2024-1.md",
+  "tables": [],
+  "printed_image_tables": [],
   "charts_count": 12,
-  "source_markdown": "2024-11-28_lng-snp-report-october-november-2024-1.md"
+  "charts": [
+    {
+      "section": "Market reflections",
+      "title": "Recent sales",
+      "image": "6bc6633c-97f0-4bc8-b609-5dd19e0144e6/sales 2.png"
+    },
+    {
+      "section": "Market reflections",
+      "title": "Yearly sales",
+      "image": "6bc6633c-97f0-4bc8-b609-5dd19e0144e6/yrly sales.png"
+    },
+    {
+      "section": "Market reflections",
+      "title": "Asset values",
+      "image": "6bc6633c-97f0-4bc8-b609-5dd19e0144e6/assetvalues.png"
+    },
+    {
+      "section": "Newbuilding update",
+      "title": "Recent orders",
+      "image": "6bc6633c-97f0-4bc8-b609-5dd19e0144e6/orders2.png"
+    },
+    {
+      "section": "Newbuilding update",
+      "title": "Deliveries incl. orderbook",
+      "image": "6bc6633c-97f0-4bc8-b609-5dd19e0144e6/deliveries.png"
+    },
+    {
+      "section": "Newbuilding update",
+      "title": "LNGC orders",
+      "image": "6bc6633c-97f0-4bc8-b609-5dd19e0144e6/orders.png"
+    },
+    {
+      "section": "Interest rates",
+      "title": "Interest rate (90 day avg. SOFR)",
+      "image": "6bc6633c-97f0-4bc8-b609-5dd19e0144e6/SOFR.png"
+    },
+    {
+      "section": "Interest rates",
+      "title": "10-Year Treasury Constant Maturity Minus 2-Year Treasury Constant Maturity",
+      "image": "6bc6633c-97f0-4bc8-b609-5dd19e0144e6/10y2y new.png"
+    },
+    {
+      "section": "Recycling",
+      "title": "Demolition price (large tanker)",
+      "image": "6bc6633c-97f0-4bc8-b609-5dd19e0144e6/demo.png"
+    },
+    {
+      "section": "World fleet at a glance",
+      "title": "Live fleet by propulsion",
+      "image": "6bc6633c-97f0-4bc8-b609-5dd19e0144e6/fleet by prop.png"
+    },
+    {
+      "section": "World fleet at a glance",
+      "title": "Total fleet",
+      "image": "6bc6633c-97f0-4bc8-b609-5dd19e0144e6/total fleet.png"
+    },
+    {
+      "section": "World fleet at a glance",
+      "title": "LNGC fleet by propulsion and delivery year",
+      "image": "6bc6633c-97f0-4bc8-b609-5dd19e0144e6/by prop and delivery.png"
+    }
+  ]
 }

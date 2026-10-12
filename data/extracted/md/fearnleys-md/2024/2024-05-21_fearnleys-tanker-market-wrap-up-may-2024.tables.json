@@ -4,11 +4,150 @@
   "year": 2024,
   "department": "TANK",
   "report_title": "Fearnleys Tanker Market Wrap-up May 2024",
-  "shipment_volume_metrics": [],
-  "coal_futures_spread_metrics": [],
-  "time_charter_vs_asset_metrics": [],
-  "vessel_tightness_metrics": [],
-  "macro_correlation_metrics": [],
-  "charts_count": 22,
-  "source_markdown": "2024-05-21_fearnleys-tanker-market-wrap-up-may-2024.md"
+  "source_markdown": "2024-05-21_fearnleys-tanker-market-wrap-up-may-2024.md",
+  "tables": [],
+  "printed_image_tables": [],
+  "charts_count": 28,
+  "charts": [
+    {
+      "section": "Summary and outlook",
+      "title": "Rates by segment",
+      "image": "c9b6c4da-3cc9-413e-8239-e2a5c3ebae6b/rates.png"
+    },
+    {
+      "section": "Summary and outlook",
+      "title": "ratef",
+      "image": "c9b6c4da-3cc9-413e-8239-e2a5c3ebae6b/ratef.png"
+    },
+    {
+      "section": "Summary and outlook",
+      "title": "ratefo",
+      "image": "c9b6c4da-3cc9-413e-8239-e2a5c3ebae6b/ratefo.png"
+    },
+    {
+      "section": "Summary and outlook",
+      "title": "ratefore",
+      "image": "c9b6c4da-3cc9-413e-8239-e2a5c3ebae6b/ratefore.png"
+    },
+    {
+      "section": "Tanker trade flow",
+      "title": "Seaborne crude oil volumes",
+      "image": "c9b6c4da-3cc9-413e-8239-e2a5c3ebae6b/volc.png"
+    },
+    {
+      "section": "Tanker trade flow",
+      "title": "Seaborne oil product volumes",
+      "image": "c9b6c4da-3cc9-413e-8239-e2a5c3ebae6b/volp.png"
+    },
+    {
+      "section": "Tanker trade flow",
+      "title": "Tanker tonne-miles by segment",
+      "image": "c9b6c4da-3cc9-413e-8239-e2a5c3ebae6b/tm.png"
+    },
+    {
+      "section": "Tanker trade flow",
+      "title": "Oil demand/supply geographic spread",
+      "image": "c9b6c4da-3cc9-413e-8239-e2a5c3ebae6b/geo.png"
+    },
+    {
+      "section": "Tanker trade flow",
+      "title": "Relative pricing, WTI and Brent vs. Dubai, adj. for fwd. curve",
+      "image": "c9b6c4da-3cc9-413e-8239-e2a5c3ebae6b/spread.png"
+    },
+    {
+      "section": "Tanker trade flow",
+      "title": "Bab-el-Mandeb transits by product",
+      "image": "c9b6c4da-3cc9-413e-8239-e2a5c3ebae6b/volbab.png"
+    },
+    {
+      "section": "Tanker trade flow",
+      "title": "Cape of Good Hope passage by product",
+      "image": "c9b6c4da-3cc9-413e-8239-e2a5c3ebae6b/volcog.png"
+    },
+    {
+      "section": "Oil market balance",
+      "title": "Brent 7-1 months forward spread vs. oil market balance",
+      "image": "c9b6c4da-3cc9-413e-8239-e2a5c3ebae6b/fwdbal.png"
+    },
+    {
+      "section": "Oil market balance",
+      "title": "Oil market balance",
+      "image": "c9b6c4da-3cc9-413e-8239-e2a5c3ebae6b/oilbal.png"
+    },
+    {
+      "section": "Oil market balance",
+      "title": "OECD industry stocks",
+      "image": "c9b6c4da-3cc9-413e-8239-e2a5c3ebae6b/oecdinv.png"
+    },
+    {
+      "section": "Oil market balance",
+      "title": "China implied balance",
+      "image": "c9b6c4da-3cc9-413e-8239-e2a5c3ebae6b/chi.png"
+    },
+    {
+      "section": "Refining and products",
+      "title": "Northwest Europe crack spreads",
+      "image": "c9b6c4da-3cc9-413e-8239-e2a5c3ebae6b/refme.png"
+    },
+    {
+      "section": "Refining and products",
+      "title": "U.S. crack spreads",
+      "image": "c9b6c4da-3cc9-413e-8239-e2a5c3ebae6b/refmus.png"
+    },
+    {
+      "section": "Refining and products",
+      "title": "China crack spreads",
+      "image": "c9b6c4da-3cc9-413e-8239-e2a5c3ebae6b/refch.png"
+    },
+    {
+      "section": "Refining and products",
+      "title": "Global refinery runs",
+      "image": "c9b6c4da-3cc9-413e-8239-e2a5c3ebae6b/refrun.png"
+    },
+    {
+      "section": "Refining and products",
+      "title": "Europe gasoil/diesel imports by source",
+      "image": "c9b6c4da-3cc9-413e-8239-e2a5c3ebae6b/eur.png"
+    },
+    {
+      "section": "Tanker fleet development",
+      "title": "Orderbook to fleet",
+      "image": "c9b6c4da-3cc9-413e-8239-e2a5c3ebae6b/obfleet.png"
+    },
+    {
+      "section": "Tanker fleet development",
+      "title": "Historical deliveries and orderbook by segment",
+      "image": "c9b6c4da-3cc9-413e-8239-e2a5c3ebae6b/dely.png"
+    },
+    {
+      "section": "Tanker fleet development",
+      "title": "Deliveries vs. phase-out potential",
+      "image": "c9b6c4da-3cc9-413e-8239-e2a5c3ebae6b/obout.png"
+    },
+    {
+      "section": "Tanker fleet development",
+      "title": "Annual VLCC deliveries, phase out, orderbook and phase-out potential",
+      "image": "c9b6c4da-3cc9-413e-8239-e2a5c3ebae6b/delv.png"
+    },
+    {
+      "section": "Tanker fleet development",
+      "title": "Annual Suez deliveries, phase out, orderbook and phase-out potential",
+      "image": "c9b6c4da-3cc9-413e-8239-e2a5c3ebae6b/dels.png"
+    },
+    {
+      "section": "Tanker fleet development",
+      "title": "Annual Afra/LR2 deliveries, phase out, orderbook and phase-out potential",
+      "image": "c9b6c4da-3cc9-413e-8239-e2a5c3ebae6b/dela.png"
+    },
+    {
+      "section": "Tanker fleet development",
+      "title": "Annual tanker ordering, 42k+ dwt",
+      "image": "c9b6c4da-3cc9-413e-8239-e2a5c3ebae6b/order.png"
+    },
+    {
+      "section": "Tanker fleet development",
+      "title": "Annual tanker scrapping, 42k+ dwt",
+      "image": "c9b6c4da-3cc9-413e-8239-e2a5c3ebae6b/scrap.png"
+    }
+  ]
 }

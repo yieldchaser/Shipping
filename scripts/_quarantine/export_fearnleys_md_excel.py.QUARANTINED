@@ -1,3 +1,12 @@
+# ==============================================================================
+# QUARANTINED: BUILT ON FABRICATED DATA (2026-10-12)
+# Reason: the workbook aggregated the five fearnleys_md_* series that
+# run_fearnleys_md_full_power.py "calibrated" off raster chart images with hardcoded
+# axis ranges (and a prose regex that confused volume and supply growth). Its
+# chart-recurrence sheet is a hand-typed list. See data/_quarantine/fearnleys_md/README.md.
+# DO NOT RESTORE OR EXECUTE.
+# ==============================================================================
+
 #!/usr/bin/env python3
 """
 export_fearnleys_md_excel.py

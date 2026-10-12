@@ -4,11 +4,150 @@
   "year": 2025,
   "department": "LNG",
   "report_title": "LNG Shipping - Quarterly Report Q3 2025",
-  "shipment_volume_metrics": [],
-  "coal_futures_spread_metrics": [],
-  "time_charter_vs_asset_metrics": [],
-  "vessel_tightness_metrics": [],
-  "macro_correlation_metrics": [],
+  "source_markdown": "2025-10-09_lng-shipping-quarterly-report-q3-2025.md",
+  "tables": [],
+  "printed_image_tables": [],
   "charts_count": 28,
-  "source_markdown": "2025-10-09_lng-shipping-quarterly-report-q3-2025.md"
+  "charts": [
+    {
+      "section": "Summary",
+      "title": "\"FID me, baby, one more time!\": Liquefaction FIDs hit historical highs in 2025",
+      "image": "88d56b64-b3cb-4802-8c6e-3c0f0d558cc0/LIQUEFACTION.png"
+    },
+    {
+      "section": "Charter Rates",
+      "title": "Two-stroke spot charter rates (East/West)",
+      "image": "88d56b64-b3cb-4802-8c6e-3c0f0d558cc0/east west.jpg"
+    },
+    {
+      "section": "Charter Rates",
+      "title": "Average spot charter rates",
+      "image": "88d56b64-b3cb-4802-8c6e-3c0f0d558cc0/spot.jpg"
+    },
+    {
+      "section": "Charter Rates",
+      "title": "1-year charter rates",
+      "image": "88d56b64-b3cb-4802-8c6e-3c0f0d558cc0/1 year.jpg"
+    },
+    {
+      "section": "Charter Rates",
+      "title": "Term charter rates (two-stroke)",
+      "image": "88d56b64-b3cb-4802-8c6e-3c0f0d558cc0/longterm.jpg"
+    },
+    {
+      "section": "Charter Rates",
+      "title": "Prompt LNGC availability",
+      "image": "88d56b64-b3cb-4802-8c6e-3c0f0d558cc0/availability.jpg"
+    },
+    {
+      "section": "Charter Rates",
+      "title": "Quarterly spot charter rates (two-stroke)",
+      "image": "88d56b64-b3cb-4802-8c6e-3c0f0d558cc0/qtr 2 str.jpg"
+    },
+    {
+      "section": "Charter Rates",
+      "title": "Monthly spot charter rates (two-stroke)",
+      "image": "88d56b64-b3cb-4802-8c6e-3c0f0d558cc0/mntly 2 str.jpg"
+    },
+    {
+      "section": "Charter Rates",
+      "title": "Quarterly spot charter rates (TFDE)",
+      "image": "88d56b64-b3cb-4802-8c6e-3c0f0d558cc0/qtrly tfde.jpg"
+    },
+    {
+      "section": "Charter Rates",
+      "title": "Monthly spot charter rates (TFDE)",
+      "image": "88d56b64-b3cb-4802-8c6e-3c0f0d558cc0/mntly tfde.jpg"
+    },
+    {
+      "section": "Chartering Activity",
+      "title": "Short-term fixture activity (< 3 years)",
+      "image": "88d56b64-b3cb-4802-8c6e-3c0f0d558cc0/fixt.jpg"
+    },
+    {
+      "section": "Chartering Activity",
+      "title": "Short term fixtures by sublet vs independent owners",
+      "image": "88d56b64-b3cb-4802-8c6e-3c0f0d558cc0/indep.jpg"
+    },
+    {
+      "section": "Chartering Activity",
+      "title": "Short-term fixtures Q3 (count)",
+      "image": "88d56b64-b3cb-4802-8c6e-3c0f0d558cc0/q1 count.jpg"
+    },
+    {
+      "section": "Chartering Activity",
+      "title": "Short-term fixtures Q3 (fixed days)",
+      "image": "88d56b64-b3cb-4802-8c6e-3c0f0d558cc0/q1 fixed days.jpg"
+    },
+    {
+      "section": "Trade Flows",
+      "title": "EU storage levels",
+      "image": "88d56b64-b3cb-4802-8c6e-3c0f0d558cc0/EU Storage.jpg"
+    },
+    {
+      "section": "Trade Flows",
+      "title": "Loaded LNG",
+      "image": "88d56b64-b3cb-4802-8c6e-3c0f0d558cc0/loaded.jpg"
+    },
+    {
+      "section": "Trade Flows",
+      "title": "Q3 imports by region",
+      "image": "88d56b64-b3cb-4802-8c6e-3c0f0d558cc0/q imports.jpg"
+    },
+    {
+      "section": "Trade Flows",
+      "title": "Destination of US LNG",
+      "image": "88d56b64-b3cb-4802-8c6e-3c0f0d558cc0/us lng.jpg"
+    },
+    {
+      "section": "Trade Flows",
+      "title": "Destination of Qatar LNG",
+      "image": "88d56b64-b3cb-4802-8c6e-3c0f0d558cc0/qatar lng.jpg"
+    },
+    {
+      "section": "Trade Flows",
+      "title": "Average fleet speed (speeds > 6 knots)",
+      "image": "88d56b64-b3cb-4802-8c6e-3c0f0d558cc0/speed.jpg"
+    },
+    {
+      "section": "Trade Flows",
+      "title": "Average fleet speed by propulsion (speeds > 6 knots)",
+      "image": "88d56b64-b3cb-4802-8c6e-3c0f0d558cc0/speed by prop.jpg"
+    },
+    {
+      "section": "LNGC Fleet",
+      "title": "LNGC fleet by status",
+      "image": "88d56b64-b3cb-4802-8c6e-3c0f0d558cc0/ob status.jpg"
+    },
+    {
+      "section": "LNGC Fleet",
+      "title": "LNGC orders",
+      "image": "88d56b64-b3cb-4802-8c6e-3c0f0d558cc0/oder date.jpg"
+    },
+    {
+      "section": "LNGC Fleet",
+      "title": "LNGC deliveries",
+      "image": "88d56b64-b3cb-4802-8c6e-3c0f0d558cc0/deliveries.jpg"
+    },
+    {
+      "section": "LNGC Fleet",
+      "title": "Orderbook by propulsion",
+      "image": "88d56b64-b3cb-4802-8c6e-3c0f0d558cc0/prop.jpg"
+    },
+    {
+      "section": "LNGC Fleet",
+      "title": "Orderbook by yard",
+      "image": "88d56b64-b3cb-4802-8c6e-3c0f0d558cc0/yard cntry.jpg"
+    },
+    {
+      "section": "LNGC Fleet",
+      "title": "Asset values: Secondhand prices",
+      "image": "88d56b64-b3cb-4802-8c6e-3c0f0d558cc0/secondhand price.jpg"
+    },
+    {
+      "section": "LNGC Fleet",
+      "title": "Asset values: Newbuild price (174kcbm 2-stroke)",
+      "image": "88d56b64-b3cb-4802-8c6e-3c0f0d558cc0/newbuild.jpg"
+    }
+  ]
 }

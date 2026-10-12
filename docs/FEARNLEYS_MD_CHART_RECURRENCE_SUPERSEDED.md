@@ -1,3 +1,5 @@
+> **SUPERSEDED 2026-10-12. Do not use as a source.** This document was moved out of the corpus. Its chart-recurrence counts are a 2026-09 snapshot, the "Mechanism" lines are the old pipeline's interpretation and not Fearnleys' words, and the "calibration engine" it describes produced wrong values: the tick baseline and step were hardcoded, not read from each chart's printed axis (for 2026-10-07 the P5 series held 10,273.97 against about 19,100 on the chart). The series and workbook it lists are quarantined in `data/_quarantine/fearnleys_md/` (see the README there). Fearnleys research charts are raster images with no embedded data; the current pipeline keeps the report text, the API data tables, the printed Cape composite-model tables and the chart titles only.
+
 # Fearnleys Bespoke Research (`fearnleys-md`) Chart Recurrence & Pitch-Perfect Extraction Analysis
 
 **Document Status:** Production Reference & Strategy Architecture  

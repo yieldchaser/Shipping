@@ -4,24 +4,70 @@
   "year": 2024,
   "department": "BULK",
   "report_title": "Fearnleys Dry Bulk Weekly",
-  "shipment_volume_metrics": [],
-  "coal_futures_spread_metrics": [],
-  "time_charter_vs_asset_metrics": [],
-  "vessel_tightness_metrics": [],
-  "macro_correlation_metrics": [
-    {
-      "issue_date": "2024-11-27",
-      "year": "2024",
-      "department": "BULK",
-      "report_title": "Fearnleys Dry Bulk Weekly",
-      "macro_metric": "Iron Ore Price 3M Lead vs BCI5TC",
-      "freight_benchmark_val": 13368.4,
-      "macro_indicator_val": 118.8,
-      "lead_tenor": "3 Months",
-      "chart_title": "IRON ORE PRICE 3 MONTH LEAD VS BCI5TC.png",
-      "report_id": "a0311c87-18e9-4a41-8c09-4ed413ef9e4d"
-    }
-  ],
+  "source_markdown": "2024-11-27_fearnleys-dry-bulk-weekly-27th-november-2024.md",
+  "tables": [],
+  "printed_image_tables": [],
   "charts_count": 12,
-  "source_markdown": "2024-11-27_fearnleys-dry-bulk-weekly-27th-november-2024.md"
+  "charts": [
+    {
+      "section": "Capesize/Newcastlemax",
+      "title": "Capesize / Kamsarmax Ratio vs BCI5TC",
+      "image": "a0311c87-18e9-4a41-8c09-4ed413ef9e4d/CAPE PANAMAX RATIO.png"
+    },
+    {
+      "section": "Capesize/Newcastlemax",
+      "title": "Capesize / Newcastlemax Laden With Iron Ore to China",
+      "image": "a0311c87-18e9-4a41-8c09-4ed413ef9e4d/CAPENEWC HEADING TO CHINA WITH IRON ORE.png"
+    },
+    {
+      "section": "Capesize/Newcastlemax",
+      "title": "Iron Ore Price Lead vs BCI5TC",
+      "image": "a0311c87-18e9-4a41-8c09-4ed413ef9e4d/IRON ORE PRICE 3 MONTH LEAD VS BCI5TC.png"
+    },
+    {
+      "section": "Capesize/Newcastlemax",
+      "title": "China Imported Iron Ore Consumption Lead vs BCI5TC",
+      "image": "a0311c87-18e9-4a41-8c09-4ed413ef9e4d/CHINA IMPORTED IRON ORE CONSUMPTION LEAD VS CAPESIZE 1 MONTH CHANGE.png"
+    },
+    {
+      "section": "Panamax/Kamsarmax",
+      "title": "Panamax / Kamsarmax Laden With Coal to India",
+      "image": "a0311c87-18e9-4a41-8c09-4ed413ef9e4d/PANAMAX KAMSARMAX HEADING TO INDIA COAL.png"
+    },
+    {
+      "section": "Panamax/Kamsarmax",
+      "title": "Panamax / Kamsarmax Laden With Coal to China",
+      "image": "a0311c87-18e9-4a41-8c09-4ed413ef9e4d/PANAMAX KAMSARMAX HEADING TO CHINA WITH COAL.png"
+    },
+    {
+      "section": "Panamax/Kamsarmax",
+      "title": "Panamax / Kamsarmax Laden With Soybeans to China",
+      "image": "a0311c87-18e9-4a41-8c09-4ed413ef9e4d/PANAMAX KAMSARMAX HEADING TO CHINA WITH SOYBEANS.png"
+    },
+    {
+      "section": "Panamax/Kamsarmax",
+      "title": "Panamax / Kamsarmax Seasonal Average",
+      "image": "a0311c87-18e9-4a41-8c09-4ed413ef9e4d/PANAMAX KAMSARMAX SEASONAL AVERAGE.png"
+    },
+    {
+      "section": "Supramax/Ultramax",
+      "title": "Supramax Seasonal Market Movement",
+      "image": "a0311c87-18e9-4a41-8c09-4ed413ef9e4d/SUPRAMAX ULTRAMAX SEASONAL AVERAGE.png"
+    },
+    {
+      "section": "Supramax/Ultramax",
+      "title": "Supramax / Ultramax Heading to Brazil or the US",
+      "image": "44f752d9-af17-4823-87a4-654d27e7f7da/SUPRAMAX ULTRAMAX HEADING TO BRAZIL OR THE US.png"
+    },
+    {
+      "section": "Supramax/Ultramax",
+      "title": "Copper Price Lead vs Supramax 1 Year TC 6 Months Change",
+      "image": "44f752d9-af17-4823-87a4-654d27e7f7da/COPPER PRICE VS SUPRAMAX 1 YEAR TC.png"
+    },
+    {
+      "section": "Supramax/Ultramax",
+      "title": "Supramax / Ultramax Ton-Time Growth vs Supply Growth",
+      "image": "078f936a-e89d-4388-a38a-c1c2ebe63f1b/supramax market balance.png"
+    }
+  ]
 }

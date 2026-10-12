@@ -4,11 +4,30 @@
   "year": 2026,
   "department": "LNG",
   "report_title": "SnP First Half 2026 report",
-  "shipment_volume_metrics": [],
-  "coal_futures_spread_metrics": [],
-  "time_charter_vs_asset_metrics": [],
-  "vessel_tightness_metrics": [],
-  "macro_correlation_metrics": [],
+  "source_markdown": "2026-07-03_snp-first-half-2026-report.md",
+  "tables": [],
+  "printed_image_tables": [],
   "charts_count": 4,
-  "source_markdown": "2026-07-03_snp-first-half-2026-report.md"
+  "charts": [
+    {
+      "section": "First half of 2026 tells an interesting story about transactions",
+      "title": "S&P transaction volume and YoY trend",
+      "image": "7e27f798-72b1-46e3-9a53-3b2a3079e30d/S&P_Report_Transaction_Volume_Q226.png"
+    },
+    {
+      "section": "First half of 2026 tells an interesting story about transactions",
+      "title": "DFDE Vessel 2nd hand",
+      "image": "7e27f798-72b1-46e3-9a53-3b2a3079e30d/DFDE Vessel 2nd hand.png"
+    },
+    {
+      "section": "First half of 2026 tells an interesting story about transactions",
+      "title": "ST Vessel 2nd hand",
+      "image": "7e27f798-72b1-46e3-9a53-3b2a3079e30d/ST Vessel 2nd hand.png"
+    },
+    {
+      "section": "The Great Steam Turbine Reckoning",
+      "title": "Scraped vessels",
+      "image": "7e27f798-72b1-46e3-9a53-3b2a3079e30d/Scraped vessels.png"
+    }
+  ]
 }

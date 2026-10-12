@@ -4,11 +4,45 @@
   "year": 2026,
   "department": "LNG",
   "report_title": "FSRU Quarterly - Q1/26",
-  "shipment_volume_metrics": [],
-  "coal_futures_spread_metrics": [],
-  "time_charter_vs_asset_metrics": [],
-  "vessel_tightness_metrics": [],
-  "macro_correlation_metrics": [],
+  "source_markdown": "2026-04-07_lng-fsru-quarterly-q126.md",
+  "tables": [],
+  "printed_image_tables": [],
   "charts_count": 7,
-  "source_markdown": "2026-04-07_lng-fsru-quarterly-q126.md"
+  "charts": [
+    {
+      "section": "Quarterly focus: Is the world investing sufficiently in LNG downstream?",
+      "title": "Global regasification & liquefaction capacity (2000-2035)",
+      "image": "9bb07133-4895-4c32-9f0f-726e381c7837/Global_Regas&Liq_Capacity.jpg"
+    },
+    {
+      "section": "Quarterly focus: Is the world investing sufficiently in LNG downstream?",
+      "title": "Global regas-to-liquefaction capacity ratio (2000-2035)",
+      "image": "9bb07133-4895-4c32-9f0f-726e381c7837/Global_Regas-to-Liq_Ratio.jpg"
+    },
+    {
+      "section": "FSRU activity and volumes",
+      "title": "Global volumes imported through FSRUs (2023-2026YTD)",
+      "image": "9bb07133-4895-4c32-9f0f-726e381c7837/MONTHLY_VOLUMES_2023-2026.png.jpg"
+    },
+    {
+      "section": "FSRU activity and volumes",
+      "title": "Monthly volumes imported through FSRUs by region (2026YTD)",
+      "image": "9bb07133-4895-4c32-9f0f-726e381c7837/MONTHLY_VOLUMES_2026.jpg"
+    },
+    {
+      "section": "Notable FSRU movements",
+      "title": "FSRU_MAP",
+      "image": "9bb07133-4895-4c32-9f0f-726e381c7837/FSRU_MAP.jpg"
+    },
+    {
+      "section": "Asset values: Newbuildings and conversion candidates",
+      "title": "FSRU conversion candidates: Secondhand values",
+      "image": "9bb07133-4895-4c32-9f0f-726e381c7837/SH.jpg"
+    },
+    {
+      "section": "Asset values: Newbuildings and conversion candidates",
+      "title": "FSRU Newbuild prices",
+      "image": "9bb07133-4895-4c32-9f0f-726e381c7837/NB.jpg"
+    }
+  ]
 }
