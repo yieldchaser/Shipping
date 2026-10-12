@@ -45,10 +45,10 @@
       "vessel_class": "Aframax",
       "route_description": "N.Sea-UKC",
       "change_wow": 6.0,
-      "rate_current": null,
-      "rate_prev": null,
-      "rate_last_month": null,
-      "ffa_value": null,
+      "rate_current": 136.0,
+      "rate_prev": 130.0,
+      "rate_last_month": 171.0,
+      "ffa_value": 152.0,
       "ffa_period": "",
       "source_file": "corpus/01-brokers/gibson/2023/gibson_2023_2023-05-12-Lost-in-Transit.pdf"
     },
@@ -109,9 +109,9 @@
       "vessel_class": "LR2",
       "route_description": "AG-Japan",
       "change_wow": 7.0,
-      "rate_current": null,
-      "rate_prev": null,
-      "rate_last_month": null,
+      "rate_current": 155.0,
+      "rate_prev": 148.0,
+      "rate_last_month": 159.0,
       "ffa_value": null,
       "ffa_period": "",
       "source_file": "corpus/01-brokers/gibson/2023/gibson_2023_2023-05-12-Lost-in-Transit.pdf"
@@ -268,10 +268,10 @@
       "report_week": 19,
       "port": "Rotterdam",
       "grade": "LSMGO",
-      "change_wow": 670.0,
-      "price_current": 633.0,
-      "price_prev": 769.0,
-      "price_last_month": null,
+      "change_wow": 37.0,
+      "price_current": 670.0,
+      "price_prev": 633.0,
+      "price_last_month": 769.0,
       "source_file": "corpus/01-brokers/gibson/2023/gibson_2023_2023-05-12-Lost-in-Transit.pdf"
     }
   ]

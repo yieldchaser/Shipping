@@ -18,6 +18,12 @@ charts_count: 4
 
 ## Feature Story
 
+- Feature Story
+- Crude Oil
+- Clean Products
+- Dirty Products
+- Rates & Bunkers
+
 The Iran conflict is in its 12th week now, and the prospect for a deal which leads to normalisation in the Middle East look tenuous. Despite seeing some progress in the number of tankers transiting the Strait of Hormuz, compared to pre-war levels flows of oil and products remain at a trickle, with Iran and the US both vying for control. Numerous conditions would need to be met before pre-war traffic could resume; security guarantees, mine clearance, and a renewed insurance framework, among others. If these conditions are met, and such a comprehensive agreement is reached today between Iran and the US (as well as Israel and the GCC), what would the timeline be for a resumption of Middle East Gulf exports?
 
 Initially, there is likely to be some residual hesitancy in transiting the Strait, and only higher-risk owners might commit. These transits may occur along the tried and tested post-war routes following the Iranian or Omani coastlines, especially if uncertainty remains about the location of possible mines. At the time of writing there are 157 mainstream tankers above 25,000 DWT positioned inside the Middle East Gulf, of which 123 are laden and will attempt to exit swiftly.
@@ -32,7 +38,72 @@ A further consideration is the longer-term availability of tonnage. Tanker suppl
 
 Overall, the path towards resumption of trade through the Strait of Hormuz is fraught with uncertainty, even in a scenario where a comprehensive agreement is reached and all prerequisites for resumption of trade are met. At this point, this scenario is hard to envisage, and a gradual resumption may present a more realistic outlook. Indeed, a full return to the pre-war status quo looks decreasingly likely by the day, as structural changes both on the supply and demand side are taking place globally in response to the war. Further, it will take longer before impacted refineries and petrochemical plants are able to ramp up again, with clarity on lead times and supply chains imperative for normal operations to resume. Accordingly, the recovery sequence is likely to favour crude tankers over product tankers. VLCCs and LRs, with heavy reliance on Middle East volumes, will breathe a more immediate sigh of relief. However, inefficiencies and insecurity about cargo availability will remain significant drivers of volatility in tanker markets in any scenario.
 
-Subscribe to our newsletter and make sure you're first to get the latest research and reports, straight to your inbox.
+*Chart: Strait of Hormuz Tanker Transits (no.)*
+
+Chart data as embedded in the report:
+
+|  | Dark | Mainstream |
+|---|---|---|
+| 01/03/2026 | 4 | 7 |
+| 02/03/2026 | 0 | 1 |
+| 04/03/2026 | 0 | 2 |
+| 05/03/2026 | 0 | 1 |
+| 07/03/2026 | 0 | 1 |
+| 08/03/2026 | 1 | 0 |
+| 11/03/2026 | 1 | 1 |
+| 14/03/2026 | 2 | 0 |
+| 15/03/2026 | 1 | 0 |
+| 17/03/2026 | 0 | 1 |
+| 18/03/2026 | 1 | 0 |
+| 20/03/2026 | 1 | 0 |
+| 21/03/2026 | 4 | 1 |
+| 23/03/2026 | 0 | 2 |
+| 24/03/2026 | 2 | 1 |
+| 25/03/2026 | 0 | 2 |
+| 28/03/2026 | 0 | 1 |
+| 29/03/2026 | 1 | 0 |
+| 30/03/2026 | 2 | 1 |
+| 31/03/2026 | 1 | 1 |
+| 01/04/2026 | 0 | 2 |
+| 02/04/2026 | 2 | 0 |
+| 03/04/2026 | 1 | 0 |
+| 04/04/2026 | 1 | 2 |
+| 05/04/2026 | 2 | 3 |
+| 07/04/2026 | 3 | 1 |
+| 09/04/2026 | 2 | 1 |
+| 11/04/2026 | 1 | 1 |
+| 12/04/2026 | 1 | 2 |
+| 13/04/2026 | 3 | 3 |
+| 14/04/2026 | 4 | 0 |
+| 15/04/2026 | 1 | 1 |
+| 16/04/2026 | 0 | 1 |
+| 17/04/2026 | 2 | 0 |
+| 18/04/2026 | 1 | 4 |
+| 19/04/2026 | 0 | 1 |
+| 20/04/2026 | 4 | 1 |
+| 21/04/2026 | 1 | 2 |
+| 22/04/2026 | 1 | 1 |
+| 24/04/2026 | 1 | 1 |
+| 25/04/2026 | 2 | 0 |
+| 26/04/2026 | 1 | 0 |
+| 27/04/2026 | 0 | 1 |
+| 28/04/2026 | 2 | 0 |
+| 30/04/2026 | 1 | 1 |
+| 01/05/2026 | 2 | 0 |
+| 02/05/2026 | 2 | 2 |
+| 03/05/2026 | 1 | 0 |
+| 04/05/2026 | 0 | 1 |
+| 05/05/2026 | 1 | 0 |
+| 06/05/2026 | 0 | 1 |
+| 10/05/2026 | 0 | 1 |
+| 11/05/2026 | 4 | 0 |
+| 12/05/2026 | 2 | 0 |
+| 13/05/2026 | 1 | 0 |
+| 14/05/2026 | 2 | 1 |
+| 16/05/2026 | 2 | 0 |
+| 17/05/2026 | 2 | 0 |
+| 19/05/2026 | 1 | 0 |
+| 20/05/2026 | 0 | 1 |
 
 ## Crude Oil
 
@@ -54,7 +125,7 @@ The West African Suezmax market started under pressure, weighed down by continue
 
 The CPC Suezmax market saw some steadying this week, with prompt tonnage remaining relatively tight and supporting rates, though with the June programme yet to fully materialise, sentiment softened toward the end of the week as safe positions grew and charterer resistance increased.
 
-The Med Aframax market has been a disappointing one for owners this week, as activity surfaced in sufficient quantities only to absorb the tonnage overhang that had persisted for some time. Ceyhan rates were in the WS170s throughout, with a brief moment of excitement as one cargo achieved WS185 -- though this proved a false dawn as it included an undesirable discharge option. In all other cases rates were concluded in the WS170s, or WS160s for Cont discharge, with CPC fixing at WS195. As we reach the bank holiday weekend the list is much tighter, though the extra day's rest may allow some restock heading into next week.
+The Med Aframax market has been a disappointing one for owners this week, as activity surfaced in sufficient quantities only to absorb the tonnage overhang that had persisted for some time. Ceyhan rates were in the WS170s throughout, with a brief moment of excitement as one cargo achieved WS185 — though this proved a false dawn as it included an undesirable discharge option. In all other cases rates were concluded in the WS170s, or WS160s for Cont discharge, with CPC fixing at WS195. As we reach the bank holiday weekend the list is much tighter, though the extra day’s rest may allow some restock heading into next week.
 
 ### US Gulf/Latin America
 
@@ -64,7 +135,7 @@ The States VLCC market saw a mixed week, with early rumours of cargoes and recen
 
 A feathering down of rates this week for Aframaxes after numerous ballasters weighed anchor and headed for the States or Mediterranean markets. Most local business has been snapped up by relets or programmed tonnage. The prospect of some version of peace in the Middle East may give owners medium-term hope, but looking ahead to next week we see levels fixing at WS170-175. The States still holds plenty of draw for those untempted by cross-North Sea business, and little is likely to change in the near future.
 
-Crude Tanker Spot Rates (WS)
+*Chart: Crude Tanker Spot Rates (WS) - Gibson daily assessments, kept in data/extracted/series/gibson_spot_chart_daily.csv*
 
 ## Clean Products
 
@@ -80,7 +151,7 @@ An active pre-bank holiday week, but as the Spanish plume breezes north so do nu
 
 Handy owners are digging in and pushing hard to keep rates up, though the threat to that success may come from the larger-cubic MRs. Good volume of UKC/Med action means owners may choose to head south.
 
-Clean Tanker Spot Rates (WS)
+*Chart: Clean Tanker Spot Rates (WS) - Gibson daily assessments, kept in data/extracted/series/gibson_spot_chart_daily.csv*
 
 ## Dirty Products
 
@@ -88,49 +159,46 @@ Clean Tanker Spot Rates (WS)
 
 A week marked by softening levels across both regions as enquiry was drip-fed into the market and tonnage worked its way up the list. The North has seen very little activity, with a well-publicised fresh test required to determine levels. The week started with vessels ready to work at the top of the list, and most ships remain there as enquiries have struggled to surface and chip away at the tonnage build-up. Levels are under pressure and we think WS415 could be on the cards soon.
 
-The Med saw a week similar to the North's, but with slightly more activity. Monday's list showed plenty of availability, with supply skewing WMed overall. Enquiry struggled to surface initially as pressure on levels mounted. WS430 was fixed away before WS420 and WS415 were covered in quick succession. Strong rumours of WS410 XMed covered by the end of the week were never truly confirmed, though we think these levels will not be there for long -- come Monday we expect to see units ready to work, and charterers will have their eyes on sub-WS400 levels.
+The Med saw a week similar to the North’s, but with slightly more activity. Monday’s list showed plenty of availability, with supply skewing WMed overall. Enquiry struggled to surface initially as pressure on levels mounted. WS430 was fixed away before WS420 and WS415 were covered in quick succession. Strong rumours of WS410 XMed covered by the end of the week were never truly confirmed, though we think these levels will not be there for long — come Monday we expect to see units ready to work, and charterers will have their eyes on sub-WS400 levels.
 
-### MR
+#### MR
 
 A disappointing week for MR owners in the Med, as full-stem enquiry has once again been elusive. Units are ready to work across the region and we expect levels to be tested down toward the WS320-325 mark on next done. The North has seen a touch more activity, with a cargo off early June dates fetching 45 × WS300 TA, which caused some interest, though a softer feel persists overall with tonnage expected to remain available early into next week. We expect levels to be tested down to the WS310-315 range for XUKC runs.
 
-### Panamax
+#### Panamax
 
 There has been little change to the Panamax sector this side of the Atlantic for some time, as tonnage workable for TA runs stays in scarce supply, with units heading to the Cont/Med taking the opportunity to drydock. A fresh test is needed, though with Aframaxes under pressure and TD21 softer, we expect levels around the WS190 mark for unrestricted cargoes to the USG ex UKCM. TD21 softened further this week, though with the US on holiday on Monday there was a flatter feel as the week drew to a close. Tonnage remains workable but enquiry still struggles to clear supply, so owners are not yet out of the woods.
 
-Dirty Product Tanker Spot Rates (WS)
+*Chart: Dirty Product Tanker Spot Rates (WS) - Gibson daily assessments, kept in data/extracted/series/gibson_spot_chart_daily.csv*
 
 ## Rates & Bunkers
 
-### Clean & Dirty Tanker Spot Market Developments - Spot Worldscale
+#### Clean and Dirty Tanker Spot Market Developments – Spot WS and $/day TCE (a)
 
-| Route | Category | Vessel | Description | WoW Change | Current | Previous | Last Month | FFA |
-|---|---|---|---|---|---|---|---|---|
-| TD3C | Dirty Tanker Spot | VLCC | VLCC AG-China | -46.0 | 403.0 | 448.0 | 459.0 | 431.0 |
-| TD20 | Dirty Tanker Spot | Suezmax | Suezmax WAF-UKC | -7.0 | 187.0 | 194.0 | 206.0 | 204.0 |
-| TD25 | Dirty Tanker Spot | Aframax | Aframax USG-UKC | -11.0 | 225.0 | 236.0 | 354.0 | 329.0 |
-| TC1 | Clean Tanker Spot | LR2 | LR2 AG-Japan | -17.0 | 530.0 | 547.0 | 557.0 | - |
-| TC18 | Clean Tanker Spot | MR | MR USG-Brazil | -5.0 | 205.0 | 210.0 | 494.0 | 371.0 |
-| TC5 | Clean Tanker Spot | LR1 | LR1 AG-Japan | -31.0 | 571.0 | 601.0 | 657.0 | 468.0 |
-| TC7 | Clean Tanker Spot | MR | MR Singapore-EC Aus | -24.0 | 324.0 | 348.0 | 386.0 | 317.0 |
-
-### Clean & Dirty Tanker Spot Market Developments - $/day TCE
-
-| Route | Category | Vessel | Description | WoW Change ($) | Current ($/day) | Previous ($/day) | Last Month ($/day) | FFA ($/day) |
-|---|---|---|---|---|---|---|---|---|
-| TD3C | Dirty Tanker Spot | VLCC | VLCC AG-China | -52500.0 | 420000.0 | 472500.0 | 489250.0 | 444750.0 |
-| TD20 | Dirty Tanker Spot | Suezmax | Suezmax WAF-UKC | -3250.0 | 84250.0 | 87500.0 | 97500.0 | 87750.0 |
-| TD25 | Dirty Tanker Spot | Aframax | Aframax USG-UKC | -3250.0 | 51000.0 | 54250.0 | 100500.0 | 83750.0 |
-| TC1 | Clean Tanker Spot | LR2 | LR2 AG-Japan | -5750.0 | 150500.0 | 156250.0 | 162250.0 | - |
-| TC18 | Clean Tanker Spot | MR | MR USG-Brazil | -250.0 | 17000.0 | 17250.0 | 69250.0 | 44000.0 |
-| TC5 | Clean Tanker Spot | LR1 | LR1 AG-Japan | -7250.0 | 116750.0 | 124000.0 | 140250.0 | 88750.0 |
-| TC7 | Clean Tanker Spot | MR | MR Singapore-EC Aus | -4000.0 | 35250.0 | 39250.0 | 47750.0 | 32750.0 |
-
-### Bunker Prices ($/tonne)
-
-| Port | Grade | WoW Change ($) | Current ($/t) | Previous ($/t) | Last Month ($/t) |
+|  | wk on wk change | May 21st | May 14th | Last Month* | FFA Q2 |
 |---|---|---|---|---|---|
-| Rotterdam | VLSFO | -19.0 | 732.0 | 750.0 | 684.0 |
-| Fujairah | VLSFO | 32.0 | 907.0 | 876.0 | 752.0 |
-| Singapore | VLSFO | -10.0 | 818.0 | 828.0 | 713.0 |
-| Rotterdam | LSMGO | -21.0 | 1184.0 | 1205.0 | 1226.0 |
+| TD3C VLCC AG-China WS | -46 | 403 | 448 | 459 | 431 |
+| TD3C VLCC AG-China TCE $/day | -52,500 | 420,000 | 472,500 | 489,250 | 444,750 |
+| TD20 Suezmax WAF-UKC WS | -7 | 187 | 194 | 206 | 204 |
+| TD20 Suezmax WAF-UKC TCE $/day | -3,250 | 84,250 | 87,500 | 97,500 | 87,750 |
+| TD25 Aframax USG-UKC WS | -11 | 225 | 236 | 354 | 329 |
+| TD25 Aframax USG-UKC TCE $/day | -3,250 | 51,000 | 54,250 | 100,500 | 83,750 |
+| TC1 LR2 AG-Japan WS | -17 | 530 | 547 | 557 |  |
+| TC1 LR2 AG-Japan TCE $/day | -5,750 | 150,500 | 156,250 | 162,250 |  |
+| TC18 MR USG-Brazil WS | -5 | 205 | 210 | 494 | 371 |
+| TC18 MR USG-Brazil TCE $/day | -250 | 17,000 | 17,250 | 69,250 | 44,000 |
+| TC5 LR1 AG-Japan WS | -31 | 571 | 601 | 657 | 468 |
+| TC5 LR1 AG-Japan TCE $/day | -7,250 | 116,750 | 124,000 | 140,250 | 88,750 |
+| TC7 MR Singapore-EC Aus WS | -24 | 324 | 348 | 386 | 317 |
+| TC7 MR Singapore-EC Aus TCE $/day | -4,000 | 35,250 | 39,250 | 47,750 | 32,750 |
+
+(a) based on round voyage economics at ‘market’ speed, eco, non-scrubber basis
+
+#### Bunker Prices ($/tonne)
+
+|  | wk on wk change | May 21st | May 14th | Last Month* |
+|---|---|---|---|---|
+| Rotterdam VLSFO | -19 | 732 | 750 | 684 |
+| Fujairah VLSFO | +32 | 907 | 876 | 752 |
+| Singapore VLSFO | -10 | 818 | 828 | 713 |
+| Rotterdam LSMGO | -21 | 1184 | 1,205 | 1,226 |

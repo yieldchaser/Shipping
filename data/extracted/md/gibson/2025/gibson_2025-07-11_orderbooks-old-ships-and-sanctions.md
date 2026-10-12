@@ -18,23 +18,50 @@ charts_count: 4
 
 ## Feature Story
 
-Home > Orderbooks, Old Ships, and Sanctions
-
 Tanker ordering activity for vessels above 25,000 dwt has dropped sharply this year, with total orders around 110 units. This decline reflects a mix of regulatory and market uncertainties, along with persistently high newbuilding prices. Current prices remain just below the multiyear peaks seen last year, while shipyards face little pressure to offer significant discounts. 2025 orders are well below the nearly 850 tankers contracted in 2023 and 2024, and broadly in line with the limited ordering activity seen between 2016 and 2022. The only segment where fresh contracting has remained relatively robust is Suezmaxes, with 36 tankers ordered so far this year.
 
-On its own, restricted new investment always has the potential to constrain fleet growth a few years down the line, especially if accompanied by higher scrapping volumes. However, this needs to be looked at in the context of robust ordering activity that took place in recent years. Suezmaxes currently have the largest orderbook relative to its current size, with 20.4% of the existing fleet on order. This is followed by MRs and Aframaxes/LR2s, with orderbook in these segments at 19% and 18.8% respectively. The VLCC orderbook is notably smaller at 12.2%, while Handies have the smallest share at just 6.6%, reflecting owners' preference to move up to larger segments. In contrast, the LR1/Panamax orderbook has grown significantly, reaching 16.6% of its fleet size after renewed interest sparked a surge in new orders last year.
+On its own, restricted new investment always has the potential to constrain fleet growth a few years down the line, especially if accompanied by higher scrapping volumes. However, this needs to be looked at in the context of robust ordering activity that took place in recent years. Suezmaxes currently have the largest orderbook relative to its current size, with 20.4% of the existing fleet on order. This is followed by MRs and Aframaxes/LR2s, with orderbook in these segments at 19% and 18.8% respectively. The VLCC orderbook is notably smaller at 12.2%, while Handies have the smallest share at just 6.6%, reflecting owners’ preference to move up to larger segments. In contrast, the LR1/Panamax orderbook has grown significantly, reaching 16.6% of its fleet size after renewed interest sparked a surge in new orders last year.
 
 Scheduled tanker deliveries are set to peak next year at their highest level since 2009 and will remain elevated into 2027, although delivery profiles somewhat differ by segment and some degree of slippage is likely. Accelerated deliveries pose a clear risk to market earnings in the coming years, but the rapidly ageing fleet offers robust prospects for tanker demolitions to offset that. Depending on vessel type, between 19% and 41% of the fleet is already 20 years or older, while a further 21% to 44% is in the 15 to 19 year range. LR1/Panamaxes and Handies have the oldest age profiles, while Suezmaxes and VLCCs are comparatively younger.
 
 In reality, though, the demolition outlook remains much more complicated. Scrapping activity is still limited, as ageing tankers continue to carry Russian or other sanctioned barrels despite a rapidly expanding list of sanctioned vessels. Aframax/LR2s, Suezmaxes, and VLCCs are most exposed, with around 23%, 14%, and 13% of these fleets already sanctioned by various jurisdictions and another 8-9% potentially at risk due to questionable trading. Despite an intensifying wave of sanctions, a meaningful uptick in removals has yet to materialise, with scrap values notably below sale prices of 20 year-olds intended for further trading.
 
-With Ukraine-Russia peace negotiations stalled and the EU planning additional measures, arguably Russia's need for 'dark' ships remains strong, dampening scrapping prospects particularly for Aframaxes and Suezmaxes, unless circumvention routes are cut off. Meanwhile, a breakthrough in US-Iran talks could reduce demand for illicit trades on larger crude carriers, but for now the likelihood of such a deal appears slim.
+With Ukraine-Russia peace negotiations stalled and the EU planning additional measures, arguably Russia’s need for ‘dark’ ships remains strong, dampening scrapping prospects particularly for Aframaxes and Suezmaxes, unless circumvention routes are cut off. Meanwhile, a breakthrough in US–Iran talks could reduce demand for illicit trades on larger crude carriers, but for now the likelihood of such a deal appears slim.
 
 Taken together, although fresh tanker orders have slowed considerably this year, the sizeable existing orderbook means tanker supply is set to grow over the next few years. Large increases in demolition activity are needed to offset this growth but for that to happen a major political breakthrough related to Russia and Iran is needed and/or a much tougher enforcement of existing tanker sanctions. Still, despite weak scrapping for now, the ageing fleet means that except for 2026 the size of tanker fleet under 20 years of age is projected to decline in the coming years. Ultimately, demolition will have to happen eventually.
 
-Total Tanker Orders per year (over 25,000 dwt)
+*Chart: Total Tanker Orders per year (over 25,000 dwt)*
 
-Subscribe to our newsletter and make sure you're first to get the latest research and reports, straight to your inbox.
+Chart data as embedded in the report:
+
+|  | Number |
+|---|---|
+| 2000 | 190 |
+| 2001 | 270 |
+| 2002 | 173 |
+| 2003 | 429 |
+| 2004 | 310 |
+| 2005 | 256 |
+| 2006 | 584 |
+| 2007 | 363 |
+| 2008 | 162 |
+| 2009 | 95 |
+| 2010 | 190 |
+| 2011 | 92 |
+| 2012 | 122 |
+| 2013 | 337 |
+| 2014 | 176 |
+| 2015 | 414 |
+| 2016 | 52 |
+| 2017 | 191 |
+| 2018 | 142 |
+| 2019 | 178 |
+| 2020 | 154 |
+| 2021 | 161 |
+| 2022 | 90 |
+| 2023 | 348 |
+| 2024 | 500 |
+| 2025 | 108 |
 
 ## Crude Oil
 
@@ -68,13 +95,13 @@ Local Aframaxes trended sideways this week, WS140-145 for TD25. Still some promp
 
 An overall static week in the North for Aframaxes with levels trading seemingly around the WS120 mark for the duration. The region has been well supplied with relets which have been utilized, leaving spot fixing in the dark. When the next true test does arrive sub WS120 is expected to be done as the summer lull continues.
 
-Crude Tanker Spot Rates (WS)
+*Chart: Crude Tanker Spot Rates (WS) - Gibson daily assessments, kept in data/extracted/series/gibson_spot_chart_daily.csv*
 
 ## Clean Products
 
 ### East
 
-Busy week across the board for the LR1s and LR2s. The LR1s have been publicly busy and seen the front end of the list really clear out. Yet there hasn't been a significant push on the levels, TC5 at the 55 x WS140 levels and UKC at $2.85m but with the list tightening up there could be opportunities for owners to apply pressure. The value has certainly been on the LR2s this week and charterers have seen this and covered a lot of units off market. Headline rates don't show a true reflection of this market. TC1 on subs at 75 x WS110 however, assess that next will fall into the WS120 bracket. West in need of a true test but for now at $3.75m levels. As the third decade approaches owners will be hoping that the foundations have been laid to see a progression on last done levels.
+Busy week across the board for the LR1s and LR2s. The LR1s have been publicly busy and seen the front end of the list really clear out. Yet there hasn’t been a significant push on the levels, TC5 at the 55 x WS140 levels and UKC at $2.85m but with the list tightening up there could be opportunities for owners to apply pressure. The value has certainly been on the LR2s this week and charterers have seen this and covered a lot of units off market. Headline rates don’t show a true reflection of this market. TC1 on subs at 75 x WS110 however, assess that next will fall into the WS120 bracket. West in need of a true test but for now at $3.75m levels. As the third decade approaches owners will be hoping that the foundations have been laid to see a progression on last done levels.
 
 MRs in the East have seen a lot of activity with rate climbing as a result. A generous list of stems to be covered come next week will spur owners. Assess West at $2.3m levels, TC12 at 35 x WS170 and EAFR at 35 x WS225. Expect these rates to be positively test early next week.
 
@@ -84,63 +111,60 @@ MR rates had been driven down by a very weak UKC export market and a highly attr
 
 For most of the week, we have seen Handy levels trade at 30 x WS125 for XUKC and 30 x WS115 for UKC/MED. Even by the midweek stage, when Handy supply started to tighten on the front end of the tonnage list, MRs decided to jump on 30kt clips and repeat last done levels of 30 x WS125. Although come Thursday, 30 x WS130 was paid for a replacement as owners now look to repeat this slight improvement although with MRs trading at 37 x WS105 (equivalent of 30 x WS129.5) expect the bigger units to act as a cap for the short term.
 
-### Mediterranean
+### Med
 
 The Med appears to have produced a West to East Med MR differential with the low flat ex Sines being the unusual one to get down to 37 x WS100 TA. Central Med naphtha stems are going at 110 TA and 130 XMed but short haul deals will only compound the list going forward and fresh positions keep popping out. No real sign of change ahead, low and slow appears to be the ongoing mantra for the summer. The Red Sea may draw some units away as owners hunt for better earnings.
 
 All in all, it has been an active and steady week for Handies in the Med. Rates have been maintained at 30 x WS130 levels for XMed with a couple grade sensitive stems paying five points higher. The main talking point is around the tonnage list which continues to be balanced and well stocked. The fixing window has been varied with some prompt stems and cargoes over seven days out locking in the same rates which is proof that we have cemented in at bottom levels. Looking forward to next week, owners will be watching if any grade sensitive stems are quoted in hope this could squeeze rates up as there is little chance of tonnage tightening in the short term.
 
-Clean Tanker Spot Rates (WS)
+*Chart: Clean Tanker Spot Rates (WS) - Gibson daily assessments, kept in data/extracted/series/gibson_spot_chart_daily.csv*
 
 ## Dirty Products
 
 ### Handy
 
-It's not been the week that Handy owners would have hoped for in NWE as enquiry has struggled to surface for a second successive week. Well-approved and modern tonnage is readily available with little enquiry to clip away units leaving negative pressure to build. 30 x WS250 was fixed earlier in the week signalling a WS 7.5 point drop in levels from last done. We close out the week with little activity to report and a lengthy looking list, owners will need enquiry to surface quickly to start clearing built-up tonnage. We think levels are set to soften further down towards the WS240 mark on next done.
+It’s not been the week that Handy owners would have hoped for in NWE as enquiry has struggled to surface for a second successive week. Well-approved and modern tonnage is readily available with little enquiry to clip away units leaving negative pressure to build. 30 x WS250 was fixed earlier in the week signalling a WS 7.5 point drop in levels from last done. We close out the week with little activity to report and a lengthy looking list, owners will need enquiry to surface quickly to start clearing built-up tonnage. We think levels are set to soften further down towards the WS240 mark on next done.
 
 The Mediterranean has seen a reversal in its fortunes this week following a busy and active week. Monday morning saw a lengthy-looking list with options across the board for charterers to choose from. With levels softening down to 30 x WS220. On Tuesday activity picked up and began clearing prompt tonnage from the list offering support and leaving WS220 repeating numerous times. Ships continued to disappear from the list as charterers began reaching slightly on dates causing rates to firm up to 30 x WS230 for a vanilla XMed run by close of play on Friday. Looking ahead, we expect to see a tighter top of the list but with the forward fixing seen this week, we expect a quieter start to proceedings.
 
 ### MR
 
-North MR owners have seen a similar week in terms of activity to their Handy counterparts as tonnage worked its way up the list with few questions asked of them. Levels for now hover around the 45 x WS165 mark with additional units soon to open up and create more competition, we could see levels tested down further. It's been a mixed bag for owners in the Med as full-stem enquiry started the week in a sluggish manner seeing rates soften down to 45 x WS155 with options in play. Enquiry then quickly surfaced in the market with 45 x WS160 and the equivalent repeated. Looking ahead to next week we expect to see a balanced list with tonnage available to work, we feel levels will hold steady at the 45 x WS160 mark.
+North MR owners have seen a similar week in terms of activity to their Handy counterparts as tonnage worked its way up the list with few questions asked of them. Levels for now hover around the 45 x WS165 mark with additional units soon to open up and create more competition, we could see levels tested down further. It’s been a mixed bag for owners in the Med as full-stem enquiry started the week in a sluggish manner seeing rates soften down to 45 x WS155 with options in play. Enquiry then quickly surfaced in the market with 45 x WS160 and the equivalent repeated. Looking ahead to next week we expect to see a balanced list with tonnage available to work, we feel levels will hold steady at the 45 x WS160 mark.
 
 ### Panamax
 
 Panamaxes over in Europe have had little to get excited about as enquiry struggled to surface. A well-publicised fresh test is needed for UKCM/TA runs but ideas still hold around the WS115 mark for now. TD21 saw a marked correction in rates almost immediately after the States came back from the 4th of July weekend. Rates fell from WS190 to 50 x WS160, however, support here was found and multiple deals were concluded steadily clearing tonnage from the list. Owners will be hoping to build on this momentum where firming of levels could be on the cards.
 
-Dirty Product Tanker Spot Rates (WS)
+*Chart: Dirty Product Tanker Spot Rates (WS) - Gibson daily assessments, kept in data/extracted/series/gibson_spot_chart_daily.csv*
 
 ## Rates & Bunkers
 
-### Clean & Dirty Tanker Spot Market Developments - Spot Worldscale
+#### Clean and Dirty Tanker Spot Market Developments – Spot WS and $/day TCE (a)
 
-| Route | Category | Vessel | Description | WoW Change | Current | Previous | Last Month | FFA |
-|---|---|---|---|---|---|---|---|---|
-| TD3C | Dirty Tanker Spot | VLCC | VLCC AG-China | 2.0 | 49.0 | 47.0 | 44.0 | 55.0 |
-| TD20 | Dirty Tanker Spot | Suezmax | Suezmax WAF-UKC | -2.0 | 80.0 | 82.0 | 75.0 | 78.0 |
-| TD25 | Dirty Tanker Spot | Aframax | Aframax USG-UKC | -5.0 | 140.0 | 145.0 | 138.0 | 130.0 |
-| TC1 | Clean Tanker Spot | LR2 | LR2 AG-Japan | -9.0 | 111.0 | 120.0 | 114.0 | - |
-| TC18 | Clean Tanker Spot | MR | MR USG-Brazil | -73.0 | 176.0 | 249.0 | 163.0 | 169.0 |
-| TC5 | Clean Tanker Spot | LR1 | LR1 AG-Japan | 5.0 | 144.0 | 139.0 | 139.0 | 145.0 |
-| TC7 | Clean Tanker Spot | MR | MR Singapore-EC Aus | -1.0 | 202.0 | 203.0 | 196.0 | 177.0 |
-
-### Clean & Dirty Tanker Spot Market Developments - $/day TCE
-
-| Route | Category | Vessel | Description | WoW Change ($) | Current ($/day) | Previous ($/day) | Last Month ($/day) | FFA ($/day) |
-|---|---|---|---|---|---|---|---|---|
-| TD3C | Dirty Tanker Spot | VLCC | VLCC AG-China | 2000.0 | 28500.0 | 26500.0 | 22500.0 | 30500.0 |
-| TD20 | Dirty Tanker Spot | Suezmax | Suezmax WAF-UKC | -1750.0 | 25750.0 | 27500.0 | 24250.0 | 21750.0 |
-| TD25 | Dirty Tanker Spot | Aframax | Aframax USG-UKC | -2750.0 | 30000.0 | 32750.0 | 31250.0 | 21750.0 |
-| TC1 | Clean Tanker Spot | LR2 | LR2 AG-Japan | -3500.0 | 21750.0 | 25250.0 | 23500.0 | - |
-| TC18 | Clean Tanker Spot | MR | MR USG-Brazil | -14000.0 | 21250.0 | 35250.0 | 18750.0 | 18000.0 |
-| TC5 | Clean Tanker Spot | LR1 | LR1 AG-Japan | 1000.0 | 22250.0 | 21250.0 | 21500.0 | 20250.0 |
-| TC7 | Clean Tanker Spot | MR | MR Singapore-EC Aus | -500.0 | 22750.0 | 23250.0 | 22000.0 | 17500.0 |
-
-### Bunker Prices ($/tonne)
-
-| Port | Grade | WoW Change ($) | Current ($/t) | Previous ($/t) | Last Month ($/t) |
+|  | wk on wk change | Jul 10th | Jul 3rd | Last Month* | FFA Q2 |
 |---|---|---|---|---|---|
-| Rotterdam | VLSFO | 9.0 | 521.0 | 512.0 | 477.0 |
-| Fujairah | VLSFO | 6.0 | 521.0 | 515.0 | 515.0 |
-| Singapore | VLSFO | 2.0 | 524.0 | 522.0 | 524.0 |
-| Rotterdam | LSMGO | 39.0 | 707.0 | 668.0 | 631.0 |
+| TD3C VLCC AG-China WS | 2 | 49 | 47 | 44 | 55 |
+| TD3C VLCC AG-China TCE $/day | 2,000 | 28,500 | 26,500 | 22,500 | 30,500 |
+| TD20 Suezmax WAF-UKC WS | -2 | 80 | 82 | 75 | 78 |
+| TD20 Suezmax WAF-UKC TCE $/day | -1,750 | 25,750 | 27,500 | 24,250 | 21,750 |
+| TD25 Aframax USG-UKC WS | -5 | 140 | 145 | 138 | 130 |
+| TD25 Aframax USG-UKC TCE $/day | -2,750 | 30,000 | 32,750 | 31,250 | 21,750 |
+| TC1 LR2 AG-Japan WS | -9 | 111 | 120 | 114 |  |
+| TC1 LR2 AG-Japan TCE $/day | -3,500 | 21,750 | 25,250 | 23,500 |  |
+| TC18 MR USG-Brazil WS | -73 | 176 | 249 | 163 | 169 |
+| TC18 MR USG-Brazil TCE $/day | -14,000 | 21,250 | 35,250 | 18,750 | 18,000 |
+| TC5 LR1 AG-Japan WS | 5 | 144 | 139 | 139 | 145 |
+| TC5 LR1 AG-Japan TCE $/day | 1,000 | 22,250 | 21,250 | 21,500 | 20,250 |
+| TC7 MR Singapore-EC Aus WS | -1 | 202 | 203 | 196 | 177 |
+| TC7 MR Singapore-EC Aus TCE $/day | -500 | 22,750 | 23,250 | 22,000 | 17,500 |
+
+(a) based on round voyage economics at ‘market’ speed, eco, non-scrubber basis
+
+#### Bunker Prices ($/tonne)
+
+|  | wk on wk change | Jul 10th | Jul 3rd | Last Month* |
+|---|---|---|---|---|
+| Rotterdam VLSFO | +9 | 521 | 512 | 477 |
+| Fujairah VLSFO | +6 | 521 | 515 | 515 |
+| Singapore VLSFO | +2 | 524 | 522 | 524 |
+| Rotterdam LSMGO | +39 | 707 | 668 | 631 |

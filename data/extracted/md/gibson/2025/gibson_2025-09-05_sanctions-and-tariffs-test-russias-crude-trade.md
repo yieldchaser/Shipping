@@ -18,23 +18,68 @@ charts_count: 4
 
 ## Feature Story
 
-Home > Sanctions and Tariffs Test Russia's Crude Trade
+Western economies are turning up the heat on Russia, tightening sanctions and raising tariffs in an effort to squeeze its energy revenues. Yet despite mounting pressure, Russian crude exports have so far shown remarkable resilience. The EU’s lower crude price cap came into effect this week, and Washington has doubled tariffs on Indian goods to 50% as part of the efforts to pressure New Delhi over its continued imports of Russian crude. Against this backdrop, Donald Trump’s latest meeting with Vladimir Putin delivered no breakthroughs, while the war itself grinds on with drone attacks and continuing hostilities.
 
-Western economies are turning up the heat on Russia, tightening sanctions and raising tariffs in an effort to squeeze its energy revenues. Yet despite mounting pressure, Russian crude exports have so far shown remarkable resilience. The EU's lower crude price cap came into effect this week, and Washington has doubled tariffs on Indian goods to 50% as part of the efforts to pressure New Delhi over its continued imports of Russian crude. Against this backdrop, Donald Trump's latest meeting with Vladimir Putin delivered no breakthroughs, while the war itself grinds on with drone attacks and continuing hostilities.
+For India, the stakes are particularly high. Russian crude has provided plenty of discounted supply, but the value of Indian exports to the US far outweighs its imports from Russia. The balancing act is as much political as economic, with Prime Minister Narendra Modi seemingly portraying unity with Putin and China’s Xi Jinping at a summit earlier this week. Still, the question remains: how long can India maintain this middle ground before Washington’s pressure begins to bite?
 
-For India, the stakes are particularly high. Russian crude has provided plenty of discounted supply, but the value of Indian exports to the US far outweighs its imports from Russia. The balancing act is as much political as economic, with Prime Minister Narendra Modi seemingly portraying unity with Putin and China's Xi Jinping at a summit earlier this week. Still, the question remains: how long can India maintain this middle ground before Washington's pressure begins to bite?
+So far, Russia’s crude flows look surprisingly robust. Preliminary data from Kpler shows total crude exports from Western terminals averaging close to 2.15 mbd in August, in line with July levels and actually 150 kbd higher than a year earlier. But the breakdown by buyer reveals some subtle shifts. Indian purchases slipped to around 1.35 mbd in August, down by 10% month-on-month, although the final figure may prove higher once “undecided” cargoes, accounting for 7% of the total, declare their destinations. Whether Indian refiners bounce back in September or trade declines further will be closely watched, since any sustained slowdown could hand Trump a political win and allow him to recalibrate tariffs, with the White House seemingly able to tweak tariffs as it sees fit.
 
-So far, Russia's crude flows look surprisingly robust. Preliminary data from Kpler shows total crude exports from Western terminals averaging close to 2.15 mbd in August, in line with July levels and actually 150 kbd higher than a year earlier. But the breakdown by buyer reveals some subtle shifts. Indian purchases slipped to around 1.35 mbd in August, down by 10% month-on-month, although the final figure may prove higher once "undecided" cargoes, accounting for 7% of the total, declare their destinations. Whether Indian refiners bounce back in September or trade declines further will be closely watched, since any sustained slowdown could hand Trump a political win and allow him to recalibrate tariffs, with the White House seemingly able to tweak tariffs as it sees fit.
+China, meanwhile, has quietly stepped in. Russian crude exports from Western terminals to Chinese refiners rose to 250 kbd in August, twice July’s level. This surge reflects both the lure of steeper discounts and the seasonal opportunity to ship via the shorter Northern Sea Route during Q3, bypassing the Suez Canal.
 
-China, meanwhile, has quietly stepped in. Russian crude exports from Western terminals to Chinese refiners rose to 250 kbd in August, twice July's level. This surge reflects both the lure of steeper discounts and the seasonal opportunity to ship via the shorter Northern Sea Route during Q3, bypassing the Suez Canal.
+The impact of lower EU crude oil price cap is also starting to be felt. Aframaxes, the workhorses of Russia’s western crude trade, have seen a decline in conventional liftings under price cap rules, squeezed by rising compliance risks. By contrast, mainstream Suezmaxes remain active in the Black Sea, but the volumes involved are far smaller than those shipped from the Baltic. At the same time, the dark fleet continues to shoulder a growing share of exports, keeping Russian barrels on the move.
 
-The impact of lower EU crude oil price cap is also starting to be felt. Aframaxes, the workhorses of Russia's western crude trade, have seen a decline in conventional liftings under price cap rules, squeezed by rising compliance risks. By contrast, mainstream Suezmaxes remain active in the Black Sea, but the volumes involved are far smaller than those shipped from the Baltic. At the same time, the dark fleet continues to shoulder a growing share of exports, keeping Russian barrels on the move.
+For now, tougher sanctions and tariffs have had only a limited effect on the overall picture. Russian oil continues to flow, but the geography of that trade has somewhat shifted. India’s hesitation has been balanced by China’s enthusiasm, leaving global markets finely poised. The coming months will show whether August was a blip or the start of a more permanent reshaping of Russia’s crude export map. What is clear is that as long as there is demand, Russian oil will find a way.
 
-For now, tougher sanctions and tariffs have had only a limited effect on the overall picture. Russian oil continues to flow, but the geography of that trade has somewhat shifted. India's hesitation has been balanced by China's enthusiasm, leaving global markets finely poised. The coming months will show whether August was a blip or the start of a more permanent reshaping of Russia's crude export map. What is clear is that as long as there is demand, Russian oil will find a way.
+*Chart: Russia’s crude exports to India from Western terminals (kbd)*
 
-Russia's crude exports to India from Western terminals (kbd)
+Chart data as embedded in the report:
 
-Subscribe to our newsletter and make sure you're first to get the latest research and reports, straight to your inbox.
+|  | Exports (kbd) |
+|---|---|
+| 01/01/2022 | 22.761201275095 |
+| 01/02/2022 | 0 |
+| 01/03/2022 | 397.43486916372 |
+| 01/04/2022 | 921.98307663568 |
+| 01/05/2022 | 841.04141164613 |
+| 01/06/2022 | 602.97730279924 |
+| 01/07/2022 | 786.42516039473 |
+| 01/08/2022 | 630.6224946391 |
+| 01/09/2022 | 841.9500593234 |
+| 01/10/2022 | 797.46966196103 |
+| 01/11/2022 | 1239.1562093324 |
+| 01/12/2022 | 1321.0618993852 |
+| 01/01/2023 | 1404.4822366923 |
+| 01/02/2023 | 1358.4081423934 |
+| 01/03/2023 | 1604.5085605641 |
+| 01/04/2023 | 1565.7321895103 |
+| 01/05/2023 | 1815.6173277626 |
+| 01/06/2023 | 1540.4328941159 |
+| 01/07/2023 | 1292.9527359489 |
+| 01/08/2023 | 1265.7208996385 |
+| 01/09/2023 | 1378.6304524533 |
+| 01/10/2023 | 1518.9695715805 |
+| 01/11/2023 | 1095.6239900923 |
+| 01/12/2023 | 1396.2509036277 |
+| 01/01/2024 | 1438.5644883017 |
+| 01/02/2024 | 1326.0462769126 |
+| 01/03/2024 | 1638.2710463199 |
+| 01/04/2024 | 1871.8096770413 |
+| 01/05/2024 | 1616.2358109229 |
+| 01/06/2024 | 1700.762262143 |
+| 01/07/2024 | 1400.4131350479 |
+| 01/08/2024 | 1475.2004030024 |
+| 01/09/2024 | 1669.9319169938 |
+| 01/10/2024 | 1750.596309549 |
+| 01/11/2024 | 1434.6106051657 |
+| 01/12/2024 | 1463.6997887212 |
+| 01/01/2025 | 1348.6759938606 |
+| 01/02/2025 | 1609.3351930806 |
+| 01/03/2025 | 1707.0675740523 |
+| 01/04/2025 | 1526.4194058268 |
+| 01/05/2025 | 1482.3630769615 |
+| 01/06/2025 | 1456.5016618728 |
+| 01/07/2025 | 1485.4396059186 |
+| 01/08/2025 | 1335.7796503243 |
 
 ## Crude Oil
 
@@ -42,9 +87,9 @@ Subscribe to our newsletter and make sure you're first to get the latest researc
 
 The VLCC market in the AG came alive this week. We saw over 50 deals concluded this week and a position list which was mostly red especially for the 2nd decade. A flurry of cargoes pushed rates to gain momentum, and owners have taken advantage of this situation pushing on each cargo. As we move into next week, we have just over half of the 3rd decade to cover before the new stems are released so the firmness is expected to continue. We are currently calling 270kt AG/China at WS77.5 and 280kt AG/USG at WS48.
 
-Rates have remained stable in the AG on Suezmaxes this week, but the list is looking better stocked than the same time last week, it seems this market is largely being held up by owners' resistance. AG/West we assess at 140 x WS60 via C/C but expect pressure to mount next week and charterers are likely to chip just below. For East runs, the VLCCs remain firm reducing the risk of part-cargo fixtures but with building tonnage Charterers are likely to push below 130 x WS120 today.
+Rates have remained stable in the AG on Suezmaxes this week, but the list is looking better stocked than the same time last week, it seems this market is largely being held up by owners’ resistance. AG/West we assess at 140 x WS60 via C/C but expect pressure to mount next week and charterers are likely to chip just below. For East runs, the VLCCs remain firm reducing the risk of part-cargo fixtures but with building tonnage Charterers are likely to push below 130 x WS120 today.
 
-Aframax momentum in Asia slowed midweek but picked up again towards the close, with two TD14 runs repeating last done at 80 x WS120. Demand ex-Oz held steady, with a handful of additional fixtures concluded before week's end. Owners resisted softer numbers, supported by firm sentiment and a relatively balanced list carried over from the previous week. As APPEC approaches, some off-market activity is expected, with participants likely to cover positions in advance. This should provide a degree of support into next week, even as rates appear to have topped for now. Indo market remains calm and steady.
+Aframax momentum in Asia slowed midweek but picked up again towards the close, with two TD14 runs repeating last done at 80 x WS120. Demand ex-Oz held steady, with a handful of additional fixtures concluded before week’s end. Owners resisted softer numbers, supported by firm sentiment and a relatively balanced list carried over from the previous week. As APPEC approaches, some off-market activity is expected, with participants likely to cover positions in advance. This should provide a degree of support into next week, even as rates appear to have topped for now. Indo market remains calm and steady.
 
 ### West Africa
 
@@ -64,9 +109,9 @@ The VLCC tonnage lists in the USG have also been depleted. A busy fixing month f
 
 ### North Sea
 
-As expected early on in Aframaxes here we've seen some tests in this week's levels with programming and under the radar action clipping away a handful but not enough to stimulate the market. Levels are now down to WS130 but it seems that we have settled. There is some optimism on the US side of things and with few recent ballasters and a slightly more balanced Atlantic fleet split we expect to see units heading West over the next week. There are still plenty of questions for West Med load from ballasters will little joy for now, these may simply opt for the ballast, yet the Med is also far from unsure of a rebound.
+As expected early on in Aframaxes here we’ve seen some tests in this week’s levels with programming and under the radar action clipping away a handful but not enough to stimulate the market. Levels are now down to WS130 but it seems that we have settled. There is some optimism on the US side of things and with few recent ballasters and a slightly more balanced Atlantic fleet split we expect to see units heading West over the next week. There are still plenty of questions for West Med load from ballasters will little joy for now, these may simply opt for the ballast, yet the Med is also far from unsure of a rebound.
 
-Crude Tanker Spot Rates (WS)
+*Chart: Crude Tanker Spot Rates (WS) - Gibson daily assessments, kept in data/extracted/series/gibson_spot_chart_daily.csv*
 
 ## Clean Products
 
@@ -82,13 +127,13 @@ In MR markets, with mass tonnage displacement away from the UKC cargoes have bee
 
 It has been a positive week for Handy owners up in the North as the combination of consistent fixing and a tonnage list which is lacking supply on the front has enabled owners to push freight. TC23 closes the week at 30 x WS155 after a replacement on Thursday off 8-10 and with bad weather heading towards the UKC next week which could see some ships face delays, owners will be quietly confident for another rate push but only if enquiry persists. Potential here.
 
-### Mediterranean
+### Med
 
 A slow building week in the Med for MRs which opened at 37 x WS115 levels. The market traded sideways for most of the week with a bulk of enquiry stemming out of West Med. A well-balanced list and general acceptance by owners on rates to avoid jumping the gun were the main drivers behind this. However, at weeks close tonnage is thin on the ground, and we see charterers reaching out on fresh stems to try lock in last done levels. With some bad weather approaching, a tighter list, and a softening of the USG market, owners have become more bullish with 30 x WS120 a fair call needing a test. Enquiry has also picked up which serves to bolster any bullishness owners feel given the current conditions. Eyes on the weather and tonnage restock going into next week.
 
-Similarly to MRs the Handy Med market has gradually picked up from open at 30 x WS135 and pressured with some spikes throughout the week. Some tricky grade dependent and restriction specific stems with a high of 30 x WS180 on an ex-Libya jet cargo were seen mid-week. However, these jumps were not enough on their own to peel the market off the bottom levels it's been simmering at. Throughout the list has steadily been worked through but a gradual restock meant charterers have had enough options to choose from, somewhat blighting owners' bullishness. Nonetheless, we go into the weekend at 30 x WS140 XMed levels, requiring a fresh test. A tighter front end and some inclement weather forecast could be a blessing for owners. Eyes on how the list restocks on Monday for some further insight.
+Similarly to MRs the Handy Med market has gradually picked up from open at 30 x WS135 and pressured with some spikes throughout the week. Some tricky grade dependent and restriction specific stems with a high of 30 x WS180 on an ex-Libya jet cargo were seen mid-week. However, these jumps were not enough on their own to peel the market off the bottom levels it’s been simmering at. Throughout the list has steadily been worked through but a gradual restock meant charterers have had enough options to choose from, somewhat blighting owners’ bullishness. Nonetheless, we go into the weekend at 30 x WS140 XMed levels, requiring a fresh test. A tighter front end and some inclement weather forecast could be a blessing for owners. Eyes on how the list restocks on Monday for some further insight.
 
-Clean Tanker Spot Rates (WS)
+*Chart: Clean Tanker Spot Rates (WS) - Gibson daily assessments, kept in data/extracted/series/gibson_spot_chart_daily.csv*
 
 ## Dirty Products
 
@@ -96,49 +141,46 @@ Clean Tanker Spot Rates (WS)
 
 A relatively slow week for Handies in the North, all in all has seen levels soften to WS225 for an XUKC run. Prompt ships were there to work come Monday morning and enquiry struggled to get off to a quick start. Activity began to pick up on Thursday with a trio of vessels on subs for WS225 and equivalent trimming up the list. Units remain still there to work by the close of play Friday, but looking ahead to Monday, we expect to see current levels hold.
 
-In the Mediterranean, the week started out with a rather gloomy outlook as the list showed plenty of availability across the board. Levels quickly softened to WS215 before following a downward trend to WS205 by Friday. EMed has seen the lion's share of activity as vessels go on subs, fail and are quickly back on subs, whereas WMed has remained on the quieter side. Rates here are yet to find a floor and an active start to the week's proceedings are needed to keep tonnage build-up at bay.
+In the Mediterranean, the week started out with a rather gloomy outlook as the list showed plenty of availability across the board. Levels quickly softened to WS215 before following a downward trend to WS205 by Friday. EMed has seen the lion’s share of activity as vessels go on subs, fail and are quickly back on subs, whereas WMed has remained on the quieter side. Rates here are yet to find a floor and an active start to the week’s proceedings are needed to keep tonnage build-up at bay.
 
 ### MR
 
-MRs have seen activity on both fronts but mainly in the Med. Levels have fluctuated between WS157.5 and WS155 as units have been clipped away, leaving the list in a healthy state for owners. Looking ahead to Monday, we expect to see levels hold here with potential to firm if enquiry gets off to a fast start. In the UKC, units have stayed thin on the ground for most of the week. Despite this, WS150 was fixed for a run straight to the Med, although we don't expect these levels to be repeated by next up owners. Rate ideas currently sit between WS167.5-170 with a fresh test needed.
+MRs have seen activity on both fronts but mainly in the Med. Levels have fluctuated between WS157.5 and WS155 as units have been clipped away, leaving the list in a healthy state for owners. Looking ahead to Monday, we expect to see levels hold here with potential to firm if enquiry gets off to a fast start. In the UKC, units have stayed thin on the ground for most of the week. Despite this, WS150 was fixed for a run straight to the Med, although we don’t expect these levels to be repeated by next up owners. Rate ideas currently sit between WS167.5-170 with a fresh test needed.
 
 ### Panamax
 
 A quiet week for Panamaxes this side of the of the Atlantic with vessels mainly fixed for ex States business of local part cargo stems. Rates require a fresh test, but we expect next done to be around the WS110-115 level. TD21 has seen a steady week with levels hovering at the WS155 mark as under-the-radar activity leaves the list ticking over. We expect to see more of the same early into next week.
 
-Dirty Product Tanker Spot Rates (WS)
+*Chart: Dirty Product Tanker Spot Rates (WS) - Gibson daily assessments, kept in data/extracted/series/gibson_spot_chart_daily.csv*
 
 ## Rates & Bunkers
 
-### Clean & Dirty Tanker Spot Market Developments - Spot Worldscale
+#### Clean and Dirty Tanker Spot Market Developments – Spot WS and $/day TCE (a)
 
-| Route | Category | Vessel | Description | WoW Change | Current | Previous | Last Month | FFA |
-|---|---|---|---|---|---|---|---|---|
-| TD3C | Dirty Tanker Spot | VLCC | VLCC AG-China | 3.0 | 70.0 | 67.0 | 57.0 | 60.0 |
-| TD20 | Dirty Tanker Spot | Suezmax | Suezmax WAF-UKC | -2.0 | 108.0 | 110.0 | 121.0 | 99.0 |
-| TD25 | Dirty Tanker Spot | Aframax | Aframax USG-UKC | 10.0 | 164.0 | 154.0 | 151.0 | 152.0 |
-| TC1 | Clean Tanker Spot | LR2 | LR2 AG-Japan | 19.0 | 157.0 | 138.0 | 153.0 | - |
-| TC18 | Clean Tanker Spot | MR | MR USG-Brazil | -34.0 | 216.0 | 249.0 | 238.0 | 205.0 |
-| TC5 | Clean Tanker Spot | LR1 | LR1 AG-Japan | 1.0 | 158.0 | 157.0 | 176.0 | 156.0 |
-| TC7 | Clean Tanker Spot | MR | MR Singapore-EC Aus | 6.0 | 213.0 | 207.0 | 184.0 | 196.0 |
-
-### Clean & Dirty Tanker Spot Market Developments - $/day TCE
-
-| Route | Category | Vessel | Description | WoW Change ($) | Current ($/day) | Previous ($/day) | Last Month ($/day) | FFA ($/day) |
-|---|---|---|---|---|---|---|---|---|
-| TD3C | Dirty Tanker Spot | VLCC | VLCC AG-China | 3000.0 | 55500.0 | 52500.0 | 38750.0 | 38000.0 |
-| TD20 | Dirty Tanker Spot | Suezmax | Suezmax WAF-UKC | -1500.0 | 45750.0 | 47250.0 | 54000.0 | 37000.0 |
-| TD25 | Dirty Tanker Spot | Aframax | Aframax USG-UKC | 3500.0 | 40500.0 | 37000.0 | 36000.0 | 31500.0 |
-| TC1 | Clean Tanker Spot | LR2 | LR2 AG-Japan | 6250.0 | 38750.0 | 32500.0 | 37500.0 | - |
-| TC18 | Clean Tanker Spot | MR | MR USG-Brazil | -6750.0 | 28750.0 | 35500.0 | 33500.0 | 24500.0 |
-| TC5 | Clean Tanker Spot | LR1 | LR1 AG-Japan | -250.0 | 26500.0 | 26750.0 | 31500.0 | 23750.0 |
-| TC7 | Clean Tanker Spot | MR | MR Singapore-EC Aus | 1000.0 | 25500.0 | 24500.0 | 20250.0 | 21250.0 |
-
-### Bunker Prices ($/tonne)
-
-| Port | Grade | WoW Change ($) | Current ($/t) | Previous ($/t) | Last Month ($/t) |
+|  | wk on wk change | Sep 4th | Aug 28th | Last Month* | FFA Q3 |
 |---|---|---|---|---|---|
-| Rotterdam | VLSFO | -5.0 | 452.0 | 457.0 | 469.0 |
-| Fujairah | VLSFO | -7.0 | 484.0 | 491.0 | 496.0 |
-| Singapore | VLSFO | -4.0 | 490.0 | 494.0 | 504.0 |
-| Rotterdam | LSMGO | - | 658.0 | 658.0 | 662.0 |
+| TD3C VLCC AG-China WS | 3 | 70 | 67 | 57 | 60 |
+| TD3C VLCC AG-China TCE $/day | 3,000 | 55,500 | 52,500 | 38,750 | 38,000 |
+| TD20 Suezmax WAF-UKC WS | -2 | 108 | 110 | 121 | 99 |
+| TD20 Suezmax WAF-UKC TCE $/day | -1,500 | 45,750 | 47,250 | 54,000 | 37,000 |
+| TD25 Aframax USG-UKC WS | 10 | 164 | 154 | 151 | 152 |
+| TD25 Aframax USG-UKC TCE $/day | 3,500 | 40,500 | 37,000 | 36,000 | 31,500 |
+| TC1 LR2 AG-Japan WS | 19 | 157 | 138 | 153 |  |
+| TC1 LR2 AG-Japan TCE $/day | 6,250 | 38,750 | 32,500 | 37,500 |  |
+| TC18 MR USG-Brazil WS | -34 | 216 | 249 | 238 | 205 |
+| TC18 MR USG-Brazil TCE $/day | -6,750 | 28,750 | 35,500 | 33,500 | 24,500 |
+| TC5 LR1 AG-Japan WS | 1 | 158 | 157 | 176 | 156 |
+| TC5 LR1 AG-Japan TCE $/day | -250 | 26,500 | 26,750 | 31,500 | 23,750 |
+| TC7 MR Singapore-EC Aus WS | 6 | 213 | 207 | 184 | 196 |
+| TC7 MR Singapore-EC Aus TCE $/day | 1,000 | 25,500 | 24,500 | 20,250 | 21,250 |
+
+(a) based on round voyage economics at ‘market’ speed, eco, non-scrubber basis
+
+#### Bunker Prices ($/tonne)
+
+|  | wk on wk change | Sep 4th | Aug 28th | Last Month* |
+|---|---|---|---|---|
+| Rotterdam VLSFO | -5 | 452 | 457 | 469 |
+| Fujairah VLSFO | -7 | 484 | 491 | 496 |
+| Singapore VLSFO | -4 | 490 | 494 | 504 |
+| Rotterdam LSMGO | +0 | 658 | 658 | 662 |

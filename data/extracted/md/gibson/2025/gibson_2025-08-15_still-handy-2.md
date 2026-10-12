@@ -18,7 +18,7 @@ charts_count: 4
 
 ## Feature Story
 
-The Handy tanker market continues to shrink. This has been an ongoing trend for many years, which was rapidly accelerated by the conflict in Ukraine. With spot fixtures in the Baltic and the Black Sea going from around a third of total fixtures to less than 10% each year since 2023, Handies had to find demand elsewhere. Nevertheless, total volumes have continued their ongoing downwards trend, and this year seems to be no different. If the trend doesn't change going into Q4, numbers for 2025 look set to drop compared with 2024. So far this year, total clean and dirty volumes carried on Handies have declined by about 5% YTD compared to 2024. The total number of spot fixtures has also declined, though possible underreporting due to dark fleet activity may affect these numbers.
+The Handy tanker market continues to shrink. This has been an ongoing trend for many years, which was rapidly accelerated by the conflict in Ukraine. With spot fixtures in the Baltic and the Black Sea going from around a third of total fixtures to less than 10% each year since 2023, Handies had to find demand elsewhere. Nevertheless, total volumes have continued their ongoing downwards trend, and this year seems to be no different. If the trend doesn’t change going into Q4, numbers for 2025 look set to drop compared with 2024. So far this year, total clean and dirty volumes carried on Handies have declined by about 5% YTD compared to 2024. The total number of spot fixtures has also declined, though possible underreporting due to dark fleet activity may affect these numbers.
 
 The Mediterranean remains the most active region for Handies, with over 50% of spot activity taking place here. Earnings in this region are the most representative of the wider Handy market, though they have at times shown extreme volatility. TC6 this year declined significantly from 2024, though now on par with the 10-year average. Freight rates in the UKC have been less volatile but are generally underperforming the Mediterranean market. MRs cannibalising Handy cargoes has led to constant pressure this year with MRs in the UKC and Med MR regions weaker compared to previous years. On the dirty side, the markets have been comparatively stronger this year, possibly helped by the Med ECA. Notably, Handy CPP tonne miles have declined by a substantial 17% year to date, and dirty Handy tonne miles by a mere 3%.
 
@@ -28,9 +28,18 @@ MRs could also exert downward pressure. The MR orderbook is larger at 18%, with 
 
 As such, the balance between the size of the addressable market and the employable fleet may be the driving factor of the Handy market in the years to come. Although hard to envisage, if Russia eventually reintegrates into the mainstream oil markets, Handies could see some of their lost demand return.
 
-Total Handy volume CPP & DPP (kbd)
+*Chart: Total Handy volume CPP & DPP (kbd)*
 
-Subscribe to our newsletter and make sure you're first to get the latest research and reports, straight to your inbox.
+Chart data as embedded in the report:
+
+|  | Total |
+|---|---|
+| 2020 | 3591 |
+| 2021 | 3625 |
+| 2022 | 3406 |
+| 2023 | 3210 |
+| 2024 | 3078 |
+| 2025 | 2941 |
 
 ## Crude Oil
 
@@ -60,37 +69,37 @@ The USG VLCC market showed early signs of potential improvement after a couple f
 
 A strange week with swaps adding a little bit of a bump to an otherwise stable market. There are still good units around, and, with an influx expected from the States in the third decade Charterers, will have their pick. Some Owners are weighing up the relocation to the Med in the medium term, for now Cross North Sea sits at ws 130 but will likely have some testing into next week.
 
-Crude Tanker Spot Rates (WS)
+*Chart: Crude Tanker Spot Rates (WS) - Gibson daily assessments, kept in data/extracted/series/gibson_spot_chart_daily.csv*
 
 ## Clean Products
 
 ### East
 
-It's been a busy week for the LR2s with plenty of activity both on an off market, TC1 at 75 x ws 145 seems slightly undervalued given the activity and looks to positively tested early next week. West runs have had an inability to push up from $4-4.1m footing and looks to trade sideways for now.
+It’s been a busy week for the LR2s with plenty of activity both on an off market, TC1 at 75 x ws 145 seems slightly undervalued given the activity and looks to positively tested early next week. West runs have had an inability to push up from $4-4.1m footing and looks to trade sideways for now.
 
 LR1s on the whole have been quiet, however, with Owners being stubborn, rates have managed to hold. TC5 sits at the 55 x ws 170-175 level and Westbound holds flat at the $3.25m level via Cape, but, there will need to be more activity in the market next week for these levels to hold or progress higher.
 
-A busy week for the MR's here in the AG after last weeks drop in rates. Good cargo enquiry combined with a tightening list has seen rates trade flat for the best part of the week with TC17 at 35 x ws 235 & TC12 at 35 x ws170 for the most part. Fast-forward to Friday and we see little currently outstanding but with the list very tight on the front-end, both these routes have been able to push up a touch (2.5 points). Heading into next week, expect Charterers to try and hold off in an attempt to take some steam out and bring ballasters into play for the next window.
+A busy week for the MR’s here in the AG after last weeks drop in rates. Good cargo enquiry combined with a tightening list has seen rates trade flat for the best part of the week with TC17 at 35 x ws 235 & TC12 at 35 x ws170 for the most part. Fast-forward to Friday and we see little currently outstanding but with the list very tight on the front-end, both these routes have been able to push up a touch (2.5 points). Heading into next week, expect Charterers to try and hold off in an attempt to take some steam out and bring ballasters into play for the next window.
 
 ### UK Continent
 
 A week passes where activity was condensed into the start and the end, but unfortunately the quiet middle really knocked the wind out of this market. Despite a good clear out, come Friday rates sit floored at 37 x ws 100 for TC2. Charterers left many Owners stewing for the majority and as our tonnage lists filled out slowly we saw a mixed bag of destinations quoted which all lead to the same end result for TA rates really. Fresh lists pulled on Monday will show if this activity is enough to get any momentum upwards going, but for now it continues to remain subdued.
 
-With pressure from the softening MR market, Handy Owners had to adjust their fixing ideas lower in order to stay competitive as XUKC dropped to 30 x ws140. Looking at the Handy tonnage list, there isn't much depth available up until 22-23 dates therefore the weekend break has come at a good time with Charterers hopeful for a few more firmer itineraries come Monday. That being said, MRs are still in play although the question remains if an MR really wants to stay short at current levels with most looking to exit the UKC, with TC2 trading at 37 x ws 100.
+With pressure from the softening MR market, Handy Owners had to adjust their fixing ideas lower in order to stay competitive as XUKC dropped to 30 x ws140. Looking at the Handy tonnage list, there isn’t much depth available up until 22-23 dates therefore the weekend break has come at a good time with Charterers hopeful for a few more firmer itineraries come Monday. That being said, MRs are still in play although the question remains if an MR really wants to stay short at current levels with most looking to exit the UKC, with TC2 trading at 37 x ws 100.
 
-### Mediterranean
+### Med
 
-What started as a fairly steady week for MRs in the Med has closed in obscurity. For the first half Owners and Charterers had accepted the 37 x ws125 Med-TA levels we had seen and we gradually saw inquiry match up to tonnage. However, with a lack of fresh tests at week's end and a few unorthodox routes such as Las Palmas-WAF working, we close the week around 37 x ws 110 in need of a fresh test. Tonnage remains balanced so if inquiry can continue to trickle through, it is assumed that we could see a stabilisation in rates, but at what level is unknown for now.
+What started as a fairly steady week for MRs in the Med has closed in obscurity. For the first half Owners and Charterers had accepted the 37 x ws125 Med-TA levels we had seen and we gradually saw inquiry match up to tonnage. However, with a lack of fresh tests at week’s end and a few unorthodox routes such as Las Palmas-WAF working, we close the week around 37 x ws 110 in need of a fresh test. Tonnage remains balanced so if inquiry can continue to trickle through, it is assumed that we could see a stabilisation in rates, but at what level is unknown for now.
 
 A soft week for Handies in the Med as a whole, as we saw rates fall from 30 x ws 165 down to ws 135 where we are now. The ultimate drivers behind this softening has been a lack of enquiry and availability of good tonnage. Additionally, with many in the industry taking vacations during this period, there is an element of slowness to the market. Owners will be hoping that after the weekend there is enough inquiry to work through to try to put some pressure on rates. However, we have seen Charterers reaching out to try to sustain floor levels.
 
-Clean Tanker Spot Rates (WS)
+*Chart: Clean Tanker Spot Rates (WS) - Gibson daily assessments, kept in data/extracted/series/gibson_spot_chart_daily.csv*
 
 ## Dirty Products
 
 ### Handy
 
-It's been an overall quiet week in the North for Handies with little to report out in the market. The week started with ideas at ws 240 off the back of a snug list off early dates. Unfortunately, enquiry struggled to surface as the week progressed, and modern spot vessels began to open up. As usual in the North, a couple of vessels were clipped away for o/p and MR enquiry which has trimmed the list slightly helping to relieve some of the negative pressure somewhat. However, come Monday we expect to see more itineraries firm up and options available to charterers likely seeing levels tested down below ws 240 on next done.
+It’s been an overall quiet week in the North for Handies with little to report out in the market. The week started with ideas at ws 240 off the back of a snug list off early dates. Unfortunately, enquiry struggled to surface as the week progressed, and modern spot vessels began to open up. As usual in the North, a couple of vessels were clipped away for o/p and MR enquiry which has trimmed the list slightly helping to relieve some of the negative pressure somewhat. However, come Monday we expect to see more itineraries firm up and options available to charterers likely seeing levels tested down below ws 240 on next done.
 
 The Mediterranean has seen a week of relative stability for the most part as summer trading dynamics were prominent this week. As charterers and owners alike enjoy holidays away, we saw range of fixing from ws 235-230 across the Med for the first half of the week until enquiry dried up towards the end. The list is beginning to get lengthy, and tonnage build up will be a concern for owners as we head into next week. We expect to see levels tested down into the ws 220s early next week.
 
@@ -102,39 +111,36 @@ MRs owners have seen cargo flow in the UKC as WMed and natural tonnage have foun
 
 TD21 has slowly ticked upward this week as fixing has clipped units from the list at a reasonable pace, but for now we feel 50 x ws 150 is the number.
 
-Dirty Product Tanker Spot Rates (WS)
+*Chart: Dirty Product Tanker Spot Rates (WS) - Gibson daily assessments, kept in data/extracted/series/gibson_spot_chart_daily.csv*
 
 ## Rates & Bunkers
 
-### Clean & Dirty Tanker Spot Market Developments - Spot Worldscale
+#### Clean and Dirty Tanker Spot Market Developments – Spot WS and $/day TCE (a)
 
-| Route | Category | Vessel | Description | WoW Change | Current | Previous | Last Month | FFA |
-|---|---|---|---|---|---|---|---|---|
-| TD3C | Dirty Tanker Spot | VLCC | VLCC AG-China | -1.0 | 56.0 | 57.0 | 49.0 | 54.0 |
-| TD20 | Dirty Tanker Spot | Suezmax | Suezmax WAF-UKC | -15.0 | 106.0 | 121.0 | 80.0 | 92.0 |
-| TD25 | Dirty Tanker Spot | Aframax | Aframax USG-UKC | -3.0 | 148.0 | 151.0 | 140.0 | 145.0 |
-| TC1 | Clean Tanker Spot | LR2 | LR2 AG-Japan | -9.0 | 144.0 | 153.0 | 111.0 | - |
-| TC18 | Clean Tanker Spot | MR | MR USG-Brazil | -62.0 | 176.0 | 238.0 | 176.0 | 185.0 |
-| TC5 | Clean Tanker Spot | LR1 | LR1 AG-Japan | -6.0 | 170.0 | 176.0 | 144.0 | 153.0 |
-| TC7 | Clean Tanker Spot | MR | MR Singapore-EC Aus | 5.0 | 189.0 | 184.0 | 202.0 | 186.0 |
-
-### Clean & Dirty Tanker Spot Market Developments - $/day TCE
-
-| Route | Category | Vessel | Description | WoW Change ($) | Current ($/day) | Previous ($/day) | Last Month ($/day) | FFA ($/day) |
-|---|---|---|---|---|---|---|---|---|
-| TD3C | Dirty Tanker Spot | VLCC | VLCC AG-China | - | 38750.0 | 38750.0 | 28500.0 | 31750.0 |
-| TD20 | Dirty Tanker Spot | Suezmax | Suezmax WAF-UKC | -9250.0 | 44750.0 | 54000.0 | 25750.0 | 33250.0 |
-| TD25 | Dirty Tanker Spot | Aframax | Aframax USG-UKC | -1000.0 | 35000.0 | 36000.0 | 30000.0 | 29500.0 |
-| TC1 | Clean Tanker Spot | LR2 | LR2 AG-Japan | -2750.0 | 34750.0 | 37500.0 | 21750.0 | - |
-| TC18 | Clean Tanker Spot | MR | MR USG-Brazil | -12000.0 | 21500.0 | 33500.0 | 21250.0 | 21250.0 |
-| TC5 | Clean Tanker Spot | LR1 | LR1 AG-Japan | -1500.0 | 30000.0 | 31500.0 | 22250.0 | 23500.0 |
-| TC7 | Clean Tanker Spot | MR | MR Singapore-EC Aus | 1000.0 | 21250.0 | 20250.0 | 22750.0 | 19750.0 |
-
-### Bunker Prices ($/tonne)
-
-| Port | Grade | WoW Change ($) | Current ($/t) | Previous ($/t) | Last Month ($/t) |
+|  | wk on wk change | Aug 14th | Aug 7th | Last Month* | FFA Q3 |
 |---|---|---|---|---|---|
-| Rotterdam | VLSFO | -2.0 | 467.0 | 469.0 | 521.0 |
-| Fujairah | VLSFO | -11.0 | 485.0 | 496.0 | 521.0 |
-| Singapore | VLSFO | -11.0 | 493.0 | 504.0 | 524.0 |
-| Rotterdam | LSMGO | -19.0 | 643.0 | 662.0 | 707.0 |
+| TD3C VLCC AG-China WS | -1 | 56 | 57 | 49 | 54 |
+| TD3C VLCC AG-China TCE $/day | 0 | 38,750 | 38,750 | 28,500 | 31,750 |
+| TD20 Suezmax WAF-UKC WS | -15 | 106 | 121 | 80 | 92 |
+| TD20 Suezmax WAF-UKC TCE $/day | -9,250 | 44,750 | 54,000 | 25,750 | 33,250 |
+| TD25 Aframax USG-UKC WS | -3 | 148 | 151 | 140 | 145 |
+| TD25 Aframax USG-UKC TCE $/day | -1,000 | 35,000 | 36,000 | 30,000 | 29,500 |
+| TC1 LR2 AG-Japan WS | -9 | 144 | 153 | 111 |  |
+| TC1 LR2 AG-Japan TCE $/day | -2,750 | 34,750 | 37,500 | 21,750 |  |
+| TC18 MR USG-Brazil WS | -62 | 176 | 238 | 176 | 185 |
+| TC18 MR USG-Brazil TCE $/day | -12,000 | 21,500 | 33,500 | 21,250 | 21,250 |
+| TC5 LR1 AG-Japan WS | -6 | 170 | 176 | 144 | 153 |
+| TC5 LR1 AG-Japan TCE $/day | -1,500 | 30,000 | 31,500 | 22,250 | 23,500 |
+| TC7 MR Singapore-EC Aus WS | 5 | 189 | 184 | 202 | 186 |
+| TC7 MR Singapore-EC Aus TCE $/day | 1,000 | 21,250 | 20,250 | 22,750 | 19,750 |
+
+(a) based on round voyage economics at ‘market’ speed, eco, non-scrubber basis
+
+#### Bunker Prices ($/tonne)
+
+|  | wk on wk change | Aug 14th | Aug 7th | Last Month* |
+|---|---|---|---|---|
+| Rotterdam VLSFO | -2 | 467 | 469 | 521 |
+| Fujairah VLSFO | -11 | 485 | 496 | 521 |
+| Singapore VLSFO | -11 | 493 | 504 | 524 |
+| Rotterdam LSMGO | -19 | 643 | 662 | 707 |

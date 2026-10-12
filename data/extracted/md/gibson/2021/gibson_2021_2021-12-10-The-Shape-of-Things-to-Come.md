@@ -17,41 +17,33 @@ tables_count: 18
 
 ## Market Editorial
 
-The world is changing rapidly around us. One thing that has significantly changed over the last two years is that the environment is much more at the forefront of people's conscience. The recent price spikes in oil and gas prices have also meant that alternative sources of fuel are now much more visible than they were. Discussions on methanol, ammonia and hydrogen are now firmly established.
+The world is changing rapidly around us. One thing that has significantly changed over the last two years is that the environment is much more at the forefront of people’s conscience. The recent price spikes in oil and gas prices have also meant that alternative sources of fuel are now much more visible than they were. Discussions on methanol, ammonia and hydrogen are now firmly established. All it has taken is a pandemic and a massive price spike to really get people thinking about future fuels. As a result, engine manufacturers are busy developing the necessary propulsion systems to enable these new fuels to be utilized as bunkers. Some vessel owners and charterers are keen to try new propulsion designs to reduce their overall impact on the environment, as well as reduce their future exposure when EEXI and CII are implemented. These new designed not only include alternative fuels, but utilise hybrid systems with the main propulsion systems and battery packs used in parallel. In addition, fuel cells are also increasingly being investigated; these could use a variety of alternative fuels, although to harness the required power to move a VLCC is still way off in the future.
 
-All it has taken is a pandemic and a massive price spike to really get people thinking about future fuels. As a result, engine manufacturers are busy developing the necessary propulsion systems to enable these new fuels to be utilized as bunkers. Some vessel owners and charterers are keen to try new propulsion designs to reduce their overall impact on the environment, as well as reduce their future exposure when EEXI and CII are implemented.
+LNG has long been the fuel of the future, with LNG carriers utilizing their cargoes for bunkers for decades, resulting in mature market knowledge of how to utilise the super cooled gas as a fuel. Gibson’s alternative fuel ship database highlights over 530 LNG and other fuelled vessels currently on order, ranging from tugs to Capesize bulkers. Of these vessels 20 are VLCCs. Recent news that the newbuilding LNG-fuelled VLCC Yuan Rui Yang (319 k dwt) has completed sea trails and has been bunkered with LNG highlights that LNG is coming to the largest sector of the tanker market. The vessel was ordered in 2017 and constructed at the Dalian Shipyard in China and has XDF propulsion system. It has two 3,500cbm Type C storage tanks and will consume around 60 tonnes per day in gas mode. This new tanker will join several Aframax tankers that are dual-fuel tankers. There are two LNG fuelled Suezmax tankers on order and 41 Aframax/LR2s. There are also around 40 LNG-ready tankers under construction, meaning as and when the market, charterer or owner decide to make the vessel fully LNG capable, the vessel can have the required machinery and equipment fitted. Overall, the current LNG-fuelled tanker newbuildings stands at 23% of the current total tanker orderbook. So, it would seem that there is still some way to go before LNG fuelled tankers become the dominant vessel type, but as a bunker fuel it is certainly being taken seriously.
 
-These new designed not only include alternative fuels, but utilise hybrid systems with the main propulsion systems and battery packs used in parallel. In addition, fuel cells are also increasingly being investigated; these could use a variety of alternative fuels, although to harness the required power to move a VLCC is still way off in the future. LNG has long been the fuel of the future, with LNG carriers utilizing their cargoes for bunkers for decades, resulting in mature market knowledge of how to utilise the super cooled gas as a fuel.
+However, LNG has only ever been seen as a bridging fuel, with no-one fully sure which way the market will lean in the future. Will it be a single fuel future? or will there be an array of fuels for different vessel types, depending on their cargo and trading patterns? One part of this future story has started to take shape. The Suiso Frontier , a purpose built liquid hydrogen carrier (LHC) is about to embark on its first voyage to load a cargo of hydrogen in Australia. The vessel has the ability to reliquefy the cargo back into the cargo hold. Although this vessel hasn’t been designed to use hydrogen boil-off in its engines, it is anticipated that subsequent vessels will be able to use their cargo as bunkers. So, it seems that in the medium-term there could be some interesting developments within the tanker propulsion sector.
 
-Gibson's alternative fuel ship database highlights over 530 LNG and other fuelled vessels currently on order, ranging from tugs to Capesize bulkers. Of these vessels 20 are VLCCs. Recent news that the newbuilding LNG-fuelled VLCC Yuan Rui Yang (319 k dwt) has completed sea trails and has been bunkered with LNG highlights that LNG is coming to the largest sector of the tanker market.
-
-The vessel was ordered in 2017 and constructed at the Dalian Shipyard in China and has XDF propulsion system. It has two 3,500cbm Type C storage tanks and will consume around 60 tonnes per day in gas mode. This new tanker will join several Aframax tankers that are dual- fuel tankers. There are two LNG fuelled Suezmax tankers on order and 41 Aframax/LR2s.
-
-There are also around 40 LNG-ready tankers under construction, meaning as and when the market, charterer or owner decide to make the vessel fully LNG capable, the vessel can have the required machinery and equipment fitted. Overall, the current LNG-fuelled tanker newbuildings stands at 23% of the current total tanker orderbook. So, it would seem that there is still some way to go before LNG fuelled tankers become the dominant vessel type, but as a bunker fuel it is certainly being taken seriously.
-
-However, LNG has only ever been seen as a bridging fuel, with no-one fully sure which way the market will lean in the future. Will it be a single fuel future? or will there be an array of fuels for different vessel types, depending on their cargo and trading patterns? One part of this future story has started to take shape.
-
-The Suiso Frontier , a purpose built liquid hydrogen carrier (LHC) is about to embark on its first voyage to load a cargo of hydrogen in Australia. The vessel has the ability to reliquefy the cargo back into the cargo hold. Although this vessel hasn't been designed to use hydrogen boil-off in its engines, it is anticipated that subsequent vessels will be able to use their cargo as bunkers.
-
-So, it seems that in the medium-term there could be some interesting developments within the tanker propulsion sector. Handy/MR LR1/Panamax LR2/Aframax VLCC
+Tanker Orderbook
 
 ## Crude Oil
 
 ### Middle East
 
-This week has been dominated by intra Chinese deals, which has pushed the fixture count up, while leaving plenty of spot independent Owners around. The deflated feel remains, and this has had a knock on effect on rates, which have further corrected downwards. Last done levels for an East voyage stand at 270,000mt x ws 38 for modern tonnage and a voyage West would demand a level around 280,000mt x ws 20 to the US Gulf. This area still remains the poor relation in the Suezmax market. The oversupply of tonnage has kept rates depressed and the earlier part of the week even saw rates further squeezed to 140,00mt x ws 30 for a Basrah to Europe run. It seems inevitable that going forward that Charterers will need to pay higher levels to entice Owners to fix from this area rather than just ballasting West. It's been another slow and steady week for Aframaxes. However, the tonnage list is thin on quality options and with an improving
-
-### Mediterranean
-
-market it wouldn't take a huge amount for rates to push back up. In the short term Owners will need to suffer more pain to make this happen. Rates are hovering at 80,000 x ws 95-100 for East discharge. As in other Western Suezmax markets this area has seen rates getting progressively higher as the week progressed. Bad weather and replacement cargoes has aided Owners in pushing for higher levels. Libya to Ningbo is now paying in excess of $3.1 million and the only good news for Charterers is that this now brings Eastern ballasters into play. The next Black Sea to Europe fixtures will be concluded close to ws 85 for European discharge. A busy week for Med Aframaxes and the excess tonnage was finally absorbed. The outlook is now a much firmer one, with rates having bottomed at ws 100 for a Ceyhan loader and subsequently rebounding very quickly. Firm, safe tonnage is in thin supply and replacement cargoes will be met with more optimistic Owners. Although some have been offering in the ws 120s and not achieving much joy, the lay of the land is warmer at the close and ships tied up by bad weather in the Black Sea will not be released in time to help Charterers in the next window.
+This week has been dominated by intra Chinese deals, which has pushed the fixture count up, while leaving plenty of spot independent Owners around. The deflated feel remains, and this has had a knock on effect on rates, which have further corrected downwards. Last done levels for an East voyage stand at 270,000mt x ws 38 for modern tonnage and a voyage West would demand a level around 280,000mt x ws 20 to the US Gulf. This area still remains the poor relation in the Suezmax market. The oversupply of tonnage has kept rates depressed and the earlier part of the week even saw rates further squeezed to 140,00mt x ws 30 for a Basrah to Europe run. It seems inevitable that going forward that Charterers will need to pay higher levels to entice Owners to fix from this area rather than just ballasting West. It’s been another slow and steady week for Aframaxes. However, the tonnage list is thin on quality options and with an improving Mediterranean market it wouldn’t take a huge amount for rates to push back up. In the short term Owners will need to suffer more pain to make this happen. Rates are hovering at 80,000 x ws 95-100 for East discharge.
 
 ### West Africa
 
-A week of success for Suezmax Owners, with each fixture paying more than the previous fixture. This area has not been the main Suezmax driver and Owners have benefitted from all Atlantic markets being firm and competing for available tonnage. By mid-week 130,000mt x ws 77.5 had been paid to Europe. Levels to the
+A week of success for Suezmax Owners, with each fixture paying more than the previous fixture. This area has not been the main Suezmax driver and Owners have benefitted from all Atlantic markets being firm and competing for available tonnage. By mid-week 130,000mt x ws 77.5 had been paid to Europe. Levels to the East currently stand around 130,000mt x ws 85. Rates have not yet topped but Owners need to be wary that at the current levels, they are asking for, Charterers will switch their attention to VLCC tonnage, where workable. A trickle of activity in West Africa with Owners facing soft markets both in AGulf and US Gulf. The only hope will come from the firmer Suezmaxes both in WAF and US Gulf, which may gift VLCC Owners a few extra cargoes. This so far has not been seen and rates in WAF remain at 260,000mt x ws 39 to the Far East.
+
+### Mediterranean
+
+As in other Western Suezmax markets this area has seen rates getting progressively higher as the week progressed. Bad weather and replacement cargoes has aided Owners in pushing for higher levels. Libya to Ningbo is now paying in excess of $3.1 million and the only good news for Charterers is that this now brings Eastern ballasters into play. The next Black Sea to Europe fixtures will be concluded close to ws 85 for European discharge.
+
+A busy week for Med Aframaxes and the excess tonnage was finally absorbed. The outlook is now a much firmer one, with rates having bottomed at ws 100 for a Ceyhan loader and subsequently rebounding very quickly. Firm, safe tonnage is in thin supply and replacement cargoes will be met with more optimistic Owners. Although some have been offering in the ws 120s and not achieving much joy, the lay of the land is warmer at the close and ships tied up by bad weather in the Black Sea will not be released in time to help Charterers in the next window.
 
 ### US Gulf/Latin America
 
-Aframax rates surged in the early part of the week due to fog delays. Upcoast voyages achieved rates of 70,000mt x ws 165 and by mid-week rates peaked and have since slightly softened. Transatlantic voyages have been more steady and the week ends with rates close to 70,000mt x 137.5. VLCC rates corrected downwards to align TCE returns with WAF and Brazil. Charterers have been able to pick vessel off without too much of a fight, which has helped thin the list out however more activity is needed if Owners are to fight back and get further gains on last done. For now, the fixing level remains at $4.65 million for US Gulf/South Korea run.
+Aframax rates surged in the early part of the week due to fog delays. Upcoast voyages achieved rates of 70,000mt x ws 165 and by mid-week rates peaked and have since slightly softened. Transatlantic voyages have been more steady and the week ends with rates close to 70,000mt x ws 137.5. VLCC rates corrected downwards to align TCE returns with WAF and Brazil. Charterers have been able to pick vessel off without too much of a fight, which has helped thin the list out however more activity is needed if Owners are to fight back and get further gains on last done. For now, the fixing level remains at $4.65 million for US Gulf/South Korea run.
 
 ### North Sea
 
@@ -61,15 +53,25 @@ A week which ran out of steam before it really got going in the North. Rates sta
 
 ### East
 
-The LR2 segment begins to bubble. The perceived bottom of the market is in the past now; 75kt naphtha AGulf/Japan at ws 105 was repeated several times but likely unavailable going forward. Last done AGulf/UKCont is $2.1 million but next done is more important here, 75 x ws 110 and $2.2 million is our assessment this side of the weekend. The 25-30 window should be busy, so watch out for a busy start to the new week. The LR1s have had a good push in terms of market sentiment and market rates. TC5 has pushed to 55 x ws 137.5 and still looks firm. Important to note is a real lack of non-gasoline history ships on the list, so traders may be a little squeezed for possible homes in the Far East. Westbound trades circa $1.8 million ex AGulf (basis UKCont). It is the transatlantic differentials which are a sticking point: last done at $300k, whereas Owners are pushing to stick at $400k. The list is relatively thin, Owners will push their ideas a little harder in the new week. The MRs have had another strong week. TC17 is an important benchmark, given that it is also a paper traded route. 35 x ws 205 is last done, but the age-old argument of differentials down to South Africa will remain the key discussion on this run. Latin America delivery tenders have kept sentiment pumping, $1.45 million is last fixed to Argentina, but expect a fresh round of enquiry in the new week. TC12 has been fixed at ws 147.5 and there is further scope for Owners to drive sentiment in the new week. Shorthaul will remain in the low $200s; some Owners will value a short run to re-open in what they feel is a stronger market in a week or two weeks' time.
+The LR2 segment begins to bubble. The perceived bottom of the market is in the past now; 75kt naphtha AGulf/Japan at ws 105 was repeated several times but likely unavailable going forward. Last done AGulf/UKCont is $2.1 million but next done is more important here, 75 x ws 110 and $2.2 million is our assessment this side of the weekend. The 25-30 window should be busy, so watch out for a busy start to the new week.
+
+The LR1s have had a good push in terms of market sentiment and market rates. TC5 has pushed to 55 x ws 137.5 and still looks firm. Important to note is a real lack of non-gasoline history ships on the list, so traders may be a little squeezed for possible homes in the Far East. Westbound trades circa $1.8 million ex AGulf (basis UKCont). It is the transatlantic differentials which are a sticking point: last done at $300k, whereas Owners are pushing to stick at $400k. The list is relatively thin, Owners will push their ideas a little harder in the new week.
+
+The MRs have had another strong week. TC17 is an important benchmark, given that it is also a paper traded route. 35 x ws 205 is last done, but the age-old argument of differentials down to South Africa will remain the key discussion on this run. Latin America delivery tenders have kept sentiment pumping, $1.45 million is last fixed to Argentina, but expect a fresh round of enquiry in the new week. TC12 has been fixed at ws 147.5 and there is further scope for Owners to drive sentiment in the new week. Shorthaul will remain in the low $200s; some Owners will value a short run to re-open in what they feel is a stronger market in a week or two weeks’ time.
 
 ### Mediterranean
 
-It was no surprise to see improvements this week, with a combination of factors resulting in rates firming. With both the UKCont and DPP markets being positive in the last few weeks, this coupled with an awful weather across the Med meant Owners were on the front foot from the off. What was surprising, however, is the sheer volume of cargoes that entered the market. At the time of writing, we see rates in the 300s, those with firm itineraries are driving the sentiment. 30 x ws 320 mf 5 is the going rate X-Med currently, with Black Sea similar; but, with plenty of cargoes outstanding we could see rates north of this. System cargoes that need to be moved should see these heights maintained, with other Charterers aiming to withdraw or postpone until next week if possible. With weather easing next week and ships from afar looking to ballast to this region in search of a slice of this action, we should have a more balanced list; however, Owners will be stubborn and attempt to keep rates at these heights for as long as possible given the year we've had. Positive outlook for rest of December. It's been an active week for the MRs plying their trade in the Mediterranean, as we see rates firm from start to finish. We began the week with transatlantic at the 37 x ws 165 mark, with WAF tracking 10 points above at 37 x ws 175. Yet, after a huge influx of cargoes on both Handy and MR size combined with bad weather causing uncertain itineraries, rates have jumped around 30 points. At the time of writing, 37 x ws 195 is on subs for a transatlantic run and, with a plethora of cargoes still outstanding, expect owners to try and push for more before the week is out. Market positive as we near the weekend.
+It was no surprise to see improvements this week, with a combination of factors resulting in rates firming. With both the UKCont and DPP markets being positive in the last few weeks, this coupled with an awful weather across the Med meant Owners were on the front foot from the off. What was surprising, however, is the sheer volume of cargoes that entered the market. At the time of writing, we see rates in the 300s, those with firm itineraries are driving the sentiment. 30 x ws 320 mf 5 is the going rate X-Med currently, with Black Sea similar; but, with plenty of cargoes outstanding we could see rates north of this. System cargoes that need to be moved should see these heights maintained, with other Charterers aiming to withdraw or postpone until next week if possible. With weather easing next week and ships from afar looking to ballast to this region in search of a slice of this action, we should have a more balanced list; however, Owners will be stubborn and attempt to keep rates at these heights for as long as possible given the year we’ve had. Positive outlook for rest of December.
+
+It’s been an active week for the MRs plying their trade in the Mediterranean, as we see rates firm from start to finish.
+
+We began the week with transatlantic at the 37 x ws 165 mark, with WAF tracking 10 points above at 37 x ws 175. Yet, after a huge influx of cargoes on both Handy and MR size combined with bad weather causing uncertain itineraries, rates have jumped around 30 points. At the time of writing, 37 x ws 195 is on subs for a transatlantic run and, with a plethora of cargoes still outstanding, expect owners to try and push for more before the week is out. Market positive as we near the weekend.
 
 ### UK Continent
 
-A good week for Owners, with the market looking likely to improve heading into next week. There has been a multitude of factors that supported MRs in NWE as we head into the end of the year, with Flexies/Handies/MRs/LRs tight across the board. For the first time this year Charterers have no real get outs, especially off prompt dates. The usual lengthy tonnage list has really shortened over the last 2 weeks, with Med drawing MRs ex WAF and the US Gulf market drawing most of the USAC ships. The market is now dependent on laden tonnage in the next window of 15-25 (1 MR in ballast ex USAC for ARA currently). We also have ICE appearing earlier than normal in the Baltic and bad weather, which could cause delays. Last done transatlantic (at the time of writing) is 37 x ws 180 but next done should be more. All in all, it's a positive market, with TC2 likely to be pushed nearer 37 x ws 190 when next tested. Once fresh Monday morning tonnage lists were pulled, it revealed that the front end still lacked Handy candidates, which has kept Owners bullish throughout. There has been a lot of under the radar fixing ex Baltic via COAs, as many have been able to fix away cargoes quietly after TC9 firmed to 30 x ws 210. A point to make is that towards the end of the week, volumes have slowed a touch as a few LRs have been fixed from the Baltic, which has gobbled up some Handy stems. XUKCont also saw good volumes this week as freight closes around the 30 x ws 200-205 mark. Owners are optimistic here.
+A good week for Owners, with the market looking likely to improve heading into next week. There has been a multitude of factors that supported MRs in NWE as we head into the end of the year, with Flexies/Handies/MRs/LRs tight across the board. For the first time this year Charterers have no real get outs, especially off prompt dates. The usual lengthy tonnage list has really shortened over the last 2 weeks, with Med drawing MRs ex WAF and the US Gulf market drawing most of the USAC ships. The market is now dependent on laden tonnage in the next window of 15-25 (1 MR in ballast ex USAC for ARA currently). We also have ICE appearing earlier than normal in the Baltic and bad weather, which could cause delays. Last done transatlantic (at the time of writing) is 37 x ws 180 but next done should be more. All in all, it’s a positive market, with TC2 likely to be pushed nearer 37 x ws 190 when next tested.
+
+Once fresh Monday morning tonnage lists were pulled, it revealed that the front end still lacked Handy candidates, which has kept Owners bullish throughout. There has been a lot of under the radar fixing ex Baltic via COAs, as many have been able to fix away cargoes quietly after TC9 firmed to 30 x ws 210. A point to make is that towards the end of the week, volumes have slowed a touch as a few LRs have been fixed from the Baltic, which has gobbled up some Handy stems. XUKCont also saw good volumes this week as freight closes around the 30 x ws 200-205 mark. Owners are optimistic here.
 
 ## Dirty Products
 
@@ -89,43 +91,45 @@ Local moves have again made up the bulk of the week's activity, however, this do
 
 ### Dirty Tanker Spot Market Developments - Spot Worldscale
 
-| Route | Vessel | Description | WoW Change | Current | Previous | Last Month | FFA |
+| Route | Vessel | Description | wk on wk change | Dec 9th | Dec 2nd | Last Month* | FFA Q4 |
 |---|---|---|---|---|---|---|---|
-| TD3C | VLCC | AG-China | -2.0 | 38.0 | 40.0 | 43.0 | 41.0 |
-| TD20 | Suezmax | WAF-UKC | 18.0 | 76.0 | 58.0 | 71.0 | 70.0 |
-| TD7 | Aframax | N.Sea-UKC | 4.0 | 101.0 | 97.0 | 130.0 | 113.0 |
+| TD3C | VLCC | AG-China | -2 | 38 | 40 | 43 | 41 |
+| TD20 | Suezmax | WAF-UKC | +18 | 76 | 58 | 71 | 70 |
+| TD7 | Aframax | N.Sea-UKC | +4 | 101 | 97 | 130 | 113 |
 
-### Dirty Tanker Spot Market Developments - $/day TCE
+### Dirty Tanker Spot Market Developments - $/day tce (a)
 
-| Route | Vessel | Description | WoW Change ($) | Current ($/day) | Previous ($/day) | Last Month ($/day) | FFA ($/day) |
+| Route | Vessel | Description | wk on wk change | Dec 9th | Dec 2nd | Last Month* | FFA Q4 |
 |---|---|---|---|---|---|---|---|
-| TD3C | VLCC | AG-China | -2500.0 | -750.0 | 1750.0 | 3000.0 | 3000.0 |
-| TD20 | Suezmax | WAF-UKC | 8500.0 | 12750.0 | 4250.0 | 8250.0 | 9500.0 |
-| TD7 | Aframax | N.Sea-UKC | 2000.0 | 2250.0 | 250.0 | 18500.0 | 9750.0 |
+| TD3C | VLCC | AG-China | -2500 | -750 | 1,750 | 3,000 | 3,000 |
+| TD20 | Suezmax | WAF-UKC | +8500 | 12,750 | 4,250 | 8,250 | 9,500 |
+| TD7 | Aframax | N.Sea-UKC | +2000 | 2,250 | 250 | 18,500 | 9,750 |
 
 ### Clean Tanker Spot Market Developments - Spot Worldscale
 
-| Route | Vessel | Description | WoW Change | Current | Previous | Last Month | FFA |
+| Route | Vessel | Description | wk on wk change | Dec 9th | Dec 2nd | Last Month* | FFA Q4 |
 |---|---|---|---|---|---|---|---|
-| TC1 | LR2 | AG-Japan | -2.0 | 106.0 | 108.0 | 115.0 | - |
-| TC2 | MR - west | UKC-USAC | 16.0 | 182.0 | 166.0 | 126.0 | 140.0 |
-| TC5 | LR1 | AG-Japan | 14.0 | 130.0 | 116.0 | 119.0 | 120.0 |
-| TC7 | MR - east | Singapore-EC Aus | -3.0 | 155.0 | 158.0 | 164.0 | 169.0 |
+| TC1 | LR2 | AG-Japan | -2 | 106 | 108 | 115 |  |
+| TC2 | MR - west | UKC-USAC | +16 | 182 | 166 | 126 | 140 |
+| TC5 | LR1 | AG-Japan | +14 | 130 | 116 | 119 | 120 |
+| TC7 | MR - east | Singapore-EC Aus | -3 | 155 | 158 | 164 | 169 |
 
-### Clean Tanker Spot Market Developments - $/day TCE
+### Clean Tanker Spot Market Developments - $/day tce (a)
 
-| Route | Vessel | Description | WoW Change ($) | Current ($/day) | Previous ($/day) | Last Month ($/day) | FFA ($/day) |
+| Route | Vessel | Description | wk on wk change | Dec 9th | Dec 2nd | Last Month* | FFA Q4 |
 |---|---|---|---|---|---|---|---|
-| TC1 | LR2 | AG-Japan | -750.0 | 8250.0 | 9000.0 | 10000.0 | - |
-| TC2 | MR - west | UKC-USAC | 2000.0 | 12250.0 | 10250.0 | 2000.0 | 5250.0 |
-| TC5 | LR1 | AG-Japan | 3250.0 | 10000.0 | 6750.0 | 6500.0 | 7500.0 |
-| TC7 | MR - east | Singapore-EC Aus | -500.0 | 5750.0 | 6250.0 | 6250.0 | 7750.0 |
+| TC1 | LR2 | AG-Japan | -750 | 8,250 | 9,000 | 10,000 |  |
+| TC2 | MR - west | UKC-USAC | +2000 | 12,250 | 10,250 | 2,000 | 5,250 |
+| TC5 | LR1 | AG-Japan | +3250 | 10,000 | 6,750 | 6,500 | 7,500 |
+| TC7 | MR - east | Singapore-EC Aus | -500 | 5,750 | 6,250 | 6,250 | 7,750 |
 
-### ClearView Bunker Prices ($/tonne)
+### Bunker Prices ($/tonne)
 
-| Port | Grade | WoW Change ($) | Current ($/t) | Previous ($/t) | Last Month ($/t) |
-|---|---|---|---|---|---|
-| Rotterdam | VLSFO | 17.0 | 540.0 | 523.0 | 575.0 |
-| Fujairah | VLSFO | 14.0 | 595.0 | 581.0 | 634.0 |
-| Singapore | VLSFO | 2.0 | 600.0 | 598.0 | 629.0 |
-| Rotterdam | LSMGO | 36.0 | 615.0 | 579.0 | 678.0 |
+| Bunker price | wk on wk change | Dec 9th | Dec 2nd | Last Month* |
+|---|---|---|---|---|
+| ClearView Bunker Price (Rotterdam VLSFO) | +17 | 540 | 523 | 575 |
+| ClearView Bunker Price (Fujairah VLSFO) | +14 | 595 | 581 | 634 |
+| ClearView Bunker Price (Singapore VLSFO) | +2 | 600 | 598 | 629 |
+| ClearView Bunker Price (Rotterdam LSMGO) | +36 | 615 | 579 | 678 |
+
+*(a) based on round voyage economics at 'market' speed*

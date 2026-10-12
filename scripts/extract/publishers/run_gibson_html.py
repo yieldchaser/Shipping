@@ -34,6 +34,10 @@ from pathlib import Path
 from datetime import datetime
 from bs4 import BeautifulSoup
 import pandas as pd
+import sys
+
+sys.path.insert(0, str(Path(__file__).resolve().parents[2] / "md_cleanup"))
+import gibson_html_rebuild  # noqa: E402  faithful DOM renderer for the MD body + daily chart series
 
 REPO_ROOT = Path(__file__).resolve().parent.parent.parent.parent
 CORPUS_HTML_DIR = REPO_ROOT / "corpus" / "01-brokers" / "gibson" / "html"
@@ -41,6 +45,7 @@ OUTPUT_MD_DIR = REPO_ROOT / "data" / "extracted" / "md" / "gibson"
 SERIES_DIR = REPO_ROOT / "data" / "extracted" / "series"
 CATALOG_PATH = REPO_ROOT / "data" / "clarksons" / "gibson_all_reports_catalog.json"
 
+DAILY_CHART_POINTS = {}  # (chart, route, date) -> (ws, report_date), from the recurring spot-rate charts
 SPOT_CSV_PATH = SERIES_DIR / "gibson_tanker_spot_series.csv"
 BUNKER_CSV_PATH = SERIES_DIR / "gibson_bunker_prices_series.csv"
 EXCEL_PATH = SERIES_DIR / "gibson_master_tanker_series.xlsx"
@@ -181,6 +186,9 @@ def parse_html_report(html: str, iso_date: str, slug: str, url: str):
         if not rows:
             continue
         hdr = [clean_text(c.get_text()) for c in rows[0].find_all(['th', 'td'])]
+        # Only the two rate tables count; S&P, summary and newbuilding tables also mention Suezmax/VLSFO.
+        head_el = tab.find_previous(['h2', 'h3', 'h4'])
+        head_txt = clean_text(head_el.get_text()) if head_el else ""
         
         # Determine FFA column
         ffa_period = "FFA"
@@ -190,13 +198,14 @@ def parse_html_report(html: str, iso_date: str, slug: str, url: str):
                 ffa_period = m_q.group(1)
                 break
                 
-        is_spot_table = any('TD3C' in clean_text(r.get_text()) or 'Suezmax' in clean_text(r.get_text()) for r in rows)
-        is_bunker_table = any('VLSFO' in clean_text(r.get_text()) or 'LSMGO' in clean_text(r.get_text()) for r in rows)
+        head_key = re.sub(r'\s', '', head_txt).lower()  # one edition prints 'Bunker Price s'
+        is_spot_table = 'spotmarketdevelopments' in head_key
+        is_bunker_table = 'bunkerprices' in head_key
         
         if is_spot_table:
-            for r in rows[1:]:
+            for r in rows:
                 cells = [clean_text(c.get_text()) for c in r.find_all(['th', 'td'])]
-                if not cells or len(cells) < 4:
+                if not cells or len(cells) < 4 or not re.match(r'^(TD|TC)\d', cells[0]):
                     continue
                 row_label = cells[0]
                 chg = cells[1] if len(cells) > 1 else ""
@@ -268,9 +277,9 @@ def parse_html_report(html: str, iso_date: str, slug: str, url: str):
                 })
                 
         elif is_bunker_table:
-            for r in rows[1:]:
+            for r in rows:
                 cells = [clean_text(c.get_text()) for c in r.find_all(['th', 'td'])]
-                if not cells or len(cells) < 4:
+                if not cells or len(cells) < 4 or not re.search(r'VLSFO|LSMGO|MGO|HSFO', cells[0]):
                     continue
                 port_grade = cells[0]
                 chg = cells[1] if len(cells) > 1 else ""
@@ -354,56 +363,10 @@ def parse_html_report(html: str, iso_date: str, slug: str, url: str):
         f"**Weekly Tanker Market Report | Week {report_week} ({iso_date})**",
         "",
         "## Feature Story",
-        ""
+        "",
     ]
-    
-    for p in editorial_paragraphs:
-        md_lines.append(p)
-        md_lines.append("")
-        
-    for maj in ['Crude Oil', 'Clean Products', 'Dirty Products']:
-        if maj in sections and sections[maj]:
-            md_lines.append(f"## {maj}")
-            md_lines.append("")
-            for sub, paras in sections[maj].items():
-                md_lines.append(f"### {sub}")
-                md_lines.append("")
-                for p in paras:
-                    md_lines.append(p)
-                    md_lines.append("")
-                    
-    md_lines.append("## Rates & Bunkers")
-    md_lines.append("")
-    
-    d_ws = [r for r in spot_rows if r['market_type'] == 'Spot Worldscale']
-    if d_ws:
-        md_lines.append("### Clean & Dirty Tanker Spot Market Developments - Spot Worldscale")
-        md_lines.append("")
-        md_lines.append("| Route | Category | Vessel | Description | WoW Change | Current | Previous | Last Month | FFA |")
-        md_lines.append("|---|---|---|---|---|---|---|---|---|")
-        for r in d_ws:
-            md_lines.append(f"| {r['route_code']} | {r['category']} | {r['vessel_class']} | {r['route_description']} | {r['change_wow'] or '-'} | {r['rate_current'] or '-'} | {r['rate_prev'] or '-'} | {r['rate_last_month'] or '-'} | {r['ffa_value'] or '-'} |")
-        md_lines.append("")
-        
-    d_tce = [r for r in spot_rows if r['market_type'] == '$/day TCE']
-    if d_tce:
-        md_lines.append("### Clean & Dirty Tanker Spot Market Developments - $/day TCE")
-        md_lines.append("")
-        md_lines.append("| Route | Category | Vessel | Description | WoW Change ($) | Current ($/day) | Previous ($/day) | Last Month ($/day) | FFA ($/day) |")
-        md_lines.append("|---|---|---|---|---|---|---|---|---|")
-        for r in d_tce:
-            md_lines.append(f"| {r['route_code']} | {r['category']} | {r['vessel_class']} | {r['route_description']} | {r['change_wow'] or '-'} | {r['rate_current'] or '-'} | {r['rate_prev'] or '-'} | {r['rate_last_month'] or '-'} | {r['ffa_value'] or '-'} |")
-        md_lines.append("")
-        
-    if bunker_rows:
-        md_lines.append("### Bunker Prices ($/tonne)")
-        md_lines.append("")
-        md_lines.append("| Port | Grade | WoW Change ($) | Current ($/t) | Previous ($/t) | Last Month ($/t) |")
-        md_lines.append("|---|---|---|---|---|---|")
-        for r in bunker_rows:
-            md_lines.append(f"| {r['port']} | {r['grade']} | {r['change_wow'] or '-'} | {r['price_current'] or '-'} | {r['price_prev'] or '-'} | {r['price_last_month'] or '-'} |")
-        md_lines.append("")
-        
+    md_lines.append(gibson_html_rebuild.rebuild(html, title, DAILY_CHART_POINTS, iso_date))
+
     md_content = "\n".join(md_lines)
     
     tables_sidecar = {
@@ -486,7 +449,7 @@ def run_gibson_html_pipeline(limit=None):
         df_old = pd.read_csv(SPOT_CSV_PATH)
         df_new = pd.DataFrame(all_new_spot)
         df_all = pd.concat([df_old, df_new], ignore_index=True)
-        df_all = df_all.drop_duplicates(subset=['issue_date', 'category', 'market_type', 'route_code'])
+        df_all = df_all.drop_duplicates(subset=['issue_date', 'category', 'market_type', 'route_code'], keep='last')
         df_all = df_all.sort_values(by=['issue_date', 'category', 'market_type', 'route_code'])
         df_all.to_csv(SPOT_CSV_PATH, index=False, encoding="utf-8")
         print(f"Updated: {SPOT_CSV_PATH} (Now {len(df_all)} total rows)")
@@ -495,11 +458,15 @@ def run_gibson_html_pipeline(limit=None):
         df_old_b = pd.read_csv(BUNKER_CSV_PATH)
         df_new_b = pd.DataFrame(all_new_bunker)
         df_all_b = pd.concat([df_old_b, df_new_b], ignore_index=True)
-        df_all_b = df_all_b.drop_duplicates(subset=['issue_date', 'port', 'grade'])
+        df_all_b = df_all_b.drop_duplicates(subset=['issue_date', 'port', 'grade'], keep='last')
         df_all_b = df_all_b.sort_values(by=['issue_date', 'port', 'grade'])
         df_all_b.to_csv(BUNKER_CSV_PATH, index=False, encoding="utf-8")
         print(f"Updated: {BUNKER_CSV_PATH} (Now {len(df_all_b)} total rows)")
         
+    if DAILY_CHART_POINTS:
+        gibson_html_rebuild.write_series(DAILY_CHART_POINTS)
+        print(f"Updated: {gibson_html_rebuild.SERIES} ({len(DAILY_CHART_POINTS)} chart points this run)")
+
     # Re-generate Master Excel Workbook when new records were processed or workbook is missing
     if (all_new_spot or all_new_bunker or not EXCEL_PATH.exists()) and SPOT_CSV_PATH.exists() and BUNKER_CSV_PATH.exists():
         df_s = pd.read_csv(SPOT_CSV_PATH)

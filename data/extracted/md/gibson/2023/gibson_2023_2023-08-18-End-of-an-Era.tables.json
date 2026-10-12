@@ -235,10 +235,10 @@
       "report_week": 33,
       "port": "Rotterdam",
       "grade": "VLSFO",
-      "change_wow": 589.0,
-      "price_current": 615.0,
-      "price_prev": 547.0,
-      "price_last_month": null,
+      "change_wow": -26.0,
+      "price_current": 589.0,
+      "price_prev": 615.0,
+      "price_last_month": 547.0,
       "source_file": "corpus/01-brokers/gibson/2023/gibson_2023_2023-08-18-End-of-an-Era.pdf"
     },
     {
@@ -257,10 +257,10 @@
       "report_week": 33,
       "port": "Singapore",
       "grade": "VLSFO",
-      "change_wow": 639.0,
-      "price_current": 631.0,
-      "price_prev": 570.0,
-      "price_last_month": null,
+      "change_wow": 8.0,
+      "price_current": 639.0,
+      "price_prev": 631.0,
+      "price_last_month": 570.0,
       "source_file": "corpus/01-brokers/gibson/2023/gibson_2023_2023-08-18-End-of-an-Era.pdf"
     },
     {

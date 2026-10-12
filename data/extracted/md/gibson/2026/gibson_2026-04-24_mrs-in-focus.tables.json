@@ -8,6 +8,22 @@
       "issue_date": "2026-04-24",
       "report_week": 17,
       "category": "Dirty Tanker Spot",
+      "market_type": "Spot Worldscale",
+      "route_code": "TD3C",
+      "vessel_class": "VLCC",
+      "route_description": "VLCC AG-China",
+      "change_wow": -8.0,
+      "rate_current": 459.0,
+      "rate_prev": 467.0,
+      "rate_last_month": 366.0,
+      "ffa_value": 378.0,
+      "ffa_period": "FFA",
+      "source_file": "corpus/01-brokers/gibson/html/2026/2026-04-24_mrs-in-focus.html"
+    },
+    {
+      "issue_date": "2026-04-24",
+      "report_week": 17,
+      "category": "Dirty Tanker Spot",
       "market_type": "$/day TCE",
       "route_code": "TD3C",
       "vessel_class": "VLCC",
@@ -214,6 +230,17 @@
     }
   ],
   "bunker_prices": [
+    {
+      "issue_date": "2026-04-24",
+      "report_week": 17,
+      "port": "Rotterdam",
+      "grade": "VLSFO",
+      "change_wow": 39.0,
+      "price_current": 684.0,
+      "price_prev": 645.0,
+      "price_last_month": 698.0,
+      "source_file": "corpus/01-brokers/gibson/html/2026/2026-04-24_mrs-in-focus.html"
+    },
     {
       "issue_date": "2026-04-24",
       "report_week": 17,

@@ -20,43 +20,78 @@ charts_count: 4
 
 Almost every year since 2020 has been a rollercoaster ride, and the first six months of 2025 were no different with a wide range of factors influencing the tanker markets. The return of President Trump has undoubtedly been the catalyst for much, but not all the volatility and uncertainty. Changes are awash from geopolitics, international relations, trade, conflict, regulation, and decarbonisation among others, with the outlook arguably as uncertain as it has been at any point in the past 5 years. In this report we recap on some of the key topics and developments so far this year.
 
+All about the US
+
 The second term of President Trump and US foreign policy is undoubtedly the biggest headline of the year. From sanctions to trade wars, to actual wars. However, the outgoing Biden administration had one last gift for the tanker market, sanctioning 156 mostly Russian trading tankers. Around the same time Shandong Port Group announced a ban on OFAC sanctioned ships calling at its ports. Whilst the impact in China was more muted, the sanctions temporarily forced Indian refiners to seek alternative cargoes from West Africa, the Americas and Middle East which boosted demand for VLCCs and Suezmaxes. Although the rally was relatively short lived as Russian supply chains adapted, it set the tone for a volatile 2025.
 
-As the Biden Administration bowed out and Trump took the stage, the initial weeks of his presidency had limited implications for tankers despite endless executive orders. With tariffs the primary focus, and energy trade largely being exempted, the initial direct impact of Trump's presidency was ultimately limited, aside from creating chaos and uncertainty following the initial announcements as traders sought to trade around the proposed rules.
+As the Biden Administration bowed out and Trump took the stage, the initial weeks of his presidency had limited implications for tankers despite endless executive orders. With tariffs the primary focus, and energy trade largely being exempted, the initial direct impact of Trump’s presidency was ultimately limited, aside from creating chaos and uncertainty following the initial announcements as traders sought to trade around the proposed rules.
 
-Trump moved fairly swiftly to target Venezuelan exports, announcing that export licenses would expire in May. Iran soon found itself a renewed target, with the US announcing "maximum pressure" on the Islamic Republic, with fresh sanctions being issued weekly, and sometimes daily. For the first time, Chinese refineries were sanctioned, initially sending shockwaves through the market.
+Trump moved fairly swiftly to target Venezuelan exports, announcing that export licenses would expire in May. Iran soon found itself a renewed target, with the US announcing “maximum pressure” on the Islamic Republic, with fresh sanctions being issued weekly, and sometimes daily. For the first time, Chinese refineries were sanctioned, initially sending shockwaves through the market.
 
-Before reaching March, the US sent another shockwave through the market as the US Trade Representative (USTR) announced the results of its investigation into Chinese shipbuilding and maritime practices. The USTR concluded that China had engaged in unfair practices and announced aggressive measures to address the perceived unfairness. With the proposed measures potentially leading to multimillion dollar fees for Chinese linked ships in US ports, the timecharter markets stagnated as charterers backed away from tonnage, whilst owners immune to the proposal were emboldened. Ultimately the measures were heavily diluted in April, and not due to be implemented until October. Various other protectionist measures have been proposed, such as the US Ships Act which also seeks to revitalise US shipbuilding through taxation of ships owned/operated by "foreign entities of concern".
+Before reaching March, the US sent another shockwave through the market as the US Trade Representative (USTR) announced the results of its investigation into Chinese shipbuilding and maritime practices. The USTR concluded that China had engaged in unfair practices and announced aggressive measures to address the perceived unfairness. With the proposed measures potentially leading to multimillion dollar fees for Chinese linked ships in US ports, the timecharter markets stagnated as charterers backed away from tonnage, whilst owners immune to the proposal were emboldened. Ultimately the measures were heavily diluted in April, and not due to be implemented until October. Various other protectionist measures have been proposed, such as the US Ships Act which also seeks to revitalise US shipbuilding through taxation of ships owned/operated by “foreign entities of concern”.
 
-In April, the President announced "Liberation Day" with a baseline 10% tariff being implemented on all trading partners, and individual reciprocal tariffs up to 50%. A week later Trump announced a 90 day pause to all tariffs, except those on China and the 10% baseline applied to all countries. The tit for tat trade war with China escalated before a truce was called later in May.
+In April, the President announced “Liberation Day” with a baseline 10% tariff being implemented on all trading partners, and individual reciprocal tariffs up to 50%. A week later Trump announced a 90 day pause to all tariffs, except those on China and the 10% baseline applied to all countries. The tit for tat trade war with China escalated before a truce was called later in May.
+
+War and Peace
 
 Perhaps surprisingly, no material change was observed in the Russia-Ukraine war, despite diplomatic efforts, with the President seemingly abandoning his pledge to swiftly end the conflict. His Administration has been reluctant to increase sanctions on Russia, lagging increased efforts by the UK and EU to ratchet up sanctions pressure. Lower oil prices also allowed more mainstream tankers to move into price cap trade, with a notable increase this year in the number of western owned crude tankers engaging in Russian trade.
 
-Iran however has not been so fortunate. Trump continued his policy of maximum pressure alongside 5 rounds of diplomatic talks before Israel launched it's 12 day war against Iran. The war turbocharged regional tanker markets as owners applied massive risk premiums. However, once the US had completed its bombing mission, Israel soon claimed to have achieved its aims. Iran then orchestrated its retaliation followed by President Trump announcing a ceasefire. Subsequently, oil prices and freight rates soon lost their risk premiums.
+Iran however has not been so fortunate. Trump continued his policy of maximum pressure alongside 5 rounds of diplomatic talks before Israel launched it’s 12 day war against Iran. The war turbocharged regional tanker markets as owners applied massive risk premiums. However, once the US had completed its bombing mission, Israel soon claimed to have achieved its aims. Iran then orchestrated its retaliation followed by President Trump announcing a ceasefire. Subsequently, oil prices and freight rates soon lost their risk premiums.
 
 The Houthis also found themselves a victim of US firepower, with Trump launching an intense bombing campaign, which has appeared to degrade their capability to attack shipping in the Red Sea. Transits through the region had been increasing, although recent hostilities in the region seem to have at least temporarily deterred vessels from transiting Bab-el-Mandeb.
 
-January saw the implementation of the European Union's FuelEU regulation, which requires vessels trading to/from the bloc to gradually lower the GHG intensity of the fuel used onboard or face financial penalties. The implementation appeared to go relatively smoothly and had little impact on the freight markets. EU ETS offsetting requirements were also increased to 70% for intra EU voyages.
+The Road to Net Zero
+
+January saw the implementation of the European Union’s FuelEU regulation, which requires vessels trading to/from the bloc to gradually lower the GHG intensity of the fuel used onboard or face financial penalties. The implementation appeared to go relatively smoothly and had little impact on the freight markets. EU ETS offsetting requirements were also increased to 70% for intra EU voyages.
 
 The Europeans were not alone in setting the regulatory agenda, with the IMO approving its net zero framework, which if adopted, will introduce fees for vessels from 2028 depending on their GHG fuel intensity. The measures attracted strong criticism from some, notably the United States who withdrew from negotiations, making it uncertain if they will enter into force unaltered.
 
 Outside of shipping specific measures, the energy transition continued at pace in some parts of the world and slowed in others. Chinese EV adoption continued to surge, and crude imports fell YOY. Preliminary demand estimated indicate Chinese consumption grew by just 30kbd compared to H1 2024.
 
+OPEC+ Changes Tact
+
 April saw a shift in OPEC+ strategy, agreeing to accelerate production with increases of 138 kbd initially and then 411kbd/month from May onwards as the group sought to recapture market share. Exports from the group were up 1% year on year during H1, with the impact of production increases muted by higher seasonal demand in key exporting countries. Several countries also exceeded their quota, notably Kazakhstan which following expansion of the Tengiz field, was unable to reign in production, before stating that it would prioritize national interests over OPEC+ policy. Although exempt from quotas and facing maximum US pressure, Iranian exports rose by 9%.
 
-With higher OPEC+ production, and geopolitical headwinds, oil prices averaged $70.8/bbl, down $9/bbl YOY, albeit trading in a wide range of $60-$82/bbl. Bunker prices unsurprisingly trended lower, but perhaps more surprising was the spread between 0.5% and 3.5% fuel oil which fell by 48% year on year to the lowest levels since IMO2020, as HSFO supply tightened relative to a better supplied VLSFO market. With prices down, Trump can claim some success in lowering gasoline prices, however at the same time, lower prices have compromised the "drill baby, drill" mantra with the US oil rig count dropping by 50 (10%) already this year.
+Drill Baby, Drill
 
-On the refining side, Houston's Lydondell refinery was decommissioned in March, whilst Scotland's Grangemouth and Germany's Wesseling plats both ceased processing crude in April. At the end of June, Prax' 113kbd Lindsay refinery entered liquidation, with its future uncertain. More positively, Dangote continued to ramp up production, albeit suffering from a few unplanned outages and scheduled maintenance, with the refinery producing gasoline to international specifications in June. For tankers, a continued drop in West African CPP imports was observed, impacting on demand for clean tankers in the Atlantic. In Mexico, the much heralded Olmeca refinery continued to face significant headwinds.
+With higher OPEC+ production, and geopolitical headwinds, oil prices averaged $70.8/bbl, down $9/bbl YOY, albeit trading in a wide range of $60-$82/bbl. Bunker prices unsurprisingly trended lower, but perhaps more surprising was the spread between 0.5% and 3.5% fuel oil which fell by 48% year on year to the lowest levels since IMO2020, as HSFO supply tightened relative to a better supplied VLSFO market. With prices down, Trump can claim some success in lowering gasoline prices, however at the same time, lower prices have compromised the “drill baby, drill” mantra with the US oil rig count dropping by 50 (10%) already this year.
+
+Reshaping Refining
+
+On the refining side, Houston’s Lydondell refinery was decommissioned in March, whilst Scotland’s Grangemouth and Germany’s Wesseling plats both ceased processing crude in April. At the end of June, Prax’ 113kbd Lindsay refinery entered liquidation, with its future uncertain. More positively, Dangote continued to ramp up production, albeit suffering from a few unplanned outages and scheduled maintenance, with the refinery producing gasoline to international specifications in June. For tankers, a continued drop in West African CPP imports was observed, impacting on demand for clean tankers in the Atlantic. In Mexico, the much heralded Olmeca refinery continued to face significant headwinds.
 
 Orders Down, Deliveries Up
 
 On the supply side, newbuilding orders have slowed significantly this year. Just 106 crude/product tanker orders have been signed this year, vs. 301 in the same period of 2024. Conversely, deliveries have increased from 34 in H1 25 to 86 so far this year as the higher orders placed during 2023 and 2024 start to hit the water. Scrapping remained minimal with just 8 tankers scrapped so far this year, broadly in line with 2024 figures.
 
+Asset Prices Mixed
+
 The performance of asset prices has been more mixed. Newbuilding prices across the board have eased this year, but remain at similar levels to the first half of 2024. With the exception of VLCCs where modern secondhand prices have been steady, prices for 5-year-old tankers have fallen by 7-13% depending on the vessel type as weaker spot markets and an uncertain outlook weigh on values. Overall, asset prices remain robust, with older values in many cases still double their pre-war levels.
 
-Tanker Spot Earnings ($/day)
+*Chart: Tanker Spot Earnings ($/day)*
 
-Subscribe to our newsletter and make sure you're first to get the latest research and reports, straight to your inbox.
+Chart data as embedded in the report:
+
+|  | VLCC TD3C | Suez TD20 | Afra TD25 | LR2 TC1 | LR2 TC5 | MR TC18 |
+|---|---|---|---|---|---|---|
+| 01/01/2024 | 42250 | 59000 | 67750 | 62250 | 51000 | 29000 |
+| 02/01/2024 | 51500 | 44500 | 50250 | 63000 | 49000 | 31750 |
+| 03/01/2024 | 51250 | 42500 | 41250 | 63500 | 49250 | 41500 |
+| 04/01/2024 | 41250 | 45000 | 46000 | 52000 | 42750 | 36000 |
+| 05/01/2024 | 50250 | 44750 | 43500 | 65750 | 50750 | 31500 |
+| 06/01/2024 | 29750 | 47250 | 52250 | 52250 | 46000 | 43000 |
+| 07/01/2024 | 26250 | 36250 | 41250 | 40250 | 35250 | 35500 |
+| 08/01/2024 | 28500 | 26250 | 27250 | 28250 | 18500 | 28750 |
+| 09/01/2024 | 33000 | 27750 | 22500 | 28250 | 24250 | 23500 |
+| 10/01/2024 | 36500 | 39250 | 45500 | 22250 | 18500 | 28000 |
+| 11/01/2024 | 31250 | 30750 | 28250 | 17250 | 12750 | 28250 |
+| 12/01/2024 | 21000 | 33000 | 41500 | 21500 | 14500 | 32250 |
+| 01/01/2025 | 36250 | 26250 | 27000 | 30750 | 21250 | 18250 |
+| 02/01/2025 | 44500 | 36250 | 30250 | 23500 | 18750 | 14250 |
+| 03/01/2025 | 44500 | 41000 | 35750 | 35500 | 27250 | 14250 |
+| 04/01/2025 | 46500 | 50750 | 50000 | 30750 | 23000 | 18750 |
+| 05/01/2025 | 46000 | 35000 | 32750 | 31000 | 25000 | 15750 |
+| 06/01/2025 | 41000 | 33750 | 36000 | 38000 | 29500 | 23250 |
 
 ## Crude Oil
 
@@ -64,7 +99,7 @@ Subscribe to our newsletter and make sure you're first to get the latest researc
 
 Apathy reigns amongst owners on the AG VLCC market as a couple of fresh cargoes attracted a limited number of offers despite there being a plethora of available ships in position. Furthermore, there is the possibility that rates could dip even lower if this sluggish demand continues and more owners may have to consider ballasting their tonnage westwards. Today we are calling AG/China WS47 and AG/USG WS29.
 
-It's been a rather dull week in the AG on Suezmaxes, but now that we have more ballasters committed to West Africa we have seen rates push up for AG/West to 140 x WS50 via C/C. Rates to head East have come under pressure however and are hovering around the 130 x WS105 level. The market anxiously awaits the impact on the KAZ bbls given the most recent sanctions which we will likely see next week.
+It’s been a rather dull week in the AG on Suezmaxes, but now that we have more ballasters committed to West Africa we have seen rates push up for AG/West to 140 x WS50 via C/C. Rates to head East have come under pressure however and are hovering around the 130 x WS105 level. The market anxiously awaits the impact on the KAZ bbls given the most recent sanctions which we will likely see next week.
 
 The Asian Aframax market has been quiet this week with little new requirements apart from a few OZ cargoes. TD14 is down to low WS120 level with earnings hovering around mid to low 20k. Positions at the front end in Southeast Asia especially for 1H of July still look ample and will need to be cleared. With sentiment correcting down on larger sizes, this is impacting Afra sentiment also due to lack of demand.
 
@@ -82,7 +117,7 @@ For Aframaxes, the week commenced with the market looking fairly balanced with p
 
 ### US Gulf/Latin America
 
-USG VLCC rates continued to soften this week as enquiry levels remained very low and a few rumoured early August cargoes failed to materialize. Activity is further diminished due to today's 4th of July celebrations so owners will have to wait till next week to see if we are to see a recovery. Brazil export rates are showing signs of recovery as tonnage is tight for current laycan window with one cargo yesterday receiving no offers. Today we estimate USG/China pays $7m, while Brazil/China is in the region of WS50.
+USG VLCC rates continued to soften this week as enquiry levels remained very low and a few rumoured early August cargoes failed to materialize. Activity is further diminished due to today’s 4th of July celebrations so owners will have to wait till next week to see if we are to see a recovery. Brazil export rates are showing signs of recovery as tonnage is tight for current laycan window with one cargo yesterday receiving no offers. Today we estimate USG/China pays $7m, while Brazil/China is in the region of WS50.
 
 Aframax activity was moderate this week with a fair amount of cargoes worked off the radar with Owners directly, which kept the market at WS140 levels. One charterer tried to push levels lower by quoting the whole market but eventually paid WS147.5 before the close. Tonnage supply remains healthy and expect sentiment to be steady to soft early next week.
 
@@ -90,7 +125,7 @@ Aframax activity was moderate this week with a fair amount of cargoes worked off
 
 Once again little to write home about the North Sea market this week. Cargo enquiry was limited and owners commented that they had not seen any business quoted for 3 or 4 days. No doubt some swapping of ships between oil companies will have taken place but in general the only way was the highway for many owners, with several setting sail for either the Med or the States for busier markets. In theory, rates should be no higher than WS120 down from WS122.5, but it needs a test in the next days. The Baltic has been fairly active for premium runs to the East but as usual this does not have much of a bearing on local levels.
 
-Crude Tanker Spot Rates (WS)
+*Chart: Crude Tanker Spot Rates (WS) - Gibson daily assessments, kept in data/extracted/series/gibson_spot_chart_daily.csv*
 
 ## Clean Products
 
@@ -106,63 +141,60 @@ MR rates have plunged below WS100 TA, which in the past has not been possible; W
 
 With the MR situation looking dire the Handies have received pressure from the larger size ships to compete. Rates have been driven down to lows of 30 x WS115 XUKC which is making returns very poor. The real problem for the Handies is there is not much escape compared to the larger ships, so they are largely left to face the market. Owners could head south but the returns are not much better in the Med, so it is looking likely that we will have a traditional summer style of market. Weak, low and slow.
 
-### Mediterranean
+### Med
 
 A repeated story for MRs in the Med. Levels sit at 37 x WS105 for Med-TA. With the USG outperforming the rest, the Med-TA option is being treated as a backhaul option for now. Again, ballast tonnage is more likely to head there. Owners will be keeping an eye on how the USG performs as an indication if rates may pick up in the Med. It must be noted that the 4th of July weekend is here for the USG market meaning a long weekend may slow the market down and restock the list. In this case, earnings could take a hit and force the current dynamic to shift.
 
-A flurry of activity at the end of the week has seen 30 x WS130 repeated multiple times, with some higher numbers being done based on grade sensitivity and a XItaly run. With bottom levels reached, all parties will be looking forward to next week to see if there is any stimulation into the market, for now more of the same is expected. One positive for owners is that an increase in activity has allowed tonnage to clear out. The question is will the list restock well enough, forcing owners' hands and maintain floor levels.
+A flurry of activity at the end of the week has seen 30 x WS130 repeated multiple times, with some higher numbers being done based on grade sensitivity and a XItaly run. With bottom levels reached, all parties will be looking forward to next week to see if there is any stimulation into the market, for now more of the same is expected. One positive for owners is that an increase in activity has allowed tonnage to clear out. The question is will the list restock well enough, forcing owners’ hands and maintain floor levels.
 
-Clean Tanker Spot Rates (WS)
+*Chart: Clean Tanker Spot Rates (WS) - Gibson daily assessments, kept in data/extracted/series/gibson_spot_chart_daily.csv*
 
 ## Dirty Products
 
 ### Handy
 
-Handies in the UKC have seen little to get excited about this week. Enquiry has struggled to surface, and tonnage worked its way up the list. The little enquiry we did see saw levels repeat at WS257.5, which was not the levels owners were hoping for when the week's trading commenced. Looking ahead to next week, negative pressure is building and with additional units set to open over the weekend, we think levels will come under pressure and soften down towards the 30 x WS255 mark.
+Handies in the UKC have seen little to get excited about this week. Enquiry has struggled to surface, and tonnage worked its way up the list. The little enquiry we did see saw levels repeat at WS257.5, which was not the levels owners were hoping for when the week’s trading commenced. Looking ahead to next week, negative pressure is building and with additional units set to open over the weekend, we think levels will come under pressure and soften down towards the 30 x WS255 mark.
 
-It's been an active week overall in the Med with interluding periods of quiet. With Monday starting with a bang. WS235 was the magic number for owners initially. Unfortunately for owners, additional tonnage began to work its way up the list just as enquiry quietened down. Levels soon came under pressure, especially for WMed loads, where WS225 became charterers' ideas for fixing while EMed held a touch firmer at WS230. Looking ahead to next week we expect to see these levels hold for now, but enquiry will need to get off to a fast start if it's to stay that way.
+It’s been an active week overall in the Med with interluding periods of quiet. With Monday starting with a bang. WS235 was the magic number for owners initially. Unfortunately for owners, additional tonnage began to work its way up the list just as enquiry quietened down. Levels soon came under pressure, especially for WMed loads, where WS225 became charterers’ ideas for fixing while EMed held a touch firmer at WS230. Looking ahead to next week we expect to see these levels hold for now, but enquiry will need to get off to a fast start if it’s to stay that way.
 
 ### MR
 
-It's not been the week owners would have hoped for in either region as full-stem enquiry struggled to surface leaving handy and part cargo owners' main source of employment. Both regions need a test and with a couple of naturally positioned opinions in the North, we think levels will be in for a test down on next done towards the 45 x WS175 mark. In the Med, we expect to see levels tested down towards the 45 x WS165 mark following the downward trend of their handy cousins.
+It’s not been the week owners would have hoped for in either region as full-stem enquiry struggled to surface leaving handy and part cargo owners’ main source of employment. Both regions need a test and with a couple of naturally positioned opinions in the North, we think levels will be in for a test down on next done towards the 45 x WS175 mark. In the Med, we expect to see levels tested down towards the 45 x WS165 mark following the downward trend of their handy cousins.
 
 ### Panamax
 
-There has been little to report for Panamax activity this side of the Atlantic this week as enquiry struggles to surface, we rate UKC-TA runs at 55 x WS110-115 with deals concluded on a case-by-case basis. TD21 has continued to firm as the rest of the region slowed down in the run-up to American Independence Day. A mix of chopping and changing, port delays and a tight list has helped to fuel the firming in rates all the way to the 50 x WS190 level by week's end. Owners will hope this panny rally can continue when the US comes back online next week.
+There has been little to report for Panamax activity this side of the Atlantic this week as enquiry struggles to surface, we rate UKC-TA runs at 55 x WS110-115 with deals concluded on a case-by-case basis. TD21 has continued to firm as the rest of the region slowed down in the run-up to American Independence Day. A mix of chopping and changing, port delays and a tight list has helped to fuel the firming in rates all the way to the 50 x WS190 level by week’s end. Owners will hope this panny rally can continue when the US comes back online next week.
 
-Dirty Product Tanker Spot Rates (WS)
+*Chart: Dirty Product Tanker Spot Rates (WS) - Gibson daily assessments, kept in data/extracted/series/gibson_spot_chart_daily.csv*
 
 ## Rates & Bunkers
 
-### Clean & Dirty Tanker Spot Market Developments - Spot Worldscale
+#### Clean and Dirty Tanker Spot Market Developments – Spot WS and $/day TCE (a)
 
-| Route | Category | Vessel | Description | WoW Change | Current | Previous | Last Month | FFA |
-|---|---|---|---|---|---|---|---|---|
-| TD3C | Dirty Tanker Spot | VLCC | VLCC AG-China | -8.0 | 47.0 | 56.0 | 44.0 | 52.0 |
-| TD20 | Dirty Tanker Spot | Suezmax | Suezmax WAF-UKC | -8.0 | 82.0 | 90.0 | 89.0 | 75.0 |
-| TD25 | Dirty Tanker Spot | Aframax | Aframax USG-UKC | -3.0 | 145.0 | 148.0 | 173.0 | 128.0 |
-| TC1 | Clean Tanker Spot | LR2 | LR2 AG-Japan | -48.0 | 120.0 | 168.0 | 129.0 | - |
-| TC18 | Clean Tanker Spot | MR | MR USG-Brazil | -24.0 | 249.0 | 272.0 | 166.0 | 166.0 |
-| TC5 | Clean Tanker Spot | LR1 | LR1 AG-Japan | -42.0 | 139.0 | 181.0 | 159.0 | 138.0 |
-| TC7 | Clean Tanker Spot | MR | MR Singapore-EC Aus | -10.0 | 203.0 | 213.0 | 200.0 | 177.0 |
-
-### Clean & Dirty Tanker Spot Market Developments - $/day TCE
-
-| Route | Category | Vessel | Description | WoW Change ($) | Current ($/day) | Previous ($/day) | Last Month ($/day) | FFA ($/day) |
-|---|---|---|---|---|---|---|---|---|
-| TD3C | Dirty Tanker Spot | VLCC | VLCC AG-China | -10000.0 | 26500.0 | 36500.0 | 23750.0 | 27500.0 |
-| TD20 | Dirty Tanker Spot | Suezmax | Suezmax WAF-UKC | -6000.0 | 27500.0 | 33500.0 | 33750.0 | 20250.0 |
-| TD25 | Dirty Tanker Spot | Aframax | Aframax USG-UKC | -1750.0 | 32750.0 | 34500.0 | 44750.0 | 21750.0 |
-| TC1 | Clean Tanker Spot | LR2 | LR2 AG-Japan | -17250.0 | 25250.0 | 42500.0 | 29000.0 | - |
-| TC18 | Clean Tanker Spot | MR | MR USG-Brazil | -4000.0 | 35250.0 | 39250.0 | 20000.0 | 17250.0 |
-| TC5 | Clean Tanker Spot | LR1 | LR1 AG-Japan | -11000.0 | 21250.0 | 32250.0 | 26750.0 | 19000.0 |
-| TC7 | Clean Tanker Spot | MR | MR Singapore-EC Aus | -1750.0 | 23250.0 | 25000.0 | 23000.0 | 17500.0 |
-
-### Bunker Prices ($/tonne)
-
-| Port | Grade | WoW Change ($) | Current ($/t) | Previous ($/t) | Last Month ($/t) |
+|  | wk on wk change | Jul 3rd | Jun 26th | Last Month* | FFA Q2 |
 |---|---|---|---|---|---|
-| Rotterdam | VLSFO | -13.0 | 512.0 | 525.0 | 473.0 |
-| Fujairah | VLSFO | -35.0 | 515.0 | 550.0 | 496.0 |
-| Singapore | VLSFO | -38.0 | 522.0 | 560.0 | 504.0 |
-| Rotterdam | LSMGO | -56.0 | 668.0 | 724.0 | 608.0 |
+| TD3C VLCC AG-China WS | -8 | 47 | 56 | 44 | 52 |
+| TD3C VLCC AG-China TCE $/day | -10,000 | 26,500 | 36,500 | 23,750 | 27,500 |
+| TD20 Suezmax WAF-UKC WS | -8 | 82 | 90 | 89 | 75 |
+| TD20 Suezmax WAF-UKC TCE $/day | -6,000 | 27,500 | 33,500 | 33,750 | 20,250 |
+| TD25 Aframax USG-UKC WS | -3 | 145 | 148 | 173 | 128 |
+| TD25 Aframax USG-UKC TCE $/day | -1,750 | 32,750 | 34,500 | 44,750 | 21,750 |
+| TC1 LR2 AG-Japan WS | -48 | 120 | 168 | 129 |  |
+| TC1 LR2 AG-Japan TCE $/day | -17,250 | 25,250 | 42,500 | 29,000 |  |
+| TC18 MR USG-Brazil WS | -24 | 249 | 272 | 166 | 166 |
+| TC18 MR USG-Brazil TCE $/day | -4,000 | 35,250 | 39,250 | 20,000 | 17,250 |
+| TC5 LR1 AG-Japan WS | -42 | 139 | 181 | 159 | 138 |
+| TC5 LR1 AG-Japan TCE $/day | -11,000 | 21,250 | 32,250 | 26,750 | 19,000 |
+| TC7 MR Singapore-EC Aus WS | -10 | 203 | 213 | 200 | 177 |
+| TC7 MR Singapore-EC Aus TCE $/day | -1,750 | 23,250 | 25,000 | 23,000 | 17,500 |
+
+(a) based on round voyage economics at ‘market’ speed, eco, non-scrubber basis
+
+#### Bunker Prices ($/tonne)
+
+|  | wk on wk change | Jul 3rd | Jun 26th | Last Month* |
+|---|---|---|---|---|
+| Rotterdam VLSFO | -13 | 512 | 525 | 473 |
+| Fujairah VLSFO | -35 | 515 | 550 | 496 |
+| Singapore VLSFO | -38 | 522 | 560 | 504 |
+| Rotterdam LSMGO | -56 | 668 | 724 | 608 |

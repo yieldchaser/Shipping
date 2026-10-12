@@ -18,17 +18,86 @@ charts_count: 4
 
 ## Feature Story
 
+- Feature Story
+- Crude Oil
+- Clean Products
+- Dirty Products
+- Rates & Bunkers
+
 The conflict in Iran concludes its eighth week and tanker markets are adapting to the new reality. In the East, clean exports are so far this month averaging the lowest levels in over a decade, in large part due to nearly inexistent exports from the Middle East Gulf (MEG), but also due to a lack of feedstock, especially for Asian refiners, alongside protectionist policies barring exports from some countries. In contrast to this, West of Suez clean exports are near record monthly highs.
 
-The MR market is proving to be quite resilient to the loss of volumes in the East, recovering from a significant drop in earnings a few weeks into the Iran War. As mentioned in last week's report, high versatility and a lower dependence on the MEG market has helped to insulate this size. Since the war, clean volumes carried on MRs have shrunk but have been far less impacted than LR2s in particular. Earnings have even increased in recent weeks here, as low vessel resupply, high bunker prices, and volatile arbs have kept rates supported. Freight rates on the route to Australia, the country with the highest per capita consumption of diesel globally, have been especially strong due to the aforementioned factors.
+The MR market is proving to be quite resilient to the loss of volumes in the East, recovering from a significant drop in earnings a few weeks into the Iran War. As mentioned in last week’s report, high versatility and a lower dependence on the MEG market has helped to insulate this size. Since the war, clean volumes carried on MRs have shrunk but have been far less impacted than LR2s in particular. Earnings have even increased in recent weeks here, as low vessel resupply, high bunker prices, and volatile arbs have kept rates supported. Freight rates on the route to Australia, the country with the highest per capita consumption of diesel globally, have been especially strong due to the aforementioned factors.
 
 In the West, a significant number of MRs were taken out of the Atlantic Basin for a prolonged period, and consequently, the trend of this size class moving West has slowed down and even reversed slightly in recent weeks. We now see just over 30 MRs more positioned in the West than prior to the war (around 2% of the mainstream fleet). US diesel arbs to Europe, West Africa, and Latin America are currently open, and whilst being volatile, have been supportive of exports. The West African market has also been pulling MRs south from the Mediterranean, with freight rate differentials between UKC to the US Atlantic Coast and UKC to West Africa at over WS150 over the last couple of days. This comes as the Dangote refinery is seemingly firing on all cylinders, with total exports from the refinery at 440kbd so far this month, 60% of which on MRs. Export volumes in Northwest Europe have so far stayed strong.
 
-So, what is the outlook for MRs? In the West, in the near-term the market is poised to remain robust, especially in the US. The most recent EIA data shows diesel stocks continuing to draw in the US Gulf, keeping exports near record highs. Whilst inventories so far remain rangebound in PADD3, exports can't continue at this pace forever. The US administration has today extended the Jones Act waiver for another 90 days; a factor which may be very mildly beneficial to MRs. Across the pond in Northwest Europe, extremely high prompt prices for oil are impacting upon refining margins, possibly weighing on runs and consequently exports. So far, exports here have been holding up well, and with gasoline inventories at healthy levels could remain supported in the near term. However, there are reportedly just six weeks of jet fuel stocks left in the ARA hub, and demand destruction efforts are kicking in with a significant number of flights cancelled. Total CPP stocks in ARA are now at a 12-year low, hinting at significant strain on the system. Refineries have in some cases postponed maintenance to run hard and capture very high margins, making outages more likely, and in any case eventually turnarounds will have to be carried out. Most arbs still incentivise CPP to move East, making it more difficult for vessels to position themselves to the West, despite the large earnings differential. This is further exemplified by the differential in TC rates for chartering an MR in the East compared with the West, with western vessels earnings around $6,000/day more for 1-year charters.
+So, what is the outlook for MRs? In the West, in the near-term the market is poised to remain robust, especially in the US. The most recent EIA data shows diesel stocks continuing to draw in the US Gulf, keeping exports near record highs. Whilst inventories so far remain rangebound in PADD3, exports can’t continue at this pace forever. The US administration has today extended the Jones Act waiver for another 90 days; a factor which may be very mildly beneficial to MRs. Across the pond in Northwest Europe, extremely high prompt prices for oil are impacting upon refining margins, possibly weighing on runs and consequently exports. So far, exports here have been holding up well, and with gasoline inventories at healthy levels could remain supported in the near term. However, there are reportedly just six weeks of jet fuel stocks left in the ARA hub, and demand destruction efforts are kicking in with a significant number of flights cancelled. Total CPP stocks in ARA are now at a 12-year low, hinting at significant strain on the system. Refineries have in some cases postponed maintenance to run hard and capture very high margins, making outages more likely, and in any case eventually turnarounds will have to be carried out. Most arbs still incentivise CPP to move East, making it more difficult for vessels to position themselves to the West, despite the large earnings differential. This is further exemplified by the differential in TC rates for chartering an MR in the East compared with the West, with western vessels earnings around $6,000/day more for 1-year charters.
 
-In the East, as has been repeated ad nauseam, if this conflict continues, more refineries will run low on feedstock, and CPP exports will continue to decline, weighing on the market. The news of a renewed US sanctions waiver for Russian crude, and consequent increased crude imports into India and Southeast Asia may keep refining runs here maintained to some degree. In case of a normalisation of trade by the middle of the year, the IEA doesn't see Middle Eastern refining runs return to pre-war levels in 2026, and the rest of Asia will only recover by Q4. Trade inefficiencies and vessel repositioning will remain supportive factors, but the lack of physical flows will provide continuous downward pressure and a negative outlook for this market so long as Hormuz remains closed.
+In the East, as has been repeated ad nauseam, if this conflict continues, more refineries will run low on feedstock, and CPP exports will continue to decline, weighing on the market. The news of a renewed US sanctions waiver for Russian crude, and consequent increased crude imports into India and Southeast Asia may keep refining runs here maintained to some degree. In case of a normalisation of trade by the middle of the year, the IEA doesn’t see Middle Eastern refining runs return to pre-war levels in 2026, and the rest of Asia will only recover by Q4. Trade inefficiencies and vessel repositioning will remain supportive factors, but the lack of physical flows will provide continuous downward pressure and a negative outlook for this market so long as Hormuz remains closed.
 
-Subscribe to our newsletter and make sure you're first to get the latest research and reports, straight to your inbox.
+*Chart: MR positioning (no.)*
+
+Chart data as embedded in the report:
+
+|  | East MRs | West MRs |
+|---|---|---|
+| 2/25/2026 | 815 | 706 |
+| 2/26/2026 | 817 | 707 |
+| 2/27/2026 | 820 | 705 |
+| 2/28/2026 | 816 | 709 |
+| 3/1/2026 | 816 | 709 |
+| 3/2/2026 | 816 | 709 |
+| 3/3/2026 | 816 | 709 |
+| 3/4/2026 | 822 | 704 |
+| 3/5/2026 | 824 | 702 |
+| 3/6/2026 | 819 | 708 |
+| 3/7/2026 | 821 | 706 |
+| 3/8/2026 | 823 | 704 |
+| 3/9/2026 | 828 | 699 |
+| 3/10/2026 | 827 | 700 |
+| 3/11/2026 | 827 | 700 |
+| 3/12/2026 | 828 | 699 |
+| 3/13/2026 | 829 | 698 |
+| 3/14/2026 | 829 | 698 |
+| 3/15/2026 | 830 | 697 |
+| 3/16/2026 | 837 | 691 |
+| 3/17/2026 | 839 | 689 |
+| 3/18/2026 | 839 | 689 |
+| 3/19/2026 | 838 | 690 |
+| 3/20/2026 | 839 | 689 |
+| 3/21/2026 | 851 | 677 |
+| 3/22/2026 | 852 | 676 |
+| 3/23/2026 | 851 | 678 |
+| 3/24/2026 | 851 | 678 |
+| 3/25/2026 | 853 | 676 |
+| 3/26/2026 | 854 | 675 |
+| 3/27/2026 | 853 | 676 |
+| 3/28/2026 | 850 | 679 |
+| 3/29/2026 | 851 | 678 |
+| 3/30/2026 | 853 | 677 |
+| 3/31/2026 | 853 | 677 |
+| 4/1/2026 | 856 | 674 |
+| 4/2/2026 | 858 | 672 |
+| 4/3/2026 | 861 | 669 |
+| 4/4/2026 | 858 | 672 |
+| 4/5/2026 | 852 | 678 |
+| 4/6/2026 | 855 | 675 |
+| 4/7/2026 | 858 | 672 |
+| 4/8/2026 | 857 | 673 |
+| 4/9/2026 | 852 | 678 |
+| 4/10/2026 | 853 | 677 |
+| 4/11/2026 | 856 | 674 |
+| 4/12/2026 | 851 | 679 |
+| 4/13/2026 | 849 | 681 |
+| 4/14/2026 | 853 | 677 |
+| 4/15/2026 | 853 | 677 |
+| 4/16/2026 | 852 | 678 |
+| 4/17/2026 | 854 | 676 |
+| 4/18/2026 | 854 | 676 |
+| 4/19/2026 | 852 | 678 |
+| 4/20/2026 | 851 | 679 |
+| 4/21/2026 | 849 | 681 |
+| 4/22/2026 | 854 | 676 |
+| 4/23/2026 | 852 | 678 |
 
 ## Crude Oil
 
@@ -58,7 +127,7 @@ The States VLCC market experienced a subdued week, with limited enquiry and litt
 
 On Aframaxes, what started as a rather turbulent week has settled down to a more balanced position, with the market finding its equilibrium. WS230 has been repeated several times, with most happy to take last done and move on. There is still some draw from the States, but ample tonnage is kicking around to cover requirements for the current window. After the recent rollercoaster of rates, things feel settled, and the boat looks unlikely to be rocked in the near term.
 
-Crude Tanker Spot Rates (WS)
+*Chart: Crude Tanker Spot Rates (WS) - Gibson daily assessments, kept in data/extracted/series/gibson_spot_chart_daily.csv*
 
 ## Clean Products
 
@@ -76,11 +145,13 @@ On MRs, it has been a slower week has cast a slightly calmer mood across the mar
 
 Once again a positive week draws to a close for Handy owners in the North. TC23 has traded around 30 × WS505 throughout, with the odd fixture achieving less due to last cargo non-CPP, and there has also been good demand direction Med with 30 × WS495 paid and 30 × WS487.5 later in the week. A few MRs have been fixed for short-haul as owners looked to keep their steel moving, though it does feel that Handies are almost at the mercy of the MRs and whether they decide to compete on the 30kt clips or not. The Handy list still lacks depth, though this has been the scenario for some months now, with owners remaining bullish.
 
-General MR sentiment seems to have very much passed its peak, and whilst differentials remain blown wide open, the core base rate has started to show signs of easing. We have seen runs in most directions this week, but with some short-haul voyage options being declared, the tonnage list has provided some relief, as has ullage ashore seemingly becoming quite free as the crisis in the East grinds on. The relationship with the USG market remains a dynamic one as rates push then ease, though for most it remains the most desirable voyage, with the States' resilience looking set to last.
+### Med
+
+General MR sentiment seems to have very much passed its peak, and whilst differentials remain blown wide open, the core base rate has started to show signs of easing. We have seen runs in most directions this week, but with some short-haul voyage options being declared, the tonnage list has provided some relief, as has ullage ashore seemingly becoming quite free as the crisis in the East grinds on. The relationship with the USG market remains a dynamic one as rates push then ease, though for most it remains the most desirable voyage, with the States’ resilience looking set to last.
 
 An active week for Med Handies, with owners managing to keep the pressure very much on. The only real threat to the ongoing success they are enjoying is the larger-cubic MRs, which have started to encroach as the earnings on offer are very attractive. If this continues into next week and the tonnage list bulks out a little further, rates are likely to top out in the mid-WS500s. Weather delays have eased considerably and next week is looking reasonably calm.
 
-Clean Tanker Spot Rates (WS)
+*Chart: Clean Tanker Spot Rates (WS) - Gibson daily assessments, kept in data/extracted/series/gibson_spot_chart_daily.csv*
 
 ## Dirty Products
 
@@ -100,37 +171,36 @@ A quiet week for Panamaxes in the UKC and Med, with some background questions th
 
 TD21 has seen a relatively steady week overall, with off-market dealings employing ships. Levels have eased due to recent pressure from surrounding markets, though as Aframaxes in the region begin to tick upward, Panamax owners will be hoping for a boost in their wake.
 
-Dirty Product Tanker Spot Rates (WS)
+*Chart: Dirty Product Tanker Spot Rates (WS) - Gibson daily assessments, kept in data/extracted/series/gibson_spot_chart_daily.csv*
 
 ## Rates & Bunkers
 
-### Clean & Dirty Tanker Spot Market Developments - Spot Worldscale
+#### Clean and Dirty Tanker Spot Market Developments – Spot WS and $/day TCE (a)
 
-| Route | Category | Vessel | Description | WoW Change | Current | Previous | Last Month | FFA |
-|---|---|---|---|---|---|---|---|---|
-| TD20 | Dirty Tanker Spot | Suezmax | Suezmax WAF-UKC | 14.0 | 206.0 | 192.0 | 413.0 | 217.0 |
-| TD25 | Dirty Tanker Spot | Aframax | Aframax USG-UKC | 8.0 | 354.0 | 346.0 | 761.0 | 368.0 |
-| TC1 | Clean Tanker Spot | LR2 | LR2 AG-Japan | -32.0 | 557.0 | 589.0 | 412.0 | - |
-| TC18 | Clean Tanker Spot | MR | MR USG-Brazil | -164.0 | 494.0 | 659.0 | 615.0 | 433.0 |
-| TC5 | Clean Tanker Spot | LR1 | LR1 AG-Japan | 36.0 | 657.0 | 621.0 | 424.0 | 434.0 |
-| TC7 | Clean Tanker Spot | MR | MR Singapore-EC Aus | 7.0 | 386.0 | 380.0 | 315.0 | 289.0 |
-
-### Clean & Dirty Tanker Spot Market Developments - $/day TCE
-
-| Route | Category | Vessel | Description | WoW Change ($) | Current ($/day) | Previous ($/day) | Last Month ($/day) | FFA ($/day) |
-|---|---|---|---|---|---|---|---|---|
-| TD3C | Dirty Tanker Spot | VLCC | VLCC AG-China | -8750.0 | 489250.0 | 498000.0 | 376000.0 | 388750.0 |
-| TD20 | Dirty Tanker Spot | Suezmax | Suezmax WAF-UKC | 8250.0 | 97500.0 | 89250.0 | 229750.0 | 97000.0 |
-| TD25 | Dirty Tanker Spot | Aframax | Aframax USG-UKC | 2500.0 | 100500.0 | 98000.0 | 253750.0 | 99750.0 |
-| TC1 | Clean Tanker Spot | LR2 | LR2 AG-Japan | -10750.0 | 162250.0 | 173000.0 | 111000.0 | - |
-| TC18 | Clean Tanker Spot | MR | MR USG-Brazil | -29250.0 | 69250.0 | 98500.0 | 91000.0 | 55000.0 |
-| TC5 | Clean Tanker Spot | LR1 | LR1 AG-Japan | 8750.0 | 140250.0 | 131500.0 | 81000.0 | 83500.0 |
-| TC7 | Clean Tanker Spot | MR | MR Singapore-EC Aus | 1000.0 | 47750.0 | 46750.0 | 34000.0 | 31500.0 |
-
-### Bunker Prices ($/tonne)
-
-| Port | Grade | WoW Change ($) | Current ($/t) | Previous ($/t) | Last Month ($/t) |
+|  |  |  |  |  |  |
 |---|---|---|---|---|---|
-| Fujairah | VLSFO | 25.0 | 752.0 | 726.0 | 900.0 |
-| Singapore | VLSFO | -45.0 | 713.0 | 757.0 | 853.0 |
-| Rotterdam | LSMGO | 4.0 | 1226.0 | 1222.0 | 1166.0 |
+| TD3C VLCC AG-China WS | -8 | 459 | 467 | 366 | 378 |
+| TD3C VLCC AG-China TCE $/day | -8,750 | 489,250 | 498,000 | 376,000 | 388,750 |
+| TD20 Suezmax WAF-UKC WS | 14 | 206 | 192 | 413 | 217 |
+| TD20 Suezmax WAF-UKC TCE $/day | 8,250 | 97,500 | 89,250 | 229,750 | 97,000 |
+| TD25 Aframax USG-UKC WS | 8 | 354 | 346 | 761 | 368 |
+| TD25 Aframax USG-UKC TCE $/day | 2,500 | 100,500 | 98,000 | 253,750 | 99,750 |
+| TC1 LR2 AG-Japan WS | -32 | 557 | 589 | 412 |  |
+| TC1 LR2 AG-Japan TCE $/day | -10,750 | 162,250 | 173,000 | 111,000 |  |
+| TC18 MR USG-Brazil WS | -164 | 494 | 659 | 615 | 433 |
+| TC18 MR USG-Brazil TCE $/day | -29,250 | 69,250 | 98,500 | 91,000 | 55,000 |
+| TC5 LR1 AG-Japan WS | 36 | 657 | 621 | 424 | 434 |
+| TC5 LR1 AG-Japan TCE $/day | 8,750 | 140,250 | 131,500 | 81,000 | 83,500 |
+| TC7 MR Singapore-EC Aus WS | 7 | 386 | 380 | 315 | 289 |
+| TC7 MR Singapore-EC Aus TCE $/day | 1,000 | 47,750 | 46,750 | 34,000 | 31,500 |
+
+(a) based on round voyage economics at ‘market’ speed, eco, non-scrubber basis
+
+#### Bunker Prices ($/tonne)
+
+|  |  |  |  |  |
+|---|---|---|---|---|
+| Rotterdam VLSFO | +39 | 684 | 645 | 698 |
+| Fujairah VLSFO | +25 | 752 | 726 | 900 |
+| Singapore VLSFO | -45 | 713 | 757 | 853 |
+| Rotterdam LSMGO | +4 | 1226 | 1,222 | 1,166 |

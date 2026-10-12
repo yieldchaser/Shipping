@@ -20,17 +20,30 @@ charts_count: 4
 
 Despite operating under long running sanctions, Iranian crude exports continue to flow. The large shadow tanker fleet as well as the network of traders and financial intermediaries that make this trade possible have occasionally faced sanctions enforcement. US Treasury officials have recently been in Malaysia and Singapore to have discussions with local players about the ongoing presence of large-scale Ship-to-Ship (STS) operations of sanctioned Iranian, Venezuelan crudes off the Malaysian coast. The basis of this latest action involves concerns that Iran is using this region to generate revenue to finance its proxies and terrorism in the Middle East.
 
-Iran's true level of crude exports is nearly impossible to identify given the opaque and clandestine shipping practices used. However, AIS data shows a sustained rise in exports since 2020 from 390 kbd to 1.5 mbd as of this year, with some barrels likely still missing. The vast majority of Iranian crude is transhipped via STS off Malaysia to China. The impact being, Malaysia on paper is exporting more crude than it produces.
+Iran’s true level of crude exports is nearly impossible to identify given the opaque and clandestine shipping practices used. However, AIS data shows a sustained rise in exports since 2020 from 390 kbd to 1.5 mbd as of this year, with some barrels likely still missing. The vast majority of Iranian crude is transhipped via STS off Malaysia to China. The impact being, Malaysia on paper is exporting more crude than it produces.
 
 With export volumes growing, Iran has been able to ramp up crude production despite sanctions on its upstream oil sector, with the IEA estimating current production in the region of 3.3 mbd (versus 2.4 mbd in 2021), which would support the view that Iranian crude exports could be higher than what is tracked even considering domestic consumption.
 
-For the tanker sector, an increase in sanctions enforcement on the shipment of Iranian oil would in theory make this trade more difficult. However, it remains to be seen how much impact this will really have, given the time this parallel market has had to develop and become resistant to existing sanctions. Gibson's vessel database indicates at least 90 VLCCs are dedicated to servicing Iranian exports (including the NITC fleet), representing approximately 10% of the global VLCC fleet. For the Suezmax sector, there are at least 34 vessels involved or 5% of the fleet. However, as mentioned with the case of estimating the volume of Iranian crude exports, the number of vessels could be higher.
+For the tanker sector, an increase in sanctions enforcement on the shipment of Iranian oil would in theory make this trade more difficult. However, it remains to be seen how much impact this will really have, given the time this parallel market has had to develop and become resistant to existing sanctions. Gibson’s vessel database indicates at least 90 VLCCs are dedicated to servicing Iranian exports (including the NITC fleet), representing approximately 10% of the global VLCC fleet. For the Suezmax sector, there are at least 34 vessels involved or 5% of the fleet. However, as mentioned with the case of estimating the volume of Iranian crude exports, the number of vessels could be higher.
 
 Even if greater sanctions enforcement attempts to slow the growth of the Iranian shadow fleet, a considerable number of VLCCs are due to reach 20 years of age in the coming years. Whilst scrapping remains unattractive relative to the residual value on offer in sanctioned routes, this trade is likely to be highly lucrative until sanctions relief emerges. However, this does not seem likely at present, nor on the horizon. Time will tell how this trade develops and what eventually happens to this large pool of dark tankers.
 
-Tracked Iranian Crude Exports (kbd)
+*Chart: Tracked Iranian Crude Exports (kbd)*
 
-Subscribe to our newsletter and make sure you're first to get the latest research and reports, straight to your inbox.
+Chart data as embedded in the report:
+
+|  | Total |
+|---|---|
+| 2015 | 1292 |
+| 2016 | 2319 |
+| 2017 | 2517 |
+| 2018 | 2185 |
+| 2019 | 778 |
+| 2020 | 389 |
+| 2021 | 670 |
+| 2022 | 923 |
+| 2023 | 1350 |
+| 2024 | 1480 |
 
 ## Crude Oil
 
@@ -52,17 +65,17 @@ Suezmax markets in West Africa have steadied towards the end of the week despite
 
 TD6 remains steady, with rates for CPC/Med hovering at around 135,000mt x ws 110. Rates to head East are slightly firmer, with less willing to commit to going East. We freight at around $5.4M for Libya/Ningbo via the Cape.
 
-The market conditions coming into this week were favourable for the Mediterranean Aframax sector, with many cargoes still available and Charterers eager to secure immediate working dates. Owners were in a position of strength and as a result, freight rates started to increase significantly. By the end of the week, ws 195 was repeated for a Ceyhan run. However, despite this positive outcome, Suezmax's taking out part cargoes has limited any further rate increase. The closure of Trieste and delays in other Mediterranean ports will take some time to resolve, adding further fuel to the fire. Additionally, the tightening conditions in the surrounding Suezmax markets may limit Charterers' options in the coming weeks.
+The market conditions coming into this week were favourable for the Mediterranean Aframax sector, with many cargoes still available and Charterers eager to secure immediate working dates. Owners were in a position of strength and as a result, freight rates started to increase significantly. By the end of the week, ws 195 was repeated for a Ceyhan run. However, despite this positive outcome, Suezmax’s taking out part cargoes has limited any further rate increase. The closure of Trieste and delays in other Mediterranean ports will take some time to resolve, adding further fuel to the fire. Additionally, the tightening conditions in the surrounding Suezmax markets may limit Charterers’ options in the coming weeks.
 
 ### US Gulf/Latin America
 
-It's been another bumper week in USG as the cargoes kept on coming. Rates are beginning to move towards the $10M mark for long East as Owners turn the screw. Brazil rates have also started to recover after a dip and both sectors should continue to be a happy hunting ground for Owners in the coming week. Today we expect a USG / China run will fix in the region of $9.75M, while we estimate a Brazil/China run is paying around ws 71 level.
+It’s been another bumper week in USG as the cargoes kept on coming. Rates are beginning to move towards the $10M mark for long East as Owners turn the screw. Brazil rates have also started to recover after a dip and both sectors should continue to be a happy hunting ground for Owners in the coming week. Today we expect a USG / China run will fix in the region of $9.75M, while we estimate a Brazil/China run is paying around ws 71 level.
 
 ### North Sea
 
-Quieter than its neighbors this week and typically lacking in fluctuation. We saw plenty of ballasters for TA and the Med leaving the earlier side of the list on the mixed side. Levels are now trading in the mid to high ws 140s. There is a small undercurrent of optimism, but in reality we can't see this market ticking up by more than a few points.
+Quieter than its neighbors this week and typically lacking in fluctuation. We saw plenty of ballasters for TA and the Med leaving the earlier side of the list on the mixed side. Levels are now trading in the mid to high ws 140s. There is a small undercurrent of optimism, but in reality we can’t see this market ticking up by more than a few points.
 
-Crude Tanker Spot Rates (WS)
+*Chart: Crude Tanker Spot Rates (WS) - Gibson daily assessments, kept in data/extracted/series/gibson_spot_chart_daily.csv*
 
 ## Clean Products
 
@@ -76,9 +89,9 @@ The North Asia MR market is busy with a clearance of backlog tonnage this week w
 
 ### Mediterranean
 
-It's been another volatile week for the Handys here in the Med with rates bouncing around throughout. We began the week with XMed trading at the 30,000mt x ws 240 mark but with the list looking tight, WMed and a couple restricted stems coming into play we soon saw rates jump. 30,000mt x ws 295 was achieved on Tuesday and then repeated a couple of times on Wednesday. Since then however, enquiry has slowed and as a result we have seen rates start to come under pressure. Last done XMed is now at the 30,000mt x ws 265 mark but with the list growing and little left to cover, expect further losses to come.
+It’s been another volatile week for the Handys here in the Med with rates bouncing around throughout. We began the week with XMed trading at the 30,000mt x ws 240 mark but with the list looking tight, WMed and a couple restricted stems coming into play we soon saw rates jump. 30,000mt x ws 295 was achieved on Tuesday and then repeated a couple of times on Wednesday. Since then however, enquiry has slowed and as a result we have seen rates start to come under pressure. Last done XMed is now at the 30,000mt x ws 265 mark but with the list growing and little left to cover, expect further losses to come.
 
-Finally to the Med MR's, where we have seen some movement on rates this week both up and down. 37,000mt x ws 240 was the call for Med/TA on Monday morning, but with the list looking tight there were some opportunities for Owners to push levels. By midweek, vanilla runs soon settled at the 37,000mt x ws 245 mark after 37,000mt x ws 260 was achieved for a prompt Naphtha run. However, over the backend of the week we have seen limited enquiry and with TC2 trading at sub ws 200 levels we have seen some negativity start to creep into the Med. 37,000mt x ws 235 is now on subs for a Med/UKC run and with nothing left to cover, Charterers will look to continue piling on the pressure.
+Finally to the Med MR’s, where we have seen some movement on rates this week both up and down. 37,000mt x ws 240 was the call for Med/TA on Monday morning, but with the list looking tight there were some opportunities for Owners to push levels. By midweek, vanilla runs soon settled at the 37,000mt x ws 245 mark after 37,000mt x ws 260 was achieved for a prompt Naphtha run. However, over the backend of the week we have seen limited enquiry and with TC2 trading at sub ws 200 levels we have seen some negativity start to creep into the Med. 37,000mt x ws 235 is now on subs for a Med/UKC run and with nothing left to cover, Charterers will look to continue piling on the pressure.
 
 ### UK Continent
 
@@ -86,7 +99,7 @@ Levels close the week at 30,000mt x ws 250 for XUKC as cargoes have been drip-fe
 
 TC2 has continued to kick the can down the road this week as freight has traded between 37,000mt x ws 190-195 even with a higher number being paid ex Immingham. The talk of the town has been the Med market (37,000mt x ws 245 for TA) which has caught the eye of some UKC vessels as they have ballasted down to take advantage of the premium on offer. Looking at the tonnage list, MRs have competed on 30kt clips which will only see these vessels reopen next week as heading short and with the states market softening, USAC ballasters have decided to head towards Europe which will keep a good resupply of vessels on our list for the next fixing window. There has been limited fixing opportunities on offer down to WAF on the MRs with a fresh test now required there. Steady for the short term.
 
-Clean Tanker Spot Rates (WS)
+*Chart: Clean Tanker Spot Rates (WS) - Gibson daily assessments, kept in data/extracted/series/gibson_spot_chart_daily.csv*
 
 ## Dirty Products
 
@@ -106,39 +119,36 @@ MR owners in the Med will be the happier of the two as they have seen more liqui
 
 A slightly busier week for Panamaxes overall as questions have been asked for an array of voyages, however, some of this is yet to materialize into firm enquiry. Looking ahead, we expect rates to continue to be case-by-case as the desire to reposition in the US will take heed over pressing for improved earnings. Elsewhere, In the Caribs, weakening Afra markets are applying negative pressure, this can be seen by a slight, but consistent downtrend in rates for Caribs/USG.
 
-Dirty Product Tanker Spot Rates (WS)
+*Chart: Dirty Product Tanker Spot Rates (WS) - Gibson daily assessments, kept in data/extracted/series/gibson_spot_chart_daily.csv*
 
 ## Rates & Bunkers
 
-### Clean & Dirty Tanker Spot Market Developments - Spot Worldscale
+#### Clean and Dirty Tanker Spot Market Developments – Spot WS and $/day TCE (a)
 
-| Route | Category | Vessel | Description | WoW Change | Current | Previous | Last Month | FFA |
-|---|---|---|---|---|---|---|---|---|
-| TD3C | Dirty Tanker Spot | VLCC | VLCC AG-China | - | 72.0 | 72.0 | 60.0 | 67.0 |
-| TD20 | Dirty Tanker Spot | Suezmax | Suezmax WAF-UKC | -9.0 | 102.0 | 111.0 | 109.0 | 107.0 |
-| TD25 | Dirty Tanker Spot | Aframax | Aframax USG-UKC | -17.0 | 166.0 | 183.0 | 189.0 | 183.0 |
-| TC1 | Clean Tanker Spot | LR2 | LR2 AG-Japan | 17.0 | 247.0 | 230.0 | 207.0 | - |
-| TC18 | Clean Tanker Spot | MR | MR USG-Brazil | -42.0 | 203.0 | 245.0 | 239.0 | 231.0 |
-| TC5 | Clean Tanker Spot | LR1 | LR1 AG-Japan | 38.0 | 269.0 | 231.0 | 231.0 | 236.0 |
-| TC7 | Clean Tanker Spot | MR | MR Singapore-EC Aus | 6.0 | 314.0 | 308.0 | 281.0 | 287.0 |
-
-### Clean & Dirty Tanker Spot Market Developments - $/day TCE
-
-| Route | Category | Vessel | Description | WoW Change ($) | Current ($/day) | Previous ($/day) | Last Month ($/day) | FFA ($/day) |
-|---|---|---|---|---|---|---|---|---|
-| TD3C | Dirty Tanker Spot | VLCC | VLCC AG-China | 500.0 | 53250.0 | 52750.0 | 36750.0 | 41000.0 |
-| TD20 | Dirty Tanker Spot | Suezmax | Suezmax WAF-UKC | -5250.0 | 39000.0 | 44250.0 | 41750.0 | 37750.0 |
-| TD25 | Dirty Tanker Spot | Aframax | Aframax USG-UKC | -6250.0 | 39500.0 | 45750.0 | 47250.0 | 42000.0 |
-| TC1 | Clean Tanker Spot | LR2 | LR2 AG-Japan | 6250.0 | 68000.0 | 61750.0 | 53000.0 | - |
-| TC18 | Clean Tanker Spot | MR | MR USG-Brazil | -8000.0 | 25000.0 | 33000.0 | 30750.0 | 27250.0 |
-| TC5 | Clean Tanker Spot | LR1 | LR1 AG-Japan | 10000.0 | 52500.0 | 42500.0 | 42250.0 | 41500.0 |
-| TC7 | Clean Tanker Spot | MR | MR Singapore-EC Aus | 1250.0 | 41250.0 | 40000.0 | 34750.0 | 33000.0 |
-
-### Bunker Prices ($/tonne)
-
-| Port | Grade | WoW Change ($) | Current ($/t) | Previous ($/t) | Last Month ($/t) |
+|  | wk on wk change | May 16th | May 9th | Last Month* | FFA Q2 |
 |---|---|---|---|---|---|
-| Rotterdam | VLSFO | -7.0 | 562.0 | 569.0 | 606.0 |
-| Fujairah | VLSFO | -8.0 | 617.0 | 625.0 | 639.0 |
-| Singapore | VLSFO | -7.0 | 619.0 | 626.0 | 637.0 |
-| Rotterdam | LSMGO | -8.0 | 731.0 | 739.0 | 739.0 |
+| TD3C VLCC AG-China WS | +0 | 72 | 72 | 60 | 67 |
+| TD3C VLCC AG-China TCE $/day | +500 | 53,250 | 52,750 | 36,750 | 41,000 |
+| TD20 Suezmax WAF-UKC WS | -9 | 102 | 111 | 109 | 107 |
+| TD20 Suezmax WAF-UKC TCE $/day | -5,250 | 39,000 | 44,250 | 41,750 | 37,750 |
+| TD25 Aframax USG-UKC WS | -17 | 166 | 183 | 189 | 183 |
+| TD25 Aframax USG-UKC TCE $/day | -6,250 | 39,500 | 45,750 | 47,250 | 42,000 |
+| TC1 LR2 AG-Japan WS | +17 | 247 | 230 | 207 |  |
+| TC1 LR2 AG-Japan TCE $/day | +6,250 | 68,000 | 61,750 | 53,000 |  |
+| TC18 MR USG-Brazil WS | -42 | 203 | 245 | 239 | 231 |
+| TC18 MR USG-Brazil TCE $/day | -8,000 | 25,000 | 33,000 | 30,750 | 27,250 |
+| TC5 LR1 AG-Japan WS | +38 | 269 | 231 | 231 | 236 |
+| TC5 LR1 AG-Japan TCE $/day | +10,000 | 52,500 | 42,500 | 42,250 | 41,500 |
+| TC7 MR Singapore-EC Aus WS | +6 | 314 | 308 | 281 | 287 |
+| TC7 MR Singapore-EC Aus TCE $/day | +1,250 | 41,250 | 40,000 | 34,750 | 33,000 |
+
+(a) based on round voyage economics at ‘market’ speed, eco, non-scrubber basis
+
+#### Bunker Prices ($/tonne)
+
+|  | wk on wk change | May 16th | May 9th | Last Month* |
+|---|---|---|---|---|
+| Rotterdam VLSFO | -7 | 562 | 569 | 606 |
+| Fujairah VLSFO | -8 | 617 | 625 | 639 |
+| Singapore VLSFO | -7 | 619 | 626 | 637 |
+| Rotterdam LSMGO | -8 | 731 | 739 | 739 |

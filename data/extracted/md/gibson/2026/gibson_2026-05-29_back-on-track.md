@@ -18,9 +18,15 @@ charts_count: 4
 
 ## Feature Story
 
-Last month, the International Maritime Organization (IMO) held its 84th Marine Environmental Protection Committee (MEPC 84) session in London. The meeting followed a volatile MEPC 2nd extraordinary session last October, where a coalition of countries successfully delayed the adoption of the IMO's much anticipated Net Zero Framework (NZF).
+- Feature Story
+- Crude Oil
+- Clean Products
+- Dirty Products
+- Rates & Bunkers
 
-As we reported a year ago, the framework, which aimed to introduce a global carbon pricing mechanism for shipping, faced heavy criticism, notably from the Trump administration. Last month during MEPC 84 the coalition against the NZF were largely unchanged, as were the group of countries in support of it. However, many of the parties recognised that a compromise would be needed, though many who supported the framework felt there was little scope to "water" it down.
+Last month, the International Maritime Organization (IMO) held its 84th Marine Environmental Protection Committee (MEPC 84) session in London. The meeting followed a volatile MEPC 2nd extraordinary session last October, where a coalition of countries successfully delayed the adoption of the IMO’s much anticipated Net Zero Framework (NZF).
+
+As we reported a year ago, the framework, which aimed to introduce a global carbon pricing mechanism for shipping, faced heavy criticism, notably from the Trump administration. Last month during MEPC 84 the coalition against the NZF were largely unchanged, as were the group of countries in support of it. However, many of the parties recognised that a compromise would be needed, though many who supported the framework felt there was little scope to “water” it down.
 
 Opponents of the NZF were concerned that it was unrealistic and relied on fuels which are not yet available at scale, leading to higher shipping costs and a risk of non-compliance due to infrastructure and capacity issues. The concept of the NZF fund, its associated economic burden and uncertainty around revenue use, governance and its legal basis also created friction between member States.
 
@@ -30,7 +36,20 @@ So where does this leave the NZF framework now? Further refinement will be neede
 
 So, for shipowners the wait for regulatory certainty goes on. Yet despite this, newbuilding investment remains high, and the IMOs delay appears to have encouraged many owners to simply invest in conventionally fuelled ships.
 
-Subscribe to our newsletter and make sure you're first to get the latest research and reports, straight to your inbox.
+*Chart: IMO NZF Compliance Costs*
+
+Chart data as embedded in the report:
+
+|  | VLCC (TD3C) Eco | Suezmax (TD20) Eco | Aframax (TD19) Eco |
+|---|---|---|---|
+| 2028 | 159071 | 85423 | 33824 |
+| 2029 | 223428 | 119983 | 47509 |
+| 2030 | 287441 | 154359 | 61120 |
+| 2031 | 428851 | 230298 | 91189 |
+| 2032 | 570133 | 306168 | 121231 |
+| 2033 | 711415 | 382037 | 151272 |
+| 2034 | 852697 | 457907 | 181314 |
+| 2035 | 993979 | 533777 | 211355 |
 
 ## Crude Oil
 
@@ -40,7 +59,7 @@ The AG and Red Sea VLCC market remained subdued throughout the week, with uncert
 
 The AG Suezmax market remains effectively at a standstill, with very limited numbers of ships managing to transit Hormuz. There appears to be considerable optimism that a deal may be reached imminently, though this is far from certain and is making it very difficult for market players to put together trades.
 
-The Asia Aframax market extended its downward trend from last week, with charterers firmly dictating the pace as activity remained subdued against a lengthening tonnage list. A single Australia/East cargo attracted double-digit offers, highlighting the extent of the tonnage overhang and exerting further pressure on rates. With a shortened trading week in Indo, a long weekend ahead and Posidonia approaching, charterers with outstanding requirements are expected to continue testing lower levels. Across the Pacific, Vancouver liftings also softened, with owners' ideas now slipping into the mid-$3m range. While some of the softness can be attributed to the typical summer lull, the ongoing geopolitical backdrop has exacerbated conditions beyond normal seasonal lows. We close the week on a softer footing, assessing Indo/Up at 80kt × WS165.
+The Asia Aframax market extended its downward trend from last week, with charterers firmly dictating the pace as activity remained subdued against a lengthening tonnage list. A single Australia/East cargo attracted double-digit offers, highlighting the extent of the tonnage overhang and exerting further pressure on rates. With a shortened trading week in Indo, a long weekend ahead and Posidonia approaching, charterers with outstanding requirements are expected to continue testing lower levels. Across the Pacific, Vancouver liftings also softened, with owners’ ideas now slipping into the mid-$3m range. While some of the softness can be attributed to the typical summer lull, the ongoing geopolitical backdrop has exacerbated conditions beyond normal seasonal lows. We close the week on a softer footing, assessing Indo/Up at 80kt × WS165.
 
 ### West Africa
 
@@ -52,7 +71,7 @@ The WAF Suezmax market has fallen sharply this week. With plenty of prompt tonna
 
 On Suezmaxes, TD6 has not been tested since the WAF market fell, but with plenty of prompt ships in the East Med there will be plenty of competition for early cargoes. Charterers will likely be looking toward the low WS200s by the end of next week, with reports of supply disruption and a reduced cargo count for the second decade of June providing a tonnage overhang. For Med/East, there are plenty of keen players both via Suez and via Cape. It has been quite an illiquid market of late, though we feel the rate for Libya/Ningbo is there to test $8m. Even with prompt barrels continuing to come to the market as they have over the past month, it is going to be difficult to get caught out here.
 
-The Med Aframax market came into the week having most definitely bottomed, with a progressive cleardown of availability lessening charterers' bargaining power. As the week progressed a similar pattern followed, with charterers initially reaching out on dates and owners with less than perfect itineraries finding themselves in demand. Naturally, when these signals flash, owners quickly realise they have a window to push for improved returns. At time of writing we sit some 5-10 points higher than where the week began, with reports of 80 × WS180 on subs. However, with surrounding markets showing distinct loss of value, gains may yet prove temporary and short-lived, particularly with Posidonia disruption beckoning.
+The Med Aframax market came into the week having most definitely bottomed, with a progressive cleardown of availability lessening charterers’ bargaining power. As the week progressed a similar pattern followed, with charterers initially reaching out on dates and owners with less than perfect itineraries finding themselves in demand. Naturally, when these signals flash, owners quickly realise they have a window to push for improved returns. At time of writing we sit some 5-10 points higher than where the week began, with reports of 80 × WS180 on subs. However, with surrounding markets showing distinct loss of value, gains may yet prove temporary and short-lived, particularly with Posidonia disruption beckoning.
 
 ### US Gulf/Latin America
 
@@ -62,7 +81,7 @@ The States VLCC market started the week with expectations that activity would im
 
 On Aframaxes, the expected correction came this week, and it came like a swinging pendulum. Rates were really tested, with a couple of cargoes receiving copious amounts of offers and revealing where the true floor lies. The ballast to the US is now looking less and less appealing and local returns are slightly more challenging. The Med market will draw a few units, though with many away at Posidonia next week there is little hope of expecting anything but a repeat of levels at best. Most are hoping we have settled at a new benchmark of WS145, and this seems to be the case, with perhaps a couple of points still to be shaved depending on the route.
 
-Crude Tanker Spot Rates (WS)
+*Chart: Crude Tanker Spot Rates (WS) - Gibson daily assessments, kept in data/extracted/series/gibson_spot_chart_daily.csv*
 
 ## Clean Products
 
@@ -74,15 +93,17 @@ A quiet week for the AG and Red Sea MR market due to the holiday period across t
 
 ### UK Continent
 
-Despite a reasonably good clearout of MR tonnage during the truncated week, owners have struggled to hold onto last done rates throughout, and as we arrive at Friday charterers continue to hold the upper hand. A steady flow of TC2 stems has given charterers multiple opportunities to test owners' resolve, with 15 points wiped off the market as a result. WAF has been slow, though the few tests seen have chiselled away at the previous high premium, now standing at around 50 points over TA. On a small positive note, short-haul XUKC runs have now flipped into 37kt sizes from 30kt, allowing a number of ships to keep moving, albeit only for a limited time. Further encouragement comes from the USG market, where rates have finally found some positive momentum, which in turn could see a few more ballasters head that way. With Posidonia around the corner, however, we can expect the first half of next week's fixtures to be concluded with souvlaki and Mythos in hand, keeping owners' aspirations at bay.
+Despite a reasonably good clearout of MR tonnage during the truncated week, owners have struggled to hold onto last done rates throughout, and as we arrive at Friday charterers continue to hold the upper hand. A steady flow of TC2 stems has given charterers multiple opportunities to test owners’ resolve, with 15 points wiped off the market as a result. WAF has been slow, though the few tests seen have chiselled away at the previous high premium, now standing at around 50 points over TA. On a small positive note, short-haul XUKC runs have now flipped into 37kt sizes from 30kt, allowing a number of ships to keep moving, albeit only for a limited time. Further encouragement comes from the USG market, where rates have finally found some positive momentum, which in turn could see a few more ballasters head that way. With Posidonia around the corner, however, we can expect the first half of next week’s fixtures to be concluded with souvlaki and Mythos in hand, keeping owners’ aspirations at bay.
 
 Consistent cargo flow remains an issue for Handies in the North, though owners have recently done a good job of holding the line at last done levels. The problem owners have faced this week is the softness from the MR sector, which has become the cheaper alternative with XUKC slipping to 37 × WS210, equating to 30 × WS259. It does feel that Handies will have to adjust their fixing ideas down, or for now will continue to get priced out by the bigger ships.
 
-With a wealth of MR ballasters, sentiment was eroded and owners' prospects looked sceptical at the start of the week, with rates feeling quite soft for June against limited enquiry. Activity throughout saw Med-TA correct down to 37 × WS170 levels. In line with this, Med-UKC and Med-WAF have seen fresh tests at lows of WS200 and WS230 respectively on options stems, with potential for further corrections. Oversupply has ultimately taken its toll, with charterers aware that staggered enquiry helps pile on bearish rate pressure. Eyes on how the USG bounces back and how it could affect owners' outlook on certain routes.
+### Med
+
+With a wealth of MR ballasters, sentiment was eroded and owners’ prospects looked sceptical at the start of the week, with rates feeling quite soft for June against limited enquiry. Activity throughout saw Med-TA correct down to 37 × WS170 levels. In line with this, Med-UKC and Med-WAF have seen fresh tests at lows of WS200 and WS230 respectively on options stems, with potential for further corrections. Oversupply has ultimately taken its toll, with charterers aware that staggered enquiry helps pile on bearish rate pressure. Eyes on how the USG bounces back and how it could affect owners’ outlook on certain routes.
 
 A short week that has not been a good one for the Med Handy owning fraternity. Rates have corrected down from WS300 to WS255, with rumours of less on subs. A healthy list and staggered enquiry have been the main factors at play, allowing charterers more control in this market. It does not take much to get rates moving upward here, though with Posidonia next week business is likely to get done face to face, which the majority of the time stabilises around last done. The general sentiment is soft, but future rate movement will be dependent on how the list shapes up come Monday.
 
-Clean Tanker Spot Rates (WS)
+*Chart: Clean Tanker Spot Rates (WS) - Gibson daily assessments, kept in data/extracted/series/gibson_spot_chart_daily.csv*
 
 ## Dirty Products
 
@@ -92,47 +113,44 @@ A quiet week across both regions with levels softening across the board. In the 
 
 The Med followed suit with limited enquiry and plenty of prompt and early ships to work, particularly built WMed. Many expected to see a pre-Posidonia rush, though unfortunately for owners this did not materialise. Instead, a widely quoted cargo off mid-first decade June drew multiple offers and fixed at WS370 before being quickly repeated. Looking ahead, negative pressure is expected to persist with multiple units still workable and more to join the list on Monday.
 
-### MR
+#### MR
 
 A disappointing week for MR owners, with levels softening as a prompt North Spain cargo set the tone at 45 × WS275 before a cargo out of Sines was covered at the same level. Naturally placed units in the North remain available, and enquiries for Med discharge are likely to come at a further discount. In the Med, enquiry has been limited with tonnage fairly balanced, though heading into next week levels are expected to remain under pressure.
 
-### Panamax
+#### Panamax
 
 A disappointing week for Panamaxes in the States as levels softened following the American bank holiday, with rate ideas trending toward the WS200 mark for TD21. Over in Europe, tonnage remains in thin supply for ships willing to go TA, with the majority of next-up ships needing to drydock in the EMed. Levels are expected to come under pressure given the recent softening of Aframaxes UKCM-TA to around 80 × WS100. For a non-restricted port, Panamaxes are expected to trend toward the 55 × WS150-160 mark, though a fresh test is needed.
 
-Dirty Product Tanker Spot Rates (WS)
+*Chart: Dirty Product Tanker Spot Rates (WS) - Gibson daily assessments, kept in data/extracted/series/gibson_spot_chart_daily.csv*
 
 ## Rates & Bunkers
 
-### Clean & Dirty Tanker Spot Market Developments - Spot Worldscale
+#### Clean and Dirty Tanker Spot Market Developments – Spot WS and $/day TCE (a)
 
-| Route | Category | Vessel | Description | WoW Change | Current | Previous | Last Month | FFA |
-|---|---|---|---|---|---|---|---|---|
-| TD3C | Dirty Tanker Spot | VLCC | VLCC AG-China | -11.0 | 392.0 | 403.0 | 408.0 | 410.0 |
-| TD20 | Dirty Tanker Spot | Suezmax | Suezmax WAF-UKC | -27.0 | 161.0 | 187.0 | 212.0 | 192.0 |
-| TD25 | Dirty Tanker Spot | Aframax | Aframax USG-UKC | -33.0 | 193.0 | 225.0 | 434.0 | 302.0 |
-| TC1 | Clean Tanker Spot | LR2 | LR2 AG-Japan | -3.0 | 527.0 | 530.0 | 553.0 | - |
-| TC18 | Clean Tanker Spot | MR | MR USG-Brazil | 41.0 | 246.0 | 205.0 | 516.0 | 376.0 |
-| TC5 | Clean Tanker Spot | LR1 | LR1 AG-Japan | -15.0 | 556.0 | 571.0 | 616.0 | 487.0 |
-| TC7 | Clean Tanker Spot | MR | MR Singapore-EC Aus | -11.0 | 313.0 | 324.0 | 374.0 | 318.0 |
-
-### Clean & Dirty Tanker Spot Market Developments - $/day TCE
-
-| Route | Category | Vessel | Description | WoW Change ($) | Current ($/day) | Previous ($/day) | Last Month ($/day) | FFA ($/day) |
-|---|---|---|---|---|---|---|---|---|
-| TD3C | Dirty Tanker Spot | VLCC | VLCC AG-China | -9750.0 | 410250.0 | 420000.0 | 427250.0 | 424000.0 |
-| TD20 | Dirty Tanker Spot | Suezmax | Suezmax WAF-UKC | -15250.0 | 69000.0 | 84250.0 | 98000.0 | 81750.0 |
-| TD25 | Dirty Tanker Spot | Aframax | Aframax USG-UKC | -10750.0 | 40250.0 | 51000.0 | 127500.0 | 75000.0 |
-| TC1 | Clean Tanker Spot | LR2 | LR2 AG-Japan | 500.0 | 151000.0 | 150500.0 | 159000.0 | - |
-| TC18 | Clean Tanker Spot | MR | MR USG-Brazil | 8750.0 | 25750.0 | 17000.0 | 71250.0 | 46250.0 |
-| TC5 | Clean Tanker Spot | LR1 | LR1 AG-Japan | -2250.0 | 114500.0 | 116750.0 | 128750.0 | 94750.0 |
-| TC7 | Clean Tanker Spot | MR | MR Singapore-EC Aus | -1000.0 | 34250.0 | 35250.0 | 44500.0 | 34000.0 |
-
-### Bunker Prices ($/tonne)
-
-| Port | Grade | WoW Change ($) | Current ($/t) | Previous ($/t) | Last Month ($/t) |
+|  | wk on wk change | May 28th | May 21st | Last Month* | FFA Q2 |
 |---|---|---|---|---|---|
-| Rotterdam | VLSFO | -27.0 | 705.0 | 732.0 | 796.0 |
-| Fujairah | VLSFO | 35.0 | 942.0 | 907.0 | 883.0 |
-| Singapore | VLSFO | -32.0 | 786.0 | 818.0 | 800.0 |
-| Rotterdam | LSMGO | -164.0 | 1021.0 | 1184.0 | 1343.0 |
+| TD3C VLCC AG-China WS | -11 | 392 | 403 | 408 | 410 |
+| TD3C VLCC AG-China TCE $/day | -9,750 | 410,250 | 420,000 | 427,250 | 424,000 |
+| TD20 Suezmax WAF-UKC WS | -27 | 161 | 187 | 212 | 192 |
+| TD20 Suezmax WAF-UKC TCE $/day | -15,250 | 69,000 | 84,250 | 98,000 | 81,750 |
+| TD25 Aframax USG-UKC WS | -33 | 193 | 225 | 434 | 302 |
+| TD25 Aframax USG-UKC TCE $/day | -10,750 | 40,250 | 51,000 | 127,500 | 75,000 |
+| TC1 LR2 AG-Japan WS | -3 | 527 | 530 | 553 |  |
+| TC1 LR2 AG-Japan TCE $/day | 500 | 151,000 | 150,500 | 159,000 |  |
+| TC18 MR USG-Brazil WS | 41 | 246 | 205 | 516 | 376 |
+| TC18 MR USG-Brazil TCE $/day | 8,750 | 25,750 | 17,000 | 71,250 | 46,250 |
+| TC5 LR1 AG-Japan WS | -15 | 556 | 571 | 616 | 487 |
+| TC5 LR1 AG-Japan TCE $/day | -2,250 | 114,500 | 116,750 | 128,750 | 94,750 |
+| TC7 MR Singapore-EC Aus WS | -11 | 313 | 324 | 374 | 318 |
+| TC7 MR Singapore-EC Aus TCE $/day | -1,000 | 34,250 | 35,250 | 44,500 | 34,000 |
+
+(a) based on round voyage economics at ‘market’ speed, eco, non-scrubber basis
+
+#### Bunker Prices ($/tonne)
+
+|  | wk on wk change | May 28th | May 21st | Last Month* |
+|---|---|---|---|---|
+| Rotterdam VLSFO | -27 | 705 | 732 | 796 |
+| Fujairah VLSFO | +35 | 942 | 907 | 883 |
+| Singapore VLSFO | -32 | 786 | 818 | 800 |
+| Rotterdam LSMGO | -164 | 1021 | 1,184 | 1,343 |

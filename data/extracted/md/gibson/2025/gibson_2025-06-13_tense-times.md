@@ -26,13 +26,22 @@ Iran could try to close the Straits of Hormuz. A prolonged closure is highly unl
 
 A more likely scenario is that Iran seeks to disrupt shipping activity in the region, which could include limited attacks, hijacking, and the harassment of ships passing by. Under such a scenario, the pool of shipowners willing to transit would likely shrink, leading to an increase in freight costs for exports via Hormuz. Demand for lifting crude from safer load zones in the Atlantic could also benefit, whilst higher oil prices might help reverse the decline in US production. Under this scenario Middle East exports would be largely sustained, with some upside for producers elsewhere in the world, likely benefitting freight rates.
 
-Iran could also seek to use the Houthi's to increase attacks against Red Sea shipping, as well as targeting Israel. How much capacity the Houthi's have remains unclear, given US efforts to substantially degrade their abilities this year. In any case, increased caution in the Red Sea is likely, with UK flagged vessels yesterday being warned against sailing through the waterway.
+Iran could also seek to use the Houthi’s to increase attacks against Red Sea shipping, as well as targeting Israel. How much capacity the Houthi’s have remains unclear, given US efforts to substantially degrade their abilities this year. In any case, increased caution in the Red Sea is likely, with UK flagged vessels yesterday being warned against sailing through the waterway.
 
-Diplomatic options may also be considered, although it feels like the opportunity for such diplomacy may have now passed. The US could also step up sanctions pressure on Iran in an attempt to drive its export revenue even lower. Come Monday, we should have a better view of whether Israel really intends to continue strikes, whether any diplomatic measures can succeed, and perhaps further insight into Iran's response.
+Diplomatic options may also be considered, although it feels like the opportunity for such diplomacy may have now passed. The US could also step up sanctions pressure on Iran in an attempt to drive its export revenue even lower. Come Monday, we should have a better view of whether Israel really intends to continue strikes, whether any diplomatic measures can succeed, and perhaps further insight into Iran’s response.
 
-Middle East Gulf Crude & Refined Product Exports (kbd)
+*Chart: Middle East Gulf Crude & Refined Product Exports (kbd)*
 
-Subscribe to our newsletter and make sure you're first to get the latest research and reports, straight to your inbox.
+Chart data as embedded in the report:
+
+|  | VLCC | Suezmax | Afra/LR2 | MR | Panamax/LR1 | Handy/MR1 |
+|---|---|---|---|---|---|---|
+| 2020 | 12005 | 2365 | 1664 | 824 | 867 | 97 |
+| 2021 | 11964 | 2434 | 2020 | 899 | 837 | 79 |
+| 2022 | 13930 | 2319 | 2070 | 847 | 813 | 73 |
+| 2023 | 14200 | 2074 | 2098 | 937 | 793 | 77 |
+| 2024 | 14139 | 1835 | 2058 | 955 | 815 | 119 |
+| 2025 | 13930 | 1982 | 2068 | 972 | 827 | 84 |
 
 ## Crude Oil
 
@@ -50,7 +59,7 @@ Similarly to the East, Suezmaxes in West Africa are a tricky market to fix in to
 
 ### Mediterranean
 
-In Suezmaxes, TD6 held up throughout the week at WS 95, owners are all sitting on the fence here too and don't expect anything realistic to be paid before the picture in the East is clearer. Rates for Libya Ningbo are relatively soft with a few players very keen on this run for various reasons and we anticipate that charterers may break $4.4m if there aren't further geopolitical issues over the weekend.
+In Suezmaxes, TD6 held up throughout the week at WS 95, owners are all sitting on the fence here too and don’t expect anything realistic to be paid before the picture in the East is clearer. Rates for Libya Ningbo are relatively soft with a few players very keen on this run for various reasons and we anticipate that charterers may break $4.4m if there aren’t further geopolitical issues over the weekend.
 
 A week of very little change in the Mediterranean Aframax sector. The usual topsy turvy moves did not come to pass and both owners and charterers were happy to fill their boots at WS130 levels XMED, +/- depending on routes in question. There was a spate of fixing which did tighten the list in the Med and gave owners hope, but with the Suezmax sector suffering in the Atlantic so did cargo cannibalisation from the larger sizes pressure Afras to lower their sights. With no support the market has remained rangebound as we approach the close. The fly in the ointment now is the political disruption in the Middle East and owners will look to keep their powder dry before the weekend in the hope that Monday could bear riper fruit.
 
@@ -62,7 +71,7 @@ The USG VLCC export market seems to found its floor and stayed there for most of
 
 A week in the North which simply failed to ignite with rates consistently trading in the mid-low 120s. States market falling has stopped further potential ballasters which will keep the tonnage list well stocked as rates will likely trade sideways for the time being with fresh enquiry remaining slow.
 
-Crude Tanker Spot Rates (WS)
+*Chart: Crude Tanker Spot Rates (WS) - Gibson daily assessments, kept in data/extracted/series/gibson_spot_chart_daily.csv*
 
 ## Clean Products
 
@@ -78,13 +87,13 @@ General MR Atlantic sentiment has slowed this week, and rates have corrected dow
 
 Not a vast amount to talk about here in this UKC Handy sector as despite the limited fixing levels, this was paired equally with limited tonnage and therefore rates held steady. 30 x WS155-160 has been the general range for fixing with things becoming a little tighter as the week developed and with a couple of tricky stems to cover still there, potential for further gains remains. Owners will have to keep a look over their shoulder though as we come close once again to being pinned back by the larger MRs being equally competitive for the short runs.
 
-### Mediterranean
+### Med
 
-The MR Med has been divided this week with the WMed being driven by Sines and grade sensitivity, seeing highs of 37 x WS145 TA. In contrast the EMed has been a little lacklustre and owners in that region have taken what they can to get back into the Atlantic basin with levels around the 37 x WS132.5 level. A lot of questions surround the impact of events in the Middle East and knock on effects to the Med market. If one were to strip those events out then in general the Med is looking bearish, but the impact from the East could throw in multiple curve balls so it's a developing situation with an unknown outcome.
+The MR Med has been divided this week with the WMed being driven by Sines and grade sensitivity, seeing highs of 37 x WS145 TA. In contrast the EMed has been a little lacklustre and owners in that region have taken what they can to get back into the Atlantic basin with levels around the 37 x WS132.5 level. A lot of questions surround the impact of events in the Middle East and knock on effects to the Med market. If one were to strip those events out then in general the Med is looking bearish, but the impact from the East could throw in multiple curve balls so it’s a developing situation with an unknown outcome.
 
 A stagnated week ends for Handy owners in the Med with TC6 remaining steady at 30 x WS130. There was some positive sentiment from owners at the start, with hopes that some grade sensitive stems could create some upward momentum. However, this turned out not to be the case and the tonnage list proved too well stocked with rates favouring charterers. Looking forward, owners will be hopeful ships get their subs and tonnage tightens next week. Additionally, geopolitical developments in the AG region may be the catalyst owners need to kickstart some positive movement. With 30 x WS130 seemingly being the floor, all prospects of rates rallying are dependent on steady enquiry and chopping through tonnage.
 
-Clean Tanker Spot Rates (WS)
+*Chart: Clean Tanker Spot Rates (WS) - Gibson daily assessments, kept in data/extracted/series/gibson_spot_chart_daily.csv*
 
 ## Dirty Products
 
@@ -102,39 +111,36 @@ The North has seen another fresh test with 45 x WS175 fully fixed marking a 5-po
 
 Little for Panamax owners to get excited about unfortunately as enquiry stays elusive this side of the Atlantic. Tonnage is there to be worked but there is a flat regarding this market for now. TD21 has further softened this week along with the surrounding region. More enquiry will need to surface to clear tonnage build-up if the bleeding is to stop.
 
-Dirty Product Tanker Spot Rates (WS)
+*Chart: Dirty Product Tanker Spot Rates (WS) - Gibson daily assessments, kept in data/extracted/series/gibson_spot_chart_daily.csv*
 
 ## Rates & Bunkers
 
-### Clean & Dirty Tanker Spot Market Developments - Spot Worldscale
+#### Clean and Dirty Tanker Spot Market Developments – Spot WS and $/day TCE (a)
 
-| Route | Category | Vessel | Description | WoW Change | Current | Previous | Last Month | FFA |
-|---|---|---|---|---|---|---|---|---|
-| TD3C | Dirty Tanker Spot | VLCC | VLCC AG-China | -1.0 | 44.0 | 44.0 | 64.0 | 56.0 |
-| TD20 | Dirty Tanker Spot | Suezmax | Suezmax WAF-UKC | -14.0 | 75.0 | 89.0 | 86.0 | 91.0 |
-| TD25 | Dirty Tanker Spot | Aframax | Aframax USG-UKC | -35.0 | 138.0 | 173.0 | 148.0 | 156.0 |
-| TC1 | Clean Tanker Spot | LR2 | LR2 AG-Japan | -15.0 | 114.0 | 129.0 | 142.0 | - |
-| TC18 | Clean Tanker Spot | MR | MR USG-Brazil | -4.0 | 163.0 | 166.0 | 137.0 | 163.0 |
-| TC5 | Clean Tanker Spot | LR1 | LR1 AG-Japan | -20.0 | 139.0 | 159.0 | 161.0 | 145.0 |
-| TC7 | Clean Tanker Spot | MR | MR Singapore-EC Aus | -4.0 | 196.0 | 200.0 | 199.0 | 185.0 |
-
-### Clean & Dirty Tanker Spot Market Developments - $/day TCE
-
-| Route | Category | Vessel | Description | WoW Change ($) | Current ($/day) | Previous ($/day) | Last Month ($/day) | FFA ($/day) |
-|---|---|---|---|---|---|---|---|---|
-| TD3C | Dirty Tanker Spot | VLCC | VLCC AG-China | -1250.0 | 22500.0 | 23750.0 | 47500.0 | 33250.0 |
-| TD20 | Dirty Tanker Spot | Suezmax | Suezmax WAF-UKC | -9500.0 | 24250.0 | 33750.0 | 32250.0 | 32500.0 |
-| TD25 | Dirty Tanker Spot | Aframax | Aframax USG-UKC | -13500.0 | 31250.0 | 44750.0 | 35250.0 | 34000.0 |
-| TC1 | Clean Tanker Spot | LR2 | LR2 AG-Japan | -5500.0 | 23500.0 | 29000.0 | 32750.0 | - |
-| TC18 | Clean Tanker Spot | MR | MR USG-Brazil | -1250.0 | 18750.0 | 20000.0 | 14250.0 | 16750.0 |
-| TC5 | Clean Tanker Spot | LR1 | LR1 AG-Japan | -5250.0 | 21500.0 | 26750.0 | 26750.0 | 21000.0 |
-| TC7 | Clean Tanker Spot | MR | MR Singapore-EC Aus | -1000.0 | 22000.0 | 23000.0 | 22500.0 | 19250.0 |
-
-### Bunker Prices ($/tonne)
-
-| Port | Grade | WoW Change ($) | Current ($/t) | Previous ($/t) | Last Month ($/t) |
+|  | wk on wk change | Jun 12th | Jun 5th | Last Month* | FFA Q2 |
 |---|---|---|---|---|---|
-| Rotterdam | VLSFO | 4.0 | 477.0 | 473.0 | 466.0 |
-| Fujairah | VLSFO | 19.0 | 515.0 | 496.0 | 517.0 |
-| Singapore | VLSFO | 20.0 | 524.0 | 504.0 | 527.0 |
-| Rotterdam | LSMGO | 23.0 | 631.0 | 608.0 | 619.0 |
+| TD3C VLCC AG-China WS | -1 | 44 | 44 | 64 | 56 |
+| TD3C VLCC AG-China TCE $/day | -1,250 | 22,500 | 23,750 | 47,500 | 33,250 |
+| TD20 Suezmax WAF-UKC WS | -14 | 75 | 89 | 86 | 91 |
+| TD20 Suezmax WAF-UKC TCE $/day | -9,500 | 24,250 | 33,750 | 32,250 | 32,500 |
+| TD25 Aframax USG-UKC WS | -35 | 138 | 173 | 148 | 156 |
+| TD25 Aframax USG-UKC TCE $/day | -13,500 | 31,250 | 44,750 | 35,250 | 34,000 |
+| TC1 LR2 AG-Japan WS | -15 | 114 | 129 | 142 |  |
+| TC1 LR2 AG-Japan TCE $/day | -5,500 | 23,500 | 29,000 | 32,750 |  |
+| TC18 MR USG-Brazil WS | -4 | 163 | 166 | 137 | 163 |
+| TC18 MR USG-Brazil TCE $/day | -1,250 | 18,750 | 20,000 | 14,250 | 16,750 |
+| TC5 LR1 AG-Japan WS | -20 | 139 | 159 | 161 | 145 |
+| TC5 LR1 AG-Japan TCE $/day | -5,250 | 21,500 | 26,750 | 26,750 | 21,000 |
+| TC7 MR Singapore-EC Aus WS | -4 | 196 | 200 | 199 | 185 |
+| TC7 MR Singapore-EC Aus TCE $/day | -1,000 | 22,000 | 23,000 | 22,500 | 19,250 |
+
+(a) based on round voyage economics at ‘market’ speed, eco, non-scrubber basis
+
+#### Bunker Prices ($/tonne)
+
+|  | wk on wk change | Jun 12th | Jun 5th | Last Month* |
+|---|---|---|---|---|
+| Rotterdam VLSFO | +4 | 477 | 473 | 466 |
+| Fujairah VLSFO | +19 | 515 | 496 | 517 |
+| Singapore VLSFO | +20 | 524 | 504 | 527 |
+| Rotterdam LSMGO | +23 | 631 | 608 | 619 |

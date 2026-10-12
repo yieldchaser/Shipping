@@ -18,8 +18,6 @@ charts_count: 4
 
 ## Feature Story
 
-Home > Persistent Weakness
-
 Crude and product tanker markets have been under heavy pressure so far in Q4, with clean West rates currently the only bright spot. Whilst markets are frequently volatile, persistently weaker returns in the middle of a traditionally strong fourth quarter are causing concern. What are the demand factors behind weaker rates and earnings?
 
 Aframaxes have been under the biggest pressure on the crude side. Kpler data shows global crude tonne miles for this size group are down by circa 2.5% year-on-year during the first ten months of 2024, despite the start-up of the expanded TMX pipeline and an uptick in trade out of the US. Here, the largest decline in tonne miles have been seen out of Russia; yet, Red Sea attacks and maturing crude production in Asia have added further downward pressure, whilst recent outages in Libya and field maintenance in the North and Caspian Seas have also temporarily reduced demand.
@@ -32,15 +30,28 @@ The picture is more complex for the clean tanker market. Averaging data for the 
 
 Whilst some factors behind weaker rates are individual for specific segments, there are a few recurrent themes. A struggling Chinese economy has impacted both crude and clean tanker tonne miles and the changes here are fundamental. Dirty-to-clean switching has been a major blow not just to LR demand but has also led to a recalibration of regional MR freight in the East. This trend is also likely to be on a structural side; yet, any substantial increase (including seasonal) in the crude tanker market relative to clean will limit the attractiveness of switching. The decline in Russian crude and clean exports hit the crude and product tanker market in equal measure. The drop in volumes here is in part seasonal, driven by OPEC+ production strategy, seasonal demand and refinery maintenance; yet, frequent drone attacks coupled with challenging export economics have caused more permanent damage to refining margins. Going forward, fundamental changes are here to stay. Although seasonality will change, offering some support; nonetheless, total demand may struggle to return to recent peaks.
 
-Russian Crude and CPP Exports in the West (kbd)
+*Chart: Russian Crude and CPP Exports in the West (kbd)*
 
-Subscribe to our newsletter and make sure you're first to get the latest research and reports, straight to your inbox.
+Chart data as embedded in the report:
+
+|  | Crude exports | CPP exports |
+|---|---|---|
+| 01/01/2024 | 2243 | 1736 |
+| 01/02/2024 | 2039 | 1645 |
+| 01/03/2024 | 2595 | 1480 |
+| 01/04/2024 | 2469 | 1309 |
+| 01/05/2024 | 2324 | 1388 |
+| 01/06/2024 | 2371 | 1331 |
+| 01/07/2024 | 2005 | 1447 |
+| 01/08/2024 | 1962 | 1164 |
+| 01/09/2024 | 2207 | 1277 |
+| 01/10/2024 | 2258 | 1127 |
 
 ## Crude Oil
 
 ### East
 
-The VLCC market seems to have found its floor after a challenging week, where a large amount of unfixed tonnage, including a large amount of relets, put downward pressure on an already inactive market. Owners are showing a bit more resistance but next week could be challenging, as the fundamentals are in the charterers' favour with demand lower than normal for this time of the year. Today we are calling AG/China in the region of WS53.5 and 280 AG to USG fetching WS31 level.
+The VLCC market seems to have found its floor after a challenging week, where a large amount of unfixed tonnage, including a large amount of relets, put downward pressure on an already inactive market. Owners are showing a bit more resistance but next week could be challenging, as the fundamentals are in the charterers’ favour with demand lower than normal for this time of the year. Today we are calling AG/China in the region of WS53.5 and 280 AG to USG fetching WS31 level.
 
 Suezmax runs to East and West Coast India were the most prevalent, clipping off early tonnage as we started the week. This gave a good benchmark for West earnings as well, though the push on rates was slightly scuppered after the larger sizes came under pressure. We end the weak on a steady note, with Basrah/Med run via Cape paying 140 x WS57.5. Suezmax owners looking for an East run are likely to see rates at the 130 x WS100 level.
 
@@ -48,7 +59,7 @@ The week started with sentiment weak and tonnage heavy as rates quickly fell to 
 
 ### West Africa
 
-VLCC freight rates remain under pressure, with low activity levels and weak sentiment on both long East and shorter runs to Europe. It will not be an easy fix with AG and USG markets in the doldrums, so charterers may benefit next week as they cover last decade December barrels. Owners are hoping for more demand from other areas of the Atlantic and with AG close to the bottom of its current cycle expect some resistance especially on cargoes going East. Off natural dates we estimate that on today's market a 260 WAF/China run would pay around WS57 level.
+VLCC freight rates remain under pressure, with low activity levels and weak sentiment on both long East and shorter runs to Europe. It will not be an easy fix with AG and USG markets in the doldrums, so charterers may benefit next week as they cover last decade December barrels. Owners are hoping for more demand from other areas of the Atlantic and with AG close to the bottom of its current cycle expect some resistance especially on cargoes going East. Off natural dates we estimate that on today’s market a 260 WAF/China run would pay around WS57 level.
 
 The Atlantic Suezmax market recovered after Bahri week and owners were able to drive rates up. After several cargoes came out on top of each other and after a rally on rates for both East and West runs, some are already calling the market down as Thanksgiving is on the horizon and a quieter US market is expected. As things stand today, TD20 is likely to pay around WS75 levels.
 
@@ -56,19 +67,19 @@ The Atlantic Suezmax market recovered after Bahri week and owners were able to d
 
 The Med experienced a quiet start, however, weather delays in the Turkish Straits meant some charterers had to find coverage earlier than expected in the Black Sea. With enough tonnage, those that came out early achieved last done levels. Yet, with the smaller sizes pushing, this gives the chance for Suezmax owners to move on levels as well. Today a TD6 run could be paid at 135 x WS90. With limited runs East reported, a Libya/East run has not changed with a lumpsum rate paying $4.5M, though as we get further into winter some Suezmax may look to lock levels in.
 
-Competition for tonnage between key loading ports, Ceyhan and CPC, has significantly energized the market this week, transforming what has been a lacklustre Q4 so far. Delays in the Turkish Straits provided further support, allowing firm ships to be fixed steadily and with increasing frequency as the week progressed. The pivotal moment came midweek, as charterers began fixing further forward, accepting modest rate increments between deals. This created upward momentum, further fuelled by complications with late-running vessels. By the week's end, rates had risen ca. WS30 points on CPC runs to WS155-160 levels, though not all segments are seeing the same activity. Lists for North African liftings remain relatively well-supplied and thus Ceyhan voyages are nudging WS140 levels by the close.
+Competition for tonnage between key loading ports, Ceyhan and CPC, has significantly energized the market this week, transforming what has been a lacklustre Q4 so far. Delays in the Turkish Straits provided further support, allowing firm ships to be fixed steadily and with increasing frequency as the week progressed. The pivotal moment came midweek, as charterers began fixing further forward, accepting modest rate increments between deals. This created upward momentum, further fuelled by complications with late-running vessels. By the week’s end, rates had risen ca. WS30 points on CPC runs to WS155-160 levels, though not all segments are seeing the same activity. Lists for North African liftings remain relatively well-supplied and thus Ceyhan voyages are nudging WS140 levels by the close.
 
 ### US Gulf/Latin America
 
 VLCC charterers have been moving slowly to cover cargoes from the USG, as they feel the momentum favours them with owners struggling to lift levels above last done. We will need to see more activity across the Atlantic market if we are to see a recovery before the end of the year. The Brazil export market also experienced a notable decrease in activity, although rates were more influenced by date-related factors than sentiment. Today we expect a USG/China cargo to pay in the region of $7.5m and a Brazil/China run is around the WS56 level.
 
-The local Aframax market in the USG remains steady and sideways at WS135 for TA. This helped buoy the Suezmaxes to WS65 for TA but otherwise not too much movement in any sector. A bit lackluster on the coming of a holiday that will create a short trading week; maybe Monday proves busy but it's not looking likely.
+The local Aframax market in the USG remains steady and sideways at WS135 for TA. This helped buoy the Suezmaxes to WS65 for TA but otherwise not too much movement in any sector. A bit lackluster on the coming of a holiday that will create a short trading week; maybe Monday proves busy but it’s not looking likely.
 
 ### North Sea
 
-Despite the moderate activity throughout this week, Aframax owners were able to gain traction largely due to the current poor weather conditions causing slippage in itineraries. For the first half, rates simmered around the mid WS120 levels but a continued flow of enquiry coupled with the replacement business saw owners' attitude improve as the week progressed. Still, units available to charterers should not expect anything too drastic in terms of rates, but nevertheless further steady increment seems likely.
+Despite the moderate activity throughout this week, Aframax owners were able to gain traction largely due to the current poor weather conditions causing slippage in itineraries. For the first half, rates simmered around the mid WS120 levels but a continued flow of enquiry coupled with the replacement business saw owners’ attitude improve as the week progressed. Still, units available to charterers should not expect anything too drastic in terms of rates, but nevertheless further steady increment seems likely.
 
-Crude Tanker Spot Rates (WS)
+*Chart: Crude Tanker Spot Rates (WS) - Gibson daily assessments, kept in data/extracted/series/gibson_spot_chart_daily.csv*
 
 ## Clean Products
 
@@ -86,19 +97,19 @@ Finally, to the Med MR market where rates are riding the coattails of their UKC 
 
 ### UK Continent
 
-It finally feels like this MR UKC market has got its mojo back after weeks in the doldrums. As we were left with a handful of stems from last week, Monday saw charterers jump into the market and try to grab a vessel before any traction was made by owners. This saw varying levels of success, but it didn't take long until TC2 was back up into the WS130s. Undesirable WAF runs continued to hold a 20ish point premium and with a lack of Handies around also, owners took advantage of a short run in hope of even better returns next time around. As we reach Friday, we see TC2 now pushed up to 37 x WS140 and can expect this potential to continue forward.
+It finally feels like this MR UKC market has got its mojo back after weeks in the doldrums. As we were left with a handful of stems from last week, Monday saw charterers jump into the market and try to grab a vessel before any traction was made by owners. This saw varying levels of success, but it didn’t take long until TC2 was back up into the WS130s. Undesirable WAF runs continued to hold a 20ish point premium and with a lack of Handies around also, owners took advantage of a short run in hope of even better returns next time around. As we reach Friday, we see TC2 now pushed up to 37 x WS140 and can expect this potential to continue forward.
 
 It has been a good week for Handy owners in the North, as we have seen the market bounce back. With limited Handy supply on the front end of the tonnage list partnered with a lack of MRs willing short haul, XUKC traded up to 30 x WS165. There is a feeling that further gains could be on the cards too as we head into next week.
 
-Clean Tanker Spot Rates (WS)
+*Chart: Clean Tanker Spot Rates (WS) - Gibson daily assessments, kept in data/extracted/series/gibson_spot_chart_daily.csv*
 
 ## Dirty Products
 
 ### Handy
 
-It's been a sluggish week in the North for Handies overall despite an early start to activity and a firming of levels. Enquiry has been slow to surface allowing for more units to work their way up the list. Naturally positioned tonnage is now providing more options for charterers, this coupled with WMed positioned units willing to ballast for north cargoes, we expect to see a steadier start the week ahead.
+It’s been a sluggish week in the North for Handies overall despite an early start to activity and a firming of levels. Enquiry has been slow to surface allowing for more units to work their way up the list. Naturally positioned tonnage is now providing more options for charterers, this coupled with WMed positioned units willing to ballast for north cargoes, we expect to see a steadier start the week ahead.
 
-The Med saw an active start to the week with a notable amount of activity on Tuesday, clearing units from the list and tightening it up. Levels firmed from 30 x WS165 to WS170 by week's end. Unfortunately for Owners, this momentum fell away towards the end of the week bringing back options for charterers and putting a halt to ideas of kicking levels on further. Looking ahead to next week, we expect levels to remain around the 30 x WS170 mark.
+The Med saw an active start to the week with a notable amount of activity on Tuesday, clearing units from the list and tightening it up. Levels firmed from 30 x WS165 to WS170 by week’s end. Unfortunately for Owners, this momentum fell away towards the end of the week bringing back options for charterers and putting a halt to ideas of kicking levels on further. Looking ahead to next week, we expect levels to remain around the 30 x WS170 mark.
 
 ### MR
 
@@ -106,41 +117,38 @@ Owners have seen little by way of enquiry at full-stem this week, and the usual 
 
 ### Panamax
 
-Little action to report for Panamaxes in Europe this week as enquiry struggles to surface, units begin to open end/early and with a steadier market over in the USG, owners again won't be keen to hang around. For that reason, we expect levels to remain around the 55 x WS125 mark. In the USG, activity has ticked up slightly but not enough to begin to firm up levels.
+Little action to report for Panamaxes in Europe this week as enquiry struggles to surface, units begin to open end/early and with a steadier market over in the USG, owners again won’t be keen to hang around. For that reason, we expect levels to remain around the 55 x WS125 mark. In the USG, activity has ticked up slightly but not enough to begin to firm up levels.
 
-Dirty Product Tanker Spot Rates (WS)
+*Chart: Dirty Product Tanker Spot Rates (WS) - Gibson daily assessments, kept in data/extracted/series/gibson_spot_chart_daily.csv*
 
 ## Rates & Bunkers
 
-### Clean & Dirty Tanker Spot Market Developments - Spot Worldscale
+#### Clean and Dirty Tanker Spot Market Developments – Spot WS and $/day TCE (a)
 
-| Route | Category | Vessel | Description | WoW Change | Current | Previous | Last Month | FFA |
-|---|---|---|---|---|---|---|---|---|
-| TD3C | Dirty Tanker Spot | VLCC | VLCC AG-China | - | 54.0 | 54.0 | 57.0 | 56.0 |
-| TD20 | Dirty Tanker Spot | Suezmax | Suezmax WAF-UKC | 4.0 | 80.0 | 76.0 | 100.0 | 90.0 |
-| TD25 | Dirty Tanker Spot | Aframax | Aframax USG-UKC | 23.0 | 134.0 | 111.0 | 174.0 | 157.0 |
-| TC1 | Clean Tanker Spot | LR2 | LR2 AG-Japan | 5.0 | 100.0 | 95.0 | 125.0 | - |
-| TC18 | Clean Tanker Spot | MR | MR USG-Brazil | 20.0 | 217.0 | 196.0 | 183.0 | 217.0 |
-| TC5 | Clean Tanker Spot | LR1 | LR1 AG-Japan | 3.0 | 109.0 | 106.0 | 137.0 | 124.0 |
-| TC7 | Clean Tanker Spot | MR | MR Singapore-EC Aus | 1.0 | 159.0 | 158.0 | 180.0 | 180.0 |
-
-### Clean & Dirty Tanker Spot Market Developments - $/day TCE
-
-| Route | Category | Vessel | Description | WoW Change ($) | Current ($/day) | Previous ($/day) | Last Month ($/day) | FFA ($/day) |
-|---|---|---|---|---|---|---|---|---|
-| TD3C | Dirty Tanker Spot | VLCC | VLCC AG-China | 250.0 | 33250.0 | 33000.0 | 35500.0 | 30000.0 |
-| TD20 | Dirty Tanker Spot | Suezmax | Suezmax WAF-UKC | 2750.0 | 27250.0 | 24500.0 | 39000.0 | 29500.0 |
-| TD25 | Dirty Tanker Spot | Aframax | Aframax USG-UKC | 8500.0 | 29000.0 | 20500.0 | 43500.0 | 33750.0 |
-| TC1 | Clean Tanker Spot | LR2 | LR2 AG-Japan | 2250.0 | 17000.0 | 14750.0 | 25250.0 | - |
-| TC18 | Clean Tanker Spot | MR | MR USG-Brazil | 3750.0 | 28250.0 | 24500.0 | 22250.0 | 25250.0 |
-| TC5 | Clean Tanker Spot | LR1 | LR1 AG-Japan | 1000.0 | 12000.0 | 11000.0 | 18750.0 | 13750.0 |
-| TC7 | Clean Tanker Spot | MR | MR Singapore-EC Aus | 500.0 | 14250.0 | 13750.0 | 17500.0 | 15000.0 |
-
-### Bunker Prices ($/tonne)
-
-| Port | Grade | WoW Change ($) | Current ($/t) | Previous ($/t) | Last Month ($/t) |
+|  | wk on wk change | Nov 21st | Nov 14th | Last Month* | FFA Q4 |
 |---|---|---|---|---|---|
-| Rotterdam | VLSFO | - | 519.0 | 519.0 | 537.0 |
-| Fujairah | VLSFO | -6.0 | 555.0 | 561.0 | 567.0 |
-| Singapore | VLSFO | -9.0 | 566.0 | 575.0 | 587.0 |
-| Rotterdam | LSMGO | 4.0 | 670.0 | 666.0 | 634.0 |
+| TD3C VLCC AG-China WS | 0 | 54 | 54 | 57 | 56 |
+| TD3C VLCC AG-China TCE $/day | 250 | 33,250 | 33,000 | 35,500 | 30,000 |
+| TD20 Suezmax WAF-UKC WS | 4 | 80 | 76 | 100 | 90 |
+| TD20 Suezmax WAF-UKC TCE $/day | 2,750 | 27,250 | 24,500 | 39,000 | 29,500 |
+| TD25 Aframax USG-UKC WS | 23 | 134 | 111 | 174 | 157 |
+| TD25 Aframax USG-UKC TCE $/day | 8,500 | 29,000 | 20,500 | 43,500 | 33,750 |
+| TC1 LR2 AG-Japan WS | 5 | 100 | 95 | 125 |  |
+| TC1 LR2 AG-Japan TCE $/day | 2,250 | 17,000 | 14,750 | 25,250 |  |
+| TC18 MR USG-Brazil WS | 20 | 217 | 196 | 183 | 217 |
+| TC18 MR USG-Brazil TCE $/day | 3,750 | 28,250 | 24,500 | 22,250 | 25,250 |
+| TC5 LR1 AG-Japan WS | 3 | 109 | 106 | 137 | 124 |
+| TC5 LR1 AG-Japan TCE $/day | 1,000 | 12,000 | 11,000 | 18,750 | 13,750 |
+| TC7 MR Singapore-EC Aus WS | 1 | 159 | 158 | 180 | 180 |
+| TC7 MR Singapore-EC Aus TCE $/day | 500 | 14,250 | 13,750 | 17,500 | 15,000 |
+
+(a) based on round voyage economics at ‘market’ speed, eco, non-scrubber basis
+
+#### Bunker Prices ($/tonne)
+
+|  | wk on wk change | Nov 21st | Nov 14th | Last Month* |
+|---|---|---|---|---|
+| Rotterdam VLSFO | +0 | 519 | 519 | 537 |
+| Fujairah VLSFO | -6 | 555 | 561 | 567 |
+| Singapore VLSFO | -9 | 566 | 575 | 587 |
+| Rotterdam LSMGO | +4 | 670 | 666 | 634 |

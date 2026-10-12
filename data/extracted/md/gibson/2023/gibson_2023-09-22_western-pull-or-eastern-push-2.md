@@ -18,10 +18,6 @@ charts_count: 0
 
 ## Feature Story
 
-Home > Western Pull or Eastern Push?
-
 There has been a critical error on this website.
 
 Learn more about troubleshooting WordPress.
-
-## Rates & Bunkers

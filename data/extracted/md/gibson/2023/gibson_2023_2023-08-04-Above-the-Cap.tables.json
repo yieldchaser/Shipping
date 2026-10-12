@@ -109,9 +109,9 @@
       "vessel_class": "LR2",
       "route_description": "AG-Japan",
       "change_wow": 26.0,
-      "rate_current": null,
-      "rate_prev": null,
-      "rate_last_month": null,
+      "rate_current": 156.0,
+      "rate_prev": 130.0,
+      "rate_last_month": 99.0,
       "ffa_value": null,
       "ffa_period": "",
       "source_file": "corpus/01-brokers/gibson/2023/gibson_2023_2023-08-04-Above-the-Cap.pdf"
@@ -235,10 +235,10 @@
       "report_week": 31,
       "port": "Rotterdam",
       "grade": "VLSFO",
-      "change_wow": 612.0,
-      "price_current": 567.0,
-      "price_prev": 534.0,
-      "price_last_month": null,
+      "change_wow": 45.0,
+      "price_current": 612.0,
+      "price_prev": 567.0,
+      "price_last_month": 534.0,
       "source_file": "corpus/01-brokers/gibson/2023/gibson_2023_2023-08-04-Above-the-Cap.pdf"
     },
     {

@@ -332,7 +332,7 @@ issue_date,report_week,port,grade,change_wow,price_current,price_prev,price_last
 2023-03-17,11,Rotterdam,VLSFO,-52.0,524.0,576.0,591.0,corpus/01-brokers/gibson/2023/gibson_2023_2023-03-17-Down-Under.pdf
 2023-03-17,11,Singapore,VLSFO,-55.0,543.0,598.0,645.0,corpus/01-brokers/gibson/2023/gibson_2023_2023-03-17-Down-Under.pdf
 2023-03-24,12,Fujairah,VLSFO,17.0,558.0,541.0,596.0,corpus/01-brokers/gibson/2023/gibson_2023_2023-03-24-Onboard-CO2-Capture.pdf
-2023-03-24,12,Rotterdam,LSMGO,761.0,716.0,760.0,,corpus/01-brokers/gibson/2023/gibson_2023_2023-03-24-Onboard-CO2-Capture.pdf
+2023-03-24,12,Rotterdam,LSMGO,45.0,761.0,716.0,760.0,corpus/01-brokers/gibson/2023/gibson_2023_2023-03-24-Onboard-CO2-Capture.pdf
 2023-03-24,12,Rotterdam,VLSFO,14.0,538.0,524.0,553.0,corpus/01-brokers/gibson/2023/gibson_2023_2023-03-24-Onboard-CO2-Capture.pdf
 2023-03-24,12,Singapore,VLSFO,27.0,570.0,543.0,587.0,corpus/01-brokers/gibson/2023/gibson_2023_2023-03-24-Onboard-CO2-Capture.pdf
 2023-04-14,15,Fujairah,VLSFO,19.0,617.0,598.0,541.0,corpus/01-brokers/gibson/2023/gibson_2023_2023-04-14-Mind-the-Cap.pdf
@@ -356,7 +356,7 @@ issue_date,report_week,port,grade,change_wow,price_current,price_prev,price_last
 2023-05-05,18,Rotterdam,VLSFO,-25.0,520.0,545.0,587.0,corpus/01-brokers/gibson/2023/gibson_2023_2023-05-05-A-Sign-of-the-Times.pdf
 2023-05-05,18,Singapore,VLSFO,-19.0,572.0,591.0,603.0,corpus/01-brokers/gibson/2023/gibson_2023_2023-05-05-A-Sign-of-the-Times.pdf
 2023-05-12,19,Fujairah,VLSFO,-6.0,550.0,556.0,617.0,corpus/01-brokers/gibson/2023/gibson_2023_2023-05-12-Lost-in-Transit.pdf
-2023-05-12,19,Rotterdam,LSMGO,670.0,633.0,769.0,,corpus/01-brokers/gibson/2023/gibson_2023_2023-05-12-Lost-in-Transit.pdf
+2023-05-12,19,Rotterdam,LSMGO,37.0,670.0,633.0,769.0,corpus/01-brokers/gibson/2023/gibson_2023_2023-05-12-Lost-in-Transit.pdf
 2023-05-12,19,Rotterdam,VLSFO,8.0,528.0,520.0,597.0,corpus/01-brokers/gibson/2023/gibson_2023_2023-05-12-Lost-in-Transit.pdf
 2023-05-12,19,Singapore,VLSFO,-8.0,564.0,572.0,620.0,corpus/01-brokers/gibson/2023/gibson_2023_2023-05-12-Lost-in-Transit.pdf
 2023-05-19,20,Fujairah,VLSFO,0.0,550.0,550.0,621.0,corpus/01-brokers/gibson/2023/gibson_2023_2023-05-19-Economic-headwinds.pdf
@@ -401,16 +401,16 @@ issue_date,report_week,port,grade,change_wow,price_current,price_prev,price_last
 2023-07-28,30,Singapore,VLSFO,16.0,586.0,570.0,575.0,corpus/01-brokers/gibson/2023/gibson_2023_2023-07-28-Trouble-in-the-Rhineland.pdf
 2023-08-04,31,Fujairah,VLSFO,49.0,630.0,581.0,560.0,corpus/01-brokers/gibson/2023/gibson_2023_2023-08-04-Above-the-Cap.pdf
 2023-08-04,31,Rotterdam,LSMGO,89.0,891.0,802.0,713.0,corpus/01-brokers/gibson/2023/gibson_2023_2023-08-04-Above-the-Cap.pdf
-2023-08-04,31,Rotterdam,VLSFO,612.0,567.0,534.0,,corpus/01-brokers/gibson/2023/gibson_2023_2023-08-04-Above-the-Cap.pdf
+2023-08-04,31,Rotterdam,VLSFO,45.0,612.0,567.0,534.0,corpus/01-brokers/gibson/2023/gibson_2023_2023-08-04-Above-the-Cap.pdf
 2023-08-04,31,Singapore,VLSFO,47.0,633.0,586.0,575.0,corpus/01-brokers/gibson/2023/gibson_2023_2023-08-04-Above-the-Cap.pdf
 2023-08-11,32,Fujairah,VLSFO,1.0,631.0,630.0,559.0,corpus/01-brokers/gibson/2023/gibson_2023_2023-08-11-If-You-Build-It-They-Will-Come.pdf
-2023-08-11,32,Rotterdam,LSMGO,901.0,891.0,750.0,,corpus/01-brokers/gibson/2023/gibson_2023_2023-08-11-If-You-Build-It-They-Will-Come.pdf
+2023-08-11,32,Rotterdam,LSMGO,10.0,901.0,891.0,750.0,corpus/01-brokers/gibson/2023/gibson_2023_2023-08-11-If-You-Build-It-They-Will-Come.pdf
 2023-08-11,32,Rotterdam,VLSFO,3.0,615.0,612.0,543.0,corpus/01-brokers/gibson/2023/gibson_2023_2023-08-11-If-You-Build-It-They-Will-Come.pdf
 2023-08-11,32,Singapore,VLSFO,-2.0,631.0,633.0,570.0,corpus/01-brokers/gibson/2023/gibson_2023_2023-08-11-If-You-Build-It-They-Will-Come.pdf
 2023-08-18,33,Fujairah,VLSFO,-2.0,629.0,631.0,562.0,corpus/01-brokers/gibson/2023/gibson_2023_2023-08-18-End-of-an-Era.pdf
 2023-08-18,33,Rotterdam,LSMGO,-30.0,871.0,901.0,753.0,corpus/01-brokers/gibson/2023/gibson_2023_2023-08-18-End-of-an-Era.pdf
-2023-08-18,33,Rotterdam,VLSFO,589.0,615.0,547.0,,corpus/01-brokers/gibson/2023/gibson_2023_2023-08-18-End-of-an-Era.pdf
-2023-08-18,33,Singapore,VLSFO,639.0,631.0,570.0,,corpus/01-brokers/gibson/2023/gibson_2023_2023-08-18-End-of-an-Era.pdf
+2023-08-18,33,Rotterdam,VLSFO,-26.0,589.0,615.0,547.0,corpus/01-brokers/gibson/2023/gibson_2023_2023-08-18-End-of-an-Era.pdf
+2023-08-18,33,Singapore,VLSFO,8.0,639.0,631.0,570.0,corpus/01-brokers/gibson/2023/gibson_2023_2023-08-18-End-of-an-Era.pdf
 2023-08-25,34,Fujairah,VLSFO,-18.0,611.0,629.0,581.0,corpus/01-brokers/gibson/2023/gibson_2023_Gibson-Shipbrokers_week-34.pdf
 2023-08-25,34,Rotterdam,LSMGO,21.0,892.0,871.0,802.0,corpus/01-brokers/gibson/2023/gibson_2023_Gibson-Shipbrokers_week-34.pdf
 2023-08-25,34,Rotterdam,VLSFO,1.0,590.0,589.0,567.0,corpus/01-brokers/gibson/2023/gibson_2023_Gibson-Shipbrokers_week-34.pdf
@@ -473,7 +473,7 @@ issue_date,report_week,port,grade,change_wow,price_current,price_prev,price_last
 2023-12-08,49,Singapore,VLSFO,-51.0,597.0,648.0,669.0,corpus/01-brokers/gibson/html/2023/2023-12-08_output-momentum.html
 2023-12-15,50,Fujairah,VLSFO,-10.0,576.0,586.0,658.0,corpus/01-brokers/gibson/html/2023/2023-12-15_2023-turmoil.html
 2023-12-15,50,Rotterdam,LSMGO,-7.0,729.0,736.0,776.0,corpus/01-brokers/gibson/html/2023/2023-12-15_2023-turmoil.html
-2023-12-15,50,Rotterdam,VLSFO,,,100.1,,corpus/01-brokers/gibson/html/2023/2023-12-15_2023-turmoil.html
+2023-12-15,50,Rotterdam,VLSFO,-8.0,528.0,536.0,576.0,corpus/01-brokers/gibson/html/2023/2023-12-15_2023-turmoil.html
 2023-12-15,50,Singapore,VLSFO,-20.0,577.0,597.0,676.0,corpus/01-brokers/gibson/html/2023/2023-12-15_2023-turmoil.html
 2024-01-05,1,Fujairah,VLSFO,-11.0,610.0,621.0,586.0,corpus/01-brokers/gibson/html/2024/2024-01-05_a-year-ahead.html
 2024-01-05,1,Rotterdam,LSMGO,16.0,741.0,725.0,736.0,corpus/01-brokers/gibson/html/2024/2024-01-05_a-year-ahead.html
@@ -577,8 +577,8 @@ issue_date,report_week,port,grade,change_wow,price_current,price_prev,price_last
 2024-06-28,26,Singapore,VLSFO,19.0,612.0,593.0,596.0,corpus/01-brokers/gibson/html/2024/2024-06-28_mired-in-mrs.html
 2024-07-05,27,Fujairah,VLSFO,15.0,635.0,620.0,570.0,corpus/01-brokers/gibson/html/2024/2024-07-05_mid-year-review.html
 2024-07-05,27,Rotterdam,LSMGO,-11.0,756.0,767.0,701.0,corpus/01-brokers/gibson/html/2024/2024-07-05_mid-year-review.html
-2024-07-05,27,Rotterdam,VLSFO,74.98,83.0,,,corpus/01-brokers/gibson/html/2024/2024-07-05_mid-year-review.html
-2024-07-05,27,Singapore,VLSFO,,,,,corpus/01-brokers/gibson/html/2024/2024-07-05_mid-year-review.html
+2024-07-05,27,Rotterdam,VLSFO,15.0,587.0,572.0,521.0,corpus/01-brokers/gibson/html/2024/2024-07-05_mid-year-review.html
+2024-07-05,27,Singapore,VLSFO,11.0,634.0,623.0,571.0,corpus/01-brokers/gibson/html/2024/2024-07-05_mid-year-review.html
 2024-07-12,28,Fujairah,VLSFO,-12.0,623.0,635.0,595.0,corpus/01-brokers/gibson/html/2024/2024-07-12_cash-cow.html
 2024-07-12,28,Rotterdam,LSMGO,-22.0,734.0,756.0,731.0,corpus/01-brokers/gibson/html/2024/2024-07-12_cash-cow.html
 2024-07-12,28,Rotterdam,VLSFO,-16.0,571.0,587.0,543.0,corpus/01-brokers/gibson/html/2024/2024-07-12_cash-cow.html
@@ -619,6 +619,10 @@ issue_date,report_week,port,grade,change_wow,price_current,price_prev,price_last
 2024-09-13,37,Rotterdam,LSMGO,-42.0,599.0,641.0,691.0,corpus/01-brokers/gibson/html/2024/2024-09-13_mexicos-malaise.html
 2024-09-13,37,Rotterdam,VLSFO,-51.0,486.0,537.0,560.0,corpus/01-brokers/gibson/html/2024/2024-09-13_mexicos-malaise.html
 2024-09-13,37,Singapore,VLSFO,-54.0,571.0,625.0,600.0,corpus/01-brokers/gibson/html/2024/2024-09-13_mexicos-malaise.html
+2024-09-20,38,Fujairah,VLSFO,3.0,567.0,564.0,595.0,corpus/01-brokers/gibson/html/2024/2024-09-20_losing-relevance.html
+2024-09-20,38,Rotterdam,LSMGO,17.0,616.0,599.0,644.0,corpus/01-brokers/gibson/html/2024/2024-09-20_losing-relevance.html
+2024-09-20,38,Rotterdam,VLSFO,28.0,514.0,486.0,526.0,corpus/01-brokers/gibson/html/2024/2024-09-20_losing-relevance.html
+2024-09-20,38,Singapore,VLSFO,10.0,581.0,571.0,608.0,corpus/01-brokers/gibson/html/2024/2024-09-20_losing-relevance.html
 2024-09-27,39,Fujairah,VLSFO,-11.0,556.0,567.0,614.0,corpus/01-brokers/gibson/html/2024/2024-09-27_russian-effect.html
 2024-09-27,39,Rotterdam,LSMGO,-6.0,610.0,616.0,660.0,corpus/01-brokers/gibson/html/2024/2024-09-27_russian-effect.html
 2024-09-27,39,Rotterdam,VLSFO,12.0,526.0,514.0,554.0,corpus/01-brokers/gibson/html/2024/2024-09-27_russian-effect.html
@@ -669,7 +673,7 @@ issue_date,report_week,port,grade,change_wow,price_current,price_prev,price_last
 2024-12-13,50,Singapore,VLSFO,-20.0,535.0,555.0,586.0,corpus/01-brokers/gibson/html/2024/2024-12-13_choppy-waters-ahead.html
 2024-12-20,51,Fujairah,VLSFO,15.0,542.0,527.0,561.0,corpus/01-brokers/gibson/html/2024/2024-12-20_the-year-in-review.html
 2024-12-20,51,Rotterdam,LSMGO,12.0,643.0,631.0,666.0,corpus/01-brokers/gibson/html/2024/2024-12-20_the-year-in-review.html
-2024-12-20,51,Rotterdam,VLSFO,,102.3,,,corpus/01-brokers/gibson/html/2024/2024-12-20_the-year-in-review.html
+2024-12-20,51,Rotterdam,VLSFO,11.0,516.0,505.0,519.0,corpus/01-brokers/gibson/html/2024/2024-12-20_the-year-in-review.html
 2024-12-20,51,Singapore,VLSFO,14.0,549.0,535.0,575.0,corpus/01-brokers/gibson/html/2024/2024-12-20_the-year-in-review.html
 2025-01-10,2,Fujairah,VLSFO,15.0,561.0,546.0,542.0,corpus/01-brokers/gibson/html/2025/2025-01-10_sanctions-sting.html
 2025-01-10,2,Rotterdam,LSMGO,9.0,659.0,650.0,655.0,corpus/01-brokers/gibson/html/2025/2025-01-10_sanctions-sting.html
@@ -925,6 +929,7 @@ issue_date,report_week,port,grade,change_wow,price_current,price_prev,price_last
 2026-04-17,16,Singapore,VLSFO,-51.0,757.0,808.0,1034.0,corpus/01-brokers/gibson/html/2026/2026-04-17_the-clock-is-ticking.html
 2026-04-24,17,Fujairah,VLSFO,25.0,752.0,726.0,900.0,corpus/01-brokers/gibson/html/2026/2026-04-24_mrs-in-focus.html
 2026-04-24,17,Rotterdam,LSMGO,4.0,1226.0,1222.0,1166.0,corpus/01-brokers/gibson/html/2026/2026-04-24_mrs-in-focus.html
+2026-04-24,17,Rotterdam,VLSFO,39.0,684.0,645.0,698.0,corpus/01-brokers/gibson/html/2026/2026-04-24_mrs-in-focus.html
 2026-04-24,17,Singapore,VLSFO,-45.0,713.0,757.0,853.0,corpus/01-brokers/gibson/html/2026/2026-04-24_mrs-in-focus.html
 2026-05-01,18,Fujairah,VLSFO,131.0,883.0,752.0,857.0,corpus/01-brokers/gibson/html/2026/2026-05-01_opexit.html
 2026-05-01,18,Rotterdam,LSMGO,117.0,1343.0,1226.0,1277.0,corpus/01-brokers/gibson/html/2026/2026-05-01_opexit.html

@@ -227,22 +227,6 @@
       "ffa_value": 15000.0,
       "ffa_period": "Q4",
       "source_file": "corpus/01-brokers/gibson/html/2024/2024-11-15_the-latest-east-west-divide.html"
-    },
-    {
-      "issue_date": "2024-11-15",
-      "report_week": 46,
-      "category": "Dirty Tanker Spot",
-      "market_type": "Spot Worldscale",
-      "route_code": "",
-      "vessel_class": "",
-      "route_description": "",
-      "change_wow": null,
-      "rate_current": null,
-      "rate_prev": null,
-      "rate_last_month": null,
-      "ffa_value": null,
-      "ffa_period": "",
-      "source_file": "corpus/01-brokers/gibson/html/2024/2024-11-15_the-latest-east-west-divide.html"
     }
   ],
   "bunker_prices": [

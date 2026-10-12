@@ -24,29 +24,351 @@ Perhaps the most visible near-term sign of the surplus, is oil on the water. Hig
 
 The location, timing and scale of the stockbuild next year will be critical for the health of the tanker market in the second half of 2026. Under an IEA scenario, supply could exceed demand by 1.4 billion barrels next year, equivalent to nearly 4 million b/d. Clearly this is not sustainable and under such a scenario prices would fall to the point where production needs to be shut in. Demand of course could be stronger, whilst supply may also grow at a slower pace than expected, allowing for somewhat of a softer landing. We may also see significant builds in both US and Chinese strategic petroleum reserves (SPRs). The US SPR is 182 million barrels below its pre-war level, whilst China is thought to be adding around 169 million barrels of storage capacity over 2025-2026. Russian oil production might also come under pressure if the sanctions continue to escalate.
 
-Ultimately, the current supply/demand projections suggest the oil market is on a collision course. For tankers, increasing volumes of oil on the water looking for a home is a bullish factor. But longer term, the market will need to find a balance. If this comes in the form of production cuts, coinciding with an increase in newbuilding deliveries, the second half of 2026 could look very different to today's market.
+Ultimately, the current supply/demand projections suggest the oil market is on a collision course. For tankers, increasing volumes of oil on the water looking for a home is a bullish factor. But longer term, the market will need to find a balance. If this comes in the form of production cuts, coinciding with an increase in newbuilding deliveries, the second half of 2026 could look very different to today’s market.
 
-The week began with a steady pace of enquiry in the AG VLCC market as many returned from industry events, and it quickly became evident that the front end of the tonnage list remained tight. Only a handful of fresh cargoes surfaced early on, but even limited enquiry was enough to keep levels firm given the restricted availability. As the week progressed, most activity continued to take place under the radar, steadily chipping away at the list. Charterers who did step out were met with firm resistance, with owners holding back in the expectation that levels would continue to strengthen. Toward the end of the week, enquiry picked up, and with charterers competing for the same vessels after stepping out on top of each other, sentiment remained firmly in owners' favour. Looking ahead to next week, charterers may gain some breathing room before moving onto second decade December cargoes. The tonnage list appears healthier on paper, though caution is needed given the amount of fixing taking place privately. Today we are calling AG/China ws139.
+*Chart: Oil on water (mb)*
+
+Chart data as embedded in the report:
+
+|  | CPP | Crude/DPP |
+|---|---|---|
+| 05/01/2020 | 348 | 1311 |
+| 12/01/2020 | 345 | 1277 |
+| 19/01/2020 | 339 | 1271 |
+| 26/01/2020 | 335 | 1261 |
+| 02/02/2020 | 343 | 1293 |
+| 09/02/2020 | 350 | 1302 |
+| 16/02/2020 | 352 | 1347 |
+| 23/02/2020 | 337 | 1315 |
+| 01/03/2020 | 343 | 1343 |
+| 08/03/2020 | 344 | 1330 |
+| 15/03/2020 | 359 | 1313 |
+| 22/03/2020 | 356 | 1322 |
+| 29/03/2020 | 371 | 1336 |
+| 05/04/2020 | 384 | 1393 |
+| 12/04/2020 | 387 | 1435 |
+| 19/04/2020 | 410 | 1481 |
+| 26/04/2020 | 424 | 1501 |
+| 03/05/2020 | 433 | 1547 |
+| 10/05/2020 | 421 | 1511 |
+| 17/05/2020 | 423 | 1521 |
+| 24/05/2020 | 412 | 1488 |
+| 31/05/2020 | 406 | 1485 |
+| 07/06/2020 | 396 | 1435 |
+| 14/06/2020 | 378 | 1411 |
+| 21/06/2020 | 369 | 1380 |
+| 28/06/2020 | 371 | 1391 |
+| 05/07/2020 | 368 | 1385 |
+| 12/07/2020 | 362 | 1359 |
+| 19/07/2020 | 348 | 1354 |
+| 26/07/2020 | 345 | 1377 |
+| 02/08/2020 | 346 | 1361 |
+| 09/08/2020 | 348 | 1351 |
+| 16/08/2020 | 351 | 1330 |
+| 23/08/2020 | 362 | 1318 |
+| 30/08/2020 | 351 | 1318 |
+| 06/09/2020 | 355 | 1282 |
+| 13/09/2020 | 355 | 1282 |
+| 20/09/2020 | 353 | 1248 |
+| 27/09/2020 | 351 | 1250 |
+| 04/10/2020 | 359 | 1252 |
+| 11/10/2020 | 347 | 1227 |
+| 18/10/2020 | 345 | 1229 |
+| 25/10/2020 | 335 | 1232 |
+| 01/11/2020 | 342 | 1247 |
+| 08/11/2020 | 341 | 1261 |
+| 15/11/2020 | 340 | 1223 |
+| 22/11/2020 | 340 | 1225 |
+| 29/11/2020 | 355 | 1222 |
+| 06/12/2020 | 351 | 1227 |
+| 13/12/2020 | 350 | 1246 |
+| 20/12/2020 | 346 | 1263 |
+| 27/12/2020 | 351 | 1275 |
+| 03/01/2021 | 367 | 1310 |
+| 10/01/2021 | 348 | 1313 |
+| 17/01/2021 | 347 | 1299 |
+| 24/01/2021 | 339 | 1314 |
+| 31/01/2021 | 348 | 1312 |
+| 07/02/2021 | 338 | 1288 |
+| 14/02/2021 | 336 | 1297 |
+| 21/02/2021 | 347 | 1281 |
+| 28/02/2021 | 362 | 1320 |
+| 07/03/2021 | 366 | 1299 |
+| 14/03/2021 | 364 | 1274 |
+| 21/03/2021 | 372 | 1288 |
+| 28/03/2021 | 371 | 1263 |
+| 04/04/2021 | 381 | 1278 |
+| 11/04/2021 | 382 | 1250 |
+| 18/04/2021 | 376 | 1246 |
+| 25/04/2021 | 359 | 1270 |
+| 02/05/2021 | 361 | 1271 |
+| 09/05/2021 | 349 | 1267 |
+| 16/05/2021 | 355 | 1254 |
+| 23/05/2021 | 357 | 1234 |
+| 30/05/2021 | 346 | 1242 |
+| 06/06/2021 | 353 | 1231 |
+| 13/06/2021 | 346 | 1239 |
+| 20/06/2021 | 342 | 1247 |
+| 27/06/2021 | 340 | 1237 |
+| 04/07/2021 | 353 | 1265 |
+| 11/07/2021 | 341 | 1238 |
+| 18/07/2021 | 338 | 1228 |
+| 25/07/2021 | 341 | 1256 |
+| 01/08/2021 | 357 | 1276 |
+| 08/08/2021 | 361 | 1244 |
+| 15/08/2021 | 354 | 1240 |
+| 22/08/2021 | 356 | 1235 |
+| 29/08/2021 | 353 | 1216 |
+| 05/09/2021 | 352 | 1206 |
+| 12/09/2021 | 354 | 1227 |
+| 19/09/2021 | 354 | 1232 |
+| 26/09/2021 | 338 | 1234 |
+| 03/10/2021 | 345 | 1247 |
+| 10/10/2021 | 348 | 1244 |
+| 17/10/2021 | 344 | 1262 |
+| 24/10/2021 | 330 | 1241 |
+| 31/10/2021 | 344 | 1276 |
+| 07/11/2021 | 342 | 1292 |
+| 14/11/2021 | 329 | 1283 |
+| 21/11/2021 | 327 | 1275 |
+| 28/11/2021 | 332 | 1258 |
+| 05/12/2021 | 333 | 1286 |
+| 12/12/2021 | 331 | 1313 |
+| 19/12/2021 | 337 | 1323 |
+| 26/12/2021 | 329 | 1343 |
+| 02/01/2022 | 339 | 1315 |
+| 09/01/2022 | 331 | 1322 |
+| 16/01/2022 | 337 | 1306 |
+| 23/01/2022 | 333 | 1272 |
+| 30/01/2022 | 329 | 1294 |
+| 06/02/2022 | 328 | 1277 |
+| 13/02/2022 | 345 | 1276 |
+| 20/02/2022 | 340 | 1317 |
+| 27/02/2022 | 324 | 1322 |
+| 06/03/2022 | 333 | 1326 |
+| 13/03/2022 | 336 | 1290 |
+| 20/03/2022 | 331 | 1302 |
+| 27/03/2022 | 331 | 1294 |
+| 03/04/2022 | 362 | 1286 |
+| 10/04/2022 | 356 | 1304 |
+| 17/04/2022 | 347 | 1311 |
+| 24/04/2022 | 364 | 1327 |
+| 01/05/2022 | 368 | 1323 |
+| 08/05/2022 | 358 | 1321 |
+| 15/05/2022 | 360 | 1302 |
+| 22/05/2022 | 359 | 1298 |
+| 29/05/2022 | 366 | 1285 |
+| 05/06/2022 | 365 | 1295 |
+| 12/06/2022 | 376 | 1271 |
+| 19/06/2022 | 368 | 1303 |
+| 26/06/2022 | 379 | 1296 |
+| 03/07/2022 | 384 | 1293 |
+| 10/07/2022 | 376 | 1281 |
+| 17/07/2022 | 376 | 1261 |
+| 24/07/2022 | 367 | 1282 |
+| 31/07/2022 | 388 | 1279 |
+| 07/08/2022 | 383 | 1294 |
+| 14/08/2022 | 377 | 1304 |
+| 21/08/2022 | 370 | 1314 |
+| 28/08/2022 | 385 | 1334 |
+| 04/09/2022 | 381 | 1362 |
+| 11/09/2022 | 381 | 1354 |
+| 18/09/2022 | 376 | 1353 |
+| 25/09/2022 | 371 | 1352 |
+| 02/10/2022 | 383 | 1364 |
+| 09/10/2022 | 372 | 1373 |
+| 16/10/2022 | 369 | 1390 |
+| 23/10/2022 | 367 | 1393 |
+| 30/10/2022 | 365 | 1382 |
+| 06/11/2022 | 357 | 1420 |
+| 13/11/2022 | 364 | 1410 |
+| 20/11/2022 | 365 | 1374 |
+| 27/11/2022 | 372 | 1394 |
+| 04/12/2022 | 377 | 1436 |
+| 11/12/2022 | 371 | 1411 |
+| 18/12/2022 | 367 | 1395 |
+| 25/12/2022 | 373 | 1387 |
+| 01/01/2023 | 396 | 1380 |
+| 08/01/2023 | 378 | 1363 |
+| 15/01/2023 | 375 | 1355 |
+| 22/01/2023 | 377 | 1349 |
+| 29/01/2023 | 375 | 1372 |
+| 05/02/2023 | 386 | 1383 |
+| 12/02/2023 | 380 | 1370 |
+| 19/02/2023 | 378 | 1365 |
+| 26/02/2023 | 377 | 1388 |
+| 05/03/2023 | 383 | 1375 |
+| 12/03/2023 | 392 | 1394 |
+| 19/03/2023 | 398 | 1372 |
+| 26/03/2023 | 399 | 1363 |
+| 02/04/2023 | 415 | 1382 |
+| 09/04/2023 | 408 | 1407 |
+| 16/04/2023 | 400 | 1380 |
+| 23/04/2023 | 392 | 1391 |
+| 30/04/2023 | 385 | 1378 |
+| 07/05/2023 | 377 | 1365 |
+| 14/05/2023 | 376 | 1355 |
+| 21/05/2023 | 368 | 1347 |
+| 28/05/2023 | 373 | 1366 |
+| 04/06/2023 | 373 | 1366 |
+| 11/06/2023 | 372 | 1376 |
+| 18/06/2023 | 361 | 1370 |
+| 25/06/2023 | 354 | 1344 |
+| 02/07/2023 | 361 | 1367 |
+| 09/07/2023 | 350 | 1353 |
+| 16/07/2023 | 361 | 1359 |
+| 23/07/2023 | 351 | 1297 |
+| 30/07/2023 | 352 | 1331 |
+| 06/08/2023 | 371 | 1351 |
+| 13/08/2023 | 360 | 1303 |
+| 20/08/2023 | 367 | 1287 |
+| 27/08/2023 | 376 | 1258 |
+| 03/09/2023 | 376 | 1294 |
+| 10/09/2023 | 373 | 1266 |
+| 17/09/2023 | 368 | 1259 |
+| 24/09/2023 | 376 | 1291 |
+| 01/10/2023 | 385 | 1277 |
+| 08/10/2023 | 373 | 1292 |
+| 15/10/2023 | 384 | 1295 |
+| 22/10/2023 | 385 | 1313 |
+| 29/10/2023 | 379 | 1301 |
+| 05/11/2023 | 386 | 1331 |
+| 12/11/2023 | 371 | 1313 |
+| 19/11/2023 | 383 | 1304 |
+| 26/11/2023 | 367 | 1302 |
+| 03/12/2023 | 377 | 1307 |
+| 10/12/2023 | 355 | 1326 |
+| 17/12/2023 | 372 | 1345 |
+| 24/12/2023 | 373 | 1333 |
+| 31/12/2023 | 386 | 1345 |
+| 07/01/2024 | 387 | 1328 |
+| 14/01/2024 | 380 | 1319 |
+| 21/01/2024 | 392 | 1337 |
+| 28/01/2024 | 402 | 1301 |
+| 04/02/2024 | 405 | 1309 |
+| 11/02/2024 | 409 | 1325 |
+| 18/02/2024 | 418 | 1312 |
+| 25/02/2024 | 429 | 1363 |
+| 03/03/2024 | 437 | 1343 |
+| 10/03/2024 | 428 | 1344 |
+| 17/03/2024 | 425 | 1341 |
+| 24/03/2024 | 426 | 1352 |
+| 31/03/2024 | 445 | 1373 |
+| 07/04/2024 | 432 | 1341 |
+| 14/04/2024 | 424 | 1335 |
+| 21/04/2024 | 419 | 1352 |
+| 28/04/2024 | 417 | 1330 |
+| 05/05/2024 | 419 | 1339 |
+| 12/05/2024 | 410 | 1313 |
+| 19/05/2024 | 409 | 1308 |
+| 26/05/2024 | 404 | 1297 |
+| 02/06/2024 | 407 | 1308 |
+| 09/06/2024 | 403 | 1279 |
+| 16/06/2024 | 396 | 1296 |
+| 23/06/2024 | 394 | 1278 |
+| 30/06/2024 | 409 | 1292 |
+| 07/07/2024 | 400 | 1289 |
+| 14/07/2024 | 398 | 1261 |
+| 21/07/2024 | 402 | 1261 |
+| 28/07/2024 | 408 | 1290 |
+| 04/08/2024 | 410 | 1263 |
+| 11/08/2024 | 404 | 1255 |
+| 18/08/2024 | 397 | 1261 |
+| 25/08/2024 | 399 | 1221 |
+| 01/09/2024 | 397 | 1231 |
+| 08/09/2024 | 394 | 1241 |
+| 15/09/2024 | 383 | 1240 |
+| 22/09/2024 | 395 | 1267 |
+| 29/09/2024 | 401 | 1258 |
+| 06/10/2024 | 394 | 1276 |
+| 13/10/2024 | 393 | 1254 |
+| 20/10/2024 | 392 | 1279 |
+| 27/10/2024 | 377 | 1264 |
+| 03/11/2024 | 366 | 1280 |
+| 10/11/2024 | 363 | 1240 |
+| 17/11/2024 | 364 | 1235 |
+| 24/11/2024 | 365 | 1254 |
+| 01/12/2024 | 376 | 1253 |
+| 08/12/2024 | 369 | 1244 |
+| 15/12/2024 | 377 | 1236 |
+| 22/12/2024 | 380 | 1240 |
+| 29/12/2024 | 380 | 1257 |
+| 05/01/2025 | 385 | 1226 |
+| 12/01/2025 | 376 | 1214 |
+| 19/01/2025 | 388 | 1223 |
+| 26/01/2025 | 398 | 1222 |
+| 02/02/2025 | 403 | 1257 |
+| 09/02/2025 | 388 | 1250 |
+| 16/02/2025 | 397 | 1263 |
+| 23/02/2025 | 397 | 1272 |
+| 02/03/2025 | 405 | 1313 |
+| 09/03/2025 | 394 | 1307 |
+| 16/03/2025 | 397 | 1318 |
+| 23/03/2025 | 397 | 1296 |
+| 30/03/2025 | 397 | 1299 |
+| 06/04/2025 | 398 | 1324 |
+| 13/04/2025 | 404 | 1326 |
+| 20/04/2025 | 395 | 1317 |
+| 27/04/2025 | 392 | 1297 |
+| 04/05/2025 | 390 | 1280 |
+| 11/05/2025 | 373 | 1283 |
+| 18/05/2025 | 384 | 1302 |
+| 25/05/2025 | 394 | 1300 |
+| 01/06/2025 | 389 | 1297 |
+| 08/06/2025 | 378 | 1308 |
+| 15/06/2025 | 386 | 1319 |
+| 22/06/2025 | 371 | 1324 |
+| 29/06/2025 | 394 | 1305 |
+| 06/07/2025 | 385 | 1320 |
+| 13/07/2025 | 390 | 1330 |
+| 20/07/2025 | 395 | 1342 |
+| 27/07/2025 | 399 | 1297 |
+| 03/08/2025 | 404 | 1276 |
+| 10/08/2025 | 401 | 1284 |
+| 17/08/2025 | 400 | 1316 |
+| 24/08/2025 | 397 | 1295 |
+| 31/08/2025 | 407 | 1288 |
+| 07/09/2025 | 394 | 1290 |
+| 14/09/2025 | 394 | 1308 |
+| 21/09/2025 | 402 | 1332 |
+| 28/09/2025 | 398 | 1358 |
+| 05/10/2025 | 400 | 1370 |
+| 12/10/2025 | 391 | 1390 |
+| 19/10/2025 | 386 | 1424 |
+| 26/10/2025 | 383 | 1461 |
+| 02/11/2025 | 384 | 1474 |
+| 09/11/2025 | 380 | 1480 |
+| 16/11/2025 | 389 | 1479 |
+
+### East
+
+The week began with a steady pace of enquiry in the AG VLCC market as many returned from industry events, and it quickly became evident that the front end of the tonnage list remained tight. Only a handful of fresh cargoes surfaced early on, but even limited enquiry was enough to keep levels firm given the restricted availability. As the week progressed, most activity continued to take place under the radar, steadily chipping away at the list. Charterers who did step out were met with firm resistance, with owners holding back in the expectation that levels would continue to strengthen. Toward the end of the week, enquiry picked up, and with charterers competing for the same vessels after stepping out on top of each other, sentiment remained firmly in owners’ favour. Looking ahead to next week, charterers may gain some breathing room before moving onto second decade December cargoes. The tonnage list appears healthier on paper, though caution is needed given the amount of fixing taking place privately. Today we are calling AG/China ws139.
 
 Suezmaxes in the Middle East have remained active throughout the week with a good level of demand for both short and long East runs. With a tonnage list that still contains few firm itineraries, owners will be looking for over 140 x ws75 via C/C for Basrah/West today. With such great returns on offer, we have seen a little bit of a ceiling for East runs, but the market remains firm at around 130 x ws175, depending on what ilk of ship is required.
 
-Enquiries for the first decade of December for Aframaxes have begun to emerge, though overall activity appears slower this week. Nevertheless, sentiment in the Indo market remains firm, with owners anticipating continuous tonnage tightness - particularly as TMX runs remain active stepping into winter period. We assess Indo up runs at 80 x ws180. Recently, the sustained premium on DPP over CPP runs has attracted more LR2s into the ex-Australia trade, introducing a degree of competitiveness. However, the clean market has strengthened this week; the sustainability of this upward trend may influence owners' deployment strategies. Tonnage supply for the first decade of December appears relatively balanced, which could see charterers to push below last-done levels. We assess TD14 at 80 x ws170.
+Enquiries for the first decade of December for Aframaxes have begun to emerge, though overall activity appears slower this week. Nevertheless, sentiment in the Indo market remains firm, with owners anticipating continuous tonnage tightness – particularly as TMX runs remain active stepping into winter period. We assess Indo up runs at 80 x ws180. Recently, the sustained premium on DPP over CPP runs has attracted more LR2s into the ex-Australia trade, introducing a degree of competitiveness. However, the clean market has strengthened this week; the sustainability of this upward trend may influence owners’ deployment strategies. Tonnage supply for the first decade of December appears relatively balanced, which could see charterers to push below last-done levels. We assess TD14 at 80 x ws170.
 
-The week in the WAF VLCC market began with limited visible enquiry, with activity consistently slower than in the AG. Although sentiment remained broadly positive, the market continued to lack a clear fresh test particularly for runs heading east. Mid-week brought little change, with most enquiry being dealt with quietly under the radar and only one notable cargo covered at ws112.5 after attracting a modest number of offers. While the tonnage list remains on the tighter side, the slow pace of enquiry has kept fixing manageable for charterers, though caution is warranted given the underlying firmness filtering through from the AG. By week's end, enquiry was still thin, and a proper test is required to gauge where the market really stands despite the firmer tone. Today we are calling WAF/East ws120.
+### West Africa
 
-The WAF Suezmax market hasn't been particularly active this week but with a relatively tight tonnage list, owners will still feel confident pushing for 130 x ws155 for TD20. This is despite a sharp drop in the Americas last night, though we expect that market to rebound somewhat quickly with firmness on VLCCs and Aframaxes in the region. The premium to head East today is probably around 5 points, even though less was done earlier in the week due to favourable circumstances.
+The week in the WAF VLCC market began with limited visible enquiry, with activity consistently slower than in the AG. Although sentiment remained broadly positive, the market continued to lack a clear fresh test particularly for runs heading east. Mid-week brought little change, with most enquiry being dealt with quietly under the radar and only one notable cargo covered at ws112.5 after attracting a modest number of offers. While the tonnage list remains on the tighter side, the slow pace of enquiry has kept fixing manageable for charterers, though caution is warranted given the underlying firmness filtering through from the AG. By week’s end, enquiry was still thin, and a proper test is required to gauge where the market really stands despite the firmer tone. Today we are calling WAF/East ws120.
+
+The WAF Suezmax market hasn’t been particularly active this week but with a relatively tight tonnage list, owners will still feel confident pushing for 130 x ws155 for TD20. This is despite a sharp drop in the Americas last night, though we expect that market to rebound somewhat quickly with firmness on VLCCs and Aframaxes in the region. The premium to head East today is probably around 5 points, even though less was done earlier in the week due to favourable circumstances.
+
+### Mediterranean
 
 TD6 has remained firm this week and the limited firm positions has seen owners push up rates to 135 x ws185. Expect more of the same next week, with a Suezmax-heavy program for December from CPC. Libya/Ningbo has started to come back as a more regular trade, and with owners generally preferring to stay in the West in the current market, we estimate levels are around $6.7m.
 
-Coming into the week a slide on Aframax levels was inevitable. Following a prolonged spell of lower volumes being traded, the build-up of availability weighed heavily in charterers favour. Decrements between deals followed, with a benchmark Ceyhan falling to ws187.5 and shorter flats setting at ws195. At this point however, and just as we saw in the continent, the US gave owners a reason to be slightly more optimistic, with further decline being thwarted for now. That said, the prognosis for the immediate outlook in the Med isn't too dissimilar to where we started the week. Owners will still have their work cut out until local activity levels start to pick back up again.
+Coming into the week a slide on Aframax levels was inevitable. Following a prolonged spell of lower volumes being traded, the build-up of availability weighed heavily in charterers favour. Decrements between deals followed, with a benchmark Ceyhan falling to ws187.5 and shorter flats setting at ws195. At this point however, and just as we saw in the continent, the US gave owners a reason to be slightly more optimistic, with further decline being thwarted for now. That said, the prognosis for the immediate outlook in the Med isn’t too dissimilar to where we started the week. Owners will still have their work cut out until local activity levels start to pick back up again.
+
+### US Gulf/Latin America
 
 The Americas VLCC market experienced an uneventful week, with limited visible enquiry and a tonnage list that continued to make for a challenging to read. Freight levels and sentiment remained broadly firm, supported by a handful of fixtures, including a market cargo ex-Brazil concluding at ws110 for a run to Dalian followed by another heading into WCI covering at ws115. Activity on the surface remained sparse, with most enquiry conducted quietly under the radar, leaving owners in a comfortable position. The tonnage list has been further complicated by a lack of ballasters from the east, keeping positions tight. Overall, across the regions rates stayed steady, and slight upward movement was observed on some Brazil export runs keeping sentiment on the firmer side. Looking ahead to next week the USG market may see increased enquiry in the lead-up to thanksgiving, which could provide a boost to activity and help clarify the direction of freight levels. Today we are calling USG/China $13.90m.
 
-Looking at the charts of where Aframaxes in the region are trading, ws157.5 would be an undeniable baseline evidenced again this week. This however doesn't really paint the full picture. A slow week filled mainly with relets being programmed, market strength was starting to be undermined. A lifeline was eventually given to the region though, with TD25 picking up both in terms of activity and earnings, immediately boosting owners' credentials in holding onto last done.
+### North Sea
 
-Crude Tanker Spot Rates (WS)
+Looking at the charts of where Aframaxes in the region are trading, ws157.5 would be an undeniable baseline evidenced again this week. This however doesn’t really paint the full picture. A slow week filled mainly with relets being programmed, market strength was starting to be undermined. A lifeline was eventually given to the region though, with TD25 picking up both in terms of activity and earnings, immediately boosting owners’ credentials in holding onto last done.
 
-Subscribe to our newsletter and make sure you're first to get the latest research and reports, straight to your inbox.
+*Chart: Crude Tanker Spot Rates (WS) - Gibson daily assessments, kept in data/extracted/series/gibson_spot_chart_daily.csv*
 
 ## Clean Products
 
@@ -54,7 +376,7 @@ Subscribe to our newsletter and make sure you're first to get the latest researc
 
 Busy week back for the LRs post the fun and games of Bahri last week. The lists have tightened up across both sizes and as such have seen rates being positively tested. LR2s heading West up to $4.4m (via Suez) and with options for BEM transit the list has really thinned and as such owners looking to really push on the premium (circa $4.8m levels). TC1 tight of the natural window and assess 75 x ws155-160 for now. LR1s have been busy, but more so with off market enquiry. West at $3.2m levels via Cape and TC5 at the 55 x ws155 level for the natural window. But, we have seen much higher number off forward position which gives owners a nice footing to chase after paper, which traded higher again yesterday for December (ws196).
 
-The week opened steady post-Bahri for MRs with TC17 at 35 x ws220 and TC12 at 35 x ws150, though a long list and LR1 pressure kept sentiment capped. By Tuesday, the softer LR1 tone filtered through, pushing XAG down into the high $200k's and TC12 to 35 x ws145, with TC17 easing toward ws215. Wednesday brought plenty of fixing, but a well-supplied list beyond the prompt window held rates in place around ws215 and ws145. Thursday morning remained sideways, but the picture changed sharply in the afternoon. A heavy influx of fresh stems (particularly on TC12) tightened the front end and pushed TC17 up from ws215 to ws245. TC12, West and short rates are all due a fresh positive test on the back of this. Heading into the weekend, there are at least 9 cargoes in the window still looking for cover so expect bullish ideas from owners and momentum to continue next week.
+The week opened steady post-Bahri for MRs with TC17 at 35 x ws220 and TC12 at 35 x ws150, though a long list and LR1 pressure kept sentiment capped. By Tuesday, the softer LR1 tone filtered through, pushing XAG down into the high $200k’s and TC12 to 35 x ws145, with TC17 easing toward ws215. Wednesday brought plenty of fixing, but a well-supplied list beyond the prompt window held rates in place around ws215 and ws145. Thursday morning remained sideways, but the picture changed sharply in the afternoon. A heavy influx of fresh stems (particularly on TC12) tightened the front end and pushed TC17 up from ws215 to ws245. TC12, West and short rates are all due a fresh positive test on the back of this. Heading into the weekend, there are at least 9 cargoes in the window still looking for cover so expect bullish ideas from owners and momentum to continue next week.
 
 ### UK Continent
 
@@ -62,13 +384,13 @@ Owners have seized the seasonal opportunity and the effects of long-term tonnage
 
 It has been a win for Handy owners this week with consistent cargo volumes creating a lack of supply and then a few replacements adding some extra spice. This has resulted in freight for TC23 closing at 30 x ws215 (up 22.5 ws points from this point last week). With the longer haul MR routes also firming there has been little appetite for the bigger units to compete on straight XUKC runs, meaning Handies have been in a strong position throughout. The weekend break comes at a good time which should hopefully see a few more itineraries firm as we head into early December laycans come Monday. Owners bullish here.
 
-### Mediterranean
+### Med
 
 MR owners have been at the helm of this market throughout the week. With the front end of the list tight for MRs and some tricky cargoes outstanding, owners have been bullish and pushing rates upward to the 37 x ws170 Med-TA mark. Med-TA for the most part has been driven by a firming TC2 and a tight list. Med-WAF continues to pay a premium and has firmed in line with Med-TA and TC2. The outlook is bullish for MRs going into next week with a keen eye on enquiry to keep this positive rate momentum going.
 
-A week which started optimistically for Handy owners in the Med - carrying over from the week prior - has materialised. We opened around the ws200 mark with some tricky stems outstanding, a theme that has run throughout the week with owners cautious not to jump the gun but felt they could slowly squeeze more out of rates as the list continued to tighten. The tight list and steady enquiry created enough upward pressure that we close the week at the ws230 mark. A handful of failures have been seen as charterers have gambled on itineraries and vessels - a telling sign of this market's strength at the moment. Owners will be aware that charterers won't be getting any relief from the list in the short term so the ws230 mark should be where we open next week - all eyes will be on enquiry to see if this can be maintained throughout, however.
+A week which started optimistically for Handy owners in the Med – carrying over from the week prior – has materialised. We opened around the ws200 mark with some tricky stems outstanding, a theme that has run throughout the week with owners cautious not to jump the gun but felt they could slowly squeeze more out of rates as the list continued to tighten. The tight list and steady enquiry created enough upward pressure that we close the week at the ws230 mark. A handful of failures have been seen as charterers have gambled on itineraries and vessels – a telling sign of this market’s strength at the moment. Owners will be aware that charterers won’t be getting any relief from the list in the short term so the ws230 mark should be where we open next week – all eyes will be on enquiry to see if this can be maintained throughout, however.
 
-Clean Tanker Spot Rates (WS)
+*Chart: Clean Tanker Spot Rates (WS) - Gibson daily assessments, kept in data/extracted/series/gibson_spot_chart_daily.csv*
 
 ## Dirty Products
 
@@ -88,39 +410,36 @@ The Med has seen a rather busier week with full stem enquiry clipping ships from
 
 Little to report for Panamaxes this side of the pond as tonnage has been thin on the ground and enquiry elusive. Over in the USG owners have seen a quieter market compared to recent weeks but overall levels have stayed stable as under-the-radar fixing keeps levels ticking over between WS195-200.
 
-Dirty Product Tanker Spot Rates (WS)
+*Chart: Dirty Product Tanker Spot Rates (WS) - Gibson daily assessments, kept in data/extracted/series/gibson_spot_chart_daily.csv*
 
 ## Rates & Bunkers
 
-### Clean & Dirty Tanker Spot Market Developments - Spot Worldscale
+#### Clean and Dirty Tanker Spot Market Developments – Spot WS and $/day TCE (a)
 
-| Route | Category | Vessel | Description | WoW Change | Current | Previous | Last Month | FFA |
-|---|---|---|---|---|---|---|---|---|
-| TD3C | Dirty Tanker Spot | VLCC | VLCC AG-China | 5.0 | 134.0 | 129.0 | 84.0 | 109.0 |
-| TD20 | Dirty Tanker Spot | Suezmax | Suezmax WAF-UKC | -1.0 | 156.0 | 157.0 | 126.0 | 143.0 |
-| TD25 | Dirty Tanker Spot | Aframax | Aframax USG-UKC | -11.0 | 203.0 | 214.0 | 191.0 | 202.0 |
-| TC1 | Clean Tanker Spot | LR2 | LR2 AG-Japan | 7.0 | 151.0 | 144.0 | 121.0 | - |
-| TC18 | Clean Tanker Spot | MR | MR USG-Brazil | -13.0 | 228.0 | 241.0 | 244.0 | 230.0 |
-| TC5 | Clean Tanker Spot | LR1 | LR1 AG-Japan | - | 150.0 | 150.0 | 129.0 | 159.0 |
-| TC7 | Clean Tanker Spot | MR | MR Singapore-EC Aus | 5.0 | 201.0 | 196.0 | 182.0 | 191.0 |
-
-### Clean & Dirty Tanker Spot Market Developments - $/day TCE
-
-| Route | Category | Vessel | Description | WoW Change ($) | Current ($/day) | Previous ($/day) | Last Month ($/day) | FFA ($/day) |
-|---|---|---|---|---|---|---|---|---|
-| TD3C | Dirty Tanker Spot | VLCC | VLCC AG-China | 5500.0 | 136750.0 | 131250.0 | 75750.0 | 101000.0 |
-| TD20 | Dirty Tanker Spot | Suezmax | Suezmax WAF-UKC | -500.0 | 77750.0 | 78250.0 | 59500.0 | 66250.0 |
-| TD25 | Dirty Tanker Spot | Aframax | Aframax USG-UKC | -4250.0 | 56000.0 | 60250.0 | 52500.0 | 51250.0 |
-| TC1 | Clean Tanker Spot | LR2 | LR2 AG-Japan | 2250.0 | 38000.0 | 35750.0 | 28000.0 | - |
-| TC18 | Clean Tanker Spot | MR | MR USG-Brazil | -2750.0 | 32000.0 | 34750.0 | 35500.0 | 30250.0 |
-| TC5 | Clean Tanker Spot | LR1 | LR1 AG-Japan | 2250.0 | 26750.0 | 24500.0 | 20750.0 | 26250.0 |
-| TC7 | Clean Tanker Spot | MR | MR Singapore-EC Aus | 750.0 | 24000.0 | 23250.0 | 21000.0 | 21250.0 |
-
-### Bunker Prices ($/tonne)
-
-| Port | Grade | WoW Change ($) | Current ($/t) | Previous ($/t) | Last Month ($/t) |
+|  | wk on wk change | Nov 20th | Nov 13th | Last Month* | FFA Q4 |
 |---|---|---|---|---|---|
-| Rotterdam | VLSFO | -10.0 | 415.0 | 425.0 | 406.0 |
-| Fujairah | VLSFO | -5.0 | 448.0 | 453.0 | 438.0 |
-| Singapore | VLSFO | -4.0 | 451.0 | 455.0 | 445.0 |
-| Rotterdam | LSMGO | 10.0 | 738.0 | 728.0 | 631.0 |
+| TD3C VLCC AG-China WS | 5 | 134 | 129 | 84 | 109 |
+| TD3C VLCC AG-China TCE $/day | 5,500 | 136,750 | 131,250 | 75,750 | 101,000 |
+| TD20 Suezmax WAF-UKC WS | -1 | 156 | 157 | 126 | 143 |
+| TD20 Suezmax WAF-UKC TCE $/day | -500 | 77,750 | 78,250 | 59,500 | 66,250 |
+| TD25 Aframax USG-UKC WS | -11 | 203 | 214 | 191 | 202 |
+| TD25 Aframax USG-UKC TCE $/day | -4,250 | 56,000 | 60,250 | 52,500 | 51,250 |
+| TC1 LR2 AG-Japan WS | 7 | 151 | 144 | 121 |  |
+| TC1 LR2 AG-Japan TCE $/day | 2,250 | 38,000 | 35,750 | 28,000 |  |
+| TC18 MR USG-Brazil WS | -13 | 228 | 241 | 244 | 230 |
+| TC18 MR USG-Brazil TCE $/day | -2,750 | 32,000 | 34,750 | 35,500 | 30,250 |
+| TC5 LR1 AG-Japan WS | 0 | 150 | 150 | 129 | 159 |
+| TC5 LR1 AG-Japan TCE $/day | 2,250 | 26,750 | 24,500 | 20,750 | 26,250 |
+| TC7 MR Singapore-EC Aus WS | 5 | 201 | 196 | 182 | 191 |
+| TC7 MR Singapore-EC Aus TCE $/day | 750 | 24,000 | 23,250 | 21,000 | 21,250 |
+
+(a) based on round voyage economics at ‘market’ speed, eco, non-scrubber basis
+
+#### Bunker Prices ($/tonne)
+
+|  | wk on wk change | Nov 20th | Nov 13th | Last Month* |
+|---|---|---|---|---|
+| Rotterdam VLSFO | -10 | 415 | 425 | 406 |
+| Fujairah VLSFO | -5 | 448 | 453 | 438 |
+| Singapore VLSFO | -4 | 451 | 455 | 445 |
+| Rotterdam LSMGO | +10 | 738 | 728 | 631 |

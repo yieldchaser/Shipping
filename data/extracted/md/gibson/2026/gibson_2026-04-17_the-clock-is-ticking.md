@@ -18,9 +18,13 @@ charts_count: 4
 
 ## Feature Story
 
-Home > The Clock is Ticking
+- Feature Story
+- Crude Oil
+- Clean Products
+- Dirty Products
+- Rates & Bunkers
 
-We have covered the Iran conflict extensively in recent weeks, and this week is no exception. Given the importance of Middle East Gulf trade flows, everything else pales in comparison. In perhaps the most significant development since hostilities began, Iran's foreign minister has just announced that the Strait of Hormuz is open to all commercial vessels transiting via a coordinated route for the remaining duration of ceasefire. Whether this translates into a meaningful resumption of traffic remains to be seen. Whether this translates into a meaningful resumption of traffic remains to be seen. The US blockade remains in force for now, and reports suggest that IRGC coordination will still be required, with Iran indicating that reopening of Hormuz is contingent on the US lifting its own blockade.
+We have covered the Iran conflict extensively in recent weeks, and this week is no exception. Given the importance of Middle East Gulf trade flows, everything else pales in comparison. In perhaps the most significant development since hostilities began, Iran’s foreign minister has just announced that the Strait of Hormuz is open to all commercial vessels transiting via a coordinated route for the remaining duration of ceasefire. Whether this translates into a meaningful resumption of traffic remains to be seen. Whether this translates into a meaningful resumption of traffic remains to be seen. The US blockade remains in force for now, and reports suggest that IRGC coordination will still be required, with Iran indicating that reopening of Hormuz is contingent on the US lifting its own blockade.
 
 Crude and clean freight out of the Middle East Gulf continues to command skyrocketing premiums; but these rates are theoretical given the absence of physical trade for now. In the Atlantic basin, freight levels also witnessed impressive spikes, albeit nothing close to levels in the Middle East. For crude, the peaks seen in March were underpinned by US SPR releases, a surge in Asian demand for Atlantic basin cargoes to replace lost Middle Eastern barrels and favourable arbitrage economics. Crude to Asia out of the US Gulf jumped by over 30% in March month-on-month and further strong gains are seen so far in April. Latin America and West Africa tell much the same story, with both regions recording in March robust monthly gains in exports to Asia.
 
@@ -28,19 +32,69 @@ Still, what goes up must come down. An increasing wave of westbound ballasters i
 
 The downward correction in crude markets has not been mirrored in the clean segment. MR rates in the Atlantic Basin have moved from strength to strength over the past six weeks, also driven by a surge in long haul demand. Long haul trade from the USG and Europe to Asia Pacific more than doubled in March, while shipments to East and South Africa more than quadrupled, albeit from fairly limited levels. The bulk of this volume has been carried on MRs, although LR shipments have also risen notably. As a result, although vessel supply to the West has also increased due to ballasters, for MRs this has been more than offset by the number of ships fixed long haul out of the region.
 
-MRs are, in any case, relatively insulated from the Middle East disruption - just 9% of all clean MR trade originated out of the Gulf last year. LR2s and LR1s are a different story, with 44% and 33% of their respective volumes tied to Gulf flows. As more LRs ballast West and compete for MR cargoes, downward pressure will build. The other question is how long Europe can sustain current export levels. In the US, refinery utilisation rates are already close to their seasonal peak, and rising domestic demand over the summer will also divert some barrels away from exports.
+MRs are, in any case, relatively insulated from the Middle East disruption – just 9% of all clean MR trade originated out of the Gulf last year. LR2s and LR1s are a different story, with 44% and 33% of their respective volumes tied to Gulf flows. As more LRs ballast West and compete for MR cargoes, downward pressure will build. The other question is how long Europe can sustain current export levels. In the US, refinery utilisation rates are already close to their seasonal peak, and rising domestic demand over the summer will also divert some barrels away from exports.
 
-The longer-term outlook for the tanker market depends heavily on how long the conflict lasts. There have been some encouraging signs in recent days but the twists and turns since the start of the war illustrate that the situation in the Middle East can change at any moment. The hopes are there will be a swift resolution to the conflict, but if Hormuz remains blocked, the tanker market in three to four months' time will look very different to what we see today.
+The longer-term outlook for the tanker market depends heavily on how long the conflict lasts. There have been some encouraging signs in recent days but the twists and turns since the start of the war illustrate that the situation in the Middle East can change at any moment. The hopes are there will be a swift resolution to the conflict, but if Hormuz remains blocked, the tanker market in three to four months’ time will look very different to what we see today.
 
-Subscribe to our newsletter and make sure you're first to get the latest research and reports, straight to your inbox.
+*Chart: Tanker transits through Strait of Hormuz above 25k dwt (no.)*
+
+Chart data as embedded in the report:
+
+|  | Dark | Mainstream |
+|---|---|---|
+| 3/1/2026 | 5 | 6 |
+| 3/2/2026 | 0 | 3 |
+| 3/3/2026 | 2 | 0 |
+| 3/4/2026 | 1 | 2 |
+| 3/5/2026 | 2 | 1 |
+| 3/6/2026 | 1 | 1 |
+| 3/8/2026 | 2 | 0 |
+| 3/9/2026 | 1 | 0 |
+| 3/10/2026 | 3 | 0 |
+| 3/11/2026 | 4 | 1 |
+| 3/12/2026 | 0 | 1 |
+| 3/14/2026 | 2 | 0 |
+| 3/15/2026 | 4 | 1 |
+| 3/16/2026 | 3 | 0 |
+| 3/17/2026 | 3 | 1 |
+| 3/18/2026 | 5 | 0 |
+| 3/19/2026 | 3 | 0 |
+| 3/20/2026 | 0 | 2 |
+| 3/21/2026 | 1 | 1 |
+| 3/22/2026 | 1 | 0 |
+| 3/23/2026 | 3 | 3 |
+| 3/24/2026 | 3 | 1 |
+| 3/25/2026 | 1 | 1 |
+| 3/26/2026 | 3 | 0 |
+| 3/27/2026 | 3 | 0 |
+| 3/28/2026 | 3 | 1 |
+| 3/29/2026 | 4 | 0 |
+| 3/30/2026 | 3 | 2 |
+| 3/31/2026 | 3 | 1 |
+| 4/1/2026 | 5 | 1 |
+| 4/2/2026 | 6 | 3 |
+| 4/3/2026 | 4 | 0 |
+| 4/4/2026 | 1 | 3 |
+| 4/5/2026 | 7 | 3 |
+| 4/7/2026 | 6 | 1 |
+| 4/8/2026 | 1 | 0 |
+| 4/9/2026 | 6 | 0 |
+| 4/10/2026 | 2 | 1 |
+| 4/11/2026 | 0 | 3 |
+| 4/12/2026 | 2 | 2 |
+| 4/13/2026 | 2 | 3 |
+| 4/14/2026 | 5 | 3 |
+| 4/15/2026 | 2 | 1 |
+| 4/16/2026 | 0 | 2 |
+| 4/17/2026 | 0 | 1 |
 
 ## Crude Oil
 
 ### East
 
-The AG/Red Sea VLCC market saw a fair amount of enquiry at the start of the week, although uncertainty around the Strait of Hormuz continued to dominate sentiment following Trump's latest comments. Freight remained firm, but tonnage availability stayed healthy, with a number of prompt ships waiting for opportunities. As the week progressed, some enquiries emerged for inside AG loadings, though uncertainty over which vessels would be willing to transit the Strait continued to limit activity. While there was still charterer's interest for AG cargoes, the pace of fixing remained slow and the list gradually built as some quoted cargoes failed to materialise. Overall, the week ended on a quieter note, with freight holding steady for now, but with the growing list suggesting that pressure may build further as the Strait of Hormuz opens to commercial ships for remaining period of the ceasefire.
+The AG/Red Sea VLCC market saw a fair amount of enquiry at the start of the week, although uncertainty around the Strait of Hormuz continued to dominate sentiment following Trump’s latest comments. Freight remained firm, but tonnage availability stayed healthy, with a number of prompt ships waiting for opportunities. As the week progressed, some enquiries emerged for inside AG loadings, though uncertainty over which vessels would be willing to transit the Strait continued to limit activity. While there was still charterer’s interest for AG cargoes, the pace of fixing remained slow and the list gradually built as some quoted cargoes failed to materialise. Overall, the week ended on a quieter note, with freight holding steady for now, but with the growing list suggesting that pressure may build further as the Strait of Hormuz opens to commercial ships for remaining period of the ceasefire.
 
-The reopening of the Strait of Hormuz is expected to act as a key catalyst for AG activity. A pickup in regional volumes should support utilisation and inject renewed confidence into the market, with sentiment likely to improve on the back of more consistent cargo flow. That said, geopolitical dynamics remain a critical overhang. Ongoing uncertainty surrounding regional security and participation will continue to influence owners' appetite, particularly in terms of willingness to commit tonnage into the AG. As such, any recovery in rates is likely to be closely tied not only to fundamentals, but also to the evolution of geopolitical risk and the market's tolerance for exposure in the region.
+The reopening of the Strait of Hormuz is expected to act as a key catalyst for AG activity. A pickup in regional volumes should support utilisation and inject renewed confidence into the market, with sentiment likely to improve on the back of more consistent cargo flow. That said, geopolitical dynamics remain a critical overhang. Ongoing uncertainty surrounding regional security and participation will continue to influence owners’ appetite, particularly in terms of willingness to commit tonnage into the AG. As such, any recovery in rates is likely to be closely tied not only to fundamentals, but also to the evolution of geopolitical risk and the market’s tolerance for exposure in the region.
 
 Aframaxes in the Indo region were active mainly on replacement business from the previous week, with little fresh enquiry reported. An Indo/Oz run concluded around market levels, suggesting a degree of equilibrium between charterers and owners, though upside momentum appears to have stalled for now. On the regional front, a replacement Seria/Singapore fixture around the $1.2m mark also points to steady underlying sentiment. Tonnage remains relatively balanced, albeit increasingly date-sensitive as fixing windows begin to move into early May. Owners are expected to defend current earnings, with TCEs hovering around $65,000/day. We close the week assessing Indo/North at 80kt × WS265.
 
@@ -52,7 +106,7 @@ The WAF VLCC market remained quiet throughout the week, with limited visible act
 
 The week was quiet from the outset for Suezmaxes, with limited enquiry and rates under pressure as anticipated support failed to emerge. Tonnage built quickly, handing charterers the upper hand. Some stabilisation was seen into the close, though whether this holds into next week remains the key question.
 
-The Med/BSea Aframax market spent the week undergoing a fairly sharp correction from Monday's still relatively sticky levels, with early resistance quickly giving way once it became clear that tonnage was no longer being drawn away to the weaker States market. Tuesday saw the list lengthen further and charterers, expecting lower numbers ahead, showed little urgency to commit, which kept the pressure squarely on owners. Quoted cargoes were attracting healthy competition and XMed rates corrected by approximately WS100 points down to WS350. Further softening was inevitable, though the gradient of decline flattened and with a repeat of WS312.5 in Libya being done on a decent flat rate alongside generally limited fresh Med enquiry, the market now looks more inclined to stabilise than collapse into the weekend. The wider backdrop effects of the Strait of Hormuz opening to commercial traffic remains to be seen.
+The Med/BSea Aframax market spent the week undergoing a fairly sharp correction from Monday’s still relatively sticky levels, with early resistance quickly giving way once it became clear that tonnage was no longer being drawn away to the weaker States market. Tuesday saw the list lengthen further and charterers, expecting lower numbers ahead, showed little urgency to commit, which kept the pressure squarely on owners. Quoted cargoes were attracting healthy competition and XMed rates corrected by approximately WS100 points down to WS350. Further softening was inevitable, though the gradient of decline flattened and with a repeat of WS312.5 in Libya being done on a decent flat rate alongside generally limited fresh Med enquiry, the market now looks more inclined to stabilise than collapse into the weekend. The wider backdrop effects of the Strait of Hormuz opening to commercial traffic remains to be seen.
 
 ### US Gulf/Latin America
 
@@ -60,9 +114,9 @@ The Americas VLCC market remained relatively quiet for most of the week, with li
 
 ### North Sea
 
-The North Sea market has followed a softer trajectory this week, but with even less underlying urgency. Monday's numbers already looked vulnerable given the lack of meaningful testing, and once fresh fixtures emerged on Tuesday, the correction long expected by the market duly arrived with WS340 being achieved twice, down about 50 points. From there, slow activity, a sufficient tonnage list and the absence of any meaningful US draw left owners with very few places to turn, while continuing erosion in surrounding sectors only reinforced the weaker tone. By the week's close and with just one cargo rolling into Monday and charterers showing little sign of haste, the market appears set to close the week under some pressure. It remains to be seen how many of the owners will cut and run to the States though leaving charterers ready to pay on monday morning for who is left.
+The North Sea market has followed a softer trajectory this week, but with even less underlying urgency. Monday’s numbers already looked vulnerable given the lack of meaningful testing, and once fresh fixtures emerged on Tuesday, the correction long expected by the market duly arrived with WS340 being achieved twice, down about 50 points. From there, slow activity, a sufficient tonnage list and the absence of any meaningful US draw left owners with very few places to turn, while continuing erosion in surrounding sectors only reinforced the weaker tone. By the week’s close and with just one cargo rolling into Monday and charterers showing little sign of haste, the market appears set to close the week under some pressure. It remains to be seen how many of the owners will cut and run to the States though leaving charterers ready to pay on monday morning for who is left.
 
-Crude Tanker Spot Rates (WS)
+*Chart: Crude Tanker Spot Rates (WS) - Gibson daily assessments, kept in data/extracted/series/gibson_spot_chart_daily.csv*
 
 ## Clean Products
 
@@ -72,15 +126,17 @@ Another week treading water as everyone waits to see if the political situation 
 
 ### UK Continent
 
-A much slower week for MRs in general compared to the last 5-6 weeks. There is now limited longhaul enquiry, with most seemingly hanging on to refined bbls with a likely contango or shortage going forward. The rates have softened marginally this week, but owners remain outwardly optimistic especially as long as the USG continues to be the plan "b" option. Yet, they will need to commit to the ballast there, which some owners with large fleets might not be too keen on. There has been a little more enquiry towards the back end of the week and cargoes are starting to stretch towards the end of the month. At some point we are likely to get a dramatic drop in activity as some grades become critical.
+A much slower week for MRs in general compared to the last 5-6 weeks. There is now limited longhaul enquiry, with most seemingly hanging on to refined bbls with a likely contango or shortage going forward. The rates have softened marginally this week, but owners remain outwardly optimistic especially as long as the USG continues to be the plan “b” option. Yet, they will need to commit to the ballast there, which some owners with large fleets might not be too keen on. There has been a little more enquiry towards the back end of the week and cargoes are starting to stretch towards the end of the month. At some point we are likely to get a dramatic drop in activity as some grades become critical.
 
 It has been a positive week for Handies in the North. The combination of continued cargo flow partnered with a tonnage list which has lacked depth throughout have been all the ingredients owners needed to be able to push freight, with XUKC closing the week at 30kt x WS505. There has been a lack of appetite from MR owners to trade short-haul stems as most look towards longer haul voyages and exiting the region, which resulted in Handy owners being in a strong position. Weekend break is coming at a good time, with many hopeful a few more positions will firm up on our tonnage lists come Monday. Owners bullish here.
 
+### Med
+
 A tale of two halves for MRs in the Med this week despite limited rate movement. We opened around the 37kt x WS300 mark for Med-TA with grade and options sensitivity being factors that kept the TA number steady. However, tonnage restocked fairly well throughout the week. With current volume shorts not being enough for owners to sure up their rate positions, a bearish fog began to build. It does seem that a straight Med-TA stem would be discounted, given owners keenness to get to the USG. Eyes on how many ballast units head to the Gulf and how many Med openers charterers will have to choose from going forward. If limited enquiry continues and the list looks healthier come Monday, then downward corrections are likely.
 
-It has been a softer week for Handies in the Med, with rates correcting down from WS520 to 30kt x WS460. Since Monday charterers have done well to stagger enquiry and approach units under the radar, whilst slowly clawing back some world scale points. By chipping away at tonnage meticulously, owners' hands were forced into being competitive on rates as long as there was more than one option available for charterers - there have been a few replacements and trickier lifts that have paid over the general market sentiment. Eyes on how the list shapes up on Monday regarding a restock as well as who collects their subs, given most of the front end of the list is red. Should the expected end month enquiry materialise next week, we could see rates hold in the meantime as both parties reassess the next best moves.
+It has been a softer week for Handies in the Med, with rates correcting down from WS520 to 30kt x WS460. Since Monday charterers have done well to stagger enquiry and approach units under the radar, whilst slowly clawing back some world scale points. By chipping away at tonnage meticulously, owners’ hands were forced into being competitive on rates as long as there was more than one option available for charterers – there have been a few replacements and trickier lifts that have paid over the general market sentiment. Eyes on how the list shapes up on Monday regarding a restock as well as who collects their subs, given most of the front end of the list is red. Should the expected end month enquiry materialise next week, we could see rates hold in the meantime as both parties reassess the next best moves.
 
-Clean Tanker Spot Rates (WS)
+*Chart: Clean Tanker Spot Rates (WS) - Gibson daily assessments, kept in data/extracted/series/gibson_spot_chart_daily.csv*
 
 ## Dirty Products
 
@@ -88,7 +144,7 @@ Clean Tanker Spot Rates (WS)
 
 North started week tight, with levels at WS420 but as enquiry picked up reducing available tonnage, owners pushed levels on to WS425 by end of the week. List is tight and WMed units make up the majority of the list. Owners are targeting WS430 next week.
 
-Med is slower but overall it is just steadier. Consistent under radar activity clipped units away - WS415 is the current number. Steady feel remains.
+Med is slower but overall it is just steadier. Consistent under radar activity clipped units away – WS415 is the current number. Steady feel remains.
 
 ### MR
 
@@ -96,41 +152,38 @@ List is tight in the UKC until mid-third decade. Expect owners to push on but fr
 
 ### Panamax
 
-Tonnage is tight and a fresh is test needed basis UKC/Med - TA. Softer Aframas rates are making current ideas uncompetitive on a $/t basis. TD21 is coming off as Handy/MRs are taking cargoes and pricing out Panamaxes until supply returns.
+Tonnage is tight and a fresh is test needed basis UKC/Med – TA. Softer Aframas rates are making current ideas uncompetitive on a $/t basis. TD21 is coming off as Handy/MRs are taking cargoes and pricing out Panamaxes until supply returns.
 
-Dirty Product Tanker Spot Rates (WS)
+*Chart: Dirty Product Tanker Spot Rates (WS) - Gibson daily assessments, kept in data/extracted/series/gibson_spot_chart_daily.csv*
 
 ## Rates & Bunkers
 
-### Clean & Dirty Tanker Spot Market Developments - Spot Worldscale
+#### Clean and Dirty Tanker Spot Market Developments – Spot WS and $/day TCE (a)
 
-| Route | Category | Vessel | Description | WoW Change | Current | Previous | Last Month | FFA |
-|---|---|---|---|---|---|---|---|---|
-| TD3C | Dirty Tanker Spot | VLCC | VLCC AG-China | 23.0 | 467.0 | 444.0 | 414.0 | 347.0 |
-| TD20 | Dirty Tanker Spot | Suezmax | Suezmax WAF-UKC | -104.0 | 192.0 | 296.0 | 257.0 | 192.0 |
-| TD25 | Dirty Tanker Spot | Aframax | Aframax USG-UKC | -269.0 | 346.0 | 616.0 | 434.0 | 348.0 |
-| TC1 | Clean Tanker Spot | LR2 | LR2 AG-Japan | 58.0 | 589.0 | 532.0 | 377.0 | - |
-| TC18 | Clean Tanker Spot | MR | MR USG-Brazil | 18.0 | 659.0 | 641.0 | 509.0 | 450.0 |
-| TC5 | Clean Tanker Spot | LR1 | LR1 AG-Japan | 66.0 | 621.0 | 555.0 | 388.0 | 411.0 |
-| TC7 | Clean Tanker Spot | MR | MR Singapore-EC Aus | 59.0 | 380.0 | 321.0 | 254.0 | 284.0 |
-
-### Clean & Dirty Tanker Spot Market Developments - $/day TCE
-
-| Route | Category | Vessel | Description | WoW Change ($) | Current ($/day) | Previous ($/day) | Last Month ($/day) | FFA ($/day) |
-|---|---|---|---|---|---|---|---|---|
-| TD3C | Dirty Tanker Spot | VLCC | VLCC AG-China | 30000.0 | 498000.0 | 468000.0 | 421500.0 | 352750.0 |
-| TD20 | Dirty Tanker Spot | Suezmax | Suezmax WAF-UKC | -66500.0 | 89250.0 | 155750.0 | 126750.0 | 83000.0 |
-| TD25 | Dirty Tanker Spot | Aframax | Aframax USG-UKC | -101500.0 | 98000.0 | 199500.0 | 127750.0 | 93250.0 |
-| TC1 | Clean Tanker Spot | LR2 | LR2 AG-Japan | 21000.0 | 173000.0 | 152000.0 | 93000.0 | - |
-| TC18 | Clean Tanker Spot | MR | MR USG-Brazil | 3500.0 | 98500.0 | 95000.0 | 71500.0 | 58000.0 |
-| TC5 | Clean Tanker Spot | LR1 | LR1 AG-Japan | 17750.0 | 131500.0 | 113750.0 | 66500.0 | 78250.0 |
-| TC7 | Clean Tanker Spot | MR | MR Singapore-EC Aus | 11250.0 | 46750.0 | 35500.0 | 19250.0 | 30500.0 |
-
-### Bunker Prices ($/tonne)
-
-| Port | Grade | WoW Change ($) | Current ($/t) | Previous ($/t) | Last Month ($/t) |
+|  | wk on wk change | Apr 16th | Apr 9th | Last Month* | FFA Q1 |
 |---|---|---|---|---|---|
-| Rotterdam | VLSFO | -13.0 | 645.0 | 658.0 | 784.0 |
-| Fujairah | VLSFO | -59.0 | 726.0 | 786.0 | 1248.0 |
-| Singapore | VLSFO | -51.0 | 757.0 | 808.0 | 1034.0 |
-| Rotterdam | LSMGO | -9.0 | 1222.0 | 1231.0 | 1360.0 |
+| TD3C VLCC AG-China WS | 23 | 467 | 444 | 414 | 347 |
+| TD3C VLCC AG-China TCE $/day | 30,000 | 498,000 | 468,000 | 421,500 | 352,750 |
+| TD20 Suezmax WAF-UKC WS | -104 | 192 | 296 | 257 | 192 |
+| TD20 Suezmax WAF-UKC TCE $/day | -66,500 | 89,250 | 155,750 | 126,750 | 83,000 |
+| TD25 Aframax USG-UKC WS | -269 | 346 | 616 | 434 | 348 |
+| TD25 Aframax USG-UKC TCE $/day | -101,500 | 98,000 | 199,500 | 127,750 | 93,250 |
+| TC1 LR2 AG-Japan WS | 58 | 589 | 532 | 377 |  |
+| TC1 LR2 AG-Japan TCE $/day | 21,000 | 173,000 | 152,000 | 93,000 |  |
+| TC18 MR USG-Brazil WS | 18 | 659 | 641 | 509 | 450 |
+| TC18 MR USG-Brazil TCE $/day | 3,500 | 98,500 | 95,000 | 71,500 | 58,000 |
+| TC5 LR1 AG-Japan WS | 66 | 621 | 555 | 388 | 411 |
+| TC5 LR1 AG-Japan TCE $/day | 17,750 | 131,500 | 113,750 | 66,500 | 78,250 |
+| TC7 MR Singapore-EC Aus WS | 59 | 380 | 321 | 254 | 284 |
+| TC7 MR Singapore-EC Aus TCE $/day | 11,250 | 46,750 | 35,500 | 19,250 | 30,500 |
+
+(a) based on round voyage economics at ‘market’ speed, eco, non-scrubber basis
+
+#### Bunker Prices ($/tonne)
+
+|  | wk on wk change | Apr 16th | Apr 9th | Last Month* |
+|---|---|---|---|---|
+| Rotterdam VLSFO | -13 | 645 | 658 | 784 |
+| Fujairah VLSFO | -59 | 726 | 786 | 1,248 |
+| Singapore VLSFO | -51 | 757 | 808 | 1,034 |
+| Rotterdam LSMGO | -9 | 1222 | 1,231 | 1,360 |

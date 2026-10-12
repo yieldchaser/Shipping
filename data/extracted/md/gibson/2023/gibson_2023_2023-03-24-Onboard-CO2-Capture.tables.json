@@ -141,10 +141,10 @@
       "vessel_class": "LR1",
       "route_description": "AG-Japan",
       "change_wow": -14.0,
-      "rate_current": null,
-      "rate_prev": null,
-      "rate_last_month": null,
-      "ffa_value": null,
+      "rate_current": 182.0,
+      "rate_prev": 196.0,
+      "rate_last_month": 209.0,
+      "ffa_value": 186.0,
       "ffa_period": "",
       "source_file": "corpus/01-brokers/gibson/2023/gibson_2023_2023-03-24-Onboard-CO2-Capture.pdf"
     },
@@ -268,10 +268,10 @@
       "report_week": 12,
       "port": "Rotterdam",
       "grade": "LSMGO",
-      "change_wow": 761.0,
-      "price_current": 716.0,
-      "price_prev": 760.0,
-      "price_last_month": null,
+      "change_wow": 45.0,
+      "price_current": 761.0,
+      "price_prev": 716.0,
+      "price_last_month": 760.0,
       "source_file": "corpus/01-brokers/gibson/2023/gibson_2023_2023-03-24-Onboard-CO2-Capture.pdf"
     }
   ]

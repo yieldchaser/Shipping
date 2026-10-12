@@ -18,10 +18,6 @@ charts_count: 0
 
 ## Feature Story
 
-Home > Production Predicament
-
 There has been a critical error on this website.
 
 Learn more about troubleshooting WordPress.
-
-## Rates & Bunkers

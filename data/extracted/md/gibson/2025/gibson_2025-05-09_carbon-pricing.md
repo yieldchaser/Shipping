@@ -22,7 +22,7 @@ Undoubtedly, the most significant development at MEPC 83 was the establishment o
 
 The progress on the Net Zero Framework sparked significant controversy. The US delegation withdrew from the negotiations, warning that it may impose retaliatory measures if international rules impose fees on American vessels based on their GHG emissions or fuel types. Nonetheless, an agreement was eventually reached, though not through the usual process. With several member states rejecting the proposal, a formal vote was called, which is highly unusual. The proposal was ultimately approved with 63 nations in favor, including the EU, the UK, China, and India; 16 member states opposed, including several Middle Eastern countries, Russia, and Venezuela; and 24 abstentions.
 
-In detail, a tiered levy structure will apply: one rate for emissions exceeding a 'direct compliance target', and a higher rate for those surpassing a 'base target'. These targets are defined in terms of carbon intensity, measured as grams of CO₂ emitted per megajoule of energy consumed (gCO₂/MJ) and calculated on a well-to-wake approach. Emissions up to 77.44 gCO₂/MJ (the direct compliance target) will be exempt. Emissions above 77.44 and up to 89.57 gCO₂/MJ (the base target) will incur a levy of $100 per metric tonne of CO₂ equivalent (mtCO₂e). Emissions above 89.57 gCO₂/MJ will be charged at $380/mtCO₂e. Ships that exceed these thresholds will have several options to offset their excess emissions. They may use surplus units from other vessels, draw on previously banked units, or purchase Remedial Units (RUs) through contributions to the IMO Net-Zero Fund.
+In detail, a tiered levy structure will apply: one rate for emissions exceeding a ‘direct compliance target’, and a higher rate for those surpassing a ‘base target’. These targets are defined in terms of carbon intensity, measured as grams of CO₂ emitted per megajoule of energy consumed (gCO₂/MJ) and calculated on a well-to-wake approach. Emissions up to 77.44 gCO₂/MJ (the direct compliance target) will be exempt. Emissions above 77.44 and up to 89.57 gCO₂/MJ (the base target) will incur a levy of $100 per metric tonne of CO₂ equivalent (mtCO₂e). Emissions above 89.57 gCO₂/MJ will be charged at $380/mtCO₂e. Ships that exceed these thresholds will have several options to offset their excess emissions. They may use surplus units from other vessels, draw on previously banked units, or purchase Remedial Units (RUs) through contributions to the IMO Net-Zero Fund.
 
 Both the direct compliance target and base target will be progressively tightened each year starting from 2028. The levies of $100/mtCO₂e and $380/mtCO₂e will remain in place through 2030, after which they will be subject to review. Ships that emit below the base target will earn surplus units (with prices determined by market forces), which can be banked for up to two years or traded. Revenues collected from penalties will be allocated to support vessels that use zero or near-zero carbon fuels.
 
@@ -32,7 +32,20 @@ While the levies of $100/mtCO₂e and $380/mtCO₂e are set through 2030, it is 
 
 The Net Zero Framework is scheduled to be formally adopted during the MEPC meeting in October 2025 and then enter into force on March 1, 2027. Yet, it is possible that another formal vote will be called. For adoption, it must be approved by two-thirds of the parties to MARPOL Annex VI, representing at least 50 percent of the gross tonnage of the global merchant fleet. Considering challenges faced during MEPC 83, it may not be a done deal.
 
-Subscribe to our newsletter and make sure you're first to get the latest research and reports, straight to your inbox.
+*Chart: IMO NZF Compliance Costs*
+
+Chart data as embedded in the report:
+
+|  | VLCC (TD3C) Eco | Suezmax (TD20) Eco | Aframax (TD19) Eco |
+|---|---|---|---|
+| 2028 | 159071 | 85423 | 33824 |
+| 2029 | 223428 | 119983 | 47509 |
+| 2030 | 287441 | 154359 | 61120 |
+| 2031 | 428851 | 230298 | 91189 |
+| 2032 | 570133 | 306168 | 121231 |
+| 2033 | 711415 | 382037 | 151272 |
+| 2034 | 852697 | 457907 | 181314 |
+| 2035 | 993979 | 533777 | 211355 |
 
 ## Crude Oil
 
@@ -54,7 +67,7 @@ Suezmaxes here were presented with a lengthy tonnage list on opening this week, 
 
 For Suezmaxes in the Med, drip fed enquiry seen from the Mediterranean this week and tonnage building led to a negative impact on rates here too. Where CPC was tested down to 135 x WS110 for Med and WS105 for UKC being repeated at least twice. Here too we are going to need an upturn in enquiry levels to give any stimulus from this region to thin the early position. However, we expect end month dates to be in play in the coming days which should result in enough to hold sentiment steady for now.
 
-Med Aframaxes suffered this week as the pre-bank holiday rush failed to materialise. By the London reopening on Tuesday all that could be seen was a tonnage list building by the day. Ceyhan cargoes began the week at WS170 levels but with WS167.5 soon done the die was cast. Some Libya loaders were concluded at WS162.5 and at the close the added days of inactivity caused a further drop in Ceyhan to WS140. As we look forward it's true to say the list is more balanced and there will be end month activity to come, but unless the states and North Sea markets rebound it will take a lot for the Mediterranean to reach anywhere near the recent highs.
+Med Aframaxes suffered this week as the pre-bank holiday rush failed to materialise. By the London reopening on Tuesday all that could be seen was a tonnage list building by the day. Ceyhan cargoes began the week at WS170 levels but with WS167.5 soon done the die was cast. Some Libya loaders were concluded at WS162.5 and at the close the added days of inactivity caused a further drop in Ceyhan to WS140. As we look forward it’s true to say the list is more balanced and there will be end month activity to come, but unless the states and North Sea markets rebound it will take a lot for the Mediterranean to reach anywhere near the recent highs.
 
 ### US Gulf/Latin America
 
@@ -64,7 +77,7 @@ VLCC owners in USG had a poor week as the market was hit by a spate of cargoes b
 
 A few handpicked vessels, a fair bit of scheduling with little to shake up the mill pond. Is the summer market here or is this just a blip? Well, the way we are seeing things now is that there will have to be a real paradigm shift to drag the market out of its current rut. With the way that things stand and reading current sentiment we are a fair way from leaving WS125 level; there is more chance that further depression follows and we are yet to reach an equilibrium. At least with summer levels it brings summer weather… enjoy your weekend.
 
-Crude Tanker Spot Rates (WS)
+*Chart: Crude Tanker Spot Rates (WS) - Gibson daily assessments, kept in data/extracted/series/gibson_spot_chart_daily.csv*
 
 ## Clean Products
 
@@ -80,13 +93,13 @@ A mixed bag of successes was seen this week for the UKC MRs for both the owners 
 
 Not the most exciting week for Handies in the North as we have seen both XUKC and UKC/MED stems drip-fed into the market. TC23 has traded around the 30 x WS135 mark but with supply still heavily outweighing demand, expect these last done levels to be tested on next done. MR long haul freight has now stabilised which thankfully for Handies will stop those bigger units from competing on short haul 30kt clips. More of the same expected here for the short term.
 
-### Mediterranean
+### Med
 
-Although moderately tight on the MRs, sentiment has taken a beating as it's just too slow to do anything other than trade sideways. Most ships from WAF are heading north as the UKC has offered better cargo flow, next week it may swing a little as we expect some volume to increase out of the west Med with the Spanish refiners back in action. Otherwise for the most part rates have largely tracked in parity with the north.
+Although moderately tight on the MRs, sentiment has taken a beating as it’s just too slow to do anything other than trade sideways. Most ships from WAF are heading north as the UKC has offered better cargo flow, next week it may swing a little as we expect some volume to increase out of the west Med with the Spanish refiners back in action. Otherwise for the most part rates have largely tracked in parity with the north.
 
 As a rather flat week for Handies in the Med ends, rates have lingered at the 30 x WS130 level, drawing owners and charterers into a period of acceptance. Enquiry has been few and far between and coupled with a rather prompt tonnage list throughout the week, pressure has built up. With the seasonal summer slowdown in full motion, all parties will be keen to find out what the new bottom is for TC6.
 
-Clean Tanker Spot Rates (WS)
+*Chart: Clean Tanker Spot Rates (WS) - Gibson daily assessments, kept in data/extracted/series/gibson_spot_chart_daily.csv*
 
 ## Dirty Products
 
@@ -104,39 +117,36 @@ Quiet across both sectors in the Med and continent with WS165 done in both regio
 
 Panamax finally witnessed a bit more action mainly from the continent as workable units remained thin on the ground which saw sentiment firm. The longer the week went on the recent buzz soon started to phase as the list now looks to replenish.
 
-Dirty Product Tanker Spot Rates (WS)
+*Chart: Dirty Product Tanker Spot Rates (WS) - Gibson daily assessments, kept in data/extracted/series/gibson_spot_chart_daily.csv*
 
 ## Rates & Bunkers
 
-### Clean & Dirty Tanker Spot Market Developments - Spot Worldscale
+#### Clean and Dirty Tanker Spot Market Developments – Spot WS and $/day TCE (a)
 
-| Route | Category | Vessel | Description | WoW Change | Current | Previous | Last Month | FFA |
-|---|---|---|---|---|---|---|---|---|
-| TD3C | Dirty Tanker Spot | VLCC | VLCC AG-China | -7.0 | 60.0 | 67.0 | 55.0 | 61.0 |
-| TD20 | Dirty Tanker Spot | Suezmax | Suezmax WAF-UKC | -20.0 | 89.0 | 109.0 | 109.0 | 94.0 |
-| TD25 | Dirty Tanker Spot | Aframax | Aframax USG-UKC | -21.0 | 149.0 | 170.0 | 195.0 | 157.0 |
-| TC1 | Clean Tanker Spot | LR2 | LR2 AG-Japan | -14.0 | 111.0 | 124.0 | 121.0 | - |
-| TC18 | Clean Tanker Spot | MR | MR USG-Brazil | -6.0 | 161.0 | 167.0 | 166.0 | 172.0 |
-| TC5 | Clean Tanker Spot | LR1 | LR1 AG-Japan | -1.0 | 133.0 | 134.0 | 133.0 | 135.0 |
-| TC7 | Clean Tanker Spot | MR | MR Singapore-EC Aus | 2.0 | 161.0 | 160.0 | 172.0 | 173.0 |
-
-### Clean & Dirty Tanker Spot Market Developments - $/day TCE
-
-| Route | Category | Vessel | Description | WoW Change ($) | Current ($/day) | Previous ($/day) | Last Month ($/day) | FFA ($/day) |
-|---|---|---|---|---|---|---|---|---|
-| TD3C | Dirty Tanker Spot | VLCC | VLCC AG-China | -10000.0 | 43000.0 | 53000.0 | 37750.0 | 40500.0 |
-| TD20 | Dirty Tanker Spot | Suezmax | Suezmax WAF-UKC | -13750.0 | 35250.0 | 49000.0 | 49000.0 | 35500.0 |
-| TD25 | Dirty Tanker Spot | Aframax | Aframax USG-UKC | -8500.0 | 36750.0 | 45250.0 | 54250.0 | 35500.0 |
-| TC1 | Clean Tanker Spot | LR2 | LR2 AG-Japan | -5250.0 | 22750.0 | 28000.0 | 27000.0 | - |
-| TC18 | Clean Tanker Spot | MR | MR USG-Brazil | -1500.0 | 19250.0 | 20750.0 | 20000.0 | 19500.0 |
-| TC5 | Clean Tanker Spot | LR1 | LR1 AG-Japan | -750.0 | 20250.0 | 21000.0 | 20500.0 | 18750.0 |
-| TC7 | Clean Tanker Spot | MR | MR Singapore-EC Aus | - | 16250.0 | 16250.0 | 18500.0 | 17500.0 |
-
-### Bunker Prices ($/tonne)
-
-| Port | Grade | WoW Change ($) | Current ($/t) | Previous ($/t) | Last Month ($/t) |
+|  | wk on wk change | May 8th | May 1st | Last Month* | FFA Q2 |
 |---|---|---|---|---|---|
-| Rotterdam | VLSFO | 17.0 | 438.0 | 421.0 | 440.0 |
-| Fujairah | VLSFO | 23.0 | 496.0 | 473.0 | 481.0 |
-| Singapore | VLSFO | 17.0 | 499.0 | 482.0 | 489.0 |
-| Rotterdam | LSMGO | 9.0 | 581.0 | 572.0 | 601.0 |
+| TD3C VLCC AG-China WS | -7 | 60 | 67 | 55 | 61 |
+| TD3C VLCC AG-China TCE $/day | -10,000 | 43,000 | 53,000 | 37,750 | 40,500 |
+| TD20 Suezmax WAF-UKC WS | -20 | 89 | 109 | 109 | 94 |
+| TD20 Suezmax WAF-UKC TCE $/day | -13,750 | 35,250 | 49,000 | 49,000 | 35,500 |
+| TD25 Aframax USG-UKC WS | -21 | 149 | 170 | 195 | 157 |
+| TD25 Aframax USG-UKC TCE $/day | -8,500 | 36,750 | 45,250 | 54,250 | 35,500 |
+| TC1 LR2 AG-Japan WS | -14 | 111 | 124 | 121 |  |
+| TC1 LR2 AG-Japan TCE $/day | -5,250 | 22,750 | 28,000 | 27,000 |  |
+| TC18 MR USG-Brazil WS | -6 | 161 | 167 | 166 | 172 |
+| TC18 MR USG-Brazil TCE $/day | -1,500 | 19,250 | 20,750 | 20,000 | 19,500 |
+| TC5 LR1 AG-Japan WS | -1 | 133 | 134 | 133 | 135 |
+| TC5 LR1 AG-Japan TCE $/day | -750 | 20,250 | 21,000 | 20,500 | 18,750 |
+| TC7 MR Singapore-EC Aus WS | 2 | 161 | 160 | 172 | 173 |
+| TC7 MR Singapore-EC Aus TCE $/day | 0 | 16,250 | 16,250 | 18,500 | 17,500 |
+
+(a) based on round voyage economics at ‘market’ speed, eco, non-scrubber basis
+
+#### Bunker Prices ($/tonne)
+
+|  | wk on wk change | May 8th | May 1st | Last Month* |
+|---|---|---|---|---|
+| Rotterdam VLSFO | +17 | 438 | 421 | 440 |
+| Fujairah VLSFO | +23 | 496 | 473 | 481 |
+| Singapore VLSFO | +17 | 499 | 482 | 489 |
+| Rotterdam LSMGO | +9 | 581 | 572 | 601 |

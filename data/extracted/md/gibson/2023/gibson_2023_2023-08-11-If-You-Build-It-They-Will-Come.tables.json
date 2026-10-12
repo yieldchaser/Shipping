@@ -77,10 +77,10 @@
       "vessel_class": "Suezmax",
       "route_description": "WAF-UKC",
       "change_wow": -1000.0,
-      "rate_current": null,
-      "rate_prev": null,
-      "rate_last_month": null,
-      "ffa_value": null,
+      "rate_current": 13000.0,
+      "rate_prev": 14000.0,
+      "rate_last_month": 36000.0,
+      "ffa_value": 22250.0,
       "ffa_period": "",
       "source_file": "corpus/01-brokers/gibson/2023/gibson_2023_2023-08-11-If-You-Build-It-They-Will-Come.pdf"
     },
@@ -268,10 +268,10 @@
       "report_week": 32,
       "port": "Rotterdam",
       "grade": "LSMGO",
-      "change_wow": 901.0,
-      "price_current": 891.0,
-      "price_prev": 750.0,
-      "price_last_month": null,
+      "change_wow": 10.0,
+      "price_current": 901.0,
+      "price_prev": 891.0,
+      "price_last_month": 750.0,
       "source_file": "corpus/01-brokers/gibson/2023/gibson_2023_2023-08-11-If-You-Build-It-They-Will-Come.pdf"
     }
   ]

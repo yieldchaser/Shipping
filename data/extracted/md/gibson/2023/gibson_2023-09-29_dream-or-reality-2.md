@@ -21,5 +21,3 @@ charts_count: 0
 There has been a critical error on this website.
 
 Learn more about troubleshooting WordPress.
-
-## Rates & Bunkers
