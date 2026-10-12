@@ -24,29 +24,29 @@ pages: 6
 ### Iron Ore Benchmark Price Indices
 | Benchmark Index | Fe Grade | Market / Delivery Point | Unit | Price | Change | Change % | Date |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| **IOPI62** | 62% Fe Fines | Port Stock (FOT Qingdao) | RMB/wmt | 892.00 | -4.00 | -0.45% | 2023-01-31 |
-| **IOPI65** | 65% Fe Fines | Port Stock (FOT Qingdao) | RMB/wmt | 1,003.00 | -5.00 | -0.50% | 2023-01-31 |
-| **IOPI58** | 58% Fe Fines | Port Stock (FOT Qingdao) | RMB/wmt | 793.00 | +0.00 | +0.00% | 2023-01-31 |
+| **IOPI62** | 62% Fe Fines | Port Stock (FOT Qingdao) | RMB/t | 892.00 | -4.00 | -0.45% | 2023-01-31 |
+| **IOPI65** | 65% Fe Fines | Port Stock (FOT Qingdao) | RMB/t | 1,003.00 | -5.00 | -0.50% | 2023-01-31 |
+| **IOPI58** | 58% Fe Fines | Port Stock (FOT Qingdao) | RMB/t | 793.00 | 0.00 | 0.00% | 2023-01-31 |
 | **IOSI62** | 62% Fe Fines | Seaborne (CFR Qingdao) | USD/dmt | 128.50 | +5.35 | +4.34% | 2023-01-31 |
-| **IOSI65** | 65% Fe Fines | Seaborne (CFR Qingdao) | USD/dmt | 136.70 | +0.00 | +0.00% | 2023-01-31 |
-| **IOPLI62** | 62.5% Fe Lump | Port Stock (FOT Qingdao) | RMB/wmt | 1,001.00 | +67.00 | +7.17% | 2023-01-31 |
+| **IOSI65** | 65% Fe Fines | Seaborne (CFR Qingdao) | USD/dmt | 136.70 | 0.00 | 0.00% | 2023-01-31 |
+| **IOPLI** | 62.5% Fe Lump | Port Stock (FOT Qingdao) | RMB/t | 1,001.00 | +67.00 | +7.17% | Week ending 2023-01-27 |
 
 ### Exchange Traded Futures & Derivatives
 | Contract | Exchange | Unit | Settlement / Close | Change | Change % | Session |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| **Iron Ore Front Month** | DCE | RMB/wmt | 866.00 | -7.50 | -0.86% | 3:00 pm Close |
-| **Iron Ore Front Month** | SGX | USD/dmt | 127.45 | -0.70 | -0.55% | 5:30 pm Print |
-| **Steel Rebar** | SHFE | RMB/t | 4,143.00 | -58.00 | -1.38% | 3:00 pm Close |
+| **DCE Iron Ore 62% Fines, I2305 (Jan)** | DCE | RMB/t | 866.00 | -7.50 | -0.86% | 3pm close, 2023-01-31 |
+| **SGX Iron Ore (CFR Qingdao) 62% Fe Fines, March 23** | SGX | USD/dmt | 127.45 | -0.70 | -0.55% | 5.30 pm Print, 2023-01-31 |
+| **SHFE Rebar, RB2305 (Jan)** | SHFE | RMB/t | 4,143.00 | -58.00 | -1.38% | 3pm close, 2023-01-31 |
 
 ### Dry Bulk Freight Rates, Spot Steel & Inventories
-| Indicator | Category / Route | Value | Change | Change % | Basis / Date |
+| Indicator | Category / Route | Value | Change | Change % | Date |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| **C3 Freight** | Tubarao - Qingdao | 16.81 USD/t | - | - | Capesize Spot |
-| **C5 Freight** | W. Australia - Qingdao | 6.37 USD/t | - | - | Capesize Spot |
-| **Steel Rebar** | China Domestic Spot | 4,140.00 RMB/t | +0.00 | +0.00% | Shanghai Spot |
-| **Steel HRC** | China Domestic Spot | 4,280.00 RMB/t | +50.00 | +1.18% | Shanghai Spot |
-| **Port Iron Ore Inventory** | 35 Chinese Ports | 128.43 Mt | -1.76 | -1.35% | Weekly Survey |
-| **Total Steel Inventory** | China Commercial / Mills | 12.60 Mt | +1.52 | - | Weekly Survey |
+| **C3 Freight** | Tubarao - Qingdao | 16.81 USD/t | -0.07 | -0.43% | 2023-01-30 |
+| **C5 Freight** | W. Australia - Qingdao | 6.37 USD/t | +0.07 | +1.03% | 2023-01-30 |
+| **Steel Rebar** | China Domestic | 4,140.00 RMB/t | 0.00 | 0.00% | Week ending 2023-01-27 |
+| **Steel HRC** | China Domestic | 4,280.00 RMB/t | +50.00 | +1.18% | Week ending 2023-01-27 |
+| **Port Iron Ore Inventory** | 35 Chinese Ports | 128.43 Mt | -1.76 | -1.35% | Week ending 2023-01-27 |
+| **Steel Inventory** | China | 12.60 Mt | +1.52 | +13.77% | Week ending 2023-01-27 |
 
 ---
 
@@ -177,22 +177,36 @@ DCE iron ore futures declined by 1.31% today, the main contract closed 866.The t
 | **Port Stock** | **0.01% Phosphorus** | Low Fe Grade 0.09\<P<0.1% | 5.00 | RMB/wet tonne | +0.00 |
 
 ## Historical Iron Ore Index Comparisons (USD/DMT)
-> **Approximate.** The report prints no numbers for this chart. Values were read visually from the chart image by the parser and are rough estimates.
+> **Estimate.** The report prints no numbers for this chart. Values are computed from the chart's vector geometry at each x-axis date label (calibrated on the printed axis ticks; typically within 1% of the axis range).
 
 | Date | IOSI62 (USD/DMT) | IOPi62 CFR Eq (USD/DMT) | IOSI65 (USD/DMT) | IOPi65 CFR Eq (USD/DMT) |
 | :--- | :--- | :--- | :--- | :--- |
-| 1-Jan-21 | 170.00 | 165.00 | 180.00 | 175.00 |
-| 1-Mar-21 | 155.00 | 155.00 | 170.00 | 165.00 |
-| 1-May-21 | 240.00 | 235.00 | 270.00 | 265.00 |
-| 1-Jul-21 | 260.00 | 255.00 | 280.00 | 275.00 |
-| 1-Sep-21 | 120.00 | 115.00 | 125.00 | 120.00 |
-| 1-Nov-21 | 100.00 | 95.00 | 105.00 | 100.00 |
-| 1-Jan-22 | 140.00 | 135.00 | 150.00 | 145.00 |
-| 1-Mar-22 | 160.00 | 155.00 | 170.00 | 165.00 |
-| 1-May-22 | 165.00 | 160.00 | 175.00 | 170.00 |
-| 1-Jul-22 | 120.00 | 115.00 | 125.00 | 120.00 |
-| 1-Nov-22 | 90.00 | 85.00 | 95.00 | 90.00 |
-| 1-Jan-23 | 125.00 | 120.00 | 130.00 | 125.00 |
+| 1-Jan-21 | 163.61 | 158.34 | 171.82 | 172.79 |
+| 1-Feb-21 | 159.00 | 163.92 | 182.64 | 188.55 |
+| 1-Mar-21 | 177.72 | 174.75 | 196.44 | 200.37 |
+| 1-Apr-21 | 167.86 | 161.95 | 190.54 | 189.54 |
+| 1-May-21 | 192.50 | 190.55 | 228.95 | 227.01 |
+| 1-Jun-21 | 187.57 | 208.22 | 219.10 | 247.61 |
+| 1-Jul-21 | 217.12 | 230.91 | 253.57 | 260.46 |
+| 1-Aug-21 | 196.94 | 197.92 | 232.91 | 231.91 |
+| 1-Sep-21 | 154.07 | 152.10 | 182.63 | 186.58 |
+| 1-Oct-21 | 124.32 | 125.70 | 142.84 | 150.92 |
+| 1-Nov-21 | 110.66 | 116.63 | 131.33 | 142.26 |
+| 1-Dec-21 | 105.77 | 99.87 | 119.58 | 128.45 |
+| 1-Jan-22 | 125.49 | 117.94 | 132.71 | 146.51 |
+| 1-Feb-22 | 144.22 | 144.87 | 172.79 | 174.10 |
+| 1-Mar-22 | 136.34 | 139.31 | 165.89 | 169.87 |
+| 1-Apr-22 | 154.99 | 156.04 | 184.55 | 181.69 |
+| 1-May-22 | 147.66 | 143.23 | 172.29 | 167.86 |
+| 1-Jun-22 | 140.28 | 144.21 | 164.91 | 169.82 |
+| 1-Jul-22 | 122.54 | 116.63 | 137.32 | 140.28 |
+| 1-Aug-22 | 117.61 | 111.70 | 133.38 | 130.42 |
+| 1-Sep-22 | 105.79 | 100.86 | 113.67 | 119.58 |
+| 1-Oct-22 | 98.76 | 100.45 | 109.73 | 117.20 |
+| 1-Nov-22 | 92.00 | 82.17 | 101.85 | 110.74 |
+| 1-Dec-22 | 100.87 | 98.90 | 108.75 | 114.66 |
+| 1-Jan-23 | 113.67 | 114.66 | 124.51 | 130.42 |
+| 1-Feb-23 | 128.45 | 122.54 | 136.34 | 138.31 |
 
 ---
 
@@ -201,7 +215,7 @@ DCE iron ore futures declined by 1.31% today, the main contract closed 866.The t
 # Port Inventories & Exchange Traded Futures
 
 ## Iron Ore Port Inventories (Million Tonnes)
-| Port Terminal / Survey Area | Inventory (Mt) | Weekly Change % | 12-Month Low | 12-Month High |
+| Port Terminal / Survey Area | Inventory (Mt) (Week ending 2023-01-27) | Weekly Change % | 12-Month Low | 12-Month High |
 | :--- | :--- | :--- | :--- | :--- |
 | Jingtang | 11.62 | -2.43% | 9.84 | 19.20 |
 | Qingdao | 25.25 | +0.80% | 9.41 | 26.24 |
@@ -211,10 +225,14 @@ DCE iron ore futures declined by 1.31% today, the main contract closed 866.The t
 | **Total (35 Ports)** | **128.43** | **-1.35%** | 98.80 | 155.39 |
 
 ## Iron Ore Futures Contracts (DCE & SGX)
-| Exchange | Contract Month | Unit | Closing Price | Change | Change % | Volume ('000 lots) | Open Positions ('000 lots) | Day Low | Day High |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| **DCE** | **I2305** | RMB/WMT | 866.00 | -7.50 | -0.86% | 47.59 | 84.27 | 865.50 | 880.00 |
-| **SGX** | **Mar. 23** | USD/DMT | 127.45 | -0.70 | -0.55% | 4.04 | 28.66 | 126.05 | 128.65 |
+| Metric | DCE I2305 (RMB/WMT) | Change | Change % | SGX Mar. 23 (USD/DMT) | Change | Change % |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| Closing Date | Jan 31st, 3pm close | | | Jan 31st, 5:30pm | | |
+| Closing Price | 866.00 | -7.50 | -0.86% | 127.45 | -0.70 | -0.55% |
+| Vol traded ('000 lots) | 47.59 | +7.84 | +19.73% | 4.04 | -0.27 | -6.17% |
+| Open positions ('000 lots) | 84.27 | +1.32 | +1.59% | 28.66 | +1.00 | +3.60% |
+| Day Low | 865.50 | -5.50 | -0.63% | 126.05 | +0.05 | +0.04% |
+| Day High | 880.00 | -10.00 | -1.12% | 128.65 | -1.90 | -1.46% |
 
 ## Dry Bulk Freight Rates Historical Line Data (USD/MT)
 > **Estimate.** The report prints no numbers for this chart. Values are computed from the chart's vector geometry at each x-axis date label (calibrated on the printed axis ticks; typically within 1% of the axis range).

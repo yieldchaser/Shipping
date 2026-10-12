@@ -759,6 +759,9 @@ def upsert_rows_to_csv(csv_path: Path, new_rows: List[Dict[str, Any]], key_field
     if csv_path.exists() and csv_path.stat().st_size > 0:
         with open(csv_path, "r", encoding="utf-8") as f:
             reader = csv.DictReader(f)
+            # The MMi runner writes some of these files with more columns: keep them (writing only
+            # all_fields used to blank the MMi price/market columns, docs/iron_ore_two_writer_verdict.md).
+            all_fields = list(reader.fieldnames or []) + [k for k in all_fields if k not in (reader.fieldnames or [])]
             for row in reader:
                 k = tuple(str(row.get(kf, "")).strip() for kf in key_fields)
                 existing_rows[k] = row

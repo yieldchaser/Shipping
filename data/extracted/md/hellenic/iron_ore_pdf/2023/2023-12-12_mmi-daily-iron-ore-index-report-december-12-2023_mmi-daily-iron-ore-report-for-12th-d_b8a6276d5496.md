@@ -24,29 +24,29 @@ pages: 6
 ### Iron Ore Benchmark Price Indices
 | Benchmark Index | Fe Grade | Market / Delivery Point | Unit | Price | Change | Change % | Date |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| **IOPI62** | 62% Fe Fines | Port Stock (FOT Qingdao) | RMB/wmt | 1,019.00 | +13.00 | +1.29% | 2023-12-12 |
-| **IOPI65** | 65% Fe Fines | Port Stock (FOT Qingdao) | RMB/wmt | 1,130.00 | +12.95 | +1.16% | 2023-12-12 |
-| **IOPI58** | 58% Fe Fines | Port Stock (FOT Qingdao) | RMB/wmt | 924.00 | +5.00 | +0.51% | 2023-12-12 |
-| **IOSI62** | 62% Fe Fines | Seaborne (CFR Qingdao) | USD/dmt | 134.60 | +0.00 | +0.00% | 2023-12-12 |
+| **IOPI62** | 62% Fe Fines | Port Stock (FOT Qingdao) | RMB/t | 1,019.00 | +13.00 | +1.29% | 2023-12-12 |
+| **IOPI65** | 65% Fe Fines | Port Stock (FOT Qingdao) | RMB/t | 1,130.00 | +12.95 | +1.16% | 2023-12-12 |
+| **IOPI58** | 58% Fe Fines | Port Stock (FOT Qingdao) | RMB/t | 924.00 | +5.00 | +0.51% | 2023-12-12 |
+| **IOSI62** | 62% Fe Fines | Seaborne (CFR Qingdao) | USD/dmt | 134.60 | 0.00 | 0.00% | 2023-12-12 |
 | **IOSI65** | 65% Fe Fines | Seaborne (CFR Qingdao) | USD/dmt | 159.55 | +1.16 | +0.73% | 2023-12-12 |
-| **IOPLI62** | 62.5% Fe Lump | Port Stock (FOT Qingdao) | RMB/wmt | 1,183.00 | +13.00 | +1.11% | 2023-12-12 |
+| **IOPLI** | 62.5% Fe Lump | Port Stock (FOT Qingdao) | RMB/t | 1,183.00 | +13.00 | +1.11% | Week ending 2023-12-08 |
 
 ### Exchange Traded Futures & Derivatives
 | Contract | Exchange | Unit | Settlement / Close | Change | Change % | Session |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| **Iron Ore Front Month** | DCE | RMB/wmt | 969.50 | +14.50 | +1.52% | 3:00 pm Close |
-| **Iron Ore Front Month** | SGX | USD/dmt | 135.85 | +0.85 | +0.63% | 5:30 pm Print |
-| **Steel Rebar** | SHFE | RMB/t | 4,060.00 | +35.00 | +0.87% | 3:00 pm Close |
+| **DCE Iron Ore 62% Fines, I2401 (Jan)** | DCE | RMB/t | 969.50 | +14.50 | +1.52% | 3pm close, 2023-12-12 |
+| **SGX Iron Ore (CFR Qingdao) 62% Fe Fines, January 24** | SGX | USD/dmt | 135.85 | +0.85 | +0.63% | 5.30 pm Print, 2023-12-12 |
+| **SHFE Rebar, RB2405 (Jan)** | SHFE | RMB/t | 4,060.00 | +35.00 | +0.87% | 3pm close, 2023-12-12 |
 
 ### Dry Bulk Freight Rates, Spot Steel & Inventories
-| Indicator | Category / Route | Value | Change | Change % | Basis / Date |
+| Indicator | Category / Route | Value | Change | Change % | Date |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| **C3 Freight** | Tubarao - Qingdao | 28.58 USD/t | - | - | Capesize Spot |
-| **C5 Freight** | W. Australia - Qingdao | 12.93 USD/t | - | - | Capesize Spot |
-| **Steel Rebar** | China Domestic Spot | 4,090.00 RMB/t | +50.00 | +1.24% | Shanghai Spot |
-| **Steel HRC** | China Domestic Spot | 4,090.00 RMB/t | +110.00 | +2.76% | Shanghai Spot |
-| **Port Iron Ore Inventory** | 35 Chinese Ports | 115.10 Mt | +3.02 | +2.69% | Weekly Survey |
-| **Total Steel Inventory** | China Commercial / Mills | 9.60 Mt | -0.20 | - | Weekly Survey |
+| **C3 Freight** | Tubarao - Qingdao | 28.58 USD/t | +0.22 | +0.78% | 2023-12-11 |
+| **C5 Freight** | W. Australia - Qingdao | 12.93 USD/t | +1.46 | +12.69% | 2023-12-11 |
+| **Steel Rebar** | China Domestic | 4,090.00 RMB/t | +50.00 | +1.24% | Week ending 2023-12-08 |
+| **Steel HRC** | China Domestic | 4,090.00 RMB/t | +110.00 | +2.76% | Week ending 2023-12-08 |
+| **Port Iron Ore Inventory** | 35 Chinese Ports | 115.10 Mt | +3.02 | +2.69% | Week ending 2023-12-08 |
+| **Steel Inventory** | China | 9.60 Mt | -0.20 | -2.08% | Week ending 2023-12-08 |
 
 ---
 
@@ -157,7 +157,7 @@ DCE iron ore futures rose today by 1.52%. the main contract i2405 closed 969.5. 
 # Port Inventories & Exchange Traded Futures
 
 ## Iron Ore Port Inventories (Million Tonnes)
-| Port Terminal / Survey Area | Inventory (Mt) | Weekly Change % | 12-Month Low | 12-Month High |
+| Port Terminal / Survey Area | Inventory (Mt) (Week ending 2023-12-08) | Weekly Change % | 12-Month Low | 12-Month High |
 | :--- | :--- | :--- | :--- | :--- |
 | Jingtang | 9.35 | +1.96% | 8.41 | 19.20 |
 | Qingdao | 23.91 | +0.63% | 9.41 | 26.24 |
@@ -167,10 +167,14 @@ DCE iron ore futures rose today by 1.52%. the main contract i2405 closed 969.5. 
 | **Total (35 Ports)** | **115.10** | **+2.69%** | 98.80 | 155.39 |
 
 ## Iron Ore Futures Contracts (DCE & SGX)
-| Exchange | Contract Month | Unit | Closing Price | Change | Change % | Volume ('000 lots) | Open Positions ('000 lots) | Day Low | Day High |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| **DCE** | **I2405** | RMB/WMT | 969.50 | +14.50 | +1.52% | 19.99 | 50.27 | 951.50 | 971.50 |
-| **SGX** | **Jan. 24** | USD/DMT | 135.85 | +0.85 | +0.63% | 5.39 | 41.98 | 133.80 | 136.35 |
+| Metric | DCE I2405 (RMB/WMT) | Change | Change % | SGX Jan. 24 (USD/DMT) | Change | Change % |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| Closing Date | Dec 12th, 3pm close | | | Dec 12th, 5:30pm | | |
+| Closing Price | 969.50 | +14.50 | +1.52% | 135.85 | +0.85 | +0.63% |
+| Vol traded ('000 lots) | 19.99 | -4.50 | -18.38% | 5.39 | -2.07 | -27.73% |
+| Open positions ('000 lots) | 50.27 | +1.95 | +4.03% | 41.98 | -0.34 | -0.80% |
+| Day Low | 951.50 | +8.00 | +0.85% | 133.80 | +1.00 | +0.75% |
+| Day High | 971.50 | +5.50 | +0.57% | 136.35 | +0.70 | +0.52% |
 
 ## Dry Bulk Freight Rates Historical Line Data (USD/MT)
 > **Estimate.** The report prints no numbers for this chart. Values are computed from the chart's vector geometry at each x-axis date label (calibrated on the printed axis ticks; typically within 1% of the axis range).

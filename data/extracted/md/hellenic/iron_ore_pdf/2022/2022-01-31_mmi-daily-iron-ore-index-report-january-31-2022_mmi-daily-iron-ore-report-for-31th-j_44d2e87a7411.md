@@ -87,10 +87,24 @@ _No port differentials reported for this session._
 # Port Inventories & Exchange Traded Futures
 
 ## Iron Ore Port Inventories (Million Tonnes)
-_No port inventories reported for this session._
+| Port Terminal / Survey Area | Inventory (Mt) (Week ending 2022-01-28) | Weekly Change % | 12-Month Low | 12-Month High |
+| :--- | :--- | :--- | :--- | :--- |
+| Jingtang | 14.04 | -5.45% | 12.26 | 19.20 |
+| Qingdao | 23.86 | +1.06% | 9.41 | 23.96 |
+| Caofeidian | 14.40 | +1.98% | 11.25 | 16.25 |
+| Tianjin | 12.23 | -0.57% | 7.14 | 12.52 |
+| Rizhao | 17.13 | -0.87% | 9.44 | 17.77 |
+| **Total (35 Ports)** | **149.02** | **-0.71%** | 98.80 | 152.72 |
 
 ## Iron Ore Futures Contracts (DCE & SGX)
-_No futures contracts reported for this session._
+| Metric | DCE I2205 (RMB/WMT) | Change | Change % | SGX Nov. 21 (USD/DMT) | Change | Change % |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| Closing Date | Jan 31st, 3pm close (holiday) | | | Jan 31st, 5:30pm | | |
+| Closing Price | 829.00 | +60.00 | +7.80% | 137.75 | -9.35 | -6.36% |
+| Vol traded ('000 lots) | 70.31 | +11.21 | +18.96% | 0.45 | -1.45 | -76.14% |
+| Open positions ('000 lots) | 58.79 | -1.60 | -2.65% | 19.66 | +0.07 | +0.36% |
+| Day Low | 772.50 | +11.50 | +1.51% | 135.90 | -2.35 | -1.70% |
+| Day High | 830.00 | +49.00 | +6.27% | 146.60 | -1.45 | -0.98% |
 
 ---
 

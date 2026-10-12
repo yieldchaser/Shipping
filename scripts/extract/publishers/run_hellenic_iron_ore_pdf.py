@@ -46,6 +46,18 @@ ROOT = Path(__file__).resolve().parents[3]
 sys.path.insert(0, str(ROOT))
 from scripts.extract.llama_manager import manager as key_manager
 from scripts.extract.publishers.mmi_vector_charts import ESTIMATE_NOTES, apply_vector_charts
+from scripts.md_cleanup.iron_ore_text_tables_patch import patch as patch_printed_tables
+
+
+def report_markdown(sidecar: Dict[str, Any], pdf_path: Path) -> str:
+    """generate_report_markdown, then the dashboard, port inventory and futures tables rebuilt from the
+    PDF text layer (the parser's markdown drops or misplaces printed cells there)."""
+    md = generate_report_markdown(sidecar)
+    try:
+        md, _, _ = patch_printed_tables(md, pymupdf.open(pdf_path))
+    except Exception as e:  # keep the template tables rather than fail the report
+        print(f"  [WARN] printed-table rebuild skipped for {pdf_path.name}: {e}")
+    return md
 
 CACHE_DIR = ROOT / "data" / "extracted" / "cache_mmi_iron_ore_pdf"
 OUT_MD_DIR = ROOT / "data" / "extracted" / "md" / "hellenic" / "iron_ore_pdf"
@@ -2069,7 +2081,7 @@ async def process_single_mmi_pdf(pdf_path: Path, sem: asyncio.Semaphore) -> Tupl
         try:
             sidecar = json.loads(json_path.read_text(encoding="utf-8"))
             if sidecar.get("pipeline_version") == "v4_perfect" and sidecar.get("index_normalisation_differentials") and len(sidecar.get("index_normalisation_differentials", [])) >= 10:
-                full_md = generate_report_markdown(sidecar)
+                full_md = report_markdown(sidecar, pdf_path)
                 md_path.write_text(full_md, encoding="utf-8")
                 return (
                     sidecar.get("dashboard_indicators", {}),
@@ -2202,7 +2214,7 @@ async def process_single_mmi_pdf(pdf_path: Path, sem: asyncio.Semaphore) -> Tupl
     json_path.write_text(json.dumps(sidecar, indent=2, ensure_ascii=False) + "\n", encoding="utf-8")
 
     # 4. Generate publication-grade, perfectly formatted GitHub Markdown report
-    full_md = generate_report_markdown(sidecar)
+    full_md = report_markdown(sidecar, pdf_path)
     md_path = out_year_dir / f"{stem}.md"
     md_path.write_text(full_md, encoding="utf-8")
 
@@ -2359,7 +2371,7 @@ def process_single_mmi_sync(pdf_path_str: str) -> Dict[str, Any]:
             "chart_value_source": chart_value_source,
         }
         json_path.write_text(json.dumps(sidecar, indent=2, ensure_ascii=False) + "\n", encoding="utf-8")
-        full_md = generate_report_markdown(sidecar)
+        full_md = report_markdown(sidecar, pdf_path)
         md_path.write_text(full_md, encoding="utf-8")
 
         return {

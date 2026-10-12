@@ -23,7 +23,7 @@ import io
 import json
 import re
 from collections import Counter
-from datetime import date, datetime
+from datetime import date, datetime, timedelta
 from pathlib import Path
 
 import pymupdf
@@ -206,8 +206,26 @@ def _months(d):
 
 
 def _add_months(d, k, day):
-    m = _months(d) + k
-    return date(m // 12, m % 12 + 1, day)
+    return _month_date(_months(d) + k, day)
+
+
+def _eom(d):
+    return (d + timedelta(days=1)).day == 1
+
+
+def _month_date(m, day):
+    """Date in month index m; day 0 = the last day of the month (month-end axis labels)."""
+    first = date(m // 12, m % 12 + 1, 1)
+    last = ((first.replace(day=28) + timedelta(days=4)).replace(day=1) - timedelta(days=1)).day
+    return first.replace(day=last if day == 0 else day)
+
+
+def _label_day(ds):
+    """Common day of the labels: 0 when every label is a month end (31-Jan, 28-Feb, 31-Mar ...)."""
+    ds = list(ds)
+    if ds and all(_eom(d) for d in ds) and max(d.day for d in ds) >= 30:
+        return 0
+    return Counter(d.day for d in ds).most_common(1)[0][0]
 
 
 def _regularise(raw, fmt_day):
@@ -231,8 +249,8 @@ def _regularise(raw, fmt_day):
     base, votes = anchors.most_common(1)[0]
     if votes < 0.6 * len(raw):
         return None
-    day = Counter(d.day for _, d in idx).most_common(1)[0][0] if fmt_day else 1
-    return [date((base + i * step) // 12, (base + i * step) % 12 + 1, day) for i in range(len(raw))]
+    day = _label_day(d for _, d in idx) if fmt_day else 1
+    return [_month_date(base + i * step, day) for i in range(len(raw))]
 
 
 def _fmt(d, with_day):
@@ -243,7 +261,9 @@ def _x_labels(page, draws, lines, plot, angle_hint):
     labs = [(r, s) for r, dr, s in lines if r.y0 >= plot.y1 - 2 and parse_label(s)]
     if labs:
         return sorted(((r.x0 + r.x1) / 2, r, s) for r, s in labs), "text"
-    glyphs = [d for d in draws if d["type"] == "f" and d["items"] and d["items"][0][0] == "c"
+    # glyph outlines are curves, or (some 2021-26 PDFs) many short straight segments
+    glyphs = [d for d in draws if d["type"] == "f" and d["items"]
+              and (d["items"][0][0] == "c" or (d["items"][0][0] == "l" and len(d["items"]) >= 20))
               and d["rect"].y0 >= plot.y1 - 2 and d["rect"].height > 5]
     glyphs.sort(key=lambda g: g["rect"].x0)
     n = len(glyphs)
@@ -270,7 +290,7 @@ def _x_labels(page, draws, lines, plot, angle_hint):
         for i in range(n):
             if i not in texts:
                 m = base + i * step
-                texts[i] = _fmt(date(m // 12, m % 12 + 1, day), with_day)
+                texts[i] = _fmt(_month_date(m, day), with_day)
     out = [((g["rect"].x0 + g["rect"].x1) / 2, g["rect"], texts.get(i, "")) for i, g in enumerate(glyphs)]
     return out, "glyph"
 
@@ -288,9 +308,8 @@ def _lazy_fit(parsed, n):
     base = _months(d0) - i0 * step
     if step <= 0 or any(_months(d) != base + i * step for i, d in idx):
         return None
-    days = Counter(d.day for _, d in idx)
-    day, cnt = days.most_common(1)[0]
-    if cnt != len(idx):
+    day = _label_day(d for _, d in idx)
+    if any(_month_date(_months(d), day) != d for _, d in idx):
         return None
     return base, step, day
 
@@ -357,21 +376,57 @@ def read_line_chart(page, title, legend=None):
                     if it[0] == "l" and abs(it[1].x - it[2].x) < 0.05 and 0.5 < abs(it[1].y - it[2].y) < 6
                     and min(it[1].y, it[2].y) >= plot.y1 - 0.5})
     labels, kind = _x_labels(page, draws, lines, plot, (45, 90, -45))
+    if ticks and labels and len(ticks) != len(labels) and kind == "glyph":
+        # A tick with no label (the axis end): a rotated label ends at its tick, so pair each label
+        # with that tick and drop the unlabelled one. Every label must claim its own tick.
+        pick = [min(ticks, key=lambda t: abs(t - r.x1)) for _, r, _ in labels]
+        if len(set(pick)) != len(pick) or any(abs(t - r.x1) > 3 for t, (_, r, _) in zip(pick, labels)):
+            return None
+        ticks = pick
+    if ticks and labels and len(labels) < len(ticks):
+        # Ticks with no readable label (axis ends, or labels broken up in the text layer): a label sits
+        # a small fixed offset from its own tick (the axis is day-scaled, months differ in width), so
+        # exactly one offset under half a tick pitch must put every label on its own tick. Unlabelled
+        # ticks keep a None label and take their date from the month sequence.
+        pitch = sorted(b - a for a, b in zip(ticks, ticks[1:]))[(len(ticks) - 1) // 2]
+        fits = []
+        for o in sorted({round(labels[0][0] - t, 2) for t in ticks}):
+            if abs(o) >= pitch / 2:
+                continue
+            at = [min(range(len(ticks)), key=lambda i: abs(x - o - ticks[i])) for x, _, _ in labels]
+            offs = [x - ticks[i] for (x, _, _), i in zip(labels, at)]
+            if len(set(at)) == len(at) and max(offs) - min(offs) < 1.0 and at not in fits:
+                fits.append(at)
+        if len(fits) == 1:
+            slot = dict(zip(fits[0], labels))
+            labels = [slot.get(i, (t, None, None)) for i, t in enumerate(ticks)]
     if not ticks or len(ticks) != len(labels):
         return None
     raw = [parse_label(s) for _, _, s in labels]
-    with_day = sum(1 for _, _, s in labels if re.match(r"^\d", s or "")) > len(labels) / 2
+    with_day = sum(1 for _, _, s in labels if re.match(r"^\d", s or "")) > sum(1 for _, _, s in labels if s) / 2
     dates = _regularise(raw, with_day)
     if dates is None:
         return None
+    # The axis is day-scaled, so a printed label (28-Feb, then 31-Mar) is the tick's own date: keep it
+    # where it agrees with the month sequence.
+    dates = [r if r and _months(r) == _months(d) else d for r, d in zip(raw, dates)]
     legend = _legend(draws, lines, plot)
     cols, polys = [], []
-    for d in series:
-        key = tuple(round(c, 2) for c in d["color"])
+    # Long series are drawn as several paths of the same colour (e.g. 200 nodes each): join the pieces
+    # left to right, only where each piece starts exactly where the previous one ended.
+    by_colour = {}
+    for d in sorted(series, key=lambda d: d["rect"].x0):
+        by_colour.setdefault(tuple(round(c, 2) for c in d["color"]), []).append(_polyline(d))
+    for key, pieces in by_colour.items():
         if key not in legend:
             return None
+        pts = pieces[0]
+        for nxt in pieces[1:]:
+            if not nxt or abs(nxt[0][0] - pts[-1][0]) > 0.5 or abs(nxt[0][1] - pts[-1][1]) > 0.5:
+                return None
+            pts = pts + nxt[1:]
         cols.append(legend[key])
-        polys.append(_polyline(d))
+        polys.append(pts)
     if len(set(cols)) != len(cols):
         return None
     rows = []
@@ -383,6 +438,29 @@ def read_line_chart(page, title, legend=None):
         rows.append((_fmt(dt, with_day), dt, vals))
     last = [round(a * max((p for p in pts if p[0] <= plot.x1 + 1), key=lambda p: p[0])[1] + b, 2) for pts in polys]
     return {"cols": cols, "rows": rows, "last": last}
+
+
+def _rects(d):
+    """Filled rectangles of a fill path: "re" items and/or closed 4-line axis-aligned quads (some PDFs
+    draw the bars as line paths, or mix both). None when the path holds anything else."""
+    its, out, k = d["items"], [], 0
+    while k < len(its):
+        if its[k][0] == "re":
+            out.append(its[k][1])
+            k += 1
+            continue
+        quad = its[k:k + 4]
+        if len(quad) < 4 or any(it[0] != "l" for it in quad):
+            return None
+        pts = [it[1] for it in quad] + [quad[3][2]]
+        if abs(pts[4].x - pts[0].x) > 0.05 or abs(pts[4].y - pts[0].y) > 0.05:
+            return None
+        xs, ys = {round(p.x, 1) for p in pts}, {round(p.y, 1) for p in pts}
+        if len(xs) != 2 or len(ys) != 2:
+            return None
+        out.append(pymupdf.Rect(min(xs), min(ys), max(xs), max(ys)))
+        k += 4
+    return out or None
 
 
 def read_bar_chart(page, title):
@@ -397,11 +475,15 @@ def read_bar_chart(page, title):
         return None
     gx0, gx1 = min(d["rect"].x0 for d in grid), max(d["rect"].x1 for d in grid)
     bars = []
+    by_fill = {}  # one series may be split over several paths of the same fill
     for d in alld:  # older layouts draw bars from before the axis start and clip them
-        if d["type"] == "f" and d["items"] and all(it[0] == "re" for it in d["items"]) and len(d["items"]) >= 3                 and d["rect"].intersects(panel) and not _close(d.get("fill"), (1.0, 1.0, 1.0)):
-            inside = [it[1] for it in d["items"] if gx0 <= (it[1].x0 + it[1].x1) / 2 <= gx1]
-            if len(inside) > len(bars):
-                bars = inside
+        rects = _rects(d) if d["type"] == "f" else None
+        if rects and d["rect"].intersects(panel) and not _close(d.get("fill"), (1.0, 1.0, 1.0)):
+            inside = [r for r in rects if gx0 <= (r.x0 + r.x1) / 2 <= gx1]
+            by_fill.setdefault(tuple(round(c, 2) for c in d["fill"]), []).extend(inside)
+    for rs in by_fill.values():
+        if len(rs) > len(bars):
+            bars = rs
     if len(bars) < 3:
         return None
     bars.sort(key=lambda r: r.x0)
@@ -418,26 +500,41 @@ def read_bar_chart(page, title):
     if not labels:
         return None
     cxs = [(r.x0 + r.x1) / 2 for r in bars]
-    pitch = (cxs[-1] - cxs[0]) / (len(cxs) - 1)
-    marks = []  # (bar index, parsed date)
+    # Bars sit on an even monthly grid; a month can have no bar (nothing drawn), so place each bar on
+    # its slot of the grid instead of counting bars.
+    # Count slots gap by gap (bar spacing alternates by a fraction of a point), then fit the pitch
+    # over the whole axis.
+    step = sorted(q - p for p, q in zip(cxs, cxs[1:]))[(len(cxs) - 2) // 2]
+    slot = [0]
+    for p, q in zip(cxs, cxs[1:]):
+        slot.append(slot[-1] + round((q - p) / step))
+    if slot[-1] == 0:
+        return None
+    pitch = (cxs[-1] - cxs[0]) / slot[-1]
+    if len(set(slot)) != len(slot) or any(abs((cx - cxs[0]) / pitch - k) > 0.15 for cx, k in zip(cxs, slot)):
+        return None
+    marks = []  # (slot, parsed date)
     for cx, r, s in labels:
         anchor = r.x1 - 1 if kind == "glyph" else cx  # 45-degree glyph labels end at their bar
-        i = min(range(len(cxs)), key=lambda k: abs(cxs[k] - anchor))
-        if abs(cxs[i] - anchor) > pitch / 2:
+        k = round((anchor - cxs[0]) / pitch)
+        if abs(cxs[0] + k * pitch - anchor) > pitch / 2:
             return None
-        marks.append((i, parse_label(s)))
-    if len({i for i, _ in marks}) != len(marks):
+        marks.append((k, parse_label(s)))
+    if len({k for k, _ in marks}) != len(marks):
         return None
     with_day = sum(1 for _, _, s in labels if re.match(r"^\d", s or "")) > len(labels) / 2
-    dates = _regularise([d for _, d in marks], with_day)
-    if dates is None:
+    # Each readable label votes for the month of slot 0; a misread label is outvoted, not trusted.
+    parsed = [(k, d) for k, d in marks if d]
+    if len(parsed) < max(2, 0.6 * len(marks)):
         return None
-    (i0, d0), (i1, d1) = (marks[0][0], dates[0]), (marks[-1][0], dates[-1])
-    if i1 == i0 or _months(d1) - _months(d0) != i1 - i0:  # one bar per month, no gaps
+    m0, votes = Counter(_months(d) - k for k, d in parsed).most_common(1)[0]
+    if votes < 0.6 * len(marks):
         return None
+    good = [d for k, d in parsed if _months(d) - k == m0]
+    day = (_label_day(good) if with_day else 1)
     rows = []
-    for k, r in enumerate(bars):
-        dt = _add_months(d0, k - i0, d0.day)
+    for k, r in zip(slot, bars):
+        dt = _month_date(m0 + k, day)
         top = r.y0 if abs(r.y1 - base) < 1 else r.y1  # negative bars hang below the base
         rows.append((_fmt(dt, with_day), dt, round(a * top + b, 2)))
     return {"rows": rows, "baseline_value": round(a * base + b, 2)}
@@ -458,10 +555,13 @@ def read_mmi_charts(doc):
         res = None
         for page in doc:
             has_title = bool(page.search_for(title))
-            if kind == "line" and (has_title or (legend and page.search_for(legend))):
-                res = read_line_chart(page, title, legend=legend)
-            elif kind == "bar" and (has_title or page.search_for(CHARTS["freight"][1])):
-                res = read_bar_chart(page, title)
+            try:  # an inconsistent date axis fails this chart only, not the other charts of the PDF
+                if kind == "line" and (has_title or (legend and page.search_for(legend))):
+                    res = read_line_chart(page, title, legend=legend)
+                elif kind == "bar" and (has_title or page.search_for(CHARTS["freight"][1])):
+                    res = read_bar_chart(page, title)
+            except ValueError:
+                res = None
             if res:
                 break
         out[key] = res

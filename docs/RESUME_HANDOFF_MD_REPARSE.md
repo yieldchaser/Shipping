@@ -14,10 +14,10 @@ and well-formatted for the DeepSeek GraphRAG build, plus end-to-end ingest autom
   Athenian done to date. ISM: vector engine (not a defect). Agora: ignore (keep what exists).
 - **Next, in order**:
   1. Text-layer audits (printed numbers in PDF vs MD, then eyes on renders for leads): Banchero, Fearnleys (+md),
-     Lion, SSY, Affinity, Hellenic (iron ore chart-read tables: 1,164 MDs, owner decision pending).
+     Lion, SSY, Affinity. (Hellenic iron ore DONE 2026-10-12, see "Iron ore (MMi PDFs) 2026-10-12" below.)
   2. Text-twin scan (Advanced/Carriers); wire `twin_guard` + a quality gate into CI.
   3. Star Asia in CI (`star_asia_page_rebuild.py --untracked --parse --nace --apply`) needs nace-sdk + rapidocr in
-     the runner and a `NACE_API_KEY` secret: OWNER decision.
+     the runner and a `NACE_API_KEY` secret, which the owner adds at the end.
   4. Optional: book MDs (12, gitignored, main checkout) fidelity audit vs PDFs, if owner wants.
 - **Tools / caches**: LlamaCloud keys exhausted for 2026-10 (reset monthly); Nace = 6 keys in `~/.nace/keys.env`
   (rotated on 402). Page caches: `.reparse_staging/star_asia_pages{,_nace}/`, OCR `.reparse_staging/star_asia_ocr/`.
@@ -26,7 +26,8 @@ and well-formatted for the DeepSeek GraphRAG build, plus end-to-end ingest autom
   number checks are leads only (OCR misses small labels, small integers match by chance), so look at the render.
   Disk filled (C: 65 MB) mid-run and left a truncated cache file: caches now re-read safely. Check free disk
   (`(Get-PSDrive C).Free`) before long runs.
-- **Owner items**: rotate LlamaParse keys + all 6 Nace keys (5 pasted in chat), set `LLAMA_CLOUD_API_KEYS` secret.
+- **Owner items** (owner does these at the very end): set the `LLAMA_CLOUD_API_KEYS` and `NACE_API_KEY` secrets.
+  Key rotation is NOT needed (owner, 2026-10-12).
   Repo stays PUBLIC; do not change the fork-PR approval setting.
 - **Seabrokers Dec 2023 gap CLOSED (10-12)**: the EN card page is only a "Happy New Year" image; the NO page
   (`markedsrapport-desember-2023`) serves `2024/01/SEABREEZE_December.pdf` (4 pages). Read with Nace (8 credits), cached as
@@ -160,6 +161,31 @@ All tools are in `scripts/md_cleanup/`. Nothing was deleted: archived MDs are ke
   - Spot check (2021-09-16 vs rendered page 4): x labels 8-Sep (old 9-Sep), C3 ~30 and C5 ~12.5 USD/t, import bars exact.
   - The manual MMi runner (`run_hellenic_iron_ore_pdf.py`) writes `value_source` too. CI only ingests the SMM one-page
     report, which has no charts.
+- **Iron ore (MMi PDFs) 2026-10-12** — finished; every number in these MDs is now printed in the PDF or read from
+  vector geometry.
+  - Charts: `mmi_vector_charts.py` now reads month-end axes, split series paths, unlabeled ticks, glyph labels drawn
+    with lines, bars drawn as line quads and missing-bar months. 187 of the 196 Approximate sections became vector
+    reads; the other 9 (8 MDs) lost the eyeballed table and carry `> **Chart not transcribed.**`. No Approximate
+    section is left. Regression against the earlier vector tables: identical except 3 date-label corrections.
+    The three chart series were rebuilt (`value_source` is vector_estimate only now).
+  - Printed tables: `mmi_text_tables.py` reads page 1 cards, the port inventories table and the futures table from
+    the text layer; `iron_ore_text_tables_patch.py` rewrote the 5 tables in 1,166 MDs. The old template had hard-coded
+    "-" for freight changes, put the issue date on weekly items, called IOPI61 "62", dropped Tianjin/Rizhao (~410 MDs),
+    and its futures "Change" was the open-interest change. 151 MDs had shifted/concatenated old values (a change or
+    volume in the price column); 1 near-miss (2026-06-26 IOPI61 710 vs old 870 = the IOPLI card) was checked on the
+    render and is listed in `RENDER_CHECKED`. Handled: 2025 pages printed 1.185x larger, "######" cells
+    ("not printed"), blank cells (None), HOLIDAY stamps, "Month Ending" dates. 2022-01-31's PDF is a 65-page reflowed Office
+    export (no layout): its ports and futures tables (and series rows) were copied by hand from the text layer, in
+    printed row order, and match the same-week 2022-01-28 issue (DCE closed: holiday carry); its page 1 cards are
+    scattered without labels and stay "-". 22 SMM one-pagers are not the MMi template and are untouched.
+  - Series: `iron_ore_text_series_rebuild.py` rebuilt the MMi rows of the futures series (price = closing price,
+    + volume/open positions/day low/high columns, `value_source=pdf_text`) and the port inventories series (all 6
+    ports, `week_ending`). SMM rows kept; 2 rows with neither date nor source dropped.
+  - Writers: `run_hellenic_iron_ore_pdf.py` applies the text patch to every MD it writes; `run_smm_iron_ore_daily.py`
+    `upsert_rows_to_csv` keeps columns it does not write (it had blanked the MMi prices, see
+    `docs/iron_ore_two_writer_verdict.md`).
+  - Renders checked: 2021-08-18, 2022-11-21, 2023-04-27 futures; 2021-09-21, 2022-04-25, 2023-03-28, 2025-04-30,
+    2026-06-26 dashboards; 2022-11-03 ports and futures.
 
 ## PAUSED 2026-10-11 ~11:40 IST (session limit 89%)
 - The owner approved Nace credits (keys rotate via NACE_API_KEY_n lines in ~/.nace/keys.env), the runner download and all open items.
@@ -343,7 +369,7 @@ Defective → to re-parse with engine (in order):
 Then: metadata normalisation (frontmatter/issue_date for advanced, agora, fearnleys, intermodal, hellenic charter/VV, baltic, breakwave, voice), duplicate cleanup (E2E test dupes banchero W39 / star_asia W40, flat `hellenic/demolition/2026/gms_*.md`).
 
 ## Facts to remember
-- LlamaParse: only keys #11-13 (last three in `scripts/extract/llama_manager.py` pool) have credits this month; #1-10 return 402. Tiers: fast 1, cost_effective 3, agentic 10, agentic_plus 45 credits/page. Re-parse within 48h free (server cache). Keys are hardcoded in a PUBLIC repo — rotate at the very end (owner decision).
+- LlamaParse: only keys #11-13 (last three in `scripts/extract/llama_manager.py` pool) have credits this month; #1-10 return 402. Tiers: fast 1, cost_effective 3, agentic 10, agentic_plus 45 credits/page. Re-parse within 48h free (server cache). Keys are hardcoded in a PUBLIC repo; owner decided 2026-10-12 that no rotation is needed.
 - hellenicshippingnews.com returns 403 to GitHub-hosted runners → self-hosted runner on this PC planned (owner approved hosting). Needs: download `actions-runner-win-x64` v2.337.0 from github.com/actions/runner; shell not elevated → start via Startup folder, not service. Owner must set repo Settings → Actions → fork PR approval to "Require approval for all external contributors" (security setting; do not change it for them).
 - Raw broker/Poten/PPA PDFs are local-only (`corpus/**/*.pdf` gitignored); ~4,000 Hellenic PDFs + books are tracked.
 - Parsing rules per broker: `corpus/01-brokers/Shipbroking_Source_Parsing_Notes.docx` (Agora: owner says keep what exists).

@@ -24,29 +24,29 @@ pages: 6
 ### Iron Ore Benchmark Price Indices
 | Benchmark Index | Fe Grade | Market / Delivery Point | Unit | Price | Change | Change % | Date |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| **IOPI62** | 62% Fe Fines | Port Stock (FOT Qingdao) | RMB/wmt | 771.00 | -3.00 | -0.39% | 2025-04-30 |
-| **IOPI65** | 65% Fe Fines | Port Stock (FOT Qingdao) | RMB/wmt | 883.00 | -2.00 | -0.23% | 2025-04-30 |
-| **IOPI58** | 58% Fe Fines | Port Stock (FOT Qingdao) | RMB/wmt | 664.00 | -6.00 | -0.90% | 2025-04-30 |
+| **IOPI62** | 62% Fe Fines | Port Stock (FOT Qingdao) | RMB/t | 771.00 | -3.00 | -0.39% | 2025-04-30 |
+| **IOPI65** | 65% Fe Fines | Port Stock (FOT Qingdao) | RMB/t | 883.00 | -2.00 | -0.23% | 2025-04-30 |
+| **IOPI58** | 58% Fe Fines | Port Stock (FOT Qingdao) | RMB/t | 664.00 | -6.00 | -0.90% | 2025-04-30 |
 | **IOSI62** | 62% Fe Fines | Seaborne (CFR Qingdao) | USD/dmt | 99.76 | -1.26 | -1.25% | 2025-04-30 |
-| **IOSI65** | 65% Fe Fines | Seaborne (CFR Qingdao) | USD/dmt | 109.30 | +0.00 | +0.00% | 2025-04-30 |
-| **IOPLI62** | 62.5% Fe Lump | Port Stock (FOT Qingdao) | RMB/wmt | 905.00 | +13.00 | +1.46% | 2025-04-30 |
+| **IOSI65** | 65% Fe Fines | Seaborne (CFR Qingdao) | USD/dmt | 109.30 | 0.00 | 0.00% | 2025-04-30 |
+| **IOPLI** | 62.5% Fe Lump | Port Stock (FOT Qingdao) | RMB/t | 905.00 | +13.00 | +1.46% | Week ending 2025-04-25 |
 
 ### Exchange Traded Futures & Derivatives
 | Contract | Exchange | Unit | Settlement / Close | Change | Change % | Session |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| **Iron Ore Front Month** | DCE | RMB/wmt | 703.50 | -5.50 | -0.78% | 3:00 pm Close |
-| **Iron Ore Front Month** | SGX | USD/dmt | 96.90 | -1.65 | -1.67% | 5:30 pm Print |
-| **Steel Rebar** | SHFE | RMB/t | 3,096.00 | -4.00 | -0.13% | 3:00 pm Close |
+| **DCE Iron Ore 62% Fines, I2509 (September)** | DCE | RMB/t | 703.50 | -5.50 | -0.78% | 3pm close, 2025-04-30 |
+| **SGX Iron Ore (CFR Qingdao) 62% Fe Fines, May 25** | SGX | USD/dmt | 96.90 | -1.65 | -1.67% | 5.30 pm Print, 2025-04-30 |
+| **SHFE Rebar, RB2510 (Jan)** | SHFE | RMB/t | 3,096.00 | -4.00 | -0.13% | 3pm close, 2025-04-30 |
 
 ### Dry Bulk Freight Rates, Spot Steel & Inventories
-| Indicator | Category / Route | Value | Change | Change % | Basis / Date |
+| Indicator | Category / Route | Value | Change | Change % | Date |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| **C3 Freight** | Tubarao - Qingdao | 19.81 USD/t | - | - | Capesize Spot |
-| **C5 Freight** | W. Australia - Qingdao | 8.02 USD/t | - | - | Capesize Spot |
-| **Steel Rebar** | China Domestic Spot | 3,199.00 RMB/t | +31.00 | +0.98% | Shanghai Spot |
-| **Steel HRC** | China Domestic Spot | 3,246.00 RMB/t | +23.00 | +0.70% | Shanghai Spot |
-| **Port Iron Ore Inventory** | 35 Chinese Ports | 139.94 Mt | +2.10 | +1.52% | Weekly Survey |
-| **Total Steel Inventory** | China Commercial / Mills | 18.02 Mt | -0.04 | - | Weekly Survey |
+| **C3 Freight** | Tubarao - Qingdao | 19.81 USD/t | +0.06 | +0.30% | 2025-04-29 |
+| **C5 Freight** | W. Australia - Qingdao | 8.02 USD/t | +0.08 | +1.00% | 2025-04-29 |
+| **Steel Rebar** | China Domestic | 3,199.00 RMB/t | +31.00 | +0.98% | Week ending 2025-04-25 |
+| **Steel HRC** | China Domestic | 3,246.00 RMB/t | +23.00 | +0.70% | Week ending 2025-04-25 |
+| **Port Iron Ore Inventory** | 35 Chinese Ports | 139.94 Mt | +2.10 | +1.52% | Week ending 2025-04-25 |
+| **Steel Inventory** | China | 18.02 Mt | -0.04 | -0.19% | Week ending 2025-04-25 |
 
 ---
 
@@ -157,17 +157,24 @@ _No desk commentary reported for this session._
 # Port Inventories & Exchange Traded Futures
 
 ## Iron Ore Port Inventories (Million Tonnes)
-| Port Terminal / Survey Area | Inventory (Mt) | Weekly Change % | 12-Month Low | 12-Month High |
+| Port Terminal / Survey Area | Inventory (Mt) (Week ending 2025-04-25) | Weekly Change % | 12-Month Low | 12-Month High |
 | :--- | :--- | :--- | :--- | :--- |
 | Jingtang | 12.13 | -0.16% | 8.29 | 17.20 |
 | Qingdao | 27.65 | +0.55% | 22.28 | 27.65 |
 | Caofeidian | 15.24 | +1.26% | 7.56 | 20.28 |
+| Tianjin | 9.67 | +0.21% | 6.64 | 12.36 |
+| Rizhao | 17.63 | +2.68% | 11.52 | 21.35 |
 | **Total (35 Ports)** | **139.94** | **+1.52%** | 105.01 | 150.72 |
 
 ## Iron Ore Futures Contracts (DCE & SGX)
-| Exchange | Contract Month | Unit | Closing Price | Change | Change % | Volume ('000 lots) | Open Positions ('000 lots) | Day Low | Day High |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| **DCE** | **DCE Front Month** | RMB/WMT | 703.50 | - | +96.90% | 33.41 | 62.75 | 699.50 | 710.00 |
+| Metric | DCE I2509 (RMB/WMT) | Change | Change % | SGX May. 25 (USD/DMT) | Change | Change % |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| Closing Date | Apr 30th, 3pm close | | | Apr 30th, 5:30pm | | |
+| Closing Price | 703.50 | -5.50 | -0.78% | 96.90 | -1.65 | -1.67% |
+| Vol traded ('000 lots) | 33.41 | +0.40 | +1.20% | 0.33 | -6.66 | -95.34% |
+| Open positions ('000 lots) | 62.75 | -1.11 | -1.74% | 27.71 | -0.99 | -3.46% |
+| Day Low | 699.50 | -6.00 | -0.85% | 96.15 | -1.85 | -1.89% |
+| Day High | 710.00 | -4.00 | -0.56% | 96.90 | -1.85 | -1.87% |
 
 ## Dry Bulk Freight Rates Historical Line Data (USD/MT)
 > **Estimate.** The report prints no numbers for this chart. Values are computed from the chart's vector geometry at each x-axis date label (calibrated on the printed axis ticks; typically within 1% of the axis range).
@@ -202,32 +209,32 @@ _No desk commentary reported for this session._
 | 4-Mar-25 | 10.04 | 20.10 |
 
 ## Total China Iron Ore Import Volumes (Million Tonnes)
-> **Approximate.** The report prints no numbers for this chart. Values were read visually from the chart image by the parser and are rough estimates.
+> **Estimate.** The report prints no numbers for this chart. Values are computed from the chart's vector geometry at each x-axis date label (calibrated on the printed axis ticks; typically within 1% of the axis range).
 
 | Month / Period | Import Volume (Million Tonnes) |
 | :--- | :--- |
-| Jun-23 | 96.00 |
-| Jul-23 | 94.00 |
-| Aug-23 | 106.00 |
-| Sep-23 | 101.00 |
-| Oct-23 | 99.00 |
-| Nov-23 | 102.00 |
-| Dec-23 | 100.00 |
-| Jan-24 | 112.00 |
-| Feb-24 | 96.00 |
-| Mar-24 | 102.00 |
-| Apr-24 | 102.00 |
-| May-24 | 102.00 |
-| Jun-24 | 102.00 |
-| Jul-24 | 102.00 |
-| Aug-24 | 104.00 |
-| Sep-24 | 104.00 |
-| Oct-24 | 104.00 |
-| Nov-24 | 102.00 |
-| Dec-24 | 112.00 |
-| Jan-25 | 96.00 |
-| Feb-25 | 94.00 |
-| Mar-25 | 94.00 |
+| Jun-23 | 95.47 |
+| Jul-23 | 93.50 |
+| Aug-23 | 106.47 |
+| Sep-23 | 101.22 |
+| Oct-23 | 99.45 |
+| Nov-23 | 102.75 |
+| Dec-23 | 100.77 |
+| Jan-24 | 112.02 |
+| Feb-24 | 97.48 |
+| Mar-24 | 100.77 |
+| Apr-24 | 101.87 |
+| May-24 | 102.09 |
+| Jun-24 | 97.69 |
+| Jul-24 | 102.75 |
+| Aug-24 | 101.43 |
+| Sep-24 | 104.09 |
+| Oct-24 | 103.85 |
+| Nov-24 | 101.87 |
+| Dec-24 | 112.43 |
+| Jan-25 | 97.25 |
+| Feb-25 | 94.16 |
+| Mar-25 | 93.95 |
 
 ---
 

@@ -8,9 +8,9 @@ their .tables.json sidecars:
   ## Total China Iron Ore Import Volumes (Million Tonnes)
 
 A section whose chart reads cleanly (scripts/extract/publishers/mmi_vector_charts.py self-checks) gets the
-vector table and the "Estimate" note. A section whose chart does not read cleanly keeps its table and gets
-the "Approximate" note, so nothing is removed and every chart-derived table says what it is. Every other
-byte of each file is kept.
+vector table and the "Estimate" note. A section whose chart does not read cleanly loses the parser's
+table, which was read by eye from the image, and gets a "Chart not transcribed" note instead (2026-10-12;
+before that it kept the table under an "Approximate" note). Every other byte of each file is kept.
 
     python scripts/md_cleanup/iron_ore_vector_charts_patch.py            # dry run: report only
     python scripts/md_cleanup/iron_ore_vector_charts_patch.py --apply
@@ -41,6 +41,9 @@ SECTIONS = {
                 "| Month / Period | Import Volume (Million Tonnes) |\n| :--- | :--- |\n",
                 lambda r: f"| {r['period']} | {n2(r['volume_mt'])} |"),
 }
+NOT_TRANSCRIBED = ("> **Chart not transcribed.** The report prints no numbers for this chart and its vector "
+                   "geometry does not read cleanly; the table the parser estimated from the image was removed. "
+                   "See the source PDF.")
 SIDECAR_KEY = {"comparisons": "historical_index_comparisons", "freight": "historical_freight_rates",
                "imports": "historical_import_volumes"}
 
@@ -92,10 +95,10 @@ def main():
                                         for r in rows[key]) + "\n"
                 stat[f"{key}: vector"] += 1
             else:
-                body = hit.group(3)
-                stat[f"{key}: kept + approximate note"] += 1
-            note = ESTIMATE_NOTES["vector" if src.get(key) == "vector" else "visual"]
-            new = new[:hit.start()] + hit.group(1) + note + "\n\n" + body + new[hit.end():]
+                body = ""
+                stat[f"{key}: eyeballed table -> not-transcribed note"] += 1
+            note = ESTIMATE_NOTES["vector"] if src.get(key) == "vector" else NOT_TRANSCRIBED
+            new = new[:hit.start()] + hit.group(1) + note + ("\n\n" + body if body else "\n") + new[hit.end():]
         if apply and new != md:
             path.write_bytes((new.replace("\n", "\r\n") if crlf else new).encode("utf-8"))
             side = path.with_name(path.name[:-3] + ".tables.json")
