@@ -2,8 +2,8 @@
   "groups": [
     {
       "path": "corpus/01-brokers",
-      "untracked_files": 2931,
-      "untracked_bytes": 2298503353
+      "untracked_files": 2925,
+      "untracked_bytes": 2297404614
     },
     {
       "path": "corpus/02-hellenic",
@@ -12,8 +12,8 @@
     },
     {
       "path": "corpus/03-breakwave",
-      "untracked_files": 9,
-      "untracked_bytes": 2035986
+      "untracked_files": 18,
+      "untracked_bytes": 2338606
     },
     {
       "path": "corpus/04-poten",
@@ -47,21 +47,6 @@
     }
   ],
   "entries": [
-    {
-      "path": "corpus/01-brokers/_digests/ssy/2026/ssy_12_10_2026_ssy_atlantic_capesize_index_12_october_2026.md",
-      "bytes": 3150,
-      "sha256": "91c0f105d33269de91c86e76a2059c063a1fd7e801b1b757a7a01c241b28df26"
-    },
-    {
-      "path": "corpus/01-brokers/_digests/ssy/2026/ssy_12_10_2026_ssy_pacific_capesize_index_12_october_2026.md",
-      "bytes": 3133,
-      "sha256": "8aa00c75ec73b4769a05518881d83b53fddf1d1638afee7e157c2845093a53b2"
-    },
-    {
-      "path": "corpus/01-brokers/_digests/star_asia/2026/star_asia_12_10_2026_star_asia_shipbroking_weekly_market_report_week_41.md",
-      "bytes": 32525,
-      "sha256": "6be68189fde19d6b382cfbf611e1414a62baa11d6da0c3e0b5e43ac700f0dc14"
-    },
     {
       "path": "corpus/01-brokers/advanced_shipping/2021/advanced_shipping_2021_W26_ADVANCED-MARKET-REPORT-WEEK-26.pdf",
       "bytes": 1101849,
@@ -11908,16 +11893,6 @@
       "sha256": "4f307388f563639b482b4c101ae054050a5575a0ca13e7dd1d8e12312277e8b8"
     },
     {
-      "path": "corpus/01-brokers/ssy/2026/ssy_12_10_2026_ssy_atlantic_capesize_index_12_october_2026.pdf",
-      "bytes": 190562,
-      "sha256": "713335ece5f65a1cdec6cbe3bd237553a537ee8f6505c9888394593301460cf8"
-    },
-    {
-      "path": "corpus/01-brokers/ssy/2026/ssy_12_10_2026_ssy_pacific_capesize_index_12_october_2026.pdf",
-      "bytes": 190256,
-      "sha256": "4e2dd48ba84545bedeee11a3e23ca5b2211229f323c164269d3faad4e9de75e2"
-    },
-    {
       "path": "corpus/01-brokers/ssy/2026/ssy_14_09_2026_ssy_atlantic_capesize_index_14_september_2026.pdf",
       "bytes": 189215,
       "sha256": "8f7fdc77497604f10fbcd2b15822671c2d328fb968ee3a1c06d8fc47bb6c89e3"
@@ -13156,11 +13131,6 @@
       "path": "corpus/01-brokers/star_asia/2026/star_asia_05_10_2026_star_asia_shipbroking_weekly_market_report_week_40.pdf",
       "bytes": 674277,
       "sha256": "955868f82571b12bfc798a8943c41c4a7af6e89e5070729676d03907fd2f696f"
-    },
-    {
-      "path": "corpus/01-brokers/star_asia/2026/star_asia_12_10_2026_star_asia_shipbroking_weekly_market_report_week_41.pdf",
-      "bytes": 679113,
-      "sha256": "5fe06a055889d69743d541eb09526e1d0de7bdfa1fec005bac4046cfd4a3d3ba"
     },
     {
       "path": "corpus/01-brokers/star_asia/2026/star_asia_2026_W01_Market-report-Week-1-2.pdf",
@@ -34983,6 +34953,26 @@
       "sha256": "066582db56bbda3fc184d7f0879b3c2f90d81558cb1f1296a1a3ab485ad21f66"
     },
     {
+      "path": "corpus/03-breakwave/insights/2026/2026-10-12_coal-indias-stockpiles-continue-to-decline.html",
+      "bytes": 4305,
+      "sha256": "6d8e8293c8bb7ef7b9a3fdd585f95606cf1a27535f12211ce971e5c28a8f8ffc"
+    },
+    {
+      "path": "corpus/03-breakwave/insights/2026/2026-10-12_coal-indias-stockpiles-continue-to-decline.md",
+      "bytes": 2998,
+      "sha256": "30d5cfcb092201f55f193e7df445af3a69350fe15031458e28428896d24d8c23"
+    },
+    {
+      "path": "corpus/03-breakwave/insights/2026/2026-10-12_damage-control.html",
+      "bytes": 6191,
+      "sha256": "8c51e9ffbbdfc9bcc0620a6b6b8b250360de3067b9e3eacc93f6fffc91e47521"
+    },
+    {
+      "path": "corpus/03-breakwave/insights/2026/2026-10-12_damage-control.md",
+      "bytes": 4925,
+      "sha256": "d06077ae1dd48eb0902441d1f325d932418bb0e7e2fa775ccd04e17f576807d1"
+    },
+    {
       "path": "corpus/03-breakwave/insights/2026/assets/2026-09-21_vlccs-rewrite-the-record-books_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_55d694cfa169.png",
       "bytes": 69365,
       "sha256": "9848c9a3aaba37a9e84f8cd2263fff62c7771135c466216f51114381d1621e5f"
@@ -35026,6 +35016,31 @@
       "path": "corpus/03-breakwave/insights/2026/assets/2026-10-05_running-out-of-room_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_8d22e0173100.png",
       "bytes": 42299,
       "sha256": "a830e87a5263e40fc2f82fafdc9f3102ee9a4edbff2d7ea7e0258d547c5fd776"
+    },
+    {
+      "path": "corpus/03-breakwave/insights/2026/assets/2026-10-12_coal-indias-stockpiles-continue-to-decline_img_chart1_89848183b55e.jpg",
+      "bytes": 76157,
+      "sha256": "7b2aed79fb340ca12921a2f4c8bcfbee25deb805953cb6a3cc83a19823ca9e58"
+    },
+    {
+      "path": "corpus/03-breakwave/insights/2026/assets/2026-10-12_coal-indias-stockpiles-continue-to-decline_img_chart2_ce9b174e4c0d.jpg",
+      "bytes": 92435,
+      "sha256": "0aa022e9fe04a934cea85edecbccba223e69a71f3adf037c6ad58e958e207f1b"
+    },
+    {
+      "path": "corpus/03-breakwave/insights/2026/assets/2026-10-12_coal-indias-stockpiles-continue-to-decline_img_chart3_a022f8874b58.jpg",
+      "bytes": 39092,
+      "sha256": "81bdc05d14c0296fa9a10c5b8a75de0effbd2a85d253153a61f9c4e8fd9b7cc0"
+    },
+    {
+      "path": "corpus/03-breakwave/insights/2026/assets/2026-10-12_damage-control_img_1-tanker-smoke_32eb2229ad66.jpg",
+      "bytes": 40328,
+      "sha256": "d2227f9ca11ff2c26e3580891238c211594890fecb943a76b9b42d5ee6784ff6"
+    },
+    {
+      "path": "corpus/03-breakwave/insights/2026/assets/2026-10-12_damage-control_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_98bdb4f1f7e8.png",
+      "bytes": 36189,
+      "sha256": "6c6eecaca712e98184370a78e925508097f5d0b76560345b3e3c9824cb687cfc"
     },
     {
       "path": "corpus/04-poten/pdfs/2004/Tanker_Opinion_20040102.pdf",

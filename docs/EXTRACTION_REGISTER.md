@@ -29,7 +29,7 @@ This register is the authoritative single source of truth for the end-to-end ext
 
 ---
 
-## 2. Master Stacked Series Inventory (706,385 Total Rows across 167 CSVs + 1 Master Workbook)
+## 2. Master Stacked Series Inventory (706,387 Total Rows across 167 CSVs + 1 Master Workbook)
 
 | Series CSV | Target Metric / Commodity / Segment | Total Stacked Rows | Status |
 | :--- | :--- | :---: | :---: |
@@ -63,7 +63,7 @@ This register is the authoritative single source of truth for the end-to-end ext
 | [best_oasis_exchange_rates_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/best_oasis_exchange_rates_series.csv) |  | 170 | Verified |
 | [best_oasis_market_commentary_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/best_oasis_market_commentary_series.csv) |  | 1,031 | Verified |
 | [breakwave_fundamentals_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/breakwave_fundamentals_series.csv) |  | 2,755 | Verified |
-| [breakwave_insights_metadata.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/breakwave_insights_metadata.csv) |  | 3,216 | Verified |
+| [breakwave_insights_metadata.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/breakwave_insights_metadata.csv) |  | 3,218 | Verified |
 | [carriers_bda_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/carriers_bda_series.csv) | Subcontinent scrap price assessments ($/LDT) | 387 | Verified |
 | [carriers_bspa_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/carriers_bspa_series.csv) | Secondhand 5Y price assessments ($M) with visual sentiment | 779 | Verified |
 | [carriers_demolition_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/carriers_demolition_series.csv) | Demolition reported sales fixtures ($/LDT) | 170 | Verified |
@@ -202,7 +202,7 @@ This register is the authoritative single source of truth for the end-to-end ext
 | [xclusiv_secondhand_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/xclusiv_secondhand_series.csv) | Dry bulk & tanker secondhand price matrix ($M) | 8,561 | Verified |
 | [corpus_publication_cadence_and_audit.xlsx](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/corpus_publication_cadence_and_audit.xlsx) | Master econometric workbook (6 sheets: Overview, Recurring Catalog, Coal Spread, Macro Lead, Vessel Tightness, Shipment Volume Growth) | 305 | Verified |
 | [gibson_master_tanker_series.xlsx](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/gibson_master_tanker_series.xlsx) | Master econometric workbook (6 sheets: Overview, Recurring Catalog, Coal Spread, Macro Lead, Vessel Tightness, Shipment Volume Growth) | 305 | Verified |
-| **TOTAL** | **Master Stacked Repository Footprint (167 CSVs + 1 Master Workbook)** | **706,385** | **100.0% Pass** |
+| **TOTAL** | **Master Stacked Repository Footprint (167 CSVs + 1 Master Workbook)** | **706,387** | **100.0% Pass** |
 
 ---
 
