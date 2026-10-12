@@ -24,4 +24,6 @@ title: "Fearnleys Gas Market Comment - 2019-01-10"
 
 ## Market Commentary
 
-We are likely to see a further drop in the Baltic index, at least until the February acceptances starts coming out and fixing activity increases - read more in the full report.
+We are likely to see a further drop in the Baltic index, at least until the February acceptances
+
+starts coming out and fixing activity increases - read more in the full report.

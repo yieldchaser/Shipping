@@ -24,8 +24,14 @@ title: "Fearnleys LPG Eastern Comment - 2021-08-09"
 
 ## Market Commentary
 
-MEG Another volatile week with swap numbers surging up. At the time of writing, Sep Propane CP was assessed at $679, up by $25 WOW and Butane maintained at $7 cheaper. Sep/Oct CP was traded at flattish level. Qatar Petroleum was reported to award their sale tender for early Sep lifting full propane at discounts to CP, or FEI netback equivalence.
+MEG
 
-**FAR EAST**
+Another volatile week with swap numbers surging up. At the time of writing, Sep Propane CP was assessed at $679, up by $25 WOW and Butane maintained at $7 cheaper. Sep/Oct CP was traded at flattish level. Qatar Petroleum was reported to award their sale tender for early Sep lifting full propane at discounts to CP, or FEI netback equivalence.
 
- A handful of 2h Sep delivered propane parcels were traded this week. However the cash premium inched down to flattish level to FEI, with buyer biding at discounts whilst seller asking low-mid single digit to FEI. Off window a plenty of tenders are floating, mainly for evenly split cargos. India IOC tendered to buy one cargo for Sep delivery, while HPCL issued similar tender to cover demand for Oct delivery. Indonesia PERTAMINA issued two term buy tenders, with one for at least one cargo for monthly delivery in 2022, and the other for at least one US lifting from Jan to June. Taiwan CPC also issued tender to buy a 11/11 parcel for 21-30th Sep delivery. Comparatively, off window inquiries for propane parcels reduced as several PDH have scheduled maintenance during Aug into Sep, partly triggered by the eroding margins. Despite such, one Chinese New Petchem importer, with 900kt/y PDH capacity, issued buy tender to procure two full propane cargo for 2h Sep and 1h Oct delivery into Qingdao respectively.
+FAR EAST
+
+A handful of 2h Sep delivered propane parcels were traded this week. However the cash premium inched down to flattish level to FEI, with buyer biding at discounts whilst seller asking low-mid single digit to FEI.
+
+Off window a plenty of tenders are floating, mainly for evenly split cargos. India IOC tendered to buy one cargo for Sep delivery, while HPCL issued similar tender to cover demand for Oct delivery. Indonesia PERTAMINA issued two term buy tenders, with one for at least one cargo for monthly delivery in 2022, and the other for at least one US lifting from Jan to June. Taiwan CPC also issued tender to buy a 11/11 parcel for 21-30th Sep delivery.
+
+Comparatively, off window inquiries for propane parcels reduced as several PDH have scheduled maintenance during Aug into Sep, partly triggered by the eroding margins. Despite such, one Chinese New Petchem importer, with 900kt/y PDH capacity, issued buy tender to procure two full propane cargo for 2h Sep and 1h Oct delivery into Qingdao respectively.

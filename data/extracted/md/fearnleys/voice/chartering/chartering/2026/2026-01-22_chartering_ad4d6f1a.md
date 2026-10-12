@@ -24,4 +24,10 @@ title: "Fearnleys Period Chartering Comment - 2026-01-22"
 
 ## Market Commentary
 
-EAST It has been an active week in the East, with freight levels spanning nearly USD 25 between the highest and lowest fixtures concluded. The market remains highly date‑dependent, with several late quotes; two end‑Jan quotes ex‑MEG and one ely-Feb quote ex-Yanbu, currently being negotiated and expected to command strong premiums. However, looking into the second decade of February, sentiment appears to be softening as more ships come open and the position list begins to lengthen. WEST The West market is currently in a wait-and-see mode with limited activity to report. We count 29 fixtures for Feb (12/9/8 by decade) but still see about 10-11 ships that can make Feb laycans. Meanwhile, delays at a couple of US terminals appear to be creating hesitation among Charterers. Last done was fixed in the low-mid $130s HCvP, and the general consensus in market is for ideas to start coming off versus levels seen in the last couple of weeks.
+EAST
+
+It has been an active week in the East, with freight levels spanning nearly USD 25 between the highest and lowest fixtures concluded. The market remains highly date‑dependent, with several late quotes; two end‑Jan quotes ex‑MEG and one ely-Feb quote ex-Yanbu, currently being negotiated and expected to command strong premiums. However, looking into the second decade of February, sentiment appears to be softening as more ships come open and the position list begins to lengthen.
+
+WEST
+
+The West market is currently in a wait-and-see mode with limited activity to report. We count 29 fixtures for Feb (12/9/8 by decade) but still see about 10-11 ships that can make Feb laycans. Meanwhile, delays at a couple of US terminals appear to be creating hesitation among Charterers. Last done was fixed in the low-mid $130s HCvP, and the general consensus in market is for ideas to start coming off versus levels seen in the last couple of weeks.

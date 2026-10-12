@@ -24,4 +24,6 @@ title: "Fearnleys Period Chartering Comment - 2019-04-29"
 
 ## Market Commentary
 
-In general, both east and west of Suez has been quiet over the last week. Freight rates are struggling to find their feet and as a result, we are now seeing Baltic quoted sub USD 60 per ton and it is expected a further drop in the short term. Before long, early June fixing ex USG will kick off, however, rates are expected to drop somewhat from last done of USD 100 per ton.
+In general, both east and west of Suez has been quiet over the last week. Freight rates are struggling to find their feet and as a result, we are now seeing Baltic quoted sub USD 60 per ton and it is expected a further drop in the short term.
+
+Before long, early June fixing ex USG will kick off, however, rates are expected to drop somewhat from last done of USD 100 per ton.

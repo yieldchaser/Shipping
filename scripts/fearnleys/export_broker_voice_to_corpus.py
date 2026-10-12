@@ -25,6 +25,7 @@ Features:
 
 import os
 import re
+import sys
 import csv
 import json
 from datetime import datetime
@@ -142,37 +143,25 @@ DESK_MAPPING = {
 }
 
 
+# zero-width joiners and the like that the feed carries inside words ("still ⁠at war")
+INVISIBLE = str.maketrans({c: None for c in "​‌‍⁠﻿"})
+
+
 def clean_text_for_markdown(raw_text: str) -> str:
     """Cleans up text, normalizes characters, and restores clean paragraph breaks."""
     if not raw_text or not isinstance(raw_text, str):
         return ""
 
-    text = raw_text.strip()
-    text = text.replace("\ufffd", " - ")
+    # The feed's own paragraph breaks are the only structure added: region names inside a
+    # sentence ("... trade. Pacific round values ...") are text, never headings.
+    text = raw_text.replace("\r\n", "\n").translate(INVISIBLE).strip()
     text = text.replace("&amp;", "&")
     text = text.replace("&lt;", "<")
     text = text.replace("&gt;", ">")
     text = text.replace("&quot;", '"')
     text = text.replace("&#39;", "'")
-
-    if "\n" in text:
-        paragraphs = [p.strip() for p in text.split("\n") if p.strip()]
-        return "\n\n".join(paragraphs)
-
-    subheaders = [
-        "North Sea", "NSEA", "Baltic", "Med", "Black Sea", "West Africa", "WAFR",
-        "US Gulf", "USG", "Caribs", "MEG", "East of Suez", "Pacific", "Atlantic",
-        "Continent", "Far East", "SPORE", "UKC"
-    ]
-    for sh in subheaders:
-        pattern = re.compile(rf'(?<=[.!?])\s+({re.escape(sh)}\b)', re.IGNORECASE)
-        text = pattern.sub(r'\n\n**\1**\n\n', text)
-        pattern_colon = re.compile(rf'\b({re.escape(sh)}:)', re.IGNORECASE)
-        text = pattern_colon.sub(r'\n\n**\1**', text)
-
-    text = re.sub(r' {2,}', ' ', text)
-    text = re.sub(r'\n{3,}', '\n\n', text)
-    return text.strip()
+    paragraphs = [re.sub(r"[ \t]{2,}", " ", p.strip()) for p in text.split("\n") if p.strip()]
+    return "\n\n".join(paragraphs)
 
 
 def export_comment_to_md(
@@ -181,9 +170,13 @@ def export_comment_to_md(
     comment_type: str,
     comment_subtype: str,
     raw_text: str,
-    overwrite: bool = False
+    overwrite: bool = False,
+    rewrite: bool = False
 ) -> Tuple[Optional[Path], Optional[Path]]:
-    """Formats and writes a single comment to both corpus and data/extracted/md locations."""
+    """Formats and writes a single comment to both corpus and data/extracted/md locations.
+
+    rewrite: re-render and write only the targets that already exist (the corpus mirror holds a
+    subset of the comments); a comment with neither file is written to both, as a new one."""
     if comment_type not in DESK_MAPPING:
         return None, None
 
@@ -248,14 +241,13 @@ title: "Fearnleys {desk_name} Comment - {comment_date[:10]}"
 {body_text}
 """
 
-    corpus_dir.mkdir(parents=True, exist_ok=True)
-    md_dir.mkdir(parents=True, exist_ok=True)
-
-    with open(corpus_file, "w", encoding="utf-8") as f:
-        f.write(md_content)
-
-    with open(extracted_file, "w", encoding="utf-8") as f:
-        f.write(md_content)
+    targets = [corpus_file, extracted_file]
+    if rewrite and any(t.exists() for t in targets):
+        targets = [t for t in targets if t.exists()]
+    for t in targets:
+        t.parent.mkdir(parents=True, exist_ok=True)
+        with open(t, "w", encoding="utf-8") as f:
+            f.write(md_content)
 
     return corpus_file, extracted_file
 
@@ -282,8 +274,10 @@ def save_manifest(ids: set):
         pass
 
 
-def export_all_voice_comments(overwrite: bool = False) -> Dict[str, Any]:
-    """Processes all historical & delta weekly desk comments into structured markdown."""
+def export_all_voice_comments(overwrite: bool = False, rewrite: bool = False) -> Dict[str, Any]:
+    """Processes all historical & delta weekly desk comments into structured markdown.
+
+    rewrite: re-render every comment into the files that exist (see export_comment_to_md)."""
     if not DERIVED_CSV.exists():
         raise FileNotFoundError(f"Missing comments CSV at {DERIVED_CSV}")
 
@@ -317,7 +311,7 @@ def export_all_voice_comments(overwrite: bool = False) -> Dict[str, Any]:
                 desk = meta["desk"]
                 yr = c_date[:4] if len(c_date) >= 4 else "unknown"
 
-                if c_id in manifest and not overwrite:
+                if c_id in manifest and not (overwrite or rewrite):
                     stats["written"] += 1
                     stats["by_sector"][sec] = stats["by_sector"].get(sec, 0) + 1
                     stats["by_desk"][desk] = stats["by_desk"].get(desk, 0) + 1
@@ -330,7 +324,8 @@ def export_all_voice_comments(overwrite: bool = False) -> Dict[str, Any]:
                     comment_type=c_type,
                     comment_subtype=c_subtype,
                     raw_text=c_text,
-                    overwrite=overwrite
+                    overwrite=overwrite or rewrite,
+                    rewrite=rewrite
                 )
                 if c_out and md_out:
                     stats["written"] += 1
@@ -350,7 +345,7 @@ def main():
     print("=" * 80)
     print("EXPORTING FEARNLEYS BROKER VOICE DESK COMMENTS ACROSS ALL SECTORS & ERAS")
     print("=" * 80)
-    stats = export_all_voice_comments(overwrite=False)
+    stats = export_all_voice_comments(overwrite=False, rewrite="--rewrite" in sys.argv)
     print(f"Total rows read: {stats['total_read']}")
     print(f"Comments matched: {stats['matched_comments']}")
     print(f"Files written/verified in corpus & md: {stats['written']}")

@@ -24,4 +24,6 @@ title: "Fearnleys LPG Western Comment - 2019-08-05"
 
 ## Market Commentary
 
-AMERICAS: The US market showed weakness after a larger than expected build of 2.8 million barrels. We are now nearly 17 million barrels over last year’s inventory level. This combined with the weakness in crude has made US NGLs weaker. The bearishness in US NGLs has been mirrored by delivered East and West markets. Which carried heavy physical discounts even before the inventory stats were released and larger discounts have been heard since. The effect of this has not yet been reflected in terminalling fees due to quiet FOB discussions. There is skepticism in buying FOBs with so much product in the market. Traders see the potential downside outweighing the potential upside at the moment for spot market trades.
+AMERICAS:
+
+The US market showed weakness after a larger than expected build of 2.8 million barrels. We are now nearly 17 million barrels over last year’s inventory level. This combined with the weakness in crude has made US NGLs weaker. The bearishness in US NGLs has been mirrored by delivered East and West markets. Which carried heavy physical discounts even before the inventory stats were released and larger discounts have been heard since. The effect of this has not yet been reflected in terminalling fees due to quiet FOB discussions. There is skepticism in buying FOBs with so much product in the market. Traders see the potential downside outweighing the potential upside at the moment for spot market trades.

@@ -24,4 +24,10 @@ title: "Fearnleys Period Chartering Comment - 2025-02-14"
 
 ## Market Commentary
 
-EAST Spot tonnage remains relatively heavy from 2H Feb onwards, outpacing the volume of fresh cargoes in the East. This oversupply is likely to roll over into the March fixing window. Last done at 47 RT/C earlier this week. WEST Despite a fair level of fixing activity in the West, freight rates continue to face upward resistance. With last done at 91 H/C via Pan. So far, we count 21 spot fixtures for March dates ex USG —10 in the first decade, 9 in the second, and 2 in the last. Moving forward, fixing activity is expected to shift towards 2nd and 3rd decade Mar dates.
+EAST
+
+Spot tonnage remains relatively heavy from 2H Feb onwards, outpacing the volume of fresh cargoes in the East. This oversupply is likely to roll over into the March fixing window. Last done at 47 RT/C earlier this week.
+
+WEST
+
+Despite a fair level of fixing activity in the West, freight rates continue to face upward resistance. With last done at 91 H/C via Pan. So far, we count 21 spot fixtures for March dates ex USG —10 in the first decade, 9 in the second, and 2 in the last. Moving forward, fixing activity is expected to shift towards 2nd and 3rd decade Mar dates.

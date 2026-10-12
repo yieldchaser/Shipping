@@ -24,4 +24,10 @@ title: "Fearnleys Period Chartering Comment - 2023-01-09"
 
 ## Market Commentary
 
-EAST February fixing in the Middle East is underway and we have seen 4 deals concluded, 2 in end Jan and 2 in early Feb, so far this week all done above 80 RT/C. There is also a firm cargo from an Indian major and a tender in play. We anticipate more activity to come as we are still waiting for the Aramco acceptances. The overall export volumes from the Middle East in February are however expected to be down due to planned maintenances in the region, but it remains to see how this will affect shipping market. WEST Since the beginning of last week until today we have seen approximately 30 spot fixtures concluded in the West. At the time of writing we count 27 spot fixtures (15 ely, 6 mid, 6 end) in February out of the USG. There should still be room for more fixing in the second half of Feb as only 8 out of 27 spot deals have been done this period and there are currently some uncovered cargoes out there. Looking at the position list for the rest of February we see 4 vessels left for mid month dates and 4 in the end. Last done fixture concluded at mid/high 120s H/C.
+EAST
+
+February fixing in the Middle East is underway and we have seen 4 deals concluded, 2 in end Jan and 2 in early Feb, so far this week all done above 80 RT/C. There is also a firm cargo from an Indian major and a tender in play. We anticipate more activity to come as we are still waiting for the Aramco acceptances. The overall export volumes from the Middle East in February are however expected to be down due to planned maintenances in the region, but it remains to see how this will affect shipping market.
+
+WEST
+
+Since the beginning of last week until today we have seen approximately 30 spot fixtures concluded in the West. At the time of writing we count 27 spot fixtures (15 ely, 6 mid, 6 end) in February out of the USG. There should still be room for more fixing in the second half of Feb as only 8 out of 27 spot deals have been done this period and there are currently some uncovered cargoes out there. Looking at the position list for the rest of February we see 4 vessels left for mid month dates and 4 in the end. Last done fixture concluded at mid/high 120s H/C.

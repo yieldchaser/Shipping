@@ -24,4 +24,8 @@ title: "Fearnleys Period Chartering Comment - 2019-02-26"
 
 ## Market Commentary
 
-The East shipping market has taken a breather after lots of activity recently. There are a couple of outstanding freight tenders from the MEG in March, but otherwise not much else to report. Indian Charterers are also expected to come out in the market for a few 2H March requirements later this week. Owners ideas are currently starting with a $3 bss baltic, but there is also some available shipping length from traders that will add pressure to rates. West of Suez has been very quiet also this week. Mainly because most market players has been in London for the IP week. Shipping availability for US loadings both in 2H March and 1H April currently looks slightly long and most therefore expect the West freight rates to come off slightly.
+The East shipping market has taken a breather after lots of activity recently. There are a couple of outstanding freight tenders from the MEG in March, but otherwise not much else to report. Indian Charterers are also expected to come out in the market for a few 2H March requirements later this week.
+
+Owners ideas are currently starting with a $3 bss baltic, but there is also some available shipping length from traders that will add pressure to rates.
+
+West of Suez has been very quiet also this week. Mainly because most market players has been in London for the IP week. Shipping availability for US loadings both in 2H March and 1H April currently looks slightly long and most therefore expect the West freight rates to come off slightly.

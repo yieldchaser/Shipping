@@ -24,4 +24,10 @@ title: "Fearnleys Period Chartering Comment - 2025-02-27"
 
 ## Market Commentary
 
-EAST March spot fixing count in the Middle East is already on par with average count for the first two months of the year. However, the positions list for second half March is still looking plentiful. Owners are hoping for a steady flow of spot cargos in the second half of March in order to maintain current freight levels. Delays in India cannot carry the market on its own – but it may help keep a floor on freight. WEST The week started off pretty slow with much of the industry gathered in London for IE Week. The market has since picked up pace with several deals done and April fixing is well underway. In total we count 30 spot fixtures in March and 6 in April ex USG/USEC. On the position list we still find 5 open position able to work March dates before we shift all focus towards April. Last done at low 90s H/C and mid/high 40s H/F.
+EAST
+
+March spot fixing count in the Middle East is already on par with average count for the first two months of the year. However, the positions list for second half March is still looking plentiful. Owners are hoping for a steady flow of spot cargos in the second half of March in order to maintain current freight levels. Delays in India cannot carry the market on its own – but it may help keep a floor on freight.
+
+WEST
+
+The week started off pretty slow with much of the industry gathered in London for IE Week. The market has since picked up pace with several deals done and April fixing is well underway. In total we count 30 spot fixtures in March and 6 in April ex USG/USEC. On the position list we still find 5 open position able to work March dates before we shift all focus towards April. Last done at low 90s H/C and mid/high 40s H/F.

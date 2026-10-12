@@ -24,8 +24,4 @@ title: "Fearnleys Capesize Comment - 2024-06-19"
 
 ## Market Commentary
 
-On the West Australia front, we see a tick drop in enquiries from operators while those of miners and tenders have held up for first half of July dates. East Australia coal volumes have held up as well while enquiries for other parts of the Pacific remain relatively flat. On C3 ex Brazil to China and West Africa, we see enquiries for full July dates.
-
-**Far East**
-
- spot tonnage is increasingly abundant while ballasting volume is relatively healthy for first half of July dates. On C5, we see fixtures concluding at mid USD 10 pmt levels at mid-week. On C3, we see a stronger sentiment compared to last week with fixtures concluding at low to mid USD 26 pmt levels for the first half of July.
+On the West Australia front, we see a tick drop in enquiries from operators while those of miners and tenders have held up for first half of July dates. East Australia coal volumes have held up as well while enquiries for other parts of the Pacific remain relatively flat. On C3 ex Brazil to China and West Africa, we see enquiries for full July dates. Far East spot tonnage is increasingly abundant while ballasting volume is relatively healthy for first half of July dates. On C5, we see fixtures concluding at mid USD 10 pmt levels at mid-week. On C3, we see a stronger sentiment compared to last week with fixtures concluding at low to mid USD 26 pmt levels for the first half of July.

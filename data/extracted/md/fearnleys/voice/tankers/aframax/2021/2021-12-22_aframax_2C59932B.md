@@ -24,4 +24,6 @@ title: "Fearnleys Aframax Comment - 2021-12-22"
 
 ## Market Commentary
 
-The Nsea/Baltic market has remained steady this week on the back of healthy activity and ice conditions inside Baltic. Winter market has officially started with Charterers securing ice tonnage on a premium and non-ice vessels still making decent earnings for cross-continent voyages. Moving into the last week of the year, rates will likely move sideways with no big surprises. In the Med/Bsea we have seen the market trade sideways all week. Charterers have continued to fix forward, and the uncertain situation in Libya combined with a tight tonnage list has allowed Owners to show enough resistance to maintain current rate levels. We expect the market to remain flat with a soft potential for the balance of the Christmas week.
+The Nsea/Baltic market has remained steady this week on the back of healthy activity and ice conditions inside Baltic. Winter market has officially started with Charterers securing ice tonnage on a premium and non-ice vessels still making decent earnings for cross-continent voyages. Moving into the last week of the year, rates will likely move sideways with no big surprises.
+
+In the Med/Bsea we have seen the market trade sideways all week. Charterers have continued to fix forward, and the uncertain situation in Libya combined with a tight tonnage list has allowed Owners to show enough resistance to maintain current rate levels. We expect the market to remain flat with a soft potential for the balance of the Christmas week.

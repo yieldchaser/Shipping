@@ -24,4 +24,10 @@ title: "Fearnleys Period Chartering Comment - 2024-04-18"
 
 ## Market Commentary
 
-EAST Saudi Aramco released their acceptances for next month on Tuesday and as a result we saw a few more first half May cargoes hit the Middle East market. First decade spot count in May now stands at seven which makes it look like we soon will shift focus into the second decade of the month. Although we could see a couple of more cargos within the first 10 days of May – the vessel count in the same period surely puts a lid on any potential upside. WEST A recent uptick in activity have resulted in a slight increase in western freight rates and almost all the positions left in 1H May USG are now programmed. With latest sub fixtures we currently count 24 spot fixtures for May USG/USEC. The vessel supply looks balanced in the second half of May, with the last deals concluded around the mid 120s H/C.
+EAST
+
+Saudi Aramco released their acceptances for next month on Tuesday and as a result we saw a few more first half May cargoes hit the Middle East market. First decade spot count in May now stands at seven which makes it look like we soon will shift focus into the second decade of the month. Although we could see a couple of more cargos within the first 10 days of May – the vessel count in the same period surely puts a lid on any potential upside.
+
+WEST
+
+A recent uptick in activity have resulted in a slight increase in western freight rates and almost all the positions left in 1H May USG are now programmed. With latest sub fixtures we currently count 24 spot fixtures for May USG/USEC. The vessel supply looks balanced in the second half of May, with the last deals concluded around the mid 120s H/C.

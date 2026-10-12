@@ -24,4 +24,12 @@ title: "Fearnleys Period Chartering Comment - 2021-03-08"
 
 ## Market Commentary
 
-EAST The sentiment on freight seems about to turn in the East on the back of more requirements in the market, and subsequently less ships being available on prompt basis like before. March fixing in the AG is pretty much done, and a handful of players have already started working freight for April loading. The Adnoc acceptances were published earlier this week, and the only pending acceptances for April, being Aramco, is expected from early next week. WEST A long-awaited activity increase has finally resurfaced in the West VLGC market, albeit the majority of vessels fixed this week were off first half April dates rather than that of March. Several vessels have been fixed at rates hovering OPEX and there are still some uncovered cargoes left for both end March and the first half of April, however, it seems inevitable that we will see a handful of vessel-overhang as March enquiries wipe out and all eyes turn to April. In other news, this week following a newbuilding order at the end of last year, one of the largest VLGC owners in the market has declared options for three more VLGCs for delivery in 2023. That is bringing the total order book up to 44 vessels.
+EAST
+
+The sentiment on freight seems about to turn in the East on the back of more requirements in the market, and subsequently less ships being available on prompt basis like before. March fixing in the AG is pretty much done, and a handful of players have already started working freight for April loading. The Adnoc acceptances were published earlier this week, and the only pending acceptances for April, being Aramco, is expected from early next week.
+
+WEST
+
+A long-awaited activity increase has finally resurfaced in the West VLGC market, albeit the majority of vessels fixed this week were off first half April dates rather than that of March. Several vessels have been fixed at rates hovering OPEX and there are still some uncovered cargoes left for both end March and the first half of April, however, it seems inevitable that we will see a handful of vessel-overhang as March enquiries wipe out and all eyes turn to April.
+
+In other news, this week following a newbuilding order at the end of last year, one of the largest VLGC owners in the market has declared options for three more VLGCs for delivery in 2023. That is bringing the total order book up to 44 vessels.

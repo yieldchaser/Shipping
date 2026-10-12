@@ -24,8 +24,4 @@ title: "Fearnleys Suezmax Comment - 2021-02-15"
 
 ## Market Commentary
 
-The Suezmax market in the West is still looking interesting.
-
-**North Sea**
-
-, Mediterranean/Black Sea and USG market are all looking tight-ish, making charterers in West Africa focusing mainly on eastern ballasters. This has put pressure on the West Africa market, and owners are doing their best to push rates further. We are hovering around high 50's, but with an upward potential towards the end of the week. In the East, we have had decent activity the last week. Tonnage-wise the MEG-market is well covered, but with many owners looking towards West Africa on their ships, the actual list in the East is rather balanced. One of the main factors for all markets right now, is the increasing bunker prices. There are very few ships left with cheap bunkers, and this alone will help push rates further.
+The Suezmax market in the West is still looking interesting. North Sea, Mediterranean/Black Sea and USG market are all looking tight-ish, making charterers in West Africa focusing mainly on eastern ballasters. This has put pressure on the West Africa market, and owners are doing their best to push rates further. We are hovering around high 50's, but with an upward potential towards the end of the week. In the East, we have had decent activity the last week. Tonnage-wise the MEG-market is well covered, but with many owners looking towards West Africa on their ships, the actual list in the East is rather balanced. One of the main factors for all markets right now, is the increasing bunker prices. There are very few ships left with cheap bunkers, and this alone will help push rates further.

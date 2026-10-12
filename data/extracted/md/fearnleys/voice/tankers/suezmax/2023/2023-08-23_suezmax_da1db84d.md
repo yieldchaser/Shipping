@@ -24,4 +24,6 @@ title: "Fearnleys Suezmax Comment - 2023-08-23"
 
 ## Market Commentary
 
-The wider Atlantic market is exhibiting subtle signs of what is to come this winter. Owners have defied the lists and managed to push up rates with ease in West Africa as TD20 jumped 10 points in less than a week, with that run now trading comfortably at WS 75 and no downside. Across the pond, steady enquiry has trimmed the early side of the list with the USG susceptible to further gains. In the East, there has been very little surface activity with all routes requiring a proper test.
+The wider Atlantic market is exhibiting subtle signs of what is to come this winter. Owners have defied the lists and managed to push up rates with ease in West Africa as TD20 jumped 10 points in less than a week, with that run now trading comfortably at WS 75 and no downside. Across the pond, steady enquiry has trimmed the early side of the list with the USG susceptible to further gains.
+
+In the East, there has been very little surface activity with all routes requiring a proper test.

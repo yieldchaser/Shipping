@@ -24,4 +24,6 @@ title: "Fearnleys LPG Western Comment - 2019-07-25"
 
 ## Market Commentary
 
-AMERCIAS A 1.6 million barrel build has done what it can to help a US-FEI arb. Traders feel that US product inventories will approach 1 hundred million barrels before the start of the demand season . Terminal expansion discussions continue to ramp up, but in the current market the terminalling fee discussions are edging towards cancellation levels. This may or may not be affecting the speed of potential export growth which looks to have slowed. Product traders are looking at FOB opportunities, and unless they have their own freight , the arb does not make sense. Traders are hoping for an imminent freight decline to make arb cargo trades workable.
+AMERCIAS
+
+A 1.6 million barrel build has done what it can to help a US-FEI arb. Traders feel that US product inventories will approach 1 hundred million barrels before the start of the demand season . Terminal expansion discussions continue to ramp up, but in the current market the terminalling fee discussions are edging towards cancellation levels. This may or may not be affecting the speed of potential export growth which looks to have slowed. Product traders are looking at FOB opportunities, and unless they have their own freight , the arb does not make sense. Traders are hoping for an imminent freight decline to make arb cargo trades workable.

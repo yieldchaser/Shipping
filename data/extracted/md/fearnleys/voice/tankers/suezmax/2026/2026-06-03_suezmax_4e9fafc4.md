@@ -24,8 +24,4 @@ title: "Fearnleys Suezmax Comment - 2026-06-03"
 
 ## Market Commentary
 
-High off market activity pruned lists, primarily characterised by Mediterranean/West Africa fixtures whilst the US still fails to pull its weight. Charterers eagerness for simple deals pre/during-Posidonia and with the easy excuse last Friday of the "risk" of a resolution in the Middle East spiking sentiment lead to high activity countering weak supply fundamentals and stagnating rates. CPC enquiry is working but plenty of ships are keen to cover it, some pointing towards Canakkale on spec.
-
-**West Africa**
-
- is fixed into the 3rd decade with over 10 natural & pushed FOC vessels despite high erosion. Charterers can now sit and enjoy the remainder of their Athens escapades and let availabilities rebuild.
+High off market activity pruned lists, primarily characterised by Mediterranean/West Africa fixtures whilst the US still fails to pull its weight. Charterers eagerness for simple deals pre/during-Posidonia and with the easy excuse last Friday of the "risk" of a resolution in the Middle East spiking sentiment lead to high activity countering weak supply fundamentals and stagnating rates. CPC enquiry is working but plenty of ships are keen to cover it, some pointing towards Canakkale on spec. West Africa is fixed into the 3rd decade with over 10 natural & pushed FOC vessels despite high erosion. Charterers can now sit and enjoy the remainder of their Athens escapades and let availabilities rebuild.

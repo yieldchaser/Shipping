@@ -24,12 +24,4 @@ title: "Fearnleys Suezmax Comment - 2022-08-15"
 
 ## Market Commentary
 
-All eyes on VLCCs in the East which are nearing crossover levels with Suezmax.
-
-**MEG**
-
-/East has been a desert for Suezmaxes during the last six months, but potential splits could impact markets not only in the East, but also the Atlantic. The new Atlantic market has grown used to an abundance of ships coming round the corner from the East, but Td3c splits could drastically reduce availability and increase the likelihood of further volatility in all regions.
-
-**MEG**
-
-/China on modern today will trade min WS 130's whilst Td23 will likely firm up again into the high WS 70's. Owners in the Atlantic will be keeping a keen eye on the East which will ensure a firm outlook to proceedings. It's not going down and it could quite easily take another jump north.
+All eyes on VLCCs in the East which are nearing crossover levels with Suezmax. MEG/East has been a desert for Suezmaxes during the last six months, but potential splits could impact markets not only in the East, but also the Atlantic. The new Atlantic market has grown used to an abundance of ships coming round the corner from the East, but Td3c splits could drastically reduce availability and increase the likelihood of further volatility in all regions. MEG/China on modern today will trade min WS 130's whilst Td23 will likely firm up again into the high WS 70's. Owners in the Atlantic will be keeping a keen eye on the East which will ensure a firm outlook to proceedings. It's not going down and it could quite easily take another jump north.

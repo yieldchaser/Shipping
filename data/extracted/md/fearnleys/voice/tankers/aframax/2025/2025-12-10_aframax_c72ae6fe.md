@@ -24,4 +24,10 @@ title: "Fearnleys Aframax Comment - 2025-12-10"
 
 ## Market Commentary
 
-North Sea Some activity and programming has covered almost all the 2nd decade stems with rates remaining on the whole steady. For the right cargo a softer feel but downside limited so far. With Vessels continuing to Ballast both TA and to the Med the available tonnage has remained balanced and helped maintain rates. Mediterranean Very busy week in the Mediterranean/Black Sea with some 3rd-decade local cargoes worked too but rates still hoovering around last done levels. Activity should remain healthy heading into next week and owners will have the chance to push unless they are already in Christmas holiday mood.
+North Sea
+
+Some activity and programming has covered almost all the 2nd decade stems with rates remaining on the whole steady. For the right cargo a softer feel but downside limited so far. With Vessels continuing to Ballast both TA and to the Med the available tonnage has remained balanced and helped maintain rates.
+
+Mediterranean
+
+Very busy week in the Mediterranean/Black Sea with some 3rd-decade local cargoes worked too but rates still hoovering around last done levels. Activity should remain healthy heading into next week and owners will have the chance to push unless they are already in Christmas holiday mood.

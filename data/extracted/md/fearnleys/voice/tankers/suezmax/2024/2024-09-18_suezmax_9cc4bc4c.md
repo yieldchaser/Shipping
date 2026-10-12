@@ -24,4 +24,8 @@ title: "Fearnleys Suezmax Comment - 2024-09-18"
 
 ## Market Commentary
 
-The October fixing window tends to act as a bellwether for the ensuing Winter market, and whilst it's too early to talk fireworks today, there are very few areas of weakness and definitely areas that are beginning to exhibit all the hallmarks of an exciting market. The US Gulf remains the trend setter for all markets, and whilst Aframaxes remain flat, there are signs of life on Suezmax with rates gently firming and on the cusp of hitting 145kt x WS 70 (although at the time of going to press last done trades WS 67.5.) In the East, there's a rumor of 130kt x WS 115 on subjects for MEG/East which suggests that owners have the bit between their teeth.
+The October fixing window tends to act as a bellwether for the ensuing Winter market, and whilst it's too early to talk fireworks today, there are very few areas of weakness and definitely areas that are beginning to exhibit all the hallmarks of an exciting market.
+
+The US Gulf remains the trend setter for all markets, and whilst Aframaxes remain flat, there are signs of life on Suezmax with rates gently firming and on the cusp of hitting 145kt x WS 70 (although at the time of going to press last done trades WS 67.5.)
+
+In the East, there's a rumor of 130kt x WS 115 on subjects for MEG/East which suggests that owners have the bit between their teeth.

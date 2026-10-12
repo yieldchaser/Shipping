@@ -6,112 +6,31 @@ report_week: 1
 publisher: "Fearnleys"
 source_file: "corpus/01-brokers/fearnleys/2026/fearnleys_2026_W01_Fearnleys-Weekly-Report-_-Fearnpulse.pdf"
 ---
-# fearnleys_2026_W01_Fearnleys-Weekly-Report-_-Fearnpulse
+
+# Fearnleys Weekly Report - Week 1, 2026
+
+**Week 1 - December 31, 2025**
 
 source: `corpus/01-brokers/fearnleys/2026/fearnleys_2026_W01_Fearnleys-Weekly-Report-_-Fearnpulse.pdf`  |  pages: 19
 
-<!-- page 1 -->
+## 01 Tankers
 
-Fearnleys
-Weekly Report
-Week 1 - December 31, 2025 info@hellenicshippingnews.com 01
-## Tankers
-## VLCC
-## Suezmax
+### VLCC
+
 Resulting from a populated list and a number of oil co. relets, the market is at half the earnings it was at about a week or so ago. Lack of activity in West Africa and USG has not helped the cause. We should be close to the bottom if not at the bottom.
-5/1/26, 11:29 π.μ.
 
-<!-- page 2 -->
+## 02 Dry Bulk
 
-## Aframax
-## Rates
-5/1/26, 11:29 π.μ.
+## 03 Gas
 
-<!-- page 3 -->
+## 04 Newbuilding
 
-5/1/26, 11:29 π.μ.
+## 05 Sale & Purchase
 
-<!-- page 4 -->
+## 06 Market Brief
 
-1 Year T/C Crude 5/1/26, 11:29 π.μ.
+> Rate, price and activity cards of this chapter are not reproduced: Fearnleys rates and prices come from the Fearnpulse API series.
 
-<!-- page 5 -->
+## Disclaimer
 
-02
-## Dry Bulk
-## Capesize
-## Panamax
-5/1/26, 11:29 π.μ.
-
-<!-- page 6 -->
-
-## Supramax
-## Rates
-5/1/26, 11:29 π.μ.
-
-<!-- page 7 -->
-
-5/1/26, 11:29 π.μ.
-
-<!-- page 8 -->
-
-5/1/26, 11:29 π.μ.
-
-<!-- page 9 -->
-
-1 Year T/C Dry Bulk 03 5/1/26, 11:29 π.μ.
-
-<!-- page 10 -->
-
-03
-## Gas
-Chartering
-LPG Rates 5/1/26, 11:29 π.μ.
-
-<!-- page 11 -->
-
-5/1/26, 11:29 π.μ.
-
-<!-- page 12 -->
-
-LNG Rates 5/1/26, 11:29 π.μ.
-
-<!-- page 13 -->
-
-04
-Newbuilding
-Activity Levels 5/1/26, 11:29 π.μ.
-
-<!-- page 14 -->
-
-Prices 5/1/26, 11:29 π.μ.
-
-<!-- page 15 -->
-
-05
-Sale & Purchase
-Prices 5/1/26, 11:29 π.μ.
-
-<!-- page 16 -->
-
-06
-Market Brief
-Exchange Rates 5/1/26, 11:29 π.μ.
-
-<!-- page 17 -->
-
-Interest Rates
-Commodity Prices
-Bunker Prices 5/1/26, 11:29 π.μ.
-
-<!-- page 18 -->
-
-Week 1 - December 31, 2025
-All rates published in this report do not necessarily reflect actual transactions occurring in the market.
-Certain estimates may be based on prevailing market conditions. In some circumstances, rates for certain 5/1/26, 11:29 π.μ.
-
-<!-- page 19 -->
-
-vessel types are based on theoretical assumptions of premium or discount for particular vessel versus other vessel types.'
-Disclaimer
-An Astrup Fearnley Company © 2026 Fearnleys AS 5/1/26, 11:29 π.μ.
+All rates published in this report do not necessarily reflect actual transactions occurring in the market. Certain estimates may be based on prevailing market conditions. In some circumstances, rates for certain

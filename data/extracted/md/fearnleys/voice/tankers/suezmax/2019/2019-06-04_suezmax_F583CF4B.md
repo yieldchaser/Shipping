@@ -24,8 +24,4 @@ title: "Fearnleys Suezmax Comment - 2019-06-04"
 
 ## Market Commentary
 
-Suezmaxes have seen a good level of activity over the last week. The tonnage overhang on early dates have started to clear up and rates are on the move as such.
-
-**East of Suez**
-
- rates are still soft as handicapped tonnage are fighting for employment, keeping rates at last done levels with little prospect of any swift recovery.
+Suezmaxes have seen a good level of activity over the last week. The tonnage overhang on early dates have started to clear up and rates are on the move as such. East of Suez rates are still soft as handicapped tonnage are fighting for employment, keeping rates at last done levels with little prospect of any swift recovery.

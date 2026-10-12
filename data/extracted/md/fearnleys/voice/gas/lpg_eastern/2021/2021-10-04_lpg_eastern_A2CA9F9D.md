@@ -24,8 +24,14 @@ title: "Fearnleys LPG Eastern Comment - 2021-10-04"
 
 ## Market Commentary
 
-MEG Nov Propane CP price hiked above $870 and fell to $825 amid the volatility in oil market, while Butane CP was assessed at $30-35 less. However, Nov/Dec CP was traded at $5 contango. Saudi Aramco was reported to have a few spot cargos from mid to late Oct loading available, however yet to hear any FOB sales materialized over this week.
+MEG
 
-**FAR EAST**
+Nov Propane CP price hiked above $870 and fell to $825 amid the volatility in oil market, while Butane CP was assessed at $30-35 less. However, Nov/Dec CP was traded at $5 contango.
 
- Despite the muted spot discussions due to holidays this week, a handful of deals were concluded. Two 46kt propane cargos for 1h Nov delivery basis Ningbo and Yantai were reported done at Nov FEI minus low teens. At the same time, 23kt parcel for same period delivery basis Chiba was changed hand at Nov FEI minus low-mid teens range. On Thursday offer discounts for half cargo parcel dipped down to minus 13.5 but yet to trigger interests. Apart from such, two EChina petchem players were said to inquire privately to secure propane feedstock for next year delivery.
+Saudi Aramco was reported to have a few spot cargos from mid to late Oct loading available, however yet to hear any FOB sales materialized over this week.
+
+FAR EAST
+
+Despite the muted spot discussions due to holidays this week, a handful of deals were concluded. Two 46kt propane cargos for 1h Nov delivery basis Ningbo and Yantai were reported done at Nov FEI minus low teens. At the same time, 23kt parcel for same period delivery basis Chiba was changed hand at Nov FEI minus low-mid teens range. On Thursday offer discounts for half cargo parcel dipped down to minus 13.5 but yet to trigger interests.
+
+Apart from such, two EChina petchem players were said to inquire privately to secure propane feedstock for next year delivery.

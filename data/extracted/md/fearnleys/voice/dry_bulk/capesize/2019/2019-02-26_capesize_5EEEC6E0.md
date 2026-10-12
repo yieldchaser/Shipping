@@ -24,4 +24,6 @@ title: "Fearnleys Capesize Comment - 2019-02-26"
 
 ## Market Commentary
 
-The market was on the way up at the end of last week, but to start this week there has been further weakness. There is a lot of period tonnage trying to find a home, and with a lack of spot cargoes this has pushed down the market and FFAs further. However, we are still optimistic in the near term as seasonal factors should kick in soon and support the market.
+The market was on the way up at the end of last week, but to start this week there has been further weakness. There is a lot of period tonnage trying to find a home, and with a lack of spot cargoes this has pushed down the market and FFAs further.
+
+However, we are still optimistic in the near term as seasonal factors should kick in soon and support the market.

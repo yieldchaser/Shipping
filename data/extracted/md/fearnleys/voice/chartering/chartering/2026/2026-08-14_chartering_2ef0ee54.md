@@ -24,4 +24,10 @@ title: "Fearnleys Period Chartering Comment - 2026-08-14"
 
 ## Market Commentary
 
-WEST Activity has picked up compared to last week, with several fixtures reported after a quieter run. The near-term list remains tight and heavily relet-dependent, with positions stacking up as follows: 2 ships last decade August, 1 first decade September, 6 second decade September, and 8 last decade September. Freight is sitting around USD 280pmt, underpinned by recent fixing levels. Adding to the pressure on owners weighing routing options, this week's Panama Canal northbound slot auction cleared at a record USD 4m, making the Cape an increasingly attractive routing. EAST East of Suez, activity remained thin, with just one fixture reported, an STS Vadinar deal concluded at USD 170pmt RT/C equivalent. With so little else crossing the tape this week, it's hard to draw much of a broader trend from a single fixture.
+WEST
+
+Activity has picked up compared to last week, with several fixtures reported after a quieter run. The near-term list remains tight and heavily relet-dependent, with positions stacking up as follows: 2 ships last decade August, 1 first decade September, 6 second decade September, and 8 last decade September. Freight is sitting around USD 280pmt, underpinned by recent fixing levels. Adding to the pressure on owners weighing routing options, this week's Panama Canal northbound slot auction cleared at a record USD 4m, making the Cape an increasingly attractive routing.
+
+EAST
+
+East of Suez, activity remained thin, with just one fixture reported, an STS Vadinar deal concluded at USD 170pmt RT/C equivalent. With so little else crossing the tape this week, it's hard to draw much of a broader trend from a single fixture.

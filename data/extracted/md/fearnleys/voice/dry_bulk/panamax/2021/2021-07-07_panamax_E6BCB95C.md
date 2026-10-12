@@ -24,4 +24,6 @@ title: "Fearnleys Panamax Comment - 2021-07-07"
 
 ## Market Commentary
 
-A negative week on both physical and FFA is behind us. Whereas the paper has turned up again, the physical market is still lagging. The Atlantic basin has a relatively balanced order/tonnage book now whereas we see lack of fresh inquiries in pacific and sign of increasing tonnage list there. As the rates on FFAs go back up we see owners trying to fix period out, but charterers are cautious and seek further confirmation that market has definitely turned
+A negative week on both physical and FFA is behind us. Whereas the paper has turned up again, the physical market is still lagging.
+
+The Atlantic basin has a relatively balanced order/tonnage book now whereas we see lack of fresh inquiries in pacific and sign of increasing tonnage list there. As the rates on FFAs go back up we see owners trying to fix period out, but charterers are cautious and seek further confirmation that market has definitely turned

@@ -24,4 +24,10 @@ title: "Fearnleys Period Chartering Comment - 2023-07-28"
 
 ## Market Commentary
 
-EAST As expected freight is continuing its descent and last done in the East have now dropped below the $100 mark. Currently we are counting 15 spot fixtures on August dates and the positions list is still looking relatively long. Thus, we would need to see quite some healthy spot cargo volumes to maintain freight at current levels. WEST Compared to last week, this week has been fairly active with a good amount of spot fixtures both in the East and in the West. August fixing in the West looks to soon be finished seeing only a couple open candidates left in the very end of the month. September fixing ex USG/USEC is well underway and we have already registered a fixture in the beginning of the second decade which was done at mid-low 170s H/C. Vessel supply for the first half of September looks relatively balanced to tight and the arb is still widening.
+EAST
+
+As expected freight is continuing its descent and last done in the East have now dropped below the $100 mark. Currently we are counting 15 spot fixtures on August dates and the positions list is still looking relatively long. Thus, we would need to see quite some healthy spot cargo volumes to maintain freight at current levels.
+
+WEST
+
+Compared to last week, this week has been fairly active with a good amount of spot fixtures both in the East and in the West. August fixing in the West looks to soon be finished seeing only a couple open candidates left in the very end of the month. September fixing ex USG/USEC is well underway and we have already registered a fixture in the beginning of the second decade which was done at mid-low 170s H/C. Vessel supply for the first half of September looks relatively balanced to tight and the arb is still widening.

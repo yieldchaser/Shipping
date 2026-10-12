@@ -24,8 +24,8 @@ title: "Fearnleys Supramax Comment - 2021-06-16"
 
 ## Market Commentary
 
-Supramax Index pushing close to USD 29,000 with everyday gains of a few hundred dollars up. The Atlantic basin is stronger compared to Pacific, which is driven by the strong ECSA and USG soybean and corn export season. The Med and Continent markets with the same upward trend as other Atlantic areas. Stronger demand in the Persian Gulf and India continues. Overall rates are strong.
+Supramax Index pushing close to USD 29,000 with everyday gains of a few hundred dollars up. The Atlantic basin is stronger compared to Pacific, which is driven by the strong ECSA and USG soybean and corn export season. The Med and Continent markets with the same upward trend as other Atlantic areas. Stronger demand in the Persian Gulf and India continues. Overall rates are strong. Pacific has also shown more resistance with prompt tonnage clearing out.
 
-**Pacific**
+Indonesian trips into India were reported at the level of USD 25,000 pd.
 
- has also shown more resistance with prompt tonnage clearing out. Indonesian trips into India were reported at the level of USD 25,000 pd. South African trips to the Far East were fixed around USD 20,000 pd plus ballast bonus at the USD 1 mill, which is very similar to ECSA fronthaul rates.
+South African trips to the Far East were fixed around USD 20,000 pd plus ballast bonus at the USD 1 mill, which is very similar to ECSA fronthaul rates.

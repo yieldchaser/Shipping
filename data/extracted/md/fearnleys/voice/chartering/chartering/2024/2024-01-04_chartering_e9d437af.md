@@ -24,4 +24,10 @@ title: "Fearnleys Period Chartering Comment - 2024-01-04"
 
 ## Market Commentary
 
-EAST January fixing should be more than halfway through, and we are currently seeing cargoes fixed around the 20th of January. The positions list looks relatively populous, but many are expected to sail West - at least while East is still trading at a discount. Acceptances for February are also looming but so far there should be more deals done for end January dates before we jump into next month. WEST On the current position list more or less every ship arriving US the first 20 days of February are coming in ballast via Cape. There is still one ship left in the very end of Jan and she is coming via Panama as she is a Pmax. We currently count 6 spot fixtures for Feb dates ex US with last done at mid 260s H/C v Cape. The west is still trading a premium of approximately 5 dollars.
+EAST
+
+January fixing should be more than halfway through, and we are currently seeing cargoes fixed around the 20th of January. The positions list looks relatively populous, but many are expected to sail West - at least while East is still trading at a discount. Acceptances for February are also looming but so far there should be more deals done for end January dates before we jump into next month.
+
+WEST
+
+On the current position list more or less every ship arriving US the first 20 days of February are coming in ballast via Cape. There is still one ship left in the very end of Jan and she is coming via Panama as she is a Pmax. We currently count 6 spot fixtures for Feb dates ex US with last done at mid 260s H/C v Cape. The west is still trading a premium of approximately 5 dollars.

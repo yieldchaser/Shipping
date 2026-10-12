@@ -24,4 +24,10 @@ title: "Fearnleys Aframax Comment - 2026-04-15"
 
 ## Market Commentary
 
-North Sea Limited activity this week so far with North Sea and like the other western Aframax markets North Sea has seen rates come under pressure and correct down. Natural window pushing out towards 22-24 dates. Last 5 days of the month still look like there are a good number of stems to cover. Mediterranean 2nd week in a row that rates in the Mediterranean are tumbling. Demand for tonnage is moderate while supply is ample to cover the rest of April stems. Owners looking to set a new floor but it might be difficult.
+North Sea
+
+Limited activity this week so far with North Sea and like the other western Aframax markets North Sea has seen rates come under pressure and correct down. Natural window pushing out towards 22-24 dates. Last 5 days of the month still look like there are a good number of stems to cover.
+
+Mediterranean
+
+2nd week in a row that rates in the Mediterranean are tumbling. Demand for tonnage is moderate while supply is ample to cover the rest of April stems. Owners looking to set a new floor but it might be difficult.

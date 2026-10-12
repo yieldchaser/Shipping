@@ -24,4 +24,6 @@ title: "Fearnleys Capesize Comment - 2023-08-02"
 
 ## Market Commentary
 
-Capesizes have been gradually more positive over the last week. The c5 has reached well into the 8s, before getting a correction again towards the end of the week. The same trend has been seen for the c3 market with last done excess USD 20 pmt. All in all, the average Capesize rate is 14,997 today compared to 14,937 one week ago, so all in all flat.
+Capesizes have been gradually more positive over the last week. The c5 has reached well into the 8s, before getting a correction again towards the end of the week. The same trend has been seen for the c3 market with last done excess USD 20 pmt.
+
+All in all, the average Capesize rate is 14,997 today compared to 14,937 one week ago, so all in all flat.

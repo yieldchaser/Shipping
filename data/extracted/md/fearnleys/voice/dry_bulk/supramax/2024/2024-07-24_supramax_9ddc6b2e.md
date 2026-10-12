@@ -24,4 +24,8 @@ title: "Fearnleys Supramax Comment - 2024-07-24"
 
 ## Market Commentary
 
-Overall quiet/flat week in the Atlantic with little to report, but we did see a few fresh orders ex ECSA and Atlantic basin. The past week saw fresh enquiries with sulphur cargo as (sulphur) commodity prices saw improvement. Slow & steady, we also see more orders ex Indian ocean. Large Ultramax reportedly fixed at USD 15,000 level for EC India-China run. The Indonesia-China Supra runs going at around 18/19k levels. ECSA fronthauls on Supra/Ultra paid around USD 22,000 levels as usual. We see fresh appetite for period tonnage especially for Supra/Ultra sizes.
+Overall quiet/flat week in the Atlantic with little to report, but we did see a few fresh orders ex ECSA and Atlantic basin. The past week saw fresh enquiries with sulphur cargo as (sulphur) commodity prices saw improvement. Slow & steady, we also see more orders ex Indian ocean.
+
+Large Ultramax reportedly fixed at USD 15,000 level for EC India-China run. The Indonesia-China Supra runs going at around 18/19k levels. ECSA fronthauls on Supra/Ultra paid around USD 22,000 levels as usual.
+
+We see fresh appetite for period tonnage especially for Supra/Ultra sizes.

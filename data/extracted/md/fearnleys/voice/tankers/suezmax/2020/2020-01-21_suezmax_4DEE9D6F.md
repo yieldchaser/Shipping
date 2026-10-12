@@ -24,8 +24,4 @@ title: "Fearnleys Suezmax Comment - 2020-01-21"
 
 ## Market Commentary
 
-The market seems to look more balanced now, after the drop last week.
-
-**Wafr**
-
- have stabilized at w135, but with VLCC's being very active in the 10-20 window, the Suezmaxes could be in for a quiet month. That, combined with a calmer USG-market and the shut-down in Libya could put some pressure on the Wafr market. The east-market have been stable, but with Chinese New Year coming up by the end of the week, we dont expect too much action there either. Overall, the Suezmaxes market looks stable, with possible downside risk.
+The market seems to look more balanced now, after the drop last week. Wafr have stabilized at w135, but with VLCC's being very active in the 10-20 window, the Suezmaxes could be in for a quiet month. That, combined with a calmer USG-market and the shut-down in Libya could put some pressure on the Wafr market. The east-market have been stable, but with Chinese New Year coming up by the end of the week, we dont expect too much action there either. Overall, the Suezmaxes market looks stable, with possible downside risk.

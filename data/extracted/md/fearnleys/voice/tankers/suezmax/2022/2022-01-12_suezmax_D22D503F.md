@@ -24,16 +24,4 @@ title: "Fearnleys Suezmax Comment - 2022-01-12"
 
 ## Market Commentary
 
-This week has seen the majority of market participants adjust to the new 2022 flat rates. Some, faring better than others. With VLCC rates under downward pressure and an inadequate flow of East enquiry, Suezmax's will likely trade sideways, possibly a tad softer, for short haul runs.
-
-**Black Sea**
-
- is close to being done for the month, save maybe one or two Novo' stragglers to come, whilst CPC early February dates are in view with owners probably already being approached. Recent events in Kazakhstan appear not to have hampered CPC stems for now, but worth keeping a watchful eye on proceedings.
-
-**MEG**
-
-/East trades around WS 60 for modern tonnage whilst TD23 is conference at WS 25.
-
-**Wafr**
-
-/East has a lengthening pool of ships to choose from although charterers may find resistance to further rate-falls for long haul voyages.
+This week has seen the majority of market participants adjust to the new 2022 flat rates. Some, faring better than others. With VLCC rates under downward pressure and an inadequate flow of East enquiry, Suezmax's will likely trade sideways, possibly a tad softer, for short haul runs. Black Sea is close to being done for the month, save maybe one or two Novo' stragglers to come, whilst CPC early February dates are in view with owners probably already being approached. Recent events in Kazakhstan appear not to have hampered CPC stems for now, but worth keeping a watchful eye on proceedings. MEG/East trades around WS 60 for modern tonnage whilst TD23 is conference at WS 25. Wafr/East has a lengthening pool of ships to choose from although charterers may find resistance to further rate-falls for long haul voyages.

@@ -24,8 +24,4 @@ title: "Fearnleys Suezmax Comment - 2023-01-18"
 
 ## Market Commentary
 
-Just over a week ago the naysayers were claiming that any Suezmax recovery would be quickly clipped by VLCCs, meanwhile, TD20 paid lip-service to those noises and managed to jump circa 30 percent, which is a fat return in any market. Whilst VLCCs have indeed started to take out a number of first decade WAFR stems, owners will satisfy themselves with rates in the WS 140's with a fairly stable outlook for the remainder of the week. A firm Med'/Black Sea Aframax market continues to gorge on Suezmax which has further tightened tonnage availability, not only for this region but by dint of this, also WAFR. In the East, a procession of Pengerang, Kaz, and Kuwait tenders keep things ticking over for now.
-
-**MEG**
-
-/China trades max' WS 145.
+Just over a week ago the naysayers were claiming that any Suezmax recovery would be quickly clipped by VLCCs, meanwhile, TD20 paid lip-service to those noises and managed to jump circa 30 percent, which is a fat return in any market. Whilst VLCCs have indeed started to take out a number of first decade WAFR stems, owners will satisfy themselves with rates in the WS 140's with a fairly stable outlook for the remainder of the week. A firm Med'/Black Sea Aframax market continues to gorge on Suezmax which has further tightened tonnage availability, not only for this region but by dint of this, also WAFR. In the East, a procession of Pengerang, Kaz, and Kuwait tenders keep things ticking over for now. MEG/China trades max' WS 145.

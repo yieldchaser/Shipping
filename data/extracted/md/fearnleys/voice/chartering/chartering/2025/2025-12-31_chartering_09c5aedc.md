@@ -24,4 +24,6 @@ title: "Fearnleys Period Chartering Comment - 2025-12-31"
 
 ## Market Commentary
 
-WEST Despite the festive season there has been an active couple of days in the West this week. Freight now appears to be relatively tight going into February and last done has been fixed at around USD 136-137 on a NEO type. We saw 36 spot fixtures concluded ex US in January (2 deals shy of Apr-25 which ended up being the most active month of the year), and we currently count 9 spot fixtures 1st decade of February. Meanwhile we see 3-4 open ships in 1-10 Feb and 5-6 open ships in 10-20 Feb window.
+WEST
+
+Despite the festive season there has been an active couple of days in the West this week. Freight now appears to be relatively tight going into February and last done has been fixed at around USD 136-137 on a NEO type. We saw 36 spot fixtures concluded ex US in January (2 deals shy of Apr-25 which ended up being the most active month of the year), and we currently count 9 spot fixtures 1st decade of February. Meanwhile we see 3-4 open ships in 1-10 Feb and 5-6 open ships in 10-20 Feb window.

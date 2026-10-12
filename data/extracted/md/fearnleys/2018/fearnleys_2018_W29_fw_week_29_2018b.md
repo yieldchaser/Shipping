@@ -1,238 +1,96 @@
 ---
 title: "Fearnleys Weekly Report - Week 29, 2018"
-issue_date: "2018-01-01"
+issue_date: "2018-07-18"
 year: 2018
 report_week: 29
 publisher: "Fearnleys"
 source_file: "corpus/01-brokers/fearnleys/2018/fearnleys_2018_W29_fw_week_29_2018b.pdf"
 ---
-# fearnleys_2018_W29_fw_week_29_2018b
+
+# Fearnleys Weekly Report - Week 29, 2018
+
+**July 18. 2018**
 
 source: `corpus/01-brokers/fearnleys/2018/fearnleys_2018_W29_fw_week_29_2018b.pdf`  |  pages: 3
 
-<!-- page 1 -->
+## Tankers
 
-             !   " # $ % &&  %'  ( )
-#
- $     &&   !&        $  *+)#  	    %%  ' %   	 	  & 	% *   %  ), -       .
-$)     $  $ &  /$ 0  %     %    $ %    -&     & % ), - -    	& $ %! %    " $    $    $ % 0  $ % % !     	& %  %  "   %  &   $   &  $        %123   456  14   76 $   	 - % (   .
- $  &   $	 	  8  $ 9   )&&       && %    $      %&  	 	% %  :  %  	&          % &  %&  .
- $ $ %& ;    $$&  $       %;   .
-$) !     $&	 '  $    %  $   &  $  -&  $   /$ 0   < ! &  %  $     $   )     	  $  & $    && % 	  /$ 0    -&&=  ! % 	 %  $ $      $    % %     ):/)+="  % &    	  % &   !         *    '2  '>  - %/       	 	  >326  >>56!&$  !       /   %!'>  $$	 % - +)1>426 !
- +)1>5 !  '2    $  +)1236  !& +)1>?6 ' %    & &         "$ ; 	 %9 &  $ %  %  >3&  !     >63	 	;      $   /  !   %   &  $$&  /  %) % &9 &  -!   &  >3&  >@3	 	 ! * 	  %
-## )A
-9 &   &&  +)12?3 +)1253	 	"):/)+=;  &!    	   %  )   %   >33!    $* 	$ % +)	   &&  >3&  . $ & $   %  !  %  %         +)16633'> %  " $    56 '2	 %    /   $ %    $  &    +)1>5  <   %   $ % -& $   !  % %     >83 ;   !           >26  	   	 23>7  ), -  -
-B),
-B"), )  )  - )  )   
-## B
-     62 @4     >86 >83 !"#$%&'(%) "*    '+  ,-*+  #"  >733 >?33 >433 2863 #9 &   @433 @733 8633 6563 #) % &  @433 @?33 8663 6733 "/#/) 243!333 @533 6333 8563 6563 "/#+) >83!333 4633 4563 6333 5633 )
-## A
-#" >86!333 5633 5633 6633 7563 (#  73!333 >363 >233 5633 >@63
-## +A#
-73!333 >233 >263 ?333 >263   #+) 53!333 ?333 >333 7333 >@63 ./$%&'(%) "*    '+  ,-*+  #9 &  56!333 >326 >363 7333 >233 #9 &  66!333 >>56 >233 ?333 >233 #9 &  83!333 >633 >@33 >>33 >633 ) % &#9 &  83!333 >856 >833 >233 >@56 .
- $# 43!333 5633 5633 5633 >@63
-## +A* #)
- 85!333 >333 >333 >333 >463
-## +)#+A*
-87!333 7263 ?333 4533 >863 #.!"0 $ 0)$*'1) "*    '+  ,-*+  
-## C
-##  D
-28333 28333 2>333 25633 ), -
-## C
-##  D
->4633 >4633 >6333 >5333  -
-## C
-##  D
->@263 >@263 >8633 >6333 '2 >36!333 >@633 >@633 >@263 >6333 '> 73!333 >8633 >8633 >8633 >8563 ' @5!333 >8333 >8333 >8333 >@333 2#"0 3 $4%0) 2#"0 3 $4%0) .1 ! >223>8 >223>@ >223>6 >223>4 >223>5 >223>7 >3333 >6333 23333 26333 83333 86333 @3333 @6333 63333 66333   ), - ), -  -  - >223>8 >223>@ >223>6 >223>4 >223>5 >223>7 >2333 >@333 >4333 >7333 23333 22333 2@333 24333 27333 83333 '2 '2 '> '> ' '
+### Crude
 
-<!-- page 2 -->
+Another relatively quiet week for the VLCCs. The MEG has been ‘between months’ and quiet, whilst some more Waf/East cargoes appearing. Renewed interest for North Sea/East which will absorb some of the ships open in the area, provided subs are lifted. The total absence of Caribs-USG/East volumes is still hurting the general sentiment. Rates generally off last done levels but some hope still left when August MEG-stems starting in earnest. The Suezmaxes saw a busier Med and Black Sea last week as Libya came back into play with the Force majeure being lifted assisting with additional cargoes in the market. The Med Aframaxes spiked briefly spilling onto the Suezmaxes who fixed a handful of part cargoes, but not enough to drive the market. West Africa has been noticeably quieter for the first decade of August with just a few cargoes working so far, there is a softer trend developing as tonnage builds. We are entering the summer market period which will see a drop off in activity and rates likely sliding. TD20 has eroded to ws67.5 and TD6 is stable at ws85 for now. The activity level for Aframaxes trading in the Nsea and Baltic has been kept at a decent level in the 3rd decade July window. Supply and demand on the shipping side is quite balanced and we see rates being kept at steady levels going forward. One interesting development this last week has been that some owners have managed to push for a higher premium on the short Baltic discharge options. If this will be accepted by charterers as a new trend is yet to be seen though. In the Med and Black Sea, we have seen a softer trend the last couple of days. Rates have come off quite significantly despite the increased export Libya activity as the Force Majeure was lifted last week. However, a promising week for Libya’s oil sector ended with a setback this week as the Sharara oil field reduced their production after kidnappings. This led to another Force Majeure situation at the export port of Zawia, again resulting in cancellations of stems and as such a softer momentum going forward.
 
-     !
-)%  $ -  %   $  %   ! &    %     !    $%   #   
-#
-	#
-##  22E&
-## B
-$  $   $ &  !  " #    % % 
-#
-## +)17E&
- $ +)1?33&  :
-   %   %       $ %+)126633  %  % %
-## B
- . ,  -&&&$	&   -&$  ! % 	$  
-## E
- &   1$  &  $	 >5?!333 # 23>4  4*?  +)12@633*  $   $  $ *& $ % %  "#          $     % % &&   $ %!  $  $    ! %  	& $ %$$	    +)1>8!633!   	  $ &   +)123!633& (   $   
-## ;B
-$  $  ! %    % &  !   & $  $'% -  0 +)1>3!333)  ;        $       	"#        $&    % 	 	&$ .
- $  .
-$) 	&  %  $  +)	  % %		  +)123!333  /<  %		 %$ % +)   &   
-## %B
-$  $ 	    !     %   $' &
-## B
-$  $  % %  7633#>>633  & %&$  $	
+### Product
 
-$ % %&       %!.);  -  ??2 " >337  $ %	 & )   $$& $	      $  -   ), && %   %  %><%   ;
-## B)+
- 	  %  -&$.
- $$  %  	&    "  $       		 % 	  -< %  ! &/:.   %   $       %$ %   $ %   )    -     %	           
-#
-%+)143 % $ %  	   	 23>7  & ,
-## B
- - )& -  -    )% ! "*    '+  ,-*+  .5% 6$ 03 0') #/ 
-## C>73E D
-@@333 @3333 >7333 @@333   #'
-## C;D
->>33 >363 683 >>33 ' $  .
-#'
->333 ?@3 6@3 >333 5./..7$ 03 0')     $' >8433 >8333 5>33 >8563 #/  23433 23233 >6333 23433 / # 6>33 6>33 @833 6233 / ' ?533 ?733 ?333 >8563   >8*'>6#26!333$ 7@3 7@3 4@3 766 %45!..7$ 0)   $' >2563 >2333 >>333 >4333
-## B
-$  $' ?633 ?333 7333 >2633 #/  >7633 >7333 >4333 23633 #.!"0 $ 0)  & ,>73!333  2>333 >?633 >5333 2>333  & ,>53!333  >7633 >5333 >6563 >7633
-## B
- -56!333  >8333 >8333 >>263 >@333 )& -67!333  >2>63 >>?33 >3333 >8333 81 $8 ) 9 :9 0 0 2#"0 3;$4%0) .1 >223>8 >223>@ >223>6 >223>4 >223>5 >223>7 6333 >3333 >6333 23333 26333 83333
-## >73E 
-## >73E 
-## >53E 
-## >53E 
-## 56E 
-## 56E 
-## 67E 
-## 67E 
-:)' >6*28!333$ 72!333$ )     /  % %5<".!="$ 0>'*)?
-"*    '+  ,-*+  #7@!333 456333 4@6333 >36333 456333 #43!333 @56333 @56333 856333 663333 #87!333 @56333 @56333 @83333 @56333
-## <1F)'#23*22!333
-@83333 @26333 8?6333 @63333
-## <1F<#>5*22!333
-533333 533333 533333 553333 <#7*>2!333 @63333 @63333 @@3333 @73333 )'#4!633 @83333 @83333 853333 @83333 :)' 276333 276333 263333 823333 :)'& 823333 2?3333 273333 876333 5 0@<8&1 $ 0') 5'& 8 %< /:.() #(); @?83 6>>3 )  
-## #B
-6663 6533 .
-## C+)	D
-@563 @65?
-6>77 ) 
-## $G.
- 6833 6@33 %5<".!="$ 0) "*    '+  ,-*+  
-## ),>66*>46E$
-43333 43333 86333 73333
-## "),>66*>46E$
-56333 56333 @@333 76333 >
-## >66*>46E$
-56333 73333 62333 73333 .1 5 !
-## H-$	
- % !   /
+EAST OF SUEZ We had a glimmer of hope for the market in the Middle East Gulf after signs of improvement last week, but unfortunately for owners it seems it will be short-lived. Today both LR2 and LR1s are fixing for Far East destinations at levels around ws102.5 and ws117.5, respectively, and there is a softer tone in the market. For westwards trading, the LR1s are today concluding fixtures at USD 1.625 mill, down from USD 1.7 mill, and LR2s have been able to increase rate to USD 2.05 mill this week, up from USD 1.95 mill. MRs in the region have been able to keep the positive momentum from last week and West coast India loading for Japan discharge has gained ws10 points this week, and is today at ws150 level. It is still a fairly active market in the Far East, but in some segments owners have been pressured to accept lower rates. For a straight Singapore to Japan fixture, rate has improved ws10 points to ws140 level today, whilst the short-haul voyage from South Korea to Japan has dropped from USD 290’ to today’s USD 270’ level. WEST OF SUEZ In the western hemisphere, the market has been more or less flat this week. The straight Continent to States voyage is still at ws100, but unfortunately the back-haul cargo from the US Gulf has dropped about ws10 points this week. But since bunker prices have been sliding this week, owners who are triangulating have been able to maintain daily return at around USD 5500. LR1s trading from the Continent to West Africa is still at ws75 mark. LR2s loading in the Mediterranean for Far East discharge seems to have reached a plateau around the USD 1.7 mill mark. Handies trading on the Continent have once again experienced a flat week, and going rate is still around the ws130 mark. In the Mediterranean, rate have softened a bit and is today around ws125.
 
-<!-- page 3 -->
+> Rate, price and activity cards of this chapter are not reproduced: Fearnleys rates and prices come from the Fearnpulse API series.
 
- ''$ (  % $  $    & $ >7   &   " 	&*$ & 2323$	 % ! $   ( 	; 1 .	$<*   &    (*		  & , <  < ! / $    $   (* 		 $  	;(% !    *	 $ &   &     ($   <    ''$( "&
-## /' %A
-#
-8  51 '>> . > 72!333  9
-## %F
-%, 0 %  
-## I
-2323 :&  $  . @ >23!333  < %&"$% ))) && %  % 2323
-## J2&
-## KK#
-% . > >73!333  9
-## %F
-%, 0 % & ) && % 232> :& 1$  . 2 >73!333  <  <* ) && % 232> 1
-## */		 KK#B$
-  2 >@3!333 / $   (%    2324#2325
-## L?83
-## (*/		 KK:&
- $    2 >4>!333 / $   +;  232@#2324 (*/		 ( @ >56!333$ <   &      232>
-## L>74
-## (A 2
-63!333  <   & :) 23>?
-## L856
-)$ ;   )'( "& 	 
-## %A
-8 8 51 '>>  ) %2283 8>7333 23>7 ; 
-## C
-## D
-77  ) %222?
-8>7333 23>7 ; 
-## C
-## D
-77  . %<  
-## 83?55@ 233? C 
- 
-## D
-@>!6 
-## /B
-% 2??>4@ 2332 (%
-## C1) 
-
-## D
-26!?
-$	+)1>3!>$ 		! 	    /)  2??>65 2332 (%
-## C1) 
-
-## D
-26!?
-$	+)1>3!>$ 		! 	    /)  2??>62 2332 (%
-## C1) 
-
-## D
-26!?
-$	+)1>3!>$ 		! 	    < % @???3 23>4 9 &  2?!63 >3* ...
-  	1   @3378 2338 + $	 7!38 
-## (8B
- @362
-## 2338 )A
-## CF%)%	
-## D 6!33
-)) 
-## (2B
- 8@?5
-## 2332 )A
-## CF%)%	
-## D 6!33
-)) . .%' >73283 2334  + $	 . ' 7>533 23>> + $	 >7!56 $   . <  ; 7>3?8 23>4 /   2@!83 . <   7>358 23>6 /   2@!23 . .
-% 48733 23>@ +).
- 2>!83 . ).;$ 4>333 23>6 + $	 >?!33 6 .. $ % 
-## +)L6@33& !&$
- . .	  64!32@ 2334   >833 ;$	> #   	  $  . (   66!622 2337  >@26
-## 11B
- . 
-## B	
-58!343 2333   733 11  .   :$  68!@57 2336 + $	 ?!73 11 :$23>7  	   	 23>7   1 .	 :          %/ 
-## B
-$ 5!
-%$> ) "*    '+  ,-*+  
-## 833E 
-7?33 7?33 7233 7?33 ), -
-## >63E 
-4333 4333 6633 4333  -
-## >>3E 
-@?33 @?33 @@63 @?33
-## B $
-## 63E 
-8433 8433 8863 8433  & ,
-## >73E 
-@733 @733 @633 @733
-## A
-  -
-## 72E 
-2733 2733 2433 2733 +	 -
-## 4@E 
-2433 2433 2@33 2433 (
-## >53E$
-*; >746 >746 >7@6 >746 "*    '+  ,-*+  !' 1*-
-## +)1#9BF
->>83 >>>2 >367 >>83
-## +)1#A'"
->>82 >>23 >34> >>82
-## +)1#(:A
-7>5 734 547 72> +'#+)1 >>4 >>5 >>6 >26    ;.:'+)14  262 26> >7@ 262
-## (;.:'(:A4
- >23 >2> 37?
->2@  '>>'&1
-## .&C+)1D
-5>?8 55>3 42@4 5753  8&1 ) % & 873) @@>3 @453 8433 @453 >73) @633 @543 @?33   4>53 46@3 66@3 4?73 ' 873<)/:
-@>83 @@83 @@83 >73) @873 @473 @4?3 1  4363 4@73 6253 4453 .1 51 >223>8 >223>@ >223>6 >223>4 >223>5 >223>7 83 @3 63 43 53 73 ?3 >33
-## B $
-## B $
- -  - ), - ), -   >223>8 >223>@ >223>6 >223>4 >223>5 >223>7 23 26 83 86 @3 @6 63 66 43 +	 - +	 -
-## A
-  -
-## A
-  -  & ,  & , ;
+## Dry Bulk
+
+### Capesize
+
+Strong but with recent mixed signals. Atlantic being main driver, as open and underlying demand healthy, and has shown decent gains on Tubarao/China route where bid/offer in the low/mid usd 22's pmt. Pacific more steady in comparison, with Waust/China numbers ranging from mid/hi USD 8's pmt to tick over USD 9.00 pmt. Overall average daily earnings best so far this year and touching USD 25500 before again softening slightly. Positive Brazilian iron ore export prospects fuel positive expectations, again reflected in ffa's and period interest. Decent deals for short period include 179,000 dwt/blt 2016 said done for 6-9 months at USD 24500 - however charterers seem to be carefully cherry-picking for the right units.
+
+### Panamax
+
+After the rather sudden rise in transatlantic rates last week due to a tight tonnage supply of early cargoes, the Atlantic market has continued to rise this week, although at a slower pace. The TA rounds now get concluded around USD 13,500, while a fronthaul from the Continent currently pays around USD 20,500 per day. The North Atlantic is still firm. In the Pacific basin, freight rates have been sliding over the past week, and the transpacific RV now get fixed at just under USD 10,000. The ECSA and Indonesia trades are still fairly active and firm.
+
+### Supramax
+
+Good demand in Atlantic keep the rates at very good levels. Especially Baltic and Black Sea looks pretty hot offering attractive rates. USG loaders are getting well over USD 20,000 a day for FH voyages. Vessels loading cargoes in USA to Continent have been paid hires in high teens. Pacific also looked very stable, but not on fire like tonnage in Atlantic. Rates paid for Pacific voyages ranged between 8500/11500 a day depending on specific load/discharging ports and duration of the voyage, BSI index rose from 992 last Wed to 1008 today.
+
+> Rate, price and activity cards of this chapter are not reproduced: Fearnleys rates and prices come from the Fearnpulse API series.
+
+## Gas
+
+### Chartering
+
+After Saudi acceptance were released we saw healthy activity ex MEG this week. The East of Suez shipping market is tight during 1H August and as the Indian PSUs are floating requirements we expect the Baltic to continue its strong development in the short term. The West VLGC market activity has been flat thus far this week following last two weeks’ flurry of fixtures. Having said that, a spot FOB tender during mid last decade and a few very end August cargoes are attracting some attention. Same remains unfixed at the time of writing. Vessel availability is limited and owners’ ideas are in the mid/high USD 60’s against these cargoes.
+
+> Rate, price and activity cards of this chapter are not reproduced: Fearnleys rates and prices come from the Fearnpulse API series.
+
+## Newbuilding
+
+Newbuilding activity continues at a stable pace with 18 firm orders reported this week. With the sulphur-cap in 2020 closing in, we see increased interest for LNG as fuel. In the Dry Bulk sector H-Line have been reported to book two firm LNG-fuelled Capesizes at Hyundai Heavy, while Fincantieri have received orders for four LNG-fuelled cruise vessels. In the LNG segment, the Marinakis-led company Capital Gas booked four LNG carriers at Hyundai.
+
+### Newbuilding Contracts
+
+| Type | No | Size | Yard | Buyer | Del | Price | Comm |
+|---|---|---|---|---|---|---|---|
+| BC | 1 | 82,000 dwt | Jiangsu Yangzijiang | Mitsui & Co | 2020 |  | Option declared |
+| BC | 4 | 120,000 dwt | Huangpu Wenchong | CSSC Shipping Leasing | 2020 |  | + 2 options \|\| T/C to Cargill |
+| BC | 1 | 180,000 dwt | Jiangsu Yangzijiang | Lepta Shipping | 2021 |  | Option Declared |
+| BC | 2 | 180,000 dwt | Hyundai | H-Line Shipping | 2021 |  | Dual-Fuelled \|\| T/C to Posco |
+| Cruise | 2 | 140,000 GT | Fincantieri | Norwegian Cruise Line | 2026 / 2027 | abt. $ 930 m | LNG-Fuelled \|\| Options declared |
+| Cruise | 2 | 161,000 GT | Fincantieri | TUI Cruises | 2024 / 2026 |  | LNG-Fuelled |
+| LNGC | 4 | 175,000 cbm | Hyundai | Capital Gas Carrier | 2021 | abt. $ 186 m |  |
+| TANK | 2 | 50,000 dwt | Hyundai Mipo | OSG | 2019 | abt. $ 37.5 m | Scrubbers Installed |
+
+> Rate, price and activity cards of this chapter are not reproduced: Fearnleys rates and prices come from the Fearnpulse API series.
+
+## Sale and Purchase Transactions
+
+| Type | Vessel | Size | Built | Buyer | Price | Comm. |
+|---|---|---|---|---|---|---|
+| MT | Samsung 2230 | 318 000 | 2018 | Iranian (Aissot) | 88 |  |
+| MT | Samsung 2229 | 318 000 | 2018 | Iranian (Aissot) | 88 |  |
+| MT | Bright Harmony | 309 774 | 2009 | Greek (Androns Maritime) | 41,5 |  |
+| MT | Front Page | 299 164 | 2002 | Norwegian (ADS Crude Carriers) | 25,9 | incl MUSD 10,1 credit to seller, vessel to be retofitted |
+| MT | Front Stratus | 299 157 | 2002 | Norwegian (ADS Crude Carriers) | 25,9 | incl MUSD 10,1 credit to seller, vessel to be retofitted |
+| MT | Front Serenade | 299 152 | 2002 | Norwegian (ADS Crude Carriers) | 25,9 | incl MUSD 10,1 credit to seller, vessel to be retofitted |
+| MT | High Trust | 49 990 | 2016 | Japanese | 29,50 | 10-yrs BBB |
+| MT | Cielo Di Milano | 40 083 | 2003 | Undisclosed | 8,03 |  |
+| MT | No.3 Green Pioner | 4 052 | 2003 | S. Korean (Young Sung Global Co) | 5,00 | StSt |
+| MT | No.2 Green Pioner | 3 497 | 2002 | S. Korean (Young Sung Global Co) | 5,00 | StSt |
+| BC | Berge Rosa | 180230 | 2006 | Greek | Undisclosed |  |
+| BC | Rena | 81 700 | 2011 | Undisclosed | 18,75 | auction sale |
+| BC | Hanton Trader VI | 81 093 | 2016 | Far Eastern | 24,30 |  |
+| BC | Hanton Trader V | 81 073 | 2015 | Far Eastern | 24,20 |  |
+| BC | Bao Tong | 63 800 | 2014 | US Based | 21,30 |  |
+| BC | SBI Echo | 61 000 | 2015 | Undisclosed | 19,00 | 5 yr. BB back agreement at US$ 5400pd, purchase o |
+| BC | Bulk Avanti | 56,024 | 2006 | Turkish | 13.00 | Incl. 1yr T/C sale and leaseback deal |
+| BC | Navios Armonia | 55,522 | 2008 | Greek | 14.25 | DD Passed |
+| BC | Tai Plenty | 73,060 | 2000 | Chinese | 8.00 | DD due |
+| BC | Aquarius Ocean | 53,478 | 2005 | Undisclosed | 9,80 | DD due Oct. 2018 |
+
+> Rate, price and activity cards of the Market Brief are not reproduced: Fearnleys rates and prices come from the Fearnpulse API series.

@@ -24,8 +24,4 @@ title: "Fearnleys Suezmax Comment - 2023-02-07"
 
 ## Market Commentary
 
-Since the beginning of the Ukraine war the Suezmax market has become hardwired to extreme volatility, with buy-in on both side of the phone (charterers and owners), and when there's buy-in from both parties, events usually become self-fulfilling. On that note, West Africa appears to have bottomed and with the prospect of a firmer VLCC market, there's also a psychological comfort blanket. TD20 is reported on subjects at between WS 105-110, suggesting that the Atlantic market has bottomed with probable upside in the offing. In the East, moderately firmer VLCCs will likely prevent further cannibalization of Suezmax stems.
-
-**MEG**
-
-/China on modern should trade 130KT x WS 130's whilst TD23 should keep its head above WS 50 with possible upside.
+Since the beginning of the Ukraine war the Suezmax market has become hardwired to extreme volatility, with buy-in on both side of the phone (charterers and owners), and when there's buy-in from both parties, events usually become self-fulfilling. On that note, West Africa appears to have bottomed and with the prospect of a firmer VLCC market, there's also a psychological comfort blanket. TD20 is reported on subjects at between WS 105-110, suggesting that the Atlantic market has bottomed with probable upside in the offing. In the East, moderately firmer VLCCs will likely prevent further cannibalization of Suezmax stems. MEG/China on modern should trade 130KT x WS 130's whilst TD23 should keep its head above WS 50 with possible upside.

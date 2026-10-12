@@ -26,6 +26,4 @@ title: "Fearnleys Supramax Comment - 2023-10-11"
 
 From the Atlantic, USG become tight on tonnage again. East Mediterranean less volumes, so tonnage might start seeking cargoes from Continent instead. ECSA steady with Ultra fixing about USD 19k from NCSA to East Mediterranean.
 
-**Far east**
-
- holding up, tight on prompt tonnage and rates better there.
+Far east holding up, tight on prompt tonnage and rates better there.

@@ -838,6 +838,18 @@ def extract_fearnleys(pdf_path: Path, dry_run: bool = False) -> Dict[str, Any]:
         target_dir.mkdir(parents=True, exist_ok=True)
         md_text = "\n".join(md_lines)
         target_md.write_text(md_text, encoding="utf-8")
+        # The corpus MD is the commentary read by layout (owner decision 2026-10-12: Fearnleys rates come
+        # from the Fearnpulse API); the rate tables above stay only in the sidecar and series.
+        try:
+            sys.path.insert(0, str(Path(__file__).resolve().parents[1] / "md_cleanup"))
+            import fearnleys_commentary_rebuild as fcr
+            rebuilt, why = fcr.rebuild(target_md)
+            if rebuilt is not None:
+                target_md.write_bytes(rebuilt.encode("utf-8"))
+            else:
+                print(f"  [WARN] fearnleys commentary rebuild skipped for {stem}: {why}")
+        except Exception as e:  # keep the generated MD rather than fail the ingest
+            print(f"  [WARN] fearnleys commentary rebuild failed for {stem}: {e}")
 
         sidecar_payload = {
             "convention": "iso", "publisher": "Fearnleys", "issue_date": iso_date,

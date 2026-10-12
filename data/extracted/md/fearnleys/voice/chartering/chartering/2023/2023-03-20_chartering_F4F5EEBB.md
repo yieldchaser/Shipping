@@ -24,4 +24,10 @@ title: "Fearnleys Period Chartering Comment - 2023-03-20"
 
 ## Market Commentary
 
-EAST Despite Japan having a day off on Tuesday and the Chinese LPG Conference keeping a big chunk of the industry away from their desks we have seen a good handful of fixtures concluded this week. First decade April in the Middle East is getting quite thin with just a couple of potential open vessels remaining. The fixing window is now focused around second decade of April dates where a third deal was concluded in the MEG on Tuesday and a fourth one from Indians on Thursday. Freight have maintained relatively stable throughout the week although it now looks to be softening. WEST Having seen 6-7 spot fixtures in the West last week we have only registered one so far this week. The position list remains relatively unchanged apart from a few additions. We are now seeing one potential relet for very end first decade in April and only one ship left for mid-month dates. End April currently showing 8-9 open positions and 3 of them are relets, but some still considering going to the Middle East as we see the BLPG3 route trading at a discount of approximately 6,000 USD pd to BLPG1, using latest Baltic print.
+EAST
+
+Despite Japan having a day off on Tuesday and the Chinese LPG Conference keeping a big chunk of the industry away from their desks we have seen a good handful of fixtures concluded this week. First decade April in the Middle East is getting quite thin with just a couple of potential open vessels remaining. The fixing window is now focused around second decade of April dates where a third deal was concluded in the MEG on Tuesday and a fourth one from Indians on Thursday. Freight have maintained relatively stable throughout the week although it now looks to be softening.
+
+WEST
+
+Having seen 6-7 spot fixtures in the West last week we have only registered one so far this week. The position list remains relatively unchanged apart from a few additions. We are now seeing one potential relet for very end first decade in April and only one ship left for mid-month dates. End April currently showing 8-9 open positions and 3 of them are relets, but some still considering going to the Middle East as we see the BLPG3 route trading at a discount of approximately 6,000 USD pd to BLPG1, using latest Baltic print.

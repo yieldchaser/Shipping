@@ -24,4 +24,6 @@ title: "Fearnleys LPG Western Comment - 2019-08-26"
 
 ## Market Commentary
 
-USGC: The market mostly shrugged off the 3.7 million barrel build with some assistance from crude. However we are now 23 million barrels over last year and for sure on pace to break the 100 million level. Volumes are still somewhat lack luster as it has priced most of this in and traders are still nursing summer hangovers. With three weeks of over 3 million barrels built per week in US inventories, this has become the new normal. The FOB market in the US continues to be active for end September and early October although more offers have recently been seen than bids. Despite this FOB discussions continue around the 6cpg mark.
+USGC:
+
+The market mostly shrugged off the 3.7 million barrel build with some assistance from crude. However we are now 23 million barrels over last year and for sure on pace to break the 100 million level. Volumes are still somewhat lack luster as it has priced most of this in and traders are still nursing summer hangovers. With three weeks of over 3 million barrels built per week in US inventories, this has become the new normal. The FOB market in the US continues to be active for end September and early October although more offers have recently been seen than bids. Despite this FOB discussions continue around the 6cpg mark.

@@ -24,4 +24,8 @@ title: "Fearnleys LPG Eastern Comment - 2020-01-27"
 
 ## Market Commentary
 
-EAST: Saudi posted February CP at respectively 505 $ and 545 $ for propane and butane, a 60 $ and 45 $ decrease respectively compared to January. Propane is higher than the market’s expectation, however, market has been at a halt with Chinese New Year break and we do not expect much activity east with present virus hitting China. Players are waiting for march nominations acceptances with QP coming in the next days. Market is in strong backwardation with Feb/March CP at 20 $ with FEI at 12 $.
+EAST:
+
+Saudi posted February CP at respectively 505 $ and 545 $ for propane and butane, a 60 $ and 45 $ decrease respectively compared to January. Propane is higher than the market’s expectation, however, market has been at a halt with Chinese New Year break and we do not expect much activity east with present virus hitting China.
+
+Players are waiting for march nominations acceptances with QP coming in the next days. Market is in strong backwardation with Feb/March CP at 20 $ with FEI at 12 $.

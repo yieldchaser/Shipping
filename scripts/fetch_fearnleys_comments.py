@@ -22,7 +22,7 @@ query GetComments($limit: Int!, $offset: Int!) {
   comment(
     limit: $limit
     offset: $offset
-    order_by: {date: desc}
+    order_by: [{date: desc}, {id: desc}]
   ) {
     id
     date
@@ -81,7 +81,7 @@ def fetch_all_comments():
             row["comment_subtype"] = meta.get("comment_subtype", "")
             row["comment_name"] = meta.get("comment_name", "")
             if isinstance(row.get("text"), str):
-                row["text"] = row["text"].replace("\r\n", " ").replace("\n", " ")
+                row["text"] = row["text"].replace("\r\n", "\n")  # paragraph breaks kept; csv quotes them
             all_rows.append(row)
 
         print(f"  Fetched {len(all_rows)} commentary notes...", flush=True)

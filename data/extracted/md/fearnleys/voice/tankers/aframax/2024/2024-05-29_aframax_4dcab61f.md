@@ -24,8 +24,10 @@ title: "Fearnleys Aframax Comment - 2024-05-29"
 
 ## Market Commentary
 
-NORTH SEA This week started with a steady feel with crude stems working in the natural window out to around the 8th of June. Available tonnage looks to be repopulating but is also littered with uncertain positions, and surrounding areas are still attractive to ballast out to. Owners have options so can be more selective over which cargoes to offer to. MEDITERRANEAN First decade of June has remained busy in the Mediterranean/Black Sea area and kept rates well above the WS 200 levels. CPC is now covered up to mid-month dates. North Africa fixing mid to end first decade dates with vessels ballasting from surrounding areas as well, as owners look to work the elevated rates in the Mediterranean. Increased requirement has kept the market busy, but Suezmax intervention might limit any drastic movement barring any special requirements.
+NORTH SEA
 
-**USG**
+This week started with a steady feel with crude stems working in the natural window out to around the 8th of June. Available tonnage looks to be repopulating but is also littered with uncertain positions, and surrounding areas are still attractive to ballast out to. Owners have options so can be more selective over which cargoes to offer to.
 
- is expected to jump which could pull at some tonnage.
+MEDITERRANEAN
+
+First decade of June has remained busy in the Mediterranean/Black Sea area and kept rates well above the WS 200 levels. CPC is now covered up to mid-month dates. North Africa fixing mid to end first decade dates with vessels ballasting from surrounding areas as well, as owners look to work the elevated rates in the Mediterranean. Increased requirement has kept the market busy, but Suezmax intervention might limit any drastic movement barring any special requirements. USG is expected to jump which could pull at some tonnage.

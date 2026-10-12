@@ -24,8 +24,4 @@ title: "Fearnleys Suezmax Comment - 2020-12-01"
 
 ## Market Commentary
 
-Steady enquiry levels have failed to prevent further rate-slippage in the West. TD15 should have acted as a support mechanism for TD20, at least psychologically, but it has continued to exhibit underlying weakness. Suezmax owners have not bought into the narrative of VLCCs coming to the rescue anytime soon, as the stark prospect of a light third decade in Wafr, coupled with an onslaught of Eastern ballasters, continues to cannibalize rates. Eastern ballasters remain the chief culprit in the Med-Black Sea as there seems to be no end of willing candidates. Prior to Covid-19, this would have made a significant dent in the East list, but in this pandemic scenario, the list remains long.
-
-**MEG**
-
-/East will trade 130 x WS 40-42.5 on modern whilst TD23 may struggle to maintain high teens. TD20 will trade mid WS 30's.
+Steady enquiry levels have failed to prevent further rate-slippage in the West. TD15 should have acted as a support mechanism for TD20, at least psychologically, but it has continued to exhibit underlying weakness. Suezmax owners have not bought into the narrative of VLCCs coming to the rescue anytime soon, as the stark prospect of a light third decade in Wafr, coupled with an onslaught of Eastern ballasters, continues to cannibalize rates. Eastern ballasters remain the chief culprit in the Med-Black Sea as there seems to be no end of willing candidates. Prior to Covid-19, this would have made a significant dent in the East list, but in this pandemic scenario, the list remains long. MEG/East will trade 130 x WS 40-42.5 on modern whilst TD23 may struggle to maintain high teens. TD20 will trade mid WS 30's.

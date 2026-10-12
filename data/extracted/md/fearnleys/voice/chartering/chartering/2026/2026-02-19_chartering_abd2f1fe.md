@@ -24,4 +24,10 @@ title: "Fearnleys Period Chartering Comment - 2026-02-19"
 
 ## Market Commentary
 
-EAST Following a subdued start to the week, slowed by public holidays across much of Asia, spot activity picked up pace on Thursday. Several cargoes were quoted for March loading out of the Middle East Gulf, bringing with it a renewed boost of optimism for freight. Saudi acceptances are yet to be released at the time of writing, but we are already seeing expectations of further gains on freight as tonnage availability already have started to slim down. WEST Players short shipping ex USG during last decade March quickly realized today that in order to secure freight before the market ran out of availability, one had to make a move. Although levels have come down a bit, freight has settled around USD 150 per ton and a handful of deals were concluded today. We believe there is more potential for freight increases as the MEG and USG currently are battling for the same vessels.
+EAST
+
+Following a subdued start to the week, slowed by public holidays across much of Asia, spot activity picked up pace on Thursday. Several cargoes were quoted for March loading out of the Middle East Gulf, bringing with it a renewed boost of optimism for freight. Saudi acceptances are yet to be released at the time of writing, but we are already seeing expectations of further gains on freight as tonnage availability already have started to slim down.
+
+WEST
+
+Players short shipping ex USG during last decade March quickly realized today that in order to secure freight before the market ran out of availability, one had to make a move. Although levels have come down a bit, freight has settled around USD 150 per ton and a handful of deals were concluded today. We believe there is more potential for freight increases as the MEG and USG currently are battling for the same vessels.

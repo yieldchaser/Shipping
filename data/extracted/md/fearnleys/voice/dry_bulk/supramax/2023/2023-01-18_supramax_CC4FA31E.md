@@ -24,4 +24,6 @@ title: "Fearnleys Supramax Comment - 2023-01-18"
 
 ## Market Commentary
 
-Weakness all over as seasonal factors as well as the downturn in macro-economic growth has obviously also hit the Supramax market. Supramax open North Brazil was fixed for TA with redel Algeria at USD 9,000. Fhaul from USG to SE Asia was covered around USD 13,000 + USD 225,000 bss on 61,000 dwt. Ultramax open Continent was put in box around USD 9,000 for steel run to USEC. Fhaul from Continent to Dar East seen to be paid USD 15,000 on Ultramax. From the East, bhaul to USG was linked to USD 4,000. Steel run via Japan redel Vietnam being fixed around USD 4,500. Supramax bss CJK covered around USD 2,000 for a trip via Indonesia to China on 57,000 dwt.
+Weakness all over as seasonal factors as well as the downturn in macro-economic growth has obviously also hit the Supramax market. Supramax open North Brazil was fixed for TA with redel Algeria at USD 9,000. Fhaul from USG to SE Asia was covered around USD 13,000 + USD 225,000 bss on 61,000 dwt. Ultramax open Continent was put in box around USD 9,000 for steel run to USEC. Fhaul from Continent to Dar East seen to be paid USD 15,000 on Ultramax.
+
+From the East, bhaul to USG was linked to USD 4,000. Steel run via Japan redel Vietnam being fixed around USD 4,500. Supramax bss CJK covered around USD 2,000 for a trip via Indonesia to China on 57,000 dwt.

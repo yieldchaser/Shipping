@@ -24,4 +24,10 @@ title: "Fearnleys Period Chartering Comment - 2024-10-10"
 
 ## Market Commentary
 
-EAST The East market remains rather quiet, but it has still been the most active trade area this week. We have seen one Indian PSU done for end Oct dates at mid 60s and two Australian cargoes done around the 70 dollar mark. There's a rumor of another Indian PSU cargo for October, but beyond that the market seems to be holding off as we await November acceptances. WEST Sentiment in the Western freight market has seemingly softened slightly after a busy week of fixtures. In total we have seen 18 spot fixtures out of the USG/USEC for November dates - 10 first decade and 8 second decade. One vessel still remain available for the first decade (prompt open), while 7-8 ships are ready for the second decade. We have yet to see any fixtures in last decade November, but we should expect some activity very soon. Last done fixture concluded at low 120s H/C range.
+EAST
+
+The East market remains rather quiet, but it has still been the most active trade area this week. We have seen one Indian PSU done for end Oct dates at mid 60s and two Australian cargoes done around the 70 dollar mark. There's a rumor of another Indian PSU cargo for October, but beyond that the market seems to be holding off as we await November acceptances.
+
+WEST
+
+Sentiment in the Western freight market has seemingly softened slightly after a busy week of fixtures. In total we have seen 18 spot fixtures out of the USG/USEC for November dates - 10 first decade and 8 second decade. One vessel still remain available for the first decade (prompt open), while 7-8 ships are ready for the second decade. We have yet to see any fixtures in last decade November, but we should expect some activity very soon. Last done fixture concluded at low 120s H/C range.

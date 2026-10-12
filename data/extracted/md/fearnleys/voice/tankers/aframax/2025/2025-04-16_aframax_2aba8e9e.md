@@ -24,4 +24,6 @@ title: "Fearnleys Aframax Comment - 2025-04-16"
 
 ## Market Commentary
 
-Very limited Aframax activity early in the week with relets and bigger vessels taking centre stage. Both the Med and US markets remain the better option for the time being exhibiting more activity and higher rates for those willing to ballast, but the end month window in the North could bring some activity to engage tonnage. The market for now remains steady. With most of the Mediterranean ports sold-out for April dates attention now turns to the introduction of early May stems into the market. Over the Easter period a few vessels will come back around into position, but we will also lose some vessels quietly to other areas. The market looks to be poised for a small correction but the fundamentals in the Atlantic do not indicate a meltdown.
+Very limited Aframax activity early in the week with relets and bigger vessels taking centre stage. Both the Med and US markets remain the better option for the time being exhibiting more activity and higher rates for those willing to ballast, but the end month window in the North could bring some activity to engage tonnage. The market for now remains steady.
+
+With most of the Mediterranean ports sold-out for April dates attention now turns to the introduction of early May stems into the market. Over the Easter period a few vessels will come back around into position, but we will also lose some vessels quietly to other areas. The market looks to be poised for a small correction but the fundamentals in the Atlantic do not indicate a meltdown.

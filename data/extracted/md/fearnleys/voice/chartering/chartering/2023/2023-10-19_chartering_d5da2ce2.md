@@ -24,4 +24,12 @@ title: "Fearnleys Period Chartering Comment - 2023-10-19"
 
 ## Market Commentary
 
-EAST As activity gains momentum in both main loading regions ships are gradually disappearing. However, now with 6 confirmed deals in first decade of November and a good handful of vessels still available in the same window, market is still not looking very short in terms of vessels supply. A couple of more cargos could be expected before shifting full focus onto second decade November where we have already seen 3 deals done. With the "cheap options" now taken out Owners ideas are on the rise with last done at mid-low 110s RT/C. WEST The big jump in Eastern freight has made the premium in the West narrow to approximately 5 dollars before waiting in Panama. Western rates are also on the rise having seen several spot deals done at 180-185 H/C range lately and there should still be a few more deals to be done for November dates, but it remains to be seen if there are enough cargoes left before shifting focus towards December.
+EAST
+
+As activity gains momentum in both main loading regions ships are gradually disappearing. However, now with 6 confirmed deals in first decade of November and a good handful of vessels still available in the same window, market is still not looking very short in terms of vessels supply. A couple of more cargos could be expected before shifting full focus onto second decade November where we have already seen 3 deals done. With the "cheap options" now taken out Owners ideas are on the rise with last done at mid-low 110s RT/C.
+
+WEST
+
+The big jump in Eastern freight has made the premium in the West narrow to approximately 5 dollars before waiting in Panama.
+
+Western rates are also on the rise having seen several spot deals done at 180-185 H/C range lately and there should still be a few more deals to be done for November dates, but it remains to be seen if there are enough cargoes left before shifting focus towards December.

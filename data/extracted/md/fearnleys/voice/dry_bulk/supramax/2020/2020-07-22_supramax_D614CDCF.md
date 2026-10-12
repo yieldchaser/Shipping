@@ -24,8 +24,6 @@ title: "Fearnleys Supramax Comment - 2020-07-22"
 
 ## Market Commentary
 
-Despite negative developments in the bigger size segments, the Supra segment still have some resistance, and the indexes keep rising with good support of physical demand. However, the balance cargo inquiry and tonnage supply may indicate neutral market direction. Market in general lacking direction. Supramax fixed USD 15,500/day delivery ECSA for Med/Cont direction, while Ultramax close USD 20,000/day. On fronthaul, we have seen rates on Supramax at low USD 20,000/day, and on Ultramax high USD 25,000/day, which indicates quite a big spread. Fronthaul had similar levels to last week about USD 14-14,500/day + about 400,000 bb. Market was stable with a bit more optimist compared to last weeks. Tess 58,000 dwt, with delivery Singapore, was done at USD 10,500/day for a trip via Durban to China.
+Despite negative developments in the bigger size segments, the Supra segment still have some resistance, and the indexes keep rising with good support of physical demand. However, the balance cargo inquiry and tonnage supply may indicate neutral market direction. Market in general lacking direction. Supramax fixed USD 15,500/day delivery ECSA for Med/Cont direction, while Ultramax close USD 20,000/day. On fronthaul, we have seen rates on Supramax at low USD 20,000/day, and on Ultramax high USD 25,000/day, which indicates quite a big spread. Fronthaul had similar levels to last week about USD 14-14,500/day + about 400,000 bb.
 
-**Pacific**
-
- RV for Supra was fixed at USD 8,250/day and close to USD 10,000/day on Ultra.
+Market was stable with a bit more optimist compared to last weeks. Tess 58,000 dwt, with delivery Singapore, was done at USD 10,500/day for a trip via Durban to China. Pacific RV for Supra was fixed at USD 8,250/day and close to USD 10,000/day on Ultra.

@@ -24,8 +24,12 @@ title: "Fearnleys LPG Eastern Comment - 2025-08-21"
 
 ## Market Commentary
 
-MEG FOB discounts improved this week with firmer butane inquiry. Qatar Energy was reported to award their 3/1 cargo for late Sep lifting at Cp minus 20s. By the time of writing, Sep Cp was traded at $520 for C3 and C3/C4 at $25. Sep/Oct Cp was at $16 contango.
+MEG
 
-**FAR EAST**
+FOB discounts improved this week with firmer butane inquiry. Qatar Energy was reported to award their 3/1 cargo for late Sep lifting at Cp minus 20s. By the time of writing, Sep Cp was traded at $520 for C3 and C3/C4 at $25. Sep/Oct Cp was at $16 contango.
 
- Cash differentials edged up with 23/0 parcel for 2h Sep delivery basis Chiba traded at Sep FEI minus $5.5 during mid week. Outside window one EChina PDH was reported to award two parcels of 23/0 basis Ningbo at Sep FEI minus mid single digit. Another EChina player also tender to buy flexible ratio for late Sep to mid Oct delivery. Butane cargo are in active inquiries among both residential and petchem players. Pertamina tendered to buy early Oct delivered evenly split cargo. HTC was reported to procure a late Sep delivered cargo at Sep FEI minus small digit for C3 and Sep MOPJ minus 20s for C4. FPCC also tendered to buy 2h Sep to 1st decade Oct delivered butane parcel. Sinobenny canceled their buy tender for 11/11 late Sep to mid Oct delivery as limited but high offer.
+FAR EAST
+
+Cash differentials edged up with 23/0 parcel for 2h Sep delivery basis Chiba traded at Sep FEI minus $5.5 during mid week. Outside window one EChina PDH was reported to award two parcels of 23/0 basis Ningbo at Sep FEI minus mid single digit. Another EChina player also tender to buy flexible ratio for late Sep to mid Oct delivery.
+
+Butane cargo are in active inquiries among both residential and petchem players. Pertamina tendered to buy early Oct delivered evenly split cargo. HTC was reported to procure a late Sep delivered cargo at Sep FEI minus small digit for C3 and Sep MOPJ minus 20s for C4. FPCC also tendered to buy 2h Sep to 1st decade Oct delivered butane parcel. Sinobenny canceled their buy tender for 11/11 late Sep to mid Oct delivery as limited but high offer.

@@ -24,4 +24,10 @@ title: "Fearnleys Period Chartering Comment - 2024-05-23"
 
 ## Market Commentary
 
-EAST To say the Eastern VLGC market have been volatile this week is an understatement with freight fluctuating between mid-90s and low-80s. Comparing spot volumes with previous months we should now be heading into second decade fixing full on – but we have not registered a single Indian PSU cargo on June laycans so far. An end June FOB tender is due to be awarded today but so far no shipping requirement have surfaced on the back of this. WEST At the time of writing, we count 27 spot fixtures out of the USG/USEC in June and it should still be 1 or 2 ships available for end month dates. Meanwhile, July fixing is already underway with a couple vessels put on subs - in addition to some players currently out sniffing 1H July dates. The position list this period is looking relatively tight with the majority of the vessels coming in ballast via COGH.
+EAST
+
+To say the Eastern VLGC market have been volatile this week is an understatement with freight fluctuating between mid-90s and low-80s. Comparing spot volumes with previous months we should now be heading into second decade fixing full on – but we have not registered a single Indian PSU cargo on June laycans so far. An end June FOB tender is due to be awarded today but so far no shipping requirement have surfaced on the back of this.
+
+WEST
+
+At the time of writing, we count 27 spot fixtures out of the USG/USEC in June and it should still be 1 or 2 ships available for end month dates. Meanwhile, July fixing is already underway with a couple vessels put on subs - in addition to some players currently out sniffing 1H July dates. The position list this period is looking relatively tight with the majority of the vessels coming in ballast via COGH.

@@ -378,7 +378,7 @@ def sync_comments():
             c["comment_subtype"] = meta.get("comment_subtype", "")
             c["comment_name"] = meta.get("comment_name", "")
             if isinstance(c.get("text"), str):
-                c["text"] = c["text"].replace("\r\n", " ").replace("\n", " ")
+                c["text"] = c["text"].replace("\r\n", "\n")  # paragraph breaks kept; csv quotes them
             writer.writerow({k: c.get(k, "") for k in fields})
     return len(unseen)
 

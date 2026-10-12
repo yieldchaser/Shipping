@@ -24,8 +24,6 @@ title: "Fearnleys Supramax Comment - 2023-01-04"
 
 ## Market Commentary
 
-The mixed market for Supra and Ultra segments with rates obviously slowed down in both basins. Last week we saw an improvement in the Pacific due to the substantial volume of cargo ex-Nopac and ex-Australia submerged and helped to maintain steady earnings. This week Europe is still partly on holiday and the upcoming Russian Orthodox Christmas, adds to limited trading. We see rates falling in all basins. All major loading areas in the Atlantic lack cargo inquiry. The Continent and Baltic region suffer the most due to the cold weather and limited cargo volume ex Russian territories. Ultramax fixed with grain cargo delivery Continent to West Africa at USD 15,000 pd.
+The mixed market for Supra and Ultra segments with rates obviously slowed down in both basins. Last week we saw an improvement in the Pacific due to the substantial volume of cargo ex-Nopac and ex-Australia submerged and helped to maintain steady earnings. This week Europe is still partly on holiday and the upcoming Russian Orthodox Christmas, adds to limited trading. We see rates falling in all basins.
 
-**USG**
-
- and USEC is stable with rates slightly down from last weeks; mv Seaboss 55,426 dwt dely SW Pass prompt trip via Mississippi River redely Morocco USD 19,750 pd.
+All major loading areas in the Atlantic lack cargo inquiry. The Continent and Baltic region suffer the most due to the cold weather and limited cargo volume ex Russian territories. Ultramax fixed with grain cargo delivery Continent to West Africa at USD 15,000 pd. USG and USEC is stable with rates slightly down from last weeks; mv Seaboss 55,426 dwt dely SW Pass prompt trip via Mississippi River redely Morocco USD 19,750 pd.
