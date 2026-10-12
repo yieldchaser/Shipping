@@ -565249,3 +565249,16 @@ id,date,charterer,owner,vessel,imo,rate,period,route,segment,department,commodit
 862064,2026-10-12,,,,,,,,Panamax,BULK,Metals,,,,"in bundles; Turkish ports cargo breakdown: Iskenderun 1,350t + Hereke 1,225t + Gemlik 900t + Eregli 1,150t"
 862065,2026-10-12,,,,,,,,Panamax,BULK,Clinker,,,,Try Owners Qtty
 862066,2026-10-12,,,,,,,,Panamax,BULK,Logs,,,,
+862067,2026-10-12,NLNG,,,,,,,LNGC,LNG,,,,,Delivery condition: cold and ready to load; charterers option for additional 30 days
+862068,2026-10-12,,,RS SOLTAG,,,,,Panamax,BULK,,,,,NO UKRAINA/NO RUSSIA / NO USA; EAST/WEST AFRICA OK; FAR EAST OK; MIDDLE EAST OK
+862069,2026-10-12,,,RS SOLTAG,,,,,Panamax,BULK,,,,,"NO UKRAINA/NO RUSSIA / NO USA, EAST/WEST AFRICA OK, FAR EAST OK, MIDDLE EAST OK"
+862070,2026-10-12,CVB,,,,,,,Panamax,BULK,Wheat,,,,
+862071,2026-10-12,Vulcan Pellet,,,,,,,Panamax,BULK,Iron Ore Fines/lumps,,,,Stowage Factor: Upto 0.5 cubic meters per metric ton; Charterers option to load from BG-2 terminal in Venezuela; voyage fixture
+862072,2026-10-12,,COSCO,CONTSHIP IVY,,,,,Handysize,BULK,,,,,"On t/c to COSCO at USD 15,500 pd, less 2.5 pct total comm, with minimum re-delivery date on 06 March 2027 - maximum re-delivery date 06 September 2027 currently trading MED"
+862073,2026-10-12,,MSC,CONTSHIP JOY,,,,,Handysize,BULK,,,,,"On t/c to MSC at USD 12,000 pd, less 5 pct total comm, with minimum re-delivery date on 01 March 2027 - maximum re-delivery date 15 May 2027 currently trading MED"
+862074,2026-10-12,,COSCO,CONTSHIP IVY,,,,,Handysize,BULK,,,,,"On t/c to COSCO at USD 15,500 pd, less 2.5 pct total comm, with minimum re-delivery date on 06 March 2027 - maximum re-delivery date 06 September 2027 currently trading MED"
+862075,2026-10-12,,MSC,CONTSHIP JOY,,,,,Handysize,BULK,,,,,"On t/c to MSC at USD 12,000 pd, less 5 pct total comm, with minimum re-delivery date on 01 March 2027 - maximum re-delivery date 15 May 2027 currently trading MED"
+862076,2026-10-12,,COSCO,CONTSHIP IVY,,,,,Handysize,BULK,,,,,"On t/c to COSCO at USD 15,500 pd, less 2.5 pct total comm, with minimum re-delivery date on 06 March 2027 - maximum re-delivery date 06 September 2027 currently trading MED"
+862077,2026-10-12,,MSC,CONTSHIP JOY,,,,,Handysize,BULK,,,,,"On t/c to MSC at USD 12,000 pd, less 5 pct total comm, with minimum re-delivery date on 01 March 2027 - maximum re-delivery date 15 May 2027 currently trading MED"
+862078,2026-10-12,Radius Recycling,,,,,,,Panamax,BULK,Scrap,,,,FRESH - FRESH; MIN 4 X 25 MT CRANES; MAX 25 YRS
+862079,2026-10-12,Pacnav,,,,,,,Panamax,BULK,Grains,,,,dur abt 15-20 dwog
