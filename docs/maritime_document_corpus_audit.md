@@ -175,10 +175,7 @@ All **12 foundational reference textbooks (127.6 MB, 9,748,609 bytes across 139,
 ### 6. Drewry Maritime Intelligence (`corpus/06-drewry/`)
 - **AIS Vessel Class Reports:** **288 PDFs (527.0 MB)** across 10 vessel classes.
 - **Quantitative Operational Curves (`data/extracted/series/`):**
-  * `drewry_ais_fleet_performance_series.csv`: **14,451 rows** (Underway, In Port, At Anchor across East/West).
-  * `drewry_ais_regional_congestion_series.csv`: **6,541 rows** (regional ballast congestion at anchor).
-  * `drewry_ais_deployment_speed_series.csv`: **2,449 rows** (Ballast/Laden speed and Tonne-Mile Index).
-  * `drewry_ais_utilisation_curves_series.csv`: **958 rows** (fleet utilization rates).
+  * `drewry_ais_chart_series.csv`: **82,793 rows**, every left-axis chart line in all 291 reports (utilisation, tonne-miles index, speeds, tonnage underway/in port/at anchor East and West, anchor tonnage by region, % laden), read from the vector path end points and calibrated to each chart's tick labels. The four earlier curve CSVs read Bezier control points as values and were deleted.
   * `data/indices/drewry_wci_historical.csv`: **118 weekly rows** (World Container Index benchmark routes).
 - **Structured Briefs:** **1,092 Markdown reports** across opinions and market summaries.
 
@@ -230,7 +227,7 @@ The extraction engine maintains **170 production series CSV files in `data/extra
 | :--- | :--- | :---: | :--- |
 | **Hellenic MMi Iron Ore** | `hellenic_iron_ore_pdf_brands_series.csv`, 19 other brand CSVs | 148,500+ | 62% Fe CFR Qingdao, Carajas, brand spreads, port inventories |
 | **Advanced Shipping** | `advanced_shipping_sales_series.csv`, demolition, newbuilding | 35,400+ | S&P transaction rows, scrap prices, secondhand valuations |
-| **Drewry AIS Intelligence**| `drewry_ais_fleet_performance_series.csv`, congestion, speeds | 24,399 | Fleet underway/in-port/at-anchor ratios, speed curves |
+| **Drewry AIS Intelligence**| `drewry_ais_chart_series.csv` | 82,793 | Utilisation, tonne-miles, speeds, tonnage underway/in port/at anchor, % laden |
 | **Seabrokers Offshore** | `seabrokers_osv_monthly_history_series.csv`, rigs, spot | 15,430 | OSV dayrates, drilling rig dayrates, North Sea spot fixes |
 | **Hellenic Valuations** | `hellenic_vv_matrix_series.csv`, `hellenic_vv_sales_series.csv` | 14,454 | VesselsValue historical asset pricing by vessel age profile |
 | **Hellenic Demolition** | `gms_demolition_rankings_series.csv`, port positions, best oasis | 8,930 | Subcontinent scrap benchmarks ($/LDT) and beaching arrivals |

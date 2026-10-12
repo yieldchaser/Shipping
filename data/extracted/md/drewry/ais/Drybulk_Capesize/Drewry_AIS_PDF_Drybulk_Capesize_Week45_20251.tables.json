@@ -14,11 +14,13 @@
   "bunker_price_mom_pct": 2.0,
   "ballast_speed_east_mom_pct": 0.1,
   "ballast_speed_west_mom_pct": -3.5,
+  "anchor_capacity_west_mom_pct": -6.6,
+  "anchor_capacity_east_mom_pct": -14.9,
   "anchor_4w_ma_change_mdwt": 0.3,
   "laden_anchor_days_4w_change_pct": 8.0,
   "laden_share_east_mom_pp": -3.3,
   "laden_share_west_mom_pp": 2.0,
-  "commentary_title": "",
-  "commentary_summary": "",
+  "commentary_title": "Steady production of iron ore keeps the utilisation up",
+  "commentary_summary": "The Capesize utilisation edged up slightly to 92.5% in week 44, with a 27.2% fall in vessel capacity at port MoM in the West. Alongside this, vessel capacity at anchor is falling, leading to reduced congestion. | Vale reported its strongest quarterly output in 3Q25, driven by record production from the S11D project and continued ramp-ups across other operations. YTD performance keeps the company on track to meet the upper end, supported by higher sales volumes. | Strong Brazilian exports to long-haul Asian markets are expected to sustain tonne-mile demand and increase Capesize activity through remianing year. | In the Pacific, steady demand from miners supported gradual gains in the latter half of the week, while in the Atlantic, a tightening tonnage list provided support to fronthaul trades. The announcement of a one-year US- China trade truce further lifted market sentiment.",
   "source_file": "Drewry_AIS_PDF_Drybulk_Capesize_Week45_20251.pdf"
 }

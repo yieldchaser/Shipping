@@ -14,11 +14,13 @@
   "bunker_price_mom_pct": -3.3,
   "ballast_speed_east_mom_pct": 2.8,
   "ballast_speed_west_mom_pct": -1.5,
+  "anchor_capacity_west_mom_pct": -10.2,
+  "anchor_capacity_east_mom_pct": 5.9,
   "anchor_4w_ma_change_mdwt": 0.1,
   "laden_anchor_days_4w_change_pct": -6.9,
   "laden_share_east_mom_pp": 0.6,
   "laden_share_west_mom_pp": -2.2,
-  "commentary_title": "Change in trading status - MoM",
-  "commentary_summary": "",
+  "commentary_title": "VLGC rates normalises amid easing Panama congestion and rising vessel availability",
+  "commentary_summary": "Spot rates on the AG-Japan and US-Japan routes declined by 7% and 5% WoW, respectively, as increased vessel availability reversed the prior bullish trend. | Easing Panama Canal congestion is resulting in increased VLGC transits, increasing vessel availability. | Low Asian delivered prices and narrowing US-Asia arbitrage also pressurise spot rates. | Meanwhile, Drewry's laden tonnage at anchor in China indicator rose, signalling LPG import recovery amid rising PDH demand. | Other factors—reduced war risk premium and 90-day extension of US- China tariff pause—has reasserted supply-demand fundamentals and led to downward movement in rates.",
   "source_file": "Drewry_AIS_PDF_LPG_FR_Week36_20251.pdf"
 }

@@ -1,39 +1,44 @@
 """
-Drewry AIS Analytics Vector Chart Extraction Engine.
+Drewry AIS Analytics: exact weekly series from the vector charts.
 
-Extracts unbroken continuous weekly time-series curves directly from the
-vector PostScript/PDF drawings across all 10 vessel classes:
-  - Dry Bulk: Capesize, Panamax, Supramax, Handysize
-  - Crude Tankers: VLCC, Suezmax, Aframax
-  - Product Tankers: LR1, LR2
-  - Gas: LPG (Fully Refrigerated)
+The Drewry AIS PDFs are Power BI exports. Every chart line is a vector path whose points are the data
+points, so values are read from geometry, not estimated:
+  - a chart is found by its title (bold 12 pt, white on the title bar) and spans the area up to
+    the next title to the right and below;
+  - the y scale is fitted to the chart's own printed tick labels (the centre of their digits);
+  - the x scale is fitted to the chart's own axis labels: "Week 10..50" (seasonal charts, one line per
+    year), year labels on Jan 1 ticks, or "Jul 2024" month labels;
+  - each line is named by the legend swatch of the same colour ("2025", "% laden 2026", "Laden");
+    single-line charts take the chart title. Lines on a right axis ("Spot rate (right axis)", "TD8 (right
+    axis)", "Bunker price (right axis)") are Baltic routes and bunker prices we hold elsewhere: skipped.
+Every point must land on an axis position or it is dropped and logged: a seasonal point within 0.2 of a
+whole week; a dated point between Thursday and Sunday of one ISO week, keyed by that ISO year and week.
+The year labels fix a dated axis only to about two days, so weekly rows carry no day (date is empty).
+Flat reference lines ("High", "Low" on the 2024 fleet pages) are logged, not stored. The lines are smoothed Bezier paths: the data
+points are the segment end points; the control points between them are drawing aids, not data (the
+previous version of this script read a control point as the value and numbered points by position, so
+its series were wrong and were deleted). A chart whose scales cannot be fitted is skipped and logged,
+never guessed. The bar chart "Change in trading status"
+is a month-on-month derivative of the fleet-performance lines and is not read.
 
-Extracted Time Series:
-  1. Fleet Performance: 6 continuous curves (Underway East/West, In Port East/West,
-     At Anchor East/West) spanning 2022 to 2026 (up to 244 weekly observations each).
-  2. Regional Congestion: 4-6 regional ballast congestion curves at anchor (Atlantic,
-     Pacific, Indian Ocean, China, East, Oceania) for 2024, 2025, and 2026.
-  3. Deployment & Speeds: Tonne-Miles Index (base: week 1, 2025 = 100), Global Ballast
-     Speed (knots), and Global Laden Speed (knots) for 2025 and 2026.
-  4. Fleet Utilisation: Weekly utilisation curves (%) for 2025 and 2026.
+Each report carries the full history of its charts, so the newest report per vessel class wins for any
+week it covers; older reports only add weeks the newer ones no longer show.
 
-Outputs:
-  - data/extracted/series/drewry_ais_fleet_performance_series.csv
-  - data/extracted/series/drewry_ais_regional_congestion_series.csv
-  - data/extracted/series/drewry_ais_deployment_speed_series.csv
-  - data/extracted/series/drewry_ais_utilisation_curves_series.csv
-  - data/extracted/md/drewry/ais_charts/<vessel_class>.json
-  - data/extracted/md/drewry/ais_charts/<vessel_class>.md
+Output: data/extracted/series/drewry_ais_chart_series.csv
+  vessel_class, sector, page, chart, series, unit, axis, year, week, value, source_file
+  axis "weekly": a dated line; year/week = the ISO week of the point;
+  axis "seasonal": one line per year against the chart's own week number (1-53; year from the legend).
+  A line of a single point (week 1 of a new year) is not drawn as a path and cannot be read.
 """
 
-import os
-import sys
-import re
 import csv
-import json
-import glob
-from datetime import datetime, date
-from collections import defaultdict
+import os
+import re
+import statistics
+import sys
+from collections import Counter, defaultdict
+from datetime import date
+
 import pymupdf
 
 if sys.stdout.encoding.lower() != 'utf-8':
@@ -41,568 +46,283 @@ if sys.stdout.encoding.lower() != 'utf-8':
 
 REPO_ROOT = os.path.normpath(os.path.abspath(os.path.join(os.path.dirname(__file__), "..", "..", "..")))
 AIS_CORPUS_DIR = os.path.join(REPO_ROOT, "corpus", "06-drewry", "ais")
-SERIES_DIR = os.path.join(REPO_ROOT, "data", "extracted", "series")
-MD_CHARTS_DIR = os.path.join(REPO_ROOT, "data", "extracted", "md", "drewry", "ais_charts")
+OUT_CSV = os.path.join(REPO_ROOT, "data", "extracted", "series", "drewry_ais_chart_series.csv")
+FIELDS = ["vessel_class", "sector", "page", "chart", "series", "unit", "axis", "year", "week", "value", "source_file"]
+KEY = ["vessel_class", "chart", "series", "axis", "year", "week"]
 
-os.makedirs(SERIES_DIR, exist_ok=True)
-os.makedirs(MD_CHARTS_DIR, exist_ok=True)
+VESSEL_CLASSES = {
+    "Drybulk_Capesize": ("Dry Bulk", "Capesize"),
+    "Drybulk_Panamax": ("Dry Bulk", "Panamax"),
+    "Drybulk_Supramax": ("Dry Bulk", "Supramax"),
+    "Drybulk_Handysize": ("Dry Bulk", "Handysize"),
+    "Crude_VLCC": ("Crude Tankers", "VLCC"),
+    "Crude_Suezmax": ("Crude Tankers", "Suezmax"),
+    "Crude_Aframax": ("Crude Tankers", "Aframax"),
+    "Product_LR1": ("Product Tankers", "LR1"),
+    "Product_LR2": ("Product Tankers", "LR2"),
+    "LPG_FR": ("Gas Shipping", "LPG FR"),
+}
+FILE_RE = re.compile(r"Drewry_AIS_(?:PDF_)?(" + "|".join(VESSEL_CLASSES) + r")_Week(\d+)_(\d{4})", re.I)
+MONTHS = {m: i for i, m in enumerate(["Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov",
+                                      "Dec"], 1)}
+SKIP_CHARTS = ("change in trading status",)
+WEEK_TOL = 0.2       # weeks: a seasonal point must sit this close to a whole week
+WEEK_FROM_DAY = 3    # weekday (Thursday): a dated point must sit from here to the end of its ISO week
+TICK_TOL = 0.01      # share of the tick step: largest misfit allowed between the ticks and the y fit
+DIGIT_MID = 0.358   # em: half the height of Arial figures above the baseline
+LINE_W = 2.25        # stroke width of Power BI data lines in these exports
 
-VESSEL_CLASSES = [
-    ("Drybulk_Capesize", "Dry Bulk", "Capesize"),
-    ("Drybulk_Panamax", "Dry Bulk", "Panamax"),
-    ("Drybulk_Supramax", "Dry Bulk", "Supramax"),
-    ("Drybulk_Handysize", "Dry Bulk", "Handysize"),
-    ("Crude_VLCC", "Crude Tankers", "VLCC"),
-    ("Crude_Suezmax", "Crude Tankers", "Suezmax"),
-    ("Crude_Aframax", "Crude Tankers", "Aframax"),
-    ("Product_LR1", "Product Tankers", "LR1"),
-    ("Product_LR2", "Product Tankers", "LR2"),
-    ("LPG_FR", "Gas Shipping", "LPG FR"),
-]
 
-
-def iso_week_to_date(year: int, week: int) -> str:
-    """Returns Wednesday date (YYYY-MM-DD) for given ISO year and week."""
+def _num(s):
+    s = s.replace(",", "").replace("%", "").replace("$", "").strip()
     try:
-        # ISO calendar: 1=Mon, 3=Wed, 7=Sun
-        return date.fromisocalendar(year, week, 3).strftime("%Y-%m-%d")
-    except Exception:
-        # Fallback approximation
-        return f"{year}-01-01"
-
-
-def get_latest_report_for_class(vessel_key: str) -> str:
-    """Finds the most recent PDF report for a given vessel class in corpus/06-drewry/ais."""
-    pattern = re.compile(rf'Drewry_AIS_(?:PDF_)?{re.escape(vessel_key)}_Week(\d+)_(\d{{4}})', re.IGNORECASE)
-    candidates = []
-    if not os.path.isdir(AIS_CORPUS_DIR):    # gitignored: absent on CI until the fetcher downloads a PDF
+        return float(s)
+    except ValueError:
         return None
-    for fn in os.listdir(AIS_CORPUS_DIR):
-        if not fn.endswith('.pdf'):
-            continue
-        m = pattern.search(fn)
-        if m:
-            wk = int(m.group(1))
-            yr = int(m.group(2)[:4])
-            candidates.append((yr, wk, os.path.join(AIS_CORPUS_DIR, fn)))
-    if not candidates:
-        return None
-    candidates.sort()
-    return candidates[-1][2]
 
 
-def calibrate_axis(words, drawings, r_box, num_filter=None):
-    """
-    Finds horizontal dashed gridlines and numeric Y labels within r_box
-    and returns (slope, intercept, pairs) for linear calibration: val = slope * y + intercept.
-    """
-    c_words = [w for w in words if r_box.x0 <= w[0] <= r_box.x0 + 80 and r_box.y0 <= w[1] <= r_box.y1]
-    y_labels = []
-    for w in c_words:
-        txt = w[4].replace('%', '').replace('$', '').replace(',', '')
-        try:
-            val = float(txt)
-            if num_filter and not num_filter(val, w[1], r_box):
+def _fit(pairs):
+    """Least-squares a + b*x over (x, y) pairs -> (a, b, largest residual)."""
+    xs, ys = zip(*pairs)
+    mx, my = statistics.fmean(xs), statistics.fmean(ys)
+    sxx = sum((x - mx) ** 2 for x in xs)
+    b = sum((x - mx) * (y - my) for x, y in pairs) / sxx
+    a = my - b * mx
+    return a, b, max(abs(a + b * x - y) for x, y in pairs)
+
+
+def _spans(page):
+    out = []
+    for blk in page.get_text("dict")["blocks"]:
+        for ln in blk.get("lines", []):
+            for s in ln["spans"]:
+                if s["text"].strip():
+                    out.append({"text": s["text"].strip(), "bbox": pymupdf.Rect(s["bbox"]), "font": s["font"],
+                                "size": s["size"], "color": s["color"], "dir": ln["dir"],
+                                "origin": s["origin"]})
+    return out
+
+
+def _panels(page, spans, k):
+    titles = [s for s in spans if "Bold" in s["font"] and round(s["size"] / k) == 12
+              and s["color"] == 0xFFFFFF]
+    panels = []
+    for t in titles:
+        r = t["bbox"]
+        right = min([o["bbox"].x0 for o in titles if o["bbox"].x0 > r.x0 + 20 * k and abs(o["bbox"].y0 - r.y0) < 20 * k]
+                    + [page.rect.width])
+        below = min([o["bbox"].y0 for o in titles if o["bbox"].y0 > r.y1 + 20 * k and o["bbox"].x0 < right - 20 * k
+                     and o["bbox"].x0 > r.x0 - 200 * k] + [page.rect.height])
+        panels.append((t["text"], pymupdf.Rect(r.x0 - 20 * k, r.y1, right - 10 * k, below - 5 * k)))
+    return panels
+
+
+def _color(c):
+    return tuple(round(v, 2) for v in c) if c else None
+
+
+def read_chart(page, spans, drawings, title, box, log, k=1.0):
+    """k: page scale against the 996 pt wide Power BI page (some 2024 exports are drawn at 2x)."""
+    inside = [s for s in spans if box.contains(s["bbox"].tl) and s["text"] != title]
+    lines = [d for d in drawings if abs((d.get("width") or 0) / k - LINE_W) < 0.01 and d.get("color")
+             and _color(d["color"]) != (1.0, 1.0, 1.0) and box.contains(d["rect"].tl) and len(d["items"]) >= 2]
+    if not lines:
+        return []
+    px0 = min(d["rect"].x0 for d in lines)
+    px1 = max(d["rect"].x1 for d in lines)
+    py1 = max(d["rect"].y1 for d in lines)
+
+    # legend: filled squares with the entry text right after them
+    legend = {}
+    for d in drawings:
+        r = d["rect"]
+        if d.get("fill") and 5 * k < r.width < 10 * k and 5 * k < r.height < 10 * k and box.contains(r.tl) and r.y0 > py1:
+            txt = [s for s in inside if 0 <= s["bbox"].x0 - r.x1 < 8 * k
+                   and abs((s["bbox"].y0 + s["bbox"].y1) / 2 - (r.y0 + r.y1) / 2) < 4 * k]
+            if txt:
+                legend[_color(d["fill"])] = txt[0]
+    legend_spans = {id(s) for s in legend.values()}
+
+    # y scale: numeric labels left of the plot. Power BI centres each label on its value; the centre of the
+    # digits (baseline - 0.358 em, Arial figures are 0.716 em tall) reproduces the report's own figures:
+    # tonne-miles index 100.0 in its base week and 90.7 on the KPI tile, bunker $859. The white strokes near
+    # the labels are line halos, not gridlines.
+    ylabels = [s for s in inside if s["dir"] == (1.0, 0.0) and s["bbox"].x1 <= px0 + 2 * k and _num(s["text"]) is not None]
+    # the tick labels are right-aligned in one column; a week label at the plot's corner is not one of them
+    edges = Counter(round(s["bbox"].x1 / k) for s in ylabels)
+    if edges:
+        col = max(edges, key=lambda e: sum(n for x, n in edges.items() if abs(x - e) <= 1))
+        ylabels = [s for s in ylabels if abs(s["bbox"].x1 / k - col) <= 1.5]
+    ypairs = [(s["origin"][1] - DIGIT_MID * s["size"], _num(s["text"])) for s in ylabels]
+    if len(ypairs) < 2 or len({v for _, v in ypairs}) < 2:
+        log.append(f"{title}: fewer than 2 y ticks")
+        return []
+    ya, yb, yres = _fit(ypairs)
+    step = min(abs(b - a) for a, b in zip(sorted(v for _, v in ypairs), sorted(v for _, v in ypairs)[1:]) if b != a)
+    if yres > TICK_TOL * step:
+        log.append(f"{title}: y ticks not linear (misfit {yres:.4f})")
+        return []
+    decimals = max((len(s["text"].replace("%", "").split(".")[1]) if "." in s["text"] else 0) for s in ylabels) + 2
+    unit = "%" if any("%" in s["text"] for s in ylabels) else next(
+        (s["text"] for s in inside if s["dir"] != (1.0, 0.0) and s["bbox"].x1 <= px0 and s["text"].isalpha()), "")
+    if not unit and "index" in title.lower():
+        unit = "index"
+
+    # x scale
+    below = [s for s in inside if s["dir"] == (1.0, 0.0) and s["bbox"].y0 >= py1 - 2 * k and id(s) not in legend_spans
+             and s["bbox"].x0 >= px0 - 15 * k and s["bbox"].x1 <= px1 + 15 * k]
+    # seasonal charts number the weeks 10..50; a dated axis may also carry the axis title "Week"
+    xpairs = [((s["bbox"].x0 + s["bbox"].x1) / 2, _num(s["text"])) for s in below
+              if re.fullmatch(r"[1-5]0", s["text"])]
+    seasonal = len(xpairs) >= 2 and any(s["text"] == "Week" for s in below)
+    if not seasonal:
+        xpairs = []
+        for s in below:
+            cx = (s["bbox"].x0 + s["bbox"].x1) / 2
+            if re.fullmatch(r"20\d\d", s["text"]):
+                xpairs.append((cx, date(int(s["text"]), 1, 1).toordinal()))
+            elif re.fullmatch(r"[A-Z][a-z]{2} 20\d\d", s["text"]) and s["text"][:3] in MONTHS:
+                xpairs.append((cx, date(int(s["text"][4:]), MONTHS[s["text"][:3]], 1).toordinal()))
+    if len(xpairs) < 2:
+        log.append(f"{title}: fewer than 2 x labels")
+        return []
+    xa, xb, xres = _fit(xpairs)
+    if xres > (0.25 if seasonal else 1.5):
+        log.append(f"{title}: x labels not linear (misfit {xres:.3f})")
+        return []
+
+    rows = []
+    for d in lines:
+        c = _color(d["color"])
+        if legend:
+            if c not in legend:
+                log.append(f"{title}: line colour {c} not in legend")
                 continue
-            y_labels.append((w[1], val))
-        except ValueError:
-            pass
-    y_labels.sort()
-
-    c_gridlines = [
-        d['rect'].y0 for d in drawings
-        if r_box.x0 <= d['rect'].x0 and d['rect'].x1 <= r_box.x1 + 15
-        and r_box.y0 <= d['rect'].y0 <= r_box.y1
-        and d['rect'].height < 2.5 and d['rect'].width > 120
-    ]
-    c_gridlines.sort()
-
-    pairs = []
-    for yt, val in y_labels:
-        matches = [gy for gy in c_gridlines if abs(gy - yt) < 18]
-        if matches:
-            closest_gy = min(matches, key=lambda gy: abs(gy - yt))
-            pairs.append((closest_gy, val))
-    pairs = sorted(list(set(pairs)))
-
-    if len(pairs) < 2:
-        return None, None, pairs
-
-    gy0, v0 = pairs[0]
-    gy1, v1 = pairs[-1]
-    slope = (v1 - v0) / (gy1 - gy0)
-    intercept = v0 - slope * gy0
-    return slope, intercept, pairs
-
-
-def extract_fleet_performance(doc, vessel_key, sector, vessel_name, filename):
-    """
-    Extracts 6 operational status curves from Fleet Performance page:
-    Underway East/West, In Port East/West, At Anchor East/West.
-    """
-    # Locate page
-    target_page = None
-    for p in doc:
-        txt = p.get_text().lower()
-        if 'tonnage in port' in txt and 'west' in txt:
-            target_page = p
-            break
-    if not target_page:
-        return []
-
-    words = target_page.get_text('words')
-    drawings = target_page.get_drawings()
-
-    chart_configs = [
-        {'metric': 'underway_east', 'region': 'East', 'status': 'underway', 'rect': pymupdf.Rect(30, 60, 340, 305)},
-        {'metric': 'at_anchor_east', 'region': 'East', 'status': 'at_anchor', 'rect': pymupdf.Rect(340, 60, 655, 305)},
-        {'metric': 'in_port_east', 'region': 'East', 'status': 'in_port', 'rect': pymupdf.Rect(655, 60, 970, 305)},
-        {'metric': 'underway_west', 'region': 'West', 'status': 'underway', 'rect': pymupdf.Rect(30, 305, 340, 550)},
-        {'metric': 'at_anchor_west', 'region': 'West', 'status': 'at_anchor', 'rect': pymupdf.Rect(340, 305, 655, 550)},
-        {'metric': 'in_port_west', 'region': 'West', 'status': 'in_port', 'rect': pymupdf.Rect(655, 305, 970, 550)},
-    ]
-
-    records = []
-    for cfg in chart_configs:
-        r = cfg['rect']
-        slope, intercept, pairs = calibrate_axis(words, drawings, r)
-        if slope is None:
-            continue
-
-        curve_drawings = [
-            d for d in drawings
-            if r.x0 <= d['rect'].x0 and d['rect'].x1 <= r.x1 + 15
-            and r.y0 <= d['rect'].y0 and d['rect'].y1 <= r.y1
-            and d.get('width') == 2.25 and len(d['items']) > 50
-        ]
-        if not curve_drawings:
-            continue
-
-        cd = curve_drawings[0]
-        pts = [cd['items'][0][1]] + [it[3] for it in cd['items']]
-
-        # Map each point to ISO week starting at 2022-W01
-        # 2022: 52 weeks, 2023: 52 weeks, 2024: 52 weeks, 2025: 52 weeks, 2026: N weeks
-        for idx, pt in enumerate(pts):
-            val = slope * pt.y + intercept
-            # Determine year and week
-            cum_weeks = idx
-            if cum_weeks < 52:
-                pt_year = 2022
-                pt_week = cum_weeks + 1
-            elif cum_weeks < 104:
-                pt_year = 2023
-                pt_week = (cum_weeks - 52) + 1
-            elif cum_weeks < 156:
-                pt_year = 2024
-                pt_week = (cum_weeks - 104) + 1
-            elif cum_weeks < 208:
-                pt_year = 2025
-                pt_week = (cum_weeks - 156) + 1
-            else:
-                pt_year = 2026
-                pt_week = (cum_weeks - 208) + 1
-
-            records.append({
-                "sector": sector,
-                "vessel_class": vessel_name,
-                "metric": cfg["metric"],
-                "region": cfg["region"],
-                "status": cfg["status"],
-                "year": pt_year,
-                "week": pt_week,
-                "date": iso_week_to_date(pt_year, pt_week),
-                "value_mdwt": round(val, 2),
-                "source_file": filename
-            })
-
-    return records
-
-
-def extract_regional_congestion(doc, sector, vessel_name, filename):
-    """
-    Extracts regional ballast congestion curves (Atlantic, Pacific, Indian, China, East, Oceania)
-    for 2024, 2025, and 2026.
-    """
-    target_page = None
-    for p in doc:
-        txt = p.get_text()
-        matches = re.findall(r'Ballast tonnage at anchor in\s+([A-Za-z\s]+)', txt)
-        if len(matches) >= 3:
-            target_page = p
-            break
-    if not target_page:
-        return []
-
-    blocks = target_page.get_text('blocks')
-    words = target_page.get_text('words')
-    drawings = target_page.get_drawings()
-
-    regions = []
-    for b in blocks:
-        m = re.search(r'Ballast tonnage at anchor in\s+([A-Za-z\s]+)', b[4])
-        if m:
-            reg_name = m.group(1).strip()
-            regions.append((reg_name, b[0], b[1]))
-
-    # Sort regions: top row first, then bottom row; left to right
-    regions.sort(key=lambda r: (r[2] > 200, r[1]))
-    num_cols = 3 if len(regions) >= 6 else 2
-    col_w = 970 / num_cols
-
-    records = []
-    for name, rx, ry in regions:
-        if num_cols == 3:
-            col_idx = 0 if rx < 340 else (1 if rx < 650 else 2)
+            name = legend[c]["text"]
+        elif len(lines) == 1:
+            name = ""
         else:
-            col_idx = 0 if rx < 500 else 1
-
-        r_box = pymupdf.Rect(col_idx * col_w + 15, ry, (col_idx + 1) * col_w + 15, ry + 245)
-
-        # Filter week axis labels (10, 20, 30, 40, 50 at bottom of chart)
-        def num_filter(val, wy, r):
-            return (val not in [10, 20, 30, 40, 50]) or (wy < r.y0 + 175)
-
-        slope, intercept, pairs = calibrate_axis(words, drawings, r_box, num_filter=num_filter)
-        if slope is None:
+            log.append(f"{title}: {len(lines)} lines and no legend")
+            return []
+        if "right axis" in name.lower():
             continue
+        pts = [d["items"][0][1]] + [it[-1] for it in d["items"]]
+        if seasonal:
+            m = re.search(r"\b(20\d\d)\b", name)
+            if not m:
+                log.append(f"{title}: seasonal line '{name}' has no year")
+                continue
+            year, series = int(m.group(1)), re.sub(r"\s*\b20\d\d\b\s*", " ", name).strip()
+            seen = set()
+            for p in pts:
+                w = xa + xb * p.x
+                if abs(w - round(w)) > WEEK_TOL or not 1 <= round(w) <= 53 or round(w) in seen:
+                    log.append(f"{title} {name}: point at week {w:.2f} dropped")
+                    continue
+                seen.add(round(w))
+                rows.append({"series": series, "axis": "seasonal", "year": year, "week": round(w),
+                             "value": ya + yb * p.y})
+        else:
+            if len(pts) > 2 and max(p.y for p in pts) - min(p.y for p in pts) < 1e-6:
+                log.append(f"{title} {name}: flat reference line at {round(ya + yb * pts[0].y, decimals)}, "
+                           "not a series")
+                continue
+            # The year labels fix the date axis only to about two days (0.13 pt per day), so a point's exact
+            # day is not readable; its ISO week is: every weekly point falls Thursday to Sunday.
+            seen = {}
+            for p in pts:
+                f = xa + xb * p.x
+                day = date.fromordinal(int(f))
+                if day.weekday() < WEEK_FROM_DAY:
+                    log.append(f"{title} {name}: point at {day} +{f % 1:.2f}d not Thursday-Sunday, dropped")
+                    continue
+                iso = day.isocalendar()
+                if iso[:2] in seen:
+                    # some 2024 exports draw each week twice, a day apart, at the same height
+                    if abs(seen[iso[:2]] - p.y) > 1e-6:
+                        log.append(f"{title} {name}: second point in {iso[0]}-W{iso[1]} at another value, dropped")
+                    continue
+                seen[iso[:2]] = p.y
+                rows.append({"series": name, "axis": "weekly", "year": iso[0], "week": iso[1],
+                             "value": ya + yb * p.y})
+    for r in rows:
+        r.update(chart=title, unit=unit, value=round(r["value"], decimals))
+    return rows
 
-        curve_drawings = [
-            d for d in drawings
-            if r_box.x0 <= d['rect'].x0 and d['rect'].x1 <= r_box.x1 + 15
-            and r_box.y0 <= d['rect'].y0 and d['rect'].y1 <= r_box.y1
-            and d.get('width') == 2.25 and len(d['items']) > 20
-        ]
 
-        clean_region_name = re.sub(r'\s+', ' ', name).title()
-
-        for cd in curve_drawings:
-            c_color = cd.get('color', (0, 0, 0))
-            # Grey: (0.698, 0.725, 0.745) -> 2024
-            # Mustard: (0.713, 0.552, 0.188) -> 2025
-            # Navy: (0.0, 0.168, 0.360) -> 2026
-            if c_color[0] > 0.65 and c_color[1] > 0.70:
-                cur_year = 2024
-            elif c_color[0] > 0.65:
-                cur_year = 2025
-            else:
-                cur_year = 2026
-
-            pts = [cd['items'][0][1]] + [it[3] for it in cd['items']]
-            for wk_idx, pt in enumerate(pts):
-                val = slope * pt.y + intercept
-                pt_week = wk_idx + 1
-                records.append({
-                    "sector": sector,
-                    "vessel_class": vessel_name,
-                    "region": clean_region_name,
-                    "status": "ballast_at_anchor",
-                    "year": cur_year,
-                    "week": pt_week,
-                    "date": iso_week_to_date(cur_year, pt_week),
-                    "value_mdwt": round(val, 2),
-                    "source_file": filename
-                })
-
-    return records
-
-
-def extract_deployment_and_speeds(doc, sector, vessel_name, filename):
-    """
-    Extracts Tonne-Miles Index, Global Ballast Speed, and Global Laden Speed
-    curves for 2025 and 2026.
-    """
-    target_page = None
-    for p in doc:
-        txt = p.get_text().lower()
-        if 'tonne-miles index' in txt and ('ballast speed' in txt or 'laden speed' in txt):
-            target_page = p
-            break
-    if not target_page:
-        return []
-
-    words = target_page.get_text('words')
-    drawings = target_page.get_drawings()
-
-    charts = [
-        {'metric': 'tonne_miles_index', 'rect': pymupdf.Rect(200, 60, 580, 275), 'unit': 'index'},
-        {'metric': 'ballast_speed', 'rect': pymupdf.Rect(580, 60, 970, 275), 'unit': 'knots'},
-        {'metric': 'laden_speed', 'rect': pymupdf.Rect(580, 280, 970, 535), 'unit': 'knots'},
-    ]
-
-    records = []
-    for ch in charts:
-        r = ch['rect']
-
-        def num_filter(val, wy, r_b):
-            return (val not in [10, 20, 30, 40, 50]) or (wy < r_b.y0 + 175)
-
-        slope, intercept, pairs = calibrate_axis(words, drawings, r, num_filter=num_filter)
-        if slope is None:
+def extract_report(path, log):
+    doc = pymupdf.open(path)
+    rows = []
+    for page in doc:
+        spans = _spans(page)
+        k = max(1, round(page.rect.width / 996))   # some 2024 exports are drawn at exactly 2x on a 1920 pt page
+        header = [s["text"] for s in spans if s["color"] == 0xFFFFFF and round(s["size"] / k) == 14]
+        page_name = header[-1] if header else f"page {page.number + 1}"
+        panels = _panels(page, spans, k)
+        if not panels:
             continue
-
-        curve_drawings = [
-            d for d in drawings
-            if r.x0 <= d['rect'].x0 and d['rect'].x1 <= r.x1 + 15
-            and r.y0 <= d['rect'].y0 and d['rect'].y1 <= r.y1
-            and d.get('width') == 2.25 and len(d['items']) > 20
-        ]
-
-        for cd in curve_drawings:
-            c_color = cd.get('color', (0, 0, 0))
-            cur_year = 2025 if c_color[0] > 0.5 else 2026
-            pts = [cd['items'][0][1]] + [it[3] for it in cd['items']]
-            for wk_idx, pt in enumerate(pts):
-                val = slope * pt.y + intercept
-                pt_week = wk_idx + 1
-                records.append({
-                    "sector": sector,
-                    "vessel_class": vessel_name,
-                    "metric": ch["metric"],
-                    "year": cur_year,
-                    "week": pt_week,
-                    "date": iso_week_to_date(cur_year, pt_week),
-                    "value": round(val, 2),
-                    "unit": ch["unit"],
-                    "source_file": filename
-                })
-
-    return records
+        drawings = page.get_drawings()
+        for title, box in panels:
+            if title.lower().startswith(SKIP_CHARTS):
+                continue
+            chart_log = []
+            got = read_chart(page, spans, drawings, title, box, chart_log, k)
+            log.extend(f"  p{page.number + 1} {m}" for m in chart_log)
+            for r in got:
+                r["page"] = page_name
+            rows.extend(got)
+    doc.close()
+    return rows
 
 
-def extract_utilisation_curves(doc, sector, vessel_name, filename):
-    """
-    Extracts weekly Fleet Utilisation curves (%) for 2025 and 2026 from the Overview/Utilisation page.
-    """
-    target_page = None
-    for p in doc:
-        txt = p.get_text().lower()
-        if 'utilisation' in txt and ('overview' in txt or 'baltic' in txt or 'current utilisation' in txt):
-            target_page = p
-            break
-    if not target_page:
-        return []
-
-    words = target_page.get_text('words')
-    drawings = target_page.get_drawings()
-
-    # Top chart: Utilisation (x: 200-580, y: 60-275)
-    r = pymupdf.Rect(200, 60, 580, 275)
-
-    def num_filter(val, wy, r_b):
-        return (val not in [10, 20, 30, 40, 50]) or (wy < r_b.y0 + 175)
-
-    slope, intercept, pairs = calibrate_axis(words, drawings, r, num_filter=num_filter)
-    if slope is None:
-        return []
-
-    curve_drawings = [
-        d for d in drawings
-        if r.x0 <= d['rect'].x0 and d['rect'].x1 <= r.x1 + 15
-        and r.y0 <= d['rect'].y0 and d['rect'].y1 <= r.y1
-        and d.get('width') == 2.25 and len(d['items']) > 20
-    ]
-
-    records = []
-    for cd in curve_drawings:
-        c_color = cd.get('color', (0, 0, 0))
-        cur_year = 2025 if c_color[0] > 0.5 else 2026
-        pts = [cd['items'][0][1]] + [it[3] for it in cd['items']]
-        for wk_idx, pt in enumerate(pts):
-            val = slope * pt.y + intercept
-            pt_week = wk_idx + 1
-            records.append({
-                "sector": sector,
-                "vessel_class": vessel_name,
-                "metric": "fleet_utilisation_pct",
-                "year": cur_year,
-                "week": pt_week,
-                "date": iso_week_to_date(cur_year, pt_week),
-                "value_pct": round(val, 2),
-                "source_file": filename
-            })
-
-    return records
+def reports():
+    """{class key: [(year, week, path)] oldest first}."""
+    out = defaultdict(list)
+    if not os.path.isdir(AIS_CORPUS_DIR):    # gitignored: absent on CI until the fetcher downloads a PDF
+        return out
+    for fn in os.listdir(AIS_CORPUS_DIR):
+        m = FILE_RE.search(fn)
+        if fn.lower().endswith(".pdf") and m:
+            key = next(k for k in VESSEL_CLASSES if k.lower() == m.group(1).lower())
+            out[key].append((int(m.group(3)[:4]), int(m.group(2)), os.path.join(AIS_CORPUS_DIR, fn)))
+    for v in out.values():
+        v.sort()
+    return out
 
 
-def run_chart_pipeline():
-    print("=== STARTING DREWRY AIS VECTOR CHART EXTRACTION PIPELINE ===")
-
-    all_fleet_perf = []
-    all_congestion = []
-    all_deployment = []
-    all_utilisation = []
-
-    vessel_summaries = {}
-
-    for vessel_key, sector, vessel_name in VESSEL_CLASSES:
-        report_path = get_latest_report_for_class(vessel_key)
-        if not report_path or not os.path.exists(report_path):
-            print(f"[!] Warning: No report found for {vessel_key}")
-            continue
-
-        fn = os.path.basename(report_path)
-        print(f"\nProcessing {vessel_name} ({sector}): {fn}")
-
-        doc = pymupdf.open(report_path)
-
-        # 1. Fleet Performance
-        fp_recs = extract_fleet_performance(doc, vessel_key, sector, vessel_name, fn)
-        all_fleet_perf.extend(fp_recs)
-
-        # 2. Regional Congestion
-        rc_recs = extract_regional_congestion(doc, sector, vessel_name, fn)
-        all_congestion.extend(rc_recs)
-
-        # 3. Deployment & Speeds
-        ds_recs = extract_deployment_and_speeds(doc, sector, vessel_name, fn)
-        all_deployment.extend(ds_recs)
-
-        # 4. Utilisation
-        ut_recs = extract_utilisation_curves(doc, sector, vessel_name, fn)
-        all_utilisation.extend(ut_recs)
-
-        doc.close()
-
-        vessel_summaries[vessel_name] = {
-            "vessel_class": vessel_name,
-            "sector": sector,
-            "source_file": fn,
-            "fleet_performance_points": len(fp_recs),
-            "regional_congestion_points": len(rc_recs),
-            "deployment_speed_points": len(ds_recs),
-            "utilisation_points": len(ut_recs),
-            "total_points": len(fp_recs) + len(rc_recs) + len(ds_recs) + len(ut_recs)
-        }
-
-        print(f"  [+] Extracted: Fleet Perf: {len(fp_recs)} pts | Congestion: {len(rc_recs)} pts | Deployment: {len(ds_recs)} pts | Utilisation: {len(ut_recs)} pts")
-
-        # Save per-vessel structured JSON and Markdown summary
-        vessel_stem = vessel_key.lower()
-        json_out = os.path.join(MD_CHARTS_DIR, f"{vessel_stem}.json")
-        with open(json_out, "w", encoding="utf-8") as f:
-            json.dump({
-                "vessel_class": vessel_name,
-                "sector": sector,
-                "source_file": fn,
-                "metrics_summary": vessel_summaries[vessel_name],
-                "sample_fleet_performance": fp_recs[:6] if fp_recs else [],
-                "sample_regional_congestion": rc_recs[:6] if rc_recs else [],
-                "sample_deployment_speed": ds_recs[:6] if ds_recs else [],
-                "sample_utilisation": ut_recs[:6] if ut_recs else []
-            }, f, indent=2)
-
-        md_out = os.path.join(MD_CHARTS_DIR, f"{vessel_stem}.md")
-        with open(md_out, "w", encoding="utf-8") as f:
-            f.write(f"""---
-title: "Drewry AIS Vector Chart Series - {vessel_name}"
-vessel_class: "{vessel_name}"
-sector: "{sector}"
-source_file: "corpus/06-drewry/ais/{fn}"
-publisher: "Drewry Maritime Research"
-category: "AIS Analytics"
-fleet_performance_points: {len(fp_recs)}
-regional_congestion_points: {len(rc_recs)}
-deployment_speed_points: {len(ds_recs)}
-utilisation_points: {len(ut_recs)}
-total_points: {vessel_summaries[vessel_name]['total_points']}
----
-
-# Drewry AIS Continuous Vector Time-Series: {vessel_name}
-
-Source report: `{fn}`
-
-## Extraction Summary
-- **Fleet Performance Curves (2022-2026)**: {len(fp_recs)} weekly observations
-  - Underway East & West (mdwt)
-  - At Anchor East & West (mdwt)
-  - In Port East & West (mdwt)
-- **Regional Congestion Curves (2024-2026)**: {len(rc_recs)} weekly observations
-  - Ballast tonnage at anchor across regional centers (mdwt)
-- **Deployment & Speed Curves (2025-2026)**: {len(ds_recs)} weekly observations
-  - Tonne-Miles Index (base: Week 1, 2025 = 100)
-  - Global Ballast Speed (knots)
-  - Global Laden Speed (knots)
-- **Fleet Utilisation Curves (2025-2026)**: {len(ut_recs)} weekly observations
-  - Utilisation rate (%)
-
-All data extracted via sub-pixel vector polyline calibration with $R^2 = 1.0$ mathematical affine transformation against Power BI dashed gridlines.
-""")
-
-    # Write Master Stacked Series CSVs (Non-Destructive Upsert)
-    print("\n=== SAVING MASTER TIME SERIES CSVs ===")
-
-    def _upsert_chart_series(csv_path: str, new_rows: list, fieldnames: list, key_cols: list, sort_fn):
-        if not new_rows:
-            print(f"[=] No new chart points for {os.path.basename(csv_path)}; preserving existing CSV.")
-            return
-        existing_map = {}
-        if os.path.exists(csv_path) and os.path.getsize(csv_path) > 0:
-            try:
-                with open(csv_path, "r", encoding="utf-8", errors="replace") as rf:
-                    for row in csv.DictReader(rf):
-                        k = tuple(str(row.get(c, "")) for c in key_cols)
-                        existing_map[k] = row
-            except Exception:
-                pass
-        for row in new_rows:
-            k = tuple(str(row.get(c, "")) for c in key_cols)
-            existing_map[k] = {c: row.get(c, "") for c in fieldnames}
-        merged = sorted(existing_map.values(), key=sort_fn)
-        with open(csv_path, "w", newline="", encoding="utf-8") as f:
-            writer = csv.DictWriter(f, fieldnames=fieldnames)
-            writer.writeheader()
-            writer.writerows(merged)
-        print(f"[+] Saved {os.path.basename(csv_path)}: {len(merged)} rows (+{len(new_rows)} processed)")
-
-    # 1. Fleet Performance
-    csv_fp = os.path.join(SERIES_DIR, "drewry_ais_fleet_performance_series.csv")
-    _upsert_chart_series(
-        csv_fp,
-        all_fleet_perf,
-        ["sector", "vessel_class", "metric", "region", "status", "year", "week", "date", "value_mdwt", "source_file"],
-        ["sector", "vessel_class", "metric", "region", "status", "year", "week"],
-        lambda x: (str(x["sector"]), str(x["vessel_class"]), str(x["metric"]), int(x["year"] or 0), int(x["week"] or 0)),
-    )
-
-    # 2. Regional Congestion
-    csv_rc = os.path.join(SERIES_DIR, "drewry_ais_regional_congestion_series.csv")
-    _upsert_chart_series(
-        csv_rc,
-        all_congestion,
-        ["sector", "vessel_class", "region", "status", "year", "week", "date", "value_mdwt", "source_file"],
-        ["sector", "vessel_class", "region", "status", "year", "week"],
-        lambda x: (str(x["sector"]), str(x["vessel_class"]), str(x["region"]), int(x["year"] or 0), int(x["week"] or 0)),
-    )
-
-    # 3. Deployment & Speeds
-    csv_ds = os.path.join(SERIES_DIR, "drewry_ais_deployment_speed_series.csv")
-    _upsert_chart_series(
-        csv_ds,
-        all_deployment,
-        ["sector", "vessel_class", "metric", "year", "week", "date", "value", "unit", "source_file"],
-        ["sector", "vessel_class", "metric", "year", "week"],
-        lambda x: (str(x["sector"]), str(x["vessel_class"]), str(x["metric"]), int(x["year"] or 0), int(x["week"] or 0)),
-    )
-
-    # 4. Utilisation Curves
-    csv_ut = os.path.join(SERIES_DIR, "drewry_ais_utilisation_curves_series.csv")
-    _upsert_chart_series(
-        csv_ut,
-        all_utilisation,
-        ["sector", "vessel_class", "metric", "year", "week", "date", "value_pct", "source_file"],
-        ["sector", "vessel_class", "metric", "year", "week"],
-        lambda x: (str(x["sector"]), str(x["vessel_class"]), int(x["year"] or 0), int(x["week"] or 0)),
-    )
-
-    print("\n=== EXTRACTION TOTALS BY VESSEL CLASS ===")
-    for vname, sm in sorted(vessel_summaries.items()):
-        print(f"  {vname:20s}: {sm['total_points']:5d} total weekly data points across 4 series")
-
-    total_all = len(all_fleet_perf) + len(all_congestion) + len(all_deployment) + len(all_utilisation)
-    print(f"\n[+] GRAND TOTAL: {total_all:,} continuous weekly data points extracted across all 10 vessel classes!")
-    print("=== DREWRY AIS VECTOR CHART PIPELINE COMPLETE ===")
+def main():
+    verbose = "-v" in sys.argv
+    table = {}
+    if os.path.exists(OUT_CSV):
+        with open(OUT_CSV, encoding="utf-8", newline="") as f:
+            for r in csv.DictReader(f):
+                table[tuple(r[k] for k in KEY)] = r
+    for key, files in sorted(reports().items()):
+        sector, vessel = VESSEL_CLASSES[key]
+        for _, _, path in files:
+            log = []
+            rows = extract_report(path, log)
+            fn = os.path.basename(path)
+            for r in rows:
+                r.update(vessel_class=vessel, sector=sector, source_file=fn)
+                r = {k: str(r[k]) for k in FIELDS}
+                table[tuple(r[k] for k in KEY)] = r
+            print(f"{fn}: {len(rows)} points, {len({(r['chart'], r['series']) for r in rows})} lines, "
+                  f"{sum('dropped' in m for m in log)} points dropped, "
+                  f"{sum('reference line' in m for m in log)} reference lines, "
+                  f"{sum('dropped' not in m and 'reference line' not in m for m in log)} chart problems")
+            for m in log:
+                if verbose or ("dropped" not in m and "reference line" not in m):
+                    print(m)
+    out = sorted(table.values(), key=lambda r: (r["sector"], r["vessel_class"], r["page"], r["chart"], r["series"],
+                                                r["axis"], int(r["year"]), int(r["week"])))
+    os.makedirs(os.path.dirname(OUT_CSV), exist_ok=True)
+    with open(OUT_CSV, "w", encoding="utf-8", newline="") as f:
+        w = csv.DictWriter(f, fieldnames=FIELDS, lineterminator="\n")
+        w.writeheader()
+        w.writerows(out)
+    print(f"{len(out)} rows -> {os.path.relpath(OUT_CSV, REPO_ROOT)}")
 
 
 if __name__ == "__main__":
-    run_chart_pipeline()
+    main()

@@ -14,11 +14,13 @@
   "bunker_price_mom_pct": -5.7,
   "ballast_speed_east_mom_pct": 3.2,
   "ballast_speed_west_mom_pct": -0.5,
+  "anchor_capacity_west_mom_pct": -6.7,
+  "anchor_capacity_east_mom_pct": 4.5,
   "anchor_4w_ma_change_mdwt": 0.2,
   "laden_anchor_days_4w_change_pct": 2.1,
   "laden_share_east_mom_pp": -0.4,
   "laden_share_west_mom_pp": 4.5,
-  "commentary_title": "",
-  "commentary_summary": "",
+  "commentary_title": "Decline in utilisation",
+  "commentary_summary": "The Handysize vessel utilization declined for the second consecutive week, reaching 92.3%, the lowest level in 2024 so far. The drop in global laden speed squeezed the supply in the market, dampening utilisation. | The tonne-mile index also moderated marginally but remained close to last year's level. surge in the export of steel products aiding additional demand. | While the vessels waiting to discharge continue to be buoyant in China, signifying ample coastal trade, the total tonnage underway in the East is subdued. The vessels waiting to load cargo at China's ports contracted, dropping lower compared to the last two years. Declining profitability in China's steel mills is weighing down the trade of steel products, in turn affecting the demand for Handysize vessels in the region.",
   "source_file": "Drewry_AIS_PDF_Drybulk_Handysize_Week34_20241.pdf"
 }

@@ -14,11 +14,13 @@
   "bunker_price_mom_pct": 0.3,
   "ballast_speed_east_mom_pct": -1.5,
   "ballast_speed_west_mom_pct": -2.6,
+  "anchor_capacity_west_mom_pct": 7.5,
+  "anchor_capacity_east_mom_pct": 0.7,
   "anchor_4w_ma_change_mdwt": 1.7,
   "laden_anchor_days_4w_change_pct": -10.1,
   "laden_share_east_mom_pp": 1.6,
   "laden_share_west_mom_pp": 0.8,
-  "commentary_title": "",
-  "commentary_summary": "",
+  "commentary_title": "Stronger cargo flow drives the recovery in the Panamax market",
+  "commentary_summary": "The Panamax utilisation rose to 93.2%, with improving market sentiment and stronger vessel fixing activity supporting gains in both the Atlantic and Pacific markets. The P5TC also firmed, closing the week at $20,834, as owners regained negotiating power following the tight vessel availability. | The Pacific saw the greatest improvement, with a smaller vessel availability and more cargo flow supporting higher rates. NoPac grain activity and Australian mineral demand pushed Kamsarmax rates high. Indonesian coal trades remained mixed, while the widening gap between C5–P3 spread could encourage additional Australian coal volumes to be loaded onto Panamax vessels. | Asian activity improved, supported by stronger Southeast Asian enquiries, giving owners greater confidence heading into September. The improving outlook was also reflected in increased activity during the period, with several vessels fixed for multi-month employment, signalling growing confidence in forward market conditions.",
   "source_file": "Drewry_AIS_Drybulk_Panamax_Week35_2026.pdf"
 }

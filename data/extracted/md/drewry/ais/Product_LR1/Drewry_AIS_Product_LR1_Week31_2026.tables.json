@@ -14,11 +14,13 @@
   "bunker_price_mom_pct": 17.9,
   "ballast_speed_east_mom_pct": 10.0,
   "ballast_speed_west_mom_pct": 17.6,
+  "anchor_capacity_west_mom_pct": 26.7,
+  "anchor_capacity_east_mom_pct": -9.3,
   "anchor_4w_ma_change_mdwt": -0.4,
   "laden_anchor_days_4w_change_pct": -13.7,
   "laden_share_east_mom_pp": 4.5,
   "laden_share_west_mom_pp": 2.7,
   "commentary_title": "LR1 market tightens on stronger fleet absorption and rising laden activity",
-  "commentary_summary": "LR1 utilisation rose to 89.2%, up by 1.7 percentage points MoM, indicating improved fleet absorption and a firmer market, while the tonne-mile index declined by 10.4% YoY at 100.1, suggesting demand remains softer than in 2025. | Fleet employment strengthened across both basins, with the share of laden vessels increasing by 4.5 percentage points MoM in the east and 2.7 percentage points in the west. Combined with a 13.7% decline in laden anchorage days, this points to improved vessel utilisation and faster vessel deployment. | Regional vessel availability remains mixed with anchored capacity rising 26.7% MoM in the west and falling 9.3% in the east, suggesting relatively tighter conditions in the east of Suez. Despite bunker prices rising by 17.9% MoM to $815/tonne, vessel speeds increased, suggesting resilient freight economics and active fleet deployment.",
+  "commentary_summary": "LR1 utilisation rose to 89.2%, up by 1.7 percentage points MoM, indicating improved fleet absorption and a firmer market, while the tonne- mile index declined by 10.4% YoY at 100.1, suggesting demand remains softer than in 2025. | Fleet employment strengthened across both basins, with the share of laden vessels increasing by 4.5 percentage points MoM in the east and 2.7 percentage points in the west. Combined with a 13.7% decline in laden anchorage days, this points to improved vessel utilisation and faster vessel deployment. | Regional vessel availability remains mixed with anchored capacity rising 26.7% MoM in the west and falling 9.3% in the east, suggesting relatively tighter conditions in the east of Suez. Despite bunker prices rising by 17.9% MoM to $815/tonne, vessel speeds increased, suggesting resilient freight economics and active fleet deployment.",
   "source_file": "Drewry_AIS_Product_LR1_Week31_2026.pdf"
 }

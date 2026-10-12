@@ -14,6 +14,8 @@
   "bunker_price_mom_pct": -2.0,
   "ballast_speed_east_mom_pct": -3.4,
   "ballast_speed_west_mom_pct": 2.6,
+  "anchor_capacity_west_mom_pct": -0.1,
+  "anchor_capacity_east_mom_pct": 0.4,
   "anchor_4w_ma_change_mdwt": 0.3,
   "laden_anchor_days_4w_change_pct": 25.3,
   "laden_share_east_mom_pp": 1.7,

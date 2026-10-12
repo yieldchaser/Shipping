@@ -129,15 +129,12 @@ The primary Hellenic category ingest aggregates **3,965 PDFs (2.20 GB)**:
   - **Gas Carriers (32 reports):**
     - `LPG FR` (Fully Refrigerated): **32 reports** (e.g. `Drewry_AIS_LPG_FR_Week39_2026.pdf`)
 - **Dedicated Processing Pipelines & Script Locations:**
-  - `scripts/extract/publishers/run_drewry_ais.py`: Multi-tier extraction engine utilizing LlamaParse agentic tier with multi-account automatic rotation to extract tabular KPI sidecars, underway/in-port/at-anchor ratios, and speed matrices into `data/extracted/md/drewry/`.
-  - `scripts/extract/publishers/run_drewry_ais_charts.py`: Sub-pixel vector geometry engine extracting continuous time-series curves directly from PostScript/PDF drawings at $0 API cost.
+  - `scripts/extract/publishers/run_drewry_ais.py`: Reads KPI tiles, commentary and glossary from the PDF text layer into per-class Markdown, `.tables.json` sidecars and KPI CSVs (no API).
+  - `scripts/extract/publishers/run_drewry_ais_charts.py`: Reads every left-axis chart line from the PDF vector paths, calibrated to the chart's own tick labels, at $0 API cost.
   - `scripts/scrapers/fetch_drewry_wci.py`: Automated harvester tracking weekly World Container Index rate assessments.
   - `scripts/extract/publishers/run_drewry_opinions.py`: Parser for Drewry maritime opinions into structured Markdown briefs.
 - **Output Quantitative Series Datasets (`data/extracted/series/`):**
-  - `drewry_ais_fleet_performance_series.csv`: **14,451 rows** (6 continuous operational curves: Underway East/West, In Port East/West, At Anchor East/West spanning 2022 to 2026).
-  - `drewry_ais_regional_congestion_series.csv`: **6,541 rows** (regional ballast congestion at anchor across Atlantic, Pacific, Indian Ocean, China, East, and Oceania).
-  - `drewry_ais_deployment_speed_series.csv`: **2,449 rows** (Global Ballast Speed, Global Laden Speed, and Tonne-Miles Index).
-  - `drewry_ais_utilisation_curves_series.csv`: **958 rows** (weekly fleet utilization percentages).
+  - `drewry_ais_chart_series.csv`: **82,793 rows**, every left-axis chart line in all 291 reports (utilisation, tonne-miles index, speeds, tonnage underway/in port/at anchor East and West, anchor tonnage by region, % laden), read from the vector path end points and calibrated to each chart's tick labels. The four earlier curve CSVs read Bezier control points as values and were deleted.
   - `data/indices/drewry_wci_historical.csv`: **118 weekly rows** (World Container Index benchmark routes).
 - **Structured Opinion Briefs:** **548 Markdown reports** in `data/extracted/md/drewry/opinions/`.
 

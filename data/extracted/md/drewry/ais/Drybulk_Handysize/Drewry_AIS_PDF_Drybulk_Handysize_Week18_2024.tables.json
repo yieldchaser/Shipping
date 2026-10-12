@@ -14,11 +14,13 @@
   "bunker_price_mom_pct": 0.3,
   "ballast_speed_east_mom_pct": -4.3,
   "ballast_speed_west_mom_pct": 1.9,
+  "anchor_capacity_west_mom_pct": -7.4,
+  "anchor_capacity_east_mom_pct": -16.7,
   "anchor_4w_ma_change_mdwt": 0.3,
   "laden_anchor_days_4w_change_pct": 7.3,
   "laden_share_east_mom_pp": 1.2,
   "laden_share_west_mom_pp": -3.5,
-  "commentary_title": "",
-  "commentary_summary": "",
+  "commentary_title": "Elevated utilisation",
+  "commentary_summary": "Drewry's utilisation index for Handysize vessels remained 1% higher YoY. As the inactivity of vessels has reached its highest level in 2024, the supply stretch available has improved. | The tonnemile index hovered around the same level for three weeks after moderating from the high levels seen last month. | Market activity continues to be high in the East where the share of laden tonnage has reach its highest level in 2024, leading to a rise in freight rates. | At the same time, congestion levels have squeezed in the East, with tonnage waiting at the anchor dropping to historically low levels.",
   "source_file": "Drewry_AIS_PDF_Drybulk_Handysize_Week18_2024.pdf"
 }

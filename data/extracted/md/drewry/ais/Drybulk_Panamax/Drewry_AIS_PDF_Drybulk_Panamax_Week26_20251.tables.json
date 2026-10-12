@@ -14,11 +14,13 @@
   "bunker_price_mom_pct": 3.5,
   "ballast_speed_east_mom_pct": -1.0,
   "ballast_speed_west_mom_pct": 1.7,
-  "anchor_4w_ma_change_mdwt": null,
-  "laden_anchor_days_4w_change_pct": null,
-  "laden_share_east_mom_pp": null,
-  "laden_share_west_mom_pp": null,
+  "anchor_capacity_west_mom_pct": 39.2,
+  "anchor_capacity_east_mom_pct": -20.5,
+  "anchor_4w_ma_change_mdwt": -0.1,
+  "laden_anchor_days_4w_change_pct": -0.1,
+  "laden_share_east_mom_pp": 2.0,
+  "laden_share_west_mom_pp": 0.4,
   "commentary_title": "Panamax tonne-mile momentum accelerates due to robust soybean trade",
-  "commentary_summary": "Panamax tonne-mile demand maintained positive momentum, rising 3.6% WoW in Week 26. This growth was primarily driven by stronger soybean shipments on the Brazil\u2013China route. | Ballast tonnage in the Atlantic basin remained elevated, supported by the delayed soybean harvest in Brazil, which continued to fuel exports to China. Spot rates on this route rose by 9% in June, underlining robust demand. | Soybean exports from Argentina surged, doubling in June as suppliers rushed to ship cargoes ahead of the export tax hike scheduled for July. This further adds ballast tonnage to the Atlantic.",
+  "commentary_summary": "Panamax tonne-mile demand maintained positive momentum, rising 3.6% WoW in Week 26. This growth was primarily driven by stronger soybean shipments on the Brazil–China route. | Ballast tonnage in the Atlantic basin remained elevated, supported by the delayed soybean harvest in Brazil, which continued to fuel exports to China. Spot rates on this route rose by 9% in June, underlining robust demand. | Soybean exports from Argentina surged, doubling in June as suppliers rushed to ship cargoes ahead of the export tax hike scheduled for July. This further adds ballast tonnage to the Atlantic.",
   "source_file": "Drewry_AIS_PDF_Drybulk_Panamax_Week26_20251.pdf"
 }

@@ -14,11 +14,13 @@
   "bunker_price_mom_pct": 3.3,
   "ballast_speed_east_mom_pct": 3.3,
   "ballast_speed_west_mom_pct": 3.3,
-  "anchor_4w_ma_change_mdwt": null,
+  "anchor_capacity_west_mom_pct": -0.8,
+  "anchor_capacity_east_mom_pct": -4.4,
+  "anchor_4w_ma_change_mdwt": -2.1,
   "laden_anchor_days_4w_change_pct": -13.9,
   "laden_share_east_mom_pp": -2.1,
   "laden_share_west_mom_pp": 8.0,
   "commentary_title": "Higher fleet utilisation and tonne-mile demand support Handysize rates despite easing congestion",
-  "commentary_summary": "Handysize utilisation increased further, reflecting stronger fleet employment. The improvement coincided with firmer regional and minor-bulk activity, while other Handysize cargoes such as grain, fertilisers, steel products and forest products continued to support vessel deployment. | The tonne-mile index rose WoW, strengthening the underlying demand picture. Longer-haul grain sourcing and changing trade routes could provide additional support to Handysize shipping demand over the remaining weeks of 2026. | Laden congestion declined sharply across regions, including China, releasing capacity and improving vessel supply. This may partly offset the impact of firmer demand on freight rates in the region.",
+  "commentary_summary": "Handysize utilisation increased further, reflecting stronger fleet employment. The improvement coincided with firmer regional and minor- bulk activity, while other Handysize cargoes such as grain, fertilisers, steel products and forest products continued to support vessel deployment. | The tonne-mile index rose WoW, strengthening the underlying demand picture. Longer-haul grain sourcing and changing trade routes could provide additional support to Handysize shipping demand over the remaining weeks of 2026. | Laden congestion declined sharply across regions, including China, releasing capacity and improving vessel supply. This may partly offset the impact of firmer demand on freight rates in the region.",
   "source_file": "Drewry_AIS_Drybulk_Handysize_Week40_2026.pdf"
 }

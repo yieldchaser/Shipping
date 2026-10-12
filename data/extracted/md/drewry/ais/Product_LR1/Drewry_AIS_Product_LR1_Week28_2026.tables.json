@@ -14,11 +14,13 @@
   "bunker_price_mom_pct": -15.4,
   "ballast_speed_east_mom_pct": -9.6,
   "ballast_speed_west_mom_pct": -30.2,
+  "anchor_capacity_west_mom_pct": -29.8,
+  "anchor_capacity_east_mom_pct": -6.4,
   "anchor_4w_ma_change_mdwt": -0.6,
   "laden_anchor_days_4w_change_pct": -25.0,
   "laden_share_east_mom_pp": -3.7,
   "laden_share_west_mom_pp": 6.9,
-  "commentary_title": "Change in trading status - MoM",
-  "commentary_summary": "",
+  "commentary_title": "LR1 market eases as utilisation and tonne-mile demand moderate",
+  "commentary_summary": "LR1 utilisation stood at 88.5%, down by 4.7 percentage points MoM and 1.7 percentage points below a year ago suggesting a moderate easing in market tightness. | Tonne-mile index declined to 90.8, remaining below 2025 levels and signalling softer fleet absorption, suggesting reduced support from long- haul products trade, limiting demand growth. | The share of laden vessels in the West increased by 6.9 percentage points MoM, suggesting stronger employment in the Atlantic basin, while the East saw a 3.7 percentage points decline. This divergence suggests relatively stronger demand strength in Western markets than in the East.",
   "source_file": "Drewry_AIS_Product_LR1_Week28_2026.pdf"
 }

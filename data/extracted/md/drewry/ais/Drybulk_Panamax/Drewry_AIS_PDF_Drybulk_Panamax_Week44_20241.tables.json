@@ -14,11 +14,13 @@
   "bunker_price_mom_pct": -3.4,
   "ballast_speed_east_mom_pct": -3.2,
   "ballast_speed_west_mom_pct": -4.3,
+  "anchor_capacity_west_mom_pct": -14.3,
+  "anchor_capacity_east_mom_pct": 7.6,
   "anchor_4w_ma_change_mdwt": -0.4,
   "laden_anchor_days_4w_change_pct": -9.7,
   "laden_share_east_mom_pp": 0.3,
   "laden_share_west_mom_pp": 1.1,
-  "commentary_title": "",
-  "commentary_summary": "",
+  "commentary_title": "Stability in utilisation",
+  "commentary_summary": "The global Panamax utilisation remained stable at 92.1% in week 41 and 42 of 2024, while continuing to be substantially lower YoY. | Meanwhile, the global tonne-mile index remained elevated as ample corn exports from the Atlantic have aided Panamax employability. US' corn exports have been on an uptrend despite lower imports from China. | Congestion at discharge ports declined in all major regions, except in the Indian subcontinent, where buoyant coal imports kept congestion high.",
   "source_file": "Drewry_AIS_PDF_Drybulk_Panamax_Week44_20241.pdf"
 }

@@ -14,11 +14,13 @@
   "bunker_price_mom_pct": 11.2,
   "ballast_speed_east_mom_pct": -10.0,
   "ballast_speed_west_mom_pct": -2.1,
-  "anchor_4w_ma_change_mdwt": null,
-  "laden_anchor_days_4w_change_pct": null,
-  "laden_share_east_mom_pp": null,
-  "laden_share_west_mom_pp": null,
+  "anchor_capacity_west_mom_pct": -2.5,
+  "anchor_capacity_east_mom_pct": 9.7,
+  "anchor_4w_ma_change_mdwt": -0.2,
+  "laden_anchor_days_4w_change_pct": 14.0,
+  "laden_share_east_mom_pp": 5.5,
+  "laden_share_west_mom_pp": 8.4,
   "commentary_title": "Handysize market weakens as Pacific region remained quiet",
-  "commentary_summary": "Handysize utilisation started to decline after the conflict between Iran and Israel started last week which also weakened the tonne-mile demand. | The Pacific market remained subdued due to vessel oversupply, which eased congestion of ballasting and laden vessels. Although there was some firm activity in the Atlantic, it was insufficient to offset the overall weakness, and therefore, the market continued to experience headwinds. | However, spot rates on the Europe\u2013South America route surged over the past four weeks, driven by strong demand and robust activity in the Atlantic and USG, creating a more optimistic market outlook in the West. The laden speed in the West also remained elevated throughout this period.",
+  "commentary_summary": "Handysize utilisation started to decline after the conflict between Iran and Israel started last week which also weakened the tonne-mile demand. | The Pacific market remained subdued due to vessel oversupply, which eased congestion of ballasting and laden vessels. Although there was some firm activity in the Atlantic, it was insufficient to offset the overall weakness, and therefore, the market continued to experience headwinds. | However, spot rates on the Europe–South America route surged over the past four weeks, driven by strong demand and robust activity in the Atlantic and USG, creating a more optimistic market outlook in the West. The laden speed in the West also remained elevated throughout this period.",
   "source_file": "Drewry_AIS_PDF_Drybulk_Handysize_Week25_20251.pdf"
 }

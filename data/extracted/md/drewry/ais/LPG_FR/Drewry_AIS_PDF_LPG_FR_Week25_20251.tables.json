@@ -14,11 +14,13 @@
   "bunker_price_mom_pct": 11.2,
   "ballast_speed_east_mom_pct": 1.2,
   "ballast_speed_west_mom_pct": 4.5,
+  "anchor_capacity_west_mom_pct": 34.0,
+  "anchor_capacity_east_mom_pct": 6.0,
   "anchor_4w_ma_change_mdwt": -0.1,
   "laden_anchor_days_4w_change_pct": -8.0,
   "laden_share_east_mom_pp": 0.5,
   "laden_share_west_mom_pp": 0.7,
-  "commentary_title": "Change in trading status - MoM",
-  "commentary_summary": "",
+  "commentary_title": "Israel-Iran tensions raise VLGC rates",
+  "commentary_summary": "Spot rates on the AG Japan route spiked 19% WoW, reaching $85.1 per tonne, as the tensions in the Persian Gulf escalated. | GPS jamming near Iran and vessel bunching in the Gulf of Oman caused variation in the vessel supply data. | This disruption led to a spike in laden tonnage at anchor across the Indian Ocean. | Meanwhile, tonne-miles index rose 8% WoW, reaching 132.8 points as US LPG exports increased following de-escalation in tariff tensions.",
   "source_file": "Drewry_AIS_PDF_LPG_FR_Week25_20251.pdf"
 }

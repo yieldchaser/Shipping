@@ -12,8 +12,9 @@ exact data:
 It also seeds the extracted MD copy (with image links rewritten) when it does not exist yet.
 
 An earlier version "calibrated" five chart families into series CSVs with hardcoded axis ranges and a
-prose regex that mixed up volume and supply growth; those outputs were wrong and are quarantined in
-data/_quarantine/fearnleys_md/ (see the README there). Do not reintroduce chart value reading here.
+prose regex that mixed up volume and supply growth; those outputs were wrong and have been deleted
+(for 2026-10-07 its P5 value was 10,273.97 against about 19,100 on the chart). Do not reintroduce
+hardcoded-axis chart reading here.
 """
 
 import json

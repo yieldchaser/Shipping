@@ -14,11 +14,13 @@
   "bunker_price_mom_pct": 11.9,
   "ballast_speed_east_mom_pct": -3.2,
   "ballast_speed_west_mom_pct": 2.6,
+  "anchor_capacity_west_mom_pct": -9.7,
+  "anchor_capacity_east_mom_pct": 25.7,
   "anchor_4w_ma_change_mdwt": -1.3,
   "laden_anchor_days_4w_change_pct": -21.4,
   "laden_share_east_mom_pp": 3.3,
   "laden_share_west_mom_pp": 2.3,
-  "commentary_title": "",
-  "commentary_summary": "",
+  "commentary_title": "Aframax utilisation remained resilient despite softer spot rates.",
+  "commentary_summary": "Aframax utilisation remained firm at 92.4%, supported by a strengthening tonne- mile index that rose to 100.5, despite spot rates easing from the peaks recorded in recent months. | Cargo movements within the Atlantic Basin remained the primary driver of demand, supporting fleet utilization and partially offsetting weaker long-haul activity in other regions. | Laden tonnage at anchor remained elevated across key eastern discharge regions, particularly India and the Pacific, reflecting sustained crude inflows into major consuming markets and underpinning demand for Aframax tankers. | Despite bunker prices rising to around $785/tonne, vessel speeds remained largely unchanged suggesting owners are prioritizing cargo acquisition over fuel cost optimization, supported by expectations of robust earnings.",
   "source_file": "Drewry_AIS_Crude_Aframax_Week30_2026.pdf"
 }

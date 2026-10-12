@@ -1,633 +1,328 @@
 """
-Drewry AIS Analytics End-to-End Extraction Pipeline.
+Drewry AIS Analytics: report Markdown, KPI sidecars and per-class KPI series, from the PDF text layer.
 
-Extracts weekly Drewry AIS Fleet Performance & Congestion Reports across all 10 vessel classes:
-  - Crude: Aframax, Suezmax, VLCC
-  - Drybulk: Capesize, Panamax, Supramax, Handysize
-  - Product: LR1, LR2
-  - LPG: FR (Fully Refrigerated)
+The weekly Drewry AIS PDFs are Power BI exports with a full text layer, so nothing here is parsed by a
+model or read off an image:
+  - KPI tiles: the 14 pt figure ("89.9%", "▼ 1.0", "$859") and the bold 11 pt caption under it;
+  - commentary: the bold headline above the "content_summary" marker and its ● bullets;
+  - chart titles, with each chart's lines read exactly from the vector paths by run_drewry_ais_charts.py
+    (the Markdown gives each line's latest reading; the full weekly history is in
+    data/extracted/series/drewry_ais_chart_series.csv);
+  - the glossary table.
+An earlier version sent the pages to LlamaParse, which wrote tables of invented values under every chart
+and left most tiles blank; those outputs were rebuilt from this script.
 
-Zero Data Loss:
-  - Parses each PDF using LlamaParse agentic tier with multi-account automatic rotation.
-  - Extracts full Markdown, structured tables/KPI sidecars, and master stacked vessel time-series.
-  - Generates dedicated vessel-segregated series CSVs in data/extracted/series/.
+Outputs per report: data/extracted/md/drewry/ais/<class>/<stem>.md and <stem>.tables.json (the KPI record);
+per class: data/extracted/series/drewry_ais_<class>_series.csv (one row per report).
 """
 
-import os
-import sys
-import re
+import csv
 import json
-import logging
+import re
+import sys
+from datetime import datetime
 from pathlib import Path
-from collections import defaultdict
-import pandas as pd
 
-# Add repo root to pythonpath
-REPO_ROOT = Path(__file__).resolve().parent.parent.parent.parent
-if str(REPO_ROOT) not in sys.path:
-    sys.path.insert(0, str(REPO_ROOT))
+import pymupdf
 
-from scripts.extract.llama_manager import manager, get_active_parser
+REPO_ROOT = Path(__file__).resolve().parents[3]
+sys.path.insert(0, str(Path(__file__).resolve().parent))
+import run_drewry_ais_charts as charts  # noqa: E402
 
-logging.basicConfig(
-    level=logging.INFO,
-    format="%(asctime)s [%(levelname)s] %(name)s: %(message)s"
-)
-logger = logging.getLogger("DrewryAIS")
-
-CACHE_DIR = REPO_ROOT / "data" / "extracted" / "llamaparse_drewry_ais"
+AIS_DIR = REPO_ROOT / "corpus" / "06-drewry" / "ais"
 MD_BASE_DIR = REPO_ROOT / "data" / "extracted" / "md" / "drewry" / "ais"
 SERIES_DIR = REPO_ROOT / "data" / "extracted" / "series"
-STATE_FILE = CACHE_DIR / "_run_state.json"
 
-VESSEL_CATEGORIES = [
-    "Crude_Aframax",
-    "Crude_Suezmax",
-    "Crude_VLCC",
-    "Drybulk_Capesize",
-    "Drybulk_Panamax",
-    "Drybulk_Supramax",
-    "Drybulk_Handysize",
-    "Product_LR1",
-    "Product_LR2",
-    "LPG_FR"
-]
+VESSEL_CATEGORIES = ["Crude_Aframax", "Crude_Suezmax", "Crude_VLCC", "Drybulk_Capesize", "Drybulk_Panamax",
+                     "Drybulk_Supramax", "Drybulk_Handysize", "Product_LR1", "Product_LR2", "LPG_FR"]
 
+FIELDS = ["published_date", "report_year", "report_week", "sector", "vessel_class", "vessel_category",
+          "current_utilisation_pct", "mom_utilisation_change_pp", "yoy_utilisation_change_pp",
+          "tonne_miles_index", "tonne_miles_yoy_pct", "bunker_price_usd_per_t", "bunker_price_mom_pct",
+          "ballast_speed_east_mom_pct", "ballast_speed_west_mom_pct", "anchor_capacity_west_mom_pct",
+          "anchor_capacity_east_mom_pct", "anchor_4w_ma_change_mdwt", "laden_anchor_days_4w_change_pct",
+          "laden_share_east_mom_pp", "laden_share_west_mom_pp", "commentary_title", "commentary_summary",
+          "source_file"]
 
-def load_run_state() -> dict:
-    if STATE_FILE.exists():
-        try:
-            return json.loads(STATE_FILE.read_text(encoding="utf-8"))
-        except Exception:
-            pass
-    return {"done": {}, "failed": {}}
-
-
-def save_run_state(state: dict):
-    STATE_FILE.parent.mkdir(parents=True, exist_ok=True)
-    STATE_FILE.write_text(json.dumps(state, indent=2), encoding="utf-8")
+# tile caption (lower case, whitespace collapsed, "tonne- miles" joined) -> record field
+TILES = {
+    "current utilisation": "current_utilisation_pct",
+    "mom percentage point change in utilisation": "mom_utilisation_change_pp",
+    "mom change in utilisation": "mom_utilisation_change_pp",
+    "yoy percentage point change in utilisation": "yoy_utilisation_change_pp",
+    "yoy change in utilisation": "yoy_utilisation_change_pp",
+    "current tonne-miles index": "tonne_miles_index",
+    "yoy change in tonne-miles index": "tonne_miles_yoy_pct",
+    "per tonne price of bunker at the end of the week": "bunker_price_usd_per_t",
+    "mom change in bunker price": "bunker_price_mom_pct",
+    "mom change in ballast speed in east": "ballast_speed_east_mom_pct",
+    "mom change in ballast speed in west": "ballast_speed_west_mom_pct",
+    "mom change in vessels' capacity at anchor in west": "anchor_capacity_west_mom_pct",
+    "mom change in vessels' capacity at anchor in east": "anchor_capacity_east_mom_pct",
+    "mdwt change in tonnage at anchor (4-week moving average)": "anchor_4w_ma_change_mdwt",
+    "mdwt change in vessels at anchor (4-week moving average)": "anchor_4w_ma_change_mdwt",
+    "change in laden anchor days (4-week moving average)": "laden_anchor_days_4w_change_pct",
+    "mom percentage point change in the share of laden vessels in east": "laden_share_east_mom_pp",
+    "mom percentage point change in the share of laden vessels in west": "laden_share_west_mom_pp",
+}
+TILE_RE = re.compile(r"([▲▼])?\s*(\$)?([\d,]+(?:\.\d+)?)(%?)")
 
 
 def classify_vessel(filename: str) -> str:
-    name = filename
-    if "Capesize" in name:
-        return "Drybulk_Capesize"
-    elif "Panamax" in name:
-        return "Drybulk_Panamax"
-    elif "Supramax" in name:
-        return "Drybulk_Supramax"
-    elif "Handysize" in name:
-        return "Drybulk_Handysize"
-    elif "VLCC" in name:
-        return "Crude_VLCC"
-    elif "Suezmax" in name:
-        return "Crude_Suezmax"
-    elif "Aframax" in name:
-        return "Crude_Aframax"
-    elif "LR1" in name:
-        return "Product_LR1"
-    elif "LR2" in name:
-        return "Product_LR2"
-    elif "LPG" in name or "FR" in name:
-        return "LPG_FR"
+    for cat in VESSEL_CATEGORIES:
+        if cat.lower() in filename.lower():
+            return cat
     return "Unknown"
 
 
 def parse_date_week_year(filename: str, page1_text: str = "") -> tuple:
-    # Match from filename first
-    m_wk = re.search(r'Week(\d+)_(\d{4})', filename)
-    week = int(m_wk.group(1)) if m_wk else None
-    year = int(m_wk.group(2)[:4]) if m_wk else None
-
-    # Match published date from page 1 text
-    pub_date = None
-    if page1_text:
-        m_pub = re.search(r'Published on:\s*([0-9]{1,2}\s+[A-Za-z]+,?\s+[0-9]{4})', page1_text)
-        if m_pub:
-            try:
-                dt = pd.to_datetime(m_pub.group(1))
-                pub_date = dt.strftime("%Y-%m-%d")
-            except Exception:
-                pass
-        if not week:
-            m_w = re.search(r'Week\s*(\d+)', page1_text)
-            if m_w: week = int(m_w.group(1))
-        if not year:
-            m_y = re.search(r'(202[4-6])', page1_text)
-            if m_y: year = int(m_y.group(1))
-
-    # If pub_date is still missing, estimate from year and week
-    if not pub_date and year and week:
-        # Standard ISO week Monday
-        try:
-            pub_date = pd.to_datetime(f"{year}-W{week:02d}-1", format="%Y-W%W-%w").strftime("%Y-%m-%d")
-        except Exception:
-            pub_date = f"{year}-01-01"
-
-    return pub_date, week, year
+    m = re.search(r"Week(\d+)_(\d{4})", filename)
+    week, year = (int(m.group(1)), int(m.group(2))) if m else (None, None)
+    pub = None
+    m = re.search(r"Published on:\s*(\d{1,2}) ([A-Za-z]{3}),? (\d{4})", page1_text)
+    if m:
+        pub = datetime.strptime(" ".join(m.groups()), "%d %b %Y").strftime("%Y-%m-%d")
+    return pub, week, year
 
 
-def parse_drewry_pdf_with_llamaparse(pdf_path: Path) -> list:
-    """
-    Parses a Drewry AIS PDF using LlamaParse agentic tier with auto-rotation.
-    Returns list of page doc objects with text and metadata.
-    """
-    stem = pdf_path.stem
-    cache_json = CACHE_DIR / f"{stem}.json"
-    
-    if cache_json.exists():
-        try:
-            data = json.loads(cache_json.read_text(encoding="utf-8"))
-            return data.get("pages", [])
-        except Exception:
-            pass
-
-    max_retries = 3
-    for attempt in range(max_retries):
-        try:
-            parser = get_active_parser(tier="agentic", version="latest")
-            docs = parser.load_data(str(pdf_path))
-            if not docs or len(docs) == 0:
-                raise RuntimeError("Empty docs returned from LlamaParse - quota exceeded or credit limit")
-            pages = [{"page": i + 1, "text": d.text} for i, d in enumerate(docs)]
-            
-            # Save cache
-            cache_json.parent.mkdir(parents=True, exist_ok=True)
-            cache_json.write_text(json.dumps({"file": pdf_path.name, "pages": pages}, indent=2), encoding="utf-8")
-            manager.record_success(num_pages=len(pages))
-            return pages
-        except Exception as e:
-            err_msg = str(e).lower()
-            if any(term in err_msg for term in ["429", "quota", "payment required", "credit", "limit exceeded", "exhausted"]):
-                logger.warning(f"Quota exceeded on key {manager.get_current_account_info()['name']}: {e}. Swapping key...")
-                manager.mark_key_exhausted(reason=str(e))
-            else:
-                logger.error(f"Error parsing {pdf_path.name}: {e}")
-            if attempt == max_retries - 1:
-                logger.info(f"Falling back to high-fidelity native PyMuPDF text extraction for {pdf_path.name}")
-                import pymupdf
-                doc = pymupdf.open(pdf_path)
-                pages = [{"page": i + 1, "text": p.get_text()} for i, p in enumerate(doc)]
-                cache_json.parent.mkdir(parents=True, exist_ok=True)
-                cache_json.write_text(json.dumps({"file": pdf_path.name, "pages": pages}, indent=2), encoding="utf-8")
-                return pages
+def _caption(text):
+    t = re.sub(r"\s+", " ", text).strip().lower()
+    return t.replace("tonne- miles", "tonne-miles").replace("(4- week", "(4-week")
 
 
-def _unwrap_plain_text(text: str) -> str:
-    """PyMuPDF text (the no-LlamaParse fallback) wraps every KPI card label over several lines
-    ("YoY change in tonne-" / "miles index"). Join a line break between two lowercase words so the
-    card regexes below match it the way they match LlamaParse markdown. Markdown is left alone."""
-    if "**" in text or "\n## " in text:
-        return text
-    text = re.sub(r"(?<=[a-z,(\-])\n(?=[a-z(])", " ", text)
-    return re.sub(r"(?<=[a-z])- (?=[a-z])", "-", text)
+def read_page_text(page, k):
+    """Tiles, commentary and glossary rows of one page, from its spans."""
+    spans = [s for b in page.get_text("dict")["blocks"] for ln in b.get("lines", []) for s in ln["spans"]
+             if s["text"].strip()]
+    tiles, commentary, glossary = [], None, []
 
+    left = [s for s in spans if s["bbox"][0] < 200 * k]
+    for i, s in enumerate(left):
+        if round(s["size"] / k) == 14 and "Bold" in s["font"] and TILE_RE.fullmatch(s["text"].strip()):
+            cap = []
+            for t in left[i + 1:]:
+                if round(t["size"] / k) != 11 or "Bold" not in t["font"]:
+                    break
+                cap.append(t["text"])
+            if cap:
+                caption = " ".join(" ".join(cap).split()).replace("tonne- miles", "tonne-miles")
+                tiles.append((s["text"].strip(), caption.replace("(4- week", "(4-week")))
 
-def extract_metrics_from_pages(pages: list, pdf_name: str, vessel_cat: str) -> dict:
-    pages = [{**p, "text": _unwrap_plain_text(p.get("text", ""))} for p in pages]
-    full_text = "\n\n--- PAGE BREAK ---\n\n".join([p.get("text", "") for p in pages])
-    p1_text = pages[0].get("text", "") if pages else ""
-    pub_date, week, year = parse_date_week_year(pdf_name, p1_text)
+    marker = next((s for s in spans if s["text"].strip() == "content_summary"), None)
+    if marker:
+        mx0, my0 = marker["bbox"][0], marker["bbox"][1]
+        head = [s for s in spans if "Bold" in s["font"] and s["color"] == 0xFFFFFF and round(s["size"] / k) == 12
+                and abs(s["bbox"][0] - mx0) < 30 * k and 0 < my0 - s["bbox"][1] < 45 * k]
+        body = [s for s in spans if s["color"] == 0x353D42 and abs(s["bbox"][0] - mx0) < 30 * k and s["bbox"][1] > my0]
+        text = " ".join(s["text"] for s in sorted(body, key=lambda s: (s["bbox"][1], s["bbox"][0])))
+        bullets = [" ".join(b.split()) for b in text.split("●") if b.strip()]
+        commentary = (" ".join(" ".join(s["text"] for s in sorted(head, key=lambda s: s["bbox"][1])).split()), bullets)
 
-    sector = vessel_cat.split("_")[0]
-    vessel_class = vessel_cat.split("_")[1]
-
-    record = {
-        "published_date": pub_date,
-        "report_year": year,
-        "report_week": week,
-        "sector": sector,
-        "vessel_class": vessel_class,
-        "vessel_category": vessel_cat,
-        "current_utilisation_pct": None,
-        "mom_utilisation_change_pp": None,
-        "yoy_utilisation_change_pp": None,
-        "tonne_miles_index": None,
-        "tonne_miles_yoy_pct": None,
-        "bunker_price_usd_per_t": None,
-        "bunker_price_mom_pct": None,
-        "ballast_speed_east_mom_pct": None,
-        "ballast_speed_west_mom_pct": None,
-        "anchor_4w_ma_change_mdwt": None,
-        "laden_anchor_days_4w_change_pct": None,
-        "laden_share_east_mom_pp": None,
-        "laden_share_west_mom_pp": None,
-        "commentary_title": "",
-        "commentary_summary": "",
-        "source_file": pdf_name
-    }
-
-    # Search page 2 / overview for Utilisation
-    for p in pages[:3]:
-        txt = p.get("text", "")
-        # Utilisation
-        m_util = re.search(r'\*{0,2}(\d{1,2}\.?\d*)%\*{0,2}\s*[\r\n]+\s*\*{0,2}Current\s+Utilisation\*{0,2}', txt, re.IGNORECASE)
-        if not m_util:
-            m_util = re.search(r'Current\s+Utilisation[:\s*]+\*{0,2}(\d{1,2}\.?\d*)%', txt, re.IGNORECASE)
-        if not m_util:
-            m_util = re.search(r'\*{0,2}(\d{1,2}\.?\d*)%\*{0,2}\s*\n\s*Current\s+Utilisation', txt, re.IGNORECASE)
-        if m_util and record["current_utilisation_pct"] is None:
-            record["current_utilisation_pct"] = float(m_util.group(1))
-
-        # MoM utilisation change
-        m_mom = re.search(r'([▲▼\-+]?\s*[\d\.]+)\s*[\r\n]+\s*\*{0,2}MoM percentage point\s+change in utilisation\*{0,2}', txt, re.IGNORECASE)
-        if m_mom and record["mom_utilisation_change_pp"] is None:
-            val_str = m_mom.group(1).replace(" ", "")
-            sign = -1.0 if any(s in val_str for s in ["▼", "-"]) else 1.0
-            val_num = re.search(r'[\d\.]+', val_str)
-            if val_num: record["mom_utilisation_change_pp"] = sign * float(val_num.group(0))
-
-        # YoY utilisation change
-        m_yoy = re.search(r'([▲▼\-+]?\s*[\d\.]+)\s*[\r\n]+\s*\*{0,2}YoY percentage point\s+change in utilisation\*{0,2}', txt, re.IGNORECASE)
-        if m_yoy and record["yoy_utilisation_change_pp"] is None:
-            val_str = m_yoy.group(1).replace(" ", "")
-            sign = -1.0 if any(s in val_str for s in ["▼", "-"]) else 1.0
-            val_num = re.search(r'[\d\.]+', val_str)
-            if val_num: record["yoy_utilisation_change_pp"] = sign * float(val_num.group(0))
-
-        # Commentary
-        skip_headers = ["utilisation", "ais analytics", "fleet performance", "glossary", "speed", "vessel deployment", "vessel availability", "congestion", "table of contents", "overview"]
-        for m_comm in re.finditer(r'##\s+([A-Za-z0-9\s,\'’–\-:]+)\n\n([\s\S]+?)(?=\n##|\Z)', txt):
-            cand_title = m_comm.group(1).strip()
-            if not any(skip in cand_title.lower() for skip in skip_headers) and len(cand_title) > 10 and not record["commentary_title"]:
-                record["commentary_title"] = cand_title
-                bullets = [b.strip().lstrip("*-•● ") for b in m_comm.group(2).split("\n") if b.strip().startswith(("*", "-", "•", "●"))]
-                record["commentary_summary"] = " | ".join(bullets)
-
-    # Commentary in plain text (no-LlamaParse fallback): "<title>\n1\ncontent_summary\n●\n<bullet>\n●..."
-    if not record["commentary_title"]:
-        for p in pages:
-            # the title can wrap onto a second line; title lines are prose (contain a space), axis labels are not
-            m_cs = re.search(r"\n((?:[A-Za-z][^\n]*? [^\n]{4,160}\n){1,2})\d+\ncontent_summary\n", p.get("text", ""))
-            if not m_cs:
+    if page.get_text().count("Define") and "Glossary" in page.get_text():
+        rows, cur = [], None
+        for s in sorted(spans, key=lambda s: (s["bbox"][1], s["bbox"][0])):
+            x, txt = s["bbox"][0] / k, s["text"].strip()
+            if s["bbox"][1] < 80 * k or txt in ("S No.", "Terms", "Define") or "PowerVisuals" in s["font"]:
                 continue
-            bullets = []
-            for chunk in p["text"][m_cs.end():].split("●")[1:]:
-                kept = []
-                for ln in (x.strip() for x in chunk.strip().split("\n")):
-                    if not ln or (len(ln) < 30 and not ln.endswith(".")):
-                        break       # chart titles / axis labels after the last bullet
-                    kept.append(ln)
-                text = " ".join(kept)
-                if "." in text:
-                    bullets.append(text[: text.rfind(".") + 1])
-            if bullets:
-                record["commentary_title"] = " ".join(m_cs.group(1).split())
-                record["commentary_summary"] = " | ".join(bullets)
-            break
+            if x < 70 and txt.isdigit():
+                cur = [txt, [], []]
+                rows.append(cur)
+            elif cur and 70 <= x < 185:
+                cur[1].append(txt)
+            elif cur and x >= 185:
+                cur[2].append(txt)
+        glossary = [(" ".join(t), " ".join(d)) for _, t, d in rows]
+    return tiles, commentary, glossary
 
-    # Search pages for Tonne-Miles Index, Bunkers, Speeds, Congestion
-    for p in pages:
-        txt = p.get("text", "")
-        # Tonne-miles index
-        m_tmi = re.search(r'\*{0,2}(\d{2,3}\.?\d*)\*{0,2}\s*[\r\n]+\s*\*{0,2}Current\s+tonne-miles\s+index\*{0,2}', txt, re.IGNORECASE)
-        if not m_tmi:
-            m_tmi = re.search(r'Current\s+tonne-miles\s+index[:\s*]+\*{0,2}(\d{2,3}\.?\d*)', txt, re.IGNORECASE)
-        if m_tmi and record["tonne_miles_index"] is None:
-            record["tonne_miles_index"] = float(m_tmi.group(1))
 
-        # YoY Tonne-miles
-        m_tmi_yoy = re.search(r'([▲▼\-+]?\s*[\d\.]+)%\s*[\r\n]+\s*\*{0,2}YoY\s+change in tonne-miles index\*{0,2}', txt, re.IGNORECASE)
-        if m_tmi_yoy and record["tonne_miles_yoy_pct"] is None:
-            val_str = m_tmi_yoy.group(1).replace(" ", "")
-            sign = -1.0 if any(s in val_str for s in ["▼", "-"]) else 1.0
-            val_num = re.search(r'[\d\.]+', val_str)
-            if val_num: record["tonne_miles_yoy_pct"] = sign * float(val_num.group(0))
+def tile_value(raw):
+    m = TILE_RE.fullmatch(raw)
+    v = float(m.group(3).replace(",", ""))
+    return -v if m.group(1) == "▼" else v
 
-        # Bunker price
-        m_bnk = re.search(r'\*{0,2}\$(\d+)\*{0,2}\s*[\r\n]+\s*per tonne price of bunker', txt, re.IGNORECASE)
-        if m_bnk and record["bunker_price_usd_per_t"] is None:
-            record["bunker_price_usd_per_t"] = float(m_bnk.group(1))
 
-        m_bnk_mom = re.search(r'([▲▼\-+]?\s*[\d\.]+)%\s*[\r\n]+\s*MoM\s+change in bunker price', txt, re.IGNORECASE)
-        if m_bnk_mom and record["bunker_price_mom_pct"] is None:
-            val_str = m_bnk_mom.group(1).replace(" ", "")
-            sign = -1.0 if any(s in val_str for s in ["▼", "-"]) else 1.0
-            val_num = re.search(r'[\d\.]+', val_str)
-            if val_num: record["bunker_price_mom_pct"] = sign * float(val_num.group(0))
+def read_report(pdf_path: Path):
+    doc = pymupdf.open(pdf_path)
+    pub, week, year = parse_date_week_year(pdf_path.name, doc[0].get_text())
+    cat = classify_vessel(pdf_path.name)
+    sector, vessel = cat.split("_")
+    record = {f: None for f in FIELDS}
+    record.update(published_date=pub, report_year=year, report_week=week, sector=sector, vessel_class=vessel,
+                  vessel_category=cat, commentary_title="", commentary_summary="", source_file=pdf_path.name)
+    pages = []
+    unmapped = []
+    for page in doc:
+        k = max(1, round(page.rect.width / 996))
+        spans = charts._spans(page)
+        header = [s["text"] for s in spans if s["color"] == 0xFFFFFF and round(s["size"] / k) == 14]
+        name = header[-1] if header else f"Page {page.number + 1}"
+        tiles, commentary, glossary = read_page_text(page, k)
+        for raw, cap in tiles:
+            field = TILES.get(_caption(cap))
+            if field is None:
+                unmapped.append(cap)
+            elif field.endswith("utilisation_change_pp") and abs(tile_value(raw)) > 20:
+                print(f"  {pdf_path.name}: tile '{raw} {cap}' prints a level, not a change; not recorded")
+            elif record[field] is None:
+                record[field] = tile_value(raw)
+        if commentary and not record["commentary_title"]:
+            record["commentary_title"], record["commentary_summary"] = commentary[0], " | ".join(commentary[1])
+        log = []
+        rows = []
+        drawings = None
+        chart_titles = []
+        for title, box in charts._panels(page, spans, k):
+            if commentary and title in commentary[0]:
+                continue
+            drawings = drawings if drawings is not None else page.get_drawings()
+            got = [] if title.lower().startswith(charts.SKIP_CHARTS) else charts.read_chart(page, spans, drawings,
+                                                                                            title, box, log, k)
+            chart_titles.append((title, got))
+            rows.extend(got)
+        pages.append({"page": page.number + 1, "name": name, "tiles": tiles, "commentary": commentary,
+                      "glossary": glossary, "charts": chart_titles})
+    doc.close()
+    if unmapped:
+        print(f"  {pdf_path.name}: unmapped tiles {unmapped}")
+    return record, pages
 
-        # Ballast speed East & West
-        m_spe = re.search(r'([▲▼\-+]?\s*[\d\.]+)%\s*[\r\n]+\s*MoM\s+change in ballast speed in East', txt, re.IGNORECASE)
-        if m_spe and record["ballast_speed_east_mom_pct"] is None:
-            val_str = m_spe.group(1).replace(" ", "")
-            sign = -1.0 if any(s in val_str for s in ["▼", "-"]) else 1.0
-            val_num = re.search(r'[\d\.]+', val_str)
-            if val_num: record["ballast_speed_east_mom_pct"] = sign * float(val_num.group(0))
 
-        m_spw = re.search(r'([▲▼\-+]?\s*[\d\.]+)%\s*[\r\n]+\s*MoM\s+change in ballast speed in West', txt, re.IGNORECASE)
-        if m_spw and record["ballast_speed_west_mom_pct"] is None:
-            val_str = m_spw.group(1).replace(" ", "")
-            sign = -1.0 if any(s in val_str for s in ["▼", "-"]) else 1.0
-            val_num = re.search(r'[\d\.]+', val_str)
-            if val_num: record["ballast_speed_west_mom_pct"] = sign * float(val_num.group(0))
+def _fmt(v):
+    return f"{v:g}"
 
-        # Tonnage at anchor 4W MA
-        m_anc = re.search(r'([▲▼\-+]?\s*[\d\.]+)\s*[\r\n]+\s*mdwt change in tonnage at anchor \(4-week moving average\)', txt, re.IGNORECASE)
-        if m_anc and record["anchor_4w_ma_change_mdwt"] is None:
-            val_str = m_anc.group(1).replace(" ", "")
-            sign = -1.0 if any(s in val_str for s in ["▼", "-"]) else 1.0
-            val_num = re.search(r'[\d\.]+', val_str)
-            if val_num: record["anchor_4w_ma_change_mdwt"] = sign * float(val_num.group(0))
 
-        # Laden anchor days 4W MA change
-        m_lad = re.search(r'([▲▼\-+]?\s*[\d\.]+)%\s*[\r\n]+\s*change in laden anchor days \(4-week moving average\)', txt, re.IGNORECASE)
-        if m_lad and record["laden_anchor_days_4w_change_pct"] is None:
-            val_str = m_lad.group(1).replace(" ", "")
-            sign = -1.0 if any(s in val_str for s in ["▼", "-"]) else 1.0
-            val_num = re.search(r'[\d\.]+', val_str)
-            if val_num: record["laden_anchor_days_4w_change_pct"] = sign * float(val_num.group(0))
+def _latest(rows):
+    """One line per series: the latest point of each line on the chart."""
+    out = []
+    by = {}
+    for r in rows:
+        by.setdefault((r["series"], r["axis"]), []).append(r)
+    for (series, axis), rs in by.items():
+        if axis == "seasonal":
+            years = sorted({r["year"] for r in rs})
+            last = max(rs, key=lambda r: (r["year"], r["week"]))
+            label = (series + " " if series else "") + f"one line per year {years[0]}-{years[-1]}"
+            out.append(f"{label}; latest {last['year']} week {last['week']}: {_fmt(last['value'])}")
+        else:
+            first = min(rs, key=lambda r: (r["year"], r["week"]))
+            last = max(rs, key=lambda r: (r["year"], r["week"]))
+            label = (series + ": " if series else "") + (f"weekly {first['year']}-W{first['week']:02d} to "
+                                                         f"{last['year']}-W{last['week']:02d}")
+            out.append(f"{label}; latest {_fmt(last['value'])}")
+    return sorted(out)
 
-        # Laden share East & West
-        m_lse = re.search(r'([▲▼\-+]?\s*[\d\.]+)\s*[\r\n]+\s*MoM percentage point change in the share of laden vessels in East', txt, re.IGNORECASE)
-        if m_lse and record["laden_share_east_mom_pp"] is None:
-            val_str = m_lse.group(1).replace(" ", "")
-            sign = -1.0 if any(s in val_str for s in ["▼", "-"]) else 1.0
-            val_num = re.search(r'[\d\.]+', val_str)
-            if val_num: record["laden_share_east_mom_pp"] = sign * float(val_num.group(0))
 
-        m_lsw = re.search(r'([▲▼\-+]?\s*[\d\.]+)\s*[\r\n]+\s*MoM percentage point change in the share of laden vessels in West', txt, re.IGNORECASE)
-        if m_lsw and record["laden_share_west_mom_pp"] is None:
-            val_str = m_lsw.group(1).replace(" ", "")
-            sign = -1.0 if any(s in val_str for s in ["▼", "-"]) else 1.0
-            val_num = re.search(r'[\d\.]+', val_str)
-            if val_num: record["laden_share_west_mom_pp"] = sign * float(val_num.group(0))
+def render_md(record, pages, pdf_path: Path, frontmatter=None):
+    cat = record["vessel_category"]
+    sector, vessel = cat.split("_")
+    week, year, pub = record["report_week"], record["report_year"], record["published_date"]
+    source_rel = f"corpus/06-drewry/ais/{pdf_path.name}"
+    title = f"Drewry AIS Fleet Performance Indicators - {sector} {vessel} (Week {week}, {year})"
+    if frontmatter is None:
+        frontmatter = "\n".join([
+            "---", f'title: "{title}"', f'issue_date: "{pub}"', f"year: {year}", f"report_week: {week}",
+            'publisher: "Drewry Maritime Research"', 'category: "ais_analytics"', f'sector: "{sector}"',
+            f'vessel_class: "{vessel}"', f"current_utilisation_pct: {record['current_utilisation_pct']}",
+            f"mom_utilisation_change_pp: {record['mom_utilisation_change_pp']}",
+            f"yoy_utilisation_change_pp: {record['yoy_utilisation_change_pp']}",
+            f"bunker_price_usd_per_t: {record['bunker_price_usd_per_t']}", f'source_file: "{source_rel}"',
+            f"pages: {len(pages)}", "---"]) + "\n"
+    L = [f"# {title}", "",
+         f"**Publisher:** Drewry Maritime Research | **Issue Date:** {pub} | **Report Week:** Week {week:02d}, {year}",
+         f"**Source Document:** `{source_rel}`", "",
+         "Chart lines are read exactly from the report's vector paths; the full weekly history of every line is in "
+         "`data/extracted/series/drewry_ais_chart_series.csv`. Lines plotted on a right axis (Baltic spot rates, "
+         "bunker price) are not read.", ""]
+    for p in pages[1:]:
+        if not (p["tiles"] or p["commentary"] or p["charts"] or p["glossary"]):
+            continue
+        L += ["---", "", f"## {p['name']}", ""]
+        for raw, cap in p["tiles"]:
+            L.append(f"- **{cap}:** {raw}")
+        if p["tiles"]:
+            L.append("")
+        if p["commentary"]:
+            head, bullets = p["commentary"]
+            L += [f"### {head}", ""] + [f"- {b}" for b in bullets] + [""]
+        for ctitle, rows in p["charts"]:
+            L.append(f"### {ctitle}")
+            L.append("")
+            if rows:
+                unit = rows[0]["unit"]
+                L += [f"- {line}" + (f" ({unit})" if unit else "") for line in _latest(rows)]
+            elif ctitle.lower().startswith(charts.SKIP_CHARTS):
+                L.append("- Bar chart of the month-on-month change of the fleet-performance lines; not read.")
+            else:
+                L.append("- Chart not read: its axes could not be calibrated exactly.")
+            L.append("")
+        if p["glossary"]:
+            L += [f"- **{t}:** {d}" for t, d in p["glossary"]] + [""]
+    return frontmatter + "\n" + "\n".join(L).rstrip() + "\n"
 
+
+def write_report(pdf_path: Path):
+    record, pages = read_report(pdf_path)
+    cat = record["vessel_category"]
+    md_dir = MD_BASE_DIR / cat
+    md_dir.mkdir(parents=True, exist_ok=True)
+    md_path = md_dir / f"{pdf_path.stem}.md"
+    front = None
+    if md_path.exists():    # keep an existing frontmatter, filling only the KPI fields it left empty
+        old = md_path.read_text(encoding="utf-8")
+        m = re.match(r"---\n.*?\n---\n", old, re.S)
+        front = m.group(0) if m else None
+        for key in ("current_utilisation_pct", "mom_utilisation_change_pp", "yoy_utilisation_change_pp",
+                    "bunker_price_usd_per_t"):
+            if front and record[key] is not None:
+                front = front.replace(f"\n{key}: None\n", f"\n{key}: {record[key]}\n")
+    md_path.write_text(render_md(record, pages, pdf_path, front), encoding="utf-8", newline="\n")
+    (md_dir / f"{pdf_path.stem}.tables.json").write_text(json.dumps(record, indent=2, ensure_ascii=False) + "\n",
+                                                         encoding="utf-8", newline="\n")
     return record
 
 
-from concurrent.futures import ThreadPoolExecutor, as_completed
-
-
-def clean_drewry_text(text: str) -> str:
-    lines = []
-    for line in text.splitlines():
-        s = line.strip()
-        if not s:
-            lines.append("")
-            continue
-        if re.match(r"^logo:\s*", s, re.I):
-            continue
-        if re.match(r"^icon:\s*", s, re.I):
-            continue
-        if re.match(r"^<!--\s*Page\s*\d+\s*-->", s, re.I):
-            continue
-        if "--- PAGE BREAK ---" in s:
-            continue
-        if "vessel deployment | speed | vessel avail" in s.lower():
-            continue
-        lines.append(line)
-        
-    cleaned = "\n".join(lines).strip()
-    return re.sub(r"\n{3,}", "\n\n", cleaned)
-
-
-def render_clean_drewry_md(record: dict, pages: list, pdf_path: Path, cat: str) -> str:
-    week = record.get("report_week") or 0
-    year = record.get("report_year") or 2026
-    pub_date = record.get("published_date") or f"{year}-01-01"
-    
-    parts = cat.split("_")
-    sector = parts[0] if len(parts) > 0 else "Fleet"
-    vessel = parts[1] if len(parts) > 1 else cat
-    title_vessel = f"{sector} {vessel}"
-    source_rel = f"corpus/06-drewry/ais/{pdf_path.name}"
-    
-    util_val = f"{record.get('current_utilisation_pct'):.1f}%" if record.get('current_utilisation_pct') is not None else "-"
-    mom_val = f"{record.get('mom_utilisation_change_pp'):+.1f} pp" if record.get('mom_utilisation_change_pp') is not None else "-"
-    yoy_val = f"{record.get('yoy_utilisation_change_pp'):+.1f} pp" if record.get('yoy_utilisation_change_pp') is not None else "-"
-    
-    bnk_val = f"${record.get('bunker_price_usd_per_t'):.0f}/t" if record.get('bunker_price_usd_per_t') is not None else "-"
-    bnk_mom = f"{record.get('bunker_price_mom_pct'):+.1f}%" if record.get('bunker_price_mom_pct') is not None else "-"
-    tmi_val = f"{record.get('tonne_miles_index'):.1f}" if record.get('tonne_miles_index') is not None else "-"
-    tmi_yoy = f"{record.get('tonne_miles_yoy_pct'):+.1f}%" if record.get('tonne_miles_yoy_pct') is not None else "-"
-    
-    spe = f"{record.get('ballast_speed_east_mom_pct'):+.1f}%" if record.get('ballast_speed_east_mom_pct') is not None else "-"
-    spw = f"{record.get('ballast_speed_west_mom_pct'):+.1f}%" if record.get('ballast_speed_west_mom_pct') is not None else "-"
-    
-    anc = f"{record.get('anchor_4w_ma_change_mdwt'):+.2f} mdwt" if record.get('anchor_4w_ma_change_mdwt') is not None else "-"
-    lad = f"{record.get('laden_anchor_days_4w_change_pct'):+.1f}%" if record.get('laden_anchor_days_4w_change_pct') is not None else "-"
-    
-    lse = f"{record.get('laden_share_east_mom_pp'):+.1f} pp" if record.get('laden_share_east_mom_pp') is not None else "-"
-    lsw = f"{record.get('laden_share_west_mom_pp'):+.1f} pp" if record.get('laden_share_west_mom_pp') is not None else "-"
-
-    L = [
-        "---",
-        f'title: "Drewry AIS Fleet Performance Indicators - {title_vessel} (Week {week}, {year})"',
-        f'issue_date: "{pub_date}"',
-        f'year: {year}',
-        f'report_week: {week}',
-        'publisher: "Drewry Maritime Research"',
-        'category: "ais_analytics"',
-        f'sector: "{sector}"',
-        f'vessel_class: "{vessel}"',
-        f'current_utilisation_pct: {record.get("current_utilisation_pct")}',
-        f'mom_utilisation_change_pp: {record.get("mom_utilisation_change_pp")}',
-        f'yoy_utilisation_change_pp: {record.get("yoy_utilisation_change_pp")}',
-        f'bunker_price_usd_per_t: {record.get("bunker_price_usd_per_t")}',
-        f'source_file: "{source_rel}"',
-        f'pages: {len(pages)}',
-        "---",
-        "",
-        f"# Drewry AIS Fleet Performance Indicators - {title_vessel} (Week {week}, {year})",
-        "",
-        f"**Publisher:** Drewry Maritime Research | **Issue Date:** {pub_date} | **Report Week:** Week {week:02d}, {year}",
-        f"**Source Document:** `{source_rel}`",
-        "",
-        "---",
-        "",
-        "## Executive Summary & Fleet Indicators",
-        "",
-        "| Indicator | Value | MoM Change | YoY Change |",
-        "| :--- | :---: | :---: | :---: |",
-        f"| **Fleet Utilisation** | {util_val} | {mom_val} | {yoy_val} |",
-        f"| **Bunker Fuel Price** | {bnk_val} | {bnk_mom} | - |",
-        f"| **Tonne-Miles Demand Index** | {tmi_val} | - | {tmi_yoy} |",
-        f"| **Ballast Speed (East / West)** | - | {spe} / {spw} | - |",
-        f"| **Tonnage at Anchor (4W MA)** | {anc} | - | - |",
-        f"| **Laden Anchor Days (4W MA)** | {lad} | - | - |",
-        f"| **Laden Fleet Share (East / West)** | - | {lse} / {lsw} | - |",
-        "",
-        "---",
-        ""
-    ]
-
-    comm_title = record.get("commentary_title")
-    comm_summary = record.get("commentary_summary")
-    if comm_title or comm_summary:
-        L += ["## Market Commentary", ""]
-        if comm_title:
-            L += [f"### {comm_title}", ""]
-        if comm_summary:
-            bullets = comm_summary.split(" | ")
-            for b in bullets:
-                L += [f"- {b.strip()}", ""]
-        L += ["---", ""]
-
-    for p in pages[1:]:
-        pno = p.get("page")
-        ptxt = clean_drewry_text(p.get("text", ""))
-        if ptxt:
-            L.append(f"## Section {pno - 1}: Detailed Indicators (Page {pno})")
-            L.append("")
-            L.append(ptxt)
-            L.append("")
-            L.append("---")
-            L.append("")
-
-    return "\n".join(L)
-
-
-def process_single_pdf(pdf_path: Path, cat: str) -> dict:
-    stem = pdf_path.stem
-    try:
-        pages = parse_drewry_pdf_with_llamaparse(pdf_path)
-        
-        # Extract metrics
-        record = extract_metrics_from_pages(pages, pdf_path.name, cat)
-
-        # Save structured markdown file
-        md_dir = MD_BASE_DIR / cat
-        md_dir.mkdir(parents=True, exist_ok=True)
-        md_path = md_dir / f"{stem}.md"
-        
-        full_md = render_clean_drewry_md(record, pages, pdf_path, cat)
-        md_path.write_text(full_md, encoding="utf-8")
-
-        # Save table sidecar JSON
-        sidecar_path = md_dir / f"{stem}.tables.json"
-        sidecar_path.write_text(json.dumps(record, indent=2), encoding="utf-8")
-
-        logger.info(f"[{cat}] DONE: {pdf_path.name} | Util: {record.get('current_utilisation_pct')}%")
-        return {"stem": stem, "record": record, "pages": len(pages), "cat": cat}
-    except Exception as e:
-        logger.error(f"[{cat}] FAILED {pdf_path.name}: {e}")
-        return {"stem": stem, "error": str(e), "cat": cat}
-
-
-def _upsert_drewry_ais_csv(csv_path: Path, new_records: list):
-    """Non-destructively upsert Drewry AIS records into vessel category series CSV."""
-    if not new_records:
-        return
-    df_new = pd.DataFrame(new_records)
-    if csv_path.exists() and csv_path.stat().st_size > 0:
-        try:
-            df_existing = pd.read_csv(csv_path)
-            df = pd.concat([df_existing, df_new], ignore_index=True)
-            dedup_cols = [c for c in ["source_file", "published_date", "report_year", "report_week"] if c in df.columns]
-            if dedup_cols:
-                df = df.drop_duplicates(subset=["source_file"] if "source_file" in df.columns else dedup_cols, keep="last")
-        except Exception as e:   # never fall back to the new rows alone: that truncates the history
-            raise RuntimeError(f"cannot read {csv_path.name}; refusing to overwrite it with {len(df_new)} new rows") from e
-    else:
-        df = df_new
-    sort_cols = [c for c in ["report_year", "report_week", "published_date"] if c in df.columns]
-    if sort_cols:
-        df = df.sort_values(by=sort_cols).reset_index(drop=True)
-    df.to_csv(csv_path, index=False)
-    logger.info(f"Successfully upserted {len(new_records)} records ({len(df)} total rows) to {csv_path.name}!")
+def _upsert(cat, records):
+    path = SERIES_DIR / f"drewry_ais_{cat.lower()}_series.csv"
+    rows = {}
+    if path.exists():
+        with open(path, encoding="utf-8", newline="") as f:
+            for r in csv.DictReader(f):
+                rows[r["source_file"]] = {k: r.get(k, "") for k in FIELDS}
+    for rec in records:
+        rows[rec["source_file"]] = {k: "" if rec[k] is None else rec[k] for k in FIELDS}
+    out = sorted(rows.values(), key=lambda r: (int(r["report_year"] or 0), int(r["report_week"] or 0),
+                                               r["source_file"]))
+    with open(path, "w", encoding="utf-8", newline="") as f:
+        w = csv.DictWriter(f, fieldnames=FIELDS, lineterminator="\n")
+        w.writeheader()
+        w.writerows(out)
 
 
 def extract_drewry_ais(pdf_path: Path, dry_run: bool = False) -> dict:
-    """Specialized Drewry AIS extractor entrypoint for incremental orchestrator."""
+    """Entry point for the incremental orchestrator."""
+    pdf_path = Path(pdf_path)
     cat = classify_vessel(pdf_path.name)
     if dry_run:
-        pub_date, week, year = parse_date_week_year(pdf_path.name)
-        return {"stem": pdf_path.stem, "issue_date": pub_date, "report_week": week, "cat": cat}
-    res = process_single_pdf(pdf_path, cat)
-    if "record" in res and "error" not in res:
-        csv_path = SERIES_DIR / f"drewry_ais_{cat.lower()}_series.csv"
-        _upsert_drewry_ais_csv(csv_path, [res["record"]])
-    return res
+        pub, week, _ = parse_date_week_year(pdf_path.name)
+        return {"stem": pdf_path.stem, "issue_date": pub, "report_week": week, "cat": cat}
+    rec = write_report(pdf_path)
+    _upsert(cat, [rec])
+    return {"stem": pdf_path.stem, "record": rec, "cat": cat}
 
 
-def run_pipeline():
-    ais_dir = REPO_ROOT / "corpus" / "06-drewry" / "ais"
-    pdf_files = sorted(list(ais_dir.glob("*.pdf")))
-    logger.info(f"Found {len(pdf_files)} Drewry AIS PDFs to process.")
-
-    state = load_run_state()
-    done = state.get("done", {})
-
-    # Segregate by vessel category
-    vessel_files = defaultdict(list)
-    for f in pdf_files:
-        cat = classify_vessel(f.name)
-        vessel_files[cat].append(f)
-
-    logger.info("Vessel breakdown:")
-    for cat in VESSEL_CATEGORIES:
-        logger.info(f"  {cat}: {len(vessel_files[cat])} PDFs")
-
-    # Process each category strictly in isolation
-    for cat in VESSEL_CATEGORIES:
-        flist = vessel_files[cat]
-        logger.info(f"\n=======================================================")
-        logger.info(f"STARTING VESSEL CATEGORY: {cat} ({len(flist)} PDFs)")
-        logger.info(f"=======================================================")
-
-        category_records = []
-        
-        # Filter files already done
-        remaining = [f for f in flist if f.stem not in done]
-        already_done = [f for f in flist if f.stem in done]
-        
-        # Load and refresh cached records for already done
-        for f in already_done:
-            cache_json = CACHE_DIR / f"{f.stem}.json"
-            if cache_json.exists():
-                try:
-                    data = json.loads(cache_json.read_text(encoding="utf-8"))
-                    pages = data.get("pages", [])
-                    if pages:
-                        rec = extract_metrics_from_pages(pages, f.name, cat)
-                        category_records.append(rec)
-                        sidecar = MD_BASE_DIR / cat / f"{f.stem}.tables.json"
-                        sidecar.write_text(json.dumps(rec, indent=2), encoding="utf-8")
-                        if f.stem in done:
-                            done[f.stem]["utilisation"] = rec.get("current_utilisation_pct")
-                        continue
-                except Exception:
-                    pass
-            sidecar = MD_BASE_DIR / cat / f"{f.stem}.tables.json"
-            if sidecar.exists():
-                try:
-                    category_records.append(json.loads(sidecar.read_text(encoding="utf-8")))
-                except Exception:
-                    remaining.append(f)
-            else:
-                remaining.append(f)
-
-        state["done"] = done
-        save_run_state(state)
-
-        logger.info(f"[{cat}] Already cached: {len(category_records)} | To process: {len(remaining)}")
-
-        if remaining:
-            with ThreadPoolExecutor(max_workers=5) as executor:
-                futures = {executor.submit(process_single_pdf, f, cat): f for f in remaining}
-                for fut in as_completed(futures):
-                    res = fut.result()
-                    stem = res.get("stem")
-                    if "error" in res:
-                        state.setdefault("failed", {})[stem] = res["error"]
-                    else:
-                        category_records.append(res["record"])
-                        done[stem] = {
-                            "timestamp": pd.Timestamp.now(tz="UTC").isoformat(),
-                            "category": cat,
-                            "pages": res["pages"],
-                            "utilisation": res["record"].get("current_utilisation_pct")
-                        }
-                    state["done"] = done
-                    save_run_state(state)
-
-        # Build vessel-segregated series CSV immediately after category finishes
-        if category_records:
-            csv_path = SERIES_DIR / f"drewry_ais_{cat.lower()}_series.csv"
-            _upsert_drewry_ais_csv(csv_path, category_records)
-
-    logger.info("Drewry AIS pipeline complete across all 10 vessel classes.")
+def run_pipeline(paths=None):
+    pdfs = [Path(p) for p in paths] if paths else sorted(AIS_DIR.glob("*.pdf")) if AIS_DIR.is_dir() else []
+    by_cat = {}
+    for pdf in pdfs:
+        cat = classify_vessel(pdf.name)
+        if cat == "Unknown":
+            print(f"skip {pdf.name}: unknown vessel class")
+            continue
+        by_cat.setdefault(cat, []).append(write_report(pdf))
+    for cat, recs in by_cat.items():
+        _upsert(cat, recs)
+        print(f"{cat}: {len(recs)} reports")
 
 
 if __name__ == "__main__":
-    run_pipeline()
+    run_pipeline([a for a in sys.argv[1:] if not a.startswith("-")] or None)

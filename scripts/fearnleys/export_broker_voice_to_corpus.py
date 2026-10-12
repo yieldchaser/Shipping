@@ -37,7 +37,9 @@ DERIVED_CSV = BASE_DIR / "data" / "derived" / "fearnleys_broker_comments.csv"
 VOICE_CORPUS_ROOT = BASE_DIR / "corpus" / "01-brokers" / "fearnleys" / "voice"
 VOICE_MD_ROOT = BASE_DIR / "data" / "extracted" / "md" / "fearnleys" / "voice"
 
-# 100% mapping of all distinct comment types across Fearnleys Hasura database
+# Comment types written as MDs. The ten tanker route-trend types (WAFR/UKC, WAFR/USG, CROSS MED, MEG/EAST,
+# BITR-1/2/3, BOT/WEST, CEYHAN/USG, BLSEA/MED; subtype "trend") carry a one- or two-word label per week
+# ("Steady", "Softer"), not prose: they stay as structured rows in fearnleys_broker_comments.csv and get no MD.
 DESK_MAPPING = {
     # Tankers
     "VLCC Weekly Comment": {
@@ -51,36 +53,6 @@ DESK_MAPPING = {
     },
     "Tank Activity": {
         "sector": "tankers", "sector_title": "Tanker Activity", "slug": "tank_activity", "desk": "Tanker Activity"
-    },
-    "WAFR/UKC": {
-        "sector": "tankers", "sector_title": "Tanker Route Trends", "slug": "routes_wafr_ukc", "desk": "WAFR/UKC"
-    },
-    "WAFR/USG": {
-        "sector": "tankers", "sector_title": "Tanker Route Trends", "slug": "routes_wafr_usg", "desk": "WAFR/USG"
-    },
-    "CROSS MED": {
-        "sector": "tankers", "sector_title": "Tanker Route Trends", "slug": "routes_cross_med", "desk": "CROSS MED"
-    },
-    "MEG/EAST": {
-        "sector": "tankers", "sector_title": "Tanker Route Trends", "slug": "routes_meg_east", "desk": "MEG/EAST"
-    },
-    "BITR-1": {
-        "sector": "tankers", "sector_title": "Tanker Route Trends", "slug": "routes_bitr_1", "desk": "BITR-1"
-    },
-    "BITR-2": {
-        "sector": "tankers", "sector_title": "Tanker Route Trends", "slug": "routes_bitr_2", "desk": "BITR-2"
-    },
-    "BITR-3": {
-        "sector": "tankers", "sector_title": "Tanker Route Trends", "slug": "routes_bitr_3", "desk": "BITR-3"
-    },
-    "BOT/WEST": {
-        "sector": "tankers", "sector_title": "Tanker Route Trends", "slug": "routes_bot_west", "desk": "BOT/WEST"
-    },
-    "CEYHAN/USG": {
-        "sector": "tankers", "sector_title": "Tanker Route Trends", "slug": "routes_ceyhan_usg", "desk": "CEYHAN/USG"
-    },
-    "BLSEA/MED": {
-        "sector": "tankers", "sector_title": "Tanker Route Trends", "slug": "routes_blsea_med", "desk": "BLSEA/MED"
     },
     # Dry Bulk
     "Capesize Weekly Comment": {

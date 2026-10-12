@@ -14,11 +14,13 @@
   "bunker_price_mom_pct": 0.3,
   "ballast_speed_east_mom_pct": -8.9,
   "ballast_speed_west_mom_pct": -4.1,
+  "anchor_capacity_west_mom_pct": -25.4,
+  "anchor_capacity_east_mom_pct": 11.1,
   "anchor_4w_ma_change_mdwt": 0.5,
   "laden_anchor_days_4w_change_pct": -4.2,
   "laden_share_east_mom_pp": 2.4,
   "laden_share_west_mom_pp": 7.8,
-  "commentary_title": "",
-  "commentary_summary": "",
+  "commentary_title": "LR1 fundamentals strengthened as rising tonne-mile demand and vessel utilisation supported freight earnings.",
+  "commentary_summary": "LR1 market conditions improved over the week, with utilisation rising to 92.0% and freight earnings strengthening as cargo demand absorbed available tonnage. The tonne-mile index rose to 105.2, remaining well above year-ago levels and indicating that longer-haul product movements continued to support vessel employment and fleet absorption. | Regional trends were mixed but generally constructive. Eastern activity strengthened, with higher underway tonnage and anchorage volumes reflecting active cargo activity. Laden tonnage at anchor increased in China and parts of the Atlantic Basin, suggesting localized congestion and stronger discharge activity, while India and the Pacific showed smoother vessel turnaround and cargo clearance. | Stronger tonne-mile demand, rising cargo employment and slower ballast repositioning more than offset the gradual rise in ballast vessel availability across parts of Asia. As a result, vessel utilisation improved and spot earnings remained well supported, with fundamentals continuing to favour owners near term.",
   "source_file": "Drewry_AIS_Product_LR1_Week37_2026.pdf"
 }

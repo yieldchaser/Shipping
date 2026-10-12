@@ -14,11 +14,13 @@
   "bunker_price_mom_pct": -3.3,
   "ballast_speed_east_mom_pct": -2.6,
   "ballast_speed_west_mom_pct": -4.4,
+  "anchor_capacity_west_mom_pct": 11.5,
+  "anchor_capacity_east_mom_pct": -5.2,
   "anchor_4w_ma_change_mdwt": -0.3,
   "laden_anchor_days_4w_change_pct": -7.6,
   "laden_share_east_mom_pp": 3.1,
   "laden_share_west_mom_pp": 1.4,
-  "commentary_title": "Change in trading status - MoM",
-  "commentary_summary": "",
+  "commentary_title": "VLGC rates ease but maintain good levels",
+  "commentary_summary": "Spot rates on the AG-Japan and US-Japan routes declined by 6% and 2% WoW, respectively, amid increased fixtures absorbing vessels | China's LPG demand is projected to fall, leading to increased vessel availability. Japan and South Korean import demand muted despite open arbitrage. | Drewry's laden tonnage at anchor- China indicator showcases a rise in vessels waiting to discharge following the second tariff pause between US and China. | Meanwhile, Drewry's LPG tonne-mile Index improved due to the surge in US-China LPG trade. | The impact of the USTR regulations on LPG shipping remains insignificant with under 10% of VLGCs affected, already being reprogrammed away from US trade.",
   "source_file": "Drewry_AIS_PDF_LPG_FR_Week39_20251.pdf"
 }

@@ -20,402 +20,181 @@ pages: 9
 **Publisher:** Drewry Maritime Research | **Issue Date:** 2025-07-01 | **Report Week:** Week 26, 2025
 **Source Document:** `corpus/06-drewry/ais/Drewry_AIS_PDF_Product_LR1_Week26_20251.pdf`
 
----
-
-## Executive Summary & Fleet Indicators
-
-| Indicator | Value | MoM Change | YoY Change |
-| :--- | :---: | :---: | :---: |
-| **Fleet Utilisation** | 90.8% | -1.0 pp | +0.7 pp |
-| **Bunker Fuel Price** | $523/t | - | - |
-| **Tonne-Miles Demand Index** | 79.4 | - | -16.5% |
-| **Ballast Speed (East / West)** | - | - / - | - |
-| **Tonnage at Anchor (4W MA)** | +0.20 mdwt | - | - |
-| **Laden Anchor Days (4W MA)** | +13.2% | - | - |
-| **Laden Fleet Share (East / West)** | - | -2.1 pp / -8.0 pp | - |
+Chart lines are read exactly from the report's vector paths; the full weekly history of every line is in `data/extracted/series/drewry_ais_chart_series.csv`. Lines plotted on a right axis (Baltic spot rates, bunker price) are not read.
 
 ---
 
-## Market Commentary
+## Overview
+
+- **MoM percentage point change in utilisation:** ▼ 1.0
+- **YoY percentage point change in utilisation:** ▲ 0.7
+- **Current Utilisation:** 90.8%
 
 ### Build up in tonnage to weaken freight rates
 
 - It was a mixed week for the LR1 market as the West of Suez fared better than the East side. The demand for CPP is rising towards Europe due to the peak summer months, which have increased tonnage demand in the region. The tonne-miles index improved last week, ending at 79.4 points. While utilisation has been declining in recent weeks, an improvement will likely occur soon.
-
 - The LR1 market towards the East was quiet last week, with easing tensions in the Middle East weighing down on freight rates. However, with tonnage supply likely to build up further in the coming weeks, freight rates will likely continue to weaken.
 
----
+### Utilisation
 
-## Section 1: Detailed Indicators (Page 2)
+- one line per year 2024-2025; latest 2025 week 25: 90.76 (%)
 
-**90.8%**
+### Utilisation vs Baltic rates
 
-Current Utilisation
-
-▼ 1.0
-
-MoM percentage point change in utilisation
-
-▲ 0.7
-
-YoY percentage point change in utilisation
-
-## Utilisation
-
-| Week | 2024 | 2025 |
-| ---- | ---- | ---- |
-| 10   | 91.5 | 92.5 |
-| 20   | 94.5 | 93.5 |
-| 30   | 90.5 | 89.5 |
-| 40   | 91.5 | 90.5 |
-| 50   | 90.5 | 88.5 |
-
-## Utilisation vs Baltic rates
-
-| Date     | Utilisation | TC5 (right axis) |
-| -------- | ----------- | ---------------- |
-| Jul 2022 | 92.5        | 150              |
-| Jan 2023 | 91.5        | 250              |
-| Jul 2023 | 90.5        | 180              |
-| Jan 2024 | 91.5        | 350              |
-| Jul 2024 | 89.5        | 120              |
-| Jan 2025 | 91.5        | 180              |
-
-## Build up in tonnage to weaken freight rates
-
-1 content_summary
-
-* It was a mixed week for the LR1 market as the West of Suez fared better than the East side. The demand for CPP is rising towards Europe due to the peak summer months, which have increased tonnage demand in the region. The tonne-miles index improved last week, ending at 79.4 points. While utilisation has been declining in recent weeks, an improvement will likely occur soon.
-
-* The LR1 market towards the East was quiet last week, with easing tensions in the Middle East weighing down on freight rates. However, with tonnage supply likely to build up further in the coming weeks, freight rates will likely continue to weaken.
+- Utilisation: weekly 2021-W52 to 2025-W25; latest 90.76 (%)
 
 ---
 
-## Section 2: Detailed Indicators (Page 3)
+## Vessel deployment
 
-LR1 Vessel deployment Week 26 | 2025
+- **MoM change in vessels' capacity at anchor in West:** ▼ 10.1%
+- **MoM change in vessels' capacity at anchor in East:** ▲ 8.1%
+- **Current tonne-miles index:** 79.4
+- **YoY change in tonne-miles index:** ▼ 16.5%
 
-▼ 10.1%
-**MoM change in vessels' capacity at anchor in West**
+### Tonne-miles index (base: week 1, 2024 =100)
 
-▲ 8.1%
-**MoM change in vessels' capacity at anchor in East**
+- one line per year 2024-2025; latest 2025 week 26: 79.42 (index)
 
-**79.4**
-**Current tonne-miles index**
+### Change in trading status - MoM
 
-▼ 16.5%
-**YoY change in tonne-miles index**
+- Bar chart of the month-on-month change of the fleet-performance lines; not read.
 
-Tonne-miles index (base: week 1, 2024 =100)
+### Global ballast speed
 
-| Week | 2024 | 2025 |
-| ---- | ---- | ---- |
-| 10   | 105  | 85   |
-| 20   | 95   | 88   |
-| 30   | 85   | 82   |
-| 40   | 82   | 80   |
-| 50   | 75   |      |
+- one line per year 2024-2025; latest 2025 week 26: 10.54 (knots)
 
-Global ballast speed
+### Global laden speed
 
-| Week | 2024 (knots) | 2025 (knots) |
-| ---- | ------------ | ------------ |
-| 10   | 9.5          | 9.0          |
-| 20   | 9.8          | 9.2          |
-| 30   | 9.2          | 9.0          |
-| 40   | 9.0          | 8.8          |
-| 50   | 8.2          | 8.5          |
-
-Change in trading status - MoM
-
-| Status    | East (%) | West (%) |
-| --------- | -------- | -------- |
-| underway  | 10       | -12      |
-| at anchor | 8        | -11      |
-| in port   | -21      | 4        |
-
-Global laden speed
-
-| Week | 2024 (knots) | 2025 (knots) |
-| ---- | ------------ | ------------ |
-| 10   | 10.5         | 10.8         |
-| 20   | 9.8          | 10.5         |
-| 30   | 10.5         | 10.2         |
-| 40   | 11.2         | 10.8         |
-| 50   | 10.8         |              |
+- one line per year 2024-2025; latest 2025 week 26: 10.4 (knots)
 
 ---
 
-## Section 3: Detailed Indicators (Page 4)
+## Speed
 
-**$523**
-per tonne price of bunker at the end of the week
-
-▲ 3.5%
-**MoM change in bunker price**
-
-▼ 3.0%
-**MoM change in ballast speed in East**
-
-▲ 26.0%
-**MoM change in ballast speed in West**
+- **MoM change in ballast speed in East:** ▼ 3.0%
+- **MoM change in bunker price:** ▲ 3.5%
+- **MoM change in ballast speed in West:** ▲ 26.0%
+- **per tonne price of bunker at the end of the week:** $523
 
 ### Ballast speed vs bunker price
 
-| Date     | Speed in West (knots) | Speed in East (knots) | Bunker price ($/tonne) |
-| -------- | --------------------- | --------------------- | ---------------------- |
-| Jul 2022 | 8.0                   | 8.5                   | 750                    |
-| Jan 2023 | 9.5                   | 8.5                   | 800                    |
-| Jul 2023 | 8.5                   | 8.5                   | 700                    |
-| Jan 2024 | 8.0                   | 8.5                   | 750                    |
-| Jul 2024 | 8.5                   | 8.5                   | 750                    |
-| Jan 2025 | 7.5                   | 8.0                   | 650                    |
-| Jul 2025 | 9.0                   | 8.0                   | 700                    |
+- Speed in East: weekly 2021-W52 to 2025-W26; latest 8.718 (knots)
+- Speed in West: weekly 2021-W52 to 2025-W26; latest 8.806 (knots)
 
 ### Laden speed vs bunker price
 
-| Date     | Speed in West (knots) | Speed in East (knots) | Bunker price ($/tonne) |
-| -------- | --------------------- | --------------------- | ---------------------- |
-| Jul 2022 | 10.5                  | 10.0                  | 750                    |
-| Jan 2023 | 11.0                  | 10.5                  | 800                    |
-| Jul 2023 | 10.5                  | 10.5                  | 700                    |
-| Jan 2024 | 10.5                  | 10.5                  | 750                    |
-| Jul 2024 | 11.0                  | 10.5                  | 750                    |
-| Jan 2025 | 10.5                  | 10.5                  | 650                    |
-| Jul 2025 | 11.5                  | 10.0                  | 700                    |
-
-screenshot: Power BI Desktop interface
+- Speed in East: weekly 2021-W52 to 2025-W26; latest 9.433 (knots)
+- Speed in West: weekly 2021-W52 to 2025-W26; latest 11.792 (knots)
 
 ---
 
-## Section 4: Detailed Indicators (Page 5)
+## Vessel availability
 
-LR1
+- **mdwt change in tonnage at anchor (4-week moving average):** ▲ 0.2
+- **change in laden anchor days (4-week moving average):** ▲ 13.2%
+- **MoM percentage point change in the share of laden vessels in East:** ▼ 2.1
+- **MoM percentage point change in the share of laden vessels in West:** ▼ 8.0
 
-Vessel availability
+### West (% laden) vs TC8-TCE spot rate ($/day)
 
-Week 26 | 2025
+- % laden one line per year 2024-2025; latest 2025 week 26: 40.5 (%)
 
-▲ 0.2
+### Tonnage at anchor, global- 4 week moving average
 
-mdwt change in tonnage at anchor (4-week moving average)
+- Ballast: weekly 2022-W52 to 2025-W26; latest 6.94 (mdwt)
+- Laden: weekly 2022-W52 to 2025-W26; latest 2.35 (mdwt)
 
-▲ 13.2%
+### East (% laden) vs TC5-TCE spot rate ($/day)
 
-change in laden anchor days (4-week moving average)
+- % laden one line per year 2024-2025; latest 2025 week 26: 45.05 (%)
 
-## Tonnage at anchor, global- 4 week moving average
+### Days at anchor, global- 4 week moving average
 
-| Year | Laden | Ballast |
-| ---- | ----- | ------- |
-| 2023 | 3.0   | 7.2     |
-| 2024 | 2.5   | 7.0     |
-| 2025 | 2.5   | 7.0     |
-
-▼ 2.1
-
-MoM percentage point change in the share of laden vessels in East
-
-▼ 8.0
-
-MoM percentage point change in the share of laden vessels in West
-
-## East (% laden) vs TC5-TCE spot rate ($/day)
-
-| Week | % laden 2024 | % laden 2025 | Spot rate, 2025 ($/day) |
-| ---- | ------------ | ------------ | ----------------------- |
-| 10   | 41           | 48           | 35000                   |
-| 20   | 45           | 46           | 38000                   |
-| 30   | 42           | 45           | 42000                   |
-| 40   | 41           |              | 25000                   |
-| 50   | 45           |              | 35000                   |
-
-## Days at anchor, global- 4 week moving average
-
-| Year | Laden | Ballast |
-| ---- | ----- | ------- |
-| 2023 | 0.2   | 1.1     |
-| 2024 | 0.3   | 1.2     |
-| 2025 | 0.2   | 1.1     |
-
-## West (% laden) vs TC8-TCE spot rate ($/day)
-
-| Week | % laden 2024 | % laden 2025 | Spot rate, 2025 ($/day) |
-| ---- | ------------ | ------------ | ----------------------- |
-| 10   | 58           | 45           | 48000                   |
-| 20   | 48           | 48           | 42000                   |
-| 30   | 45           | 40           | 52000                   |
-| 40   | 40           |              | 32000                   |
-| 50   | 50           |              | 40000                   |
+- Ballast: weekly 2021-W52 to 2025-W26; latest 1.15 (days)
+- Laden: weekly 2021-W52 to 2025-W26; latest 0.202 (days)
 
 ---
 
-## Section 5: Detailed Indicators (Page 6)
+## Fleet Performance
 
-LR1
+### Tonnage in port, West
 
-Fleet Performance
+- weekly 2021-W52 to 2025-W26; latest 1.613 (mdwt)
 
-Week 26 | 2025
+### Tonnage at anchor, West
 
-Tonnage underway, East
+- weekly 2021-W52 to 2025-W26; latest 2.944 (mdwt)
 
-| Year | mdwt |
-| ---- | ---- |
-| 2023 | 10.5 |
-| 2024 | 9.5  |
-| 2025 | 8.5  |
+### Tonnage underway, West
 
-Tonnage underway, West
+- weekly 2021-W52 to 2025-W26; latest 4.33 (mdwt)
 
-| Year | mdwt |
-| ---- | ---- |
-| 2023 | 5.8  |
-| 2024 | 6.0  |
-| 2025 | 5.5  |
+### Tonnage in port, East
 
-Tonnage at anchor, East
+- weekly 2021-W52 to 2025-W26; latest 1.482 (mdwt)
 
-| Year | mdwt |
-| ---- | ---- |
-| 2023 | 4.8  |
-| 2024 | 4.0  |
-| 2025 | 3.8  |
+### Tonnage at anchor, East
 
-Tonnage at anchor, West
+- weekly 2021-W52 to 2025-W26; latest 4.028 (mdwt)
 
-| Year | mdwt |
-| ---- | ---- |
-| 2023 | 3.0  |
-| 2024 | 3.2  |
-| 2025 | 3.0  |
+### Tonnage underway, East
 
-Tonnage in port, East
-
-| Year | mdwt |
-| ---- | ---- |
-| 2023 | 2.2  |
-| 2024 | 2.0  |
-| 2025 | 2.0  |
-
-Tonnage in port, West
-
-| Year | mdwt |
-| ---- | ---- |
-| 2023 | 1.5  |
-| 2024 | 1.4  |
-| 2025 | 1.3  |
+- weekly 2021-W52 to 2025-W26; latest 9.412 (mdwt)
 
 ---
 
-## Section 6: Detailed Indicators (Page 7)
+## Congestion by region, laden vessels
 
-Laden tonnage at anchor in China
+### Laden tonnage at anchor in Atlantic
 
-| Week | 2023 (mdwt) | 2024 (mdwt) | 2025 (mdwt) |
-| ---- | ----------- | ----------- | ----------- |
-| 1    | 0.15        | 0.08        | 0.15        |
-| 10   | 0.10        | 0.10        | 0.21        |
-| 20   | 0.25        | 0.15        | 0.08        |
-| 30   | 0.20        | 0.25        | 0.10        |
-| 40   | 0.08        | 0.08        | 0.08        |
-| 50   | 0.08        | 0.22        | 0.08        |
+- one line per year 2023-2025; latest 2025 week 26: 0.969 (mdwt)
 
-Laden tonnage at anchor in Indian
+### Laden tonnage at anchor in Pacific
 
-| Week | 2023 (mdwt) | 2024 (mdwt) | 2025 (mdwt) |
-| ---- | ----------- | ----------- | ----------- |
-| 1    | 0.80        | 0.68        | 1.02        |
-| 10   | 1.18        | 0.58        | 0.80        |
-| 20   | 0.80        | 1.05        | 1.05        |
-| 30   | 0.65        | 0.82        | 0.68        |
-| 40   | 0.95        | 0.45        | 0.58        |
-| 50   | 0.80        | 0.95        | 0.80        |
+- one line per year 2023-2025; latest 2025 week 26: 0.442 (mdwt)
 
-| Week | 2023 (mdwt) | 2024 (mdwt) | 2025 (mdwt) |
-| ---- | ----------- | ----------- | ----------- |
-| 1    | 0.45        | 0.52        | 0.75        |
-| 10   | 0.62        | 0.42        | 0.50        |
-| 20   | 0.68        | 0.45        | 0.35        |
-| 30   | 0.55        | 0.35        | 0.62        |
-| 40   | 0.55        | 0.45        | 0.55        |
-| 50   | 0.55        | 0.55        | 0.55        |
+### Laden tonnage at anchor in Indian
 
-Laden tonnage at anchor in Atlantic
+- one line per year 2023-2025; latest 2025 week 26: 0.728 (mdwt)
 
-| Week | 2023 (mdwt) | 2024 (mdwt) | 2025 (mdwt) |
-| ---- | ----------- | ----------- | ----------- |
-| 1    | 1.40        | 1.35        | 0.80        |
-| 10   | 1.55        | 2.20        | 1.50        |
-| 20   | 1.20        | 1.35        | 0.80        |
-| 30   | 1.30        | 1.10        | 1.00        |
-| 40   | 1.60        | 0.80        | 1.00        |
-| 50   | 1.30        | 1.20        | 1.80        |
+### Laden tonnage at anchor in China
+
+- one line per year 2023-2025; latest 2025 week 26: 0.437 (mdwt)
 
 ---
 
-## Section 7: Detailed Indicators (Page 8)
+## Congestion by region, ballast vessels
 
-LR1 Congestion by region, ballast vessels Week 26 | 2025
+### Ballast tonnage at anchor in Atlantic
 
-Ballast tonnage at anchor in China
+- one line per year 2023-2025; latest 2025 week 26: 1.975 (mdwt)
 
-| Week | 2023 (mdwt) | 2024 (mdwt) | 2025 (mdwt) |
-| ---- | ----------- | ----------- | ----------- |
-| 10   | 0.35        | 0.15        | 0.15        |
-| 20   | 0.25        | 0.25        | 0.10        |
-| 30   | 0.35        | 0.22        | 0.22        |
-| 40   | 0.50        | 0.30        |             |
-| 50   | 0.45        | 0.15        |             |
+### Ballast tonnage at anchor in Pacific
 
-Ballast tonnage at anchor in Indian
+- one line per year 2023-2025; latest 2025 week 26: 0.513 (mdwt)
 
-| Week | 2023 (mdwt) | 2024 (mdwt) | 2025 (mdwt) |
-| ---- | ----------- | ----------- | ----------- |
-| 10   | 2.1         | 1.1         | 1.8         |
-| 20   | 1.8         | 1.5         | 1.1         |
-| 30   | 2.4         | 1.5         |             |
-| 40   | 1.9         | 1.2         |             |
-| 50   | 2.4         | 2.1         |             |
+### Ballast tonnage at anchor in Indian
 
-Ballast tonnage at anchor in Pacific
+- one line per year 2023-2025; latest 2025 week 26: 1.615 (mdwt)
 
-| Week | 2023 (mdwt) | 2024 (mdwt) | 2025 (mdwt) |
-| ---- | ----------- | ----------- | ----------- |
-| 10   | 0.4         | 0.4         | 0.9         |
-| 20   | 0.8         | 1.1         | 1.2         |
-| 30   | 0.7         | 0.4         |             |
-| 40   | 0.6         | 1.4         |             |
-| 50   | 0.8         | 0.8         |             |
+### Ballast tonnage at anchor in China
 
-Ballast tonnage at anchor in Atlantic
-
-| Week | 2023 (mdwt) | 2024 (mdwt) | 2025 (mdwt) |
-| ---- | ----------- | ----------- | ----------- |
-| 10   | 2.4         | 1.3         | 2.1         |
-| 20   | 2.2         | 2.2         | 1.8         |
-| 30   | 2.4         | 2.2         |             |
-| 40   | 1.5         | 3.1         |             |
-| 50   | 1.0         | 2.3         |             |
+- one line per year 2023-2025; latest 2025 week 26: 0.294 (mdwt)
 
 ---
 
-## Section 8: Detailed Indicators (Page 9)
+## Glossary
 
-| S No. | Terms           | Define                                                                                                                                                                                                                                                                                                                                                                                                                                           |
-| ----- | --------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| 1     | LR1 vessel      | Long range coated tanker vessels which have dwt in the range of 60,000-80,000                                                                                                                                                                                                                                                                                                                                                                    |
-| 2     | Trading status  | Status of vessels has been derived primarily from the navigation field within the AIS message. Vessels which do not have IMO number have not been included in the fleet. Furthermore, vessels that have not returned AIS message for at least 30 days, have been excluded from the analysis of fleet status while vessels that have not returned an AIS message for up to 30 days are assumed to have the same trading status as when last seen. |
-| 3     | Laden dwt miles | Average distance travelled per week across the laden target fleet multiplied by the average vessel deadweight (or capacity)                                                                                                                                                                                                                                                                                                                      |
-| 4     | Bunker price    | Price of the VLSFO at Singapore Port                                                                                                                                                                                                                                                                                                                                                                                                             |
-| 5     | % Laden         | Share of laden vessels in total fleet excluding vessels under repair                                                                                                                                                                                                                                                                                                                                                                             |
-| 6     | East            | East to Suez Canal, comprising China, Pacific, Indian Ocean and Oceania                                                                                                                                                                                                                                                                                                                                                                          |
-| 7     | West            | West of Suez Canal, comprising Atlantic region                                                                                                                                                                                                                                                                                                                                                                                                   |
-| 8     | TC5             | Spot rates from Baltic Exchange on Middle East Gulf–Japan route                                                                                                                                                                                                                                                                                                                                                                                  |
-| 9     | TC8             | Spot rates taken from Baltic Exchange on Middle East Gulf-UK Continent route                                                                                                                                                                                                                                                                                                                                                                     |
-| 10    | At anchor       | Vessels with navigation status ‘At Anchor’ in the waiting zone near port area                                                                                                                                                                                                                                                                                                                                                                    |
-| 11    | Moored          | Vessels moored in port for loading or discharging                                                                                                                                                                                                                                                                                                                                                                                                |
-| 12    | Underway        | Vessels currently at sea and are currently underway towards their destination                                                                                                                                                                                                                                                                                                                                                                    |
-
----
+- **LR1 vessel:** Long range coated tanker vessels which have dwt in the range of 60,000-80,000
+- **Trading status:** Status of vessels has been derived primarily from the navigation field within the AIS message. Vessels which do not have IMO number have not been included in the fleet. Furthermore, vessels that have not returned AIS message for at least 30 days, have been excluded from the analysis of fleet status while vessels that have not returned an AIS message for up to 30 days are assumed to have the same trading status as when last seen.
+- **Laden dwt miles:** Average distance travelled per week across the laden target fleet multiplied by the average vessel deadweight (or capacity)
+- **Bunker price:** Price of the VLSFO at Singapore Port
+- **% Laden:** Share of laden vessels in total fleet excluding vessels under repair
+- **East:** East to Suez Canal, comprising China, Pacific, Indian Ocean and Oceania
+- **West:** West of Suez Canal, comprising Atlantic region
+- **TC5:** Spot rates from Baltic Exchange on Middle East Gulf–Japan route
+- **TC8:** Spot rates taken from Baltic Exchange on Middle East Gulf-UK Continent route
+- **At anchor:** Vessels with navigation status ‘At Anchor’ in the waiting zone near port area
+- **Moored:** Vessels moored in port for loading or discharging
+- **Underway:** Vessels currently at sea and are currently underway towards their destination

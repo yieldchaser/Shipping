@@ -213,7 +213,7 @@ class ChartSignature:
 
 SIGNATURE_CATALOG = [
     # The two Fearnleys signatures (coal spread, vessel tightness) pointed at chart series read off
-    # raster images with hardcoded axes; those series are quarantined in data/_quarantine/fearnleys_md/.
+    # raster images with hardcoded axes; those series were deleted.
     ChartSignature(
         broker="intermodal",
         slug="baltic_tc_curves",

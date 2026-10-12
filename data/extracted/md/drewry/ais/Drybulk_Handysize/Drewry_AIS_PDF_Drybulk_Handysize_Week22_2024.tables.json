@@ -14,11 +14,13 @@
   "bunker_price_mom_pct": -6.6,
   "ballast_speed_east_mom_pct": 0.0,
   "ballast_speed_west_mom_pct": 4.0,
+  "anchor_capacity_west_mom_pct": 20.4,
+  "anchor_capacity_east_mom_pct": 15.9,
   "anchor_4w_ma_change_mdwt": 1.0,
   "laden_anchor_days_4w_change_pct": 3.2,
   "laden_share_east_mom_pp": -1.9,
   "laden_share_west_mom_pp": -2.7,
-  "commentary_title": "",
-  "commentary_summary": "",
+  "commentary_title": "Ample ballasters in the West",
+  "commentary_summary": "Drewry's tonnemile index edged up WoW but remained much below last year's levels. | While the share of laden tonnage increased WoW in the East, the share dropped to its weakest level in 2024 in the West. | Buoyant demand for minor bulk is supporting Handysize demand, leading to expansion in tonnage waiting to discharge cargo at China's ports. | The tonnage underway in the West continues to be buoyant as in the first quarter, with improvement in the intra-EU grain trade as well as in exports from Ukraine. But with ample ballast vessels in the West, rates continue to be dampened.",
   "source_file": "Drewry_AIS_PDF_Drybulk_Handysize_Week22_2024.pdf"
 }

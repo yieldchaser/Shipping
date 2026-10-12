@@ -20,465 +20,199 @@ pages: 9
 **Publisher:** Drewry Maritime Research | **Issue Date:** 2024-05-14 | **Report Week:** Week 20, 2024
 **Source Document:** `corpus/06-drewry/ais/Drewry_AIS_PDF_Drybulk_Panamax_Week20_2024.pdf`
 
----
-
-## Executive Summary & Fleet Indicators
-
-| Indicator | Value | MoM Change | YoY Change |
-| :--- | :---: | :---: | :---: |
-| **Fleet Utilisation** | 93.9% | +0.4 pp | +0.1 pp |
-| **Bunker Fuel Price** | $628/t | -3.5% | - |
-| **Tonne-Miles Demand Index** | 112.2 | - | +2.9% |
-| **Ballast Speed (East / West)** | - | +0.1% / +0.3% | - |
-| **Tonnage at Anchor (4W MA)** | -4.70 mdwt | - | - |
-| **Laden Anchor Days (4W MA)** | +10.2% | - | - |
-| **Laden Fleet Share (East / West)** | - | -1.6 pp / -4.2 pp | - |
+Chart lines are read exactly from the report's vector paths; the full weekly history of every line is in `data/extracted/series/drewry_ais_chart_series.csv`. Lines plotted on a right axis (Baltic spot rates, bunker price) are not read.
 
 ---
 
-## Market Commentary
+## Overview
+
+- **MoM percentage point change in utilisation:** ▲ 0.4
+- **YoY percentage point change in utilisation:** ▲ 0.1
+- **Current Utilisation:** 93.9%
 
 ### Moderation in Drewry's tonnemile index
 
 - Drewry's tonnemile index for Panamax vessels moderated for the second consecutive week but continues to be elevated YoY.
-
 - The tonnage underway in the East moderated last week from its historical peak but the share of laden tonnage in the region edged up.
-
 - Tonnage of approximately 7.5 mdwt is waiting at the anchor in the Pacific to unload cargo, the highest level attained in 2024 so far. The surge in US' grain exports to Japan and South Korea from the US West coast has been a significant contributor to the heightened activity in the region.
-
 - Additionally, the laden tonnage waiting at the anchor in China has reached its second-highest level in 2024 so far as coal and soybean imports remain buoyant.
-
----
-
-## Section 1: Detailed Indicators (Page 2)
-
-## Panamax
-
-## Overview
-
-Week 20 | 2024
-
-**93.9%**
-
-Current
-Utilisation
-
-▲ 0.4
-
-MoM percentage point
-change in utilisation
-
-▲ 0.1
-
-YoY percentage point
-change in utilisation
 
 ### Utilisation
 
-| Week | 2023 | 2024 |
-| ---- | ---- | ---- |
-| 10   | 94.2 | 93.0 |
-| 20   | 94.5 | 93.8 |
-| 30   | 93.5 | 93.2 |
-| 40   | 93.0 | 93.1 |
-| 50   | 92.8 | 92.9 |
-
-### Moderation in Drewry's tonnemile index
-
-1 content_summary
-
-* Drewry's tonnemile index for Panamax vessels moderated for the second consecutive week but continues to be elevated YoY.
-
-* The tonnage underway in the East moderated last week from its historical peak but the share of laden tonnage in the region edged up.
-
-* Tonnage of approximately 7.5 mdwt is waiting at the anchor in the Pacific to unload cargo, the highest level attained in 2024 so far. The surge in US' grain exports to Japan and South Korea from the US West coast has been a significant contributor to the heightened activity in the region.
-
-* Additionally, the laden tonnage waiting at the anchor in China has reached its second-highest level in 2024 so far as coal and soybean imports remain buoyant.
+- one line per year 2023-2024; latest 2024 week 18: 93.87 (%)
 
 ### Utilisation vs Baltic rates
 
-| Date     | Utilisation (%) | P5TC ($/day) |
-| -------- | --------------- | ------------ |
-| Jul 2022 | 94.8            | 22,000       |
-| Jan 2023 | 93.5            | 12,000       |
-| Jul 2023 | 93.2            | 10,000       |
-| Jan 2024 | 93.0            | 18,000       |
+- Utilisation: weekly 2021-W52 to 2024-W18; latest 93.87 (%)
 
 ---
 
-## Section 2: Detailed Indicators (Page 3)
+## Vessel deployment
 
-## Panamax Vessel deployment Week 20 | 2024
+- **MoM change in vessels' capacity at anchor in West:** ▼ 4.9%
+- **MoM change in vessels' capacity at anchor in East:** ▲ 2.1%
+- **Current tonne-miles index:** 112.2
+- **YoY change in tonne-miles index:** ▲ 2.9%
 
-▼ 4.9%
-MoM change in vessels' capacity at anchor in West
+### Tonne-miles index (base: week 1, 2023 =100)
 
-▲ 2.1%
-MoM change in vessels' capacity at anchor in East
+- one line per year 2023-2024; latest 2024 week 19: 112.24 (index)
 
-112.2
-Current tonne-miles index
+### Change in trading status - MoM
 
-▲ 2.9%
-YoY change in tonne-miles index
+- Bar chart of the month-on-month change of the fleet-performance lines; not read.
 
-Tonne-miles index (base: week 1, 2023 =100)
+### Global ballast speed
 
-| Week | 2023 | 2024 |
-| ---- | ---- | ---- |
-| 1    | 100  | 104  |
-| 5    | 88   | 92   |
-| 10   | 93   | 109  |
-| 15   | 101  | 118  |
-| 20   | 105  | 113  |
-| 25   | 114  |      |
-| 30   | 105  |      |
-| 35   | 106  |      |
-| 40   | 95   |      |
-| 45   | 118  |      |
-| 50   | 101  |      |
+- one line per year 2023-2024; latest 2024 week 19: 11.145 (knots)
 
-Global ballast speed
+### Global laden speed
 
-| Week | 2023 | 2024 |
-| ---- | ---- | ---- |
-| 1    | 11.1 | 11.0 |
-| 10   | 11.1 | 10.8 |
-| 20   | 11.3 |      |
-| 30   | 10.8 |      |
-| 40   | 11.2 |      |
-| 50   | 11.0 |      |
-
-Change in trading status - MoM
-
-| Status    | East (%) | West (%) |
-| --------- | -------- | -------- |
-| underway  | 1        | 6        |
-| at anchor | 2        | -4       |
-| in port   | -1       | -11      |
-
-Global laden speed
-
-| Week | 2023 | 2024 |
-| ---- | ---- | ---- |
-| 1    | 10.3 | 10.3 |
-| 10   | 10.5 | 10.2 |
-| 20   | 10.8 | 10.7 |
-| 30   | 10.4 |      |
-| 40   | 10.4 |      |
-| 50   | 10.3 |      |
+- one line per year 2023-2024; latest 2024 week 19: 10.714 (knots)
 
 ---
-
-## Section 3: Detailed Indicators (Page 4)
-
-## Panamax
 
 ## Speed
 
-Week 20 | 2024
+- **MoM change in ballast speed in East:** ▲ 0.1%
+- **MoM change in bunker price:** ▼ 3.5%
+- **MoM change in ballast speed in West:** ▲ 0.3%
+- **per tonne price of bunker at the end of the week:** $628
 
-**$628**
+### Ballast speed vs bunker price
 
-per tonne price of bunker at the end of the week
+- Speed in East: weekly 2021-W52 to 2024-W19; latest 11.221 (knots)
+- Speed in West: weekly 2021-W52 to 2024-W19; latest 10.888 (knots)
 
-▼ 3.5%
+### Laden speed vs bunker price
 
-MoM change in bunker price
-
-▲ 0.1%
-
-MoM change in ballast speed in East
-
-▲ 0.3%
-
-MoM change in ballast speed in West
-
-## Ballast speed vs bunker price
-
-| Date     | Speed in West (knots) | Speed in East (knots) | Bunker price ($/ tonne) |
-| -------- | --------------------- | --------------------- | ----------------------- |
-| Jul 2022 | 11.5                  | 11.2                  | 1,150                   |
-| Jan 2023 | 10.2                  | 11.3                  | 650                     |
-| Jul 2023 | 10.8                  | 11.0                  | 680                     |
-| Jan 2024 | 10.3                  | 10.8                  | 650                     |
-
-## Laden speed vs bunker price
-
-| Date     | Speed in West (knots) | Speed in East (knots) | Bunker price ($/ tonne) |
-| -------- | --------------------- | --------------------- | ----------------------- |
-| Jul 2022 | 11.2                  | 10.8                  | 1,150                   |
-| Jan 2023 | 10.8                  | 10.5                  | 650                     |
-| Jul 2023 | 10.8                  | 10.2                  | 680                     |
-| Jan 2024 | 10.5                  | 10.3                  | 650                     |
-
-screenshot: Power BI Desktop Panamax Speed Dashboard
+- Speed in East: weekly 2021-W52 to 2024-W19; latest 10.448 (knots)
+- Speed in West: weekly 2021-W52 to 2024-W19; latest 10.817 (knots)
 
 ---
 
-## Section 4: Detailed Indicators (Page 5)
+## Vessel availability
 
-Panamax
+- **mdwt change in tonnage at anchor (4-week moving average):** ▼ 4.7
+- **change in laden anchor days (4-week moving average):** ▲ 10.2%
+- **MoM percentage point change in the share of laden vessels in East:** ▼ 1.6
+- **MoM percentage point change in the share of laden vessels in West:** ▼ 4.2
 
-Vessel availability
+### West (% laden) vs P1A spot rate ($/day)
 
-Week 20 | 2024
+- % laden one line per year 2023-2024; latest 2024 week 19: 47.68 (%)
 
-▼ 4.7
+### Tonnage at anchor, global- 4 week moving average
 
-mdwt change in tonnage at anchor (4-week moving average)
+- Ballast: weekly 2021-W52 to 2024-W19; latest 48.99 (mdwt)
+- Laden: weekly 2021-W52 to 2024-W19; latest 23.67 (mdwt)
 
-▲ 10.2%
+### East (% laden) vs P3A spot rate ($/day)
 
-change in laden anchor days (4-week moving average)
+- % laden one line per year 2023-2024; latest 2024 week 19: 57.64 (%)
 
-## Tonnage at anchor, global- 4 week moving average
+### Days at anchor, global- 4 week moving average
 
-| Date     | Laden | Ballast |
-| -------- | ----- | ------- |
-| Jul 2022 | 20    | 40      |
-| Jan 2023 | 25    | 35      |
-| Jul 2023 | 22    | 38      |
-| Jan 2024 | 20    | 35      |
-
-▼ 1.6
-
-MoM percentage point change in the share of laden vessels in East
-
-▼ 4.2
-
-MoM percentage point change in the share of laden vessels in West
-
-## East (% laden) vs P3A spot rate ($/day)
-
-| Week | % laden 2023 | % laden 2024 | Spot rate, 2024 ($/day) |
-| ---- | ------------ | ------------ | ----------------------- |
-| 10   | 57           | 53           | 12,000                  |
-| 20   | 54           | 57           | 15,000                  |
-| 30   | 55           |              | 14,000                  |
-| 40   | 54           |              | 16,000                  |
-| 50   | 57           |              | 18,000                  |
-
-## Days at anchor, global- 4 week moving average
-
-| Date     | Laden | Ballast |
-| -------- | ----- | ------- |
-| Jul 2022 | 0.4   | 0.9     |
-| Jan 2023 | 0.5   | 0.8     |
-| Jul 2023 | 0.4   | 0.9     |
-| Jan 2024 | 0.3   | 0.8     |
-
-## West (% laden) vs P1A spot rate ($/day)
-
-| Week | % laden 2023 | % laden 2024 | Spot rate, 2024 ($/day) |
-| ---- | ------------ | ------------ | ----------------------- |
-| 10   | 51           | 45           | 13,000                  |
-| 20   | 43           | 50           | 12,000                  |
-| 30   | 45           |              | 11,000                  |
-| 40   | 42           |              | 12,000                  |
-| 50   | 50           |              | 15,000                  |
+- Ballast: weekly 2021-W52 to 2024-W19; latest 0.604 (days)
+- Laden: weekly 2021-W52 to 2024-W19; latest 0.39 (days)
 
 ---
 
-## Section 5: Detailed Indicators (Page 6)
+## Fleet Performance
 
-## Tonnage underway, East
+### Tonnage in port, West
 
-| Date     | mdwt  |
-| -------- | ----- |
-| Jul 2022 | 103.0 |
-| Jan 2023 | 108.0 |
-| Jul 2023 | 115.0 |
-| Jan 2024 | 113.0 |
+- weekly 2021-W52 to 2024-W19; latest 9.529 (mdwt)
 
-## Tonnage at anchor, East
+### Tonnage at anchor, West
 
-| Date     | mdwt |
-| -------- | ---- |
-| Jul 2022 | 35.5 |
-| Jan 2023 | 39.5 |
-| Jul 2023 | 36.5 |
-| Jan 2024 | 36.0 |
+- weekly 2021-W52 to 2024-W19; latest 13.673 (mdwt)
 
-## Tonnage in port, East
+### Tonnage underway, West
 
-| Date     | mdwt |
-| -------- | ---- |
-| Jul 2022 | 24.5 |
-| Jan 2023 | 25.5 |
-| Jul 2023 | 23.0 |
-| Jan 2024 | 22.5 |
+- weekly 2021-W52 to 2024-W19; latest 46.058 (mdwt)
 
-## Tonnage underway, West
+### Tonnage in port, East
 
-| Date     | mdwt |
-| -------- | ---- |
-| Jul 2022 | 36.0 |
-| Jan 2023 | 38.0 |
-| Jul 2023 | 38.5 |
-| Jan 2024 | 39.0 |
+- weekly 2021-W52 to 2024-W19; latest 23.479 (mdwt)
 
-## Tonnage at anchor, West
+### Tonnage at anchor, East
 
-| Date     | mdwt |
-| -------- | ---- |
-| Jul 2022 | 18.5 |
-| Jan 2023 | 18.0 |
-| Jul 2023 | 19.0 |
-| Jan 2024 | 16.0 |
+- weekly 2021-W52 to 2024-W19; latest 37.109 (mdwt)
 
-## Tonnage in port, West
+### Tonnage underway, East
 
-| Date     | mdwt |
-| -------- | ---- |
-| Jul 2022 | 11.5 |
-| Jan 2023 | 11.0 |
-| Jul 2023 | 10.5 |
-| Jan 2024 | 10.5 |
+- weekly 2021-W52 to 2024-W19; latest 121.436 (mdwt)
 
 ---
 
-## Section 6: Detailed Indicators (Page 7)
+## Congestion by region, laden vessels
 
-## Laden tonnage at anchor in East
+### Laden tonnage at anchor in Atlantic
 
-| Week | 2022 | 2023 | 2024 |
-| ---- | ---- | ---- | ---- |
-| 10   | 12.5 | 16.0 | 14.0 |
-| 20   | 17.0 | 18.5 | 20.5 |
-| 30   | 15.0 | 18.0 | 15.5 |
-| 40   | 19.5 | 13.5 |      |
-| 50   | 21.0 | 16.5 |      |
+- one line per year 2022-2024; latest 2024 week 19: 4.896 (mdwt)
 
-## Laden tonnage at anchor in China
+### Laden tonnage at anchor in Oceania
 
-| Week | 2022 | 2023 | 2024 |
-| ---- | ---- | ---- | ---- |
-| 10   | 5.5  | 6.5  | 7.5  |
-| 20   | 10.5 | 7.5  | 8.5  |
-| 30   | 5.5  | 8.5  | 6.5  |
-| 40   | 7.5  | 5.5  |      |
-| 50   | 7.5  | 10.5 |      |
+- one line per year 2022-2024; latest 2024 week 19: 0.434 (mdwt)
 
-## Laden tonnage at anchor in Indian
+### Laden tonnage at anchor in Pacific
 
-| Week | 2022 | 2023 | 2024 |
-| ---- | ---- | ---- | ---- |
-| 10   | 3.5  | 5.5  | 3.5  |
-| 20   | 3.0  | 5.5  | 4.5  |
-| 30   | 4.5  | 4.5  | 3.5  |
-| 40   | 6.5  | 3.5  |      |
-| 50   | 7.0  | 3.0  |      |
+- one line per year 2022-2024; latest 2024 week 19: 7.529 (mdwt)
 
-## Laden tonnage at anchor in Pacific
+### Laden tonnage at anchor in Indian
 
-| Week | 2022 | 2023 | 2024 |
-| ---- | ---- | ---- | ---- |
-| 10   | 3.5  | 4.5  | 4.5  |
-| 20   | 4.5  | 4.5  | 7.5  |
-| 30   | 5.5  | 4.5  |      |
-| 40   | 5.5  | 4.5  |      |
-| 50   | 4.5  | 5.0  |      |
+- one line per year 2022-2024; latest 2024 week 19: 4.406 (mdwt)
 
-## Laden tonnage at anchor in Oceania
+### Laden tonnage at anchor in China
 
-| Week | 2022 | 2023 | 2024 |
-| ---- | ---- | ---- | ---- |
-| 10   | 0.4  | 0.7  | 0.5  |
-| 20   | 0.5  | 0.1  | 0.5  |
-| 30   | 0.8  | 0.7  |      |
-| 40   | 0.4  | 0.6  |      |
-| 50   | 0.5  | 1.0  |      |
+- one line per year 2022-2024; latest 2024 week 19: 8.132 (mdwt)
 
-## Laden tonnage at anchor in Atlantic
+### Laden tonnage at anchor in East
 
-| Week | 2022 | 2023 | 2024 |
-| ---- | ---- | ---- | ---- |
-| 10   | 7.5  | 5.5  | 4.5  |
-| 20   | 8.5  | 4.5  | 5.5  |
-| 30   | 7.5  | 4.5  |      |
-| 40   | 7.5  | 5.5  |      |
-| 50   | 8.5  | 5.0  |      |
+- one line per year 2022-2024; latest 2024 week 19: 20.501 (mdwt)
 
 ---
 
-## Section 7: Detailed Indicators (Page 8)
+## Congestion by region, ballast vessels
 
-## Ballast tonnage at anchor in East
+### Ballast tonnage at anchor in Atlantic
 
-| Week | 2022 | 2023 | 2024 |
-| ---- | ---- | ---- | ---- |
-| 10   | 22.0 | 21.5 | 22.5 |
-| 20   | 23.0 | 21.0 | 16.5 |
-| 30   | 22.0 | 21.5 |      |
-| 40   | 21.0 | 23.5 |      |
-| 50   | 21.0 | 21.0 |      |
+- one line per year 2022-2024; latest 2024 week 19: 8.777 (mdwt)
 
-| Week | 2022 | 2023 | 2024 |
-| ---- | ---- | ---- | ---- |
-| 10   | 11.0 | 10.0 | 11.5 |
-| 20   | 11.5 | 10.5 | 7.0  |
-| 30   | 11.0 | 11.0 |      |
-| 40   | 11.5 | 13.0 |      |
-| 50   | 10.5 | 10.0 |      |
+### Ballast tonnage at anchor in Oceania
 
-## Ballast tonnage at anchor in China
+- one line per year 2022-2024; latest 2024 week 19: 4.543 (mdwt)
 
-| Week | 2022 | 2023 | 2024 |
-| ---- | ---- | ---- | ---- |
-| 10   | 5.0  | 4.5  | 3.5  |
-| 20   | 4.0  | 4.0  | 2.5  |
-| 30   | 4.5  | 5.0  |      |
-| 40   | 4.5  | 3.5  |      |
-| 50   | 3.5  | 3.5  |      |
+### Ballast tonnage at anchor in Pacific
 
-## Ballast tonnage at anchor in Oceania
+- one line per year 2022-2024; latest 2024 week 19: 7.549 (mdwt)
 
-| Week | 2022 | 2023 | 2024 |
-| ---- | ---- | ---- | ---- |
-| 10   | 5.5  | 4.5  | 6.0  |
-| 20   | 5.0  | 5.0  | 3.5  |
-| 30   | 4.5  | 3.5  |      |
-| 40   | 4.0  | 4.5  |      |
-| 50   | 5.0  | 6.5  |      |
+### Ballast tonnage at anchor in Indian
 
-## Ballast tonnage at anchor in Indian
+- one line per year 2022-2024; latest 2024 week 19: 2.245 (mdwt)
 
-| Week | 2022 | 2023 | 2024 |
-| ---- | ---- | ---- | ---- |
-| 10   | 2.5  | 3.5  | 2.5  |
-| 20   | 3.0  | 2.5  | 2.5  |
-| 30   | 2.5  | 3.0  |      |
-| 40   | 1.5  | 3.0  |      |
-| 50   | 2.0  | 2.5  |      |
+### Ballast tonnage at anchor in China
 
-## Ballast tonnage at anchor in Atlantic
+- one line per year 2022-2024; latest 2024 week 19: 2.272 (mdwt)
 
-| Week | 2022 | 2023 | 2024 |
-| ---- | ---- | ---- | ---- |
-| 10   | 11.0 | 13.0 | 12.5 |
-| 20   | 8.0  | 13.5 | 9.0  |
-| 30   | 10.0 | 15.5 |      |
-| 40   | 10.0 | 17.5 |      |
-| 50   | 10.0 | 12.0 |      |
+### Ballast tonnage at anchor in East
+
+- one line per year 2022-2024; latest 2024 week 19: 16.609 (mdwt)
 
 ---
 
-## Section 8: Detailed Indicators (Page 9)
+## Glossary
 
-| S No. | Terms           | Define                                                                                                                                                                                                                                                                                                                                                                                                                                           |
-| ----- | --------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| 1     | Panamax vessel  | Dry bulk vessels with dwt in the range of 60,000-100,000 except geared vessels in the range of 60,000-70,000 and LOA less than 208m.                                                                                                                                                                                                                                                                                                             |
-| 2     | Trading status  | Status of vessels has been derived primarily from the navigation field within the AIS message. Vessels which do not have IMO number have not been included in the fleet. Furthermore, vessels that have not returned AIS message for at least 30 days, have been excluded from the analysis of fleet status while vessels that have not returned an AIS message for up to 30 days are assumed to have the same trading status as when last seen. |
-| 3     | Laden dwt miles | Average distance travelled per week across the laden target fleet multiplied by the average vessel deadweight(or capacity) for that fleet                                                                                                                                                                                                                                                                                                        |
-| 4     | Bunker price    | Price of the VLSFO at Singapore Port                                                                                                                                                                                                                                                                                                                                                                                                             |
-| 5     | % Laden         | Share of laden vessels in total fleet excluding vessels under repair                                                                                                                                                                                                                                                                                                                                                                             |
-| 6     | East            | East of Suez Canal, comprising China, Pacific, Indian Ocean and Oceania                                                                                                                                                                                                                                                                                                                                                                          |
-| 7     | West            | West of Suez Canal, comprising Atlantic region                                                                                                                                                                                                                                                                                                                                                                                                   |
-| 8     | P1A\_82         | Spot rates from Baltic Exchange on Skaw-Gibraltar transatlantic route                                                                                                                                                                                                                                                                                                                                                                            |
-| 9     | P3A\_82         | Spot rates from Baltic Exchange on Japan-S Korea transpacific route                                                                                                                                                                                                                                                                                                                                                                              |
-| 10    | At anchor       | Vessels with navigation status ‘At Anchor’ in the waiting zone near port area                                                                                                                                                                                                                                                                                                                                                                    |
-| 11    | Moored          | Vessels moored in port for loading or discharging                                                                                                                                                                                                                                                                                                                                                                                                |
-| 12    | Underway        | Vessels currently at sea and are currently underway towards their destination                                                                                                                                                                                                                                                                                                                                                                    |
-
----
+- **Panamax vessel:** Dry bulk vessels with dwt in the range of 60,000-100,000 except geared vessels in the range of 60,000-70,000 and LOA less than 208m.
+- **Trading status:** Status of vessels has been derived primarily from the navigation field within the AIS message. Vessels which do not have IMO number have not been included in the fleet. Furthermore, vessels that have not returned AIS message for at least 30 days, have been excluded from the analysis of fleet status while vessels that have not returned an AIS message for up to 30 days are assumed to have the same trading status as when last seen.
+- **Laden dwt miles:** Average distance travelled per week across the laden target fleet multiplied by the average vessel deadweight(or capacity) for that fleet
+- **Bunker price:** Price of the VLSFO at Singapore Port
+- **% Laden:** Share of laden vessels in total fleet excluding vessels under repair
+- **East:** East of Suez Canal, comprising China, Pacific, Indian Ocean and Oceania
+- **West:** West of Suez Canal, comprising Atlantic region
+- **P1A_82:** Spot rates from Baltic Exchange on Skaw-Gibraltar transatlantic route
+- **P3A_82:** Spot rates from Baltic Exchange on Japan-S Korea transpacific route
+- **At anchor:** Vessels with navigation status ‘At Anchor’ in the waiting zone near port area
+- **Moored:** Vessels moored in port for loading or discharging
+- **Underway:** Vessels currently at sea and are currently underway towards their destination

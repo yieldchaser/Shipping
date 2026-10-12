@@ -14,11 +14,13 @@
   "bunker_price_mom_pct": -5.7,
   "ballast_speed_east_mom_pct": 5.6,
   "ballast_speed_west_mom_pct": 2.4,
+  "anchor_capacity_west_mom_pct": -1.0,
+  "anchor_capacity_east_mom_pct": -1.5,
   "anchor_4w_ma_change_mdwt": 1.5,
   "laden_anchor_days_4w_change_pct": 0.6,
   "laden_share_east_mom_pp": 0.2,
   "laden_share_west_mom_pp": -2.1,
-  "commentary_title": "Change in trading status - MoM",
-  "commentary_summary": "",
+  "commentary_title": "Congestion moderates after peaking in China",
+  "commentary_summary": "The laden tonnage at anchor in China peaked in week 31 for 2024 and has moderated last week. However, it continues to be elevated compared to the last two years, indicating continual stockpiling activity in China. | Meanwhile, the utilisation surged in week 31 as the vessel speed expanded. Reduced speed in week 32 would have moderated to the utilisation levels, dampening the freight rates in the market. | Additionally, congestion has also risen at Indian ports as coal demand continues to be on an uptrend. However, this is in line with the seasonal build-up of demand.",
   "source_file": "Drewry_AIS_PDF_Drybulk_Supramax_Week33_20241.pdf"
 }

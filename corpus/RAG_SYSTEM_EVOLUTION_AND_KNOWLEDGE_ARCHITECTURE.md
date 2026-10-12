@@ -241,11 +241,11 @@ The structured series layer contains over 60 stacked CSV datasets with over 140,
 4. **Newbuilding Contracting and Price Matrices**:
    * Master series: `bancosta_newbuilding_series.csv`, `intermodal_newbuilding_series.csv`, `advanced_shipping_newbuilding_series.csv`, `xclusiv_newbuilding_series.csv`.
 5. **AIS Fleet Telemetry & Congestion Queues**:
-   * Master series: `drewry_ais_fleet_performance_series.csv`, `drewry_ais_regional_congestion_series.csv`, `drewry_ais_deployment_speed_series.csv`.
+   * Master series: `drewry_ais_chart_series.csv` (exact chart lines) and the 10 `drewry_ais_<class>_series.csv` KPI files.
 6. **Offshore & Energy**:
    * Master series: `seabrokers_osv_spot_rates_series.csv`, `seabrokers_rigs_market_series.csv`, `seabrokers_osv_utilisation_series.csv`.
 7. **Fearnleys research tables**:
-   * `data/extracted/md/fearnleys-md/*.tables.json`: the reports' own data tables and the printed Cape composite-model tables. Fearnleys research charts are raster images with no embedded data, so no chart series are kept (the earlier calibrated ones were wrong and are quarantined in `data/_quarantine/fearnleys_md/`).
+   * `data/extracted/md/fearnleys-md/*.tables.json`: the reports' own data tables and the printed Cape composite-model tables. Fearnleys research charts are raster images with no embedded data, so no chart series are kept (the earlier calibrated ones were wrong and have been deleted).
 
 ---
 

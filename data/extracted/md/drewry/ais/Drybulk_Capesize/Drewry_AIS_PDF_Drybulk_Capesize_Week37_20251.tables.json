@@ -14,11 +14,13 @@
   "bunker_price_mom_pct": -3.2,
   "ballast_speed_east_mom_pct": -0.7,
   "ballast_speed_west_mom_pct": -4.7,
+  "anchor_capacity_west_mom_pct": 12.8,
+  "anchor_capacity_east_mom_pct": -5.2,
   "anchor_4w_ma_change_mdwt": -0.5,
   "laden_anchor_days_4w_change_pct": -7.7,
   "laden_share_east_mom_pp": 2.2,
   "laden_share_west_mom_pp": -2.9,
-  "commentary_title": "",
-  "commentary_summary": "",
+  "commentary_title": "Capesize market strengthens supported by rising Congestion",
+  "commentary_summary": "The Capesize tonne-miles index rose 2% WoW in week 37, with utilisation, laden speed, and Baltic benchmark rates all moving higher in tandem. | The vessel capacity at anchor in the West rose 12.8% MoM in September, as fewer ships moved underway. The higher share of laden vessels in the West further supported spot rates, which continued their steady upward trend. | While ballast congestion in the Pacific remained flat, the Atlantic saw a consistent uptrend. Laden congestion stayed elevated across both the Pacific and Oceania, with nearing historically high levels in Oceania.",
   "source_file": "Drewry_AIS_PDF_Drybulk_Capesize_Week37_20251.pdf"
 }

@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-11 21:43:44Z",
+  "updated_at": "2026-10-12 16:51:10Z",
   "llamaparse_status": {
     "total_accounts": 11,
     "current_account": 10,
@@ -326,26 +326,26 @@
       "tooling": "Local PyMuPDF geometry extraction ( cost, 0 credit burn) + LlamaParse archive extraction"
     },
     "drewry_ais": {
-      "total_docs": 276,
-      "eras": "2024-2026",
-      "status": "CLOSED",
+      "total_docs": 291,
+      "eras": "2022-2026",
+      "status": "REBUILT 2026-10-12",
       "deliverables": [
         "data/extracted/series/drewry_ais_product_lr1_series.csv",
         "data/extracted/series/drewry_ais_crude_vlcc_series.csv",
         "data/extracted/series/drewry_ais_lpg_fr_series.csv",
         "data/extracted/series/drewry_ais_crude_aframax_series.csv",
-        "data/extracted/series/drewry_ais_crude_suezmax_series.csv",
         "data/extracted/series/drewry_ais_product_lr2_series.csv",
+        "data/extracted/series/drewry_ais_crude_suezmax_series.csv",
         "data/extracted/series/drewry_ais_drybulk_capesize_series.csv",
         "data/extracted/series/drewry_ais_drybulk_handysize_series.csv",
         "data/extracted/series/drewry_ais_drybulk_panamax_series.csv",
         "data/extracted/series/drewry_ais_drybulk_supramax_series.csv",
         "data/extracted/md/drewry/ais/"
       ],
-      "rows_extracted": 276,
-      "skipped": "None (100% cover-to-cover, zero cherry-picking across all 276 PDFs)",
-      "verification": "276/276 reports (100.0%, 2,474 pages); zero vessel cross-contamination; 100% of utilisation, tonne-mile indices, bunker prices, ballast speeds, anchor congestion, and editorial market commentary parsed cleanly",
-      "tooling": "LlamaParse agentic (100% of 276 reports cover-to-cover with multi-account auto-rotation) (run_drewry_ais.py)"
+      "rows_extracted": 291,
+      "skipped": "Right-axis lines (Baltic spot, bunker) and the trading-status bar chart; single-point lines (week 1 of a new year) have no path",
+      "verification": "KPI tiles, commentary and glossary read from the PDF text layer; every left-axis chart line read from the vector path end points, calibrated to the chart's own tick labels. 3,388 KPI tiles (issues from week 6) reproduced from the chart lines with no mismatch; 9 could not be checked (six tiles print -100%, one prints a level, two need a week-1 point, which is drawn without a path)",
+      "tooling": "PyMuPDF text layer (run_drewry_ais.py), no API cost"
     },
     "hellenic_iron_ore": {
       "total_docs": 1182,
@@ -389,7 +389,7 @@
         "corpus/01-brokers/fearnleys-md/"
       ],
       "rows_extracted": 70,
-      "skipped": "Chart values: all charts are raster PNGs with no embedded data, so no series are read off them; the earlier calibrated series were wrong and are quarantined in data/_quarantine/fearnleys_md/",
+      "skipped": "Chart values: all charts are raster PNGs with no embedded data, so no series are read off them; the earlier calibrated series were wrong and have been deleted",
       "verification": "Bodies rebuilt from the Hasura custom_report blocks (every block type); 56 exact API data tables and 14 printed Cape composite-model tables (OCR-verified) in the .tables.json sidecars",
       "tooling": "scripts/md_cleanup/fearnleys_md_rebuild.py via run_fearnleys_md_normalized.py + run_fearnleys_md_full_power.py (sidecars)"
     },
@@ -475,21 +475,13 @@
     "drewry_ais_vector_charts": {
       "total_vessel_classes": 10,
       "eras": "2022-2026",
-      "status": "CLOSED",
+      "status": "REBUILT 2026-10-12",
       "deliverables": [
-        "data/extracted/series/drewry_ais_fleet_performance_series.csv",
-        "data/extracted/series/drewry_ais_regional_congestion_series.csv",
-        "data/extracted/series/drewry_ais_deployment_speed_series.csv",
-        "data/extracted/series/drewry_ais_utilisation_curves_series.csv",
-        "data/extracted/md/drewry/ais_charts/"
+        "data/extracted/series/drewry_ais_chart_series.csv"
       ],
-      "total_points_extracted": 24395,
-      "fleet_performance_rows": 14450,
-      "regional_congestion_rows": 6540,
-      "deployment_speed_rows": 2448,
-      "utilisation_rows": 957,
-      "verification": "Proprietary sub-pixel vector polyline extraction directly from Power BI vector graphics in PDF; perfect linear calibration (R^2 = 1.0) against horizontal dashed gridlines; extracts unbroken weekly continuous curves spanning 2022-2026 across all 10 vessel classes: Dry Bulk (Capesize, Panamax, Supramax, Handysize), Crude Tankers (VLCC, Suezmax, Aframax), Product Tankers (LR1, LR2), Gas (LPG FR)",
-      "tooling": "PyMuPDF Vector Polyline Extractor + Affine Coordinate Calibration (run_drewry_ais_charts.py)"
+      "total_points_extracted": 82793,
+      "verification": "Vector path end points (the earlier version read Bezier control points and was deleted); Y axis calibrated on each chart's tick-label digit centres with a linearity check; X from the chart's week, month or year labels; seasonal weeks are the chart's own week numbers (1-53). 291 reports, 0 chart problems, 0 points dropped, 36 flat reference lines (High/Low) not stored; weekly points keyed by ISO week (the year labels fix the day only to about two days); 3,388 KPI tiles reproduced with no mismatch",
+      "tooling": "PyMuPDF vector path reader (run_drewry_ais_charts.py)"
     },
     "seabrokers": {
       "total_docs": 97,
@@ -1568,6 +1560,25 @@
       "status": "Verified"
     },
     {
+      "file": "drewry_ais_chart_series.csv",
+      "target_metric": "Drewry AIS chart lines read from the PDF vector paths, all 10 vessel classes (utilisation, tonne-miles, speeds, tonnage at anchor/underway/in port, % laden)",
+      "rows": 82793,
+      "columns": [
+        "vessel_class",
+        "sector",
+        "page",
+        "chart",
+        "series",
+        "unit",
+        "axis",
+        "year",
+        "week",
+        "value",
+        "source_file"
+      ],
+      "status": "Verified"
+    },
+    {
       "file": "drewry_ais_crude_aframax_series.csv",
       "target_metric": "Aframax fleet intelligence, utilisation, speed & earnings",
       "rows": 31,
@@ -1587,6 +1598,8 @@
         "bunker_price_mom_pct",
         "ballast_speed_east_mom_pct",
         "ballast_speed_west_mom_pct",
+        "anchor_capacity_west_mom_pct",
+        "anchor_capacity_east_mom_pct",
         "anchor_4w_ma_change_mdwt",
         "laden_anchor_days_4w_change_pct",
         "laden_share_east_mom_pp",
@@ -1617,6 +1630,8 @@
         "bunker_price_mom_pct",
         "ballast_speed_east_mom_pct",
         "ballast_speed_west_mom_pct",
+        "anchor_capacity_west_mom_pct",
+        "anchor_capacity_east_mom_pct",
         "anchor_4w_ma_change_mdwt",
         "laden_anchor_days_4w_change_pct",
         "laden_share_east_mom_pp",
@@ -1647,29 +1662,14 @@
         "bunker_price_mom_pct",
         "ballast_speed_east_mom_pct",
         "ballast_speed_west_mom_pct",
+        "anchor_capacity_west_mom_pct",
+        "anchor_capacity_east_mom_pct",
         "anchor_4w_ma_change_mdwt",
         "laden_anchor_days_4w_change_pct",
         "laden_share_east_mom_pp",
         "laden_share_west_mom_pp",
         "commentary_title",
         "commentary_summary",
-        "source_file"
-      ],
-      "status": "Verified"
-    },
-    {
-      "file": "drewry_ais_deployment_speed_series.csv",
-      "target_metric": "Drewry AIS average speed & operating deployment by vessel class (knots)",
-      "rows": 2634,
-      "columns": [
-        "sector",
-        "vessel_class",
-        "metric",
-        "year",
-        "week",
-        "date",
-        "value",
-        "unit",
         "source_file"
       ],
       "status": "Verified"
@@ -1694,6 +1694,8 @@
         "bunker_price_mom_pct",
         "ballast_speed_east_mom_pct",
         "ballast_speed_west_mom_pct",
+        "anchor_capacity_west_mom_pct",
+        "anchor_capacity_east_mom_pct",
         "anchor_4w_ma_change_mdwt",
         "laden_anchor_days_4w_change_pct",
         "laden_share_east_mom_pp",
@@ -1724,6 +1726,8 @@
         "bunker_price_mom_pct",
         "ballast_speed_east_mom_pct",
         "ballast_speed_west_mom_pct",
+        "anchor_capacity_west_mom_pct",
+        "anchor_capacity_east_mom_pct",
         "anchor_4w_ma_change_mdwt",
         "laden_anchor_days_4w_change_pct",
         "laden_share_east_mom_pp",
@@ -1754,6 +1758,8 @@
         "bunker_price_mom_pct",
         "ballast_speed_east_mom_pct",
         "ballast_speed_west_mom_pct",
+        "anchor_capacity_west_mom_pct",
+        "anchor_capacity_east_mom_pct",
         "anchor_4w_ma_change_mdwt",
         "laden_anchor_days_4w_change_pct",
         "laden_share_east_mom_pp",
@@ -1784,30 +1790,14 @@
         "bunker_price_mom_pct",
         "ballast_speed_east_mom_pct",
         "ballast_speed_west_mom_pct",
+        "anchor_capacity_west_mom_pct",
+        "anchor_capacity_east_mom_pct",
         "anchor_4w_ma_change_mdwt",
         "laden_anchor_days_4w_change_pct",
         "laden_share_east_mom_pp",
         "laden_share_west_mom_pp",
         "commentary_title",
         "commentary_summary",
-        "source_file"
-      ],
-      "status": "Verified"
-    },
-    {
-      "file": "drewry_ais_fleet_performance_series.csv",
-      "target_metric": "Drewry AIS continuous fleet performance, tonne-miles, and cargo utilization",
-      "rows": 14828,
-      "columns": [
-        "sector",
-        "vessel_class",
-        "metric",
-        "region",
-        "status",
-        "year",
-        "week",
-        "date",
-        "value_mdwt",
         "source_file"
       ],
       "status": "Verified"
@@ -1832,6 +1822,8 @@
         "bunker_price_mom_pct",
         "ballast_speed_east_mom_pct",
         "ballast_speed_west_mom_pct",
+        "anchor_capacity_west_mom_pct",
+        "anchor_capacity_east_mom_pct",
         "anchor_4w_ma_change_mdwt",
         "laden_anchor_days_4w_change_pct",
         "laden_share_east_mom_pp",
@@ -1862,6 +1854,8 @@
         "bunker_price_mom_pct",
         "ballast_speed_east_mom_pct",
         "ballast_speed_west_mom_pct",
+        "anchor_capacity_west_mom_pct",
+        "anchor_capacity_east_mom_pct",
         "anchor_4w_ma_change_mdwt",
         "laden_anchor_days_4w_change_pct",
         "laden_share_east_mom_pp",
@@ -1892,45 +1886,14 @@
         "bunker_price_mom_pct",
         "ballast_speed_east_mom_pct",
         "ballast_speed_west_mom_pct",
+        "anchor_capacity_west_mom_pct",
+        "anchor_capacity_east_mom_pct",
         "anchor_4w_ma_change_mdwt",
         "laden_anchor_days_4w_change_pct",
         "laden_share_east_mom_pp",
         "laden_share_west_mom_pp",
         "commentary_title",
         "commentary_summary",
-        "source_file"
-      ],
-      "status": "Verified"
-    },
-    {
-      "file": "drewry_ais_regional_congestion_series.csv",
-      "target_metric": "Drewry AIS regional port & anchor congestion vessel count time series",
-      "rows": 6840,
-      "columns": [
-        "sector",
-        "vessel_class",
-        "region",
-        "status",
-        "year",
-        "week",
-        "date",
-        "value_mdwt",
-        "source_file"
-      ],
-      "status": "Verified"
-    },
-    {
-      "file": "drewry_ais_utilisation_curves_series.csv",
-      "target_metric": "Drewry AIS global fleet active utilisation curve index (%)",
-      "rows": 809,
-      "columns": [
-        "sector",
-        "vessel_class",
-        "metric",
-        "year",
-        "week",
-        "date",
-        "value_pct",
         "source_file"
       ],
       "status": "Verified"
@@ -1988,7 +1951,7 @@
     {
       "file": "gibson_bunker_prices_series.csv",
       "target_metric": "Gibson Bunker Prices",
-      "rows": 1023,
+      "rows": 1028,
       "columns": [
         "issue_date",
         "report_week",
@@ -2003,9 +1966,22 @@
       "status": "Verified"
     },
     {
+      "file": "gibson_spot_chart_daily.csv",
+      "target_metric": "Gibson Spot Chart Daily.Csv",
+      "rows": 9240,
+      "columns": [
+        "date",
+        "chart",
+        "route",
+        "ws",
+        "report_date"
+      ],
+      "status": "Verified"
+    },
+    {
       "file": "gibson_tanker_spot_series.csv",
       "target_metric": "Gibson Tanker Spot",
-      "rows": 3630,
+      "rows": 3598,
       "columns": [
         "issue_date",
         "report_week",
@@ -2369,7 +2345,7 @@
     {
       "file": "hellenic_iron_ore_pdf_freight_rates_series.csv",
       "target_metric": "MMi Daily Iron Ore seaborne bulk freight rate benchmarks ($/t)",
-      "rows": 22752,
+      "rows": 22781,
       "columns": [
         "date",
         "year",
@@ -2384,7 +2360,7 @@
     {
       "file": "hellenic_iron_ore_pdf_futures_series.csv",
       "target_metric": "Hellenic Iron Ore Pdf Futures",
-      "rows": 2238,
+      "rows": 2359,
       "columns": [
         "date",
         "year",
@@ -2395,14 +2371,29 @@
         "change",
         "change_pct",
         "settlement",
-        "source_file"
+        "source_file",
+        "closing_date",
+        "vol_traded_k_lots",
+        "vol_change",
+        "vol_change_pct",
+        "open_positions_k_lots",
+        "open_positions_change",
+        "open_positions_change_pct",
+        "day_low",
+        "day_low_change",
+        "day_low_change_pct",
+        "day_high",
+        "day_high_change",
+        "day_high_change_pct",
+        "holiday",
+        "value_source"
       ],
       "status": "Verified"
     },
     {
       "file": "hellenic_iron_ore_pdf_import_volumes_series.csv",
       "target_metric": "MMi Daily Iron Ore major Chinese port import volumes & arrival statistics",
-      "rows": 21496,
+      "rows": 21561,
       "columns": [
         "date",
         "year",
@@ -2416,7 +2407,7 @@
     {
       "file": "hellenic_iron_ore_pdf_index_comparisons_series.csv",
       "target_metric": "MMi Daily Iron Ore 62% vs 58% vs 65% spread and index comparisons",
-      "rows": 14550,
+      "rows": 14826,
       "columns": [
         "date",
         "year",
@@ -2482,7 +2473,7 @@
     {
       "file": "hellenic_iron_ore_pdf_port_inventories_series.csv",
       "target_metric": "Hellenic Iron Ore Pdf Port Inventories",
-      "rows": 6067,
+      "rows": 6984,
       "columns": [
         "date",
         "year",
@@ -2491,7 +2482,9 @@
         "change_pct",
         "low_12m",
         "high_12m",
-        "source_file"
+        "source_file",
+        "week_ending",
+        "value_source"
       ],
       "status": "Verified"
     },
@@ -3963,13 +3956,13 @@
       "status": "Verified"
     }
   ],
-  "total_master_stacked_rows": 637886,
-  "total_master_series_csvs": 174,
-  "total_stacked_rows": 637886,
-  "total_series_csvs": 174,
+  "total_master_stacked_rows": 705891,
+  "total_master_series_csvs": 167,
+  "total_stacked_rows": 705891,
+  "total_series_csvs": 167,
   "total_master_workbooks": 1,
-  "total_series_count": 174,
-  "total_rows_extracted": 638191,
+  "total_series_count": 167,
+  "total_rows_extracted": 706196,
   "series_inventory": {
     "advanced_shipping_demo_sales_series.csv": 599,
     "advanced_shipping_demolition_series.csv": 2000,
@@ -4019,25 +4012,23 @@
     "clarksons_snp_sales_series.csv": 1329,
     "compare_vs_clarksons_sales_series.csv": 0,
     "compare_vs_clarksons_snp_sales_series.csv": 393,
+    "drewry_ais_chart_series.csv": 82793,
     "drewry_ais_crude_aframax_series.csv": 31,
     "drewry_ais_crude_suezmax_series.csv": 30,
     "drewry_ais_crude_vlcc_series.csv": 33,
-    "drewry_ais_deployment_speed_series.csv": 2634,
     "drewry_ais_drybulk_capesize_series.csv": 27,
     "drewry_ais_drybulk_handysize_series.csv": 26,
     "drewry_ais_drybulk_panamax_series.csv": 23,
     "drewry_ais_drybulk_supramax_series.csv": 23,
-    "drewry_ais_fleet_performance_series.csv": 14828,
     "drewry_ais_lpg_fr_series.csv": 32,
     "drewry_ais_product_lr1_series.csv": 35,
     "drewry_ais_product_lr2_series.csv": 31,
-    "drewry_ais_regional_congestion_series.csv": 6840,
-    "drewry_ais_utilisation_curves_series.csv": 809,
     "drewry_opinions_metadata.csv": 552,
     "drewry_wci_series.csv": 7,
     "fearnleys_rates_series.csv": 17112,
-    "gibson_bunker_prices_series.csv": 1023,
-    "gibson_tanker_spot_series.csv": 3630,
+    "gibson_bunker_prices_series.csv": 1028,
+    "gibson_spot_chart_daily.csv": 9240,
+    "gibson_tanker_spot_series.csv": 3598,
     "gms_demolition_rankings_series.csv": 1104,
     "gms_demolition_sales_series.csv": 161,
     "gms_market_commentary_series.csv": 1262,
@@ -4056,14 +4047,14 @@
     "hellenic_iron_ore_pdf_brands_series.csv": 31516,
     "hellenic_iron_ore_pdf_dashboard_series.csv": 253,
     "hellenic_iron_ore_pdf_domestic_concentrate_series.csv": 5583,
-    "hellenic_iron_ore_pdf_freight_rates_series.csv": 22752,
-    "hellenic_iron_ore_pdf_futures_series.csv": 2238,
-    "hellenic_iron_ore_pdf_import_volumes_series.csv": 21496,
-    "hellenic_iron_ore_pdf_index_comparisons_series.csv": 14550,
+    "hellenic_iron_ore_pdf_freight_rates_series.csv": 22781,
+    "hellenic_iron_ore_pdf_futures_series.csv": 2359,
+    "hellenic_iron_ore_pdf_import_volumes_series.csv": 21561,
+    "hellenic_iron_ore_pdf_index_comparisons_series.csv": 14826,
     "hellenic_iron_ore_pdf_indices_series.csv": 11652,
     "hellenic_iron_ore_pdf_normalisations_series.csv": 10740,
     "hellenic_iron_ore_pdf_port_differentials_series.csv": 14983,
-    "hellenic_iron_ore_pdf_port_inventories_series.csv": 6067,
+    "hellenic_iron_ore_pdf_port_inventories_series.csv": 6984,
     "hellenic_iron_ore_pdf_spreads_series.csv": 3240,
     "hellenic_iron_ore_pdf_steel_mill_pnl_series.csv": 9627,
     "hellenic_iron_ore_pdf_steel_production_consumption_series.csv": 19679,

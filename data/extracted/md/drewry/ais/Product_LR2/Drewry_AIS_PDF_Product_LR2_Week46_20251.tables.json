@@ -14,11 +14,13 @@
   "bunker_price_mom_pct": 2.0,
   "ballast_speed_east_mom_pct": 11.3,
   "ballast_speed_west_mom_pct": -6.8,
+  "anchor_capacity_west_mom_pct": -12.1,
+  "anchor_capacity_east_mom_pct": -2.1,
   "anchor_4w_ma_change_mdwt": 1.3,
   "laden_anchor_days_4w_change_pct": -2.7,
   "laden_share_east_mom_pp": -1.1,
   "laden_share_west_mom_pp": -4.8,
-  "commentary_title": "",
-  "commentary_summary": "",
+  "commentary_title": "LR2 market tightens as speeds diverge and rates rise",
+  "commentary_summary": "The LR2 tonne-miles index slipped to 109.4 in week 46. During the same period, ballast speeds increased to 9.65 knots, while laden speeds eased to 10.70 knots reflecting softer market activity and steadily declining utilisation. | There was a drop in the percentage of laden vessels in the East and a corresponding increase in the West. | LR2 freight rates posted a week-on-week gain, supported by a tight balance between supply and demand and robust crude market fundamentals. This strength was evident in the firming of MEG–Japan route rates.",
   "source_file": "Drewry_AIS_PDF_Product_LR2_Week46_20251.pdf"
 }

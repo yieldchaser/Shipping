@@ -15,12 +15,12 @@ and well-formatted for the DeepSeek GraphRAG build, plus end-to-end ingest autom
   PDF check: of 8,927 sentences of 10+ words, only chart-title runs and page footers are unmatched.
   The 14 Cape composite-model images are printed tables, transcribed in `fearnleys_md_image_tables.md`
   (numbers match RapidOCR for all 14).
-- **Quarantined** the five `fearnleys_md_*` series and the master xlsx to `data/_quarantine/fearnleys_md/` (README has
-  the proof). `export_fearnleys_md_excel.py` was moved to `scripts/_quarantine/`. `run_fearnleys_md_full_power.py`
-  now writes exact sidecars only. The old CHART_RECURRENCE doc moved out of the corpus to
-  `docs/FEARNLEYS_MD_CHART_RECURRENCE_SUPERSEDED.md`.
+- **Deleted** (owner rule: wrong data is deleted, not quarantined) the five `fearnleys_md_*` chart-calibrated series,
+  the master xlsx, `export_fearnleys_md_excel.py` and the old CHART_RECURRENCE doc. Proof they were wrong: axis
+  baseline and step were hardcoded; for 2026-10-07 the P5 series held 10,273.97 against about 19,100 on the chart.
+  `run_fearnleys_md_full_power.py` now writes exact sidecars only.
 - **Owner decisions open**: the recurring raster charts have no exact data (no estimates under the rules); the 643
-  duplicate voice records; the 7,014 one-word route-trend MDs.
+  duplicate voice records. (The route-trend MDs were deleted 2026-10-12; the labels stay in fearnleys_broker_comments.csv.)
 - **Next**: Banchero (5,212 chart-title leads), then Lion, SSY, Affinity.
 
 ## Earlier: RESUME HERE (2026-10-12 ~03:00 IST)
@@ -424,7 +424,7 @@ Then: metadata normalisation (frontmatter/issue_date for advanced, agora, fearnl
 - Intermodal coder WIP parked as .reparse_staging/intermodal_charts_wip.patch (unverified; files restored).
 - **Nace sweep triage (by design, not defects):** Intermodal "missing" = final market-data pages (commodities,
   bunkers, stocks) excluded from MDs and extracted by run_intermodal_finance; Clarksons Baltic/FX box; Carriers
-  Greek equities; Drewry ais_charts MDs are summaries (data in vector CSVs).
+  Greek equities; Drewry ais_charts MDs were deleted 2026-10-12 with the curve CSVs (control-point values).
 - **OWNER DECISION — iron ore chart reads:** 1,164/1,201 iron_ore_pdf MDs carry "## Dry Bulk Freight Rates
   Historical Line Data" and 629 carry "## Historical Iron Ore Index Comparisons". Values are whole numbers /
   multiples of 5 on chart axis-label dates (e.g. 2023-09-01: 4-Jan-21 15.00/18.00 ...; dates not in the text

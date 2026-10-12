@@ -14,11 +14,13 @@
   "bunker_price_mom_pct": -1.6,
   "ballast_speed_east_mom_pct": 3.0,
   "ballast_speed_west_mom_pct": -3.0,
+  "anchor_capacity_west_mom_pct": -2.4,
+  "anchor_capacity_east_mom_pct": -1.2,
   "anchor_4w_ma_change_mdwt": -1.1,
   "laden_anchor_days_4w_change_pct": 7.7,
   "laden_share_east_mom_pp": -1.3,
   "laden_share_west_mom_pp": 0.0,
-  "commentary_title": "",
-  "commentary_summary": "",
+  "commentary_title": "Supramax utilisation continues to be on an uptrend",
+  "commentary_summary": "Supramax utilisation remained stable in week 33, rising by just 0.1 percentage points, baltic rates firmed in tandem. Vessels at port declined 8.2% MoM in the West and 1.1% MoM in the East as more vessels moved underway. | With ballast congestion increasing in China, Spot rates on China-India route surged reaching around $19,800/pd. Spot rates in the West on US- Europe route also followed the upward rates trajectory in August. | In Asia, steady demand kept sentiment positive, with healthy activity across most regions. The Indian Ocean remained relatively subdued.",
   "source_file": "Drewry_AIS_PDF_Drybulk_Supramax_Week34_20251.pdf"
 }

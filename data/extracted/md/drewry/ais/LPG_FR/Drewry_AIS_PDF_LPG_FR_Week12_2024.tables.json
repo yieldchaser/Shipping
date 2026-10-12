@@ -14,11 +14,13 @@
   "bunker_price_mom_pct": 1.3,
   "ballast_speed_east_mom_pct": 1.0,
   "ballast_speed_west_mom_pct": 5.5,
+  "anchor_capacity_west_mom_pct": 5.0,
+  "anchor_capacity_east_mom_pct": -3.2,
   "anchor_4w_ma_change_mdwt": 0.5,
   "laden_anchor_days_4w_change_pct": -7.6,
   "laden_share_east_mom_pp": 2.6,
   "laden_share_west_mom_pp": 2.7,
-  "commentary_title": "Change in trading status - MoM",
-  "commentary_summary": "",
+  "commentary_title": "VLGC rates continue their recovery",
+  "commentary_summary": "Spot rates on benchmark routes up 50% MoM ( AG-Japan at $79 per tonne, US-Japan at $137 per tonne) | Robust fixtures from the US pick-up rates but, arbitrage remains volatile | Lucrative premium in the West attracting vessels, in turn tightening availability in the East of Suez | Drewry LPG tonne-mile index up to 114.5 points this week as activity increases | VLGC transits through Panama Canal on the rise, a slight fall seen on COGH",
   "source_file": "Drewry_AIS_PDF_LPG_FR_Week12_2024.pdf"
 }

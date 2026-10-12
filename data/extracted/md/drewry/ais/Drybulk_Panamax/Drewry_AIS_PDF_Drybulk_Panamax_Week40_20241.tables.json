@@ -14,11 +14,13 @@
   "bunker_price_mom_pct": -8.8,
   "ballast_speed_east_mom_pct": 4.0,
   "ballast_speed_west_mom_pct": 0.1,
+  "anchor_capacity_west_mom_pct": 27.1,
+  "anchor_capacity_east_mom_pct": -9.8,
   "anchor_4w_ma_change_mdwt": 0.8,
   "laden_anchor_days_4w_change_pct": -13.7,
   "laden_share_east_mom_pp": -0.0,
   "laden_share_west_mom_pp": -0.9,
-  "commentary_title": "Change in trading status - MoM",
-  "commentary_summary": "",
+  "commentary_title": "Rise in Utilisation as speed increases",
+  "commentary_summary": "The Panamax vessel utilisation expanded last week from 91.6% to 92.5%, after having declined for three consecutive weeks. This rise is attributed to consecutively rising ballast speeds, indicating positive market sentiment. | Meanwhile, the tonne-mile index rose sharply, reaching a higher level than last year, driven by buoyant soybean trade from ECSA, particularly Brazil. | Additionally, longer vessel routes due to Panama Canal congestion have boosted vessel demand of this segment. | As congestion at China's discharge ports has reached the lowest levels in 2024 so far, we project it to tread upwards in the upcoming weeks as China's soybean imports expand.",
   "source_file": "Drewry_AIS_PDF_Drybulk_Panamax_Week40_20241.pdf"
 }

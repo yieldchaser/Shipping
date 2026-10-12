@@ -14,11 +14,13 @@
   "bunker_price_mom_pct": -4.7,
   "ballast_speed_east_mom_pct": 2.1,
   "ballast_speed_west_mom_pct": 2.8,
-  "anchor_4w_ma_change_mdwt": null,
-  "laden_anchor_days_4w_change_pct": null,
-  "laden_share_east_mom_pp": null,
-  "laden_share_west_mom_pp": null,
+  "anchor_capacity_west_mom_pct": 9.3,
+  "anchor_capacity_east_mom_pct": 31.0,
+  "anchor_4w_ma_change_mdwt": 2.3,
+  "laden_anchor_days_4w_change_pct": 0.4,
+  "laden_share_east_mom_pp": 2.8,
+  "laden_share_west_mom_pp": -1.6,
   "commentary_title": "Capesize segment gains momentum",
-  "commentary_summary": "Capesize utilisation saw a modest uptick in Week 40, supported by higher tonne-miles and an increase in vessels waiting at anchor across both East and West regions. Global ballast and laden speeds also trended higher, reflecting stronger market activity. | Weather disruptions from recent typhoons tightened short-term supply, as vessel schedules were delayed, leading to increased laden congestion at Chinese and other East Asian ports. | Seasonal strength in Q3 iron ore exports from Brazil further supported the market, with spot rates on the Brazil\u2013China route rising and congestion levels increasing, signalling improving sentiment in the Capesize segment.",
+  "commentary_summary": "Capesize utilisation saw a modest uptick in Week 40, supported by higher tonne- miles and an increase in vessels waiting at anchor across both East and West regions. Global ballast and laden speeds also trended higher, reflecting stronger market activity. | Weather disruptions from recent typhoons tightened short-term supply, as vessel schedules were delayed, leading to increased laden congestion at Chinese and other East Asian ports. | Seasonal strength in Q3 iron ore exports from Brazil further supported the market, with spot rates on the Brazil–China route rising and congestion levels increasing, signalling improving sentiment in the Capesize segment.",
   "source_file": "Drewry_AIS_PDF_Drybulk_Capesize_Week41_20251.pdf"
 }

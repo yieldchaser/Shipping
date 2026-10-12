@@ -14,11 +14,13 @@
   "bunker_price_mom_pct": -5.8,
   "ballast_speed_east_mom_pct": 2.4,
   "ballast_speed_west_mom_pct": 7.4,
+  "anchor_capacity_west_mom_pct": -10.9,
+  "anchor_capacity_east_mom_pct": -6.3,
   "anchor_4w_ma_change_mdwt": -2.0,
   "laden_anchor_days_4w_change_pct": -4.2,
   "laden_share_east_mom_pp": 2.5,
   "laden_share_west_mom_pp": 2.5,
-  "commentary_title": "",
-  "commentary_summary": "",
+  "commentary_title": "Capesize market tightens as Utilisation and rates strengthen",
+  "commentary_summary": "Capesize utilisation strengthened notably, rising to 92.5% from 92.2% WoW, reflecting firmer trade activity. This uplift was accompanied by a sharp rally in freight rates on the benchmark C5TC index, marking the strongest increase since December 2023. | The surge was primarily driven by robust front-haul demand, including higher iron ore shipments from Brazil and increased bauxite exports from Guinea, which collectively absorbed more tonnage and supported higher utilisation and spot rates. | Vessel operating patterns also signalled tightening supply, with laden speeds remaining steady, ballast speeds edged higher, reaching their highest level this year, indicating owners repositioning to capture stronger market opportunities.",
   "source_file": "Drewry_AIS_PDF_Drybulk_Capesize_Week49_20251.pdf"
 }

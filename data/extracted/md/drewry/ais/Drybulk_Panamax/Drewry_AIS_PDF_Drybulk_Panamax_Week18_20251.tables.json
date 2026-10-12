@@ -14,11 +14,13 @@
   "bunker_price_mom_pct": -0.9,
   "ballast_speed_east_mom_pct": -2.1,
   "ballast_speed_west_mom_pct": 1.4,
+  "anchor_capacity_west_mom_pct": -28.6,
+  "anchor_capacity_east_mom_pct": 15.5,
   "anchor_4w_ma_change_mdwt": 0.9,
   "laden_anchor_days_4w_change_pct": 23.3,
   "laden_share_east_mom_pp": -3.0,
   "laden_share_west_mom_pp": -0.9,
-  "commentary_title": "",
-  "commentary_summary": "",
+  "commentary_title": "Panamax Index drops amid vessel speed changes",
+  "commentary_summary": "The Panamax tonne-miles index declined by 4.4% in week 18 in tandem with falling ballast and laden speed. | Laden speed in the West dropped, accompanied by a decrease in the percentage of laden vessels in the region as vessels sought employment. | Vessels at anchor in the East increased 15.5% MoM, followed by increased congestion of both ballast and laden vessels in the East. | Laden tonnage in India increased due to increased thermal coal imports, which hit a 10-month high, led by a surge in shipments from Indonesia, resulting in improved market sentiments.",
   "source_file": "Drewry_AIS_PDF_Drybulk_Panamax_Week18_20251.pdf"
 }
