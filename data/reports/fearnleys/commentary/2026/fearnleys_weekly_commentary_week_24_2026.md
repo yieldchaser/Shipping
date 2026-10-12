@@ -6,7 +6,7 @@ week: 24
 date_range: "2026-06-10 to 2026-06-12"
 comments_count: 9
 sectors: ["Dry Bulk", "Tankers", "Gas & LNG", "Sale and Purchase (S&P)"]
-generated_at: "2026-10-11 21:03:40"
+generated_at: "2026-10-12 13:31:44"
 ---
 
 # Fearnleys Weekly Broker Commentary - Week 24, 2026
@@ -55,7 +55,11 @@ A busy first half of the week, with an enormous amount of off market activity al
 ### Aframax Weekly Comment
 **Date:** 2026-06-10 | **Subtype:** Tank Weekly Comment | **Desk:** Fearnleys Research
 
-North Sea The market has remained stable through the 2nd decade in the low WS 150’s. Natural window is now moving into the 3rd decade and with relets still in the mix taking stems activity has been limited. With surrounding markets also looking softer there isn’t much in the way of pressure on charterers so steady as we go for the near future.  Mediterranean A Libyan cargo on Monday managed to attract 6-7 offers in and as a result cross Mediterranean runs corrected by 15 points which was then repeated multiple times. Activity has been consistently healthy, but the fundamental issue is the excess tonnage supply as 70% of the total LR2's on the water are trading in DPP with majority in the West of Suez markets. US markets took a blow yesterday however the flow of ballasters is expected to remain steady from Europe. Overall, steady/softer with owners to try and stop the downfall.
+North Sea
+The market has remained stable through the 2nd decade in the low WS 150’s. Natural window is now moving into the 3rd decade and with relets still in the mix taking stems activity has been limited. With surrounding markets also looking softer there isn’t much in the way of pressure on charterers so steady as we go for the near future.
+
+Mediterranean
+A Libyan cargo on Monday managed to attract 6-7 offers in and as a result cross Mediterranean runs corrected by 15 points which was then repeated multiple times. Activity has been consistently healthy, but the fundamental issue is the excess tonnage supply as 70% of the total LR2's on the water are trading in DPP with majority in the West of Suez markets. US markets took a blow yesterday however the flow of ballasters is expected to remain steady from Europe. Overall, steady/softer with owners to try and stop the downfall.
 
 ---
 
@@ -71,13 +75,19 @@ The persistent arbitrage to head East and a relative lack of available vessels s
 ### SnP Weekly Comment
 **Date:** 2026-06-12 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
-Tanker market earnings may be cooling slightly but transactions this week prove that buyers’ confidence in this disrupted market remains sky high. CMBTech owned scrubber fitted suezmax pair BREST/BRUGGE (157K dwt Hyundai Samho 2023) are reported sold at USD 112M each, well in excess of the last Korean built resale units (albeit with later delivery) which were sold to Teekay in May at USD 95M each. Numbers like this are sure to make every modern suezmax owner think twice about their youngest units. As a result of this pricing, newbuilding remains a popular choice for investors, with healthy numbers being reported.   Those expecting an avalanche of deals to be reported after the Posidonia week will be slightly disappointed, however it is worth remembering that the general market fundamentals have not changed, and the overall geopolitical position is arguably at it’s most tense in weeks. Sellers of older capesize units are being rewarded for their patience, seeing excellent exits such as KERKIS (176K dwt Namura 2007)*SSDD due in November 26, sold for USD 25.5M.
+Tanker market earnings may be cooling slightly but transactions this week prove that buyers’ confidence in this disrupted market remains sky high. CMBTech owned scrubber fitted suezmax pair BREST/BRUGGE (157K dwt Hyundai Samho 2023) are reported sold at USD 112M each, well in excess of the last Korean built resale units (albeit with later delivery) which were sold to Teekay in May at USD 95M each. Numbers like this are sure to make every modern suezmax owner think twice about their youngest units. As a result of this pricing, newbuilding remains a popular choice for investors, with healthy numbers being reported.
+ 
+Those expecting an avalanche of deals to be reported after the Posidonia week will be slightly disappointed, however it is worth remembering that the general market fundamentals have not changed, and the overall geopolitical position is arguably at it’s most tense in weeks. Sellers of older capesize units are being rewarded for their patience, seeing excellent exits such as KERKIS (176K dwt Namura 2007)*SSDD due in November 26, sold for USD 25.5M.
 
 ---
 
 ### Chartering Weekly Comment
 **Date:** 2026-06-10 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
-WEST Spot fixing activity has been subdued in the West this week, except from one Asian major fixing a ship at around USD 250 HCvP for 3rd decade July via tender. Forward fixing out of the US Gulf remains limited, with just 8 spot fixtures recorded so far for July loading (3/4/1 by decade). This is a marked slowdown compared to previous months and highlights the current lack of visible cargo flow. Meanwhile, prompt ship availability remains tight, with only two VLGCs available for loading up to 10th July, and just a handful of ships for 10-15 July window. This constrained availability suggests that the market retains upside potential and could quickly firm once more cargoes emerge.  EAST MEG exports remain constrained amid the ongoing Iran situation, limiting conventional cargo flow. However, alternative setups have recently created some business, with STS cargoes reported off Sohar at premium rates. These have been fixed around USD 215 RT/CH.
+WEST
+Spot fixing activity has been subdued in the West this week, except from one Asian major fixing a ship at around USD 250 HCvP for 3rd decade July via tender. Forward fixing out of the US Gulf remains limited, with just 8 spot fixtures recorded so far for July loading (3/4/1 by decade). This is a marked slowdown compared to previous months and highlights the current lack of visible cargo flow. Meanwhile, prompt ship availability remains tight, with only two VLGCs available for loading up to 10th July, and just a handful of ships for 10-15 July window. This constrained availability suggests that the market retains upside potential and could quickly firm once more cargoes emerge.
+
+EAST
+MEG exports remain constrained amid the ongoing Iran situation, limiting conventional cargo flow. However, alternative setups have recently created some business, with STS cargoes reported off Sohar at premium rates. These have been fixed around USD 215 RT/CH.
 
 ---

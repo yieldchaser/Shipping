@@ -6,7 +6,7 @@ week: 21
 date_range: "2026-05-20 to 2026-05-22"
 comments_count: 9
 sectors: ["Dry Bulk", "Tankers", "Gas & LNG", "Sale and Purchase (S&P)"]
-generated_at: "2026-10-11 21:03:40"
+generated_at: "2026-10-12 13:31:44"
 ---
 
 # Fearnleys Weekly Broker Commentary - Week 21, 2026
@@ -55,7 +55,11 @@ There has been sufficient activity across Black Sea-USG-Guyana-West Africa to ke
 ### Aframax Weekly Comment
 **Date:** 2026-05-20 | **Subtype:** Tank Weekly Comment | **Desk:** Fearnleys Research
 
-North Sea North Sea sentiment has continued to soften on the lack of activity and surrounding markets also remaining relatively soft. Early vessels have had to make the decision to ballast out after missing natural dates with a mixture heading Mediterranean and USG. Natural window in the North Sea pushing into 28-30 window and with a long weekend coming up, end May and very early June dates will most likely need cover this side of the weekend. Market steady for now.  Mediterranean We are close to get sold-out for May dates in the Mediterranean with end-month cargoes now being worked. Tonnage list has become a bit more balanced considering that a couple of vessels in the list will either ballast to US or to Baltic. Reports of WS 180 done for Libya/Augusta might put some extra pressure on the rates but otherwise it feels we have bottomed as owners start to not make sense of lower rates.
+North Sea
+North Sea sentiment has continued to soften on the lack of activity and surrounding markets also remaining relatively soft. Early vessels have had to make the decision to ballast out after missing natural dates with a mixture heading Mediterranean and USG. Natural window in the North Sea pushing into 28-30 window and with a long weekend coming up, end May and very early June dates will most likely need cover this side of the weekend. Market steady for now.
+
+Mediterranean
+We are close to get sold-out for May dates in the Mediterranean with end-month cargoes now being worked. Tonnage list has become a bit more balanced considering that a couple of vessels in the list will either ballast to US or to Baltic. Reports of WS 180 done for Libya/Augusta might put some extra pressure on the rates but otherwise it feels we have bottomed as owners start to not make sense of lower rates.
 
 ---
 
@@ -63,7 +67,10 @@ North Sea North Sea sentiment has continued to soften on the lack of activity an
 ### LNG Market Report
 **Date:** 2026-05-20 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
-The Atlantic market had been showing early signs of a typical summer slowdown, driven in part by an overhang of prompt tonnage following the impact of production issues at Freeport. However, this softer sentiment has proven short lived, as  prompt requirements have emerged including additional production in West and North Africa. As a result, vessel availability has tightened at the front end. Overall rate levels remain firm. While isolated fixtures have been concluded at marginal discounts where availability has been more constrained, these appear to be exceptions rather than a broader trend. Charterers continue to demonstrate a willingness to pay a premium to secure operational flexibility, particularly for multi-voyage employment and/or redelivery into Asia. The prompt forward curve remains supported, although visibility further out is becoming increasingly limited. There is discernible interest in covering positions across the next two quarters; however, the absence of meaningful 12 month bidding suggests a degree of caution. This has, in effect, introduced a pronounced backwardation extending into 2027. Beyond the near term, the outlook remains highly uncertain. Much will depend on the evolution of geopolitical factors, including the ongoing and unresolved disruptions around the Strait of Hormuz. In this context, further volatility cannot be ruled out. At the same time, the broader balance of global gas supply remains under scrutiny, particularly with several traditionally quiet buying regions expected to return to the market ahead of peak demand in the second half of the year.
+The Atlantic market had been showing early signs of a typical summer slowdown, driven in part by an overhang of prompt tonnage following the impact of production issues at Freeport. However, this softer sentiment has proven short lived, as  prompt requirements have emerged including additional production in West and North Africa. As a result, vessel availability has tightened at the front end.
+Overall rate levels remain firm. While isolated fixtures have been concluded at marginal discounts where availability has been more constrained, these appear to be exceptions rather than a broader trend. Charterers continue to demonstrate a willingness to pay a premium to secure operational flexibility, particularly for multi-voyage employment and/or redelivery into Asia.
+The prompt forward curve remains supported, although visibility further out is becoming increasingly limited. There is discernible interest in covering positions across the next two quarters; however, the absence of meaningful 12 month bidding suggests a degree of caution. This has, in effect, introduced a pronounced backwardation extending into 2027.
+Beyond the near term, the outlook remains highly uncertain. Much will depend on the evolution of geopolitical factors, including the ongoing and unresolved disruptions around the Strait of Hormuz. In this context, further volatility cannot be ruled out. At the same time, the broader balance of global gas supply remains under scrutiny, particularly with several traditionally quiet buying regions expected to return to the market ahead of peak demand in the second half of the year.
 
 ---
 
@@ -71,7 +78,9 @@ The Atlantic market had been showing early signs of a typical summer slowdown, d
 ### SnP Weekly Comment
 **Date:** 2026-05-22 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
-Those in the market wondering what the top and bottom of the VLCC values curve looks like are in luck this week, as we report sales of 2002 and 2026 built units. Granted these are different countries of build, but the picture is as clear as it can be for owners and prospective buyers of this size of tanker. LAS PALMAS (306K DWT Hengli 2026) has been purchased by Trafigura for USD 163M, while Scrubber fitted ABIE (302K DWT Samsung 2002) was sold at USD 40.5M. Those on the selling side are happy to exit at these historic levels, so long as buyers continue to chase these units; a scenario that shows no signs of letting off. This tanker market is feeding off the lingering Hormuz disruption, and there is more than enough uncertainty to prolong the higher earnings environment while any bearish arguments can be countered with a potential post Hormuz resolution bounce.    The dry market has generally been the substory in the shipping world of late, but rates and values are surging upwards. The high volume of reported transactions this week is likely a culmination of recent weeks but still represents significant dealmaking and notable buyer confidence in this market. As usual among dry, we are seeing transactions centred around 10–15-year-old + age range with a couple of modern units sprinkled in. Of those modern units, in a rare mini cape transaction, Asyad bought LOWLANDS AMBER/CRIMSON (100KDWT OSHIMA 2021/20) for USD 75.M en bloc.
+Those in the market wondering what the top and bottom of the VLCC values curve looks like are in luck this week, as we report sales of 2002 and 2026 built units. Granted these are different countries of build, but the picture is as clear as it can be for owners and prospective buyers of this size of tanker. LAS PALMAS (306K DWT Hengli 2026) has been purchased by Trafigura for USD 163M, while Scrubber fitted ABIE (302K DWT Samsung 2002) was sold at USD 40.5M. Those on the selling side are happy to exit at these historic levels, so long as buyers continue to chase these units; a scenario that shows no signs of letting off. This tanker market is feeding off the lingering Hormuz disruption, and there is more than enough uncertainty to prolong the higher earnings environment while any bearish arguments can be countered with a potential post Hormuz resolution bounce. 
+ 
+The dry market has generally been the substory in the shipping world of late, but rates and values are surging upwards. The high volume of reported transactions this week is likely a culmination of recent weeks but still represents significant dealmaking and notable buyer confidence in this market. As usual among dry, we are seeing transactions centred around 10–15-year-old + age range with a couple of modern units sprinkled in. Of those modern units, in a rare mini cape transaction, Asyad bought LOWLANDS AMBER/CRIMSON (100KDWT OSHIMA 2021/20) for USD 75.M en bloc.
 
 ---
 

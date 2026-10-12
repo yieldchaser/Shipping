@@ -6,7 +6,7 @@ week: 33
 date_range: "2020-08-10 to 2020-08-14"
 comments_count: 14
 sectors: ["Dry Bulk", "Tankers", "Gas & LNG", "Sale and Purchase (S&P)"]
-generated_at: "2026-10-11 21:03:33"
+generated_at: "2026-10-12 13:31:37"
 ---
 
 # Fearnleys Weekly Broker Commentary - Week 33, 2020
@@ -84,21 +84,29 @@ Both in the North Sea/Baltic and Med/Bsea markets we have seen the trend go from
 ### LNG Market Report
 **Date:** 2020-08-10 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
-The LNG market has slowly started “getting into shape” for winter, with sentiment gradually increasing. A couple of multi-month shipping requirements have been covered and spot interest remains active,  increasing spot rates. Asia delivered LNG price has further improved, opening a handful of potential opportunities for traders and portfolio players. Availability of vessels has seen a slight decrease, yet there remains an overhang of tonnage to work through, still with Charterers’ seeking coverage for future laycans while Owner’s attention is focused on prompt. On the flip side, concerns over a second wave of coronavirus could put a halt to recent improving sentiments, as a number of countries are monitoring recent upticks in infection levels. Nevertheless, for the time being, Owners are holding a firm stance on their ideas for winter. In the Newbuilding market no new orders have been reported this week.
+The LNG market has slowly started “getting into shape” for winter, with sentiment gradually increasing. A couple of multi-month shipping requirements have been covered and spot interest remains active,  increasing spot rates. Asia delivered LNG price has further improved, opening a handful of potential opportunities for traders and portfolio players. Availability of vessels has seen a slight decrease, yet there remains an overhang of tonnage to work through, still with Charterers’ seeking coverage for future laycans while Owner’s attention is focused on prompt.
+On the flip side, concerns over a second wave of coronavirus could put a halt to recent improving sentiments, as a number of countries are monitoring recent upticks in infection levels. Nevertheless, for the time being, Owners are holding a firm stance on their ideas for winter.
+In the Newbuilding market no new orders have been reported this week.
 
 ---
 
 ### Gas Market Weekly Comment - Eastern Market
 **Date:** 2020-08-10 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
-MEG: Sep Propane CP stabilized at $368 at the time of writing, and Butane traded at $13 less. CP spread from Sep to Nov is traded at nearly flattish, yet to reflect the seasonal demand changes. ADNOC released their Sep lifting acceptances with advancements reported as well. Supply ex MEG still appears long as producers reported with spot availability for 2h Sep liftings.   FAR EAST: Discussions for 1h Sep delivery propane were muted, and players attempt to swap cargo for later arrival. Propane for 2h Sep delivery was traded at FEI minus mid-teens for half parcel, and minus high teens respectively for a full lot. Despite the potential 10-11 cancellations from Aug to Sep liftings ex US, the Arb volume was not expected to decline much due to terminal resales and recording new high exports for Jul and Aug.  Taiwan FPCC issued buy tender to secure 23kt LPG for 2h Sep delivery, either 11/11 or pure propane or butane. Other East buyers are exploring cargos for similar period or end Sep/Early Oct delivery, but not rush to move with current high inventory.
+MEG:
+Sep Propane CP stabilized at $368 at the time of writing, and Butane traded at $13 less. CP spread from Sep to Nov is traded at nearly flattish, yet to reflect the seasonal demand changes. ADNOC released their Sep lifting acceptances with advancements reported as well. Supply ex MEG still appears long as producers reported with spot availability for 2h Sep liftings. 
+
+FAR EAST:
+Discussions for 1h Sep delivery propane were muted, and players attempt to swap cargo for later arrival. Propane for 2h Sep delivery was traded at FEI minus mid-teens for half parcel, and minus high teens respectively for a full lot. Despite the potential 10-11 cancellations from Aug to Sep liftings ex US, the Arb volume was not expected to decline much due to terminal resales and recording new high exports for Jul and Aug. 
+Taiwan FPCC issued buy tender to secure 23kt LPG for 2h Sep delivery, either 11/11 or pure propane or butane. Other East buyers are exploring cargos for similar period or end Sep/Early Oct delivery, but not rush to move with current high inventory.
 
 ---
 
 ### Gas Market Weekly Comment - Western Market
 **Date:** 2020-08-10 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
-AMERICAS: Domestic US propane inventories are now at 89.3 million barrels after a slightly larger than expected 2.6 million barrel build for the week ended Friday August 7th. With these high inventories, one would expect Mt Belvieu to be below 52% of WTI as it is today. The netback picture is not pretty from the US at the moment. The arb for September could support US FOB bids in the 4cpgs around cancellation levels. However the physical window discount in the East is keeping firm bids from being shown. We expect to see an improvement in netback values if any positive demand signals are seen from the East. If this occurs at the same time as a drop in Mt Belvieu and cheaper freight rates, the netback value could see a sharp rise. Let’s hope this occurs sooner rather than later.
+AMERICAS:
+Domestic US propane inventories are now at 89.3 million barrels after a slightly larger than expected 2.6 million barrel build for the week ended Friday August 7th. With these high inventories, one would expect Mt Belvieu to be below 52% of WTI as it is today. The netback picture is not pretty from the US at the moment. The arb for September could support US FOB bids in the 4cpgs around cancellation levels. However the physical window discount in the East is keeping firm bids from being shown. We expect to see an improvement in netback values if any positive demand signals are seen from the East. If this occurs at the same time as a drop in Mt Belvieu and cheaper freight rates, the netback value could see a sharp rise. Let’s hope this occurs sooner rather than later.
 
 ---
 
@@ -106,13 +114,24 @@ AMERICAS: Domestic US propane inventories are now at 89.3 million barrels after 
 ### SnP Weekly Comment
 **Date:** 2020-08-14 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
-A resurgence of the coronavirus in parts of the world with associated lockdowns re-imposed is like cancer for the world economy and inevitably shipping. Whilst we continue to see a steady flow of bulkcarriers changing hands, the 2nd hand market has failed to fully ignite and caution is prevailing. That being said, dry values are well supported and both buyers and sellers should have enough transparency to transact in light of the above mentioned liquidity.  The crude tanker S&P market is more in a limbo. The brand new ships are inevitably being revalued in line with falling replacement costs and earnings are far from lending support to any significant activity nor premium above assumed replacement cost. The result is zero sales volume of very modern ships. The vintage crude tankers have a double whammy – low earnings/storage play gone and recently also much reduced demolition prices. Values are clearly adjusting downwards. Two 2001 built suezmax tankers are in play with deals expected to be concluded in the mid-teens. That leaves the semi-modern, non eco ships built say from 2008 to 2012 which is where we expect to see increased sales activity going forward. As always, it’s “just” a question of price but buyers will hold the upper hand.
+A resurgence of the coronavirus in parts of the world with associated lockdowns re-imposed is like cancer for the world economy and inevitably shipping. Whilst we continue to see a steady flow of bulkcarriers changing hands, the 2nd hand market has failed to fully ignite and caution is prevailing. That being said, dry values are well supported and both buyers and sellers should have enough transparency to transact in light of the above mentioned liquidity.
+
+The crude tanker S&P market is more in a limbo. The brand new ships are inevitably being revalued in line with falling replacement costs and earnings are far from lending support to any significant activity nor premium above assumed replacement cost. The result is zero sales volume of very modern ships. The vintage crude tankers have a double whammy – low earnings/storage play gone and recently also much reduced demolition prices. Values are clearly adjusting downwards. Two 2001 built suezmax tankers are in play with deals expected to be concluded in the mid-teens. That leaves the semi-modern, non eco ships built say from 2008 to 2012 which is where we expect to see increased sales activity going forward. As always, it’s “just” a question of price but buyers will hold the upper hand.
 
 ---
 
 ### Chartering Weekly Comment
 **Date:** 2020-08-10 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
-ANNOUNCEMENT: Libra Fearnley Energy is please to announce Mr Scott Gray will join as a cargo broker starting Sept 17th,2020. After 35 years experience in the LPG market at ICIS, The Waterborne Report and most recently IHS , we are very excited to have Scott bring his extensive contacts and experience to our team. Scott will work out of our Houston office located at 1 Riverway , Suite 1810 Houston Texas 77056 and is contactable at his direct line of + 1 713 403 2547 and mobile + 1 713 824 0252.  --  WEST: Despite a fair few options with regards to spot FOB cargoes in 1H Sep, freight activity West of Suez has been relatively limited so far this week. Charterers seem to be between a rock and a hard place: on one hand, Owners’ ideas remain strong at around mid $90s Houston/Chiba. On the other, current arb economics and a persistently weak Ginga window mean September liftings are not especially appealing. This dynamic has all market participants primed for news of cancellations ex US, although so far it seems some players have preferred to defer to later in September than to cancel altogether.  EAST: The week got off to a quiet start in the East with public holidays both in Singapore and Japan on Monday. But as soon as people returned to their offices we saw increased activity on shipping for 1st decade of September, which was mainly triggered by the announcement of the Adnoc acceptances earlier. Last done levels are now around low/mid usd 60s Baltic, and the general sentiment going forward is that Baltic should come off slightly as there is currently more supply of spot open tonnages. However, we are still awaiting the acceptances from Aramco which could potentially create more demand for shipping from Indian majors (along with other lifters). If a larger part of these cargos were to be allocated towards the front end of the month that could help to maintain the levels we are seeing today.
+ANNOUNCEMENT:
+Libra Fearnley Energy is please to announce Mr Scott Gray will join as a cargo broker starting Sept 17th,2020. After 35 years experience in the LPG market at ICIS, The Waterborne Report and most recently IHS , we are very excited to have Scott bring his extensive contacts and experience to our team. Scott will work out of our Houston office located at 1 Riverway , Suite 1810 Houston Texas 77056 and is contactable at his direct line of + 1 713 403 2547 and mobile + 1 713 824 0252.
+
+--
+
+WEST:
+Despite a fair few options with regards to spot FOB cargoes in 1H Sep, freight activity West of Suez has been relatively limited so far this week. Charterers seem to be between a rock and a hard place: on one hand, Owners’ ideas remain strong at around mid $90s Houston/Chiba. On the other, current arb economics and a persistently weak Ginga window mean September liftings are not especially appealing. This dynamic has all market participants primed for news of cancellations ex US, although so far it seems some players have preferred to defer to later in September than to cancel altogether.
+
+EAST:
+The week got off to a quiet start in the East with public holidays both in Singapore and Japan on Monday. But as soon as people returned to their offices we saw increased activity on shipping for 1st decade of September, which was mainly triggered by the announcement of the Adnoc acceptances earlier. Last done levels are now around low/mid usd 60s Baltic, and the general sentiment going forward is that Baltic should come off slightly as there is currently more supply of spot open tonnages. However, we are still awaiting the acceptances from Aramco which could potentially create more demand for shipping from Indian majors (along with other lifters). If a larger part of these cargos were to be allocated towards the front end of the month that could help to maintain the levels we are seeing today.
 
 ---

@@ -6,7 +6,7 @@ week: 18
 date_range: "2021-05-04 to 2021-05-07"
 comments_count: 14
 sectors: ["Dry Bulk", "Tankers", "Gas & LNG", "Sale and Purchase (S&P)"]
-generated_at: "2026-10-11 21:03:34"
+generated_at: "2026-10-12 13:31:38"
 ---
 
 # Fearnleys Weekly Broker Commentary - Week 18, 2021
@@ -91,14 +91,31 @@ With much of the LNG world enjoying various holidays and some much needed time o
 ### Gas Market Weekly Comment - Eastern Market
 **Date:** 2021-05-04 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
-MEG June propane CP surged up to $506 following the crude rise, and C3/C4 spread narrowed down to $10 as expected. Jun/Jul CP traded flattish and forward market enters a slight contango structure. KPC sold their 12/13 Jun lifting evenly split cargo via tender reportedly.    FAR EAST Although it’s holiday week in Asian market, active bids/offers emerged in window this week. 23k propane parcel for 1h Jun delivery was bid at Jun FEI plus mid-single digit on Thursday, while earlier this week such parcel was concluded at 1-2 bucks higher. Similar cargo for 2h Jun delivery was bid at Jun FEI plus $3-4 whereas offer at $6/7, off window such was traded in between. With the return from holiday, market becomes more active from Thursday. One EChina Petchem user is reported to award its buy tender for one mid-June arrival propane cargo at Jun FEI plus high single digit. Similarly, another Schina petchem buyer also issued tender to secure 23k propane parcel for 5/15th Jun delivery.
+MEG
+June propane CP surged up to $506 following the crude rise, and C3/C4 spread narrowed down to $10 as expected. Jun/Jul CP traded flattish and forward market enters a slight contango structure. KPC sold their 12/13 Jun lifting evenly split cargo via tender reportedly. 
+
+FAR EAST
+Although it’s holiday week in Asian market, active bids/offers emerged in window this week. 23k propane parcel for 1h Jun delivery was bid at Jun FEI plus mid-single digit on Thursday, while earlier this week such parcel was concluded at 1-2 bucks higher. Similar cargo for 2h Jun delivery was bid at Jun FEI plus $3-4 whereas offer at $6/7, off window such was traded in between. With the return from holiday, market becomes more active from Thursday. One EChina Petchem user is reported to award its buy tender for one mid-June arrival propane cargo at Jun FEI plus high single digit. Similarly, another Schina petchem buyer also issued tender to secure 23k propane parcel for 5/15th Jun delivery.
 
 ---
 
 ### Gas Market Weekly Comment - Western Market
 **Date:** 2021-05-04 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
-NWE  The CIF ARA forward curve is as flat as a crêpe! Traders in the region wait to see the full extent of LPG volume reduction due to maintenance in the North Sea. LPG exports from Karsto could be reduced by up to 77% from 15th May - 3rd June. Most had covered shorts anticipating this local production squeeze which has led to a quiet market of late. This has also brought the TOT Window premium down to May CIF ARA +$2.5pmt. Large cargo butane is assessed at 83% May Naphtha strong as Naphtha is at 3 year highs.    MED The region has been quiet with reduced demand due to coronavirus restrictions and lockdowns. This has led to buyers keeping their cards close to their chests as they believe they will be able to find tons when demand appears.  AMERICAS  The EIA this week released its propane inventory data amid expectations of a 750,000 - 1mmbbl build, only to deliver what was seen as a disappointing half-million barrel improvement.  Overall US propane stocks as of 30 April are recorded at 41.471mmbbls, a deficit of 11.905mmbbls from the 59.376mmbbl total seen at the same time last year.  Stock levels will need to build at an average rate of 1.8mmbbls per week for the next 22 weeks – which is completely within reach- (but not with such a large export program) in order to achieve the generally established minimum of ~80mmbbls by the first week of October.   Domestic production levels are still healthy at 2.273mmbbls/day (compared to 2.046mmbbls/day last year), but export volumes – despite the reported lull this week – and res/com demand are still robust while petrochemical demand continues to slowly gain momentum.  Those factors (plus any weather-related factors) could make reaching the 80mmbbl goal a challenge.    As always, however, the price will resolve everything, and as such a handful of cargo cancellations were noted this week as cargo economics remain at touch-and-go levels.    Terminal fees have recently seen a fair amount of volatility, having ended April in the 5-6ct/gal range, commenced May with offers at below 2cts, only to see a resurgence in the first week back to the low/mid 4ct/gal range.
+NWE 
+The CIF ARA forward curve is as flat as a crêpe! Traders in the region wait to see the full extent of LPG volume reduction due to maintenance in the North Sea. LPG exports from Karsto could be reduced by up to 77% from 15th May - 3rd June. Most had covered shorts anticipating this local production squeeze which has led to a quiet market of late. This has also brought the TOT Window premium down to May CIF ARA +$2.5pmt. Large cargo butane is assessed at 83% May Naphtha strong as Naphtha is at 3 year highs.  
+
+MED
+The region has been quiet with reduced demand due to coronavirus restrictions and lockdowns. This has led to buyers keeping their cards close to their chests as they believe they will be able to find tons when demand appears.
+
+AMERICAS 
+The EIA this week released its propane inventory data amid expectations of a 750,000 - 1mmbbl build, only to deliver what was seen as a disappointing half-million barrel improvement.  Overall US propane stocks as of 30 April are recorded at 41.471mmbbls, a deficit of 11.905mmbbls from the 59.376mmbbl total seen at the same time last year.  Stock levels will need to build at an average rate of 1.8mmbbls per week for the next 22 weeks – which is completely within reach- (but not with such a large export program) in order to achieve the generally established minimum of ~80mmbbls by the first week of October.
+ 
+Domestic production levels are still healthy at 2.273mmbbls/day (compared to 2.046mmbbls/day last year), but export volumes – despite the reported lull this week – and res/com demand are still robust while petrochemical demand continues to slowly gain momentum.  Those factors (plus any weather-related factors) could make reaching the 80mmbbl goal a challenge. 
+ 
+As always, however, the price will resolve everything, and as such a handful of cargo cancellations were noted this week as cargo economics remain at touch-and-go levels. 
+ 
+Terminal fees have recently seen a fair amount of volatility, having ended April in the 5-6ct/gal range, commenced May with offers at below 2cts, only to see a resurgence in the first week back to the low/mid 4ct/gal range.
 
 ---
 
@@ -106,13 +123,19 @@ NWE  The CIF ARA forward curve is as flat as a crêpe! Traders in the region wai
 ### SnP Weekly Comment
 **Date:** 2021-05-07 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
-Despite a week shortened by a number of national bank holidays, the markets continue to joy of healthy amount of transactions. On the tanker front, activity has picked up on the mid 2000 product carriers with three vessels changing hands this week and signs of a number of ongoing inspections and negotiations suggesting further activity in the near future. Empire Navigation have sold the Chinese built “MR ARIES” (2009, GSI, 50k dwt) at Usd 13.5m setting a benchmark for MR units of Chinese design. To put values in perspective, the last comparable sale was of a 2008 Korean built deepwell unit sold last week at xs of Usd 13m. The relative lack of  transaction in other tanker segments is not reflective of the current appetite for tonnage with buyers being met by a fading offer from sellers that are taking a standby stance in view of better days ahead.   Dry SnP markets continue to see a flurry of sales with the Supramax segment capturing most of the activity this week with 6 vessels changing hands. Dolphin 57 design units are seeing their value on the rise with Cosmoship disposing of their sisterships “LEGACY & OLYMPIC” (2011/2012, Jinling, 57k dwt) at USD 28m. Indicative of the unhindered rally in values witnessed over the past several months, these vessels were acquired by the sellers in September last year for an enbloc price of Usd 17.8m.
+Despite a week shortened by a number of national bank holidays, the markets continue to joy of healthy amount of transactions. On the tanker front, activity has picked up on the mid 2000 product carriers with three vessels changing hands this week and signs of a number of ongoing inspections and negotiations suggesting further activity in the near future. Empire Navigation have sold the Chinese built “MR ARIES” (2009, GSI, 50k dwt) at Usd 13.5m setting a benchmark for MR units of Chinese design. To put values in perspective, the last comparable sale was of a 2008 Korean built deepwell unit sold last week at xs of Usd 13m. The relative lack of  transaction in other tanker segments is not reflective of the current appetite for tonnage with buyers being met by a fading offer from sellers that are taking a standby stance in view of better days ahead.
+ 
+Dry SnP markets continue to see a flurry of sales with the Supramax segment capturing most of the activity this week with 6 vessels changing hands. Dolphin 57 design units are seeing their value on the rise with Cosmoship disposing of their sisterships “LEGACY & OLYMPIC” (2011/2012, Jinling, 57k dwt) at USD 28m. Indicative of the unhindered rally in values witnessed over the past several months, these vessels were acquired by the sellers in September last year for an enbloc price of Usd 17.8m.
 
 ---
 
 ### Chartering Weekly Comment
 **Date:** 2021-05-04 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
-EAST We have seen a couple of ships fixed for end May load in the AG this week rep in the low to mid 50s Baltic, and the sentiment on freight continue to move upwards as we are now only left with a few ships that can safely make end May dates in the Middle East. Meanwhile, there are currently 2 freight tenders in play for end May-ely June loading, and also some chatter about other potential Charterers already fishing for freight ideas off early June. With only the Qatar acceptances published for June time of writing, one could argue that this is bullish freight for next upcoming fixing window.  WEST Arbitrage trades out of the US have been closed for some time now and remain closed, as an effect we have witnessed a handful of cancellations/deferrals. Freight rates remain stagnant around mid/high $80’s pmt and some asking $90 plus as they see shipping availability is limited for June. It does not look like it is freight that will have to give this time around. We are entering a period whereby DD schedules are expected to peak in combination with record high exports for months out of the US, so if we see arbitrage conditions improving then freight has a strong potential to increase in the months ahead.
+EAST
+We have seen a couple of ships fixed for end May load in the AG this week rep in the low to mid 50s Baltic, and the sentiment on freight continue to move upwards as we are now only left with a few ships that can safely make end May dates in the Middle East. Meanwhile, there are currently 2 freight tenders in play for end May-ely June loading, and also some chatter about other potential Charterers already fishing for freight ideas off early June. With only the Qatar acceptances published for June time of writing, one could argue that this is bullish freight for next upcoming fixing window.
+
+WEST
+Arbitrage trades out of the US have been closed for some time now and remain closed, as an effect we have witnessed a handful of cancellations/deferrals. Freight rates remain stagnant around mid/high $80’s pmt and some asking $90 plus as they see shipping availability is limited for June. It does not look like it is freight that will have to give this time around. We are entering a period whereby DD schedules are expected to peak in combination with record high exports for months out of the US, so if we see arbitrage conditions improving then freight has a strong potential to increase in the months ahead.
 
 ---

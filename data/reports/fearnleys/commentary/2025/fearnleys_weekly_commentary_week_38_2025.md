@@ -6,7 +6,7 @@ week: 38
 date_range: "2025-09-17 to 2025-09-19"
 comments_count: 10
 sectors: ["Dry Bulk", "Tankers", "Gas & LNG", "Sale and Purchase (S&P)"]
-generated_at: "2026-10-11 21:03:39"
+generated_at: "2026-10-12 13:31:43"
 ---
 
 # Fearnleys Weekly Broker Commentary - Week 38, 2025
@@ -48,14 +48,20 @@ The market opened the week on a muted tone, with sentiment remaining firmer acro
 ### Suezmax Weekly Comment
 **Date:** 2025-09-17 | **Subtype:** Tank Weekly Comment | **Desk:** Fearnleys Research
 
-Within the current fixing window in WAF, we currently have abt. 12 vessels in ballast, with an additional of 20 vessels expected to supplement the list by Sunday. In terms of cargo coverage, we likely have sub 10 mbbls remaining. Despite the significant number of vessels expected to sail in the coming days and limited 1st decade cargoes left to cover in WAF, we expect that there should still be sufficient activity elsewhere in the West to help balance the list. Additionally, if the current strength on the VLCC’s continues, we expect that the sentiment may override the underlying fundamentals.   In the AG, the tonnage list is comparatively tighter and prospects remain strong, with VLCC’s holding at elevated levels. We are likely to see further VLCC stems split into Suezmaxes.
+Within the current fixing window in WAF, we currently have abt. 12 vessels in ballast, with an additional of 20 vessels expected to supplement the list by Sunday. In terms of cargo coverage, we likely have sub 10 mbbls remaining. Despite the significant number of vessels expected to sail in the coming days and limited 1st decade cargoes left to cover in WAF, we expect that there should still be sufficient activity elsewhere in the West to help balance the list. Additionally, if the current strength on the VLCC’s continues, we expect that the sentiment may override the underlying fundamentals. 
+
+In the AG, the tonnage list is comparatively tighter and prospects remain strong, with VLCC’s holding at elevated levels. We are likely to see further VLCC stems split into Suezmaxes.
 
 ---
 
 ### Aframax Weekly Comment
 **Date:** 2025-09-17 | **Subtype:** Tank Weekly Comment | **Desk:** Fearnleys Research
 
-NSEA Dates are pushing well into 3rd decade and available tonnage for natural nsea owners is on the light side for balance of the month.  Rates have moved up since last week and we could still see some tight points which may see owners make further gains.  MED A couple of cargoes off end-month dates worked yesterday in the market or quietly with Owners pushing above last-done on some specific ones. Tonnage list is getting shorter but expected to replenish a bit despite some few more ballasters to the States and at the same time we are closer to be sold-out for September.
+NSEA
+Dates are pushing well into 3rd decade and available tonnage for natural nsea owners is on the light side for balance of the month.  Rates have moved up since last week and we could still see some tight points which may see owners make further gains.
+
+MED
+A couple of cargoes off end-month dates worked yesterday in the market or quietly with Owners pushing above last-done on some specific ones. Tonnage list is getting shorter but expected to replenish a bit despite some few more ballasters to the States and at the same time we are closer to be sold-out for September.
 
 ---
 
@@ -70,7 +76,11 @@ We’re normally strapping ourselves in for spot rates’ annual trip to the moo
 ### Gas Market Weekly Comment - Eastern Market
 **Date:** 2025-09-18 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
-Cash differentials for Oct FOBs ex AG have edged up with strong butane demand from both India and China. Qatar Energy is reported to award their late Oct FOB 2/2 sale tender to a producer trading arm at Oct CP minus $5. HPCL also issued buy tender to secure 2/2 either FOB or CFR for Oct and Nov delivery. By the time of writing, Oct C3 CP was traded at $545 and C3/C4 at $23, Oct/Nov C3 CP at assessed at $12 contango.   While on the other hand, US fobs are less attractive amid firm MB price against solid freight, with netback of Oct and Nov lifting for EAST market at 4ish cpg only. US propane and propylene stock increased by 1.3 mil bbl, which is lower than expected and leaving inventory almost flat YOY basis.   On CFR Asia window, spot differentials fell further with a number of 23/0 parcels for 2h Oct delivery basis Chiba, being traded from Oct FEI minus $5 to minus $8/9ish. 46/0 parcel for 2h Oct delivery basis Chiba was offered at Oct FEI minus $15 vs bid at minus $19. Outside window discussions are less active as soaring costs for non-US stems into China eroded the petchem margins. Both Huayi and FIC were reported to cancel their tenders for non-Us propane for Oct delivery, with few favourable offers. FIC reissued tender to procure 23-46kt C3 for 2h Oct delivery into Ningbo including US origin, and FPC also tendered to buy flexible ratio for late Oct to Nov delivery into Mailiao. One 11k C3 non-Us for Oct delivery was heard sold into SChina at $590s and one 46kt C3 parcel for Oct delivery basis Ningbo was reported done at Oct FEI minus high single.
+Cash differentials for Oct FOBs ex AG have edged up with strong butane demand from both India and China. Qatar Energy is reported to award their late Oct FOB 2/2 sale tender to a producer trading arm at Oct CP minus $5. HPCL also issued buy tender to secure 2/2 either FOB or CFR for Oct and Nov delivery. By the time of writing, Oct C3 CP was traded at $545 and C3/C4 at $23, Oct/Nov C3 CP at assessed at $12 contango. 
+
+While on the other hand, US fobs are less attractive amid firm MB price against solid freight, with netback of Oct and Nov lifting for EAST market at 4ish cpg only. US propane and propylene stock increased by 1.3 mil bbl, which is lower than expected and leaving inventory almost flat YOY basis. 
+
+On CFR Asia window, spot differentials fell further with a number of 23/0 parcels for 2h Oct delivery basis Chiba, being traded from Oct FEI minus $5 to minus $8/9ish. 46/0 parcel for 2h Oct delivery basis Chiba was offered at Oct FEI minus $15 vs bid at minus $19. Outside window discussions are less active as soaring costs for non-US stems into China eroded the petchem margins. Both Huayi and FIC were reported to cancel their tenders for non-Us propane for Oct delivery, with few favourable offers. FIC reissued tender to procure 23-46kt C3 for 2h Oct delivery into Ningbo including US origin, and FPC also tendered to buy flexible ratio for late Oct to Nov delivery into Mailiao. One 11k C3 non-Us for Oct delivery was heard sold into SChina at $590s and one 46kt C3 parcel for Oct delivery basis Ningbo was reported done at Oct FEI minus high single.
 
 ---
 
@@ -78,13 +88,19 @@ Cash differentials for Oct FOBs ex AG have edged up with strong butane demand fr
 ### SnP Weekly Comment
 **Date:** 2025-09-19 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
-The story on tanker market remains largely the same this week, though with increasing anticipation of a strong period of earnings for crude tonnage. Modern units remain at a premium, shown in the sale of LR2 SILVERSTONE (113K DWT SWS 2025), bought by Transpetrol for USD 75M. Liquidity is increasing at the other end of the age curve with OLYMPIC SEA/SKY (104K DWT SWS 2008) being sold at USD $29.5M each.   Several ships taking offers this month has provided the dry market with somewhat of a recalibration. Firstly, in the ultramax sector, BULK CASTOR (66K DWT Mitsui 2015) took offers on Tuesday and is rumoured to have seen levels in the mid 24Ms. The final figure is likely to exceed this, given the reported sale of scrubber fitted AFRICAN CHEETAH (66K DWT Mitsui 2014) at USD 24M, following the same bidding process. Capesize WAKAYAMA MARU (181K DWT Koyo 2013) was bought by Asyad for USD 37M, setting the new benchmark for a non eco Japanese cape. Spot rates across the smaller sizes are at similar levels to the peaks of last year, and comparative asset prices suggest there could be some further upside for owners in what is now a seller’s market.
+The story on tanker market remains largely the same this week, though with increasing anticipation of a strong period of earnings for crude tonnage. Modern units remain at a premium, shown in the sale of LR2 SILVERSTONE (113K DWT SWS 2025), bought by Transpetrol for USD 75M. Liquidity is increasing at the other end of the age curve with OLYMPIC SEA/SKY (104K DWT SWS 2008) being sold at USD $29.5M each.
+ 
+Several ships taking offers this month has provided the dry market with somewhat of a recalibration. Firstly, in the ultramax sector, BULK CASTOR (66K DWT Mitsui 2015) took offers on Tuesday and is rumoured to have seen levels in the mid 24Ms. The final figure is likely to exceed this, given the reported sale of scrubber fitted AFRICAN CHEETAH (66K DWT Mitsui 2014) at USD 24M, following the same bidding process. Capesize WAKAYAMA MARU (181K DWT Koyo 2013) was bought by Asyad for USD 37M, setting the new benchmark for a non eco Japanese cape. Spot rates across the smaller sizes are at similar levels to the peaks of last year, and comparative asset prices suggest there could be some further upside for owners in what is now a seller’s market.
 
 ---
 
 ### Chartering Weekly Comment
 **Date:** 2025-09-18 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
-EAST With Saudi acceptances released last night, October programs are now being finalized. Freight earnings in the East are currently trailing the West market by approximately $10 per metric tonne. September fixing appears to have wrapped up, with a final fixture concluded today by a Middle Eastern producer. October fixing is expected to begin imminently. However, with just two weeks remaining before October and minimal fixing activity so far, one possible explanation being speculated is that these cargoes are held by Indian Public Sector Undertakings (PSUs).  WEST We have seen 18 deals ex US for October (8/9/1 by decade) and currently count about 10+ open ships left for the month. Owners’ ideas have ranged from low/mid usd 150s to 160+ depending on dates, but no deals have really been concluded since market reached a high last week. While Arb has narrowed overnight, we are still seeing potentially 4-5 cargos being looked at ex USG either as FOB sellers or freight buyers.
+EAST
+With Saudi acceptances released last night, October programs are now being finalized. Freight earnings in the East are currently trailing the West market by approximately $10 per metric tonne. September fixing appears to have wrapped up, with a final fixture concluded today by a Middle Eastern producer. October fixing is expected to begin imminently. However, with just two weeks remaining before October and minimal fixing activity so far, one possible explanation being speculated is that these cargoes are held by Indian Public Sector Undertakings (PSUs).
+
+WEST
+We have seen 18 deals ex US for October (8/9/1 by decade) and currently count about 10+ open ships left for the month. Owners’ ideas have ranged from low/mid usd 150s to 160+ depending on dates, but no deals have really been concluded since market reached a high last week. While Arb has narrowed overnight, we are still seeing potentially 4-5 cargos being looked at ex USG either as FOB sellers or freight buyers.
 
 ---

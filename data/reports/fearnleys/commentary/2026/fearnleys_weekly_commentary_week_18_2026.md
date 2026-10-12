@@ -6,7 +6,7 @@ week: 18
 date_range: "2026-04-29 to 2026-05-01"
 comments_count: 10
 sectors: ["Dry Bulk", "Tankers", "Gas & LNG", "Sale and Purchase (S&P)"]
-generated_at: "2026-10-11 21:03:40"
+generated_at: "2026-10-12 13:31:44"
 ---
 
 # Fearnleys Weekly Broker Commentary - Week 18, 2026
@@ -55,7 +55,11 @@ The market remains fairly active, however, rates in the West have started to sho
 ### Aframax Weekly Comment
 **Date:** 2026-04-29 | **Subtype:** Tank Weekly Comment | **Desk:** Fearnleys Research
 
-North Sea The anticipated strengthening of the US markets has happened which is pulling tonnage from the early part of the North Sea available list.   Activity for early May has been steady with Suezmax also in the mix from WCN. Natural dates are pushing towards the end of the first decade with a tighter list and firmer sentiment.  Mediterranean It's sentiment versus fundamentals so far this week in the Mediterranean with the USG activity pushing owners' resistance in Europe too. Tonnage list for local candidates in the Mediterranean is fairly balanced but possible delays in strategic discharge ports might make it look tighter. Hovering around last-done levels for now, but if activity picks up things might change quickly.
+North Sea
+The anticipated strengthening of the US markets has happened which is pulling tonnage from the early part of the North Sea available list.   Activity for early May has been steady with Suezmax also in the mix from WCN. Natural dates are pushing towards the end of the first decade with a tighter list and firmer sentiment.
+
+Mediterranean
+It's sentiment versus fundamentals so far this week in the Mediterranean with the USG activity pushing owners' resistance in Europe too. Tonnage list for local candidates in the Mediterranean is fairly balanced but possible delays in strategic discharge ports might make it look tighter. Hovering around last-done levels for now, but if activity picks up things might change quickly.
 
 ---
 
@@ -63,14 +67,22 @@ North Sea The anticipated strengthening of the US markets has happened which is 
 ### LNG Market Report
 **Date:** 2026-04-29 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
-There is unmissable irony in the description of spot charter rates for modern tonnage as “healthy”, given the ongoing crisis in the LNG market where the world’s largest single supplier continues to be cut off from its global customer base. Despite the forcibly idle tonnage unable to reach home base in the Middle East, levels continue to show resistance around a similar range as long-term charter rates.   Whilst the worst of the conflict is hopefully behind us, what lies ahead remains wholly uncertain. However, amongst strong activity in the spot market, some consensus has also emerged for periods covering the balance of the year and into Q1-27. Portfolios are taking positions down the curve at rates largely in line with current Atlantic spot, supported by higher LNG prices and anticipation of competition between basins in the second half of the year.    We continue to see signs of weak underlying fundamentals in the spot market, with length beginning to build on TFDE’s in the East and new requirements often flushing out fresh 2-stroke availabilities for short spot employment in the Atlantic. However, the same cannot be said for term availabilities, where 2-strokes are beginning to thin out and TFDE’s under independent control are less forthcoming when asked to lock in prevailing spot levels for longer period. It remains to be seen which strategy will pay off but with summer looming and speculation that tonne-miles could take another boost in the third quarter, we are eager to see how this plays out.
+There is unmissable irony in the description of spot charter rates for modern tonnage as “healthy”, given the ongoing crisis in the LNG market where the world’s largest single supplier continues to be cut off from its global customer base. Despite the forcibly idle tonnage unable to reach home base in the Middle East, levels continue to show resistance around a similar range as long-term charter rates. 
+
+Whilst the worst of the conflict is hopefully behind us, what lies ahead remains wholly uncertain. However, amongst strong activity in the spot market, some consensus has also emerged for periods covering the balance of the year and into Q1-27. Portfolios are taking positions down the curve at rates largely in line with current Atlantic spot, supported by higher LNG prices and anticipation of competition between basins in the second half of the year.  
+
+We continue to see signs of weak underlying fundamentals in the spot market, with length beginning to build on TFDE’s in the East and new requirements often flushing out fresh 2-stroke availabilities for short spot employment in the Atlantic. However, the same cannot be said for term availabilities, where 2-strokes are beginning to thin out and TFDE’s under independent control are less forthcoming when asked to lock in prevailing spot levels for longer period. It remains to be seen which strategy will pay off but with summer looming and speculation that tonne-miles could take another boost in the third quarter, we are eager to see how this plays out.
 
 ---
 
 ### Gas Market Weekly Comment - Eastern Market
 **Date:** 2026-04-30 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
-Saudi Aramco announced May CP at $750 for C3 and $800 for C4, a rollover from April, which lagged behind the recent spike in oil price, amid concerns over middle East supply disruptions.   Arbitrage strengthened this week with improved premium on CFR FAR EAST, with FEI/Lst spread widening to $376 for May and $308 for June. However terminal fee for Jun lifting US FOBs declined further against soaring freight and higher Panama transit costs. Mid Jun lifting 2/2 spot cargo was reported traded in low 20 cpg, while 4/0 was discussed at low teens only. U.S. propane/propylene inventories declined by 1.1 mmt barrels to 78.8 million barrels in the week ended 24th Apr, leaving stocks remained 67% higher year on year.   On Thursday window, a 23/0 parcel for 2h Jun delivery basis Chiba was changed hand at May FEI plus $8, equivalent to Jun FEI plus around $83. Outside window, a couple of 4/0 parcels for 2h Jun delivery basis Chiba were reported traded at May FEI plus $2-$3. Separately, a few lots of 4/0 parcels for 1h Jun delivery basis Ningbo were concluded at May FEI plus mid 40s reportedly. One SChina PDH procured a 2/0 lot for 1-20 Jun delivery, Australia stem, at Jun FEI plus $190 reportedly. Another EChina petchem player also tendered to buy similar cargo for Jun delivery into Ningbo. China PDH run rates reduced to 44% this week, marking a record low. This being said, several PDHs are expected to restart in late May/Jun, and have started inquiring on Jun feedstock.
+Saudi Aramco announced May CP at $750 for C3 and $800 for C4, a rollover from April, which lagged behind the recent spike in oil price, amid concerns over middle East supply disruptions. 
+
+Arbitrage strengthened this week with improved premium on CFR FAR EAST, with FEI/Lst spread widening to $376 for May and $308 for June. However terminal fee for Jun lifting US FOBs declined further against soaring freight and higher Panama transit costs. Mid Jun lifting 2/2 spot cargo was reported traded in low 20 cpg, while 4/0 was discussed at low teens only. U.S. propane/propylene inventories declined by 1.1 mmt barrels to 78.8 million barrels in the week ended 24th Apr, leaving stocks remained 67% higher year on year. 
+
+On Thursday window, a 23/0 parcel for 2h Jun delivery basis Chiba was changed hand at May FEI plus $8, equivalent to Jun FEI plus around $83. Outside window, a couple of 4/0 parcels for 2h Jun delivery basis Chiba were reported traded at May FEI plus $2-$3. Separately, a few lots of 4/0 parcels for 1h Jun delivery basis Ningbo were concluded at May FEI plus mid 40s reportedly. One SChina PDH procured a 2/0 lot for 1-20 Jun delivery, Australia stem, at Jun FEI plus $190 reportedly. Another EChina petchem player also tendered to buy similar cargo for Jun delivery into Ningbo. China PDH run rates reduced to 44% this week, marking a record low. This being said, several PDHs are expected to restart in late May/Jun, and have started inquiring on Jun feedstock.
 
 ---
 
@@ -78,7 +90,9 @@ Saudi Aramco announced May CP at $750 for C3 and $800 for C4, a rollover from Ap
 ### SnP Weekly Comment
 **Date:** 2026-05-01 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
-Confidence in the strength of this crude tanker market shows no signs of waning as buyers continue to pay the ever increasing price asks. Monte Nero are reported to have paid USD 140M en bloc, for scrubber fitted suezmax pair FRONT ULL/FRONT IDUN (156K DWT Rongsheng 2014/15), a figure well in excess of the price these ships were ordered for over a decade ago. Owners expectations on Aframax pricing are also being met, with scrubber fitted Aframax pair SOUTHERN REVERENCE/PUSAKA BORNEO (108K DWT Tsuneishi 2018) sold for USD 75M and USD 78M respectively. These are only the second and third transactions in the eco Aframax space this year, setting well needed benchmarks for this vintage.   While not quite at the towering heights of the tanker market, the dry space is still providing healthy returns and strong values. Buyers are not shying away either, this week GENCO purchased scrubber fitted capesize LOWLANDS SPIRIT (182K DWT Imabari 2019) for USD 67M, which interestingly represents the most modern capesize sale of the year so far. Modern dry deals have been hard to come by, perhaps we are now at a price point where we might see a few more sellers coming to the table.
+Confidence in the strength of this crude tanker market shows no signs of waning as buyers continue to pay the ever increasing price asks. Monte Nero are reported to have paid USD 140M en bloc, for scrubber fitted suezmax pair FRONT ULL/FRONT IDUN (156K DWT Rongsheng 2014/15), a figure well in excess of the price these ships were ordered for over a decade ago. Owners expectations on Aframax pricing are also being met, with scrubber fitted Aframax pair SOUTHERN REVERENCE/PUSAKA BORNEO (108K DWT Tsuneishi 2018) sold for USD 75M and USD 78M respectively. These are only the second and third transactions in the eco Aframax space this year, setting well needed benchmarks for this vintage.
+ 
+While not quite at the towering heights of the tanker market, the dry space is still providing healthy returns and strong values. Buyers are not shying away either, this week GENCO purchased scrubber fitted capesize LOWLANDS SPIRIT (182K DWT Imabari 2019) for USD 67M, which interestingly represents the most modern capesize sale of the year so far. Modern dry deals have been hard to come by, perhaps we are now at a price point where we might see a few more sellers coming to the table.
 
 ---
 

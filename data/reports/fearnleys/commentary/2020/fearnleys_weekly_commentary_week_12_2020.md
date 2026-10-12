@@ -6,7 +6,7 @@ week: 12
 date_range: "2020-03-16 to 2020-03-20"
 comments_count: 14
 sectors: ["Dry Bulk", "Tankers", "Gas & LNG", "Sale and Purchase (S&P)"]
-generated_at: "2026-10-11 21:03:32"
+generated_at: "2026-10-12 13:31:37"
 ---
 
 # Fearnleys Weekly Broker Commentary - Week 12, 2020
@@ -69,14 +69,16 @@ The Suezmaxes continued this week to ride the wave created by the VLCCs and Saud
 ### Aframax Weekly Comment
 **Date:** 2020-03-16 | **Subtype:** Tank Weekly Comment | **Desk:** Fearnleys Research
 
-In the North Sea and Baltic, rates have continued in an upwards direction this week as the availability of tonnage willing to fix intra-NWE voyages tightens. We have seen more owners looking to go long and spend more days at sea due to the current virus situation. How the week to come will look is really unknown territory, but the list looks tight and we could see higher rates get done. Also in the Mediterranean and Black Sea market has picked up a further 40 points on benchmark routes this week, mainly due to high activity on the cargo side. Owners are now fixing additional 20 points premium for calling Italy due to the outbreak of coronavirus there. Since there are still many cargoes in the market yet to be covered, and on the back of the surrounding markets such as NWE and the US market picking up, we expect the market to remain firm going forwards.
+In the North Sea and Baltic, rates have continued in an upwards direction this week as the availability of tonnage willing to fix intra-NWE voyages tightens. We have seen more owners looking to go long and spend more days at sea due to the current virus situation. How the week to come will look is really unknown territory, but the list looks tight and we could see higher rates get done.
+Also in the Mediterranean and Black Sea market has picked up a further 40 points on benchmark routes this week, mainly due to high activity on the cargo side. Owners are now fixing additional 20 points premium for calling Italy due to the outbreak of coronavirus there. Since there are still many cargoes in the market yet to be covered, and on the back of the surrounding markets such as NWE and the US market picking up, we expect the market to remain firm going forwards.
 
 ---
 
 ### Aframax Weekly Comment
 **Date:** 2020-03-16 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
-In the North Sea and Baltic, rates have continued in an upwards direction this week as the availability of tonnage willing to fix intra-NWE voyages tightens. We have seen more owners looking to go long and spend more days at sea due to the current virus situation. How the week to come will look is really unknown territory, but the list looks tight and we could see higher rates get done. Also in the Mediterranean and Black Sea market has picked up a further 40 points on benchmark routes this week, mainly due to high activity on the cargo side. Owners are now fixing additional 20 points premium for calling Italy due to the outbreak of coronavirus there. Since there are still many cargoes in the market yet to be covered, and on the back of the surrounding markets such as NWE and the US market picking up, we expect the market to remain firm going forwards.
+In the North Sea and Baltic, rates have continued in an upwards direction this week as the availability of tonnage willing to fix intra-NWE voyages tightens. We have seen more owners looking to go long and spend more days at sea due to the current virus situation. How the week to come will look is really unknown territory, but the list looks tight and we could see higher rates get done.
+Also in the Mediterranean and Black Sea market has picked up a further 40 points on benchmark routes this week, mainly due to high activity on the cargo side. Owners are now fixing additional 20 points premium for calling Italy due to the outbreak of coronavirus there. Since there are still many cargoes in the market yet to be covered, and on the back of the surrounding markets such as NWE and the US market picking up, we expect the market to remain firm going forwards.
 
 ---
 
@@ -91,14 +93,23 @@ With ongoing events affecting most of the global economic markets, LNG shipping 
 ### Gas Market Weekly Comment - Eastern Market
 **Date:** 2020-03-16 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
-MEG: Another week of drastic market drop. Crude has slashed by another 20% and Apr C3 CP plunged to $207 while Butane CP maintains at $3 spread higher.  Saudi Aramco released their Apr lifting acceptance as per nomination with minor changes only, and they still have spot tons available after 5-6 cargos were sold reportedly. Qatar Petroleum was said to award their 23-25 Apr lifting 3/1 sale tender at single digit discount to Apr CP link, however some players reckon this price too aggressive as of $15 Apr/May backwardation, let alone the negative FOB netback due to weak demand amid long supply in the front.   FAR EAST: April offer stood firm earlier this week with seller asking at teens’ premium over Apr FEI. Until later this week offer dropped down to plus $5 only and bid at flat in the window, as more sellers emerged with clear shipping structure.  This week, premium for propane delivered in Apr into China has come off to 30ish level on Apr CP link. Some talk one 1h May arrival propane was also traded into China at 30s but on May CP link. China import in 2020 Q1 is expected to decrease by roughly 35% compared to last Q1 at 4.76mmt, and hopefully the volume can recover from Apr onwards. Chinese domestic PDHs has improved run rates lately as great margin to produce propylene, and Zhejiang Satellite has restarted their 450,000tonnes/y unit from maintenance.   Taiwan CPC has secured 11/11 end Apr delivery Apr CP plus 40s via tender late last week.
+MEG:
+Another week of drastic market drop. Crude has slashed by another 20% and Apr C3 CP plunged to $207 while Butane CP maintains at $3 spread higher. 
+Saudi Aramco released their Apr lifting acceptance as per nomination with minor changes only, and they still have spot tons available after 5-6 cargos were sold reportedly.
+Qatar Petroleum was said to award their 23-25 Apr lifting 3/1 sale tender at single digit discount to Apr CP link, however some players reckon this price too aggressive as of $15 Apr/May backwardation, let alone the negative FOB netback due to weak demand amid long supply in the front. 
+
+FAR EAST:
+April offer stood firm earlier this week with seller asking at teens’ premium over Apr FEI. Until later this week offer dropped down to plus $5 only and bid at flat in the window, as more sellers emerged with clear shipping structure. 
+This week, premium for propane delivered in Apr into China has come off to 30ish level on Apr CP link. Some talk one 1h May arrival propane was also traded into China at 30s but on May CP link. China import in 2020 Q1 is expected to decrease by roughly 35% compared to last Q1 at 4.76mmt, and hopefully the volume can recover from Apr onwards. Chinese domestic PDHs has improved run rates lately as great margin to produce propylene, and Zhejiang Satellite has restarted their 450,000tonnes/y unit from maintenance.  
+Taiwan CPC has secured 11/11 end Apr delivery Apr CP plus 40s via tender late last week.
 
 ---
 
 ### Gas Market Weekly Comment - Western Market
 **Date:** 2020-03-16 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
-AMERICAS: In the midst of another tumultuous week in global trade the EIA reported a draw of 310,000 barrels, slightly below what was predicted. The news did little to affect the US propane market which had already plummeted in parity with international declines, on the back of crude. As it stands, the April/May arb and netbacks sit at around $112/ton and 4 cents/gallon respectively. With that said, discussion for spot cargos has not completely dissipated. Logic being that as daily life heads in the direction of normalcy in China, the demand PDH and petchem feed stock will once again require tons from the US. The discussion that many contact holders are currently having is whether the economics dictate to cancel cargos, pending agreed upon fee, and buy from the spot market. This equation has kept activity buoyed, at least for the time being.  Remarkably, Mt Belvieu Non-Tet propane stands at 61.14% WTI and has crossed the below 30cpg for the first time since Jan 17th 1999.
+AMERICAS:
+In the midst of another tumultuous week in global trade the EIA reported a draw of 310,000 barrels, slightly below what was predicted. The news did little to affect the US propane market which had already plummeted in parity with international declines, on the back of crude. As it stands, the April/May arb and netbacks sit at around $112/ton and 4 cents/gallon respectively. With that said, discussion for spot cargos has not completely dissipated. Logic being that as daily life heads in the direction of normalcy in China, the demand PDH and petchem feed stock will once again require tons from the US. The discussion that many contact holders are currently having is whether the economics dictate to cancel cargos, pending agreed upon fee, and buy from the spot market. This equation has kept activity buoyed, at least for the time being.  Remarkably, Mt Belvieu Non-Tet propane stands at 61.14% WTI and has crossed the below 30cpg for the first time since Jan 17th 1999.
 
 ---
 
@@ -106,13 +117,21 @@ AMERICAS: In the midst of another tumultuous week in global trade the EIA report
 ### SnP Weekly Comment
 **Date:** 2020-03-20 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
-With oil prices selling off further the forward curve has steepened; making floating storage plays more attractive.  Sellers of older VLCC’s able to give prompt delivery has now another window of opportunity to exit at strong levels.  AET is for instance reported to have achieved region/excess Usd 30 mill for its 2003 Japanese built BUNGA KASTURI.    Some smaller cap deals are in the making particularly in the clean sector but overall the S&P activity is very muted.  The same goes for anything dry except for a small trickle of handy- and supramaxes still changing hands.  Dry bulk equities had another awful week with most listed names now down more than 50 per cent y-t-d.  The escalating Covid-19 pandemic makes it increasingly difficult to transact S&P with anything resembling normality.  Pre-purchase inspections, crew changes and most legal aspects of a financial closing are severely disrupted.
+With oil prices selling off further the forward curve has steepened; making floating storage plays more attractive.  Sellers of older VLCC’s able to give prompt delivery has now another window of opportunity to exit at strong levels.  AET is for instance reported to have achieved region/excess Usd 30 mill for its 2003 Japanese built BUNGA KASTURI.    Some smaller cap deals are in the making particularly in the clean sector but overall the S&P activity is very muted.  The same goes for anything dry except for a small trickle of handy- and supramaxes still changing hands.  Dry bulk equities had another awful week with most listed names now down more than 50 per cent y-t-d.
+
+The escalating Covid-19 pandemic makes it increasingly difficult to transact S&P with anything resembling normality.  Pre-purchase inspections, crew changes and most legal aspects of a financial closing are severely disrupted.
 
 ---
 
 ### Chartering Weekly Comment
 **Date:** 2020-03-16 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
-WEST In the West this week, rates have gradually edged higher as we progress further into the April fixing window. At the same time, bunkers have continued their free fall and as a consequence owners’ earnings are now back around the USD 50kpd mark. With this rising market and the fact that there seems to be little value in lifting FOB cargoes, a number of players have been more vocal about potentially reletting their vessels. A consequence of this could be some downwards pressure on rates. However, it is now too late for most players to cancel term liftings, and with a large number of cargoes set to be exported from Marcus Hook from April onwards rates should remain supported for now.   Looking slightly further ahead and into May, the picture becomes markedly more bearish, with the market generally anticipating the arb to be much weaker and for cancellations to be prevalent. The obvious consequence of this is that freight may have to give way to unfavourable product conditions. With that said, the extent to which freight could weaken will be determined by whether Chinese demand picks up again and whether the Saudis make good on their word to ramp up production as much as they say they will moving forward.   EAST The momentum in the freight market has continued as we have seen increased volume ex MEG due to the extra output from Saudi Arabia. The sentiment on freight has therefore reversed its bearishness and is looking more bullish, with owners’ latest ideas being around low USD 60s Baltic. It remains to be seen if the flurry of fixtures will continue during the coming days, or if the market will start to slow down, but there is an expectation of Indian majors coming into the market for several 1H April cargos. Going forward, though there is still a healthy line up of ships for the next fixing window, so we don’t expect the market to shoot up too quickly even if the overall sentiment has changed.
+WEST
+In the West this week, rates have gradually edged higher as we progress further into the April fixing window. At the same time, bunkers have continued their free fall and as a consequence owners’ earnings are now back around the USD 50kpd mark. With this rising market and the fact that there seems to be little value in lifting FOB cargoes, a number of players have been more vocal about potentially reletting their vessels. A consequence of this could be some downwards pressure on rates. However, it is now too late for most players to cancel term liftings, and with a large number of cargoes set to be exported from Marcus Hook from April onwards rates should remain supported for now. 
+
+Looking slightly further ahead and into May, the picture becomes markedly more bearish, with the market generally anticipating the arb to be much weaker and for cancellations to be prevalent. The obvious consequence of this is that freight may have to give way to unfavourable product conditions. With that said, the extent to which freight could weaken will be determined by whether Chinese demand picks up again and whether the Saudis make good on their word to ramp up production as much as they say they will moving forward. 
+
+EAST
+The momentum in the freight market has continued as we have seen increased volume ex MEG due to the extra output from Saudi Arabia. The sentiment on freight has therefore reversed its bearishness and is looking more bullish, with owners’ latest ideas being around low USD 60s Baltic. It remains to be seen if the flurry of fixtures will continue during the coming days, or if the market will start to slow down, but there is an expectation of Indian majors coming into the market for several 1H April cargos. Going forward, though there is still a healthy line up of ships for the next fixing window, so we don’t expect the market to shoot up too quickly even if the overall sentiment has changed.
 
 ---

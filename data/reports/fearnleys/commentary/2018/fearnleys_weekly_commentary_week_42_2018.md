@@ -6,7 +6,7 @@ week: 42
 date_range: "2018-10-18 to 2018-10-18"
 comments_count: 1
 sectors: ["Dry Bulk", "Tankers", "Gas & LNG", "Sale and Purchase (S&P)"]
-generated_at: "2026-10-11 21:03:31"
+generated_at: "2026-10-12 13:31:35"
 ---
 
 # Fearnleys Weekly Broker Commentary - Week 42, 2018
@@ -25,7 +25,8 @@ Institutional desk intelligence harvested directly from the Fearnleys Hasura Gra
 ### Gas Market Report
 **Date:** 2018-10-18 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
-In the Eastern VLGC market the Saudi acceptances for November are now out and we have started to see more activity on shipping on the back of this. - read more in the full report.
+In the Eastern VLGC market the Saudi acceptances for November are now out and
+we have started to see more activity on shipping on the back of this. - read more in the full report.
 
 ---
 

@@ -6,7 +6,7 @@ week: 44
 date_range: "2022-10-31 to 2022-11-02"
 comments_count: 14
 sectors: ["Dry Bulk", "Tankers", "Gas & LNG", "Sale and Purchase (S&P)"]
-generated_at: "2026-10-11 21:03:36"
+generated_at: "2026-10-12 13:31:40"
 ---
 
 # Fearnleys Weekly Broker Commentary - Week 44, 2022
@@ -33,7 +33,9 @@ Another muted week with little excitement as sentiment remained negative in most
 ### Supramax Weekly Comment
 **Date:** 2022-11-02 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
-As speculated last week, the market did indeed break below the USD 16,000-20,000 pd range seen for three months. Vessels heading to the major loading countries in Asia have dropped slightly, whereas the others are basically unchanged. The ballaster/laden vessel ratio still hovers around 75%, compared to the 70% seen last year. Negative sentiment was sensed across all routes. Little activity from USG mainly due to low water levels in the Mississippi River. Similar story with ECSA.   Tick more activity from the Pacific. Indonesia-India coal run being done at USD 14,000. Indo China rounds were done around USD 8,000. A backhaul with del N China redel Med was fixed around USD 13,500.
+As speculated last week, the market did indeed break below the USD 16,000-20,000 pd range seen for three months. Vessels heading to the major loading countries in Asia have dropped slightly, whereas the others are basically unchanged. The ballaster/laden vessel ratio still hovers around 75%, compared to the 70% seen last year. Negative sentiment was sensed across all routes. Little activity from USG mainly due to low water levels in the Mississippi River. Similar story with ECSA. 
+
+Tick more activity from the Pacific. Indonesia-India coal run being done at USD 14,000. Indo China rounds were done around USD 8,000. A backhaul with del N China redel Med was fixed around USD 13,500.
 
 ---
 
@@ -91,14 +93,32 @@ The LNG freight market continues to hold firm this week as we see an uptick of a
 ### Gas Market Weekly Comment - Eastern Market
 **Date:** 2022-11-01 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
-MEG Saudi Aramco announced Nov CP to $610 for both C3 and C4, whose propane was within expectation, but butane was surprised to be set at parity. And it’s been a rollercoaster ride for swap number this week. Dec CP was traded high to $636 on Wed from Monday’s $604 and plunged to $609 at the time of writing. With additional spot demand from Indonesia, discussions for evenly split cargo have improved, and one end Nov lifting cargo was traded at Dec CP minus single digit.   FAR EAST Cash premium improved considerably with worry of tightness on front market, as of rising freight and Panama delays. Bid for 23kt propane parcel for 1h Dec delivery was at Dec FEI plus $7 and for 2h Dec slightly less. Off window several Chinese petchem players are in the market tendered for Dec delivered propane, with only two managed to award one full propane cargo each, at FEI plus mid low teens into Ningbo and plus nearly $20 into Panjin. While the other PDH user based in Qingdao didn’t award their buy tender for similar volume as eroding margins against soaring costs. Also another Schina PDH is also reckoned that might not award their buy tender for half cargo propane for 1h Dec arrival for regular origins. Price for evenly split cargo was also on the fly. One SChina traditional importer was said to award their buy tender for a mid dec delivered 11/11 parcel at Dec CP plus freight which reckoned at 70s min in view of current Baltic. And another similar parcel for 1h Dec delivery was also reported concluded at 70s to CP into SEA delivery. Pertamina also called another spot tender to procure upto 69kt evenly split cargo for end Nov lifting AG or early dec delivery. Meanwhile, they’ve also called a term tender to secure a min 24 evenly split cargo for 2023 delivery.
+MEG
+Saudi Aramco announced Nov CP to $610 for both C3 and C4, whose propane was within expectation, but butane was surprised to be set at parity. And it’s been a rollercoaster ride for swap number this week. Dec CP was traded high to $636 on Wed from Monday’s $604 and plunged to $609 at the time of writing.
+With additional spot demand from Indonesia, discussions for evenly split cargo have improved, and one end Nov lifting cargo was traded at Dec CP minus single digit.
+ 
+FAR EAST
+Cash premium improved considerably with worry of tightness on front market, as of rising freight and Panama delays. Bid for 23kt propane parcel for 1h Dec delivery was at Dec FEI plus $7 and for 2h Dec slightly less.
+Off window several Chinese petchem players are in the market tendered for Dec delivered propane, with only two managed to award one full propane cargo each, at FEI plus mid low teens into Ningbo and plus nearly $20 into Panjin. While the other PDH user based in Qingdao didn’t award their buy tender for similar volume as eroding margins against soaring costs. Also another Schina PDH is also reckoned that might not award their buy tender for half cargo propane for 1h Dec arrival for regular origins.
+Price for evenly split cargo was also on the fly. One SChina traditional importer was said to award their buy tender for a mid dec delivered 11/11 parcel at Dec CP plus freight which reckoned at 70s min in view of current Baltic. And another similar parcel for 1h Dec delivery was also reported concluded at 70s to CP into SEA delivery.
+Pertamina also called another spot tender to procure upto 69kt evenly split cargo for end Nov lifting AG or early dec delivery. Meanwhile, they’ve also called a term tender to secure a min 24 evenly split cargo for 2023 delivery.
 
 ---
 
 ### Gas Market Weekly Comment - Western Market
 **Date:** 2022-11-01 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
-AMERICAS Overall U.S. propane inventory levels reached 88.10mmbbls as of 28 October, having increased by 1.3mmbbls WoW, which is again viewed as a rather surprising high weekly build.  Current stocks exceed the end-Oct average of 84.478 by 3.62mmbbls. In looking closely at the data, most appears in line except for PADD I (the East Coast) where an increase of 600,000bbls was recorded by the EIA.  That level of build normally indicates the arrival of a seaborn import, but no imports occurred, which has now led to speculation that next week’s report may contain corrective data. Still, with robust production levels and very little weather-related demand in North America, it is quite possible that yet another build – though modest – will be reported next week. Terminal fees have meanwhile found life, and for Dec volumes now range on the buy-side in the 6cpg level to the sell-side of as much as 8cpg.  NWE  The arb from the US has been wide open for some time, but a double figure USD drop in arb values today, Thursday, has put trade discussions on hold. Spiking freight rates and the East West spread, trading above $100pmt, had pushed CIF ARA up to fight with the East for winter tons. With propane values in the region seemingly more closely correlated to Naphtha and Brent values than the Natural gas prices. Ethane and Natural gas values continue to be depressed in Europe as supplies from the US continue to surge. The physical propane window is assessed at November CIF ARA +$1pmt. A strong large cargo butane bid was seen at 92.5% of Naphtha which has been strengthening in tandem with stronger Brent.     MED The lack of cold weather continues to keep the region subdued. Spiking freight rates and a wide arb from the US, usually factors which get the market moving, has had the opposite effect as no winter demand has been seen yet this year. That said Marcus Hook cargoes continue to find their ways to the West Med.
+AMERICAS
+Overall U.S. propane inventory levels reached 88.10mmbbls as of 28 October, having increased by 1.3mmbbls WoW, which is again viewed as a rather surprising high weekly build.  Current stocks exceed the end-Oct average of 84.478 by 3.62mmbbls.
+In looking closely at the data, most appears in line except for PADD I (the East Coast) where an increase of 600,000bbls was recorded by the EIA.  That level of build normally indicates the arrival of a seaborn import, but no imports occurred, which has now led to speculation that next week’s report may contain corrective data.
+Still, with robust production levels and very little weather-related demand in North America, it is quite possible that yet another build – though modest – will be reported next week.
+Terminal fees have meanwhile found life, and for Dec volumes now range on the buy-side in the 6cpg level to the sell-side of as much as 8cpg.
+
+NWE 
+The arb from the US has been wide open for some time, but a double figure USD drop in arb values today, Thursday, has put trade discussions on hold. Spiking freight rates and the East West spread, trading above $100pmt, had pushed CIF ARA up to fight with the East for winter tons. With propane values in the region seemingly more closely correlated to Naphtha and Brent values than the Natural gas prices. Ethane and Natural gas values continue to be depressed in Europe as supplies from the US continue to surge. The physical propane window is assessed at November CIF ARA +$1pmt. A strong large cargo butane bid was seen at 92.5% of Naphtha which has been strengthening in tandem with stronger Brent.  
+ 
+MED
+The lack of cold weather continues to keep the region subdued. Spiking freight rates and a wide arb from the US, usually factors which get the market moving, has had the opposite effect as no winter demand has been seen yet this year. That said Marcus Hook cargoes continue to find their ways to the West Med.
 
 ---
 
@@ -106,13 +126,20 @@ AMERICAS Overall U.S. propane inventory levels reached 88.10mmbbls as of 28 Octo
 ### SnP Weekly Comment
 **Date:** 2022-10-31 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
-Charter market volatility has not deterred dry market S&P players, with a number of transactions being registered this week. JP Morgan invited offers on its Capesize TRUE PATRIOT built 2016 Imabari which was sold for USD 38m, and AQUAFORTUNE built 2011 Namura which sold for USD 26.5m. In the Ultramax space, a segment which will be sure to garner a lot of attention over the looming market correction, CARO PADRE built 2012 Yangzhou Dayang sold for USD 21.0m, levels that are still showing relative degree of resilience despite an increased downward pressure coming from chartering front.  Although older tankers continue to attract most of the attention with CITY OF TOKYO built 2004 Universal selling for USD 49m, a more significant transaction is the brand new, scrubber fitted LR2 ALTHEA built 2022 Daehan which was sold for USD 72.5m, showing that regardless of the rising values, market players see sense in positioning themselves for the long term. Tonnage is available for those looking to enter the market, but buyers will need to take a leap of faith and match the bullish sentiment.
+Charter market volatility has not deterred dry market S&P players, with a number of transactions being registered this week. JP Morgan invited offers on its Capesize TRUE PATRIOT built 2016 Imabari which was sold for USD 38m, and AQUAFORTUNE built 2011 Namura which sold for USD 26.5m. In the Ultramax space, a segment which will be sure to garner a lot of attention over the looming market correction, CARO PADRE built 2012 Yangzhou Dayang sold for USD 21.0m, levels that are still showing relative degree of resilience despite an increased downward pressure coming from chartering front.
+
+Although older tankers continue to attract most of the attention with CITY OF TOKYO built 2004 Universal selling for USD 49m, a more significant transaction is the brand new, scrubber fitted LR2 ALTHEA built 2022 Daehan which was sold for USD 72.5m, showing that regardless of the rising values, market players see sense in positioning themselves for the long term. Tonnage is available for those looking to enter the market, but buyers will need to take a leap of faith and match the bullish sentiment.
 
 ---
 
 ### Chartering Weekly Comment
 **Date:** 2022-11-01 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
-EAST With last done deal ex MEG at mid/high $110 RT/C the East market maintains an upward sentiment.  As we are now in November, the QP and KPC acceptances for next month got published earlier this week. Considering the tight market; we may see players in the market for early December cargos soon, but whether the last decade of November has been finished remains a question mark.  The Panama canal continues being very congested and hearing latest auction price at 1.4 million dollars. If this encourages more Owners to ballast the ships from FEA towards Singapore/Suez remains to be seen.  WEST Entering this week we had not yet seen a December fixture out of the USG. At the time of writing we count approximately 10 spot deals ex USG with last done concluded at low $190s H/C and mid $100s H/F which accounts for well over $100k per day in TCE. There are still a good amount of uncovered cargoes out there for the whole of December, but there are currently not enough vessels with firm itinerary to cover them all. We have already seen fixing in mid+end December where vessel supply looks to be more healthy than what we witnessed in the first decade. We could still see a couple more vessels coming open in early Dec as we await discharge schedules. The arb has narrowed a bit lately but as mentioned earlier the Panama canal keeps making scheduling uncertain and we therefore expect the recently strong freight market to maintain in the short term as Owners ideas hovers around $190 H/C.
+EAST
+With last done deal ex MEG at mid/high $110 RT/C the East market maintains an upward sentiment.  As we are now in November, the QP and KPC acceptances for next month got published earlier this week. Considering the tight market; we may see players in the market for early December cargos soon, but whether the last decade of November has been finished remains a question mark. 
+The Panama canal continues being very congested and hearing latest auction price at 1.4 million dollars. If this encourages more Owners to ballast the ships from FEA towards Singapore/Suez remains to be seen.
+
+WEST
+Entering this week we had not yet seen a December fixture out of the USG. At the time of writing we count approximately 10 spot deals ex USG with last done concluded at low $190s H/C and mid $100s H/F which accounts for well over $100k per day in TCE. There are still a good amount of uncovered cargoes out there for the whole of December, but there are currently not enough vessels with firm itinerary to cover them all. We have already seen fixing in mid+end December where vessel supply looks to be more healthy than what we witnessed in the first decade. We could still see a couple more vessels coming open in early Dec as we await discharge schedules. The arb has narrowed a bit lately but as mentioned earlier the Panama canal keeps making scheduling uncertain and we therefore expect the recently strong freight market to maintain in the short term as Owners ideas hovers around $190 H/C.
 
 ---

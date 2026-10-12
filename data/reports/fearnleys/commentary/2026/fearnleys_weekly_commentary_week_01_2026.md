@@ -6,7 +6,7 @@ week: 1
 date_range: "2025-12-31 to 2025-12-31"
 comments_count: 8
 sectors: ["Dry Bulk", "Tankers", "Gas & LNG", "Sale and Purchase (S&P)"]
-generated_at: "2026-10-11 21:03:39"
+generated_at: "2026-10-12 13:31:43"
 ---
 
 # Fearnleys Weekly Broker Commentary - Week 01, 2026
@@ -55,7 +55,11 @@ Some further activity yesterday on suezmaxes has helped to trim a healthy amount
 ### Aframax Weekly Comment
 **Date:** 2025-12-31 | **Subtype:** Tank Weekly Comment | **Desk:** Fearnleys Research
 
-North Sea As the year draws to a close North Sea levels remain steady with some replacement fixing early January caused by weather delays in the Baltic discharge program.  With some relets and Suezmax in the mix the natural window is pushing out to 9-11 dates. US markets are still attractive but sentiment in the US is a bit softer which may lessen the ballasters.  Mediterranean Market has been busy post Christmas but with some cancellations from the Black Sea and a healthy list for Charterers rates have softened with fixtures concluded basis 2026 Worldscale. 1st decade looks fairly well covered after the recent activity and will push into 2nd decade when market resumes on the 2nd.
+North Sea
+As the year draws to a close North Sea levels remain steady with some replacement fixing early January caused by weather delays in the Baltic discharge program.  With some relets and Suezmax in the mix the natural window is pushing out to 9-11 dates. US markets are still attractive but sentiment in the US is a bit softer which may lessen the ballasters.
+
+Mediterranean
+Market has been busy post Christmas but with some cancellations from the Black Sea and a healthy list for Charterers rates have softened with fixtures concluded basis 2026 Worldscale. 1st decade looks fairly well covered after the recent activity and will push into 2nd decade when market resumes on the 2nd.
 
 ---
 
@@ -71,6 +75,7 @@ As we put down A Christmas Carol for another year, we can pick up another Dicken
 ### Chartering Weekly Comment
 **Date:** 2025-12-31 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
-WEST Despite the festive season there has been an active couple of days in the West this week. Freight now appears to be relatively tight going into February and last done has been fixed at around USD 136-137 on a NEO type. We saw 36 spot fixtures concluded ex US in January (2 deals shy of Apr-25 which ended up being the most active month of the year), and we currently count 9 spot fixtures 1st decade of February. Meanwhile we see 3-4 open ships in 1-10 Feb and 5-6 open ships in 10-20 Feb window.
+WEST
+Despite the festive season there has been an active couple of days in the West this week. Freight now appears to be relatively tight going into February and last done has been fixed at around USD 136-137 on a NEO type. We saw 36 spot fixtures concluded ex US in January (2 deals shy of Apr-25 which ended up being the most active month of the year), and we currently count 9 spot fixtures 1st decade of February. Meanwhile we see 3-4 open ships in 1-10 Feb and 5-6 open ships in 10-20 Feb window.
 
 ---

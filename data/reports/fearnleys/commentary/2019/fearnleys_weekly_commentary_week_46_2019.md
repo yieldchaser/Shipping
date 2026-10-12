@@ -6,7 +6,7 @@ week: 46
 date_range: "2019-11-11 to 2019-11-13"
 comments_count: 14
 sectors: ["Dry Bulk", "Tankers", "Gas & LNG", "Sale and Purchase (S&P)"]
-generated_at: "2026-10-11 21:03:32"
+generated_at: "2026-10-12 13:31:36"
 ---
 
 # Fearnleys Weekly Broker Commentary - Week 46, 2019
@@ -84,21 +84,40 @@ Following a relatively slow week in the Baltic and North Sea market, we have see
 ### LNG Market Report
 **Date:** 2019-11-13 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
-The intensity of the October market seems to have eased off as we arrive here in mid-November. New vessel availabilities have been observed, rather on regular basis in the East. Outright availability of LNG vessels in the West are still few and far between, but FOB/DES swaps seems to solve it for now. In the Pacific, there seem to be more LNG vessels available than there are spot chartering opportunities, for the moment.   We are now perceived to have come “back to normal” since the elimination of the US/China sanctions effects. However, many are of the opinion that current levels are where the market should be if the recent sanctions did not happen. This have led to speculation of a possible “double peak” as the anticipated winter activity has not gone full blown as yet, but this view have been disputed with the claim of soft demand for LNG imports in China for these upcoming months. For certain, the LNG shipping market have been more volatile recently as weather and geo-political movements or announcements could lead to tremendous shift in sentiments.   No newbuilding orders or ship sales have been reported this week. However, a few ships are being circulated in the SnP market.
+The intensity of the October market seems to have eased off as we arrive here in mid-November. New vessel availabilities have been observed, rather on regular basis in the East. Outright availability of LNG vessels in the West are still few and far between, but FOB/DES swaps seems to solve it for now. In the Pacific, there seem to be more LNG vessels available than there are spot chartering opportunities, for the moment.
+ 
+We are now perceived to have come “back to normal” since the elimination of the US/China sanctions effects. However, many are of the opinion that current levels are where the market should be if the recent sanctions did not happen. This have led to speculation of a possible “double peak” as the anticipated winter activity has not gone full blown as yet, but this view have been disputed with the claim of soft demand for LNG imports in China for these upcoming months. For certain, the LNG shipping market have been more volatile recently as weather and geo-political movements or announcements could lead to tremendous shift in sentiments.
+ 
+No newbuilding orders or ship sales have been reported this week. However, a few ships are being circulated in the SnP market.
 
 ---
 
 ### Gas Market Weekly Comment - Eastern Market
 **Date:** 2019-11-12 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
-MEG: Swap market value edged up this week. Dec Propane rebounded to $415, and Dec FEI/CP spread has further enlarged from mid 30s last week to mid/high 40s. With acceptance for Dec lifting being released, players starting to engage actively in FOB discussion, but bids are at discount level as of soaring freight.   KPC issued a sale tender to offer a 14/15 Dec lifting 22/22, the result is yet to know at the time of writing.   Qatar Petroleum has officially announced a ten-year agreement with Wanhua Chemical to supply roughly 800,000 tons LPG annually. Just in last Nov, Wanhua also signed a ten-year purchase agreement to ADNOC to secure 1 million tonne LPG per year.   FAR EAST:  Front window is strengthening this week. During mid-week, 23kt Propane for 2h Dec delivery is traded at Dec FEI plus $6. As Dec FEI/CP keep widening, the US/Non-Us origin spread has rapidly narrowing down. We might soon see players deliver non Us origin into Japan/Korea range instead of swarming into China.   Spot inquiries from China remains slim, compare to recent term discussion. One EChina PDH issued a mini term tender to secure 23/0 or 46/0 in Jan and Feb but later withdrew as offers not attractive. One 11/11 for 1h delivery into Schina was reported done at Dec CP plus around $60 only.   Indonesia Pertamina was reported to awarded their tender for a equal ratio split cargo delivered mid Dec at Dec CP plus high 40s, which is roughly Dec CP flattish or small discount on FOB netback.   CPC was reported awarded their buy tender at Dec CP plus low mid 60s for the purchase of one 11/11 delivered in 2h Dec. And they’ve issued a FOB/DES term tender to swap a volume of 176k-264k AG FOB cargos for 176k cargos Des into Taiwan. Considering 20 Cal freight level, there might be limited parties can commit such.
+MEG:
+Swap market value edged up this week. Dec Propane rebounded to $415, and Dec FEI/CP spread has further enlarged from mid 30s last week to mid/high 40s. With acceptance for Dec lifting being released, players starting to engage actively in FOB discussion, but bids are at discount level as of soaring freight. 
+
+KPC issued a sale tender to offer a 14/15 Dec lifting 22/22, the result is yet to know at the time of writing. 
+
+Qatar Petroleum has officially announced a ten-year agreement with Wanhua Chemical to supply roughly 800,000 tons LPG annually. Just in last Nov, Wanhua also signed a ten-year purchase agreement to ADNOC to secure 1 million tonne LPG per year. 
+
+FAR EAST: 
+Front window is strengthening this week. During mid-week, 23kt Propane for 2h Dec delivery is traded at Dec FEI plus $6. As Dec FEI/CP keep widening, the US/Non-Us origin spread has rapidly narrowing down. We might soon see players deliver non Us origin into Japan/Korea range instead of swarming into China. 
+
+Spot inquiries from China remains slim, compare to recent term discussion. One EChina PDH issued a mini term tender to secure 23/0 or 46/0 in Jan and Feb but later withdrew as offers not attractive. One 11/11 for 1h delivery into Schina was reported done at Dec CP plus around $60 only. 
+
+Indonesia Pertamina was reported to awarded their tender for a equal ratio split cargo delivered mid Dec at Dec CP plus high 40s, which is roughly Dec CP flattish or small discount on FOB netback. 
+
+CPC was reported awarded their buy tender at Dec CP plus low mid 60s for the purchase of one 11/11 delivered in 2h Dec. And they’ve issued a FOB/DES term tender to swap a volume of 176k-264k AG FOB cargos for 176k cargos Des into Taiwan. Considering 20 Cal freight level, there might be limited parties can commit such.
 
 ---
 
 ### Gas Market Weekly Comment - Western Market
 **Date:** 2019-11-12 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
-AMERICAS: Cold weather coupled with strong crop drying demand has pushed up domestic propane demand, and as result weekly inventories drew 2. 5 million barrels. A rise in motor gasoline and the blending of butane into gasoline has pushed up domestic butane demand. These factors combined with strong exports have allowed domestic prices to increase substantially over the last month. Now the question is will these price increases  close the arb or will international prices keep pace. If we were asking this question in March , we might say no,  but in November our answer is we expect International prices to keep pace.
+AMERICAS:
+Cold weather coupled with strong crop drying demand has pushed up domestic propane demand, and as result weekly inventories drew 2. 5 million barrels. A rise in motor gasoline and the blending of butane into gasoline has pushed up domestic butane demand. These factors combined with strong exports have allowed domestic prices to increase substantially over the last month. Now the question is will these price increases  close the arb or will international prices keep pace. If we were asking this question in March , we might say no,  but in November our answer is we expect International prices to keep pace.
 
 ---
 
@@ -106,13 +125,22 @@ AMERICAS: Cold weather coupled with strong crop drying demand has pushed up dome
 ### SnP Weekly Comment
 **Date:** 2019-11-11 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
-The chase is on for mid to late 2000 built aframaxes with several 2007/2008 built units rumoured being committed in the Usd 26-28 mill range. If confirmed, this is approximately a Usd 2m appreciation in value since last done. Early 2000 built Vlcc’s are still in play with clients of MMT, Singapore leading the charge with 4 vessels bought in the past couple of months all basis prompt delivery. Signs of ongoing negotiations suggest we should see further similar units change hands in the near future.   Dry s&p markets continue to be muted this week with an ever increasing uncertainty stemming from falling freight markets which coupled with an increasing number of sales candidates are making it difficult for sales to materialise. Values are therefore subject to downwards pressures.  The s&p situation for very modern both bulkers and tankers is very similar - the bid/ask spread is too wide to result in any tangible deals. The returning question is clearly which buyers shall pay up for such very modern assets. Most of the public listed companies are very vocal in that no further capex is in the cards, now it’s all about returning dividend to shareholders. Add to this that many PE funds are looking to exit, we are left with the backbone of  cash-rich private owners looking to extract value from a potential modern tonnage acquisition. However most of these have already placed their bets at prices well below today’s asking prices and are quite happy to see the market play out.
+The chase is on for mid to late 2000 built aframaxes with several 2007/2008 built units rumoured being committed in the Usd 26-28 mill range. If confirmed, this is approximately a Usd 2m appreciation in value since last done. Early 2000 built Vlcc’s are still in play with clients of MMT, Singapore leading the charge with 4 vessels bought in the past couple of months all basis prompt delivery. Signs of ongoing negotiations suggest we should see further similar units change hands in the near future. 
+
+Dry s&p markets continue to be muted this week with an ever increasing uncertainty stemming from falling freight markets which coupled with an increasing number of sales candidates are making it difficult for sales to materialise. Values are therefore subject to downwards pressures.
+
+The s&p situation for very modern both bulkers and tankers is very similar - the bid/ask spread is too wide to result in any tangible deals. The returning question is clearly which buyers shall pay up for such very modern assets. Most of the public listed companies are very vocal in that no further capex is in the cards, now it’s all about returning dividend to shareholders. Add to this that many PE funds are looking to exit, we are left with the backbone of  cash-rich private owners looking to extract value from a potential modern tonnage acquisition. However most of these have already placed their bets at prices well below today’s asking prices and are quite happy to see the market play out.
 
 ---
 
 ### Chartering Weekly Comment
 **Date:** 2019-11-12 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
-EAST This week has generally been very quiet thus far and only real activity on shipping has been from the Indian majors. The Baltic seems pretty balanced for now and last done deal reported at USD 77 pmt.  We are still awaiting the December Aramco acceptances which ultimately should set next direction on freight going forward.  WEST This week the Western market seemed to be catching its breath, with rates cooling slightly. Most likely, this is partly due to the market fixing too far ahead and partly to a weakening of netbacks relative to recent weeks. That being said, position lists now look very short for the final fixing period of 2019, with a handful of uncovered cargoes expected in the market. We anticipate West-East freight rates to strengthen again as a consequence.
+EAST
+This week has generally been very quiet thus far and only real activity on shipping has been from the Indian majors. The Baltic seems pretty balanced for now and last done deal reported at USD 77 pmt. 
+We are still awaiting the December Aramco acceptances which ultimately should set next direction on freight going forward.
+
+WEST
+This week the Western market seemed to be catching its breath, with rates cooling slightly. Most likely, this is partly due to the market fixing too far ahead and partly to a weakening of netbacks relative to recent weeks. That being said, position lists now look very short for the final fixing period of 2019, with a handful of uncovered cargoes expected in the market. We anticipate West-East freight rates to strengthen again as a consequence.
 
 ---

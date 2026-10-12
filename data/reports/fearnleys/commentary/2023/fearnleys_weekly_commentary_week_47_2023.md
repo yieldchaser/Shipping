@@ -6,7 +6,7 @@ week: 47
 date_range: "2023-11-22 to 2023-11-24"
 comments_count: 10
 sectors: ["Dry Bulk", "Tankers", "Gas & LNG", "Sale and Purchase (S&P)"]
-generated_at: "2026-10-11 21:03:37"
+generated_at: "2026-10-12 13:31:41"
 ---
 
 # Fearnleys Weekly Broker Commentary - Week 47, 2023
@@ -41,21 +41,29 @@ This week Supramax market is heading only in one direction – North. Strong rat
 ### VLCC Weekly Comment
 **Date:** 2023-11-22 | **Subtype:** Tank Weekly Comment | **Desk:** Fearnleys Research
 
-Quiet patches rarely go unnoticed in the VLCC market and as such, tonnage slowly building off the back of the lull in activity. TD3C losing the grip on the WS 70’s as charterers looking lower than last done. Latest deals at WS 68 done to China and at the time of writing, just Formosa and KPC on the board in the MEG. Therefore, as the East drifts a touch, we may see a few more modern ladies turning left at Rondo and ballasting to the Cape.   At present, we see 5 unfixed ships now ballasting in that Rondo to COGH corridor, down from 9 on Monday. Therefore, tonnage is tightening a touch, with 11 vessels in next 30 days for the USG (which is pretty average), so likely rates steady here a touch, but watch for the ballasters. IOC ex Mex quoting and Petrogal still taking their time ex Brazil will test the market. Still unconfirmed reports of the Eco Petrol cargo at USD 10.2m ex Covenas (likely prompter dates) is a strong statement, and more reported Venezuela business will stretch the ton mile. All a little cooler, but owners unlikely to worry.
+Quiet patches rarely go unnoticed in the VLCC market and as such, tonnage slowly building off the back of the lull in activity. TD3C losing the grip on the WS 70’s as charterers looking lower than last done. Latest deals at WS 68 done to China and at the time of writing, just Formosa and KPC on the board in the MEG. Therefore, as the East drifts a touch, we may see a few more modern ladies turning left at Rondo and ballasting to the Cape. 
+
+At present, we see 5 unfixed ships now ballasting in that Rondo to COGH corridor, down from 9 on Monday. Therefore, tonnage is tightening a touch, with 11 vessels in next 30 days for the USG (which is pretty average), so likely rates steady here a touch, but watch for the ballasters. IOC ex Mex quoting and Petrogal still taking their time ex Brazil will test the market. Still unconfirmed reports of the Eco Petrol cargo at USD 10.2m ex Covenas (likely prompter dates) is a strong statement, and more reported Venezuela business will stretch the ton mile. All a little cooler, but owners unlikely to worry.
 
 ---
 
 ### Suezmax Weekly Comment
 **Date:** 2023-11-22 | **Subtype:** Tank Weekly Comment | **Desk:** Fearnleys Research
 
-The main driver for the Atlantic market remains the USG, which commenced the week with an influx of four Monday cargoes. With Thanksgiving on Thursday, the condensed trading week was to be expected and this probably fed into sentiment and corresponding rate uptick. As of going to print we think WS 105 TA is last done with older, regurgitated rates coming to the surface.  TD20 was the main beneficiary of the USG uptick and has now settled at WS 100'ish, where it's likely to stay for the balance of the week. We count circa five stems prior end first decade December (yet to work).  In the East, there's a steady feel with low WS 70's repeated multiple times for TD23 and MEG/East modern probably in the WS 120's.
+The main driver for the Atlantic market remains the USG, which commenced the week with an influx of four Monday cargoes. With Thanksgiving on Thursday, the condensed trading week was to be expected and this probably fed into sentiment and corresponding rate uptick. As of going to print we think WS 105 TA is last done with older, regurgitated rates coming to the surface.
+
+TD20 was the main beneficiary of the USG uptick and has now settled at WS 100'ish, where it's likely to stay for the balance of the week. We count circa five stems prior end first decade December (yet to work).
+
+In the East, there's a steady feel with low WS 70's repeated multiple times for TD23 and MEG/East modern probably in the WS 120's.
 
 ---
 
 ### Aframax Weekly Comment
 **Date:** 2023-11-22 | **Subtype:** Tank Weekly Comment | **Desk:** Fearnleys Research
 
-With surrounding areas losing ground the North Sea market has followed suit, softening further so far this week. Tonnage lists remain balanced as the number of ballasters out of the area declines. Overall, activity has been muted for the end of the 3rd decade November stems. Looking at the published December stems the North Sea looks like it should be active.  Activity has been relatively slow so far this week. With surrounding areas lackluster we have seen less ballasters out of region adding to the excess of available tonnage continuing to add downward pressure. More vessels are slowly coming back into the picture as Fos resumes operations, and with November dates sold-out, owners look to face a tough situation for the 1st decade of December. Tonnage is plentiful in this region with rates soft.
+With surrounding areas losing ground the North Sea market has followed suit, softening further so far this week. Tonnage lists remain balanced as the number of ballasters out of the area declines. Overall, activity has been muted for the end of the 3rd decade November stems. Looking at the published December stems the North Sea looks like it should be active.
+
+Activity has been relatively slow so far this week. With surrounding areas lackluster we have seen less ballasters out of region adding to the excess of available tonnage continuing to add downward pressure. More vessels are slowly coming back into the picture as Fos resumes operations, and with November dates sold-out, owners look to face a tough situation for the 1st decade of December. Tonnage is plentiful in this region with rates soft.
 
 ---
 
@@ -63,14 +71,24 @@ With surrounding areas losing ground the North Sea market has followed suit, sof
 ### LNG Market Report
 **Date:** 2023-11-22 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
-Chartering activity remains limited for yet another week. In the Atlantic, there is still demand for 2H December tonnage but there hasn’t been much fixing, due to the limited number of available vessels in the basin. With European natural gas prices correcting, a inter-basin arbitrage has opened offering some opportunities on the paper markets, but with physical demand yet to follow, any such exercises seem rather opportunistic at the moment. In the Pacific, there is also a lack of new firm requirements, and in the Middle East most activity is centered around FOB cargo sales. In short, there is still a lot of uncertainty over the winter months and portfolios seem to be reluctant to release any tonnage at present. The term market is a little more active, with vessels being reported fixed for Q2 2024 deliveries, however rates have started their downward trend reflecting the typical shoulder months. There have been no NewBuilding orders reported this week and NB prices have remained stable.
+Chartering activity remains limited for yet another week. In the Atlantic, there is still demand for 2H December tonnage but there hasn’t been much fixing, due to the limited number of available vessels in the basin. With European natural gas prices correcting, a inter-basin arbitrage has opened offering some opportunities on the paper markets, but with physical demand yet to follow, any such exercises seem rather opportunistic at the moment. In the Pacific, there is also a lack of new firm requirements, and in the Middle East most activity is centered around FOB cargo sales. In short, there is still a lot of uncertainty over the winter months and portfolios seem to be reluctant to release any tonnage at present.
+The term market is a little more active, with vessels being reported fixed for Q2 2024 deliveries, however rates have started their downward trend reflecting the typical shoulder months.
+There have been no NewBuilding orders reported this week and NB prices have remained stable.
 
 ---
 
 ### Gas Market Weekly Comment - Eastern Market
 **Date:** 2023-11-23 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
-MEG Discussing level for evenly split cargo softened as Indian and Indonesia demand were covered gradually. Latest BPCL was heard to have awarded Jan and Feb liftings at small premium to CP. However, similar grade sold into Indonesia was reported done on CFR basis, at a equivalence of discounts to CP.   Dec C3 CP was assessed at $600 at the time of writing. And due to front butane inquiries, Dec C3/C4 still maintained at -$15. Dec/Jan C3 was traded at $8 backwardation.    FAR EAST 23/0 parcel for 2h Dec was heard changed hand at Dec FEI minus mid-single digit, while some Cananda origin parcels for same period were sold at minus low-mid teens basis Chiba reportedly. Similar cargo for 1h Jan delivery was bid at Jan FEI plus $6 in window and was heard traded at plus $8 off window.   A handful of tenders are floating this week. PERTAMINA was reported awarded their Jan procurement tender at Jan CP plus $90s to $100 on CFR basis. One Vietnam-based PDH plant issued tender to buy 23/0 or 46/0 for Dec to 1st decade Jan delivery. One EChina petchem player tendered to buy 0/23 for 1st decade Jan delivery. One EChina cracker issued new tender to procure 23/0 or 46/0 for 3-10 Jan delivery into Ningbo, which had secured 46/0 for 2h Dec delivery at Dec FEI minus mid-teens via previous tender. Taiwan FPCC tendered to procure 0-22kt C3 and 22kt C4 for 2h Dec delivery. One 33/11 for end Dec lifting ex Australia was reported placed into Japan. As limited term been signed for next year, we will expect active spot inquiries from petchem players, on the premise of maintaining basic operating rates.
+MEG
+Discussing level for evenly split cargo softened as Indian and Indonesia demand were covered gradually. Latest BPCL was heard to have awarded Jan and Feb liftings at small premium to CP. However, similar grade sold into Indonesia was reported done on CFR basis, at a equivalence of discounts to CP. 
+
+Dec C3 CP was assessed at $600 at the time of writing. And due to front butane inquiries, Dec C3/C4 still maintained at -$15. Dec/Jan C3 was traded at $8 backwardation.  
+
+FAR EAST
+23/0 parcel for 2h Dec was heard changed hand at Dec FEI minus mid-single digit, while some Cananda origin parcels for same period were sold at minus low-mid teens basis Chiba reportedly. Similar cargo for 1h Jan delivery was bid at Jan FEI plus $6 in window and was heard traded at plus $8 off window. 
+
+A handful of tenders are floating this week. PERTAMINA was reported awarded their Jan procurement tender at Jan CP plus $90s to $100 on CFR basis. One Vietnam-based PDH plant issued tender to buy 23/0 or 46/0 for Dec to 1st decade Jan delivery. One EChina petchem player tendered to buy 0/23 for 1st decade Jan delivery. One EChina cracker issued new tender to procure 23/0 or 46/0 for 3-10 Jan delivery into Ningbo, which had secured 46/0 for 2h Dec delivery at Dec FEI minus mid-teens via previous tender. Taiwan FPCC tendered to procure 0-22kt C3 and 22kt C4 for 2h Dec delivery. One 33/11 for end Dec lifting ex Australia was reported placed into Japan. As limited term been signed for next year, we will expect active spot inquiries from petchem players, on the premise of maintaining basic operating rates.
 
 ---
 
@@ -78,13 +96,20 @@ MEG Discussing level for evenly split cargo softened as Indian and Indonesia dem
 ### SnP Weekly Comment
 **Date:** 2023-11-24 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
-Whether it was celebrated or not, tanker market players would have been giving thanks this week for the fortuitous position they find themselves in as the sector remains hot. Although a relatively quiet week, behind the scenes there are rumours of a 2019 eco VLCC seeing interest in the region of USD 110m levels that would recalibrate valuation models across the sector. Older Aframax tankers have received a boost this week with AEGEAN MYTH (115K DWT 2006 SAMSUNG) being transacted at USD 37.5M to Chinese buyers, showing that current freight rates are proving hard to resist. Elsewhere, Chinese interests secured J19 ALBATROSS TRADER (19K DWT 2015 USUKI) for USD 29.3M.    Rallying chartering markets on the Capesize front is building up anticipation for an ever-increasing level of enquiry. NGM securing in time the Capesize sisters GLORY/HONOR (179K DWT 2011 HHI) for USD 26.5M per unit from compatriots Unisea - levels that most would consider a relative bottom in light of ever bettering earnings. Final price on Ultramax ZEYNO (63K DWT 2014 DAYANG) was revealed to be USD 22M, rather in line with market expectations. With most players cautiously heading into 2024, the busy nature of the S&P market in this year-end suggests sentiment is mending across segments with hope that these invigorated earnings are here to stay.
+Whether it was celebrated or not, tanker market players would have been giving thanks this week for the fortuitous position they find themselves in as the sector remains hot. Although a relatively quiet week, behind the scenes there are rumours of a 2019 eco VLCC seeing interest in the region of USD 110m levels that would recalibrate valuation models across the sector. Older Aframax tankers have received a boost this week with AEGEAN MYTH (115K DWT 2006 SAMSUNG) being transacted at USD 37.5M to Chinese buyers, showing that current freight rates are proving hard to resist. Elsewhere, Chinese interests secured J19 ALBATROSS TRADER (19K DWT 2015 USUKI) for USD 29.3M. 
+ 
+Rallying chartering markets on the Capesize front is building up anticipation for an ever-increasing level of enquiry. NGM securing in time the Capesize sisters GLORY/HONOR (179K DWT 2011 HHI) for USD 26.5M per unit from compatriots Unisea - levels that most would consider a relative bottom in light of ever bettering earnings.
+Final price on Ultramax ZEYNO (63K DWT 2014 DAYANG) was revealed to be USD 22M, rather in line with market expectations. With most players cautiously heading into 2024, the busy nature of the S&P market in this year-end suggests sentiment is mending across segments with hope that these invigorated earnings are here to stay.
 
 ---
 
 ### Chartering Weekly Comment
 **Date:** 2023-11-23 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
-EAST With few signs of early December cargos remaining uncovered in the AG the fixing window is moving in to the second decade of the month. Many of the early December ships are also about to reach their deviation point for East/West – meaning availability for the first 10 days of December soon will become very limited. Japan and US are off Thursday for Thanksgiving and we could expect a big crowd off for long weekend which might mean we are in for a quiet end to this week. Second half December laycans and onwards in the East is still comfortably far out for Charterers and while sitting back waiting vessel itineraries for this window will soon firm up.   WEST A second Pertamina tender came out in the market this week, now for end December dates, and it was done to an Indonesian Owner at arnd 230 H/C v Pan eqv. At the time of writing we see 2 vessels left in the second decade of Dec – one in each end. For the third decade we see potentially 8 ships left – 3 of which are relets all with NB slot booked. The rest is coming via Suez or from West discharge. So far we have seen 26 spot ex US for December and 1 for January.
+EAST
+With few signs of early December cargos remaining uncovered in the AG the fixing window is moving in to the second decade of the month. Many of the early December ships are also about to reach their deviation point for East/West – meaning availability for the first 10 days of December soon will become very limited. Japan and US are off Thursday for Thanksgiving and we could expect a big crowd off for long weekend which might mean we are in for a quiet end to this week. Second half December laycans and onwards in the East is still comfortably far out for Charterers and while sitting back waiting vessel itineraries for this window will soon firm up. 
+
+WEST
+A second Pertamina tender came out in the market this week, now for end December dates, and it was done to an Indonesian Owner at arnd 230 H/C v Pan eqv. At the time of writing we see 2 vessels left in the second decade of Dec – one in each end. For the third decade we see potentially 8 ships left – 3 of which are relets all with NB slot booked. The rest is coming via Suez or from West discharge. So far we have seen 26 spot ex US for December and 1 for January.
 
 ---

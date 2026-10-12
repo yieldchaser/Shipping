@@ -6,7 +6,7 @@ week: 17
 date_range: "2026-04-22 to 2026-04-25"
 comments_count: 10
 sectors: ["Dry Bulk", "Tankers", "Gas & LNG", "Sale and Purchase (S&P)"]
-generated_at: "2026-10-11 21:03:39"
+generated_at: "2026-10-12 13:31:44"
 ---
 
 # Fearnleys Weekly Broker Commentary - Week 17, 2026
@@ -55,7 +55,11 @@ The US Gulf has been propping up the Atlantic basin with TCEs for UK Continent o
 ### Aframax Weekly Comment
 **Date:** 2026-04-22 | **Subtype:** Tank Weekly Comment | **Desk:** Fearnleys Research
 
-North Sea After a cargo with multiple offers remained uncounted last Friday and rolled into this week the market has been tested by charterers losing more than WS 100 points in the first couple of days this week. Suezmax have taken some of the anticipated activity and are reported to continue to take stems into May. Natural window is pushing end/early dates, and with limited stems for the first decade of May, Aframax activity may remain muted. US markets seem to have stabilised rate wise and remain a viable ballasting option especially with expected increase in lightering operations/activity.  Mediterranean Rates have corrected and repeated below the WS 300 mark so far this week with owners and relets trying to secure the earliest dates available. Activity has been decent with a couple of vessels fixed quietly last couple of days but with the pressure index remaining high for vessels opening in the 25-30 Apr window. We will soon see early May dates being worked and the goal for the owners will be to hold the ground.
+North Sea
+After a cargo with multiple offers remained uncounted last Friday and rolled into this week the market has been tested by charterers losing more than WS 100 points in the first couple of days this week. Suezmax have taken some of the anticipated activity and are reported to continue to take stems into May. Natural window is pushing end/early dates, and with limited stems for the first decade of May, Aframax activity may remain muted. US markets seem to have stabilised rate wise and remain a viable ballasting option especially with expected increase in lightering operations/activity.
+
+Mediterranean
+Rates have corrected and repeated below the WS 300 mark so far this week with owners and relets trying to secure the earliest dates available. Activity has been decent with a couple of vessels fixed quietly last couple of days but with the pressure index remaining high for vessels opening in the 25-30 Apr window. We will soon see early May dates being worked and the goal for the owners will be to hold the ground.
 
 ---
 
@@ -63,14 +67,24 @@ North Sea After a cargo with multiple offers remained uncounted last Friday and 
 ### LNG Market Report
 **Date:** 2026-04-22 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
-The market appears to have entered a more stable, albeit still fragile phase. Volatility on commodity pricing has subsided somewhat, perhaps in protest in response to weeks of wild swings at the news and non-news dominating the public discourse around closure or opening of the Straits of Hormuz. Paper markets have grown increasingly resistant to new "news" with the reality already priced in on the physical.  In the Atlantic basin, activity remains subdued, with several participants describing the market as quiet and lacking liquidity. Despite this, underlying concerns around European storage and forward balances persist, providing some support to sentiment. Vessel availability is still sufficient, but increasingly fragmented, and there is a growing expectation that tonnage could tighten further toward end-May.   East of Suez, buyers remain largely absent with an eye on softer prices down the curve and prompt supply well covered.   Looking ahead, the key question remains whether late-May demand materialises and translates into fixing activity. For now, the market remains finely balanced, with limited downside but no clear catalyst for upside unless activity picks up.
+The market appears to have entered a more stable, albeit still fragile phase. Volatility on commodity pricing has subsided somewhat, perhaps in protest in response to weeks of wild swings at the news and non-news dominating the public discourse around closure or opening of the Straits of Hormuz. Paper markets have grown increasingly resistant to new "news" with the reality already priced in on the physical.
+
+In the Atlantic basin, activity remains subdued, with several participants describing the market as quiet and lacking liquidity. Despite this, underlying concerns around European storage and forward balances persist, providing some support to sentiment. Vessel availability is still sufficient, but increasingly fragmented, and there is a growing expectation that tonnage could tighten further toward end-May. 
+
+East of Suez, buyers remain largely absent with an eye on softer prices down the curve and prompt supply well covered. 
+
+Looking ahead, the key question remains whether late-May demand materialises and translates into fixing activity. For now, the market remains finely balanced, with limited downside but no clear catalyst for upside unless activity picks up.
 
 ---
 
 ### Gas Market Weekly Comment - Eastern Market
 **Date:** 2026-04-23 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
-Another week of volatility as the US-Iran talks remains unclear and supply disruptions continues. A Korean importer bid in window for a May FOB 2/2 or 4/0 cargo ex Yanbu at $850 for C3 and C4 respectively. By the time of writing, May CP swap was assessed at $710 for C3 and $755 for C4, with the May/June CP spread at an $80 backwardation.  Terminal fees dropped sharply as arbs narrowed further with slackening far east demand. FEI/Lst declined to $300 for May and $255 for Jun by the time of writing. An early Jun lifting 2/2 cargo ex US was reportedly sold to an Indian player at low 30s cpg, and a similar ratio for later Jun loading heard in 20s range. However, a 4/0 parcel for 1h Jun lifting was done at 18 cpg only. U.S. propane/propylene inventories rose by 2.1 mmt barrels to 77.9 million barrels in the week ended 17th Apr, leaving stocks remained 71.5% higher year on year.   Activity in the Asian was muted earlier this week, as market participants monitored US–Iran talks before committing to June programs. Outside window, one 23/0 parcel for 2h May delivery basis Chiba was changed hand at May FEI plus around $70. Similar parcel for 2h Jun delivery was concluded at May FEI plus $7-8. Additionally, a couple of Jun arrival 46/0 parcels have been placed into Echina at May FEI plus high $30s reportedly, which equates to Jun FEI plus mid $80s based on latest swap. Chinese PDH run rate fell by 10% to 46% in two weeks, which subsequently led to significant reduction in propane demand. With flat prices and discussing premium easing, PDH margins have slightly improved. Hopefully, some plants might restart on schedule rather than extend maintenance.
+Another week of volatility as the US-Iran talks remains unclear and supply disruptions continues. A Korean importer bid in window for a May FOB 2/2 or 4/0 cargo ex Yanbu at $850 for C3 and C4 respectively. By the time of writing, May CP swap was assessed at $710 for C3 and $755 for C4, with the May/June CP spread at an $80 backwardation.
+
+Terminal fees dropped sharply as arbs narrowed further with slackening far east demand. FEI/Lst declined to $300 for May and $255 for Jun by the time of writing. An early Jun lifting 2/2 cargo ex US was reportedly sold to an Indian player at low 30s cpg, and a similar ratio for later Jun loading heard in 20s range. However, a 4/0 parcel for 1h Jun lifting was done at 18 cpg only. U.S. propane/propylene inventories rose by 2.1 mmt barrels to 77.9 million barrels in the week ended 17th Apr, leaving stocks remained 71.5% higher year on year. 
+
+Activity in the Asian was muted earlier this week, as market participants monitored US–Iran talks before committing to June programs. Outside window, one 23/0 parcel for 2h May delivery basis Chiba was changed hand at May FEI plus around $70. Similar parcel for 2h Jun delivery was concluded at May FEI plus $7-8. Additionally, a couple of Jun arrival 46/0 parcels have been placed into Echina at May FEI plus high $30s reportedly, which equates to Jun FEI plus mid $80s based on latest swap. Chinese PDH run rate fell by 10% to 46% in two weeks, which subsequently led to significant reduction in propane demand. With flat prices and discussing premium easing, PDH margins have slightly improved. Hopefully, some plants might restart on schedule rather than extend maintenance.
 
 ---
 
@@ -78,7 +92,9 @@ Another week of volatility as the US-Iran talks remains unclear and supply disru
 ### SnP Weekly Comment
 **Date:** 2026-04-25 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
-Scorpio are accounting for most of the action this week with the announcement of 6 sales across their MR and LR2 fleet. They have been consistent over the last 6 months in selling out assets, taking advantage of the scarce availability of these vessels and the elevated prices on offer. Buyers are ready to pounce on these opportunities as once you start looking at more modern units, the high pricing usually encourages potential suitors to the newbuilding yards instead. Despite various extensions of ceasefires, the situation in the Middle East remains largely the same, with brent crude trading today at its highest levels in ceasefire conditions, meaning that the market will need a little more than a fragile ceasefire in order to normalise.   A relatively slow week for dry liquidity, understandable given a strange combination of near-term strength and longer-term uncertainty in the market. Earnings are strong across the size ranges for now, while long term macro sentiment is being eroded as the war in the Middle East drags on. Some rare modern transactions this week with Niovis purchasing 2x resale ultramax units (64K DWT New Dayang 2027) for USD 36.5M each.
+Scorpio are accounting for most of the action this week with the announcement of 6 sales across their MR and LR2 fleet. They have been consistent over the last 6 months in selling out assets, taking advantage of the scarce availability of these vessels and the elevated prices on offer. Buyers are ready to pounce on these opportunities as once you start looking at more modern units, the high pricing usually encourages potential suitors to the newbuilding yards instead. Despite various extensions of ceasefires, the situation in the Middle East remains largely the same, with brent crude trading today at its highest levels in ceasefire conditions, meaning that the market will need a little more than a fragile ceasefire in order to normalise. 
+
+A relatively slow week for dry liquidity, understandable given a strange combination of near-term strength and longer-term uncertainty in the market. Earnings are strong across the size ranges for now, while long term macro sentiment is being eroded as the war in the Middle East drags on. Some rare modern transactions this week with Niovis purchasing 2x resale ultramax units (64K DWT New Dayang 2027) for USD 36.5M each.
 
 ---
 

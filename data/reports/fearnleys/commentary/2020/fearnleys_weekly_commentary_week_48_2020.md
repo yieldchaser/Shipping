@@ -6,7 +6,7 @@ week: 48
 date_range: "2020-11-23 to 2020-11-26"
 comments_count: 14
 sectors: ["Dry Bulk", "Tankers", "Gas & LNG", "Sale and Purchase (S&P)"]
-generated_at: "2026-10-11 21:03:33"
+generated_at: "2026-10-12 13:31:37"
 ---
 
 # Fearnleys Weekly Broker Commentary - Week 48, 2020
@@ -91,14 +91,21 @@ LNG markets continue to improve with buoyant demand supporting LNG shipping. Alt
 ### Gas Market Weekly Comment - Eastern Market
 **Date:** 2020-11-23 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
-MEG: Dec Propane CP is traded at $455 and Dec/Jan has traded at flattish. Butane CP is traded at $9-10 dollars higher. 1st CP round idea ranged widely from lowest $420 to highest at $450, while butane idea varied at $5 less to $10 higher. KPC issued sale tender to market their 20/21 Dec lifting equal ratio cargo.   FAR EAST: Freight is soaring and FEI/CP has enlarged wildly from last week’s minus $3 to $32! We’ve seen one bid for 23/0 2h Dec delivery at $500 in window with no sellers showing up. Off window, one Jan delivery full propane was reported sold at Jan FEI plus low single digit earlier this week. But other sellers with Jan delivery cargos are holding back positions, seeing freight is surging up and expecting premium coming up further.  Indonesia Pertamina issued tender to purchase one end Dec lifting AG 22/22 or alternatively for mid Jan delivery. One SChina PDH user awarded buy tender to secure 5 parcels of 22k propane monthly delivery from Feb to May 2021 at CP plus high 20s level. There are two more Petchem players are tendering for full propane as feedstock for next year delivery, and one more traditional importer is exploring equal ratio cargos via term tender as well.
+MEG:
+Dec Propane CP is traded at $455 and Dec/Jan has traded at flattish. Butane CP is traded at $9-10 dollars higher. 1st CP round idea ranged widely from lowest $420 to highest at $450, while butane idea varied at $5 less to $10 higher. KPC issued sale tender to market their 20/21 Dec lifting equal ratio cargo. 
+
+FAR EAST:
+Freight is soaring and FEI/CP has enlarged wildly from last week’s minus $3 to $32! We’ve seen one bid for 23/0 2h Dec delivery at $500 in window with no sellers showing up. Off window, one Jan delivery full propane was reported sold at Jan FEI plus low single digit earlier this week. But other sellers with Jan delivery cargos are holding back positions, seeing freight is surging up and expecting premium coming up further.
+
+Indonesia Pertamina issued tender to purchase one end Dec lifting AG 22/22 or alternatively for mid Jan delivery. One SChina PDH user awarded buy tender to secure 5 parcels of 22k propane monthly delivery from Feb to May 2021 at CP plus high 20s level. There are two more Petchem players are tendering for full propane as feedstock for next year delivery, and one more traditional importer is exploring equal ratio cargos via term tender as well.
 
 ---
 
 ### Gas Market Weekly Comment - Western Market
 **Date:** 2020-11-23 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
-AMERICAS Happy Thanksgiving! A 300,000 barrel draw occurred in US inventories. Although this was lower than expected it was very much an after-thought in traders minds this week. The main focus has been finding freight to lift US FOB cargos. This has caused traders to work FOB cargos well in advance to be sure they can secure freight. With mid to late January now being discussed. US FOB sellers have had to re-assess values as popping freight has eroded January netback values. With all eyes on the arb, the question is will it widen and stimulate FOB deals while sustaining strong freight?
+AMERICAS
+Happy Thanksgiving! A 300,000 barrel draw occurred in US inventories. Although this was lower than expected it was very much an after-thought in traders minds this week. The main focus has been finding freight to lift US FOB cargos. This has caused traders to work FOB cargos well in advance to be sure they can secure freight. With mid to late January now being discussed. US FOB sellers have had to re-assess values as popping freight has eroded January netback values. With all eyes on the arb, the question is will it widen and stimulate FOB deals while sustaining strong freight?
 
 ---
 
@@ -106,13 +113,19 @@ AMERICAS Happy Thanksgiving! A 300,000 barrel draw occurred in US inventories. A
 ### SnP Weekly Comment
 **Date:** 2020-11-26 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
-The creditor controlled sale of the Xihe fleet is still underway with administrators inviting offers on three VLCC’s this week. The 2013 Jiangnan built VLCC JING GANG SAN is now sold at a price of Usd 45.2mill while we understand that the two sisters HUA SAN and LU SAN  (318k DWT 2008 and 2009 SWS) are under close negotiations with price expectations in the region of Usd 30mill and Usd 33mill respectively. This downward correction in values can be witnessed across most tanker sectors which is particularly well-illustrated in the Aframax segment by the sale of the Japanese controlled LR2 unit CHAMPION PRINCE (105k dwt 2012 HHI coated) which achieved Usd 24.1mill. Only a few weeks ago same owners disposed of the the sister CHAMPION PRINCESS, also 2012 built, to GESCO for Usd 26.4mill.  Activity in the Kamsarmax segment remains high with a further two vessels changing hands this week. Namely the Japanese controlled CETUS OCEAN (83k DWT 2013 Sanoyas) sold at Usd 17.3mill and LEDA (82k DWT 2013 Tsuneishi Fukuyama) at USD 16.7mill. Worth noting that the CETUS OCEAN was sold with BWTS installed hence the mark up in pricing. Scorpio Bulk’s sell-off continues unabated with four NACKS 2015 built Ultramaxes sold to Pacific Basin. All units were scrubber fitted and the reported price of Usd 16.75mill each is therefore more or less in line with recent sales of non-scrubber fitted  comparable units.
+The creditor controlled sale of the Xihe fleet is still underway with administrators inviting offers on three VLCC’s this week. The 2013 Jiangnan built VLCC JING GANG SAN is now sold at a price of Usd 45.2mill while we understand that the two sisters HUA SAN and LU SAN  (318k DWT 2008 and 2009 SWS) are under close negotiations with price expectations in the region of Usd 30mill and Usd 33mill respectively. This downward correction in values can be witnessed across most tanker sectors which is particularly well-illustrated in the Aframax segment by the sale of the Japanese controlled LR2 unit CHAMPION PRINCE (105k dwt 2012 HHI coated) which achieved Usd 24.1mill. Only a few weeks ago same owners disposed of the the sister CHAMPION PRINCESS, also 2012 built, to GESCO for Usd 26.4mill.
+
+Activity in the Kamsarmax segment remains high with a further two vessels changing hands this week. Namely the Japanese controlled CETUS OCEAN (83k DWT 2013 Sanoyas) sold at Usd 17.3mill and LEDA (82k DWT 2013 Tsuneishi Fukuyama) at USD 16.7mill. Worth noting that the CETUS OCEAN was sold with BWTS installed hence the mark up in pricing. Scorpio Bulk’s sell-off continues unabated with four NACKS 2015 built Ultramaxes sold to Pacific Basin. All units were scrubber fitted and the reported price of Usd 16.75mill each is therefore more or less in line with recent sales of non-scrubber fitted  comparable units.
 
 ---
 
 ### Chartering Weekly Comment
 **Date:** 2020-11-23 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
-EAST Activity and freight levels have indeed picked up quite significantly on both sides of the Suez this week, availability is as a consequence starting to become very thin for the remainder of December in the Middle East. Baltic has jumped up more than 4 dollars from Friday, however, we continue to see the West premium remaining wide. On the back of current freight ideas from owners and last done levels, Baltic is expected to continue upwards for now.  WEST The western VLGC freight rates are currently skyrocketing on the back of tight vessel supply and plenty of cargo inquiries for both ends of December and the first half of January. Although we have seen only a handful of deals done since the end of last week, freight rates have increased from USD 110 to high USD 120’s on a Houston/Chiba basis. What is exacerbating the tight vessel supply is that owners and even traders who have potential relets are currently holding back before fixing anything further in order not to over-commit their fleet and because the current discharge schedules are not firm. The market will remain tight for the foreseeable future.
+EAST
+Activity and freight levels have indeed picked up quite significantly on both sides of the Suez this week, availability is as a consequence starting to become very thin for the remainder of December in the Middle East. Baltic has jumped up more than 4 dollars from Friday, however, we continue to see the West premium remaining wide. On the back of current freight ideas from owners and last done levels, Baltic is expected to continue upwards for now.
+
+WEST
+The western VLGC freight rates are currently skyrocketing on the back of tight vessel supply and plenty of cargo inquiries for both ends of December and the first half of January. Although we have seen only a handful of deals done since the end of last week, freight rates have increased from USD 110 to high USD 120’s on a Houston/Chiba basis. What is exacerbating the tight vessel supply is that owners and even traders who have potential relets are currently holding back before fixing anything further in order not to over-commit their fleet and because the current discharge schedules are not firm. The market will remain tight for the foreseeable future.
 
 ---

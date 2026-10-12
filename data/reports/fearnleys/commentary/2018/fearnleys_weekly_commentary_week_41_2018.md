@@ -6,7 +6,7 @@ week: 41
 date_range: "2018-10-11 to 2018-10-11"
 comments_count: 1
 sectors: ["Dry Bulk", "Tankers", "Gas & LNG", "Sale and Purchase (S&P)"]
-generated_at: "2026-10-11 21:03:31"
+generated_at: "2026-10-12 13:31:35"
 ---
 
 # Fearnleys Weekly Broker Commentary - Week 41, 2018
@@ -25,7 +25,8 @@ Institutional desk intelligence harvested directly from the Fearnleys Hasura Gra
 ### Gas Market Report
 **Date:** 2018-10-11 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
-The West market has seen a few fixtures in the mid/low USD 80’s pmt, however, increasing bunker prices are eating into owners’ earnings - read more in the full report below
+The West market has seen a few fixtures in the mid/low USD 80’s pmt, however,
+increasing bunker prices are eating into owners’ earnings - read more in the full report below
 
 ---
 

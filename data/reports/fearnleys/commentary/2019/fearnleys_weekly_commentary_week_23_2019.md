@@ -6,7 +6,7 @@ week: 23
 date_range: "2019-06-03 to 2019-06-09"
 comments_count: 19
 sectors: ["Dry Bulk", "Tankers", "Gas & LNG", "Sale and Purchase (S&P)"]
-generated_at: "2026-10-11 21:03:31"
+generated_at: "2026-10-12 13:31:36"
 ---
 
 # Fearnleys Weekly Broker Commentary - Week 23, 2019
@@ -91,7 +91,23 @@ The LNG spot market continues to delight buyers and dismay sellers, with deliver
 ### Gas Market Weekly Comment - Eastern Market
 **Date:** 2019-06-05 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
-MEG: This last week have seen a nose dive in prices of LPG from the MEG. It started almost to the minute of June LPG CP prices being announced, by Crude falling sharply on the last trading last week, only to fall even more Monday of this week. While the fall in Crude prices have been sharp, equaling nearly 13 pct. The drop in LPG prices have been even larger, using July’s traded CP over the same period, equaling about 17 pct. We are today in a situation where the traded July Propane CP is at 343, June CP confirmed at 430, this means that the market expect Propane CP to drop by a massive 20 pct. The spot physical price have dropped even more with close to a handful of deals done at discount to July CP. The discounts ranged from high single digit to high teens. The Butane price have been hit ever harder than Propane and it seems that this pricing trend is set to continue with the market being awash with Butane right now.   FAR EAST: The pricing trend in the Eastern markets have mirrored that seen in MEG. While window deal(s) have been near absent this week, one was done earlier today where a Marcus Hook 23/00 1h July was confirmed at July FEI +6, a number of physical deals was confirmed. Market chatter refers to 1 cargo of 22+22 to East China and another of 11+11 to a similar destination with arrival 2nd hf July was concluded at equivalent of July CP netbacks in the minus 30’s and a 22+22 kt cargo for arrival SE Asia early July was heard done at equivalent of July FOB minus mid teens. It feels like end users are taking this opportunity to fill their storages with cargo at time when prices are perceived to have reached bottom, or near thereto. Sellers have had to play ball as the high freights have made it financially impossible to sit vessels and hope for higher prices, at today’s Baltic the VLGC cost of sitting just 1 day is in excess of USD 1.25 PMT. For Propane there are some relief with Propylene trading at close to USD 1,000 PMT in the East and Propane being landed considerably below USD 500 PMT, very large margins are being achieved by the PDH plant operators and we have now seen such operators tendering for cargoes with arrival from end June till end July.  With US volumes seeing an even larger FOB price adjustment, it will be interesting to see where this market will take us in the next 1 to 2 months.
+MEG:
+This last week have seen a nose dive in prices of LPG from the MEG.
+It started almost to the minute of June LPG CP prices being announced, by Crude falling sharply on the last trading last week, only to fall even more Monday of this week.
+While the fall in Crude prices have been sharp, equaling nearly 13 pct.
+The drop in LPG prices have been even larger, using July’s traded CP over the same period, equaling about 17 pct.
+We are today in a situation where the traded July Propane CP is at 343, June CP confirmed at 430, this means that the market expect Propane CP to drop by a massive 20 pct.
+The spot physical price have dropped even more with close to a handful of deals done at discount to July CP. The discounts ranged from high single digit to high teens.
+The Butane price have been hit ever harder than Propane and it seems that this pricing trend is set to continue with the market being awash with Butane right now. 
+
+FAR EAST:
+The pricing trend in the Eastern markets have mirrored that seen in MEG.
+While window deal(s) have been near absent this week, one was done earlier today where a Marcus Hook 23/00 1h July was confirmed at July FEI +6, a number of physical deals was confirmed.
+Market chatter refers to 1 cargo of 22+22 to East China and another of 11+11 to a similar destination with arrival 2nd hf July was concluded at equivalent of July CP netbacks in the minus 30’s and a 22+22 kt cargo for arrival SE Asia early July was heard done at equivalent of July FOB minus mid teens.
+It feels like end users are taking this opportunity to fill their storages with cargo at time when prices are perceived to have reached bottom, or near thereto.
+Sellers have had to play ball as the high freights have made it financially impossible to sit vessels and hope for higher prices, at today’s Baltic the VLGC cost of sitting just 1 day is in excess of USD 1.25 PMT.
+For Propane there are some relief with Propylene trading at close to USD 1,000 PMT in the East and Propane being landed considerably below USD 500 PMT, very large margins are being achieved by the PDH plant operators and we have now seen such operators tendering for cargoes with arrival from end June till end July. 
+With US volumes seeing an even larger FOB price adjustment, it will be interesting to see where this market will take us in the next 1 to 2 months.
 
 ---
 
@@ -106,7 +122,9 @@ Propane inventories resumed their seasonable build , increasing this week by 2.3
 ### Chartering Weekly Comment
 **Date:** 2019-06-04 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
-The momentum in the freight market from last week has continued into this week, and shipping availability for current fixing window i.e. end June remains relatively tight. Most of the activity has been on the back of shipping demand from Indian majors, and last done rates are now trailing in the USD high 60s pmt Baltic. Going forward we are waiting for July acceptances from most of the Middle Eastern suppliers, and we expect the market to cool off a little bit in the coming days.  Although there has been some inquiries and some fixing activity too, the VLGC market in the western hemisphere has to be described as somewhat subdued this week. At least so for the beginning of the week, as we do now see some increased interest. Levels discussed so far this week, indicate that the western market is trading with a small premium to the Eastern Baltic benchmark, although not more than say 2-3% at the time of writing. We do believe this will carry on, as there are some uncovered cargoes out of the US Gulf during 1st half of July, and vessel supply is generally tight.
+The momentum in the freight market from last week has continued into this week, and shipping availability for current fixing window i.e. end June remains relatively tight. Most of the activity has been on the back of shipping demand from Indian majors, and last done rates are now trailing in the USD high 60s pmt Baltic. Going forward we are waiting for July acceptances from most of the Middle Eastern suppliers, and we expect the market to cool off a little bit in the coming days.
+
+Although there has been some inquiries and some fixing activity too, the VLGC market in the western hemisphere has to be described as somewhat subdued this week. At least so for the beginning of the week, as we do now see some increased interest. Levels discussed so far this week, indicate that the western market is trading with a small premium to the Eastern Baltic benchmark, although not more than say 2-3% at the time of writing. We do believe this will carry on, as there are some uncovered cargoes out of the US Gulf during 1st half of July, and vessel supply is generally tight.
 
 ---
 

@@ -6,7 +6,7 @@ week: 15
 date_range: "2023-04-11 to 2023-04-14"
 comments_count: 14
 sectors: ["Dry Bulk", "Tankers", "Gas & LNG", "Sale and Purchase (S&P)"]
-generated_at: "2026-10-11 21:03:36"
+generated_at: "2026-10-12 13:31:40"
 ---
 
 # Fearnleys Weekly Broker Commentary - Week 15, 2023
@@ -41,14 +41,18 @@ The effect of the Easter holidays kept markets at low activities. Main loading a
 ### VLCC Weekly Comment
 **Date:** 2023-04-11 | **Subtype:** Tank Weekly Comment | **Desk:** Fearnleys Research
 
-On paper, the MEG April stems seem far from finished. 20 cargoes remain? 30 cargoes? With many ships on subs, no details becoming a daily occurrence, an accurate picture can be hard to ascertain. Many charterers now increasing the way information is leaked, often when/if it suits their next cargo is a clever tactic. However, April is far from finished and the position list for the balance of the month is tightening. A couple of deals reported at WS 70+ MEG/East and owners have regained some lost confidence and showing resistance. Also, April also being the last month before OPEC+ put the squeeze on supply so some may try to maximize what the month has on offer.  A busier Atlantic will assist owners resolve as Wafr/East back to life at the WS 70 level and USG/East rates above USD 10m. Steady to a touch firmer in the short term.
+On paper, the MEG April stems seem far from finished. 20 cargoes remain? 30 cargoes? With many ships on subs, no details becoming a daily occurrence, an accurate picture can be hard to ascertain. Many charterers now increasing the way information is leaked, often when/if it suits their next cargo is a clever tactic. However, April is far from finished and the position list for the balance of the month is tightening. A couple of deals reported at WS 70+ MEG/East and owners have regained some lost confidence and showing resistance. Also, April also being the last month before OPEC+ put the squeeze on supply so some may try to maximize what the month has on offer.
+
+A busier Atlantic will assist owners resolve as Wafr/East back to life at the WS 70 level and USG/East rates above USD 10m. Steady to a touch firmer in the short term.
 
 ---
 
 ### VLCC Weekly Comment
 **Date:** 2023-04-11 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
-On paper, the MEG April stems seem far from finished. 20 cargoes remain? 30 cargoes? With many ships on subs, no details becoming a daily occurrence, an accurate picture can be hard to ascertain. Many charterers now increasing the way information is leaked, often when/if it suits their next cargo is a clever tactic. However, April is far from finished and the position list for the balance of the month is tightening. A couple of deals reported at WS 70+ MEG/East and owners have regained some lost confidence and showing resistance. Also, April also being the last month before OPEC+ put the squeeze on supply so some may try to maximize what the month has on offer.  A busier Atlantic will assist owners resolve as Wafr/East back to life at the WS 70 level and USG/East rates above USD 10m. Steady to a touch firmer in the short term.
+On paper, the MEG April stems seem far from finished. 20 cargoes remain? 30 cargoes? With many ships on subs, no details becoming a daily occurrence, an accurate picture can be hard to ascertain. Many charterers now increasing the way information is leaked, often when/if it suits their next cargo is a clever tactic. However, April is far from finished and the position list for the balance of the month is tightening. A couple of deals reported at WS 70+ MEG/East and owners have regained some lost confidence and showing resistance. Also, April also being the last month before OPEC+ put the squeeze on supply so some may try to maximize what the month has on offer.
+
+A busier Atlantic will assist owners resolve as Wafr/East back to life at the WS 70 level and USG/East rates above USD 10m. Steady to a touch firmer in the short term.
 
 ---
 
@@ -91,14 +95,34 @@ After a week in which much of the world enjoyed a long festive break, LNG player
 ### Gas Market Weekly Comment - Eastern Market
 **Date:** 2023-04-13 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
-MEG May CP rallied up following crude gains, and C3 was traded at $578 at the time of writing, while C4 at $6 cheaper. ADNOC released their May lifting program with some delays reported. And players are waiting for Saudi acceptance to know the full scheme. Discussions for evenly split cargo are active especially KPC was reported to sell two cargos at CP minus mid-teens to mid-20s respectively for 1-8th May lifting via tender. QP also tendered to sell end May lifting 3/1 ratio.   FAR EAST Busy week for Asian players after Easter Holiday. A handful of 23kt parcels for 2h May delivery were changed hand from flattish to small discounts to May FEI.   Off window a flurry of tenders is floating in the market, for both petchem and cracking users. With marginal profits for PDHs, several Chinese plants have emerged to secure feedstock. 46kt propane for 1h or mid May delivery were traded at May FEI plus teens as of delays caused by Panama congestion, while similar parcel for 2h May delivery at low mid single digit only. Cracking wise, Taiwan FPCC awarded their buy tender for 2h May delivery at May MOPJ minus around $105.   Demand for evenly split cargos remained robust as well entering into summer, coupled with talks for disruptions in May supply from Iran due to shipment delays, which lent support to butane. 11/11 for May were traded at May CP plus 40s into SEA and SChina. And CPC also tendered to procure 11/11 DES Shenao and/or Kaohsiung 22-31 May.
+MEG
+May CP rallied up following crude gains, and C3 was traded at $578 at the time of writing, while C4 at $6 cheaper. ADNOC released their May lifting program with some delays reported. And players are waiting for Saudi acceptance to know the full scheme.
+Discussions for evenly split cargo are active especially KPC was reported to sell two cargos at CP minus mid-teens to mid-20s respectively for 1-8th May lifting via tender. QP also tendered to sell end May lifting 3/1 ratio. 
+
+FAR EAST
+Busy week for Asian players after Easter Holiday. A handful of 23kt parcels for 2h May delivery were changed hand from flattish to small discounts to May FEI. 
+
+Off window a flurry of tenders is floating in the market, for both petchem and cracking users. With marginal profits for PDHs, several Chinese plants have emerged to secure feedstock. 46kt propane for 1h or mid May delivery were traded at May FEI plus teens as of delays caused by Panama congestion, while similar parcel for 2h May delivery at low mid single digit only. Cracking wise, Taiwan FPCC awarded their buy tender for 2h May delivery at May MOPJ minus around $105. 
+
+Demand for evenly split cargos remained robust as well entering into summer, coupled with talks for disruptions in May supply from Iran due to shipment delays, which lent support to butane. 11/11 for May were traded at May CP plus 40s into SEA and SChina. And CPC also tendered to procure 11/11 DES Shenao and/or Kaohsiung 22-31 May.
 
 ---
 
 ### Gas Market Weekly Comment - Western Market
 **Date:** 2023-04-13 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
-AMERICAS Mont Belvieu propane values have risen over the past couple of weeks from a low point of 70cts/gal to current market values which have well eclipsed 83cts/gal.  This is due to the combination of inventory drawdowns at MB and the recent surprise announcement that OPEC will cut production by up to one million bbls/day.  That news led to a $5/bbl increase in the WTI price which, in turn, gave lift to the MB pricing structure.  That buoyancy remains intact as propane closed most recently at 83.625cpg.  Going forward, domestic US liquids production is expected to outstrip demand (which – as evidenced by the half-million barrel inventory build yesterday - is clearly beyond the winter boundary by now), and inventory levels have now begun to build.  The strength and rate of stock growth, though, is contingent upon exports remaining true to the forecast that they will continue to be robust.  Terminal fees dropped from early March when values in the low teens were being seen, and bottomed out in the mid single-digit range before beginning to recover.  Current terminal fees for May are focused around the 6cts/gal level for a full propane cargo, while 2H 2023 values are pegged at/above 7cts/gal.  NWE April CIF ARA propane has continued to strengthen throughout the week with a late April TOT bid going unanswered. This prompt demand surprised the market as an 8 month high of 560,000MT will be imported in April. This strength has been largely due to maximum petrochemical demand with will continue as long at the propane naphtha spread remains wide, -$188/MT in April. Natural Gas prices remain low so we expect to see an increase in the region’s production which has been ramping up since March. Butane has been weak since the end of blending season with netbacks values for US C4 in around Mt Belvieu flat.  MED Little activity has been heard in the region, with the market quiet during Ramadan. Traders are looking to place large cargo buatne in the region as C4 remains weak in both northwest Europe and Asia, while the US arb is open.
+AMERICAS
+Mont Belvieu propane values have risen over the past couple of weeks from a low point of 70cts/gal to current market values which have well eclipsed 83cts/gal.  This is due to the combination of inventory drawdowns at MB and the recent surprise announcement that OPEC will cut production by up to one million bbls/day.  That news led to a $5/bbl increase in the WTI price which, in turn, gave lift to the MB pricing structure.  That buoyancy remains intact as propane closed most recently at 83.625cpg.
+
+Going forward, domestic US liquids production is expected to outstrip demand (which – as evidenced by the half-million barrel inventory build yesterday - is clearly beyond the winter boundary by now), and inventory levels have now begun to build.  The strength and rate of stock growth, though, is contingent upon exports remaining true to the forecast that they will continue to be robust.
+
+Terminal fees dropped from early March when values in the low teens were being seen, and bottomed out in the mid single-digit range before beginning to recover.  Current terminal fees for May are focused around the 6cts/gal level for a full propane cargo, while 2H 2023 values are pegged at/above 7cts/gal.
+
+NWE
+April CIF ARA propane has continued to strengthen throughout the week with a late April TOT bid going unanswered. This prompt demand surprised the market as an 8 month high of 560,000MT will be imported in April. This strength has been largely due to maximum petrochemical demand with will continue as long at the propane naphtha spread remains wide, -$188/MT in April. Natural Gas prices remain low so we expect to see an increase in the region’s production which has been ramping up since March. Butane has been weak since the end of blending season with netbacks values for US C4 in around Mt Belvieu flat.
+
+MED
+Little activity has been heard in the region, with the market quiet during Ramadan. Traders are looking to place large cargo buatne in the region as C4 remains weak in both northwest Europe and Asia, while the US arb is open.
 
 ---
 
@@ -106,13 +130,19 @@ AMERICAS Mont Belvieu propane values have risen over the past couple of weeks fr
 ### SnP Weekly Comment
 **Date:** 2023-04-14 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
-With much of the market enjoying a few days holiday, activity in the S&P sector ticked along without incident. No sales of larger tankers mean the headlines this week were taken by Advantage Tankers' purchase of three LR1s NAUTICAL DEBORAH/JANINE/SARAH (75K DWT 2018/19 JIANGSU HANTONG) from TRF, for USD 153M. Elsewhere, MRs DI MATTEO (46K DWT 2009 NAIKAI ZOSEN) and SW SOUTHPORT I (47K DWT 2004 STX) were sold for USD 24M and USD 18M respectively, which will help price the units on the market at this end of the age curve. Handytankers VOGE TRUST/DIGNITY (38K DWT 2009 GSI) were sold to Greek buyers at USD 19M per unit.   The dry S&P space has been busy this week despite the holidays, with sales reported across the age and size curve. The highest value deal of the week came in the form of Eagle Bulk selling Supramax trio SANKATY/MONTAUK/NEWPORT EAGLE (58K DWT 2011 YANGZHOU DAYANG) in an en-bloc transaction rumoured to be xs USD 16M per ship. This shows the strengthening bulk market, particularly the swelling demand for Supramaxes of around this vintage. Further up the size curve, Capesize MARAN PIONEER (171K DWT 2004 DAEWOO) sold for USD 18.5M and STELLA ADA (180K DWT 2011 DALIAN) changed hands for USD 25.5M. In the only transaction of a modern ship, Ultramax GLOBAL ROYAL (61K DWT 2022 DACKS) was committed for a rumoured USD 34.7M.
+With much of the market enjoying a few days holiday, activity in the S&P sector ticked along without incident. No sales of larger tankers mean the headlines this week were taken by Advantage Tankers' purchase of three LR1s NAUTICAL DEBORAH/JANINE/SARAH (75K DWT 2018/19 JIANGSU HANTONG) from TRF, for USD 153M. Elsewhere, MRs DI MATTEO (46K DWT 2009 NAIKAI ZOSEN) and SW SOUTHPORT I (47K DWT 2004 STX) were sold for USD 24M and USD 18M respectively, which will help price the units on the market at this end of the age curve. Handytankers VOGE TRUST/DIGNITY (38K DWT 2009 GSI) were sold to Greek buyers at USD 19M per unit. 
+
+The dry S&P space has been busy this week despite the holidays, with sales reported across the age and size curve. The highest value deal of the week came in the form of Eagle Bulk selling Supramax trio SANKATY/MONTAUK/NEWPORT EAGLE (58K DWT 2011 YANGZHOU DAYANG) in an en-bloc transaction rumoured to be xs USD 16M per ship. This shows the strengthening bulk market, particularly the swelling demand for Supramaxes of around this vintage. Further up the size curve, Capesize MARAN PIONEER (171K DWT 2004 DAEWOO) sold for USD 18.5M and STELLA ADA (180K DWT 2011 DALIAN) changed hands for USD 25.5M. In the only transaction of a modern ship, Ultramax GLOBAL ROYAL (61K DWT 2022 DACKS) was committed for a rumoured USD 34.7M.
 
 ---
 
 ### Chartering Weekly Comment
 **Date:** 2023-04-11 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
-EAST ADNOC was released earlier this week as expected and we saw some activity for end April dates, but also for early May. At the time of writing, we count 2 spot fixtures out of the Middle East Gulf with last done concluded at around mid USD 70s RT/C. April fixing looks to soon come to an end as we only see 1-2 available ships left this period. So far, the positions for 1H May in MEG looks balanced unless more ships will ballast to the Unites States.  WEST With the West back from Easter holidays we are seeing some fixing activity in the US Gulf again. A couple vessels have been fixed at high 110s H/C and with them taken into consideration we are counting 16-17 spot fixtures (12 first decade) so far in May ex USG/USEC. With only a few spot fixtures done in second decade May there should be room for more, although we at the time of writing only see a couple open positions this period, but we can expect a couple additions coming back from discharge in the West. Vessel supply in the last decade also looking tight, and freight rates is set to maintain as we still see the West trade at a pretty big discount compared to the East.
+EAST
+ADNOC was released earlier this week as expected and we saw some activity for end April dates, but also for early May. At the time of writing, we count 2 spot fixtures out of the Middle East Gulf with last done concluded at around mid USD 70s RT/C. April fixing looks to soon come to an end as we only see 1-2 available ships left this period. So far, the positions for 1H May in MEG looks balanced unless more ships will ballast to the Unites States.
+
+WEST
+With the West back from Easter holidays we are seeing some fixing activity in the US Gulf again. A couple vessels have been fixed at high 110s H/C and with them taken into consideration we are counting 16-17 spot fixtures (12 first decade) so far in May ex USG/USEC. With only a few spot fixtures done in second decade May there should be room for more, although we at the time of writing only see a couple open positions this period, but we can expect a couple additions coming back from discharge in the West. Vessel supply in the last decade also looking tight, and freight rates is set to maintain as we still see the West trade at a pretty big discount compared to the East.
 
 ---

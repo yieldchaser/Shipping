@@ -6,7 +6,7 @@ week: 4
 date_range: "2022-01-24 to 2022-01-28"
 comments_count: 14
 sectors: ["Dry Bulk", "Tankers", "Gas & LNG", "Sale and Purchase (S&P)"]
-generated_at: "2026-10-11 21:03:34"
+generated_at: "2026-10-12 13:31:39"
 ---
 
 # Fearnleys Weekly Broker Commentary - Week 04, 2022
@@ -26,7 +26,13 @@ It’s been a dreadful journey since last report with levels declining day by da
 ### Panamax Weekly Comment
 **Date:** 2022-01-26 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
-A muted start to the week for the Panamax market, Pacific market on a tick positive note. Atlantic remained stagnant both in the North and the South with early tonnage count continuing to build along with a lean looking cargo book especially for the early arrivals. In Asia, a healthier looking Indonesia demand continued to grow along with cautious optimism and better sentiment although it remains to be seen whether these cargoes maintain scheduling ahead of incoming holidays in the region.   Some representative fixtures this week: Elena Ve (75,750/2010), Amsterdam end Jan was rumored to have fixed a Suek cargo ex Murmansk to Rotterdam on voyage basis at USD 8.75 fio.  De Ming Hai (76,432/2008) delivery Aps Itaqui 15 February was fixed for a trip redelivery Skaw-Gibraltar at USD 27,000 to Messrs Olam. Cargill were linked fixing the HSL Varna (82,000/2022) Incheon 27 January for a trip via NoPac redelivery Singapore-Japan at USD 18,500, whilst the Pan Viva (75,026/2010) Kushiro 27 January went for a Pacific round trip rumored via NoPac at USD 17,000.  S'hail Al Rayan (76,629/2006) (Klaveness) Yosu 29 Jan fixed tct via NoPac redel Spore-Japan intn grains USD 14,500 – Bunge.
+A muted start to the week for the Panamax market, Pacific market on a tick positive note. Atlantic remained stagnant both in the North and the South with early tonnage count continuing to build along with a lean looking cargo book especially for the early arrivals. In Asia, a healthier looking Indonesia demand continued to grow along with cautious optimism and better sentiment although it remains to be seen whether these cargoes maintain scheduling ahead of incoming holidays in the region.
+ 
+Some representative fixtures this week:
+Elena Ve (75,750/2010), Amsterdam end Jan was rumored to have fixed a Suek cargo ex Murmansk to Rotterdam on voyage basis at USD 8.75 fio. 
+De Ming Hai (76,432/2008) delivery Aps Itaqui 15 February was fixed for a trip redelivery Skaw-Gibraltar at USD 27,000 to Messrs Olam.
+Cargill were linked fixing the HSL Varna (82,000/2022) Incheon 27 January for a trip via NoPac redelivery Singapore-Japan at USD 18,500, whilst the Pan Viva (75,026/2010) Kushiro 27 January went for a Pacific round trip rumored via NoPac at USD 17,000. 
+S'hail Al Rayan (76,629/2006) (Klaveness) Yosu 29 Jan fixed tct via NoPac redel Spore-Japan intn grains USD 14,500 – Bunge.
 
 ---
 
@@ -91,14 +97,29 @@ Muted chartering activity continued across both basins this week. The ever fluct
 ### Gas Market Weekly Comment - Eastern Market
 **Date:** 2022-01-24 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
-MEG Another robust increase in swap this week with crude rally. Feb C3 CP jumped to $763, and C4 even surpassed C3 to $766, in line with the strong rise in US butane price. Feb/Mar CP are traded at $23 backwardation, stable from last week. 1st round FEB CP idea varied widely from $745 to $770 for C3 and $735 to $755 for C4 reportedly.   FAR EAST Buying interests in window appear thin this week. 23kt propane for 1h Mar was bid in window at Mar FEI plus high teens and one similar parcel was traded at $758 during mid-week.  Off window a flurry of tenders is floating in the market, as both Chinese and Korean importers emerged to purchase cargos before lunar new year holiday.  At least five Chinese importers, mainly petchem players, have secured minimum 200kt propane in total for end Feb to 1h Mar delivery at Mar FEI plus 20s via tenders. Another Chinese traditional importer tendered to buy one 11/11 parcel for Mar delivery. And due to the widened FEI/MOPJ discounts driven by the surging oil price, Korean importers have also issued buy tenders to procure 92kt LPG for cracking use.  One Australia exporter is reported to sell an evenly split cargo for end Mar early Apr arrival via tender.
+MEG
+Another robust increase in swap this week with crude rally. Feb C3 CP jumped to $763, and C4 even surpassed C3 to $766, in line with the strong rise in US butane price. Feb/Mar CP are traded at $23 backwardation, stable from last week. 1st round FEB CP idea varied widely from $745 to $770 for C3 and $735 to $755 for C4 reportedly. 
+
+FAR EAST
+Buying interests in window appear thin this week. 23kt propane for 1h Mar was bid in window at Mar FEI plus high teens and one similar parcel was traded at $758 during mid-week. 
+Off window a flurry of tenders is floating in the market, as both Chinese and Korean importers emerged to purchase cargos before lunar new year holiday. 
+At least five Chinese importers, mainly petchem players, have secured minimum 200kt propane in total for end Feb to 1h Mar delivery at Mar FEI plus 20s via tenders. Another Chinese traditional importer tendered to buy one 11/11 parcel for Mar delivery. And due to the widened FEI/MOPJ discounts driven by the surging oil price, Korean importers have also issued buy tenders to procure 92kt LPG for cracking use. 
+One Australia exporter is reported to sell an evenly split cargo for end Mar early Apr arrival via tender.
 
 ---
 
 ### Gas Market Weekly Comment - Western Market
 **Date:** 2022-01-24 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
-AMERICAS  Continued cold weather for the Northern half of the Country has continued through January and is now forecast for the first half of February as well. This will continue to put pressure on the domestic inventories, however for now, the price continues to follow WTI and is not showing a premium. The wind went out of the sails, on the theory of there not being enough product to support large exports and weather demand, due to increased production forecasts for 2022, but it will be interesting to see if this changes if the cold weather lasts into the second half of Feb. This week propane inventories registered a seasonal and expected draw of 4.6 million barrels and we are expecting a similar number next week.  Cargo FOB in the US Gulf are trading either side of 5 cpg for March with buyers ideas lower and sellers ideas higher.  NWE Demand in the region is fairly balanced even as crude prices worked to firm LPG flat price. Europe remains well supplied for the balance of the January and into Feb as mild weather has done little to further demand. Chemical demand is moderate and propane's widening weakness in relation to naphtha could further insight the demand to the region for cracking. Further still, Dow plans to restart their ethylene cracker in Terneuzen by the end of the week. Struggles at the terminal began at the beginning of December, due to an issue with steam supply, but it is likely facility capable of absorbing 1.8 million tons / year should be back on line shortly. That said, weak ethylene margins could potentially act as a point of friction in the equation. As it stands, the propane naphtha spread sits at $100 pmt in the front month furthering the delta in favor of propane. Natural gas prices have softened, it has not been to a degree to absolve LPG from internal refineries where its being used as a cheaper alternative.    MED On paper, the appetite for LPG appears to be on the rise in the Med again, butane prices into Lavera saw double digit gains, along with an uptick in Moroccan demand, however no public cargos have changed hands yet.
+AMERICAS 
+Continued cold weather for the Northern half of the Country has continued through January and is now forecast for the first half of February as well. This will continue to put pressure on the domestic inventories, however for now, the price continues to follow WTI and is not showing a premium. The wind went out of the sails, on the theory of there not being enough product to support large exports and weather demand, due to increased production forecasts for 2022, but it will be interesting to see if this changes if the cold weather lasts into the second half of Feb. This week propane inventories registered a seasonal and expected draw of 4.6 million barrels and we are expecting a similar number next week. 
+Cargo FOB in the US Gulf are trading either side of 5 cpg for March with buyers ideas lower and sellers ideas higher.
+
+NWE
+Demand in the region is fairly balanced even as crude prices worked to firm LPG flat price. Europe remains well supplied for the balance of the January and into Feb as mild weather has done little to further demand. Chemical demand is moderate and propane's widening weakness in relation to naphtha could further insight the demand to the region for cracking. Further still, Dow plans to restart their ethylene cracker in Terneuzen by the end of the week. Struggles at the terminal began at the beginning of December, due to an issue with steam supply, but it is likely facility capable of absorbing 1.8 million tons / year should be back on line shortly. That said, weak ethylene margins could potentially act as a point of friction in the equation. As it stands, the propane naphtha spread sits at $100 pmt in the front month furthering the delta in favor of propane. Natural gas prices have softened, it has not been to a degree to absolve LPG from internal refineries where its being used as a cheaper alternative. 
+ 
+MED
+On paper, the appetite for LPG appears to be on the rise in the Med again, butane prices into Lavera saw double digit gains, along with an uptick in Moroccan demand, however no public cargos have changed hands yet.
 
 ---
 
@@ -106,13 +127,19 @@ AMERICAS  Continued cold weather for the Northern half of the Country has contin
 ### SnP Weekly Comment
 **Date:** 2022-01-28 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
-Activity on the tanker front continues to be captured by the product sectors with several vessels changing hands. Further to last week's reported sale of Scorpio LR1 fleet, it has transcribed that owners have also disposed of two additional MR units - namely the 2013 HMD built “STI FONTVIEILLE“ and 2019 Vinashin built “STI MAJESTIC”, which were sold at USD 23.5m and USD 34.9m respectively. Amounting to a total of 14 vessels being sold for a total consideration of USD 472.2m. The Japanese controlled 2010 Shin Kurushima built Pumproom type unit “PRIME EXPRESS” has invited offers on Monday this week; after receiving up to 6 bids the vessel has now been committed at USD 16.2m to Greek buyers. Worth noting that the sale was basis BWTS due in August this year. Elsewhere, the 2007 Onomichi built LR1 “POLAR COD” was sold at USD 11.7m providing a well needed benchmark for LR1 units of such vintage.  Dry snp markets remain subdued in terms of concluded transactions with a widening bid offer spread between potential sellers who are holding back for last dones levels achieved end of last year and potential buyers hoping to secure tonnage from a thinning list of available candidates at a relative discount.
+Activity on the tanker front continues to be captured by the product sectors with several vessels changing hands. Further to last week's reported sale of Scorpio LR1 fleet, it has transcribed that owners have also disposed of two additional MR units - namely the 2013 HMD built “STI FONTVIEILLE“ and 2019 Vinashin built “STI MAJESTIC”, which were sold at USD 23.5m and USD 34.9m respectively. Amounting to a total of 14 vessels being sold for a total consideration of USD 472.2m. The Japanese controlled 2010 Shin Kurushima built Pumproom type unit “PRIME EXPRESS” has invited offers on Monday this week; after receiving up to 6 bids the vessel has now been committed at USD 16.2m to Greek buyers. Worth noting that the sale was basis BWTS due in August this year. Elsewhere, the 2007 Onomichi built LR1 “POLAR COD” was sold at USD 11.7m providing a well needed benchmark for LR1 units of such vintage.
+
+Dry snp markets remain subdued in terms of concluded transactions with a widening bid offer spread between potential sellers who are holding back for last dones levels achieved end of last year and potential buyers hoping to secure tonnage from a thinning list of available candidates at a relative discount.
 
 ---
 
 ### Chartering Weekly Comment
 **Date:** 2022-01-24 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
-EAST We have seen increased activity on shipping in the East this week (together with various product buy tenders), as market players are getting ready for the upcoming CNY festivities. However, freight rates continue to be under pressure and each cargo traded have all had a selection of ships to choose from. Going forward, the big question remains where we will find a floor, but with about a USD 7.00 East discount compared to West on last posted Baltic, one could expect that there is less downside in the East for now.  WEST There are signs of increased activity in the Western hemisphere with focus not only on the US but also on a few February cargoes ex Algeria which are in play. At the time of writing, the latest fixture ex USG was concluded at USD mid/low 100s and about mid 50s Houston/Flushing, however, the question remains unanswered as to whether this is the bottom or not. There are seemingly ample supply of vessels in the US during February, however, it appears as if we are moving into a date dependent market for February where owners are resisting to participate in the downward spiral.
+EAST
+We have seen increased activity on shipping in the East this week (together with various product buy tenders), as market players are getting ready for the upcoming CNY festivities. However, freight rates continue to be under pressure and each cargo traded have all had a selection of ships to choose from. Going forward, the big question remains where we will find a floor, but with about a USD 7.00 East discount compared to West on last posted Baltic, one could expect that there is less downside in the East for now.
+
+WEST
+There are signs of increased activity in the Western hemisphere with focus not only on the US but also on a few February cargoes ex Algeria which are in play. At the time of writing, the latest fixture ex USG was concluded at USD mid/low 100s and about mid 50s Houston/Flushing, however, the question remains unanswered as to whether this is the bottom or not. There are seemingly ample supply of vessels in the US during February, however, it appears as if we are moving into a date dependent market for February where owners are resisting to participate in the downward spiral.
 
 ---

@@ -6,7 +6,7 @@ week: 2
 date_range: "2019-01-07 to 2019-01-10"
 comments_count: 2
 sectors: ["Dry Bulk", "Tankers", "Gas & LNG", "Sale and Purchase (S&P)"]
-generated_at: "2026-10-11 21:03:31"
+generated_at: "2026-10-12 13:31:35"
 ---
 
 # Fearnleys Weekly Broker Commentary - Week 02, 2019
@@ -32,7 +32,8 @@ The first proper trading week of 2019 is underway and although we’ve recorded 
 ### Gas Market Report
 **Date:** 2019-01-10 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
-We are likely to see a further drop in the Baltic index, at least until the February acceptances starts coming out and fixing activity increases - read more in the full report.
+We are likely to see a further drop in the Baltic index, at least until the February acceptances
+starts coming out and fixing activity increases - read more in the full report.
 
 ---
 

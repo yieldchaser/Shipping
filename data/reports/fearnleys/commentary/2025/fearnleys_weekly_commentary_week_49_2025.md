@@ -6,7 +6,7 @@ week: 49
 date_range: "2025-12-03 to 2025-12-05"
 comments_count: 10
 sectors: ["Dry Bulk", "Tankers", "Gas & LNG", "Sale and Purchase (S&P)"]
-generated_at: "2026-10-11 21:03:39"
+generated_at: "2026-10-12 13:31:43"
 ---
 
 # Fearnleys Weekly Broker Commentary - Week 49, 2025
@@ -55,7 +55,11 @@ The headline deal from yesterday was W105 for ECM/Spain, albeit off fairly promp
 ### Aframax Weekly Comment
 **Date:** 2025-12-03 | **Subtype:** Tank Weekly Comment | **Desk:** Fearnleys Research
 
-North Sea Market levels remain steady with limited activity through the first half of the week.  We have seen some bigger vessel take volume out of stems in the 2nd decade which will reduce the available cargoes for Afra. Rates / Activity likely to remain steady through the first half of December. 2nd half of the month does look to be busier stem wise.  Mediterranean Position list remains balanced with rates moving sideways. Limited activity so far this week and sentiment / rates likely to remain unchanged pushing into next week. Natural window working towards mid month now North Africa and CPC well into 3rd decade.
+North Sea
+Market levels remain steady with limited activity through the first half of the week.  We have seen some bigger vessel take volume out of stems in the 2nd decade which will reduce the available cargoes for Afra. Rates / Activity likely to remain steady through the first half of December. 2nd half of the month does look to be busier stem wise.
+
+Mediterranean
+Position list remains balanced with rates moving sideways. Limited activity so far this week and sentiment / rates likely to remain unchanged pushing into next week. Natural window working towards mid month now North Africa and CPC well into 3rd decade.
 
 ---
 
@@ -70,7 +74,11 @@ December has started in a slightly softer mood in the Atlantic, as the recent fl
 ### Gas Market Weekly Comment - Eastern Market
 **Date:** 2025-12-04 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
-Supply tightness extended further, driven by increased demand for January evenly split cargoes. The latest deal was concluded at January CP plus mid-20s, with limited firm offers available. HPCL is seeking four 2/2 ratio cargoes via tender, with two for Jan and one each for Feb and Mar, either on FOB or CFR basis; while IOC is looking for monthly AG FOB 2/2 cargoes for Jan to Dec delivery. By the time of writing, Jan CP was traded at $501 for C3 and $491 for C4. Jan/Feb was assessed at $3 backwardation.   Terminal fee for Jan US liftings softened this week to 6ish cpg, as ARB to FAR EAST narrowing down due to unaffordability from petchem players seeing eroding margins. US propane/propylene inventory fell by 687,000 barrels to 103.5 mil barrels on the week ended 28 Nov, lesser draw than expectations and leaving it 7% higher on YOY basis.   Cash premium for Jan delivery propane continued to soar up with strong bids from traders covering shorts. 23/0 for 1h Jan delivery was bid at Bal Dec FEI plus $10, which equates to Jan FEI plus $26 while similar cargo for 2h Jan was bid at Jan FEI plus $17. Outside window a flurry of tenders was issued to seek butane. Pertamina issued buy tender for 2/2 late Jan delivery. Hyosung Vina tendered to buy 1/1 for 2h Jan to early Feb delivery. HTC closed their tender for 0/2 2h Jan delivery but no offers received reportedly.  Other than that, one SChina importer secured a Jan delivered 4/0 at Jan CP plus 70s. Another 23/0 parcel for Jan delivery was also reported placed into SChina at low 80s. Similarly, 1/1 for early Jan delivery basis SChina was also reported traded at similar level.
+Supply tightness extended further, driven by increased demand for January evenly split cargoes. The latest deal was concluded at January CP plus mid-20s, with limited firm offers available. HPCL is seeking four 2/2 ratio cargoes via tender, with two for Jan and one each for Feb and Mar, either on FOB or CFR basis; while IOC is looking for monthly AG FOB 2/2 cargoes for Jan to Dec delivery. By the time of writing, Jan CP was traded at $501 for C3 and $491 for C4. Jan/Feb was assessed at $3 backwardation. 
+
+Terminal fee for Jan US liftings softened this week to 6ish cpg, as ARB to FAR EAST narrowing down due to unaffordability from petchem players seeing eroding margins. US propane/propylene inventory fell by 687,000 barrels to 103.5 mil barrels on the week ended 28 Nov, lesser draw than expectations and leaving it 7% higher on YOY basis. 
+
+Cash premium for Jan delivery propane continued to soar up with strong bids from traders covering shorts. 23/0 for 1h Jan delivery was bid at Bal Dec FEI plus $10, which equates to Jan FEI plus $26 while similar cargo for 2h Jan was bid at Jan FEI plus $17. Outside window a flurry of tenders was issued to seek butane. Pertamina issued buy tender for 2/2 late Jan delivery. Hyosung Vina tendered to buy 1/1 for 2h Jan to early Feb delivery. HTC closed their tender for 0/2 2h Jan delivery but no offers received reportedly.  Other than that, one SChina importer secured a Jan delivered 4/0 at Jan CP plus 70s. Another 23/0 parcel for Jan delivery was also reported placed into SChina at low 80s. Similarly, 1/1 for early Jan delivery basis SChina was also reported traded at similar level.
 
 ---
 
@@ -78,13 +86,20 @@ Supply tightness extended further, driven by increased demand for January evenly
 ### SnP Weekly Comment
 **Date:** 2025-12-05 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
-The small number of sales being reported this week in the tanker market somewhat underplays the current market conditions. Yes, large older crude tonnage is still in demand seen in the sale of TOWADA (305K DWT Mitsubishi 2006) but behind the scenes, there is even more interest swirling around scarcely available modern units, with buyers increasingly keen to transact. Price asks are still toppy, which explains why many are choosing the newbuilding route, but with geopolitical influences more changeable than ever, sellers would be short sighted to hold out against firm buyers in such historically high markets.   The dry market is still looking very prosperous with many underlying factors signalling this prosperity is going nowhere. Underlying market demand growth is on an upswing, while commodities prices are looking bullish. Second hand vessel demand remains strong, and there is more liquidity on modern tonnage than in other sectors. This week Blumenthal purchased ice 1C URSULA MANX (82K DWT Tsuneishi Zhoushan 2021) for USD 33.85M.
+The small number of sales being reported this week in the tanker market somewhat underplays the current market conditions. Yes, large older crude tonnage is still in demand seen in the sale of TOWADA (305K DWT Mitsubishi 2006) but behind the scenes, there is even more interest swirling around scarcely available modern units, with buyers increasingly keen to transact. Price asks are still toppy, which explains why many are choosing the newbuilding route, but with geopolitical influences more changeable than ever, sellers would be short sighted to hold out against firm buyers in such historically high markets. 
+
+The dry market is still looking very prosperous with many underlying factors signalling this prosperity is going nowhere. Underlying market demand growth is on an upswing, while commodities prices are looking bullish. Second hand vessel demand remains strong, and there is more liquidity on modern tonnage than in other sectors. This week Blumenthal purchased ice 1C URSULA MANX (82K DWT Tsuneishi Zhoushan 2021) for USD 33.85M.
 
 ---
 
 ### Chartering Weekly Comment
 **Date:** 2025-12-04 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
-EAST After an active first half of the week with 6 spot fixtures concluded from Middle Eastern ports the past 2 days have slowed down East of Suez. With 19 total fixtures concluded on December dates in total - there should be room for more fixing before we shift focus into next year laycans. Tonnage availability looks slightly long towards the end of the month - but with some ships sailing West coupled with an expected cargo out of West Africa the market might balance out nicely.  WEST A handful of cargos in play 1st half of January ex USG this week with last done around 123-124 HCvP. But as Arb econs remain challenging, some of the deals done ended up failing subs.  One Asian major currently in the market for a 2nd decade January loader into Indonesia, while some other potential Charterers are taking a step back to reassess levels. We count 17 fixtures in Jan thus far; 10/7/0 by decade.
+EAST
+After an active first half of the week with 6 spot fixtures concluded from Middle Eastern ports the past 2 days have slowed down East of Suez. With 19 total fixtures concluded on December dates in total - there should be room for more fixing before we shift focus into next year laycans. Tonnage availability looks slightly long towards the end of the month - but with some ships sailing West coupled with an expected cargo out of West Africa the market might balance out nicely.
+
+WEST
+A handful of cargos in play 1st half of January ex USG this week with last done around 123-124 HCvP. But as Arb econs remain challenging, some of the deals done ended up failing subs. 
+One Asian major currently in the market for a 2nd decade January loader into Indonesia, while some other potential Charterers are taking a step back to reassess levels. We count 17 fixtures in Jan thus far; 10/7/0 by decade.
 
 ---

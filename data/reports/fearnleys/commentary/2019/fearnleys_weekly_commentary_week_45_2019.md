@@ -6,7 +6,7 @@ week: 45
 date_range: "2019-11-04 to 2019-11-08"
 comments_count: 14
 sectors: ["Dry Bulk", "Tankers", "Gas & LNG", "Sale and Purchase (S&P)"]
-generated_at: "2026-10-11 21:03:32"
+generated_at: "2026-10-12 13:31:36"
 ---
 
 # Fearnleys Weekly Broker Commentary - Week 45, 2019
@@ -91,14 +91,23 @@ LNG rate market phrenic seems to be slowly easing, as the effect of US/China san
 ### Gas Market Weekly Comment - Eastern Market
 **Date:** 2019-11-04 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
-MEG: Despite the crude rise, the Dec CP plunged to $398 at the time of writing, whilst Dec FEI/CP spread fluctuates from $29 to $36. QP has released their Dec lifting nomination with some delays by 5 days or so being reported. Baltic continues to rise until mid-week stabilizes at $75ish. This being said, few fixtures happening in MEG and the soaring freight has erodes buyer’s appetite to explore FOB spot.   FAR EAST: This week front market is weakening. Propane for 1H Dec delivery was traded at Dec FEI plus $5 and dropped further to $3 reportedly. 2h Dec also traded in similar level earlier this week, with slight backwardation only. Some importers are closely monitoring year-end stock and avoiding over purchase.   Off window there are some traders’ inquires for prompt delivery into India and Indonesia which supports butane price a bit, despite the bids are in discounts on FOB netbacks. One reason being is less butane from US available as arbitrage window closed now, therefore players has turned to explore AG origin.   Other than such, last Fri one South China PDH user has awarded their buy tender for 23/0 1st decade delivery in Dec at Dec CP plus around $60, and they’ve issued another buy tender for similar cargo delivered in mid Dec. And one more propane cargo reported sold into North China at Nov CP plus around/below $70, which equates to CP minus mid-single digit discount. Other Chinese also exploring heavy propane cargos in 2h Dec delivery. CPC issued buy tender for 11/11 or 0/11 delivered in late Dec, result is yet to know.
+MEG:
+Despite the crude rise, the Dec CP plunged to $398 at the time of writing, whilst Dec FEI/CP spread fluctuates from $29 to $36. QP has released their Dec lifting nomination with some delays by 5 days or so being reported. Baltic continues to rise until mid-week stabilizes at $75ish. This being said, few fixtures happening in MEG and the soaring freight has erodes buyer’s appetite to explore FOB spot. 
+
+FAR EAST:
+This week front market is weakening. Propane for 1H Dec delivery was traded at Dec FEI plus $5 and dropped further to $3 reportedly. 2h Dec also traded in similar level earlier this week, with slight backwardation only. Some importers are closely monitoring year-end stock and avoiding over purchase. 
+
+Off window there are some traders’ inquires for prompt delivery into India and Indonesia which supports butane price a bit, despite the bids are in discounts on FOB netbacks. One reason being is less butane from US available as arbitrage window closed now, therefore players has turned to explore AG origin. 
+
+Other than such, last Fri one South China PDH user has awarded their buy tender for 23/0 1st decade delivery in Dec at Dec CP plus around $60, and they’ve issued another buy tender for similar cargo delivered in mid Dec. And one more propane cargo reported sold into North China at Nov CP plus around/below $70, which equates to CP minus mid-single digit discount. Other Chinese also exploring heavy propane cargos in 2h Dec delivery. CPC issued buy tender for 11/11 or 0/11 delivered in late Dec, result is yet to know.
 
 ---
 
 ### Gas Market Weekly Comment - Western Market
 **Date:** 2019-11-04 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
-AMERICAS: A surprise build of 300,000 barrels was seen in US inventories. The hope that this would be bearish for Mt Belvieu prices was short-lived. Mt Belvieu continued to increase through this build due to cold weather biting on the East Coast and in the Midwest. This strength in Mt Belvieu which now lies at 38% of WTI has been steadily eroding the arb. Help will need to come from price strength in demand markets. For now FOB trades have quietened down. This is due to the shift form double digit terminalling fee discussions for full propane FOB cargoes, down to just above cancellation levels, around 6cpg. Traditionally the onset of US winter is early than in Europe and the East. Now the question is when will it get cold in those demand markets?
+AMERICAS:
+A surprise build of 300,000 barrels was seen in US inventories. The hope that this would be bearish for Mt Belvieu prices was short-lived. Mt Belvieu continued to increase through this build due to cold weather biting on the East Coast and in the Midwest. This strength in Mt Belvieu which now lies at 38% of WTI has been steadily eroding the arb. Help will need to come from price strength in demand markets. For now FOB trades have quietened down. This is due to the shift form double digit terminalling fee discussions for full propane FOB cargoes, down to just above cancellation levels, around 6cpg. Traditionally the onset of US winter is early than in Europe and the East. Now the question is when will it get cold in those demand markets?
 
 ---
 
@@ -106,13 +115,19 @@ AMERICAS: A surprise build of 300,000 barrels was seen in US inventories. The ho
 ### SnP Weekly Comment
 **Date:** 2019-11-08 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
-The 2007 Japanese owned VLCC “PHOENIX VANGUARD” did, as expected, receive several offers this week and was quickly sold.  The price is reported to be in the usd 41.5 – 42.5 mill range.  Whilst this is 8-10% up on the previous deal which failed, it comes in the lower end of our expectations considering the original deal was concluded back in June and the spot market has since then settled at very healthy numbers; albeit considerably less than the initial spiky ones.  Early 2000 built crude tankers remain in demand and sellers able to give prompt delivery will be able to see new higher levels.  Several such deals are in the making. However sellers should be cautioned that the number of determined buyers is fairly thin on the ground and now may prove the right window of opportunity to exit; come Q1 and Q2 the number of older sales candidates will for sure increase.  It’s all about prompt delivery and a realistic runway for buyers to make a decent return.  The dry s&p market is lacking direction with many buyers taking a wait-and-see attitude.  The freight market is not lending support to the case and buyers are gaining the upper hand.There’s a very large number of ships for sale across the board, albeit few very modern ones.
+The 2007 Japanese owned VLCC “PHOENIX VANGUARD” did, as expected, receive several offers this week and was quickly sold.  The price is reported to be in the usd 41.5 – 42.5 mill range.  Whilst this is 8-10% up on the previous deal which failed, it comes in the lower end of our expectations considering the original deal was concluded back in June and the spot market has since then settled at very healthy numbers; albeit considerably less than the initial spiky ones.
+
+Early 2000 built crude tankers remain in demand and sellers able to give prompt delivery will be able to see new higher levels.  Several such deals are in the making. However sellers should be cautioned that the number of determined buyers is fairly thin on the ground and now may prove the right window of opportunity to exit; come Q1 and Q2 the number of older sales candidates will for sure increase.  It’s all about prompt delivery and a realistic runway for buyers to make a decent return.
+
+The dry s&p market is lacking direction with many buyers taking a wait-and-see attitude.  The freight market is not lending support to the case and buyers are gaining the upper hand.There’s a very large number of ships for sale across the board, albeit few very modern ones.
 
 ---
 
 ### Chartering Weekly Comment
 **Date:** 2019-11-04 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
-This week has been markedly more quiet than last week in the West, although there have been a handful of fixtures. Rates have come off marginally, with fixing now being done slightly below USD 130 H/C. There are a few possible reasons which could explain this cooling in rates. Among them is the emergence of more economical trader relets, netbacks coming in due to stronger Mont Belvieu pricing and fewer freight inquiries due to the fixing period in question simply being so far ahead.   In the East, things were even more quiet, although it is expected that activity will increase after the release of ADNOC acceptances early next week.
+This week has been markedly more quiet than last week in the West, although there have been a handful of fixtures. Rates have come off marginally, with fixing now being done slightly below USD 130 H/C. There are a few possible reasons which could explain this cooling in rates. Among them is the emergence of more economical trader relets, netbacks coming in due to stronger Mont Belvieu pricing and fewer freight inquiries due to the fixing period in question simply being so far ahead. 
+
+In the East, things were even more quiet, although it is expected that activity will increase after the release of ADNOC acceptances early next week.
 
 ---

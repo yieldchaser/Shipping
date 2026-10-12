@@ -6,7 +6,7 @@ week: 49
 date_range: "2018-12-04 to 2018-12-04"
 comments_count: 1
 sectors: ["Dry Bulk", "Tankers", "Gas & LNG", "Sale and Purchase (S&P)"]
-generated_at: "2026-10-11 21:03:31"
+generated_at: "2026-10-12 13:31:35"
 ---
 
 # Fearnleys Weekly Broker Commentary - Week 49, 2018
@@ -25,7 +25,8 @@ Institutional desk intelligence harvested directly from the Fearnleys Hasura Gra
 ### Gas Market Report
 **Date:** 2018-12-04 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
-For the US domestic market, an early cold start to the winter is exactly what the retailers hope for and exactly what exporters fear. - read more in the full report.
+For the US domestic market, an early cold start to the winter is exactly what the
+retailers hope for and exactly what exporters fear. - read more in the full report.
 
 ---
 

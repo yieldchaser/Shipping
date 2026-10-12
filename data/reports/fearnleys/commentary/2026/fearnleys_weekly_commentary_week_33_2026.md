@@ -6,7 +6,7 @@ week: 33
 date_range: "2026-08-12 to 2026-08-14"
 comments_count: 9
 sectors: ["Dry Bulk", "Tankers", "Gas & LNG", "Sale and Purchase (S&P)"]
-generated_at: "2026-10-11 21:03:40"
+generated_at: "2026-10-12 13:31:44"
 ---
 
 # Fearnleys Weekly Broker Commentary - Week 33, 2026
@@ -33,7 +33,9 @@ The Panamax market has held a constructive tone through the week, with the index
 ### Supramax Weekly Comment
 **Date:** 2026-08-12 | **Subtype:** Dry Bulk Weekly Comment | **Desk:** Fearnleys Research
 
-The Supramax market began the week on a subdued note, with limited fresh activity and sentiment generally steady across most regions. The Atlantic showed signs of increased enquiry, particularly in the Mediterranean, although a widening gap between bids and offers and softer nearby positions suggested some caution. The Continent remained largely unchanged, while Asian markets were mostly flat, with backhaul activity correcting and regional demand remaining muted.  Handysize conditions were similarly quiet, with sentiment remaining cautious in both basins. Europe faced pressure from an increase in available tonnage and limited fresh cargoes, while the USG continued to struggle with weak demand and ample vessel supply. The South Atlantic showed early signs of improvement due to a more balanced cargo-to-tonnage ratio. In Asia, demand remained steady but insufficient to materially tighten the market, resulting in an overall soft but stable tone.
+The Supramax market began the week on a subdued note, with limited fresh activity and sentiment generally steady across most regions. The Atlantic showed signs of increased enquiry, particularly in the Mediterranean, although a widening gap between bids and offers and softer nearby positions suggested some caution. The Continent remained largely unchanged, while Asian markets were mostly flat, with backhaul activity correcting and regional demand remaining muted.
+
+Handysize conditions were similarly quiet, with sentiment remaining cautious in both basins. Europe faced pressure from an increase in available tonnage and limited fresh cargoes, while the USG continued to struggle with weak demand and ample vessel supply. The South Atlantic showed early signs of improvement due to a more balanced cargo-to-tonnage ratio. In Asia, demand remained steady but insufficient to materially tighten the market, resulting in an overall soft but stable tone.
 
 ---
 
@@ -55,7 +57,11 @@ Activity continues to build across August and September dates in the West. While
 ### Aframax Weekly Comment
 **Date:** 2026-08-12 | **Subtype:** Tank Weekly Comment | **Desk:** Fearnleys Research
 
-North Sea The stems through the 2nd decade have been depleted for Aframaxes with some Suezmax activity and a few relets in the mix. With a limited amount of fixtures the market has steadily fallen over the last week by around 20 points. US markets are strengthening and pulling tonnage out of the North Sea, so we may have started to bottom out, and heading into the 3rd decade date wise we could start to see some pinch points which will see rates bounce.  Mediterranean A steady week activity wise so far but rates have been eroded. Natural window pushing into 3rd decade with a list that has been trimmed but still looks relatively healthy for charterers. With the issues in the Black Sea, tonnage that wouldn’t normally look X-Mediterranean is recalibrating.  Early West Mediterranean positions are looking at turning right and heading for the land of opportunity across the pond.
+North Sea
+The stems through the 2nd decade have been depleted for Aframaxes with some Suezmax activity and a few relets in the mix. With a limited amount of fixtures the market has steadily fallen over the last week by around 20 points. US markets are strengthening and pulling tonnage out of the North Sea, so we may have started to bottom out, and heading into the 3rd decade date wise we could start to see some pinch points which will see rates bounce.
+
+Mediterranean
+A steady week activity wise so far but rates have been eroded. Natural window pushing into 3rd decade with a list that has been trimmed but still looks relatively healthy for charterers. With the issues in the Black Sea, tonnage that wouldn’t normally look X-Mediterranean is recalibrating.  Early West Mediterranean positions are looking at turning right and heading for the land of opportunity across the pond.
 
 ---
 
@@ -63,7 +69,9 @@ North Sea The stems through the 2nd decade have been depleted for Aframaxes with
 ### LNG Market Report
 **Date:** 2026-08-13 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
-The Atlantic spot market remains muted, with a small number of requirements seeing a considerable number of open vessels. Rates have cooled considerably and with the ongoing lack of liquidity, what bids there are suggest the trend will continue downwards for a while yet. However, where the West is quiet, the market East of Suez has gained momentum and seen a steady stream of firm requirements and subsequent fixtures to keep owners and subletters busy. This activity has helped whittle down the availability list and softened the decline, although it has not been enough to see rates reverse their recent fall. Charterers’ cargo-specific preferences are often dictating the vessel fixed rather than price tag, so average rates remain relatively firm across the tonnage classes versus the drops seen in the Atlantic. The growing delta between the basins is significant enough that owners with ships redelivering in the East, or who had plans to ballast West, may now opt to stay put and trade in the more active Pacific spot market.  The multimonth market continues to point the way through winter, and that way looks to be relatively flat. High LNG prices and low European storage may not come to Owners’ rescue in the coming months, as the bearish fundamentals are finally winning through.
+The Atlantic spot market remains muted, with a small number of requirements seeing a considerable number of open vessels. Rates have cooled considerably and with the ongoing lack of liquidity, what bids there are suggest the trend will continue downwards for a while yet. However, where the West is quiet, the market East of Suez has gained momentum and seen a steady stream of firm requirements and subsequent fixtures to keep owners and subletters busy. This activity has helped whittle down the availability list and softened the decline, although it has not been enough to see rates reverse their recent fall. Charterers’ cargo-specific preferences are often dictating the vessel fixed rather than price tag, so average rates remain relatively firm across the tonnage classes versus the drops seen in the Atlantic. The growing delta between the basins is significant enough that owners with ships redelivering in the East, or who had plans to ballast West, may now opt to stay put and trade in the more active Pacific spot market.
+
+The multimonth market continues to point the way through winter, and that way looks to be relatively flat. High LNG prices and low European storage may not come to Owners’ rescue in the coming months, as the bearish fundamentals are finally winning through.
 
 ---
 
@@ -71,13 +79,19 @@ The Atlantic spot market remains muted, with a small number of requirements seei
 ### SnP Weekly Comment
 **Date:** 2026-08-14 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
-Nothing quite sums up the current value environment quite like the sale of 2-year-old scrubber fitted Suezmax BRISTOL (157k dwt Hyundai Samho 2024) at USD 123M. This figure sees former owners CMB.Tech banking a gain of USD 56.9M on the asset it purchased in 2021 at a reported total cost of USD 66.4M. Not only is the gain noteworthy, but the confidence in this tanker market is such that there are also willing buyers at these levels. Not to be outshone, the clean market was also the stage for a significant transaction this week with ON PROSPER/PROMISE (50k dwt HHI 2026) sold at USD 59M each to GEM. This will effectively reprice modern MR tanker values.   A fairly uneventful week in the dry market as we enter prime summer holiday time in Southern Europe. Pricing across the market has remained firm alongside consistent earnings, and buyers are there to snap up any available tonnage. Vessels from good yards will be main beneficiaries as seen the sale of GRAMOS (61k dwt NACKS 2019), sold to Greek buyers for USD 34.5M. Older panamax bulkers continue to fetch a premium, seen in 18-year-old FRANCESCO CORRADO (77k dwt Oshima 2008) bought by Korean buyers for USD 15M.
+Nothing quite sums up the current value environment quite like the sale of 2-year-old scrubber fitted Suezmax BRISTOL (157k dwt Hyundai Samho 2024) at USD 123M. This figure sees former owners CMB.Tech banking a gain of USD 56.9M on the asset it purchased in 2021 at a reported total cost of USD 66.4M. Not only is the gain noteworthy, but the confidence in this tanker market is such that there are also willing buyers at these levels. Not to be outshone, the clean market was also the stage for a significant transaction this week with ON PROSPER/PROMISE (50k dwt HHI 2026) sold at USD 59M each to GEM. This will effectively reprice modern MR tanker values. 
+
+A fairly uneventful week in the dry market as we enter prime summer holiday time in Southern Europe. Pricing across the market has remained firm alongside consistent earnings, and buyers are there to snap up any available tonnage. Vessels from good yards will be main beneficiaries as seen the sale of GRAMOS (61k dwt NACKS 2019), sold to Greek buyers for USD 34.5M. Older panamax bulkers continue to fetch a premium, seen in 18-year-old FRANCESCO CORRADO (77k dwt Oshima 2008) bought by Korean buyers for USD 15M.
 
 ---
 
 ### Chartering Weekly Comment
 **Date:** 2026-08-14 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
-WEST Activity has picked up compared to last week, with several fixtures reported after a quieter run. The near-term list remains tight and heavily relet-dependent, with positions stacking up as follows: 2 ships last decade August, 1 first decade September, 6 second decade September, and 8 last decade September. Freight is sitting around USD 280pmt, underpinned by recent fixing levels. Adding to the pressure on owners weighing routing options, this week's Panama Canal northbound slot auction cleared at a record USD 4m, making the Cape an increasingly attractive routing.  EAST East of Suez, activity remained thin, with just one fixture reported, an STS Vadinar deal concluded at USD 170pmt RT/C equivalent. With so little else crossing the tape this week, it's hard to draw much of a broader trend from a single fixture.
+WEST
+Activity has picked up compared to last week, with several fixtures reported after a quieter run. The near-term list remains tight and heavily relet-dependent, with positions stacking up as follows: 2 ships last decade August, 1 first decade September, 6 second decade September, and 8 last decade September. Freight is sitting around USD 280pmt, underpinned by recent fixing levels. Adding to the pressure on owners weighing routing options, this week's Panama Canal northbound slot auction cleared at a record USD 4m, making the Cape an increasingly attractive routing.
+
+EAST
+East of Suez, activity remained thin, with just one fixture reported, an STS Vadinar deal concluded at USD 170pmt RT/C equivalent. With so little else crossing the tape this week, it's hard to draw much of a broader trend from a single fixture.
 
 ---

@@ -6,7 +6,7 @@ week: 50
 date_range: "2022-12-12 to 2022-12-13"
 comments_count: 14
 sectors: ["Dry Bulk", "Tankers", "Gas & LNG", "Sale and Purchase (S&P)"]
-generated_at: "2026-10-11 21:03:36"
+generated_at: "2026-10-12 13:31:40"
 ---
 
 # Fearnleys Weekly Broker Commentary - Week 50, 2022
@@ -91,14 +91,31 @@ The headlines this week have been all about the cold weather that has persisted 
 ### Gas Market Weekly Comment - Eastern Market
 **Date:** 2022-12-12 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
-MEG Jan C3 CP was assessed at $560, further down from last week with a handful of selling tenders in the market this week. Jan C4 CP was traded at $8 higher, as of existing inquiries for traders to cover shorts into India and SEA. Jan/Feb was traded at $5 backwardation.  KPC awarded their 8/9th Jan lifting evenly split cargo reportedly, and QP was said to sell more than one up to 4 cargos for their 15-24th Jan lifting laycan at flexible ratio. Another evenly split cargo for Jan lifting was reported changed hand at CP minus around 10.   FAR EAST Earlier this week, 23kt propane parcel for 2h Jan delivery was traded at Jan FEI plus $22. However, cash premium softened afterwards, till Thurs such parcel was offered at FEI plus mid-teens range while bid at low teens. Jan FEI/CP widened to nearly $50 compared to last week’s $32 though, partially due to the solid freight rate and spot availability out of AG.  A couple of 46kt propane for Jan delivery were concluded, with one reported sold into Japan and the rest for trader shorts. Additionally, as petchem margins improved slightly on declining feedstock price, some plants users emerged with tenders. One EChina PDH user covered a 5-15th Jan delivered 23kt propane into Ningbo at Jan CP plus 80s, while the other EChina player covered 1h Jan delivered 46kt propane into Lianyungang at Jan FEI plus low 30s. Comparatively, buying inquiries for 2h Jan delivery into China was slim due to the CNY holiday.
+MEG
+Jan C3 CP was assessed at $560, further down from last week with a handful of selling tenders in the market this week. Jan C4 CP was traded at $8 higher, as of existing inquiries for traders to cover shorts into India and SEA. Jan/Feb was traded at $5 backwardation. 
+KPC awarded their 8/9th Jan lifting evenly split cargo reportedly, and QP was said to sell more than one up to 4 cargos for their 15-24th Jan lifting laycan at flexible ratio. Another evenly split cargo for Jan lifting was reported changed hand at CP minus around 10. 
+
+FAR EAST
+Earlier this week, 23kt propane parcel for 2h Jan delivery was traded at Jan FEI plus $22. However, cash premium softened afterwards, till Thurs such parcel was offered at FEI plus mid-teens range while bid at low teens. Jan FEI/CP widened to nearly $50 compared to last week’s $32 though, partially due to the solid freight rate and spot availability out of AG. 
+A couple of 46kt propane for Jan delivery were concluded, with one reported sold into Japan and the rest for trader shorts. Additionally, as petchem margins improved slightly on declining feedstock price, some plants users emerged with tenders. One EChina PDH user covered a 5-15th Jan delivered 23kt propane into Ningbo at Jan CP plus 80s, while the other EChina player covered 1h Jan delivered 46kt propane into Lianyungang at Jan FEI plus low 30s. Comparatively, buying inquiries for 2h Jan delivery into China was slim due to the CNY holiday.
 
 ---
 
 ### Gas Market Weekly Comment - Western Market
 **Date:** 2022-12-12 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
-AMERICAS  Terminal fees for Jan cargoes are now priced across a wide spectrum, from as little as buy-side interest in the low 4s to offers of around the 6ct/gal mark.  A couple of transactions are believed to have occurred in the mid-4s this week.  Otherwise, little is being accomplished as demand levels remain muted.  Term business was recently discussed as low as the 5s but not concluded, with a more likely transaction to occur in the upper 6s.   The EIA propane inventory data continues to surprise, as yet another practically unheard-of December build was recorded this week.  Overall stock levels are 90.30mmbbls as of 9th Dec, or 127% of last year and 107% of two years ago.  The ongoing build in PADD III continues to impress due mostly to robust production levels but aided by both Panama Canal-related shipping delays as well as a recent bout of fog- delays on the Houston Ship Channel.   In any event there has so far been only limited cold weather demand across the U.S., but now a couple of prominent forecasters are calling for a series of Arctic fronts to sweep across the nation over the Christmas and New Year period, perhaps marking the beginnings of the traditional demand season which will likely be viewed in a “better late than never” context.  NWE The TOT Window continues to be well bid for end dec and early Jan deliveries into Europe. The region has been experiencing a continued spell of cold weather keeping demand firm and the December/January backwardation wide at -$13/MT. Inland demand is increasing, demand for railcars is up and European storages are drawing down. US tons continue to find their way to Europe, though with the East/West spread at $84/MT and reduced Panama Canal delays some cargoes may decide to go East. Naphtha weakened in the region which has pulled butane down with it as it remains at 91.5% December Naphtha. The butane window has been quiet for some time, and little to no butane deals have been heard in the region.   MED The region is set to import 600,000MT of US LPG in December, close to all time highs. This has been due to early cold weather in the region and the US tons replacing imports from other regions such as WAF and local production.
+AMERICAS 
+Terminal fees for Jan cargoes are now priced across a wide spectrum, from as little as buy-side interest in the low 4s to offers of around the 6ct/gal mark.  A couple of transactions are believed to have occurred in the mid-4s this week.  Otherwise, little is being accomplished as demand levels remain muted.  Term business was recently discussed as low as the 5s but not concluded, with a more likely transaction to occur in the upper 6s.
+ 
+The EIA propane inventory data continues to surprise, as yet another practically unheard-of December build was recorded this week.  Overall stock levels are 90.30mmbbls as of 9th Dec, or 127% of last year and 107% of two years ago.  The ongoing build in PADD III continues to impress due mostly to robust production levels but aided by both Panama Canal-related shipping delays as well as a recent bout of fog- delays on the Houston Ship Channel.
+ 
+In any event there has so far been only limited cold weather demand across the U.S., but now a couple of prominent forecasters are calling for a series of Arctic fronts to sweep across the nation over the Christmas and New Year period, perhaps marking the beginnings of the traditional demand season which will likely be viewed in a “better late than never” context.
+
+NWE
+The TOT Window continues to be well bid for end dec and early Jan deliveries into Europe. The region has been experiencing a continued spell of cold weather keeping demand firm and the December/January backwardation wide at -$13/MT. Inland demand is increasing, demand for railcars is up and European storages are drawing down. US tons continue to find their way to Europe, though with the East/West spread at $84/MT and reduced Panama Canal delays some cargoes may decide to go East. Naphtha weakened in the region which has pulled butane down with it as it remains at 91.5% December Naphtha. The butane window has been quiet for some time, and little to no butane deals have been heard in the region.
+ 
+MED
+The region is set to import 600,000MT of US LPG in December, close to all time highs. This has been due to early cold weather in the region and the US tons replacing imports from other regions such as WAF and local production.
 
 ---
 
@@ -106,13 +123,19 @@ AMERICAS  Terminal fees for Jan cargoes are now priced across a wide spectrum, f
 ### SnP Weekly Comment
 **Date:** 2022-12-13 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
-Despite a slight cooling in the tanker charter space, appetite for second hand units continues to grow as players fight to take up position in a historically strong market. In the standout transaction of the week, Latsco sold their seven year old Aframax FOS ATHENS (105K DWT 2015 HHI) to Turkish buyers for USD 50m. Singapore based Stamford Shipping cashed out of their Aframax exposure, with the sale of GULLIT (108K DWT 2008 SWS) for USD 34m.   In the dry market, the Ultramax sector took centre-stage with the sale of two units - DELSA (63K DWT 2015 ZHEJIANG) and STONY STREAM (64K DWT 2015 CHENGXI), with both vessels fetching USD 24m each. Market players will certainly take note as interest in this size and vintage will only increase further, with many pondering an opportunistic entry into this space over the next few months. Elsewhere, Navios picked up Kamsarmax RICH RAINFOREST (82K DWT 2022 JIANGSU YANGZI-MITSUI) for USD 34.5m.
+Despite a slight cooling in the tanker charter space, appetite for second hand units continues to grow as players fight to take up position in a historically strong market. In the standout transaction of the week, Latsco sold their seven year old Aframax FOS ATHENS (105K DWT 2015 HHI) to Turkish buyers for USD 50m. Singapore based Stamford Shipping cashed out of their Aframax exposure, with the sale of GULLIT (108K DWT 2008 SWS) for USD 34m. 
+
+In the dry market, the Ultramax sector took centre-stage with the sale of two units - DELSA (63K DWT 2015 ZHEJIANG) and STONY STREAM (64K DWT 2015 CHENGXI), with both vessels fetching USD 24m each. Market players will certainly take note as interest in this size and vintage will only increase further, with many pondering an opportunistic entry into this space over the next few months. Elsewhere, Navios picked up Kamsarmax RICH RAINFOREST (82K DWT 2022 JIANGSU YANGZI-MITSUI) for USD 34.5m.
 
 ---
 
 ### Chartering Weekly Comment
 **Date:** 2022-12-12 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
-EAST December fixing is seemingly coming to an end as we only see a couple of vessels left this period. At the time of writing, we count just over 30 spot fixtures out of the Middle East for December. January fixing is finally underway with last done concluded at mid-high USD 130s early Jan out of the MEG. Charterers being more reluctant to move early might signal a weakening sentiment on freight, but it still remains to be seen how many firm cargoes there are to be worked, which could be clearer post Saudi acceptances.  WEST Only 4 of the 21 spot fixtures concluded in January out of the USG are done in 2H Jan, and with only 1-2 vessels left open for 1H Jan we soon expect fixing to fully shift into the last half of January as we move closer to Christmas. The position list for the rest of Jan is looking tight and it is currently dominated by pure shipowners as we only see a couple trader relets available. Although the arb has narrowed lately and Panama waiting down, we still find owners freight ideas around the 200-dollar mark.
+EAST
+December fixing is seemingly coming to an end as we only see a couple of vessels left this period. At the time of writing, we count just over 30 spot fixtures out of the Middle East for December. January fixing is finally underway with last done concluded at mid-high USD 130s early Jan out of the MEG. Charterers being more reluctant to move early might signal a weakening sentiment on freight, but it still remains to be seen how many firm cargoes there are to be worked, which could be clearer post Saudi acceptances.
+
+WEST
+Only 4 of the 21 spot fixtures concluded in January out of the USG are done in 2H Jan, and with only 1-2 vessels left open for 1H Jan we soon expect fixing to fully shift into the last half of January as we move closer to Christmas. The position list for the rest of Jan is looking tight and it is currently dominated by pure shipowners as we only see a couple trader relets available. Although the arb has narrowed lately and Panama waiting down, we still find owners freight ideas around the 200-dollar mark.
 
 ---

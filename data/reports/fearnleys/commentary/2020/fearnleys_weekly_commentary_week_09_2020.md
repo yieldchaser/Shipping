@@ -6,7 +6,7 @@ week: 9
 date_range: "2020-02-24 to 2020-02-26"
 comments_count: 14
 sectors: ["Dry Bulk", "Tankers", "Gas & LNG", "Sale and Purchase (S&P)"]
-generated_at: "2026-10-11 21:03:32"
+generated_at: "2026-10-12 13:31:37"
 ---
 
 # Fearnleys Weekly Broker Commentary - Week 09, 2020
@@ -33,7 +33,13 @@ For the third consecutive week in a row, rates have been improving for all the m
 ### Supramax Weekly Comment
 **Date:** 2020-02-25 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
-Definitely a more positive sentiment compared to the previous weeks, and it seems like the market has reached a bottom.  There has been a lack of tonnage supply in the Atlantic basin which has encouraged owners to up the rates. The Asian market has not improved as much as the Atlantic, but there has still been more enquiries which has resulted in owners seeing slightly higher rates.    The period market has been more active lately, with a Ultramax for 1 year delivery in the Pacific fixed $11,000 and Supra 55,000dwt del China reported fixed one year close to $ 9,000s. East Coast South America also reported higher rates on a Ultramax delivery River Plate trip to Med at $ 12,000  US Gulf to Med $15,000 and  Oldendorff fixed Ultra delivery US Gulf for a petcoke run via India, redelivery Port Said $14,250. The Continent has also been “hot” lately with a lot of fertilizers stems for February and March loaders.   Ultramax 63,000dwt fixed delivery South Africa trip, redelivery Colombo, at $11,000 plus $100,000 ballast bonus.  Indonesian trips into China managed to obtain rates of  7,000/9,000 pd.
+Definitely a more positive sentiment compared to the previous weeks, and it seems like the market has reached a bottom. 
+There has been a lack of tonnage supply in the Atlantic basin which has encouraged owners to up the rates. The Asian market has not improved as much as the Atlantic, but there has still been more enquiries which has resulted in owners seeing slightly higher rates.   
+The period market has been more active lately, with a Ultramax for 1 year delivery in the Pacific fixed $11,000 and Supra 55,000dwt del China reported fixed one year close to $ 9,000s. East Coast South America also reported higher rates on a Ultramax delivery River Plate trip to Med at $ 12,000 
+US Gulf to Med $15,000 and  Oldendorff fixed Ultra delivery US Gulf for a petcoke run via India, redelivery Port Said $14,250.
+The Continent has also been “hot” lately with a lot of fertilizers stems for February and March loaders.  
+Ultramax 63,000dwt fixed delivery South Africa trip, redelivery Colombo, at $11,000 plus $100,000 ballast bonus. 
+Indonesian trips into China managed to obtain rates of  7,000/9,000 pd.
 
 ---
 
@@ -55,14 +61,16 @@ The VLCC market has been like shopping milk in the week gone by, more or less th
 ### Suezmax Weekly Comment
 **Date:** 2020-02-25 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
-The Suezmax market remains steady, but there might be a small downside to this. Coronavirus, Libya still closed down all export, and the lack of demand for oil in the east are some of the factors. Wafr-market still trading at w75-80 depending on voyage, which still give Owners above $20k/day.  All the uncertainty makes people hesitant to take any action at all, and the market is in general very quiet. We dont expect to see any major changes going forward, but fundamentals are ok, so positive news could have a big impact on this market.
+The Suezmax market remains steady, but there might be a small downside to this. Coronavirus, Libya still closed down all export, and the lack of demand for oil in the east are some of the factors. Wafr-market still trading at w75-80 depending on voyage, which still give Owners above $20k/day. 
+All the uncertainty makes people hesitant to take any action at all, and the market is in general very quiet. We dont expect to see any major changes going forward, but fundamentals are ok, so positive news could have a big impact on this market.
 
 ---
 
 ### Suezmax Weekly Comment
 **Date:** 2020-02-25 | **Subtype:** Tank Weekly Comment | **Desk:** Fearnleys Research
 
-The Suezmax market remains steady, but there might be a small downside to this. Coronavirus, Libya still closed down all export, and the lack of demand for oil in the east are some of the factors. Wafr-market still trading at w75-80 depending on voyage, which still give Owners above $20k/day.  All the uncertainty makes people hesitant to take any action at all, and the market is in general very quiet. We dont expect to see any major changes going forward, but fundamentals are ok, so positive news could have a big impact on this market.
+The Suezmax market remains steady, but there might be a small downside to this. Coronavirus, Libya still closed down all export, and the lack of demand for oil in the east are some of the factors. Wafr-market still trading at w75-80 depending on voyage, which still give Owners above $20k/day. 
+All the uncertainty makes people hesitant to take any action at all, and the market is in general very quiet. We dont expect to see any major changes going forward, but fundamentals are ok, so positive news could have a big impact on this market.
 
 ---
 
@@ -84,21 +92,32 @@ In the Baltic and North Sea market tonnage has been piling up the last week due 
 ### LNG Market Report
 **Date:** 2020-02-25 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
-The tone of the market hasn’t changed this week and a muted IP week attendance in London sums up the LNGC market. Headline rates continue their decline in tandem with ballast bonus sentiment, although market activity remains strong with numerous vessels coming into the week on subs and look set to go clean this week. The problem is more vessels keep turning up in all four corners of the globe at a rate above the number of vessels re-entering employment. Some charterers are looking to make the most of the situation with some conversations being protracted as charterers turn the screw in an effort to secure even lower econs. Cargo demand remains weak along with relatively low margins, and this is fueling a further squeeze on owners more than normal both for spot and multi-month charters.  New build activity remains quiet whilst live tenders continue to assess offers and prices remain stable.  In short, it will take a few months and potentially longer to rebuild the sentiment and clear the tonnage currently sitting on the water with prompt availability. We watch with interest.
+The tone of the market hasn’t changed this week and a muted IP week attendance in London sums up the LNGC market. Headline rates continue their decline in tandem with ballast bonus sentiment, although market activity remains strong with numerous vessels coming into the week on subs and look set to go clean this week. The problem is more vessels keep turning up in all four corners of the globe at a rate above the number of vessels re-entering employment. Some charterers are looking to make the most of the situation with some conversations being protracted as charterers turn the screw in an effort to secure even lower econs. Cargo demand remains weak along with relatively low margins, and this is fueling a further squeeze on owners more than normal both for spot and multi-month charters.  New build activity remains quiet whilst live tenders continue to assess offers and prices remain stable. 
+In short, it will take a few months and potentially longer to rebuild the sentiment and clear the tonnage currently sitting on the water with prompt availability. We watch with interest.
 
 ---
 
 ### Gas Market Weekly Comment - Eastern Market
 **Date:** 2020-02-24 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
-MEG: Despite the crude falls to the lowest in last 12-month, Mar Propane CP stands firm at $420, with Butane CP at $50 higher. However, Mar/Apr backwardation further widens to $85, reflecting the concerns on declining demand due to COVID-19 outbreak globally.  Saudi has deferred the announcement on Mar CP till this Sunday.   FAR EAST： A couple of cargos for 2h Mar and 1h Apr delivery were changing hands this week. Deals for propane in 2h Mar delivery were concluded at Mar FEI plus $17, and 1h Apr reportedly at Apr FEI plus mid-teens as well. With potentials for Chinese to import US origin in April, Mar/April FEI has narrowed down by $5 WOW and April FEI/CP maintains at above $22, whilst Mar FEI/CP at -$51 only.  This week low risk areas in China has slowly resumed work, yet to fully recover. One EChina PDH still has appetite in Mar arrival propane but other majority have finished Mar purchase and waited for tariff exemption news before further programing for April. Some Schina importers are speeding up distribution to resolve high inventory, as so far still a handful of cargos sitting on the water…  Indonesia Pertamina has reportedly awarded one equal ratio cargo for early April arrival into Kalbut and retendered to buy another cargo for mid-April arrival.
+MEG:
+Despite the crude falls to the lowest in last 12-month, Mar Propane CP stands firm at $420, with Butane CP at $50 higher. However, Mar/Apr backwardation further widens to $85, reflecting the concerns on declining demand due to COVID-19 outbreak globally. 
+Saudi has deferred the announcement on Mar CP till this Sunday. 
+
+FAR EAST：
+A couple of cargos for 2h Mar and 1h Apr delivery were changing hands this week. Deals for propane in 2h Mar delivery were concluded at Mar FEI plus $17, and 1h Apr reportedly at Apr FEI plus mid-teens as well. With potentials for Chinese to import US origin in April, Mar/April FEI has narrowed down by $5 WOW and April FEI/CP maintains at above $22, whilst Mar FEI/CP at -$51 only.
+
+This week low risk areas in China has slowly resumed work, yet to fully recover. One EChina PDH still has appetite in Mar arrival propane but other majority have finished Mar purchase and waited for tariff exemption news before further programing for April. Some Schina importers are speeding up distribution to resolve high inventory, as so far still a handful of cargos sitting on the water…
+
+Indonesia Pertamina has reportedly awarded one equal ratio cargo for early April arrival into Kalbut and retendered to buy another cargo for mid-April arrival.
 
 ---
 
 ### Gas Market Weekly Comment - Western Market
 **Date:** 2020-02-24 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
-AMERICAS: The EIA reported a third consecutive draw for the week ending 3/23/2020. This draw was much smaller than the last two weeks and below industry expectations but the decline in price was in line with WTI’s fall and not more. In the US Gulf export market, fob cargos are being offered just above ten cents for the remaining few March avails and April negotiation will begin eminently. Argus reported that a higher percentage of US cargos sailed for Europe this month compared to last due to Panama Canal water level restrictions, the ambiguity of the corona virus,  and the robust demand in the Med/NWE. This  effectively bolstered the netback. Such sentiment was reflected at IP week where numerous NWE end users and traders coveted east coast tons, and butane in particular. Speaking of IP this was the quietest IP ever. Those who did go questioned just how bad the effects of this virus will be on the world economies , and specifically on our markets as well.
+AMERICAS:
+The EIA reported a third consecutive draw for the week ending 3/23/2020. This draw was much smaller than the last two weeks and below industry expectations but the decline in price was in line with WTI’s fall and not more. In the US Gulf export market, fob cargos are being offered just above ten cents for the remaining few March avails and April negotiation will begin eminently. Argus reported that a higher percentage of US cargos sailed for Europe this month compared to last due to Panama Canal water level restrictions, the ambiguity of the corona virus,  and the robust demand in the Med/NWE. This  effectively bolstered the netback. Such sentiment was reflected at IP week where numerous NWE end users and traders coveted east coast tons, and butane in particular. Speaking of IP this was the quietest IP ever. Those who did go questioned just how bad the effects of this virus will be on the world economies , and specifically on our markets as well.
 
 ---
 
@@ -113,6 +132,10 @@ Plenty of sales to report in the dry sectors with Oman Shipping making a swoop f
 ### Chartering Weekly Comment
 **Date:** 2020-02-24 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
-EAST: It has been a quiet week in the East with not that much activity to report. With continued uncertainty about the Covid-19 outbreak crude prices have weakened, and there are still a lot more available ships compared to shipping requirements. We saw some activity from Indian majors from end of last week who quoted several cargos for 1H March loading in the MEG, but this was not enough to turn the current bearish sentiment, and we expect the Baltic to continue to come off.  WEST: Despite several cancellations, much of the Western VLGC market has been in London for IP week this week and activity has been muted as a result. With the news that Italy and S. Korea are on high alert for coronavirus, there is an even bigger question on the effect this will have on the global economy. Positions lists are on the long side ex USG and this has put downwards pressure on rates. At the same time, bunkers have come off again and this will help lessen the blow to owners earnings.
+EAST:
+It has been a quiet week in the East with not that much activity to report. With continued uncertainty about the Covid-19 outbreak crude prices have weakened, and there are still a lot more available ships compared to shipping requirements. We saw some activity from Indian majors from end of last week who quoted several cargos for 1H March loading in the MEG, but this was not enough to turn the current bearish sentiment, and we expect the Baltic to continue to come off.
+
+WEST:
+Despite several cancellations, much of the Western VLGC market has been in London for IP week this week and activity has been muted as a result. With the news that Italy and S. Korea are on high alert for coronavirus, there is an even bigger question on the effect this will have on the global economy. Positions lists are on the long side ex USG and this has put downwards pressure on rates. At the same time, bunkers have come off again and this will help lessen the blow to owners earnings.
 
 ---

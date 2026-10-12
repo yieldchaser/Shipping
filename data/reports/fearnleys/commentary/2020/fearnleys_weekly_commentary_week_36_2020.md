@@ -6,7 +6,7 @@ week: 36
 date_range: "2020-09-01 to 2020-09-03"
 comments_count: 14
 sectors: ["Dry Bulk", "Tankers", "Gas & LNG", "Sale and Purchase (S&P)"]
-generated_at: "2026-10-11 21:03:33"
+generated_at: "2026-10-12 13:31:37"
 ---
 
 # Fearnleys Weekly Broker Commentary - Week 36, 2020
@@ -91,14 +91,24 @@ The list of open tonnage continues to diminish, firing the shipping market in bo
 ### Gas Market Weekly Comment - Eastern Market
 **Date:** 2020-09-01 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
-MEG: Saudi Aramco has maintained Sep Propane CP at $365 and raised up Butane CP by 10$ to $355, which is below most expectations, and even lower than swap value. Propane Oct CP edged up to $382 but dropped to $366 on Thursday, reflecting the length in the front market. And FOB propane netback seems miserable as delivered value is traded under heavy discounts.  Comparatively, butane is more favorable. KPC awarded its 27/28th Sep lifting equal ratio cargo tender at Oct CP minus mid-teens reportedly, which significantly improved from previous FOB sales.  QP issued sale tender to offer one 6/7th Oct lifting 45/0, which is due to close by 8th Sep.   FAR EAST: Propane for 2h Sep market appears dreadful this week, with one 2h Sep 23/0 parcel traded at Sep FEI minus $30. Similar cargo for 1h Oct delivery is offered at Oct FEI minus high teens discount but barely attract buying interests.  In contrary, butane discussion is more active. Indian IOC secured two evenly split cargos at CP plus 30s for 2nd and 3rd decade Oct delivery respectively. Similarly, BPCL issued buy tender to secure one evenly split cargo for 7-25th Oct delivery for 2 disports basis, which is yet to close. PV Gas also purchased one 11/11 parcel for early Oct delivery promptly at CP plus high 20s.
+MEG:
+Saudi Aramco has maintained Sep Propane CP at $365 and raised up Butane CP by 10$ to $355, which is below most expectations, and even lower than swap value. Propane Oct CP edged up to $382 but dropped to $366 on Thursday, reflecting the length in the front market. And FOB propane netback seems miserable as delivered value is traded under heavy discounts. 
+Comparatively, butane is more favorable. KPC awarded its 27/28th Sep lifting equal ratio cargo tender at Oct CP minus mid-teens reportedly, which significantly improved from previous FOB sales. 
+QP issued sale tender to offer one 6/7th Oct lifting 45/0, which is due to close by 8th Sep. 
+
+FAR EAST:
+Propane for 2h Sep market appears dreadful this week, with one 2h Sep 23/0 parcel traded at Sep FEI minus $30. Similar cargo for 1h Oct delivery is offered at Oct FEI minus high teens discount but barely attract buying interests. 
+In contrary, butane discussion is more active. Indian IOC secured two evenly split cargos at CP plus 30s for 2nd and 3rd decade Oct delivery respectively. Similarly, BPCL issued buy tender to secure one evenly split cargo for 7-25th Oct delivery for 2 disports basis, which is yet to close. PV Gas also purchased one 11/11 parcel for early Oct delivery promptly at CP plus high 20s.
 
 ---
 
 ### Gas Market Weekly Comment - Western Market
 **Date:** 2020-09-01 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
-AMERICAS: The weekly EIA propane inventory report  showed an unexpectedly high build of 4.389mmbbls, from 90.833mmbbls for the week ending 21 Aug 2020 to 95.222mmbbls as of 20 Aug 2020.  The data also revealed a YOY increase of 2.366mmbbls when comparing the Aug 2020 figures to the Aug 2019 data.  Most of the build occurred in PADD III (Gulf Coast) and is reckoned to be the result of lifting delays as related to the passing of Hurricane Laura.  On that, the only terminal to be directly impacted – and which continues to suffer closure – is the LoneStar facility at Nederland, TX.  Where the Houston Ship Channel and Freeport, TX terminals were temporarily closed (and briefly, at that), the Category 4 storm made landfall only slightly East of the Sabine River and caused significant damage in its wake, and left the LoneStar terminal out of commission for approximately a week.  Front-month Mont Belvieu values are presently hovering in the 49ctgs/gal range but then rise through the balance of the year, only tapering, presumably, on seasonality factors at end Q1 2021.  With US stock levels having risen so sharply at the end of August the sentiment is one of cautious optimism in that it appears at present to be sufficient volumes to satisfy both domestic res/com and petrochemical-related demand and export volumes.  But with near record-level exports seen in August, and concern of production declines, the underlying concern of insufficient stocks lingers and is thus supportive of the pricing structure for the next 4-5 months.
+AMERICAS:
+The weekly EIA propane inventory report  showed an unexpectedly high build of 4.389mmbbls, from 90.833mmbbls for the week ending 21 Aug 2020 to 95.222mmbbls as of 20 Aug 2020.  The data also revealed a YOY increase of 2.366mmbbls when comparing the Aug 2020 figures to the Aug 2019 data.  Most of the build occurred in PADD III (Gulf Coast) and is reckoned to be the result of lifting delays as related to the passing of Hurricane Laura.  On that, the only terminal to be directly impacted – and which continues to suffer closure – is the LoneStar facility at Nederland, TX.  Where the Houston Ship Channel and Freeport, TX terminals were temporarily closed (and briefly, at that), the Category 4 storm made landfall only slightly East of the Sabine River and caused significant damage in its wake, and left the LoneStar terminal out of commission for approximately a week.
+
+Front-month Mont Belvieu values are presently hovering in the 49ctgs/gal range but then rise through the balance of the year, only tapering, presumably, on seasonality factors at end Q1 2021.  With US stock levels having risen so sharply at the end of August the sentiment is one of cautious optimism in that it appears at present to be sufficient volumes to satisfy both domestic res/com and petrochemical-related demand and export volumes.  But with near record-level exports seen in August, and concern of production declines, the underlying concern of insufficient stocks lingers and is thus supportive of the pricing structure for the next 4-5 months.
 
 ---
 
@@ -106,13 +116,19 @@ AMERICAS: The weekly EIA propane inventory report  showed an unexpectedly high b
 ### SnP Weekly Comment
 **Date:** 2020-09-03 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
-While a few owners have been able to lock away VLCC’s for six months at rates in the low to mid 30s the spot market is at opex levels presently. It is really just a numbers game at this point, with about one of three MEG cargoes lost over the three last month’s vs same period last year.  Sale of modern conventional tankers is just not happening and the bid/ask spread is getting quite wide.  The dry story is much easier to read with a good transparency on values throughout.  Attractive vessels/designs are showing some gain as seen by the sale of Tess-82 LOWLANDS KAMSAR built 2010 at slightly above Usd 15 mill. Offers were invited on Wednesday and a sale was quickly concluded.  Expectations were that the price should end up somewhere between Usd 14-14.5 mill so we can safely concluded that this was a notch up.  The vessel has just passed the second Special Survey with BWTS fitted.
+While a few owners have been able to lock away VLCC’s for six months at rates in the low to mid 30s the spot market is at opex levels presently. It is really just a numbers game at this point, with about one of three MEG cargoes lost over the three last month’s vs same period last year.  Sale of modern conventional tankers is just not happening and the bid/ask spread is getting quite wide.
+
+The dry story is much easier to read with a good transparency on values throughout.  Attractive vessels/designs are showing some gain as seen by the sale of Tess-82 LOWLANDS KAMSAR built 2010 at slightly above Usd 15 mill. Offers were invited on Wednesday and a sale was quickly concluded.  Expectations were that the price should end up somewhere between Usd 14-14.5 mill so we can safely concluded that this was a notch up.  The vessel has just passed the second Special Survey with BWTS fitted.
 
 ---
 
 ### Chartering Weekly Comment
 **Date:** 2020-09-01 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
-EAST We are finally starting to see more activity in the East after a couple of quiet weeks. A few more ships have been taken out in the mid usd 50s baltic for last decade September loading, and time of writing there are still some uncovered requirements for same period. There are still a couple  of traders with extra length on shipping in the East, and as the Western markets seems to be more in balance we don’t expect East rates to continue its downward trend.   WEST Hurricane Laura caused some delays for USG loading end Aug, but only Nederland loadings have been largely affected. Delays amounts to around 10 days at time of writing, there is currently 4 ships at anchorage waiting for firm berthing prospects. September looks largely covered for and 1st decade October fixing has slowly started. Freight rates for West loadings are back to trading at a couple dollars premium to Baltic. On the back of tight availability for ships in US up to mid October, it is hard to see the freight markets coming off significantly despite a challenging product market.
+EAST
+We are finally starting to see more activity in the East after a couple of quiet weeks. A few more ships have been taken out in the mid usd 50s baltic for last decade September loading, and time of writing there are still some uncovered requirements for same period. There are still a couple  of traders with extra length on shipping in the East, and as the Western markets seems to be more in balance we don’t expect East rates to continue its downward trend.
+
+WEST
+Hurricane Laura caused some delays for USG loading end Aug, but only Nederland loadings have been largely affected. Delays amounts to around 10 days at time of writing, there is currently 4 ships at anchorage waiting for firm berthing prospects. September looks largely covered for and 1st decade October fixing has slowly started. Freight rates for West loadings are back to trading at a couple dollars premium to Baltic. On the back of tight availability for ships in US up to mid October, it is hard to see the freight markets coming off significantly despite a challenging product market.
 
 ---

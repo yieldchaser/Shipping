@@ -6,7 +6,7 @@ week: 49
 date_range: "2020-11-30 to 2020-12-02"
 comments_count: 14
 sectors: ["Dry Bulk", "Tankers", "Gas & LNG", "Sale and Purchase (S&P)"]
-generated_at: "2026-10-11 21:03:33"
+generated_at: "2026-10-12 13:31:37"
 ---
 
 # Fearnleys Weekly Broker Commentary - Week 49, 2020
@@ -84,21 +84,34 @@ For another week the North Sea/Baltic market didn’t escape its vicious cycle a
 ### LNG Market Report
 **Date:** 2020-12-02 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
-LNG demand for deliveries into Asia continues to firm and spot product prices got further gains this week, as supply disruptions continue both East and West. This, coupled with anticipation of lower temperatures in the northern hemisphere, have supported LNG shipping demand and rate levels for yet another week. Activity and shipping requirements remain at high levels, but lack of available shipping, especially in Atlantic, combined with Panama delays, has turned charterers enquiring for Atlantic liftings to look East of Suez for tonnage. In the East, there is a bit more availability, but enquiries and tender activity has kept the chartering markets active with good interest for all types of tonnage.  Vessel availability is expected to remain tight over the next weeks as the imbalance of availability between the basins persists, likely until the next wave of redeliveries in late January. For now, however, the current setting suggests a prolonged winter market.  One new single LNGC order at Samsung Heavy was reported this week for delivery in 2023.
+LNG demand for deliveries into Asia continues to firm and spot product prices got further gains this week, as supply disruptions continue both East and West. This, coupled with anticipation of lower temperatures in the northern hemisphere, have supported LNG shipping demand and rate levels for yet another week. Activity and shipping requirements remain at high levels, but lack of available shipping, especially in Atlantic, combined with Panama delays, has turned charterers enquiring for Atlantic liftings to look East of Suez for tonnage. In the East, there is a bit more availability, but enquiries and tender activity has kept the chartering markets active with good interest for all types of tonnage. 
+Vessel availability is expected to remain tight over the next weeks as the imbalance of availability between the basins persists, likely until the next wave of redeliveries in late January. For now, however, the current setting suggests a prolonged winter market. 
+One new single LNGC order at Samsung Heavy was reported this week for delivery in 2023.
 
 ---
 
 ### Gas Market Weekly Comment - Eastern Market
 **Date:** 2020-11-30 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
-MEG Saudi Aramco raised up both Propane and Butane CP by 20$ respectively to $450 and $460. C3/C4 spread narrows down to $7 as butane are less favorable in winter season and in lack of cracking demand due to poor economy. Jan CP was traded at region of $440-449, slightly backwarded to reflect the oversupply of front market. QP issued sale tender to market one 26/27th Jan lifting equal ratio cargo.   FAR EAST The Panama congestion and HSC closure on mid-week have caused some further delays on Dec delivery and 1h Jan delivery cargos. Coupled by the soaring freight, cash premium continued its upward trajectory, with full propane for Jan delivery traded at Jan FEI plus around $10 reportedly, and half cargo basis at Jan FEI plus high teens. Despite the escalating freight and rising premium on CFR into Japan/Korea regions, cargoes into China are still traded at heavy discounts. One EChina importer was reported to cover an end Dec delivery 23/0 at 30ish on CP link. Similarly, one SChina importer secured a 11/11 parcel for late Dec to Jan delivery into Shenzhen at Jan CP plus high 30s via tender.
+MEG
+Saudi Aramco raised up both Propane and Butane CP by 20$ respectively to $450 and $460. C3/C4 spread narrows down to $7 as butane are less favorable in winter season and in lack of cracking demand due to poor economy. Jan CP was traded at region of $440-449, slightly backwarded to reflect the oversupply of front market. QP issued sale tender to market one 26/27th Jan lifting equal ratio cargo.
+
+FAR EAST
+The Panama congestion and HSC closure on mid-week have caused some further delays on Dec delivery and 1h Jan delivery cargos. Coupled by the soaring freight, cash premium continued its upward trajectory, with full propane for Jan delivery traded at Jan FEI plus around $10 reportedly, and half cargo basis at Jan FEI plus high teens. Despite the escalating freight and rising premium on CFR into Japan/Korea regions, cargoes into China are still traded at heavy discounts. One EChina importer was reported to cover an end Dec delivery 23/0 at 30ish on CP link. Similarly, one SChina importer secured a 11/11 parcel for late Dec to Jan delivery into Shenzhen at Jan CP plus high 30s via tender.
 
 ---
 
 ### Gas Market Weekly Comment - Western Market
 **Date:** 2020-11-30 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
-AMERICAS A relatively small – but nonetheless generally expected - decline of 844,000bbls in domestic US propane inventories left stock levels at 91.718mmbbls overall, which compares to the late-Nov 2019 total of 86.443mmbbls, a difference of more than 5mmbbls.  Overwater exports of propane during the period were reckoned to have improved to a robust level of around 1.5mmbbls/day while production was effectively flat at 2.291mmbbls/day, according to the DOE.    Most of the terminals are running well at this point, though a day or so of fog on both the Houston Ship Channel and in Freeport was recorded this week.  And while this has left a number of vessels waiting offshore, the terminals themselves report little disruption as they’ve become adept at managing their respective facilities during the (mostly) short-lived but periodic waterway closures.  The weather in North America has heretofore been relatively mild, but a healthy dose of Arctic air has by now descended and blanketed much of the Midwest and Northeast.  Still, however, NOAA are calling for a generally mild winter overall, with better-than-average chances for above-average temperatures and below-average precipitation.  If that prediction were to be realized, then reduced weather-related demand should likely allow the rate of decline of propane stock levels to slow, the weight of which should then cause MB values to soften and – in turn – support an open arb.  Exceedingly bullish freight rates, however, will likely play a role in the outcome, however.  Petrochemical consumption of propane is reported for November to have been upwards of 300,000bbls/day, where Dec is likely to decline towards the upper 200,000bbl/day range, though expectations of even lower rates were discussed for Dec.
+AMERICAS
+A relatively small – but nonetheless generally expected - decline of 844,000bbls in domestic US propane inventories left stock levels at 91.718mmbbls overall, which compares to the late-Nov 2019 total of 86.443mmbbls, a difference of more than 5mmbbls.  Overwater exports of propane during the period were reckoned to have improved to a robust level of around 1.5mmbbls/day while production was effectively flat at 2.291mmbbls/day, according to the DOE.  
+
+Most of the terminals are running well at this point, though a day or so of fog on both the Houston Ship Channel and in Freeport was recorded this week.  And while this has left a number of vessels waiting offshore, the terminals themselves report little disruption as they’ve become adept at managing their respective facilities during the (mostly) short-lived but periodic waterway closures.
+
+The weather in North America has heretofore been relatively mild, but a healthy dose of Arctic air has by now descended and blanketed much of the Midwest and Northeast.  Still, however, NOAA are calling for a generally mild winter overall, with better-than-average chances for above-average temperatures and below-average precipitation.  If that prediction were to be realized, then reduced weather-related demand should likely allow the rate of decline of propane stock levels to slow, the weight of which should then cause MB values to soften and – in turn – support an open arb.  Exceedingly bullish freight rates, however, will likely play a role in the outcome, however.
+
+Petrochemical consumption of propane is reported for November to have been upwards of 300,000bbls/day, where Dec is likely to decline towards the upper 200,000bbl/day range, though expectations of even lower rates were discussed for Dec.
 
 ---
 
@@ -106,13 +119,19 @@ AMERICAS A relatively small – but nonetheless generally expected - decline of 
 ### SnP Weekly Comment
 **Date:** 2020-12-02 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
-A sustained amount of activity across SnP markets this week with a number of vessels changing hands. In the dry markets Scorpio Bulk has disposed of a further three units. The levels achieved on all three Ultramax vessels fall in line with last comparable transactions. With a continuous stream of sales candidates meeting the current buying enquiry we expect the values to continue moving sideways for the foreseeable future.  Tanker markets continue to see a high level of interest especially across the MR and Aframax segments which have seen the vast majority of sales. An increasing number of ten to fifteen years old MR tankers are being placed for sale suggesting values are most likely to remain under pressure. The same applies to older Aframax tankers as clearly illustrated by this week’s sales, although it should be noted that the price for the two 2003 built BAKU and AZERBAIJAN reflects that the vessels have been in lay-up for some time. Younger ones are faring better with PAMISOS (105k dwt 2011 HHI) achieving the same price as the same age sister vessel KALAMI went for in early November. Sign of ongoing inspections and negotiations suggest we will be in position to report further transactions in the near future.
+A sustained amount of activity across SnP markets this week with a number of vessels changing hands. In the dry markets Scorpio Bulk has disposed of a further three units. The levels achieved on all three Ultramax vessels fall in line with last comparable transactions. With a continuous stream of sales candidates meeting the current buying enquiry we expect the values to continue moving sideways for the foreseeable future.
+
+Tanker markets continue to see a high level of interest especially across the MR and Aframax segments which have seen the vast majority of sales. An increasing number of ten to fifteen years old MR tankers are being placed for sale suggesting values are most likely to remain under pressure. The same applies to older Aframax tankers as clearly illustrated by this week’s sales, although it should be noted that the price for the two 2003 built BAKU and AZERBAIJAN reflects that the vessels have been in lay-up for some time. Younger ones are faring better with PAMISOS (105k dwt 2011 HHI) achieving the same price as the same age sister vessel KALAMI went for in early November. Sign of ongoing inspections and negotiations suggest we will be in position to report further transactions in the near future.
 
 ---
 
 ### Chartering Weekly Comment
 **Date:** 2020-11-30 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
-EAST There are still a couple of vessels available on December dates in the MEG. One Indian cargo is still to be covered for end December, and we will probably see little or no overhang going into next month parallel to focus slowly but surely shifting to January liftings. QP released their lifting program for January yesterday evening, which at the time of writing have not boosted lots of interest for January fixing apart from one Indian cargo tendered in the market.  WEST After a very hectic week last week, it seems charterers have taken a step back to review their options, before going forward with covering their next requirements. The availability of ships is still very scarce for the relevant fixing window the market is focusing on now, and as such if one should find a ship it would be difficult to get the economics to add up. The most recent rates for the transpacific runs have returned close to USD 86k per day and reflects a freight premium of around 3-5% to the Baltic.
+EAST
+There are still a couple of vessels available on December dates in the MEG. One Indian cargo is still to be covered for end December, and we will probably see little or no overhang going into next month parallel to focus slowly but surely shifting to January liftings. QP released their lifting program for January yesterday evening, which at the time of writing have not boosted lots of interest for January fixing apart from one Indian cargo tendered in the market.
+
+WEST
+After a very hectic week last week, it seems charterers have taken a step back to review their options, before going forward with covering their next requirements. The availability of ships is still very scarce for the relevant fixing window the market is focusing on now, and as such if one should find a ship it would be difficult to get the economics to add up. The most recent rates for the transpacific runs have returned close to USD 86k per day and reflects a freight premium of around 3-5% to the Baltic.
 
 ---

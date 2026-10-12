@@ -6,7 +6,7 @@ week: 7
 date_range: "2019-02-11 to 2019-02-11"
 comments_count: 12
 sectors: ["Dry Bulk", "Tankers", "Gas & LNG", "Sale and Purchase (S&P)"]
-generated_at: "2026-10-11 21:03:31"
+generated_at: "2026-10-12 13:31:35"
 ---
 
 # Fearnleys Weekly Broker Commentary - Week 07, 2019
@@ -91,7 +91,8 @@ IOC terminal commissioning was hotly contended this week and is welcome demand a
 ### Gas Market Report
 **Date:** 2019-02-11 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
-The Baltic VLGC Index, which has been moving downward for quite some time, turned around upwards last week and has continued in the same direction this week, although at baby steps - read more in the full report.
+The Baltic VLGC Index, which has been moving downward for quite some time, turned around upwards last week and has continued in the same
+direction this week, although at baby steps - read more in the full report.
 
 ---
 

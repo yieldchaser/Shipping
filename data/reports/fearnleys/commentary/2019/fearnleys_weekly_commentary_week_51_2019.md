@@ -6,7 +6,7 @@ week: 51
 date_range: "2019-12-16 to 2019-12-20"
 comments_count: 14
 sectors: ["Dry Bulk", "Tankers", "Gas & LNG", "Sale and Purchase (S&P)"]
-generated_at: "2026-10-11 21:03:32"
+generated_at: "2026-10-12 13:31:36"
 ---
 
 # Fearnleys Weekly Broker Commentary - Week 51, 2019
@@ -91,14 +91,26 @@ For a week that saw relatively few fixtures and broadly static rates, there sure
 ### Gas Market Weekly Comment - Eastern Market
 **Date:** 2019-12-17 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
-MEG: Saudi Aramco’s Jan lifting acceptance has astonished the whole market, with cancellations/delays/cuts/grade changes happening. This being said, the front supply has tightened up further.  Due to this, swap value has shot up again this week. At the time of writing, Jan propane CP is traded at $507, $67 higher than Jan CP, and butane rose up to $531 with continuous $25 gap. Feb CP chased up, traded at $487 with $20 backwardation, and we believe the spread might narrow down further as Feb supply doesn’t look abundant either.  Qatar Petroleum was reported to award their sell tender for 27/29th lifting full C3 to one Chinese importer at CP plus high single premium.   FAR EAST: Very eventful market this week before Christmas, with various bids in/off window on either US/non-US and tenders floating.  Propane for 2h Jan delivery is bid at Jan FEI plus mid 30s or flat price $564 while no seller seen. Mid-Jan lifting equal ratio cargos is being bid at $515/545 but again nothing concluded.   Equal ratio demand appears strong with SEA inquiries. One Vietnam importer has issued buy tender to secure two parcels of equal ratio cargos delivered in 21st Dec till 1h Jan and 25th Jan to 10th Feb, and the result is yet to know. Meanwhile, Indonesia Pertamina has issued new tender to secure two evenly split cargo as well, but delivered during early and mid Feb, which valid till tomorrow.   However, demand into China is still mainly driven by propane for petchem use. One SChina Importer has bought 2h Jan arrival 23/0 at mid-80s, luckily we would say, since apart from this, still several rigid demand haven’t been covered. Despite the squeezed margins on PDHs, some plants with downstream complex still have profits and keep exploring cargos. However, several failed to award their buy tenders for propane delivered from 2h Jan till 1h Feb as in lack of offers. Some readjust the program and try deferring into Feb purchase, otherwise might need to lower down run rate before running out of feedstock.
+MEG:
+Saudi Aramco’s Jan lifting acceptance has astonished the whole market, with cancellations/delays/cuts/grade changes happening. This being said, the front supply has tightened up further. 
+Due to this, swap value has shot up again this week. At the time of writing, Jan propane CP is traded at $507, $67 higher than Jan CP, and butane rose up to $531 with continuous $25 gap. Feb CP chased up, traded at $487 with $20 backwardation, and we believe the spread might narrow down further as Feb supply doesn’t look abundant either. 
+Qatar Petroleum was reported to award their sell tender for 27/29th lifting full C3 to one Chinese importer at CP plus high single premium. 
+
+FAR EAST:
+Very eventful market this week before Christmas, with various bids in/off window on either US/non-US and tenders floating. 
+Propane for 2h Jan delivery is bid at Jan FEI plus mid 30s or flat price $564 while no seller seen. Mid-Jan lifting equal ratio cargos is being bid at $515/545 but again nothing concluded. 
+
+Equal ratio demand appears strong with SEA inquiries. One Vietnam importer has issued buy tender to secure two parcels of equal ratio cargos delivered in 21st Dec till 1h Jan and 25th Jan to 10th Feb, and the result is yet to know. Meanwhile, Indonesia Pertamina has issued new tender to secure two evenly split cargo as well, but delivered during early and mid Feb, which valid till tomorrow. 
+
+However, demand into China is still mainly driven by propane for petchem use. One SChina Importer has bought 2h Jan arrival 23/0 at mid-80s, luckily we would say, since apart from this, still several rigid demand haven’t been covered. Despite the squeezed margins on PDHs, some plants with downstream complex still have profits and keep exploring cargos. However, several failed to award their buy tenders for propane delivered from 2h Jan till 1h Feb as in lack of offers. Some readjust the program and try deferring into Feb purchase, otherwise might need to lower down run rate before running out of feedstock.
 
 ---
 
 ### Gas Market Weekly Comment - Western Market
 **Date:** 2019-12-17 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
-AMERICAS: A larger than expected 2.5 million barrel draw in Mt Belvieu did nothing to change the slide in Mt Belvieu values vs WTI. Mt Belvieu now lies below 35% WTI and inventories remain high at 91 million barrels, which has been keeping downward pressure on Mt Belvieu propane prices. With demand ramping up in the East the arb is wide open, and some recent softness in the freight market has led to very high netback values. Due to this we have seen the 4 week average of exports climb to 1.3 million barrels of propane per day. This trend looks set to continue as FOB buying interest from the US is very strong and every ton which can be, is being exported. The question now is will recently set FOB values of 20cpg become the new normal or will FOB values continue to increase? In South America, news of the winner of the 1.3 million ton Petro Ecuador tender is keenly being awaited.
+AMERICAS:
+A larger than expected 2.5 million barrel draw in Mt Belvieu did nothing to change the slide in Mt Belvieu values vs WTI. Mt Belvieu now lies below 35% WTI and inventories remain high at 91 million barrels, which has been keeping downward pressure on Mt Belvieu propane prices. With demand ramping up in the East the arb is wide open, and some recent softness in the freight market has led to very high netback values. Due to this we have seen the 4 week average of exports climb to 1.3 million barrels of propane per day. This trend looks set to continue as FOB buying interest from the US is very strong and every ton which can be, is being exported. The question now is will recently set FOB values of 20cpg become the new normal or will FOB values continue to increase? In South America, news of the winner of the 1.3 million ton Petro Ecuador tender is keenly being awaited.
 
 ---
 
@@ -106,7 +118,11 @@ AMERICAS: A larger than expected 2.5 million barrel draw in Mt Belvieu did nothi
 ### SnP Weekly Comment
 **Date:** 2019-12-20 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
-The tanker S&P market is pretty subdued but our read is that many buyers are on standby with a strong level of enquiries waiting to strike in the new year.  Whilst brand new ships are fully priced, we see continued upside on values for the semi-modern tonnage across the board.   The dry case has lost steam with cape earnings taking a beating. Next year will start with a large number of kamarsarmax newbuildings hitting the water and as such it’s fair to expect a challenging quarter in sight. Relevant transactions are few and we end the year with a steady and large overhang of ships for sale.  Any movement in dry values in the near future will be down.  The scrubber case is looking very promising as 2020 approaches with the compliant fuel spread now in excess of usd 300/ton.
+The tanker S&P market is pretty subdued but our read is that many buyers are on standby with a strong level of enquiries waiting to strike in the new year.  Whilst brand new ships are fully priced, we see continued upside on values for the semi-modern tonnage across the board. 
+
+The dry case has lost steam with cape earnings taking a beating. Next year will start with a large number of kamarsarmax newbuildings hitting the water and as such it’s fair to expect a challenging quarter in sight. Relevant transactions are few and we end the year with a steady and large overhang of ships for sale.  Any movement in dry values in the near future will be down.
+
+The scrubber case is looking very promising as 2020 approaches with the compliant fuel spread now in excess of usd 300/ton.
 
 ---
 

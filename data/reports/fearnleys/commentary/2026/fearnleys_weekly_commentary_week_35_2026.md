@@ -6,7 +6,7 @@ week: 35
 date_range: "2026-08-26 to 2026-08-28"
 comments_count: 9
 sectors: ["Dry Bulk", "Tankers", "Gas & LNG", "Sale and Purchase (S&P)"]
-generated_at: "2026-10-11 21:03:40"
+generated_at: "2026-10-12 13:31:44"
 ---
 
 # Fearnleys Weekly Broker Commentary - Week 35, 2026
@@ -55,7 +55,11 @@ There has been reasonable activity to start the week. However, the market remain
 ### Aframax Weekly Comment
 **Date:** 2026-08-26 | **Subtype:** Tank Weekly Comment | **Desk:** Fearnleys Research
 
-North Sea After the large number of vessels we have seen ballast towards the US the North Sea list has been left with a reduced number of natural candidates for North Sea business. Dates have pushed into early September with rates picking. The flow of tonnage leaving for the US is currently less as that market has softened on the back of vessels arriving but with the Mediterranean also pushing up tonnage will continue to move out. First decade North Sea stems are a little on the light side which may limit the firming of rates.  Mediterranean Activity in the Mediterranean remains consistent with dates pushing into September and cargoes from certain ports pushing out to the 5th. Like the North Sea the Mediterranean had seen vessels leaving for the US which has helped owners push for increases in rate levels. List remain interesting with some tonnage compromised due to trading history.
+North Sea
+After the large number of vessels we have seen ballast towards the US the North Sea list has been left with a reduced number of natural candidates for North Sea business. Dates have pushed into early September with rates picking. The flow of tonnage leaving for the US is currently less as that market has softened on the back of vessels arriving but with the Mediterranean also pushing up tonnage will continue to move out. First decade North Sea stems are a little on the light side which may limit the firming of rates.
+
+Mediterranean
+Activity in the Mediterranean remains consistent with dates pushing into September and cargoes from certain ports pushing out to the 5th. Like the North Sea the Mediterranean had seen vessels leaving for the US which has helped owners push for increases in rate levels. List remain interesting with some tonnage compromised due to trading history.
 
 ---
 
@@ -71,7 +75,9 @@ Spot activity remains broadly muted although the list of developing requirements
 ### SnP Weekly Comment
 **Date:** 2026-08-28 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
-Record profits in the crude space continue to fuel rampant tanker buying appetite. Lofty valuations, even for this market, are being met by buyers who are targeting prompt tonnage, often bypassing usual concerns such as yard or survey dates. The suezmax sector has seen particular action this week with new benchmarks being set across the curve. Scrubber fitted CAPE BENAT (156k dwt Rongsheng 2010) sold at USD 62.5M to Lila Global, and SS due ANTIGUA I (157k dwt New Times 2016) sold for USD 90M.    The dry bulk market action is more modest by comparison, but still healthy for this time of year. Owners are in a luxurious position of having the option to sell ageing tonnage at firm valuations, or indeed just keep operating their ships in healthy earnings environments. The supramax sector was busiest this week with a flurry of transactions, helping to price the older end of the curve. With the Q4 supra/ultra futures curve sitting around the USD 20K/day mark, buyers are clearly plentiful. The 20-year-old benchmark was set with SPAR SCORPIO (53k dwt Chengxi 2006) sold for USD 11.5M despite surveys being due in October of this year.
+Record profits in the crude space continue to fuel rampant tanker buying appetite. Lofty valuations, even for this market, are being met by buyers who are targeting prompt tonnage, often bypassing usual concerns such as yard or survey dates. The suezmax sector has seen particular action this week with new benchmarks being set across the curve. Scrubber fitted CAPE BENAT (156k dwt Rongsheng 2010) sold at USD 62.5M to Lila Global, and SS due ANTIGUA I (157k dwt New Times 2016) sold for USD 90M. 
+ 
+The dry bulk market action is more modest by comparison, but still healthy for this time of year. Owners are in a luxurious position of having the option to sell ageing tonnage at firm valuations, or indeed just keep operating their ships in healthy earnings environments. The supramax sector was busiest this week with a flurry of transactions, helping to price the older end of the curve. With the Q4 supra/ultra futures curve sitting around the USD 20K/day mark, buyers are clearly plentiful. The 20-year-old benchmark was set with SPAR SCORPIO (53k dwt Chengxi 2006) sold for USD 11.5M despite surveys being due in October of this year.
 
 ---
 

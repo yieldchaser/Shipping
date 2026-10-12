@@ -6,7 +6,7 @@ week: 9
 date_range: "2023-02-27 to 2023-02-28"
 comments_count: 14
 sectors: ["Dry Bulk", "Tankers", "Gas & LNG", "Sale and Purchase (S&P)"]
-generated_at: "2026-10-11 21:03:36"
+generated_at: "2026-10-12 13:31:40"
 ---
 
 # Fearnleys Weekly Broker Commentary - Week 09, 2023
@@ -91,14 +91,28 @@ test comment 3
 ### Gas Market Weekly Comment - Eastern Market
 **Date:** 2023-02-27 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
-MEG Saudi Aramco set Mar CP at $720 for C3 and $740 for C4, declined by $70 and $50, respectively. C3 was almost in line with expectation but C4 is slightly higher than recommended. Apr C3 CP was traded at deep backwardation at $640, and C4 CP at $10 higher. Evenly split cargo discussions quiet down with few inquiries into India, and value for Apr loaders was expected at double digit discounts to Apr CP.  Qatar Petroleum released their Apr term lifting acceptances with some delays reported, as some players nominated early dates to avoid backwardations for 40$ into May.   FAR EAST Lack of activities in window this week as players away for IE week in London. Off window some sellers are still reported to have unsold Mar delivery tons, perhaps will roll into Apr delivery instead. One AG producer was reported to offer two 2h Mar lifting evenly split cargos for Apr delivery. Another evenly split cargo for 4-5th Apr lifting ex Darwin was also offered via tender.   Despite weakening sentiment this week, we’ve seen a handful of buy tenders for petchem use. One EChina cracker user procured 23kt propane for 1-10th Apr delivery at Apr FEI plus high 30s. Another EChina PDH user also issued buy tender to secure 3 lots of 23kt propane for Apr and May delivery. Taiwan FPCC also tendered to procure flexible ratio LPG for any Apr delivery.
+MEG
+Saudi Aramco set Mar CP at $720 for C3 and $740 for C4, declined by $70 and $50, respectively. C3 was almost in line with expectation but C4 is slightly higher than recommended. Apr C3 CP was traded at deep backwardation at $640, and C4 CP at $10 higher. Evenly split cargo discussions quiet down with few inquiries into India, and value for Apr loaders was expected at double digit discounts to Apr CP. 
+Qatar Petroleum released their Apr term lifting acceptances with some delays reported, as some players nominated early dates to avoid backwardations for 40$ into May. 
+
+FAR EAST
+Lack of activities in window this week as players away for IE week in London. Off window some sellers are still reported to have unsold Mar delivery tons, perhaps will roll into Apr delivery instead. One AG producer was reported to offer two 2h Mar lifting evenly split cargos for Apr delivery. Another evenly split cargo for 4-5th Apr lifting ex Darwin was also offered via tender. 
+
+Despite weakening sentiment this week, we’ve seen a handful of buy tenders for petchem use. One EChina cracker user procured 23kt propane for 1-10th Apr delivery at Apr FEI plus high 30s. Another EChina PDH user also issued buy tender to secure 3 lots of 23kt propane for Apr and May delivery. Taiwan FPCC also tendered to procure flexible ratio LPG for any Apr delivery.
 
 ---
 
 ### Gas Market Weekly Comment - Western Market
 **Date:** 2023-02-27 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
-AMERICAS After a flurry of activity during 1H February, the current and pending conference/seminar schedule has dampened enthusiasm - and activity levels.  IE Week in London this week has taken many of the regular participants out of the market, and the combination of the Japan Conference in Tokyo and an OPIS Seminar in San Diego next week – each of which is expected to be well attended - should lead to yet further quietness.  Trading during 1H Feb for the March market, however, increased drastically from February and was based on the widely opened arb to both the West and – more so – to the East.  That, in turn, was the result of positive economic news related to the Chinese economy and, at the time, weather-related demand in (mostly) Eastern Europe.  The resulting rise in both terminal fees and big-ship freight rates began a sort of tug-of-war where re-sellers on the Gulf Coast began to escalate their asking prices and with each passing transaction higher levels were achieved.  Meanwhile, to capitalize, shipowners sharply hiked freight rates, as well.    Where terminal fees for March were seen within a range of 9-15cts/gal, April is presently talked in the upper single digits, May at just below that, and June slightly lower, still.
+AMERICAS
+After a flurry of activity during 1H February, the current and pending conference/seminar schedule has dampened enthusiasm - and activity levels.  IE Week in London this week has taken many of the regular participants out of the market, and the combination of the Japan Conference in Tokyo and an OPIS Seminar in San Diego next week – each of which is expected to be well attended - should lead to yet further quietness.
+
+Trading during 1H Feb for the March market, however, increased drastically from February and was based on the widely opened arb to both the West and – more so – to the East.  That, in turn, was the result of positive economic news related to the Chinese economy and, at the time, weather-related demand in (mostly) Eastern Europe.
+
+The resulting rise in both terminal fees and big-ship freight rates began a sort of tug-of-war where re-sellers on the Gulf Coast began to escalate their asking prices and with each passing transaction higher levels were achieved.  Meanwhile, to capitalize, shipowners sharply hiked freight rates, as well.  
+
+Where terminal fees for March were seen within a range of 9-15cts/gal, April is presently talked in the upper single digits, May at just below that, and June slightly lower, still.
 
 ---
 
@@ -106,13 +120,19 @@ AMERICAS After a flurry of activity during 1H February, the current and pending 
 ### SnP Weekly Comment
 **Date:** 2023-02-28 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
-GNMTC stole the tanker headlines this week with the resale acquisition of scrubber fitted Aframax pair DELAWARE/GALVESTON STAR (115K DWT 2023 DAEHAN) at USD 76M per unit, with sellers Atlas making a healthy profit on the original contract price of USD 45M. Elsewhere, the hot ticket in the tanker market appears to be in the MR sector, as players look to cash in on buoyant TC rates. MSEA sold MR MARLIN AMETHYST (51K DWT 2015 COMEC) to Union Maritime for USD 33M, a price that is unlikely to be repeated for foreseeable future as interest surges in modern units. There is also a lot of activity on older MR units, with JOHNNY TRADER (46K DWT 2004 STX JINHAE), SPRUCE EXPRESS (51K DWT 2006 STX JINHAE) and LILA RHINE (51K DWT 2007 STX JINHAE) all being sold this week.  In the dry space, deal flow seems to be the only thing holding the market back as interest remains incredibly high across the size curve (provided the presence of an ECO engine). Supramax pair PACIFIC VISION/DREAM (56K DWT 2013 JIANGSU HANTONG) fetched USD 15.5M per unit, a transaction that should help price a number of similar units in the market. Further to these sales, SUPRA ONIKI (57K DWT 2010 QINGSHAN) sold for USD 13M to undisclosed buyers.
+GNMTC stole the tanker headlines this week with the resale acquisition of scrubber fitted Aframax pair DELAWARE/GALVESTON STAR (115K DWT 2023 DAEHAN) at USD 76M per unit, with sellers Atlas making a healthy profit on the original contract price of USD 45M. Elsewhere, the hot ticket in the tanker market appears to be in the MR sector, as players look to cash in on buoyant TC rates. MSEA sold MR MARLIN AMETHYST (51K DWT 2015 COMEC) to Union Maritime for USD 33M, a price that is unlikely to be repeated for foreseeable future as interest surges in modern units. There is also a lot of activity on older MR units, with JOHNNY TRADER (46K DWT 2004 STX JINHAE), SPRUCE EXPRESS (51K DWT 2006 STX JINHAE) and LILA RHINE (51K DWT 2007 STX JINHAE) all being sold this week.
+
+In the dry space, deal flow seems to be the only thing holding the market back as interest remains incredibly high across the size curve (provided the presence of an ECO engine). Supramax pair PACIFIC VISION/DREAM (56K DWT 2013 JIANGSU HANTONG) fetched USD 15.5M per unit, a transaction that should help price a number of similar units in the market. Further to these sales, SUPRA ONIKI (57K DWT 2010 QINGSHAN) sold for USD 13M to undisclosed buyers.
 
 ---
 
 ### Chartering Weekly Comment
 **Date:** 2023-02-27 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
-EAST QP acceptances was released last night which could trigger some activity out of the Middle East for April dates, but we expect there is more to be done in last decade of March before focus shifts towards April. We count 24 spot fixtures (9 first decade, 9 second decade, and 6 last decade) so far for March, and have only seen one spot deal from the Indian PSUs for the whole month. Freight is relatively stable still with questions being asked of how many spot cargoes there is left on March dates.   WEST With much of the industry gathered in London for IE Week, the Western freight market has been fairly quiet. We have registered a couple fixtures so far this week and with that said we count 14 spot fixtures out of the USG/USEC for April dates with last done concluded at high 150s H/C and 90 H/F. Currently we see no open positions left for early April dates, but that could change as some vessels still can come open from discharging in NWE/Med/WAF. Further into second and last decade the position list is looking tight and the waiting time in the Neo Panama Canal have increased to 11 days northbound and 15 days south.
+EAST
+QP acceptances was released last night which could trigger some activity out of the Middle East for April dates, but we expect there is more to be done in last decade of March before focus shifts towards April. We count 24 spot fixtures (9 first decade, 9 second decade, and 6 last decade) so far for March, and have only seen one spot deal from the Indian PSUs for the whole month. Freight is relatively stable still with questions being asked of how many spot cargoes there is left on March dates. 
+
+WEST
+With much of the industry gathered in London for IE Week, the Western freight market has been fairly quiet. We have registered a couple fixtures so far this week and with that said we count 14 spot fixtures out of the USG/USEC for April dates with last done concluded at high 150s H/C and 90 H/F. Currently we see no open positions left for early April dates, but that could change as some vessels still can come open from discharging in NWE/Med/WAF. Further into second and last decade the position list is looking tight and the waiting time in the Neo Panama Canal have increased to 11 days northbound and 15 days south.
 
 ---

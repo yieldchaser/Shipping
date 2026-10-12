@@ -4,13 +4,13 @@ source: "Fearnleys Hasura GraphQL API (fearnpulse.com)"
 year: 2022
 week: 10
 date_range: "2022-03-07 to 2022-03-09"
-comments_count: 13
+comments_count: 14
 sectors: ["Dry Bulk", "Tankers", "Gas & LNG", "Sale and Purchase (S&P)"]
-generated_at: "2026-10-11 21:03:35"
+generated_at: "2026-10-12 13:31:39"
 ---
 
 # Fearnleys Weekly Broker Commentary - Week 10, 2022
-*Coverage Period: 2022-03-07 to 2022-03-09 | Total Notes: 13*
+*Coverage Period: 2022-03-07 to 2022-03-09 | Total Notes: 14*
 
 ## Executive Summary
 Institutional desk intelligence harvested directly from the Fearnleys Hasura GraphQL backend, covering global Dry Bulk, Crude & Product Tankers, Gas/LNG markets, and Secondhand S&P deals for Week 10 (2022).
@@ -26,7 +26,14 @@ It’s been an extreme week as oil and bunkers been tossing voyage numbers left,
 ### Panamax Weekly Comment
 **Date:** 2022-03-09 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
-In a market and world with a lot of a lot of uncertainty we saw this week further day of gains for the Panamax market with all routes yielding considerable returns. North appeared well supported with improved numbers reported especially for the shorter duration trips, further South something of a slower day but with SE Asia rates seeing sizeable jumps owners’ offers were said to be difficult to nail down. Further North in the Pacific, talk of some strong numbers being concluded on the NoPac runs for well described tonnage on good delivery positions, continued to improve sentiment and feeling here.   Some representative fixtures this week: The Navios Southern Star (82,224/2013) Rotterdam 10/11 March was heard fixing for a transatlantic trip via US Gulf redelivery Skaw-Gibraltar at USD 21,500.  Nan Xin 27 (74,483/2006) was heard fixing a trip via EC South America redelivery Skaw-Passero option 4-6 months at USD 35,000 basis delivery APS EC South America 17 March alternatively USD 24,750 basis retro sailing Sunda 15 February. Yasa H Mulla (83,482/2011) Gibraltar 8 March fixed clean, delivery aps NC South America redelivery Far East at USD 27,000 + USD 1.4mio ballast bonus with Norden. The Ocean Legend (78,208/2020) Cai Mep 13-14 March was rumored fixed for a trip via Indonesia redelivery Japan at USD 45,000. Last Friday K Line secured the CSK Unity (77,105/2015) Manila 11/13 March for a trip via Indonesia redelivery Japan at USD 40,000.
+In a market and world with a lot of a lot of uncertainty we saw this week further day of gains for the Panamax market with all routes yielding considerable returns. North appeared well supported with improved numbers reported especially for the shorter duration trips, further South something of a slower day but with SE Asia rates seeing sizeable jumps owners’ offers were said to be difficult to nail down. Further North in the Pacific, talk of some strong numbers being concluded on the NoPac runs for well described tonnage on good delivery positions, continued to improve sentiment and feeling here. 
+
+Some representative fixtures this week:
+The Navios Southern Star (82,224/2013) Rotterdam 10/11 March was heard fixing for a transatlantic trip via US Gulf redelivery Skaw-Gibraltar at USD 21,500. 
+Nan Xin 27 (74,483/2006) was heard fixing a trip via EC South America redelivery Skaw-Passero option 4-6 months at USD 35,000 basis delivery APS EC South America 17 March alternatively USD 24,750 basis retro sailing Sunda 15 February.
+Yasa H Mulla (83,482/2011) Gibraltar 8 March fixed clean, delivery aps NC South America redelivery Far East at USD 27,000 + USD 1.4mio ballast bonus with Norden.
+The Ocean Legend (78,208/2020) Cai Mep 13-14 March was rumored fixed for a trip via Indonesia redelivery Japan at USD 45,000.
+Last Friday K Line secured the CSK Unity (77,105/2015) Manila 11/13 March for a trip via Indonesia redelivery Japan at USD 40,000.
 
 ---
 
@@ -91,7 +98,29 @@ Global energy prices have once again been at the beginning of most conversations
 ### Gas Market Weekly Comment - Eastern Market
 **Date:** 2022-03-07 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
-MEG  A week of volatility with CP swings from $880 to $1000, along with the wild Oil. At the time of writing, Apr C3 CP was traded at $916 and C4 at $20 higher. Apr/May C3 CP was traded at $30 backwardation.  Saudi Aramco was reported to sell two heavy propane cargos for late Mar lifting at fixed price. And Qatar Petroleum tendered to sell 19-29th Apr lifting 3/1 or 4/0 cargo.   FAR EAST  Slow start this week and window appears thin, as 23kt propane was bid at Apr FEI plus $40 while seller asking plus $60s for a 46kt parcel. Outside window, tenders swarmed up especially after the dramatic drop on Wednesday.  Japanese and Korea importers are actively buying cargos, with two Canada origin propane cargos delivered in Apr and May respectively reported sold into Japan, and one Ferndale origin evenly split cargo into Korea for May delivery. Another two Korean importers issued tender to buy in total 69kt LPG for Apr delivery into Petchem segments. One Ningbo-based cracker user tendered to buy 23kt or 46kt propane parcel for 2h Apr delivery. Taiwan FPC withdrew their buy tender for 2h Apr arrival 46kt LPG at flexible ratio due to unattractive price as overnight FEI/MOPJ spread shrank. Indonesia PERTAMINA issued two swap tenders this week to sell their 3-4 Apr and 12-13 Apr US FOB 2/2 parcels and buy back same volumes for 11-15 May and 22-24 May delivery. Apart from tenders, several buyers are exploring Apr delivered evenly split parcel into SEA or Schina.
+MEG 
+A week of volatility with CP swings from $880 to $1000, along with the wild Oil. At the time of writing, Apr C3 CP was traded at $916 and C4 at $20 higher. Apr/May C3 CP was traded at $30 backwardation. 
+Saudi Aramco was reported to sell two heavy propane cargos for late Mar lifting at fixed price. And Qatar Petroleum tendered to sell 19-29th Apr lifting 3/1 or 4/0 cargo. 
+
+FAR EAST 
+Slow start this week and window appears thin, as 23kt propane was bid at Apr FEI plus $40 while seller asking plus $60s for a 46kt parcel. Outside window, tenders swarmed up especially after the dramatic drop on Wednesday. 
+Japanese and Korea importers are actively buying cargos, with two Canada origin propane cargos delivered in Apr and May respectively reported sold into Japan, and one Ferndale origin evenly split cargo into Korea for May delivery. Another two Korean importers issued tender to buy in total 69kt LPG for Apr delivery into Petchem segments. One Ningbo-based cracker user tendered to buy 23kt or 46kt propane parcel for 2h Apr delivery. Taiwan FPC withdrew their buy tender for 2h Apr arrival 46kt LPG at flexible ratio due to unattractive price as overnight FEI/MOPJ spread shrank. Indonesia PERTAMINA issued two swap tenders this week to sell their 3-4 Apr and 12-13 Apr US FOB 2/2 parcels and buy back same volumes for 11-15 May and 22-24 May delivery. Apart from tenders, several buyers are exploring Apr delivered evenly split parcel into SEA or Schina.
+
+---
+
+### Gas Market Weekly Comment - Western Market
+**Date:** 2022-03-07 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
+
+AMERICAS
+The instability seen over the past 10 days was seemingly tempered a bit with the release of the EIA propane inventory data which showed a 1.7mmbbl draw to an overall total of 35.5mmbbls which is 86% of the total recorded last year, and just over 60% of two years ago.  The market had generally anticipated such a report and there was little immediate reaction.  Shortly thereafter, however, crude values began to tumble - and sharply – losing 12% on the day and bringing MB propane levels down alongside.  At the close on Wednesday, non-TET propane was off more than 10cts/gal from Tuesday and marked at $1.4925/gal.
+Meanwhile, in terms of the stock levels, the East Coast (PADD I) fell by 600,000bbls while the Midwest (PADD II) showed a decline of 1.2mmbbls, though this came as little surprise since the upper portions of the region were still cold and snow cover remains.  A build of 600,000bbls along the Gulf Coast (PADD III) was taken in stride and is likely due to the combination of cancellations and cargo buy-backs which together number a dozen (or so), or approximately 6mmbbls over the course of March.
+Terminal fees have been wildly volatile for March, having been fixed from the low 6cpg range up to a reported 12cpg.  There are April volumes on offer in the 8-9cpg range, but in a couple of specific cases asking levels remain well in to double-digits.
+
+NWE
+The European market remains tight, although the 46,000MT propane on the BW Freyja being offered in the window throughout the week is weighing on the buying ideas. That said the cargo is offered at March CIF ARA +$15pmt, with the March April backwardation at +$40pmt that equates to April CIF ARA +$55pmt for the cargo arriving March 29th - April 3rd. No bids corresponding to this cargo have been seen. Traders in the region scrambled to find tons for March arrival and have been quiet since then. There is trepidation around buying for April for propane due to the backwardation and for butane based on the end of gasoline blending season. The transatlantic arb for the balance of 2022 looks open and easier to work than the arb East. The high crude values keeping the propane naphtha spread above $100pmt until July and $96pmt in August is expected to drive European demand through the summer.
+ 
+MED
+The forecast of cold weather is expected to increase Turkish demand. For the rest of the region the high value of LPG is keeping demand low. Moroccan demand is expected to pick up before Ramadan begins next month.
 
 ---
 
@@ -99,13 +128,19 @@ MEG  A week of volatility with CP swings from $880 to $1000, along with the wild
 ### SnP Weekly Comment
 **Date:** 2022-03-08 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
-Liquidity in the dry SnP markets is back at levels witnessed through most of last year with twenty-five units changing hands this week. The underlying macro environment is providing a relative degree of support on the freight side as mentioned last week. Rates that are driving buyers to increase their bids in order to secure additional tonnage. Most of that activity is captured by the Kamsarmax/Panamax and the Utramax/Supramax markets with seven and eight vessels being sold in those respective segments. Worth noting that sellers of Chinese built candidates are the ones more willing to transact with prices deemed to have reach relative heights while potential sellers of Japanese designed vessels are counting on the sharper drive in values usually experienced for quality designs in such rising markets.  Pick up in activity in the tanker space as well, with most market players expecting values to take turn off the back of the recent relative increase in rates. Although earnings remain limited in most sectors due to increased bunker costs, buyers are still willing to go meet the offer, expecting the current situation to have further positive impact on rates which will translate in higher second-hand values. The VLCC sector continues to see a number of units changing hands with a number of ongoing negotiations suggesting even further activity in the near future.
+Liquidity in the dry SnP markets is back at levels witnessed through most of last year with twenty-five units changing hands this week. The underlying macro environment is providing a relative degree of support on the freight side as mentioned last week. Rates that are driving buyers to increase their bids in order to secure additional tonnage. Most of that activity is captured by the Kamsarmax/Panamax and the Utramax/Supramax markets with seven and eight vessels being sold in those respective segments. Worth noting that sellers of Chinese built candidates are the ones more willing to transact with prices deemed to have reach relative heights while potential sellers of Japanese designed vessels are counting on the sharper drive in values usually experienced for quality designs in such rising markets.
+
+Pick up in activity in the tanker space as well, with most market players expecting values to take turn off the back of the recent relative increase in rates. Although earnings remain limited in most sectors due to increased bunker costs, buyers are still willing to go meet the offer, expecting the current situation to have further positive impact on rates which will translate in higher second-hand values. The VLCC sector continues to see a number of units changing hands with a number of ongoing negotiations suggesting even further activity in the near future.
 
 ---
 
 ### Chartering Weekly Comment
 **Date:** 2022-03-07 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
-EAST A combination of continuous higher bunker prices, and a rush for end March – early April MEG cargos has pushed freight up drastically. Last done deal for Singapore-Japan range was concluded in the low-mid 60s Baltic, while the recent Indian deals carries a larger premium. Going forward freight ideas from owners remain bullish, and we expect market to stay active as Adnoc and Aramco acceptances are just around the corner.  WEST Western freight rates found a floor last week at USD mid/high 70s H/C. After a sudden rush of fixing, in addition to the crude rally, the freight market made a huge jump with the last done deal concluded at USD 105 H/C. At the time of writing, we count 16 spot fixtures for April, and mid-month fixing is well underway. Having said that, there is still some leftover vessels in March and early April, which may have to absorb some costly waiting time. Firm vessel itinerary is key when fixing and not being able to book Neo Panama slots well in advance, makes some would-be charterers hesitant to make a move for such non-booked vessels. Thus, there are several cargoes uncovered in April still and many deals to be done.
+EAST
+A combination of continuous higher bunker prices, and a rush for end March – early April MEG cargos has pushed freight up drastically. Last done deal for Singapore-Japan range was concluded in the low-mid 60s Baltic, while the recent Indian deals carries a larger premium. Going forward freight ideas from owners remain bullish, and we expect market to stay active as Adnoc and Aramco acceptances are just around the corner.
+
+WEST
+Western freight rates found a floor last week at USD mid/high 70s H/C. After a sudden rush of fixing, in addition to the crude rally, the freight market made a huge jump with the last done deal concluded at USD 105 H/C. At the time of writing, we count 16 spot fixtures for April, and mid-month fixing is well underway. Having said that, there is still some leftover vessels in March and early April, which may have to absorb some costly waiting time. Firm vessel itinerary is key when fixing and not being able to book Neo Panama slots well in advance, makes some would-be charterers hesitant to make a move for such non-booked vessels. Thus, there are several cargoes uncovered in April still and many deals to be done.
 
 ---

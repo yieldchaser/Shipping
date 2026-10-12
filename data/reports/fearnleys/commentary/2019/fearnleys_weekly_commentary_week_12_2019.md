@@ -6,7 +6,7 @@ week: 12
 date_range: "2019-03-18 to 2019-03-20"
 comments_count: 12
 sectors: ["Dry Bulk", "Tankers", "Gas & LNG", "Sale and Purchase (S&P)"]
-generated_at: "2026-10-11 21:03:31"
+generated_at: "2026-10-12 13:31:36"
 ---
 
 # Fearnleys Weekly Broker Commentary - Week 12, 2019
@@ -99,6 +99,8 @@ A build in US inventories when most market players expected a draw signaled an e
 ### Chartering Weekly Comment
 **Date:** 2019-03-18 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
-At the time of writing the West market continues its upward trend. Vessel availability for April is relatively scarce for US Gulf and a West Africa cargo tender 18-20 April is seemingly pretty much down to the faith of one or two vessels, if that. We expect short term freight to continue strengthening and overhang of vessels available from April going into May will be reduced significantly.  In the East - Saudi April acceptances came out over the weekend where as expected most lifters got delayed (or even deferred into next month) due to upstream oil cuts. A logical effect to this would usually mean lack of shipping requirements as most cargo dates are now quite forward, but as shipping availability is becoming increasingly tighter in the East; some players have started to move for 2H April dates. Last done deal in the MEG was done in the mid/high USD 30s, and there are still a handful of uncovered cargos to be fixed for 2H April.
+At the time of writing the West market continues its upward trend. Vessel availability for April is relatively scarce for US Gulf and a West Africa cargo tender 18-20 April is seemingly pretty much down to the faith of one or two vessels, if that. We expect short term freight to continue strengthening and overhang of vessels available from April going into May will be reduced significantly.
+
+In the East - Saudi April acceptances came out over the weekend where as expected most lifters got delayed (or even deferred into next month) due to upstream oil cuts. A logical effect to this would usually mean lack of shipping requirements as most cargo dates are now quite forward, but as shipping availability is becoming increasingly tighter in the East; some players have started to move for 2H April dates. Last done deal in the MEG was done in the mid/high USD 30s, and there are still a handful of uncovered cargos to be fixed for 2H April.
 
 ---

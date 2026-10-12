@@ -6,7 +6,7 @@ week: 47
 date_range: "2018-11-22 to 2018-11-22"
 comments_count: 1
 sectors: ["Dry Bulk", "Tankers", "Gas & LNG", "Sale and Purchase (S&P)"]
-generated_at: "2026-10-11 21:03:31"
+generated_at: "2026-10-12 13:31:35"
 ---
 
 # Fearnleys Weekly Broker Commentary - Week 47, 2018
@@ -25,7 +25,9 @@ Institutional desk intelligence harvested directly from the Fearnleys Hasura Gra
 ### Gas Market Report
 **Date:** 2018-11-22 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
-Lack of activity and direction parallel to fear of waiting time in the West VLGC market has led to a couple of vessels being fixed in the low USD 70’s per ton. The West is still trading at a premium to the East though. - read more in the full report.
+Lack of activity and direction parallel to fear of waiting time in the West VLGC market
+has led to a couple of vessels being fixed in the low USD 70’s per ton. The West is
+still trading at a premium to the East though. - read more in the full report.
 
 ---
 

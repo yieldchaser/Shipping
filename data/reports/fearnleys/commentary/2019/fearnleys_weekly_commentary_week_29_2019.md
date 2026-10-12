@@ -6,7 +6,7 @@ week: 29
 date_range: "2019-07-17 to 2019-07-17"
 comments_count: 13
 sectors: ["Dry Bulk", "Tankers", "Gas & LNG", "Sale and Purchase (S&P)"]
-generated_at: "2026-10-11 21:03:32"
+generated_at: "2026-10-12 13:31:36"
 ---
 
 # Fearnleys Weekly Broker Commentary - Week 29, 2019
@@ -84,21 +84,34 @@ The Aframax market in the North Sea and Baltic has continued to move sideways th
 ### LNG Market Report
 **Date:** 2019-07-17 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
-The softening trend of recent weeks seems to be bottoming out. LNG price environment remains low, particularly JKM when compared with the 10’s seen this time last year. The spot arbitrage between European reloads and North East Asian has widened this week showing glimmers of light, yet insufficient to buck the general trend seen this year and leaving traders little margin to accommodate the demands of the recent freight levels. Looking to the East, the past week has seen a notable pick-up in activity on the spot and while the shipping market is generally bullish as shipowners look towards the winter, it is not far-fetched to suggest that the weak prompt that has been threatening to continue throughout Q3 may be coming to an end.   Tonnage for winter coverage remains the priority for many traders and portfolio players alike. The recent string of multi-months fixtures may have contributed to the recent heightened bull run which drove rates up to levels typically seen in winter months. These are fixtures meant primarily for winter cargoes and access to worldwide flexibility, suggesting that the charter rate increases are more sentiment driven rather than reflecting actual fundamentals. All eyes will be on the actual gas demand from the North East Asian importers as we inch further into Q3 which could certainly drive freight costs beyond levels the market has seen this year.
+The softening trend of recent weeks seems to be bottoming out. LNG price environment remains low, particularly JKM when compared with the 10’s seen this time last year. The spot arbitrage between European reloads and North East Asian has widened this week showing glimmers of light, yet insufficient to buck the general trend seen this year and leaving traders little margin to accommodate the demands of the recent freight levels. Looking to the East, the past week has seen a notable pick-up in activity on the spot and while the shipping market is generally bullish as shipowners look towards the winter, it is not far-fetched to suggest that the weak prompt that has been threatening to continue throughout Q3 may be coming to an end. 
+
+Tonnage for winter coverage remains the priority for many traders and portfolio players alike. The recent string of multi-months fixtures may have contributed to the recent heightened bull run which drove rates up to levels typically seen in winter months. These are fixtures meant primarily for winter cargoes and access to worldwide flexibility, suggesting that the charter rate increases are more sentiment driven rather than reflecting actual fundamentals. All eyes will be on the actual gas demand from the North East Asian importers as we inch further into Q3 which could certainly drive freight costs beyond levels the market has seen this year.
 
 ---
 
 ### Gas Market Weekly Comment - Eastern Market
 **Date:** 2019-07-17 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
-MEG: Saudi Aramco released their August acceptances with several equal ratio cargoes for early month lifting while the predominant heavy Propane at end month. KPC is reported to have awarded their 13/14th August FOB sale tender at August CP minus mid/high teens.  FOB values have now been under pressure for a while with freight standing firm and stagnant demand from end user Buyers.  However, with contango into forward market and possibly less supply from Iran, we believe the situation might improve.  At time of writing, August CP is traded at $3. Contango into Sep has narrowed but still maintained at $3, compared to last week’s $7-9.    FAR EAST:  The market is recovering from the quietness of last week with a handful of deals concluded, off window mainly. Full cargo Propane for 2h Aug delivery is reported to have been traded at FEI minus low teens, while half cargo at minus high single to $10. 23k propane for 1h Sep delivery is reported to have done at FEI minus $5.5. With front length being almost absorbed, this has enhanced the discussing levels gradually.  Nevertheless, the FEI discount levels may stay for the time being with continued abundant arb tons from US and still limited outlets.  For Non-Us cargo, one E.China PDH Buyer have tendered to buy 2h August Propane, result is yet to be known. A few other Chinese petchem users are also looking for Propane for similar arrival period. One Chinese traditional domestic importer is currently inquiring for an equal ratio cargo with 2h August delivery. In addition, one SEA importer explores for heavy Butane or half cargo butane for 2h August delivery.  FPC awarded their term tender for one full cargo Propane per month from Oct 2019 to Sep 2020 at MOPJ minus about high 70’s.
+MEG:
+Saudi Aramco released their August acceptances with several equal ratio cargoes for early month lifting while the predominant heavy Propane at end month. KPC is reported to have awarded their 13/14th August FOB sale tender at August CP minus mid/high teens. 
+FOB values have now been under pressure for a while with freight standing firm and stagnant demand from end user Buyers. 
+However, with contango into forward market and possibly less supply from Iran, we believe the situation might improve. 
+At time of writing, August CP is traded at $3. Contango into Sep has narrowed but still maintained at $3, compared to last week’s $7-9. 
+
+FAR EAST: 
+The market is recovering from the quietness of last week with a handful of deals concluded, off window mainly. Full cargo Propane for 2h Aug delivery is reported to have been traded at FEI minus low teens, while half cargo at minus high single to $10. 23k propane for 1h Sep delivery is reported to have done at FEI minus $5.5. With front length being almost absorbed, this has enhanced the discussing levels gradually. 
+Nevertheless, the FEI discount levels may stay for the time being with continued abundant arb tons from US and still limited outlets. 
+For Non-Us cargo, one E.China PDH Buyer have tendered to buy 2h August Propane, result is yet to be known. A few other Chinese petchem users are also looking for Propane for similar arrival period. One Chinese traditional domestic importer is currently inquiring for an equal ratio cargo with 2h August delivery. In addition, one SEA importer explores for heavy Butane or half cargo butane for 2h August delivery. 
+FPC awarded their term tender for one full cargo Propane per month from Oct 2019 to Sep 2020 at MOPJ minus about high 70’s.
 
 ---
 
 ### Gas Market Weekly Comment - Western Market
 **Date:** 2019-07-17 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
-AMERICAS: After a 3 month run of open arbs, rising freights,  and a general good feeling, the window  has been slammed shut. For the second week in a row, the inventories in the US showed a much smaller build than the industry had expected. A week ago the US showed a small draw and this week the inventories showed a small build of 500,000 barrels. This has occurred at a time when most were expecting builds in the magnitude of around 2 million barrels a week,  and combined with these expectations,  the US market has firmed considerably. We are still believers in the  growing US production and nececessity to export,  but afor now  traders have become much more skeptical and th netbacks have fallen back to cancellation levels.
+AMERICAS:
+After a 3 month run of open arbs, rising freights,  and a general good feeling, the window  has been slammed shut. For the second week in a row, the inventories in the US showed a much smaller build than the industry had expected. A week ago the US showed a small draw and this week the inventories showed a small build of 500,000 barrels. This has occurred at a time when most were expecting builds in the magnitude of around 2 million barrels a week,  and combined with these expectations,  the US market has firmed considerably. We are still believers in the  growing US production and nececessity to export,  but afor now  traders have become much more skeptical and th netbacks have fallen back to cancellation levels.
 
 ---
 
@@ -106,6 +119,10 @@ AMERICAS: After a 3 month run of open arbs, rising freights,  and a general good
 ### Chartering Weekly Comment
 **Date:** 2019-07-17 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
-EAST We saw increased activity on shipping East of Suez end of last week/beginning of this week, and all July positions have now been cleared. This stopped a falling Baltic, for now, and the freight market seems to have stabilized itself again in the East. Aramco acceptance dates for August were announced yesterday, and market players have slowly started to move against August positions. However, we still see few traders with shipping length left for 1H August, and current fixing ideas are around mid/high USD 70s (excluding cost for awrip).   WEST A couple of fixtures were concluded towards the end of last week at sub USD 120 Houston/Chiba basis, thus resulting in a slight reduction in the number of available vessels for first half August in USG. It will be interesting to see whether this reduction in vessel availability and drop in freight level are just outliers, or if the West continues to be further discounted relative to the East in the week ahead.
+EAST
+We saw increased activity on shipping East of Suez end of last week/beginning of this week, and all July positions have now been cleared. This stopped a falling Baltic, for now, and the freight market seems to have stabilized itself again in the East. Aramco acceptance dates for August were announced yesterday, and market players have slowly started to move against August positions. However, we still see few traders with shipping length left for 1H August, and current fixing ideas are around mid/high USD 70s (excluding cost for awrip). 
+
+WEST
+A couple of fixtures were concluded towards the end of last week at sub USD 120 Houston/Chiba basis, thus resulting in a slight reduction in the number of available vessels for first half August in USG. It will be interesting to see whether this reduction in vessel availability and drop in freight level are just outliers, or if the West continues to be further discounted relative to the East in the week ahead.
 
 ---

@@ -6,7 +6,7 @@ week: 38
 date_range: "2020-09-14 to 2020-09-15"
 comments_count: 14
 sectors: ["Dry Bulk", "Tankers", "Gas & LNG", "Sale and Purchase (S&P)"]
-generated_at: "2026-10-11 21:03:33"
+generated_at: "2026-10-12 13:31:37"
 ---
 
 # Fearnleys Weekly Broker Commentary - Week 38, 2020
@@ -84,21 +84,27 @@ In the North Sea and Baltic markets there are an abundance of prompt available t
 ### LNG Market Report
 **Date:** 2020-09-15 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
-Its been a relatively quiet week in the LNG shipping markets. US cargo cancellations on the back of hurricane Laura continue to keep the spot market in check. The increase in sublet availability has put a cap on how much Owners can ask for prompt shipping opportunities in the Atlantic and at the same time uncertainty around US production puts a restriction on what such sublet vessels are able to do on periods, which may support shipping rates 4-6 weeks out. Should US production pick up quicker and earlier than anticipated, this could result in a kickstart for the LNG winter season in the Atlantic.  We have seen more activity east of Suez and vessel availability is date sensitive, but rate levels in general remain stable also there. There is limited activity at yards for many shipping segments and newbuild prices remain stable while second-hand values are soft for vintage vessels. BP’s 2020 Energy Outlook was published this week and the LNG section is worth a read.
+Its been a relatively quiet week in the LNG shipping markets. US cargo cancellations on the back of hurricane Laura continue to keep the spot market in check. The increase in sublet availability has put a cap on how much Owners can ask for prompt shipping opportunities in the Atlantic and at the same time uncertainty around US production puts a restriction on what such sublet vessels are able to do on periods, which may support shipping rates 4-6 weeks out. Should US production pick up quicker and earlier than anticipated, this could result in a kickstart for the LNG winter season in the Atlantic. 
+We have seen more activity east of Suez and vessel availability is date sensitive, but rate levels in general remain stable also there. There is limited activity at yards for many shipping segments and newbuild prices remain stable while second-hand values are soft for vintage vessels. BP’s 2020 Energy Outlook was published this week and the LNG section is worth a read.
 
 ---
 
 ### Gas Market Weekly Comment - Eastern Market
 **Date:** 2020-09-15 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
-MEG Despite the status quos of oversupply, Oct CP swap surged up surprisingly to $370 from last week’s $350, and Nov maintains at $10 contango. By the time of writing, Saudi Aramco hasn’t released its acceptance, but there is talk circulating it could have cancelled three term liftings. KPC is reported to award its 17/18th Oct lifting equal ratio cargo at Nov CP minus mid-teens level, whereas it just sold one early Oct lifting heavy butane cargo at Oct CP minus low 20s last week.     FAR EAST FAR EAST market improves this week despite that cash differentials still traded negatively on FEI basis. 23kt propane for 2h Oct delivery was traded off window at Oct FEI minus around $20, and following bids raised up to mid high teens discounts while seller asking mid low teens discounts. Comparatively, butane is still more favored in marginal regions, with one 11/11 late Oct delivery cargo was sold to Taiwan CPC at Oct CP plus mid 20s via tender reportedly. And meanwhile, IOC issued buy tender for two evenly split cargoes for 2nd and 3rd decade Nov delivery. Other than that, one heavy propane cargo for late Oct delivery was sold into China at CP minus level. Other Chinese importers appear quiet but busy with domestic distribution amidst high inventory.
+MEG
+Despite the status quos of oversupply, Oct CP swap surged up surprisingly to $370 from last week’s $350, and Nov maintains at $10 contango. By the time of writing, Saudi Aramco hasn’t released its acceptance, but there is talk circulating it could have cancelled three term liftings. KPC is reported to award its 17/18th Oct lifting equal ratio cargo at Nov CP minus mid-teens level, whereas it just sold one early Oct lifting heavy butane cargo at Oct CP minus low 20s last week.  
+
+FAR EAST
+FAR EAST market improves this week despite that cash differentials still traded negatively on FEI basis. 23kt propane for 2h Oct delivery was traded off window at Oct FEI minus around $20, and following bids raised up to mid high teens discounts while seller asking mid low teens discounts. Comparatively, butane is still more favored in marginal regions, with one 11/11 late Oct delivery cargo was sold to Taiwan CPC at Oct CP plus mid 20s via tender reportedly. And meanwhile, IOC issued buy tender for two evenly split cargoes for 2nd and 3rd decade Nov delivery. Other than that, one heavy propane cargo for late Oct delivery was sold into China at CP minus level. Other Chinese importers appear quiet but busy with domestic distribution amidst high inventory.
 
 ---
 
 ### Gas Market Weekly Comment - Western Market
 **Date:** 2020-09-15 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
-AMERICAS An unexpected draw in US inventories stymied the march towards 100 million barrels in domestic propane stocks. This draw did not affect Mt Belvieu propane’s value as a percentage WTI, which remains at 53%. The US FOB market looks poised to break out of it’s summer lull. FOB trades for October have been occurring between 4.5-5.5cpg with price difference based on preferable laycan dates, and VLGC availabilities. Expected global demand ramp up in Q4 due to winter and new PDHs coming online is imminent. The question when will this strength be seen in US FOB values, as we near working November loading cargoes?
+AMERICAS
+An unexpected draw in US inventories stymied the march towards 100 million barrels in domestic propane stocks. This draw did not affect Mt Belvieu propane’s value as a percentage WTI, which remains at 53%. The US FOB market looks poised to break out of it’s summer lull. FOB trades for October have been occurring between 4.5-5.5cpg with price difference based on preferable laycan dates, and VLGC availabilities. Expected global demand ramp up in Q4 due to winter and new PDHs coming online is imminent. The question when will this strength be seen in US FOB values, as we near working November loading cargoes?
 
 ---
 
@@ -106,13 +112,19 @@ AMERICAS An unexpected draw in US inventories stymied the march towards 100 mill
 ### SnP Weekly Comment
 **Date:** 2020-09-15 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
-Another week with no sale and purchase activity on modern tanker tonnage. Market players are too far apart, with buyers looking to do a good deal in the current subdued market and sellers holding on to their price ideas with the crazy ride the last 12 months fresh in mind. Owners of vintage units with SS/DD coming up is however easier to convince and the sale of KRITI SPIRIT (160kdwt/2000/DSME) and KRITI SFAKIA (160kdwt/2000/HHI) at region usd 14.5 mill each display that values have found a temporary floor in line with last done SONANGOL KIZOMBA (160kdwt/2001/DSME) at usd 16.5 mill one month ago.   Continued high snp activity on dry, but still primarily on older units. New sales candidates more than offset vessels being sold, especially on Supramaxes/Ultramaxes, which is putting a lid on values and could potentially result in values sliding should the expected uptick in rates in the 4th quarter not materialize.
+Another week with no sale and purchase activity on modern tanker tonnage. Market players are too far apart, with buyers looking to do a good deal in the current subdued market and sellers holding on to their price ideas with the crazy ride the last 12 months fresh in mind. Owners of vintage units with SS/DD coming up is however easier to convince and the sale of KRITI SPIRIT (160kdwt/2000/DSME) and KRITI SFAKIA (160kdwt/2000/HHI) at region usd 14.5 mill each display that values have found a temporary floor in line with last done SONANGOL KIZOMBA (160kdwt/2001/DSME) at usd 16.5 mill one month ago. 
+
+Continued high snp activity on dry, but still primarily on older units. New sales candidates more than offset vessels being sold, especially on Supramaxes/Ultramaxes, which is putting a lid on values and could potentially result in values sliding should the expected uptick in rates in the 4th quarter not materialize.
 
 ---
 
 ### Chartering Weekly Comment
 **Date:** 2020-09-15 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
-WEST The West market has been relatively uneventful this week apart from a South American oil major entering the market for a VLGC 6-10 October. Despite shipping availability being relatively scarce in the first half of October, the market remains quite resilient for the time being. Mid October onwards there are some relets appearing in the USG, which may give an impression of the market weakening. Nevertheless, the number of spot fixtures concluded thus far for the month would suggest that there are at some fifteen to twenty spot deals left to be done, that is, if comparing to the monthly average number of fixtures done so far this year.  EAST With more cargoes from the Indian majors shown to the market this week for 1st decade October loading, we have also started to see other trading companies looking at freight in the Middle East. A couple of ships were booked last night in the USD mid 50 Baltic range, and there are still 2 uncovered Indian cargoes which are being worked today. We are still also waiting for the announcement of Saudi acceptances which could possibly create further shipping requirements. In the meantime there are 3-4 trader relets available for the current fixing window, and together with the open ships from the main owners freight is looking fairly balanced at the moment (unless we see a sudden additional demand for shipping post Saudi acceptances).
+WEST
+The West market has been relatively uneventful this week apart from a South American oil major entering the market for a VLGC 6-10 October. Despite shipping availability being relatively scarce in the first half of October, the market remains quite resilient for the time being. Mid October onwards there are some relets appearing in the USG, which may give an impression of the market weakening. Nevertheless, the number of spot fixtures concluded thus far for the month would suggest that there are at some fifteen to twenty spot deals left to be done, that is, if comparing to the monthly average number of fixtures done so far this year.
+
+EAST
+With more cargoes from the Indian majors shown to the market this week for 1st decade October loading, we have also started to see other trading companies looking at freight in the Middle East. A couple of ships were booked last night in the USD mid 50 Baltic range, and there are still 2 uncovered Indian cargoes which are being worked today. We are still also waiting for the announcement of Saudi acceptances which could possibly create further shipping requirements. In the meantime there are 3-4 trader relets available for the current fixing window, and together with the open ships from the main owners freight is looking fairly balanced at the moment (unless we see a sudden additional demand for shipping post Saudi acceptances).
 
 ---

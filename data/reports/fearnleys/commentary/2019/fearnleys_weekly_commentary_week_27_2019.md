@@ -6,7 +6,7 @@ week: 27
 date_range: "2019-07-01 to 2019-07-03"
 comments_count: 13
 sectors: ["Dry Bulk", "Tankers", "Gas & LNG", "Sale and Purchase (S&P)"]
-generated_at: "2026-10-11 21:03:32"
+generated_at: "2026-10-12 13:31:36"
 ---
 
 # Fearnleys Weekly Broker Commentary - Week 27, 2019
@@ -84,14 +84,29 @@ Another week has passed by in the Aframax segment with the North Sea and Baltic 
 ### LNG Market Report
 **Date:** 2019-07-03 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
-The LNG shipping market continues to pull owners in different directions, with the soft cargo market weighing on prompt business while a flurry of term requirements maintain longer-term confidence. The week began with a slight upturn in Asia spot pricing and the prospect of an inter-basin arbitrage, but such hopes were short-lived and had little impact on shipping before margins narrowed again – prompt availability persists and may creep steadily higher over the coming month as current charters end and more sublets appear. It’s a different story on multi-year business, with several majors and portfolio players coming out for tonnage from next year leading to a surge of activity, and sentiment remains firm. Between prompt pessimism and longer-term optimism, owners and charterers face some interesting decisions over their winter strategies.   Newbuild prices remain unchanged and no further reports of any new orders this week.
+The LNG shipping market continues to pull owners in different directions, with the soft cargo market weighing on prompt business while a flurry of term requirements maintain longer-term confidence. The week began with a slight upturn in Asia spot pricing and the prospect of an inter-basin arbitrage, but such hopes were short-lived and had little impact on shipping before margins narrowed again – prompt availability persists and may creep steadily higher over the coming month as current charters end and more sublets appear. It’s a different story on multi-year business, with several majors and portfolio players coming out for tonnage from next year leading to a surge of activity, and sentiment remains firm. Between prompt pessimism and longer-term optimism, owners and charterers face some interesting decisions over their winter strategies. 
+
+Newbuild prices remain unchanged and no further reports of any new orders this week.
 
 ---
 
 ### Gas Market Weekly Comment - Eastern Market
 **Date:** 2019-07-03 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
-MEG: As far as deals are concerned, it has been a quiet week in the MEG. The big news was the announcement of the Saudi Aramco Contract Price for July of USD 375/MT for Propane and USD 355/MT for the Butane. The Yanbu discount was set at USD 13 pmt, reflecting the strong VLGC freight market. Forward numbers have been dropping throughout the week, with a small rise at the end of the week, basically shadowing the Crude futures. Most MEG based producers have additional cargoes for sale, with 2 of them having floated sales tenders. One being 3 x 22+22 kt loading 30-31 July, 25-26 Aug and 15-19 Sept, respectively. The other being for 45 kt c3 loading 31 July/02 Aug. It will be interesting to the outcome of these. In addition, India based importers are trying to delay their contractual MEG FOB volumes, because of the slowing down of import requirements.   FAR EAST: It is not, nor has it been a busy week in the Eastern CFR markets. With the HK LPG conference having completed last week, there was hopes for an active return but this was quickly squashed. The petchem demand is very low with cracker turnarounds in August, so no reprieve from that side. The prices in the East continue to be under pressure, which will likely continue with Indian slowdowns, excess MEG supply and US origin cargoes still arriving at pace. Strong VLGC freight’s doesn’t make life easier for Sellers or Buyers and the tariff’s just continue the inefficiencies. Propane still enjoy strong demand from PDH operators, which is expected to continue for the near term, at least.
+MEG:
+As far as deals are concerned, it has been a quiet week in the MEG.
+The big news was the announcement of the Saudi Aramco Contract Price for July of USD 375/MT for Propane and USD 355/MT for the Butane. The Yanbu discount was set at USD 13 pmt, reflecting the strong VLGC freight market.
+Forward numbers have been dropping throughout the week, with a small rise at the end of the week, basically shadowing the Crude futures.
+Most MEG based producers have additional cargoes for sale, with 2 of them having floated sales tenders. One being 3 x 22+22 kt loading 30-31 July, 25-26 Aug and 15-19 Sept, respectively. The other being for 45 kt c3 loading 31 July/02 Aug. It will be interesting to the outcome of these.
+In addition, India based importers are trying to delay their contractual MEG FOB volumes, because of the slowing down of import requirements. 
+
+FAR EAST:
+It is not, nor has it been a busy week in the Eastern CFR markets.
+With the HK LPG conference having completed last week, there was hopes for an active return but this was quickly squashed.
+The petchem demand is very low with cracker turnarounds in August, so no reprieve from that side.
+The prices in the East continue to be under pressure, which will likely continue with Indian slowdowns, excess MEG supply and US origin cargoes still arriving at pace.
+Strong VLGC freight’s doesn’t make life easier for Sellers or Buyers and the tariff’s just continue the inefficiencies.
+Propane still enjoy strong demand from PDH operators, which is expected to continue for the near term, at least.
 
 ---
 
@@ -106,6 +121,10 @@ The 4th of July traditionally marks the middle of the summer and the market seem
 ### Chartering Weekly Comment
 **Date:** 2019-07-01 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
-A few deals for end July have been concluded in the West at rates around USD 120 per ton Houston/Chiba basis. Early August is starting to see some vessel requirements and we expect more to surface in the near future. Vessel availability is largely in control of the three biggest owners, however, a couple of re-lets are starting to appear. Nevertheless, we don't think the market will see an imminent big drop in the short term. East of Suez Shipping has come back to life again, with all participants from last week Hong Kong LPG conference now back in their respective offices.  We have seen a handful of deals concluded so far this week, both to Indian Majors and Western traders, and last done now in the high USD 70's pmt excluding awrip.  Going forward we are waiting for pending acceptance dates from Middle Eastern suppliers in August, but we also expect to see few more requirements for July before we close the month.
+A few deals for end July have been concluded in the West at rates around USD 120 per ton Houston/Chiba basis. Early August is starting to see some vessel requirements and we expect more to surface in the near future.
+Vessel availability is largely in control of the three biggest owners, however, a couple of re-lets are starting to appear. Nevertheless, we don't think the market will see an imminent big drop in the short term.
+East of Suez Shipping has come back to life again, with all participants from last week Hong Kong LPG conference now back in their respective offices. 
+We have seen a handful of deals concluded so far this week, both to Indian Majors and Western traders, and last done now in the high USD 70's pmt excluding awrip. 
+Going forward we are waiting for pending acceptance dates from Middle Eastern suppliers in August, but we also expect to see few more requirements for July before we close the month.
 
 ---

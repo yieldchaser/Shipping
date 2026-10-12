@@ -6,7 +6,7 @@ week: 11
 date_range: "2020-03-10 to 2020-03-12"
 comments_count: 14
 sectors: ["Dry Bulk", "Tankers", "Gas & LNG", "Sale and Purchase (S&P)"]
-generated_at: "2026-10-11 21:03:32"
+generated_at: "2026-10-12 13:31:37"
 ---
 
 # Fearnleys Weekly Broker Commentary - Week 11, 2020
@@ -91,14 +91,22 @@ It has been one of the most dramatic weeks in the history of oil & gas industry,
 ### Gas Market Weekly Comment - Eastern Market
 **Date:** 2020-03-10 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
-MEG: Oil price has slashed down by over 25% in this unprecedented oil war. Swap number fluctuates in heavy decline, as April C3 CP plummeted by more than $100 at the start of this week and at the moment traded at $255. C3/C4 spread has rapidly narrowed down from previous $45 to $10, as demand mainly driven by propane for petchem especially into China. Producers are boosting their oil production, and on mid-week Saudi Aramco was reported to sell 4-5 spot cargos loading in Later Mar and April, and still have spot volume avails.  Additionally, Qatar Petroleum also issued sale tender for one 23-25 Apr loading heavy propane or equal ratio cargo.   FAR EAST:  Market is oversupplied with a handful of spot cargos available from AG out of a sudden. Cash premium came down from 20ish to teens and now bids at discounted level only to Apr FEI.  Chinese Importers very actively purchased Apr cargos, with more than 3 full propane cargos being sold from late last week and price ranging from 40 to mid-40s on Apr CP link. Since more sellers seen this week, remaining buyers lowered down or held back bids. This being said, PDHs and crackers have seen attractive margin amid lower feedstock price than before. And it might be a good timing to stockpile before entering into contango in forward months, if with storage allowance.
+MEG:
+Oil price has slashed down by over 25% in this unprecedented oil war. Swap number fluctuates in heavy decline, as April C3 CP plummeted by more than $100 at the start of this week and at the moment traded at $255. C3/C4 spread has rapidly narrowed down from previous $45 to $10, as demand mainly driven by propane for petchem especially into China.
+Producers are boosting their oil production, and on mid-week Saudi Aramco was reported to sell 4-5 spot cargos loading in Later Mar and April, and still have spot volume avails. 
+Additionally, Qatar Petroleum also issued sale tender for one 23-25 Apr loading heavy propane or equal ratio cargo. 
+
+FAR EAST: 
+Market is oversupplied with a handful of spot cargos available from AG out of a sudden. Cash premium came down from 20ish to teens and now bids at discounted level only to Apr FEI. 
+Chinese Importers very actively purchased Apr cargos, with more than 3 full propane cargos being sold from late last week and price ranging from 40 to mid-40s on Apr CP link. Since more sellers seen this week, remaining buyers lowered down or held back bids. This being said, PDHs and crackers have seen attractive margin amid lower feedstock price than before. And it might be a good timing to stockpile before entering into contango in forward months, if with storage allowance.
 
 ---
 
 ### Gas Market Weekly Comment - Western Market
 **Date:** 2020-03-10 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
-AMERICAS: Mt Belvieu propane has not been falling as fast as global propane markets, or even crude oil markets for that matter. Non-TET propane now lies at 46.8% WTI. This has closed the arbs East and West, and although freight has been coming off helping netbacks slightly , we are now in cargo cancellation territory. The 2.9 million barrel draw for the week ending March 6th was the 5th consecutive draw in inventories which is not unusual for winter however in this new era of mega production we had become used to  Winter inventory builds. With the current oil price war going on there have been worries of shrinking domestic oil and gas production through 2020. US companies already in danger to survive might be forced into bankruptcy with WTI crude in the high 20’s  and Natural Gas well below 2.00 / mcf.  Many have a view that 100 million barrels in inventories by the start of the 2020 draw season (October 1,2020) are needed to sustain new export capacity and US winter demand. These factors are lending strength to the Mt Belvieu propane market, and the question is will cancellations in April be needed to weaken Mt Belvieu and reopen the arb.
+AMERICAS:
+Mt Belvieu propane has not been falling as fast as global propane markets, or even crude oil markets for that matter. Non-TET propane now lies at 46.8% WTI. This has closed the arbs East and West, and although freight has been coming off helping netbacks slightly , we are now in cargo cancellation territory. The 2.9 million barrel draw for the week ending March 6th was the 5th consecutive draw in inventories which is not unusual for winter however in this new era of mega production we had become used to  Winter inventory builds. With the current oil price war going on there have been worries of shrinking domestic oil and gas production through 2020. US companies already in danger to survive might be forced into bankruptcy with WTI crude in the high 20’s  and Natural Gas well below 2.00 / mcf.  Many have a view that 100 million barrels in inventories by the start of the 2020 draw season (October 1,2020) are needed to sustain new export capacity and US winter demand. These factors are lending strength to the Mt Belvieu propane market, and the question is will cancellations in April be needed to weaken Mt Belvieu and reopen the arb.
 
 ---
 
@@ -106,13 +114,21 @@ AMERICAS: Mt Belvieu propane has not been falling as fast as global propane mark
 ### SnP Weekly Comment
 **Date:** 2020-03-12 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
-VLCC spot rates have reached unprecedented high levels with Suezmax and Aframax following suit.  How this will impact S&P activity is hard to predict as the COVID-19 pandemic escalates, but short term we should see renewed chase for older tankers able to give prompt delivery.   Several buyers are for instance next week inspecting the Japanese controlled VLCC YUGAWASAN built 2005 Mitsubishi which is expected to be sold soon thereafter.  Reports that the 2000 built Suezmax MOGRA is sold at Usd 17 mill certainly lend support to a robust floor for the older units.  Otherwise it’s all doom and gloom.  With the world’s fourth largest COVID-19 infection rate per capita, the Norwegian government yesterday imposed the most wide-reaching restrictions ever in peace time.  Equity markets are bracing for a severe meltdown, and in the coming weeks and month’s sentiment and macro backdrops will continue to weigh on the shipping sectors.
+VLCC spot rates have reached unprecedented high levels with Suezmax and Aframax following suit.  How this will impact S&P activity is hard to predict as the COVID-19 pandemic escalates, but short term we should see renewed chase for older tankers able to give prompt delivery.   Several buyers are for instance next week inspecting the Japanese controlled VLCC YUGAWASAN built 2005 Mitsubishi which is expected to be sold soon thereafter.  Reports that the 2000 built Suezmax MOGRA is sold at Usd 17 mill certainly lend support to a robust floor for the older units.
+
+Otherwise it’s all doom and gloom.  With the world’s fourth largest COVID-19 infection rate per capita, the Norwegian government yesterday imposed the most wide-reaching restrictions ever in peace time.  Equity markets are bracing for a severe meltdown, and in the coming weeks and month’s sentiment and macro backdrops will continue to weigh on the shipping sectors.
 
 ---
 
 ### Chartering Weekly Comment
 **Date:** 2020-03-10 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
-WEST: Following the news that the Saudis have declared an oil price war after OPEC+ discussions at the weekend deteriorated, product and paper markets were understandably extremely bearish. For VLGC shipping in the West, the consequences were not immediately clear. On one hand, rates have continued in the same downwards trajectory they’ve travelled in in previous weeks, with around USD 90 Houston/Chiba via Panama being last done. How much of this can be attributed to events in the Middle East or length in position lists is unclear. On the other, VLSFO has come off significantly and this has meant owners’ earnings have been supported.  While it may be the case that rates have come off due to length in position lists and bearish sentiment towards the arb, there are some potential bull indicators on the horizon. A number of spot cargoes in both East and West have culled some of the length on positions lists. Chinese demand ex USG is expected to pick up in April in tandem with strong PDH margins. Finally, increased US output is expected in April. These are all factors which mean the market has the potential to tighten up in weeks to come.  EAST: In the East this week, news of increased Saudi output and the resultant sale of a number of spot cargoes has meant that some trader-owned tonnage has been programmed internally, shortening some of the length in position lists. Despite this, rates have continued to remain under some pressure while the Baltic has weakened. It will be interesting to see whether China takes advantage of cheaper product and freight rates as the Chinese workforce slowly returns to work in the coming weeks.
+WEST:
+Following the news that the Saudis have declared an oil price war after OPEC+ discussions at the weekend deteriorated, product and paper markets were understandably extremely bearish. For VLGC shipping in the West, the consequences were not immediately clear. On one hand, rates have continued in the same downwards trajectory they’ve travelled in in previous weeks, with around USD 90 Houston/Chiba via Panama being last done. How much of this can be attributed to events in the Middle East or length in position lists is unclear. On the other, VLSFO has come off significantly and this has meant owners’ earnings have been supported.
+
+While it may be the case that rates have come off due to length in position lists and bearish sentiment towards the arb, there are some potential bull indicators on the horizon. A number of spot cargoes in both East and West have culled some of the length on positions lists. Chinese demand ex USG is expected to pick up in April in tandem with strong PDH margins. Finally, increased US output is expected in April. These are all factors which mean the market has the potential to tighten up in weeks to come.
+
+EAST:
+In the East this week, news of increased Saudi output and the resultant sale of a number of spot cargoes has meant that some trader-owned tonnage has been programmed internally, shortening some of the length in position lists. Despite this, rates have continued to remain under some pressure while the Baltic has weakened. It will be interesting to see whether China takes advantage of cheaper product and freight rates as the Chinese workforce slowly returns to work in the coming weeks.
 
 ---

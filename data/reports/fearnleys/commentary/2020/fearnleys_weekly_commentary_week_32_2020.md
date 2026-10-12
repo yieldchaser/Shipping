@@ -6,7 +6,7 @@ week: 32
 date_range: "2020-08-03 to 2020-08-07"
 comments_count: 14
 sectors: ["Dry Bulk", "Tankers", "Gas & LNG", "Sale and Purchase (S&P)"]
-generated_at: "2026-10-11 21:03:33"
+generated_at: "2026-10-12 13:31:37"
 ---
 
 # Fearnleys Weekly Broker Commentary - Week 32, 2020
@@ -84,21 +84,30 @@ The first half of August we have witnessed a very slow and dull Aframax market i
 ### LNG Market Report
 **Date:** 2020-08-05 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
-August is here and the ‘holiday season’ feels quite different. Uncertainty of recent months has only been exacerbated by the continued worries around a potential second wave of coronavirus in Europe and the ongoing depth and breadth of the first wave in the US and this goes to reflect why activity and winter sentiment is more muted this year compared to previous ones.    Governments and advisory firms are more openly starting to question if the recovery will be a more of a ‘U’ than the ‘V’ that was touted in earlier predictions, but no one really knows, so for the time being risk by the majority is been minimized and this leaves shipping floundering. European storage inventories act as a good indicator to the glut that is upon the industry reaching 86% capacity earlier this week compared to a 5 year average of 70%, could this trigger the need for floating storage? This week North Asia prices extended their recent rally which follow similar gains in Europe and North America, so although LNG is abundant there are improving signals ahead of winter. Availability in all basins remains sufficient yet laycans remain frustratingly distant and economically undesirable for owners sitting prompt. In short, let the holiday season pass and bring on winter.   In the new building market Shell has signed separate agreements for two LNG ships each with Knutsen LNG, Korea Line and ICBC Financial Leasing and institutional investors advised by J.P. Morgan Asset Management.
+August is here and the ‘holiday season’ feels quite different. Uncertainty of recent months has only been exacerbated by the continued worries around a potential second wave of coronavirus in Europe and the ongoing depth and breadth of the first wave in the US and this goes to reflect why activity and winter sentiment is more muted this year compared to previous ones. 
+ 
+Governments and advisory firms are more openly starting to question if the recovery will be a more of a ‘U’ than the ‘V’ that was touted in earlier predictions, but no one really knows, so for the time being risk by the majority is been minimized and this leaves shipping floundering. European storage inventories act as a good indicator to the glut that is upon the industry reaching 86% capacity earlier this week compared to a 5 year average of 70%, could this trigger the need for floating storage? This week North Asia prices extended their recent rally which follow similar gains in Europe and North America, so although LNG is abundant there are improving signals ahead of winter. Availability in all basins remains sufficient yet laycans remain frustratingly distant and economically undesirable for owners sitting prompt. In short, let the holiday season pass and bring on winter. 
+
+In the new building market Shell has signed separate agreements for two LNG ships each with Knutsen LNG, Korea Line and ICBC Financial Leasing and institutional investors advised by J.P. Morgan Asset Management.
 
 ---
 
 ### Gas Market Weekly Comment - Eastern Market
 **Date:** 2020-08-04 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
-MEG Sep Propane CP swap climbed to $367 and Butane traded at $354. With ample supply from AG and strong freight, FOB netbacks are heavily discounted. Qatar Petroleum released Sep acceptance with several advancements, as term lifters tend to nominate later liftings. And it is reported to sell one early Sep lifting full propane at CP minus 30ish. KPC issued new tender to sell one 4/5th Sep lifting evenly split cargo.   FAR EAST Full cargo propane for 1h Sep delivery was traded at small discounts to Sep CP, and similar cargo for 2h Sep delivery at Sep FEI minus mid-teens. Apart from these, market stays dull with muted buying especially for 2h Aug to 1h Sep period. A handful of unsold cargos during such delivery period might float into 2h Sep for sale. One EChina petchem player announced the mechanical completion of its 660kt/y PDH, and meanwhile it has secured 23kt propane for 1h Sep delivery at the price slightly above $360. Other Chinese importers are exploring cargos for 2h/late Sep delivery, mainly for petchem use.
+MEG
+Sep Propane CP swap climbed to $367 and Butane traded at $354. With ample supply from AG and strong freight, FOB netbacks are heavily discounted. Qatar Petroleum released Sep acceptance with several advancements, as term lifters tend to nominate later liftings. And it is reported to sell one early Sep lifting full propane at CP minus 30ish. KPC issued new tender to sell one 4/5th Sep lifting evenly split cargo. 
+
+FAR EAST
+Full cargo propane for 1h Sep delivery was traded at small discounts to Sep CP, and similar cargo for 2h Sep delivery at Sep FEI minus mid-teens. Apart from these, market stays dull with muted buying especially for 2h Aug to 1h Sep period. A handful of unsold cargos during such delivery period might float into 2h Sep for sale. One EChina petchem player announced the mechanical completion of its 660kt/y PDH, and meanwhile it has secured 23kt propane for 1h Sep delivery at the price slightly above $360. Other Chinese importers are exploring cargos for 2h/late Sep delivery, mainly for petchem use.
 
 ---
 
 ### Gas Market Weekly Comment - Western Market
 **Date:** 2020-08-04 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
-AMERICAS The EIA reported a build of 2.3 million barrels for the week ended July 31st all the while propane exports increased nearly 600,000 barrels on the week compared to last. The strong build atop robust strong exports further illustrates the sentiment that propane supply has been cut into disproportionately less than crude following the April crash. Physical Delivered cargoes in the east continue to trade at substantial discounts, effectively crushing the lst/fei netback and bolstering cancellation discussions. It has been reported that between 5-7 August, US Gulf origin FOB cargoes had been cancelled as well as  3 September cargoes.  In Latin America, a tender was issued for for 44,000 mts for delivery Sep 15-19 into Chile
+AMERICAS
+The EIA reported a build of 2.3 million barrels for the week ended July 31st all the while propane exports increased nearly 600,000 barrels on the week compared to last. The strong build atop robust strong exports further illustrates the sentiment that propane supply has been cut into disproportionately less than crude following the April crash. Physical Delivered cargoes in the east continue to trade at substantial discounts, effectively crushing the lst/fei netback and bolstering cancellation discussions. It has been reported that between 5-7 August, US Gulf origin FOB cargoes had been cancelled as well as  3 September cargoes.  In Latin America, a tender was issued for for 44,000 mts for delivery Sep 15-19 into Chile
 
 ---
 
@@ -106,13 +115,23 @@ AMERICAS The EIA reported a build of 2.3 million barrels for the week ended July
 ### SnP Weekly Comment
 **Date:** 2020-08-07 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
-The sale of fifteen year old VLCC “OTOWASAN” at Usd 26.25 mill is a reality check for vintage tankers. To compare apples with apples it should be noted that the vessel will be delivered with her third special survey due, but it’s still a far cry from the Usd 38.1 mill which Euronav achieved in April for the same age TI HELLAS with survey just passed. In a “Korea Inc” deal SK Shipping has acquired 5 brand new VLCC’s from a Korean fund with 10 year charters attached to domestic oil major GS Caltex. Suezmax “ADVANTAGE SKY” built 2010 Rongsheng was sold yesterday by online auction for Usd 25.5 mill. The vessel has been under arrest in Durban since August 2018; at the first auction in April 2020 the highest bid was Usd 18.8 mill. Crude values are softening across the board, clean values are best case moving sideways.  Euronav as always first off the block in the reporting season, its VLCC fleet averaged a stellar Usd 81500 pd in Q2 and its suezmax fleet Usd 60,000 pd.    Modern bulker sales have been few and far between YTD but this week sees the sale of two 2017 Japanese built Kamsarmax bulkcarriers at Usd 26 mill.  This underlines a firming of values – in June a 2020 Japanese newbuilding resale achieved Usd 28.5 mill.
+The sale of fifteen year old VLCC “OTOWASAN” at Usd 26.25 mill is a reality check for vintage tankers. To compare apples with apples it should be noted that the vessel will be delivered with her third special survey due, but it’s still a far cry from the Usd 38.1 mill which Euronav achieved in April for the same age TI HELLAS with survey just passed. In a “Korea Inc” deal SK Shipping has acquired 5 brand new VLCC’s from a Korean fund with 10 year charters attached to domestic oil major GS Caltex. Suezmax “ADVANTAGE SKY” built 2010 Rongsheng was sold yesterday by online auction for Usd 25.5 mill. The vessel has been under arrest in Durban since August 2018; at the first auction in April 2020 the highest bid was Usd 18.8 mill. Crude values are softening across the board, clean values are best case moving sideways.
+
+Euronav as always first off the block in the reporting season, its VLCC fleet averaged a stellar Usd 81500 pd in Q2 and its suezmax fleet Usd 60,000 pd.  
+
+Modern bulker sales have been few and far between YTD but this week sees the sale of two 2017 Japanese built Kamsarmax bulkcarriers at Usd 26 mill.  This underlines a firming of values – in June a 2020 Japanese newbuilding resale achieved Usd 28.5 mill.
 
 ---
 
 ### Chartering Weekly Comment
 **Date:** 2020-08-03 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
-WEST Activity has been limited in the US this week. Arb economics don’t seem to support current high freight levels, while some charterers still have time to decide whether or not to cancel US liftings if things don’t improve. Elsewhere, there was some noise around WAF, where one oil major had a freight requirement for early September and an FOB was tendered for sale for around the same dates. VLGC freight offers were too strong for the former, and as a result the cargo ended up being loaded onto a smaller ship.  Looking at the positions list for September in the US, the first half of the month remains tight with only a couple of ships available for the period. Further into September, the picture becomes less clear; it is still too far out to determine how owners will position their ships and whether or not more relets will emerge if any liftings are cancelled.  EAST Shipping market in the East has finally taken a breather after 2-3 weeks with lots of activity. The August program seems pretty covered for now (unless ships run late for their laycans later), and time of writing we are awaiting Adnoc and Aramco acceptances for September which will set the tone for next month. A couple of fob tenders from middle eastern suppliers in early September has created some attention from the Owners, but otherwise we expect the market to remain fairly quiet until the balance acceptances for September are announced.
+WEST
+Activity has been limited in the US this week. Arb economics don’t seem to support current high freight levels, while some charterers still have time to decide whether or not to cancel US liftings if things don’t improve. Elsewhere, there was some noise around WAF, where one oil major had a freight requirement for early September and an FOB was tendered for sale for around the same dates. VLGC freight offers were too strong for the former, and as a result the cargo ended up being loaded onto a smaller ship.
+
+Looking at the positions list for September in the US, the first half of the month remains tight with only a couple of ships available for the period. Further into September, the picture becomes less clear; it is still too far out to determine how owners will position their ships and whether or not more relets will emerge if any liftings are cancelled.
+
+EAST
+Shipping market in the East has finally taken a breather after 2-3 weeks with lots of activity. The August program seems pretty covered for now (unless ships run late for their laycans later), and time of writing we are awaiting Adnoc and Aramco acceptances for September which will set the tone for next month. A couple of fob tenders from middle eastern suppliers in early September has created some attention from the Owners, but otherwise we expect the market to remain fairly quiet until the balance acceptances for September are announced.
 
 ---

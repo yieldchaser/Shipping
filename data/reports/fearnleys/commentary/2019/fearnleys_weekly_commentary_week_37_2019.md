@@ -6,7 +6,7 @@ week: 37
 date_range: "2019-09-10 to 2019-09-11"
 comments_count: 13
 sectors: ["Dry Bulk", "Tankers", "Gas & LNG", "Sale and Purchase (S&P)"]
-generated_at: "2026-10-11 21:03:32"
+generated_at: "2026-10-12 13:31:36"
 ---
 
 # Fearnleys Weekly Broker Commentary - Week 37, 2019
@@ -91,14 +91,30 @@ As market participants prepare for Gastech in Houston next week, both LNG produc
 ### Gas Market Weekly Comment - Eastern Market
 **Date:** 2019-09-11 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
-MEG: ADNOC released their October acceptances without any major delay’s or advancements being reported, at the same time it seems they have no spot tons avails.  Qatar Petroleum reportedly to have awarded their early October lifting of a full cargo Propane at October CP minus a small discount to a Chinese Major. Following this, Qatar Petroleum issued yet another tender, this time to sell basis middle October loading a full Propane, closing Monday 16th Sept.  KPC was also reported to award their mid Oct lifting 3/1 cargo as well at some small premium to October CP, which gains value from forward month contango if delivered into Nov.   Compared to full Propane or Propane heavy cargoes, equal ratio cargoes are presently more in favor as there seems more shorts into India and Indonesia.  This week a late October lifting of 2/2 FOB was traded at October CP plus a small premium. Over the week October CP fluctuated with Crude, yet still gained the support from demand driven by the SE Asia market.  At time of writing, October CP is traded at $353 and butane at $13 higher.  November CP maintains a $3-4 contango, reflecting the anticipation of a probable tightness of Non-Us origin cargoes against a better demand in winter.    FAR EAST:  Big gap exists between bid and offer for 23/0 delivered during 1h October, with Seller’s asking Oct FEI minus $21 while Buyer’s at minus $30. This is despite a similar cargo earlier this week was traded at minus $18 off window. Buyer’s appetite is limited, seeing ample US supply and an impending expansion in LPG exports. A Seller with 2h October arrival of full cargo Propane is asking Oct FEI minus $15 but no buyer seen.  One E.China importer is reported to have awarded their buy tender for 23/0 for delivery during 2h October at October CP plus low 50s while another similar cargo was sold at mid-50s into NChina. There are still a few more Propane heavy inquiries, which value still assessed at +50ish.  Pertamina reissued buy tender for two equal-ratio cargos for early Oct and end Oct delivery respectively, the result is yet to reach the market but market players reckon that the early October delivery inquiry might not have been awarded, or the price could be higher than the perceived market level. Latest India’s IOC is reported to have awarded an equal ratio cargo for October delivery at Oct CP plus high 40s.
+MEG:
+ADNOC released their October acceptances without any major delay’s or advancements being reported, at the same time it seems they have no spot tons avails. 
+Qatar Petroleum reportedly to have awarded their early October lifting of a full cargo Propane at October CP minus a small discount to a Chinese Major. Following this, Qatar Petroleum issued yet another tender, this time to sell basis middle October loading a full Propane, closing Monday 16th Sept. 
+KPC was also reported to award their mid Oct lifting 3/1 cargo as well at some small premium to October CP, which gains value from forward month contango if delivered into Nov.  
+Compared to full Propane or Propane heavy cargoes, equal ratio cargoes are presently more in favor as there seems more shorts into India and Indonesia. 
+This week a late October lifting of 2/2 FOB was traded at October CP plus a small premium.
+Over the week October CP fluctuated with Crude, yet still gained the support from demand driven by the SE Asia market. 
+At time of writing, October CP is traded at $353 and butane at $13 higher. 
+November CP maintains a $3-4 contango, reflecting the anticipation of a probable tightness of Non-Us origin cargoes against a better demand in winter. 
+
+FAR EAST: 
+Big gap exists between bid and offer for 23/0 delivered during 1h October, with Seller’s asking Oct FEI minus $21 while Buyer’s at minus $30. This is despite a similar cargo earlier this week was traded at minus $18 off window.
+Buyer’s appetite is limited, seeing ample US supply and an impending expansion in LPG exports. A Seller with 2h October arrival of full cargo Propane is asking Oct FEI minus $15 but no buyer seen. 
+One E.China importer is reported to have awarded their buy tender for 23/0 for delivery during 2h October at October CP plus low 50s while another similar cargo was sold at mid-50s into NChina. There are still a few more Propane heavy inquiries, which value still assessed at +50ish. 
+Pertamina reissued buy tender for two equal-ratio cargos for early Oct and end Oct delivery respectively, the result is yet to reach the market but market players reckon that the early October delivery inquiry might not have been awarded, or the price could be higher than the perceived market level.
+Latest India’s IOC is reported to have awarded an equal ratio cargo for October delivery at Oct CP plus high 40s.
 
 ---
 
 ### Gas Market Weekly Comment - Western Market
 **Date:** 2019-09-11 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
-AMERICAS: The US market seems to have found its new normal. Exports are continuing at the 1 million barrel per day level and at a price range between 5.5 and 7 cpg. Domestic Propane prices seem to have settled at approximately 33 percent of WTI and until Winter demand kicks in we expect this to continue. In fact with LPG production so high some are even questioning how much cold weather can actually effect pricing this winter. Another big factor hanging over the US market is how full Asia and Europe are. This is normally a time when end users are pre buying for the Winter and adding demand to exports,  but with discounts well into the future,  this is not happening. Domestic propane inventories increased by 800,000 barrels this week, well below expectations, but putting the total number at 97.8 million barrels.
+AMERICAS:
+The US market seems to have found its new normal. Exports are continuing at the 1 million barrel per day level and at a price range between 5.5 and 7 cpg. Domestic Propane prices seem to have settled at approximately 33 percent of WTI and until Winter demand kicks in we expect this to continue. In fact with LPG production so high some are even questioning how much cold weather can actually effect pricing this winter. Another big factor hanging over the US market is how full Asia and Europe are. This is normally a time when end users are pre buying for the Winter and adding demand to exports,  but with discounts well into the future,  this is not happening. Domestic propane inventories increased by 800,000 barrels this week, well below expectations, but putting the total number at 97.8 million barrels.
 
 ---
 
@@ -106,6 +122,10 @@ AMERICAS: The US market seems to have found its new normal. Exports are continui
 ### Chartering Weekly Comment
 **Date:** 2019-09-10 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
-EAST: East market had downward pressure, mainly driven by one major shipowner’s dry dock plan, calls Scrubber retrofit. As some want to keep their vessels in East for Q4 dry dock schedule, those vessels only can do limited voyage in East. Even West market still has good premium, East shipping position shows certain length so far. However, we now see many Indian voyage liftings from September, and their new inquiry starting in October, think vessel length would digest sooner or later by Indian demand and congestion. Still we wait for Saudi acceptance, and it would be interesting point which date Saudi will give to term lifters even many nominated 2H October cargo.    WEST: In the West, there was a continuation of the same prevailing trends as last week; it was a week characterised by increasing delays in the East, and the resulting uncertainty about when ships would be able to make laycans in western load ports. Consequently, charterers seem happy to wait for clarity on timing before fixing in vessels. On the tonnage supply side, there has been an increased interest by traders in reletting their vessels, perhaps to take advantage of high western rates.
+EAST:
+East market had downward pressure, mainly driven by one major shipowner’s dry dock plan, calls Scrubber retrofit. As some want to keep their vessels in East for Q4 dry dock schedule, those vessels only can do limited voyage in East. Even West market still has good premium, East shipping position shows certain length so far. However, we now see many Indian voyage liftings from September, and their new inquiry starting in October, think vessel length would digest sooner or later by Indian demand and congestion. Still we wait for Saudi acceptance, and it would be interesting point which date Saudi will give to term lifters even many nominated 2H October cargo.  
+
+WEST:
+In the West, there was a continuation of the same prevailing trends as last week; it was a week characterised by increasing delays in the East, and the resulting uncertainty about when ships would be able to make laycans in western load ports. Consequently, charterers seem happy to wait for clarity on timing before fixing in vessels. On the tonnage supply side, there has been an increased interest by traders in reletting their vessels, perhaps to take advantage of high western rates.
 
 ---

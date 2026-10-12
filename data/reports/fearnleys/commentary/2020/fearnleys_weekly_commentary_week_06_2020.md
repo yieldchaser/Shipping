@@ -6,7 +6,7 @@ week: 6
 date_range: "2020-02-03 to 2020-02-05"
 comments_count: 14
 sectors: ["Dry Bulk", "Tankers", "Gas & LNG", "Sale and Purchase (S&P)"]
-generated_at: "2026-10-11 21:03:32"
+generated_at: "2026-10-12 13:31:36"
 ---
 
 # Fearnleys Weekly Broker Commentary - Week 06, 2020
@@ -91,14 +91,16 @@ The past week has been subdued for LNGCs as they follow the wider energy markets
 ### Gas Market Weekly Comment - Eastern Market
 **Date:** 2020-02-05 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
-ASIA The big question this week is how the Coronavirus will effect the Chinese markets. Will an economic slowdown  reduce the Petchem cracking, PDH runs,  thus crashing demand or will the reduction of crude runs reduce the domestic LPG production and thus increase imports. We have seen an LNG cargo force majeured this week and there is serious concern this may happen with LPG cargos. If the Chinese markets are unable/unwilling to import LPG from the Middle East and the US, the outcome will be dire.
+ASIA
+The big question this week is how the Coronavirus will effect the Chinese markets. Will an economic slowdown  reduce the Petchem cracking, PDH runs,  thus crashing demand or will the reduction of crude runs reduce the domestic LPG production and thus increase imports. We have seen an LNG cargo force majeured this week and there is serious concern this may happen with LPG cargos. If the Chinese markets are unable/unwilling to import LPG from the Middle East and the US, the outcome will be dire.
 
 ---
 
 ### Gas Market Weekly Comment - Western Market
 **Date:** 2020-02-05 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
-AMERICAS: Crazy times in the US markets with the FOB netbacks in great flux. In early Jan FOBs were netting back to multi year highs with deals being done in the low 30 cent per gallon range. At the beginning of this week, with fear gripping the markets over the coronavirus,  values had dropped all the way back to mid-single digits and there was even talk of cargo cancelations. Today the market seems to have settled around the 8 -10 cpg range for FOB cargos,  although fear and caution are still in charge.  Weekly Propane inventories increased by 600,000 barrels and are at nationwide levels normally formerly only seen during the summer months. Going forward we expect slow going until more certainty over China becomes clear.
+AMERICAS:
+Crazy times in the US markets with the FOB netbacks in great flux. In early Jan FOBs were netting back to multi year highs with deals being done in the low 30 cent per gallon range. At the beginning of this week, with fear gripping the markets over the coronavirus,  values had dropped all the way back to mid-single digits and there was even talk of cargo cancelations. Today the market seems to have settled around the 8 -10 cpg range for FOB cargos,  although fear and caution are still in charge.  Weekly Propane inventories increased by 600,000 barrels and are at nationwide levels normally formerly only seen during the summer months. Going forward we expect slow going until more certainty over China becomes clear.
 
 ---
 
@@ -106,13 +108,23 @@ AMERICAS: Crazy times in the US markets with the FOB netbacks in great flux. In 
 ### SnP Weekly Comment
 **Date:** 2020-02-04 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
-Shipping markets continue to feel the impact of the corona virus crisis with uncertainty as to how long China will take to return to normal trading activities. The country's coal consumption of major coastal power groups has fallen to a record low as industrial activity is heavily disrupted by various shutdowns taking place.  We are in uncharted territory as the outbreak develops and sellers face an uneven playing field with some recently reported deals failing to materialize; the 2011 DSME built Kamsarmax SUNNY YOUNG is for instance again for sale and a number of transactions being stalled.  However the underlying dry demand is strong and many buyers are positioning themselves for potential future acquisitions in hope to land the right deal.  Several inspections are taking place in the tanker sector, albeit with few tangible deals to report except for older tonnage which continues to attract buyers in line with recently concluded levels.
+Shipping markets continue to feel the impact of the corona virus crisis with uncertainty as to how long China will take to return to normal trading activities. The country's coal consumption of major coastal power groups has fallen to a record low as industrial activity is heavily disrupted by various shutdowns taking place.  We are in uncharted territory as the outbreak develops and sellers face an uneven playing field with some recently reported deals failing to materialize; the 2011 DSME built Kamsarmax SUNNY YOUNG is for instance again for sale and a number of transactions being stalled.  However the underlying dry demand is strong and many buyers are positioning themselves for potential future acquisitions in hope to land the right deal.
+
+Several inspections are taking place in the tanker sector, albeit with few tangible deals to report except for older tonnage which continues to attract buyers in line with recently concluded levels.
 
 ---
 
 ### Chartering Weekly Comment
 **Date:** 2020-02-05 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
-WEST ‘Volatile’ is maybe the most suitable word to summarise this week, as oil and gas product markets crashed with the global spread of novel Corona Virus and the essential shutdown of the world's second largest economy. This meant that the cost of freight quickly became a much more significant consideration in trading decisions. At the same time, there were a decent number of possible candidates on position lists and a limited amount of freight inquiries for much of the week. Consequently, it seemed that freight might come off sharply.   However, owners have dug their heels in and are maintaining asking for rates in the mid-high 120s Houston/Chiba range for 1H March laycans. This has been supported by the very recent uptick in product markets and a stronger arb, with Brent crude stronger by nearly 3% on the day at time of writing.   In the near term, the direction of rates moving will ultimately depend on whether the product market recovers further or retreats again. Beyond that, however, there are a number of variables which could bring about bullish movement; between potential fog in the USGC, free pratique requirements in SEA and a possible backlog in Chinese drydocks as a consequence of the Corona Virus, only time will tell which way rates will go.    EAST In the East it has been a relatively quiet week. The Baltic has come off as a result of tonnage (both trader-owned and otherwise) which is still open for the prompt month, as well as subdued activity while some await Saudi and ADNOC acceptances before judging what their position on freight is. There remain a number of possible cheaper trader relets on position lists, and it would not be unreasonable to think that this could maintain pressure on rates over the course of the next few fixtures.
+WEST
+‘Volatile’ is maybe the most suitable word to summarise this week, as oil and gas product markets crashed with the global spread of novel Corona Virus and the essential shutdown of the world's second largest economy. This meant that the cost of freight quickly became a much more significant consideration in trading decisions. At the same time, there were a decent number of possible candidates on position lists and a limited amount of freight inquiries for much of the week. Consequently, it seemed that freight might come off sharply. 
+
+However, owners have dug their heels in and are maintaining asking for rates in the mid-high 120s Houston/Chiba range for 1H March laycans. This has been supported by the very recent uptick in product markets and a stronger arb, with Brent crude stronger by nearly 3% on the day at time of writing. 
+
+In the near term, the direction of rates moving will ultimately depend on whether the product market recovers further or retreats again. Beyond that, however, there are a number of variables which could bring about bullish movement; between potential fog in the USGC, free pratique requirements in SEA and a possible backlog in Chinese drydocks as a consequence of the Corona Virus, only time will tell which way rates will go.  
+
+EAST
+In the East it has been a relatively quiet week. The Baltic has come off as a result of tonnage (both trader-owned and otherwise) which is still open for the prompt month, as well as subdued activity while some await Saudi and ADNOC acceptances before judging what their position on freight is. There remain a number of possible cheaper trader relets on position lists, and it would not be unreasonable to think that this could maintain pressure on rates over the course of the next few fixtures.
 
 ---

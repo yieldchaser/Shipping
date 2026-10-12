@@ -6,7 +6,7 @@ week: 5
 date_range: "2026-01-28 to 2026-01-30"
 comments_count: 10
 sectors: ["Dry Bulk", "Tankers", "Gas & LNG", "Sale and Purchase (S&P)"]
-generated_at: "2026-10-11 21:03:39"
+generated_at: "2026-10-12 13:31:43"
 ---
 
 # Fearnleys Weekly Broker Commentary - Week 05, 2026
@@ -55,7 +55,11 @@ Surface activity in West Africa remains limited, however, the USG continues to p
 ### Aframax Weekly Comment
 **Date:** 2026-01-28 | **Subtype:** Tank Weekly Comment | **Desk:** Fearnleys Research
 
-North Sea The weather coming through the Continent has caused significant delays for vessels over the last week disrupting itineraries. Vessels have continued to head out of the area to take advantage of very firm markets both in US and Mediterranean which along with weather delays has reduced the available tonnage. With a few replacement cargoes off relatively prompt dates freight levels has firmed seeing around WS 70 points increase. The first decade of February stems are a little light month on month and with the weather hopefully passing through market should start to at least steady with a softer sentiment for the next natural window.  Mediterranean Weather continues to be poor across the Mediterranean and Portugal-North Spain range delaying vessels in loading or discharging but still with some safe positions to choose from sentiment is a little softer. Market has had an initial test on a cargo with many offers but owners didn't back down. Market is still not to be underestimated while other regions are still holding strong as well.
+North Sea
+The weather coming through the Continent has caused significant delays for vessels over the last week disrupting itineraries. Vessels have continued to head out of the area to take advantage of very firm markets both in US and Mediterranean which along with weather delays has reduced the available tonnage. With a few replacement cargoes off relatively prompt dates freight levels has firmed seeing around WS 70 points increase. The first decade of February stems are a little light month on month and with the weather hopefully passing through market should start to at least steady with a softer sentiment for the next natural window.
+
+Mediterranean
+Weather continues to be poor across the Mediterranean and Portugal-North Spain range delaying vessels in loading or discharging but still with some safe positions to choose from sentiment is a little softer. Market has had an initial test on a cargo with many offers but owners didn't back down. Market is still not to be underestimated while other regions are still holding strong as well.
 
 ---
 
@@ -70,7 +74,11 @@ Last week we wrote of plummeting rates in the Atlantic, and this week we write o
 ### Gas Market Weekly Comment - Eastern Market
 **Date:** 2026-01-29 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
-Saudi Aramco announced Feb CP at $545 for C3 and $540 for C4, up by $20 respectively, reflecting the earlier tightness on Feb FOBs supply. However, spot differentials for Mar lifting FOBs declined sharply with expectations of increasing US 2/2 arriving in Mar. Mar lifting 2/2 was reported traded at low mid-single digit discount to Mar CP. Qatar Energy was reported to have awarded their sale tender for a 22-27 Feb lifting 2/2. By the time of writing, Mar CP was traded at $536 for C3, and $523 for C4.   ARB from US to FAR EAST remains firm this week, supported by strong front market against supply disruptions caused by previous delays, coupled with strong crude price. Feb LST/FEI widened to -$220 and Mar at -$180ish. This being said, Feb activities remained thin amid limited spot availability, and 4/0 for mid Mar lifting was reported being changed hand at 8cpg. U.S. propane/propylene stocks declined by 4.7 million bbl to 89 million bbl on the week ended January 23, leaving inventory 34% higher on YOY basis.   Cash premium for Mar delivery plunged this week by nearly $20-30, indicating an easing in supply tightness, especially for 2h Mar arrival. On Thurs window, 23/0 parcel for 1h Mar delivery basis Chiba was bid at Mar FEI plus $37, while 4/0 parcel basis Yantai for 2h Mar delivery was traded at Feb Fei plus $9, equates to Mar FEI plus $36. Outside window, 23/0 parcels for 2h Mar delivery basis Chiba were reported traded at Feb FEI plus $2-3. Meanwhile, several 4/0 parcels for 1h to mid Mar delivery were placed into China, with price being concluded at Feb FEI plus mid high single digit or Mar FEI plus mid high 30s. Other than normal cargos, two Iranian cargos of heavy propane ratio for 2h Feb delivery are being offered via tender, which will close by this Sunday reportedly.
+Saudi Aramco announced Feb CP at $545 for C3 and $540 for C4, up by $20 respectively, reflecting the earlier tightness on Feb FOBs supply. However, spot differentials for Mar lifting FOBs declined sharply with expectations of increasing US 2/2 arriving in Mar. Mar lifting 2/2 was reported traded at low mid-single digit discount to Mar CP. Qatar Energy was reported to have awarded their sale tender for a 22-27 Feb lifting 2/2. By the time of writing, Mar CP was traded at $536 for C3, and $523 for C4. 
+
+ARB from US to FAR EAST remains firm this week, supported by strong front market against supply disruptions caused by previous delays, coupled with strong crude price. Feb LST/FEI widened to -$220 and Mar at -$180ish. This being said, Feb activities remained thin amid limited spot availability, and 4/0 for mid Mar lifting was reported being changed hand at 8cpg. U.S. propane/propylene stocks declined by 4.7 million bbl to 89 million bbl on the week ended January 23, leaving inventory 34% higher on YOY basis. 
+
+Cash premium for Mar delivery plunged this week by nearly $20-30, indicating an easing in supply tightness, especially for 2h Mar arrival. On Thurs window, 23/0 parcel for 1h Mar delivery basis Chiba was bid at Mar FEI plus $37, while 4/0 parcel basis Yantai for 2h Mar delivery was traded at Feb Fei plus $9, equates to Mar FEI plus $36. Outside window, 23/0 parcels for 2h Mar delivery basis Chiba were reported traded at Feb FEI plus $2-3. Meanwhile, several 4/0 parcels for 1h to mid Mar delivery were placed into China, with price being concluded at Feb FEI plus mid high single digit or Mar FEI plus mid high 30s. Other than normal cargos, two Iranian cargos of heavy propane ratio for 2h Feb delivery are being offered via tender, which will close by this Sunday reportedly.
 
 ---
 
@@ -78,13 +86,19 @@ Saudi Aramco announced Feb CP at $545 for C3 and $540 for C4, up by $20 respecti
 ### SnP Weekly Comment
 **Date:** 2026-01-30 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
-Despite crude tankers dominating tanker activity since the start of the year, this week as seen a flurry transactions in the product space with eight MR units changing hands. The chinese controlled resale LIANYUNGANG WUZHOU WZ465 (49k DWT 2026) was sold for USD 45M, in line with the last comparable transaction concluded in November 2025, despite it offering a prompter delivery. Notably, SEAWAYS MADELEINE/GRACE (49k DWT HMD 2008) were sold en bloc at USD 16.8M each, compared to same-age sisters from the same owners that achieved USD 16.2M in December 2025. This suggest heighten price volatility for older units, while modern tonnage remains more stable. Elsewhere, ARISTARCHOS (79k DWT Onomichi 2017) was sold for USD 44M, establishing a welcome new benchmark in an otherwise illiquid segment.   Dry bulk asset values continue to remain stable this week, with underlying chartering market  proving to be resilient throughout the start of this year. Stealing the headlines this week was Spar’s acquisition of NANTONG XIANGYU XY149/XY150 (63k DWT 2026), purchased en bloc for USD 72m.
+Despite crude tankers dominating tanker activity since the start of the year, this week as seen a flurry transactions in the product space with eight MR units changing hands. The chinese controlled resale LIANYUNGANG WUZHOU WZ465 (49k DWT 2026) was sold for USD 45M, in line with the last comparable transaction concluded in November 2025, despite it offering a prompter delivery. Notably, SEAWAYS MADELEINE/GRACE (49k DWT HMD 2008) were sold en bloc at USD 16.8M each, compared to same-age sisters from the same owners that achieved USD 16.2M in December 2025. This suggest heighten price volatility for older units, while modern tonnage remains more stable. Elsewhere, ARISTARCHOS (79k DWT Onomichi 2017) was sold for USD 44M, establishing a welcome new benchmark in an otherwise illiquid segment.
+ 
+Dry bulk asset values continue to remain stable this week, with underlying chartering market  proving to be resilient throughout the start of this year. Stealing the headlines this week was Spar’s acquisition of NANTONG XIANGYU XY149/XY150 (63k DWT 2026), purchased en bloc for USD 72m.
 
 ---
 
 ### Chartering Weekly Comment
 **Date:** 2026-01-29 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
-EAST Despite most of the action taking place in the USG and less so in the Middle East Gulf - Owners' freight ideas have been coming up the past couple of days also in the East. We are currently looking at mid month laycans, fitting for ships which also in theory could be in the USG from early March onwards depending on routing. As long as earnings remain strong in the West, freight in the East looks set to continue firming in order to be able to attract ships to the area.  WEST This week opened much the same way last week ended: with 6-7 open February positions and very few cargoes circulating in the market. Cold weather across the US and reports of cargo delays added another layer of uncertainty. However, activity picked up sharply as both last‑decade February and first‑decade March fixing gained momentum. Over the past 72 hours, a flurry of 15-16 cargoes have been concluded, with freight levels ranging from the mid‑USD 120s to mid USD 150s pmt H/C v PC. At the time of writing, sentiment is firming and the market is busy. February positions are now close to being fully absorbed, and coverage for the first half of March is close to complete.
+EAST
+Despite most of the action taking place in the USG and less so in the Middle East Gulf - Owners' freight ideas have been coming up the past couple of days also in the East. We are currently looking at mid month laycans, fitting for ships which also in theory could be in the USG from early March onwards depending on routing. As long as earnings remain strong in the West, freight in the East looks set to continue firming in order to be able to attract ships to the area.
+
+WEST
+This week opened much the same way last week ended: with 6-7 open February positions and very few cargoes circulating in the market. Cold weather across the US and reports of cargo delays added another layer of uncertainty. However, activity picked up sharply as both last‑decade February and first‑decade March fixing gained momentum. Over the past 72 hours, a flurry of 15-16 cargoes have been concluded, with freight levels ranging from the mid‑USD 120s to mid USD 150s pmt H/C v PC. At the time of writing, sentiment is firming and the market is busy. February positions are now close to being fully absorbed, and coverage for the first half of March is close to complete.
 
 ---

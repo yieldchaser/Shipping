@@ -6,7 +6,7 @@ week: 24
 date_range: "2019-06-10 to 2019-06-13"
 comments_count: 17
 sectors: ["Dry Bulk", "Tankers", "Gas & LNG", "Sale and Purchase (S&P)"]
-generated_at: "2026-10-11 21:03:31"
+generated_at: "2026-10-12 13:31:36"
 ---
 
 # Fearnleys Weekly Broker Commentary - Week 24, 2019
@@ -84,14 +84,28 @@ We have seen a rather quiet week pass in the North Sea and Baltic region in the 
 ### LNG Market Report
 **Date:** 2019-06-12 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
-Summer months are upon us, traditionally a period where incremental demand for LNG depends bit more on how hot the weather is. Far East DES prices remain low, at around $4 per mmbtu, hardly a conducive environment for spot trading. During last weeks, demand pattern and shorter trades led to increased availability of sublet vessels from various projects, importers and exporters alike. Hence, the recent firming charter rate in both basins came to a halt. This should all be temporary as the market is expected to firm again as we start working the more autumn dated cargoes leading up to winter.   On the newbuilding side, Maran Gas Maritime hit the headlines yet again with another LNG vessel order at DSME for delivery within the first half of 2022. Samsung Heavy Industries also announced last Friday that they secured another two orders for LNG vessels, to be delivered in 2022.
+Summer months are upon us, traditionally a period where incremental demand for LNG depends bit more on how hot the weather is. Far East DES prices remain low, at around $4 per mmbtu, hardly a conducive environment for spot trading. During last weeks, demand pattern and shorter trades led to increased availability of sublet vessels from various projects, importers and exporters alike. Hence, the recent firming charter rate in both basins came to a halt. This should all be temporary as the market is expected to firm again as we start working the more autumn dated cargoes leading up to winter.
+ 
+On the newbuilding side, Maran Gas Maritime hit the headlines yet again with another LNG vessel order at DSME for delivery within the first half of 2022. Samsung Heavy Industries also announced last Friday that they secured another two orders for LNG vessels, to be delivered in 2022.
 
 ---
 
 ### Gas Market Weekly Comment - Eastern Market
 **Date:** 2019-06-12 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
-MEG: After the large price falls throughout this week, Crude rebounded on Thursday afternoon, trickered by the two tanker explosions in the Gulf of Oman.  Following this, LPG Propane prices rose to $348, reviving a bit from overnight’s slide to below $340.  Butane maintains a discount of about $20 against Propane, which is (still) unusual for a typical summer season. This is a testament to the fact that Butane’s length from producers continue.  With ample supply from Middle East and sluggish demand from end users, July CP is still under pressure. Add to this the seemingly ever increasing freight rates, this has killed many buyers’ appetite, mid-teens discounts appear insufficient to trigger speculative trades as well.  Adnoc released their July acceptances with some liftings being advanced. Qatar Petroleum issued a sales tender for 7-9th July lifting on full propane cargo basis. Saudi Aramco is reported to still have a late June 2/2 cargo available for sale.    FAR EAST: Quiet week with only a few physical deals being concluded this week.  Off window a 23kt Propane cargo for 2h July delivery changed hands at July FEI plus $6-$8, which equates to July CP plus mid high 30s.  Non-US origin equal ratio cargoes are assessed at a similar value, while Propane is still at a premium of plus 50s level, this mainly driven by PDH demand which still enjoy substantial profit margins in an otherwise sluggish market.  The forward traded market into August is currently at a slight backwardation, as the front still gains support due to delays caused by US freeport FM and Nederland turnarounds.  Some players expect the premiums to come off further with the anticipation of plentiful arbitrage cargoes reaching Eastern markets in August, along with cheaper MB price and a perceived weaker demand in the East.
+MEG:
+After the large price falls throughout this week, Crude rebounded on Thursday afternoon, trickered by the two tanker explosions in the Gulf of Oman. 
+Following this, LPG Propane prices rose to $348, reviving a bit from overnight’s slide to below $340. 
+Butane maintains a discount of about $20 against Propane, which is (still) unusual for a typical summer season. This is a testament to the fact that Butane’s length from producers continue. 
+With ample supply from Middle East and sluggish demand from end users, July CP is still under pressure. Add to this the seemingly ever increasing freight rates, this has killed many buyers’ appetite, mid-teens discounts appear insufficient to trigger speculative trades as well. 
+Adnoc released their July acceptances with some liftings being advanced. Qatar Petroleum issued a sales tender for 7-9th July lifting on full propane cargo basis. Saudi Aramco is reported to still have a late June 2/2 cargo available for sale.  
+
+FAR EAST:
+Quiet week with only a few physical deals being concluded this week. 
+Off window a 23kt Propane cargo for 2h July delivery changed hands at July FEI plus $6-$8, which equates to July CP plus mid high 30s. 
+Non-US origin equal ratio cargoes are assessed at a similar value, while Propane is still at a premium of plus 50s level, this mainly driven by PDH demand which still enjoy substantial profit margins in an otherwise sluggish market. 
+The forward traded market into August is currently at a slight backwardation, as the front still gains support due to delays caused by US freeport FM and Nederland turnarounds. 
+Some players expect the premiums to come off further with the anticipation of plentiful arbitrage cargoes reaching Eastern markets in August, along with cheaper MB price and a perceived weaker demand in the East.
 
 ---
 
@@ -106,7 +120,8 @@ Despite strong and increasing  freight, the arb remains open from the US to Euro
 ### Chartering Weekly Comment
 **Date:** 2019-06-12 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
-A handful of deals were concluded this week for 1st decade July loading in the Middle-East, and the momentum on freight continues. Last deal was reported at $70 pmt (Baltic), and freight is expected to strengthen further as most ships for 1st decade July has already been booked out, while we are still waiting for Aramco July acceptances. Aramco is also being reported selling an FOB cargo in June this week, indicating higher inventory levels, so one could expect more early July nominations once acceptances are out. This could certainly put players without shipping length in a sticky situation. Shipping availability in the west of Suez VLGC market has tightened further and we are faced with basically a handful of vessels until the start of third decade July. The east of Suez market is trading at par with the West and the tight vessel availability should in theory entail a further jump in freight rates from the current Baltic equivalent of USD 110 per ton on Houston/Chiba basis and by the looks of it, we will see fixtures being done north of this level, simply due to tight vessel avails.
+A handful of deals were concluded this week for 1st decade July loading in the Middle-East, and the momentum on freight continues. Last deal was reported at $70 pmt (Baltic), and freight is expected to strengthen further as most ships for 1st decade July has already been booked out, while we are still waiting for Aramco July acceptances. Aramco is also being reported selling an FOB cargo in June this week, indicating higher inventory levels, so one could expect more early July nominations once acceptances are out. This could certainly put players without shipping length in a sticky situation.
+Shipping availability in the west of Suez VLGC market has tightened further and we are faced with basically a handful of vessels until the start of third decade July. The east of Suez market is trading at par with the West and the tight vessel availability should in theory entail a further jump in freight rates from the current Baltic equivalent of USD 110 per ton on Houston/Chiba basis and by the looks of it, we will see fixtures being done north of this level, simply due to tight vessel avails.
 
 ---
 

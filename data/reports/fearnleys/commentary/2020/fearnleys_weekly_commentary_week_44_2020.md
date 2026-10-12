@@ -6,7 +6,7 @@ week: 44
 date_range: "2020-10-26 to 2020-10-27"
 comments_count: 14
 sectors: ["Dry Bulk", "Tankers", "Gas & LNG", "Sale and Purchase (S&P)"]
-generated_at: "2026-10-11 21:03:33"
+generated_at: "2026-10-12 13:31:37"
 ---
 
 # Fearnleys Weekly Broker Commentary - Week 44, 2020
@@ -91,14 +91,19 @@ The LNG shipping market slowed to catch its breath at the start of this week aft
 ### Gas Market Weekly Comment - Eastern Market
 **Date:** 2020-10-27 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
-MEG Saudi Aramco raised up Nov propane CP by $55 to $430 and butane CP by $60 to $440, which is in line with most expectations. Crude plunged and followingly Dec propane CP fell to $415, with butane CP maintains at $10 higher. Evenly split cargo for Dec lifting is discussing at small discounts.   FAR EAST Due to the delays on US arb volumes, cash differentials for Far East Market stay firm this week, with full cargo propane for 1h Dec delivery traded at Dec FEI plus low to mid-single digit. Dec Fei/CP spread widened to $17 at the time of writing, compared to last week’s $10. Cash premium for parcels into China weakens as less buyers emerged, most are waiting for CP announcement. 23/0 parcel for 1h Dec delivery traded at low 20s and 11/11 at low 30s on CP link. Other than spot, one Schina importer tendered to buy monthly one 11/11 for 2021 delivery. Other Schina importers also negotiate privately to secure next years’ supply.
+MEG
+Saudi Aramco raised up Nov propane CP by $55 to $430 and butane CP by $60 to $440, which is in line with most expectations. Crude plunged and followingly Dec propane CP fell to $415, with butane CP maintains at $10 higher. Evenly split cargo for Dec lifting is discussing at small discounts. 
+
+FAR EAST
+Due to the delays on US arb volumes, cash differentials for Far East Market stay firm this week, with full cargo propane for 1h Dec delivery traded at Dec FEI plus low to mid-single digit. Dec Fei/CP spread widened to $17 at the time of writing, compared to last week’s $10. Cash premium for parcels into China weakens as less buyers emerged, most are waiting for CP announcement. 23/0 parcel for 1h Dec delivery traded at low 20s and 11/11 at low 30s on CP link. Other than spot, one Schina importer tendered to buy monthly one 11/11 for 2021 delivery. Other Schina importers also negotiate privately to secure next years’ supply.
 
 ---
 
 ### Gas Market Weekly Comment - Western Market
 **Date:** 2020-10-27 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
-AMERICAS Despite record exports from the US Gulf and East Coast, propane inventories remain very high. In fact this weeks EIA small build left inventories at 98. 4 million barrels, a number that should give comfort to even the biggest skeptics,  that there will be enough product for a cold winter and strong exports. Hurricane Zeta, has now come and gone leaving all export terminals untouched, but strong concerns over Panama Canal delays remain central in talks over exports.  Unseasonable demand from Brazil, and seasonal demand from Mexico,  are additional factors keeping export demand strong, and as a result we see no end in sight for record exports.
+AMERICAS
+Despite record exports from the US Gulf and East Coast, propane inventories remain very high. In fact this weeks EIA small build left inventories at 98. 4 million barrels, a number that should give comfort to even the biggest skeptics,  that there will be enough product for a cold winter and strong exports. Hurricane Zeta, has now come and gone leaving all export terminals untouched, but strong concerns over Panama Canal delays remain central in talks over exports.  Unseasonable demand from Brazil, and seasonal demand from Mexico,  are additional factors keeping export demand strong, and as a result we see no end in sight for record exports.
 
 ---
 
@@ -106,13 +111,19 @@ AMERICAS Despite record exports from the US Gulf and East Coast, propane invento
 ### SnP Weekly Comment
 **Date:** 2020-10-26 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
-Another busy week in both the wet and dry S&P markets. Subjects are now lifted on Hunter Group’s sale of two 2019 built VLCC’s to ADNOC. The Usd 84.2 mill agreed is in line with expectations but still a far cry from where we were at the outset of the year. The creditor controlled Xihe tanker fleet sell-off continues. Following the sale of tranche 1 vessels, inspections are now invited for additional tankers including three VLCC’s built 2008, 2009 and 2013 in China.  Any “normal” sales efforts are inevitably affected by this process and prices achieved are likely to continue being a cold shower for values across the board. Crude earnings are certainly not helping the short to medium term outlook either.  Bulker values are still very transparent and in a sideways trajectory. All sizes see a healthy transaction volume with several noteworthy sales. The Usd 25 mill reported for 2017 JMU built Kamsarmax GEMINI OCEAN is the same as SAKIZAYA JUSTICE built 2017 Namura achieved at the end of August.
+Another busy week in both the wet and dry S&P markets. Subjects are now lifted on Hunter Group’s sale of two 2019 built VLCC’s to ADNOC. The Usd 84.2 mill agreed is in line with expectations but still a far cry from where we were at the outset of the year. The creditor controlled Xihe tanker fleet sell-off continues. Following the sale of tranche 1 vessels, inspections are now invited for additional tankers including three VLCC’s built 2008, 2009 and 2013 in China.  Any “normal” sales efforts are inevitably affected by this process and prices achieved are likely to continue being a cold shower for values across the board. Crude earnings are certainly not helping the short to medium term outlook either.
+
+Bulker values are still very transparent and in a sideways trajectory. All sizes see a healthy transaction volume with several noteworthy sales. The Usd 25 mill reported for 2017 JMU built Kamsarmax GEMINI OCEAN is the same as SAKIZAYA JUSTICE built 2017 Namura achieved at the end of August.
 
 ---
 
 ### Chartering Weekly Comment
 **Date:** 2020-10-26 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
-EAST Although one trader relet was booked yesterday for a vessel swap, we are still left with a handful of possible open ships from traders during 2H November. There is currently not an abundance of activity going on in the East, but we do expect to see more cargos shown to the market later, and especially during last decade of November. Owners’ ideas are currently in the USD mid 60s Baltic, but some might be incentivized to do slightly less if they can book their ships close to vessel dates. On the other hand, if various parties end up moving on freight at the same time rates could jump further.  WEST West has taken a step back this week as fixing window has moved into 2nd decade December for US loadings. West and East freight rates at par at TCE around mid USD 50k's pd. October has been expected to see record exports ex US at close to 75 VLGC cargoes lifted, but with only a few days left of the month it looks like delays in loadings could cause the record from April this year to remain.
+EAST
+Although one trader relet was booked yesterday for a vessel swap, we are still left with a handful of possible open ships from traders during 2H November. There is currently not an abundance of activity going on in the East, but we do expect to see more cargos shown to the market later, and especially during last decade of November. Owners’ ideas are currently in the USD mid 60s Baltic, but some might be incentivized to do slightly less if they can book their ships close to vessel dates. On the other hand, if various parties end up moving on freight at the same time rates could jump further.
+
+WEST
+West has taken a step back this week as fixing window has moved into 2nd decade December for US loadings. West and East freight rates at par at TCE around mid USD 50k's pd. October has been expected to see record exports ex US at close to 75 VLGC cargoes lifted, but with only a few days left of the month it looks like delays in loadings could cause the record from April this year to remain.
 
 ---

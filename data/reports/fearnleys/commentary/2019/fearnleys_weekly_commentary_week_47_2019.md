@@ -6,7 +6,7 @@ week: 47
 date_range: "2019-11-18 to 2019-11-20"
 comments_count: 14
 sectors: ["Dry Bulk", "Tankers", "Gas & LNG", "Sale and Purchase (S&P)"]
-generated_at: "2026-10-11 21:03:32"
+generated_at: "2026-10-12 13:31:36"
 ---
 
 # Fearnleys Weekly Broker Commentary - Week 47, 2019
@@ -91,14 +91,24 @@ Sentiment softened throughout the week as a lack of requirement was felt in both
 ### Gas Market Weekly Comment - Eastern Market
 **Date:** 2019-11-18 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
-MEG: Another volatile week with flat price rolling up and down by $15 on daily basis. At the time of writing, Dec CP is traded at $417, while butane at $15 higher. Forward month is in backwardation as Dec/Jan CP maintains at $5/6. Despite such, Jan market is expected to improve as real winter demand kicks in.  Fob discussions for 1h Dec are still at discounted level, with last mid Dec FOB sale from KPC reporting at Dec CP minus mid-single digit. One Producer is said to have spot availability in 1h Dec lifting.    FAR EAST: Window is not very exciting with sellers asking Dec FEI plus $8 for 2h Dec 23/0, while off window deal level for similar cargo at plus $3-3.5 only. Most players have balanced their Dec position and Japan/Korean importers are not keen on speculative buying considering year-end stock.    Off window market is quite active with tenders flowing and Chinese covering shorts especially for petchem use. Indonesia Pertamina was reported awarded one equal ratio cargo for 1h Jan delivery at Dec CP plus 50s, and following this, they’ve reissued new buy tender to purchase four evenly-split cargos delivered from early to 2h Jan. However, other evenly-split cargo for 2h Dec delivery into SEA is reported done at Dec CP plus high 40s only, as no more buyers can take such early laycan.   Spot deals into China this week is more propane heavy related. Last Friday one heavy propane was sold into SChina at Dec CP plus high 50s. And this week, a couple of pure propane were sold at Dec CP plus 60s to around $70, depending on delivery destination, for petchem use. Other than spot, one SChina importer has issued term tender to secure 11/11 monthly, either 1st decade delivery from Jan to Dec, or 2nd to 3rd decade delivery from Mar to Dec.
+MEG:
+Another volatile week with flat price rolling up and down by $15 on daily basis. At the time of writing, Dec CP is traded at $417, while butane at $15 higher. Forward month is in backwardation as Dec/Jan CP maintains at $5/6. Despite such, Jan market is expected to improve as real winter demand kicks in. 
+Fob discussions for 1h Dec are still at discounted level, with last mid Dec FOB sale from KPC reporting at Dec CP minus mid-single digit. One Producer is said to have spot availability in 1h Dec lifting. 
+
+FAR EAST:
+Window is not very exciting with sellers asking Dec FEI plus $8 for 2h Dec 23/0, while off window deal level for similar cargo at plus $3-3.5 only. Most players have balanced their Dec position and Japan/Korean importers are not keen on speculative buying considering year-end stock.  
+
+Off window market is quite active with tenders flowing and Chinese covering shorts especially for petchem use. Indonesia Pertamina was reported awarded one equal ratio cargo for 1h Jan delivery at Dec CP plus 50s, and following this, they’ve reissued new buy tender to purchase four evenly-split cargos delivered from early to 2h Jan. However, other evenly-split cargo for 2h Dec delivery into SEA is reported done at Dec CP plus high 40s only, as no more buyers can take such early laycan. 
+
+Spot deals into China this week is more propane heavy related. Last Friday one heavy propane was sold into SChina at Dec CP plus high 50s. And this week, a couple of pure propane were sold at Dec CP plus 60s to around $70, depending on delivery destination, for petchem use. Other than spot, one SChina importer has issued term tender to secure 11/11 monthly, either 1st decade delivery from Jan to Dec, or 2nd to 3rd decade delivery from Mar to Dec.
 
 ---
 
 ### Gas Market Weekly Comment - Western Market
 **Date:** 2019-11-18 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
-AMERICAS: Some bitterly cold weather in the US and  late season crop drying led to a higher than expected 3.4 million barrel draw in US inventories. This, as expected, was bullish Mt Belvieu prices which now stand at 40% WTI. Rather than closing the arb this rise in Mt Belvieu dragged FEI and CIF ARA prices up with it maintaining a healthy level. This has kept January FOB discussion active and being worked well in advance of the Christmas break. US inventories are 12.43 million barrels higher than the same week last year. Exports for the week were 1.362 million barrels per day, remain very high which points our view that the world has grown to depend on US exports and we expect this to continue at least through the Winter.
+AMERICAS:
+Some bitterly cold weather in the US and  late season crop drying led to a higher than expected 3.4 million barrel draw in US inventories. This, as expected, was bullish Mt Belvieu prices which now stand at 40% WTI. Rather than closing the arb this rise in Mt Belvieu dragged FEI and CIF ARA prices up with it maintaining a healthy level. This has kept January FOB discussion active and being worked well in advance of the Christmas break. US inventories are 12.43 million barrels higher than the same week last year. Exports for the week were 1.362 million barrels per day, remain very high which points our view that the world has grown to depend on US exports and we expect this to continue at least through the Winter.
 
 ---
 
@@ -106,13 +116,23 @@ AMERICAS: Some bitterly cold weather in the US and  late season crop drying led 
 ### SnP Weekly Comment
 **Date:** 2019-11-20 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
-The headline story this week has been the auction sale of six year old VLCC “BRIGHTOIL GEM.”  This was an online auction sale (local “Ebay”) in China and we understand only two buyers participated.    This is clearly a bargain for the buyers, our read being they are USD 10 mill in the money after DD and BWTS completed.  We fail to understand the commercial logic behind  this deal and we do not consider this a bench-mark sale due to the sales process. Most other deals coming to light this week are yesterday’s news.  The only significant deal concluded at today’s numbers is Zodiac selling aframax VIRGO SUN 115k dwt blt 2007 Sasebo at USD 26 mill.  In our book this equates to low 30’s for a suezmax of similar age.  Zodiac as always proving to be an agile player willing to take a profit when possible.  Zodiac purchased the vessel in October 2013 for low 25’s.  Dry bulk values are falling on the back of a growing pool of sales candidates. Kamsarmax KM TOKYO built 2010 Sanoyas is rumoured sold at high 15’s which is certainly on the low side of expectations.
+The headline story this week has been the auction sale of six year old VLCC “BRIGHTOIL GEM.”  This was an online auction sale (local “Ebay”) in China and we understand only two buyers participated.  
+
+This is clearly a bargain for the buyers, our read being they are USD 10 mill in the money after DD and BWTS completed.  We fail to understand the commercial logic behind  this deal and we do not consider this a bench-mark sale due to the sales process. Most other deals coming to light this week are yesterday’s news.  The only significant deal concluded at today’s numbers is Zodiac selling aframax VIRGO SUN 115k dwt blt 2007 Sasebo at USD 26 mill.  In our book this equates to low 30’s for a suezmax of similar age.  Zodiac as always proving to be an agile player willing to take a profit when possible.  Zodiac purchased the vessel in October 2013 for low 25’s.
+
+Dry bulk values are falling on the back of a growing pool of sales candidates. Kamsarmax KM TOKYO built 2010 Sanoyas is rumoured sold at high 15’s which is certainly on the low side of expectations.
 
 ---
 
 ### Chartering Weekly Comment
 **Date:** 2019-11-18 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
-WEST: The West has been fairly quiet this week. Some ships are beginning to run late for early Dec laycans. Going forward, it would not be unreasonable to expect further slippage given how ahead of time fixing has been happening so far. A likely consequence of this is an increased probability that players will look to optimise by way of vessel swaps where possible.   With regards to freight rates, the recent flow of ships from US to East via the Cape of Good Hope has left vessel availability relatively shorter in the West. Combined with the fact that there are a number of ships which will be retrofitting scrubbers in the next few months, rates should remain strong into the early 2020 fixing period.   EAST: In the East there were a few fixtures this week following saudi Acceptances. Rates have come off slightly, and a few additional trader relets remain. With that said, more players are looking to swap vessels with others in order to minimise expensive waiting time. In terms of delays in Eastern disports, things seem to be generally running on time at time of writing.
+WEST:
+The West has been fairly quiet this week. Some ships are beginning to run late for early Dec laycans. Going forward, it would not be unreasonable to expect further slippage given how ahead of time fixing has been happening so far. A likely consequence of this is an increased probability that players will look to optimise by way of vessel swaps where possible. 
+
+With regards to freight rates, the recent flow of ships from US to East via the Cape of Good Hope has left vessel availability relatively shorter in the West. Combined with the fact that there are a number of ships which will be retrofitting scrubbers in the next few months, rates should remain strong into the early 2020 fixing period. 
+
+EAST:
+In the East there were a few fixtures this week following saudi Acceptances. Rates have come off slightly, and a few additional trader relets remain. With that said, more players are looking to swap vessels with others in order to minimise expensive waiting time. In terms of delays in Eastern disports, things seem to be generally running on time at time of writing.
 
 ---

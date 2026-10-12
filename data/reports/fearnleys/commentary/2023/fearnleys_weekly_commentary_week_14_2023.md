@@ -6,7 +6,7 @@ week: 14
 date_range: "2023-04-05 to 2023-04-05"
 comments_count: 1
 sectors: ["Dry Bulk", "Tankers", "Gas & LNG", "Sale and Purchase (S&P)"]
-generated_at: "2026-10-11 21:03:36"
+generated_at: "2026-10-12 13:31:40"
 ---
 
 # Fearnleys Weekly Broker Commentary - Week 14, 2023
@@ -25,7 +25,9 @@ Institutional desk intelligence harvested directly from the Fearnleys Hasura Gra
 ### LNG Market Report
 **Date:** 2023-04-05 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
-Signs of spring are appearing and seasonal national holidays creep nearer, yet the LNG and freight markets continue to trudge through a period of low activity. The spot market still suffers from an excess of availability and a lack of prompt cargoes, yet this week has seen a few requirements being worked and some very small revs of the engine. Although fixing levels have been dipping marginally lower than last done, some indications are holding firm or are at higher levels – perhaps this signals that the bottom of the shoulder months has been reached? A pause for the Easter holidays is unlikely to change the dial though, and the next few months could continue down a mildly-bumpy road without major risks to the upside or downside. In the term market, sentiment for prompt delivery was softening on the back of falling spot rates; however, new price points imply that levels remain supported by the slim list of modern tonnage available. As we inch towards a modest summer, there is clearly a view that another strong winter and beyond lies ahead.    On the newbuilding front, it is reported that K-Line have secured two SHI slots with delivery November 2026 at ~$258.5M a piece.
+Signs of spring are appearing and seasonal national holidays creep nearer, yet the LNG and freight markets continue to trudge through a period of low activity. The spot market still suffers from an excess of availability and a lack of prompt cargoes, yet this week has seen a few requirements being worked and some very small revs of the engine. Although fixing levels have been dipping marginally lower than last done, some indications are holding firm or are at higher levels – perhaps this signals that the bottom of the shoulder months has been reached? A pause for the Easter holidays is unlikely to change the dial though, and the next few months could continue down a mildly-bumpy road without major risks to the upside or downside. In the term market, sentiment for prompt delivery was softening on the back of falling spot rates; however, new price points imply that levels remain supported by the slim list of modern tonnage available. As we inch towards a modest summer, there is clearly a view that another strong winter and beyond lies ahead. 
+ 
+On the newbuilding front, it is reported that K-Line have secured two SHI slots with delivery November 2026 at ~$258.5M a piece.
 
 ---
 

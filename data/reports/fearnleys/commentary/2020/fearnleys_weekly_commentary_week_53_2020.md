@@ -6,7 +6,7 @@ week: 53
 date_range: "2020-12-28 to 2020-12-30"
 comments_count: 11
 sectors: ["Dry Bulk", "Tankers", "Gas & LNG", "Sale and Purchase (S&P)"]
-generated_at: "2026-10-11 21:03:33"
+generated_at: "2026-10-12 13:31:37"
 ---
 
 # Fearnleys Weekly Broker Commentary - Week 53, 2020
@@ -69,14 +69,16 @@ We should start referring to the week preceding New Year as "no quibble week". A
 ### Aframax Weekly Comment
 **Date:** 2020-12-30 | **Subtype:** Tank Weekly Comment | **Desk:** Fearnleys Research
 
-In the North Sea and Baltic market owners expected a busier market this week as charterers seemingly would have to fix the first decade of January dates post the new year. So far it seems somewhat quiet on the surface and rates hasn’t really moved in any northbound direction and is moving sideways for the time being. We might have to fix through to the 3rd decade of January before we see any significant improvements in rates.   Also in the Med/Bsea the week started with optimism among owners as a rush of mid-holiday season cargoes entered the market. Delays in Bosporus and bad weather in East Med contributed to this optimism, however due to the healthy tonnage list the cargoes where tucked away at more or less repeat levels, one by one.  We expect the market to remain at current levels as we enter the new year.
+In the North Sea and Baltic market owners expected a busier market this week as charterers seemingly would have to fix the first decade of January dates post the new year. So far it seems somewhat quiet on the surface and rates hasn’t really moved in any northbound direction and is moving sideways for the time being. We might have to fix through to the 3rd decade of January before we see any significant improvements in rates.  
+Also in the Med/Bsea the week started with optimism among owners as a rush of mid-holiday season cargoes entered the market. Delays in Bosporus and bad weather in East Med contributed to this optimism, however due to the healthy tonnage list the cargoes where tucked away at more or less repeat levels, one by one.  We expect the market to remain at current levels as we enter the new year.
 
 ---
 
 ### Aframax Weekly Comment
 **Date:** 2020-12-30 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
-In the North Sea and Baltic market owners expected a busier market this week as charterers seemingly would have to fix the first decade of January dates post the new year. So far it seems somewhat quiet on the surface and rates hasn’t really moved in any northbound direction and is moving sideways for the time being. We might have to fix through to the 3rd decade of January before we see any significant improvements in rates.   Also in the Med/Bsea the week started with optimism among owners as a rush of mid-holiday season cargoes entered the market. Delays in Bosporus and bad weather in East Med contributed to this optimism, however due to the healthy tonnage list the cargoes where tucked away at more or less repeat levels, one by one.  We expect the market to remain at current levels as we enter the new year.
+In the North Sea and Baltic market owners expected a busier market this week as charterers seemingly would have to fix the first decade of January dates post the new year. So far it seems somewhat quiet on the surface and rates hasn’t really moved in any northbound direction and is moving sideways for the time being. We might have to fix through to the 3rd decade of January before we see any significant improvements in rates.  
+Also in the Med/Bsea the week started with optimism among owners as a rush of mid-holiday season cargoes entered the market. Delays in Bosporus and bad weather in East Med contributed to this optimism, however due to the healthy tonnage list the cargoes where tucked away at more or less repeat levels, one by one.  We expect the market to remain at current levels as we enter the new year.
 
 ---
 
@@ -84,7 +86,15 @@ In the North Sea and Baltic market owners expected a busier market this week as 
 ### LNG Market Report
 **Date:** 2020-12-28 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
-As we look back on the LNG shipping market throughout this year, it would be fair to say that most market participants were surprised, some very pleased by the rate levels seen in the last couple of months. Going back to the first half of 2020, sentiments were certainly softer for Q4 and the majority would not have envisaged fixtures being concluded at current levels. A colder winter with increasing demand for LNG in North East Asia particularly in China and the continual strength seen on the product prices are supporting an arbitrage for West to East trades, contributing to the solid demand for shipping. Challenges to secure slots through the Panama Canal have also resulted in longer waiting times, further tightening the market. As we edge closer to 2021, the lack of tonnage and clarity on vessel availability means there are still a couple of cargoes to be work for 1H February loading. Shipping remains tight for now and with JKM rising for the forward month and owners fueled by optimism, we are anticipating levels to remain buoyant.    On recent newbuildings, both HHI and SHI were reported to have secured a total of 17 LNG carriers with four shipowners, although with some conditions on the contracts. The newbuilds were reported to be allocated to the Mozambique LNG project. 2020 will end as a very good year for shipyards with a total close to 50 conventional LNG carriers.  From everyone at Fearnley LNG, wishing you a happy, healthy and prosperous new year !
+As we look back on the LNG shipping market throughout this year, it would be fair to say that most market participants were surprised, some very pleased by the rate levels seen in the last couple of months. Going back to the first half of 2020, sentiments were certainly softer for Q4 and the majority would not have envisaged fixtures being concluded at current levels.
+A colder winter with increasing demand for LNG in North East Asia particularly in China and the continual strength seen on the product prices are supporting an arbitrage for West to East trades, contributing to the solid demand for shipping. Challenges to secure slots through the Panama Canal have also resulted in longer waiting times, further tightening the market.
+As we edge closer to 2021, the lack of tonnage and clarity on vessel availability means there are still a couple of cargoes to be work for 1H February loading.
+Shipping remains tight for now and with JKM rising for the forward month and owners fueled by optimism, we are anticipating levels to remain buoyant. 
+ 
+On recent newbuildings, both HHI and SHI were reported to have secured a total of 17 LNG carriers with four shipowners, although with some conditions on the contracts. The newbuilds were reported to be allocated to the Mozambique LNG project.
+2020 will end as a very good year for shipyards with a total close to 50 conventional LNG carriers.
+
+From everyone at Fearnley LNG, wishing you a happy, healthy and prosperous new year !
 
 ---
 

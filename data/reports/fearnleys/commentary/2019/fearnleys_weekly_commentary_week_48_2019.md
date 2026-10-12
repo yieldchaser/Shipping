@@ -6,7 +6,7 @@ week: 48
 date_range: "2019-11-25 to 2019-11-26"
 comments_count: 14
 sectors: ["Dry Bulk", "Tankers", "Gas & LNG", "Sale and Purchase (S&P)"]
-generated_at: "2026-10-11 21:03:32"
+generated_at: "2026-10-12 13:31:36"
 ---
 
 # Fearnleys Weekly Broker Commentary - Week 48, 2019
@@ -91,14 +91,23 @@ It has been another relatively quiet week, which is slightly surprising consider
 ### Gas Market Weekly Comment - Eastern Market
 **Date:** 2019-11-25 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
-MEG: Saudi Aramco has set Dec Propane CP at $440 and Butane CP at $455, up by $10 respectively, which some players reckon above expectations. Therefore, the contango structure into Jan has changed and Jan CP slides to $438. It’s still early to judge how will Jan CP turns, but we believe the Jan swap will edge up, as forthcoming winter demand will lend support fundamentally.    FAR EAST:  Front market appears to be strong this week. Off window Propane for 2h Jan delivery was reported traded at Jan FEI plus high single prem to $10. Dec FEI/CP enlarged to 50ish this week and Jan FEI/CP maintains at high 30s to $40. The unexpected explosion in Texas has roused some concerns on Jan delivery so far limited effect being shown, but players are still closely monitoring the situation.  Apart from window, market is floating with all tenders. Indonesia Pertamina was reported to award their last tender for three evenly split cargos delivered from early Jan to late Jan, price ranging from high 40s to high 50s depends on delivery date. And they’ve still inquiring via new tender for another early Jan delivery cargo, which result is yet to know.  India IOC is reported to award their buy tender for 2h Jan delivery equal ratio cargo at Jan CP plus 50ish.  Taiwan FPCC also secured an early Jan delivery full propane at Jan MOPJ minus around $40 via tender. Other Chinese importers are actively seeking supply for next year via term tender or private discussions. Cash premium negotiation is in line with freight as of non-Us origin request, but more players are keen to discussing FEI link as well, instead of 100% CP link. On spot side, importers start to explore Jan cargos especially 1h Jan arrival, with one SChina PDH user tendered to buy 6-15th Jan delivery propane.
+MEG:
+Saudi Aramco has set Dec Propane CP at $440 and Butane CP at $455, up by $10 respectively, which some players reckon above expectations. Therefore, the contango structure into Jan has changed and Jan CP slides to $438. It’s still early to judge how will Jan CP turns, but we believe the Jan swap will edge up, as forthcoming winter demand will lend support fundamentally. 
+
+FAR EAST: 
+Front market appears to be strong this week. Off window Propane for 2h Jan delivery was reported traded at Jan FEI plus high single prem to $10. Dec FEI/CP enlarged to 50ish this week and Jan FEI/CP maintains at high 30s to $40. The unexpected explosion in Texas has roused some concerns on Jan delivery so far limited effect being shown, but players are still closely monitoring the situation.
+
+Apart from window, market is floating with all tenders. Indonesia Pertamina was reported to award their last tender for three evenly split cargos delivered from early Jan to late Jan, price ranging from high 40s to high 50s depends on delivery date. And they’ve still inquiring via new tender for another early Jan delivery cargo, which result is yet to know. 
+India IOC is reported to award their buy tender for 2h Jan delivery equal ratio cargo at Jan CP plus 50ish. 
+Taiwan FPCC also secured an early Jan delivery full propane at Jan MOPJ minus around $40 via tender. Other Chinese importers are actively seeking supply for next year via term tender or private discussions. Cash premium negotiation is in line with freight as of non-Us origin request, but more players are keen to discussing FEI link as well, instead of 100% CP link. On spot side, importers start to explore Jan cargos especially 1h Jan arrival, with one SChina PDH user tendered to buy 6-15th Jan delivery propane.
 
 ---
 
 ### Gas Market Weekly Comment - Western Market
 **Date:** 2019-11-25 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
-AMERICAS: Happy Thanksgiving! A lower than expected draw of 683,000 barrels was seen in US inventories for the week ended November 22nd. Although this was expected to be bearish, Mt Belvieu now lies at 41% WTI. The highest level since March of this year. This has not dampened the arb which is wide. Supported by strength in both CIF ARA and FEI. The affects of the fire at Port Neches on LPG exports from Nederland are yet to be seen. Nederland exports range between 6 and 8 VLGCs per month and for the moment the Neches river channel is closed. Any export tons lost would further support the arb. January cargoes have traded and high single digit terminalling fees. The question is was it a pre holiday rush, or are we heading back to double digit terminalling fee premiums?
+AMERICAS:
+Happy Thanksgiving! A lower than expected draw of 683,000 barrels was seen in US inventories for the week ended November 22nd. Although this was expected to be bearish, Mt Belvieu now lies at 41% WTI. The highest level since March of this year. This has not dampened the arb which is wide. Supported by strength in both CIF ARA and FEI. The affects of the fire at Port Neches on LPG exports from Nederland are yet to be seen. Nederland exports range between 6 and 8 VLGCs per month and for the moment the Neches river channel is closed. Any export tons lost would further support the arb. January cargoes have traded and high single digit terminalling fees. The question is was it a pre holiday rush, or are we heading back to double digit terminalling fee premiums?
 
 ---
 
@@ -106,13 +115,19 @@ AMERICAS: Happy Thanksgiving! A lower than expected draw of 683,000 barrels was 
 ### SnP Weekly Comment
 **Date:** 2019-11-25 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
-The sales activity is dominated by older vessels, both wet and dry.  Recent bulker sales reaffirm a softening in dry values across the board and there is certainly no lack of vessels for sale.  Several bulker deals are in the making with varying reports that AZUL FORTUNA 204k dwt built 2005 Universal is close to being sold for high usd 15 mill. If confirmed, this will be a notch down from the sale of one year older sister AZUL INTEGRA a month ago at usd 16 mill.  Tanker values are in positive trajectory but we have yet to see any very modern units being transacted.  Increased buying interest now also for LR1’s with reports that GULF CASTLE 75k dwt built 2009 HMD is under negotiation after being inspected by up to 10 buyers before inviting offers earlier this week.
+The sales activity is dominated by older vessels, both wet and dry.  Recent bulker sales reaffirm a softening in dry values across the board and there is certainly no lack of vessels for sale.  Several bulker deals are in the making with varying reports that AZUL FORTUNA 204k dwt built 2005 Universal is close to being sold for high usd 15 mill. If confirmed, this will be a notch down from the sale of one year older sister AZUL INTEGRA a month ago at usd 16 mill.
+
+Tanker values are in positive trajectory but we have yet to see any very modern units being transacted.  Increased buying interest now also for LR1’s with reports that GULF CASTLE 75k dwt built 2009 HMD is under negotiation after being inspected by up to 10 buyers before inviting offers earlier this week.
 
 ---
 
 ### Chartering Weekly Comment
 **Date:** 2019-11-25 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
-WEST: The past week has been muted in the West, presumably as a consequence of players having fixed far in advance previously. With that said, some players have started to think about January fixing and could be keen to clear their requirements as the holiday season approaches. Looking ahead, some vessels are scheduled to go into dry-docking for retrofitting of scrubbers and special surveys, and this could have an influence on rates in the months to come.   EAST:  It has been another uneventful week for shipping in the East so far. We are generally seeing more open ships for next fixing window i.e. December, also from traders with extra length, and this continue to add pressure to freight rates. Last done deal in the market was done at USD 72 Baltic, and time of writing there is only one other cargo from an Indian major being worked.
+WEST:
+The past week has been muted in the West, presumably as a consequence of players having fixed far in advance previously. With that said, some players have started to think about January fixing and could be keen to clear their requirements as the holiday season approaches. Looking ahead, some vessels are scheduled to go into dry-docking for retrofitting of scrubbers and special surveys, and this could have an influence on rates in the months to come. 
+
+EAST: 
+It has been another uneventful week for shipping in the East so far. We are generally seeing more open ships for next fixing window i.e. December, also from traders with extra length, and this continue to add pressure to freight rates. Last done deal in the market was done at USD 72 Baltic, and time of writing there is only one other cargo from an Indian major being worked.
 
 ---

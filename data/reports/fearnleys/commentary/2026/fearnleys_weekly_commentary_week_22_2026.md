@@ -6,7 +6,7 @@ week: 22
 date_range: "2026-05-27 to 2026-05-29"
 comments_count: 9
 sectors: ["Dry Bulk", "Tankers", "Gas & LNG", "Sale and Purchase (S&P)"]
-generated_at: "2026-10-11 21:03:40"
+generated_at: "2026-10-12 13:31:44"
 ---
 
 # Fearnleys Weekly Broker Commentary - Week 22, 2026
@@ -55,7 +55,11 @@ Again we started the working week with a ‘workable vessel count’ well above 
 ### Aframax Weekly Comment
 **Date:** 2026-05-27 | **Subtype:** Tank Weekly Comment | **Desk:** Fearnleys Research
 
-North Sea North Sea dates are slowly moving into June. The first 5 days stems are not that populated and we have seen a lot of programming which explains the muted start to the month activity wise. Even with a continued softer US market the North Sea list is being kept balanced with vessels ballasting. Market looks like it will remain steady/soft likely through the first decade.  Mediterranean Rates are hovering around last-done levels with decent levels of activity and the tonnage list looking much better compared to last week. Sentiment is the issue these days as owners seem to have accepted last done and at the same time fundamentals aren't helping them either.
+North Sea
+North Sea dates are slowly moving into June. The first 5 days stems are not that populated and we have seen a lot of programming which explains the muted start to the month activity wise. Even with a continued softer US market the North Sea list is being kept balanced with vessels ballasting. Market looks like it will remain steady/soft likely through the first decade.
+
+Mediterranean
+Rates are hovering around last-done levels with decent levels of activity and the tonnage list looking much better compared to last week. Sentiment is the issue these days as owners seem to have accepted last done and at the same time fundamentals aren't helping them either.
 
 ---
 
@@ -71,7 +75,9 @@ After many weeks of static rates in the West and a slow softening in the East, t
 ### SnP Weekly Comment
 **Date:** 2026-05-29 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
-Scorpio this week announced the sale of 4x scrubber fitted LR2 units STI CONDOTTI/BROADWAY/WINNIE/LAUREN (109K DWT Daehan 2014/15) for a total of USD 285.8M, representing a figure of xs USD 70M per vessel. In this context it is worth remembering that only a month ago, the market was in shock at scrubber fitted 2018 blt Japanese Afras being sold in the mid USD 70M range. Deadlock in the Middle East, plus the disruption that entails, and the potential booming aftermath of a resolution is seemingly more than enough for buyers to justify the levels being paid today. Longer term question marks remain over the increased fleet growth we will see in the coming years, however this feels like a distant worry for owners and buyers alike as the short-term uncertainty reigns supreme.   There is unrelenting momentum in the dry bulk market, with average capesize spot rates climbing 12% from last week alone to a high of USD 46K/day on Thursday. Buyers still see legs in this bulk run, despite total demand growth reaching 6%, which is usually seen around the peaks of dry cycles. This confidence is seen in the fact 20 buyers registered interest in Tess 82 KEY HUNTER (82K DWT Tsuneishi 2011), which was eventually sold to Greek buyers for USD 21M. Elsewhere, the benchmark has been set for 10 year old capesize units, with scrubber fitted EHIME QUEEN (181K DWT Imabari 2016) selling for USD 59M to Chinese buyers.
+Scorpio this week announced the sale of 4x scrubber fitted LR2 units STI CONDOTTI/BROADWAY/WINNIE/LAUREN (109K DWT Daehan 2014/15) for a total of USD 285.8M, representing a figure of xs USD 70M per vessel. In this context it is worth remembering that only a month ago, the market was in shock at scrubber fitted 2018 blt Japanese Afras being sold in the mid USD 70M range. Deadlock in the Middle East, plus the disruption that entails, and the potential booming aftermath of a resolution is seemingly more than enough for buyers to justify the levels being paid today. Longer term question marks remain over the increased fleet growth we will see in the coming years, however this feels like a distant worry for owners and buyers alike as the short-term uncertainty reigns supreme. 
+
+There is unrelenting momentum in the dry bulk market, with average capesize spot rates climbing 12% from last week alone to a high of USD 46K/day on Thursday. Buyers still see legs in this bulk run, despite total demand growth reaching 6%, which is usually seen around the peaks of dry cycles. This confidence is seen in the fact 20 buyers registered interest in Tess 82 KEY HUNTER (82K DWT Tsuneishi 2011), which was eventually sold to Greek buyers for USD 21M. Elsewhere, the benchmark has been set for 10 year old capesize units, with scrubber fitted EHIME QUEEN (181K DWT Imabari 2016) selling for USD 59M to Chinese buyers.
 
 ---
 

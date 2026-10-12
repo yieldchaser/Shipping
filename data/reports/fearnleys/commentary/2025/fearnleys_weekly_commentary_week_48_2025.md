@@ -6,7 +6,7 @@ week: 48
 date_range: "2025-11-26 to 2025-11-28"
 comments_count: 10
 sectors: ["Dry Bulk", "Tankers", "Gas & LNG", "Sale and Purchase (S&P)"]
-generated_at: "2026-10-11 21:03:39"
+generated_at: "2026-10-12 13:31:43"
 ---
 
 # Fearnleys Weekly Broker Commentary - Week 48, 2025
@@ -55,7 +55,11 @@ Whilst consistent fixing keeps the front of the Atlantic basin tonnage availabil
 ### Aframax Weekly Comment
 **Date:** 2025-11-26 | **Subtype:** Tank Weekly Comment | **Desk:** Fearnleys Research
 
-North Sea An active first half of the week has seen dates push out covering up to the 4-6 window and with relet tonnage coming back into the frame next natural window likely to be 7-9 dates. Front end of the position list has been depleted through fixing early tonnage and vessels heading out of the area. Rates have firmed a little and if we see some continued activity have room to push further. Thanksgiving will take activity out of the US markets at the end of the week but may well lead to a backlog to be covered early next week.  Mediterranean So far activity has been moderate on the surface but busier under the radar in the Mediterranean/Black Sea with owners repeating last-done levels. As dates are moving further into 1st decade of December, the tonnage list consists of enough candidates for rest of 1st decade on paper. Seems fair for now to repeat rates around current levels but things might change as we are slowly approaching 2nd-decade dates.
+North Sea
+An active first half of the week has seen dates push out covering up to the 4-6 window and with relet tonnage coming back into the frame next natural window likely to be 7-9 dates. Front end of the position list has been depleted through fixing early tonnage and vessels heading out of the area. Rates have firmed a little and if we see some continued activity have room to push further. Thanksgiving will take activity out of the US markets at the end of the week but may well lead to a backlog to be covered early next week.
+
+Mediterranean
+So far activity has been moderate on the surface but busier under the radar in the Mediterranean/Black Sea with owners repeating last-done levels. As dates are moving further into 1st decade of December, the tonnage list consists of enough candidates for rest of 1st decade on paper. Seems fair for now to repeat rates around current levels but things might change as we are slowly approaching 2nd-decade dates.
 
 ---
 
@@ -70,7 +74,13 @@ The spot market gains seen in recent weeks continue with significant increases a
 ### Gas Market Weekly Comment - Eastern Market
 **Date:** 2025-11-27 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
-While market participants awaiting Saudi Cp, cash premium for Dec lifting evenly split cargo continue to strengthen, with bid in window for mid Dec lifting shown at $530 for C3 and $515 for C4, equivalent to Dec Cp plus $30s. By the time of writing, Dec Cp was traded at $497 and C3/C4 at $17.5.  Supported by the strong Dec and Jan CFR EAST market, US Arbitrage widened with terminal fee for Jan lifting discussed at 7ish cpg.  Japanese and Korean importers actively buying for winter stockpiling, which substantially keep driving up cash premiums in the window. 23/0 parcel for 1h Jan delivery was once traded at Jan FEI plus $15 and continuously bid up to $21. Similar cargo for 2h Jan delivery was bid at Jan FEI plus $15, yet to entice seller interests.  Outside window, FIC was reported to award two 4/0 and one 2/0 cargos for Jan delivery at Jan FEI plus low teens. One 4/0 for 1h Jan delivery basis Chiba was heard traded at FEI plus $20s. Similarly, one 4/0 for 1h Jan delivery basis Ningbo was also reported done at similar range. One NChina importer tendered to buy Jan delivered evenly split cargo basis Tianjin. Another PDH importer reissued tender to buy propane for late Dec to Jan delivery.
+While market participants awaiting Saudi Cp, cash premium for Dec lifting evenly split cargo continue to strengthen, with bid in window for mid Dec lifting shown at $530 for C3 and $515 for C4, equivalent to Dec Cp plus $30s. By the time of writing, Dec Cp was traded at $497 and C3/C4 at $17.5.
+
+Supported by the strong Dec and Jan CFR EAST market, US Arbitrage widened with terminal fee for Jan lifting discussed at 7ish cpg.
+
+Japanese and Korean importers actively buying for winter stockpiling, which substantially keep driving up cash premiums in the window. 23/0 parcel for 1h Jan delivery was once traded at Jan FEI plus $15 and continuously bid up to $21. Similar cargo for 2h Jan delivery was bid at Jan FEI plus $15, yet to entice seller interests.
+
+Outside window, FIC was reported to award two 4/0 and one 2/0 cargos for Jan delivery at Jan FEI plus low teens. One 4/0 for 1h Jan delivery basis Chiba was heard traded at FEI plus $20s. Similarly, one 4/0 for 1h Jan delivery basis Ningbo was also reported done at similar range. One NChina importer tendered to buy Jan delivered evenly split cargo basis Tianjin. Another PDH importer reissued tender to buy propane for late Dec to Jan delivery.
 
 ---
 
@@ -78,13 +88,16 @@ While market participants awaiting Saudi Cp, cash premium for Dec lifting evenly
 ### SnP Weekly Comment
 **Date:** 2025-11-28 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
-The tanker market is flying into the festive period with healthy earnings across the board. This will put buyers at the mercy of sellers, who will be rethinking their price expectations accordingly. The Russia-Ukraine conflict was rather the catalyst of this current overall tanker market run throughout the last few years, however, this week market analysts and owners alike are imagining a market beyond the conflict, after positive talks between US and Ukrainian officials. It still feels a long way away, but peaceful resolution could drastically reshape the tanker market.    The BDI hit its highest levels since December 2023, as rates hold firm. Capesize rates are leading the way, and the strong demand for second hand candidates is only increasing. Tonnage hungry buyers are acting quickly and decisively, particularly in the c.15 YO range, which is encouraging owners of such units to see what bids they can attract. Values are changing rapidly; this week NGM sold PACIFIST (181K DWT Koyo 2011) for USD 32M (SSDD due January 2026), this is compared to SSDD freshly passed 1-year older scrubber fitted sister SEAUNITY (181K DWT Koyo 2010) sold at USD 30.5 at the start of the month
+The tanker market is flying into the festive period with healthy earnings across the board. This will put buyers at the mercy of sellers, who will be rethinking their price expectations accordingly. The Russia-Ukraine conflict was rather the catalyst of this current overall tanker market run throughout the last few years, however, this week market analysts and owners alike are imagining a market beyond the conflict, after positive talks between US and Ukrainian officials. It still feels a long way away, but peaceful resolution could drastically reshape the tanker market. 
+ 
+The BDI hit its highest levels since December 2023, as rates hold firm. Capesize rates are leading the way, and the strong demand for second hand candidates is only increasing. Tonnage hungry buyers are acting quickly and decisively, particularly in the c.15 YO range, which is encouraging owners of such units to see what bids they can attract. Values are changing rapidly; this week NGM sold PACIFIST (181K DWT Koyo 2011) for USD 32M (SSDD due January 2026), this is compared to SSDD freshly passed 1-year older scrubber fitted sister SEAUNITY (181K DWT Koyo 2010) sold at USD 30.5 at the start of the month
 
 ---
 
 ### Chartering Weekly Comment
 **Date:** 2025-11-27 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
-EAST & WEST After a relatively quiet period East and West, we’ve seen about 5+ fixtures each in both basins. Last done in US at around USD 120 HCvP (plus one modern Pmax fixed in the mid-120s), while Eastern rates remain at a theoretical premium with last done in the high 60s RT/C. With Thanksgiving weekend about to start the market may take a breather for now, but we do expect freight ideas to remain around last done.
+EAST & WEST
+After a relatively quiet period East and West, we’ve seen about 5+ fixtures each in both basins. Last done in US at around USD 120 HCvP (plus one modern Pmax fixed in the mid-120s), while Eastern rates remain at a theoretical premium with last done in the high 60s RT/C. With Thanksgiving weekend about to start the market may take a breather for now, but we do expect freight ideas to remain around last done.
 
 ---

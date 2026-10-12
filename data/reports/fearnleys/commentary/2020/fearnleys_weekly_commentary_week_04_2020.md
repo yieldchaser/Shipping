@@ -6,7 +6,7 @@ week: 4
 date_range: "2020-01-21 to 2020-01-22"
 comments_count: 14
 sectors: ["Dry Bulk", "Tankers", "Gas & LNG", "Sale and Purchase (S&P)"]
-generated_at: "2026-10-11 21:03:32"
+generated_at: "2026-10-12 13:31:36"
 ---
 
 # Fearnleys Weekly Broker Commentary - Week 04, 2020
@@ -91,14 +91,16 @@ The seasonal improvements in terms and market sentiment in the “Winter period�
 ### Gas Market Weekly Comment - Eastern Market
 **Date:** 2020-01-21 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
-ASIA: Happy Chinese New Year! One of the big questions overhanging the Asian market this week is when tariffs on LPG cargos into China will be lifted. This has put immense pressure on the CP price causing the derivative price for Feb CP to fall over USD 100/mt as well as causing the FEI price to fall as well. Is the lifting of tariffs bullish or bearish for the market. Certainly today the market is saying bearish. However if this opens the door to new projects in China the long term effects could actually turn out to be bullish.
+ASIA:
+Happy Chinese New Year! One of the big questions overhanging the Asian market this week is when tariffs on LPG cargos into China will be lifted. This has put immense pressure on the CP price causing the derivative price for Feb CP to fall over USD 100/mt as well as causing the FEI price to fall as well. Is the lifting of tariffs bullish or bearish for the market. Certainly today the market is saying bearish. However if this opens the door to new projects in China the long term effects could actually turn out to be bullish.
 
 ---
 
 ### Gas Market Weekly Comment - Western Market
 **Date:** 2020-01-21 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
-AMERICAS: Even prior to the EIA’s bullish propane stats, the Feb/March Arb narrowed considerably after large drops in the Asian paper market. While the netbacks weakened, a strong physical premium remains in the east, keeping US  FOB interest afloat and well above cancellation economics.  Levels are being discussed in the low 20cpg’s for the remaining February Houston-origin cargoes. However, shipping delays and unpredictably in the channel have caused for headwinds in some discussion. The EIA’s report, released Thursday due to the holiday weekend, showed a 1.4 million barrel draw in propane inventories. Inventories are now total 87 million barrels which is 27 percent above the 5 year average. The high inventory and lack of winter weather is keeping propane below 30 percent of WTI.
+AMERICAS:
+Even prior to the EIA’s bullish propane stats, the Feb/March Arb narrowed considerably after large drops in the Asian paper market. While the netbacks weakened, a strong physical premium remains in the east, keeping US  FOB interest afloat and well above cancellation economics.  Levels are being discussed in the low 20cpg’s for the remaining February Houston-origin cargoes. However, shipping delays and unpredictably in the channel have caused for headwinds in some discussion. The EIA’s report, released Thursday due to the holiday weekend, showed a 1.4 million barrel draw in propane inventories. Inventories are now total 87 million barrels which is 27 percent above the 5 year average. The high inventory and lack of winter weather is keeping propane below 30 percent of WTI.
 
 ---
 
@@ -106,13 +108,21 @@ AMERICAS: Even prior to the EIA’s bullish propane stats, the Feb/March Arb nar
 ### SnP Weekly Comment
 **Date:** 2020-01-21 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
-The limited number of reported transactions this week  is not necessarily reflective of the level of buying enquiry witnessed in the tanker SnP markets. Particularly on the modern front, where the markets found some renewed momentum off the back of  the recent sales both in the Aframax sector with the AQUAFREEDOM built 10/2019  changing hands at region Usd 55.8 mill, and in the VLCC space where the Hartree scrubber-fitted VLCC resale fetched Usd 106 mill earlier this month.  These benchmarks have given some additional confidence to a number of potential sellers encouraging them to entertain buying interest on their units. Sentiment also remains strong for older vintage crude carriers with 4 early 2000 built suezmax tankers being sold over the past 2 weeks. Values in the sector have clearly found an equilibrium and we expect further transactions in the near future.  The challenging freight environment in the dry cargo sectors has pushed sellers to revise their price expectations leading to an increased amount of buying enquiry.  Same is particularly well illustrated by the number of inspections taking place across the board.  Japanese owners invited inspections this week on the 2011 built Tess-82 MAGNOLIA, and we understand that up to 10 parties are now outright.  Deals concluded confirm the falling trend as seen by the sale of 2011 DSME built Kamsarmax SUNNY YOUNG at mid to high Usd 15 mill.
+The limited number of reported transactions this week  is not necessarily reflective of the level of buying enquiry witnessed in the tanker SnP markets. Particularly on the modern front, where the markets found some renewed momentum off the back of  the recent sales both in the Aframax sector with the AQUAFREEDOM built 10/2019  changing hands at region Usd 55.8 mill, and in the VLCC space where the Hartree scrubber-fitted VLCC resale fetched Usd 106 mill earlier this month.  These benchmarks have given some additional confidence to a number of potential sellers encouraging them to entertain buying interest on their units. Sentiment also remains strong for older vintage crude carriers with 4 early 2000 built suezmax tankers being sold over the past 2 weeks. Values in the sector have clearly found an equilibrium and we expect further transactions in the near future.
+
+The challenging freight environment in the dry cargo sectors has pushed sellers to revise their price expectations leading to an increased amount of buying enquiry.  Same is particularly well illustrated by the number of inspections taking place across the board.  Japanese owners invited inspections this week on the 2011 built Tess-82 MAGNOLIA, and we understand that up to 10 parties are now outright.  Deals concluded confirm the falling trend as seen by the sale of 2011 DSME built Kamsarmax SUNNY YOUNG at mid to high Usd 15 mill.
 
 ---
 
 ### Chartering Weekly Comment
 **Date:** 2020-01-21 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
-EAST In the East this week, a few players were faced with ratio changes and cargo delays when receiving Saudi acceptances. However, this has not prevented freight rates from rising quickly; already the Baltic has strengthened some $7pmt relative to the end of last week and there have been multiple fixtures around $80pmt Ras Tanura/Chiba. There may still be some way to go, as the lag between ships heading West and the resultant impact on freight becomes apparent in the East. Perhaps one possible brake on rates could be the re-entry of ships which have been drydocked back into the market. Otherwise, positions lists generally look on the short side and we would expect rates to remain strong in the short term.   WEST This week saw some continuation of the velocity seen in the last two weeks, with rates strengthening in the West. Fixing has tended to take place at around USD 130 -135 Houston/Chiba via Panama, and with such strong levels some traders have begun to angle their ships West in order to relet and take advantage of these rates. With that said, the East has strengthened rapidly and this has eroded some of the western premium we have been seeing recently. At time of writing, it sits at approximately $15pmt.   There are a decent number of reasons to believe the strength of the Western market will endure. It is rumoured that there has already been a fixture in early second decade March - some 50 days in advance. If true, this would imply that players are already keen on not getting caught out in the event of another fixture frenzy. On the product side, netbacks remain substantial and far above cancellation levels. Consequently, freight rates at these levels are still not a substantial enough part of the equation to kill deals and disincentivise lifting. Finally, some terminals are reporting fairly minor delays due to fog, but this could quickly escalate - one to keep an eye on!
+EAST
+In the East this week, a few players were faced with ratio changes and cargo delays when receiving Saudi acceptances. However, this has not prevented freight rates from rising quickly; already the Baltic has strengthened some $7pmt relative to the end of last week and there have been multiple fixtures around $80pmt Ras Tanura/Chiba. There may still be some way to go, as the lag between ships heading West and the resultant impact on freight becomes apparent in the East. Perhaps one possible brake on rates could be the re-entry of ships which have been drydocked back into the market. Otherwise, positions lists generally look on the short side and we would expect rates to remain strong in the short term. 
+
+WEST
+This week saw some continuation of the velocity seen in the last two weeks, with rates strengthening in the West. Fixing has tended to take place at around USD 130 -135 Houston/Chiba via Panama, and with such strong levels some traders have begun to angle their ships West in order to relet and take advantage of these rates. With that said, the East has strengthened rapidly and this has eroded some of the western premium we have been seeing recently. At time of writing, it sits at approximately $15pmt. 
+
+There are a decent number of reasons to believe the strength of the Western market will endure. It is rumoured that there has already been a fixture in early second decade March - some 50 days in advance. If true, this would imply that players are already keen on not getting caught out in the event of another fixture frenzy. On the product side, netbacks remain substantial and far above cancellation levels. Consequently, freight rates at these levels are still not a substantial enough part of the equation to kill deals and disincentivise lifting. Finally, some terminals are reporting fairly minor delays due to fog, but this could quickly escalate - one to keep an eye on!
 
 ---

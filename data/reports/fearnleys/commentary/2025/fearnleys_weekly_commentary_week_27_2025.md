@@ -6,7 +6,7 @@ week: 27
 date_range: "2025-07-02 to 2025-07-04"
 comments_count: 11
 sectors: ["Dry Bulk", "Tankers", "Gas & LNG", "Sale and Purchase (S&P)"]
-generated_at: "2026-10-11 21:03:39"
+generated_at: "2026-10-12 13:31:43"
 ---
 
 # Fearnleys Weekly Broker Commentary - Week 27, 2025
@@ -41,7 +41,9 @@ The Supramax market remained firm despite slow fresh enquiry, with the Atlantic 
 ### VLCC Weekly Comment
 **Date:** 2025-07-02 | **Subtype:** Tank Weekly Comment | **Desk:** Fearnleys Research
 
-After the war Iran/Israel conflict finally settled, it seems that the summer market seems to have kicked in.  Tonnage in the East is now at its peak that it's been all year. We seem to be heading into the territory where charterers will be spoilt for choice and "if he does not take it, we will just go to someone else" .   On the other hand, tonnage in the West has thinned but there has not been much volume there either. This will attract some ballasters from the East but until the volume picks up, we don't see the rates picking up. The West-East arb does not seem to be working which does not help the cause.
+After the war Iran/Israel conflict finally settled, it seems that the summer market seems to have kicked in.  Tonnage in the East is now at its peak that it's been all year. We seem to be heading into the territory where charterers will be spoilt for choice and "if he does not take it, we will just go to someone else" . 
+
+On the other hand, tonnage in the West has thinned but there has not been much volume there either. This will attract some ballasters from the East but until the volume picks up, we don't see the rates picking up. The West-East arb does not seem to be working which does not help the cause.
 
 ---
 
@@ -55,7 +57,11 @@ West Africa is under pressure with 30+ ETS within 5-days or already FOC, but 8 o
 ### Aframax Weekly Comment
 **Date:** 2025-07-02 | **Subtype:** Tank Weekly Comment | **Desk:** Fearnleys Research
 
-NORTH SEA The majority of the first decade July stems have been covered with a lot of programming and limited market activity. Stem wise the 2nd decade looks similar in volume to first 10 days.  Surrounding markets not providing much in the way of opportunity for tonnage.  We should see tonnage availability continue to climb and if we continue to see the lack of activity market levels likely to be tested by charterers.  MEDITERRANEAN Rates are moving sideways with a softer tone as dates now are well into the 2nd decade for all ports. Owners seem to be less resistant as returns are decent for this period of the year and activity isn't that strong so far this week. Balanced tonnage list for local runs with still enough vessels to choose from.
+NORTH SEA
+The majority of the first decade July stems have been covered with a lot of programming and limited market activity. Stem wise the 2nd decade looks similar in volume to first 10 days.  Surrounding markets not providing much in the way of opportunity for tonnage.  We should see tonnage availability continue to climb and if we continue to see the lack of activity market levels likely to be tested by charterers.
+
+MEDITERRANEAN
+Rates are moving sideways with a softer tone as dates now are well into the 2nd decade for all ports. Owners seem to be less resistant as returns are decent for this period of the year and activity isn't that strong so far this week. Balanced tonnage list for local runs with still enough vessels to choose from.
 
 ---
 
@@ -63,21 +69,36 @@ NORTH SEA The majority of the first decade July stems have been covered with a l
 ### LNG Market Report
 **Date:** 2025-07-02 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
-Congratulations to all those involved in the LNG Canada project as the newly commissioned export terminal shipped Canada's first LNG export cargo this week. A significant milestone for the LNG market as new volume directly enters the Pacific region free of Panama Canal risk or diversion to Europe. Whilst the ramp up this year will not be enough to absorb excess supply on the shipping side, it brings a new dynamic to the market in the East.   Most of the past week's chartering activity has also taken place East of Suez with a pair of Middle East fixtures levelling out what had become a hotspot for activity amidst rising geopolitical tensions. Rates have pulled back slightly, and competition remains for outstanding requirements in the Pacific, nonetheless at healthier levels than observed year to date. The Atlantic has been more muted with the lack of activity and a growing availability for prompter tonnage to load end July into 1H August leaving rates to drift downward. There are additional requirements further forward in both basins with some premiums expected for interbasin trade.    There has been an increasing interest in term tonnage in recent weeks, and several ships are now on subjects and a couple more requirements remain uncovered for now. The fundamentals remain unchanged although rates appear to be edging higher, so we are braced for interesting times ahead.
+Congratulations to all those involved in the LNG Canada project as the newly commissioned export terminal shipped Canada's first LNG export cargo this week. A significant milestone for the LNG market as new volume directly enters the Pacific region free of Panama Canal risk or diversion to Europe. Whilst the ramp up this year will not be enough to absorb excess supply on the shipping side, it brings a new dynamic to the market in the East. 
+
+Most of the past week's chartering activity has also taken place East of Suez with a pair of Middle East fixtures levelling out what had become a hotspot for activity amidst rising geopolitical tensions. Rates have pulled back slightly, and competition remains for outstanding requirements in the Pacific, nonetheless at healthier levels than observed year to date. The Atlantic has been more muted with the lack of activity and a growing availability for prompter tonnage to load end July into 1H August leaving rates to drift downward. There are additional requirements further forward in both basins with some premiums expected for interbasin trade. 
+
+There has been an increasing interest in term tonnage in recent weeks, and several ships are now on subjects and a couple more requirements remain uncovered for now. The fundamentals remain unchanged although rates appear to be edging higher, so we are braced for interesting times ahead.
 
 ---
 
 ### Gas Market Weekly Comment - Eastern Market
 **Date:** 2025-07-03 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
-MEG Saudi Aramco announced their Jul Cp at $575 for C3 and $545 for C4, which is much below market expectation, but reflecting the long fob supply. Due to the regional uncertainty, some lifters to refer to sell fob instead of self lifting, avoiding the freight risk and sluggish CFR demand. KPC also issued tender to sell a 22/22 FOB cargo for 18/19 Jul lifting. By the time of writing, Aug C3 Cp was traded at $558 and C4 at $532.   FAR EAST Market sentiment was weak, seeing a handful of importers resales. During the week two lots for 23/0 for 1h and 2h Aug delivery basis Chiba changed hand at Jul FEI minus $1.5, equates to Aug Fei minus mid single at the time of trades. The discounts dived further, with 23/0 2h Aug bid on thurs shown at FEI minus high single, while no bids shown for 1h Aug but offers at minus $7.5.   Several Jul prompt cargos were concluded at Aug Cp plus single digit, or similar equivalence. FIC awarded their buy tender for 2 lots of 23/0 at $560s for late Jul early Aug delivery. We are expecting petchem users to emerge for Aug feedback purchase soon with declined flat price and better margins.  Other than this, IOC was reported to award their Aug 2/2 buy tender on CFR basis at Cp plus 20s. One Korean player also tendered to buy 23kt butane for Aug delivery.
+MEG
+Saudi Aramco announced their Jul Cp at $575 for C3 and $545 for C4, which is much below market expectation, but reflecting the long fob supply. Due to the regional uncertainty, some lifters to refer to sell fob instead of self lifting, avoiding the freight risk and sluggish CFR demand. KPC also issued tender to sell a 22/22 FOB cargo for 18/19 Jul lifting. By the time of writing, Aug C3 Cp was traded at $558 and C4 at $532. 
+
+FAR EAST
+Market sentiment was weak, seeing a handful of importers resales. During the week two lots for 23/0 for 1h and 2h Aug delivery basis Chiba changed hand at Jul FEI minus $1.5, equates to Aug Fei minus mid single at the time of trades. The discounts dived further, with 23/0 2h Aug bid on thurs shown at FEI minus high single, while no bids shown for 1h Aug but offers at minus $7.5. 
+
+Several Jul prompt cargos were concluded at Aug Cp plus single digit, or similar equivalence. FIC awarded their buy tender for 2 lots of 23/0 at $560s for late Jul early Aug delivery. We are expecting petchem users to emerge for Aug feedback purchase soon with declined flat price and better margins.
+
+Other than this, IOC was reported to award their Aug 2/2 buy tender on CFR basis at Cp plus 20s. One Korean player also tendered to buy 23kt butane for Aug delivery.
 
 ---
 
 ### Gas Market Weekly Comment - Western Market
 **Date:** 2025-07-03 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
-US Propane at Mont Belvieu softened after the release of the EIA data for the week ending 27 June which showed a mostly larger-than-anticipated build of 3.1mmbbls and brought overall US primary stock levels to 75.70mmbbls – almost exactly 100% of the level recorded last year. Production levels were effectively flat at 2.8mmbbls/day, but still above the YTD 2025 average of ~2.5mmbbls/day.  That compares to the export rate of 1.868mmbbls/day which itself is just slightly above the YTD 2025 average of 1.852mmbbls/day. Terminal fees, meanwhile, have softened.  After a series of transactions reportedly in the low/mid 5cpg range, a deal today was reported to have been concluded in the mid 4cpg range for an Aug cargo.
+US
+Propane at Mont Belvieu softened after the release of the EIA data for the week ending 27 June which showed a mostly larger-than-anticipated build of 3.1mmbbls and brought overall US primary stock levels to 75.70mmbbls – almost exactly 100% of the level recorded last year.
+Production levels were effectively flat at 2.8mmbbls/day, but still above the YTD 2025 average of ~2.5mmbbls/day.  That compares to the export rate of 1.868mmbbls/day which itself is just slightly above the YTD 2025 average of 1.852mmbbls/day.
+Terminal fees, meanwhile, have softened.  After a series of transactions reportedly in the low/mid 5cpg range, a deal today was reported to have been concluded in the mid 4cpg range for an Aug cargo.
 
 ---
 
@@ -85,13 +106,23 @@ US Propane at Mont Belvieu softened after the release of the EIA data for the we
 ### SnP Weekly Comment
 **Date:** 2025-07-04 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
-MR tankers continue to be the focus of investors with values having stabilised in recent weeks, following a notable correction since the peak of summer 2024. Sellers have done extremely well over the last few years in terms of earnings, so despite the fact they are not selling at the peak, units are leaving fleets likely having repaid their initial investment and more. PTI HUANG HE (50K DWT SPP 2016) was bought by Greek buyers, which will help price units in this range.   The dry market  has had a bumper week in activity but the story remains the same. That is, there is healthy liquidity across older units but a lack of supply on more modern ships. The unusually high amount of activity may be attributed to the incoming summer holidays, with much of Northern Europe taking time away from the desk over the coming weeks. A significant range of sizes transacted this week gives little away in terms of buying preference, which could support the narrative that buyers are seeking tonnage to position themselves for potentially better markets over the next year. Interestingly, capesize GOLDEN ZHOUSHAN (175K DWT Jinhai 2011) sold for USD 22M, below many price expectations.
+MR tankers continue to be the focus of investors with values having stabilised in recent weeks, following a notable correction since the peak of summer 2024. Sellers have done extremely well over the last few years in terms of earnings, so despite the fact they are not selling at the peak, units are leaving fleets likely having repaid their initial investment and more. PTI HUANG HE (50K DWT SPP 2016) was bought by Greek buyers, which will help price units in this range. 
+
+The dry market  has had a bumper week in activity but the story remains the same. That is, there is healthy liquidity across older units but a lack of supply on more modern ships. The unusually high amount of activity may be attributed to the incoming summer holidays, with much of Northern Europe taking time away from the desk over the coming weeks. A significant range of sizes transacted this week gives little away in terms of buying preference, which could support the narrative that buyers are seeking tonnage to position themselves for potentially better markets over the next year. Interestingly, capesize GOLDEN ZHOUSHAN (175K DWT Jinhai 2011) sold for USD 22M, below many price expectations.
 
 ---
 
 ### Chartering Weekly Comment
 **Date:** 2025-07-03 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
-EAST A market bid brought the sleeping Middle East market back to life finally seeing the first deal of the week concluded almost 10 dollars below last done from the previous week. An ongoing FOB tender is still in the works and will only be finalized tomorrow. Currently several Charterers are sniffing for freight against same. This combined with a scorching hot West market have flushed out cargos from other load ports in the East outside the MEG as well. With West earnings now catching up with the East we could be near a floor on freight and next deals could well be slightly above last done.  WEST U.S. LPG inventories increased by 3.0 million barrels compared to last week, lending support to the arbitrage, which remains steady.  The first decade of August continues to show a consistent stream of fixtures and inquiries, driving freight rates into $130 at time of writing. This week, eight deals have been concluded in the mid-to-high $120s per metric ton (Houston–Chiba via Panama), leaving approximately 5–6 vessels open for the August 1–10 loading window.  Looking ahead, we may see additional ships ballasting via the Cape for mid-to-late August loadings, as activity in the Eastern market has recently slowed.
+EAST
+A market bid brought the sleeping Middle East market back to life finally seeing the first deal of the week concluded almost 10 dollars below last done from the previous week. An ongoing FOB tender is still in the works and will only be finalized tomorrow. Currently several Charterers are sniffing for freight against same. This combined with a scorching hot West market have flushed out cargos from other load ports in the East outside the MEG as well. With West earnings now catching up with the East we could be near a floor on freight and next deals could well be slightly above last done.
+
+WEST
+U.S. LPG inventories increased by 3.0 million barrels compared to last week, lending support to the arbitrage, which remains steady.
+
+The first decade of August continues to show a consistent stream of fixtures and inquiries, driving freight rates into $130 at time of writing. This week, eight deals have been concluded in the mid-to-high $120s per metric ton (Houston–Chiba via Panama), leaving approximately 5–6 vessels open for the August 1–10 loading window.
+
+Looking ahead, we may see additional ships ballasting via the Cape for mid-to-late August loadings, as activity in the Eastern market has recently slowed.
 
 ---

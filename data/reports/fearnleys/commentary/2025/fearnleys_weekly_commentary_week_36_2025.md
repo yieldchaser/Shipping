@@ -6,7 +6,7 @@ week: 36
 date_range: "2025-09-03 to 2025-09-05"
 comments_count: 10
 sectors: ["Dry Bulk", "Tankers", "Gas & LNG", "Sale and Purchase (S&P)"]
-generated_at: "2026-10-11 21:03:39"
+generated_at: "2026-10-12 13:31:43"
 ---
 
 # Fearnleys Weekly Broker Commentary - Week 36, 2025
@@ -55,7 +55,9 @@ A long overdue West African splurge has only served to underline how squeezed TC
 ### Aframax Weekly Comment
 **Date:** 2025-09-03 | **Subtype:** Tank Weekly Comment | **Desk:** Fearnleys Research
 
-In the North Sea this week we saw a downward correction in rates. This was anticipated as a local run out of WCN was quoted, attracting a couple of offers from predominantly relets. The supply of tonnage is more than sufficient given the current activity levels, with about half a dozen vessels ready and waiting free of cargo for the next load window. Relets are continuing to absorb early 2nd decade stems, meaning independent owners might feel a bit more pressure with a tonnage list dominated by relets.   Moving on to the Mediterranean, rates have been relatively stable so far this week. Activity has been a bit slower compared to last week, largely because charterers had covered their cargoes well in advance. The tonnage list looks balanced and there should be sufficient supply of available tonnage covering any inquiries in the 14-20 September window.
+In the North Sea this week we saw a downward correction in rates. This was anticipated as a local run out of WCN was quoted, attracting a couple of offers from predominantly relets. The supply of tonnage is more than sufficient given the current activity levels, with about half a dozen vessels ready and waiting free of cargo for the next load window. Relets are continuing to absorb early 2nd decade stems, meaning independent owners might feel a bit more pressure with a tonnage list dominated by relets. 
+
+Moving on to the Mediterranean, rates have been relatively stable so far this week. Activity has been a bit slower compared to last week, largely because charterers had covered their cargoes well in advance. The tonnage list looks balanced and there should be sufficient supply of available tonnage covering any inquiries in the 14-20 September window.
 
 ---
 
@@ -70,7 +72,15 @@ Spot charter rates have come under pressure this week with vessel oversupply in 
 ### Gas Market Weekly Comment - Eastern Market
 **Date:** 2025-09-04 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
-Saudi Aramco announced Sep CP at $520 for C3, and $490 for C4, rollover from Aug. And market participants are expecting a increase for Oct CP as of winter demand. Despite limited trades, cash differentials for Oct FOB evenly split cargo ex AG stand firm at minus teens level, owing to active CFR demand especially for butane. Indian IOC also issued buy tender for Q4 on evenly split cargos, which shall lend further support to discussions. By the time of writing, Oct CP was traded at $542 for C3 and C3/C4 at $25, Oct/Nov C3 was at $8 contango.   Terminal fee for FOB Oct ex US was heard offered at 6 to 7ish, with expectation on winter seasonal demand increment. However, the narrowing ARB and uncertainty US-China tariff talk for Nov onwards, refrained buyers’ appetites on spot trades.  As for the EIA statistics, the 3.2mmbbl build was higher than expected, though the build month-on-month, though a slight decrease of 2.7% year-on-year of 93.1mm. bbls now resides in primary storages, which is 99% of the same time last year.   CFR east window is active with 23/0 for 1h Oct delivery basis Chiba being traded at Oct FEI minus $9.5. Similar parcel for 2h Oct delivery was bid at minus low teens. 4/0 for 1h Oct delivery basis Ningbo was offered at $544, equates to Oct FEI minus small digit.    Outside window a tender galore before the upcoming APPEC meeting. Around 250kt propane were placed into China for end Sep to Oct delivery for feedstock use, with two Canadian stems reported at Oct CP plus 30s and 40s and AG stem at 50s or equivalence basis South/Echina, whereas US origin into NChina at Oct FEI minus mid single digit. One SChina player was reported to buy a 1/1 for late Sep to Oct delivery at Oct CP plus 50s. FPCC also procured one 46/0 for 2h Oct delivery into Mailiao at Oct Mopj minus 50s. HTC was said to buy a late Oct delivered 2/0 at Sep FEI plus low single.
+Saudi Aramco announced Sep CP at $520 for C3, and $490 for C4, rollover from Aug. And market participants are expecting a increase for Oct CP as of winter demand. Despite limited trades, cash differentials for Oct FOB evenly split cargo ex AG stand firm at minus teens level, owing to active CFR demand especially for butane. Indian IOC also issued buy tender for Q4 on evenly split cargos, which shall lend further support to discussions. By the time of writing, Oct CP was traded at $542 for C3 and C3/C4 at $25, Oct/Nov C3 was at $8 contango.
+ 
+Terminal fee for FOB Oct ex US was heard offered at 6 to 7ish, with expectation on winter seasonal demand increment. However, the narrowing ARB and uncertainty US-China tariff talk for Nov onwards, refrained buyers’ appetites on spot trades. 
+As for the EIA statistics, the 3.2mmbbl build was higher than expected, though the build month-on-month, though a slight decrease of 2.7% year-on-year of 93.1mm.
+bbls now resides in primary storages, which is 99% of the same time last year.
+ 
+CFR east window is active with 23/0 for 1h Oct delivery basis Chiba being traded at Oct FEI minus $9.5. Similar parcel for 2h Oct delivery was bid at minus low teens. 4/0 for 1h Oct delivery basis Ningbo was offered at $544, equates to Oct FEI minus small digit. 
+ 
+Outside window a tender galore before the upcoming APPEC meeting. Around 250kt propane were placed into China for end Sep to Oct delivery for feedstock use, with two Canadian stems reported at Oct CP plus 30s and 40s and AG stem at 50s or equivalence basis South/Echina, whereas US origin into NChina at Oct FEI minus mid single digit. One SChina player was reported to buy a 1/1 for late Sep to Oct delivery at Oct CP plus 50s. FPCC also procured one 46/0 for 2h Oct delivery into Mailiao at Oct Mopj minus 50s. HTC was said to buy a late Oct delivered 2/0 at Sep FEI plus low single.
 
 ---
 
@@ -78,13 +88,19 @@ Saudi Aramco announced Sep CP at $520 for C3, and $490 for C4, rollover from Aug
 ### SnP Weekly Comment
 **Date:** 2025-09-05 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
-Only a trickle of tanker sales to report in the first week back since the official end of summer. Overall, the underlying factor remains, particularly across more modern tonnage, that asset values are on the high side compared to current achievable TC rates. On spot however, there is a mixed story with VLCCs ending the week strongly, while products experience more variable conditions. In the Aframax market, scrubber fitted BLUE PRINCE (109K DWT Hudong Zhonghua 2009) sold for USD 32.7M.    A seemingly extremely busy week in the dry market. This is likely due in part to many returning from summer holidays, with broker channels and information streams up and running once again, but also perhaps a symptom of the overall perception that brighter times are on the horizon for the dry market, with the hope that the TC market will mirror the current buoyant spot earnings. The majority of sales have occurred in the 10+yo space, with investors sensing now is the time to strike for a potential asset play. In the only modern transaction, open hatch LILAC HARMONY (38K DWT Tsuneishi Cebu 2020) sold for USD 25.05M.
+Only a trickle of tanker sales to report in the first week back since the official end of summer. Overall, the underlying factor remains, particularly across more modern tonnage, that asset values are on the high side compared to current achievable TC rates. On spot however, there is a mixed story with VLCCs ending the week strongly, while products experience more variable conditions. In the Aframax market, scrubber fitted BLUE PRINCE (109K DWT Hudong Zhonghua 2009) sold for USD 32.7M. 
+ 
+A seemingly extremely busy week in the dry market. This is likely due in part to many returning from summer holidays, with broker channels and information streams up and running once again, but also perhaps a symptom of the overall perception that brighter times are on the horizon for the dry market, with the hope that the TC market will mirror the current buoyant spot earnings. The majority of sales have occurred in the 10+yo space, with investors sensing now is the time to strike for a potential asset play. In the only modern transaction, open hatch LILAC HARMONY (38K DWT Tsuneishi Cebu 2020) sold for USD 25.05M.
 
 ---
 
 ### Chartering Weekly Comment
 **Date:** 2025-09-04 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
-WEST Freight in the West is following the East’s trend; we have seen 2 fixtures in the market this week. Fixtures in the East have left the West tighter than what was thought at the beginning of the week, which could support freight in the West. There are currently 10 ships open for the first decade and 2 for the second decade, just over half of these are ballasting via Panama, leaving uncertainty for USG dates. This marks a shift from last week when most open ships were routing via the Cape.  EAST Freight has continued to come off, with one fixture at the beginning of the week reported just below $80 and at least two more suggesting levels in the mid $70s. Attention is likely to soon shift to the final decade of September, as the first two decades have aligned with annual averages - 7 to 8 fixtures. Vessel positions for the remainder of the month shows many ships being available in both the East and the West - as such it looks like the balance of the month may be less long than current sentiment suggests.
+WEST
+Freight in the West is following the East’s trend; we have seen 2 fixtures in the market this week. Fixtures in the East have left the West tighter than what was thought at the beginning of the week, which could support freight in the West. There are currently 10 ships open for the first decade and 2 for the second decade, just over half of these are ballasting via Panama, leaving uncertainty for USG dates. This marks a shift from last week when most open ships were routing via the Cape.
+
+EAST
+Freight has continued to come off, with one fixture at the beginning of the week reported just below $80 and at least two more suggesting levels in the mid $70s. Attention is likely to soon shift to the final decade of September, as the first two decades have aligned with annual averages - 7 to 8 fixtures. Vessel positions for the remainder of the month shows many ships being available in both the East and the West - as such it looks like the balance of the month may be less long than current sentiment suggests.
 
 ---

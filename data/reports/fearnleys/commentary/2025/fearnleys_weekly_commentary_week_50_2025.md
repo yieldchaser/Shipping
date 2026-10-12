@@ -6,7 +6,7 @@ week: 50
 date_range: "2025-12-10 to 2025-12-12"
 comments_count: 10
 sectors: ["Dry Bulk", "Tankers", "Gas & LNG", "Sale and Purchase (S&P)"]
-generated_at: "2026-10-11 21:03:39"
+generated_at: "2026-10-12 13:31:43"
 ---
 
 # Fearnleys Weekly Broker Commentary - Week 50, 2025
@@ -55,7 +55,11 @@ It’s been a busy start to the week, with more than 20 vessels on subs overnigh
 ### Aframax Weekly Comment
 **Date:** 2025-12-10 | **Subtype:** Tank Weekly Comment | **Desk:** Fearnleys Research
 
-North Sea Some activity and programming has covered almost all the 2nd decade stems with rates remaining on the whole steady. For the right cargo a softer feel but downside limited so far. With Vessels continuing to Ballast both TA and to the Med the available tonnage has remained balanced and helped maintain rates.  Mediterranean  Very busy week in the Mediterranean/Black Sea with some 3rd-decade local cargoes worked too but rates still hoovering around last done levels. Activity should remain healthy heading into next week and owners will have the chance to push unless they are already in Christmas holiday mood.
+North Sea
+Some activity and programming has covered almost all the 2nd decade stems with rates remaining on the whole steady. For the right cargo a softer feel but downside limited so far. With Vessels continuing to Ballast both TA and to the Med the available tonnage has remained balanced and helped maintain rates.
+
+Mediterranean 
+Very busy week in the Mediterranean/Black Sea with some 3rd-decade local cargoes worked too but rates still hoovering around last done levels. Activity should remain healthy heading into next week and owners will have the chance to push unless they are already in Christmas holiday mood.
 
 ---
 
@@ -70,7 +74,11 @@ The festive season is in full swing in London, but that hasn’t led to a slowdo
 ### Gas Market Weekly Comment - Eastern Market
 **Date:** 2025-12-11 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
-Cash premiums for Jan AG FOB evenly split cargos, continued to soar up with active bids against tight supply. Indian HPCL covered two lots of such grades for Jan and one each for Feb and Mar reportedly. Last spot deal was concluded at Jan CP plus $20s. Nevertheless, one producer trading arm bid through window for Jan open date FOB 2/2 at the fixed price of $555, which equates to Jan CP plus $30 for C3 and $38 for C4, yet to entice offers. Another trader also called similar buy tender. There are some delays reported for ADNOC acceptance, understanding most lifters would like to ask for early month loading to cover front demand. Market participants are still awaiting Saudi’s acceptance to have a full scheme on Jan supply. By the time of writing, Jan CP was traded at $525 for C3 and $517 for C4. Jan/Feb C3 CP was traded at $13 backwardation.   Arbitrage for Jan FEI/Lst widened to 160s, supported by the firming CFR FAR EAST demand for Jan delivery. US FOBs for earlier Jan lifting were changed hand at around 8cpg while discussion for later days subdued, in view of narrowing ARB and backwardation. US propane/propylene inventory fell by 1.78 mil barrels to 101.770 mil barrels on the week ended 5th Dec, leaving 9% higher on YOY basis.  Supply shortage persisted for Jan arrival and bids for CFR FAR EAST Window continued surging up. 23/0 parcel for 1h and 2h Jan delivery basis Chiba were bid at Jan FEI plus $35 and Bal Dec FEI plus $6 respectively, which equates to Jan FEI plus $40. Similar parcel for 1h Feb delivery was bid at Jan FEI plus $3, equivalent to Feb FEI plus $26. 46/0 parcel for 2h Jan delivery basis Chiba was bid at Jan FEI plus $21. Outside window a flurry of buy tenders seeking propane for Jan and Feb delivery, total up to 184kt demand. Among such one tender was reported awarded for a 23/0 parcel on Feb delivery basis Schina at Feb CP plus high 80s. Butane for Jan delivery into Asian market are also in high demand, as Indonesia Pertamina keep reissuing buy tender for three even split cargos for Jan delivery.
+Cash premiums for Jan AG FOB evenly split cargos, continued to soar up with active bids against tight supply. Indian HPCL covered two lots of such grades for Jan and one each for Feb and Mar reportedly. Last spot deal was concluded at Jan CP plus $20s. Nevertheless, one producer trading arm bid through window for Jan open date FOB 2/2 at the fixed price of $555, which equates to Jan CP plus $30 for C3 and $38 for C4, yet to entice offers. Another trader also called similar buy tender. There are some delays reported for ADNOC acceptance, understanding most lifters would like to ask for early month loading to cover front demand. Market participants are still awaiting Saudi’s acceptance to have a full scheme on Jan supply. By the time of writing, Jan CP was traded at $525 for C3 and $517 for C4. Jan/Feb C3 CP was traded at $13 backwardation. 
+
+Arbitrage for Jan FEI/Lst widened to 160s, supported by the firming CFR FAR EAST demand for Jan delivery. US FOBs for earlier Jan lifting were changed hand at around 8cpg while discussion for later days subdued, in view of narrowing ARB and backwardation. US propane/propylene inventory fell by 1.78 mil barrels to 101.770 mil barrels on the week ended 5th Dec, leaving 9% higher on YOY basis.
+
+Supply shortage persisted for Jan arrival and bids for CFR FAR EAST Window continued surging up. 23/0 parcel for 1h and 2h Jan delivery basis Chiba were bid at Jan FEI plus $35 and Bal Dec FEI plus $6 respectively, which equates to Jan FEI plus $40. Similar parcel for 1h Feb delivery was bid at Jan FEI plus $3, equivalent to Feb FEI plus $26. 46/0 parcel for 2h Jan delivery basis Chiba was bid at Jan FEI plus $21. Outside window a flurry of buy tenders seeking propane for Jan and Feb delivery, total up to 184kt demand. Among such one tender was reported awarded for a 23/0 parcel on Feb delivery basis Schina at Feb CP plus high 80s. Butane for Jan delivery into Asian market are also in high demand, as Indonesia Pertamina keep reissuing buy tender for three even split cargos for Jan delivery.
 
 ---
 
@@ -78,13 +86,19 @@ Cash premiums for Jan AG FOB evenly split cargos, continued to soar up with acti
 ### SnP Weekly Comment
 **Date:** 2025-12-12 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
-With the festive season now in full swing, owners will be reflecting on 2025 and looking ahead to next year. For the tanker market, owners will be hoping this current market can sustain for as long as possible, however will know that volatility in earnings works both ways. MRs appear to be at the top of buyers' wishlists, having seen increased TC appetite that makes sense of current value levels. Sisters SEAWAYS OLIVE/STAR (49K HMD 2008) were sold at USD 16.2M each.  The usual healthy liquidity is seen in the bulk market this week. As has been the story all year, buyers from the Far East appear to be dominating this market and have been the destination for many European owned ships. There has been particular appetite for Capesize bulkers, which have pushed in value over the recent period. This week DENSA SHARK (179K DWT Hyundai 2012) was sold to chinese buyers for USD 32.5M with TC attached until June 2026. Elsewhere, Ultramax IVS WINDSOR (60K DWT Oshima 2016) was sold to Greeks at USD 26M.
+With the festive season now in full swing, owners will be reflecting on 2025 and looking ahead to next year. For the tanker market, owners will be hoping this current market can sustain for as long as possible, however will know that volatility in earnings works both ways. MRs appear to be at the top of buyers' wishlists, having seen increased TC appetite that makes sense of current value levels. Sisters SEAWAYS OLIVE/STAR (49K HMD 2008) were sold at USD 16.2M each.
+
+The usual healthy liquidity is seen in the bulk market this week. As has been the story all year, buyers from the Far East appear to be dominating this market and have been the destination for many European owned ships. There has been particular appetite for Capesize bulkers, which have pushed in value over the recent period. This week DENSA SHARK (179K DWT Hyundai 2012) was sold to chinese buyers for USD 32.5M with TC attached until June 2026. Elsewhere, Ultramax IVS WINDSOR (60K DWT Oshima 2016) was sold to Greeks at USD 26M.
 
 ---
 
 ### Chartering Weekly Comment
 **Date:** 2025-12-11 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
-EAST ADNOC acceptances were released last night, with no indications of cuts so far. Market chatter suggests that early January cargoes have largely been allocated to Indian PSUs. While the US Gulf has seen a sharp increase in activity over the past three days, the East remains subdued, with only a single January cargo quoted at the time of writing.  WEST Activity has picked up this week, as we have registered 13 spot deals ex USG. This brings total December fixtures to 30 (11/11/8 by decade) and January fixtures to 31 (11/13/7 by decade). After a tender cargo got fixed sub USD 120 HCvP eqv. in the previous week, the market started this week at USD 120s and has now firmed to around USD 130. The position list shows only one vessel open for December and remains tight for January dates too. Heading into 2H January, there are less than a handful actual ships open, but with a potential for more as ship schedules get firmed up. We expect rest of January and early February to be covered soon with Christmas holidays coming up, but levels subject to Arb econs which has been challenging lately.
+EAST
+ADNOC acceptances were released last night, with no indications of cuts so far. Market chatter suggests that early January cargoes have largely been allocated to Indian PSUs. While the US Gulf has seen a sharp increase in activity over the past three days, the East remains subdued, with only a single January cargo quoted at the time of writing.
+
+WEST
+Activity has picked up this week, as we have registered 13 spot deals ex USG. This brings total December fixtures to 30 (11/11/8 by decade) and January fixtures to 31 (11/13/7 by decade). After a tender cargo got fixed sub USD 120 HCvP eqv. in the previous week, the market started this week at USD 120s and has now firmed to around USD 130. The position list shows only one vessel open for December and remains tight for January dates too. Heading into 2H January, there are less than a handful actual ships open, but with a potential for more as ship schedules get firmed up. We expect rest of January and early February to be covered soon with Christmas holidays coming up, but levels subject to Arb econs which has been challenging lately.
 
 ---

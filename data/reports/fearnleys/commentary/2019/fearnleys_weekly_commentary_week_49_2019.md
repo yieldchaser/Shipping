@@ -6,7 +6,7 @@ week: 49
 date_range: "2019-12-02 to 2019-12-04"
 comments_count: 14
 sectors: ["Dry Bulk", "Tankers", "Gas & LNG", "Sale and Purchase (S&P)"]
-generated_at: "2026-10-11 21:03:32"
+generated_at: "2026-10-12 13:31:36"
 ---
 
 # Fearnleys Weekly Broker Commentary - Week 49, 2019
@@ -33,7 +33,9 @@ Positive sentiment all over, with especially the Atlantic strengthening. The pac
 ### Supramax Weekly Comment
 **Date:** 2019-12-02 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
-The positive sentiment from the past week turned more sideways this week. We see USG – USEC still have healthy demand and ships getting paid premiums. Tess 58 mv Teal Bulker was fixed USD 25,000 Aps SW pass to WC India with petcoke. Another Supramax was rumoured to be fixed USD 23,000 to Japan. And strong USD 17,000 was paid on Ultramax fro tct from USG to Med The rest of the Atlantic were rather quiet and positive expectations from owners were fading away. Bsea and East med market didn’t provide enough demand to sustain strong rates from previous week. We have seen vessels from West Med ballasting either towards continent or USG direction.  The ECSAM market is stable except we see slightly less orders on the Far Eastern routes.  Ultramax for trips to Cont/Med went USD 14,000 level . Supramax rates for trips to Singapore/Japan to $13,000/d + $300,000 BB. India ocean and Safrica market remain calm. Supramax delivery Safrica to India was fixed USD10,500 plus 150,000 BB. The Far Eastern market remained stable with positive sentiment.
+The positive sentiment from the past week turned more sideways this week. We see USG – USEC still have healthy demand and ships getting paid premiums. Tess 58 mv Teal Bulker was fixed USD 25,000 Aps SW pass to WC India with petcoke. Another Supramax was rumoured to be fixed USD 23,000 to Japan. And strong USD 17,000 was paid on Ultramax fro tct from USG to Med
+The rest of the Atlantic were rather quiet and positive expectations from owners were fading away. Bsea and East med market didn’t provide enough demand to sustain strong rates from previous week. We have seen vessels from West Med ballasting either towards continent or USG direction. 
+The ECSAM market is stable except we see slightly less orders on the Far Eastern routes.  Ultramax for trips to Cont/Med went USD 14,000 level . Supramax rates for trips to Singapore/Japan to $13,000/d + $300,000 BB. India ocean and Safrica market remain calm. Supramax delivery Safrica to India was fixed USD10,500 plus 150,000 BB. The Far Eastern market remained stable with positive sentiment.
 
 ---
 
@@ -84,21 +86,38 @@ As expected rates in the Baltic and North Sea market have picked up this week wi
 ### LNG Market Report
 **Date:** 2019-12-03 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
-We are in the last month of the final quarter of 2019 and what was predicted to be a robust Q4 2019 has not exceeded Owners’ expectations. Ship Owners enjoyed a mini-boom from early October, however the firm sentiment was short-lived as the market has moderated in the last few weeks. The lacklustre performance of the product market, subdued shipping demand for the winter and an increase in tonnage availability, not just from Independent Owners but also sublets, have contributed to the sentiment change.  The Atlantic Basin kept some balance with prompt cargoes and limited availability, but Owners with ships in the Pacific may feel the pinch as we see rates slip below six- to high five-digit levels due to the lack of activity and cargo demand in the region. However, it’s not all gloomy as fixing levels are still healthy and for most Owners, “in the money”. The concern is more for the post winter season next year where many, including us, anticipate a slightly more challenging environment.  Utilization is key for those months and could mean more inclination from Owners to work competitive rates now for longer duration to brace the shouldering period. That said, rate ideas would need to connect.  For the longer term charters, the future looks active for Owners as a good handful of Oil Majors, Trading Houses and Projects were seen issuing tender documents to secure vessels for delivery between 2022-2025.  On the newbuilding front, Samsung announced 8 orders - believed to be linked to Mozambique LNG - and more orders from them are expected.
+We are in the last month of the final quarter of 2019 and what was predicted to be a robust Q4 2019 has not exceeded Owners’ expectations. Ship Owners enjoyed a mini-boom from early October, however the firm sentiment was short-lived as the market has moderated in the last few weeks. The lacklustre performance of the product market, subdued shipping demand for the winter and an increase in tonnage availability, not just from Independent Owners but also sublets, have contributed to the sentiment change.
+
+The Atlantic Basin kept some balance with prompt cargoes and limited availability, but Owners with ships in the Pacific may feel the pinch as we see rates slip below six- to high five-digit levels due to the lack of activity and cargo demand in the region. However, it’s not all gloomy as fixing levels are still healthy and for most Owners, “in the money”. The concern is more for the post winter season next year where many, including us, anticipate a slightly more challenging environment. 
+Utilization is key for those months and could mean more inclination from Owners to work competitive rates now for longer duration to brace the shouldering period. That said, rate ideas would need to connect. 
+For the longer term charters, the future looks active for Owners as a good handful of Oil Majors, Trading Houses and Projects were seen issuing tender documents to secure vessels for delivery between 2022-2025. 
+On the newbuilding front, Samsung announced 8 orders - believed to be linked to Mozambique LNG - and more orders from them are expected.
 
 ---
 
 ### Gas Market Weekly Comment - Eastern Market
 **Date:** 2019-12-04 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
-MEG: Qatar Petroleum has released Jan lifting schedule with a few delays being reported, mainly due to early-month nominations.  Swap price has ridden a roller coaster this week, with Jan CP being traded from $431 in mid-week to $444 at the time of writing.  End Dec lifting FOB was traded at small premium on Jan CP, and sellers with Jan lifting Fobs also targeted at premium level, especially seeing robust demand into Asia in front amid softening freight.   FAR EAST:  1H Jan CFR Asia Market appear tight, either US or Non-Us origin.  Off window 23kt US-origin propane for 1h Jan delivery is traded at Jan FEI plus $13-14. Discussion for similar cargo delivered in 2h Jan is slightly cheaper but sellers’ ideas hover above teens on FEI link as well.  Non-US origin supply for 1h Jan arrival is short as well. One SChina PDH user has secured 23kt propane for 1h Jan delivery at Jan CP plus mid 60s via tender, while another Major also purchased a full propane for mid/2h Jan delivery at Jan CP plus 60ish.   However not every buyer is that lucky to cover their demand. Till the time of writing, Indonesia Pertamina was reported not covering the 22/22 demand for 1-6th Jan delivery; One Echina petchem user was said that not cover their prompt demand for 23kt propane delivered from 2h Dec into 1h Jan; even Taiwan CPC tender for 11/11 delivered during 1-10th Jan was not heard awarded either. Some Chinese importers has reprogramed and tried to defer their demand into 2h Jan arrival. Apart from spot inquiries, term discussion are still going on. Mid-week one Schina importer was said to cancel their term inquires for 11/11 monthly as the received offers not satisfactory.
+MEG:
+Qatar Petroleum has released Jan lifting schedule with a few delays being reported, mainly due to early-month nominations. 
+Swap price has ridden a roller coaster this week, with Jan CP being traded from $431 in mid-week to $444 at the time of writing. 
+End Dec lifting FOB was traded at small premium on Jan CP, and sellers with Jan lifting Fobs also targeted at premium level, especially seeing robust demand into Asia in front amid softening freight. 
+
+FAR EAST: 
+1H Jan CFR Asia Market appear tight, either US or Non-Us origin. 
+Off window 23kt US-origin propane for 1h Jan delivery is traded at Jan FEI plus $13-14. Discussion for similar cargo delivered in 2h Jan is slightly cheaper but sellers’ ideas hover above teens on FEI link as well. 
+Non-US origin supply for 1h Jan arrival is short as well. One SChina PDH user has secured 23kt propane for 1h Jan delivery at Jan CP plus mid 60s via tender, while another Major also purchased a full propane for mid/2h Jan delivery at Jan CP plus 60ish.  
+However not every buyer is that lucky to cover their demand. Till the time of writing, Indonesia Pertamina was reported not covering the 22/22 demand for 1-6th Jan delivery; One Echina petchem user was said that not cover their prompt demand for 23kt propane delivered from 2h Dec into 1h Jan; even Taiwan CPC tender for 11/11 delivered during 1-10th Jan was not heard awarded either. Some Chinese importers has reprogramed and tried to defer their demand into 2h Jan arrival.
+Apart from spot inquiries, term discussion are still going on. Mid-week one Schina importer was said to cancel their term inquires for 11/11 monthly as the received offers not satisfactory.
 
 ---
 
 ### Gas Market Weekly Comment - Western Market
 **Date:** 2019-12-04 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
-AMERICAS: Winter market is here and Arb is popping. As stated before the NWE and Eastern markets have come to rely on the US as the principal supplier and as a result the Arb is, and will remain firmly open for the foreseeable future. It is even seems to have evolved in to what economist like to call a Goldy Locks scenario,  where it is neither too hot nor too cold,  but just right. With today’s economics , terminal operators are making money, ship owners are making money,  and traders seem happier than they have for a few years. These markets never seem to last but for now it is hard to see how and when it will end. In the domestic market propane inventories drew 1.7 million barrels on the week which was in line with industry expectations. There is enough propane in the US to support cold weather and strong exports and hence we do not expect prices to blow out either way.
+AMERICAS:
+Winter market is here and Arb is popping. As stated before the NWE and Eastern markets have come to rely on the US as the principal supplier and as a result the Arb is, and will remain firmly open for the foreseeable future.
+It is even seems to have evolved in to what economist like to call a Goldy Locks scenario,  where it is neither too hot nor too cold,  but just right. With today’s economics , terminal operators are making money, ship owners are making money,  and traders seem happier than they have for a few years. These markets never seem to last but for now it is hard to see how and when it will end. In the domestic market propane inventories drew 1.7 million barrels on the week which was in line with industry expectations. There is enough propane in the US to support cold weather and strong exports and hence we do not expect prices to blow out either way.
 
 ---
 
@@ -106,13 +125,17 @@ AMERICAS: Winter market is here and Arb is popping. As stated before the NWE and
 ### SnP Weekly Comment
 **Date:** 2019-12-04 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
-The tanker S&P market remains somewhat subdued in terms of completed transactions despite signs of  a number of buying enquiries.  Main reasons being a resilient bid offer spread  with the bellwethers having already placed their cards and others are now preferring to see how the beginning of 2020 plays out.  In what looks to be good timing, Advantage Tankers is reported to have acquired two 2009 Chinese built VLCC’s for usd 38 mill each.  We understand this is a deal done some time back which explains the low price, even allowing for Chinese built discount.  Teekay starting to clear out its older suezmaxes with the 2003 HHI built ISKMATI SPIRIT gone for usd 19.3 mill.  This follows Teekay’s recent sale of same age ASKHINI SPIRIT to Chemnav at same level.  The LR1 GULF CASTLE built 2009 HMD is in play with offer reportedly seen in excess of usd 18 mill.    Steady flow of bulker sales with a softening undertone on values.  Chinese buyers taking advantage of the huge supply of vessels for sale.
+The tanker S&P market remains somewhat subdued in terms of completed transactions despite signs of  a number of buying enquiries.  Main reasons being a resilient bid offer spread  with the bellwethers having already placed their cards and others are now preferring to see how the beginning of 2020 plays out.  In what looks to be good timing, Advantage Tankers is reported to have acquired two 2009 Chinese built VLCC’s for usd 38 mill each.  We understand this is a deal done some time back which explains the low price, even allowing for Chinese built discount.  Teekay starting to clear out its older suezmaxes with the 2003 HHI built ISKMATI SPIRIT gone for usd 19.3 mill.  This follows Teekay’s recent sale of same age ASKHINI SPIRIT to Chemnav at same level.  The LR1 GULF CASTLE built 2009 HMD is in play with offer reportedly seen in excess of usd 18 mill.  
+
+Steady flow of bulker sales with a softening undertone on values.  Chinese buyers taking advantage of the huge supply of vessels for sale.
 
 ---
 
 ### Chartering Weekly Comment
 **Date:** 2019-12-02 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
-December vessel requirements are seemingly more or less sorted and shipping interest has shifted towards January dates in the USG. Several vessels are either fixed for 1st decade January liftings or on subs, including against a cargo tender 6-11 January due today. Freight has bottomed out and is likely to strengthen further in the short term.  The east of Suez market activity is rather limited and freight is now in the high USD 60's RT/Chiba. It is likely that activity will resume once the ADNOC and Saudi acceptances are released.
+December vessel requirements are seemingly more or less sorted and shipping interest has shifted towards January dates in the USG. Several vessels are either fixed for 1st decade January liftings or on subs, including against a cargo tender 6-11 January due today. Freight has bottomed out and is likely to strengthen further in the short term.
+
+The east of Suez market activity is rather limited and freight is now in the high USD 60's RT/Chiba. It is likely that activity will resume once the ADNOC and Saudi acceptances are released.
 
 ---

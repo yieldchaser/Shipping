@@ -6,7 +6,7 @@ week: 32
 date_range: "2024-08-07 to 2024-08-09"
 comments_count: 10
 sectors: ["Dry Bulk", "Tankers", "Gas & LNG", "Sale and Purchase (S&P)"]
-generated_at: "2026-10-11 21:03:38"
+generated_at: "2026-10-12 13:31:42"
 ---
 
 # Fearnleys Weekly Broker Commentary - Week 32, 2024
@@ -48,14 +48,18 @@ Plenty of VLCC tonnage around, especially in the West, have resulted in USG/East
 ### Suezmax Weekly Comment
 **Date:** 2024-08-07 | **Subtype:** Tank Weekly Comment | **Desk:** Fearnleys Research
 
-After a slow start to the week, the Atlantic has finally showed some basic signs of life with a decent volume of ships on subjects. TD20 should still have circa 8-10 cargoes for the third decade with confirmed "last-done" pricing WS 77.5 with a chance of rates nudging up a pip or two by Friday. The US Gulf is still fairly flat, but the positive news is that rates appear to be scraping the bottom at about WS 60 for a T/A run.  To a large extent, the East remains fairly opaque and what cargoes we have seen either flirted with going on VLCC's or went VLCC. We freight MEG/East low WS 90's with a flat trend. BOT/UKCM has suffered at the hands of VLCC's and we're pasting WS 50 cogh against that run today.
+After a slow start to the week, the Atlantic has finally showed some basic signs of life with a decent volume of ships on subjects. TD20 should still have circa 8-10 cargoes for the third decade with confirmed "last-done" pricing WS 77.5 with a chance of rates nudging up a pip or two by Friday. The US Gulf is still fairly flat, but the positive news is that rates appear to be scraping the bottom at about WS 60 for a T/A run.
+
+To a large extent, the East remains fairly opaque and what cargoes we have seen either flirted with going on VLCC's or went VLCC. We freight MEG/East low WS 90's with a flat trend. BOT/UKCM has suffered at the hands of VLCC's and we're pasting WS 50 cogh against that run today.
 
 ---
 
 ### Aframax Weekly Comment
 **Date:** 2024-08-07 | **Subtype:** Tank Weekly Comment | **Desk:** Fearnleys Research
 
-North Sea market remains steady with limited activity so far this week and rates maintaining at 80 x WS 120 for X-North Sea.  We are still seeing tonnage ballast out but with surrounding markets also on the softer side opportunities are limited at the moment.  Charterers in the Mediterranean have managed to utilize willing participation from vessels exiting the North Sea market as well as Suezmax interaction to hold owners around the 80 x WS 135-140 mark for X-Mediterranean. As we head towards the 3rd decade a healthy stem count could help to support owner’s incentives if the Suezmax are not there to cannibalize. For now, we expect activity to remain subdued and for rates to hold around current levels.
+North Sea market remains steady with limited activity so far this week and rates maintaining at 80 x WS 120 for X-North Sea.  We are still seeing tonnage ballast out but with surrounding markets also on the softer side opportunities are limited at the moment.
+
+Charterers in the Mediterranean have managed to utilize willing participation from vessels exiting the North Sea market as well as Suezmax interaction to hold owners around the 80 x WS 135-140 mark for X-Mediterranean. As we head towards the 3rd decade a healthy stem count could help to support owner’s incentives if the Suezmax are not there to cannibalize. For now, we expect activity to remain subdued and for rates to hold around current levels.
 
 ---
 
@@ -63,14 +67,24 @@ North Sea market remains steady with limited activity so far this week and rates
 ### LNG Market Report
 **Date:** 2024-08-08 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
-Market activity remains high this week on both spot and term requirements, with several Charterers pursuing tonnage for winter. There are more enquiries emerging for September laycan and beyond, although such requirements are still competing with cargo deals leaving the market in a somewhat volatile state. We have seen an inversion in the shipping rates, where in the past month there has been a large premium in rates in the West compared to the East, it has now flipped with the East fetching a higher premium particularly on modern 2-stroke vessels. While there is speculation on whether this will push rates higher across the basins, the prompt availability list remains quite long especially for steamships in the East, so competition should keep rates in check, for now.  There have been no new orders this week. However, all eyes are peeled on rumours that a wave of large orders might be on the horizon.
+Market activity remains high this week on both spot and term requirements, with several Charterers pursuing tonnage for winter. There are more enquiries emerging for September laycan and beyond, although such requirements are still competing with cargo deals leaving the market in a somewhat volatile state. We have seen an inversion in the shipping rates, where in the past month there has been a large premium in rates in the West compared to the East, it has now flipped with the East fetching a higher premium particularly on modern 2-stroke vessels. While there is speculation on whether this will push rates higher across the basins, the prompt availability list remains quite long especially for steamships in the East, so competition should keep rates in check, for now.
+
+There have been no new orders this week. However, all eyes are peeled on rumours that a wave of large orders might be on the horizon.
 
 ---
 
 ### Gas Market Weekly Comment - Eastern Market
 **Date:** 2024-08-08 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
-MEG Cash premium for Sep lifting evenly split cargos hover at high single digit. The premium stabilised amidst the weak freight and strong demand into India specifically. One Indian major issued tender to buy upto 4 cargos for Sep to Nov delivery. At the time of writing, Sep Cp was traded at $590 and Sep/Oct traded at flattish level.   FAR EAST 23kt propane for 1h Sep delivery was traded bid at Sep FEI plus $7, while similar cargo for 2H period was bid at Sep FEI plus $3.5 vs offer at $6.  Owing to the squeezed margin, spot inquiries was relatively thin this week. One Korean petchem player was reported to procure a late Sep delivered 23kt propane at FEI plus low single digit, and they’ve issued new tender for mid Sep delivered 23kt butane parcel. One SChina based PDH tendered to buy 23kt or 46kt propane for Sep delivery. Another EChina PDH user was said to buy some propane for 1H Sep delivery at Sep FEI plus high single.   Pertamina reissued their buy tender for an evenly split cargo for mid Sep delivery as last offer at Cp plus 40s higher than target, but yet to hear result.
+MEG
+Cash premium for Sep lifting evenly split cargos hover at high single digit. The premium stabilised amidst the weak freight and strong demand into India specifically. One Indian major issued tender to buy upto 4 cargos for Sep to Nov delivery. At the time of writing, Sep Cp was traded at $590 and Sep/Oct traded at flattish level.
+
+FAR EAST
+23kt propane for 1h Sep delivery was traded bid at Sep FEI plus $7, while similar cargo for 2H period was bid at Sep FEI plus $3.5 vs offer at $6.
+
+Owing to the squeezed margin, spot inquiries was relatively thin this week. One Korean petchem player was reported to procure a late Sep delivered 23kt propane at FEI plus low single digit, and they’ve issued new tender for mid Sep delivered 23kt butane parcel. One SChina based PDH tendered to buy 23kt or 46kt propane for Sep delivery. Another EChina PDH user was said to buy some propane for 1H Sep delivery at Sep FEI plus high single. 
+
+Pertamina reissued their buy tender for an evenly split cargo for mid Sep delivery as last offer at Cp plus 40s higher than target, but yet to hear result.
 
 ---
 
@@ -78,13 +92,21 @@ MEG Cash premium for Sep lifting evenly split cargos hover at high single digit.
 ### SnP Weekly Comment
 **Date:** 2024-08-09 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
-A slump in activity is being felt across chartering and S&P in the tanker space this week as the summer market takes hold. This is likely not distracting owners from their holidays while they enjoy the historically strong position the market is in. In the only sale this week VLCC APOLLO HARMONY 301K DWT IHI KURE 2010 was bought by Smart Tankers for USD 58M, with an end of year delivery.   The dry market too is suffering symptoms of the summer, with a fall in activity this week. This is likely only temporary while owners take a breather before the typically hectic Q4. Despite the lower activity, values have remained steady, with Capesize SEA TRIUMPH 181K DWT KOYO 2012 sold in line with last done at USD 36M.
+A slump in activity is being felt across chartering and S&P in the tanker space this week as the summer market takes hold. This is likely not distracting owners from their holidays while they enjoy the historically strong position the market is in. In the only sale this week VLCC APOLLO HARMONY 301K DWT IHI KURE 2010 was bought by Smart Tankers for USD 58M, with an end of year delivery.
+ 
+The dry market too is suffering symptoms of the summer, with a fall in activity this week. This is likely only temporary while owners take a breather before the typically hectic Q4. Despite the lower activity, values have remained steady, with Capesize SEA TRIUMPH 181K DWT KOYO 2012 sold in line with last done at USD 36M.
 
 ---
 
 ### Chartering Weekly Comment
 **Date:** 2024-08-08 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
-EAST The last done fixture in the East demonstrates reluctancy from owners to keep fixing very low 40 levels. Most owners are now aiming for mid 40s level and above signaling a more optimistic near-term outlook despite a continuously challenging length. Current spot fixture count for August now stands at 20 versus a monthly average so far this year of just above 23 fixtures.   WEST A few September fixtures have already been done, but we still find a couple ships left able to work August dates.  There are reports that several players in the US are looking to buy FOBs in the middle of September. In addition, we expect an Asian spot tender to be quoted early next week for second decade September dates. Last done fixture concluded at 90 H/C.
+EAST
+The last done fixture in the East demonstrates reluctancy from owners to keep fixing very low 40 levels. Most owners are now aiming for mid 40s level and above signaling a more optimistic near-term outlook despite a continuously challenging length. Current spot fixture count for August now stands at 20 versus a monthly average so far this year of just above 23 fixtures. 
+
+WEST
+A few September fixtures have already been done, but we still find a couple ships left able to work August dates.
+
+There are reports that several players in the US are looking to buy FOBs in the middle of September. In addition, we expect an Asian spot tender to be quoted early next week for second decade September dates. Last done fixture concluded at 90 H/C.
 
 ---

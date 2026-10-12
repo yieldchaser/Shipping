@@ -6,7 +6,7 @@ week: 51
 date_range: "2021-12-20 to 2021-12-22"
 comments_count: 11
 sectors: ["Dry Bulk", "Tankers", "Gas & LNG", "Sale and Purchase (S&P)"]
-generated_at: "2026-10-11 21:03:34"
+generated_at: "2026-10-12 13:31:39"
 ---
 
 # Fearnleys Weekly Broker Commentary - Week 51, 2021
@@ -19,7 +19,10 @@ Institutional desk intelligence harvested directly from the Fearnleys Hasura Gra
 ### Capesize Weekly Comment
 **Date:** 2021-12-22 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
-After the Cape rates took a massive hit last week, a floor was eventually reached this week at index average around low USD 20,000 level. In the pacific, the c5 freight was seen in the range of low to high 9s and a TC value presently at USD18000 level. Capes and Newcastlemaxes waiting to discharge in China have dropped by 50 vessels the last four weeks.  Brazilian fixing activity has been limited and freight was dropping by USD 2 to present value of USD 22 pmt.  The Atlantic has been balanced for a relatively long period of time, but rates came off in line with general values and on the back of a couple of spot fixtures. the value of a TA round lost some 10k to present mid 20,000s.  On the period side, there is a demand for tonnage both index linked and at fixed rates but a general lack of ships. In line with our view, owners are expecting a positive development as we get into January.
+After the Cape rates took a massive hit last week, a floor was eventually reached this week at index average around low USD 20,000 level. In the pacific, the c5 freight was seen in the range of low to high 9s and a TC value presently at USD18000 level. Capes and Newcastlemaxes waiting to discharge in China have dropped by 50 vessels the last four weeks. 
+Brazilian fixing activity has been limited and freight was dropping by USD 2 to present value of USD 22 pmt. 
+The Atlantic has been balanced for a relatively long period of time, but rates came off in line with general values and on the back of a couple of spot fixtures. the value of a TA round lost some 10k to present mid 20,000s. 
+On the period side, there is a demand for tonnage both index linked and at fixed rates but a general lack of ships. In line with our view, owners are expecting a positive development as we get into January.
 
 ---
 
@@ -33,7 +36,10 @@ Something of a holiday feel to the market mostly, however in places there appear
 ### Supramax Weekly Comment
 **Date:** 2021-12-22 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
-Limited activity with holiday sentiment kicking in. All routes traded down. Very little fresh orders from Atl, mainly from ECSA, tick more activity from USG. Cont remained fairly balanced with more forward cargoes appearing for Jan dates with breach. Ultramax open N Cont was fixed to the US East Coast at usd 28,000. Supramax open in Houstun was fixed for fhaul at low usd 40,000. Negative sentiment also from the Pacific. In addition some delayes added by Typhoon Rai. Supramax was fixed basis delivery China for an Australian round in the low usd 20,000s. Supramax was fixed bss Gresik via Indonesia redelivery Vietnam at usd 26,000. Usual clinker rounds to China were fixed at low usd 20,000.
+Limited activity with holiday sentiment kicking in. All routes traded down. Very little fresh orders from Atl, mainly from ECSA, tick more activity from USG. Cont remained fairly balanced with more forward cargoes appearing for Jan dates with breach.
+Ultramax open N Cont was fixed to the US East Coast at usd 28,000. Supramax open in Houstun was fixed for fhaul at low usd 40,000.
+Negative sentiment also from the Pacific. In addition some delayes added by Typhoon Rai. Supramax was fixed basis delivery China for an Australian round in the low usd 20,000s.
+Supramax was fixed bss Gresik via Indonesia redelivery Vietnam at usd 26,000. Usual clinker rounds to China were fixed at low usd 20,000.
 
 ---
 
@@ -69,14 +75,16 @@ The Suezmaxes in the Atlantic have had a fairly busy couple of weeks, with West 
 ### Aframax Weekly Comment
 **Date:** 2021-12-22 | **Subtype:** Tank Weekly Comment | **Desk:** Fearnleys Research
 
-The Nsea/Baltic market has remained steady this week on the back of healthy activity and ice conditions inside Baltic. Winter market has officially started with Charterers securing ice tonnage on a premium and non-ice vessels still making decent earnings for cross-continent voyages. Moving into the last week of the year, rates will likely move sideways with no big surprises. In the Med/Bsea we have seen the market trade sideways all week. Charterers have continued to fix forward, and the uncertain situation in Libya combined with a tight tonnage list has allowed Owners to show enough resistance to maintain current rate levels. We expect the market to remain flat with a soft potential for the balance of the Christmas week.
+The Nsea/Baltic market has remained steady this week on the back of healthy activity and ice conditions inside Baltic. Winter market has officially started with Charterers securing ice tonnage on a premium and non-ice vessels still making decent earnings for cross-continent voyages. Moving into the last week of the year, rates will likely move sideways with no big surprises.
+In the Med/Bsea we have seen the market trade sideways all week. Charterers have continued to fix forward, and the uncertain situation in Libya combined with a tight tonnage list has allowed Owners to show enough resistance to maintain current rate levels. We expect the market to remain flat with a soft potential for the balance of the Christmas week.
 
 ---
 
 ### Aframax Weekly Comment
 **Date:** 2021-12-22 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
-The Nsea/Baltic market has remained steady this week on the back of healthy activity and ice conditions inside Baltic. Winter market has officially started with Charterers securing ice tonnage on a premium and non-ice vessels still making decent earnings for cross-continent voyages. Moving into the last week of the year, rates will likely move sideways with no big surprises. In the Med/Bsea we have seen the market trade sideways all week. Charterers have continued to fix forward, and the uncertain situation in Libya combined with a tight tonnage list has allowed Owners to show enough resistance to maintain current rate levels. We expect the market to remain flat with a soft potential for the balance of the Christmas week.
+The Nsea/Baltic market has remained steady this week on the back of healthy activity and ice conditions inside Baltic. Winter market has officially started with Charterers securing ice tonnage on a premium and non-ice vessels still making decent earnings for cross-continent voyages. Moving into the last week of the year, rates will likely move sideways with no big surprises.
+In the Med/Bsea we have seen the market trade sideways all week. Charterers have continued to fix forward, and the uncertain situation in Libya combined with a tight tonnage list has allowed Owners to show enough resistance to maintain current rate levels. We expect the market to remain flat with a soft potential for the balance of the Christmas week.
 
 ---
 
@@ -84,7 +92,11 @@ The Nsea/Baltic market has remained steady this week on the back of healthy acti
 ### LNG Market Report
 **Date:** 2021-12-21 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
-Global LNG cargo prices continue to rise yet again, with energy hungry Europe leading the charge. Stockpiling in North Asia has currently left the region well supplied whilst European gas storage runs at around 60% capacity compared with a 5 year average of 76% for this time of year. In response, traders are re-directing cargoes West and with colder weather predicted in Europe ton-mile is likely to remain weak. Freight levels have taken a steep dive as multiple portfolio players foresee increased idle time and envisage strong competition in a market that is low on firm requirement. The problem could be exacerbated by the potentially very costly daily boil off when needing to keep vessels cold. Looking East, supply demand looks more balanced today but with the West-to-East conveyor belt drying up as vessels remain in the Atlantic or reposition West, freight levels may be forced higher especially if Asian demand starts to pick up again, as usual at this time of year.    This week saw an LOI signed between China Merchant Energy Shipping Co. and Dalian Shipyard for two vessels which would be the first LNGC built in Dalian. In other news, we eagerly awaiting the annual sighting of a very rare vessel (sleigh) built by K. Kringle & Elves, inc in the North Pole yard which probably performed its first voyage circa 24th December 343 A.D. It has interesting dimensions: length 75 cc (candy canes) / 150 lp (lollipops), Width 40 cc / 80 lp and height 55 cc / 110 lp (note: length, width and height are without reindeer). It’s ability to remain in service with emissions targets looming is difficult to assess as emissions remain classified, yet I’m sure all Children around the globe hope its top speed isn’t limited (currently faster than starlight).     We wish all our readers a very merry festive break!
+Global LNG cargo prices continue to rise yet again, with energy hungry Europe leading the charge. Stockpiling in North Asia has currently left the region well supplied whilst European gas storage runs at around 60% capacity compared with a 5 year average of 76% for this time of year. In response, traders are re-directing cargoes West and with colder weather predicted in Europe ton-mile is likely to remain weak. Freight levels have taken a steep dive as multiple portfolio players foresee increased idle time and envisage strong competition in a market that is low on firm requirement. The problem could be exacerbated by the potentially very costly daily boil off when needing to keep vessels cold. Looking East, supply demand looks more balanced today but with the West-to-East conveyor belt drying up as vessels remain in the Atlantic or reposition West, freight levels may be forced higher especially if Asian demand starts to pick up again, as usual at this time of year. 
+ 
+This week saw an LOI signed between China Merchant Energy Shipping Co. and Dalian Shipyard for two vessels which would be the first LNGC built in Dalian. In other news, we eagerly awaiting the annual sighting of a very rare vessel (sleigh) built by K. Kringle & Elves, inc in the North Pole yard which probably performed its first voyage circa 24th December 343 A.D. It has interesting dimensions: length 75 cc (candy canes) / 150 lp (lollipops), Width 40 cc / 80 lp and height 55 cc / 110 lp (note: length, width and height are without reindeer). It’s ability to remain in service with emissions targets looming is difficult to assess as emissions remain classified, yet I’m sure all Children around the globe hope its top speed isn’t limited (currently faster than starlight).  
+ 
+We wish all our readers a very merry festive break!
 
 ---
 
@@ -92,6 +104,10 @@ Global LNG cargo prices continue to rise yet again, with energy hungry Europe le
 ### Chartering Weekly Comment
 **Date:** 2021-12-20 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
-EAST Fixing for mid-2H January in the Middle East is well underway as people start to get ready for Xmas holidays. Last done deals for non-India is around $73-75 Baltic, while one Indian Charterer paid a big premium for an early Jan cargo loading Yanbu earlier this week. We are still left with a handful of open ships during 1-10 Jan, but some of these might be sent West unless we see firm requirements for earlier dates. Further into January there is still a variety of open ships, and it remains to be seen how many uncovered cargos there are before we are done for the month.  WEST The VLGC market marches on with both Eastern and Western rates improving. Having traded at a large discount for some time, Eastern VLGC rates are now trading on par (and even marginally above) its Western counterpart. In TCE terms, both key routes are now returning c. USD 56k/d, some 30-35k/d above cash breakeven levels. Looking into 2022, there are reasons for some optimism with higher prices likely stimulating further growth, first and foremost out of US but also MEG volumes on the back of higher OPEC+ output. Inefficiencies are also expected to continue aiding the supply side, particularly the Panama Canal. With 19 VLGCs pinned for delivery next year, the underlying S/D balance should be in favour of owners, with the big unknown being US propane prices and by extension product differentials. With prices down >30% from the peak, fears over product shortage have come down substantially in tandem with better weather conditions. The big question in our mind is to what extent the market is willing to price in near-term earnings for the VLGC names with an OB for 2023 that counts 45 vessels, more than the previous peak year of 44 units in 2016.
+EAST
+Fixing for mid-2H January in the Middle East is well underway as people start to get ready for Xmas holidays. Last done deals for non-India is around $73-75 Baltic, while one Indian Charterer paid a big premium for an early Jan cargo loading Yanbu earlier this week. We are still left with a handful of open ships during 1-10 Jan, but some of these might be sent West unless we see firm requirements for earlier dates. Further into January there is still a variety of open ships, and it remains to be seen how many uncovered cargos there are before we are done for the month.
+
+WEST
+The VLGC market marches on with both Eastern and Western rates improving. Having traded at a large discount for some time, Eastern VLGC rates are now trading on par (and even marginally above) its Western counterpart. In TCE terms, both key routes are now returning c. USD 56k/d, some 30-35k/d above cash breakeven levels. Looking into 2022, there are reasons for some optimism with higher prices likely stimulating further growth, first and foremost out of US but also MEG volumes on the back of higher OPEC+ output. Inefficiencies are also expected to continue aiding the supply side, particularly the Panama Canal. With 19 VLGCs pinned for delivery next year, the underlying S/D balance should be in favour of owners, with the big unknown being US propane prices and by extension product differentials. With prices down >30% from the peak, fears over product shortage have come down substantially in tandem with better weather conditions. The big question in our mind is to what extent the market is willing to price in near-term earnings for the VLGC names with an OB for 2023 that counts 45 vessels, more than the previous peak year of 44 units in 2016.
 
 ---

@@ -6,7 +6,7 @@ week: 9
 date_range: "2026-02-25 to 2026-02-27"
 comments_count: 10
 sectors: ["Dry Bulk", "Tankers", "Gas & LNG", "Sale and Purchase (S&P)"]
-generated_at: "2026-10-11 21:03:39"
+generated_at: "2026-10-12 13:31:43"
 ---
 
 # Fearnleys Weekly Broker Commentary - Week 09, 2026
@@ -55,7 +55,11 @@ All load regions from East to West have firmed, with the MEG and CPC leading the
 ### Aframax Weekly Comment
 **Date:** 2026-02-25 | **Subtype:** Tank Weekly Comment | **Desk:** Fearnleys Research
 
-North Sea Clearing out the remaining stems for February at the end of last saw the market firm to WS 195. So far this week we have seen limited activity in what looks like a relatively small program for early March. Relets are coming back into the window which should cover the majority of the first 5 days North Sea stems. List remains on the shorter side which is keeping the market steady at the moment.  Mediterranean Correction has been on the cards since last week as owners were pilling up in the front end, dates moved forward and the market was very quiet for 2-3 days. Rates remain at very healthy levels - even if corrected downwards - and with some more activity till the end of this week they should find a new equilibrium. Supply of tonnage has more than enough vessels though for rest of the 1st decade March with a bunch prompt but some of them on their way to the USG.
+North Sea
+Clearing out the remaining stems for February at the end of last saw the market firm to WS 195. So far this week we have seen limited activity in what looks like a relatively small program for early March. Relets are coming back into the window which should cover the majority of the first 5 days North Sea stems. List remains on the shorter side which is keeping the market steady at the moment.
+
+Mediterranean
+Correction has been on the cards since last week as owners were pilling up in the front end, dates moved forward and the market was very quiet for 2-3 days. Rates remain at very healthy levels - even if corrected downwards - and with some more activity till the end of this week they should find a new equilibrium. Supply of tonnage has more than enough vessels though for rest of the 1st decade March with a bunch prompt but some of them on their way to the USG.
 
 ---
 
@@ -70,7 +74,11 @@ The LNG shipping markets East and West of Suez have been moving in different dir
 ### Gas Market Weekly Comment - Eastern Market
 **Date:** 2026-02-26 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
-Saudi Aramco declared force majeure and cancelled March liftings from the Juaymah NGL facilities, which account for around 75% of Saudi exports. At the time of writing, the market was still awaiting the March CP announcement, while March CP swaps surged to around $550 for C3 and $545 for C4 amid the Saudi supply disruption. March/April C3 CP structure also narrowed to near flat, compared with a $13 backwardation in the previous session.  Following the Saudi incident and the resulting supply loss, the U.S.–Far East arbitrage widened further to around minus $260s for March and minus $220s for April. Terminal fees for March loaders were assessed at around 12 cpg. Meanwhile, U.S. propane/propylene inventories fell by 1.7 million barrels to 72.5 million barrels in the week ended Feb. 20, although stocks remained 40.7% higher on a year-on-year basis.  Cash premiums for April delivery strengthened subsequently. In the window, a 23/0 parcel for 1H and 2H April delivery basis Chiba was bid at April FEI plus $47 and plus $39 respectively. A 46/0 parcel for 1H and 2H April delivery basis Ningbo was bid at April FEI plus $40 and plus $38 respectively. However no offers were shown as sellers also monitoring the supply disruption situation. Earlier of the week, FIC reportedly awarded a buy tender for a 4/0 Canadian cargo for April delivery at April FEI plus the high $80s.
+Saudi Aramco declared force majeure and cancelled March liftings from the Juaymah NGL facilities, which account for around 75% of Saudi exports. At the time of writing, the market was still awaiting the March CP announcement, while March CP swaps surged to around $550 for C3 and $545 for C4 amid the Saudi supply disruption. March/April C3 CP structure also narrowed to near flat, compared with a $13 backwardation in the previous session.
+
+Following the Saudi incident and the resulting supply loss, the U.S.–Far East arbitrage widened further to around minus $260s for March and minus $220s for April. Terminal fees for March loaders were assessed at around 12 cpg. Meanwhile, U.S. propane/propylene inventories fell by 1.7 million barrels to 72.5 million barrels in the week ended Feb. 20, although stocks remained 40.7% higher on a year-on-year basis.
+
+Cash premiums for April delivery strengthened subsequently. In the window, a 23/0 parcel for 1H and 2H April delivery basis Chiba was bid at April FEI plus $47 and plus $39 respectively. A 46/0 parcel for 1H and 2H April delivery basis Ningbo was bid at April FEI plus $40 and plus $38 respectively. However no offers were shown as sellers also monitoring the supply disruption situation. Earlier of the week, FIC reportedly awarded a buy tender for a 4/0 Canadian cargo for April delivery at April FEI plus the high $80s.
 
 ---
 
@@ -78,13 +86,19 @@ Saudi Aramco declared force majeure and cancelled March liftings from the Juayma
 ### SnP Weekly Comment
 **Date:** 2026-02-27 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
-The sky really is the limit it seems for the tanker market as earnings go from strength to strength. Last done VLCC rates are being eclipsed by the following fixtures, leading to a game of cat and mouse between owners and charterers. Those who have waited will be the beneficiaries of the rates squeeze, while others who locked in TCs below USD 100K/day will now be feeling slightly hard done by. Buyers this week are paying more attention to the smaller crude sizes, where values have been steadily pushing north so far this year. Buyers in this space need to move quickly and be gutsy in order to capture this earnings environment, as it will feel they are chasing a runaway market. This week Scrubber fitted STENA SUNSHINE (159K DWT Samsung 2013) was bought by Thenamaris for USD 61M.   The Capesize sector has garnered the most attention in the dry space so far this year, and those who have yet to move are running out of time. Owners are seeing TC rates rise steadily, and unless buyers are there to match the ever-increasing prices, owners will be more than happy to withdraw candidates and accept the healthy returns. Modern ships are the hardest to come by, so generally buyers are restricted to the c.15-year-old range. Outside of the largest sizes, the dry sector is still providing an outlet for buyers looking for steel on the water. Competition is rife, and a rumoured 10 buyers were fighting out for Kamsarmax THREE SASKIAS (82K DWT JMU 2014), which eventually sold for USD 26.75M, setting a new benchmark in this sector.
+The sky really is the limit it seems for the tanker market as earnings go from strength to strength. Last done VLCC rates are being eclipsed by the following fixtures, leading to a game of cat and mouse between owners and charterers. Those who have waited will be the beneficiaries of the rates squeeze, while others who locked in TCs below USD 100K/day will now be feeling slightly hard done by. Buyers this week are paying more attention to the smaller crude sizes, where values have been steadily pushing north so far this year. Buyers in this space need to move quickly and be gutsy in order to capture this earnings environment, as it will feel they are chasing a runaway market. This week Scrubber fitted STENA SUNSHINE (159K DWT Samsung 2013) was bought by Thenamaris for USD 61M.
+ 
+The Capesize sector has garnered the most attention in the dry space so far this year, and those who have yet to move are running out of time. Owners are seeing TC rates rise steadily, and unless buyers are there to match the ever-increasing prices, owners will be more than happy to withdraw candidates and accept the healthy returns. Modern ships are the hardest to come by, so generally buyers are restricted to the c.15-year-old range. Outside of the largest sizes, the dry sector is still providing an outlet for buyers looking for steel on the water. Competition is rife, and a rumoured 10 buyers were fighting out for Kamsarmax THREE SASKIAS (82K DWT JMU 2014), which eventually sold for USD 26.75M, setting a new benchmark in this sector.
 
 ---
 
 ### Chartering Weekly Comment
 **Date:** 2026-02-26 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
-EAST An issue at Ras Tanura Terminal currently causing disruptions to trade flows. It remains to be seen how severe and long lasting this situation will be. On a monthly basis Ras Tanura export about 7-10 VLGC cargos. Close to half of these are usually lifted by Indian PSUs. A disruption to exports could lead Saudi lifters to source product elsewhere, likely USG, which could increase ton-miles. At the same time, less Saudi Exports will also mean less volumes coming on water. So far, a Japanese importer has secured a ship on subs loading early second half of March with freight some 16 dollars below last done levels.  WEST Toward the end of last week, activity resumed in earnest following the CNY holiday. A handful of fixtures concluded West of Suez helped lift sentiment, pushing rates back up to around USD 150 pmt on a Houston/Chiba via Panama Canal basis, while further thinning the available position lists. With a few March cargoes still expected to emerge, owners are hopeful that the current momentum will carry into next week, potentially opening the door for additional April fixing and further firming of rates.
+EAST
+An issue at Ras Tanura Terminal currently causing disruptions to trade flows. It remains to be seen how severe and long lasting this situation will be. On a monthly basis Ras Tanura export about 7-10 VLGC cargos. Close to half of these are usually lifted by Indian PSUs. A disruption to exports could lead Saudi lifters to source product elsewhere, likely USG, which could increase ton-miles. At the same time, less Saudi Exports will also mean less volumes coming on water. So far, a Japanese importer has secured a ship on subs loading early second half of March with freight some 16 dollars below last done levels.
+
+WEST
+Toward the end of last week, activity resumed in earnest following the CNY holiday. A handful of fixtures concluded West of Suez helped lift sentiment, pushing rates back up to around USD 150 pmt on a Houston/Chiba via Panama Canal basis, while further thinning the available position lists. With a few March cargoes still expected to emerge, owners are hopeful that the current momentum will carry into next week, potentially opening the door for additional April fixing and further firming of rates.
 
 ---

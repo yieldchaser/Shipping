@@ -6,7 +6,7 @@ week: 25
 date_range: "2022-06-20 to 2022-06-22"
 comments_count: 14
 sectors: ["Dry Bulk", "Tankers", "Gas & LNG", "Sale and Purchase (S&P)"]
-generated_at: "2026-10-11 21:03:35"
+generated_at: "2026-10-12 13:31:40"
 ---
 
 # Fearnleys Weekly Broker Commentary - Week 25, 2022
@@ -26,7 +26,21 @@ Markets are shaking as the fear of recession is increasing, which is also making
 ### Panamax Weekly Comment
 **Date:** 2022-06-22 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
-The market began slowly entering a new week, no holidays of note but the market had yet to find a clear direction with a mixture of views for next done deals. However, the majority felt rates in the Atlantic appeared relatively healthy so far with fundamentals largely unchanged from the end of last week. The market in Asia appeared at first sight a little sloppy, but yet again market players had yet to show their hands so a little too early to call the market.   Some representative fixtures this week:  KM Singapore (80,559/2013) ex dd Zhoushan 26/30 Jun fxd 1 year USD 25,000 – Tongli.  Sakizaya Queen (81,858/2018) Gibraltar 25-27 Jun fxd tct via NCSA redel Skaw-Span Med USD 27,500 – Bunge.   Panamax Nostos (76,620/2005) Hazira 24-25 Jun fxd subs tct via ECSA redel Feast USD 23,500 – Cofco.  Flag Mette (80,785/2016) Passero 24/26 Jun fxd subs 29/30,000 2-3 llegs redel Atlantic– Ultrabulk   Sea Proteus (81,762/2013) Manila 30 Jun fxd Aussie rv mid USD 26,000’s.  CL Tianjing (81,315/2016) Fangcheng 20/21 Jun tct via Indonesia redel India USD 25,000 -LSS.
+The market began slowly entering a new week, no holidays of note but the market had yet to find a clear direction with a mixture of views for next done deals. However, the majority felt rates in the Atlantic appeared relatively healthy so far with fundamentals largely unchanged from the end of last week. The market in Asia appeared at first sight a little sloppy, but yet again market players had yet to show their hands so a little too early to call the market. 
+
+Some representative fixtures this week:
+
+KM Singapore (80,559/2013) ex dd Zhoushan 26/30 Jun fxd 1 year USD 25,000 – Tongli.
+
+Sakizaya Queen (81,858/2018) Gibraltar 25-27 Jun fxd tct via NCSA redel Skaw-Span Med USD 27,500 – Bunge.
+ 
+Panamax Nostos (76,620/2005) Hazira 24-25 Jun fxd subs tct via ECSA redel Feast USD 23,500 – Cofco.
+
+Flag Mette (80,785/2016) Passero 24/26 Jun fxd subs 29/30,000 2-3 llegs redel Atlantic– Ultrabulk 
+
+Sea Proteus (81,762/2013) Manila 30 Jun fxd Aussie rv mid USD 26,000’s.
+
+CL Tianjing (81,315/2016) Fangcheng 20/21 Jun tct via Indonesia redel India USD 25,000 -LSS.
 
 ---
 
@@ -84,21 +98,39 @@ A few Aframax owners, who aim to fix premium business ex Baltic, are also consid
 ### LNG Market Report
 **Date:** 2022-06-22 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
-The Jekyl and Hyde nature of the market in the wake of the Freeport outtage has continued this week. A jump in prompt availability has depressed spot rates in both basins; yet further out towards winter and beyond, levels remain strong with more risk to the upside. In fact, many signals such as reduced production and higher demand for LNG in Europe are bearish for shipping on paper but very bullish for LNG pricing. The old adage "cargo is king" may come to define the coming years, and access to reliable shipping  is clearly supporting multimonth and multiyear rates. That aside, the prompt months may be a challenge for those with excess tonnage.  There were two newbuildings ordered last week.
+The Jekyl and Hyde nature of the market in the wake of the Freeport outtage has continued this week. A jump in prompt availability has depressed spot rates in both basins; yet further out towards winter and beyond, levels remain strong with more risk to the upside. In fact, many signals such as reduced production and higher demand for LNG in Europe are bearish for shipping on paper but very bullish for LNG pricing. The old adage "cargo is king" may come to define the coming years, and access to reliable shipping  is clearly supporting multimonth and multiyear rates. That aside, the prompt months may be a challenge for those with excess tonnage.
+
+There were two newbuildings ordered last week.
 
 ---
 
 ### Gas Market Weekly Comment - Eastern Market
 **Date:** 2022-06-21 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
-MEG Oil tumbled amid fears over recession and swap market is full of uncertainties. Both Jul C3 and C4 were traded below $700 but rebounded on Thurs at $707.  Saudi Aramco released the July acceptance with some advanced liftings reported, and it was said to have several spot cargos for sale, but will be less compared to Jun spot availabilities. One trader is bidding last decade Jul lifting evenly split cargo at Jul CP minus $15 but no offers in window. 1st round CP idea for C3 ranged from $695 to $710, and C4 at $5-10 differentials to C3.   FAR EAST Cash premium strengthened this week as less sellers outstanding. 23kt propane for 2h Jul delivery was traded from Jul FEI flat to plus $4. And similar cargo for 1h Aug delivery was offered at Aug FEI plus $5 and 2h Aug at flat.  Off window a handful of cargos been placed and sentiment improved despite the volatility in swap market. At least one 23/23 cargo for 2h Jul delivery were changed hand between traders, likely into NEA market. One 9-13th Jul lifting ex Australia, heavy butane cargo was placed into Japan and Korea reportedly. One SEA importer was said to purchase a heavy propane cargo for 2h Jul delivery, and it was said to have bought one heavy butane cargo previously for late Jun/early Jul arrival. One Korean trader procured a 16-25th Jul delivered 23kt propane at Jul FEI plus low mid single digit via tender reportedly. And one NChina PDH issued private tender to buy a July arrival full cargo propane, and the result is yet to know at the time of writing.
+MEG
+Oil tumbled amid fears over recession and swap market is full of uncertainties. Both Jul C3 and C4 were traded below $700 but rebounded on Thurs at $707.  Saudi Aramco released the July acceptance with some advanced liftings reported, and it was said to have several spot cargos for sale, but will be less compared to Jun spot availabilities. One trader is bidding last decade Jul lifting evenly split cargo at Jul CP minus $15 but no offers in window.
+1st round CP idea for C3 ranged from $695 to $710, and C4 at $5-10 differentials to C3. 
+
+FAR EAST
+Cash premium strengthened this week as less sellers outstanding. 23kt propane for 2h Jul delivery was traded from Jul FEI flat to plus $4. And similar cargo for 1h Aug delivery was offered at Aug FEI plus $5 and 2h Aug at flat. 
+Off window a handful of cargos been placed and sentiment improved despite the volatility in swap market. At least one 23/23 cargo for 2h Jul delivery were changed hand between traders, likely into NEA market. One 9-13th Jul lifting ex Australia, heavy butane cargo was placed into Japan and Korea reportedly. One SEA importer was said to purchase a heavy propane cargo for 2h Jul delivery, and it was said to have bought one heavy butane cargo previously for late Jun/early Jul arrival. One Korean trader procured a 16-25th Jul delivered 23kt propane at Jul FEI plus low mid single digit via tender reportedly. And one NChina PDH issued private tender to buy a July arrival full cargo propane, and the result is yet to know at the time of writing.
 
 ---
 
 ### Gas Market Weekly Comment - Western Market
 **Date:** 2022-06-21 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
-AMERICAS Fears of recession and US governmental fuel-tax relief ambitions have caused crude to tumble, though propane has yet to react at corresponding rates.  As such, the propane-to-crude ratio has increased from the low/mid 40-percentile range to 47% at present.  Current Mont Belvieu propane for July is pegged at 120.25cpg while WTI is off by $2.25/bbl at $103.80/bbl.  Wednesday’s WTI market closed at $106.19/bbl. Propane arbs, meanwhile, heavily favor the Asian markets, but buy-side interest does not appear to have fully materialized as Middle East export volumes appear to be satisfying demand levels there. The EIA propane inventory data was expected to have been released today (having been delayed due to the newly established “Juneteenth” holiday which was observed on Monday) but a systems issue has reportedly caused the EIA to postpone until next week at the usual Wednesday 9.30am CST time. Lastly, terminal fees crested earlier in the month in the low/mid 6s for July business but have receded for late-July / early August transactions to the mid 4cpg range.  NWE Record imports to the region has closed the trans-Atlantic arb. With butane storages full and looking long in the region. Propane is looking long, with early July being offered in the window with any bids being shown in reply. Retail demand for LPG is low as to be expected with much of Europe experiencing temperatures of over 30 degrees. The petchem sector looks well supplied through 1H July and opportunistic sellers hoping to place spot tons in the market are getting worried, as record imports coincide with seasonally lower demand.   MED The East Med is long due to Yanbu butane coming into the region. While the west Med has been well supplied from the US, during this period of low seasonal demand. Additionally weakness in physical naphtha is further reducing butane value.
+AMERICAS
+Fears of recession and US governmental fuel-tax relief ambitions have caused crude to tumble, though propane has yet to react at corresponding rates.  As such, the propane-to-crude ratio has increased from the low/mid 40-percentile range to 47% at present.  Current Mont Belvieu propane for July is pegged at 120.25cpg while WTI is off by $2.25/bbl at $103.80/bbl.  Wednesday’s WTI market closed at $106.19/bbl.
+Propane arbs, meanwhile, heavily favor the Asian markets, but buy-side interest does not appear to have fully materialized as Middle East export volumes appear to be satisfying demand levels there.
+The EIA propane inventory data was expected to have been released today (having been delayed due to the newly established “Juneteenth” holiday which was observed on Monday) but a systems issue has reportedly caused the EIA to postpone until next week at the usual Wednesday 9.30am CST time.
+Lastly, terminal fees crested earlier in the month in the low/mid 6s for July business but have receded for late-July / early August transactions to the mid 4cpg range.
+
+NWE
+Record imports to the region has closed the trans-Atlantic arb. With butane storages full and looking long in the region. Propane is looking long, with early July being offered in the window with any bids being shown in reply. Retail demand for LPG is low as to be expected with much of Europe experiencing temperatures of over 30 degrees. The petchem sector looks well supplied through 1H July and opportunistic sellers hoping to place spot tons in the market are getting worried, as record imports coincide with seasonally lower demand. 
+
+MED
+The East Med is long due to Yanbu butane coming into the region. While the west Med has been well supplied from the US, during this period of low seasonal demand. Additionally weakness in physical naphtha is further reducing butane value.
 
 ---
 
@@ -106,13 +138,19 @@ AMERICAS Fears of recession and US governmental fuel-tax relief ambitions have c
 ### SnP Weekly Comment
 **Date:** 2022-06-20 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
-A relatively quieter week for Dry cargo SnP markets that have got us used to exceptional volumes of weekly transactions throughout the year. The four vessels changing hands this week are all Supramax, which continues to draw most of the buying enquiry; saying that there has been a relative shift in sentiment with the number of potential buyers thinning down and adopting a standby approach to a market that appears to show signs of weakening. Nevertheless values remain flat for the time being with the 2009 built Tess 58 MV “SAGARJEET” achieving USD 18.4m.   Slightly opposite momentum on the tanker front despite the limited amount of reported sales this week. We are witnessing a strong Buying appetite with signs of a number of ongoing negotiations; an appetite however that is met with a fast-moving target by Sellers who have been long awaiting for a market rebound and who are now revising their ideas upwards in light of what seems to be an unanimous consensus of even better days to come.
+A relatively quieter week for Dry cargo SnP markets that have got us used to exceptional volumes of weekly transactions throughout the year. The four vessels changing hands this week are all Supramax, which continues to draw most of the buying enquiry; saying that there has been a relative shift in sentiment with the number of potential buyers thinning down and adopting a standby approach to a market that appears to show signs of weakening. Nevertheless values remain flat for the time being with the 2009 built Tess 58 MV “SAGARJEET” achieving USD 18.4m.
+ 
+Slightly opposite momentum on the tanker front despite the limited amount of reported sales this week. We are witnessing a strong Buying appetite with signs of a number of ongoing negotiations; an appetite however that is met with a fast-moving target by Sellers who have been long awaiting for a market rebound and who are now revising their ideas upwards in light of what seems to be an unanimous consensus of even better days to come.
 
 ---
 
 ### Chartering Weekly Comment
 **Date:** 2022-06-21 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
-EAST The Indian majors continue their high activity in the East and we have seen 3 deals on subs this week. Other market players have also been making some movements, and the focus has now shifted to 2nd decade July onwards as early July fixing is good as done. Last done for non-India discharge is being reported in the mid-high 70s, while last done deals to the Indian majors have been concluded in the mid-high 80s. With the latest activity considered we expect freight to remain firm.  WEST The western freight rates are on the rise again and we are starting to see freight enquiries for August dates. On the one hand, freight is gaining momentum in the end of July although for the vessels left open in the first half, the threat of waiting time is imminent. We have seen over 20 spot fixtures out of the USG/USEC so far in July and owners are now aiming around USD 110 Houston/Chiba and high 60s Houston/Flushing. With a handful of uncovered July and early August cargoes out there and the position list in the hands of few players in addition to the arb supporting today’s freight we expect rates to at least maintain.
+EAST
+The Indian majors continue their high activity in the East and we have seen 3 deals on subs this week. Other market players have also been making some movements, and the focus has now shifted to 2nd decade July onwards as early July fixing is good as done. Last done for non-India discharge is being reported in the mid-high 70s, while last done deals to the Indian majors have been concluded in the mid-high 80s. With the latest activity considered we expect freight to remain firm.
+
+WEST
+The western freight rates are on the rise again and we are starting to see freight enquiries for August dates. On the one hand, freight is gaining momentum in the end of July although for the vessels left open in the first half, the threat of waiting time is imminent. We have seen over 20 spot fixtures out of the USG/USEC so far in July and owners are now aiming around USD 110 Houston/Chiba and high 60s Houston/Flushing. With a handful of uncovered July and early August cargoes out there and the position list in the hands of few players in addition to the arb supporting today’s freight we expect rates to at least maintain.
 
 ---

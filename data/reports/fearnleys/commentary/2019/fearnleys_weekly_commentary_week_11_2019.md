@@ -6,7 +6,7 @@ week: 11
 date_range: "2019-03-11 to 2019-03-13"
 comments_count: 13
 sectors: ["Dry Bulk", "Tankers", "Gas & LNG", "Sale and Purchase (S&P)"]
-generated_at: "2026-10-11 21:03:31"
+generated_at: "2026-10-12 13:31:36"
 ---
 
 # Fearnleys Weekly Broker Commentary - Week 11, 2019
@@ -84,14 +84,28 @@ As expected, Aframax rates in the Nsea and Baltic increased entering the fixing 
 ### LNG Market Report
 **Date:** 2019-03-13 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
-FOB cargoes on sale across all basins, plus some short term requirements have kept things bit more busy this week, especially as we move towards the shoulder months. In the spot market, the scenery has however not changed significantly and the availability list yet remains long, giving Charterers plenty of options. Therefore, spot rates remain under pressure across all three basins. In the term market, however, interest from Charterers in securing tonnage towards autumn/winter has increased and especially for coverage from September onwards.  For a change, there were no new large LNGC  orders reported this week, but plenty activity on SSLNG, a segment we also follow closely here at Fearnleys.
+FOB cargoes on sale across all basins, plus some short term requirements have kept things bit more busy this week, especially as we move towards the shoulder months. In the spot market, the scenery has however not changed significantly and the availability list yet remains long, giving Charterers plenty of options. Therefore, spot rates remain under pressure across all three basins. In the term market, however, interest from Charterers in securing tonnage towards autumn/winter has increased and especially for coverage from September onwards. 
+For a change, there were no new large LNGC  orders reported this week, but plenty activity on SSLNG, a segment we also follow closely here at Fearnleys.
 
 ---
 
 ### Gas Market Weekly Comment - Eastern Market
 **Date:** 2019-03-13 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
-MEG: April CP swap’s have seen volatility throughout this week with $10 up and down swings on daily basis, reflecting continued uncertainty in the front market and differing views with regard to future CP value.  April MEG liftings continue being traded at double digits premium to CP and still inquires remain outstanding. Spurred by demand from India and Indonesia especially.  Term lifters are still awaiting Saudi acceptances, which should come over the weekend, before taking additional decisions.  At the time of writing, April propane CP is traded at $488 and butane at around $20 higher.  FAR EAST: There is big a big gap in price between cargoes delivered in 1h April versus 2h April. This Thursday 23kt propane for 2h Apr was concluded at balance March FEI flat, and other bids for similar cargo are at April FEI plus $12.  However, the CFR market for 1h April delivery continue being very active, with bidding at April FEI +$34 while offering stands at April CP +$47, this equates to April FEI plus $60 at current values.  The delays of US origin tonnes saw no relief this week, causing further backwadation between 1st and 2nd half arrival cargoes.  India’s BPCL issued buy tenders totaling 85kt in total volume for April delivery. Indonesia’s Pertamina tendered to buy a 44kt split cargo for delivery in 1h April, the result is unknown at time of writing. FPC withdrew their buy tender for 22k or 44k propane for delivery 6-20 April as no suitable offer was received for this period.  A couple of propane and heavy propane cargos have been sold into China, with premium concluded reported to be above April CP +$40’s.  There are still outstanding inquires for 2h April delivery but buyer’s sentiment is weaker because of slow domestic distribution and eroding margins with surging costs.
+MEG:
+April CP swap’s have seen volatility throughout this week with $10 up and down swings on daily basis, reflecting continued uncertainty in the front market and differing views with regard to future CP value. 
+April MEG liftings continue being traded at double digits premium to CP and still inquires remain outstanding. Spurred by demand from India and Indonesia especially. 
+Term lifters are still awaiting Saudi acceptances, which should come over the weekend, before taking additional decisions. 
+At the time of writing, April propane CP is traded at $488 and butane at around $20 higher.
+
+FAR EAST:
+There is big a big gap in price between cargoes delivered in 1h April versus 2h April. This Thursday 23kt propane for 2h Apr was concluded at balance March FEI flat, and other bids for similar cargo are at April FEI plus $12. 
+However, the CFR market for 1h April delivery continue being very active, with bidding at April FEI +$34 while offering stands at April CP +$47, this equates to April FEI plus $60 at current values. 
+The delays of US origin tonnes saw no relief this week, causing further backwadation between 1st and 2nd half arrival cargoes. 
+India’s BPCL issued buy tenders totaling 85kt in total volume for April delivery. Indonesia’s Pertamina tendered to buy a 44kt split cargo for delivery in 1h April, the result is unknown at time of writing.
+FPC withdrew their buy tender for 22k or 44k propane for delivery 6-20 April as no suitable offer was received for this period. 
+A couple of propane and heavy propane cargos have been sold into China, with premium concluded reported to be above April CP +$40’s. 
+There are still outstanding inquires for 2h April delivery but buyer’s sentiment is weaker because of slow domestic distribution and eroding margins with surging costs.
 
 ---
 
@@ -106,6 +120,7 @@ This winter in the US has been deified by smaller than expected draws in US inve
 ### Chartering Weekly Comment
 **Date:** 2019-03-12 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
-The VLGC market in the West came back to life this week with several fixtures out of the US during first decade of April. A week or so back in time, 1-10 April seemed more-or-less done in terms of cargo enquiries, however, a spot FOB tender parallel to a couple of US East coast cargoes needing freight revived the market. Very high USD 50’s was still on the cards as of yesterday although owners are now trying to use the momentum to push freight back above the USD 60 per ton mark. 2nd decade April stems are already being shown, however, remains to be fixed. First half April looks to be controlled by one major owner and vessel overhang from March to April has been reduced from 4-5 VLGCs to abt 1-3 VLGCs. The market East of Suez was active last week for end March and very early April laycans and the market turned from somewhat negative to suddenly breaking USD 30 per ton again. Early April seems fairly tight on shipping, however, with ADNOC acceptances being delayed some 1-2 weeks and players expecting both delays and cuts from Saudi Aramco with regards to April cargoes, the inevitable question is how long this uptick with last.
+The VLGC market in the West came back to life this week with several fixtures out of the US during first decade of April. A week or so back in time, 1-10 April seemed more-or-less done in terms of cargo enquiries, however, a spot FOB tender parallel to a couple of US East coast cargoes needing freight revived the market. Very high USD 50’s was still on the cards as of yesterday although owners are now trying to use the momentum to push freight back above the USD 60 per ton mark.
+2nd decade April stems are already being shown, however, remains to be fixed. First half April looks to be controlled by one major owner and vessel overhang from March to April has been reduced from 4-5 VLGCs to abt 1-3 VLGCs. The market East of Suez was active last week for end March and very early April laycans and the market turned from somewhat negative to suddenly breaking USD 30 per ton again. Early April seems fairly tight on shipping, however, with ADNOC acceptances being delayed some 1-2 weeks and players expecting both delays and cuts from Saudi Aramco with regards to April cargoes, the inevitable question is how long this uptick with last.
 
 ---

@@ -6,7 +6,7 @@ week: 20
 date_range: "2020-05-12 to 2020-05-15"
 comments_count: 14
 sectors: ["Dry Bulk", "Tankers", "Gas & LNG", "Sale and Purchase (S&P)"]
-generated_at: "2026-10-11 21:03:32"
+generated_at: "2026-10-12 13:31:37"
 ---
 
 # Fearnleys Weekly Broker Commentary - Week 20, 2020
@@ -91,14 +91,19 @@ The inertia of last week’s shipping market continued at the start of this one,
 ### Gas Market Weekly Comment - Eastern Market
 **Date:** 2020-05-14 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
-MEG: Moves in June CP Swap market was muted earlier this week and Propane CP swung between $280 to $290. Until Thursday it surged up to $305 with the anticipation of further cuts on Saudi’s June liftings. Butane CP rebounded to $300, narrowing down the spread against propane from previous $30. Qatar petroleum was reported to award 18-20th June lifting equal ratio cargo via tender. Despite the advance on flat price, FOB netback remains at double digit discounts.    FAR EAST: Bids for propane delivered in 2h June has slightly improved from discount to small premium on June FEI, while offers hover at mid-single digit premium. Earlier this week two half cargo propane parcels were traded into China at June CP plus 30s, and Thurs one EChina PDH player was reported to award their buy tender for 23/0 delivered during end June/early Jul at CP plus 20ish. Taiwan CPC also issued buy tender to secure one 11/11 for last decade June delivery, which result is yet to know. With limited inquiries for June arrival tons, cash premium keep declining, which alternatively suppressed the FOB values and refrained trading activities. However, with the expectation on lockdown easing and slow recovery, players are still cautiously monitoring the arbitrage window and trying to move tons to EAST.
+MEG:
+Moves in June CP Swap market was muted earlier this week and Propane CP swung between $280 to $290. Until Thursday it surged up to $305 with the anticipation of further cuts on Saudi’s June liftings. Butane CP rebounded to $300, narrowing down the spread against propane from previous $30. Qatar petroleum was reported to award 18-20th June lifting equal ratio cargo via tender. Despite the advance on flat price, FOB netback remains at double digit discounts. 
+
+FAR EAST:
+Bids for propane delivered in 2h June has slightly improved from discount to small premium on June FEI, while offers hover at mid-single digit premium. Earlier this week two half cargo propane parcels were traded into China at June CP plus 30s, and Thurs one EChina PDH player was reported to award their buy tender for 23/0 delivered during end June/early Jul at CP plus 20ish. Taiwan CPC also issued buy tender to secure one 11/11 for last decade June delivery, which result is yet to know. With limited inquiries for June arrival tons, cash premium keep declining, which alternatively suppressed the FOB values and refrained trading activities. However, with the expectation on lockdown easing and slow recovery, players are still cautiously monitoring the arbitrage window and trying to move tons to EAST.
 
 ---
 
 ### Gas Market Weekly Comment - Western Market
 **Date:** 2020-05-14 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
-AMERICAS: A large build of 2.2 million barrels in US inventories was not enough to have a significant bearish effect on Mt Belvieu propane value. Strong Mt Belvieu propane and global demand destruction due to the corona virus has lead to weak FEI and CIF ARA values. Putting netback values close to cancellation levels to the East and negative to Europe. There is hope that further production cuts from the AG for June will clear some of the overhang of cargoes in the East and Indian markets, and improve the arb. No US cargo cancellations have occurred for June liftings . The question is will the arb improve rapidly enough to stimulate trades and keep cancellations to zero? Our guess is YES.
+AMERICAS:
+A large build of 2.2 million barrels in US inventories was not enough to have a significant bearish effect on Mt Belvieu propane value. Strong Mt Belvieu propane and global demand destruction due to the corona virus has lead to weak FEI and CIF ARA values. Putting netback values close to cancellation levels to the East and negative to Europe. There is hope that further production cuts from the AG for June will clear some of the overhang of cargoes in the East and Indian markets, and improve the arb. No US cargo cancellations have occurred for June liftings . The question is will the arb improve rapidly enough to stimulate trades and keep cancellations to zero? Our guess is YES.
 
 ---
 
@@ -106,13 +111,21 @@ AMERICAS: A large build of 2.2 million barrels in US inventories was not enough 
 ### SnP Weekly Comment
 **Date:** 2020-05-15 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
-Momentum in the tanker markets seems to have taken a downturn this week with most players digesting weeks of high rate volatility which was mainly driven by a now fading storage play. As a result there are no new sales to report this week but quite to the contrary we are seeing a number of older transactions fall apart in light of the weaker charter markets. Notably a number of owners who had managed to take advantage of the buying appetite for vintage crude tonnage are seeing their buying counterparts unable to execute.   Buying enquiry seems to therefore gradually shift to the Dry SnP markets where the everlasting pressure on charter rates is taking its toll on values. A number of sales this week have indeed seen a relative value correction with an increased amount of sellers deciding to trigger at today's market rather than face the uncertain outlook currently shared by most market players.
+Momentum in the tanker markets seems to have taken a downturn this week with most players digesting weeks of high rate volatility which was mainly driven by a now fading storage play. As a result there are no new sales to report this week but quite to the contrary we are seeing a number of older transactions fall apart in light of the weaker charter markets. Notably a number of owners who had managed to take advantage of the buying appetite for vintage crude tonnage are seeing their buying counterparts unable to execute. 
+
+Buying enquiry seems to therefore gradually shift to the Dry SnP markets where the everlasting pressure on charter rates is taking its toll on values. A number of sales this week have indeed seen a relative value correction with an increased amount of sellers deciding to trigger at today's market rather than face the uncertain outlook currently shared by most market players.
 
 ---
 
 ### Chartering Weekly Comment
 **Date:** 2020-05-12 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
-EAST Market liquidity has been limited East of Suez this week: on the supply side, a large number of trader re-lets spread throughout May and into June has increased competition between owners. On the demand side, charterers see a falling baltic and a lengthy positions list and feel there is no pressure to fix in before it is necessary to do so.   Reduced market activity has made it difficult to say exactly how freight should be priced. However, a trader was heard to fix in a 2002-blt vessel at $45 Ras Tanura/Chiba for early June while an Indian oil major fixed in at a few dollars below that for the end of May. Although not necessarily the best benchmarks, Charterers will likely use these two things as a reference before the release of Saudi acceptances early next week.   WEST In the West, there is a gap between the expectations of charterers, who can’t justify buying spot cargoes on current netback econs, and those of Owners, who find it difficult to accept freight ideas substantially below last done. The result of this is a longer positions list with a fair share of relets and an abundance of FOB cargoes for sale throughout June in the US. There has been no news of cancellations in 1H June so far, and Owners may feel they are able to leverage that to get better rates for the earlier part of the month. However, many are of the opinion that weak product sentiment globally means that concessions will need to be made on freight. The addition of ethane carriers into the VLGC market this week will put further pressure on those with ships to be more competitive when it comes to pricing.
+EAST
+Market liquidity has been limited East of Suez this week: on the supply side, a large number of trader re-lets spread throughout May and into June has increased competition between owners. On the demand side, charterers see a falling baltic and a lengthy positions list and feel there is no pressure to fix in before it is necessary to do so. 
+
+Reduced market activity has made it difficult to say exactly how freight should be priced. However, a trader was heard to fix in a 2002-blt vessel at $45 Ras Tanura/Chiba for early June while an Indian oil major fixed in at a few dollars below that for the end of May. Although not necessarily the best benchmarks, Charterers will likely use these two things as a reference before the release of Saudi acceptances early next week.
+
+WEST
+In the West, there is a gap between the expectations of charterers, who can’t justify buying spot cargoes on current netback econs, and those of Owners, who find it difficult to accept freight ideas substantially below last done. The result of this is a longer positions list with a fair share of relets and an abundance of FOB cargoes for sale throughout June in the US. There has been no news of cancellations in 1H June so far, and Owners may feel they are able to leverage that to get better rates for the earlier part of the month. However, many are of the opinion that weak product sentiment globally means that concessions will need to be made on freight. The addition of ethane carriers into the VLGC market this week will put further pressure on those with ships to be more competitive when it comes to pricing.
 
 ---

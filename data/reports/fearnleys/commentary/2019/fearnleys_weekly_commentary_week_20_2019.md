@@ -6,7 +6,7 @@ week: 20
 date_range: "2019-05-13 to 2019-05-19"
 comments_count: 18
 sectors: ["Dry Bulk", "Tankers", "Gas & LNG", "Sale and Purchase (S&P)"]
-generated_at: "2026-10-11 21:03:31"
+generated_at: "2026-10-12 13:31:36"
 ---
 
 # Fearnleys Weekly Broker Commentary - Week 20, 2019
@@ -84,14 +84,28 @@ Aframax rates in the North Sea and Baltic increased end of last week, with main 
 ### LNG Market Report
 **Date:** 2019-05-13 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
-Over the past week, LNG Shipping rates have been strengthening on basic market fundamentals, both east and west of Suez. We have seen tightness on modern tonnage and in addition to firmer rates, ballast bonus sentiment is close to roundtrip economics. However, the cross-basin arb is still very much closed. The question therefore is, will this firmer trend continue through the summer and into the autumn or will we have a repeat of last year’s development, where spot rates increased in June, but came of slightly ahead of August?   Going forward, there are quite a few scheduled redeliveries where some need to drydock, but they are also getting good attention from charterers for potential autumn/winter coverage.    DSME logged one LNGC NB this week, although it’s a little uncertainty around the price, it appears to have been a slot that was priced some time ago.
+Over the past week, LNG Shipping rates have been strengthening on basic market fundamentals, both east and west of Suez. We have seen tightness on modern tonnage and in addition to firmer rates, ballast bonus sentiment is close to roundtrip economics. However, the cross-basin arb is still very much closed. The question therefore is, will this firmer trend continue through the summer and into the autumn or will we have a repeat of last year’s development, where spot rates increased in June, but came of slightly ahead of August? 
+
+Going forward, there are quite a few scheduled redeliveries where some need to drydock, but they are also getting good attention from charterers for potential autumn/winter coverage. 
+ 
+DSME logged one LNGC NB this week, although it’s a little uncertainty around the price, it appears to have been a slot that was priced some time ago.
 
 ---
 
 ### Gas Market Weekly Comment - Eastern Market
 **Date:** 2019-05-14 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
-MEG: Saudi Aramco released their June acceptances, and it appears that there are some shortage on C3 supply. Lifters who have full C3 liftings get delays while the rest with equal ratios are more comfortable with dates as per nominated. There are plenty of equal ratio cargoes are available in the FOB market and the offer level for 2h June lifting has come off to discount level.  KPC issued a sales tender for a 4/5 June lifting 2/2 c3/c4, result is not known yet.  Indian importers are also reported to postpone/resell some June lifting FOBs.  Paper swap values have been volatile this week. US stock buildup and higher production figures than expected has smashed the market values.  June CP once traded at $480 earlier this week, only to plunge below $450$ and then slightly rebound to $455 at time of writing. Butane is assessed $22 cheaper but with the length on Butane we expect the spread to expand.  FAR EAST: Due to the minor delays caused by the collision in Houston ship channel over the weekend, the June CFR market has tightened, buyers has been buying in/off window to cover front shorts. 23kt propane for 1h June was traded in window at June FEI plus $53, last time such a high premium was achieved is two years back.  2h June CFR market is less tight but Japanese buyers are actively covering in at levels of June FEI plus $25-30.  Comparatively, China importers have been less active this week, main buyers have been PDH operators. Sluggish demand from the domestic sector is killing extra speculative interest. Traditional importers are cautiously monitoring their inventories and sales before deciding whether to buy additional tons, taking into consideration the front premium and intermonth spread between June/July.
+MEG:
+Saudi Aramco released their June acceptances, and it appears that there are some shortage on C3 supply. Lifters who have full C3 liftings get delays while the rest with equal ratios are more comfortable with dates as per nominated. There are plenty of equal ratio cargoes are available in the FOB market and the offer level for 2h June lifting has come off to discount level. 
+KPC issued a sales tender for a 4/5 June lifting 2/2 c3/c4, result is not known yet. 
+Indian importers are also reported to postpone/resell some June lifting FOBs. 
+Paper swap values have been volatile this week. US stock buildup and higher production figures than expected has smashed the market values. 
+June CP once traded at $480 earlier this week, only to plunge below $450$ and then slightly rebound to $455 at time of writing. Butane is assessed $22 cheaper but with the length on Butane we expect the spread to expand.
+
+FAR EAST:
+Due to the minor delays caused by the collision in Houston ship channel over the weekend, the June CFR market has tightened, buyers has been buying in/off window to cover front shorts. 23kt propane for 1h June was traded in window at June FEI plus $53, last time such a high premium was achieved is two years back. 
+2h June CFR market is less tight but Japanese buyers are actively covering in at levels of June FEI plus $25-30. 
+Comparatively, China importers have been less active this week, main buyers have been PDH operators. Sluggish demand from the domestic sector is killing extra speculative interest. Traditional importers are cautiously monitoring their inventories and sales before deciding whether to buy additional tons, taking into consideration the front premium and intermonth spread between June/July.
 
 ---
 
@@ -106,7 +120,9 @@ Delays , delays, delays. Seems the Houston Ship Channel cannot rid itself from t
 ### Chartering Weekly Comment
 **Date:** 2019-05-14 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
-The VLGC market in the East has been in a waiting mode for the Saudi cargo acceptances this week. And with this inactivity, the market has gradually gone through some downward adjustments on rates. The Baltic VLGC rates have come down almost 3 dollars over the week and are at the current moment trading just below 40,000 per day. We expect the market sentiment to change once the mentioned cargo acceptances are out as this will most probably take out a few vessel positions and further reduce the vessel length for June loading, which are already significantly shorter due to Indian congestion and consequential vessel delays there. As such we do expect the 14-day consecutive drop in the Baltic will come to an end and flatten out.  In the Western market a number of ships has being taken out for June loadings, both out of USG and USEC. The majority of fixtures have been concluded at around mid USD 90’s East and in the low USD 50’s West, however, in the short term going forward, freight looks set to increase as vessel supply is tight. The Houston ship channel experienced a collision between a VLGC and two barges, resulting in a spillage and consequently closure of both inbound and outbound vessel traffic. Nevertheless, no major effects from the collision has been observed so far and we expect any delays to be back on time by next week.
+The VLGC market in the East has been in a waiting mode for the Saudi cargo acceptances this week. And with this inactivity, the market has gradually gone through some downward adjustments on rates. The Baltic VLGC rates have come down almost 3 dollars over the week and are at the current moment trading just below 40,000 per day. We expect the market sentiment to change once the mentioned cargo acceptances are out as this will most probably take out a few vessel positions and further reduce the vessel length for June loading, which are already significantly shorter due to Indian congestion and consequential vessel delays there. As such we do expect the 14-day consecutive drop in the Baltic will come to an end and flatten out.
+
+In the Western market a number of ships has being taken out for June loadings, both out of USG and USEC. The majority of fixtures have been concluded at around mid USD 90’s East and in the low USD 50’s West, however, in the short term going forward, freight looks set to increase as vessel supply is tight. The Houston ship channel experienced a collision between a VLGC and two barges, resulting in a spillage and consequently closure of both inbound and outbound vessel traffic. Nevertheless, no major effects from the collision has been observed so far and we expect any delays to be back on time by next week.
 
 ---
 

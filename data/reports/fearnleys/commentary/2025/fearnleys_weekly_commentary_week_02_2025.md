@@ -6,7 +6,7 @@ week: 2
 date_range: "2025-01-08 to 2025-01-10"
 comments_count: 11
 sectors: ["Dry Bulk", "Tankers", "Gas & LNG", "Sale and Purchase (S&P)"]
-generated_at: "2026-10-11 21:03:38"
+generated_at: "2026-10-12 13:31:42"
 ---
 
 # Fearnleys Weekly Broker Commentary - Week 02, 2025
@@ -19,7 +19,10 @@ Institutional desk intelligence harvested directly from the Fearnleys Hasura Gra
 ### Capesize Weekly Comment
 **Date:** 2025-01-08 | **Subtype:** Dry Bulk Weekly Comment | **Desk:** Fearnleys Research
 
-Last year ended on a weak note which usually means January ends up being even weaker. So far that seems to be the case. However, there are several pointers toward a rebound starting around the middle of February. There is currently a record number of VLOCs sailing toward Brazil, which is a good indication that a Capesize rally will materialize. The previous four times the count was similar to now were in late August last year, early September 2023, and late August 2022. However, most of the vessels are still positioned in the Pacific or Indian Ocean, so it will take time before the vessels have loaded and freed up space for Capes. Further, the iron ore price leads shown below indicate a firming market from late Feb and through March.
+Last year ended on a weak note which usually means January ends up being even weaker. So far that seems to be the case.
+However, there are several pointers toward a rebound starting around the middle of February.
+There is currently a record number of VLOCs sailing toward Brazil, which is a good indication that a Capesize rally will materialize. The previous four times the count was similar to now were in late August last year, early September 2023, and late August 2022. However, most of the vessels are still positioned in the Pacific or Indian Ocean, so it will take time before the vessels have loaded and freed up space for Capes.
+Further, the iron ore price leads shown below indicate a firming market from late Feb and through March.
 
 ---
 
@@ -55,7 +58,9 @@ Whilst supply side fundamentals were weak in West Africa half a dozen stems from
 ### Aframax Weekly Comment
 **Date:** 2025-01-08 | **Subtype:** Tank Weekly Comment | **Desk:** Fearnleys Research
 
-With the first full week of 2025 in full swing markets are adjusting to the new Worldscale schedule. Activity has been limited so far which is adding pressure on rates with the fixing window already pushing into the end of the 2nd decade. US Markets are picking up which may bring opportunities but so far the year remains on the softer side rate wise.  Inactivity through the start of the week along with Suezmaxes absorbing Afra parcels created a very long list of prompt vessels and a steady stream continually coming back around. Summer fundamentals in the middle of Winter has had a negative impact on sentiment and it seems that it will take a while before we see any change to the current situation.
+With the first full week of 2025 in full swing markets are adjusting to the new Worldscale schedule. Activity has been limited so far which is adding pressure on rates with the fixing window already pushing into the end of the 2nd decade. US Markets are picking up which may bring opportunities but so far the year remains on the softer side rate wise.
+
+Inactivity through the start of the week along with Suezmaxes absorbing Afra parcels created a very long list of prompt vessels and a steady stream continually coming back around. Summer fundamentals in the middle of Winter has had a negative impact on sentiment and it seems that it will take a while before we see any change to the current situation.
 
 ---
 
@@ -70,14 +75,25 @@ Whilst many in the market return to their desks to start the New Year this week,
 ### Gas Market Weekly Comment - Eastern Market
 **Date:** 2025-01-09 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
-MEG Saudi Aramco lowered Jan CP by $10 for propane to $625 and $15 for butane at $615, reflecting the weaker demand on delivered market, especially Jan FEI/CP being traded in negative values. Qatar Energy issued sale tender for a 3/1 cargo loading 16-23 Feb. FOB for feb lifting was assessed at mid/high teens discounts amid muted discussions. By the time of writing, Feb CP was traded at $627 and Feb/Mar CP traded at $12 backwardation.    FAR EAST Very lively window this week with three deals concluded. 46kt propane for 2h Feb delivery basis Yantai was traded at Bal Jan FEI minus $1.28, and 2 lots of 23kt propane for 1h Feb delivery were done at Feb FEI plus $9 and $10. Similar parcel for 2h Feb delivery basis Chiba was bid at $7ish, yet to see offers. Outside window a flurry of 46kt propane parcels were also placed into China for Feb delivery at Feb FEI plus mid high single digit, in terms of the new startup PDHs, completion of maintenance and anticipated demand recovery after holiday. HTC also issued tender to buy 23kt butane for late Feb delivery.   One of the heated topics this week is China’s Shangdong Port Group banned US-Sanctioned tankers to call its ports and players are worrying if same would affect in LPG carriers. As per our tracking, around 1mmt Iran cargos was imported into Shandong, accounting for 11% among 8.8 mmt total imports into China. And only 9 VLGCs are listed in SDN list, which means other fleets can still be alternatives to continue the flows.
+MEG
+Saudi Aramco lowered Jan CP by $10 for propane to $625 and $15 for butane at $615, reflecting the weaker demand on delivered market, especially Jan FEI/CP being traded in negative values. Qatar Energy issued sale tender for a 3/1 cargo loading 16-23 Feb. FOB for feb lifting was assessed at mid/high teens discounts amid muted discussions. By the time of writing, Feb CP was traded at $627 and Feb/Mar CP traded at $12 backwardation.  
+
+FAR EAST
+Very lively window this week with three deals concluded. 46kt propane for 2h Feb delivery basis Yantai was traded at Bal Jan FEI minus $1.28, and 2 lots of 23kt propane for 1h Feb delivery were done at Feb FEI plus $9 and $10. Similar parcel for 2h Feb delivery basis Chiba was bid at $7ish, yet to see offers. Outside window a flurry of 46kt propane parcels were also placed into China for Feb delivery at Feb FEI plus mid high single digit, in terms of the new startup PDHs, completion of maintenance and anticipated demand recovery after holiday. HTC also issued tender to buy 23kt butane for late Feb delivery. 
+
+One of the heated topics this week is China’s Shangdong Port Group banned US-Sanctioned tankers to call its ports and players are worrying if same would affect in LPG carriers. As per our tracking, around 1mmt Iran cargos was imported into Shandong, accounting for 11% among 8.8 mmt total imports into China. And only 9 VLGCs are listed in SDN list, which means other fleets can still be alternatives to continue the flows.
 
 ---
 
 ### Gas Market Weekly Comment - Western Market
 **Date:** 2025-01-09 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
-AMERICAS The lull of the holidays has by now abated and buyers and sellers of Feb parcels have begun to emerge.  There is not much in the way of fixtures to report, however, as the volatility in the front of the curve has most playing things cautiously.  Terminal fees, meanwhile, have softened as the arb has narrowed, and at present an FOB Feb 4:0 is offered at around the 12(ish) cpg range, with buyers generally talking at the lower limits of double-digits.    Meanwhile, the EIA data revealed this week that stock levels as of the 3rd of Jan are pegged at 82.60mmbbls, a decline of 2.4mmbbls from the end of Dec levels, but still 104% of last year, and 105% of two years ago.  Production levels continue to hover at the 2.6-2.7mmbbls/day level, which is the average recorded for 2024.  Export volumes are also about average at 1.719mmbbls/day.
+AMERICAS
+The lull of the holidays has by now abated and buyers and sellers of Feb parcels have begun to emerge.  There is not much in the way of fixtures to report, however, as the volatility in the front of the curve has most playing things cautiously.
+
+Terminal fees, meanwhile, have softened as the arb has narrowed, and at present an FOB Feb 4:0 is offered at around the 12(ish) cpg range, with buyers generally talking at the lower limits of double-digits.  
+
+Meanwhile, the EIA data revealed this week that stock levels as of the 3rd of Jan are pegged at 82.60mmbbls, a decline of 2.4mmbbls from the end of Dec levels, but still 104% of last year, and 105% of two years ago.  Production levels continue to hover at the 2.6-2.7mmbbls/day level, which is the average recorded for 2024.  Export volumes are also about average at 1.719mmbbls/day.
 
 ---
 
@@ -85,13 +101,19 @@ AMERICAS The lull of the holidays has by now abated and buyers and sellers of Fe
 ### SnP Weekly Comment
 **Date:** 2025-01-10 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
-It feels too soon to make sweeping statements on the fate of the 2025 tanker second hand market, but the sale of the LR2 SUVRETTA (109k DWT STX 2008) for USD 31.5M is certainly a sign of things to come for non eco tanker tonnage. This age of Aframax for example would have been asking in excess of USD 40M at its peak in 2024. Non eco ships however are still in a historically good position, and there remains plenty of money on the table for those who invested shrewdly over the past cycle. What will be interesting to watch is how eco tonnage holds up against potentially volatile price swings across non eco ships.   Usual seasonality dictates a somewhat subdued start to the year in the dry market, and 2025 is no different. Enquiry remains healthy, though buyers are adjusting their budgets to reflect the quieter times. This should help pricing fall into line with the earnings environment, an issue that caused significant disillusionment with the second-hand market last year. Eco tonnage will remain highly sought after, especially that of Japanese build, and buyers will be monitoring the markets closely for any fresh candidates. Handy IYO SEA (37k DWT IMABARI 2015) was sold for USD 17.5M to Greek buyers, a pattern which is likely to repeat itself over the course of the year.
+It feels too soon to make sweeping statements on the fate of the 2025 tanker second hand market, but the sale of the LR2 SUVRETTA (109k DWT STX 2008) for USD 31.5M is certainly a sign of things to come for non eco tanker tonnage. This age of Aframax for example would have been asking in excess of USD 40M at its peak in 2024. Non eco ships however are still in a historically good position, and there remains plenty of money on the table for those who invested shrewdly over the past cycle. What will be interesting to watch is how eco tonnage holds up against potentially volatile price swings across non eco ships. 
+
+Usual seasonality dictates a somewhat subdued start to the year in the dry market, and 2025 is no different. Enquiry remains healthy, though buyers are adjusting their budgets to reflect the quieter times. This should help pricing fall into line with the earnings environment, an issue that caused significant disillusionment with the second-hand market last year. Eco tonnage will remain highly sought after, especially that of Japanese build, and buyers will be monitoring the markets closely for any fresh candidates. Handy IYO SEA (37k DWT IMABARI 2015) was sold for USD 17.5M to Greek buyers, a pattern which is likely to repeat itself over the course of the year.
 
 ---
 
 ### Chartering Weekly Comment
 **Date:** 2025-01-09 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
-EAST To date, only 14 spot deals have been concluded in January for Middle East loadings which still leaves some hope for more to be done, before focus fully moves into February. Even if it would turn out to be a fair amount of uncovered cargos on January dates, there is no getting away from the fact that the position list looks long.  WEST We have seen a few spot deals concluded in the Western hemisphere this week with last done in the low $100s H-C via Pan. All of the deals have been done on traders relets, and the position list for 1H Feb is now dominated by two pure shipowners. In total we count 13 spot fixtures for February dates ex USG/USEC - 9 first decade and 4 second decade.
+EAST
+To date, only 14 spot deals have been concluded in January for Middle East loadings which still leaves some hope for more to be done, before focus fully moves into February. Even if it would turn out to be a fair amount of uncovered cargos on January dates, there is no getting away from the fact that the position list looks long.
+
+WEST
+We have seen a few spot deals concluded in the Western hemisphere this week with last done in the low $100s H-C via Pan. All of the deals have been done on traders relets, and the position list for 1H Feb is now dominated by two pure shipowners. In total we count 13 spot fixtures for February dates ex USG/USEC - 9 first decade and 4 second decade.
 
 ---

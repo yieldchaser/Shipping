@@ -6,7 +6,7 @@ week: 33
 date_range: "2024-08-14 to 2024-08-15"
 comments_count: 9
 sectors: ["Dry Bulk", "Tankers", "Gas & LNG", "Sale and Purchase (S&P)"]
-generated_at: "2026-10-11 21:03:38"
+generated_at: "2026-10-12 13:31:42"
 ---
 
 # Fearnleys Weekly Broker Commentary - Week 33, 2024
@@ -55,7 +55,9 @@ If you quote a cargo in this market, you're likely to receive 4, 5, possibly 6, 
 ### Aframax Weekly Comment
 **Date:** 2024-08-14 | **Subtype:** Tank Weekly Comment | **Desk:** Fearnleys Research
 
-The lackluster market form in the North has continued into this week with activity limited and freight rates steady at WS 120 for X-Nsea. USG and Mediterranean markets have also softened which has made ballasting out of the area less attractive, leaving a good supply of tonnage for a relatively small amount of activity.    Some activity this week in the Mediterranean, but charterers keeping the pressure on rates. Lots of tonnage has been committed though ships are willing to fix down from the North and so attention turns to what’s left in the region. With mid-3rd decade being worked and end month stems around the corner the hope is that September stems bring renewed backing for the region. Suezmax tipped to progress also which should allow Aframaxes in the Mediterranean to work without the threat of Suezmax.
+The lackluster market form in the North has continued into this week with activity limited and freight rates steady at WS 120 for X-Nsea. USG and Mediterranean markets have also softened which has made ballasting out of the area less attractive, leaving a good supply of tonnage for a relatively small amount of activity.  
+
+Some activity this week in the Mediterranean, but charterers keeping the pressure on rates. Lots of tonnage has been committed though ships are willing to fix down from the North and so attention turns to what’s left in the region. With mid-3rd decade being worked and end month stems around the corner the hope is that September stems bring renewed backing for the region. Suezmax tipped to progress also which should allow Aframaxes in the Mediterranean to work without the threat of Suezmax.
 
 ---
 
@@ -63,14 +65,26 @@ The lackluster market form in the North has continued into this week with activi
 ### LNG Market Report
 **Date:** 2024-08-15 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
-With limited requirements observed across both basins, the LNG shipping market has seen a quiet week, resulting in limited demand for spot charters. Few requirements are being worked, and these are predominantly East of Suez. The lack of activity has resulted in a softer sentiment for the upcoming winter. Vessel availability is slightly long against the requirements seen in the market and ships opening prompt may see a discount for a spot voyage against present rate levels.  It remains unclear if this trend will dampen sentiment further down the curve into Q4, although in contrast to last winter, there is limited interest in securing tonnage for multi months despite more ships being available. However, the premium to charter a larger modern vessel is still present and with spot cargo prices currently stable, it’s likely to incentivise charterers to prioritise such vessels ahead of the cheaper tonnage for the upcoming “peak season”. Newbuilding prices remain stable and no recent transactions have been recorded this week.
+With limited requirements observed across both basins, the LNG shipping market has seen a quiet week, resulting in limited demand for spot charters. Few requirements are being worked, and these are predominantly East of Suez. The lack of activity has resulted in a softer sentiment for the upcoming winter. Vessel availability is slightly long against the requirements seen in the market and ships opening prompt may see a discount for a spot voyage against present rate levels. 
+It remains unclear if this trend will dampen sentiment further down the curve into Q4, although in contrast to last winter, there is limited interest in securing tonnage for multi months despite more ships being available. However, the premium to charter a larger modern vessel is still present and with spot cargo prices currently stable, it’s likely to incentivise charterers to prioritise such vessels ahead of the cheaper tonnage for the upcoming “peak season”.
+Newbuilding prices remain stable and no recent transactions have been recorded this week.
 
 ---
 
 ### Gas Market Weekly Comment - Western Market
 **Date:** 2024-08-15 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
-AMERICAS After having declined over most of July, Mont Belvieu non-TET propane values have – alongside a modest uptick in the crude arena – turned a corner and found a home at just below 80cts/gal, the current going rate.  The lock-step nature of propane to WTI has kept the ratio between the two in the low 40-percentile range.  The maintenance of the propane pricing structure continues to confound, particularly in view of the fundamental factors.  It is summertime, after all, and export volumes are effectively capped until the expansions begin to emerge late next year.  Furthermore, stock levels of propane are indeed robust, having on yesterday been reported at 90.10mmbbls for the week ending 9th August.  This is 99.5% of last year’s level and puts the US on a trajectory to reach ~103mmbbls at the first week of October, which is entirely sufficient for all varieties of demand which regularly occur.  Meanwhile, as to terminal fees, they remain strong as they continue to be supported by a healthy arb, unfettered passage to the East via Panama Canal, limited terminal avails and – for the moment, at least – generally cheap freight.  September transactions are largely concluded by now, and October volumes are being discussed in the low/mid 20cpg range.  It is presently anticipated the Nov and Dec will likely commence trade soon, and then probably in the upper teens, though nothing is known to have been concluded yet.  NWE The European LPG market got off to a strong start in August, crossing the $600/mt mark for the first time in over a year, with physical premiums extending $6/mt higher still. But It has come off sharply on the back of comfortable stocks, bolstered by US exports and growing Norwegian output- as North Sea exports have increased, along with production, up 18 percent on the year.   Furthermore, while propane remains the more competitive feedstock in relation to naphtha, it’s been observed that steam crackers, have turned toward Naphtha as of late despite the spread (-$89/mt), in efforts to minimize Ethylene length. As of yesterday, OPIS report that 460,000 metric tons of LPG have discharged in NWE on the month, a level that the market finds more than sufficient given storage levels and demand at present.
+AMERICAS
+After having declined over most of July, Mont Belvieu non-TET propane values have – alongside a modest uptick in the crude arena – turned a corner and found a home at just below 80cts/gal, the current going rate.  The lock-step nature of propane to WTI has kept the ratio between the two in the low 40-percentile range.
+
+The maintenance of the propane pricing structure continues to confound, particularly in view of the fundamental factors.  It is summertime, after all, and export volumes are effectively capped until the expansions begin to emerge late next year.  Furthermore, stock levels of propane are indeed robust, having on yesterday been reported at 90.10mmbbls for the week ending 9th August.  This is 99.5% of last year’s level and puts the US on a trajectory to reach ~103mmbbls at the first week of October, which is entirely sufficient for all varieties of demand which regularly occur.
+
+Meanwhile, as to terminal fees, they remain strong as they continue to be supported by a healthy arb, unfettered passage to the East via Panama Canal, limited terminal avails and – for the moment, at least – generally cheap freight.  September transactions are largely concluded by now, and October volumes are being discussed in the low/mid 20cpg range.  It is presently anticipated the Nov and Dec will likely commence trade soon, and then probably in the upper teens, though nothing is known to have been concluded yet.
+
+NWE
+The European LPG market got off to a strong start in August, crossing the $600/mt mark for the first time in over a year, with physical premiums extending $6/mt higher still. But It has come off sharply on the back of comfortable stocks, bolstered by US exports and growing Norwegian output- as North Sea exports have increased, along with production, up 18 percent on the year. 
+
+Furthermore, while propane remains the more competitive feedstock in relation to naphtha, it’s been observed that steam crackers, have turned toward Naphtha as of late despite the spread (-$89/mt), in efforts to minimize Ethylene length. As of yesterday, OPIS report that 460,000 metric tons of LPG have discharged in NWE on the month, a level that the market finds more than sufficient given storage levels and demand at present.
 
 ---
 
@@ -78,6 +92,10 @@ AMERICAS After having declined over most of July, Mont Belvieu non-TET propane v
 ### Chartering Weekly Comment
 **Date:** 2024-08-15 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
-EAST It looks like a substantial portion of first decade September FOBs being controlled by Indian PSUs could help explain the lack of shipping interest for next month so far. Bar a couple of Yanbu fixtures and the end of last week UAE fixture the spot market have up until today been pretty muted on September dates. With West freight on the rise and with East still being a discount market we expect there could be upside ahead and more activity just around the corner.  WEST Since Monday the Western freight market has increased almost 20 dollars on the Houston-Chiba route after having seen a dozen of deals done this week. With that said, we now count 17 spot fixtures (with latest sub deals incl.) out of the USG/USEC for September dates. The position list is now looking tighter with only 3 open positions left for 1H Sep dates while 2H Sep currently showing 10 available vessels (5 relets). Last done at 108 H/C.
+EAST
+It looks like a substantial portion of first decade September FOBs being controlled by Indian PSUs could help explain the lack of shipping interest for next month so far. Bar a couple of Yanbu fixtures and the end of last week UAE fixture the spot market have up until today been pretty muted on September dates. With West freight on the rise and with East still being a discount market we expect there could be upside ahead and more activity just around the corner.
+
+WEST
+Since Monday the Western freight market has increased almost 20 dollars on the Houston-Chiba route after having seen a dozen of deals done this week. With that said, we now count 17 spot fixtures (with latest sub deals incl.) out of the USG/USEC for September dates. The position list is now looking tighter with only 3 open positions left for 1H Sep dates while 2H Sep currently showing 10 available vessels (5 relets). Last done at 108 H/C.
 
 ---

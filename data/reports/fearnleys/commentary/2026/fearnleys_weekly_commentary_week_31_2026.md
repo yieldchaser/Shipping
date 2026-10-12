@@ -6,7 +6,7 @@ week: 31
 date_range: "2026-07-29 to 2026-07-31"
 comments_count: 9
 sectors: ["Dry Bulk", "Tankers", "Gas & LNG", "Sale and Purchase (S&P)"]
-generated_at: "2026-10-11 21:03:40"
+generated_at: "2026-10-12 13:31:44"
 ---
 
 # Fearnleys Weekly Broker Commentary - Week 31, 2026
@@ -48,14 +48,22 @@ Petrobras continue to face the brunt of the volatility that this market has to o
 ### Suezmax Weekly Comment
 **Date:** 2026-07-29 | **Subtype:** Tank Weekly Comment | **Desk:** Fearnleys Research
 
-* CPC has been tested, with W430 on subs with only 3 offers being received, as owners are clearly pricing in the risk following the recent drone attacks.  * On the other hand, we have a market quote for Med/Skorea that received 8 offers. Therefore, despite this elevated rate from the Black Sea, it seems unlikely to translate across the wider market or offset the bearish supply fundamentals, as the majority of owners will continue to avoid the Black Sea. * We have plenty of vessels available in the prompt window for WAF, with tonnage either opening locally or sitting FOC from UKCM positions. In addition, towards the back end of the fixing window, we have a fleet of ballasters from the East heading towards the Cape. * In terms of volume, there will be cargoes to move in the 2nd decade, but a downward test is anticipated before any congestion emerges.  * Even then, owners are expected to remain pragmatic given the aforementioned supply outlook. Owners will be banking on the re-emergence of CPC activity and improved safety assurances to counterbalance the bearish market sentiment.
+* CPC has been tested, with W430 on subs with only 3 offers being received, as owners are clearly pricing in the risk following the recent drone attacks. 
+* On the other hand, we have a market quote for Med/Skorea that received 8 offers. Therefore, despite this elevated rate from the Black Sea, it seems unlikely to translate across the wider market or offset the bearish supply fundamentals, as the majority of owners will continue to avoid the Black Sea.
+* We have plenty of vessels available in the prompt window for WAF, with tonnage either opening locally or sitting FOC from UKCM positions. In addition, towards the back end of the fixing window, we have a fleet of ballasters from the East heading towards the Cape.
+* In terms of volume, there will be cargoes to move in the 2nd decade, but a downward test is anticipated before any congestion emerges. 
+* Even then, owners are expected to remain pragmatic given the aforementioned supply outlook. Owners will be banking on the re-emergence of CPC activity and improved safety assurances to counterbalance the bearish market sentiment.
 
 ---
 
 ### Aframax Weekly Comment
 **Date:** 2026-07-29 | **Subtype:** Tank Weekly Comment | **Desk:** Fearnleys Research
 
-North Sea Market activity has been limited as we push into August stems with cargoes covering quietly with relets and some Suezmax in the mix. The front end of the list has some natural North Sea tonnage on it for the first time in a couple of weeks. There has been some prompter questions but natural window now likely heading toward the end of the first decade. Surrounding markets are steady / softer but still attractive for tonnage to ballast out of the area.  Mediterranean Midway through this week and there has been hardly any local Mediterranean runs from the usual suspects. The tonnage list is long with the prompt West Mediterranean positions ballasting towards USG but equally the Red Sea/Arabian Sea vessels keep feeding Mediterranean with ballasters. Fundamentals are pointing towards a correction while the short-term inefficiencies and sentiment might help rates remain at significant high levels for this period of the year.
+North Sea
+Market activity has been limited as we push into August stems with cargoes covering quietly with relets and some Suezmax in the mix. The front end of the list has some natural North Sea tonnage on it for the first time in a couple of weeks. There has been some prompter questions but natural window now likely heading toward the end of the first decade. Surrounding markets are steady / softer but still attractive for tonnage to ballast out of the area.
+
+Mediterranean
+Midway through this week and there has been hardly any local Mediterranean runs from the usual suspects. The tonnage list is long with the prompt West Mediterranean positions ballasting towards USG but equally the Red Sea/Arabian Sea vessels keep feeding Mediterranean with ballasters. Fundamentals are pointing towards a correction while the short-term inefficiencies and sentiment might help rates remain at significant high levels for this period of the year.
 
 ---
 
@@ -63,7 +71,9 @@ North Sea Market activity has been limited as we push into August stems with car
 ### LNG Market Report
 **Date:** 2026-07-29 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
-A lack of requirements to work and a sensitive arbitrage has continued to pressure Atlantic rates, and with abundant tonnage there is likely to be strong competition among owners for the emerging fresh cargoes. Rates have been bound within a fairly narrow range for several months, but it is likely the next round of fixtures will align closer with the bid than the offer. Conversely, in the East recent requirements have been covered at steady levels that suggest a balanced or even slight undersupplied spot market, aided by owners opting to relocate vessels West to take advantage of premium rates. However, there remains high competition for smaller cargoes among the TFDE fleet, with owners showing sharp numbers to attract Charterers' attention.    The Middle East situation remains tense and seemingly at a stalemate, and LNG prices have been edging higher - trading strategies that account for a higher LNG price through winter will be gaining traction. The multimonth market has remained active with several tenders underway or recently concluded and levels are broadly flat or trending down, so reducing risk by forward fixing winter coverage at today’s softer rates is clearly attractive to certain charterers.
+A lack of requirements to work and a sensitive arbitrage has continued to pressure Atlantic rates, and with abundant tonnage there is likely to be strong competition among owners for the emerging fresh cargoes. Rates have been bound within a fairly narrow range for several months, but it is likely the next round of fixtures will align closer with the bid than the offer. Conversely, in the East recent requirements have been covered at steady levels that suggest a balanced or even slight undersupplied spot market, aided by owners opting to relocate vessels West to take advantage of premium rates. However, there remains high competition for smaller cargoes among the TFDE fleet, with owners showing sharp numbers to attract Charterers' attention. 
+ 
+The Middle East situation remains tense and seemingly at a stalemate, and LNG prices have been edging higher - trading strategies that account for a higher LNG price through winter will be gaining traction. The multimonth market has remained active with several tenders underway or recently concluded and levels are broadly flat or trending down, so reducing risk by forward fixing winter coverage at today’s softer rates is clearly attractive to certain charterers.
 
 ---
 
@@ -71,7 +81,9 @@ A lack of requirements to work and a sensitive arbitrage has continued to pressu
 ### SnP Weekly Comment
 **Date:** 2026-07-31 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
-ADNOC has made a splash in the VLCC market this week, acquiring at least five units for use in their own trading operations. The deals have prompted debate over whether the prices paid are representative of the wider market or instead reflect the lucrative and highly specific employment intended for the vessels. It remains to be seen, however, whether other owners will view these levels as grounds to raise their own price expectations.  Dry bulk earnings remain healthy, giving Sellers little incentive to soften their price expectations. Despite firm asset values, liquidity remains elevated in the 15-year-old space, with several transactions reported this week. Kamsarmax sisters ARTVIN/ORDU (81k dwt HMD 2012/2011) were sold en bloc to Korean buyers for USD 39m.
+ADNOC has made a splash in the VLCC market this week, acquiring at least five units for use in their own trading operations. The deals have prompted debate over whether the prices paid are representative of the wider market or instead reflect the lucrative and highly specific employment intended for the vessels. It remains to be seen, however, whether other owners will view these levels as grounds to raise their own price expectations.
+
+Dry bulk earnings remain healthy, giving Sellers little incentive to soften their price expectations. Despite firm asset values, liquidity remains elevated in the 15-year-old space, with several transactions reported this week. Kamsarmax sisters ARTVIN/ORDU (81k dwt HMD 2012/2011) were sold en bloc to Korean buyers for USD 39m.
 
 ---
 

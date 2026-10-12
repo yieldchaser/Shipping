@@ -6,7 +6,7 @@ week: 11
 date_range: "2026-03-11 to 2026-03-13"
 comments_count: 10
 sectors: ["Dry Bulk", "Tankers", "Gas & LNG", "Sale and Purchase (S&P)"]
-generated_at: "2026-10-11 21:03:39"
+generated_at: "2026-10-12 13:31:44"
 ---
 
 # Fearnleys Weekly Broker Commentary - Week 11, 2026
@@ -55,7 +55,11 @@ West Africa was tested yesterday with WS 267.5 on subs for Angola/Mediterranean.
 ### Aframax Weekly Comment
 **Date:** 2026-03-11 | **Subtype:** Tank Weekly Comment | **Desk:** Fearnleys Research
 
-North Sea After a quiet week rates have taken a correction. WS 195 on subs admittedly for a vessel that will deliver on time charter after the voyage, but the correction has happened. Natural dates are starting to push into the 3rd decade. There are a few relets around and with US markets softening the draw to ballast may not be as strong, so list should start to grow again and remains to be seen if new floor has been established.  Mediterranean Mid way through this week and the Mediterranean market has been quieter after the correction in the USG and North Sea. There are still outstanding cargoes which need to cover and charterers want to test it down as Mediterranean now is still providing much higher returns compared to surrounding markets. Remains to be seen where the owners will draw the line.
+North Sea
+After a quiet week rates have taken a correction. WS 195 on subs admittedly for a vessel that will deliver on time charter after the voyage, but the correction has happened. Natural dates are starting to push into the 3rd decade. There are a few relets around and with US markets softening the draw to ballast may not be as strong, so list should start to grow again and remains to be seen if new floor has been established.
+
+Mediterranean
+Mid way through this week and the Mediterranean market has been quieter after the correction in the USG and North Sea. There are still outstanding cargoes which need to cover and charterers want to test it down as Mediterranean now is still providing much higher returns compared to surrounding markets. Remains to be seen where the owners will draw the line.
 
 ---
 
@@ -70,7 +74,11 @@ Volatility remains the key theme as conflict in the Middle East continues. The q
 ### Gas Market Weekly Comment - Eastern Market
 **Date:** 2026-03-12 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
-Middle East tensions have intensified amid escalating attacks, causing extreme volatility in oil prices. At the time of writing, April CP was traded at $583 for C3 and $578 for C4. So far, three vessels carrying Iranian LPG have transited the Strait of Hormuz since the outbreak of the conflict.  The ongoing supply disruptions pushed the US–Far East arbitrage wider to -$350 for April and one Apr lifting US FOB was reported traded at 37 cpg. U.S. propane/propylene inventories fell by 1.7 mil barrels to 71.7 million barrels in the week ended 6th Mar, leaving stocks remained 58.4% higher year on year.  Supply concerns continued to mount as no clear signals pointing to a near-term end on Middle East conflict. South and Southeast Asian buyers have prioritized LPG for residential consumption over the petrochemical sector, given limited spot availabilities on US butane cargoes. Some cargoes with butane grade were reportedly sold into India at Apr CP plus over $300 for prompt delivery. Meanwhile, Hyosung Vina was heard to award a 4/0 cargo for 1H May delivery at CP plus nearly $200. A couple of bids for 23/0 2h Apr delivery basis Chiba were shown in window at Bal Mar FEI link plus low-mid single digit, with no offers not seen. Separately, a couple of 4/0 parcels for Apr delivery were reported being placed into China at Mar FEI plus high teens or Apr FEI plus 100s. Meanwhile, FPCC issued tender to secure LPG for 2h Apr delivery for cracker use in Mailiao, due to Napatha supply crunch.
+Middle East tensions have intensified amid escalating attacks, causing extreme volatility in oil prices. At the time of writing, April CP was traded at $583 for C3 and $578 for C4. So far, three vessels carrying Iranian LPG have transited the Strait of Hormuz since the outbreak of the conflict.
+
+The ongoing supply disruptions pushed the US–Far East arbitrage wider to -$350 for April and one Apr lifting US FOB was reported traded at 37 cpg. U.S. propane/propylene inventories fell by 1.7 mil barrels to 71.7 million barrels in the week ended 6th Mar, leaving stocks remained 58.4% higher year on year.
+
+Supply concerns continued to mount as no clear signals pointing to a near-term end on Middle East conflict. South and Southeast Asian buyers have prioritized LPG for residential consumption over the petrochemical sector, given limited spot availabilities on US butane cargoes. Some cargoes with butane grade were reportedly sold into India at Apr CP plus over $300 for prompt delivery. Meanwhile, Hyosung Vina was heard to award a 4/0 cargo for 1H May delivery at CP plus nearly $200. A couple of bids for 23/0 2h Apr delivery basis Chiba were shown in window at Bal Mar FEI link plus low-mid single digit, with no offers not seen. Separately, a couple of 4/0 parcels for Apr delivery were reported being placed into China at Mar FEI plus high teens or Apr FEI plus 100s. Meanwhile, FPCC issued tender to secure LPG for 2h Apr delivery for cracker use in Mailiao, due to Napatha supply crunch.
 
 ---
 
@@ -78,13 +86,19 @@ Middle East tensions have intensified amid escalating attacks, causing extreme v
 ### SnP Weekly Comment
 **Date:** 2026-03-13 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
-As predicted in this report last week, we are seeing a slowdown in reported transactions while the ongoing conflict in the Middle East unfolds. Spot earnings, while having cooled off on the larger crude tonnage this week, continue to be extremely elevated and highly volatile. In a market with more questions than answers at the moment, one thing has been made clear; Iran will keep disrupting the Hormuz Strait so long as this conflict is active. Of course, this tactic is not without blowback on Iran’s own crude export markets but is a steadfast disruption tactic against its aggressors and the global shipping markets. This week, high spec scrubber fitted IMOII MR sisters FINNANGER/FJELLANGER (46K DWT HMD 2009/10) were sold for USD 48M en bloc.   The conflict has given the dry market a rude awakening. Prior to the beginning of March, dry was looking like the darling of the shipping markets following a stellar start to the year and a widely reported rosy outlook for the rest of 2026. However, now we are imagining the consequences of a sustained high oil price environment – something that could lead to a general macro/dry slowdown. Second-hand availability lists remain tight at this stage, something that would potentially keep prices firm as buyers fight it out over sales candidates. An example of this is seen this week in ultramax ABILITY (64K DWT Shin Kurushima 2021) which was sold for USD 37M with delivery SSDD passed to Greek buyers.
+As predicted in this report last week, we are seeing a slowdown in reported transactions while the ongoing conflict in the Middle East unfolds. Spot earnings, while having cooled off on the larger crude tonnage this week, continue to be extremely elevated and highly volatile. In a market with more questions than answers at the moment, one thing has been made clear; Iran will keep disrupting the Hormuz Strait so long as this conflict is active. Of course, this tactic is not without blowback on Iran’s own crude export markets but is a steadfast disruption tactic against its aggressors and the global shipping markets. This week, high spec scrubber fitted IMOII MR sisters FINNANGER/FJELLANGER (46K DWT HMD 2009/10) were sold for USD 48M en bloc.
+ 
+The conflict has given the dry market a rude awakening. Prior to the beginning of March, dry was looking like the darling of the shipping markets following a stellar start to the year and a widely reported rosy outlook for the rest of 2026. However, now we are imagining the consequences of a sustained high oil price environment – something that could lead to a general macro/dry slowdown. Second-hand availability lists remain tight at this stage, something that would potentially keep prices firm as buyers fight it out over sales candidates. An example of this is seen this week in ultramax ABILITY (64K DWT Shin Kurushima 2021) which was sold for USD 37M with delivery SSDD passed to Greek buyers.
 
 ---
 
 ### Chartering Weekly Comment
 **Date:** 2026-03-11 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
-EAST With Middle East practically remaining closed, more vessels continue to gather outside of the Strait of Hormuz. Activity across the rest of the Eastern market has also been limited so far this week. Much now hinges on whether conditions in the Middle East shift - if at all.  WEST After a handful of US fixtures were concluded last week at premiums to last‑done levels, the market paused briefly before activity resumed early this week, with a flurry of fixtures emerging in the low USD 130s. The closure of the Strait of Hormuz is expected to trigger a meaningful repositioning of MEG tonnage towards the USG. As a result, the impact is likely to be most pronounced on USG liftings from late April onwards, potentially increasing tonnage availability and influencing rate direction. So far, 21 April spot fixtures have been concluded, comprising 11 in the first decade, 8 in the second decade, and 2 in the final decade.
+EAST
+With Middle East practically remaining closed, more vessels continue to gather outside of the Strait of Hormuz. Activity across the rest of the Eastern market has also been limited so far this week. Much now hinges on whether conditions in the Middle East shift - if at all.
+
+WEST
+After a handful of US fixtures were concluded last week at premiums to last‑done levels, the market paused briefly before activity resumed early this week, with a flurry of fixtures emerging in the low USD 130s. The closure of the Strait of Hormuz is expected to trigger a meaningful repositioning of MEG tonnage towards the USG. As a result, the impact is likely to be most pronounced on USG liftings from late April onwards, potentially increasing tonnage availability and influencing rate direction. So far, 21 April spot fixtures have been concluded, comprising 11 in the first decade, 8 in the second decade, and 2 in the final decade.
 
 ---

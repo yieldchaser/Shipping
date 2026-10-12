@@ -6,7 +6,7 @@ week: 7
 date_range: "2026-02-11 to 2026-02-13"
 comments_count: 10
 sectors: ["Dry Bulk", "Tankers", "Gas & LNG", "Sale and Purchase (S&P)"]
-generated_at: "2026-10-11 21:03:39"
+generated_at: "2026-10-12 13:31:43"
 ---
 
 # Fearnleys Weekly Broker Commentary - Week 07, 2026
@@ -55,7 +55,11 @@ Strong levels for ECC/UKCM underpin the market - Afra’s were holding out in WS
 ### Aframax Weekly Comment
 **Date:** 2026-02-11 | **Subtype:** Tank Weekly Comment | **Desk:** Fearnleys Research
 
-North Sea Last cargoes of the 2nd decade are being covered so far this week with rates varying depending on the nature of the voyage. Local players are enjoying colossal returns and they are trying to hit cargoes on the right dates. Balanced list compared to the amount of activity we see although with the very firm US markets vessels will continue to head across keeping itineraries at a premium in the North Sea, rates likely to hover around last done.  Mediterranean Market has had room to correct on the back of an expanding tonnage list for local candidates. Activity still remains robust but Ceyhan dates have now pushed towards the end Feb window. Libya is lagging as always and expected to attract interest from vessels. A couple of ballasters heading out of the area and levels for local runs might stabilize now however charterers still seem to be gaining a few points.
+North Sea
+Last cargoes of the 2nd decade are being covered so far this week with rates varying depending on the nature of the voyage. Local players are enjoying colossal returns and they are trying to hit cargoes on the right dates. Balanced list compared to the amount of activity we see although with the very firm US markets vessels will continue to head across keeping itineraries at a premium in the North Sea, rates likely to hover around last done.
+
+Mediterranean
+Market has had room to correct on the back of an expanding tonnage list for local candidates. Activity still remains robust but Ceyhan dates have now pushed towards the end Feb window. Libya is lagging as always and expected to attract interest from vessels. A couple of ballasters heading out of the area and levels for local runs might stabilize now however charterers still seem to be gaining a few points.
 
 ---
 
@@ -70,7 +74,9 @@ After a highly successful LNG2026 in Doha, it is London’s turn to be in the sp
 ### Gas Market Weekly Comment - Eastern Market
 **Date:** 2026-02-12 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
-Cash differentials for evenly split March lifting cargoes fell to minus $20s against March CP, pressured by weakening demand and elevated freight costs. A similar parcel for April lifting was offered via window at April CP minus $4. At the time of writing, March CP was assessed at $537/mt for C3 and $527/mt for C4, with the March/April structure trading at a $15 backwardation. The U.S.–Far East arbitrage widened to minus $208, and terminal fees for March loaders were pegged at 7–8 cpg. Meanwhile, U.S. propane/propylene inventories declined by 5.4 million barrels to 77.3 million barrels in the week ended Feb. 6, though stocks remained 31.2% higher on YOY basis. In the window, 23/0 parcels for Mar delivery basis Chiba were bid at March FEI plus $56 and plus $39 for 1H and 2H respectively. A similar parcel for 1H April was bid at April FEI plus $37. Despite these bids, offers remained scarce. Outside the window, a flurry of tenders emerged this week, but only limited volumes were awarded. Notably, one South China PDH plant secured a March-delivery 4/0 cargo via tender at March CP plus high $80s. Likewise, another Chinese importer also procured similar non U.S. cargo for Mar delivery at similar price.
+Cash differentials for evenly split March lifting cargoes fell to minus $20s against March CP, pressured by weakening demand and elevated freight costs. A similar parcel for April lifting was offered via window at April CP minus $4. At the time of writing, March CP was assessed at $537/mt for C3 and $527/mt for C4, with the March/April structure trading at a $15 backwardation.
+The U.S.–Far East arbitrage widened to minus $208, and terminal fees for March loaders were pegged at 7–8 cpg. Meanwhile, U.S. propane/propylene inventories declined by 5.4 million barrels to 77.3 million barrels in the week ended Feb. 6, though stocks remained 31.2% higher on YOY basis.
+In the window, 23/0 parcels for Mar delivery basis Chiba were bid at March FEI plus $56 and plus $39 for 1H and 2H respectively. A similar parcel for 1H April was bid at April FEI plus $37. Despite these bids, offers remained scarce. Outside the window, a flurry of tenders emerged this week, but only limited volumes were awarded. Notably, one South China PDH plant secured a March-delivery 4/0 cargo via tender at March CP plus high $80s. Likewise, another Chinese importer also procured similar non U.S. cargo for Mar delivery at similar price.
 
 ---
 
@@ -78,13 +84,19 @@ Cash differentials for evenly split March lifting cargoes fell to minus $20s aga
 ### SnP Weekly Comment
 **Date:** 2026-02-13 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
-While Sinokor has stolen the headlines so far this year with its raid on VLCCs, the increased liquidity and pricing have spurred many others into action to crystalise gains at these levels. One could argue that the turbulent geopolitical situation isn’t going anywhere, particularly during the current US administration, and there could be further upside for tanker owners, but prudent shipowners have sold vessels into buyers willing to take the exposure at these levels. On modern units, buyers are paying for the prompt delivery and long life of the asset, whereas those operating at the other end of the age curve are taking on more risk at these elevated levels. This week Thenamaris purchased scrubber fitted suezmax pair EMERALDWAY/SUNRISEWAY (158K DWT SWS 2022) for USD 88M each en bloc. In the mid aged LR2 space, scrubber fitted sisters FS DILIGENCE/ENDEAVOR (108K DWT Namura 2012) were sold for USD 43M each en bloc.   Lunar New Year celebrations will likely curtail what has been a strong start to the year for the dry market. Many analysts are touting a healthy 2026, so a slowdown will surely prove to only be temporary. Capesize demand has been relentless over the past 12 months, and we have seen values rise accordingly. This week EPIC (182K Odense 2010) was sold to European buyers at USD 32.3M while CAPE BRAZIL (177K DWT SWS 2010) was sold for USD 31.2M. There was some action in modern Ultramaxes, with BERGE TATEYAMA (63K DWT Shin Kasado 2020) sold to Turkish buyers at USD 34.5M.
+While Sinokor has stolen the headlines so far this year with its raid on VLCCs, the increased liquidity and pricing have spurred many others into action to crystalise gains at these levels. One could argue that the turbulent geopolitical situation isn’t going anywhere, particularly during the current US administration, and there could be further upside for tanker owners, but prudent shipowners have sold vessels into buyers willing to take the exposure at these levels. On modern units, buyers are paying for the prompt delivery and long life of the asset, whereas those operating at the other end of the age curve are taking on more risk at these elevated levels. This week Thenamaris purchased scrubber fitted suezmax pair EMERALDWAY/SUNRISEWAY (158K DWT SWS 2022) for USD 88M each en bloc. In the mid aged LR2 space, scrubber fitted sisters FS DILIGENCE/ENDEAVOR (108K DWT Namura 2012) were sold for USD 43M each en bloc.
+ 
+Lunar New Year celebrations will likely curtail what has been a strong start to the year for the dry market. Many analysts are touting a healthy 2026, so a slowdown will surely prove to only be temporary. Capesize demand has been relentless over the past 12 months, and we have seen values rise accordingly. This week EPIC (182K Odense 2010) was sold to European buyers at USD 32.3M while CAPE BRAZIL (177K DWT SWS 2010) was sold for USD 31.2M. There was some action in modern Ultramaxes, with BERGE TATEYAMA (63K DWT Shin Kasado 2020) sold to Turkish buyers at USD 34.5M.
 
 ---
 
 ### Chartering Weekly Comment
 **Date:** 2026-02-11 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
-EAST Halfway through the week and so far very little to write home about. Indeed a small handful of cargos have been looked at, but at the time of writing only one of these have materialized into actual fixtures. Most Middle East suppliers have released their acceptances for March barring only Aramco. Despite this, we are currently counting just March spot fixture in the East.  WEST Market has slowed down this week with IE week London in full force, and we have only seen one fixture ex USG reported. Last done remain in the high USD 150s HCvP and we count 28 spot fixtures thus far in March (10/15/3 by decade). We still see many potentially uncovered FOBs in the last decade of March, while freight remains relatively tight for same period.
+EAST
+Halfway through the week and so far very little to write home about. Indeed a small handful of cargos have been looked at, but at the time of writing only one of these have materialized into actual fixtures. Most Middle East suppliers have released their acceptances for March barring only Aramco. Despite this, we are currently counting just March spot fixture in the East.
+
+WEST
+Market has slowed down this week with IE week London in full force, and we have only seen one fixture ex USG reported. Last done remain in the high USD 150s HCvP and we count 28 spot fixtures thus far in March (10/15/3 by decade). We still see many potentially uncovered FOBs in the last decade of March, while freight remains relatively tight for same period.
 
 ---

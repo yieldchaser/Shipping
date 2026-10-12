@@ -6,7 +6,7 @@ week: 43
 date_range: "2020-10-19 to 2020-10-22"
 comments_count: 14
 sectors: ["Dry Bulk", "Tankers", "Gas & LNG", "Sale and Purchase (S&P)"]
-generated_at: "2026-10-11 21:03:33"
+generated_at: "2026-10-12 13:31:37"
 ---
 
 # Fearnleys Weekly Broker Commentary - Week 43, 2020
@@ -84,21 +84,27 @@ Aframax owners trading in the Nsea/Baltic have shown great resistance in the pas
 ### LNG Market Report
 **Date:** 2020-10-21 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
-Winter for the year is establishing nicely for cargo owners and shipowners alike. Activities are ramping up as LNG prices are on the rise in the Far East, in anticipation of a relatively cold winter as compared to the previous years. Charter rates have risen substantially versus levels merely a month ago, and spot fixtures are concluded basis more than the standard round-trip. There have been a string of fixtures concluded and quite a few more being worked on this week, and remaining available vessels may not be open for long. We hear that the number of shipping enquiries received by players with available tonnage have heightened considerably and this is creating interesting opportunities for fleet optimization, cargo sales and freight trading. The winter market has only started and it remains to be seen where shipping rate levels could end up to in the weeks to come.  No newbuilding orders or ship sales have been reported this week.
+Winter for the year is establishing nicely for cargo owners and shipowners alike. Activities are ramping up as LNG prices are on the rise in the Far East, in anticipation of a relatively cold winter as compared to the previous years. Charter rates have risen substantially versus levels merely a month ago, and spot fixtures are concluded basis more than the standard round-trip. There have been a string of fixtures concluded and quite a few more being worked on this week, and remaining available vessels may not be open for long. We hear that the number of shipping enquiries received by players with available tonnage have heightened considerably and this is creating interesting opportunities for fleet optimization, cargo sales and freight trading. The winter market has only started and it remains to be seen where shipping rate levels could end up to in the weeks to come. 
+No newbuilding orders or ship sales have been reported this week.
 
 ---
 
 ### Gas Market Weekly Comment - Eastern Market
 **Date:** 2020-10-21 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
-MEG Nov Propane CP was traded at $430, despite the oil tumbled down. Nov/Dec swap backwardation maintains at $7. Evenly split ratio cargos for Nov lifting are still favored by traders with shorts ton Indian and SEA, which supports the butane value firmly to be $10 or more higher than propane. Saudi Aramco released its Nov acceptance with some liftings advanced and no cuts heard.   FAR EAST Cash premium comes off quick this week, with 23kt propane for 2h Nov delivery traded at Nov FEI plus $1 or flattish, down from last weeks’ mid-single digit. The reason being, is that seeing this backwardated structure, Japanese and Korean importers started to resell their Nov cargos and intended to buy back later for Dec delivery. Nov FEI dropped sharply this week with FEI/CP continuously narrowed down to $8 only, compared to last week’s $20. Indian BPCL was reported to secure one Dec delivery equal ratio cargo at Dec CP plus high 20s via tender. One Chinese Major have issued term tender to secure one cargo monthly from Jan to Dec delivery 2021, ratio to be either heavy propane or evenly split.
+MEG
+Nov Propane CP was traded at $430, despite the oil tumbled down. Nov/Dec swap backwardation maintains at $7. Evenly split ratio cargos for Nov lifting are still favored by traders with shorts ton Indian and SEA, which supports the butane value firmly to be $10 or more higher than propane. Saudi Aramco released its Nov acceptance with some liftings advanced and no cuts heard. 
+
+FAR EAST
+Cash premium comes off quick this week, with 23kt propane for 2h Nov delivery traded at Nov FEI plus $1 or flattish, down from last weeks’ mid-single digit. The reason being, is that seeing this backwardated structure, Japanese and Korean importers started to resell their Nov cargos and intended to buy back later for Dec delivery. Nov FEI dropped sharply this week with FEI/CP continuously narrowed down to $8 only, compared to last week’s $20. Indian BPCL was reported to secure one Dec delivery equal ratio cargo at Dec CP plus high 20s via tender. One Chinese Major have issued term tender to secure one cargo monthly from Jan to Dec delivery 2021, ratio to be either heavy propane or evenly split.
 
 ---
 
 ### Gas Market Weekly Comment - Western Market
 **Date:** 2020-10-21 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
-AMERICAS US propane inventories declined by 1.6mmbbls, which was slightly more than anticipated, leaving c3 stocks at 98.325mmbbls as of 16 Oct.  Last year the mid-Oct stock levels were recorded at 95.282mmbbls.  This week’s decline in stocks and the simultaneous arrival of a cold front in the US Midwest appears to mark the commencement of the winter-demand season, but MB values have nonetheless drifted because of declines in the crude arena.  US exports remain robust, with Oct anticipated to see near-record level monthly lifting volume of 74 VLGC cargos.  Shipping delays at the Sabine River on the Gulf Coast are being overcome inasmuch as there were 6 VLGC’s awaiting transit yesterday, but 4 of those ships have resumed movement as of this morning.  Meanwhile, delays at the Panama Canal are presently reported at 8 days and are occurring primarily due to C19-related safety measures (specifically social distancing efforts and minimized crew numbers), but also to fog (10 days in Sep and 8 days – so far – in Oct) and the simultaneous occurrence of higher grain and LNG vessel passages.  Big ship freight rates from the US/Asia remain in the $103-105/mt range, while to Europe rates are pegged at $53/mt which is impacting the netback levels.
+AMERICAS
+US propane inventories declined by 1.6mmbbls, which was slightly more than anticipated, leaving c3 stocks at 98.325mmbbls as of 16 Oct.  Last year the mid-Oct stock levels were recorded at 95.282mmbbls.  This week’s decline in stocks and the simultaneous arrival of a cold front in the US Midwest appears to mark the commencement of the winter-demand season, but MB values have nonetheless drifted because of declines in the crude arena.  US exports remain robust, with Oct anticipated to see near-record level monthly lifting volume of 74 VLGC cargos.  Shipping delays at the Sabine River on the Gulf Coast are being overcome inasmuch as there were 6 VLGC’s awaiting transit yesterday, but 4 of those ships have resumed movement as of this morning.  Meanwhile, delays at the Panama Canal are presently reported at 8 days and are occurring primarily due to C19-related safety measures (specifically social distancing efforts and minimized crew numbers), but also to fog (10 days in Sep and 8 days – so far – in Oct) and the simultaneous occurrence of higher grain and LNG vessel passages.  Big ship freight rates from the US/Asia remain in the $103-105/mt range, while to Europe rates are pegged at $53/mt which is impacting the netback levels.
 
 ---
 
@@ -106,13 +112,19 @@ AMERICAS US propane inventories declined by 1.6mmbbls, which was slightly more t
 ### SnP Weekly Comment
 **Date:** 2020-10-22 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
-No sign of any impending winter season as far as crude spot rates goes. Vintage VLCC’s continue to attract steady buying interest with another three vessels sold this week.  Price levels concluded are on par with recent transactions.  A 2011 Korean built Suezmax tanker is being offered for sale which should give good direction of where we stand on values for the semi-modern, non-eco ones.  We expect low 30’s will prove to be best case for this vessel.     Scorpio Bulkers continues its sales activity.  Five Ultramax and three Kamsarmax bulkcarriers have thus far been sold, raising over Usd 140 mill for its move into the offshore wind sector.  Values are moving sideways and this will remain the case for as long as the number of ships for sale remains high.
+No sign of any impending winter season as far as crude spot rates goes. Vintage VLCC’s continue to attract steady buying interest with another three vessels sold this week.  Price levels concluded are on par with recent transactions.  A 2011 Korean built Suezmax tanker is being offered for sale which should give good direction of where we stand on values for the semi-modern, non-eco ones.  We expect low 30’s will prove to be best case for this vessel.  
+ 
+Scorpio Bulkers continues its sales activity.  Five Ultramax and three Kamsarmax bulkcarriers have thus far been sold, raising over Usd 140 mill for its move into the offshore wind sector.  Values are moving sideways and this will remain the case for as long as the number of ships for sale remains high.
 
 ---
 
 ### Chartering Weekly Comment
 **Date:** 2020-10-21 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
-EAST Market expected activity East of Suez to pick up again with the release of the Aramco acceptances this week. But time of writing we are yet to see any real momentum, partly explained by more Saudi cargos allocated towards the 2nd half of the month. Based on monthly averages from previous months, there should still be a handful of 1H November cargoes out of the Middle East. While we are yet to reach 2H November fixing window, more cargoes should be coming to market.  WEST The VLGC market West of Suez has seen a couple of fixtures concluded thus far this week and there are seemingly a handful more enquiries left uncovered for end November and early December. Freight availability is relatively tight for November and when looking at the beginning of December positions there is a large chunk of vessels which haven't reached discharge ports yet. In turn, this uncertainty in discharge schedules currently creates difficulty in fixing vessels at the moment, something which will keep the market firm.
+EAST
+Market expected activity East of Suez to pick up again with the release of the Aramco acceptances this week. But time of writing we are yet to see any real momentum, partly explained by more Saudi cargos allocated towards the 2nd half of the month. Based on monthly averages from previous months, there should still be a handful of 1H November cargoes out of the Middle East. While we are yet to reach 2H November fixing window, more cargoes should be coming to market.
+
+WEST
+The VLGC market West of Suez has seen a couple of fixtures concluded thus far this week and there are seemingly a handful more enquiries left uncovered for end November and early December. Freight availability is relatively tight for November and when looking at the beginning of December positions there is a large chunk of vessels which haven't reached discharge ports yet. In turn, this uncertainty in discharge schedules currently creates difficulty in fixing vessels at the moment, something which will keep the market firm.
 
 ---

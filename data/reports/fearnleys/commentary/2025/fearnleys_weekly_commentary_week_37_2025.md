@@ -6,7 +6,7 @@ week: 37
 date_range: "2025-09-10 to 2025-09-12"
 comments_count: 10
 sectors: ["Dry Bulk", "Tankers", "Gas & LNG", "Sale and Purchase (S&P)"]
-generated_at: "2026-10-11 21:03:39"
+generated_at: "2026-10-12 13:31:43"
 ---
 
 # Fearnleys Weekly Broker Commentary - Week 37, 2025
@@ -55,7 +55,8 @@ Despite lacklustre volumes overall ex West Africa (we are on track to take at le
 ### Aframax Weekly Comment
 **Date:** 2025-09-10 | **Subtype:** Tank Weekly Comment | **Desk:** Fearnleys Research
 
-A handful of cargoes have been worked so far this week in the North Sea and rates have been corrected downward. Still some prompt vessels that needs to find employment, but some of them might find alternatives in the USG where rates been pushing up again for a usg/ta run. But even with some ships ballasting towards usg, we don’t expect rates in the North Sea to change anytime soon.  The Mediterranean market has been going sideways with limited activity and charterers reaching a bit datewise with some already looking for cover well into the 3rd decade of September. The tonnage list looks fairly balanced with some vessels ballasting out of the area and some ballasting in from a lackluster Cont market. Trend is still sideways, but with a downward pressure unless we see an increased activity level.
+A handful of cargoes have been worked so far this week in the North Sea and rates have been corrected downward. Still some prompt vessels that needs to find employment, but some of them might find alternatives in the USG where rates been pushing up again for a usg/ta run. But even with some ships ballasting towards usg, we don’t expect rates in the North Sea to change anytime soon. 
+The Mediterranean market has been going sideways with limited activity and charterers reaching a bit datewise with some already looking for cover well into the 3rd decade of September. The tonnage list looks fairly balanced with some vessels ballasting out of the area and some ballasting in from a lackluster Cont market. Trend is still sideways, but with a downward pressure unless we see an increased activity level.
 
 ---
 
@@ -70,7 +71,11 @@ With the party makers and Gastech shakers currently plying their trade throughou
 ### Gas Market Weekly Comment - Eastern Market
 **Date:** 2025-09-11 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
-Cash differentials for Oct FOB AG evenly split grade grew firmer, supported by strong butane demand. Buyers are bidding at CP minus low teens, yet to attract offers. IOC was reported to award their Q4 buy tender for evenly split cargo, with some on CFR basis at CP plus 40s, which lent support on netbacks to Oct FOBs. HPCL also issued buy tender to secure similar parcel for Oct and Nov delivery. By the time of writing, Oct CP was assessed at $550 and C3/C4 at $25. Oct/Nov CP was traded at $10 contango structure.   Spot terminal fee softened from earlier 5ish cpg to 4ish cpg for Oct liftings FOBs, as of strong freight. However, players are still actively lifting tons in view of current arbitrage to EAST and contango structure for forward months.    Window discussions slightly improved. 23kt C3 parcel for 1h Oct delivery basis Chiba was changed hand at Oct FEI minus $8.0, while similar parcel for 2h Oct delivery bid at minus $7.5 yet to entice seller appetite. Outside window limited talks on spot market as of ongoing Appec meetings. Most discussions are centered around changes on new trade flows, term negotiations due to the US-China tariff and USTR 301.
+Cash differentials for Oct FOB AG evenly split grade grew firmer, supported by strong butane demand. Buyers are bidding at CP minus low teens, yet to attract offers. IOC was reported to award their Q4 buy tender for evenly split cargo, with some on CFR basis at CP plus 40s, which lent support on netbacks to Oct FOBs. HPCL also issued buy tender to secure similar parcel for Oct and Nov delivery. By the time of writing, Oct CP was assessed at $550 and C3/C4 at $25. Oct/Nov CP was traded at $10 contango structure. 
+
+Spot terminal fee softened from earlier 5ish cpg to 4ish cpg for Oct liftings FOBs, as of strong freight. However, players are still actively lifting tons in view of current arbitrage to EAST and contango structure for forward months.  
+
+Window discussions slightly improved. 23kt C3 parcel for 1h Oct delivery basis Chiba was changed hand at Oct FEI minus $8.0, while similar parcel for 2h Oct delivery bid at minus $7.5 yet to entice seller appetite. Outside window limited talks on spot market as of ongoing Appec meetings. Most discussions are centered around changes on new trade flows, term negotiations due to the US-China tariff and USTR 301.
 
 ---
 
@@ -78,13 +83,19 @@ Cash differentials for Oct FOB AG evenly split grade grew firmer, supported by s
 ### SnP Weekly Comment
 **Date:** 2025-09-12 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
-Despite the ongoing support from the underlying freight markets, tanker SnP activity remains subdued. Modern assets remain particularly challenging to transact with a resilient bid/offer spread, while values of older tonnage appear to have bottomed out, leading sellers to hold back and reassess. In the mid-aged VLCC market, the scrubber-fitted FPMC KNIGHT (301K DWT Universal 2011) was sold for USD 55M.  Dry cargo markets are also yielding better-than-expected returns for owners. Although we are witnessing higher second-hand activity including more modern vessels changing hands, current rates are similarly consolidating sellers' expectations.  This week, Precious Shipping secured the wide beam ultramax sisters JAL KALPAVRIKSH/KALPATARU (66K DWT, Mitsui 2021) for USD 32.55 million each.
+Despite the ongoing support from the underlying freight markets, tanker SnP activity remains subdued. Modern assets remain particularly challenging to transact with a resilient bid/offer spread, while values of older tonnage appear to have bottomed out, leading sellers to hold back and reassess. In the mid-aged VLCC market, the scrubber-fitted FPMC KNIGHT (301K DWT Universal 2011) was sold for USD 55M.
+
+Dry cargo markets are also yielding better-than-expected returns for owners. Although we are witnessing higher second-hand activity including more modern vessels changing hands, current rates are similarly consolidating sellers' expectations.  This week, Precious Shipping secured the wide beam ultramax sisters JAL KALPAVRIKSH/KALPATARU (66K DWT, Mitsui 2021) for USD 32.55 million each.
 
 ---
 
 ### Chartering Weekly Comment
 **Date:** 2025-09-11 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
-EAST The earnings gap between East and West continues to widen, driven by robust US fixing activity and a relatively quiet week in the East, where many market participants are attending APPEC events and meetings in Singapore. A noticeable shift is emerging as more Chinese-controlled vessels seek cargos in the East, aiming to avoid exposure to US and the upcoming USTR penalties. With USTR measures expected to take effect in just over a month, a new normal in the East-West earnings spread may be expected to persist for a while. Meanwhile, the recent attack on Qatari soil is currently looking unlikely to impact security in the Strait of Hormuz, though the situation remains under close observation.  WEST An under fixed October US market took a run at the start of the week following the fixing spree in the Middle East week prior. Shipping positions East and West of Suez goes hand in hand as long as the majority of vessels ballast via Cape, leaving little or no surprises when it comes the visibility of vessel ETAs. At the time of writing there are very few relets in the USG for second half October, which subsequently sets expectation of a strong market to continue throughout the month.
+EAST
+The earnings gap between East and West continues to widen, driven by robust US fixing activity and a relatively quiet week in the East, where many market participants are attending APPEC events and meetings in Singapore. A noticeable shift is emerging as more Chinese-controlled vessels seek cargos in the East, aiming to avoid exposure to US and the upcoming USTR penalties. With USTR measures expected to take effect in just over a month, a new normal in the East-West earnings spread may be expected to persist for a while. Meanwhile, the recent attack on Qatari soil is currently looking unlikely to impact security in the Strait of Hormuz, though the situation remains under close observation.
+
+WEST
+An under fixed October US market took a run at the start of the week following the fixing spree in the Middle East week prior. Shipping positions East and West of Suez goes hand in hand as long as the majority of vessels ballast via Cape, leaving little or no surprises when it comes the visibility of vessel ETAs. At the time of writing there are very few relets in the USG for second half October, which subsequently sets expectation of a strong market to continue throughout the month.
 
 ---

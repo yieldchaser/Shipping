@@ -6,7 +6,7 @@ week: 1
 date_range: "2023-01-02 to 2023-01-04"
 comments_count: 13
 sectors: ["Dry Bulk", "Tankers", "Gas & LNG", "Sale and Purchase (S&P)"]
-generated_at: "2026-10-11 21:03:36"
+generated_at: "2026-10-12 13:31:40"
 ---
 
 # Fearnleys Weekly Broker Commentary - Week 01, 2023
@@ -33,7 +33,9 @@ It's normal for market activity to be slower after holidays, as many people are 
 ### Supramax Weekly Comment
 **Date:** 2023-01-04 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
-The mixed market for Supra and Ultra segments with rates obviously slowed down in both basins. Last week we saw an improvement in the Pacific due to the substantial volume of cargo ex-Nopac and ex-Australia submerged and helped to maintain steady earnings. This week Europe is still partly on holiday and the upcoming Russian Orthodox Christmas, adds to limited trading. We see rates falling in all basins.   All major loading areas in the Atlantic lack cargo inquiry. The Continent and Baltic region suffer the most due to the cold weather and limited cargo volume ex Russian territories. Ultramax fixed with grain cargo delivery Continent to West Africa at USD 15,000 pd. USG and USEC is stable with rates slightly down from last weeks; mv Seaboss 55,426 dwt dely SW Pass prompt trip via Mississippi River redely Morocco USD 19,750 pd.
+The mixed market for Supra and Ultra segments with rates obviously slowed down in both basins. Last week we saw an improvement in the Pacific due to the substantial volume of cargo ex-Nopac and ex-Australia submerged and helped to maintain steady earnings. This week Europe is still partly on holiday and the upcoming Russian Orthodox Christmas, adds to limited trading. We see rates falling in all basins. 
+
+All major loading areas in the Atlantic lack cargo inquiry. The Continent and Baltic region suffer the most due to the cold weather and limited cargo volume ex Russian territories. Ultramax fixed with grain cargo delivery Continent to West Africa at USD 15,000 pd. USG and USEC is stable with rates slightly down from last weeks; mv Seaboss 55,426 dwt dely SW Pass prompt trip via Mississippi River redely Morocco USD 19,750 pd.
 
 ---
 
@@ -84,7 +86,9 @@ Aframax rates in the Nsea have been under constantly downward pressure over xmas
 ### LNG Market Report
 **Date:** 2023-01-04 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
-Happy New Year to all our friends and colleagues! As we return to the office after a quiet holiday season, there has been an increase in activity and inquiries in the market. Several disponent owners are declaring their available vessels for subletting, while charterers are issuing potential charter inquiries, which is a positive sign for spot fixtures. The demand for LNG vessels remain firm, with long-term charters being secured in anticipation of increased energy demand amid geopolitical tensions around the world.  On the newbuild front, it has been reported orders for four firm 180,000m3 LNG vessels from China Merchants Heavy Industry (CMHI), with options for an additional four. With these orders, yet another yard in China, CMHI has entered the conventional-sized LNG newbuilding segment. With a string of SPAs announced at the tail end of 2022, we can only comment that 2023 promises to be yet another interesting LNG year, following the events of 2022.
+Happy New Year to all our friends and colleagues! As we return to the office after a quiet holiday season, there has been an increase in activity and inquiries in the market. Several disponent owners are declaring their available vessels for subletting, while charterers are issuing potential charter inquiries, which is a positive sign for spot fixtures. The demand for LNG vessels remain firm, with long-term charters being secured in anticipation of increased energy demand amid geopolitical tensions around the world.
+
+On the newbuild front, it has been reported orders for four firm 180,000m3 LNG vessels from China Merchants Heavy Industry (CMHI), with options for an additional four. With these orders, yet another yard in China, CMHI has entered the conventional-sized LNG newbuilding segment. With a string of SPAs announced at the tail end of 2022, we can only comment that 2023 promises to be yet another interesting LNG year, following the events of 2022.
 
 ---
 
@@ -98,7 +102,13 @@ Nothing from East this week
 ### Gas Market Weekly Comment - Western Market
 **Date:** 2023-01-02 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
-AMERICAS The Mont Belvieu propane market was in 2H 2022 detached from crude, the percentage to which fell to the upper 30 range. At the start of 2023 the relationship improved and presently equates to the low/mid 40% level. Propane inventories are a component of that as prices in the US have been reacting to the declines in stock levels. Today’s EIA data revealed an unexpectedly large 3.7mmbbl decline from 84.4mmbbls to a 30th Dec overall total inventory level of 80.70mmbbls. The market had been anticipating a decline of as much as 3.1mmmbbls, though the averages estimates were in the -2.8mmbbl range.   Meanwhile, terminal fees have improved significantly in 2023, having been heard/reported twice so far this year in the 8cpg range. This is very likely due to the precipitous declines in the freight arena, which have declined by 14% from the end of Dec, and 44% since mid-Dec. That market, in turn, is being affected by the improved rates of passage at the Panama Canal, which today stands at 2 days (North) and 2 days (South). Latin American demand has been seen improving as the recent winter weather system which enveloped the U.S. has made its way south, prompting higher propane consumption levels  NWE Considerable European imports from the US and North Sea have exceeded the unseasonably warm continent’s demand, positioning propane as the favorable choice for the European Crackers. In the first 15 days of the New Year alone, and estimated 360,000 tons of LPG is slated to discharge in Northwest Europe, a level but 10,000 metric tons below December total import volume. Spot freight on a Houston/ Flushing basis has been cut in half month on month, where it’s now being worked around $68.50/t (down from the low 130’s realized in December) allowing for more aggressive bids for US FOB propane cargos. The same cannot be said for butane, following an upswing in US Butane prices that effectively closed the arbitrage. Traders continue to bid for Handy and MGC cargos to take to NWE in January, However February large Cargos are now front of mind, with the expectation for more typically seen seasonal temperatures yet to come.
+AMERICAS
+The Mont Belvieu propane market was in 2H 2022 detached from crude, the percentage to which fell to the upper 30 range. At the start of 2023 the relationship improved and presently equates to the low/mid 40% level. Propane inventories are a component of that as prices in the US have been reacting to the declines in stock levels. Today’s EIA data revealed an unexpectedly large 3.7mmbbl decline from 84.4mmbbls to a 30th Dec overall total inventory level of 80.70mmbbls. The market had been anticipating a decline of as much as 3.1mmmbbls, though the averages estimates were in the -2.8mmbbl range.
+ 
+Meanwhile, terminal fees have improved significantly in 2023, having been heard/reported twice so far this year in the 8cpg range. This is very likely due to the precipitous declines in the freight arena, which have declined by 14% from the end of Dec, and 44% since mid-Dec. That market, in turn, is being affected by the improved rates of passage at the Panama Canal, which today stands at 2 days (North) and 2 days (South). Latin American demand has been seen improving as the recent winter weather system which enveloped the U.S. has made its way south, prompting higher propane consumption levels
+
+NWE
+Considerable European imports from the US and North Sea have exceeded the unseasonably warm continent’s demand, positioning propane as the favorable choice for the European Crackers. In the first 15 days of the New Year alone, and estimated 360,000 tons of LPG is slated to discharge in Northwest Europe, a level but 10,000 metric tons below December total import volume. Spot freight on a Houston/ Flushing basis has been cut in half month on month, where it’s now being worked around $68.50/t (down from the low 130’s realized in December) allowing for more aggressive bids for US FOB propane cargos. The same cannot be said for butane, following an upswing in US Butane prices that effectively closed the arbitrage. Traders continue to bid for Handy and MGC cargos to take to NWE in January, However February large Cargos are now front of mind, with the expectation for more typically seen seasonal temperatures yet to come.
 
 ---
 
@@ -106,6 +116,10 @@ AMERICAS The Mont Belvieu propane market was in 2H 2022 detached from crude, the
 ### Chartering Weekly Comment
 **Date:** 2023-01-02 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
-EAST  With first Baltic posting since 23rd December there was a large correction both East and West on Tuesday causing the daily TCE to fall from approximately USD 100k to below USD 70k in almost two weeks’ time. Freight ideas keep coming off and last done in the MEG was concluded at around USD 80 RT/C. We have still ‘only’ seen 13 spot deals concluded in January from the Middle East, but we expect to see more activity in the days to come with more people back from holidays.  WEST Currently we see 3 vessels left able to reach end Jan dates in USG – all owned by pure shipowners. In total we count 26 spot fixtures for January ex USG/USEC. Despite seeing freight rates drop quite drastically lately we are still seeing more Charterers than expected willing to fix ships. At the time of writing we have already seen 7 spot fixtures in ely Feb but the position list this period still looks a bit long with 7-8 open ships - all but two of them are trader relets. Last done fixture concluded at mid 120 H/C and 70 H/F.
+EAST 
+With first Baltic posting since 23rd December there was a large correction both East and West on Tuesday causing the daily TCE to fall from approximately USD 100k to below USD 70k in almost two weeks’ time. Freight ideas keep coming off and last done in the MEG was concluded at around USD 80 RT/C. We have still ‘only’ seen 13 spot deals concluded in January from the Middle East, but we expect to see more activity in the days to come with more people back from holidays.
+
+WEST
+Currently we see 3 vessels left able to reach end Jan dates in USG – all owned by pure shipowners. In total we count 26 spot fixtures for January ex USG/USEC. Despite seeing freight rates drop quite drastically lately we are still seeing more Charterers than expected willing to fix ships. At the time of writing we have already seen 7 spot fixtures in ely Feb but the position list this period still looks a bit long with 7-8 open ships - all but two of them are trader relets. Last done fixture concluded at mid 120 H/C and 70 H/F.
 
 ---

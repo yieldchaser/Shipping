@@ -6,7 +6,7 @@ week: 32
 date_range: "2019-08-05 to 2019-08-07"
 comments_count: 13
 sectors: ["Dry Bulk", "Tankers", "Gas & LNG", "Sale and Purchase (S&P)"]
-generated_at: "2026-10-11 21:03:32"
+generated_at: "2026-10-12 13:31:36"
 ---
 
 # Fearnleys Weekly Broker Commentary - Week 32, 2019
@@ -91,14 +91,24 @@ Weak end user demand mainly coming from North East Asia has held the product pri
 ### Gas Market Weekly Comment - Eastern Market
 **Date:** 2019-08-05 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
-MEG: Unexpected plunge in swap market in this week, following the crude. Thurs Sep CP is traded low at $335 only, $35 less than last Thur. Contango into Oct also shrank to $2 from previous $7.  However, butane spread against propane has improved from - $8 to $11, as of better demand and relatively long supply for propane overall. Qatar Petroleum is reported to sell an early Sep lifting full propane cargo to One Chinese buyer at Sep CP with some discounts.   FAR EAST: Very weak sentiment in the market this week. On Thursday window, propane for 1h Sep delivery is offered at Sep FEI minus $15, which equates to Sep CP plus $12, while buyer at minus $30! 2h Sep delivery is offered at $3-3.5 higher but still no buyers seen. Despite such discounts, off window some Japanese and Korean importers reflected with high stock level and they are reluctantly to do more stockpile, therefore such price still faced with downward pressures.   One N.China PDH user awarded their buy tender for 1h Sep arrival full C3 at reportedly Sep CP plus mid-60s. Nevertheless, the discussion level come off quick due to ample supply and softening freight. Bids on propane dropped to 50ish while equal ratio even cheaper as limited buyers available from China. There are some chances that less supply ex Iran might stimulate some demand for substitute cargos, however current poor margins with previous high inventory have exerted pressure and suppressed buyers’ appetites.    Whereas outside China, demand from India seems returning from previous stalemate. One Indian importer is reported seeking butane for Sep delivery, and several traders are procuring late Sep lifting equal ratio spot tons into India.
+MEG:
+Unexpected plunge in swap market in this week, following the crude. Thurs Sep CP is traded low at $335 only, $35 less than last Thur. Contango into Oct also shrank to $2 from previous $7. 
+However, butane spread against propane has improved from - $8 to $11, as of better demand and relatively long supply for propane overall. Qatar Petroleum is reported to sell an early Sep lifting full propane cargo to One Chinese buyer at Sep CP with some discounts. 
+
+FAR EAST:
+Very weak sentiment in the market this week. On Thursday window, propane for 1h Sep delivery is offered at Sep FEI minus $15, which equates to Sep CP plus $12, while buyer at minus $30! 2h Sep delivery is offered at $3-3.5 higher but still no buyers seen. Despite such discounts, off window some Japanese and Korean importers reflected with high stock level and they are reluctantly to do more stockpile, therefore such price still faced with downward pressures. 
+
+One N.China PDH user awarded their buy tender for 1h Sep arrival full C3 at reportedly Sep CP plus mid-60s. Nevertheless, the discussion level come off quick due to ample supply and softening freight. Bids on propane dropped to 50ish while equal ratio even cheaper as limited buyers available from China. There are some chances that less supply ex Iran might stimulate some demand for substitute cargos, however current poor margins with previous high inventory have exerted pressure and suppressed buyers’ appetites.  
+
+Whereas outside China, demand from India seems returning from previous stalemate. One Indian importer is reported seeking butane for Sep delivery, and several traders are procuring late Sep lifting equal ratio spot tons into India.
 
 ---
 
 ### Gas Market Weekly Comment - Western Market
 **Date:** 2019-08-05 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
-AMERICAS: The US market showed weakness after a larger than expected build of 2.8 million barrels. We are now nearly 17 million barrels over last year’s inventory level. This combined with the weakness in crude has made US NGLs weaker. The bearishness in US NGLs has been mirrored by delivered East and West markets. Which carried heavy physical discounts even before the inventory stats were released and larger discounts have been heard since. The effect of this has not yet been reflected in terminalling fees due to quiet FOB discussions. There is skepticism in buying FOBs with so much product in the market. Traders see the potential downside outweighing the potential upside at the moment for spot market trades.
+AMERICAS:
+The US market showed weakness after a larger than expected build of 2.8 million barrels. We are now nearly 17 million barrels over last year’s inventory level. This combined with the weakness in crude has made US NGLs weaker. The bearishness in US NGLs has been mirrored by delivered East and West markets. Which carried heavy physical discounts even before the inventory stats were released and larger discounts have been heard since. The effect of this has not yet been reflected in terminalling fees due to quiet FOB discussions. There is skepticism in buying FOBs with so much product in the market. Traders see the potential downside outweighing the potential upside at the moment for spot market trades.
 
 ---
 
@@ -106,6 +116,10 @@ AMERICAS: The US market showed weakness after a larger than expected build of 2.
 ### Chartering Weekly Comment
 **Date:** 2019-08-05 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
-WEST Following a very quiet fixing period for 1H August, and despite European and Korean/Japanese storage capacity being limited, there were a number of fixtures for the final decade of August this week. Given that the state of the product side did not seem especially conducive to lifting, it seems players either took advantage of cheaper freight which had been locked in previously or sold cargoes on a FOB basis and relet their vessels. Since this flurry of fixtures, freight has seemed slightly shorter in the West than it has been in the last couple of months. Going forward, the direction of rates will depend on 1H September cargoes and whether or not the peak of hurricane season in the USG will bring any delays.     EAST In the East this week, freight rates have remained under pressure as we move closer to the next fixing window in September. There have been few deals concluded, but each has been a couple of dollars below the last Baltic print. Given that it is unlikely there will be many more cargoes to help absorb vessel availability for the remainder of this month, it is likely further pressure will be faced in the short term.
+WEST
+Following a very quiet fixing period for 1H August, and despite European and Korean/Japanese storage capacity being limited, there were a number of fixtures for the final decade of August this week. Given that the state of the product side did not seem especially conducive to lifting, it seems players either took advantage of cheaper freight which had been locked in previously or sold cargoes on a FOB basis and relet their vessels. Since this flurry of fixtures, freight has seemed slightly shorter in the West than it has been in the last couple of months. Going forward, the direction of rates will depend on 1H September cargoes and whether or not the peak of hurricane season in the USG will bring any delays.   
+
+EAST
+In the East this week, freight rates have remained under pressure as we move closer to the next fixing window in September. There have been few deals concluded, but each has been a couple of dollars below the last Baltic print. Given that it is unlikely there will be many more cargoes to help absorb vessel availability for the remainder of this month, it is likely further pressure will be faced in the short term.
 
 ---

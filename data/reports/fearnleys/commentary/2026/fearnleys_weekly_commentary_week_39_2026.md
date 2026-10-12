@@ -6,7 +6,7 @@ week: 39
 date_range: "2026-09-23 to 2026-09-25"
 comments_count: 9
 sectors: ["Dry Bulk", "Tankers", "Gas & LNG", "Sale and Purchase (S&P)"]
-generated_at: "2026-10-11 21:03:40"
+generated_at: "2026-10-12 13:31:44"
 ---
 
 # Fearnleys Weekly Broker Commentary - Week 39, 2026
@@ -63,7 +63,13 @@ Rates for local North Sea voyages are reaching record levels and owners are tryi
 ### LNG Market Report
 **Date:** 2026-09-23 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
-After a quiet start to the week, with the market regrouping after a busy Gastech, we now see a surge of firm spot requirements for October laycans particularly in the Atlantic. This renewed demand has started to spur gains in rate expectations, and with several competing cargoes being worked this week, there are encouraging signs of further upward pressure.  Availability does still looks comfortable for first-half October, but pricing through to November is already commanding a sentiment driven premium, given the potential for increased winter production amidst seasonally low storage in Europe and incremental demand in parts of Asia. Portfolios seem likely to hold back tonnage for the time being as these events play out, but we could quickly see a change in the dynamic, with charterers competing for limited flexible open tonnage amidst higher LNG prices heading into winter.  Similarly in the East, on the surface the availability list continues to look extensive. However, since most tonnage is open prompt, the 2H October fixing window is a challenging ask of owners to lock in idle time at prevailing rates just as the market begins to simmer. This is creating some forward scarcity, while fresh demand in the Middle East and cargoes loading out of West Africa also pulling on tonnage adds further competition to Pacific cargoes.  Multi-month and multi-year interest continues, but with the spot market on the turn and Middle East volatility persisting, pricing winter and beyond is becoming increasingly challenging. Whatever the coming weeks bring, it’s unlikely to be dull!
+After a quiet start to the week, with the market regrouping after a busy Gastech, we now see a surge of firm spot requirements for October laycans particularly in the Atlantic. This renewed demand has started to spur gains in rate expectations, and with several competing cargoes being worked this week, there are encouraging signs of further upward pressure.
+
+Availability does still looks comfortable for first-half October, but pricing through to November is already commanding a sentiment driven premium, given the potential for increased winter production amidst seasonally low storage in Europe and incremental demand in parts of Asia. Portfolios seem likely to hold back tonnage for the time being as these events play out, but we could quickly see a change in the dynamic, with charterers competing for limited flexible open tonnage amidst higher LNG prices heading into winter.
+
+Similarly in the East, on the surface the availability list continues to look extensive. However, since most tonnage is open prompt, the 2H October fixing window is a challenging ask of owners to lock in idle time at prevailing rates just as the market begins to simmer. This is creating some forward scarcity, while fresh demand in the Middle East and cargoes loading out of West Africa also pulling on tonnage adds further competition to Pacific cargoes.
+
+Multi-month and multi-year interest continues, but with the spot market on the turn and Middle East volatility persisting, pricing winter and beyond is becoming increasingly challenging. Whatever the coming weeks bring, it’s unlikely to be dull!
 
 ---
 
@@ -71,13 +77,19 @@ After a quiet start to the week, with the market regrouping after a busy Gastech
 ### SnP Weekly Comment
 **Date:** 2026-09-25 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
-The frenzied tanker market further intensified this week as record earnings prove irresistible to buyers. Upward revisions on pricing are happening almost hourly, and sellers of units who have held out thus far are reaping the rewards for their patience. Buyers a fighting amongst themselves over the few super prompt ships left, and candidates further afield are now also coming into play. 13-year-old Scrubber fitted SEAKING (319k dwt Hyundai 2013) was sold for a staggering USD 177M, 10% above the amount Trafigura paid for a resale VLCC before the summer, just to put things into perspective. Behind the scenes, suezmax candidates are being closely negotiated, many likely to be concluded over the next few days renewing benchmarks further.   The dry market continues to operate in the shadow of the tanker space, with less activity this week likely due to mid autumn celebrations across Asia. Rates are holding at strong levels across the board, giving support to the valuations in the market. This week GCL HAZIRA (81k dwt Nantong COSCO 2021) sold to German buyers for USD 38.8M.
+The frenzied tanker market further intensified this week as record earnings prove irresistible to buyers. Upward revisions on pricing are happening almost hourly, and sellers of units who have held out thus far are reaping the rewards for their patience. Buyers a fighting amongst themselves over the few super prompt ships left, and candidates further afield are now also coming into play. 13-year-old Scrubber fitted SEAKING (319k dwt Hyundai 2013) was sold for a staggering USD 177M, 10% above the amount Trafigura paid for a resale VLCC before the summer, just to put things into perspective. Behind the scenes, suezmax candidates are being closely negotiated, many likely to be concluded over the next few days renewing benchmarks further. 
+
+The dry market continues to operate in the shadow of the tanker space, with less activity this week likely due to mid autumn celebrations across Asia. Rates are holding at strong levels across the board, giving support to the valuations in the market. This week GCL HAZIRA (81k dwt Nantong COSCO 2021) sold to German buyers for USD 38.8M.
 
 ---
 
 ### Chartering Weekly Comment
 **Date:** 2026-09-23 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
-WEST The positive momentum seen at the end of last week continued into the start of this week, with freight rates moving higher as vessel availability tightened and the arbitrage improved. Mid-October positions were quickly taken up, leaving charterers with fewer options and giving owners greater confidence. Although fixture activity has slowed in recent days, the market remains firm. Relets have gradually been absorbed back into FOB programmes, further reducing the number of available ships for the remaining October cargoes. With tonnage supply continuing to tighten, owners remain in a strong position and freight levels are expected to stay well supported.  EAST In the East, activity remains focused on short-term employment, with continued interest in short-period time charters for STS operations via Sohar and Vadinar. This provides owners with an attractive alternative to the spot market and keeps more vessels in the region. As a result, fewer ships are expected to move West, helping to maintain a tighter tonnage balance.
+WEST
+The positive momentum seen at the end of last week continued into the start of this week, with freight rates moving higher as vessel availability tightened and the arbitrage improved. Mid-October positions were quickly taken up, leaving charterers with fewer options and giving owners greater confidence. Although fixture activity has slowed in recent days, the market remains firm. Relets have gradually been absorbed back into FOB programmes, further reducing the number of available ships for the remaining October cargoes. With tonnage supply continuing to tighten, owners remain in a strong position and freight levels are expected to stay well supported.
+
+EAST
+In the East, activity remains focused on short-term employment, with continued interest in short-period time charters for STS operations via Sohar and Vadinar. This provides owners with an attractive alternative to the spot market and keeps more vessels in the region. As a result, fewer ships are expected to move West, helping to maintain a tighter tonnage balance.
 
 ---

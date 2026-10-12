@@ -6,7 +6,7 @@ week: 48
 date_range: "2021-11-29 to 2021-12-01"
 comments_count: 14
 sectors: ["Dry Bulk", "Tankers", "Gas & LNG", "Sale and Purchase (S&P)"]
-generated_at: "2026-10-11 21:03:34"
+generated_at: "2026-10-12 13:31:39"
 ---
 
 # Fearnleys Weekly Broker Commentary - Week 48, 2021
@@ -84,21 +84,40 @@ The Nsea/Baltic market inevitably hit a new bottom this week as charterers had a
 ### LNG Market Report
 **Date:** 2021-11-30 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
-Following a flurry of sublet activity and market volatility in LNG these past couple of months, it appears we may finally be peaking and on trajectory to softer markets. Although Asian LNG prices remain relatively elevated in recent days off the back of stronger than usual European gas, it seems shipping rates have plateaued in part due to growing spot availability from subletters keen to get a taste for record high shipping rates. Optimization has surely been key to lucrative trading reported, with most sublets seen from portfolio players and traders dominating the vessel list. On term shipping, given a fair few vessel redeliveries to Head Owners are expected within Q1 of 2022, several multi-month and short term enquiries appear to be on hold with Owners and Charterers as they evaluate the market and consider their approach. That said, we still do see and expect continued activity on the term market as Charterers seek coverage through 2022, with some even issuing requirements earlier than expected.  On the newbuilding front, it was an active week with Qatari, Asian and Greek Owners all adding to their newbuilding orderbook in Korea.
+Following a flurry of sublet activity and market volatility in LNG these past couple of months, it appears we may finally be peaking and on trajectory to softer markets. Although Asian LNG prices remain relatively elevated in recent days off the back of stronger than usual European gas, it seems shipping rates have plateaued in part due to growing spot availability from subletters keen to get a taste for record high shipping rates. Optimization has surely been key to lucrative trading reported, with most sublets seen from portfolio players and traders dominating the vessel list. On term shipping, given a fair few vessel redeliveries to Head Owners are expected within Q1 of 2022, several multi-month and short term enquiries appear to be on hold with Owners and Charterers as they evaluate the market and consider their approach. That said, we still do see and expect continued activity on the term market as Charterers seek coverage through 2022, with some even issuing requirements earlier than expected.
+
+On the newbuilding front, it was an active week with Qatari, Asian and Greek Owners all adding to their newbuilding orderbook in Korea.
 
 ---
 
 ### Gas Market Weekly Comment - Eastern Market
 **Date:** 2021-11-29 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
-MEG Saudi Aramco set Dec CP at $795 for Propane and $750 for Butane, down by $75 and $80 respectively compared to Nov. Previously in 1st and 2nd recommendation, some term lifters have recommended at above $800 for both grades. Jan CP for propane tumbled to $630 and C3/C4 narrowed down to $5-10, partly caused by the volatile crude over uncertain impacts by the new variant.  Qatar Petroleum announced their Jan acceptance with some delays reported.   FAR EAST A handful of deals been concluded in window this week, but cash differentials weakened in Jan delivered market. 23kt propane for 2h Jan delivery was traded from Jan FEI plus $4 to minus $2, reflecting the bearish sentiment amid high volatility.   Outside window, One Korean petchem player tendered to buy 23/23 or 23/0 or 0/23 parcel for mid Jan delivery into Daesan and awarded for 23/0 parcel at FEI plus single digit premium. Another Korean importer also tendered to buy 23kt propane for 6-10 Jan delivery into Daesan which is due on Friday. One EChina petchem plant issued buy tender to secure in total 46kt propane for 1h/Mid Jan delivery for cracking use.
+MEG
+Saudi Aramco set Dec CP at $795 for Propane and $750 for Butane, down by $75 and $80 respectively compared to Nov. Previously in 1st and 2nd recommendation, some term lifters have recommended at above $800 for both grades. Jan CP for propane tumbled to $630 and C3/C4 narrowed down to $5-10, partly caused by the volatile crude over uncertain impacts by the new variant. 
+Qatar Petroleum announced their Jan acceptance with some delays reported. 
+
+FAR EAST
+A handful of deals been concluded in window this week, but cash differentials weakened in Jan delivered market. 23kt propane for 2h Jan delivery was traded from Jan FEI plus $4 to minus $2, reflecting the bearish sentiment amid high volatility. 
+
+Outside window, One Korean petchem player tendered to buy 23/23 or 23/0 or 0/23 parcel for mid Jan delivery into Daesan and awarded for 23/0 parcel at FEI plus single digit premium. Another Korean importer also tendered to buy 23kt propane for 6-10 Jan delivery into Daesan which is due on Friday. One EChina petchem plant issued buy tender to secure in total 46kt propane for 1h/Mid Jan delivery for cracking use.
 
 ---
 
 ### Gas Market Weekly Comment - Western Market
 **Date:** 2021-11-29 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
-AMERICAS The sky is probably NOT falling but it sure feels like it. Lack of weather across the US has caused propane prices to crash from a 1.41 per gallon a month ago to 97 cents per gallon today.  The inventory situation, which a month ago looked as though the US would not have enough product to cover first quarter export demand,  is no longer an issue. Talk of 10 percent production growth, the lack of weather and falling Asian demand,  have all contributed,  but the bottom line is, we are not running out of product. The weekly number showed a draw of 1 million barrels which had little effect on the market.  Terminal  fees have continued to fall with Jan cargos bid at 4.50 cpg and sellers at just under 6.  NWE  The European market seems to be the only one which knows what winter is! CIF ARA continues to show relative strength in the context of FEI losing over $50pmt today and Mt Belvieu propane dipping under the dollar mark for the first time in months. Europe is feeling winter weather already and is forecast to have coldest winter in 30 years. But that is not the whole story as PDHs started buying again in December and January, ramping up imports from the US. And local supply continues to be around 36% less than usual as LPG is spiked into the natural gas stream. The arb East coming in has the December East/West spread at +$32 and more US loading VLGCs looking to come to the region. A seen by today’s window offer of a full propane VLGC cargo for end December arrival at December CIF ARA flat. This offer was basis 1 port with EU qualifications for buyer and equivalent to an offer of CIF ARA +$5pmt for a TOT stem.   MED The market is calm in the region and it seems buyers are waiting to see offers before showing their hand. Cold weather is being felt and demand is increasing, although this is yet to translate to action in the market.
+AMERICAS
+The sky is probably NOT falling but it sure feels like it. Lack of weather across the US has caused propane prices to crash from a 1.41 per gallon a month ago to 97 cents per gallon today. 
+The inventory situation, which a month ago looked as though the US would not have enough product to cover first quarter export demand,  is no longer an issue. Talk of 10 percent production growth, the lack of weather and
+falling Asian demand,  have all contributed,  but the bottom line is, we are not running out of product. The weekly number showed a draw of 1 million barrels which had little effect on the market. 
+Terminal  fees have continued to fall with Jan cargos bid at 4.50 cpg and sellers at just under 6.
+
+NWE 
+The European market seems to be the only one which knows what winter is! CIF ARA continues to show relative strength in the context of FEI losing over $50pmt today and Mt Belvieu propane dipping under the dollar mark for the first time in months. Europe is feeling winter weather already and is forecast to have coldest winter in 30 years. But that is not the whole story as PDHs started buying again in December and January, ramping up imports from the US. And local supply continues to be around 36% less than usual as LPG is spiked into the natural gas stream. The arb East coming in has the December East/West spread at +$32 and more US loading VLGCs looking to come to the region. A seen by today’s window offer of a full propane VLGC cargo for end December arrival at December CIF ARA flat. This offer was basis 1 port with EU qualifications for buyer and equivalent to an offer of CIF ARA +$5pmt for a TOT stem. 
+
+MED
+The market is calm in the region and it seems buyers are waiting to see offers before showing their hand. Cold weather is being felt and demand is increasing, although this is yet to translate to action in the market.
 
 ---
 
@@ -106,13 +125,21 @@ AMERICAS The sky is probably NOT falling but it sure feels like it. Lack of weat
 ### SnP Weekly Comment
 **Date:** 2021-11-29 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
-We continue to see the Dry snp markets gradually adjust to the corrected rates we have seen settle throughout these past weeks. A correction in values that becomes particularly apparent for tonnage that is 5 years and older where levels achieved are 10 to 15% lower than most recent transactions. Modern units are showing more resistance being supported by high newbuilding prices which allow sellers to maintain their targets which remain, in comparison to NB, a more enticing offer. A dynamic that is particularly well illustrated by the resale of a Japanese controlled  Capesize which was sold to Diana Shipping at Usd 60m. The vessel is being built at Namura Shipyard and is scheduled for delivery in April 2022. Similarly in the Ultramax front where a resale delivering in 2023 from Tsuneishi Zhoushan achieved USD 34.5m. With forward curves showing signs of levelling off we expect values to move sideways in this end of year with lower volumes of transactions.  Uneventful close of the week on the Tanker front with very little change from our last report. Most of the activity continues to be captured by the Product sector with a number of mid 2000 built MRs changing hands. Values remain flat in a market where this renewed buying interest is met with a steady flow of sales candidates. Worth noting that offers were invited on two 10 year old Aframax units; understand that up to 10 outright bids were collected which is tribute to the positive underlying sentiment witnessed in the Tanker space.
+We continue to see the Dry snp markets gradually adjust to the corrected rates we have seen settle throughout these past weeks. A correction in values that becomes particularly apparent for tonnage that is 5 years and older where levels achieved are 10 to 15% lower than most recent transactions. Modern units are showing more resistance being supported by high newbuilding prices which allow sellers to maintain their targets which remain, in comparison to NB, a more enticing offer. A dynamic that is particularly well illustrated by the resale of a Japanese controlled  Capesize which was sold to Diana Shipping at Usd 60m. The vessel is being built at Namura Shipyard and is scheduled for delivery in April 2022. Similarly in the Ultramax front where a resale delivering in 2023 from Tsuneishi Zhoushan achieved USD 34.5m. With forward curves showing signs of levelling off we expect values to move sideways in this end of year with lower volumes of transactions.
+
+Uneventful close of the week on the Tanker front with very little change from our last report. Most of the activity continues to be captured by the Product sector with a number of mid 2000 built MRs changing hands. Values remain flat in a market where this renewed buying interest is met with a steady flow of sales candidates. Worth noting that offers were invited on two 10 year old Aframax units; understand that up to 10 outright bids were collected which is tribute to the positive underlying sentiment witnessed in the Tanker space.
 
 ---
 
 ### Chartering Weekly Comment
 **Date:** 2021-11-29 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
-EAST After an active last week in the East, the pace of fixing has naturally slowed down. Reports from India suggests a couple of PSU cargoes remaining on December laycans and one is already being worked at the time of writing. While there still remain a few potential December vessels in the East, those not finding suitable cargoes there, are likely to continue sailing towards US or other load regions. As such, not any noteworthy overhang is expected into January.  WEST The West freight market has taken a downturn since last time of writing. From last week’s high of USD 118 Houston/Chiba via Panama and low/mid USD 60 Houston/Flushing, the latest deal done is now some three to four dollars below on both routes.  Just three weeks ago, the fixing window was focused on laycans up to 40-50 days ahead whereas the current fixing window has been reduced to about 30-40 days ahead. At the time of writing, there are seemingly more relets than owner-controlled vessels open during end December and first decade January combined, however, the fact is that the balance of open vessels hasn’t changed much and we are likely to see a range of fixing activity once the product market finds its feet.
+EAST
+After an active last week in the East, the pace of fixing has naturally slowed down. Reports from India suggests a couple of PSU cargoes remaining on December laycans and one is already being worked at the time of writing. While there still remain a few potential December vessels in the East, those not finding suitable cargoes there, are likely to continue sailing towards US or other load regions. As such, not any noteworthy overhang is expected into January.
+
+WEST
+The West freight market has taken a downturn since last time of writing. From last week’s high of USD 118 Houston/Chiba via Panama and low/mid USD 60 Houston/Flushing, the latest deal done is now some three to four dollars below on both routes.
+
+Just three weeks ago, the fixing window was focused on laycans up to 40-50 days ahead whereas the current fixing window has been reduced to about 30-40 days ahead. At the time of writing, there are seemingly more relets than owner-controlled vessels open during end December and first decade January combined, however, the fact is that the balance of open vessels hasn’t changed much and we are likely to see a range of fixing activity once the product market finds its feet.
 
 ---
