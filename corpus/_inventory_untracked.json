@@ -12,8 +12,8 @@
     },
     {
       "path": "corpus/03-breakwave",
-      "untracked_files": 18,
-      "untracked_bytes": 2338606
+      "untracked_files": 9,
+      "untracked_bytes": 2035986
     },
     {
       "path": "corpus/04-poten",
@@ -34953,26 +34953,6 @@
       "sha256": "066582db56bbda3fc184d7f0879b3c2f90d81558cb1f1296a1a3ab485ad21f66"
     },
     {
-      "path": "corpus/03-breakwave/insights/2026/2026-10-12_coal-indias-stockpiles-continue-to-decline.html",
-      "bytes": 4305,
-      "sha256": "6d8e8293c8bb7ef7b9a3fdd585f95606cf1a27535f12211ce971e5c28a8f8ffc"
-    },
-    {
-      "path": "corpus/03-breakwave/insights/2026/2026-10-12_coal-indias-stockpiles-continue-to-decline.md",
-      "bytes": 2998,
-      "sha256": "30d5cfcb092201f55f193e7df445af3a69350fe15031458e28428896d24d8c23"
-    },
-    {
-      "path": "corpus/03-breakwave/insights/2026/2026-10-12_damage-control.html",
-      "bytes": 6191,
-      "sha256": "8c51e9ffbbdfc9bcc0620a6b6b8b250360de3067b9e3eacc93f6fffc91e47521"
-    },
-    {
-      "path": "corpus/03-breakwave/insights/2026/2026-10-12_damage-control.md",
-      "bytes": 4925,
-      "sha256": "d06077ae1dd48eb0902441d1f325d932418bb0e7e2fa775ccd04e17f576807d1"
-    },
-    {
       "path": "corpus/03-breakwave/insights/2026/assets/2026-09-21_vlccs-rewrite-the-record-books_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_55d694cfa169.png",
       "bytes": 69365,
       "sha256": "9848c9a3aaba37a9e84f8cd2263fff62c7771135c466216f51114381d1621e5f"
@@ -35016,31 +34996,6 @@
       "path": "corpus/03-breakwave/insights/2026/assets/2026-10-05_running-out-of-room_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_8d22e0173100.png",
       "bytes": 42299,
       "sha256": "a830e87a5263e40fc2f82fafdc9f3102ee9a4edbff2d7ea7e0258d547c5fd776"
-    },
-    {
-      "path": "corpus/03-breakwave/insights/2026/assets/2026-10-12_coal-indias-stockpiles-continue-to-decline_img_chart1_89848183b55e.jpg",
-      "bytes": 76157,
-      "sha256": "7b2aed79fb340ca12921a2f4c8bcfbee25deb805953cb6a3cc83a19823ca9e58"
-    },
-    {
-      "path": "corpus/03-breakwave/insights/2026/assets/2026-10-12_coal-indias-stockpiles-continue-to-decline_img_chart2_ce9b174e4c0d.jpg",
-      "bytes": 92435,
-      "sha256": "0aa022e9fe04a934cea85edecbccba223e69a71f3adf037c6ad58e958e207f1b"
-    },
-    {
-      "path": "corpus/03-breakwave/insights/2026/assets/2026-10-12_coal-indias-stockpiles-continue-to-decline_img_chart3_a022f8874b58.jpg",
-      "bytes": 39092,
-      "sha256": "81bdc05d14c0296fa9a10c5b8a75de0effbd2a85d253153a61f9c4e8fd9b7cc0"
-    },
-    {
-      "path": "corpus/03-breakwave/insights/2026/assets/2026-10-12_damage-control_img_1-tanker-smoke_32eb2229ad66.jpg",
-      "bytes": 40328,
-      "sha256": "d2227f9ca11ff2c26e3580891238c211594890fecb943a76b9b42d5ee6784ff6"
-    },
-    {
-      "path": "corpus/03-breakwave/insights/2026/assets/2026-10-12_damage-control_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_98bdb4f1f7e8.png",
-      "bytes": 36189,
-      "sha256": "6c6eecaca712e98184370a78e925508097f5d0b76560345b3e3c9824cb687cfc"
     },
     {
       "path": "corpus/04-poten/pdfs/2004/Tanker_Opinion_20040102.pdf",
